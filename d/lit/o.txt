@@ -17,7 +17,7 @@ Occlusive	انسدادي
 Occurrency	وُرُود
 octave	ثمانية، مقطع ثماني
 oddity	غَرَابة
-ode	قصيدة غنائية
+ode	قصيدة غنائية / قصيدة غنائية، مدح
 Off - stage	خارج الرّكح
 Off - stage character	المُمثل المَخْفي
 Official scene	المشهد الرّسمي
@@ -57,7 +57,7 @@ oratio recta	خطاب مباشر
 oration	تأبين
 orator	خطيب
 Oratorio	الإنشاد الدّيني
-oratory	فَصَاحَة
+oratory	فَصَاحَة / خطابة، بلاغة الخطاب
 Orchestra pit	مكان العازفين
 Order	نِظَام
 Order of Discourse	ترتيب الخطاب
@@ -91,5 +91,5 @@ Overlap (in Conversation)	التّداخل في المحادثة
 Overlexicalization	المبالغة المعجميّة
 overshadowing	تخفٍّ، استتار
 Overt Prestige	المكانة اللُّغويّة الظّاهرة
-Oxymoron	تَضَادٌّ
+Oxymoron	تَضَادٌّ / مفارقة مركبة
 Oxyton	مَنْبُور الأخير

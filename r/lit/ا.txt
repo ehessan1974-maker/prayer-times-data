@@ -211,7 +211,7 @@
 استنباط	deduction
 استنتاجيّ	Deductive
 استنطاق	Interpellation
-اسْتِهـلال	exergue
+اسْتِهـلال	exergue / anaphora
 استيعاب	assimilation
 اسْتيفاء	exhaustive
 أُسطورة	legend / myth
@@ -839,7 +839,7 @@
 الدّور في الحديث	Floor
 الدّور في المحادثة	Turn in Conversation
 الدّين	Religion
-الذّاتيّة	Subjectivity
+الذّاتيّة	Subjectivity / romanticism
 الذّاتيّة البينيّة	Intersubjectivity
 الذُّرْوة	Summit
 الذّعر الأخلاقيّ	Moral Panic
@@ -1203,7 +1203,7 @@
 اللُّغويّات النّقديّة	Critical Linguistics
 اللُّغويّات الوظيفيّة النّظاميّة	Systemic Functional Linguistics (SFL)
 اللُّغويّات والكلام	Langue, Parole Langue
-اللّفظ	Utterance
+اللّفظ	Utterance / diction
 اللّفظ المُتلقّى	Received Pronunciation (RP)
 اللفظي	literal meaning
 اللّكنة	Accent
@@ -1630,7 +1630,7 @@
 انسداد	Occlusion
 انسدادي	Occlusive
 إنشاء فضاء بحثيّ CARS	CARS
-إنشاد	recitation
+إنشاد	recitation / inshad
 انشطار	Breaking
 أنشودة وُسْطوية	gest song
 أنشودة، أغنيـة	song
@@ -1687,7 +1687,7 @@
 إيبونكس	Ebonics
 إيثنولوغ	Ethnologue
 إيثوسية (ال...)، سمات تراثية مميزة	ethos
-إيجاز	abridgement
+إيجاز	abridgement / ellipsis
 إيحاء	Connotation
 إيديولُوجيـا	ideology
 أيديولوجيّة	Ideology

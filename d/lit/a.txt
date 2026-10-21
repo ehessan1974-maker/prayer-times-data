@@ -30,7 +30,7 @@ academic	مَجمعي، أكاديميّ
 Academic costume-designer	مصمّم الأزياء الأكاديمي
 Academic Literacy (-ies)	المعرفة الأكاديميّة
 academy	مَجمع، أكاديمية
-Accent	لُكْنَة / نبرة، لكنة / اللّكنة
+Accent	لُكْنَة / نبرة، لكنة / اللّكنة / نبر، شدة
 Accent mark	عَلاَمة النبر
 Accentology	نَبْرِيات
 Accentual group	مجموعة نبرية
@@ -172,8 +172,8 @@ alienation	استلاب
 Alienation effect	أثر الغرابة
 allegoresis	ترميزيّ، استعاريّ
 allegorical interpretation	التأويل الرمزي
-allegory	قصص رمزيّ / التّرميز
-Alliteration	جِنَاس استهلالي
+allegory	قصص رمزيّ / التّرميز / رمزية تمثيلية، مجاز تمثيلي
+Alliteration	جِنَاس استهلالي / جناس، تكرار الحرف
 Allocutaire	مُخَاطَب
 Allocution	خِطَاب
 Allograph	بَدْخَطِّي (بديل خطي)
@@ -197,7 +197,7 @@ Alveolar	نُخْرُوبي، نطعي، سِنْخِي / الصّوت السّ�
 Alveopalatal	حَنَكي نُخْرُوبي، حنكي لثوي
 Amalgam	دَمْج، ملغمة
 Amalgamating language	لغات دَمْجِية
-ambiguity	غموض، إبهام / لَبْس / الغُموض
+ambiguity	غموض، إبهام / لَبْس / الغُموض / الالتباس، تعدد المعنى
 Ambilingual; Balanced Bilingual	ثنائيّ اللُّغة المتوازنة
 ambivalence	ازدواجية، تناقض مشاعر
 Ambivalent word	لَفْظ من الأضداد
@@ -233,7 +233,7 @@ anamnesis	بَعْث
 anamorphosis	تشويه، تزييغ / التّزييغ
 anapest	أنابست (تفعيلة)
 Anaphor	عائد
-anaphora	لازمة سردية
+anaphora	لازمة سردية / تكرار الافتتاح، استهلال
 Anaphoric	عائدي
 Anaphoric (Reference)	الكلمة المرجعيّة
 anarchism	فوضوية
@@ -258,14 +258,14 @@ Ann Arbor Trial	Ann Arbor محاكمة مدينة
 annals	حوليات
 annex	مُلحـق
 Annexation	إضافة
-annotation	حاشية
+annotation	حاشية / تعليق، حاشية
 Announcement	الإعلان
 Announcer	المُعلن
 annuncitation	ملفوظيـة
 Anomalie	شذوذ
 anomaly	شُذوذ
 anonymous	مجهول
-antagonist	بطل أساسي معارض / الشّخصية المُضادّة
+antagonist	بطل أساسي معارض / الشّخصية المُضادّة / الخصم، الشخصية المقابلة
 Antanaclasis	ترديد
 Antecedent	معود عليه
 Antepenultiem	سابق لما قبل الأخير
@@ -298,7 +298,7 @@ Antimentalism	لا ذهنية
 Antique comedy	الملهاة القديمة
 antiquity	عصور قديمة
 Antitheatre	اللاّمسرح
-antithesis	تَضاد، تَناقُض / طباَق
+antithesis	تَضاد، تَناقُض / طباَق / طباق، تضاد
 Antonomasia	الاستعارة المجرّدة
 Antonym	مضاد
 antonym connotation	دلالة مصاحبة مستقلة
@@ -398,7 +398,7 @@ Assistant stage manager	قَيّم الاستدالة
 association of ideas	تداعي الأفكار
 associative	جماعيّ
 Associative relations	علاقات التداعي، علاقات منسقية
-Assonance	جِنَاس صوتي
+Assonance	جِنَاس صوتي / سجع، توافق الأصوات
 Asterisk	نُجيمة
 Asyllabic	لا مَقْطَعي
 asymbolic	لاَ رَمْزي

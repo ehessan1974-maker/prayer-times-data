@@ -61,11 +61,11 @@ verification	تَحقُّق
 Verisimilitude	الاستلاحة
 Verismo	الحقائقية
 verity	حقيقـة
-Vernacular	اللّهجة العاميّة
+Vernacular	اللّهجة العاميّة / عامية، لهجة شعبية
 Vernacular language	دَارِجَة
 Verner's law	قانون فيرنير
 verse	بيت شعر، مقطع، شطر
-versification	نَظْم الشعر
+versification	نَظْم الشعر / نظم الشعر، علم القافية والعروض
 versifier	منظم للشعر، محوّل إلى شعر
 version	صيغة
 Versus	ضِدّ

@@ -25,7 +25,7 @@ real	واقع
 real conscience	وَعي واقعيّ
 real effect	أثرٌ واقـعيّ
 Real Time	الوقت الفعليّ
-realism	واقعية
+realism	واقعية / الواقعية
 Reality effect	أثر الواقع
 Realization	تحقيق / إدراك
 Reallocation	إعادة تخصيص
@@ -113,7 +113,7 @@ Repartee	الرّد الحاضر
 Repeater	المُعيد
 Repertoire	المخزون اللُّغويّ
 Repertory	المخزون المسرحي
-repetition	تَكْرار / التّكرار
+repetition	تَكْرار / التّكرار / تكرار، رد العجز
 Rephonologization	تغيير التقابل الصوتي
 replic	حُجَّة دامغة
 Reply	استجابة / المُخاطَبة
@@ -144,7 +144,7 @@ Rewrite rule	إعادة الكتابة
 rewriting	إعادة الكتابة
 Rheme	مُسْنَد محمول / التّعقيب
 Rhenish Fan	مروحة نهر الرّاين
-rhetoric	بلاغة
+rhetoric	بلاغة / بلاغة، علم البيان
 Rhetoric Form	صورة بلاغية
 Rhetorical	بلاغيّ
 rhetorical device	وسيلة بلاغية

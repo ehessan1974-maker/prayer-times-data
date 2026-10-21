@@ -9,13 +9,13 @@ Sampling by quota	عينة بالحصص
 sanction	عِقاب
 Sandhi	تعَامُلِي حَدّي
 Sapir-Whorf Hypothesis	فرضيّة سابير وورف
-Sarcasm	الازدراء
+Sarcasm	الازدراء / تهكم، سخرية جارحة
 satire	هجاء
 Satyr play	الدراما السّاتيريّة
 Saussurean Paradox	مفارقة دي ساسور
 Scaffolding	المُساندة
 scan (a verse)	تفعيل البيت، وزنه
-Scansion	التّقطيع الشِّعري
+Scansion	التّقطيع الشِّعري / تفعيل البيت الشعري
 Scene	المَشهد
 Scenes of complication	مشاهد التّعقيد
 Scenes of denouement	مشاهد السّكون النّهائي
@@ -335,7 +335,7 @@ Stratificational semantics	دلالة تنضيدية
 stream of consciousness	تيار الوعي
 Street theatre	مسرح الشّارع
 Strenght	شِدَّة
-Stress	نَبْر
+Stress	نَبْر / ضغط نبري، تنشيد
 Stress; Unmitigated	التّشديد
 Stressed syllable	مقطع منبور
 Strident	صريري
@@ -431,7 +431,7 @@ Syllabification	تقسيم مَقْطِعِيّ
 Syllable	مَقْطَع
 Syllable-Timed (Languages)	اللُّغات المقاطعيّة
 syllepsis	ارتبـاط
-symbol	رَمْز / الرّمز
+symbol	رَمْز / الرّمز / رمز
 Symbol, Symbolic	الرّمز، الرّمزيّة
 symbolic	رمزيّ
 Symbolic Capital	رأس المال الّرمزيّ
@@ -453,7 +453,7 @@ synchrony	تزامُنية / تَزَامُن
 Syncope	سُقُوط
 Syncretism	انصهار
 Syndesis	رَبْط، وَصْل
-synecdoche	مجاز مُرسَل / مَجَاز مُرْسَل
+synecdoche	مجاز مُرسَل / مَجَاز مُرْسَل / مجاز مرسل، الجزئية
 synonym	مُرادف / مُتَرَادِف
 Synonymy	ترادف
 Syntactic	تركيبي / نحويّ

@@ -114,7 +114,7 @@
 مثنوية	Binarism
 مُثَنَّى	Dual
 مُجادَلـة	controversy
-مجـاز	Transferring of sense / metonymy
+مجـاز	Transferring of sense / metonymy / trope
 مجاز تمثيلي	allegory
 مَجَاز شائع	Catachresis
 مجاز مُرسَل	Metonymy / Synecdoche / synecdoche
@@ -184,7 +184,7 @@
 مخالفة الترتيب	Hyperbate
 مخالفة صوتيّة	Heteronym(y)
 مُخْبِر	Informant
-مختارات	anthology (litrary…)
+مختارات	anthology (litrary…) / anthology
 مُخْتَزَل لَفْظِي، منحوت	Acronym
 مُخْتَص	Technical
 مُخْتَلِط	Mixte
@@ -221,7 +221,7 @@
 مُـدّة	duration
 مُدوّنـة	blog
 مدوّنة اللُّغة	Corpus
-مديـح	praise
+مديـح	praise / panegyric
 مدير الفرقة	Production manager
 مدير سقْف الرّكح	Fly master
 مُذَكَّر	Masculine
@@ -362,7 +362,7 @@
 مَصْدَر	Action noun / Source
 مَصْدَر فعلي	Gerund
 مَصْدَر، فعل غير متصرف	Infinitive
-مُصطلَح	Term / term
+مُصطلَح	Term / term / idiom
 مُصطلح مُحايد	neutral term
 مُصْطَلَح مُوجَّه	Transparent term
 مُصْطَلَحي	Terminologist
@@ -443,7 +443,7 @@
 مغازة اللواحق	Prop room
 مُغامرة	adventure
 مُغايِر	unlike
-مُفَارقة	paradox
+مُفَارقة	paradox / irony
 مفارقة تاريخية	anachrony
 مفارقة تناقضية	paradox
 مفارقة دي ساسور	Saussurean Paradox
@@ -475,7 +475,7 @@
 مُقدِّمة الشّرفة	Corbel balcony
 مَقْروء	readable
 مقْرُوئيَّـة	readability
-مَقْطـع	Syllable / fragment / sequence
+مَقْطـع	Syllable / fragment / sequence / verse
 مقطع ثلاثي	tercet
 مقطع ثماني	octave
 مقطع صرفيّ يمثّل أصغر وحدة لغويّة ذات معنى	Morpheme
@@ -629,7 +629,7 @@
 موضع الوقف	Absolute finale
 مَوْضَعَة	Topicalization
 موضعيّ	Ad hoc / topic
-موضوع	object
+موضوع	object / theme
 موضوع التلفظ	statement subject
 موضوع الملفوظية	statement subject
 موضوعاتية	thematic

@@ -35,7 +35,7 @@ electronic literay forum	مُنتدى أدبيٌّ إلكترونيٌّ
 electronic litrary salon	صالون أدبيّ إلكترونيّ
 electronic paper	ورقٌ إلكترونيّ
 electronic text	نصّ إلكترونيّ
-elegy	ِرِثاء
+elegy	ِرِثاء / مرثية، رثاء
 elegy (elegiac poem)	قصيدة رثائية
 element	عُنْصـر / عُنْصُر
 Elevated style	مستوى رفيع
@@ -46,7 +46,7 @@ Elite Closure	انغلاق النّخبة
 Elizabethan theatre	المسرح الأليصاباتي
 Elizabethan tragedy	المأساة الأليصاباتية
 Ellipse	حذف إيجازي، إضمار
-ellipsis	حَذْف
+ellipsis	حَذْف / حذف، إيجاز
 elocution	تعبير، بيان
 eloquence	بلاغة، فصاحة
 eloquent	بليغ، فصيح
@@ -87,7 +87,7 @@ Engineering (Linguistic)	الهندسة (اللُّغويّة)
 English as a Native Language (ENL); ENL	اللُّغة الإنجليزيّة كلغة أصليّة
 English as a Second Language (ESL); ESL	اللُّغة الإنجليزيّة كلغة ثانية
 English-Only	اللُّغة الإنجليزيّة فقط
-enjambment	معاضلة، تجاوز
+enjambment	معاضلة، تجاوز / تدوير، امتداد المعنى
 entertainment	تسْلية
 enthusiasm	حَماس
 Entity	ذَاتٌ
@@ -102,7 +102,7 @@ Epanalepse	تَشَابُهُ الأطراف
 epanalepsis	ردّ العجز على الصّدر
 Epenthesis	إقحام الصوت
 Epenthetic	إقحامي
-epic	1- مَلْحمـة / 2- مَلْحَميّ
+epic	1- مَلْحمـة / 2- مَلْحَميّ / ملحمة، ملحمية
 Epic tone	النّفس الملحمي
 Epicene	مُحَايد في الجنس
 epicurean	ملذاتي، شعر ملذاتي
@@ -125,10 +125,10 @@ epistemology cutting	قطيعة معرفية
 epistle	ِرِسالةُ إهداء
 epistolary	تَراسُلية
 epistolary novel	ِرِواية تراسُلية
-epitaph	شاهدة قبر
+epitaph	شاهدة قبر / نقش قبري، رثاء قبري
 epithalamium	قصيدة عرس
 Epithesis	إلحاق
-Epithet	نَعْت
+Epithet	نَعْت / صفة وصفية، لقب
 eponymous	تخليد ذكرى
 Equality	مساواة
 Equestrian theatre	المسرح الفُروسيّ
@@ -148,7 +148,7 @@ escape	هُرُوب
 esoteric	بَاطنـيّ
 esotericism	بَاطِنيّـة
 esquisse; sketch	مُسـودَّة
-essay	مَقالٌ إِنْشَائِيّ
+essay	مَقالٌ إِنْشَائِيّ / مقالة
 essayist	كاتب مقالات
 Essayist Literacy	الدّراية المقاليّة
 Essive	حُكْم الصفة الطارئة
@@ -196,7 +196,7 @@ Exchange	تبادُل
 Excision	التّقليص
 Exclamation	تَعجُّب
 exclusion	إقصـاء
-exegesis	تَفْسيـر
+exegesis	تَفْسيـر / تفسير، شرح
 exemplum	مِثال الشّاهد القصصي
 exergue	اسْتِهـلال
 exhaustive	اسْتيفاء

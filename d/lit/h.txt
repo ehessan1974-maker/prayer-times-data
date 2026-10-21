@@ -1,7 +1,7 @@
 H-Dropping	إسقاط صوت الهاء
 Habitual	متكرِّر
 Habitus	عادة
-haiku	هَايكـو، مقطوعات شعرية يابانية
+haiku	هَايكـو، مقطوعات شعرية يابانية / هايكو (قصيدة يابانية)
 Half closed	نِصْف مُنغلِق
 Half open	نِصْف منفتح
 Halliday, M. A. K. (1925- )	مايكل هاليدي
@@ -124,7 +124,7 @@ Hyoid	لامي
 Hypallage	مُشَاكلَة
 hyper novel	رواية تشعّبية
 Hyperbate	مخالفة الترتيب
-hyperbole	مبالغـة / مُبَالَغَة
+hyperbole	مبالغـة / مُبَالَغَة / مبالغة، غلو
 Hypercorrection	حَذْلَقَة / التّصحيح المفرط
 hypermedia	نظام الوسائط المتصلة
 hyperonym	اصطلاحٌ عامُ

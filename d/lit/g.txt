@@ -59,7 +59,7 @@ global (culture)	كُلِّي (ثقافة)
 Global Language	لغة عالميّة / لغة كونيّة
 Globalisation	العولمة
 glorious trial	انتصاريةُ الاختبار
-Gloss	حَاشِيةَ
+Gloss	حَاشِيةَ / شرح لفظي، تعريض
 glossary	مَسْرد، كشفُ مُصْطلحات / مَلْسَنَة
 Glossem	كلوسيم
 Glossematics	كلوسيماتية

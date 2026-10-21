@@ -23,7 +23,7 @@
 فَرْط الحمولة الإدراكية	cognitive addition
 فَرْع	Phénotype
 فَسْخ	Cleaving
-فَصَاحَة	oratory
+فَصَاحَة	oratory / eloquence
 فَصْل	Asyndetic construction / Parataxis
 فَصْل (من مسرحية)	acte heater
 فَصْل الكلمة	Tmesis
@@ -77,7 +77,7 @@
 فُكَاهـة	humour
 فُكاهة سوداء	black humour
 فِكْـر	spirit; mind (wit)
-فِكْرة	idea
+فِكْرة	idea / theme
 فكرة متكررة	motif
 فلْتة لسان، زلّة لسـان	lapsus linguae
 فلسفة	philosophy

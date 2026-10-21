@@ -19,7 +19,7 @@
 لاَحِقِيّ، تابعيّ	propertyman
 لاَزِم	Intransitive
 لازم المعنى	Presupposed
-لاَزِمـة	leitmotif
+لاَزِمـة	leitmotif / refrain
 لازمة جماعية	chorus
 لازمة سردية	anaphora
 لاَصِقَة	Affix
@@ -93,7 +93,7 @@
 لغة السّحاقيّة، المثليّ، ثنائيّ الجنس، المتحوّلون جنسيًّا، المتحرّرون جنسيًّا	Lesbian, Gay, Bisexual, Transgender, Queer (LGBTQ) Language
 لغة السّود الإنجليزيّة العاميّة	Black English Vernacular (BEV)
 لغة الشّباب	Youth Language
-لغة الشِّعر	Poetic (Poetics)
+لغة الشِّعر	Poetic (Poetics) / poetic diction
 لغة الطّبقة العليا المسيطرة	Superstrate (Superstratum)
 لغة الطّفل	Child Language
 لغة المثليّين	Gay Language

@@ -88,7 +88,7 @@ Melody	نَغْمَة
 Melpomene	ملبومان
 Member	عُنْصُر
 Membership Categorization (Device, Analysis)	تصنيف العضويّة (الأداة، التّحليل)
-memoirs	مُذَكّرات
+memoirs	مُذَكّرات / مذكرات
 memory	ذِكْـرى
 Mentalism	ذِهْنِيَة
 menu	قائمـة
@@ -126,7 +126,7 @@ Metathesis	قَلْب مكاني
 meter	بحر شعري، وزن
 method	منهـج
 Methodology	مَنْهَجِيَة
-metonymy	مجـاز / مَجَاز مُرْسَل
+metonymy	مجـاز / مَجَاز مُرْسَل / كناية
 Metrics	عِلْم العَرُوض
 micro-narrative	محكي صغير
 Microcontext	سِيَاق مُبَاشِر
@@ -193,7 +193,7 @@ Monolateral	أحادي الجانب
 Monolingual	أحادي اللغة
 Monolingual (-ism)	أحاديّ اللُّغة
 Monologic (Monologism)	أحادي المنطق
-monologue	مناجاة، مونولوج / حِوَار داخلي / الحديث الفردي
+monologue	مناجاة، مونولوج / حِوَار داخلي / الحديث الفردي / منولوج، حوار داخلي
 Monophonematic	أحادي الحرف
 Monophthong	حرف علّة واحد يُلفظ بدون حركة أعضاء النّطق
 Monophtong	صائت بسيط
@@ -201,7 +201,7 @@ Monophtongaison	توحيد الحركة المزدوجة
 Monosemic	أحادي الدلالة
 Monosyllabic	أحادي المقطع
 Monotonisation	توحيد النغمة
-mood	مِـزاج / وَجْهٌ
+mood	مِـزاج / وَجْهٌ / أجواء، مزاج النص
 Mood; Status	الحالة
 Moral Panic	الذّعر الأخلاقيّ
 moral; morals	أَخْلاق
@@ -251,10 +251,10 @@ Muting	إهمال
 Mutual Intelligibility	الفهم المتبادَل
 mystery (play)	لُغْز، معضلة
 mysticism	صوفية
-myth	أسطورة
+myth	أسطورة / خرافة، أسطورة
 mytheme	دراسة الأسطورة
 mythic criticism	نقْد أسطوري
 mythography	أسطورة الخط
 mythological	أُسْطوريّ
-mythology	عِلْم الأسطورة
+mythology	عِلْم الأسطورة / علم الأساطير
 Métaphore	استعارة

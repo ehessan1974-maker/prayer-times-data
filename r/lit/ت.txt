@@ -241,7 +241,7 @@
 تشاكُليّـة	isomorphism
 تشبيه	simile
 تشجيرة	Arborescence
-تشخيص	Personification
+تشخيص	Personification / personification
 تَشْخيصية	personnification
 تشريفي	Honorific
 تَشْفير العمل	codwork
@@ -278,7 +278,7 @@
 تصْويب ذاتي	autoregulation
 تصويت	Phonation
 تَصْويريّ	figurative
-تَضَادٌّ	Antonymy / Oxymoron
+تَضَادٌّ	Antonymy / Oxymoron / antithesis
 تَضاد، تَناقُض	antithesis
 تضعيف	Gemination / Redoubling
 تضمير	Pronominalization
@@ -315,7 +315,7 @@
 تَعداد، تعيين	enumeration
 تَعَدُّد	Plurality
 تعدد الأصوات	Polyphony / polyphony
-تعدد المعاني	Plurivalency / polysemy
+تعدد المعاني	Plurivalency / polysemy / multiple meaning
 تعدد المعنى	ambiguity
 تعدُّدية	pluralism
 تعدّديّة الأصوات	Polyphony
@@ -327,11 +327,11 @@
 تعددية لغوية	Multilingualism / Plurilingualism
 تعديل	Modification
 تَعْدِيَة	Transitivity
-تعريض	Preterition
+تعريض	Preterition / gloss
 تعريف	Definition / definition
 تَعْطِيش	Affrication
 تعقِيب، تعْليق	commentary
-تعليق	suspend
+تعليق	suspend / annotation / commentary
 تعليق سرديّ	narrative suspend
 تعليم اللُّغة الإنجليزيّة	ELT; English Language Teaching (ELT)
 تعليميّ	didactic
@@ -362,7 +362,7 @@
 تَفرديّة	Individuation / individuation
 تفريع	Branching program
 تفريع مَقُولِيّ	Sub categorization
-تَفْسيـر	exegesis
+تَفْسيـر	exegesis / interpretation
 تفسير النص	text explication
 تفصيل، جُزْئية	detail
 تفضيليّ	Superlative
@@ -383,9 +383,9 @@
 تقابل سالب	Privative opposition
 تَقَابُل منفرد	Isolated opposition
 تقابلي	Contrastive
-تقَاَطُع	Intersection
+تقَاَطُع	Intersection / chiasmus
 تقديسٌ أعْمى	fetish
-تقديم وتأخيـر	anastrophe
+تقديم وتأخيـر	anastrophe / inversion
 تقرير الحديث	Report (Talk)
 تقريرية	Constative
 تقسيم	Decomposition

@@ -4,7 +4,7 @@
 ناسِخ	copyist; transcriber / script writer
 نَاشر إلكترونيّ	electronic editor
 ناقِل	transmitter
-نَبْر	Stress
+نَبْر	Stress / accent
 نَبر تراجعي	Recessive accent
 نبر مُقَيَّد	Bound accent
 نبرة	tone
@@ -118,7 +118,7 @@
 نَفْي	Negation / negation
 نَفْي مُطْلَق	Absolute negation
 نقاش خطابيّ	Metadiscourse
-نقد	criticism
+نقد	criticism / critique
 نقد اجتماعيّ	social criticism / sociocritic
 نقد أدبي	criticism
 نقْد أسطوري	mythic criticism

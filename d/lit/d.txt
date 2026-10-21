@@ -130,7 +130,7 @@ Dialectology	علم اللهجات / علم اللّهجات
 dialogic	حِوَاري
 Dialogic (Dialogism)	الحواريّة
 dialogism	حِوارية / الحواريّة
-dialogue	حِـوار / الحوار
+dialogue	حِـوار / الحوار / حوار
 Dialogue and didascalic texte	النّص الرّئيسي والثّانوي
 Dialogue of deaf	حوار الطرشان
 Dialogued history	التّاريخ التّحاوري

@@ -18,7 +18,7 @@ Ideological Model (of Literacy)	أنموذج أيديولوجيّ ( للعلم /
 ideology	إيديولُوجيـا / أيديولوجيّة
 Idiographem	كتابة خاصة
 idiolect	لُغة فردية / لهجة فردية / لهجة فرديّة / التّفرّد اللّغوي
-idiom	تَعْبير اصْطلاحيّ / لهجة خاصة
+idiom	تَعْبير اصْطلاحيّ / لهجة خاصة / تعبير اصطلاحي، مصطلح
 Idiomatic	عبارة جامدة
 Idiophon	أداء صوتي فردي
 Idiophonem	صوت فردي
@@ -63,7 +63,7 @@ Implosive	انحباسي
 impossibility	استحالـة
 impression	انْطِبـاع
 impressionnism	انْطِباعيـة
-improvisation	ارْتجـال
+improvisation	ارْتجـال / ارتجال، ارتجال شعري
 improvise	يرتجل
 In medias res exposition	عرض الاسترجاع
 in-between	ما بَيْن
@@ -137,7 +137,7 @@ Insertion	إدماج، دَمْج
 inshad	إنشاد
 Insiders	المطّلعون
 Inspirated	شهيق
-inspiration	إلْهـام
+inspiration	إلْهـام / إلهام
 instance	تحصِيل
 Instance of discourse	تحصيل الكلام
 instantaneous; snapshot	آنيّ
@@ -209,7 +209,7 @@ interpellation	استفهام / استجواب / استنطاق
 Interpersonal	عَبر الأشخاص
 Interplay	اللّعب التّفاعلي
 Interpretable	قابل للتأويل
-interpretation	تأويـل / تأويل / التأدية
+interpretation	تأويـل / تأويل / التأدية / تفسير، تأويل
 Interpretative	تأويلي
 Interpretative Repertoires	المخزون اللُّغويّ التّفسيريّ
 interpreter	مُؤوِّل
@@ -252,14 +252,14 @@ Intuition	حَدْس
 Invariable	مَبْنِيّ
 invariant	ثابِت / ثابت
 invention	ابتكـار
-Inversion	قَلْب
+Inversion	قَلْب / تقديم وتأخير، قلب
 Inversive	قلبي
 Inverted	شِبْه لازم
 Inverti	مُتقعِّس
 Invisible theatre	المسرح الخفيّ
 Involvement in Conversation	المشاركة في المحادثة
 IRF (Initiation-Response- Feedback)	التّغذيّة الرّاجعة للاستجابة الأوّليّة
-irony	سُخْريـة
+irony	سُخْريـة / مفارقة، سخرية
 Irradiation	إشعاع
 Irrealis	المفاهيم غير المحتملة
 Irregular	شاذ

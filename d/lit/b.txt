@@ -86,7 +86,7 @@ Binary principle	مبدأ المثنوية
 bind	اضطرار، إكراه
 bio-poetry	شعرٌ بيولوجي
 bio-semiotics	سيميائية بيولوجية
-biography	سيرة
+biography	سيرة / سيرة حياة
 Biomechanics	البيوآلية
 Bioprogramme	البرنامج الحيويّ
 Bisemy	مثنوي الدلالة
@@ -157,7 +157,7 @@ Buccal cavity	تجويف فموي
 Buffoon	المُهرّج
 Buffoonery	التّهريج
 Bunraku	مسرح العرائس الياباني
-burlesque	هزلي، تحقير فكاهي / التّحريف الهزلي
+burlesque	هزلي، تحقير فكاهي / التّحريف الهزلي / هجاء مهزل
 Burlesque comedy	الملهاة التّحريفية الهزلية
 burlesque tone	النّفس التّحريفي الهزلي
 Burring	لَثْغَة الراء

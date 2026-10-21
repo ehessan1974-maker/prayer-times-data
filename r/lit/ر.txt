@@ -12,10 +12,10 @@
 رَأْرَأَة	Rhotacism
 رأس المال الثّقافي	Cultural Capital
 رأس المال الّرمزيّ	Symbolic Capital
-راوٍ	storyteller
+راوٍ	storyteller / narrator
 رأي	opinion
 رباعي	Quadriliteral
-رباعية	quartrian
+رباعية	quartrian / quatrain
 رَبْط	Conjunction / Connection / Jontion
 ربط الفعل	Linking Verb
 رَبْط بالأدوات	Hypotaxis
@@ -29,7 +29,7 @@
 رخاوة	Laxity
 رخصة شعرية	poetic license
 رَخِيمٌ	Mat
-رد العجز	repetition
+رد العجز	repetition / epiphora
 ردّ العجز على الصّدر	epanalepsis
 رَدْهة المسرح	Stalls
 رسالة	message
@@ -66,7 +66,7 @@
 روائي	novelist
 روائيّة	romanesque
 رواج، انتشار	dissemination
-رواية	romance
+رواية	romance / novel / narration
 رواية الأطروحة	thesis romance
 روايةُ البريد الإلكترونيّ	mail romance
 رواية الخيال العلمي	science fiction romance

@@ -1,4 +1,4 @@
-fable	خُرَافة
+fable	خُرَافة / حكاية رمزية، أسطورة حيوانية
 fabliau	حكاية شعبية منظومة
 Fabliau horswhip	حكاية شعبية للفُرْسان
 Face	وجه
@@ -86,7 +86,7 @@ focus	بُـؤْرة / بؤرة
 Focusing, Diffusion	التّمركُز، الانتشار
 Folk Linguistics	اللُّغويّات الشّعبيّة
 folk poetry	شعر شعبي
-folklore	فُنُون شعبية
+folklore	فُنُون شعبية / فولكلور، تراث شعبي
 Follow spot	المنوار المُتعقّب
 folly	جُنون
 folly of art	جُنُون الفنّ
@@ -127,7 +127,7 @@ Framing	التأطير
 Free context	سياق حُرٌّ
 Free order	ترتيب حُرٌّ
 Free Variation	التّباين الحرّ
-free verse	شعر حر
+free verse	شعر حر / شعر حر، شعر التفعيلة
 fregmetal structure	بِنْية مجزأة
 Fregolism	ملكة التّحوّل
 Freire, Paulo (1922-97)	باولو، فريري

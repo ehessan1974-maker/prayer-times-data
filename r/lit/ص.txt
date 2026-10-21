@@ -46,7 +46,7 @@
 صَمْت	silence
 صناعة	workmanship
 صُنَافة	Nomenclature
-صنف	literary genre
+صنف	literary genre / genre
 صِنف الكلمة المغلقة	Closed (Word Class)
 صِوَاتة	Phonology / phonology
 صِوَاتة التغيرات	Phonochronology
@@ -85,7 +85,7 @@
 صور شعرية	imagery
 صَوْرَنَة	Formalisation
 صُورة	figure / image
-صورة بلاغية	Rhetoric Form
+صورة بلاغية	Rhetoric Form / trope
 صورة بيانية	Expression form / Trope
 صُورَة كِتابية	iconogram
 صُورة مَعْنوية	ideogram

@@ -54,11 +54,11 @@
 جُمَليّ	Phrastic
 جُمهور	audience
 جميـل	beautiful
-جناس	alliteration
+جناس	alliteration / pun
 جِنَاس استهلالي	Alliteration
 جِنَاس صوتي	Assonance
 جِنْس	Gender
-جِنْس أدبيّ	literary kind
+جِنْس أدبيّ	literary kind / literary genre
 جنس الأدب الرقميّ	digital literary kind
 جنس فني	genre
 جنس قواعديّ	Grammatical Gender

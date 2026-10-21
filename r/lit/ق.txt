@@ -20,7 +20,7 @@
 قاعدة تشعبية	hypertase
 قاعدة كريم	Grimm's law
 قاعدة موضعية	Ad hoc rule
-قَافِيَة	Rime
+قَافِيَة	Rime / rhyme
 قالب نمطيّ	steriotype
 قاموس	Dictionnary
 قاموس ثنائي اللغة	Bilingual dictionary
@@ -66,7 +66,7 @@
 قصة الشَّريط المُصوَّر	strip cartoon
 قصة شعرية	prose poem
 قصة قصيرة	short story
-قصيدة	poem
+قصيدة	poem / poetry
 قصيدة تفاعلية	interactive poem
 قصيدة درامية	dramatic poem
 قصيدة ذات أربع عشرة بيتاً	sonnet
@@ -88,7 +88,7 @@
 قطعة كبرى، جملة	Macrosegment
 قطيعة معرفية	epistemology cutting
 قفص الرّكح	Stage house
-قَلْب	Inversion
+قَلْب	Inversion / inversion
 قَلْب الترتيب	Anastrophe
 قلب مرآتي	chiasmus
 قَلْب مكاني	Metathesis

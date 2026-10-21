@@ -26,18 +26,18 @@
 شُحْنة سيميائية	semiotic charge
 شَخْص	Person / persona
 شخْصية	character
-شخصية أدبية	literary personality
+شخصية أدبية	literary personality / character (literary)
 شخصية أولية	protagonist
-شِدَّة	Intensitivity / Strenght
+شِدَّة	Intensitivity / Strenght / accent
 شديد	Stop / Strong
 شذرة حِكمية	aphorism
 شُذوذ	Anomalie / Irregularity / anomaly
-شرح	exegesis
+شرح	exegesis / commentary
 شرح لفظي	gloss
 شرْقُ (ال..)	orient (the..)
 شروط اللّباقة	Felicity Conditions
 شطاَّريّ	picaresque
-شطر	verse
+شطر	verse / hemistich
 شِعار	emblem
 شَعْبِيَة	Popular
 شِعْر	poetry

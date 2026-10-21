@@ -11,8 +11,8 @@
 عامل الزمن في الفعل	Aspect
 عامِل، فاعِل	actant
 عامِليّ	actantial
-عامي	Colloquial
-عاميّة	Informalisation
+عامي	Colloquial / colloquial
+عاميّة	Informalisation / vernacular
 عبارات التّحبّب	Endearment (Terms of)
 عِبَارَة	Locution
 عبارة الصلة	Relative clause
@@ -114,7 +114,7 @@
 علم الصّرف	Morphology
 علم الصّوتيّات	Phonetics (Phonetic)
 علم الصّوتيّات الاجتماعيّ	Sociophonetics
-عِلْم العَرُوض	Metrics / Prosody
+عِلْم العَرُوض	Metrics / Prosody / prosody
 علم القافية والعروض	versification
 علم القواعد اللّفظيّ	Lexicogrammar
 علم القيم	axiology

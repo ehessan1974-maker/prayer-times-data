@@ -88,7 +88,7 @@
 وعي لغوي	Conscience
 وَعْي مُمكِن	possible conscience
 وَعي واقعيّ	real conscience
-وقائع	Facts
+وقائع	Facts / chronicle
 وَقْف	Break
 وقف داخلي	caesura
 وَقْف، تعليق	suspension

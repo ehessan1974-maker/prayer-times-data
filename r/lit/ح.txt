@@ -26,7 +26,7 @@
 حُبْسَة الكتابة	Agraphia
 حُبسة تركيبية	Agrammatism / agrammatism
 حبسي	Abrupt
-حبْكَـة	intrigue
+حبْكَـة	intrigue / plot
 حَجُّ (ال...)	spiritual travel
 حِجَاب الحَنَك	Velum
 حِجَابِيَة	Velar
@@ -135,7 +135,7 @@
 حَنَكِيَة	Palatogram
 حِـوار	dialogue
 حوار الطرشان	Dialogue of deaf
-حوار داخليّ	Monologue / interior monologue
+حوار داخليّ	Monologue / interior monologue / monologue
 حِوَاري	dialogic
 حِوارية	dialogism
 حوسبة	computerization

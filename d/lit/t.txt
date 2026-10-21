@@ -112,7 +112,7 @@ Thematic pattern	شَبَكَة مِحْوَرِيَة
 Thematic role	دَوْر مِحْوَرِيّ
 Thematic theory	نظرية المِحْوَرِيَة
 thematology	علم الموضوعاتية
-theme	موضوعة / مِحْوَر، مُبْتَدَأ
+theme	موضوعة / مِحْوَر، مُبْتَدَأ / موضوع، فكرة
 Theme and rheme	مُسْنَد ومُسْنَد إِلَيه
 Theme, Rheme	الموضوع والتّعقيب
 Theoretical linguistics	لسانيات نظرية
@@ -144,7 +144,7 @@ To inhabit a role	التلبّس بالدّور
 To speak in an aside	المخاطبة غير الموجّهة
 Tonal	نَغْمِيّ
 Tonality	نغمية
-Tone	نَغْمَة / النّغَمة / النّفَس
+Tone	نَغْمَة / النّغَمة / النّفَس / نبرة، لهجة المعنى
 Tonem	وحدة نَغْمِيَة
 Tongue	لِسَان
 Tonic	نَغْمِيّ
@@ -229,7 +229,7 @@ trivial event	حدث عابر
 Trivial genre	الجنس السّوقي
 trochaic	تروخيائي (تفعيلة)
 Troncation	حَذْف
-trope	استعارة / صورة بيانية
+trope	استعارة / صورة بيانية / مجاز، صورة بلاغية
 truthful	حقيقيّ
 Turn in Conversation	الدّور في المحادثة
 Turn-Taking	أخْذ الأدوار في الحديث

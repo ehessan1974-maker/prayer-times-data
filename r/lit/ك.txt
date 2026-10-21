@@ -68,7 +68,7 @@
 كلية الحضور	ubiquitous
 كَمٌّ	Quantity
 كَمِّي	Quantitative
-كِنَاية	Euphemism
+كِنَاية	Euphemism / metonymy
 كِنَاية بالسبب	Metalepsis
 كناية، تلميح	allusion
 كورال	chorus

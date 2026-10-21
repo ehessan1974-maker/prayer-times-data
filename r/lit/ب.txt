@@ -59,7 +59,7 @@
 بَعْد نبري	Post-tonic
 بَعْد نُخْرُوبِي	Postalveolar
 بكم الصمم	Deaf muteness
-بلاغة	Rhetoric / rhetoric
+بلاغة	Rhetoric / rhetoric / eloquence
 بلاغة الخطاب	oratory
 بلاغيّ	Rhetorical
 بليغ	eloquent

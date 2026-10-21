@@ -28,7 +28,7 @@ paradigmatic	استبداليّ / مَنْسَقِية / نموذجيّ
 paradigmatic analysis	تحليل إبداليّ
 Paradigmatic axis	مِحْوَر مَنْسَقِي، محور عمودي
 Paradist	هزلياتي الفاتحة
-paradox	مُفَارقة
+paradox	مُفَارقة / مفارقة تناقضية
 Paradoxical construction	البناء التّناقضي
 Paragoge	إلحاق تسهيلي
 paragrammatism	نحو ملحق / عسلطة نحوية، عَفَك
@@ -54,7 +54,7 @@ Parenthesis	أقواس (قوسان)
 Parenthetization	تقويس
 Parisyllabic	متساوي المقاطع
 Parnassian	مذهب برناسيّ
-parody	مُعارضة / المحاكاة السّاخرة
+parody	مُعارضة / المحاكاة السّاخرة / مهازلة، تقليد ساخر
 Parole	كَلاَمٌ / حديث
 Paronomase	إِتْبَاع
 Paronyme	مشترك الجذر
@@ -78,7 +78,7 @@ Past	مَاضٍ
 Past anterior	مَاضٍ سَابقٌ
 Past historic	ماضٍ منقضٍ
 Past perfect	ماض مركَّبٌ ثانٍ
-pastiche	تَوْليفة / المُعارضة الأدبيّة
+pastiche	تَوْليفة / المُعارضة الأدبيّة / محاكاة أسلوب
 pastoral	رَعَوية
 Pastoral play	المسْرحيّة الرّعويّة
 pastoral poem	قصيدة رَعَوية
@@ -212,7 +212,7 @@ Pleonasm	حَشْوٌ، مشترك دلالي
 Plerematics	دراسة المشترك الدلالي
 Plosion	انفجارية، انسدادية
 Plosive	انفجاري / الأصوات السّادّة لتيّار الهواء
-Plot	الحبكة
+Plot	الحبكة / حبكة
 Plot outline	العرض الموجز
 Plot thread	الخيوط الدراميّة
 Pluperfect; past perfect	صيغة الماضي المركب الثاني
@@ -224,7 +224,7 @@ Plurilingual	متعدد اللغات
 Plurilingualism	تعددية لغوية
 Plurivalency	تعدد المعاني
 Plurivalent	متعددة المعاني
-poem	قصيدة
+poem	قصيدة / قصيدة، قصيدة شعرية
 poet	شاعر
 poetess	شاعرة
 Poetic (Poetics)	لغة الشِّعر
@@ -233,7 +233,7 @@ poetic exchange	تبادُل شعري
 poetic license	رخصة شعرية
 Poetic theatre	المسرح الشِّعري
 poetics	شِعْرية / شِعْرِيَة
-poetry	شِعْر
+poetry	شِعْر / شعر، قصيدة
 Point of articulation	حَيِّز الاعتماد
 Point of integration	نقطة الاندماج
 point of view	وجهة نظر
@@ -410,8 +410,8 @@ prose writer	كاتب نثر
 Prosodem	وحدة تطريزية
 Prosodic marks	علامات تطريزية
 Prosodic symbols	رموز تطريزية
-prosody	عَرُوض / تطريز / علم العروض
-protagonist	شخصية أولية / الشّخصية السّجالية الأولى
+prosody	عَرُوض / تطريز / علم العروض / علم العروض، قواعد الشعر
+protagonist	شخصية أولية / الشّخصية السّجالية الأولى / البطل الرئيسي
 Protasis	العرض الاستهلالي
 Protatic character	الشّخصية الاستهلالية
 Prothesis	تصدير صوتي

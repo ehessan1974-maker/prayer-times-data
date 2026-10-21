@@ -94,7 +94,7 @@ Check	انغلاق
 Checked	محدود
 Checked position	مَوْقع ساكن
 Chi-Square	Chi مربّع
-Chiasmus	عكس
+Chiasmus	عكس / تقاطع، قلب مرآتي
 Child Language	لغة الطّفل
 Child-Directed Speech (CDS)	الكلام الموجّه للأطفال
 Choragos	متعهّد الجوق
@@ -102,13 +102,13 @@ Chorea	التّرنيم
 Choregy	تعهّد الجوق
 Chorister	المرنّم
 Chorodidaskalos	مُعلّم الجوق
-Chorus	الجوْق
+Chorus	الجوْق / لازمة جماعية، كورال
 Choryphaeus	قائد الجوق
 chosiness	تشْييئيّة
 Chromatic	نَغْمَة
 Chron	كرون
 Chronem	كرونيم
-chronicle	تَسلْسل تسْجيلي
+chronicle	تَسلْسل تسْجيلي / سجل تاريخي، وقائع
 chronotope	تسجيل البداية والنهاية
 Chronotopic analysis	التّحليل الزّمكاني
 Chronotopic indicators	الزّمكان
@@ -135,7 +135,7 @@ Cleaving	فَسْخ
 cliche	كلام مُعاد، مُستنسَخ
 Cliché	عبارة متداولة
 Click	نبصة
-Climax	ذروة الحدث
+Climax	ذروة الحدث / تصعيد، ذروة
 Cline	السّلسلة اللُّغويّة المتّصلة
 Clitic	متصل
 Close (Vowels)	حروف العلّة القريبة / العالية
@@ -166,7 +166,7 @@ Code switching	تناوب اللغات
 Code-Mixing; Language Mixing	الخلط اللُّغويّ
 Code-Switching	التّناوب اللُّغويّ
 codes for reading	شفرات القراءة
-codex	دفْتر
+codex	دفْتر / مخطوطة مجلدة
 codicology	عِلْم التشفير
 Codification	التّرميز
 coding	تَشْفير، تَسْنين
@@ -185,7 +185,7 @@ collation	مُقَابلة النّصوص والوثائق
 collection	مجموعَة
 Collective creation	الإبداع الجماعيّ
 Collocation	مصاحبة لفظية / تلازم الكلمات
-Colloquial	عامي
+Colloquial	عامي / عامي، دارج
 Colloquial Language	اللُّغة العاميّة
 Colonial Lag	التّأخّر الاستعماريّ
 colonial literature	أدب استعماري
@@ -224,7 +224,7 @@ Comic tone	النّفس الهزلي
 Comitative	حالة المعية
 Commedia dell’arte	الملهاة المرتًجلة
 Comment	خَبَرٌ
-commentary	تعقِيب، تعْليق
+commentary	تعقِيب، تعْليق / شرح، تعليق
 Commodification	سلعنة اللُّغة
 Communication	تواصل، اتصال / تواصُل
 Communication Accommodation Theory (CAT)	نظريّة تكييف التّواصل
@@ -290,12 +290,12 @@ Connected Speech	الكلام المتّصل
 Connection	رَبْط
 Connector	رابط
 Connivance	تظاهُر
-Connotation	إيحاء / الدّلالة
+Connotation	إيحاء / الدّلالة / الدلالة الإيحائية
 conscience	وَعْي / وعي لغوي
 Consensus, Conflict	الإجماع، النّزاع
 Conservative	التّحفُّظ
 consignee; addressee	مُتلقٍ
-consonance	تناغُـم
+consonance	تناغُـم / توافق الأصوات الساكنة
 Consonant	صامِت / الأصوات السّاكنة
 Consonant Cluster Simplification	تبسيط تجمُّع الأصوات السّاكنة
 Consonantal	صامِتي
@@ -420,7 +420,7 @@ Critical Pedagogy	البيداغوجيا النّاقدة / المنهجيّة �
 Critical Realism	الواقعيّة النّقديّة
 Critical Sociolinguistics	اللُّغويّات الاجتماعيّة النّقديّة
 Critical Theory	النّظرية النّقديّة
-criticism	نَقْديـة
+criticism	نَقْديـة / نقد، نقد أدبي
 critique	نقد، تقييم
 Cross-Cultural Communication; Intercultural Communication	التّواصل عبر الثّقافات
 Cross-Over Pattern	النّمط التّقاطعيّ

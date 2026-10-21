@@ -1,6 +1,6 @@
 narratee	مَسْرودٌُُ لَهُ
 narratic	سرديّ
-narration	سَرْد / فِعْل الحكاية
+narration	سَرْد / فِعْل الحكاية / سرد، رواية
 narrative	سَرْديّ / قصّة
 narrative course	مساق سردي
 narrative enshroud	اندماجية سردية
@@ -19,7 +19,7 @@ narrative suspend	تعليق سرديّ
 narrative syntax	تركيب سرديّ
 narrativity	سردية / السّردية
 narratology	علم السرد
-narrator	ساِرد / السّارد
+narrator	ساِرد / السّارد / راوٍ
 Narrow (Transcription)	التّمثيل الدّقيق بالكتابة الصّوتيّة
 Nasal	أَنْفِّي / أنفيّ
 Nasality	أنفية
