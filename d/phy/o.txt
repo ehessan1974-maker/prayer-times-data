@@ -1,0 +1,208 @@
+O-ring	حلقة إحكام
+OASM system	OASMالجملة
+object	شيء / جسم؛ شيء
+objective	جسمية؛ شيئية
+objective lens	عدسة شيئية / عدسة جسمية
+objective point	نقطة الجسم
+objective prism	موشور شيئي / موشور جسمي
+oblate	مفلطح
+oblique plane	مستوي مائل
+obliquity factor	عامل جيب التمام / عامل الميل
+observable	ملاحَظ / قابل للرصد، مرصود
+observable quantity	كمية ملاحَظة (ن)
+observer	راصد، مراقب
+obstacle	عائق
+obtuse angle	زاوية منفرجة
+occlusion	احتجاب / احتباس
+occultation	احتجاب مصدر ضوئي / احتجاب
+occupation number	عدد الانشغال
+occupational exposure	تعرض مِهني (ن)
+octave	نغمة الجواب / ثُمانِيَّة
+octet	أُثمون
+octode	صمام ثُماني المساري
+octupole	ثماني الأقطاب
+ocular	عينية
+ocular accommodation	تكييف العين البعدي
+ocular; eyepiece	عيني
+odd number	عدد فردي
+odd-even nucleus	نواة زوجية- فردية
+odd-odd nucleus	نواة وترية (ن) ، نواة وِترية / نواة فردية- فردية
+oersted	أورستد
+off-gas treatment	معالجة الغازات الخارجة (ن)
+ohm	أوم
+Ohm law	قانون أوم
+Ohm's law	قانون أوم
+ohmic contact	تماس أومي
+ohmic loss	ضياع أومي
+ohmic resistance	مقاومة أومية
+ohmmeter	مقياس الأوم
+oil-immersion objective	شيئية (ال...) المنغمرة في الزيت
+on-off switch	قاطعة
+once-through fuel cycle	دورة وقود وحيدة الممر (ن)
+ondograph	راسم الموجة
+one dimensional harmonic oscillator	مهتز توافقي أحادي البعد
+one electron atom	ذرة أحادية الالكترون (ن)
+one-group model	نموذج الزمرة الواحدة (ن) / نموذج المجموعة الواحدة
+one-group theory	نظرية الزمرة الواحدة (ن)
+op amp	مضخّم عملياتي
+opacity	عتمة / عتامة
+opaque	معتم
+open circuit	دارة مفتوحة
+open circuit voltage	فلطية الدارة المفتوحة
+open loop gain	كسب العروة المفتوحة
+open system	نظام مفتوح / جملة مفتوحة
+open-air manometer	مضغاط مفتوح
+opening inventory	مخزون أولي (ن)
+operating limiting value	قيمة حد التشغيل (ن)
+operating range	مدى التشغيل (ن)
+operating system	نظام التشغيل (ن)
+operation point	نقطة العمل
+operational amplifier	مضخم عملياتي
+operator	مؤثر
+ophthalmoscope	مِكْشف العين (ن) / كاشف قعر العين
+opposite poles	أقطاب متضادّة
+opposition	تضادّ
+opposition in phase	تعاكس في الطور
+optic axis	محور بصـري؛ محور ضوئي
+optic nerve	عصب بصري
+optical	بصري ضوئي
+optical aberration	زيغ بصري
+optical absorption power; optical absorptivity	قدرة بصرية ماصة
+optical activity	نشاط ضوئي / فعالية ضوئية
+optical anomaly	شذوذ ضوئي
+optical axis	محور بصري / محور بصـري
+optical bench	مِنْضدة بصرية، نَضَد بصري / جسـر ضوئي
+optical birefringence; optical double refraction	انكسار ضوئي مزدوج
+optical branch	فرع ضوئي
+optical center	مركز بصري / مركز بصـري؛ مركز ضوئي
+optical chart	لوحة قياس الأبصار
+optical condenser	مكثف ضوئي / مكثِف ضوئي
+optical density	كثافة ضوئية
+optical density; photographic transmission density	كثافة ضوئية
+optical distance	مسافة ضوئية
+optical excitation	إثارة ضوئية
+optical fiber	ليف ضوئي
+optical flint	زجاج فلنت
+optical glass	زجاج بصري / زجاج بصـري
+optical image	صورة بصرية
+optical instruments	آلات بصرية / أجهزة ضوئية؛ أجهزة بصـرية
+optical isomerism	مجانسة بصرية / تصاوُغ بصـري؛ تصاوُغ ضوئي؛ إيزوميرية
+optical isotropy	تناحي ضوئي
+optical length	طول المسير الضوئي
+optical length; optical path	مسار ضوئي
+optical lever	رافعة ضوئية
+optical limiting	محدودية النفوذ الضوئي
+optical magnetic polarization	استقطاب مغنطيسي ضوئي
+optical medium	وسط ضوئي
+optical microscope	مجهر ضوئي
+optical mode	نمط بصري / نمط اهتزاز ضوئي
+optical model	نموذج بصري (ن)
+optical path	مسير ضوئي
+optical polishing	صقل ضوئي
+optical pumping	ضخ ضوئي
+optical pyrometer	مقياس الحرارة العالية الضوئي
+optical quenching	تخفيت ضوئي
+optical rotary power	قدرة التدوير الضوئية
+optical rotation	دوران ضوئي
+optical shutter	مِغلاق ضوئي
+optical switch	قاطعة ضوئية
+optically active	فعّال ضوئيا
+optically active substance	مادة فعالة ضوئيا
+optically flat	مستوٍ ضوئيًا
+optically flat; optically plane	مستوٍ ضوئيا
+optically negative crystal	بلورة سالبة
+optically plane	مستوٍ ضوئيًا
+optically positive crystal	بلورة موجبة
+optically transparent	شفاف للضوء
+optically void liquids	سوائل صافية ضوئيا
+optics	بصريات (ال...) / البصـريات ،علم الضوء
+optimal damping	تخامد أمثل
+optimum magnification	تكبير أمثل
+optocoupler	رابط ضوئي
+optoelectronics	إلكترونيات بصـرية
+optoisolator	عازل ضوئي
+optometer	مبصار / مقياس الإبصار
+optometry	قياس الأبصار
+orbit	مدار، فلك / مدار
+orbit of the electron	مدار الإلكترون
+orbital	مداري / مدارية ؛ مداري
+orbital angular momentum	اندفاع زاوي مداري
+orbital electron	الكترون مداري (ن)
+orbital quantum number	عدد كمومي مداري
+orbital velocity	سرعة مدارية
+order	رتبة، ترتيب
+order of equilibrium	رتبة التوازن
+order of interference	رتبة التداخل
+order of phase transition	رتبة انتقال الطور
+order-disorder transformation	تحول من لا ترتيب الى ترتيب
+order-disorder transition	انتقال نظام - فوضى
+ordered alloy	سبيكة مرتّبة
+ordinal number	محدد عدد ترتيبي
+ordinary ray	شعاع معتاد / شعاع عادي
+ordinary wave	موجة عادية
+ordinate	بعد صادي / ترتيب
+organ pipe	أنبوب الأرغن
+organic carbon cycle	دورة الكربون العضوية
+organic heat carrier	حامل الحرارة العضوي
+organosol	محلول عضوي
+orientation effect	تأثير التوجيه / مفعول التوجيه
+orientational polarizability	استقطابية توجيهية
+oriented adsorption	امتزاز موجَّه
+orifice	فتحة / ثقب؛ فتحة
+orifice plate	صفيحة ذات فتحة
+origin	أصل؛ مبدأ الإحداثيات
+original	أصيل
+ortho-hydrogen	هدروجين تسايري
+orthochromatic	مقوم اللون
+orthochromatic emulsion	مستحلب لا يتحسس الأحمر
+orthogonal axes	محاور متعامدة
+orthogonal functions	دوال متعامدة (ن) / دالتان متعامدتان
+orthogonality	تعامدية (ن)
+orthohelium	هليوم تسايري (أرثوهليوم)
+orthonormal functions	دوال متعامدة ومستنظمة
+orthonormal vectors	متجهات متعامدة ومستنظمة
+orthonormalization	تعامد واستنظام
+orthorhombic lattice	شبيكة مُعَيَّنية قائمة
+orthorhombic system	نظام معيني قائم
+orthoscopic eyepiece	عينية مصححة
+orthoscopic system	منظومة بصـرية مصححة
+orthoscopic system; rectilinear system	نظام بصري مصحَّح
+orthotomic system	نظام بصري متعامد الأشعة
+oscillating crystal method	طريقة البلورة المتذبذبة
+oscillating cylinder method	طريقة الاسطوانة المتذبذب
+oscillating-current circuit	دارة التيار المتذبذب
+oscillation	ذبذبة (ن) / اهتزاز؛ اهتزازة
+oscillator	متذبذب / هزازة؛ مهتز
+oscillatory	تذبذبي
+oscillatory discharge	تفريغ تذبذبي
+oscillatory motion	حركة تذبذبية
+oscillograph	مرسمة الذبذبات / راسم الاهتزاز
+oscilloscope	مشواف التذبذب / كاشف الاهتزاز
+osmium	أوسميوم
+osmosis	تناضح / تناضُح
+osmotic coefficient	معامل تناضحي
+osmotic pressure	ضغط تناضحي
+out of phase	مختلف الطور / اختلاف في الطور
+outgoing fields	مجالات خارجة
+outlet	مأخَذ؛ مَقْبَس
+output	خرْج / خَرْج
+output current	تيار الخَرْج
+output impedance	ممانعة الخَرْج
+output voltage	جهد الخَرْج؛ فلطية الخرج
+overcooling	فرط التبريد
+overgrowth	فرط النمو / نمو فوقي
+overheating	فرط التسخين / تسخين مفرط
+overlap integral	تكامل التراكب
+overlapping	تراكب تداخلي
+overload	حمل زائد
+overload level	مستوى فرط التحميل
+overmoderated	مهدأ بافراط (ن)
+overtones	توافقيات / مدروجات
+overvoltage	فرط الفولطية / فلطية مُفْرِطة
+Owen bridge	جسـر أوين
+oxidation potential	جهد التأكسد
+oxidation reduction electrode	مسرى التأكسد والاختزال
+oxygen	أكسجين
+ozone	أوزون
+ozone layer	طبقة الأوزون
+ozonosphere	جو (ال...) الأوزوني / غلاف الأوزون

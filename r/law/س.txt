@@ -1,0 +1,238 @@
+سؤال	question
+سائل	Liquid
+سابقة	prior
+سابقة قضائية	Judicial Precedent / legal precedent
+ساحب	drawer
+ساطع	Incandescent
+ساعات إضافية (من الشغل)	overtime
+ساعات العمل	hours of labour
+سَبٌّ	slander
+سباق التسلُّح	armament race
+سبب	cause
+سبب أجنبيّ	external cause / irrelevant cause
+سبب الشكاية	cause of complaint
+سبب العقد	cause of contract
+سبب جذري	Root Cause
+سبب دافِع	impulsive cause
+سبب غير جائز	illicit cause
+سبب مخالف للآداب، سبب غير أخلاقيّ	immoral cause
+سبب مشروع، سبب جائز	licit cause
+سببية (ال..) ، عِلِّية(ال..)	causality
+سبق الإصرار	premeditation
+سِجلّ الأحكام، دفتر الأحكام	judgment register
+سجل الأصول الثابتة	Fixed Asset Register
+سِجلّ الانتخابات	electorate register
+سِجلّ الحالة المدنية، سِجلّ الأحوال المدنية	civil register
+سِجلّ السفينة، يومية السفينة	ship's book; logbook
+سجل العقد	Contract Register
+سِجلّ العلاقات التجارية	register of trade relations
+سجل العلامة التجارية	Trademark register
+سجل الوتد	Peg Record
+سِجلّ تجاريّ	Commercial Register / commercial register / trade register
+سِجلّ تجاريّ مركزيّ	central commercial register
+سجل جنائي	Criminal Record
+سِجلّ عقاريّ	Real Estate Register / land register / property of land register
+سِجلّ قُنصليّ	consular register
+سجل متكامل لقياس الأداء	Balanced Scorecard
+سِجلّ محاضر الجلسات، دفتر محاضر الجلسات	minute-book
+سِجلّ محليّ	local register
+سجلات	Records / Registers
+سَجْن	Imprisonment / confinement
+سجن مدى الحياة، سجن مؤبد	life reclusion; life imprisonment
+سِجْن، مؤسسة سجنية	prison
+سجين	Prisoner / prisoner
+سحب	Withdrawal
+سحب الطلب	Application withdrawal
+سحب المصنف	Withdraw of work
+سحب. شد	Pull
+سَحْب، استرداد	withdrawal
+سداد الدَّيْن	payment of the Debt
+سداد نقديّ، دَفْع نقديّ	cash payment; payment in cash
+سِرٌّ	secret
+سر المهنة، سر مِهْنيّ	professional secrecy; trade secret
+سر تجاري	Trade secret
+سِرٌّ مصرفيّ، سِرٌّ بنكيّ	banking secret
+سرقة	Theft / theft
+سرقة بالقوة	robbery
+سرقة بواسطة الكسر	break and entry
+سرقة تأليف الغير، انتحال تأليف الغير	plagiarism
+سريّ	confidential
+سرية	confidentiality
+سعر آجل	Forward Rate
+سعر الإبرام	Strike Price
+سِعْر الإصدار	issue price
+سِعْر البورصة	exchange quotation
+سعر التوازن	Equilibrium Price
+سِعر الحسم، سِعر الخصم	discount rate
+سِعْر السهم	Share Price / share price
+سِعْر الصرف	Exchange Rate / rate of exchange
+سعر الصرف العائم المُدار	Managed Floating Exchange Rate
+سِعْر الفائدة	Interest Rate / interest rate
+سعر القطعة	Piece Price
+سِعْر الوحدة	unit-price
+سعر أمثل	Optimum Price
+سعر ثابت	Fixed Price; (FFP) Firm Fixed Price
+سِعْر عادِل	fair price
+سِعْر قانونيّ	legal rate
+سعر منخفض اليومي	Everyday Low Price (EDLP)
+سِعْر يحدده السوق	market price
+سِعْر، ثَمنٌ	price
+سعة	Capacity
+سِفارة	embassy
+سفتجة، كمبيالة	bill of exchange
+سَفَه	prodigality
+سفير	ambassador
+سفير بابويّ	nuncio
+سفينة	ship
+سفينة ساحلية	coaster
+سفيه	Spendthrift / prodigy
+سقف زجاجي	Glass Ceiling
+سقوط (لِفَوَات الأجل)	preclusion
+سقوط الحق	Forfeiture of the Right
+سقوط الدعوى	process peremption
+سقوط الرهن	foreclosure
+سكايب	Skype
+سكوت القانون	law silence
+سكينة عامة	public tranquillity
+سِلاح	weapon
+سلاسل التوريد القديمة	Legacy Supply Chains
+سلاسل التوريد ذات الحلقة المغلقة	Closed Loop Supply Chains
+سلاسل زمنية	Time Series
+سلاك	Slack
+سلسلة التوريد	Supply Chain
+سلسلة التوريد المحلية	Localized Supply Chain
+سلسلة التوريد المرنة	Supply Chain Resilience
+سلسلة التوريد المقترنة بإحكام	Tightly Coupled Supply Chain
+سلسلة التوريد المقترنة بشكل فضفاض	Loosely Coupled Supply Chain
+سلسلة التوريد الناجحين	Supply Chain Success
+سلسلة التوريد الهزيلة من طرف إلى طرف	Lean End-To-End Supply Chain
+سلسلة التوريد ذات الحلقة المغلقة (سلسلة التوريد العكسية)	Closed-Loop Supply Chain (Reverse Supply Chain)
+سلسلة الحيازة	Chain Of Custody
+سلسلة القيم	Value Chain
+سلسلة القيمة	Value chain
+سلطات	authorities
+سلطان الإرادة	autonomy of will / independence of will
+سلطة أبوية	parental authority
+سلطة إدارية	administrative authority
+سلطة استشارية	advisory authority
+سلطة تأديبية	disciplinary power
+سلطة تأسيسية	constitutive power
+سلطة تشريعية	legislative power; legislative authority
+سلطة تقديرية	discretionary power
+سلطة تنفيذية	executive power / regular authority
+سلطة رئاسية، سلطة تسلسلية	hierarchical power
+سلطة سياسية	political power
+سلطة شرعية	Apparent Authority
+سلطة عامة	public power
+سلطة قضائية	judicial power; judicial authority
+سلع استهلاكية سريعة الحركة	FMCG Fast-Moving Consumer Goods
+سلع تامة الصنع	Finished Goods
+سلع مزورة	Counterfeit goods
+سلع معمرة	Durables
+سلع مقلدة	Imitated goods
+سلع وخدمات استهلاكية	consumption goods and services
+سلع، بضائع	goods; articles; merchandise
+سلعة	Commodities
+سلف	Predecessor
+سلفة، عارية، قَرْض	loan
+سُلَّم الأجور	wage scale
+سِلْم، سلام	peace
+سلوك	Behavior
+سلوك إجراميّ	criminal behaviour; criminal conduct
+سلوك تنظيمي	Organizational Behavior
+سلوك مناهض للمنافسة	Anti-Competitive Behavior
+سلوك مواطنة الشركات	Corporate Citizenship Behavior
+سماع الشهادة	Hearing of Testimony
+سماع الشهود	hearing of witnesses
+سمسار	broker
+سمسار بحريّ	ship broker
+سمسرة	Brokerage / brokerage; broking
+سمسرة عقارية	Real Estate Brokerage
+سمعة تجارية	commercial reputation
+سموّ الدستور	supremacy of the constitution
+سنّ البلوغ، سنّ النضج	age of maturity
+سنُّ التقاعد	Retirement Age / retirement age
+سن التمييز	Age of Discernment
+سن الحضانة	age of nurture
+سنّ الرشد	Age of Majority / age of majority
+سِن الشغل، سِن العمل	hiring age
+سِنّ قانونية	legal age
+سَنَدٌ	bond
+سند اسميّ	nominative bond; nominative title
+سند البيع	sale bill
+سند التوكيل	Power of Attorney
+سند الحيازة	possession title
+سند الخزن، سند رهن البضاعة	warehouse warrant
+سند الخزينة	treasury bill
+سند الدَّيْن	Deed of Debt
+سند الشحن	bill of lading / shipping bill
+سَنَدُ الملكية	title of property
+سَنَد تنفيذيّ	executive title
+سَنَد على بياض	blank bill
+سند قرض	debenture
+سَنَد قرض لحامله	bearer obligation
+سند لأمر	Promissory Note
+سَنَد لأمر، سَنَد إذنيّ	order title
+سَنَد لحامله	bearer bond; bearer bill; bill payable to bearer
+سَنَدٌ، حُجّة	title
+سندات	Bonds
+سنة (ال..) القضائية	judicial year
+سنة الأساس	Base Year
+سنة جبائية	fiscal year
+سَنَة ضريبية	Taxable Year / taxable year
+سنة عقدية	Contractual Year
+سنة مالية	Fiscal Year / financial year
+سنويّ، حوليّ	annual; yearly
+سنويا	annually
+سهم اسميّ	nominal share
+سهم تمتع	enjoyment share
+سهم رأس المال	share of capital
+سهم عاديّ	ordinary share
+سهم غير محرَّر	non-liberated share
+سَهْم لحامله	bearer share
+سهم متعدد الأصوات	multiple voting share
+سهم محرَّر	liberate share
+سَهْم، نصيب، حصة	share
+سوء استعمال القانون	breach of law
+سوء استعمال، تَعسُّف، إساءة	misuse
+سوء معاملة الأطفال	child abuse
+سوء نية	bad faith
+سوابق جنائية	Prior Convictions
+سوابق عدلية	police record; punishment record
+سوق	Market / market
+سوق الأوراق المالية	Stock Market / stock exchange
+سوق البضائع	commodity exchange
+سوق الرساميل	capital market
+سوق الشغل، سوق العمل	labour market
+سوق الكحوليات	Bear Market
+سوق النقد، سوق نقدية	money market
+سوق ثانوي	Secondary Market
+سوق رئيسي	Primary Market
+سوق سوداء	black market
+سوق صاعدة	Bull Market
+سوق فورية	Spot Market
+سوق مقيد	Restricted Marketplace
+سيئ النية	Mala fide
+سيادة	Sovereignty / sovereignty
+سيادة الدولة	state sovereignty
+سيادة سياسية	political sovereignty
+سياسات	Policies
+سياسات المطالبات المقدمة	Claims Made Policies
+سياسة	Policy
+سياسة إدارية	administrative policy
+سياسة الارجاع	Return Policy
+سياسة الاستدامة	Sustainability Policy
+سياسة التمييز العنصريّ	apartheid policy
+سياسة المشتريات	Procurement Policy
+سياسة بيئية	Environmental Policy
+سياسة تنظيمية	Organizational Politics
+سياسة توزيع الأرباح التقدمية	Progressive Dividend Policy
+سياسة جبائية	fiscal policy
+سياسة جنائية	criminal policy
+سياسة رأس المال العامل	Working Capital Policy
+سياسة عامة	Public Policy
+سياق العمل	Work Context
+سياق عالي الثقافات	High Context Culture
+سيدة أعمال	businesswomen
+سينسيكس	SENSEX
+سيولة	Liquidity / liquidity

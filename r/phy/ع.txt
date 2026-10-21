@@ -1,0 +1,524 @@
+عائق	baffle / obstacle
+عائلة مميّزات	family of characteristics
+عارض	accidental
+عارض الشفّافيات	diascope
+عارضة اتجاهية	directional baffle
+عارضة متصلة	continuous beam
+عازل	insulator
+عازل اتجاهي الخواص	anisotropic dielectric
+عازل استفطابي	dielectric
+عازل استقطابي لااتجاهي الخواص	isotropic dielectric
+عازل ضوئي	optoisolator
+عازل كهربائي	electrical insulator
+عاكس	inverser / inverter / reflecting / reflector
+عاكس (ن)	reflector
+عاكس التيار	current reverser
+عاكس المفاعل	reflector of reactor
+عاكس طور	gyrator
+عاكس طور انتقائي	gyrator
+عاكس مرجّع	retroreflector
+عاكس مُرَكَّز	concentrating reflector
+عاكسية (البيدو) (ن)	albedo
+عاكسية الجرعة التفاضلية (ن)	differential dose albedo
+عاكسية طيفية	spectral reflectance
+عاكسية مرآوية	specular reflectance
+عاكسـية؛ ألبيدو	albedo
+عامل	Boltzmann factor / factor
+عامل اتجاهية الخواص	anisotropy factor; dissymetry factor
+عامل ازالة التلوث (ن)	decontamination factor
+عامل ازالة التمغنط	demagnetization factor; depolarization factor
+عامل استخدام حراري (ن)	thermal utilization factor
+عامِل الاتاحة	availability factor
+عامل الاحتمال	probability factor
+عامل الاختزال	reduction factor
+عامل الاخصاب (ن)	enrichment factor
+عامل الأرض الكروي	spherical earth factor
+عامل الأمان	factor of safety / factor of safety; safety factor / safety factor
+عامِل الامتصاص	absorptance / absorptance; absorption factor / absorption factor
+عامل الانشطار الحراري (ن)	thermal fission factor
+عامل الانشطار السريع (ن)	fast fission factor
+عامل الانضغاطية	compressibility factor
+عامل الانعكاس	reflection factor
+عامل الآنية (ن)	simultaneity factor
+عامل البنية	structure factor
+عامل التبدد	dissipation factor
+عامل التخامد	damping factor
+عامل التخصيب	enrichment factor
+عامل التراكم (ن)	build-up factor
+عامل الترطيب	wetting agent; surface-active agent
+عامل التشغيل	duty factor
+عامل التضخيم	amplification factor
+عامل التطهير	decontamination factor
+عامل التعويض (ن)	compensation factor
+عامل التكاثر	multiplication factor
+عامل التمييز	characterization factor
+عامل التناسب	factor of proportionality
+عامل التنوع (ن)	diversity factor
+عامل التوهين	attenuation factor
+عامل التَوْهين (ن)	attenuation factor
+عامل الجودة	quality factor / radiation weighing factor
+عامل الجودة (ن)	quality factor
+عامل السَّعَة (ن)	capacity factor
+عامل الشكل	form factor
+عامل الضجيج	noise factor
+عامل الطلب (ن)	demand factor
+عامل الظِلّ	shadow factor
+عامل العيب (ن)	disadvantage factor
+عامل الفصل	separation factor
+عامل الفصل (ن)	separation factor
+عامل الفقد	loss factor
+عامل القدرة	power factor
+عامل المزيَّة (ن)	advantage factor
+عامل المضاعفة الحركي (ن)	kinetic multiplication factor
+عامل المضاعفة الساكن (ن)	static multiplication factor
+عامل المضاعفة الغازية (ن)	gas multiplication factor
+عامل المضاعفة الفعال (ن)	effective multiplication constant; effective multiplication factor
+عامل المقياس	scale factor
+عامل الميل	obliquity factor
+عامل النفوذ	transmission factor
+عامل النقل	transmission factor
+عامل امتصاص ذاتي (ن)	self absorption factor
+عامل انعكاس اشعاعي	radiant reflectance factor
+عامل بيتا	beta factor
+عامل تباين الخواص	dissymmetry factor; anisotropy factor
+عامل تبدد العازل الاستقطابي	dielectric dissipation factor
+عامل تحميل (ن)	load factor
+عامل تصحيح الخلية (ن)	cell correction factor
+عامل تكوين القمم للتدفق (ن)	flux peaking factor
+عامل جيب التمام	obliquity factor
+عامل ذروة القدرة (ن)	power peaking factor
+عامل سلّم العد (ن)	scaling factor
+عامل ضوء النهار	daylight factor
+عامل قدرة العازل الاستقطابي	dielectric power factor
+عامل قناة حارة (ن)	hot channel factor
+عامل لاندِه	Landé factor
+عامل مرشح ضوئي	light filter factor
+عامل مضاعفة لانهائي (ن)	infinite multiplication factor
+عامل مغنطيسي ميكانيكي	magnetomechanical factor
+عامل ميكانيكي مغنطيسي	magnetomechanical factor
+عاملي	factorial
+عبور طيفي	spectral transmission
+عبور نفقي للإلكترونات	tunneling of electrons
+عبور؛ انتقال	transition
+عبورية نوعية	specific transmittivity
+عتاد	hardware
+عتامة	opacity
+عتبة	threshold
+عتبة التباين	threshold of contrast
+عتبة التردد	threshold frequency
+عتبة التفاعل	reaction threshold
+عتبة السمع	audibility threshold / threshold of hearing
+عتبة الطاقة	threshold energy
+عتبة اللمعان المُطْلَق	absolute luminance threshold
+عتبة اللمعان النسبية	relative luminance threshold
+عتبة الليزر	laser threshold
+عَتْبَة النَّقاء المُطْلَق	absolute purity threshold
+عتبة كهرضوئية	photoelectric threshold
+عتبة لونية	color threshold; colour threshold
+عتلة	cross bar
+عتلة، مُخْل	lever
+عتمة	opacity
+عجلة (ال...) والمحور	wheel and axle
+عجلة البكرة	pulley-wheel
+عجلة المسننة	Fizeau toohed wheel
+عجلة المُوازنة	balance wheel
+عدُّ الخلفية	background count
+عدّات زائفة	spurious counts
+عدَّاد	counter
+عداد أشعة كونية	cosmic rays counter
+عداد الأطراف	hand-and-foot counter
+عدّاد الدورات	revolution counter
+عدَّاد ألفا	alpha counter
+عدَّاد الماء	water meter
+عداد المسح الإشعاعي	radiation counter
+عداد النترونات	neutron counter
+عداد الوميض	scintillation counter
+عداد تناسبي	proportional counter
+عداد ذاتي الإطفاء	self-quenching counter
+عداد شيرنكوف	Cerenkov counter
+عداد عَشـري	decade counter / decade scaler
+عداد غاما	gamma counter
+عداد غايغر	Geiger counter
+عداد غايغر-مولر	Geiger-Müller counter
+عدّاد كَايكَر	Geiger counter
+عداد هالوجيني	halogen counter
+عدّاد وميض	scintillation counter
+عدَّاد؛ سُلم العد	scaler
+عدد	Avogadro's number / abbe number
+عدد (ال...) البؤري لفتحة العدسة	focal number; relative operture of a lens
+عدد (ال...) الكمي السّمتي (ن)	azimuthal quantum number
+عدد أفوغادرو	Avogadro's number
+عدد الانشغال	occupation number
+عدد البروتونات (ن)	proton number
+عدد التجوُّف	cavitation number
+عدد التكافؤ	valence number
+عدد الغَرابة	strangeness number
+عدد الكتلة (ن)	mass number
+عدد النترونات	neutron number
+عدد النترونات (ن)	neutron number
+عدد تنسيق	coordination number
+عدد جزيئي	molecular number
+عدد حقيقي	real number
+عدد ذري (ن)	atomic number
+عدد سحري	magic number
+عدد عُقَدِي	complex number
+عدد فردي	odd number
+عدد كمومي سبيني	spin quantum number
+عدد كمومي سمتي	azimuthal quantum number
+عدد كمومي قطري	radial quantum number
+عدد كمومي مداري	orbital quantum number
+عدد كمي (ن)	quantum number
+عدد كمي برميّ	spin quantum number
+عدد كمي برمي لمتساويات الكتل	isobar spin quantum number; isotopic
+عدد كمي داخلي	inner quantum number
+عدد كمي رئيس (ن)	principal quantum number
+عدد كمي زاوي (ن)	angular quantum number
+عدد كمي شعاعي (ن)	radial quantum number
+عدد كمي مغنطيسي (ن)	magnetic quantum number
+عدد لورنتز	Lorentz number
+عدد لوشميت	Loschmidt's number
+عدد ماخ	Mach number
+عدد مُنَطَّق	rational number
+عدد موجي	wave number
+عدد موجي (ن)	wave number
+عددان غير متقاسمين	incommensurable numbers
+عدستا بييه	Billet's split lens
+عدسة	lens
+عدسة (ال...) البِلورية للعين	crystalline lens of eye
+عدسة أسطوانية	cylindrical lens
+عدسة التصوير عن بعد	telephoto lens
+عدسة الحقل	field lens
+عدسة الصوّارة	lens of camera
+عدسة العين	eye lens
+عدسة الكترونية	electron lens / electronic lens
+عدسة المجال	field lens
+عدسة بارلو	Barlow lens
+عدسة برتراند	Bertrand lens
+عدسة بسيطة	simple lens
+عدسة تصوير عن بُعد	telephoto lens
+عدسة ثنائية البُؤَر	bifocal lens
+عدسة ثنائية المحرق، عدسة ذات محرقين	bifocal lens
+عدسة جسمية	objective lens
+عدسة رقيقة	thin lens
+عدسة سالبة	negative lens
+عدسة سميكة	thick lens
+عدسة شيئية	objective lens
+عدسة ضعيفة	weak lens
+عدسة طوقية	toric lens
+عدسة عازلة استقطابية	dielectric lens
+عدسة عينية	eye lens
+عدسة كروية	spherical lens
+عدسة كهرساكنة	electrostatic lens
+عدسة لا زيغية	aplanatic lens
+عدسة لا لونية	achromat / achromatic lens
+عدسة لا نقطية	astigmat / astigmatic lens
+عدسة لازيغية	aplanatic lens
+عدسة لاصقة	contact lens
+عدسة لالونية	achromat; achromatic lens / achromatic lens / apochromat lens; apochromatic lens
+عدسة لامَّة	convergent lens / converging lens
+عدسة لانقطية	astigmatic lens
+عدسة مبعِّدة	diverging lens
+عدسة متحولة	convertible lens
+عدسة متصالبة	crossed lens
+عدسة متغيرة البؤرة	variable focus lens; zoom lens / zoom lens
+عدسة متغيِّرة البؤرة؛ عدسة متغيِّرة المحرق	variable focus lens
+عدسة محدّبة	convex lens
+عدسة محدبة الوجهين	biconvex lens / convexo-convex lens / double convex lens
+عدسة محدّبة مقعّرة	concavo-convex lens / convexo-concave lens
+عدسة مُرَكَّبة	compound lens
+عدسة مستوية محدَّبة	planoconvex lens
+عدسة مستوية مقعرة	planoconcave lens
+عدسة مشطورة	split lens
+عدسة مُصحِّحة اللانقطية	anastigmatic lens
+عدسة مغنطيسية	magnetic lens
+عدسة مغنطيسية رباعية الأقطاب	magnetic quadrupole lens
+عدسة مفَرقة	divergent lens; diverging lens
+عدسة مقربة	convergent lens
+عدسة مقعّرة	concave lens
+عدسة مقعرة الوجهين	biconcave lens / concavo- concave lens / concavo-concave lens; biconcave lens / double concave lens
+عدسة مُقَعَّرة مُحَدَّبة	concave-convex-lens
+عدسة مقعرة مستوية	plano-concave lens
+عدسة مقّومة	erecting lens
+عدسة مكافئة	equivalent lens
+عدسة مكبِّرة	magnifying glass
+عدسة موجبة	positive lens; converging lens
+عدسة نقطية	anastigmat / anastigmat lens; anastigmatic lens / anastigmatic lens
+عدسة هلالية	meniscus lens
+عدسة واسعة الزاوية	wide angle lens
+عدم اسقرار التحريك المائي (ن)	hydrodynamic instability
+عدم انتظام	disorder
+عدم مواءمة	mismatch
+عدة التشعيع (ن)	irradiation rig
+عديدة	multiplet
+عديم الأدمة	skinless
+عديم اللون	colorless
+عربة اليد	wheel-barrow / wheelbarrow
+عرض (ال...) التام عند منتصف الارتفاع (ن)	full width at half maximum
+عرض الإشعاع	radiation width
+عرض الاشعاع (ن)	radiation width
+عرض الانشطار (ن)	fission width
+عرض الحُزْمَة	beam width
+عرض الخط	line width
+عرض الخط الطيفي	breadth of spectrum line / line width
+عرض الرنين (ن)	resonance width
+عرض المستوى (ن)	level width
+عرض المستوى الجزئي (ن)	partial level width
+عرض النصف	half with
+عرض النطاق	bandwidth / width of band
+عرض جزئي	partial width
+عرض طبيعي لمستوَى الطاقة	natural width of energy level
+عرض مستوى الطاقة	energy level width
+عرض نتروني مختزَل (ن)	reduced neutron width
+عروض طيف الانبعاث النتروني (ن)	neutron width
+عروة	mesh
+عروة مُغْلقة	closed loop
+عروة، بطن	loop; antinode
+عزل	isolation
+عزل (ن)	isolation
+عزل كهربائي	electric insulation
+عزم	moment
+عزم الازدواج	moment of couple
+عزم الإلكترون المغنطيسي	magnetic moment of electron
+عزم الانحناء	bending moment
+عزم الاندفاع، الاندفاع الزاوي	moment of momentum
+عزم الزخم، زخم زاوي	moment of momentum
+عزم العطالة	moment of inertia
+عزم الفتل	moment of torsion
+عزم القصور الذاتي	moment of inertia
+عزم القصور الذاتي الميكانيكي	mechanical moment of inertia
+عزم القطباني	dipole moment
+عزم القطباني المغنطيسي	magnetic dipole moment
+عزم القوة	moment of force / torque
+عزم المتَّجه	moment of a vector
+عزم المزدوجة	moment of couple
+عزم المغنطيس	moment of magnet
+عزم ثنائي الأقطاب	dipole moment
+عزم ثنائي الأقطاب جزيئي	molecular dipole moment
+عزم ثنائي الأقطاب محتث	induced dipole moment
+عزم رباعي الأقطاب	quadruple moment / quadrupole moment
+عزمُ عديدِ الأقطاب	multipole moment
+عزم كهربائي	electric moment
+عزم مزدوجة	torque
+عزم مغنطيسي	magnetic moment
+عزم ميكانيكي	mechanical moment
+عزوم العطالة الرئيسية	principal moment of inertia
+عزوم متعددة الأقطاب	multipole moments
+عشوائي	stochastic
+عشي	night blindness
+عصا الياردة	yardstick
+عِصابة الامتصاص	absorption band
+عِصابَة التكافؤ	valence band
+عِصابة التوصيل؛ عِصابة النقل	conduction band
+عِصابة الطاقة	energy band
+عصابة طاقة مباشـرة	direct energy band
+عصابة طيفية	spectral band
+عِصابة محظورة	forbidden band
+عصب بصري	optic nerve
+عَصَب سمعي	auditory nerve
+عُصَيَّات	rods
+عضلة هدبية	ciliary muscle
+عضو (ال...) الساكن	stator
+عضو الأمان (ن)	safety member
+عضو التحكم (ن)	control member
+عضو التحكم الذاتي (ن)	member of automatic control
+عضو الحَرَج	critical organ
+عضو ساكن	stator
+عضو طرفي	end-organ
+عُطارد	Mercury
+عطارد، زئبق	mercury
+عطالة	inertia
+عظم الركاب	stapes; stirrup borre
+عفريت مكسويل	Maxwell demon
+عَقْد	decade
+عقدة	node
+عقدة مرجعية	reference node
+عكس الزمن	time reversal
+عكس القطبية	reversal of polarity
+عكس خطوط الطيف	reversal of spectral lines
+عكس زمني	time reversal
+عكسي	inversely
+عكوسية	reversibility
+علاقات	Maxwell relations
+علاقات الارتياب	relations of uncertainty / uncertainty relations
+علاقات العدسات الرقيقة	thin-lens relationships
+علاقات مكسويل الترموديناميكية	Maxwell thermodynamic relations
+علاقة	Batschinski relation
+علاقة الإغلاق	closure relation
+علاقة الاكتمال	completeness relation
+علاقة الطاقة بالمدى	range-energy relation
+علاقة المدى بالطاقة	range-energy relation
+علاقة بلانك	Planck’s relation
+عُلْبة (ن)	can; gaine
+علبة التفجر (ن)	burst slug; burst can
+علبة المقاومات	resistance box
+علبة مواسعات	capacitance box
+عِلْم	science
+علم الإحصاء	statistics
+علم الاحياء الاشعاعي (ن)	radiobiology
+علم الأحياء الإشعاعي؛ البيولوجيا الإشعاعية	radiobiology
+علم الاحياء الفضائي	space biology
+علم الأرصاد الجوية	meteorology
+علم الأشعة (ن)	radiology
+علم الإلكترونيات	electronics
+علم الألوان	chromatics
+علم البِلَّورات	crystallography
+علم التحريك	kinetics
+علم التحريك (دينميات)	dynamics
+علم التحريك؛ ديناميك	dynamics
+علم الترموديناميك؛ علم التحريك الحراري	thermodynamics
+علم التعدين	metallurgy / mineralogy
+علم الجريان	rheology
+علم الجريان؛ علم الدَّفْق	rheology
+علم الحركة	kinematics / kinetics
+علم الحساب	arithmetic
+علم الديناميك الحراري الهوائي	aerothermodynamics
+علم السكون	statics
+علم السوائل	hydraulics
+علم الطيران	aeronautics
+علم الطيف	spectroscopy
+علم الفلزات	metallurgy
+عِلْم الفلك	astronomy
+علم القذائف	ballistics
+علم الكواكب	planetology
+علم الكون	cosmology
+علم الميكانيك	mechanics
+علم الهواء المضغوط	pneumatics
+علم الوراثة الإشعاعي	radiation genetics / radiogenetics
+علم بنية الفلزات والسبائك	metallography
+عِلم تجمد المحاليل	cryoscopy
+علم تحريك السوائل	hydrodynamics
+علم تحريك السوائل المغنطيسي	magnetohydrodynamics
+علم توازن السوائل	hydrostatics
+علم ديناميك الهواء	aerodynamics
+علوّ السـرعة	velocity head
+عُلوُّ الضغط	pressure head
+علوم نووية (ن)	nuclear science
+على التسلسل	series (in..)
+عمر	life time
+عمر الحاملات	lifetime of carriers
+عمر العدّاد	service life of a counter
+عمر النترون	neutron lifetime
+عمر النترونات (ن)	neutron lifetime
+عمر النصف	half-life / half-life time
+عمر النصف (ن)	half-life
+عمر النصف الاحيائي (ن)	biological half-life
+عمر النصف الاشعاعي (ن)	radioactive half life
+عُمْر النصف الإشعاعي؛ دَوْر النصف الإشعاعي	radioactive half-life
+عمر النصف الفعال	effective half-life
+عمر النصف الفعال (ن)	effective half-life
+عمر حالة مثارة	lifetime of an excited state
+عمر فرمي	Fermi age
+عمر متوسط	mean life / mean lifetime
+عمر متوسط (ن)	mean life
+عمق	depth
+عمق الأدمة	skin depth
+عمق الحقل	depth of field
+عمق القشـرة	skin depth
+عمق المجال	depth of field
+عمق المجال التصويري	field-depth of photography
+عمق ظاهري	apparent depth
+عمل	work
+عمل (ال...) في حقل الاشعاع (ن)	radiation work
+عمل اشعاعي (ن)	radiological work
+عمل افتراضي	virtual work
+عمل تدريع ذاتي (ن)	self-shielding factor
+عمل خارجي	external work
+عمليات حجب	screen processes
+عمليات عكيسة	reversible processes
+عمليات كَظيمة	adiabatic processes
+عملية	process
+عملية إعادة توليد	regenerative process
+عملية الانتشار الحرارية (ن)	thermal diffusion process
+عملية التطاير (ن)	volatility process
+عملية القياس	measurement
+عملية امكلاب	flip-over process; umklapp process / umklapp process; flip-over process
+عملية إنتاج الأزواج	process of pair creation
+عملية انتشار غازي (ن)	gaseous diffusion process
+عملية انتقال	translation operation
+عملية ثابتة الأنتروبية	isentropic process
+عملية دورية	cyclic operation
+عملية غير عكيس	irreversible process
+عمليّة مستمرة	continuous operation
+عملية نووية (ن)	nuclear process
+عملية؛ تحوُّل	process
+عمه الألحان	amusia
+عمود	column
+عمود الانتشار	diffusion column
+عمود حراري (ن)	thermal column
+عمود كربوني	carbon pile
+عمود منبض (ن)	pulsed column
+عمود موجب	positive column
+عمود هوائي مهتز	vibrating column of air
+عمى الألوان	colour blindness
+عمى لوني	color blindness daltonism
+عناصر البلّورة	crystal elements
+عناصـر انتقالية	transition elements
+عناصـر ترابية نادرة	rare earth elements
+عناصـر ما بعد اليورانيوم	transuranium elements
+عناصر ما فوق اليورانيوم	transuranium elements
+عناصر مصفوفةِ الزخم الزاوي	angular momentum matrix elements
+عناصر مغنطيسية	magnetic elements
+عنصـر	element
+عنصر (ن)	element
+عنصر الأمان (ن)	safety element
+عنصر التبدد الصوتي	acoustic dissipation element
+عنصر التحكم التقريبي (ن)	coarse control element
+عنصر التناظر	symmetry element
+عنصـر الدارة	circuit element
+عنصـر الوقود	fuel element
+عنصر الوقود (ن)	fuel element
+عنصر تحكم دقيق (ن)	fine control element
+عنصر تدعيم (ن)	shim element
+عنصـر ثنائي الجانب	bilateral element
+عنصـر حجم	voxel
+عنصر حراري	thermo-element / thermoelement
+عنصـر خطي	linear element
+عنصر زائف (ن)	dummy element
+عنصـر صورة (عنصورة)	picture element (pixel)
+عنصر فاصل (ن)	separative element
+عنصـر فاعل	active element
+عنصر كهرسلبي	electronegative element
+عنصـر لاخطي	nonlinear element
+عنصـر متوزِّع	distributed element
+عنصـر مشع	radioactive element / radioelement
+عنصر مشع (ن)	radioelement
+عُنْصر مصّاص	absorber element
+عنصر معزِّز	booster element
+عنصـر منطقي	logic element
+عنصـر منفعل	passive element
+عنفة	turbine
+عنفة نبضية	impulse turbine; impluse wheel; Pelton wheel
+عُنقود	cluster
+عنقود نجمي كروي	globular star cluster
+عنوان	address
+عوازل حرارية	heat insulators
+عواصف مغنطيسية	magnetic storms
+عود (ال...)، المزهر	lute
+عودة اتحاد الأيونات	recombination of ions
+عودة التبلور	recrystallization
+عودة التجمُّد	regelation
+عيار	Lorentz gauge / caliber; calibre / standard
+عيار الذهب	fineness of gold
+عياني (ن)	macroscopic
+عيب	defect
+عيب بلوري	crystal defect
+عيب خطي	line defect
+عيب شبيكي	lattice defect
+عيب فرنكل	Frenkel defect
+عين	eye
+عين سحرية	magic eye
+عين سديدة النظر	emmetropic eye
+عين سليمة	normal eye / normal-eye
+عين مركَّبة	compound eye
+عيِّنات وصفية (ن)	attribute samples
+عينة	Gauss eyepiece / sample
+عيِّنَة نموذجية	representative sample
+عيني	ocular; eyepiece
+عينية	eyepiece / ocular
+عينية سالبة	negative eyepiece
+عينية قياس	measuring eyepiece
+عينية مصحِّحة	compensating eyepiece / orthoscopic eyepiece
+عينية موجبة	positive eyepiece
+عيوب الرؤية	defects of sight / defects of vision / vision defects of sight
+عيوب العدسات	defect of lenses / defects of lenses
+عيوب العدسة	lens defects

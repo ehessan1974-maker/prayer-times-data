@@ -1,0 +1,16 @@
+y-axis	محور الصادات، محور (ال...) الصادي
+y-piece	قطعة بشكل y
+yarn	خيط (مبروم) / خَيْطُ غَزْلٍ
+year (light...)	سنة ضوئية
+year (lunar...)	سنة قمرية
+yeast	خميرة
+yellow	أصفر
+yellow enzyme	إنزيم أصفر
+yellow heat	منطقة الحرارة الصفراء
+yield	حصيلة، مردود، ناتج / مردود، حصيلة
+ylide	إيليد
+ylidene	إيليدين
+yoke	نِير
+yperite; mustard gas	غاز الخردل، إيبّريت
+ytterbium	اتربيوم / إيتّربيوم
+yttrium	اتريوم / إيتّريوم

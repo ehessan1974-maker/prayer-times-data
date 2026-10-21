@@ -1,0 +1,185 @@
+د.د.ت	DDT / d.d.t
+دائرة مراقبة، دائرة تحكم	control circuit
+دائري	circular
+دائم	permanent
+داخل الجزيئات	intramolecular
+داخل الحلقة، داخلي حلقي	endocyclic
+داخل الخلايا	intracellular
+داخل: سابقة	intra-
+داخلي	endo- / inner / internal
+داخليُّ الطاقة	endergonic
+داخلي المنشأ	endogenous / intrinsic
+داخلي، باطني	internal
+داخون	fume cupboard / fume hood / hood
+دارئ	buffer
+دارة (مفتوحة)، دائرة مفتوحة	circuit (open..)
+دافع	motive
+دافع سائل، داسر سائل	liquid propellant
+دافع نووي	nuclear propellant
+دافع، داسر	propellant
+دافع، وقود دافع	propellant
+دافق، مصروف	effluent
+داكرون	dacron
+دالّة الحالة	function of state
+دالّة ذاتية	eigenfunction
+دالّة هاملتونيّة	Hamiltonian function
+داني، قريب	proximal
+دايينات	dienes
+دباغة	tanning
+دُبال	humus
+دَبِق	sticky / viscid
+دخان	fume / smoke
+دخاني	fuming
+دَخْل	input
+درجة	degree
+درجة الاحتراق	fire point
+درجة الانسكاب	pour point
+درجة الانقلاب	inversion point
+درجة التأين	degree of ionization / ionization degree
+درجة التباين	degree of variance
+درجة التجمُّد	freezing point / setting point
+درجة التشبع	degree of saturation
+درجة التفكّك	degree of dissociation
+درجة الحرارة	temperature
+درجة الحرارة التصلدية، درجة الحرارة اليوتيكية	eutectic temperature
+درجة الحرارة الحرجة	critical temperature / temperature (critical)
+درجة الحرارة المُثلى	optimum temperature
+درجة الحرارة المطلقة	absolute temperature
+درجة الحرارة والضغط المعياريين	standard temperature and pressure
+درجة الحريّة	degree of freedom
+درجة الحلمهة	degree of hydrolysis
+درجة الحلمهة، درجة الحلمأة، درجة التحلمة، درجة التحلل المائي	degree of hydrolysis
+درجة الصفر	zero
+درجة الغليان	boiling point
+درجة إنكليزية	English degree
+درجة بوميه	Baumé degree
+درجة حرارة الاشتعال	temperature (kindling)
+درجة حرارة الانتقال	transition temperature
+درجة حرارة الانصهار	melting point
+درجة حرارة الانقلاب	inversion temperature
+درجة حرارة الإيقاد	ignition temperature
+درجة حرارة التحول	transformation temperature
+درجة حرارة الضّرم	kinding temperature
+درجة حرارة الغرفة، درجة حرارة الوسط	room temperature
+درجة حرارة الغليان	boiling temperature
+درجة حرارة المحلول الحرجة	critical solution temperature
+درجة حرارة لهب مكظوم	adiabatic flame tem--perature
+درجة سِلزيوس	celsius degree
+دِرْع، حافظة	armature
+دعامة، سندٌ	support
+دعوى، مبرهنة	theorem
+دفّاع	impeller
+دفْع	impulsion
+دفعة	batch
+دفعة، وجبة	batch
+دَفْق، تَدفُّق	effusion / influx
+دفق، صهور	flux
+دق، صدْم	knocking
+دقائق ألفا	alpha particles
+دقائق غروانية	colloïdal particles
+دقائق كيلوسية	chylomicrons
+دقائق معلّقة، جسيمات عالقة، جسيمات معلّقة	suspended particles
+دقة	precision / precision (of measurements)
+دقة، ضبط	accuracy
+دقيق	accurate
+دقيق، صحيح	precise
+دقيق، مضبوط	accurate / precise
+دقيق، ميكرو	micro-
+دقيق، ناعم	fine
+دقيقة	minute / particle
+دقيقة بيتا	beta particle
+دكستران	dextran
+دكستروز	dextrose / grape-sugar; dextrose
+دكستروز، غلوكوز، سكر العنب	dextrose; d-glucose
+دكسترين	dextrin
+دلتا	delta
+دَلْك	rubbing
+دليل	guide
+دليل، قرينة	index
+دم غالاكتوزيمي، غالاكتوز دموي	galactosemia
+دمجانة	carboy
+دنا	DNA
+دنا مأشوب	recombinant DNA
+دهان	paint
+دهان مُتلألئ	luminescent paint
+دهان، طلاء	paint
+دهن حيواني	tallow
+دُهْن، دَسَم	fat
+دهن، شحم	fat
+دُهْنِي، دَسِم	fatty
+دواب في الشحم أو الزيت	liposoluble
+دوّار	rotary
+دوارق معايرة	titration flasks
+دوترة	deuteration
+دوترون	deuteron
+دوتريوم	deuterium
+دوتيريوم	deuterium
+دوْر	period
+دور ألومين، ديور ألومنيوم	duralumin; duraluminium
+دور، دورة	period
+دورالومين	duralumin
+دوران	circulation / rotation
+دوران بصري	optical rotation
+دوران تبديلي	mutarotation
+دوران حُرّ	free rotation
+دوران ضوئي	optical rotation
+دورانٌ ضوئيٌّ نوعي	specific optical rotation
+دوران مغناطيسي بصري (لمستوى الأقطاب)	magneto-optical rotation
+دوران مقيَّد	restricted rotation
+دوران يميني	dextrogyration
+دوران، جريان	circulation
+دورق	flask
+دورق إرلنماير	Erlenmeyer flask
+دورق بقاعدة مدورة	flask (round bottom...)
+دورق ترشيح	filtering flask
+دورق تقطير	distillation flask
+دورق تقطير، قارورة تقطير	distillation flask
+دورق حجمي	volumetric flask
+دورق ذو عنق عريض، قارورة بعنق عريض	wide necked flask
+دورق ضيق العنق	flask narrow-necked / narrow naked flask
+دورق طويل العنق	long necked flask
+دورق قطار	dropper flask
+دورق كلاسين	Claisen flask
+دورق كيلدال	Kjeldahl flask
+دورق مخروطي	conical flask
+دورق مخروطي، ارلنماير	Erlenmeyer flask
+دورق مُدوَّج	measuring flask
+دورق مستدير القاعدة	round (-bottomed) flask
+دورق معياري	standard flask
+دورق منجلي	sickle flask
+دورة الكربون	carbon cycle
+دورة بقاعدة مسطحة	flask flat bottom
+دورة بورن-هابر	Born-Haber cycle
+دورة حمض الليمون	citric acid cycle
+دورة كارنو	Carnot cycle
+دورة كْرِبس	Kreb's cycle
+دورة كيرب	kerb's cycle
+دورة، حلقة	cycle
+دوري	periodic
+دوري، حَلقي	cyclic
+دورية	periodicity
+دولوميت	dolomite
+دولي	international
+دون الحمراء	ultra-red (infra-red)
+دون الميكرون	amicro / ultramicron
+دَيْأَزَة	diazotization
+ديأزة، دستزة	diazotization
+ديازو	diazo-
+ديازو ميتان	diazomethane
+دياستاز	diastase
+دَيال	dialysis
+دَيالة	dialysate
+ديجوكسين	digoxin
+ديسبروزيوم	dysprosium
+ديسبروسيوم	dysprosium
+ديكان	decane
+ديمرة	dimerization
+ديموكريتس، ديموكريت	democritus
+ديناميت	dynamite
+ديناميت هلامي	gelatin dynamite
+ديود، ثنائي المسرى	diode
+ديوكسان	dioxane
+ديول	diol
+دَيُول، دَيُولي	dialysable
+ديينات مرافقة	conjugated diennes
+دييين	diene

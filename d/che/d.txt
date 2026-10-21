@@ -1,0 +1,509 @@
+d-orbital	المداري d
+D-saccharic acid	D-حمض السكّريك
+d.d.t	د.د.ت
+dacron	داكرون
+Dalton's atomic theory	نظرية دالتون الذرية
+Dalton's law	قانون دالتون
+Dalton's theory	نظرية دالتون
+damp	رطب، رطوبة / رطب
+damp (to)	خمّد، أطفأ
+damp (v)	يُخَفِّف
+damping	ترطيب، تخميد
+dampness	رطوبة، نداوة
+Daniel cell	خلية دانيال
+Daniell cell	خلية دانييل
+dark	قاتم، مُعْتِم
+data	مُعطَيات
+date	يؤرِّخ
+dating	تأريخ
+dative	معطي، مانح
+dative bond	رابطة مانحة، رابطة نصف قطبية / رابطةُ منحٍ
+datum	مُعْطى (الجمع: مُعْطَيات)
+daughter element	عنصر وليد
+DDT	د.د.ت
+de Broglie equation	معادلة دوبروي
+de Broglie wave	موجة دوبروي
+de-	نزع، إزالة: سابقة
+deactivate (v)	يخمِّل
+deactivation	إخماد، تخميل / تخميل
+deactivation group	مجموعة مخمّلة
+deacylation	نزع الأسيل
+dead point; dead centre	نقطة الخمود، نقطة التعادل
+dead time	وقت ضائع، زمن ضائع
+dealkalyze	ينزع القلوية
+dealkylation	نزع الكيلي / نزع الألكيل
+deamination	نزع الأمين
+debromination	نزْع البروم
+Debye unit	وحدة ديباي / واحدة ديباي
+Debye-Huckel theory	نظرية ديباي - هوكل / نظرية ديباي- هَكِل
+deca	عُشاري
+decahydrate	عشاري الماء
+decahydrous	عشاري الماء
+decalcification	نزع الكلسيوم / نزع الكالسيوم
+decalescence	خُبُوّ (الإشعاع الحراري)
+decane	ديكان
+decant (to)	صَفَّق
+decant (v)	يُبين
+decantation	إبانة، ترقيد، تصفيق / إبانة
+decarbonize (v)	ينزع الكربون
+decarboxylase	إنزيمٌ نازعٌ للكربوكسيل
+decarboxylation	نزع الكاربوكسيل، خسْف الكاربوكسيل / نزع الكربوكسيل
+decay	تضاؤل / تفكُّك، تفسّخ
+decay constant	ثابتة التفكُّك
+decay energy	طاقة التضاؤل
+decay series	سلسلة التضاؤل
+dechlorination	نزع الكلور
+deci-	عُشْريّ
+decinormal solution	محلول عشر نظامي / محلول عُشْريّ العيار
+declination	مَيَلان
+decline	انحطاط، انحدار
+decoic acid	حمض الديكوييك
+decoking	نزع الكوك
+decoloration	إنصال (إزالة اللون)
+decolorizing agent	عميل مُنْصِل
+decolourisation	زوال اللّون، نصول
+decolourise (to)	أزال اللون، نقل، قصَر
+decolourising carbon	كربون مزيل اللون، كربون منصِّل، كربون ناصل
+decomposition	تحلُّل / تفكُّك، تفكيك
+decomposition (point)	تحلُّل، تفكُّك
+decompression	تخفيف الضغط
+decontamination	تطهير، إزالة التلوث
+decoupling	فك التزاوج، انشطار التزاوج / تصويع (تفريق)
+decrease	تناقص
+decrease (v)	ينقّص
+decreasing	تقليل، تخفيض
+deduction	استنتاج، استقراء
+deemulsification	نقض الاستحلاب
+default	تقصير، إهمال
+defect	عيب، خلل
+defective	معيب
+defects	عيوب
+deficiency	قصور، نقْص / عَوَز، نقص
+deficient	مُعْوِز، ناقص
+define (v)	يعرّف
+definition	تعريف
+deflagrating spoon	ملعقة اشتعال
+deflagration	احتراق شديد / توقّد
+deflocculation	إزالة التندّف
+defluorination	نزع الفلورة
+defoamer; defoaming agent	مزيل الرغوة
+defoaming	إزالة الرغوة
+deformation	تشوُّه، تشويه / تشوّه
+deforsting	إزالة التجمد
+degassing	إزالة الغازات
+degeneracy	تنكّسيّة
+degenerate (v)	يتردّى، ينحطّ
+degenerate orbital	مداريٌّ مُتردّي
+degenerated	متردّ / مُتَرَدِّي
+degeneration	تَرَدّي
+degradation	خسْف / تدرّك، تخفيض، حطّ
+degree	درجة
+degree of dissociation	درجة التفكّك
+degree of freedom	درجة الحريّة / درجة الحُرِّيَّة
+degree of hydrolysis	درجة الحلمهة، درجة الحلمأة، درجة التحلمة، درجة التحلل المائي / درجة الحلمهة
+degree of ionization	درجة التأين / درجة التأيّن
+degree of saturation	درجة التشبع
+degree of variance	درجة التباين
+dehalogenation	نزْع الهالوجين
+dehydrant	نازع للماء، مبلمة
+dehydrate (to)	نزَع الماء، بَلْمَهَ
+dehydrate (v)	ينزع الماء، يُبلمه
+dehydrated	منزوع الماء، مُبلمَه
+dehydrating agent	عميل نازع للماء
+dehydration	نزْع الماء، بلمهة / نزْع الماء، بلمَهة
+dehydrocyclization	تحلّق بنزع الهيدروجين
+dehydrogenation	نزْع الهيدروجين
+dehydrohalogenation	نزْع هيدرو الهالوجين
+delay	تأخُّر، تأخير
+delayed neutron	نيوترون مؤخر
+deliquescence	تميُّع / مَيْعِيَّة
+deliquescent	متميّع
+deliquesent	متميّع
+delivery-tube	أنبوب توصيل
+delocalization	عدم تموضع
+delocalized	غير متموضع
+delocalized bonding	ارتباط غير متوضع
+delta	دلتا
+demagnetize (to)	أزال التمغنط
+demand	طَلَبٌ
+demasking	تعرية
+demethylation	نزع المثيل
+demineralization	نزع التمعدن
+democritus	ديموكريتس، ديموكريت
+demonstration	بيان عملي
+demulsification	إزالة الاستحلاب، خسف الاستحلاب / إزالة الاستحلاب
+denaturant	ماسخ، مفسِد
+denaturation	تغيير الطبيعة / مَسْخ
+denatured alcohol	غَوْل ممسوخ
+denitrification	إزالة النترتة
+denitrifying	نزع النتروجين، نزع الآزوت
+density	كثافة
+density (absolute..)	كثافة مطلقة
+density (limit..) of gas	كثافة الغاز الحدّيّة
+density (relative..)	كثافة نسبية
+density bottle	قارورة الكثافة، قنينة الكثافة
+density of vapour	كثافة البخار
+deodorization	إزالة الرائحة
+deoxidation	نزع الأكسدة
+deoxidation; deoxygenation	نزْع الأكسجين
+deoxy	منقوص الأكسجين
+deoxyribonucleic acid (DNA)	حمض ريبي نووي منقوص الأكسجين، حمض ري أوكسي ريبونيوكليك، حمض بلا أوكسي الريبو النووي
+depilate (to)	سَمَطَ، أزال الشعر
+depilation	سّمط (ال...)، إزالة الشعر
+depletion	استنفاد، إنفاد
+depolarize (v)	يزيل الاستقطاب
+depolarizer	مانع للاستقطاب / مزيل الاستقطاب
+depolymerization	تفكك البلمرة، فكّ البلمرة / إزالة البلمرة
+deposit	مرسب / راسب، مكمن، توضعات
+deposition	ترسُّب، توضُّع / ترسيب، توضّع
+depress (v)	يخفض
+depression	انخفاض، منخفض / انخفاض
+depression of freezing point	انخفاض درجة التجمّد
+depressurizing	تخفيض الضغط
+derivation	اشتقاق
+derivative	مشتق
+derivative (n)	مُشْتق
+derived (adj)	مُشْتَق
+desalting	فصل الأملاح / إزالة الملوحة، نزع الملح
+descending	نازل
+description	وَصْفٌ
+desiccant	مجفِف
+desiccate (to)	جَفَّفَ
+desiccate (v)	يجفّف
+desiccation	تجفيف
+desiccator	مجفِّف
+design (n)	تصميم
+desorb (v)	ينتز
+desorption	مجّ / انتزاز
+destruction	تخريب، إتلاف
+destructive	مُخرِّب، متلِف
+destructive distillation	تقطير اتلافي / تقطير إتلافي
+desulfonation	إزالة السلفنة
+desulfurization	إزالة الكبريت
+desulfurization; desulphurization	نزع المركبات الكبريتية، نزع الكبريتية
+detect (to)	كَشَفَ
+detect (v)	يكشف
+detection	كَشْف
+detection (of radiation)	كشْف
+detector	كاشِف / مِكْشاف
+detergent	منظِّف
+detergents	منظّفات
+deterioration	تدهوُر / تردّي
+determinant	محدِّد، معيِّن
+determination	تعيين / تحديد، تعيين
+determination of density	تعيين الكثافة
+determine (v)	يعيّن، يحدّد
+detonating	متفرقع
+detonating gas	غاز مفرقع / غاز منفجر
+detonation	فرقعة / انفجار
+detoxication	إزالة السُّمِّيَّة
+deuteration	دوترة
+deuterium	دوتريوم / دوتيريوم
+deuteron	دوترون
+develop (v)	يُظْهِر
+developed dye	صِبْغٌ ناشئ
+developer	مظهِّر / مُظهِر
+deviate (v)	يحرف
+deviation	انحراف، حيود / انحراف
+device	أداة
+devise (to)	استنبط
+devitrification	إزالة التزجّج
+dew point	نقطة الندى
+Dewar's flask	وعاء ديوار
+Dewar's vessel	إناء ديوار
+dewaxing	نزع الشمع
+dextran	دكستران
+dextrin	دكسترين
+dextro-	يميني: سابقة
+dextrogyrated	يميني الدوران
+dextrogyration	دوران يميني
+dextrorotaroy compounds	مركبات يمينية التدوير
+dextrorotation	تدوير يميني
+dextrorotatory	يميني التدوير
+dextrose	دكستروز
+dextrose; d-glucose	دكستروز، غلوكوز، سكر العنب
+di	ثنائي
+di-	ثنائي
+diabetes	بُوالة
+diagnosis	تشخيص
+diagonal	قطري
+diagonal relationship	علاقة قطرية
+diagram	مخطط
+dialysable	دَيُول، دَيُولي
+dialysate	دَيالة
+dialyse (v)	يديل
+dialyser	مديال
+dialysis	دَيال
+dialyzed iron	حديد مُديْلز
+dialyzer	فرّازة
+diamagnetic	معاكس المغنطيسية
+diamagnetism	مغناطيسية عكسية / مغنطيسية معاكسة
+diamond	ماسٌ / ألماس
+diaphragm	حجاب
+diaphragm cell	خلية الحاجز
+diastase	دياستاز / دِياستاز
+diastereoisomer	مصاوغ لا تخايلي
+diastereoisomers; diastereomer	متماكبات دياستيرية، إيزومرات دياستيرية
+diatomic	ثنائي الذرة
+diatomic molecule	جزيء ثنائي الذرة
+diazo compound	مُرَكَّب ديازو
+diazo dye	صِبْغ ديازو
+diazo-	ديازو
+diazomethane	ديازو ميتان
+diazonium ion	أيون الديازونيوم
+diazonium salt	ملح ديازونيوم
+diazotization	ديأزة، دستزة / دَيْأَزَة
+dibasic acid	حمض ثنائي القاعدة
+diborane	ثنائي بوران
+dibutyl phtalate	ثنائي بوتيل الفتالات
+dicarboxylic acids	حموض ثنائية الكربوكسيل
+dichloroethylene	ثنائي كلور الأثيلين
+dichloropropane	ثنائي كلور البروبان
+dichromate	ثنائي كرومات، بيكرومات
+dichromic acid	حمض ثنائي الكروميك
+die	قالب
+dielectric	عازل كهربائي
+dielectric constant	ثابت العزل الكهربائي / ثابتة العزل الكهربائي
+Diels-Alder reaction	تفاعل ديلز-آلدر
+diene	دييين
+dienes	دايينات
+dienophile	أليف الدييين
+dienophyl	شغوف بالدايين، ديينوفيل، محب بالدايين
+diesel fuel	وقود ديزل
+diesterase	إنزيم ثنائي الإستر
+diethylene glycol	ثنائي إيتيلين الغليكول
+difference	فرق
+different	مختلف
+differential extraction	استخلاص تفاضلي
+differential manometer	مقياس ضغط تفاضلي
+differential titration	معايرة تفاضلية
+differentiation	تفاضُل
+diffraction	انعراج
+diffraction grating	شبيكة انعراج
+diffraction pattern	نمط الانعراج
+diffuse (v)	ينتشر
+diffused	منتشر
+diffusion	انتشار
+diffusion law; Graham's law	قانون الانتشار، قانون غراهام
+diffusion of solutions	انتشار المحاليل
+diffusion pressure	ضغط الانتشار
+digestion	هضْم / هَضْمٌ
+digital	رقمي
+digoxin	ديجوكسين
+dihydrate	ثنائي التميه، ثنائي الهيدرات / ثنائي الهيدرات
+dihydroxyacetone	ثنائي هيدروكسي الأسيتون
+dilatability	تمددية، اتساعية
+dilatable	قابل للتمدد
+dilate (v)	يتمدّد
+dilatometer	مقياس التمدّد / مقياس تمدد
+diluent	مُخَفِّف
+dilute	ممدَّد، مخفَّف / ممدَّد
+dilute (v)	يُمدِّد، يخفِّف
+dilute solution	محلول ممدَّد
+dilution	تخفيف، تمديد / تمديد
+dimer	ثنائي الحد / بلمر مثنوي، دايمر
+dimerization	ديمرة / بلمرة مثنوية، دَيْمرة
+dimethyl ether	ثنائي ميتيل الإيتر
+dimethyl formamide	ثنائي ميتيل الفورماميد
+dimethyl glyoxime	ثنائي ميتيل الغليوكسيم
+diminished pressure	ضغط منخفض، ضغط مخفّض
+dimorphism	ثنائية البلّورية
+dimorphous substance	مادة ثنائية البلورية
+diode	ديود، ثنائي المسرى
+diol	ديول
+diolefine	ثنائي الأولفين
+dioxane	ديوكسان
+dioxide	ثنائي أكسيد
+dip	غَمْس
+dip-needle	إبرة الميل المغنطيسي، إبرة الغطس
+dipeptide	ثنائي ببتيد
+diphenol	ثنائي الفِنول
+dipolar	ثنائي قطبي
+dipolar ion	أيون ثنائي القطب
+dipole	ثنائي القطب
+dipole moment	عزم ثنائي القطب
+dipping	تغميس
+diprotic	ثنائي البروتون
+diradical	ثنائي الجذر
+direct	مباشر
+direct curent	تيار مباشر
+direct dye	صبغ مباشر
+disaccharide	ثنائي السكريات / ثنائي السكاريد
+disaggregation	تفرّق، تشرذم
+discharge	تفريغ / انفراغ
+discharge tube	أنبوب انفراغ
+discontinious	متقطّع
+discontinuity	تقطّع، انقطاع
+discontinuous	متقطّع
+discovery	اكتشاف
+discrete	مُتقطِّع
+discrete molecules	جزيئات متفردة، جزيئات متميزة
+discrete spectrum	طيف متقطع
+discrimination	تمييز
+dish	طبقٌ
+disinfectant	مبيد الجراثيم، مطهِّر / مطهِّر
+disintegrate (to)	تفتّتَ، انحلَّ
+disintegration	تفتت إشعاعي، تحلل إشعاعي / اضمحلال، تفكّك
+disintegration constant	ثابت التفتت الإشعاعي، ثابت التحلل الإشعاعي / ثابتة الاضمحلال (التفكّك)
+dislocation	خَلْعْ
+dismanttle (to)	عرَّى
+disorder	اضطراب، فوضى
+dispensary	مستوصف
+dispense (to)	صرف الدواءَ
+dispensing	صَرْف الدواء
+disperse (v)	يُبعثر، يشتّت
+dispersed dye	صبغ مبعثَر
+dispersed phase	طور متبعثر
+dispersed system	جملة مبعثرة
+dispersibility	قابلية التبعثر
+dispersibility agent	عميل مبعثِر
+dispersing agent	عميل تبعثر
+dispersion	تبعثُر، بعثرة / تبعثُر، تشتُّت
+dispersion forces	قوى التبعتر
+dispersion medium	وسط التبعثر
+dispersive	تبعثري
+displace (v)	يزيح
+displacement	إزاحة / إزاحة، انزياح
+displacement series; electromotive series classification	سلسلة إزاحة، سلسلة دافعة كهربائية
+displacement upward	إزاحة إلى أعلى
+disposable	أحادي الاستعمال
+disproportion	لاتناسب
+disproportionation	لاتناسبية
+dissipate (v)	يبدّد
+dissipated	متبدّد
+dissipation	تبديد
+dissociate (to)	تَفَكَّكَ
+dissociate (v)	يفرّق
+dissociated	متفارق
+dissociation	تفكُّك / تفارق
+dissociation constant	ثابت التفكك / ثابتة التفارق
+dissociation point	نقطة التفكك
+dissolution	ذوبان، انحلال
+dissolution; dissolving	ذوبان، انحلال، حلّ
+dissolve (to)	ذَابَ، أَذاب
+dissolve (v)	يذيب، يذوب
+dissolved	مذاب
+dissolvent	مذيب، محلّ
+dissolving	ذوبان
+dissolving agent	عميل مذيب
+dissymmetry	عدم تناظر، لا تناظر
+distention	تمدُّد
+distill (v)	يقطِّر
+distillate	قطارة، قطير / قُطارة
+distillate fraction	جزء القطارة، كسر القطارة
+distillation	تقطير
+distillation (destructive)	تقطير إتلافي
+distillation (steam)	تقطير بالبخار
+distillation apparatus	جهاز تقطير
+distillation column	عمود تقطير
+distillation flask	دورق تقطير، قارورة تقطير / دورق تقطير
+distillation under diminished pressure	تقطير تحت ضغط مخفف، تقطير تحت ضغط منقَّص
+distillation unit	وحدة تقطير
+distilled	مقطَّر
+distilled water	ماء مقطَّر / ماء مقطّر
+distillery	مقطرة، مصنع تقطير / مِقطار، جهاز تقطير
+distinct	مميَّز
+distinct odour	رائحة مميزة
+distinction	تمييز
+distinctive properties	خصائص مميزة
+distinguish (v)	يميّز
+distort (v)	يُشوّه
+distortion	تشوّه
+distribution	توزُّع، توزيع / توزّع، توزيع
+distribution coefficient; partition coefficient	معامل التوزع، معامل التوزيع
+distribution law	قانون التوزع، قانون التوزيع
+disturbance	اضطراب
+disubstituted	ثنائي التبادل
+diuresis	إدرار
+divalent	ثنائي التكافؤ
+divergence	تباعد
+divergent	مباعِد
+diversion	انحراف، تحوُّل / تحويل
+division	مجموعة انقسام، تقسيم
+DNA	دنا
+Dobreiner's triades	ثلاثيات دوبراينر
+Dobreiner's triads	ثلالثيات دوبرينز
+dodecahedron	ذو اثني عشر وجهًا
+dolomite	دولوميت
+domain	مجال، حقل / مجال
+dominant	سائد
+dominate (v)	يسود
+donate (v)	يمنح
+donation	منح
+donor	مانح
+donor-acceptor	مانح متقبل / مانح-متقبِّل
+dope	الشَّوْبْ
+dormancy	هجوع
+dormant	هاجِـع
+dose	جرعة
+double	مزدوج
+double bond	رابطة مزدوجة
+double helix	حلزون مزدوج
+double of electrons	زوج من الالكترونات
+double salt	ملح مزدوج
+double surface	سطح مزدوج
+double-chain structure	بنية مزدوجة السلسلة، بناء مزدوج السلسلة
+doublet	مزدوجة
+Dow process	طريقة داو
+down stream	باتجاه المجرى
+Down's cell	خلية دوان
+Down's process	طريقة داون
+drag effect; ellectrophoretic effect	تأثير الاستشراد أو السحب، تأثير دراك، تأثير الهجرة الكهربائية
+drain	صَرف
+drain (v)	يصرف
+drier	مجفِّف / مُجَفِّف
+drier (hot-air)	مجفِّف بالهواء الساخن
+drikold; dry ice	جليد جاف
+drilling fluid (or mad)	طين الحفر
+drive (v)	يحرِّك
+driving force	قوة محرِّكة
+drop	قطرة
+droplet	قطيرة
+dropper	قطّارة، نقّاطة / قطّارة
+dropper flask	دورق قطار
+dropping bottle	قارورة قطّارة، قارورة القطر
+drug	عقّار، أصل الدواء / عَقّار، دواء
+drug store	مخزن العقاقير
+dry	جفَّ، جَفَّفَ / جاف
+dry (v)	يجفّف
+dry cell	خلية جافة
+dry cleaning	تنظيف على الناشف
+dry distillation	تقطير جاف
+dry ice	جليد كربوني، ثلج جاف / ثلج جاف
+dry point	نقطة الجفاف
+dry process	عملية جافة
+dry test	اختبار جاف
+drying	تجفيف / جَفوف
+drying agent	عميل مجفّف
+drying furnace	مِحَمّ تجفيف
+drying oil	زيت جَفوف
+drying oven	فرن تجفيف
+drying tube	أنبوب تجفيف
+dual	مضاعف
+dual function	ثنائي الوظيفة
+dualism	مثنويّة
+ductile	مَطِيل / مطّال (مَطيل)، سَحوب
+ductility	مَطِيليَّة / مَطيلية
+dull	باهت
+dull colour	لون كامد
+dullnesse	كَمدة
+Dulong and Petit law	قانون دولونغ وبتي
+duplicate	نسخة
+duplication	تضاعف
+durability	تحملية، قابلية التحمل
+durability test	اختبار التحملية، اختبار قابلية التحمل
+duralumin	دورالومين
+duralumin; duraluminium	دور ألومين، ديور ألومنيوم
+duration	مدَّة، دوام / أَمَدٌ
+dust	غبار
+dust-collecting equipement	جامع الغبار
+dye	صبغة، صبغ / صِبْغٌ
+dye stuff	مادة ملوِّنة
+dye stuffs	أصباغ
+dyeing	صباغة
+dynamic	تحريكي، ديناميكي
+dynamic equilibrium	توازن ديناميكي
+dynamic isomerisation	تصاوغ ديناميكي
+dynamic viscosity	لزوجة ديناميكية
+dynamite	ديناميت
+dysprosium	ديسبروسيوم / ديسبروزيوم

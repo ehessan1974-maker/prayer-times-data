@@ -1,0 +1,63 @@
+خائـن	traitor
+خاتمةُ كِتـاب	epilogue
+خاتمة مخطوطة	colophon
+خارج الرّكح	Off - stage
+خَارج الفضاء المشترك	exotopy
+خارج النص	out of text
+خَارِج لُغوية	Extralinguistic
+خارج نووي	Extranuclear
+خاصّ	private
+خاصّيـة	attribute
+خافت	Dark
+خَبَرٌ	Comment
+خِبْـرة	experience
+خبريّ	Stative
+خَبَرِية	Assertive
+خِداع، خُدعة	deception / hoax
+خُرَافة	fable
+خرافة وعظية	apologue
+خُرَافيّ	fairy
+خريطـة	map
+خريطة لغوية	Linguistic map
+خصائص مشتركة بين مختلف اللّهجات لنفس اللُّغة	Pandialectal; Panlectal
+خُصُومـة	dispute
+خُصُومة، صراع	quarrel
+خَطٌّ	Graphy / line
+خَطّ السير	itinerary
+خطأ	Error
+خِطاب	Allocution / Discourse / Message / discourse; speech
+خطاب (ال..) المرن، خطاب (ال..) المطاطيّ	elastic discours
+خطاب اجتماعيّ	social discourse
+خطاب الاستقطاب	Harangue
+خطاب ضمنيّ	oblique oration
+خطاب غير مباشر	Indirect style / indirect speech
+خطاب مباشر	oratio recta
+خطاب مباشر، أسلوب مباشر	Direct style
+خطاب مقدّم الرّعاية	Care-Giver Speech
+خِطَاب منقول	reported speech
+خطابة	oratory
+خِطابية سينوغرافية	scenographic discursive
+خَطَّاط	Scriptor
+خُطاطـة	Schema / outline
+خُطاطة، مُسودة	sketch
+خُطبة رنّانة	harangue
+خُطبة موجزة، كلمة موجزة	short speech
+خطر الموت	Danger od Death
+خُطَّة	scheme
+خَطِّيِّ	Graphic / Scriptural / linear
+خطيب	orator
+خَطِّيـة	Linearity / linearity
+خفايا الرّكح	Wings
+خفي	Hidden
+خَفِيض	Grave
+خَلْفيّ	Posterior
+خلفية أدبية	lilterary background
+خَليّة بِنائية	constructive cel
+خُنْثويّة	androgyny
+خَوَارزْم	Algorithm
+خَيال	fiction
+خيالٌ تاريخيّ	historical fiction
+خيالٌ تفاعليّ	interactive fiction
+خيال علميّ	science fiction
+خيال علميّ سياسيّ	political anticipation
+خِيمياء	alchimy

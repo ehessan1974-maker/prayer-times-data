@@ -1,0 +1,105 @@
+JCT Council	مجلس JCT
+job	وظيفة، عملٌ
+Job Design	تصميم الوظيفة
+Job Satisfaction	رضا وظيفي
+Job-Shop Layout	تخطيط متجر العمل
+Joinder	إدخال الغير
+joint	مشترَك
+joint account	حساب مشترَك
+Joint and Several Liability	مسؤولية تضامنية
+joint author	مساهِم (مع الفاعل الأصلي)
+joint committee; joint commission	لجنة مشتركة
+joint debtor	شريك في الالتزام
+Joint Endowment	وقف مشترك
+joint enterprise	شركة محاصة
+joint estate	أملاك شائعة
+Joint Invention	اختراع مشترك
+joint ownership	مِلكية مشتركة
+joint party	طرف منضمّ
+joint responsibility	مسؤولية مشتركة
+joint shares	أسهم مشاعة
+Joint Team Charter	ميثاق الفريق المشترك
+Joint Venture	مشروع مشترك
+Joint work	مصنف مشترك
+joint-stock company	شركة مساهمة
+Jointly and Severally Liable	مسؤول بالتضامن
+journal; daybook	دفتر اليومية
+Judge	قاضي
+judge alternate	قاض نائب
+judge of urgent matters	قاضي الأمور المستعجلة، قاضي المستعجلات
+judge recusal	رَدُّ القاضي، تجريح القاضي
+judge; magistrate	قاضٍ
+judges (the ..)	قضاة الحكم، قضاء (ال..) الجالس
+judgment	قرار، حُكْم / حكم
+Judgment Decree	صك الحكم
+Judgment Draft	مسودة الحكم
+judgment in absence; judgment in absentia; judgment by default	حُكْم غيابيّ
+Judgment in Absentia	حكم غيابي
+judgment in first scope	حُكْم ابتدائيّ
+judgment in last scope; judgment after trial	حُكْم نهائيّ
+Judgment of Acquittal	حكم بالبراءة / حكم بعدم الإدانة
+judgment of cassation	قرار بالنقض
+judgment of rejection	قرار بالرفض
+judgment of remand	قرار بالإحالة
+judgment register	سِجلّ الأحكام، دفتر الأحكام
+judicial act	إجراء قضائيّ
+judicial administrator	مُسيّر قضائيّ
+Judicial Admission	إقرار قضائي
+judicial agent	وكيل قضائيّ، عون قضائيّ
+Judicial Aides	أعوان القضاء
+judicial assistance; judicial aid	مساعدة قضائية، معونة قضائية
+judicial avowal	إقرار قضائيّ
+Judicial Circuit	دائرة قضائية
+judicial compensation	مَقاصة قضائية
+judicial competence	اختصاص قضائيّ
+judicial confession	اعتراف قضائيّ
+judicial contentious	منازعات قضائية
+judicial control	مراقبة قضائية
+Judicial Custodian	خازن قضائي
+judicial decision	مُقَرَّر قضائيّ
+Judicial Delegation	إنابة قضائية
+judicial deposit	وديعة قضائية
+Judicial Depository	إيداع قضائي
+Judicial Fees	تكاليف قضائية
+judicial inspection	تفتيش قضائيّ / تفتيش قضائي
+judicial interdiction	حَجْر قضائيّ
+judicial interpretation	تفسير القضاء، تفسير قضائيّ
+Judicial Jurisdiction	اختصاص قضائي
+judicial law	قانون قضائيّ
+judicial liquidation	تصفية قضائية
+judicial mandate	وكالة قضائية
+judicial mortgage	رهْن قضائيّ
+Judicial Notice	إعلان قضائي
+Judicial Order	أمر قضائي
+judicial partition; judicial division	قسمة قضائية
+judicial police	شرطة قضائية، ضبطية قضائية
+judicial power; judicial authority	سلطة قضائية
+Judicial Precedent	سابقة قضائية
+judicial presumption	قرينة قضائية
+judicial privilege	امتياز قضائيّ
+judicial proceedings	مسطرة قضائية، إجراءات قضائية
+Judicial Receiver	حارس قضائي
+Judicial Ruling	حكم قضائي
+judicial sale; sale by order of the court	بَيْع قضائيّ
+judicial settlement	تسوية قضائية
+judicial writ	أَمْر قضائيّ
+judicial year	سنة (ال..) القضائية
+judicially	قضائيا
+Judiciary	قضاء
+judiciary members	أعضاء الهيئة القضائية
+jurisconsult	فقيه قانونيّ
+jurisdiction	ولاية قضائية، اختصاص / اختصاص / اختصاص قضائي
+jurisprudence	اجتهاد قضائيّ / فقه
+jurist	رجل القانون
+juror	مُحلَّف، عضو هيئة محلَّفين
+jury	هيئة المحلَّفين
+jury box	ركن هيئة المحلَّفين
+jury foreman	رئيس هيئة المحلَّفين
+Just In Case	فقط في حالة(التسبيب)
+Just In Time (JIT)	في الوقت المناسب
+justice; fairness	عدالة
+justifiable	ممكن تبريره
+justification	تبرير، تسويغ / مُسوِّغ
+juvenile	حَدَثٌ / حدث
+juvenile court	محكمة الأحداث
+juvenile delinquency	انحراف الحدث

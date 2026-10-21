@@ -1,0 +1,1954 @@
+V	V
+V (vanadium)	فن
+V gene; variable region gene	مورِّث 'V'، مورث متغير الناحية
+V Series	سلسلة [مقايس] V
+V- (or vee) belt	سَيرٌ مَخروطيّ (مَقْطَعُهُ على شكل V)
+V- (or vee) connection	وَصْلٌ مُثَلَّثِيّ مَفتوح
+V- (or vee) notch	ثَلْمٌ مُثَلَّثِيّ (على شكل V)
+V-antenna	هَوائيّ سَبْعي
+V-belt drive	إدارَةٌ بِسَيْرٍ مَخروطيِّ المَقْطَع
+V-block	كُتلة إسفينيَّة
+V-cut	قَطعٌ إسْفينيّ (بشكل V)
+V-engine	مُحَرِّكٌ (تنفَرجُ أسطوانَتاهُ) على شكل (V)
+V-notch weir	هَدَّارٌ مُثَلَّثِيّ الفُتْحَة
+v-root	جذر افتراضي
+V-shaped depression	مُنْخَفض جوي على شَكْلِ (v)
+V-shaped isobar	مُتَساوِيةُ الضَّغْطِ الجوي على شكل (v)
+V-sync	تردد الإنعاش الشاقولي / مزامنة رأسية
+V-thread	سِنٌّ مَخروطيَّة (على شكل V)
+V-tube	أنبوب ذو شُعبتين (على شكل V)
+V-valley	وادٍ مُثَلَّثِيُّ المَقْطَع (على شكل V)
+V-way	مَجْرًى مُثَلَّثِيُّ المَقْطَع (على شكل V)
+V. shped valley	واد ضيق على شكلV
+V.120	[مِقْيَس] V.120
+V.27ter	[توصية] V.27ter
+V.29	[التوصية] V.29
+V.32terbo	V.32 terbo [ميفاق]
+V.54	[التوصية] V.54
+V.56bis	[التوصية] V.56bis
+V.everything	جميع V
+V.Fast Class	V الصنف السريع
+V.FC	V الصنف السريع
+V86 mode	نمط V86
+VAB	إجابة صوتية
+vacancy	خُلُوّ، فَراغ، شُغور؛ وَظيفة شاغِرة؛ فُسحَةٌ شاغِرة؛ شُغرة / نقص، فراغ / نقص، فراغ، خلو، شعور
+vacant	خالٍ، خَاوٍ، فارِغ، شاغِر
+Vacant Land	الأرض الفضاء
+vacate	أخلَى، أفرَغَ؛ جَلا عن
+vacation	عُطْلَة؛ إخلاء، إفراغ؛ قضَى عُطلةً
+vaccinate	لَقَّحَ، طَعَّمَ (ضِدّ مَرضٍ ما)
+vaccination	تَلقيح
+vaccine	لَقاح، طُعْم / لقاح، طعم
+vaccinia	الوَقْس، جُدَريّ البَقَر؛ لَقاحُ الجُدَري
+vacillate	تَرَجَّحَ، تذبذَبَ، تَرَدَّدَ
+vacuo, in	في الفَراغ
+vacuole	فَجْوَة، جُوَيْف، فُرَيغَة / فجوة
+vacuum (pl. vacua)	خَواء، فَراغ، خَلاء؛ تفريغ، درجةُ التفريغ؛ خَوائي
+vacuum arc furnace	فُرْنٌ قوسيّ خَوائيّ
+vacuum arc lamp	مِصباحٌ قَوسيّ خَوائيّ
+vacuum arc melting	صَهر قوسيّ خوائي
+vacuum augmenter	مُعَزِّزُ التفريغ
+vacuum back	مؤخرة تفريغ
+vacuum bailer	مِنْزَحة خَوائيَّة
+vacuum bell-jar	ناقوسُ تَفريغٍ زجاجي
+vacuum booster	مُعَزِّزُ الفراغ
+vacuum brake	مِكبحٌ خَوائيّ
+vacuum breaker	قاطعٌ خَوائي
+vacuum breaking valve	صِمامُ تَعطيل الفراغ
+vacuum calorimeter	مِسْعَر خَوائِيّ
+vacuum capacitor	مُكَثِّفٌ خَوائيّ
+vacuum cell = vacuum photocell	خَلِيَّة خَوائيَّة (كَهْرضَوئية)
+vacuum chamber	حُجرةُ تَفريغ
+vacuum circuit-breaker	قاطِعُ دارةٍ خَوائيّ
+vacuum cleaner	مُنَظِّفة خَوائيَّة (بالتفريغ الهوائي)، مِكْنَسة كهربائية
+vacuum concrete	خَرَسانة خَوائيَّة
+vacuum condenser	مُكَثِّفٌ خَوائيّ
+vacuum control	تَحَكُّمٌ خَوائيّ
+vacuum cooler	مُبَرِّدٌ خَوائيّ
+vacuum correction	تَصْحٍيحٌ فَراغِيّ
+vacuum crystallization	ألتبَلوُر الخَوائيّ
+vacuum desiccator	مُجَفِّف خَوائيّ
+vacuum diode	صِمامٌ ثُنائيّ خَوائي
+vacuum distillation	ألتقطيرُ الخَوائيّ
+vacuum drier	مُجَفِّفٌ خَوائيّ (بالتفريغ الهوائي)
+vacuum evaporation	التَبَخُّرُ الخَوائيّ
+vacuum fan	مِروَحةُ تَفريغ، مِروحة ماصَّة
+vacuum feed	تَغذية بالتفريغ، تَغذيَة بخَفْض الضغط
+vacuum filament lamp	مِصباحٌ فَتيليّ خَوائيّ
+vacuum filter	مُرَشِّحٌ خَوائيّ
+vacuum filtration	ألترشيحُ الخَوائيّ، الترشيحُ الفراغي
+vacuum flashing	تبخيرٌ وَمْضِي خَوائيّ
+vacuum flask = thermos = Dewar flask	قارُورة خَوائية، قارورة كَظِيمة، ثِرْمُوس
+vacuum forming	تَشكيلٌ خَوائي
+vacuum fractionating column	بُرج تَجْزِئَة بالتقطير الخَوائي
+vacuum furnace	فُرْنُ تَخْوِيَة
+vacuum gauge	مِقياسُ الخواء، مِقياسُ التفريغ
+vacuum impregnation	إِشرابٌ خَوائيّ
+vacuum incandescent lamp	مِصباحٌ مُتَوَهِّجٌ خَوائيّ
+vacuum indicator	مُبَيِّنُ الخَواء
+vacuum induction melting	صَهْرٌ بالحَثِّ الخَوائيّ (إعدادًا للصَّب)
+vacuum jacket	دِثارٌ خَوائيّ
+vacuum leak detector	مِكشافُ تَسَرُّب التفريغ
+vacuum line	خَطُّ التفريغ، خَطُّ الخَواء
+vacuum oven	فُرنٌ خَوائيّ
+vacuum pans	أحواض (تبخيرٍ أو تَبَلْوُرٍ) خَوائيّة
+vacuum photocell	خَلِيَّة خَوائيّة كَهرضَوئيَّة
+vacuum phototube	صِمامٌ ضَوئيّ خَوائيّ
+vacuum process	عَمَليَّة خَوائيّة
+vacuum pump	مِضَخَّةُ تَفريغ، مُضَخَّةُ تَخْوِيَة
+vacuum rectifier	مُقَوِّمٌ خَوائي
+vacuum relay	مُرَحِّلٌ خَوائيّ
+vacuum relief valve	صِمامُ تَنْفِيس التفريغ
+vacuum rerun	إعادَةُ التقطيرِ تحتَ التفريغ
+vacuum residua	مُتَخَلِّفاتُ التقطير الخَوائيّ
+vacuum servo	آليَّة مُؤازَرَة خَوائيّة (لِتَعْزِيزِ نِظام الكَبْح)
+vacuum spectrograph	مِرسامٌ طَيْفِيّ خَوائيّ
+vacuum still	مِقْطَرة خَوائيّة
+vacuum switch	مِفتاحٌ (كهربائيٌّ) خَوائيّ
+vacuum system	منظومة التفريغ؛ دورةُ التفريغ
+vacuum tank	خَزَّانُ تَفريغ
+vacuum thermocouple	مُزدَوِجَة حَراريَّة خَوائيّة
+vacuum tube	صِمامٌ مفرَّغ / صمام مفرغ
+vacuum tube (or valve)	صِمامٌ خَوائيّ، صِمامٌ مُفَرَّغ
+vacuum ventilator	جِهازُ تَهوية بالتفريغ
+vacuum(-tube) rectifier	مُقَوِّمٌ (صِماميٌّ) خَوائيّ
+vacuum-box	عُلْبَةٌ مُفَرَّغة (للبارومِتْر المَعدِني)
+vacuum-proof	صامِدٌ للتفريغ، سَدُودٌ للخَواء
+vacuum-tube amplifier	مُضَخِّم صِماميّ خَوائيّ
+vacuum-tube current meter	مِقياسٌ صِماميّ خَوائيّ للتيّار
+vacuum-tube detector	مِكشافٌ صِماميّ خَوائيّ
+vacuum-tube electrometer	إلِكترومتر صِماميّ خَوائيّ (للقياسات الدقيقة)
+vacuum-tube keyer	مُبرِقٌ صِماميٌّ خَوائيّ
+vacuum-tube modulator	مُضَمِّنٌ صِماميّ خَوائيّ
+vacuum-tube oscillator	مُذَبْذِبٌ صِماميّ خَوائيّ
+vacuum-tube relay	مُرَحِّلٌ صِماميٌّ خَوائيّ
+vacuum-tube transmitter	مُرْسِلٌ صِماميٌّ خَوائيّ
+vacuum-tube voltmeter	ڤلْطمتر صِماميٌّ خَوائيّ
+vadose water	ماءُ الحِسْي، ماءُ الفادُوز / ماء التسرب
+vadose zone	نِطاقُ الفادُوز
+vagabond current	تيّارٌ شارِد
+vagina	غِمْد؛ المَهْبِل / مهبل
+vague	غامِض، مُبْهَم
+vagus	عصب مبهم، حائر(ال..)
+vale	وادٍ، وادٍ عريض قليل الانحدار / وادٍ صغيرٌ / واد صغير
+valence	تَواتُرُ خُطوط
+valence (or valency)	تكافُؤ
+valence band	نِطاقُ (إلكتروناتِ) التكافُؤ
+valence bond	رِباطٌ تكافُئي، رابِطةُ التكافؤ، تَرابطُ التكافُؤ
+valence electron	إلِكترون التكافُؤ
+valence force field	مَجالُ قُوَى التكافُؤ
+valence number	رَقْمُ التكافُؤ
+valency	تكافؤ
+valency = valence	تَكَافُؤ
+valency bond	رابطة تكافئيَّة؛ ترابُطُ تكافُؤ
+valency electron	إلِكترون التكافُؤ
+valency shell	غِلافُ (إلِكترونات) التكافُؤ
+valency state	حالَةُ التكافُؤ
+valency, electronic theory of	النظريَّة الإلِكترونية للتكافُؤ
+valentinite	فالِنْتينيت
+valerian oil	زيتُ الناردين
+valerian; valeriana	ناردين
+valet	خادِم
+valid	سارِي المَفعول؛ صَحيح، ثابت، صالِح؛ شَرعيّ، قانوني / صَحِيح / صالح
+Valid chars	توقيع سليم
+validate	صادَقَ على صِحَّة؛ ثَبَّتَ (الصِّحَّة أو الشرعيَّة) / تحقق من صحة (البيانات المدخلة، وظائف البرامج، إلخ...)
+validation	تَدقيقُ (صِحَّة) البَيانات، تثَبُّت / 1 إقرار الصلاحية ؛ 2 إقرار الصلاحية ؛ 3 إقرار الصلاحية ؛ 4 إقرار الصلاحية / اسْتِصْحَاح / تحقق من سلامة / إقرار الصلاحية / تحقّق
+Validation Dataset (or Validation Data, Validation Set)	بيانات التحقق (أو مجموعة التحقق)
+validation suite	جملة [اختبارات لـ] إقرار الصلاحية
+validity	صِحَّة، ثُبوت؛ شَرعيَّة، مَشروعيَّة / صلاحية / صِحّة / صِحَّة
+validity check	تدقيق الصلاحية / مُرَاقَبَةُ الصِّحَّة
+valine	فالين
+valley	وادٍ؛ مَفْرَجٌ / وادٍ / واد
+valley breeze	نَسيمُ الوادي
+valley floor	أرْضيَّةُ الوادي (المُسَطَّحة) / قاع الوادي / قاع الوادي، السهل الغريتني في قاع الوادي
+valley glacier	مَثْلَجة الوادي
+valley gutter	مِيزابٌ مُنْفَرِجٌ
+valley jack	رافِدة رُكْنِيَّة قصيرة
+valley rafter	رَافِدَة رُكْنِيَّة؛ رافِدة مَفْرَجِيَّة
+valley tile	آجُرَّة مُنْفَرِجة؛ قِرميدةٌ مُقَعَّرة (ميزابيَّة)
+valley, glacial	وادٍ جَليديّ
+Vallot heliothermometer	مِقْياسُ فالُو لسطوع الشَّمْس
+valo(u)r	شَجاعة، بَسالة
+valorization	تَحديدُ أسعار السِّلَع وتثبيتُها (من قِبَلِ الدولة)
+valorize	حَدَّدَ السِّعر
+valuable	قَيِّم، نَفيس
+valuation	تَقدير، تَقييم، تَسعير / تقييم / تَقْييم (تَقْويم)
+value	قِيمَة؛ قَدَّرَ القيمة، قَيَّمَ، قَوَّمَ / قيمة
+value (degree) of lightness	قيمة الإضاءة
+Value added retailer	بائع مفرق ذو قيمة مضافة
+Value Added Type Taxes	الضرائب من نوع ضريبة القيمة المضافة
+value engineering	هَنْدَسَة القيمة
+value group	زُمْرةُ قِيَم
+value index	دَليلُ القيمة (مُؤَشِّرُ القيمة)
+value list	لائحة قيم
+value of a function	قيمة دالّة / قيمةُ دالَّة
+value of a variable	قيمةُ مُتَغَيِّر
+value of an expression	قيمة عبارة / قيمةُ عِبارة
+Value Of Work Executed by the Establishment During the Year	قيمة الأعمال المنفذة بواسطة المنشأة خلال العام
+Value-added	مضاف القيمة
+value-added network	شبكة ذات قيمة مضافة
+value-added reseller	بائع بقيمة مضافة
+Values	قيم
+valvate	صِماميّ، مِصراعي، مِصراعيُّ الانفِتاح
+valvate; valved	مصراعي
+valve	صِمام، مِحْبَس، دِسام؛ مِصراع، صِمام / صمام
+valve actuating mechanism	آلِيَّةُ تشغيل الصِّمامات
+valve adaptor	مُهايِئُ الصِّمام
+valve adjustment	ضَبْطُ الصِّمام
+valve amplifier	مُضَخِّمٌ صِمامي
+valve area	مِساحةُ (مَقْطَع) الصِّمام
+valve auger	مِثقابٌ صِماميّ
+valve base	قاعِدةُ الصِّمام
+valve body	بَدَنُ أو جِسمُ الصِّمام
+valve bonnet	قَلَنْسُوَةُ الصِّمام
+valve bounce	اِرتدادُ الصِّمام
+valve box (or chest)	صُندوقُ الصِّمامات (في مِضَخَّة دافِعة)
+valve bucket	قادوسٌ صِمامي
+valve cap	كُمَّةُ الصِّمام
+valve casing	عُلْبَةُ (أو غِلافُ) الصِّمامات
+valve characteristic	مُمَيِّزةُ الصِّمام
+valve chest	صُندوقُ الصِّمام (أو الصِّمامات)
+valve chuck	ظَرْفُ الصِّمام
+valve clack	طَقْطَقَةُ الصِّمام
+valve clearance	خُلُوصُ الصِّمام
+valve cock	مِحْبَسٌ صِمامي
+valve control	ضَبْطُ الصِّمامات؛ ضبطٌ بالصِّمامات
+valve coupling	تقارُنٌ صِماميّ
+valve cover plate	صَفيحةُ غِطاء الصِّمام
+valve cup	كُوبُ الصِّمام، تَجويف الصِّمام
+valve detector	مِكشافٌ صِماميّ
+valve diagram	مُخَطَّطُ الصِّمامات
+valve diameter	قُطْرُ الصِّمام
+valve disc	قُرْصُ الصِّمام
+valve eccentric	دُولاب الصِّمام اللاتَمركُزيّ
+valve effect	ألظاهرةُ الصِّماميّة
+valve electrode	قُطْبُ (أو إلِكترودُ) الصِّمام
+valve electrometer	إلكترومِتر صِماميّ (للقياسات الدقيقة)
+valve element	عُنْصُرٌ صِماميّ
+valve face	وَجْهُ الصِّمام
+valve failure	تَعَطُّلُ الصِّمام
+valve file	مِبْرَدُ الصِّمامات
+valve flap	سِدْلَةُ الصِّمام، لِسانُ الصِّمام
+valve gate	بَوّابَةُ الصِّمام
+valve gauge	مُعايِرٌ صِماميّ
+valve gear	جِهازُ تشغيل الصِّمامات
+valve grinding	تَجْليخُ الصِّمامات
+valve guard	وِقاءُ الصِّمام
+valve guide	دَليلُ الصِّمام
+valve head	رأسُ الصِّمام
+valve hiss	هَسِيسُ الصِّمام
+valve holder	مِمْسَكُ الصِّمام
+valve housing	مَبْيَتُ (أو حِواءُ) الصِّمام
+valve insert	وَليجة صِماميَّة
+valve lag	تَخَلُّف الصِّمام
+valve lap	تَراكُب الصِّمامات
+valve lead	سَبْقُ الصِّمام
+valve leakage	سُروبٌ صِماميّ، ضَياعُ الضغطِ من الصِّمامات
+valve lever	ذِراعُ الصِّمام
+valve lid	غِطاءُ الصِّمام
+valve lifter	رافِعةُ الصِّمام
+valve milling machine	مَكَنةُ تفريزِ الصِّمامات
+valve needle	إبْرَةُ الصِّمام
+valve noise	ضَجِيجُ الصِّمام
+valve oil	زَيتُ الصِّمامات
+valve oscillator	مُذَبْذبٌ صِماميّ
+valve overlap	تراكُب الصِّمامات
+valve period	فَترةُ انْفِتاحِ الصِّمام (أو انْغِلاقِهِ)
+valve pilot	مُرشِدٌ صِمامي
+valve play	لَعِبُ (أو تَقَلْقُلُ) الصِّمام
+valve plug	سِدادُ الصِّمام
+valve plunger	غاطِسُ الصِّمام
+valve port	فُوَّهَةُ أو فُتْحَةُ الصِّمام
+valve positioner	ضابِطُ مَوْضِع الصِّمام
+valve rectifier	مُقَوِّمٌ صِماميّ
+valve refacer	مِسواةُ (مَقاعِد أو وُجُوهِ) الصِّمامات
+valve refacing	إعادةُ تَسويَةِ (مَقاعِد) الصِّمامات
+valve regulator	مُنَظِّمٌ صِماميّ
+valve relay	مُرَحِّلٌ صِماميّ
+valve reseating	إعادةُ إقْعاد الصِّمام
+valve rocker (arm)	(ذِراع) مُرَجِّحة الصِّمام، ألذراعُ المُتَرَجِّحُ للصمام
+valve rod (or shaft)	ساقُ الصِّمام، ذراعُ (توصيل) الصِّمام
+valve rotator	مُدَوِّرَةُ الصِّمام
+valve seat (or seating)	مَقْعَدُ الصِّمام
+valve seat bushing	جُلْبَةُ مَقْعَدِ الصِّمام
+valve seat grinder	جَلاّخَةُ مَقاعِد الصِّمامات
+valve seat insert (or ring)	حَلْقَةُ مَقْعَد الصِّمام
+valve setting	ضَبْطُ (تشغيلِ) الصِّمام
+valve shutter	غَلَقُ الصِّمام
+valve socket	مَقْبِسُ الصِّمام
+valve spindle (or stem)	ساقُ (أو جِذْعُ) الصِّمام
+valve spring	نابِضُ الصِّمام
+valve spring cotters	تِيلاتُ (احْتِجازِ) نابِضِ الصِّمام
+valve stabilizer	مُوازِنٌ صِماميّ
+valve stem (or rod)	ساقُ الصِّمام
+valve stem clearance	خُلوصُ ساقِ الصِّمام
+valve stem guide	دَليلُ ساقِ الصِّمام
+valve stem rest	مُرتَكَزُ ساقِ الصِّمام
+valve tap	حَنَفِيَّة، صُنْبُورٌ صِماميّ
+valve tester	جهازُ اختِبار الصِّمامات
+valve timing	تَوقيتُ الصِّمامات
+valve travel	شَوطُ الصِّمام
+valve voltmeter	ڤلطمِتْر صِماميّ
+valve wedge	إِسْفِينُ (إغلاقِ) الصِّمام
+valve yoke	مِقْرَنُ الصِّمام
+valve, admission	صِمامُ الإدخال
+valve, ball	صِمامٌ كُرَوِيّ
+valve, beam	صِمامٌ حُزمِيّ
+valve, butterfly	صِمامٌ مُجَنَّح، صِمامٌ خانِق ذو قُرص
+valve, check	صِمامٌ كابح؛ صِمامٌ غَيْرُ مُرْجِع
+valve, control	صِمامُ تَحَكُّم
+valve, cup	صِمامٌ نِصْفُ كُرَويّ
+valve, diaphragm	صِمامٌ رِقِّيّ
+valve, discharge	صِمامُ تصريف
+valve, electrometer	صِمامٌ إلِكترومتري
+valve, equalizing	صِمامُ مُوازَنَة
+valve, exhaust	صِمامُ العادِم
+valve, expansion	صِمامُ التَمَدُّد
+valve, feed	صِمامُ التغذية
+valve, flap(per)	صِمامٌ قَلاّب
+valve, gate	صِمامٌ بَوّابِيّ
+valve, globe	صِمامٌ كُرَويّ
+valve, inlet	صِمامُ الدُّخول أو السَّحْب
+valve, intake	صِمامُ السَّحْب
+valve, manifold	صِمامٌ مُتَشَعِّبُ المَسالِك
+valve, master	صِمامٌ رئيسي
+valve, needle	صِمامٌ إبْرِيّ
+valve, non-return	صِمامٌ لا رَجْعِيّ
+valve, outlet	صِمامُ الخُروج
+valve, pilot	صِمامُ تَحَكُّم رائد
+valve, poppet	صِمامٌ قَفَّاز
+valve, relief	صِمامُ تَنفيس، صِمامُ تصريف الضغط
+valve, rotary	صِمامٌ دَوّار (أو دَوَرانيّ)
+valve, safety	صِمامُ أمان
+valve, shutter	صِمامُ إقفال
+valve, sleeve (stop)	صِمام (وقفٍ) جُلبيّ
+valve, slide	صِمامٌ مُنْزَلِق
+valve, thermionic	صِمامٌ ثِرميُوني، صِمامٌ أَيونيّ حراري
+valve, three-way	صِمامٌ ثُلاثيُّ المَسالِك
+valve, venting	صِمامُ تنفيس (أو تَهْوِيَة)
+valve, wedge	صِمامٌ إسفينيّ
+valved	ذُو صِمامات
+valvelet	صُمَيِّم، مِصراعٌ صَغير
+valvular	صِماميّ، مِصراعِيّ
+vamp	مُقَدَّمُ فَرْعَةِ الحذاء
+vampire	خفاش ماص الدم
+van	شاحِنةٌ مُقْفَلة؛ طَليعَةُ الجيش؛ مِجْرَفَةُ تَهذيب الخام / شبكة ذات قيمة مضافة
+Van Allen (radiation) belts	حِزاما «ڤان ألِن» (الإشعاعيّان)
+Van Allen belt	حزام فان ألن
+Van de(r) Graaff accelerator	مُسارِعُ «ڤان دي غْراف»
+Van de(r) Graaff generator	مُوَلِّدُ «ڤان دي غراف»
+Van der Pol equation	مُعادَلةُ ڤانْ دِرْ پول
+Van der Waals’ equation	مُعادَلَةُ «ڤان دِرْڤالز»
+Van der Waals’ forces	قُوى «ڤان دِرْ ڤالز»
+Van der Waerden number	عَدَدُ ڤانْ دِرْ پول فيرْدِن
+Van der Waerden's conjecture	مُخَمَّنةُ ڤانْ دِرْ فيرْدِن
+Van der Waerden's theorem	مُبَرْهَنةُ ڤان در فيردن
+vanadinite	ڤانادينيت
+vanadium	فناديوم
+vanadium (V)	الڤاناديُوم
+vanadium pentoxide	خامِسُ أُكسيد الڤاناديوم
+vanadium steel	فُولاذُ الڤاناديوم
+Vandalism	تخريب (البيانات)
+Vandermonde determinant	مُحَدِّدةُ ڤانْدِرمونْد
+Vandermonde matrix	مَصْفوفةُ فانْدِرمونْد
+Vandermonde's identity	مُتَطابِقةُ ڤانْدِرمونْد
+Vandermonde's theorem	مُبَرْهَنةُ ڤانْدِرمونْد
+Vandermonde, Alexandre Théophile	ألِكْسانْدَر ثيوفيل ڤانْدِرمونْد
+vane	دَوّارةُ الرِّيح؛ رِيشَة (المِروَحةِ أو التُّوربين)؛ رِيشَةُ تَوجيه؛ قُرصُ أو لَوحَةُ الشاخِص؛ البَنْد
+vane anemometer	مِرياحُ الأرياش الدوّارة
+vane blower	نَفَّاخٌ أرياشيّ
+vane compressor	ضاغِطٌ أرياشيّ
+vane engine	مُحَرِّك ذو أرياش
+vane pump	مِضَخَّةٌ ذاتُ أرياش
+vane wattmeter	واطمتر ذو أرياش
+vane wheel	دُولابٌ أرياشيّ
+vane, wind	دَوَّارةُ الرِّيح
+vane-type meter	جِهازُ قياسٍ أرياشيُّ النَّمَط
+vaneaxial fan	مِروَحة مِحْورِيَّة الأرياش
+vaned instrument	جهازُ قياسٍ مُرَيَّش (أو أرياشي)
+vanilla	ونيلية، فانيليا
+vanilla-plant	ونيلية، نبات الفانيليا
+vanillin	ڤانيلين / ونلين
+vanish	تلاشَى، زالَ، اِضمحَلَّ
+vanish (v)	يَنْعَدِم، يَتَلاشَى
+vanish at infinity (v)	يَنْعَدِمُ في اللانِهاية
+vanish(ing) point	نُقطةُ التلاشي
+vanishing (or indeterminate) fraction	كَسْرٌ مُتَلاشٍ
+Vanishing Gradient Problem	مشكلة تلاشي التدرج
+vanishing line	خَطٌّ مُتلاشٍ (أو مُتَوارٍ في الرسم المَنْظُوري)
+vanishing points	نقاط متلاشية
+vanner	عامِلُ تَهذيب الخامات
+vanning	تَهْذيبُ الخامات؛ رَزْنٌ تَقْرِيبِيّ لِلخامِ المُهَذَّب
+vanning shovel (or van)	مِجْرَفَةُ تَهذيب الخامات
+vantage	أفضلِيَّة، وَضْعٌ أو مَوْقِعٌ أفضَل
+Van’t Hoff’s law	قانون «ڤانتْ هُوف»
+vapid	بَلِيد، عَديمُ الحَيويَّة
+vapo(u)r	بُخار؛ بَخَّرَ، تَبَخَّر
+vapor = vapour	بُخار؛ تَبَخَّرَ، بَخَّر
+vaporific	مُوَلِّدٌ بُخارًا؛ بُخاريّ
+vaporimeter	مِقياسُ التبخُّر (ضَغْطًا أو حجمًا)، مِقياسُ التطايُريَّةِ
+vaporizable	يَتَبخَّرُ، يُمكِنُ تَبخيرُه، بَخُور
+vaporization	تبخير، تبخُّر
+vaporization, heat of	حَرارةُ التبخير
+vaporize	بَخَّرَ، تَبَخَّر
+vaporizer	مِبْخار، جِهازُ تَبْخير
+vaporizing chamber	حُجرةُ تَبخير
+vaporizing oil	كِيروسين سَريعُ التَبَخُّر
+vaporous	بُخارِيّ، شَبيهٌ بالبُخار
+vaporware	برمجيات متَخَيَّلة
+vapour absorption plant	وَحدةُ امتِصاص البُخار
+vapour barrier	حاجِزُ البُخار
+vapour bath	مَغْطِسٌ (أو حمّامٌ) بُخارِيّ
+vapour blast cleaning	ألتنظيفُ بالسَّفْعِ البُخاري
+vapour concentration	تركيزُ البُخار
+vapour concentration ((dv))	تَرَكُّزُ البُخار
+vapour cycle	دَورةُ البُخار
+vapour density	كثافةُ البُخار
+vapour diffusivity	اِنتِشاريَّةُ البُخار
+vapour heating system	جِهازُ تَدفئة بالبُخار
+vapour line	خَطُّ (أو أُنبوبُ) البُخار
+vapour lock	عائقٌ بُخارِيّ (لِمَجْرى السائل)، دِسامٌ بُخارِيّ
+vapour lock(ing)	اِنسِدادٌ بُخارِيّ
+vapour permeability	إنفاذية البُخار
+vapour phase	طَورُ البُخار
+vapour phase cracking	ألتكسيرُ في طَوْرِ البُخار
+vapour phase refining	ألتكرير في طَورِ البُخار
+vapour pressure	ضَغطُ البُخار (على درجة الحرارة المُحدَّدة) / ضَغْطُ بُخارِ الماء
+vapour pressure meter	مقياس ضغط البخار
+vapour pressure thermometer	تِرمُومتر ضَغْطِيّ بُخاريّ
+vapour pressure, saturated	ضغطُ البُخار المُشْبَع
+vapour recovery unit	وَحْدَةُ استِعادة البُخار
+vapour resistivity	مُقاوميَّةُ (إنفاذ) البُخار
+vapour state	ألحالَةُ البُخاريّة (أو الغازِيَّة)
+vapour tension (or pressure)	ضغطُ البُخار
+vapour trap	مِصيدةُ البُخار
+vapour, aqueous	بُخارٌ مائيّ
+vapour, saturated	بُخار مُشْبَع
+vapour, unsaturated	بُخار غير مُشْبَع
+vapour-dome tank	صِهريجُ قُبَّة البُخار
+vapour-proof	صامِدٌ لِلبُخار، سَدودٌ للبُخار
+vapour-tight	سَدُودٌ للبُخار
+VAR	بائع بقيمة مضافة
+VAr (abbrev. for Volt-Amperes reactive)	ڤار
+VAr-hour	ڤلط أمبير ساعة مُفاعليّ
+varactor	ڤاراكتُور، مُواسِعٌ مُتَغَيِّر
+varactor amplifier	مُضَخِّمٌ بِمُواسِع مُتَغَيِّر
+varan	ورل
+varec(h)	ڤارِك
+variability	ألتَغَيُّريَّة / تَنَوُّع، تبايُن
+variability (free genetic...)	تباين وراثيّ ظاهر
+variability (potential genetic...)	تباين وراثيّ كامن
+variable	مُتَغَيِّر، مُتَبَدِّل، بَدُول، مُتَحَوِّل؛ مُتَغَيِّرَة، كَمِّيَّةٌ مُتَغَيِّرَة / متغيّر / متغير / مُتَغَيِّر
+variable attenuator	مُوهِنٌ مُتَغَيِّر
+variable bandwidth filter	مُرَشِّحٌ متغيِّرُ عَرْضِ النطاق (التردُّدي)
+variable cam	حَدَبَةٌ مُتَغَيِّرَة
+variable camber wing	جَناحٌ مُتَغَيِّرُ الاحْدِيداب
+variable capacitor (or condenser)	مُواسِعٌ مُتغيِّر
+variable contour cam	حَدَبة مُتغيِّرةُ الكِفاف
+Variable Costs	التكاليف المتغيرة
+variable coupling	تَقارُنٌ مُتغيِّر؛ قارِنة مُتغيِّرة
+variable cut-off	نُقطةُ قَطْعٍ مُتغيِّرة
+variable expansion	تَمَدُّد مُتغيِّر
+variable expression	تعبير [في] متغيرات
+variable inductance	مُحاثَّة (أو مُحارَضة) مُتغَيِّرة
+variable inductor	مُحارِضٌ مُتَغَيِّر
+variable load	حِمْلٌ مُتَغَيِّر
+variable pitch propeller	مِروَحَةٌ مُتَغَيِّرَةُ الخَطْوة
+variable reluctance	مُمَانَعَةٌ مُتَغَيِّرَة
+variable resistance = rheostat	مُقاومة مُتَغَيِّرَة
+variable resistor = varistor	مُقاوِمٌ مُتَغَيِّر
+variable star	نَجْمٌ مُتَغَيِّر (السُّطوع) / نجم متغيّر
+variable velocity	سُرعة مُتَغَيِّرَة
+variable wind	رياح مُتَغَيّرة
+variable, dependent	مُتغَيِّر تابِع
+variable, independent	مُتغَيِّرٌ مُطلَقٌ أو مُستَقِلّ
+variable-area propelling nozzle	فُوَّهَةُ دَسْرٍ مُتَغَيِّرَة المِساحة
+variable-depth sonar	سُونار مُتَغَيِّرُ العمق
+variable-focus lens	عَدَسةٌ مُتغيِّرَةُ البُعْدِ البؤْري، عَدسة مُتغيرة القُوَّة
+variable-frequency oscillator	مُذَبذِبٌ مُتَغيِّرُ التردُّد
+variable-length field	حقلٌ مُتَغَيِّر الطول
+variable-length record	سِجِلٌّ مُتَغَيِّرُ الطُّول / تسجيلةٌ مُتَغَيِّرة الطول
+variable-lift wing	جَناحٌ مُتَغَيِّرُ الرَّفع
+variable-mu valve	صِمامٌ مُتَغَيِّرُ المُواصَلَة التبادُلِيَّة
+variable-ratio transformer	مُحَوِّلٌ مُتَغَيِّرُ النِّسبة
+variable-speed drive	إدارةٌ مُتَغَيِّرَةُ السُّرعة
+variable-speed motor	مُحَرِّكٌ مُتغَيِّرُ السُّرعة
+variable-speed pulley	بَكَرَةٌ مُتَغَيِّرةُ السرعة
+variable-speed scanning	مَسْحٌ مُتَغَيِّرُ السرعة
+variable-stroke engine	مُحَرِّكٌ مُتَغَيِّرُ الشوط
+variable-voltage control	تَحَكُّمٌ بِتَغْيير الڤلْطِيَّة؛ مِحكِامُ سُرعَةٍ مُتَغَيِّرُ الڤلطيَّة
+variable-voltage generator	مُوَلِّدٌ مُتَغَيِّر الڤلطية
+Variables	مُتغيّرات
+Variac	ڤارْيَاك، مُحَوِّل مُتَغَيِّرٌ
+variance	مُغَايَرة، تبايُن، تَفاوُت، تغايُر، اِختلاف، مُخالَفَة؛ فَرْق؛ تغايُر / اختلاف / تَبايُن / انحراف
+variance ratio test	اخْتِبارُ نِسْبَةِ التَّبايُنات
+variance-covariance matrix	مَصْفوفةُ التَّبايُن-التَّغايُر
+variant	مُغايِر، مُخْتَلِف، مُتَبَايِن، مُتغايِر؛ صُورة مُخْتلِفَة، شَكْلٌ مُغايِر؛ كائنٌ مُغايِر / تنويعة
+variate	مُغاير؛ مُتَغَيِّرَة، كميَّة مُتَغَيِّرَة
+variate difference method	طَريقةُ الفَرْقِ المُتَغَيِّر
+variation	مُغايرة، تغايُر، تَغَيُّر، اِختِلاف؛ اِنحِراف؛ اِنحِراف مغنطيسي / تباين / تغير، اختلاف / تبدل، تغير، اختلاف / تغاير، تباين / تبايُن، اختلاف
+variation factor	عامِلُ التغيُّر
+variation magnetic	انحراف مغناطيسي
+variation of compass	تباين البوصلة
+variation of the constant	تغير الثابت
+variation order	أمرُ التغيير
+variation, diurnal	اِختِلاف يَوميّ (في الانحراف المغنطيسي)
+Variational Autoencoder	مُرَمِّز تلقائي متغير
+variational calculus	حُسْبانُ التَّغَيُّرات
+variational principle	مَبْدَأُ التَّغَيُّرِيَّة
+Variations	تغيرات
+varicella = chicken-pox	حُمَاق، جُدَري الماء
+varied	مُتَنَوِّع، مُختَلِف
+variegated	مُرَقَّش، مُبَرْقَش
+variegated copper ore	خامُ النُّحاسِ المُبَرقَش
+variegated position effect	تأثير الوضع المبرقش
+variegated sandstone	حَجَرٌ رَملِيٌّ مُرَقَّش
+varieties of clouds	أنواع السُّحُب، أصناف السُّحُب
+variety	مَجموعة مُنَوَّعة، تَشكيلة؛ نَوع، صِنْف؛ ضَرْب (في تَصنيف الأحياء) / ضَرْب / ضرب / صِنْف، ضَرْب
+variety of symmetry	أنواع التناظر
+varifocal lens	عَدَسة مُتَغَيِّرَةُ البُعد البُؤري
+variform	مُتَغَيِّرُ (أو مُتَنَوِّع) الأشكال
+Varignon parallelogram	مُتَوازي أضْلاعِ ڤِرينْيَن
+Varignon's theorem	مُبَرْهَنةُ ڤِرينْيَن
+varindor	فارِنْدور
+vario-coupler	قارِنٌ مُتَغَيِّر
+variograph	مِرسَمةُ التغيُّر، مِغْيارٌ مُسَجِّل
+variola = smallpox	الجُدَريّ
+variometer	مِقياسُ التغيُّر
+various	مُتنوِّع، مُتَعَدِّدُ الأشكال، مُخْتَلِف / متنوع
+various cargoes	بضائع مختلفة، بضائع متنوعة
+variscite	ڤاريسَيت
+varistor = variable resistor	ڤارِستُور، مُقاوِمٌ مُتَغَيِّر (تتغَيَّرُ مُقاوَمَتَه بتَغَيُّر الڤلْطِيَّة)
+varite	مُقاوِمٌ مُتَغَيِّر
+varitrones	ڤاريتْرُونات
+Varley loop test	اِختبارُ دَارَةِ «ڤارْلي»
+varmeter	ڤارْمِتْر
+varnish	وَرْنِيش، بَرْنِيق، طِلاءٌ راتِينَجيّ صَقيل؛ لَمْعَة، بَريق؛ وَرْنَشَ
+varnish gum	صمغُ الورنيش
+varnish oil	زيت الورنيش
+varnish, oil	وَرنيش زيتيّ
+varnish-tree	شجرة اللك، ايلنطس غدي
+varnished	مَطْلِيٌّ بالورنيش
+varve	رَقيقَةٌ حَوْلِيَّة / حولي
+varve (clay)	طين (ال..) الرقائقي الحولي
+varve (clay...)	طين رقائقي حولي
+varve(d) clay	طينٌ رَقائقيٌّ حَوليّ
+varve-count	تَعدادُ الرقائق الحَوْليَّة
+vary	غَيَّرَ، تَغَيَّرَ، تفاوَتَ، اِختَلَفَ؛ نَوَّعَ، تَنَوَّع / يتغير
+varying	مُتَغَيِّر، مُتَغايِر، مُتَفاوِت
+varying load	حِمْلٌ مُتَغَيِّر
+varying travel	مَدى تَحَرُّكٍ مُتَغيِّر (للصِّمامِ المُنزَلِق)
+vas	قُنَيَّة، وِعاءٌ دَقيق
+vas deferens	قناة ناقلة
+vas efferent	قناة صادرة
+vascular	وِعائيّ / وعائي
+vascular bundle	حُزْمَة وِعائِيَّة
+vascular bundles	حزم وعائية
+vascular floral skeleton	هيكل وعائي زهري
+vascular skeleton	هيكل وعائي
+vascular skeleton of leaf	هيكل وعائي في الورقة
+vascular structure	بنية وعائية
+vascular supply	مدد وعائي
+vascular system	نظام وعائي / جهاز وعائي
+vascular sytem	حزم وعائية، نظام وعائي أو عرقي
+vascular tissue	نَسيجٌ وِعائِيّ / نسيج وعائي
+vase	إناء، زَهْرِيَّة
+vasectomy	قطْع الأسْهَر (لِعَقْم الرِّجال)
+vaseline	فازِلين، هُلامُ البِترول
+vasoconstriction	تضَيُّق الأوعية (الدَمَويَّة)
+vasodil(at)ation	تَوَسُّع الأوعية (الدَّمَويَّة)
+vasomotor	مُحَرِّك الأوعية
+vast	شاسِع، فَسيح؛ ضَخْم
+vat	حَوض، دَنّ، راقُود
+vat dyes	أصباغُ الراقود
+vat, settling	راقُود، حَوضُ ترسيبٍ أو ترويق
+vault	قَبْو، أزَج؛ سِرْداب؛ عَقْد، قَنْطَرة؛ قَفْزَة، وَثْبَة؛ عَقَدَ، قَبَّبَ، تَقَبَّب؛ قَفَزَ، وَثَبَ، تَخَطَّى قَفْزًا
+vaulted roof	سَقْفٌ مُقَبَّب أو مَعْقود
+VAX	[حاسوب] VAX
+VBA	Visual Basic للتطبيقات
+VBScript	تحرير إخطاطة Visual Basic
+VBX	تحكّم حسب الطلب في Visual Basic
+VCACHE	خابية افتراضية
+VCOMM	سوّاقُ تجهيزةِ اتصالات افتراضية
+VCPI	واجهة برنامج تحكم افتراضية
+VDD	سواق تجهيزة إظهار افتراضية
+VDL	لغة تعريف Vienna
+VDM	ملف مُتَرَفِّع للإظهار الفيديوي
+VDT	مطراف إظهار فيديوي
+VDU	وحدة إظهار فيديوي
+VDU = visual display unit	وَحْدَةُ العَرْض المَرْئيّ
+vectograph	ڤكْتُوغراف / فكتوغراف
+vector	مُتَّجِه؛ حامِلُ العَدْوى؛ ناقِل، ناقِلُ جراثيم / 1 متجه ؛ 2 متجه ؛ 3 متجه / متجه / متّجه / مُتَّجِه / ناقِل
+vector addition	جَمْعُ المُتَّجِهات
+vector analysis	تَحليلُ المُتَّجِهات / تحليل متجهات / التَّحْليلُ المُتَّجِهِيّ
+vector basis	قاعِدةُ مُتَّجِهات
+vector bundle	حُزْمةُ مُتَّجِهات
+Vector Compression	ضغط المتجهات
+Vector Database	قاعدة بيانات المتجَهات
+vector derivative	مُشْتَقُّ الكَمِّيَّة المُتَّجِهة
+vector diagram	مُخَطَّطُ (بيانِ) المُتَّجِهات
+vector difference	فَرقُ المُتَّجِهات / فرق متّجهي
+vector display	مظهار متجهي
+vector equation	معادلة متجهية / مُعادَلةٌ مُتَّجِهِيَّة
+Vector feedback	تغذية راجعة متجهية
+vector field	مَجالٌ مُوَجَّه، حَقْلٌ مُتَّجهيّ / حَقْلُ مُتَّجِهات
+vector font	بنط متجهي
+vector function	دالة متجهية / دالَّةٌ مُتَّجِهِيَّة
+vector geometry	هندسة المتجهات
+vector graphics	بيانيات متجهية / رسوميات متجهية
+Vector Indexing	فهرسة المتجهات
+vector integral	تَكامُل الكَمِّيَّة المُتَّجِهة
+vector multiplication	ضَربُ المُتَّجِهاتِ
+vector potential	جُهْدٌ مُتَّجِهِيّ
+vector product	جُداءٌ مُتَّجِهيّ / جداء متجهي / جُداءٌ مُتَّجِهِيّ
+vector projection	مَسْقَطُ مُتَّجِه
+vector quantity	كمية متجهة
+vector quantity = vector	كَمِّيَّةٌ مُتَّجِهَة أو مُوَجَّهَة، مُتَّجِه
+vector random variable	مُتَغَيِّرٌ عَشْوائِيٌّ مُتَّجِهِيّ
+vector space	فضاء متجهات / فَضاءٌ مُتَّجِهِيّ
+Vector Space Model (VSM)	نموذج الفضاء المتجهي
+Vector Store	مخزن المتجهات
+vector sum	مَجمُوعُ المُتَّجِهاتِ / جمع متّجهي / مُحَصِّلةُ مُتَّجِهات
+vector table	جدول توجيه [المهمّات]
+vector triangle	مُثَلَّث مُتَّجِهات
+vector triple product	جُداءٌ مُتَّجِهِيٌّ ثُلاثِيّ
+vector velocity	سرعة متجهة
+vector-valued function	دالَّةٌ مُتَّجِهِيَّة
+vectorial	متّجهي
+vectorial angle	زاوِيَة قُطبيَّة، زاويةُ التوجيه / زاوية متّجهية / زاوِيةٌ مُتَّجِهِيَّة
+vectorial component	مركّبة متّجهية
+vectorial equation	معادلات متّجهات
+vectorial product	جُداءٌ مُتَّجهي
+vectorial projection	متجه الاسقاط
+vectorial rotation	دوران متجهي
+vectorial space	فضاء متجهي
+vectormeter	مِقياسٌ (ذو مُؤَشِّرَيْن) لِلكميات المُوَجَّهَة، مِقياسُ المُتَّجِهات
+vee (or V-)belt	سَيْرٌ مَخروطِيُّ المَقْطَع
+vee beam antenna	هوائيّ حُزْمِيٌّ مَخروطِيّ
+vee joint	وُصلَة بشكل (V)
+vee notch = triangular notch	ثَلْمٌ مُثَلَّثيّ (على شكل V)
+vee roof	سَقْفٌ مَخروطيّ (بشكل V)
+vee slide	مُنْزَلَقٌ مَخْرُوطيّ (على شكل V)
+vee thread	سِنٌّ مَخروطيَّة (على شكل V)
+veer	عَطَفَ، اِنعَطَف؛ مالَ شَزْرًا؛ غيَّرَ الاتِّجاه (بعيدًا عَن مَهَبِّ الريح)؛ رَمَى (أو مَدَّ) حَبْلاً (أو سِلْسِلَةً)؛ تَغَيُّر (أو تَغييرُ) الاتجاه
+veering	تَغييرُ الاتجاه؛ إقبال
+veering of wind	تغيُّر اتجاه الريح
+veering wind	رياح مُيامِنةُ الدَّورَان
+veering winds	رِياحٌ يَمِينيَّة
+Vega	ألنَّسْرُ الواقِع / نسر (ال...) الواقع
+vegetable	خُضْرة؛ نَباتيّ، خُضَرِيّ / نباتي
+vegetable acid	حامِضٌ نَباتيّ
+vegetable butter	زُبْدٌ نَباتيّ
+vegetable charcoal	فَحْمٌ نَباتيّ
+vegetable dyes	أصباغٌ نباتيَّة
+vegetable fibers	أليافٌ نَباتيّة
+vegetable kingdom	نباتي
+vegetable oil	زيتٌ نَباتيّ
+vegetable soil	تُربَةٌ زِراعيَّة
+vegetable tallow	شَحْمٌ نَباتيّ
+vegetable wax	شَمعٌ نَباتيّ
+vegetal	عالم النبات
+vegetation	نَبْت، كِساء خُضَرِيّ؛ نَبيْت / كساء نباتي / نباتي
+vegetation season	مَوْسِمُ النَّبْت، فصل الإنبات
+vegetative	نَمائيّ؛ نَباتي، خُضَريّ / نبت، كساء خضري
+vegetative nucleus	نواة إنباتية
+vegetative propagation	تكاثُر خُضَري، تكاثُر لاشِقِّي
+vegetative reproduction	تكاثر نباتي / تكاثر خضري / توالد إنباتيّ، تكاثر خضريّ
+vehicle	مَركَبة، عَرَبة، واسِطةُ نَقْل؛ مَحمِلُ الدِّهان؛ حامِلَة؛ سِواغ / سِوَاغٌ، حامِل، ناقِل / مَرْكَبَة / المركبة
+vehicle, motor	سيّارة، عَرَبَةٌ بِمُحَرِّك
+vehicle, tracked	مَركَبَة مُزَنْجَرة
+vehicular	مَركَبيّ؛ نَقُولٌ بالمَركبات
+vehicular traffic	حركةُ مُرور المَركبات
+veil	حِجاب، سِتْر؛ غِلالَة؛ حَجَبَ، سَتَرَ
+veil cloud	سِمْحَاق، سَحابٌ رَقيق طَبَقِيّ
+veil of pollution	ستار التلوث
+vein	وَرِيد؛ عِرْق؛ عِرقٌ مَعْدنِيّ، سامَة / عِرْق / عرق / وريد
+vein dike (or dyke)	جُدّة عِرقيَّة
+vein ore	ركاز عرقي
+vein rock	صخر عرقي
+vein structure	بنية عرقية
+veined	مُعَرَّق / معرق
+veined marble	رُخام مُعَرَّق أو مُجَزَّع / رخام معرق، رخام مُجَزَّع / رخام معرق، رخام مجزع
+veinlet	عُرَيْق، عِرقٌ صغير / عُرَيْق / عريق
+veinstone	صَخْر عِرقيّ
+veinule	عريق رقيق، خيط معدني
+veiny	مُعَرَّق، مُجَزَّع
+vela	أشرعة (ال...)
+Vela (The Sails of the Ship Argo)	ألشِّراع
+veld(t)	مَرْج
+velescence	مصوح
+vellum	رِقّ، وَرَقٌ رِقِّي
+velocimeter	مِقياسُ السُّرعة
+velocity	سُرعة، سُرعة اتِّجاهيَّة / سرعة
+velocity - vector	متجه السرعة
+velocity amplitude	ذُروةُ السُّرعة
+velocity change	تَغَيُّر السُّرعة
+velocity constant	ثابِتُ السُّرعة (لِلتفاعُل الكيماوي)؛ ثابِتُ السُّرعة
+velocity curve	مُنْحَني السُّرعة
+velocity gradient	مَدروجُ السُّرعة، تَدَرُّج السُّرعة
+velocity head = kinetic head	عُلُوُّ السُّرعة، ألطَّاقَةُ السُّرعيَّةُ (في وَحْدَةِ الوَزْنِ من سائلٍ مُتَحَرِّك)
+velocity log	مِقياسُ السُّرعة، مِرسَمَةُ السُّرعة
+velocity meter	مِقياس السُّرعة
+velocity microphone = pressure-gradient microphone	مكروفُون سُرْعِيّ
+velocity modulation	تَعديلُ السُّرعة (لِتَيّارٍ إلِكتروني)
+velocity of approach	سُرعةُ الاقتِراب
+velocity of discharge	سُرعةُ التَّصريف
+velocity of escape	سُرعةُ الإفلات (من جاذبيَّة الأرض أو الكوكب السيَّار)
+velocity of flow	سُرعةُ التدَفُّق / سرعة الجريان، سرعة التدفق
+velocity of light	سُرعةُ الضَّوء (2.998 × 10¹⁰ سم في الثانية) / سرعة الضوء
+velocity of propagation	سُرعةُ الانتِشار، سُرعةُ الامتِداد
+velocity of radio waves	سُرعةُ الأمواجِ الراديُويَّة (تُساوي سُرعة الضوء)
+velocity of recession	سُرعةُ الإدبار
+velocity of sound	سُرعةُ الصَّوت (في الهواء: 331.7 مترًا في الثانية في درجة الصِّفر المِئَويّ)
+velocity parameter	وَسيطُ السُّرعة
+velocity pressure	ضغطُ السُّرعة (لِمائعٍ مُتَدَفِّق)
+velocity ratio (of a machine)	ألنِّسبة السُّرعية (للآلة)
+velocity ratio (or factor)	نِسبةُ السُّرعة
+velocity resonance = phase resonance	رَنينٌ سُرعيّ، رَنينُ الطَّور
+velocity shot	تَفجيرُ السُّرعة
+velocity sorting	تَصْنيفٌ سُرعيّ (لِلجُسَيْمَاتِ النَّوَوِيَّة)
+velocity spectrograph	مِطيَافٌ سُرعيّ
+velocity survey	مَسْحُ السُّرعةِ
+velocity triangle	مُثَلَّث السُّرعات
+velocity variation = velocity modulation	تغييرُ السُّرعة؛ اختِلاف السُّرعة
+velocity, angular	سُرعة زاوِيَّة
+velocity, average	مُعَدَّلُ السُّرعة
+velocity, critical	سُرعةٌ حَرِجَة
+velocity, drift	سُرعةُ الانسِياق
+velocity, initial	السُّرعة الابتدائية
+velocity, interval	السُّرعة البَيْنِيَّة
+velocity, relative	السُّرعة النسبية
+velocity, terminal	السُّرعة النهائية
+velocity, uniform	سُرعة مُنتَظَمة
+velocity-modulated oscillator	مُذَبْذبٌ مُعَدَّلُ السُّرعة
+velocity-modulated valve	صِمامٌ مُعَدَّلُ سُرعة الإلكترونات
+velodrome	مِضمارُ دَرّاجات
+velodyne	ڤيلُوداين
+velometer	مِقياسُ سُرعةِ الهواء
+velour paper	ورقٌ مُخْمَلِيّ (مُوَبَّر)
+velum	شِراعُ الحنَك، الحَفّاف / شراع الحنك
+velun ((vel))	شِراعِيّ
+velvet	مُخْمَل، قَطِيفة؛ مُخْمَلِيّ، قَطِيفيّ
+velvet-grass	صوفية
+vena cava	ألوريدُ الأجوَف / وريد أجوف
+vena contracta	تَخَصُّر النافورة (بعدَ فُوَّهَةِ النَّفْث)
+venation	تَعرُّق، تَعريق / تَعَرُّق / تعرق
+vend	باعَ، عَرَضَ لِلْبَيع
+vendee	أَلمُشْتَري، الشاري
+vending machine	مَكَنَةُ بَيْع (بإسقاطِ القِطَع النَّقْدِية في شَقْبٍ بها)
+vendor	بائع؛ مَكَنةُ بَيْع / بائع
+vendue	مَزادٌ علَنيّ، بَيْعٌ بالمَزاد
+veneer	قِشْرَة، قِشرةٌ خَشَبِيَّة (للزينة أو الوِقاية)؛ تكسِيَة (أو طَبقة) خارجيَّة؛ كَسا بِقِشْرة، لَبَّسَ بغِشاء خارجيّ، غَشَّى / طبقة قشرية
+veneer cutter	مِقْطَعُ قُشور، مِقْشار
+veneer hammer	مِطرَقةُ تثبيت القِشرة
+veneer(ed) construction	إنشاءٌ مُلَبَّس (بالرخام أو الطوب الزجاجي)
+veneer(ing) saw	مِنشار قَطْعِ القُشور
+veneered plywood	خَشبٌ رَقاقيّ مُلَبّس
+veneering	قِشْرَةٌ أو غِشاء خارجيّ؛ تلبيسٌ بطبقَةٍ خارجية
+venemous trefoil	زويتينية
+venereal disease	المَرضُ الزُّهري، الداءُ الإفرنجي
+Venetian blinds	ستائرُ «ڤينيسيَة»
+Venetian red	أحمر بُنْدُقيّ
+Venetian tiles	قِرميدُ «البندقيَّة»
+Venetian white	أبيض «ڤينيسيَة»
+venidium	زهرة العرق
+Venn diagram	مُخَطَّط «ڤن» / مخطط Venn / مخطط فين / مُخَطَّط ڤِن
+Venn, John	جون ڤِن
+venom	سُمٌّ (حَيَواني)
+venomous fishes	أسماك سامة
+venose	مُعَرَّق
+venous	وَريديّ؛ عِرقيّ
+venous portal system	جهاز وريدي بابي
+vent	مَنْفَس، مَخْرَج، فُتحَةُ تَهويَة؛ فُتحة، ثَقْب؛ عُنُق (بُركانيّ)؛ فَجْوَة أنبُوبيَّة؛ نَفَّسَ، هَوَّى / ثقْب / ثقب
+vent (volcanic)	فتحة البركان
+vent (volcanic...)	فتحة البركان
+vent cock	صُنْبُورُ تَنفيس
+vent hole	ثَقْبُ تنفيس
+vent pipe	أنبوبُ تَنْفيس؛ أنبوبُ تَهوية
+vent plug (or peg)	سِدادُ فُتْحَةِ التَنْفيس
+vent stack	ماسُورةُ تَنْفيس؛ أُنبوبُ تَهْوِيَة
+vent tube or ventube	أُنبوب تَنْفيس (أو تَهْوِيَة)
+vent valve	صِمامُ تَنْفيس (أو تَهْوِيَة)
+vent wires	أسلاكُ تَنْفيس (قوالِب الصبِّ الرملية)
+vent(ing) valve	صِمامُ تَنْفيس (أَو تَهْوية)
+vent, relief	فُتحةُ تَنْفيسِ الضغط (في مُحَوِّل كهربائي)
+vent; hole	ثقب تنفيس، فتحة تهوية
+vented	مُنَفَّس
+ventiduct	مَسْلَكُ تَهْوِيَة
+ventifacts	حَصًى هَندسيَّة صَقَلَتها الرياحُ المُحَمَّلَةُ بالرمال
+ventilate	هَوَّى، عَرَّضَ للهَواء
+ventilated commutator	مُبَدِّلٌ مُهَوًّى
+ventilated container	حاوية مهواة
+ventilated motor	مُحَرِّكٌ مُهَوًّى
+ventilated psychrometer	مِصْرادٌ مُهَوى (مقياس الرطوبة)
+ventilated thermometer	مِقياسُ درجة الحَرارة المُهوى
+ventilating duct	مَسْلَكُ تَهْوِيَة
+ventilating fan	مِروحَة تَهْوِيَة
+ventilating flues	مَسالكُ التَّهوِيَة
+ventilating pipe	أُنبوبُ تَهْوِيَة
+ventilating plant	وَحْدَةُ تَهْوِيَة
+ventilating shaft	مَهواة، بئرُ التَّهوِيَة
+ventilating system	نِظامُ تَهْوِيَة؛ مَنظومةُ تهوِية
+ventilation	تَهوية
+ventilation circuit	دَورةُ تَهْوِيَة
+ventilation ducts	مَسالكُ التَّهوِيَة
+ventilation funnel	مِدخنةُ تهوية، ماسورةُ تَهوية
+ventilation garment	بِزَّةُ تَهْوِيَة
+ventilation regulator	مُنَظِّمُ التَّهوِيَة
+ventilation shaft	مَهواة، بِئْرُ تَهْوِيَة
+ventilator	جِهازُ تَهْوِيَة، مِهواة؛ مِروحة
+Ventilator card	بطاقة تهوية
+ventilator, extract	مِروَحة استِنزافيَّة
+venting	تَهْوِيَة، تَنْفيس
+venting system	دَورةُ التَّهوِيَة؛ مَنْظومة تنفيسٍ أو تهوِيَة
+ventometer	مِرياحُ الرَّمي
+ventrad	تُجاه البَطْنِ، صَوْبَ البَطْن
+ventral	بَطْنِيّ؛ سُفْلِيّ الاتِّجاه / بطني
+ventral fin	زعنفة بطنية
+ventral suture	تدريز بطني
+ventral tank = belly tank	خَزّانٌ بَطْنِيّ
+ventricle	بُطَيْن؛ تَجويف بُطَيْنِيّ / بُطين / بطين
+venture	غامَر، جازَفَ، خاطَرَ؛ مُجَازَفَة، مُغَامَرَة
+venturi (or Venturi tube)	ڤنْتُوري، أُنبوب «ڤنْتُوري»
+Venturi effect	تأثير فنتوري
+Venturi meter	عَدَّادُ «ڤنتُوري»
+venue	مكانُ الاجتماع
+venule	عُرَيْق، عرقٌ صغير؛ وُرَيِّد / وريد
+Venus	ألزُّهْرَة / زهرة (ال...) / زُهْرة (ال...) / زهرة
+veranda	شُرفَة مَسْقُوفة
+verany's enope squid	حبّار فراني
+veratrum	خربق
+Verb phrase	عبارة فعلية
+verbal	شَفَويّ، شَفَهِيّ
+verbal-descriptive model	نموذج وصفي لفظي
+verbasceae	بوصرية
+verbascum; bullein	بوصير
+verbatim	حَرفِيًّا، حَرفًا بِحَرْف؛ حَرفيّ
+verbena; vervain	رعي الحمام، فربينا
+verbenaceae	فصيلة أرثدية
+verbose	مسهب / مطنب
+verd(e) antique	رُخام أخضَرُ مُعَرَّق أو مُجَزَّع؛ زِنْجَارُ البرونْزِ المُخْضَرّ
+Verdet constant	ثابتُ «ڤرْدِت»
+verdict	حُكْم، قَرارُ المُحَلّفين
+verdigris	زِنْجَارُ النُّحاس
+verdite	ڤرديت
+verge	شَفا، شَفير، حافة؛ حافةُ السَّقْف الجُملوني؛ حافّةُ الطريق، رَصِيف؛ تاخَمَ؛ مالَ، اِنحَدَرَ
+vergeboard = bargeboard	لَوحُ جانِب الجَملُون (مُزَخْرَفٌ عادةً ويُغَطِّي طوبَ الجِدار)
+vergence	مُنْقَلَب؛ مَيْل، اِنْحِدار؛ تقارُب، تَلامّ؛ تباعُد، اِنفِراج
+vergency	مِقدارُ التلامّ أو الانفراجِ (مَعكُوسُ البُعْد البُؤْري)
+Verifiability	تحققية – توثقية
+verifiable	يُمْكِنُ التحقُّق منه، يُمكن إثباتُهُ
+verification	تَحقيق، تَحَقُّق، تَيَقُّن / 1 تَحَقُّق ؛ 2 تَحَقُّق ؛ 3 تَحَقُّق ؛ 4 تَحَقُّق / تحقيق / تحقّق
+Verification Algorithm	خوارزمية تحقّق
+Verification Equation	معادلة التحقّق
+verifier	مُدَقِّقة، مُحَقِّقة / مُصدّق
+verify	حَقَّق، دَقَّقَ؛ أَكَّدَ، أَثْبَتَ / يتحقق، يتوثق من / تحقيق
+verify (to)	حقّق
+vermicide	مُبِيدُ الدِيدان
+vermicular	دُودِيُّ الشَّكْلِ / دوري
+vermiculated work	زَخرفة دُويديَّة
+vermiculation	تَمَعُّج (دِيداني)؛ زَخْرفةٌ دِيدانيّة التمَعُّجِ (كَنَخْرِ الدِّيدان)
+vermiform	دُودِيّ، دُودِيُّ الشَّكْل
+vermiform appendix	ألزائدة الدُّودية / زائدة دودية
+vermifugal	طارد الدود
+vermifuge	طاردُ الديدان
+vermil(l)ion	زُنْجُفْر؛ لَونٌ قِرمِزيّ
+vermivorous	آكل الدود
+verna equinox; spring	اعتدال (ال...) الربيعي
+vernacular	دارِج، عاميّ (بالمُقارنة مع «الاسم» العلمي)؛ اصطلاحٌ دارِج
+vernal	رَبيعيّ؛ نَضِر
+vernal equinox	ألاعتِدال الربيعي (في 21 آذار) / اعتدال ربيعي
+vernalization	إرباع، إنْضار
+vernation	ترتيبُ البُرْعُم الوَرقي
+vernier	وَرْنِيّة؛ وَرْنِيّ
+vernier arm	ذِراعُ الوَرْنِيَّة
+vernier caliper(s)	قَدَمة وَرْنِيّة
+vernier capacitor	مُكَثِّفٌ وَرنيّ
+vernier compass	بُوصَلَةٌ وَرْنِيَّة
+vernier condenser	مُكَثِّفٌ وَرْنِيّ
+vernier depth gauge	مِعماقٌ وَرْنِيّ
+vernier dial	مَدالة وَرْنِيَّة
+Vernier engine (rocket)	محرك فرنييه
+vernier engine = vernier rocket	مُحَرِّكٌ وَرْنِي
+vernier height gauge	مِقياسُ ارتفاعٍ وَرْنِيّ، مِعلاءٌ وَرْنيّ
+vernier micrometer	مِصْغَرٌ (ميكرومِتْر) وَرْنِيّ
+vernier microscope	مِجْهَرٌ وَرْنِيّ
+vernier motor	مُحَرِّكٌ وَرْنِيّ
+vernier resistor	مُقاوِمٌ وَرْنِيّ
+vernier rocket	صاروخ وَرْنِيّ
+vernier scale	مِقياسٌ وَرْنِيّ
+vernier sextant	سُدْسِيَّةٌ وَرْنِيَّة
+vernier transit	مِعبارٌ وَرْنِيّ
+Veronica	[خدمة] Veronica / ويرونيكة، زهر الحواشي
+verruca	ثُؤلول، نُتُوءٌ ثُؤلوليّ
+verrucano	رَصيصٌ ثُؤلوليّ
+vers	vers
+vers (abbrev. of versine)	فَرْقُ جيب التمام عن واحِد
+versant	اِنحدار، مُنْحَدَر
+versatile	مُتَعَدِّدُ الاستِعمال؛ مُتَعَدِّدُ المُؤَهِّلات؛ مُتَقَلِّب؛ طَليقُ الحركة / اتصال متأرجح
+versed	مُحَنَّك، مُتَضَلِّع، خَبير؛ مَعكوس
+versed cosine	مُتَمِّمُ الجَيْبِ إلَى الواحِد
+versed cosine = coversed sine	فَرقُ جَيب الزاوية (الحادّةِ) عن الواحِد
+versed sine	مُتَمِّمُ جَيْبِ التَّمامِ إلَى الواحِد
+versed sine = versine	فَرقُ جَيبِ تَمام الزاوية (الحادَّةِ) عن الواحد
+versicoloured	مُبَرْقَش، مُتَعَدِّد التلَوُّن؛ مُتَغَيِّرُ الألوان (كالحِرباء)
+versiera	ساحِرةُ آغْنيسي
+versine	مُتَمِّمُ جَيْبِ التَّمامِ إلَى الواحِد
+versine = versed sine	فَرْقُ جيب التمام عن الواحد
+version	تَرجَمة (من مجموعة تَرجَمات)؛ نُسخة، نُسخَة مُعَدَّلَة؛ وَجْهُ رِوايَةٍ / إصدار / إصْدَار / انعكاس، تعاكس
+version control	تحكم في الإصدارات / التحكم في الإصدار
+version number	رقْمُ الإصدار / رَقْمُ الصِّيغَة
+Versioning	أصدرة
+Versions	اصدارات
+verso	ظَهْر، قَفا؛ صَفحَةُ الظهر (تحملُ عددًا زَوجيًّا عادةً) / وجه الصفحة الخلفي (صفحة ذات رقم زوجي)
+verst	ڤرسْت
+versus	ضِدّ
+vertebra	فِقْرة، فَقَارة / فقارة، فقرة
+vertebral	فقاري
+vertebral column	ألعَمُود الفَقَريّ، الصُّلْب / عمو فقاري
+Vertebrata	ألفَقَارِيَّات / فقاريات
+vertebratae	فقاريات
+vertebrate	فَقاري، فَقَريّ؛ حَيوان فَقاريّ
+vertebrates; vertebrata	فقاريات
+vertebratus ((ve))	فِقْرِيّ، فَقاريّ
+vertex	رأس / رَأْس / قمة، قنة
+vertex (pl. vertices)	قِمة، قُنَّة، ذِرْوَة؛ رأس
+vertex angle	زاوِيةُ الرَّأْس
+vertex cover	تَغْطِيةٌ بالرُّؤوس
+vertex domination number	عِدَّةُ هَيْمَنَةِ الرُّؤوس
+vertex form	صيغةُ الذَّرْوة
+vertex of pyramid	رأس هرم
+vertex-covering number	عِدَّةُ التَغْطِيَةِ بِالرُّؤوس
+vertex-disjoint paths	مَسارا رُؤوسٍ مُنْفَصِلان
+vertex-induced subgraph	بَيانٌ جُزْئِيٌّ مُحْدَثٌ بالرُّؤوس
+vertical	رأسيّ، عَموديّ، شاقُوليّ / رأسي، عمودي / شاقولي
+vertical (or contour) recording	ألتسجيلُ (بالتفريزِ) العمُودي
+vertical (the)	خط (ال...) الرأسي
+vertical aerial	هوائي عَمُودي
+vertical aerial photography	ألتصوير الجَوِّيُّ الرأسي
+vertical alignment	تراصُف رأسي / محاذاة عامودي
+vertical angles	زوايا رأسية / زاوِيَتانِ مُتَقابِلَتان بالرَّأْس
+vertical angles = vertically opposite angles	زاوِيتان رَأسِيَّتان
+vertical antenna	هَوائِيٌّ رأسيّ
+vertical application	تطبيق متخصص (شاقولي)
+vertical axis	مِحْوَر عَمودي أو رأسي
+vertical bandwidth	تردد الإنعاش الشاقولي
+Vertical bar	شريط عامودي
+vertical bearing	مَحْمِلٌ عَمودي
+vertical beds	طبقات عمودية
+vertical blanking	إعتامٌ (أو تَبْييضٌ) رأسي / إظلام عمودي
+vertical blanking interval	مدة الإغفال الشاقولي
+vertical boiler	مِرْجَلٌ عَمُودي، غلاّية رأسيّة
+vertical boring mill (or machine)	مَكَنَةُ تَجويفٍ عَمُوديّ
+vertical break switch	مِفتاحٌ رأسيُّ القَطْع، مِقلادٌ عموديُّ القَطع
+vertical center of gravity	مركز رأسي للجاذبية
+vertical centring control	مِحكامُ المَركَزَة الرأسيّة
+vertical circle	دائرة رأسيَّة أو سَمْتِيَّة؛ قُرصُ قِياس الزوايا الرأسيَّة (في التيودُوليت)
+vertical compass	بُوصَلَة عَمودية
+vertical component	مُرَكِّبَة عمودية
+vertical crane	مِرفاعٌ شاقُولي
+vertical curve	مُنْحَنٍ رأسيّ
+vertical deflection	اِنحِرافٌ رأسيّ أو شاقولي
+vertical depth	عُمْقٌ رأسِيّ
+vertical dispersion	تَشَتُّتٌ رأسِيّ
+vertical displacement	إزاحَة رأسيّة أو عَمُوديّة
+vertical drill	ثَقَّابَة عمودية
+vertical drive shaft	عَمودُ إدارةٍ رأسيَّة
+vertical engine	مُحَرِّكٌ قائم، مُحَرِّكٌ عَموديُّ الأُسْطُوانات
+vertical error	مَحِيدٌ عَمودي
+vertical evaluation	تطور رأسيّ
+vertical extent of a cloud	إمتِدادٌ رَاْسِيُّ لِسَحابة
+vertical fault	صَدْعٌ رأسيّ أو عَمُوديّ
+vertical feed	تَغْذِيَة رأسيَّة، إِلقامٌ عَمُوديّ
+vertical file	صِوانُ مِلَفّاتٍ عَمُوديّ
+vertical fin	زَعْنَفَة رأسيّة، زِعْنِفة عَموديَّة
+vertical gust	عَصْفَة (ريحٍ) صاعِدَة
+vertical interval	فاصِلٌ رأسيّ أو شاقوليّ؛ بَيْنَونةٌ رأسِية / مجال رأسي
+vertical keel	رافِدَةُ القَصّ الرأسيّة
+vertical line	خَطٌّ شاقُوليّ أو رأسِيّ / خط رأسي
+vertical migration	إرتِحال عَمُوديّ
+vertical milling machine	مَكنَةُ تَفريزٍ رأسِيّ
+vertical oscillator	مُذَبْذِبٌ رأسِيّ
+vertical parallax	اِختلافُ المَنظَر الرأسيّ
+vertical photograph	صورةٌ عموديَّة
+vertical plane	مُسْتَوٍ رأسِيّ أو عمودي / مستو رأسي / مستوٍ رأسي
+vertical play	لَعِبٌ رأسِيّ
+vertical plugging	قَبْسٌ رأسِيّ
+vertical polarization	اِستقطابٌ رأسِيّ
+vertical position	وَضْعٌ رأسِيّ
+vertical projection	إسقاطٌ رأسِيّ؛ مَسْقَطٌ عَموديّ أو رأسِيّ
+vertical pump	مضخة رأسية
+vertical recording	تسجيل عمودي
+vertical redundancy check	تدقيق التكرارية الشاقولية
+vertical resolution	اِستِبانة رأسيّة، قُدرة المَيْز الرأسيّ
+vertical retrace	مَسارُ الرُّجوعِ (أثناءَ المسحِ) الرأسِيّ / رجعة [مسْح] شاقولية / ارتداد عمودي
+vertical retrace blanking	إعتامُ مَسارِ الرُّجوع الرأسيّ
+vertical riser	طائرةٌ تُقلِعُ عَموديًّا
+vertical sand drain	مَصرِف رَملِيّ (أو حَصباوِيّ) عموديّ
+Vertical Scaling	توسيع عمودي
+vertical scan rate	معدل المسح الشاقولي
+vertical scanning	مَسْحٌ رأسِيّ
+vertical scrollbar	شَرِيطُ تَمْرِير عَمُودِيّ
+vertical scrolling	تحريك [انزلاقي] شاقولي
+vertical section	مَقْطَعٌ رأسِيّ
+vertical separation	مُباعَدَة عمودية
+vertical shaft	عمُود إدارةٍ رأسِيّ، جِذعٌ عمُودي
+vertical shaft mixer	خَلاّطة عموديّة الجذع
+vertical shaping machine	مِقْشَطَة عَمُودية
+vertical siding	تكسية جانبية بألواح عموديّة عريضة
+vertical sight	مِهدافٌ رأسِيّ، مِهْداف قائِم
+vertical slip	اِنزِلاق رأسِيّ
+vertical speed indicator	مُبَيِّنُ المُرَكِّبَةِ العمودية للسُّرعة
+vertical spindle motor	مُحَرِّكٌ ذو عمودِ دورانٍ رأسِيّ
+vertical spring-pivot hinge	مُفصِّلَة مُعامِدة نابضِيّة المِحْوَر
+vertical stability	اِستِقرار رأسِيّ أو شاقولي
+vertical stabilizer	سَطحٌ موازِنٌ رأسِيّ
+vertical sweep	كَسْحٌ رأسِيّ
+vertical sync	تزامن شاقولي
+vertical sync signal	إشارة التزامن الشاقولي
+vertical take-off and landing aircraft	طائرةٌ عَموديَّةُ الإقلاع والهُبوط
+vertical thermal gradient	مَمالٌ حَراريّ رأسِيّ، مَدروجٌ حراري رأسي
+vertical throw	رَمْيَة رأسِيّة
+vertical throw; vertical displacement	رمية رأسية
+vertical thrust	دَسْرٌ أو دَفْعٌ رأسِيّ
+vertical transmission	تحويل رأسيّ
+vertical vein	عِرقٌ رأسِيّ
+vertical velocity gradient	تَدرُّج السُّرعة الرأسيّ، مَدروجُ السُّرعة الرأسيّ
+vertical vibrations	اِهتزازاتٌ رأسيَّة
+vertical visibility	مَدى الرُّؤْيَة العَمودية (أثناءَ الضباب أو المَطَر) / رؤية رأسية
+vertical wind shear	قَصُّ عَمودِيّ لِلرِّياح
+vertical wind tunnel	نَفَقٌ هَوائِيٌّ رأسِيّ
+vertical-hold control	مِضْبَطُ المَسْك الرأسيّ
+vertical-lift bridge	جِسرٌ رأسِيُّ الرَّفع
+vertical-turbine pump	مِضَخَّة تُربينيّة عمودِيَّة
+verticality	عَمُوديّة، شاقوليَّة، رأسيَّة
+Vertically	عاموديا
+vertically opposite angles	زاويتان متقابلتان يالرأس
+vertically-opposite angles	زاويتان مُتقابلتان بالرأس
+vertically-pivoted window	نافِذة مُعامَدةُ المِبْرَم
+vertically-polarized wave	مَوجَةٌ رأسيَّةُ الاستِقطاب
+verticil	دوارة
+verticillate	دواري
+vertigo	دُوَار، رَنْح
+very cloudy sky	سَماءٌ كَثيرةُ الغُيُوم
+very high frequency	تَردُّدٌ عالٍ جدًّا (من 30 إلى 300 ميغاهِرْتز)
+very high sea	بحر عال جدا
+Very Large Array (VL) radio telescope	تلِسكوب الصفيفِ الأعظم الراديُوي
+very large crude carrier (VLCC)	ناقلة نفط ضخمة
+Very Large Database	قاعدة معطيات ضخمة جداً
+Very Large Memory	ذاكرة ضخمة جداً
+Very light	ضَوءُ أو شِهابُ «ڤيري»
+Very Long Instruction Word	كلمة تعليمة طويلة جداً
+very low frequency	تردُّدٌ مُنْخَفِضٌ جدًّا (من 10 إلى 30 كيلوهِرْتز)
+Very pistol	مُسَدَّسُ «ڤيري»
+very rough sea	بحر رديء جدا
+very-high-level language	لغة عالية المستوى جداً
+very-high-speed integrated circuit	دارة متكاملة فائقة السرعة
+very-large-scale integration	تكامل وسيع النطاق
+very-long-range	مَدًى طويلٌ جِدًّا
+very-low-frequency electromagnetic radiation	إشعاع كهرطيسي ذو ترددات منخفضة جداً
+very-short-range	مَدًى قصيرٌ جدًّا
+VESA	رابطة مَقَايس إلكترونيات الفيديو
+VESA Display Power Management Signaling	التشوير لإدارة الطاقة في مظهار VESA
+VESA local bus	مسرى محلي VESA
+VESA/EISA	VESA/EISA
+VESA/ISA	VESA/ISA
+vesica	مثانة
+vesical	مثاني
+vesicant	مُنَفِّط، نَفَّاط
+vesicle	نَفْطَة، مَجْلَة؛ حُوَيْصِلَة مَثانِيَّة، فَجْوَةٌ حُوَيصِليَّة؛ حُوَيْصِلَة، فَجْوَة حُوَيْصِليَّة / حُوَيصلة / حويصلة
+vesicular	حويصلي
+vesicular film	غشاء مُبَثَّر
+vesicular limestone	حجر جير حويصلي
+vesicular porosity	مسامية حويصلية
+vesicular rock	صخر حويصلي
+vesicular structure	بِنْيَة حُوَيْصِليَّة / بنية حويصلية
+vesicular tissue	نَسيجٌ حُوَيصِلي (فَجَوي)
+vespiary	عش الزنابير
+vespidae	زنبوريات
+vessel	وِعاء، إناء؛ عِرْق، وِعاء دَمَويّ أو نُسْغِيّ؛ سفينة، مَركَب / أنبوب، وعاء / سفينة / وعاء
+vessel constrained by her draught	سفينة محكومة بغاطسها
+vessel element	عنصر وعائي
+vessel engaged in dredging	سفينة تعمل في الحفر
+vessel engaged in fishing	سفينة تعمل في الصيد
+vessel engaged in surveying	سفينة في المسح الأقيانوغرافي
+vessel engaged in underwater operations	سفينة تعمل في عمليات تحت الماء
+vessel in distress	سفينة في خطر
+vessel not undercommand	سفينة غير قادرة على المناورة
+vessel operating in the non displacement mode	سفينة تعمل بدون إزاحة
+vessel restricted in her ability to manoeuvre	سفينة قدرتها محدودة على المناورة
+vessel source pollution	تلوث ناجم عن السفن
+vessel traffic management (vtm)	إدارة حركة السفن
+vessel under oars	سفينة تسير بالمجذاف
+vessel under sail	سفينة تسير بالشراع
+vessel under way	سفينة مبحرة
+vessel with operational radar	سفينة تستخدم رادارا
+vessel with separate tanks	سفينة بصهاريج منفصلة، سفينة بصهاريج مستقلة
+vessels in sight of one another	سفن مترائية لبعضها
+vessels proceeding under convoy	سفن تسير في قافلة
+Vessels Traffic	حركة السفن
+vest	خَوَّلَ، قَلَّدَ؛ صُدْرَة، صِدار
+vestibule	دِهْليز، رُواق؛ بَهْو (المَدْخَل)، مَدْخَلٌ مَسقوف؛ دِهْلِيز (الأُذُن بخاصةٍ) / دهليز
+vestigial	آثاريٌّ، أثَريّ / أثري
+vestigial interfascular cambium	كمبيوم بين حزمي أثري
+vestigial organ	عضو أثري
+vestigial sideband	نِطاقٌ جانبيٌّ أثَريّ
+vestigial traces in flower	مسارات أثرية في الزهرة
+vestigial-sideband signal	إشارةٌ بِنِطاقٍ جانبِيٍّ أثَريّ
+vetch	بيقة، بيقية
+vetch milk	أسطر غالس، قتاد
+vetching	جلبان المروج
+veteran	مُحارِبٌ قديم؛ شَيخُ مِهْنَة
+veterinary	بَيْطَرِيّ؛ طَبيبٌ بَيْطري
+vetiver	نجيل الهند
+veto	ڤيتُو، اعتِراض؛ حَقُّ النقض؛ نَقَضَ، رَفَضَ
+vex	أغاظَ، أثارَ؛ حَيَّر
+VFAT	جدول تحصيص الملفات الافتراضي
+VFS	مخططات VFS القابلة للكتابة.
+VGA	صفيفة بيانيات فيديوية
+VHDL	[لغة] VHDL
+VHF (abbrev. for very high frequency)	تردُّدٌ عالٍ جِدًّا
+VHLL	لغة عالية المستوى جداً
+VHSIC	دارة متكاملة فائقة السرعة
+via	عن طريق، مارًّا بِــ
+viability	عَيُوشيّة / حيوية، قابلية الحياة، قدرة على البقاء
+viable	عَيُوش
+viaduct	جِسْرٌ قَنْطَري
+vial	قارورة، قِنّينَة؛ أُنبوبُ (سائل) المِسواةِ
+viameter = perambulator	عَجَلَةُ قِياسِ المسافات
+vibrate	اِهتَزَّ، تَرَجَّحَ، تَذَبْذَبَ، هَزَّ
+vibrated concrete	خَرَسانة مُدَمَّجَةٌ بالاهتزاز
+vibrating capacitor = oscillating capacitor	مُكَثِّفٌ اهْتِزازي
+vibrating contactor	مُلامِسٌ اهتزازي
+vibrating conveyor	ناقِلٌ اهتزازي، ناقِلَةٌ ارتجاجيَّة
+vibrating desander	هَزّازة لإزالة الرَّمْل
+vibrating feeder	مُلقِمة هَزّازة
+vibrating roller	مِحْدَلَة هَزَّازة
+vibrating screen	غِربالٌ هَزَّاز
+vibrating-reed instrument	جهازُ قياسٍ ذو قَصَبةٍ (أو ريشَةٍ) مُتَذَبْذِبة
+vibrating-reed rectifier	مُقَوِّمٌ ذو قَصَبةٍ مُتَذَبْذِبَة
+vibration	اِهتزاز؛ اِرتجاج / اهتزاز / اهتزاز، ارتجاج
+vibration (blasting)	اهتزاز، ارتجاجات انفجار
+vibration (blasting...)	اهتزاز انفجار، ارتجاجات انفجار
+vibration absorber	مُمْتَصُّ الاهتِزازات
+vibration damper	مُخَمِّدُ الارتِجاج، مُضَائِلُ الاهتِزاز
+vibration detector	مِكشافُ الاهتِزازات / كاشف الاهتزاز
+vibration direction	اتجاه الاهتزاز، اتجاه الاهتزازات / اتجاه الاهتزاز
+vibration fatigue	كَلالُ الارتِجاج
+vibration galvanometer	غَلفانُومِتر اِهتزازي
+vibration gravimeter	مِقياسُ جَاذِبِيَّةٍ اِهتزازيّ
+vibration insulation	عَزْلُ الارتِجاج
+vibration isolator	عازِلُ الارتِجاج
+vibration mode	نَمَطُ الاهتِزاز
+vibration node	عُقدَةُ الاهتِزاز
+vibration plane	سطح الاهتزاز، سطح الاهتزازات / سطح الاهتزاز
+vibration test	اِختبارُ الاهتزاز
+vibration, engine	اِرتجَاجُ المُحَرِّك
+vibration, shear	اِهتزازٌ مُسْتَعْرِض
+vibration, torsional	اِهتزازٌ التِوائي
+vibrational	اهتزازي
+vibrational energy	الطاقَةُ التَّذَبْذُبِيَّة، طاقةُ الاهتِزاز
+vibrational frequency	تردد اهتزازي
+vibrational spectrum	طَيفُ الاهتزاز، طَيْفُ الذبذبة
+vibrator	هَزَّازة، هَزَّاز، رَجّاج؛ مُقَطِّع اِهتزازي (للتيّار)؛ رجَاجة سَمنتة
+vibrator converter	مُحَوِّلٌ اِهتزازي
+vibratory	اِهتزازيّ
+vibratory feeder	مُغَذّ اِهتزازي
+vibratory motion	حَرَكَةٌ اِهتزازيّة / حركة اهتزازية
+vibratory waves	موجات ذبذبية، أمواج ارتجاجية
+vibrio	بكتريا وأوية
+vibrion	ضَمَّة
+vibrissae	شوارب
+vibro-classifier	مُصَنِّفٌ اِهتزازي
+vibrograph	مِرْسَمَةُ الاهتِزاز
+vibrograph; vibrometer	مقياس الاهتزاز، مقياس الارتجاج
+vibrometer	مِقياسُ الاهتِزاز
+vibroseis method	طريقة الاهتزاز الزّلزلي
+vibroseis truck	شاحِنة مِرْجافيّة
+vibrotron	ڤايْبرُوترون
+vic-	مُجاوِر، مُتَجاوِر
+vicarious responsibility	مسؤولية بديلة
+Vicat needle	إبرة «ڤيكات»
+vice	رَذيلة، نَقِيصَة
+vice bench	نَضَدُ المِلْزَمة
+vice chuck	ظَرْفٌ مِلْزَمِيّ، مِلْزَمَة قابِضَة
+vice clamps	لُقْمَتَا المِلْزَمَة
+vice jaws	فَكَّا المِلزمة
+vice press	مِكْبَسٌ مِلْزَميّ
+vice versa	وَالعَكْسُ بالعكس
+vice, bench	مِلْزَمَة نَضَدِيَّة
+vice, swivel	مِلْزَمَة دَوَّارة
+vice-	بادِئة بمعنى: نائب
+vice-faces	وجوه بديلة
+vice-president	نائِبُ رئيس
+vicinal	مُجاوِر، مُتَجاوِر المَواقِع
+vicinal faces	وجوه مجاورة
+vicinity	جِوار، مِنطقَة مُجَاوِرَة
+vicious circle	حَلْقَةٌ مُفْرَغَة
+Vickers diamond pyramid	هرم «ڤيكرْز» الماسي
+Vickers hardness number	رَقْمُ «ڤيكَرْزْ» لِلصَّلادَة
+Vickers hardness test	اِختِبارُ «ڤيكَرْزْ» لِلصَّلادَة
+victim	ضَحِيَّة / ضحية
+victor	ظافِر، مُنْتَصِر
+victory	نَصْر، اِنتِصار، غَلَبَة
+victualling vessel	سفينة تموين (بالطعام)، سفينة التزويد بالمؤن
+video	ڤيديُو؛ ڤيديُو، تَرْئِيَةُ الصُّوَر؛ ڤيديُويّ، رُؤْيَويّ، مِشْهاديّ، صُوَرِيّ / فيديو / مرئية / تسجيل مرئي
+video (frequency) amplifier	مُضَخِّمٌ فيديُويّ
+video accelerator	مسرِّع فيديوي
+video adapter	موائمة فيديوية
+video adapter board	بطاقة موائمة فيديوية
+video amplifier	مُضَخِّم رؤيوي
+video board	بطاقة (لوحة) فيديوية
+video buffer	صِوان فيديوي
+video capture board	بطاقة (لوحة) التقاط فيديوي
+video capture card	بطاقة التقاط فيديوية
+video capture device	تجهيزة التقاط فيديوي
+video card	بطاقة فيديوية / بطاقة مرئيات
+video carrier	حَامِلَةٌ صُوَرِيَّة، مَوْجَةٌ حَامِلَةٌ لإشارات الڤيديو
+video clip	قُصاصة فيديوية
+video compression	ضغط الفيديو / ضغط مرئي
+Video conference	اجتماع مرئي
+video conferencing	ائتمار فيديوي
+video controller	متحكّم فيديوي
+video digitizer	مُرَقْمِن فيديوي
+video display	مظهار فيديوي
+video display adapter	موائمة إظهار فيديوي
+video display board	بطاقة (لوحة) إظهار فيديوي(ـة)
+video display card	بطاقة إظهار فيديوي(ـة)
+video display metafile	ملف مُتَرَفِّع للإظهار الفيديوي
+video display page	صفحة إظهار فيديوي
+video display terminal	مطراف إظهار فيديوي
+video display tube	صِمام إظهار فيديوي
+video display unit	وحدة إظهار فيديوي
+video DRAM	[ذاكرة] RAM فيديو ديناميكية
+video driver	سوّاق فيديو
+video editor	محرر فيديو
+Video Electronics Standards Association	رابطة مَقَايس إلكترونيات الفيديو
+video frequency	تَرَدُّدٌ فيديوي
+Video Graphics Array	صفيفة بيانيات فيديوية
+video graphics board	بطاقة فيديو بيانية
+Video interface	واجهة فيديو
+video link	اِتِّصالٌ فيديُويّ (تِلفزيوني)
+video mapping	إعدادُ الخَرائط التِلفزيونيّ (لِلْمَسْحِ أو الاستطلاع)
+video memory	ذاكرة فيديو
+video mixer	خَلاّط فيديُوي
+video mode	نمط فيديوي
+video port	مَنْفذٌ فيديوي
+video RAM	[ذاكرة] RAM فيديو
+video recording	تسجيل فيديُوي
+video server	مخدّم فيديوي
+video signal	إشارةُ ڤيديُو، إشارةٌ رُؤيَويَّة / إشارة فيديو
+video stretching	إطالةُ مَدى الإشارات الرُّؤْيوِيَّة
+video tape	شريط ڤيديُو، شَريطٌ رُؤيَويّ
+video tape-recording; VTR	شريط تسجيل مرئي
+video terminal	مطراف فيديوي / طرفية تلفزيونيّة
+video-conferencing	ائتمارٌ مِشْهاديّ، مُداولة مِشهاديَّة
+video-disc	قُرصٌ فيديُوي
+video-tape recording	تَسجيلٌ شَريطي رُؤيَويّ، تَسجيل شريط الڤيديُو
+video-telephone	هاتِفٌ تِلفزيونيّ، هاتِفٌ رُؤيوي
+video-viewfinder	مُصَوِّبٌ مِشهادي، مُعَيِّنُ مَنظر فيديُوي، مُصَوِّبة رُؤيَويَّة
+videocasette recorder	مُسَجِّل تِلفزيوني بالحافِظات الشريطيَّة
+videocast	نَشرة تلفزيونيَّة؛ بَثَّ بالتلفزيون
+videodisc	قرص فيديوي
+videophone	ڤيديوفون، هاتفٌ مِشهاديّ / هاتف فيديوي (هاتف مرئي)
+videotex	نص فيديوي / فيديوتكس
+videotext	ڤيديُو تِكْست / نص فيديوي
+vidicon	ڤدِيْكُون / فيدكون، صِمام تصوير تلفزيوني
+vie	نَافَسَ
+Vienna Definition Language	لغة تعريف Vienna
+view	مَشْهَد، مَنْظَر؛ رَأْي، نَظْرَة؛ عِيان، رُؤْيَة، مُعَايَنَة؛ شاهَدَ، أبْصَرَ، عايَنَ / يعرض [معلومات] / 1 مرأى [معطيات] ؛ 2 مرأى / رَأَّى / عرض / منظر
+view (front)	منظر أمامي
+view (front...)	منظر أمامي
+view (sectional)	منظر مقطعي
+view (sectional...)	منظر مقطعي
+view finder	محدِّد المنظر
+view meter	مِقياسُ (اتساعِ) المَنْظَر
+view, exploded	مَنْظَرٌ مُمَدَّد (أو مُفَصَّص)
+view, front	مَنْظَر أماميّ
+view, sectional	مَنْظَرٌ قِطاعيّ (أو مَقْطَعيّ)
+view, top	مَنْظَرٌ عُلويّ
+viewdata	المعلوماتُ المرئِيَّة
+viewer	مُشَاهِد؛ مِنْظار / مُري / مُظهر
+viewfinder	مُصَوِّبَةٌ (في آلةِ تصوير)، مُعَيِّنُ المَنْظَر
+viewing lens	عَدَسَةُ مُعايَنَة
+viewing tube	أنبوبُ مُعَايَنَة
+viewpoint	وُجْهَةُ نَظَر
+viewport	مرأى مقطعي / منفذ العرض
+vigia	عَلامةُ عائقٍ مِلاحيّ (على الخريطة)
+vigilance	حَذَر، يَقَظَة، تَنَبُّه
+vignette	تضاؤل النصوع الحافّيّ
+vignetting	تضاؤل النصوع الحافّيّ، الكمود الحافي
+vignetting (antivignetting) filter	مرشح الكمود الحافّيّ
+vignetting effect	تَضَاؤُلُ النُّصوعِ الحافِّيِّ
+vigo(u)r	قُوّة، نَشَاط، حَيَوِيّة
+vigorous	شَديد، قويّ، نَشيط
+villa	دارَة، (ڤيلاّ)
+village	قَريَة / القرية
+villus	شعرة
+villus (pl. villi)	زُغابة، زَغْبَة، خَمْلَة
+villus of intestine(pl.villi)	زغابة معوية، خملة المعي
+vinculum	شَرْطةٌ مُعَلاَّة
+vinculum = bar	مُعَلاّة؛ قِياد، رِباطٌ شريطيّ
+vine-arbour	كرم معترش
+vine-culture; vine-growing	زراعة الكروم
+vine-dresser	كرام
+vine-harvest	قطاف العنب، جني العنب
+vine-land; vineyard	كروم
+vine-pest	فلكسرة
+vinegar	خَلّ
+vinery	دفيئة الكروم
+vinyl acetate	خَلاَّت الڤايْنل
+vinyl asbestos tiles	بَلاطُ أسبِسْتُوس الڤايْنل
+vinyl chloride	كلُوريد الڤايْنل
+vinyl group	مَجمُوعةُ الڤايْنل
+vinyl plastics	لَدائِنُ الڤايْنل
+vinyl resins	راتِينَجات الڤايْنل
+viola; violet	بنفسج
+violaceae	فصيلة بنفسجية
+violate	اِنتَهَكَ، أَخَلَّ، نَكَثَ، خَرَقَ، خَالَف
+violation	اِنتِهاك، مُخَالَفَة، إِخلال / خرق
+Violations	انتهاكات
+violence	عُنْف، حِدَّة
+violent	عَنيف، شَديد
+violent storm	عاصِفةٌ عَنِيفة
+violet	لَونٌ بَنفسجي؛ بَنَفسَجِيّ
+violet rays	ألأشِعَّةُ البَنَفْسَجِيَّة (الضوئية)
+viper	أفعى
+viper's bugloss	زهرة الأفعى
+viperridae	فصيلة الأفاعي
+viral	فيرُوسي، حُمَويّ
+virescence	اِخضِرار؛ مُصوح
+virga	شِهابٌ مَائِيّ
+virga ((vir))	ذائلة، ذَيْل
+virgate	عَصَوِيّ، أُملُوديّ، طَويلٌ نَحيل
+virgation	اِنفراج الطيّات المتوازية، تَفَرُّعٌ صَدعي
+virgilia	ورجيلية
+virgin	بِكْر، عَذْراء؛ بِكْر / بِكْر / بكر
+virgin forest	حَرَجَةٌ بِكْر / غابة بكر / غابة عذراء
+virgin gold	ذهب خالص
+virgin iron	حَديدٌ بِكْر (لم تسْبِقْ مَغْنَطَتُه)
+virgin land	أرض بكر
+virgin metal	فلز خالص
+virgin neutrons	نيُوترونات بِكْر
+virgin pressure	الضَّغْطُ البِكْر
+virgin state = neutral state	وَضعٌ بِكر
+virgin stock	زيتٌ بِكْر؛ مُنْتَجاتُ التقطير المُباشِر
+virgin tape	شريط بِكْر
+virginian snake-root	لوف عطري
+virgo	برج العذراء
+Virgo (The Virgin)	العَذراء، بُرجُ العَذْراء، السُّنْبُلَة
+virgule	مائلة [أمامية]
+virial (of a system)	مُعَدَّلُ طاقةِ الحَرَكة (لمجموعَةِ جُسَيْمَاتٍ مَحْصُورة)
+viridian green	أَخْضَرُ زَبَرجَدِيّ
+virion	جُسَيم حُمَوي
+virology	علمُ الڤيروسات، مَبْحَثُ الحُمات
+virtual	تَقديريّ، اِفتراضيّ؛ ظاهِريّ / افتراضيٌّ / وهمي
+virtual 86 mode	نمط 86 الافتراضي
+virtual address	عُنوانٌ اِفتِراضي / عنوانٌ افتراضيّ / العنوان الظاهري
+virtual cathode	كاثودٌ تَقديري
+virtual channel	قناة افتراضية
+virtual circuit	دارة افتراضية
+virtual community	مجتمع افتراضي
+Virtual Control Program Interface	واجهة برنامج تحكم افتراضية
+Virtual Corporation	شركة افتراضية
+virtual current	تيّار تَقديري
+virtual desktop	[سطح] مكتب افتراضيّ / خلفية سطح المكتب
+virtual device	تجهيزة افتراضيَّة
+virtual device driver	سوّاقُ تجهيزة افتراضية
+virtual disk	قرص افتراضي
+virtual display device driver	سوّاق تجهيزة إظهار افتراضية
+Virtual File Allocation Table	جدول تحصيص الملفات الافتراضي
+virtual focus	بُؤرَة تقديرية
+virtual height	الارتِفاعُ التقديريّ
+virtual image	صُورَة تقديرية / صورةٌ افتراضية
+virtual LAN	شبكة محلية افتراضية
+virtual leak	تَسَرُّبٌ تَقديريّ
+Virtual Library	المكتبة الافتراضية/ التخيلية
+virtual machine	آلة افتراضية / جهاز ظاهري
+virtual memory	ذاكِرة ظاهريّة / ذاكرةٌ افتراضية / ذاكرة ظاهرية
+virtual monitor	مرقاب افتراضي
+virtual name space	فضاء أسماء افتراضي
+virtual network	شبكة افتراضية
+virtual object	جِسْمٌ افْتراضِيّ (أو تقديريّ)
+virtual particle	جُسَيْمٌ تقديريّ
+virtual path	1 مسار افتراضي ؛ 2 مسار افتراضي
+virtual peripheral	طرفية افتراضية
+virtual printer	طابعةٌ افتراضية
+virtual printer device driver	سوّاق جهاز الطابعة الافتراضية
+virtual private network	1 شبكة خصوصية افتراضية ، 2 شبكة خصوصية افتراضية
+Virtual Private Network (VPN)	شبكة خاصة افتراضية
+virtual real mode	نمطٌ حقيقيٌّ افتراضيّ
+virtual reality	حقيقة افتراضية (واقع افتراضي) / وَاقِعٌ افْتِرَاضِيّ
+Virtual Reality Modeling Language	لغة نمذجة الحقيقة الافتراضية
+virtual reality modeling language (VRML)	لُغَةُ نَمْذَجَةِ الْوَاقِعِ الافْتِرَاضِيّ
+virtual root	جذرٌ افتراضيّ
+virtual route	طريق افتراضي
+virtual screen	شاشةٌ افتراضية
+virtual sequential access method	طريقة النفاذ التسلسلي الافتراضية
+virtual server	مخدِّم افتراضي / ملقم ظاهري
+virtual state	حالة تقديريَّة
+virtual storage	تَخْزين ظاهري
+virtual storefront	واجهة مخزن افتراضي
+virtual temperature	درجةُ الحرارة المُفتَرضة / دَرَجَةُ حَرارةٍ مُحْتَملة
+virtual terminal	مطراف افتراضي
+virtual unit	وَحْدَةٌ افْتِرَاضِيَّة
+virtual value	قِيمة افتِراضية
+virtual velocity	سُرعة افتِراضية
+virtual work	شُغْلٌ افتِراضي
+virtual world	1 عالَمٌ افتراضي ؛ 2 عالَمٌ افتراضي
+virtual-image file	ملف صورة افتراضية
+virtually	فِعلِيًّا، واقِعِيًّا؛ تقديريًّا
+virulence	فَوْعَة
+virus	ڤيْرُوس، حُمَة؛ برنامجٌ ذاتيُّ التناسُخ / فيروس / فَيْرُوس
+virus companion	فَيْرُوسٌ مُصَاحِب
+virus scanner	كَاشِفُ الْفيرُوسَات
+virus signature	توقيع الفيروس
+Viruses	الفيروسات
+vis-à-vis	وَجهًا لِوَجْه، قُبَالَة
+visa	تأشيرَة، سِمَة؛ أشَّرَ (على جَواز السَّفَر)
+visbreaking = viscosity breaking	خَفْضُ اللُّزوجة
+viscaria	وسقارية
+viscera	أحشاء
+viscera (sing. viscus)	أحشاء
+visceral cavity	تجويف الأحشاء / تجويف الاحشاء
+visceral muscle	عضلة أحشائية
+viscid	لَزِج، دَبِق
+viscidity	لُزُوجَة
+visco(si)meter	مِلْزَاج
+viscoelastic	لَزِجٌ مَرِن
+viscoelasticity	المُرونةُ اللَّزِجة
+viscometer	مِلْزاج
+Visconti-Delbruck hypothesis	فرضية فيسكونتي -دلبروك
+viscoplasticity	اللُّدونةُ اللَّزِجة
+viscosation	تَلَزُّج
+viscose	ڤسْكُوز
+viscosity	لُزوجَة / لزوجة
+viscosity breaker	مُخَفِّفُ اللُّزوجة
+viscosity coefficient	مُعامِلُ اللُّزوجة
+viscosity drag	المُقاومَةُ اللُّزوجيَّة
+viscosity drop	هُبوطُ اللُّزوجة
+viscosity improvers	مُحَسِّنات اللُّزوجة
+viscosity index	دَليلُ اللُّزوجَة
+viscosity meter	مِقياسُ اللُّزوجَة، مِلْزاج
+viscosity number	رَقمُ اللُّزوجة
+viscosity range	مَدَى اللُّزوجة
+viscosity, kinematic	اللزوجة الحَركيَّة
+viscosity, specific	أللُّزوجَة النوعية
+viscosity-temperature chart	مُخَطَّطُ اللُّزوجة ودَرجات الحرارة
+viscous	لَزِج / لجز / لزج
+viscous (remanent) magnetization	مِغنيطيّة لزجة
+viscous damping	تَخْمِيدٌ لَزِج
+viscous distillate	قُطارَةٌ لَزِجَة
+viscous drag	المُقاومة اللزوجيَّة
+viscous flow	اِنسياب لَزِج
+viscous lubrication	تَزليقٌ لَزِج
+viscous oil	زيتٌ لَزِج
+viscus (pl. viscera)	حَشى
+vise = vice	مِلْزَمَة، مِنْجَلة
+vise clamps	لُقْمَتا المِلزمة
+vise jaws	فَكّا المِلزَمة
+vise, bench	مِلْزَمَة نضَديَّة
+vise, clamp-on	مِلزمَة كبّاشة
+vise, hand	مِلْزَمة يَدَويَّة
+vise, machine	مِلزَمَة مَكنات (لا نقّاليّة)
+visibility	رُؤية؛ وُضوحُ الرؤية؛ مَدَى الرؤية / رؤية / رُؤية
+visibility curve (or sensitivity curve)	مُنْحَني الرُّؤْية، مُنْحَني الحَسّاسِيَّة (للضوء)
+visibility factor	عامِلُ الرؤية
+visibility marker	مَعْلَمُ الرُّؤْية
+visibility meter	مِقياسُ (مَدَى) الرؤية / مقياس الرُّؤية
+visibility; vision	رؤية
+visible	مَرئيّ، مَنظُور؛ مَعْيون / مرئيّ
+visible (or apparent) horizon	الأُفُقُ المَرئيّ (أو الظاهِر)
+Visible bell	جرس مرئي
+visible load	الحُمولةُ الظاهِرة، الحِمْل المَرئيّ
+visible mutations	طفرات مرئية
+visible page	صفحة مرئية
+visible radiation	إشعاع مرئي
+visible radiations	إشعاعاتٌ مَرْئِيَّة
+visible spectrum	طَيْفٌ مَرئيّ
+visiogenic	صالِحٌ أو لائقٌ للتَّلْفَزَة
+vision	رُؤْية، نَظَر، إبصار؛ حاسَّةُ البَصَر؛ مَشْهَد، مَنْظَر؛ رُؤْيا / رؤية
+vision binocular	رؤية بالعينين
+Vision Language Model (VLM)	نموذج رؤية لغوي
+vision mixer	مازِجُ المَشاهِد (ومُعَدَّاتُهُ)
+vision modulation	ألتضمينُ الإبصاري
+vision panel	إطارُ الرُّؤية
+Vision Processing Unit (VPU)	وحدة معالجة الرؤية
+Vision Transformer (ViT)	مُحوِّل رؤية
+vision, field of	مَجالُ الرؤية
+vision, line of	خَطُّ الرؤية، خَطُّ الإبصار
+visit	زِيارة؛ مُعايَنَة؛ زارَ، عادَ؛ عايَنَ / زيارة
+visitation	زيارةٌ تَفتيشيَّة، زيارةُ تَفَقُّد
+visiting ant	نملة زائرة
+Visitor	الزائر
+Visitor Consumption	استهلاك الزوار
+Visking tubing	أُنبوب «ڤيسْكِنْغ»
+visor	قِناع؛ وَاقِيَةُ الشمس؛ شَقُّ الرُّؤْيَة (أو التصويب)؛ قِبال (الخُوذة)
+visor, oil	فُتحةُ مُعاينةِ الزيت
+vista	أُفُق، مَجال؛ مَنْظَر (عَبْرَ مَجالٍ مُعَيَّن)
+vista shot = distance shot	لَقْطَة بعيدة
+visual	بَصريّ، نَظَريّ، إبصاريّ / بصري
+visual accelerometer	مِقياسُ التسارُع البصريّ
+visual acuity	حِدَّةُ الإبصار، حِدَّةُ البصَر / حدّة البصر
+visual aids	مُعيناتٌ بَصَريّة
+visual angle	زاوِيَةُ الإبصار
+Visual Arts	الفنون المرئية
+visual axis	مِحورُ الإبصار
+Visual Basic	[لغة] Visual Basic
+Visual Basic for Applications	Visual Basic للتطبيقات
+Visual Basic Script	إخطاطة Visual Basic
+Visual Basic Scripting Edition	تحرير إخطاطة Visual Basic
+Visual bell	جرس مرئي
+visual binary	(نَجْم) ثُنائيٌّ بَصَريّ / مزدوج بصري
+Visual C++	[لغة] ++Visual C
+visual cell	خلية بصرية
+visual communication	اِتصالٌ بَصَريّ
+visual comparator	مُقارِنٌ بَصريّ
+visual deception	خِداعُ البَصَر
+Visual Difficulties	الصعوبات البصرية (الرؤيا)
+visual display unit = VDU	وَحْدَةُ العَرْض المرئيّ
+visual environment	البِيئةُ المَرئيَّة
+visual examination	مُعايَنَة بَصَريَّة
+visual fatigue	كَلالٌ إبصاريّ
+visual field	مَجالُ الإبصار
+visual flight rules	قواعِدُ الطيران البَصَريّ
+visual indicator	مُبَيِّنٌ بَصَريّ
+visual interface	واجهة مرئية
+Visual J++	[لغة] ++Visual J
+visual magnitude	قدر بصري
+visual programming	برمجة مرئية
+visual purple	الأُرجوانُ البصَري
+Visual Question Answering (VQA)	إجابة الأسئلة المرئية
+visual range	مَدى الإبصار
+visual range (meteorological)	مَدَى بَصَريُّ (رَصْد جَوّيّ)
+Visual Recognition	تعرُّف مرئي
+Visual Search	بحث مرئي
+visual signal	إشارة بَصَريَّة
+visual storm signals	إشعاراتٌ بَصَرِيّةُ لِلعاصِفة
+visual telegraphy	إبراقٌ بَصَريّ
+visual transmission	إرسالٌ بَصَري، إشارات بَصَرِيَّة
+visualization	عرض مرئي
+visualize	تَخَيَّلَ، تَصَوَّرَ
+vital	حَيَويّ، حَياتي / حيوي
+vital capacity	السَّعةُ الحيَويَّة، السَّعةُ التَنَفُّسيَّة لِلرِّئتين
+vital function	وَظيفةٌ حَيَوِيَّة / وظيفة حيوية
+vital stain	صبغٌ حيوي
+vital statistics	احصاء حيوي
+Vitali set	مَجْموعةُ ڤيتالي
+Vitali, Giuseppe	جيوسيبي ڤيتالي
+vitality	حَيويَّة؛ نَشاط / حيوية
+vitamer	زَميرٌ فِيتاميني؛ فيتامينيُّ المفعول
+vitamin	ڤيتامين، حَيَمين / فيتامين
+vitiate	لَوَّثَ، أفسَدَ؛ عَطَّلَ، أتلَفَ
+viticulture	كِرامَة
+vitiligo	بَهق
+vitrain	فَحمٌ حَجَريّ بَرّاق
+vitreosil	ڤترِيُوسيل
+vitreous	زُجاجيّ، شبيهٌ بالزجاج / زجاجي
+vitreous body	جسم زجاجي
+vitreous copper	نحاس زجاجي
+vitreous electricity	ألكهربائية المُوجَبَة
+vitreous enamel	طِلاءٌ زُجاجيّ، مِينا زُجاجيّة
+vitreous fracture	مَكْسَر زجاجي / مكسر زجاجي
+vitreous humour	الخِلْطُ الزجاجيّ، ألرُّطوبة الزجاجية (في العين)
+vitreous inclusion	محتبس زجاجي / مختبس زجاجي
+vitreous inclusions	مُكْتَنَفاتٌ زُجاجيّة
+vitreous lustre	لَمْعَةٌ زُجاجيَّة، بَريقٌ زُجاجيّ / بريق زجاجي
+vitreous rocks	صُخورٌ زُجاجيّة / صخور زجاجية / صخور زجاجي
+vitreous silica = quartz glass	زُجاجُ السِّليكا، زُجاجٌ مَرْوِيّ
+vitreous state = glassy state	حالةُ التزجُّج
+vitreous structure	بِنْيَةٌ زُجاجيّة / بنية زجاجية
+vitric	زُجاجيّ، شَبيهٌ بالزُّجاج
+vitrification	تَزَجُّج / تزجُّج، تزجيج / تزجج، تزجيج
+vitrification point	نُقطةُ التزجُّج
+vitrified brick	طُوبٌ مُزَجَّج
+vitrify	زَجَّجَ، تَزَجَّجَ
+vitriol	زَاج، زَيتُ الزّاج، حامض الكبريتيك
+vitriol ore	خامٌ كِبريتيّ
+vitriol, blue	ألزّاجُ الأزرَق
+vitriol, green	ألزَّاجُ الأخضَر
+vitriol, oil of	زيتُ الزاج
+vitriol, red	الزاجُ الأحمر
+vitriol, white	ألزاجُ الأبيَض
+vitriolic	زجاجي
+vitriolize	عالَجَ بالزّاج
+vitruvian scroll	لفيفة حلزونيّة
+vittadinia	ويتادينية
+vivacious plant	نبات معمر
+vivacity	حَيَويّة، نشَاط / نشاط حيوي
+vivarium	مَحْيَاة، مَرْبًى أحيائي (لِلحيواناتِ الحيَّة يُحاكي بِيئاتِها الطبيعيَّة)
+vivianite	ڤيڤيانيت، مُغْرةٌ زرقاء
+vivid	زاهٍ، مُشْرِق
+viviparity	وَلُوديَّة، وِلاديَّة / ولودية
+viviparous	وَلُود / ولود / ولودة
+vivisection	تشريحُ الأحياء
+Viète's formula	صيغةُ ڤْييت
+Viète, François	فرانْسوا ڤْييت
+VL bus	مسرى محلّيّ VESA
+VL local bus	مسرى محلّيّ VESA
+VLAN	شبكة محلية افتراضية
+VLB	مسرى محلّيّ VESA
+VLF radiation	إشعاع كهرطيسي ذو ترددات منخفضة جداً
+VLIW	[بنيان] كلمة تعليمة طويلة جداً
+VLSI	تكامل وسيع النطاق
+VM	آلةٌ افتراضيةٌ
+voa (abbrev. of voltohm-ammeter)	مِقياسٌ ڤلطيّ أوميّ أمبيري
+vocabulary	حَصِيلَة (مُفرداتٍ) لُغَوِيَّة؛ مُعْجَم
+Vocabulary continuous speech systems	أنظمة مفردات الكلام المتواصل
+vocal	صَوتيّ / صوتي
+vocal cord	وتر صوتي
+vocal cords	أوتارٌ صوتيّة
+vocal sac	كيس صوتي
+Vocalization	1. نطق 2. تشكيل
+vocation	وَظيفة، مِهْنَة، صَنْعَة؛ نِداء
+vocational	مِهْنيّ، وَظيفيّ
+vocational education	ألتعليمُ المِهنيّ
+vocational guidance	ألتوجيهُ المِهنيّ
+vocational school	مَدرسة مِهنيّة
+vocational training	ألتدريبُ المِهْنِيّ
+vocational training of seafarers	تدريب مهني للبحارة
+vocoder (voice coder)	مُجفِّرة صوتيَّة
+vodas (voice operated device anti-sing)	ڤوداس
+voder (voice operation demonstrator)	حاكِيَة آليَّة
+vogad (voice operated gain adjusting device)	ڤوجاد، مِضْبَطُ الكَسْب الصوتي (يَعملُ تِلقائيًّا حَسَبَ الجَهارَة)
+vogue	مُوضَة، طِراز
+vogue, in	دارِج، شائِع، رائِج
+voice	صَوْت؛ لَفَظَ؛ عَبَّرَ عن؛ دَوْزَنَ / صَوْتٌ / البناء للمعلوم أو للمجهول
+Voice Agent	وكيل صوتي
+voice answer back	إجابة صوتية
+voice box = larynx	الحَنْجَرة، صُندوقُ الصَّوت
+voice coder = vocoder	مُجَفِّرة (أو مُكَوِّدة) صوتيَّة
+voice coil	مِلَفٌّ صَوْتيّ (يتَّصِلُ بِمَخروط المِجهار)
+voice filter	مُرَشِّحٌ صَوتي
+voice frequency	تَرَدُّدٌ صَوتيّ (للصوت البَشري من 200 إلى 3500 هِرْتز)
+voice input	دخل صوتي
+voice mail	بريد صوتي
+voice messaging	تراسل صوتي
+voice modem	مودم صوتي
+voice modulation	تَضمينُ الصوت
+voice navigation	ملاحة صوتية (كلامية)
+voice output	خرج صوتي
+voice power microphone	ميكرُوفُون بالقُدرة الصَّوتيَّة
+voice recognition	تَعَرُّفُ الصوت / تَعَرُّفٌ على الأَصْوَات
+voice synthesis	تركيب الصوت
+voice type	مُوَلِّفُ الْكَلام / صِنْفُ الصَّوْت
+voice-capable modem	مودم ذو إمكانات صوتية
+voice-frequency telegraphy = carrier telegraphy	التلغرافية بالتردُّدات الصوتية (عبر قناةٍ هاتفيَّة)
+voice-grade channel	قناة [حزمة] صوتية
+voice-net	شبكة صوتية
+voicing	دَوْزنة
+void	خالٍ، شاغِر؛ باطِل، عَقيم؛ فَجوة، فَراغ؛ أفرَغَ، أخرجَ؛ أبطَلَ
+void contract	عَقْدٌ باطِل
+void depth	عمق الفراغ
+void ratio	نِسبةُ الفَجوات
+void set	مجموعة خيالية
+voidage rate	نِسبةُ الفَراغ
+voidage; parosity	مسامية
+voidage; porosity	مسامية
+voight schneider propulsion	دفع (برفاس) فويت شنايدر
+Voigt effect	ظاهرة «ڤويْت»
+VoIP Subscriptions	اشتراكات نقل الصوت بواسطة بروتوكول الإنترنت(VoIP)
+VoIP traffic in minutes	حركة الصوت بواسطة بروتوكول الإنترنت(VoIP) بالدقائق
+vol	vol
+volans	سمكة (ال...) الطيارة
+Volans (The Flying Fish)	ألسَّمَكَةُ الطَّيَّارة
+volant	طَيّار
+volatile	مُتَطايِر، طَيُور، طيَّار / متطاير
+volatile acid	حامضٌ مُتَطاير (أو طيّار)
+volatile alkali	ألقِلْيُ المُتَطاير
+volatile components	مُقَوِّماتٌ مُتَطايِرَة
+volatile constituents	مُكَوِّناتٌ طيّارة
+volatile distillate	قُطارَة مُتَطايِرة
+volatile fuel	وَقُودٌ مُتَطايِر أو طَيُور
+volatile hydrocarbons	هِدروكَربونات مُتَطايِرة
+volatile matter	مادَّةٌ طَيَّارة (أو مُتَطايِرة) / مادة طيارة، مادة متطايرة
+volatile memory	1 ذاكرة متلاشية ؛ 2 ذاكرة متلاشية / ذاكرة متطايرة
+volatile memory = volatile store	ذاكِرَةٌ مُتَلاشية
+volatile metallic constituents	مكونات معدنية طيارة
+volatile oil	زيتٌ طيَّار (أو مُتَطايِر)
+volatile oils	زيوت متطايرة، طيارة
+volatile solvent	مُذيبٌ مُتَطاير
+volatile storage	ذَاكِرَة مُتَطَايِرَة
+volatility	تَطايُريَّة، قابليَّةُ التطايُر
+volatility test	اِختِبارُ التطَايُرِيَّة
+volatility; volatileness	تطايرية، قابلية التطاير
+volatilization	طَيُوريَّة، تَطايُر؛ تَطيير، تَصعيد / تطيير، تصعيد
+volatilize	تطايَرَ، طَيَّرَ، صَعَّدَ
+volcanic	بُركانيّ / بركاني
+volcanic activity	نشاط بركاني
+volcanic agglomerates	تجمعات بركانية، رواهص بركانية
+volcanic ash	رَمادٌ بُركانيّ / رماد بركاني
+volcanic basin	حَوْضٌ بُركانيّ / حوض بركاني
+volcanic bomb	قنبلة بركانية
+volcanic bombs	قَنابِلُ بُركانية
+volcanic breccia	بَرِيشَة بُركانيَّة / بريش بركاني، بريشة بركانية
+volcanic conduit	قناةٌ بُركانيّة
+volcanic cone	مَخروطٌ بُركانيّ / مخروط بركاني
+volcanic conglomerate	رَصيص بُركانيّ
+volcanic dust	غُبار بُركانيّ / غبار بركاني / غُبارٌ بُرْكانِيّ
+volcanic earthquakes	زَلازلُ بُركانية
+volcanic ejecta	حُمَمٌ أو مَقذوفاتٌ بُركانية / مقذوفات بركانية
+volcanic eruption	ثَوَرَانٌ بُركاني، طَفْحٌ بُركانيّ / ثوران بركاني، اندفاع بركاني
+volcanic fissure	شق بركاني، جريان بركاني
+volcanic flow	انسياب بركاني
+volcanic formation	تَكوينٌ بُركاني / تكون بركاني / تكور بركاني
+volcanic gas	غاز بركاني
+volcanic glass	زُجاجٌ بُركاني / زجاج بركاني
+volcanic intrusion	اندساس بركاني
+volcanic lake	بحيرة بركانية
+volcanic lava	صبة بركانية
+volcanic neck	عُنُق البركان / عنق البركان
+volcanic neck (	قَصَبةٌ بُركانيّة، عُنُقٌ (أو سِطامٌ) بُركانيّ
+volcanic nick	قصبة البركان
+volcanic plug	سِطامٌ بُركانيّ
+volcanic rocks	صُخور بُركانية، صُخورٌ طَفْحِيَّة / صخور بركانية
+volcanic scoria	خبث بركاني
+volcanic spines	شَوكاتٌ بُركانية
+volcanic tufa	طُوفَة بُركانيّة
+volcanic tuff	طَفَّة بُركانيّة / فُلَيْس بركاني، توفة بركانية / توفة بركاني
+volcanic vapours	أبخرة بركانية
+volcanic vent	قَصَبة بُركانيّة، مَنْفَس بُركانيّ، مَخْرَجُ البُركان
+volcanicity	بركنة
+volcanicity = volcanism	البُركانية
+volcanize	عَرَّضَ (أو تَعَرَّض) لِلحرارة البُركانية، بَرْكَنَ
+volcano	بُركان / بركان
+volcano mud	وحل بركاني / بركان وحلي
+volcano, mud	بُركانٌ طِينيّ
+volcanogenic	بُركانيُّ المَنشأ
+volcanology	عِلم البَراكين / علم البراكين / علم بركاني
+volition	إرادة، اِختيار
+volley	وابِل، صَلْيَة
+volplane	اِنزَلَقَ بالطائرة (دُونَ إعمال المُحرِّكات)
+volt	ڤلْط، ڤولْت / فولط (فولت)
+volt box = voltage divider	صُندوقُ (تَقسيمِ) الڤلْطِيَّة، مُقَسِّمُ الڤلْطِيَّة
+volt, international	ڤلْط دَوْليّ
+volt-ammeter	ڤلْطْ أمِّيتر
+volt-ampere	ڤلْطْ أمبير
+volt-ampere meter = varmeter	ڤارْمِتْر
+volt-ampere-hour	ڤلط أمبير ساعة
+volt-coulomb	ڤلْط كُولُوم
+volt-line	ڤلْط خَطّ
+volt-ohm-ammeter	مِقياسٌ (مُتَعَدِّد) ڤلطي أُومي أمبيري
+volt-velocity	ألسرعةُ الڤلْطِيَّة (للإلكترونات)
+Volta effect	ظاهِرة «ڤلْطا»
+voltage	ڤلْطِيَّة، جُهْدٌ كهربائي، ألتَوتُّرُ (بالڤلْط)
+voltage amplification	تَضخِيمُ الڤلْطِيَّة
+voltage amplifier	مُضَخِّمُ الڤلْطِيَّة
+voltage attenuation	تَوهينُ الڤلْطِيَّة
+voltage between lines = line voltage	ڤلْطِيَّةُ الخَطّ، ألڤلْطِيَّة بين الخطوط
+voltage between phases	الڤلْطِيَّة بين الأطوار
+voltage circuit	دارةٌ ڤلْطِيَّة
+voltage coefficient	مُعامِلُ الڤلْطِيَّة
+voltage corrector = voltage regulator	مُصَحِّحُ الڤلْطِيَّة، مُنَظِّمُ الڤلْطِيَّة
+voltage divider	مُقَسِّمُ الڤلْطِيَّة
+voltage doubler	مُضَاعِفُ الڤلْطِيَّة
+voltage drop	هُبوطُ الڤلْطِيَّة / انخفاض الفلطية
+voltage dropper	خافِضُ الڤلْطِيَّة
+voltage equalizer	مُعَادِلُ الڤلْطِيَّة
+voltage feedback	ألتغذِيَة المُرتدَّةُ لِلڤلْطِيَّة
+voltage gain	كَسْبُ الڤلْطِيَّة
+voltage gradient	تَدَرُّجُ الڤلْطِيَّة، مَدْروجُ الڤلْطِيَّة
+voltage indicator	مُبَيِّنُ الڤلْطِيَّة
+voltage level	مَنْسُوب الڤلْطِيَّة، مُستوَى الڤلْطِيَّة
+voltage limiter	مُحَدِّدُ الڤلْطِيَّة
+voltage multiplier	مُضاعِفُ الڤلْطِيَّة
+voltage node	عُقدةُ الڤلْطِيَّة
+voltage of the system	ڤلْطِيَّةُ المَنْظومة
+voltage peak	ذُرْوَةُ الڤلْطِيَّة
+voltage rating	الڤلْطِيَّةُ المُقَنَّنة
+voltage ratio = transformation ratio	نِسبةُ الڤلْطِيَّة (في المُحوِّل)
+voltage rectifier	مُقَوِّمُ الڤلْطِيَّة
+voltage reference cell	خليَّة عياريَّة
+voltage regulating relay	مُرَحِّلُ تنظيم الڤلْطِيَّة
+voltage regulating transformer	مُحوِّلٌ منَظِّمٌ للفلطية
+voltage regulation	تَنظيمُ الڤلْطِيَّة
+voltage regulation curve	مُنْحني تنظيم الڤلْطِيَّة
+voltage regulator	مُنَظِّمُ الڤلْطِيَّة
+voltage regulator tube	صِمامُ تنظيم الڤلْطِيَّة
+voltage relay	مُرَحِّلٌ ڤلْطِيُّ التشغيل
+voltage selector = clipper	مُنْتَقي الڤلْطِيَّة
+voltage stabilizer	مثبت الفلطية
+voltage stabilizer = voltage regulator	مُثَبِّتُ (أو مُقِرُّ) الڤلْطِيَّة، مُنَظِّمُ الڤلْطِيَّة
+voltage stabilizing circuit	دارَةُ إقرارِ الڤلْطِيَّة
+voltage tester; mains tester	مِكشاف الڤلطية
+voltage to earth	فلطية بين الخط والأرض
+voltage to neutral	الڤلْطِيَّة بين الخَطِّ والمُحايِد، ڤلْطِيَّةُ الطَّور
+voltage transformer	مُحَوِّلُ الڤلْطِيَّة
+voltage tunable oscillator	مُذَبذِبٌ ڤلْطِيُّ التوليف (أو ڤلطِيُّ التَحَكُّم)
+voltage, beam	ڤلْطِيَّةُ الحُزْمَةِ الإلكترونية
+voltage, breakdown	ڤلْطِيَّة الانهِيار
+voltage, deflecting	ڤلْطِيَّة حارِفة
+voltage, forward	ألجُهْدُ الكهربائي الأمامي، ڤلطية أماميَّة
+voltage, high	ڤلْطِيَّة عالية، تَوَتُّرٌ عالٍ (فوق 650 ڤلطًا)
+voltage, line	ڤلْطِيَّةُ الخَطّ
+voltage, low	ڤلْطِيَّةٌ مُنخَفِضَة، تَوَتُّر مُنخفض (تحت الـ 250 فُلطًا)
+voltage, no-load	ڤلْطِيَّةُ اللاّحِمْل
+voltage, supply	ڤلْطِيَّةُ المَنْبَع
+voltage-actuated device	نَبيطةٌ ڤلْطِيَّةُ التشغيل (كالصِّمامِ الخَوائي مثَلاً)
+voltage-controlled oscillator	مُذَبْذِبٌ ڤلْطِيُّ التَحَكُّم
+voltage-dependent resistor = varistor	مُقاوِمٌ فُلطيُّ التغيّر
+voltage-feed	تَغذيةٌ بالڤلْطِيَّة
+voltaic arc	قَوْسٌ ڤلْطائيَّة
+voltaic cell	خَليَّة ڤلْطائيَّة
+voltaic current	تيّار ڤلْطائِيّ
+voltaic electricity	ألكهربائية الڤلْطائِيّة (الكيميائية المصدر)
+voltaic pile	عَمُود ڤلْطائِيّ
+voltameter	ڤلْطامِتْر
+Volta’s pile	عَمُود «ڤلْطا»
+Volterra equations	مُعادَلات ڤولْتِرا
+Volterra, Vito	ڤيتو ڤولْتِرا
+voltmeter	فُلْطمِتْر
+voltmeter switch	مِفتاحُ الڤلْطمِتْر، مِقلاد الفُلطمِتْر
+voltmeter, electrostatic	ڤلْطمِتْر إلِكتروستاتي (أو كَهروستاتي)
+voltmeter, moving-iron	ڤلْطمِتْر ذو مغنطيس مُتحرّك
+voltmeter, thermocouple	ڤلْطمِتْر (يقيسُ) بِمُزدَوِجَةٍ حرارية
+voltmeter-ammeter	ڤلْطمِتْر أمِّيتر
+voltohmmeter	مقياسٌ ڤلطي أومي
+voluble	لَفّاف، مُلْتَفّ / ملتفة
+volume	حَجْم، جِرم؛ مُجَلَّد، كِتاب (أو جزءٌ مِن كِتاب)؛ شَريطُ أو قُرْصُ بيانات؛ جَهارة / 1 مَوْسِع ؛ 2 [درجة] جَهارة الصوت / حجم / حَجْم / مجلد
+volume (specific)	حجم نوعي
+volume (specific...)	حجم نوعي
+volume by slicing	حِسابُ الحَجْم بِالتَّشْريح
+volume compression and expansion	اِنضِغاط مَدى الحَجْم وانبساطُه (لِتَخْلِيص الصَّوت المُرسَلِ من الضجيج)
+volume compressor	ضاغِطُ الجَهارة
+volume control	مِضْبَطُ الجَهارة؛ ضَبْطُ الجَهارة، التَحَكُّم في الحجم
+volume control circuit	دارَةُ ضَبْط الحَجْم، دارةُ ضَبْط الجَهارة
+volume elasticity	مُرونَة حَجْمِيَّة
+volume expander	باسِطُ الجَهارة
+volume expansion	تَمَدُّد حَجْمِيّ؛ اِنبِساط مَدى الحجم
+volume flow rate	مُعَدَّلُ الدَّفْقِ الحَجْمِيّ
+volume governor	حاكِمٌ حَجْمِيّ
+volume indicator	مُبَيِّنُ الحَجم، مُبَيِّنُ الجَهارة
+volume integral	تَكامُلٌ حَجْمِيّ
+volume ionization	التأيُّن الحجمي
+volume label	لصيقة المَوْسِع
+volume limiter	مُحَدِّدُ الحَجْمِ، مُحَدِّدُ الجَهارة
+volume name	اسم المَوْسِع
+volume of displacement	حجم الإزاحة
+volume of ideal gas	حَجْمُ الغاز المِثالي
+volume range	مَدَى الجَهارة
+volume reference number	رقم المَوْسِع المرجعي
+volume resistivity	ألمُقاوِمِيَّة الحَجْمِيَّة
+volume serial number	رقم المَوْسِع التسلسلي
+volume strain	اِنفِعال حَجْميّ
+volume stress	إجهادٌ حَجْمِيّ
+volume table aerial	جدول حجوم التصوير الجوي
+volume totaliser	حاسِبَةُ الحَجْم الكُلِّيّ، مِقياسُ جَمْلِ الحَجْم
+volume unit	وَحْدَةُ حجم؛ وَحدَةُ جَهارة، وَحدَةُ حَجْمِ الصوت
+volume velocity	ألسُّرعة الحَجْمِيَّة
+volume yield	حَصيلةٌ حَجْمِيَّة
+volume, atomic	ألحَجْمُ الذرِّيّ
+volume, molecular	ألحَجْمُ الجُزيئي
+volume, specific	ألحَجْمُ النوعي
+volumeter	مِقياسُ الحَجْمِ (بإزاحة السائل)
+volumetric	حَجْمِيّ / حجمي
+volumetric (specific) heat	ألحرارةُ (النوعيةُ) الحجميَّة
+volumetric analysis	التحليلُ الحجميّ / تحليل حجمي
+volumetric efficiency	ألكِفايةُ الحَجْمِيَّة، المَردود الحَجْمي
+volumetric flask	دَوْرَقٌ حَجْمِيّ
+volumetric gauge	مِقياسٌ حَجْمِيّ
+volumetric heat	الحرارة الحَجميّة (لِلجُزَيء الغرامي)
+volumetric modulus of elasticity	مُعامِلُ المُرونَة الحَجْمِيَّة
+volumetric radar	رادار مِجسامي
+volumetric solution	مَحلولٌ حَجميّ
+volumetric strain	اِنفِعالٌ حَجْمِيّ
+volumetry	ألقياسُ بالتحليل الحَجْمي
+voluminous	ضَخْم
+voluntary	إراديّ، طَوْعِيّ
+voluntary muscle	عَضَلَة إراديَّة / عضلة إرادية
+voluntary stranding	جنوح إرادي
+volunteer	مُتَطَوِّع؛ تَطَوَّعَ
+volute	حَلَزُون، شَكْلٌ حَلَزُونِيّ؛ حِلية حلزونية؛ حَلزُوني، لَولَبِيّ، مُلْتَفّ
+volute casing = spiral casing	غِلافٌ حَلزونيّ
+volute gear = spiral gear	مُسَنَّنَة حَلَزونيّة، تُرسٌ حَلَزونيّ
+volute pump	مِضَخَّة لَولبِيَّة
+volute spring = spiral spring	زُنْبُرُكٌ (أو نابِضٌ) حَلَزوني
+volution	اِلتواء، اِلتِفاف
+volva	غشاء الفطر
+vom (abbrev. of volt-ohm- milliammeter)	ڤلط أُوم ملي أميتر
+vomit	قاءَ، تَقَيَّأَ؛ قُياء، قَيْء؛ مُقَيِّئ، قَيُوء
+vomiting gas	غازٌ مُقَيِّئ
+VON	صوت/صورة على الشبكة
+von Aubel's theorem	مُبَرْهَنةُ فون أُوبِل
+von Neumann architecture	بنيان von Neumann
+von Neumann bottleneck	اختناق von Neumann
+Von Neumann integer	عدد فون نيومان الصحيح
+Von Neumann machine	آلة فون نيومان
+Von Neumann, John	جون فون نيومان
+von Neumannm, John	جون فون نويْمان
+voog = vough = vug	تَجْوِيفٌ صَخريّ، كُهَيف
+VOR; very high frequency omnidirectional radio range	نظام فور الملاحي الجوي
+vorobievite = vorobyevite = morganite	ڤوروبيڤيت، مورغَنيت
+VORTAC; VOR TACAN	نظام فورتاك الملاحي الجوي
+vortex	دردور، دوامة
+vortex (pl. vortices)	دُوَّامَة، دُردُور
+vortex breaker	مانِعُ الدُّوَّامة
+vortex chamber	حُجرَة الدَّفْقِ الدُّوَّامي (في مِضَخّة الطردِ المَركزي)
+vortex flow	دَفْقٌ دُوَّامي (أو دُردُورِيّ)
+vortex mixer	خَلاَّطة دُوّامِيَّة
+vortex motion	حَرَكَة دُوَّامِيَّة (أو دُردُوريَّة)
+vortex ring	حَلْقَةُ الدُّوَّامة
+vortex sheet	صَفحةُ الدُّوَّامات
+vortex, trailing	دُردُورٌ خَلْفيّ، دُوَّامة خَلفيَّة
+vortical	دُوَّاميّ، دُردوريّ
+vorticity	دُردُورِيَّة، دُوَّاميَّة، اِضطرابٌ دُوَّامِي / دُرْدُورة (دوامة)
+vorticity equation	مُعادَلَة دَرْدُورِيّة
+Voskhod	ڤسْخُود
+Vostok	ڤسْتُوك
+votator	مُبادِلٌ حَراريّ لَولبيّ
+vote	اِقتَرَعَ، صوَّتَ (في انتِخاب أو استِفتاء)؛ اِقتراع، تصويت؛ صَوْت، وَرقَةُ اقْتِراع
+voter	مُقْتَرِع، ناخِب
+voting machine	آلةُ الاقتراع
+Voting methods	طرق التصويت
+vouch	شَهِدَ (بِصِحَّة)، أيَّدَ؛ ضَمِنَ
+voucher	مُسْتَنَد، إيصال، قسيمة
+vouchsafe	أجازَ، مَنَحَ
+vough	كُهَيْفٌ بِلَّوريُّ البِطانة
+voussoir = arch stone	لَبِنَةُ العَقْد
+voussoir arch	عَقْدٌ حَجَريّ
+vowel	حَرْفُ عِلَّة، حَرفُ (أو صوتُ) لِيْن
+Vowelized	مشكول
+Vowelized document	وثيقة مشكولة
+Vowels	حروف العلة (الصوائت)
+voyage	رِحْلَة، رِحْلَة بحريَّة؛ سَفْرَة؛ قامَ بِرِحْلَةٍ
+voyage out	رحلة الذهاب
+voyage round the word; word cruise	رحلة حول العالم
+VPD	سواق جهاز الطابعة الافتراضية
+VPN	شبكة خصوصية افتراضية
+VR	حقيقة افتراضية (واقع افتراضي)
+vr (visual representation) number	عَدَدٌ بَصَرِيُّ التَّمْثيل
+VRAM	[ذاكرة] RAM فيديو
+VRC	تدقيق التكرارية الشاقولية
+VRML	لغة نمذجة الحقيقة الافتراضية
+VT = vacuum tube	صِمامٌ مُفَرَّغ
+VT-52, VT-100, VT-200	[أرمزة] VT-52, VT-100, VT-200
+VTOL (vertical take-off and landing)	إقلاعٌ وهُبوطٌ عموديّان؛ عموديُّ الإقلاع والهُبوط
+vug = vugg or vugh	فَجْوَة
+vugular limestone	حجر جير حويصلي أو مكهف أو اسفنجي
+vugular porosity	مسامية حويصلية
+Vulcan	فَلكان
+vulcanian	بركاني
+vulcanite	ڤلْكَنايت / بركانية
+vulcanization	بَرْكَنَة، ڤلْكَنَة، معالجَةٌ للتصليد؛ فَلْكَنَة المطّاطِ بالكبريت (أو بمادة أُخرى)
+vulcanization coefficient	مُعَامِلُ الڤلْكَنَة
+vulcanization of rubber	ڤلْكَنَةُ المَطّاط
+vulcanize	بَرْكَنَ، ڤلْكَنَ
+vulcanized	مُڤلْكَن، مَطبوخ
+vulcanized fibre	فِبْرٌ مَطبوخ (بالمعالجة بِكْلُوريد الزِّنْك)
+vulcanized latex	لَثْيٌ مُفَلْكَن
+vulcanized rubber	مَطّاطٌ مُفَلْكَن
+vulcanizer	عاملُ تَصليد المطّاط؛ فُرنُ تَصليد المطاط
+vulcanizing agents	عَوَامِلُ تَصليد (المَطّاط)
+vulcanology	علم البراكين
+vulcanology = volcanology	عِلْمُ البراكين
+vulgar fraction	كسر عادي / كَسْرٌ عادِيّ
+vulgar fraction = common fraction	كَسْرٌ اعتِيادي
+Vulnerability	ثغرة أمنية
+Vulnerability Researcher	باحث ثغرات
+vulnerable	غيرُ حَصين؛ عُرْضَةٌ لِلهُجُومِ أو الانتِقاد أو الجَرح
+vulpecula	ثعلب (ال...)
+Vulpecula (The Fox)	ألثعلَبُ والوَزَّة
+vultex	ڤلْتِكْس
+vulture	نَسْرٌ
+vulva	الفَرْج / فرج
+VxD	سواق تجهيزة افتراضية

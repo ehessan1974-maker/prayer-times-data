@@ -1,0 +1,170 @@
+طاحون، مطحنة	mill
+طارد	repellent
+طازج	fresh
+طافي	supernatant
+طاقة	energy
+طاقة (ال...) الحركية	kinetic energy
+طاقة إشعاعية	radiant energy / radiation energy
+طاقة الإثارة	excitation energy
+طاقة الاختزال، طاقة الإرجاع	reduction energy
+طاقة الإماهة	hydration energy
+طاقة الانشطار	fission energy
+طاقة الاهتزاز، طاقة تذبذبية	vibrational energy
+طاقة التأين	ionization energy
+طاقة التضاؤل	decay energy
+طاقة التنشيط	activation energy
+طاقة الدرجة صفر	zero-point energy
+طاقة الدوران	rotational energy
+طاقة الرابط النووية	nuclear binding energy
+طاقة الرابطة	bond energy
+طاقة الربط	binding energy / bond energy
+طاقة السطح	surface energy
+طاقة الشبكة، طاقة شبكية	lattice energy
+طاقة الشبيكة	lattice energy
+طاقة الشق، طاقة الفصم	splitting energy
+طاقة الكمون الكيميائي، طاقة جهد كيميائي	chemical potential energy
+طاقة بلورية	crystal energy
+طاقة تأين	energy (ionization...)
+طاقة تنشيط	activation energy / energy (activation...)
+طاقة جيبس الحرة	Gibbs free energy
+طاقة حرارية	thermal energy
+طاقة حركية	energy (kinetic...) / kinetic energy
+طاقة حرة	free energy
+طاقة داخلية	internal energy / intrinsic energy
+طاقة دافعة	motive energy
+طاقة ذرية	atomic energy
+طاقة سطحية	surface energy
+طاقة شمسية	solar energy
+طاقة كامنة	energy (potential...) / potential energy
+طاقة كلية	total energy
+طاقة كهرطيسية، طاقة كهرمغناطيسية	electromagnetic energy
+طاقة كيميائية	chemical energy / energy (chemical...)
+طاقة مشعة	radiant energy
+طاقة نووية	nuclear energy
+طاقة هلمهولتز الحرة	Helmholtz free energy
+طاقي	energetic
+طباشير	chalk
+طبقٌ	dish
+طبق أسبستوس، صينية أسبست	asbestos tray
+طبق تبخير	evaporating dich
+طبقة	layer / shell
+طبقة أحادية	monolayer
+طبقة التكافؤ	valence shell
+طبقة الكترونية	electron shell
+طبقة ثانوية	sub-shell
+طبقة ثانوية ممتلئة	filled subshell
+طبقة حدّيّة	boundary layer
+طبقة رقيقة	thin layer
+طبقة سطحية	surface layer
+طبقة فرعية	subshell
+طبقة كمية	quantum shell
+طبقة كهربائية ثنائية	electric double layer
+طبقة مكتملة الالكترونات	closed shell of electrons
+طبقة واقية	protective coating
+طبقة(ال...) O	o-shell
+طبقة(ال...) P	p-shell
+طبقة(ال...) Q	Q-shell
+طبقة، قشرة	shell
+طبيعة (ال...) الموجية للالكترونات	wave nature
+طبيعي	natural
+طبيعية	nature
+طِراز	model / pattern
+طرْح	substraction
+طرد بالغليان	boil off (to)
+طرطرات	tartrate
+طرطير	tartar
+طرف، حافَة (ج.حافَات)	edge
+طَرَفي, نهائي	terminal
+طروق، قابل للطرق	malleable
+طروقية، قابلية الطرق	malleability
+طريقة	method
+طريقة إديليانو	Edeleanu process
+طريقة الانتشار الحراري	thermal diffusion method
+طريقة التماس	contact process
+طريقة الحجرات	chamber process
+طريقة الحجرات الرصاصية	lead chambers process
+طريقة الغُرَفْ	chamber process
+طريقة الفسكوز	viscose process
+طريقة الوحدة في الحسابات	unit method (the...) in calculations
+طريقة أولية	unit process
+طريقة بسْمِر	Bessmer process
+طريقة بوش	Bosh process
+طريقة تجريبية	experimental method
+طريقة تحطيم هودري	Houdry cracking process
+طريقة جريان هودري	Houdry flow process
+طريقة جيربوتول	Girbotol process
+طريقة داو	Dow process
+طريقة داون	Down's process
+طريقة رابطة التكافؤ	valence-bond method
+طريقة راست	Rast method
+طريقة رطبة	wet process
+طريقة ستيفن	Stephen process
+طريقة سلفاي	solvay process
+طريقة سولفي	Solvay process
+طريقة سيبورد	Seaboard process
+طريقة فْراش	Frasch process
+طريقة فيشر تروبش	Fischer-Tropsch process
+طريقة كوترل	Cottrell process
+طريقة كوتريل	Cottrel process
+طريقة كيز	Keyes process
+طريقة كيلدال	Kjeldahl method / Kjeldahl's method
+طريقة لوبلان	Le Blanc process
+طريقة لونية	colorimetric method
+طريقة هابر	Haber process
+طريقة هال	Hall process
+طريقة وزنية	gravimetric method
+طَعْم	falvour
+طعْم، مذاق	taste
+طفاوة، زبد	scum
+طفوح بالغليان	boiling-over
+طفور سائل	bumping of a liquid
+طَفوة	buoyancy
+طلاء	coating
+طلاء كهربائي	electroplating
+طلاء، طبقة	coat
+طَلَبٌ	demand
+طَلْق	talc
+طلي	plating
+طلي غلفاني	galvanoplasty
+طلي غلفاني (بالقصدير)	galvanostegy
+طليعة الإنزيم	proenzyme
+طليعة، مؤيد: سابقة	pro-
+طنين	resonance
+طوا الموجة، طول موجي	wave length
+طواعية مغنطيسية	magnetic susceptibility
+طور	phase
+طور السيولة	liquid phase
+طور خيطي	nematic phase
+طور داخلي	internal phase
+طور متبعثر	dispersed phase
+طورٌ متّصل (مستمر)	continuous phase
+طورٌ مستقر	stationary phase
+طول الرابطة	bond length
+طول الموجة	wavelength
+طيّار، متطاير	volatile
+طيف	spectrum
+طيف إصدار	emission spectrum
+طيف الأشعة السينية	x - ray spectrum
+طيف الاصدار، طيف الانبعاث	emission spectrum
+طيف الامتصاص	absorption spectrum / spectrum (absorption)
+طيْفُ القوس	architecture of molecules / spectrum (arc)
+طيف إلكتروني	electron spectrum
+طيف الكتلة	mass spectrum
+طيف انقلابي	inversion spectrum
+طيفٌ جزيئيٌّ	molecular spectrum
+طيف خطّي	line spectrum
+طيف دوراني	rotational spectrum
+طيف ذري	atomic spectrum
+طيف رامان	Raman spectrum
+طيف شريطي	band spectrum
+طيفٌ فوق البنفسجي	ultraviolet spectrum
+طيف فوق البنفسجي، طيف الأشعة فوق البنفسجية	ultraviolet spectrum
+طيف كهرطيسي	electromagnetic spectrum
+طيف كهرطيسي، طيف كهرومغناطيسي	electromagnetic spectrum
+طيفٌ مُتّصل	continuous spectrum
+طيف متقطع	discrete spectrum
+طيف مرئي	visible spectrum
+طيفي	spectral
+طين الحفر	drilling fluid (or mad)
+طية	fold
+طية مقعرة	syncline

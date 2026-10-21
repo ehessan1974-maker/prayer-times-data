@@ -1,0 +1,215 @@
+z (minor rhombohedral) cut plate	لوح قطع فى محور Z (للحد الأدنى على شكل المنشور السداسى)
+Z component	مركبة Z
+Z condition	شرط Z
+Z element	عنصر Z
+z-arrangement	وضعية Z
+Z-aXis	المحور العيني / محور العينات
+Z-beacon	إشارة Z
+Z-correction	تصحيح Z
+Z-cut plate	لوح قطع فى محور Z
+Z-marker	مَعْلَم Z
+Z-section	مقطع Z
+Z-Theta chart	مخطط معاوقة (ثيتا)
+z-time; zulu time	توقيت زولو
+Z-transfer function	دالة تحويل Z
+Z-transform	Zتحويل
+Z-transformation	Zتحويلة
+zacaton fiber	تير- روت
+Zahn cup	فنجان زان
+Zamak	زاماك
+Zanella	زانيلا
+Zapp flap	قلاّبة زاب
+Zaratan platform	منصّة 'زاراتان'
+Zayed future energy prize	جائزة زايد لطاقة المُستقبل
+zebi	زيبابايت
+zebra battery	بطارية 'زيبرا'
+zebra crossing	مَمَرٌّ الراجلين
+zebra marks	خطوط زردية
+Zeeman effect	ظاهرة زيمان
+Zefir	زفير
+Zefran ®	زفران®
+Zener breakdown (of a PN junction)	انهيارزينر (لوصلة PN)
+Zener current	تيار زِنَر
+Zener diode	دايود زينر / صمام زِنَر الثنائي
+Zener voltage	جهد زينر / جهد زِنَر
+zenith	نقطة السمت
+zenith angle	زاوية سمتية
+zenith attraction	جَذْب سَمْتي
+zenith distance	بُعد سَمْتي / مسافة سَمْتية
+zenithal	سمتي
+zenithal equal area projection	إسقاط سمتي مكافئ
+zenithal equidistan projection	إسقاط سمتي محافظ
+zenithal projection	إسقاط سمتي
+Zenneck wave	موجة زينيك
+zenographic	زينوغرافي
+zeolite	زيوليت
+zeolite softening	تليين بالزيوليت / تيسير الماء بالزيوليت
+zeolite water softner	جهاز تيسير الماء بالزيوليت
+zeolites	زيوليتيات
+zephir wool	صوف زفير
+zepto (prefix)	زيبتو
+zerk fittings	وُصلات أنبوبية طراز (زرك)
+zero (sequence) component (of a three-phase system)	مركب التتابع الصفري(لنظام ثلاثي الطور)
+zero air voids curve (proctor)	منحني المسامات المشبعة
+zero air voids density (proctor)	كثافة التربة المرصوصة
+zero crossing	تقاطع نقطة الانعدام
+zero defects	بلا عيوب
+zero discharge (ZD)	طَرْح منعدم
+zero discharge desalination (ZDD)	تحلية بصفر تفريغ
+zero emission vehicle	سيارة بدون انبعاثات عادم ZEV
+Zero Emission Vehicle (ZEV)	مركبة عديمة الانبعاثات (ZEV)
+zero emissions	إنبعاثات صفرية
+zero error	خطأ(ال…) الصفري
+zero fuel weight (ZFW)	وزن بلا وقود
+zero fuel weight limitation	تحديد الوزن بلا وقود
+zero gas,	غاز معايرة, الكشف عن الغاز
+zero gross gradient	بلا معدل ميل
+zero lash	بلا فوت
+zero launch	إطلاق صفري
+zero launcher; zero-length launcher	جهاز إطلاق صفري الامتداد
+zero lift	انعدام الرفع
+zero liquid discharge	تفريغ بصفر سائل
+zero liquid discharge (ZLD)	طَرْح منعدم للسوائل
+zero maintenance pavement	رَصِيف يِدُون صيانة
+zero meridian	خط الزوال الصفري
+zero method	طريقة(ال…) الصفرية
+zero moisture index	دليل صفر الرطوبة
+zero order reaction	تَفاعُل من المرتبة صفر
+zero phase reference	طور صفري مرجعي
+zero point	نقطة الصفر
+zero point adjustment	تعديل صفري
+zero point, ; cross point	نقطة صفرية,
+Zero points of NC coordinate systems	نقاطُ الصفر في الأنظمة الإحداثية للتحكّم الرقميّ
+zero power-factor characteristic	خاصية عامل القدرة الصفري
+Zero Reader	زيرو ريدر / قارئ الصفر
+zero scale mark	أداة ضبط
+zero sequence impedance	مقاومة تسلسل صغرى؛ معاوقة التتابع الصفري
+zero sequence reactance	مفاعلة تسلسل صغرى؛ مفاعلة التتابع الصفري
+zero sequence resistance	مقاومة تسلسل صفرى؛ مقاومة التتابع الصفري
+zero set switch	مفتاح تصفير
+zero speed status	وضع السرعة صفر
+zero stage	مرحلة الصفر
+zero stroke	انعدام الشوط
+zero tillage; no till of soil; no tillage	عدم حراثة; بال حراثة; التربة دون حراثة
+zero visibility	انعدام الرؤية
+zero waste	صفر نفايات
+zero wind phase	مرحلة عدم وجود رياح
+zero-degree directional geometry	القياس الإتجاهى لإنعكاس الأشعة ◦0
+zero-delivery pressure	ضغط التسليم الصفري
+zero-draft forging	تشكيل بلا استدقاق
+Zero-emission Vehicle	مركبة بدون انبعاثات عادم (ZEV)
+Zero-energy building (ZEB)	بناء صفريّ الطاقة
+zero-energy house	منزل صفري الاستهلاك للطاقة
+zero-force separation	انفصال عديم القوة
+zero-fuel weight	وزن اللاوقود
+zero-g; zero-gravity	انعدام الجاذبية
+zero-lifed	كجديد
+zero-lift line	خط انعدام الرفع
+zero-point	نقطة الصفر
+zero-range ring	دائرة المدى الصفري
+zero-sequence impedance (of a polyphase winding)	معاوقة التتابع الصفري (لملف متعدد الأطوار)
+zero-sequence polyphase system; homopolar system	نظام صفري التتابع متعدد الأطوار،نظام قطبي متجانس
+zero-thrust pitch	خطوة الدفع الصفري / خطوة انعدام الدفع
+zero-torque pitch	خطوة العزم الصفري / خطوة انعدام العزم
+zero-zero stage	مرحلة صفر ـ صفر
+zero/zero seat	مقعد صفر/ صفر
+zeroth law of thermodynamics	قانون صفري للديناميكا الحرارية
+Zeta cotton	قُطن زيتا
+zetta (prefix)	زتا
+Zhivago look	بدلة شيفاكو
+Zhong-Mian cotton	قُطن زونج ميان
+zibeline	خيط غزل تزبليني
+Ziegler–Nichols method	طريقة زيغلر ونيكول
+zigzag	متكسر، متعرّج
+zigzag connection	توصيلة متعرجة
+zigzag folds	طَياَّت متعرِّجة
+zigzag system	نظام متعرج
+zinc	خارصين / زنك / زنك، خارصين
+zinc blende	رِكَاز كبريت الزنك
+zinc bromine redox battery	بطارية الزنك - البروم - ريدوكس
+zinc carbon battery	بطارية كربون - زنك / بطارية الزنك والكربون
+zinc chloride battery	بطارية كلوريد الزنك
+zinc chromate	كرومات الزنك
+zinc coating type	نوع جلفنة
+zinc melting	انصهار الزنك
+zinc phosphate coating	طبقة زنك وفوسفات
+zinc silver oxide battery	بطارية أكسيد الفضة- زنك القلوية
+zinc white (zinc oxide)	أبيض الزنك، أبيض الخارصين
+zinc-air battery	بطارية زنك - هواء
+zincite	زنكايت
+zincographer	حفّار خارصين
+zincography; zinc etching	حفر الخارصين
+zincrometal sheet	لوح صاج زنكرومعدني
+zip fuel	وقود أزيزي
+zipper conveyor	ناقل سحاب
+zircon	زركون
+zirconium	زركونيوم
+zodiac	دائرة البروج / منطقة البروج
+zodiacal counterglow	لمعان مقابل بروجي
+zodiacal light	ضوء بروجي
+zoisite	زويسايت
+Zokor	خلد أعمى
+zonal flux,	منطقة التدفق,
+zonal growth	نمو نطاقي
+zone	مِنطَقة / مِنْطَقة / منطقة
+Zone 0	منطقة خطرة فئة صفر
+Zone 1	منطقة خطرة فئة 1
+Zone 2	منطقة خطرة فئة 2
+Zone 20	منطقة خطرة فئة 20
+Zone 21	منطقة خطرة فئة 21
+Zone 22	منطقة خطرة فئة 22
+zone generally above water	منطقة أرضية / منطقة أعلى من المياه
+zone induction melting	صهر حثي موضعي
+zone lens; stepped lens	عدسة منطقةِ
+zone levelling	تسوية منطقة
+zone marker	مَعْلَم نطاق
+zone numbers	أرقام النطاق
+zone of aeration	نِطاق تهوية
+zone of contribution (ZOC)	نِطاق الإسهام
+Zone of Influence	منطقة التأثير
+zone of initial dilution (ZID)	نِطاق التخفيف الأوليّ
+zone of intermittent saturation	مِنْطقة تشبُّع متقطِّع
+zone of intersection	منطقة التقاطع / نطاق التقاطع
+zone of lost returns	منطقة فقدان الدوران
+zone of non-saturation	منطقة عدم الإشباع
+zone of protection	منطقة الحماية
+zone of saturation	منطقة التشبع / نِطاق الإشباع
+zone of visual influence	منطقة التأثّر المُوَضَّحة بصريًا
+zone refining	تنقية منطقة
+zone signal	إشارة منطقة
+zone signals	إشارات النطاق
+zone tariff	تعرفة حسب المنطقة
+zone time	توقيت مِنطَقي
+zone,	مساحة, تصنيف الاجواء المتفجرة
+zone, aerobic	منطقة هوائية
+zone, amphibious	منطقة ثنائية الطبيعة / مِنطقة برمائية
+zone, aphotic	منطقة معتمة
+zone, aquatic	منطقة مائية / نِطَاق مَغْمُور
+zone, euphotic	منطقة مضاءة
+zone, flat	منطقة مُسطّحة
+zone, pellicular	منطقة القشرة الرقيقة
+zone, phreatic	نطاق مُشَبَّع
+zone, soft-wood	منطقة أخشاب لينة
+zones of non-unit protection; zones of protection (US)	منطقة حماية ذات تمييز حسب المقطع
+zoning	تحديد مناطق / تقسيم / تنطيق
+zonography	تصوير نطاقي
+zoom	تزويم / تسلق فجائي / زَوَمان / زَوَمان المصوّرة / صعود حاد
+zoom boundary	حدود الزَوَمان
+zoom ceiling	سقف الزَوَمان
+zoom climb	صعود زَوَماني
+zoom lens	عدسة تزويم
+zoomass	كتلة حيوانية
+zooming ratio	نسبة التقريب
+zoomorphic ornaments	زخارف حيوانية
+zoonoses	أمراض حيوانية المنشأ
+zooplankton	عوالق حيوانية
+zoot suit	طاقم زوت
+Zouave trousers	سروال زواوة
+Zubair layer	طبقة الزبير
+zulu flightplan	خطة طيران زولو
+ZVEI	رابطة (ال...) المركزية للصناعات الهندسية الكهربائية والإلكترونية (ZVEI)
+ZWD	مُشغل دوّار ذو لفيفتين
+Zweiwertiges Signal (n.)	إشارة ثنائية القيمة
+Zyex	ألياف زايكس
+Zyglo	طريقة زيچلو
+zygote	بويضة ملقحة

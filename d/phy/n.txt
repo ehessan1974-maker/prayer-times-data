@@ -1,0 +1,326 @@
+N shell	Nالطبقة
+n-type semiconductor	nنصف ناقل نوع
+n.t.p	نظامي (ال...) من درجة الحرارة والضغط العاديين
+nanometer	نانومتر
+nanotechnology	تقانة نانوية
+nanotube	أنبوب نانوي
+narrow beam	حزمة ضيقة (ن)
+narrow shower	هَمْرة ضيقة
+narrow slit diffraction	حيد شق ضيق
+natural abundance	وفرة طبيعية (ن)
+natural convection	حمل طبيعي / حَمْل طبيعي
+natural frequency	تردد طبيعي
+natural frequency of circuit	تردد طبيعي لدارة
+natural light	ضوء طبيعي
+natural logarithm	لوغاريتم طبيعي
+natural magnet; loadstone	مغنطيس طبيعي
+natural oscillation	تذبذب طبيعي
+natural radioactivity	نشاط اشعاعي طبيعي (ن)
+natural uranium	يورانيوم طبيعي (ن) / يورانيوم طبيعي
+natural uranium reactor	مفاعل يورانيوم طبيعي (ن)
+natural vibration	اهتزاز طبيعي
+natural width of energy level	عرض طبيعي لمستوَى الطاقة
+near	قريب
+near field	مجال قريب / حقل قريب
+near point	نقطة قريبية / نقطة الكَثَب
+near-infrared radiation	الإشعاع تحت الأحمر القريب
+nearest neighbor; nearest neighbour	أقرب جار
+needle	إبرة
+Neel temperature	درجة حرارة نييل
+negative	سالب
+negative adsorption	امتزاز سالب
+negative bias	انحياز سالب
+negative crystal	بلّورة سالبة / بلورة سالبة
+negative electrode	مسـرى سالب
+negative eyepiece	عينية سالبة
+negative feedback	تغذية راجعة سالبة
+negative glow	وهج سالب
+negative image	صورة سلبية
+negative index	قرينة انكسار سالبة
+negative ion	أيون سالب
+negative lens	عدسة سالبة
+negative logic	منطق سالب
+negative magneto-striction	تقبض مغنطيسي سالب
+negative nodal points	نقط عقدية سالبة
+negative pole	قطب سالب
+negative potential	جهد سالب
+negative pressure	ضغط سالب
+negative principal points	نقط أساسية سالبة
+negative reactivity	مفاعلية سالبة (ن)
+negative resistance	مقاومة سالبة
+negative valence	تكافؤ سالب
+negaton	نيغاتون
+negatron	نيغاترون
+negatron; negaton	نيكاتون (ن)
+nematic phase	طور بلّورية سائلة
+neodymium	نيوديميوم
+neon	نيون
+neon lamp	مصباح نيون
+Neptune	نبتون
+neptunium	نبتونيوم
+neptunium decay series	سلسلة تفكك النبتونيوم
+net	شبكة
+net power	قدرة صافية (ن)
+net production	انتاج صاف (ن)
+network	شبكة
+neutral	محايد، متعادل / معتدل
+neutral axis	محور التعادل / محور معتدل؛ محور محايد
+neutral colloid	غراء محايد
+neutral density filter	مرشح محايد
+neutral equilibrium	اتزان حيادي
+neutral filter	مرشح محايد
+neutral line	خط التعادل
+neutral molecule	جزيء متعادل / جزيء معتدل
+neutral plane	مستوي التعادل
+neutral zone	منطقة الحياد
+neutralization	تحييد، تعادل
+neutralizing capacitor	مكثفة تحييد
+neutrino	نترينو (ن) / نترينو
+neutron	نترون (ن) / نترون
+neutron absorber	ماص النترونات
+neutron absorption	امتصاص النترونات
+neutron absorption cross section	مقطع عرضي لامتصاص النترونات (ن)
+neutron activation	تنشيط نتروني
+neutron activation analysis	تحليل بالتنشيط النتروني
+neutron capture	أسر نترون (ن) / أسـر النترونات
+neutron converter	محول نترونات (ن)
+neutron counter	عداد النترونات
+neutron current density	كثافة التيار النتروني (ن)
+neutron cycle	دورة النترونات
+neutron decay	اضمحلال نتروني
+neutron density	كثافة نترونية
+neutron diffraction	انعراج النترونات
+neutron diffusion	انتشار النترونات (ن)
+neutron economy	اقتصاد النترونات (ن) / بيان نتروني
+neutron energy group	زمرة نترونات (ن)
+neutron excess	فائض نتروني (ن) / الزيادة النترونية
+neutron flux	تدفق نتروني
+neutron flux density	كثافة التدفق النتروني (ن) / كثافة التدفق النتروني
+neutron generator	مولِّد نترونات
+neutron hardening	تقسية نترونية / تقسية الطيف النتروني
+neutron hardening spectrum	تصليد طيف النترونات (ن)
+neutron lifetime	عمر النترونات (ن) / عمر النترون
+neutron moderation	تهدئة النترونات
+neutron multiplication	مضاعفة النترونات (ن) / تضاعف نتروني
+neutron number	عدد النترونات (ن) / عدد النترونات
+neutron number density	كثافة (ال...) العددية للنترونات (ن)
+neutron optics	بصـريات نترونية
+neutron physics	فيزياء النترونات (ن)
+neutron producer	منتج النترونات
+neutron production rate	معدل انتاج النترونات (ن)
+neutron radiography	تصوير اشعاعي نتروني (ن)
+neutron reflection	انعكاس النترونات
+neutron scattering	تبعثر النترونات
+neutron source	مصدر نترونات (ن) / منبع النترونات
+neutron spectrometer	مطياف نتروني
+neutron star	نجم نتروني
+neutron temperature	درجة حرارة نترونية (ن)
+neutron width	عروض طيف الانبعاث النتروني (ن)
+neutron yield per absorption	مردود نتروني لكل امتصاص (ن)
+neutron yield per fission	مردود نتروني لكل انشطار (ن)
+neutrons absorber	ماص نترونات (ن)
+neutrons absorption	امتصاص نترونات (ن)
+neutrons cycle	دورة نترونات (ن)
+neutrons fission spectrum	طيف نترونات الانشطار (ن)
+neutrons generation time	زمن توالد النترونات (ن)
+neutrons generator	مولد النترونات (ن)
+Newton	نيوتن
+Newton emission theory	نظرية في الانبعاث
+Newton laws of motion	قوانين نيوتن الحركية
+Newton rings	حلقات نيوتن
+Newton theory of gravitation	نظرية نيوتن في الجاذبية
+Newton's flow	جريان نيوتني
+Newton's law of cooling	قانون نيوتن في التبريد
+Newton's law of universal gravitation	قانون نيوتن في التثاقل العام
+Newton's laws of motion	قوانين نيوتن في الحركة
+Newton's rings	حلقات نيوتن
+Newtonian fluid	مائع نيوتوني
+Newtonian mechanics	ميكانيك نيوتني
+Newtonian telescope	مقراب نيوتوني / مِقراب نيوتني
+nicad battery	بطارية نيكل كادميوم
+nickel	نيكل
+nickel-cadmium battery	بطارية نيكل كادميوم
+nicol	نيكول
+Nicol prism	موشور / موشور نيكول
+night blindness	عشي
+night vision	رؤية ليلية
+night vision telescope	مقراب الرؤية الليلية
+nit	نيت
+nitrogen	نتروجين؛ آزوت
+NMR	تجاوب مغنطيسـي نووي
+nobelium	نوبليوم
+noble gas	غاز نادر
+noble gas; inert gas	غاز خامل
+nocturnal vision	رؤية ليلية
+nodal analysis	تحليل عُقْدي
+nodal line	خط عُقْدي
+nodal lines	خطوط عقدية
+nodal plane	مستوٍ عقدي / مستوي عقدي
+nodal points	نقطتان عقديتان / نقطتان عُقْديتان
+node	عقدة
+noise	ضجيج / ضجيج؛ ضوضاء
+noise factor	عامل الضجيج
+noise figure	رقم الضجيج
+noise generator	مولِّد الضجيج
+noise source	منبع الضجيج
+non conservative force	قوة غير محافظة
+non equilibrium thermodynamics	تحريكيات (ال...) الحرارية اللامتوازية
+non ideal super-conductor; hard super conductor	فائق التوصيل غير المثالي
+non isotopic tracer	مقتف غير نظيري (ن)
+non linearity	لاخطية
+non luminous	غير لامع
+non luminous flame	لهب غير لامع
+non metal	لافلز
+non parallax	تطابق المواضع
+non polar	لاقطبي
+non polar compound	مركب لاقطبي
+non polar solvent	مذيب لاقطبي
+non relativistic quantum mechanics	مكانيك (ال...) الكمي غير النسبي (ن)
+non resonant	غير رنّان
+non resonant line	خط غير رنّان
+non selective radiator	مشع لا انتقائي
+non spectral color	لون لا طيفي
+non specular reflection	انعكاس منتشر
+non uniform	غير منتظم
+non uniform strain	انفعال غير منتظم
+non-associated liquid; non-polar liquid; normal liquid	سائل لاقطبي
+non-cartesian coordinate system	جملة إحداثيات لاديكارتية
+non-degenerated case	حالة غير متفككة (ن)
+non-linear circuit	دارة لاخطية
+non-metal	لا فلز
+non-resonant circuit	دارة لاتجاوبية
+non-spectral color	لون لاطيفي
+non-uniform	غير منتظم
+nonadiabatic process	تحوُّل لاكظوم
+nondestructive testing	اختبار لاإتلافي
+nonelastic cross section	مقطع عرضي غير مرن (ن)
+nonholonomic constraint	قيد لاهولونومي
+nonhomogeneous	غير متجانس
+noninductive resistor	مقاوم لاتحريضي
+noninverting amplifier	مضخم غير عاكس
+nonleakage probability	احتمال عدم التسرب (ن)
+nonlinear crystal	بلورة لاخطية
+nonlinear element	عنصـر لاخطي
+nonlinear optics	بصـريات لاخطية
+nonlinear phenomenon	ظاهرة لاخطية
+nonlinear resistance	مقاومة لاخطية
+nonlinearity	لا خطية
+nonrelativistic mechanics	ميكانيك لانسبوي
+normal	ناظم
+normal acceleration	تسارع ناظمي
+normal conditions	شـروط نظامية
+normal density	كثافة عادية
+normal dispersion	تبدد نظامي
+normal distribution	توزع نظامي
+normal eye	عين سليمة
+normal induction	حثّ عادي
+normal line	خط عمودي
+normal magnification	تكبير عادي
+normal modes	أنماط نظامية
+normal operator	مؤثر ناظمي
+normal permeability	نفاذية عادية
+normal pressure	ضغط عادي
+normal reaction	تفاعل عادي
+normal solution	محلول عادي / محلول نظامي
+normal solvent	مذيب عادي
+normal spectrum	طيف عادي / طيف نظامي
+normal state	حالة عادية / حالة أساسية
+normal stress	إجهاد ناظمي
+normal valence	تكافؤ عادي
+normal velocity	سـرعة ناظمية
+normal vision	رؤية عادية
+normal Zeeman effect	تأثير الاعتيادي (ن) / مفعول زيمان العادي
+normal Zeeman triplet	ثلاثية زيمان العادية
+normal-eye	عين سليمة
+normalisation of eigen function	معايرة الدالة الذاتية
+normalization	تطبيع (ن)
+normalization of a function	استنظام دالة
+normalized function	دالة معيَّرة (ن)
+normalized impedance	ممانعة مستنظمة
+north magnetic pole of earth	قطب (ال...) الأرضي المغنطيسي الشمالي
+north polar distance	بعد (ال...) القطبي الشمالي
+north pole	قطبي (ال...) الشمالي / قطب شمالي
+north-seeking pole	قطب باحث عن الشمال
+northern lights	الشفق القطبي الشمالي
+Norton equivalent	مكافئ نورتن
+Norton's theorem	مبرهنة نورتن
+note	نغمة، نغم
+nova	نوفا: مستعِر
+nox	نوكس
+nozzle	فوّهة / فُوَّهة
+nuclear	نووي (ن)
+nuclear accident	حادث نووي (ن)
+nuclear activity	نشاط نووي (ن)
+nuclear angular momentum	الاندفاع الزاوي النووي
+nuclear attraction	تجاذب نووي
+nuclear battery	نضيدة نووية (ن) / البطارية النووية
+nuclear bomb	قنبلة نووية (ن)
+nuclear chain reaction	تفعل نووي تسلسلي (ن) / تفاعل نووي متسلسل
+nuclear charge	شحنة نووية (ن) / شحنة النواة
+nuclear chemistry	كيمياء نووية (ن) / كيمياء نووية
+nuclear conversion	تحويل نووي (ن)
+nuclear criticality safety	سلامة (ال...) الحرجة النووية (ن)
+nuclear disintegration	اضمحلال نووي (ن)
+nuclear drop-model	نموذج القطرة للنواة
+nuclear emulsion	مستحلَب نووي
+nuclear energy	طاقة نووية (ن) / طاقة نووية
+nuclear explosion	انفجار نووي (ن) / انفجار نووي
+nuclear facilities	مَرافق نووية (ن)
+nuclear fission	انشطار نووي (ن) / انشطار نووي
+nuclear force	قوة نووية (ن) / قوة نووية
+nuclear fuel	وقود نووي (ن) / وقود نووي
+nuclear fusion	اندماح نووي (ن) / اندماج نووي
+nuclear heating	تسخين نووي (ن)
+nuclear induction	حث نووي (ن)
+nuclear interaction	تآثر نووي
+nuclear isobar	نوى متساوية النويّات (ن)
+nuclear isomer	مجانس نووي (ن) / إيزومير نووي، متصاوِغ نووي
+nuclear isomerism	مجانسة نووية (ن)
+nuclear magnetic resonance	تجاوب مغنطيسـي نووي
+nuclear magneton	مغنطون نووي
+nuclear material	مادة نووية (ن)
+nuclear medicine	طب نووي
+nuclear model	نموذج نووي (ن)
+nuclear physics	فيزياء نووية (ن) / الفيزياء النووية
+nuclear potential	جهد نووي
+nuclear potential energy	طاقة كامنة نووية
+nuclear power plant	محطة قدرة نووية (ن)
+nuclear power plant simulator	محاكي محطة قدرة نووية (ن)
+nuclear power station	محطة كهرباء نووية
+nuclear process	عملية نووية (ن)
+nuclear production	انتاج نووي (ن)
+nuclear properties	خواص نووية
+nuclear quadruple splitting	انفلاق ناتج عن رباعي الأقطاب النووي
+nuclear radius	نصف قطر النواة
+nuclear reaction	تفاعل نووي
+nuclear reactions	تفاعلات نووية (ن)
+nuclear reactor	مفاعل نووي (ن) / مفاعل نووي
+nuclear safety	سلامة نووية (ن)
+nuclear science	علوم نووية (ن)
+nuclear shell-model	نموذج الطبقات للنواة
+nuclear spin	بَرم نووي (ن) / سبين نووي
+nuclear stability	استقرار نووي
+nuclear star	نجم نووي
+nuclear structure	بنية نووية
+nuclear superheat	فوق التسخين النووي (ن)
+nuclear technology	تقنية نووية (ن)
+nuclear transformation	تحول نووي (ن)
+nuclear transition	انتقال نووي (ن)
+nuclear weapon	سلاح نووي (ن)
+nuclear Zeeman effect	مفعول زيمان النووي
+nucleate (to..)	ينوِّي
+nuclei	نوَّى
+nuclei of crystallization	نوى التبلور
+nucleon	نويّة (ن) / نكلون
+nucleonics	تقنيات (ال...) النووية / نكلونيّات
+nucleus	نواة (ن) / نواة
+nuclide	نِيَة (ن) / نكليد
+null matrix	مصفوفة صفرية
+null point	نقطة الخمود
+null valence	تكافؤ صفري
+null-geodesic	منحن زمكاني صفري
+number neutron density	كثافة (ال...) العددية للنترونات (ن)
+numerical aperture	فتحة عددية
+numerical aperture of lens	فتحة العدسة العددية
+numerical value	قيمة عددية
+nutation	نودان / ترنُّح؛ تمايل

@@ -1,0 +1,714 @@
+R-meter	مقياس الرونتجن
+rabbit system	مكوك هوائي
+racemic	خامل ضوئيا / راسيمي
+rad	راد (ن) / راد
+radar	كاشوف / رادار
+radar beacon	مرشد كاشوفي / منار راداري
+radar telescope	مِقراب راداري
+radial	شعاعي / نصف قطري؛ شِعّي
+radial acceleration	تسارع قطري
+radial astigmatism	لا نقطية قطرية
+radial diffusion	انتثار شِعّي
+radial distribution function	دالة توزيع شعاعية / دالة التوزع الشعّي
+radial distribution method	طريقة توزيع شعاعية
+radial Doppler effect	مفعول دوبلر قطري
+radial quantum number	عدد كمي شعاعي (ن) / عدد كمومي قطري
+radial vector	متَّجه قطري
+radial velocity	سـرعة قطرية
+radial-beam tube	صِمام حزمة قطرية
+radian	نصف قطري / راديان
+radiance	اشعاعيّة / إشعاعية
+radiant	مشع
+radiant density	كثافة اشعاعية / الكثافة الإشعاعية
+radiant energy	طاقة اشعاعية / طاقة إشعاعية
+radiant exposure	التعرض الإشعاعي
+radiant flux	تدفق اشعاعي / تدفق إشعاعي
+radiant flux density; irradiance	كثافة تدفق اشعاعي
+radiant heat	حرارة اشعاعية
+radiant heating	تسخين بالإشعاع
+radiant intensity	شدّة اشعاعية / شدة إشعاعية؛ شدة الإشعاع
+radiant reflectance factor	عامل انعكاس اشعاعي
+radiate (to..)	يشعّ
+radiated power	قدرة إشعاعية؛ قدرة الإشعاع
+radiation	اشعاع / إشعاع
+radiation (electromagnetic...)	اشعاع كهرمغنطيسي
+radiation accident	حادث اشعاعي (ن)
+radiation beam	حزمة إشعاع
+radiation chemistry	كيمياء الاشعاع (ن)
+radiation constant	ثابتة الإشعاع
+radiation counter	عداد المسح الإشعاعي
+radiation damage	تلف بالاشعاع (ن) / إيذاء بالإشعاع
+radiation damping	تخامد الإشعاع
+radiation death	موت بالإشعاع
+radiation density	كثافة الإشعاع
+radiation density constant	ثابت كثافة الاشعاع
+radiation detector	مكشاف الاشعاع (ن)
+radiation dose	جرعة الاشعاع (ن) / جرعة إشعاع؛ تشعيع
+radiation effects	تأثيرات الإشعاع/التشعيع
+radiation energy	طاقة الإشعاع
+radiation exposure	التعرُّض الإشعاعي
+radiation field	حقل الإشعاع
+radiation flux	تدفُّق الإشعاع
+radiation genetics	علم الوراثة الإشعاعي
+radiation hazard	خطر الإشعاع
+radiation impedence	مقاومة الإشعاع
+radiation injury	إصابة إشعاعية
+radiation intensity	شدة الإشعاع
+radiation laws	قوانين الإشعاع
+radiation length	طول الاشعاع / طول طريق الإشعاع
+radiation loss of energy	فقدان الطاقة بالإشعاع
+radiation measurement	قياس الإشعاع
+radiation monitor	مرقاب الاشعاعية (ن)
+radiation of heat	اشعاع الحرارة
+radiation physics	فيزياء الاشعاع (ن)
+radiation potential	جهد الاشعاع
+radiation pressure	ضغط الاشعاع / ضغط الإشعاع
+radiation protection	وقاية (ال...) من الاشعاعات (ن)
+radiation purity	نقاء الاشعاع (ن)
+radiation pyrometer	محرارإشعاعي
+radiation quantity	كمية الاشعاع (ن)
+radiation rate	معدل الإشعاع
+radiation resistance	مقاومة الاشعاع / مقاومة الإشعاع
+radiation scattering	تبعثر الإشعاع
+radiation sensitive	حسَّاس للإشعاع
+radiation shielding	احتجاز الاشعاع (ن) / تدريع مانع للإشعاع
+radiation sickness	داء الاشعاع (ن) ، مرض اشعاعي / داء الإشعاع
+radiation source	مصدر اشعاع (ن)
+radiation sterilization	تعقيم بالإشعاع
+radiation survey instrument	جهاز مسح الاشعاعات (ن)
+radiation temperature	درجة حرارة الاشعاع
+radiation therapy	مداواة بالإشعاع
+radiation warning assembly	مجمع التخدير من الاشعاع (ن)
+radiation weighing factor	عامل الجودة
+radiation width	عرض الاشعاع (ن) / عرض الإشعاع
+radiation work	عمل (ال...) في حقل الاشعاع (ن)
+radiative capture	أسر اشعاعي (ن) / أسـر مشع
+radiative capture cross section	مقطع فعَّال للأسـر المشع
+radiative capture of neutrons	أسـر نتروني مشع
+radiative correction	تصحيح اشعاعي
+radiative decay	تفكك مشع
+radiative inelastic scattering	استطارة اشعاعية غير مرنة (ن)
+radiative transition	انتقال اشعاعي (ن) / انتقال مشع
+radiator	مشّع / مشع
+radii	أنصاف أقطار
+radio	اشعاع
+radio-frequency	تردد راديوي
+radio-isotope	نظير مشع (ن)
+radioactinium	أكتينيوم مشع
+radioactivation analysis	تحليل بالتنشيط الإشعاعي
+radioactive	مشع
+radioactive airborne particles	جسيمات مشعة عالقة في الهواء
+radioactive barium	باريوم مشع
+radioactive byproduct	نتاج ثانوي مشع
+radioactive carbon	كربون مشع
+radioactive chain	سلسلة نشاط اشعاعي / سلسلة مشعة
+radioactive constant	ثابتة التفكك الإشعاعي
+radioactive contamination	تلوث اشعاعي (ن)
+radioactive debris	رواسب مشعة
+radioactive decay	اضمحلال اشعاعي (ن) / تفكك إشعاعي؛ اضمحلال إشعاعي
+radioactive decay product	نتاج تفكك إشعاعي
+radioactive deposit	راسب مشع
+radioactive disintegration	انحلال النشاط الاشعاعي / تفكك إشعاعي
+radioactive dust	غبار مشع
+radioactive element	عنصـر مشع
+radioactive equilibrium	توازن اشعاعي (ن) / توازن نشاط إشعاعي
+radioactive fall-out	سقط اشعاعي (ن)
+radioactive fallout	سَقَطٌ إشعاعي
+radioactive family	سلالة مشعة / سُلالة مشعة
+radioactive fission product	نتاج انشطار مشع
+radioactive gas	غاز مشع
+radioactive half life	عمر النصف الاشعاعي (ن)
+radioactive half-life	عُمْر النصف الإشعاعي؛ دَوْر النصف الإشعاعي
+radioactive heat	حرارة إشعاعية
+radioactive iodine	يود مشع
+radioactive isotopes	نضائر مشعة / نظائر مشعة
+radioactive material	مادة اشعاعية (ن) / مادة مشعة
+radioactive nucleus	نواة مشعة
+radioactive nuclide	نُكْليد مشع
+radioactive poison	سم إشعاعي
+radioactive purity	نقاء اشعاعي (ن)
+radioactive relationship	صلة إشعاعية
+radioactive series	سلسلة نشاط اشعاعي / متسلسلات مشعة
+radioactive standard	معيار النشاط الاشعاعي / معيار إشعاعي
+radioactive steam	بخار مشع
+radioactive substance	مادة مشعة
+radioactive tracer	مقتف اشعاعي (ن) / قفّاء مشع
+radioactive transformation	تحول اشعاعي (ن)
+radioactive waste	نفايات اشعاعية (ن) / نُفايات مشعة
+radioactivity	نشاط اشعاعي (ن) / نشاط إشعاعي
+radiobiologic action	أثر بيولوجي للإشعاع
+radiobiology	علم الاحياء الاشعاعي (ن) / علم الأحياء الإشعاعي؛ البيولوجيا الإشعاعية
+radiocarbon dating	تأريخ بالكربون المشع
+radiochemical analysis	تحليل كيميائي إشعاعي
+radiochemical purity	نقاء كيميائي اشعاعي (ن)
+radiochemistry	كيمياء (ال...) الاشعاعية (ن) / كيمياء إشعاعية
+radiocolloid	غُرَوِي مشع
+radioelement	عنصر مشع (ن) / عنصـر مشع
+radiofrequency component	مُركِّبة التردد الراديوي
+radiogenetics	علم الوراثة الإشعاعي
+radiogenic	مولَّد إشعاعيًا
+radiogenic heating	تسخين مولَّد إشعاعيًا
+radiogenic isotope	نظير مولَّد إشعاعيًا
+radiograph	صورة اشعاعيّة / صورة شعاعية
+radiographic inspection	تحرٍّ بالتصوير الشعاعي
+radiography	تصوير اشعاعي (ن) / تصوير شعاعي
+radioisotopes	نظائر مشعة
+radiolocation	تحديد راديوي للموقع
+radiological monitoring	رقابة إشعاعية
+radiological physics	فيزياء علم الأشعة (ن)
+radiological protection	وقاية إشعاعية
+radiological survey	مسح اشعاعي (ن)
+radiological work	عمل اشعاعي (ن)
+radiologist	طبيب أشعة
+radiology	علم الأشعة (ن) / طب شعاعي
+radioluminescence	لمعان اشعاعي / تألق إشعاعي
+radiolysis	تحليل بالأشعة (ن) / تحلُّل إشعاعي
+radiometer	مقياس الاشعاع (ن) / مقياس الإشعاع
+radiometric analysis	تحليل بالقياسات الاشعاعية (ن) / تحليل إشعاعي
+radiometry	قياس الاشعاع (ن)
+radiomicrometer	مقياس الاشعاع الدقيق
+radionuclide	نِيَة مشعة (ن) / نُكْليد مشع
+radionuclide purity	نقاء النية المشعة (ن)
+radiophone	هاتف لا سلكي / هاتف راديوي
+radiophosphorus	فسفور مشعّ
+radiophotography	إرسال الصور بالراديو
+radioresistance	مقاومة اشعاعية / مقاومة إشعاعية
+radioscope	مكشاف اشعاعي / مكشاف إشعاعي
+radioscopy	تنظير شعاعي
+radiosensitivity	حساسية اشعاعية / حساسية إشعاعية
+radiotelegram; radiogram	برقية لاسلكية
+radiotelegraphy	ابراق لاسلكي / إبراق راديوي
+radiotelemetry	قياس راديوي
+radiotelephone	هاتف راديوي
+radiotelephony	مهاتفة لاسلكية
+radiotelescope	مقراب رَاديَوِي
+radiotherapy	مداواة بالإشعاع
+radiowave	موجة راديوية
+radium	راديوم
+radium 228	راديوم 228
+radium-beryllium source of neutron	منبع نترونات راديوم بريليوم
+radius of action of nuclear forces	نصف قطر فعل القوى النووية
+radius of atom	نصف قطر الذرة
+radius of curvature	نصف قطر الانحناء
+radius of electron	نصف قطر الإلكترون
+radius of gyration	نصف قطر التدويم / نصف القطر العطالي؛ نصف قطر التدويم
+radius of nucleus	نصف قطر النواة
+radius vector	نصف قطر شعاعي
+radon	رادون
+radon-plant	وحدة توليد الرادون
+raffinate	طفوة
+rainbow	قوس قزح
+RAM	رام
+Raman effect	أثير / مفعول رامان
+Raman scattering	تبعثر رامان
+Raman spectroscopy	مطيافية رامان
+Raman spectrum	طيف
+Random Access Memory	ذاكرة نفاذ عشوائي؛ رام
+random coincidence	تطابق عشوائي (ن)
+random encounter	مواجهة عشوائية
+random motion	حركة عشوائية
+random response	استجابة عشوائية
+random scattering	تبعثر عشوائي
+random walk	سير عشوائي / مشية عشوائية
+range	مدى (ن) / مدى؛ مجال
+range finder	معيّن المدى / قائس المدى
+range of audibility	مدى المسموعية
+range of particle	مدى الجسيم
+range straggle of electrons	تطوُّح مدى الإلكترونات
+range straggling	تطوّح المدى (ن)
+range-energy relation	علاقة الطاقة بالمدى / علاقة المدى بالطاقة
+rank of a matrix	رتبة مصفوفة
+Rankine temperature scale	سلم الحراري
+rare earth elements	عناصـر ترابية نادرة
+rare gas	غاز نادر
+rare metal	فلّز نادر
+rarefaction	تخلخل / تخلخُل
+rarefied	متخلخل
+rarefied gas	غاز مخلخَل
+rate	معدَّل (ن) / معدَّل
+rate meter	مقياس المعدَّل
+rate of approach	معدل الاقتراب
+rate of change	معدل التغير
+rate of chemical reaction	سـرعة التفاعل الكيميائي
+rate of decay of sound	معدّل تلاشي الصوت
+rate of diffusion	سـرعة الانتثار
+rate of discharge	سـرعة الانفراغ
+rate of disintegration	سـرعة التفكك
+rate of exhaustion of air	معدل استنزاف الهواء
+rate of radioactive decay	سـرعة التفكك الإشعاعي
+rate of reactivity	معدل المفاعلية
+rated capacity	استطاعة اسمية
+rated output	خرج (ال...) المقنن (ن)
+rated value	قيمة (ال...) المقننة (ن)
+rating	تقنين (ن)
+ratio of deflection	نسبة الانحراف
+ratio of specific heats	نسبة الحرارتين النوعيتين
+rational number	عدد مُنَطَّق
+rationalized units	واحدات مُنَطَّقة
+raw material	مادة خام
+ray	شعاع
+ray of light	أشعة الضوء
+ray tracing	اقتفاء الأشعة / رسم الأشعة
+Rayleigh's criterion	معيار رايلي
+Rayleigh-Jeans law	قانون رايلي - جينز
+reactance	معاوقة / ردّيَّة
+reaction	رد فعل / تفاعل؛ رد فعل
+reaction chamber	غرفة التفاعل
+reaction cross section	المقطع الفعال للتفاعل
+reaction energy	طاقة التفاعل (ن) / طاقة التفاعل
+reaction engine; reaction motor	محرك رد فعل
+reaction formula	معادلة التفاعل
+reaction heat	حرارة التفاعل
+reaction mean free path	المسير الحر الوسطي للتفاعل
+reaction rate	معدل التفاعل (ن)
+reaction threshold	عتبة التفاعل
+reaction time	زمن التفاعل
+reactive power	قدرة ردِّيِّة
+reactivity	مفاعلية (ن) / تفاعلية
+reactivity coefficient	معامل المفاعلية (ن)
+reactivity control system	نظام التحكم في المفاعلية (ن)
+reactivity feed back	تغدية مرحوعة للمفاعلية (ن)
+reactivity meter	مقياس المفاعلية (ن) / مقياس التفاعلية
+reactor	مفاعل (ن) / مفاعل
+reactor cavity	تجويف المفاعل (ن)
+reactor cell	خلية المفاعل (ن)
+reactor control	ضبط المفاعل (ن)
+reactor control rod	قضيب تحكُّم بالمفاعل
+reactor core	لب المفاعل (ن) / لب المفاعل؛ قلب المفاعل
+reactor engineering	هندسة المفاعلات (ن) / هندسة المفاعلات
+reactor fuel	وقود المفاعل
+reactor lattice	شبيكة مفاعل (ن)
+reactor loop	دورة المفاعل (ن)
+reactor noise	ضجيج المفاعل (ن)
+reactor oscillator	متذبذب المفاعل (ن)
+reactor period	زمن دورة المفاعل (ن)
+reactor physics	فيزياء المفاعلات (ن)
+reactor poison	سُم المفاعل
+reactor pressure vessel	وعاء الضغط للمفاعل (ن)
+reactor protection system	نظام وقاية المفاعل (ن)
+reactor runaway	جموح المفاعل
+reactor safety system	منظومة أمان المفاعل
+reactor simular	محاكي مفاعل (ن)
+reactor spectrum of neutrons	طيف نترونات المفاعل
+reactor time constant	تابث الزمن للمفاعل (ن)
+reactor trip; scram	خفض (ال...) الطارىء للقدرة المراقبة (ن)
+reactor vessel	وعاء المفاعل (ن) / حوض المفاعل
+read-only memory	ذاكرة قرائية
+reader	قارئة
+reagent	كاشف
+real	حقيقي
+real axis	محور حقيقي
+real fluid flow	جريان مائع حقيقي
+real gas	غاز حقيقي
+real image	صورة حقيقية / خيال حقيقي؛ صورة حقيقية
+real number	عدد حقيقي
+real object	جسم حقيقي
+real part of complex number	جزء حقيقي لعددٍ عُقَدي
+real power	قدرة حقيقية
+real solubility	ذوبانية حقيقية
+rearrangement reaction	تفاعل إعادة ترتيب
+reboiler coil	مِلَف إعادة التسخين
+rebound (to…)	يرتد
+recalescence	ذكّو حراريّ
+receiver	مستقبل / مستقبِل
+receiving set	جهاز استقبال
+reciprocal	مقلوب
+reciprocal ellipsoid	مقلوب مجسم اهليلجي
+reciprocal lattice	مقلوب شبيكة / شبيكة عكسية
+reciprocal linear dispersion	مقلوب تفرق خطي
+reciprocal theorem	مبرهنة التبادل
+reciprocity law	قانون التبادلية
+recirculation	جريان في دورة مغلقة
+recoil	مرتد؛ ارتداد
+recoil electron	إلكترون مرتد
+recoil nucleus	نواة مرتدة (ن) / نواة مرتدة
+recoil particle	جسيم مرتد (ن)
+recoilless emission	انبعاث لا ارتدادي
+recombination	إعادة الاتحاد
+recombination coefficient	معامل إعادة الاتحاد
+recombination of ions	عودة اتحاد الأيونات
+recombination velocity	سرعة اعادة التركيب / سـرعة عودة الاتحاد
+recording circuit	دارة تسجيل
+recording head	رأس تسجيل
+recovery	استعادة / استعادة/تَعَافي
+recovery of uranium	استعادة اليورانيوم
+recovery time	زمن الاسترجاع (ن) / زمن الاستعادة
+recrystallization	اعادة التبلور / عودة التبلور
+rectangular array	صفيف مستطيل
+rectangular parallelepiped	متوازي المستطيلات القائم
+rectangular potential well	بئر الجهد المستطيلة (ن)
+rectangular solid	متوازي المستطيلات
+rectangular waveguide	دليل موجي مستطيل
+rectification	تقويم / تقويم التيار
+rectifier	مقوِّم / مقَوِّم
+rectifier valve	مقوم صمامي
+rectifying apparatus	جهاز مقوم
+rectifying vacuum tube	صمام مقوم
+rectilinear motion	حركة مستقيمة
+rectilinear propagation of light	انتشار الضوء بخطوط مستقيمة / انتشار مستقيم للضوء
+rectilinear system; orthoscopic system	نظام الخطوط المستقيمة
+recycling	إعادة التدوير
+red shift	انزياح أحمر
+redshift	انزياح نحو الأحمر
+reduced	مختزل
+reduced equation of state	معادلة حالة مختزلة
+reduced focal length	بعد بؤري مختزَل
+reduced mass	كتلة مختزَلة (ن) / كتلة مُختَزَلَة
+reduced neutron width	عرض نتروني مختزَل (ن)
+reduction	اختزال؛ اختصار
+reduction factor	عامل الاختزال
+reduction potential	جهد الاختزال
+reference frame	جملة المقارنة؛ جملة مرجعية
+reference ionization chamber	غرفة التأين المرجعية
+reference node	عقدة مرجعية
+reference plane	مستوٍ مرجعي
+reference sound level	مستوى الصوت المرجعي (ن)
+reference tone	نغمة مرجعية
+refinery	مصفاة
+reflectance	انعكاسية
+reflectance spectrophotometry	قياس طيف ضوء الانعكاس
+reflectante; radiant reflectance	انعكاسية
+reflected	معكوس
+reflected beam	حزمة منعكسة
+reflected field	مجال معكوس
+reflecting	عاكس
+reflecting grating	محزّز عاكس
+reflecting lamp	مصباح عاكس
+reflecting power	قدرة الانعكاس
+reflecting reactor	مفاعل ذو عاكس
+reflecting telescope	مقراب عاكس / راصدة عاكسة؛ مِقراب عاكس
+reflection	انعكاس
+reflection angle	زاوية الانعكاس
+reflection coefficient	مُعامل الانعكاس
+reflection coefficient; reflection factor	معامل الانعكاس
+reflection factor	عامل الانعكاس
+reflection invariance	ثبات انعكاسي
+reflection laws	قانونا الانعكاس
+reflection loss	فقد انعكاسي
+reflection of light	انعكاس الضوء
+reflection of neutron beam	انعكاس حزمة نترونات
+reflection of sound	انعكاس الصوت
+reflection operator	مؤثر الانعكاس (ن)
+reflection plane	مستوى الانعكاس
+reflection symmetry	تناظر مرآوي
+reflectivity	انعكاسيّة / انعكاسية
+reflector	عاكس (ن) / عاكس
+reflector control	تحكم بالعاكس (ن) / تحكُّم بوساطة عاكس
+reflector of reactor	عاكس المفاعل
+reflector saving	توفير بالعاكس (ن) / اقتصاد بالعاكس؛ اختصار بالعاكس
+reflex	منعكِس
+reflex camera	مصوِّرة عاكسة
+reflux	انحسار، جزر / الراجع؛ السائل المعاد؛ ارتداد
+reflux condenser	مكثف الراجع
+refracted beam	حزمة منكسـرة
+refracting angle	زاوية الانكسار
+refracting spherical surface	كاسـر كروي
+refraction	انكسار
+refraction by prism	انكسار موشوري
+refraction loss	فقد انكساري
+refraction modulus	معامل الانكسار
+refraction of light	انكسار الضوء
+refraction of sound	انكسار الصوت
+refractive	كاسر
+refractive dispersivity	انكسارية
+refractive index	قرينة الانكسار
+refractivity	تفريق انكساري
+refractometer	مقياس الانكسار / مقياس قرائن الانكسار
+refractory material	مادة نارية؛ مادة مقاومة للانصهار
+refrangible	انكساري / قابل للانكسار
+refrigerant	مثلِّج / مادة تبريد
+refrigerated trap	مصيدة مثلَّجة
+refrigeration	تثليج / تبريد
+refrigeration cycle	دورة التثليج، دورة التبريد
+refrigeration gas	غاز التثليج، غاز التبريد
+refrigeration ice	جليد التبريد، جليد التثليج
+refrigerator	ثلاّجة، براد / براد؛ ثلاجة
+regelation	اعادة التجمد / عودة التجمُّد
+regenerated fuel	وقود مُعاد التوليد
+regenerated plutonium	بلوتونيوم معاد التوليد
+regeneration	اعادة التوليد / إعادة توليد
+regeneration of nuclear fuels	إعادة توليد الوقود النووي
+regenerative process	عملية إعادة توليد
+regenerative reactor	مفاعل ولود
+region	منطقة؛ مجال
+register	سجل
+regular	اعتيادي
+regular reflection	انعكاس منتظِم
+regularization	تنظيم
+regulation	تنظيم
+regulation rods	قضبان تنظيم
+regulator	مُنَظِّم
+reignition voltage	فولطية اعادة الاشتعال
+relations of uncertainty	علاقات الارتياب
+relative	نسبيّ
+relative abundance	وفرة نسبية
+relative aperture	فتحة نسبية
+relative aperture; F-number	فتحة نسبية
+relative biological effectiveness	تأثير احيائي نسبي
+relative biological effectiveness (RBE)	فعالية بيولوجية نسبية
+relative coefficient	معامل نسبي
+relative conversion ratio	نسبة التحويل النسبي (ن)
+relative coordinates	إحداثيات نسبية
+relative density	كثافة نسبيّة
+relative humidity	رطوبة نسبية
+relative hygrometer	مرطاب نسبي
+relative importance	أهمية نسبية (ن)
+relative incertitude	ارتياب نسبي
+relative index of refraction	معامل الانكسار النسبي / قرينة انكسار نسبية
+relative isotopic abundance	وفرة نظائرية نسبية
+relative luminance threshold	عتبة اللمعان النسبية
+relative luminosity	لمعانية نسبية
+relative motion	حركة نسبية
+relative permeability; specific permeability	نفاذية نسبية
+relative response; relative sensitivity	استجابة نسبية
+relative specific ionization	تأين نوعي نسبي
+relative velocity	سرعة نسبية / سـرعة نسبية
+relative viscosity	لزوجة نسبية
+relativistic	نسبيّ / نسبوي
+relativistic mass	كتلة نسبوية
+relativistic mass equation	معادلة الكتلة النسبوية
+relativistic momentum	اندفاع نسبوي
+relativistic particle	جُسيم نسبوي
+relativistic quantum mechanics	ميكانيك كمومي نسبوي
+relativistic velocity	سـرعة نسبوية
+relativity	نسبية (ال...) / النسبية
+relativity principle	مبدأ النسبية
+relativity theory	نظرية النسبية
+relaxation	استرخاء
+relaxation behavior; relaxation bihaviour	سلوك استرخائي، الاسترخاء
+relaxation frequency	تردد الاسترخاء / تردد الاسترخاء؛ تواتر الاسترخاء
+relaxation length	طول الاسترخاء (ن)
+relaxation oscillator	هزازة استرخاء
+relaxation time	زمن الاسترخاء (ن) / زمن الاسترخاء
+relay	مرحِّل / مرحِّلة؛ مرحِّل
+release (to..)	يطلق
+release of energy	تحرير الطاقة
+relief perception	إدراك مجسَّم
+relief valve	صِمَام الأمان
+reluctance	مقاصرة / ممانعة مغنطيسية
+reluctivity; specific reluctance	مقاصرة نوعية
+rem	ريم
+remanence	محتفظية / مغنطة متبقِّية
+remanent	محتفَظ به
+remote control	تحكم عن بعد (ن) / تحكُّم عن بعد
+remote maintenance	صيانة عن بعد (ن)
+remote manipulation	مداولة عن بعد؛ تشغيل عن بعد
+remote sensing	استشعار عن بعد
+removal cross section	مقطع عرضي للازالة (ن)
+removal diffusion theory	نظرية الانتشار والازالة
+removal of degeneracy	ازالة التفكك
+renardite	رينارديت
+renormalization	إعادة تنظيم
+renormalization of mass	اعادة معايرة الكتلة
+rep	ريب
+repeatability	تكرارية
+repetitive error	خطأ متكرر
+replacement of the whole charge	استبدال الشحنة الكلية (ن)
+replica	صورة مطابقة / صورة مطابقة؛ نسخة
+replica grating	محزّزة مطابقة
+representative sample	عيِّنَة نموذجية
+reprocessing	إعادة المعالجة
+repulse (to…)	يتنافر
+repulsion	تنافر / تنافر؛ تدافع
+repulsive energy	طاقة التنافر
+repulsive force	قوة تنافرية / قوة التنافر؛ قوة التدافع
+repulsive potential	جهد تنافري
+research reactor	مفاعل بُحوث
+reservoir	خزّان / خزان؛ مستودع
+residual blue	ضوء تندال الأزرق
+residual current	تيار باق (ن)
+residual induction	حث متبقّ
+residual nucleus	نواة باقية (ن)
+residual of rays	فضالة الأشعّة
+residual radiation	اشعاع الفضلة / فُضالة الإشعاع
+residual rays	أشعة الفضلة
+residual resistance	مقاومة متبقية
+residue	فضلة / فُضالة؛ فَضْلة
+resilience	رجوعية / رَجوعية
+resilient	رجوعي
+resin	راتينج
+resistance	مقاومة
+resistance box	صندوق مقاومات / علبة المقاومات
+resistance bridge	جسـر مقاومات
+resistance coil	ملف مقاومة
+resistance of friction	مقاومة الاحتكاك
+resisting medium	وسط مقاوِم
+resistive load	حِمْل مقاومي
+resistivity	مقاومية / مقاوميَّة
+resistor	مقاوِم
+resolution	ميز (ن) / تحليل؛ فصل؛ استبانة؛ مَيْز
+resolution of forces	تحليل القوى
+resolution of vectors	تحليل المتَّجِهات
+resolving power	قدرة المَيز (ن) / مقدرة الفصل؛ مقدرة الاستبانة
+resolving time	زمن المَيز (ن) / زمن الفصل
+resonance	رنين / تجاوب
+resonance absorption	امتصاص رنيني
+resonance absorption of neutrons	امتصاص النترونات الرنيني / امتصاص تجاوبي للنترونات
+resonance capture of neutrons	أسر النترونات الرنيني (ن) / أسـر تجاوبي للنترونات
+resonance cross section	مقطع التجاوب الفعال
+resonance detector	مكشاف رنين (ن)
+resonance energy	طاقة الرنين (ن) / طاقة التجاوب
+resonance escape probability	احتمالية الافلات الرنيني (ن) / احتمال الانفلات التجاوبي
+resonance fluorescence; resonance radiation	تألق رنيني
+resonance frequency	تردد التجاوب
+resonance frequency; resonant frequency	تردد الرنين
+resonance integral	تكامل الرنين (ن) / تكامل التجاوب
+resonance level	مستوى الرنين (ن) / مستوى التجاوب
+resonance line of an atom	خط تجاوبي للذرة
+resonance neutron	نترون الرنين (ن) / نترون التجاوب
+resonance parameter	مَعْلَم الرنين (ن)
+resonance region	منطقة الرنين (ن) / منطقة التجاوب
+resonance scattering	استطارة رنينية (ن) / تبعثر تجاوبي
+resonance spectrum	طيف الرنين
+resonance tube	أنبوب الرنين
+resonance width	عرض الرنين (ن)
+resonant cavity	جوف تجاوبي
+resonant circuit	دارة رنّانة / دارة مُجاوِبة
+resonant mode	نمط رنين
+resonating piezoid	بلّورة كهرضغطية رنّانة
+resonator	رنّان
+resorption	ارتشاف
+resorption system	منظومة عودة الامتصاص
+response (available power…)	استجابة قدرة متاحة
+response (transmitting current...)	استجابة تيار الارسال
+response time	زمن الاستجابة
+rest density	كثافة السكون
+rest energy	طاقة السكون (ن) / طاقة سكونية
+rest frame	اطار مرجع / جملة مرجعية سكونية
+rest mass	كتلة السكون / كتلة سكونية
+restitution coefficient	مُعامل الارتداد
+restoring force	قوة معيدة / قوة الإرجاع
+restricted internal rotation	دوران داخلي محدود
+resultant acceleration	تسارع حاصل
+resultant force	قوة محصّلة / قوة محصلة
+resultant nucleus	نواة ناتجة
+resultant thrust	دفع محصّل
+resultant vector	محصلة متّجهات
+retaining ring	حلقة التثبيت
+retardation	تباطؤ، تبطئة / تأخير
+retarded fields	مجالات تباطؤية
+retarded neutrons	نترونات متأخرة
+retarded potentials	جهود تباطؤية
+retarding potential	كُمون مُعيق
+retarding voltage	فلطية معيقة
+retention time	زمن الاستبقاء
+retentivity	محتفظية
+reticle	محكِّمة
+reticle; cross-hair lines	شعيرات متصالبة
+reticular density	كثافة شبكية
+reticulated	شُبَيْكِي
+retina	شَّبكية (ال...) / شبكية
+retina of eye	شبكية العين
+retinal illuminance	اضاءة الشَّبكية
+retrodirective mirror	مرآة مرجّعة / مرآة مُرجِعة
+retrograde solubility	ذوبانية تراجعية
+retroprojector	جهاز إسقاط خلفي
+retroreflector	عاكس مرجّع / عاكس مُرْجِع
+return loss	فقد ارجاعي / فَقْدٌ بالارتداد
+reverbement room; reverberation room	غرفة ترديد
+reverberation	ترداد
+reverberation room	حجرة الترداد
+reverberation time	زمن الترديد / زمن الترداد
+reversal of polarity	عكس القطبية
+reversal of spectral lines	عكس خطوط الطيف
+reversal spectrum	طيف متعاكس الاضاءة
+reversal temperature	حرارية التعاكس
+reverse voltage	فلطية عكسية
+reversibility	انعكاسية / عكوسية
+reversibility of light	انعكاسية الضوء
+reversibility principle	مبدأ رجوع الضوء
+reversible cycle	دورة عكيسة
+reversible electrode	مسرى عكيس
+reversible magneto striction	تقبض مغنطيسي عكيس
+reversible path	مسار عكيس
+reversible pendulum	نواس عكيس
+reversible permeability	نفاذية عكيسة
+reversible process	تحوُّل عكوس
+reversible processes	عمليات عكيسة
+reversing key	مفتاح عاكس
+reversing prism; Dove prism	موشور عاكس
+revolution	دورة
+revolution counter	عدّاد الدورات
+rework cell	خلية التطوير (ن)
+rhenium	رينيوم
+rheology	علم الجريان / علم الجريان؛ علم الدَّفْق
+rheostat	مقاومة متغيرة، مقاومة معدّلة / معدِّلة
+rhodium	روديوم
+rhombic lattice	شبيكة معيّنيّة
+rhombohedron	موشور معينّي الأوجه / موشور مَعيني
+Richardson effect	مفعول ريتشاردسون
+Richardson's equation	معادلة ريتشاردسون
+rider	راكب
+right-hand rule	قاعدة اليد اليمنى
+right-left symmetry	تناظر انعكاسي
+rigid	جاسىء
+rigid body	جسم جاسىء / جسم صلد؛ جسم جاسئ
+rigidity	جساءة / صلادة
+rigidity modulus	معامل الصلادة
+ring	حلقة
+rings of equal inclination	حلقات تساوي الميل
+ripple	تجاعيد
+ripple; undulation	مويجة
+rise time	زمن الصعود
+rocket propulsion	دفع صاروخي
+rocking bar	قضيب مترجِّح
+rod cells	خلايا عَصَوِية
+rod drive	سوّاقة القضبان
+rod-assemblies	تجميعات قضبانية
+rod-type thermistor	مقاوم حراري قضباني
+rods	عُصَيَّات
+roentgen equivalent man	مكافئ رونتجن البيولوجي
+Roentgen rays	أشعة / أشعة رونتجن
+roentgen therapy	مداواة بأشعة رونتجن
+roentgenography	تصوير شعاعي
+rogersite	روجرزيت
+rolling	تدحرج / تدحرُج
+rolling friction	احتكاك التدحرج
+rolling friction; rolling resistance	احتكاك التدحرج
+ROM	ذاكرة قرائية
+roof prism	موشور سقفي
+root-mean-square	جذر متوسط المربعات
+root-mean-square (r.m.s.)	جذر متوسط المربعات
+rotate (to…)	يدور
+rotating	دوَّار (دوَّارة)
+rotating crystal method	طريقة البلّورة الدوارة
+rotating cylinder method viscosity	طريقة الأسطوانة الدّوارة
+rotation	دوران
+rotation axis	محور الدوران
+rotation of plane of polarization	دوران مستوى الاستقطاب
+rotation of the vibration plane	دوران مستوى الاهتزاز
+rotation photograph	رسم ضوئي دوراني
+rotation-inversion axis; rotation reflection axis	محور انعكاس دوراني
+rotation; curl-	تدوير
+rotational	دُوّار
+rotational energy	طاقة الدوران
+rotational level	مستوى الطاقة الدورانية
+rotational motion	حركة دورانية
+rotational spectrum	طيف دوراني
+rotational sum rule	قاعدة الجمع الدوراني
+rotational transform	تحوُّل دوراني
+rotative state	حالة دورانية
+rotator	مدوِّر
+rotatory dispersion; rotary dispersion	تفرق دوراني
+rotatory polarization	استقطاب دوراني
+rotatory; optically active	فعّأل ضوئيا
+rotor	دوّار / دَوّار
+rotor; rotation of vector field	دوّار: دوران في حقل متجهات
+rough surface	سطح خشن
+rounding-off	تدوير العدد
+row lines	خطوط صف
+rubber	مطّاط / مطاط
+rubidium	روبيديوم
+rule of mutual exclusion	قاعدة الاستعباد المتبادل
+ruling-engine	مجزّزة / محزِّزة
+runaway	جموح
+runaway electrons	إلكترونات جَموحة
+running in period	زمن دورة البداية (ن)
+running-out period	زمن دورة النهاية (ن)
+ruthenium	روثينيوم
+Rutherford scattering	تبعثر رذرفورد
+Rutherford-Bohr atomic model	نموذج رذرفورد - بور الذري
+rutherfordium	رذرفورديوم
+Rydberg constant	ثابتة رَيْدبرغ
+Rydberg series formula	صيغة متسلسلة رَيْدبرغ
+Rydberg-Ritz combination principle	مبدأ ريدبرغ – ريتز التوفيقي

@@ -1,0 +1,408 @@
+حاجب حائل؛ شاشة	screen
+حاجز	barrier
+حاجز (ن)	Coulomb barrier
+حاجز الانتشار (ن)	diffusion barrier
+حاجز جهد	potential barrier or hill
+حاجز جُهد؛ حاجز كُمون	potential barrier
+حاجز صوتي	sound barrier
+حاجز ظِلّي (ن) ، حاجز جزئي	shadow shield
+حاجز فارادي	Faraday screen; Faraday shield
+حاجز كمون	potential hill
+حاجز كولوني	Coulomb barrier
+حادث اشعاعي (ن)	radiation accident
+حادث نووي (ن)	nuclear accident
+حادثة تأين	ionization event
+حادثة تصميم (ن)	design basis accident
+حادثة فقدان التبريد (ن)	loss of coolant accident
+حادثة مؤيِّنة (ن)	ionizing event
+حارّ (ن)	hot
+حاسبة الكترونية	electronic computer
+حاسوب	computer
+حاسوب إلكتروني	electronic computer
+حاسوب تماثلي	analog computer
+حاسوب رئيسي	mainframe
+حاسوب صغير	minicomputer
+حاسوب لا تزامني	asynchronous computer
+حاسوب مِكروي، حاسوب صِغْري	micro-computer
+حاسوب هجين	hybride computer
+حافظ حراري	thermos
+حافظة	armature / keeper / yoke
+حافظة المغنطيس	keeper armature / magnetic armature
+حافظة مغنطيسية	magnetic keeper
+حافة	edge
+حافة الامتصاص	absorption edge
+حاكمة حرارية	thermorelay
+حاكي	phonograph
+حاكي (ال...)	phonograph
+حالات (ال...) المكماة (ن)	quantized states
+حالات إلكترونية متموضعة	localized electron states
+حالات المادة	states of matter
+حالات ضحلة	shallow states
+حالات طاقية	energy states
+حالات متقابلة	corresponding states
+حالة	state
+حالة (ال...) الدنيا (ن)	ground state
+حالة أحادية	singlet state
+حالة أساسية	normal state
+حالة أساسية؛ حالة دنيا	fundamental state
+حالة استقرار	steady state
+حالة افتراضية	virtual state
+حالة تجمُّع	state of aggregation
+حالة تكورية	spheroidal state
+حالة تهييج	excited state
+حالة ثلاثية	triplet state
+حالة حرجة	critical state
+حالة حشد	state of aggregation
+حالة دنيا	ground state
+حالة دورانية	rotative state
+حالة ذاتية	eigen state / eigenstate
+حالة ذرية (ن)	atomic state
+حالة زجاجية	vitreous state
+حالة شبه مستقرة	metastable state
+حالة شبه مستقرة (ن)	metastable state
+حالة صلبة	solid state
+حالة عادية	normal state
+حالة غَروية	colloidal state
+حالة غير متفككة (ن)	non-degenerated case
+حالة كمومية	quantum state
+حالة لزوجة	viscous sate
+حالة مُثارَة	excited state
+حالة مجانسة (ن)	isomeric state
+حالة مجهرية	microscopic state
+حالة مختلطة	mixed state
+حالة مستقرة	steady state
+حالة مقيدة	bound state
+حالة ممكنة	possible state
+حالة وسطية	intermediate state
+حالة وسيطة	intermediate state
+حامل	bearer / carrier
+حامل الحرارة العضوي	organic heat carrier
+حامل الشحنة	carrier of charge / charge-carrier
+حامل اللون	chromophore; color-carrier; coulour-carrier
+حامل ثلاثي	tripod
+حاملات أقلية	minority carriers
+حاملات أكثرية	majority carriers
+حبات رسم ضوئي	photographic grain
+حِبال صوتية	vocal cords
+حبّة	grain
+حُبيبة المستحلب	grain of the emulsion
+حُبَيبَة بِلَّورية	crystallite
+حبيبيّة المادة	granularity of matter
+حثّ	induction
+حث تزايدي	incremental inductance
+حثّ ذاتي	intrinsic induction / self-induction
+حثّ عادي	normal induction
+حث كهربائي	electric induction
+حث كهربائية	electrical induction
+حث كهرساكن	electrostatic induction
+حث كهرمغنطيسي	electromagnetic induction
+حث متبقّ	residual induction
+حث مغنطيسي	magnetic induction
+حث نووي (ن)	nuclear induction
+حِثِّيَة حَرِجَة	critical inductance
+حثّية ذاتية	self-inductance
+حجاب الصوارة	diaphragm of camera
+حجاب القزحية	iris diaphragm
+حجاب المجال	field stop
+حجاب، حظار	diaphragm
+حَجب	masking / screening
+حجب إلكتروني	electron screening
+حجب كهراكدي	electric screening
+حَجَر مغنطيسي	loadstone / lodestone
+حجرة التأين	ionization chamber
+حجرة الترداد	reverberation room
+حجرة السحاب	cloud chamber
+حجرة الشـرر	spark chamber
+حجرة الفقاقيع	bubble chamber
+حجرة سحاب عالية الضغط	high-pressure cloud chamber
+حجرة هوائية	air chamber
+حجرة ويلسن الضبابية	Wilson cloud chamber
+حجم	bulk / volume
+حجم (ال...) الحسّاس (ن)	sensitive volume
+حجم (ال...) في فضاء الطور	volume in phase space
+حجم المحلول الجزيئي	molecular solution volume
+حجم جزيئي غرامي	gram-molecular volume
+حجم جزيئي مولالي	molal volume / molar volume
+حجم حر	free volume
+حجم حرج	critical volume
+حجم حَرِج (ن)	critical volume
+حجم عياري	standard volume
+حجم لا انضغاطي	incompressible volume
+حجم مكافئ	covolume
+حجم نوعي	specific volume
+حجم نوعي (كتلي)	specific volume
+حجة	evidence
+حد الاقفال المحكم (ن)	interlock limit
+حد الامتصاص	absorption limit
+حدُّ الخضوع	yield point
+حد المرونة	elastic limit / yield strength
+حد المَيْز	limit of resolution
+حَدُّ إمتصاص	absorption edge
+حدّ حُبَيبِيّ	grain boundary
+حدّ متناسب	proportional limit
+حد مستقرى خارجيا	extrapolated boundary
+حَدَبة لا مركزية، تباعد مركزي	eccentric cam
+حَدَث	event
+حدث تأين أولي	initial ionizing event
+حدثان منفصلان	disjoint events
+حدّة	pitch
+حِدَّة البصر	acuity of vision / visual acuity
+حِدَّة التجاوب	sharpness of resonance
+حدّة الرنين	sharpness of resonance
+حِدَّة السمع	acuity of hearing
+حِدَّة نغمة	pitch of a tone
+حدود الحـُبيبات	grain boundaries
+حدود السمع	limits of hearing
+حدود بالمر	Balmer terms
+حدود لاتوافقية	anharmonic terms
+حدود مزاحة	displaced terms; anomalous terms
+حدوديات «لاغير»	Laguerre polynomials
+حدوديات ليجندر	Legendre polynomials
+حدوديات هيرميت	Hermite polynomials
+حدودية (كثيرة الحدود)	polynomial
+حديد	iron
+حديد االلب	iron-cored
+حديد ليِّن؛ حديد مطاوع	soft iron
+حديد متحرك	moving iron
+حديد مشغول	wrought iron
+حديد مطاوع	soft iron
+حذف	elimination
+حرارة	heat
+حرارة اشعاعية	radiant heat / radioactive heat
+حرارة الاحتراق	heat of combustion
+حرارة الاستحالة	heat of transformation
+حرارة الامتزاز	heat of adsorption
+حرارة الانتقال	heat of transition
+حرارة الانصهار	heat of fusion
+حرارة الانصهار الكامنة	latent heat of fusion
+حرارة الانصهار اللاطية	latent heat of fusion
+حرارة التأين	heat of ionization
+حرارة التبخر	heat of evaporation / heat of evaporation; heat of vaporization / heat of vaporization
+حرارة التبخر الكامنة	latent heat of vaporization
+حرارة التبخر اللاطية	latent heat of vaporization
+حرارة التبخير، حرارة التبخّر	vaporization (heat of…)
+حرارة التجمد	heat of solidification
+حرارة التجمع	heat of aggregation
+حرارة التخفيف الكلية	integral heat of dilution
+حرارة التذرير	heat of atomization
+حرارة التسامي الكامنة	latent heat of sublimation
+حرارة التصلب	heat of solidification
+حرارة التعادل	heat of neutralization
+حرارة التعديل	heat of neutralization
+حرارة التفاعل	reaction heat
+حرارة التكثف	heat of condensation
+حرارة التكون	heat of formation; heat of combination
+حرارة التميّه	heat of hydration
+حرارة التنشيط	heat of activation
+حرارة الربط	heat of linkage
+حرارة المحلول	solution heat
+حرارة المحلول التفاضلية	differential heat of solution
+حرارة المحلول الكلية	integral heat of solution
+حرارة المشاركة	heat of association
+حرارة بيضاء	white heat
+حرارة جزيئية مولالية	molar heat / molecular heat
+حرارة ذرية	atomic heat
+حرارة شوتكي النوعية	Schottky specific heat
+حرارة كامنة	latent heat
+حرارة كلّية	total heat
+حرارة لاحقة (ن)	after-heat
+حرارة لاطية	latent heat
+حرارة متبقية	afterheat
+حرارة محسوسة	sensible heat
+حرارة نوعية	specific heat
+حرارة نوعية (كتلية)	specific heat
+حراري	caloric / caloric; thermic / thermal
+حرارية التعاكس	reversal temperature
+حرّاق بنسن	Bunsen burner
+حَرَج	criticality
+حَرِج (ن)	critical
+حرج عام (ن)	global criticality
+حرج فوري (ن)	prompt criticality
+حَرَج موقعي (ن)	local criticality
+حَرَجِية	criticality
+حَرْق الهليوم	helium burning
+حرق الوقود (ن)	fuel brun-out
+حركاتٌ قَدُوْرَة	commensurable motions
+حركة	Brownian movement / motion
+حركة القذائف	projectile motion
+حركة انتقالية	motion of translation
+حركة انسحابية	motion of translation / translational motion
+حركة اهتزازية	vibrational motion / vibratory motion
+حركة براونية	Brownian movement
+حركة تذبذبية	oscillatory motion
+حركة توافقية	harmonic motion
+حركة توافقية بسيطة	simple harmonic motion
+حركة توافقية متخامدة	damped harmonic motion
+حركة توافقية مخمّدة	damped harmonic motion
+حركة جسم صلب	motion of rigid body
+حركة جسيم	motion of particle
+حركة جملة مادية	motion of system
+حركة دائرية	circular motion
+حركة دائمة	perpetual motion
+حركة دائمة من النوع الأول	perpetual motion of the first kind
+حركة دائمة من النوع الثالث	perpetual motion of the third kind
+حركة دائمة من النوع الثاني	perpetual motion of the second kind
+حركة دردورية	vortex motion
+حركة دوّاميَّة	vortex motion
+حركة دورانية	motion of rotation / rotational motion
+حركة دورية	periodic motion
+حركة صدمّية	shock motion
+حركة ظاهرية	apparent motion
+حركة عابرة	transient motion
+حركة عاطلة	idle motion
+حركة عشوائية	random motion
+حركة لا دورانية	irrotational motion
+حركة لاتوافقية تقليدية	classical anharmonic motion
+حركة لولبية	helical motion
+حركة متسارعة	accelerated motion
+حركة مستقيمة	rectilinear motion
+حركة مستوية	plane motion
+حركة مطلقة	absolute motion
+حركة مُقَيَّدة	constrained motion / constrainted motion
+حركة مكافئية	parabolic motion
+حركة مكوكّية	shuttle movement
+حركة منتظمة	uniform motion
+حركة موجية	wave motion
+حركة نسبية	relative motion
+حركيات (ال...) الكهربائية	electrokinetics
+حركيات كهربائية، كهرحركيات	electrokinetics
+حَرَكية	mobility
+حركية الإلكترون	electron mobility
+حركية الانسياق	drift mobility
+حركية الأيونات	mobility of ions
+حركية الحاملات	mobility of carriers
+حركية أيونية	ionic mobility
+حَركيَّة حامل الشحنة	carrier mobility
+حركية هول	Hall mobility
+حُريرة	calorie
+حَزّ، تحزيز	striation
+حزّ؛ ثَلْم	stria
+حزاما الإشعاع	belts of radiation
+حزاما فان ألن	Van Allen belts
+حزم جزيئية	molecular beams
+حُزْمة	bundle; beam
+حُزْمَة (ن)	beam
+حزمة إشعاع	radiation beam
+حُزْمة أشعة المهبط	bundle of cathode rays
+حزمة الكترونية	electron beam
+حزمة أيونية	ion beam
+حزمة جزيئية	molecular beam
+حزمة دقيقة	pencil
+حُزْمَة ضوئية	beam of light
+حُزمة ضوئية لانقطية	astigmatic pencil of light
+حزمة ضيقة (ن)	narrow beam
+حزمة ضيقة من الأشعة	pencil of rays
+حزمة عريضة (ن)	broad beam
+حزمة غير مستقطِبة	unpolarized beam
+حزمة مبعثَرَة	scattered beam
+حزمة مسح	scanning beam
+حزمة منعكسة	reflected beam
+حزمة منكسـرة	refracted beam
+حزمة موجية	waveband
+حزمة واردة	incident beam
+حزمة وحيدة اللون	monochromatic beam
+حزوز	striae
+حساب الارتياب	calculation of the incertitude
+حسّاس	sensitive
+حساس ضوئي	light-sensitive; photo-sensitive
+حساس ضوئيا	photo sensitive
+حسَّاس للإشعاع	radiation sensitive
+حساسية	sensitivity
+حسّاسية (ن)	sensitivity
+حساسية اشعاعية	radiosensitivity
+حساسية التباين	contract sensitivity
+حساسية العتبة	threshold sensitivity
+حساسية العين الطيفية	spectral sensitivity of eye
+حساسية اللمع	luminous sensitivity
+حسّاسية الميزان	sensitivity of balance
+حساسية طيفية	spectral sensitivity
+حساسية لونية	panachromatic
+حساسية مجال حر	free field sensitivity
+حَسـر البصـر، قِصـر البصـر	myopia
+حسن التعديل (ن)	well moderated
+حسن لوني	color sensation; colour sensation
+حشد مجموعة انخلاعات	piled-up group
+حشد؛ عنقود	cluster
+حصان بخاري	horse power
+حضيض المدار حول الشمس	perihelion
+حِظار	diaphragm / stop
+حِظار الحقل	field stop
+حِظار قزحي	iris diaphragm
+حفر فوتوغرافي	photogravure
+حفظ الاحتمالية (ن)	conservation probability
+حفظ الزَّخْم	conservation of momentum
+حفظ الزَّخْم الزاوي	conservation of angular momentum
+حفظ الطاقة	conservation of energy
+حفظ تحريكي (دينمي)	dynamic pressure
+حقل	field
+حقل (ن)	domain
+حقل الإشعاع	radiation field
+حقل الثَّقالة	gravity field
+حقل الرؤية	field of view
+حقل القوة	field of force
+حقل تثاقلي	gravitational field
+حقل حر	free field
+حقل فايس الجزيئي	Weiss molecular field
+حقل قاهر	coercive field
+حقل قريب	near field
+حقل كَهْراكدي	electrostatic field
+حقل كهربائي	electric field
+حقل كهرطيسي	electromagnetic field
+حقل كولوني	coulomb field
+حقل محافِظ	conservative field
+حقل مركزي	central field
+حقل مزيل للمغنطة	demagnetizing field
+حقل مغنطيسي	magnetic field
+حقل مغنطيسـي ساكن	magnetostatic field
+حقل منتظم	uniform field
+حقل هول الكهربائي	Hall electric field
+حقن	injection
+حَقْن بالبورون (ن)	boron injection
+حقيقي	real
+حل خاص	particular solution
+حُلالة	sol
+حُلالة هوائية	aerosol
+حلب (ن)	milking
+حلزون	helix
+حلزون النمو	growth spiral
+حلزون كورنو	Cornu spiral / clothoid
+حلقات تساوي الميل	rings of equal inclination
+حلقات نيوتن	Newton rings / Newton's rings
+حلقة	ring
+حلقة إحكام	O-ring
+حلقة التثبيت	retaining ring
+حلقة دردورية	vortex ring; collar vortex
+حَلَقّي	annular
+حمّال (ن)	carrier
+حمال المعيق (ن)	hold-back carrier
+حماية حرارية	thermal protection
+حِمْل	convection / load
+حِمْل الحرارة	convection of heat
+حمل حثّي	inductive load
+حَمل حراري	heat convection / thermal convection
+حمل زائد	overload
+حِمْل سعوي	capacitive load
+حمل طبيعي	natural convection
+حمل قسري	forced convection
+حِمْل مقاومي	resistive load
+حِمْل مواءَم	matched load
+حمولة افتراضية	dummy load
+حمولة؛ حِمْل	load
+حوافظ مغنطيسية	magnetic keepers
+حوض	cistern
+حوض (ن)	pool
+حوض التكثيف (ن)	condensation pool
+حوض المفاعل	reactor vessel
+حوض الوقود المستهلك	spent fuel pool
+حوض ترقيد	settling basin
+حَوَل	strabismus
+حَيْدُ الضوء	bending or diffraction of light
+حيد بفتحة دائرية	circular apeture diffraction
+حيد شق ضيق	narrow slit diffraction
+حيد فرنل	Fresnel diffraction
+حيز (ال...) الزماني - المكاني المطلق	absolute space-time
+حيز الامْتِزاز	adsorption space
+حيّز التجاذب	sphere of attraction
+حيّز خلالي	interstice
+حيز فارادي المظلم	Faraday dark space
+حيود	diffraction

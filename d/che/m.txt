@@ -1,0 +1,415 @@
+maceration	نقْع، مرْس
+machine	ماكنة، مكنة، آلة
+machine (shaking...)	ماكنة رجّاجة، آلة رجّاجة
+macro	ضخْم، كبير
+macro analysis	تحليل كِبْريّ
+macro-	كِبْريّ، جَهْرِيّ، عياني: سابقة
+macroanalysis	تحليل عادي
+macrochemistry	كيمياء عيانية
+macromolecule	جزيء كِبْريّ
+macromolecules	جزيئات ضخمة
+macroscopic	عياني / عِيانيّ، جَهْرِيّ
+macroscopic properties (of solutions)	خصائص عينة، خصائص مرئية (للمحاليل)
+macroscopic structure	بنية عيانية، بنية ماكروسكوبية
+macrostate	حالة عِيانيّة (جَهْرِيّة)
+macrostructure	بِنْيَة كِبْريّة (جَهْرِيّة)
+magnesia	مغنيزيا، مغنيسيا / مغنيزيا
+magnesite	مغنيزيت
+magnesium	مغنزيوم، مغنيسيوم / مغنيزيوم
+magnet	مغنطيس
+magnetic	مغناطيسي / مغنطيسي
+magnetic dipole	ثنائي قطب مغنطيسي
+magnetic dipole moment	عزمُ ثنائيِّ القطبِ المغنطيسي
+magnetic field	حقل مغناطيسي، مجال مغناطيسي / حقل مغنطيسي
+magnetic moment	عزم مغناطيسي / عزم مغنطيسي
+magnetic optical polarization	استقطاب بصري مغناطيسي
+magnetic polarization	استقطاب مغناطيسي
+magnetic pole	قطب مغنطيسي
+magnetic quantum number	العدد الكمومي المغنطيسي
+magnetic resonance	تجاوب (رنين) مغنطيسي
+magnetic scanning	مسح مغنطيسي
+magnetic spin	لف (ال...) الذاتي المغناطيسي
+magnetic stirring	تقليب مغناطيسي
+magnetic susceptibility	طواعية مغنطيسية
+magnetism	مغنطيسية
+magnetite	مغنيتيت
+magneto-optical rotation	دوران مغناطيسي بصري (لمستوى الأقطاب)
+magnetochemistry	كيمياء مغناطيسية
+maintenance	صيانة
+maize oil	زيت الذرة
+malachite	ملاكيت
+maleic acid	حمض المالييك
+maleic anhydride	بلا ماء المالييك
+malleability	طروقية، قابلية الطرق / قابلية التصفيح
+malleable	طروق، قابل للطرق / قابل للتصفيح
+maltase	مالتاز
+maltose	ملتوز، سكر شعير / مالتوز
+manganate	منغنات
+manganese	منغنيز
+manganic acid	حمض المنغنيك
+manganite	منغنيت
+manipulation	معالجة
+Mannich reaction	تفاعل مانّيش
+mannitol	مانّيتول
+mannose	مانّوز
+mannuronic acid	حمض المانّورونيك
+manometer	مقياس الضغط، مانومتر / مقياس الضغط
+manual	يَدَوي
+maple sugar	سكّر القَيقَبْ
+marble	رخام / مرمر
+Marcovinkov's rule	قاعدة مركوفينكوف
+Marcovnicov's rule	قاعدة ماركوفنيكوف
+Marsh test	اختبار مارش
+marsh-gas	غاز المستنقعات
+mask	قناع
+masking agent	حاجب، عميل تقنيع
+mass	كتلة / كُتْلة
+mass action	فعل الكتلة
+mass action law	قانون فعل الكُتْلة
+mass defect	نقص الكُتْلة
+mass number	عدد الكتلة / العدد الكُتْلي
+mass spectrogram	مخطط طيف الكُتْلة
+mass spectrograph	مطياف الكتلة / مِطياف الكُتْلة
+mass spectrography	تخطيط طيف الكُتْلة
+mass spectrometer	مقياس طيف الكُتْلة
+mass spectrometry	قياس طيف الكُتْلة
+mass spectroscope	منظار طيف الكُتْلة
+mass spectroscopy	تنظير طيف الكُتْلة
+mass spectrum	طيف الكتلة / طيف الكُتْلة
+massive	جَسيم، كُتْلي
+mastic	صمغ المصطكا
+mastocyte	خلية بدينة
+mat	كامد
+mate leaves	أوراق المتّة
+material	مادّة، مادّي
+material (s)	مادة (مواد)
+matrix	حامل
+matte	كامد، مُرَكَّب سلفيدي
+matter	مادة
+maturation	نضْج، إنضاج
+mature	ناضج، راشد
+maximum	نهاية عضمى، حدّ أعلى
+mean	وسطي، متوسط
+mean free path	مسار حر وسطي
+measu ring cylinder	أسطوانة مدرجة، أسطوانة قياس
+measurable	مَقيس
+measure	مقياس / قياس، تدبير
+measure (to)	قَاسَ
+measurement	قياس
+measurement (s)	قياس (قياسات)
+measurement error	خطأ القياس
+measuring cup	كوب قياس
+measuring flask	دورق مُدوَّج
+measuring vessel	وعاء مدرَّج
+mechanical	ميكانيكي، آلي
+mechanical equivalent of heat	مكافىء ميكانيكي للحرارة / المكافئ الميكانيكي للحرارة
+mechanical stirring	تقليب ميكانيكي
+mechanism	ميكانيكية التفاعل، آلية التفاعل / آليّة
+mechanism of reaction	آليّة التفاعل
+mechanization	مكننة، إوالة
+media	أوساط
+median	مُنَصِّف، متوسط
+mediator	وسيط، قائم بالوساطة / وسيط
+medicinal oil	زيت دوائي
+medium	وسط
+melamine	ميلامين
+melanin	ميلانين
+melt	صهارة، مصهور / صُهارة
+melting	انصهار / انصهار، صهر
+melting point	نقطة الانصهار / درجة حرارة الانصهار
+membrane	غشاء
+membrane electrode	إلكترود (مسرى) غشائي
+Mendeleef's law	قانون مندلييف
+Mendeleiev	مندليف
+Mendeleiev's table	جدول مندليف
+meniscus	سطح هلالي / هلالة
+menthane	منتان
+menthene	منتين
+menthol	منتول
+menthone	منتون
+mercaptal	مركبتال
+mercaptan	مركبتان
+mercerization	مَرْسَرَة
+mercuration; mercurization	زأبقة
+mercurialism	تسمُّم بالزئبق
+mercuric	زئبقي / زئبق II
+mercuric carbonate (basic)	كربونات الزئبق القاعدية، كربونات الزئبقيك القاعدية
+mercurous	زئبق I
+mercury	زئبق
+mercury amalgam	مًَلغَم الزئبق
+mercury cell	خلية زئبقية
+mesh	عين
+mesityl oxide	أكسيد المِزيتيل
+meso compound	مُرَكَّب ميزو
+meso-	ميزو: سابقة
+mesomeric	ميزوميري
+mesomerism	ميزوميرية
+messenger (m R.N.A.)	رسول R.N.A(حامض الريبونيوكلييك)، ناقل R.N.A(حامض الريبونيوكلييك)
+messenger RNA	الرنا المرسال
+meta	ميتا
+meta-	ميتا: سابقة
+metabisulfite	ميتا بيسلفيت
+metabolic	استقلابي
+metabolism	استقلاب
+metabolite	مستقلَب
+metabolites	مستقلبات
+metal	فلزّ / فلز
+metal failure	عجز المعدن، إخفاق المعدن
+metal foil	رقيقة معدنية، رقيقة فلزية
+metallic	فلزّي
+metallic bond	رابطة فلزّيّة
+metallic bonding	ترابط فلزي، ترابط معدني
+metallic soap	صابون فلزي
+metallization; metallizing	معدنة
+metallography	علم المعادن، ميتالوغرافية
+metalloid	شبه فلز، شبه معدن / شبه فلز
+metalloorganic	مُرَكَّبات عضويات فِلزيَّة
+metalloporphyrin	بورفيرين فلزِّي
+metalloprotein	بروتين فلزّي
+metallurgy	علم التعدين / تعدين
+metamere	مثيل، متماثل
+metamerism	تماثلية
+metaphosphoric acid	حمض الميتافسفوريك
+metaprotein	بروتين متبدل
+metasilicate	ميتا سيليكات
+metasilicilic acid	حمض الميتا سيليسيليك
+metastable	شبه مستقر / قلِق
+metastable compound	مركب شبه مستقر، مركب قلق
+metastable equilibrium	توازن شبه مستقر
+metastasis	تنقّل
+metathesis reaction; double replacement	تفاعلات تبادلية، تفاعلات تبادل، تبادل مزدوج، تفاعل كيميائي مزدوج التبادل
+meter	متر: وحدة قياس
+methacrolein	ميتاكروليين
+methacrylate	ميتاكريلات
+methacrylic acid	حمض الميتاكريليك
+methane	ميتان، ميثان / ميتان
+methane series	زمرة الميتان
+methanoic acid	حمض الميتانويك
+methanol	ميتانول
+methemoglobin	ميتيموغلوبين
+methide	ميتيد
+methionic acid	حمض الميتيونيك
+methionine	ميتيونين
+method	طريقة
+methoxy	ميتوكسي
+methoxyl	ميتوكسيل
+methyl	متيل، مثيل / ميتيل
+methyl acetate	أسيتات الميتيل
+methyl alcohol	غَوْل ميتيلي
+methyl cellulose	سيلولوز ميتيلي
+methyl chloride	كلوريد الميتيل
+methyl group	مجموعة الميتيل
+methyl orange	برتقالي الميتيل
+methyl red	أحمر الميتيل
+methyl salicilate	ساليسيلات الميتيل
+methyl violet	بنفسجي الميتيل
+methylamine	ميتيلامين
+methylation	متيلة / مَتْيَلة
+methylene	ميتيلين
+methylene blue	أزرق الميتيلين
+methylene chloride	كلوريد الميتيلين
+mica	ميكا، بلق / ميكا
+mica-shist	شيست ميكي، بلق ميكي
+micelle	جزيء غرواني / فَتيتة، مُذيلة
+micro-	دقيق، ميكرو / صِغْرِيّ، مجهري، مِكرو: سابقة
+micro-analysis	تحليل مجهري، تحليل ميكروئي
+micro-organism	كائن حي مجهري
+microanalysis	تحليل صِغْريّ
+microbalance	ميزان صِغْريّ
+microbe	ميكروب، جرثوم
+microchemistry	كيمياء ميكروئية، كيمياء دقيقة / كيمياء مجهرية (مِكروية)
+microcrystalline	حبيبة بلورية مجهرية
+microfiltration; ultrafiltration	ترشيح ميكروئي، ترشيح دقيق
+micrometer	مِكرومتر
+microorganisms	أحياء دقيقة (مجهرية)
+micropipett	ممص صِغْرِيّ
+microscopic	مجهري
+microscopic properties	خصائص مجهرية (للمحاليل)، خصائص ميكروئية (للمحاليل)
+microstate	حالة مِكروية (مجهرية)
+microstructure	بنية مِكروية (مِجْهرِيّة)
+microwave	موجة مِكروية
+microwave spectroscopy	مطيافية الأمواج المكروية
+middle distillates	قطارات وسطى
+middle oils	زيوت وسطى
+migration	هجرة
+migration of ions	هجرة الأيونات
+mild alkalis	قلويات خفيفة
+mildew	عفن
+milk of lime	لبن الكلس، لبن الجير / لَبَنُ الكلس
+milk of magnesia	لَبَنُ المغنيزيا
+mill	طاحون، مطحنة
+milli-	مِلّي-
+mine gas	غاز المناجم
+mineral	معدني / معدن
+mineral (petroleum) naphta	نفط معدني
+mineral oil	زيت معدني
+mineral water	ماء معدني
+mineralization	تمعدُن، تعدين، تفليز
+mineralogy	علم المعادن
+minima	قيم أصغرية
+minimum	نهاية صغرى / أصغري
+minute	دقيقة
+miscibility	مَزُوجِيّة، قابلية الامتزاج
+miscible	مَزُوج
+miscible liquids	سوائل مَزُوجة
+misciblility	مَزوجية
+mist	سديد، ضباب
+mitochondria	مايتوكوندرية / متقدّرات، حبيبات خيطية
+mitosis	انقسام خيطي
+mix (to)	خَلَط، مَزَج
+mixed acid	حمض مختلط
+mixed indicator	مُشعر مختلِط
+mixed salt	ملح مختلِط
+mixer	خلاط، مازج
+mixing	خَلْط
+mixture	خليط، مخلوط، مزيج / خليط
+mks system	الجملة المكثية
+mobile liquid	سائل رجراج، سائل متحرك
+mobility	حروكية / حركية
+model	أنموذج، نموذج / طِراز
+moderator	مهدِّىء
+modification	تحوير
+modifications	تحويرات
+modified soda	صودا محورّة
+modifier	محوِّر
+modulus of elasticity	مُعامل المرونة
+Mohr's salt	ملح مور
+moist	رطْب
+moisture	نداوة، رطوبة
+moisture content	محتوى الرطوبة
+moisture determination	تعيين الرطوبة
+moisture; moistness	رطوبة
+mol	مول، جزيء غرامي
+molal	مولال / مولي وزني
+molal soltuion	محلول جزئي غرامي وزني
+molal solution	محلول مولي وزني
+molal volume; molar volume	حجم الوزن الجزيئي الغرامي
+molality	مولالية، تركيز مولالي وزني / موليّة وزنيّة
+molar	مولار / مولي حجمي
+molar concentration	تركيز مولي
+molar conductance	توصيل مولي أو مولاري، نقل مولي أو مولاري
+molar equivalent	مكافىء مولي
+molar fraction; mole fraction	كسر مولي
+molar heat	حرارة مولية، حرارة جزئية
+molar heat capacity	سعة حرارية مولية، سعة حرارية جزئية
+molar solution	محلول مولي / محلول مولي حجمي
+molarity	مولارية، تركيز مولي حجمي / موليّة حجميّة
+molasse	مولاس
+molasses	مولاس
+molding	قُوْلَبَة
+mole	مول
+mole fraction	كَسْرٌ موليٌّ
+mole fraction; molar fraction	كسر مولي
+molecualr structure	بنية جزيئية
+molecular	جزيئي
+molecular adsorption	امتزاز جزيئي
+molecular association	تجمع جزيئي
+molecular attraction	تجاذب جزيئي
+molecular biology	بيولوجيا جزيئية
+molecular chains	سلاسل جزيئية
+molecular compound	مركب جزيئي
+molecular conductivity	توصيلية جزيئية، موصلة جزيئية، ناقلة جزيئية
+molecular crystals	بلورات جزيئية
+molecular decomposition	تحلل جزيئي
+molecular depression constant	ثابت الخفض الجزيئي
+molecular dissociation	تفكك جزيئي
+molecular distillation	تقطير جزيئي
+molecular elevation constant	ثابت الرفع الجزيئي
+molecular equation	معادلة جزيئية
+molecular formula	صيغة جزيئية
+molecular gas constant	ثابت الغاز الجزيئي
+molecular geometry	هندسة جزيئية
+molecular heat	حرارة جزيئية
+molecular model	أنموذج جزيئي / نموذج جزيئي
+molecular orbital	مداريّ جزيئي
+molecular reaction	تفاعل جزيئي
+molecular sieve	منخل جزيئي
+molecular spectrum	طيفٌ جزيئيٌّ
+molecular structure	بنية جزيئية
+molecular theory	نظرية جزيئية
+molecular volume	حجم جزيئي
+molecular weight	وزن جزيئي
+molecular-orbital theory	نظرية المدارات الجزيئية، نظرية الفلك الجزيئي
+molecularity	جزيئية
+molecularity of reaction	جزيئية التفاعل
+molecule	جزيء
+Molish test	اختبار موليش
+molybdenum	موليبدنوم، موليبدين / موليبدن
+moment	عزم / عزمٌ
+momentum	زخم، اندفاع، كمية الحركة / اندفاع
+Monel metal	معدن مونِل
+mono	أحادي، واحد
+mono-	أحادي
+monoacid	حمض أحادي
+monoatomic	أحادي الذرة
+monobasic	أحادي القاعدية
+monochromatic	وحيد اللون
+monochromatic radiation	إشعاع وحيد اللون
+monochromator	مستفرد اللون
+monoclinic	أحادي الميل
+monoclinic system	جملة أحادية الميل
+monocyclic	أحادي الحلقة، وحيد الحلقة / أحادي الحلقة
+monofilament	شعيرة أُحادية
+monoglyceride	غليسريد أحادي
+monohydric	أحادي الهيدروجين، أحادي الهيدروكسيد
+monoisotopic	أحادي النظير، وحيد النظير
+monolayer	طبقة أحادية
+monomer	أحادي الحد، مونومير / موحود، أُحاديُّ الحدّ, (مونومير)
+monomolecular film	رقاقة أحادية الجزيء
+mononucleotide	نكلوتيد أحادي
+monophosphate	أحادي الفسفات
+monoprotic acid	حمض أحادي الهيدروجين
+monosaccharide	أحادي السكاريد
+monosaccharides	سكريات أحادية
+monotone	رتيب
+monotropy	أحادية الشكل (التوجّه)
+monovalent	أحادي التكافؤ
+monovariant	أحادي المتحول
+monoxide	أحادي أكسيد
+mordant (s)	مرسخ (مرسخات)، قابض (قوابض)
+mordant dye	صِبْغُ مرسِّخ
+morphine	مورفين
+morphology	علم الأشكال، مورفولوجيا
+mortar	ملاط، هاون / هاون، مِلاط
+mother-liquor	السائل الأم
+motile	متحرك
+motion	حركة
+motive	دافع
+motive energy	طاقة دافعة
+motor	محرِّك
+mould	قالب
+movement	حركة
+mucic acid	حمض الموسيك
+mucigen	مولِّد الموسين
+mucin	موسين، مخاطين
+mucopolysaccharide	عديد السكاريد الموسيني
+mucoprotein	بروتين موسيني
+mucosa	مخاطية
+mucus	مخاط
+mucus membrane	غشاء مطاطي
+mud	وحل، طين
+muffle furnace	أتون
+multi	مضاعف، عديد، كثير، متعدد
+multicomponent	متعدد المكونات
+multielectron atoms	ذرات عديدة الالكترونات، ذرات متعددة الالكترونات
+multilayer	متعدد الطبقات
+multiple	متعدد
+multiple bonds	روابط مضاعفة، روابط متعددة
+multiple covalent bonds	روابط تساهمية مضاعفة، روابط مشتركة متعددة
+multiple effect	متعدد التأثير
+multivalent	عديد التكافؤ، متعدد التكافؤ
+Muntz metal	معدن مونتز
+muriatic acid	حمض المورياتيك
+musk	المسك
+mustard	خردل
+mustard gas	غاز الخردل
+mustard gas; yprite	غاز الخردل
+mustard oil	زيت الخردل
+mutagenic agent	عميل مطفّر
+mutamerism	مَتْمَرة
+mutarotation	دوران تبديلي / تدويرٌ متبدِّل
+mutase	موتاز
+mycotoxin	ذيفان فطري
+myoglobin	ميوغلوبين
+myosin	ميوزين
+myristic acid	حمض الميريستيك

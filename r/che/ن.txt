@@ -1,0 +1,359 @@
+نابالم	Napalm / napalm
+نابذ	centrifugal
+نابذة فائقة السرعة	ultracentrifuge
+ناتج إضافة	adduct
+ناتج التفاعل	result
+ناتج التكاثف	condensate
+ناتج كمي	quatum yield
+ناتِج منقّى، منتج مكرَّر	refined product
+ناتج منقّى، نقاوة	rafinate
+ناتج نهائي، منتج نهائي	end product
+ناتريوم	natrium
+نادر	rare
+نار، حريق	fire
+ناري، حراري: سابقة	pyro-
+نازع للماء، مبلمة	dehydrant
+نازل	descending
+ناشرٌ للحرارة	exothermal
+ناشر للحرارة، باعث للحرارة	exothermic
+ناصع	bright
+ناضج، راشد	mature
+ناطفُ الحوت، شمعُ العنبر	spermaceti
+ناعم	fine
+ناقص التوتر	hypotonic
+ناقل الحديد	transferrin
+ناقلية حدية	limiting conductivity
+ناقلية كهربائية	electrical conductivity
+ناقوس تفريغ زجاجي	vacuum bell-jar
+ناقوس زجاجي	bell jar
+نانو : سابقة	nano-
+نانومتر	nanometer
+نايلون	nylon
+نايلون، نيلون	nylon
+نباذة	centrifuge / ultracentrifuge
+نبت، إنبات، استنبات	germination
+نبتونيوم	neptunium
+نبضة، دفعة	impulse
+نبيت، نباتات منطقة	flora
+نبيل	noble
+نتاج، خرج، مُخْرَج	output
+نتاج، منتَج	product
+نتْح	transpiration
+نترات	nitrate
+نترات الأمونيوم	ammonium nitrate
+نترات البوتاسيوم	potassium nitrate
+نترات الصوديوم	sodium nitrate
+نترات الفضة	silver nitrate
+نتراميد	nitramide
+نترامين	nitramine
+نترتة	nitration / nitrification / nitrosation
+نَتْرَجَ	nitrogenize (to)
+نترجة	nitration / nitrogenation
+نترزة	nitrosation
+نترو ألكان	nitro alkane
+نترو إيتان	nitroethane
+نتروبرسيد	nitroprusside
+نتروبنزين	nitrobenzene
+نتروتولوين	nitrotoluence / nitrotoluene
+نتروجين	nitrogen
+نتروجين، آزوت	nitrogen
+نتروجيني، أزوتي	nitrogenous
+نتروزو	nitroso
+نتروزو فِنول	nitrosophenol
+نتروزوامين	nitrosamine
+نتروسيلولوز	nitrocellulose
+نتروغليسرين	nitroglycerin / nitroglycerine
+نتروغوانيدين	nitroguanidine
+نتروفِنول	nitrophenol
+نتروميتان	nitromethane
+نترون	neutron
+نترون حراري	thermal neutron
+نتريت	nitrite
+نتريت الصوديوم	sodium nitrite
+نتريد	nitride
+نتريد، نترور	nitride
+نتريل	nitrile / nitryl
+نتيجة	result
+نجاعة، جدوى	efficiency
+نحاس	copper
+نحاس I	cuprous
+نحاس II (غير الفلز)	cupric
+نحاسي، نحاسيك	cupric
+نَخْلٌ	sieving
+نداوة، رطوبة	moisture
+ندّيّة	parity
+نزع الأسيل	deacylation
+نزْع الأكسجين	deoxidation; deoxygenation
+نزع الأكسدة	deoxidation
+نزع الألكيل	dealkylation
+نزع الأمين	deamination
+نزْع البروم	debromination
+نزع التمعدن	demineralization
+نزع الشمع	dewaxing
+نزع الفلورة	defluorination
+نزع الكاربوكسيل، خسْف الكاربوكسيل	decarboxylation
+نزع الكالسيوم	decalcification
+نزع الكبريت بالهدرجة	hydrodesulfurization
+نزع الكربوكسيل	decarboxylation
+نزع الكلسيوم	decalcification
+نزع الكلور	dechlorination
+نزع الكوك	decoking
+نزع الكيلي	dealkylation
+نزَع الماء، بَلْمَهَ	dehydrate (to)
+نزْع الماء، بلمهة	dehydration
+نزع المثيل	demethylation
+نزع المركبات الكبريتية، نزع الكبريتية	desulfurization; desulphurization
+نزع النتروجين، نزع الآزوت	denitrifying
+نزْع الهالوجين	dehalogenation
+نزْع الهيدروجين	dehydrogenation
+نزْع هيدرو الهالوجين	dehydrohalogenation
+نزع، إزالة: سابقة	de-
+نزْع، تقطير أولي	stripping
+نزعة	trend
+نزْغ بالبخار	steam stripping
+نسبة	ratio
+نسبة الترابط	packing fraction
+نسبة الراجع	reflux ratio
+نسبة تابثة	fixed proportion
+نسبة مئوية	percentage
+نسبة متبادلة	reciprocal proportion
+نسبة متكافئة	equivalent proportion
+نسبة مُدارة	recycle ratio
+نسبة، تناسب	proportion
+نسبي	relative
+نسبية	relativity
+نسْج، تكوين، نسيج	texture
+نسخ	transcription
+نسخ .D.N.A	replication of D.N.A
+نسخة	duplicate
+نسيج	textile
+نسيج مرشِّح	lawn
+نَسِيْلَة	clone
+نشا	starch
+نشاء	starch
+نشاء الكبد، غليكوجين	liver starch
+نشاط إشعاعي	radioactivity
+نشاط إشعاعي اصطناعي	radioactivity (artificial...)
+نشاط إشعاعي طبيعي	radioactivity (natural...)
+نشاط الجزىء	activity of molecule
+نشاط كيميائي	chemical activity
+نشاط، فعّاليّة	activity
+نشافة	blotter
+نشدرة	ammonolysis
+نَشَطَ	activate (to)
+نشوء الغلوكوز	gluconeogenesis
+نشوء الغليكوجين	glycogenesis
+نشيط، فعّاّل	active
+نصف	semi-
+نصفُ اصطناعي	semi synthetic
+نصف الحياة، عمر النصف	half-life (t1-2)
+نصف تفاعل	half-reaction
+نصف تفاعل، تفاعل نصفي	half-reaction
+نصف خلية	half-cell
+نصف سائل	half-fluid
+نصفُ قطبي	semipolar
+نصف قطبي، شبه قطبي	semipolar
+نصف قطر	Bohr radius / radius
+نصف قطر الأيون	ionic radius (the...)
+نصف قطر التراص	packing radius
+نصف قطر بور	bohr radius
+نصف قطر ذري	atomic radius
+نصف مجهري، نصف ميكروي	semi-micro
+نصف موصل سالب، نصف ناقل سالب	negative semiconductor (N-type)
+نصف موصل موجب، نصف ناقل موجب	positive semiconductor (p-type)
+نصف ناقل	semiconductor
+نصف نَفوذ، نصف منفِد	semi-permeable
+نصف، شبه	semi-
+نصف، نصفي: سابقة	hemi-
+نصوع	brightness
+نضْج	ripening
+نضْج، إنضاج	maturation
+نَضْحٌ خارجي	exosmosis
+نَضْحٌ داخليّ	endosmosis
+نطرون	natron / niter (nitre)
+نظام	system
+نظام أحادي (المركبة)	unary
+نظام بلوري	crystal system
+نظام بيئي	ecosystem
+نظام ثلاثي	trimetric system
+نظام ثلاثي المتغيرات	trivariant system
+نظام جنيف	Geneva system
+نظام دوري	periodic system
+نظامي، عياري, طبيعي، عمودي	normal
+نظامية، عيارية	normality
+نظري	theoretical
+نظرية	theory
+نظرية (ال...) الحركية للغازات	kinetic theory of gases
+نظرية (ال...) الموجية	wave theory
+نظرية (ال...) النسبية	relativity (theory of) / theory of relativity (the...)
+نظرية أرينيوس	arrhenius theory; of acids and bases
+نظرية الأوتار	string theory
+نظرية التكافؤ	valency theory
+نظرية التكافؤ الالكترونية، نظرية الكترونية للتكافؤ	electronic theory of valency
+نظرية الثُّمانيات	octet theory
+نظرية الحالة الانتقالية	transition - state theory
+نظرية الحقل البلوري	crystal field theory
+نظرية الحقل الرابط، نظرية المجالات المتصلات، نظرية الحقل اللاقط	ligand-field theory (the...)
+نظرية الفلوجستون	phlogiston theory
+نظرية الفلوجيستون	phlogiston theory
+نظرية الكم	quantum theory
+نظرية المدارات الجزيئية، نظرية الفلك الجزيئي	molecular-orbital theory
+نظرية النظام المذيب، نظرية جملة المحلّ	solvent-system theory of acids and bases
+نظرية أنساجر للتوصيل	Onsager's conductance theory
+نظرية برونستد لاوري للحموض والقواعد	Bronsted-Lowry acide-base theory
+نظرية بور	Bohr theory
+نظرية بور-زومرفلد	Bohr-Sommerfeld theory
+نظرية جزيئية	molecular theory
+نظرية دالتون	Dalton's theory
+نظرية دالتون الذرية	Dalton's atomic theory
+نظرية دفع الأزواج الالكترونية في طبقة التكافؤ	VSEPR Theory
+نظرية ديباي - هوكل	Debye-Huckel theory
+نظرية ديباي- هَكِل	Debye-Huckel theory
+نظرية ذرية	atomic theory
+نظرية رابطة التكافؤ	valence-bond theory
+نظرية فرنر	Werner's theory
+نظرية لويس- لنغموير	Lewis-Langmuir theory
+نظَّمَ	normalize (to)
+نظير	isotope
+نظير ثقيل	heavy isotope
+نظير خفيف	light isotope
+نظير مشعّ	radioisotope
+نظيري	isotopic
+نعومة	fineness
+نغاترون	negatron
+نفّاث، نفث	jet
+نفاذية، قابلية النفاذ	permeability
+نفايات، فضلات	offal
+نفاية (ال...) القلوية	alkali waste
+نُفاية حمضية	sludge acide
+نُفاية كيميائية	waste, chemical
+نفتا	naphtha
+نفتاسين	naphthacene
+نفتالات	naphthalate
+نفتالين	naphtalene; naphtaline / naphthalene
+نفتول	naphthol / naphtol
+نفتيل	naphthyl
+نفتين	naphthene
+نَفْثٌ	jet
+نفَخَ	blow (to)
+نفْخ الزجاج	galss blowing
+نفط	naphta / petrolum
+نفط خام	crude naphta
+نفط معدني	mineral (petroleum) naphta
+نِفط، بترول	petroleum
+نفوذ	permeable
+نفوذية	permeability
+نفور	repellency
+نَفُور من المذيب	lyophobic
+نَقّال	conveyer
+نقاوة	purity
+نقص الكُتْلة	mass defect
+نقصان كتلي نووي	nuclear mass defect
+نقض الاستحلاب	deemulsification
+نقضُ المستحلَب	emulsion breaking
+نقطة (ال...) النهائية العليا	high end-point
+نقطة الانصباب، نقطة الانسكاب	pour point
+نقطة الانصهار	melting point
+نقطة الانصهار اللامتطابق	peritectic point
+نقطة الانصهار الموافقة	congruent melting point
+نقطة الانصهار غير الموافقة	incongruent melting point
+نقطة الانعقاد	congealing point
+نقطة الإيقاد	ignition point
+نقطة التجمد، درجة التجمد	freezing point
+نقطة التساوي الكهربائي، نقطة التكافؤ الكهربائي	isoelectric point
+نقطة التصلّد، نقطة اليوتيكية	eutectic point
+نقطة التفكك	dissociation point
+نقطة التكافؤ	equivalence point
+نقطة التليّن (التطرية)	softening point
+نقطة التهلّم	gel point
+نُقْطَة الثلج	snow point
+نقطة الجفاف	dry point
+نقطة الخمود، نقطة التعادل	dead point; dead centre
+نقطة السكون	rest point
+نقطة الصفر	zero point
+نقطة الغليان	boiling point
+نقطة الغليان الدنيا	boiling point (minimum..)
+نقطة الغليان العادية	boiling point (normal...)
+نقطة الغليان القصوى	boiling point (maximum..)
+نقطة الندى	dew point
+نقطة النهاية	end point
+نقطة النهاية، نقطة التعادل	end-point
+نقطة الوميض	flash point
+نقطة انتقالية	transition point
+نقطة انسكاب منخفضة	low pour point
+نقطة تساوي الشحنتين	isoelectric point
+نقطة تساوي درجَتَي التأيّن	isoionic point
+نقطة تكافؤ، نقطة تعادل	equivalent point
+نقطة ثلاثية	triple point
+نقطة حرجة	critical point
+نقطة خماسية	quintuple point
+نقطة رباعية	quadruple point
+نقطة سرجية	saddle point
+نقطة، درجة	point
+نقْع	steeping
+نقْع، مرْس	maceration
+نقل	transport
+نَقْلُ الإستر	transesterification
+نقل الألكيل	transalkylation
+نقل الأمين	transamination
+نقْل الحرارة	heat transfer
+نقل أميني	transmination
+نقي	analar / pure
+نقي العظم	bone marrow
+نقيضان بصريان	optical antipodes
+نقيع	infusion
+نكتار	nectar
+نُكلاز	nuclease
+نكلوتيد	nucleotide
+نكلوتيد أحادي	mononucleotide
+نكلوزيد	nucleoside
+نُكلون	nucleon
+نُكليد	nuclide
+نكليونات	nucleons
+نمط الانعراج	diffraction pattern
+نمط وراثي (جيني)	genotype
+نملات، فورمات	formate
+نمو	growth
+نموذج	specimen
+نموذج بور	Bohr model (of the atom)
+نموذج جزيئي	molecular model
+نموذج ذري	atomic model
+نموذج عصابي، نموذج حزمة	band model
+نِنْهدرين	ninhydrin
+نهائي (منتج)	final (product)
+نهائي، محطة نهائية	terminal
+نهاية صغرى	minimum
+نهاية عضمى، حدّ أعلى	maximum
+نواة	kernel / nucleus
+نواة البنزن	benzene (nucleus of..)
+نواة الذّرة	atom-nucleus
+نوبليوم	nobelium
+نوع	species
+نوعي	specific
+نوعية فراغية	stereospecificity
+نوعية، صفة	quality
+نوكليد	nuclide
+نونان	nonane
+نَوَوي	nuclear
+نياسين	niacin
+نيتروجين الأمونيا، أزوت الأمونيا	ammonical nitrogen
+نِير	yoke
+نيفلومتر	nephelometer
+نيفيليت	nephelite
+نيكل	nickel
+نيكل راني	Raney nickel
+نيكل مختزَل	reduced nickel
+نيكوتين	nicotine
+نيلة	indigo
+نيو: سابقة	neo- (ne-)
+نيوبرين	neoprene
+نيوبنتان	neopentane
+نيوبيوم	niobium
+نيوترون مؤخر	delayed neutron
+نيوترون، نوترون	neutron
+نيودميوم، نيوديم	neodynium
+نيوديميوم	neodymium
+نيوسلفرسان	neosulversan
+نيوميسين	neomycin
+نيون	neon
+نيوهكسان	neohexane

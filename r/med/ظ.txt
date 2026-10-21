@@ -1,0 +1,389 @@
+ظَاهِرٌ	ectal; ecto / exterior / external / externus NA / phanerous (phanic)
+ظاهِرُ الأَرومَة (الأَديمُ الظَّاهِر)	ectoblast (ectoderm)
+ظاهِرُ البَوغ	epispore
+ظاهِرُ السَّبَب	phanerogenetic / phanerogenic
+ظَاهِرُ الشَّبَكِيَّة (الظِّهارَةُ المُصْطَبِغَةُ للشَّبَكِيَّة)	ectoretina (retinal pigment epithelium)
+ظاهِرُ الصُّلْبَة	episclera
+ظاهِرُ العَضَلَة (الغِلالَةُ العَضَلِيَّة)	muscularis external (tunica muscularis)
+ظاهِرُ القُزَحِيَّة	ectiris
+ظاهِرُ الكيسَة	ectocyst
+ظاهِرُ المَشيمِيَّة	ectochoroidea
+ظَاهِرُ الهَيُولَى (الغِشاءُ الهَيُولِيّ)	ectoplasm (plasma membrane)
+ظاهِرٌ بِالبَول	urophanic
+ظاهِرُ قاعِدَةِ القِحْف	base de l'encéphale (facies inferior cerebri NA)
+ظاهرة	phenomenon
+ظاهرة "أرثوس"	Arthus phenomenon
+ظاهِرَة [ج:ظَواهِر]	phenomenon
+ظاهِرَةُ إِبْهامِ القَدَم	toe phenomenon
+ظاهِرَةُ آرتوس	phenomenon of Arthus
+ظاهِرَةُ ازْدِواجِيَّةِ الأَلَم	double pain phenomenon
+ظاهِرَة آشمان (تنشيط بطيني زائغ)	Ashman's phenomenon
+ظاهِرَةُ آشنر (بطء النبض عند الضغط على العين)	Aschner's phenomenon
+ظاهِرَةٌ إِضافِيَّة	epiphenomenon
+ظاهِرَةُ الارْتِداد	rebound phenomenon
+ظاهِرَةُ الإِصْبَع (في الفالج)	finger phenomenon
+ظاهِرَةُ الافْتِصَال (في الطَّيَّارِيْن)	break-off phenomenon
+ظاهِرَةُ الإِفْلات	escape phenomenon
+ظاهِرَةُ الالْتِصاق	adhesion phenomenon
+ظاهِرَةُ الالْتِصاقِ المَناعِيّ	immune adhesion phenomenon
+ظاهِرَةُ الامْتِزاز	adsorption phenomenon
+ظاهِرَةُ الامْتِناع	abstinence phenomenon
+ظاهِرَةُ الاِنْخِفاض و الاِرْتِفاع (في عدد الجراثيم عند المعالجة)	fall-and-rise phenomenon
+ظاهِرَةُ التَّثْبيت	fixation phenomenon
+ظاهِرَةُ التَّداخُل (في التأثيرات الدوائية)	interference phenomenon
+ظاهِرَةُ التَّراصِّ الزُّمْرِيّ	paragglutination phenomenon
+ظاهِرَةُ التَّسَرْخُس ( تَشَجُّرُ مُخاطِ عُنُقِ الرَّحِم)	fern phenomenon (cervical mucus arborization)
+ظاهِرَةُ التَّشَعُّع (في تقدير الحجوم)	irradiation phenomenon
+ظاهِرَةُ التَّلَيُّنِ العَظْميّ	halisteresis phenomenon
+ظاهِرَةُ التَّناقُضِ الحِجَابِيَّة	paradoxical diaphragm phenomenon
+ظاهِرَةُ التُّوْمَاض	flicker phenomenon
+ظاهِرَةُ الحِجاب	diaphragm phenomenon / phrenic phenomenon
+ظاهِرَةُ الحِجابِ المُتَصالِب	crossed phrenic phenomenon
+ظاهِرَةُ الحَدَقَةِ التَّناقُضِيَّة	paradoxical pupil phenomenon
+ظاهِرَةُ الحَرَكَةِ الذَّاتِيَّةِ للضَّوءِ المَرْئِيِّ	autokinetic visible light phenomenon
+ظاهِرَةُ الحَريرِ المُخَيَّفِ (في الشبكية)	shot-silk phenomenon
+ظاهِرَةُ الخَلاَيا الذِّئْبِيَّةِ الحُمَامِيَّةِ	LE phenomenon
+ظاهِرَةُ الذِّراع (في التكزز)	arm phenomenon
+ظاهِرَةُ السَّاتِلَة (في المزارع الجرثومية)	satellite phenomenon
+ظاهِرَةُ السُّلَّم (في التقلص العضلي)	staircase phenomenon
+ظاهِرَةُ الشَّتْلِ الأَوَّل (في زرع الأعضاء)	first set phenomenon
+ظاهِرَةُ الشَّتْلِ الثانِي (حول رفض الطعم)	second set phenomenon
+ظاهِرَةُ الشَفَة ( مُنْعَكَسُ الشَفَة)	lip phenomenon (lip reflex)
+ظاهِرَةُ الصَّرْعِ الحَرِج	critical epileptic phenomenon
+ظاهِرَةُ العَجَلَةِ المُسَنَّنَة	cogwheel phenomenon
+ظاهِرَةُ العَصَبِ الشَظَوِيّ	peroneal-nerve phenomenon
+ظاهِرَةُ العَضَلَةِ الدُّوَيرِيَّة	orbicularis phenomenon
+ظاهِرَةُ الغَمْزَةِ الفَكِّيَّة ( مُتَلازِمَةُ غان)	jaw-winking phenomenon (Gunn's syndrome)
+ظاهِرَةُ الفَكَاك	release phenomenon
+ظاهِرَةُ القَضيبِ الزُّجاجِيِّ السَّلْبِيَّة	negative glass-rod phenomenon
+ظاهِرَةُ الكَبّ	pronation phenomenon
+ظاهِرَةُ اللِّسان	tongue phenomenon
+ظاهِرَةُ المِكْبَح	brake phenomenon
+ظاهِرَةُ المِنْطَقَة (في التفاعلات المناعية)	zone phenomenon
+ظاهِرَةُ الموسَى الكَبَّاسَة	clasp-knife phenomenon
+ظاهِرَةُ النَّبُّوتِ الزُّجاجِيّ (عند ضغط المقلة)	glass-rod phenomenon
+ظاهِرَةُ الوَجْهِيّ	face phenomenon (facialis phenomenon)
+ظاهِرَةُ الوَجْهِيّ (تشنج عضلات الوجه عند قرع العصب الوجهي)	facialis phenomenon
+ظاهِرَةُ أَندرسون (كتل من الكريات الحمراء في براز مرضى الزحار)	Anderson's phenomenon
+ظاهِرَةُ انْدِفاقِ الخِلْطِ المَائِيّ	aqueous-influx phenomenon
+ظاهِرَةُ انْدِفاقِ الدَّم	blood-influx phenomenon
+ظاهِرَةُ انْطِفاءِ الطَّفَح	rash-extinction phenomenon
+ظاهِرَةُ آوبرت (ظاهرة انخداع بصري)	Aubert's phenomenon
+ظاهِرَةُ آوَر	Auer's phenomenon
+ظاهِرَةُ أوربيلي (يؤدي تنبيه الودي عند تعب العضلة الى ارتفاع شدة تقلصها)	Orbeli phenomenon
+ظاهِرَةُ أوستن فلنت (نفخة قلبية سابقة للانقباض)	Austin Flint phenomenon
+ظاهِرَةُ إيرب (عَلامَةُ إيرب)	Erb's phenomenon (Erb's sign)
+ظاهِرَةُ إيربين (عَلامَةُ إيرب)	Erben's phenomenon (Erben's reflex)
+ظاهِرَةُ بابنسكي (انثناءإبهام القدم للاعلى بتنبيه الأخمص)	Babinski's phenomenon
+ظاهِرَةُ بسي (تأثير نفساني يتولد دون منبه خارجي)	psi phenomenon
+ظاهِرَةُ بِل (الْتِفاف المقلة للخارج والأعلى عند غلق العين)	Bell's phenomenon
+ظاهرة بل"	Bell's phenomenon
+ظاهِرَةُ بورديه ( تَثْبيتُ المُتَمِّمَة)	Bordet's phenomenon (complement fixation)
+ظاهِرَةُ بورديه جينغو (تَثْبيتُ المُتَمِّمَة)	Bordet-Gengou phenomenon (complement fixation)
+ظاهِرَةُ بُوركِينيي (تغير في حساسية العين للالوان في الظلام)	Purkinje's phenomenon
+ظاهِرَةُ بوريت (في فيزيولوجيا العضل)	Porret's phenomenon
+ظاهِرَةُ بول (تقلص عضلات الذراع عند رفعها اعلى من الرأس في التكزز)	Pool's phenomenon
+ظاهِرَةُ بيري-ديدريك (استحالة الورم الليفي الى الورم المخاطي)	Berry-Dedrick phenomenon
+ظاهِرَةُ بيكر (زيادة نبضان شرايين الشبكيةفي داء غريفز)	Becker's phenomenon
+ظاهِرَةُ بيلتس-فيستفال ( ظاهِرَةُ العَضَلَةِ الدُّوَيْرِيَّة للحَدَقة)	Piltz-Westphal phenomenon (orbicular pupillary reflex)
+ظاهِرَةٌ تَأَقانِيَّة	anaphylactoid phenomenon
+ظاهِرَةُ تروسو (التقلصات التشنجية للعضلات عند الضغط على العصب المغذي لها)	Trousseau's phenomenon
+ظاهِرَةُ تشيس-سولزبيرغر (بطلان الأرجية الجلدية)	Chase-Sulzberger phenomenon
+ظاهِرَةُ تندال (في تبعثر الضوء)	Tyndall phenomenon
+ظاهِرَةُ توورت-ديريل (في البلعمة)	Twort-d'Herelle phenomenon
+ظاهِرَةُ ثَنْيِ الوَرِك (في الشلل السفلي)	hip-flexion phenomenon
+ظاهِرَةُ ثيوبالد سميث (في تحري التأق)	Theobald Smith's phenomenon
+ظاهِرَةُ جينغو ( تَثْبيتُ المُتَمِّمَة)	Gengou phenomenon
+ظاهِرَةُ خَلَلِ التَّوَتُّرِ التَّناقُضِيَّة	paradoxical phenomenon of dystonia
+ظاهِرَةُ داكوورث (توقف التنفس قبل القلب في بعض الحالات الدماغية المميتة)	Duckworth's phenomenon
+ظاهِرَةُ دانيش (استعدال السم بمضاد السم)	Danysz's phenomenon
+ظاهِرَةُ دنيس-ليكليف (البلعمة في أنبوب الاختبار)	Denys-Leclef phenomenon
+ظاهِرَةُ دوبلر	Doppler phenomenon
+ظاهِرَةُ دوناث	Donath phenomenon
+ظاهِرَةُ دونوي	Du Nouy phenomenon
+ظاهِرَةُ ديبريه (غياب طفح الحصبة في موقع حقن مصل الناقه منها)	Debre's phenomenon
+ظاهِرَةُ ديجيرين-ليختهايم (في الحبسة تحت القشرية)	Dejerine-Lichtheim phenomenon
+ظاهِرَةُ ديريل (ظاهِرَةُ العاثِيَات)	d'Herelle's phenomenon
+ظاهِرَةُ ديل (لتحري التأق في حيوانات الاختبار)	Dale phenomenon
+ظاهِرَةُ ذِرْوَةِ اللِّسَان	tip-of-the-tongue phenomenon
+ظاهِرَةُ رَأْسِ الدُّمْيَة (في المتلازمات العينية)	doll's head phenomenon
+ظاهِرَةُ راست (في نخر الفقرات العنقية العلوية)	Rust's phenomenon
+ظاهِرَةُ رومبيل-ليد (ظهور نزوف جلدية مكان تطبيق العاصبة)	Rumpel-Leede phenomenon
+ظاهِرَةُ ريغر ( ظاهِرَةُ المِكْبَحِ)	Rieger's phenomenon (brake phenomenon)
+ظاهِرَةُ رينو (نوبات إقفار متقطع في النهايات عند التعرض للبرد)	Raynaud's phenomenon
+ظاهِرَةُ ستاوب-تراوغوت (في تأثير السكر على توليد الشحوم)	Staub-Traugott phenomenon
+ظاهِرَةٌ سُلَّمِيَّة	staircase phenomenon
+ظاهِرَةُ سوريه (حصول مدروج تركيزي في المحلول الموضوع في مدروج حراري)	Soret phenomenon
+ظاهِرَةُ سوك (في الفالج غير التام)	Souques' phenomenon
+ظاهِرَةُ سولزبيرغر-تشيس (زوال فرط الحساسية الجلدية للعوامل المحسسة)	Sulzberger-Chase phenomenon
+ظاهِرَةُ سوموغي (فرط سكر الدم الارتدادي عند الإفراط في حقن الأنولين)	Somogyi phenomenon
+ظاهِرَةُ سيمونسن (أحد تفاعلات الطعم حيال الثوي)	Simonsen phenomenon
+ظاهِرَةُ شَبيهَةٌ بالرَفَّاص (في أمراض المخيخ)	springlike phenomenon
+ظاهِرَةُ شتراوس (في الاستسقاء الكيلوسي)	Straus' phenomenon
+ظاهِرَةُ شترومبل (في الشلل التشنجي للطرف السفلي)	Strumpell phenomenon
+ظاهِرَةُ شرام (منظر الإحليل الخلفي بمنظار المثانة في مرض النخاع)	Schramm's phenomenon
+ظاهِرَةُ شفارتزمان (موت الحيوان بعد حقن الذيفان الداخلي)	Shwartzman phenomenon
+ظاهِرَةُ شليزينغر (في الكزاز)	Schlesinger's phenomenon
+ظاهِرَةُ شولتز-كارلتون (في الحمى القرمزية)	Schultz-Charlton phenomenon
+ظاهِرَةُ شولر (مشية المفلوج جانبياً نحو الجهة المصابة)	Schuller's phenomenon
+ظاهِرَةُ شيرينغتون (استجابة عضلات الطرف السفلي عند تنبيه عصبها الحركي المتنكس)	Sherrington phenomenon
+ظاهِرَةُ شيلونغ-سترايسوار (هبوط ضغط الدم عند القيام من وضع الاستلقاء)	Schellong-Strisower phenomenon
+ظاهِرَةُ طَليعَةِ المِنْطَقَة (في المناعيات)	prezone phenomenon / prozone phenomenon
+ظاهِرَةُ طومسن (في الحمى القرمزية)	Thomsen phenomenon
+ظاهِرَةُ عَدَمِ الانْتِباه (في أذيات الفص الجداري للمخ)	inattention phenomenon
+ظاهِرَةُ عَودِ التَّجَلُّط (تميع بعض الهلامات ثم عودة تهلمها)	reclotting phenomenon
+ظاهِرَةُ غارتنر (دلالة أوردة الذراع على ضغط الأذين الأيمن)	Gartner's phenomenon
+ظاهِرَةُ غالاسي الحَدَقِيَّة ( المُنْعَكَسُ الحَدَقيُّ الدُّوَيْريّ)	Galassi's pupillary phenomenon (orbicularis pupillary reflex)
+ظاهِرَةُ غان ( مُتَلازِمَةُ غان)	Gunn's phenomenon (Gunn's syndrome)
+ظاهِرَةُ غان الحَدَقِيَّة ( مُتَلازِمَةُ غان)	Gunn's pupillary phenomenon (Gunn's syndrome)
+ظاهِرَةُ غراسيه (في الفالج العضوي غير التام)	Grasset's phenomenon
+ظاهِرَةُ غراسيه غوسل (في الفالج العضوي غير التام)	Grasset-Gaussel phenomenon
+ظاهِرَةُ غولدبلات (فرط الضغط الوعائي الكلوي بتضيق شريان كلوي رئيسي)	Goldblatt phenomenon
+ظاهِرَةُ غيرهارد (في فرط نشاط الدرقية)	Gerhardt's phenomenon (Gerhardt's sign)
+ظاهِرَةُ فايفر (انحلال ضمات الكوليرا لدى حقنها في دم القُبيعة)	Pfeiffer's phenomenon
+ظاهِرَةُ فدينيسكي (ضعف استجابةالعضلة تدريجياً عند تنبيهها بمنبهات سريعة متتالية)	Wedensky's phenomenon
+ظاهِرَةُ فريدرايخ (في انصباب الجنبة)	Friedreich's phenomenon
+ظاهرة فوقية	epiphenomenon
+ظاهِرَةُ في (في الرؤية)	phi phenomenon
+ظاهِرَةُ فيستفال (في الحدقة)	Westphal's phenomenon
+ظاهِرَةُ فيستفال-بليتس ( مُنعكس العَضَلَةِ الدُّوَيْرِيَّةِ للحَدَقَة)	Westphal-Piltz phenomenon (orbicularis pupillary reflex)
+ظاهِرَةُ فيك (تغيم الرؤية إثر وضع العدسات اللاصقة)	Fick's phenomenon
+ظاهِرَةُ كريستنسن	Christensen's phenomenon
+ظاهِرَةُ كوبنر (تفاعل جلدي في بعض الجلادات)	Koebner's phenomenon
+ظاهِرَةُ كوخ (في السُّل)	Koch's phenomenon
+ظاهِرَةُ كوشينغ (ارتفاع ضغط الدم لارتفاع الضغط داخل القحف)	Cushing's phenomenon
+ظاهِرَةُ كولِّي	Collie phenomenon
+ظاهِرَةُ كونستام ( الحَرَكَةُ التِّلْوِيَّة)	Kohnstamm's phenomenon (aftermovement)
+ظاهِرَةُ كونيه العَضَلِيَّة	Kuhne's muscular phenomenon
+ظاهِرَةُ كويكينشتيت (ارتفاع ضغط السائل النخاعي بضغط أوعية العنق)	Queckenstedt's phenomenon
+ظاهِرَةُ كينبوك ( تَقَلُّصُ الحِجَابِ التَّنَاقُضِيّ)	Kienbock's phenomenon (paradoxical diaphragm contraction)
+ظاهِرَةُ لايختينشتيرن (في التهاب السحايا)	Leichtenstern's phenomenon
+ظاهِرَةُ لوثيو (في الجذام)	Lucio's phenomenon
+ظاهِرَةُ لوست (تبعيد القدم وانحرافها للاعلى عند قرع العصب الشظوي)	Lust's phenomenon
+ظاهِرَةُ لوغران-غيبليفيتش (في الرؤية)	Le Grand-Geblewics phenomenon
+ظاهِرَةُ لويس ( بلْعَمَةُ البلازما)	Lewis' phenomenon (hydrophagocytosis)
+ظاهِرَةُ ليتين الحِجابِيَّة (انخفاض أسفل جانبي الصدر عند التنفس)	Litten's diaphragm phenomenon
+ظاهِرَةُ ليد-رومبل	Leede-Rumpel phenomenon
+ظاهِرَةُ ليزغانغ (في الغروانيات)	Liesegang's phenomenon
+ظاهِرَةُ ماركوس غان الحَدَقِيَّة	Marcus Gunn pupillary phenomenon
+ظاهِرَةُ متشنيكوف (في البلعمة)	Metchnikoff's phenomenon
+ظاهِرَةُ موريسكي (? تَثْبيتُ المُتَمِّمَة)	Moreschi phenomenon
+ظاهِرَةُ ميروفسكي (التسفع بالأشعة فوق البنفسجية)	Meirowsky phenomenon
+ظاهِرَةُ ميلز-راينكه (انخفاض نسبة الوفيات عند تعقيم ماء الشرب)	Mills-Reincke phenomenon
+ظاهِرَةُ نارساروف (في تأثير الماء البارد على حرارة الجسم)	Narsaroff's phenomenon
+ظاهِرَةُ نايسر-دورينغ ( اِنْحِرَافُ المُتَمِّمَة)	Neisser-Doering phenomenon (complement deviation)
+ظاهِرَةُ نايسر-فيكسبيرغ ( اِنْحِرَافُ المُتَمِّمَة)	Neisser-Wechsberg phenomenon (complement deviation)
+ظاهِرَةُ نويفيلد (انحلال المكورات الرئوية بالصفراء)	Neufeld's phenomenon
+ظاهِرَةُ نيغرو ( ظاهِرَةُ العَجَلَة المُسَنَّنَة)	Negro's phenomenon (cogwheel phenomenon)
+ظاهِرَةُ هاتا (اشتداد المرض العدوائي عند تناول جرعة صغيرة من الدواء)	Hata phenomenon
+ظاهِرَةُ هامبورغر ( زَيَحَانُ الكلوريد)	Hamburger phenomenon (chloride shift)
+ظاهِرَةُ هامر شلاغ (تعب شديدعند سماع الأصوات المتعالية)	Hammerschlag's phenomenon
+ظاهِرَةُ هنْت التَّناقُضِيَّة (في خَلَلِ التَّوَتُّرِ العَضَلِيِّ المُشَوِّه)	Hunt's paradoxical phenomenon
+ظاهِرَةُ هوبنر-طومسن-فريدينرايخ (في عدم توافق فصائل الدم)	Huebener-Thomsen-Friedenreich phenomenon
+ظاهِرَةُ هوخسينغر (يؤدي الضغط على ذات الرأسين الى ضم قبضة اليد في الكزاز)	Hochsinger's phenomenon
+ظاهِرَةُ هوفمان (زيادة استثارية الاعصاب الحسية للتنبيه الكهربي)	Hoffmann's phenomenon
+ظاهِرَةُ هولمز ( ظاهِرَةُ الاِرْتِدَاد)	Holmes' phenomenon (rebound phenomenon)
+ظاهِرَةُ هولمز-ستيوارت ( ظاهِرَةُ الاِرْتِداد)	Holmes-Stewart phenomenon (rebound phenomenon)
+ظاهِرَةُ هيخت (ظهور نزوف جلدية مكان تطبيق العاصبة)	Hecht phenomenon
+ظاهِرَةُ هيرتفيغ-ماجندي ( الانْحِرَافُ المُتَجَانِف)	Hertwig-Magendie phenomenon (skew deviation)
+ظاهِرَةُ هيرنغ (نفخة قلبية خافتة تسمع أسفل القص فترة قصيرة بعد الموت)	Hering's phenomenon
+ظاهِرَةُ هيكتون (في الأرجية)	Hektoen phenomenon
+ظاهِرَةُ ويفر-براي ( مكروفونياتُ القَوْقَعة؛ تَضْخِيْمُ الصَّوْتِ القَوْقعيّ)	Wever-Bray phenomenon (cochlear microphonics)
+ظاهِرَةُ ويليامز (في التهاب الجنبة)	Williams' phenomenon
+ظاهِرَةُ وينكيباخ (في إحصار النقل القلبي)	Wenckebach phenomenon
+ظاهِرِيُّ البِنْيَة	ectomorphic
+ظاهِرِيُّ البِنْيَة (بنية تسود فيها الأنسجة المستمدة من الأديم الظاهر)	ectomorph
+ظَاهِرِيَّةُ البِنْيَة	ectomorphy
+ظَبْي	antelope; black buck
+ظَرْفِيّ (وفقاً لما تُمْليه الظُّروف)	ad hoc
+ظُرُوف التَّخْزِين	storage conditions
+ظُروفُ الوَفاة	manner of death
+ظُفُر	fingernail / nail / nail; toe / onyx / unguis; onyx,nail
+ظُفًر [ج:أَظْفار]	unguis NA
+ظُفُرٌ أَخْضَر	verdonychia
+ظُفُرُ إِصْبَعِ القَدَمِ	toenail
+ظُفُرُ إِصْبَعِ القَدَمِ النَّاشِب	ingrowing toenail / ingrown toenail
+ظُفُرُ الإِصْبَع	fingernail (unguis NA)
+ظُفُرُ البُطَينِ الدِّماغِيِّ الجانِبِيّ (مِهْمازُ الطَّير)	unguis ventriculi lateralis cerebri (calcar avis)
+ظُفُرٌ بُقْراطِيّ	hippocratic nail
+ظُفُرٌ رَديم	paidonyx
+ظُفُرٌ شَبِيْهٌ بزُجاجَةِ السَّاعَة	watch-crystal nail
+ظُفُرٌ شَبِيْهٌ بظَهْرِ السُّلْحفاة	turtle-back nail
+ظُفُرٌ شَبِيْهٌ بمِنْقارِ البَبَّغاء	parrot beak nail
+ظُفُرٌ قَيْضِيّ	eggshell nail
+ظُفُرٌ مُخَدَّد	trachyonychia
+ظُفُرٌ مَخْدود (حثل الظفر الأخدودي)	solenonychia
+ظُفُرٌ مَضْرِبِيّ	racket nail
+ظُفُرٌ مُقَصَّب (ذو تَغَضُّنات طولانية)	reedy nail
+ظُفُرٌ مِلْعَقِيّ	spoon nail
+ظُفُرٌ ناشِب	acronyx / incarnatio unguis (ingrown toenail) / ingrown nail / nail (ingrown _) / onyxis (ingrowing nail) / unguis aduncus / unguis incarnatus
+ظُفْرانِيّ	onychoid
+ظُفْرَة	pterygium / web-eye
+ظَفَرَةٌ خِلْقِيَّة	congenital pterygium (epitarsus) / epitarsus (congenital pterygium)
+ظُفْرَةٌ شَحْمِيَّة	pimelopterygium
+ظُفْرَةٌ ظُفْرِيَّة	pterygium unguis
+ظُفْرَةٌ عُنُقِيَّة	pterygium colli
+ظُفْرَةٌ كاذِبَة	pseudopterygium
+ظُفْرِيّ	ungual / unguinal / unguinal; ungual
+ظُفُريّ (سابقة)	onycho
+ظُفَير (بنية ليفية في الصفيحة العظمية)	claviculus
+ظِلُّ القَلْب (في صورة الصدر الشعاعية)	heart shadow
+ظِلُّ جَناحِ الخُفَّاش (في الصورة الشعاعية للصدر)	bat's wing shadow
+ظِلٌّ صَوتِيّ (في التصوير بفوق الصوت)	acoustic shadow
+ظِلٌّ لَوْنِيّ عامٌّ	universal shade
+ظِلاَلُ بُورْكِينِيي (انعكاسات ضوئية من القرنية والعدسة)	Purkinje's shadow
+ظَلاَلَةُ الميناء	enamel opacity
+ظَلامِيّ	aphotic
+ظَلاَمِيُّ الاِصْطِبَاغ (مكروب ينتج أصبغة في الظلام)	scotochromogen / scotochromogenic
+ظَلِيْلٌ ؛ مُعْتِم	opaque
+ظَليلٌ للأَشِعَّة	radiodense (radiopaque) / radiopaque / roentgenopaque (radiopaque)
+ظَلِيلٌ، مُعْتِم	opaque
+ظنبوب (ال...)	tibia
+ظُنْبوبٌ أَرْوَح	tibia valga
+ظُنْبوبٌ أَفْحَج	tibia vara
+ظُنْبوبٌ قُثَّائِيّ	cucumber shin
+ظنْبوب، عظم القصبة	tibia
+ظُنْبوبِيّ	tibial / tibial; tibialis / tibialis NA
+ظُنْبوبِيٌّ إِنْسِيّ	entocnemial
+ظُنْبوبِيٌّ رُصُغِيّ	tibiotarsal
+ظُنْبوبِيٌّ زَورَقِيّ	tibionavicular / tibionavicular; tibioscaphoid / tibioscaphoid
+ظُنْبوبِيٌّ شَظَوِيّ	tibiofibular / tibioperoneal / tibioperoneal; tibiofibular
+ظُنْبوبِيٌّ عَقْبِيّ	calcaneotibial / tibiocalcaneal / tibiocalcanean
+ظُنْبوبِيٌّ فَخِذِيّ	tibiofemoral
+ظَنِّيّ؛تَرْجِيْحِيّ	presumptive
+ظَهائِر [ف:ظِهارَة]	epithelia [sing.epithelium]
+ظَهائِرُ الحُزَمِ العَضَلِيَّة [ف:ظِهَارَةُ الحُزْمَةِ العَضَلِيَّة]	perimysia [sing.perimysium]
+ظهار الجفن	epiblepharon
+ظُهارُ الخَنادِق	trench back
+ظُهارٌ وَظيفِيّ	functional back
+ظِهارَة	endepidermis (epithelium) / epithelium
+ظِّهارَةُ (ال...) السِّنِّيَّةُ الدَّاخِلِيَّة	inner dental epithelium
+ظِهارَة [ج:ظَهائِر]	epithelium NA [pl.epithelia]
+ظِهارَةٌ أسْطُوانِيَّة الخَلاَيَا	columnar epithelium
+ظِهارَةُ البَوغ	exosporium
+ظِهارَةُ الجَيبَة	pocket epithelium
+ظِهارَةُ الحُزْمَةِ العَصَبِيَّة	perineurium NA
+ظِهارَةُ الحُزْمَةِ العَضَلِيَّة [ج:ظهائر الحُزَم العضلية]	perimysium NA [pl.perimysia]
+ظِهارَةُ الخُصْيَة (الطبقة الجدارية من الغلالة الغمدية للخصية)	periorchium
+ظِهارَةُ الشَّبَكَة	retoperithelium
+ظِهارَةُ الشَّعْرَة	epitrichium
+ظِهارَةُ العَدَسَة	epithelium lentis NA / epithelium of lens
+ظِهارَةُ الفَم	oral epithelium
+ظِهارَةُ القَرْنِيَّة	corneal epithelium / epithelium corneae
+ظِهارَةُ القَناةِ الشَّرْجِيَّة	anoderm
+ظِهارَةُ القَناةِ الهِلاَلِيَّة	epithelium ductus semicircularis NA
+ظِهارَةٌ إِنْتاشِيَّة	germinal epithelium
+ظِهارَةٌ اِنْتِقَالِيَّة	transitional epithelium
+ظِهارَةٌ بَسيطَة	simple epithelium
+ظِهارة بَولية، ظهارةانتقالية	urothelium
+ظِهارَةٌ تَحْتَ المِحْفَظَة	subcapsular epithelium
+ظِهارَةٌ تَلَمِيَّة	sulcal epithelium / sulcular epithelium
+ظِهارَةٌ تَنَفُّسِيَّة	respiratory epithelium
+ظِهارَةٌ جَوفِيَّة	coelomic epithelium
+ظِهَارة حَرشَفية	squamous épithélium
+ظِهارَةٌ حَرْشَفِيَّةُ الخَلايَا	squamous epithelium NA
+ظِهارَةٌ حِسِّيَّة	sense epithelium / sensory epithelium
+ظِهارَةٌ حَشَوِيَّة	visceral epithelium
+ظِهارَةٌ رِباطِيَّة	desmepithelium
+ظِهارَةٌ رَصَفِيَّة	pavement epithelium
+ظِهارَةٌ رَصيفِيَّة	pavement epithelium
+ظِهارَةٌ سَطْحِيَّة	surface epithelium
+ظِهارَةٌ سِنِّيَّة (ظِهارَةٌ مينائِيَّة)	dental epithelium (enamel epithelium)
+ظِهارَةٌ سِنِّيَّةٌ مُنْضَمِرَة	reduced dental epithelium
+ظِهارَةٌ شَبَكِيَّة	reticuloperithelium (retoperithelium)
+ظِهارَةٌ شَحْمِيَّة	pioepithelium
+ظِهارَةٌ شَمِّيَّة	olfactory epithelium
+ظِهارَةٌ صِباغِيَّة	pigmentary epithelium NA
+ظِهارَةٌ صِباغِيَّةٌ شَبَكِيَّة	retinal pigment epithelium
+ظِهارَةٌ عَصَبِيَّة	nerve epithelium
+ظِهارَةٌ عَضَلِيَّة	muscle epithelium
+ظِهارَةٌ غُدِّيَّة	glandular epithelium
+ظِهارَةٌ غِلاَفِيَّة (بَشَرَة)	tegumentary epithelium (epidermis)
+ظِهَارَةٌ فَلْعِيَّة (ظِهارَةٌ تَلَمِيَّة)	crevicular epithelium (sulcular epithelium)
+ظِهارَةٌ فَمَوِيَّة	oral epithelium
+ظِهارَةٌ كاذِبَة	false epithelium
+ظِهارَةٌ كُبَيبِيَّة	glomerular epithelium
+ظِهارَةٌ لِثَوِيَّة	gingival epithelium
+ظِهارَةٌ مُتَخَصِّصَة	specialized epithelium
+ظِهارَةٌ مُتَعَدِّدَةُ الأَشْكال	pleomorphic epithelium
+ظِهارَةٌ مُتَقَرِّنَة	keratinized epithelium
+ظِهارَةٌ مُتَوَسِّطِيَّة	mesenchymal epithelium
+ظِهارَةٌ مُحَصِّنَة	protective epithelium
+ظِهارَةٌ مِحْفَظِيَّة	capsular epithelium
+ظِهارَةٌ مُخاطِيَّة	mucous epithelium
+ظِهارَةٌ مُخاطِيَّةٌ مُتَعَدِّدَةُ الأَشْكال	myxopleomorphic epithelium
+ظِهارَةٌ مُسَطَّحَة (ظِهارَةٌ حَرْشَفِيَّةُ الخَلايَا)	tabular epithelium (squamous epithelium)
+ظِهارَةٌ مَطَبَّقَة	laminated epithelium (stratified epithelium)
+ظِهارَةٌ مُطَبَّقَة الخَلايَا	stratified epithelium
+ظِهارَةٌ مُطَبَّقَةٌ كاذِبَة	pseudostratified epithelium
+ظهارة مكعبة	cuboidal epithelium
+ظِهارَةٌ مُكَعَّبِيَّة الخَلايَا	cubical epithelium / cuboidal epithelium
+ظِهارَةٌ مُنْتَبِذَة	heterotropic epithelium
+ظِهارَةٌ مُنْتِشَة	germinal epithelium
+ظهاَرَةٌ مُهَدَّبَة	ciliated epithelium
+ظِهارَةٌ مُهَدَّبَة الخَلاَيَا	ciliated epithelium
+ظِهارَةٌ مُوزايكية (ظِهارَةٌ حَرْشَفِيَّةٌ بَسيطَة)	tessellated epithelium (simple squamous epithelium)
+ظِهارَةٌ مينائِيَّة	enamel epithelium
+ظِهارَةٌ مينائِيَّةٌ مُنْضَمِرَة	reduced enamel epithelium
+ظِهارَةٌ نَبُّوتِيَّة الخَلايَا	rod epithelium NA
+ظِهارَةٌ هَرَمِيَّة الخَلايَا	pyramidal epithelium
+ظِهارِيّ	epithelial
+ظِهارِيُّ التَّوَجُّه	epitheliotropic
+ظِهارِيٌّ شَبَكِيّ	retothelial
+ظِهارِيٌّ عَصَبِيّ	neurepithelial / neuro-epithelial
+ظِهارِيٌّ عَضَلِيّ	epitheliomuscular / myoepithelial
+ظِهارِيّ مَشِيمَائِيّ	epitheliochorial
+ظهر	back
+ظَّهْر (ال...)	notum; noto-; dors-
+ظَهْر [ج:ظُهور]	dorsum NA [pl.؛ dorsa]
+ظهر أجوف	back, hollow
+ظَهْرٌ أَجْوَف (قَعَس)	hollow back (lordosis)
+ظَهْرٌ أَحْدَب (حُداب)	hump back (kyphosis) / hunch back (kyphosis)
+ظَهْرُ الأَنْف	dorsum nasi NA / dorsum of nose
+ظَهْرُ الخُصْيَة	dorsum of testis
+ظَهْرُ السَّرْج	dorsum of sella / dorsum sellae / dorsum sellae NA
+ظهر الشدفة	epimere
+ظَهْرُ القَدَم	dorsum of foot / dorsum pedis NA
+ظَهْرُ القَضيب	dorsum of penis / dorsum penis NA
+ظَهْرُ الكَتِف	dorsum of scapula
+ظَهْرُ الكَفّ	opisthenar
+ظَهْرُ اللِّسان	dorsum linguae NA / dorsum of tongue
+ظَهْرُ اليَد	dorsum manus NA / dorsum of hand
+ظَهْرٌ سَرْجِيّ (قَعَس)	saddle back (lordosis)
+ظَهْرُ لاعِبِ البوكر (الْتِهابُ الفَقارِ الرُّوماتويديّ)	poker back (rheumatoid spondylitis)
+ظَهْرٌ مُجَوَّف ( قَعَس)	hollow-back (lordosis)
+ظَهْرٌ مُسَطَّح	back, flat / flat back
+ظَهْرٌ مُنْحَنٍ (مُنْحَني) (قَعَس)	sway back (lordosis)
+ظَهْرانِيّ	dorsalis NA
+ظَهْرانِيٌّ (ال...) ناصفِيّ	mediodorsal
+ظَهْرانِيٌّ أَمامِيّ	dorsoanterior
+ظَهْرانِيٌّ إِنْسِيّ	dorsomedial
+ظَهْرانِيٌّ بَطْنانِيّ	dorsoabdominal (dorsoventral) / dorsoventral; dorsoabdominal
+ظَهْرانِيٌّ جانِبِيّ	dorsolateral
+ظَهْرانِيٌّ خَلْفِيّ	dorsoposterior
+ظَهْرانِيٌّ رَأْسِيّ	dorsocephalad
+ظَهْرانِيٌّ صَدْرِيّ	dorsothoracic
+ظَهْرانِيٌّ كَتِفِيّ	dorsoscapular
+ظَهْرانِيٌّ كُعْبُرِيّ	dorsoradial
+ظَهْرانِيٌّ ناصفِيّ	mediodorsal
+ظَهْرانِيٌّ نُخاعِيّ	dorsispinal
+ظَهْرَويّ	tergal
+ظَهْرِيّ	doro- = dorsi-_ / dorsal / dorsalis; dorsal; dorso / notal (dorsal)
+ظَهْرِيُّ الأَطْراف [مسخ]	notomelus
+ظهري بطني	dorsoventral
+ظَهْرِيٌّ جانِبِيّ	laterodorsal
+ظَهْرِيٌّ رَقَبِيّ	dorsocervical
+ظَهْرِيٌّ ضِلْعِيّ	dorsocostal
+ظَهْرِيٌّ عَجُزِيّ	dorsosacral
+ظَهْرِيٌّ قَذالِيّ	dorso-occipital
+ظَهْرِيٌّ قَطَنِيّ	dorsolumbar
+ظَهْرِيٌّ قَفَوِيّ	dorsonuchal
+ظَهْريّ وَحْشِيّ	dorsolateral
+ظَهْرِيٌّ وَرْبِيّ	dorsointercostal
+ظُهُور	phanerosis
+ظُهور [ف:ظَهْر]	dorsa [sing.؛ dorsum]
+ظُهَوْرُ الدُّهْن	fat phanerosis
+ظُهُوْرُ الصِّفاتِ الشَّخْصِيَّة	individuation
+ظُهور، ظَهْر	dorsa; dorsum, back
+ظهيرة (طب اسنان)	backing
+ظَيَّان (جِنْسُ نَباتاتٍ كَثيرٌ مِنْها سامّ)	Clematis

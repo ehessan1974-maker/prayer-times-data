@@ -1,0 +1,261 @@
+Macro Environment	قوى خارجية
+Macro-Environmental Factors	عوامل البيئة الكلية
+magistrature; magistracy	هئية القضاة
+Mahram	مَحرَم
+main penalty	عقوبة أصلية
+Maintain the protected variety	الحفاظ على الصنف المحمي
+maintenance expenses	مصاريف صيانة
+maintenance obligation	التزام بالنفقة
+major	راشِد
+Major Breach	خرق كبير
+Major Irrevocable Divorce	طلاق بائن بينونة كبرى
+majority	أغلبية، أكثرية
+Majority opinion	أغلبية الآراء
+majority party	حزب الأغلبية
+Make Or Buy	إصنع أو إشتري
+Mala fide	سيئ النية
+Malicious Report	بلاغ كيدي
+Malpractice	خطأ مهني
+Managed Floating Exchange Rate	سعر الصرف العائم المُدار
+management	إدارة، تدبير
+Management Accounts	حسابات الإدارة
+Management Buy-In (MBI)	شراء الإدارة
+Management Buy-Out (MBO)	الإستحواذ الإداري بالكامل
+Management By Stress	الإدارة عن طريق الإجهاد
+Management Contract	عقد إدارة
+Management Contractor	متعاقد إدارة
+Management Information Systems (MIS)	نظم المعلومات الإدارية
+manager of company	مدير شركة
+mandate; proxy	توكيل، وكالة
+mandatory	وكيل مفوَّض
+Mandatory Licenses	التراخيص الإلزامية
+manifestation	إظهار، إفصاح
+manners	آداب، أخلاق
+manslaughter	قَتْل غير عمديّ، قَتْل غير متعمد
+Manufacturing Capacity	قدرة تصنيعية
+Manufacturing Cell	خلية التصنيع
+Manufacturing Flow Management	إدارة تدفق التصنيع
+Manufacturing Postponement	تأجيل التصنيع
+Manufacturing Resource Planning (MRP II)	تخطيط موارد التصنيع
+Manufacturing-Based Approach	نهج قائم على التصنيع
+margin	هامش، فائض / الهامش
+margin of profit	هامش الربح، حد الربح
+Marginal Gains	مكاسب هامشية
+Marginalization	تهميش
+Marine Insurance	تأمين بحري
+marine insurance; maritime insurance	تأمين بحريّ
+maritime brokerage; maritime broking	وساطة بحرية، سمسرة بحرية
+maritime commercial law	قانون التجارة البحرية
+maritime law; shipping law	قانون بحريّ
+maritime mortgage	رهْن بحريّ
+maritime navigation	مِلاحة بحرية
+maritime sale	بَيْع بحريّ
+maritime trade	تجارة بحرية
+maritime transport	نَقْل بحريّ
+maritime transport contract	عقد نقل بحريّ
+Mark-Up	وضع علامة على التوسيم
+market	سوق
+Market Analysis	تحليل السوق
+Market Capitalization	قيمة سوقية
+Market Comparisons	مقارنات السوق
+Market Dominance	هيمنة السوق
+market economy	اقتصاد السوق
+Market Engagement	مشاركة في السوق (تفاعل السوق)
+Market Growth Rate	معدل نمو السوق
+market price	سِعْر يحدده السوق
+Market Sensitivity	حساسية السوق
+Market Share	حصة سوقية
+Market Testing	اختبار السوق
+market value	قيمة يحددها السوق
+marketing	تسويق
+Marks allocated for public bodies	علامات الجهات العامة
+Marks owned by legal entities	العلامة المملوكة للشخص المعنوي
+Marks owned by natural person	العلامة المملوكة للشخص الطبيعي
+marriage	زواج
+marriage certificate	شهادة زواج
+marriage contract	عقد زواج / عقد الزواج
+Maslow’s Hierarchy Of Needs	هرم ماسلو للاحتياجات
+Mass Production	الإنتاج بكثافة /الضخم / الإنتاج بكميات ضخمة
+Master Production Schedule	جدول الإنتاج الرئيسي
+Material Breach	خرق مادي
+Material Compensation	تعويض مادي
+material competence; competence of a court	اختصاص نوعيّ
+material crime	جريمة مادية
+material damage	ضرر ماديّ
+material element; actus reus (of a crime)	ركن ماديّ (للجريمة)
+Material Error	خطأ مادي
+Material Handling	تخطيط متطلبات المواد
+Material Requirements Planning (MRP)	تكاليف إعادة العمل المادي
+Materials Management	إدارة المواد
+maternity	أمومة
+maternity allowance	إعانة أمومة
+maternity insurance	تأمين الأمومة
+maternity leave; maternity holiday	إجازة الأمومة
+matrimonial property system	نظام الزوجية الماليّ
+Matrix Managing	إدارة المصفوفة
+Matrix Structure	هيكلة المصفوفة
+Maturities	آجال الاستحقاق
+Maverick Spend	الامتثال للعقد
+mayor	عمدة، رئيس بلدية
+Measurement Contract	عقد القياس
+measures of execution	طُرق التنفيذ
+measures of protection	إجراءات تحفظية
+mediation	وساطة
+mediator; middleman	وسيط
+medical certificate; health certificate	شهادة طبية
+medical coverage	تغطية صحية
+Medical Insurance	تأمين طبي
+medical report	تقرير طبيّ
+Medium-Context Culture	ثقافة السياق المتوسط
+medium-term	لأجل متوسط
+medium-term loan	قَرْض لأجل متوسط
+member	عضو
+Member States Of The ILO	دول الأعضاء في منظمة العمل الدولية
+members of the assembly	أعضاء الجمع، أعضاء المجلس
+memorandum	مذكرة (دبلوماسية أو سياسية)
+Memorandum of Understanding	مذكرة تفاهم
+Memorandum Of Understanding (MOU)	مذكرة تفاهم
+mendicity	تَسوُّل، استجداء
+mental element; mens rea (of a crime)	ركن معنويّ (للجريمة)
+Mentality	عقلية
+merchant	تاجِر
+mercy appeal	تظلُّم استعطافيّ
+Merge and Acquisition	الاندماج والاستحواذ
+Merger	اندماج
+Meta-Analysis	التحليل البعدي / التلوي
+Metadata	بيانات التعريف / الوصفية
+Metaphor	الإستعارة
+methods of extinction of obligation	أسباب انقضاء الالتزام
+methods of recourse	طُرق الطعن
+Metrics	مقاييس
+Mezzanine Floor	طابق الميزانين
+Middle Majority	أغلبية وسطى
+Milestone Payments	مدفوعات الهامة
+military court	محكمة عسكرية
+military crime	جريمة عسكرية
+military law	قانون عسكريّ
+military police	شرطة عسكرية، شرطة الجيش
+military service	خدمة عسكرية
+mine	مَنْجَم
+Mini-Competition	منافسة صغيرة
+minimum	حد أدنى
+Minimum Order Quantity (MOQ)	حد الأدنى لكمية الطلب
+Minimum Pricing	تسعير الأدنى
+minimum wage	حد أدنى للأجر
+minister	وزير
+Ministerial Committee	لجنة وزارية
+ministerial crisis	أزمة وزارية
+Ministerial Decision	قرار وزاري
+ministry of public building and works	وزارة الأشغال العمومية
+ministry of trade	وزارة التجارة
+Minor	قاصر
+Minor Breach	خرق بسيط
+Minor Irrevocable Divorce	طلاق بائن بينونة صغرى
+minor; under age	قاصر
+minority	أقلية / أقليَّة
+Mintzberg’s Five Ps	مينتزبيرج الخمسة
+minute	أصل
+minute-book	سِجلّ محاضر الجلسات، دفتر محاضر الجلسات
+misappropriation	غَدْر
+misdemeanor	جنحة
+mismanagement	إدارة سيئة، تسيير سيئ
+Missing Person	مفقود
+Mission	مهمة
+Mission Creep	زحف المهمة
+Mission Drift	انجراف المهمة
+mistake; fault	خطأ
+misuse	سوء استعمال، تَعسُّف، إساءة
+misuse of right	إساءة استعمال الحق
+Mitigate; Dilutive	تخفيف
+Mitigating Actions	إجراءات التخفيف
+mitigating circumstance	ظرف مخفِّف / ظرف مخفف
+mitigating factor	عامل مخفِّف
+mitigation of damages	تخفيض التعويض
+mitigation of sentence; mitigation of penalty	تخفيف الحكم
+mixed act	عمل مختلط
+mixed action	دعوى مختلطة
+mixed company	شركة مختلطة، شركة اقتصاد مختلط
+mixed condition	شرط مزدوج
+mixed economy	اقتصاد مختلط
+Mixed-Integer Programming (MIP)	برمجة الأعداد الصحيحة المختلطة
+Mobilization	تعبئة
+model	نموذج
+Model Contract	عقد نموذجي
+Model Contracts	نموذج العقود
+Modern Slavery	عبودية حديثة
+modification	تغيير، تعديل
+Modification works	مصنفات التعديل
+Modified Re-Buy	إعادة الشراء المعدلة
+Modular Design	التصميم المعياري
+monarchy	مَلَكِية
+Monetary Allowance	بدل نقدي
+Monetary Compensation	تعويض نقدي
+monetary inflation	تضخم نقديّ
+money	عملة، نَقْد
+Money Counterfeiting	تزييف النقود
+Money Laundering	غسل الأموال / غسيل أموال
+money lender	مقرِض أموال، مموِّل
+money market	سوق النقد، سوق نقدية
+monism	أحدية (ال..)
+monogamy	زواج (ال..) الأحادي
+Monopolistic Competition	منافسة احتكارية
+Monopoly	احتكار / الإحتفاظ بحق الملكية
+monopoly; cornering	احتكار
+Monte Carlo Model	نموذج مونت كارلو
+monthly	شهريّ
+monthly payment	أداء شهريّ، دَفْع شهريّ
+monthly salary	أجْر شهريّ، راتب شهريّ
+moral author	فاعل معنويّ
+Moral Compensation	تعويض معنوي
+moral constraint; moral coercion	إكراه معنويّ، إكراه أدبيّ
+moral damage	ضرر أدبيّ، ضرر معنويّ
+moral obligation	التزام معنويّ، التزام أخلاقيّ
+moral person	شخص معنويّ، شخص اعتباريّ
+Moral Punishment	عقاب معنوي
+Moral Right	حق أدبي / الحقوق الأدبية
+Moratorium	تعليق المطالبات
+moratory damages	تعويضات التأخر
+moratory interests	فوائد التأخير
+mortgage	رهْن رسميّ، رهْن عقاريّ
+mortgage by contract	رهْن اتفاقيّ
+Mortgage Creditor	دائن مُرتهِن
+mortgage debt	دَين مضمون برهن عقاريّ
+mortgage loan	قرض مضمون برهن رسميّ
+mortgaged property	ملك مثقل برهن رسميّ، ملك مرهون رهنا رسميا
+mortgagor	مدين مرتهن، مدين راهن لعقاره
+most favoured nation clause	شرط الدولة الأكثر رعاية
+motion of censure	ملتمَس الرقابة
+motivation	تسبيب، تعليل / تحفيز
+motive	باعث
+movable	منقول
+movable action	دعوى المنقول
+Movable Assets	أصول منقولة
+movable by anticipation	منقول بالمآل
+movable by nature	منقول بطبيعته
+movable by statute	منقول بالتخصيص
+movable property	أملاك منقولة / منقول
+MRO Inventory	جرد
+Multi-Cultural	متعدد الثقافات
+Multi-Discipline Team	فريق متعدد التخصصات
+Multi-Modal Transportation	نقل متعدد الوسائط
+Multi-National Company (MNC)	شركة متعددة الجنسيات
+Multi-National Organizations	منظمات متعددة الجنسيات
+multilateral treaty	معاهدة جماعية، معاهدة متعددة الأطراف
+multinational company	شركة متعددة الجنسيات
+multipartism	تعددية حزبية، نظام تعدد الأحزاب
+Multiple Sourcing	تعدد المصادر
+multiple voting share	سهم متعدد الأصوات
+Multisensory	متعدد الحواس
+municipal council; town council	مجلس بلديّ
+Municipal License	ترخيص بلدي
+murder	قَتْل عمديّ / قتل
+mutual agreement	اتفاق متبادَل
+mutual consent	تراضٍ متبادَل
+Mutual Information System On Social Protection (MISSOC)	نظام المعلومات المتبادلة بشأن الحماية الاجتماعية (مجسوك)
+mutual insurance	تأمين تعاونيّ، تأمين تبادليّ
+mutual insurance company	تعاضدية
+Mutual Recognition	اعتراف متبادل
+Mutual Recognition Agreement	اتفاقية الاعتراف المتبادل
+Mutual Surrender	الإستسلام المتبادل
+mutuality	تعاوُن، تعاضُد
+Myopic And Far-Sighted Contracts	عقود قصر النظر وبعيدة النظر

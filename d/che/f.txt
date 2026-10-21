@@ -1,0 +1,315 @@
+face centred cube	مكعب مركزي الوجه، مكعب متمركز الوجه
+face-centered cube	مكعب مركزي الوجوه
+factor	عامِل / عامل
+factorial	عاملي
+faded colour; fading colour	لون باهت، لون ناصل
+fahrenheit scale	سلّم فهرنهايت
+faience	صيني، خزف، مزخرف
+failure	إخفاق، عجز، قصور
+false	زائف
+falvour	طَعْم
+family	فصيلة / فصيلة، طائفة
+farad	فاراد
+Faraday	فارادي / فاراداي
+Faraday's law (of electrolysis)	قانون فاراداي (في الكهرلة)
+fast	سريع، صامد
+fastness	ثبات اللون
+fat	دهن، شحم / دُهْن، دَسَم
+fat hardening	تصليب الدهون
+fatigue	تَعَبٌ
+fatigue (of materials)	كلال (المواد)
+fatty	دُهْنِي، دَسِم
+fatty acid	حمض دهني / حمض دُهْنِي، حمض دَسِم
+fatty alcohol	غَوْل دُهْنِي
+fatty amine	أمين دَسِم
+fatty ester	إستر دَسِم
+fatty oil	زيت دَسِم
+favism	فُوال
+feature	سِمة, ملمح, مَعلَم
+feeble acid	حمض ضعيف
+feed	تغدية، تلقيم
+feed stocks	مخزون التغدية
+feedback	تغذية راجعة
+feeder	مغدٍّ، ملقِّم
+feeding	تلقيم
+feedstock	مخزون التلقيم
+Fehling's solution	محلول فهلنغ
+Fehling's test	اختبار فهلنغ
+feldspar	فلدسبار
+felspar	فلسبار
+felt	لبّاد
+femto	فمتو
+Fenton's reagent	كاشف
+ferment	خميرة
+fermentation	تخمُّر / تخمّر
+fermion	فِرميون
+fermium	فِرميوم
+ferric	حديدي، حديديك / حديد III
+ferric chloride	كلوريد الحديد III
+ferric oxide	أكسيد الحديد III
+ferricyanide	سيانيد الحديد III
+ferritin	فِرّيتين
+ferromagnetic	مغناطيسية حديدية / مغنطيسي حديدي
+ferromagnetism	مغنطيسية حديدية
+ferromagnétism	مغناطيسة حديدية
+ferrous	حديد II
+ferrous chloride	كلوريد الحديد II
+ferrous oxide	أكسيد الحديد II
+ferrous sulfate	كبريتات الحديد II
+fertility	خصوبة
+fertilizer	مخصِّب، سماد / سماد، مخصِّب
+fetal hemoglobin	هيموغلوبين جنيني
+fiber	ليف
+fiber glass	زجاج ليفي، ليف زجاجي / ليف زجاجي
+fiber; fibre	ليف
+fibrin	ليفين، فِبرين
+fibrinogen	مولِّد الليفين، مولِّد الفبرين
+fibroin	فِبْروين
+fibrous	ليفي
+fibrous glass	زجاج ليفي
+fibrous protein	بروتين ليفي
+field	حقل، مجال / ساحة، حقل
+figure	شكْل، رقم / رقم، رسم، شكل
+filament	سلك دقيق، شعيرة، خيط / شُعيرة
+file	مِبْرد
+filing	برادة
+filled subshell	طبقة ثانوية ممتلئة
+filler	مالئ
+fillers	حشوات، موالىء
+film	رقاقة، غشاء / غشاء، فِلم
+film strip	شريط صور
+filter	مرشّح / مرشِّح
+filter (to)	رشّح
+filter cake	كعكة ترشيح
+filter cartridge	خرطوشة المرشح
+filter flask	قارورة ترشيح
+filter funnel	قمع ترشيح
+filter paper	ورق ترشيح
+filter-press	مرشِّح ضاغط
+filterability	رَشوحية
+filterable	رَشوح
+filterable virus	فيروس رشُوح
+filtering flask	دورق ترشيح
+filtering funnel	قمع ترشيح
+filtrate	رشيح / رُشاحة
+filtration	ترشيح
+final (product)	نهائي (منتج)
+final state	حالة نهائية
+fine	ناعم / دقيق، ناعم
+fine chemicals	مواد كيميائية دقيقة
+fine powder	مسحوق ناعم
+fineness	نعومة
+fingerprint	بصمة إبهام
+finishing	إنهاء
+fire	نار، حريق / حريق، نار
+fire damp	غاز المناجم
+fire point	درجة الاحتراق
+fire polishing	صقْل بالنار
+fire proof; fire resistant	مقاوم للنار، مقاوم للحريق
+fire retardant	مُعيق النار (مُعَوِّق النار)
+fire-clay	غضار ناري
+fireproof	مقاوم للاحتراق
+first ionization potential	كمون التأيّن الأول
+first law of thermodynamics	قانون (ال...) الأول في الثرموديناميك / المبدأ الأول في الترموديناميك
+first order reaction	تفاعل من المرتبة الأولى
+Fischer-Tropsch process	طريقة فيشر تروبش
+Fischer-Tropsch synthesis	اصطناع فيشر- تروبش
+fish liver oil	زيت كبد السمك
+fish-tail burner	موقد ناشر اللهب
+fission	انشطار
+fission energy	طاقة الانشطار
+fissionable	شَطور
+Fittig's reaction	تفاعل فيتيغ
+Fittig's synthesis	اصطناع فيتيغ
+fitting	قِطع وصل، لوازم تثبيت
+fixation	تثبيت
+fixative	مثبِّت
+fixed	مثبَّت
+fixed proportion	نسبة تابثة
+flake	قُشيْرة، قُشارة
+flake (to)	قشّر
+flame	لهب
+flame photometer	مقياس ضوء اللهب
+flame photometry	تحليل باللهب
+flame test	اختبار باللهب، اختبار لهبي / اختبار اللهب
+flameproof	مقاوم للّهب
+flammability	التهابية
+flammable	لَهوب
+flannel	فانيلا
+flash	وميض / وميض، ومضة
+flash distillation	تقطير وميضي / تقطير ومضي
+flash point	نقطة الوميض
+flask	دورق / حوجلة، دورق
+flask (round bottom...)	دورق بقاعدة مدورة
+flask flat bottom	دورة بقاعدة مسطحة
+flask narrow-necked	دورق ضيق العنق
+flavin	فلافين
+flavine adenine dinucleotide	ثنائي نكلوتيد أدينين الفلافين
+flavine mononucleotide	أحادي نكلوتيد الفلافين
+flavone	فلافون
+flavonoid	فلافونويد
+flavoprotein	بروتين فلافوني
+flexible	لَدن، مرِن / ليّن
+flint	صَوّان / صوّان
+floating-roof tank	صهريج عائم السقف
+flocculant	مُندِّف
+flocculation	تحوصب، تدمّج / تندّف
+flora	نبيت، نباتات منطقة
+flotation	تعويم، طفو / تعويم
+flow	جريان
+flow; flux	تدفُّق
+flower of sulfur	زهر الكبريت
+flowmeter	مقياس تدفق
+fluctuation	ترجرُج / ترجّح
+fluid	مائع
+fluid extract	خلاصة مائعة
+fluidification	تمييع
+fluidity	ميوعة، مَيْع
+fluidization	تمييع
+fluidized bed	فِراش مُميَّع
+fluorescein	فلوروسئين / فلوروسيين
+fluorescence	تألُّق، تَفَلْوَرٌ / تَفَلْوُر
+fluorescent	متفلور
+fluoride	فلوريد، فلور
+fluorimeter	مقياس التفلور
+fluorinate(v)	يفلور
+fluorination	فلورة
+fluorine	فلورين، فُلور / فلور
+fluorocarbon	كربون فلوري
+fluorometry	قياس التفلور
+fluorosis	تسمُّم بالفلور
+flushing	شطْف، غسْل
+flux	دفق، صهور / تدفُّق، صُهارة
+foam	زَبَد، رغوة / رغوة
+focal length (distance)	بعد بؤري
+focus	بؤرة / بؤرة، محرق
+focusing	تبئير
+fog	ضباب
+foil	وُريقة
+fold	طية
+folic acid	حمض الفوليك
+folinic acid	حمض الفولينيك
+follicular hormone	هرمون جريبي
+food additives	مضافات غذائية
+force	قوة
+force constants	توابث القوة
+force pump	مضخة كابسة
+forceps	ملقط
+forecasting	تَنبُّؤ
+forensic chemistry	كيمياء جنائية
+form	شكْل / شكل
+formal charge	شحنة أساسية / شحنة شكلية
+formaldehyde	فورمالدهيد
+formalin	فورمالين
+formate	نملات، فورمات
+formation	تشكُّل
+formation constant	ثابت التشكل
+formic acid	حمض النمل، حمض الفورميك / حمض الفورميك (النمل)
+formol	فورمول
+formula	صيغة
+formula (empirical...)	صيغة تجريبية
+formula mass	كتلة الصيغة
+formulation	صياغة
+formyl	فورميل
+formylation	فرملة
+forward	متقدم، أمامي
+fouling	توسُّخ، اتساخ
+foundation	أساس، قاعدة
+founding	سباكة
+foundry	مسبك
+fracium	فرنسيوم
+fraction	كسر، جزء
+fraction of ionization	كسر التأين، تجزئة التأين
+fractional	مُجزّأ
+fractional analysis	تحليل مجزأ
+fractional combustion	احتراق مجزأ
+fractional condensation	تكثيف مجزأ
+fractional crystallisation	تبلور مجزأ
+fractional distillation	تقطير مجزّأ / تقطير مُجزّأ
+fractional precipitation	ترسب مجزأ
+fractionating colomn	عمود تجزئة
+fractionating column	عمود تجزئة
+fractionation	تجزئة / تجزيء
+fractionator	مُجزِّئ
+fracture	كسْر، تصدُّع
+fragant (oil)	عِطرٌ، أرِجٌ (زيت)
+fragile	هشّ، قصف / هشّ
+fragility	هشاشة، قصافة / هشاشة
+fragment	شُدفة، (جَذيذ)
+fragmentation	تشظية، تجزئة / تشدّف، (تَجَذُّذ)
+fragrance	عبير، شذا، أرج
+frame	إطار
+francium	فرنسيوم
+Frasch process	طريقة فْراش
+free	حُرّ، طليق / حر
+free energy	طاقة حرة
+free radical	جذر حرّ / جذر حر
+free rotation	دوران حُرّ
+freedom	حُرِّيَّة
+freezing	تجمُّد، تجميد / تجميد، تجمُّد
+freezing mixture	خليط تجميد
+freezing point	نقطة التجمد، درجة التجمد / درجة التجمُّد
+freezing point depression	انخفاض نقطة التجمد
+freezing point law	قانون انخفاض درجة التجمد
+freon	فريون
+freon (s)	فريون، فريونات
+frequency	تواتر، تكرار / تردّد، تواتر
+frequency factor	عامل التواتر، عامل التكرار
+frequent	متواتر، مألوف
+fresh	طازج
+friable	كَسور، قصوف، هشوش
+friction	احتكاك، حكّ / احتكاك
+Friedel-Craft reaction	تفاعل فريدل-كرافت
+friedel-craft's reaction	تفاعل فريدل-كرافت
+froth	زبد، رغوة / زَبَد
+fructosan	فروكتوزان
+fructose	سكر الفاكهة، فركتوز / فروكتوز (سكر الفاكهة)
+fucose	فوكوز
+fuel	وقود
+fuel cell	خلية وقود
+fuel gas	غاز الوقود
+fuel oil	مازوت، زيت الوقود
+fugacity	انسياب / انفلاتية
+fuilidité	ميوعة
+fullerines	فولّيرينات
+fulminic acid	حمض الفلمينيك
+fulvene	فولفين
+fumaric acid	حمض الفوماريك
+fume	دخان
+fume cupboard	داخون
+fume hood	داخون
+fumigant	معقِّم
+fumigant (s)	مدخن (مدخنات)
+fumigation	تدخين
+fuming	دخاني
+fuming acid	حمض مدخِّن
+function	وظيفة / وظيفة، دالّة
+function of state	دالّة الحالة
+functional	وظيفي
+functional group	مجموعة وظيفية، زمرة وظيفية / مجموعة وظيفية
+functional isomerism	تصاوغ وظيفي
+fundamental	أساسي
+fundamental particle	جُسيم أساسي (أوَّلي)
+fungi	فُطور
+fungicide	مبيد فطور / مبيد فطري
+fungus	فُطر
+funnel	قمع
+funnel support (holder)	حامل قمع
+fur	فرو
+furan	فيوران / فُوْران
+furanose	فورانوز
+furanose rings	حلقات فورانوزية، خواتم فيورانوزية
+furfural	فورفورال
+furnace	فرون، اتون / فرن
+furnace black	هباب الفرن
+fuse	صهيرة، فاصمة، قاطعة كهربائية
+fuse (v)	يصهر
+fused	مصهور، متداخل، مندمج
+fused rings	خواتم منصهرة / حلقات متداخلة
+fused salt	ملح مصهور (مندمج)
+fusel oil	زيت الفوزيل
+fusible	صَهر / صَهور
+fusible alloys	سبائك سهلة الانصهار، اشابات سهلة الانصهار
+fusing agent	عميل صهر
+fusion	انصهار، اندماج نووي / انصهار، اندماج
+fustet	فسطيط

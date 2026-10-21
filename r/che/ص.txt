@@ -1,0 +1,134 @@
+صابون	soap
+صابون زجاجي	glass soap
+صابون فلزي	metallic soap
+صابونين	saponin
+صادات قِلِويّة	alkaline buffers
+صادر	efferent
+صافي	clear
+صامد للضوء	light tight; light proof
+صبَّ	cast (to)
+صبَّ، سكَبَ	pour (to...)
+صباغ	pigment
+صِباغ أساسي	substantive dye
+صباغ شبيه بالنيلة	indigo dye
+صباغ واه	adjective dye
+صباغة	dyeing
+صِبْغٌ	dye
+صِبْغُ التيازول	thiazole dye
+صبغ الحوض، صبغ مرسِّخ	vat dye
+صِبْغُ السُلْفيد	sulfide dye
+صِبْغ تفاعلي	reactive dye
+صِبْغ ديازو	diazo dye
+صبغ راسخ	ingrain dye
+صِبْغ ستيلبيني	stilbene dye
+صِبْغ قاعديّ	basic dye
+صبغ مباشر	direct dye
+صبغ مبعثَر	dispersed dye
+صبغ مرسّخ	lake / mordant dye
+صبغ معتدل	neutral dye
+صِبْغٌ ناشئ	developed dye
+صبغ نباتي	vegetable dye
+صبغة	tincture
+صبغة اليود	iodine tincture / tincture of iodine
+صبغة حمضيّة	acid dye
+صبغة زنتيني	xanthene dye
+صبغة، صبغ	dye
+صِبغي، كروموزوم	chromosome
+صحة، ثبوت	validity
+صحيح، يمين	right
+صدأ	rust
+صدأ الحديد	irrion rust
+صَرف	drain
+صرف الدواءَ	dispense (to) / dispensing
+صريح، واضح، ظاهر	explicit
+صِغْرِيّ، مجهري، مِكرو: سابقة	micro-
+صفحة	sheet
+صفر	zero
+صفر (ال...) المطلق	absolute zero
+صُفْرٌ ضعيف	low brass
+صفراء	bile
+صفري التكافؤ، لا تكافؤي	zero valent
+صَفَّق	decant (to)
+صَفَّقَ السائل، نَقَلَ	tranfuse
+صفة، ميزة	character
+صفيحة	plate / sheet
+صفيحة سادَّة، صفيحة الاغلاق	obturator plate
+صفيحة نظرية	theoretical plate
+صفيحة، طبقة رقيقة	lamella; lamina; lamellae
+صَقَل	lap (to...) / lapping / polishing
+صقْل بالنار	fire polishing
+صلابة	rigidity / solidity
+صلْب	rigid / solid / solidify (to)
+صلب منتظم	regular solid
+صلب، جامد	solid
+صمام	valve
+صِمام (ج. صِمامات/أَصِمَّة)	valve
+صمام إبريّ	needle-valve
+صمام الأمان	safety valve
+صمام تنفيس	vent valve
+صمْغٌ	gum
+صمغ التربنتين	turpentine (gum)
+صمغ الجاوي (ال...)	gum (benzoin...)
+صمغ الزانتان	xanthan gum
+صمغ الكاوري	kauri gum
+صمغ اللّك	lac / lacquer
+صمغ المصطكا	mastic
+صمغ جاوة	gutta-percha
+صمغ زانتيني	xanthene dye
+صمغ عربي	arabic gum / gum arabic
+صمغ غامبوجي	gamboge gum
+صميم الإنزيم، أبّو إنزيم	apoenzyme
+صناعي	industriel
+صَنْدَل	santalum
+صنعي	artefact, artifact / artificial
+صنف	class
+صنفرة، سفن	emery
+صنو	epimer
+صِنْوٌ, توتومير	tautomer
+صِنوانية (مصاوغة)	keto-enol tautomerism
+صِنْويّ, توتوميري	tautomeric
+صِنْوية إينولية - كيتونية	enol-keto tautomerism
+صِنْوِيَّة, توتوميرية	tautomerism
+صُهارة	melt
+صهارة، مصهور	melt
+صَهر	fusible
+صَهْرٌ كيميائي	smelting
+صهريج عائم السقف	floating-roof tank
+صَهور	fusible
+صهيرة، فاصمة، قاطعة كهربائية	fuse
+صَوّان	flint
+صوَّان، سيلكس	silex
+صوتي	acoustic
+صودا	soda
+صودا الغَسْل	washing soda
+صودا الغسيل	soda (washing) / soda, washing / washing soda
+صودا كاوية	caustic soda
+صودا محورّة	modified soda
+صوديوم	sodium
+صورة بالأشعة السينية	x-ray photograph
+صورة طيفية للأشعة السينية	x-ray spectrogram
+صورة متآصلة	allotrope
+صوف	wool
+صوف أسبستوس، صوف أميانت	asbestos wool
+صوف زجاجي	glass wool
+صول، صل	sol
+صياغة	formulation
+صيانة	maintenance
+صيغة	formula
+صيغة إسقاطية	projection formula
+صيغة الكترونية	electronic formula
+صيغة بنيوية	constitutional formula / structural formula
+صيغة تجريبية	formula (empirical...)
+صيغة تجريبية، صيغة أولية	empirical formula
+صيغة تخطيطية	graphic formula
+صيغة تكوينة	constitutional formula
+صيغة جزيئية	molecular formula
+صيغة جنيسة	generic formula
+صيغة خِبرية	empirical formula
+صيغة كيكولة	Kekule structure
+صيغة كيميائية	chemical formula
+صيغة منطقية	rational formula
+صيغة منظورية	perspective formula
+صيني، خزف، مزخرف	faience
+صينية الصمام	valve tray
+صينية الغسل	wash tray

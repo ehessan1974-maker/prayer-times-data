@@ -1,0 +1,23 @@
+K إلكترونات الطبقة	K electrons
+Kأسـر الإلكترون	K-electron capture
+Kالخط	k-line
+Kالطبقة	K shell
+Kميزون	K meson
+Lالطبقة	L shell
+Lإلكترونات الطبقة	L electrons
+Mالطبقة	M shell
+Mإلكترونات الطبقة	M electrons
+Nالطبقة	N shell
+OASMالجملة	OASM system
+X أشعة سينية؛ أشعة	X-rays
+Y بلورة مقطوعة وفق المحور	y-cut crystal
+Zبلورة قطع وفق	z-cut crystal
+cross–section	absorption
+gالمعامل	g-factor
+iسبين	i_spin
+iنصف ناقل من النوع	i_type semiconductor
+j-j الاقتران	j-j coupling
+nنصف ناقل نوع	n-type semiconductor
+p نصف ناقل من النوع	p-type semiconductor
+p-n-pترانزستور	p-n-p transistor
+p-nوصلة	p-n junction

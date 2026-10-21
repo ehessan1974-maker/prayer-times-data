@@ -1,0 +1,178 @@
+نابذ	Centrifugal
+نَادِر	Hapax
+نادرة	jest
+ناسِخ	copyist; transcriber / script writer
+نَاشر إلكترونيّ	electronic editor
+ناقِل	transmitter
+نَبْر	Stress
+نَبر تراجعي	Recessive accent
+نبر مُقَيَّد	Bound accent
+نبرة	tone
+نبرة الاستفهام الأستراليّة	Australian Questioning Intonation (AQI)
+نبرة الصّوت	Pitch (of Voice)
+نبرة الكلام	Speaking Pitch
+نبرة صاعدة عالية	High Rising Tone (HRT)
+نبرة، لكنة	accent
+نَبْرِيات	Accentology
+نبصة	Click
+نُبوءة	prophecy
+نُبُـوغ	genius
+نثر	prose
+نَثْْر (أدبيّ)	prose (lit.)
+نثر مسجوع	rhymed prose
+نُجيمة	Asterisk
+نحاة (ال..) الجدد	Neogrammarians
+نَحْوٌ	Grammar
+نحو توليدي	Generative grammar
+نَحْوٌ كليّ	General grammar / Universal grammar
+نَحْوٌ مِعْيَاري	Normative grammar
+نَحْوٌ مقارَن	Comparative grammar
+نحو ملحق	paragrammatism
+نَحْوِي	Grammatical / Syntactic
+نَحْوِيَة	Grammaticality
+نُخبـة	elite
+نُخْرُوبي، نطعي، سِنْخِي	Alveolar
+نِدَاء دُعَائِيّ	Vocative
+نَزْعَة	Tendency
+نَزْعة إثنية	ethnicity
+نَزْعة إنسانية	humanism
+نزعة عاطفية	sentimentalism
+نزوة، هَوًى	caprice
+نسّاخ	copyist
+نِسْبية	relativism
+نَسْخ صوتي	Phonetic transcription
+نُسْخة	copy
+نسخة أولية، مخطوط أصلي	autograph
+نَسْخية	scriptural
+نَسق	system
+نَسق الحركة	Tempo
+نَسَقٌ، نِظام	System / system
+نِسْوية	feminism
+نَشْـر	publishing
+نشيد	hymn
+نشيد التَّيس	Goat’s song
+نشيد الملهاة	Komedia
+نشيد دِيُونيزوس	Dithyramb
+نشيط	Active
+نَصٌّ	Text / text
+نَصّ أدبيّ تشعّبيّ	hypertext literature
+نصّ إلكترونيّ	electronic text
+نصّ تام	phenotext
+نَصّ تشعبيّ	hypertext
+نصّ تشعُّبيّ تخييليّ	fiction hypertext
+نصّ ذاتي	auto-text
+نَصّ روائيّ تشعُّبيّ	hypertext novel
+نصّ شبكي	cybertext
+نصّ صُوريّ، نصّ أيقوني	iconotext
+نصّ محدود	limit text
+نص مُلحق	paratext
+نِصْف مُنغلِق	Half closed
+نِصْف منفتح	Half open
+نصّيّ	Textual
+نصّية شبكية	cybertextuality
+نضْد الأرغن	Mixing desk
+نُطْق جيد	Received prononciation
+نِظَام	Order
+نظام الأسماء	Onomastics
+نظام الحركة	Gestuality
+نظام الصوائت	Vocalic system
+نظام القافية	rhyme scheme
+نظام الكتابة	Writing System
+نظام الكتابة المقطعية	Syllabary
+نظام الوسائط المتصلة	hypermedia
+نظام صوتي رباعي	Quadrangular
+نظام لغويّ ثنائيّ	Diasystem
+نظام نبري	Accentual system
+نَظْرة	gaze; look
+نظرية	theory
+نظرية (ال..) النفسية الآلية، سيكوآليات	Psycho mechanics
+نظرية الأدب	theory of literature
+نظريّة الأفعال الخطابيّة	Speech Act (Theory)
+نظرية البوهرة	Bow bow theory
+نظرية التكيّف	Accommodation
+نظريّة التكيّف الخطابيّ	Speech Accommodation (Theory)
+نظرية التلقي	Reception theory / Theory of reception
+نظريّة العجز اللُّغويّ	Deixis
+نظرية العماء	chaos theory
+نظرية الفعل	action theory
+نظرية اللعب	theory of play
+نظرية المِحْوَرِيَة	Thematic theory
+نظرية المرآة	mirror theory
+نظرية المُسَلَّمَات	Axiomatic theory
+نظرية المعرفة	Epistemology / epistemology
+نظريّة النّشاط	Activity Theory
+نظرية تعدد أصول اللغات	Polygenesis theory
+نظريّة تكييف التّواصل	Communication Accommodation Theory (CAT)
+نظرية تنضيدية	Autosegmental theory
+نظرية لسانية	Linguistic theory
+نَظْم الشعر	versification
+نظير (في البناء)	Isomorph
+نَعْت	Epithet
+نَعْت، صِفَة	Adjective
+نَغْمَة	Chromatic / Melody / Tone
+نَغْمة ختامية	Cadence
+نَغْمِيّ	Tonal / Tonic
+نغمية	Tonality
+نفس لسانيات، سيكولسانيات	Psycholinguistics
+نفسيّ، سيكولوجيّ	psychological
+نَفْي	Negation / negation
+نَفْي مُطْلَق	Absolute negation
+نقاش خطابيّ	Metadiscourse
+نقد	criticism
+نقد اجتماعيّ	social criticism / sociocritic
+نقد أدبي	criticism
+نقْد أسطوري	mythic criticism
+نقد تحليليّ نفسيّ	psychocriticism
+نَقْد توليديّ	genetic criticism
+نقد جديد	new criticism
+نَقْد مَجالي	ecocriticism
+نقد مدعوم بالحاسوب	computer assisted criticism
+نقد معرفيّ	epistemocritic
+نقد هجائيّ	pamphlet
+نَقْد، نقدِي	critic
+نقديّ	Critical
+نَقْديـة	criticism
+نقدية ظاهراتية	phenomenological criticism
+نقريّ	Flap
+نقش قبري	epitaph
+نقص المعجميّة	Underlexicalization
+نقطة الاندماج	Point of integration
+نقطة الانطلاق	Starting point
+نَقْل	Calque / Deplacement / transfer
+نقل الانتشار	Relocation Diffusion
+نقْل ثقافيّ، إيصال ثقافيّ	cultural transmission
+نقل مقولي	Conversion
+نقل مكاني	Transposition
+نَقْل موضعيّ	transposition
+نَقْل، إيصـال	transmission
+نَقْل، قَلْب مكاني	Permutation
+نقيض الصّفوة	Counter-Elite
+نَكِرَة	Indefinite
+نمذجة، نمطية	typology
+نَمطٌ	Type / type
+نموذج	Model / Pattern / model
+نَمُوذَج أصلي	prototype
+نموذج التّمايز	Markedness Model
+نموذج الجاذبيّة	Gravity Model
+نموذج اللُّغة الحاضنة	Matrix Language Frame Model
+نموذج الموجة	Wave Model
+نموذج ماركوف	Markov model
+نموذجيّ	Paradigmatic
+نهائي	Terminal
+نِهايةُ القَـرْنِ	end of century
+نهاية القصّة	Coda
+نِهاية الكتاب	end of boock
+نهاية النّهاية	Achievement
+نهج أسلوبيّ	stylistic procedure
+نَهْضة	renaissance
+نُواح	lamentation
+نَوَاسِخ	Semi-auxiliary
+نَـَواة	Nucleus / kernel
+نواة المقطع	Syllabic nucleus
+نوع الذّكورة	Male Generic
+نوع النّصّ	Text Type
+نوعيّ	Qualitative
+نوعية	Hyponymy
+نوعية الصوت	Quality sound / Voice Quality
+نووي	Nuclear
+نِيَاسة، علم الأعراق البشرية	ethnology

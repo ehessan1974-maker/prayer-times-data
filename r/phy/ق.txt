@@ -1,0 +1,501 @@
+قائس المدى	range finder
+قائم	erect
+قابس	plug
+قابِس؛ آخذ	plug
+قابض مخروطي	cone clutch
+قابِل	acceptor
+قابل للانشطار	fissionable
+قابل للانكسار	refrangible
+قابل للرصد، مرصود	observable
+قابل للقياس	measurable
+قابل للقياس بالواحدات ذاتها	commensurable
+قابل للقياس، قابل للعد	commensurable
+قابلية التصفيح	malleability
+قابلية الذوبان؛ ذوبانية؛ انحلاليَّة	solubility
+قابلية القسمة	divisibility
+قادح	trigger
+قارئة	reader
+قارورة	Wolf's bottle
+قارورة مغنطيسية	magnetic bottle
+قاسٍ	hard
+قاطع الكادميوم الفعال (ن)	effective cadmium cut-off
+قاطعة	on-off switch / switch
+قاطعة الدارة	circuit breaker
+قاطعة ضوئية	optical switch
+قاطعة موقوتة	time switch
+قاعدة	Fleming's rule
+قاعدة الاستعباد المتبادل	rule of mutual exclusion
+قاعدة التبديل	commutation rule
+قاعدة التفرع	branching rule
+قاعدة الجمع الدوراني	rotational sum rule
+قاعدة الزمن	time base
+قاعدة الميزان	balance platform
+قاعدة اليد اليسـرى	left-hand rule
+قاعدة اليد اليسرى للمحرك	left-hand motor rule
+قاعدة اليد اليمنى	right-hand rule
+قاعدة أمبير	Ampere's rule / ampere rule
+قاعدة امتصاص	Babinet absorption rule
+قاعدة ترونتن	Tronton rule
+قاعدة جمع الاهتزازات	vibration sum rule
+قاعدة عنصر الوقود (ن)	fuel element base
+قاعدة غايغر-بريغس	Geiger-Briggs rule
+قاعدة ماتيسن	Mathiessen's rule
+قاعدة متقطعة	discrete base
+قاعدة مستمرة	continuous base
+قاعدة مُسَنَّنة	bayonet socket; joint base
+قاعدة معطيات	data base
+قاعدة هوند	Hund's rule
+قاعدة، أساس	base
+قانون	Bragg law / Brewster law / Charle's law / Gauss law / Gladstone-Dale law / Henry law / Hooke law / Joule law / Lenz law / Moseley law / Plank law / law
+قانون أرخميدس	Archimedes law
+قانون أسي	exponential law
+قانون الازاحة الطيفية	law of spectroscopie displacement; Kosselsommerfled displacement law
+قانون الاستطارة (ن)	scattering law
+قانون الانزياح	displacement law
+قانون الانعكاس	law of reflection
+قانون التبادلية	reciprocity law
+قانون التحليل الكمّي	quantitative law of electrolysis
+قانون التربيع العكسي	inverse-square law
+قانون التربيع العكسي (ن)	inverse square law
+قانون التناوب	law of alternation
+قانون السطوح	law of areas
+قانون الغاز	gas law
+قانون الغازات العام	general gas law
+قانون الفعل ورد الفعل	action and reaction law
+قانون الفُلطية	voltage law
+قانون المساحات	law of areas
+قانون انحطاط الطاقة	law of degradation of energy
+قانون انحفاظ الاندفاع	conservation law of momentum
+قانون انحفاظ الاندفاع الزاوي	law of conservation of angular momentum
+قانون انحفاظ الطاقة	conservation law of energy
+قانون انحفاظ الطاقة الميكانيكية	law of conservation of mechanical energy
+قانون أوم	Ohm law / Ohm's law
+قانون براغ	Bragg's law
+قانون بلانك	Planck's law
+قانون بلانك في التوزيع	Planck’s distribution law
+قانون بويل - ماريوط	Boyle's law
+قانون بير	Beer's law
+قانون بيو-سافار	Biot-Savart law
+قانون تبديلي	commutative law
+قانون تجميعي	associative law
+قانون تشايلد	Child's law
+قانون توزع مَكسويل-بولتزمان	Maxwell-Boltzmann distribution law
+قانون توزيع	Maxwell-Boltzmann distribution law
+قانون توزيعي	distributive law
+قانون جوران	Jurin's law
+قانون جول	Joule's law
+قانون جيب تمام للانبعاث	cosine emission law
+قانون حفض الزخم الزاوي	law of conservation of angular momentum
+قانون حفظ الطاقة الميكانيكية	law of conservation of mechanical energy
+قانون دالتون	Dalton's law
+قانون دوري	periodic law
+قانون دولونغ وبتي	Dulong and Petit law
+قانون رايلي - جينز	Rayleigh-Jeans law
+قانون ستوكس	Stokes's formula
+قانون ستيفان-بولتزمان	Stefan-Boltzmann law
+قانون شارل	Charles' law
+قانون غايغر-نوتال	Geiger-Nüttal's law
+قانون غراهام للانتثار	Graham's law of diffusion
+قانون غي- لوساك	Gay-Lussac's law
+قانون فعل الكتلة	mass action law
+قانون فيك	Fick's law
+قانون فين	Wein's law
+قانون فين في الانزياح	Wein displacement law
+قانون كمي	quantitative law
+قانون كوري	Curie's law
+قانون كوري- فايس	Curie-Weiss law
+قانون كولون	Coulomb law
+قانون كيرشوف	Kirchhoff's law
+قانون كيرشوف للتيارات	Kirchhoff's current law (KCL)
+قانون كيرشوف للفلطية	Kirchoff's voltage law (KVL)
+قانون للأقطاب المغناطسية	Coulomb law for magnetic poles
+قانون للشحنات الكهربائية	Coulomb law for electric charges
+قانون ماريوط	Mariotte's law
+قانون مالوس	Malus' law
+قانون مربع جيب التمام لمالوس	Malus cosine-squared low
+قانون موزلي	Moseley's law
+قانون نيوتن في التبريد	Newton's law of cooling
+قانون نيوتن في التثاقل العام	Newton's law of universal gravitation
+قانون هابل	Hubble's law
+قانون هنري	Henry's law
+قانون هوك	Hooke's law
+قانونا الانعكاس	reflection laws
+قانونا ديكارت	Descartes laws
+قانونا سنل ديكارت	Snell's laws
+قانوني	canonical
+قبس	plugging
+قبة سماوية	celestial sphere
+قبّة كروية	spherical cap
+قَبولية	admittance
+قَبولية الانتقال	transadmittance
+قبولية التغذية الراجعة	feedback admittance
+قبولية الخرج الفعّالة	effective output admittance
+قبولية الدخل الفعّالة	effective input admittance
+قبولية دليلية	indicial admittance
+قبولية، سماحية	admittance; permittivity
+قبيل الحرج (ن)	precriticality
+قدٌّ حرِجٌ	critical size
+قدّ؛ حجم	size
+قدح	beaker / cup
+قَدَح التركيز	concentration cup
+قدرة	power
+قُدْرة (ال...) الحرارية	calorific power
+قدرة اجمالية (ن)	gross power
+قدرة أساسية (ن)	base power
+قدرة إشعاعية؛ قدرة الإشعاع	radiated power
+قدرة الإضاءة	illumination power
+قدرة الاضمحلال (ن)	decay power
+قدرة الانعكاس	reflecting power
+قدرة الايقاف	stopping power
+قدرة الايقاف الخطية (ن)	linear stopping power
+قُدْرة الايقاف الذري (ن)	atomic stopping power
+قدرة التبدد	dispersion power
+قدرة التبديد	dispersive power
+قدرة التبطئة (ن)	slowing-down power
+قدرة التجسيم	magnifying power
+قدرة التدوير الضوئية	optical rotary power
+قدرة التكبير	magnifying power
+قدرة الجرعة الممتصة	power of absorbed dose
+قدرة الحصان بالواط	watt number per horse power
+قدرة الرفع	lifting power
+قدرة الرمي	throwing power
+قُدْرة الشمعة	candle power
+قدرة الضغط المعاكس (ن)	back pressure power
+قدرة العدسة	lens power / power of lens
+قدرة الفصل (ن)	separative power
+قدرة المِكْبَح الحِصانية	brake horsepower
+قدرة المَيز (ن)	resolving power
+قدرة الوقود (ن)	fuel power
+قدرة انبعاثية	emissive power; emissivity
+قدرة آنية	instantaneous power
+قدرة ايقاف كتلية (ن)	mass stopping power
+قدرة بصرية ماصة	optical absorption power; optical absorptivity
+قدرة تفريقية	dispersive power
+قدرة حرارية (ن)	thermal power
+قدرة حصانية	horse power
+قدرة حقيقية	real power
+قدرة خطية متوسطة (ن)	mean linear power
+قدرة دفع الشبكة	grid-driving power
+قدرة ردِّيِّة	reactive power
+قدرة صافية (ن)	net power
+قُدْرة ظاهرية	apparent power
+قدرة عُقَدِية	complex power
+قدرة فاعلة	active power
+قدرة كهربائية	electric power
+قدرة كهربائية (ن)	electrical power
+قدرة كهرحرارية	thermoelectric power
+قُدرة لاحقة (ن)	after-power
+قدرة متوسطة (ن)	average power
+قدرة نوعية	specific power
+قدرة نوعية (ن)	specific power
+قدرى عظمى (ن)	maximal power
+قدف	ejection
+قدم	foot
+قَدَم قنويَّة	slide caliper / vernier caliper
+قَدَمة	calliper; caliper
+قدمة انزلاقية	slide calipers
+قَدَمة؛ قَدَم قَنَوِيَّة	caliper rule
+قذف، قصف، رجم	bombardement
+قَذْفِيات (ال...)	ballistics
+قذيفة	projectile
+قذيفة صاروخية	missile
+قرائن ميلر	Miller indices
+قرص	disc
+قرص القياس	measuring disc
+قرص قطاعات	sector disk
+قرص متراص	compact disc
+قرص مغنطيسي	magnetic disk
+قرص موصّل	conducting disc
+قرص وقود (ن)	fuel pellet
+قرع	percussion
+قَرْن تحريضي	inductive coupling / transformer coupling
+قَرْنِيَّةٌ	cornea
+قرنية العين	eye cornea
+قريب	near
+قرينة	index
+قرينة الانكسار	index of refraction / refractive index
+قرينة الانكسار المطلقة	absolute index of refraction
+قرينة انكسار سالبة	negative index
+قرينة انكسار نسبية	relative index of refraction
+قرينة غير عادية	extraordinary index
+قزحية	iris
+قزحية العين	iris of eye
+قساوة	hardness
+قساوة الأشعة السينية	X-ray hardness
+قساوة برينيل	Brinell hardness
+قَسُومِيَّة	divisibility
+قشرة	shell
+قشرة التكافؤ	valence shell
+قشرة الكترونية	electron shell
+قشرة مغنطيسية	magnetic shell
+قصّ	shear
+قَصَافَة	brittleness
+قصدير	tin
+قِصر النظر	myopea
+قصور (ن)	inertia
+قصور صوتي	acoustic inertance
+قُصور كيميائي	chemical passivity
+قضبان التعديل	compensation bars
+قضبان تنظيم	regulation rods
+قضيب	bar
+قضيب الأمان (ن)	safety rod
+قضيب التحكم (ن)	control rod
+قضيب التحكم التقريبي (ن)	coarse control rod
+قضيب التحكم في القدرة	power control rod
+قضيب المولِّد (ن)	breeder rod
+قضيب الوقود	fuel rod
+قضيب تحكم	control rod
+قضيب تحكُّم بالمفاعل	reactor control rod
+قضيب تحكم في القدرة	power control rod
+قضيب توصيل	bus- bar
+قضيب كربوني	carbon rod
+قضيب مترجِّح	rocking bar
+قضيب مغنطيسي	magnet bar / magnetic bar
+قضيب وقود (ن)	fuel rod
+قضيب وقود مسند (ن)	tie rod; supporting; fuel rod
+قطار أمواج	train of waves
+قطاع	sector
+قِطاع مظلم	blind sector
+قطب	pole
+قطب (ال...) الأرضي المغنطيسي الشمالي	north magnetic pole of earth
+قطب المغنطيس	magnet pole
+قطب الموجة	pole of wave
+قطب باحث عن الجنوب	south-seeking pole
+قطب باحث عن الشمال	north-seeking pole
+قطب جنوبي	south pole
+قطب جنوبي (لمغنطيس)	south pole (of a magnet)
+قطب سالب	negative pole
+قطب سماوي	celestial pole
+قطب شمالي	north pole
+قطب موجب	positive pole
+قطبا مغنطيس	poles of a magnet
+قطباني كهربائي	electric dipole
+قطبانيّ مغنطيسي	magnetic dipole
+قُطباني/ذو قطبين	dipole
+قطبي	polar
+قطبي (ال...) الشمالي	north pole
+قطبية	polarity
+قطبية المغنطيسية العكسية	polarity (diamagnetic….)
+قطبية محتثة	induced polarity
+قطر	diagonal / diameter
+قطر جزيئي	molecular diameter
+قطرة	drop
+قطع زائد	hyperbola
+قطع مكافئ	parabola
+قطع ناقص، اهليلج	ellipse
+قفّاء	tracer
+قفّاء مشع	radioactive tracer
+قفص النقل (ن)	bird cage
+قفص فاراداي	Faraday cage
+قفل	lock
+قَفْل الأنماط	mode locking
+قفنطرة مترية	meter bridge
+قلب المغنطيس	magnetic core
+قلب رقائقي	laminated core
+قلب فِرِّيتي	ferrite core
+قلب؛ انقلاب	inversion
+قلقة، اضطراب	perturbation
+قلم قياس الجرعة (ن)	pen dosimeter
+قمر	moon
+قمع	funnel
+قمة كتلة الأم	parent mass peak; parent peak
+قِناع	mask
+قناة	channel
+قناة (ن)	canal
+قناة التشعيع (ن)	irradiation channel
+قناة المدخل (ن)	entrance channel
+قناة الوقود	fuel channel
+قناة وقود (ن)	fuel channel
+قنبلة	bomb
+قنبلة البلوتونيوم (ن)	plutonium bomb
+قُنْبلة ذرية (ن)	atomic bomb
+قنبلة كهرطيسية	electromagnetic bomb
+قنبلة نووية (ن)	nuclear bomb
+قنبلة نووية حرارية/هدروجينية	thermonuclear bomb
+قنبلة هدروجينية	hydrogen bomb (H-bomb)
+قنديلة	candela
+قنطرة	bridge / wheatston bridge
+قهرية	coercivity
+قواعد	Amagat - Leduc rules
+قواعد الاصطفاء	selection rules
+قواعد الانتقاء	selection rules
+قواعد شدة خطوط تعددية	multiplet intensity rules
+قوانين	laws of Kepler
+قوانين الإشعاع	radiation laws
+قوانين الانحفاظ	conservation laws
+قوانين الانعكاس	laws of reflection
+قوانين الانكسار	laws of refraction
+قوانين الترموديناميك	laws of thermodynamics
+قوانين الجيوب	laws of sines
+قوانين الحركة	laws of motion
+قوانين الحركة الدّواميّة	laws of vortex motion
+قوانين فارادي للتحليل الكهربائي	Faraday laws of electrolysis
+قوانين كبلر	Kepler's laws
+قوانين نيوتن الحركية	Newton laws of motion
+قوانين نيوتن في الحركة	Newton's laws of motion
+قوس	arc
+قوس زئبقي	mercury arc
+قوس زئبقية	mercury arc
+قوس فحمية	carbon arc
+قوس فُلطائية	voltaic arc
+قوس فولطية	voltaic arc
+قوس قزح	rainbow
+قوس قزح ابتدائية	primary rainbow
+قوس قزح ثانوي	secondary rainbow
+قوس قزح ثانوية	secondary rainbow
+قوس قزح قمري	lunar rainbow
+قوس كربونية	carbon arc
+قوس كهربائي	electric arc
+قوس كهربائية	electric arc
+قوسا بواسّون	Poisson brackets
+قوة	force
+قوة (ال...) الفاعلة	active force
+قوة الاحتكاك	friction force
+قوة الإرجاع	restoring force
+قوة الاسماع	sonority
+قوة التآثر	force of interaction
+قوة التماسُك	cohesive force
+قوة التنافر؛ قوة التدافع	repulsive force
+قوة الثقالة	force of gravity
+قوة الجذب	attraction force
+قوة الطَّفْو	buoyancy / buoyant force
+قوة العازل الاستقطابي	dielectric strength
+قوة العطالة	force of inertia / inertial force
+قوة القطب، شدة القطب	strength of the pole; intensity of the pole
+قوة المُرونة	elastic force
+قوة آنية	instantaneous force; instantaneous mecanomotive force
+قوّة أيونية	ionic strength
+قوة بعيدة المدى	long-range force
+قوة تجاذبية	attractive force
+قوة تفاعل حركي	kinetic reaction force
+قوة تمغنط تحريكية (دينمية)	dynamic magnetizing force
+قوة تمييز العين	eye resolving power
+قوة تنافرية	repulsive force
+قوة تنسورية؛ قوة موتِّرة	tensor force
+قوة ثابتة	constant force
+قوة جابذة	centripetal force
+قوة جاذبة	attractive force
+قوة خارجية	external force
+قوة داخلية	internal force
+قوة دافعة كهربائية	electromotive force
+قوة دافعة كهربائية عكسية	counter electromotive force; back electromotive force
+قوة دافعة كهربائية فعّالة	effective electromotive force; rootmean-square electromotive force
+قوة دافعة كهربائية محتثة	induced E.M.F
+قوة دافعة كهربائية مضادة، قوة دافعة كهربائية عكسية	back or counter electromotive force
+قوة دافعة كهرحرارية	thermo-electromotive force
+قوة دافعة مغنطسية عكسية	counter magnetomotive force
+قوة دفع كهربائي متوسطة	average electromotive force
+قوة دفع مغنطيسي	magnetomotive force
+قوة رباعية	four-force
+قوة رد الفعل	force of reaction
+قوة زائفة	pseudo force
+قوة ظاهرية	apparent force
+قوة عطالة	fictitious force
+قوة عظمى	maximum force
+قوة غير محافظة	non conservative force
+قوّة فعّالة	effective force; effective mecano-motive force
+قوة قاهرة	coercive force
+قوة قسرية ذاتية	intrinsic coercive force
+قوة قصيرة المدى	short range force
+قوة قهرية	coercive force
+قوة قهرية تحريكية (دينمية)	dynamic coercive force
+قوة كهراكدية	electrostatic force
+قوة كوريوليس	Coriolis force
+قوة لورنتز	Lorentz force
+قوة مبدِّدة	dissipative force
+قوة محركة كهربائية (ق.م.ك)	electromotive force (e.m.f)
+قوة محركة كهربائية عكسية	back electromotive force / counter electromotive force
+قوة محركة كهربائية محرَّضة	induced electromotive force
+قوة محرِّكة كهرحرارية	thermoelectromotive force
+قوة محصّلة	resultant force
+قوة محورية	axial force
+قوة مركزية	central force
+قوة مَركزية جاذبة	centripetal force
+قوة مركزية نابذة	centrifugal force
+قوة مسلطة	impressed force
+قوة معممة	generalized force
+قوة معيدة	restoring force
+قوة مغنطيسية	magnetic force
+قوة مفقودة	lost force
+قوة مقيِّدة	constraint force
+قوة مماسّية	tangential force
+قوة ممغنطة	magnetizing force
+قوة ميكانيكية	mechanical force
+قوة نابذة؛ قوة طاردة مركزية	centrifugal force
+قوة نووية	nuclear force
+قوة نووية (ن)	nuclear force
+قوة يوكاوا	Yukawa force
+قوى التفريق	dispersion forces
+قوى تبادلية	exchange forces
+قوى ضعيفة	weak forces
+قوى غير متوازنة	unbalanced forces
+قوى كهربائية	electric forces
+قوى متحدة المستوى	coplanar forces
+قوى متساوية	equal forces
+قوى متشابهة	like forces
+قوى متلاقية	concurrent forces
+قوى متوازية	parallel force / parallel forces
+قوى محافِظة	conservative forces
+قوى مستوية	coplanar forces
+قوى مغنطيسية	magnetic forces
+قيادة، أمر	command
+قياس الأبصار	optometry
+قياس الاستقطاب	polarimetry
+قياس الإشعاع	radiation measurement
+قياس الاشعاع (ن)	radiometry
+قياس الأشعة السينية	measurement of X-rays
+قياس الألوان	colorimetry
+قياس التألق	fluorometry
+قياس التداخل	interferometry
+قياس التضرم	pyrometry
+قياس التعكّر	turbidimetry
+قياس التفلور	fluorometry
+قياس التكدّر	turbidimetry
+قياس الجرعات (ن)	dosimetry
+قياس الجريان	measurement of flow
+قياس الحرارة	heat measurement
+قياس الرطوبة	hygrometry
+قياس الزمن	measurement of time
+قياس الضوء	photometry
+قياس الطيف	measurement of spectrum / spectrometry
+قياس العيِّنة (ن)	sample size
+قياس الكهرباء	electrometry
+قياس المدى صوتيًا	sound ranging
+قياس حرج (ن)	critical size
+قياس درجة الحرارة	thermometry
+قياس راديوي	radiotelemetry
+قياس طيف ضوء الانعكاس	reflectance spectrophotometry
+قياس طَيف مُختزل	abridged spectrophotometry
+قياس عن بعد	telemetry
+قياس كثافة السوائل	areometry
+قياسات خطية	linear measurements
+قياسات فيزيائية	physical measurements
+قياسات متآلفة	compatible measurements
+قياسات مغنطيسية	magnetic measurements
+قيد	constraint
+قيد حركي	motional constraint
+قيد لاهولونومي	nonholonomic constraint
+قَيْد متحرك	moving constraint
+قيد مثالي	ideal constraint
+قيد هولونوميّ	holonomic constraint
+قيراط	carat
+قيمة (ال...) الحرارية الاجمالية	gross calorific value
+قيمة (ال...) المتوقعة (ن)	expectation value
+قيمة (ال...) المقننة (ن)	rated value
+قيمة التخثُّر	coagulation value
+قيمة آنية	instantaneous value
+قيمة تقريبية	approximate value
+قيمة حد التشغيل (ن)	operating limiting value
+قيمة حدية عظمى مقبولة (ن)	maximum permissible limiting value
+قيمة حرارية	caloric value / calorific value / heating value / thermal value
+قيمة ذاتية	eigenvalue / proper value
+قيمة ذاتية منطبقة	degenerate eigenvalue
+قيمة عددية	numerical value
+قيمة عرض النصف	halfwidth value
+قيمة فعّالة	effective value
+قيمة فيفا (ن)	Fifa value
+قيمة متوسطة	average value / mean value
+قيمة متوقَّعَة	expected value
+قيمة مُطلَقة	absolute value
+قيمة مميَّزة (ن)	eigen value
+قيمة منتجة، قيمة فعالة	effective value

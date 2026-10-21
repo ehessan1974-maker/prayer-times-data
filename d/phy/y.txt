@@ -1,0 +1,21 @@
+Y- cut crystal	بلورة قطع صادي
+Y-axis	محور العينات؛ محور التراتيب
+y-cut crystal	Y بلورة مقطوعة وفق المحور
+YAG laser	ليزر ياغ
+yard	ياردة
+yardstick	عصا الياردة
+yaw	تأرجح رأسي
+yellow spot	بقعة (ال...) الصفراء / بقعة صفراء
+yield	مردود، محصول
+yield point	نقطة المطاوعة / حدُّ الخضوع
+yield strength	حدُّ المرونة
+ylem	بلازما أصلية / إيلم؛ هيولى
+yoke	نير / حافظة
+Young modulus of elasticity	معامِل يَنْغ للمرونة
+Young's experiment	تجربة يَنْغ
+Young's experiment of interference	تجربة / تجربة يَنْغ في التداخل
+Young's modulus	معامل المرونة
+Young's modulus of elasticity	معامل يونج للمرونة
+ytterbium	إتربيوم
+yttrium	إتريوم
+Yukawa force	قوة يوكاوا

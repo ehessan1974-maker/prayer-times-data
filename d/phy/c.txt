@@ -1,0 +1,966 @@
+cable	كَبْل
+cadmium	كادميوم
+cadmium cell	خلية كادميوم / خلية الكادميوم
+cadmium ratio	نسبة كادميوم (ن) / نسبة الكادميوم
+cadmium red line	خط الكادميوم الأحمر
+caesium	سيزيوم
+calandria	كالانريا (ن)
+calcite	كلس / كالسيت
+calcium	كالسيوم
+calculation of the incertitude	حساب الارتياب
+calculator	آلة حاسبة
+calefaction	تَكَوُّرٌ/تَقَطُّرٌ بسبب الحُمُو
+caliber; calibre	عيار
+calibration	مُعايرة / معايرة
+calibration curve	منحني المعايرة
+californium	كاليفورنيوم
+caliper rule	قَدَمة؛ قَدَم قَنَوِيَّة
+calliper; caliper	قَدَمة
+calomel electrode	مَسْرى كالوميل
+calorescence	توهج حراري
+caloric	حراري
+caloric effect	تأثير حراري
+caloric theory	نظرية السيال الحراري
+caloric value	قيمة حرارية
+caloric; thermic	حراري
+calorie	حُريرة
+calorie; calory	سُعرة
+calorific power	قُدْرة (ال...) الحرارية
+calorific value	قيمة حرارية
+calorimeter	مِسْعر / مِسْعَر
+calorimetric	مِسْعَري
+calorimetric coefficient	مُعامل مِسْعَري
+calorimetric test	اختبار مسعري
+calorimetry	مِسْعَرية، تسعير / مِسعَريّة
+calutron	كالُوترون
+camera	مصوِّرة، كاميرا
+camera lucida	صَوَّارة استجلائية / مصوِّرة استجلائية
+camera obscura; dark room	صَوَّارة جدارية
+can	غِمدْ
+can; gaine	عُلْبة (ن)
+canada balsam	بلسم كندا
+canal	قناة (ن)
+canal rays	أشعة قنوية / أشعة قَنَويِّة؛ أشعة موجبة
+candela	قنديلة
+candle	شمعة، قنديلة
+candle power	قُدْرة الشمعة
+canning	تعليب (ن)
+canonic equations	المعادلات القانونية
+canonical	قانوني
+canonical transformation	تحويل قانوني
+canonical variables	متغيرات قانونية
+capacitance	مُواسعة / مواسعة
+capacitance box	علبة مواسعات
+capacitance bridge	جسـر مواسعات
+capacitance coefficient	مُعامل المُواسعة
+capacitance meter	مقياس المواسعة
+capacitive coupling	اقتران وُسْعي
+capacitive feedback	تغذية راجعة وسعية
+capacitive load	حِمْل سعوي
+capacitive reactance	ردّية وُسْعيّة
+capacitive tuning	توليف وسعي
+capacitor	مكثف (مواسِعة) / مكثِّفَة
+capacitor color code	كود المكثفات اللوني
+capacitor filter	مرشح وسعي
+capacitor microphone	مكرفون مكثفي، لاقط صوت مكثفي
+capacity	سَعَة / سَعة؛ مواسعة
+capacity factor	عامل السَّعَة (ن)
+capillarity	شَعَرية / الخاصة الشعرية
+capillary action	فعل الشَّعرية / فِعْل شَعريّ
+capillary correction	تصحيح الشعَرية
+capillary pressure	ضغط الشعَرية
+capillary rise	صعود شعَري / صعود شَعْريّ
+capillary theory of separation	نظرية الفصل الشعَري
+capillary tube	أنبوبة شَعَرية / أنبوب شعريّ
+capture	أسْر (ن) / أَسـر
+capture cross section	مقطع عرضي الأسْر (ن)
+capture gamma radiation	اشعاع كاما الأسْري (ن)
+carat	قيراط
+carbon	الكربون
+carbon arc	قوس كربونية / قوس فحمية
+carbon arc lamp	مصباح قوسي كربوني / مصباح قوسـي فحمي
+carbon atom	ذرة الكربون
+carbon cycle	دورة الكربون
+carbon dioxide gas laser	ليزر ثنائي أكسيد الكربون
+carbon mass transfer	نقل كتلة الكربون (ن)
+carbon microphone	لاقط صوت فحمي
+carbon pile	عمود كربوني
+carbon rod	قضيب كربوني
+card	بطاقة
+cardinal points	نقاط رئيسية / نقاط أصلية
+carnot theorem	مبرهنة
+carnot's cycle	دورة كارنو
+carrier	حمّال (ن) / حامل
+carrier concentration	تركيز الحاملات
+carrier density	كثافة الحاملات
+carrier mobility	حَركيَّة حامل الشحنة
+carrier of charge	حامل الشحنة
+carrier wave	مَوجة حاملة / موجة حاملة
+carrier-free	بغير حمّال (ن)
+carriers recombination	اتحاد حاملات الشحنة
+Cartesian coordinate system	جملة إحداثيات ديكارتية
+cartesian coordinates	احداثيات ديكارتية / إحداثيات ديكارتية
+cartesian oval	اهليلج ديكارتي
+cascade	شلاّل (ن) / شلال تعاقبي
+cascade amplifier	مضخم تعاقبي
+cascade arrangement	ترتيب شلاّلي
+cascade generator	مولد تعاقبي
+cascade liquefier	مُسيل تعاقبي
+cascade shower	وابل تعاقبي، همرة تعاقبية
+cat's whisker	سلك شعري
+catacaustic	كاوٍ بالانعكاس
+catadioptric system	منظومة كاسـرة عاكسة
+catenary	سُلَيْسِلَة
+catenary linkage	ربط سُليسلي
+catenary; curve	سُليسلة
+cathode	مِهْبَط / كاتود، مَهبِط
+cathode bias	انحياز المِهْبَط / انحياز المَهبِط؛ انحياز الكاتود
+cathode coupling	اقتران مَهبِطي
+cathode follower	متتبِّع الكاتود؛ متتبِّع المَهبِط
+cathode glow	وهج المِهْبَط / غمد كاتودي
+cathode rays	أشعة مِهْبَطية / أشعة كاتودية؛ أشعة مَهبِطية
+cathode-ray oscilloscope	مِشواف ذبذبات أشعة المِهْبَط
+cathode-ray tube	أنبوب الأشعة المِهْبَطية / أنبوب الأشعة المَهبِطية
+cathode-rays oscillograph	مرسمة ذبذبات أشعة المِهْبَط / راسم الاهتزاز المَهبِطي
+cathodic protection	وقاية مِهْبَطية
+cathodoluminescence	لمعان مِهْبَطي
+cathodophosphorescence	لمعان (فسفوري) مِهْبَطي
+cation	كتيون
+cation; cathion; positive ion	آيون موجب
+Cauchy dispersion formula	صيغة كوشـي في التبدد
+causal	سببي (ن)
+causality	سببية (ال...) / سببية
+caustic	كاوٍ
+caustic surface	سطح كاوٍ
+Cavendish experiment	تجربة
+cavitation	تجوُّف
+cavitation number	عدد التجوُّف
+cavity resonator	مُجاوِب تجويفي
+CCD	سـي سـي دي
+CD	سـي دي
+CD-Rom	سـي دي روم
+cedar oil	زيت الأرز
+celerity	سـرعة الطور
+celestial mechanics	ميكانيك سماوي
+celestial pole	قطب سماوي
+celestial sphere	كرة سماوية / قبة سماوية
+cell	خلية
+cell correction factor	عامل تصحيح الخلية (ن)
+cell phone	هاتف خَلَوِيّ
+Celsisus temperature scale	سلم درجة الحرارة المئوي
+Celsius degree	درجة سلزيوس
+Celsius scale	سُلَّم سلزيوس
+center of area	مَركز ثقل السطح
+center of buoyancy; center of displacement	مَركز الطفو
+center of curvature	مَركز التكور، مَركز الانحناء / مركز الانحناء
+center of equilibrium	مَركز الاتزان
+center of gravity	مَركز الثقل / مركز الثِّقْل
+center of inertia	مَركز القصور الذاتي / مركز العطالة
+center of inversion; centre of inversion	مَركز العكس
+center of mass	مَركز الكتلة / مركز الكتلة
+center of mass system	نظام مَركز الكتلة
+center of oscillation	مَركز التذبذب
+center of percussion	مَركز الارتجاج
+center of pressure	مركز الدفع
+center of suspension	مَركز التعليق
+center of symmetry	مَركز التناظر / مركز التناظر
+center of volume	مَركز الحجم / مركز الحجم
+center(centre) of circle	مركز دائرة
+center; centre	مَركز
+centigrade degree	درجة مئوية
+centigrade scale	سلم (ال...) المئوي / سلم مئوي
+centigrade thermometer scale	مِحْرار مئوي
+centimeter-gram-second system	جملة الواحدات السغثية
+centimetre gram-second system (c.g.s)	نظام س - غ - ث
+central angle	زاوية مركزية
+central control	تحكم مركزي
+central field	حقل مركزي
+central field approximation	تقريب الحقل المركزي
+central force	قوة مركزية
+central potential	جُهد مركزي (ن) / كمون مركزي
+centre of pressure	مَركز الضغط
+centricity	مركزية
+centrifugal	طرد مركزي، نابذ
+centrifugal force	قوة مركزية نابذة / قوة نابذة؛ قوة طاردة مركزية
+centrifugal process	طريقة النبذ المركزي (ن)
+centrifugalization	نَبْذٌ
+centrifuge	نابِذة / مثفِّلة
+centripetal acceleration	تعجيل مَركزي جاذب / تسارع جابِذ
+centripetal force	قوة مَركزية جاذبة / قوة جابذة
+centrode	مسار مَركز
+centroid	مركز متوسط
+centroid; center of area	مَركز ثقل السطح
+cepheid stars	نجوم متغيرة السطوع
+ceramic capacitor	مكثفة خزفية
+ceramic fuel	وقود خزفي (ن)
+Cerenkov counter	عداد شيرنكوف
+Cerenkov radiation	اشعاع (ن) / إشعاع شيرنكوف
+cerium	سيريوم
+Cermet fuel	وقود (ن)
+cesium	سيزيوم
+cesium clock	ساعة السيزيوم
+chain	سلسلة (ن)
+chain decay	اضمحلال تسلسلي (ن)
+chain fission yield	مردود الانشطار التسلسلي (ن)
+chain reaction	تفاعل تسلسلي (ن) / تفاعل متسلسل
+change of state	تغيير الحالة / تغير الحالة
+channel	قناة
+channel selector	ناخب القنوات
+channeled spectrum	طيف قَنَوي
+channeling effect	تأثير قَنَويّ (ن)
+characteristic	خصائص مُميِّّزات
+characteristic curve	منحنى الخواص / منحني مميِّز
+characteristic decay	اضمحلال مميِّز
+characteristic equation	معادلة مميِّزة
+characteristic impedance	ممانعة مميِّزة
+characteristic of musical sound	مُميِّزات الصوت الموسيقي
+characteristic persistence	استمرار مميِّز
+characteristic radiation	اشعاع مُميِّز / إشعاع مميِّز
+characteristic x- rays	أشعة (ال...) السينية المميِّزة (ن)
+characteristic X-rays	الأشعة السينية المميِّزة
+characterization factor	عامل التمييز
+charge	شِحْنة (ن) / شحنة
+charge (to)	يشحن (ن)
+charge -transfer spectrum	طيف انتقال الشِّحنة
+charge conjugation	ترافق الشِحنة / ترافق الشحنات
+charge conservation	انحفاظ الشحنة
+charge density	كثافة الشحنة
+charge independence	استقلال عن الشحنة
+charge of electron	شِحْنة الالكترون / شُحنة الكترون / شحنة الإلكترون
+charge of nucleus	شحنة النواة
+charge-carrier	حامل الشحنة
+charge-coupled device	نبيطة نقل الشحنة
+charge-mass ratio	شِحْنة نوعية
+charge-reader	شاحن قارئ (ن)
+charged	مشحون
+charged particle	جسيم مشحون
+charged particles equilibrium	توازن الجسيمات المشحونة (ن)
+charging a body	شَحن جسم
+Charle's law	قانون
+Charles' law	قانون شارل
+charm	فتنة
+charm quark	كوارك فاتن
+chemical	كيميائي
+chemical action	فعل كيميائي
+chemical affinity	أُلفة كيميائية
+chemical analysis	تحليل كيميائي
+chemical bond	رابطة كيميائية
+chemical chiming	تعويض كيميائي (ن)
+chemical compound	مركَّب كيميائي
+chemical compounds	مركبات كيميائية
+chemical dosimeter	مقياس الجَرْعات الكيميائي (ن)
+chemical effects	تأثيرات كيميائية
+chemical energy	طاقة كيميائية
+chemical equivalent	مكافئ كيميائي
+chemical impurity; foreign atom; impurity atom	شائبة كيميائية
+chemical laser	ليزر كيميائي
+chemical passivity	قُصور كيميائي
+chemical potential	جهد كيميائي؛ كمون كيميائي
+chemical reaction	تفاعل كيميائي
+chemical tracer	مقتفٍ كيميائي
+chemically pumped laser	ليزر مضخوخ كيميائيًا
+chemosphere	جو كيميائي
+chief ray	شعاع رئيس / شعاع رئيسي
+Child's law	قانون تشايلد
+Child-Langmuir equation	معادلة تشايلد-لانغَمير
+chiller	مبرِّد
+chip	شِبَّة؛ رُقاقة، جُذاذة
+chirality	يدوانية
+chlorine	كلور
+choke	خانق
+choke coil	ملف خانق
+choke-capacitance	مواسَعة الخانق
+choking coil	ملف خانق
+chop and leach	شطر واذابة (ن)
+chopper	مقطِّع
+chopper transistor	ترانزستور مقطِّع
+chord	تآلُف / وتر
+chroma	لون
+chroma; saturation	تشبع لوني
+chromascope	كاشف اللون
+chromatic	لوني
+chromatic aberration	زيغ لوني
+chromatic aberration of eye	زيغ لوني للعين
+chromatic resolving power	مقدرة الفصل اللوني
+chromaticity	لونية (ال...) / لونية
+chromaticity coordinates	احداثيات لونية
+chromaticity diagram	مخطط اللونية
+chromatics	علم الألوان
+chromatographic adsorption	فصل لوني بالامتزاز
+chromatography	تحليل امتزازي؛ كروموتوغرافيا
+chrome films	أفلام كرومية
+chrominance	تلوّنية
+chromium	كروم
+chromophore; color-carrier; coulour-carrier	حامل اللون
+chromophoric electrons	الكترونات حاملة اللون
+chromosphere	كرة لونية
+chronograph	مَرسَمة الزمن / مسجّل الزمن؛ كرونوغراف
+chronometer	مقياس الزمن، ميقات / مقياس الزمن
+ciliary muscle	عضلة هدبية
+circle	دائرة
+circle of confusion; apertural effect	دائرة الالتباس
+circle of least confusion	دائرة الالتباس الأصغر
+circle of reference	دائرة مرجعية، اسنادية
+circle of similitude	دائرة المحاكاة / دائرة التشابه
+circuit	دارة
+circuit breaker	قاطعة الدارة / فاصم دارة
+circuit diagram	مخطط الدارة
+circuit element	عنصـر الدارة
+circular apeture diffraction	حيد بفتحة دائرية
+circular frequency	تردد دائري (ن)
+circular motion	حركة دائرية
+circular polarization	استقطاب دائري
+circular ring source	مصدر حلقي مغلق
+circulating reactor	مفاعل دوّار / مفاعلٌ دوَّارُ الوقود
+circulation	جَوَلان؛ دَوَران
+circumference	محيط
+cistern	حوض
+cistern barometer	مضغاط ذو حوض
+clad; clothe	رداء، غلاف
+cladding	إكساء
+clamped dielectric constant	ثابت عازل مكين
+clamping circuit	دارة قَمْط
+Clapeyron equation of state	معادلة كلابيرون في الغازات
+classical	تقليدي
+classical anharmonic motion	حركة لاتوافقية تقليدية
+classical electron radius	نصف القطر التقليدي للإلكترون
+classical harmonic oscillator	هزاز توافقي تقليدي
+classical limit	نهاية تقليدية (ن)
+classical mechanics	ميكانيك تقليدي
+classical physics	فيزياء تقليدية
+classical theory	نظرية تقليدية (ن)
+classical thermodynamics	ترموديناميك تقليدي، تحريك حراري تقليدي
+classified area	مِنْطَقة مصنَّفة (ن)
+clean reactor	مُفاعل نظيف (ن)
+clean-out	تنظيف (ن)
+cleavage	انفلاق
+cleavage plane	مُستوى الشطر / مستوي الانفلاق
+Clebsch-Gordan coefficients	معاملات كليبش-غوردان
+climate	مَناخ
+climate (effects of…)	تأتيرات المناخ
+climbing	تسلُّق
+clinical thermometer	مِحْرار طبي
+clockwise	باتجاه عقرب الساعة / باتجاه عقارب الساعة
+clodding	تغليف (ن)
+close packed structure	بِنْية متراصة / بِنية متراصّة
+closed circuit	دارة مُغْلَقة / دارة مغلقة
+closed circuit television	دارة تَلْفَزَة مغلقة
+closed loop	عروة مُغْلقة / عروة مغلقة
+closed set	مجموعة مغلقة
+closed shell	طبقة ممتلئة
+closed system	نظام مُغْلق / منظومة مغلقة
+closure relation	علاقة الإغلاق
+clothoid	حلزون كورنو
+cloud	سحابة / سحاب
+cloud chamber	غرفة سحابية، غرفة ضبابية / حجرة السحاب
+cloud point	نُقطة العكر
+cloud-track interpretation	تفسير الأثر السحابي
+cluster	عُنقود / حشد؛ عنقود
+cluster control rods	مجموعة قضبان التحكم (ن)
+coacervation	تحلل غروي
+coagulation	تخثُّر
+coagulation value	قيمة التخثُّر
+coarse control element	عنصر التحكم التقريبي (ن)
+coarse control rod	قضيب التحكم التقريبي (ن)
+coastal sitting	موقع ساحلي (ن)
+coated particle	جُسيْم مكسو (ن)
+coax	كبل متمحور
+coaxial	مُتَّحد المحور، متمحور
+coaxial cable	كَبْل متمحور
+coaxial coils	مِلفات متحدة المحور، متمحورة
+coaxial combination of lenses	ضم العدسات محوريًا
+coaxial line	خط مُتَّحد المحور، متمحور / خط محوري
+cobalt	كوبالت
+code	رِماز، كود
+coefficient	مُعامِل
+coefficient of absorption	مُعامل امتصاص
+coefficient of condensation	مُعامل التكثف
+coefficient of contraction	مُعامل التقلص
+coefficient of discharge	مُعامل التفريغ
+coefficient of elasticity	مُعامل المُرونة
+coefficient of expansion	مُعامل التمدد
+coefficient of heat conductivity	مُعامل التوصيل الحراري
+coefficient of Kinetic friction	مُعامل الاحتكاك الحركي
+coefficient of linear expansion	مُعامل التمدد الخطي
+coefficient of magnetic leakage	مُعامل التسرب المغنطيسي
+coefficient of recombination	مُعامل اعادة الاتحاد
+coefficient of resistance	مُعامل المقاومة
+coefficient of restitution	مُعامل الارتداد
+coefficient of self-induction	مُعامل الحثّ الذاتي
+coefficient of sliding friction	مُعامل الاحتكاك الانزلاقي
+coefficient of static friction	مُعامل الاحتكاك السكوني
+coefficient of surface tension	مُعامل التوتر السطحي
+coefficient of thermal conductivity	مُعامل التوصيلية الحرارية
+coefficients of induction	مُعامِلات الحَثّ
+coercive field	حقل قاهر
+coercive force	قوة قهرية / قوة قاهرة
+coercivity	قهرية
+coherence	ترابط
+coherent light	ضوء مترابط
+coherent radiation	اشعاع متماسك / إشعاع مترابط
+coherent scattering	استطارة متماسكة (ن)
+coherent scattering cross section	مَقْطَع عرضي للاستطارة المتماسكة (ن)
+coherent sources	منابع مترابطة
+coherer	ماسك (ال...)
+cohesion	تماسُك (ن) / تماسك
+cohesion energy	طاقة التماسُك
+cohesion pressure	ضغط التماسُك
+cohesive energy	طاقة التماسك
+cohesive force	قوة التماسُك / قوة التماسك
+coil	مِلَف / ملف
+coincidence	تطابق (ن)
+coincidence circuit	دارة تطابق / دارة انطباق
+coincidence resolving time	زمن الميز التطابقي (ن)
+cold cathode	مَهبِط بارد
+cold neutron	نترون بارد (ن)
+cold shutdown	ايقاف بارد (ن)
+cold testing	اختبار بارد (ن)
+collapsible cladding	تغليف ضعيف (ن)
+collar	طَوْق / طوق
+collar vortex; vortex ring	دوّامة طَوْقية
+collective dose	جرعة تجمعية (ن)
+collector	مُجَمِّع
+collectron; neutron detector	مكشاف النترونات (ن)
+colligative property	خاصية تركيزية
+collimation	تجميع
+collimator	مجمّع / مجمِّع، مسدِّد
+collimator of spectrometer	مجمّع المطياف
+collinear equations	معادلات متحدة الخط
+collision	اصطدام / تصادم
+collision coefficient; coefficient of restitution	مُعامل الاصطدام
+collision cross section	مقطع فعَّال للتصادم
+collision density	كثافة الاصطدام (ن) / كثافة التصادم
+collision of the first kind	تصادم من النوع الأول
+collision of the second kind	تصادم من النوع الثاني
+colloid	غراء / غَرَوي
+colloidal	غَروي / غَرَواني
+colloidal electrolyte	منحل (ال...) الكهربائي الغروي
+colloidal equivalent	مكافىء غَروي
+colloidal solution	محلول غَروي
+colloidal state	حالة غَروية
+colloidal suspension	معلّق غَروي
+colloidal system	نظام غَروي
+colloids	غَرويات
+color blindness daltonism	عمى لوني
+color center	مركز اللون
+color centers	مراكز لونية
+color discrimination	تمييز اللون
+color filter	مرشح لوني / مرشِّح لوني
+color matching; colour matching	ملائمة الألوان
+color mixture curve; colour mixture curve	منحنى خليط الألوان
+color mixture function; colour mixture function	دالة خليط الألوان
+color printing	طباعة ملونة
+color screen; colour screen	شاشة ملونة
+color sensation; colour sensation	حسن لوني
+color temperature; colour temperature	درجة حرارة اللون
+color theory; colour theory	نظرية الألوان
+color threshold; colour threshold	عتبة لونية
+color vision	رؤية لون / رؤية الألوان
+color, colour	لون
+color; colour	لون
+colored filters	مرشحات ملّونة
+colored fringes	أهداب ملّونة
+colorimetric purity; coorimetry factor	صفاء لوني
+colorimetry	قياس الألوان
+colorless	عديم اللون
+colors and pigments	ألوان (ال...) والأصباغ
+colour blindness	عمى الألوان
+columbium	كولومبيوم
+column	عمود
+coma	فاصلة / زيغ هالي
+combination principle	مبدأ التركيب / مبدأ الاتحاد
+combination unit	وَحْدَة التركيب
+combining weight; equivalent weight	وزن مكافىء
+combustibility	احتراقية
+combustion	احتراق
+combustion temperature	درجة حرارة الاحتراق
+command	قيادة، أمر
+commensurable	قابل للقياس، قابل للعد / قابل للقياس بالواحدات ذاتها
+commensurable motions	حركاتٌ قَدُوْرَة
+commissioning; start up	تشغيل (ن)
+common base connection	توصيلة قاعدة مشتركة؛ توصيلة قاعدة مؤرَّضة
+common chord	تآلف معتاد
+common collector connection	توصيلة مجمِّع مشترك؛ توصيلة مجمع مؤرَّض
+common emitter connection	توصيلة باعث مشترك
+common hydrometer	مكثاف اعتيادي
+common ion effect	تأثير أيون مشترك
+common pump	مِضَخّة اعتيادية
+common-emitter circuit	دارة الباعث المشترك
+communicating vessels	أوان مستطرقة / أواني مستطرِقة
+commutation	تبديل
+commutation rule	قاعدة التبديل
+commutative law	قانون تبديلي
+commutator	مبدِّل / مبدال؛ مبادل
+commuting operators	مؤثرات تبديلية
+compact disc	قرص متراص
+comparator	مقارِن
+comparator; comparator circuit	دارة مقارنة
+comparison spectrum	طيف مقارنة
+compass	بُوصلة / بوصلَة (موصِلة)
+compatible measurements	قياسات متآلفة
+compatible operators	مؤثرات متآلفة
+compensated ionization chamber	غرفة التأين المعوِّضة (ن)
+compensated pendulum	نُوَّاس معدَّل
+compensated pendulum; compensating pendulum	نَوّاس مُعَّوض
+compensating eyepiece	عينية مصحِّحة
+compensating plate	صفيحة معوِّضة
+compensation bars	قضبان التعديل
+compensation factor	عامل التعويض (ن)
+compensation in semiconductors	تعويض في أنصاف النواقل
+compensation theorem	مبرهنة التعويض
+compensator	معوِّض
+compiler	مصـرف
+complementarity principle	مبدأ التتّام / مبدأ التَّتام، التَّتامية
+complementary angles	زاويتان متتامتان
+complementary chromaticity	لونية متتامّة
+complementary colors	لونان متتامان
+complementary colours	ألوان متتامّة
+complementary rays	أشعة متتامّة
+complementary transistors	ترانزستوران متتامان
+complete circuit	دارة تامة
+complete dissociation	تفكك تام
+completeness relation	علاقة الاكتمال
+complex amplitude	سعة عقدية
+complex compounds	مركبات معقدة
+complex conjugate	مرافق عُقَدِي
+complex displacement	إزاحة مُعَقَدة
+complex function	دالَّة عُقَدية
+complex impedance	ممانعة عُقَدِيَّة
+complex ion	أيون مُركَّب
+complex liquid	سائل مُرَكَّب
+complex number	عدد عُقَدِي
+complex number theory	نظرية الأعداد المُرَكبة / نظرية الأعداد العقدية
+complex power	قدرة عُقَدِية
+complex power flow	جريان قدرة مُرَكبَة
+compliance constants	ثوابت المرونة
+component	مُرَكّبة / مركِّبة؛ مكوِّن
+components of accelaration	مركِّبات التسارع
+components of position vector	مركِّبات متجه الموضع
+components of velocity	مركِّبات السـرعة
+composite	مادة مركَّبة
+composition	تركيب
+composition of angular momentum	تركيب الزخم الزاوي
+composition of motions	تركيب الحركات
+compound	مُرَكَّب / مركَّب
+compound eye	عين مركَّبة
+compound lens	عدسة مُرَكَّبة / عدسة مركَّبة
+compound microscope	مِجْهَر مُرَكَّب / مجهر مركَّب
+compound nucleus	نواة مُرَكَّبة (ن) / نواة مركَّبة
+compound pendulum	نواس مركَّب
+compound pendulum; physical pendulum	نوّاس مُرَكَّب
+compound resonator	رنّان مُرَكَّب
+compressibility	انضغاطية
+compressibility factor	عامل الانضغاطية
+compressibility of liquids	انضغاطية السوائل
+compressible	ضَغُوط
+compressible flow	جريان ضَغُوط
+compression	انضغاط
+compressive stress	اجهاد الانضغاط
+Compton absorption	امتصاص
+Compton effect	تأثير (ن) / مفعول كومْتُن
+Compton formula	صيغة كومْتُن
+Compton radius	نصف قطر كومتُن
+Compton wavelength	طول موجة / طول موجة كومْتُن
+computer	حاسوب
+concave	مُقَعَّر / مقعر
+concave grating	محزز مقعر / شبكة مقعرة
+concave lens	عدسة مقعّرة / عدسة مقعرة
+concave mirror	مرآة مقعّرة
+concave reflection grating	محزز الانعكاس المقعر
+concave-convex-lens	عدسة مُقَعَّرة مُحَدَّبة
+concavo- concave lens	عدسة مقعرة الوجهين
+concavo- convex lens	هلال مبعِّد
+concavo-concave lens; biconcave lens	عدسة مقعّرة الوجهين
+concavo-convex lens	عدسة محدّبة مقعّرة
+concentrating reflector	عاكس مُرَكَّز
+concentration	تركيز
+concentration cup	قَدَح التركيز
+concentration method	طريقة التركيز (ن)
+concentration polarization	استقطاب بالتركيز
+concept	مفهوم
+concord	توافق الأصوات
+concurrent centrifuge	طاردة مركزية متواقتة (ن)
+concurrent forces	قوى متلاقية
+condensation	تكثيف / تكاثف
+condensation of electricity	تكثيف الكهرباء
+condensation pool	حوض التكثيف (ن)
+condensed film; condensed surface film	رِقّ مكثّف
+condensed matter	مادة مكثَّفة
+condensed system	نظام مكثَّف
+condenser	مُكثِّف / مكثِّف
+condenser ionization chamber	غرفة تأين ذات مُكثِّف (ن)
+condensers in parallel	مكثِّفات على التوازي، مكثِّفات متوازية
+condensers in series	مكثِّفات على التوالي، مكثِّفات متوالية
+condensing air pump	مضخة هوائية مكثِّفة
+condensing electroscope	مكشاف كهربائي مُكثِّف
+conditional stability; limited stability	استقرار شرطي
+conditions of equilibrium	شـرطا التوازن
+conductance	مواصلة / موصلية
+conductance ratio	نسبة المواصلة
+conducting disc	قرص موصّل
+conduction	توصيل (ال...) / توصيل، نقل
+conduction band	نطاق توصيل / عِصابة التوصيل؛ عِصابة النقل
+conduction electrons	إلكترونات النقل
+conduction of heat	توصيل الحرارة
+conductivity	توصيلية
+conductivity modulation	تعديل التوصيلية
+conductor	ناقل
+cone	مخروط
+cone clutch	قابض مخروطي
+cone of friction; friction cone	مخروط الاحتكاك
+cone of light	مخروط الضوء
+cone of partial shadow	مخروط الظل الجزئي
+cone of penumbra	مخروط شبه الظل
+cone of total shadow	مخروط الظل التام
+cone of umbra	مخروط الظّل
+configuration	تشكيلة
+configuration control	تحكم بالتشكيل (ن)
+confluent hypergeômetric function	دالة افراط هندسي وافدة
+congruent melting point	نقطة الانصهار المتوافقة / نقطة انصهار متطابقة
+congruent transformation	تحوُّل متطابق
+conical pendulum	نوّاس مخروطي / نوَّاس مخروطي
+conical refraction	انكسار مخروطي
+conjugate foci	بؤرتان مترافقتان
+conjugate points	نقطتان مترافقتان
+conjugate roots	جذران مترافقان
+conjugate solution	محلول مترافق
+connecting in multiple	توصيل على التضاعف
+connecting in parallel	توصيل على التوازي
+connecting rod	ذراع توصيل
+consequent poles	أقطاب متتابعة
+conservation law of energy	قانون انحفاظ الطاقة
+conservation law of momentum	قانون انحفاظ الاندفاع
+conservation laws	قوانين الانحفاظ
+conservation of angular momentum	حفظ الزَّخْم الزاوي / انحفاظ الاندفاع الزاوي
+conservation of charge	انحفاظ الشحنة
+conservation of energy	حفظ الطاقة
+conservation of mass and energy	انحفاظ الكتلة والطاقة
+conservation of momentum	حفظ الزَّخْم
+conservation of probability	انحفاظ الاحتمال
+conservation probability	حفظ الاحتمالية (ن)
+conservative field	حقل محافِظ
+conservative flux	تدفق محافظ
+conservative force field	مجال قوة محافظة
+conservative forces	قوى محافِظة
+conservative system	نظام محافظ (ن)
+consistency	انسجامية
+consistency condition	شـرط الاتّساق
+consolute	كامل الامتزاج / كامل الامتزاج؛ مَزُوْجٌ كامل
+consolute temperature	درجة حرارة الامتزاج الكامل
+consonance	تناغُم / تناغم
+constant boiling mixtures	مخاليط ذات نقطة غليان ثابثة
+constant deviation spectrometer	مطياف الانحراف الثابت
+constant force	قوة ثابتة
+constant vector	متَّجه ثابت
+constant-current characteristic	مميّز(ة) تيار ثابت
+constant-deviation prism	موشور الانحراف الثابت
+constantan	كونستانتان
+constants of the motion	ثوابت الحركة (ن)
+constitution	تكوين
+constitution diagram	مخطط تكويني
+constitutive property	خاصة تكوينية
+constrained motion	حركة مُقَيَّدة
+constraint	قيد
+constraint force	قوة مقيِّدة
+constrainted motion	حركة مقيَّدة
+constringence	معكوس التبديد
+constructive interference	تداخل بنّاء
+contact	تماس
+contact angle	زاوية التَّماس / زاوية التماس
+contact lens	عدسة لاصقة
+contact potential	جهد التَّماس / جهد التماس
+contact resistance	مقاومة التماس
+contact surface	سطح التَّماس
+contact wire	سلك التَّماس / سلك التماس
+contactor	فاصل واصل
+containment	احتواء (ن)
+continuity	اتصال (ن)
+continuity equation	معادلة الاستمرارية / معادلة الاستمرار
+continuity of state	استمرارية الحالة
+continuous	متصل (ن)
+continuous base	قاعدة مستمرة
+continuous beam	عارضة متصلة
+continuous current	تيار مستمر
+continuous operation	عمليّة مستمرة
+continuous spectrum	طيف متصل / طيف مستمر
+continuous wave	موجة مستمرة
+continuous x radiation	اشعاعات سينية متواصلة (ن)
+continuum	المتَّصل
+contour	كِفاف
+contour lines	خطوط الكفاف (ن)
+contract sensitivity	حساسية التباين
+contraction	تقلُّص / تقلص
+contraction of length	تقلُّص الطول
+contrast	تباين
+control	مراقبة، تحكُّم
+control margin	هامش التحكم (ن)
+control member	عضو التحكم (ن)
+control panel	لوحة تحكم
+control rod	قضيب التحكم (ن) / قضيب تحكم
+control rod configuration	تشكيل قضيب التحكم (ن)
+control rod sequence	ترتيب قضبان التحكم (ن)
+control rod worth	فعالية قضيب التحكم (ن)
+control unit	وحدة التحكم
+control valve	صمام التحكّم
+controlled area	مِنْطَقة مراقبة (ن)
+convection	حِمْل / حَمْل
+convection currents	تيارات حِمْل / تيارات الحَمْل
+convection of heat	حِمْل الحرارة
+convective equilibrium	توازن حِمْلي
+conventional current	جهة التيار الاصطلاحية
+conventional flux density	كثافة التدفق المعتادة (ن)
+convergence	تقارب
+convergence of fluid	تقارب المائع
+convergent lens	عدسة لامَّة / عدسة مقربة
+convergent rays	أشعة ملتمة / أشعة متقاربة
+converging lens	عدسة لامّة
+conversion	تحوّل (ن)
+conversion electron	الكترون التحوّل (ن)
+conversion ratio	نسبة التحوّل (ن)
+conversion with pair creation	تحوُّل مع تكُّون زوج
+converter reactor	مفاعل محوّل (ن) / مفاعل محِّول
+convertible lens	عدسة متحولة
+convex	محدّب / محدَّب
+convex lens	عدسة محدّبة / عدسة محدبة
+convexity	تحدّب
+convexo- concave lens	هلال مقرِّب
+convexo-concave lens	عدسة محدبّة مقعرة
+convexo-convex lens	عدسة محدبة الوجهين
+convolution of two functions	تلافّ دالتين
+coolant	مبرِّد / مادة مبرِّدة
+cooler	برّاد
+cooling	تبريد (ن) / تبريد
+cooling by adiabatic demagnetization	تبريد (ال...) بانتزاع كظيم للمغنطسية
+cooling curve	منحنى التبريد
+cooling pond	بركة التبريد (ن)
+cooling surface	سطح التبريد
+cooling time	زمن التبريد (ن)
+cooling tower	برج التبريد (ن)
+cooperative assembly	تجمع تعاوني
+cooperative phenomenon	ظاهرة تعاونية
+coordinate bond	رابطة تساندية
+coordinate system	جملة إحداثية
+coordinate valence	رابطة تساندية
+coordinates	إحداثيات
+coordination	تنسيق
+coordination lattice	شبيكة تنسيقية
+coordination number	عدد تنسيق
+coordination polyhedral	كثيرات الوجوه التنسيقية
+coplanar forces	قوى متحدة المستوى / قوى مستوية
+copper	نحاس
+coprecipitation	ترسيب متشارك (ن)
+core	لبّ / نواة؛ قلب
+core structure	بنية اللب (ن)
+Coriolis acceleration	تسارع كوريوليس
+Coriolis force	قوة كوريوليس
+cornea	قَرْنِيَّةٌ / قرنية
+Cornu double prism	موشور مضاعف
+Cornu polariscope	مشواف الاستقطابي
+Cornu spiral	حلزون كورنو
+corona	هالة / هالة؛ إكليل
+corona discharge	تفريغ هالي / تفريغ إكليلي
+corpuscle	جُسَيم
+corpuscular theory of light	نظرية (ال...) الجسيمية للضوء / النظرية الجُسَيمية للضوء
+correction	تصحيح
+correction of defects of vision	تصحيح العيوب البصـرية
+correction to vacuum	تصحيح الفراغ
+correlated color temperature	درجة حرارة اللون المترابط
+correlation	ارتباط (ن) / ترابط
+correlation coefficient	مُعامل الترابط
+correlation energy	طاقة الترابط
+correspondence principle	مبدأ التوافق (ن) / مبدأ التقابل
+corresponding states	حالات متقابلة
+corrosion	تأكّل
+cosh function	دالة التجيب القطعي
+cosine	جيب تمام / جيب التّمام؛ تجيب
+cosine emission law	قانون جيب تمام للانبعاث
+cosmic radiation	اشعاع كوني (ن)
+cosmic rays	أشعة كونية
+cosmic rays counter	عداد أشعة كونية
+cosmology	علم الكون
+cosmos	كون (ال...)
+Cosmos satellites	السواتل كوزموس
+cosmotron	كوزموترون
+cost of electric energy	كلفة الطاقة الكهربائية
+cost of electric light	كلفة الاضاءة بالكهرباء
+coulomb	كولوم (ال...) / كولوم، أمبير ثانية / كولون
+Coulomb barrier	حاجز (ن) / حاجز كولوني
+Coulomb degeneracy	تفكك كولومي
+coulomb excitation	تهيج كولوم (ن)
+coulomb field	حقل كولوني
+Coulomb law	قانون كولون
+Coulomb law for electric charges	قانون للشحنات الكهربائية
+Coulomb law for magnetic poles	قانون للأقطاب المغناطسية
+Coulomb repulsion	تدافع كولوني
+counter	عدَّاد
+counter electromotive force	قوة محركة كهربائية عكسية
+counter electromotive force; back electromotive force	قوة دافعة كهربائية عكسية
+counter magnetomotive force	قوة دافعة مغنطسية عكسية
+counter range	مدى العداد (ن)
+counter tube	أنبوب العداد (ن)
+counter-current braking or plugging	كبح بالتيار المعاكس
+counter-current centrifuge	طاردة مركزية ذات تيار مضاد (ن)
+counting loss	فقد العد (ن)
+counting rate	مُعدل العد (ن) / معدَّل العد
+counts	معدودات
+couple	مزدوجة / مزدوِجة
+coupled circuits	دارات مترابطة / دارات متقارنة
+coupled coils	ملفات مترابطة
+coupled machines	ماكنات مترابطة
+coupled oscillators	متذبذبات مزدوجة (ن)
+coupled pendulums	نواسان مقترنان
+coupling	ترابط / اقتران؛ تقارن
+coupling capacity	سَعة الترابط
+coupling constant	ثابتة التقارن
+covalence	تكافؤ / ربط تساهمي
+covalency	ربط تساهمي
+covalent bond	رابطة تساهمية
+covalent bond; homopolar bond	آصرة تكافؤية
+covalent compound	مركب تكافؤي
+covalent crystal	بلورة تكافؤية / بلورة تساهمية
+covariant	متغاير
+cover glass	زجاجة ساترة
+cover slide	شـريحة واقية
+covolume	مُتَّحِدُ الحجم / حجم مكافئ
+creation operator	مؤثر الإحداث
+creep	زحف
+cristalline axis	محور بلوري
+critical	حَرِج (ن)
+critical angle	زاوية حرجة
+critical assembly	مجمَّع حرِج (ن)
+critical coefficient	معامل حَرِج
+critical composition	تركيب حَرِج
+critical concentration	تركيز حَرِج
+critical damping	تخامد حَرِج / تخامد حرج
+critical density	كثافة حَرِجة
+critical equation	معادلة الحَرَج (ن)
+critical experiment	تجربة الحَرَج (ن) / تجربة حرجة
+critical field	مجال حَرِج
+critical frequency	تواتر حرج
+critical humidity	رطوبة حَرِجَة
+critical inductance	حِثِّيَة حَرِجَة
+critical mass	كتلة حَرِجة / كتلة حرجة
+critical opalescence	بريق حَرِج
+critical organ	عضو الحَرَج
+critical point	نقطة حَرِجَة / نقطة حرجة
+critical potential	كمون حرج
+critical pressure	ضغط حَرِج
+critical reactor	مفاعل حَرِج / مفاعل حرج
+critical region	منطقة حَرِجة
+critical shear stress	اجهاد قص حرج
+critical size	قياس حرج (ن) / قدٌّ حرِجٌ
+critical speed	انطلاق حرج
+critical state	حالة حرجة
+critical temperature	درجة الحرارة الحرجة / درجة حرارة حرجة
+critical velocity	سـرعة حرجة
+critical velocity of flow	سرعة الجريان الحرجة
+critical volume	حجم حَرِج (ن) / حجم حرج
+criticality	حَرَج / حَرَجِية
+cross bar	عتلة
+cross coupling	ترابط طفيلي، ترابط تصالبي / تقارن طفيلي
+cross polarization	استقطاب متصالب
+cross product	جداء متجهي / جُداء متَّجهي؛ جداء خارجي
+cross section	مقطع عَرضي / مقطع فعَّال؛ مقطع قائم
+cross section of a body	مقطع عَرضي لجسم
+cross wires	خَطَّا المحكِّمة
+cross-hair lines	خيطان شعريان متصالبان
+cross-over point	نقطة التقاطع
+crossed lens	عدسة متصالبة
+crossed position	وضع متصالب
+crowbar	رافعة / رافعة؛ مُخْل
+crude	خام (ن)
+cryogenic device	جهاز قَرِّي
+cryogenic system	نظام مبردّ
+cryogenics	القرِّيات
+cryohydric point	نقطة تجمد المحاليل
+cryoscopic constant	ثابت تجمد المحاليل
+cryoscopy	عِلم تجمد المحاليل
+cryostat	مثبت الحرارة القرِّية
+crystal	بلّور (ة) / بلورة
+crystal angles	زوايا البلّورة / زوايا البلورة
+crystal anisotropy	لاتناحي بلوري
+crystal axis	محاور البلورة
+crystal blank	صُفَيْحة بلّورية، شِحفة
+crystal cut	مقطع بلّوري
+crystal defect	عيب بلوري
+crystal detector	مكشاف بلّوري / مكشاف بلوري
+crystal elements	عناصر البلّورة
+crystal field	مجال بلّوري
+crystal grating	شبكة انعراج بلورية
+crystal growth	نمو البِلَّورة / نمو البلورة
+crystal habit	شكل البِلَّورة / هيئة بلورية
+crystal lattice	شبيكة بلورية
+crystal momentum	زخم البِلَّورة
+crystal oscillator	هزاز بلوري
+crystal oven	موازن حرارة البِلَّورة
+crystal parameters	مثبتات البِلَّورة / وسطاء البلورة
+crystal pulling	تبلور بالسحب
+crystal rectifier	مقوِّم بِلَّوري
+crystal slab	صُفَّاحة بِلورية
+crystal spectrometer	مطياف بِلَّوري (ن)
+crystal structure	بنية بِلَّورية / بنية البلورة
+crystal symmetry	تناظر بِلَّوري / تناظر البلورة
+crystal systems	نظم بِلَّورية
+crystalline	بِلَّوري (ن)
+crystalline anisotropy energy	طاقة تباين الخواص البِلَّورية
+crystalline electric field	الحقل الكهربائي البلوري
+crystalline lens	الجسم البلوري
+crystalline lens of eye	عدسة (ال...) البِلورية للعين
+crystallisation	تبلور
+crystallite	حُبَيبَة بِلَّورية
+crystallites	بُلَيْلِرات
+crystallization	تبلور
+crystallographic axes	محاور البِلَّوريات
+crystallographic axial rations	نسبة (ال...) المحورية في علم البِلَّوريات
+crystallography	علم البِلَّورات / علم البلورات
+cubic crystal	بلورة مكعبية
+cubic lattice	شبيكة مكعبة
+cubical expansion	تمدد حجمي
+cumulative dose	جرعة متراكمة / جرعة تراكمية
+cumulative fission yield	مردود الانشطار المتراكم (ن)
+cup	قدح
+curie	كوري
+Curie point	نقطة كوري
+Curie temperature	درجة حرارة كوري
+Curie's law	قانون كوري
+Curie-Weiss law	قانون كوري- فايس
+curium	كوريوم (ال...) / كوريوم
+curl	تدوير (ن) / دُوّار
+current	تيار
+current balance	ميزان التيار
+current density	كثافة التيار (ن) / كثافة التيار
+current gain	كسب التيار
+current generator	مولّد التيار
+current intensity	شدة التّيار
+current ionization chamber	غرفة تأين التيار (ن)
+current of air	تّيار هوائي
+current phase	طور التيار
+current reverser	عاكس التيار
+current transformer	محوّل التّيار
+curvature	انحناء / انحناء؛ تقوُّس
+curvature of surface	انحناء السطح
+curve	مُنحنَى / منحني
+curved space-time	الزمكان المنحني
+curves of displacement	منحنيات الازاحة
+curvilinear coordinates	إحداثيات منحنية
+cut- off current	تيار القطع
+cut-off bias voltage	فولطية انحياز القطع
+cut-off energy	طاقة القطع (ن)
+cut-off frequency	تردد القطع
+cut-off voltage	فولطية القطع / توتر القطع
+cut-off wavelength	طول موجة القطع
+cycle	دورة
+cyclic	دوري
+cyclic operation	عملية دورية
+cycloid	سكلوئيد
+cycloidal pendulum	نوّاس دحروجي
+cyclotron	معجِّل دوراني (ن) / سكلوترون
+cyclotron frequency	تردد سكلوتروني
+cyclotron radiation	إشعاع سكلوتروني
+cyclotron resonance	تجاوب سكلوتروني
+cylinder	اسطوانة / أسطوانة
+cylindrical capacitor	مكثفة أسطوانية
+cylindrical condenser	مكثف اسطواني
+cylindrical coordinates	احداثيات اسطوانية (ن) / إحداثيات أسطوانية
+cylindrical lens	عدسة أسطوانية
+cylindrical wave	موجة أسطوانية

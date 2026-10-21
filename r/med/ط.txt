@@ -1,0 +1,1640 @@
+طائر	bird
+طَائِفَة (في تصنيف الأحياء)	superfamily
+طابِعٌ	impression tray
+طابِعٌ إِفْرادِيّ	individual tray
+طابَعٌ إِفْرادِيّ [أسنان]	custom impression tray
+طابِعٌ أكريليكيّ [أسنان]	acrylic resin tray
+طابِعُ التِّيجانِ و الجُسور	crown and bridge tray
+طابِعُ الزُّجاجِ الغَمِيْمِ	opal glass tray
+طابَعُ الصَّوْت	timbre
+طابِعُ الفَمِ الأَدْرَد	edentulous tray
+طابِعُ الفَمِ ذي الأَسْنان	dentulous tray
+طابِعُ تَطْبيقِ الفلور [أسنان]	flura tray
+طابِعُ جُزْئِيّ	partial tray
+طابِعٌ سُفْلِيّ [أسنان]	lower impression tray
+طابَعٌ صَوْتِيٌّ مَعْدَنِيّ	timbre mètallique
+طابِعٌ ضَبُوْط	adjustable impression tray
+طابِعٌ كامِل [أسنان]	full tray
+طابِعٌ للمقاطِعِ المُسْتَعْرِضَة	sectional tray
+طابِعٌ مُثَقِّب	perforated tray
+طاحِن ( إِطْبَاقِيّ)	morsal (occlusal)
+طاحونَةٌ بالكُرات	ball mill
+طارئة	emergency
+طارِح	eliminant / subtracter
+طارِد	expellent / repellent
+طارِدُ الأَرْياح	carminative
+طارِدُ الأُقْصُوريَّات	oxyurifuge
+طارِدُ الأَنُوفِيلات	anophelifuge
+طارد البعوض	culicifuge
+طارد البق	cimicifugal
+طارِدُ البَقّ (جِنْسٌ مِنَ النَباتات)	Cimicifuga
+طارِدُ الجَراثيم	germifuge
+طارِدُ الحَشَرات	disinsector / insectifuge
+طارِدُ الحَصَى	lithagogue
+طارِدُ الحُمَّى	febrifugal / febrifuge
+طارِدُ الدِّيدان	anthelminthic (anthelmintic) / anthelmintic / helminthagogue (anthelmintic) / helminthagogue = anthelmintic / vermifuge
+طارِدُ الدِّيدان [أدوية]	antihelmintic
+طَارِدُ الرِّيح	carminative
+طارِدُ الشَّرِيطِيَّات	taeniafuge
+طَارِدُ ستُوكس للبَلْغَمِ (مَزيجٌ طَارِدٌ للبَلْغَمِ)	Stokes expectorant (expectorant mixture)
+طَارِدٌ للبَلْغَم	apophlegmatic (expectorant) / expectorant
+طَارِدٌ للبَلْغَمِ مُمَيِّع	liquefying expectorant
+طَارِدٌ للبَلْغَمِ مُنَبِّه	stimulant expectorant
+طارِدٌ للدِّيدان	anthelmentic = antihelmenth = vermifugeic / vermifugal / vermifuge
+طارِدٌ للشَّريطِيَّات	taeniafugal / teniafugal / teniafuge / tenifugal / tenifuge
+طارِدٌ للمَاء	hydrofugous
+طاردة	ejector
+طارىء	casual / emergent
+طازج	fresh
+طاسَةُ الجِبْس	plaster bowl
+طاعون	pestis / pestis (plague) / plague
+طاعونٌ أَسْوَد ( طاعونٌ دَبْلِيّ)	black plague (bubonic plague)
+طاعُونٌ إِفْراقِيّ	defervescent plague
+طاعون البقر	rinderpest
+طاعُونُ الخَنازير	swine plague (hog cholera)
+طاعُونُ الخَنازير ( كوليرا الخَنازير)	hog plague (hog cholera)
+طاعونُ الدَّجاج ( طاعونُ الطُّيور)	chicken pest (fowl plague)
+طاعونُ الطُّيور	fowl pest
+طاعُونُ القَوارِض	rodent plague
+طاعُونُ الماشِيَة	cattle plague
+طاعونُ المَواشي	rinderpest
+طاعونُ انْتانِ الدَّم	pesticemia (septicemic plague) / pestis siderans (septicemic plague) / septicemic plague / siderating plague
+طاعُونٌ حَرَجِيّ	sylvatic plague
+طاعُونٌ حَضَرِيّ	urban plague
+طاعونٌ خاطِفٌ ( طاعونٌ كَبير)	pestis fulminans (pestis major)
+طاعُونٌ خَلَوِيٌّ جِلْدِيّ	cellulocutaneous plague
+طاعونٌ خَيلِيّ	equine plague / pestis equorum
+طاعونٌ دَبْلِيّ	bubonic plague / bubonic plague (plague bubonica) / pestis bubonica / yeki
+طاعون دُبَيْلي	bubonic plague
+طاعُونٌ رِئَوِيّ	lung plague / pneumonic plague / pulmonary plague
+طاعونٌ سامِحٌ بالتَّجَوُّلّ	ambulatory plague / parapestis (ambulatory plague)
+طَاعُوْنٌ سِحَائِيّ ( اِلْتِهَابُ السَّحَايا الطَّاعُونِيّ)	meningeal plague (plague meningitis)
+طاعونٌ صَغير ( طاعونٌ مُتَنَقِّل)	pestis minor (ambulatory pestis)
+طاعونٌ طَيرِيّ	avian plague (fowl plague) / fowl plague
+طاعونٌ طَيرِيّ ( داءُ نيوكاسل)	avian pest (Newcastle disease)
+طاعونٌ طَيرِيٌّ بحسب برُونرويك	Brunswick bird plague (fowl plague)
+طاعُونٌ غُدِّيّ ( طاعونٌ دَبْلِيّ)	glandular plague (bubonic plague)
+طاعُونٌ كَلْبِيّ	canine plague
+طاعونٌ مُتَنَقِّل	pestis ambulans
+طاعُونٌ مُنْذِر	premonitory plague
+طاعُونٌ نَزْفِيّ ( طاعونٌ دَبْلِيّ)	hemorrhagic plague (bubonic plague)
+طاعُونٌ هِرِّيّ ( قِلَّةُ الكُرَيَّاتِ البِيْضِ الشَّامِلَة)	cat plague (panleukopenia)
+طاعُونُ وادي باهفانت ( تُولاَريمِيَّة) (في ولاية يوتاه الأمريكية)	Pahvant Valley plague (tularemia)
+طاعُونٌ يَرَقِيّ	larval plague
+طافٍ (طافِي)	supernatant
+طافِح	exuberant
+طَافِر(ة)	mutant
+طافِرَة	dissociant (mutant) / mutant
+طافِرَةٌ خَفِيَّة	cryptic mutant
+طَافِرَةٌ مُضَادَّة	antimorph
+طاق [ج:طِيْقَان]	strand
+طاقُ الميناءِ الوَحْشِيّ ( الصَّفيحَةُ السِّنِّيَّةُ الوَحْشْيَّة)	lateral enamel strand (lateral dental lamina)
+طاقَة	energy
+طاقَةٌ ابْتِنائِيَّة	anabolergy
+طاقَةُ الإِثارَة	excitation energy
+طاقَةُ الإِشْعاع	radiant energy
+طاقَةُ التَّأَيُّن	ionization energy
+طَاقَة التَّشَرُّد	ionization energy
+طاقَةُ التَّنْشيط	activation energy
+طَاقَة الدَّوَرَان	rotational energy
+طاقَةُ الرَّابِط	bond energy
+طَاقَة الرابِطَة	bond energy
+طَاقَة الربْط	binding energy
+طاقَةُ الرَّنين	resonance energy
+طاقَةُ العَصَبِ النَّوعِيَّة	specific nerve energy
+طاقة المنتقض (طاقة الأيض الهدمي)	catabolergy
+طاقَةُ المَوضِع	energy of position
+طاقَةٌ بَيولوجيَّة	biologic energy / biotic energy
+طاقَةٌ حَرَكِيَّة	Kinetic energy / kinetic energy
+طاقَةٌ حُرَّة	free energy
+طاقَةٌ حَيَوِيَّة	bionergy
+طاقَةٌ خافِيَّةٌ	latent energy
+طَاقَة دَاخِلِيَّة	internal energy
+طاقَةٌ ذَرِّيَّة	atomic energy / energy, atomic
+طاقَةُ رابِطِ الفُسْفات	phosphate bond energy
+طاقَةٌ رابِطَة	binding energy
+طاقَةٌ كامِنَة	potential energy
+طاقَةٌ كِيمْيائِيَّة	chemical energy
+طاقَةٌ مُشِعَّة	radiant energy
+طاقَةٌ نَفْسِيَّة	psychic energy
+طاقَةٌ نَفْسِيَّةٌ جِنْسِيَّة	psychosexual energy
+طاقَةٌ نَوَوِيَّة	nuclear energy
+طاقُوت (مادة مرة نباتية)	tacahout
+طاقِيّ	energetic
+طاقية الذقن	chincap
+طاهِر	aseptic
+طاهِرٌ مُطَهِّر	aseptic-antiseptic
+طَاهِيَّة	opsonin
+طاهِيَة (مادة ترتبط بالمستضد فتهيئه للبلعمة)	opsone (opsonin) / opsonin
+طَاهِيَةُ الكُرَيَّات الحُمْر (طاهِيَةٌ دَمَوِيَّة)	erythrocyto-opsonin (hemopsonin)
+طاهِيَةٌ جُرْثُومِيَّة	bacterio-opsonin / bacteriopsonin
+طاهِيَةٌ دَمَوِيَّة	hemo-opsonin / hemopsonin (hemotropin) / hemotropin (hemopsonin)
+طاهِيَةٌ دَمَوِيَّةٌ ذاتِيَّة	autohemopsonin
+طاهِيَةٌ سَوِيَّة	normal opsonin
+طاهِيَةٌ عَطُوبَةٌ بالحَرارَة	thermolabile opsonin
+طاهِيَةٌ مَناعِيَّة	immune opsonin
+طَاوِلَةُ العَمَلِيَّات	operating table
+طَاوِلَةُ عَمَلِيَّاتِ آلبي لتَجْبِيرِ الكُسُوْرِ	Albee fracture table
+طاوِلَةٌ مُعَلَّقَة [طب الأسنان]	bracket table
+طاوِلَةٌ مَيَّالَة (في المعالجة الفيزيائية لأمراض النخاع)	tilt table
+طاوون (البري برِي الطِّفْليّ)	taon
+طِبّ	medicine
+طِبُّ أَسْنانِ الأَطْفال	pediadontia / pediadontology (pedodontics) / pediatric dentistry / pediodontia (pedodontics) / pedodontia / pedodontic dentistry / pedodontics
+طِبُّ أَسْنانِ الشُّيُوخ	dental geriatrics / geriatric dentistry / geriodontics (gerodontics) / gerodentistry / gerodontia / gerodontics / gerodontology
+طِبُّ أَسْنانِ الطَّيَران	aerodontia / aerodontics
+طِبُّ أَعْصَابِ الأَطْفَالِ	child neurology
+طبُّ الأبقار	buiatrics
+طِبُّ الأَحْداث	hebiatrics (ephebiatrics)
+طِبُّ الأُذُن	auristics / otiatrics (otology) / otiatry (otology) / otology
+طِبُّ الأُذُنِ العَصَبِيّ	neurotology (neuro-otology)
+طُبُّ الاذن، علم الاُذن	otology
+طِبُّ الأَسْنان	dentistry / odontiatria (dentistry) / odontotechny (dentistry)
+طِبُّ الأَسْنانِ التَّجْميلِيّ	aesthetic dentistry / esthetic dentistry
+طِبُّ الأَسْنانِ التَّحَفُّظِيّ	conservative dentistry
+طِبُّ الأَسْنانِ التَّرْميمِيّ	restorative dentistry
+طِبُّ الأَسْنانِ التَّزْوِيْقِيّ	cosmetic dentistry
+طِبُّ الأَسْنانِ التَّعْوِيْضِيّ	prosthetic dentistry
+طِبُّ الأَسْنانِ التَّقْويمِيّ	orthodontic dentistry
+طِبُّ الأَسْنانِ التَّنْويمِيّ	hypnodontia / hypnodontics
+طِبُّ الأَسْنانِ الجِراحِيّ	operative dentistry / surgical dentistry
+طِبُّ الأَسْنانِ الشَّرْعِيّ	dental jurisprudence / forensic dentistry
+طِبُّ الأَسْنانِ الشُّعاعِيّ	radiological dentistry
+طِبُّ الأَسْنانِ الطَّيَرانيّ	aerodontic dentistry
+طِبُّ الأَسْنانِ اللُّبِّيّ	endodontic dentistry
+طِبُّ الأَسْنانِ النَّفْسِيُّ البَدَنِيّ	psychosomatic dentistry
+طِبُّ الأَسْنانِ الوِقائِيّ	preventive dentistry
+طِبُّ الأَطْفال	pediatrics / pediatry / pedology (pediatrics)
+طِبُّ الأَعْصَاب	neuriatry
+طِبُّ الأَعْصَاب ؛ طِبُّ الجِهازِ العَصَبِيّ	neurology
+طِبُّ الأَعْصَابِ السَّريرِيُّ	clinical neurology
+طِبُّ الأَعْصَابِ و الغُدَدِ الصُّمِّ	neuroendocrinology
+طِبُّ الأقْدام	chiropody (podiatry)
+طِبُّ الأَمْراضِ المَنْقُولَةِ جنسياً	venereology
+طِبُّ الأَمْعاء	enterology
+طِبُّ الأُمُومَةِ و الأَجِنَّة	fetal-maternal medicine
+طِبُّ الاِنْدِمَاجِ في المُجْتَمَع	socialized medicine
+طِبُّ الأَنْف	rhinology
+طِبُّ الأَنْفِ و الأُذُن	otorhinology
+طِبُّ الأَنْفِ و الأُذُنِ و الحَنْجَرَة	otolaryngology (otorhinolaryngology) / otorhinolaryngology
+طِبُّ الأَنْفِ و الحَنْجَرَة	rhinolaryngology
+طِبُّ البُلْعوم	pharyngology
+طبُّ البيئَة	environmental medicine
+طِبُّ التَأْهيل	rehabilitation medicine
+طِبُّ التَّوليد	maieutics (obstetrics) / obstetrics / tictology (obstetrics) / tocology (obstetrics)
+طِبُّ التَّوليدِ و النِّسائِيَّات	obstetrics gynecology
+طِبُّ الجُذام	leprology
+طِبُّ الجِلْد	dermatology
+طِبُّ الجِلْدِ الوِراثِيّ	genodermatology
+طِبُّ الجَنين	embryatrics
+طِبُّ الجِهازِ البَولِيّ	urinology / urology / uronology
+طِبُّ الجِهَازِ التَّنَفُّسيّ	pneumology
+طِبُّ الجِهازِ العَصَبِيّ	neurologia (neurology)
+طِبُّ الجِهازِ العَصَبِيِّ الأُذُنِيّ	otoneurology
+طِبُّ الجِهازِ الهَضْمِيّ	gastroenterology
+طِبُّ الحَنْجَرَة	laryngology
+طِبُّ الحَنْجَرَةِ و الأَنْف	laryngorhinology
+طِبُّ الحَوَل	strabismology
+طِبُّ الخَيل	hippiatrics
+طِبُّ الدَّولَة	state medicine
+طِبُّ الذُّكورَة	andrology (andriatrics)
+طِبُّ الرِّئَة	pulmonology
+طِبُّ الرُّضوح	traumatology
+طِبُّ الرَّقَبَة	trachelology
+طِبُّ الرُّوماتزم	rheumatology
+طِبُّ السَّرَطان	carcinology
+طِبُّ السُّلّ	phthisiology
+طِبُّ السِّمْنَة	bariatrics
+طِبُّ السُوَّاح	emporiatrics
+طِبُّ الشَّيْخوخَة	geriatric medicine (geriatrics) / geriatrics
+طِبُّ الشَّيخوخَةِ النَّفْسِيّ	geropsychiatry
+طِبُّ الشُّيوخ	geriatrics / gerontology / nostology (gerontology) / presbyatrics
+طِبُّ الشُّيوخِ الوِقائِيّ	preventive gerontology
+طِبُّ الصِّناعات ( الطِّبُّ المِهْني)	industrial medicine (occupational medicine)
+طِبُّ الطَّوَارِئ	emergency medicine
+طِبُّ الطَّوارِىء	emergency medicine
+طِبُّ الطَّيَران	aeromedicine (aviation medicine) / aeromedicine = aviation medicine / aviation medicine
+طِبُّ العائِلَة	family medicine
+طِبُّ العَين	ophthalmiatrics / ophthalmology
+طب العيون	ophthalmology
+طِبُّ العُيونِ العَصَبِيّ	neurophthalmology
+طُب العُيون، علم العيون	ophthalmology
+طِبُّ الغُدَدِ الصُّمّ	incretology (endocrinology)
+طِبُّ الغُدَدِ الصَّمَّاءِ في الأَطْفال	pediatric endocrinology
+طِبُّ الغَمَش	amblyopiatrics
+طبُّ الفَتْرَةِ المُحِيْطَةِ بالوِلادَة	perinatal medicine / perinatology
+طِبُّ الفَضاء	aerospace medicine / aerospace medicine (space medicine) / space medicine
+طِبُّ الفَم	oral medicine / oralogy (stomatology) / stomatology
+طِبُّ الفَم ( طِبُّ الأَسْنان)	oral medicine (dentistry)
+طِبُّ القَلْب	cardiology
+طِبُّ القَلْبِ و الأَوعِيَة	cardioangiology / cardiovasology
+طِبُّ الكَبِد	hepatology
+طِبُّ الكَلاَم	laliatry / logopedia / logopedics
+طِبُّ الكُلَى	nephrology
+طِبُّ المُجْتَمَع	community medicine / social medicine
+طِبُّ المَجْموعَة	group medicine
+طِبُّ المُراهِقين	adolescent medicine
+طِبُّ المُسْتَقيمِ و الشَّرَج	proctology
+طِبُّ المَعِدَة	gastrology
+طِبُّ المَناطِقِ المَدارِيَّة	tropical medicine
+طِبُّ المَواشِي	buiatrics
+طِبُّ النِّسَاء ؛ النِّسَائِيَّات	gynecology
+طِبُّ النَّفْسِ و الأَعْصاب	neuropsychiatry
+طب الوزن	bariatrics
+طِبُّ الوِلْدان	neonatal medicine (neonatology) / neonatology / nepiology
+طِبُّ الوِلْدانِ و الأَجِنَّة	neonatal-perinatal medicine
+طِبُّ اليُفْعان	ephebiatrics
+طِبُّ أَمْراضِ الدَّمِ و الأَورامِ في الأَطْفال	pediatric hemato-oncology
+طِبُّ بَاطِنِ الأَسْنان	pulpodontia (endodontology) / pulpodontics (endodontics)
+طِبُّ تَقْويمِ الأَسْنان	orthodontology
+طِبُّ تَقْوِيْمِ العِظَام ؛ تَجْبيرٌ إِسْوائِيّ	eumorphics
+طِبُّ جِراحَةِ عِظامِ الأَطْفال	pediatric orthopedics
+طِبُّ حَيَواناتِ المُخْتَبَر	laboratory animal medicine
+طِبُّ دَوَاعِمِ السِّنّ	periodontology
+طِبُّ زَرْعِ الأَسْنانِ	dental implantology / implantodontics / implantodontology / oral implantology (implantodontics)
+طِبُّ قَلْبِ الأَطْفال	pediatric cardiology
+طِبُّ قَلْعِ الأَسْنان	exodontia / exodontics
+طِبُّ كُلَى الأَطْفال	pediatric nephrology
+طِبُّ لُبِّ الأَسْنان	endodontia / endodontics (endodontlogy) / endodontology
+طِبٌّ مَنْزِلِيّ	domestic medicine
+طِبٌّ هِرْمِسِيّ (طِبُّ الأَدْوِيَةِ القَديمَة)	hermetic medicine
+طب وقائي	preventive medicine
+طِباب (علاج) الشيخوخة	gerontotherapeutics
+طباب الإثارة المثلية	homostimulation
+طباب التشميس والتهوية	helioaerotherapy
+طباب الدم الذاتي	autohaematotherapy
+طباب المصل الذاتي	autoserotherapy = auto serum treatement
+طِباب المياه المعدنية	crenotherapy / crounotherapy
+طباب بالأشباه	homeotherapy
+طِباب بالخلايا	cytotherapy
+طباب بالضوء الملون	chromophototherapy = chromotherapy
+طباب بالكَبِد	hepatotherapy
+طباب بالماء	hydriatries = hydrotherapeutics / hydrotherapeutics = hydrotherapy = hydriatries / hydrotherapy = hydrotherapeutics
+طباب بالهرمونات	hormonotherapy
+طِباب بأملاح الصفراء	cholethrapy
+طباب جلدي	dermatotherapy
+طباب جلفاني	galvanisation
+طباب حركي	kinesiotherapy = kinesitherapy / kinesitherapy = kinesiotherapy / kinetotherapy = kinesitherapy
+طباب حمامي	balneo therapy
+طباب زيتي	eleotherapy
+طباب شمسي	heliotherapy
+طباب غذائي	dietotherapy
+طباب فيزيقي	ergotherapy
+طِباب قُرِّي	cryotherapy / fregotherapy
+طِباب قُرِّي للهدبي	cyclocryotherapy
+طباب كهربائي	electrotherapeutics = electrotherapy
+طباب كهربائي مخي	electrotherapeutics, cerebral
+طباب كوري	curie therapy
+طِباب كيميائي	chemotherapy
+طباب لبني	galactotherapy
+طباب مثلي	isopathy
+طِباب مركزي	centrotherapy
+طباب مصلي مغاير	heteroserotherapy
+طباب مغاير (طباب غير متخصص)	heterotherapy
+طباب نسيجي	histotherapy
+طَباشير	chalk / creta (chalk)
+طَباشيرُ فَرَنْسِيَةّ (طَلْق)	French chalk (talc)
+طَباشيرٌ مُحَضَّر	prepared chalk
+طَباشيرُ مُحَضَّرَة	prepared chalk
+طَباشيرُ مُرَسَّبَة	precipitated chalk
+طِباقِيّ	stratiform
+طبخ	curing
+طَبْخِيّ	mageiric
+طَبْرَخِيّ (مستحضر نباتي يستعمل في تجبير الكسور)	gutta-percha
+طَبْرَخِيُّ الصَّفيحَةِ القاعِدِيَّة	baseplate gutta-percha
+طَبْطَبَة	clapotement (succussion sounds) / tapotement
+طَبْطَبَة (صوت يظهر عند هز الجسم وتحرك الهواء والسوائل في المعدة)	clapotage
+طَبْعَةُ الألجينات	alginate impression
+طَبْعَةُ البِدْلَةِ السِّنِّيَّةِ الجُزْئِيَّة	partial denture impression
+طَبْعَةُ البِدْلَةِ السِّنِّيَّةِ الكامِلَة	complete denture impression
+طَبْعَةُ الحَنَكِ المَشْقوق	cleft palate impression
+طَبْعَةُ الفَكِّ العُلْوِيِّ	maxillary impression
+طَبْعَةُ الفَمِ الكامِلَة	full mouth impression
+طَبْعَةُ الفَمِ المُغْلَق	closed mouth impression
+طَبْعَةُ المَوادِّ المَرِنَة	elastic material impression
+طَبْعَةُ النَّفَس	pneumatype
+طَبْعَةٌ أَوَّلِيَّة	primary impression
+طَبْعَةٌ تَشْريحِيَّة	anatomic impression
+طَبعَةٌ تَمْهيدِيَّة	preliminary impression
+طَبْعَةٌ ثابِتَةُ المُخاطِيَّة	mucostatic impression
+طَبْعَةٌ جُزْئِيَّة	partial impression
+طَبْعَةٌ جِسْرِيَّة	bridge impression
+طَبْعَةٌ خاطِفَة ( طَبْعَةٌ مَبْدَئِيَّة)	snap impression (preliminary impression)
+طَبْعَةٌ سُفْلِيَّة ( طَبْعَةٌ فَكِّيَّة)	lower impression (mandibular impression)
+طَبْعَةٌ سِنِّيَّة	dental impression
+طَبْعَةٌ عُلْوِية ( طَبْعَةُ الفَكِّ العُلْويِّ)	upper impression (maxillary impression)
+طَبْعَةٌ غَرَوانِيَّةٌ مائِيَّة	hydrocolloid impression
+طَبْعَةٌ غَيرُ مَرِنَة	non-elastic impression
+طَبْعَةٌ فَكِّيَّة	mandibular impression
+طَبْعَةٌ لامُباشِرَة	indirect impression
+طَبْعَةٌ مُباشِرَة	direct impression
+طَبْعَةٌ مُباشِرَةٌ للعَظْم	direct bone impression
+طَبْعَةٌ مَبْدَئِيَّة ( طَبْعَةٌ أَوَّلِيَّة)	preliminary impression (primary impression)
+طَبْعَةٌ مِرْكَبْتانِيَّة	mercaptan impression
+طَبْعَةٌ مُزْدَوِجَة	dual impression
+طَبْعَةٌ مَطَّاطِيَّة	rubber base impression
+طَبْعَةٌ مَطَّاطِيَّةُ القاعِدَةِ للفَكِّ العُلْوِيِّ	maxillary rubber-base impression
+طَبْعَةٌ مَقْطَعِيَّة	sectional impression
+طَبْعَةٌ مُنْزاحَةُ المُخاطِيَّة ( طَبْعَةٌ وَظيفِيَّة)	mucodisplacement impression (functional impression)
+طَبْعَةٌ مُوَضَّعَة	localizing impression
+طَبْعَةٌ نِهائِيَّة ( طَبْعَةٌ ثَانَوِيَّةٌ)	final impression (secondary impression)
+طُبُغْرافي	topographic / topographical
+طُبُغرافيا	topography
+طُبُغرافيا السِّنّ	tooth surface topography
+طُبُغْرافِيَّةُ القِحْف	craniotopography
+طَبَق	dish
+طَبَقُ التَّبْخير	evaporating dish
+طَبَقُ الزَّرْع	culture dish
+طَبَقُ بِتْرِي	Petri dish
+طَبَقُ تَبْخِير	evaporating dish
+طَبَقٌ زُجاجِيّ	glass dish
+طَبَقُ ستيندر (لتلوين العَيِّنات الهيستولوجية)	Stender dish
+طَبَقٌ مُسَطَّح	dappen dish
+طَبَقٌ مُسَطَّح (طَبَقٌ زُجاجِيٌّ مُسَطَّح)	dappen dish (dappen glass)
+طَبَقات	strata
+طَبَقات [ف:طَبَقَة]	strata [pl.stratum]
+طَبَقاتُ الأُكَيْمَةِ العُلْوِيَّةِ	layers of superior colliculus
+طَبَقَة	layer
+طَّبَقَةُ (ال...) الأُسْطُوانِيَّةُ البَشَرَوِيَّة	columnar layer of epidermis
+طَّبَقَةُ (ال...) الإِسْفَنْجِيَّة	stratum spongiosum
+طَّبَقَةُ (ال...) البَصَرِيَّة	stratum opticum
+طَّبَقَةُ (ال...) الحُلَيْمِيَّةُ الأَدَمِيَّة	stratum papillare corii
+طَّبَقَةُ (ال...) الحُلَيْمِيَّةُ للجِلْد	stratum papillare cutis
+طَّبَقَةُ (ال...) الدَّائِرِيَّةُ لرَأسِ الطَّبْل	circular layer of drumhead
+طَّبَقَةُ (ال...) الدَّائِرِيَّةُ لغِشاءِ الطَّبْل	circular layer of tympanic membrane
+طَّبَقَةُ (ال...) الدَّائِرِيَّةُ للغِلاَلَةِ العَضَلِيَّةِ للقَولون	circular layer of muscular coat of colon
+طَّبَقَةُ (ال...) الدَّائِرِيَّةُ للمَعِدَة	circular layer of stomach
+طَبَقة (ال...) الشَوكية	stratum spinosum
+طَبَقة (ال...) الصَافية	stratum lucidum
+طَّبَقَةُ (ال...) الصَّافِيَّةُ البَشرَوِيَّة	clear layer of epidermis
+طَّبَقَةُ (ال...) العائِقِيَّة	claustral layer; barrier
+طَّبَقَةُ (ال...) الفَتيلِيَّة	stratum lemnisci
+طَّبَقَةُ (ال...) القاعِدِيَّة	basal layer
+طَّبَقَةُ (ال...) القاعِدِيَّةُ للبَشْرَة	basal layer of epidermis
+طَّبَقَةُ (ال...) المُتَّجِهَة	stratum oriens
+طَبَقة (ال...) المُتقَرِنة	stratum corneum
+طَّبَقَةُ (ال...) المُتَوَسِّطَة	stratum intermedium
+طَّبَقَةُ (ال...) المُشَعَّعَة	stratum radiatum
+طَّبَقَةُ (ال...) المَشِيمَوِيَّةُ الشُّعَيرِيَّة	choriocapillary layer
+طَّبَقَةُ (ال...) المُصْطَبِغَةُ للقُزَحِيَّة	stratum pigmenti iridis
+طَّبَقَةُ (ال...) المُكْتَنِزَةُ	compact layer
+طَّبَقَةُ (ال...) المُلْتَبِسَة، أي الدماغ	ambiguous layer
+طَّبَقَةُ (ال...) الهَرَمِيَّة	stratum pyramidale
+طَّبَقَةُ (ال...) الوِعائِيَّة	stratum vasculare
+طَّبَقَةُ (ال...) تَحْتَ الوِعائِيَّة	stratum subvasculare
+طَّبَقَةُ (ال...) فَوقَ الوِعائِيَّة	stratum supravasculare
+طَبَقَة [ج:طَبَقات]	stratum NA [pl.strata]
+طَبَقَةُ أَدِيْمِ الأُرَيْمَة	blastodermic layer
+طَّبَقَةُ الأَديمِ العَصَبِيّ (الأَديمُ الظَّاهِر)	neurodermal layer (ectoderm)
+طَبَقَةُ الأَديمِ العَصَبِيّ، الأَديمُ الظَّاهِر	ectoderm
+طَبَقَةُ الأَرومَةِ السِّنِّيَّة	odontoblastic layer
+طَبَقَةُ الأَرومَةِ المينائِيَّة	ameloblastic layer
+طَبَقَةُ الاسْتِئْصَالِ	abscission layer
+طَّبَقَةُ الأَلْيافِ العَصَبِيَّة (في الشَّبَكِيَّة)	nerve fiber layer
+طَبَقَةُ البَشَرةِ العَصَبِيَّة ( الأَديمُ الظَّاهِر)	neuroepidermal layer (ectoderm)
+طَبَقَةُ البِطانَةِ العَصَبِيَّة	ependymal layer
+طَبَقَةُ الخَلاَيا الشَّائِكَة (للبَشَرَة)	prickle-cell layer (stratum spinosum epidermidis)
+طَبَقَةُ الخَلاَيا العُقْدِيَّة	ganglion cell layer
+طَبَقَةُ الخَلاَيا الهَرَمِيَّة	pyramidal cells layer
+طبقة الصلبة(ال..)	sclerotic layer
+طَّبَقَةُ العَاج	stratum eboris
+طَبَقَةُ العُصَيَّات ( طَبَقَةُ النَّبابيتِ والمَخاريط)	bacillary layer (layer of rods and cones)
+طَبَقَةُ الفَتيلِ بَينَ الزَّيتونَتَين	stratum interolivare lemnisci
+طبقة القاعدية(ال..)	basal layer
+طبقة القرنية(ال..)	corneum / stratum corneum
+طبقة المشيمية الشعرية	choriocapillary layer
+طَبَقَةُ الميناء	adamantine layer (enamelum) / stratum adamantinum / stratum adamantinum; adamantine layer
+طَبَقَةُ النَّبابيتِ و المَخاريط	layer of rods and cones
+طَّبَقَةُ النَّسيجِ الضَّامِّ للمَساريق	connective tissue stratum of mesentery
+طَبَقَةُ أَلْيافِ هِنْلِي	Henle's fiber layer
+طَّبَقَةُ أولييه (الطَّبَقَةُ المُوَلِّدَةُ لِلْعَظْم)	Ollier's layer (osteogenetic layer)
+طَبَقَةُ بَانِياتِ العَظْم	osteoblastic layer
+طَبَقَةُ بَايَّارجيه (في قشرة المخ)	Baillarger's layer
+طَبَقَةٌ بَدْئِيَّة	primordial layer
+طَبَقَةُ بِرْنار الغُدِّيَّة (في البنكرياس)	Bernard's glandular layer
+طَبَقَةُ بروخ ( المُعَقَّدُ القَاعِدِيُّ للمَشِيْمِيَّة)	Bruch's layer (complexus basalis choroideae)
+طبقة بطانية	intima; tunica intima
+طَبَقَةُ بُوركِينِيي ( طَبَقَة خلايا بوركينيي) (في قشرة المخ)	Purkinje layer (Purkinje cell layer)
+طبقة بوركينيي (? الطَّبَقَةُ العُقْدِيَّةُ المُخَيخِيَّة)	stratum Purkinje
+طَبَقَةُ بولياك (طبقة الخلايا المستعرضة للشبكية)	Polyak layer
+طَبَقَةُ بومان ( الصَّفيحَةُ المُحَدِّدَةُ الأَمامِيَّةُ لِلْقَرْنِيَّة)	Bowman's layer (lamina limitans anterior corneae)
+طَبَقَةُ بيختيريف (في قشرة المخ)	Bekhterev's layer
+طَبَقَةُ تومز الحُبَيْبِيَّة (طبقة في جذر السن)	granular layer of Tomes
+طَبَقَةُ تُومْس الحُبَيبِيَّة	Tomes' granular layer
+طَبَقَةُ تومس الحُبَيبِيَّة [أسنان]	Tomes granular layer
+طَبَقَةٌ جُلَيْدِيَّة	cuticular layer
+طَبَقَةُ جِنَّارِي ( شَرِيْطُ جِنَّارِي)	Gennari's layer (Gennari's band)
+طَبقَة حُبَيْبَية	granular layer
+طَبَقَةٌ حُلَيمِيَّة	papillary layer
+طبقة دهنية	fatty layer
+طَبَقَةُ دوبي ( شَرِيطُ Z)	Dobie's layer (Z band)
+طَبَقَةُ راوبر ( الأَدِيْمُ الظَّاهِرُ البَدْئِيّ) (في الجنين)	Rauber's layer (primitive ectoderm)
+طَبَقَةُ رور (في المشيميَّة)	Rohr's layer
+طَبَقَةُ زايسل (في جدار المعدة)	Zeissel's layer
+طَبَقَةُ ساتْلَر (طبقة وعائية في المشيمية)	Sattler's layer
+طَبَقَةٌ شَبَكِيَّة	reticular layer
+طَبَقَةُ شيفيتز (في القرص البصري)	Chievitz layer
+طبقة عضلية	muscular layer
+طَبَقَةٌ عَظْمِيَّة	osteoplaque
+طبقة غشائية	panniculus
+طَبَقَةٌ غِطائِيَّة	covering layer
+طَبَقَةُ فالداير (الطَّبَقَةُ الوِعائِيَّةُ لِلْمَبيض)	Waldoyer's layer (the vascular layer of the ovary)
+طَبَقَةُ فايل القاعِدِيَّة	Weil's basal layer
+طَبَقَةُ فايل القاعِدِيَّة (الطَّبَقَةُ تَحْتَ الأَرُوْمَةِ السِّنِّيَّة)	Weil's basal layer (subodontoblastic layer)
+طَبَقَةُ فلوغِل (في الخيط العضلي)	Floegel's layer
+طَبَقَةٌ قاعِدِيَّة	basal layer
+طَبَقَةٌ قِشْرِيَّة (القِشْرَة)	cortical layer (cortex)
+طَبَقَةُ قيمَةِ النِّصْفِ ( ثَخَانَةُ النِّصْفِ)	half-value layer (half-value thickness)
+طَبَقَةُ قِيْمَةِ النِّصِف (لِلحِزْمَةِ الشُّعاعِيَّة)	half-value layer
+طَبَقَةُ كايز-بيختيريف ( طَبَقَةُ بيختيريف)	Kaes-Bekhterev's layer (Bekhterev's layer)
+طَبَقَةٌ كيراتينيَّة	keratinous layer
+طَّبَقَةُ لانغرهانس (الطَّبَقَةُ الحُبَيْبِيَّةُ لِلبَشَرَة)	Langerhans' layer (granular layer of epidermis)
+طَّبَقَةُ لانغهانس ( الأَرومَةُ الغاذِيَةُ الخَلَوِيَّة)	Langhans' layer (cytotrophoblast)
+طبقة مالبيجي	malpighian layer
+طَّبَقَةُ مالبيغي (الطَّبَقَةُ المُنْتِشَة)	stratum malpighii (stratum germinativum)
+طَّبَقَةُ ماينرِت (طَبَقَةُ الخَلاَيا الهَرَمِيَّةُ الغَائِرَة)	Meynert's layer (internal pyramidal layer)
+طبقة مصلية	serosa
+طبقة مصلية، غشاء مصلي	serous
+طَبَقَةٌ مُكْتَنِزَة	compact layer
+طَبَقَةٌ مِلاَطِيَّةٌ مُتَوَسِّطَة	intermediate cementum
+طَبَقَةٌ مُنْتِشَة (في الجنين)	germ layer
+طَبَقَةٌ مُنْتِشَة (للبَشَرَة)	germinative layer
+طَبَقَةٌ مينائِيَّة (طَبَقَةُ أَرُوْمَةِ المِيْنَاء)	enamel layer (ameloblastic layer)
+طَبَقَةٌ مِيْنائِيَّةٌ غَائِرَة	inner enamel layer
+طَّبَقَةُ نيتابوخ (في المشيمة)	Nitabuch's layer
+طَبَقَةُ هالَّر (طبقة وعائية في المشيميَّة)	Haller's layer
+طَبَقَةُ هِكْسلي (طبقة في غلالة جذر الشعر)	Huxley's layer
+طَبَقَةُ هنْلِي (طبقة خلوية في غلالة جذر الشعر)	Henle's layer
+طَبَقَةٌ وَظيفِيَّة	functional layer
+طَبَقَةُ ويل القاعِدِيَّة (منطقة ويل القاعِدِيَّة) [أسنان]	Weil's basal layer (Weil's basal zone)
+طَبْل	tambour
+طَّبْل (ال...)	drum; tympanum, eardrum, drumhead
+طبلة	drum
+طبلة الأذن	eardrum; tympanum / tympanum
+طَبْلَةُ الأُذُن ( غِشَاءُ الطَّبْل)	myringa (membrana tympani) / myrinx (membrana tympani)
+طَبْلِيّ	tympanal / tympanal; tympanic / tympanic
+طَبْلِيُّ المَنْشَأ	tympanogenic
+طَبْلِيٌّ بُلْعومِيٌّ	pharyngotympanic
+طبلي داخلي	entotympanic
+طَبْلِيٌّ رِكابِيّ	tympanostapedial
+طَبْلِيٌّ صُدِغِيّ	tympanotemporal
+طَبْلِيٌّ صَدَفِيّ	tympanosquamosal
+طَبْلِيٌّ فَكِّيّ	tympanomandibular
+طَبْلِيٌّ لامِيّ	tympanohyal
+طَبْلِيٌّ مِطَرَقِيّ	tympanomalleal
+طَبْلِيٌّ نَفيرِيّ	tympano-eustachian / tympanoeustachian
+طَبْلِيَّة	tympanicity
+طبوغرافيا اللِّثَة	gingival topography
+طِبِّيّ	medical
+طِبِّيٌّ اجْتِماعِيّ	medicosocial
+طِبِّيٌّ إِحْصائِيّ	medicostatistical
+طِبِّيٌّ أَسْنانِيّ (متعلق بالطِّبِّ وطِبِّ الأسْنَان)	medicodental
+طِبِّيّ المَنْشَإ	iatrogenic
+طِبِّيٌّ بَيُولُوجِيّ	biomedical / medicobiologic
+طِبِّيٌّ جِراحِيّ	medicochirurgic
+طِبِّيٌّ شَرْعِيّ	medicolegal
+طِبِّيٌّ طُبُوغْرافِيّ	medicotopographical
+طِبِّيٌّ ميكانيكِيّ	medicomechanical
+طِبِّيٌّ نَفْسِيّ	medicopsychological
+طبيب	medical man; physician
+طَبيب [ج:أَطِبَّاء]	physician
+طَبيبٌ اِخْتِصَاصِيٌّ بالوَبائِيَّات	medical epidemiologist
+طَبيبٌ اِخْتِصَاصِيٌّ مُقيم	medical specialty resident
+طَبيبٌ اسْتِشارِيّ	medical consultant
+طبيب أسنان	dentist
+طَبيبُ أَسْنانِ الأَطْفال	pediadontist / pedodontist
+طَبيبُ أَسْنانِ الشُّيوخ	geriodontist / gerodontist
+طَبيبُ الإِحَالَة	referring physician
+طَبيبُ الإِدْخال	admitting physician
+طَبيبُ الأُذُن	aurist (otologist) / otologist
+طَبيبُ الأُسْرَة	family practitioner
+طَبيبُ الأَسْنان	dentist / odontiater (dentist) / odontologist (dentist)
+طَبيبُ الأَشِعَّة	roentgenologist
+طَبيبُ الأَطْفال	pediatrician / pediatrist / pedologist (pediatrician)
+طَبيبُ الأَنْف	rhinologist
+طَبيبُ التَّخْدير؛طَبِيْبُ التَّبْنِيْج	anesthesiologist
+طَبيبُ التَّوليد	obstetrist
+طَبيبُ الجِلْد	dermatologist
+طَبيبُ الجِهازِ العَصَبِيّ	neurologist
+طَبيبُ الجِهازِ الهَضْمِيّ	gastroenterologist
+طَبيبُ الرِّئَة	pulmonologist
+طَبيبُ الرِّعايَةِ الأَوَّلِيَّة	primary care physician
+طَبيبُ الرِّعايَةِ الحَرِجَة	critical care physician
+طَبيبُ الرُّوماتزم	rheumatologist
+طَبيبُ الشُّيوخ	geriatrician / geriatrist / gerontologist
+طَبيبُ الطَّوارئ	emergency physician
+طَبيبُ العائِلَة	family physician
+طَبِيْبُ العِنَايَةِ المُرَكَّزَةِ	intensivist
+طَبيبُ العُيون	oculist (ophthalmologist) / ophthalmologist
+طَبِيْبُ الفَم (اخْتِصاصِيُّ طِبِّ الفَم)	stomatologist
+طَبيبُ القَلْب	cardiologist
+طَبيبُ الكَبِد	hepatologist
+طَبيبُ الكُلَى	nephrologist
+طَبيبُ المُجْتَمَع	community physician
+طَبيبُ المُسْتَقيمِ و الشَّرَج	proctologist
+طَبيبُ المَعِدَة	gastrologist
+طَبيبُ النِّسائِيَّات	gynecologist
+طَبيبُ النَّفْسِ و الأَعْصاب	neuropsychiatrist
+طبيب باطني	internist
+طَبِيْبٌ بَاطِنِيٌّ مُقِيْم	house physician
+طَبيبٌ بَديل	alternate physician
+طَبيبٌ بمُرَتَّب	salaried physician
+طَبيبٌ بَيطَرِيّ	veterinarian
+طَبيبٌ تَصْحيحِيّ	naprapath
+طَبيبُ تَقْويمِ الأَسْنان	orthodontist
+طَبيبٌ تَنْفِيْذِيّ	executive physician
+طَبيبٌ ثانوي	secondary physician
+طَبيبٌ جَرَّاح	operating physician
+طَبِيْبٌ جَرَّاحٌ مُقِيْم	house surgeon
+طَبيبٌ سَريرِيّ	clinician
+طَبيبٌ شَخْصِيّ	personal physician
+طَبيبٌ شَرْعِيّ	forensic physician
+طَبيب عامّ (مُمارِس عامّ)	generalist
+طبيب عيون	oculist
+طَبيبٌ غَيرُ مُشارِك	nonparticipating physician
+طَبيبٌ فيزيائِيّ	physiatrician / physiatrist
+طَبِيْبُ قِسْمِ الطَّوَارِئ	emergency department physician
+طَبيبُ قَلْعِ الأَسْنان	exodontist
+طَبيبُ لُبِّ الأَسْنان	endodontist / endodontologist
+طَبيبٌ مُؤَهَّلٌ مِنَ المَجْلِس	board eligible physician
+طَبيبٌ مُتَخَرِّج	graduate physician
+طَبيبٌ مُتَعاقِد	contract physician
+طَبيبُ مُتَفَرِّغٌ في المَوقَع	geographic full time physician
+طَبيبٌ مُجاز	certified physician
+طَبيبٌ مُجازٌ مِنَ المَجْلِس	board certified physician
+طَبيبُ مُسْتَشْفَى مُتَفَرِّغ	hospital based physician
+طَبيبٌ مُشارِك	participating physician
+طَبِيْبٌ مُعاوِد	interne (intern)
+طَبِيْبٌ مُعاوِد (طبيب في مرحلة التدريب) [ج:مُعاوِدون]	intern (interne)
+طَبِيْبٌ مُعاوِدٌ دَوَّار	rotating intern
+طَبيبٌ مَعَلِّم	teaching physician
+طَبِيْبٌ مُقِيْم	house doctor / house man (intern) / house officer / house physician / intern / interne / resident physician
+طَبيبٌ مُقيمٌ في السَّنَةِ الأُولى	first year resident physician
+طَبيبٌ مُوَلِّد	obstetrician
+طَبيبٌ نائِب	locum tenens / locum tenent
+طَبيبٌ نَفْسِيّ	alienist / psychiatrist
+طَبيبٌ نَفْسييٌّ في الخِدْمَةِ الاِجْتِماعيَّة	social work psychiatrist
+طَبيبٌ هامِشِيّ	marginal physician
+طبيبُ وَجَرَّاح الأَسْنان	dental surgeon
+طَبيعَة	nature
+طَبيعَةُ الإِطْباق	nature of occlusion
+طَبيعِيّ	natural
+طَبيقَة [ج:طَبائِق]	appliance
+طَبيقَةُ السِّلْكِ المُدَوَّر [أسنان]	round wire appliance
+طَبيقَةُ المِسْمارِ و الأُنْبوب [أسنان]	pin & tube appliance
+طَبيقَةُ أَنْدِرْسِن (لتنشيط الوظِيفَة)	Andresen appliance
+طَبيقَةٌ بَديلَة [أسنان]	prosthetic appliance
+طَبيقَةُ بيغ (لتقويم الأسنان)	Begg appliance
+طَبيقَةُ بيملر (لتقويم الأسنان)	Bimler appliance
+طَبيقَةُ تَثْبيت (مِثْبَات)	retaining appliance (retainer)
+طَبيقَةُ تَثْبيت (مِثْبَات) [أسنان]	retaining appliance (retainer)
+طَبيقَةٌ تَجْبيرِيَّة	fracture appliance
+طَبيقَةُ تَقْوِيْمِ الأَسْنَان	orthodontic appliance
+طَبيقَةُ تَقْويمِ الأَسْنان [أسنان]	orthodontic appliance
+طَبيقَةٌ ثابِتَة	fixed appliance
+طَبيقَةُ جُونْسُون المُزْدَوَجَةُ السِّلْك [أسنان]	Johnson twin wire appliance
+طَبيقَةٌ خارَجَ الفَم	extraoral appliance
+طَبيقَةٌ دائِمَة [أسنان]	permanent appliance
+طَبيقَةٌ ذاتُ حَوَافٍ [أسنان]	edgewise appliance
+طَبيقَةٌ شَامِلَة [أسنان]	universal appliance
+طَبيقَةٌ شَريطِيَّةٌ مُقَوَّسَة [أسنان]	ribbon arch appliance
+طَبيقَةٌ شَفَوِيَّةٌ لِسانِيَّة [أسنان]	labiolingual appliance
+طَبيقَةٌ عُنُقِيَّة [أسنان]	cervical appliance
+طَبيقَةُ فرانْكِل	Frankel appliance
+طَبيقَةٌ قِحْفِيَّةٌ وَجْهِيَّة [أسنان]	craniofacial appliance
+طَبيقَةُ كرُوزات (لتقويم الأسنان)	Crozat appliance
+طَبيقَةٌ مُزْدَوِجَةُ السِّلْك [أسنان]	twin wire appliance
+طَبيقَةُ مَصِّ الأَصابِع [أسنان]	thumb-sucking appliance
+طَبيقَةٌ مُفَعِّلة [تقويم الأسنان]	activator appliance
+طَبيقَةٌ مَقْطَعِيَّةٌ [أسنان]	sectional appliance
+طَبيقَةٌ مُنَظِّمَة ( طَبيقَةُ تَقْويمِ الأَسْنان)	regulating appliance (orthodontic appliance)
+طَبيقَةٌ نَزوعَة [أسنان]	removable appliance
+طَبيقَةٌ نَزُوْعَةٌ ؛ طَبيقَةٌ سَهْلَةُ النَّزْع	removable appliance
+طَبيقَةٌ نُطْقِيَّة [أسنان]	speech appliance
+طَبيقَةٌ وَظيفِيَّة	functional appliance
+طُّبَيلَى (ال...) العُلْوِيَّة	upper tympanion
+طُحاب (وجود الفطور أو الطَّحالب في البدن)	algosis
+طحال	spleen
+طِحالٌ إِضافِيّ	lien accessorius NA (splen accessorius) / lien succenturiatus (accessory spleen)
+طِحالُ برفيري (طحال ذو ارتشاحات عقدية)	porphyry spleen
+طِحالٌ تَنَكُّسِيٌّ نَشَوانِيّ	bacon spleen
+طِحالٌ زُرَاقِيّ	cyanotic spleen
+طِحالٌ سائِب	lien mobilis (floating spleen)
+طِحالٌ سائِب ( طِحالٌ مُتَدَلٍّ)	wandering spleen
+طِحالٌ سائِب (طِحالٌ مُتَدَلٍّ)	floating spleen / movable spleen
+طِحالُ ساغو ( طِحالٌ نَشَوَانِيّ)	sago spleen
+طِحالٌ شَمْعِيّ	lardaceous spleen / waxy spleen
+طِحالٌ شَمْعِيّ مُنْتَشِر ( تَنَكُّسُ الطِّحالِ النَشَوَانيّ)	diffuse waxy spleen
+طِحالُ غاندي-غاما (تَضَخُّم الطِّحال بِفَرْطِ حديد الأَنْسِجَة)	Gandy-Gamna spleen
+طِحالٌ مُبَقَّع ( طِحالٌ نَخْرِيّ)	speckled spleen
+طِحالٌ مُتَضَخِّم	enlarged spleen
+طحال محفظي	episplenitis
+طِحالٌ مَشْوِيّ (في داء هودجكين)	hardbaked spleen
+طِحالٌ مُنْتَبِذ	ectopic spleen
+طِحالٌ نَشَوَانِيّ	amyloid spleen
+طُحَال، الْتِهَابُ الطِّحَال	lienitis
+طَحالِب	algae
+طِحالِيّ	lienal / splenic
+طِحالِيُّ الشَّكْل	spleniform
+طِحالِيُّ المَنْشَأ	splenogenous
+طِحالِيٌّ بَنْكرياسِيّ	lienopancreatic / splenicopancreatic / splenopancreatic
+طِحالِيٌّ حِجابِيّ	splenophrenic
+طِحالِيٌّ قَوْلًونِيّ	splenocolic
+طِحالِيٌّ كُلْوِيّ	lienorenal / splenonephric / splenorenal
+طِحالِيٌّ لِمْفِيّ	splenolymphatic
+طِحالِيٌّ مَعِدِيّ	splenicogastric
+طِحالِيٌّ مِعَويّ	lienointestinal (splenointestinal)
+طِحالِيٌّ نِقْيِيّ	lienomedullary / splenomedullary
+طِحالِيٌّ نِقْيِيُّ التَّكَوُّن	lienomyelogenous
+طِحالِيٌّ نِقْيِيُّ المَنْشَأ	splenomyelogenous
+طَحَّانَة الطَّرْق	hammer mill
+طَحَل دمويّ	splenemia
+طُحْلُب	alga
+طُحْلُبٌ أَبْيَض	leukophyte
+طُحْلُبُ إِسْلَنْدَة	Cetraria islandica
+طُحْلُبٌ بَحْرِيّ [نبات]	seaweed
+طُحْلب، طَحَالب	alga; algae
+طُحْلُبِيّ	algal
+طَحْن	grinding
+طَحْن ؛ سَحْل	milling
+طُحَيل ( الطِّحالُ الإِضافِيّ)	splenculus (splen accessorius) / spleniculus
+طُحَيْل ( طِحالٌ إِضافِيّ)	lienculus (lien accessorius) / lienunculus (accessory spleen)
+طُحَيل (طُحالٌ إضافِيّ)	splenule / splenulus / splenunculus
+طحين، دقيق	farina
+طِراز	pattern
+طِرازُ الإِطْباق	occlusal pattern
+طِرازُ الانْبِهار	startle pattern
+طِرازُ الاِنْعِراج	diffraction pattern
+طِرازُ البَصْمَة	fingerprint pattern
+طِرازُ التَّثَفُّل	sedimentation pattern
+طِرازُ التَّحاتّ	wear pattern
+طِرازُ التَّداخُل	interference pattern
+طِرازُ التَّنْبيه	stimulus pattern
+طِرازُ الحُزْمَة (الكَهْرَطيسِيَّة)	beam pattern
+طِرازُ الدَّوَّامَة (في البَصَمات)	whorl pattern
+طِرازُ السُّلوك	behavior pattern
+طِرازُ العُرْوَةِ (في البَصَمات)	loop pattern
+طِرازُ الفِعْل ( الغَريزَة)	action pattern (instinct)
+طِرازُ الفِعْلِ الثَّابِت	fixed action pattern
+طِرازُ القَوس (في البَصَمات)	arch pattern
+طِرازُ النَّخاريب	honeycomb pattern
+طِرازُ بروتيناتِ الدَّم	blood protein pattern
+طراز حيوي	biotype
+طِرازُ شُحومِ الدَّم	blood lipid pattern
+طِرازٌ شَمْعِيّ	wax pattern
+طِرازٌ هَيكَلِيّ	skeletal pattern
+طِرازُ وَرَقَةِ البَرْسيم	cloverleaf pattern
+طِراز، غرار، نموذج	pattern
+طُراف	blepharism
+طَرَّاقَة	swager
+طَرامَة (الطُّرَامَة:بقيَّةُ الطَّعام بين الأَسنان و الخضرة تركب على الأَسنان)	sordes
+طَرامَة (نتن المعدة أو الفم أو الأسنان؛اطَّرم فوه:تغير)	saburra
+طَرامَة [أسنان] (نتن المعدة أو الفم أو الأسنان؛اطَّرم فوه:تغير)	stagnation
+طَرامَةٌ مَعِدِيَّة	sordes gastricae
+طَرَاَمِيّ	saburral
+طراوة	freshness
+طراوة اللحم	tenderness
+طرجَهَاري حَلَقي	cricoarytenoid
+طِرْجِهَالِيّ	arytenoideus; arytenoid
+طِرْجِهالِيٌّ لِسَانُ مِزْمَارِيّ	aryepiglottic (arytenoepiglottic) / aryepiglottidean (arytenoepiglottic) / arytenoepiglottic
+طِرْجِهالِيٌّ لِسَانُ مِزْمَارِيّ، طِرْجِهَالِيّ فَلْكَوِيّ	aryepiglottic (=arytenoepiglottic); aryepiglottis
+طَرْحٌ	abortion / discharge / elimination / subtraction
+طَرَخْشَقون [نبات]	Taraxacum
+طَرْخون [نبات]	tarragon
+طرد	ejection / expulsion
+طَرْدُ الأَدْوِيَة (من الجسم)	demedication
+طَرْدُ البَلْغَم	expectoration
+طَرْدُ الحَشَرات	disinsection / disinsectization
+طَرْدُ الحَصاة	lithecbole
+طَرْدُ الدِّيدان	deworming
+طَرَدَ بِالغَلَيَان	boil off
+طَرْدُ غازِ الخَرْدَل	demustardization
+طَرْزُ الانْتِقال	mode of transmission
+طَرَشٌ	anakosis
+طَرَط (فِقْدانُ شَعْرِ الحاجِبَيْنِ والأَهْداب)	madarosis
+طَرْطَرات	tartrate
+طَرْطَراتُ البِزْمُوت	tartrobismuthate
+طرطراتُ البوتاسيومِ و الصوديوم	potassium sodium tartrate
+طَرْطَراتُ الصُّودْيُوم و البُوتاسْيُوم	potassium sodium tartrate
+طَرْطَراتٌ حَمْضِيَّة	acid tartrate
+طَرْطَراتٌ نِظامِيَّة	normal tartrate
+طرطير، قلد	tartar
+طَرْف	blinking / extremity / extremity; limb / limb
+طرف (ال...) الأماميّ	forelimb; foreleg
+طَرَف [ج:أَطْراف]	limb / membrum NA [pl.membra]
+طَرَف ؛ رَأْس	nib
+طَرَفٌ اِصْطِنَاعِيٌّ	artificial limb
+طَرَفُ الرَّاصِّ [أسنان]	condenser nib
+طَرَفٌ شَبَحِيّ	phantom limb
+طَرَفٌ كاذِب ( طَرَفٌ شَبَحِيّ)	pseudomelia (phantom limb)
+طَرَفٌ كاذِبٌ مَذَلِيّ	pseudomelia paraesthetica
+طَرَفٌ مُسْتَدِق	feather edge / feather edge; acro-
+طَرَفا الوَتَرَةِ (¬ ساقا الوَتَرَة)	limbs of anthelix (®crura anthelicis)
+طَرْفَة	winking
+طَرْفَةٌ فَكِّيَّة	jaw winking
+طَرَفِيّ	extremital / extremital; acral
+طَرَفِيُّ الرَّأْس [مسخ]	cephalomelus
+طَرَفِيُّ القُسَيمِ المَرْكَزِي (صبغي)	telocentric
+طَرَفِيُّ القُسَيمِ المَرْكَزِيّ [صِبْغِيَّات]	acrocentric
+طَرَفِيَّةُ المُحّ (بيضة)	telolecithal
+طُرُق [ف:طَريق]	viae [sing.via]
+طُرُقُ تَرْبِيَةِ الحَيَوانات	zootechnics
+طَرْقَةٌ تأمورِيَّة	pericardial knock
+طِرْهالَة (مَنٌّ تركي)	trehala
+طِرهالُوز (سكر ثنائي تفرزه بعض الحشرات)	trehalose
+طَروق (قَابِلٌ للتَّرَقُّقِ بالطَّرْق)	malleable
+طَروقِيَّة (قَابِلِيَّةُ التَّرَقُّقِ بالطَّرْق)	malleability
+طَرِيّ، طَازِج	fresh
+طَريحُ الفِراش	bedfast (bedridden) / bedridden
+طَرِيدَة	game animals
+طُرَيْف (عظما الفخذ والعضد في الجنين)	stylopodium
+طَريق	route
+طَريق [ج:طُرُق]	via [pl.viae]
+طريق سبيل	tract
+طَرِيق فَمَوِيّ	oral route
+طَرِيق مَهْبِلِيّ	vaginal route
+طريق هوائيّ، مسلك هوائيّ	airway
+طريق، مسلك	way
+طَريقَة	procedure / technic (technique) / technique
+طريقة "برجر" للبتر	amputation (Berger,s) method of
+طَريقَة [ج:طُرُق]	method
+طَريقَةُ إعادَةِ النَّفَس	rebreathing technique
+طَريقَةُ الإِباضَة	ovulation method
+طَريقَةُ الإبْلاغِ الذَّاتي	self report method
+طريقة الاسْتِبْطَان	introspective method
+طَرِيقَةُ الإعْطَاء	way/mode of administration
+طَريقَةُ الامْتِزاز	adsorption method
+طَريقَةُ الامْتِصاص	absorption method
+طَريقَةُ الانْتِشارِ القُرْصِيّ	disk diffusion method
+طَريقَةُ الانْتِشارِ المَوْقُوْت (في التخدير النخاعي)	time diffusion technique
+طَريقَةُ الانِتِشارِ بالأَغَار	agar diffusion method
+طَريقَةُ الانْعِراج	diffraction method
+طَريقَةُ البيروكسيدازِ مع ضِدِّها	PAP technique (peroxidase antiperoxidase technique)
+طَريقَةُ البَيْغ	flush technique
+طَريقَةُ التَّحَسُّسِ بالأَقْرَاص	disk sensitivity method
+طَريقَةُ التَّخْريشِ بالحَمْض	acid etch technique
+طَريقَةُ التَّخْفيفِ فالتَّرْشيح (لزرع الدم)	dilution-filtration technique
+طَريقَةُ التَّذْكير	recall method
+طَريقَةُ التَّضْبِيْبِ	fogging method
+طَريقَةُ التَّعَرُّف	recognition method
+طَريقَةُ التَّعْليق	suspension method
+طَريقَةُ التَّعْوِيْم	flotation method
+طَريقَةُ التَّقْرِيْبِ المُتَتالي	method of successive approximation
+طَريقَةُ التَّقْطِيْع	segmentation method
+طَريقَةُ التَكْثيفِ البَصَرِيّ	optical density method
+طَريقَةُ التَكْثيفِ الجانِبيّ	lateral condensation method
+طَريقَةُ التَّكْثِيْفِ العَمُوديّ	vertical condensation method
+طَريقَةُ التَّهْريس (لتهيئة الخلايا لفحص الصبغيات)	squash technique
+طَريقَةُ التَّهْوِيَةِ المُباشِرَة	direct aeration method
+طَريقَةُ الثِّقَلِ النَّوعِيّ	specific gravity method
+طَريقَةُ الحالَتَينِ البَديلَتَين	alternate paired-case method
+طَريقَةُ الحالَةِ البَديلَة	alternate case method
+طَريقَةُ الحَشَرَةِ العَقيمَة	sterile insect technique
+طَريقَةُ الخَبْن	deletion method
+طَريقَةُ الرَّحْضِ المائِيّ [أسنان] (غسل السن بماء فاتر قبل حفرها)	hydro-flo technique
+طَريقَةُ السِّلْكِ القَوْسِيّ	arch bar method
+طَريقَةُ الشَّبِّ و الدَّمِ و الطِّين	A.B.C. process (alum, blood, clay method)
+طَريقَةُ الشَبِّ و الدَّمِ و الغَضار	A.B.C. method (alum, blood, clay method)
+طَريقَةُ الضِّدِّ المَتاَلِّق	fluorescent antibody technique
+طَريقَةُ الطَّبْعَة	impression technique
+طَريقَةُ العَدِّ الوَمَضانِيّ (لقياس النشاط الإشعاعي)	scintillation counting technique
+طريقة العدوى	mode of contagion
+طَريقَةُ العَصْرِ بالفَتْل (لتحضير الملغم) [أسنان]	wring-down technique
+طَريقَةُ الغُرْفةِ الشَّفَّافة	transparent chamber method
+طَريقَةُ الفِرْجار	caliper method
+طَرِيْقَةُ الفِرْشاة	brush technique
+طَريقَةُ الفِلمِ الثَّخين	thick-film method
+طَريقَةُ الفِلْمِ الرَّقيق	thin-film method
+طَريقَةُ القَطْرَةِ المُعَلَّقَة (في الفحص المجهري)	hanging drop technique
+طَريقَةُ القياسِ النَّفْسِي	psychometric method
+طَريقَةُ المَخْروطِ الطَّويل [أسنان]	long cone technique
+طَريقَةُ المَخْروطِ الفِضِّي	silver cone method
+طَريقَةُ المَخْرُوْطِ المُفْرَد	single cone method
+طَريقَةُ المَرْحَلَةِ الواحِدة	one stage method
+طَريقَةُ المَرْطَبانِ المَخْتوم	sealed jar technique
+طَريقَةُ المُعاوَقَة	impedence method
+طَريقَةُ المَقاطِع	sectional method
+طريقة المواجهة	confrontation method
+طَريقَةُ النَّافِذَةِ الجِلْدِيَّةِ لرِيبوك (لدراسة العملية الالتهابية)	Rebuck skin window technique
+طَريقَةُ الهيماتينِ الحَمْضِيّ	acid hematin method
+طَريقَةٌ امْتِصاصِيَّة	absorption method
+طَريقَةُ أوخترلوني (للانتشار بالاتجاهين)	Ouchterlony technique
+طَريقَةُ أور (لمعالجة الكسر المتضاعف بالتهاب عظم ونقي)	Orr technique
+طَريقَةُ آيفي (لِتَعْيينِ زَمنِ النَّزْف)	Ivy's method
+طَريقَةُ آيفِي (لِزَمَنِ النَّزْف)	Ivy's method
+طَريقَةُ برايل (في تعليم العميان)	braille
+طَريقَةُ بِيغ (لتقويم الأسنان)	Begg technique
+طَرِيقَةٌ تَحْلِيلِية	analytical method
+طريقة ترويتا (لمعالجة الكسور المفتوحة)	Trueta technique
+طريقةُ حلِّ المُشْكلاتِ	problem-solving technique
+طَريقَةُ سيلدينغر (لبزل الأوعية عبر الجلد)	Seldinger technique
+طَريقَةُ شَطْرِ القالب	split cast method
+طَريقَةُ عَدَمِ اللَّمْسِ	no-touch method
+طَريقَةُ غرام	Gram's method / gram-method
+طَريقَةٌ كِبْرَوِيَّة	macromethod
+طَرِيْقَةُ كُحُوْلِ النَّفَس	breath alcohol method
+طَريقَةُ كريستيلر (لتخليص الجنين)	Kristeller technique
+طَريقَةُ كلاينشميت (تمزيق غلاف الفيروس بالصدمة التناضحية)	Kleinschmidt technique
+طَرِيقَةُ كَلْدَال	Kjeldahl's method
+طَريقَةُ كوفي (مفاغرة الحالب بالسيني)	Coffey technique
+طَريقَةُ كونوي (رأب الثدي مع إبقاء الحلمة والهالة)	Conway technique
+طَريقَة كيلدال	Kjeldahl's method
+طَريقَةُ كِيلدال (طريقة تستعمل لتعيين كمية النتروجين في مركب عضوي)	Kjeldahl's method
+طَريقَةٌ لامُباشِرَة	indirect method
+طَرِيْقَةُ لَطْخَةِ ويستيرن	Western blot technique
+طَريقَةُ لوبواييه (لتخليص الجنين)	Leboyer technique
+طَريقَةُ لَوْحَةِ جيرن (لتحري الخلايا المنتجة للأضداد)	Jerne plaque technique
+طَريقَةُ ماك غون (لرأب الصمام المترالي)	McGoon's technique
+طَريقَةٌ مُباشِرَة	direct method
+طَريقَةٌ مِكْرَوِيَّة	micromethod
+طَريقَةُ ميريندينو (لرأب الصمام المترالي)	Merendino's technique
+طَريقَةُ نُمُوِّ العَظْم	bone growth method
+طَريقَةُ هارتيل	Hartel's technique
+طَرِيقَةٌ وَزْنِيَّة	gravimetric method
+طَرِيقَة، تِقْنِيَّة	method
+طَعَام	aliment / food
+طَعامِيّ	cibarian / cibarian = cibal / cibarious
+طَعْم	bait / flavour / graft; grafting
+طُعْم ؛ رُقْعَة	graft
+طُعْمٌ إِبْطِيٌّ فَخِذِيّ	axillofemoral graft
+طُعْمٌ أَبْيَض ( طُعْمٌ لاَوِعائِيّ)	white graft (avascular graft)
+طُعْمٌ آجِل	delayed graft
+طُعْمٌ أَجْنَبِيّ	xenogenic graft (xenograft) / xenoplastic transplant
+طُعْمٌ أَجْنَبِيّ ( طُعْمٌ غَيرَويّ)	xenograft (heterograft)
+طُعْم أجنبيّ، طُعْم مغاير	xenograft
+طُعْمٌ أَدَمِيّ	dermal graft / dermic graft
+طُعْمٌ إسْتَنْتِيّ ( طُعْمُ إِسَّر)	Stent graft (Esser graft)
+طُعْمُ إِسَّر (طعم كامل سمك الجلد وينقل على قالب ويخاط معه على موضع الغرس)	Esser graft
+طُعْمٌ إسْفِنْجِيّ	sponge graft
+طُعْمٌ إِسْوِيّ	autochthonous graft (autograft) / autogenous graft / autologous graft / isogenic homograft (isograft) / isogenic transplant / isograft (syngraft) / isotransplant (isograft) / syngenesioplastic transplant (isogenic transplant) / syngraft
+طُعْمٌ إِسْوِيُّ البِنْيَة (طُعْمٌ إِسْوِيُّ النَّمَطِ الجينِيّ)	isoplastic graft (syngraft)
+طُعْمٌ إِسْوِيُّ النَّمَطِ الجينِيّ ؛ طُعْمٌ مُسانِج	isologous graft (syngraft)
+طُعْمُ البِدْلَةِ السِّنِّيَّة	implant denture
+طُعْمُ الشَّطيرَةِ الرَّقيقَة ( طُعْمُ أُوليِيه- تِيرش)	thin-split graft (Ollier-Thiersch's graft)
+طُعْمُ الشَّطيرَةِ السَّميكَة (طُعْمٌ جِلْدِيٌّ سَميك)	thick-split graft
+طُعْمٌ امْتِطائيٌّ مَجازِيّ	crossover bypass graft
+طُعْمٌ أُنْبوبِيّ	tube graft
+طُعْمُ أُوُليِيه-تِيرْش (طَعْمٌ جِلْدِيٌّ رَقيق)	Ollier-Thiersch graft
+طُعْمٌ بالمُخاطِيَّة	mucosal graft
+طُعْمٌ بَذْرِيّ	seed graft
+طُعْمُ براون (طُعْمٌ جِلْدِيٌّ سَميك)	Braun graft
+طُعْمُ براون-وانغنستين (غرس طعوم جلدية صغيرة مقطوعة من آخر كبير)	Braun-Wangensteen graft
+طُعْمٌ بَشْرَوِيّ	epidermic graft
+طُعْمٌ بشَكْلِ السَّلَّة	basket implant
+طُعْمُ بلير-براون (طعم جلدي مشطور بعمق متوسط)	Blair-Brown graft
+طُعْمٌ بَينِيّ	interplant
+طُعْمٌ بَيولوجيٌّ	bioimplant
+طُعْمٌ تَتابُعِيّ	sequential graft
+طُعْمٌ تَحْتَ السِّمْحاق	subperiosteal implant
+طُعْمٌ تَرْصِيْعِيّ	inlay graft
+طُعْمٌ تَرْقيعِيّ	patch graft
+طُعْمٌ تَسَانُجِيّ	syngenesiograft
+طُعْمُ تِيرْش (طُعْمٌ جِلْدِيٌ رَقيق)	Thiersch's graft
+طُعْمٌ جَزيرِيّ	island graft
+طُعْمٌ جِلْدِيّ	skin graft
+طُعْمٌ جِلْدِيّ ( طُعْمٌ أَدَمِيّ)	cutis graft (dermal graft)
+طُعْمٌ جِلْدِيٌّ إِسْوِيّ	autodermic graft / autoepidermic graft
+طُعْمٌ جِلْدِيٌّ غَيْرَوِيٌّ	heterodermic graft
+طُعْمٌ جِلْدِيٌّ مَشْطور	split-skin graft / split-thickness graft
+طُعْمٌ جَنينِيّ (طعم نسيج من جنين أو وليد لحيوان كبير)	brephoplastic graft
+طُعْمُ جيليس ( سَديلَةٌ حَبْلِيَّة)	Gillies' graft (rope flap)
+طُعْمٌ حَبْلِيّ	rope graft
+طعم حديدي	chalybeate taste
+طُعْمٌ حَرْقَفِيّ	iliac graft
+طُعْمٌ حُزْمِيّ (للأعصاب)	fascicular graft
+طُعْمٌ حَيَوانِيّ	zoograft
+طُعْمٌ خامِل (طعم من مادة غير فعالة)	alloplast graft
+طُعْمٌ خُرْمِيّ	pinch graft
+طُعْمٌ خَزَفِيّ	ceramic implant
+طُعْمٌ خُصْوِيّ	testis graft
+طُعْمٌ خَيْفِيّ	allogeneic graft (allograft) / allogenic transplant
+طُعْمٌ خَيْفِيّ (طُعْمٌ مِنْ فَرْدٍ يَنْتَمِي لِنَفْسِ النَّوع)	allograft
+طُعْمٌ خَيْفِيّ عَصَبِيّ	nerve allograft
+طُعْمٌ خَيْفِيّ مِنَ الرَّعِيْلِ الأوَّل	first-set allograft
+طُعْمٌ خَيْفِيٌّ من الرَّعِيْلِ الثَّاني	second-set allograft
+طُعْمٌ داخِلَ الصِّفاق	intraperitoneal implant
+طُعْمٌ داخِلَ العَظْم	endosseous implant
+طُعْمٌ داخِلَ النِّقْي	intramedullary graft
+طُعْمٌ دَرَقِيّ	thyroid graft
+طُعْمٌ دُهْنِيّ	fat graft
+طُعْمُ دوغلاس ( طُعْمٌ مُنْخُلِيّ)	Douglas's graft (sieve graft)
+طُعْمُ ديفيس ( طُعْمٌ خُرْمِيّ) (طعم جلدي صغير ورقيق)	Davis graft (pinch graft)
+طُعْمٌ ذاتِيّ	autograft / autoplastic graft / autoplastic transplant / autotransplant (autograft)
+طُعْمٌ راصِع	outlay (onlay graft)
+طُعْمُ ريفيردان ( طُعْمٌ بَشْرَوِيّ)	Reverdin graft (epidermic graft)
+طعم سداسي	hexavaccine
+طُعْمٌ سِقائِيٌّ مَشيمائِيّ	chorioallantoic graft
+طُعْمٌ سِمْحاقِيّ	periosteal graft
+طُعْمٌ سِنِّيٌّ	dental transplant / endodontic implant
+طُعْمٌ سِنِّيّ ( طُعْمٌ فَمَوِيّ)	dental implant (oral implant)
+طُعْمٌ سَوِيُّ المَوْضِع ( طُعْمٌ خَيْفِيٌّ)	orthotopic transplant (allogenic graft)
+طُعْمٌ شَبَكِيّ	mesh graft
+طُعْمٌ شَبِيْهٌ بالكُمِّ	sleeve graft
+طُعْمٌ شَبِيْهٌ بمِقْبَضِ الحَقيبَة (لصيوان الأذن)	valise handle graft
+طُعْمٌ شِرْيانِيّ	arterial graft
+طُعْمٌ صِفاحِيّ	lamellar graft
+طُعْمٌ صَفيحِيّ	sheet graft
+طُعْمٌ ضِلْعِيٌّ مَشْطور	split-rib graft
+طُعْمٌ عَصَبِيّ	nerve graft
+طُعْمٌ عَضَلِيّ	muscle graft
+طُعْمٌ عَظْمِيّ	bone graft / bone implant (bone graft) / endosteal implant / osseous graft
+طُعْمٌ عَظْمِيٌّ رَاصِعِيّ	onlay bone graft
+طُعْمٌ عُنَيْقِيّ ( سَديلَةٌ عُنَيْقِيَّة)	pedicle graft (pedicle flap)
+طُعْمُ غالي (شرائط من اللفافة الفخذية العريضة لرأب الفتوق)	Gallie transplant
+طُعْمٌ غَرْسِيّ	implantation graft
+طُعْمٌ غُضْروفِيّ	cartilage graft / cartilaginous implant
+طُعْمٌ غَيْرَوِيٌّ ( طُعْمٌ أَجْنَبِيّ)	heterograft (xenograft) / heterologous graft (xenograft) / heteroplastic graft (xenograft) / heteroplastid (xenograft) / heterotransplant (xenograft)
+طُعْمٌ غَيْرَوِيٌّ (طُعْمٌ أَجْنَبِيّ)	heteroplastic transplant (xenoplastic graft) / heterotopic transplant (xenoplastic graft)
+طُعْمٌ فَمَوِيّ	oral implant
+طُعْمٌ فَوْقِيّ ( طُعْمٌ على طُعْم)	overgrafting
+طُعْمٌ قُفَّازِيّ ( سَديلَةٌ سَوَيقِيَّة)	gauntlet graft (pedicle flap)
+طُعْمٌ قَفْزِيّ ( سَديلَةٌ قَفْزِيَّة)	jump graft (jump flap)
+طُعْمٌ قَوقَعِيّ	cochlear implant
+طُعْمٌ كابولِيّ	cantilever graft
+طُعْمٌ كامِلُ الثَّخانَة	full-thickness graft
+طُعْمٌ كَبْلِيّ	cable graft
+طُعْمُ كراوزه-وولف ( طُعْمٌ كامِلُ الثَّخانَة)	Krause-Wolfe graft (full thickness graft)
+طُعْمٌ كُظْرِيّ	adrenal graft
+طُعْمُ كِيل (في الوجه)	Kiel graft
+طُعْم لاعُضْوِيّ	alloplast
+طُعْمٌ لاوِعائِيّ	avascular graft
+طُعْمٌ لَفائِفِيّ	ileal graft
+طُعْمٌ لِفافِيّ	fascia graft
+طُعْمٌ مُثَبَّتٌ داخِلَ العَظْم	anchor endosteal implant
+طُعْمٌ مِثْلِيّ ( طُعْمٌ خَيْفِيّ)	homeograft (allograft) / homeotransplant (allograft) / homoplastic graft (allograft)
+طُعْمٌ مِثْلِيّ (طُعْمٌ خَيْفِيّ)	homograft (allograft) / homoplastic transplant (allogenic graft) / homotopic transplant (allogenic graft) / homotransplant (allograft)
+طُعْمُ مَجازَةِ الشِّرْيانِ التَّاجِيّ	coronary artery bypass graft
+طُعْمٌ مجازِيٌّ أَبْهَرِيٌّ فَخِذِيّ	aortofemoral bypass graft
+طُعْمٌ مَجازِيٌّ أَبْهَرِيٌّ كُلْوِيّ	aortorenal bypass graft
+طُعْمٌ مُحَرَّر	free graft
+طُعْمٌ مُسانِج	syngeneic graft (syngraft)
+طُعْمٌ مُسانِج ؛ طُعْمٌ إِسْوِيُّ النَّمَطِ الجينِيّ	isogeneic graft (syngraft)
+طُعْمٌ مُصَنَّع	fabricated implant
+طُعْمٌ مُطَوَّى؛طُعْمٌ اكُورْديُونِيّ	accordion graft
+طُعْمٌ مِغْناطيسِيّ	magnet implant
+طُعْمٌ مُفْرِطُ التَّنَسُّج	hyperplastic graft
+طُعْمٌ مَلْئِيّ	filler graft
+طعم ملحي	brackish taste
+طُعْمٌ مُنْخُلِيّ	sieve graft
+طُعْمٌ مُنْدَمِجٌ بالعَظْم	osseointegrated implant
+طُعْمٌ مُنَشِّط	activated graft
+طُعْمٌ نافِذ	penetrating graft
+طُعْمٌ نَفَقِيّ	tunnel graft
+طُعْمُ نِقْيِ العَظْم	bone marrow graft
+طُعْمٌ هُرْمونِيّ	hormone implant
+طُعْمٌ وَتَرِيّ	tendon graft
+طُعْمٌ وَريدِيّ	vein graft
+طُعْمٌ وِعائِيّ	vascular graft
+طُعْمُ وولف (? طُعْمٌ كامِلُ الثَّخانَة)	Wolfe's graft
+طُعْمُ وولف كراوزه (? طُعْمٌ كامِلُ الثَّخانَة)	Wolfe-Krause graft
+طعم، رقعة	graft
+طعم، لقح	vaccinate
+طَعْم، مَذَاق	taste
+طَعْن	stabbing
+طُعُوْمُ بِطانَةِ الرَّحِم	endometrial implants
+طُعومٌ ثَرْبِيَّة	omental grafts
+طُعومٌ غُضْروفِيَّةٌ مُقَطَّعَة	diced cartilage grafts
+طَغْوات أُذُنِيَّة	auricular tags
+طَغْوَةُ جِلْدِ الشَّرْج	anal skin tag
+طَغْوَةٌ جِلْدِيَّة	cutaneous tag / skin tag
+طَغْوَةُ خافِرَة	sentinel tag
+طَغْوَةٌ ظِهارِيَّة	epithelial tag
+طَفَائِفُ المُلْغَم	amalgam overhang
+طُفافَة	overhang
+طَفالَة [ج:طَفالاَت]	infantilism
+طَفالَةُ الوَذَمَةِ المُخاطِيَّة ( فَدامَة)	myxedematous infantilism (cretinism)
+طَفالَةُ بريسو ( الوَذَمَةُ المُخاطِيَّةُ الطِّفْلِيَّة)	Brissaud's infantilism (infantile myxedema)
+طَفالَةٌ بَطْنِيَّة ( الداءُ البَطْنِيُّ الطفلي)	celiac infantilism (infantile celiac disease)
+طَفالَةٌ بَنْكرياسِيَّة	pancreatic infantilism
+طَفَالَةٌ تَأَخُّرِيَّة ( طَفالَةٌ تَقَهْقُرِيَّة)	tardy infantilism (regressive infantilism)
+طَفالَةٌ تَسَمُّمِيَّة	toxemic infantilism
+طَفالَةٌ تَقَهْقُرِيَّة	regressive infantilism / reversive infantilism
+طَفالَةٌ جُزْئِيَّة	partial infantilism
+طَفالَةٌ جِنْسِيَّة	sex infantilism / sexual infantilism
+طَفالَةٌ دَرَقِيَّة	thyroid infantilism
+طَفالَةٌ دَرَقِيَّة (طَفالَةُ خَلَلِ الدَرَقِيَّة)	dysthyroidal infantilism
+طَفالَةٌ دَنَفِيَّة	cachetic infantilism
+طَفالَةٌ رِئَوِيَّة	pulmonary infantilism
+طَفالَةٌ شامِلَة	universal infantilism
+طَفالَةٌ كَبِدِيَّة (طَفالَةُ التَّشَمُّعِ الكَبِدِيّ)	hepatic infantilism
+طَفالَةٌ كُلْوِيَّة	renal infantilism
+طَفالَةٌ لِمْفاتِيَّة	lymphatic infantilism
+طَفالَةُ لوران ( طَفالَةٌ نُخامِيَّة)	Lorain's infantilism (hypophysial infantilism)
+طَفالَةُ ليفي-لوران ( طَفالَةٌ نُخامِيَّة)	Levi-Lorain infantilism (hypophysial infantilism)
+طَفالَةٌ مَصْحُوبَةٌ بأَعْراض	symptomatic infantilism
+طَفالَةٌ مِعَوِيَّة ( الدَّاءُ البَطْنِيُّ الطِّفْلِيّ)	intestinal infantilism (infantile celiac disease)
+طَفالَةٌ نُخامِيَّة	hypophysial infantilism
+طَفالَةٌ نُخامِيَّة ( قَزامَةٌ طُفولِيَّة)	pituitary infantilism (infantile dwarfism)
+طَفالَةٌ نَفْسِيَّة	psychoinfantilism
+طَفالَةُ هيرتَر ( الدَّاءُ البَطْنِيُّ الطِّفْلِيّ)	Herter's infantilism (infantile celiac disease)
+طفح	anthema (= eruption) / eruption / exanthema = exanthem
+طَفَح [ج:أَطْفاح]	rash
+طفح أكّال	nettlerash; urticaria
+طَفَحُ الإِرْبِيان	lobster rash
+طَفَحُ التَّطْعِيْم	vaccination rash
+طَفَحُ التُّوت	mulberry rash
+طَفَحُ الحَرّ	prickly heat (heat rash)
+طَفَحُ الحَرّ ( دُخْنِيَّةٌ حَمْراء)	heat rash (miliaria rubra)
+طَفَحُ الحِفاظ	diaper rash / napkin rash
+طَفَحُ الزَّنْبَق	lily rash
+طَفَحُ السَّبَّاحين	seabathers eruption
+طَفَحُ العُثِّ البُنِّيِّ الذَّنَب	brown-tail rash
+طَفَحُ اللِّثَة	gum rash
+طَفَحُ المَصْل	serum eruption / serum rash
+طَفَحُ المَلاَبِسِ الداخِليَّة ( الْتِهابُ الجِلْدِ المَثِّيّ)	flannel rash (seborrheic dermatitis)
+طَفَحُ المُنَظِّفات	detergent rash
+طَفَحُ النِّيكل	nickel rash
+طَفَحٌ أَمونيائِيّ	ammonia rash
+طَفَحٌ بَاطِن	eisanthema / enanthem / enanthema
+طَفَحٌ بشَكْلِ الفَرَاشَة	butterfly eruption
+طَفَحٌ بُقْعِيّ	macular eruption
+طَفَحٌ بُقْعِيٌّ حَطاطِيّ	maculopapular eruption
+طَفَحٌ بُوَيغائِيُّ المَنْشَأ	microsporid
+طفح جلدي	skin rash
+طَفْحٌ جِلْدِيٌّ برومي	bromoderma
+طَفَحٌ جَوَّال ( التهاب اللِّسان المتنَقِّلُ الحَمِيد)	wandering rash (benign migrating glossitis)
+طَفَحٌ حَبَرِيّ	eruption, petechial / petechial eruption
+طَفَحٌ حَرارِيّ	heat rash
+طَفَحٌ حَرْشَفِيّ	squamous eruption
+طَفَحٌ حَصْبِيُّ الشَّكْل	morbilliform eruption
+طفح داخلي	enanthema
+طَفَحٌ دَوائِيّ	drug eruption / drug rash / medicinal rash
+طَفَحٌ دَوائِيٌّ ثابِت	fixed drug eruption
+طَفَحُ دُوْدَة الرَّمل (داءُ هِجْرَةِ اليَرَقات)	sandworm eruption (larva migrans)
+طَفَحٌ زاحِف	creeping eruption / eruption, creeping
+طَفَحٌ سِنِّيّ	tooth rash
+طَفَحٌ سِنِّيّ ( أُكالُ الأَطْفال)	tooth rash
+طفح شَكِلُّ	eruption, polymorphous
+طَفَحٌ صَيفِيّ	summer eruption / summer rash
+طَفَحٌ صَيفِيٌّ راجِع	recurrent summer eruption
+طَفَحٌ ضَوئِيٌّ مُتَعَدِّدُ الأَشْكال	polymorphous light eruption
+طَفَحٌ ظَاهِرٌ حُوَيصِلِيّ	vesicular exanthem
+طَفَحٌ ظَاهِرٌ فُجائِيّ	exanthem subitum / exanthema subitum
+طفح ظاهر، طفحيّة	exanthema
+طَفَحٌ عُدارِيّ	hydatid rash
+طفح عُدّاني	acneiform eruptions
+طَفَحٌ عُدِّيُّ الشَكْل	acneiform eruption
+طفح عقاري	eruption, drug
+طَفَحٌ فَراشِيُّ الشَّكْل	rasceta
+طَفَحٌ فُقَّاعِيّ	bullous eruption / eruption, bullous
+طَفَحٌ قِرْمِزِيُّ الشِّكْل	scarlatiniform eruption
+طَفَحُ كابُوزِي الحُماقِيُّ الشَّكْل	Kaposi's varicelliform eruption
+طَفَحٌ كَبْلِيّ ( عُدٌّ كَلُورِيّ)	cable rash (chloracne)
+طَفَحٌ لَبَنِيّ	galactophlysis
+طَفَحٌ لِثَوِيّ	dermite (ou eczéma ou dermatite) séborrhétique.
+طَفَحٌ لِقاحِيّ	vaccinal eruption
+طفح مبقع	eruption, macular
+طَفَحٌ مُبْيَضِّيّ	moniliid (candidid)
+طَفَحٌ مُتَعَدِّدُ الأَشْكال	polymorphous eruption
+طَفْحٌ مُتَنَقِّل	wandering rash
+طَفَحٌ مُتَوَسِّف	scaly eruption
+طَفَحٌ مُخاطِيّ	eisanthema
+طفح مفتعل	artificial eruption
+طَفَحٌ وَرْدِيّ ( الوَرْدِيَّة)	rose rash (roseola)
+طَفَحٌ يَسْروعِيّ	caterpillar rash
+طفح يودي	iododerma
+طَفْحَةٌ ابْيِضاضِيَّةّ	leukemid
+طَفْحَةٌ أَرَجِيَّة	allergid
+طَفْحَةٌ إِكْزيمِيَّة	eczematid (eczematide)
+طَفْحَةٌ إِكْزيمِيَّةٌ جُرَيبِيَّة	follicular eczematid
+طَفْحَةٌ إِكْزيمِيَّةٌ صَدَفِيَّةُ الشَّكْل	psoriasiform
+طَفْحَةٌ إِكْزيمِيَّةٌ نُخالِيَّةُ الشَّكْل	pityriasiform eczematid
+طَفْحَةُ الْتِهابِ البُلْعوم	pharyngitid
+طَفْحَةُ المُبْيَضَّات	candidid
+طَفْحَةٌ بَنْتاوِيَّة	pintid
+طَفْحَةٌ جُذامِيَّة	leprid / lepride
+طَفْحَةٌ جُرْثومِيَّةٌ بَثْرِيَّة	pustular bacterid
+طَفْحَةٌ دَمَوِيَّةُ المَنْشَأ	hematid
+طَفْحَةٌ ذِئْبِيَّةٌ وِعَائِيَّةٌ	angiolupoid
+طَفْحَةٌ ذَهَبِيَّة	aurid
+طَفْحَةٌ روماتزميَّة	rheumatid
+طَفْحَةٌ زُهْرِيَّةٌ	syphilid / syphilide
+طَفْحَةٌ زُهْرِيَّةٌ أَخْمَصِيَّة	plantar syphilid
+طَفْحَةٌ زُهْرِيَّةٌ إكثيميَّة	ecthymatous syphilid
+طَفْحَةٌ زُهْرِيَّةٌ بَثْرِيَّة	pustular syphilid
+طَفْحَةٌ زُهْرِيَّةٌ بَثْرِيَّةٌ جُلْبَوِيَّة	pustulocrustaceous syphilid
+طَفْحَةٌ زُهْرِيَّةٌ بُقَعِيَّة	macular syphilid
+طَفْحَةٌ زُهْرِيَّةٌ بُقَعِيَّةٌ وَرْدِيَّة	maculoroseolar syphilid
+طَفْحَةٌ زُهْرِيَّةٌ بُهَاقِيَّةُ الشَّكْل	vitiligoid syphilid
+طَفْحَةٌ زُهْرِيَّةٌ ثالِثِيَّة	tertiary syphilid
+طَفْحَةٌ زُهْرِيَّةٌ ثانَوِيَّة	secondary syphilid
+طَفْحَةٌ زُهْرِيَّةٌ جُدَرِيَّةُ الشَّكْل	varioliform syphilid
+طَفْحَةٌ زُهْرِيَّةٌ جُرَيبِيَّة	follicular syphilid
+طَفْحَةٌ زُهْرِيَّةٌ حَرْشَفِيَّة	squamous syphilid
+طَفْحَةٌ زُهْرِيَّةٌ حَزَازانِيَّة	lichenoid syphilid
+طَفْحَةٌ زُهْرِيَّةٌ حَطاطِيَّة	papular syphilid
+طَفْحَةٌ زُهْرِيَّةٌ حَطاطِيَّةٌ بَثْرِيَّة	papulopustular syphilid
+طَفْحَةٌ زُهْرِيَّةٌ حَطَاطِيَّة صَدَفِيَّة	papulosquamous syphilid
+طَفْحَةٌ زُهْرِيَّةٌ حَطاطِيَّةٌ مُسَطَّحَة	flat papular syphilid
+طَفْحَةٌ زُهْرِيَّةٌ حَلَقِيَّة	annular syphilid
+طَفْحَةٌ زُهْرِيَّةٌ حُمامِيَّة	erythematous syphilid
+طَفْحَةٌ زُهْرِيَّةٌ دُخْنِيَّة	miliary syphilid
+طَفْحَةٌ زُهْرِيَّةٌ دِرْهِمِيَّة	nummular syphilid
+طَفْحَةٌ زُهْرِيَّةٌ راحِيَّة	palmar syphilid
+طَفْحَةٌ زُهْرِيَّةٌ ساعِيَّة	serpiginous syphilid
+طَفْحَةٌ زُهْرِيَّةٌ سُلِّيَّةٌ ساعِيَة	tuberoserpiginous syphilid
+طَفْحَةٌ زُهْرِيَّةٌ صِباغِيَّة	pigmentary syphilid
+طَفْحَةٌ زُهْرِيَّةٌ عَدَسِيَّة	lenticular syphilid
+طَفْحَةٌ زُهْرِيَّةٌ عَصَبِيَّةٌ ( الحُمامَى الزُّهْرِيَّةُ المُتَحَلِّقة)	neurosyphilid (circinate syphilitic erythema)
+طَفْحَةٌ زُهْرِيَّةٌ عُقْدِيَّة	nodular syphilid
+طَفْحَةٌ زُهْرِيَّةٌ قِشْرِيَّة	rupial syphilid
+طَفْحَةٌ زُهْرِيَّةٌ نَظِيْرَةُ الفُقاعِيَّة	pemphigoid syphilid
+طَفْحَةٌ زُهْرِيَّةٌ وَرْدِيَّة	roseolar syphilid
+طَفْحَةٌ سُكَّرِيَّة	diabetid
+طَفْحَةٌ سُلِّيَّةٌ	folliclis / tuberculid / tuberculoderm / tuberculoderma
+طَفْحَةٌ سُلِّيَّةٌ جاسِئَةٌ تَحْتَ الجِلْد	indurative subcutaneous tuberculid
+طَفْحَةٌ سُلِّيَّةٌ عُدِّيَّةُ الشَّكْل	acneiform tuberculid
+طَفْحَةٌ شَعْرَوِيَّة	trichophytid
+طَفْحَةٌ فُطْرِيَّة	dermatophytid / mycid (dermatophytid) / phytid
+طَفْحَةٌ فُطْرِيَّةٌ جِلْدِيَّة	epidermophytid (dermatophytid)
+طَفْحَةٌ قُرَاعِيَّة	favid / favide
+طَفْحَةٌ لَيشمانية	leishmanid
+طَفَحَةٌ مِثْقَبِيَّةُ المَنْشَأ	trypanosomid
+طَفْحَةٌ نَقْرِسِيَّة	arthritide
+طَفَحَةٌ وَقْسِيَّة ( وَقْسٌ مُتَعَمِّم)	vaccinid (generalized vaccinia)
+طَفَحِيّ	eruptive / exanthematous
+طَفَحِيٌّ بَاطِنِيّ	enanthematous
+طفحي داخلي	enanthematous
+طَفَحِيَّةُ الزُّهْرِيّ	syphilitic exanthem
+طَفَحِيَّةُ بُوسْطُن (فيروسية المنشأ)	Boston exanthem
+طَفْرَة	mutation / transgenation (mutation)
+طَفْرَة (في الوراثة)	mutation
+طَفْرَةٌ اِسْتِمْثالِيَّة	homoeotic mutation
+طَفْرَةٌ إِشْعاعِيَّة	radiomutation
+طَفْرَةُ الخَلِيَّةِ الجِنْسِيَّة	germinal mutation
+طَفْرَةُ اللُّوَيْحَةِ الصَّافِيَة	clear plaque mutation
+طَفْرَةُ أَلِيلِيَّة	allelic mutation
+طَفْرَةُ انْزِياحِ الإِطار	frameshift mutation
+طَفْرَةُ انْزِياحِ قِراءَةِ الإِطار	reading frame shift mutation
+طَفْرَةٌ أوبالِيَّة	umber mutation (opal mutation)
+طَفْرَةٌ أوبالِيَّة ( طَفْرَةٌ هُرَائِيَّة)	opal mutation (nonsense mutation)
+طَفْرَةٌ بعَاملٍ نَمائِيّ	auxotrophic mutation
+طَفْرَةٌ بِنْيَوِيَّة	constitutive mutation
+طَفْرَةٌ بَيُوكيميائيَّةٌ	biochemical mutation
+طَفْرَةٌ تَغْذَوِيَّة	nutritional mutation
+طَفْرَةٌ تَقَدُّمِيَّة	forward mutation
+طَفْرَةٌ تِلْقائِيَّة	spontaneous mutation
+طَفْرَةٌ جُرْثُومِيَّة	bacterial mutation
+طَفْرَةٌ جَسَدِيَّة	somatic mutation
+طَفْرَةٌ حسَّاسَةٌ للبُرودة	cold sensitive mutation
+طَفْرَةٌ حَسَّاسَةٌ للحَرارَة	temperature sensitive mutation
+طَفْرَةٌ حَسَّاسَةٌ للسُّخونَة	heat sensitive mutation
+طفرة حيوية	biomutation
+طَفْرَةٌ رَجْعِيَّة	back mutation / reverse mutation
+طَفْرَةٌ شَرْطِيَّة	conditional mutation
+طَفْرَةٌ شَرْطِيَّةٌ مُمِيْتَة	conditional lethal mutation
+طَفْرَةٌ صامِتَة	silent mutation
+طَفْرَةٌ صِبْغِيَّة	chromosomal mutation
+طَفْرَةٌ طَبِيْعِيَّة	natural mutation
+طَفْرَةٌ عَمْبَرِيَّة ( طَفْرَةٌ هُرَائِيَّة)	amber mutation (nonsense mutation)
+طَفْرَةٌ قُطْبِيَّة	polar mutation
+طَفْرَةٌ كابِتَة	suppressor mutation
+طَفْرَةٌ كَبِيْرَةٌ	macromutation
+طَفْرَةٌ مَجِيْنِيَّة	genomic mutation
+طَفْرَةٌ مُحَايِدَة	neutral mutation
+طَفْرَةٌ مُحْدَثَة	induced mutation
+طَفْرَةٌ مَرْئِيَّة	visible mutation
+طَفْرَةٌ مُغْرَوِيَّة ( طَفْرَةٌ هُرَائِيَّة)	ochre mutation (nonsense mutation)
+طَفْرَةٌ مُغَلِّطَة	missense mutation
+طَفْرَةٌ مُمِيْتَة	lethal mutation
+طَفْرَةٌ مُوَجَّهة	managed mutation
+طَفْرَةٌ نُقْطِيَّة	point mutation
+طَفْرَةٌ هُرَائِيَّة	nonsense mutation
+طَفْرِيّ	mutational
+طِفْل	child / child; infant
+طِفْل [ج:أطفال]	child
+طِفْل ؛ رَضِيْع	baby
+طِفْلُ الأُنْبُوبِ	test-tube baby
+طِفْلُ المَدْرَسَة (6.12 سَنَةً)	school child
+طِفْلٌ ذاتَويّ	autistic child
+طِفْلٌ غَيرُ نَموذجِيّ	atypical child
+طِفْلٌ في مقتبل المُراهَقَة	preadolescent
+طِفْلٌ كولُّوديونيّ (الجلد)	collodion baby
+طِفْلُ ما قَبْلَ المَدْرَسَة (2.6 سَنَواتٍ)	preschool child
+طِفْلٌ مُتَضَرِّرُ الدِّماغ	brain damaged child
+طِفْلٌ مُزْرَق	blue baby
+طِفْلٌ مُعْتَسَف	battered child
+طِفْلٌ مُعَوَّق	handicapped child
+طِفْلٌ مُنْحَرِفُ الأَنا	ego deviant child
+طِفْلٌ مَوهوب	gifted child
+طِفْلٌ وَليد	baby / newborn child (neonate)
+طُفُوٌّ	buoyancy
+طُفولَة	childhood
+طُفولَةٌ سَيِّئَةُ التَّلاَؤُم	maladjusted childhood
+طُفولِيّ؛صِبْيَانِيّ	puerile
+طُفَيل [ج:طُفَيلاَت]	miracidium [pl.miracidia]
+طُفَيْل اختياريّ	facultative parasite
+طفيل جلدي	dermatozoon
+طُفَيْل حمراوي	erythroparasite
+طُفَيْل دموي	hematozoon
+طُفَيلاَت [ف:طُفَيل]	miracidia [sing.miracidium]
+طُفَيْلَمِيّة	parasitemia
+طفيلوي داخلي	entozoal
+طُفَيلِيّ	infestive / parasite / parasite; parasitic / parasitic
+طُفَيلِيّ [ج:طُفَيلِيَّات]	parasite
+طُفَيلِيٌّ أَجْنَبِيّ	xenoparasite
+طُفَيلِيٌّ أَحْيانِيّ ( طُفَيْلِيٌّ مُتَقَطِّع)	occasional parasite (intermittent parasite)
+طفيلي البلهارسيا	schistosoma
+طُفَيلِيُّ التَّوَجُّه	parasitotrope / parasitotropic
+طفيلي الحمر	hemacytozoon = hemocytozoon / hemocytozoon = hemacytozoon
+طفيلي الحمية	plasmodium vivax
+طُفَيلِيُّ الطُّفَيلِيّ	hyperparasite / hyperparasitic / paraneoxenous (hyperparasitic)
+طُفَيلِيُّ الطُّفَيلِيِّ مِنَ الدَّرَجَةِ الثَّانِيَة	second degree hyperparasite
+طُفَيلِيُّ الكُرَيَّةِ الحَمْراء	erythroparasite
+طُفَيلِيُّ المَلاَرْيا	malaria parasites / malarial parasite
+طفيلي الملاريا الخبيثة	plasmodium falciparum
+طفيلي الملاريا الرباعي	plasmodium malariae
+طُفَيلِيُّ المَنْشَأ	parasitogenic
+طُفَيلِيٌّ بَرَّانِيّ	ectoparasite / ectozoon (ectoparasite)
+طُفَيلِيٌّ بِيئِيّ	ecoparasite (ecosite) / ecosite
+طُفَيلِيٌّ تائِه	erratic parasite
+طُفَيلِيٌّ تَلِيْد	autochthonous parasite
+طُفَيلِيٌّ ثُنائِيُّ الثَّوِيّ	diheteroxenic parasite
+طُفَيلِيٌّ جِلْدِيّ (طُفَيلِيٌّ خارِجِيّ)	dermatozoon (ectoparasite)
+طُفَيلِيٌّ جَوَّانِيّ	endoparasite / entorganism (endoparasite) / intracellular parasite
+طُفَيلِيٌّ جَوفِيُّ التَّوَضُّع	celozoic parasite
+طُفَيلِيٌّ حَيَوانِيّ	animal parasite / zooparasite
+طُفَيلِيٌّ حَيَوانِيٌّ خارِجِيّ	epizoon [pl.epizoa]
+طُفَيلِيٌّ حَيَوَانِيٌّ مِعَوِيّ	enterozoon
+طفيلي خارجي	ectoparasite / ectozoon = ectoparasite / epizoon
+طُفَيلِيٌّ خارِجِيٌّ حَيَوانِيّ	ectozoic parasite (animal ectoparasite)
+طُفَيلِيٌّ خارِجِيٌّ نَباتِيّ	ectophytic parasite
+طُفَيلِيٌّ خارِجِيٌّ وَحيدُ الثَّوِيّ	stenotrophic parasite
+طُفَيلِيٌّ خَلَوِيُّ التَّوَضُّع ( طُفَيلِيُّ دَاخِلَ الخَلاَيا)	cytozoic parasite (intracellular parasite)
+طُفَيلِيٌّ دائِم	permanent parasite
+طفيلي داخلي	endobiotic / endoparasite / endosite / entozoon
+طُفَيلِيٌّ داخِلِيٌّ حَيَوانِيٌّ	entozoic parasite
+طُفَيلِيٌّ داخِلِيٌّ نَباتِيّ	endophytic parasite (plant endoparasite)
+طفيلي دماغي	encephalitozoon = encephalocytozoon
+طُفَيلِيٌّ دَمَوِيّ	hematobium / hematozoic parasite / hematozoon / hemosite (blood parasite)
+طُفَيلِيٌّ دَورِيّ	periodic parasite
+طُفَيلِيٌّ ذاتَوِيّ	autistic parasite
+طُفَيلِيٌّ سِقائِيّ	allantoic parasite
+طُفَيلِيٌّ عارِضّ	accidental parasite / incidental parasite (accidental parasite)
+طُفَيْلِيٌّ عَصَبِيّ	neuroparasite
+طُفَيلِيٌّ عِيانِيّ	macroparasite
+طُفَيلِيٌّ كاذِب	false parasite / pseudoparasite / spurious parasite (pseudoparasite)
+طُفَيلِيٌّ لانَوعِيُّ الثَّوِيّ	euroxenous parasite
+طُفَيلِيٌّ مُتَبايِنُ الأَثْوِياء	eurytrophic parasite
+طُفَيلِيٌّ مُتَغَايرُ الأَثْوِياء	heterogenetic parasite
+طُفَيلِيٌّ مُتَقَطِّع	intermittent parasite
+طُفَيلِيٌّ مُتَناوِبُ الثَّوِيّ	digenetic parasite
+طُفَيلِيٌّ مُجْبَر	obligatory parasite
+طُفَيلِيٌّ مِجْهَرِيّ	microparasite
+طُفَيلِيٌّ مُخَيَّر	facultative parasite
+طُفَيلِيٌّ مِسْخِيّ	teratoid parasite (teratoma)
+طُفَيلِيٌّ مُضَافٌ للمَرَض	nosoparasite
+طُفَيلِيٌّ مُطاعِم	commensal parasite (commensal)
+طفيلي معوي	enterosite / enterozoom
+طُفَيلِيٌّ مُوَقَّتّ	temporary parasite
+طُفَيلِيٌّ نَباتِيّ	phytoparasite / plant parasite / vegetable parasite
+طُفَيلِيٌّ نَباتِيٌّ بَرَّانِيّ	ectophyte
+طفيلي نباتي خارجي	ectophyte
+طفيلي نباتي سطحي	epiphyte
+طُفيلي نسيجي	histozoic
+طُفَيلِيٌّ نَوعِيّ	specific parasite
+طُفَيلِيٌّ نَوَوِيُّ	karyozoic parasite
+طُفَيلِيَّاتٌ بَرَّانِيَّة	ectozoa
+طُفَيلِيَّاتٌ حَيَوانِيَّةٌ خارِجِيَّة	epizoa [sing.epizoon]
+طفيليات داخلية	entozoa
+طفيلية جلدية	dermatozoonosis
+طقطقة	click / crepitation
+طقم أسنان	denture
+طَقْمَاق (راتين مقوٍ للباه ومدر للبول وملين)	tacamahac
+طِلاَء	vernix
+طِلاَءُ الفَم	collutory
+طِلاَءٌ صَقِيْل	glazer coating
+طلاءاني	epithelioid
+طلائي	epithelial
+طلائية - ظهارة	epithelium
+طُلاع	pollinosis (pollen allergy)
+طُلاع (أَرَجِيَّةٌ طَلْعِيَّة)	pollenosis (pollen allergy)
+طَلَبُ تَرْخِيص لِدَرَاسَة سَرِيرِيَّة لِدَوَاء جَدِيد	investigational new drug application(IND)
+طَلَبُ رُخْصَة التسْوِيق	application for marketing autorisation
+طَلَبُ رُخْصَة الدَّوَاء	New Drug Application(NDA)
+طَلْع	pollen
+طَلْعِيُّ المَنْشَأ	pollenogenic
+طَلْق	steatite (talc) / talc / talcum (talc)
+طَلْق ؛ آلاَمُ المَخاض	labor pains
+طَلْقٌ دافِعٌ (للجَنِيْن)	expulsive pains
+طَلْقٌ كاذِب	false labor / false pain / mimetic labor (false labor)
+طَلْقٌ مُوَسِّعٌ (للعُنُق)	dilating pains
+طَلَلِيّ	precuneal / precuneate / precunial
+طَلَوان	keratosis, linguae / leucoplakia / leucoplasia / leukokeratosis (leukoplakia) / leukoplakia / leukoplasia
+طَلَوانُ التَّدْخين	smoking leukoplakia
+طَلَوانُ الحَنْجَرَة	larynx leukoplakia
+طَلَوانُ الحَنَك	palatal leukoplakia
+طَلَوانُ الفَرْج	leukoplakia vulvae
+طَلَوانُ القَضيب	leukoplakia penis
+طَلَوانُ اللِّسان	tongue leukoplakia
+طَلَوانُ المَثانَة	leukoplakia vesicae
+طَلَوانٌ تَنَكُّسِيٌّ خَبيث	malignant degenerative leukoplakia
+طَلَوانٌ ثُؤْلوليّ	verrucous leukoplakia
+طَلَوانٌ حَشَفِيٌّ قُلْفِيّ ( طَلَوانُ القَضيب)	balanopreputial leukoplakia (leukoplakia penis)
+طَلَوانٌ شِدْقِيّ	leukoplakia buccalis
+طَلَوانٌ فَمَوِيّ	oral leukoplakia
+طَلَوانٌ لِسانِيّ	leukoplakia lingualis
+طَلَوانٌ مُبَقَّع	speckled leukoplakia
+طَلَوانُ مُخاطِيَّةِ الفَم	leukokeratosis mucosa oris
+طَلَوانٌ مُفْرِطُ التَّقَرُّن ( طلَوانٌ ثُؤْلولِيّ)	hyperkeratotic leukoplakia (verrucous leukoplakia)
+طَلْيٌ بالذَّهَب	gold plating
+طَلْيٌّ بالنيكل	nickelage
+طَليعَةُ الابْيِضاض	leukanemia (proleukemia)
+طَليعَةُ الإِسْترُوجين	proestrogen
+طَليعَةُ الإِسْتيراز	proesterase
+طَليعَةُ الأكسيليرين ( العامِلُ الخامِس)	proaccelerin (factor V)
+طَليعَةُ الإِنْزيم	preenzyme / proenzyme
+طَليعَةُ الانْسِلاَخ	proecdysis
+طَليعَةُ الأَنْسولين	proguanil
+طَليعَةُ الإِنْفَحَة	prorennin (prerennin)
+طَليعَةُ الإِنْفَحَة ( مُوَلِّدُ الإِنْفَحَة)	prochymosin (renninogen)
+طَليعَةُ الإيلاستين	tropoelastin
+طَليعَةُ الإِيلاَسين	preelacin
+طَليعَةُ البروتين	proprotein
+طَليعَةُ البروتينات	proteinogen
+طَليعَةُ البلاَزْمين	proplasmin (plasminogen)
+طَليعَةُ البِيبْسين	propepsin
+طَلِيْعَةُ التَّحْمِيْل	preload
+طَلِيْعَةُ الثُرُمْبُوبلاسْتِينِ البلازْمِيّ	plasma thromboplastin antecedent
+طَليعَةُ الجينِ الوَرَمِيّ	proto-oncogene
+طَليعَةُ الخَميرَة	proferment
+طَليعَةُ الدُّشْبُذ	procallus
+طَليعَةُ الدَّواء	pro-drug
+طَليعَةُ الذَّيلاَنِيَّة	procercoid
+طَليعَةُ الرِّينِين	big renin (prorenin) / prerennin (renninogen)
+طَليعَةُ السِّيكريتين	presecretin / prosecretin
+طَليعَةُ الشُّعور	preconscious
+طَليعَةُ الصَّانِعَةِ	proplastid
+طَليعَةُ الصِّبْغِيّ	prochromosome
+طَليعَةُ الطَّورِ التَّالِي (في الانْقِسامِ الخَلَوِيّ)	metacinesis (prometaphase) / metakinesis (prometaphase) / prometaphase
+طَليعَةُ العاثِيَة	prophage
+طَليعَةُ العاثِيَة [فَيرُوسات]	probacteriophage (prophage)
+طَليعَةُ العَاج	predentin
+طَليعَةُ الغاسْترين	progastrin
+طَليعَةُ الفِيتامين	previtamin (provitamin) / provitamin
+طليعة الفيتامين A ( كاروتين)	previtamin A (carotene)
+طَليعَةُ الفَيروس	provirus
+طَليعَةُ الكاليكرئين	prekallikrein
+طَليعَةُ الكَبِد	prehepaticus
+طَليعَةُ الكربوكسي ببتيداز	procarboxypeptidase
+طَليعَةُ الكلُورُوفيل	protochlorophyll
+طَليعَةُ الكُولاَجين	procollagen
+طَليعَةُ الكُونْفِيرْتين ( العامِلُ السَّابِع)	proconvertin (factor VII)
+طَليعَةُ المُرَيكِز	procentriole
+طَليعَةُ المُسْتَنْطِفَة ( خلِيَّةٌ نُطْفِيَّةٌ ثانَوِيَّة)	prespermatid (secondary spermatocyte)
+طَليعَةُ المُسَرْطِن	procarcinogen
+طَليعَةُ المِلاَط	precementum (cementoid)
+طَليعَةُ المُنَشِّط ( طلِيْعَةُ الكاليكريين)	proactivator (prekallikrein)
+طَليعَةُ المِنْطَقَة [مناعيات]	prezone (prozone) / prozone
+طَليعَةُ النَّواة	germ nucleus (pronucleus) / germinal nucleus (pronucleus) / pronucleus
+طَليعَةُ النَّواةِ المُؤَنَّثَة (في البويضة)	female pronucleus
+طَليعَةُ النَّواةِ المُذَكَّرَة (في النطفة)	male pronucleus
+طَليعَةُ الهُرْمُون	prehormone / prohormone (prehormone)
+طَلِيْعَةُ اليُورُوكيناز	prourokinase
+طَليعَةُ ثرومبوبلاستين البلازما (العامِلُ الحادي عَشَر)	plasma thromboplastin antecedent (factor XI)
+طَليعَةُ حالَّةِ الفِبْرين ( بلازمينوجين)	profibrinolysin (plasminogen)
+طَليعَةُ حَمْضِ اللاكْتيك	lactacidogen
+طَليعَةُ مُوَلِّدِ الإِنْزيم	prozymogen
+طَليعَةُ ناقِلَةُ الغلُوتاميناز	protransglutaminase
+طَلِيْعَةُ هُرْمون الدُّرَيقَات	proparathyroid hormone
+طَليعِيّ	precursory
+طَليقَةُ السِّياط [طفيليات]	Adinida
+طُمَأْنينَة	ataraxia / ataraxy
+طَمَث	menorrhea
+طَمْثُ القَرْحَة	helcomenia
+طمث أنفي	cephalomenia
+طَمْثٌ بَدِيْل	vicarious menstruation
+طمث خبيء	cryptomenorrhoea
+طَمْثٌ رَأْسِيّ	cephalomenia
+طَمْثٌ فَمَوِيّ	stomenorrhagia
+طَمْثٌ فَمَوِيّ (نزف الفم أثناء الحيض)	stomatomenia
+طمث مُرْدِن	bromomenorrhea
+طَمْثٌ نَتِن	bromomenorrhea
+طمث نزفي غامر	epimenorrhagia
+طمث، طمت	oestrus
+طمر - غرس	embedding
+طَمْسٌ قِشْرِيّ ( انْعِدَامُ لَوْنِ قِشْرَةِ الدِّماغ)	cortical obliteration (cortical achromia)
+طَمْطَمَةٌ طِفْلِيَّة	lallation
+طُنّ	tonne
+طَنَف	promontory
+طنف (ال...) العَجُزِِيّ	sacral promontory
+طَنَف [تشريح] (الطَّنَف:الحَيْدُ من الجبل و مانتأ منه)	promontorium NA
+طَنَفُ الأُذُنِ الوُسْطَى (طَنَفُ الجَوفِ الطَّبْلِيّ)	promontory of middle ear (promontorium cavitatis tympanicae)
+طَنَفُ الجَوفِ الطَّبْلِيّ	promontorium cavitatis tympanicae NA
+طَنَفُ الحَوض (طَنَفُ عَظْمِ العَجُز)	pelvic promontory (promontorium ossis sacri)
+طَنَفُ العَجُز	sacral promontory / sacropromontory
+طَنَفُ عَظْمِ العَجُز	promontorium ossis sacri NA / promontory of sacrum
+طَنين	tinnitus
+طَنينٌ أُذُنِيّ	tinnitus aurium
+طَنينُ الأُذُن	sonitus (tinnitus aurium)
+طَنينٌ اهْتِزازِيّ	vibratory tinnitus
+طَنينٌ شَخْصَانِيّ	subjective tinnitus
+طَنينٌ عصبيّ (المنشأ)	nervous tinnitus
+طَنينٌ غَيْرُ اهْتِزازِيّ	nonvibratory tinnitus
+طَنينٌ قَلْقَلِيّ	clicking tinnitus
+طَنينُ لوديه	Leudet's tinnitus
+طَنِين مَغْنَاطِيسِيّ	magnetic resonance
+طَنينٌ موضُوعِيّ	objective tinnitus
+طِهائِيّ	opsonic
+طَهارة، نَقَاء	asepsis
+طُهاوَةُ بَولِ الحامِل	kiestein (kyestein)
+طُهاوَةُ بَولِ الحَوامِل	kyestein (kiestein)
+طِهايَة	opsonification / opsonization
+طهر	asepsis / disinfect
+طَوارِئ	emergencies
+طور	phase
+طَور (ال...) الإفرَازيّ	secretory phase
+طَّوْر (ال...) الأَوَّل	prophase
+طَّور (ال...) التَالي	metaphase
+طَوْرُ الاخْتِزَال ( طَورُ الانْتِصاف)	reduction phase (meiotic phase)
+طَورُ الاِسْتِقْرَار (في نمو الجراثيم)	stationary phase
+طَورُ الانْتِصاف	meiotic phase
+طَورُ الانْحِطاط	phase of decline
+طَورُ التَّأَرْجُح (في دورة المشي)	swing phase
+طَورُ التَّثَخُّن (في الانْتصاف)	pachynema (pachytene) / pachytene
+طَورُ التَّحَرُّكِ الخِلاَلِيّ	diakinesis
+طَورُ التَّحْريض	inductive phase
+طَورُ التَّشابُك (في الانتصاف)	synaptic phase (synaptene)
+طَورُ التَّشَبُّك (في الخلايا الجنسية قبل البلوغ)	dictyotene
+طَورُ التَّضَعُّف	diplotene
+طَورُ التَّقَارُن (في الجينات)	coupling phase
+طَورُ التَّلَكُّؤ (في نمو الجراثيم)	lag phase
+طَوْرُ التَّنامِي (في الشَّعْرَة)	anagen
+طَورُ الخَفَاءِ	latency phase (latent phase) / latent phase
+طَورُ الخُيوطِ النَّحيلَة (من الانقسام الخلوي)	leptonema
+طَورُ الرَّاحَة ( الطّوْرُ البَيْنِيّ)	resting phase (interphase)
+طَورُ الصُّعُود (في الانْقِسامِ الخُلَوِيّ)	anaphase
+طور الفردانية	haplophase
+طَوْر الكُمون	lag phase
+طَوْرُ المَصِّ الفَمَوِيّ	oral sucking phase
+طَورُ المُقْتَبَل (في انقسام الخلايا)	antephase
+طَورُ الوَشيعِ المُزْدَوَج (في الانقسام الخلوي)	dispira (dispireme) / dispireme
+طَوْرُ الوِقْفَة (في دورة المشي)	stance phase
+طَور انفِصَالي، طور الصُعود	anaphase
+طَورُ تَراجُعِ القَذْف (في الانقباض القلبي)	reduced ejection phase
+طَوْرٌ سَلْبِيٌّ ؛ صَفْحَةٌ سَلْبِيَّة	negative phase
+طَورٌ صُعودِيٌّ مُرْتَبِك	flabby anaphase
+طَوْر غَازِيّ	gaseous phase
+طَورٌ لُوغارِتْمِيّ	log phase / logarithmic phase
+طَوْر مائيّ	aqueous phase
+طَوْر مُتَبَعْثِر	dispersed phase
+طَوْر مُتَحَرِّك	mobile phase (in chromatography)
+طَورٌ مَرْحَلِيّ (في المَفْصِليات)	instar
+طَورٌ نَشيط	active phase
+طَوق	collar
+طوق (في طب الأسنان)	barrel
+طَوقُ الأَمْرَاضِ المَنْقُولَةِ جِنسِيَّاً ( وَضَحٌ زُهْرِيّ)	venereal collar (syphilitic leukoderma)
+طَوقُ الدَّعِيْمَة	pier -band
+طَوقُ الزُّهَرَة ( وَضَحٌ زُهْرِيّ)	collar of Venus (syphilitic leukoderma)
+طَوقُ اللُّؤْلُؤ ( وَضَحٌ زُهْرِيّ)	collar of pearls (syphilitic leukoderma)
+طَوقُ بيت (حلقات متوسعة حول الحطاطات في الزُّهْرِي الثانوي)	Biett's collar
+طَوقُ جونسون [أسنان]	Johnson's band
+طَوْقُ خَارِجِيّ	outer collar
+طَوقُ ستُوكْز (تَوَرُّمٌ وذمي في العنق بسبب مرض الأجوف العلوي)	collar of Stokes
+طَوقُ سِمْحاقِ العَظْم	periosteal bone collar
+طَوقٌ عَديمُ الالْتِحام	seamless band
+طَوقُ كازال (مساحة من الاحمرار حول الرقبة في البلاغرا)	Casal's collar
+طَوقٌ كامِلُ الإِحاطَة [أسنان]	all-closing band
+طَوقُ ميلُووكِي (لِتَقْويمِ الأَسْنان)	Milwaukee brace
+طَوقٌ نُحاسِيّ	copper band
+طَوْق، قِلادة	collar
+طَوْقِيّ	monilial
+طَوْقِيُّ الشَّكْل	monilated (moniliform)
+طُّوْلُ (ال...) القُعودِيُّ القِمِّيّ	sitting vertex height
+طُّوْلُ (ال...) الوُقوفِيّ، قَدٌّ	standing height; size
+طول البصر الاستجمي	astigmatism, hypermetropic
+طول البصر المركب الاستجمي	astigmatism, compound hypermetropic / compound yhpermetropic astigmatism
+طولُ التَّاج	crown length
+طولُ الجَذْر	root length
+طولُ الجِذْع	stem length
+طول الجمجمة	dolichocranium
+طولُ الرَّابِط	bond distance
+طُول الرابِطَة	bond length
+طول الرأس	dolichocephaly = dolichocephalia
+طول السيني	dolichosigmoid
+طولُ القَدَم	foot length
+طولُ القَوس (السِنِّيَّة)	arch length
+طول القولون	dolichocolon
+طول المعدة (انديال المعدة)	dolichogastry
+طولُ المَوجَة	wave length / wavelength
+طولُ المَوجَةِ الأَدْنَى	minimum wavelength
+طولُ المَوجَةِ الفَعَّال	effective wavelength
+طولُ المَوجَةِ المُكافِىء	equivalent wavelength
+طولُ النَّبْض	pulse length
+طول النظر	hypermetropia / hypermetropia = hyperopia / hyperopia = hypermetropia / long sight; hypermetropia
+طولُ قَناةِ الجَذْر	root canal length
+طولاَنِيّ	longitudinal / longitudinalis / longitudinalis NA
+طولوسافرانين (صبغ)	tolusafranine
+طولويدين	toluidine
+طولويل [كيمياء]	toluyl
+طولويلين [كيمياء]	toluylene
+طولوين (مذيب عضوي)	toluene
+طُولى (ال...)	longissimus
+طوليل (مصاوغ للبنزيل)	tolyl
+طُوَيق	collarette
+طُوَيق (داعِم) [أسنان]	ferrule
+طُوَيق (طَوقٌ حَولَ عُنُقِ النطفة)	manchette
+طُوَيقُ القُزَحِيَّة	iris collarette
+طُوَيقُ بِيت	collarette of Biet
+طَويل	long / long; longus
+طويل - طول	dolicho
+طَويلُ الأَنْف	dolichorrhine
+طَويلُ البِنْيَة	dolichomorphic / longilineal (dolichomorphic) / longitypical (longilineal)
+طَويلُ التَّشَعُّع	longiradiate
+طويل الجمجمة	dolichocranial
+طَويلُ الحَنَك	dolichuranic
+طَويلُ الحَوض	dolichopellic / dolichopelvic
+طَويلُ الرَّأْس	dolichocephalic / dolichocephalic = dolichocephalous / dolichocephalous
+طَويلُ الرَّأْسِ المُسَطَّح	dolichoplatycephalus
+طَويلُ الرَّقَبَة	dolichoderus
+طَويلُ السَّاعِد	dolichokerkic
+طَويلُ السَّاق	dolichoknemic
+طَويلُ العَجُز	dolichohieric
+طويل العنق	dolichoderus
+طَويلُ القِحْف	dolichocranial
+طَويلُ القَدَم	longipedate
+طَويلُ المَريء	dolichomegaesophagus
+طَويلُ المَعِدَة	dolichogastric
+طويل النظر	hypermetrope = hyperope / hyperope = hypermetrope
+طَويلُ الوَجْه	dolichofacial / dolichoprosopic (dolichofacial)
+طَويلُ اليَد	longimanous
+طُوَيَّة (طيَّّة نسيجية)	reef
+طي الأعور	caecoplication
+طي الأمعاء	enteroptychia = enteroptychy
+طي الخلية	entocyte
+طي القاع	fundoplication
+طَيَّاتُ الصَّفَن	scrotal folds
+طَيَّاتُ القَوْلُونِ السِّينِيَّة	sigmoid folds of colon
+طِيَّاتُ القَوْلُونِ الهِلاَلِيَّة	semilunar folds of colon
+طَيَّاتُ المَرارَة	gallbladder folds
+طَيَّاتُ المُسْتَقِيْم (ثَنْياتُ المُسْتَقيمِ المُسْتَعْرِضَة)	rectal folds (plicae transversales recti)
+طَيَّاتُ المُسْتَقيمِ الأُفُقِيَّة	horizontal folds of rectum
+طَيَّاتُ المِعَى الغَليظ	folds of large intestine
+طَيَّاتُ المُلْتَحِمَة	conjunctival folds
+طَيات حَالِبية	ureteric folds
+طَيَّاتُ دَنكان (طَيَّاتُ الصِّفاقِ المُغَطِّي لِلرَّحِم)	Duncan's folds
+طَيَّاتُ رند فلايش (في التامور)	Rindfleisch's folds
+طَيَّاتُ كولراوش (ثَنْياتُ المُسْتَقيمِ المُسْتَعْرِضَة)	Kohlrausch's folds (plicae transversales recti)
+طَيَّاتُ كيركرينغ للمِعَى الدَّقيق (الثَّنْياتُ الدَّائِرِيَّة)	Kerckring's folds of small intestine (plicae circulares)
+طَيَّاتُ مُخاطِيَّةِ المُسْتَقيم	mucous folds of rectum
+طَيَّار	volatile
+طَيَّار، مُتَطَاير	volatile
+طَيَّتا راتْكَه (في الجنين)	Rathke's folds
+طير كاسر، طير جارح	raptor
+طيرٌ مَخْصِيّ	capon
+طَيرِيّ	avian / gallid
+طيع، لين	malleable
+طَيْف	spectrum
+طَيْف [ج:أَطْيَافٌ]	spectrum
+طَيفُ الأَشِعَّةِ السِّينِيَّة	x-ray spectrum
+طَيفُ الإِصْدار	emission spectrum
+طَيفُ الامْتِصاص	absorption spectrum
+طَيفُ الامْتِصاصِ الذَّرِّيّ	atomic absorption spectrum
+طَيفُ الاِنْعِراج	diffraction spectrum
+طَيفُ السُّوْر	fortification spectrum
+طَيفُ الفِعْل	action spectrum
+طَيفُ المُضادِّ الحَيَوِيّ	antibiotic spectrum
+طَيفٌ امْتِصاصِيّ	absorption spectrum
+طَيفٌ حَرارِيّ	thermal spectrum
+طَيفٌ ذِيْفَانِيّ	toxin spectrum
+طَيفٌ عَينِيّ ( صورَةٌ تِلْويَّة)	ocular spectrum (afterimage)
+طَيفٌ غازِيّ	gaseous spectrum
+طَيفٌ كهرطيسيّ (كهرممغناطيسيّ)	electromagnetic spectrum
+طَيفٌ كيميائيّ	chemical spectrum
+طَيفٌ لامَرْئِيّ	invisible spectrum
+طَيفٌ لَونِيّ	chromatic spectrum / color spectrum
+طَيفٌ مَرْئِيّ	visible spectrum
+طَيفٌ مُسْتمِرّ	continuous spectrum
+طَيفٌ مَوْشُوْرِيّ	prismatic spectrum
+طَيْفِيّ	spectral
+طيقانُ بيلروث ( التَّرابيقُ الطِّحالِيَّة)	Billroth's strand's (trabeculae lienis)
+طين	mud
+طينِيّ	uliginous
+طَيَّة	fold
+طَيَّة (ال...) البُوقِية البُُلعُومِيّة	salpingopharyngeal fold
+طيّة (ال...) التَنَاسُلية	genital fold
+طَيّة (ال...) اللِسَانِية الفَلْكَويّة	glosso-epiglottic fold
+طيْة (ال...) المَعِدِية البنْكْريَاسِيّة	gastropancreatic fold
+طَيَّةُ الرَأْس (في الجنين)	head fold
+طَيَّةُ الظُّفُر	nail fold
+طَيَّةُ الكُلْوَةِ المُوَسَّطَة (في الجنين)	mesonephric fold
+طَيَّةُ المُرَيطاء (الثَّنْيَةُ النَّاصِفَةُ لِلسُّرَّة)	urachus fold (plica umbilicalis mediana)
+طيّة بين الحَالِبين	interureteric fold
+طَيَّةُ تريفز (الثَّنْيَةُ اللَّفائِفِيَّةُ الأَعْوَرِيَّة)	Treves' fold (plica ileocecalis)
+طَيَّة جَنَاحِيّة	alar fold
+طَيَّةُ جوفارا (الثَّنْيَةُ الصِّفاقِيَّةُ الجِدارِيَّة)	Juvara's fold (parietoperitoneal fold)
+طَيَّةُ جونيسكو (الثَّنْيَةُ الصِّفاقِيَّةُ الجِدارِيَّة)	Jonnesco's fold (parietoperitoneal fold)
+طَيَّةٌ حَلَزُوْنِيَّة (ثَنْيَةٌ حَلُزُوْنِيَّة) (في القناة المرارية)	spiral fold (plica spiralis)
+طَيَّةٌ زَليلِيَّة	synovial fold
+طَيَّةُ شولتز (في الجنين)	Schultze's fold
+طيّة صَائِمِيّة	jejunal fold
+طيّة عَصَبِيّة	neural fold
+طَيَّةُ عُلاية الموق (الثَّنْيَةُ الجَفْنِيَّةُ الأَنْفِيَّة)	epicanthal fold (plica palpebronasalis NA) / epicanthine fold (plica palpebronasalis NA)
+طَيَّةُ غيران (فِي الإِحْليل)	Guerin's fold
+طَيَّةُ مارشال (ثَنْيَةُ الوَريدِ الأَجْوَفِ الأَيسَر) (في الجنين)	Marshall's fold (plica venae cavae sinistrae)
+طَيَّةُ مارشال الأَثارِيَّة (ثَنْيَةُ الوَريدِ الأَجْوَفِ الأَيسَر)	vestigial fold of Marshall (plica venae cavae sinistrae)
+طَيَّةٌ مَصْلِيَّة	serosal fold / serous fold
+طَيَّةُ نيلاتون (في المستقيم)	Nelaton's fold
+طَيَّةُ هاسنر (الثَّنْيَةُ الدَّمْعِيَّة)	Hasner's fold (plica lacrimalis)
+طَيَّةُ هنسينغ (? رِباطُ هنسينغ) (بين القولون وجدار البطن)	Hensing's fold
+طَيَّةُ هيستر (الثَّنْيَةُ الحَلَزُوْنِيَّة) (في القناة المرارية)	Heister's fold (plica spiralis)
+طية، ثَنْية	fold

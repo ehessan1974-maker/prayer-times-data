@@ -1,0 +1,35 @@
+لا مركزية	decentralization
+لا ورقي	Paperless
+لائحة	Regulations
+لائحة إدارية	Administrative Regulations
+لائحة العامة لحماية البيانات	(GDPR) / GDPR
+لائحة تنفيذية	Implementing Regulations
+لائحة داخلية	Internal Regulations
+لائحة فنية	Technical Regulations
+لأجل طويل	long-dated
+لأجل قصير	short-dated
+لأجل متوسط	medium-term
+لإحصائيات	Statistics
+لاغية	Voidable
+لجنة	Committee / committee
+لجنة التأديب	Disciplinary Committee
+لجنة برلمانية	parliamentary committee
+لجنة تحكيم	arbitration committee
+لجنة توجيهية للمشروع	Project Steering Committee
+لجنة شبه قضائية	Quasi-judicial Committee
+لجنة صياغة الدستور، لجنة إعداد الدستور	constitutional drafting commission
+لجنة فرعية	subcommittee
+لجنة مشتركة	joint committee; joint commission
+لجنة من خارج البرلمان	extraparlementary committee
+لجنة وزارية	Ministerial Committee
+لجوء	asylum
+لجوء دبلوماسيّ	diplomatic asylum
+لجوء سياسيّ	political asylum
+لغة الترميز الموسعة	Extensible Markup Language (XML)
+لغة بسيطة	Plain Language
+لقاء الخدمة	Service Encounter
+لوائح العقود	Contract Regulations
+لوجستيات استجابة الخدمة	Service Response Logistics
+لوحة المعلومات	Dashboard
+لوم	Reprimand
+لوم، توبيخ	blame

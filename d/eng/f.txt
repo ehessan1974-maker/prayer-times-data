@@ -1,0 +1,4441 @@
+F code	كود من النوع (F)
+f factor	عامل f
+F region; F layer (deprecated in this sense)	منطقة F
+F-code	شِفرة إف
+F-display	شاشة إف
+F-layer	طبقة إف
+F/B	علبة المصاهر
+F1 layer	طبقة F1
+F2 layer	طبقة F2
+FAA	إدارة الطيران الاتحادية
+fabric	قماش / مرونة / نسيج
+fabric / textile	قماش
+fabric / textiles	قماش
+fabric filter	فلتر نسيجيّ / مُرشِّح قماشي
+fabric flammability test	فحص قابلية الثوب للاحتراق
+fabric lapping	تركيب نسيج القماش
+fabric of rocks	نسيج صخري
+fabric of soil	نسيج التربة
+fabric washed	أقمشة مغسولة
+fabrication	تصنيع
+face	جانب / واجهة / وجه
+face (of letter)	سطح طباعي
+face alignment	مُحاذاة الوجه
+face luminaire	جهاز إضاءة منجم للمقدمة
+face mark	علامة الوجه
+face mould	قالب واجهي
+face of the earth	وجه الأرض
+face of weld	جبهة اللحام، وجه اللحام
+face spanner [UK] / face wrench [US]	مفتاح جَبهيّ
+face-nailing	تسمير على الوجه / تسمير قائم
+face-plate	لوحة أمامية
+face-wall	حائط واجهة
+faceblind firing	إطلاق معصوب الوجه
+facelift	عناية بالموديل / تعديل شكلي
+faceplate	صفيحة الاستناد / صفيحة الوجه / صينية المخرطة
+facet	وجْه / سُطَيح
+facial	سطحي
+facies	سحنة / سِحنة
+facilitation (in electrobiology)	زيادة طفيفة فى الإثارة ( فى الكهروحيوية)
+facilitator	ميسر
+facility	تسهيل / مرفق / وسيلة
+facility component; plant component; system component	مُكوّن في مُنشأة
+Facility Management	نظام إدارة المرافق
+facility performance category	فئة أداء التسهيل
+facility request signal	إشارة طلب تسهيلات
+Facility Usage Agreement	اِتِّفاقِيَّةُ اِسْتِخْدامِ المِرْفَقِ
+facility-related acceptance	قبول مُنشأة معينة
+facing	تكسية الأسطح
+facing / membrane, (outer) facing	تكسية بغشاء خارجي
+facing bricks	آجر واجهي
+facing layer	طَبَقة الطِّلَاء
+facing point railways	نقطة تبديل السكك الحديدية
+facing points	نقاط متقابلة / مفاصل مواجهة لاتجاه الحركة
+Facing Turnouts	إِقْبالٌ مُواجِهٌ
+faconné	أطلس
+faconné rib	قُماش مُضلَّع مُشكّل
+facsimile	إرسال الصور لاسلكياً / صورة مطابقة
+facsimile; telecopy	بريد مصور؛ نسخة طبق الاصل ترسل عن بعد / ناسوخ ،بريد مصوّر
+fact-finding	تقصي الحقائق
+factor	عامل
+factor 4	معامل 4
+factor demand	عامل الطلب
+factor income	Revenu des facteurs
+factor of adhesion; coefficient of adhesion	عامل التلاحم
+factor of cooperation	عامل المشاركة
+factor of influence	عامل التأثير
+factor of loading	عامل الحمولة
+factor of proportionality	عامل التناسب
+factor of safety	عامل السلامة، عامل الأمان / عامل أمان / عامِل الأمان / عامل الأمان / معامل الأمان
+factor, limiting	عامِل مُحَدِّد
+factored field lengths	أطوال المدرج المُعامَلة
+factored load	حِمْل مصعَّد
+factorial	عاملي
+factoring	استعمال المُعامِل
+factors of growth	عوامل مساعدة على النمو
+factors of production	عناصر الإنتاج
+factory (industrial) data collection	رصد وتسجيل بيانات التشغيل
+Factory Acceptance Test	اِخْتِبارُ قَبُولِ المَصْنَعِ / اختبار القبول في المصنع
+factory connections, pl	وصلات مركبة فى المصنع
+Factory fabricated air handling	وحدة مناولة هواء مُصنعة مقدماً (جاهزة للتركيب)
+factory farming	زراعة صناعية
+Factory Implementation Protocol	بروتوكول التطبيق التصنيعي (FIP)
+Factory Instrumentation Protocol	بروتوكول قِياسِ المَصْنَعِ
+factory loaded	مشحون بالمصنع
+factory paintwork	طلاء المصنع
+factory ship	سفينة مَصْنَع
+Factory ZERO	مصنع صفر
+factory-built assembly (of switchgear and controlgear) ; FBA (abbreviation)	تجميع فى المصنع
+factory-fabricated trace heater	تركيب المصنع, تسخين بالتتبع
+facultative bacteria	بكتيريا متكيفة
+facultative lagoon	بركة متكيفة
+fade	اضمحلال / خُبُو
+fade-out	خُبُو شديد
+fade-out; black-out	تلاشي - إظلام
+FADEC	FADEC
+faded	باهِت / مضمحل
+Fadhili Plant Cogeneration Company (FPCC)	شركة محطة الفاضلي لتوليد الطاقة المزدوج
+fading	خُبُو دوري
+fading (brake fade)	الخفوت (الخفوت الفرملي)
+fading area	منطقة تلاشي (لمرسل بثّ صوتي)
+fading depth	عمق الإضمحلال
+fading duration; fading time	فترة الإضمحلال
+fading rate; fading frequency	معدل الإضمحلال
+fading test	اختيار الخفوت
+fading,	اضمحلال, / تلاشي الاشارة,
+Fadomat skirtmarker	تحديد التنورة
+faecal lifting plant / excrement lifting installation	محطة رفع البِراز
+faecal sludge / night soil / cesspool / septic tank sludge	حمأة محطات المعالجة
+faecal streptococcus	براز عقدي
+faece / faecal matter / night soil	بِراز
+faeces (pl.)	بِراز
+faeces (pl.) / faecal matter / excrement	غائط
+Fagan inspection	فحص فاجان,
+Fahrenheit	فهرنهايت
+fahrenheit degree	درجة فرنهاتية
+fahrenheit thermometer	مقياس الحرارة الفرنهاتي
+Fahrenheit; F	فارنهايت
+faience	قاشاني، صيني
+fail link	وصلة انهيار
+fail operational	استعداد تشغيل الطوارئ / استعداد التشغيل عند التعطّل (Fail Operational)
+fail save	الحماية عند التعطّل (Fail Save) / حماية الطوارئ
+Fail Save Technique	تقنية تأمين النظام ضد الاعطال
+fail silent	إيقاف الطوارئ / الإيقاف عند التعطّل (Fail Silent)
+fail-active	عطل إيجابي
+fail-operational	عاطلعامل
+fail-passive	عطل سلبي
+fail-safe	انهيار مأمون / توقف تلقائي عند الخطر
+Fail-Safe Mode	الوضع الآمن من الفشل
+fail-safe principle	مبدأ الفشل الآمِن
+fail-safe, adj	انهيار أمن, / عطل أمن
+fail-safe, intrinsically safe	آمن ذاتياً
+fail-soft	ضعف الانهيار
+fail-soft, adj	انهيار سلس,
+failing load	حمل الانهيار
+faille	قماش فاي
+failure	انهيار / اخفاق / الإخفاق / تصدُّع
+failure breakdown outage	عُطل
+failure cause	سبب الفشل
+failure condition	حالة الانهيار
+failure criterion	معيار الفشل
+failure disclosing time	وقت كَشف الفَشَل
+failure effect	تأثير الفشل
+failure fraction	نسبة الإخفاق
+failure load	حمل الإنهيار
+failure mechanism	آلية الفشل
+failure mode	حالة العطل
+Failure Mode and Effects Analysis	تَحْلِيلُ أَنْمَاطِ الفَشَلِ والتَأثِيرَاتِ
+Failure Mode and Effects Analysis (FMEA)	تحليل أوضاع الفشل
+Failure Mode Effects Analysis	تحليل نمط وآثار الإخفاق
+Failure Mode, Effects, and Criticality Analysis	تَحْلِيلُ أَنْمَاطِ الفَشَلِ والتَأثِيرَاتِ وَالأهَمِيَّة
+failure mode; DEPRECATED: fault mode	نموذج الفشل؛ سابقاً : نموذج العطل
+Failure of Meter while in Service	عطل العداد أثناء الخدمة
+failure rate	معدل الفشل / معدل حدوث العطل
+failure reporting, analysis and corrective action system; FRACAS	منظومة تحديد العطل وتحليله وإصلاحه
+failure sequence	تتابع الفشل
+failure to operate of protection; failure to trip (US)	تشغيل الحماية؛ إخفاق الفصل
+failure,	فشل, / إخفاق, ؛ عطل / عطل,
+fair copy	مخطوط جيد
+fair labour association (fla )	جمعية العمل المنصف
+fair over	تغطية انسيابية
+fair price	سعر عادل
+fair trade	التجارة العادلة
+fair trade certified product; fairtrade certified product	منتج تجارة عادلة مصدق
+fair wage	أجر عادل
+fair way (fairway)	ممر ملاحي
+fairing	حلقة ضبط / سطح انسيابي / مَشيق الشكل
+fairing wire	سلك الشكل الانسيابي
+fairlead	دليل إمرار
+fairness principle	مبدأ العدالة
+fairtrade certification; fair trade certification	منح شهادة التجارة العادلة
+fairtrade minimum price; fair trade minimum price	السعر الأدنى في التجارة العادلة
+fairway buoy	عوامة الممر الملاحي
+faker	طائرة تمويه
+falaise (cliff)	جرف خفيض
+falcon's eye stone	حجر عين الصقر
+fall	انخفاض / إسقاط / سقوط
+fall detector	جهازكشف السقوط
+fall of pressure	انخفاض الضغط الجوي
+fall of temperature	انخفاض درجة الحرارة
+fall off on a wing	سقوط على الجناح
+fall pipie	أنبوب ماء المطر
+fall plate pattern	نموذج لوحي
+fall time	زمن الانحدار / زمن الهبوط
+fall time (measuring arrangement)	زمن الانحدار لعدة القياس
+fall time,	زمن الإنحدار,
+fall velocity / terminal velocity / settling velocity	سرعة الترسب
+fall wind	رياح تنزل منحدرا
+fall-line	خط الشلالات
+fall-out	تساقط إشعاعي
+fall-out radioactive	غبار متساقط مشع
+fall; drop	مَسقَط
+fallaway section	جزء ساقط
+fallback	تراجع / تقهقر / رجيع
+fallback area	منطقة التراجع
+fallback programme	برنامج احتياطي
+fallen wool	صوف نافق
+falling bodies	أجسام ساقطة
+falling body viscometer	مقياس لزوجة بطريقة الجسم الساقط
+falling crest weir; falling shutter weir	هَدّار بمصراع هابط
+falling film evaporator	جهاز تبخير بغشاء نازل
+falling head permeameter	مقياس نفاذية التربة
+falling leaf	ورقة ساقطة
+fallout	السَّقْط / الغبار المتساقط / نتيجة
+fallout contours	خطوط السَّقْط
+fallout pattern	توزيع السَّقْط
+fallout prediction	التنبؤ بالسَّقْط
+fallout safe height	ارتفاع آمن من السَّقْط
+fallout wind plot	مخطط الرياح السَّقْطية
+fallow	أرض مستحالة
+fallowing	إراحة
+falls	انهيار
+false bedding	تطابق زائف للصخور
+false ceiling	سقف كاذب
+false cirrus	طَخاء كاذب
+false cone of silence	مخروط السكون الزائف
+false firing	إشعال زائف
+false glidepath	ممر الانحدار الزائف
+false heat	حرارة زائفة
+false lift	رفع زائف
+false neppy yarn / false nep yarn	خيط مزرر زائف
+false nosing	مقدمة زائفة
+false ogive	انحناء قوسي مزيف
+false ribs	ضلوع زائفة
+false spar	عضد زائف
+false twist yarn	خيوط مضخمة بالبرم الزائف
+false window	نافذة كاذبة / نافذة وهمية
+false-colour film	فيلم زائف الألوان
+falsification	تحريف
+famatinite	فامايتنايت
+familiarization	تعويد
+family	عائلة
+family forest (also small forest) (fsc)	غابة الأسرة (أيضا غابة صغيرة) (مجلس رعاية الغابات)
+family of characteristics	عائلة مميزات
+family of characteristics, characteristic curve family; characteristics	عائلة مميّزات
+family,	عائلة وحدات إضاءة,
+famine	مجاعة
+famished	أي تعليمات
+fan	مروحة
+fan arrangement	ماسورة المروحة
+fan blade adjustment	خطوة المروحة
+fan cooling tower	برج تبريد بمروحة
+fan deck	غطاء المروحة
+fan duct	أسطوانة المروحة
+fan dynamic pressure	ضغط سُرعة المروحة
+fan engine	محرك مروحي
+fan eXit case	غطاء مخرج المروحة
+fan folds	طيات مروحية
+fan for coolant	مروحة سائل التبريد
+Fan heater	سخان مع مروحة
+fan heating installation	تجهيزات تدفئة مروحية
+fan housing	حاضنة المروحة
+fan jet	نفّاثة مروحية
+fan lift	رفع مروحي
+fan mapping	مسح مروحي
+fan marker	مُحدِّد مروحي
+fan pleat	ثنية متعددة
+fan power	قدرة المروحة
+fan ramjet	محرك نفاث ضغاطي مروحي
+fan set	مجموعة مروحة
+fan shroud	درع المروحة
+Fan stack height	ارتفاع ماسورة المروحة
+fan static pressure	ضغط المروحة الساكن
+fan straightener	مُسوِّي المروحة / مُعدِّل المروحة
+fan switch (F/switch)	مفتاح المروحة (F/Switch)
+fan total pressure	ضغط المروحة الإجمالي
+fan turbine	عنَفَة مِرْوَحِية
+fan turbine governor	مُنَظّم العنفة المروحية
+fan-beam antenna	هوائي ذو حزمة مروحية
+Fan-coil unit (FCU)	وحدة الملف المروحية
+fan-shaped	مروحيّ الشكل
+fan-vault	عقد مروحي
+fancies	أقمصة خيالية
+fancy	أقمشة مزخرفة
+fancy cord	حبال مزخرفة
+fancy denim	دنيم مزخرف
+fancy mesh tulle	تول مزخرف
+fancy pattern	نموذج تخييلي
+fancy yarn	خيط مبروم للزركشة
+fanfare	نفير
+fanlight	نافذة مروحية
+fanned-beam antenna	هوائي الحزمة المروحية
+fanning beam	حزمة مروحية
+fantasy fashion	طراز ايحائية
+fao model scheme on port state measures	خطة نموذجية لمنظمة الأغذية والزراعة بشأن تدابير دولة الميناء
+far field	مجال بعيد
+far field region	منطقة مجال بعيد
+far point	نقطة المدى البعيدة للعين
+far sound field	مجال صوتي بعيد
+far-end crosstalk	لغط الطرف البعيد
+far-end crosstalk attenuation	توهين لغط الطرف البعيد
+far-field boom	فرقعة في الحقل البعيد
+far-field diffraction pattern; Fraunhofer diffraction pattern	مخطط الانحراف للحقل البعيد نموذج انحراف "فرانهوفر"
+far-field radiation pattern; far-field pattern	نموذج الإشعاع للحقل البعيد نموذج مجال بعيد
+far-field region	منطقة المجال البعيد
+far-side platform	رصيف خارجي
+farad	فاراد / فاراد؛ وحدة قياس سعة المكثف
+faradaic current	تيار فارداى
+Faraday cage	قفص فارادي
+Faraday constant	ثابت فاراداى
+Faraday effect (for radio waves)	تأثير فاراداي (للموجات اللاسلكية)
+Faraday effect; Faraday rotation	تأثير (فاراداى) / تأثير جيرومغناطيسى / ظاهرة فاراداي
+Faraday's law	قانون فارادي
+Faraday’s Law	قانون فاراداي
+fare	تعريفة النقل
+Fare and freight rail transport revenue	إِيراداتُ السَّفَرِ وَنَقْلُ البَضائِعِ بِالخُطُوْط الحَدِيدِيَّةِ
+fare box recovery ratio	نسبة الاستعادة لتعريفة النقل
+fare box revenue	إيرادات تعريفة النقل العمومي
+fare compensations	تعويضات تكاليف السفر
+fare dilution	تخفيف الأسعار
+fare elasticity	مرونة تعريفة النقل
+Fare Gate	بوابة التذاكر / التعرفة
+fare revenues	عائدات تكاليف السفر
+fare scheme, fare integration	مخطط تكاليف السفر
+fare structure	بنية تعريفة النقل / هيكل الأسعار
+farm	مزرعة
+farm boss	رئيس عمال في حقل ( في مزرعة)
+farm building; agricultural building	مَبْنى التشغيل
+farm delivery efficiency / farm irrigation efficiency	كِفاية ريّ المزرعة
+farm equipment	معدات زراعية
+farm gate price; farm- gate price	سعر بوابة المزرعة
+farm holding	مزرعة
+farm land	أرض زراعية
+farm sprinkler method	منظومة الري بالرش
+farm tariff	تعرفة زراعية
+farm turnout	مَصْرِف المزرعة
+farm-gate operation	عمليات بوابة المزرعة
+farm-out agreement	اتفاقية تشغيل من الباطن
+farmayard (farmyard) manure	سماد عضوي
+farmer	مزارع
+farmer field school; ffs	مدرسة حقلية للمزارعين
+farmer's sand	مَكْمَن وهمي
+farmer-scientist partnership; farmer participatory research	شراآة بين العلماء بحوث مرتكزة على مشارآة; والمزارعين المزارعين
+farmer-to-farmer training	تدريب المزارع للمزارع
+farmers' association; farmers’ organization	منظمة المزارعين
+farming method	طريقة الزراعة
+farmscaping	مزرعة بمقاربة بيئية
+farmstead	مزرعة فلاحية
+farmyard manure (fym)	سماد المزارع
+Farnborough	فارنبرة
+Farnborough indicator	مؤشر فارنبرة
+Farnham roll	لفّافة فارنهام
+fascial	إفريز
+fasciated yarns	خيوط غزل ملفوفة
+fascine	شَدَّة
+fascine mat	شدة قضبان مترابطة / حصيرة شَدّة
+fascine mat, ballasted	فرشة من الشدّات
+fascine, sinking	مَسانِد حجرية
+fashion	موضة
+fashion designer	مبدع الموضة
+fashion doll	دمية الموضة
+fashion line	خط الموضة
+fashion magazine	مجلة الموضة
+fashion outfit	موضة الطقم
+fashion show	عرض الموضة
+fashion sport	موضة رياضية
+fashion style	نمط الموضة
+fashion theory	نظرية الموضة
+fashion victim	ضحية الموضة
+fashioned wood	خشب مشكّل
+Fasin	فازان
+fasson mattress	فراش تبطين يدوي
+fast breeder reactor	مفاعل مولِّد سريع
+Fast Charging	الشحن السريع
+Fast Charging Controller	وحدة التحكم في الشحن السريع
+fast charging; quick charging	شحن سريع
+Fast DC Charging Station	محطة شحن تيار مستمر سريع
+fast erection	نَصْب سريع
+fast express liner	سفينة ركاب سريعة
+fast fading; short-period fading	إضمحلال سريع
+fast fission	انشطار سريع
+fast fission factor	عامل الانشطار السريع
+fast forward movement	حركة امامية سريعة
+fast idle	زيادة سرعة اللاحمل
+fast line	كبْل اللف
+fast motion	حركة سريعة
+fast mover	سريع الحركة
+fast neutron	نترون سريع / نيوترون سريع
+fast overnight connections	ربط سريع
+fast pyrolysis	انحلال حراري سريع
+fast reactor	مفاعل سريع
+fast spiral groove	أخدود لولبي سريع
+fast wave	موجة سريعة
+fast-start finance (fsf)	تمويل انطلاقة سريعة
+fastclip	ربط سريع
+fastener	رابط / رابِط / مربط، مثبت
+fastening dowel	دسار تثبيت
+fastening screw	لولب تثبيت / برغي تثبيت
+Fastening System	نظام الربط / نظام التثبيت
+fastenings	مُثَبِّتات
+fastness to boiling	مقاومة الغسيل
+fastness to perspiration	مقاومة التعرق
+fastness to potting	مقاومة الماء المغلي
+fastness to saltwater	مُقاومة تأثير مياه البحار
+fastness to water drops	مُقاومة قطرات الماء
+fat	دهْن
+fat clay	طيف عالي اللدونة / صَلْصَال دَسِم، غُضَار لَدِن
+fat lime	جير تحشية
+fat oil	زيت دَسِم، زيت دُهْنِي
+fat separator filter	مرشح فاصل للدهون
+fat type	محرف ثخين
+fathom	قامة / فاثوم
+fathom lines	خطوط الأعماق المتساوية
+fathometer	مقياس الأعماق البحرية
+fatigue	تعب / كَلَل / تَعَب / كِلال / كَلال
+fatigue crack	تشرُّخ التعب / تشقق الكِلال
+fatigue duration	فترة تشغيل الكلال
+fatigue failure	كسر بالكلال / انهيار التعب / تصدع الكِلال / إخفاق بسبب الكَلاَل
+fatigue life	العُمر الافتراضي للكلال / عُمْر التعب
+fatigue limit	حد التعب
+fatigue load	حمل التعب
+fatigue of concrete	كَلاَل الخرسانة
+fatigue of materials	تعب المواد
+fatigue of metals	تعب المعادن
+fatigue resistance; fatigue strength	مقاومة التعب
+fatigue strength	مقاومة الكلال
+fatigue stress	إجهاد التعب
+fatigue test	اختِبَار الكَلال / اختبار التعب
+fatigue testing machine	آلة اختبار التعب
+fatty acid	حمض دهني
+fault	فالق / صدع / عطل / صَدْع / فلق
+Fault Analysis	تحليل الأعطال
+fault avoidance	تجنب العطل
+Fault Classification	تصنيف الأعطال
+fault clearance	إزالة العطل
+fault clearance time; clearing time (US)	زمن إزالة العطل
+fault clearance time; clearing time, US	زمن إزالة العطل؛ زمن فصل
+fault correction	تصحيح العطل
+fault correction time	زمن تصحيح العطل
+fault coverage	الأعطال الممكن اكتشفاها
+fault current	تيار العطل
+fault current interruption time; interruption time (US)	زمن انقطاع تيار العطل
+fault current interruption time; interruption time, US	زمن قطع تيار العطل؛ زمن القطع
+fault current of an electrode	تيار عطل لقطب كهربائي
+fault current,	تيار الخطأ,
+fault dam spring	نبع سد صدي
+fault detection	إكتشاف الأعطال
+Fault Detection Light	ضوء بيان الأعطال
+fault detection time	زمن تحديد العطل
+fault detection time; DEPRECATED: undetected fault time	زمن اكتشاف العطل؛ سابقاً: مدة عدم كشف العطل
+fault diagnosis	تشخيص العطل
+fault diagnosis time	زمن تشخيص العطل
+fault dip	مَيْل الصَّدْع
+fault impedance	معاوقة العطل (ممانعة) / معاوقة العطل / ممانعة العطل
+fault line	خط الصدع
+fault line scarp	حافة خط الانكسار
+fault line valley	حافة واد انكساري
+fault localization	تحديد مكان العطل
+fault localization time; DEPRECATED: fault location time	زمن تحديد موضع العطل؛ سابقاً: مكان العطل
+fault locator	جهاز كشف موقع العطل
+fault masking	تخفى العطل
+fault masking,	تخفى العطل,
+fault mountain	جبل انكساري
+fault plain	سطح انكساري
+fault plane	سطْح الصدْع
+fault protection	وقاية خطأ؛ حماية خطأ / وقاية الخطأ
+fault reporting time	زمن الإبلاغ عن الخطأ
+fault scraps	مُنْحَدَرات الصدوع
+fault signal	إشارة خطأ
+fault signalling unit	وحدة التنبيه عن الأعطال
+fault spring	نبع صدي / ينبوع انكساري
+fault spring / fissure spring	نبع صدي
+fault springs	ينابيع الصدوع
+fault strike	اتجاه الصَّدْع
+fault throw	رمية الصَّدْع
+fault tolerance,	سماحية حدوث العطل,
+fault tolerance, ; DEPRECATED: fault masking	استمرار العمل فى وجود عطل؛ سابقا: إخفاء العطل
+fault trap	مصيدة صدعية، مَكْمَن صدعي
+fault tree	شجرة الاعطال
+fault tree analysis; FTA	تحليل شجرة الاعطال
+fault voltage	جهد الخطأ
+fault wall	جدار الصَّدْع
+fault water / fissure water	مياه الشقوق
+fault zone	نطاق انكساري / منطقة الصدع
+fault zones	نِطاقات اضطراب
+fault,	خطأ،, / خطأ, درجة امان الاستعمال"i" / عطل, / خطأ,
+fault-block	كتلة صدعية
+fault-breccia	رُكام
+fault-folding	طيٌّ صدْعي
+fault-line scraps	مُنْحَدَرات خطوط الصدوع
+fault-scarp	حافة الصدع
+faulted deposits	رواسب متصدعة
+faulty construction	بناء عائب
+faulty convergence	تقارب معيب
+faulty operation	تشغيل مضطرب
+faulty state information	معلومات حالة بينية
+fauna	حيوانات منطقة ما / حيوانات
+fauna-flora habitat directive, FFH Directive	لائحة الاتحاد الأوربي لحماية الأحياء النباتية والحيوانية (FFH Directive)
+Faure plate	لوح (فور)
+faux bouclé	قماش بوكليه اصطناعي
+faux fur style	أسلوب فرو مزور
+faux suede	جلد مُزَأبَر
+faX	فاكس
+Fay jacket	سترة فاي
+fayalite	فيالايت
+faying surface	سطْح تماسّ / سطح مُحكَم الاتصال
+façade	واجهة
+FC-104, EWG	مُبَرِّد FC-104, EWG
+FC-77, EWG	مُبَرِّد FC-77, EWG
+FC.77	مُبَرِّد FC.77
+FCFS principle	مبدأ FCFS
+FDM link; line link (deprecated in this sense)	وصلة FDM (إرسال مضاعف لمقسم التردد)
+FE oil	زيوت مُوفرة للوقود (زيوت FE)
+feasibility study	دِراسة الجدوى / دراسة الجدوى / دراسة جدوى
+feast and famine lubrication	تَزْلِيق شاذّ
+feather	تقويم الأرياش
+feather bed	غطاء السرير
+feather duster	لحاف من الريش
+feather joint; tongue and groove joint	وصلة حزّ ولسان
+feather key	خابورٌ غاطس
+feather or tongue plane	مسحاج تلسين
+feathering	تجنيب
+feathering angle	زاوية التجنيب
+feathering button	زر التجنيب
+feathering hinge	مِفْصَل التجنيب
+feathering pitch	خطوة التجنيب
+feathering pump	مضخة التجنيب
+feature of optimal design	خاصية التصميم الأمثل
+feature-line overlap	تراكب خطوط الملامح
+fecal	غائطيّ
+fecal canister	صندوق البراز / علبة الغائط
+fecal coliform (FC)	عُصيات غائطية
+fecundity	خصوبة
+fed	مُغذَّى
+fed-in winding	ملف تلقيمي التركيب
+Federal Communications Commission (FCC)	لجنة الاتصالات الفيدرالية
+Federal Environment Agency	الوكالة الاتحادية للبيئة
+Federal Government Joint Unit for Electric Mobility	المكتب المُشترك لشئون المركبات الكهربائية
+federal grid plan	خطة الشبكة الاتحادية
+Federal Institute for Geosciences and Natural Resources	المعهد الفدرالي لعلوم الأرض والموارد الطبيعية (BGR)
+Federal Institute for Geosciences and Natural Resources (BGR)	المعهد الاتحادي لعلوم الأرض والموارد الطبيعية
+Federal Ministry of Economic Affairs and Energy	الوزارة الاتحادية للاقتصاد والطاقة (BMWi)
+Federal Ministry of Economic Affairs and Technology	الوزارة الاتحادية للاقتصاد والتكنولوجيا (BMWi)
+Federal Motor Carrier Safety Administration (FMCSA)	الإدارة الفيدرالية للنقل
+Federal Motor Vehicle Safety Standards (FMVSS)	معايير السلامة الفيدرالية
+federal network agency	وكالة الشبكة الاتحادية
+federal office of economics and export control (BAFA)	المكتب الاتحادي للاقتصاد والرقابة على الصادرات (BAFA)
+Federal Office of Statistics	مكتب الإحصاء الاتحادي
+Federal tariff regulation electricity (BTOElt)	تنظيم تعرفة الكهرباء بألمانيا (BTOElt)
+federation	اتحاد
+Federation for wastewater issues	تكتل من أجل قضايا الصرف الصحي
+fedora	قبعة فيدورا
+fee	رسوم
+feebate	ضرائب ومساعدات
+feed	تغذية / لقيم
+feed (of an array)	تغذية (لمصفوفة)
+feed (of reflector or lens antennas)	تغذية (لعاكس أو هوائيات عدسيه)
+feed board	لوحة تلقيم
+feed distributed	موزِّع التلقيم
+feed dome	قُبَّة الإمداد
+feed exchanger	مبادل تغذية
+feed heater	سخان تغذية
+Feed in Tariff	تعريفة التغذية الكهربائية / تعريفة التغذية
+feed line; feeder	خَطّ التغذية
+feed model	نموذج الإمداد بالطاقة
+feed model II	II نموذج الإمداد بالطاقة
+feed off	حفر مستمر في تكوين رخو (دون استعمال مكبح أدوات الرفع)
+feed pipes	أنابيب تغذية
+feed point	نقطة الدخول
+feed pressure	ضغط التغذية
+feed pump	مضخة التغذية / مِضَخَّة الإمداد
+feed rate control	تحكّم في مُعدّل التغذية
+feed spacer	فاصل الأغشية
+feed stock	شحنة تلقيم
+feed valve	صِمام التغذية
+feed water	مياه التغذية / مياه تغذية / مياه الإمداد
+feed water heater	سَخَّان مياه التغذية
+feed water surge vessel	وعاء تَمَوُّر ماء التلقيم، مِطْفَاح ماء التلقيم، وعاء تهدئة ماء التلقيم
+feed, stepped	تغذية متدرجة
+feed-in	إمداد بالطاقة / تغذية
+feed-in agreement	عقد تغذية الشبكة
+Feed-in counter	عداد تغذية الشبكة
+feed-in forecast	توقع الإمداد
+feed-in management	إمداد / إدارة إمداد الطاقة المتجددة
+feed-in payment	نموذج التغذية بالطاقة المُتجدّدة / تعرفة تغذية الشبكة
+feed-in regulation	لوائح الإمداد
+feed-in remuneration	تعرفة إمداد الطاقة المتجددة
+feed-in tarif	تعريفة الإمداد / تعريفة إمداد الطاقة المتجددة
+feed-in tarif system	نظام تعريفة التغذية / نظام تعرفة إمداد الطاقة المتجددة
+Feed-in tariff	تعرفة تغذية الشبكة / تعريفة التغذية / تعريفة التغذية (بالطاقة)
+feed-in tariff (fit)	تعريفة شراء مضمونة
+feed-in tariff model	نموذج تعريفة التغذية
+feed-in-tariff	تعريفة الإمداد بالطاقة
+feed-through signal suppression	إخماد إشارة التغذية البينية
+feed-through signals	إشارات التغذية البينية
+feedback	تغذية مُرتَدة / تقارن عكسي / تغذية راجعة / تغذية مُرتدة / تغذية عكسية / تغذية عائدة / تغذية مرتدة
+Feedback circuit	دائرة تغذية مرتدة / دارة بتغذية راجعة
+feedback control loop	دارة تحكم ذات تغذية مرتدة
+feedback control of wind turbine	التحكم في التغذية المرتدة لعنفة الرياح
+feedback control system	نظام تحكم بالتغذية المرتدة
+feedback cutter head	رأس قطع يعمل بالتغذية المرتدة
+feedback cycle	دورة ردود الفعل
+feedback loop	دائرة فعل مُغلقة / دائرة ضبط
+feedback message	رسالة عكسية
+feedback path	مسار تغذية مرتدة / مسار التغذية المرتدة
+feedback systems	نظم ردود الفعل
+feedback variable	متغير تغذية مرتدة
+feeder	خط إضافي / نقل رافد / مغذي / مُغذِّي / ملقّم / مغذّي
+feeder (in a cabled distribution system)	مغذي (في نظام توزيع الكبل)
+feeder / feed system	نظام تزويد
+feeder bay	خلية مغذى
+feeder circuit-breaker	قاطع المغذي
+feeder clamp	تجهيزات توصيل المغذي
+feeder clip	قامطة الموزِّع
+feeder disconnector	سكينة مغذي
+feeder line	خطُّ التغذية
+feeder link	وصلة مغذ / وصلة مغذي
+feeder pilar	عمود تغذية
+feeder service (1)	خدمة مواصلات فرعية (1)
+feeder service (2)	خدمة مواصلات فرعية (2)
+feeder station	محطة مغذية
+feeder, ; feeder cable	المغذي,
+feederliner	طائرة مُغذِّية
+feedforward	تغذية أمامية
+feeding	تغذية
+feeding behavior	سلوك العرض / سلوك التغذية
+feeding bridge	جسر تغذية
+feeding control band	شريط مراقبة التلقيم
+feeding current (of a telephone station)	تيار التغذية ( لمحطة هاثفية )
+feeding device	تجهيزة التغذية
+feeding point	نقطة التغذية
+feeding priority	أولوية التغذية
+feeding roller	محدل تلقيم
+feeding section	قسم التغذية
+feeding situation	وضع التغذية
+feeding system	نظام التغذية
+feeding volume	كمية التغذية
+Feedstock	لقيم / موادَ خام
+Feedstock Gas	غاز اللقيم
+feedstock recycling; chemical recycling	إعادة تدوير المادة الأولية؛ إعادة تدويركيميائية
+Feedstocks	مواد أولية
+feedwell	بئر تغذية
+feel	إحساس
+feel system	نظام الإحساس
+feet dry	أقدام جافة / فوق اليابسة
+feet wet	أقدام رطبة
+feet wet; overwater	فوق الماء
+feldspar	فِلِزّ الفلدسبار / فلسبار
+feldspars	فيلدسبار
+feldspathoid	فلسباثويد
+feller select	اختيار الحطاب
+felling	قطع
+felling axe	بلطة القطع، بلطة الحطاب
+felling tools	أدوات التقطيع
+felpel / velple	فيليبليه
+felsic	فِيلْزِك
+felsic rocks	صخور فلسية
+felt	لِبّاد / لباد / لُبَّاد / لِبْد / لبّاد، لِبْد
+felt cloth	قماش اللباد
+felt paper	ورق لبادي
+felt yarns	خيوط غزل مُلبدة
+Feltine®	فلتين®
+felting of wood	تلبيد الخشب
+female	جلد أنثوي
+female connection	وُصْلَة مسَنَّنَة من الداخل ( أنثى)
+female connector	وصلة انثى
+female thread	سَنُّ أنثى
+FEMIP (Facility for Euro-Mediterranean Investment and Partnership)	برنامج التسهيلات الأوروبية المتوسطية للاستثمار والشراكة (FEMIP)
+femto (prefix)	فيمتو
+fen	غوْر
+fence	سور / سياج
+fence of wood	سياج خشب
+fencing	تحويطة
+fender	رَادَّة، واقية الصدمات
+fender / guide post / guide rail	مَصَد
+fender [UK] / bumper [US]	عارضة تصادُم / عارضة تصادم
+fender guard	واقية الصدمات، رادّة
+fender lamp	مِصْبَاحُ الرادة، مِصْبَاحُ واقية الصدمات
+fenestration	نسق النوافذ
+feral	وحشي
+feralization	توحيش
+ferberite	فربرايت
+FERC efficiency standard	معيار كفاءة لجنة تنظيم الطاقة الفيدرالية الأمريكية
+fergusonite	فرغوسونايت
+fermentation	تَخمُّر / تخمير / تخمُّر / تخمر
+fermentation gas	غاز هضم
+Fermi energy	طاقة فيرمى
+Fermi level	مستوى فيرمى / مستوى فيرمى للطاقة
+Fermi-Dirac function	دالة فيرمى-ديارك
+Fermi-Dirac statistics; Fermi statistics	احصائيات فيرمى-ديارك
+Fermi-Dirac-Sommerfeld velocity distribution law	قانون توزيع السرعات لفيرمى-ديارك -سومرفيلد
+fermion	فرميون
+ferralic horizon	أفق حديدي
+ferralitisation	رفع نسبة الحديد
+ferrallitique soil	تربة حديدية
+ferrallitique weathering	تجوية حديدية
+ferralsoil	تربة كثيرة الحديد
+Ferranti effect	ظاهرة فرانتي
+Ferrel cell	خليّة 'فيريل'
+ferret	مُستكشِفة
+ferric chloride	كلوريد الحديديك
+ferric sulfate	كبريتات الحديديك
+ferrimagnetic substance	مادة ذات مغناطيسية حديدية
+ferrimagnetism	مغناطيسية حديدية
+Ferris scheme	مخطط فِريس
+ferrite	حديدي / فريت : خام حديدي / خام الحديد / فِرّايت
+ferrite rod antenna	هوائي بقضيب حديدي
+ferritic; ferrous	حديدي
+ferro-resonance	الرنين الحديدى
+ferrocement	إسمنت حديديّ
+ferrodynamic instrument	جهاز قياس كهروحركى
+ferroelectric	فيرو كهربائي
+ferroelectric material	مادة حديدية كهربائية
+Ferroelectric Random Access Memory	ذاكِرَةُ وُصُولٍ عَشْوائِيٍّ كَهْرَبائِيَّةٌ حَدِيدِيَّةٌ
+ferroelectric, adj	فيرو كهربائي
+ferromagnesian	حديدومغنيسي
+ferromagnetic	مغناطيسي حديدي / مغنطسية حديدية
+ferromagnetic substance	مادة ذات مغناطيسية حديدية
+ferromagnetism	مغناطيسية حديدية
+ferrosilite	فيروسيلايت
+ferrospinel	سبينيل حديدي
+ferrotype	لوح تصوير حديدي
+ferrous	حديدوز
+ferrous metals	معادن حديدية
+ferrous sulfate	كبريتات الحديدوز
+FerroXcube	مكعب لاحديدي
+ferruginization	انحداد
+ferruginous sandstone	حجر رملي حديدي
+ferrule	تجهيزة وَصل / حلقة؛ طوق / طرف حديدي / طُوَيْق
+ferrule / tapping valve	عُدَّة ثقب
+ferrule,	حلقة معدنية
+ferry boat	معبر خشبي
+ferry flight	رحلة توصيل / طيران للتوصيل
+ferry pilot	طيار توصيلي
+ferry range	مدى التوصيل / مدى العبور
+ferry tank	خزان توصيل / خزان عبور
+fersiallitique (fersiallitic) soil	تربة دكناء تحدُّدِية
+fersiallitization	تحدُّد
+fertile	خصب
+fertile material	مادة خصبة / مواد خصبة
+fertiliser	سَمَاد / سماد
+fertiliser element / nutrient element	عُنصر غذائيّ
+fertiliser-water irrigation	ري مُخَصِّب
+fertility norm	معيار الخصوبة
+fertility rate	معدل الخصوبة
+fertilization	تسميد
+fertilization; fertilizer application; fertilizing; manuring	إضافة السماد
+fertilizer	سماد / مادة مخصِّبة
+fertilizer industry	صناعة الأسمدة
+fertilizer programme	برنامج أسمدة
+fertilizer use	استخدام المخصبات
+Fertilizers	أسمدة
+fertilizers synthetic	مخصبات اصطناعية
+festooned ornament	نقش مزهّر
+fetch	فيتش / مسار بحري تهُب فيه رياحٌ مُنتظمة
+few	بِضْع
+fewofil	خيط قليل الشعيرات المستمرة
+fiber	ألياف / ليف
+Fiber alloy	ألياف مسبوكة
+Fiber band	شريط الألياف
+fiber composite materials	مواد مكوتة/ مركبة من الألياف
+Fiber cross section	المقطع المستعرض للألياف
+Fiber damage	تضرر الليف
+Fiber Distributed Data Interface	واجهة البيانات الموزَّعة بكابلات الألياف الضوئية
+Fiber engineering	هندسة الليف
+Fiber generation	توليد الليف
+Fiber gradient	زاوية ميل الليف
+Fiber optic	أَلْيافٌ بَصَرِيَّةٌ
+fiber products	منتجات الألياف
+Fiber Reinforced Plastic Cooling Tower	برج تبريد ذو رقائق بلاستيكية مقواة بالألياف
+fiber stack lineup	اصطفاف حزمة الألياف
+Fiber structure	تركيبة الليف
+fiber surface area	سطح الألياف
+Fiber To The Building	الأَلْيافُ الضَوْئِيَّةُ إِلَى المَبْنَى
+Fiber To The Home	الأَلْيافُ الضَوْئِيَّةُ إِلَى المَنْزِل
+Fiber To the Node	الأَلْيافُ الضَوْئِيَّةُ إِلَى العُقْدَةِ
+fiber with reduced pilling propensity	ألياف قليلة التوبر
+fiber-reinforced plastic	بلاستيك مقوى بالألياف
+fiberfill	حشو ليفي
+fiberoptic cable	كابل الألياف البصرية
+fibers breakage	تكسر اللييفات
+Fibers contamination	تلوث الألياف
+Fibers fleece / fibrous fleece	قماش غير منسوج
+fibers fragments	شظايا الألياف
+fibers molecules	جزيئات الخيط
+fibers nep	عقد الألياف
+fibers optic yarns	خيوط غزل موصِّلة للضوء
+Fibers protein	بروتين الألياف
+fibers set	مجموعات الألياف
+fiber– reinforced concrete	خرسانة مسلحة بالألياف
+fible board	لوح ليفي
+fibre	نسيج أو ليفة
+fibre axis; optical axis	محور الألياف محور ضوئي (محور بصري)
+fibre board; fiber board	لوح ليفيّ
+fibre buffer	حاجز الألياف البصرية؛ مصدر ألياف ضوئية
+fibre bundle; bundle	حزمة ألياف ضوئية / حزمة ألياف بصرية حزمة
+fibre cement	إسمنت مسلَّح بالألياف
+fibre composition	تركيب ليفي
+fibre glass	زجاج ليفي
+fibre optic terminal device	جهاز طرفي يعمل بالألياف الضوئية
+fibre optics	ألياف بصريه / بصريات ليفية
+fibre press	مكبس الألياف
+fibre scattering	تشتت الألياف
+fibre structure	بنية ليفية، تركيب ليفي
+fibre-board	لوح ليفي
+fibre-optic light guide technology	تقنية انتقال الضوء في ألياف زجاجية
+fibreboard	ألواح ألياف
+FibrefraX	ألياف سيراميك / فايبرفراكس
+fibreglass	ألياف زجاجية
+fibreglass laminates	رقائق (أو ألواح) من زجاج ليفي
+fibreglass; glass-fibre	ألياف زجاجية
+Fibrelam	فايبرلام / لدائن ليفية
+fibrid	ألياف فيبريد
+fibril	ليفية
+fibrillated fiber	ألياف لُيَيفاتِيّة
+fibrillated foil yarn	خيط غزل رقائقي مُشعّر
+fibrillated yarns / fibrillated films / split film yarns	خيوط غزل مُشعَّرة
+fibrillation	تليف / إختلاج عضلي؛ إنقباض عضلى / رجفان
+Fibrils	لُيَيفات
+fibrolite	فيبرولايت
+fibrous	ليفي
+fibrous matter	مادة ليفية
+fibrous peat	خُثّ ليفيّ / مواد عضوية ليفية
+fichu	لِفَاع
+fichu collar	ياقة بنيقة
+Fick's law	قانون فيك
+fictive block signal (board) on LZB lines (D)	إشارة كتلة وهمية
+fictive signal	إشارة وهمية
+fidelity	دقة الأداء
+Fidion®	ألياف فيديون ®
+fiducial error	حيود (ال...) المرجعي للقياس / خطأ نسبي
+fiducial marks	علامات دليلية / علامات الإسناد
+fiducial uncertainty	ارتياب نسبي
+fiducial uncrtianty	لايقين (ال...) المرجعيّ للقياس
+fiducial value	قابلية الاقتفاء
+fiduciary contract	عقد ائتماني
+field	حقل (زراعة) / مجال / ميدان / حقل
+field (in signalling)	مجال (في التشوير)
+field ambulance	سيارة إسعاف ميدانية
+field blanking teletext	شريط المعلومات النصية
+field book	دفتر ميداني
+field bus	ناقل بيانات نطاقي / ناقل نطاقي (نطاق الأتمتة)
+field bus system	نظام ناقل البيانات النطاقي
+field calibration kit	اجهزة للمعايرة فى الموقع, الكشف عن الغاز
+field capacity	سعة الحقل
+field capacity zone	منطقة السعة الحقلية
+field capacity, available	سعة حقلية مُتاحة
+field capacity, capillary (moisture)	سعة (رطوبة) حقلية شَّعَرِية
+field capacity, normal	سَعَة حقلية عادية
+field coil	لفيفة المجال المغناطيسي / لفيفة إثارة / لفيفة مغناطيسية / ملف مجال / ملف المجال المغنطيسي
+field coil flange	شفة ملف المجال
+field colour	لون حقلى
+field compression test	اختبار انضغاط المَكْمَن
+field control	تحكُّم ميداني
+field data	معطيات حقلية
+field density test	اختبار الطافية، اختبار بالعوَّامة
+field device	جهاز المجال
+field displacement	ازاحة مجال
+field ditch	مَصْرِف حقليّ
+field ditch system, parallel	نِظام المصارف الحقلية المتوازية
+field ditch, random	مَصْرِف حقليّ عشوائيّ
+field drain	مَصرِف حقليّ
+field drain pipe; land pipe	أُنْبوب صَرْف
+field emission tube	انبوب إنبعاث المجال
+field emission; cold emission	إنبعاث المجال
+field erected cooling tower	برج تبريد مُنشأ في موقع العمل
+field eXtension	ملحقية الميدان
+field frequency	تردد المجال
+field gauger	عيار انتاج الحقل
+field geology	جيولوجية الحقل
+field growth	نمو الحقل
+field investigations	تحريات حقلية
+field irrigation efficiency	كِفاية الريّ الحقليّ
+field jacket	سُتْرَة ميدانية
+field length	طول الميدان
+field magnet	مغنطيس المجال
+field maintenance	صيانة ميدانية
+field moisture equivalent	مُكافئ الرطوبة الحقلية
+field moisture equivalent / minimum saturation water	مُكافئ الرطوبة الحقلية
+field normalized impact sound pressure level	مستوى ضغط صوت صدم عادى المجال
+field of standardisation	مجال التوحيد القياسيّ
+field of view	مجال الرؤية
+field of view,	مجال الرؤية,
+field of vision	مدى وضوح الرؤية
+field operations	عمليات ميدانية
+field performance	أداء ميداني
+field period	فترة المجال
+field pole	قطب المجال
+field potential	طاقة إنتاج الحقل، كمُون الحقل
+Field Programmable Gate Array	مَصْفُوفَةُ بَوّاباتٍ مَنْطِقِيَّةٍ قابِلَةٌ لِلبَرْمَجَةِ
+field rheostat	معدّلة المجال
+field rivet	برشام موقعيّ
+field scan; vertical scan	مسح المجال
+field sequential colour television system	نظام تلفاز ملون تتابعي المجال
+field shunting	توازي المجال
+field spool	بكرة ملف المجال
+field spool insulation	عزل بكرة ملف المجال
+field sprinkler method	تجهيزة ري الحقول بالرش
+field storage	مخزون حَقْلي
+field strength	شدة المجال
+field strength diminution factor	عامل نقصان شدة المجال
+field strength pattern (of a radio transmitter)	نموذج شدة المجال (للناقل اللاسلكى)
+field suppression	تخميد المجال
+field surveying	قياسات حقلية
+field surveyor	مسّاح
+field synchronizing signal; field sync pulse	اشارة تزامن المجال
+field system	نظام المجال المغناطيسي
+field system,	نظام مجال مغناطيسي, / نظام المجال المغناطيسى,
+field test	تجرِبة حقلية / اختبار ميداني؛ اختبار حقلى
+field test / trial	اختبار حقليّ
+field training detachment	كتيبة التدريب الميداني
+field water requirement	متطلبات الحقل من المياه
+field winding	ملف المجال / ملفات المجال المغناطيسى
+field winding terminals	أطراف ملف المجال
+field,	حقل,
+field, ; frame,	مجال, ؛ إطار,
+field-assembled trace heater	تركيب الموقع, تسخين بالتتبع
+field-built air handling unit	وحدة مناولة الهواء المُنشأة في موقع العمل
+field-displacement isolator	عازل (امتصاص)الرنين / عازل إزاحة المجال
+field-effect transistor	ترانزستورمحكوم بالمجال الكهربائي
+field-effect transistor, FET	ترانزستور تأثير المجال
+field-handling frame	إطار المناولة الميدانية
+Field-Oriented Control (FOC)	التحكم الموجَّه في المجال
+field-quincunx sampling	أخذ عينات خماسيه من المجال
+field-time luminance distortion	تشوة نصوع المجال-الزمن
+field-weakening by tapping	تضعيف المجال بالتفريع
+field-weakening ratio	نسبة تضعيف المجال
+field-weakening switchgroup	مجموعة مفاتيح تضعيف المجال
+field-wiring connections, pl	وصلات مركبة فى الموقع
+fieldbus	ناقل المجال
+Fieldbus Message Specification	مواصفة رسالة الناقل (FMS)
+FIFO principle	مبدأ FIFO
+fifteen atmosphere percentage	محتوى مائيّ عند 15 ضغط جويّ
+fifth wheel	قارنة سرجية / عجلة احتياطية / عجلة احتياطية، صينية وصل المقطورة
+fifth-freedom traffic	مرور الحرية الخامسة
+fifth-wheel plate	قرص سرجي
+fighter	مُقاتِلة
+fighter affiliation	اشتراك المقاتِلات
+fighter controller	مُوجِّه المقاتلات
+fighter cover	غطاء المقاتلات / غطاء جوي
+fighter escort	حراسة الطائرة المقاتلة
+fighter sweep	اكتساح المقاتلة
+fighter-bomber	مقاتِلة قاذفة
+fighter-direction aircraft	طائرة توجيه المقاتلات
+fighting-Suit	سترة قتالية
+figure of merit,	رقم الجدارة,
+figure types	أنواع المجسمات
+figure-shift signal	إشارة إزاحة رقم
+figured fabrics	قماش بزخارف كبيرة
+figured jersey	تمط جيرسيه
+figured weave	تركيب نسجي فانتزيه
+figures case	حالة أرقامِ
+figures shift	إزاحة أرقام
+figurine	مُجَسَّم
+figuré	مجسد
+fil-à-fil / end-on-end	خيط على خيط
+filament	فتيلة / فتيل
+filament blended yarns	خيوط غزل ممزوجة
+filament current	تيارالفتيله
+filament lamp	مصباح فتيلي
+filament lamp,	لمبة بالفتيلة, غطاء اللمبة
+filament or heater starting (surge) current	تيار التشغيل للفتيله او المسخن
+filament voltage	حهد الفتيله
+filament winding	لف الألياف / لف الفتيل
+filament yarn / multifilament yarn	خيط غزل متعدد الألياف المستمرة
+filament yarns with spun yarn look	خيوط غزل ذات مظهر خيط من الألياف الطبيعية
+filamentous growth	نمو خيطيّ
+filamentous sludge	حمأة خيطية
+file	مِبرد / ملف
+file brush	فرشة المبرد
+file number / reference number	إشارة مرجعية
+file transfer (in computer networks)	إرسال الملفات (فى ربط الشبكات)
+File Transfer Protocol	برتوكول نقل الملفات (FTP) / بروتوكول نَقْلِ المَلَفّاتِ
+File-Server	خادم الملفات
+filed fightplan	خطة قتالية محفوظة
+filet lace	قماش شبكي
+filet net yarn	خيط كروشيه شبكي
+filet silk	حرير أقمشة الشباك
+filiform	خيطى
+filigree pattern	تخريم رفيع
+filing the hole	سد البئر
+fill	رَدْم
+fill / embankment	رَدْم
+fill deck	طبقة الحشو
+fill factor	معامل الامتلاء
+fill fiber	ألياف للحشو
+fill sheet	لوح الحشوة
+fill, downstream; shell, downstream	رَدْم خلفيّ
+fill, upstream; shell, upstream	رَدْم أَماميّ
+fill; filling	لُحْمَة
+filled band	نطاق مُمْلُوء
+filled cavity	فجوة مملوءة
+filled charged battery	بطارية مشحونة معبأة
+filled discharged battery	بطارية بدون شحن معبأة
+filled insulating liquid	سائل عازل معبئ
+filled with sand	مملوءة بالرمل
+filled-in door	باب مسدود
+filler	مادة ملء وتسوية / حَشْو / حشو / حشو ة
+filler (in a plastic)	حشوة- مالئ
+filler beam bridge	جِسرٌ بِعَوَارِضَ مَكسُوَّة
+filler dust	ضباب مادة الملء
+filler material	مواد مالئة / مادّة مالئة، مادة حشْوٍ
+filler metal	حشو معدني
+filler neck	فوهة خزان الوقود / فوهة الملء
+filler of filling weld	لِحَام ملء
+filler rod	قضيب حشو معدني
+filler weld	لحام ملء، درزات مالئة
+filler wire	سلك حشو
+filler wire supply	مصدر سلك الحشو
+filler yarn	خيط التَبطين
+fillers	حَشْوَة / مالئات المسام
+fillet	منحني اتصال / شريط اللحام
+fillet (lath)	ساجة تلبيس
+fillet weld	لِحام زاويّ / لحام وصلات تقوية
+filling	ملء / حَشْو
+filling level	مستوى الملء
+filling material,	مادة التعبئة, عبوة المسحوق
+filling material; fillers	مادة حاملة
+filling of dam	بناء سَدّ ترابيّ
+filling position	وضع الملء
+filling sleeve	جلبة التعبئة / جُلْبَة المَلْء
+filling station	محطة بنزين، محطة خدمة
+filling time	زمن الملء
+filling up	طمس
+filling weft	لُحمة الحشو
+filling weld	لحام الملء
+filling-up	رَدْم
+fillister (of door)	مَحَزّ الباب، مجرى اللوح الزجاجي المنزلق
+fillister; plane-fillister	مسحاج التخديد
+film	فيلم / غشاء
+film (of a film integrated circuit)	رقاقة (لدارة تكاملية رقيقة )
+film badge; film dosemeter	شارة فلمِ
+film base/ground	دعامة الفيلم
+film capacitor	مكثف ذو غشاء رقيق
+film changer	مبدل الفيلم
+film chip	رُقاقة غشائية
+film cooling	تبريد غشائي
+film filling	حشوة رقائقية
+film integrated circuit	دارة مدمجة رقاقية
+film rendering transform	اخراج الفيلم مع استدعاء اللون؛ اخراج الفيلم مع ترجيع اللون
+film setting machine	صفافة تصويرية
+film unrendering transform	اخراج الفيلم بدون ترجيع اللون؛ اخراج الفيلم بدون استدعاء اللون
+film water	ماء جليدي
+film, zoogloeal	شريحة هلامية
+film-filled cooling tower	برج التبريد ذو الحشوات الرقائقية
+filter	مرشح / مُرشِّح / مصفاة / مرشِّح / مرشِح / مُرَشِّح / مرشّح / مُرَشِّح / أداة ترشيح
+filter aid	مساعد ترشيح
+filter area	منطقة المرشِّح
+filter backwash rate	معدل الغسيل العكسيّ للمرشِّح
+filter bed	فَرْشة ترشيح / خندق ترشيح / طبقة ترشيح
+filter bottom	قاع الفلتر
+filter cake	رُشاحة / كعكة الترشيح / كعكة المرشِّح، كعكة الطين
+filter capacitor	مكثف تنعيم (ترشيح)
+filter capacity	سَعَة الترشيح
+filter centre	مركز التنقية
+filter change	تغيير الفلاتر
+filter characteristics (pl.)	خصائص الترشيح
+filter cloth	قُماش ترشيح / قماش ترشيح
+filter cycle	دورة الترشيح
+filter dosing chamber	خَزّان التطعيم / غُرفة مُعالَجة جُرْعات مياه الصرف الصحيّ
+filter element	عنصر مرشح / عنصر الترشيح
+filter fly / psychoda	ذُبابة مياه الصرف الصحيّ
+filter layer / drain prism	منشور صَرْف
+filter loading (hydraulic…)	تعبئة هيدروليكية للمرشح
+filter loading (organic…)	تعبئة عضوية للمرشِّح
+filter loss	فقْد بالرَّشْح
+filter material	مادة ترشيح
+filter material / filter screen / screen cloth	قُماش ترشيح
+filter material / filtering medium	وسط مُرَشِّح
+filter media (pl.)	وَسَط الترشيح
+filter nozzle	فوهة الفلتر
+filter paper	ورق الفلترة
+filter pipe	أُنْبوب ترشيح
+filter plant / filtration plant	محطة ترشيح
+filter plate	لَوْحة ترشيح
+filter press	مِكْبَس ترشيح / مِكبس ترشيح / رشح تحت الضغط / مرشِّح ضاغط، مرشح يعمل بالضغط
+filter recirculation water	ماء غَسْل الفلتر عكسيّاً
+filter run	دورة المرشح
+filter screen	مصفاة الفلتر / حاجز غربلة
+filter strainer cloth	قُماش الترشيح
+filter strainer cloth cleaning system / filter strainer cloth cleaning plant	وحدة تنظيف قماش الترشيح في الفلتر
+filter strip	شريط ترشيح
+filter surface	سطح الفلتر
+filter tank	حوض ترشيح
+filter yarn	خيط غزل شبيكة
+filter zone	منطقة الترشيح
+filter, air	مُرشّح هواء
+filter, loaded / load drain	مِصْرف شحن
+filter, special	مرشح خاص
+filter-diplexer	مرشّح مزاوج
+filter; optical filter	مرشح؛ مرشح ضوئى
+filterability / filtrability	قدرة الترشيح
+filtered used oil	زيت مُستعمَل مصفَّى
+filtering	تصفية / ترشيح
+filtering candle	شمعة المرشح
+filters	مُرشِّحات
+filtrate	رُشَاحَة / رُشاحة
+filtration	ترشيح / تَرْشِيح / رشح / تصفية / ترشيح، رشْح
+filtration (of radiation)	ترشيح (للإشعاع)
+filtration loss	فَقْد الترشيح
+filtration rate	سرعة الترشيح / معدَّل الترشيح
+filtration spring / seepage spring	نبع رشحيّ / ينبوع تسربيّ
+filtration, dry	ترشيح جاف
+filtration, membrane	ترشيح بغشاء رَقِّيّ
+filtration, micromembrane	ترشيح بغشاء دقيق المسام
+filtration, mixed media	ترشيح باستخدام الفرشة الحصوية المخلوطة
+filtration, perpendicular	ترشيح عمودي
+filtration, rapid sand	ترشيح سريع
+filtration, slow sand	ترشيح بطيء بالرمل
+filtring (filtering)	حوض رشحي
+fin carrier	حامل الزعنفة
+Fin Cooling	تبريد الزعانف
+fin fan cell	مروحة (تبريد) زعنفية
+fin flash	إشارة الزعنفة
+fin girder	عارضة الزعنفة
+fin tube	أنبوب مُجَنَّح
+fin; skeg; sponson	زعنفة
+final	نهائي
+Final Act on Textiles and Clothing	اتفاقية القانون النهائي بشأن المنسوجات والملابس
+final approach	اقتراب نهائي
+final approach altitude	ارتفاع الاقتراب النهائي
+final approach fiX	دليل الاقتراب النهائي
+final approach gate	بوابة الاقتراب النهائي
+final assembly	تجميع نهائي
+final boiling point, (F.B.P.)	نقطة الغليان النهائية
+final certificate	شهادة الإتمام
+final circuit ; branch circuit, US	دائرة فرعية
+final circuit group	دارة مجموعة نهائية
+final consumer	مستهلك أخير
+final consumption	استهلاك أخير
+final controlled variable	متغير متحِّكم به نهائي
+final controlled variable/ indirectly controlled variable	مقدار وظيفي
+final controller	متحكِّم أخير
+final controlling device	جهاز تحكّم
+final controlling element	عنصر متحِّكم نهائي
+final controlling equipment	مُعدَّة متحِّكم نهائي
+final coolant	وسيط تبريد نهائي
+final cover	غطاء نهائي
+final customer; end-use customer	المستهلك النهائى؛ آخر مستهلك
+final degree of utility	درجة المنفعة النهائية
+Final Discharge Voltage	الجهد النهائي للتفريغ
+final effluent	مَصَبّ نهائيّ / صادِر نهائيّ
+final effluent discharge point; final effluent	بالوعة
+final endurance value	قيمة التحمل النهائية / قيمة التقادم النهائية
+final energy	طاقة نهائية / الطاقة النهائية
+final energy carrier	ناقل الطاقة النهائية
+final energy consumption	استهلاك نهائي للطاقة
+final energy supply in Germany from renewable energy sources	الإمداد النهائي بالطاقة في ألمانيا من مصادر الطاقة المتجددة
+final indication,	إشارة نهائية, الكشف عن الغاز
+final inspection	الفحص النهائي
+final letter	حرف نهائي
+final mass	كتلة نهائية
+Final Prediction Error	خطأ التنبؤ النهائي
+final procedure turn	لفة الإجراءات النهائية
+Final Rail Route Approval (FRRA)	الموافقة النهائية على مسار السكك الحديدية
+final repository of pollution	مستودع نهائي لكل التلوثات
+final revise (the)	مسودّة(ال...) الأخيرة
+Final Safety Analysis Report	تقرير تحليل السلامة النهائي
+Final section	قطع نهائي
+final section of sewer	مقطع نهائية المجرور
+final selector	مفتاح اختيار نهائي
+final set	تماسك نهائي، شك نهائي (للإسمنت)
+final setting time	زمن الشك النهائيّ
+final signal unit; FSU (abbreviation)	وحدة إشارة نهائية
+final size	قطع نهائي
+final temperature	درجة الحرارة القصوى
+final torquing	الربط النهائي
+final trim	ضبط نهائي
+final tripping; lock-out	فصل نهائى
+final utility	منفعة نهائية
+final-assembly drawing	رسم التجميع النهائي
+finals	نهايات
+finances	موارد مالية
+financial action task force (faft)	فرقة العمل المعنية بالإجراءات المالية
+financial additionality	إضافية تمويلية
+financial analysis	تحليل مالي
+financial and economic crisis	أزمة مالية واقتصادية
+financial condition	ظرف مالي
+financial evaluation	تقييم مالي
+financial incentive	حافز مالي
+financial losses in transport associations	خسائر مالية عند تجميع النقل
+financial mechanism	آلية تمويلية
+financial performance	أداء مالي
+financial rate of return	معدل العائد المالي
+financial reporting system	نظام الإبلاغ المالي (FSR)
+Financial Sector Development Program	برنامج تطوير القطاع المالي
+financial values	قيم مالية
+financing and investment safeguards	ضمانات التمويل والاستثمار
+financing instrument	أدوات تمويل
+find the logarithm of.	حساب تكاملي
+finding	ايجاد
+finding of course	تحديد المسار
+finding the distance	تحديد المسافة
+fine aggregate	حصى ناعمة
+fine beaverteen	قماش القندس
+fine bubble aeration	تهوية بالفقاعات الرقيقة
+fine control range	مدى (اسمي)
+fine corduroy	قماش مخملي خفيف
+fine crushing	سَحْق ناعم
+fine data channel	قناة المعلومات الدقيقة
+fine dust	جُسيمات الغبار / غبار ناعم
+fine dust mask	كمامة الوقاية من الغبار
+fine fraction	جزء (ال...) الناعم من التربة
+fine fraction / fine grain / fines	رُكام ناعم
+fine fraction particles	جزيئات دقيقة
+fine fur	فرو ممتاز
+fine jersey bedding	ملحاف جيرسي خفيف
+fine leather	فراء فاخر
+fine line	خط تحديد
+fine movement screw	لولب تحريك بطيء
+fine panel saw	منشار تلسين دقيق الأسنان
+fine pitch	خطوة دقيقة
+fine pointing	تسديد دقيق
+fine powder	مسحوق دقيق (ناعم)
+fine rack / strainer rack / screen	شبكة نُفايات دقيقة
+fine rib	تضليع ناعم
+fine sand	رمل ناعم / رمل دقيق (ناعم)
+fine screen	مُنخُل ناعم
+fine sieve	مُنْخُل ناعم
+fine spectrum	طيف دقيق
+fine stocking	جوارب نصفية
+fine structure	بنية دقيقة
+fine suede	وبر رقيق
+fine texture	تركيب دقيق / نسيج دقيق الحبيبات
+fine tulle	تول ناعم
+fine twist	خيط دقيق مبروم
+fine velour / velvet velour	قطيفة مخملية
+fine weave denim	نسيج دنيم ناعم
+fine wool	صوف ناعم
+fine yarns	خيوط غزل رفيعة
+fine-bubble	دقيق الفقاقيع
+fine-deposit	غرين دقيق المسام
+fine-grained	ناعِم الحبيبات / ترب ناعمة
+fine-grained rock	صخر دقيق الحبيبات
+fine-pitch stop	مُوقِف الخطوة الدقيقة
+fine-pored	دقيق المسام
+fine-rib jersey	تضليع ناعم جيرسيه
+fine-silt	غرين دقيق المسام
+fine-tip crochet thread	خيط دانتيلا كروشيه
+fineness	نعومة الخيط
+fineness modulus	مُعَامِل النُّعُومة
+fineness ratio	نسبة النُّحول
+fines	التُّربَات وَالحُبَابَات المَعدِنِيَّة
+finger	مَجَازٌ (يربط بين المطار والطائرة)
+finger board	مِسْنَد أنابيب الحفْر
+finger lake	بحيرة أصبعية
+finger patch	رقعة أصبعية
+finger pier	رصيف ضيق (يصل الشاطئ بالمياه العميقة)
+finger prints	بصمات الأصابع
+finger-bar controller	قضيب التحكم بالأصبع
+fingering	تَصبُّع
+fingerless gloves	قُفَّازات بدون أَصَابِع
+fingers	أصابع المطار
+finial	زهرية
+finished humus	دُبال ناعم
+finished products	منتجات منتهية / مواد مصنعة
+finished water	ماء مُنْجَز
+finisher	صَقَّال، رَصَّاف
+finishing	إتمام، إنهاء / تتميم، تشطيب / إتمام / تنهية، إنجاز
+finishing charge rate	معدل الشحن النهائي
+finishing coat	طلية أخيرة
+finishing groove; locked groove	أخدود النهاية
+finishing knife	سكين الاتمام
+finishing nail	مسمار الإنهاء / مسمار رفيع
+finishing off	تَشطِيب
+finishing resin	راتينج أعمال التشطيب
+finite difference method	طريقة التفاضلات المحدودة
+finite element method	طريقة العناصر المحدودة / طريقة العناصر المتناهية
+finite population	مُجَمَّع سكاني محدود
+finite wing	جناح محدود
+finite-amplitude wave	موجة السعة المحدودة
+Finite-Sample	عينة محدودة
+finitization	فينتة
+Finn wear	ملابس فنلندية
+finned pipe	أنبوب بزعانف
+Finnish cotton	قطن فنلندي
+Finnish raccoon	فرو ثعلب الماء
+Fiocco	ألياف فيكو
+fir wood	خشب التّنوب
+fir-cone	صنوبري
+fire	نار
+fire after water	نار بعد الماء
+fire alarm	إنذار الحريق
+fire Alarm Control Panel	لَوْحَةُ التَحَكُّمِ بِأَنْظِمَةِ إِنْذارِ الحَرائِقِ
+fire alarm system	نظام إنذار من الحريق
+fire and forget missile; self-guided missile	قذيفة ذاتية التوجيه
+fire barrier	حاجز حريق
+Fire Blanket	بطانية إطفاء الحريق
+fire boat	قارِب إطفاء (الحريق)
+fire box	صندوق الاحتراق
+fire break	فاصل النار
+fire clay	صلصال حراري / غَضَار حراري
+fire clay refractories	حُرُونَات حرارية غُضَارية
+fire control radar	رادار التحكم في الحريق
+fire deluge system	نظام مكافحة الحريق
+fire department	قسم مكافحة الحرائق
+fire detection system	جهاز اكتشاف الحرائق
+fire drencher	مطفأة حريق
+fire emergency guidance lighting	إضاءة إرشاد طوارئ حريق
+fire escape	سلّم حريق
+fire fighting unit	وحدة إطفاء الحريق
+fire flood; combustion in situ	غمْر بالنار، انزياح بالحريق
+fire glass laminates	رقائق من الزجاج الحرون حراريا
+Fire Hazard	خطر الحريق
+fire point	نقطة الاشتعال / نقطة الحريق / نقطة النار، نقطة الاحتراق
+fire proof timber	خشب منيع الاحتراق
+fire proofing	تعطيل احتراق الخشب، منع احتراق الخشب
+fire protection classification	تصنيف الحماية من الحرائق
+fire protection system	نظام الحماية من الحريق
+fire protection wall	حائط حماية من الحريق
+Fire Protective Systems Test for EV Battery Enclosures	اختبار حاويات البطارية
+fire pulse	إشارة الإطلاق
+fire regulator	مُنظِّم الاحتراق، مُعدِّل استطاعة الحريق
+fire resistance	مقاومة الاشتعال، مقاومة الاحتراق
+fire screen	ستارة مانعة للحريق
+fire sprinkler system	نظام رشاشات الماء
+fire stone	صخر ناري
+fire stop	حاجز منع امتداد الحريق، جِدَارٌ واقٍ من الحريق
+Fire Suppression System	نظام إخماد الحرائق / نظام إطفاء الحرائق
+fire truck	سيارة إطفاء
+fire unit	وحدة إطلاق
+fire wall	جدار واق من الحريق، حاجز منع امتداد الحريق
+fire water supply	إمداد ماء إطفاء الحريق، مورد ماء إطفاء الحرق
+fire-brick	طوب حراري
+fire-control radar	رادار تحكم الإطلاق
+fire-control system	نظام تحكم الإطلاق
+fire-damp	غاز المناجم
+fire-flood following water injection	حريق متبوع بحقْن الماء
+fire-hose	خرطوم الحريق
+fire-resisting agent	عامل منع الاحتراق
+fire-resisting substance	مواد مقاومة للاحتراق
+fire; lightoff, light off	إشعال
+fireball	كرة النار
+fireball combustion chamber	حيز احتراق الكرة النارية
+Fireclay	صلصال
+firedamp	خليط من غازات المناجم / غاز المناجم
+fireless	بُخَاري
+fireless steam locomotive	قاطرة البُخَار
+fireman’s coat	معطف الإطفائي
+fireplace	مدفأة، موقد
+fireproof cement	إسمنت مقاوم للحرارة، إسمنت مضاد للحرارة
+fireproof door	باب مانع للحريق
+fireproof mortar	ملاط مانع للحريق
+fireproof paint	طلاء مانع للحريق
+Fires in rolling stock	حَرائِقُ فِي عَرَباتِ الخُطُوْط الحَدِيدِيَّةِ
+Firewall	جدار واقٍ / جدار واقي / الجدار النارى / حائط النيران / حاجز النيران
+firewood	خشب الاحراق
+firing	إشعال
+firing chamber	غرفة الإشعال
+firing console	توثيق الإطلاق
+firing end condition	شكل شمعة الشرر
+firing failure	فشل اشعال / فشل الإشعال
+firing line	خط النار
+firing order	نسق الاشتعال / أَمْر بالاشتعال / نَسَق الإشعال
+firing pass	ممر الإطلاق
+firing pit	حفرة الإطلاق
+firing power	قدرة الاشعال
+firing speed	سرعة الإشتعال
+firing test	اختبار الاشتعال
+firing time	زمن الاشعال
+firing torque	عزم لازم للإشتعال
+firm	متوسط القوام
+firm capacity	سعة ثابتة، قدرة ثابتة
+firm cement	أسمنت جاف، أسمنت متماسك، ملاط جاف
+Firm Load	حمل ثابت
+firm yield	مخزون الضمان
+firme soil	تربة متماسكة
+firmer chisel	إزميل قطع بالدق، إزميل بحد مائل
+firmer gouge	مظفار طرفي، مظفار بحد مائل
+Firmware	برنامج ثابت / البرامج الثابتة
+firmware,	برنامج تخزين,
+firring	درديّ، قشرة ترسيبية (في داخل الأنابيب و المراجل)
+First Aid Kit	عُدَّة الإسعافات الأولية
+first axis,	المحور الاول,
+first buy	أول شراء
+first call attempt	أول محاولة اتصال
+first choice circuit group	مجموعة دارة الخيار الأول / دارة المجموعة ذات أفضلية الأولى
+first choice set of circuits	مجموعة دارات ذات ألأفضلية الأولى
+first collision dose (deprecated)	جرعة التصادم الأولى (لاينصح باستعماله)
+first data multiplexer	مضاعف ارسال البيانات الأولى
+first edition	طبعة أولى
+first engaged thread	سِنُّ اللولب الأولى
+first floor	طابق أول
+First Fuel Marketing Company	شركة الأولى للتسويق المحلي للوقود
+first hop	أول حَجْلة
+First in first out	طريقة الوارد أولاً صادر أولاً (FIFO)
+first law of thermodynamics	قانون التحريك الحراري الأول / القانون الأول للديناميكا الحرارية
+first motion	حركة أولى
+first order analysis	تحليل من الدرجة الأولى
+first order reaction	تفاعُل من الدرجة الأولى
+first order triangulation	تثليث من الدرجة الأولى
+first pilot	طيار أول
+first pull	تجربة أولى
+First Responder Loop	حلقة المستجيب الأول
+first section of sewer	أول حاجز في مجرى الصرف
+first stage	مرحلة أولى
+first stage compressor knock-out drum	وعاء فصل (السائل) بانضغاط الطور الأول
+first year’s wool / lambswool	صوف الجزّة الأولى
+first-angle projection	إسقاط الزاوية الأولى
+first-class compartment	مَقصُورَة الدرجة الأولى
+first-line life	عُمْر الخط الأول
+first-line service	خدمة الخط الأول
+first-order lag element	عنصر تأخير من الدرجة الأولى
+first-party release	تحرير اتصال الطرف الاول
+first-stage damper	مُخمّد أولي
+first-tier supplier	مُوَرِّد الطبقة الأولى
+firth	لسان بحري
+firtree root	جذر صنوبري
+fiscal incentive	حافز ضريبي
+fiscal incentives	حافز مالي
+Fiscal Measurement	قياس للأغراض المالية
+fiscal mechanisms	آليات مالية
+fiscal policy	سياسة مالية
+Fiscal Sustainability Program	برنامج الاستدامة المالية
+fiscal year	سنة مالية
+Fischer-Tropsch fuels	أنواع وقود فيشر-تروبش
+fischer-tropsch process	طريقة فيشر- تروبش / عملية فيشر-تروبش
+Fischer–Tropsch catalysts	مُحفزات عملية (فيشر-تروبش)
+Fischer–Tropsch synthesis	عملية تخليق (فيشر-تروبش)
+FISCO; Fieldbus Intrinsically Safe Concept	مفهوم امان الاستعمال لشبكة فى الموقع
+fish	سمكة
+fish belly flap	غِطاء مرتد على شكل بطن سمكة
+fish belly flap gate	بوابة مرتدة على شكل بطن سمكة
+fish by-pass channel	قناة جانبية لمرور السمك
+fish culture	تربية الأسماك
+fish job	عملية التقاط
+fish kill	إبادة الأسماك
+fish ladder / fish pass / fishway	سلم السمك
+fish lock / lock chamber-type fishway / hydraulic fish pass	هويس السمك
+fish lock; lock chamber-type fishway	ممر سمك في حجرة الهويس
+fish pass / fishway	ممر الأسماك
+fish pass / fishway / fish ladder	ممر الأسماك
+fish screen	مصفاة السمك
+fish stock	رصيد( أو مخزون) سمكي
+fish stocks	أرصدة سمكية
+fish test	اختبار الأسماك
+fish-tail bit	مِدَقُّ ذيل السمك، مِدَقّ بشفرتين
+fishbone antenna	هوائى هيكل سمكى / هوائي عظمة السمك
+fished joint	وصلة تراكب بألواح جانبية / وصلة بألواح جانبية
+fisheries echo sounder; fish-finder	سونار صوتى لمصايد الأسماك؛ جهازصدى صوتى لمصايد الأسماك
+fisheries support vessels	سفن تدعم سفن الصيد
+fisherman’s jacket	معطف الصياد
+fisherman’s jacket / angler’s jacket	سترة الصياد
+fisherman’s jumper	بلوزة البحار
+fisherman’s knot	عُقدة نسّاج
+fishery	مصيد سمك
+fishery independent survey	دراسة مستقلة للوضع السمكي
+fishery management	تدبير صيد السمك
+fishery resources	موارد صيد السمك
+fishing	صيد السمك / إلتقاط، استعادة
+fishing areas	مواطن الصيد البحري
+fishing basket	سلة الالتقاط
+fishing box	صندوق استعادة (الأسلاك)
+fishing effort	مجهود الصيد
+fishing gear	أداة الصيد
+fishing grab	خُطَّاف استعادة
+fishing hook	خُطَّاف استرداد، صُنَّارة التقاط
+fishing industry	صناعة حفظ الأسماك
+fishing jar	ناقوس خَلْخَلَة لالتقاط الأنابيب الساقطة، ناقوس التقاط
+fishing job	إلتقاط، استعادة (الأدوات الملصوبة)
+fishing magnet	مغناطيس التقاط
+fishing methods	طرق الصيد البحري
+fishing mortality	وفيات الصيد
+fishing nail	مسمار رفيع، مسمار التقاط
+fishing neck	طَوْق التقاط
+fishing socket	جلبة استعادة، مصيدة
+fishing tap	حَرْبَة التقاط
+fishing tape	شريط سحب الأسلاك (في داخل الأنابيب)، شريط الالتقاط
+fishing time	زمن الاستعادة
+fishing tongs	مِلْقَط الاستعادة
+fishing tool	أداة الالتقاط
+fishing vessel	سفينة صيد
+fishing waters	أعماق مياه الصيد البحري
+fishplate	وَاصِلَة تَرَاكُبِيَّة
+fishpond	بركة لتربية الأسماك
+fishtail nozzle	فوهة ذيل السمكة
+fishtailing	دوران السيارة إنزلاقياً حول محورها الرأسي / مناورة ذيل السمكة
+fissile	انشطاري
+fissile class	صنف انشطاري
+Fissile Material	مادة انشطارية
+fissile stratification	تطبُّق تفسُّخي، تطُّبق انشطاري
+fissility	تفكك
+fission	انشطار
+fission activity	نشاط ناتج الانشطار
+fission chamber	غرفة انشطار
+fission counter tube	أنبوب عدَّاد الانشطار
+fission cross section	مقطع عرضي للانشطار
+fission energy	طاقة انشطار
+fission fragment	شظية انشطار
+fission gamma radiation	شعاع جاما الانشطاري
+fission gaz	غاز انشطار
+fission neutron	نترون انشطاري
+Fission Product	منتج انشطاري
+fission products	نواتج الانشطار(النووي)
+fission recoils	مرتدات انشطار
+fission spectrum	طيف الانشطار
+fission yield	مردود الانشطار / طاقة الانشطار / ناتج الانشطار
+fissionable	قابل للانشطار / ممكن انشطاره
+fissionable material	مادة قابلة للانشطار
+fissure	صدع / ثلمة / تصدُّع، تشقُّق
+fissure eruption	طفح / طفح الشقوق
+fissure; cleft	تشقُّق
+fissured clay	غَضَار متشقق
+fissuring	صدْع، تشقيق
+fissury structure	بنية متصدعة
+fit	ضبط / توافق
+fitness	لياقة
+fitness for purpose	صلاحية الاستعمال
+fitness wear	ملابس اللياقة البدنية
+fitted sheet	لحاف ثابت
+fitted terry sheet	نسيج مرن
+Fitted Train	قِطارٌ مُجَهَّزٌ بِأَجْهِزَةِ النِظامِ الأوروبِّيّ
+fitter	عامل تجميع / عامل تسوية
+fitter-out of ships	مُجهِّز السفن
+fitting	تَكْيِيف / قطعة القیاس
+fitting (of trunking or ducting systems)	تجهيزات ربط (لمواسير ومجارى الكابلات الرئيسة)
+fitting / pipe fitting	تركيبة (مواسير)
+fitting marks	علامة الضبط
+fitting piece	تعشيقة
+fittings	تركيبات، متممات / لوازم، توابع / قطع توصيل الأنابيب، وصلات أنبوبية
+fittings for underground drainage	تركيبة لنظام الصرف الصحيّ الخاص
+five by five reception	استقبال خمسة على خمسة
+Five Safety Rules	قواعد السلامة الخمسة
+five-pocket cut	طراز خمسة جيوب
+five-pocket jeans	جينز بخمسة جيوب
+five-spot water flood program	برنامج تخميسي لحقن الماء
+fiX end	نهاية الإسناد
+fixation	تثبيت
+fixed (measuring) instrument	معدة قياس عن بعد
+fixed air	هواء حبيس
+fixed axle gate; fixed wheel gate	بوابة ثابتة المحور
+fixed ball joint	وصلة كروية ثابتة
+fiXed base operator	مُشغِّل القاعدة الثابتة
+fixed beam	جائز مُوثَّق / جائز مثبّت
+fixed bed reactor	مفاعل بيولوجيّ ذو ترشيح ثابت
+fixed bed reactor process	طريقة المُفاعل ثابت الفرشة
+fixed bed reactors	مفاعلات ثابتة الفرشة
+fixed block	مجموعة ثابتة
+fixed block distance mode	وضع مسافة ثابتة
+fixed buttress weir / Ambursen weir	هَدّار 'أمبورسن' / هَدّار ثابت الدعامات
+fixed cable reel	بكرة ثابتة بكبل
+fixed caliper	سرج ثابت
+fixed carbon	كربون مثبَّت، فحم متّحد
+fixed cost	تكاليف ثابتة
+fixed cost shipping, flat-rate forwarding	تكلفة شحن تابثة
+fixed costs	تكاليف ثابتة
+fixed delay	تأخير متكرِّر
+fiXed distance marker	علامة المساحة الثابتة
+fixed end	نهاية مُوثَّقة
+fixed equipment	معدات مثبتة
+fixed equipment,	معدة ثابتة, الأجواء المتفجرة
+fixed film reactor	مُفاعل غشائيّ حيويّ
+fixed film reactor process	طريقة المفاعل ذي الغشاء الثابت
+fixed film treatment	غشاء المفاعل الحوي لمعالجة مياه الصرف الصحي / مُعالَجة بزراعات مُحددَّة
+fixed frequency convertor	مبدل التردد الثابت
+fixed gases	غازات ثابتة
+fiXed gun	مدفع ثابت
+fixed head sprinkler	رشَّاش رذاذيّ قائم
+fixed inputs	مدخلات ثابتة
+fixed installation	منشأة ثابتة
+fixed joint	وصلة ثابتة
+fixed kelly bushing	جُلْبَة عمود الحفر المضلَّع الثابتة
+fiXed landing gear	عجلات حط ثابتة
+fiXed light	ضوء ثابت
+fixed limits	حدود ثابتة
+fixed luminaire	جهازإضاءة مثبت
+Fixed Measurements	قياسات ثابتة
+fixed message set,	مجموعة رسائل ثابتة,
+Fixed Mobil Convergence	التَّقارُبُ بَيْنَ الشَّبَكَاتِ الثَّابِتَةِ والمُتَحَرِكَةِ
+fixed pattern noise	ضوضاء النمط الثابت؛ شوشرة النمط الثابت
+fixed payment tariff	تعرفة دفعة ثابتة
+fixed point	نقطة ثابتة
+fixed quality area; FQA	منطقة ذات جودة ثابتة؛ مساحة ذات جودة ثابتة
+fixed retaining walls	جدران استنادية مُوثَّقة
+fixed roller gate	بوابة ذات درافيل ثابتة
+fixed route system	نظام مسار ثابت
+fiXed satellite; geostationary satellite	قمر صناعي ثابت
+fixed service	محطة ثابتة
+fixed set-point control	التحكم في نقطة الضبط
+fixed signal	إشارة ثابتة
+fixed slab buttress dam / fixed deck dam	سَدّ بلاطة ثابتة الارتكاز على دعامات
+fiXed slat	شريحة ثابتة / قِدَّة ثابتة
+fixed socket-outlet	مقبس ثابت (مخرج ثابت)
+fixed solids	مواد صلبة ثابتة
+fiXed station	محطة ثابتة
+fixed suspended solids	مواد (ال...) الصلبة العالقة الثابتة
+fixed termination conductor; fixed equipment	موصل ذونهاية مثبتة
+fixed time signals	إشارات ميقاتية ثابتة
+fixed trip mechanical switching device	معدة وصل وفصل ميكانيكية ثابته الفصل
+fiXed weight	وزن ثابت
+fixed wheel gate	بوابة ذات بكرات ثابتة
+fixed word-length	طول ثابت للكلمات
+fixed X-ray generator	مولّد الاشعة السينيةِ X الثابتِ
+fixed, adj	ثابت , صفة
+fiXed-area nozzle	فوهة ثابتة المساحة
+fixed-bed filter	فلتر ذو ترشيح حبيبي
+fixed-bed porosity	مسامية الوسط التابث للمرشِّح
+fiXed-displacement pump	مضخة ثابتة الإزاحة
+fiXed-geometry	ثابت الشكل الهندسي
+fiXed-loop aerial	هوائي ثابت الحلقة
+fixed-order quantity	كمية تابثة تحت الطلب
+fixed-pitch propeller	مروحة ثابتة الخُطوَة / داسر ثابت الخطران
+fixed-position-layout	تخطيط الموقع التابث
+fiXed-price contract	عقد السعر الثابت
+fiXed-price incentive contract	عقد السعر الثابت التشجيعي
+fixed-satellite service	خدمة قمر صناعي ثابتة
+fixed-time control	مراقبة وقت محدد
+fiXer network	شبكة التثبيت
+fixer's royalty	حصّة المخترِع، جُعالَة المبتكِر
+fixing device	أداة تثبيــت
+fixing moment	عَزْم التثبيت
+fixing of nitrogen	تثبيت النيتروجين
+fiXtur	تثبيتة / تركيبة
+fixture	تثبيت، تركيب
+fixture, cleaning	وُصلة تنظيف
+FKL, manual graphical determination	تحديد بياني يدوي للمُنحنى الخصائصي للتردد
+flade	ريشة المروحة
+flag	شاخِص / إشارة / إشارة تحذير / عَلَم / علامة لحام
+flag carrier	حاملة العَلَم
+flag stop	توقُّف العَلَم
+flag trackink	تَتَبُّع عَلَمي للمسار / ضبط المسار بالعَلَم
+flagellum (flagella, plural)	سوط (الجمع سياط)
+flaggy stratification	تطبُّق لَوْحي
+flagman	رَجُل العَلَم
+flagship scheme	مخطط رائد
+flagship species	أنواع بارزة
+flagstaff	سارية العلم
+flagstone	حجر لوحي / حجر علامة
+flagstone paving	تبليط، رصف بالحجارة اللوحية
+flagstop, regular stop	محطة اعتيادية
+flak	مدفعية م / ط
+flak-suppression fire	نيران إسكات مدفعية م / ط
+flake	رقاقة
+flakiness coefficient	عامل الهَشَاشَة
+flaky minerals	معادن رقائقية
+flam cutting	قَصٌّ باللهب
+flambeau light	مِشْعَل البئر
+flame	لهب
+flame arrester	دارك اللهب / مانعة اللهب (على فتحات تهوية الخزانات)
+flame arrestor vent; flame arrester vent	سدادة منفس مانعة اللهب
+flame attenuation	توهين اللهب
+flame brazing	لِحَام النحاس باللهب، لِحَام باللهب
+flame bucket	وعاء حَرْف اللهب
+flame chute	ممر اللهب
+flame damper	مُخْمِد اللهب / مُضائل اللهب
+flame deflector	حارف اللهب
+flame float	طافية اللهب / عوّامة اللهب
+flame front	جبهة اللهب
+flame hardening	تقسية باللهب
+flame holder	حامل اللهب / ماسك اللهب
+flame ionization detector; FID	كاشف تأين االغاز, الكشف عن الغاز
+flame jet drilling	حَفْر بنفْث اللهب
+flame photometer	مقياس ضوء ذو شعلة
+flame retardant viscose fiber	ألياف فيسكوز مثبط للهب
+flame snuffer	صمام إطفاء اللهب (على فتحات تهوية الخزانات)
+flame spectrum	طيف اللهب
+flame spraying	بخ/ رش لهبي
+flame spread	امتداد اللهب، انتشار اللهب
+flame temperature analyzer; FTA	جهاز تحليل درجة حرارة اللهب
+flame test	اختبار اللهب
+flame trap	مصيدة اللهب
+flame travel	مدى امتداد اللهب
+flame tube	اسطوانة الاشتعال المثقبة / أنبوب اللهب
+flame yarn	خيط غزل متناثر / خيط مبروم التهابي
+flame, noun; flaming	لهب؛ رسالة مزعجة
+flame-proof	مضاد اللهب
+flame-resistant	مُقاوِم اللهب
+Flame-Resistant Clothing	ملابس مقاومة للهب
+flame-weeding	لهب لإزالة الأعشاب الضارة
+flamenga	فلامنجا
+flameout	انطفاء اللهب / توقف اللهب
+flameproof enclosure "d"	حاوية ضد اللهب
+flameproof joint	وصلة ضد اللهب
+flameproof luminaire; explosion-proof luminaire, US	جهاز إضاءة صامد للهب
+flamisol	فلاميزول
+flammability	قابلية الاشتعال
+flammable	سريع الالتهاب
+flammable gas	غاز قابل للاشتعال
+flammable limits, pl	حدود قابلية الاشتعال
+flammable liquid	سائل سريع الالتهاب / سائل قابل للاشتعال
+flammable material; flammable substance	مادة قابلة للإشتعال
+Flammable Materials	مواد قابلة للاشتعال
+flammable range; DEPRECATED: explosive range	مدى غازات قابلة للاشتعال
+flammable substance	مادة قابلة للاشتعال
+Flammable Symbol	رمز الاشتعال
+flammable vapour	بخار قابل للاشتعال
+flammé	ملتهب
+flange	شَفَة / فلنجة / شفة
+flange / web	شَفَة
+flange assembly	مجموعة حلقات نهاية
+flange chisel	إزميل لِلشِّفَاه
+flange coordinate system	نظام إحداثيات الشفّة
+flange coupling	وُصْلَة ذاتُ شِفَاه
+flange joint	وُصلة شَفَة
+flange joint; flange coupling (deprecated); coupling (deprecated in this sense)	وصلة حلقة نهاية
+flange rail	سكة مُشَفَّهَة
+flange sluice valve	صِمام سكينيّ بشفة
+flange style "C"; pressurizable choke flange (deprecated)	حلقة نهاية نوع "C"
+flange style "P"; pressurizable flange (deprecated)	حلقة نهاية نوع "P"
+flange style "U"; unpressurizable flange (deprecated)	حلقة نهاية نوع "U"
+flange type	نوع حلقة النهاية
+flange with spigot and socket	سدادة ذات فلنشة
+flange-lubricating device; flange oilers	تزييت الشَّفَة
+flanged connection	وُصلة مشفَّهة
+flanged fitting	تركيبة مُشَّفهة
+flanged joint	وُصلة مشفهة
+flanged pipe	أُنْبوب مُشَفَّه
+flanged seam	حافة مطوية
+flanged spigot; flange and spigot end piece	وُصلة بشفة
+flanges	شفاه
+flanging machine	آلة تشكيل الحوافّ
+flank collision in humping process	اصطدام جانبي عند الاهتزاز
+flank protection	حماية جَانِبية / حماية ضد خطأ المسار / حِمايَةُ الحَرَكَةِ
+flank protection (1)	حماية الجناح
+flank protection (2)	حماية عن بعد
+Flank Protection Are	مِنْطَقَةُ حِمايَةِ الحَرَكَةِ
+flank protection by light signal (only)	حماية جناح خفيفة
+flank protection provided by operative exclusions (non-technical)	حماية جناح غير مباشرة
+flank protection provided by points, derailers and signals	حماية جناح مباشرة
+flank wall	جدار جانبي
+flanking transmission	إرسال جانبي
+flannel	قماش فانلا
+flannel jersey	جيرسيه فلانل
+flannel yarn	خيط غزل قماش الفلانل
+flap	الغطاء الخارجي لخزان الوقود / سدلة / قلاّبة
+flap angle	زاوية القلاّبة
+flap attenuator	مُوهِن عريض مسطح
+flap blowing	نفخ القلاّبة
+flap fan	مروحة القلاّبة
+flap gate	مصراع
+flap gate, automatic / tilting gate / hinged-leaf gate	بوابة مُرتدة أوتوماتية
+flap pocket	جيب مُسدل / جيب بسديلة
+flap valve	صِمام ردّاد
+flap valve / flap gate	صِمام مُرتد
+flap weir / tilting gate weir	هَدّار ببوابة مُرتدة
+flap window	نافذة قلاّبة
+flap-position	موضع الجنيّحات
+flap-seat	كرسي يُطْوى
+flaperon	جُنيح قلاّب
+flapper dress	فستان أنيق
+flapper style	نمط فليبر
+flapping	رفرفة
+flapping angle	زاوية الخفقان
+flapping hinge	مفصل الخفقان
+flapping plane	مستوي الخفقان
+flapping; panting	خفقان
+flaps-eXtended speed	سرعة الطائرة بالقلاّبات الممتدَّة
+flare	شعلة / يتوهج / توهج / اتساع للخارج / تفجُّر
+flare (solar ..)	توهج (شمسي)
+flare demand	أمر الخَطَران النهائي
+flare dud	انفجار عديم القيمة
+flare gas recovery	استرداد غاز الشعلة
+flare lines	أنابيب حرق (الغاز)
+Flare Minimization	الحد من حرق الغاز
+flare path	طريق المشاعل
+flare shell	قذيفة إشارة، طلقة إشارة ضوئية
+Flare Stack	مدخنة الشعلة
+flare-path dinghy	زورق طريق المشاعل
+flare; flare out	خَطَران نهائي
+flared intersection	تقاطع بوقي
+flared leg	تصميم موسع
+flared shorts	سروال قصير
+flared skirt / gored skirt	تنورة الجرس
+flared tube	أنبوب موسَّع الفوهة
+flaring	حرق / حرق الغازات
+Flaring a Well	حرق الغاز الخارج من البئر
+flaring casing	حروق الغاز الخارج من أنبوب التغليف
+flaring the surplus	حرْق الفائض
+flaring well	بئر تَوهُّجية، بئر مشتعلة
+flash	وميض / ومْض، وَمِيض، بريق / برق
+flash barrier	حاجز الوميض
+flash board weir	هَدّار مزود بعارضة لتعلية العتبة
+flash burn	احتراق وميضي
+flash calculation	حساب سريع، حساب وميضي
+flash code	كود ومضي
+flash destillation	تقطير خاطف
+flash drum	دَوْرَق التقطير الومضي، دورق الانفلات
+flash dryer	مُجفِّف وميضيّ
+flash electrically erasable programmable read-only memory	الذاكرة FEEPROM
+flash evaporator	مبخر خاطف
+flash figure	شكل وميضي
+flash flood	فيضان خاطف / فَيَضان مفاجئ / فيضان مفاجئ
+flash joint casing	أنبوب تبطين بوصلة متساطحة
+Flash Memory	ذاكرة وميضية
+flash mixing	مزْج وميضيّ
+flash point	نقطة الالتهاب / نقطة الوميض
+flash point, ; FP	نقطة الوميض, الأجواء المتفجرة
+flash pyrolysis	انحلال حراري ومضي
+flash setting	تماسُك وميضي، شكّ ومْضي
+flash suppressor	مُثبِّط الوميض
+flash temperature	درجة الحرارة الومضية
+flash tube; electronic-flash lamp	صمام وميض؛ مصباح وميض الكترونى
+flash vacuum pyrolysis (FVP)	انحلال حراري ومضي مُفرغ (FVP)
+flash vaporization	تبخُّر ومْضي
+flash weld	لِحَام بتطايُر الشّرر
+flash welded	ملحوم بالقوس (الكهربائية)
+flash welding	لِحام الوميض / لحام بتطاير الشرر، لحْم وميضي
+flash-arc; Rocky-Point effect	ومضة قوس كهربائى
+flash-flood	سيل
+flash-over	انبجاس الشرر
+flashback	اشتعال خلفي / وميض خلفي
+flashboard	عارضة تعلية الذروة / عارضة تعليق الذروة
+flashboard, temporary	عارضة تعليق ذروة مؤقتة
+Flashdance style	أسلوب فلاش دانس
+flasher	ومَّاض
+flasher relay	مُرحّل ومضي / مُرَحِّل الدورة المتكررة
+flasher relay; repeat cycle relay	مُرَحِّل دورة متكررة؛ مُرَحِّل تقطيع الاشارة
+flasher unit	مُولّد ومضي / وحدة الوميض
+flashing	تبخير فُجائي / تبخير فجائي / إيماض
+flashing conspicuity beacon	وميض منارة واضح
+flashing light	ضوء وامض / وميض الضوء / ضوء ومّاض
+flashing light signal	أشارة ضوئية وميضية
+flashing off	تجفيف الوميض
+flashing signal	إشارة ومضية
+flashlight	ومضة تصوير / مِصْباح كَشَّاف، مِصْباح وَمْضي
+flashover	انهيار سطحي / وميض سطحى / وميض عابر / وميض لحظي
+flashover (of an insulator)	مسافة الشرارة
+flashover test	اختبار الوميض العابر
+flashover,	وميض كهربى,
+flashpoint	نقطة الوميض
+flashy stream	مَجرى وَمْضيّ / مجرى خاطف
+flat	منبسط / مُسطَّح / سطح الطبع
+Flat (1)	تسطح
+Flat (2)	مسطحة / مصطبة
+flat (multicore) cable	كابل مسطح ( متعدد القلوب )
+flat (residential…)	شقة
+flat -container	حاوية مسطحة
+flat arch	قوس منبسطة، قوس مسطحة
+Flat Battery Packs	حزم البطاريات المسطَّحة
+flat bed	سرير مستو
+flat bed facsimile transmitter	مرسل ناسوخ بمهد مسطح
+flat car	عَرَبَة مسطحُّة
+flat caused by overlong parking	تسطّح الإطار
+flat characteristic (of an arc welding power source)	(خصائص إستواء (لمصدر كهرباء اللحام بالقوس الكهربائى
+flat chisel	أجَنَة مُفلطحة
+flat circle-shaped commutator	مبدِّل دائري مسطح
+flat country	سهْل
+flat cuting	قطع مسطّح
+flat diameter	قُطر مسطَّح
+flat dimension	بُعْد لا يسمح بتفاوت
+flat fabric	أقمشة مسطحة
+flat fade margin	هامش اضمحلال مسطح
+flat file	مِبرد مُسطح
+flat flange; plain flange; contact flange; plane flange	حلقة نهاية مسطحة
+Flat Flexible Circuit (FFC)	دائرة مرنة مسطَّحة
+flat flywheel	حدّافة مُسطّحة
+flat formation	تشكيل مسطح
+flat four engine	محرك رباعي مستوي
+flat front trousers	سروال مسطح
+flat grain cutting	تقطيع مماسي
+flat grooves	شُقُوق مُسَطَّحَة
+flat leakage power	قدرة تسربِ مسطحة (مستويةِ)
+flat male tab	طرف (نهاية) توصيل ذكري مستوي
+flat male test tab	طرف اختبار ذكري مستوي
+flat nose pliers	زردية مُسطحة
+flat pad	منصة مستوية
+flat panel display	شاشة عرض مسطحة
+flat parachute	مظلة مستوية
+Flat plate collector	لوح مجمع شمسي مسطح
+flat plate PV	وحدة كهرضوئية مسطحة
+flat price	سِعْر ثابت
+flat quick-connect termination	نهاية مستوية للتوصيل السريع
+flat rack	رف مسطح
+flat rate	ثمن جزافي
+flat rate tariff	تعرفة موحدة
+flat riser	طائرة صعود منبسط
+flat roof	سقف مسطح / سقْف مسطَّح، سطْح أفقي، سقف مستوٍ
+flat seal	جوان مُفلطح
+flat sheet membrane	غشاء مسطح
+flat siX engine	محرك سداسي مستوي
+flat slab	بَلاطة مسطحة
+flat slab buttress dam / flat deck dam / Ambursen dam	سَدّ بواجهة مسطحة مثبت بدعامات
+flat sole	قَاع مستوٍ
+flat space-time	زمكان مسطح
+flat spin	انهيار حلزوني منبسط
+flat spot phenomenon	سلوك التسطح
+flat stitching	تجليد بسلك
+flat template	تمثيل منبسط / رسم منبسط
+flat top barge	طَوْف مسطَّح، صندّل مسطّح
+flat wagon	عَرَبَة مسطحة
+flat woven	أقمشة منسوجة مسطحة
+flat yarn	خيط شريطي / خيط غزل مسطح
+flat zone	منطقة منبسطة
+flat-bed press	ماكينة طبع بألواح مستوية
+flat-bed truck	سيارة نقل مسطَّحة، شاحنة ذات منصّة
+flat-crested morning glory spillway	مخروط المفيض ذوالعتب المسطح
+flat-H engine	محرك H مستوي
+flat-head rivet	برشام مسطَّح الرأس
+flat-plate collector	مُجَمِّع طاقة شمسية مُسطح
+flat-rated	ثابت المعدَّل
+flat-top	ذات السطح المنبسط
+flat-top antenna	هوائي القمة المسطحة
+flatcar	شاحنة مسطحة
+flatness	استواء
+flattened	مُنْبسِط
+flattened wire	سلك مصقول
+flattening	تَسْوِيَة / تفلطُح (الأرض) / تسطُّح
+flatting knife	سكين تسوية، سكين تمليس
+flatting putty	معجون تسوية، معجون تثبيت
+flaw	شقٌّ
+flaw,	خلل،, ؛ عطب،,
+flax	كَتَّان / كتَّان
+Flax brilliance	لمعان الكتان
+flax embroidery thread	خيط غزل كتاني للتطريز
+flax fabrics	قماش كتان
+flax fiber	ليف الكَتَّان
+flax waste	عوادم الكتّان
+flax yarn	خيط ألياف الكتان
+flea market flair / vintage flair	زي متقادم
+flecked fabric	عاصفة الثلج
+fleece	صوف الخِراف / صوف الخراف / قماش فراء صناعي / بسَاط صغير للبلاط
+fleece interfacing	بطانة وبرية
+fleet	أسطول
+fleet ballistic missile submarine	غواصة الصواريخ القذفية
+Fleet Charging	شحن الأسطول
+fleet leader	قائدة الأسطول
+fleet management	إدارة الأساطيل
+fleet management system	نظام إدارة الأسطول
+fleet management system (FMS)	نظام إدارة أسطول النقل (FMS)
+fleet noise level	مستوى ضجيج الأسطول
+fleet planning and scheduling	تخطيط وجدولة الأسطول
+fleeting information; transient information	معلومات حالة عطل
+flegt licence	رخصة إنفاذ قانون الغابات، الحكامة والتجارة
+flemish bond	رباط فلمنكي
+Flettner control	تحكم فْلِتْنر
+Flettner rotor	دوّار فْلِتْنر
+flex abrasion resistance	مُقاومة الانثناء
+Flex Award	قسط من المرونة
+flex disc	قارنة مرنة
+flex handle	مقبض مفصلي
+flex-rigid double-sided printed board	لوحة مرنه - صلبه مطبوعة على وجهين
+flex-rigid multilayer printed board	لوحة مرنه - صلبه مطبوعة متعددة الطبقات
+flex-rigid printed board	لوحة مطبوعة مرنة- صلبة
+flexibility	مرونة / طراوة، مُرونة / ليونة، انثنائية
+fleXibility factor	مُعامل المرونة
+flexibility premium	قسط من المرونة
+flexibility ratio	نسبة المرونة
+flexibility rule	قاعدة المرونة
+flexibilization	مَمْرَنة
+flexible	مَرن / ليِّن
+flexible AC transmission system	نظام نقل التيار المتناوب المرن
+flexible asphalt	أَسفَلت نَاعِم
+fleXible blade	ريشة مرنة
+flexible busbar	قضيب تجميع مرن
+flexible cable	كابل مرن / كبل مرن
+flexible cable (of an arc furnace)	كبل مرن ( للفرن القوسي)
+flexible conductor	موصل مرن
+flexible conduit	ماسورة مرنة
+flexible coupling	قَارِنة مَرِنَة، قَارِنة رخصة
+flexible double-sided printed board	لوحة مرنة مطبوعة على وجهين
+flexible drive	نقل حركة مرنة
+fleXible flight deck	سطح طيران مرن
+flexible foundation	أساس مرن
+Flexible Fueling Point Sign	علامة موقع التزود بالوقود المختلط
+flexible funding	تمويل مرن
+flexible funds	صندوق مرن
+flexible manufacturing cell	خلية التصنيع المرنة
+Flexible Manufacturing System	نظام تصنيع مرن (FMS) / نظام التصنيع المرن
+flexible mica material	مادة البلق المرنه (ميكا)
+flexible multilayer printed board	لوحة مرنة مطبوعة متعددة الطبقات
+flexible pavement	تَرْصِيفٌ مرن / تَرْصِيفٌ مَرِن / إكساء مَرِن / رصفة مرنة / رصْفة مَرِنَة
+flexible printed board	لوحة مطبوعة مرنة
+flexible screw conveyor	ناقل برغي مرن
+flexible signal	إشارة مرنة
+flexible single-sided printed board	لوحة مرنة مطبوعة على وجه واحد
+flexible solar panel	لوح شمسي مرن
+flexible support	دعامة مرنة
+fleXible take-off	إقلاع مرن
+flexible tongue	لسان مرن
+flexible tongue; spring tongue	لسان مرن
+flexible track section	مسارات مرنة
+flexible wall	جِدار مَرِن / جدار مرن
+flexible waveguide	دليل موجة مرن
+flexible wood	خشب مرن
+flexing work	الاحتكاك البيني لجدران الإطار الجانبية
+flexion resistance	مقاومة الالتواء
+flexographic printing (=flexography)	طباعة (ال...) الفلكسغرافية
+flexowriter	آلة كاتبة فلكسورايتر، آلة راقنة
+FlexRay	ناقل فليكس راي
+FlexRay Communication Cycle	دورة اتصالات فليكس راي
+FlexRay Differential Voltage	جهد تفاضلي لفليكس راي
+FlexRay Frame	إطار فليكس راي
+FlexRay Gateway	بوابة فليكس راي
+FlexRay Node	عُقدة فليكس راي
+FlexRay Protocol	بروتوكول فليكس راي
+fleXural aXis	محور الانحناء
+fleXural centre	مركز الانحناء
+flexural rigidity	جساءة الانحناء
+flexural rigidity of a plate	جساءة ألواح هيكل السيارة
+flexural strength	مُقَاوَمَة الانحِنَاء / مقاومة الانحناء، مقاومة الثني
+flexural strength test	اختبار مُقَاوَمَة الانحِنَاء
+flexural vibration	إهتزاز منحنى؛ إهتزاز جيبى
+fleXural wash-out	اجتراف الانحناء
+flexure	جسم نابض / انعطاف / طية
+flexure load cell	مستشعر خلية ميزان ذات بنية مرنة
+fleXure; inflection, infleXion; turn; turning	انعطاف
+flicker	ارتعاش / الارتعاش / إرتعاش؛ إضطراب؛ رجفـة / رعشة
+flicker (in television)	رجفة ( في التلفاز)؛ إرتعاش
+flicker control	تحكم الارتعاش
+flicker hue shift	تدرج إنحراف الإضطراب
+flicker index,	درجة الإرتعاش؛ درجة الإضطراب
+flicker indicator; flicker severity index	قياس الارتعاش؛ مؤشر شدة الارتعاش
+flicker noise	ضحيج متذبذب ( مرتعش ) / ضوضاء رجفية
+flicker photometer	وميض مضواء؛ مقياس الإرتعاش الضوئي
+flicker rate	معدل الارتعاش
+flicker vertigo	دُوار ارتعاشي
+flicker voltage range	مدى جهد الارتعاش
+flickermeter	مقياس الإرتعاش / جهاز قياس الارتعاش
+flier	درج مستقيم
+flight	سِرب
+flight advisory	إرشاد الطيران
+flight assist	مُساعَدة الطيران
+flight attitude	اتجاه الطيران
+flight characteristics	مميزات طيرانية
+flight compartment	حجرة الطيران
+flight control system	نظام تحكم الطيران
+flight controls	حاكمات الطيران
+flight crew	طاقم الرحلة
+flight cycle	دورة الرحلة
+flight data recorder	مُسجِّل بيانات الطيران
+flight deck	سطح الطيران / غرفة القيادة
+flight despatcher	مُسيِّر الرحلة / مُنجز الرحلة
+flight director	مدير الرحلة / مُوجِّه الرحلة
+flight duty period	فترة عمل طاقم الرحلة
+flight engineer	مهندس الرحلة
+flight envelope	غلاف الطيران
+flight flutter kit	أجهزة الرفرفة الطيرانية
+flight height	ارتفاع الطيران
+flight idle	خمول الطيران
+flight indicator	مؤشر الطيران
+flight indicator board	لوحة بيان الرحلات
+flight information centre	مركز استعلامات الطيران
+flight information region	منطقة استعلامات الطيران
+flight information service	خدمة استعلامات الطيران
+flight instruments	أجهزة الطيران
+flight level	مستوى الطيران
+flight Mach number	رقم ماخ الطيران
+flight management system	نظام إدارة الطيران
+flight manual	دليل الطيران / دليل تشغيل الطائرات
+flight number	رقم الرحلة
+flight of stairs	دورة درج
+flight panel	لوحة الطيران
+flight path	خط الطيران
+flight plan	خطة الطيران
+flight platform	منصة الطيران
+flight platform; heliport	مطار الطائرات العمودية
+flight profile	منحني الطيران
+flight progress strip	شريط تطور الرحلة
+flight rating test	اختبار القدرة الطيرانية
+flight recorder	مُسجِّل الطيران
+flight reference card	بطاقة مرجع الطائرة
+flight regime	نظام الطيران
+flight scraper	آلة تسوية
+flight service station	محطة خدمات طيرانية
+flight simulator	جهاز محاكاة الطيران / مُحاكي الطيران
+flight sister	ممرضة جوية / ممرضة طيران
+flight skimmer	مِرْغاة ذاتُ مِكْشَطَة
+flight space	مجال الطيران
+flight station	محطة طيران
+flight status	حالة الطائرة
+flight strip	شريط الرحلة / مدرج طيران
+flight surgeon	طبيب طيران
+flight test	اختبار طيراني
+flight test vehicle	مَركبة الاختبارات الطيرانية
+flight time	مدة الرحلة
+flight time; flying time	مدة الطيران
+flight visibility	مدى الرؤية الطيرانية
+flight-deck	مركز القيادة
+flight-director attitude indicator	مُبيِّن وضع مُوجِّه الرحلة
+flight-following	متابعة الرحلة
+flight-line	خط الطيران
+flight-path recorder	مُسجِّل خطّ الطيران
+flight-plan correlation	مطابقة خطط الطيران
+flight-readiness firing	إشعال استعداد الإطلاق
+flight; run; trip	رحلة
+flightpath	مسار الطيران
+flightpath angle	زاوية مسار الطيران
+flightpath computer	حاسب مسار الطيران
+flightpath deviation	انحراف مسار الطيران
+flightpath recorder	مُسجِّل مسار الطيران
+flightpath sight	رؤية مسار الطيران
+flightworthy	جدارة الطيران
+fliing block	كتلة تثبيت
+flint	ظِران / صَوَّان
+flint clay	ظِران طيني
+flint complexes	مُرَكَّبات ظِرّانية
+flint glass	زُجاج مُرصِّص
+flint powder	مسحوق الصّوَان
+flip	نقف
+flip charges	رسوم اصلاح الحاويات عند استخدامها في الطريق
+Flip Chip Land Grid Array	مَصْفُوفَة شَبَكَةِ السُّطُوحِ بِرُقاقَةٍ مَقْلُوبَةٍ
+flip flops	طَقْطَقِيَّة
+flip-flop	قلاّب ثنائي الاستقرار / قلاّب
+flip-flop circuit	دَارَة نَطَّاطة، دارة قَلاَّبَة
+float	عوامة / عومة طافية / خيط عائم / طوف مضاء / طوّافة / عوّامة / عَوْم
+Float Charge	الشحن العائم / شحن متذبذب
+float circuit	دائرة عائمة
+float collar; casing shoe	نَعْل التبطين
+float displacement	إزاحة العوَّامة
+float gauge	مِقياس بالعوامة
+float gauging	قِياس بالعوامة
+float gear	عُدَّة الطَّفْو
+float glass	زجاج عائم
+float light	تعويم الضوء / شعلة هوائية / ضوء عائم
+float mechanism	تجهيزة العوامة
+float needle valve	صمام إبري للعوامة
+float seaplane	طائرة مائية عوَّامة
+float shoe	نَعْل ذو صِمام، كَعْب صِمامي
+float switch	مفتاح بعوامة
+float valve	صِمام بعوامة / صمام عوَّامة / صِمَام ذو عَوَّامَة / صمام بعوامة
+float volume	حجم العوَّامة
+float-and-sink analysis	تحليل الحمأة
+float-type carburettor	مُفَحِّم ذو عوَّامة
+floatable	عائم
+floatation	طَفْو
+floatation gradient	تَدُّرج الطَّفو
+floatation; flotation	طَفْو
+floatation; flotation; weigh-off	تعويم
+floated asphalt	أسفلت مصهور، أسفلت عائم
+floating	طَافٍ، عَائِمٌ
+floating ailerons	جنيحات عائمة
+floating battery	بطارية عائمة
+floating bodies	أجسام طافية
+floating bridge	جسر عائم
+floating calliper [UK] / floating caliper [US]	سرج قبضوي
+floating cone	عوّامة مخروطية
+floating crane	رافعة عائمة
+floating derrick	برج حفر عائم
+floating dock	رصيف عائم
+floating drill tender	مَرْكب تموين الحفْر، مَرْكب الحفر
+floating element	عُنْصُرٌ حُرٌّ (محدد بدرجة حرية واحدة أو أكثر)
+floating foundation	أساس عائم
+Floating Gap controller	ضابط الفجوة غير المُستقر
+floating gudgeon pin	مسمار الرسغ العائم
+floating gyro	جَيرو عائم
+floating input circuit	دارة خرج مؤرضة
+floating leaf zone	مِنطقة نباتات ورقية طافية
+floating mark	علامة عائمة / علامات عائمة
+floating matter	مادة طافية / مادة عائمة
+floating mud cap	غطاء من طين عائم
+Floating Offloading Platform	منصة تفريغ عائمة
+floating output circuit	دارة دخل معزولة كلياً
+floating panel dress / petalled dress / floating panel skirt / petalled skirt	فستان مخروطي، تنورة مخروطية
+floating platform	مِنَصَّة عائمة
+floating point	علامة عشرية / نقطة عائمة
+Floating Production, Storage and Offloading (FPSO)	إنتاج وتخزين وتفريغ عائم (FPSO)
+floating reticle	عدسة عينية عائمة
+floating rig	منصة حفر عائمة (دون قاعدة ثابتة)، برج حفر عائم
+floating ring drive	نقل حركة حلقة حرة؛ عائمة
+floating roof tank	خَزَّان عائمُ السّطح
+Floating Roof Tanks	خزانات ذات أسطح عائمة
+floating sludge plate	مِكْشَطة الحمأة الطافية
+floating sludge; scum	حَمأَة طافية
+Floating Solar Energy	طاقة شمسية عائمة
+floating solid	مادة عائمة
+floating solids	قَشْط (المُتبقي من الشوائب على سطح سائل ما)
+Floating Storage Tankers	ناقلات ذات وحدات تخزين عائمة
+Floating Tank	خزان عائم
+floating the casing	تعويم التنبيب، تقويم أنبوب التغليف
+Floating Track Slab	بلاطة المسار العائمة
+floating voltage	الجهد العائم
+floating water	مياه عائمة
+floating-drift-tube klystron	صمام مولد موجات ازاحيه متحركة
+floatplane	طائرة طافية / طائرة عوَّامة
+floc	نُدَف / ندفة
+floc (floe)	طافية جليدية
+flocculant	مُنَدِّف / مُندِّف
+flocculant settling	ترسيب الندف
+flocculated structure	هيكلية متندفة
+flocculation	ترويب / تنديف / تخثير / اندِمَاج الدَّقَائِق المُتَرَسِّبَة؛ تَثفِيل / تندُّف / تسبُّخ، تلبُّد / تحوْصُب
+flocculation filtration	ترشيح بالتنديف
+flocculation limit	حَدُّ التندف
+flocculation ratio	نِسبة التندف
+flocculation tank	صهْريج التسبّخ، صهريج التلبّد
+flocculator	مُنَدِّف / مُندِّف
+floccule	نَدْف
+flocculent	نديف
+flocculent filter	مُرشِّح تنديف
+flock	سرب
+flock bast	ألياف لحائية قطنية
+flock bast yarns	خيوط غزل من ألياف لحائية
+flock chenille	قماش شينيل الوبري
+flock silk	ندف الحرير
+flock size	حجم الندف
+flock yarn	خيط مبروم بسطح وبري / خيط غزل بسطح وبري / خيط غزل هبوي
+flocked yarn	خيط غزل وبري
+floconné	فلوكونيه
+Flokati	فلوكاتي
+flood	فيضان
+flood (protection) wall	حائط وقائي من الفيضان
+flood / flooding / flood water / freshet	فَيَضان
+flood abatement	تخفيف حدة الفيضان
+flood absorption	امتصاص الفيضان
+flood axis	اتجاه تيار الفيضان
+flood basin; flood plain	سَهْل فَيْضيّ
+flood control	وقاية من الفيضان / تحكم بالفيضان / ضبط الفيضانات
+flood control storage	حيز تخزين مياه الفيضان / تخزين للتحكم في الفيضان
+flood crest	ذروة الفيضان / قمة الفيضان
+flood damage / flood losses	خسائر الفيضان
+flood dimensioning	أقصى تدفق للفيضان
+flood duration; flood period	مدة الفيض
+flood event	حَدَث فيضان
+flood flow	جريان فيَّاض
+flood forecasting	توقع الفيضانات
+flood frequency	تردد الفيضان / تكرار الفيضان / تواتر الفيضانات
+flood gate	بوابة الفيضان / هَدَّار حقليّ / بوابة المَدّ العاليّ
+flood hazard area	منطقة خطر الفيضان
+flood hydrograph	رسم خَط الفيضان
+flood index	دليل الفيضان
+flood irrigation	رىّ بالغمر / ريّ بالغمر السطحيّ / ريّ بالغمر
+flood level	مستوى الفيضان
+flood lubricated bearing	كرسي تحميل مزيت بالغمر؛ محمل مزيت بالغمر
+flood management	إدارة الفيضانات
+flood mark / high-water mark	علامة الفيضان
+flood meter	مِقياس منسوب الفيضان
+flood of refugees	تدفق اللاجئين
+Flood of the century	فيضان القرن
+flood on (to)	دَفَعَ إلى الضفة
+flood plain	سَهْل الفيضان / سهل فيضي / حوض فيضان
+flood probability	احتمال الفيضان
+flood protection	وقاية من الفيضان / حماية من الفيضان / وقاية من الفيضانات
+flood protection measure	تحكّم في الفيضان
+flood regulation	تهذيب المجرى للتصريفات العالية
+flood relief channel	قناة تصريف الفيضان
+flood retarding basin / flood control reservoir	حوض إعاقة مياه الفيضان
+flood retention	احتجاز مياه الفيضان
+flood routing	مَسار الفيضان / تتبع موجة الفيضان
+flood routing (with detention reservoir)	مَسار مَوجيّ في خزان
+flood routing (without detention reservoir)	تتبع مسار موجي بالمجرى
+flood runoff	مَدَد نهريّ فيضيّ
+flood serie	سلسلة الفيضانات
+flood soil	تربة مغمورة
+flood stage	مرحلة الفيضان
+flood stage / flood water level	منسوب الفيضان
+flood storage basin	حوض تخزين مياه الفيضان
+flood tide	ارتفاع المد
+flood valve	صمام فيضاني
+flood volume	حَجْم الفيضان
+flood wall	حائط حماية من الفيضان
+flood warning	إنذار بحدوث الفيضان
+flood wave	موجة الفيضان
+flood with a flattened top	فَيَضان عريض الذروة
+flood zone	مِنطقة الفيضان
+flood, confined	فيضان محتمل
+flood, extraordinary	فَيَضان فوق العادة
+flood, minimum annual	أقَلُّ فيضان سنويّ
+flood, peak / flood , momentary peak / flood, maximum intensity of	ذروة الفيضان
+flood, sharp-crested	فَيَضان حاد الذروة
+flood-control reservoir	خزان التحكم بالفيضان
+flood-control works	منشآت التحكم بالفيضان
+flood-tide and ebb-tide	مَدٌّ وجزر
+flood; flooding	مَدّ
+flood; flooding; inundation	غَمْر
+floodable pavement	رَصِيف فَيضِي
+flooded area	منطقة مغمورة
+Flooded Cell	الخلية المغمورة
+flooded well	بئر غارقة
+flooding	ابتلال شمعات الشرر / فيض / غَمْر / غمر / تحبير زائد / فيضان
+flooding from ditches	غَمر من الخنادق
+flooding, controlled	غَمْر مُتَحَكَّم فيه
+flooding, frequency of	تكرار الغمر
+flooding, wild; flooding, free	غَمْر حُرّ
+floodlight	إنارة غامرة / ضوء غامر
+floodlighting	إضاءة غامرة
+floodlighting installation	تجهيزات إضاءة غامرة؛ تركيبات ضوء غامر
+floodplain	سهل فيضانات
+floodway	مسرب الفيضان
+floodway; flood bypass; flood diversion channel	قناة فرعية
+floor	أرضية
+floor (storey, story)	طابق
+floor access unit	وحدة تفتيش أرضية
+floor beam	عَارِضَة الأَرضِيَّة
+floor block	بكرة أرضية (في برج الحفر)
+floor boards	ألواح تطبيق
+floor cavity index	مؤشر تجويف الارضية؛ معامل تجويف الارضية
+floor cavity ratio	نسبة تجويف الارضية
+floor conveyor	ناقل أرضي
+floor drainage / floor gully	بالوعة أرضية
+floor drainage with odour trap	بالوعة مزودة بمانع لتسرب الرائحة
+floor drainage without odour trap	بالوعة بدون مانع لتسرّب الرائحة
+floor heating	تدفئة أرضية
+floor jack	مرفاع بعجل
+floor men	عمال قاعدة برج الحفر، عمال أرضيون، مساعدو الحفار
+floor of bridges	أرضية القناطر
+floor plan	مخطط طابق / مُسْتَوَى الأرضية، سَطْح الأرضية
+floor price	سعر التداول
+floor service unit	وحدة خدمة أرضية
+floor shell	قشرة القاع
+floor slab	بَلاطة أرضية
+floor storage	تخزين أرضي
+floor tiles	بلطات أرضية
+floor varnish	برنيق أرضيات
+floor vent	فتحة تنفيس أرضية / مَهواة أرضية
+floor-board	لوح أرضية خشبية
+floor-level conveyors	ناقلات على مستوى أرضي
+flooring system	تركيب الأرضية
+flop	تخبط؛ هبوط مفاجىء
+flora	حياة نباتية / فلورة / نبات
+floral	مزهَّر
+floral chintz	نسيج شِيت بالأزهار
+floral pattern	نموذج زهري
+Floran	فلوران
+Florentine silk	فلُورَانْس
+Florentine tulle	تُول فلورنسي
+florette / barella	خيط مُشاقة الحرير
+florette silk	مُشاقة الحرير
+florring; flooring board	تأريض
+floss silk	حرير مجدول
+flotation	طفْو / طَفْو / تعويم / تَعْوِيم / طفو
+flotation bags	أكياس الطَّفْو
+flotation collars	أطواق الطَّفْو
+flotation gear	أجهزة التعويم / أجهزة الطَّفْو
+flotation system	مُنشأة الطفو
+flotation tailings	رغوة طافية
+flotsam	مادة طافية
+flounce	كَشْكَشة
+flow	تدفّق / صَبِيبٌ، تَدَفُّق / جَرَيان / انسياب، تدفُّق / جريان / جَرَيَان / تدفق
+flow augmenter	مساعد الانسياب / مُعزِّز الجريان
+flow balancing	تقليص الدفق
+Flow Battery	بطارية التدفق
+flow bean	سطام لضبط الجريان
+flow bottom hole presure	ضغط الجريان في قعر البئر
+flow brake	عائِق تيار
+flow channel	قناة إطلاق الخليط
+flow chart	مخطط جريان العمليات / مخطَّط التدفّق، مخطَّط الصَّبيب
+flow connection	تجهيزة لتوجيه مياه الفيضان
+flow control	موازنة التصريف / تحكم التدفق / ضبط انسياب المرور / التحكم في التدفق
+flow control valve	صِمام تحكم بالجريان
+flow curve	منحنى الجريان
+flow diagram; flow chart	مُخطَّط بياني وظيفي
+flow direction	اتجاه تدفق
+flow disrupter	مُعَطِّل الجريان
+flow distortion	تشوه التدفق
+flow disturber	قاطع النفْث
+flow element	عُنْصُر سَيلاََن
+flow equalization	مُوازِن الجريان
+flow field	حقل التدفُّق
+flow folding	طي الانسياب
+flow head	رأس التدفّق
+flow improver	مُحسن سيولة
+flow in a partially filled sewer	صرف في حالة الامتلاء الجزئيّ
+flow limit	تَصْرِيف حَدّيّ
+flow lines	خطوط تدفق / أنابيب الجريان، خطوط التدفق
+flow measurement	قياس مُعدَّل التدفّق
+flow measurement method	طربقة قياس مُعدَّل التدفّق
+Flow Measuring Station	موقع قياس
+flow meter	عداد سرعة التدفق، مقياس الصبيب / مقياس التدفق
+flow net	شبكة جريان
+flow net, transformed	شبكة تدفق انتقالية
+flow of combined water, critical	تَدفُّق حرج لمياه الصرف المُختلطة
+flow of national income	تدفُّق الدخل القومي
+flow of stored stormwater	تصريف حوض تخزين مياه الأمطار
+flow path section as P element	منظومة مضبوطة التدفّق كعنصر تناسبي
+flow pattern	مخطَّط الجريان، تشكيل الجريان
+flow pattern; flow net	شبكة الجريان
+flow percentage	النسبة مئوية للتصريف
+flow pipe	أنبوب انسياب
+flow polder / floodway	مسرب الفيضان
+flow rack storage	تخزين الرف المتدفق
+flow rack, gravity store	رف متدفق/ مخزن الجاذبية
+flow rake	زاوية مَيْل الجريان
+flow rate	قدرة النفاذ (كمية المواد المارة عبر أنبوب مثلاً في فترة زمنية معينة) / نسبة تدفّق / نسبة التدفق / معدَّل الجريان / معدل التدفق
+Flow Rate Calculation	حساب معدل التدفق
+flow rate in the pipe as a function of the differential pressure	نسبة التدفّق في أنبوب بالضغط الفعَّال
+flow rate; delivery rate; feed rate; output	مقدار الضخ
+flow rator	منظِّم التدفق
+flow recorder	مسجِّل التدفق
+flow regime	نظام الجريان
+flow resistance	مقاومة الجريان / مقاومة التدفقِ - مقاومة سريان
+flow resistivity	مقاومية التدفق - مقاومية السريان
+flow section; discharge section	مِساحة المقْطَع المستعرض للسريان
+flow sheet	مخطط بياني للتدفق / رسم بياني لتتابع العمليات، ترسيمة سير العمل
+flow simulation	مُحاكاة التصريف
+flow slide	انزلاق جريان / انزلاق انسيابي
+flow splitter	مُقسِّم جريان
+flow storage roller conveyor	ناقل بأسطوات دوارة ذات تخزين متدفق
+flow string	مجموعة أنابيب الانتاج
+flow structure	بِنْيَة انسيابية
+flow tank	صِهْريج التخزين
+flow temperature	درجة حرارة التدفق
+flow test	اختبار الانتاج، اختبار التدفق
+flow test analysis	اختبار تحليل القدرة الإنتاجية
+flow time	زَمَن التَّدَفُّق
+flow time / time of concentration / period of concentration	زمن الجريان
+flow transition	تغيُّر في سرعة الجريان
+flow treater	وحدة معالجة النِّفط
+flow value	قيمة الجريان
+flow velocity	سُرعَة التدفُّق
+flow velocity in the pipe as function of differential pressure	سرعة التدفّق في أنبوب بالضغط التفاضلي
+flow velocity, critical	سرعة الجريان الحرجة
+flow velocity; stream velocity	سرعة التدفق
+flow Water Heater	سخان ماء فوري
+flow well head pressure, (F.W.H.P.)	ضغط الجريان في فوهة البئر
+flow year; water year	السنة المائية
+flow, average	مُتوسط السريان
+flow, closed conduit	تَدُّفق موصل مقفول
+flow, critical	تَدفُّق حرِج / سُرعة الجَرَيان الحَرِج
+flow, drowned / flow, submerged	تَدفُّق مغمور
+flow, dry weather	تَدفُّق في الطقس الجاف
+flow, free	تَدفُّق حر
+flow, isolated roughness	تَدفُّق مجرى منفصل الخشونة
+flow, laminar; streamline flow, steady flow	تَدفُّق صفائحيّ
+flow, laminary / flow, laminar	تَدفُّق صفائحيّ
+flow, non-permanent / flow, variable / flow, non-uniform / flow, varied	سَرَيان غير مُنتظِم
+flow, non-uniform	تَدفُّق غير مُنتظِم
+flow, quasi-smooth; flow, skimming	تَدفُّق شبه سلِس
+flow, rapid	جَرَيان سريع
+flow, return-sludge	تَدفُّق الحمأة الراجعة
+flow, smooth channel	تَدفُّق في مجرى أملس
+flow, steady	تَدفُّق مُستقِر
+flow, steady non-uniform	سَرَيان مستقِر غير منتظِم
+flow, streaming	تَدفُّق سَيَّال
+flow, sub-critical	سُرعة تَدفُّق دون الحرج
+flow, subcritical	سَرَيان تحت الحرج / تَدفُّق
+flow, super-critical	سرعة تدفُّق فوق الحرج
+flow, supercritical	تدفق مندفع
+flow, supercritical/ torrential	سَرَيان فوق الحرج
+flow, tortuous	تَدفُّق مُلتوٍ
+flow, tranquil	جَرَيان هادئ
+flow, turbulent	تَدفُّق مُضطرِب
+flow, uniform	سَرَيان مُنتظِم / سريان مُنتظم
+flow, unsteady	سريان غير مستقر / تَدفُّق غير مطرد
+flow-control valve	صمام التحكم في الجريان
+flow-net / flow pattern, transformed	شبكة تدفق انتقالية
+flow-proportional composite sample / flow-proportional mixed sample	عيّنة مُركّبة مُتناسبة التدفّق
+Flow-Through Temperature Sensor	حساس تدفق درجة الحرارة
+flow-through test	اختبار التدفق
+flow; discharge	سَرَيان
+flow; runoff	تصريف (عملية)
+flowage line	خط التدفق الكنتوري
+flowback	جريان خلفي
+flowchart	مُخطَّط سير البرنامج / مُخطّط انسياب / رسم بياني وظيفي
+flower	زهر / زهرية
+flower power style	أسلوب قوة الأزهار
+Flowering Atacama desert	صحراء أتاكاما مزهرة
+flowing water (pl.) / watercourse (pl.)	ماء جارٍ
+flowing well	بئر متدفقة
+flowline	خط جريان
+flowlines (pipes from gathering centre to storage tank)	خطوط نقل (أنابيب نقل من مركز التجميع الى خزانة نفط)
+flowmeter	مِقياس الصرف / مقياس التدفق / مقياس الجريان
+flowrate coefficient	معامل تصريف
+fluctuating energy input	تغذية مُتراوحة
+fluctuating feed-in; fluctuating energy input	إمداد مُتذبذب
+fluctuating water table	طبقة المياه الجوفية المتقلّبة
+fluctuation	تَقَلُّب
+fluctuation of water table; phreatic fluctuation	تذبذب منسوب المياه الجوفية
+fluctuations	ضوضاء (ضجيج) (لجهاز قياس)
+flue	مِدخنة / مصرف الأدخنة / مَدْخَنة
+flue gas	غاز المدخنة / غاز المداخن / غاز المدْخَنة، غاز الاحتراق
+flue gas desulfurization (FGD)	إزالة الكبريت من غاز الاحتراق / إزالة الكبريت من غاز المداخن
+flue gas purification	تنقية غاز المداخن
+fluence (particle)	تدفق (جزيئ)
+fluence rate (particle); flux density (particle)	معدل تدفق (جزئ)
+Fluence; Flow	تدفق
+fluerics; fluidics	تقنية الميوعة
+fluff paper	ورق موبّر
+fluid	مائع / مائِع
+Fluid Catalytic Cracking Unit	وحدة تكسير المقطرات بالوسيط الكيميائي / وحدة تكسير وساطي انسيابي / وحدة التكسير بالعامل الحفاز المائع
+Fluid Coking	تفحيم سائل / تَكْوِيك انسيابي
+fluid container (AC)	خزان وسيط التبريد (مكيف الهواء)
+fluid density	كثافة مائع
+fluid dynamics	علم القوى المائية / تحريك الموائع
+fluid dynamics; fluid mechanics	عِلم حركة الموائع
+fluid flow	تدفق السوائل
+fluid level; liquid level	منسوب السائل، منسوب المائع
+fluid mechanics	ميكانيكا السوائل / ميكانيك الموائع
+fluid pressure	ضَغْط المائع
+fluid resistance	مقاومة الموائع / مقاومة المائع
+fluid sample	مِسْبَر اعْتِيَان السوائل، جهاز اعتيان السوائل
+fluid-filled cable; liquid filled cable (North America); oil-filled cable	كابل مملوء بالسائل (أمريكا الشمالية)؛ كابل مملوء بالسائل؛ كابل زيتي
+fluidic constant	ثابت التدفّق
+fluidification	إماعة
+fluidised bed	فرشة مميَّعة
+fluidised bed incinerator	محرقة بسرير مُمَيع
+fluidised-bed boiler	مرجل ( غلاية) بطبقة مميّعة
+fluidity	ميوعة / مُيُوعة
+fluidization	تسييل - تمييع / تمييع / تسييل
+fluidized bed	فَرْشَة مُمَيَّعة / طبقة مميعة / قاعدة مُمَيَّعَة / فرشة مُميّعة
+fluidized bed coating	طلاء في مسبح مميع
+fluidized bed combustion	حرق على سطح مُميِّع
+fluidized bed furnace	فرن ذو مهد مائع
+fluidized bed reactor	مُفاعِل ذو فرشة مميعة / مفاعل الفَرْشَة المميعة
+fluke of anchor	ذراع الاتجاه، ذراع الإرساء
+flume	مسيل اصطناعيّ / قناة قياس / قناة تحويل مياه الصرف / قناة / مَسِيل
+fluorapatite	فلوراباتيت
+fluorescence	فلورية / تَفَلْوُر / لَصَفٌ
+fluorescent	تفلور / متفلور / لاصِف
+fluorescent lamp	مصباح تفربغ فلوري / مصباح متفلور / مصباح فلوري
+fluorescent material	مادة فلورية
+fluorescent penetrant crack detection	كشف الثقوب المخترقة و اللاصفة
+fluorescent radiant efficiency	كفاءة الاشعاع الفلورى
+fluorescent screen	شاشة فلورية
+fluorescent sign	إشارة فلورية
+Fluorethylene fibers	ألياف الفلورو إيثيلين
+fluoridation	فَلْوَرة / معالجة بالفلور / فلورة (الماء)
+fluoridation of drinking water	معاملة ماء الشرب بالفلوريد
+fluoride	فلوريد
+fluorimeter	مقياس الفلورية
+fluorinated fibers	ألياف الفلوريد
+fluorite	فلورايت
+fluorocarbons	كربونات متفلورة
+fluorochlorinated hydrocarbon (CFC)	مركبات الكربون الكلورية فلورية / مركبات الكربون الكلورية الفلورية
+fluorographic film	فيـلـم للتصوير الإشعاعي
+fluorophor; phosphor; luminophor	مادة متفسفرة؛ مادة مضيئة
+fluoroscope	فلوروسكوب ،مكشاف الفلورية / مكشاف فلوري
+fluoroscopic screen	شاشة صور فلورية
+fluoroscopy	فلوروسكوبي(مكشاف الفلورية) / استكشاف فلوري
+fluorspar	فلورسبار
+flurry	عاصفة مطرية
+flush antenna	هوائي متساطح
+flush boring; jetting drilling; wash drilling	حفراجترافيّ
+flush deck	سطح سفينة مستوٍ
+flush door	باب متساطح، باب الرأس / باب متسطح
+flush drilling	حَفْر بالحقن
+flush formation	تكوين متساوي الارتفاع، تكوين متساطِح
+flush intake	مدخل متساطح
+flush irrigation	رى بالسريان الصفائحى
+flush joint	وصلة متساطحة / وصلة مُتَسَاطِحة، وصلة ملساء
+flush joint casing	أنبوب تبطين بوصلة ملساء
+flush kerb	حَافَة سوية
+flush lights	أضواء ساطعة
+flush on warning	اندفاع عند الإنذار
+flush production	إنتاج تدفقي، انتاج غير منظم
+flush rivet	برشام متساطح
+flush shoulder	حافة طريق متساطحة، طوار متساطح
+flush tank	خَزّان شطف
+flush tank; flushing chamber	سيفون مُعالَجة مياه الصرف المنزلية
+flush toilet	مِرحاض كسح
+flush toilet, water saving	مِرحاض كسح مقتصد للمياه
+flush tool joint	وصلة مستوية
+flush valve	صِمام شطف
+flush weld	لِحام متساطح
+flush welding	لحْم مُتساطِح
+flush-bolt	محزقة غاطسة الرأس
+flush-mounted antenna	هوائى سطحى
+flush-mounted, adj	تركيب متساطح
+flushed soil	تربة مخصَّبة
+flushed zone	منطقة طفيان مائع الحفر
+flushing	كَسح / ظهور البراعم / طرد
+flushing / rinsing / scouring / undercutting	جَرْف التربة
+flushing auger	مثقب حقن، مثقب كَنْس
+flushing conduit	قناة الكَسح
+flushing gate	بَوّاَبة الكَسح
+flushing intensity	شدة الكسح
+flushing oil	زيت للتنظيف، زيت للشطْف
+flushing oil catalyst knock-out drum	وعاء فصل زيت التنظيف عن الوسيط
+flushing oil catalyst knock-out pot	بَوْتَقة فصل زيت التنظيف عن الوسيط
+flushing shield; scouring shield; scouring plate	درع الكسح
+flushing station	محطة الشطف
+flushing system	نظام الشطف
+flushing valve	صمام الطرد
+flushing water tank	خزان مياه الشطف
+flushings	نواتج الشطف
+flute (to)	حزَّ، خدّد
+fluted pillar; fluted column	عمود مخدد
+fluted roller	ملف محزَّز
+fluted tube	أنبوب مخدَّد
+fluting gouge	مظفار التخديد
+fluting plane	مسحاج التخديد
+flutter	إرتجاف / رَفْرَفَة
+flutter dress	فستان شمسي
+flutter echo	صدى مرتجف- صدى طاف
+flutter model	نموذج الرفرفة
+flutter speed	سرعة الرفرفة
+fluvial	نهريّ / نهري
+fluvial deposit	رواسب نهرية
+fluvial deposits	رسوبيات نهرية
+fluvial transport	نقل نهري
+fluviatile accretion	طمي نهري
+fluvio-glacial deposit	رواسب الأنهر الجليدية
+fluvio-glacial drift	حمولة النهر الجليدي
+flux	مساعد صهر / تدفق / فَيْض / صَهِيرَة لِحَام / حافز الانصهار / صَهيرة لِحام
+flux adjustment	تعديل التدفقات
+flux code,	كود تدفق,
+flux density	كثافة التدفق / كثافة الفيض
+flux density meter	جهاز قياس كثافة الفيض
+flux flattening	تسطُّح التدفق
+flux growth	نمو تَدَفُّقي
+flux lock hopper	قَادُوس الْهَوِيس الصّاعِد
+flux meter	جهاز قياس التدفّق المغناطيسي / مقياس شدة الفيض المغناطيسي
+flux of sound energy	تدفق الطاقة الصوتية
+flux oil	زيت التمديد
+flux or water flux	تدفق المياه
+flux quantum; fluxoid quantum	كـَـم فـيـض
+flux rate	معدل التدفق
+flux refraction	انكسار خطوط التدفق
+flux triplet,	تدفق في ثلاث زوايا مجسمة,
+fluX; spillover	فَيْض
+fluxed asphalt	أسفلت مطري
+fluxed bitumen	قَارٌ مُذَاب
+fluXgate	بوابة الفيض
+fluXgate compass	بوصلة بوابة الفيض
+fluxing	إماعة (لتسهيل التدفّق)
+fluxing oil	زيت التمديد
+fluxmeter	مقياس التدفق المغنطيسي
+fluXvalve	صمام الفيض
+fly - ash	رماد طائر
+fly ash	رَمَاد مُتَطَايِر / رماد طائر / رماد متطاير / رَمَاد متطايِر، رَمَاد لَصُوقٌ / رماد مُتطايِر / رماد مُتطاير
+fly before buy	طيران قبل الشراء
+fly nut	صَامُولَة مجنَّحة
+fly shunting	تحويل آلي
+fly spray	مبيد حشرات للذباب
+fly-ash	رَماد مُتطايِر / رماد متطاير
+fly-away cost	كلفة الطائرة الجاهزة للطيران
+fly-away disconnects	انفصال عند الطيران
+fly-back	لباس السباح
+fly-back period	فترة الارتداد
+fly-back time	زمن الارتداد
+fly-back vehicle	مَركبة راجعة
+fly-back; retrace	إرتداد (رجوع)
+fly-by	طيران قريب
+fly-by wire	سلك الطيران
+fly-front	أزرار البنطلون الأمامية
+fly-leat	ورقة حافظة، ورقة مرفرفة
+fly-off	طيران استعراضي
+fly-over junction (pipes etc.) / crossing works	مجاري مائية مُتقاطعة
+fly-over noise	ضوضاء العبور
+flyback converter	مغير خلفي / مغيّر خلفي
+flyback diode	دايود ارتدادي
+flybar	قضيب طائر
+flyco; flying controls	تحكم الطيران
+flying	طيران
+flying angle support; running angle support	حامل الزاوية الصغيرة
+flying boat	طائرة مائية / مركب طائر
+flying buttress	كتب تدعيم، زافرة
+flying cable	كَبْل الطيران
+flying condition	ظروف الطيران
+flying field	مطار
+flying junction	تقاطع الطيران
+flying machine	آلة طائرة
+flying position	وَضْع الطيران
+flying rigging	حبال الطيران
+flying shears	مقص الطيران
+flying speed	سرعة الطيران
+flying spot	بقعة طائرة
+flying stovepipe	أنبوبة التَّنُّور الطائرة
+flying tail	ذيل طائر
+flying testbed	منصة اختبار طائرة
+flying weight	وزن الطيران
+flying wires	أسلاك طائرة
+flying-spot scanner	ماسح ضوئي البقعة السريعة
+flying-spot scanner tube	صمام مسح ذو نقطة متحركة
+flying-spot telecine	محوّل سينيمائي-تلفزيوني بنقطة ضوئيّة
+flying-tab control	تحكم سُطيح الطيران
+flywheel	حدافة المحرك / حدافة / حدَّافة
+Flywheel Energy Storage (FES)	تخزين الطاقة الحركية / تخزين الطاقة بالحدافة
+flywheel mass	حدّافة
+flywheel mass storage	خزّان طاقة بحدّافة
+flywheel side	جانب الحدافة
+flywheel storage	خزّان طاقة بحدّافة
+flywheel synchronization circuit	دائرة تزامن الدولاب
+FM process	طريقة الإشعال بمصدر خارجي باستخدام الكرة الداخلية
+FM; frequency modulation (FM)	تضمين التردد
+FMEA method	طريقة FMEA
+foam	رغوة / مادة رغوية عازلة؛ فوم / رَغْوة
+foam backing	خلفية رغوية
+foam carpet	سجادة رغوية
+foam concrete	خرسانة رغوية
+foam destruction equipment	تجهيزة إزالة الرغوة
+foam extinguisher	مِطْفَأَة رَغَوِية
+foam formation	تكوُّن الرغوة
+foam fractionator / surface-stripping device	تجهيزة فصل الرغوة
+foam glass	زُجَاج خِفَاف، زُجَاج زُبْدي
+foam mattress	مرتبة إسفجية
+foam separation	فَصْل الرغوة
+foam stone	صخْر رَغَوِي
+foam strip	مدرج رغوي
+foam; froth	زَبَد
+foamed bitumen	قَار رَغَوِيّ
+foamed plastics	لدائن رغوية
+foaming agent	عَامِل رَغَوِي، مُنتَج رَغَوِي
+foaming space	فراغ الزَّبَد
+focal length	بُعد بؤري
+focal plane	مستوى البؤرة / مستوي بؤري
+focal plane deviation; FPD	إنحراف المستوى البؤرى
+focal point	نقطة البؤرة / نقطة التجميع
+focal spot	بقعة بؤرية
+focal track	مسار بؤري
+focalpoints for exploration	منطقة استكشاف مُستهدفة
+focus	بؤرة
+focused grid	شبكة مُرَكَّزة
+focusing	تَركيز
+focusing coil	ملف تركيز مغناطيسي
+focusing cup	تَركيز قدحى
+focusing electrode	قطب تَركيز
+focusing magnet	مغناطيسِ دائم للتركيز المغناطيسي
+focusing reflector	عاكس تركيزى
+focusing sonde	مِسْبَر مُحْكَم، مِسْبَر حَاصِر
+focusing system	نظام تركيز بؤري
+focussing	تَبْئير
+fodder	علف
+foehn	رياح جبلية دافئة / رياح فون
+foehn; föhn	رياح جبلية
+fog	ضباب
+fog (of radiographic film)	ضباب (مِنْ الفيلمِ الإشعاعيِ)
+fog formation	تكوين الضباب
+fog lamp	لمبة الضباب / مصباح الضباب الخلفي
+fog lamp [UK] / fog light [US]	كشّافات الضباب
+fog tracks	أثر الضباب
+foggara (or qanat)	فجّارة
+fohn’s climate classification	نظام فُوهَن المناخي
+foil	ورقة
+foil yarn	خيط غزل وبري
+fold	طية / ثَنْيَة / طَيَّة
+fold burning-in machine	طواية بالحرارة
+fold limbs	حَنَايا الطَّيَة
+fold mountains	جبال مطوية
+fold Over Neck	ياقة منكسرة
+fold-away weatherproof jacket	سترة واقية
+folded	مطوي
+folded balun; Pawsey stub balun	بالون قابل للطي
+folded dipole (antenna)	ثنائى قطب مطوى(هوائى)
+folded dipole antenna	هوائي ثنائي مَطوي
+folded fell seam	خط اتصال مَطوي
+folded monopole (antenna); folded unipole (antenna)	هوائى أحادى القطب مطوى
+folded rock	صخر التوائي
+folded stratum	طَبَقَة مَطْوِية
+folder	مطوية
+folder unit	جهاز طيّ الورق
+folding	طيّ
+folding blade	سلاح طيّ
+folding door, bus	باب طي في الحافلات
+folding doors	أبواب تُطْوى
+folding fin	زعنفة قابلة للطَّي
+folding machine	طوّاية
+folding rollers	أسطوانتا الطي
+folding roof	سقف قابل للطي
+folding rule	مسطرة تُطْوى
+folding saw	منشار يُطْوى
+folding seat	مقعد قابل للطيّ
+folding signal	إشارة للطي
+folding sliding roof	سقف انزلاقي قابل للطي
+folding stay	فرجار مفصلي
+folding strength	مقاومة الطي
+folding table	طاولة تُطْوى
+folding wing	جناح قابل للطَّي
+folding-chair	كرسي يُطوى
+folding-door	باب يُطوى
+foldover cuffs	كمة مطوية
+foldover lapel	ياقة مفتوحة
+folia	وريقات
+foliage	توريق
+foliage-patterned	موّرق
+foliated	وريقي
+foliated coal	فحم ورقي الشكل
+foliated horizon	أفق مُورَّق
+foliated scroll	درج مروق
+foliation	ترقيم الأوراق / تورُّق
+folio	رقم الصفحة
+foliogenic humus	دُبال ورقي
+folium	طبقة (صخرية) رقيقة
+folklore	فولكلور
+folklore style	طراز فولكلوري
+follow current	تيار تابع لتيارالتفريغ
+follow-on	تالٍ / لاحق
+follow-on contract	عقد تالٍ
+follow-on development tests	اختبارات التطوير التالي
+follow-on production	إنتاج تالٍ / إنتاج لاحق
+follow-on rate; final rate	سعر نهائي
+follow-on-call	متابعة النداء
+follow-up control	متابعة التحكم
+follow-up posting; follow-up	متابعة؛ متابعة النشر
+follow-up study	دراسة متابعة
+follower rest	سِنَادَة رَادِفَة
+following distance	مسافة بين المركبات / تباعد (ال...) بين المركبات، مسافة الاقتفاء
+fondation stone	حجر الأساس
+fondations (pit sinking…)	أساسات بالحفر العميق
+fone; telephone	هاتف
+FONPRODE (Fund for the Promotion of Sustainable Development)	صندوق دعم التنمية الإسباني
+font; fount	مجموعة حروف
+food	طعام
+food access	على الغذاء الوصول إلى الغذاء / الحصول
+food additive	مواد مضافة إلى الأغذية
+food and agriculture organization of the united nations (fao)	منظمة الأغذية والزراعة للأمم المتحدة (FAO)
+food availability	توافر الأغذية
+food chain	سلسلة غذائية
+food contamination	تلوث الغذاء
+food culture	أمن غذائي
+food hygiene	نظافة التغذية
+food insecurity	انعدام الأمن الغذائي
+food irradiation	تعريض الأغذية للإشعاع
+food monitoring	مراقبة الأغذية
+food poisoning	تسمم غذائي
+food pollution	تلوث الأغذية
+food processing	صناعة الأغذية
+food processing waste	نفايات التصنيع الغذائي
+food product	إنتاج غذائي
+food production	إنتاج المواد الغذائية
+food protection	حماية الأغذية
+food sanitation	سلامة الأغذية
+food scraps	بقايا الطعام
+food security	أمن غذائي
+food spoilage	تلف المواد الغذائية
+food stability	استقرار غذائي
+food sufficiency	اكتفاء غذائي
+food system	نظام غذائي
+food waste	فضلات الأغذية
+food web	شبكة غذائية
+foodstuff	مادة غذائية
+foodstuffs act	قانون المواد الغذائية
+foolscap	طلحيّة
+foot	قَدَمٌ / قَدم
+foot brake module	حساس القيمة الفرملية
+foot brake system	نظام مكبح التشغيل
+foot lever unit	مجموعة الدوّاسات
+foot motor	محرك قَدَمي
+foot of mast	قاعدة الصاري
+Foot of rail	قاعدة سكة الحديد
+foot switch	مفتاح يشغل بالقدم
+foot valve	صِمام قدم / صِمام سُفلي لا رجعي
+foot valve (basic)	صمام قاعدي (بسيط)
+foot-brake	مكبح بدواسة
+foot-bridge	مَعْبَر مشاة
+foot-candle	قَدم شمعة
+foot-lambert	قَدم لامبرت
+foot-pace	مسطحة، منصة
+foot-pound	قدم/ رطل
+foot-pound-second system	نظام قَدم رطل ثانية
+foot-to-head acceleration	تسارع جسمي
+foot; footing	قاعدة البرج
+footage	عمق الحفر بالأقدام
+footage contract	اتفاقية الأقدام المحفورة
+footbridge	جِسر المُشَاة
+foothill	تل سفحي
+footing	قاعدة / أساس منفرد سطحي / أساس، قاعدة / قاعدة الأساس
+footless tights	طِمَاق / جوارب بدون قدم
+footnote	تعليق سفلي
+footpath	ممشى / ممر مشاة
+footpath; sidewalk	ممر مشاة
+footprint	سطح تلامس الإطار مع الطريق / أثر القَدم
+footprint of a beam (of a satellite antenna); beam area (of a satellite antenna)	بصمة حزمة (لهوائي قمر صناعي)
+footprint of a tyre [UK] / footprint of a tire [US]	مساحة تلامس نعل الإطار مع الأرض
+footstep of door	موطئ الباب
+footstool	اسكملة
+footway	مَمَرٌّ مشاة / رصيف
+footy-eights	كتاب الثمانية وأربعين
+forage	علف الماشية
+forage crop	محصول علفي
+forage crops	محاصيل العلف
+forbidden band	نطاق ممنوع
+forbidden band; energy gap	نطاق محظور؛ ثغرة الطاقة
+forbs	نباتات عشبية ذات أوراق عريضة
+force	قوة / قوّة
+force (f.) de Coriolis	قوة كوريولية
+force balance transducer	مُحوِّل طاقة متزن القوى
+force coefficient	مُعامِل القوة
+force combat air patrol	دورية الحماية الجوية
+force compensation	موازنة القوى
+force components	مكوّن قوى
+force density; volumic force	كثافة القوة؛ قوة حجمية
+force diagram	مخطط القوى / مُضلَّع القوى
+force fit	تراكب قسري / تزاوج تداخلي
+force flow	سريان القوى
+force for stretching wet fibers	وحدة الكتلة
+force main	أنبوب جريان تحت ضغط
+Force majeure	قوة قاهرة / ظرف قهري
+force measurement	قياس القوة
+force of crystallization	قوة التبلور
+force pump; pressure pump	مِضَخَّة توصيل
+force rendezvous	التقاء القوات
+force sensitive resistance (FSR)	مُقاومة حسّاسة للقوة (FSR)
+force sensor	مُستشعر القوة
+force sensor with electromagnetic compensation	مستشعر قوة ذو تعويض كهرمغناطيسي
+force vector	مُتَّجِه القوة
+force, effective	قوة فعّالة
+force-sensing controller	محكام حساس للقوة
+force-ventilated motor	محرك تهوية قسرية
+Forced Air Cooling	نظام التبريد بالهواء القسري
+forced brake	فرملة طوارئ
+forced characteristic (of a line commutated converter)	خاصية قسرية لمغير تبديلي لخط
+forced circulation	دوران قسري للزيت
+forced circulation boiler	مِرْجَل جَبْرِيُّ الدوران، مِرْجَل جَبْرِي الجريان
+forced circulation evaporator	مبخر بدوران اضطراري
+forced convection	حمل قسري / نقل إجباري / حَمْل قسري / حَمْل جبري / حِمْل (حراري) قسري
+forced convection furnace	فرن حمل إجباري
+forced cooling	تبريد جبرى
+forced draft	سَحْب قَسْرِيّ، سَحْب جَبْريّ / سحب مستحث
+forced draft burner	حَرَّاق السَّحْب القسْريّ، موقد الاحتراق الكامل
+forced draught	سحب ميكانيكي
+forced draught cooling tower	برج تبريد بالتهوية القسرية
+forced feed lubrication	تزليق بالتغذية القسرية
+forced field	مجال مقوى
+forced landing	حط قسري
+Forced limit compensation obligation	التزام التعويض الأقصى
+forced lubricated bearing	كرسي بتزييت قسري؛ محمل قسري التزييت
+forced migration	هجرة إجبارية
+forced oscillation	ذبذبة قسرية / تذبذب قوى / تذبذب قسري / اهتزاز قسري
+forced outage	خروج إضطراري / خروج اضطراري؛ خروج إجبارى
+forced outage duration	فترة خروج إضطرارية؛ فترة خروج إجبارية
+forced outage rate	معدل الخروج الاضطراري عن الخدمة
+forced release	إعتاق قسري
+forced ventilation	تهوية قسرية
+forced ventilation,	تهوية قسرية,
+forced vibration	اهتزاز قَسْريّ / اهتزازة قسرية
+forced-outage duration	فترة الخروج الاضطراري
+forceps	ملقط
+forcibly guided contacts	تلامسات موجهة قسرياً
+forcing pump	مضخة كابسة
+ford crossing	معبر خوض
+Ford easy fuel	نظام 'فورد إيزي فيول' (Ford Easy Fuel)
+Ford power start function	وظيفة بدء الحركة فورد باور (Ford Power)
+fore of a ship	مُقَدِّمة السفينة
+fore-and-aft bridge	جسر عبور ضيق
+fore-and-aft level	ميزان استواء طولي
+fore-and-aft oscillation	تذبذب إلى الأمام والخلف
+fore-man	راز، رئيس عمال
+fore-wall	جدار أمامي
+forearc	قوس أمامي
+forebay	حوض تجميع
+forebay; headbay; head water; upstream water	حوض أمامي (بركة أمامية)
+forebody	مُقدَّم البدن، جؤجؤ / جسم أمامي
+forebody strake	زوائد جناحية
+forecast	تنبؤ / توقُّع / تَوَقُّع
+forecast for the day ahead	توقعات اليوم التالي
+forecast for the day before	تنبؤ اليوم السابق
+forecast horizon	أفق التنبؤ
+Forecast of consumption	توقعات الاستهلاك
+forecast quality	جودة التنبؤ
+forecasting of natural disasters	تنبؤ بالكوارث الطبيعية
+forecasting of weather	تنبؤ جوي
+forecasts	تنبؤ جوي
+foreflap	قلاّبة أمامية
+foreground colour	اللون الأمامي
+foreign air carrier	شركة طيران أجنبية
+foreign atom	ذَرَّة شائبة
+foreign carrier	ناقل أجنبي
+foreign equipment	معدات أجنبية
+foreign exchange earnings	دخل من العُملات الأجنبية
+foreland	مِنْطقة أمام السد
+foremast	صاري المقدمة
+foreplane	جناح أمامي
+foreset bed	قاع أماميّ
+foreshocks	هزات منذرة
+foreshore	شاطئ أمامي(مواجه)
+foreshore / foreland	شاطئ أماميّ
+forest	غابة
+forest available for wood supply	غابة متاحة للتزويد بالأخشاب
+forest biomass	كتلة (ال..)الإحيائية الغابوية
+forest carbon partnership facility (fcpf)	صندوق شراكة كربون الغابات
+forest certification	إصدار الشهادات الحرجية
+forest concession	عقد امتياز غابوي
+forest conservation	صيانة الغابات
+forest cost	تكلفة الغابة
+forest cover	غطاء غابوي
+forest degradation	تدهور الغابات
+forest enterprise	مقاولة غابوية
+forest europe	أوروبا الغابات (FOREST EUROPE)
+forest fallow	غابة في فترة إراحة
+forest fires	حرائق الغابات
+forest floor	أرض الغابة
+forest footprint	بصمة الغابة
+forest fragmentation	تجزئة الغابات
+forest hammer	مطرقة حراجية
+forest hygiene	نظافة الغابات
+forest industries pollution control	مكافحة التلوث الناتج عن الصناعات الغابية
+forest integrity	سلامة الغابات
+forest investment program (fip)	برنامج الاستثمار في الغابات
+forest land	أراضي غابوية
+forest law enforcement, governance and trade (flegt)	إنفاذ قانون الغابات والحكامة والتجارة (FLEGT)
+forest logging	قطع أشجار الغابات
+forest management plan or equivalent	خطة إدارة الغابات أو ما يعادلها
+forest management unit (fmu)	وحدة إدارة الغابات
+forest management/ manager	إدارة الغابات / مدير
+forest monitoring	مراقبة الغابات
+forest ownership	ملكية غابوية
+forest peat	دُبال خام
+forest policy	سياسة الغابات
+forest policy statement	بيان سياسة الغابات
+forest revenue	إيرادات الغابات
+forest sector	تصنيف قطاع الغابات
+forest services	خدمات الغابة
+forest soil	تربة الغابة
+forest species	أحياء الغابة
+forest stewardship council (fsc)	مجلس رعاية الغابات (FSC)
+forest types	أنواع الغابات
+forest workers (workers)	عمال الغابات (عمال)
+forest-trees	شجر حِراجي
+forest/ other wooded land undisturbed by man	غابات / غيرها من الأراضي الحرجية دون تدخل من قبل الإنسان
+forested wetland	أراضي رطبة مشجرة
+forester	حارس غابوي
+forestry	حراجة / الحراجة
+forestry commission	مصلحة المياه و الغابات
+forestry inventary	جرد الغابات
+forestry road	طريق غابوي
+forging	حِدادة / طَرْق
+fork	ملتقى نهرين
+fork lift truck	عربة رافعة شوكية
+fork lightning	برْق متشعِّب
+fork steering mechanism	نظام التوجيه بالشوكة
+fork-lift truck	سيارة برافعة ذات شعبتين، سيارة برافعة ذات فكين
+fork; "K" frame	شوكة على هيئة (K)
+fork; yoke	مِقْرَن
+forked axle	محور شوكي
+forked connection rod	ذراع توصيل شوكية
+forked lever	رافعة ذات شعبتين، عَتَلَة ذات شعبتين
+forked light barrier	حاجز ضوئي متشعب (على شكل شوكة)
+forked rod	ذراع شوكة / ذراع متشعِّب
+forkhead	شوكة مَفْصِلية
+forklift	رافغة شوكية
+Forlion	ألياف فورليون
+Form 700	استمارة 700
+form drag	كبح الشكل
+form drag / profile drag	قوة السحب الجانبية
+form factor	عامل الشكل / العامل الشكلى
+form factor,	عامل الشكل,
+form feed	تغذية شكل
+form feed (ing)	امداد بالورق
+Form Fit Functional Interface Specification	مُواصَفاتُ الواجِهَةِ لِلشَكْلِ وَالمُلاءَمَةِ وَالوَظِيفَةِ
+form of crystals	شكل البلورات
+form of intermediate block home signal	إشارة التقدم
+form of political participation	شكل المُشاركة السياسية
+form of transport association	اتحاد النقل
+form oil	زيت القولبة، زيت التزليق
+form rollers	أسطوانات التحبير
+form trolley	ناقلية الأسطح الطباعية
+form work	قَالَبٌ / صَنْدَقة، قالب للخرسانة، قالب الاسمنت
+formability	تشكيلية / قابلية التشكيل
+Formal Assessment	التَقْيِيمُ الرَسْمِيّ
+formal design review	مراجعة التصميم المنهجى
+formal dress	زي رسمي
+formal dress / formal attire	ملابس المناسبات
+formal engagement	انخراط رسمي
+formal message; response (e.g. ‘line cleared’)	رسالة رسمية
+formal shirt	قميص مانهاتن
+formal shirt / business shirt	قميص رسمي
+formal source seperation	فصل رسمي عند المصدر
+formaldehyde	فرو مالدهيد
+formaldehyde; methanal	فورْمالدهَيْد, ميثانال
+formant	تشكيل موجي مميز
+format	تَركِيبَة / بُنية / صيغة
+format effector	مؤثر نسق
+format size	مقاس القطع
+format; mode; shape	شكل
+formation	تشكيل
+formation cross section	مقطع عرضي للتكوين
+formation enthalpy	إنتالبية التكوين
+formation factor	عَامِل التكوين
+formation flight	طيران تشكيلي
+formation in cutting	شكْل محصور، تكوين بالنحت
+formation land	تشكُّل سطح الأرض
+formation level	مستوى التكوين
+formation lights	أضواء التشكيل
+formation of humus	تشكيل الدبال
+formation pressure	ضغط المكمن، ضغط التشكيل، ضغط التكوين
+formation resistivity factor	عامل مقاومية التكوين
+formation sample	عيِّنة التكوين
+formation test	اختبار الطبقات، اختبار التكوين
+formation tester	مُختَبِر الطبقات، مُخْتَبِر التكوين
+formation testing	اختبار الطبقات
+formation width	عرض التشكيل
+formation; forming; shaping	تشكيل
+formation; structure	بُنْيَة (إدارة)
+Formed-in-Place Foam Gasket (FIPFG)	رغوة التشكيل في المكان
+Formel	قاعدة العكس / تبسيط الدائرة الكهربائية باستخدام عمليات جبرية
+former	مُشَكِّل
+former industrial site	منطقة صناعية مهجورة
+former noze	رأس مثلث الطي
+formic acid	حمض الفورميك
+forming	شحن تحضيريّ للبطارية
+forming roll	درفلة التشكيل
+forms	قوالب
+forms of energy	أشكال الطاقة
+formula	مُعادَلَة
+Formula 1	قواعد سباق الفورمولا1
+formula costs	تكاليف المُعادَلة
+Formula E	باقة 'Formel E' لتوفير الوقود
+Formula E Race Car	سيارة الفورمولا إي
+formula translation language (fortran)	لغة نقل الصيغ (فورتران)، لغة ترجمة الصيغ
+Formula V	سباق فورمولا-في
+formulation	تَصْيِيغ، صِيَاغَة
+formwork	تَملِيس / قالب مؤقت
+forsterite	فروسترايت
+fort side	جانب أسير للسفينة
+Fortafil®	ألياف فورتافيل ®
+fortran	فورتران (لغة نقل الصيغ)
+Fortran، FORTRAN	فورتران
+Fortrel	ألياف فورتريل
+fortuitous distortion	تشوة عرضي
+forty recommendations (plus 9 special recommendations)	أربعون توصية (تضاف إليها 9 توصيات خاصة)
+forty-five degree annular geometry; 45°a geometry	قياس دائرى لإنعكاس الأشعة ◦45
+forty-five degree directional geometry; 45°x geometry	قياس اتجاهى لإنعكاس الأشعة◦45
+forum article; posting	مقالة المنتدى
+forum server; news server	خادم الأخبار؛ خادم المنتدى
+forum; newsgroup	مجموعات المناقشة؛ مجموعة الأخبار؛ رسالة فى المنتدى
+forward	أمامي
+forward aeromedical evacuation	إخلاء جوي طبي أمامي
+forward air control post	موقع مراقبة جوية أمامي
+forward air controller	مراقِب جوي أمامي
+forward breakdown	انهيار أمامي
+forward busying; forward seizure	وضع مشغول أمامي
+forward channel	قناة أمامية
+forward clearing	تحرير أمامي
+Forward Collision-Avoidance Assist (FCA)	نظام المساعدة على تجنب الاصطدام
+forward compartment	مقصورة أمامية
+forward control forward supervision	تحكّم مُتقدم لتخزين الطاقة
+forward converter	مغير امامى
+forward current	تيار أمامي
+forward direction	اتجاه امامى
+forward direction (in a circulator or isolator)	اتجاه أمامي (في مدور أو عازل)
+forward direction (of a PN junction)	اتجاه امامى(لوصلةPN)
+forward direction (of an isolator or a circulator)	مزيح الطور التفاضلي (لمزيح الطور اللاتبادلي)
+forward foresight	رَصْد أماميّ
+forward hold	حجز أمامي
+forward lighting	ضوء المنعطفات
+forward link (in mobile satellite communication)	وصلة أمامية (في اتصالات الاقمار الصناعية المتنقلة)
+forward link (to a space station)	وصلة امامية (للمحطة الفضائية)
+forward lock	قُفْل أمامي
+forward loss	إتّجاه عكسي (لعازل أو ممرّر)
+forward loss (in a circulator or isolator)	فقد أمامي ( في مدور أو عازل)
+forward oblique	صورة أمامية مائلة
+forward operating base	قاعدة عاملة أمامية
+forward operating location	موقع عامل أمامي
+Forward Osmosis (FO)	تناضح أمامي
+forward path	مسار أمامي
+forward recovery time	زمن استعادة امامى
+forward recovery; forward error recovery	التعافى من الخطا لحالة جديدة؛ إصلاح الخطأ الأمامى
+forward scatter	تشتت أمامي
+forward scattering	تبعثر أمامي
+forward scheduling	جدولة الشحن
+Forward Sensing Camera (FSC)	كاميرا الاستشعار الأمامي
+forward set-up	تهيئة أمامية
+forward signal	إشارة أمامية
+forward slip	انزلاق أمامي
+forward slope	انحدار أمامي
+forward slope resistance	مقاومة ذات منحدر امامي
+forward speed	سرعة أمامية
+forward stagnation point	نقطة ركود أمامية
+forward supply point	نقطة إمداد أمامية
+forward sweep	اجتراف أمامي
+forward switching signal	إشارة فصل ووصل أمامية
+forward tilt	مَيْل أمامي
+forward tilt-wing	جناح المَيل الأمامي
+forward transaction	صفقة آجلة
+forward transfer admittance; transfer admittance	سماحية نقل أمامى
+forward transfer impedance; transfer impedance	معاوقة نقل أمامى
+forward transfer ratio; transfer ratio	نسبة نقل أمامي
+forward wave	الموجه الامامية
+forward wavefront	مقدمة الموجة الأمامية
+Forward-Facing Radar ECU (RADC)	نظام الرادار الأمامي
+forward-transfer signal	إشارة تحويل أمامية
+forward-wave tube	صمام الموجة الامامي
+forwarder	وكيل شحن / جرار شحن
+forwarder's cargo receipt	إيصال وكيل الشحن
+forwarding agency	وكالة شحن
+forwarding agent/freight forwarder	وكيل شحن
+forwarding company	وكالة شحن، وكالة ملاحية
+forwarding contract	عقد الشحن
+forwarding order	أَمْر بالشحن
+fossil	مستحاثة / أحفور
+fossil biogenous energy carrier	ناقل طاقة أحفورية حيوية المنشأ
+fossil biogenous energy resource	مخزون طاقة أحفورية حيوية المنشأ
+Fossil energy	طاقة أحفورية
+fossil energy resources	مخزون طاقة أحفورية
+fossil energy sources	مصادر الطاقة الأحفورية
+fossil fuel	وقود أحفوريّ / وقود أحفوري / وَقُود مُسْتَحَاثِّيّ
+fossil fuel dependence	الإعتماد على الوقود الأحفوري
+fossil fuel dependence; fossil energy source dependence	اعتماد على مصادر الطاقة الحفرية
+fossil fuel overconsumption	استهلاك مفرط للوقود الأحفوري
+fossil fuel reserves	احتياطيات الوقود الأحفوري
+fossil fuel resources	موارد الوقود الأحفوري
+Fossil Fuel Vehicle (FFV)	سيارة الوقود الأحفوري
+fossil fuels	وقود حفري / حامل طاقي أحفوري
+fossil mineral energy carrier	ناقل طاقة أحفورية معدنية
+fossil mineral energy resource	مخزون طاقة أحفورية معدنية
+Fossil raw materials	مادة أحفورية خام
+fossil soil	تربة حفرية
+fossil water	مياه جوفية قديمة / مياه أحفورية / مياه احفورية
+fossiliferous	مُتحَفِّر
+fossiliferous rocks	صخور حاوية للحفريات
+fossilized wood	خشب محجَّر
+foul air flue	مصرف للهواء الملوث
+foul manuscript	مخطوط مثقل بالتعديلات
+foulard	وشاح
+fouling	نقص في الأداء بسبب الترسبات / توسيخ / أوساخ مترسبة
+fouling factor	معامل النقص في الأداء بسبب الترسبات / عامل التّلَوُّث
+fouling point	نقطة تشابك / نُقْطَةُ التَداخُلِ
+fouling point indicator	مؤشر نقطة الخطأ
+foulé	فوليه
+foundation	أساسات / أساس / مؤسسة / قاعدة - أساس
+foundation drainage	تصريف المياه من أساس (موقع) البناء
+foundation earth electrode	قطب أرضى لأساسات المنشأة الكهربية؛ الكترود أرضى لأساسات المنشأة الكهربية
+foundation joint	وُصلة الأساس
+foundation slab	أساس
+foundation soil / subgrade / subsoil	أساس البناء
+foundation solution	محلول الترطيب
+foundation timbering	تخشيبة دعم البناء
+foundation trench	خندق الأساس
+foundation; footing	أساس
+foundations (concrete…)	أساسات خرسانية
+foundations (grillage…)	أساسات شبكية
+foundations (mechanical…)	أساسات ميكانيكية
+foundations (ordinary…)	أساسات عادية
+foundations (pile…)	أساسات وتدية
+foundations (raft…)	أساسات حصيرة
+foundations (reinforced concrete…)	أساسات خرسانة مسلحة
+foundations (sheet pile…)	أساسات صفيحية
+founder population	سكان مؤسسون
+foundry	مَسْبَك / مسبك
+foundry and composing machine	صفّافة مذوّبة
+foundry type	حروف طباعة منفصلة
+fount; font	جنس الحرف، شكل الحرف
+fountain	نافورة
+four concentric circle near-field template	قالب من أربع دوائر متحدة بالمركز؛ معايرة الدوائر الأربع المتراكزة للمجال القريب
+four concentric circle refractive index template	قالب من أربع دوائر متحدة بالمركز لعامل الانكسار؛ معايرة الدوائر الأربع المتراكزة لمعامل الإنكسار
+four conditions	أربعة شروط
+four post lift	منصة رافعة رُباعية الأعمدة
+four valve motor	محرك رباعي الصمامات
+four wheel drive	دَفْع بأربع عجلات (دواليب) مُحرِّكة
+four wings bit	مِدقّ رُبَاعي الأجنحة
+four-acceleration	عجلة رباعية
+four-bank eight manoeuvre	مناورة الثمانية الأربعة
+four-circuit protection valve	صمام حماية رُباعي الدوائر
+four-colour printing/process	طباعة رباعية الألوان
+four-course beacon	إشارات الاتجاهات الرباعية
+four-current density; four-current	كثافة تيار رباعى الأبعاد
+four-divergence	إنحراف رباعى الأبعاد
+Four-foot	الأقدام الأربعة
+four-force	قوة رباعية الأبعاد
+four-force density	كثافة قوة رباعية الأبعاد
+four-frequency duplex telegraphy; twinplex (US)	إبراق مزدوج بتردد رباعي
+four-gradient	تدرج رباعى الأبعاد
+four-layer paint	طلاء رُباعي الطبقات
+four-leg intersection	تقاطُع رُبَاعي الفروع
+four-mass suspension model	نموذج تعليق رباعي الكتلة
+four-minute turn	لفة الدقائق الأربعة
+four-momentum	كمية حركة رباعية الأبعاد
+four-nabla; quabla; diamond	نابلا رباعى الأبعاد؛ مؤثر تفاضلى نابلا رباعى الابعاد
+four-pi (4 π) counter	عداد ( π 4)
+four-piece matching	وصلة مزدوجة
+Four-point earth resistance testing method	طريقة اختبار مقاومة الأرض بأربع نقاط
+four-quadrant converter	مغير ذو أربعة اتجاهات
+four-roller drive	وحدة إدارة رباعية البكرات
+four-rotation	دوران رباعى الأبعاد
+four-scalar product; Minkowski inner product	منتج رباعى الأبعاد
+Four-Speed Electric Drive (4SED)	الدفع الرباعي الكهربائي
+four-stroke cycle	دورة رباعية الأشواط
+four-stroke diesel engine	محرك ديزل رُباعي الأشواط
+four-stroke engine	محرك رباعي الأشواط
+four-stroke engines	محرك رباعي الأشواط
+four-stroke process	طريقة الأشواط الأربعة
+four-switch mesh substation with mesh opening disconnectors	محطة حلقية بأربع قواطع مزودة بسكاكين فصل حلقية
+four-switch substation	محطة (حلقية) بأربع قواطع
+four-terminal resistor	مقاومة رباعية الأطراف
+four-thread embroidery yarn	خيط تطريز رُباعي
+four-valve technology	تقنية الصمامات الرباعية
+four-vector; 4-vector	رباعى الابعاد
+four-velocity; 4-velocity	سرعة رباعية
+four-volume element	عنصر حجم رباعى الأبعاد
+four-wave vector; wave four-vector; four-wavevector	متجه موجة رباعى الأبعاد
+four-way primary charge	شِحْنَة ابتدائية رباعية الاتجاه
+four-way secondary charge	شِحْنَة ثانوية رباعية الاتجاه
+four-way socket wrench	مفتاح العجلة
+four-wheel drive	الإدارة بأربع عجلات
+four-wheel steering	نظام توجيه العجلات الأربع
+four-wing configuration	هيئة رباعي الأجنحة
+four-wire circuit	دائرة ذات أربعة أسلاك
+four-wire circuit; 4-wire circuit	دائرة بأربعة أسلاك
+four-wire line	توصيلة ذات أربعة أسلاك
+four-wire repeater; 4-wire repeater	مكرر ذو اربعة أسلاك
+four-wire switching	فصل ووصل (تبديل) بأربعة أسلاك
+four-wire transmission; 4-wire transmission	إرسال بأربعة أسلاك
+Fouracres shutter	مِصراع 'فوراكرز'
+fourble	قطاع من أربع أنابيب متصلة
+fourble board	منصة المناولة، منصة المرور الرباعية
+fourchette	مقرن
+fourfolding rule (folding rule)	مسطرة انطوائية
+Fourier equation	معادلة فورييه
+Fourier eXpansion	مفكوك فورييه / نَشْر فورييه
+Fourier integral	تكامل فورييه
+Fourier number	عدد فورير
+Fourier series	متسلسلة فورير / متسلسلات فورييه
+Fourier transform	تحويل فورير
+Fourier transformation	تحويلة فورير
+fourniture	أثاث
+fourniture layout	تصميم الأثاث
+fourragere	جديلة الكتف
+fourt-leg intersection	تقاطُع رباعي الفروع
+fourth assessment report (ar4)	تقرير التقييم الرابع
+fourwheel drive	الإدارة بالعجلات الأربع
+fovea; fovea centralis	مركز الشبكية
+foveola	المنطقة الوسطى من النقرة
+Fowler flap	قلاّبة فاولر
+fox	فرو الثعلب
+foX away	انطَلَقَ الثعلب
+foyer	ردهة، مقرّ
+FPDS (Ford product development system)	نظام فورد لتطوير المُنتجات (FPDS)
+Fraass breaking point	نُقطَة تَجزِئَة فْرَاس
+frac	شق (frac)
+frac job	تكسير الطبقة المنتجة (بضغط هدرولي عال جدًّا)
+fracking	تكسير/إحداث شقوق
+fractal factory	مصنع كسيري
+fraction coefficient	معامل الكسر
+fraction of photosynthetically active radiation absorbed by vegetation (fapar)	جزء الإشعاع النشط في مجال التمثيل الضوئي الذي تمتصه النباتات (FAPAR)
+fraction,	كسر - جزء
+fractional	جزئي
+fractional bandwidth; relative bandwidth	عرض النطاق الجزئى ؛ عرض النطاق النسبي
+fractional crystallisation	تبلور مجزأ
+fractional deionization (FEDI)	إزالة جُزْئِيّة للأيونات
+fractional distillation	تقطير تجزيئي
+Fractional distillation (fractionation)	تقطير تجزيئي (تجزئة)
+fractional frequency fluctuation	تباين التردد الجزئى
+fractional isotopic abundance	وفرة نظائرية جزئية
+fractional load resonance frequency offset	حيود تردد الرنين عند الحمل الجزئى
+fractional pulling range	نطاق تغير التردد الجزئى
+fractional slot winding	ملف كسري المجرى
+fractional-pitch winding	لفّ بخطوة جزئية
+fractionating columns	أعمدة مجزأة
+fractionating trays	صواني التجزئة
+fractionation	تجزئة
+fractionation trend	اتجاه تجزيئي
+fractionator	مُجَزِّئٌ
+fractionator column	عمود تجزئة
+fractionator reflux accumulator	مُجمِّع ردَّادة المجزِّئ
+fractions of oil	مكونات النفط
+fracto-	متناثرة
+fracture	صَـدْع / كسْر
+fracture plane	سطح الكسر
+fracture zone	نطاق الكسر
+fracture; rupture	انهيار
+fracturing formation	تكوين الكسور، تكوين الشقوق
+fragile	قابل للتفتت
+fragility	هَشَاشة
+fragipan	فراجيبان
+fragment	كِسْرة
+fragment; debris	شَظِيّة
+fragmental	شُدافي
+fragmental deposits	رواسب كُسَارية
+fragmental structure	بنية مجزأة
+fragmentation	تفتت / تقسيم
+fragmentation bomb	قنبلة تَشْظِيَة
+Fragmentizer waste (FRAG)	نفايات مجزأة
+frame	إطار هيكلي / إطار / صورة
+frame (in digital processing)	اطار (في المعالجة الرقمية)
+frame (of door); window-frame	ملبَن
+frame (to)	أطَّرَ
+frame alignment	استقامة الإطار / محاذاة الإطار
+frame alignment recovery time	زمن استعادة محاذاة اطار / زمن استعادة محاذاة الاطار
+frame alignment signal	إشارة الاستقامة لإطار
+frame alignment time-slot	حيز زمني ثابت لكل إطار
+frame alignment word	كلمة إستقامة الإطار
+frame angle bars	قضبان إطار الزاوية
+frame bag	جيب ملحق
+frame bounce	وثب (تنطط) الإطار
+frame check sequence	إطار التحقق من التتابع
+Frame Check Sequence (FCS)	تسلسل فحص الإطارات (BPF)
+Frame concept / controlled path system	مفهوم إطاري
+frame cross-piece	منحنى
+frame data	إطار البيانات
+frame frequency; picture frequency	تردد مسح الإطار
+frame length (in switching)	طول الإطار (في الوصل والفصل (التبديل))
+frame level	مستوى التأطير
+frame membrane	إطار الغشاء
+frame moulding [UK] / frame molding [US]	قطاع هيكلي
+frame of reference	مَنَاط الإسناد، منظومة الإحداثيات
+frame period; picture period	فترة مسح الإطار
+frame profile	جانبية الإطار
+frame reference burst (in TDMA)	إطار تدفق مرجعي (في أسلوب تبادل البيانات TDMA)
+frame saw	منشار بإطار / منشار هيكلي
+frame slip	انزلاق الإطار
+frame start	بداية الإطار (في الإرسال الرقمي)
+frame surface cooled machine	آلة مُبرّدة بسطح هيكلها
+frame time; frame duration (in switching)	زمن الاطار
+frame work	هَيْكَلٌ(مبنى)
+frame yoke	مقرن اطاري للعضو الثابت
+frame,	مضاعفة الإرسال بتقسيم زمنى إطار, / إطارالفحص, / إطار,
+frame, ; complete television picture	إطار,
+frame-mounted motor	محرك مثبت على قاعدة
+frame; tire; tyre	إطار
+framed dam	حاجز ذو جدار من الكتل الخشبية / سَدّ هيكليّ
+framed door	باب هيكلي
+framed floor	أرضية هيكلية
+framed partition	قاطع هيكلي
+framed structure	منشأة هيكلية
+frameless canopy	ظُلَّة لاإطارية
+framer	صانع الأطر
+framework	شبكة
+Framework Convention on Climate Change	اتفاقية إطارية بشأن تغير المناخ
+framework of leaf (of door)	منكبا المصراع
+framework structure	بنية هيكلية
+framing	تَأْطير
+framing chisel	إزميل التأطير
+framing pulses	نبضات ضبط الصورة
+framing timber	خشب الاطر
+franchise	امتياز
+francis turbine	توربينات فرانسيس / تُربينة 'فرانسيس' / تربينة فرنسيس / عنفة فرانسيس
+frangible	قابل للكسر / قَصِم
+franging reefs	شعاب سجافية
+Franklin antenna	هوائى فرانكلين
+franklinite	فرانكلينايت
+fraudulent echo	صدىً خداعي
+Fraunhofer region	منطقة فراونهوفر
+fraying	إهتراء
+freak	تردد بالميجا هرتز
+freddie	وحدة اعتراض
+free	حرّ / حر
+free air ionisation chamber	غرفة تأين طليقة الهواء
+free airport	ميناء جوي حر
+free aluminium	ألومنيوم حر
+free aquifer	خزان جوفي حر
+free atmosphere	غلاف جوي حر
+free available chlorine	كلورين حر متاح
+free available chlorine (FAC)	كلور (ال...) المتوفر الحر
+free available chlorine residual	الكلور الخالص المتاح المتبقي / كلور (ال...) المتوفر الحر المتبقي
+free balloon	بالون حر / بالون طليق
+free canopy	ظُلَّة حرة
+free capacitance,	سعة حرة
+free carbon	كربون (ال...) الحر
+free carbon dioxide	ثاني أكسيد الكربون الحر
+free change (free energy change)	تغيير الطاقة الحرة
+free charge carrier	موجة حاملة حرة الشحنة
+free chlorine	الكلور الخالص
+free circuit condition	حالة دارة حرة
+free circulation	حرية التنقل
+free convection; natural convection	نقل حر / حَمْل حُرّ
+free cooling	تبريد مجاني
+free current operation; natural excitation	تشغيل تيار حر
+free cut (retarded only at a few locations)	تدفق حر
+free deck dam	سد مع بلاطَة حُرَّة على مَسانِد
+free discharge tube valve	صمامات أنبوبية حرة التصريف
+free drop	إسقاط حر
+free electron	ألكترون حر / إليكترون حر / إلكترون حر
+free electrons	إلكترونات حرة
+free energy	طاقة حرة / طاقة حُرّة
+free enthalpy	إنتالبية حُرّة
+free face	واجهه حرة
+free fall	سقوط حر
+free fall boring	حفر بطريقة السقوط الحر
+free field	مجال حر
+free flight	طيران حر
+free flooding	فيضانات حرة
+free flow	سريان حُر
+free function (free energy function)	دالة الطاقة الحرة
+free gas	غاز حُرّ / غاز طليق
+free gases	غازات حرة
+free good	سلعة مجانية
+free ground water	مياه أرضية حرة
+free groundwater	مياه جوفية حرة
+free gyro	جَيرو حر
+free heat region	منطقة حرارية حُرّة
+free impedance	معاوقة حرة
+free iron	حديد حر
+free jet	نفاث حر
+free jet chute; free jet parabolic drop	منحدر نفثيّ حر على شكل قطع مكافئ
+free jet stilling basin; free jet basin	حوض تهدئة لنافورة حرة
+free level tunnel	أنفاق حرة التدفق
+free liquids	سوائل حرة
+free molecule diffusion	انتشار الجزيئات الطليقة
+free movement of goods	الحركة الحرة للسلع
+free of duty	معفى من كل الرسوم
+free on board (FOB)	سعر بدون تكلفة النقل (يتم تسليم البضاعة على ناقلة العميل ثم تنتهي مسؤولية المؤسسة)
+free oscillation	ذبذبة حرة / تذبذب حر او مطلق / تذبذب حر / اهتزاز حر
+free overfall weir / free weir / clear overflow weir	هدار ذو سقوط حر
+free overfall weir; free weir; clear overflow weir	هَدّار حُرّ
+free parachute	مظلة حرة
+free particle	جسيم حر
+free point	نقطة طليقة، نقطة سائبة
+free point indicator	جهاز تحديد نقطة تقنُّب أدوات الحفر
+free point logging	سجل لَصْب أدوات الحفر
+free point of stuck pipe	نقطة لَصْب الأنابيب
+free port	ميناء حر
+free progressive wave	موجة تقدمية حرة
+free radical	شِقّ طليق
+Free radicals gasifier	مُغوّز ذو جذور حُرّة
+free range	رعي طليق
+free rider	راكب مستخفي (بالمجان)
+free rider problem	مشكلة الراكب المستخفي
+free rocket	صاروخ حر
+free royalty; landowner's royalty	جُعالة المالك
+free settling	ترسيب حر
+free slack, free buffer time	فائض حر
+free sound field	مجال صوتي حر
+free space	حيِّز حر / فراغ حر
+free space propagation	انتشار فراغ حر
+free space; open space	حيز حُرّ
+free standing casing	أنبوب تبطين سائب، تنبيب سائب
+free state	حالة حرة
+free stone	حجر قابل للقطع بسهولة
+free stream	جريان حر
+free streamline	خط الجريان الحر
+free stuff	خشب سليم
+free style	نمط حر
+free surface	سطح حر / سطح مكشوف
+free surface flow	جريان ذو سطح حر
+free time	وقت الفراغ
+free trade zone	منطقة التجارة الحرة
+free turbine	عنفة حرة
+free underground water	مياه جوفية حرة
+free vibration	اهتزاز حُرٌّ
+free vibrations	اهتزازات حرة
+free volume	حجم حر
+free wall	حائط حر
+free wave; free progressive wave	موجة حرة
+free way	طريق حرة، طريق لاحب
+free weir; clear overflow weir; free fall weir; free overfall weir	هَدّار حُرّ
+free wiring	تمديد أسلاك بدون قيود
+free zone	منطقة حرة
+free, prior and informed consent (fpic)	موافقة حرة ومسبقة ومستنيرة
+free-air anomaly	شذوذ الهواء الطليق
+free-air ionization chamber	حجرة تأين الهواء الطلق
+free-air overpressure	زيادة ضغط الهواء الحر
+free-air tunnel	نفق الهواء الحر
+free-analysis macros	تعليمات مختصرة أكثر فعالية
+free-atom cross section	مقطع عرضي لذرة طليقة
+free-balloon concentration ring	حلقة تجميع البالون الحر
+free-balloon net	شبكة البالون الحر
+free-body diagram	مخطط الجسم الحر
+free-body principle	مبدأ الجسم الحر
+free-cutting steel	فولاذ التقوير
+free-fall altimeter	مقياس ارتفاع السقوط الحر
+free-fall landing gear	جهاز الحط ذو السقوط الحر
+free-fall model	نموذج السقوط الحر
+free-fall(ing) bomb	قنبلة السقوط الحر
+free-field current sensitivity	حساسية تيار مجال حر
+free-field room; anechoic room	غرفة مجال حر
+free-field sensitivity	حساسية مجال حر
+free-flight model	نموذج الطيران الحر
+free-flight tunnel	نفق الطيران الحر
+free-flow conduit / open channel / open conduit	مَجرى مَكشوف
+free-flow impeller	دَفّاعة الجريان الحر
+free-form reflector (FF)	عاكس حر الشكل
+free-gas model	نموذج الغاز الطليق
+free-hand line	خط يدوي
+free-hand sketching	رسم باليد، رسم حر
+free-molecule flow	جريان حر الجزيئات
+free-piston engine	محرك حر المكبس
+free-return trajectory	مسار العودة الحرة
+free-running engine	محرك بصمامات جانبية
+free-running time base	مسح ضوئي
+free-space basic transmission loss	فقد الإرسال الأساسي للحيز المطلق (لوصلة لاسلكية)
+free-spinning tunnel	نفق الانهيار الحلزوني الحر
+free-standing propellant	وقود صاروخي حر الوضع
+free-stream capture area	مساحة بَلْع الجريان الحر
+free-stream condition,	حالة تيار حر,
+free-stream Mach number	رقم ماخ الجريان الحر
+free-use of water	مدخل حر للمياه
+free-vorteX compressor	ضاغط الدوّامات الحرة
+free-vorteX flow	جريان الدوّامات الحرة
+free-wheeling arm	ذراع دوران حر
+freeback	لباس السباح
+freeboard	خلوص / خلوص الفُرُوق
+freeboard mark	علامة خط الشحن
+freeboard, total	خلوص الفروق
+freedoms	حريات المرور الجوي
+freelance	تحكم حر
+freemason	بنّاء ماهر
+Freeport	منطقة حرة
+freerunning unit	وحدة الانطلاق الحر
+freestone	حثّ
+freestream wind speed	سرعة تدفق حر للرياح حرة
+freewheel	حركة حرة
+freewheeling	دوران دون حِمل
+freeze	يُجَمِّد
+freeze and thaw action	حركة تجمد المياه و ذوبانها
+freeze distillation	تقطير بالتجميد
+freeze frame (EOBD)	الإطار المتجمد للنظام الأوروبي للتشخيص الذاتي للأعطال (EOBD)
+freeze framing; still framing	تثبيت صورة
+freeze( the big)	تجمُّد ضخم
+freeze-out	طَرْد التجلُّد
+freeze-thaw test	إختبار لمعرفة سلوك الخلية عند ظروف التجمد
+freeze-thaw weathering	تجوية تجمد-ذوبان/انصهار
+freezing	تجمّد / تجميد / تجمُّد
+freezing apparatus	جهاز تجميد
+freezing curve	منحنى التجمد
+freezing methods	طرق التجميد
+freezing point	نقطة التجمد / نقطة التجمّد
+freezing zone	مِنْطَقة تجمد التربة
+freibergite	فرايبرغايت
+freight	نَوْل / شحن
+freight bill	فاتورة شحن
+freight car	عَرَبَة الشَحن
+freight car category	فئة عربات الشَحن
+freight consolidating	تجميع الشحن
+freight container	حاوية الشحن
+freight contracts, charters, contract of carriage	عقود الشحن، عقود النقل
+freight distribution hub	مركز توزيع البضائع
+freight doors	أبواب الشحن
+freight elevator (goods lift)	مصعد بضائع، مصعد شحن
+freight forwarder	وكيل شحن
+freight index	مؤشر الشحن
+freight on board term	شحن على متن
+freight rate	قيمة الشحن
+freight schedule	جدول الشحن
+freight shed	حظيرة بضائع
+freight tank locomotive	قاطرة صهريج الشَحن
+freight tender locomotives	قاطرات مقطورة الشَحن
+freight traffic	حركة الشحن/ البضائع
+freight traffic center, freight village	مركز حركة الشحن
+freight train	قِطَار الشَحن / قطار شحن
+freight transport	نقل البضائع
+freight transport station, freight transport Location	محطة الشحن
+Freight Transportation Services	خَدَمَاتُ نَقْلِ البَضَائِعِ
+Freight village	مركز الشحن
+freight wagon	عَرَبَة شَحن / عَرَبَةُ شَحْنٍ
+freighter	ناقِل، ناقلة
+freighting	تأجير سفينة
+freighting of ship	استئجار سفينة
+french casement (balcony door)	باب شرفة
+French cut	ساق بتصميم فرنسي
+French cut briefs	لباس داخلي فرنسي
+French Development Agency	الوكالة الفرنسية للتنمية
+french drain	مصرف للمياه من الحجارة
+French drain / rubble drain	مَصْرِف حجريّ / مصَرْف حجري / مَصْرِف فرنسيّ مزود بأنبوب
+French knickers	لباس نسوي داخلي
+French lining	بطانة فرنسية
+French look	طراز فرنسي
+French number (Nf)	عيار فرنسي
+French pocket	جيب فرنسي
+French suit	تصميم فرنسي
+french window	باب نافذة
+Frenkel defect	عيب فرنكل
+Freon	فريون
+freons	فريون
+frequency	تردد / تَوَاتُر / تواتُر / تردّد / تَرَدُّد
+frequency adjustment range	مدى ضبط التردد
+frequency agility	خفة حركة التردد
+frequency asymmetrical filter	فلتر التردد غير المتماثل؛ مرشح التردد غيرالمتماثل
+frequency band	نطاق التردد / المدى الترددى / نطاق تردد / حزمة تردد
+frequency band,	مدى التردد
+frequency bias	انحياز التردد
+frequency changer	مغير تردد / مغير الترددِ / مغيّر التردد
+frequency changer ; frequency converter	مغير تردد
+frequency changer set	مجموعة مغير التردد
+frequency changer; frequency converter	مغير التردد
+frequency channel	قناة التردد
+frequency characteristic (frequency curve) of a chain of transfer elements	مُنحنى الإجابة الترددية لسلسلة من عناصر التحويل
+frequency characteristic (frequency curve) of a control loop unit	منحنى إجابة ترددية لعنصر في دائرة الضبط
+frequency characteristic (frequency curve) of a derivative element	مُنحنى الإجابة الترددية لعنصر تفاضلي
+frequency characteristic (frequency curve) of a Proportional element	منحنى الإجابة الترددية لعنصر تناسبي
+frequency characteristic (frequency curve) of an Integral element	مُنحنى الإجابة الترددية لعُنصر تكامُلي
+frequency characteristic; frequency curve	مُنحنى خصائصي للتردد
+frequency comparison pilot; synchronizing pilot (obsolete term)	إشارة دليلية بمقارنة التردد
+frequency constant	ثابت التردد
+frequency control	تحكم بالتردد
+frequency conversion product	ناتج تحويل التردد
+frequency converter	مُحوّل ترددات / محوِّل التردد / مغير ترددِ / مغير تردد
+frequency converter substation	محطة تغيير التردد
+frequency convertor, ; frequency changer,	مبدل التردد,
+frequency counter	عدّاد التردد
+frequency demodulation	ازالة تضمين ترددى
+frequency departure	إنحراف التردد / ابتعاد التردد
+frequency deviation	حيود التردد / انحراف التردد
+frequency discriminator	كاشف طور
+frequency distortion	تشوه التردد
+frequency distribution	أنه مساق منحنى مستوف
+frequency diversity (reception)	تباين تردد (استقبال)
+frequency divider	مُجزِّئ التردد / مجزّئ التردّدات
+frequency division	تقسيم ترددي
+frequency division multiple access; FDMA (abbreviation)	منفذ متعدّد بالتقسيم التردّدي
+frequency division multipleX	إرسال متعدد مقسَّم التردد
+frequency division multiplexing; FDM	مضاعفة الإرسال بتقسيم التردد
+frequency division switching	فصل ووصل (تبديل) تقسيم التردد
+frequency drift	انحراف التردد / انسياق التردد
+frequency equation	معادلة التردد
+frequency factor	عامل التردد
+frequency function of a random sample	دالة تواتر عينة عشوائية
+frequency gradient	تثبيت التردد
+frequency independent antenna	هوائى مستقل التردد
+frequency index	دليل التردد
+frequency interval	فترة تردد
+frequency inversion	انقلاب (عكس) التردد / عكس الترددات
+frequency measurement	قياس التردد
+frequency meter	جهاز قياس التردد / مقياس التردد
+frequency mixer	مازج (التردد)
+frequency modulated signal generator	مولد إشارة معدلة التردد
+frequency modulation	تعديل التردد / تعديل السعة / تعديل ترددي
+frequency modulation (FM)	تضمين التردد
+frequency modulation ; FM (abbreviation)	تعديل تردد
+frequency modulation distortion	حيود التردد (المطلق)
+frequency modulation, (F.M.)	تضمين التواتر، تضمين التردّد
+frequency monitor	جهاز مراقبة التردد / مِرقاب التردد
+frequency multiplier	مضاعِف التردد / مضاعف تردد
+Frequency of Complaints	تكرار الشكاوى
+frequency of maximum impedance	تردد أقصى معاوقة
+Frequency of Meter Proving	الفترة لمعايرة العداد
+frequency of minimum impedance	تردد أدنى معاوقة
+frequency of operation	تردد التشغيل
+frequency of oscillation	تردد الذبذبة
+frequency of unity current transfer ratio	نسبة نقل تيار تردد الوحدة
+frequency of waves	تردد الأمواج
+frequency offset	ترحيل موازى للتردد / انزياح التردد
+frequency offset (in television)	تخالف الترددِ (في التلفاز)
+frequency pairing	ازدواج التردد
+frequency parameter	مَعْلَم التردد
+frequency pulling	ظاهرة سحب التردد
+frequency pulling range	نطاق تغير التردد
+frequency pushing	ظاهرة دفع التردد
+frequency range	تزحزح حامل التردد
+frequency range (of an equipment)	مدى التردد (لمعدة)
+frequency range,	نطاق التردد
+frequency ratio	معامل الخدمة
+frequency re-use	إعادة استخدام التردد
+Frequency regulation in the electricity grid	تنظيم التردد في شبكة الكهرباء
+frequency relay	مُرَحِّل تردد
+frequency response	استجابة التردد / تردد الاستجابة / إستجابة التردد / استجابة ترددية
+frequency response characteristic (of an AC machine)	خاصية الاستجابة الترددية (لآلة تيار متردد)
+frequency response characteristic; Bode diagram; Bode chart	خصائص إستجابة التردد
+frequency response locus; Nyquist plot	المحل الهندسى لاستجابة التردد
+frequency response; frequency response characteristic	استجابة التردد
+frequency selective fading	إضمحلال إنتقائى التردد
+frequency shift	إزاحة التردد
+frequency shift (in keying)	إزاحة تردد (فى مفتاح)
+Frequency Shift Keying	إرسال بإزاحة الذبذبة (FSK)
+frequency shift keying; FSK; frequency shift modulation; shift signalling	مفتاح ازاحة التردد
+frequency shift telegraphy; frequency shift keying; FSK (abbreviation)	إبراق ازاحة التردد
+frequency slope	منحدر التردد
+frequency spectrum,	ا(إتصالات عن بعد) طيف التردد / طيف التردد
+frequency stability	استقرار التردد
+frequency stability (of a dielectric heating generator)	استقرار التردد ( لمولد تسخين العزل الكهربائي)
+frequency stability frequency control	ضبط قدرة التردد
+frequency swing	تأرجح التردد
+frequency symmetrical filter	فلتر التردد المتماثل؛ مرشح التردد المتماثل
+frequency synthesizer	مؤلّف تردّدات
+frequency tape	شريط تردد
+frequency test disk	قرص اختبار التردد
+Frequency to Voltage Converter	مُحوِّل التردد إلى فلطية / مُحوِّل التردد إلى فلطية (FVC)
+frequency tolerance	سماحية التردد؛ حدود التردد المسموح به / تفاوت التردد
+frequency tolerance,	سماحية التردد
+frequency tolerance, (of an emission)	تفاوت التردد(للبث)
+frequency transducer	مُحول إشارة للتردد
+frequency translation	ترجمة التردد
+frequency translation ; frequency changing; frequency conversion	نقل التردّد
+frequency translation; frequency changing; frequency conversion	إزاحة التردد / تحويل التردد
+frequency tuning range (amplifiers)	مدى موالفة الترددات للمضخمات
+frequency tuning range (oscillators)	مدى موالفة الترددات للمذبذبات
+frequency-agile	رشيق التردد / متغير التردد
+frequency-converter tube	صمام محول-التردد
+frequency-hopping	تردد قافز / تردد نطّاط
+frequency-hopping spread-spectrum modulation	تعديل انتشار الطيف بقفز التردد؛ تضمين بتمديدالطيف بقفز التردد
+frequency-modulation radar	رادار مُضَمَّن التردد
+frequency-multiplication diode	صمام ثنائى مضاعف التردد
+frequency-response characteristic	خصائص استجابة التردد
+frequency-selective	مُنتقي التردد
+frequency-shift keying	إرسال ذو إزاحات ترددية
+frequency-wild	شاذ التردد
+frequency/load coefficient	معامل التردد/ الحمل
+frequency/voltage coefficient	معامل التردد/ الجهد
+frequently asked questions; FAQ (abbreviation)	إختصار (FAQ)؛ الاسئلة الشائعة
+fresco	رسم جداري
+fresco fabric	فريسكو
+Fresco yarn	خيط مبروم فريسكو
+fresh	غَضٌّ
+fresh air blower	مروحة الهواء الجديد
+fresh air suction channel	مسقط شفط الهواء الجديد
+fresh biomass	كتلة حيوية طرية
+fresh load	شحنة جديدة
+fresh mixture	شحنات الغاز الجديدة
+fresh nuclear material	مواد نووية بكر
+fresh water	ماء عَذْب / مياه عذبة
+fresh water limit	حَدُّ المياه العذبة
+fresh water mud	طين بالماء العذب
+fresh water reserves	احتياطيّ المياه العذبة
+fresh water vapour	بُخار الماء العذب
+fresh water; raw water	مياه خام
+fresh wood	خشب طري
+fresh/recirculated air choke	غطاء الهواء الجديد/تدوير الهواء
+fresh/salt water interface	نقطة تداخل المياه العذبة والمياه المالحة
+freshwater	مياه عذبة / ماء عذب
+freshwater conservation	صيانة المياه العذبة
+freshwater lens	كتلة المياه العذبة
+freshwater pollution	تلوث المياه العذبة
+freshwater swamps	مستنقعات المياه العذبة
+Fresnel ellipsoid	مجسم اهليلجي فرسنل
+Fresnel lens antenna; zone-plate lens antenna	هوائي عدسة (فرسنل)
+Fresnel reflection	انعكاس " فرينل "
+Fresnel reflection factor	عامل إنعكاس فرسنل
+Fresnel reflection method	طريقة إنعكاس "فرينل"
+Fresnel region	منطقة فرسنال
+Fresnel spotlight	جهاز إنارة ذو ضوء بقعي مزود بعدسة فرسنل
+Fresnel zone	منطقة فْرِزْنِل
+Fresnel zone (on a reflective surface)	منطقة فرسنل (على سطح عاكس)
+fresno slip	مِجْرَفة فَرِسْنُو
+fret - work	أشغال تخريم
+fret design	نموذج اللفافات
+fret saw; scroll saw	منشار الزخرفة
+fret-work	زخرفة، نقش
+fretting	بِلى / تآكل بالحكّ
+fretting rumble; abrasion rumble	تاكل من الاهتزاز
+friable	هَشٌّ / قابل للتفتت
+friable rock	صخرة مفتتة
+friable; crumbly	هشّ
+Fricke dosemeter	مقياس جرعة فريك
+friction	احتكاك / قوة الاحتكاك / دعك، احتكاك
+friction (internal angle of ...)	زاوية الاحتكاك الداخلية
+friction coefficient	مُعامل الاحتكاك
+friction cone	مخروط الاحتكاك
+friction control device	جهاز احتكاك
+friction control torsion device	جهاز تدوير
+friction damping	تخميد احتكاكي
+friction drag / skin friction / surface drag	قوة السحب السطحيّ / قوة احتكاك السحب
+friction energy	طاقة الاحتكاك
+friction factor	معامل احتكاك
+friction glazed paper	ورق ملمّع بالاحتكاك
+friction glazing machine	ماكينة صقل بالاحتكاك
+friction head loss	نِسبة فاقِد الاحتكاك
+friction horsepower	قدرة الاحتكاك
+friction horsepower; frictional horsepower	قدرة حصانية احتكاكية
+friction layer	طبقة الاحتكاك
+friction lining	بطانة احتكاك
+friction lock	قَفْل احتكاكي
+friction locking	وصل احتكاكي
+friction loss	فاقِد الاحتكاك / فاقد احتكاكيّ
+Friction Losses	فقد الاحتكاك
+friction modifier	إضافات مُخفضة للاحتكاك
+friction pile	وَتِد احتكاك
+friction radius	نصف قطر الاحتكاك
+friction retainer	مانعة الاحتكاك، نبيطة منع الاحتكاك
+friction slope	مَيْل الاحتكاك
+friction socket	جُلْبَة احتكاك، زج التقاط بالاحتكاك، جُلْبَة التقاط بالاحتكاك
+friction spun yarn / DREF yarn	خيط احتكاكي
+friction surface	سطح احتكاك
+friction wake	أثر مَخْر الاحتكاك / خَضْرَبة احتكاكية
+friction wear	بِلَى بالاحتكاك
+friction welding	لِحام بالاحتكاك
+friction – grip joint	وُصلة احتكاك
+friction, hydraulic	احتكاك هيدروليّ
+friction, internal	احتكاك داخليّ
+frictional hysteresis	تخلّف احتكاكي
+frictional resistance	مُقَاوَمَة الاحتكاك
+frictional unemployment	بطالة احتكاكية
+Friday wear	ملابس شبه رسمية
+friendly	صديقة
+Fries in rolling stock Wheels	الحَرائِقُ فِي عَجَلاتِ الخُطُوْط الحَدِيدِيّةِ
+frieze	قماش فريزين / زخرف
+frieze / frisé	خيط غزل مجعد
+frigid climate	مُناخ قارس
+frigid soil temperature regime	نظام حراري بارد
+frigid zone	نطاق بارد
+frill / ruffle	كشكشة
+frilling	جرح الشجرة لقتلها
+fringe	فرنشة
+fringe region	منطقة الحافة
+fringin (fringing) sea	بحر هامشي
+frings area	مناطق هامشية
+Frise aileron	جُنيح فْرايْز
+frisé	مُجَعَّد
+fritting	إزالة الأكسدة
+frock coat	سترة مشقوفة الذيل / سترة مشقوقة الذيل / فراك
+frog (of a turnout)	تقاطع
+frog angluar	زاوية مَفْرَق
+frog,	تقاطع,
+frog-leg winding	ملف متعرج؛ ملف على شكل رجل الضفدع
+from final value	من القيمة النهائية
+front	جبهة
+front assist	مساعد القيادة الأمامي
+front axle	مِحوَر أمامي
+front axle carrier	حامل المحور الأمامي
+front bent gouge	مظفار مثني الرأس
+front cloud	كتلة هوائية
+front course sector	قطاع الوجهة الأمامية
+front door	باب المدخل
+Front Drive Unit	وحدة الدفع الأمامي
+Front Driving Cab	مَقْصورةُ القِيادَةِ الأَمامِيَّةِ
+front end separation	فصل الواجهة الأمامية
+front fan	مروحة أمامية
+front fog light	ضوء أمامى للضباب
+front grille [UK] / front grill [US]	شبكة أمامية
+front guide	دليل توجيه الفرخ
+front ignition	إشعال أمامي
+front mask	قناع المقدمة
+front movement	حركة المنطقة الأمامية، حركة الجبهة
+front of a voltage pulse	مقدمة موجة الجهد الدفعى
+front of the vehicle	مُقدمة السيارة
+front panel	الغطاء الأمامي لحيز المحرك
+Front Passenger Airbag Warning Light	ضوء تحذير كيس الهواء الأمامي
+front pinacoid	مسطوح أمامي
+front plate	لوحة أمامية
+front pointer	مؤشر أمامي
+front porch (of line-synchronizing signal)	شرفة أمامية ( إشارة تزامن الخط)
+front position light	ضوء أمامي
+front seam trousers	سروال بدون خياطة
+front side	وجه الصفحة
+Front Side Bus	الناقِلُ الأَمامِيّ
+front span	تباعد أمامي
+front spoiler	برقع إيرودينامي / جناح إيرودينامي أمامي
+front stagnation point	نقطة السكون الأمامية
+front waist length	طول الجهة الأمامية من الخصر
+front-wheel drive	الإدارة بالعجلتين الأماميتين / الجر الأمامي (الإدارة بالعجلتين الأماميتين)
+front-wheel drive shaft	عمود إدارة العجلات الأمامية
+frontage road	قَارِعَةٌ جانبية، ممشى جانبي
+frontal area	مساحة الجبهة الأمامية
+frontal attack	هجوم أمامي
+frontal collision	اصطدام أمامي
+frontal fog	ضباب جبهي
+frontal rain	مطر جبهي
+frontal weather	طقس الجبهة
+frontal wedging	توتيد أمامي
+frontier	نطاق الحدود
+frontier area	حقل حدود
+frontispice	عنوان مزخرف
+frontogenesis	نمو إعصاري
+frontolysis	تبدد إعصاري
+Froschmäulchen	صدار منبسط
+frost	صَقِيع / صقيع
+frost action	فعل الصقيع على التربة / تأثير الصقيع
+frost blanket course	طبقة واقية من الصقيع
+frost boil	انتفاخ ناتج من الصقيع، فوران صقيعي
+frost boundary	حد الصقيع
+frost damage	أضرار الصقيع
+Frost Day	يوم صقيع
+frost heave	انتفاخ صَقِيعِي / انتفاخ صقيعي / تعلية بالصقيع
+frost index	مؤشر التجمد / مُؤَشِّر تَجَمُّد
+frost limit	حدود الصقيع
+frost protection layer	طَبَقَة حِمَايَة من الصَّقِيع
+frost protector	واقي من التجمد
+frost resistance	مقاوِم للصقيع
+frost soil	تربة متجمدة
+frost susceptibility	انفلاعية، تأثر بالتجمد / قَابِلِيَّةُ التَّجَمُّد
+frost susceptible	قابل للتأثر بالصقيع
+frost up	تكوين ثلج (على سطح أنابيب الغاز المتمدد)
+frost-resistant pavement	رَصِيف مُقَاوِم لِلتَّجَمُّد
+frost; hoar frost	صقيع
+frost; icing	تَجَمُّد
+frosted bulb	غلاف وحدة إضاءة مصنفرة
+frosted glass	زجاج مُخشَّن
+frosted lamp	مصباح مصنفر
+frosting	تجمد سطح الماء
+frosting weathering	تعرية جليدية
+froth	زَبَد
+Froth flotation	طفو زبدي
+frothing	تزبُّد
+frotte yarn	خيط غزل وبري / خيط وبري مبروم
+frou-frou	فْرو -فْرو
+Froude number	عَدَدُ فرويد / عدد (كمية) فرويد / رقم فْراود
+frozen	متجمد
+frozen casing	أنابيب تغليف (تبطين) لاصبة
+frozen drill pipe	أنبوب حفر لاصب
+frozen pipe	أنبوب لاصب
+fructification	إثمار
+fructose	سكر الفاكهة
+fruit fiber	ألياف الفاكهة
+fruiting	تحقيق هدف
+Frunk	صندوق الأمامي (فرنك)
+fsc member (fsc membership)	عضو مجلس الإشراف على الغابات (FSC) (عضوية FSC)
+fuchsite	فوكسايت
+fuel	وقود
+fuel / air mixture	خليط الوقود والهواء
+fuel accumulator	مُجمِّع الوقود
+fuel additive	إضافات للوقود
+fuel assembly	معمل للوقود / مجمّعة الوقود
+fuel axial filter	فلتر محوري للوقود
+fuel bed layer	طبقة احتراق
+fuel blending facility	تسهيلات خَلْط الوقود
+fuel burn-out	حرق الوقود
+fuel bypass	تمرير جانبي للوقود
+fuel cell	خلية وقود / خلية وقودية، خلية تعمل بالوقود / خلايا الوقود / خلية الوقود / خلية وقودية
+Fuel Cell (FC)	خلية الوقود
+Fuel Cell Air Supply	إمداد الهواء لخلية الوقود
+Fuel Cell Aircraft	طائرة خلية الوقود
+Fuel Cell Battery	بطارية خلية الوقود
+Fuel Cell Bipolar Plate Material	مادة الصفيحة الثنائية القطب لخلية الوقود
+Fuel Cell Bus	حافلة خلية الوقود
+Fuel Cell Catalyst Layer	طبقة المحفز لخلية الوقود
+fuel cell cogeneration system	نظام توليد مشترك لخلية الوقود
+Fuel Cell Component Symbol	رمز مكون خلية الوقود
+Fuel Cell Current	تيار خلية الوقود
+Fuel Cell Durability	متانة خلية الوقود
+Fuel Cell Efficiency	كفاءة خلية الوقود
+Fuel Cell Efficiency Curve	منحنى كفاءة خلية الوقود
+Fuel Cell Electric Vehicle	مركبة كهربائية تعمل بخلايا الوقود
+Fuel Cell Electric Vehicle (FCEV)	سيارة خلية الوقود / سيارة كهربائية تعمل بخلية الوقود / سيارة كهربائية تعمل بخلايا الوقود
+Fuel Cell Fueling Point Sign	علامة نقطة تزويد خلية الوقود
+Fuel Cell Hybrid Electric Vehicle (FCHEV)	خلية الوقود الهجينة / سيارة كهربائية هجينة تعمل بخلية الوقود
+Fuel Cell Hydrogen Supply	إمداد الهيدروجين لخلية الوقود
+Fuel Cell Initiative	مُبادرة 'خلية الوقود'
+Fuel Cell Maintenance	صيانة خلية الوقود
+fuel cell module	وحدة خلية الوقود
+Fuel Cell Operating Temperature	درجة حرارة تشغيل خلية الوقود
+fuel cell power system	نظام قوى لخلية الوقود
+Fuel Cell Proton Exchange Membrane	غشاء تبادل البروتونات لخلية الوقود
+Fuel Cell Shutdown	إيقاف تشغيل خلية الوقود
+fuel cell stack	مجموعة خلايا الوقود
+Fuel Cell Stack Integration	تكامل حزمة خلايا الوقود / تكامل كومة خلايا الوقود
+Fuel Cell Stack; Fuel-Cell Stack	كومة خلايا الوقود
+fuel cell stack; stack	حزمة خلية الوقود
+Fuel Cell Startup	بدء تشغيل خلية الوقود
+Fuel Cell System	نظام خلية الوقود
+Fuel Cell System Components	مكونات نظام خلية الوقود
+Fuel Cell System Control	التحكم في نظام خلية الوقود
+Fuel Cell System Integration	تكامل نظام خلية الوقود
+Fuel Cell System Performance	أداء نظام خلية الوقود
+Fuel Cell System Testing	اختبار نظام خلية الوقود
+fuel cell systems	أنظمة خلايا الوقود
+fuel cell vehicle	مركبة تعمل بخلية الوقود / سيارة خلية الوقود / مركبة تعمل بخلايا الوقود (FCV)
+Fuel Cell Voltage	جهد خلية الوقود
+Fuel Cell Voltage Stack	كومة جهد خلية الوقود
+fuel cell,	خلية الوقود,
+fuel cell/battery hybrid system	خلية الوقود/ نظام مختلط لبطارية
+fuel cell/gas turbine system; fuel cell/gas turbine hybrid system	خلية الوقود/ نظام تربينة غازية؛ خلية الوقود/ نظام مختلط لتربينة غازية
+fuel cells	خلية وقود
+Fuel Cells and Hydrogen Joint Undertaking (FCH JU)	المُبادرة المُشتركة 'خلايا الطاقة والطاقة الهيدروجينية' (FCH JU)
+fuel channel	قناة وقود
+fuel charge	شحنة وقود
+fuel charging machine	آلة شحن الوقود
+Fuel Consumed	وقود مستنفد
+fuel consumption	استهلاك الوقود
+fuel consumption under test conditions	الاستهلاك المعياري للوقود
+fuel control	تحكُّم بالوقود
+fuel control unit	وحدة التحكم بالوقود
+fuel cooler	مبرد الوقود
+fuel cooling installation	منشأة تبريد الوقود
+fuel cost adjustment clause	بند ضبط تكلفة الوقود
+fuel cut-off	جهاز قَطْع الوقود
+fuel cycle	دورة الوقود
+fuel densification	تكثيف الوقود
+fuel depot	مستودع وقود
+fuel detonation	انفجار الوقود
+fuel dilution	تخفيف الوقود
+fuel dipper	مخفِّف الوقود
+Fuel dispenser	مضخة توزيع الوقود
+fuel distributor rail	خط توزيع الوقود
+fuel distributor tube	أنبوب توزيع الوقود
+Fuel Door Open	باب الوقود مفتوح
+Fuel Economy	اقتصاد الوقود
+Fuel Economy Equivalency	اقتصاد الوقود المكافئ
+Fuel Economy Label	بطاقة اقتصاد الوقود
+fuel efficiency	مُعدل استهلاك الوقود
+fuel element	عنصر الوقود / تجميع وقود
+fuel feed hole	فتحة الإمداد بالوقود
+fuel filling device	نظام التزود بالوقود
+fuel filter heater	مُسخّن مرشح وقود
+fuel filter insert	قلب فلتر الوقود
+fuel gas	غاز الوقود
+fuel gas compressor plant	معمل انضغاط غاز الوقود، وحدة دفع غاز الوقود
+fuel gas knock-out drum	وعاء فصل (السائل) من غاز الوقود
+fuel gauge	مؤشر منسوب الوقود / مؤشر منسوب البنزين / مبين استهلاك الوقود
+fuel grade	رتبة الوقود / نوعية الوقود
+fuel handling	تعامل مع الوقود
+fuel handling systems	نظام مناولة الوقود
+fuel high-pressure pump	مضخة وقود عالية الضغط
+fuel industry	صناعة الوقود
+fuel injection	الحقن / حَقْن الوقود
+fuel injection pump	مضخة الحقن
+fuel injector rail	خط الحقن
+fuel inventory	جَرْد الوقود
+fuel jet	منفث الوقود
+fuel jettison	طَرْح الوقود
+fuel lag	تأخُّر الوقود
+fuel level indicator	شاشة بيان احتياطي الوقود
+fuel line	خط الوقود
+fuel line filter	فلتر خطوط الوقود
+fuel loading machine	آلة تحميل الوقود
+fuel management	إدارة الوقود
+fuel manifold	مَشْعَب توزيع الوقود
+fuel metering valve (high-pressure pump)	صمام معايرة الوقود بمضخة الضغط العالي
+fuel mix	بيان مصادر التيار الكهربائي
+fuel mixture generation	مُعالجة الخليط
+fuel mixture generation system	نظام مُعالجة الخليط
+fuel oil	زيت الوقود / زيت وقود / زيت الوقود، مازوت
+fuel oil atomizer	مرذاذ زيت الوقود
+fuel oil stripper, (F.O.S.)	معري زيت الوقود، نازع البنزين من زيت الوقود
+Fuel Oil/ Special Products Sales Department	دائرة مبيعات زيت الوقود/ المنتجات الخاصة
+fuel passage	قناة الوقود
+fuel pellet	قرص وقود
+fuel plant	مصنع الوقود
+fuel plate	صفيحة وقود
+fuel power	قدرة الوقود
+fuel prepump	مضخة تغذية تمهيدية بالوقود
+Fuel Pressure Control Valve	صمام التحكم في ضغط الوقود بمضخة الضغط العالي
+fuel pressure sensor high-pressure accumulator	حساس ضغط الوقود في خازن الضغط العالي
+fuel processor	معالج الوقود
+fuel pump	مضخة الوقود
+fuel radial filter	فلتر قطري للوقود
+fuel reprocessing	معالجة الوقود / إعادة معالجة الوقود المستهلك
+fuel return line	خط الوقود الراجع
+fuel return line (common rail)	خط إمداد الوقود العالي الضغط (نظام المساق المشترك)
+fuel return volume	كمية الوقود الراجع
+fuel rod	قضيب وقود
+Fuel Savings	توفير الوقود
+Fuel Service Network	شبكة محطات تزويد الوقود
+fuel shut-off	قَطْع الوقود / قَفْل الوقود
+fuel sink	بالوعة الوقود الحرارية
+fuel sloshing	تَخَضْخُض الوقود
+fuel star filter	فلتر نجمي للوقود
+fuel supply line	خط الإمداد بالوقود
+fuel supply line (high-pressure side)	خط الإمداد بالوقود (جانب الضغط العالي)
+fuel supply line (low-pressure side)	خطب الإمداد بالوقود (ناحية الضغط المنخفض)
+fuel supply line high-pressure side common rail	جانب الضغط العالي لخط الإمداد بالوقود بالمساق المُشترك
+fuel supply line low-pressure side common rail	جانب الضغط المُنخفض لخط الإمداد بالوقود بالمساق المُشترك
+fuel system	دَوْرَةُ الوقود
+fuel system common rail injection	نظام حقن الخط المشترك
+fuel tank	خزان الوقود / خزان وقود
+Fuel Tank - Hydrogen	خزان الوقود - الهيدروجين
+fuel tank / fuel oil tank	خزان زيت التدفئة
+Fuel Tank Symbol	رمز خزان الوقود
+fuel temperature sensor	حساس درجة حرارة الوقود
+fuel temperature sensor common rail	حسّاس درجة حرارة الوقود بالمجمّع المُشترك
+fuel treatment evaluator (FTE)	تقييم معالجة الوقود
+fuel utilization	إستخدام الوقود
+fuel vent	مَنْفَس الوقود
+fuel wound filter	فلتر لفائفي للوقود
+fuel zero-delivery	انعدام التغذية بالوقود
+fuel-air eXplosive	مفرقعات الوقود والهواء
+fuel-air miXture analyser	مُحلِّل مزيج الوقود والهواء
+fuel-air ratio	نسبة المحروق إلى الهَوَاء / نسبة الوقود إلى الهواء وزنا
+fuel-cell drive	تشغيل بخلايا الوقود
+Fuel-Cell Hybrid Vehicle	سيارة هجينة تعمل بخلية الوقود
+fuel-cooled	مُبرَّد بالوقود
+fuel-efficient engine oil	زيوت حرة التدفق قليلة الاحتكاك
+fuel-jettison	جهاز طرح الوقود
+fuel-jettison time	زمن طَرْح الوقود
+fuel-pressure switch	مفتاح ضغط الوقود
+fuel-to-air ratio	نِسبة الوقود إلى الهواء
+fueler	سيارة تزويد الطائرات بالوقود
+fuelling coupler	وصلة التزود بالوقود
+fuelwood	حطب
+fugacity	انفلاتية
+fugitive (mosses)	عابر (طحالب)
+fugitive dust	غبار منتشر
+Fugitive Emissions	انبعاثات هاربة
+fugitive fuel emissions	انبعاثات وقود متسربة
+fugitive source	مَصْدَر هارب
+fugue	مَنفَذ
+fulcrum	مُرْتَكَز
+fulcrum point	نقطة ارتكاز
+fulgurant	حشوة وبرية / متألق
+fulgurator	مِرْذَاذ
+full (environmental) cost accounting	احتساب التكاليف (البيئية) الكاملة
+full aileron	جنيح تام الإزاحة
+full annealing	تلدين تام
+full barrier	حاجز كامل / حاجز كلي
+Full Battery Warning Light	ضوء تحذير البطارية الكاملة / مؤشر امتلاء البطارية
+full brake position	وضع الفرملة الكاملة
+Full Bridge Converter (FBC)	محول الجسر الكامل / محول القنطرة الكاملة / محوِّل الجسر الكامل
+full carrier	حامل كامل
+full charge	شحن كامل
+full coat	طلية كاملة
+full container load (FCL)	حاوية مملوءة
+full control of access	حظر (ال...) الكلي للدخول (إلى طريق رئيسي)
+full cycle	دورة كاملة
+full distance protection	حماية (وقاية) مسافية شاملة
+full drop centre rim [UK] / full drop center rim [US]	جنط غائر
+Full duplex transmission	نقل مزدوج ذو طرفين
+full duration half maximum (of a pulse); FDHM (abbreviation)	المدة التي يكون فيها مستوى النبضة اكبر من نصْف حَدّ ها الأعلى
+full echo suppressor	كابت الصدى كلياً
+Full Electric Car Logistics Vehicle	سيارة لوجستية كهربائية بالكامل
+Full Electric Logistics Vehicle	مركبة لوجستية كهربائية
+Full Electric Vehicle	سيارة كهربائية بالكامل
+Full Electric Vehicle (FEV)	سيارة كهربائية بالكامل
+full elevator	رافعة تامة الإزاحة
+full employment	تَوَظُّف كامل
+full employment of resources	استخدام كُلِّيّ للموارد
+Full exploitation of the grid	استخدام كامل للشبكة
+full field	مجال كامل
+full flight regime	نظام الطيران الكامل
+full floating axle	محور تأرجُحي
+full hole	ثقب (ال...) المملوء
+full hole tool joint	وصلة الأنبوب المملوء
+Full Hybrid	هجين كامل / مركبة فائقة التهجين / مركبة تامة التهجين
+Full Hybrid Electric Vehicle (FHEV)	الهجين الكامل / سيارة هجينة كاملة
+full line	خط كامل
+full load	حمل كامل / حمل كلي / حِمل كامل
+full load operation; base load operation	تشغيل بحمل كامل؛ تشغيل بحمل اساسي
+full load position	وضع التحميل الكامل
+full load value	قيمة الحمل الكلي
+full mattress pad	فراش منجد بالكامل
+full meander / meander	مُنعطف في مجرى مائي
+full own-damage	تأمين شامل بدون نسبة تحمل
+full pitch winding	لفيفة كاملة الخطوة
+full radiation	إشعاع تام
+full radiator	مشع تام
+full reservoir level / full supply level	منسوب ملء الخزان
+full rudder	دفَّة تامة الإزاحة
+Full Scale (FS)	قياس بالحجم الطبيعيّ
+full scale test	تجرِبة بالمقياس الحقيقي
+Full Self-Driving (FSD)	القيادة الذاتية الكاملة / قيادة ذاتية كاملة
+Full Self-Driving Capability	القدرة الكاملة على القيادة الذاتية
+Full Service	الخِدْمَةُ المُكْتَمِلَةُ
+Full Service Access Network	شَبَكَةُ الوُصُولِ إِلَى الخَدَماتِ الكامِلَةِ
+Full service collection	خدمة جمع النفايات
+full service history	كُتيب الفحص
+full shoulder	قميص بلا أكمام
+full size drawing	رسم المقاس الطبيعي
+full skirt	تنورة ذات شكل منحرف / تنورة واسعة
+full stop	نقطة ختامية
+full sun	شمس مكتملة
+Full Supervision	الإِشْرافُ التَّامُّ
+full supply	إمداد كامل
+full supply depth	عُمْق المياه لأقصى التصرفات
+full supply factor (FSF)	عامِل الإمداد الكامل
+full supply level, designed	منسوب تصميميّ لأقصى تصريف
+full supply line / maximum flow line	خط أقصى درجة تدفق
+full supply line, actual / maximum flow line, actual	خط أقصى فعليّ للاحتياجات
+full tested	أجريت عليه جميع الاختبارات
+full text	نص كامل
+full throttle	اختناق كامل
+full throttle limit	تحديد الحمولة الكاملة
+full voltage motor	محرك كامل الجهد
+full wave rectification	تقويم كامل الموجة
+full weld	درزة كاملة
+full width half maximum; FWHM (abbreviation)	عرض كامل نصف أعظمي
+full-bladed screw	مسمار ذو شفرات كاملة
+full-button jersey	تريكو بالعُقد
+full-centre arch	قوس نصف دائرية
+full-disconnection	فصل تـام
+full-face seal	قاطِع كامل
+full-faced type	محرف ثخين
+full-field teletext	نص مرئي كامل المجال
+full-floating axle extractor	نازعة المحور كامل الطفو
+full-flow filter	فلتر التيار الرئيسي
+full-pitch winding	لف بخطوة كاملة
+full-power tapping	تفريع القدرة الكاملة
+full-pressure suit	بذلة الضغط الكامل
+full-scale development	تطوير القياس الكامل
+full-track recording	تسجيل مسار كامل
+full-wave apparatus; two-peak generator	جهاز موجة كاملة
+full-wave dipole	ثنائى قطب كامل الموجة
+full-wave rectification	تقويم كامل الموجة
+full-wave rectifier	مُقَوِّم الموجة الكاملة
+full-wave voltage pulse	جهد دفعى كامل الموجة
+fulle gloss paint	طلاء لمّاع
+fullness	وَزْنُ أفواردوبويّ / عرض إضافي
+fullness factor (related to the flux density)	BH ناتج
+fullness factor related to the polarization	عامل إمتلاءِ (متعلق بكثافة الفيض)
+Fully Buffered Dual Inline Memory Module	وِحْدَةُ ذاكِرَةٍ مُضَمَّنَةٌ مُزْدَوَجَةٌ مُؤَقَّتَةٌ بِالكامِلِ
+Fully Charged Indicator Light	مؤشر الشحن الكامل
+fully controllable connection	توصيلة خاضعة كلياً للتحكم
+fully developed flow	جريان تام التطور
+fully dissociated signalling	ارسال إشارات مفككة تماما
+Fully Drawn Yarn	خيط كامل الغزل
+Fully Electric Vehicles	سيارات كهربائية بالكامل
+Fully Electric Vehicles (BEV)	السيارات الكهربائية بالكامل
+fully electronic engine control	تحكم إلكتروني تام في المحرك / نظام EEC
+fully electronic ignition	نظام الإشعال الإلكتروني الكامل
+fully eXpanded nozzle	نفاث تام التمدد
+fully factored	مُعامَل كاملاً
+fully fashioned design	رسم مكيف
+fully feathering	تجنيب كامل
+fully fixed	موثَّق تماما
+fully grown dimension	بُعد كامل النمو
+fully insulated current transformer	محول تيار ذو ملف ابتدائي
+fully integrated company	شركة تَامَّةُ التكامل
+fully ionized plasma	بلازما تامة التأيُّن
+Fully Oriented Yarn	خيط غزل موجه بشكل كامل
+fully penetrating well	بئر تام
+fully provided circuit group	مجموعة دارات مجهّزةِ بالكامل
+fully qualified domain name; FQDN (abbreviation)	إختصار (FQDN)؛ نطاق كامل مميز
+fully refined paraffin wax	شمع نفط تام التكرير
+fully synthetic fibrous material	مواد ليفية تامة التخليق
+fulminic acid	حمْض الفيلمنيك
+Fulton system	نظام فُلتون
+fulvic acid	حَمْض الفولفيك
+fumaroles	داخنات
+fume	دخان
+fume (smoke)	دُخان
+fume elbow	كوع (امتصاص) دخان
+fume hood	شافط دخان
+fumigation	تبخير
+fun fashion	ملابس المرح
+fun fur	فرو مزيف
+Function	وظيفة / دالة / تابع، دالَّة
+Function block	كتلة وظيفية
+function block diagram	لغة المُخطَّط الصندوقيّ الوظيفيّ
+function block diagram language; FBD language	لغة المُكوِّنات الوظيفية
+function block types	أنواع الكتلة الوظيفية
+function chart	مُخطَّط وظيفي
+function chart for sequential control; function chart	رسم دالة لتحكم متتابع
+function checkout	فحص وظيفى
+function checkout time	زمن التحقق من الأداء الوظيفى
+function command	أمر تعليمات قياسية
+function control	تحكم وظيفى
+function divided control; function sharing	تحكم مقسم وظيفى
+function generator	مولّد دالة
+function insulation	عزل الدالاّت
+function of n variables	متغيرات n دالة فى
+function schedule	جدول زمني للدالة
+function signal	إشارة وظيفية
+function,	وظيفة,
+functional	دالى
+functional biodiversity	تنوع بيولوجي وظيفي
+functional block	إطار وظيفى
+functional bonding conductor	موصل رباط وظيفى
+functional check,	اختبار وظيفي, الكشف عن الغاز
+functional component	مكون وظيفي
+functional diagram	رسم تخطيطى وظيفى؛ مخطط وظيفى
+functional diversity	تنوع وظيفي
+functional drawing	رسم وظيفي
+functional earthing conductor; functional grounding conductor, US	موصل تأريض وظيفى
+functional earthing; functional grounding, US	تأريض وظيفى
+functional elements of municipal solid waste management (mswm) system	عناصر وظيفية في نظام إدارة النفايات الصلبة البلدية
+Functional equation	مُعادلة دالية
+functional equipotential bonding system; FEBS	نظام رباط وظيفى متساوى الجهد
+Functional Failure	فشل وظيفي
+functional group	مجموعة وظيفية
+functional group; functional grouping (deprecated)	مجموعة وظيفية
+functional groups (control unit)	مجموعات وظيفية (وحدة التحكم)
+functional independence	الإستقلالية الوظيفية
+functional insulation	عزل وظيفى
+functional interface specification	مواصفات سطح بيني وظيفي
+functional redundancy	تكرار وظيفي
+functional relation	العلاقة الدالية
+functional requirement	مُتطلبات أساسية للشبكة
+functional safety	أمان وظيفى / السلامة الوظيفية
+Functional Safety Assessment	تقييم السلامة الوظيفية
+Functional Safety Standards	معايير السلامة الوظيفية
+functional switching	فصل وتوصيل وظيفي
+functional tender	تحديد برنامج لأعمال إنشائية / طلب عرض وظيفي
+functional tender (1)	عطاء وظيفي
+functional tender (2)	عطاء اسندلالي
+functional traits	صفات وظيفية
+functional unit	وحدة وظيفية / وحدة وظيفيّة
+functional unit (of an assembly)	وحدة وظيفية
+functional unit,	وحدة وظيفية,
+functional wear	ملابس وظيفية
+functional yarns	خيوط غزل وظيفية
+functional zone	نطاق وظيفي
+functional-equipotential-bonding	رباط وظيفى متساوى الجهد
+functionally shaped controls	مُتحكِّمات غَرَضية الشكل
+functions	وظائف
+functions of the ecosystems	وظائف نظم بيئية
+fundament; substructure; subgrade	مُنشأ سفليّ
+fundamental (component)	مركبة أساسية
+fundamental charge	شحنة أساسية
+fundamental component (of a Fourier series); fundamental	مركبة اساسية
+fundamental component; fundamental	المركبة الاساسية؛ اساسى
+fundamental constant	ثابت أساسي
+fundamental crystal unit	وحدة بلورية أساسية
+fundamental factor	عامل أساسي
+fundamental factor,	عامل اساسي
+fundamental factor; relative fundamental content	المعامل الاساسى؛ المحتوى الاساسى النسبى
+fundamental frequency	التردد الاساسى / تردد اساسي / تردد أساسي / تردد أساس
+fundamental mode	وضع أساسى؛ نمط أساسى
+fundamental mode of oscillation	نمط تذبذب أساسي
+fundamental physical constant; universal constant	ثابت عام - ثابت جامع؛ ثابت فيزيائي أساسي
+fundamental point	نقطة أساسية
+fundamental power	قدرة اساسية
+fundamental power factor	معامل قدرة أساسى
+Fundamental Qualities	الصفات الأساسية
+fundamental reference system of the CCITT	نظام الإشارة الأساسي لللجنة الدولية الاستشارية للبرق والهاتف
+fundamental tone; fundamental	نغمة أساسية
+fundamental units	وحدات أساسية
+funding	اعتماد مالي / تمويل / التمويل
+funding instrument	أداة تمويل / أداة دعم
+funding model	نموذج دعم / نموذج تمويل
+funding regime	نظام التمويل
+funeral clothes	لباس العزاء
+fungi	فُطريات
+fungibility emission	تبادلية الانبعاثات
+fungible fuels	أنواع وقود بديلة
+fungible products	منتجات مثلية (يمكن مزجها عند نقلها في الأنابيب)
+fungicidal paint	صياغ صامد للفطريات
+fungicide	مبيد فطريات
+fungus	إصابة بالفطر / فُطور / فطر
+fungus (fungi, plural)	فطر (فطريات)
+funicular	سكة حديد معلقة
+funicular polygon	مُضلَّع حبلي
+funnel	قِمْع
+funnel / hopper / cone	مخروط
+funnel skirt	تنورة منزلية
+funnel sleeves	كم قمعي
+fur / pelt	فرو
+fur fabric	نسيج فراء وبري
+furaline	فِرالين
+furan	فيُوران
+furl	بكرة ورق
+furling	دوران عكسي
+furling Tail	ذيل الدوران
+furlong	فِرلُونج
+furnace	فُرْن
+furnace black	سِنَاج الفرن، أسود الفرن
+furnace fuel oil	زيت وقود للافران، مازوت الأفران
+furnace heating-up time	زمن تسخين الفرن
+furnace stack	مدخنة الفرن
+furnace stack breeching	وصلة لمد خنة فرن، صندوق مدخنة الفرن
+furnace supply voltage	جهد تغذية الفرن
+furnace tilting system	نظام إمالة الفرن
+furnishing	تأثيث
+furnishing mock-up	نموذج مؤثث
+furniture	كتلة الهوامش
+furniture designer	مصمم أثاث
+furniture factory	مصنع الأثاث
+furol viscosity	لزوجة الفيورول
+furred	ملبَّس
+furred radiator	مُشعّ موحل، مُشعّ مقلَّح
+furring	خُشْبان محصصة / تقلُّح
+furrow	أخدود / ثلم
+furrow irrigation	ريّ بالأخاديد (الخطوط) / ريّ بطريقة الأخاديد الحقلية
+furrowing	تخديد، تحزيز
+furs	فرو خام
+Further Development of Batteries	مواصلة تطوير البطاريات
+further training	تدريب إرتقائيّ
+fuse	صهيرة / مصهر / صَهيرَة / مِصْهَر / فاصم / المِصْهَر / مُصهر
+fuse box (F/B)	صندوق المصاهر (F/B)
+Fuse Box Disabling High Voltage Symbol	رمز تحليل الجهد العالي / رمز صندوق المصهرات لتعطيل الجهد العالي
+fuse panel	حامل المصاهر
+fuse rating	مقننات المصهر
+Fuse Wire Connecting Each Cell to the Buss-Plate	توصيل كل خلية بلوحة التوصيل / سلك المصهر الذي يربط كل خلية بلوحة الناقل
+fuse(to)	صَهَر
+fuse-base contact	ملامس قاعدة المصهر
+fuse-base; fuse-mount	قاعدة المصهر
+fuse-carrier	حامل مصهر
+fuse-carrier contact	ملامس حامل المصهر
+fuse-combination unit	وحدة تجميع بمصهر
+fuse-disconnector	فاصل بمصهر
+fuse-element	عنصر المصهر
+fuse-holder	ماسك مصهر / حامل الفاصم
+fuse-link	وصلة مصهر
+fuse-link contact	ملامس وصلة المصهر
+fuse-switch	مفتاح بمصهر
+fuse-switch-disconnector	فاصل-مفتاح-مصهر
+fuse; fuse-wire	صهيرة
+fused disconnect switch	مفتاح فصل منصهر
+fused plug	قابس ( مأخذ) بمصهر
+fused quartz	كوارتز منصهر
+fused salt electrolysis	تحليل كهربائي بالملح المنصهر (المذاب)
+fused short-circuit current	تيار قصر الدارة المنصهر
+fused silica; vitreous silica	سليكا منصهرة
+fusee	صِمامَة إشعال
+fusee; fuze	فتيلة إشعال
+fuselage	جسم الطائرة / جذع المركبة / جسم المَركبة
+fuselage reference line	خط مرجعي للجسم
+fusibility	انصهارية
+fusible	صهور
+fusible alloys	سبائك سهلة الانصهار
+fusible plug	سدادة أمان / سدادة صَهور / سِدادة صَهُور
+fusion	انصهار
+fusion bomb	قنبلة هيدروجينية / قنبلة اندماجية
+fusion frequency; critical flicker frequency	تردد الإندماج
+fusion heat	حرارة الانصهار
+fusion line	خط الانصهار
+fusion point	نقطة الانصهار
+fusion power	طاقة الانصهار
+fusion power density	كثافة القدرة الاندماجية
+Fusion Power Plants	محطات الطاقة الاندماجية
+fusion pressure curve	مُنحنى الانصهار
+fusion process	عملية التفكيك
+fusion reactor	مُفاعِل اندماجي
+fusion splice	وصلة مجدولة بالانصهار
+fusion welding	لحام بالانصهار / لِحام بالصهر
+fusion zone	منطقة الانصهار
+fusion; integration	اندماج
+fusion; melting	انصهار
+fustian	فُسْتيان / فستيان
+futon	فوتون
+Future Connector for Home Charging	توصيلة المنزل المستقبلية / موصل المستقبل للشحن المنزلي
+future cycle accumulation	تجميع دورات التشغيل المستقبلية
+future energy needs	احتياجات مستقبلية من الطاقة
+future house	بيت المُستقبل
+futuristic guy	شاب المستقبل
+fuze	فتيلة انفجار
+fuzz	زغب الورق
+Fuzzification	تغميض
+Fuzzy Control	ضبط بالمنطق الغامض / تحكم غير محدد؛ تحكم مشوش
+Fuzzy Controller	جهاز ضبط بالمنطق الغامض
+Fuzzy logic	منطق غامض
+fuzzy logic controller	جهاز ضبط بالمنطق الغامض
+Fuzzy Logic Controller (FLC)	نظام التحكم المنطقي الضبابي / وحدة التحكم المنطقي الضبابي
+fuzzy logic controller design	تصميم جهاز الضبط بالمنطق الغامض
+fuzzy paper	ورق مزغّب
+Fuzzy set	مجموعات غامضة / مجموعة ضبابية
+Fuzzy-Controller	جهاز ضبط بالمنطق الغامض
+fuzzy-logic-controller	جهاز ضبط بالمنطق الغامض
+föhn	فونة

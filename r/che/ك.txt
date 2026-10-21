@@ -1,0 +1,397 @@
+كائن حي مجهري	micro-organism
+كابرولاكتام	caprolactam
+كاتود، مهبط	cathode
+كاتودي، مَهْبِطِي	cathodic
+كاتيكول	catechol
+كاتيكولامين	catecholamine
+كاتيون، أيون موجب، شاردة موجبة	cation
+كاتيون، هابطة	cation
+كاتيونتروفية، نمو كاتيوني	cationtrophy
+كاتيوني	cationic
+كادميوم	cadmium
+كاديوم	cadmium
+كاربين	carbene
+كارفاكرول	carvacrol
+كارنيتين	carnitine
+كاره الزيت	oleophobic
+كاره اللون	chromophobe
+كاره الماء	hydrophobe
+كاره للبروتونات	protophobe
+كاره للماء	hydrophobic
+كاروتياني	carotenoid
+كاروتين	carotene
+كازيين	casein
+كازيين، جبنين	casein
+كأس	beaker
+كاسر	refractive
+كاشِف	Fenton's reagent / detector / reagent
+كاشف الأيون	ion detector
+كاشف الرطوبة	hygroscope
+كاشف الطيف	spectroscope
+كاشف إلكتروفيلي	electrophilic reagent
+كاشف تولن	Tollen's reagent
+كاشف جاكمارت	Jacquemart's reagent
+كاشف شفايتزر	Schweitzer’s reagent
+كاشف شيف	Schiff's reagent
+كاشف غرينيار	Grignard reagent
+كاشف كارل-فيشر	Karl-Fischer reagent
+كاشف نسلر	Nessler's reagent
+كاشف نكلوفيلي	nucleophilic reagent
+كاشف، متفاعل	reagent
+كافور	camphor
+كافيين	caffeine
+كالسيت	calcite
+كالسيفرول	calciferol
+كالسيوم	calcium
+كالكوسيت	chalcocite
+كالوري، حريرة	calorie
+كالوميل	calomel
+كالوميل، كلوريد الزئبقور، كلورور الزئبقي	calomel
+كاليفورنيوم	californium
+كامد	mat / opaque
+كامد، مُرَكَّب سلفيدي	matte
+كامن	latent
+كامن (لاطي)	latent
+كاو	caustic
+كاوتشوك	caoutchouc
+كاولين	kaolin
+كاولينيت	kaolinite
+كاوي	caustic
+كاينيت	kainite
+كبت المناعة	immunosupression
+كبح التفاعل	reaction inhibition
+كبرتة	sulfuration / sulfurization / sulphuration / vulcanization
+كبرتة، مكبرِت	sulfurizing
+كِبْريّ، جَهْرِيّ، عياني: سابقة	macro-
+كبريت	sulfur, sulphur / sulphure
+كبريت الهيدروجين	hydrogen sulfide
+كبريت قابل للتبلّل	wettable sulfur
+كبريتات	sulphate
+كبريتات الأمونيوم	ammonium sulphate
+كبريتات الحديد II	ferrous sulfate
+كبريتات، سُلْفات	sulfate
+كبريتي	sulfurous
+كبريتيد الأنتيمون الذهبي، كبريتور الأنتيمون الذهبي	antimony (golden) sulphide
+كبريتيد الهيدروجين، كبريتور الهيدروجين	hydrogen sulphide
+كبريتيد، كبريتور	sulphide
+كبريتيك	sulfuric
+كبسولة	capsule
+كبفرّون	cupferron
+كتالة	agglomerate
+كتلة	mass
+كتلة الامتصاص	absorption mass
+كتلة الصيغة	formula mass
+كتلة خشبية، كتل خشبية	log (s)
+كتلة ذرة غرامية	gram atomic mass
+كتلة ذرية	atomic mass
+كتلة سكونية	rest mass
+كتلة نشطة، كتلة فعّالة	active mass
+كتيم	leak-proof
+كتيم للهواء، سدود الهواء	air-tight
+كتيم، لا نفوذ	impermeable
+كثافة	condensate / density
+كثافة البخار	density of vapour / vapor density
+كثافة الغاز الحدّيّة	density (limit..) of gas
+كثافة إلكترونية	electron density
+كثافة بخارية	vapour density
+كثافة حدية	limiting density
+كثافة ضوئية	optical density
+كثافة ظاهرية	apparent density
+كثافة مطلقة	absolute density / density (absolute..)
+كثافة نسبية	density (relative..) / relative density
+كثير، متعدد: سابقة	poly-
+كحللة، غوللة	alcoholysis
+كحول أحادي الهيدروكسيل، غول أحادي الهيدروكسيل	alcohol (monohydric..)
+كحول المثيل، غول المثيل	alcool (methyl..)
+كحول ثنائي الهيدروكسيل، غول ثنائي الهيدروكسيل	alcool (dihydric..)
+كحولات أليفاتية، كحولات دهنية	aliphaticalcohols
+كحولات أولية	primary alcohols
+كداسة	aggregate
+كَدِرٌ	turbid
+كدورة	turbidity
+كراميل	caramel
+كراويا	caraway
+كربامات	carbamate
+كرباميل	carbamyl
+كربانيون	carbanion
+كَرْبَكسَلة	carboxylation
+كَرْبلة	carbonylation
+كَرْبَنَة	carbonation
+كربنة، تفحيم	carburation
+كربوتيلات	karbutilate
+كربورندوم	carborundum
+كربوكسيل	carboxyl
+كربوكسيلاز	carboxylase
+كربوكسيلي	carboxylic
+كربوكسيلياز	carboxylyase
+كربون	carbon
+كربون ثالثي	tertiary carbon
+كربون فلوري	fluorocarbon
+كربون لابلّوري	carbon (amorphous..)
+كربون مزيل اللون، كربون منصِّل، كربون ناصل	decolourising carbon
+كربون مُشع	radiocarbon
+كربون هالوجيني	halocarbon
+كربونات	carbonate
+كربونات الأمونيوم	ammonium carbonate
+كربونات الزئبق القاعدية، كربونات الزئبقيك القاعدية	mercuric carbonate (basic)
+كربونات الصوديوم	sodium carbonate
+كربونيل	carbonyl
+كربونيوم	carbonium
+كربوهيدرات	carbohydrate
+كربوهيدراز	carbohydrase
+كربيد	carbide
+كربين	carbene
+كرَّرَ، صفَّى	rectify
+كرنيت	kernite
+كرة التساند الداخلية	inner coordination sphere
+كروم	chrome / chromium
+كروما توغرافية ذات بعدين	two-dimensional chromatography
+كرومات	chromate
+كرومات الأمونيوم	ammonium chromate
+كرومات الفضة	silver chromate
+كروماتوغرافيا	chromatography
+كروماتوغرافيا الطبقة الرقيقة	thin layer chromatography
+كروماتوغرافيا امتزازية	adsorption chromatography
+كروماتوغرافيا كهربائية	electrochromato-graphy; electrophero-graphy
+كروماتوغرافية	ultrachromato-graphy
+كروماتوغرافية (ال...) الورقية، شريط كروماتوغرافي	paper (strip) chromatography
+كروماتوغرافية الطبقة الرقيقة	thin layer chromatography
+كروماتوغرافية الغاز	gas chromatography
+كروماتوغرام، مخطط كروماتوغرافي	chromatogram
+كروماتين	chromatin
+كروموفور، حامل اللون	chromophor
+كروميت	chromite
+كريات	globules
+كرياتين	creatine
+كرياتينين	creatinine
+كريبتون	krypton
+كريزول	cresol
+كريه	nasty (odeur)
+كرية بيضاء	leucocyte (leukocyte)
+كرية حمراء	erythrocyte
+كسر التأين، تجزئة التأين	fraction of ionization
+كسر جزئي	partial fraction
+كسر مولي	molar fraction; mole fraction / mole fraction / mole fraction; molar fraction
+كسْر، تصدُّع	fracture
+كسر، جزء	fraction
+كَسور، قصوف، هشوش	friable
+كَشَفَ	detect (to) / detection / detection (of radiation)
+كظر	adrenal
+كعكة النطرون	niter cake
+كعكة ترشيح	filter cake
+كفاءة، مردود	efficiency
+كلاب	clamp
+كلاب المعوجَّة	retort clamp
+كلال (المواد)	fatigue (of materials)
+كلال حراري	thermal fatigue
+كلَّسَ	calcine (to)
+كلس (جير) حي	quick lime
+كلس حيّ	lime (quick...)
+كلس حيّ، جير حيّ	quick lime
+كِلْسٌ صودي	soda lime
+كلس غازي	gas lime
+كلس غير مطفأ، جير حيّ او غير مطفأ	unslaked lime
+كلس مائي	lime (hydraulic)
+كلس مطفأ	lime (skaleld...) / slacked lime / slaked lime
+كلس مطفأ، جير مطفأ، عجينة الكلس	lime paste
+كلْس، جير	lime
+كلسي، جيري	calcarous
+كَلْوَرَ	chlorinate (to) / chlorine
+كلور الهيدروجين	hydrogen chloride
+كلور فعّال، كلور مفيد	available chlorine
+كلور متاح	available chlorine
+كلورات	chlorate
+كلورات البوتاسيوم	chlorate (potassium..) / potassium chlorate
+كلورات الصوديوم	sodium chlorate
+كلورال	chloral
+كلورامفنيكول	chloramphenicol
+كلورة	chlorination
+كلوروبرين	chloroprene
+كلوروبلاست، صانعة اليخضور	chloroplast
+كلوروبيكرين	chloropicrin
+كلوروفورم	chloroform
+كلوروفيل، يخضور	chlorophyll
+كلوريت	chlorite
+كلوريد	chloride
+كلوريد الأمونيوم، كلورور الأمونيوم	ammonium chloride
+كلوريد البوتاسيوم	potassium chloride
+كلوريد الحديد II	ferrous chloride
+كلوريد الحديد III	ferric chloride
+كلوريد الذهب، كلوريد الذهبيك	auric chloride
+كلوريد الذهبي، كلوريد الذهبوز	aurous cloride
+كلوريد الزنك	zinc chloride
+كلوريد السُلْفوريل	sulfuryl chloride
+كلوريد الصوديوم	sodium chloride
+كلوريد الفضة	silver chloride
+كلوريد الفينيل	vinyl chloride
+كلوريد الكبريت	sulfur chloride
+كلوريد الميتيل	methyl chloride
+كلوريد الميتيلين	methylene chloride
+كلوريد النتروزيل	nitrosyl chloride
+كلوريد متعدد الفينيل	polyvinyl chloride
+كلوريد، كلورور	chloride
+كلي الوجود، واسع الانتشار	ubiquitous
+كمال	integrity
+كَمدة	dullnesse / opacity
+كمون الاتصال السائلي	liquid junction potential
+كمون الإرجاع	reduction potential
+كمون الاستقطاب	polarization potential
+كمون الأكسدة	oxidation potential
+كمون التأكسد	oxidation potential
+كمون التأيّن	ionization potential
+كمون التأيّن الأول	first ionization potential
+كمون التأين، جهد التأين	ionization potential
+كمون الجريان	streaming potential
+كمون الريدوكس	redox potential
+كمون الصفر	zero potential
+كمون المسرى	electrode potential
+كمون المسرى المعياري	standard electrode potential
+كمون المسرى، جهد القطب، كمون القطب	electrode potential
+كمون تجاوبي (رنيني)	resonance potential
+كمون تحريكي	kinetic potential
+كمون ترموديناميكي	thermodynamic potential
+كمون حركي كهربائي	electrokinetic potential
+كمون سلبي	negative potenial
+كمون كهربائي	electric potential
+كمون كهرحركي	electrokinetic potential
+كمون كهركيميائي	electrochemical potential
+كمون كيميائي	chemical potential
+كمون كيميائي، جهد كيميائي	chemical potential
+كمون مطلق، جهد مطلق	absolute potential
+كمون نرنست	Nernst potential
+كمون نصف الموجة	half-wave potential
+كمون نظامي للفلز، جهد نظامي للمعدن	normal potential of the metal
+كمون، جهد	potential
+كمونات مسرورية، كمونات الكترونية، جهود مسرورية، جهود الكترونية	electrode potentials
+كمونية، إمكانية	potency
+كمّي	quantitative
+كمية	quantity
+كمية الحركة الزاوية، عزم حركي زاوي، رقم زاوي	angular momentum
+كهر حراري	thermoelectric
+كهراكدي	electrostatic
+كهربائي	electric / electrical
+كهربائي ساكن، كهرساكن	electrostatic
+كهرجابي	electro-positive / electropositive
+كهرجابية	electropositivity
+كهرسلبي	electro-negative / electronegative
+كهرسلبية	electronegativity
+كهرضغطي	piezoelectric
+كهرضوئي	photoelectric
+كهرطيسي	electromagnetic
+كهرطيسية، كهرمغناطيسية	electromagnetism
+كهركيميائي	electrochemical
+كهرل	electrolyte
+كهرلي	electrolytic
+كوارتز	quartz
+كوارك	quark
+كوانتا، كُموم	quanta
+كوانتم، كم	quantum
+كوانتي، كُمومي	quantic
+كوب قياس	measuring cup
+كوبال	copal
+كوبالامين	cobalamin
+كوبالت	cobalt
+كوبلت	cobalt
+كورار	curare
+كورتيزول	cortisol
+كورتيزون	cortisone
+كورتيكوستيرون	corticosterone
+كورتيكوستيروييد، ستيروييدات قشرية	corticosteroide
+كورديت	cordite
+كورندم	corundum
+كوري	curie
+كوريوم	curium
+كوك النِّفط	petroleum coke
+كولاجين	collagen
+كولوديون	collodion
+كولون	coulomb
+كوليستيرول	cholesterol
+كولين	choline
+كومارين	coumarine
+كومبلكسون	complexone
+كون	cosmos
+كوندرويتين	chondroitin
+كونستنتان	constantan
+كَوْنِيّ	cosmic
+كُوَيب	cupel
+كيان	entity
+كيتال	ketal
+كيتال نصفي	hemiketal
+كيتو	keto –(ket-)
+كيتوتريوز	ketotriose
+كيتوز	ketose
+كيتوستيروييد	ketosteroid
+كيتوكسيم	ketoxime
+كيتول	ketol
+كيتون	ketone
+كيتون، سيتون	ketone
+كيتونات أليفاتية	aliphatic ketones
+كيتوهكسوز	ketohexose
+كيتيمين	ketimine
+كيتين	chitin / ketene
+كير	bellows
+كيراتين	keratin
+كيراتيناز	keratinase
+كيروسين	kerosene (kerosine)
+كيروسين، كاز	kerosine
+كيفيّ	qualitative
+كيكوليه	kekule
+كيلو	kilo-
+كيلوغرام	kilogram
+كيميا إشعاعية	radiochemistry
+كيمياء	chemistry
+كيمياء إشعاعية	radiation chemistry / radiochemistry
+كيمياء الاجهاد	piezochelistry
+كيمياء التخمر	zymurgy
+كيمياء الحالة الصلبة	solid state chemistry
+كيمياء السطوح	surface chemistry
+كيمياء الضغوط المرتفعة	piezochemistry
+كيمياء الضيف والمضيف	host-guest chemistry
+كيمياء الكم، كيمياء كُمومية	quantum chemistry
+كيمياء المقادير الفائقة الصغر	ultramicrochemistry
+كيمياء النفط	petrochemistry
+كيمياء تحليلية	analytical chemistry
+كيمياء تساندية	coordination chemistry
+كيمياء تساندية، كيمياء تناسقية	coordination chemistry
+كيمياء تطبيقية	applied chemistry
+كيمياء جنائية	forensic chemistry
+كيمياء حرارية	thermochemistry
+كيمياء حركية	kinetic chemistry
+كيمياء حيوانية	zoochemistry
+كيمياء حيوية	biochemistry
+كيمياء زراعية	agricultural chemistry
+كيمياء صناعية	industrial chemistry
+كيمياء ضوئية	photochemistry
+كيمياء عامة	general chemistry
+كيمياء عضوية	organic chemistry
+كيمياء عيانية	macrochemistry
+كيمياء فراغية	stereochemistry
+كيمياء فيزيائية	physical chemistry
+كيمياء كمية	quantum chemistry
+كيمياء كهربائية	electrochemistry
+كيمياء لاعضوية	Inorganic chemistry
+كيمياء لاعضوية، كيمياء غير عضوية	chemistry (inorganic..)
+كيمياء مجسمة	stereochemisty
+كيمياء مجهرية (مِكروية)	microchemistry
+كيمياء مغناطيسية	magnetochemistry
+كيمياء مناعية	immuno chemistry
+كيمياء ميكروئية، كيمياء دقيقة	microchemistry
+كيمياء نباتية	phytochemistry / plant chemistry
+كيمياء نسيجية	histochemistry
+كيمياء نووية	nuclear chemistry
+كيميائي	chemist
+كيميائي حراري	thermochemical
+كيميائي حَيَوِيّ	biochemical
+كيميائي ضوئي	photochemical
+كيميائي كهربائي	electrochemical
+كيميائي، مادة كيميائية	chemical
+كيمياصيدلانية	pharmacentical chemistry
+كيناز	kinase
+كينالدين	quinaldine
+كينماتيكا	kinematics
+كينهيدرون	quinhydrone
+كينورينين	kynurenine
+كينولين	quinoline
+كينون	quinone
+كينيزارين	quinizarin
+كينين	quinine

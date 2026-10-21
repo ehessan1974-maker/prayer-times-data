@@ -1,0 +1,93 @@
+سؤال	Question
+سؤال المقابلة	Interview Question
+سابق لما قبل الأخير	Antepenultiem
+سابقة	Prefix
+سابقة فعلية	Preverb
+سادية	sadism
+ساِرد	narrator
+سامٍ، نبيل	sublime
+سباعية	septet
+سببي	Causative
+سببية معجمية	Lexical causativity
+سِجَال	debate
+سِجاليّ	polemical
+سَجْع	Homeotelente
+سِجِلّ	register
+سِجل التاريخ	register of history
+سِجلّ اللغة	language register
+سجل تاريخي	chronicle
+سُخْريـة	irony
+سخرية جارحة	sarcasm
+سُخرية دراميـة	dramatic irony
+سَرْد	Report / narration
+سرديّ	narratic / narrative
+سردية	narrativity
+سرقة أَدبية، انتحال	plagiarism
+سَطْح	surface
+سَطْحِي	Superficial
+سعة الصوت	Amplitud of sound
+سقَف قَفَص الرّكح	Fly
+سُقُوط	Syncope
+سقوط الأول	Aphaeresis
+سُكُونِي	Static
+سُلاَلَة اللغات	Genealogy of languages
+سلالي، عرقي	Ethnic
+سلامة	Correctness
+سِلْسلة	Chain / Concatenative series / Linking / series
+سلسلة اللّهجات	Dialect Chain
+سلسلة اللّهجة	Dialect Continuum
+سلسلة كريول	Creole Continuum
+سلسلة كريول اللّاحقة	Post-Creole Continuum
+سلسلة، متوالية	Series
+سلسلية	Concatenative language
+سُلطة رمزية	symbolic power
+سلعنة اللُّغة	Commodification
+سلوك لغوي	Language behaviour
+سلوكية	Behaviourism
+سِمَات إصغائية	Acoustic features
+سمات الحركة	System of gestures
+سَمَاعٌ	Universe of statements
+سِمَة	Feature
+سمة انتظامية	Taxem
+سمة دلالية	Seme
+سِمَة مميِّزة، خاصية	Distinctive features
+سميائيات المحسوس	sensible semiotics
+سَنَدٌ	support
+سَهْم	Arrow
+سوء التكوين	Malformation
+سوء التّواصل	Miscommunication
+سوريالية	surrealism
+سوسيوثقافيّ	sociocultural
+سونيتة	sonnet
+سِياق	Context / Environment / context
+سياق الظّرف	Context of Situation
+سياق حُرٌّ	Free context
+سِيَاق مُبَاشِر	Microcontext
+سياق واسع	Macrocontext
+سياقيّ	Syntagmatic
+سِيَاقية	contextualism
+سِيرْك	circus
+سيرة	biography
+سيرة أدبيـة	literary life
+سيرة حياة	biography
+سيرة ذاتية	autobiography
+سيرة ذاتية تخيلية	autobiografiction
+سَيْرُورَة	Process
+سيرورة الذوات	Item's process
+سيميائيات	Semiotics
+سيميائية (سيميوطيقا)	semiotics
+سيميائية اجتماعية	sociosemiotic
+سيميائية الروائح	semiotic odour
+سيميائية الفضاء	space semiotic
+سيميائية المسرح	theater semiotic
+سيميائية بيولوجية	bio-semiotics
+سيميائية سيكولوجية	psycho-semiotic
+سيميائية عِرْقية	ethnosemiotic
+سيميائية علمية	semiotic science
+سيميائية نصية	textual semiotic
+سيميولوجيا	Semiology
+سيميولوجيا، علم العلامات	semiology
+سِينما	cinema
+سِينُوغرافيا	scenography
+سينيميات	Cenematics
+سُيُولة أدبية، أدب متدفِّق	river literature

@@ -1,0 +1,181 @@
+داء، مَرَضٌ، علة	disease; illness
+دائرة ابتدائية	Circuit of First Instance
+دائرة الأحوال الشخصية	Family Circuit
+دائرة الاستئناف	Appellate Circuit
+دائرة التنفيذ	Enforcement Circuit
+دائرة الشرطة	police department
+دائرة انتخابية	electoral constituency; electoral district
+دائرة تجارية	Commercial Circuit
+دائرة جزائية	Penal Circuit
+دائرة عمالية	Labor Circuit
+دائرة قضائية	Judicial Circuit
+دائن	Creditor / creditor
+دائن رئيس	principal creditor
+دائن عاديّ	unsecured creditor
+دائن مُرتهِن	Mortgage Creditor
+دائن مضمون	Secured Creditor
+دائن ممتاز	preferential creditor
+داخليّ	In-House / internal; interior
+دار التوقيف	Detention Center
+دار نشر	publishing house
+دار نشر وظيفة الجودة / الجودة	House Of Quality/Quality Function Deployment (QFD)
+دافِع الضريبة	tax payer
+دَخْل ثابت	fixed income
+دَخْل حقيقيّ	real income
+دَخْل سنويّ، رَيْع سنويّ	yearly income
+دَخْلٌ صافٍ	net income
+دَخْل عائليّ، دَخْل أسريّ	family income
+دَخْل عينيّ، أجْر عينيّ	income in kind
+دَخْل قوميّ	national income
+دَخْل متاح التصرف فيه	disposable income
+دَخْل، أجْر	income
+دراسة حالة	Business Case
+درجة الإدراك	Perception Score
+درجة التوقع	Expectation Score
+درجة القرابة	degree of relationship
+دروس مستفادة	Lessons Learned
+دستور	Constitution
+دستور جامد	rigid constitution
+دستور عرفيّ، دستور غير مكتوب	unwritten constitution
+دستور مَرِن	flexible constitution; supple constitution
+دستور مكتوب	written constitution
+دستور، قانون أساسيّ	constitution
+دستوريّ	constitutional
+دستورية القوانين	constitutionality of laws
+دعوة اجتماعية	Social Advocacy
+دعوة لتقديم العطاءات	Invitation To Tender (ITT)
+دعوة للإنسحاب	Invitation To Treat
+دعوة للمنافسة	Call For Competition
+دعوة، استدعاء	convocation; summons
+دعوى احتياطية	subsidiary action
+دعوى إدارية	administrative action
+دعوى استحقاق	recovery action
+دعوى استرداد	restitutive action
+دعوى استرداد الحيازة	retreat action
+دعوى الإثراء بلا سبب	action of illicit enrichment; action in rem verso
+دعوى الحالة	status action
+دعوى الحيازة	possessory action
+دعوى الدفع بالعيب الخفيّ، دعوى الفسخ بالعيب الخفيّ	redhibitory action
+دعوى المنقول	movable action
+دعوى بوليصية، دعوى عدم نفاذ تصرف المدين	revocatory action
+دعوى جنائية	criminal action
+دعوى شخصية	action in personam; personal action
+دعوى عَقارية	estate action
+دعوى عمومية	prosecution
+دعوى عينية	action in rem; real action
+دعوى غير مباشرة	indirect action
+دعوى قضائية	action / legal action
+دعوى قضائية، تكليف بالحضور	legal summons
+دعوى مختلطة	mixed action
+دعوى مدنية	civil action / lawsuit
+دعوى مستعجلة	urgent case
+دعوى ملكية الحق	petitory suit; claim of ownership
+دعوى منع التعرض	action of complaint
+دفاتر تجارية	trade books
+دفاع	Defense / defence; defense
+دفاع شرعيّ	legitimate defence / self-defence
+دفتر الأداءات، دفتر المدفوعات	payroll; wage book
+دفتر الجَرْد	inventory book
+دفتر الحسابات، دفتر (ال..) الأستاذ	ledger
+دفتر المحاسب العام	General Ledger
+دفتر المخزونات	stock book
+دفتر اليومية	journal; daybook
+دفتر صكوك، دفتر شيكات	cheque book
+دفتر عائليّ	family book
+دفتر محاسبة، سِجلّ حسابات	account book
+دفتر وضعية السجين، دفتر الأحوال في السجن	prison register
+دفع إلكتروني	E-Payment
+دَفْع أوليّ	pre-judicial plea
+دَفْع بالغياب، دَفْع بالتغيب	alibi
+دَفْع بالنظام العام	plea of law and order
+دَفْع بعدم الاختصاص	exception of incompetence; incompetency / plea of incompetence; declinatory of incompetence
+دَفْع بعدم التنفيذ	exception of inexecution
+دَفْع بعدم الدستورية	exception of unconstitutionality
+دَفْع بعدم الشرعية	exception of illegality
+دَفْع بعدم القبول	exception of inadmissibility / plea of non-admissibility
+دَفْع بوجود دعوى موازية	plea of non-parallel appeal
+دَفْع تماطليّ	dilatory exception; dilatory plea
+دَفْع جزئيّ، أداء جزئيّ	part payment
+دفع عند الشراء (أو العكس)	Pay When Paid
+دفعة مؤقتة / مدفوعات جزئية	Interim Payments
+دفعة مقدمة	Advance Payment
+دفوع	Defenses
+دكتاتور، حاكم مطلق	dictator
+دليل	Evidence
+دليل اجتماعي	Social Proof
+دليل الأسلوب / وثيقة دليل	Style Guide
+دليل إلكتروني	Electronic Evidence
+دليل رقمي	Digital Evidence
+دليل سنويّ	yearly book; directory
+دليل شفويّ، شهادة	oral evidence
+دليل كتابي	Written Evidence
+دليل مستندي	Documentary Evidence
+دليل مقبول، إثبات مقبول	admissible evidence
+دليل مكتوب	written evidence
+دليل، بينة، حُجّة	evidence
+دمج كبير	Big I
+دوائر الجودة	(Qcs) Quality Circles
+دوافع استراتيجية	Strategic Drivers
+دوافع العمل	Business Drivers
+دوران المخزون / معدل دوران المخزون (مرتفع أو منخفض)	Stock Turn/Stock Turnover (High Or Low)
+دورة الأعمال التجارية	(GDP) Business Cycle
+دورة التخطيط السنوية	Annual Planning Cycle
+دورة التشغيل	Operating Cycle
+دورة الحياة	Life Cycle
+دورة الزمن	Cycle Time
+دورة برلمانية	parliamentary session
+دورة حياة العلاقة	Relationship Life Cycle
+دورة حياة المنتج	Product Life Cycle
+دول الأعضاء في منظمة العمل الدولية	Member States Of The ILO
+دول منخفضة التكلفة	Low Cost Countries
+دول نامية	developing countries
+دولة	state
+دولة الرفاهية	welfare state
+دولة ذات سيادة	sovereign state
+دولة فدرالية، دولة اتحادية	federal state
+دولة متعاقدة	Contracting State
+دولة مجاورة	adjacent state
+دولة مركزية (الحكم)	unitary state
+دولة مضيفة	Host Nation
+دولة مُعتدية	aggressor state
+دومينو	Domino
+دون إخطار، دون إشعار	without advice
+دون إخلال	without prejudice
+دون تأخير، فورا	without delay
+ديباجة، تمهيد	preamble
+ديبلوماسية	diplomacy
+ديمقراطية	democracy
+ديمقراطية تمثيلية	representative democracy
+ديمقراطية دستورية	constitutional democracy
+ديمقراطية شبه مباشرة	semi-direct democracy
+ديمقراطية شعبية	popular democracy
+ديمقراطية مباشرة	direct democracy
+ديمومة الجيل	Always-On’ Generation
+دَيْن	Debt / debt
+دَيْن احتمالي	Potential Debt
+دَين ثابت، دَين محقق	certain debt
+دين حق الرجوع المحدود / الجزئي	Limited Recourse
+دين حكومي (العام)	Government Debt
+دَين عموميّ	public debt
+دَيْن غير مضمون	Unsecured Debt
+دَيْن مُؤجَّل	Deferred Debt
+دَين متنازع فيه	litigious debt
+دَين محمول	portable debt
+دَين مستحق الأداء	exigible debt
+دَيْن مستقبلي	Future Debt
+دَيْن مشترك	Solidary Debt
+دَين مشكوك فيه	bad debt
+دَيْن مضمون	Secured Debt / secured debt
+دَين مضمون برهن حيازيّ	pledged debt
+دَين مضمون برهن عقاريّ	mortgage debt
+دَين مطلوب	demandable debt
+دَيْن معلق على شرط	Conditional Debt
+دَيْن ممتاز	Privileged Debt / preferential debt / privileged debt
+دَين واجب الأداء، دَين مستحق الأداء	due debt
+دِين، مِلّة	religion
+دية	Diya
+ديوان المحاسبة	audit office
+ديوان المحاسبة الوطني	National Audit Office
+ديوان المظالم	Board of Grievances
+ديون الشركة	corporate debts
+ديون مشكوك في تحصيلها	doubtful debts

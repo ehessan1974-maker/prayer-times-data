@@ -1,0 +1,228 @@
+فائدة ميكانيكية	mechanical advantage
+فائض نتروني (ن)	neutron excess
+فائق التشبع	supersaturation
+فائق التوصيل	superconducting
+فائق التوصيل العادي	hard-super conductor; non ideal superconductor
+فائق التوصيل غير المثالي	non ideal super-conductor; hard super conductor
+فاراد	Farad / farad
+فازترون	phasotron
+فاصل (ن)	spacer
+فاصل البخار (ن)	steam separator
+فاصل الكتلة (ن)	mass separator
+فاصل فراغ عال	high vacuum cut-off
+فاصل واصل	contactor
+فاصلة	coma
+فاصم دارة	circuit breaker
+فاصمة، صهيرة	fuse
+فاصمة؛ صهيرة	fuse
+فاض (ال...) الأعظم مفاعلية (ن)	maximum excess reactivity
+فاعلية؛ نشاط	activity
+فاناديوم	vanadium
+فانوس	lantern
+فانوس (ال...) السحري	projection lantern
+فانوس الإسقاط	projection lantern
+فانوس سحري	magic lantern
+فانوس سحري، جهاز إسقاط الصور	magic lantern
+فتح دارة	breaking a circuit
+فَتْحَة	aperture / orifice
+فُتْحة الخروج	exit aperture / exit pupil
+فتحة الصوَّارة	aperture of camera
+فتحة العدسة العددية	numerical aperture of lens
+فتحة عددية	numerical aperture
+فتحة عدسة	aperture of a lens / aperture of lens
+فتحة نسبية	relative aperture / relative aperture; F-number
+فترة (ن)	interval
+فترة امتزاج	miscibility gap
+فترة تعطل	idle period
+فتل	torsion
+فتنة	charm
+فتور (ن)	lethargy
+فتيل	wick
+فتيلة	filament
+فتيلة؛ شعيرة	filament
+فجوة (ن)	hole
+فجوة بين مَسْريَيْن	analytical gap; electrode gap / electrode gap / electrode gap; analytical gap
+فجوة شـرر	spark gap
+فجوة؛ شاغر	vacancy
+فرّازة (بالانتشار الغشائي)	dialyzer
+فراغ	vacuum
+فراغ (بلّوري)، فجوة	vacancy; hole
+فراغ فارادي المظلم	Faraday dark space
+فراغ؛ خلاء	vacuum
+فرانسيوم	francium
+فرجة	gap / interstice
+فرجة الطاقة	energy gap
+فرجة تحليلية	analytical gap
+فرجة شرارة	spark gap
+فرجة غير مباشـرة	indirect gap
+فرجة مباشـرة	direct gap
+فرجة محظورة	forbidden gap
+فُرجة هوائية	air gap
+فرسخ فلكي	parsec
+فرضية	hypothesis
+فرضية دوبْرويْ	De Broglie' s hypothesis
+فَرَضِيَّة ذرية	atomic hypothesis
+فرط التبريد	overcooling
+فرط الترافق	hyperconjugation
+فرط التسخين	overheating
+فرط الفولطية	overvoltage
+فرط الفولطية الفقاعية	bubble overvoltage
+فرط النمو	overgrowth
+فرط صوتي	hypersonic
+فرع	branch
+فرع صوتي	acoustic branch
+فرع ضوئي	optical branch
+فرعا الشوكة الرنانة	prongs of a tuning fork
+فرق الجهد	potential difference
+فرق الجهد؛ فرق الكمون	potential difference
+فرق الطور	phase difference / phase difference; phase displacement
+فرق المسار	path difference
+فرق المسير	path difference
+فرق المسير الضوئي	difference in optical path
+فرق جهد مغنطيسي	magnetic potential difference
+فرق كمون مغنطيسي	magnetic potential difference
+فرق لانقطي	astigmatic difference
+فرميوم	fermium
+فِرميون	fermion
+فرن كهربائي	electric furnace
+فَرْنِيَّة	vernier
+فريت	ferrite
+فريون	freon
+فسفرة	phosphorescence
+فسفرة حرارية	thermophosphorescence
+فسفور	phosphorus / phosphorus or phosphor
+فسفور مشعّ	radiophosphorus
+فصل الجريان	separation of flow
+فصل المجانسات (ن)	isomer separation
+فصل النظائر	separation of isotopes
+فصل النظائر (ن)	isotope separation
+فصل النظائر كهرطيسيًا	electromagnetic isotope separation
+فصل كهرمغنطيسي (ن)	electromagnetic separation
+فصل لوني بالامتزاز	chromatographic adsorption
+فضاء	space
+فضاء أرضي	terrestrial space
+فضاء بيمجرِّي	intergalactic space
+فضاء بين المجرات	intergalactic space
+فضاء جوي	aero-space
+فضاء طور (ن)	phase space
+فضاء طوري	phase space
+فضاء كواكب بيني	interplanetary space
+فضاء ما بعد القمر	translunar space
+فضاء متَّجهي	vector space
+فضاء نجوم بيني	interstellar space
+فضاء هـِلبرت	Hilbert space
+فُضالة الإشعاع	residual radiation
+فضالة الأشعّة	residual of rays
+فُضالة؛ فَضْلة	residue
+فضلة	residue
+فضة	silver
+فعّال (ن)	effective
+فعّال ضوئيا	optically active / rotatory; optically active
+فعالية بيولوجية نسبية	relative biological effectiveness (RBE)
+فعالية ضوئية	luminous efficacy / optical activity
+فعالية قضيب التحكم (ن)	control rod worth
+فعل	action
+فعل الشَّعرية	capillary action
+فِعْل شَعريّ	capillary action
+فعل عن بعد	action at a distance
+فعل كيميائي	chemical action
+فعل كيمياضوئي	photochemical action
+فعل موضعي	local action
+فُقاعة	bubble
+فُقاعة هواء	air bubble
+فقاعة هوائية	air bubble
+فَقْد (أو كسب) الإدراج	insertion loss (or gain)
+فقد ارجاعي	return loss
+فقد الاستطارة	scattering loss
+فقد العازل	dielectric loss
+فقد العد (ن)	counting loss
+فقد انعكاسي	reflection loss
+فقد انكساري	refraction loss
+فَقْدٌ بالارتداد	return loss
+فَقْدٌ بالانتقال	transmission loss
+فقد بالتفرق، فقد بالتباعد	divergence loss
+فقد بتيارات دوّامية	eddy-currents-loss
+فَقْد طارىء (ن)	accidental loss
+فقد في القدرة الكهربائية الخارجية (ن)	loss of-site power
+فَقْدٌ في الكهرنافذ	dielectric absorption / dielectric loss
+فقدان الطاقة بالإشعاع	radiation loss of energy
+فقدان تخلّفي	hysteresis loss
+فلز	metal
+فلّز نادر	rare metal
+فلزات انتقالية	transition metals
+فلزات قلوية	alkali metals
+فُلط	volt
+فُلطية	voltage
+فلطية الانهيار، فلطية التصدُّع	breakdown voltage
+فلطية الدارة المفتوحة	open circuit voltage
+فُلطية الدخل	input voltage
+فلطية انحياز	bias voltage
+فلطية عكسية	inverse voltage / reverse voltage
+فلطية معيقة	retarding voltage
+فلطية مُفْرِطة	overvoltage
+فُلطية من الذروة إلى القاع	peak to peak voltage
+فلطية منخفضة	low voltage
+فلطية نبضية	impulse voltage
+فلم التصوير	photographic film
+فلم؛ غشاء رقيق	thin film
+فلور	fluorine
+فلورة صدمية	impact fluorescence
+فِمتو	femto
+فناء الزوجين الإلكترونيين	electron pair annihilation
+فواصل موسيقية	musical intervals
+فوت	phot
+فوتون	photon
+فوتون (ن)	photon
+فوق البنفسجي	ultra violet
+فوق التسخين النووي (ن)	nuclear superheat
+فوق الحراري (ن)	epithermal
+فوق السمعيات	ultrasonics
+فوق الصوتيات	supersonics / ultrasonics
+فوق صوتي	supersonic / ultrasonic
+فوق مشبع	supersaturated
+فولاذ	steel
+فولاذ منغنيزي	manganese steel
+فولط	volt
+فولطية اعادة الاشتعال	reignition voltage
+فولطية الاخماد	extinction voltage
+فولطية الانهيار	break-down voltage
+فولطية التحلل	decomposition voltage
+فولطية التشبع (ن)	saturation voltage
+فولطية التعجيل، فولطية التسارع	acceleration voltage
+فولطية الحُزْمَة	beam-voltage
+فولطية القدح	striking voltage
+فولطية القطع	cut-off voltage
+فولطية المصعد	plate voltage
+فولطية أمامية	forward voltage
+فولطية انحياز القطع	cut-off bias voltage
+فولطية أولية، جهد الشرارة	initial voltage; sparking potential
+فولطية حارفة	deflecting voltage
+فولطية ضوئية	photovoltaic
+فولطية عالية	high voltage
+فون	phon
+فونون	phonon
+فوّهة	muzzle / nozzle
+فوَّهة حَلَقية	annular nozzle
+فيبر	weber
+فيديو	video
+فيرميون	fermion
+فيزياء	physics
+فيزياء (ال...) الاحيائية	biophysics
+فيزياء الاشعاع (ن)	radiation physics
+فيزياء الجسم الصلب؛ فيزياء الحالة الصلبة	solid state physics
+فيزياء الجسيمات	particle physics
+فيزياء الحالة الصّلبة	solid state physics
+فيزياء الكم	quantic physics / quantum physics
+فيزياء المفاعلات (ن)	reactor physics
+فيزياء النترونات (ن)	neutron physics
+فيزياء تقليدية	classical physics
+فيزياء جزيئية	molecular physics
+فيزياء حيوية	biophysics
+فيزياء درجات الحرارة المنخفضة	low temperatures physics
+فيزياء ذرية	atomic physics
+فيزياء صحية	health physics
+فيزياء صِغْرية	microphysics
+فيزياء علم الأشعة (ن)	radiological physics
+فيزياء عيانية	macrophysics
+فيزياء نظرية	theoretical physics
+فيزياء نووية (ن)	nuclear physics

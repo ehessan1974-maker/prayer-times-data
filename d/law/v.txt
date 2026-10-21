@@ -1,0 +1,86 @@
+vacancy	فراغ، شغور
+vacant succession	ترِكة شاغرة
+vagrancy	تَشرُّد
+vagrant	مُتَشرِّد
+vague	مُبهَم، غَاِمض
+Validity	صلاحية
+Valuation	تقييم
+value	قِيمة / قيمة
+Value Added Tax	ضريبة القيمة المضافة
+Value Advantage	ميزة القيمة
+Value At Risk (VAT)	قيمة معرضة للخطر
+Value chain	سلسلة القيمة / سلسلة القيم
+Value Chain Approach	نهج سلسلة القيمة
+Value Chain Mapping	رسم خرائط سلسلة القيمة
+Value Creation	خلق القيمة
+Value Engineering	هندسة قيمية
+Value For Money (VFM)	قيمة مقابل المال
+Value Generation	توليد القيمة
+Value Mapping	خريطة القيمة / تعيين القيمة
+Value Networks	شبكات القيمة
+Value Stream	تدفق القيمة
+Value Stream Mapping	تخطيط تدفق القيمة
+value-added tax (VAT)	ضريبة القيمة المضافة
+Value-Based Approach	تسعير قائم على القيمة
+variable capital company; company with variable capital	شركة ذات رأس مال متغير
+Variable Costs	أسعار متغيرة
+Variance	تباين
+Variance Analysis	تحليل التباين
+Variation	تباين / التفاوت
+Variation On Price Clause	اختلاف في شرط السعر
+Variety Reduction; Reactive Variety Reduction	تقليل التنوع
+Vehicle Routing Problem	مشكلة توجيه السيارة
+vendor's lien	امتياز البائع
+Vendor-Managed Inventory (VMI)	مخزون يديره البائع
+vendor; seller; salesman	بائع
+venture capital	رأس مال المجازفة، رأس مال المخاطرة / رأس المال المخاطر
+Verbally-Administered Survey	مسح يدار شفهيا
+verdict	قرار هيئة المحلفين
+verification	تحقق (ال..) من المحجوزات
+verification of debts	تحقق (ال..) من الديون
+Version Control Table	جدول التحكم في الإصدار
+Vertical Alignment	محاذاة رأسية
+Vertical Collaboration	تعاون العمودي
+Vertical Consolidation	توحيد رأسي
+Vertical Disintegration	تفكك العمودي
+Vertical Integration	تكامل رأسي
+Vertical Integration Of Diversity	تكامل رأسي للتنوع
+Vertical Specialist Departments	الأقسام المتخصصة الرأسية
+Vertical Structure	هيكل عمودي
+Vertical Trading	تداول عمودي
+vested right; acquired right	حقٌّ مكتسب
+veto	اعتراض
+vexatious accusation	اتهام كيديّ
+vices of consent	عيوب الرضى، عيوب التراضي
+victim	مجنيّ عليه، ضحية / ضحية
+Victimization	إيذاء
+Violation	مُخالَفَة
+violation of domicile; breach of domicile	انتهاك حرمة المسكن
+violation of law; breach of law	خَرْق القانون
+violation of neutrality	خَرْق الحياد
+violation of tombs; violation of graves	انتهاك حرمة القبور والأضرحة
+Violator	مُخَالِف
+violence	عنفٌ
+Virtual Enterprises	مؤسسات افتراضية
+Visible Diversity	تنوع مرئي
+Vision	رؤية
+Vision Statement	بيان الرؤية
+visitation right	حقُّ الزيارة
+vocational guidance	توجيه مِهْنيّ
+Void	فارغ
+voidability	قابلية الإبطال (لعقد من العقود)
+Voidable	لاغية
+Volatility	تقلب
+Volume Discount	خصم بالجملة
+voluntary	اختياريّ، إراديّ
+voluntary arbitration	تحكيم اختياريّ
+voluntary deposit	وديعة اختيارية
+voluntary execution	تنفيذ إراديّ، تنفيذ اختياريّ
+voluntary insurance	تأمين اختياريّ
+Voluntary Liquidation	تصفية اختيارية
+vote of confidence	تصويت الثقة
+voters	مصوتون
+voting	تصويت
+Voting right	حق التصويت
+Voyage Charter	ميثاق الرحلة
+VSM	تحليل تدفق القيمة

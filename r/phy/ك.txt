@@ -1,0 +1,327 @@
+كابت شبَكي	grid suppressor
+كابح هوائي	air-brake
+كابس	plunger
+كاتم صوت	silencer
+كاتود ضوئي؛ مهبط ضوئي	photocathode
+كاتود، مَهبِط	cathode
+كادميوم	cadmium
+كاره وسط الانتشار	lyophobic
+كاسر	refractive
+كاسـر كروي	refracting spherical surface / spherical diopter
+كاشف	reagent
+كاشف الأفق؛ مئفاق	periscope
+كاشف الاهتزاز	oscilloscope
+كاشف اللون	chromascope
+كاشف المسار	hodoscope
+كاشف الومضات	spinthariscope
+كاشف حراري	thermoscope
+كاشف قعر العين	ophthalmoscope
+كاشوف	Doppler radar / radar
+كاظم	thermos bottle
+كالانريا (ن)	calandria
+كالسيت	calcite
+كالسيوم	calcium
+كالُوترون	calutron
+كاليفورنيوم	californium
+كامل الامتزاج	consolute
+كامل الامتزاج؛ مَزُوْجٌ كامل	consolute
+كامل، مثالي	perfect
+كاميرا تخزين	storage camera
+كاميرا تلفزيَّة مُخزِّنة	iconoscope
+كاوٍ	caustic
+كاوٍ بالانعكاس	catacaustic
+كاوٍ بالانكسار	diacaustic
+كاوون	kaon
+كبت الضغط (ن)	pressure suppression
+كبت شبكي	grid suppressor
+كبح بالتيار المعاكس	counter-current braking or plugging
+كبح تحريكي (دينمي)	dynamic braking
+كبرتة	sulphation
+كبريت	sulfur
+كَبْل	cable
+كبل متمحور	coax / coaxial cable
+كِتْ	ket
+كتلة	mass
+كتلة (ال...) الفعالة	active mass
+كتلة (ال...) والوزن	mass and weight
+كتلة الأرض	mass of earth
+كتلة الإلكترون	electron mass / mass of the electron
+كتلة البروتون	mass of proton
+كتلة الجاذبية	gravitational mass
+كتلة الذرة	mass of the atom
+كتلة السكون	rest mass
+كتلة الكون	mass of the universe
+كتلة بلانك	Planck’s mass
+كتلة تثاقلية	gravitational mass
+كتلة جزيء الأكسجين	mass of oxygen molecule
+كُتلة حجمية	volumetric mass
+كتلة حَرِجة	critical mass
+كتلة دون الحرجة	subcritical mass
+كُتْلة ذرية (ن)	atomic mass
+كتلة سكونية	rest mass
+كتلة عَطالية	inertial mass
+كتلة فعّالة	effective mass
+كتلة فعّالة (ن)	effective mass
+كتلة كهرطيسية	electromagnetic mass
+كتلة مُختَزَلَة	reduced mass
+كتلة مختزَلة (ن)	reduced mass
+كتلة ميكانيكية	mechanical mass
+كتلة نسبوية	relativistic mass
+كتيون	cation
+كثافة	density
+كثافة (ال...) الحجمية للأيونات (ن)	volume ion density
+كثافة (ال...) الطيفية لتدفق الجسيمات (ن)	spectral particle flux density
+كثافة (ال...) العددية للنترونات (ن)	neutron number density / number neutron density
+كثافة (ال...) المتوسطة للشحنة	average density of charge
+كثافة اشعاعية	radiant density
+كثافة الاحتمال	probability density
+كثافة الإشعاع	radiation density
+كثافة الاصطدام (ن)	collision density
+كثافة الانخلاع	density of dislocation
+كثافة البخار	vapour density
+كثافة التباطؤ	slowing down density
+كثافة التبطئة (ن)	slowing-down density
+كثافة التدفق الكهربائي	electric flux density
+كثافة التدفق المعتادة (ن)	conventional flux density
+كثافة التدفق المغنطيسي	magnetic flux density
+كثافة التدفق النتروني	neutron flux density
+كثافة التدفق النتروني (ن)	neutron flux density
+كثافة التدفق النتروني المحاذي (ن)	asymptotic neutron flux density
+كثافة التصادم	collision density
+كثافة التيار	current density
+كثافة التيار (ن)	current density
+كثافة التيار الرباعي	four-currant density
+كثافة التيار النتروني (ن)	neutron current density
+كثافة الجوّ	atmospheric density
+كثافة الحالات	density of states
+كثافة الحالات (ن)	density of states
+كثافة الحاملات	carrier density
+كثافة الحاملات الفائضة	excess carrier density
+كثافة الحاملات المحقونة	injected carrier density
+كثافة السكون	rest density
+كثافة الشحنة	charge density
+كثافة الشحنة الحجمية	volume charge density
+كثافة الشحنة السطحية	surface charge density
+كثافة الطاقة	energy density
+كثافة الطاقة الطيفية	spectral energy density
+كثافة العبور	specular transmission density
+كثافة القدرة	power density
+كثافة القدرة (ن)	power density
+كثافة القدرة الخطية (ن)	linear power density
+كثافة القدرة السطحية	surface power density
+كثافة القدرة السطحية المتوسطة (ن)	mean surface power density
+كثافة إلكترونية	electron density
+كثافة اللمع	luminosity density
+كثافة الماء العظمى	maximum density of water
+كثافة المصدر (ن)	source density
+كثافة المصدر الطيفية (ن)	spectral source density
+كثافة الهواء	air density / density of air
+كثافة انتشار	diffuse density
+كثافة أيونية	ion density
+كثافة أيونية (ن)	ion-density
+كثافة بث انتشاري	diffuse transmission density
+كثافة تدفق (ن)	flux density
+كثافة تدفق اشعاعي	radiant flux density; irradiance
+كثافة تدفق الجسيمات	particle flux density
+كثافة تدفق الجُسيمات الزاوي (ن)	angular particle flux density
+كثافة تدفق الطاقة (ن)	energy flux density
+كثافة تدفق الفوتونات (ن)	photon flux density
+كثافة تفاضلية لتدفق الجسيمات (ن)	differential particle-flux density
+كثافة تفاضلية لتدفق الطاقة (ن)	differential energy flux density
+كثافة تيار الاحتمال	probability current density
+كثافة تيار الجسيمات (ن)	particle current density
+كثافة حدّية	limiting density
+كثافة حَرِجة	critical density
+كثافة سطحية	surface density
+كثافة سطحية للكتلة (ن)	mass surface density
+كثافة شبكية	reticular density
+كثافة شحنة طويلة	linear charge density
+كثافة ضوئية	optical density / optical density; photographic transmission density
+كثافة طيفية	spectral density
+كثافة عادية	normal density
+كثافة عزم مغنطيسي	magnetic moment density
+كثافة عظمى	maximum density
+كثافة مائع	fluid density
+كثافة مُطْلَقة	absolute density
+كثافة نترونية	neutron density
+كثافة نسبيّة	relative density
+كثيرات الوجوه التنسيقية	coordination polyhedral
+كثيف	dense
+كدس ألواح	pile of plates
+كدورة	turbidity
+كربون مشع	radioactive carbon
+كرة	sphere
+كرة البيلسان	pitch ball
+كرة الضوء	photosphere
+كرة سماوية	celestial sphere
+كرة ضوئية	photosphere
+كرة فرمي	Fermi sphere
+كرة لونية	chromosphere
+كروم	chromium
+كريبتون	Krypton
+كزازة	stiffness
+كسب	gain
+كسب التوليد (ن)	breeding gain
+كسب التيار	current gain
+كسب العروة المفتوحة	open loop gain
+كسب الفُلطية	voltage gain
+كسب القدرة	power gain
+كَسْح	scavenging
+كسر جزيئي مولالي	mole fraction
+كَسُورٌ	fragile
+كسوف	solar eclipse
+كسوف الشمس	solar eclipse
+كسوف جزئي	partial eclipse
+كسوف جزئي؛ خسوف جزئي	partial eclipse
+كسوف حَلَقّي	annular eclipse
+كسوف كلِّي	eclipse (total…)
+كُسيرة	dioptre
+كسيلوفون	xylophone
+كشف الصوت	detection of sound
+كشف منحني المِصْعَد	anode-bend detection
+كَظيم	adiabatic
+كعكة	doughnut
+كعكة سوارية	doughnut
+كفاءة التقويم	efficiency of rectification
+كفاءة الجسم	body efficiency
+كفاءة العدّاد	efficiency of counter
+كفاءة الكشف	detection efficiency
+كفاءة الكم	quantum efficiency; quantum yield
+كفاءة اللمع	luminosity efficiency; visibility factor
+كفاءة المكشاف (ن)	detector efficiency
+كفاءة حرارية	thermal efficiency
+كفاءة ضوئية	luminous efficiency
+كفاءة مصباح	efficiency of a lamp
+كفاءى الفصل (ن)	separation efficiency
+كفائة	efficiency
+كِفاف	contour
+كفة الميزان	balance pan / scale-pan
+كلاَّبتا تفريغ	discharging tongs
+كَلال	fatigue
+كَلال البصـر	asthenopia
+كلال العين	eye fatigue
+كَلال المُرونة	elastic fatigue
+كَلال بَصـري	visual fatigue
+كلس	calcite
+كُلَفٌ شمسية	solar spots
+كُلَف شمسية (مفردها كُلْفة)	solar spots
+كلفن	kelvin
+كلفة استخدامِ الوقود (ن)	fuel use charge
+كلفة استهلاك الوقود (ن)	fuel consumption charge
+كلفة الاضاءة بالكهرباء	cost of electric light
+كلفة الطاقة الكهربائية	cost of electric energy
+كلفة دورة الوقود (ن)	fuel cycle cost
+كلل	fatigue
+كَلل المرونة	elastic fatigue
+كلور	chlorine
+كلّي	total
+كم	quantum
+كمٌّ (جمعها كموم)	quantum
+كمُّ التدفق المغنطيسي	quantum of magnetic flux
+كمّ الطاقة	ergon
+كمّ كاما (ن)	gamma quantum
+كماشة	pincers
+كمان	violin
+كمنجة	violin
+كُموم	quanta
+كمون الاقتلاع	extraction potential
+كمون الانهيار	breakdown potential
+كمون الإيقاف	stopping potential
+كمون التأين	ionization potential
+كمون التشوّه	deformation potential
+كُمون القَدْح	striking potential
+كمون ترموديناميكي	thermodynamic potential
+كمون حرج	critical potential
+كمون صفري	zero potential
+كُمون فعَّال	effective potential
+كمون كهرحركي	electrokinetic potential
+كمون متَّجه	vector potential
+كمون مركزي	central potential
+كُمون مُعيق	retarding potential
+كُمون مورس	Morse potential
+كُمون؛ جُهد	potential
+كميا	quantitatively
+كميات تحريك حراري	thermodynamic quantities
+كمية	quantity
+كمية الاشعاع (ن)	radiation quantity
+كمية الحرارة	heat quantity
+كمية تحريكية (ن)	dynamical quantity
+كمية تخيلية	imaginary quantity
+كمية سُلَّمِيَّة؛ كمية عددية	scalar quantity
+كمية لا اتجاهية	scalar quantity
+كمية ملاحَظة (ن)	observable quantity
+كهر حديدي	ferroelectric
+كهر نافذ مثالي	ideal dielectric
+كهراكد	electrostatic
+كَهْراكدة، الكهرباء الراكدة	electrostatics
+كهرإيجابية	electropositivity
+كهرباء	electricity
+كهرباء المِغنيط	magneto electricity
+كهرباء جوّية	atmospheric electricity
+كهرباء حرارية	thermoelectricity
+كهرباء راكدة	static electricity
+كهرباء ساكنة	static electricity
+كهرباء ضغطية	piezoelectricity
+كهرباء غلفاني	galvanic electricity
+كهرباء فُلطائية	voltaic electricity
+كهرباء فولطائية	voltaic electricity
+كهرباء مغنطيسية	magnetic electricity / magnetoelectricity
+كهرباء مُقَيَّدة	bound electricity
+كهرباء نارية	pyroelectricity
+كهربائية الدلك	frictional electricity
+كهربصـريات	electrooptics
+كهرحديدي	ferroelectric
+كهرحراري	thermoelectric
+كهرحرارية	thermo-electricity
+كهرحل قويّ	strong electrolyte
+كهرسلبية	electronegativity
+كهرسلبية (ال...)	electronnegativity
+كهرصوتيات	electroacoustics
+كهرضعيف	electroweak
+كهرضغطي	piezoelectric
+كهرضغطية	piezoelectricity
+كهرضوئي	photoelectric
+كهرضوئية	photo electricity
+كهرطيسي	electromagnetic
+كهرليت	electrolyte
+كَهْرمان	amber
+كهرمان (عنبر)	amber
+كهرمغنطيسية	electromagnetism
+كهرنافذ	dielectric
+كهريط	electret
+كوارتز؛ مرو	quartz
+كُوارْك	quark
+كوارك فاتن	charm quark
+كوارك قاع	bottom quark
+كواكب (ال...) الصغرى	minor planets
+كوبالت	cobalt
+كود المكثفات اللوني	capacitor color code
+كوري	curie
+كوريوم	curium
+كوريوم (ال...)	curium
+كوزموترون	cosmotron
+كولوم (ال...)	coulomb
+كولوم، أمبير ثانية	coulomb
+كولومبيوم	columbium
+كولون	coulomb
+كون	universe
+كون (ال...)	cosmos
+كونستانتان	constantan
+كيرما	kerma
+كيفي	qualitative
+كيفيا	qualitatively
+كيلو سعرة	kilocalorie
+كيلو غرام	kilogram
+كيلو واط ساعة	kilowatt-hour
+كيلوغرام	kilogram
+كيلوواط	kilowatt
+كيلوواط ساعة	kilowatt-hour
+كيمياء (ال...) الاشعاعية (ن)	radiochemistry
+كيمياء إشعاعية	radiochemistry
+كيمياء الاشعاع (ن)	radiation chemistry
+كيمياء الذرات الحارة (ن)	hot atom chemistry
+كيمياء حرارية	thermochemistry
+كيمياء ضوئية	photochemistry
+كيمياء نووية	nuclear chemistry
+كيمياء نووية (ن)	nuclear chemistry
+كيميائي	chemical

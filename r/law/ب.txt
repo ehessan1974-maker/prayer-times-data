@@ -1,0 +1,128 @@
+بائع	vendor; seller; salesman
+بائع بالجملة، تاجر الجملة	wholesaler
+باطِل ولا أثر له	null and void
+باطِل، لاغٍ	null; void
+باعث	motive
+بَتْر، استئصال	excision
+بحث ابتدائيّ، بحث تحضيريّ	preliminary investigation
+بحر إقليمي	Territorial Sea
+بحكم الواقع	De Facto
+بدء تنفيذ (جريمة)، شروع (ال..) في تنفيذ (جريمة)	commencement (of crime)
+بدائل	Substitutes
+بدل	Allowance
+بدل التوظيف والدعم	Employment And Support Allowance (ESA)
+بَدَل حضور، مقابِل الحضور	attendance fee
+بَدَل سكن، تعويض سكن	lodging allowance
+بدل عيني	In kind Allowance
+بدل نقدي	Monetary Allowance
+بدون أساس، لا سند له	groundless
+بدون حق الرجوع	Without Recourse
+بدون مصاريف	free of charges
+براءات الاختراع	Patents
+براءة	Innocence / innocence
+براءة اختراع	Patent / patent for invention; pioneer patent
+برامج إدارة التغيير	Change Management Programmers
+برامج تحويلية	Transformational Programmers
+برلمان، مجلس نيابيّ	parliament
+برمجة الأعداد الصحيحة المختلطة	Mixed-Integer Programming (MIP)
+برمجة الهدف ومتعددة الأهداف	Goal And Multi-Objective Programming
+برمجة لغوية عصبية	Neuro-Linguistic Programming
+برنامج	Platform / Program
+برنامج تنظيم الأسرة	family planning program
+برنامج حسب الطلب	Bespoke
+برنامج ماليّ	financial program
+برهان، حُجّة	argument
+بروتوكول	Protocol
+بروتوكول إدارة المخاطر	Risk Management Protocol
+بروتوكول نقل الملفات	(FTP) File Transfer Protocol
+بريء	innocent
+بريء حتى تثبت إدانته	innocent until proven guilty
+بريد	post
+بساطة، سهولة	simplicity
+بسيط، يسير	simple
+بصراحة، بشكل صريح	explicitly; expressly
+بصمة الإصبع	fingerprint
+بضاعة آخر المدة	Closing Stock
+بُطء	slowness
+بطاقة	card
+بطاقة أداء المورد	Supplier Scorecard
+بطاقة اعتماد (مصرفية)	credit card
+بطاقة إقامة مؤقتة	temporary resident permit; certificate of registration
+بطاقة الأداء	Scorecard
+بطاقة الأداء المتوازن	Weighted Scorecard
+بطاقة الشراء (بطاقة المشتريات)	Purchasing Card (Procurement Card)
+بطاقة الهوية	identity card
+بطاقة الهوية الوطنية	National Identification Card
+بطالة	unemployment
+بطالة جزئية	partial unemployment
+بطالة موسمية	seasonal unemployment
+بطل المشروع	Project Champion
+بُطلان	desuetude / nullity
+بُطلان الإجراءات	nullity of procedural acts
+بُطلان مُطْلَق	absolute nullity
+بُطلان نسبي، إبطال	relative nullity
+بطلان وثيقة الحماية	Nullify the protection document
+بَعثة دبلوماسية	diplomatic mission
+بقصد أن يكون الاتفاق قابلاً للتنفيذ عبر المحاكم	Intending That An Agreement Should Be Capable Of Being Enforced Via The Courts
+بقوة القانون	by force of law
+بلاغ	Report
+بلاغ كاذِب	false accusation
+بلاغ كيدي	Malicious Report
+بلوك تشين	Block Chain
+بناء وتشغيل وتحويل	Operate And Transfer (BOT)
+بند	Item
+بند الاستثناء	Exclusion Clause
+بند المنفعة المجتمعية	Community Benefit Clause
+بَند، شَرْط	clause
+بنك (ال..) الدوليّ	world bank
+بنك تجاريّ، مَصْرف تجاريّ	commercial bank
+بنك صوري	Shell Bank
+بنود الاتفاق، شروط الاتفاق	terms of the agreement
+بنود عنق الزجاجة	Bottleneck Items
+بنوك تجارية	Commercial Banks
+بنوك مركزية	Central Banks
+بُنوة	filiation
+بنى اجتماعية	Social Constructs
+بنية المؤسسة	Enterprise Architecture
+بوكا يوكي	Poka-Yoke
+بي ال سي	Public Limited Company (PLC)
+بيئة العمل	Ergonomic
+بيئة تنافسية	Competitive Environment
+بيان استعمال	Statement of use
+بيان الاحتياجات	Statement Of Needs
+بيان الرؤية	Vision Statement
+بيان العمل	(SOW) Statement Of Work
+بيانات	Data
+بيانات إحصائية	Statistical Data
+بيانات أساسية	Primary Data
+بيانات الاعتماد	Reliance Data
+بيانات التعريف / الوصفية	Metadata
+بيانات المهيكلة	Structured Data
+بيانات تاريخية	Historical Data
+بيانات ثانوية	Secondary Data
+بيانات ضخمة	Big Data
+بيانات غير منظمة	Unstructured Data
+بيانات مؤشر الأسهم	Stock Ticker Data
+بيت المال	Treasury
+بيرت	PERT
+بيروقراطية	Bureaucracy / bureaucracy
+بَيْع	Sale / sale
+بَيْع 'سيف'	CIF sale (Cost Insurance Freight)
+بَيْع 'فاس'	F.A.S - sale (Free Alongside Ship)
+بَيْع 'فوب'	F.O.B - sale (Free On Board)
+بَيْع الجزاف	lump sale
+بَيْع الوفاء، بَيْع مع خيار إعادة الشراء	sale with option of repurchase; sale with option of redemption
+بَيْع بالتقسيط	credit sale; instalment sale
+بَيْع بالجملة	wholesale
+بَيْع بالعيّنة	sale by sample
+بَيْع بالمزاد	sale by auction
+بَيْع بحريّ	maritime sale
+بَيْع جبريّ	Forced Sale / forced sale
+بَيْع جزافيّ	sale in gross
+بَيْع حاضر، بَيْع بضاعة حاضرة	spot sale
+بَيْع قضائيّ	judicial sale; sale by order of the court
+بَيْع لأجل	time sale
+بَيْع مباشر	direct sale
+بيع متقاطع	Cross-Selling
+بَيْع ملك الغير	sale of third party's thing
+بينة	evidence

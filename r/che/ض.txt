@@ -1,0 +1,46 @@
+ضادّة	antagonist
+ضاغط	compressor
+ضاغط الفلّين	cork press
+ضباب	fog
+ضباب دخاني (ضَبَخان)	smog
+ضباب دخاني، دخان ضبابي (للصناعات)	smog (smoke and fog)
+ضَبْط	exactitude
+ضَبَط الميزان	adjust (to) the balance
+ضبيبة، ايروسول، رذيذة، جلالة هوائية	aerosol
+ضخّ	pumping (of liquids)
+ضخْم	voluminous (precipitation)
+ضخْم، كبير	macro
+ضد	antibody
+ضدٌّ ذاتي	autoantibody
+ضِدٌّ مُحْصِر	blocking antibody
+ضِدٌّ مماثل	isoantibody
+ضَرْب	variety
+ضغْط	pressure
+ضغط الإشباع	saturation pressure
+ضغط الانتشار	diffusion pressure
+ضغط البخار	vapor pressure / vapour pressure
+ضغط الهواء	air-pressure
+ضغط بخار الماء	water vapour pressure
+ضغط تناضحي	osmotic pressure
+ضغط تناضحي غرواني	oncotic pressure
+ضغط جزئي	partial pressure
+ضغط حرج	critical pressure
+ضغط حلولي، ضغط أسموزي	osmotic pressure
+ضغط داخلي	internal pressure
+ضغط داخلي المنشأ	intrinsic pressure
+ضغط سكوني	static pressure
+ضغط مخفَّض، ضغط مخفَّف	reduced pressure
+ضغط مرتد، ضغط خلفي	back pressure
+ضغط مطلق	absolute pressure
+ضغط مفرط، فرط الضغط	over pressure
+ضغط منخفض، ضغط مخفّض	diminished pressure
+ضوء	light
+ضوء طبيعي، ضوء عادي	natural light
+ضوءٌ فوق البنفسجي	ultraviolet light
+ضوء فوق بنفسجي	ultra-violet light
+ضوء مرئي	visible light
+ضوء مستقطَب	light (polkarized...) / polarized light
+ضوء، خفيف	light
+ضوء، نور	photo-
+ضوئي	optical / photo-,(phot-)
+ضيائية، تألق، لمعان	luminescence

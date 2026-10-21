@@ -1,0 +1,7 @@
+-t/-d Deletion	–t/-d حذف الأصوات
+épitome	موجز كتاب
+اللُّغة الإنجليزيّة كلغة ثانية.English as a Second Language (ESL); ESOL	اللُّغة الإنجليزيّة للنّاطقين بغيرها
+‘H’ Variety, ‘L’ Variety	اللّهجة العالية / اللّهجة المتدنّية
+‘L’ Variety	‘L’ اللّهجة
+‘They’ Code	رمز الضّمير (هم)
+‘We’ and ‘They’ Codes	رموز (نحن) و(هم)

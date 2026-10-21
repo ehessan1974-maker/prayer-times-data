@@ -1,0 +1,155 @@
+oath	يمين
+oath of allegiance	يمين الولاء
+object of contract	موضوع العقد، محل العقد
+object of obligation	موضوع الالتزام، محل الالتزام
+objection	اعتراض
+objection overruled	اعتراض مرفوض
+objection sustained	اعتراض مقبول
+Objective	موضوعي
+Objective Code	كود الهدف
+obligation	التزام
+obligatory insurance; compulsory insurance	تأمين إلزاميّ، تأمين إجباريّ
+obligatory referendum	استفتاء إجباريّ
+observer	مُلاحِظ، مُراقِب
+Obsolescence	تقادمية
+Obviousness	البداهة
+occupancy	وضع اليد، استيلاء
+occupation army	جيش الاحتلال
+occupational disease; industrial disease	مرض مهنيّ
+occupational hazard	خطر مهنيّ
+Of Sound Mind	عاقل
+Of The Essence	مشتق من جوهر
+Off Site	خارج الموقع
+Off-The-Shelf	عنصر جاهز
+offence	جريمة
+offences against the state	جرائم المس بأمن الدولة
+Offender	جاني
+offer	عَرْض / عرض
+Offer Document	وثيقة الإصدار
+offeree	معروض (ال..) عليه، موجه (ال..) إليه العرض / معروض عليه
+offeror	عارِض، صاحب العرض
+official	رسميّ
+Official Document	مُحرَّر رسمي
+official gazette	جريدة (ال..) الرسمية / جريدة رسمية / النشرة الرسمية
+Official Headquarters	مَقر رسمي
+Official Holiday	عطلة رسمية
+Official Paper	ورقة رسمية
+official report	مَحْضَر
+Official sample of the variety	العينة الرسمية للصنف
+Offset/Industrial Participation	أوفست / المشاركة الصناعية
+Offshoring	نقل إلى الخارج
+Offtake Agreement	اتفاقية الشراء
+old age insurance	تأمين الشيخوخة
+old age pension	معاش الشيخوخة
+oligarchy	حُكْم الأقلية
+Oligopoly	احتكار القلة / قلة القلة(النخبوية)
+Omni-Channel	قناة أومني (المتعددة)
+On Cost	على التكلفة
+On Time In Full (OTIF)	في الوقت المحدد بالكامل
+On-Boarding	إعداد
+one-man company	شركة الشخص الواحد
+onerous contract	عقد معاوضة
+Onerous Obligation	التزام مرهق
+Online Trading Platform	منصة التداول عبر الإنترنت
+Online Transactions	معاملات عبر الإنترنت
+onus of proof	عبء الإثبات
+Open Account	حساب مفتوح
+Open Book Contract	عقد الكتاب المفتوح
+Open Book Costing; Open-Book Costing	تكلفة الكتاب المفتوح
+open cheque	شيك غير مسطَّر، صَكٌّ غير مسطَّر
+open tender	مناقصَة مفتوحة، مزايَدة مفتوحة
+Open Tendering Procedure	إجراءات مناقصة مفتوحة / منافسة وقتية
+Open-Ended Change	تغيير مفتوح
+Open-Loop Feedback	تغذية راجعة الحلقة المفتوحة
+Open-Loop Supply Chain (Traditional/Forward-Loop Supply Chain)	سلسلة التوريد ذات الحلقة المفتوحة (سلسلة التوريد التقليدية / سلسلة التوريد ذات الحلقة الأمامية)
+opening up of a credit	فتح اعتماد
+Operant Conditioning	اشتراطات القائمين
+Operate And Transfer (BOT)	بناء وتشغيل وتحويل
+operating account; exploitation account	حساب الاستغلال
+Operating Capital	رأس المال التشغيلي
+Operating Charter	ميثاق التشغيل
+Operating Cycle	دورة التشغيل
+Operating Expenditure (OPEX)	نفقات تشغيلية
+Operating Profit	ربح التشغيل
+Operating Supplies	مستلزمات التشغيل
+Operating Time	وقت التشغيل
+Operational Level	مستوى تشغيلي
+Operational Prerequisites	متطلبات التشغيل
+Operational Supplier Relationship	علاقة المورد التشغيلية
+Operations	عمليات تجارية
+Operations Expenditure	نفقات التشغيل
+Operations Management	إدارة العمليات
+Opportunity Costs	تكاليف الفرصة
+Opportunity For Improvement	فرصة للتحسين
+opposition	مُعارضَة، اعتراض
+Opposition on Trademark	اعتراض على العلامة
+Optimization	الأقوى
+Optimum Price	سعر أمثل
+option	خِيار
+optional referendum	استفتاء اختياريّ
+oral evidence	دليل شفويّ، شهادة
+order	أَمْر / أمر
+order form	طلبُ بضاعة
+Order Fulfilment	استيفاء الطلب
+order of nonsuit	أَمْر بعدم المتابعة
+Order Of Precedence Clause	شرط ترتيب الأسبقية
+Order Patterns	أنماط الطلب
+Order Qualifiers	تعاقب المؤهلات
+order title	سَنَد لأمر، سَنَد إذنيّ
+order to pay	أَمْر بالصرف، أَمْر بالدفع
+Order Tracking System	نظام تتبع الطلب
+Order Winners	تعاقب الفائزين
+ordinary assembly	جمعية عامة عادية
+ordinary crime	جريمة عادية
+Ordinary Document	مُحرَّر عادي
+ordinary law	قانون عاديّ
+ordinary meeting	اجتماع عام عاديّ
+Ordinary Paper	ورقة عادية
+ordinary share	سهم عاديّ
+Organic Development	تنمية عضوية
+Organic Growth	نمو عضوي
+Organic Internal Growth	نمو داخلي عضوي
+organic law	قانون تنظيميّ
+Organization For Economic Co-Operation And Development (OECD)	منظمة التعاون الاقتصادي والتنمية
+Organizational Behavior	سلوك تنظيمي
+Organizational Culture	ثقافة تنظيمية
+Organizational Design/Structure	تصميم / الهيكل التنظيمي
+Organizational Learning	تعلم تنظيمي
+Organizational Politics	سياسة تنظيمية
+Organizational Structure	هيكل تنظيمي
+organized crime	جريمة منظمة
+Origin	أصل
+origin certificate	شهادة المنشإ، شهادة المصدر
+Original Appeal	استئناف أصلي
+Original application	الطلب الأصلي
+Original Equipment Manufacturer(OEM)	شركة مصنعة للمعدات الأصلية
+Original layout design	تصميم تخطيطي أصيل
+original nationality	جنسية أصلية
+Original Obligation	التزام أصلي
+Original Right in Rem	حق عيني أصلي
+Original works	مصنفات أصلية
+Out Of Hours	خارج ساعات
+Out-Group	خارج المجموعة
+Outcome	حصيلة
+Outcome Measurement	قياس النتيجة
+Outcome-Focused	تركيز على النتائج
+Output Specification	مواصفات المخرجات
+outrage	إهانة، انتهاك
+outrage on public manners	انتهاك الآداب العامة
+Outranking Techniques	تقنيات المرتبة الأعلى
+Outright Forward Contract	عقد آجل تام
+Outsourcing	الإستعانة بمصادر خارجية
+Over Service	مبالغة في الخدمة
+Over-The-Counter Transactions (OTC)	معاملات خارج البورصة
+Over-The-Wall Engineering	الهندسة فوق الجدارية
+overdraft facilities	تسهيلات الصندوق
+overdrawn current account	حساب جار مكشوف
+Overheads Costs	نفقات عامة
+overtime	ساعات إضافية (من الشغل) / عمل الإضافي
+overtime pay	أداء عن ساعات إضافية
+Overtrading	مبالغة في التداول
+Owner of registered trademark	مالك العلامة التجارية المسجلة
+Owner of the protection document	مالك وثيقة الحماية
+Ownership	ملكية
+ownership; property	مِلكية
+Ozone Layer	طبقة الأوزون

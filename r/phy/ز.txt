@@ -1,0 +1,151 @@
+زئبق	mercury
+زائف، غير مضبوط	false
+زاويتان متتامتان	complementary angles
+زاوية	angle
+زاوية ، زاوية الاستقطاب	Brewster angle; polarizing angle
+زاوية الأبصار	visual angle
+زاوية الاحتكاك	angle of friction
+زاوية الاستطارة	scattering angle
+زاوية الاستقطاب	angle of polarization / polarizing angle / polarizing angle; Brewster angle
+زاوية الانحراف	angle of deviation / deviation (angle of…)
+زاوية الانحراف الأصغر	angle of minimum deviation / minimum of deviation angle
+زاوية الانحراف الصغرى	minimum angle of deviation
+زاوية الانحراف في موشور	angle of deviation in a prism
+زاوية الانزلاق	angle of repose; angle of slip
+زاوية الانعكاس	angle of reflection / reflection angle
+زاوية الانكسار	angle of refraction / refracting angle
+زاوية البروز	angle of emergence
+زاوية التأخر	angle of lag / lag angle
+زاوية التبعثر	angle of scattering / scattering angle
+زاوية التخلف	angle of lag
+زاوية الترنُّح	angle of nutation
+زاوية التَغيُّر	angle of variation
+زاوية التقدم	angle of lead
+زاوية التَّماس	angle of contact / contact angle
+زاوية الحيد	diffraction angle
+زاوية الخروج	angle of emergence
+زاوية الرؤية	angle of sight / vision angle / visual angle
+زاوية الربط	bond angle
+زاوية السقوط	angle of incidence
+زاوية السقوط الأساسية	angle of principal incidence
+زاوية السمت	azimuthal angle
+زاوية السَّمْتِ (ن)	azimuthal angle
+زاوية السَّمْت الأساسية	angle of principal azimuth
+زاوية الطوْر	angle of phase / phase angle
+زاوية الفَقْد	loss angle
+زاوية اللمح، زاوية براغ	Glancing angle
+زاوية المبادرة	angle of precession
+زاوية الميل	angle of dip / angle of inclination / dip angle
+زاوية الورود	angle of incidence
+زاوية براغ	Bragg's angle
+زاوية بروستر	Brewster angle / Brewster's angle
+زاوية حادَّة	acute angle
+زاوية حرجة	critical angle
+زاوية ربعية	quadrantal angle
+زاوية طور العازل الاستقطابي	dielectric phase angle
+زاوية قطبية	polar angle
+زاوية ماخ	Mach angle
+زاوية مُجسَّمَة	solid angle
+زاوية مركزية	central angle
+زاوية مستوية	plane angle
+زاوية منفرجة	obtuse angle
+زاوية هوائية	air wedge
+زبد، رغوة	foam; froth
+زجاج بصري	optical glass
+زجاج فلنت	optical flint
+زجاج فلنت؛ زجاج رصاصي	flint glass
+زجاج فوق البنفسجي الشفافية	uviol glass
+زجاج مرصص	flint glass
+زجاج يوفيول	uviol glass
+زجاجة ساترة	cover glass
+زحف	creep
+زخم البِلَّورة	crystal momentum
+زخم المجال	field momentum
+زخم حركي	kinetic momentum
+زخم رباعي	four-momentum
+زخم زاوي (ن) ، عزم زاوي	angular momentum; moment of momentum
+زخم زاوي لجسم صَلْد	angular momentum of rigid body
+زخّة جسيمات	shower particles
+زخَّة؛ هَمْرة؛ وابل	shower
+زِركَلِيت	zirkelite
+زِركونيوم	zirconium
+زرنيخ	arsenic
+زرنيخيد الغاليوم	gallium arsenide
+زمر نقطية	point groups; symmetry classes
+زمرة	group
+زمرة الانتقال	translation group
+زمرة تحويل	transformation group
+زمرة فراغية	space group
+زمرة فضائية	space group
+زمرة نترونات (ن)	neutron energy group
+زمكان منكوفسكي	Minkowski space-time
+زمن	time
+زمن (ال...)	time
+زمن ازالة التأين	deionization time
+زمن الاستبقاء	retention time
+زمن الاستجابة	response time
+زمن الاسترجاع (ن)	recovery time
+زمن الاسترخاء	relaxation time
+زمن الاسترخاء (ن)	relaxation time
+زمن الاستعادة	recovery time
+زمن الاستعمال (ن)	utilization time
+زمن الاضمحلال	decay time
+زمن التبريد (ن)	cooling time
+زمن الترداد	reverberation time
+زمن الترديد	reverberation time
+زمن التعرُّض	time of exposure
+زمن التفاعل	reaction time
+زمن التوازن (ن)	equilibrium time
+زمن التوالد (ن)	generation time
+زمن الخمود (ن)	dead time
+زمن الشلل (ن)	paralysis time
+زمن الصعود	rise time
+زمن الصيانة (ن)	turn-aroud time
+زمن الفصل	resolving time
+زمن المضاعفة (ن)	doubling time
+زمن المَيز (ن)	resolving time
+زمن الميز التطابقي (ن)	coincidence resolving time
+زمن اماتة النصف	median lethal time
+زمن بلانك	Planck’s time
+زمن تأخير	delay time
+زمن توالد النترونات (ن)	neutrons generation time
+زمن حرّ متوسط	mean free time
+زمن دورة البداية (ن)	running in period
+زمن دورة المفاعل (ن)	reactor period
+زمن دورة النهاية (ن)	running-out period
+زمن عياري	standard time
+زمن مميت للنصف	median lethal time
+زمن ميت	dead time
+زنك (توتياء)	zinc
+زوايا البلّورة	crystal angles
+زوايا التكافؤ	valence angles
+زوايا أولر	Eulerian angles
+زوج أيون ابتدائي	primary ion pair
+زوج أيونات (ن)	ion pair
+زوج خطوط	line pair
+زوج من الكترون وفجوة	electron-hole pair
+زوجا الإلكترون - الثقب	electron-hole pair
+زوجان إلكترونيان	electron pair
+زيادة القدرة (ن)	power stretch
+زيادة حجمية نسبية	dilatation
+زيادة قفزية	increment
+زيت الأرز	cedar oil
+زيتا	Zeta
+زيع كروي طولي	longitudinal spherical aberration
+زيغ	aberration
+زيغ (ال...) الضوئي	aberration of light
+زيغ الضوء	aberration of light
+زيغ المنطقة	zonal aberration
+زيغ بصري	optical aberration
+زيغ طولاني	longitudinal aberration
+زيغ طولي أصلي	principal longitudinal aberration
+زيغ عَرْضـي أصلي	principal lateral aberration
+زيغ كروي	spherical aberration
+زيغ كروي جانبي	lateral spherical aberration
+زيغ لانقطي	astigmatic aberration
+زيغ لوني	chromatic aberration
+زيغ لوني طولي	longitudinal chromatic aberration
+زيغ لوني للعين	chromatic aberration of eye
+زيغ هالي	coma
+زينون	Xenon
+زيوليت	zeolite

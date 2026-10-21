@@ -1,0 +1,21 @@
+زبائن	customer; clientele
+زبون	client
+زبون مفضل، عميل مفضل	Preferred Customer
+زحف المهمة	Mission Creep
+زحف النطاق	Scope Creep
+زراعي، مرتبط بالزراعة	agrarian
+زرع العلم	Planting The Flag
+زعيم سلسلة التوريد	Supply Chain Leader
+زكاة	Zakat
+زمن دورة التحويل النقدي	(C2C) Cash-To-Cash Cycle Time(C2C)
+زنزانة	cell
+زِنَى المحارم	incest
+زواج	marriage
+زواج (ال..) الأحادي	monogamy
+زواج بالإكراه، زواج بالإجبار	forced marriage
+زَوْج، زوجة	spouse
+زيادة	increase
+زيادة الأجر	wage increase
+زيادة الجاهزية	Ramp-Up Readiness
+زيادة الضريبة	tax increase
+زيادة القيمة	Appreciation

@@ -1,0 +1,4191 @@
+L	L
+L antenna	هَوائيّ لامِيّ
+l'Huilier's equation	مُعادَلةُ لويلْييه
+l'Huilier's theorem	مُبَرْهَنةُ لويلْييه
+l'Huilier, Simon Antoine Jean	سيمون أنْطْوان جان لويلْييه
+l'Hôpital's cubic	مُكَعَّبُ لوبيتال
+l'Hôpital's rule	قاعِدةُ لوبيتال
+l'Hôpital, Guillaume François Antoine de	غِيُّوم فْرانْسْوا أنْطْوان دو لوبيتال
+l(a)evo-rotation	دَوَارنٌ يَساريّ، دَوَرانٌ بَتِّيّ
+l(a)evogyric = l(a)evorotatory	يَساريّ الدوران
+L-band	نِطاق «ل»
+L-cystathionine	L- سيستاتيونين
+L-D process	طَريقةُ «لِنْز وَ دُوناڤتْز»
+L-electron	إلِكْترون ل
+L-shell	الغِلافُ الإلكتروني الثاني
+L1 cache	خابية L1 (المستوى الأول من الخابية)
+L1 Loss	خسارة إل 1
+L1 Regularization	ضبط إل 1
+L2 cache	خابية L2 (المستوى الثاني من الخابية)
+L2 Loss	خسارة إل 2
+L2 Regularization	ضبط إل 2
+La (lanthanum)	لن
+La Cour convertor	مُحَوِّلُ «لاكور»
+La Hire's theorem	مُبَرْهَنةُ لاهير
+La Hire, Philippe de	فيليب دو لاهير
+lab = laboratory	مُختَبر، مَخْبَر
+Labarraque’s solution	مَحلولُ «لاباراك»
+label	بِطاقة، لُصاقَة، عَلامةٌ مُمَيِّزة؛ وَسَمَ، رَقَم؛ ألصَقَ بِطاقةً على، عَنْوَنَ / لصيقة / اسم / واصفة
+label (v)	يَسِمُ (يُعَلِّمُ)
+label prefix	لصيقة بادئة
+Label Smoothing	تنعيم الأسماء
+Label switching	تبديل الرقعات
+label(l)ed	مُعَنْوَن؛ مُصَنَّف؛ مُميَّز؛ مَرْقُوم، مَوسوم
+label(l)ed atom	ذرَّة مَرقومة
+label(l)ed door	بابٌ مَرْقُومٌ
+label(l)ing	دَمْغ، وَسْم، عَنْونَة؛ رَقمٌ
+Labeled Example	مثال مُسمًّى
+labeled graph	بَيانٌ مَوْسوم (بَيانٌ مُعَلَّم)
+labeled molecule	جُزَيءٌ مَرْقوم
+labeled substance	مادَّة مَرْقومة
+Labeler	مُسَمِّي
+Labeling	تسمية
+labelled graph	بَيانٌ مَوْسومٌ (بَيانٌ مُعَلَّم)
+labelled tree	شَجَرةٌ مَوْسومةٌ (شَجَرةٌ مُعَلَّمة)
+labellum	شفيفة
+labia majora	شفاة كبرى
+labia minora	شفاة صغرى
+labial	شَفَويّ / شفوي
+labial palp	مِلْمَاس شفوي / ملماس شفوي
+labiatae	فصيلة شفوية
+labile	غَيْرُ مُسْتَقِرّ، غير ثابِت، مُقَلْقَل، مُتَغَيِّر؛ عَطُوب / قابل للتغيير
+labile oscillator	مُذَبْذِبٌ بُعاديُّ الضَّبْط
+labile stage	مَرحَلة قَلِقة
+lability	عَدَمُ استِقرار؛ قابليَّةُ التغَيُّر / عدم الاستقرار
+labium	شَفَة، شَفْرٌ سُفْليّ / شفة سفلى
+labor = labour	عَمَل، شُغْل، كَدّ؛ مَخاض؛ عُمّال، يَدٌ عَامِلَة؛ جَدَّ، كَدَّ؛ عَالَجَ بِتَفصيلٍ مُفْرِط
+Labor Force	قوة العمل
+Labor Force Participation Rate	معدل المشاركة في قوة العمل
+laboratory	مُختَبَر، مَخْبَر، مَعْمَل
+laboratory apparatus	أجهِزة مُختَبَريَّة
+laboratory equipment	مُعَدّاتٌ مَخْبَريَّة أو مُختَبَريَّة
+laboratory test	اِختِبار مَعمَليّ، تَجْرِبةٌ مَخْبَرِيَّة
+laboratory, chemical	مُختَبَرٌ كِيماويّ، مَعْمَل كيماويّ
+laborious	كادّ، مُجِدٌّ؛ مُقتَضٍ جُهدًا بالِغًا، مُرهِق
+labour	عَمَل، شُغْل، جُهْد؛ عُمّال، يَدٌ عَامِلة؛ وِلادة، مَخاض؛ جَدَّ، كَدَحَ، عَمِلَ، كَدَّ؛ عالَجَ بتفصيلٍ مُفْرِط
+labour costs	تكاليفُ العَمَل، تكاليفُ العَمَالة
+labour dispute	نِزاعٌ عُمّاليّ
+labour force	قُوَّة عُمّاليَّة
+labour laws	قَوانينُ العَمَل
+labour regulations	أنظِمَة عُمّالِيَّة
+labour turnover	اِستِعاضةُ العُمّال المُتَخلِّفين (بأُجرَاء آخَرِين)
+labour, casual	عَمَلٌ مُتَقطِّع، شُغْل غيرُ مُنتظم
+labour, hard	أشغالٌ شاقَّة
+labour, skilled	عَمَلٌ يقتَضي مَهارةً وحِذْقًا؛ عُمّالٌ مَهَرة، صَناعيُّون
+labour-saving	مُوَفِّرٌ لِلعَمَل
+labour-union	اِتِّحاد عُمّالي
+laboured	مَشْغول، مَتْعوبٌ عَلَيه؛ مُتَكَلَّف
+labourer	عامِل، شَغِّيل، فاعِل
+labradorite	لَبرادورَيت / لابرادوريت
+labrum	شَفَة عُلْيا / شَفَة عليا / شفة عليا
+laburnum	سيتسوس
+labyrinth	تِيْه، مَتاهَة؛ ألتِّيْه؛ مَحْوًى تِيهِيّ / متاهة / تيه
+labyrinth fret	نقشٌ شبكيٌّ لابِرِنْثيّ
+labyrinth joint	وُصلَة لابرِنثيَّة
+labyrinth loudspeaker	مِجْهارٌ لابرِنْثِيّ
+labyrinth packing	حَشْوٌ لابِرِنثي
+labyrinth ring	حَلْقَة لابِرنثِيَّة
+lac	اللَّك، صَمْغُ اللَّك
+laccolith	صَخْرٌ اِنْدِساسيّ، لاكوليت / لاكوليت
+laccolithic	لاكوليتي
+laccoloth	لاكوليت
+lace	بَرِيم، شَريط؛ شَريط (زُخرُفيّ) مُخَرَّم؛ مُخَرَّمات؛ رَبَطَ، زَمَّ
+lace-wing	أسد المن، حشرة المن
+lacerate	مَزَّقَ، فَسَّخَ؛ مُمَزَّق، مُتَفسِّخ
+laceration	تَمْزِيق، تَشْريط، تَمَزُّق، تفَسُّخ
+lacerta	ورل (ال...)
+Lacerta (The Lizard)	ألعَظَايَة، الوَرَل
+lacertian	عظاء
+lacertilia	عظايا
+lachrymal = lacrimal	دَمْعِيّ
+lachrymal gland	غدة دمعية
+lachrymators	مُسيِّلاتُ الدَّمع، غازاتٌ مُسيِّلة لِلدُّموع
+lacing	تَرْبيط؛ تَخْريم؛ رَبْطٌ شِكاليّ
+lacing course	مِدْماكُ رَبْط
+lacing tape	شَريطُ رَبْط
+lacinia	شريحة
+lack	نَقْص، اِفتِقار؛ قِلَّة، نُقْصان؛ نَقَصَ؛ اِحتاجَ، اِفتَقَرَ إلى
+lack of balance	اِنعِدامُ الاتِّزان
+lack of discipline	قِلَّةُ الانضِباط
+lack of equilibrium	اِنعدامُ التوازُن
+lack of practice	قِلَّةُ الاختِبار، نَقْصُ الخِبْرة
+lack of uniformity	عَدمُ الانتِظام
+lackey-moth	عث مزركش
+laconic	مُوجَز، مُقْتضَب
+lacquer	طِلاءُ اللَّكّ، لاكِيه، مَحلولُ الشِّيلاك؛ طَلَى باللَّكّ
+lacquer diluent	مُخَفِّفُ (طِلاء) اللَّكّ
+lacquer solvent	مُذيبُ اللَّك
+lacquer thinner (or diluent)	مُخَفِّفُ (طِلاء) اللَّك
+lacquer-tree	ايلنطس غدي
+lacquering	طِلاءٌ باللَّك؛ طَلْيٌ باللَّكّ
+lacrimator = lachrymator	مُسَيِّل للدُّموع؛ غازٌ مُسيِّل لِلدُّموع
+lactase	لَبَناز / لاكتاز، أنزيم اللبن
+lactation	إلْبان، دَرُّ اللبَن؛ إرْضاع
+lacteal	لَبَنيّ؛ لابِن، وِعاءٌ لَبَنيّ / لبني
+lacteous	لَبَنِيّ؛ لَبَنيُّ اللون
+lactic acid	حامِضُ اللَّبَنيك، حامِض اللَّكْتيك / حمض اللبن
+lactis dehydrogenase	ديهيدرو اللاكتيك
+lactix acid bacteria	بكتيريا حمض اللاكتيك
+lactometer	مِقياسُ اللبَن
+lactose	سُكّر اللَّبَن، لَكْتوز، لَبَنُوز / لاكتوز، سكر اللبن
+lacuna	فَجْوَة، ثُغْرَة، فُرْجَة؛ ثُلْمَة / ثغرة / فرجة
+lacunae	قنوات هوائية، فراغات
+lacunar	جُزءٌ مُغوَّر في السَّقف؛ سَقفٌ (أو عَقْدٌ) مُغَوَّر الأجزاء
+lacunary power series	مُتَسَلْسِلةُ قُوًى فَجْوِيَّةٌ (ذاتُ فَجَوات)
+lacunary sequence	مُتَتالِيةٌ فَجْوِيَّةٌ (ذاتُ فَجَوات)
+lacunary series	مُتَسَلْسِلةٌ فَجْوِيَّةٌ (ذاتُ فَجَوات)
+lacunary space	فَضاءٌ فَجْوِيٌّ (ذو فَجَوات)
+lacunary value	قيمةٌ فَجْوِيَّةٌ (ذاتُ فَجَوات)
+lacunosus ((la))	نَمِيرِيّ
+lacustrine	بُحَيريّ، خاصٌّ بالبُحيرات / بحيري
+lacustrine deposits	رواسِبُ بُحَيريَّة
+lacustrine environment	بِيئَة بُحَيريَّة
+lacustrine facies	سِحنة بحيرية / سحنة بحيرية
+lacustrine fish	أسماك بحرية
+lacustrine sediment	توضعات رسوبيات بحيرية
+lacustrine sediments	توضُّعات بحيرية، رسوبيات بحيرية
+ladar = laser radar	ليدار، رادارٌ لِيْزَريّ
+ladder	سُلَّم، مِرقاة، دَرَج؛ سِلْسِلةُ قَواديس (الحَفّارة أو الكَرّاءة)
+ladder chain	سِلْسِلَة سُلَّمِيَّة (لِقَواديسِ الحَفْر)
+ladder dredger = dredger excavator	حَفّارة أو كَرّاءةٌ بالقَواديس الدوّارة
+ladder graph	بَيانٌ سُلَّمِيّ
+ladder scaffold	إسقالة سُلَّمِيَّة
+ladder vein (or lead)	عِرْقٌ مَعدِنيٌّ دَرَجيّ
+ladder vein; ladder lode	عرق مدرَّج / عرق مدرج
+ladder, extending	سُلَّمٌ مَدّاد، سُلَّمٌ مُتَداخِلُ الأجزاء
+ladder, folding	سُلَّمٌ طَوِيّ
+lade	حَمَّلَ، وَسَقَ؛ نَقَلَ (المركَبُ) شِحْنةً؛ غَرَفَ؛ مَصَبٌّ نَهريّ؛ مَمَرٌّ مائيّ
+laden	مُحَمَّل، مَوسوق
+lading	شَحْن، وَسْق، تَحْميل؛ غَرْف؛ شِحْنة
+lading, bill of	سَنَدُ شَحْن، وَثيقةُ شَحْن
+ladium	شَفَة سفلى / شفة سفلى
+ladle	مِغْرَفة (لِنَقْل المَعدِن المُنْصَهِر)؛ غَرَفَ
+lady's bower	ظيان السياج
+lady's cushion	كاسر الحجر
+lady's mantle	رجل الأسد
+lady's slipper	مردقوش، سمسق
+lady's smock	حرف الماء، حرف المروج
+lady's thumb	بطباط، عصا الراعي
+lady-bird; lady-bug	دعسوقة
+lady-fern	سرخس أنثى
+laevo-rotatory = levo-rotatory	يَساريُّ الدوَران
+lag	تَخَلَّفَ، تأخَّر، قَصَّر؛ غَلَّف أو بطَّنَ بالألواحِ الخَشَبِيَّة؛ تَخَلُّف، تأَخُّر؛ زَمَنُ التخَلُّف، زاويةُ التخلُّف؛ تَبْطين، تَغْليف؛ قِدَّةُ أو ضِلْعُ تَغْليف؛ بِطانةٌ من الألواحِ الخَشَبيَّة / فترة [التَخَلّف] / تَبَاطُؤ / تأخر، تباطؤ
+lag bolt = lag screw	بُرْغي عَرَبات
+lag correlation	ارْتِباطُ التَّأَخُّر
+lag deposit	تراكُم / تراكم
+lag of aneroid barometer	بُطءُ إجابة المِقياسُ اللاسائلِيِّ لِلضَّغْطِ الجَوّيّ
+lag of thermometer	تَخَلُّف الترمومتر
+lag screw = lag bolt	بُرْغي عَرَبات
+lag, air	سَحْبُ الهَوَاء
+lag, angle of	زاويةُ التخَلُّف، زاويةُ تَخَلُّفِ الطَّور
+lag, combustion	تأخُّر الاحتِراق
+lag, exhaust valve	تأخُّرُ الانفِلات، تَخَلُّف صِمام العادم
+lag, ignition	تَخَلُّف الاشتِعال
+lag, inlet valve	تَخَلُّفُ (صِمامِ) الدُّخول (أو السَّحْب)
+lag, magnetic	التخَلُّف المِغنَطيسي
+lag, phase	تَخَلُّفُ الطَّور
+lagan	مطروحات في العمق
+lagenostoma	لاجينوستوما
+lagged strand	خيط متلكئ
+lagging	تَكْسِيةٌ مُعَوِّقة؛ سوانِدُ العَقْد؛ مُتَخَلِّف، مُتأَخِّر / تلكؤ / تباطؤ، تلكؤ
+lagging boards	ألواحُ تَبْطينٍ أو تَسْنيد أو تَثْبيت
+lagging current	تيّار مُتَخَلِّف
+lagging load = inductive load	حِمْلٌ مُتَخَلِّف، حِملٌ حَثِّي
+lagging phase	طَورٌ مُتَخَلِّف
+lagomorpha	لاكومورفا
+lagoon	هَوْر؛ بُحَيرة ضَحْلة؛ جَفَّفَ (أو أكْسَدَ) في جابيَةٍ ضحلةٍ / لاغون
+lagoon deposits	توضُّعات بحيرة شاطئية / توضعات بحيرة شاطئية
+lagoon island	جزيرة بحيرية
+lagoon island; lagoon reef	جزيرة بحيرية
+lagoon reef	شعلب بحيرية شاطئية
+lagoon(al) deposits	رَواسِبُ البُحيراتِ الشاطئيَّة (المَعزولةِ عن البَحر)
+Lagrange coefficients	مُعامِلاتُ لاغْرانْج
+Lagrange form of the reminder	صيغةُ لاغْرانْج لِلْباقي
+Lagrange interpolation formula	صيغةُ لاغْرانْج للاسْتِكْمال الدَّاخِلِيّ
+Lagrange inversion theorem	مُبَرْهَنةُ العَكْسِ لِلاغْرانْج
+Lagrange method of multipliers	طَريقةُ لاغْرانْج في المَضاريب
+Lagrange multipliers	مَضاريبُ لاغْرانْج
+Lagrange's equation	مُعادَلةُ لاغْرانْج
+Lagrange's formula	صيغةُ لاغْرانْج
+Lagrange's identity	مُتَطابِقةُ لاغْرانْج
+Lagrange's inequality	مُتَبايِنةُ لاغْرانْج
+Lagrange's lemma	تَوْطِئةُ لاغْرانْج
+Lagrange's theorem	مُبَرْهَنةُ لاغْرانْج
+Lagrange, Joseph Louis	جوزيف لُويس لاغْرانْج
+Lagrange-Helmholtz equation	مُعادَلةُ لاغْرانْج هِلْمْهولْتْز
+Lagrange’s four-square theorem	مُبَرْهَنةُ المُرَبَّعاتِ الأربَعَةِ لِلاغْرانْج
+Lagrange’s group theorem	مُبَرْهَنةُ الزُّمَرِ لِلاغْرانْج
+Lagrange’s linear equation	مُعادَلةُ لاغْرانْج الخَطِّيَّة
+Lagrangian points	نِقاط «لاغرانج»
+Laguerre functions	دَوالُّ لاغيرْ
+Laguerre polynomial	حُدودِيَّةُ لاغيرْ
+Laguerre, Edmond Nicolas	إدْمونْد نيكولاس لاغيرْ
+Laguerre’s differential equation	مُعادَلةُ لاغيرْ التَّفاضُلِيَّة
+laguna	لاغون
+laguna = lagoon	هَور
+lagunar	خاص بالمستنقعات الشاطئية، متعلق بالمستنقعات الشاطئية
+lahar	هَيَارٌ طِينيّ، لاهَار / انسياب الحمم
+laid-dry bricks	طُوبٌ مَرصوفٌ بدون مِلاط
+laid-in	مَرصوع
+laid-on	مُثَبَّت، مُرَكَّب (لا مَنْحُوتٌ على الأصْل)
+Laisant’s recurrence formula	صيغةُ ليسانْت الارتِدادِيَّة
+laissez-faire	عَدَمُ التدَخُّل؛ سياسةُ الحُرِّيَّة الاقتصاديَّة
+laissez-passer	جَواز مُرور؛ حُرِّيَّةُ المُرور
+laitance	غُثَاء الخَرَسانة
+lake	بُحَيرة؛ صِبْغَة، صِبْغ مُرسَّخ / بحيرة
+lake (barrier ...)	بحيرة موانع
+lake (barrier lake)	بحيرة موائع
+lake bed	طبقة بحرية
+lake breeze	نَسِيمُ البُحَيْرة
+lake surface temperature	درجة الحرارة السَّطحية للبحيرات
+lake, bitter	بُحَيْرة مُرَّة
+lake, crater	بُحَيْرة فُوهيَّة بُركانِيَّة
+lake, salt	بُحَيْرَة مِلْحيَّة
+lake, underground	بُحَيْرة جَوفِيَّة
+lakelet	بُحَيِّرة / هور
+Lakshmi star	نَجْمةٌ ثُمانِيَّة
+Lalande cell	خَلِيَّة «لالاند» (قُطباها الزِّنكُ والحَديد وسائلُها مَحلولُ الصودا الكاوِيَة)
+Lamarck	لامارك
+Lamarckism	اللاّماركِيَّة / لاماركية
+lamb	خروف
+lambda	لَمْدا؛ لَمْدَا، مَيكرولِتْر / لامدا / لامْدا
+lambda clonin vector	ناقِل تنسيليّ 'لمدا'
+lambda function	دالَّةُ لامْدا
+lambda particle	جُسَيم لَمْدا، هَيْپرون لَمْدا
+lambda point	نُقطةُ لَمْدا
+lambdaphage	فاج 'لمدا'
+lambert	لامبِرت / لامبرت
+Lambert (conformal conic) projection	مَسْقَطُ «لامبِرت» (المَخروطيّ المُطابِق)
+Lambert series	مُتَسَلْسِلةُ لامْبِرت
+Lambert theorem	مُبَرْهَنةُ لامْبِرت
+Lambert, John Heinrich	جون هاينْريش لامْبِرت
+Lambert’s cosine law	قانونُ «لامبِرت» جَيْبُ التمامي
+Lambert’s law	قانُون «لامبِرت»
+Lambrecht's polymeter	مِقياسُ لمْبرِيخْت المُتَعَدّد
+lame duck	بَطَّةٌ عَرْجَاء
+lamella (pl. lamellae)	صُفاحة، رَقيقة، صَفيحةٌ رَقيقة، شَريحة رَقيقة؛ طَبَقة رَقيقة
+lamellae	صَفَائِح / صفائح
+lamellar	صفائحي
+lamellar = lamellate	رَقَائِقي
+lamellar flow	اِنسِيابٌ طَبَقيّ
+lamellar magnetization	تَمَغْنُط طَبقيّ
+lamellar structure	بِنْيَة صَفائِحيَّة
+lamellate = lamellar	رَقائقيّ، صَفائحيّ
+lamellate; lamellated	متصفّح
+lamellibranchiata; pelecypoda	محاريات، صفائحيات الخياشيم
+lamelliform	صَفائحيّ، رَقائقيّ
+lamina	صَفِيحَة، رَقيقة، طَبَقَة رَقيقة؛ شَريحةٌ فولاذيَّة رَقيقة؛ نَصْل، صَفحةُ الوَرَقة / صفيحة / صَفيحَة / نصل الورقة
+lamina; laminae	رقاقة، شريحة / رقاقة
+laminar	رقائقي / رقاقي
+laminar boundary layer	طَبَقةٌ حَدييَةٌ رُقاقِيّة
+laminar current	تَيّارٌ رُقاقِيّ
+laminar flow	اِنسيابٌ طَبقيّ، تَدَفُّق صَفْحيّ / تدفُّق متصفِّح / تدفق متصفح
+laminaria	لامينارية
+laminate	صَفَّحَ؛ رَقَّقَ (أو ترَقَّقَ) على شَكْلِ صَفائح؛ رَقائقي، صَفائحيّ؛ لَدِيْنَة رَقائقيَّة
+laminated	رَقائقيّ، صَفيحيّ / مُرقَّق / مرقق
+laminated arch	عَقْدٌ صَفائحيّ
+laminated beam	عارِضةٌ رَقائقيَّة، جائِز رَقائقيّ
+laminated board	لَوحٌ رَقائقيّ
+laminated brush	فِرْجَونٌ رَقائقيّ
+laminated clay	صَلْصَالٌ صَفائحيّ
+laminated clutch	قَابِضٌ صَفائحي
+laminated conductor	مُوَصِّل صَفائحيّ
+laminated contact = brush contact	تلامُسٌ رَقائقي، تلامُسٌ فِرجَوني
+laminated core	قَلْبٌ رَقائقي (مُكَوَّن مِن رَقائق)
+laminated glass = laminated safety glass	زُجَاجٌ رَقائقي، زُجاجُ أمانٍ رَقائقيّ
+laminated grid	مَحزوز رقائقي
+laminated iron	حَديدٌ رَقائقي
+laminated magnet	مِغنَطيسٌ رَقائقي
+laminated plastics	لَدائِنُ رَقائقيَّة
+laminated pole	قُطْبٌ ذو قَلْبٍ رَقائقي
+laminated safety glass	زُجاجُ أمانٍ رَقائقي
+laminated screen	مُرشِّح رَقائقي
+laminated spring	نابِضٌ رَقائقيّ
+laminated structure	تَرْكيبٌ صَفائحيّ، بِنْية رَقَائقيَّة
+laminated wired glass	زُجاجٌ رَقائقيٌّ مُسَلَّك
+laminated wood	خَشَبٌ رَقائقي، (خَشَب مُعاكَس)
+laminated yoke	مِقْرَن صَفائِحيّ (لآلةٍ كَهربائيَّة)
+lamination	تَرْقيق، تَصْفيح، ترَقُّق؛ رَقيقة؛ رَقيقة، صَفيحة رَقيقة (مِن الصُّلْب)؛ تَرقُّق القُرارة / ترقُّق / ترقق
+laminboard = coreboard	لَوحُ لُزُزٍ رَقائقيّ
+lamp	مِصباح، قِنديل / مصباح
+lamp adapter	مُوائمةُ المصباح
+lamp annunciator	مُعلِنَة مِصباحيَّة
+lamp base = lamp cap	قاعِدةُ المِصباح الفَتيلي (حيثُ يُوَصَّل بالدَّواة)
+lamp bracket	كَتيفةُ المِصباح، حامِلُ المِصباح
+lamp bulb	بَصَلةُ المِصباح
+lamp cap	رأسُ المِصباح (حيثُ تَتَّصِلُ البَصَلةُ بالدَّواة)
+lamp circuit	دارةُ مَصابِيح
+lamp cut-out	قاطِعُ دارةِ المِصباح (القَوسي)
+lamp dimmer	خافِضُ إضاءةِ المِصباح
+lamp efficiency	كِفايةُ المِصباح
+lamp filament	فَتيلةُ المِصباح
+lamp indicator	دَليلٌ مِصباحيّ
+lamp oil	زَيتُ المصابيح، كيروسين الإنارة
+lamp pendant	داليَةُ المصباح
+lamp post	حَامِلُ المصباح، عَمُودُ المِصباح
+lamp receptacle (or socket)	دَواةُ المِصباح، مَقْبِس (أو غِمْدُ) المصباح
+lamp reflector	عاكِسُ ضَوءِ المِصباح
+lamp resistance	مُقاوَمة مِصباحيَّة (مِن مِصباحٍ فَتِيليّ أو أكثَر)
+lamp socket = lampholder	دَواةُ المِصباح، مَقْبِس
+lamp switch	مِفتاحُ النُّور
+lamp, arc	مِصباحٌ قَوسيّ
+lamp, dash	مِصباحُ لَوحةِ أجهِزة القيادة
+lamp, daylight	مِصباحٌ نهاريُّ الضّوء
+lamp, electric	مِصباحٌ كَهربائي
+lamp, filament	مِصباحٌ فَتيليّ
+lamp, gas	مِصباحٌ غازيّ، مِصباحٌ يُضيءُ بالغاز
+lamp, incandescent	مِصباح مُتَوَهِّج
+lamp, inspection	مِصباحُ تَفتيش، مِصباحٌ نَقّال أو نَقول
+lamp, parking	مِصباحُ الوقوف (فِي السيّارة)
+lamp, pilot = pilot signal	مِصباحٌ دَليليّ
+lamp, rear	مِصباحٌ خَلْفي
+lamp, signalling	مِصباحٌ دَلِيليّ، مِصباحُ إشارة
+lamp, warning	مِصباحُ إنذار
+lamp-signal	إشارةٌ ضَوئية بِمِصباح
+lamparo	مصباح الصيادين
+lampblack	سِناج، هَباب، سُخام
+lampbrush chromosome	صبغيّ فرشاتيّ
+lampholder	دَواةُ المِصباح، مَقْبِس / دواة المصباح، حاملة المصباح
+lampholder plug	قابِسٌ مِصباحي، قابِسٌ يتَّصِلُ بدَواة المِصباح
+lamphouse	مَبْيَتُ المصباح، بَيْتُ النُّور
+lamping	إنارةٌ فَوق بَنَفْسَجِيَّة
+lamprey; lampern	جلكة
+lampshade	ظُلَّةُ المِصباح
+Lamson tube	أُنبُوب «لامسُون»
+Lamé curves	مُنْحَنِياتُ لاميه
+Lamé functions	دَوالُّ لاميه
+Lamé polynomials	حُدودِيَّاتُ لاميه
+Lamé wave functions	دَوالُّ لاميه المَوْجِيَّة
+Lamé's differential equation	مُعادَلةُ لاميه التَّفاضُلِيَّة
+Lamé's equations	مُعادَلاتُ لاميه
+Lamé's relations	عَلاقاتُ لاميه
+Lamé, Gabriel	غابْرييل لاميه
+LAN	شبكة محلية [الامتداد]
+LAN = local area network	لان، شبَكةٌ مَحليَّةُ النِّطاق
+LAN Manager	برنامج إدارة الشبكة المحليّة
+lance	رُمْح، سِنان؛ مِبْضَع، مِشْرَط؛ رَشَقَ، قَذَفَ؛ اِندفَعَ بِسُرعة؛ بَضَعَ، شَرَطَ (بالمِشْرَط)
+lance corporal	وَكيل عَريف
+lance-head; lance-headed snak	حية جلجلية
+lanceolate leaf; lanceolated leaf	ورقة رمحية
+lancet	مِبضَع، مِشرَط؛ مُستَدِقُّ الطرَف
+lancet arch	عَقْدٌ رُمْحي
+lancet plates	ألواحٌ نَصْليَّة
+lancet window	نافِذة رُمْحيَّة
+Lancret’s theorem	مُبَرْهَنةُ لانْكْرِيت
+Lanczos algorithm	خُوارِزْمِيَّةُ لانْتْشوز
+Lanczos's method	طَريقةُ لانْتْشوز
+land	أرض، بَرّ، يابِسَة؛ صَفْح؛ مَتْن؛ نَزَلَ أو أنزَلَ إلى البرّ؛ هَبَطَ، حَطَّ (على الأرض) / يابسة، بَرٌّ / يابسة، بر
+land accretion (or reclamation)	اِستِصلاحُ الأراضي
+land breeze	نَسيمُ البَرّ / نَسِيمُ البَرّ
+land bridge	مَعبَرٌ أرضيّ (قَديم)
+Land camera = Polaroid camera	مُصَوِّرة «لاند»
+land carriage	نَقلٌ بَرِّي، النَّقْلُ بَرًّا
+land clearing	تطهير الأرض، تَنْظِيفُ الأرض
+land drain	مَصْرِفٌ أرضيّ
+land engine	مُحَرِّك أرضيّ
+land forces	القُوّات البَرِّيَّة
+land forme	أشكال تضاريسية
+land forms	أشكال تضاريسية
+Land Holding System	نظام حيازة الأرض
+land ice	جَليدٌ قارِّيّ
+land in sight	أرض مرأى البصر
+land levelling	تَمهيدُ أو تَسْوِيَةُ الأرض
+land line	خَطٌّ بَرِّيّ؛ كَبْلٌ بَرِّيّ
+land mine	لُغْمٌ أرضيّ
+land mobile station	مَحَطَّةٌ بَرِّيَّة مُتَنقِّلة
+land patent	اِمتيازُ (اِستثْمارِ) الأرض
+land power	قُوَّة بَرِّيَّة، قُوّاتٌ بَرِّيَّة
+land reclamation	اِستِصلاحُ الأراضي
+land reform	الإصلاحُ الزِّراعيّ
+land return	ارتداد من البر، صدى من اليابسة
+land station	مَحَطَّة أرضيَّة
+land subsidence	هُبوطُ الأرض، اِنخِسافُ الأرض (أو التُّرْبة)
+land surface	سطح الأرض
+land surveyor	مَسّاح
+land tie	شَدّادةٌ أرضيَّة
+Land Transport	النقل البري
+land up-lift	اِرتِفاعُ الأرض
+Landau symbols	رَمْزا لانْداو
+Landau's theorem	مُبَرْهَنةُ لانْداو
+Landau’s problems	مَسائِلُ لانْداو
+landbased (pollution)	أرضي (تلوث)
+Landen’s identity	متطابقةُ لانْدِنْ
+landfall	رُؤْيةُ البَرّ (بعدَ رِحلةٍ جَوِّيَّة أو بَحْريَّة)؛ ظُهُورُ اليابِسة (على شاشةِ الرادار) / رؤية البر، بلوغ اليابسة
+landfill	رَدْمٌ أرضيّ
+landform	شَكْلُ الأرض
+landing	رُسُوّ، إرساء؛ حَطٌّ، هُبُوط؛ إبرار؛ بَسْطَةُ تَحْميل (أو تَفْريغ)؛ بَسْطَةُ الدَّرَج، مُنْبَسَط السُّلَّم؛ رَصِيف (في مَرفأ) / نزول إلى اليابسة، إنزال
+landing angle	زاويةُ الحَطّ
+landing area	مِنطَقَةُ الحَطّ (أو الإقلاع)
+landing barge	صَنْدَلُ الإنزال (إلى البَرّ)
+landing beacon	مُرْشِدُ حَطّ
+landing beam	شُعاع الحَطّ
+landing call push	زِرُّ اِستِحضار المِصْعَد
+landing craft	مَركبَةُ إنزالٍ بَرمائيَّة
+landing deck	سَطحُ الحَطّ (على حامِلةِ طائِرات)
+landing distance	مَسافةُ الحَطّ
+landing field	ساحةُ الحَطّ، مَهبِطُ الطائِرات
+landing flap	قَلاّبة الحَطّ
+landing floodlights	أضواءُ الحَطِّ الغامِرة
+landing forecast	تنبؤ جوي للهبوط
+landing gear	جِهازُ الحَطّ، عَجَلاتُ الهُبوط / معدات الهبوط
+landing ground	مَهبِط، أرضُ النُّزول
+landing jetty	رَصيفُ إنزال
+landing light	ضوء الهبوط
+landing lights	أَضواءُ الحَطّ، أَنوارُ الهُبوط
+landing parachute	مِظَلَّةُ حَطّ، مِظَلَّةٌ كابِحة
+landing pier	رَصيفُ النُّزول إلى البَرّ
+landing ramp	مَدْرَجُ الحَطّ، مَهبِط
+landing run	شَوطُ الحَطّ، مَسافةُ الهُبوط
+landing searchlight	ضَوءٌ كاشِفٌ لِلحَطّ
+landing ship	سَفينةُ إنزال
+landing skid	مِزلَقةُ الهُبوط
+landing speed	سُرعةُ الهُبوط، سُرعةُ الحَطّ
+landing stage	رَصيفُ الإنزال، رَصِيف المَرْسَى؛ مِنَصَّةُ إنزال، بَسْطَةُ حَطّ / رصيف الإنزال
+landing strip	مَدرَجُ الحَطّ (أو الإقلاع)؛ شِعْبُ النُّزول إلى البَرّ
+landing switch	زِرُّ التوَقُّف في المِصعَد؛ مِقلادٌ ذو سِكَّتَين
+landing wheels	عَجَلاتُ (جهازِ) الهُبوط
+landing zone	مِنطَقةُ الهُبوط
+landing, blind	حَطٌّ أعمى، هُبوطٌ بِلا رُؤية
+landing, deadstick	هُبوط بِمروَحة مُتوقِّفة
+landing, emergency	حَطٌّ (أو هُبوطٌ) اِضطِراريّ
+landing, forced	هُبوط اضطِراري
+landing, instrument	حَطٌّ آليّ، هُبوط بالعَدّادات
+landing, stall	هُبوطٌ بمحَرِّك متوَقِّف
+landlocked	مُحاطٌ باليابِسة
+landlocked sea	بَحْرٌ داخِليّ / بحر مغلق
+landlubber	بحري غشيم
+landmark	مَعْلَم، صُوَّة، عَلامةٌ (أرضيَّة) بارِزة؛ أَثَرٌ، طابَع؛ حَدَثٌ بارِز / مَعلَم / علامة بارزة، علامة أرضية
+landmark beacon	مَنارة مَعْلَميَّة (لِغَير أغراضِ المَطارات)
+landmarks, topographic	مَعالِمُ طوبوغرافيَّة
+Landsat	لانْدسات
+Landsberger apparatus	جِهازُ «لاندْزبِرْغَر»
+landscape	مَنظرٌ طَبيعي أرضي؛ صَفحةُ الأرض، بَسْطَةُ الأرض / عرضي / منظر عام، صُقْع / منظر عام، صقع
+Landscape Design	تصميم المناظر الطبيعية
+landscape mode	نمط عرضاني
+landscape monitor	مرقاب عرضاني
+landslide = landslip	هَيارٌ أرضي، انزلاق أرضي؛ مُنْزَلَقٌ أرضيّ
+landslide; landslip	انزلاق أرضي، انهيار أرضي / انزلاق أرضي
+landslip; landslide	انهيار أرضي
+landslip; landslides	انهيار أرضي
+landward	نحو اليابسة، في اتجاه الأرض
+landward = landwards	باتِّجاهِ البَرّ، نَحْوَ اليابِسة
+lane	دَرْب، مَمَرّ، زُقاق؛ مَمَرٌّ مِلاحيّ؛ مَسْرَب
+lane, air	مَمَرٌّ جَوِّيّ
+Lang lay	جَديلةُ «لانڠ»
+Langerhan’s islets	جُزُر «لانْجِرهانْز»
+Langevin ion	شارِدة«لانجِفان»
+langite	لانڠيت
+langley	لانْغلي / لانغلي
+Langmuir probe	مِسْبَارُ «لانْغمير»
+language	لُغَة؛ لُغَةُ بَرْمَجة / 1 لغة ؛ 2 لغة ؛ 3 لغة / لُغَة / لغة
+Language Model	نموذج لغوي
+Language Model For Dialogue Applications (LaMDA)	نموذج لغوي للتطبيقات الحوارية
+Language Operations (LangOps)	عمليات لغوية
+language processor	معالج لغة
+language theory	نَظَرِيَّةُ اللُّغات
+language translation	تَرْجَمَة لُغَة
+language translation program	برنامج ترجمة لغوية
+language translator	مُتَرْجِم لُغَة
+Language-based editor	محرر مبنى على اللغة
+language-description language	لغة وصف لغات
+Language-sensitive editor	محرر حساس لللغة
+lanolin(e)	لانُولين، دُهْنُ الصُّوفِ
+lantana	لنتانة
+lantern	فانُوس، مِشكاة؛ مَنْوَرٌ سَقْفيّ بارِز / فانوس، منارة
+lantern light	مِشْكاةٌ سَقفيَّة، مَنْورٌ سَقْفيّ
+lantern pinion (or wheel)	تُرْسٌ قُضبانيّ، مُسَنَّنة قَفَصِيَّة
+lantern signalling	تَشْويرٌ بالفانوس
+lantern slides	شَرائحُ الفانوس السِّحْري، شرائحُ فانوسِ العَرْض الشفّافة
+lantern, projection	فانُوس إسقاط، فانُوسٌ سِحْريّ
+lantern, signalling	فانُوسُ إشارة
+lanthanides = lanthanide series	لَنْثانيدات، سِلْسِلةُ اللَّنْثانُوم
+lanthanum (La)	اللَّنْثَانُوم
+lanugo	زَغب، شَعْرُ الجَنين (في اللبُونات)
+lanyard	شَريط، مَرَسَة، قِيطانُ تَعْليق
+lap	طَوَى، لَفَّ، اِلتَفَّ؛ حَضَنَ، اِحتَضَنَ؛ راكَبَ، تَداخَلَ؛ صَقَلَ أو جَلَّخَ بالتَّحْضين (بِدَلْكِ الواحِد بالآخَر)؛ طَيَّة؛ حِضْن، حِجْر؛ تَراكُب، مَدَى التراكُب، طَرَفٌ مُتَراكِب؛ لَفيفةُ غَزْل؛ مِصْقَلٌ تَحْضِينيّ
+lap dissolve	إحلالٌ تَراكُبيّ
+lap dovetail	وُصْلةٌ زاويَّة غِنْفاريَّة
+lap joint	وُصلَةُ تَراكُب، وَصْلةٌ تَراكُبيَّة
+lap seam welding	لِحامٌ بِتراكُبِ وُصلَةِ الالتِحام
+lap sliding	تَغْطيةٌ بألواحٍ مُتَراكِبة
+lap valve	صِمام (تراكُبٍ) مُشَفَّف
+lap welding	اللِّحامُ التراكُبي (بالمقاوَمة الكَهربائية)
+lap winding	لَفٌّ مُتراكِب، لَفٌّ تَراكُبي
+lap, valve	تَراكُب الصِّمامات
+lap-jointed	مُتراكِب الوُصلات
+lap-welded	مُتراكبُ اللِّحام
+lap-welded joint	وُصْلَةُ لِحَامٍ تراكُبيّ
+laparoscope	مِنظارُ جَوف البَطْن
+lapel microphone	مِيكروفون صُدْريّ
+lapidary	صاقِلُ الماس (أو سِواهُ مِن الحِجارة الكَريمة)؛ صَقْلُ الحِجارة الكَريمة؛ جَيِّدُ الصَّقْل؛ بالِغُ الدِّقَّة والأَناقة
+lapidicolous	حِجاريُّ العَيْش
+lapilli	لُوَيْبات بركانية / لويبات بركانية
+lapilli (sing. lapillus)	حَصًى بُركانيّ، لُوَيبات، لابَة فُتاتيَّة
+lapis lazuli	اللاَّزَوَرْد
+lapis-lazuli	لا زَوْرَدٌ / لازورد
+Laplace equation	مُعادَلة «لاپْلاس» / مُعادَلةُ لابْلاس
+Laplace operator	مُؤَثِّرُ لابْلاس
+Laplace transform	مُحَوِّل لابْلاس
+Laplace's equation	مُعادَلةُ لابْلاس
+Laplace's expansion	نَشْرُ لابْلاس
+Laplace's measure of dispersion	مِقْياسُ لابْلاس في التَّشَتُّت
+Laplace, Pierre Simon Marquis de	پيير سيمون مَرْكيزْ دو لابْلاس
+Laplacian	لابْلاسِيّ
+laplacian transformation	تحويل لا يلاسي
+lapped	مُتراكِب؛ مُجَلَّخٌ بالتَّحْضين
+lapped joint	وُصْلَةٌ مُراكَبة
+lapped tenons	لِسانا تَعْشيقٍ مُتَراكِبان
+lapping	التجْلِيخُ بالتَّحْضين، الصَّقْلُ بالحَضْن (بدَلْكِ واحِدٍ بالآخَر)؛ التَّحْضين، التراكُب؛ تَداخُل
+lapping (of waves)	تداخل (الموجات)
+lapping compound	مُرَكَّبُ تَجْلِيخٍ بالتَّحْضين
+lapping machine	مَكَنَةُ تَجْلِيخ بالتحضين (لِضَبْط ثُقوبِ الأُسطُوانات أو تَجْويف العَدَسات)
+lapse	اِنقِضاء، فَوات؛ تَناقُص، سُقوط، هُبُوط؛ هَفْوة، زَلَّة؛ اِنقضى، فاتَ؛ هَبَطَ تَدرِيجيًّا، تَنَاقَصَ؛ اِنتَقَلَ (إلى)؛ زَلَّ، سَقَطَ
+lapse rate	مُعَدَّلُ الهُبوط (في دَرَجَةِ الحَرارة بالارتِفاع عَن سَطحِ الأرض)
+laptop	حاسوب حمول / حاسوب محمول
+laptop computer	حَاسُوبٌ مَحْمُول / حاسوب محمول
+larboard	جانِبُ السفينة (أو الطائرة) الأيْسَر
+larceny	سَرِقَة، اِختِلاس
+larch	لاركس
+larch wood	خَشَبُ اللاَّرِكس (الغَنيُّ بالراتينَج)
+lard	شَحْمُ أَو دُهْنُ الخِنْزير
+lard oil	زَيتُ دُهْن الخِنْزير
+larder	غُرْفة تَبْريد (لِحفظ اللحوم والأَطْعِمة)
+large	كَبير، ضَخْم، واسِع
+large (to)	أبحر بريح مواتية
+large calorie	سُعْرٌ كَبير، كِيلُو كالوري
+large dyne = newton	دايْن كَبير
+large halo	هالةٌ كَبِيرة
+large intestine	المِعى الغليظ / معي غليظ
+Large Language Model (LLM)	نموذج لغوي كبير
+Large Language Model Alignment	مواءمة النماذج اللغوية الكبيرة
+Large Language Model Operations (LLMOps)	عمليات النماذج اللغوية الكبيرة
+large model	نموذج واسع
+large panel construction = system building	إنشاءٌ بالقِطعِ القالبيَّة السابِقةِ الصَّبّ بِناءٌ نَظمي أو نَسَقي
+large scal	مقياس كبير
+large scale	نِطاق واسِع؛ مِقياسٌ كَبير
+Large vocalized language models	نماذج ضخمة للغة المنطوقة
+large-scale	واسِعُ النِّطاق
+large-scale integration	تكامل واسع النطاق
+large-scale weather situation	حالة الطقس العام
+lariat	وَهَق
+lark	قبرة، قنبرة
+larkspur	دلفنينيوم، عائق
+larry	مِعْوَلُ تَخْليط؛ مِلاط إِسمَنْتي رِخو؛ شاحِنة مُسَطَّحة؛ عَبَّأ بالمِلاط الرِّخو
+larva	يَرَقانة، يَرقة، دُعموص / يرقانة
+larvicide	مُبيدُ اليَرَقانات
+larviform	يرقاني الشكل
+laryngeal cartilage	غضروف حنجري
+laryngitis	اِلتهابُ الحَنْجَرة
+larynx	حَنْجَرَة / حنجرة
+laser	لَيْزَر / ليزر
+laser (Light Amplification by Stimulated Emission of Radiation)	لِيْزَر
+laser beam	حُزْمة لِيْزَريَّة
+laser camera	مُصَوِّرة لِيْزَريَّة
+laser printer	طَابِعة لِيزَريَّة / طابعة ليزرية / طَابِعَةٌ لَيْزَرِيَّة / طابعة ليزر
+laser protection	الوقاية مِن أخطار اللِّيزر
+laser radar = ladar	رادارٌ لِيْزَريّ، لِيْدار
+laser storage	خزن ليزري
+laser threshold	عَتَبةُ (أو مَبْدَى) اللِّيْزَر
+laser-beam machining	التشكيلُ بِحُزْمةٍ لِيزريَّة
+lash	ضَرْبَةُ سَوط، ضَرْبةٌ عَنيفة؛ وِثاق، حِزام؛ جَلَدَ بالسَّوط، ضَرَب بعُنف؛ أوثَقَ، حَزَمَ / ربط بحبل، أوثق بسلسلة
+lash ship	سفينة لاش
+lash-up	وَصلٌ مؤقَّت؛ بَديلٌ مُؤَقَّت
+lashing	رِباط، وِثاق؛ رَبْط
+lashing cleat	مربط (زناقة) تقييد
+lashing plan	خطة تحميل المواعين
+lashing ring	حَلْقَةُ رَبْط
+last	آخِر، أخير؛ قالَبُ الأحذية؛ بَقِيَ، دَامَ، ثَبَتَ، اِستَمَرَّ، تَحَمَّلَ
+last cut	المُقتَطَع النِّهائيّ
+last in first out (LIFO)	آخِر دَاخِل أَوَّل خَارِج
+last in, first out	الداخل آخراً، خارج أولاً
+last quarter	الرُّبْعُ الأخير / تربيع (ال...) الأخير
+Last-in first-out	الداخل آخراً، خارج أولا
+last-in-first-out	الداخِلُ أخيرًا يُصَرَّفُ أوَّلاً؛ مَبْدأ أَسْبَقِيَّة المُعالَجة للدَّاخِل الأخير
+lasting	ثابِت، دائِم، باقٍ
+latch	سَقّاطة، مِزلاجُ أو رِتاجُ الباب؛ لاقِفة؛ ثَبَّتَ بِسَقّاطة / لاقِفٌ
+latch jack	خُطّاف رَفْع (أو اِلتِقاط)
+latch, anchor	رِتاجُ تَثْبيت
+latch-key	ذِراعُ سَحْبِ (أو رَفْعِ) السقّاطة
+latch-lock	قُفْلٌ بسَقّاطة
+latching	إِزْلاج
+late	مُبْطِئ، مُتَأَخِّر؛ مُتَأَخِّرًا، حَديثًا
+late admission	إدخال مُتأخِّر
+late arrivals	الوافِداتُ المُتَخلِّفَة
+late binding	إيثاق متأخر
+Late Fetal Deaths	وفيات الأجنة المتـأخرة
+late flower	زهرة مئخار
+late ignition	إشعالٌ مُتَأخِّر
+late image	صُورة كَامِنَة (لَم تُظَهَّر بَعْد)
+late mature malley	وَادٍ متقدمُ التكوين / واد متقدم التكوين
+late palaeozoic era	حقب قديم متأخر
+Late Palaezoic	الحُقْبُ القَديم المُتَأَخِّر
+late palarozoic era	حقب قديم متأخر
+late replicating X chromosomes	صبغيات X متأخرة التكرر
+late tertiary	عصر(ال...) الثلاثي الحديث / عصر(...) الثلاثي الحديث
+late wood tracheids	قصبيات الخشب المتأخر
+lateen sail	شِراعٌ مُثَلَّث الشكل
+lategene	مورِّث متأخر
+latency	كُمُون، اِستِتار / تَلَبُّث / زمن الوصول / تأخير / كمون
+latency period	فترة الكمُون
+latency time	دَورُ الكُمون
+latent	كَامِن، مُستَتِر / كَامِن / كامن
+latent energy	طاقة كامِنة / طاقة كامنة
+latent heat	حَرارة كامِنة / حرارة كامنة
+latent heat of crystallization	حرارة التبلور الكامنة
+latent heat of fusion	حرارةُ الانصهار الكامِنة / حرارة الانصهار الكامنة
+latent heat of steam	الحرارةُ الكامِنَة لِلبُخار
+latent heat of sublimation	الحرارةُ الكامنة للتسامي، حَرارةُ التصعيد الكامِنة / حرارة التسامي الكامنة
+latent heat of transition	الحرارة الكامِنة للتحوُّل
+latent heat of vaporization	الحرارة الكامنة للتبخُّر، حرارةُ التبَخُّر الكامِنة / حرارة التبخر الكامنة
+latent image	صُورةٌ كَامِنة / مرئية كافية
+latent instability	عَدَمُ اسْتِقرارِ كامِن
+latent life; dormant life	حياة كامنة
+latent magnetization	التمَغْنُط الكامِن، المغنَطيسيَّة الكامِنة / مَغْنَطَة كامنة / منطقة كامنة
+latent period	فَتْرةُ الكُمون، فَترةُ رَدِّ الفِعْل، زَمَنُ الاستِجابةِ للمُؤَثِّر
+latent root	جَذْرٌ كامِنٌ (جَذْرٌ لاطٍ)
+Latent semantic analysis	تحليل الدلالات الكامنة
+Latent Space	فضاء كامن
+latent vector	مُتَّجِهٌ كامِنٌ (مُتَّجِهٌ لاطٍ)
+lateral	جانِبِيّ؛ مَسْرَبٌ جانِبيّ، تَفَرُّع جانِبيّ / جانبي
+lateral aperture	فُتْحة جانِبيَّة / فتحة جانبية
+lateral area	المِساحة الجانِبيَّة / مساحة جانبية / مِساحةٌ جانِبِيَّة
+lateral axis	محوَرٌ جَانِبي، مِحْوَرٌ مُستَعْرِض
+lateral bracing	شِكالٌ أو شُكُل جانِبيَّة
+lateral branch	فرع جانبي
+lateral branching	تفرع جانبي
+lateral bud	برعم جانبي
+lateral chromatic aberration	زَيغٌ لَوني جانِبيّ / زيغ لوني جانبي
+lateral clearance	خُلُوص جانِبي
+lateral conjugation	تزاوج جانبي، اقتران جانبي
+lateral contraction	تَقلُّص جانِبي
+lateral corrasion	حَتٌّ جانِبي
+lateral crater	فُوَّهة جانِبيَّة / فوهة جانبية
+lateral deflection (or deviation)	اِنحِرافٌ جانِبيّ
+lateral deformation	تَشوُّه جانِبي
+lateral deviation	اِنحِرافٌ جانِبيّ
+lateral discharge	تَفْريغ جانِبي
+lateral displacement	إزاحة جانِبيَّة
+lateral divergence	اِنفِراجٌ أو تباعُد جانِبي
+lateral drilling	حَفْر جانِبي
+lateral edges of a prism	أحرف (ال...) الجانبية لموشور
+lateral erosion	حَتٌّ جانبي / حت جانبي
+lateral expansion	تَمدُّد جانِبي
+lateral face	وَجْهٌ جانِبِيّ
+lateral fault	صَدْعٌ جانبي / فالق جانبي، صَدْعٌ جانبي / فالق جانبي
+lateral flexure	ثَنْية جانِبيَّة، اِنثناء جانِبي
+lateral force	قُوَّة جانِبيَّة
+lateral inclinometer	مِمْيالٌ جانبيّ
+lateral inversion	قَلبٌ جانِبي (للصُّورة في المِرآة يُصبِحُ يَمينُها يَسارَها)
+lateral line	خط جانبي
+lateral magnification	التكبيرُ الجانِبي
+lateral meristem	مرستيم جانبي
+lateral mixing	خَلَطٌ جانبي
+lateral moraine	رُكَامٌ جانِبي، رُكامٌ جَليديّ جانِبيّ / رُكام جليدي جانبي / ركام جليدي جانبي
+lateral motion	حَرَكة جانِبيَّة
+lateral plane	مُسْتَوٍ جانِبي
+lateral play	لَعِبٌ جانِبي، تَقَلْقُل جانِبي
+lateral pressure	ضَغْطٌ جانِبيّ
+lateral resistance	مُقاوَمة جانِبية
+lateral root	جذر جانبي
+lateral secretion	إفراز جانبي / افراز جانبي
+lateral section	مَقطَع جانِبي
+lateral separation	تباعد جانبي
+lateral shift	زَحْفٌ جانِبي / إزاحة جانبية / ازاحة جانبية
+lateral stability	اِستِقرارٌ جانِبي
+lateral strain	اِنفِعال جانِبي
+lateral stress	إجهادٌ جانِبيّ
+lateral support	دَعْمٌ جانِبيّ؛ دِعامة جانبيَّة
+lateral surface	سَطْح جانِبي / سطح جانبي
+lateral thrust	دَفْعٌ جانِبي
+lateral variation	تغيّر جانبي
+lateral vein	عِرْقٌ جانِبي / عرق جانبي
+lateral velocity change	تغير السرعة الجانبي
+lateral vibration	اِهتزاز جانبي
+lateral-line canal	قناة الخط الجانبي
+lateral-line system	جهاز الخط الجانبي
+laterally-inverted image	صُورة مَقلوبة جانِبيٍّا (يَمينُها يسارُها)
+laterite	ألْبُصرَة، اللاّتِرَيت / لاتيريت، بَصْرَة / لاثيريت، بصرة
+laterite soil	ألتُّربة الحمراء، تُربةُ اللاّتِرَيت
+laterization	تَلَتْرُت
+laterolog	مِقياسُ مُقاوِميَّة الحَفْر / لاترولوج
+latex	لَثْيٌ؛ مُستَعْلَقٌ غَروانيّ مائيّ / لبن نباتي، يتوع
+latex emulsion	مُسْتَحْلَبٌ لَثْيِيّ
+latex, rubber	لَثْيٌ مَطّاطي
+latex-foam rubber	مَطّاطٌ رُغاويّ لَثْيِيّ
+lath	قِدَّة، شَريحَة خَشَبِيَّة، (لاطة)؛ غَطَّى بالألواحِ أو الشرائحِ الخَشَبِيَّة
+lath hammer	مِطْرَقَةُ لاطاتٍ
+lathe	مِخْرَطَة
+lathe apron	غِطاءُ تُروس عَربة المِخرَطة
+lathe bed	فَرْشَةُ المخرَطة
+lathe carriage	عَرَبةُ المِخرَطة
+lathe carrier = lathe dog	كُلاّبة المِخْرَطة
+lathe centre	ذَنَبَةُ المِخرَطة
+lathe cheeks	جَوانِبُ فَرْشة المِخرَطة
+lathe chuck	ظَرْفُ المِخرَطة
+lathe clutch	قابِضُ المِخرَطة
+lathe cross slide	مُنْزَلَقُ المِخْرَطة المُستَعْرِض
+lathe dog	كُلاّبة المِخرَطة
+lathe head	رأسُ المِخرَطة (الدوّار)
+lathe headstock	غُرابُ الرأس في المِخرَطة
+lathe hoist	مِرفاعُ المِخرَطة
+lathe lead screw	عَمود السَّحْبِ في المِخْرَطة
+lathe live spindle	عَمودُ دَورانِ المِخرَطة
+lathe saddle	سَرْجُ المِخْرَطة
+lathe shears (or ways)	مُنزَلَقا سِنادةِ المِخرَطة
+lathe slide rest	سِنادةُ المِخرطة المُنزَلِقةُ
+lathe steady rest	مِخنَقَةُ المِخرَطة
+lathe tailstock	غُرابُ الذَّيْلِ في المِخرطة
+lathe tools	عُدَّة المِخرَطة
+lathe, automatic	مِخْرَطَة أُوتوماتيَّة
+lathe, bench	مِخرطة نَضَديَّة
+lathe, centre	مِخرطة ذَنَبِيَّة
+lathe, copying	مِخرَطةٌ نَسّاخة
+lathe, drill	مِخرَطة ثَقْب
+lathe, screw-cutting	مِخرَطةُ لَولَبة
+lathe, surfacing	مِخرَطةُ تَسْطِيح
+lathe, turret	مِخرَطة بُرجيَّة
+lathe-work	أَعمالُ الخِراطة
+lather	رَغْوَة، رُغوة، رِغوة؛ أَرْغَى
+lather oil	زَيتٌ رَغَوِي
+lathing	شَرائِحُ خَشَبِيَّة؛ التبطينُ أو التغطيةُ بشَرائحَ خَشَبيَّة
+laticiferous cells	خلايا لبنية
+laticiferous ducts	قنوات لبنية
+Latin rectangle	مُسْتَطيلٌ لاتينِيّ
+latin square	مربع لاتيني / مُرَبَّعٌ لاتينِيّ
+latitude	خَطُّ العَرْض، عَرْض؛ مَدى، نِطاق؛ اِتِّساع / خط العرض / عرض / مدى زمني
+latitude (geodesic ...)	خط العرض الجيوديزي
+latitude (geodesic latitude)	خط العرض الجيوديزي
+latitude libration	ميسان عرضي
+latitude, celestial	(خَطُّ) العَرْض السماوي
+latitude, geographical	(خَطُّ) ألعَرْض الجُغرافيّ
+latitudinal	عرضي
+latrine	مِرحاض
+latten (or lattin)	اللاّتن؛ صَفائحُ من القَصديرِ (أو مِن مَعدِن آخَر)
+lattice	شُبَيْكَة، شَبَكِيَّة؛ شَبيكة؛ شَبَّكَ / شبيكة،عريش / شَبَكَة (شَبيكَة)
+lattice (suspension) tower	بُرْج (تَعْليق) تَشابكي
+lattice bars	قُضْبانُ الشُّبَيْكة المُتَعارِضَة
+lattice beam	جَائِزُ عَوارِضَ مُتَشابِكةٍ قُطْريًّا
+lattice bridge	جِسْرٌ مُتَشابِكُ العوارض
+lattice cell	خلية شبكية
+lattice chart	خَريطةٌ شَبَكيَّةُ التَّقْسيم / خريطة شبكية
+lattice coil	مِلَفٌّ تَشابُكيّ
+lattice container	حاوية شبكية
+lattice crystal	بلورة شبكية
+lattice energy	طاقةُ الشُّبيكة، طاقُة الوضع للشبيكة البلوريَّة
+lattice filter	مُرشِّح شَبَكيّ
+lattice framework	إطار شَبَكي
+lattice girder	عارِضة تَشابُكيَّة، رافِدة شَبَكِيَّة
+lattice network	شَبَكةٌ قَنْطريَّة
+lattice structure	بِنْيةٌ تَشَابُكيَّة / بنية شبكية
+lattice texture	نَسجةٌ أو نَسيجٌ تشابُكيّ / نسيج شبكي
+lattice truss	جُمْلُون تَشابُكي
+lattice vibration	تذَبْذُب الشُّبَيكة
+lattice winding	لَفٌّ تَشابُكي؛ لَفيفة تَشابُكية
+lattice window	نافِذة مُشَبَّكة
+lattice-work	شَبَك، إنشاءٌ مُتَشابِك
+latticed	مُتَشابِك، مُشَبَّك
+lattices	بقع شبكية، شبكة
+latus rectum	الوَتَرُ البُؤْريُّ العَمودّي (لِقَطعٍ ناقِص أو لِسَطحٍ مُكافِئ) / وتر (ال...) العمودي البؤري / وَتَرٌ بُؤْرِيٌّ عَمودِيّ (وَسيطُ قَطْع)
+Laue pattern	نَمَطُ «لاوِيه»
+laughing gas	الغازُ المُضحِك
+launch	إطلاق (المقذوف)، اِنطِلاقُ المَقْذُوف؛ رَفّاس؛ أنزلَ إلى البَحْر؛ أطلَقَ؛ شَنَّ / يُطْلِق / تنفيذ / إنزال (سفينة إلى الماء)
+launch complex	مُجَمَّعُ إطلاق
+launch control centre	مَركزُ التحكُّمِ في الإطلاق
+launch site	مَوقِعُ إطلاق (الصواريخ) / موقع الإطلاق (الإنزال)
+launch stand	قاعِدةُ إطلاق
+launch system	منْظومةُ إطلاق
+launch vehicle	مَركبةُ إطلاق؛ صاروخُ إطلاق
+launch window	تِفْرِجةُ إطلاق
+launch(ing) pad	مِنَصّةُ (أو قاعدة) إطلاق (الصواريخ)
+launch(ing) ways	سِكَّةُ إنزال
+launcher	جِهاز قَذْف، جهازُ إطلاق (الصَّواريخ) / مُطْلِق
+launching	إطْلاق (الصاروخ)؛ إنْزال (السَّفينة) / إِطْلاق
+launching angle	زاويةُ الإطلاق
+launching base	قاعِدةُ إطلاق
+launching device	جهاز الإنزال إلى الماء
+launching platform	مِنَصَّةُ إطلاق
+launching ramp (or tower)	بُرْجُ إطلاق (الصواريخ)
+launder	غَسَلَ (الملابسَ)؛ مِصْوَلٌ مائي (لِفَصْل المَعادِن أو تَركيزِ خاماتِها)
+launder screen	مِصْفاةُ المِصْوَل
+laundry	مَغْسَلَة، (مَصْبَغَة)؛ غَسِيل
+laundry blue	أَزْرَقُ الغَسِيل
+laundry soap	صابونٌ صُلْب
+lauraceae	فصيلة غارية
+Laurasia	لُوراسيه / لوارسيا / نوارسيا
+laurel (nobl)	غار رند
+Laurent expansion	نَشْرُ لوران
+Laurent series	مُتَسَلْسِلةُ لوران
+Laurent, Paul Matthieu Hermann	بُول ماتْيو هيرْمان لوران
+lauric acid	حَمْضُ اللُّوريك، حامِضُ الغار
+laurus (laurel)	غار، شَجَرُ الغار، اللّورة
+lauryl alcohol	كُحولُ الغار
+lautarite	لُوتاريت
+lava	لابَة / لابة
+lava ash	رَمادٌ بُركانيّ / رماد بركاني
+lava ball	كرة لابية
+lava dome	قُبَّة لابِيَّة / قبة لابية
+lava flow	فَيْضُ اللاَّبة، طَفْحٌ بُركاني / انسياب اللابة
+lava sheet	فَرِيشُ اللاَّبَة، غِطاءٌ لابِيّ / غطاء لابي
+lava shield	درع لابي
+Laval nozzle	فوهة «لاڤال»
+Lavalier microphone	ميكروفون «لافالييه»
+lavandula spica	خزامى ذكرية
+lavatera	لافاتيرة
+lavatory	مَغْسَلَةُ الايدي، مَغُسَلَة
+lavatory basin	حَوضُ المَغسَلَة
+lave flood	سيل الحمم
+lave lake	بحيرة لابية
+lave steam	صبّة لابية
+lavender	الخُزامَى، (اللاّوندة)؛ لَونٌ أُرجوانيّ شاحِب / الخُزَامَى
+lavendre-cotton	صنطولية
+lavendre-oil	زيت الخزامى
+law	قانُون، شَريعة؛ قاعِدة / قانون
+law of averages	قانونُ المُتَوَسِّطات
+law of chemical equilibrium	قانُون الاتِّزان الكِيماويّ
+law of combining volumes	قانُون الأحجام المُتَّحِدة
+law of conservation of energy	قانُونُ بَقاءِ الطاقة
+law of conservation of mass	قانُون بَقاءِ الكُتْلَة
+law of conservation of matter	قانُون بَقاء المادَّة
+law of constant (definite) proportions	قانونُ النِّسَب الثابِتة
+law of contradiction	قانونُ التَّناقُض (قانونُ الخُلْف)
+law of cooling	قانُون مُعدَّل البُرودة ل «نيوتن»
+law of cosines	قانُون جُيوبِ التَّمام / قانونُ جُيوبِ التَّمام
+law of definite proportions	قانُون النِّسَب الثابِتة
+law of diffusion	قانُون انتشارِ الغازات
+law of diminishing returns	قانُون تناقُصِ الغَلَّة
+law of electric networks	قانُونُ الشبَكاتِ الكَهربائيَّة
+law of electrostatic attraction	قانُون التجاذُب الإلِكتروستاتي
+law of equivalent proportions	قانُون النِّسَب المُتَكافِئة
+law of exponents	قانونُ الأُسُس
+law of exponents (or indices)	قانُون الإساس (أو الأدِلَّة)
+law of gravitation	قانُون الجاذِبِيَّة
+law of growth	قانونُ النُّمُوّ
+law of heat exchange	قانُون التبادُل الحَراري
+law of independent assortment	قانون التوزيع المتسقل / قانون التوزيع الحر
+law of indices	قانون الأسس
+law of large numbers	قانونُ الأعْدادِ الكَبيرة
+law of mass action	قانُون فِعْلِ الكُتْلة / قانون فعل الكتل
+law of multiple proportions	قانُون النِّسَب المُتَضاعِفة
+law of partial pressures	قانُون «دالتُون» لِلضُّغوط الجُزْئيَّة
+law of photoelectric emission	قانُون الابتِعاث الكَهْرضَوئي
+law of probabilities	قانُون الاحتِمالات
+law of probability	قانون احتمال
+law of proportionality	قانُون التَّناسُب
+law of quadrants	قانونُ الأرْباع
+law of reciprocal proportions	قانُون النِّسَب المُتَبادَلة
+law of segregation	قانون الانعزال
+law of signs	قانُون العَلامَاتِ الجبْرِيَّة، قَانُون الإشارات / قانونُ الإشارات
+law of sines	قانُون الجُيوب / قانونُ الجُيوب
+law of species	قانونُ الأنْواع
+law of superposition	قانون تَراكُب (أو تَعَاقُبِ) الطَّبَقات / قانون التعاقب
+law of supply and demand	قانُون العَرْض والطَّلَب
+law of tangents	قانونُ الظِّلال
+law of the excluded middle	قانونُ الثَّالِثِ المَرْفوع
+law of the mean	قانونُ الوَسَط (قانونُ المُتَوَسِّط)
+law of universal gravitation	قانُون التجاذُب العامّ (لِنْيوتُن)
+law of volumes	قانُون الحجوم، قانون «غِي لوسَّاك»
+law, Boyle’s	قانون «بُويل»
+law, Charles’s	قانُون «شارل»
+law, civil	القانُون المَدَني
+law, international	القانون الدّوليّ
+law, inverse square	قانونُ التَّرْبيعِ العَكْسيّ
+law, Ohm’s	قانُون «أُوم»
+Lawful Interception	التقصي الإلكتروني القانوني
+lawn mower	جَزّازةُ العُشْب؛ مُضَخِّم قَبْلي (استعمال عامِّيّ)
+lawn sprinkler	مِرَشَّةُ مُروج
+lawrencium (Lr)	اللورَنْسيُوم
+laws of electrolysis	قَوانينُ الحَلِّ الكَهربائي
+laws of electromagnetic induction	قَوانين الحَثِّ الكَهْرَمِغنَطِيسيّ
+laws of indices	قوانينُ الإساسِ أو الأدِلَّة
+laws of motion	قَوانينُ الحَرَكة / قوانين الحركة
+laws of reflection	قوانينُ الانعِكاس
+laws of refraction	قوانينُ الانكِسار
+laws of thermodynamics	قَوانين الدِّينامِيَّات الحَراريَّة
+lawsuit	قَضِيَّة، دَعْوَى قَضائِيَّة
+lax	رَخْو، مُهَلْهَل؛ غيرُ دَقيق
+laxative	مُلَيِّن، مُسْهِل
+laxity	رَخاوة
+lay	وَضْع، مَنْحَى؛ خُطَّة؛ رَصَّةُ الجَدْل (في الحِبال)، جَدِيلة؛ وَضَعَ؛ أَضْجَعَ؛ أَلْقَى؛ بَسَطَ، مَدَّ (الأنابيبَ)؛ خَفَّفَ السُّرعة (بِنَشْر الأشْرِعة)؛ رَصَّ، جَدَلَ؛ رَتَّبَ؛ سَدَّدَ؛ رَاهَنَ؛ باضَت (الدجاجةُ)
+lay bar	عَارِضةٌ أُفُقيَّة
+lay barge	سَفينةُ مَدِّ الأنابيب (تحت الماء)
+lay days	أيامُ الشَّحْن والتَّفْريغ؛ أيامُ التَّأخير في المِيناء
+lay days (shipping)	أيام العمل في شحن السفينة أو تفريغها
+lay light	مَنْوَرٌ أُفُقيّ (في السَّقْف)؛ نُورٌ يُرَكَّبُ أُفُقيًّا في السَّقْف
+lay off	سَرَّحَ (العُمّال) مُؤَقّتًا؛ أغْلَقَ؛ أَقْلَعَ عن، اِبتعَدَ عن
+lay on	فَرَشَ؛ غَطَّى؛ اِستعمَلَ؛ مَدَّ (طبقةً من الدِّهان على سَطحٍ ما)
+lay on the stocks	وضع السفينة على ركائز
+lay open	كَشَفَ، أظْهَرَ
+lay out	خَطَّط؛ نَشَرَ، مَدَّ
+lay ratio	نِسْبةُ رَصَّةِ الجَدْل
+lay shaft	عَمُودٌ مُناوِل، جِذْعٌ مُتَوَسِّط، عَمودُ التَّوزيع المُساعِد
+lay time	فَتْرةُ التحميلِ أو التفريغ (لِلسَّفينة)
+lay-by	مَوقِفٌ جانبيٌّ لِلسيّارات
+lay-out	تَخْطِيط؛ مُخَطَّط، تَصْميمٌ عامّ؛ تَصْميم، طريقة إخراجِ الطَّبْع
+lay-out drawing	رَسْمٌ تَخْطيطيّ
+lay-out table	مِنْضَدةُ الرسمِ التخطيطيّ
+layer	طَبَقة، سافٌ؛ مِدْماك، عَرَقَة؛ طَبَقةٌ أرضيَّة / 1 طبقة ؛ 2 طبقة / طَبَقَة / طبقة / ترقيدة
+layer corrosion	حَتٌّ كيميائي طباقي / حت كيماوي طباقي
+Layer Width	عرض الطبقة
+layer winding	لَفٌّ طَبَقيّ
+layer, oil bearing	طَبَقةٌ حامِلةٌ لِلنّفْط
+layered	مطبّق، طباقي
+layered bathymetric chart	خريطة أعماق ملونة
+layered interface	واجهة ذات طبقات
+layered map	خَريطةُ تَضاريس
+layered relief map	خريطة مجسمة ملونة
+layered rock	صَخْرٌ طِباقيّ / صخر طِباقي / صخر طباقي
+layered structure	بِنْيَةٌ طِباقيَّة / بنية طباقية
+layering	تَرْقيد، عَكْسُ أو تَرْقيدُ الأغصان؛ طِباقيَّةُ النَّبْت؛ تَطَبُّق، طِباقيَّة؛ تَرْقينٌ (يميِّز الارتفاع على الخارطة) / تشكيل الطبقات (طبقنة) / ترقيد
+layering in periderm	تتابع الطبقات في البريديرم
+LayerNorm Tuning	ضبط طبقات التسوية
+laying	وَضْع، مَدّ؛ طَبَقةُ مِلاطٍ أوَّليَّة
+laying cat	جَرَّارُ مَدِّ الأنابيب (ذُو مِرفاعٍ جانِبيّ)
+laying off	تَمْليس
+laying-out	تَخْطيط
+layoff	فَتْرَةُ تَوَقُّف، وَقْفُ العَمَل؛ تَسْريحُ العُمّال (مُؤَقَّتًا)؛ تَنْحِية (عن)
+layout	1 مخطط [نسقي] ؛ 2 نسق ؛ 3 مخطط [توضّعي] / تَوْضِيب / تخطيط
+layover	تَوَقُّف، تَوَقُّف مَرْحَليّ / خَفْض الذُرَى
+layshaft	عمود مناول
+lazaret	مخزن مؤن
+Laziness	كسل
+lazuli	لازَوَرْد
+lazulite	لازُوليت / لازوليت
+lazurite	لازُوريت
+lazy evaluation	تقييم كسول
+lazy jack	رافِعَةٌ مَدّادة
+Lazy Learning	تعلُّم كسول
+Lazy list	قائمة كسولة
+lazy maize	ذُرة كَسْلاَنة
+lazy tongs	مِلْقَط مَدّاد
+LCC	حامل رقاقة عديم الموصلات
+LCD	مظهار ذو بلورات سائلة / lcd
+LCD = liquid crystal display	عَرْضٌ بِلَّوريٌّ سائِليّ
+LCD printer	طابعة ذات بلورات سائلة
+LCD projector	مُسقِط ذو بلورات سائلة
+lcm	lcm
+LDAP	ميفاق مُخَفَّف للنفاذ إلى الدليل
+Le Chatelier-Braun principle	قاعِدة «ليشَاتلِييه وَ براون»
+leach	صَوَّل، نَضَّ؛ غَسُول
+leached zone	مِنطَقةٌ مَنْضُوضة
+leaching	نَضُّ (التُّرْبة)، تَصْويل، غَسْلُ التُّرْبة؛ نَضٌّ، حَلْحَلة، تَصْويل المَعدِن الخام
+leachy soil	تُرْبَة نَفّاذة
+leachy soil; leached soil	تربة مغسولة
+lead	قَادَ؛ أرشَدَ؛ أدارَ؛ سَبَقَ، تَقَدَّمَ؛ سَدَّدَ؛ أدَّى إلى، أوصَلَ؛ قِيادة، سَبْق، تَقدُّم؛ دَليل؛ سِلك مُوَصِّل؛ مَجرى الحَبْل؛ قناة، مَجرى؛ خُطْوَة (السِّنّ) / 1 مُوصِلة ؛ 2 فُرجَة / رصاص
+lead (Pb)	رَصاص؛ مِرْجاس، مِسْبارٌ رَصاصيّ؛ فادِن؛ قضيبُ رَصاصٍ مُخَدَّد (للأطُر الزجاجيَّة)؛ رَصاصِيّ؛ صَفَّحَ بالرصاص، خَتَمَ بالرصاص
+lead accumulator	مِرْكَم رَصاصي
+lead acetate	خَلاَّتُ (أو أسيتات) الرصاص
+lead acid (storage) battery	مِرْكَم حَمضي رَصاصي
+lead age	العُمر الرصاصي
+lead alloy	سَبيكة رَصاصيَّة
+lead angle = angle of lead	زاويةُ السَّبْق، زاويةُ التقَدُّم
+lead azide	آزيدُ الرَّصاص
+lead bath	مَغْطِسٌ رصاصي
+lead bearing	ذو رصاص
+lead blade	نصل من الرصاص
+lead bronze	برونْزٌ رَصاصي
+lead burning	اللِّحامُ الذّاتيّ لِلرَّصاص
+lead carbonate	كَرْبونات الرصاص
+lead castle	حِصْنٌ رَصاصيّ (ضِدَّ الإشعاعات)
+lead chamber process	عمليَّةُ الغُرَف الرَّصاصيَّة (لتحضيرِ حامِض الكِبريتيك)
+lead chloride	كلُوريد الرصاص
+lead chromate	كُرُومات الرصاص
+lead cut-out	صَهيرةٌ (أو فاصِمَة) رَصاصيَّة
+lead glance = galena	كِبْريتيداتُ الرَّصاص، كِبْريتور الرَّصاص الطبيعي
+lead glass	زُجاجٌ رَصاصيّ (يَحْجُبُ الإشعاعاتِ المُضِرَّة)
+lead glazing	تَزْجيجٌ رَصاصيُّ الأُطُر
+lead hammer	مِطرَقة ذاتُ رأسٍ رَصاصيّ
+lead hydroxide	هِدروكسيد الرَّصاص
+lead iodide	يُوديد الرَّصاص
+lead ion battery	بطّاريّة شارديّة رصاصيّة
+lead joint	وُصْلَة رَصاصيَّة / وصلة رصاص
+lead line	حَبْلُ سَبْر الغَور / حبل المجس، حبل المسبار
+lead lining	بِطانَةٌ رَصاصيَّة
+lead monoxide	أَوَّلُ أُكْسيدِ الرَّصاص، لِيثارْج
+lead nitrate	نِتراتُ الرَّصاص
+lead paint	دِهان (إسفيداجيّ) رَصاصيّ
+lead pencil	قَلَمُ الرَّصاص
+lead peroxide	فَوْق أُكسيد الرَّصاص
+lead phosphate	فُسْفات الرَّصاص
+lead plomb	رصاصة مجس الأعماق
+lead poisoning	التسَمُّم بالرَّصاص
+lead salt	مِلحٌ رَصاصي
+lead screw	عَمُود السَّحْب، لَولَبُ السَّحْب (في المِخْرَطة)
+lead screw gear	مُسَنَّنةُ عَمُود السَّحْب
+lead sheath (or sheathing)	غِلافٌ رَصاصي
+lead sheet	صَفيحةٌ مِن الرَّصاص
+lead shot	خُرْدُقُ الرصاص
+lead solder	سَبيكةُ لِحام رَصاصيَّة
+lead sulphate	سُلْفاتُ الرصاص، كِبريتات الرَّصاص
+lead sulphide	كِبريتيد الرصاص
+lead susceptibility	المُتَأَثِّريَّة الرَّصاصيَّة
+lead telluride	تِلُّوريد الرَّصاص
+lead tempering	تَطْبيعٌ رَصاصيّ
+lead tetraethyl	رابِعُ إثِيل الرَّصاص
+lead time	مُهْلَةُ الإنجاز؛ مُهْلَةُ التَّلْبِيَة
+lead uranium ratio	مقدار محتوى الأورانيوم والرصاص
+lead wire	سِلْكٌ رَصاصي؛ سِلْكُ تَوصيل
+lead wool	صُوفُ الرصاص
+lead(ed) bronze	برونْز رَصاصي، برُونْز مُرَصَّص
+lead(ing) stone = lodestone	حَجَرُ المِغْنَطيس
+lead, black	غرافيت تِجاري
+lead, earth	سِلْك التأريض
+lead, electric	سِلْكُ تَوْصيل (التيّار)
+lead, red	الرَّصاصُ الأحمَر، إِسْرَنْج، سَيْلَقُون
+lead, slide-valve	سَبْقُ الصِّمام المُنزَلِق
+lead, white	إسفيداج
+lead-covered cable	كَبْلٌ مُغطًّى بالرَّصاص
+lead-free	غير مُرَصَّص، لا رَصاصيّ
+lead-free paint	دِهانٌ لا رَصاصيّ
+lead-in	فَاتِحةُ الأُسطُوانة
+lead-in bushing	جُلْبَةُ السِّلك الواصِل
+lead-in groove	حَزُّ الفاتِحة، حَزُّ الاِبتِداء (في طَرَف الأُسطُوانةِ المُسَجَّلة)
+lead-in spiral	حَلَزون الابتِداء، حَزُّ الفاتِحة (في أُسطوانةٍ مُسَجَّلة)
+lead-lead dating	التأريخُ بالرَّصاصَيْن 207 وَ 206
+lead-lined pipe	ماسورةٌ مُبَطَّنة بالرَّصاص
+lead-out	نِهايَة (الشَّريط أو الفِيلم)
+lead-plant	نيلة
+lead-plating	تَرْصيص، تَصْفيح بالرَّصاص
+lead-tin alloy	سَبيكةُ الرَّصاصِ والقَصْدير (لِصُنْع الفَواصِم المُنْصَهِرة)
+leaded	مُرَصَّص؛ مُعَالَجُ بالرَّصاص
+leaded cable	كَبْلٌ مُغَلَّف بالرَّصاص
+leaded fuel	وَقودٌ مُعالَجٌ بالرَّصاص (بِشَكْل رابِع إثيل الرَّصاص)
+leaded gasoline	بِنْزين مُرَصَّص، بِنْزين مُعالَج بالرَّصاص
+leaded light(s)	مَنْوَرُ زُجيجاتٍ رَصاصيَّةِ الأُطُر
+leaden	رَصاصيّ، مَصْنوعٌ مِن الرَّصاص
+leader	زَعيم، قائِد، رَئيس؛ دَليل، مُوَجِّه؛ فَاتِحة؛ سِلْسِلةُ نُقَطٍ دَليلِيَّة؛ عِرْقٌ دَليليّ؛ مَسّاحٌ أمامي / مُرشِد / رائد / نامية انتهائية / ملقِّم الفلم
+leader sequence	سلسلة قيادية
+leader stroke	صاعقة رائدة
+leading	مُتَقدِّم، رَئيسيّ، سابِق؛ مُوَجِّه؛ مُعالَجةٌ بالرصاص / تباعد [السطور] / فُسْحَة بَين السُّطُور / أولي،رئيسي،قيادي
+leading and dyeing unit, gasoline	وَحدَةُ مُعالَجةِ البِنزين بالرَّصاص وتَلْوينِهِ
+leading article	مَقالٌ افتِتاحي
+leading axle	المِحوَرُ الأمامي
+leading beacon	بيكون توجيه
+leading block	علامة توجيه
+leading coefficient	مُعامِلٌ رَئيسِيّ
+leading current	تَيّارٌ مُتَقدِّم
+leading diagonal	قُطْرٌ رَئيسِيّ
+leading dimensions	الأبعادُ الرَّئيسيَّة
+leading edge	الحافَّة الأَماميَّة، الحافَّة المتقدِّمة؛ الطرَفُ الأمامي / جبهة صاعدة
+leading guide	دَليلٌ أماميّ
+leading hand	مُرشِدُ عُمّال
+leading light	ضَوْءٌ مُرشِدٌ أو مُوَجِّه
+leading lights	أضواء التوجيه
+leading line	خط توجيه
+leading load = capacitive load	حِمْلٌ مُتَقدِّم، حِمْل سَعَوِي
+leading phase	طَورٌ مُتَقَدِّم
+leading screw (or lead screw)	لَولَبُ عَمُودِ السَّحْب (في المِخْرَطة)
+leading side	الجانِبُ المُتَقَدِّم
+leading strand	خيط قياديّ
+leading wheels	عَجَلاتُ القاطِرَةِ الأماميَّة
+leading zero	صِفْر متقدِّم
+leading-in (wire)	سِلكُ تَوصيل (الجِهازِ بالهَوائي)
+leading-in insulator	عازِلُ السِّلْك الوَاصِل
+leading-in wires	أسلاكُ التوصيل (بِفَتيلة المِصباح الكَهربائي)
+leading-out wire	سِلْك التأدِيَة
+leadless chip carrier	حامل رقاقة عديم الموصلات
+leadman	رَئيسُ الفِرْقة
+leads	أسلاكُ التوصيل؛ أسلاكٌ رَصاصية رَفيعة (لقياسِ الخُلوص)
+leaf	صَفيحةٌ رقيقة، وَرَقَةٌ رَقيقة، صَحيفة؛ وَرَقَةُ نَبات؛ صِفْق (الباب أو النافِذة)، مِصراع، دَرْفَة؛ صَفْقُ أو جانِبُ (المُفَصِّلَة)؛ أَوْرَقَ / ورقة [شجرة] / ورقة / وَرَقة
+leaf -miner	نقاب الورق
+leaf abscission	انفصال الورقة
+leaf apex	قمة الورقة
+leaf base; leaf blade	قاعدة الورقة، نصل الورقة
+leaf divergence; phyllotaxis	انفراج ورقي
+leaf drop	سُقُوطُ الأوراق (في غَيرِ أوانِه)
+leaf fall	سقوط الورق
+leaf gap	فرجة ورقية
+leaf girdling	تحزيم ورقي
+leaf gneiss	نِيسٌ صَفائِحيّ / جنايس ورقي
+leaf gold	ذَهَبٌ رقائقي
+leaf hastate	ورقة مزراقية
+leaf margin	حافة الورق
+leaf of Descartes	وَرَقةُ ديكارْت
+leaf print; imprints	آثار الأوراق المتحجرة
+leaf spring	زُنْبرك صَفائِحيّ، نابِضٌ وَرَقي (مُتَعَدِّد الطَبَقات)
+leaf trace	مسير ورقي
+leaf trace bundle	حزمة مسير ورقية
+leaf trace cambium	كمبيوم مسير الورق
+leaf valve	صِمامٌ مِصْراعي
+leaf venation	تعرق الورقة
+leaf(leaves)	ورقة
+leaf, door	دَرْفة، صِفْقُ أو مِصْراعُ الباب
+leaf, hinge	صَفْقُ (أو جَناح) المُفَصِّلة
+leaf-beetle	نضارية
+leaf-blight	لفحة الأوراق
+leaf-green	يخضور
+leaf-mosai	تبرقش ورقي
+leaf-mould	زبل متترب
+leaf-rupture	تمزق الورقة
+leaf-sheath	غمد الورقة
+leaf-spot	تبقع الورق
+leaf-spring suspension	تَعْليقٌ بِنَوابِضَ صَفائِحيَّة
+leaf-stalk	عنق الورقة
+leaflet	وُرَيقة؛ نَشْرة مَطْبوعة / وريقة
+leaflike structure	بنية شبه ورقية
+leafy	ورقي
+league	رَابِطة، اِتِّحاد، عُصْبة؛ فَرْسَخ (حَوالى 3 أميال) / فرسخ (ثلاثة أميال)
+leak	سَرَب، تَسَرَّب، رَشَحَ؛ نَشَّ؛ نَشَعَ؛ تَسَرُّب، اِرتشاح؛ فُتْحَةُ تَسَرُّب؛ مَسْرَبٌ تَحكُّمي / تسريب / تسرب، فتحة
+leak clamp	قامِطَةٌ (طَوقيَّة) مانِعةٌ لِلتَسَرُّب
+leak detector	مِكشافُ التسَرُّب
+leak tank	صهريج التسرب
+leak(age) detector	مِكْشَافُ التسَرُّب
+leak, grid	مُسَرِّب شَبَكي
+leak-free	عَديمُ التسَرُّب، مَسِيك
+leak-proof	صامِدٌ لِلتسَرُّب، مَسِيك، مُقاوِمٌ لِلتسَرُّب
+leak-proof joint	وُصْلَةٌ مَسِيكة
+leakage	سُرُوب، تَسَرُّب؛ ضَياعٌ بالتَّسَرُّب؛ نَشْع / تسرُّب / تسرب
+leakage circuit	دارَةُ تَسرُّب
+leakage coefficient = leakage factor	مُعامِلُ التسَرُّب
+leakage conductance = leakance	مُوَاصَلةُ التَسرُّب، مُسارَبَة
+leakage current	تَيّارُ التسَرُّب
+leakage factor (or coefficient)	عامِلُ التسَرُّب، مُعامِل السُّروب
+leakage flux	فَيْضُ التَّسَرُّب، التدَفُّق التسَرّبي
+leakage indicator	مُبَيِّنُ التسَرُّب
+leakage inductance	المُحَاثَّةُ التسَرُّبِيَّة، المُحارَضة التَسَرُّبيَّة
+leakage losses	مَفقودات بالتسَرُّب
+leakage of current	تَسَرُّبُ التيّار، ضَياعُ التيّار
+leakage of information	تَسَرُّبُ المَعلومات / تسريب المعلومات
+leakage protective system	نِظامٌ وِقائيّ تَسَرُّبي
+leakage reactance	المُفاعَلَة التسَرُّبيَّة
+leakage resistance	المُقاوَمة التسَرُّبِيَّة
+leakage spectrum	طَيْفُ السُّروب
+leakage test	اختبار التسرب
+leakage voltage	ڤلْطيَّة التَسَرُّب
+leakage, earth	تَسَرُّبٌ أرضيّ
+leakage, magnetic	تَسَرُّبٌ مِغنَطيسي
+leakage, valve	تَسَرُّبٌ صِماميّ
+leakance = leakage conductance	مُسَارَبَة، مُواصَلةٌ تَسَرُّبيَّة
+leaky	سَرِب، مُسَرِّب / غير مسيك، غير محكم السد
+leaky gene	مورِّث مسرِّب
+leaky grid rectification	تَقْويمٌ بالتسَرُّب الشبَكي
+Leaky ReLU Function	دالة ريلو المتسربة
+lean	أمالَ؛ مالَ، اِتَّكأَ، اِستَنَد؛ اِنحنَى؛ أهزَل، أَنحَلَ، أضعَفَ؛ مَيْل، اِنحناء؛ اِتِّكاء، اِستِناد؛ لَحْمٌ خالِص (بدون دُهْن)؛ هَزيل، نَحِيف، نَاحِل؛ غَثّ، مُفْتَقِر
+lean clay	طَفْلٌ ناحِل
+lean coal	فحم ضعيف المحتوى الكربوني / فحم ضعيف المحتوى
+lean gas	غازٌ فَقير
+lean lime	جِيرُ غَثّ
+lean metal	معدن فقير
+lean mix concrete	خَرَسانةٌ غَثَّةُ المَزيج (ضَعيفةُ الخَلْطة)
+lean mix(ture)	مَزيجٌ مُفْتَقِر
+lean mixture	مَزيجٌ فَقير (مِنَ الوَقود والهَواء)، مَخْلُوطٌ خَفيضُ الوَقود
+lean oil = absorption oil	زيتُ الامتِصاص
+lean ore	خام فَقير / ركاز ضعيف المحتوى المعدني
+lean-to roof	سَقْفٌ أُحاديُّ المَيْل، سَقْفٌ مُنحَدِر (بينَ جِدَارَيْن أحدهُما أعلى مِن الآخَر)
+leaning thread	سِنٌ لَولَبي كَتِفي (مَتْنُه مَائِلٌ وَوَجهُه مُتعامِدٌ معَ المِحوَرِ لِتَلَقِّي الدَّفْع المِحوَري)
+leap	انزياح مفاجئ محوري / انزياح مفاجئ محوري في نظام المسالك النهرية
+leap year	سَنة كَبيسة (366 يومًا) / سنة كبيسة
+leap-frog	مِدَكٌّ آليّ؛ يتجاوَزُ بالقَفْز (أو كأنَّما بالقَفْز)
+leap-frog test	اِختبارٌ وَثّابيّ
+leapfrog test	اختبار نطاط
+learn	تعلَّمَ، عَلِمَ
+learned behaviour	سُلُوكٌ مُتَعَلَّم
+learner	مُتَعَلِّم، طالِبُ عِلم
+learning	تَعَلُّم؛ مَعرِفة / التعلم
+Learning Loss	الفاقد في التعليم
+Learning Rate	معدل التعلُّم
+Learning Theory	نظرية التعلُّم
+Learning-based approach	مقاربة تعتمد التعلم الآلي
+lease	أَجَّرَ، اِستأجَرَ؛ عَقْدُ إيجار؛ عَقارٌ مُؤَجَّر
+lease rods	قَضِيبا مَسْكِ السَّداة
+leased acreage	المِساحةُ المَشْمولةُ بِعَقْد الامتِياز
+Leased channel	قناة مستأجرة
+Leased circuit	دارة مستأجرة
+leased line	خط مستأجَر / خَطٌّ مُخَصَّص / خط مؤجر
+Leased Line Subscriptions	اشتراكات الخطوط المؤجرة
+leased territory	أراضٍ مُؤَجَّرة
+leasehold	مُؤَجَّر، مُستأجَر؛ أرضٌ مُستأجَرة
+leash	مِقْوَد؛ رِباط؛ ضَفيرة
+leasing	استئجار
+least action principle	قاعِدةُ الفِعْل الأقَلّ
+least common denominator	المَقامُ (المَخْرَجُ) المُشتَركُ الأصغَرُ / المَقامُ المُشْتَرَكُ الأَصْغَر
+least common factor	العَامِلُ المُشتَرَكُ الأصغَر
+least common multiple	المُضاعَفُ المشترَكُ الأصغَر (أو البَسيط) / المُضاعَفُ المُشْتَرَكُ الأَصْغَر
+least common multiple (I.c.m)	مضاعف (ال...) المشترك الأصغر
+least count	القِيمةُ الصُّغرى (لقياسِ الوَرنيَّة المُباشِر)
+least distance of distinct vision	البُعدُ الأدنى لِلرُّؤْية الجَلِيَّة (حوالى 25 سم)
+least integer function	دالَّةُ أصْغَرِ عَدَدٍ صَحيح
+Least Privilege User Account (LUA)	حساب مستخدم بالحد الأدنى من الامتيازات
+least residue	الرَّاسِبُ (الباقي) الأصْغَر
+least significant bit	البتّ الأقل دلالة
+least significant character	المحرف الأقل دلالةً
+least significant digit	الرقْم الأقل دلالة
+Least Square Error (LSE)	خطأ تربيعي أقل
+least squares	مربعات (ال...) الأصغرية
+Least Squares Regression	انحدار المربعات الصغرى
+least time principle = Fermat’s principle	مَبْدأُ «فِرمات»، مَبدأُ أَقْصَر زَمَن
+least upper bound	أَصْغَرُ راجِح (الحَدُّ الأَعْلَى)
+least upper bound (L.U.B)	أصغر حدّ أعلى
+least-energy principle	مَبْدَأُ الطاقةِ الأقَلّ
+least-squares estimate	تَقْييمُ المُرَبَّعاتِ الصُّغْرَى
+least-squares method	طَرِيقةُ المُرَبَّعاتِ الصُّغْرَى
+least-upper-bound axiom	مَوْضوعةُ الحَدِّ الأعْلَى
+leat	مَجْرى ماء، جَدْوَلٌ صَغير، قَناة
+leather	جِلْد، جِلْدٌ مَدْبوغ؛ جِلْديّ
+leather belting	سُيُور جِلديَّة
+leather packing	حَشْوَة جِلْديَّة
+leather washer	فَلْكَةٌ جِلْديَّة
+leather wheels	دَواليبُ صَقلٍ جِلديَّة
+leather-board	لَوحٌ مِنَ الجِلد المُقوَّى
+leatheroid	جِلْد اصطِناعي
+leave	تَرَكَ، هَجَر، بَرَحَ؛ أبقى؛ كَفَّ، تَخَلَّى عن؛ أَورَقَ؛ إذْن، إجازة، رُخصَة؛ عُطْلَة؛ وَداع
+leave, sick	إجازَة مَرَضِيَّة
+Leave-One-Out Cross-Validation (LOOCV)	تحقق تقاطعي عن طريق عزل نقطة
+leaved	مُورِق، ذو أوراق
+leaven	خَميرة؛ أضافَ خَميرةً إلى
+leavening	تَخْمير؛ خَمِيرة
+leaving edge = trailing edge	الطَّرَفُ المُغادِر، الطرَفُ الخَلْفي (لِلفرْجَون)
+leavings	بَقايا، فَضَلات، رَوَاسِب
+lebensraum	مَجالٌ حَيَوي، مَجال
+Lebesgue decomposition (of a measure)	تَفْريقُ لوبيغ (لِقِياس)
+Lebesgue exterior measure	قِياسُ لوبيغ الخارِجِيُّ
+Lebesgue identity	مُتَطابِقةُ لوبيغ
+Lebesgue integrable (adj)	كَمولٌ وَفْقَ لوبيغ
+Lebesgue integral	تَكامُلُ لوبيغ
+Lebesgue interior measure	قِياسُ لوبيغ الدَّاخِليُّ
+Lebesgue measure	قِياسُ لوبيغ
+Lebesgue number	عَدَدُ لوبيغ
+Lebesgue's density function	دالَّةُ الكَثافَةِ لِلوبيغ
+Lebesgue's density theorem	مُبَرْهَنةُ الكَثافَةِ لِلوبيغ
+Lebesgue's theorem	مُبَرْهَنةُ لوبيغ
+Lebesgue, Henri Leon	هِنْري لِيون لوبيغ
+Lebesgue-Stieltjes integral	تَكامُلُ لوبيغ-سْتيلْتْجِس
+Leblanc connexion	وُصْلَةُ «لَبْلان»
+Leblanc process	طَريقةُ «لَبْلان»
+Lecher wire wavemeter	مِمْواجُ سِلْكَي «لِتْشَر»
+Lecher wires	سِلْكا «لِتْشَر»
+lecithin	لِسِتين، مُحِّين / ليستين
+Leclanché cell	عَمُود «لَكْلانشيه»
+lecture	خُطْبَة، مُحاضَرة؛ خَطَبَ، حَاضَرَ
+lecturer	مُحَاضِر
+LED	ديود [إشعاع] ضوئي
+LED printer	طابعة ذات ديودات مضيئة
+ledge	رَفّ، طُنُف؛ حافَّة ناتِئَة؛ عارِضة أُفُقيَّة؛ حَيْد، رَصيف؛ عِرْقٌ مَعدِنيّ / حث (ال...) البحري الجاف، سلسلة متطاولة من الشعاب / حث (...) البحري الجاف
+ledge (faukt ledge)	انحدار الصدع
+ledge (fault ...)	انحدار الصدع
+ledge rock	صَخْرُ القاعِدة
+ledged and braced	ذُو عَوارِضَ أُفُقيَّة وقُطْريَّة
+ledger	دَفترُ الأُستاذ؛ الخَشَبَةُ المُستَعْرِضة (فِي إسقالة البِناء)
+ledger account	حِسابُ الأُستاذ
+ledger board	عارِضةٌ أُفُقيَّة
+Leduc current	تيّارُ «لِيدُك»
+Leduc effect	ظاهِرة «لِيدُك»
+lee	مأوَى؛ الجانبُ المَحمِيّ من الرِّيح (في السفينة)
+lee depression	مُنْخَفَضٌ
+lee dune	كثيبة الموانع
+lee side	الجَانِبُ سُفالَة الرِّيح؛ الجانِبُ المَحْجُوبُ عن الرِّيح
+lee waves	مَوْجاتٌ مُدابِرةٌ لِلرّياح
+leech	الحافَّةُ الخَلفيَّة مِن الشِّراع؛ عَلَقَة / علق
+leech-breeding	تربية العلق
+leek	كراث
+lees	ثُفْل، رَواسِب
+leeward	باتِّجاهِ الرِّيح؛ مُدابِرُ الريح، سُفالةُ الريح؛ ظِلُّ الرياح
+leeward side	جانِبٌ مُدابِرٌ لِلرياح
+leeward side = lee side	الجانِبُ سُفالَة الرِّيح
+leeway	الاِنسِياق الجانبيُّ؛ التفاوُتُ المَسْموح
+left	يَسار، شِمال؛ أَيْسَر، يَساريّ / يسار
+Left arrow	سهم يساري
+Left brace	حاصرة يسارية
+Left bracket	قوس يسار(ي)
+left coset	مَجْموعةٌ مُصاحِبةٌ مِنَ اليَسار
+left distribution law	قانون التوزيع الأيسر
+left half-plane	نِصْفُ المُسْتَوي اليَسارِيّ
+left hand	طرف أيسر
+left ideal	مِثالِيٌّ يَسارِيّ
+left identity	مُحايِدٌ مِنَ اليَسار
+left inverse	مَقْلوبٌ مِنَ اليَسار
+left justification	محاذاة يسارية [للنص] / ضَبط إِلَى الْيَسَار
+left limit	نهاية من اليسار
+left module	مودولٌ يَسارِيّ
+Left parenthesis	هلال يساري
+left shift	إِزَاحَةٌ إِلَى الْيَسَار
+left splicing juction	نقطة اتصال الأيسر
+left-continuous function	دالَّةٌ مُسْتَمِرَّةٌ مِنَ اليَسار
+left-hand derivative	مُشْتَقٌّ مِنَ اليَسار
+left-hand drive	قِيادةٌ يَساريَّة
+left-hand limit	نِهايةٌ مِنَ اليَسار
+left-hand rule = Fleming’s rule	قاعِدة اليَد اليُسرى لِـ «فلمِنغ»
+left-hand screw	بُرْغي يَساري
+left-hand thread	سِنٌّ يَساريَّة اللولَبة
+left-hand tools	عُدَّةُ قَطع يَساريّ (لِلمِخرَطة)
+left-hand(ed) rope	حَبْلٌ يَساريُّ الجَدْل
+left-handed	يَساريّ، أيسَر؛ أعسَر
+left-handed coordinate system	مَنْظومةٌ إحْداثِيَّةٌ يَسارِيَّة
+left-handed curve	مُنْحَنٍ يَسارِيّ
+left-handed helix	لَوْلَبٌ يَساريّ
+left-invertible element	عُنْصُرٌ قَلوبٌ مِنَ اليَسار
+left-justified	مُسامَتٌ يَسارِيًّا
+left-justify	يحاذي يساراً / محاذاة لليسار
+left-laid cable	كَبْلٌ يَساريُّ الجَدْل
+leg	ساق، قائمة، رِجْل؛ شُعبة؛ مَرْحَلة؛ ضِلْع (الطيَّة المُحدَّبة)؛ ساق (المُثَلَّث)؛ مَرحلَة (ذَهابٍ أو إياب) من دارةٍ كهربائية، ساق (الدارة) / ساق (ضِلْعٌ قائِم) / رجل
+leg vise	مِلْزَمة قَدَميَّة
+leg, landing	ساقُ عَجَلةِ الهُبوط
+leg, telescopic	قائمةٌ تِلسكوبيَّة (مُتَداخِلة)
+leg-bone	ظنبوب
+legacy	تُراث؛ إرثٌ بوَصيَّة / موروث
+Legacy code	شفرة تراثى
+legacy data	معطيات موروثة
+Legacy software	برامج تراثية
+legacy system	نظام موروث
+Legal	قانوني
+legal adviser	مُستَشار قانوني
+legal liability	مسؤوليَّة قانونيَّة
+legal ohm	أوم قانوني (يساوي 0.997 من الأوم الدولي)
+Legal Status	الكيان القانوني
+Legal Status of Agricultural Holder	الكيان القانوني للحائز
+legal tender	نَقْدٌ قانوني، عُمْلَة قانونية
+Legalese	حقوقيات،قانونيات
+legality	شَرعيَّة، قانونيَّة
+legation	مُفَوَّضِيَّة؛ بَعثة رَسمية
+legend	مِفتاحُ المُصطَلحات (فِي خَريطةٍ أو رَسْم بَياني)؛ أُسطورة / قائمة تفسيرية / دليل مصطلحات،أسطورة / مفتاح الرموز
+legendary	أُسطوري
+Legendre contact transformation	تَحْويلُ لوجانْدْر التَّماسِيّ
+Legendre differential equation	مُعادَلةُ لوجانْدْر التَّفاضُلِيَّة
+Legendre equation	مُعادَلةُ لوجانْدْر
+Legendre function	دالَّةُ لوجانْدْر
+Legendre polynomials	حُدودِيَّاتُ لوجانْدْر
+Legendre relation	عَلاقةُ لوجانْدْر
+Legendre symbol	رَمْزُ لوجانْدْر
+Legendre transform	مُحَوِّلُ لوجانْدْر
+Legendre transformation	تَحْويلُ لوجانْدْر
+Legendre's associated differential equation	مُعادَلةُ لوجانْدْر التَّفاضُلِيَّةُ المُرافِقَة
+Legendre's identity	مُتَطابِقةُ لوجانْدْر
+Legendre, Adrien Marie	أَدْرِيان ماري لوجانْدْر
+Legendre-Jacobi standard form	صيغةُ لوجانْدْر - جاكوبي المِعْيارِيَّة
+legged	مُتفرِّع، ذو أرجُل
+leggings	طِماق، قِمَاطُ السّاق
+legibility	سُهولَةُ القِراءة، وُضُوح (الخَطّ أو الطباعة)
+legible	مَقروء، سهلُ القِراءة، واضِح
+legion	جَوقَة، فَيلَق
+legislate	اِشتَرَع، سَنَّ القَوانينَ
+legislation	تَشْريع
+legislative	تَشريعيّ
+legitimacy	شَرْعيَّة
+legitimate	شَرعيّ، مَشْروع؛ جَعَلَ شَرعيًّا، شَرَّع
+legshields	واقِيتا الساقَيْن (في الدرّاجة النارية)
+legume	سِنْفَة، قَرْنُ (البَقْل) / قرن
+leguminosae	فصيلة قرنية
+Leguminosea	السِّنْفيّات، القَطانيّات، القَرْنيّات
+lehr = leer or lear or lier	فُرْنُ الزُّجاج
+Leibnitz alternating series test	اخْتِبارُ لايْبْنِتْز لِلْمُتَسَلْسِلاتِ المُتَناوِبَة
+Leibnitz formula	صيغةُ لايْبْنِتْز
+Leibnitz harmonic triangle	مُثَلَّثُ لايْبْنِتْز التَّوافُقِيّ
+Leibnitz series	مُتَسَلْسِلةُ لايْبْنِتْز
+Leibnitz test	اخْتِبارُ لايْبْنِتْز
+Leibnitz theorem	مُبَرْهَنةُ لايْبْنِتْز
+Leibnitz's rule	قاعِدةُ لايْبْنِتْز
+Leibnitz, Gottfried Wilhelm von	غوتْفْريد وِلْهِلْم فون لايْبْنِتْز
+leisure	فَراغ، وقتُ الفَراغ
+lemma	تَمْهيديَّة؛ قُنَابة، عُصَيْفَة / كلمة مجرّدة / مبرهنة تمهيدية / تَوْطِئة / عدس الماء
+lemma of duBois-Reymond	تَوْطِئةُ دوبْوا-ريمونْد
+Lemmatization	تجريد / تجريد الكلمة من الزوائد
+Lemmatizer	مجذِّع
+lemnaceae	فصيلة عدس الماء
+lemniscate	مُنْحَنٍ ذُو عُروَتَيْن / مُنْحَني العُرْوَتَيْن (لِمْنِسكات)
+lemniscate of Bernoulli	منحنى ذو العروتين / لِمْنِسكات بِرْنولِّي
+lemniscate of Gerono	لِمْنِسكات جَيرونو
+lemon	[مُنْحَني] اللَّيْمونَة
+lemon chrome	صِبْغُ الكْرُوم الليموني
+lemon yellow	أصفرُ لَيمُوني
+lemonite ochre	مُغْرة صَفْراء
+Lempel Ziv algorithm	خوارزميّة Lempel Ziv
+Lemstrome machine	آلة «لِمستروم»
+lemur	هبار، ليمور
+lemuria	لميرية / قارة تخيلها البعض في وسط المحيط الهادي غاصت تاركة بعض بقايا الجزر
+lemuroidea	هباريات
+Lenard effect	مَفْعُولُ لِينارد
+Lenard rays	أشِعَّةُ «لينارد»
+Lenard tube	صِمَامُ «لينارد»
+lend	أعارَ، أقرضَ، سَلَّف
+length	طُول، اِمتِداد، مَدى؛ طُول / طول / طُول
+length between perpendiculars	طول بين العمودين
+length of an arc	طولُ قَوْس
+length of lay	طُولُ الجَدِيلة
+length, focal	ألبُعْدُ البُؤْري
+length, over-all	الطُّولُ الإجمالي أو الكُلِّي
+length-preserving transformation	تَحْويلٌ مُحافِظٌ على الطُّول
+lengthen	أطالَ؛ طَوَّلَ؛ طَالَ، اِمتَدَّ
+lengthening	إطالة، مَدّ، تَطْويل، اِستِطالة
+lengthening bar = extension bar	قَضيبُ تَطْويل؛ وُصلةُ تَطْويل (لِساق الفِرجار)
+lengthening joint	وُصْلَةُ تَطْويل
+lengthening region	منطقة الاستطالة
+lengthening rod	ذِراعُ تَطْويل، قَضيبُ تَطْويل
+lengthwise	بالطُّول، طُولاً، طُوليًّا
+lengthwise axis	محور طولي
+lenitic fauna	حَيواناتُ المِياه الراكِدَة
+lens	عَدَسَة / عدسة
+lens antenna	هَوائيٌّ عَدَسيّ
+lens axis = optical axis	مِحْوَر العَدَسة
+lens barrel	ماسورةُ العَدَسات
+lens coating	كُسْوَةُ العَدَسة
+lens coverage	مَجالُ العَدسة
+lens disc	قُرْصُ العَدَسة
+lens distortion	تَشوُّه عَدسي / تشوُّه عدسي
+lens element	عدسة أصلية
+lens formula	قانونُ العَدَسات
+lens grinding	صَقْلُ العَدَسات
+lens hood	غِطاءُ العَدَسة؛ كُمَّة العَدَسة
+lens power	قُوَّة العَدسة
+lens speed	سرعة العدسة
+lens standard	حامِلُ العَدَسة
+lens system	مَنْظومَةُ عدَسات
+lens tissue	وَرَقُ تَنْظيف العَدَسات
+lens, achromatic	عَدَسة لالونِيَّة
+lens, aplanatic	عَدسة لازَيْغِيَّة (مُقَوَّمةُ الزَّيْع الكُروِيّ)
+lens, apochromatic	عدسَةٌ تامَّةُ اللاّلونيَّة
+lens, biconcave	عَدَسَةٌ مُقَعَّرةُ الوجهَيْن
+lens, biconvex	عدسةٌ مُحَدَّبةُ الوجهَيْن
+lens, collecting	عَدسةُ تَجْمِيع
+lens, compound	عَدَسة مُرَكَّبة
+lens, concave	عدسة مُقَعَّرة
+lens, concavo-convex	عَدَسةٌ مُقَعَّرةٌ مُحَدَّبة
+lens, contact	عَدَسة لاصِقة، عدسةٌ مُلامِسَة (أو لَصِيقة)
+lens, converging	عَدَسةٌ مُجَمِّعة (أو لامَّة)
+lens, convex	عَدسة مُحَدَّبة
+lens, convexo-concave	عَدَسةٌ مُحَدَّبة مُقَعَّرة
+lens, cylindrical	عَدَسَة أُسطُوانيَّة
+lens, dielectric	عَدَسَةٌ عازِلَة
+lens, dimming	زُجاجةُ مَنْع البَهَر
+lens, diverging	عَدَسة مُفَرِّقة
+lens, electron	عَدسة إلكترونيَّة
+lens, magnetic	عَدسةٌ مغنطيسيَّة
+lens, objective	عدسة شَيئيَّة
+lens, photographic	عَدَسة (تَصْوير) فوتوغرافية
+lens, plano-concave	عَدسةٌ مُقعَّرةٌ مُستَوِيَة
+lens, plano-convex	عَدسةٌ مُحَدَّبةٌ مستوية
+lens, telephoto	عدسةُ تَصْويرٍ مُقَرِّبة
+lens, wide-angle	عَدَسة مُتّسِعةُ زاويةِ المَنظَر
+lens, zoom	عَدَسةُ تزويم
+lens; objective lens	عدسة
+lensing	تَطَبُّقٌ عَدَسي، تَعَدُّس / عَدَسِيَة / عدسية
+lent-lily	نرجس المروج
+lentic = lenitic	مُتَعَلِّقٌ بالمياهِ الراكِدة
+lenticel	عُدَيسَة / عديسة
+lenticels	عُدَيْسَات / عدسيات
+lenticle	عَدسة دَخيلة
+lenticular	عَدَسيّ / عديسي
+lenticular cloud	سَحابة عَدَسيَّة
+lenticular scale	حرشفة عديسية
+lenticular structure	بنية عدسية
+lenticular vein	عرق عدسي
+lenticular; lenslike	عَدَسِي / عدسي
+lenticularis	عَدَسِيّ (للسحب)
+Lenz’s law	قانُون «لِنْز»
+leo	لِيُو / أسد (ال...)
+Leo (The Lion)	بُرْجُ الأسَد
+leo minor	أسد (ال...) الأصفر، شبل (ال...)
+Leo Minor (The Little Lion)	الأسدُ الأصغر
+leopard	فهد
+leopard-moth	قتع
+lepas	أطوم السفن
+lepido-	بادئة بمعنى: قشرة، حَرْشَفة، كِسْفَة
+lepidoblastic	حرشفية متراصة / حرشفية متراصة (الميكا)
+lepidolite	لِپيدُوليت
+Lepidoptera	حَرْشَفِيَّةُ الأجنِحة / حرشفيات الأجنحة
+lepisma	لاحسة السكر
+leporidae	أرنبية
+leporide	أرنب هجينية
+leptocephalus	رقيق الرأس
+leptokurtic	مُدَبَّب، ذُرويّ التوجُّه
+leptokurtic distribution	تَوْزيعٌ مُؤَنَّف (تَوْزيعٌ مُذَبَّب) (تَوْزيعٌ قَليلُ التَّفَلْطُح)
+leptokurtic distribution curve	مُنحني توزيع مُدَبَّب
+leptometer	لِپْتُومتر
+lepton	لِپتُون
+leptotene	دور خيطيّ
+leptus	عثة حمراء
+lepus	أرنب (ال...)
+Lepus (The Hare)	الأرنَب، عَرْشُ الجَبّار
+lesion	آفة / بثرة، خدشة
+Leslie’s cube	مُكَعَّب «لِسْلي»
+Less	أقل
+less than	أقل من
+less than or equal to	أقل من أو يساوي
+lessee	المُستأجِر
+lessen	قَلَّلَ، خَفَّضَ، صَغَّر، قَلَّ
+lesser celandine	عشبة البواسير
+lesser centaury; common centaury	قنطريون صغير
+lessor	المُؤَجِّر
+lest	وإلاّ؛ خَشْيَة أَنْ
+let in	بَيَّتَ
+let-down	خَفْضُ الارتِفاع
+let-down procedures	إجراءاتُ إنزال (الطائِرات)
+let-in	مُبَيَّت، مُضْجَع
+lethal	قَتّال، مُمِيت، مُهلِك
+lethal alleles	أليلات مميتة
+lethal dose	جُرعَة قاتِلة، جُرْعة مُهْلِكة
+lethal equivalent value	قيمة مميتة متكافئة
+lethal gene	مورِّثة مميتة
+lethal mutation	طفرة مميتة
+lethargy	وَسَن، نُوام، سُبات
+letter	حَرْف، حَرْف طِباعي؛ رِسالة / رسالة
+letter of advice	رِسالةُ إشعار
+letter plate	صفيحةُ الرَّسائل
+letter quality	نوعية [طباعة] عالية
+letter slot	شَقْبُ صَفيحةِ الرَّسائل
+letter-box principle	مَبْدَأُ صُنْدوقِ الرَّسائل
+letter-quality printer	طابعة عالية الجودة
+letterbomb	رسالة مفخخة
+lettering	رَقْمٌ بالحُروف، نَقْش، كِتابةُ الحُروف
+lettering, embossed	كِتابةٌ بحُروفٍ بارِزة
+lettering, sunken	كِتابة بحُروفٍ غائرة
+letterpress	طِباعةٌ بارزة؛ مادَّةُ الكِتاب المطبوعة (عَدا الرُّسوم)
+letting-down	تَطْبيعُ الفُولاذ المُصَلَّد؛ خَفضُ الارتفاع
+lettuce	خس
+leucine	لوسين
+leucite	لُوسيت / لوسيت
+leucitite	لوسيتيت
+leuco compound	مُرَكَّب لا لَونيّ
+leuco-	بادِئَة بِمَعنى: أبيض، لا لَونيّ
+leucocratic	حائِلُ اللون، فاتِحُ اللون (بالنِّسْبةِ إلى الصَّخْر الناريّ العاديّ) / ليكوقراطي
+leucocyte	كرية بيضاء
+leucocytes	كُرَيّاتٌ بَيضاءُ (في الدم)، كُرَيْضات
+leucoplast	جُبَيْلَة لا لَونيَّة / بلاستيدة عديمة اللون
+leucovirus	فيروس الابيضاض
+leuk(a)emia	اللُّوكيميا، اِبيِضاضُ الدَّم، سَرَطانُ الدّم
+levan	لِيڤان
+Levantine Arabic	العربية الشامية
+levator	عَضَلَةٌ رافِعة
+levee	مُسَنّاة، سَدٌّ أو حاجِزٌ (لِمَنْع الفَيَضان)؛ شاطِئ، شَطٌّ / كَتِف النهر، سد على ضفة النهر / سد على ضفة النهر
+level	سَوَّى، مَهَّد؛ قاسَ الارتفاعَ بينَ نُقطَتَين؛ مُسْتَوٍ، مُنْبَسط، مُسَطَّح؛ مُستوًى، مَنْسوب؛ سَوِيَّة / 1 مستوى ؛ 2 مستوى ؛ 3 مستوى / مستوى
+level (sea...)	مستوى سطح البحر
+Level 1 cache	المستوى الأول من الخابية
+Level 2 cache	المستوى الثاني من الخابية
+level block	كتلة، ركيزة
+level book	سِجِلُّ المَسّاح
+level canal	قَناةٌ مُسْتَويَة
+level country	أرضٌ مُستَوية
+level crossing = grade crossing	تقاطُع مستَوٍ، مَزْلَقان
+level curve	مُنْحَني مُسْتَوًى (مُنْحَني سَوِيَّة)
+level diagram	رَسْمٌ بَيانيّ لِلمَناسيب
+level flight	طَيَرانٌ مُستَوٍ
+level gauge	ميزانُ استِواء، مِسواة
+level glass	أُنبوبةُ بَيانِ المُستَوى
+level ground	أرضٌ مُستَوية
+level indicator	مُبيِّنُ المَنْسُوب؛ مُبَيِّنُ المُستَوى
+level landing	حَطٌّ مُسْتَوٍ، هُبُوطٌ مُسْتَوٍ
+level line	خَطٌّ مُستَوٍ
+level man	مَسّاح
+level mark	عَلامةُ المَنْسوب
+level of abrasion	مستوى السحج
+level of contamination	مستويات التلوث
+level of non-divergence	مُسْتَوَى اللاتشتت
+level of reference	مُستَوى الإسناد
+level of saturation	مُستَوَى التَشَبُّع، مَنْسوبُ الماءِ الباطِني
+level of signal	مُستَوى الإشارة
+level of water	مستوى الماء
+Level one cache	خابية (معالج) من المستوى الأوًل
+level recorder	مُسجِّلةُ المَنسوب
+level rod	شاخِصُ (قِياسِ) المُستَوى، قامَة (المَسّاح)
+level screw	بُرْغي تَسْوِيَة
+level set	مَجْموعةُ مُسْتَوًى (مَجْموعةُ سَوِيَّة)
+level surface	سَطْحُ مُسْتَوًى (سَطْحُ سَوِيَّة)
+level survey	مَسْحُ المُستَوى (بالنِّسبةِ إلى مَنْسُوبٍ مُحَدَّد)
+level test	اِختِبار المَنْسُوب
+level theodolite	تيودوليت تَسْوية
+level trier	فاحِصُ المِسواة
+level tube	أُنبوبَةُ المِسواة؛ مِسواة، ميزانُ تَسْوية
+Level two cache	خابية (معالج) من المستوى الثاني
+level width	عَرْضُ السَّوِيَّة، اِتِّساعُ المَنْسوب الطَّيفي
+level(l)er	مُمَهِّد، مُسَوٍّ؛ مُمَهِّدة
+level(l)ing	تَسْوِيَة، تَمْهيد؛ اِستِواء؛ قياسُ المَنَاسيب
+level, absolute	المَنسُوب المُطلَق
+level, air	مِسواةٌ بِفُقّاعة هَواء
+level, angle of site	مِسواةُ زاويةِ النَّظَر
+level, circular	مِسواةٌ دَائِريَّة
+level, cross	مِسواةٌ عَرْضِيَّة، ميزانُ تَسويةٍ مُتَعامِدَة
+level, cross test	مِسواةُ اختبار التعامُد
+level, engineer’s	مِسواةُ المُهندِس
+level, hydrostatic	ميزانُ استواءٍ هيدروستاتي
+level, power	مَنْسُوبُ القُدرة
+level, relative	المُستَوى النِّسبْي
+level, sea	مُستَوى سَطْح البَحر
+level, sensation	مُستَوى الإحساس
+level, spirit	مِيزانُ تَسْوية كُحولي
+level, terminal	مَنْسُوب الانتِهاء
+level, transmission	مَنْسوب النَّقل، مُستَوى النَّقل
+level, water	مَنسوبُ الماء؛ ميزانُ استِواءٍ مائي
+level, zero-power	مُستوى القُدرة الصِّفري (مِلي وَاط بمقاومة 600 أُوم)
+level-compounded	مُستَوِي اللَّف المرَكّب (لاستِقرار الڤلْطيةِ بتغيُّر الحِمْل)
+level-luffing crane	مِرفاعٌ ذِراعيٌّ استِوائيُّ الانزِلاق
+level-measuring set	جِهازُ قياس المَناسيب
+level; sea	مستوى سطح البحر
+leveling	تسوية
+levelling	تسوية
+levelling block	زَهرَةُ تَسْوية
+levelling bubble	فُقّاعةُ المِسْواة
+levelling machine	مِسْلَفَة (لِتَسوية الأرض)
+levelling mechanism	آليَّة ضَبْطِ الاستِواء
+levelling rod (or staff)	شاخِصُ التَّسْوِيَة، قامةُ التَّسْوية، قامَةُ مَناسيب
+levelling screw	بُرْغي تَسْوِيَة
+levelling staff (or rod)	قامَةُ التسوية، شاخِصُ التسوية
+Levenshtein edit distance	مسافة ليفينشتاين للتحرير
+lever	رافِعة، عَتَلَة، مُخْل، ذِراع / رافعة / عتلة، رافعة
+lever action	أَلفِعلُ الذِّراعي
+lever action bolt	رِتاجٌ ذِراعيُّ الفِعْل
+lever arm	ذِراعُ الرافِعة، ذِراعُ العَزْم / ذراع رافعة
+lever balance	ميزانٌ ذِراعي
+lever brace	مِلْفَاف، مِثقابٌ بِمِقْبَض لَفّاف
+lever brake	فَرْمَلَة ذِراعيَّة، مِكْبَحٌ ذِراعي
+lever damper	مُخَمِّد (صدماتٍ) عَتَليّ
+lever handle	مِقبضُ العَتَلة
+lever jack	مِرفاعٌ ذِراعيّ
+lever key	مِفتاحٌ ذِراعي
+lever of stability	ذراع الاستقرار (لاتزان السفن)
+lever of the first kind (or class)	رافِعة من النَّوع الأول (كالمِقَصّ)
+lever of the second kind	رافِعةٌ من النَّوع الثاني (مِثْل كَسّارة الجَوز)
+lever of the third kind	رافِعةٌ مِن النَّوع الثالِث (كالمِلْقَط)
+lever press	مِكْبَسٌ ذِراعيّ
+lever punch	خَرّامة ذِراعيَّة
+lever safety valve	صِمامُ أمانٍ ذِراعي
+lever scales	ميزانٌ ذِراعيّ
+lever shears	مِقَصٌّ ذراعيّ (يعملُ أَحدُ ذِراعَيْه كَرافِعة)
+lever switch	مِقلادٌ ذِراعيّ، مِفتاحٌ ذِراعيّ (لِلقطْع والوَصْل) / مفتاح ذراعي
+lever valve	صِمَامٌ ذِراعيّ
+lever, accelerator	ذِراعُ المُعَجِّل
+lever, actuating	عَتَلَة الإدارة، ذِراعُ التشغيل
+lever, angle	عَتَلَة زاويَّة
+lever, arresting	عَتلةُ التوقيف
+lever, catch	عَتَلَةٌ مُوقِفَة
+lever, change-speed	عَتَلةُ تَغْيير السُّرعة
+lever, clutch	ذِراعُ القابِض، عتلَةُ القابِض
+lever, control	عَتلَةُ الإدارة، ذِراعُ التوجيه
+lever, coupling	ذِراعُ وَصْل (أو تَقارُن)
+lever, disconnecting	ذِراعُ فَصْل
+lever, engaging	عَتلَةُ الوَصْل، ذِراعُ التعشيق
+lever, escapement	ذِراعُ الإفلات، مِضْبَطُ انفِلاتٍ ذِراعيّ
+lever, feed	عَتلَةُ الإلقام، ذِراعُ التَّغذية
+lever, hand	عَتلةٌ يَدَوِيَّة
+lever, idler	عَتلَةُ التُّرْس الوَسيط
+lever, in-gear	عَتَلَةُ التعشيق
+lever, locking	ذِراعُ إقفالٍ أو زَنْق
+lever, operating	ذِراعُ التشغيل
+lever, pawl	ذراعٌ بسَقّاطة
+lever, ratchet	رافِعةٌ بِسَقّاطة
+lever, reduction	ذِراعُ تَخْفيض (الحَرَكة)
+lever, return	ذراعُ الارتِداد
+lever, reverse	ذِراعُ عَكْسِ الحركة
+lever, rocking	رافعة مُتَرجِّحة
+lever, securing	عَتلةُ الأمْن (في البَنادِق)
+lever, sliding	عَتلَةٌ مُنزَلِقَة
+lever, speed-regulating	ذِراعُ تَنْظيم السُّرعة
+lever, starting	عَتلةُ بَدْء الحَرَكة
+lever, steering	ذِراعُ التَّوْجيه
+lever, timing	ذراعُ تَوقيت
+lever, transmission	جِذْعُ نَقلِ الحَرَكة
+lever, tyre	عتلَةُ (نزع) الإطارات
+lever-type brush-holder	ماسِكُ فِرْجَونٍ ذِراعيُّ الطراز
+lever-type starter	بادِئُ حركةٍ ذِراعيُّ الطراز
+leverage	القُدرةُ الذِّراعيَّة
+leveret	خرنق
+Levi-Civita symbol	رَمْزُ ليڤي- تْشيڤيتا
+Levi-Civita, Tullio	تولِيو ليڤي- تْشيڤيتا
+levigate	سَحَنَ (بِوُجودِ سائلٍ أو عَدَمه)؛ فَصَلَ (بالتَّصْوِيلِ أو بالترسِيبِ التفاصُليّ)؛ أَجْرَدُ، أَمْلَسُ
+levigation	فَصْلُ الذَّرورِ بالترسيب التفاصُليّ؛ سَحْن مُرَطَّب
+levitate	سَبَحَ في الهَواءِ لِخِفَّتِه؛ شقَل (رُغم الجاذبيَّة الأرضيَّة)؛ عامَ (مَعَ الرَّغْوة السَّطْحية)
+levitation	تَعْوِيم؛ فَصْلٌ شَقْلي (بالتَّرْغيَة أو بالتَّعويم الرَّغَويّ)
+levitron	نِظامُ صَهرٍ شَقْلي
+levity	خِفَّةُ الوَزْن
+levo- = laevo-	بادئة بمعنى: يَساريّ، بَتِّي
+levo-rotatory	أَيسَرُ الدوران
+levulose	اللِّفيُلُوز
+levy	جَبَى الضرائِبَ؛ جَنَّدَ؛ جِباية؛ تَجْنيد
+lewis	مِرفاعُ الكتل الحجرية
+Lewis acid	حامض لِويسي
+Lewis base	قاعِدةٌ لِويسية
+Lewis blood groups	زُمَر 'لويس' الدموية
+lewis bolt	مِحْزاقُ أساسات
+lex a repressor	كاظم 'لكس - أ'
+Lexeme-based morphology	التحليل الصرفي الجذعي
+Lexica	معاجم
+Lexical	مُعجمي
+Lexical ambiguity	غموض مُعجمي
+Lexical analyser	محلل لغوي
+Lexical analysis	تحليل مغوي
+Lexical co-occurrence	تلازم معجمي
+Lexical collocations	متلازمات لفظية
+Lexical features	سمات مُعجمية
+Lexical Functional Grammar (LFG)	النحو المعجمي الوظيفي
+Lexical markup framework	إطار الترميز المعجمي
+Lexical resources	الموارد المعجمية
+Lexical segmentation	التقطيع المعجمي
+Lexical semantics	علم الدلالة المعجمي
+Lexical structure	بنية معجمية
+Lexical syntactic Patterns	الأنماط التركيبية المعجمية
+Lexico-syntactic patterns	أنماط دلالية نحوية
+Lexicographer	واضع المعجم
+Lexicographic knowledge base	قاعدة معرفة معجمية
+lexicographic order	تَرْتيبٌ مُعْجَمِيّ
+lexicographic sort	فرز معجمي
+lexicographic sorting	فَرْزٌ معجميّ
+Lexicology	المعجمية (علم المعاجم)
+lexicon	مُعْجَم، قاموس / 1 مَسْرَد ؛ 2 مَسْرَد [المفردات] / معجم
+Lexicon model for ontologies (lemon)	نموذج التوصيف المعجمي (ليمون)
+Leyden jar	وِعاء «لَيْدِن»
+LF	تلقيم سطر
+Li (lithium)	لث
+liabilities	تَبِعات، مَسْؤوليَّات؛ حُسُوم، مَطْلُوبات
+Liabilities of Non-Residents	الخصوم أو المطلوبات لغير المقيمين
+liability	مَسؤوليَّة قانونيَّة؛ دَيْن؛ عائِق
+liable	عُرْضَة (ل)، مَسؤولٌ قانونيًّا
+liaison	اِرتِباط، اِتِّصالٌ مُتَبادَل
+liaison officer	ضابِطُ اتِّصال، ضابِطُ ارتِباط
+liam soil	تربة صفراء
+liana = liane	مُعْتَرِشٌ مُخْشَوشِب
+lianas	متسلقة
+Liapunov convexity theorem	مُبَرْهَنةُ ليبونوف في التَّحَدُّب
+Liapunov function	دالَّةُ ليبونوف
+liar paradox	مُحَيِّرةُ الكَذَّاب
+lias	لِيَاس / لياس
+Lias clay	صَلْصالٌ لَياسيّ
+liassic	لِيَاسي / نياسي
+liber	لحاء
+liberal	حُرّ؛ غيرُ مُتَعَصِّب؛ تَحرُّري؛ وافِر، كَبير
+liberal education	تعليمٌ حُرّ
+liberal translation	ترجمة حُرَّة
+liberate	حَرَّرَ، أطلَق؛ سَرَّح، أعتَقَ
+liberation	تَحْرير، إطلاق، تَحرُّر
+liberation of energy	إطلاقُ الطّاقة / تحرر الطاقة
+libido	شَبَقٌ
+Libra (The Scales)	بُرْجُ الميزان
+librarian	أمين مَكتبة / أمين مكتبة
+Libraries	مكتبات
+library	مَكتبة؛ رَبيدة / 1 مكتبة ؛ 2 مكتبة / مكتبة
+library automation	أَتْمَتَةُ الْمَكْتَبَة
+Library Director	مدير مكتبة
+library handler	بَرْنَامَجُ تَدْبِيرِ مَكْتَبَة
+library program	برنامجٌ مكتبي (أو ربيدي)
+library routine	مساق من مكتبة
+Library routines	صيغ مكتبية
+libration	تَطَوُّح، مَيَسان؛ نَوَدانُ القَمَر / ميسان
+libriform	لِيفيّ، شَبيهٌ بأليافِ الشَّجَر
+libriform fibres	ألياف مستدقة
+License	ترخيص / رخصة استخدام
+license = licence	رُخْصَة، إجازة، تَرْخِيص، تَصْريح؛ أجازَ، رَخَّصَ
+license agreement	اتفاق ترخيص / إتفاقية الترخيص
+license plate	لَوحةُ إجازةِ السَّير (التي عليها رقمُ السيّارة)
+license, driving	إجازةُ سَوق
+licensed aircraft engineer	مُهَندِسُ طائراتٍ مُجاز
+licenser = licensor	المُرَخِّص
+licensing key	مفتاح ترخيص
+lich-owl	خبل
+lichen	حَزاز، أُشْنَة / أشنة
+lichen fungi	فطريات أشنية
+lichenometry	القياس الحزازي
+licit	مَشْروع، جائِزٌ شَرْعًا
+licorice	سُوس، عِرْقُ السُّوس
+licrystal = liquid crystal	بِلَّورة سائِليَّة
+lid	غِطاء (صُندوقٍ أو إناء)؛ غِطاء؛ غَطَّى
+lidar (light detection and ranging)	لِيدار
+lie	رَقَدَ، اِضطَجع؛ كَمَنَ؛ وَقَعَ؛ كَذَب؛ مَوقِع، وَضْع، سَمْت؛ أُكذوبة
+Lie algebra	جَبْرُ لِي
+Lie brackets	حاصِرَتا لِي
+Lie commutator	مُبَدِّلُ لِي
+Lie group	زُمْرةُ لِي
+Lie product	جُداءُ لِي
+Lie, Marius Sophus	مارْيوس سوفوس لِي
+Liebig condenser	مُكثِّف «لَيْبيڠ»
+lien	حَقُّ الحَجْز؛ رَهْنٌ عَقاري / حق الحجز
+lieu	مَكان؛ عِوَض؛ بَدَل
+lieutenant	مُلازِم أول
+lieutenant-colonel	مُقَدَّم
+life	حَياة؛ عُمر، مَدى الحَياة؛ حَيَويَّة؛ عُمْر / حياة
+life annuity	سَنَاهِية
+life belt	حِزامُ النَّجاة
+life buoy	طافيةُ إنقاذ، عامَةُ نَجاة
+life cycle	دَورةُ الحياة، دَورةٌ حَياتيَّة
+life expectancy	العُمْر المُتوَقَّع
+Life Expectancy at Birth for Citizens by Sex	العمر المتوقع لدى الولادة للمواطنين حسب الجنس
+life form; growth form	صورة الحياة
+life insurance	التأمينُ على الحَياة
+life jacket	صِدارُ أو صُدْرةُ نَجاة
+life pension	معاشٌ مَدَى الحَياة
+life policy	وَثيقةُ تأمينٍ على الحَياة
+life raft	رَمَثُ النَّجاة، طَوْفُ النَّجاة
+Life science	علم الأحياء
+life span	فَتْرةُ العُمر، مُدَّةُ الحَياة
+life support	أجهِزةُ الإعاشة
+life test	اختبارُ العُمرِ (لِتَقْدِير عُمْرِ التجهيزات)؛ اِختبار الاستِقراريَّة (لِزُيوتِ التوربينات)
+life vest	صُدْرةُ نَجاة
+life zone	مِنطَقةٌ حَياتيَّة، نطاقٌ حَيَويّ
+life, half	عُمرُ النِّصْف
+life, mean	مُتَوسِّطُ العُمُر
+Life-cycle	دورة حياة
+life-size	بالحَجْمِ الطبيعي
+lifeboat	قارِبُ نَجاة، زَوْرَقُ إنقاذ / قارب نجاة
+lifetime	عُمر، مَدى العُمْر، مُدَّةُ الحَياة؛ مُتَوسِّطُ عُمر (الجُسَيم أو الأيون)
+lifnum vitae	خشب القديسين، خشب الجوياك
+LIFO	الداخل آخراً، خارج أولاً / الداخل آخراً، خارج أولا
+LIFO = last-in-first-out	الداخِلُ أخيرًا يُصْرَفُ أَوَّلاً
+LIFO list = lifo = stack	رَصَّة
+lift	أصعَدَ، رَفَع، عَلَّى؛ مِرفاع، مِصْعَد؛ رَفْعٌ، حَمْل؛ مَدَى الارتِفاع أو الرَّفْع / رافعة / مُصَعِّد
+lift angle	زاويةُ الرفْع
+lift axis	مِحورُ الرَّفع
+lift coefficient	مُعامِلُ الرَّفْع
+lift distribution	توزيعُ الحَمْل
+lift force	قُوَّةُ الرَّفْع
+lift gate	بَوّابةُ رَفْع
+lift hook	خُطّافُ الرَّفْع
+lift latch	قُفْلٌ بِسَقّاطة
+lift power	قُوَّةُ الرَّفْع، قُدْرَة الرَّفْع
+lift problem	مَسْأَلةُ التَّصْعيد
+lift pump	مِضَخَّةٌ رافِعة، مِضَخَّةُ رَفْع
+lift ratio	نِسْبَةُ الرَّفْع
+lift shaft	بِئْرُ المِصْعَد
+lift truck	شاحِنة مِرفاعيَّة
+lift well	بِئْرُ المِصْعَد
+lift wires	أسلاكُ الرَّفْع
+lift(ing) pump	مِضَخَّة رَفْع، مِضَخَّة رافِعة
+lift(to)	قلع
+lift, aerodynamic	رَفْعٌ حَراكي هَوائي
+lift, aerostatic	رَفْعٌ سُكُوني هَوائي
+lift, dynamic	رَفْعٌ دِينامي
+lift, static	رَفْعٌ إستاتي
+lift, total	جُهْدُ الرفْع الكُلِّي
+lift, valve	رافِعُ الصِّمام؛ شَوطُ الصِّمام (صُعودًا أو هُبوطًا)
+lift-bridge	جِسرٌ رَفْعِيّ
+lift-drag ratio	نِسبةُ الرَّفْع إلى الإعاقة (أو المُقاوَمة)
+lift-lock	قُفْلُ الرَّفْع
+lift-motor	مُحَرِّكُ المِصْعَد
+lift-off	اِرتِقاء
+lift-off butt	مُفَصِّلةٌ تَناكُبِيَّة اِنفصاليَّة، مُفَصِّلَةُ ذَكَرٍ وأُنثى
+lift-valve	صِمامٌ رَفْعي
+Lifted domain	مجال مرفوع
+lifted side	جانِبُ الصَّدْعِ المُرتَفِع
+lifter	رافِع، رافِعة، جِهازُ رَفْع
+lifter roof	سَقْفٌ مِصْعاديّ
+lifting	تَصْعيد
+lifting block	بَكّارةٌ رافِعة، بَكّارةُ رَفْع
+lifting capacity	قُدرةُ الرَّفْع
+lifting condensation level	مُسْتَوَى التَّكاثف بِالتَّصاعُد
+lifting force	قُوَّةٌ رافِعة
+lifting gate	بَوَّابة رَفْعِيَّة
+lifting gear	مُعَدّاتُ الرَّفْع
+lifting handle	مِقْبَضُ رَفْع (النماذِج)
+lifting jack	رافِعَة، مِرْفاع (السيّارة)
+lifting magnet	مِغنطِيسٌ رافِع
+lifting mechanism	آليَّة الرفْع
+lifting plates	ألواحُ رَفع (النموذجِ من قالَب الصَّب)
+lifting power (of a magnet)	قُوَّةُ الرفْع (للمِغنَطيس)
+lifting ram	كابِسُ الرفع (في مِكْبَس هَيدرُوليّ)
+lifting screw	قَضيبُ رَفْع مُلَولَب (لِرَفْع النَّموذَج مِن قالَب الصَّب)
+lifting surface	السَّطْحُ الرافِع
+lifting table	مِنْضَدُ رَفع
+lifting tackle	مُعَدّات الرفْع (مِن حِبال وبَكَرات)
+ligament	رِباط، وُصْلَةُ رَبْط / رِبَاط / رباط
+ligand	رَبِيطة
+ligase	إنزيم رابط
+ligasoid	ضَبيب
+ligation	رَبْط
+ligature	رَبْط؛ رِباط؛ رَبيطة حرفيَّة / الحرف المركّب
+light	ضَوْء، نُور؛ ضِياء؛ مِصْباح، مَصْدَرٌ ضَوئيّ؛ مَنْور؛ وَميض؛ خَفيف، يَسير؛ بَسيط؛ فاتِحُ اللون؛ أنارَ، أضاءَ، أَشعَلَ، أوقَدَ؛ اِتَّقد / رَقِيق / نور / ضَوْء / ضوء
+light absorption	اِمتصاصُ الضَّوْء
+light aircraft	طيارة خفيفة
+light alloys	سَبائِكُ خَفيفة (أساسُها الألومنيوم أو المَغْنِسيوم)
+light amplifier	مُضَخِّمٌ ضَوئيّ
+light artillery	مِدْفَعيَّةٌ خَفيفة
+light automatic	سِلاحٌ أوتوماتي خَفيف
+light beacon	مَنارة ضَوئيَّة
+light beam	حُزمَة ضَوئيَّة، شُعاعٌ ضَوئِيٌّ
+light bomber	قاذِفَة خَفيفة
+light breeze	نَسِيمٌ خَفيف
+light bulb	بُصَيْلَة نُور
+light bundles	حزم ضوئية
+light buoy	عامَةُ المنارة
+light chopper	شادُوفٌ ضَوْئيّ، قَطّاعُ الضوء
+Light client	عميل خفيف
+light coal	فَحْمٌ غازيّ
+light crude	خامٌ خَفيف
+light cruiser	طَرّادة خَفيفة
+light current = photo-current	تَيّار (كَهْربائيّ) ضَوئيّ
+light detection and ranging = lidar	رادارٌ ضَوئيّ، لِيْدار
+light dimmer	خافِتُ النُّور، مُخَفِّفُ الضَّوء
+light dispersion	تَشَتُّت الضَّوء
+light displacement	وَزْنُ السَّفِينة فارِغة
+light distillate	قُطَارة خَفيفة
+light distribution curve	مُنْحني توزُّعِ الضوء
+light dragon	جَرّارة خَفيفة
+light drive fit	تَوافُقٌ بالدَّقِّ الخَفيف
+light duty	تَشْغيل خَفيف
+light efficiency	الكِفايةُ الضوئيَّة (لِلمصباح الكَهربائي)
+light ends	المُتَطايِرات
+light energy	طاقةُ الضَّوء، الطاقةُ الضَّوئيَّة
+light exposure	تَعَرُّضٌ لِلضَّوء
+light filter	مُرَشِّحٌ ضَوئي
+light float	عامَةٌ ضَوئيَّة
+light floe	طَافِيَة جَليديَّة خَفيفة (سُمْكُها دُونَ المتر)
+light flux	دَفْقٌ ضَوئي، الفيضُ الضوئي
+light fractions	الأجزاءُ (أو المُقتَطعات) الخَفيفة
+light guide	مرشِد الضوء
+light indicator	مُبَيِّن ضَوئيّ
+light industry	صِناعة خَفيفة
+light load	حِملٌ خفيف
+light load line	خَطُّ الحِمْل الخَفيف
+light maintenance unit	وَحدَةُ التَّصليحاتِ الخَفيفة
+light metals	فِلِزّاتٌ خَفيفة
+light meter	مِقياسُ (شِدَّة) الإضاءة
+light meter, digital	مِقياسُ إضاءَة رَقميّ
+light microscope	مِجْهَرٌ ضَوئيّ
+light microsecond	ميكروثانية ضَوئيَّة
+light mineral	مَعدِن خَفيف؛ مَعدِنٌ فاتِحُ اللون
+light modulation	تَضْمينُ الضَّوء
+light modulator	مُضَمِّنٌ ضَوئيّ، مُشَكِّلٌّ ضوئي
+light oils	زُيوتٌ خَفيفة
+light organ	عضو مضيئ
+light pen	قَلَمٌ ضَوئيّ / قلم ضوئي / قَلَمٌ ضوئي / قلم خفيف
+light plane	طَيّارة خَفيفة
+Light precipitation	هطول مجهول
+light railway	سِكةُ حَديد ضَيِّقة؛ سِكَّة حديدٍ مُقَنَّنةُ السُّرعة والحُمولة
+light relay	مُرَحِّلٌ ضَوئيّ
+light resistance	المُقاوَمة الضَّوئية (لِلخَلِيَّة الكَهْرَضَوئية)
+light running	دَوَرانٌ (أَو تَدْوير) خفيف
+light scattering diagram	بَيَانِي تشتت الضوء
+light scattering table	جدول تشتت الضوء
+light second	ثانيةٌ ضَوئية
+light sensitive	حَسّاسٌ لِلضَّوء
+light source	مَصْدَرٌ ضَوئيّ، مَنْبع ضَوئيّ / 1 منبع ضوئي ؛ 2 منبع ضوئي
+Light stemmer	المجذِّع الخفيف
+Light stemming	التجذيع الخفيف
+light tank	دَبّابة خَفيفة
+light time	زَمَنٌ ضَوئيّ
+light tops	المُتَطايرات الخفيفة
+light trap	مِصْيَدة ضَوئيّة؛ مِصيدة ضوئيَّة
+light valve	صِمامٌ ضَوئيّ
+light van	سَيّارة شَحْن صَغيرة
+light water	ماءٌ عاديّ
+light watt	واط ضَوئيّ
+light waves	أمواجٌ ضَوئيَّة
+light weapons	أسلِحةٌ خَفيفة
+light well = air shaft	مَنْوَرٌ بِئريّ
+light year	سنة ضوئية
+light, aberration of	الزَّيغُ الضوئي
+light, alternating	نُورٌ مُتناوِب
+light, anchor	ضَوءُ الإرساء، ضَوءُ الحَطّ (في الطائِرة)
+light, approach	ضَوءُ الاقتِراب
+light, arc	ضَوءُ القَوسِ الكَهربائي؛ مِصْباح قَوسي
+light, beacon	ضَوءُ المَنارة
+light, blinker	نُورٌ رَفّاف، ضَوءٌ وامِض
+light, buoy	ضَوءُ العامَة، مَنارةُ الصُّوَّة البَحريَّة
+light, ceiling	ضَوءُ تَحْدِيدِ ارتِفاع الغُيوم
+light, electric	نُورٌ كَهْربائيّ
+light, fixed	ضَوءٌ ثابِت
+light, flashing	ضَوءٌ ومّاض
+light, floating	عامَة مُضيئة، مَنارة عائمة
+light, indirect	نُورٌ غيرُ مُباشِر
+light, intermittent	نُورٌ متقَطِّع
+light, landing	ضَوءُ (الإنارة أثناءَ) الحَطّ
+light, monochromatic	ضَوءٌ وَحيدُ اللون
+light, obstruction	ضَوءُ المَوانِع
+light, polarized	ضَوءٌ مُستَقْطَب
+light, polychromatic	ضَوءٌ مُتَعدِّد الألوان
+light, velocity of	سُرْعَة الضَّوء
+light-activated	مُنَشَّطٌ ضَوئيًّا، مُفَعَّلٌ بالضَّوء
+light-activated silicon-controlled rectifier	مُقَوِّمٌ سِليكونيُّ التحكُّم مُنَشَّطٌ ضَوئيًّا
+light-adapted	مُكَيَّفٌ لِلنُّور (بعدَ التَعَرُّضِ له فَترةً كافية)
+light-beam oscillograph	مخطاط ذبذبة ضَوئِيُّ الحُزمَة
+light-emitting diode	صِمامٌ ثُنائيٌّ لِلضَّوء / ديود [إشعاع] ضوئي
+light-fast	صامِدٌ لِلضَّوء
+light-fog	تضَبُّب (أو تغَبُّشٌ) ضَوئيّ (بالضَّوء المُتَسَرِّب)
+light-induced electricity = photo-electricity	الكَهربائيَّةُ الضَّوئيَّة، الكَهْرَباءُ المُستَحَثَّة بالضَّوء
+light-negative	سَلْبِيٌّ لِلضَّوء
+light-permeable	مُنْفِذٌ لِلضَّوء، مُنفِذُ الضَّوء
+light-positive	إيجابيٌّ لِلضَّوء
+light-press fit	تَوافُقٌ بالضَّغْط الخَفيف
+light-proof	صامِدٌ لِلضَّوء
+light-quantum = photon	فُوتُون، ألْكَمُّ الضَّوئي
+light-sensitive cathode	مَهبِطٌ حَسّاسٌ للضوء
+light-sensitive material	مادَّةٌ حَسَّاسةٌ للضوء
+light-sensitive tube	صِمامٌ حسّاسٌ للضوء
+light-tight	سَدودٌ لِلضَّوء، كَتيمٌ لِلضَّوء
+light-tracked vehicle	مَرْكَبةٌ مُزَنْجَرة خَفيفة
+Light-weight process	عملية خفيفة الوزن
+light-year	سَنةٌ ضَوئيّة
+lighten	خَفَّفَ؛ فَتَّحَ (اللونَ)؛ أنارَ
+lightening	تَخْفيف، تَسْهيل، تَقْليل
+lightening holes	ثُقوبُ تَخْفيف
+lighter	قَدّاحة، وَلاّعة؛ صَنْدَل، مَرْكَبُ تَحْميلٍ وتَفْريغ؛ نَقلَ أو شَحَنَ بالصَّنَادِل
+lighter, flint	وَلاعة ظِرّانِيّة
+lighter-than-air craft	مَركبَةُ مُنطاديَّة، طائِرة أخَفُّ مِن الهَواء
+lighterage	شَحْنٌ أو تفرِيغٌ بالصَّنادِل؛ أُجرةُ النَّقل بالصَّنادِل
+lightface	حَرْفٌ رَقيق (غيرُ ثَخين)
+lighthouse	مَنارة
+lighthouse tube	صِمامٌ مَناريّ، ميغاترون، صِمامٌ قُرْصيُّ الإلِكترودات
+lighting	إنارة، إضاءة
+lighting fixtures	تَركيباتُ الإضاءة
+lighting gas	غازُ الاستِصباح
+lighting power	قُدْرة الإضاءة
+lighting star	نَيزَك، شِهاب
+lighting system	نِظامُ الإنارة؛ مَنظومة الإنارة
+lighting, back	إضاءةٌ خَلْفية
+lighting, dashboard	إنارةُ لَوحةِ القيادة
+lighting, electric	إنارةٌ بالكَهْرباء
+lighting, emergency	إضاءَةٌ لِلطَّوارِئ
+lightness	ضِيائيَّة؛ خِفَّة (في اللون أو الوَزْن)
+lightning	بَرْق؛ صاعِقة / بَرْق
+lightning arrestor or protector	مانِعَةُ صَواعِق
+lightning channel	قناةٌ البَرْق
+lightning conductor (or rod)	مانِعةُ صَواعِق، بَرّاقة، قَضيبُ الصواعِق
+lightning protector	مانِعةُ صَواعِق، واقيةُ الصَّواعِق
+lightning rod	مانِعة صواعِق، برّاقة
+lightning stroke	صاعِقة
+lightning surge	تَمَوُّرٌ بَرْقيّ
+lightning switch = ground switch	مِقلادُ تأريض (الهوائي)
+lights, barrier	أنوارُ الحواجِز (لِمَنْع دُخول المَرْفأ)
+lights, boundary	أنوارُ الحُدود
+lights, contact	أنوارُ التلامُس (على جانِبَي مَدْرَج الحَطّ)
+lights, course	أضواءُ تَحْديد الاتِّجاه (أو المَسْلَك)
+lights, dash	أضواءُ لَوحةِ أجهزةِ القياس
+Lights, Northern	الأضواءُ القُطْبية الشمالية
+lights, position	أنوارُ تَحْدِيدِ الوَضْع أو المَوضِع
+lights, runway	أضواءُ المَدْرَج (على جانِبَي ساحةِ الحَطّ)
+Lights, Southern	الأضواءُ القُطْبية الجَنوبية
+lights, traffic	أضواءُ المُرور، إشاراتُ المُرور
+lightship	مَنارةٌ عائِمة / سَفِينةٌ مَنارة
+lightship station	مَحَطَّةٌ عَلى سَفِينةٍ مَنارة
+Lightwave	لايت ويڤ
+lightwave system	نظام أمواج ضوئية
+Lightweight	خفيف الوزن
+lightweight aggregate	رُكامٌ خَفيف الوَزْن
+lightweight concrete	خَرَسانةٌ خَفيفة
+Lightweight Directory Access Protocol	ميفاق مُخَفَّف للنفاذ إلى الدليل
+Lightweight Internet Person Schema	مختطة مُخَفَّفة لـ [إيجاد] مشتركي إنترنت
+lightwood	خَشب صَنوبري
+ligia	ليكية، ليكا
+ligneous	خَشبِيّ
+ligniferous	ذو ليغنيت، ليغنيتي
+lignified	مُخْشَوشِب، مُتَخَشِّب / ملجنن
+lignified elements	عناصر ملجننة
+lignify	خَشَّبَ، تَخَشَّب
+lignin	لِڠْنين، خَشَبِين / لجنين
+lignin paste	مَعْجونُ نُشارة الخَشَب
+lignite	ليغنيت
+Lignite (Brown Coal)	ليجنت (الفحم البني)
+lignite = brown coal	اللِّڠنيت
+ligno-celluloses	سِلْيُولُوزات الخَشَب
+lignocellulose	سيليولوز لجنيني
+lignosuberin	سوبرين لجنيني
+lignum vitae	خَشَبُ القِدِّيسين، عُودُ الأنبياء
+ligroin	لِيڠرُوين
+ligulate florets; ray florets	لسينية الزهر، زهيرات لسينية، زهيرات شعاعية
+ligulated	ملسنة
+ligule	لُسَين / لسين
+liguliflorae	لسينية الزهر
+like	شَبِيهٌ، مِثْل، مَثيل؛ رَغِبَ في، أَحَبَّ / مثل
+like charges	شِحْناتٌ مُتَشابِهة
+like poles	أقطابٌ مُتَشابِهَة
+like terms	حُدودٌ مُتَشابِهَة / حدود متشابهة / حُدودٌ مُتَماثِلة
+Like this	مثل هذا
+like triangles	مثلثات متشابهة
+likelihood	اِحتِمال، اِحتِماليَّة، جَوازيَّة؛ أَرْجَحيَّة / أرجحية / أَرْجَحِيَّة
+likelihood ratio	نِسْبةُ الأَرْجَحِيَّة
+likelihood ratio test	اخْتِبارُ نِسْبَةِ الأَرْجَحِيَّة
+likely	مُحْتَمَل، مُرَجَّح؛ مُناسِب، مُلائِم
+liken	شَبَّهَ؛ شَابَهَ
+likeness	تَشابُه، شَبَه
+likewise	بالمِثْل، أيضًا، كَذَلِك
+lilac	ليلك
+lilaceae	فصيلة زنبقية
+Lilo	محمل لينكس
+lim inf	lim inf
+lima; lama	لامة، جمل أمريكا
+limachelle	صخر كلي صدفي
+limacon of Pascal	صدفة باسكال
+limaçon	حَلَزونُ «پَسْكال» / صَدَفة
+limaçon of Pascal	صَدَفةُ باسْكال
+limb	طَرَفٌ؛ حافَّة؛ حاشِيَة (مُخْتَلِفة اللون)؛ شُعبَة؛ فَرْع، غُصْن؛ نَصْل (الوَرَقة أو التويجِيَّة)؛ حافَّةُ قُرْص الشَّمس (أو القَمَر)؛ الصفيحة الأفقية السُّفلى (في الثِّيودوليت)؛ جانِبُ الطيَّة؛ قَطَعَ الفُروعَ (أو الأعضاء) / جَاِنب / جانب / طرف
+limb (anticlinal ...)	جناح الطية المحدبة
+limb (anticlinal limb)	جناح الطية المحدبة
+limb (normal ...)	جناح عادي
+limb (normal limb)	جناح عادي
+limb (reversed ...)	جناح مقلوب
+limb (reversed limb)	جناح مقلوب
+limb (roof ...)	جناح علوي
+limb (roof limb)	جناح علوي
+limbate sutures	دُروزٌ بارِزة
+limber	عَرَبَةُ المِدْفَع؛ لَدْن، سَهْلُ الانثِناء
+limburgite	لِمْبُرڠَيْت
+lime	جِير، كِلْس، أُكْسِيد الكالسيوم؛ لَيْمونٌ مالِح؛ دِبْق؛ كِلْسِيّ، جِيريّ؛ عَالَجَ أو غَطَّى بالكِلْس / جير، كلس حي
+lime ash = small lime	جِيرٌ حَيٌّ غيرُ نَقيّ
+lime base	قاعِدة كِلْسيَّة أو جِيريَّة
+lime base grease	شَحْم جِيريُّ القاعِدة
+lime content	المُحْتَوى الكِلسيّ
+lime glass	زُجاجٌ جِيري (الزُّجاج العادي)
+lime mortar	مِلاطٌ جِيري، مِلاطٌ كِلْسيّ
+lime oil	زيتُ الليمون
+lime paste = slaked lime	جِيرٌ مُطفأ
+lime powder	مَسْحوقُ الكِلْس (المُطْفأ بالتعَرُّض لِلهواء ولا يَصْلُح لِلبِناء)
+lime treatment	مُعالَجة جِيريَّة، مُعالَجَة بالجِير أو الكِلْس
+lime, caustic	ألجيرُ الحَيّ، أُكْسِيد الكالسيوم
+lime, chloride of = bleaching powder	مَسْحُوقُ تَقْصير الألوان
+lime, hydrated = slaked lime	جيرٌ مُطْفَأ
+lime, hydraulic	جِيرٌ هَيدرولي (يَصْلُد تحتَ الماء)
+lime, slaked	جِيرٌ مُطْفأ
+lime-silicate rocks	صُخورٌ جِيريَّة رَمْليَّة
+lime-soda process	طريقة صودا الجير
+lime-water	ماءُ الجِير
+limekiln	قَمِينٌ جِيري، أتُّونُ الكِلْس
+limelight	نورُ الكِلْس، وَهَجُ الجير
+limestone	حَجَر جِيري، حَجَرُ الكِلْس / حجر كلسي
+limestone (argillaceous ...)	حجر كلسي، حجر غُضاري
+limestone (argillaceuous)	حجر كلسي (غضاري)
+limestone (asphaltic ...)	حجر كلسي، حجر اسفلتي
+limestone (asphaltic)	حجر كلسي (اسفلتي)
+limestone (banded ...)	حجر كلسي شرائطي
+limestone (banded limestone)	حجر كلسي شرائطي
+limestone (chalky ...)	حجر كلسي طباشري
+limestone (chalky limestone)	حجر كلسي طباشري
+limestone (cherty ...)	حجر كلسي، حجر صواني
+limestone (cherty limestone)	حجر كلسي (صواني)
+limestone (compact ...)	حجر كلسي متماسك
+limestone (compact limestone)	حجر كلسي متماسك
+limestone (coral reef ...)	حجر كلسي مرجاني
+limestone (coral reef limestone)	حجر كلسي مرجاني
+limestone (glauconitic ...)	حجر كلسي جلوكوزي
+limestone (glauconitic limestone)	حجر كلسي جلوكوزي
+limestone (granular…)	حجر كلسي جبسي
+limestone (marly…)	حجر كلسي مارلي
+limestone (nodular ...)	حجر كلسي عقدي
+limestone (nodular limestone)	حجر كلسي عقدي
+limestone (phosphatic ...)	حجر كلسي فسفاتي
+limestone (phosphatic limestone)	حجر كلسي فسفاتي
+limestone (sandy…)	حجر كلسي رملي
+limestone (shelle …); limestone (shelly…)	حجر كلسي صدفي
+limestone (shelle …); limestone(shelly…)	حجر كلسي صدفي
+limestone (siliceous…)	حجر كلسي سليسي
+limestone (silicious…)	حجر كلسي سليسي
+limestone sink	بالُوعةٌ جِيريَّة
+limewash	طِلاءٌ جِيريٌّ مائيّ
+limewhite	طِلاءٌ جِيريٌّ مائيّ
+limicolous	أليفُ الوَحْل
+liminal value	قِيمة عَتَبِيَّة
+liming	مُعالَجة بالكِلْس؛ تَكْليس (التُّرْبة)
+liminic; limnetic	بحيري / بحبري
+limit	حَدٌّ، تَخْم؛ مَدَى؛ نِهاية، حَدٌّ (أقصى أو أدنى)؛ حَدَّد؛ قَيَّدَ، حَصَر، قَصَر على / حد / حدّ / نِهاية
+limit check	تفقّد الحدود
+limit comparison test	اخْتِبارُ مُقارَنَةِ النِّهاية
+limit gauge	مُحَدِّدُ قياسِ الحُدود (لِلتفاوُت المَسْموح)
+limit gauging	القياسُ في حُدودٍ مُعَيَّنة
+limit inferior	الحَدُّ الأدنى، النِّهاية الدُّنيا / النِّهايةُ الدُّنْيا
+limit load	الحِمْلُ الحَدِّي
+limit of a filter	نِهايةُ مُرَشِّحة
+limit of a function	نهاية دالة
+limit of a net	نِهايةُ شَبَكة
+limit of a sequence	نهاية متتالية
+limit of an indeterminate form	نِهايةُ صيغَةِ عَدَمِ تَعْيين
+limit of elasticity	حَدُّ المُرُونة
+limit of endurance	حَدُّ الاحتِمال
+limit of error	حدّ الخطأ
+limit of proportionality	حَدّ التناسُب، نِهايةُ التناسُب (بينَ الإجهاد والانفِعال)
+limit of saturation	حَدُّ التشَبُّع
+limit on the left	نِهايةٌ مِنَ اليَسار
+limit on the right	نِهايةٌ مِنَ اليَمين
+limit ordinal	تَرْتيبةٌ حَدِّيَّة
+limit plug gauge	مُحَدِّدُ قياسٍ سِدادي حَدِّي
+limit point	نقطة النهاية / نُقْطةٌ حَدِّيَّة (نُقْطةُ نِهايَة)
+limit position	وَضْعٌ حَدِّي أو نِهائي
+limit pressure	ضغْطٌ حَدِّي أو نِهائي
+limit state	وَضْعٌ حَدِّيّ
+limit superior	الحَدُّ الأعلى، النِّهايَةُ العُلْيا / النِّهايةُ العُلْيا
+limit test	اخْتِبارُ النِّهاية
+limit, elastic	حَدُّ المُرونة
+limit, endurance	حَدُّ الاحتِمال أو الإطاقة
+limit, fatigue	حَدُّ الكَلال
+limit, load (or loading)	حَدُّ التَّحْميل
+limit-switch	مِفتاحٌ كَهْربائيٌّ حَدِّيّ، مِقلادٌ حَدِّيّ (لِلمَصاعِد الكَهْربائيَّة)
+limitation	تَحْديد، تَقْييد، قَصْرٌ، حَصْر، تَحَدُّد؛ حَدّ
+limited	مُحَدَّد، مَحدود، مَقْصور
+limited chromosome	صبغيّ محدود
+limited company	شَرِكة مَحْدودة
+limited isomorphism	تَشابُهُ الشَّكْل المَحْدود
+limited liability partnership	شَراكةٌ مَحْدودة المَسْؤوليَّة
+limited movement	حركة محدودة
+limiter	مُحَدِّد، مُحِدّ؛ مُحَدِّد أُوتوماتيّ؛ فُتحةُ تحديد
+limiter diode	صِمامٌ ثُنائيٌّ مُحِدّ
+limiter valve	صِمامٌ مُحَدِّد أو مُحِدّ
+limiting	مُحَدِّد، مُقيِّد؛ نِهائيّ، حَدِّيّ؛ تَحْديد
+limiting conductivity	المُوَصِّليَّة الحَدِّيَّة
+limiting curve	مُنْحَنٍ حَدِّيّ
+limiting density	الكَثافَةُ النِّهائيَّة
+limiting factor	عامِلٌ مُحدِّد
+limiting factors	عوامل محدودة
+limiting frequency	الترَدُّد الحَدِّي
+limiting friction	اِحتِكاكٌ حَدِّي أو نِهائي
+limiting gradient = ruling gradient	المَمالُ الحَدِّيّ
+limiting membrane	غشاء محدد
+limiting operation	عملية مُحِدَّة
+limiting points	النُّقطَتَان المُحَدِّدتان (النهائيَّتان)
+limiting points of coaxial circles	نقط نهائية لدوائر متحاورة
+limiting range	المَدى النِّهائيّ أو الحَدِّيّ
+limiting range of stress	مَدَى احتِمال الإجهاد
+limiting value	القِيمة الحَدِّية (أو النهائية)
+limiting velocity	السُّرعة الحَدِّيةُ أو النهائية
+limitless	لا حَدَّ لَه، لا نِهائي
+limits	حُدُود، نِهايات
+limits of audition	حُدودُ المَسموعِيَّة
+limits of error	حُدودُ الخَطَأ المَسْموحِ به
+limits of integration	حدّا المكاملة / حَدَّا التَّكامُل (حَدَّا المُكامَلة)
+limits of tolerance	حدودُ التَّفاوُتِ المَسْموحِ به
+limnal	بُحَيري، خاصٌّ بالبحيرات
+limnetic = limnic	خاصٌّ بالمِياه العَذْبة
+limnetic zone	عُرض البُحَيرة المُضاء
+limnic facies; lacustrine	سحنة بحيرية
+limnic facies; lacustrine facies	سِحنة بحيرية
+limnite	لِمْنايت
+limnology	عِلْمُ البُحَيْرات؛ عِلْمُ بِيئاتِ المِياه العَذْبة / علم البحيرات
+limnoplankton	عَوالِقُ المِياه العَذْبة
+limonene	الليمونين
+limonite	لِيمُونيت / ليمونيت
+limp	رَخْو، لَيِّن؛ عَرَجَ؛ عَرَجٌ
+limpet	قُنْبلة مُلتَصِقة؛ بَطْلينوس
+limpet washer	فَلْكَة رَخْوة (لِلوُصلات المُتَعَرِّجة)
+limpid	رائق
+limy	جِيري، كِلْسي؛ دَبِق / كِلْسي / كلسي
+lin-log receiver	مُستَقْبِلٌ خَطِّيّ لُوغارِيتمي (خَطِّيُّ الاستجابةِ للإشارات الضئيلةِ ولُوغاريتميٌّ للإشارات الأكبر)
+linaria	لينارية
+linarite	لِنرَيت
+Lindelöf space	فَضاءُ لينْدِلوف
+Lindelöf theorem	مُبَرْهَنةُ لينْدِلوف
+Lindelöf, Ernest Leonard	إرْنِسْت لِيونارْد لينْدِلوف
+Lindemann theorem	مُبَرْهَنةُ لينْدمان
+Lindemann, Carl Louis Ferdinand von	كارْل لُويس فِردينانْد فون لينْدمان
+Linde’s apparatus	جِهازُ «لِنْد»
+line	خَطّ؛ سَطْر؛ مَسير؛ حَبْل؛ خَيْطُ المَنْسُوب؛ نَسَق؛ حَدٌّ فاصِل؛ جُزءٌ مِن 12 من البُوصة؛ سِكَّةُ حَديد؛ خَطُّ مَسحٍ (في صُورةٍ تلفزيونيَّة)؛ خَطُّ إرسال؛ بَطَّنَ؛ صَفَّ، اِصْطَفّ؛ خَطَّطَ، عَلَّمَ بالخُطوط / 1 خط ؛ 2 خط ؛ 3 خط ؛ 4 سطر / سَطْر / سطر / خط / خَطّ / نَسيلة، سُلالة
+line adapter	موائمة الخط
+line amplifier	مُضَخِّمٌ خَطِّيّ
+line amplitude	سَعةٌ خَطِّيَّة
+line analyzer	محلِّل الخط
+line at infinity	خط في اللاّنهاية / المُسْتَقيمُ في اللانِهايَة
+line balance	مُوازِنةُ الخَطّ
+line battery	بَطّاريَّةُ الخَطّ (الرئيسيَّة)
+line blending	المَزْجُ داخِلَ الخَطّ (أو داخِلَ الأنابيب)
+line breaker	قاطِعُ الدارة الكَهْربائية
+Line buffering	تصوين السطر،تصوين الخط
+line cap	تنهية قطعة مستقيمة
+line center	خط مركزي
+line chart	مخطط سطري
+line choking coil	مِلَفُّ خَنْقِ الخَطِّ الكَهْربائي (يَقيه مِن التَمَوُّرات المُفاجِئة)
+line circuit	دارةُ الخَطِّ الكَهربائي
+line co-ordinates system	نظام احداثيات خطية
+line concentration	تركيز الخط
+line conditioning	تكييف الخط
+line conductor	مُوصِّلُ الخَطّ (مادَّتُه النُّحاس أو الألومنيوم عادةً)
+line defect	عَيْبٌ خَطِّيّ
+line diagram	رَسْمٌ(بياني) تَخْطيطي
+line distortion	تَشَوُّه خَطِّي
+line drawing	رَسْم تَخْطيطي / رسمة خطوطية
+line drilling	حَفْرٌ خَطِّيّ
+line driver	سوّاق الخط
+line drop	هُبوطٌ خَطِّيّ
+line drop compensator	مُعَوِّضُ الهُبوط الخَطِّيّ
+line editor	محرر سطري / محرر نص خطي
+line equalizer	مُعادِلُ الخَطّ
+line fault	عُطْلٌ خَطِّيّ
+Line feed	تزويد سطر
+line finder	مُعَيِّنُ الخَطّ المُنادِي
+line focus	بُؤْرة خَطيَّة
+line frequency	تَردُّد الخُطوط؛ تردُّد الخَطّ / تردًّد خطِّي
+line graph	بَيانٌ بِخَطٍّ مُنْكَسِر
+line hit	تَشْوِيش
+line hold	مِضبطٌ خَطِّيّ تَزامُني
+line integral	تَكامُل خَطِّيّ / تَكامُلٌ على مُنْحَنٍ
+line jack	مَقْبِسُ الخَط (لاِغراضِ الاختِبار)
+line join	ضم الخطوط
+line jump scanning = interlaced scanning	أَلمَسْحُ المُتَشابِك
+line level	مُستَوى الخَطّ؛ مِسواةٌ حبليّة / مستوى [إشارة] الخط
+line load	1 إيساق الخط ؛ 2 إيساق الخط
+line load tester	جِهازُ اختِبار حِمْلِ الخَطّ
+line loss	فَقْدُ الخَطّ
+line maintenance	صِيانةُ الخُطوط
+line matrix	مصفوفة سطرية
+line noise	ضَجيجُ الخَطّ، ضَوضاءُ الخَطّ (التِلفوني) / ضجيج الخط
+line number	1 رقم السطر ؛ 2 رقم الخط
+line of action	خَطُّ الفِعْل، خَطُّ التأثير
+line of action of a force	اِتِّجاهُ القُوَّة، خَطُّ عَمَل القُوَّة
+line of aim	خَطُّ التَّسْديد
+line of approach	خَطُّ الاقتِراب، خَطُّ المأتى
+line of apsides = apse line	خَطُّ القَبَا، خط القَبَوين
+line of best fit	خط (ال...) الأوفق
+line of centres	خَطّ المَراكِز
+Line of code	سطر من الشفرة
+line of collimation	خَطُّ الإيزاءِ، خَطُّ التَّسْديد
+line of communication	خَطُّ مُوَاصلات، خَطُّ اتِّصال
+line of contact	خَطُّ التلامُس / خط التماس
+line of curvature	خَطُّ التَّقَوُّس
+line of defect	خَطُّ الخَلل
+line of dehiscence	خط الانفتاح
+line of demarcation (or demarkation)	خَطُّ التَّحْديد
+line of departure	خَطُّ الابتعاد، خَطُّ الافتِراق
+line of descent	خَطُّ النُّزول؛ سُلالة
+line of dip	خَطُّ المَيْل / خط الميل
+line of direction	خَطُّ الاتِّجاه
+line of dive	خَطُّ الانقِضاض
+line of electric flux	خطُّ الفيضِ الكهربائي، خَطُّ التدفُّق الكَهربائي
+line of electric force	خَطُّ القُوَّة الكَهربائيَّة
+line of elevation	خَطُّ الارتِفاع
+line of fire	خَطُّ النّار
+line of flight	خَطُّ الطيَران
+line of flight; flight line	خط الطيران
+line of flux	خَطُّ الفَيْض
+line of force	خَطُّ القُوّة (في مَجالٍ مِغنَطيسي)
+line of greater inclination	خط الميل الأعظم
+line of greatest slope	خط الميل الأكبر
+line of incidence	خَطُّ السُّقوط
+line of interception	خَطُّ الاعتِراض
+line of intersection	خَطُّ التقاطُع / خط تقاطع / خط التقاطع / خط التقادم
+line of latitude	خَطُّ العَرْض
+line of least resistance	خَطُّ المُقاوَمة الدُّنيا
+line of lode	اِتِّجاهُ العِرْق (المعدِني)
+line of magnetic flux	خَطُّ الفَيْض المِغنَطيسي
+line of magnetic force	خَطُّ القُوَّة المِغنَطيسيَّة
+line of march	خَطُّ السَّيْر
+line of nodes	خَطُّ العُقْدَتين
+line of position	خَطُّ المَوْضِع، خَطُّ المَوْقع
+line of samples	خطُّ العيِّنات، سِلْسِلةُ عَيِّنات
+line of sight	خَطُّ الإيزاء، خَطّ البَصَر؛ خَطُّ التَّسْديد
+line of sight velocity	سُرْعةُ الجِسْمِ السَّماويّ بالنِّسْبة لِلرّاصِد
+line of strike	خَطُّ مَضرِب (مَيْل) الطبقة (بالنِّسْبة لِلأُفُق)؛ خَطُّ (اتِّجاه) القَطْع
+line of support	خَطُّ الارتِكاز، خَطُّ التَّسانُد
+line of symmetry	خط التناظر
+line of thrust	خَطُّ الدَّفْع
+line of vision	خَطُّ الإبصار، خَطُّ الرُّؤية
+line oscillator = phase-shift oscillator	مُذَبذِبٌ خَطِّيّ
+line out(to)	شتل على الخطوط
+line pad	مُوهِنَةُ خَطِّ الإرسال
+line pair	الزَّوجُ الخَطِّيّ
+line pins	مسامير خيط المَنسوب
+line plug	قابِسُ الخَطِّ
+line printer	طابِعةٌ سَطْريَّة / طابعة سطرية / طابعة خطوط
+line production	إنتاجٌ خَطِّيّ، إنتاجٌ سِلْسِليّ
+line profile	جانِبيَّةُ الخَطّ
+line pulsing	نَبْضٌ خَطِّيّ
+line radio	راديو سِلْكيّ
+line ranger	جِهازُ مُحَاذاةٍ استِقامِيَّة
+line reflection	اِنعِكاسٌ خَطِّيّ
+line relay	مُرَحِّلُ الخَطّ
+line rhumb; rhumb line	خط اتجاه ثابت
+line scanning	المَسْحُ الخَطِّي
+line segment	خَطٌّ مُحَدَّدُ الطُّول / قطعة مستقيمة / قِطْعةٌ مَسْتَقيمة
+line segment; straight	قطعة من مستقيم
+line shafting	أعمِدةُ مُنَاوَلَة عُلْوِيَّة (لِنَقْلِ الطاقةِ من المُحَرِّك إلى المَكَنات في المَصْنَع)
+line simulator	مُحَاكي الخَطّ
+line source	مَصْدَرٌ خَطِّيّ، مَنْبَعٌ (ضَوئيّ) خَطِّيّ
+line spacing	مباعدة السطور
+line spectrum	طَيْفٌ خَطِّيّ (يُميِّزُ عُنْصُرًا مُعَيَّنًا)
+line speed	سرعة الخط
+line stabilization	إقرارُ الخَطّ
+line standard	مِعيارٌ خَطِّي
+line style	طراز السطر
+line surge	اشتداد في [ توتر] الخط
+line switch	مِفتاحُ الخَطّ
+line synchronization	تَزامُنٌ خَطِّيّ، مُزامَنةٌ خَطِّيَّة
+line transect	قطاع خطي
+line voltage	ڤلْطِيَّة الخَطّ
+line width	عرض السطر
+line, aclinic = magnetic equator	خَطُّ الاستِواء (اللاّمَيْلِ) المِغنَطيسي
+line, active	خَطّ (مَسْحٍ) فَعّال
+line, aerial	سِلْكٌ هَوائي؛ خَطٌّ هَوائي
+line, agonic	خَطُّ اللااِنحِراف المِغْنَطيسي
+line, aiming	خَطّ التسديد
+line, artificial	خَطٌّ اِصطناعيّ (اختِباريّ)
+line, assembly	خَطُّ التَّجْميع
+line, axis	خَطٌّ مِحْوَريّ
+line, ballast	خَطُّ التوازُن
+line, base	خَطُّ القاعِدة
+line, broad-gauge	خَطُّ حَديديٌّ عَريض، سِكَّةٌ حَديديَّة عَريضة
+line, broken	خَطٌّ مُتَكَسِّر
+line, busy	خَطٌّ مَشْغول
+line, contour	خَطُّ المَناسيب
+line, datum	خَطُّ الصِّفْر، خَطُّ إسناد
+line, defence	خَطّ دِفاعي
+line, dividing	خَطٌّ فاصِل
+line, drilling	كَبْلُ الحَفْر
+line, exchange	خَطُّ المقسِم (مِن المُشتَرِك إلى المَقْسِم)
+line, feeding	خَطُّ التغذية
+line, frame	خَطّ هَيْكَلي
+line, geodesic	خَطٌّ جيوديسِيّ
+line, guiding	خَطُّ تَوْجيه
+line, hauling	حَبْلُ السَّحْب أو الجَرّ
+line, infinite	خَطٌّ لا نِهائي
+line, isoclinic	خَطٌّ تَساوي المَيْل المغنطيسي
+line, isogonic	خَطُّ تَساوي الانحِراف المِغنَطيسي
+line, landing	خَطُّ الهُبوط
+line, level	خَطُّ التَّسْوية، خَطٌّ مُسْتَوٍ
+line, load (or loading)	خَطُّ الحُمُولة أو التَّحْميل
+line, long-distance	خَطُّ المُكَالَماتِ البَعيدة
+line, mooring	حَبْلُ الرَّبْط (لِطائِرة أو سَفينة)
+line, occult	خَطٌّ مُسْتَخْفٍ (لا يَظْهَرُ في الشَّكْل النِّهائي)
+line, party	خَطٌّ جَمَاعي
+line, plumb	مِطْمَار، خَيْطُ الشاقُول
+line, power	خَطُّ نَقْلِ الطاقةِ الكَهْربائية
+line, production	خَطُّ الإنتاج (أو التَّجْميع)
+line, radial	خَطٌّ شُعاعيّ أو نِصْفُ قُطْريّ
+line, return	أُنبوبُ أو خَطُّ الرُّجوع
+line, shroud	حَبْلُ الصّاري؛ إحدى حَمائِل الباراشوت
+line, squall	خَطُّ العَصْف
+line, standard-gauge	سِكَّةُ حَديدٍ عَادِيَّة
+line, tie	خَطٌّ فَرْعي؛ خَطٌّ مُحَدِّدٌ لِلشَّكْل (كَقُطْر المُرَبَّع)
+line, traffic	خَطّ مُرور، خَطُّ سَيْر
+line, water	خَطُّ الماء؛ خَطُّ الطَّفْو
+line-based browser	متَصَفِّح سطري
+line-by-line budget	ميزانيَّة تَفْصيليَّة
+line-casting machine	مَكَنةُ صَبِّ السطور (لينوتيب أو انترتيب)
+line-current-capacity tester	جِهازُ اختِبار (سَعَةِ) حِمْل الخَطّ
+line-frequency generator	مُوَلِّد التردُّد الخطِّي (لِبُقعَةِ المَسح)
+line-scanner	ماسح خطِّي
+line-sequential colour television	التلفزيون المُلَوَّنُ الخَطِّيّ التتابُع
+line-stabilized oscillator	مُذَبْذِبٌ خَطِّيُّ الاستِقرار
+line-synchronizing pulses	نَبَضَاتُ مُزَامَنَةِ الخَطّ
+line-up	صَفّ؛ تَكَتُّل (لِهَدَفٍ مُشتَرَك)؛ وَصْل (الدّاراتِ الكَهْربائية) على التَّوالي
+lineage	سُلالَة؛ عَددُ السُّطور / تسلسُل
+lineal	خَطِّي؛ مُباشِر؛ سُلالي
+lineament	مَعْلَمٌ طَبيعيٌّ خَطِّيّ، خَطّ مَعْلَميّ (على سَطح الأرض) / تخطُّط، فالق / فالق
+linear	خَطِّيّ، طُوليّ / 1 خَطِّيّ ؛ 2 خَطِّيّ ؛ 3 خَطِّيّ / خطيّة / خطيّ / خطي / خطّي
+linear acceleration	تَسارُع خَطِّي
+linear accelerator	مُعَجِّلٌ خَطِّيّ، مُسَرِّع (جُسَيْماتٍ) خَطِّي
+linear addressing architecture	بنيان ذو عنونة خطية
+linear advance	سَبْق خَطِّي
+Linear Algebra	جبر خطي / جبر (ال...) الخطّي / الجَبْرُ الخَطِّيّ
+linear algebraic equation	مُعادَلةٌ جَبْرِيَّةٌ خَطِّيَّة
+linear amplification	تَضْخيمٌ خَطِّيّ (التناسُب)
+linear application	تطبيق خطي
+linear approximation	تَقْريبٌ خَطِّيّ
+linear arrangement	ترتيب طولي
+linear array	صَفيفٌ خَطِّيّ / مصفوفة خطية
+linear ball-bearing	مَحْمِلُ كُريّات خَطِّي
+linear cleavage	تَشقُّق خَطِّي / تشقق خطّي
+linear coefficient	مُعامِلٌ طُوليّ
+linear combination	توفيقية خطيّة / تَرْكيبٌ خَطِّيّ
+linear comparator	مُقارِنٌ خَطِّيّ
+linear congruence	تطابق خطّي / تَطابُقٌ خَطِّيّ
+linear constant	ثابِتٌ خَطِّيّ
+linear convergence	تَقارُبٌ خَطِّيّ
+linear correlation	ارتباط خطي
+Linear Cryptanalysis	تحليل تعمية خطية
+linear decrement	تَناقُصٌ خَطِّيّ
+linear dependence	تبعية خطية / تَبَعِيَّةٌ خَطِّيَّة (ارْتِباطٌ خَطِّيٌّ)
+linear dependence of vectors	ارتباط خطي للمتجهات
+linear detection	كَشْفٌ خَطِّيّ
+linear detector	مِكْشافٌ خَطِّيّ
+linear differential equation	معادلة تفاضلية خطّيّة / مُعادَلةٌ تَفاضُلِيَّةٌ خَطِّيَّة
+linear displacement	إزاحةٌ خَطِّيَّة / ازاحة خطية
+linear distortion	تَشَوُّه خَطِّيّ
+linear electron accelerator	مُعَجِّلٌ خَطِّيّ لِلإلِكترونات
+linear element	عُنْصُرٌ خَطِّيّ
+linear energy transfer	تَحَوُّلٌ طاقيّ خَطِّيّ
+linear equation	معادلة خطية / مُعادَلةٌ خَطِّيَّة
+linear equations	المُعادَلاتُ الخَطِّيَّة
+linear estimate	تَقْديرٌ خَطِّيّ
+linear expansion	تَمَدُّدٌ طُوليّ / نشر خطي
+linear expansion coefficient = linear expansivity	مُعامِلُ التَمدُّد الطوليّ، التَمدُّديَّة الخَطِّيّة
+linear expression	تَعْبيرٌ (جَبْريٌّ) خَطِّيّ / عبارة خطية
+linear extension	اِمتِدادٌ طُوليّ / تَمْديدٌ خَطِّيّ
+linear fold	طيَّةٌ خَطِّيَّة
+linear form	صيغة خطية / صيغةٌ خَطِّيَّة
+linear fractional transformations	تَحْويلاتٌ كَسْرِيَّةٌ خَطِّيَّة
+linear function	دالَّة خَطِّيَّة / دالة خطية / دالَّةٌ خَطِّيَّة
+linear functional	دالِّيٌّ خَطِّيّ
+linear hypothesis	فَرْضِيَّةٌ خَطِّيَّة
+linear independence	استقلال خطّيّ / اسْتِقْلالٌ خَطِّيّ
+linear inequality	مُتَبايِنة خَطِّيَّة / مُتَبايِنةٌ خَطِّيَّة
+linear inequations	متراجحات خطية
+linear inferences per second	استدلال خطي في الثانية
+linear integral equation	مُعادَلةٌ تَكامُلِيَّةٌ خَطِّيَّة
+linear interpolation	اِستِكْمال خَطِّي / استكمال خطي / اسْتِكْمالٌ داخِلِيٌّ خَطِّيّ
+linear leaf	وَرَقَة طُوليَّة / ورقة طولية
+linear list	لائحة خطية
+Linear logic	منطق خطى
+linear magnification	تَكْبير طُوليّ
+linear manifold	مُتَنَوِّعةٌ خَطِّيَّة
+Linear map	خريطة خطية / تَطْبيقٌ خَطِّيّ
+linear measure	مِقياسٌ طُولي / قياس خطي
+linear measurement	قِياس طُوليّ
+linear memory	ذاكرة خطية
+Linear Model	نموذج خطي / نَموذَجٌ خَطِّيّ
+linear modulation	تَضْمينٌ خَطِّيّ
+linear momentum	زَخْمٌ خَطِّيّ، كَمِّيَّة التَحَرُّك الخَطِّيّ
+linear motion	حَرَكَةٌ خَطِّيَّة
+linear motor	مُحَرِّكٌ خَطِّيّ
+linear network	شَبَكة خَطِّيَّة
+linear operator	عامل خطيّ / مُؤَثِّرٌ خَطِّيّ
+linear order	تَرْتيبٌ خَطِّيّ
+linear perspective	مَنْظورٌ خَطِّيّ (أو طُولي)
+linear polarization	استقطاب خطِّي
+linear power amplifier	مُضخِّمُ قُدرةٍ خَطِّيّ
+linear programming	بَرْمَجة خَطِّيَّة / برمجة خطية / بَرْمَجةٌ خَطِّيَّة
+linear range	مَدًى طُوليّ
+linear rectification	تَقْويم خَطِّيّ
+linear rectifier	مُقَوِّم خَطِّيّ
+Linear Regression	انحدار خطي / انحدار خطيّ / انْكِفاءٌ خَطِّيّ
+linear resistance	مُقاوَمة خَطِّية
+linear resistor	مُقاوِمٌ خَطِّي، مُقاوِم أُومِيّ
+linear roller-bearing	مَحْمِلٌ دُلْفينيٌّ خَطِّيّ
+linear sander	مَكَنةُ سَنْفَرةٍ (صَنْفَرةٍ) خَطِّيَّة
+linear scale	مِقياسٌ خَطِّيّ (أو طُولي) / تَدْريجٌ خَطِّيّ
+linear scan(ning)	مَسْحٌ خَطِّيّ؛ تفَرُّس خطِّيّ
+linear search	بحث خطي
+linear space	فَضاءٌ خَطِّيّ
+Linear spaced	موزَّع خطياً
+linear span	بَسْطةٌ خَطِّيَّة
+linear speed	سُرْعة خَطِّيَّة
+linear stopping power	قُدْرةُ الإيقاف الخَطِّيّ
+linear strain	اِنفِعالٌ خَطِّيّ
+linear structure	بنية خطية
+linear subspace	فَضاءٌ جُزْئِيٌّ خَطِّيّ
+linear sweep	مَسْحٌ خَطِّيّ (بِمَوجاتٍ أُشْرِيَّة)
+linear system	مَنْظومةٌ خَطِّيَّة
+linear tendency	نزعة خطيّة
+linear tetrad	رباعية خطية
+linear time base	قاعِدةٌ زَمَنِيَّة خَطِّيَّة
+linear topological space	فَضاءٌ طبولوجيٌّ خَطِّيّ
+linear transducer	مِحوالُ طاقةٍ خَطِّيّ
+Linear transfer	نقل خطى
+Linear transformation	تحويل خطي / تَحْويلٌ خَطِّيّ
+Linear type	نوع خطي
+linear velocity	سُرْعَةٌ خَطِّيَّة اتِّجاهيَّة
+linearity	خَطِّيّة / خطيّة
+linearity control	ضَبْطُ الخَطِّيّة؛ حاكِمُ سُرعةِ المَسْح
+linearly dependent	تَابِعٌ خَطِّيًّا
+linearly dependent curves	مُنْحَنِياتٌ مُرْتَبِطةٌ خَطِّيًّا
+linearly dependent functions	دَوالُّ مُرْتَبِطةٌ خَطِّيًّا
+linearly dependent quantities	كَمِّيَّاتٌ مُرْتَبِطةٌ خَطِّيًّا
+linearly dependent vectors	مُتَّجِهاتٌ مُرْتَبِطةٌ خَطِّيًّا
+linearly disjoint extensions	تَمْديدانِ مُنْفَصِلانِ خَطِّيًّا
+linearly graded	خَطِّيُّ التدَرُّج
+linearly independent	مُستَقِلٌّ خَطِّيًّا
+linearly independent equations	مُعادَلاتٌ مُسْتَقِلَّةٌ خَطِّيًّا
+linearly independent functions	دَوالُّ مُسْتَقِلَّةٌ خَطِّيًّا
+linearly independent quantities	كَمِّيَّاتٌ مُسْتَقِلَّةٌ خَطِّيًّا
+linearly independent vectors	مُتَّجِهاتٌ مُسْتَقِلَّةٌ خَطِّيًّا
+linearly ordered set	مَجْموعةٌ مُرَتَّبةٌ خَطِّيًّا
+linearly polarized	خَطِّيُّ الاستِقطاب، مُستَقطَبٌ اِستِقطابًا خَطِّيًّا
+linearly polarized wave	موجة مستقطبة خطيّاً
+lineation	تَخَطُّط، تَكْوين خَطِّيّ (صَخْريّ)
+lined	مُبَطَّن، مُصَفَّح؛ مُخَطَّط، مُقَلَّم
+lined bearing shell	لُقْمَةُ مَحْمِلٍ مُبَطَّنة
+lined well	بئر مُبَطَّنة، بئر مَطْوِيَّة
+linefeed	تلقيم سطر
+lineman	مُصَلِّحُ الخُطُوط، عامِلُ الأسلاك (الهاتفيَّة أو التلغرافية)؛ مُساعِدُ مَسّاح
+linen	كَتّان، تِيل؛ مَلابِسُ كتّانية؛ بَيَاضات؛ كَتّاني، تِيليّ
+liner	بِطانَة، قَمِيص؛ طَيّارةُ أو سَفينةُ خُطُوط
+liner, cylinder	بِطانةُ (أو قَميصُ) الأُسطُوانة
+lines of code	سطور من الرِّمَاز
+lines of communication	خُطُوطُ المُوَاصَلات
+lines of force	خُطوط القُوَّة
+lines of induction	خُطوطُ الحَثّ
+lines of latitude	خطوط العرض
+lines of longitude	خطوط الطول
+lines per minute	سطر في الدقيقة / سطور في الدقيقة
+lines, flow	خُطوط التَصَبُّب (عندَ تَجاوُزِ حَدِّ المُرُونة)
+lineshaft	عَمودُ مُناوَلَة عُلْوي
+linesman = lineman	عامِلُ أسلاك (الهاتِف أو التِلغراف)
+linger	تَباطأَ، تَوانَى، أبْطَأَ، تَعَوَّق
+lingification	تلجنن
+lingification of phloem	تلجنن اللحاء
+lingual artery	شريان لساني
+Linguist	لغوي
+linguistic	لُغَويّ، مُتَعَلِّق بعُلُوم اللُّغة
+Linguistic accuracy	الدقة اللغوية
+Linguistic based rule	قاعدة معينة مُستَنِدةٌ للغة
+Linguistic features	السمات اللغوية
+linguistics	اللِّسانيّات، الأَلْسُنيَّة، عِلْمُ اللُّغة / لسانيّات
+liniment	مَرْهَم، مَرُوخ
+lining	بِطَانة؛ تَبْطين
+lining brick	طُوبُ التَّبْطين
+lining fitch	فِرشاةُ خَطّ
+lining paper	وَرَقُ تَبْطين؛ ورقةُ باطن التجليد
+lining, brake	بِطانَةُ المِكبَح
+lining, refractory	بِطانةٌ صامِدَة لِلْحرارة
+lining-up	مُحاذاة، مُصافَّة
+link	حَلْقة، زَرَدة؛ وُصْلَة، رابط؛ مَفْصِل؛ مُوصِل؛ حَلْقَة؛ وَصَلَ، رَبَطَ، اِتَّصَلَ / 1 يربط ؛ 2 يربط / رَبْط / رابط
+Link Access Protocol Balanced (LAPB)	بروتوكول النفاذ الى الوصلة
+link belt (or belting)	سَيْرٌ مَفْصِليٌّ (ذُو وُصلات)
+link block	كُتْلة وُصلِيَّة مُنزَلِقَة
+link circuit	دَارةُ تَواصُل، دارة وَصيلة
+link control procedure	بُرُوتُوكُول التَّحَكُّم فِي الاِتِّصَال
+link coupling	تَقارُن تَواصُليٌّ، قَرْنٌ وَصْليٌّ
+link ejector bracket	كَتيفةُ اللاّفِظ (في سِلاح ناريّ)
+link line	سِلْكُ ارتِباط
+link mechanism	آليَّةُ الترابُط أو التقارُن
+link motion	حَرَكة وُصْلِيَّة
+link pin	مِسمارُ تَوصيل
+link rod	ذِراعُ تَوصيل مُساعِد
+Link rot	وصلة عفنة
+link time	1 مدة الربط ؛ 2 زمن الربط
+Link trainer	جِهازُ «لِنْك» للتدريبِ على الطَيَران، محاكي الطَيران
+link, chain	حَلْقةُ سِلْسِلة، زَرَدة
+link, connecting	ساعِدُ الوَصْل، حَلْقَةُ وَصْل
+link, coupling	حَلْقة الوَصْل (أو القَرْن)
+link, drag	ساعِدُ تَوْجيه؛ وُصْلةُ سَحْب
+link, fuse = fuse element	وُصْلَةُ المِصْهَر، فَاصِمة مُنْصَهِرة، صَهيرة
+link, isolating	وُصْلَةُ عَزْل
+link-time binding	إيثاق عند الربط
+linkabe	ارتباط، رابطة
+linkage	وُصْلِيَّة؛ تَرابُط إسهاميّ؛ تَرابُط، اِرتِباط؛ قُضْبانُ ارتِباط / رِباط / رَبْط / ارتباط في الوراثة / ارتباط المورثات
+linkage disequilibrium	اختلال الارتباط
+linkage editor	محرر روابط / محرر التوصيلات
+linkage group	مجموعة ارتباطية
+linkage groups	مجموعات ارتباطية
+linkage map	خريطة الارتباط
+linkage of factors	ارتباط العوامل
+linkage, double	تَرابُطٌ إسهاميّ مُزدَوِج
+Linke blue sky scale	سُلّم لَنْك لِزُرْقةِ السَّماء
+Linke turbidity factor	عَامِلُ لَنْك لِلعَكَر
+linked (or coupled) switches	مقاليدُ (أو مَفاتِيحُ) مُتَوَاصِلَة (أو مُتَقَارِنة)
+Linked data	بيانات مرتبطة
+Linked documents relationships	علاقات الوثائق المرتبطة
+linked factors	عوامل مرتبطة، عوامل مجتمعة
+linked genes	مورثات مرتبطة
+linked list	لائحة مترابطة
+Linked Open Data (LOD)	بيانات مفتوحة مرتبطة
+Linked to	موصل الى
+linker	وَصيل / رابط / موصل
+linker DNA	دنا رابط
+linking	تَوْصيل؛ اِنسِجام (التَّمْويه) / توصيل
+linking number	عدد الارتباطات
+linking-up	تَوْصيل، وَصْلٌ بِوُصْلات
+Links	وصلات
+links curve	مُنْحَني الحَلَقات
+linkwork	سِلْسِلة؛ مَجموعَةٌ آلِيَّةٌ مُوصَّلَة
+linn	شَلاّل، شاغُور؛ مَسِيل
+linnet	زقيقية
+linol(e)ic acid	حَامِضُ اللينوليك، حَمْضُ الكَتَّان
+linoleum	لينُوليُوم
+Linotron	لَيْنوترون
+Linotronic	لينوترونية
+Linotype	لَينُوتَيب، صَفّافة سَطريَّة؛ السَّبْك (أو الصَّفُّ) السَّطْريّ
+Linpack	[اختبار أداء] Linpack
+linseed oil	زَيتُ بِزْر الكَتّان / زيت بذر الكتان
+lint	ضِمادَة كَتّانِيَّة؛ نُسَالة مُعقَّمة لِلتَّضْميد
+lintel = lintol	ساكِف، عَرَقة، عاتِق
+linters	نُسالةُ القُطْن (العالِقة بالبزُور)
+Linux	[نظام] Linux / لينِكس
+Linz-Donawitz process	طَريقةُ «لِنْز» و«دونافيتس»
+lion	أسد
+lion (the)	أسد (ال...)
+lion's welp	شبل
+lioness	لبؤة
+Liouville function	دالَّةُ لِيوڤيل
+Liouville number	عَدَدُ لِيوڤيل
+Liouville's conic theorem	مُبَرْهَنةُ لِيوڤيل في المَخاريط
+Liouville's equation	مُعادَلةُ لِيوڤيل
+Liouville's theorem	مُبَرْهَنةُ لِيوڤيل
+Liouville, Joseph	جوزيف لِيوڤيل
+Liouville–Neumann series	مُتَسَلْسِلةُ لِيوڤيل-نويْمان
+lip	شَفَة، مِشْفَر؛ حَافَّة؛ طَرَفٌ قاطِع / شفة
+lip angle	زاويةُ الشَّفَة، زاويةُ القَطْع (حَوالى 60°)
+lip clearance	خُلوصُ الشَّفَة (نحوَ 130°)
+lip drill	مِثقابٌ مُشَفَّه
+lip gasket	حَشِيَّة شَفَويَّة (مانِعة لِلتَسَرُّب)
+lip microphone	مَيكروفون شَفَوي
+lip sync	مُزامَنة شَفَويَّة، تزامنٌ دقيق (بين الصوت والصورة)
+lip tube	أُنبوبٌ مُشَفَّه
+lip union	وُصْلَة (أنابيب) مُشَفَّهة
+lipase	لَيباز / ليباز
+lipid	شَحْم، دُهْن
+lipidic	شَحْمِيّ، دُهنيّ
+lipids	ليبيدات
+lipoid	شَحْمانيّ، شِبْهُ دُهْنيّ؛ مادَّة دُهنيَّة (في الأنسجة الحيَّة)
+lipoids	دهناوي
+lipolysis	تَحَلُّل الشَّحْم، اِنحلالُ الدُّهون (أثناءَ الهَضْم)
+lipoprotein	بروتينٌ شَحْميّ
+liposoluble	ذَوَّابٌ في الشَّحْم (أو الزيت)
+liposomes	جُسيمات شحمية
+lipped angle	زاويَة مُشَفَّهة
+lipped channel	مَجْرًى مُشَفَّه
+lipped flange	حافةٌ مُشَفَّهة
+lipping	تَشْفِيه، تَشْفير؛ شَفَةُ تَغْطِية
+LIPS	1 عنونة جزئية لبرنامج مستقلة عن اللغة ؛ 2 استدلال خطي في الثانية ؛ 3 مختطة مُخَفَّفة لـ [إيجاد] مشتركي إنترنت
+Lipschitz condition	شَرْطُ ليبْشِتْز
+Lipschitz function	دالَّةُ ليبْشِتْز
+Lipschitz integral	تَكامُلُ ليبْشِتْز
+Lipschitz mapping	تَطْبيقُ ليبْشِتْز
+Lipschitz, Rudolph Otto Sigismund	رودولْف أوتو سِجِسْمونْد ليبْشِتْز
+liquate	فَصَل بالصَّهْر
+liquation	الفَصْلُ بالصَّهْر
+liquefacient = liquefactive	مُسيِّل
+liquefaction	إسالة، تَسَيُّل
+liquefaction of gases	إسالةُ الغازات
+liquefiable	سَيُول
+liquefied	مُسَيَّل، مُسَال
+liquefied natural gas	غازٌ طَبيعيٌّ مُسَيَّل
+Liquefied Natural Gas (LNG)	الغاز الطبيعي المسال
+liquefied petroleum gas	غازُ نَفْطٍ مُسَيَّل
+Liquefied Petroleum Gas (LPG) – Butane Gas	مادة الغاز (LPG) غاز البيتان
+Liquefied Petroleum Gases (LPG)	الغازات البترولية المسالة
+liquefy	سَيَّلَ، أَسَالَ، تَسَيَّل، حَوَّلَ (أو تَحَوَّلَ) إلى سائِل
+liquescence	التَسيُّل، التَميُّع
+liquescent	مُتَسيِّل، مُتَمَيِّع
+liquid	سائِل / سائل
+liquid air	هَواءٌ سائِل
+liquid asphalt	أسفَلْت مائِع، قِير، قار
+liquid assets	الأُصولُ السَّائِلة
+liquid compass	بُوصلَة سائِليَّة
+liquid controller	مُتَحَكِّم سائِلي
+liquid coolant	مُبَرِّدٌ سائِل
+liquid cooling	التبريدُ بالسائِل، التبريد السائلي
+liquid crystal display	مظهار ذو بلورات سائلة / معراض سائل البلًور
+liquid crystal display printer	طابعة ذات بِلورات سائلة
+liquid crystals	بِلَّوراتٌ سائِلَة
+liquid damping	المُضاءَلَة بالسائِل
+liquid dimmer	خافِضُ إضاءةٍ سائِليّ
+liquid drier = soluble drier	مُجَفِّفٌ سائِليّ
+liquid extinguisher	مِطْفأة سائِليَّة
+liquid extraction	اِستِخلاصٌ سائِليّ
+liquid fuel	وَقُودٌ سائِل
+liquid gas	غازٌ سائِل (أومُسَيَّل)
+liquid gold	الذَهَبُ السائِل، البِترول
+liquid heat treatment	مُعالَجة سائلية حراريَّة
+liquid honing	صَقْلٌ سائلي
+liquid hybridization; solution hybridization	تهجين في السائل
+liquid hydrocarbons	هِدْروكربونات سَائِلة
+liquid hydrogen	هِدْروجين سائِل
+liquid insulator	عازِلٌ سائِليّ
+liquid limit	حَدُّ السُّيولة
+liquid measure	مِكيالُ سَوَائِل؛ نِظامُ قياسٍ للسوائِل
+Liquid Neural Networks	شبكات عصبية سائلة
+Liquid Oil Gas	الغازات البترولية السائلة
+liquid oxygen	أُكسجِينٌ سائِل
+liquid phase	طَوْرُ السُيُولة
+liquid pitch oil	كريُوزوت، زَيْتُ القار
+liquid propellant	داسِرٌ سائِل، وَقودٌ سائِل (للمُحَرِّك الصاروخي)
+liquid resistance	مُقاوَمة سَائِليَّة
+liquid rheostat	مُقاوَمة متَغَيِّرة سائِلِيَّة، مُقاوِمٌ مُتغَيِّر سائِليّ
+liquid rocket	صاروخٌ سائِليُّ الدّاسِر
+liquid spring	نابِضٌ سائِلي
+liquid starter	بادِئُ حَرَكةٍ سائِليّ
+liquid state	حالَةُ السُّيولة
+liquid thermometer	مِقياسٌ سائلِيٌ لدرجة الحرارة
+liquid, cooling	سائِلُ التبريد
+liquid, displaced	سائِل مُزَاح
+liquid-cooled	سائلي التبريد
+liquid-crystal display = LCD	عَرْضٌ ِبلّوريٌّ سائليّ
+liquid-expansion thermometer	ترمومتر سائِليّ
+liquid-level alarm	نَذيرُ (تغَيُّر) مَنسوب السائل
+liquid-level apparatus = Pascal’s vases	أواني «بَسْكال»، جِهازُ الأواني المُستَطرِقة (المُتَّصِلة)
+liquid-level gauge	مِقياسُ مُستَوى السائِل
+liquid-level indicator	مُبَيِّنُ مُستوى السائِل
+liquid-liquid extraction	استِخلاصٌ سائِليّ سائليّ
+liquid-penetrant inspection	فحصٌ بسائلٍ (فَلْوري) تَغَلْغُلي
+liquid-quenched fuse	صَهيرة سائلية الإخماد
+liquidate	صَفَّى (العَمَل)؛ سَيَّلَ
+liquidated damages	تَعْويضُ تَأخير
+liquidation	تَصْفية
+liquidity	سُيُولة، مُيُوعة
+liquidize	سَيَّل، مَيَّع
+liquidus (curve)	خَطُّ السُّيولة، خَطُّ التّسَيُّل
+liquor	سائِل، شَراب، مَحْلُولٌ مائيّ أو كُحوليّ
+liquorice = licorice	سُوس، عِرْقُ السُّوس
+liquostriction	تَقَبُّض سائِلي
+liroconite	لِيروكونيت
+lisoloid	غَرَوانيٌّ مائِعٌ صُلْب
+LISP	[لغة] LISP
+LISP (LISt Processing)	لِيسْپ، لغة بَرْمَجَة قوائِميَّة
+Lissajous curves	مُنْحَنِياتُ ليساجو
+Lissajous figures	أشكالُ «لِيساجُوس» / أَشْكالُ ليساجو
+list	قَائِمة، لائِحَة، ثَبْت، كَشْف، بَيان، جَدْوَل؛ حافة، حَرْف، حِتار؛ حاشية؛ قَلَم؛ مَيَلانُ السفينةِ إلى جانِب، جُنُوح؛ سَجَّلَ، أَدْرَجَ في قائِمة؛ عَدَّدَ؛ نَزَعَ قِطعةً طويلة ضَيِّقة مِن الحاشِية؛ جَنَحَ، مالَ، أَمَالَ / لائحة / قائمة
+list box	صندوق لائحة
+list compensation	مُعَادَلةُ الجُنوح
+list indicator	مُبَيِّنُ الجُنوح
+list price	سِعْرُ البيان
+list processing	معالجة اللوائح
+list processing language	لغةُ معالجة لوائح
+list sorting	فرز باللوائح
+list, active	خِدْمة فِعليَّة (في القُوّات المُسَلَّحة)
+list, price	جدوَلُ الأسعار، تَعْريفة
+listed	مُدْرَج
+listel	سُطَيحٌ ناتئٌ خُدِّي
+listen	أصْغَى
+listening	اِستِماع، إنصات، إصغاء
+listening circuit	دارَةُ استِماع
+listening key	مِفتاحُ إنصات
+listening post	مَركَزُ تَسَمُّع
+listening tentacle	مِجَسُّ تَسَمُّع
+listing	حافَّةُ أو حاشيةُ لَوحٍ ضَيِّقة؛ سَرْدٌ بياني / مَسْردة / عرض
+Listless	بدون قائمة
+listric fault	صَدْعٌ سُفْلِيُّ المَيْل، صَدعٌ مِلْعَقيّ
+listserv	قَائِمَةُ النَّشْر
+lit	مُضاء
+lit-par-lit	طبقة طبقة
+lit-par-lit injection	ألحَقْنُ طبقةً طَبَقة
+litchi	لتشية
+Lite	خفيف
+liter = litre	لِتر
+literacy	مَعرِفةُ القِراءة والكِتابة
+Literacy Rate	معدل الإلمام بالقراءة والكتابة
+literal	لَفْظِي، حَرْفي؛ خطأ حرفيّ / [كائن] حرفيّ / حرفي،لفظي / حرفي
+literal coefficient	مُعامِلٌ حَرْفيّ
+literal coefficients	معاملات حرفية
+literal constant	ثابت حرفي / ثابِتةٌ حَرْفِيَّة
+literal equation	مُعَادَلة حَرْفِيَّة / معادلة حرفية
+literal expression	عبارة حرفية / تَعْبيرٌ حَرْفِيّ
+literal notation	رُموزٌ حَرْفيَّة؛ تَرْميزٌ حَرْفيّ / تَدْوينٌ حَرْفِيّ
+literary	أدَبيّ
+literate	مُثَقَّف؛ مُتَعَلِّم، غيرُ أُمِّيّ
+literature	أدَب؛ مَجموعُ الكِتاباتِ عن مَوضوعٍ مُعَيَّن / المؤلفات / إنتاج الأدب/الإنتاج الفكري
+litharge	ألمَرْتَك، الليثارْج
+litharge cement = glycerine-litharge cement	لِصاقُ الليثارج (والغليسرين مَعًا)
+lithia	اللِّيثيا
+lithia emerald	زُمُرُّد اللِّيثيا
+lithic	حَجَرِيّ، صَخْريّ؛ لِيثيُوميّ
+lithification	تحَجُّر، تَصَخُّر، اِستِحجار / تحجُّر، تصحُّر / تحجر، تصحّر
+lithify	تَحَجَّر، اِستَحْجَرَ
+lithiophilite	لِيثْيُوفيلَيت
+lithium (Li)	لِيثيُوم
+lithium aluminium hydride	هِدْريدُ الألومنيوم الليثيوميّ
+lithium base grease	شَحْمٌ قاعِدتُه الليثيوم، شَحْمٌ ليثيوميُّ الأساس
+lithium carbonate	كَرْبونات الليثيوم
+lithium hydride	هِدْريد الليثيوم
+lithium hydroxide	هِدْروكسيد الليثيوم
+lithium ion battery	بطّاريّة شارديّة ليثيومية
+lithium mica	مَيْكا ليثيُوميَّة
+lithium minerals	مَعادِنُ الليثيوم
+lithoclase	صخور كلسية حطامية
+lithofacies	سَحْنَة صَخْريَّة / سِحنة صخرية / سحنة صخرية
+lithogeneous	بناء الصخر
+lithogenesis	علم نشأة الصخور
+lithograph	طَبْعة حَجَريَّة؛ طَبَع بِطَريقة الطِّباعة الحَجَرية
+lithographic (lime)stone	حَجَرُ الطِّباعة (الجيري)
+lithographic limestone	حجر الطباعة الكلسي
+lithographic printing	الطِّباعة الحَجَريَّة
+lithographic stone	حَجَرُ الطِّباعة / حجر الطباعة
+lithography	الطِّباعة الحَجَريَّة؛ الليثوغرافية
+lithology	عِلمُ خَصائِص الصُّخور (ميدانيًّا)، عِلْمُ الصفات الحجرية / علم وصف الصخور
+lithomarge	لِيثومارْج، مَرْلٌ حَجَري
+lithometeor	نَوْئيّةٌ لِخافِيَّة
+lithomorphic	ليتومورفي
+lithophile	أليفُ الصَّخْر
+lithophytes	نَباتاتُ الصخور
+lithopone	لِيثُوپُون
+lithosphere	المُحيط اليابِس / غلاف(ال...) الصخري / غلاف(...) الصخري / غلاف (ال…) الصخري
+lithostatic pressure	الضَّغْطُ الصَّخْريُّ السُّكونيّ
+litmus	عَبّادُ الشَّمس، صِبْغُ عَبّادِ الشمس
+litmus paper	وَرَقُ عبّادِ الشمس
+litmus solution	مَحْلولُ عبّاد الشمس
+litre	لِتْر / لتر
+litre-atmosphere	لِتْر ضَغْط جَوِّي
+litter	مِحَفَّة، نَقَّالة (إسعاف)؛ فَضَلات، نُفايات؛ دِمْنَة / فرش الغابة
+little	قَليل؛ صَغير
+little bear; ursa minor	دّب (ال...) الأصغر
+little endian	نُهَوي صغير
+little-end bearing	مَحْمِلُ النهايةِ الصُّغرى
+Littlewood conjecture	مُخَمَّنةُ لِتِلْوود
+littoral	ساحِليّ، سِيفيّ، شاطئِيّ؛ مِنْطَقة ساحِليَّة (بِخَاصَّةٍ المحصورة بين المَدِّ والجَزْر) / شَاطئ / شاطئ
+littoral deposits	رَواسِبُ ساحِلية
+littoral drift	جَرْف ساحِليّ
+littoral zone	مِنطَقة ساحليَّة، نِطاقٌ شاطِئيّ
+Littrow mounting	رَكُوبة «ليترو»
+lituate	أعْقَف، بُوقيُّ الانعِطاف
+lituus	بُوق، مُنْحَنٍ بُوقيّ / مُنْحَنٍ بوقِيّ
+Litz wire	سِلْك «لِتْز»
+live	حَيّ؛ نشيط؛ مُستَعِر؛ زاهي اللَّون؛ مُكَهْرَب، مُتَّصِلٌ بالكَهْرباء، مَشْحون بالكَهرباء؛ مُباشِر (البَثّ)، على الهَواء / 1 حيّ ؛ 2 حيّ ؛ 3 حيّ
+live ammunition	ذَخيرةٌ حَيَّة (مُجَهَّزة بصاعق)
+live axle	مِحوَرٌ دَوّار
+Live Birth	الولادة الحية
+Live Broadcast on Internet	البث الحي على شبكة الإنترنت
+Live CD	قرص حي
+live centre	ذَنَبة دَوّارة، ذَنَبةُ عَمود الدّوران (في المِخرَطة)
+live coal	فَحْم مُتَوهِّج
+live cycle	دورة الحياة
+live head = headstock	غُرابُ الرأس (في المِخْرَطة)
+live knot	عُقدةٌ حَيَّة
+live line	خَطٌّ مُكَهْرَب
+live load	حِمْلٌ حَيّ، حِمْلٌ مُتَحَرِّك
+live long	حي العالم
+live main	خَطٌّ رئيسيّ مَشْحون، مَجْرًى رئيسيٌّ نَشِط
+live matter	مادَّة حَيَّة
+live oil	زَيتٌ خام
+live pipe	أُنبوبٌ نَشِط
+live ring	مَحمِلٌ حَلْقيّ دَوّار
+live room	غُرفةٌ حَيَّة
+live spindle	شِياق دَوَّار، عَمودُ الدَوران (في غُراب الرأس لِلمِخرَطة)
+live steam	بُخارٌ حَيّ (مُنْدَفِعٌ منَ المِرْجَل مُباشَرةً)
+live steam injector	مِحْقَنُ البُخار الحَيّ
+live weight	الوَزْن النَّافِع أو المُسْتَفاد
+live wire	سِلْكٌ مُكَهْرَب، سِلكٌ حَيّ
+live-bearer	سمك ولود
+live-line indicator	مُبَيِّنُ تَكَهرُبِ الخَط (أو عَدَمِهِ)
+Live3D	[لغة] Live3D
+livelihood	رِزْق، سَبيلُ رِزق
+liver	كَبِد / كبد
+liver fluke	دودة الكبد
+liver lobule	فصيص كبدي
+liver ore = cuprite	كوپريت
+livering	تَخَثُّر (الدِّهان)
+liverwort	كَبِديَّة، حَزازِيَّة مُنْبَطِحة
+livestock	ماشِيَة، أَنْعام، مَواشٍ
+liveware	مَعلوماتيُّون
+livid	رَصاصيّ، أدكَنُ، أزرقُ مُسْوَدّ
+living force	قُوَّة طَبِيعيَّةُ الاِندفاع (كَقُوَّةِ الماء الجاري)
+living fossil	أُحْفورٌ حَيّ
+living fossils	أحياء أحفورية، أحياء مستحاثية / احياء أحفورية، أحياء مستحاثية
+living matter	مادة حية
+Living More than One Hour from School	نسبة الأفراد الذين تبعد مدرستهم بأكثر من ساعة واحدة للوصول عن مقر سكناهم
+living quarters	مَناطِقُ سَكَنِيَّة
+lixiviate	اِستَنَضَّ
+lixiviation	نَضٌّ، فَصْلٌ بالغَسْل، اِستِنْضَاض
+lixiviation vat (or tank)	راقُودُ نَضّ، مِركَنُ التَّصْفية
+lixivium	نَضيض، صُفاوة؛ مَحلولُ القِلْي المُصَفَّى
+lizard	عَظاءَة، سِحْليَّة، حِرْذون / عظاية
+LLM-as-a-Judge	نموذج لغوي كبير كحكم
+Lloyd’s mirror	مرآة «لُويد»
+ln	ln
+load	حِمْل، ثِقل، حُمولة، شِحْنة؛ تَحْميل؛ حِمْل؛ حَمَّلَ، وَسَقَ، شَحَنَ؛ أَلْقَمَ؛ حَمَّلَ / يُوسِق / 1 حِمْل ؛ 2 حِمْل ؛ 3 حِمْل / تَحميل / حِمْل، تحميل / حمولة
+load (water)line	خَطّ التحميل، خَطُّ الماء التحميلي
+load application	تَحْمِيل، تَسْلِيطُ الحِمْل
+Load balancing	موازنة الحِمل،موازنة التحميل
+load capacitor	مُكَثِّفُ تَحْميل
+load capacity	سَعَةُ التَّحْميل
+load cell	خَليَّةُ حِمْل
+load centre	مَركَزُ التَّحْميل
+load chain	سِلْسِلةُ التَّحميل (في المِرفاع أو البكّارة)
+load characteristic = operating characteristic	مُمَيِّزُ الحِمْل
+load circuit	دارَةُ التحميل، دارةُ الحِمْل
+load coil	مِلَفُّ التحميل (في مُسَخِّنٍ حَثِّيّ)
+load current	تيّارُ التَّحْميل
+load curve	مُنْحَني التَّحميل، مُنْحَني الحِمْل
+load despatcher	مُهندِسُ تَوزيع الطّاقة
+load diagram	مُخَطَّط الحِمْل، رَسمٌ بياني للحِمْل
+load displacement	الإزاحَةُ التحميليِّة
+load draught	غاطِسُ التحميل
+load equalizing	مُساواةُ الأحمال
+load factor	عامِلُ الحِمل، عامِلُ التَّحْميل؛ مُعامِلُ الحُمولة
+load fluctuation	تَراوُحُ الحِمْل
+load governing	ضَبطُ الحِمْل
+load impedance	مُعَاوَقَةُ الحِمْل
+load indicator	مُبَيِّنُ الحِمْل، دَليلُ الحِمْل؛ مُبَيِّنُ مُقاوميَّة الحَفْر
+load leads	مُوَصِّلاتُ الحِمْل (الكَهْرَبائِي)
+load life	عُمْرُ التحميل
+load limit	حَدُّ التَّحْميل
+load line	خَطُّ التَّحميل، خَطُّ الحُمُولةِ القُصوى
+load management	سِياسةُ الحمل
+load matching	مُواءَمةُ الحِمْل
+load metamorphism	تَحَوُّلٌ بالضَّغْط (أو بالحِمْل الضاغِط)
+load module	زُجْلَةُ تَحْميل، وَحدةُ تَحْميل (بَرامجيَّة) / نَسِيقَةٌ مُوسَقَة
+load point	نقطة الإيساق
+load program	بَرْنَامَجُ التَّحْمِيل
+load rating	تَقْديرُ الحِمْل
+load regulation	تَنْظِيمُ الحِمْل
+load regulator	مُنَظِّم الحِمل
+load release	إعتاقُ الحِمْل
+load resistance	مُقاوَمةُ الحِمْل؛ مُقاوَمَةٌ حِمْليَّة
+load sharing	تقاسم الإيساق
+load spread	اِنتِشارُ الحِمْل
+load stress	إجهادُ الحِمْل، إجهادُ الحُمولة
+load test	اِختِبارُ الحِمل
+load transfer switch	مِفتاحُ (أو مِقلاد) تَحْويل الحِمْل
+load variation	تَغَيُّر الحِمل، تغيير الحِمْل
+load, applied	الحِمْلُ المسَلَّط
+load, artificial	حِملٌ اصطِناعي
+load, axial	حِملٌ مِحوَريّ
+load, balancing	حِمْلُ التعديل، ثِقْلٌ مُوازِن
+load, basic	حُمولَة أساسيَّة
+load, bending	حِمْلُ حِنايَة
+load, breaking	حُمولَةُ الخَطَر؛ حِمْلُ الكَسْر
+load, combustible	حِمْلٌ حَروق؛ وَزْنُ المَحروقات
+load, compressive	حِملٌ ضاغِط
+load, concentrated	حِمْلٌ مُرَكَّز
+load, dead	وَزنُ المَركَبَة الفارِغة؛ حِمْلُ السكون، حِملٌ ساكِن
+load, designed	الحُمولة المُقرَّرة
+load, disposable	حِمْلُ التخَلُّص
+load, distribution of	تَوزيعُ الحُمولة
+load, dynamic	حِمْلٌ ديناميّ (حَرَكيّ)؛ الحُمولة أثناءَ الطيران
+load, empty	ألحِمْلُ الفارِغ
+load, fuel	وَزنُ الوَقُود
+load, full	الوَزنُ الكُلِّي (مع الحُمولة)، الحِمْل الكامِل، تَمامُ الحِمل
+load, gear	حِمْلُ المُسَنَّنات
+load, gross	الحِمْلُ الإجمالي
+load, limit	حِمْلٌ حَدِّيّ، الحُمولَةُ القُصْوى
+load, live	حِمْلٌ مُتَحَرِّك
+load, maximum	الحُمولَةُ القُصوى
+load, movable	حِمْلٌ مُتَنَقِّل (أو نَقُول)
+load, normal	حِملٌ عَمودي؛ حِملٌ عادِيّ
+load, pay	الحِملُ الآجِر
+load, peak	حِملُ الذُّروَة، الحِمْلُ الذُّرويّ
+load, prescribed	الحِمْلُ المُقَرَّر
+load, proof	حِملُ الصُّمود
+load, radial	حِملٌ شُعاعِيّ
+load, shear	حِملُ قَصّ
+load, static	حِمْلٌ إستاتيّ
+load, tensile	حِمْلُ شَدّ
+load, test	حِمل اختبار
+load, thrust	حِملٌ دَفعيّ (أو مِحْوَري)
+load, travelling	حِمْلٌ مُتَنَقِّل
+load, ultimate	الحِمْلُ الأقصى
+load, uniform	حِملٌ مُنتَظَم
+load, wing	حِملُ الجَناح
+load-and-go	يُوسَق فيُشَغَّل
+load-carrying capacity	السَّعة الحِمْليَّة
+load-extension curve	مُنحَني (عَلاقةِ) الحِمْل والامتِداد
+load-levelling relay	مُرَحِّلُ مَعادَلةِ مَنْسوب الحِمْل
+Loadable	قابل للتحميل
+Loadable kernel	نواة قابل للتحميل
+loadbearing wall	جِدارٌ حامِل
+loaded	مُحَمَّل؛ مُعَبَّأ، مَحْشُوّ
+loaded antenna	هَوائيٌ مُحَمَّل (بمُحاثَّةٍ على التوالي لِزيادةِ طُولِه المَوجيّ)
+loaded cable = loading cable	كَبْلٌ مُحَمَّل (بِمُحاثَّة تقلِّلُ التوهينَ عَبْرَ نِطاقِ تردُّداتٍ مُعيَّن)
+loaded circuit	دارَةٌ مُحَمَّلَة
+loaded column	عَمُود مُحَمَّل
+loaded concrete	خَرَسَانة مُحَمَّلة
+loaded impedance	مُعَاوَقة مُحَمَّلة
+loaded line	خَطٌّ مُحمَّل / خطٌّ مُوسَق
+loaded machine	مَكنَة مُحَمَّلة
+loaded spring	نابِضٌ مُحَمَّل
+loaded wagon	عَرَبةٌ مَشْحونة
+loaded water line	خَطُّ الماء التَّحْميلي
+loaded wheel	عَجلةُ (تَجْليخ) مُحَمَّلة
+loader	عامِلُ تَحْميل؛ مُحَمِّلة؛ مُعَبِّئة، وُصْلَةُ تَعْبئة أو شَحْن؛ مُحَمِّل / مُوسِق
+loader routine	مَسَاقُ إيسَاق
+loading	تَحْميل، حُمولة؛ شَحْن، تَعْبِئة، إلقام؛ نَفَقاتٌ إضافيَّة؛ تَذْخير (المدْفَع أو البُنْدُقيَّة)؛ تَحْمِيلٌ بمُحاثَّة؛ شَحْن
+loading arm	ذِراعُ تَحْميل، ذِراعُ تَعْبِئة
+loading belt	شَريطُ الإلقام
+loading boom	ذِراعُ تَحْميلٍ مُعَلَّق
+loading chart	خَريطةُ التَّحْميل
+loading chute	مَجْرَى أو مَسْقط التحميل
+loading coil	مِلَفُّ تَحميل
+loading disc	قُرْصُ تَحْميل
+loading float	عامة تَحْميل
+loading gauge	مُحَدِّدُ قِياس التَّحميل، مِقياسُ تَحْديد الحُمولة
+loading gear	جِهازُ الإلقام
+loading lever	عَتَلَةُ الإلقام
+loading limit	حَدُّ التَّحْميل
+loading line	خَطُّ التَّحميل، خَطُّ الحِمْل
+loading mechanism	آليَّةُ الإلقام
+loading of engine	تَحْميلُ المُحرِّك
+loading of firearm	تَذْخيرُ السِّلاح الناري
+loading outfit	مُعدَّات التحميل؛ جِهازُ الإلقام
+loading port	فُتْحَةُ الشَّحْن
+loading position	وَضعِيَّة الإلقام (للمِدفَع)
+loading rack	مِنَصَّةُ تَحميلٍ أو تَعبِئة
+loading ramp	مِنصَّةُ تَحْميل؛ مَعْبَر تَحميلٍ مُنْحَدِر
+loading shovel	مِجْرافُ تَحميل
+loading station	مَحطَّةُ تَحميل
+loading strip	مِشْطُ ذَخيرة، شَريطُ إلقام
+loading terminal	فُرْضةُ تَحْميل
+loading tray	صِينيَّة الإلقام
+loading, power	عامِلُ تَحميل القُدرة
+loading, span	التَّحميلُ الباعِيّ
+loading, uniform	تَحْميل مُنتَظَم
+loading, unsymmetrical	تَحْمِيلٌ غيرُ مُتَماثِل
+loading, wing	مُعَدَّلُ تَحْميل الجَناح
+loadstone = lodestone	حَجَرُ المغنَطيس
+loaf	رَغيف؛ قُرْص؛ تَسَكَّعَ
+loam	طُفال رَمْليّ (للسِّباكة)؛ تُرْبة رَملية طينية، تُربةٌ صَفراء / لوم، ليمون
+loam board	لَوحُ تَسويةِ الطُّفال الرملي
+loam bricks	طُوبٌ مِن الطُّفال الرملي
+loam mill	طاحونةُ خَلْطِ الطُّفال الرملي
+loam plates	ألواحٌ (من حَديدِ الزَّهر) لِحَملِ قَوالِب الطُّفال الرمليّ
+loamy clay	صَلصَالُ الطُّفال الرَّملي
+loan	قَرْض (ماليّ)؛ أقرَضَ، أعارَ
+Loans	القروض
+Lobacheveskian geometry	هندسة لوباشفسكي
+Lobachevskian geometry	هَنْدَسةُ لوباتْشيفْسْكي
+Lobachevsky geometry	هَنْدَسةُ لوباتْشيفْسْكي
+Lobachevsky, Nikolai Ivanovich	نيكولاي إيڤانوفيتْش لوباتْشِفْسْكي
+lobate	مُفَصَّص، ذُو فُصوص (أو فِلْقات) / مفصص
+lobby	بَهْو، رَدْهة، دِهليز
+lobe	وَقْبَة، نُتوءٌ مُستَدير؛ فَصّ، فِلْقَة؛ شَحمَة (الأُذُن)؛ وَقْبةٌ عاليةُ الاستجابة / فَصٌّ، فَلْقَة، وَقْبَة / فص فلقة / فصّ
+lobe switching = beam switching	تَبْديلٌ وَقْبيّ، تَبْديل حُزْميّ
+lobe, cam	نُتوءُ الكامة
+lobed	مُفَصَّص
+lobed leaf	ورقة مفصصة
+lobelia	لوبيلية
+lobing	تَفَصُّص
+lobsided	مُنكَفِئ، مائلٌ إلى جانِب
+lobster	كَرْكَنْد، جرادُ البَحْر / سرطان البحر
+lobster shift	نَوبةُ عملٍ لَيليّ
+lobular	فصيصي
+lobulate	مفصص
+local	مَوضِعيّ، مَحَلِّي / مَحَلِّيّ / محلِّي
+local (or beating) oscillator	مُذَبذبٌ مَوضِعي، هَزَّازٌ خَفْقيّ (أو ضارِب)
+local action	فِعْل مَوضِعيّ؛ تأكُّلٌ مَوضِعيّ (على سَطْح المَعدِن)
+local algebra	جَبْرٌ مَحَلِّيّ
+local amplifier	مُضَخِّمٌ مَحَلِّيّ
+Local and Foreign Channels and Broadcasts	القنوات والإذاعات المحلية والأجنبية
+local anomaly	شذوذ محلي
+local area network	شبكة محليّة [الامتداد] / شبكة منطقة محلية
+local area network (LAN)	شَبَكَةٌ مَحَلِّيَّة / الشبكة المحلية (LAN)
+local area network = LAN	شبَكةٌ مَحليَّةُ النِّطاق
+local attraction	تَجاذُب مَوضِعيّ (يؤدِّي إلى انحِراف البوصَلة عن خَطِّ الزوالِ المِغنطيسي)
+Local Banks	المصارف المحلية
+local base	قاعِدةٌ مَحَلِّيَّةٌ (أساسٌ مَحَلِّيّ)
+local battery	بَطّارِية مَحَلية
+local bus	مسرى محلي / حافلة محلية
+local bypass	تَخَطٍّ محلّيّ
+local call	مُكالَمة مَحَلِّية
+local control	تَحَكُّم مَحَلِّي
+local coordinate system	مَنْظومةُ إحْداثِيَّاتٍ مَحَلِّيَّة
+local coordinates	إحْداثِيَّاتٌ مَحَلِّيَّة
+local correlation	مُضاهاة مَحلِّيَّة
+Local data sources	مصادر بيانات محلية
+Local disk	قرص محلًي
+local distortion	تَشْويهٌ مَحَلِّيّ
+local diversion	تَحْويل مَحَلِّي
+Local echo	صدى محلًي
+local exchange	مَركزُ التبادُلِ المَحَلِّي، مَقْسِمُ الهاتِف المَحَلِّي
+local extension	اِمتدادٌ مَوضِعي
+local fault	صَدْعٌ مَوضِعيّ
+local feature	مَعْلَمٌ مَحَلِّي
+Local file	ملف محلي
+local forecast	تنبؤ جوي محلي
+local fundamental neighborhood system	مَنْظومةُ جِواراتٍ أساسِيَّةٍ مَحَلِّيَّة
+local group	1 زمرة محلية ؛ 2 زمرة محلية
+Local host	مضيف محلي
+local junction circuit	دارةُ اتِّصال مَحَلِّية
+local lesions	بثرات موضعية
+local lightning counter; ceraunometer	مِقياسُ البرق المحلي
+local loop	دارة محلية / حلقة محلية
+local magnetic variation	تَغَيُّر مِغنَطيسيّ مَحَلِّي
+local main exchange	المَقْسِمُ (ألسنترالُ) الرئيسيُّ المحَلِّي
+local maximum	قيمةٌ عُظْمَى مَحَلِّيَّة
+local mean time	وَقْتٌ مُتَوسِّط مَحَلِّيّ
+local memory	ذاكرة محلية
+local meridian	خَطُّ الزَّوال المَحَلِّي
+local metamorphism	تَحَوُّلٌ مَحَلِّي أو موضعي
+local minimum	قيمةٌ صُغْرَى مَحَلِّيَّة
+local mode	مِنْوَالٌ مَحَلِّي
+local newsgroups	مجموعاتٌ أخباريةٌ محلية
+local pattern	نَمَطٌ مَحَلِّي
+local precipitation	تَساقُطٌ مَحَلّيّ
+local property	خاصِّيَّةٌ مَحَلِّيَّة
+local quasi-F martingale	شِبْهُ الحَكَمَةِ-F المَحَلِّيَّة
+local rates	الأسعارُ المَحَليَّة
+local reboot	إعادة إقلاع محلي
+local reception	اِستِقبالٌ مَحَلِّي
+local ring	حَلَقةٌ مَحَلِّيَّة
+local solution	حَلٌّ مَحَلِّيّ
+local time	تَوقيتٌ مَحَلِّي، وَقتٌ مَحَليّ / زمن محلي
+local transformation	تَحْويلٌ مَحَلِّيّ
+local variable	مُتَغَيِّر محلِّيّ / متغيًر محليً
+local vent	فُتحةُ تَهْوية مَوضِعيِّة
+local vertical	شاقول
+local wind	رياح مَحَلِّيَّة
+locale	مَوقِع، مَوضِع / محلية
+localhost	مضيف محلي / مُضيف محلي
+locality	مَوْضِع، مَكان، جِهَة
+locality, strategic	نُقطَة استراتيجيَّة
+localization	تَعيينُ المكانِ أو المَوضِع، تَحديدُ المَوقِع؛ حَصْر / مَوْضَعَة / توطين
+localize	مَركَزَ
+localized fusion	صَهْرٌ مَوضِعي
+localized vector	مُتَّجِهٌ مُحَدَّد
+localizer	مُحَدِّدُ المَوقِع
+localizer beacon	مَنارةُ تَحْديد المَوقِع
+locally arcwise connected topological space	فَضاءٌ طبولوجيٌّ قَوْسِيُّ التَّرابِطِ مَحَلِّيًّا
+locally compact topological space	فَضاءٌ طبولوجيٌّ مُتَراصٌّ َمَحَلِّيًّا
+locally connected topological space	فَضاءٌ طُبولوجِيٌّ مُتَرابِطٌ مَحَلِّيًّا
+locally convex	محدب محليّا
+locally convex space	فَضاءٌ مُحَدَّبٌ مَحَلِّيًّا
+locally convex topology	طبولوجيا مُحَدَّبةٌ مَحَلِّيًّا
+locally Euclidean topological space	فَضاءٌ طبولوجيٌّ إقْليدِيٌّ مَحَلِّيًّا
+locally finite family of sets	جَماعةُ مَجْموعاتٍ مُنْتَهِيَةٍ مَحَلِّيًّا
+locally integrable function	دالَّةٌ كَمولةٌ مَحَلِّيًّا
+locally one to one function	دالَّةٌ مُتَبايِنةٌ مَحَلِّيًّا
+locally symmetric space	فَضاءٌ تَناظُرِيٌّ مَحَلِّيًّا
+locally trivial bundle	حُزْمةُ ألْيافٍ تافِهةٌ مَحَلِّيًّا
+Locally Weighted Regression (LWR)	انحدار موزون محليًّا
+LocalTalk	[أسلوب] LocalTalk
+locate	حَدَّدَ المَوقِعَ أو المَوضِع؛ أقامَ أو وَضَعَ في مَكانٍ مُعَيَّن
+locating button	زِرُّ التحديد أو التعليم
+locating pin	مِسمارُ تَحْديد المَوقِع
+locating slot	شَقْبُ تحديدٍ
+location	مَوقِع؛ تَحْديدُ المَوقِع؛ مَوقِعُ تَخْزين / موضع / مَوْضِع / موقع
+Location Data	بيانات الموقع
+location plan	مُخَطَّط المَوقِع
+location principle	مَبْدَأُ تَحْديدِ المَوْقِع
+location problems	مَسائِلُ تَحْديدِ المَوْقِع
+location surveying	مَسْحٌ تَحْديديّ
+location tag	عُرْوةُ تَحْديد المَوقِع
+location theorem	مُبَرْهَنةُ تَحْديدِ المَوْقِع
+Locative preposition	أداة المكان / المشير المكاني
+locator	مُحَدِّدُ المَوقِع؛ مَعْلَم؛ جِهازُ تَحديدِ مَصْدَر الصَّوت / محدد المواقع
+locator beacon	مُحَدِّدةُ المَوقِع، مَنارةُ تحديدِ المَوقِع
+locator, electronic pipe	مُحَدِّد إلِكترونيّ لِمَوقِع الخَطّ (المَغْمور)
+locator, fault	مُحدِّد موقع العُطل
+loci (pl. of locus)	المَحالُّ الهندسية
+lock	قُفْل، غَلَق، مِحْبَس، كَيْلُون، رِتاج؛ عائِق حَرَكة، مِتْرَس؛ هَوِيس؛ رِتاجُ الزِّناد، آليَّة الأمان؛ أقفَلَ، أرتَجَ، اِنقَفَل؛ زَنَقَ، حَبَسَ؛ أعاقَ؛ أمَرَّ (السفينة) عَبْر هَوِيسات القَناة / 1 قُفْل ؛ 2 قُفْل / قفل
+lock and key hypothesis	فَرْضيَّة القُفْل والمِفتاح (في تَفْسير خَصائصِ الأنزيمات)
+lock ball	كُرةُ المِحْبَس
+lock bolt	مِزْلاج؛ مِحْزاقُ زَنْق
+lock channel	قناةُ الهويس
+lock hook	خُطّاف القَفْل
+lock knob	مِقْبَضُ الإرتاج
+lock pin	مِسمارُ إحكام أو زَنْق
+lock rail	عارِضةُ القُفل
+lock ring	حَلْقةُ إحكامٍ أو زَنْق
+lock screw	بُرْغي إحكام، لَولَبُ زَنْق
+lock seam	دَرزةُ القَفْل
+lock sill	عَتَبةُ (بوّابةِ) الهَوِيس
+lock spring	نابضُ القُفْل
+lock stile	قائم (أو عِضادة) القُفل
+lock up	إقفال
+lock washer	فَلْكَةُ إحكام، حَلْقَةُ زَنْق
+lock wire	سِلكُ تَثْبيت؛ سِلكُ الكَبْح
+lock(ing) mechanism	آلِيَّة إقفال أو زَنْق
+lock(ing) nut	صَمُولَةُ زَنْق
+lock(ing) pin	مِسمارُ زَنْق أو إحكام
+lock(ing) plate	لَوحةُ زَنق أو إحكام
+lock(ing) ring	حَلْقَةَ زَنْقٍ أو تَثْبيت
+lock(ing) screw	لَولَب التثبيت
+lock(ing) stile	قَائِمُ تَثْبيت القُفْل
+lock, air	دِسام هَوائيّ
+lock, automatic	قُفْلٌ أُوتوماتيّ، رِتاج تِلْقائيّ
+lock, dial	قُفلٌ مَداليّ
+lock, firing	رِتاجُ القَدْح
+lock, ignition	مِحْبَسُ الإشعال
+lock, steering	قُفْلُ المِقْوَد
+lock, vapo(u)r	دِسام بُخاري، عائِق بُخاري
+lock-bay	حَوْزُ الهَويس، حوضُ الهويس
+lock-gate	بَوّابةُ الهَويس
+lock-in	طابَقَ؛ مُطابَقة
+lock-in amplifier	مُضَخِّمُ مُطابَقة
+Lock-in Attack	هجوم القفل
+lock-in base	قاعِدة إحكامٍ أو زَنْق
+lock-joint dividers	فِرجارُ تَقْسيمٍ بِمَفْصِلٍ زَنْقي
+lock-o-ring	زانِقة
+lock-out	إِزْلاج
+lock-paddle	قَناةُ (مَلْءِ) الهَوِيس
+lock-stitch	دَرْزَةُ زَنْق
+lock-up	حَبْس، سَجْن
+lock-up relay	مُرَحِّل اِنقِفاليّ
+lock-woven mesh	شَبَكَة (خَرَسانةٍ) مُثَبَّتةُ الأسلاك
+lockage	إمرارُ السفينة عَبْر هَوِيسات القَناة؛ الماءُ المنقولُ لهذا الغَرَض؛ رَسْمُ هذا المُرور
+locked	مُقفَل، مُغْلَق، مُعاق؛ مُرتَج / مؤمّن
+locked (or eccentric) groove	حَزُّ الخِتام (في أُسطُوانةٍ مُسَجَّلة)، مَجَرٌّ مُرْتَج
+locked controls	أسطحُ تَوْجيهٍ مُعاقةُ الحَرَكة
+locked file	1 ملف مُقْفَل ؛ 2 ملف مُقْفَل / ملف مقفول
+locked oscillator	مُذَبْذِب مُرتَج
+locked volume	مَوْسِعٌ مُقْفَل
+locked-cover switch	مِقْلادٌ مُرْتَجُ الغِطاء، مِفتاحٌ بغطاءٍ يُقفَل
+locked-up stress	إجهادٌ مُتَخَلِّف
+locker	خِزانَة، صِوانٌ أو دُرْجٌ يُقفَل
+locking	قَفْل، إحكام، زَنْق؛ إعاقة؛ التحَكُّمُ في تردُّدِ دارةٍ تذبذُبيَّة / إقفال / إقفال، إغلاق
+locking (-jaw) pliers	زردية زَنق
+locking arrangement	تَرْتيبَةُ قَفْل
+locking bolt	لِسانُ إرتاج، مِزلاج
+locking circuit = holding circuit	دارةُ إيصاد
+locking device	نَبيطةُ إقفال
+locking gear	جهازُ إقفال
+locking key	مِفتاحُ إقفال (يُشغَّلُ باليد)
+locking knob	مِقْبَضُ زَنْق
+locking latch	سَقّاطَةُ زَنْق
+locking lever	ذِراعُ زَنْقٍ أو تَثْبيت
+locking pawl	سَقّاطةُ الإغلاق
+Locking Protocol	برتوكول الاقفال
+locking relay	مُرَحِّلٌ (تلفونيٌّ) غيرُ مُرتَدّ؛ مُرَحِّل إقفال (أو تَعطيل)
+locking switch	مِفتاحٌ (بغطاءٍ) انغِلاقي، مِقلادٌ إرتاجي
+locking washer	فَلكةُ زنقٍ أو تثبيت
+locking wire	سِلكُ الكَبح
+locking-on	مُتابَعةُ الهَدَفِ بالرادار أُوتوماتيًّا
+locknut	صَمُولَة زَنْق، حَزَقَةُ التثبيت
+lockout	إغلاق؛ إيصاد / حجْبُ [النفاذ]
+lockout circuit	دارةُ إيصاد، دارةُ إغلاق
+lockover	دارةٌ ثُنائيَّة الاستِقرار
+lockram	لُكْرام
+lockrand	مِدماك رَبط
+locksmith	صانِعُ الأقفال
+locomotion	تَنَقُّل، تَحرُّك، اِنتِقال / تنقل
+locomotive	قاطِرة؛ اِنتقاليّ؛ مُتَحَرِّك؛ مُحَرِّك
+locomotive boiler	مِرْجَلُ قاطِرات، غَلاّية القاطِرة
+locomotive crane	مِرْفاعٌ قاطِريّ
+locomotive haulage	نَقْلٌ بالقاطِرات
+locomotive organs	أعضاء الحركة
+locomotive, steam	قاطِرة بُخاريَّة
+locomotor	تَحَرُّكيّ، حَرَكيّ
+locule = loculus	بَيتُ البِزْرة
+loculicidal dehiscence	انتفاح مسكني
+loculus	غريفة، مسكن
+locus	محلّ هندسي / مَحَلٌّ هَنْدَسِيّ / موقع المورِّث
+locus (pl. loci)	مَحَلّ هَنْدَسيّ؛ مَوضِع
+locust	جَراد / جراد
+locust-bean	خرنوبة
+locust-tree	خرنوب
+lodar	لُودار
+lode	قَناة، مَمَرٌّ مائي؛ عِرْقٌ مَعدِني
+lode deposits	رواسب نسق، شبكة عروق / رواسب نسق، شبكة العروق
+lode ore	ركاز خام
+lode; vein	عِرْق / عرق
+lodestone = loadstone	حَجَرُ المِغنَطيس
+lodestone; loadstone	حجر المغناطيس / حجر المغناطيسي
+lodestuff	مُكَوِّناتُ العِرْق المَعدِني
+lodge	آوَى، أودَع؛ وَضَعَ؛ سَكَنَ، أقامَ، قَطَنَ؛ مَأْوى؛ مُستَودَع
+Lodge valve = ionic valve	صِمامُ «لودج»، صِمامٌ ثرميوني
+lodgement = lodgment	إيواء، إيداع؛ إدخال، وَضْع، تَبْييت
+lodging	إقامة، سُكْنَى؛ مَنْزِل
+lodicule	فليسة
+loess	تُرْبة اللوس / لوس، طين / لوس
+lofar (low frequency acquisition and ranging)	لُوفار
+Loffler boiler	مِرْجَلُ «لُوفْلَر» (العالي الضغط)
+loft	عِلِّيَّة، سُدَّة، سَنْدرة
+lofty	سامِق، شامِخ، عالٍ
+log	كُتْلَة خَشَبِيَّة، جِذْعُ شَجَرة (معَدٌّ للنَّشْر أو القَطْع)؛ سِجِلّ؛ سِجِلُّ الحَفْر؛ سِجِلُّ الأداء؛ قَطَعَ (الشجرَ)، اِحتَطَبَ؛ قَطَع (مسافةً)؛ سَجَّلَ (السرعةَ أو التقَدُّم) / 1 قيد [الأعمال] ؛ 2 لغارتم / يَوْمِيَّةُ الْمَتْن / سجل / log / سِجِلٌّ
+log (abbrev. for logarithm)	لو
+log (geothermal ...)	رسم بياني للحرارة الأرضية
+log (geothermal log)	رسم بياني للحرارة الأرضية
+Log file	ملف السجل / ملف القيد / ملف سجل
+log in	يطلب [السماح بـ] الدخول
+log line	خَطُّ قياسِ سُرعة السفينة؛ سِلْكُ السَّبْر
+Log Loss	خسارة لوغاريثمية
+Log Odds	احتمالات لوغاريثمية
+log off	يطلب الخروج / إِغْلاق
+log on	يطلب [السماح بـ] الدخول
+log out	يطلب الخروج
+log paper	وَرَقةُ رَسْمٍ لُغارِتْمِيَّة
+log saw	مِنشارُ أجذاع
+log tables	جَداوِلُ لُغارِتْمِيَّة
+log-in	تسجيل دُخول (إلى الحاسوب)
+log-o-graf	مُسَجِّلُ تَقَدُّمِ الحَفْر
+log-out	تَسجيل خُروج
+log-periodic antenna	هوائي دَوري لُوغاريتمي
+loganberry	فرامبوازة
+logarithm	لُوغاريتم / لوغارتم / لوغاريتم / لُغارِتْم
+logarithmic	لُوغاريتميّ
+logarithmic (adj)	لُغارِتْمِيّ
+logarithmic amplifier	مُضَخِّم لوغاريتمي
+logarithmic calculation	حساب لوغاريتمي
+logarithmic chart	مُخَطَّطٌ لُوغاريتمي؛ خَريطة لُوغاريتميَّة
+logarithmic coordinate paper	وَرَقةُ رَسْمٍ بِإحْداثِيَّاتٍ لُغارِتْمِيَّة
+logarithmic coordinates	إحداثِيّاتٌ لُوغارِيتميَّة / إحْداثِيَّاتٌ لُغارِتْمِيَّة
+logarithmic curve	مُنْحَنٍ لُوغاريتميّ / منحن لوغاريتمي / مُنْحَنٍ لُغارِتْمِيّ
+logarithmic decrement	تَنَاقُصٌ لُوغاريتميّ
+logarithmic derivative	مشتقة لوغاريتمية / مُشْتَقٌّ لُغارِتْمِيّ
+logarithmic differentiation	تَفاضُلٌ لُوغاريتمي، مُفاضَلة لوغاريتمية / مُفاضَلةٌ لُغارِتْمِيَّة
+logarithmic distribution	تَوْزيعٌ لُغارِتْمِيّ
+logarithmic equation	معادلة لوغاريتمية / مُعادَلةٌ لُغارِتْمِيَّة
+logarithmic function	دالّة لُوغاريتميَّة / دالة لوغاريتمية / دالَّةٌ لُغارِتْمِيَّة
+logarithmic horn	بُوقٌ لُوغاريتميّ
+logarithmic integral	مُتكامِلٌ لوغاريتمي / تَكامُلٌ لُغارِتْمِيّ
+logarithmic mean	المتوَسِّط اللوغاريتمي
+logarithmic scale	مِقياسٌ لُوغاريتمي؛ سُلَّمٌ لُوغاريتميّ التَّدريج / تدريج لوغاريتمي / تَدْريجٌ لُغارِتْمِيّ
+logarithmic series	مُتَسَلسلَة لوغاريتميَّة / متسلسلة لوغاريتمية / مُتَسَلْسِلةٌ لُغارِتْمِيَّة
+logarithmic spiral	حَلَزون لُوغاريتمي (ثابِتُ الزّاويَة) / حلزون لوغاريتمي / حَلَزونٌ لُغارِتْمِيّ
+logarithmic table	جدول اللوغاريتمات
+logarithmic tables	الجَداوِلُ اللوغاريتميَّة
+logarithmic transformation	تَحْويلٌ لُغارِتْمِيّ
+logarithmic trigonometric function	دالَّةٌ مُثَلَّثاتِيَّةٌ لُغارِتْمِيَّة
+logarithmic velocity profile	مقطع السرعة اللوغاريتمي
+logarithmically convex function	دالَّةٌ مُحَدَّبةٌ لُغارِتْمِيًّا
+logatom	لوغاتُوم
+logbook	سِجِلُّ الحَفْر، سِجلُّ الأداء؛ سِجلُّ السفينة أو الطائرة
+logged	مُثْقَل، مُعاق (جُزئيًّا أو كُليًّا)
+logger	مُسَجِّل؛ قَطّاعُ أخشابٍ حِراجيَّة
+logging	تَسْجيلُ الأداء، تَسْجيلُ تقَدُّم الحَفْر أو نَتائِجِه
+logic	مَنْطِق / منطق / منطق (ال...)، منطقي
+logic analyser	مُحَلِّلٌ مَنطِقيّ
+logic analyzer	محلل منطقي
+logic array	صفيفة منطقية
+logic board	بطاقة (لوحة) منطقية
+logic bomb	قنبلة منطقية
+logic chip	رقاقة منطقية
+logic circuit	دارة منطقية
+logic conjunction	عطف منطقي
+logic design	1 تصميم منطقي ؛ 2 تصميم منطقي ؛ 3 تصميم منطقي
+logic diagram	مخطط منطقي
+logic element	عُنْصُر مَنطِقي
+Logic emulator	محاكى منطقى
+logic error	خطأ منطقي
+logic function	دالّة منطقية
+logic gate	بوابة منطقية
+logic operation	عملية منطقية
+logic programming	بَرمجة مَنطقية / برمجة منطقية
+logic programming language	لغة برمجة منطقية
+logic symbol	رمز منطقي
+logic tree	شجرة منطقية
+logic value	قيمة منطقي
+Logic variable	متغييرة منطقية
+logic-seeking printer	طابعة بالبحث المنطقي
+logical	مَنْطِقيّ؛ مَعْقول / مَنْطِقي / منطقي
+logical add	جَمْع مَنْطِقِيّ
+logical addition	جَمْعٌ مَنْطِقِيّ
+Logical address	عنوان منطقي
+logical cohesion	تلاحم منطقي
+logical comparison	مُقارَنة مَنْطِقيَّة
+logical connectives	رَوابِطُ مَنْطِقِيَّة
+logical consequence	نَتيجةٌ مَنْطِقِيَّة
+logical data model	نموذج معطيات منطقي
+logical database	1 قاعدة معطيات منطقية ؛ 2 قاعدة معطيات منطقية ؛ 3 قاعدة معطيات منطقية
+logical decision	قرار منطقي
+logical device	تجهيزة منطقية
+Logical disk	قرص منطقي
+logical drive	مِسوَق منطقي
+logical equivalence	تكافؤ منطقي
+logical error	خطأ مَنْطقي / خطأ منطقي
+logical expression	تعبير منطقي
+logical file	ملف منطقي
+logical format	مَصاغة منطقية
+logical function	دالَّةٌ مَنْطِقِيَّة
+logical link control	تحكم في الوُصلة المنطقية
+logical multiplication	ضَرْبٌ مَنْطِقِيّ
+Logical network	شبكة منطقية
+logical operation	عملية مَنْطِقيَّة
+logical operator	مؤثِّر منطقي
+logical reasoning	استدلال منطقي
+logical record	تسجيلة منطقية
+Logical relation	علاقة منطقية
+logical schema	مختطة منطقية
+logical segment	مُقتطَع منطقي
+logical shift	إزاحةٌ مَنطِقيَّة / تغيير منطقى
+Logical shift left	تغيير منطقى يسارى
+Logical shift right	تغيير منطقى يمينى
+logical symbol	رَمْزٌ مَنطِقي
+logical type	نوع "منطقي"
+logical unit	وَحْدَةٌ مَنْطِقِيَّة
+Logical-hostname	أسم مضيف منطقي
+logically equivalent statements	تَقْريرانِ مُتَكافِئانِ مَنْطِقِيًّا
+login	طلب [السماح بـ] الدخول / فَتْح / ولوج / طلب تسجيل الدخول
+Login directory	دليل الولوج
+Login name	اسم الولوج
+Login prompt	محث الولوج
+Login Sessions	جلسات الدخول
+Login shell	صدفة ولوج
+logistic	مَنْطِقي؛ لُوجِسْتيّ، سَوْقيّ؛ الحِسابُ السِّتوني
+logistic curve	مُنْحَنٍ سَوقيّ / مُنْحَنٍ مَنْطِقِيٌّ رَمْزِيٌّ (لوجستيّ)
+logistic distribution	تَوْزيعٌ مَنْطِقِيٌّ رَمْزِيٌّ (لوجِسْتِيّ)
+logistic equation	مُعادَلةٌ مَنْطِقِيَّةٌ رَمْزِيَّةٌ (لوجِسْتِيَّة)
+logistic function	دالَّةٌ مَنْطِقِيَّةٌ رَمْزِيَّةٌ
+Logistic Regression	انحدار لوجستي
+logistic spiral	حَلَزونٌ مَنْطِقِيٌّ رَمْزِيٌّ
+logistics	السَّوقُ العَسْكريّ، السَّوقِيَّات
+Logistics Centre	مركز لوجستي/ مركز للمعدات
+Logistics Services	الخدمات اللوجستية
+logit	لوغاريتم نسبة الاِحتمالين
+Logit Model	نموذج لوجيت
+lognormal distribution	تَوْزيعٌ نِظامِيٌّ لُغارِتْمِيّ
+LOGO	لُوغُو / [لغة] Logo / تَرْخِيمَة / شِعار
+logo(type)	كُتْلَةُ حُروف؛ خَتْمُ العَلامة التجاريَّة
+logoff	طلب الخروج
+logon	طلب [السماح بـ] الدخول / تسجيل الدخول
+logout	طلب الخروج / إِغْلاق / خروج
+logwood	خَشَبُ البَقَّم
+loir	زغبة
+loiter	تَوانَى، تَلَكَّأ، تأَخَّرَ
+loktal base = octal base	قاعِدةُ صِمامٍ ثُمانيَّة
+lolingite	لولينڠيت
+Lommel differential equation	مُعادَلةُ لوميل التَّفاضُلِيَّة
+lone pair	زَوجٌ مُتَوَحِّد
+long	طَويل، مَديد؛ بَعيد
+long arms	أذرُع طويلة
+long clay	طين طَيِّع / طين طيع
+long day plants	نباتات النهار
+long division	قِسْمةٌ طَويلة
+long eared bat	خفاش، خفاش آذن
+long file names	أسماء طويلة للملفات
+long float	مالَجُ تَمْليطٍ طَويل
+long ink	حِبْرٌ لَزِج
+long period interspersion	ترصيع واسع المسافات
+long period variables	متغيرات طويلة الدور
+long plane	مِسْحاجٌ طَويل
+long radius	نِصْفُ قُطْرٍ طَويل
+long range	مَدًى بَعيد؛ طَويلُ المدَى، بَعيدُ المدى
+long residuum	المُتَخَلِّفاتُ الطويلةُ السِّلْسلة (الحاويةُ زُيوتَ التَّزليق)
+long run	مَدًى طويل
+long run frequency	تَكْرارُ المَدَى البَعيد
+long saw	مِنْشارُ شَقٍّ طَويل (ذُو مِقبَضَين)
+Long Short- Term Memory (LSTM)	ذاكرة قصيرة طويلة الأمد
+Long Short-Term Memory (LSTM)	ذاكرة قصيرة المدى مُطَوَّلة
+long shot	لَقْطَة بعيدة
+long sight = hyper(metr)opia	مَدُّ البَصَر، الطَّرَح
+long tom	حَوضُ غَسيلٍ طَويل
+long ton	طُنّ إنكليزيّ
+long wave	مَوْجَةُ طويلة
+long wave radiation	إشْعاعٌ طَوِيلُ المَوجة
+long waves	أمواجٌ (كَهْرمِغنَطيسيَّة) طَويلة
+long wool	صُوفٌ طَويلُ التِّيلَة
+Long- term Loans	قروض طويلة الأجل
+long-chained	طويلُ السلسلة
+long-column	عَمودٌ مُتَطاول
+long-delay fuse	صِمامةٌ طويلةُ التعوُّق
+long-distance call	مُكالَمة بَعيدةُ المَدى؛ مُكالَمة دوليَّة (في أوروبا)
+long-distance line	خَطُّ المُكالَمات البَعيدة
+long-flame burner	حاروقٌ طَويلُ اللهَب
+long-focus lens	عَدسةٌ بعيدةُ البُؤْرة
+long-haul	بعيد المدى
+long-horned grasshopper	نطاط طويل القرن
+long-link chain	سِلسلةٌ طويلةُ الحَلَقات
+long-nose pliers	زَرَدِيَّة طَويلةُ الفَكَّين
+long-oil varnish	وَرْنيشٌ عالي الزَّيتيَّة
+long-period variables	النُّجومُ المُتَغَيِّرةُ الطويلةُ الدَّورة
+long-persistence screen	شاشةٌ طَويلةُ الدَّيمومة
+long-playing record	أُسطُوانة مُطَوَّلة
+long-range aircraft	طَيّارة بَعيدةُ المَدى
+long-range forecast	تنبؤ جوي طويل الأمَد
+long-range forecasting	تَنَبُّؤٌ طَويلُ الأَجَل
+long-shunt compound winding	لَفيفةُ تَوازٍ مُرَكَّبة طَويلة
+long-staple cotton	قُطْنٌ طويلُ التِّيلَة
+long-stroke engine	مُحَرِّكٌ طَويلُ الشَّوط
+long-tail(ed) pair	زَوجٌ مُطَوَّلُ الذَّيل
+long-term financing	تَمْويلٌ طَويلُ الأجَل
+Long-Term Memory	ذاكرة طويلة المدى
+long-term policy	عَقْدُ تأمينٍ طَويل الأجَل
+Long-term Security	أمان طويل الأمد
+Long-Term Unemployment	البطالة طويلة الأجل
+long-throw crank	ساعِدُ تَدْويرٍ طويلُ الحَذْفَة
+long-time burning oil	زَيتٌ طَويلُ الاحتِراق
+longeron	ضِلْعٌ طُولاني، عارِضَة طُوليَّة
+longhand	كِتابةٌ عاديَّة (غيرُ مُختَزَلة)
+longhorn beetle	قَرَنْبَى
+longicorn	طويل القرن
+longimetry	قِياسُ الأطوال
+longipennate	طويل الريش
+longitude	خَطّ الطول، قَوسُ الطول؛ بُعْدُ الخَطِّ المِساحيِّ عن خَطِّ الزوال الإسنادي / خط الطول / طول
+longitude, celestial	خَطُّ الطولِ السماوي (الفَلَكي)
+longitude, geographical	خط الطول الجغرافي
+longitude, libration in	مَيَسانٌ طُولاني
+longitude, terrestrial	خَطّ الطولِ الأرضي (الجُغرافي)
+longitudinal	طُوليّ، طُولاني
+longitudinal arch	قَوسٌ طُولانيَّة
+longitudinal axis	مِحْوَرٌ طُوليّ (أو طُولانيّ) / محور طولاني
+longitudinal bulkhead	فاصِلٌ إنشائي طُولاني
+longitudinal chromatic aberration	الزَّيْع اللوني الطولي / زَيْغ لوني طولاني
+longitudinal clinometer = fore-and-aft level	مِقياسُ المَيل الطولاني
+longitudinal component	مُرَكِّبة طُولانيَّة
+longitudinal compression	انضغاط طولي
+longitudinal currents	تيّاراتٌ طُولانية (مُتَوازِيَةُ المَسْرى)
+longitudinal deviation	اِنحِرافٌ طُولاني
+longitudinal dihedral (angle)	زاويةٌ زَوجيَّة طُولانيَّة
+longitudinal dispersion	تَشتُّت طُولاني
+longitudinal distance	المَسافة على خَطِّ الطول
+longitudinal divergence	تَباعُد طُوليّ
+longitudinal divion of the cromosomes	انقسام طولي للصبغيات
+longitudinal elevation	مَسقَطٌ طولاني
+longitudinal error	اِنحِرافٌ أو مَحِيدٌ طُولاني
+longitudinal fault	صَدْعٌ طُولي / صَدْع طولي / صدع طولي
+longitudinal feed	تغذية طُولانية
+longitudinal fission	اِنْشِطار طولي / انشطار طولي
+longitudinal frame	إطارٌ طُولاني
+longitudinal heating	تَسْخين طولاني
+longitudinal joint	وُصْلَة طُولانية
+longitudinal level	مِسواةٌ طُولية؛ مُستوًى طُولي، مَنسوبٌ طُولاني
+longitudinal libration	ميسان طولي
+longitudinal magnification	التكبيرُ الطولي (المُوازي للمِحور البَصَري)
+longitudinal moraine	ركام الجليد الطولي
+longitudinal muscle	عضلة طويلة
+longitudinal oscillation	ذَبْذَبة طُولية
+longitudinal parity	تَكافُؤٌ طُوليّ
+longitudinal pitch	خَطْوة طُولانيَّة
+longitudinal profile	مَقْطَعٌ جَانِبيّ طُولانيّ
+longitudinal redundancy check	تدقيق التكرارية الطولانية
+longitudinal reinforcement	تَسْليحٌ طُولانيّ (لِلخَرَسانة)
+longitudinal resistance	مُقاوَمة طُولانية
+longitudinal rib	ضِلْعٌ طُولاني
+longitudinal seam	طَبَقة طُولانية / طبقة طولية
+longitudinal section	مَقْطَع طولي، قِطاعٌ طولاني / مقطع طولي
+longitudinal sequence	تَعاقُبٌ طُولانيّ
+longitudinal spherical aberration	الزَّيغُ الكُرَويُّ الطولي
+longitudinal stability	اِستِقرار طُولاني، اِستِقرار طُوليّ
+longitudinal stays	شَدّاداتٌ طولانية
+longitudinal strain	اِنفعال طُولاني
+longitudinal stress	إجهادٌ طولاني
+longitudinal stringer	ضِلْع طولاني، رَكيزة طولية
+longitudinal trim	وَزانَةٌ طُولانية
+longitudinal valley	وادٍ طولي / واد طولي
+longitudinal velocity	السُّرعة الطولية
+longitudinal vibration	اِهتِزازٌ طُولاني / اهتزاز طولاني
+longitudinal waves	أمواجٌ طُولية أو طُولانيَّة
+longitudinal wind	رياح طُولِيّة
+longsighted = farsighted	مَديدُ البَصَر، طَامِس
+longsightedness = hyper(metr)opia	مَدُّ البَصَر، الطَّرح
+longwall coal-cutter	قَطّاعةُ فَحْم الواجِهات الطويلة
+look	مَظْهَر؛ نَظْرة؛ نَظَرَ، رَأى؛ بَدا / منظر
+Look and feel	المنظر و الأحساس
+look angle	زاوية رصد الهدف
+look box	صُنْدوقُ مُراقَبة القُطارات
+look multiple	توجُّه متعدد
+look up	بَحْث
+look-through	اِستِشْفاف؛ اِستِشْفافٌ اجتِلائيّ
+look-up	رَوْد
+looking glass	مِرآة
+lookout	تَرقُّب؛ حَذَر؛ نُقطةُ مُراقَبَة؛ كَشّافُ السَّفينة
+lookout station	مَركَزُ مُراقَبة، مَحَطَّةُ استِطلاع
+lookup	رجوع إلى، بحث في، ارتياد / بحث
+loom	نَوْل، مِنْسَج؛ لَوَحان؛ لاحَ (كالطَّيف)
+looming	سَرابٌ تَشْويهي؛ سَرابٌ مَعكوس / انْبِثاق
+loon	غطاس
+loop	أُنشوطة، رِبْقَة؛ عُروَة، حَلْقة، طَوْق؛ اِلتِفافٌ عَنيف، طَيَرانٌ في حَركَةٍ أُنشوطيَّة؛ دَارَةٌ كامِلة (ذَهابًا وإيابًا)؛ حَلْقة؛ نَشَطَ؛ تَحَلَّق؛ أكمَلَ الدارةَ الكهربائية / 1 حلقة (تكرارة) ؛ 2 دارة [سلكية] / يُكرِّر / ينفذ بتكرار،حلقة،يكرر / حَلَقة، عُرْوة / ثنية
+loop (or cycle) film	فيلمٌ حَلْقي (مُتَّصِلُ الطَّرَفين)
+loop aerial (or antenna) = frame antenna	هَوائيٌّ إطاري، هَوائيّ طوقيّ
+loop bandage	رِباط أُنشُوطيّ
+loop cable = twin cable	كَبْلٌ مُزدَوِج
+loop check	فحص الحلقة
+loop circuit	دارَة حَلْقية
+loop configuration	تشكيلة حلقية
+loop current	تيّار إطاري
+loop dialling	إِدالَة حَلْقيَّة
+loop direction finder	مُعَيِّن اتِّجاه إطاري
+Loop eng-English ineering	هندسة حلَقية
+loop gain	كَسْبٌ إطاري
+loop galvanometer	غلفانومتر إطاري
+loop impedance	مُعاوقة إطارية
+loop invariant	لامتغيّر الحلقة
+loop line	خَطُّ مُزاوَجة
+loop of curve	عُرْوةُ المُنحني، أُنْشُوطةُ المُنْحَني
+loop receiver	مُستَقْبِلٌ ذُو هوائي إطاري
+loop resistance	المُقاوَمة الإطارية
+loop structure	بنية تكرارية
+loop test	اِختبارٌ إطاري (لِتَعيين مَكانِ العُطْل في الكَبْل)
+loop tuning error	خَطأ (اتجاهيٌّ لاختلالِ) مُوالَفَةِ الهَوائي الإطاري
+loop vent	ماسورةُ تَهْويةٍ عُلْويَّة (لاِنابيبِ المَجاري)
+loop winding	لَفٌّ إطاري
+loop, lifting	عُروة رَفْع
+loop, normal	حَرَكة أُنشوطيَّة عاديَّة
+loop, program	خَطُّ إرسال البَرامج
+loop, radio	هَوائيٌّ إطاريّ لاسِلكيّ
+Loopback	إسترجاع
+loopback testing	اختبار الحلقة الراجعة
+looped filament	فَتيلةٌ أُنشوطيةٌ أو حَلَزونيَّة
+looper	بشارة ذراعة
+loophole	فُرجة أو مَهْرَب؛ فَتَحَ كُوَّةً في جِدار
+looping	تَحَلُّق، دَوَرانٌ أُنْشُوطيّ
+looping acceleration	تَسارُعُ الحَرَكة الأُنشُوطيَّة
+looping the line	مُزاوَجةُ الخَطّ
+looping-in	تَوصيلٌ أُنشوطيّ
+loopstick antenna = ferrite rod antenna	هَوائيٌّ حَديديتيُّ القَضيب
+loose	سائِب، راخٍ، مُرتَخٍ؛ غيرُ مُحكَم؛ مَحلول؛ مَفكوك؛ مُستَرسِل؛ حَلَّ، فَكَّ؛ أطلقَ، سَيَّبَ
+loose axle	مِحورٌ سائب
+loose bottom	قَعْرٌ انفِكاكي
+Loose bytes	بايتات مفككة
+loose cells	خلايا مفككة
+loose centres	مُرتَكَزَات سائِبة (لِدَعْم الشغل المُراد خِراطَتُه)
+loose circulation	دَوران أو سَرَيان حُر
+loose connections	وُصْلاتٌ غيرُ مُحكَمَة، وُصْلاتٌ ضَعيفة
+loose contact	تماسٌّ رِخْو، تَلامُس غيرُ مُحكم
+loose coupling	تقارُنٌ ضعيف، قَرْنٌ رِخو؛ قارِنة رِخوة
+loose earth	أرضٌ رَخوة
+loose eccentric	لا مُتَمَركِزٌ سائِب
+loose end	طَرَفٌ سائِب
+loose gauge	مُحَدِّدُ قياسٍ سائِب، مِعيار نَقّال
+loose gland	حَلْقَةُ حَشْوٍ سائبة
+loose ground	أرضٌ رَخْوة / أرض انهيارية
+loose knot	عُقدةٌ سائِبة (تَعيبُ الخَشَب)
+loose nut	صَمُولةٌ مُرتَخِيَة أو مَحْلولة
+loose pulley	بَكَرةٌ سائِبَة
+loose reel	مِكَبٌّ سائِب
+loose roof	سقف انهياري
+loose round	خَرطوشة سَيّئة الرَّص
+loose running fit	تَوافُقٌ جارٍ سائب
+loose sand	وَعْثاء، وَعْسَة
+loose soil	تُرْبَة مُتَفَكِّكة
+loose texture	نسيج غير متماسك
+loose textured	نسيج غير متماسك
+loose tissue	نَسيجٌ رَخْو (أو رِخْو)
+loose wheel	دُولاب سائِب
+loose wire	سِلكٌ سائب؛ سِلْك مُرتَخٍ
+loose-butt hinge	مُفَصِّلَةٌ تَناكُبِيَّةٌ طَليقةُ الجَناح
+loose-fill insulation	عَزْلٌ بالتَّحْشية السائِبة
+loose-fit	تَوافقٌ سائِب أو غيرُ مُحْكَم
+loose-joint hinge	مُفصِّلَة سائبة الوُصلة
+loose-jointed	سائبُ الوُصَل، سَيِّبُ المَفاصِل
+loose-key switch	مِقلادٌ سائب الذِّراع
+loose-leaf	إضبارَةٌ سائِبةُ الأوراق
+loose-leaf gold	ذَهبٌ وَرقيُّ التصفُّح (لتذهيب الزجاج)
+loose-pin hinge	مُفَصِّلَة سائبة (مسمار) المحور
+loose-textured	إِسْفَنْجيُّ النَّسْج، رِخْوُ البِنْية
+loosen	أَرْخَى، حَلَّ، فَكّ؛ قَلْقَلَ، اِرتَخَى، اِنحَلَّ
+looseness	اِرتِخاء، تَقلقُل؛ اِنحِلال، اِنفِلات
+loosening bar	قَضيبُ قَلْقَلة
+loosing	تَسْييب، إطلاق
+loot	غَنيمة؛ كَسْبٌ غيرُ مَشْروع؛ سَلَب، نَهَب؛ غَنِمَ
+lop	شَذَّبَ، قَضَّبَ؛ تَدَلَّى
+lop and top	قضابة
+lop-ear	أذن مدلاة
+loparite	لُوباريت
+lophotrichus	سوطية الطرف
+lopolith	لوپُوليت، صَخْرٌ طَسْتيّ / لوبوليت
+lopplar (laser Doppler radar)	لُوپْلار، لادار
+lopsided	مُنكَفئ، مائلٌ إلى جَنْب، مُدَنَّخ
+lorac (long range accuracy)	لُوراك
+lorad = lodar	لوراد
+loran (long range navigation)	لُوران
+loran; long-rang-navigation	ملاحة بعيدة المدى
+lorandite	لُورَانْديت
+lorate	شَرِيطيّ، طَوْقيّ
+lorry	سَيّارة شَحْن، شاحِنَة، (لُورِي)
+lorry, derrick	سَيّارة المِرفاع؛ شاحِنةُ (بُرْجِ) الحَفْر
+lorry, flat	شاحِنةٌ مُسَطَّحة
+Loschmidt number	عَدَدُ «لُوشميدِت»
+lose	أضاعَ، خَسِرَ
+loss	خَسارة، فِقدان، ضَياع، نَقْص؛ فَقْد، مَفْقُودات / ضياع / خسارة / فقْد
+loss angle	زاويةُ الفَقْد
+loss balancing	موازنة الفَقْد
+loss current	تَيّارُ الفَقْد
+Loss Curve	منحنى الخسارة
+loss equivalent	مُكافِئُ الفَقْد
+loss factor	عامِلُ الفَقْد
+Loss Function	دالة الخسارة
+loss leader	سِلْعَةُ اجتِذاب
+loss of bearings	فِقدان أو اختِلالُ التَّوجيه
+loss of buoyancy	فِقدانُ قوَّة الرفع
+loss of charge method	طَريقةُ فَقْد الشِّحنة الكَهْربائية (لقياسِ المُقاومات العالية)
+loss of head	فَقْدُ العُلوّ، فَقدُ الضغط الهيدروليّ
+loss of lift	فِقْدانُ الرَّفْع
+loss of vend	فقدُ البيُوعيَّة
+loss ratio	نِسبةُ الفَقْد
+Loss Surface	سطح الخسارة
+loss tangent	مماس الفقد
+loss, breathing	خَسارةُ التَنفُّس
+loss, frictional	فَقْدٌ احتِكاكي
+loss, gross	الخَسارةُ الإجماليَّة، الفَقْدُ الإجمالي
+loss, insertion	فَقدُ الإدخال
+loss, interaction	فَقْدُ الفِعل المُتَبادَل
+loss, net	الفَقْدُ الصافي، صافي الفَقْد
+loss, power	فَقدُ الطاقة
+loss, reflection	فَقدُ الانعِكاس
+loss, transmission	فَقْدُ الانتِقال
+losse tissue	نسيج مفكك، متفكك
+losser	عازِل (لتبديد الطاقة)؛ عامِلُ تَشْتيت (لمنع الذبذبة)
+losses	مَفقودات
+lossey medium	وسط فاقد
+Lossless	غير فقود(ة)
+Lossless audio compression	ضغط الصوت بدون خسارة
+lossless compression	ضغط عديم الفَقْد / ضغط غير فقود
+lossless medium	وسط عديم الفقد
+lossy	كَثيرُ الفَقْد / فقود
+lossy compression	ضغط بِفَقْد / ضغط فقود
+lost cluster	عنقود مفقود
+lost head	الطاقةُ الضغطية المَفقودة (بالاحتِكاكِ الهيدرولي)
+lost motion	الحَرَكةُ المفقودة
+lost oil	زيتٌ ضائع
+lost spectrum	طَيفٌ مَفْقود (أو مُظْلِم)
+lost volcane	بركان خامد
+lost-wax process = investment casting	طَريقةُ الشَّمْع المُتَبدِّد (في السِّباكة)، أُسلوبُ السَّبْك الإحداقيّ
+lot	قُرْعة؛ كَمِّيَّة، جُمْلة، عددٌ وَافِر؛ حِصَّة، نَصيب؛ قِطعةُ أرض؛ دُفْعة؛ الاستُديو السينمائي والمُنشآتُ التابِعة له؛ حَصَّصَ؛ سَحَبَ بالقُرْعة
+lot number	رَقْمُ الدُّفْعة (الإنتاجيَّة)
+lotic	أليفُ المِياه الجارِية
+lotion	غَسُول
+loud	جَهير، عالٍ؛ صارِخ، فاقِع (اللَّون)
+louden	أعلَى أو رَفَع (الصوتَ)؛ عَلا أو ارتفَعَ (الصوتُ)
+loudhailer	مِيغافون
+loudness	جَهارة، اِرتفاعُ الصوت
+loudness contour	خُطوطُ مَناسِيبِ الجَهارة
+loudness control	مِضْبَطُ الجَهارة
+loudness level	مُستَوى الجَهارة
+loudspeaker	مِجْهار، مُكَبِّر الصوت
+loudspeaker response	اِستِجابةُ المِجهار
+loudspeaker, condenser	مِجهارٌ ذُو مُكَثِّف
+loudspeaker, inductor	مِجهارٌ ذُو قَلْبٍ حَثِّي
+loudspeaking receiver	مُسْتَقْبِلُ بَثٍّ مِجْهاري
+lough	بُحَيْرة
+lough (languna)	بحيرة شاطئية
+lounge	رَدْهَةُ استِراحة؛ أريكَة
+louvre (or louver)	شَقُّ التهوية، فُتْحةُ تَهْوية مَشقوقة؛ أباجُور؛ شَبَكةُ مَنْفَذ التَّهْوية
+Love	حب
+low	مُنْخَفِض، خَفيض، وَطِيء؛ صغير؛ ضَغْطٌ مُنخَفِض؛ مُنْخَفَض / منخفض / انْخِفاض، مُنْخَفَض (جوي)
+low aspect ratio	نِسْبةٌ باعيَّة مُنخَفِضة
+low band	نِطاقٌ منخَفِض
+low beam	ضَوءُ السيارةِ الأماميّ القَصيرُ المَدى
+low charge	حَشْوَةٌ صَغيرة
+low cloud	سَحابةٌ مُنْخَفِضة
+Low earth orbit	مدار أرضي منخفض (الإرتفاع)
+low explosive	مُفَجِّرٌ بَطيء؛ مُتَفجِّرٌ داسِر (لِدَفْع القذائف)
+low flashing point	نُقطةُ وَميضٍ مُنخَفِضة
+low flying	طَيَران مُنخَفِض
+low flying falcon	صقر وطيء الطيران، صقر منخفض الطيران
+low frequency	تَرَدُّدٌ مُنخَفِض / تردد منخفض
+low gear	السُّرعة الأولى، السرعة البَطيئة؛ تُرْسُ السُّرعة البَطيئة
+low gradient	مَمالٌ خَفيض، مَدْروجٌ خفيض؛ خَفيضُ المَمال
+low ground	قاع منخفض
+low incidence	زاوية سُقوطٍ مُنخَفِضة
+low index	مُنْخَفِض (جوي)
+low level	مُستوًى (أو مَنْسُوبٌ) مُنْخَفِض؛ مُنْخَفِض المُستَوى (أو المَنْسوب)؛ خفيض النشاط الإشعاعي
+low melting-point alloys	سَبائِكُ مُنْخَفِضةُ دَرجةِ الانصِهار
+low memory	الذاكرة الدنيا
+Low memory area	منطقة ذاكرة منخفضة
+low oblique	مُنْحَرِفٌ أو مائلٌ قليلاً
+low oblique aerial photograph	صورة جوية منخفضة الميل
+low pitch	خُطْوةٌ بَطيئة
+low position	وَضْعٌ خَفيض
+low pressure	ضَغْطٌ مُنْخَفِض (أو خَفيض) / ضغط جوي منخفض
+low pressure area	منطقة الضغط الخفيف
+low quartz = alpha quartz	مَرْوٌ ألفيّ، كوارتْز الحَرارةِ الخَفيضة
+Low Rank Adaptation (LoRA)	تَكَيُّف منخفض الرتبة
+Low recall	استرجاع ضئيل
+low red heat	دَرَجةُ حَرارةِ الاحمِرارِ الخَفيض (بينَ 550° و700° مِئَوية)
+low resolution	مَيْز منخفض
+low steel	فُولاذ خَسيس
+low temperature	دَرَجةُ حَرارةٍ مُنخَفِضة
+low tension	جُهْدٌ مُنْخَفِض، ڤلْطيَّة خَفيضة؛ تَوَتُّر مُنخَفِض؛ خَفيضُ الجُهْد / توثر منخفض
+low thermal conductivity	مُوَصِّلِيَّة حَراريّة مُنخَفِضة
+low tide	جَزْر، أقصى الجَزْر / جَزْر / جزر (البحر)
+low voltage	ڤلْطيَّة مُنخَفِضة (تحت الـ 250 فُلْطًا)
+low water	اِنخِفاضُ مَنسوب الماء
+low-altitude flight	طَيَرانٌ مُسِفّ
+low-and-high-pass filter	مُرَشِّحٌ للتَّرَدُّداتِ العالية والواطِئة
+low-angle fault	صَدْعٌ خفيضُ الزاوية
+Low-bandwidth	طول موجة منخفض
+low-boiling fractions	الأجزاءُ المنخَفِضةُ دَرَجةِ الغَلَيان
+low-breast wheel	دُولابٌ مُنْخَفِضُ الصَّدْر
+low-carbon steel	فُولاذٌ مُنخَفِضُ الكَرْبون
+low-compression engine	مُحَرِّكُ انضِغاطٍ مُنخَفِض
+low-drag cowl	غِطاءٌ مُنْخَفِض المُقاوَمة
+low-energy	خَفيض الطاقة
+low-frequency amplifier	مُضَخِّمُ التَرَدُّدات المُنْخَفِضة
+low-frequency choke	خانِقُ التَرَدُّدات المُنْخَفِضة
+low-frequency compensation	تَعْويضُ التردُّدات المُنخَفِضة
+low-frequency current	تَيّارٌ مُنخَفضُ الترَدُّد
+low-frequency interference	تداخُلٌ مُنخَفِضُ التردُّد
+low-frequency transformer	مُحوِّلُ تردُّدٍ مُنخَفِض
+low-grade	مُنخَفِضُ المَرْتَبة، مُتَدنِّي النَّوعِيَّة
+low-grade fuel	وَقودٌ مُنخَفِضُ المَرتَبة (السُّعرِيَّة)
+low-grade ore	خامٌ مُنْخَفِضُ المَرتَبة
+low-gravity oil	زَيتٌ خَفيضُ الكَثافة
+low-key	ظلاليٌّ خفيضُ الإنارة (لخلقِ جَوٍّ دِراميّ)، قاتِم
+low-level alarm	نَذيرُ انخِفاض المُستوى
+low-level cloud	سَحَابة منخفضة المستوى
+low-level format	مَصاغةٌ منخفضةُ المستوى
+low-level language	لغة منخفضة المستوى
+low-level modulation	تَضْمينٌ خَفيضُ المُسْتَوى (خَفِيضُ القُدْرة)
+low-level waste	نُفايةٌ خفيضة مستوى الإشعاع
+low-loss material	مادَّةٌ خَفيضة الفَقْد (على تَرَدُّدٍ مُعَيَّن)
+low-order	منخفض المرتبة
+low-pass filter	مُرَشِّحُ إمرارٍ مُنخَفِض
+low-pitched	خَفيضُ النَّغَم (أو الطَبقة الصوتيَّة)
+low-power modulation = low-level modulation	تَضْمينٌ مُنخَفِضُ القُدرة
+low-powered	خَفيضُ القُدْرة، مُزَوَّدٌ بِقُدْرَةٍ مُنخَفِضة
+low-pressure area	مِنطَقةُ ضَغْطٍ مُنخَفِض؛ حَيْزٌ مُنْخَفِضُ الضَّغْط
+low-pressure cloud chamber	غرفة سَحابيَّة خفيضَة الضغط
+low-pressure cylinder	أُسطوانةُ الضَّغْط المنخَفِض
+low-pressure engine	مُحَرِّكٌ خَفيضُ الضَّغْط
+low-pressure heating system	نِظامُ تَسْخِينٍ خَفيض الضَّغْط
+low-pressure steam	بُخارٌ خَفيضُ الضَّغْط
+low-pressure system	نِظام (تَسْخين مائيّ) خَفيضُ الضَّغْط
+low-pressure turbine	تُرْبينٌ خَفيضُ الضَّغْط
+low-reflection film	غِشاءٌ خَفيضُ الانعِكاس
+low-set	خَفيضُ الوَضْع
+low-speed engine	مُحَرِّكٌ خفيضُ السُّرْعة
+low-stop filter	مُرَشِّحُ وَقْفِ التَرَدُّدات المُنْخَفِضة
+low-temperature carbonization	كَرْبَنة خَفيضة دَرَجة الحَرارة (دُونَ 760° مِئَويَّة)
+low-temperature distillation	تَقْطيرٌ مُنْخَفِضُ درجةِ الحَرارة
+low-temperature physics	فيزياءُ (دَرَجات) الحرارة الخَفيضة
+low-tension battery	بَطّاريَّةُ الجُهْد المُنخَفِض
+low-tension detonator	مُفَجِّرٌ بِتَيّارٍ مُنخَفِض الجُهْد
+low-tension ignition	إشعالٌ بالجُهد المُنخَفِض
+low-tension magneto	مِغنيطُ جُهدٍ مُنخَفِض
+low-tension wiring	أسلاكُ الجُهد المُنْخَفِض
+low-test gasoline	بِنزينٌ مُنخَفِضُ التطايُريَّة
+low-volatile coal	فَحْمٌ خَفيضُ المُتَطايِرات
+low-volt release	آلِيَّةُ إعتاقٍ عِنْدَ انخِفاض الڤلْطية
+low-voltage current	تَيّار مُنخَفِضُ الڤلْطية
+low-voltage winding	لَفائفُ الڤلْطية المُنْخَفِضة
+low-water alarm	نَذيرُ انخِفاضِ الماء (في المِرْجَل أو الخَزّان)
+low-water line	خَطُّ انحِسار الماء
+low-water valve	صِمامُ انخِفاض مَنسوب الماء (يفتَحُ تِلْقائيًّا عند انخِفاض ماءِ المِرْجَل إلى مُستوى الخَطر)
+lower	خَفَّضَ، خَفَضَ، أنزلَ؛ أرْخَى؛ سَدَل؛ تَحتَانِيّ، سُفْلي / أقل / أدنى، أسفل
+lower base	قاعدة سفلى
+lower beings	أحياءٌ دُنيا / كائنات دنيا
+lower block	مَجموعةُ البَكَرات السُّفْلية
+lower bound	الحَدُّ الأدنى (لِلدَّالة) / قيد أدنى / حَدٌّ أَدْنًى (عُنْصُرٌ قاصِر)
+lower bridging point	أدْنى نُقطةِ عُبور
+lower camber	الاحديدابُ السّفلي
+Lower Cambrian	العَصْرُ الكَمْبَريّ الأدنى
+lower case	حَرْفٌ صَغِير
+Lower Cretaceous	العَصْرُ الطباشيريّ الأدنى / كريتاسي(ال...) السفلي / كريتاسي(...) السفلي
+lower critical speed	السُّرعةُ الحَرِجَةُ الدنيا
+lower culmination	تَكَبُّدٌ سُفْليّ
+lower Darboux integral	تَكامُلُ دارْبو الأَدْنَى
+lower Darboux sum	مَجْموعُ دارْبو الأَدْنَى
+lower dead centre	النُّقْطَةُ المَيْتَةُ السُّفْلى
+lower deck	السَّطْحُ السُّفْلي
+lower formation	التكوينُ الأدنى
+lower gear case	الحَوضُ السُّفْليّ (لاِجهِزة المِدْفَع)
+lower Hessenberg matrix	مَصْفوفةُ هِسِّنْبِرغ الدُّنْيا
+lower integral	التَّكامُلُ الأَدْنَى
+lower limb	جناح (ال...) السفلي للطية / جناح (...) السفلي للطية
+lower limit	حَدٌّ أدْنى / نهاية دنيا / النِّهايةُ الدُّنْيا / حد (ال...) السفلي / حد (...) السفلي
+lower limit function	دالَّةُ النِّهايَةِ الدُّنْيا
+lower limit of integration	حَدُّ التكامُلِ الأدنى / الحَدُّ الأَدْنَى لِلتَّكامُل
+lower pitch limit	الحَدُّ الأدنى لِطَبَقة الصَّوت
+lower plane	سطح(ال...) السفلي، سطح (ال...) الأسفل / سطح(...) السفلي، السطح الأسفل
+lower Riemann integral	تَكامُلُ ريمان الأَدْنَى
+lower Riemann sum	مَجْموعُ ريمان الأَدْنَى
+lower semicontinuous function	دالَّةٌ نِصْفُ مُسْتَمِرَّةٍ مِنَ الأَدْنَى
+Lower set	مجموعة أدنى
+lower shell	اللُّقْمة السُّفلى
+lower side band	النِّطاقُ الجانِبيّ الأدنى
+lower sum	مَجْموعٌ أَدْنًى
+lower sums	مجاميع دنيا
+lower transit	عُبورٌ أدنى، تَكَبُّد سُفْليّ
+lower triangular matrix	مَصْفوفةٌ مُثَلَّثِيَّةٌ سُفْلِيَّة
+lower wall	جدار(ال...) الأسفل (للصَّدْع) / جدار(...) الأسفل
+lower wing surface	سَطحُ الجَناحِ السُّفْلي (أو الباطِني)
+lower yield point	نُقطةُ الخُضوع الدُّنيا
+Lower-case	حرف صغير
+lowercase	أَحرفُ الطباعة الصغيرة (غيرُ الاستِهلالية)
+lowered side	الحَدُّ الأخفَضُ (للصَّدْع)
+lowering wedges	أسافينُ خَفْض
+lowermost	الأدنى، الأشَدُّ انخِفاضًا
+Lowest	الأدنى
+lowest common denominator	المَقام المُشْتَرَكُ الأصْغَر
+lowest common multiple	المُضاعَفُ المُشتَرَكُ الأصغَرُ / المُضاعَفُ المُشْتَرَكُ الأصْغَر
+lowest common multiple (I.c.m)	مضاعف مشترك أصغر
+lowest dimension	أصغَرُ بُعْدٍ
+lowland	أرضٌ مُنخَفِضة، سَهْل / أرض منخفضة
+lowpass filter	مرشِّح تمرير منخفض
+lox (liquid oxygen)	أُكسِجين سائِل
+loxodrome = rhumb line	لُكْسُودروم، خط مُتزاوٍ
+loxodromic spiral	حَلَزونٌ ثابِتُ المَيْل
+loyalty	وَلاء، مُوالاة، إخلاص
+lozenge	الشكلُ المُعيَّن؛ قُرْصٌ مُعَيَّنُ الشَّكْل / مُعَيِّن
+LPG (liquefied petroleum gas)	غازُ البِترول المُسَيَّل
+LPM	سطر في الدقيقة
+LPT	[منفذ] LPT
+Lr (lawrencium)	لر
+LRC	تدقيق التكرارية الطولانية
+LS-120	[مِسْوَق] LS-120
+LSB	البتّ الأقل دلالة
+LSC	المحرف الأقل دلالة
+LSI	تكامل واسع النطاق
+LU	وحدة منطقية
+Lu (lutecium)	لو
+LU decomposition	تَفْريقٌ مَصْفوفِيٌّ مُثَلَّثِيّ
+lub	lub
+lubber	أخرَق، مُغفَّل؛ ثَقيلُ الحَرَكة
+lubber line	خط اليقين
+lubber(’s) line	خَطُّ إسناد القِراءة (لِلبُوصَلة)؛ خَطُّ البُوصَلة البحريَّة (المُوازي لرافِدَة القَص)
+lube = lubricant	مُزَلِّق
+lube oil	زَيتُ تَزْليق
+lube stocks	خامُ زُيوت التزليق
+lubricant	مُزَلِّق
+lubricant film	الغِشاءُ الزَّيتي المُزَلِّق
+lubricant, colloidal	مُزَلِّقٌ غَرَواني
+lubricant, mineral	مُزَلِّق مَعْدِني
+Lubricants	زيوت التشحيم
+lubricants dispenser	صَرّافة مُزلِّقات
+lubricate	زَلَّقَ
+lubricated gasoline	بِنزينٌ مُزَلَّق
+lubricating can	مِزيَتة
+lubricating film	الغِشاءُ (الزَّيتيُّ) المُزَلِّق
+lubricating grease	شَحْمُ تَزْليق
+lubricating gun	مِدْفَعةُ شَحْم
+lubricating nipple	حَلَمَةُ التزييت
+lubricating oil	زيتُ تَزْليق
+lubricating property	خَاصِّيَّةُ التزليق
+lubricating system	نِظامُ التزليق؛ مَنظُومةُ التزليق؛ دَورةُ التزييت
+lubrication	تَزْليق
+lubrication appliances	مُعَدّاتُ التزليق
+lubrication chart	مُخَطَّطُ التزليق
+lubrication failure	خَلَلُ التزليق، توَقُّف أو قُصور التزليق
+lubrication film	الغِشاءُ (الزيتيُّ أو الشحميُّ) المزَلِّق
+lubrication nipple	حَلَمَةُ التزليق
+lubrication point	نُقطَةُ التزليق
+lubrication system	نِظامُ التزليق؛ مَنظومةُ التزليق؛ دَورةُ التزييت
+lubrication system, pressure	دَورةُ (أو مَنظومة) التزييت بالضغط
+lubrication, automatic	تَزليقٌ تِلقائي
+lubrication, bath	تَزْييتٌ بالتَّغْطيس
+lubrication, central	تَزْليقٌ مَرْكَزيّ
+lubrication, drip-feed	ألتزليقُ بالتَّغذْية المُتَقَطِّرة
+lubrication, engine	تَزْليقُ المُحَرِّك
+lubrication, force-feed	التزليقُ بالتغذيةِ القَسْريَّة
+lubrication, forced	تَزْليقٌ قَسْري
+lubrication, gravity-feed	التَزْليقُ بالتَّغذيَةِ الثَّقاليَّة
+lubrication, hydrostatic	تَزْليقٌ هَيدروستاتي
+lubrication, oil	التزليقُ بالزَّيت، تَزْييت
+lubrication, pressure	تَزْييتٌ بالضَّغْط
+lubrication, pump-feed	تَزليقٌ مِضَخِّيُّ التغذية
+lubrication, splash	تَزْليقٌ بالرَّشّ
+lubricative quality	خاصِّيَّة التزليق، الصِّفَةُ التزليقيَّة
+lubricator	مُزَلِّقٌ، مُزَيِّت؛ مِشْحَمَة
+lubricator valve	صِمامُ المِشْحَمة
+lubricator, mechanical	مُزَلِّق آليٌّ
+lubricator, pressure	مِشْحَمةٌ بالضغط
+lubricity	ألتزليقيَّة
+lubricous	زَلِق، زَلِقُ السَّطْح
+lucanus	حنظب
+Lucas numbers	أَعْدادُ لوكاس
+Lucas sounder	مِسبارُ أعماقِ «لُوكَس»
+luce	سمك كراكي
+lucent	ساطِع، مُشْرِق؛ شَفّافي
+lucern = alfalfa	فِصَّة، بِرسيم حِجازي
+lucerne	فصفصة
+lucid	مُشْرِق، صافٍ؛ وَاضِح، جَلِيّ
+lucimeter	مِقياسُ الإشْراق
+luciola	حباحب
+luff	الجِهةُ المعرَّضةُ لِلريح (من المركَب)؛ أبْحرَ نَحوَ الرِّيح؛ غيَّرَ الاتِّجاه؛ عَلَّى أو خَفَّضَ ذِراعَ المِرفاع
+luff tackle	بَكَّارةُ إعلاءِ (أو خَفْضِ) ذِراع المِرفاع
+luffing-jib crane	مِرْفاعٌ بذراعٍ سُفلِيِّ التمَفْصُل (يسمَحُ بتَوسيع مَدى العَمَل)
+lug	أُذَينة، طَرَف، عُروَة؛ نُتوء؛ مَرْبِط؛ جِرَّة؛ مِرْبطٌ أسلاكٍ طرفي؛ عُروة تَوصيلِ قُطْب المِرْكم؛ جَرَّ، سَحَبَ (بجَهْدٍ وتثاقُل)
+lug bolt	بُرْغي عُرْويُّ الرأس، مِحْزاقٌ عُرْويّ
+lug, mounting (or retaining)	عُرْوَةُ التركيب أو التثبيت
+luggable computer	حاسوب حقيبة
+luggage	أمتِعَة، ثَقَل، عَفْش
+luggage carrier (or grid)	حامِلُ الحَقائب، مُصَبَّعُ رَبْطِ الأمتِعة
+luggage-van	مَقْطورةُ شَحن
+lukewarm	فاتِر
+lull	هُدوء
+lum	مِدْخَنَة عالية (لِزيادةِ التَّهْويةِ)؛ مُنْخَفضٌ حَوْضيّ (في الطبقات)
+lumachelle	صخر كلي صدفي
+lumb limestone	حجر جيري حصوي
+lumbago	ألقُطَان
+lumbar	قَطَني / قطني
+lumber	خَشَبٌ مَنْشور (على شَكْل ألواح)؛ ألواحُ الخَشَب المَنْشور؛ قَطَعَ على شكلِ ألواح؛ عاقَ؛ كَوَّمَ بلا نِظام
+lumbering saw	مِنشارُ قطعِ الأشجار
+lumberjack = logger	قَطّاعُ أخشابٍ حِراجيَّة
+lumbermill	مَنْشَرةُ الخَشَب
+lumbricus	دودة الأرض
+lumen	لَمْعة، تَجْويف؛ لُومِن / لومن
+lumen-hour	لُومِن سَاعة
+lumenmeter = lumeter	مِقياسُ الفيض الضِّيائي
+lumin of the cell	جوف الخلية
+luminaire	تَرْكيبةُ إنارة، تَركيبةٌ ضَوئيَّة
+luminance	نُصُوع؛ استِضواء / 1 نصوع ؛ 2 نصوع / ضِياء
+luminance channel	قَناةُ النُّصوع
+luminance decay	تضاؤل النصوع
+luminance factor	عامِلُ النُّصُوع
+luminance signal	إشارةُ النُّصوع
+luminance; brightness	سطوع
+luminescence	ضِيائيَّة، وَبَص؛ تألُّق / تألُّق
+luminescence intensity; light intensity	شدة التألق
+luminescent	ضِيائيّ، وَبّاص
+luminiferous	نَيِّر، وَضّاء؛ ناقِلٌ لِلضَّوء
+luminophore	وَبّاص، مادَّة مُتَفَسْفِرة
+luminosity	ضِياء، قُدرة ضِيائيَّة، زُهُوّ؛ سُطوع، زُهُوُّ اللَّون؛ ألجَلاء / إضاءة
+luminosity class	مرتبة الإضاءة
+luminosity curve	المُنحَني الضِّيائيّ، مُنْحَني التألُّق
+luminosity factor	العَامِلُ الضِّيائي، عامِلُ التألُّق
+luminosity function	الدالَّةُ الضِّيائيَّة، دالَّةُ التألُّق / دالة الإضاءة
+luminous	مُضِيء، ضوئي، نَيِّر؛ مُضاء
+luminous density	كثافة الإضاءة
+luminous dial	مَدالَةٌ مُضاءَة، مِينا مُضيئَة، قُرْص (إدالةٍ) مُضِيء
+luminous efficacy	الفَعّاليَّةُ الضِّيائيَّة
+luminous efficiency	الكِفايةُ الضِّيائيةُ أو الاستِضائية
+luminous energy	طاقةٌ ضوئية، ضَوء
+luminous flux	الفَيْض الضوئي / دفق ضَوْئيّ
+luminous flux density	كَثافةُ الفيض الضوئي
+luminous hands	عَقَارِبُ مُضِيئة
+luminous intensity	الشِّدة الضوئية، شِدَّةُ الإضاءة
+luminous intensity (in a direction)	شِدَّةٌ ضَوْئيّة ( في اتِّجاهٍ مَا)
+luminous interference	تداخُل ضِيائي
+luminous nebulae	سُدُمٌ مُنيرة (أو مُتأَلِّقة)
+luminous organ	عضو مضيء
+luminous paint	طِلاء مُضيء، طِلاءٌ فَلْوَري
+luminous radiation	إشعاعٌ مُضِيء
+luminous reflectance	الانعكاسيَّة الضوئيَّة
+luminous sensitivity	الحَساسِيَّة الضوئيَّة
+luminous source	مَصدَرٌ ضِيائي
+lump	كُومة، كُتْلة؛ جُمْلة، إجمال؛ جَمَّعَ، كَتَّلَ، رَكَمَ، تَكتَّلَ
+lump lime	جِيرٌ كُتْليّ
+lump sum	مَبلَغٌ إجمالي، مَبْلَغ جُمْليّ
+lump-sum contract	عَقْدٌ إجمالي
+lumped	مُكَتَّل، مُجَمَّع
+lumped capacity	سَعَة مُجَمَّعة
+lumped constant	ثابِتٌ مُجَمَّع
+lumped impedance	مُعَاوَقة مُجَمَّعة
+lumped inductance	مُحاثَّة مُجَمَّعة
+lumped parameter	مَعْلَمٌ مُجَمَّع، وَسيطٌ مُجَمَّع
+lumped plate voltage	ڤلْطيةُ اللَّوحِ المُجَمَّعة
+lumped reactance	المُفاعَلَة المُجَمَّعة
+lumper	عامِلُ تَفْريغِ (أو شَحْنِ) السُّفُن
+lumpiness	تَكَتُّل، تكَعْبُر
+lumpy	مُكَتَّل (بغَيْر انتِظام)، مُكَعْبَر
+Luna	لُونا
+lunar	قَمَريّ؛ هِلاليّ؛ فِضِّي / قمري
+lunar (excursion) module	عَربةُ رِيادة قَمَريَّة
+lunar base	قاعِدَةٌ قَمَرِيَّة (مَحَطَّة اختِباريَّة على سَطْح القَمر)
+lunar bow	قَوسُ قُزَحٍ قَمَرِيَّة
+lunar calendar	تَقْويمٌ قَمَريّ
+lunar caustic	نِتراتُ الفِضَّة المَصْهورة
+lunar conjunction	اقتران قمري
+lunar craters	فوهات قمرية
+lunar eclipse	خُسُوف (القَمر) / خسوف
+lunar grid valve = inverted thermionic valve	صِمامٌ ثِرمِيونيٌّ مَنكوس
+lunar halo	هالة قَمريّة
+lunar landing	هُبوطٌ على سَطْح القَمَر
+lunar module	عَرَبةٌ قَمَريَّة / مركبة قمرية
+lunar month	شَهْرٌ قَمَريّ / شهر قمري
+lunar orbit	مَدارٌ قَمَريّ
+lunar parallax	اِختلافُ المَنظَر القَمَري
+lunar probe	سابِرٌ قَمَريّ
+lunar rainbow	قَوسُ قُزَحٍ قَمَرِيَّة
+lunar rainbow; moonbow	قَوْسُ قُزَحٍ قَمَرِيّة
+lunar space	فَضاءُ القَمَر
+lunar year	سَنةٌ قَمَرِيَّة (354 يومًا)
+lunaria	لوناريا
+lunate = lunulate or lunular	هِلاليُّ الشكل
+lunation	دَورةٌ قَمَريَّة، شَهرٌ قَمَري (29.53 يومًا) / دورة قمرية
+lune	هِلال، شُقَّة هِلاليَّة / هِلال
+lune of Hippocrates	هِلالُ هيبوقْراط
+lunette	كُوَّة هِلاليةُ الشكل
+lung	رِئَة / رئة
+lunge	طَعْنَة؛ اِندِفاع؛ طَعَنَ؛ اِنْدَفَع بقُوَّة
+Lunge nitrometer	نِيترومتر «لَنْج»
+luni-solar precession	مُبادَرةٌ قَمَريَّةٌ شَمْسيَّة
+lunik	لُونيك
+lunitidal interval	فَتْرةُ المَدِّ القَمَري
+lunula	هلال
+lunular angle	زاويةٌ هِلاليَّة
+lupin	ترمس
+lupulin	غبار الجنجل
+lupus	ذئب (ال...)
+Lupus (The Wolf)	الذئب، السَّبع
+lurch	زَيَغان، تَمايُل؛ مَيَلانٌ مُفاجِئ؛ تَمَايَلَ، تَرَنَّحَ
+lure	إغواء، اِستِدارج؛ طُعْم؛ أغوَى، اِستدرَجَ، أغرى
+lurk	يندسّ / يندس
+lurker	مُنْدَسّ / مندسس
+Lurking	يندسس
+lurry	قَنطرةٌ مُتَحَرِّكة (عبرَ مَهواة المَنْجَم)
+Lusin/Luzin, Nikolai Nikolaevich	نيكولاي نيكولاييفِتْش لوزين
+luster = lustre	بَرِيق، لَمَعان، ألَق؛ رَوْنَق؛ لَمَع، بَرَقَ؛ صَقَلَ، لَمَّع
+lustre	بريق
+lustrous	بَرّاق، لامِع، لَمّاع / برّاق
+lustrum	خُمَاسِيَّة
+lutaceous	صَلْصاليّ البِنْية، طينيُّ النَّشْأة (أو الأصل)
+lute	مِلاطٌ رِخْو؛ مادةُ جَلْفَطَة؛ عُود، مِزْهَر
+lutenizing hormone	هرمون مُلوتِن
+lutetium = lutecium (Lu)	اللُّوتِشيُوم
+Lutheran blood group	زمرة دم 'لوثر'
+luthern	نافِذةُ سَقْفٍ عَموديَّة
+luting	جَلْفَطة
+lutite	لُوتيت، صَخْرٌ صَلْصاليّ أو طِينيّ
+lux	لَكْس / لوكس
+luxmeter	لَكْسمتر
+luxuries	كَمَالِيَّات
+luxury apartment	شَقَّة فاخِرة
+luxury genes	مورثات متخصصة
+Luzin space	فَضاءُ لوزين
+Luzin theorem	مُبَرْهَنةُ لوزين
+ly loci	مواقع 'لاي'
+Lyapunov convexity theorem	مُبَرْهَنةُ ليبونوف في التَّحَدُّب
+Lyapunov function	دالَّةُ ليبونوف
+lychnis	لخنيس
+lycopod	ليكوبوديوم
+lyddite	لِدّايت
+Lydian stone (or lydite)	ليدَيت
+lye	غُسالة قِلْويَّة؛ غَسُول قِلْويّ
+lye burns	حُروقُ القِلْي
+lye treating	مُعالَجة بغَسُول قِلْويّ
+lying	مُستَلْقٍ، مُتَمدِّد، مُمتَدّ؛ كَامِن؛ كاذِب؛ الكَذِب
+lying panel	عارضة تأطير مُستلقية
+lying shaft	عَمودُ نَقْل الحَركة الأُفُقي
+Lyman series	مُتَسَلْسِلة «لَيْمان»
+Lyman-alpha-radiation	إشعاع ليمان - ألفا
+lyme-grass	شعير الرمال
+lymph	اللِّمْف، أللِّنف / لمف
+lymph nodule	عقيدة لمفية
+lymph- gland	غدة لمفية
+lymphatic system	الجِهازُ اللِّمفاوي / جهاز لمفي
+lymphatic vessel	وعاء لمفي
+lymphocyte	لِمْفاويَّة، خَليَّة لِمْفيَّة / كرية لمفية / خلية لمفاوية
+lymphoid tissue	نسيج لمفاوي، نسيج لمفائي
+lynite	لينَيت
+lynx	وشق (ال...) / وشق
+Lynx (The Lynx)	ألوَشَق
+lyolysis = solvolysis	حَلٌّ أَيُوني، حَلْمَلة
+Lyon hypothesis	فرضية 'ليون'
+lyonization	لايونية
+lyophile = lyophilize	جَفَّدَ (لِلحفظ)
+lyophilic	أليفُ السائِل، أليفُ وَسَطِ الانتشار، غرواني مُتآلِف
+lyophilic colloid	غَرواني مُتآلِف
+lyophilize	جَفَّدَ
+lyophilizer	مُجَفِّد
+lyophobic	كارِهٌ للسوائل، نافِرٌ
+lyophobic colloid	غَرواني نافِر
+lyosorption	مَزٌّ سائلي
+lyotropic	ذَؤوب، سهل الذوبان (نَتيجَةً لِلتَّفاعُل الأيوني مع المُذيب)
+lyra	قيثارة (ال...)
+Lyra (The Harp)	أَلقِيثارة، الشّلياق، النَّسْر الواقِع
+lyre	قِيثارة
+lyse	حَلَّ، فَسَّخَ
+lysergic acid diethylamide = LSD	ثُنائي إثيل أميد حامض الليسِرجيك
+lysimeter; case lysimétrique	مِقياسُ الرُّشَاحة
+lysine	ليزين
+lysis	تحلُّل، تَفَسُّخ؛ إقلاعُ الحُمَّى؛ إبلال تَدْريجيّ / تحلل / تحلُّل، انحلال
+lysogeny	استذابة، تحلحُل
+lysol	لِيزُول
+lysosome	جُسَيْمٌ حالّ
+lysosomes	ليسوسومات، جسيمات حالّة
+LZW compression	LZW ضغط بخوارزمية

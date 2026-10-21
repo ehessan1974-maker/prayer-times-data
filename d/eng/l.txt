@@ -1,0 +1,2916 @@
+L band	نطاق التردّدات المُنخفضة
+L-band	نطاق ـ ل
+L-display	شاشة ـ ل
+l-f-h layers	طبقات L-F-H
+L-gas	غاز (L)
+L-gas; Low-calorific gas	غاز قيمته الحرارية منخفضة
+L-Jetronic	نظام حقن إلكتروني المتقطع
+L-network; Γ-network	شبكة L
+l.p.g condensate (base stock)	كثافة غاز النفط المسيل (مادة أولية)
+L1 signal	إشارة L1
+L2 signal	إشارة L2
+la niña	نينيا
+La Plata wool	صوف لا بلاتا
+label	وَسْم / لُصاقَة / علامة تجارية / عنوان تعريف / ملصق للتعريف / سمة
+label (in signalling)	ا(تعريف) علامة (فى التشوير)
+label for textiles checked for harmful substances	اختبارالمواد الضارة بالمنسوجات
+label printing machine	طابعة السمّات
+Label Switched path	مَسارٌ مُتَغَيّر العَلامَةِ التَعْرِيفِيَّةِ
+label,	ملصق عنوان,
+labeling; labelling	وضع بطاقات
+labelled; tagged	مرقم
+labelling	وضع بطاقات تعريفية
+labelling procedure	طريقة الوسْم، أسلوب العنْونَة
+labelling requirements	إلزامية نشر الأسعار
+labor intensive methods	طرق ذات كثافة عمالية عالية
+labor productivity	إنتاجية العمل
+laboratory	مَعْمَل / مختبر
+laboratory assessment	تَقِييم مَعْمَليِّ
+laboratory assistant	مُساعِد مَعْمَل
+laboratory examination / laboratory investigation	فَحْص مَعْمَليّ
+laboratory institute	مَعْهَد مُخْتَبَرات
+laboratory investigations	تحريات مخبرية
+laboratory reagent	كاشِف مَعْمَليّ
+laboratory test	اختبار مَعْمَليّ / اختبار معملي
+laboratory, accredited	مَعْمَل فحوصات مُعتَمد
+labour protection	وِقاية من حوادث العمل
+labour standard	معيار العمل
+labradorescence	تَضَوُّء لا برادوريتي
+labradorite	لابرادورايت
+labyrinth seal	إحكام تيهي
+lac	لكّ / صمغ اللك
+laccolith	لاكوليث
+lace tweed	لاسيه تويت
+lace twill	نسيج مبرد دانتيلا
+laced column	عمود مربط
+lacey act	قانون لاسي
+Lacey's silt factor	عامِل الطمي لـ 'لاسي'
+Lacey’s formula	مُعادلَة 'لاسي'
+Lacey’s waterway / Lacey's wetted perimeter	مَمر 'لاسي' المائيّ
+lacing	رِباط / زمّ
+lacing course	مدماك ربط
+lack of investment	نقص الاستثمار
+lacquer	ورنيش اللك / برنيق اللّك، ورنيش اللّك / لكّ / لكّ، برنيق
+lacquer disk; blank disk	قرص من بلاستيك سيللوزي للتسجيل
+lacquer original; production acetate	طلاء أصلي
+lacquered board	لوح مورنش
+lacquering	طلاء باللك / برنقة، لكّ
+lacquering machine	مبرنقة
+lacunar; lacunar ceiling	سقف مغوّر
+lacustrine	بحيري
+lacustrine deposits	ترسبات بحيرية
+ladar; lidar; light detection and ranging	رادار الليزر
+ladder	سلّم
+ladder / run	غرزة ناسلة
+Ladder Diagram	رسم بياني سُلّمي / رسم بياني سلمّي / مُخطَّط سلمَّي
+ladder filter	الفلتر التعاقبى؛ المرشح التعاقبى
+ladder network	شبكة سُلمية / شبكة سُلَّميَّة
+ladder protection	تجنب الغرز الناسلة
+ladder rungs	درجات السلَّم
+ladder scaffold	سقالة سُلَّمية
+laddering pattern	نموذج الغرزة الناسلة
+Ladik	لاديك
+lading legs	قوائم منصة الحفْر البحرية
+ladle	مغرفة (الصبّ)
+ladle (heating) furnace; LF (abbreviation); LHF (abbreviation)	فرن (تسخين بوتقة)
+lag	تأخُّر / تأخر
+lag bolt; lag screw	علاّقة
+lag element	عنصر تأخير
+lag gravel	بقاية ركود الريح، حَصْباء متخلِّفة، منطقة خالية
+lag hinge	مفصل التخلّف
+lag screw	مِسْمار مُلولَب
+lag smearing	تشويش متأخر
+lag-plane damping	تخميد مستوي التخلّف
+lag-time	زمن التأخير
+lag; after-image	تخلّف - تأخر
+lag; stagger	تَخَلُّف
+lagging	تدعيم خشبي / غضرفة البكرة / عزل حراري للأنابيب
+lagging current	تيار متأخر / تيار مُتخلِّف، تيار متأخر الطوْر
+lagging phase difference	فرق الطور المتأخر
+lagoon	بُحيرة ساحلية / بحيرة شاطئية / بحيرة
+lagoon, aerated	بِرْكة مُهوّاة لمُعالَجة مياه الصرف الصحيّ
+lagooning, natural	بحيرات أكسدة طبيعية
+Lagrange function	معادلة لاجرانج
+Lagrange’s multipliers	مضاريب لاكرانج
+Lagrangian co-ordinates	إحداثيات لاجرانجية
+Lagrangian points	نقاط لاجرانجية
+lahar	اهار / لاهار
+laid paper	ورق مسلّك
+laid up tonnage	سُفُن متعطِّلة (لعدم وجود بضاعة)، سُفُن مُحالة إلى الاستيداع
+Laif	لايف
+laitance	سائل إسمنتي / رغوة الخرسانة / خرسانة، رَوْل
+lake	بُحَيرة / بحيرة
+lake (s)	صبغ مرسّخ
+lake asphalt	أسفلت طبيعي، أسفلت البحيرة
+lake deposits	رواسب بحيرية
+lake water	مياه البحيرات
+lamb suede	جلد غنم سويدي
+lambda (λ)	لامدا (λ)
+lambda control	نظام التحكم لامدا
+lambda sensor	حسّاس لامدا
+lambert	لامبرت
+Lambert projection	إسقاط لامبرت
+Lambert's cosine law	قانون جيب التمام اللامبرتى
+Lambert's cosine law of emission	قانون لامبرت لجيب تمام الإشعاع
+Lambert's cosine law; cosine emission law	قانون لامبرت لجيب التمام
+Lambertian radiator; Lambertian source	مشع لامبرت مصدر لامبرت
+Lambertian reflector	عاكس لامبرت
+Lambertian surface	سطح لامبرتى
+lambswool	وبر الخروف
+lambswool / lamb wool	صوف الحمل
+lambswool yarn	خيط غزل من صوف الحملان
+Lamcare	وبر خروف مقلد
+lamella separator	فارز شرائحيّ / فارز المواد المُترسّبة
+lamellae	صفائح
+lamellar	صفائحيّ
+lamellated timber	خشب رقائقي، خشب طبقات
+lamina; layer	طبقة
+lamina; slat; spline; strip	شريحة
+laminar boundary layer	طبقة متاخمة صفيحيّة
+laminar flow	تَدَفُّق طبقي / جريان صفحيّ / جريان صفحي / جريان طبقي / تدفُّق صفائحي
+laminar jet plasma torch	مصباح نفث البلازما الطبقي
+laminate	قماش رقائقيّ / يضع في شكل طبقات رقيقة
+laminate effect	تأثير الخشب الرقائقي
+laminated	رقائقي / صفائحي / مرقّق
+laminated (magnetic) core	قلب (مغناطيسى) رقائقى / قلب (مغناطيسى)
+laminated arch	قوس مرقَّقة
+laminated bending	تقويس رقائقي
+laminated board	لوح مرقَّق
+laminated core	قلب رقائقي؛ قلب صفائحي
+laminated ferrite memories	ذاكرات من دقائق الفرّيت
+laminated frame	إطار صفائحي؛ إطارشرائحي
+laminated frame,	إطار رقائقي, ؛ إطار صفائحى
+laminated glass	زجاج رقائقي
+laminated piston	كبّاس شرائحي
+laminated safety glass	زجاج أمان رقائقي (LSG) / زجاج أمان منضود
+laminated structure	بنية صفيحية
+laminated tyre [UK] / laminated tire [US]	إطار مُتعدد الشرائح
+laminates	رقائق، صفائح
+laminating machine	آلة ملدّنة
+lamination	ترقيق / رقائق / ترقُّق
+lamination,	ترقيق, ؛ تصفيح
+laminations	رقائق
+laminator flow	سريان رقائقي
+lammas growth	نمو صيفي
+Lamous	لاموس
+lamp	مصباح
+lamp (electric)	مصباح كهربائي
+lamp current	تيار المصباح
+lamp dimmer	مِعْتام المصباح
+lamp luminous flux maintenance factor; LLMF; lamp lumen maintenance factor	معامل صيانة تدفق مصباح الإنارة
+lamp power; lamp wattage	قدرة المصباح
+lamp reflector	عَاكِس ضوء المصباح
+lamp signal	إشارة ضوئية بمصباح، إشارة ضوئية مُنبِّهة
+lamp socket	قاعدة المصباح
+lamp survival factor; LSF	عامل بقاء المصباح
+lamp voltage,	جهد المصباح,
+lampas	لامباس
+lampholder for building-in	ماسك وحدة إضاءة داخل المبنى
+lampholder; holder,	ماسك وحدة إضاءة, ؛ ماسك
+lamprophyre	لامبروفير
+lamé	لاميه
+lamé yarns	خيوط لاميه
+lance earthing	حربة تأريض
+lance manipulator	معالج رمح
+lancet arch	قوس رمحية
+lancet window	نافذة رمحية
+lanching grease	شَحْم الإطلاق
+lancé découpé	لانس ديكوبيه
+land	قطعة أرض / أرض / حطّ
+land a casing	أَرْسى أنبوب التغليف (في مكانه النهائي)
+Land Acquisition	نزع ملكية الأراضي
+Land Allocation Plan LOA	مخطط تخصيص الأراضي
+land and sea breeze circulation	تداول نسيم الأرض ونسيم البحر
+land application	استعمال أرضيّ
+land arm	ذراع أرضي
+land breeze	نسيم الأرض
+land capability	المعرفة زراعة معتمدة على قدر آبير من
+land carrying-capacity	قدرة الأرض على الاستيعاب
+land classification	تصنيف الأراضي
+land clearing	استصلاح الأراضي
+Land conflict in the immigration area	نزاع الأرض في منطقة الهجرة
+land container	حاوية أرضية
+land control measures	إجراءات مراقبة الأراضي
+land conversion	تحويل الأراضي
+land cover classification system (lccs)	نظام تصنيف غطاء الأرض (LCCS)
+land degradation	تدهور الأراضي
+land disposal	طَرْح أرضيّ
+land drainage	شبكة الصرف الصحيّ (لقطعة أرض خاصة) / تجفيف التربة / صَرْف الأراضي / تصريف المياه
+land earth station	محطة فضاء أرضية مشبوكة مع محطات أرضيّة متنقّلة عبر القمر الصناعي
+land elevation	تعلية الأرض
+land evaporation	تَبخُّر أرضيّ
+Land farming	نشر على التربة
+land grab	استيلاء على الأراضي
+Land Grid Array	مَصْفُوفَةُ شَبَكَةِ السُّطُوحِ
+land improvement	تحسين الأراضي
+land management	إدارة الأراضي
+land mobile earth station	محطة أرضية متنقلة
+land mobile service	خدمة أرضية متنقلة
+land mobile station	محطة ارضية متنقلة
+land mobile-satellite service	خدمة أرضية متنقلة بالقمر الصناعي
+land phase of flood	طَوْر أرضيّ (سياحات) للفيضان
+land pollution	تلوث الأراضي
+land potentialities	إمكانات الأراضي
+land productivity	إنتاجية الأراضي
+land reclamation	استصلاح الأراضي
+land reclamation; preparing land for cultivation	استثمار التربة
+land register	سِجِلّ عَقاري
+land reparcelling; land consolidation	قانون ملكية الأراضي
+land requirement value	قيمة المساحة المطلوبة
+land station	محطة أرضية
+land stewardship	إدارة مشهد طبيعي
+land subsidence	هبوط
+land surveying	مسح الأراضي
+land tenure security; tenure right; tenure security	حق الحيازة; أمن الحيازة أمن حيازة الأراضي
+land tie	شَدّاد أرضيّ
+Land Transportation Sector	قطاع النقل البري
+land treatment (drilling wastes)	علاج أرضي (نفايات الحفر)
+land trusts	صناديق الأرض
+land uplift	ارتفاع
+land use	استخدام الأراضي
+Land Use Agreement (LUA)	اتفاقية استخدام الأراضي (LUA)
+land use change (luc)	تغيير استخدام الأراضي
+land use change, indirect (iluc)	تغير استخدام الأراضي، غير مباشر
+land use constraint	قيود استخدام الأراضي
+land use dynamics	دينامية الانتفاع بالأرض
+land use plan	خطة الانتفاع بالأرض
+land use transportation survey	دِرَاسَةٌ إِجْمَالِيَّةٌ لِلنَّقْلِ
+land use, change of	تغيير غرض الانتفاع بالأرض / تغيير الانتفاع بالأرض
+land use, land use change and forestry lulucf	استخدام الأراضي وتغيير استخدام الأراضي والحراجة
+land utilisation	استغلال الأراضيّ (المساحات غير المُستخدمة أو غير المُستغلة بشكل مُناسب)
+land utilisation, water-compatible	استغلال الأراضي بشكل يسمح غمرها بالمياه
+land value capture	تحصيل قيمة الأراضي
+land,	نتؤ,
+land-based activities	أنشطة تجري على الأرض
+land-register data base	بنك معلومات للأراضي
+land-sea wind system	نظام الرياح بر-بحر
+land-slide detector	جهاز كشف انزلاق التربة / كاشف هبوط التربة
+land-use planning	تخطيط استخدام الأراضي
+landbridge	جسر أرضي
+landed cost	كُلْفة تسليم رصيف ميناء الوصول
+lander	مَركبة حاطّة
+landfall light	ضوء خارجي للهبوط
+landfarming (drilling wastes)	نشر (نفايات الحفر) على أراضي زراعية
+landfarming methods	طُرق الاستزراع البكتيري
+landfill	رّدْم أرضيّ / مكب (مدفن) نفايات / مكبّ نفايات
+landfill (LF)	رَدْم أرضي
+landfill category	فئة المكبات
+landfill category 0	الفِئة صِفر (0) للمكبات
+landfill category I	الفِئة واحد (I) للمكبات
+landfill category II	الفِئة اثنان (II) للمكبات
+landfill category III	الفِئة ثلاثة (III) للمكبات
+landfill category IV	الفِئة أربعة (IV) للمكبات
+landfill farming	مكب-فلاحة
+landfill fire	حريق مكب
+landfill footprint	بصمة مكب
+landfill gas	غاز المكب / غاز مكبّ النفايات / غاز مقالب النفايات
+landfill gas (LFG)	غاز المكب
+Landfill gas generation	تكون غاز المكب
+landfill gas management	إدارة غاز المكب
+Landfill gas migration	هجرة غاز المكب
+Landfill gas migration pathways	مسارات انتقال غاز المكب
+landfill leachate	عصارة المكب
+landfill sealing systems	أنظمة إحكام مكبات النفايات
+Landfill Sites	مواقع دفن النفايات
+landfill, active	مكب، نشط
+landfill, construction & demolition (c&d)	مكب، بناء وهدم
+landfill, hazardous waste	مكب، نفايات خطرة
+landfill, inactive	مكب نفايات، غير نشط
+landfill, multi-disposal	مقلب نُفايات مُتعدد الأغراض
+landfill, municipal solid waste (msw)	مكب نفايات، نفايات بلدية صلبة
+landfilling costs (pl.)	تكاليف الطمر
+landing	هبوط / منطقة الإيداع / حط / هبوط، إنزال
+landing (forestry)	موقع تجميع (الحراجة)
+landing (of stair)	بسطة
+landing angle	زاوية الحطّ
+landing area	منطقة الهبوط
+landing area; landing zone	منطقة الحطّ
+landing base	قاعدة إرساء
+landing beam	حزمة ضوئية للهبوط
+landing circuit	دائرة الحطّ / دائرة الهبوط
+landing compass	بوصلة الحطّ / بوصلة الهبوط
+landing configuration	تشكيلة الهبوط
+landing crew	طاقم الحطّ / طاقم الهبوط
+landing distance	مسافة الهبوط / مسافة الحطّ
+landing distance available	مسافة الحطّ المتاحة
+landing finger pier	رصيف شحن وتفريغ
+landing flare	شعلة الحطّ / شعلة الهبوط
+landing forecast	تنبؤ الحطّ / تنبؤ الهبوط
+landing fuel allowance	مخصص وقود الحطّ
+landing gear	جهاز الهبوط / عدّة الحط
+landing gear; undercarriage	عجلات الهبوط
+landing ground	منطقة الهبوط، مَدْرَج الهبوط / محطّ الطائرات
+landing joint	وُصْلة عُلْوية مؤقتة
+landing light	ضوء الطائرة أثناءالهبوط على المدرج / ضوء الحطّ
+landing lights	أضواء الهبوط
+landing loads	أحمال الحطّ
+landing mat	حصيرة الحطّ
+landing nipple	وُصْلة بفتحة داخلية
+landing party	فريق الحطّ
+landing point	نقطة الحطّ
+landing radar	رادار الحطّ
+landing run	مسافة دروج الحطّ
+landing runway	مدرج الحطّ
+landing site	موقع الحطّ
+landing speed	سرعة الحطّ
+landing stage	سقالة هبوط، رصيف الإنزال
+landing surface	سطح الحطّ
+landing tee	علامة الحطّ
+landing weight	وزن الحطّ
+landing wires	أسلاك الحطّ
+landless hole	ثقب بدون قاعدة
+landlord style	زِيّ المَلاَّك
+landmark	علامة أرضية / مَعْلَم (ج. مَعَالِم)، علامة ظاهرة
+landmark; bench-mark	أريفة
+landmark; boundary-mark	أرثة، مَنار
+landowner royalty	أتاوة (ريع) صاحب الأرض، جُعالة صاحب الأرض
+landowner’s overcoat	معطف الإقطاعي
+landplane	طائرة برّية
+landraising	تعلية الأرض
+Landsat	قمر الموارد الأرضية
+landscape	مَنْظَر
+landscape approach	مقاربة المشهد الطبيعي
+landscape conservation	حفظ المناظر الطبيعية
+Landscape Conservation Plan	تصميم لمشهد طبيعي
+landscape conservation support plan	خطة مُصاحبة لتجميل منطقة المشروع
+landscape ecology	إيكولوجيا المشهد الطبيعي
+landscape gardening	هندسة المناظر الحدائقية
+landscape hydraulic engineering	هندسة (ال...) الهيدرولية في مناطق المناظر الطبيعية (مثل الريف)
+landscape planning	تخطيط المشاهد الطبيعية
+landscape science	علم المشهد الطبيعي
+landscaping	تصميم المناظر الريفية / تنسيق الحدائق
+landslide	انهيار أرضي / انزلاق
+landslide; landslip	انزلاق التربة
+landspreading (drilling wastes)	نشر (نفايات الحفر) على الأراضي
+lane	حارة السير / مَسَار / ممر / درْب / ممرّ
+lane change assistant	مساعد تبديل المسار
+lane closure	إغلاق سكة المرور
+lane departure warning (LDW)	نظام التعرّف على الحارة المرورية (LDW)
+lane guidance	دليل المسار
+lane incentive	حافز الممر
+lane keeping assist system	نظام LKAS
+lane keeping assist system (LKAS)	نظام المساعدة على البقاء في الحارة المرورية (LKAS)
+lane spacing	مقياس تحريك جهاز الري
+lane widening	اتساع المَسَار
+lane-switching length	طول مسارات التحويل
+langbeinite	لانغبينايت
+Langelier index	دَلِيل 'لانجلير'
+langelier saturation index (LSI)	مؤشر التشبع Langelier
+Langley	لانجلي
+Langley Research Center	مركز أبحاث لانجلي
+lanolin / wool grease	لانولين
+lantern (lantern light)	قُبِّيَة
+lantern sleeve	كم الفانوس
+lanthanum gallium silicate; LGS	سيليكات الليثيوم جاليوم
+Lantirn	نظام توجيه ملاحي ليلي
+lap	ذَيْل السُّتْرَة / تجليخ بالتحضين / تراكُب
+lap belt	حزام الحوض
+lap joint	وُصلة تراكُب / وصلة تراكبية / وصلة التغطية / وُصْلة تراكب، وُصْلة تراكبية
+lap of tiles	تراكب البلاط
+lap pack	ربطة الحِجْر
+lap splice	تَراكُب
+lap strap	حِزام الحِجْر
+lap welded casing	أنابيب تغليف (تبطين) ملحومة تَرَاكُبِيًا
+lap welding; joint welding	لحام تراكبي
+lap winding	ملف انطباقي / لف تراكبي
+lap-welded pipe	أنبوبة ملحومة تراكبيا
+lapel	تلبيب
+lapel microphone	ميكروفون صدري ( يعلق على الصدر )
+lapel notch	ثلمة التلبيب / زاوية التلبيب
+lapel waistcoat with pockets	جاكيت بلازر
+lapis lazuli	لازورد
+Laplace	لابلاس
+Laplace integral	تكامل لابلاس
+Laplace transform	تحويل لابلاس
+Laplace transform of a differential equation	تحويل لابلاس لمعادلة تفاضلية
+Laplace transform, frequency shift theorem	نظرية التخميد في تحويل لابلاس
+Laplace transformation	تحويلة لابلاس
+Laponia	لابونيا
+lapped devetail joint	وصلة تعشيق مخفية
+lapped insulation	عزل متراكب
+lapped or overlap joint	وُصْلة متراكبة
+lapping	تراكُب النسيج / نسيج مُجلَّخ
+lapping diagram	شكل تراكب النسيج
+lapse rate	معدل التغير الرأسي للحرارة / معدَّل التفاوت
+Lara look	نمط لارا
+larch wood	خشب الأرزية / خشب اللاركس
+larder (pantry)	حجرة خزن الأطعمة
+large aircraft	طائرة كبيرة
+large area flicker	رجفة منطقة كبيرة
+large bird	طائر كبير
+large coat	مِشْمَل
+large cogeneration units	وحدات توليد مشترك كبيرة
+Large concerns	شركات كبيرة
+Large Consumers	كبار المستهلكين
+large dam	سدٌّ كبير
+large flue tube	أُنبُوب دُخَان كبير
+large footprint industries	صناعات ببصمة كبيرة
+large forest (also large ownership) (fsc)	غابة كبيرة (أيضا ملكية كبيرة) (مجلس الإشراف على الغابات)
+large generator	مولد كبير
+Large hydropower	محطة كهرومائية كبيرة
+large inspection	فحص كبير
+large measuring series	سلسلة كبيرة من القياسات
+Large plantations with monocultures	مزارع كبيرة مع زراعات أحادية
+large power station	محطة كبيرة لتوليد الكهرباء
+large range tanker-1, (I.R.T-1)	ناقلة كبيرة رقم 1 (45000طن-79999طنا)
+large range tanker-2, (l.R.T-2)	ناقلة كبيرة رقم 2(80000طن-159999طنا)
+large scale	مقياس كبير
+large sett paving	رَصف وَاسِع
+large source,	مصدر كبير,
+large water system	نظام توزيع كبير
+large-capacity vehicles	مركبات ذات قدرة كبيرة
+large-scale afforestation	تشجير على نطاق واسع
+large-scale CHP systems	أنظمة واسعة النطاق للتوليد المُشترك للحرارة والقُدرة
+large-scale power generation	توليد الطاقة على نطاق واسع
+large-scale test of electric vehicles on the island of Rügen, Germany	تجربة كبرى للسيارات الكهربائية على جزيرة 'روجن'
+largest coupling load	حمولة اقتران
+lariat necklace	قلائد الوَهق
+Larmor precession	حركة لارمور البدارية
+larson ratio	نسبة لارسون
+larvae	يرقات
+laser	ليزر / أشعة الليزر
+laser altimeter	مقياس ارتفاع ليزري
+laser cutting-off machine	آلة القطع بالليزر
+laser diode	صمام ثنائى يعمل بالليزر
+laser Doppler method (flow measurement)	طريقة دوبلر الليزرية في قياس مُعدَّل التدفّق
+laser drilling	تثقيب بالليزر
+laser drilling machine	آلة الثقب بالليزر
+laser equipment	جهاز الليزر
+laser gyro	جَيْروسكوب ليزري
+laser heater	سخان الليزر
+laser heating	تسخين بالليزر
+laser installation	تجهيزات الليزر
+laser machine	آلة الليزر
+laser radiation	إشعاع ليزري
+laser ranging	سبر ليزري للمدى
+laser resonator	نظام رنان ليزري
+laser seam	درزة لحام بالليزر
+laser soldering	لحام السمكرة بالليزر
+laser trimming	تهذيب ليزري
+laser welding	لحام بالليزر / لحام ليزري
+laser-arc welding	لحيم القوس بالليزر
+laser-diode module	نموذج صمام ثنائى يعمل بالليزر
+lash barges	صَنادِل محمولة على السفُن
+lashing point	نقطة الوثاق
+lasing	تأثير الليزر
+lasing threshold	حد أدنى لبدء إطلاق طاقة الإشعاع
+last choice circuit group	مجموعة دارات ذات اولويةاخيرة
+last glacial maximum (lgm)	آخر حد أقصى جليدي
+Last in First out	طريقة الوارد آخراً، صادر أولاً (LIFO)
+last stop	المحطة الأخيرة
+last-chance screen	مصفاة أخيرة
+last-party release	تحرير اتصال الطرف الاخير
+lasting	قماش وجه الأحذية
+latch (door latch)	سقّاطة، مغلاق
+latch on (to)	عَلَّق أنابيب الحفْر بالروافع
+latch-up	قفل المتابعة؛ مزلاج المتابعة
+latch-up state	حالة التشابك
+latch; catch	سقّاطة
+latched contactor	مفتاح تلامس بسقاطة
+latching	تثبيت
+latching alarm,	انذار امساك, الكشف عن الغاز
+latching current	تيارالامساك
+latching indicator	دليل الرتاج
+latching remote control switch	مفتاح تحكم عن بعـد بسقاطه
+latching valve device	جهاز صمام تثبيت
+late (summer) wood	خشب انتهائي
+late quaternary	أواخر العصر الرباعي
+late successional	تعاقب متأخر
+late turn	دوران متأخّر
+late-arming switch	مفتاح التسليح المتأخر
+latency	كُمُون
+latency (in electrobiology)	كمون ( فى علم الكهروحيوية)
+latent fault; dormant failure	خطأ كامن
+latent fault; undetected fault	خطأ كامن،, ؛ خطأ غير مكتشف،,
+latent heat	حرارة كامنة، حرارة لاطيّة / حرارة كامنة
+latent heat gain	كسب الحرارة الكامنة
+latent heat of condensation	حرارة التكثيف كامنة
+latent heat of vaporization	حرارة التبخر الكامنة
+latent heat storage system	خزّان الحرارة الكامنة
+latent image	صورة كامنة
+latent life	حياة كامنة
+latent period	فترة كامنة / فترة كمون
+lateral	أنبوب جانبيّ / جانبي
+lateral acceleration	تسارع جَانِبي / تسارع عرضي
+lateral acceleration signal	إشارة التسارع الجانبي
+lateral axis	محور جانبي
+lateral aXis; transverse aXis	محور عرضي
+lateral bracing member	عنصر تربيط جانبيّ
+Lateral Buckling of the Track	الإنحراف الجانبي للسكة
+lateral deviation	انحراف عرضي
+lateral device	نبيطة جانبية
+lateral direction	اتِّجَاه جَانِبي
+lateral divergence	تباعد جانبي
+lateral drain tile	أنبوب فخاري جانبي لتصريف المياه
+lateral dynamic control	تحكم ديناميكي جَانِبي
+lateral earth pressure	ضغط التربة الجانبيّ
+lateral elasticity; lateral resilience	المرونة المستعرضة
+lateral erosion	تَحاتّ جانِبيّ
+lateral flow spillway / side channel spillway	مَخْلَص ذو تدفق جانبيّ
+lateral flow spillway; side channel spillway	مَخْلَص ذو مجرى جانبيّ
+lateral flow weir	هَدّار ذو تدفق جانبيّ
+lateral force	قوة عرضية
+lateral force sensitivity (cantilever beam)	حساسية (ال...) الجانبية لعارضة التقوّس
+lateral gain	كسْب عرضي
+lateral guidance	توجيه جانبي
+lateral infiltration	تَسَرُّب من جَوانب السَدّ
+lateral inflow	جريان جانبي وارد
+lateral light	ضوء ملاحى جانبي
+lateral load	حِمْل جانبيّ
+lateral mark	علامة ملاحية جانبية
+lateral moraine	ركام جانبي
+lateral offset	إزاحة جانبية
+lateral offset loss; transverse offset loss	فقدان توازن جانبى فقدان توازن مستعرض
+lateral oscillation	تذبذب جانبي / ذبذبة عرضية
+lateral pipe	أنابيب جانبية
+lateral pressure	ضغط جانبي
+lateral projection	إسقاط جانبى
+lateral qualities	جودة الأداء العرضي
+lateral recording	تسجيل جانبي
+lateral refraction	انكسار جانبي
+Lateral Resistance (of sleepers)	المقاومة الجانبية للعارضات (الفلنكات)
+Lateral Rigidity (pantograph)	صلابة جانبية
+lateral sewer	أنبوب ثانويّ
+lateral spread or flow	انتشار أو تدفق أفقي
+lateral stability	استقرار جانبي / استقرار عرضي
+lateral support	مِسند جانبيّ
+lateral tell	إبلاغ عرضي
+lateral torsional buckling	تحنيب الفتل الجانبيّ
+lateral track displacement	تحويل جانبي للمسارات
+lateral tracking angle error	خطأ زاويةِ التتبع الجانبيِ
+lateral translation	انتقال جانبي
+lateral variation	تغيير جانبي
+lateral velocity	سرعة جانبية
+lateral wave	موجة جانبية
+lateral-rotor helicopter	طائرة عمودية بدوّارين جانبيين
+laterally deviated (ionospheric) propagation	انتشار منحرف جانبيا (أيونوسفيري)
+laterite	تُربَة اللَّاترِيت / لاتيرايت
+laterization	تَوْعينٌ
+latex	لاتكس / محلول مطاط / لثى / لثى، لبن النبات
+latex thread	خيوط مطاطية
+latex tube	أنبوب اللّثى
+lath	قدّة خشبية / ساجة
+lath (to)	لوَّح
+lath-shaped crystal	بلورة متطاولة
+lathe	مِخرطة / منضدة خراطة
+lathe chuck	ظَرْف المِخْرطة، مِلْقاط المِخْرطة
+lathe machine	مخرطة
+lathing	تسويج
+latitude	درجة خط العرض / خط عرض
+latitude bound	نطاق عرضي
+latitude nut	صامولة خط العرض
+latrines	مِرْحاض، كَنِيف
+lattice	شُبَيْكة
+lattice bridge	جسر ذو عوارض متشابكة
+lattice check	شبكة المربعات
+lattice filter	الفلتر الشبكي؛ المرشح الشبكي
+lattice girder	عَارِضَة تَشَابُكِيَّة
+Lattice Girder / Lattice Beam	دعامة عرضية
+lattice girder; lattice beam	جائز شبكي
+lattice parameter; lattice constant	الثابت الشبكى
+lattice reflector	عاكس شبكى
+lattice steel	فولاذُ مشبَّك
+lattice structure	بنية الشبيكة
+lattice tower	برج شبكي / برج تشابكي
+lattice truss	جائز شبكيّ
+lattice-boom crawler crane	مرفاع زاحف مثبت على جنزير
+latticework tulle	تُول شبكي
+lattics window	نافذة شبكية
+Laue method	طريقة لاوي
+laughing gas	أكسيد النيتروس
+laumontite	لومونتايت
+launch	إطلاق
+launch bar	قضيب الإطلاق
+launch compleX	مجمَّع الإطلاق
+launch control centre	مركز تحكم الإطلاق
+launch cost	تكاليف الإطلاق
+launch escape	فرار الإطلاق
+launch numerical aperture; LNA (abbreviation)	فتحة الحقن الرقمي
+launch opportunity	فرصة الإطلاق
+launch pad	منصة إطلاق
+launch vehicle	مَركبة إطلاق
+launch window	نافذة الإطلاق
+launcher	جهاز إطلاق
+launder	قناة صبّ
+laundry wastes	فَضَلات الغسيل
+laurasia	لوراسيا
+lava	حمم بركانية سائلة / حمم / لابة
+lava dome	قبة حمم بركانية
+lava flow	حمم بركانية متدفقة
+Lavabel	لافابيل
+Lavallière	ربطة لافاليير
+lavatory basin	مغسلة
+law	قانون
+law / right	قانُون
+law establishing an Investment Fund 'Energy and Climate Fund'	قانون إنشاء صندوق للاستثمار 'صندوق الطاقة والمناخ'
+law of constancy of interfacial angles	قانون ثبات الزوايا بين الوجهية
+law of demand	قانون الطلب
+Law of Nuclear And Radiological Control	نظام الرقابة النووية والإشعاعية
+law of reflection	قانون الانعكاس
+law of supply	قانون العرض
+law revision	مراجعة القانون
+law-making treaties	معاهدات شارعة
+lawn	روضة
+lawsonite	لوسونايت
+lax	مهلهل
+lay	نَصْب / ترتيب الوضع
+lay (to…) the foundations	أسَّسَ
+lay - by	حارة انتظار
+lay barge; pipe laying barge	طوف مدّ الأنابيب
+lay by	مَرْكَن جانبي، نقطة الْوُقُوف / فسحة الوقوف (على جانب الطريق)
+lay down rack	مِنَصَّة أفقية للأنابيب
+lay down the tubing (to)	صَنع أنابيب الإنتاج، رَصَّ أنابيب الإنتاج
+lay guide	مرجم
+lay off	رسم منفصل
+lay ratio	نسبة الخطوة
+lay ratio; lay factor	نسبة الطبقة - اللف؛ نسبة الجدل
+lay tongs; pipe tongs	مِلْقَط (أو كلابة) أنابيب الحفْر
+lay-by	مَوقِف
+lay-in effect	زخرفة غائرة
+lay-out	مخطط عام
+lay-out drawing	رسْم تخطيطي، رسْم مخطَّط تركيب
+lay-out man	مخطّط
+Lay-up system	نظام متابعة
+lay; lay-up	بَسْط
+laydown	إلقاء
+layer	طبقة / طبقة، مدماك
+layer height	ارتفاع طبقة
+layer interface	تماس طبقى
+layer of brushwood, combined with other items to secure bank	حصيرة شجيرات
+layer of mortar	طبقة ملاط
+layer of scum	طَبقة الزبَد
+layer of water	طبقة مياه
+layer thickness	سُمكُ الطَّبَقَة
+layer thickness ga(u)ging	قياس سُمك الطبقة
+layer-on	ملقّم
+layer; level (deprecated in this sense)	طبقة
+layered look	طراز الطوابق / أسلوب الطبقات / نمط الطبقات
+layering	ترقيد
+layering / layered look	طراز الطبقات
+laying	تَوسِيد
+laying down	مَدّ، وضْع، جدْل
+laying equipment (pipe, cable, etc.)	مُعِدّات تمديد (الأنابيب والكابلات ... إلخ)
+laying of bricks	تصنيف الآجر
+laying out	تجسيد على الطبيعة
+laying-on board	لوحة تغذية
+layman (in arc welding)	عامل غير محترف( في اللحام بالقوس الكهربائي)
+layout	رَسْمٌ / تنظيم
+layout design	تصميم خارجي
+layout drawing	رسْم تخطيطي
+layout drawing / location plan	خَرِيطة الموقع
+layout flexibility	مرونة التصميم
+layout sheet	ورقة تخطيط
+layout table	منضذة تخطيط
+layout; lay-up; racking	ترتيب
+layout; scheduling; schlieren	تخطيط
+layout; schematic diagram	رسم تخطيطي
+lazulite	لازوليت
+lazurite	لازورايت
+lazy battery effect; memory effect	ظاهرة القصور الذاتي للبطارية
+lazy bench	مقعد مراقبة
+lazy board; growler board	دفّ (مسند) توصيل الأنابيب، منصة التعليق
+lazy eight	مناورة الثمانية الكسولة
+lazy tongs	مِلْقَط متعرِّج
+lc50 / median lethal concentration	متوسط التركيز المميت (LC50)
+LCD display	شاشة كريستال سائل (LCD) / شاشة عرض سائلة متعددة الوسائط
+LCD: Liquid Crystal Display	شاشة البلور السائل
+LCD; liquid crystal display	شاشة عرض بلورية سائلة
+LCL (less-than-carload)	إرسالية جزئية
+ld50 / median lethal dose	متوسط الجرعة المميتة (LD50)
+LE Jetronic	نظام LE-Jetronic
+leach field	حوض الارتشاح / مَزْبلة
+leachate	غُسالة / ماء ملوَّث متسرِّب / عصارة
+leachate / seepage loss / seep water	ماء الرشْح
+leachate collection system	نظام جمع الغُسالة / نظام جمع العصارة
+leachate management	نظام إدارة العصارة
+leachate monitoring	مُراقبة مياه الرشْح
+leachate treatment	معالجة العصارة
+leachate; landfill leachate	مياه مُرتشحة من مقلب القُمامة
+leaching	غسل التربة / غَسْل / غسل / رشح غسلي
+leaching lines	خطوط النّضّ(الرشح)
+leaching requirement	احتياجات الغسْل
+leaching test	تَجرِبة غَسْل
+Leacril	ألياف ليكريل
+lead	رصاص / طرف مرن / سَبْق / رقيقة / تقدّم / رَصاص
+lead (metal)	رَصَاص
+lead acid battery	نضيدة رصاصية حمضية
+lead acid cell	خلية رصاص حمضية
+lead aircraft	طائرة السبْق / طائرة القيادة
+lead angle	زاوية السبْق
+lead azide	أزِيد الرصاص
+lead configuration	شكل كهربائى (فى الكهروحيوية)؛ شكل إرشادى
+lead content	محتوى الرصاص
+lead cutter	قاطع الرقائق
+lead dioxide lead battery; lead dioxide lead battery	بطارية ثاني أكسيد الرصاص - الرصاص
+lead equivalent	مكافئ رصاصى
+lead frame (of a package)	اطار رصاصى(لحزمة)
+lead glass	زجاج رصاصى
+lead joint	وُصْلة رَصاصية
+lead length	طول المُقدِّمة
+lead length track circuit	دارة مسار توجيه
+lead line / log line / sounding wire	كابِل قِياس / سِلْك السبْر
+lead market	سوق رائدة
+Lead member	مكوِّن قيادي
+lead pole	عمود الدليل
+lead rubber	مطاط رصاصى
+lead ship	مَركبة الدليل
+lead sulphate	كبريتات الرصاص
+lead tetraethyl	تترا ايثيل الرصاص
+lead time	زمن سبق / زمن السبْق
+lead time displacement	إزاحة وقت الانتاج/ مدة الانجاز
+lead tongs	مَلاقط فَكّ الأنابيب
+lead tongs wire	سلك ملقط فك الأنابيب
+lead-acid batteries	بطاريات رصاص
+lead-acid battery	بطارية الرصاص الحمضية
+lead-computing sight	مهداف حساب السبْق
+lead-containing (fuel)	وقود يحتوي على الرصاص
+Lead-Cooled Fast Reactor	مفاعل سريع مبرد بالرصاص
+lead-free fuel	وقودٌ خالٍ من الرصاص
+lead-in	دليل الدخول
+lead-in area (in CD or DAT systems)	منطقة المقدمة (في انظمة الأشرطة السمعية الرقمية أو الأقراص المدمجة)
+lead-in groove	أخدود الدخول
+lead-in-area	منطقة بداية البرنامج
+lead-lag element	عنصر تقديم / تأخير
+lead-out area (in CD or DAT systems)	منطقة المؤخرة (في انظمة الأشرطة السمعية الرقمية أو الأقراص المدمجة)
+lead-out area; programme end signal area	منطقة نهاية البرنامج
+lead-out groove	أخدود الخروج
+lead-over groove	أخدود ربط
+lead-pursuit	مطاردة السبْق
+leaded	مُعالَج بالرصاص
+leaded fuel	وقود مرصَّص
+leaded gasoline	بنزين يحتوي على رصاص
+leaded matter	مادة مفسّحة
+Leader	ألياف ليدر
+leader cable	كَبل دليلي
+leader tape	مقدمة الشريط
+leading	فوصلة، تفسيح
+leading axle	مِحوَر أمامي
+leading brake shoe	حذاء فرامل مُتقدم
+leading current	تيار متقدّم
+leading edge	حافّة أمامية / حافة أمامية
+leading edge sweep	اجتراف الحافّة الأمامية
+leading lights, pl	إشارات ضوئية إرشادية
+leading marks	علامات إرشادية
+leading phase difference	فرق الطور المتقدم
+leading shoot	غصن رائد
+leading spring	ياي الضغط الإضافي
+leading truck	عَرَبَة شَحن أمامية
+leading-edge broadening ; rise-time broadening	اتساع الحافة المتقدمة
+leading-edge flap	قلاّبة الحافّة الأمامية
+leaf	وريقة
+leaf area index (lai)	مؤشر مساحة الأوراق
+leaf axil	قاعدة ورقة
+leaf brake	مكبح صفائحي
+leaf grade	مستوى النعومة
+leaf of door	مصراع الباب
+leaf seal bar / seal bar	أَسْياخ حابِكة
+leaf spring	ياي ورقي / نابض ورقي
+leaf-spring	نابض صفائحي
+leaflet	وريقة
+Leak	تسريب
+leak / leakage	تسرّب
+leak detection	كشف التسرب / تحديد مكان التسرب
+Leak detection systems	أنظمة كشف التسربات
+leak detector	جهاز كشف التسرب (مكيف الهواء) / كاشِف التسرُّب
+leak diagnosis pump (LDP)	مضخة تشخيص التسرُّب
+leak oil	زيت مُتسرب
+leak proof joint	وصلة محكمة السد
+leak test; testing for leaktightness	اختبار الإحكام
+leak volume	كَمّية المياه المُتسرِّبة
+leakage	تسرب / رشح / تسرّب / نضوح / تسرُّب / تسريب
+leakage (of water) / absorption loss	فاقِد التسرب
+leakage (waste collection)	تسرب (جمع النفايات)
+leakage / loss (of a liquid)	خسارة في كمية سائل ما بفعل التسرّب
+leakage belt	حزام تسرب
+leakage coefficient	معامل الرشح
+leakage compensation	تعويض الفقد
+leakage current	تيار تسربِ / تيار التسرب / تيار تسرب / تيار التسرّب
+leakage flux	تدفق تسربي
+leakage permeance	نفاذية تسربية
+leakage radiation	إشعاع متسربِ
+leakage resistance	مقاومة تسرب
+leakage resistance; resistance to earth	مقاومة تسرب؛ المقاومة للارض
+leakage water	مياه مُتسرّبة / ماء وَكِفٌ، ماء الرشح
+leaky aquifer	خزان جوفي نفوذ
+leaky boundary	حد قابل للرشح
+leaky mode; tunnelling mode	نمط تسرب الشعاعِ - صيغة نفقية
+leaky ray; tunnelling ray	شعاع تسريبى - شعاع نفقي
+leaky turbojet	محرك عنفي نفاث سَرِب
+leaky wave	موجة مسرّبة
+leaky-wave antenna	هوائى موجة متسربة
+lean clay; sandy clay	صَلْصال غَثّ، غضار جاف
+lean concrete	خَرَسَانَة حمريَّة / خرسانة نظافة / خرسانة ضعيفة
+Lean Gas	غاز خفيف / غاز (ال..) الفقير
+Lean Gas (High Pressure)	غاز خفيف ذو ضغط عالٍ / غاز خفيف ذو ضغط عالي
+Lean Gas (Low Pressure)	غاز خفيف ذو ضغط منخفض
+lean logistics	إمدادت هزيلة
+lean mixture	مزيج فقير / مزيج خفيف
+lean oil	زيت فقير، زيت الامتصاص
+lean oil cooler	مبرد الزيت الفقير
+lean production	إنتاج هزيل
+lean-burn combustion system	تصميم لمحركات تعمل بخليط فقير
+lean-burn engine concept	فكرة عمل المحركات ذات الخليط الفقير
+lean-mix concrete	خَرَسَانَةٌ هَزِيلَةٌ
+lean-to mansard roof	سقف منحدر
+lean-to sand shelter	مأوى بسقف مائل للوقاية من الرمل
+lean; weak miXture	مزيج فقير
+leanquick lime; hydraulic lime	جير مائي، جير هيدرولي
+leapfrog	قفْز الضفدع
+leapfrog development	تنمية بقفزات
+learner cost	تكاليف الاعتياد / تكاليف المتعلِّم
+Learning & Development Council	مجلس التعليم والتطوير
+learning ability	قدرة على التعلم
+learning curve	منحني الاعتياد / منحني التعلُّم
+lease	عقد ايجاز، عقد امتياز، عقد استغلال بدلي
+lease automatic custody transfer,(I.A.C.T.)	نقل العهدة التلقائي في منطقة الامتياز
+lease design	شكل الخيوط المتقاطعة
+Leased line	خط اتصال مستأجر
+leaseholds	عقود استغلال
+least cost planning	تخطيط بالتكلفة الأقل
+least developed countries (ldcs)	بلدان أقل نموا
+least developed countries expert group (leg)	البلدان الأقل نموا - فريق الخبراء
+least developed country fund (ldcf)	صندوق البلدان الأقل نموا
+Least Significant Bit	بت (ال...) الأقل قيمة (LSB)
+Least Significant Bit (LSB)	بت (ال...) الأقل قيمة (LSB)
+least significant bit; LSB (abbreviation)	الرقم (بت) الأقل أهمية فى الترميز
+Least significant digit	رقم (ال...) الأقل قيمة
+least square rate	معدل المربعات الصغرى
+least squares	مربعات صغرى
+least-cost planning	تخطيط أقل تكلفة
+leather	جلد
+leather glove	قفازات السياقة
+leather industry	صِناعة الجُلود
+leather pulp board	كرتون اللب الجلدي
+leather steering wheel	عجلة قيادة جلدية
+leather substitute / man-made leather	جلد صناعي
+leather trousers	سروال جلدي
+leaving home system	نظام مُغادرة المنزل / نظام ترك المنزل (LHS)
+Leblanc connection	توصيلة لو بلان
+Leclanché battery	بطارية لاكلانشية
+Leclanché cell	خلية لكلانشيه
+LED die	قالب صمام ثنائي باعث لضوء LED
+LED display	شاشة عاملة بدايودات مضيئة
+LED junction	صمام ثنائي باعث لضوء LED
+LED lamp	مصباح صمام ثنائي باعث لضوء LED / مصباح LED
+LED light source	مصدر ضوء لصمام ثنائي باعث لضوء LED
+LED luminaire	جهاز إضاءة لصمام ثنائي باعث لضوء LED
+LED module	نموذج صمام ثنائي باعث لضوء LED / وحدة صمام ثنائي باعث لضوء LED
+led oxide	ثاني أكسيد الرصاص
+LED package	حزمة صمام ثنائي باعث لضوء LED
+LED; light emitting diode	صمام ثنائي باعث لضوء LED
+ledge of a door	عراضة باب
+ledged door	باب ساجي
+ledger	خشبة مستعرضة
+ledger paper	ورق سجلات
+leed (leadership in energy and environmental design)® rating	تصنيف الريادة في التصميم الطاقي والبيئي
+leet management system	إدارة أسطول المركبات
+leeward	ظل الريح
+left (stereophonic) signal; A signal	إشارة (مجسّم الصوت) يسرى
+left hand position (of points or scissors)	موقف الممر الأيسر
+left hand thread	تسنين يساري اللولبة
+left lay rope	حبل مفتول يسارا
+left seat	مقعد أيسر / مقعد القيادة
+left turning lane	مَسْرَب الانعطاف إلى اليسار
+left twist thread	خيط برم شمال
+left-eye stereoscopic television picture	صورة التلفاز التجسيمي للعين اليسرى
+left-hand polarization; counter clockwise polarization	إستقطاب يد شمالى؛ إستقطاب عكس اتجاه عقارب الساعة
+left-hand polarization; counter-clockwise polarization	إستقطاب يد شمالى؛ إستقطاب عكس اتجاه عقارب الساعة
+left-hand polarized wave; counter-clockwise polarized wave	موجة مستقطبة باتجاه الشمال
+left-hand rotation	دوران يساري
+left-hand turnout	تحويلة اليسار
+left-hand twill	تضليع على شكل حرف 'S'
+left-handed crystal	بلورة يسارية التدوير
+left-seater	الجالس إلى اليسار
+left-seater; pilot	قائد الطائرة
+left/right needle	إبرة يسار/ يمين
+lefthand ring denim	دنيم حلقى اتجاه نسيج يسار
+leftmost position (of a turnout/point)	موقف أقصى اليسار
+leg of table	رِجْل الطاولة
+leg restraint	تقييد الساق
+leg slope	ميل الساق ( الرجل )
+leg warmers	واقي الرجلين
+leg warmers with feet	جورب واق للساق مع القدم
+leg warmers/ puttees	جورب ساقي
+leg-of-mutton sleeve	كم مثلث
+leg-vice	ملزمة برِجل
+leg; phase; stage; step	مرحلة
+leg; post	قائم
+leg; shank	ساق
+legacy tree (fsc)	شجرة تراث (مجلس الإشراف على الغابات)
+legal	قانوني
+Legal Affairs Department	دائرة الشؤون القانونية
+Legal Department (International Marketing)	دائرة القانونية (التسويق العالمي)
+legal framework	إطار قانوني
+legal framework condition	حالة الإطار القانوني
+legal instrument	صك قانوني
+legal protection insurance	تأمين الحماية القانونية
+legal provision	نص قانوني
+legal right of access	حق قانوني في الوصول
+legal subdivision	قسيمة (ال...) القانونية (الشرعية)
+legal titre	عيار قانوني
+legal wood	خشب قانوني
+legality assurance system (las) (flegt)	نظام ضمان الشرعية في إطار إنفاذ قانون الغابات والحكامة والتجارة
+legend	مفتاح المصطلحات / قائمة تفسيرية / بيان مكتوب / تعليق على شكل
+leggings	طِمَاق
+legibility	وضوح
+legibility distance under rapid glance conditions,	مقروئية المسافة تحت ظروف الوهج السريع,
+legibility distance,	مسافة المقروئية,
+legionella	فيلقية
+legionnaires' disease	داء الفيالقة
+legislation	تَشْرِيع
+Legislations	تشريعات
+legislative load	حمل قانوني
+legume	بقوليات
+legume-based organic rotation	البقوليات الدورة العضوية القائمة على
+leisure	ترفيه
+leisure traffic	نقل التَّرفيه
+leisure wear	موضة الأوقات الحرة
+leisure wear / fashion sportswear	ملابس للاستجمام
+LEL (Lower Explosive Limit)	حد أدنى للتفجرات
+length	طُول / طول / قوام الحبر
+length at back	طول الظهر
+length centre line [UK] / length center line [US]	محور أوسط طولي
+length of contact strips	قطاع الإتصال الطولى
+length of cut (or cutting length)	عمق القطع
+length of lay	طول الخطوة / طول الطبقة؛ طول الجدل
+length of lines operated	طول خطوط التشغيل
+length of path	طول مسار
+length of slope; backwater length	طول الانحدار
+length of takeoff	مسافة الإقلاع
+length, equivalent	طُول مُكافِئ
+length-of-run	زمن المسير
+lengthwise ribs	قماش مُضلع بالطول
+lengthwise sawing	نشر طولي
+lenix apparatus	جهاز لينكس
+leno weave	نسيج سادة شبيكة
+lens	عدسة
+lens light guide	موجه ضوء بالعدسات
+lens spotlight	جهاز إنارة ذو ضوء بقعي مزود بعدسة
+lens-corrected horn (antenna)	هوائى بوقى مصحح العدسة
+lenticels	عديسات
+lenticular	عدسي الشكل
+lenticular blade	ريشة عدسيّة
+lenticular cloud	سَحَاب عدسي
+lenticular stereoscopic picture tube	أنبوب صورة مجسمة عدسي الشكل
+Lenz's law	قانون لِنْز
+Lenzing Modal / Lenzing Modal micro fiber	ألياف لينزيج
+leopard print	طبعة الفهد
+leotard	ثوب لصوق
+leotard / string bodysuit	لباس لاصق بخيط
+lepidocroicite	ليبدوكروسايت
+lepidolite	ليبدولايت
+leptophylle	دقيقة الأوراق
+less than truck load, (L.T.L.)	شحنة غير كاملة
+less than truckload	اقل من حمولة شاحنة
+Less-Than-Container Load	حاوية تجميع
+let-down	إنزال الطائرة
+let-go threshold (current); release current (deprecated)	الحد الأقصى للتيار الذي يفقد بعده الجسم السيطرة على العضلات
+let-go threshold current	حد تيار الاعتاق
+lethal	مُمِيت
+lethal concentration (LC)	تركيز مميت
+lethal concentration (LC50)	تركيز المواد السامة / تركّز المواد السامة
+lethal dose (LD)	جُرعة مميتة
+Letona	ألياف ليتونا
+letter	حرف، محرف
+letter axis	محور محرف
+letter of intent	خطاب نوايا
+letter spacing	تفسيح
+letter width	عرض المحارف
+letter-boX inlet	مدخل صندوق الرسائل
+letter-boX slot	شق صندوق الرسائل
+letter-shift signal	إشارة إزاحة حرف
+letterhead	صديرة رسالة
+letterpress perfector	طابعة الوجهين
+letterpress printing	طباعة بارزة
+letterpress printing ink	حبر طباعة بارزة
+letterpress rotary	طابعة حروف دوّارة
+letters case	وضع الحروف
+letters cutting	قطع المحارف
+letters shift	إزاحة حروف
+letters shift-on space	فراغ لإزاحة الحروف
+letterset	طباعة أوفست حروف
+letting-out process	تجميع الفراء
+leucite	لوسيت
+leucocratic rocks	صخور فاتحة اللون
+leucoxene	ليوكوكسين
+levee	حاجز
+levee (dike; dyke)	ساتر ترابي ردمي
+level	ميزان ماء / مَنسُوب / مستوى / علو المنسوب / مُسْتَوَىً / جهاز تسوية / منسوب / منسوب، مستوى / مستوى، منسوب
+level (instrument)	ميزان تسوية
+level (instrument) / level meter	جِهاز تسوية
+level (of a sound signal)	مستوى (الإشارة الصوتيّة)
+level (of a time varying quantity)	مستوى (لكمية متغيرة مع الوقت) / مستوى لكمية متغيرة زمنياً)
+level (of a video signal)	مستوى (لإشارة مرئية )
+level (to)	قَاسَ بجهاز التسوية
+level alarm	جهاز إنذار باختلاف المنسوب (أو السوية)
+level bubble	فُقاعة التسوية / ميزان استواء، مسواة
+level compounded; flat compounded (US)	مركب مضبوط
+Level control loop (center) with free outlet	دائرة ضبط منسوب ذات تدفّق خرج حر
+Level control loop with free discharge	منظومة مضبوطة المنسوب مع تدفق خرج حر
+level control sensor; level sensor	حَسّاس منسوب الملء
+Level control system with a constant flow	منظومة مضبوطة المنسوب مع تدفق خرج ثابت / دائرة ضبط منسوب ذات تدّفق خرج ثابت
+level controller (in a network)	متحكم المستوى (في الشبكات)
+level crossing	مَعْبَرٌ عَلَى السِّكَّةِ / معبر أرضي / ممر سطحي / التَّقاطُعاتُ / تقاطع على مستوى واحد
+level crossing (protected by technical means)	معبر أرضي مع نظام أمن تقني
+Level crossing accidents	حَوادِثُ تَقاطُعاتِ الخُطُوْط الحَدِيْدِيَّة
+level crossing monitor signal	إشارة عبور المعبر الأرضي
+level crossing monitored by signal	معبر أرضي مزود بإشارة
+level crossing protection	حماية المعبر الأرضي
+level crossing protection system	نظام حماية المعبر الأرضي
+level crossing protection triggered as part of route setting	تجهيز حماية المعبر الأرضي
+Level crossing signal	إشارة مراقبة للسائق
+level crossing; level grade crossing	معبر تقاطع بنفس المستوى
+level cut-off valve	صِمَام قطْع منسوبي
+level difference; sound isolation between rooms	فرق مستوى
+level gauge	جهاز قياس المنسوب
+level impoundment furrows	ريّ بطريقة الأخاديد الحقلية
+level indicator	مؤشر السوية، مبين المنسوب
+level instrument	جهاز تسوية
+level landing	حطّ مستوٍ / هبوط مستوٍ
+level line	خط أفقي
+level mark	علامة منسوب
+level measurement	قياس منسوب الملئ / قياس المستوى
+level measurement through force measurement	قياس المنسوب من خلال قياس القوة
+level measurement with floats and touch panels	قياس المنسوب بالعوّامات واسطوانات الحسّ
+level measurement with microwaves	قياس منسوب الملء بالموجات الميكروية
+level measurement with positive displacement methode	قياس المنسوب بطرق الإزاحة
+level measurement with radar	قياس منسوب الملء بالرادار
+level measurement with vibration	قياس منسوب الملء بالاهتزازات
+level monitoring	مراقبة المستوى
+level of compaction	مستوى الضَّغط
+level of confidence/ statistic safety	درجة الثقة
+level of critical combined water flow	عُمْق (ال...) الحرج للمياه
+level of escape	مستوى الإفلات
+level of filling	مستوى التعبئة
+level of maintenance; maintenance level	مستوى الصيانة
+Level of Protection	مستوى الحماية, فى الأجواء المتفجرة
+Level of Protection "pxb"	مستوى الحماية "pxb"
+Level of Protection "pyb"	مستوى الحماية "pyb"
+Level of Protection "pzc"	مستوى الحماية "pzc"
+level of service	مستوى الخدمة
+level of service (1)	مستوى الخدمة (1)
+level of service (2)	مستوى الخدمة (2)
+level of service (los)	مستوى الخدمة
+level of standardisation	مستوى التوحيد القياسيّ
+level off	استواء
+level recorder	مسجل المنسوب
+level section	مقطع أفقي
+level shearing	مستوى القص
+level span	تباعد مستوي
+level surface	سَطْح تسوية
+level vial	زئبقية
+level, frost-free	مَنسُوب الماء غير المتجمِّد
+level, hydrostatic	منسوب هيدروستاتيّ
+level-cut loop	قص على مستوى الحلقات
+Levelized Cost of Electricity (LCOE)	تكلفة كلية لإنتاج الكهرباء
+Levelized Cost of Energy	تكلفة قياسية لإنتاج الطاقة
+Levelized Cost of Energy (LCOE)	سعر التعرفة للطاقة
+Levelized Cost of Hydrogen	تكلفة متوسطة للهيدروجين
+levelled	مُسَوَّى
+levelling	مَنسَبَة / تسوية / قياس الارتفاع
+levelling circuit	دارة تسوية
+levelling course	مدماك تسوية
+levelling course arasement	طبقة تسوية
+levelling jack	مرفاع تسوية
+levelling observations	قياسات التسوية
+Levelling of the track	تسوية مسار السكة
+levelling traverse	مضلع تسوية
+levelling valve [UK] / leveling valve [US]	صمام التحكم في المستوى
+levels of contamination	مستويات التلوث
+levels of similarity	مستويات التشابه
+lever (of en electrode holder)	رافعه ( لحامل قطب كهرباء)
+lever arm	ذراع المزدوجة
+lever as a proportional element	عتلة (ال...) كعنصر تناسبي
+lever for log	رافعة الجذوع
+lever switch	مفتاح ذو رافعة
+leverage	معدَّل الكسب
+leverage lease	استئجار اكتسابي
+levered suspension	تعليق ذراعي
+Leviathan	ليفياثان
+levitation	اِرْتِفاع
+levitation melting; cold crucible melting	صهر بوتقة باردة ، صهر هش
+levitation system	نظام الرَّفع
+lewis	رافعة
+Lewis aerial	هوائي لويس
+Lewis number	رقم لويس
+LeXan	لكْسان
+Leyden jar	قارورة لايدن
+LGE speed	سرعة إنزال عدة الحطّ
+LH-Jetronic	نظام الحقن الإلكتروني المتقطع
+liabilities	مخصومات
+liability for damages of the network operat	المسؤولية عن أضرار مشغل الشبكة
+liability loss	ضرر يتحمل المُسبب مسؤليته
+liability; responsibility	تَحمُّل المسؤولية عن ضَرَر
+lianas	نباتات متسلقة
+liberalization	تحرير
+liberalization [US]; deregulation	تحرُّر
+liberalization, complete	تحرير كامل
+Liberty	لايبريتي
+library edition	طبعة متقنة
+libration	ترجُّح / مَيَسان / نَوَدان القمر
+licence (for certification)	رخصة (للتوثيق)
+licence plate number [UK] / license plate number [US]	لوحة أرقام السيارة
+licence plate rim [UK] / license plate rim [US]	مدعم لوحة أرقام السيارة
+license	رخصة / التَّرْخِيصُ
+license area	منطقة الرخصة
+license to operate	ترخيص تشغيل
+Licensee	المُرَخَّصُ لَهُ / مرخص له
+licensing	ترخيص
+lichen	حزاز / أشنة
+lid sealing compound	مركب إحكام غلق الغطاء
+LiDAR technology	تقنية 'ليدار' (Lidar)
+lidar; ladar	ليدار
+lidded wagon	عَرَبَة بغطاء
+lido collar	یاقة الليد
+lido shirt	قميص الليدو
+lie detector; polygraph	كاشف الكذب
+life	حياة / تعيين العُمْر / زمن الخدمة / عُمْر
+life cycle	الدورة العمرية
+life cycle analysis (lca)	تحليل دورة الحياة
+life cycle assessment	تقييم دورة الحياة
+life cycle assessment (LCA )	تقييم الدورة العمرية
+life cycle assessment; LCA	تقييم الدورة العمرية
+life cycle assessments	تقييم بيئي لدورة الحياة
+life cycle cost	تكلفة الدورة العمرية
+life cycle cost, ; whole life cost, ; LCC	تكلفة الدورة العمرية ،, ؛ التكلفة الكلية للدورة العمرية ،,
+life cycle costing	تكلفة الدورة العمرية
+life cycle inventory	جرد دورة الحياة
+life cycle stage; life cycle phase	مرحلة الدورة العمرية؛ طور الدورة العمرية
+life cycle thinking; LCT	التفكير في الدورة العمرية
+life expectancy	تَوَقُّع الحياة
+life history strategy	استراتيجية تاريخ الحياة
+life jacket	صدرية نجاة
+life table	جدول الحياة
+life test	اختبار العمر
+life test,	اختبار لتحديد العمر الإفتراضى,
+life test; durability test	اختبار االعمر؛ اختبار المتانة
+life to X % failures,	تحديد العمر الافتراضى من خلال النسبة المئوية لإعمار المصابيح,
+life,	العمر الإفتراضى,
+life-buoy	عوّامة إنقاذ
+life-critical call	نداء حالة حرجة
+life-cycle analysis	تحليل دورة الحياة
+life-cycle cost	تكاليف دورة الحياة
+life-form spectrum	طيف أشكال الحياة
+life-raft	طوف إنقاذ
+life-vest	صدرية نجاة، سترة نجاة
+lifeboat alarm	إنذار قارب الإنقاذ، إنذار قارب النجاة
+lifeboat crew	طاقم قارب النجاة، طاقم قارب الإنقاذ
+lifecycle	دورة الحياة
+lifecycle (industrial)	دورة حياة (صناعة)
+lifelines	شرايين الحياة
+lifesaving apparatus	جهاز إنقاذ
+lifestyle bible	دليل أسلوب الحياة
+lifestyle of health and sustainability (lohas)	نمط حياة الصحة والاستدامة
+lifetime	عمر
+lifetime extension	مدّ فترة الاستخدام
+lifetime for raw materials	عمر منتظر للمواد الخام
+LIFO-principle	مبدأ LIFO
+lift	رفع / صَبَّة صاعِدة / مصعد / رَفْعة
+lift (act of raising)	رَفْع
+lift and drag coefficients	مُعامِلا الرفع والسحب
+lift aXis	محور الرفع
+lift coefficient	مُعامِل الرفع
+lift curve	منحنى الرفع / منحني الرفع
+lift drag ratio	نسبة الرفع
+lift dumper	مُفَرِّغ الرفع
+lift fan	مروحة رفع
+lift gate	بوابة رأسية
+lift irrigation area / lift area	رُقعَة الريّ بالرفع
+lift motor	محرك الرفع
+lift off coil induction crucible melting furnace	فرن حثي ذو بوتقة قابلة للفك
+lift station	محطة رَفْع
+lift strut	دعامة الرفع
+lift to drag ratio	نسبة الرفع إلى مُقاومة الهواء
+lift vector	متَّجه الرفع
+lift wire	سلك الرفع
+lift-curve slope	مَيْل منحني الرفع
+lift-design	تصميم الرفع
+lift-improvement device	جهاز تحسين الرفع
+lift-lift/cruise	رفع ـ رفع/ طيران مطَّرد
+lift-off	ارتقاء
+lift-on-lift-off (lo-lo)	تحميل وتفريغ
+lift/cruise engine	محرك الرفع والطيران المطَّرِد
+lift/drag ratio	نسبة الرفع إلى الكبح
+lift/thrust ratio	نسبة الرفع إلى الدفع
+lift; elevator	مصعد
+lift; uplift	رَفْع
+lifter	غمّاز
+liftgate	الباب الخلفي
+lifting	رفْع / حمولة
+lifting body	جسم رافع
+lifting bridge	جسر متحرك
+lifting cable	سلك رفع
+lifting capacity (fleet)	حمولة قصوى
+lifting costs	تكاليف الاستخراج
+lifting device	تجهيزة الرفع
+lifting electro-magnet	مغنطيس رفع كهربي
+lifting facility	تجهيزة رفع
+lifting hook	خُطّاف التعليق، كُلاّب التعليق
+lifting hook type gate	بوابة هدّار خطافية
+lifting jack	رافعة
+lifting magnet	مغنطيس رفع
+lifting plug	سدادة الرفع
+lifting re-entry vehicle	مَركبة راجعة رافعة
+lifting screw	رافعة
+lifting speed	سرعة الرفع
+lifting sub	وصلة الرفع الثقيلة
+lifting system	نِظام رفْع
+lifting tackle; hoisting tackle	جهاز الرفع، معدات الرفع (من حبال و بكرات)
+lifting truck	شاحنة رافعة
+liftjet	محرك نفاث رافع
+ligature	شريط رابط
+light	ضوء / فاتح / ضوء، خفيف
+light absorption	امتصاص الضوء
+light aircraft; lightplane	طائرة خفيفة
+light alloy	سبيكة خفيفة
+Light Amplification by Stimulated Emission of Radiation	ليزر
+light barrier	حاجز ضوئي
+light beacon	أرمة مضيئة
+light beam	شعاع ضوء
+light benzine	بنزين خفيف
+light blue	أزرق فاتح
+light bomber	طائرة قاذفة خفيفة
+light bulb	لمبة مُتوهّجة
+light centre,	مركز الضوء,
+light color	لون الضوء
+light colour designation	الرقم الرمزى للون الضوئى
+light cone	مخروط ضوء
+Light Crude Oil	بترول خام خفيف
+light curtain	ستارة ضوئية
+light demander	طالب ضوء
+light density material / matter	مادة ضعيفة الكثافة
+Light Dependent Resistor	مُقاوم مُعتمد على الضوء (LDR)
+Light dependent resistor (LDR)	مقاومة ضوئية / مُقاومة ضوئية
+light displacement	إزاحة خفيفة / وزن السفينة فارغة
+Light Duct	أنبوب ضوئي
+light emitting diode	دايود (LED) / صمّام ثنائي مُشّع للضوء (LED) / الصِمامُ الثُنائِيّ الباعِثُ لِلضَوْءِ
+light emitting diode (LED)	صمّام ثنائي مُشّع للضوء (LED)
+light emitting diode; LED	صمام ثنائي باعث لضوء LED
+light emitting diode; LED (abbreviation)	صمام كهر ضيائية؛ صمام الكتروني باعث للضوء
+light ends	قُطَارات خفيفة
+light extractor,	منارة,
+light fastness	ثبات اللون للضوء
+light fighter; lightweight fighter	طائرة مقاتلة خفيفة
+light fixtures	مُثَبِّتات إضاءة
+light grid	شبكة ضوئية
+light guide	دليل بصري
+light gun	مسدس ضوئي
+light injector,	حاقن الضوء,
+light intensity	شدة الإضاءة / شدة الضوء
+light liquid	سائل خفيف
+light liquid separator	فاصل السوائل الخفيفة
+light liquid, directly separable	سائل خفيف قابل للانفصال مُباشرةً
+light liquid, non directly separable	سائل خفيف غير قابل للانفصال مُباشرةً
+light load test	اختبار الحمل الخفيف
+light minerals	معادن خفيفة
+light module (LM)	موديول الإضاءة (LM)
+light oil	زيت خفيف
+light output ratio, ; LOR; luminaire efficiency	نسبة خرج ضوء,
+light pen	قلم ضوئي
+light pipe	أنبوب ضوئي
+Light Poles (GFRP)	أعمدة الإنارة البوليمرية المدعمة بالألياف الزجاجية
+light pollution	تلوث الضوء
+light rail	سكة خفيفة
+light rail line	خط قطار خفيف / خَطّ حَدِيدِيّ خَفِيف
+light rail motor tractor	جَرَّار سِكَكِي خفيف / ساحِبَةٌ آلِيَّةٌ خَفِيفَةٌ عَلَى خَطٍّ حَدِيدِيَّ
+light rail system, city railway	نظام سككي خفيف
+Light Rail Transit (LRT)	قطار النقل الخفيف
+light rail vehicle	عَرَبَة سِكَكِية خفيفة / عَرَبَة خَط حَدِيدِيَّة خَفِيفَة
+Light Rail Vehicle (LRV)	مركبة قطار النقل الخفيف
+light rail vehicles LRV	مركبات سِكَكِية خفيفة
+light ray	شعاع ضوئي
+light reaction	تفاعُل ضوئي
+light repeater	مقوى ضوئى
+light running	تشغيل (أو دوران) هادئ (بأدنى احتكاك)
+light running, empty running	مرور خفيف
+light running; locomotive running light	سير بحمل خفيف
+light scattering	تشتت الضوء
+light sensor (LS)	حسّاس الضوء (LS)
+Light shelf	رفّ ضوئي
+light signal	منارة / إشارة ضوئية
+light signal,	أشارة ضوئية,
+light signalling	إرسال إشارة ضوئية
+light source	منبع ضوئي / مصدر ضوء
+light source,	مصدر الضوء, غطاء اللمبة
+light stabilized fiber	ألياف مثبتة ضوئياً
+light station	منارة
+light stimulus	محفز للضوء
+light straight-run naphta, (I.S.R.N.)	نفتا التقطير المباشر الخفيفة
+light tender	زورق مساعد خفيف
+light therapy	معالجة خفيفة
+light thinning (fsc)	تخفيف ضعيف (مجلس رعاية الغابات)
+light tops	منتجات رأسية خفيفة
+Light Trucks	شاحنات خفيفة
+light unit	وحدة الاضاءة
+light valve	صمام ضوئي
+light vehicle on rail	مركبة سِكَكِية خفيفة
+light vessel; lightship	مركب إضاءة؛ سفينة إضاءة
+light virgin naphta	نفتا بكر خفيفة
+light water	ماء خفيف
+Light Water Reactor	مفاعل الماء الخفيف
+light weight alloy	سبيكة (خليطة) خفيفة
+light wind phase	مرحلة الرياح الضعيفة
+light, adj	ناصع
+light, lamp	إضاءة
+light, noun	الضوء,
+light, noun; perceived light	ضوء, ؛ الضوء المحسوس
+light, ultra violet	ضوء فوق بنفسجيّ
+light-beam localizer; light-beam diaphragm	محدد موقع حزمة الضوء
+light-dark boundary (HDG)	الحد الفاصل بين النطاق المُضيئ والمُظلم
+Light-Duty Vehicles (LDVs)	مركبات خفيفة
+light-emitting bar	قضيب مُصدِر للضوء
+light-emitting diode	صمام ثنائي مُصدِر للضوء
+light-emitting diode (LED)	صمام ثُنائيّ مُشع للضوء / صمّام ثنائي مُشّع للضوء (LED) / صمام ثنائي باعث للضوء (LED)
+light-emitting diode; LED (abbreviation)	صمام ثنائى باعث للضوء
+Light-Emitting Diodes (LEDs)	ثنائي باعث للضوء
+light-emitting strip	شريحة مُصدِرة للضوء
+light-emitting variable message sign	اشارة رسائل متغيرة لإنبعاث ضوء
+light-helicopter cycle	دورة الطائرة العمودية الخفيفة
+light-like vector	متجه مناظر للضوء
+light-microsecond	ميكروثانية ضوئية
+light-signal transfer characteristic	خصائص انتقال الاشارة الضوئية
+light-valve (television) projector	عارض اسقاط تلفاز) باستخدام صمام ضوء
+light; visible radiation	ضوء / ضوء إشعاع مرئي
+lighted buoy	عوامة مضيئة؛ عوامة منارة
+lightening hole	فتحة تخفيف
+lighter	صندل
+lighter aboard ship,(I.S.A.H.)	شحن في صنادل محمولة على سفينة
+lighter than air	أخف من الهواء
+lighterage	نَقْل بالصنادل
+lightering vessel	ناقلة نفط مخفّفة
+lighthouse	منارة / منارة، فنار
+lighthouse tender	سفينة لخدمة المنارات
+lighting	إضاءة، إنارة / إضاءة / إنارة
+lighting (domestic…)	إضاءة منزلية
+lighting arrestor	مانعة الصواعق
+lighting chain; lighting string, US	سلسلة من المصابيح
+lighting circuit	دائرة إنارة
+Lighting Control Unit	وحدة التحكم في الإضاءة
+lighting dynamo	مولد إنارة
+lighting fitting	مصباح الإنارة، فانوس الإنارة
+lighting gas	غاز الاستصباح، غاز الإضاءة
+lighting installation	تركيبات ضوئية
+Lighting Power Density (LPD)	كثافة طاقة الإنارة
+Lighting Products	منتجات الإنارة
+lighting quality	جودة الإضاءة
+Lighting Surge Arrester	مانِعُ الصَواعِقِ
+lighting system	نظام إضاءة
+lighting tariff	تعرفة انارة
+lighting technology	تقنية الإضاءة
+lighting; illumination	ضوئية الإنارة
+lightness	خفّة
+lightness,	ضياء,
+lightning	برق / بَرْق
+lightning arrester; surge diverter; surge arrester	مانعة صواعق
+lightning impulse	موجة الصواعق
+lightning impulse protective level,	مستوى الحماية من موجات الصواعق,
+lightning protection cable,	كبل الحماية من الصواعق,
+lightning protection system; LPS	نظام الحماية ضد موجات الصواعق
+lightning strike	ضربة صاعقة
+lightning-conductor; … rod	مانعة الصواعق
+lightweight (solid) wheel	عجلات خفيفة الوزن
+lightweight bedding	شرشف خفيف
+lightweight blazer / unlined blazer	سترة خفيفة
+lightweight coat	معطف خفيف
+lightweight concrete	خرسانة خفيفة / خرسانة خفيفة الوزن
+lightweight construction	تصميم خفيف
+lightweight conveyor belt	حزام ناقل خفيف الوزن
+Lightweight Design System	نظام التحكم في الوزن
+lightweight flannel bedding	شراشف الفانيلا الخفيفة
+lightweight jumper	كنزة صيفية / كنزة تحتية
+lightweight lining	بطانة خفيفة
+lightweight suit	بدلة خفيفة
+lightweight tailored jacket	سترة صيفية
+lign-aloes	خشب الألوة
+ligneours rays	أشعة خشبية
+lignficatin machine	نازعة الجنين
+lignification	تخشيب
+ligniform	خشبي الشكل
+lignin	لجنين / لْجِنيِن
+lignite	ليغنايت / فحم بني / ليجنيت / فحم بني
+ligno-cellulose	سيلولوز خشبي
+lignocellulose	لْجِنُوسليُولوز
+ligurite	ليغورايت
+like on like	المِثل على المِثل
+Lilion	ألياف ليليون
+lily fiber	ألياف الزنبق
+lily of the valley line	خط الليلكي
+limacon	حلزون باسكال
+limb	مقسم / طُنف
+limb up	شذب
+limber assembly; flexible assembly	مُجمِّعة قابلة للثني، مجمعة مرنة
+lime	كلس / جِيرٌ / كلس (ال...) / جير، كِلْس / جير
+lime content	نسبة الكلس
+lime feeder	مِضخّة الماء الجِيريّ
+lime hydrate	جِير مُطْفَأ
+lime kiln	فُرْن الكِلْس
+lime mortar	ملاط جيري
+lime mud; lime treated mud	طين كلسي
+lime paste	عجينة جيرية
+lime powder	مسحوق جيري
+lime putty	معجون جيري
+lime recalcining	إعادة تكليس
+lime saturation	تشبع بالجير
+lime scale	قشرة كلسية
+lime slurry	لبن الجير (غسول الجير)
+lime softening	تليين الجير أو الكلس / إلانة الجير / تيسير بالكلس
+lime stabilization	تثبيت بالجير
+lime water retting	نقع بالجير المائي
+lime wool / sulphide-painted wool	صوف مدهون بالكبريتيد
+lime- cement mortar	ملاط جيري إسمنتي
+lime-soda softening	تيسير بصودا الجير
+lime-stabilized soil	تُربَة مُستَقِرَّة بِالجِير
+lime-stone filter	مصفي الجير والحجر
+limestone	حجر الكلس / حَجَر جيريّ / حجر جيريّ / حَجَر كلسي / حجر الكلس/حجر جيري / حجر جيري
+limestone scrubbing	غَسْل بالحجر الكلسيّ
+limewater	ماء جيري
+liminal stimulus	ادنى قوة لتحقيق الاثارة
+liming	تجيير التُربة
+Limit Control	تحكُّم حدَّي
+Limit for the carbon dioxide content of the atmosphere	حد أقصى لمحتوى ثاني أكسيد الكربون بالغلاف الجوي
+limit level monitoring	مُراقبة المُستويّ الحدّي
+limit load	حَدُّ الشحن، حمولة قصوى / حِمل حدّي
+limit monitor	مراقب حد
+limit monitoring; limit value monitoring; limit control; off-limit check	مُراقبة القيم الحدّية
+limit of detection	حد الكشف
+limit of disturbance	حد الاضطراب
+limit of interference	حد التداخل (التشويش)
+limit of liability	حد من المسؤولية
+limit of proportionality	حد التناسب
+limit of shunt indicator	مبين حدود منطقة المناورة
+Limit of temperature	درجة حرارة عليا حدّية
+limit stability	استقرار حديّ
+limit stability in Bode diagram	استقرار (ال...) الحديّ في مُخطّط بود
+limit stability of closed-loop control system	استقرار (ال...) الحديّ لدائرة الضبط المُغلقة
+limit state	حالة النهاية
+limit states	حالات (ال...) الحدّية
+limit switch	مفتاح كهربائي حديّ / مفتاح تحديد ( نهاية مجال ) / مفتاح حدى / مفتاح حدي، مفتاح نهاية المطاف
+limit value for harmful substances	قيمة الحد من الانبعاثات
+limit value violation	تجاوز القيم الحدية
+limit year	سنة نهائية
+limit-of-shunt signal	إشارة الحد من التشغيل
+limitation	تحديد
+limitation of network optimization requirement	الحد من متطلبات تحسين الشبكة
+limited access road	طريق محدودة المنافذ
+limited backflow	دفق مرتد محدود
+Limited Clearance (safety)	حدود النطاق الآمن
+limited duty welding power source	مصدر قوي لحام ذات تشغيل محدود
+limited edition	طبعة محدودة
+limited entry fishery	مصايد لصيد محدود
+limited panel	لوحة محدودة
+limited profile area	منطقة غير مُعَرَّفَة
+limited remote communications	اتصال عن بُعد محدود
+limited scanning	مسح محدود
+limited-current source	مصدر تيار محدود / مصدر تيار محدود القيمة
+limiter	مُحدِّد / محدد
+limiting	تحديد
+limiting (of sound signal level)	تحديد (مستوى اشارة الصوت)
+limiting breaking capacity	أعلى سعة للفصل
+limiting continuous current of an output circuit	أعلى تيار مستمرلدارة خرج
+limiting continuous thermal withstand power	أعلى قدرة تحمل حراري مستمرة
+Limiting control	ضبط حدّي / تحكم محدد
+limiting current of a capacitor	التيار الحدي لمكثف
+limiting cycling capacity	أعلى سعة للتدوير
+limiting error	خطأ حدى
+limiting factor	عامل محدد
+limiting factor (of a sound signal level)	عامل تحديد (مستوى إشارة صوتيّة)
+limiting factors	عوامل مُحدِّدة
+limiting load factor	عامل الحمل النهائي
+limiting magnitude	حجم نهائي
+limiting making capacity	أعلى سعة للوصل
+limiting non-actuating time	أقصي زمن لعدم اللقط
+limiting operating factor	عامل التشغيل الحدي
+limiting ray	شعاع حدي
+limiting resolution	دقة محدّدة
+limiting runway	مدرج حدّي
+limiting short-time current of an output circuit	أعلى تيار لفترة قصيرة لدارة خرج
+limiting short-time current; short-time withstand current	تيار التحمل لزمن قصير؛ حدود تحمل التيار لزمن قصير
+limiting speed	سرعة حدّية
+limiting temperature	درجة الحرارة الحدّية / اقصى درجة حرارة مسموح بها
+limiting temperature,	أعلى حد لدرجة الحرارة,
+limiting value	قيمة حدية
+limiting value of the characteristic quantity	قيمة حدية لكمية خصائصية
+limiting value of the output current	تيار خرج قابل للعكس
+limiting values for operation	المدى الإسمي للاستخدام
+limiting values for storage	قيم حدود التشغيل
+limiting values for transport	قيم حدود التخزين
+limiting velocity	سرعة حدّية
+limiting voltage of a capacitor	الجهد الحدي للمكثف
+limits	حدود / حدود الطيران
+limnetic	موائل بحرية عميقة
+limnology	علم المياه العذبة
+limonite	ليمونيت
+Limonnier engine	محرك ليمونيير
+limousine	سيارة ليموزين
+limp-home mode	نمط التشغيل في حالة الطوارئ
+LIN bus	ناقل شبكة الاتصال الموضعي (LIN)
+Lincoln wool	صوف لينكولن
+lincompex	ضاغط-ممدد مرتبط بتعديل التردد
+lindane	لِنْدان
+Lindberg detector	مكشاف ليندبرج
+linden fiber	ألياف الزيزفون
+Lindfill	ليندفيل
+line	خط
+line allocated to a train control officer	خط مراقب القطار
+line amount	خط القيمة
+line angle	زاوية الخط
+line brake system	جهاز كبح ذو أنبوب مزدوج
+line breaking load	حمل انقطاع الخط
+line capacity	قدرة الخط / سعة الخط / سعة المسار
+line circuit	دارة خط
+line clamp	ماسك خط
+line clear detection; ﻿	كشف خلو الطريق
+line code	شيفرة الخط؛ رمز الخط
+line commutated converter	مغيّر تبديلي خطيّ
+line commutation	تبديل بالخط
+line concentrator	مركز خط رئيسى / ممركز الخط
+line concentrator (in a local line network)	خط تجميع في شبكة الخطوط المحلية
+line conductor	موصل الخط / موصل الخط؛ موصل الوجه
+line drain	مَصْرِف الخط
+line drawing	رسم تخطيطي
+line dress	فستان ضيق
+line encoding	تشفير الخط
+line engraving	حفر خطّي
+line extension	تمديد الخط
+line feed	تغذية خط
+line feeder	خط مغذي
+line focus tube	انبوب ذو مُركز خطي
+line frequency; horizontal sweep frequency	تردّد خطّ
+line group	مجموعة خطوط
+line haul	خط الرحلة
+line haul costs	تكاليف خط الرحلات
+line haul rate	معدل خط الرحلة
+line identification by the network	تعريف خط بواسطة شبكة
+line inspection	فحص على الخط
+line insulation fault	عطل عزل فى الخط
+line keeping assist system (LKAS)	نظام الحفاظ على المسار (LKAS)
+line lengthener	مُطوِّل خط
+line link	وصلة خطية
+line load control	تحكّم بحمل الخط
+line lockout	اغلاق خط
+line microphone	ميكروفون خَطِّى
+line of action	خط الفعل (التأثير)
+line of constant piezometric head	خَط الضغط البيزومتريّ الثابت
+line of floatation	خط الماء
+line of flow / path line / path / streakline	مسار التدفق
+line of greatest slope	خَطُّ الميل الأعظم
+line of horizon	خَطُّ الأفق
+line of maintenance; maintenance echelon	نسق الصيانة؛ تناسق الصيانة
+line of maximum slope	خط الانحدار الأقصى
+line of nodes (of a satellite)	خَطّ عُقَدِ ( لقمر صناعي)
+line of penetration	خط الاختراق
+line of position	خط الموضع
+line of position; position line	خط الموضع
+line of seepage / surface, phreatic	سَطْح الماء الجوفيّ الرئيسيّ
+line of shafting	محور الأعمدة الدوارة
+line of sight	خط الرؤية
+line of sight propagation	خط الإنتشار المرئي
+line of the apsides	خط واصل بين نقطتي المدار الأدنى والأبعدعن مركز الجسم الأساسي
+line of thrust	خَطُّ الضغط
+line of water level decline	خَطَ هبوط منسوب المياه
+line offset	تخالف الخط
+line operation (physical)	تشغيل الخط
+line operation (physical); line-specific operation	تشغيل خط محدد
+line operation; line service	خدمة الخط
+line pairing; twinning	يُزاوجُ خَطّ
+line period	فترة مسح الخط
+line printers	وحدات الطباعة السطرية
+line resistance	مقاومة الخط
+line scan; horizontal sweep	مسح خطّ
+line search	بَحْث خطّي
+line section	جزء من خط
+line segment	مقطع خط
+line separation	الفصل بين الخطوط
+line sequential colour television system	نظام تلفاز ملون تتابعي الخط
+line series capacitor	مكثف توالى لخط
+line service	خدمة الخط
+line shaft	عمود رئيس
+Line side Electronic Unit	وحْدَةٌ إلكترونِيَّةٌ عَلَى جِهَةِ الخَطِّ
+line signal	اشارة خطية
+line signalling	تأشير الخط
+line space	فسحة
+line spectrum	طيف خطي
+line spectrum,	طيف خطى
+line speed	سرعة الخط
+line speed indicator	مبين سرعة الخط
+line squall	خط العصف
+line storage	نخزين عبر الخط
+line stretcher	مُمدِّد خط
+line structure, line pattern	بنية الخط
+line subject to speed restriction	قسم خاضع لتخفيض السرعة
+line switching, circuit switching	تحويل الدائرة الكهربائية
+line synchronizing signal; line sync pulse	اشارة تزامن الخط
+line system	نظام الخط
+line tap; tee point	نقطة المأخذ للخط؛ نقطة تفريغ
+line terminal	نهاية خط / طرف (نهاية) خط
+line thickness	ثخانة الخط
+line thinning	تخفيف خطي
+line throwing appliance	جهاز إلقاء الحبال
+line topology	الطوبولوجيا الخطية
+line unit	وحدة الخط
+line visibility	وضوح رؤية الخط
+line voltage	جهد الخط
+line voltage drop	انخفاض جهد الخط
+line vorteX	دوّامة خطّية
+line, adj	خط
+line, sampling	مَسار أخذ العينات
+line-commutated converter	مُغيّرمُتصِّل بالخط
+line-commutated inverters	عاكس تبديلي خطيَّ
+line-focusing collector	مُجَمِّع تركيز بُؤري خطّي
+line-mounted	مثبّت على الخط
+line-post insulator	سلسلة عازل
+line-quincunx sampling	أخذ عينات خماسيه من الخط
+line-replaceable unit	وحدة استبدال على الخط
+line-spread function	دالة تباعد الخط
+line-tester	عدسة فحص الصورة
+line-time luminance distortion	تشوة نصوع الخط-الزمن
+line-to-earth overvoltage per unit	الجهد الزائد بين الخط و الأرضى بالوحدة؛ ارتفاع الجهد بين الخط و الأرضى بالوحدة
+line-to-earth short-circuit	قصر خط مع الارض / دائرة قصر خط مع الأرض؛ دائرة قصر ارضى
+line-to-earth voltage; line-to-ground voltage, US	الجهد بين الخط و الارض / جهد بين الخط و الأرض
+line-to-line insulation fault	عطل عزل بين خط وخط
+line-to-line overvoltage per unit	جهد الزائد بين خط وخط بالوحدة؛ ارتفاع الجهد بين خط وخط بالوحدة
+line-to-line short-circuit	قصر خط مع خط / دائرة قصر خط مع خط؛ دائرة قصر بين الوجهين
+line-to-line voltage	الجهد بين خط وخط؛ جهد الخط / جهد بين خط وخط؛ جهد الخط
+line-to-neutral voltage	الجهد بين الخط و نقطة التعادل؛ جهد الوجه / جهد بين الخط و نقطة التعادل؛ جهد الوجه
+line-up clamps	أطواق خارجية (لتثبيت أوضاع الأنابيب أثناء السير)
+line-up tape	شريط ضبط
+line; streak	خط
+linear	خـــــطى / خطّي
+linear accelerator	معجّل (مسارع) خطيّ
+linear aerial array	صفيف هوائي خطّي
+linear array (antenna)	مصوفة خطية (هوائي)
+linear attenuation coefficient	معامل توهين خطى؛ معامل إضمحلال خطى
+linear building	مبنى خطّي
+linear characteristic curve	منحنى خصائصي خطّي
+Linear Coefficient	المعامل الخطي
+linear collision stopping power	قدرة إيقاف تصادم خطى
+linear configuration	تركيب خطّي
+linear control	تحكّم خطّي
+linear conversion	التدريج (للتحويل من تماثلي إلى رقمي)
+linear demodulation ; envelope demodulation; linear detection (deprecated)	ازالة تضمين خطى
+linear density of tow / tow fineness / tow weight	نعومة الحبل، وزن الحبل
+linear density; linear mass density; lineic mass	كثافة خطية؛ كثافة الكتلة الخطية؛ كتلة خطية
+linear detector	كاشف خطى
+linear distortion	تَشوُّه خطي / تشـــوه خطـــى
+linear door drive	تحريك خطّي للباب
+linear equations	معادلات خطية
+linear exponent of sound propagation; sound propagation coefficient	أس (دليل) خطى لإنتشار الصوت
+linear factor	مُعامل خطّي
+linear flow structure	بنية انسياب خطية
+linear friction welding	لحام عن طريق الاحتكاك الخطي
+linear grid	شبكة خطيّة
+linear hold	إبقاء خطّي
+linear induction motor	محرك خطي غير متزامن
+linear interpolation	استكمال خطّي / توسُّط داخلي خطي
+linear modulation	تضمين خطي
+linear motion	حركة خطية
+linear network	شبكة خطية
+linear polarization	إستقطاب خطى / استقطاب خطي
+linear portion (characteristic)	منحنى خصائص النسب الخطية
+linear potentiometer	مُجزئ فلطية خطيّ
+linear power supply	مصدرقدرة خطى
+linear programming	وضع برنامج خطي
+linear radiative stopping power	قدرة إيقاف إشعاع خطى
+linear recording density	كثافة تسجيل خطية
+linear reluctance motor	محرك ذو ممانعة خطية
+linear shaped charge	شحنة خطّية الشكل
+linear shrinkage	انكماش طولي
+linear strain; lineic strain	توتر خطى
+linear synchronous motor	محرك خطي متزامن
+linear system	نظام خطى
+linear topology	البنية الخطية
+linear traction motor	محرك جر خطيّ
+linear transfer element	عنصر تحويل خطى
+linear transformation	تحويل خطي
+linear twisted yarn density / twisted yarn fineness	الكثافة الطولية للخيط المبروم
+linear variable differential transformer (LVDT)	محول تفاضليّ خطيّ التغيير
+linear voltage regulator	مُنظِّم خطيّ للجهد
+linear … density; linear, adj; lineic, adj	طولى (صفة)؛ خطي (صفة)؛ خطية ... كثافة
+linear, adj	خطي
+linear-beam tube (O-type tube)	صمام حزمة خطية (نوع-o)
+linear-scale instrument	جهاز خطّي المقياس
+linearity	خَطِّية (ال...) / الخطية
+linearity (of a measuring instrument)	زمن استجابة الخطوة
+linearity chart	مخطط الخطية
+Linearity Graph	رسم خطي
+linearity of a measuring instrument	خطّية جهاز قياس
+linearity of frequency modulation deviation	خطية انحراف فى تعديل التردد
+linearization	استخطاط
+linearization of an NTC	تقويم المنحنى الخصائصي للثرمستور
+Linearization of the controlled variable X = f(Y)	خطية المتغير فى نظام التحكم X = f(Y)
+linearize, verb	يجعله خطيا, فعل
+linearly polarized	مستقطب خطي
+linearly polarized mode; LP mode	أسلوب استقطاب خطي
+linearly polarized radiation	إشعاع خطى مستقطب
+lined borehole	سَبْر بقمصان حماية
+lined sewer cross-section	مقطع مُستعرض مُبطن لقناة صرف
+lineic (electric) charge; linear (electric) charge density	شحنة ( كهربائية ) خطية
+lineic (electric) current; linear (electric) current density	تيار (كهربائي) خطي
+lineman	رَجُل الخَط
+linen character	مظهر أنسجة الكتان
+linen interlining	بطانة كتانية
+linen mark / international linen quality mark	توسيم الكتان
+linen tape	شريط قماشي
+linen thread	دوبارة الكتان
+linen-to-cotton	كتان مُحَوَّل لقطن
+linen-type yarn	شبيه الكتان
+liner	سفينة خط منتظم / بطانة / بِطانة
+liner bottom gasket	وصلة أسفل البطانة، وصلة بطانة القعر
+liner cleaner	منظف أنبوب التغليف
+liner company	شركة الخطوط الملاحية
+liner completion	إكمال البئر بأنبوب تبطين سفلي، إنجاز بئر بأنبوب تغليف سفلي
+liner duct	وليجة خانقة
+liner hanger	جهاز عمود التغليف الساقط
+liner lap	حافة أنبوب التغليف السفلي
+liner of a pump	بطانة مضخة
+liner puller	ساحب البطانة، نازع أنبوب التغليف
+liner studs	مسامير تثبيت أنابيب التغليف
+lines crossing	تقاطع الخطوط
+lines of forces	خطوط القوى
+linescan	مَسْح خطّي
+lineside signalling	تأشيرالخط الجانبى
+Lineside Signals	محاذاة المسار
+Linesman	رَجُل الخطوط
+lingerie	ملابس داخلية
+lingerie look	نمط الملابس الداخلية
+lingerie style / lingerie look / lingerie fashion	تصميم ملابس نوم
+linguistic value	قيمة لغوية
+linguistic variable	مُتغيّر لغوي
+linguistically different groups of migrants	مجموعات من المهاجرين مختلفة لغويا
+lining	تَكْسِية / أقمشة البطانة / بطانة / بطانة، تبطين
+lining (internal)	بِطانة داخلية
+lining (of a tunnel)	تبطين
+lining / garniture	بِطانة
+lining contact pattern	شكل سطح البطانة
+lining friction coefficient	معامل احتكاك البطانة
+lining fur	فرو التبطين
+lining grooving	تخديد البطانة
+lining of the ceiling	تبطين السقف
+lining paper	ورق تبطين
+lining selection	اختيار البطانة
+lining separation	انفصال البطانة
+lining wear	بلى البطانة
+lining weight	وزن البطانة
+lining, double-system/composite	بطانة، نظام مضاعف / نظام مركب
+lining, natural	بطانة، طبيعية
+lining, soil	بطانة، تربة
+lining, synthetic	بطانة، اصطناعية
+link (in network topology)	وصلة (فى تشكيل الشبكات)
+link (in switching)	وصلة فصل ووصل ( تبديل)
+link (power) budget	موازنة (قدرة) الوصلة
+link access protocol; LAP (abbreviation)	نظام تراسل وصلة الوصول
+link address	عنوان الربط
+link arm	ذراع تعليق مساعدة
+link box (for insulated shield system)	صندوق ارتباط (لنظام الدرع ا لمعزول)
+link cable	كبل وصلة
+link chute	ممر الشرائط
+link connected switching stage	مرحلة فصل ووصل ( تبديل) لوصلة متصلة
+link control	التحكم في الربط
+link data	بيانات الربط
+link header	مجمع البيانات
+link in a system	وصلة في النظام الكهربائي
+link layer	طبقة الربط
+link layer lnterface	تداخل فى طبقة الإتصال
+link layer management	إدارة طبقة الإتصال
+link or chain-tooth saw	منشار مفصلي السنّ
+link protocol	بروتوكول وصلة
+link resistance (current)	مقاومة توصيل الجهد
+link route	خط وصل
+link system	نظام وصلة
+Link trainer	جهاز لِنْك للتدريب
+Link's turbidity factor	عامل لِنْك للتكدُّر
+link, noun	رابط, إسم
+link, verb	يربط, فعل
+link-by-link signalling	تأشير وصلة بوصلة
+linkage	نظام الضبط / تشابك / توصيلات، نقل الحركة أو التحكم، نقل الحركة أو التحكم
+linkbelt	سَيْر مفصلي
+Linke turbidity factor; total turbidity factor	عامل التعكير/ العتامة الكلى؛ عامل التشوش الرابط؛ عامل التشوش الكلي
+linked companding	إنضغاط وانبساط مترابط
+linked compressor and expander	ضاغط موصول ومُمدِّد
+linked flux	تدفق مرتبط؛ فيض مرتبط
+linked traffic signals	أضواء سير منسقة
+linker	رابط
+linking element	عنصر ربط
+linnaeite	لينانيت
+linnen / linen	لينين
+Linofil yarn	خيط غزل من عوادم الكتان
+linoleum	لينوليوم
+linon	باتسته خفيفة
+linotype	منضدة مطوية
+linseed oil	زيت بزر الكتان
+lint	نسالة القطن / نَسِيل الحلج / شعيرات الورق
+lintel	عتبة، ساكف / أسكفة، ساكِف
+linters	نسالة القطن (بعد حلجه)
+lip	شفة
+lip kerb	أطروف مفلطح
+lip microphone	ميكروفون شفوي ( يلامس الشفاه )
+lipids	دُهنيات
+lipophility	قابلية التشحيم
+liquefaction	إسالة / تميُّع التربة / تسييل الغاز / إِسَالَة
+liquefaction plant; liquefaction installation	محطة إسالة
+Liquefication	إسالة
+liquefied flammable gas	مادة مسيلة قابلة للإشتعال
+liquefied gas	غاز مسال
+liquefied gas market	سوق الغاز المسال
+liquefied gas tank	خزان الغاز المسال
+Liquefied Hydrogen (LH2)	هيدروجين مسال
+liquefied natural gas	غاز طبيعي مسال
+Liquefied Natural Gas (LNG)	غاز طبيعي مسال / غاز طبيعيّ مُسال
+Liquefied Natural Gas Carrier (LNGC)	ناقلة غاز طبيعي مسال
+liquefied petroleum gas	غاز البترول المسال
+Liquefied Petroleum Gas (LPG)	غاز البترول المسال / غاز المسال / غاز البترول المُسال (LPG)
+Liquefied Petroleum Gas Plant (LPG)	مصنع تعبئة اسطوانات الغاز المسال
+liquette shirt	قميص مُنْسَدِل
+liquid	سائل
+liquid absorption	امتصاص سائل
+liquid ammonia	أمونيا سائلة
+Liquid Asphalt	أسفلت سائل / اسفلت سائل
+liquid asphaltic material	مادة أسفلتية سائلة
+Liquid Bitumen	قار سائل / حُمَّر سائل، قطران معدني سائل
+liquid cargo	شحنة سائلة
+liquid chlorine	كلور سائل
+liquid chromatograph	فصل كروماتوجرافي للسائل
+liquid compass	بوصلة بسائل
+liquid cooled generator	مُولّد كهربائي مُبرّد بسائل
+liquid cooling	تبريد بسائل
+liquid cooling system	نظام تبريد بالسوائل / نظام التبريد بالسائل
+liquid crystal	بلورة سائلة
+liquid crystal display	شاشة كريستال سائل (LCD) / شاشة الكريستال السائل / عرض بلوري سائل (LCD) / شاشَةُ الكْرِيسْتالِ السائِلِ
+Liquid Displacement	إزاحة الوقود السائل
+liquid drier	مجفف سائل
+liquid fuel boiler	مرجل (غلاية) بوقود سائل
+liquid gas	غاز مُسال
+liquid heating medium	وسط التسخين السائل
+liquid heel	باقي السائل المنصهر
+Liquid Hydrocarbons	مواد هيدروكربونية سائلة / ضروب الهدروكربون السائلة، فحوم هدروجنية سائلة
+liquid hydrogen	هيدروجين سائل
+liquid immersion "k"	درجة غمر للسائل"k"
+liquid inertia vibration eliminator	مُزيل الاهتزاز بعطالة السائل
+liquid injection thrust vector control	توجيه الدفع
+liquid level	منسوب
+liquid limit	حَدُّ السُيولة / حَدُّ السُّيُولَةِ / حَدُّ السيولة
+liquid manure	سَماد بلديّ سائل / سِباخ (سماد حيوانيّ سائل)
+liquid manure; slurry	سِماد سائل
+liquid natural gas	غاز طبيعي مُسال
+liquid natural gas carrier	ناقلة غاز طبيعي مسال
+Liquid Organic Hydrogen Carrier (LOHC); Liquid Organic Hydrogen Carriers (LOHC)	حاملات الهيدروجين العضوية السائلة
+liquid paraffin	برفين سائل
+liquid petroleum gas	غاز البترول المسال
+liquid petrouleum gas (lpq)	غاز البترول المسال
+liquid propellant	وقود دفعي سائل
+liquid residual	مادة مُتخلِّفة سائلة
+liquid rocket	صاورخ بالوقود السائل
+liquid sludge	حمأة سائلة
+Liquid Spring	نابض سائلي
+liquid storage medium	وسيط تخزين سائل
+liquid tile	بلاط سائل
+liquid tile extender	دهان (ال...) الممدد (المخفف) للبلاط السائل
+liquid waste	مياه مُرَسِّبة
+liquid, heavy, directly separable	سائل ثقيل قابل للفصل المباشر
+liquid, ideal	سائل مِثاليّ
+liquid, incompressible	سائل غير قابل للانضغاط
+liquid-cooled	مُبرَّد بالسوائل
+Liquid-cooled system	نظام الماء المجمد
+liquid-film technique	تقنية الغشاء السائل
+liquid-flow counter	عدّاد تدفقِ السائلِ
+liquid-fuel starter	بادئ إشعال بالوقود السائل
+liquid-sample counter	عداد عينة السائل
+liquidity index	دليل السيولة
+liquidity reserve	احتياطي السيولة
+liquified natural gas	غاز طبيعي مُسال / غاز طبيعي مسال (LNG)
+liquified natural gas carrier, (L.N.G.C.)	ناقلة الغاز الطبيعي المسيّل
+liquified natural gas, (I.N.G.)	غاز (ال...) الطبيعي المسيّل
+liquified petroleum gas	غاز نفطي مسال
+liquified petroleum gas, (I.P.G.)	غاز النفط المسيّل
+LISA A (jack up barge)	ليزا أ (سفينة رافعة)
+Lisbon Treaty	معاهدة لشبونة
+Lisbon Treaty; Treaty of Lisbon	مُعاهدة لشبونة
+liseuse bed jacket	صدرية للسرير
+list	قائمة
+list of timber	جدول الخشب
+list to starboard	مَالَ إلى الميمنة (السفينة)
+Listener	مُستقبل البيانات (Listener) / مستمع
+listening out	إنصات
+listing (cites)	إدراج في قائمة (اتفاقية التجارة الدولية في الأنواع المهددة بالانقراض)
+liter (L)	لِتر
+Liters (L)	لتر
+Litewka jacket	سترة ليتويكا
+lithic layer	طبقة حجرية
+lithium	ليثيوم
+lithium carbon monofluoride battery	بطارية أول فلوريد الكربون- ليثيوم
+lithium cell	خلية ليثيوم
+lithium chloride hygrometer	مقياس الرطوبة - كلوريد الليثيوم
+lithium copper oxide battery	بطارية أكسيد نحاس - ليثيوم
+lithium ion battery	بطارية هيدريد نيكل - معدن
+lithium ion technology	تقنية الليثيوم أيون
+lithium iron disulphide battery	بطارية ثاني كبريتيد الحديد - ليثيوم
+Lithium Iron Phosphate (LFP) battery	بطارية الليثيوم-فوسفات
+lithium iron phosphate accumulator	بطارية الليثيوم-فوسفات الحديد
+lithium manganese dioxide battery	بطارية ثاني أكسيد منجنيز - ليثيوم
+lithium niobate; LN	نيوبات الليثيوم
+lithium tantalate; LT	تانتاليت الليثيوم
+lithium tetraborate; LBO	تترابوريت الليثيوم
+lithium thionyl chloride battery	بطارية كلوريد الثيونيل - ليثيوم
+lithium-air battery	بطارية الليثيوم-الهواء
+lithium-drift detector	مكشاف انسياق الليثيوم
+Lithium-Ion Battery	بطارية الليثيوم-أيون / بطارية ليثيوم-أيون
+lithograph	مطبوعة حجرية
+lithographic limestone	حجر كلسي طباعي (للطباعة الحجرية)
+lithographic printer (lithographer)	طباع حجري، طباع ليثوغرافي
+lithographic stone	حجر طباعي
+lithography	طباعة حجرية، طباعة ليثوغرافية
+lithological log	سجل طبيعة تكون الصخور
+lithological similarity	تشابه في طبيعة تكون الصخور
+lithological unit	وحدة صخرية
+lithology	علم الصخور
+lithometeor	عوالق صلبة
+lithosphere	غلاف صخري / قشرة الأرض / غلاف (ال..) الصخري
+lithostatic	ضغط صخري
+lithotypy	نقش حجري
+litre	لِتر
+litter	فَضَلات (مبعثرة) / نقالة / محفَّة / نقّالة
+litter monitoring	مراقبة القمامة الشاطئية
+litter survey	مسح القمامة
+little ice age	عصر جليدي صغير
+little-endian	منهجية تخزين أو نقل البيانات
+littoral current	تَيّار ساحليّ / تيار شاطئيّ
+littoral transport	نقل ساحلي / ارتحال الرسوبيات الساحلية
+live	حي؛ مكهرب
+live axle	محور جاسئ
+live broadcast	بث مباشر
+live cleaning equipment	معدة تنظيف تحت الجهد
+Live conductor	مُوصِّلٌ حَيّ / مُوصِّل مكهرب، ناقل مشحون
+live drop	إسعاف حي
+live engine	محرك حي
+live fences	حواجز حية
+live load	حمل متحرك / حِمْل حي / حِمْل حيّ / حمل حيّ، حمل متحرك
+live maintenance	صيانة تحت الجهد
+live matter (standing matter)	صفحات محفوظة
+live oil	نِفْط خام
+live part	جزء مكهرب / جزء مكهرب؛ جزء حي
+live part,	جزء مكهرب؛ جزء حى / الجزء الحي؛ الجزء تحت الجهد
+live room	حجرة حية؛ حجرة مكهربة
+live staking (watercourse restoration)	غرس فسول حية (استعادة مجرى مائي)
+live steam conditions	ظروف البخار الحي
+live storage	تخزين مفيد
+live tank circuit-breaker	قاطع دارة ذو خزان مكهرب
+live voltage detector	مكشاف الجهد الحي
+live working zone; danger zone	منطقة العمل تحت الجهد؛ منطقة الخطر
+live working; live work	العمل تحت الجهد
+live, adj	مكهرب
+Live-bottom trailer	مقطورة ذات أرضية متحركة
+livelihood diversification	تنويع سبل العيش
+livelihood security	تأمين سبل المعيشة
+livelihoods	سبل العيش
+livering	تجلّط الحبر
+Liverpool Cotton Association	جمعية القطن ليفربول
+livestock	ثروة حيوانية
+livestock container	حاوية المواشي
+living biomass	كتلة حيوية حية
+living conditions of people	ظروف عيش الإنسان
+living fouling potentials	الاحتمالات الحالية للترسب
+living planet index	مؤشر الكوكب الحي
+living planet report	تقرير كوكب حي
+living room	حجرة معيشة، حجرة إقامة
+living wage	أجر الكفاف
+lixiviant	مواد غسيل /مذيبة
+lizardite	ليزاردايت
+llama wool	صوف اللاما
+LM Multiple section axle counter of Thales	عَدّادُ المَحاوِرِ LM
+LNG import	استيراد الغاز الطبيعي السائل
+LNG; Liquified Natural Gas	غاز طبيعي مُسال
+lo	ارتفاع منخفض
+load	حمولة / حِمْل / حَمْل / حمل / حمل الشبكة / حِمل
+load (1), noun	حمل (1)، اسم
+load (2), noun	حمل (2)، اسم
+load (of a machine)	حمل (لآلة)
+load admittance	سماحية حمل
+load angle characteristic	خاصية زاوية الحمل
+load application point	نقطة تحميل
+load balance equations	معادلات توازن الحِمل
+Load Balancing	موازنة الحمل الكهربائي
+Load Building	بناء الحمل
+load bus; PQ bus	قضيب حمل فعال وحمل غير فعال
+load capacitance	سعة حمل؛ سعوية الحمل
+load capacity	القدرة التحميلية / سعة التحميل / سعة الأحمال
+load capacity (of a quantizer); overload point (deprecated)	سعة الحمل
+load carrying devices, load suspension device, lifting devices	أجهزة الرفع
+load case	حالة حمل
+load cell	خلية قياس الحمل / خلية تحميل
+Load Center	مركز الأحمال / مركز الحمل
+load centre	مركز الحمل
+load change capability	مقدرة على مُتابعة بين الأحمال الكهربائية
+load characteristic	جهد إختبار العزل / خاصية الحمل
+load characteristics (of an X-ray tube assembly)	خصائص الحمل لمجموعة أنبوب أشعة سينية X
+load classification number	رقم تصنيف الحمل
+load commutation	تبديل بالحمل
+load crushing test (at the crown)	اختبار قمة الضغط
+load current	تَيّار الحِمل
+load curtailment,	تخفيض الحمل, ؛ تخفيف الحمل
+load curve	منحني الحمل / منحنى الأحمال / منحنى التحميل؛ منحنى الحمل
+load cycle	دورة الحمل
+load density	كثافة الحمل
+load displacement	وزْن السفينة محمّلة
+load draught	غاطس التحميل
+load duration curve	منحنى الحمل الزمني / منحنى زمني للحمل
+load factor	عامل الشحن / مُعامِل الحِمل / عامل الحمل / عامل التحميل / معامل حمل
+load factor of a unit	عامل الحمل للوحدة
+load flow calculation	حساب تدفق الحمل؛ حسابات سريان القدرة
+load fluctuation load variation	تغيّر الأحمال الكهربائية
+Load Following	متابعة الحمل
+load following operation	تشغيل للتنسيق بين الأحمال
+load forecast	توقعات الحمل
+load frequency control	ضبط تردد القدرة
+load frequency control power; frequency control	قيمة قدرة التردد
+load full torque	عزم الحمل الكامل
+load guy line	رِباط الحِمْل
+load immittance	قبولية معاوقة حمل
+load impedance	معاوقة حمل / معاوقة الحمل (ممانعة) / ممانعة الحمل
+load in a system	حمل الشبكة
+load index	تقدير حمل الاطار / مؤشر الحمل
+load interrupted	حمل مفصول
+load line	خط الشحن / نقطة العمل / خط الحمل
+load line certificate	شهادة خط الشحن
+load line mark	علامة خط الشحن
+load line zones	مناطق خط الشحن
+load lines	خطوط الشحن
+load loss	مفاقيد الحمل
+load lugger truck	سيارة رفع صناديق جمع الانقاض، رافعة أوعية الفضلات
+Load Management	إدارة الأحمال / إدارة الحِمل
+load manifest	قائمة الشحن
+load not served; load not supplied	حمل غير مغذى
+load oil	زيت الإسقاء
+load on deck	شَحْن على السطح
+load on top (LOT)	شَحْن على البقايا
+load path	مسار الحمل
+load point	نقطة شحن (LP)
+load polluting; polluting load	حُمولة الملِّوثات
+load profile	منحنى تغير الحمل / مخطط تغير الحمل الكهربائي مع الزمن
+load program	برنامج التحميل
+load programmer	مبرمِج التحميل
+load reduction	تخفيف الحمل / تخفيض الحمل
+load regulation	تنظيم الحِمل
+load resonance frequency	تردد حمل الرنين
+load resonance frequency offset	حيود تردد حمل الرنين
+load resonance resistance	مقاومة حمل الرنين
+load ring	حلقة التحميل
+load securing	تأمين التحميل
+load series time relay	مُرَحِّل زمني متصل على التوالي مع الحمل
+load settlement curve	منحني الحمولة مع الهبوط
+load sharing (in common channel signalling)	مشاركة الحمل (في تأشير في قناة مشتركة)
+load shed	حمل مطروح
+load shedding	طرح الحمل / تخفيف الحمل الكهربائي / فصل الأحمال
+load sheet	صحيفة الشحن
+load shift	تحويل مكان الشحن
+Load Shifting	مناورة الأحمال
+load side	جانب الحمل
+load simulator; DEPRECATED: dummy load	حمل وهمى
+load spreader	باسط الحمل
+load stability	استقرارية الحمل
+load starting torque	عزم حمل بدء التشغيل
+load test	تجرِبة تحميل / اختبار التحميل / اختبار التحميل (في التيار الكهربائي)
+load torque	عزم الحمل
+load transfer	تحويل الحمل / إزاحة الأحمال الكهربائية
+load transfer yard, load transfer point	محطة تحميل
+load unit	وحدة الحمل
+load up (to) (filter)	حَمَلَ (الفلتر)
+load voltage (of a welding power source)	جهد الحمل(لمصدر القدرة للحام)
+load waterline	خط الماء عند الشحن / منسوب التحميل / خط الشحن (الغاطس و السفينة بكامل حمولتها)
+load, maximum; peak	حُمُولة قُصوى
+load, verb	يحمًل / يحمل,
+load-bearing wall	جدار حمّال
+load-dependent; load-oriented order release	إطلاق / إفراج موجه إلى التحميل
+load-following operation	تشغيل تابع للحمل
+load-on-top system	تعبئة الشحنة فوق المتخلفات الزيتية (بعد تفريغ الماء من خزانات الناقلة)
+load-shedding protection	حماية طرح الحمل
+load/no-load valve	صمام الحمل/اللاحمل
+load/rate tariff	تعرفة تخطّي (حمل)
+loadbreak connector	رابط تحت الحمل
+loaded displacement	إزاحة سفينة محمّلة / إزاحة (ال...) المائية لسفينة مشحونة
+loaded folded dipole	ثنائى قطب مطوى محمل
+loaded impedance	معاوقة محملة
+loaded quality factor	معامل جودة الدائرة المحملة
+Loader	أداة تحميل / شاحِن / مُحمِّل
+loading	كَمِّية التغذية / تحميل / نسبة التحميل
+loading (on to ship)	تحميل
+loading / stress	عبء
+loading and unloading cycle	دورة التحميل
+loading arms	أذرع التحميل
+loading assumptions	فرضيات التحميل
+loading berth	رصيف الشحن
+loading bridge	جسر تحميل
+loading broker	وسيط شحن
+loading case	حالة التحميل
+loading chart	خريطة تحميل
+loading coil	ملف تحميل
+loading device	جِهاز شَحْن
+loading diagram	مخطط التحميل
+loading facility, terminal	محطة تحميل
+loading frame	هيكل التحميل
+Loading Gauge	مقياس الحمولة
+loading hoist	دافعة الشحن
+loading installation	مرفق تحميل
+loading lane	مسار تحميل
+loading lines	خطوط تحميل
+loading loop	عروة تحميل
+loading material	مادة حشو
+loading pin	مسمار شحن
+loading port	ميناء تحميل
+loading rack	منصة تعبئة، منصة تحميل
+loading ramp	منحدر تحميل / معبر تحميل، مرتقى تحميل
+loading rates	نِسبة الشحْن
+loading schedule	بَرْنَامَج التشغيل
+loading track	مسار تحميل / مسار التحميل
+loading truck	لُوَيحَة شحن
+loading unit	وحدة التحميل
+loading unit for combined transport	وحدة التحميل للنقل المشترك
+loading, surface	حُمُولة سطحية
+loadmaster	مسؤول الشحن
+loafer	خُفّ قصير
+loam	غَضَار رملي
+loam bricks	آجر من الطفال الرملي
+loamy	طميي
+lobby	بهو
+lobe switching	قطع ووصل مفصَّص
+local (telephone) circuit	دارة (هاتفية ) محلية
+local adaptation plan of action (lapa)	خطة العمل المحلي للتكيف
+local adaptive capacity	قدرة التكيف المحلية
+local added value	قيمة مُضافة محلياً
+local agenda 21	جدول أعمال القرن 21 المحلي
+local air circulation systems	أنظمة محلية لتدوير الهواء
+local area development programme (ladp)	برنامج التنمية المحلية (LADP) / برنامج تنمية محلية (LADP)
+Local Area Network	شبكة محلية LAN / شبكة محلية / شَبَكَةُ اِتِّصالٍ مَحَلِّيَّةٌ
+Local Area Network (LAN)	شبكة محلية
+local area network, ; LAN,	شبكة محلية,
+local area network; LAN (abbreviation)	إختصار (LAN)؛ شبكة الحاسب المحلية
+local battery (in telephony); LB (abbreviation)	بطارية محلية (في المهاتفة)
+local buckling	تحنيب موضعيّ
+local carrier reception; local carrier demodulation	استقبال الموجة الحاملة المحلية
+local civic participation scheme; local citizen participation scheme	مبدأ المُشاركة المحلية
+local control	تحكم محلى / تحكم موضعى
+local control,	تحكم محلى,
+local distributor road	طريق محلي موزع
+local drainage / town drainage	صَرْف مَحليّ
+local duration	فترة زمنية محلية
+local earth; local ground, US	أرضى محلي
+local elastic instability	لااستقرار مرن موضعي
+local element	عنصر كهروكيميائي
+local extinction	انقراض محلي
+Local Factories	مصانع محلية
+Local Field Operating Point	تَشْغِيلُ المُحَوِّلَةِ مَحَلِّيًّا
+local food system	نظام غذائي محلي
+local goods train with pre-sorted trucks	قِطَار محلي مسبق الترتيب
+Local grid transformer	محول الشبكة المحلية
+local heating	تدفئة محلية
+local hour angle	زاوية سماوية محلية
+local inflow	جريان محلي وارد
+Local Knowledge	المَعْرِفَةُ المَحَلِّيَّةُ
+local laws	قوانين محلية
+local length	طول محلى
+local level	مستوى محلي
+local lighting	إضاءة محلية
+local line	خط محلي
+local line network	شبكة خطوط محلية (الهاتف)
+local magnetic effects	تأثيرات مغناطيسية محلية
+local maximum	عظمى محلية
+local maximum value; maximum value	القيمة العظمى المحلية؛ القيمة العظمى
+local mean time	زمن وسطي محلي
+local meridian	خط الزوال المحلي
+local minimum	صغرى محلية
+local minimum value; minimum value	القيمة الصغرى المحلية؛ القيمة الصغرى
+local move	حركة محلية
+local network	شبكة محلية
+Local network station	محطة شبكة محلية
+Local Operating Network	شبكة تشغيل محلية (LON)
+Local Operator Place	مَكانُ المُؤَثِّرِ المَحَلِّيّ
+local oscillator	مذبذب محلى
+local passenger train	قِطَار الركاب المحليين
+local production	إنتاج محلي
+local record	سجل محلى
+local service area; local (charge) exchange	منطقة الخدمة المحليّة
+local specialization	تخصص محلي
+local stress concentration	تركيز إجهادات موضعي
+local switching centre; local (switching) exchange	مركز تبديل ( مقسم )محلي
+local switching entity	الجهة المحلية المسؤولة عن المقسم
+local symbol	رمز محلي
+local telex number	رقم تلكس محلّي
+local thickness variation; LTV	تباين السمك الموضعى
+local time	زمن محلي / توقبت محلى / التَوْقِيتُ المَحَلِّيّ
+local traffic	اتصالات محلية
+Local Traffic Control	مُراقَبَةُ حَرَكَةِ المُرُورِ المَحَلِّيَّةِ
+local triangulation	تثليث محلي
+local velocity	سرعة محلية
+local vertical	اتجاه رأسي محلي
+localized corrosion	تآكل متموضع
+localized electric heating	تسخين كهربائي محلي
+localized lighting	إضاءة موضعية
+localizer	منارة تحديد المدرج / محدِّد المدرج
+localizer course	مسار محدِّد المدرج
+localizer needle	إبرة محدِّد المدرج
+locally active	فعال محليا
+locally-controlled (repeater) station	محطة مكرر مسيطر عليها محلياً
+locally-derived synchronization signal	اشارة تزامن مشتقة داخليا
+locating bearing	كرسي التثبيت، كرسي التوضّع
+location / status / position	مَوقِع
+location bearing	كرسي تحميل موضعي؛ محمل موضعي
+location principle	مبدأ التموقع
+locator	محدِّد الموقع
+locator beacon	منارة تحديد المعالم
+lock	تشبيك / قفل / قُفْل
+lock (ing) stile	عضادة تثبيت القفل، قائم تثبيت القفل
+lock chamber	غرفة الغلق
+lock gate	بوّابة الهويس
+lock hopper	وعاء انضغاطي، قادوس الهويس
+lock notch	فرضة التوقيف
+lock nut	صامولة زنق / حلزونة حصر
+lock nut; Palnut	صامولة قَفْل
+lock time	زمن القَفْل
+lock washer	حلقة قَفْل
+lock, verb	يقفل, فعل
+lock-in position	وضع التعشيق
+lock-on	إغلاق / قَفْل
+lock; sluice; gate	بَوابة
+lockbar	آلية إغلاق
+Lockclad	كَبل مغلَّف
+locked	مُقْفَل
+locked section signal/advance starting signal	إشارة إغلاق
+locked wheel	عجلة مرتوجة
+locked-in condition	وضع مغلَق
+locked-rotor current	تيار العضو الدوار المقفل
+locked-rotor current of a motor and starter	تيار العضو الدوار المقفل للمحرك وبادئ التشغيل
+locked-rotor impedance characteristic (of an asynchronous machine)	خاصية معاوقة العضو الدوار المقفل(لآلة لا تزامنية)
+locked-rotor test	اختبار العضو الدوار المقفل
+locked-rotor torque	عزم عمود الدوران المقفل
+locker cabinet	خِزانة تُغلَق بالمفتاح
+locker for instruments	خزانة الأجهزة
+locker room	حجرة الثياب
+locking contact	تلامس إقفال
+locking key	قابس تأمين القَفل / مفتاح أو وُتَيْد التثبيت
+locking lever	ذراع الرتج
+locking pliers	زردية تثبيت
+locking pressure	ضغط الإقفال
+locking screw	لولب تثبيت
+locking synchronisation [UK] / locking synchronization [US]	المُزامنة الاحتجازية
+locking table; interlocking table	جدول الاقفال
+locking wire	سلك رتج / سلك قَفْل
+lockwiring	قَفْل بالسلك
+locomotive	قاطرة / قاطِرَة
+locomotive boiler	مرجل قاطرة
+locomotive changing point	نقطة تغيير القاطرة
+Locomotive Depot	مستودع القاطرات
+locomotive magnet	مغناطيسية القاطرة
+locomotive running light	منارة القاطرة
+locomotive shell	هيكل القاطرة
+locus	محل هندسي
+loden	لودن
+loden cloth	لودن
+Loden coat	معطف الحطاب
+loden jersey	جوخ جيرسيه
+lodge	سكن
+loess	لوس (ال...) / راسب طُفالي / لوس (تربة لوسية) / راسب طفالي
+loft (attic floor, garret floor)	عليّة
+loft bombing	قَصْف من ارتفاع الشرفة
+loft floor	أرضية التكبير
+Loftine	لوفتاين
+lofting	تكبير
+log	جذع الشجرة / شعلة أرضية / قرمة
+log book	سِجِلّ السفينة
+log chute	مُنحدر الكتل الخشبية
+log corss-cutting saw	منشار قطع الجذوع
+log weir	هَدّار من دعائم خشبية
+log, verb	يدون, فعل؛ يخزن
+log-law	قانون لوغارتمي
+log-periodic antenna	هوائى لوغاريتمى دورى
+log; logbook	سِجِلّ
+logarithm	لوغاريتم / لوغاريثم
+logarithmic decrement	التناقص اللوغارتمى / تناقص لوغاريثمي / تناقص لوغاريتمي
+logarithmic frequency interval; interval	فترة تردد لوغاريثمية
+logarithmic gain	كسب لوغاريتمى
+logarithmic grey-scale chart	مخطط المِقياسِ الرماديِ اللوغاريتميِ
+logarithmic wind shear law	قانون رياح القص اللوغارتمي
+logatom	عنصر صوتي لاختبار شدة الصوت
+logatom articulation	نقاوة العناصر الصوتية
+logging locomotive	قاطرة التسجيل
+logic	دارة منطقية
+logic analysis	تحليل منطقي
+logic circuit	دارة منطقية
+logic controller	جهاز اختبار منطقي / مُتحكِّم منطقي
+logic function	دالة منطقية
+logic instructions; branch instructions	تعليمات تغيير المسار (أو التفرغ)
+logic operation; logic function	عملية منطقية؛ وظيفة منطقية
+logic, adj	منطقى, صفة
+logical address	عنوان منطقى
+Logical Link Control	طبقة التحكّم بالربط المنطقيّ
+logistic centre	مركز لوجستيكي
+logistic delay	التأخير اللوجيستى
+logistic support	الدعم اللوجيستى
+logistics	الخدمات اللوجستية/ الإمدادات / الخدمات اللوجستية
+logistics (oil logistics services)	لوجستية (خدمات النفط اللوجستية)
+Logistics Traffic and Control Center – LTCC	مركز التحكم اللوجستي و إدارة حركة المرور
+logit model	النموذج اللوغاريتمي
+logo	شِعَار
+logotype	لوجوتيب
+logs	جذوع
+Lohmannizing	لوهمانايزينج
+Lolita look	نمط لوليتا
+Lombard	خوذة لومبارد
+london clay	غُضار لندن، صَلْصال لندن
+london tanker brokers panel	لجنة سماسرة الناقلات في لندن
+lone electron	الكترون وحيد
+lone signal unit; LSU (abbreviation)	وحدة إشارة وحيدة
+long and short arm suspension of front wheels	ذراع تعليق مُثلثية
+long baggy Bermudas	سروال برمودا
+long chair	أريكة، كرسي طويل
+long column	عمود طويل
+long direction	اتجاه (ال...) الطولي للورق
+long distance fast train	قِطَار سريع للمسافات الطويلة
+Long Distance – LD	خطوط قطارات المسافات الطويلة
+long fiber	ليف طويل
+long flax fibers	حلج الكتان
+long float	مالج طويل
+long haired fur	فراء طويل
+long hole	ثقب عميق
+Long interruption	انقطاع طويل
+long jacket	سترة طويلة
+long johns	سروال جون
+long knickers / shorts	سروال داخلي
+long knickers [women] / trunks [men]	تُبّان
+long lead time	زمن سبق طويل
+long leg knickers	سروال داخلي للشد / سروال النبلاء
+long line (telephone) set	جهاز هاثف بخط طويل
+long line adapter	مهايئ خط طويل
+long line furrow method	ريّ الأخاديد الطولية
+long pitch winding	لفيفة طويلة الخطوة
+long plane	مسحاج طويل
+long position	مركز طويل
+long range radar (LLR)	حسّاس الرادار طويل المدى (LLR)
+long range radar (LRR)	رادار طويل المدى (LRR)
+long range transfer	نقل لمسافة طويلة
+long range transport	نقل لمسافة طويلة
+long residue	بقاية (ال...) الطويلة، متخلفات التقطير الجوي
+long rod insulator	مجموعة عازلات
+long saw	منشار طويل
+long side	جَانِب طويل
+long span electric lines	خطوط كهربائية متابعة الأبراج
+long staple cotton	قطن طويل التيلة
+long string	مجموعة أنابيب الانتاج (من المنطقة المنتجة إلى السطح)
+Long Term Evolution (LTE)	تطور على المدى البعيد (LTE)
+long thread casing	أنابيب تبطين بوصلة طويلة الأسنان، أنابيب تبطين (تغليف) ذات لولبة
+long threads	لوالب طويلة
+long time burning oil	زيت الإضاءة (بطيء الاحتراق)، زيت الاشارات (بطيء الاحتراق)
+long ton	طن إنجليزي
+long waves (LW)	الموجات الطويلة (LW)
+long-arc lamp	مصباح قوس كهربائى طويل
+long-dated	بعيدة التاريخ
+long-distance haulage	نقل البضائع على المدى البعيد
+long-distance tender	عَرَبَة المؤونة للمسافات الطويلة
+long-distance transmission remote transmission	النقل عن بُعد
+long-duration application; long-term application; energy-intensive application	تطبيق طويل المدى
+long-fibers yarn	خيوط طويلة الألياف
+long-lasting hot period	فترة حر طويلة الأمد
+Long-Lived Waste	نفايات مشعة طويلة الأجل
+long-path signal	إشارة مسار طويل
+long-playing record	تسجيل طويل المدّة
+long-range aircraft	طائرة بعيدة المدى
+long-range ballistic missile	صاروخ قذفي بعيد المدى
+long-range energy alternatives planning system (leap)	نظام تخطيط على المدى الطويل لبدائل الطاقة
+long-range navigation	ملاحة بعيدة المدى
+long-run marginal cost	تكاليف هامشية ذات مدى طويل
+long-stroke engine	محرك طويل الشوط
+Long-Term Evolution	تَطَوُّرٌ عَلَى المَدَى البَعِيدِ
+long-term flicker indicator	مبين الإرتعاش طويل المدى
+long-term frequency stability ; frequency ageing	استقرار التردد طويل المدى؛ تقادم التردد
+long-term orientation	توجّه طويل الأمد
+long-term output level instability	عدم استقرار مستوى الخرج طويل المدى
+long-term scenario	سيناريو طويل المدى
+long-term urban sustainability	استدامة حضرية على المدى الطويل
+long-time test; long-term test	فَحْص طويل الأمد
+long-weft curtains	ستائر نسيج طويلة
+long-wire antenna	هوائى طويل السلك
+Longeron	عارضة رفع / ضلع طولي
+longest-processing-time principle	مبدأ مدة المعالجة طويلة المدى
+longevity	طول العمر
+longitude	درجة خط طول
+longitude of the ascending node (of an earth satellite)	خط طول عقدةِ صُعُود (لقمر أرضِ صناعي)
+longitudiale section	قطع طولي
+longitudinal acceleration	تسارُع طوليّ
+longitudinal angularity	تزوي طولي
+longitudinal axis	محور طولي
+longitudinal beam	حامل طولي
+longitudinal beam top	طرف الحامل الطولي
+longitudinal bending	حَنْي طُوليّ
+longitudinal bulkhead	فاصل طولي / فاصل إنشائي طولي
+longitudinal component	مركبة طولية (طولانية)
+longitudinal continuity	سريان طوليّ للمياه (اتجاه التيار في مجرى ما)
+longitudinal cupping	تقعر طولي
+longitudinal curl	تجعد طولي
+longitudinal current (in electrobiology)	تيار طولى ( فى الكهروحيوية)
+longitudinal curvature	تقوّس طولي
+longitudinal differential lock	تجهيزة تعطيل فرقي طولية
+longitudinal differential protection; line differential protection (US)	حماية تفاضلية خطية
+longitudinal dihedral	زاوية زوجية طولية
+longitudinal direction	اتِّجَاه طولي
+longitudinal direction,	إتجاه طولى,
+longitudinal divergence	تباعد طولي
+longitudinal dunes	كثبان طولية، كثبان طولانية
+longitudinal expansion	تمدُّد طوليّ
+longitudinal fault	صدْع طولاني
+longitudinal flux induction heating	تسخين حثي ذو فيض طولي
+longitudinal fold	طي طولي
+longitudinal force coefficient	مُعامِل القوة الطولي
+longitudinal girder	عَارِضَة طولية
+longitudinal joint	وَصلَة طُولِيَّة / وصلة استطالة / وصلة طولانية، وصلة طولية
+longitudinal joint / longitudinal contraction joint	وُصْلة انكماش طولية
+longitudinal judder	ارتجاج طولي،ارتجاف طولي
+longitudinal link	ذراع التعليق الطولية
+longitudinal link axle	محور ذو أذرع تعليق طولية
+longitudinal load	حمل طولي
+longitudinal magnetization	مغنطة طولية
+longitudinal offset loss; gap loss	فقدان توازن طولى فقدان الفجوة
+longitudinal oscillation	ذبذبة طولية
+longitudinal plane	مستوٍ طولي
+longitudinal profile	مَقطَع طُولِي / مَقْطَع طولي / مقطع طولي
+longitudinal propagation,	انتشار طولى,
+Longitudinal redundancy check	فحص التكرار الطولي
+longitudinal reinforcement	تسليح طولي
+longitudinal resolution (of a facsimile receiver)	دقة طولية ( لمستلم الناسوخ)
+longitudinal resolution (of a facsimile transmitter)	دقة طولية ( لمرسل الناسوخ)
+longitudinal rib	ضلع طولي
+longitudinal ripple	تموج طولي
+longitudinal section	مقطع طولي
+longitudinal shaft	عمود إدارة طولي
+longitudinal shaft with three joints	عمود إدارة طولي بثلاث وصلات مفصلية
+longitudinal shaft with two joints	عمود إدارة طولي بوصلتين مفصليتين
+longitudinal shift	إزاحة طولية
+longitudinal stability	استقرار طولي
+longitudinal stringer	ركيزة طويلة
+longitudinal structure	مُنشأ طوليّ (موازٍ لاتجاه التيار)
+longitudinal twist	فتل طولي
+longitudinal uniformity of road surface luminance	الإتساق الطولى لإضاءة سطح الطريق
+longitudinal videotape recorder	مسجل شريط مرئي طولي
+longitudinal warping	تقوّس طولي
+longitudinal wave	موجة طولية
+longitudinally mounted motor	محرك مركب طولياً
+longline fishing	صيد بخيوط طويلة
+longline top	قميص طويل
+longsleeves	أكمام طويلة
+longwall mining	التعدين عبر جدار طويل
+longwave infrared radiation; far infrared radiation	أشعة تحت الحمراء طويلة الموجة
+longwave radiation	إشعاع موجات طويلة
+lonsdaleite	لنزدالايت
+LonWorks	نظام نقل بيانات شبكات تطبيقات الأتمتة (التحكم) الصناعية (LonWorks)
+look	نمط
+look-down angle	زاوية الرؤية السفلية
+look-down shoot-down	تدمير بالرؤية السفلية
+look-out	مراقبة، معاينة
+look-out man	مُرَاقِب، مُعَايِن
+Lookout	الحارس / المراقب / اِنْتِباهٌ
+loom	ضفيرة
+loom,	طيف,
+loom-state fabric	قماشٌ خام
+loop	عروة / حلقة / أنشوطة / التفاف عنيف / هوائي إطاري
+loop antenna	هوائى حلقى
+loop checking; automatic collating	فحص حلقي
+loop detection equipment	جهاز كشف حلقة
+loop effect yarn	خيط مزوي زخرفي ذو حلقات
+Loop equation f)	مُعادلة دائرة الضبط
+loop flow	تدفّق حلقي
+loop formation	تشكيل الغرز
+loop gain	كسب الدائرة المفتوحة
+loop inductor	محث (عضو حث) حلقي
+Loop inputs	مدخلات دائرة الضبط
+loop line	خط الالتفاف
+Loop outputs	مخرجات دائرة الضبط
+loop plush	قطيفة حلقية
+Loop row	ترتيب الغرز
+loop strength	قوة سحب العروة
+loop strength testing	اختبار مقاومة الالتواء
+loop structure	هيكل حلقى
+loop system; ring system	نظام حلقي
+loop tensile strength	متانة قطع العروة
+loop test	اختبار الحلقة
+loop voltage; loop tension	جهد حثي؛ جهد حلقى
+loop yarn	خيط بوكليت / خيط غزل ذو حلقات / خيط مزويّ ذو حلقات
+loop/disconnect signalling	تأشير متصل أو متقطع
+loop; thimble	عُروة
+loopback; test loop	حلقة إختبار
+looped system outlet	مخرج نظام حلقي
+looping the line	ازدواج الخط
+loose	مخلخل
+loose cable structure	كابل بتكوين مرتخ
+loose clamp	قامِطة دليلية
+loose core	نواة مفككة
+loose flange	شَفَة سائبة
+loose leads	اطراف توصيل سائبة
+loose mould	قالب محلول
+loose tube cable	كابل انبوبى غير محكم
+loosen a sail ( to )	أرخى شراعا
+loosening of rock	تَفكِيكُ الصُّخُور
+lopping	تشذيب
+Loran system	نظام لوران
+Lord mount	حامل لورد
+lordotic projection	إسقاط مقوس
+Lorentz contraction; length contraction	إنكماش لورنتز
+Lorentz factor	عامل لورنتز
+Lorentz force	قوة لورِنتْز
+Lorentz invariant	ثابت لورنتز
+Lorentz scalar; four-scalar	ثابت لورنتز غير متجه
+Lorentz system	نظام لورِنتْز
+Lorenz convention	تحويل لورنتز
+lorry	شاحنة
+lorry [UK] / truck [US]	شاحنة
+Los Angeles test	اختبار لوس انجليس
+Loschmidt number	رقم لوشميت
+losing stream	مجرى رافد
+loss amount	مِقْدار الفَقْد
+loss and damage	خسارة وضرر
+loss angle	زاوية الفقد
+loss angle (in electrobiology)	زاوية الفقد ( في المجال الكهروحيوية )
+loss angle,	زاوية الفقد
+loss anisotropy factor	كثافة (حجم ) القدرة الظاهرية
+loss anisotropy factor (at a given angle)	عامل تباين خواص الفقد
+loss aversion	نفور من الخسارة
+loss by evaporation	فَقْد بالتبخُّر / فقد بالتبخر
+loss by peeling	نقْص بالتقشير
+loss factor	عامل الفقد
+loss mode of operation	صيغة تشغيلية الفقد
+loss of aquifer	تسرُّب الماء المحقون (إلى الطبقة الحاملة للماء)
+loss of cirulation	فقدان الدوران
+loss of flow	استنزاف خيطيّ
+loss of head	فقدان الضاغط
+loss of load	فقد الحمل
+loss of load probability	احتمال فصل التيار
+loss of load,	فقد الحمل,
+loss of prestress	فقدان سَبْق الإجهاد
+loss of shunt	فقدان التحويله
+loss of synchronization (of a picture)	فقدان التزامن (لصورة)
+loss of timber	نقْص الخشب
+loss of voltage	فقد الجهد
+loss on heating	فقد (ال...) بالتسخين
+loss ratio	إقتران متقاطع (لممرر) / نسبة الفقد (في مدور أو عازل)
+loss relative to free space	فقد منسوب للحيز المطلق
+loss tangent measurement; dissipation factor test (US)	قياس ظل الفقد (اختبار عامل التبريد)
+loss, avoidable	ضَياع يمكن تجنُّبه
+loss-cut veneer	تلبيس رخو
+loss-of-load expectation, ; LOLE	توقع فقد الحمل,
+loss-of-load probability, ; LOLP	إحتمالية فقدان الحمل,
+loss-of-synchronism protection; out-of-step protection (US)	حماية فقد الجهد
+loss-of-voltage protection	حماية غياب الجهد
+losses	فواقد
+lost call	نداء مفقود
+lost call attempt	محاولة إتصال مفقوده؛ محاولة إتصال ضائعة
+lost circulation alarm	جهاز إنذار لفقد الجريان
+lost heat	حرارة مفقودة
+lost hole	حفرة ضائعة
+lost of aquifer	تسرُّب المال المحقون (إلى الطبقة الحاملة للماء)
+lost time	وقت ضائع (مفقود)
+lost-waX	سباكة بالشمع المتبدِّد
+lot	قسيمة أرض
+lot / piece of land	قطعة أرض
+lot sizing	حجم الحصص
+lot splitting	تقسيم الحصص
+lot-for-lot	حصة مقابل حصة
+lotus-style	صنف اللوتس
+Loud speaker	مُكَبِّر صَوْتٍ
+loudness	ارتفاع الصوت
+loudness level	مستوى ارتفاع الصوت
+loudness rating	مكافئ الجهارة ( ارتفاع الصوت )
+loudspeaker	مكبر الصوت
+loudspeaker unit	وحدة مكبر الصوت
+loudspeaking (telephone) set	جهاز هاتف بمكبر صوت
+Louisiana yarn	خيط لويزيانا
+lounge	ردهة استراحة
+lounge wear	ملا بس تحتية / طراز التلفاز
+loungewear / homewear	ملابس منزلية
+loungewear bottoms	سروال منزلي
+Louver	فتحة تهوية
+louvered face	سطح ذو فتحات تهوية
+louvre (or louver)	ستارة مشققة
+louvre; spill shield; louver, US	مظلة ذات شفرات
+louvred ceiling; louvered ceiling	سقف به فتحات بها مصادر للإضاءة
+low [high] load factor consumer	مستهلك بعامل حمل (منخفض)(عالي)
+low [high] load factor tariff	تعرفة نسبة حمولة منخفضة (عالية)
+low airburst	تفجير جوي منخفض
+low albite	ألبايت ضعيف
+low altitude	ارتفاع طيران منخفض
+Low and Intermediate Level Waste	نفايات منخفضة ومتوسطة المستوى
+low beam	ضوء مُنخفض / اللمبة H11
+low bidder	صاحب العرض المنخفض
+low blower	نفّاخ منخفض السرعة
+low blown	نفخ الارتفاعات المنخفضة
+low bulk yarn	خيط غزل خفيف التضخيم
+low calorific value	قيمة حرارية دُنيا
+low carbon development path	مسار تنمية منخفضة الكربون
+Low carbon economy	اقتصاديات خفضّ الكربون
+low chain	سلسلة الحركة البطيئة (في آلات السحب)
+low cloud	سَحَاب منخفض
+low conductivity polymer	بوليمر, بموصلية منخفضة
+low crotch trousers / drop crotch trousers	سروال منخفض وواسع
+low cut-out water speed, ; low cut-out water velocity,	أقل سرعة حدية لإيقاف التوليد,
+low denier intensity fibers	ألياف منخفضة الدنير
+low density polyethylene	بولي ايثيلين منخفض الكثافة
+Low Dispersible Radioactive Material	مادة مشعة ضعيفة التشتت
+low duty manual metal arc welding MMA power source	مصدر قوي لحام معدني يدوي ذات تشغيل محدود
+low energy footprint food system	من حيث الطاقة نظام غذائي ذو بصمة منخفضة
+Low Enriched Uranium (LEU)	يورانيوم منخفض التخصيب
+low flammable level	مستوى الاشتعال الأدنى
+low flood	فيضان منخفض
+low floor tramcar	عَرَبَة ترام خفيضة
+low floor wagon	عربة منخفضة
+Low flow air treatment	مُعالِج تدفق الهواء المنخفض
+low flux membrane	غشاء تدفق منخفض
+low flying	طيران منخفض / طيران مُسِفّ
+low frequency	تردد منخفض
+low frequency (in electrobiology)	تردد منخفض ( فى الكهروحيوية)
+low frequency (in electroheat)	تردد منخفض (في الحرارة الكهربائية)
+low gate	بوابة سفلية
+low grades / below grades	تصنيف أدنى
+low head power plant	محطة قدرة ذات ضغط مُنخفض
+low hydrogen welding rods	قضبان لحم ضئيلة المحتوى الهدروجيني
+low impact development (lid)	تنمية بتأثير بيئي منخفض
+low impedance differential protection	وقاية تفاضلية منخفضة المعاوقة
+low lift centrifugal pump	مضخة نابذة منخفضة الضغط
+Low light performance	أداء عند انخفاض الإضاءة
+low load	تحميل منخفض
+low loader wagon	عَرَبَة منخفضة المحمل
+low noise antenna; low temperature antenna	هوائي منخفض الضجيج
+low oblique photography	تصوير منخفض مائل
+low or low-pressure system	نظام ضغط منخفض
+Low Oriented Yarn	خيط غزل بتوجيه منخفض
+Low pass filter	مُرشِّح تمرير مُنخفض
+low pay	أجر منخفض
+low pitch	خَطَران بطيء
+low pressure	الضغط الخوائي
+Low Pressure (LP)	ضغط منخفض
+low pressure of steam locomotive boiler	ضغط منخفض لمرجل قاطرة البُخَار
+low pressure plasma	بلازما منخفضة الضغط
+low pressure side (AC)	جانب الضغط المنخفض (مكيف الهواء)
+low probe	سَبْر منخفض
+low rise jeans	جينز ساحل
+low route	طريق جوي منخفض
+low rudder	مناورة الدفّة الخفيضة
+low silhouette	شبح منخفض
+low solids mud	طين قليل الأجسام الصلبة
+low sulphur fuel oil	زيت الوقود المنخفض المكونات الكبريتية
+low supercharger gear	سرعة تعزيز شحن بطيئة
+low temperature fluidity, (L.T.F.)	سيولة (ال...) في درجة حرارة منخفضة، ميوعة (ال...) في درجة حرارة منخفضة
+low temperature heating element	عنصر تسخين منخفض الحرارة
+low temperature vapor compression	ضغط البخار في درجة حرارة منخفضة
+low thermal capacity furnace	فرن ذو سعة حرارية منخفضة
+low tide	جزر / جَزْر
+Low Toxicity Alpha Emitters	باعثات ألفا منخفضة السمية
+low vacuum	خواء خفيض
+low viscosity index	قرينة اللزوجة المنخفضة
+low visibility	رؤية ضعيفة
+low voltage	فلطية مُنخفضة / جهد منخفض
+low voltage (1); low tension (1); LV (1)	جهد منخفض (1)
+low voltage (2); low tension (2); LV (2)	جهد منخفض (2)
+low voltage (abbreviation: LV)	جهد منخفض
+Low Voltage (LV)	جهد منخفض
+low voltage; LV	جهد منخفض
+low water	منسوب مياه منخفض
+low water line	خط انحسار المياه
+low water loss cement	أسمنت قليل الرشح
+low wheel	عجلة ضعيفة التلاصق
+low wing	جناح منخفض
+low-altitude bombing system	نظام القصف المنخفض
+low-altitude ride control	نظام الركوب الليّن في الارتفاعات المنخفضة
+low-angle fault	صدْع ضعيف الميل
+low-angle loft bombing	قصف منخفض بزاوية منخفضة
+low-angle ray	شعاع منخفض الزاوية
+low-beam lamp (H11) [UK] / low-beam light (H11) [US]	لمبة ضوء مُنخفض (H11)
+low-bed truck	سيارة نقل بسطح منخفض
+low-boy	مقطورة صغيرة (لحمل المعدات الثقيلة)
+low-carbon development strategy	استراتيجية تطوير منخفض الكربون
+low-carbon energy technology	تكنولوجيا طاقية منخفضة الكربون
+Low-Cost Carriers	شركات طيران منخفضة التكلفة
+low-cost construction	إنشاء رخيص التكاليف
+Low-Cost ICE	مركبات ذات محرك احتراق داخلي منخفضة التكلفة
+low-cycle fatigue	تعب الدورة الخفيفة
+low-electron-velocity camera tube	انبوب الة تصوير ذو الكترونات منخفضة السرعة
+Low-emission Vehicle	مركبة منخفضة الانبعاثات (LEV)
+low-energy house	منزل قليل الاستهلاك للطاقة
+low-floor design	تصميم أرضية منخفضة
+low-floor section	قسم خفيض
+low-floor vehicles	عربات ذات أرضية منخفضة
+Low-Floor Wagon	عَرَبَةٌ مُنْخَفِضَةُ الأَرضِيَةِ
+low-flow channel	مجرى النهر الأدنى
+low-flow solar thermal system	نظام طاقة شمسية حرارية ذو تدفق منخفض
+low-flow toilet	مرحاض ذو جريان منخفض
+low-flying area	منطقة طيران منخفض
+low-grade natural wool	صوف طبيعي منخفض الجودة
+low-input systems	نظم منخفضة المدخلات
+low-level discomfort factor	عامل المشقّة الخفيفة
+low-level flight	طيران على ارتفاع منخفض
+Low-Level Waste; Very Low Level Waste	نفايات منخفضة المستوى
+low-lift clutch	قابض رفع مُنخفض
+low-light TV	تلفاز الضوء الخفيض
+low-load hours; off-peak period	فترة دون الذَّروة
+low-load operation	تشغيل على حمل مُنخفض
+low-load operation capability	مقدرة الحمل المُنخفض
+low-loader wagon	عَرَبَة منخفضة الحمولة
+low-noise amplifier; LNA	مضخم قليل الضوضاء / مضخم منخفض الشوشرة
+low-observable	صعبة الرصد
+low-pass filter	مرشًح مرور الترددات المنخفضة / فلتر إمرار التردد المنخفض؛ مرشح إمرار التردد المنخفض / مُرشِّح إمرار خفيض
+low-power beacon	منارة منخفضة القدرة
+low-power modulation; low-level modulation	تضمين منخفض القدرة
+low-pressure area	منطقة ضغط جوي منخفض
+low-pressure compressor	مضعط منخفض الضغط
+low-pressure mercury lamp; low-pressure mercury vapour lamp	مصباح زئبق ضغط منخفض
+low-pressure sensor (AC)	حساس الضغط المنخفض (مكيف الهواء)
+low-pressure sodium lamp; low-pressure sodium vapour lamp	مصباح صوديوم ضغط منخفض
+low-pressure steam turbines	عنفة بُخارية مُنخفضة الضغط
+low-pressure switch (AC)	مفتاح للضغط المنخفض (مكيف الهواء)
+low-pressure system	منظومة عاملة بالضغط المُنخفض
+low-profile track	مسار منخفض
+low-speed aerodynamics	تحريك هوائي بطيء السرعات
+low-speed aircraft	طائرة بطيئة
+low-speed CAN bus (LSCAN)	ناقل شبكة التحكم النطاقي مُنخفض السرعة (LSCAN)
+low-speed stall	انهيار بطيء / هَوَيان بطيء
+low-tariff period	فترة التّعريفة الدُّنيا
+low-temperature carbonization gas	غاز تقطير
+Low-Temperature Fischer–Tropsch (LTFT) process	طريقة 'فيشر - تروبش' ذات درجة الحرارة المُنخفضة
+low-temperature process	طريقة درجة الحرارة المُنخفضة
+low-temperature reservoir	خزان بدرجة حرارة منخفضة
+low-temperature surface insulation	عزل سطحي لدرجات الحرارة المنخفضة
+low-tide	جزْر
+low-velocity camera tube; cathode-potential-stabilized camera tube	صمام الة التصوير بطئ السرعه
+low-velocity drop	إسقاط بطيء
+low-velocity scanning	مسح منخفض السرعة
+Low-Voltage Battery	بطارية الجهد المنخفض
+low-voltage circuit	دائرة جهد منخفض
+low-voltage regulation	تنظيم الجهد المنخفض
+low-voltage terminal (of a capacitor divider)	طرف جهد منخفض لمقسم جهد سعوي
+low-voltage terminal (of a capacitor voltage transformer)	نهاية جهد عالي
+low-voltage winding	لفيفة جهد منخفض
+low/mid wing	جناح وسطي منخفض
+lower airspace	فضاء سفلي
+Lower Carbon Aviation Fuel	وقود الطيران منخفض الكربون
+lower case alpha	حروف هجائية صغيرة
+lower coach edge	حافة عَرَبَة النوم المنخفضة
+lower confining bed	طبقة احتباس سفلى
+lower cost desalination	أقل تكلفة لتحلية المياه
+lower curtate; numeric positions	منطقة الأرقام، موقع الأرقام
+lower deck	سَطْح سفلي
+lower explosive limit, (L.E.L.)	حد (ال...) الأدنى للانفجار
+Lower Explosive Limit; LEL (abbreviation)	حد أدني للانفجار
+lower flammable limit, (L.F.L.)	حد (ال...) الأدنى للاشتعال
+lower flammable limit; LFL	أقل حد للاشتعال
+lower flap	سديلة منخفضة
+lower heating value (LHV)	قيمة حرارية دنيا (LHV)
+lower layer functions; LLF (abbreviation)	وظائف الطبقات السفلى
+Lower Linear Energy Transfer Radiation	إشعاع ذو انتقال خطي منخفض للطاقة
+lower pantograph advance warning sign	علامة تحذير مسبقة للبانتوجراف المخفض
+lower pantograph cancellation sign	علامة الغاء للبانتوجراف المخفض
+lower pantograph execution sign	علامة تنفيذ للبانتوجراف المخفض
+lower pantograph signal	إشارة نزول
+lower pantograph warning	تحذير نزول
+lower reach	مجرى سفلي
+lower sideband	نطاق جانبى سفلى
+lowering depth	عُمِّقَ نزول منسوب المياه
+lowering height	منسوب خفض مُستوى المياه
+lowering the casing	إنزال أنابيب التغليف، إنزال أنابيب التبطين
+lowest reservoir (of a swell)	خَزان نِهائي
+lowest usable frequency; LUF (abbreviation)	التردد الأصفر القابل للاستخدام
+lowest voltage of a system	أدنى جهد للنظام الكهربائي
+lowest water level	بُراض
+loxodrome	خَطُّ اللوكسودرومي / خط الاتجاه الثابت
+lpg condensate/base stock	كثافة غاز النفط المسيّل
+lpg injection plant	معمل حقن غاز النفط المسيّل
+LPG Treating and Drying Unit	وحدة معالجة غاز البترول السائل وتجفيفه / وحدة معالجة غاز النفط المسيّل و تجفيفه
+LRR	رادار واسع المدى (LRR)
+lubber line	خط إسناد القراءة
+lube	زيت تزليق
+lube oil blending plant	مصنع مزج زيوت التزييت
+lube truck	سيارة التزليق
+lubricant	مُشَحِّم / مُزلّق / زيت تشحيم / مزلق (ال...) / مواد التشحيم
+lubricants	مُزلّق / زيوت التشحيم / زيوت التزييت
+lubricated plug valve	صِمام بسدادة مزلّقة
+lubricating grease	شحْم مُزلِّق، شحْم التزليق
+lubricating gun; grease gun	مدفعة تشحيم
+lubricating oil	زيت التشحيم
+lubrication	التشحيم / تشحيم / تزييت
+lubrication failure	إخفاق التزليق
+lubrication nipple	حلمات تشحيم
+lubrication system	نظام التزليق
+lubrification	تزييت
+Lucent Connector	مُوْصِّلٌ شَفّافٌ
+Lucero	لوسيرو
+Lufbery circle	دائرة لوفبري
+luff tackle	عدة رفع ثلاثية
+lug terminal	طرف (نهاية) ذات عروة
+luggage platform	منصة الأمتعة
+luggage rack	رفُّ الأمتعة
+luggage, baggage	الأمتعة
+Luisiana moss	طحالب لويزيانا
+LuK TS	قابض لوك تي إس (LuK)
+lull	هدوء (مؤقت) للريح
+lumbar support	دعامة العمود الفقري
+lumber	خشب مصنَّع / خشب منشور
+lumber style	نمط الحطاب
+lumbered synthetic quartz crystal	تكويم البلورات الكوارتز الإصطناعية على شكل منشور
+lumberjack check	مربعات الحطاب
+lumberjack jacket	سترة الحطاب
+Lumen	لومن / لومن؛ وحدة الفيض الضوئى
+lumen method	طريقة حساب تدفق الضوء
+lumenmeter	جهاز قياس التدفّق الضوئيّ
+luminaire	جهاز إضاءة
+luminaire guard	شبكة لحماية الزجاج الواقى لجهاز الإنارة
+luminaire maintenance factor; LMF	عامل صيانة جهاز الإضاءة
+luminance	كثافة ضوئية / الإنارة؛ شدة الإضاءة / نصوع
+luminance (of a source, in one direction)	نصوع (من المصدر في إتجاه واحد)
+luminance axis	محور النصوع
+luminance coefficient	معامل الإنارة
+luminance coefficient in diffuse illumination	معامل الإضاءة فى إنتشار الضوء
+luminance compensation	تعويض الاضاءة
+luminance compression ratio	نسبة ضغط الاضاءة
+luminance contrast	تباين الإنارة
+luminance contrast ratio,	نسبة تباين الإستضاءة,
+luminance difference threshold	حد فرق النصوع
+luminance dose	جرعة إستضواء
+luminance factor	عامل الإنارة
+luminance factors; coefficients of luminance (deprecated)	معاملات النصوع
+luminance meter	مقياس الكثافة الضوئية / عداد الإستضواء؛ مقياس الإنارة
+luminance path; luminance channel (deprecated)	مسار النصوع
+luminance ratio,	نسبة الإستضاءة,
+luminance signal	إشارة النصوع (الاستنارة)
+luminance threshold	حد النصوع
+luminance trap	مصيدة النصوع
+luminance uniformity	أنتظام الإستضواء
+luminance/synchronizing ratio	نسبة التزامن/النصوع
+luminant cement mortar	ملاط اسمنتي مائي
+luminescence	لمعان؛ تألق / إشعاع ضوئي / ضيائية / تلألؤ
+luminescent luminance factor,	عامل الإستضواء الضيائى,
+luminescent radiance factor,	عامل شدة الإشعاع الضيائي,
+luminescent screen	شاشة مضيئة
+luminescent substance	مُشع ضيائيّ
+luminescent yarn	خيط غزل مضيء
+luminescent yarns® / luminous yarns®	خيوط مضيئة
+luminosity	إضاءة
+luminous ceiling	سقف مضىء
+luminous colour	لون مضىء
+luminous cylindrical exposure	التعرض الضيائي على سطح إسطوانى
+luminous effect	تأثير مضيء
+luminous efficacy for monochromatic radiation of frequency 540 × 1012 Hz	الكفاءة الضيائيةِ لإشعاع أحادى الموجة لتردد540*1012هرتز
+luminous efficacy of radiation,	الكفاءة الضيائيةِ للإشعاع,
+luminous efficacy,	الكفاءة ِ الضیائية ,
+luminous efficiency,	الكفاءة الضيائيةِ,
+luminous element	جزء متوهج
+luminous energy; DEPRECATED: quantity of light	طاقة مضيئة
+luminous environment	بيئة ضوئية
+luminous exitance	كثافة الفيض الضيائى الخارج
+luminous exposure; DEPRECATED: light exposure	التعرض الضيائي
+luminous extinction coefficient,	معامل الإخماد الضيائي,
+luminous flux	تدفّق ضوئي / فيض مضيىء
+luminous flux (radiated by a source)	تدفق ضوئي (المنبعثة من مصدر)
+luminous flux maintenance factor, ; lumen maintenance factor,	معامل الأداء للدفق الضوئى, ؛ معامل صيانة لومن
+luminous intensity	شدة ضيائية / شدة الإضاءة
+luminous intensity (of a source, in one direction)	شدة الاضاءة ( للمصدر، في إتّجاه واحد)
+luminous range	مدى إستضاءة
+luminous response curve	مُنحنى الحساسية للسطوع
+luminous sensitivity	حساسية ضوئية
+luminous solar constant	ثابت النورانية الشمسية؛ ثابت االسطوع الشمسي؛ ثابت النصوع الشمسي
+luminous spherical exposure	التعرض الضيائى على سطح كروى
+luminous turbidity factor	عامل التعكيرالضوئى؛ عامل التشوش الضوئي
+luminous-discharge tube	صمام تفريغ قوس مضىء
+luminous-discharge tube luminaire	جهاز إضاءة ذو انبوبة تفريغ مضىء
+lump coal	فحم كُتَل، قِطَع فحم
+lumped network	شبكة مُجمّعة
+lumped, adj	متراكم
+lumped-element circulator	ممرر وصلة / مدوِّر عنصر مجمعة
+lumped-element isolator	عازل إزاحة مجال / عازل عنصر مجمع
+lunar boot	حذاء القمر
+lunar conjunction	إقتران قمري
+lunar eclipse	خسوف (القمر)
+lunar orbit	مدار قمري
+lunar orbital rendezvous	ملتقى مداري قمري
+Luneberg lens	عدسة لونبرج
+Luneburg lens antenna	هوائى عدسة (لونبرج)
+lunette	كوة
+Luperef	لوبريف
+lurex	لوريكس
+lurk, verb	يلاحظ سرا
+lusec	لومن ـ ثانية
+luster	لمعان
+Lustralan	لوسترالان
+lustre	قماش لامع / بريق
+lustre yarn	خيط غزل لامع
+lutite	لوتايت
+lux	لوكس؛ وَحْدَةُ الإِستضاءَةِ / لَكْس
+luxmeter	مقياس شدة الاستضاءة
+luxury line	خط الرفاهية
+Luxury/Tourist Trains	قِطاراتُ الرِّحْلاتِ السِياحِيَّةِ
+luzonite	لوزونايت
+lycra	ألياف ليكرا
+Lycra yarn	خيط ليكرا
+lye / liquor	مَحلُول قلويّ
+lye-pump	مِضخَّة السوائل القلوية
+Lyman-Alpha	إشعاع ليمان ـ ألفا
+lymphatic system	نظام لمفاوي
+Lynn and Inner Dowsing	حقل لين أند إنر دوسينج
+lynx	فراء الوشق
+Lyocell	لايوسل
+Lyonese spun yarn	خيوط ليونيَّة مغزولة
+Lyonese wires	أسلاك ليُونيَّة
+lysimeter	ليزيمتر
+LZB line equipped with sub block sections	توقيف LZB المركزي (توجيه من المسارات)

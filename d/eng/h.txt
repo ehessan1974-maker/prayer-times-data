@@ -1,0 +1,2436 @@
+H antenna	هوائي على شكل H
+H(Heavy)-oil unit	وحدة معالجة الزيت الثقيل
+H-bomb; hydrogen bomb	قنبلة هيدروجينية
+H-channel	قناة H
+H-display	شاشة ارتفاع
+H-engine	محرك بشكل H
+H-Gas	غاز بمحتوى حراري مرتفع
+H-gas; High-calorific gas	غاز عالي القيمته الحرارية
+H-matrix	مصفوفة H
+H-plane bend; H bend	كوع مستوى H
+H-plane comer; H corner	زاوية مستوى H
+H-plane lens	عدسة بمستوى H
+H-plane sectoral horn (antenna)	هوائي بوق قطاعي شكل H
+H-plane T circulator	مدوِّر Т مستوى H
+H-plane T junction; shunt T	وصلة T مستوى H
+H-plane Y circulator	مدوِّر Y مستوى H
+H-plane Y junction	وصلة Y مستوى H
+H-tail	ذيل بشكل H
+H.T. delay time	زمن تأ خيرالجهد العالى
+H.T. warm-up time	زمن احماء الجهد العالى
+H10	اللمبة H10
+H12	اللمبة H12
+H4	لمبات H4
+H7	اللمبة H7
+H8	اللمبة H8
+habit	مظهر
+habitat	موئل / مَسْكَن
+habitat fragmentation	تجزئة الموئل
+habitat management	إدارة الموئل
+habitat service	خدمة موئل
+habitat/biotope	موئل بيولوجي
+habitats directive	مذكرة توجيهية حول الموائل
+habitus	هيئة
+haboob	هبوب/حبوب
+habutai / habotai	هابوتاي
+hachure	تهشير
+hachured map	خريطة مرقَّنة
+Hacienda	هاسيندا
+hack	طائرة خدمة لاحقة / مقدرة على الإنجاز
+hack-saw	منشار المعادن
+hack-up man	رابط الأنابيب
+hacker	مخترق
+hacket; hatchet	فأس صغيرة، بُلَيْطَة
+hackly fracture	مَكْسَر مسنَّن
+hacksaw	منشار معادن
+hade of fault	زاوية مستوى الصدع مع الشاقول
+Hadiyah (KOTC product carrier)	ناقلة هدية
+Hadley cell	خليّة 'هادلي'
+hadley circulation	انتقال دائري لهادلي
+Haferlshuh	حذاء هافرل
+hafl-column	نصف عمود، عمود نصف دفين
+hafnium	هَفْنيوم
+haft	مقبض
+Hagen-Poiseuille Law	قانون هاجن ـ بوازوي
+Hague rules	قواعد لاهاي
+hail	بَرَد / بَرَدْ
+hail damage repair	إصلاح أضرار ناتجة عن البَرَد
+hair	شعر
+hair craching	تشرّخ شعري، تصدّع شعري
+hair crack	شَقٌّ شعري
+hair cracks	شُقُوق شَعَرية، شُرُوخ شَعَرية
+hair jewellery	حلي الشعر
+hair mortar	ملاط شعري
+hair of oxen	وبر الثيران
+hair pin bend zigzag	مُنْعطَف حادّ (بشكل دبوس الشَّعَر)
+hair-pin element	عنصر على شكل دبوس شعر
+haircalf	وبر العجل
+hairline crack	تشرُّخ شَعري / صدع شَعري
+hairline stripes	خيوط رقيقة
+hairnet	شبكة الشعر
+hairpin coil	ملف دبوسي الشعر؛ وشيعة بشكل U
+hairstone	حجر شعر
+Haitian rib	قُماش مُضلّع هاتيني
+haiweeite	هايويأيت
+halation; halo	غباش هالي ,بهر البصر
+Halbstarke fashion	زي نصف قوي
+Haldex clutch	قابض 'هالدكس' (Haldex)
+half -turn socket	جلبة نصفية
+half binding/leather	تجليد نصفي
+half blind dovetail joint	تجميع تعشيقي نصف مخفي
+half byte, nibble	نصف بايت
+half cell	خلية نصفية
+half clover leaf junction	ملتقى بشكل نصف ورقة برسيم، وصلة انعطاف بعكفتين
+half crepe	نسيج نصف كريب
+half curtain / cafe curtain	ستائر الحانة
+half dipole; half doublet	نصف ثنائى قطب
+half dovetail (lap dovetail)	تعشيقة نصفية
+half echo suppressor; split echo suppressor (US)	مانع نصفي للصدى
+half landing	بسطة، منصة
+half linen	نسيج نصف كتانيّ
+half Milano	نسيج شبيه ميلانو
+half Panama	نسيجٌ نصف بنما
+half roll	تقلب نصفي
+half s-plane	نصف المستوى العقدي
+half section	نصف قطاع
+half sole	رقعة (مكان تآكل الأنبوب)، نِصْف نَعْل
+half space	بسطة بين درجتين، منصة بين درجتين
+half textured	نسيج غير كامل
+half thickness	سُمْك نصفي
+half tone picture	صورة نصف النغمة
+half value depth (tissue)	عمق نصف القيمة (نسيج)
+half voile	نسيج شبيه الفَوّال
+half wave rectifier	مقوم نصف الموجة
+half wavelength resonator	رنان نصف موجى
+half-barrier	حاجز نصفي
+half-barrier level crossing	معبر تقاطع بنفس المستوى ذو حاجز نصفى
+half-blind dovetail	تعشيقة نصف مخفية
+half-brick wall	حائط من نصف آجرة
+half-brightness life	عمر نصف السطوع
+half-circle landing	حط بدوران نصفي
+half-coil; bar	نصف ملف؛ نصف وشيعة
+half-controllable connection	توصيلة نصف خاضعة للتحكم
+half-cup bra	حمالة صدر بنصف استدارة
+Half-Cut Monocrystalline Cells	سيليكون أحادي (التبلور) بتقنية أنصاف الخلايا
+half-cycle transductor	محول ( حثي ) نصف دورة
+half-cylinder	قبعة شبه أسطوانية
+half-down	فرشة من الريش
+half-duplex apparatus	معدة نصف مزدوجة
+Half-duplex transmission	اتصالات أحادية الاتجاه
+half-lap joint	وصلة راكبة تناصفية
+half-peak divergence,	تشعب بقيمة أعلي من نصف القيمة القصوي,
+half-period zone	منطقة نصف دورية
+half-power points	نقاط نصف القدرة
+half-power rings	حلقات نصف القدرة
+half-power width	اتساع نصف القدرة
+half-raglan	نصف كم
+half-residence time	زمن المكوث النصفي
+half-roll	نصف تقلُّب / نصف دورة عُطوفية
+half-round file	مِبْرَد نِصْف دائري
+half-round iron	حديد نصف مبروم
+half-round screw	مسمار نصف كروي
+half-space (semi- infinite solid)	نصف فراغي
+half-stocking	طماق تقليدي
+half-tide level; mean tide level	مُتوسِّط منسوب المد والجزر
+half-timbered beam	جائز نصف خشبي
+half-title	عنوان داخلي
+half-tone	صورة ظليّة
+half-tone engraver	حفساق
+half-tone engraving	حفسقة
+half-value angle,	زاوية نصف القيمة,
+half-value layer (abbreviation: HVL); half-value thicknes (abbreviation: HVТ)	طبقة نصف القيمة(اختصارHVL)
+half-view	رسم نصفي / منظر نصفي
+half-voltage motor	محرك نصف جهد
+half-wave antenna	هوائي نصف موجي
+half-wave apparatus; single-peak generator	جهاز نصف موجة
+half-wave dipole	ثنائى قطب نصف موجة
+half-wave plate (in a waveguide)	صفيحة نصف موجة (في دليل موجة)
+half-wave rectification	تقويم نصف موجي / تقويم نصف الموجة
+halftone screen	شبكة اللون المتوسط
+halftone tube	أنبوب نصف الدِّخلة
+halftonometer	مقياس عمق الحفر
+halide	هاليد
+halide (leak detector) lamp	مَشْعَل هالايد
+halite	مِلْح صخري
+Hall angle	زاوية (هول) / زاويةهول
+Hall coefficient	معامل هول
+Hall effect	تأثير (هول) / أثر هول / ظاهرة هول / مفعول هول
+Hall effect device	جهاز يعمل بظاهرة هول
+Hall effect reproducing head	رأس إعادة إنتاج تأثير هال
+Hall element	عنصر هول
+Hall generator	حسّاس 'هول' / مولدهول
+Hall mobility	حركيةهول
+Hall modulator	مضمن (هول)
+Hall multiplier	مضاعف هول
+Hall probe; Hall effect magnetometer	مجس ظاهرة هول
+Hall senso	مُستشعر 'هول'
+Hall terminals	اطراف هول
+Hall voltage	جهدهول
+hall-stand; coat rail	مشجب، علاّقة
+halloysite	هالويسايت
+Halo	إسقاط هالو / هالة
+halo effect	ظاهرة الهالة
+haloacetic acid (HAA)	حَمْض عضويّ
+halocarbons	هالوكربورات
+haloforms (pl.) / triholomethanes (THM) (pl.)	ترايهالوميثانات (THM)
+halogen	هالوجين
+halogen lamp	مصباح هالوجين
+halogen lamp [UK] / halogen light [US]	لمبة هالوجين
+halogen lamp emitter	باعث مصباح هالوجيني
+Halogen metal vapor lamp	مصباح بخار فلز هالوجبن
+halogen-quenched counter tube	صمام عداد مخمدة بالهالوجين
+Halogenated hydrocarbon	هيدروكربورات مهلجنة
+Halogenated organics	مواد عضوية مهلجنة
+halomorphic	مِلْحِيّ البنية
+halon	غازات هالوجينية مُخْمِلة
+halophyte	نباتات ملحية
+halt	توقف
+halt bat; two quarters	نصف آجرة، ربعان
+halt board	علامة توقف
+halt production	إيقاف (وحدة عن العمل)
+halt signal	إشارة توقف
+halter	صديرة نسائية / متردد
+halter neck	حمالة الرقبة
+halved joint	وصلة تناصفية / وصلة نصفية
+halving	تصنيف
+halving interval; HIC (abbreviation)	HIC إختصار؛ فاصل التصنيف
+halving joint	وصلة تناصفية
+Hamadan	همدان
+Hamilton function	معادلة هاميلتون
+hammer	تغيرات مطرقية / مطرقة
+hammer (to)	طرَقَ
+hammer (water)	مِطْرقة مائية
+hammer beam	جائز مطرقي
+hammer drill	مطرقة ثاقبة
+hammer drilling; percussion drilling	حَفْر بالطَّرْق، حَفْر بالقرْع
+hammer finish	ظهارة مطرقة
+hammer handle	مقبض المطرقة
+hammer mill	سحّاق بمطرقة، هرّاس بمطرقة
+hammer stall	انهيار مطرقي / هَوَيان مطرقي
+hammer-mill	مطحنة بمطارق
+hammerhead stall	انهيار رأس المطرقة
+hammering	تطريق
+hammermill	كَسّارة مِطرقية
+Hamming distance	مسافة هامينج / مسافة (هامنج)
+hamster	فرو الهمستر (أقداد)
+hand - hook	كُلاّب يدوي، خُطّاف يدوي
+hand auger	مِثقاب يدوي
+hand brace; lever brace	ملف يدوي
+Hand brake	المَكَابِحُ اليَدَوِيَّةُ
+hand brake circuit, pneumatic	الدائرة البنيوماتية لفرملة اليد
+hand brake valve	صمام فرملة اليد
+hand brake valve with trailer control	صمام فرملة اليد المزود بنظام التحكم في المقطورة
+hand bumping; hand forging	تطريق يدوي
+hand composition	تصفيف يدوي
+hand compositor	صفّاف يدوي
+hand controller	أداة تحكم يدوية / موجِّه يدوي
+hand crane	مِرْفَاع ذراعي
+hand cranking	تدوير بذراع يدوي
+hand die	ساندة
+hand dog	مفتاح ربط الأنابيب
+hand drill	مثقب يدوي / مِثْقَب يدوي
+hand drilling	حفْر يدوي
+hand flying	طيران يدوي
+hand forging	حدادة يدوية
+hand forming	تشكيل يدوي
+hand hammer	مطرقة يدوية
+hand held instrument	جهاز يدوي
+Hand Held Radios	جِهازُ راديو يَدَوِيّ
+hand inertia starter	ذراع تدوير عطالي يدوي
+hand lamp; trouble lamp, US	مصباح يدوى
+hand luggage	حقائب يد
+hand operated photo composition	تصفيف تصويري يدوي
+hand picking	التقاط يدوي
+hand pitching	رَصْف يدوي (للأحجار)
+Hand Portable Radio	جِهازُ الراديو المَحْمُول
+hand press	مكبس يدوي / كبّاسة يدوية
+hand protective device	قفاز واقي؛ قفاز الحماية
+hand pump	مِضخَّة يدوية
+hand rail	مقبض الدرابزين / درابزين
+hand roller	محدل يدوي
+hand saw	منشار يدوي
+hand signal	اشارة يدوية
+hand specimen	عينة يدوية
+hand starter	بادئ إدارة يدوي
+hand stick	عصا عازلة يدوية
+hand tool	أداة يدوية / مجموعة أدوات يدوية، آلات يدوية
+hand tool -rest	مسند يدوي
+hand tools	مُعِدة يدوية / أدوات يدوية
+Hand Turnouts	مُحَوِّلَةٌ يَدَوِيَّةٌ
+hand-and-foot monitor	مراقب اليد و القدم
+hand-dressed stone	حجر مسوّى باليد
+hand-drilled hole; hand drilling	حفر يدوي
+hand-dug well	بئر محفورة يدويا
+hand-held equipment	معدات محمولة يدويا
+hand-held terminal	محطة يَدَوِيَّة
+hand-held, adj	محمول يدوياً
+hand-hell drill	جهاز حفر يدوي، ثقابة يدوية
+hand-mining	تنجيم يدوي
+hand-off-automatic switch	مُفتاح يدوي آلي
+hand-starter magneto	مغناطيس بادئ الإدارة اليدوية
+handbag	حَقِيبَة يَد
+handbrake	فرامل يدوية / كابح يدوي
+handbrake cable	كابل الفرملة اليدوية
+handcrafted fabric / handicraft textiles	قماشٌ يدوي
+handed	أجزاء تماثلية / أجزاء تناظرية
+handed propellers	دواسر تماثلية / دواسر تناظرية
+Handheld Computer	حاسُوبٌ مَحْمُولٌ بِاليَدِ
+handkerchief	محرمة / منديل الجيب
+handkerchief check	نموذج المنديل
+handle	مقبض
+handle (of a torch or an electrode holder)	حامل
+handle of door	مقبض الباب، أكرة الباب
+handle of the door	مقبض الباب
+handle of the plane	مقبض المسحاج
+Handley Page slat & slot	لوح وشقّ هاندلي بيج
+handline	حَبْل أمان
+handling	مناولة (البضائع) / مباشرة / مناولة
+handling / treatment	مُعالَجة
+Handling Consumer Complaint	معالجة شكاوى المستهلكين
+handling costs	تكاليف المناولة
+handling device	جهاز مُناولة
+handling line	حبل المناولة
+handling pilot	طيار المناولة / طيار فعلي
+handling squadron	سرية اختبار المناولة
+handling zone	منطقة التداول؛ منطقة التناول
+handling, collection and transportation	مناولة، وجمع ونقل
+handoff	رَفْع اليد
+handover	تسليم
+handover (in radiocommunication); hand-off (in radiocommunication)	تمرير(في الاتصالات الراديوية)
+handpainted fabrics	أقمشةٌ مصبوغة يدويًا
+handrail	ممسكة
+handrail; grab iron	درابزين
+hands free (telephone) set	جهاز هاتف بدون قبضة يدوية
+hands on	تَدَخُّل يدوي
+hands-free equipment (SAP)	تجهيزة للتحدّث الحُرّ (SAP)
+hands-off	تخلٍّ
+hands-off; unstick	تحرُّر
+handsax	منشار يدوي
+handset	قبضة يدوية للهاتف / جَوّالٌ
+Handshake	إقامة الاتصال
+handwarmer pockets	جيب قطعي
+handwriting	كتابة خطية
+handy	سَهْل الاستعمال
+handy tanker	ناقلة صغيرة
+hang glider	طائرة تَعَلُّق شراعية
+hang the rods	سحب أذرع المضخة، تشغيل المضخة
+hang-up	انحباس / تَعَلُّق
+hangar	حَظيرةُ (الطائرات) / حظيرة / عنبر / حضيرة، مرأب طائرات
+hangar deck	سَطْح حظيرة
+hangar flying	أحاديث طيران
+hangarette	حظيرة فردية
+hangarette; silo	صومعة
+hangfire	انحباس الإنطلاق / توقُّف الإنطلاق
+hanging	مُعَلَّق
+hanging back in the duct	توقف الحبر في المحبرة
+hanging ladder	سلّم معلّق
+hanging rod	ذراع توصيل، قضيب تعليق
+hanging sash	إطار نافذة معلّق
+hanging steps	درجات معلّقة
+hanging up	تَعليق
+hanging wall	جدار مُعلَّق / صخور مُعلّقة
+hanging wardrobe	علاّقة الثياب
+Hansen weir	هَدّار 'هانسن'
+haploid	أحادي الصبغة
+haplotype	نمط فرداني
+harass	يُضايق / يُنهك
+harbour	مَرْفأ
+harbour police	شرطة الميناء
+harbour service	خدمة في الميناء
+Harc jet	نفّاث ظاهرة هول القوسي
+hard asphalt	أسفلت صلْب
+hard burnt brick	آجرة محروقة
+hard chrome plating	طلاء بالكروم الصلب
+hard clay	صلصال صلب
+hard coal	فحم حجري / فحم صلب (HK) / فحم صلب
+Hard coal consumption	استهلاك الفحم الحجري
+Hard Coal Export	تصدير الفحم الحجري
+Hard coal import	استيراد الفحم الحجري
+Hard coal production	استخراج الفحم الحجري
+hard coal reserve	احتياطي الفحم الحجري
+hard coal resource	موارد الفحم الحجري
+hard coal unit (tce)	طن من الفحم المكافئ
+hard copy	نسخة مقروءة
+hard core rubble	حجارة الرصف (دبش)
+hard detergents	مُنَظِّفات قوية
+Hard Disk Drive	مُحَرِّكُ القُرْصِ الصُّلْبِ
+hard facing	تلبيس قاسٍ، تغطية صلبة
+hard finish	طلية مصقولة
+hard flutter	رفرفة عنيفة
+hard formation bit	مِدَقّ للطبقات الصلبة
+hard glass thermometer	مقياس حرارة من زجاج صلد
+hard gloss paint	طلاء لامع صلد
+Hard Infrastructure	بنية تحتية أساس
+hard lander	مَركبة حط عنيف
+hard landing	حط عنيف
+hard landscaping	تَنسِيق صُلب
+hard metal	فلز صلب
+hard packing	حشو صلد
+hard pan	حوض صلب
+hard plaster	جص صلد
+hard radiation	إشعاع فائق
+hard recovery	استنقاذ صعب
+hard scale	ترسبات صلبة
+hard shoulder	مَجَالَة صُلبَة / جانبُ مُقَوًّى، جانب صلب
+hard shoulder for emergency stop	مَجَالَةُ الوقوف الطارىء
+hard shoulder for emergency use	مَجَالَةُ الاستِعمَال الطارىء
+hard spot	نقطة صلبة
+hard stopping	معجون ترميم صلد
+hard strip	مَجَالَةُ صَعبَة
+hard switched topology	طوبولوجيا صعبة التحويل
+hard temper	تصليد بالتطبيع / تصليد بالسقي
+hard vacuum; high vacuum	تفريغ عالٍ
+hard water	ماء عسر / ماء كلسيّ / ماء عَسِر
+hard wing	جناح صلب
+hard wood	خشب صلد
+hard zized paper	ورق عالي التقويم
+hard, consolidated bedrock	قاعدة صلبة ومتماسكة
+hard-glass bulb	غلاف وحدة إضاءة؛ زجاجي صلب
+hard-iron magnetism	مغناطيسية هيكلية
+hard-leaved evergreen	أوراق صلبة دائمة الخضرة
+hard-wired programmed controller	مُتحكّم مُبرمَج بالتوصيلات السلكية
+Hardanger fabric	قماش هاردنجر
+hardboard	لوح صلد
+hardcopy	نسخة مطبوعة
+hardened	مَحْميّ / مُصَلَّد / مُقَسَّى / مُوَقَّى
+hardened concrete	خرسانة متصلدة / خَرَسَانة متصلِّبة
+hardener	مُصلّد / مُقسٍّ
+hardener; accelerator	مُصَلِّب
+hardening	تصليد / تَصَلُّب / تعسُّر الماء / تصليد- تقسية / تصلُّب / تشديد، تصلييب
+hardening agent; hardener	وسيط تقسية- مقسي
+hardening and tempering	تصليب و تليين
+hardening by quenching	تقسية بالتبريد السريع
+hardfacing	تقسية بالتلبيس
+hardiness	جلادة
+hardness	قساوة / قَسَاوة / حماية / صلادة / صلادة، قساوة / صَلابة / عسارة (ماء)
+hardness (of water)	عُسر (الماء)
+hardness measurement	قياس الصلادة
+hardness meter	مقياس الصلابة
+hardness of water	عُسْرَةُ الماء
+hardness of water / hardness	عُسر الماء
+hardness of wood	صلابة الخشب
+hardness scale (material)	مقياس الصلابة
+hardness scale (water)	مقياس الصلابة
+hardover runaway	تشغيل عفوي
+hardover signal	إشارة انفلاتية
+hardpoint	نقطة صلبة
+hardpoint; tiedown point	نقطة تثبيت
+hardstand; hardstanding	موقف مُمَهَّد
+hardtop	صلد السطح
+hardware	المكوّنات المادية / أجهزة؛ المكونات المادية للأجهزة / خردوات / قُطَع / عَتادُ الحَاسُوب / عَتَاد، خُرْدَوات
+hardware failure	عطل مادي
+hardware,	اجهزة, / مكون, / مكونات صلبة للحاسب ( في الاتصالات عن بعد ) / تجهيزات صلبة ( في الاتصالات عن بعد )
+hardwired programmed logic control	تحكم منطقي مبرمج
+hardwood	خشب صلب / خشب صلب، خشب قاسٍ
+harem trousers	سروال الحريم
+harm	ضرر
+harmattan	هارماتان
+harmful agents	مواد ضارة
+harmful algal blooms (HABs)	الطحالب البحرية الضارة
+harmful animals	حيوانات مضرة
+harmful effects	آثار مضرة
+harmful effects of water	أضرار ناجمة عن المياه
+Harmon doctrine	مذهب هارمون
+harmonic	متناسق / توافقية / توافقي / توافقية عليا
+harmonic (component)	مركبة توافقية
+harmonic analyser	محلِّل التوافقيات
+harmonic antenna	هوائي توافقي
+harmonic component	مركبة توافقية
+harmonic component; harmonic	المركبة التوافقية؛ توافق
+harmonic content	المحتوى التوافقى / محتوى توافقى / محتوى التوافق
+harmonic distortion	تشوّه توافقي
+harmonic distortion,	تشوه توافقى
+harmonic emission	بث توافقي
+harmonic frequency	التردد التوافقى / تردد توافقى
+harmonic mean value; harmonic average	القيمة المتوسطة التوافقية ( الهارمونية )؛ المتوسط الهارمونى
+harmonic number; harmonic order	رقم توافقى
+harmonic order	رتبة توافق
+harmonic order; harmonic number	الرتبة التوافقية؛ رقم توافقى
+harmonic resonance	ظاهرة الرنين التوافقى
+harmonic series of sounds	سلسلة توافقيات صوتية
+harmonic telephone ringer; tuned telephone ringer	رنين هاتف متناسق
+harmonic test	اختبار التوافقيات
+harmonic voltage	جهد توافقى
+harmonics	توافقيات
+harmonization	تنسيق / توفيق
+harmony	تناسق، انسجام
+harmotome	هارموتوم
+harness	أحزمة / أربطة
+harness belt	حزام الحوض والكتف
+harp	حجر رباط (في البناء)، سِيَاج
+harpoon system	نظام الحربة
+Harris-Tweed®	هاريس تويد®
+hartley	هارتلى؛ وحدة قياس المعلومات لـ 10 احداث مترابطة / هارتلي وحدة قياس معلومات لوغاريتميِة ،أسية / هارتلي
+hartley-huggins band of ozone absorption	مجال هارتلي-هاغينز لامتصاص الأوزون
+Hartmann generator	مولِّد هارتمان
+Hartridge smoke unit	وحدة دخان هارتردج
+harvest	حصاد
+harvest unit	وحدة حصاد
+harvester	آلة حصاد الأشجار
+Hasell check	تدقيق هازِل
+hasp	مزلاج، سقاطة / غلاّقة
+Hastelloy	سبائك هاستلّوي
+hastingsite	هاستنغسايت
+hat	قبعة
+hat section	مقطع القبّعة
+hatch	تظليل، ترقين
+hatchback aircraft	طائرة الباب الذيلي
+hatchet	بلطة، بليطة
+hatchet claw	بليطة مخلبية
+hatchettite	شَمْع دُهني
+hauerite	هويرايت
+haul distance	مسافة القطر
+haul lead	مسافة نقل
+haulage	جَرٌّ / شحن
+haulage contractor	مُقاوِل شحن
+haulageway luminaire	جهاز إضاءة منجم لطرق الجر
+hauler	متعهد النقل / متعهد نقل
+hauling fee	رسوم نقل
+haunch	كَتِف القوس / ركبة، دعامة / جنب عقد، كتف عقد
+hause	بيت القلس
+haute couture	الخياطة الرفيعة
+hauynite	هوينايت
+Havaianas	صندل هافياناس
+have numbers	استوعبتُ الأرقام
+Havelock coat	لِفَاع بلا أكمام
+Hawaii pattern	طراز هواي
+Hawaii shirt	قميص هواي
+Hawaii style	طراز هواي
+hawk	مسيعة، لوح ملاط
+hawser	قلس (حبل ثخين لربط السفن)
+hay	تِبْن
+hazard	خطر
+hazard alert	إنذار بالخطر
+hazard analysis	تحليل المخاطر
+hazard analysis critical control point (system) - (haccp)	الرقابة الحرجة نظام تحليل مصادر الخطر ونقاط
+Hazard and Operability study	دِراسَةُ المَخاطِرِ وَالتَّشْغِيلُ المُتَبادَلُ
+hazard based approach	مقاربة قائمة على الخطر
+hazard beacon	شاخص إنذار
+hazard identification	تحديد المخاطر
+hazard log	قائمة المخاطر
+hazard mapping	خرائطية المخاطر
+hazard reducing device	معدة لتقليل المخاطر
+hazard warning signal,	إشارة تحذير خطر,
+hazard; danger	خَطَر
+hazardous air pollutans (hap)	ملوثات هواء خطرة (HAPS)
+hazardous area	مساحة خطرة
+hazardous area class1	منطقة خطرة من الصنف الأول
+Hazardous goods carried by rail	البَضائِعُ الخَطِرَةُ المَنْقُولَةُ بِواسِطَةِ الخُطُوْط الحَدِيدِيَّةِ
+hazardous material	مواد خطرة / مادة خطرة
+hazardous mixture	خليط خطر
+hazardous road locations	مواقع خطيرة بالطرق
+hazardous state,	الحالة الخطرة،,
+Hazardous Substances	المواد الخطرة
+hazardous waste	نفايات خطرة / نفايات خطيرة / النفايات الخطرة / نفايات خطِرة
+hazardous wastes	نُفايات خطرة
+hazardous-live-part	جزء مكهرب خطر؛ جزء حى خطر / جزء مكهرب خطر؛ جزء حي خطر
+haze	سديم / ضباب
+Hazen-Williams coefficient	معامل هيزن-ويليامز
+Haïtienne	هايتي
+HCl	حمض الهيدروكلوريك (HCl)
+HCL dosing unit	وحدة حقن حمض الهيدروكلوريك
+HCS combustion process	عملية الاحتراق HCS
+HDLC; high-level data link control	التحكم في بيانات الربط ذات المستوى العالي
+head	توجيه / ضاغِط / رأس / رأس الآلة / طرف
+head (hydraulic/ piezometric)	ضاغط هيدروليكي/بيزومتري
+head (of an electrode holder)	رأس (لماسك قطب كهرباء)
+head (… end)	رأس
+head adjustment	ضبط الرأس
+head board	لوحة وقاية مركز الحفار، عارضة استناد
+head clogging	انسداد الرأس
+head drive	محرك رئيس
+head gate	بَوّابة فم / بوابة رئيسية
+head gate structure	حاجِز عند المَدخل
+head lamp; headlight	مصباح أمامي
+head land	سطح الكبّاس
+head light	إشارة المُقَدِّمَة
+head line	عنوان سيّار
+head loss; loss of head	فَقْد الضغط
+head margin	هامش الرأس
+head moment	عزم الرأس
+head of docks	رئيس الميناء
+head of ship	مقدم السفينة
+head of the back	حافتا كعب الغلاف
+head of the sheet	مقدمة الفرخ، رأس الورقة
+head of water	ضاغِط مائي
+head of water / impounding head	عُلُوّ الماء
+head on collision	تصادم أمامي
+head race	دليل أمامي
+head race / lead race channel / race	خندق ماء حول مُنشأة ما / مجرى الأمام
+head rail	دعمة
+head reach	حَبْس (ال..) الأعلى
+head regulator	قنطرة فم
+head room	مستوى الأمان
+head tubing; control head	رأس الأنابيب
+head unit (HU)	وحدة النظام الصوتي
+head unit; skull unit	مخطط دماغي
+head wall	جدار الرأس
+head water storage	تخزين عند أعالي النهر
+head well	بئر متقطعة الانتاج
+head wheel	عجلة الرأس
+head wind	ريح مضادة / ريح مقابِلة / ريح مقابلة، ريح معاكسة
+head, artesian	عُلُوّ ارتوازي
+head, critical	ضاغط الحرج
+head, hydraulic / height, hydraulic	مُستوى ارتفاع هيدروليّ
+head, matric	ارتفاع مصفوفيّ
+head, osmotic	مُستوى ارتفاع تناضحيّ (أسموزيّ)
+head, pneumatic	مُستوى ارتفاع بنيوماتيّ
+head, static; hydrostatic pressure head	عُلُوّ إستاتيّ
+head-down	رؤية داخلية / منظر داخلي
+head-down display	شاشة داخلية
+head-end (of a cabled distribution system)	طرف الرأس (نظام التوزيع بالكبل)
+head-on	تقابُل بالرأس / تناطُح
+head-set; head phone	سَمَّاعة الرأس
+head-span suspension	نطاق تعليق عرضي
+head-up display	شاشة العرض على الزجاج الأمامي / شاشة خارجية
+head-up display (BMW) (HUD)	شاشة العرض على الزجاج الأمامي (HUD) (من شركة بي.إم.دبليو (BMW))
+head-up display (HUD)	البيان في نطاق الرؤية (HUD) / عرض واجهي / شاشة العرض الرأسية (HUD)
+head-wall culvert, (reverse) angle	بَرْبَخٌ بحائط رأس معكوسة (الزاوية)
+head-wall culvert, angle	بَرْبَخٌ بحوائط رأس زاوية
+head-wall culvert, straight	بَرْبَخٌ بحوائط رأسية مستقيمة
+head/lift, manometric; delivery head, manometric	ضاغِط الطرد المانومتريّ
+head; verteX	رأس
+headache	حَذَارِ حَذَارِ…
+headache post	عارضة وقائية
+Header	عنوان / مُجمِّع علويّ / حاشية رأسية / رأسية، آدية / أنبوب توصيل رئيسي، مِشْعَب
+header label	سمة رئيسية (في بداية الشريط، عنوان الملف، تاريخه، تاريخ حفظه)
+headhaul	احتمال كسب أقصى لوسائل النقل
+heading	نبذة تمهيدية / صبع رؤوس البراغي، نفق أفقي (في منجم)
+heading bond	مدماك، رأسيات
+heading chisel; mortising chisel	منقار
+heading hold	حفظ الاتجاه
+heading select	اتجاه انتقائي
+heading-course	ارتفاع السقف
+heading-orientated map	خريطة منطبقة الاتجاه / خريطة وجهيّة
+heading; orientation	اتجاه
+headlamp	مصابيح رئيسية
+headlamp [UK] / headlightp [US]	كشّاف
+headlamp beam adjuster [UK] / headlight beam adjuster [US]	جهاز ضبط الكشّافات
+headlamp cleaner control [UK] / headlight cleaner control [US]	تجهيزة تشغيل جهاز تنظيف زجاج كشّافات الإضاءة
+headlamp levelling [UK] / headlight leveling [US]	نظام تحكم في مدى الإضاءة
+Headlight	إِضاءَةٌ أَمامِيَّةٌ
+headlight control module (HCM)	وحدة التحكم في الكشّافات (HCM)
+headlight vertical aim contro (LWR)	نظام التحكم في مدى الإضاءة
+headlight wash system	نظام مسح وغسل المصابيح الأمامية
+headlight; head lamp	مصباح أمامي (لسيارة)
+headlight; headlamp	إنارة أمامية؛ مصباح أمامى
+headlights	إضاءة أمامية
+headliner	بطانة سقف السيارة
+headloss	فَقْد الضغط
+headphone	سماعة رأس
+headphone; headset	سَمَّاعة الرأس
+headpiece	خوذة مصباح عامل المنجم / زخرف طباعي فوقي
+headrace	دليل أمامي / قناة أمامية
+headrace structure	تجهيزة الدخل
+headrest	مسند الرأس
+headrom	ارتفاع السقف
+headroom; headway	ارتفاع السقف، ارتفاع الممر
+heads up	طيران معادٍ
+headset	سماعتا رأس متصلتان
+headsock	قناع
+headspace analysis	تحليل بطريقة الفراغ العلوى
+Headstock	عارضة رأسية
+headwater	منبع النهر / أعالي النهر
+headwaters	أعالي نهر
+Headway	الوَقْتُ الفاصِلُ
+headway (1)	فارق القطار
+headway (2)	فارق المسار
+Headway (Distance)	تباعد القطارات
+Headway (Time)	تباعد القطارات من حيث الزمن
+headworks	منشآت المنبع
+headworks / diversion work / diversion structure	‌مُنشأَت الريّ الرئيسية
+health	حالة / صحة
+Health & Safety Department	دائرة الصحة والسلامة
+health care	رِعاية صِحية
+health monitoring	مراقَبة الحالة
+health physics	الفيزياء الصحية
+health policy	سياسة الصحة
+health principle	مبدأ الصحة
+health protection	حماية الصحة
+health region	منطقة صحة
+Health Sector Transformation Program	برنامج تحول القطاع الصحي
+health service	خدمة صحية
+health statistics	إحصائيات حول الصحة
+health status	كفاءة المُركّم
+healthcare professional	رعاية صحية احترافية
+healthcare service provider	مقدم خدمة الرعاية الصحية
+hearing aid	مساعد السمع - جهاز تصحيح السمع
+hearing level	مستوى السمع
+hearing protector; ear protector; ear defender	واقي سمع للأذن
+hearing threshold level; hearing loss (deprecated in this sense)	مستوى مبدئ السمع - فقدان السمع
+hearring-bone gear	تروس لولبية مزدوجة
+hearse truck	سيارة نقل الموتى
+heart	قلب
+heart current factor	عامل تيار القلب
+heart shake	فلْق قلبي
+heart-cut distillate	قُطَارة كيروسين
+heartcut	قَطْع قلبي
+hearts	قُلُوب
+heartwarmer / chauffe-coeur / shrug	تدفئة الكتفين
+heartwood	نواة الخشب / خشب قلبي
+heat	حرارة
+heat (Q)	حرارة (Q)
+heat absorption	فقدان الحرارة / امتصاص الحرارة
+heat accumulator	مركم حراري / خزّان طاقة حرارية
+heat and power, combined / cogeneration	توليد مُشترك للحرارة والطاقة
+heat balance	توازن حراري / موازنة حرارية / ميزان الطاقة الحرارية
+heat barrier; thermal barrier	حاجز حراري
+heat bondable mica material	بلق (ميكا) يتماسك بالحرارة
+heat budget	موازنة حرارية
+heat capacity	سعة حرارية
+heat capacity (C )	سِعة الحرارية (C)
+heat capacity; thermal capacity	سعة حرارية
+heat coefficient	معامل حراري
+heat conducting properties	خاصية التوصيل الحراري
+heat conduction	توصيل حَراريّ
+heat conduction equation	مُعادلة توصيل الحرارة
+heat conduction; thermal conduction	توصيل حراري
+Heat conductivity	الناقلية الحرارية
+heat conductivity; thermal conductivity	مُوَصِّلِيَّة الحرارية
+heat convection; thermal convection	نقل حراري
+heat cramps	تشنج حراري
+heat dissipation	نقل الحرارة
+heat engine	آلة حرارية / محرك حراري
+heat evaporation	حرارة التبخُّر
+heat exchange water	مياه التبادل الحراري
+heat exchanger	مبادل حراري / مبادل حراري، ناقل حراري / مُبادِل حراريّ / مُبادِل حراري / مُبَادِل الحرارة / مُبادل حراري
+heat exchanger surfaces	أسطح المبادل الحراري
+heat exchanger with pass partition plates	مُبادل حراري ذو جدار فاصل
+heat exhaustion	إنهاك حراري
+heat expansion	تمدد حراري
+heat flow	تدفُّق حراري / دَفْق الحرارة، سَرَيَان الحرارة / تدفّق حراري / تيار الحرارة / تدفق الحرارة / تدفق حراري
+heat flow density	شدة التدفق الحراري
+heat flow rate	تدفّق (ال...) الحراري / معدل التدفق الحرارى
+heat flux density	شدة التدفق الحراري
+Heat gain	كسب حراري
+heat generating plant/facility	وحدة توليد الحرارة
+Heat Generating Waste	نفايات مشعة باعثة على الحرارة
+heat input	حرارة داخلة
+heat insulating refractories	حُرُونَات حرارية عازلة
+heat insulation	كساء عزل حراري / عَزْل حراري
+heat insulation glazing	زجاج حماية من التأثيرات الحرارية
+heat insulation lining	بطانة العزل الحراري
+heat insulation refractories	حرونات العزل الحراري
+heat insulation; thermal insulation	عزل حراري
+heat island	جزيرة حرارة
+heat load	حمل حراري / حِمْل حراريّ
+Heat loss	فقد حراري
+heat loss recovery	استعادة الحرارة العادمة
+heat loss,	فقد الحرارة, تسخين بالتتبع
+heat of ablation	حرارة التخوية
+heat of condensation	حرارة التكاثف / حرارة التكثيف
+heat of reaction	حرارة التفاعل
+heat of vaporization	حرارة التبخر / حرارة التبخّر
+heat of wetting	حرارة البلل
+heat output	حرارة خارجة
+heat pipe	أنبوب حرارة / أنبوب حراري
+heat pressing	تركيب نسجي ضاغط مُتبادل
+heat proof logging	تسجيل الصمود للحرارة
+heat pulse	نبض حراري
+heat pump	مِضَخّة حرارة / مضخة حرارية / مِضخّة حرارية
+heat quantity; amount of heat	كمية الحرارة
+heat radiation	إشعاع حراري
+heat radiation; thermal radiation	إشعاع حراري
+heat rash	طفح الحرارة
+Heat Rate	معدل الحرارة / معدل حراري / معدَّل حراري
+heat rating	القيمة الحرارية لشمعة الشرر
+heat recovery	استعادة الحرارة
+Heat recovery duty exemption	الإعفاء من واجبات استعادة الحرارة
+heat recovery efficiency	كفاءة إسترجاع الحرارة
+heat recovery section	قسم استرداد الحرارة
+heat recovery steam generator	غلاية استرجاع الحرارة / مولد استرداد الحرارة
+heat recovery steam generator (HRSG)	مولّد بُخار يعمل باسترجاع الحرارة / مِرْجل استرجاع الحرارة (HRSG)
+Heat recovery system	نظام استعادة الحرارة
+heat rejection	الطرد الحراري، التخلص من الحرارة الزائدة
+heat rejection section	قسم الطرد الحراري
+heat retention capacity / heat retention	الاحتفاظ بالحرارة
+heat run test	اختبار الثبات الحراري للتشغيل
+heat shield	واقي حراري ، عازل حراري ، درع حراري / درع حراري / واقٍ حراري
+heat shock protein	بروتين الصدمة الحرارية
+heat shrinkage	انكماش حراري
+heat sink	ممتص حرارة / بالوعة حرارية / لقف حراري / مصبّ حراري
+heat sink,	بالوعة الحرارة, تسخين بالتتبع
+heat source	مصدر حراري
+heat stress	إجهاد حراري
+heat syncope	إغماء حراري
+heat transfer	تَبَادُل حراريّ / انتقال الحرارة / نقل الحرارة
+heat transfer coefficient	معامل انتقال الحرارة / مُعَامِل انتقال الحرارة
+heat transfer coefficient (U-factor)	معامل الانتقال الحراريّ (المعامل U)
+heat transfer coefficient (α)	مُعامل انتقال الحرارة (α)
+heat transfer factor	معامل الانتقال الحرارى
+heat transfer fluid	مائع لنقل الحرارة
+heat transfer fluids	مائع وسيط
+Heat transfer medium	وسيط نقل الحرارة / وسيط ناقل للحرارة
+heat transfer tubes	أنابيب نقل الحرارة
+heat transfer; heat transmission	انتقال الحرارة
+heat transfer; thermal transfer	نقل الحرارة
+heat transition	انتقال الحرارة
+heat transition coefficient (k)	مؤشر انتقال الحرارة
+heat treatment	معالجة بالتسخين / معالجة حرارية
+heat treatment oil	زيت المعالجة الحرارية
+heat value	قيمة الحرارة / قيمة حرارية
+heat, latent	حَرَارَة كَامِنَة
+heat-absorbing glass	زجاج ماصّ للحرارة
+heat-proof	حافظ الحرارة
+heat-resistant	مقاوم للحرارة
+heat-resistant paint	طلاء مقاوم للحرارة
+heat-seeker	مقتفي الحرارة
+heat-set clothing	ملابس مثبتة حراريا
+heat-set inks	أحبار تجفّ بالحرارة
+heat-set yarn	خيط حراري
+heat-shrinkable plastic	بلاستيك قابل للإنكماش بالحرارة
+heat-transfer aids, pl	وسائل النقل بالحرارة, تسخين بالتتبع
+heat; heating	تدفئة
+heatable front window	زجاج أمامي قابل للتدفئة
+heatable rear window	زجاج خلفي قابل للتدفئة
+heatable washer jet	فوهة غسل الزجاج القابلة للتدفئة
+heatable wing mirror [UK] / heatable side mirror [US]	المرآة الخارجية القابلة للتدفئة
+heated catalytic converter (EHC)	المُحول الحفزي المُسخن (EHC)
+heated container	حاوية مدفأة
+heated duvet	لحاف للروماتيزم
+heated exhaust gas oxygen sensor (HEGO)	حسّاس الأكسجين العامل بالعادم المُسخن (HEGO)
+heated lambda probe (HO2S)	حسّاس لامدا المُسخن (HO2S)
+heated mattress padding	فراش مضاد الروماتيزم
+heated O2 sensor (HO2S)	حسّاس الأكسجين المُسخن (HO2S)
+heated oxygen sensor (LS)	حساس لامدا غير الساخن
+heated quilt	غطاء سرير للروماتيزم
+heated wagon	عَرَبَة مُدَفَّأة
+heater	سخان / سخّان / سخّانة، سخّان / مُسَخِّن / مُشِعّ
+heater current	تيارالسخان
+heater plug	شمعة التوهج
+heater starter switch	مفتاح بدء التوهج
+heater voltage	حهد السخان
+heater warm-up time	زمن احماء السخان
+heater-cathode insulation current; heater-cathode current	تيار عزلِ المهبطِ للسخان
+Heather effect	تأثير منقط
+heating	التدفئة / تسخين / تَدْفِئة
+heating and ventilation control	تجهيزة تشغيل التدفئة والتهوية
+Heating Boiler	مرجل التسخين
+heating box	صندوق التدفئة
+heating by air	تدفئة بالهواء
+heating cable	كابل تسخين / كبل تسخين
+heating capacitor	مكثف التسخين
+heating chamber	غرفة تسخين / فراغ التسخين / غرفة التسخين
+heating circuit	دائرة تدفئة / دورة شبكة (نظام) التدفئة
+heating coil	ملف تسخين
+heating conductor surface load	حمل موصل التسخين السطحي
+heating control	مُنظّم التدفئة
+heating curve	منحنى التدفئة
+heating days	أيام التدفئة
+Heating degree days	يوم درجة التدفئة
+heating effects	تأثيرات حرارية
+heating electrode	قطب للتسخين الكهربائي
+heating element	خرطوشة تسخين / عنصر تسخين
+heating element support	دعامة عنصر تسخين
+heating energy demand	احتياج طاقة تدفئة
+heating fuel	وقود التدفئة
+heating generator	مولد حرارى
+heating heat	حرارة تدفئة
+heating in constant voltage plasma	تسخين ببلازما ذات جهد ثابت
+heating in pulsating plasma	تسخين بالبلازما النابضة
+heating in salt bath	تسخين في حوض ملحي
+heating inductor	عضو حث حراري
+heating jumper; train power supply jumper	وصلة تجسير التدفئة
+Heating limit	حد التدفئة
+heating load	حمل حراري
+heating load calculation	حساب حمل حراري
+heating mat	حصيرة تسخين
+heating method	طريقة التسخين
+heating nozzle	فوهة تدفئة
+Heating Oil	زيت تسخين / زيت التسخين، زيت الوقود، مازوت / زيت التدفئة
+heating oil Price	سعر زيت التدفئة
+heating oil valve	محبس زيت التدفئة
+heating pad,	وسادة تسخين, تسخين بالتتبع
+heating panel,	لوحة تسخين, تسخين بالتتبع
+heating pipes and tubes	أنابيب التسخين
+heating plant	محطة تدفئة
+heating power	قدرة حرارية ( قدرة التسخين)
+heating pump	مِضخّة حرارية
+heating resistance	مقاومة التسخين / مقاومة تسخين
+heating resistor	مقاوم تسخين
+heating salt	ملح التسخين
+heating salt mixture	خليط أملاح تسخين
+heating season	موسم التدفئة
+Heating Seasonal Performance Factor(HSPF)	معامل الأداء الموسميّ للتدفئة (HSPF)
+heating steam (vapor)	بخار تسخين
+heating support system	نظام تعزيز التدفئة
+heating system	جهاز التدفئة
+heating tariff	تعرفة تسخين؛ تعرفة تدفئة
+heating train line; train power supply line; auxiliary power supply line	خط نقل التدفئة
+heating unit	جهاز تدفئة
+heating value of wood	قدرة الخشب الحرارية
+heating valve	صمام التدفئة
+Heating, Ventilation, and Air Conditioning (HVAC)	نظام التدفئة والتهوية (HVAC) / التدفئة والتهوية وتكييف الهواء
+heating-up power	قدرة التسخين
+heating/air handling unit	جهاز التدفئة/التكييف
+heatstroke	ضربة حَرْ
+heatwave	موجة حرارة / موجة حر
+heave	انتفاخ / حركة عمودية؛ حركة رفع وخفض
+heave of fault	زَحْف جانبي للصدْع
+heavier than air	أثقل من الهواء
+heavily modified water body (HMWB)	كُتْلَة مياه تغيرت بشدةٍ
+heaving	انتفاخ (بامتصاص الماء)، تضخُّم
+Heaviside layer	طبقة هيفيسايد
+heavy alloy	سبيكة ثقيلة
+heavy bomber	قاذفة ثقيلة
+Heavy Bottoms	مخلفات التكرير الثقيلة
+heavy bottoms; heavy ends	بقايا تكرير ثقيلة
+heavy clay	طين ثقيل
+Heavy Crude Oil	بترول خام ثقيل
+heavy dropping	إسقاط ثقيل
+Heavy Duty Vehicles (HDVS)	مركبات ثقيلة
+heavy duty wagon	عَرَبَة مَتِينة
+heavy duty, (H.P.M.)	خاضع لعمل شاق، مُعدّ لخدمة شاقة
+Heavy Ends	مقطرات ثقيلة
+Heavy Fuel Oil	زيت وقود ثقيل
+heavy gabion	حزمة عيدان طويلة
+heavy goods vehicle (HGV)	مركبات النقل التجاري
+heavy jacket	سترة قصيرة
+heavy landing	حط ثقيل
+heavy liquid	مائع كثيف / سائل كَثِيف
+heavy liquid separation	فَصْل الموائع الكثيفة
+heavy maintenance	صيانة ثقيلة
+heavy metal	معدن ثقيل
+heavy metals	معادن ثقيلة
+heavy minerals	معادن ثقيلة
+heavy oil	زيت ثقيل
+heavy precipitation increase	زيادة هطول الأمطار الغزيرة
+heavy straight-run naphta	نفتا التقطير المباشر الثقيلة
+heavy thinning	تخفيف كبير لكثافة الأشجار
+Heavy Wagon Route	طرق المَركبات الثقيلة
+heavy water	الماء الثقيل / ماء ثقيل
+Heavy water reactor	مفاعل الماء الثقيل
+heavy wax diesel	ديزل شمعي ثقيل
+heavy wax diesel line	خط الديزل الشمعي الثقيل
+heavy wood	خشب ثقيل
+heavy-duty oils	زيوت الخدمة الشاقة
+heavy-duty vehicle electrical system	شبكة كهربائية عالية القدرة
+heavy; viscous	لَزِج
+heck	سقّاطة الباب
+hectare	هكتار
+hectare (ha)	هكتار
+hecto (prefix)	هکتو
+hecto-	هكتو
+hectometer	هيكتومتر
+hectorite	هكتورايت
+Hedebo embroidery	هيديبو
+hedenbergite	هدنبرغايت
+hedge of acacia	سياج السنط
+hedge-hopping	طيران سافّ
+hedgehog	التسخين الكهربائي لمشعب السحب
+hedonic pricing	تسعير المتعة
+heel	كعب / كَعْب
+heel (of a dam)	قدم السدّ
+heel effect	تأثير الكعب
+heel line / upstream toe line	خَطُّ القدم الأمامية (في السدود)
+heeling	جنوح
+heeling; pitch	مَيَلان
+height	ارتفاع / إرتفاع / علوّ
+height above (mean) sea level (AMSL)	منسوب الارتفاع فوق سطح البحر (الصفر الطبيعيّ)
+height above airport	ارتفاع فوق المطار
+height above touchdown	ارتفاع فوق نقطة اللمس
+height dimension	بُعد الارتفاع
+height gain	كسب الارتفاع
+height line	خط الارتفاع
+height lock	قفل الارتفاع
+height measuring ruler	مسطرة قياس الارتفاع
+height of weir	ارتفاع الهَدَّار
+height plan, storage; height plan, pondage	مُخطَّط ارتفاع التخزين
+height ring	حلقة الارتفاع
+height-area curve	منحنى سطح الخزّان
+height-volume	سَعَة التخزين
+height-volume curve	منحنى سَعَة التخزين
+height/velocity curve	منحني السرعة ـ الارتفاع
+heightfinder radar	رادار معَيِّن الارتفاع
+Heinze strandard hinge	مفصّلة هاينز
+Helanca®	هيلانكا
+Heli-Coil	لفيفة حلزونية
+Heliarc	لِحام قوس بالهليوم
+helical auger	مِسبار لولبي
+helical compressor	ضاغط حلزوني
+helical gas meter	عداد غاز حلزوني
+helical gear	ترس لولبي / مسنَّن لولبي
+helical gear box	علبة تروس حلزونية
+helical hinge (double acting)	مفصلة مزدوجة الحركة
+helical post-deflection accelerator	مسرع حلزوني للاشعاع المهبطي بعد الانحراف
+helical reinforcement	تسليح حَلَزونيّ
+helical rotor	دَوَّار لولبي
+helical stair	درج حلزوني
+helical-scan videotape recorder	مسجّلة على شريط مرئي لولبي
+helicide	مبيد الحلزونات
+helicopter	مروحية (طائرة)، طوّافة / هليكوبتر
+helicopter lane	ممر الطائرات العمودية
+helidrop	إسقاط عمودي / تفريغ عمودي
+helio-	بادئة بمعنى شمس
+heliocentric	شمسي المركز
+heliochromy	تصوير شمسي بالألوان
+HelioClim	مُناخيات شمسية
+heliography	نقمشة
+heliogravure	طبع نقشمي
+Heliosat	تمثيل بياني للأشعة الشمسية
+Heliostat	هليوستات
+heliostats	هليوستات
+heliostats cosine losses	فواقد جيب تمام الهليوستات
+heliotherapy	معالجة شمسية
+heliotrope	هليوتروب
+heliotropism	انتحاء شمسي
+heliotype	روسمة تصويرية
+helipad	محطّ الطائرات العمودية / مربض الهليكوبتر
+heliport	مهبطُ المروحية
+helistat	منطاد عمودي / هليكوبتر طفوي
+helistop	موقف طائرة عمودية
+helium	هليوم / هيليوم
+heliX angle; spiral angle	زاوية الحلزون
+helix antenna	هوائى حلزونى
+helix interpolation	استكمال حلزوني
+Hell system; Hellschreiber system	نظام ( هل)
+hellbox	صندوق المحارف التالفة
+helm	جهاز التوجيه
+helmet sight	مهداف خوذي
+Helmholtz free energy; Helmholtz energy; free energy; Helmholtz function	الطاقة الحرة لهلمونز؛ طاقة هلمونز؛ طاقة حرة؛ دالة هلمونز
+Helmholtz resonator	مرنان هيلمهولتز
+Helmholtz–Kohlrausch phenomenon	ظاهرة هلموهلتز كولراوس
+helophyte bed / vegetable wastewater treatment plant	حوض مُعالجة بالنباتات
+help signal	إشارة مساعدة
+helper signal	إشارة مساعدة
+Helsinki Rules	قواعد هلسنكي
+hem	زِيق / حافة
+hematite	هيماتايت
+hemicellulose	خليوز نصفي
+hemicrystalline	نصف بلوري
+hemidome	نصف قبة
+hemihedral	نصف وجهي
+hemimorphite	هميمورفايت
+hemisphere	نِصف الكرة الأرضية / نصف كرة
+hemispherical emissivity	درجة انبعاث نصف مكانية لمُشِّع حراري
+hemispherical engine	محرك نصف كروي
+hemizygous	شبة (نصف) زيجوتي
+hemoglobin	هيموغلوبين
+hemp types poor in thc	أصناف قنب فقيرة لرُباعي هيدرو كانابينول
+hen-cooping; A-frame protection (Australian method of construction)	حِماية إطارية (طريقة إنشاء استرالية)
+henry	هنرى؛ وحدة قياس قيمة الحث / هنري
+Hepilay	هيبيلاي
+heptachlor	سباعي الكلور
+heptane	هِبتين / هَبْتَان
+heptode	صمام سباعى
+heraldic pattern	شعارات النبالة
+herb	عُشْب
+herbaceous	عشبي
+herbaceous plant	نبات عشبي
+herbicide	مبيد أعشاب
+herbivore	حيوان عاشب
+herbivorous	حيوان عاشب
+herbivory	آكل عشب
+herbs	أعشاب
+Herculon®	هيركيلون®
+hercynite	هرسينايت
+Hereke	هيريكه
+heritage	تراث
+Heriz	هريس
+Herman-Maugin symbols	رموز هيرمان- موجين
+Hermetic refrigerant compressor	ضغّاط تبريد مُحكم الإغلاق
+hermetic seal	مانع تسرب كتيم
+hermetically sealed cell	خلية محكمة الاغلاق
+hermetically sealed device	جهاز مغلق باحكام
+hermetically sealed device "nC"	جهازمحكم الاغلاق درجة "nC"
+hermetically sealed, adj	محكم السد
+Hermès print	طبعة هيرمس
+Heron combustion chamber	حيز الاحتراق 'هيرون' (Heron)
+herring-bone bond	آصرة ظهر السمكة
+herring-bone strutting	تدعيم تقاطعي
+herringbone	نسيج المبرد العكسي / هيكل السمكة
+herringbone furrow method	طريقة هيكل السمكة للرى بالأخاديد
+herringbone gear	مسنّن حلزوني مزدوج
+herringbone pattern	نموذج هيكل السمكة
+herringbone system	نِظام هيكل السمكة
+Hertz	هيرتز
+hertz; Hz	هرتز
+hertzian (electric) dipole; (elementary) electric dipole; infinitesimal dipole	ثنائي قطب ( كهربائي ) ترددي
+hertzian magnetic dipole; (elementary) magnetic dipole	ثنائي قطب مغناطيسي ترددي
+hesitation roll	عُطوف متردد
+Hessian	نسيج غليظ متين
+hessian weave / hessian binding	قماش خيش
+hetero-	مختلف / مغاير
+heterodesmic	غير متجانس الروابط
+heterodyne	قران تضاربي
+heterogeneous	غير متجانس / لا متجانس
+heterogeneous fibers	ألياف عضوية
+heterogeneous multiplex	تضاعف غير متجانس
+heterogeneous plane wave	موجة مستوية غير متجانسة
+heterogeneous radiation	إشعاع غير متجانس
+heterojunction	وصلة غير متجانسة
+heteromorphic	متغاير الأشكال
+heteropolar machine	آلة متغايرة الأقطاب
+heterosphere	جو متغاير
+heteroyarn	خيط غزل هجين
+heterozygosity	زيجوتية متغايرة
+heterozygote	زيجوت متباين المورثات
+hetrogeneous	غير متجانس
+heulandite	هيولاندايت
+heuristic	تنقيبي
+heuristic adjustment	مواءمة إرشادية
+HEV hybrid electric vehicle	سيارة كهربائية هجينة
+hexad axis	محور سداسي
+hexadecimal, adj; DEPRECATED: sexadecimal, adj	سداسى عشرى, صفة
+hexafluoroethane	إيثان سداسي الفلورة
+hexagonal	سداسي الشكل
+hexagonal compressed connection	وصلة مضغوطة سداسية
+hexagonal system	نظام سداسي الأوجه
+hexagonal trapezohedron	سداسي شبه منحرف
+hexagonel kelly	عمود حفر مُسدَّس
+hexahedron	سداسي الأوجه
+hexane	هَكْسَان
+hexaoctahedron	سداسي ثماني الأوجه
+hexode	صمام سداسى
+Hf	هفنيوم / حمض الهيدروفلوريك (HF)
+HFO Scrubbers	أجهزة تنقية الغاز العادم الناتج عن حرق وقود السفن
+Hg	زئبق
+HgCdTe	تلوريد كادميوم الزئبق
+hi	طيران عالٍ
+Hi-CAT	اضطراب صافٍ عالٍ
+hiatal texture	نسيج ذو فجوات
+hiatus	فجوة ترسيبية
+hibernate	سُبات
+hibernate; potential	كُمون
+hickeys	بقع ملطخة
+hidden edge	حافّة خفية
+hidden joint	وصلة خفيّة
+hiddenite	هيدنايت
+hide	مَخبأ
+hide / pelt	فرو
+Hiduminium	هيديومنيوم
+Hidyne	هيداين
+hierarchic mutually synchronized network	شبكة متزامنة تبادلياً بتسلسل هرمي
+hierarchic synchronized network	شبكة متزامنة بتسلسل هرمي
+hierarchical coding; layered coding	ترميز هرمي
+hierarchical control	تحكم هرمى
+hierarchical control structure	هيكل تحكم هرمى
+Hierarchy of Accuracies	التسلسل الهرمي للدقة
+Higgins check	مربع هكين
+high	منطقة ضغط مرتفع
+high activity laboratory; hot laboratory (deprecated)	مختبر عالى النشاط
+High Activity Sealed Sources	مصادر مختومة عالية النشاط
+high albite	ألبايت عالٍ
+high altitude	ارتفاع طيران عالٍ
+high and low level order picking truck	عربة/شاحنة نقل االطلبيات ذات مستوى عالي ومنخفض
+high angle hole	بئر كبيرة الانحراف
+high bay warehouse, high rack warehouse	مستودع خليج عالي
+high blower	مروحة سريعة
+high boost	تعزيز عالي الضغط
+high bypass ratio	نسبة إمرار جانبي عالية
+high capacity freight coach	عَرَبَة شَحن عالية السَّعَة
+high capacity tank coach	عَرَبَة صهريج عالية السًّعَة
+high cloud	سَحَاب عالٍ
+high concentrated photovoltaic (HCPV)	نظام كهرضوئي عالي التركيز
+high conductivity polymer	بوليمر بموصلية عالية
+high conservation value	قيمة حفظ عالية
+high conservation value forest	غابات بقيمة حفظ عالية
+high conservation values (hcvs)	قيم حفظ عالية
+high cube	حاوية على شكل مكعب عالي
+high cube container	حاوية كبيرة الحجم
+high curb	رصيف عالي
+High Definition Television	تلفاز عالِي الوُضُوحِ
+high definition television (system); HDTV (abbreviation)	(نظام) تلفاز عالي الجودة
+high denier intensity fiber	ألياف عالية الدنير
+High Densiht Polyethylene	بُولِي إيثيلين عالِي الكَثافَةِ
+high density polyethylene (HDPE)	بولي إثيلين عالي الكثافة
+high efficiency	الكفاءة العالية (HE) / الكفاءة العالية
+high efficiency RO process	عملية تناضح عكسي عالية الكفاءة
+high energy battery	بطارية عالية القدرة
+High Enriched Uranium (HEU)	يورانيوم عالي التخصيب
+high flux membrane	غشاء تدفق عال
+High Flux Reactor	مفاعل تدفق عالٍ
+high forest	غابات عالية
+high frequency	تردد عال / تَوَاتُر عالٍ، تردُّد عالٍ
+high frequency (HF)	التردّد العالي (HF)
+high frequency (in electrobiology)	تردد عالي (في الكهروحيوية)
+high frequency (in electroheat)	تردد عالي (في الحرارة الكهربائية)
+high frequency (RF/PLC) filter	مرشحات عالية التردد
+high frequency capacitance (of a capacitor)	سعة مكثف عند الترددات العالية
+high frequency gluing	تغرية في مجرى التواتر العالي
+high frequency treatment	معالجة بالتردد العالي
+high fructose corn cyrup (HFCS)	شراب الذرة عالي الفركتوز
+high gate	بوّابة عليا
+high gear	ترس سريع / مسنّن سريع
+high grading (highgrade logging)	رفع الجودة (قطع الأخشاب عالية الجودة)
+high head power plant	محطة توليد طاقة كهرومائية عالية الضغط
+high heels	حذاء بكعب عال
+high impedance differential protection	وقاية تفاضلية عالية المعاوقة
+High Level Data Link Control	برتوكول للتحكم فى ربط البيانات عالية المستوى (HDLC)
+High Level Language	لغة عالية المستوى (HLL)
+high lift pump	مِضَخَّة ضغْط عالٍ
+high line	أنبوب غاز ذو ضغط مرتفع
+High Linear Energy Transfer Radiation	إشعاع ذو انتقال خطي مرتفع للطاقة
+high mast lighting	إضاءة عَلَى الصَّوَارِي
+high neck	عنق عال
+high oblique	عالي المَيل
+High Oriented Yarn	خيط غزل عالي التوجيه
+High pass filter	مُرشِّح تمرير عال
+high peak irradiance	ذروة الإشعاع
+high performance	هاي برفورمانس
+high pile carpet	سجاد طويل الوبر
+high pile fur fabrics	فرو صناعي بشعر طول
+high pitch	خطوة عالية
+high platform	مِنَصَّة عالية
+high polish	صَقْل عالٍ
+high precision short range navigation, (H.I.R.A.N.)	ملاحة قصيرة المدى عالية الدقة
+high pressure compressor	مضعط مرتفع الضغط
+high pressure gate	صمام الضغط العالي
+high pressure pipe line	شبكة صرف مضغوطة (مياه صرف)
+high pressure plasma	بلازماعالية الضغط
+high pressure pump	مضخة الضغط العالي
+high pressure side (AC)	جانب الضغط العالي (مكيف الهواء)
+high pressure steam locomotive boiler	ضغط عالي
+High Pressure Systems	أنظمة الضغط العالي
+high pressure trap; high pressure separator	فاصل (وعاء فرز) تحت ضغط عال
+high pressure turbine	توربينة مرتفعة الضغط
+high quartz	كوارتز عالٍ
+high relief carving	حفر بارز
+high resistance fault	عطل المقاومة العالية
+high route	طرُق عالية
+high rudder	دفّة عالية
+high school look	النمط الجامعي
+high seas	أعالي البحار
+high sided wagon	عَرَبَة مرتفعة الجَانِب
+high speed line	خط عالى السرعة
+high speed milling	طحن فائق السرعة
+high speed railway vehicle	مركبة سِكَكِية فائقة السرعة
+high speed steel, (H.S.S.)	فولاذ سريع القطع
+high sulphur fuel oil	زيت الوقود المرتفع المكونات الكبريتية
+high supercharger gear	مسنّن التعزيز السريع
+high temperature battery	بطارية تعمل عند درجات الحرارة العالية / بطارية درجات الحرارة العالية
+High temperature conductor	موصل ذو درجة حرارة مرتفعة
+High Temperature Gas Cooled Reactor	مفاعل الحرارة العالية المبرد بالغاز
+high temperature grease	شحم مقاوم للحرارة المرتفعة
+high temperature heating element	عنصر تسخين مرتفع الحرارة
+high temperature multistage flash	ارتفاع في درجة حرارة فلاش متعدد المراحل
+high temperature plasma	بلازما ذات حرارة عالية
+high tension	توتر عال
+high tide	مدّ (ال...)
+high twist	سقاطة صوف عالية
+high twist yarn	خيط غزل عالي البرم
+high usage circuit group	دارة مجموعة ذات إستخدام عالى
+high vacuum valve device	جهاز صمام ذو تفريغ عالي
+high viscosity index, (H.V.I.)	قرينة اللزوجة العالية
+high visibility jacket [UK] / reflective vest [US]	سترة التحذير / سترة الأعطال
+high voltage	فلطية عالية / جهد عال / جهد عالي
+high voltage (1); high tension (1); HV (1)	جهد عالى (1)
+high voltage (2); high tension (2); HV (2)	جهد عالى (2)
+high voltage (abbreviation: HV)	جهد عالي
+High Voltage (HV)	الجهد العالي (HV) / جهد عالٍ
+high voltage AC transmission	نقل التيار المتردد عالى التوتر
+high voltage battery (HV Battery)	بطارية الجهد العالمي
+high voltage current	تيار قوي
+high voltage DC transmission (HVDC)	نظام نقل تيار التوتر العالي المُستمر
+high voltage direct current (HVDC)	تيار الجُهد العالي المُستمر
+high voltage direct current transmission (HVDC)	نقل تيار الجُهد العالي المُستمر
+high voltage direct current transmission line	خط نقل تيار الجُهد العالي المُستمر
+high voltage disconnect	قطع الفلطية العالية
+high voltage disconnect hysteresis	تخلفية قطع الفلطية العالية
+high voltage test	اختبار الجهد العالي
+high voltage; HV	جهد عالى
+high waist brief	تاي (لباس داخلي)
+high water	منسوب المد / فيضان
+high water/flooding double check valve	حاجِز مياه الفيضان المُرتدة
+high weight mud	طين ثقيل
+high wheel	عجلة قوية التلاصق
+high wing; upper wing	جناح عُلوي
+high- [medium-] [low-] voltage consumer	مستهلك منخفض (متوسط) (عالي) الجهد
+high- [medium-] [low-] voltage tariff	تعرفة جهد عالي (منخفض) (متوسط)
+high-altitude bombing	قصف عالٍ
+high-altitude burst	تفجير عالٍ
+high-alumina cement	إسمنت عالي الألومينا
+high-angle fault	صدْع شديد الميل
+high-angle ray	شعاع مرتفع الزاوية
+high-bulk yarn	خيط غزل شديد التضخيم
+High-Calorific gas	غاز عالي القيمته الحرارية
+high-cycle aircraft	طائرة التشغيل الأعلى
+high-cycle fatigue	تعب التردد العالي
+high-density focal-plane array	لوح استشعار عالي الكثافة
+high-density plywood	خشب معاكس رفيق الكثافة
+high-density polyethylene (hdpe)	بولي ايثيلين العالي الكثافة
+high-density seating	إركاب عالي الكثافة
+high-density stocking/high-intensity grazing	كثافة رعي عالية
+high-density tunnel	نفق عالي الكثافة
+high-electron-velocity camera tube	انبوب الة تصوير ذو الكترونات عالية السرعة
+high-energy laser	ليزر عالي الطاقة
+high-enthalpy deposits	مُستودعات ذات إنثالبية عالية
+high-enthalpy source	احتياطات عالية الإنثالية
+high-floatation gear	عجلات عالية التعويم
+high-floatation tyre	إطار عالي التعويم
+high-flow refuellers	مزودات الوقود
+high-flow solar thermal system	نظام طاقة شمسية حرارية ذو تدفّق عالٍ
+high-frequency drying	تجفيف في مجرى التواتر العالي
+high-frequency ignition device (of a plasma torch)	جهاز إشعال ذو تردد عالي (لمصباح بلازما)
+high-frequency repeater distribution frame; HFRDF (abbreviation)	موزع تكرارى عالي التردد
+high-gain aerial	هوائي عالي الكَسْب
+high-gloss ink	حبر فائق اللمعان
+high-incidence stall	انهيار عالي السقوط
+high-intensity discharge lamp; HID lamp	مصباح تفريغ عالى الشدة الضوئية
+high-level language; HLL	لغة برمجة عالية المستوى
+High-Level Waste	نفايات عالية المستوى
+high-lift	عالي الرفع
+high-limit temperature,	الحد الأعلى لدرجة الحرارة, تسخين بالتتبع
+high-load hours	فترة التعريفة المُرتفعة
+high-Mach buffet	ارتجاج عالي الماخ
+high-Mach flight	طيران عالي الماخ
+high-modulus asphalt	أَسفَلتٌ عَالِي المُعَامِل
+high-occupancy vehicle lane	مَسَار انتِقَائِي
+high-octane	عالي الأوكتان
+high-pass filter	مرشًح مرور الترددات العالية / فلتر إمرار التردادت العالية؛ مرشح إمرار التردادت العالية
+high-performance liquid chromatography (HPLC)	كروماتوغرافيا سائلة عالية الأداء
+high-performance reactors	مُفاعل عالي الأداء
+High-Power Charging Infrastructure	البنية التحتية لمحطات الشحن السريع
+high-power modulation; high-level modulation	تضمين عالي القدرة
+high-pressure accumulator brake system	خازن الضغط العالي
+high-pressure area	منطقة ضغط عالٍ
+high-pressure chamber (pump-injector unit)	غرفة الضغط العالي لوحدة مضخة الحقن
+high-pressure cleaning	تنظيف بالضغط العالي
+high-pressure cleaning equipment	جِهاز للتنظيف بالضغط العالي
+high-pressure cleaning vehicle with water recycling facilities	مَركبة للتنظيف بالضغط العالي مُزوّدة بجهاز لإعادة استعمال الماء
+high-pressure flushing equipment	جِهاز للشطف بالضغط العالي
+high-pressure flushing vehicle	مَرْكَبَة شطف بالضغط العالي
+high-pressure gas injection	حقن الغاز تحت ضغط عال
+high-pressure gate	بَوّابة ضَغْط عالٍ
+high-pressure line	خط الضغط العالي
+high-pressure mercury lamp; high-pressure mercury vapour lamp	مصباح زئبق ضغط عالى
+high-pressure piston pump	مِضخّة بكبّاس عالية الضغط / مِضخّة بكبّاس ذات ضغط عالي
+high-pressure pump common rail	مضخة الضغط العالي في نظامالمساق المشترك
+high-pressure sensor (AC)	حسّاس الضغط العالي (مكيف الهواء)
+high-pressure sodium lamp; high-pressure sodium vapour lamp	مصباح صوديوم ضغط عالي
+high-pressure stage of the radial-piston distributor injection pump	مضخة حقن موزعة ذات كباس شعاعي عالية الضغط
+high-pressure switch (AC)	مفتاح للضغط العالي (مكيف الهواء)
+high-pressure systems	منظومات عاملة بالضغط العالي
+high-ratio engine	محرك عالي النسبة
+high-recovery RO	استرداد عال - تناضح عكسي
+High-Shear rivet	برشام عالي القص
+high-shrinkage yarn	خيط انكماشيّ مضخم
+high-speed alloys	سبائك السرعة العالية / سبائك القطع السريع
+high-speed maglev system	نظام ماجليف فائق السرعة
+High-Speed Packet Access	الوُصُولُ عالِي السُرْعَةِ لِرَزْمِ البَياناتِ
+high-speed planer	آلة سحج عالية السرعة
+high-speed printing	طبع سريع
+high-speed rectifiers	مُقوّم عالي السرعة
+high-speed slip joint	وصلة انزلاقية ثابتة السرعة
+high-speed stall	انهيار عالي السرعة
+high-speed tunnel	نفق عالي السرعة
+high-speed warning	تحذير السرعة العالية
+high-strength concrete	خرسانة عالية المقاومة
+high-strength friction-grip bolt	برغي عالي المقاومة يعتمد على الاحتكاك
+high-strength low-alloy steel	صُلب HSLA
+high-strength steel	صُلب HSS / صُلب عالي المتانة
+high-subsonic	سرعات دون صوتية عالية
+high-subsonic aircraft	طائرات دون صوتية عالية السرعة
+high-tailed aircraft	طائرة عالية الذيل
+high-tech	تقنية عالية
+high-tech fashion of the future	طراز المستقبل
+High-temperature Fischer–Tropsch (HTFT) process	طريقة 'فيشر-تروبش' ذات درجة الحرارة العالية (HTFT)
+high-temperature process	طريقة درجات الحرارة المُرتفعة
+high-temperature vacuum brazing	لحام ذات درجة حرارية عالية
+high-tensile steel	فولاذ عالي المقاومة(على الشد)
+high-test peroXide	فوق أكسيد الهيدروجين النقي
+high-time	عالي التشغيل
+high-velocity camera tube; anode-potential-stabilized camera tube	صمام الة التصوير عالي السرعه
+high-velocity drop	إسقاط عالي السرعة
+high-velocity scanning	مسح عالى السرعة
+high-voltage battery module (HV battery module)	بطارية عالية الجُهد (HV)
+high-voltage capacitor (of a capacitor divider)	مكثف جهد عالي لمقسم جهد سعوي
+high-voltage capacitor (of a capacitor voltage transformer)	طرف وسيط لمحول جهد سعوي
+high-voltage capacitor ignition	نظام الإشعال HKZ / نظام الإشعال عالي الفلطية ذو المُكثف
+high-voltage circuit	دائرة جهد عالي
+High-Voltage Control System	نظام التحكم في الجهد العالي
+high-voltage DC link; HVDC link	وصلة نظام التيار المستمر العالي الجهد
+high-voltage direct current	نقل التيار المستمرالعالي الجهد
+High-Voltage Disconnect System	نظام التحكم في الطوارئ / نظام فصل الجهد العالي
+high-voltage fuse	مصهر الجهد العالي
+high-voltage generator	مولّد الجهد العاليِ
+High-Voltage Interlock Loop (HVIL)	حلقة التوصيل العالي الجهد
+high-voltage line	خط جهد عالي / خط (خطوط) الجهد العالي
+high-voltage network	شبكة الفلطية العالية
+high-voltage network high-voltage grid	شبكة جُهد عالي
+high-voltage pulsed track circuit	دائرة مسار نبضية ذات جهد عالي
+high-voltage regulation	تنظيم الجهد العالي
+high-voltage terminal	مجزئ جهد سعوي
+high-voltage winding	لفيفة جهد عالي
+high-volume sprinkling	ريّ غزير بالرش
+Higher Committee Tender (HTC)	اللجنة العليا لمناقصات مؤسسة البترول الكويتية وشركاتها النفطية
+higher heating value (HHV)	قيمة حرارية أعلى (HHV)
+higher layer functions; HLF (abbreviation)	وظائف الطبقات العليا
+higher-strength steel	صُلب فائق المتانة
+highest reservoir level / highest flood level / maximum water level	منسوب (ال..) الحسابي لتصريف مياه الفيضان
+highest voltage for equipment	الجهد الأعلى للمعدة
+highest voltage of a system	أعلى جهد للنظام الكهربائي
+highlead	Highlead
+highlight	تحديد
+highly blown engine	محرك نفخ عالٍ
+highly elastic knit fabrics	أقمشة تريكو عالية المرونة
+highly enriched uranium	يورانيوم عالي التخصيب (HEU)
+highly migratory fish stocks	أرصدة سمكية الكثيرة الارتحال
+highly sensitive categories	الأصناف الحساسة
+highly stressed water system	منظومة مائية عالية الإجهاد
+highway	قناة عامة
+Highway Addressable Remote Transducer	ناقل البيانات 'هارت'
+highway code	قانون السير (على الطريق)
+highway design standard	مواصفات تصميم الطرق
+highway drainage	صَرْف المياه / صرف سطحي تجميع
+highway road	طريق سَرِيع
+highway sufficiency rating	تقدير كفاية استعاب الطريق
+highway; bus	موصل عمومى / موصل عمومي سريع
+highway; road	طريق رئيسية
+hiking clothes	ملابس النزهة
+hiking jacket	سترة النُّزهة
+Hill Hold Assist	نظام التحكم في الصعود
+hill holder assist	مساعد بدء السير على الطرق الصاعدة
+hill start assistant (HSA)	مساعد بدء السير على الطرق الصاعدة (HSA)
+Hill's mirror	مرآة هِل
+hill-side extension; leg extension	تطويل ساق البرج
+Himalaya	قماش هيمالايا
+hindered settling	ترسيب معلَّق
+hing-pin	دسار مفصلة
+hinge	مَفْصِل / مفصلة
+hinge leaves	جناحا المفصلة
+hinge moment	عزم مفصلي
+hinged cantilever	دعامة مفصلية ممتدة
+hinged casing slips	كُلابات مفصلية لأنابيب التبطين
+hinged gate	بَوّاَبة مَفْصِلية
+hinged joint	وصلة مفصلية
+hinged wing	جناح مفصلي
+hinterland	منطقة داخلية
+hinterland; polder	مِنطقة خلفية للسد
+hip	سنام، تهريم
+hip and thigh slimmer	مشد للتنحيف
+hip padding	نافخ التنورة
+hip rafter	رافدة لدعم الجملون / رافدة الهرم
+hip roof; hipped roof	سقف هرميّ
+hip tiles	بلاط هرمية
+hip width	محيط الخصر
+hip-hop look	طراز الهيب هوب
+hip-hugging tunnel waist skirt	تنورة ساحلة
+hip-length blouse	قميص نسائي طويل
+hipped roof	سقف مسنّم رباعي المنحدرات
+hippie look	طراز الهيبي
+hippie revival	عودة نمط الهيبي
+hipster flares	سروال صيفي
+hipster shorts / low rise shorts, low rise waist slip / low rise half-slip	تنورة ساحلة، سروال ساحل
+hiss	هسهسه ، ازيز / نفث - نفيخ
+histogram	مدرج تكراري
+histology	علم الأنسجة
+historic area	موقع تاريخي
+historic rights	حقوق تاريخية
+historical data	بيانات تاريخية
+historical production data	معلومات عن تاريخ الإنتاج
+history matched model	نموذج تاريخي للمضاهاة
+history of a well	تاريخ البئر، سجل البئر
+hit and run offense	جنحة الاعتداء (الهروب)
+hit band	نطاق الارتطام
+hit the silk	يتخلّى عن الطائرة
+hit-and miss ventilater	جهاز تهوية
+hitchhiker	مسافر سري
+hittile	قذيفة إصابة مباشرة
+hoarfrost, white frost	صَقِيع
+hobble skirt	تنورة هابل
+hod	حاوية
+Hoerner tip	طرف جناح هورنر
+hog	تقوُّس إلى الأعلى / مِضَخَّة / خنزيرة
+hog hair	شعر الخنزير
+hogging	تشغيل ثقيل
+hogging moment	عَزْم سالب
+hoghorn (antenna)	هوائي بوقي متحدب
+Hohmann	مدار هومان
+Hohner tip	طرف جناح هونر
+hoist truck	سيارة رافعة، سيارة برافعة
+hoisting block	بكّارة متحركة
+hoisting chamber	حُجْرة الرافعة
+hoisting devices	أجهزة الرفع
+hoisting drum	أسطوانة الكبْل، أسطوانة المِلْفاف، أسطوانة الرفع
+Hoisting machine	رافعة
+hoisting tackle	بكّارة الرفع، أجهزة الرفع
+hold	انتظار لحجز / انتظار / حفظ
+hold condition (of a monostable relay)	حالة القبض (لمرحل أحادي الإستقرارية )
+hold tag	بطاقة توقيف
+hold-down test; tiedown test	اختبار منصِّي
+hold-off interval	فترة حجز
+hold-up stockings / hold-ups	جوارب ذات تثبيت ذاتي
+hold; holding	إبقاء
+hold; shelf	مخزن
+hold; stopover	توقُّف
+holdback link	وصلة إبقاء
+holder of sawteeth	مسند أسنان المنشار
+holdfast; clamp screw	مربط لولبي
+holdig power	قوة المسك
+holding	قابضة / تثبيت ، ربط / حفظ في درجة حرارة
+holding area	منطقة انتظار / منطقة استحواذ
+holding bay	منطقة الانتظار
+holding brake	كابح تثبيت
+holding brake force	قوة تثبيت الكابح
+holding capacity	سعة الاحتواء
+holding current	تيار الايقاف
+holding element	عنصر حجز
+holding fiX	موقع إسناد الاستحواذ
+holding fixture	تثبيتة ربط
+holding flight path	صَفُّ الانتظار الجوي
+holding gun	قاذف قابض
+holding off	إمساك الحط / تأخير الحط
+holding pattern	درب الاستبقاء
+holding point	نقطة استحواذ
+holding pool	حَوْض الإمساك
+holding room	غرفة انتظار
+holding side	جانب الاستبقاء
+holding sidings	محطة تخزين
+holding tank	خَزّان النضج
+holding time	وقت الإشغال / فترة الحجزِ؛ زمن انتظار
+holding track	مسار المنع
+holding-down bolt	برغي تثبيت
+holding-up lever	رافعة دعم
+hole	ثقب
+hole bottom	قعر البئر
+hole caliper	مقياس القُطر
+hole conduction	توصيل بالدقائق الموجبة
+hole full of oil	حفرة مملوءة بالزيت
+hole full of water	حفرة مملوءة بالماء
+hole gauge	مقياس ثقوب
+hole opener	مُوسِّع البئر
+hole pegging	دسْر الثقوب
+hole saw	منشار الثقوب
+hole; void	فجوة
+holidays	أقسام عمل متروكة (أو مُهْمَلَة)
+holistic	تكاملي/ شامل
+holistic management	إدارة شاملة
+hollandite	هولاندايت
+hollow bit	مِثْقَب أجْوَف، مِدَقّ أجوف
+hollow blocks	كتل مجوفة، قوالب مفرغة
+hollow buttress	سِنادة (أو دعامة) تثبيت بجِدار مزدوِج
+hollow cathode	مهبط مجوف (مقعّر)
+hollow charge	حشوة مجوَّفة
+hollow compression cylinder	أسطوانة مجوفة قابلة للانضغاط
+hollow conductor	موصل أجوف / موصل اجوف / ناقل أجوف
+hollow core bit	مثقب عَيِّنَات أجوف، مِقْوَرَة جوفاء
+hollow dam	سد أجوف / سَدّ أجوف
+hollow drive shaft	عمود قيادة أجوف
+hollow fiber	ألياف مجوفة
+hollow fiber membranes	أغشية الألياف المجوفة
+hollow fibers	ألياف هوائية
+hollow fine fibers	ألياف مجوفة دقيقة
+hollow insulator	مسافة الزحف؛ مسار التسرب
+hollow jet valve	صِمام ذو نفث أجوف
+hollow light guide	موجه ضوء
+hollow partition	قاطوع مفرغ
+hollow punch	سنبك مُجوّف
+hollow screw (conveyor)	جلبة حلزونية مُجوّفة
+hollow sections	مَقَاطِع مفرغة
+hollow shaft motor drive	نقل حركة بمحرك ذى عمود مجوف
+hollow spinner	صُرَّة جوفاء
+hollow tile	بلاطة مفرغة / قرميدة جوفاء، آجرة جوفاء
+hollow wall	حائط مجوف، حائط مفرغ
+hollow weave	تراكيب نسجية مجوّفة
+hollow web	نسيج مُفرَّغ
+hollow-block floor	أرضية من الكتل المجوفة
+hollow-stem valve	صمام أجوف الجذع
+hollow-tile floor	أرضية مُفرَّغة
+hollow-web girder	جائز صندوقيّ
+Hollywood style	أسلوب هوليود
+holmquistite	هولمكويستايت
+holobenthic	حيوانات بحرية قاعية
+holocene	هولوسين
+holocene epoch	عَصْر حديث
+holocrystalline	كامل التبلور
+holograph	هولوجراف
+holographic film panel	لوح ذو رقاقة ثلاثية الأبعاد
+holographic television	تلفاز تصوير مجسّم
+holohyaline	زُجاجيّ بالكامل
+holonic manufacturing systems	أنظمة التصنيع الهولوني
+holosymmetric class	صنف كامل التماثل
+holotype	عينة نمطية
+homburg	قبعة هومبورغ
+Home Appliance Standards and Regulations	لوائح ومواصفات الأجهزة المنزلية
+Home Appliances	أجهزة منزلية
+Home Area Network	شبكة اتصالات منزلية (HAN)
+Home Charge Device	وحدة شحن منزلية (HCD)
+home delivery	تسليم بالمنزل
+home energy rating system (hers)	تقييم نظام الطاقة بالمنزل
+home environment	بيئة الإقامة
+home environment controller	متحكم فى بيئة الإقامة
+Home Location Register	سِجِلّ المَقَرِّ الأَصْلِيّ
+home location register; HLR (abbreviation)	مسجل بيانات المقيمين
+home page	الصفحة الرئيسية
+home position	وضعيّة المصدر
+home signal, main signal	إشارة رئيسية
+home textiles	منسوجات التأثيت
+home,	مكان الإقامة
+home-grown crop	محصول محلي
+home-spun cotton	مفرش منزلي
+home-spun linen	كتان منزليّ الصنع
+home; home-in; homing; radio guidance	توجيه لاسلكي
+homebuilt aircraft	طائرة تشييد منزلي
+homeoclimatic	تماثل مناخي
+homeostasis	استتباب
+HOMER	أداة HOMER
+homespun	غزل منزلي
+homing	توجيه مرجعي / رجوع الى المصدر
+homing beacon	منارة توجيه لاسلكي
+homing guidance	توجيه لاسلكي آلي
+homing on jamming	تشويش موجَّه
+homing receiver	مُستقبِل التوجيه اللاسلكي
+homodyne reception	استقبال بقوة متجانسة / استقبال متجانس التقارن
+homofocular headlamp [UK] / homofocal headlight [US]	كشّاف 'هوموفوكلار' (Homofocular)
+homogeneity factor	عامل التجانس
+homogeneous	متجانِس الخواص / متجانس
+homogeneous atmosphere	غلاف جوي متجانس
+homogeneous cladding	عازل متجانس بمعامل انكسار ثابت؛ غلاف متجانس
+homogeneous differential equation (Differentialgleichung(	معادلة تفاضلية متجانسة
+homogeneous multiplex	تضاعف متجانس
+homogeneous plane wave	موجة مستوية متجانسة
+homogeneous series (of fuse-links)	تسلسل متجانس
+homogeneous turbulence	اضطراب متجانس
+homogeneous, adj	متجانس
+homogenizer	مُجَانِسة (ال...)
+homojunction	وصلة متجانسة
+homokinetic joint	وصلة مفصلية كينيتية مُتجانسة
+homologous	متجانس
+homopause	ركود الجو المتجانس
+homopolar DC connection	وصلة نظام التيار المستمر متجانسة الأقطاب
+homopolar machine	آلة قطبية متجانسة / آلة وحيدة القطب
+homosphere	جو متجانس
+homozygote	زيجوت متجانس
+honan	هونان
+Honanin / imitation honan	هونانين
+honey-combing	تعشيش
+honeycomb	خلايا النحل / نُخْروب، منخرب / مُنْخَرَب، قرص العسل
+honeycomb tulle	تول خلايا النحل
+honeycomb wall	حائط نخروبي، حائط مخرّم
+hoocked joint	وصلة حابكة
+hood	قلنسوة (للسيدات) / غطاء
+hood light	ضوء (نور) تحت الغطاء (لاضاءة محرك السيارة)
+hood siphon; saddle siphon	سَحّارة بعتبة
+hood stretcher	نقالة غطاء محرك السيارة
+hoodie / hooded top	رداء مقلنس
+hook	كُلاّب / خطّاف
+hook bolt; hook nail	لولب خطّافي الشكل، مسمار خطّاف
+hook ladder	سُلَّم بخطاطيف
+hook link chain	سِلْسِلة بخُطَّاف
+hook load capacity	طاقة الحمل بالخُطَّاف (بالتعليق)
+hook nail	مسمار معقوف
+hook tool	أداة بخُطّاف
+hook vent	شق معقوف
+hook wall packer; casing packer	حشوة أنابيب تبطين
+Hook's law	قانون هوك
+hook-block	بكرة بخُطَّاف
+hook-block assembly	مجموعة بكرات بخُطَّاف
+hook-up; instrumentation hook-ups	تركيب الآلات، تركيب الأجهزة
+hook; lacing	ربْط
+Hooke's field	مجال هوك
+Hooke's law	قانون هوك / قانون هووك
+hookman	رجُل الخطّافات
+hooks	خُطَّافَات، كُلابات
+hoop (iron)	طوق
+hoop iron	حديد أطواق، شريط حديدي
+hoop iron band	آصرة أطواق حديدية
+hoop stress	إجهاد حَلْقيّ / إجهاد حَلَقي
+hooping	تطويق
+hoot-owl shift; grave yard shift	نوبة الليل (من منتصف الليل إلى 8 صباحا)
+hop	قفزة - وثبة / طيران قصير / قَفْز
+hopper	قُمع / قَادُوس
+hopper wagon	عَرَبَة قادوسية
+hopper window; fan window	نويفذة
+hopper-bottom tank	خَزّان قادوسيّ القاع
+hopping beam (in satellite communication)	حزمة وثب (الإتصالات بالقمر الصناعي)
+hoppus measure	قياس هوبس
+hopsack	نسيج سادة ممتد / حقيبة سكر
+horizon	أُفُق
+horizon bar	خط الأفق / شريط الأفق
+horizon line	خط الأفق
+horizon sensor	مُستشعر الأفق
+horizontal air handling unit	وحدة مناولة الهواء أفقية
+horizontal angle	زاوية أفقية
+horizontal axis	محور أفقي
+horizontal axis wind turbine	عنفة (تربينة) رياح افقية المحور
+horizontal centrifugal pump	مِضَخَّة نابذة أفقية (المروحة)
+horizontal circle	دائرة أفقية
+horizontal circular saw for fine work	منشار دائري أفقي
+horizontal configuration	شكل أفقي
+horizontal coordinates	إحداثيات أفقية
+horizontal curve	منحن أفقي (في تخطيط سطحي)
+horizontal disc sander	مصقل قرصي أفقي
+Horizontal discharge	تفريغ أفقي
+horizontal displacement	إزاحة أفقية
+horizontal distance	مسافة أفقية
+horizontal drainage blanket / pervious blanket / drainage filter	مُرشِّح صَرْف
+horizontal draught carburetor [UK] / horizontal draft carburetor [US]	المكربن الأفقي
+horizontal error	خطأ أفقي
+horizontal fault	صَدْع أفقي
+horizontal filter well	بئر أفقية بمُرشِّح
+horizontal furnace	فرن أفقي
+horizontal illuminance	الإستضاءة على سطح أفقى
+horizontal parallaX	اختلاف النظر الأفقي
+horizontal picture slip	انزلاق الصورة افقياً
+horizontal plane	سَطْح أفقيّ
+horizontal pleat / venetian pleat	طية أفقية
+horizontal polarization	إستقطاب أفقي
+horizontal project	مشروع أفقي الإدارة
+horizontal retort tar	قطران المعوجة الأفقية
+horizontal scanning	مَسْح أفقي
+horizontal sclicing	كشط أفقي
+horizontal situation indicator	مبيِّن الوضع الأفقي
+horizontal stripes	خطوط العرضية
+horizontal system load horizontal network load	حِمل أفقي على الشبكة
+horizontal table	طاولة افقية
+horizontal tabulation	جدولة أفقية
+horizontal tube evaporator	أنبوب مبخر أفقي
+horizontal tubular boiler	مِرْجَل أفقي الأنابيب
+horizontally opposed engine	محرك أفقي الأسطوانات
+hormone	هرمون
+horn	بوق / آلة تنبيه / منبّه، بوق
+horn (antenna)	هوائي البوق
+horn aerial	هوائي بوقي
+horn balance	موازِن قرني
+horn button	زر آلة التنبيه
+horn gap	ثغرة شرر قرنية
+horn loudspeaker	مكبر صوت بوقي
+horn plate	لوح آلة التنبيه
+horn reflector (antenna)	هوائي بعاكس بوقي
+horn ring	حلقة آلة التنبيه
+horn socket	أنبوب التقاط
+horn switch	مُفتاح آلة التنبيه
+horn,	بوق,
+hornback	جلد ظهر التمساح
+hornblende	هورنبلند
+hornfels	صخور مُتقرِّنة
+horns of a groove	قرون الأخدود
+Hornsby end sill	عتبة نهاية طراز 'هورنسبي'
+horse-felsh ore	خام نحاس مُبرقَش
+horse-shoe arch; moorish arch	قوس حافرية
+horse; trestle	مَنْصَبَة، منْصَب
+horsehair	شعر الحصان / ذيل الحصان
+horsehair yarn	شعر حصان مبروم
+horsehead	ثقل (ال...) الموازن لمضخة الانتاج
+horsepower	قدرة حصانية / قوة حِصَانِيَّة
+horsepower loading	تحميل القدرة الحصانية
+horseshoe	حدوة الفرس
+horseshoe bend / oxbow	مُنحنى حدوة الفرس
+horseshoe vorteX	دوّامة حَدَوية / دوّامة نضوية
+horsing-up	تشكيل، نمذجة
+horst	هورست / نتوء صخري
+horst faults	صدوع بارزة
+horticulture	بستنة
+hortonsphere	صهريج هورتن الكروي، خزان كروي مضغوط
+hortonspheroid	صهريج هورتن شبه الكروي، خزان شبه كروي مضغوط
+hose	خُرْطوم مرِن / خرطوم
+hose clamp	مشبك الخرطوم / قامطة الخرطوم / مِشْبَك الخرطوم، طوق إمساك الخرطوم
+hose clamp; clip	مِشْبك خراطيم
+hose clamp; clip; hose connector; hose nozzle; hose socket	مشبك خراطيم
+hose derrick	حاملة خراطيم
+hose drum rack	حامل بكرة الخرطوم، حامل أسطوانة الخرطوم
+hose fitting	وصلة تثبيت الخراطيم
+hose nipple	وصلة بنهاية خشنة للخراطيم
+hose nozzle	فوهة الخرطوم
+hose pinch-off pliers	زردية قمط
+hose pump	مضخة بخرطوم
+hose roll bellows	وسادة خرطومية دوارة
+hose spring	ياي خرطومي
+hose; flexible pipe	خُرْطُوم مَرِن
+hosiery	جوارب شفافة
+hosiery yarn	خيوط التريكو
+hospital ship	سفينة مستشفى
+host cell	خلية مضيفة
+host computer	حاسوب مضيف / حاسب حاشد / حاسب مضيف
+host computer; host	حاسوب مضيف؛ المضيف؛ الحاسب المضيف
+host mineral	معدن مُضيف
+host name	اسم المضيف
+host-plant	نبتة مضيفة
+hostile	مُعادٍ
+hostile track	مسار مُعادٍ / هدف عدواني طائر
+hot	حاد / حار / خَطِر / ساخن / عنيف
+hot air	هواء ساخن
+Hot air engine	محرك يعمل بالهواء الساخن
+hot air/ paper credit	هواء حار / صك ائتمان
+Hot Axle Box Detection	جِهازُ كَشْفِ حَرارَةِ صُنْدُوقِ مَحاوِرِ العَجَلاتِ
+Hot Axle Box Detector (HABD)	جِهازُ كَشْفِ المَحاوِرِ السَّاخِنَةِ
+hot bending, compressed air piping	حني أنبوب الهواء المضغوط على الساخن
+hot box	صندوق ساخن / الصندوق الساخن
+hot box detector	كاشف الصندوق الحار / جهازكشف حرارة الصندوق
+hot bucket	ريشة ساخنة / قادوس ساخن
+hot cathode	مهبط ساخن
+hot cathode (of an electron gun)	مهبط ساخن (للمدفع الإلكتروني)
+hot channel	سطح ساخن
+hot day	يوم حار
+hot dimpling	تخويش على الساخن
+hot dipping	غَطْس بالساخن، انغماس بالساخن
+hot dry rock (HDR) process	طريقة الصخور الجافة الساخنة
+Hot dry rock process	عملية الصخور الجافة الساخنة (HDRP)
+hot embossing	تبريز حراري
+hot embossing on foils	تبريز حراري على الرقائق
+hot end	طرف ساخن
+Hot Fluid Injection	حقن السوائل الساخنة / حقن موائع بالساخن، حقن موائع ساخنة
+hot footing	تركيب بالساخن
+hot fractured rock	صخور مُتهشمة ساخنة
+hot galvanizing	غَلْفَنة بالساخن
+hot gas system	نظام الغاز الساخن
+hot gas valve	صمّام الغاز الساخن
+hot glueing	تغرية حرارية
+hot head engine; hot plug engine	مُحَرِّك ديزل بمسمار تسخين
+hot idling valve	صمام لاحمل ساخن
+hot isostatic pressing	كبس ساخن متوازن التضاغط
+hot lime softening	تيسير جيريّ ساخن
+hot metal composing machine	صفافة حروف رصاصية
+hot mission	مهمة خطرة
+hot mix asphalt	أسفلت مخلوط على الساخن ( بالساخن)
+hot oil	نِفْط مُهرَّب
+Hot Oil Treatment	معالجة البئر بالزيت الساخن
+hot pass welding	لِحَام على الساخن
+hot plate	لوح تسخين
+hot platen	صفيحة التسخين
+hot plug engine; hot head engine (semi diesel)	مُحَرِّك (نصف ديزل) بمسمار تسخين
+hot press or warm-press	مكبس ساخن
+hot rock	صخر ساخن
+hot rocket	صاروخ ساخن / صاروخ مشتعل
+hot rolled steel	فولاذ مُصَفَّح على الساخن
+hot round	دورة ساخنة
+hot saw	منشار القطع على الساخن (بالساخن)
+hot section	قطّاع ساخن
+hot short; red-short	قَصِف بالساخن
+hot spark plug	شمعة الشرر 'الساخنة'
+hot spot	بقعة ساخنة / نقطة ساخنة / بقعة حارة
+hot spots	نقط ساخنة
+hot spraying	رش ساخن، ذرّ ساخن
+hot stand-by	احتياطي ساخن
+hot standby state	حالة التأهب كاحتياطي ساخن,
+hot start	البدء على الساخن / بدء ساخن
+hot start,	بدء تشغيل الخلية عند درجة حرارة التشغيل,
+hot start-up of a thermal generating set	بدء التشغيل على الساخن (الحار) لمجموعة توليد حرارية
+hot stick	قضيب عازل، قضيب عازل للحرارة
+hot stick compartment	مقصورة السائق
+hot stick working	العمل بإستخدام عصا معزولة
+hot streak	شريط ساخن
+hot strip	شريط ساخن
+hot summer continental climates (dfa, dwa, dsa)	مناخ قاري بصيف ساخن ( DFA، DWA، DSA)
+hot tap	وصلة ملحومة على أنبوب أو خزان شغال
+hot test	اختبار ساخن
+hot time	الفترة الزمنية التى يستنفذ فيها الوقود فى التشغيل العادى
+hot wall vacuum furnace	فرن تفريغ ذو حائط ساخن
+hot water	ماء ساخن
+hot water accumulator	خزّان المياه الساخنة
+hot water aquifer	طبقة حاملة للمياه الساخنة
+Hot water heat pump	مضخة الحرارة للماء الساخن
+hot working	تشغيل على الساخن
+hot-air chamber; drying- room	غرفة التجفيف
+hot-air heating	تدفئة بالهواء الساخن
+hot-cathode lamp	مصباح تفريغ ساخن المهبط
+hot-cathode stepping tube	صمام مهبط تدرجي ساخن
+hot-cathode tube	انبوب االمهبط (الكاثود) الساخن
+hot-dip galvanizatioon	طلاء بالغمس في الزنك
+hot-lay asphalt	أسفلت يُفْرَش ساخنا، أسفلت ممدود على الساخن
+hot-mix asphalt	أَسفَلت الخَلط السَّاخِن / أسفلت يخلط ساخنا، أسفلت مخلوط على الساخن
+hot-rolling	دلفنة على الساخن
+hot-stream nozzle	مِنفث الدفق الساخن
+hot-wire air flow sensor	مُقاومة ساخنة لحسّاس كتلة الهواء
+hot-wire ammeter	مقياس الأمبير ذو السلك الساخن
+hot-wire anemometer	مقياس سرعة ذو سلك ساخن
+hot-wire ignition	إشعال بالسلك الساخن
+hot-wire mass air sensor	مستشعر كتلة الهواء ذو السلك الساخن
+hot-wire transducer	محوِّل طاقة ذو سلك ساخن
+hot-wire voltmeter	مقياس جهد ذو سلك ساخن
+Hotchkiss axle	محور Hotchkiss
+hote wire instrument	جهاز تمدّدي
+hotpants / micro shorts	سروال قصير جدا
+hotspot (geology)	نقطة ساخنة (جيولوجيا)
+hotwell	مجمع السائل الساخن / نبع ساخن
+houndstooth / hounds tooth check / dogstooth	نبتة رجل الدجاجة
+houndstooth / houndstooth check / dogtooth	رجل الدجاجة
+hour angle	زاوية الساعة / زاوية مِيقاتِية
+hour circle	دائرة الساعة
+hourly [half-hourly] [quarter-hourly[ n-minute] etc. demand	طلب لمدة ساعة -نصف ساعة - ربع ساعة ....إلخ
+hourly traffic flow	رواج 'السَّاعَةِ 30'، سَيْر الحركة بالساعة
+hours of operation	ساعات العمل
+hours reserve	احتياطي دائم / احتياطيّ القدرة الساعاتيّ
+house aircraft	طائرة المقر
+house connection line	أُنْبوب صرف منزليّ
+house construction / building development / built-up area	مِنطَقة مُكتظَّة بالمباني
+house drainage; household drainage	صَرْف منزليّ
+house hole	جراب أنابيب الحفر المفردة (بالقرب من الرحى)
+house outlet	مَصْرِف منزليّ
+house station	محطة منزل
+house-keeping services	خدمات إدارة البيت
+houseboy services	خدمات تنظيف المنازل
+housecoat / dressing gown	مِبْذَل رجالي
+housed joint	وصلة مدمجة
+household	قاطنى مكان الاقامة / منزل
+household and sanitary paperes	ورق منزلي وصحي
+household connection	وُصلة منـزلية
+household customer	زبون منزلي
+household electricity prices in 2012	أسعار الكهرباء المنزلية في عام 2012
+household food security (hfs)	الأمن الغذائي للأسرة
+household hazardous waste element (hhwe)	عنصر النفايات المنزلية الخطرة
+household interview	اسْتِقْصَاءٌ أُسْرَوِيٌّ
+household lubricant	زيت تزييت منزلي
+household technology	تكنولوجيات مكان الإقامة
+household textiles	منسوجات منزلية
+household waste	فَضَلات منـزلية / نفايات منزلية
+household waste (domestic waste)	النفايات المنزلية (النفايات المنزلية)
+housekeeping or red tape instructions	تعقيدات إدارية نافلة
+housing	بيت الآلة / إسكان / بيت (العازل)
+housing association	جمعية إسكان
+housing block	مجموعة سكنية
+housing joint	وصلة الدمج
+Housing Program	برنامج الإسكان
+Houston Office	مكتب هيوستن
+Hout oil field	حقل الحوت
+hover	حَوَمان
+hovercraft	حَوَّامة
+hovering ceiling	ارتفاع الحومان الأقصى / سقف الحَوَمان
+hovering point	نقطة الحَوَمان
+Howe truss	جَمَلون هاو
+Howell-bunger valve	صِمام 'هاول بنجر'
+howgozit	رسم تخطيطي للرحلة
+howler	جهاز إنذار وتنبيه
+hp	حصان
+Hrones	هرونس
+HTHS	درجة حرارة عالية وقص عال
+HTHS viscosity	اللزوجة 'HTHS'
+Hub	مُوزِّع / محور / المفرع / صرّة / صُرَّة / قَبّ / صرّة، قُبّ / صُرّة
+hub (for wind turbines)	صرة عنفة (تربينة) الرياح
+hub (station)	منشب (موصل سلك كهربائى)(محطة)
+hub clutch plate	صُرّة قرص القابض
+hub drive	نقل الحركة بعمود / نقل الحركة قبِّياً
+hub flange	شفة الصُرّة
+hub height	ارتفاع صرة
+hub height,	إرتفاع المحور,
+hub profile clutch plate	شكل صفيحة القابض
+hub, freight distribution center, goods distribution center	مركز توزيع البضائع
+hub/tip ratio	نسبة الصُّرَّة إلى الطرف
+Hubertus coat	معطف هوبرتوس
+Hubertus shoulder	كتفية هوبرتوس
+Hubertus tails	بذلة هوبرتوس
+hubnerite	هيوبنرايت
+huckweave	نسيج فوط المطبخ
+HUD	عرض على الزجاج الأمامي (HUD)
+HUD CHP Screening Tool	أداة وزارة الإسكان والتنمية الحضرية الأمريكية (HUD) لتقييم التوليد المُشترك للحرارة والقُدرة (CHP)
+hue	تدرج اللون / احساس (ال...) بالون
+hue quadrature	مقياس تدرج الألوان
+huff and puff ' process'	أسلوب حقن بخار متقطع في مكمن
+Hufford press	مكبس هَفورد
+hulk	هُلك، سفينة ثقيلة
+hull	بَدَن السفينة / بَدَن
+hull insurance	تأمين على بدن السفينة / تأمين حالي
+hum	تموج / همهمه ،دندن / طنين
+hum (in telecommunications); supply noise	طنين (فى الاتصالات عن بعد)
+hum bars (on a picture)	قضبان طنين (على صورة )
+hum level	مستوى الطنين
+human activities	أنشطة إنسانية
+human bioeffluent	ملوثات حيوية بشرية
+Human Capability Development Program	برنامج تنمية القدرات البشرية
+Human Development Index	مؤشر/دليل التنمية البشريّة
+human development index (hdi)	مؤشر التنمية البشرية (HDI)
+human disturbance	اضطراب بسبب الإنسان
+human ecology	علم البيئة البشري
+human environment	بيئة بشرية
+human error	خطأ بشرى / الخطأ البشرى
+human factors	عوامل بشرية
+human hair	شعر الإنسان
+human independence	الإستقلالية البشرية
+Human Integrated Simulation	محاكاة متكاملة للإنسان
+human investment	استثمار بشري
+Human Machine Interface	واجِهَةُ المُسْتَخْدِم
+human poisoning	تسمم بشري
+human population	مُجَمَّع بشري
+human requierments	حاجات بشرية
+human resources	موارد بشرية
+Human Resources Studies	دائرة دراسات الموارد البشرية
+human settlements	مستوطنات بشرية
+human user	مستخدم بشري
+human well-being	رفاهية الإنسان
+human-machine interface	واجهة المستخدم-الآلة
+Human-Machine Interface for Mesh Solutions	واجِهَةُ الإِنْسانِ وَالآلَةِ لِلحُلُولِ المُتَشابِكَةِ
+humanization	تأنيس
+humic acid	حامض دباليّ / حمض الهيوميك
+humic matter	مواد هيومية
+humic substances	مركبات هيومية / مواد دبالية
+humid	رَطْب
+humid cell battery	بطارية الخلايا الرطبة
+humid climate	مناخ رطب
+humid room	غرفة رطبة
+humid subtropical climates (cfa, cwa)	مناخات شبه استوائية رطبة (CFA، CWA)
+humid tropics	مناطق مدارية رطبة
+humid zone	منطقة رطبة
+humidification	ترطيب
+humidification, solar	فكرة الصوبة الزجاجية
+humidification-dehumidification process (HDH)	عملية الترطيب و التجفيف
+humidifier	مرطب / مُرَطِّب
+Humidistat	مُتَحَكِّم في الرطوبة
+humidity	رطوبة
+humidity cabinet tests	اختبارات حجرة الرطوبة
+humidity content; moisture content	نسبة الرطوبة
+humidity miXing ratio	نسبة خلط الرطوبة
+humidity of wood	رطوبة الخشب
+humidity ratio	نسبة الرطوبة / درجة الرطوبة
+humidity, relative	رطوبة نسبية
+humification	تكوين دُباليّ / تَدْبِيل / تَدَبُّل
+Humine	هيومين (Humine)
+humins (pl.)	هُيُومِين
+humite	هيومايت
+hump	مرتَفَع / أكَمَة
+hump and switch signals	إشارات مناورات وتوقفات
+hump basin / hump stilling basin	حَوْض ذو حدبة
+hump locomotive	قاطرة المسار المحدب
+hump performance	أداء المرتَفَع
+hump rim	جنط ذو حدبة
+hump speed	سرعة سنامية
+hump yard	أَكَمَة
+hump yard [movement signal]	إشارة دفع عند الأَكَمَة
+hump yard; marshalling hump, gravity yard	نهاية الأَكَمَة
+humped road	طريق مُحَدَّب / طريق محدودب
+humping signal	اشارة التحديب
+Humus	دبال / دُبال
+humus content	محتوى من الدبال
+humus form	شكل دبال
+humus supply	إمدادات الدبال
+humus tank	‌صِهْريج الدُّبال بعد مُرشح النضّ / حوض ترسيب نهائي
+humus that lasts	دبال يدوم
+hundred percent aircraft	طائرة الأداء الكامل
+hundred years storm conditions	شروط العواصف المسجلة خلال 100 عام
+hung round	قذيفة معلَّقة
+hung start	بدء تشغيل معلَّق
+hunger	جوع
+hunter/killer unit	وحدة تعقُّب وتدمير
+hunters’ linen	كتّان للصيد
+hunting	قَنْص / تأرجح؛ إضطراب / تذبذب؛ تأرجح / تصيّد / تأرجح / حركة ثعبانية الإتزانية
+hunting datum	مَرْجِع إسناد هنتينغ
+hunting jacket	معطف الصيد
+hunting look	لباس القناص
+hunting of interconnected synchronous machines	التأرجح في الآلات المتزامنة المترابطة
+hunting reserve	مَحْمِي صيد
+hunting tooth	سِنّ مباعدة
+hunting trophy	كأس الصيد
+hunting; oscillation	تذبذب
+hunting; swing	شطط
+Hunza loden	جوخ هونزا
+hurdle rate	معدل داخلي لجدول الاستثمار
+hurricane	إعصار بالمحيط الأطلسي / إعصار
+hurricanes	إعصار/أعاصير
+hurry-up stick	قضيب التسريع
+Hurwitz- operation	طريقة هورفيتس
+Hurwitz-determinant	مُحدِّد هورفيتس
+hushkit	عُدّة تهدئة الضجيج
+Hussar fastening	إغلاق هوسار
+hut; shanty	كوخ
+HVAC	نظام تدفئة وتهوية وتكييف الهواء
+HVDC converter station	محطة تحويل تيار مستمر عالي الجهد
+hyaline	زجاجي
+hyalite	هيلايت
+hyalophane	هيالوفين
+hybrid	هجين / مُهَجن / مركبة هجينة
+hybrid and emergency application	تطبيق هجين وطوارىء
+hybrid bus	حافلة هجينة
+hybrid capacitor	مُكثِّف هجين
+hybrid circuit	دوائر كهربائية هجينة
+hybrid collector	جامع هجين
+hybrid composite material	مادة مركَّبة هجينية
+hybrid computer	حاسب مزاوَج / حاسب هجيني
+hybrid configuration (in telecontrol) ; composite configuration (in telecontrol)	تشكيل ربط شامل
+hybrid construction	تصميم هجيني
+hybrid differential pulse code modulation; HDPCM (abbreviation)	تعديل ترميز نبض تفاضلي مختلط
+hybrid drive	محرك هجين / نظام تحريك مختلط
+hybrid electric vehicle	مركبة كهربائية هجينة
+hybrid electronics	إلكترونيات مُزاوَجة / إلكترونيات هجينية
+hybrid element loading	تحميل عنصر هجين
+hybrid engine	محرك هجينة
+hybrid flight control system	نظام هجيني للتحكم في الطيران
+hybrid girder	عَارِضَة هَجِينَة
+hybrid hand tool	أداة يدوية عازلة بأطراف موصلة
+hybrid jointing	وصل هجيني
+hybrid junction	وصلة هجينة
+hybrid mixture	خليط هجين
+hybrid mode	صيغة هجينية؛ النمط الهجين
+hybrid mode (in a waveguide)	نمط هجين (في دليل موجة)
+hybrid mode dielectric resonator	رنان غير موصل ذو نمط مختلط
+hybrid mode horn	بوق نمطِ هجينِ
+hybrid package	مجموعة هجينية
+hybrid poplar	شجر الحور الهجين
+hybrid propulsion	دفع مزاوَج / دفع هجيني
+Hybrid reactor	مُفاعل هجين
+hybrid renewable energy system	نظام طاقة متجددة هجين
+hybrid ring; rat race	حلقة هجينة
+hybrid rocket	صاروخ مزاوَج / صاروخ هجيني
+hybrid solar array	صفيف شمسي هجيني
+hybrid solar system	نظام طاقة شمسية هجين
+hybrid spread spectrum modulation	تعديل انتشار الطيف الهجيني
+hybrid Synergy drive	دفع هجيني متكامل
+hybrid system	نظام هجيني / نظام هجين / نظام مُهَجَّن
+Hybrid System Fault	عطل في المنظومة الهجينة
+hybrid system operation costs	تكاليف تشغيل نظام هجين
+hybrid T; E-Н tee	وصلة هجينة T
+hybrid trajectory	مسار هجيني
+hybrid transformer	محلول فصل
+hybrid transformer; hybrid coil; induction coil	محول هجين / ملف حثِّ
+hybrid vehicle	مركبات هجينة / مركبة هجينة
+hybrid wave	موجة هجينية
+Hybrid Wind-Solar	طاقة هجينة من الشمس والرياح
+hybrid, adj	هجينى,
+HYBRID2	أداة HYBRID2
+hybridization	تهجين
+Hycatrol	هايكاترول
+hydractive suspension	نظام تعليق هيدرولي فعّال
+hydrant	صنبور مياه حريق
+hydrant dispenser	موزعّة الصنبور
+hydrant pit	بئر المحابس / حفرة الصنابير
+hydrant pumps	مضخات الجهاز الحابس
+hydrant system	شبكة أنابيب و صنابير (لاطفاء حريق أو لتموين طائرات)
+hydrate	هيدرات
+hydrate process	عملية تمييه
+hydrated clay	غُضار مُمَيَّه
+hydrated lime	كِلْس مُطْفأ، جير مطفأ
+hydration	إِمَاهة / إماهة / تميُّه / تمييه / إضافة الماء/إماهة
+hydration technology innovation’s HICOR hybrid	تكنولوجيا HiCor الهجينة المبتكرة لعملية الإماهة
+hydraulic	سائلي / هيدْرُولِيّات
+hydraulic architecture	الهندسة المائية
+hydraulic brake	فرملة هيدرولية
+Hydraulic Brake Control	نظام التحكم في الضغط الهيدروليكي
+hydraulic braker fluid	سائل المكابح الماهية
+hydraulic chute	منحذر هيدروليكي
+hydraulic clutch	قابض هيدرولي
+hydraulic clutch operation	تشغيل هيدروليكي للقابض
+hydraulic conductivity	ناقلية مائية / توصيل هيدروليكي
+hydraulic conveyance	نَقْل هيدروليّ
+hydraulic conveyor	ناقل هيدروليكي
+hydraulic data (pl.)	بيانات هيدرولية
+hydraulic drive train	نظام التحكم الهيدرولي في صندوق التروس
+hydraulic elements	عناصر هيدرولية
+hydraulic excavators	حَفَّارَة هيدرولية
+hydraulic fill	رَدْم (ال...) المائي
+hydraulic fill dam	سد ردم هيدرولي
+hydraulic flow	تدفق هيدروليكي
+hydraulic fluid	مائع هدرولي
+hydraulic fluids, pl	موائع هيدوليكية
+Hydraulic Fracturing	تكسير هايدروليكي / تشقق مائي
+hydraulic fracturing fracking	تكسير الهيدروليكي
+hydraulic gear	عُدَّة هيدروليكية
+hydraulic grade line	خَطّ الانحدار الهيدروليّ
+hydraulic grade line / saturation line / percolation line	خَطّ التشبُّع
+hydraulic gradient	مَيْل مائيّ / مَيْل هيدروليكيّ / تدرُّج هيدروليكيّ / ميل (ال...) المائي
+hydraulic gradient / water level gradient	مَيْل مائيّ
+hydraulic hammer	مطرقة هدرولية
+hydraulic head	تدفُّق مياه الصرف الصحي المسموح بها
+hydraulic head; hydrostatic head	ضغط ارتوازي، ضغط عمود المائع
+hydraulic hold down anchor	مرساة مدودية
+hydraulic incentives	مُشغِّلات هيدرولية
+hydraulic jack	مرفاع هدرولي
+hydraulic jump	قَفْزة مائية / قَفْزة هِيدْروُلية / قفزة مائية
+hydraulic jump basin / hydraulic jump dissipater	مُبَدِّد القفزة الهيدرولية
+hydraulic jump basin; hydraulic jump dissipater	حَوْض القْفزة الهِيْدروُلية
+hydraulic jump, restricted	قَفْزة هيدرولية غير مكتملة (محصورة)
+hydraulic lime	جِير هيدرولي
+hydraulic loading	حِمْل هيدروليكيّ
+hydraulic lock	عائق زيتي / عائق هيدرولي
+hydraulic mortar	ملاط هيدرولي، ملاط ماهي
+hydraulic motor	محرك زيتي / محرك هيدرولي
+hydraulic oil	زيت هدرولي
+hydraulic pipe bender	آلة هدرولية لثني الأنابيب
+hydraulic pipe conveyor	أنبوب الناقل الهيدروليكي
+hydraulic power unit	وحدة قدرة هيدرولية
+hydraulic pressure	ضغط هيدرولي
+hydraulic pulling tool	مرفاع هدرولي
+hydraulic pump	مضخة هيدروليكية
+hydraulic radius	نِصْف القُطر الهيدروليكيّ
+hydraulic ram	مِكْبَس هدرولي، مِطْرَقة هدرولية / كبّاس مائي / صادم هيدروليكي، ناطح هيدروليكي
+hydraulic rammer	مِدَكّ هدرولي، مِكْبَس هدرولي
+hydraulic rear gate	سِكْر هدرولي خلفي، صِمَام هدرولي خلفي
+hydraulic rear gate loader	منصة تحميل هدرولية في مؤخرة الشاحنة
+hydraulic residence time (HRT)	زمن المكوث الهيدروليكيّ
+hydraulic resistance	قوة السحب الهيدرولي
+hydraulic retention time	وقت الاحتفاظ الهيدروليكي
+hydraulic retention time (HRT)	زمن المكوث الهيدروليكي
+hydraulic steering (hydrosteering)	نظام توجيه هيدرولي (التوجيه الهيدرو)
+hydraulic stimulation	تحفيز هيدرولي
+hydraulic system	نظام زيتي / نظام هيدرولي
+hydraulic test principle	مبدأ الاختبار الهيدروليكي
+hydraulic transmission fluid	مائع هدرولي ناقل للحركة
+hydraulic unit	وحدة هيدروليكية
+hydraulic valve	مِصْراع هيدروليّ
+hydraulic valve / regulating valve	صِمام ضَبْط
+hydraulic valve clearance compensation	تعويض خلوص الصمام هيدرولياً
+hydraulic valve; regulating valve	صِمام هيدروليّ
+hydraulic valve; regulating valve; check valve	صِمام ضَبْط
+hydraulic wash	كَسْح هيدروليّ
+hydraulic wheel; water wheel	سانية
+hydraulically operated valve	صِمَام هدرولي
+hydraulically pressurized system	نِظام ضغْط مُشغَّل هيدرولياً
+hydraulicing	تصلُّب هيدرولي
+hydraulicpress	مكبس زيتي
+hydraulics	هيدروليك (ال...) / علم السوائل / علم الهيدروليات
+hydrazine	هيدرازاين
+hydric stress	إجهاد مائي
+hydro carbon	فحم هدروجيني، هدروكربون
+hydro desulphurization refining process, (H.D.R.S. process)	إجراء التكرير بنزع الكبريت بالهدروجين
+hydro installation valve	صِمام محطة طاقة كهرومائية
+hydro meteorological hazard	أخطار الطقس المائية
+hydro power	طاقة مائية
+Hydro- Desulphurization	نزع الكبريت المهدرج
+hydro-airlift process	طريقة الرفع الهوائي المائي
+hydro-carbonic trace	أثر هيدروكربوني
+hydro-electric plant	مَحطَّة كَهْرومائية / محطة توليد كهرمائية
+hydro-electric power plant	محطة كهرومائية
+hydro-electric power station	محطة توليد الكهرباء من مساقط المياه
+hydro-electro generating station	محطة توليد كهرمائية
+hydro-geothermal energy	طاقة حرارية أرضية بمياه جوفية حارة
+hydro-isobath / isobath of water table	خط تساوى منسوب المياه الجوفية
+hydro-isobath; isobath of water table	خُطوط تساوى منسوب المياه الجوفية
+hydro-isopleth map	خريطة تساوي منسوب سطح الماء الجوفية
+hydro-shock process	طريقة الصدمة الهوائية المائية
+hydrobiological equilibrium	توازن هيدروبيولوجي
+Hydrobiology	علم الأحياء المائية
+hydroblast	تنظيف بالسفع الهيدروليّ
+hydrobooster	معزِّز هيدرولي
+hydrocarbon	هيدروكربون / هيدروكربوني / هيدروكربون، مادة هيدروكربونية / هيدْرُوكَرْبُون
+hydrocarbon (HC)	الهيدروكربون
+hydrocarbon binder	رَفَّاضَة
+hydrocarbon concrete	الهيدروكربونات الخرسانة
+Hydrocarbon Fuel	وقود هيدروكربوني
+Hydrocarbon Reserves	احتياطيات هيدروكربونية
+hydrocarbon resource	مورد هيدروكربوني
+hydrocarbon resources	موارد هيدروكربونية
+hydrocarbon, polyaromatic	هِيْدروكَرْبُون عِطْريّ مُتعدد الحلقات
+hydrocarbons	هيدروكربورات / هيدروكربون
+hydrocarbons (HC)	مُركّب هيدروكربوني CH
+hydrochloric acid	حَمْض كلور الماء
+Hydrochloric acid-binding capacity	قدرات ربط حمض الهيدروكلوريك (SBV)
+hydrochlorofluorocarbon (hcfc)	هيدروكلوروفلوروكربون
+hydrocracked insulating oil	زيت عازل قابل للإنهيار المائى
+hydrocracker	تكسير هيدروجيني
+Hydrocracking	تكسير هيدروجيني / تكسير هدرجي / تكسير هيدروجينى
+hydrocracking unit	وحدة التكسير الهيدروجيني
+hydrocyclone	جهاز فصل إعصاري (جهاز لفصل الماء عن الحمأة) / فَرّازة دوامية مائية
+hydrodealkylation	نزع الألكة الهدرجي (بالحرارة أو وسيط كيميائي تحت ضغط الهدروجين)
+hydrodesulfurization	نزع الكبريت المهدرج
+hydrodynamic drive	نظام القيادة الهيدروديناميكية
+hydrodynamic lubrication	تزليق هيدرودينامي
+hydrodynamic plain bearing	محمل انزلاقي هيدرودينامي
+hydrodynamics	علم حركة السوائل / هدروديناميك (ال...)
+hydroelectric	كهرمائي
+hydroelectric installation	تركيبات كهرومائية
+hydroelectric plant	محطة توليد الطاقة الكهرمائية
+hydroelectric power	طاقة كهرمائية
+hydroelectric power house / power house building	مَحطَّة توليد القدرة (الطاقة) الكهْرومائية
+hydroelectric power plant	محطة طاقة كهرومائية
+hydroelectric power station	محطة توليد كهرومائية / محطة كهرومائية
+hydroelectric set	مجموعة كهرومائية
+hydroflap	دفّة مائية / قلاّبة مائية
+hydrofluoric acid	حَمْض الهيدروفلوريك
+hydrofluorocarbons (hfcs)	مركبات الكربون الفلورية
+hydrofoil	مركب زلاّق / منساب مائي
+hydroforming	تكرير هيدروجيني، إصلاح هدروجيني
+hydrogen	هيدروجين
+hydrogen bromide	بروميد الهيدروجين
+Hydrogen burning	حرق الهيدروجين
+hydrogen cavern	كهف هيدروجين
+Hydrogen Certification	شهادة اعتماد الهيدروجين
+hydrogen chloride	كلوريد الهيدروجين
+Hydrogen combustion engine	محرك باحتراق الهيدروجين
+Hydrogen Derivatives	مشتقات الهيدروجين
+hydrogen economy	اقتصاد هيدروجيني / اقتصاد الهيدروجين
+Hydrogen Energy	طاقة هيدروجينية
+hydrogen engine	محرك هيدروجين
+Hydrogen Flame Warning Symbol	رمز تحذير لهب الهيدروجين
+hydrogen fuel cell	خلية الوقود الهيدروجينية
+Hydrogen Fuel Supply	توفير الهيدروجين
+Hydrogen Fuel Tank	خزان الهيدروجين
+Hydrogen Gas Line Symbol	رمز خط غاز الهيدروجين
+hydrogen peroxide	فَوْق أُكسيد الهِيدروجِين / فوق أكسيد الهيدروجين، ماء أكسجيني / فوق أكسيد الهيدروجين
+hydrogen production unit	وحدة إنتاج الهيدروجين
+Hydrogen Refueling Station (HRS)	محطة التزود بالوقود الهيدروجيني
+hydrogen storage system	خزّان هيدروجين
+hydrogen sulfide	كبريتيد الهيدروجين
+Hydrogen Sulfide Gas	غاز كبريتيد الهيدروجين / غاز كبريتيد الهيدروجين، غاز كبريت الهيدروجين
+hydrogen sulphide	كبريتيد الهيدروجين
+hydrogen technology	تقانة الهيدروجين
+hydrogen treatment (of mineral oil feedstock)	معالجة هيدروجينية
+Hydrogen Vehicle	مركبة هيدروجينية
+hydrogenated amorphous silicon	سليكون مهدرج لابِلَّوْري
+hydrogenation	هدرجة
+hydrogeology	جُيُولوجيا (ال...) المائية / الجيولوجيا المائية / جيولوجية الماء / هيدروجيولوجيا / جُيُولوجيا المائية
+hydroglider	طائرة شراعية مائية
+hydrograph	رسم مائي / هيدروغراف
+hydrograph separation	تقسيم المخطط المائي
+hydrographic map	مَصْوَر للمياه
+hydrographical network	شبكة هيدروغرافية
+hydrography	علم الشبكات المائية
+hydrokinetics	علم السوائل المتحركة
+Hydrolift	مرفاع هيدرولي
+hydrolock	تشرُّب الماء / صدمة سائلية
+hydrologic	هيدرولوجي
+hydrologic cycle	الدورة المائية / دورة هيدرولوجية
+hydrologic cycle / water cycle	دَوْرة مائية
+hydrological drought	جفاف هيدرولوجي
+Hydrological engineering	هندسة هيدرولوجية
+hydrological equation	مُعادلَة مائية
+hydrological network	شبكة هيدرولوجية
+hydrological observation	رصد هيدرولوجي
+hydrological regime	نظام هيدرولوجي / نظام مائي
+hydrological service	هيئة الشؤون الهِيدْرولوجِية
+hydrological year	سنة هيدورلوجية
+hydrology	هِيْدرولوُجيا (ال...) / علم المياه / هيدرولوجيا / هيدرولوجيا (ال...)
+hydrolysis	تَمْييِه، حَلْمَأة / حَلْمَأَة / تحليل بالماء / تحلل مائي / حَلمَأة
+hydrolytic stability	إستقرار هيدروليكى
+Hydrolytic weathering	تجوية بتحلل مائي
+hydrolyzable chlorine (in askarels)	قابلية التحلل بالماء للكلور
+hydromagnesite	هايدروماغنيسايت
+hydromagnetics	علم مغناطيسية الموائع
+Hydromat	هيدرومات
+hydromatic brake	مِكْبَح هدرولي
+hydromechanical logic	منطق هيدروميكانيكي
+hydrometeor	ظواهر جوية مائية
+hydrometeorology	مِيتُورولُوجيا المياه
+hydrometeors	شهب مائية / ظواهر جوية مائية
+hydrometer	هيدروميتر / مكثاف / مكثاف السوائل / مسيل / مرطاب
+hydrometer (acidimeter)	هيدرومتر (مقياس درجة الحمضية)
+hydrometry	هِيدْرومَتْرِية (ال...)
+hydromorphological evaluation of waters	تقييم البنية المائية للمُسطحات المائية
+Hydronic system	نظام هيدرونيك
+hydrophilic	محب للمياه / أليف للماء / استرطابي
+hydrophilic characteristics	مميزات حُب الماء، مميزات الشغق بالماء
+hydrophilic graft of RO membranes	كسب محب للمياه لأغشية التناضح العكسي
+hydrophobic	كاره للماء / طارد للماء / نافر للماء
+hydrophobic / water-repellent	رافض للماء
+hydrophobic characteristics	مميزات الدفع للماء
+hydrophone	سماعة مائية
+hydrophyte	نَبات مائيّ
+hydrophyte (or aquatic plant)	ثبات مائي، نبات مائي
+hydrophyte / aquatic plant	نباتات مائية
+hydrophytes	نباتات مائية
+hydroplane	زورق سريع
+hydropneumatic braking systems	منظومات الفرامل الهيدروبنيوماتية
+hydropneumatic spring	ياي هيدروبنيوماتى
+hydropneumatic suspension	نظام تعليق هيدروبنيوماتي
+hydropneumatic water system	نظام مائيّ هوائيّ سائليّ
+hydroport	مطار طائرات البحرية
+Hydropower	طاقة كهرومائية / طاقة مائية
+hydropower generation	توليد الطاقة المائية
+hydropress	مكبس زيتي / مكبس هيدرولي
+hydroscopic water	ماء سطحي
+hydroskis	زلاّجات مائية
+hydrosphere	هِيْدرُوسفير / غلاف مائي / محيط مائي
+hydrostatic	علم سكون الموائع
+hydrostatic bearing	محمل زيتي / محمل هيدرولي
+hydrostatic drive	إدارة هيدرولية
+hydrostatic drive; oil drive	نقل الحركة بالزيت
+hydrostatic equation	معادلة السائل الساكن
+hydrostatic eXtrusion	بثق السائل الساكن
+hydrostatic force	قوة ضغط الماء
+hydrostatic fuze	فتيل السائل الساكن
+hydrostatic head	حمولة المائع الساكن
+hydrostatic hybrid drive	نظام الإدارة الهجين الهيدروستاتي
+hydrostatic lubrication	تزليق هيدروستاتي
+hydrostatic plain bearing	محمل انزلاقي هيدروستاتي
+hydrostatic pressure	ضَغْط هيدروستاتيكيّ / ضَغْط هيدروستاتي / ضغط هيدروستاتي / ضغط مائع ساكن
+hydrostatic test	اختبار هِيْدروستاتيّ / اختبار هيدروستاتيكيّ / اختبار بسائل ساكن / اختيار توازني سائلي
+hydrostatics	علم سكون السوائل
+hydrosteering	توجيه هيدرو
+hydrotest	اختبار هيدروليكيّ
+hydrothermal	حرمائي
+hydrothermal chemistry	كيمياء حرارية مائية
+hydrothermal crystal growth	نمو البلورات الحرارية المائية
+hydrothermal deposit	راسب حرمائي
+hydrothermal geothermal energy	طاقة حرارية أرضية مائية / طاقة جيوحرارية مائية
+hydrothermal high enthalpy deposit	رصيد هيدروحراري مرتفع المستوى الحراري
+hydrothermal low enthalpy deposit	رصيد هيدروحراري منخفض المستوى الحراري
+hydrothermal paragenesis	تكتُّل معدني حرمائي
+hydrothermal solution	محلول مائي حراري
+Hydrothermal System	نظام حراري مائي
+hydrothermal systems with high enthalpy	أنظمة مائية حرارية ذات إنثالبية عالية
+hydrothermal systems with low enthalpy	أنظمة مائية حرارية ذات إنثالبية منخفضة
+Hydrotreating	معالجة هيدروجينية / إزالة الكبريت بالهدروجين
+hydrous borate	بورات مائية
+hydrous sulfate	كبريتات مائية
+hydroxide ion	أيون هيدروكسيد
+hydroxyl radical	جدر الهيدروكسيل
+hydrozincite	هايدروزنكايت
+Hydrus	نظام اتصال ثعبان البحر
+Hydyne	هايداين
+hyetal coefficient / pluviometric coefficient	مُعامِل التساقط
+hyetograph	مسجل المطر / راسم المطر
+Hyfil	هايفِل
+hygiene	نظافة
+hygienic	صِحيّ
+hygienic property	خواص صحية
+hygrograph	راسم الرطوبة النسبية
+hygrometer	مقياس الرطوبة الجوية / مرطاب
+hygrometer; moisture meter	مقياس الرطوبة
+hygrometry	قياس الرطوبة
+hygrophytic	نباتات مستنقعات
+hygroscope	منظار الرطوبة
+hygroscopic	هِيجْروسكوبيّ / مسترطب
+hygroscopic (al)	مسترطب
+hygroscopic / hydrophilic	شَرِه للماء
+hygroscopic balance of timber	توازن استرطابي للخشب
+hygroscopicity	قُدرة امتصاص الماء / ساحِج / استرطاب / استرطابية
+hygroscopy effects on the wood	تأثير الاسترطابية في الخشب
+Hylite	هايلايت
+hypabyssal mineralogy	علم المعادن تحت السطحية
+hypabyssal rocks	صخور الأغوار
+hypalon	هيبالون
+hyper jet charge	شِحنة فوق جوفاء، شِحنة نافثة قوية
+hyper tape	شريط ممغنط عريض
+hyperabrupt	مفرط السرعة / مفرط الفُجاءة
+hyperaccumulator	مراكم مفرط
+hyperacoustic zone	منطقة فرط سمعية
+hyperbaric	منطقة فرط ضغطية
+hyperbola	قطع زائد
+hyperbolic cooling tower	برج تبريد زائدي المقطع
+hyperbolic frequencies	ترددات زائدية
+hyperbolic navaids	مساعِدات ملاحية زائدية
+hyperbolic radionavigation	ملاحة راديوية زائدية
+hyperbolic re-entry	رجعة زائدية / عودة زائدية
+hyperbolic speed	سرعة زائدية
+hypercar	سيارة مفرطة (الجودة البيئية)
+hyperfiltration	الترشيح المفرط / ترشيح فائق
+hyperfine level	مستوى طاقة فائق الدقة
+hypergolic	تلقائي الاشتعال
+hyperisolation	عزل فائق
+hyperlink	رابط تشعبي / رابط متصل
+hypermedia, adj	بيانات الوسائط المتصلة, صفة
+hypersonic flow	جريان فرط صوتي
+hypersonic glider	طائرة شراعية فرط صوتية
+hypersonic speed	سرعة فوق صوتية
+hypersonic; hypersonics	فرط صوتي
+hypersthene	هايبرسثين
+hypertension	ارتفاع ضغط الدم
+Hypertext	نص تشعبي / نص مرمز
+Hypertext marker/tag/symbol/	رمز النص التشعبي
+Hypertext Markup Language	لغة ترميز النص الفائق (HTML)
+hypertext node	عقدة نص تشعبي
+Hypertext Transfer Protocol	بروتوكول نقل النص الفائق (HTTP) / بروتوكول نَقَلِ النُّصُوصِ التَّشَعُّبِيَّةِ
+hypervelocity	فرط السرعة
+hyperventilation	تنفس فرطي
+hyphen	شرطة واصلة
+hypidiomorphic crystals	بلورات غير مكتملة
+hypobaric; low	منطقة ضغط منخفض
+hypocapnia	نقص الكربون
+hypocenter	نقطة انطلاق الزلزال
+Hypochlorite	هيبوكلوريت
+hypocrystalline	جُزئيّ التبلوُّر
+hypogene	جوفي المنشإ
+hypogene action	أفعال داخلية
+hypogene processes	إجراءات داخلية، عمليات داخلية
+hypohyaline	نصف زجاجي
+hypoid	ذو محورين متعامدين متخالفين
+hypoid drive	وحدة تروس هيبودية
+hypoid lubricants	مُزَلِّقات التروس الهيبودية
+hypoid oil	زيت هيبودي
+hypolimnion	طَبقَة مائية عميقة
+hypothermal deposit	راسب حراري عالٍ
+hypothetical bias	تحيز افتراضي
+hypothetical reference connection (for telephony)	إتصال مرجعي إفتراضي (للمهاتفة)
+hypoventilation	هبوط التنفس
+hypoXaemia	حالة نقص الأكسجين
+hypoXia	نقص الأكسجين
+hypsometer	مقياس ارتفاع النطاق
+hypsometric tints	ألوان تضاريسية
+hysteresis	تخلّف / تخلفية / تَخلُّف / منحنى البطاء / تخلّفية
+hysteresis core constant	ثابت التخلفية لمادة
+hysteresis coupling	تقارن تخلفية مغناطيسية
+hysteresis curve	مُنحنى التخلّف
+hysteresis error	خطأ تخلّف
+hysteresis loop	حلقة تخلفية / أنشوطة التخلُّف / دورة البطاء المغنطيسي
+hysteresis loss	فقد التيارات الدوامية / فقد (ال…) بالبطاء المغنطيسي
+hysteresis material constant	منطقة رايليه
+hysteresis motor	محرك بتخلفية مغناطيسية
+hysteresis of two-point controller	تخلّف (ال...) في الضابط ثنائي النقاط
+hysterisis	التخلفية المغناطيسية

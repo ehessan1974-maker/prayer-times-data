@@ -1,0 +1,224 @@
+شؤون اجتماعية	social activities
+شؤون خارجية	foreign affairs
+شؤون داخلية	internal affairs
+شؤون دولية	international affairs
+شأن، مسألة	affair
+شاهد	Witness
+شاهد إثبات	prosecution witness
+شاهد عيان	eyewitness
+شاهد نفي	defence witness
+شبكات القيمة	Value Networks
+شبكات سريعة التشكل	Hastily Formed Networks
+شبكات عصبية	Neural Networks
+شبكة	Network
+شبكة داخلية	Intranet
+شبكة سلسلة التوريد	Supply Chain Network
+شبكة مادية	Physical Network
+شبه الجرم	quasi-tort
+شبه العقد، عقد تحكميّ	quasi-contract
+شبهة	Suspicion
+شجرة القرار	Decision Tree
+شحْن، نَقْل	freight
+شحنة	Shipment
+شَخْص	person
+شخص اعتباري	Legal Person
+شخص طبيعي	Natural Person
+شخص طبيعيّ، شخص ذاتيّ	natural person
+شخص معنويّ، شخص اعتباريّ	moral person
+شخص موقوف	arrested person
+شخصية	Personality
+شخصية القوانين	personality of laws
+شخصية قانونية	legal personality
+شراء	Buy In / purchase
+شراء آجل	Forward Buying
+شراء الإدارة	Management Buy-In (MBI)
+شراء الفوري	Spot Buying
+شراء إلكتروني	E-Requisitioning
+شراء المصدر الوحيد	Sole-Source Procurement
+شراء جديد	New Buy
+شراء جديدة	New Purchase
+شراء خارج العقد	Buying Off-Contract
+شراء للدفع	Purchase To Pay (P2P)
+شراء مباشر	Direct Procurement
+شراء مخصص	Ad-Hoc Purchase
+شراء مستقل	Independent Procurement
+شراكات بين القطاعين العام والخاص	Public–Private Partnerships (Ppps)
+شراكة	Partnership
+شراكة استراتيجية	Strategic Partnership
+شراكة القطاعين العام والخاص	Public And Private Sector Partnership (PPP أو P3)
+شراكة بين القطاعين العام والخاص	public-private partnership
+شَرْح القوانين، تفسير القوانين	annotation of laws
+شَرْح، تفسير	annotation / exegesis
+شَرْط	Condition / condition
+شرط 'الفوب'، خالص إلى السفينة	free on board (F.O.B)
+شرط 'فاس'	free alongside ship (F.A.S)
+شرط إردايّ	potestative condition
+شرط استثناء العقد	Force Master
+شرط إسناد الاختصاص	clause of attributing competence
+شرط الاحتفاظ بالملكية	property reserve clause
+شرط الاستثناء	Exception Condition
+شرط الأسد	leonine clause
+شرط الإعفاء	exoneration clause
+شرط الإعفاء من ضمان الأضرار	clause (free of damages ..)
+شَرْط الاقتصار	exclusivity clause
+شرط البيع بدون إجراءات	without judicial clause; without proceeding clause
+شرط الدولة الأكثر رعاية	most favoured nation clause
+شَرْط الذهب	gold clause
+شرط الرجوع بلا مصروفات	without expenses clause
+شرط السُّلَّم المتحرك	escalator clause
+شَرْط الضمان	guarantee clause
+شرط العزوبة	clause of celibacy
+شرط المعاملة بالمثل	clause of reciprocity
+شرط المنع من التصرف	clause of inalienability
+شرط باطل	Invalid Condition
+شرط تحكيميّ، شرط التحكيم	arbitration clause
+شرط ترتيب الأسبقية	Order Of Precedence Clause
+شرط تعسفي	Arbitrary Condition
+شرط جزائيّ	Penalty Clause / penalty clause
+شرط صريح	explicit clause
+شرط عدم الضمان	clause of non-guarantee
+شرط عدم المسؤولية	clause of non-responsibility; clause of non-liability
+شَرْط عدم المنافسة	non-competition clause
+شرط عدم تغير الظروف أو الأوضاع	clausula rebus sic stantibus
+شرط غير مألوف	exorbitant clause
+شرط غير مشروع، شرط غير جائز	illicit condition
+شرط فاسخ	Resolutory Condition / condition of avoidance / resolutary condition; avoidance clause
+شرط مألوف، شرط متداوَل	formal clause
+شرط محدد للمسؤولية	limiting responsibility clause
+شرط مزدوج	mixed condition
+شرط مُعلِّق، شرط مُوقِّف	suspensive condition
+شرط معياري	Boilerplate Clause
+شرط مماثلة الأجانب بالوطنيين	national treatment clause
+شرط واقف	Suspensive Condition
+شرطة إدارية	administrative police
+شرطة المرور، شرطة السير	traffic police
+شرطة جنائية	criminal police
+شرطة عسكرية، شرطة الجيش	military police
+شرطة قضائية، ضبطية قضائية	judicial police
+شرطة، قوى الأمن	police
+شرعية	legality
+شركات الأسهم الخاصة	Private Equity Firms
+شركات تجارية	Commercial Corporations
+شركات مالية	financial corporations
+شركات مبتدئة	Start-Up Companies
+شركات مختلطة	Hybrid
+شركة	company; corporation
+شركة ائتمانية	trust company
+شركة استثمار	investment company
+شركة أشخاص	persons company
+شركة الشخص الواحد	one-man company
+شركة أمّ، شركة رئيسة	parent company
+شركة أموال	capitals company
+شركة تابعة، فرع شركة	subsidiary company; subcompany
+شركة تأمين	insurance company
+شركة تجارية	commercial company
+شركة تضامن	partnership
+شركة توصية بالأسهم	limited partnership by shares
+شركة توصية بسيطة	limited partnership
+شركة جماعية	collective company
+شركة خاصة	Private Company
+شركة ذات رأس مال متغير	variable capital company; company with variable capital
+شركة ذات مسؤولية محدودة	limited liability company / private company
+شركة شل	Shell Company
+شركة عامة	Public Company
+شركة عامة محدودة	Public Limited Company (Plc)
+شركة عقارية	real estate company
+شركة فرعية /	Subsidiary
+شركة فعلية	factual company
+شركة في طور التصفية	company in liquidation
+شركة قرض، شركة تسليف	loan company
+شركة متعددة الجنسيات	Multi-National Company (MNC) / multinational company
+شركة محاصة	joint enterprise / partnership association
+شركة مختلطة، شركة اقتصاد مختلط	mixed company
+شركة مدنية	civil company
+شركة مساهمة	joint-stock company
+شركة مستهدفة	Target Company
+شركة مصنعة للمعدات الأصلية	Original Equipment Manufacturer(OEM)
+شركة ملاحة بحرية	shipping company
+شركة نقل	transport company; carrying company
+شركة وطنية	national company
+شركة وهمية	bogus company
+شروط	Conditions
+شروط الائتمان	Credit Terms
+شروط الألم / الكسب	Pain/Gain Clauses
+شروط البيع الواسطة	Incoterms
+شروط التجديد التلقائي	Auto-Renewal Clauses
+شروط الشغل، شروط العمل	employment conditions
+شروط العقد	Contract Terms
+شروط الفسخ	Termination Clauses
+شروط بسيطة	Simple Conditions
+شروط صريحة (واضحة)	Express Terms
+شروط وأحكام	Standard Term Contract
+شروط وأحكام قياسية	Standard Terms And Conditions
+شريك	partner
+شريك على الشيوع	partner in joint property
+شريك في الالتزام	joint debtor
+شريك في الجريمة	Accomplice
+شريك متضامن	active partner / interdependent partner
+شريك مُوصٍ	sleeping partner
+شَطْب	erasure
+شطب / شطب	Written Off / To Write-Off
+شطب العلامة	Trademark cancellation
+شطب تسجيل علامة	Cancel a trademark
+شطب تسمية الصنف	Cancel denomination
+شطط في استعمال السلطة، تجاوز السلطة	action ultra vires
+شغل إجباريّ، عمل إجباريّ	compulsory labour
+شغور التركة، شغار التركة	unclaimed inheritance; default of heirs
+شفافية	Transparency
+شفافية سلسلة التوريد	Supply Chain Transparency
+شُفعة	preemption
+شكٌّ، ارتياب	doubt
+شَكْل	form
+شكلي	Formalities
+شكليات	formalities
+شكلية	formalism
+شكوى	Complaint
+شكوى، شكاية	complaint
+شهادة	Testimony / certificate
+شهادة إثبات القانون الأجنبيّ	certificate of foreign law
+شهادة أداء الأجر	wage sheet
+شهادة استثمار	investment certificate
+شهادة الإقامة، بطاقة إقامة	residence certificate; residence card
+شهادة الآيزو	ISO
+شهادة التأمين	insurance certificate; insurance attestation
+شهادة التجنُّس	naturalization certificate
+شهادة الجنسية	nationality certificate
+شهادة الحالة المدنية	civil status certificate
+شهادة الحياة	life certificate
+شهادة الزُّور	Perjury / false witness; false testimony
+شهادة العوز	certificate of need
+شهادة المنشإ، شهادة المصدر	origin certificate
+شهادة الوفاة	death certificate
+شهادة إيداع	certificate of deposit
+شهادة بعدم الاحتجاج	certificate for non-protest claims
+شهادة تأمين على الحريق	fire insurance policy
+شهادة تسجيل حق مؤلف	Certificate of registration of copyright
+شهادة تصميم تخطيطي	Layout design certificate
+شهادة حسن السيرة	certificate of good character; certificate of good conduct
+شهادة زواج	marriage certificate
+شهادة زور	perjury
+شهادة سلبية	negative certificate
+شهادة طبية	medical certificate; health certificate
+شهادة عمل	employment certificate
+شهادة مِلكية	certificate of property
+شهادة ميلاد	birth certificate
+شهادة نموذج صناعي	industrial design certificate
+شهادة، إفادة	testimony
+شهادة، شاهِد	witness
+شهْر الإفلاس	decree of bankruptcy
+شهر عقاريّ	land registration
+شهْر، إعلان	publicity
+شهرة إلى قيمة (النوايا الطيبة)	Goodwill
+شهرة تجارية	goodwill
+شهريّ	monthly
+شيء (ال..) المعين بالذات	specific object
+شيخوخة	caducity
+شيك	Check
+شيك بإخطار، صكٌّ بإخطار	notified cheque
+شيك بدون مؤونة، صكٌّ بدون مؤونة	uncovered cheque; rubber cheque
+شيك على بياض، صَكٌّ على بياض	blank cheque
+شيك غير مؤدى، صكٌّ غير مؤدى	unpaid cheque
+شيك غير مسطَّر، صَكٌّ غير مسطَّر	open cheque
+شيك لم تؤد قيمته، صكٌّ لم تؤد قيمته	dishonoured cheque
+شيك لمسمى، صكٌّ لشخص مسمى	personal cheque
+شيك، صَكٌّ	cheque; check

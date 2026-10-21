@@ -1,0 +1,731 @@
+K	كيلو بايت / k / K
+K (potassium)	بو
+K truss	جَمالونُ «كي»
+k, K	ك
+K-band	نِطاقُ ك / نطاق -K
+k-capture	أَسْرُ ك
+k-corona	هالة -K
+K-degrees	دَرَجاتُ حَرارةٍ بِمقياس «كَلْڤن»
+K-electron	إلِكْترون ك
+K-Fold Cross-Validation	تحقق تقاطعي مُجَزَّأ
+k-matrix	مَصْفوفةُ-k
+K-Means (or K-Means Clustering)	تجميع بالمتوسط
+K-Medians (or K-Medians Clustering)	تجميع بالوسيط
+K-Modes (or K-Modes Clustering)	تجميع بالمنوال
+K-Nearest Neighbor (KNN)	خوارزمية أقرب الجيران
+K-shell	الغِلافُ الإلِكترونيُّ الأوَّل
+K-theory	النَّظَرِيَّةُ-K
+K-value	المُوَصِّليَّة الحَراريَّة (لِلمادَّة)
+K-wave	مَوجة «ك»
+Kac matrix	مَصْفوفةُ كاك
+kainite	قَيْنيت
+Kainozoic (or Cainozoic) era	الدَّهْرُ الحَديث، حُقْبُ الحَياة الحَديثة
+kainozoic era	حقب(ال...) الحديث / حقب(...) الحديث
+kainozoic group	مجموعة الحقب الحديث
+Kakeya problem	مَسْألةُ كاكِيا
+Kakeya, Soichi	سْواكي كاكِيا
+Kakutani fixed point theorem	مُبَرْهَنَةُ النُّقْطةِ الثَّابِتةِ لِكاكوتاني
+Kalanite	كَلانيت
+kaleidoscope	مِشْكَال
+kali	قِلْي، بُوتاس / قلب نباتي
+kalinite	كَلينيت
+kalium	بُوتاسيُوم، قالْيُوم
+kalmia	كلمية
+kalvin	كالفن
+kamacite	كاماسَيت
+kame	تَلْعَة، تَلٌّ رُكاميّ / كامٌ، أكمة توضعات جليدية / أكمة توضعات جليدية
+Kamikaze packet	حزمة انتحارية
+kampyle of Eudoxus	مُنْحَني يُدوكْسُس
+kangaroo	قنغر
+Kangaroo code	شفرة كنغرية
+kangaroo-bear	قنغر دبي
+kangaroo-rat	فأر قنغري
+Kanizsa triangle	مُثَلَّثُ كانيزا
+Kantorovich inequalities	مُتَبايِنَتا كانتوروفيتش
+kaolin(e) = china clay	كَاوْلين
+kaolin; china clay	كاولين
+kaolinite	كاولينيت
+kaolinization	كَوْلَنَة، تَغَضُّر / كَوْلَنَة / كولنة
+kaolinized	مُكَوْلَن / تحول إلى كاولين
+kaon	كاوُن
+Kaplan water turbine	عَنَفةُ «كاپلان»، تُوربين «كاپلان» المائيّ
+kapok	قابُوق، قُطْنٌ كاذِب
+kapok-tree	شجر القابوق
+Kapp line	خَطُّ «كاپ»
+kappa	كابا
+Kappa curve	مُنْحَني كابا
+Kaprekar number	عَدَدُ كابْريكار
+Kapteyn series	مُتَسَلْسِلةُ كابْتين
+kaput	مُعَطَّل؛ مُدَمَّر تَمامًا
+kar	باحة، حلبة الجليديات / باحة
+karabitumen	كيروجين
+karat	قيراط
+karat = carat	قيراط
+karatas	قراطة
+Karman's constant	ثابِثةُ كارْمان
+Karmarker algorithm	خُوارِزْمِيَّةُ كارْمارْكَر
+Karmarker method	طَريقةُ كارْمارْكَر
+karren	حُزوزٌ مَحلولية
+karri	كاري
+karst	كَارْست / كارست / تكهف
+karstenite	كارستينيت
+karstic	كارستي
+karton	راسخ
+Karush-Kuhn-Tucker conditions	شُروطُ كاروش-كوهْن-توكِر
+kary-, karyo-	بادِئة بِمَعْنى: نَواة
+karyochylema	جبلة نووية
+karyogamy	اندغام نوويّ
+karyogen	مُولِّد النوى
+karyogenesis	تولُّد النوى
+karyokinesis	انقسام خيطي / انقسام النواة
+karyokinesis = mitosis	اِنقِسامُ نَواةِ الخَليَّة غيرُ المُباشِر، اِنقِسامٌ فَتِيليّ
+karyoklasis	تفتت النواة
+karyolobism	تفَصُّص النواة
+karyolysis	اِنحِلالُ نَواةِ الخَليَّة / تحلل النواة / انحلال النواة
+karyomegaly	ضخامة النواة
+karyomere	قُسيم صبغيّ، قُسيم نوويّ
+karyometry	قياس النواة
+karyomicrosome	جُسيم صغريّ نوويّ
+karyomit	خيط نوويّ
+karyomitosis	انقسام النواة خيطيا
+karyomorphism	شكلية النواة
+karyon = nucleus	نَوَاة
+karyonide	نسيلة نووية
+karyophage	عاثية النواة
+karyoplast	صانعة النواة
+karyoplastine; parachromatin	نظير الكروماتين
+karyoposis	اتحاد النوى
+karyopycnosis	تغلُّظ نوويّ
+karyoreticulum	شبكة نووية
+karyorrhexis	تمزق النواة
+karyosome	جسم نووي
+karyostasis	ركود نوويّ
+karyota	خلايا ذات نواة
+karyotheca	غشاء النواة
+karyotin; chromatin	كروماتين
+karyotype	نَمَطٌ صِبْغيّ خَلَويّ / طراز نوويّ، نمط نوويّ
+karyozome	مُستوطِن النواة
+kascade (or cascade) contactor	مُلامِسٌ تَعاقُبيّ
+kascade plates	صَفائحُ تَعَاقُبِيَّة
+kata- = cata-	سابقة تَعني: تَحْتَ أو هابِط
+katabatic front	جبهة هابطة
+katabatic wind	رِيحٌ هابِطَة / رياح هابِطة
+katabolism	أيض هدمي
+katabolism = catabolism	تَقْويض، أَيْضٌ هَدْمي، اِنتِقاض، استِقلابٌ هَدميّ
+kataclastic (or cataclastic) structure	بِنْيَة تَهَشُّمِيَّة
+katafront	جَبْهة (هَوائيَّة) هابِطة
+katafront; catafront	جَبْهَةُ هُبُوط
+katagenesis	تَطَوُّر عَكسِيٌّ أو رَجْعِيّ، مَسْخ / تطور تقهقري
+katalysis = catalysis	حَفْز
+katamorphic zone	نطاق الصُّخور المُعَرَّاة (كيماويًّا أو ميكانيكيًّا)
+katamorphism	تَحَوُّلٌ هَدّام، تحوُّل انحلالي
+katapositive	إيجابيَّةٌ كَمِدة
+katathermometer	مِحْرارٌ هابِطيّ / مقياس الحرارة الضائعة
+Katetove’s interpolation theorem	مُبَرْهَنةُ الاسْتِكْمالِ الداخِلِيِّ لِكاتيتوڤ
+katharometer	كاثارومِتر
+kathion = kation	كاتيُون
+kathode = cathode	كاثُود، مَهْبِط، قُطْبٌ سالِب
+kathode rays	أَشِعَّةُ المَهْبِط أو الكاثُود
+katytid	جراد أخضر، نطاط الكاتيد
+kauri gum	صَمْغ الكاورِي / صمغ الكاري
+kayak	كياك
+kayser	كايزر
+KB	كيلو بايت
+Kb; kilobase	كيلوباز
+Kbit	كيلو بت
+Kbit/S (Kbit/S or Kbps)	كيلوبايت في الثانية
+kbp; kilobase pair	كيلوباز زوجيّ
+Kbps	كيلو بت في الثانية
+Kbyte	كيلو بايت
+kc	كيلو دورة
+kd; kilodalton	كليودالتون
+KDE	كيدي
+kedge	مِرساةٌ صَغيرة، مِرساةُ جَرْجَرة؛ جَرْجَرَ / نقل بالجر، مخطاف الجر
+kedge anchor	مخطاف نقالي
+kedge anchor = kedger	مِرْساةُ (أو خُطّاف) جَرْجَرة
+keel	رافِدَةُ القَصّ، صالِبُ القاعِدَة، أرِينَة، هِراب؛ قَلَبَ أو اِنقلَبَ رأسًا على عَقِب / أرينة، رافدة
+keel block	سندات الأرينة
+keel boat	قارب مسطح القاع
+keel bolt	مسمار الأرينة
+keel line	خط الأرينة
+keel plate	لوح الأرينة
+keel surface	سَطْحُ الصّالِب
+keelage	رَسْمُ الرُّسُوّ؛ حَقُّ استيفاءِ رُسُومِ الرُّسوّ في مِيناء
+keelson	رافِدَة طُولانيَّة (في قَعْر السفينة)، صالِبٌ إضافي / أرينة ثانوية
+keelson plate	لوح الأرينة الثانوية
+keen	ثاقِب، حاذِق؛ حادّ، ماضٍ، مَسْنُون؛ مُجِدّ، جَادّ
+keen-edged tool	أداةٌ شَحيذَةُ الحَدّ
+Keene’s cement	مِلاطُ «كِيني»
+keep	حَفِظَ، اِحتَفَظ (بِـ)؛ داوَمَ؛ صانَ / ترك
+keep (to) aloof	ظل مبتعدا (في عرض البحر)
+keep (to) channel	أبحر في القناة (الممر)
+keep (to) close to the shore	بقي قريبا من الشاطئ
+keep (to) out of the way	ابتعد عن الطريق، ترك الأسبقية
+keep (to) sea (or the seas)	بقي مبحرا
+keep (to) the chart up-to date	احتفظ بالخريطة مصححة
+keep (to) the watch	قام بالمناوبة
+keep clear	لا تقترب، حافظ على المسافة
+keep course and speed	حافظ على خط السير والسرعة
+keep plate	لَوحةُ تَوجيهٍ مِحْوَرِي
+keep-alive arc	قَوسُ إبقاءِ التأَيُّن
+keep-alive circuit	دارةُ إبقاء التأَيُّن (في مُقَوِّمٍ زِئبقيّ قَوسيّ)
+keep-alive current	تيّارٌ مُداوَم
+keeper	حافِظ، حارِس، قَيِّم؛ حافِظَة، حافِظَة المِغْنَطيس؛ مُرَكَّبٌ حافِظ
+keeps	كتائِفُ دَعْم
+keg	بِرْميل خَشَبِي (سعَتُه 45 «وفي أمريكا 136» لِتْرًا)
+keg buoy	عامَةٌ بِرْميليَّة
+kei function	دالَّةُ كاي
+kell	زورق
+kelly (or kelly bar)	جذعُ التدوير
+kelly bushing	جُلْبَة جذع التدوير
+kelp	كِلْپ، عُشْبُ البَحر الأسمَر؛ رَمادُ عُشْب البَحر (يُستَخرَجُ مِنهُ اليُود)
+kelp-shore	الشاطِئُ المَغْمور
+kelson = keelson	رافِدَة طُولانيَّة (في قَعْر السفينة)
+kelt	أسماك سالمون فارغة من البيض
+kelvin	كَلْڤن / كلفن
+Kelvin balance	مِيزانُ «كَلْڤن»
+Kelvin bridge	قَنْطَرةُ «كَلْڤن»
+Kelvin compass = Thomson compass	بُوصَلَةُ «كَلْڤن»
+Kelvin differential equation	مُعادَلةُ كِلْفِن التَّفاضُلِيَّة
+Kelvin double bridge = double bridge	قَنْطَرةُ «كَلْڤن» المُزدَوِجَة
+kelvin effect	أثر كلفين
+Kelvin effect = Thomson effect	ظاهِرةُ «كَلْڤن»، ظاهِرةُ «طومسون»
+Kelvin electrometer = quadrant electrometer	إلِكترومِتر «كَلْڤن» الرُّبْعي
+Kelvin functions	دالَّتا كِلْفِن
+Kelvin scale (or Kelvin’s absolute scale of temperature)	سُلَّمُ «كَلْڤن»، مِيزانُ «كَلْڤن» بالدرَجات المُطْلَقة (صِفْرُه يُساوي -273.15° سَنْتِغراد)
+Kelvin sounder	مِسْبارُ الأعماقِ ل «كَلْڤن»
+Kelvin temperature	درجة الحرارة الكَلْڤنيَّة
+Kelvin temperature scale	سُلُّمُ كِلْفِين لِلْحَرارة
+Kendall’s rank correlation coefficient	مُعامِلُ ارْتِباطِ الرُّتَب لِكانْدال
+Kendall’s tau	مِقْياسُ تاو لِكانْدال
+kennel coal	فَحْمٌ وَقّاد
+Kennelly-Heaviside layer	طَبَقة «كِنيلِّي وهيڤيسايد»
+kenotron	كِنُوترون
+kentledge	صابُورةُ تَثْقيل
+kenyte	كينايت
+Kepler’s folium	وُرَيْقةُ كِبلِر
+Kepler’s laws	قوانين «كِپْلَر»
+keps	دَعائِمُ مُعتَرِضة
+ker function	دالَّةُ كير
+keratin	قَرْنِين / كيراتين
+keratoid	قَرْناوِيّ / كيراتوئيد
+keratoid cusp	قُرْنةُ كيراتوئيد
+keratophyre	كيراتوفير
+keratosis	تَقْران
+kerb = curb = kirb	إفريز
+Kerberos	[ميفاق] Kerberos
+kerf	قَطْعُ المِنشار؛ ثَلْم، فُرْضَة، خَدْش؛ طَفْلٌ مُرَمَّد
+kerfed beam	عَتَبَةٌ مُنْثَلِمَة (لِسُهولَةِ الحِناية)
+kerfing	ثَلْمٌ لِتَسْهيل الحِناية
+keriotheca	غلاف مُشطي / طبقة كربالية مكونة من الأصداف
+kermes	قرمزية
+kermesite	قِرمَزيت
+Kermit	[ميفاق] Kermit
+kern	الجُزْءُ النّاتِئ مِن حَرْفٍ طِباعي / يحبك
+Kernal	النواة، اللّب
+kernel	نَواة؛ جَوهَرُ الذَّرَّة؛ لُبٌّ، بَرْنَامَجٌ نَواتيّ / نَواة / نواة
+Kernel Function	دالة النواة
+kernel of a bilinear form	نواة شكل ثنائي الخطّيّة
+Kernel panic	إرتياع، ذعر
+Kernel Support Vector Machine (KSVM)	آلة المُتَّجهات الداعمة باستخدام النواة
+Kernel Trick	حيلة النواة
+Kerning	تأليف (الأحرف)
+kernite	كِرنيت
+kerogen	كِيروجِن
+kerosene shale	طَفْلٌ زَيْتيّ؛ شِسْتٌ حُمَريّ أو قِيريّ
+kerosine = kerosene = paraffin (or lamp) oil	كِيروسين، كاز، زَيتُ البَرافين
+Kerr effect	ظَاهِرةُ «كير»؛ ظاهِرة «كِير»
+kerria	كرية يابانية
+kerving	قَطْعٌ جانِبيّ
+ketene	كيتين
+ketone	كِيتُون
+ketone forms of nucleotides	أشكال كيتونية للنكليوتيدات
+ketons	كيتونات
+ketose	كِيتُوز
+kettle	غَلاّيَة؛ قِدْر (تُصْهَرُ فيها بعضُ المعادِن ذاتُ دَرَجَاتِ الذَّوَبان المُنْخَفِضة)؛ وَقْبَة قِدْرِيَّة / حوض جليدي
+kettle hole	قِدْرَة جَليدِيَّة
+keV = kilo-electron-volt	ألفُ إلِكترون ڤلْط
+kevel	مِطْرَقَةُ النَّقّاش
+kew pattern barometer; compensated scale barometer	مِقياسُ الضَّغْطِ الجَوّيّ بِسُلّم مُعاوَض
+key	مِفتاح؛ خابُور، وَتَد؛ مِفتاح، مَلْمَس؛ مِفتاحُ الرُّموز، دَليلُ الحَلّ؛ تَخْشينةُ أساسٍ لِلتَّمْليط؛ جَوهَريّ، رَئيسيّ، مُهِمّ؛ وَصَّلَ؛ ثَبَّتَ؛ أَغَلَقَ أَو عَدَّلَ بالمَلْمَس / 1 مفتاح ؛ 2 مفتاح ؛ 3 مفتاح ؛ 4 مفتاح / مِفْتَاح
+Key (Button)	زر
+key (card) punch	ثَقّابةُ بِطاقات
+Key (Lock)	مفتاح
+key bed	مَجْرَى الخابُور؛ طَبَقةٌ مُرشِدة أو دليليَّة / طبقة دَالَّة / طبقة دالة
+Key binding	ارتباط المفتاح
+key block = keystone	عِمادُ العَقْد، حَجَرُ واسِطةِ العَقْد
+key bolt	مِسمارٌ خابوريّ
+key boss	صُرَّة مَجْرَى الخابُور
+key chuck	ظَرْفٌ مِفتاحيّ
+key click	طَقطَقةُ المِفتاحِ أو المَلْمَس (عِندَ فَتْح الدارة أو إغلاقِهَا)
+key code	رمز مفتاح
+key drop	حَاجِبَةُ الوَصواص
+key escrow	صك المفتاح / مؤتمن المفتاح
+key extractor	نازع الخابور
+key field	حقل مفتاحي / حقل المفتاح
+key filter	مُرَشِّحُ طَقْطَقة المَلامس
+key fossil	أُحْفُورةٌ دليليَّة
+key fractions	الأجزاءُ (أو المُقتَطَعَات) الرَّئيسيَّة
+Key frame	الإطار الأساسي،الإطار الرئيسي
+key gauge	مُحدِّدُ قِياسِ الخابُور وَمَجْرَاه
+key in	يُدخِل
+key industries	صِناعاتٌ رَئيسيَّة
+key lock	رَتْجُ مَفَاتِيح
+key modulation	التَّضمينُ بمفتاحٍ
+key of a joint	دِسارُ الوُصلَة
+key photo-interpretation	مفتاح تفسير المرئيات
+key plan	خُطَّة رَئيسيَّة (بمقياسِ رَسْمٍ صَغير)
+key plate = escutcheon	لَوحةُ ثَقْب المِفتاح
+key point	نُقْطَةٌ حَيَويَّة
+key position	مَوْضِعٌ مُهِمٌّ أو اِستراتيجي
+key print	الطِّباعةُ الرئيسيَّة بالأسودِ والأبيض (إضافةً إلى الطباعةِ بالألوانِ الأوَّلِيَّة)
+key rack	لوحةُ المفاتيح
+key recovery	استعادة مفتاح
+key ring	حَلْقَةُ التَّثْبيت
+key rock	صَخْرٌ دَليلّي
+key rocks	صخور دَالَّة / صخور دالة
+key seating	مَقْعَدُ الخابور
+key sector	قِطاعٌ رئيسيّ
+key sort	فرز مفتاحي
+key sorting	فَرزٌ مفتاحي / فرز بالمفاتيح
+key speed	سُرعَةُ الإبراق / سرعة الإبراق
+Key stroke	ضغطة زر
+key switch	مِقلادٌ مِفتاحيّ؛ مِفتاحٌ مَلْمَسيّ؛ مِقلادٌ خابوريّ؛ مِفتاحٌ رئيسيّ (في الأُرغُن الكَهربائيّ)
+key well	بِئْرُ التَّغْذِيَة
+Key word	كلمة أساسية
+key wrench	ذِراعُ زَنْق الخابور
+key, code	مِفتاحُ الرُّموز
+key, cotter	خابورٌ مِسماريّ مَشقوق
+key, gib-headed	خابُورٌ بِذَقْن
+key, lever	مِفتاحٌ (يُشَغَّلُ) بِرافِعة
+key, listening	مِفتاحُ الإنصات
+key, locking	مِفتاحُ إقفالٍ غَيرُ مُرتَدّ
+key, master	مِفتاحٌ عُمومي
+key, monitoring	مِفتاحُ المُراقَبَة
+key, Morse	مِفتاحُ «مُورْس»
+key, non-locking	مِفتاحٌ غيرُ ماسِك، مِفتاحٌ مُرتَدّ
+key, plunger	مِفتاحٌ ذُو دَافِعة
+key, pulsing	مِفتاحُ النَّبْض
+key, saddle	خابُورٌ رَاكِب
+key, speaking	مِفتاحُ التحَدُّث
+key, sunk	خابُورٌ غَاطِس
+key, tangential	خابُورُ تَمَاسّ
+key, taper	خابُور مُستَدِقّ
+key-click filter	مُرَشِّحُ طَقْطَقةِ المَلامِس
+key-course	مِدْمَاكُ العَقْدِ الرئيسي
+Key-encrypting	التشفير بالمفاتيح
+key-feather	خابُورٌ غاطِس (يَسمَحُ بالحَركة الطُّولانيَّة)
+key-frame	إطار مفتاحي
+Key-logger	مُسجّل (برنامج تسجيل)
+key-seat	مَقْعَدُ الخابُور
+key-seating machine	مَكَنةُ تَفْرِيزِ مَقْعَدِ الخابُور
+Key-stroke Logger	برنامج تسجيل نقرات لوحة المفاتيح
+key-to-disc unit	وَحدةٌ مِفتاحيَّة قرصيَّة
+key-to-tape unit	وحدة مفتاحية شريطية
+Key-Value (KV) Cache	ذاكرة التخزين المؤقت للمفاتيح والقيم
+key-verify	تَحَقَّق من تثقيب البطاقة (باستخدام مُحقِّقة البطاقات المُثَقَّبة)
+keyage	عَوائِدُ أو رُسومُ رَصيفِ التَّحْميل
+Keybind	ارتباط المفتاح
+keyboard	لَوحةُ المَفاتيح، لَوحةُ المَلامِس؛ نَضَّدَ الأحرُف بالنَّقْرِ على مَفاتيحِ الآلة / لوحة مفاتيح / لَوْحَةُ مَفَاتِيح
+keyboard buffer	صِوان لوحة المفاتيح
+keyboard controller	متحكم لوحة المفاتيح
+keyboard enhancer	مُحسِّن لوحة المفاتيح
+Keyboard focus	بؤرة لوحة المفاتيح، تركيز لوحة المفاتيح
+keyboard layout	مخطط لوحة المفاتيح / تَمَوْضُع المَفَاتِيح فِي لَوْحَة المَفَاتِيح
+keyboard processor	معالج لوحة المفاتيح
+keyboard repeat	تكرار آلي [لعمل المفتاح]
+keyboard sender	مرسل ذو لوحة مفاتيح
+keyboard shortcut	مختصر مفتاحي / مِفْتَاح اخْتِصَار
+keyboard template	قالب للوحة المفاتيح
+keyboard transmitter	مُرسِلٌ ذُو لَوْحَةِ مَفاتيح
+keyboarding	إدخَال بِوَاسِطَة لَوْحَة الـْمَفَاتِيح
+keycap	غطاء المفتاح
+keyed	ذُو مَفاتيح؛ مُكَيَّفٌ وَفقًا لِشَيءٍ آخَر
+keyed access	نفاذ مفتاحي
+keyed joint	وُصلَةٌ بِخَابُور
+keyer	مُعَدِّلُ تَردُّدِ المُرْسِل
+keyholder	دَواةٌ مِقلادِيَّة
+keyhole	وَصْواص، ثَقْبُ المِفتاح
+keyhole saw	مِنْشارٌ مُستَدِقّ لِتَفريغِ الثُّقُوب، مِنشارُ ثَقْب المِفتاح
+keying	التَّوصيلُ بِخَابور؛ إبْراق؛ إغلاقٌ أو تَعدْيل بالمَلامِس / توصيل(ال..) بخابور
+keying filter	مُرَشِّح طقطقة المَلامِس
+keying speed	سُرعةُ الإبراق (بالكَلِمةِ في الدَّقيقة)
+keying wave = marking wave	مَوجَةُ إِرسالٍ لاسِلْكِي
+keying-in	تَوصيلُ مُلاءَمة
+Keymap control	تحكم خريطة مفتاح
+keynote	مَقامُ النَّغَم؛ فِكرةٌ أساسيَّة
+keypad	قُرصةُ مفاتيح
+Keypal	صديق مراسلة
+Keyphrase	عبارة رئيسية
+Keypoint	نقطة مهمة
+keypunch	مُثَقِّبة مَلامِسيَّة، مُثَقِّبٌ مفاتيحي / ثقابة بلوحة المفاتيح
+keys locking	إِزْلاجُ مَفَاتِيح
+keys, pneumatic	مَفاتيحُ نَفْحيَّة
+keyseat clamp	مَرْبِطُ مَقْعَدِ الخابور
+keyset	لَوْحَةُ مَفَاتِيح
+keyshelf	رَفُّ المَقْسِم اليدوي
+keystone	حَجَرُ واسِطَةِ العَقْد، عِمادُ العَقْد، مِفتاح العَقْد
+keystone distortion = keystoning	تَشَوُّهٌ شِبهُ مُنحَرِف
+keystroke	نَقْرةُ مِلْمَس / ضربة مفتاح / رَقْن / ضغطة زر
+keyway	مَجْرى الخابور
+keyway broaching fixture	تَثْبيتَةٌ لِتَخْلِيق مَجْرى الخابور
+keyway calipers	فِرجارُ ثِخَن مَجرَى الخابُور
+keyway cutter	مِقْطَعُ مَجْرى الخابور
+keyway seating machine	مَكَنَةُ تَفريزِ مَجرى الخابُور
+keyway tool (or cutter)	مِقْطَعُ مَجْرَى الخابُور
+keyword	كَلِمةٌ دَلِيليَّة، كلمة مِفتاحِيَّة / 1 كلمة مفتاحية ؛ 2 كلمة مفتاحية / كَلِمَةٌ مِفْتَاحٌ / كلمة مفتاحيَّة
+Keyword in context	كلمة مفتاحية فى السياق
+Keyword-Based Chatbot	بوت محادثة قائم على كلمات مفتاحية
+keyword-in-context	كلمة مفتاحية في السياق
+Keywords	كلمات مفتاحية
+khaki	قُماشٌ كاكِيّ؛ لَونٌ كَاكِي
+khamsin	رِياحُ الخَماسين
+Khintchine theorem	مُبَرْهَنةُ خينْتْشين
+Khintchine, Alexandr Jakobovitch	ألِكْسَنْدَر جاكوبوڤيتْشْ خينْتْشين
+Khornerstone	[مقياس أداء] Khornerstone
+kHz	كيلو هرتز
+kibble	قادُوس
+kibbler	كَسّارة، جَرَّاشَة
+kick	رَكْلة، رَفْسة، لَبْطة، اِرتِجاج؛ نَخْعَة اِرتِداديَّة؛ فَورة بئريَّة؛ رَكَلَ، رَفَسَ، لَبَط؛ دَفَعَ
+kick of relay	اِرتِدادُ لِسان المُرَحِّل
+kick rocket	صاروخٌ رَفّاس
+kick(er) plate	مِركَلة، مِصدّةُ رَكل
+kick(ing) plate	مِركَلة، صَفيحةُ الرَّكْل
+kick-back	اِرتِداد، دَفْعة عَكْسيَّة
+kick-out lever	ذِراعُ تَحريك (لِلتّعشيق أو لِفَصْلِه)
+kick-stage	مَرحلةُ الدفع الإضافي
+kick-up chassis	قاعِدة مَرفوعةُ المؤخَّرة
+kickdown	تَحويلُ خَفْض؛ عَتَلةُ خَفْضِ السُّرعة
+kid	عَضيد / جدي
+kidney	كُلْيَة أو كُلْوَة / كلية
+kidney duct	قناة الكلية
+kidney ore	رِكاز كُلْويّ (من الهيماتيت)
+kidney-bean	فاصوليا اسبانية
+kidney-vetch	نفل الرمال الأصفر
+kidneyore; kidney-ore	خام حديدي دوني
+kier	مِرْجَل (لِغَلْي الأقمِشة وتَبييضها)
+kieselguhr	تُرابٌ نُقاعِي (دَيَاتُومي)
+kieserite	قَيصِرَيت
+kieve = dolly tub	حَوضٌ خَشَبيٌّ لِغَسْلِ الخاماتِ
+kill	1 يوقف ؛ 2 يهلك / قتل
+Kill app	قتل برنامج
+killed lime	جِيرٌ مُطْفَأ
+killed spirits of salt	مَحلولُ حامِضِ الهَيْدرُوكلوريك المُخَمَّد (بإضافةِ الزِّنك إليه)
+killed steel	صُلْبٌ مُخَمَّد
+killer	مُعَطِّل
+killer well	بئر إخماد
+killick	مِرساةٌ صَغيرة
+killing	قَتْل؛ إخماد، إهماد؛ صَمُّ عُقَدِ الخَشَبِ الصَّمْغِي (مَنْعًا لِلنَّز بعدَ الدِّهان)؛ اِختِزالُ الأكسيد (قبل اللِّحام بالنُّحاسِ)
+kiln	أَتُّون، فُرْن، تَنُّور، قَمِين؛ جَفَّفَ في أَتُّون
+kiln drying = kiln seasoning	تَجْفِيف تَنُّوري
+kilo	كيلو
+kilo-	كِيلو / كيلو-
+kilo-curie	كِيلُو كُورِي
+kilo-erg	كِيلُو إرغ
+kilo-line = kiloline	كِيلُو خَطّ
+kilo-litre (or kiloliter)	كِيلُو لِتْر، ألفُ لِتر، مِترٌ مُكَعَّب
+kilobaud	كيلو بود / كيلوبود
+kilobit	كيلو بتّ / كيلوبت
+kilobits per second	كيلو بتّ في الثانية / كيلوبت في الثانية
+kilobyte	كيلو بايت / كيلوبايت
+kilocalorie (or kilogram calorie)	كِيلُو كالُوري، سُعْرٌ كَبير
+kilocycle	كيلو دورة
+kilocycle(s) per second (kc/s)	كِيلُوسيكل أو كِيلُو دَوْر في الثانِية، كِيلُو هِرْتز
+kilodyne	كِيلُو دَايْن
+Kiloflops	كيلو نقطة عائمة فى الثانية
+kilogauss	كِيلُوغاوْس
+Kilogram	الكيلومتر
+kilogram metre (or kilogram meter)	كِيلُوغرام مِتر
+kilogram(me)	كِيلوغرام
+kilogram, standard	الكِيلُوغرام العِياري
+kilohertz	كيلو هرتز
+kilohertz = kilocycle second	كِيلُو هِرْتز، كِيلُو دَور في الثانية
+kilojoule	كِيلُو جُول
+Kilometer	كيلومتر
+kilometre (or kilometer)	كِيلُومِتْر
+kilometric waves	أمواجٌ كِيلُومتريَّة
+kilostere	كِيلُو سْتير
+kiloton	كِيلُو طُنّ، ألفُ طُنّ
+kilovar	كِيلُو ڤار
+kilovolt	كِيلُو ڤلْط، ألفُ ڤلْط
+kilovolt-ampere	كِيلُو ڤلْط أمپير
+kilowatt	كِيلُو وَاط
+kilowatt-hour (kWh, kwhr)	كِيلُو وَاط ساعة = 3.6 مِيغاجُول
+kilowatt-hour meter	عَدّادُ الكيلوواط ساعة
+Kilroy curve	مُنْحَني كِلْروي
+kilter	حالةٌ جَيِّدة؛ سَيْرٌ مُنتَظِم
+kim shale	طَفْلٌ صَفْحِيٌّ قِيرِيّ
+Kimball tag	عُرْوَة «كيمبول»
+kimmeridgian	كيميرج
+kinase	كيناز
+kind	صِنْف، نَوْع؛ لَطِيف، وُدِّيّ
+Kind-of-Activity Unit	نوع نشاط الوحدة
+kindered	عشيرة
+kindle	أشعَلَ، أضرَمَ، اِشتَعَلَ، اِضطَرم
+kindling temperature	دَرجةُ حَرارةِ الاشتِعال
+kindly ground	أرضٌ مُوَاتِيَة لِوُجود الخام
+kindred igneous rocks	الصُّخور النارِيّة المُتَقَارِبة
+kine	كين
+kinematic	حَرَكيّ، كينماتي، كَيْنِماتيكي
+kinematic chain	سِلْسِلَة حَرَكِيَّة
+kinematic viscosity	اللُّزوجة الحَركية
+kinematics	علم الحركة
+kinematics = mechanics	الحَرَكيَّات
+kinescope = teletube	صِمامُ الصُّوَر التلفزيونية، كَيْنِسكوب
+kinescoping = telerecording	تسجيلٌ تلفزيوني
+Kinesis ergonomic keyboard	لوحة مفاتيح مريحة [لحركة الأصابع]
+kinetic	حَرَكِيّ، حَرَاكِيّ / حركي
+kinetic energy	طاقةُ الحَركة، طاقةٌ حَرَكيَّة / طاقة حركية
+kinetic friction	الاحتِكاكُ الحَركِي
+kinetic head	طاقةٌ عُلْويَّة حَراكيَّة (في وَحْدةِ الوَزْن مِن السَّائل بِفَضْل ارتِفاعِهِ)
+kinetic heating	إحرارٌ حَرَكيّ (بالاِحتِكاك مَعَ الهَواء)
+kinetic pressure	الضَّغْط الحَرَاكيّ، الضَّغْطُ الديناميّ
+kinetic theory	نظرية الحركة
+kinetic theory (of gases)	النظريةُ الحَرَاكيَّة (لِلغازات)
+kinetically equivalent systems	مَنظومات مُتَكافِئَةُ الحَرَكة
+kinetics	الحَراكِيّات، عِلمُ الحَرَكة
+kinetochore	قُسيم حركيّ
+kinetograph	مُسَجِّلُ الحَرَكة، جهازُ تَسْجيل الحَرَكة
+kinetoplast	كينيتوبلاست، صانعة محركة
+kinetoscope	مُسْقِطٌ سِينمائيّ، جِهازُ إسقاطٍ سينمائيّ
+king leg	دِعامة رَئيسيَّة (في حَامِلٍ ثُلاثي)
+king lever	ذِراعٌ رَئيسي
+king post	دعامة رئيسية
+king tower = crane tower	بُرْجُ المِرفاع
+king truss	جُمْلُون العَضُد الرئيسي
+king valve	صِمام عَمُودي
+king's clover	اكليل الملك
+king-bolt	المِسمارُ الرَّئيسيّ (كَدِعامةٍ فُولاذيَّةٍ لِلسَّقْف المُسَنَّم)
+king-bolt bearing	مَحْمِلُ المِسمار الرئيسي
+king-piece	عَضُدٌ رَئيسي، دِعامَة رَئيسيَّة
+king-pin = swivel pin	ألمِسمارُ الرَّئيسي (لِمحوَر دَوَرانِ العَجَلة)
+king-post	دِعامَةٌ رَئيسيَّة، قَائِمٌ رئيسيّ (في سَقفٍ مُسَنَّم)
+king-post truss	جُمْلون القائم الرَّئيسي
+king-rod	الذِّراعُ الرئيسيَّة (لمَنْعِ الارتِخاء أو الهُبوط)
+king-size	ضَخْم؛ أطوَلُ مِن المُعتاد
+king-vulture	كندور
+kingdom	مَمْلَكَة؛ عالَم (في تَصْنِيف الأحياء) / مملكة
+kinglet; kingling	صعوة
+Kingston valve	صِمام «كِنغستُون»
+kink	عُقْدَة (في حَبْلٍ أو سِواه)؛ لَيَّة، فَتْلَة؛ لَوى، عَقَدَ، اِلتَوى، تَعَقَّدَ؛ انْفَتَلَ
+kink band	نِطاقُ الانفتال (فِي بلورة فِلزِّية)
+kink instability	عَدَمُ استِقْرارٍ اِلْتِوائيّ
+kinsh	عَتَلَة، مُخْل
+kiosk	كُشْك، جَوْسَق / كشك / كوخ، ظلًة
+kip	كِپ (كِيلُو پاوند)
+kipper (male salmon during the spawning period	ذكر سمك السالمون (في فترة التزاوج)
+Kipp’s apparatus	جِهازُ «كِپ»
+kirb = kerb	حَافَّةُ طَرِيق، حافَّةُ رَصيف؛ حَاجِزٌ حَجَري
+Kirchhoff's law (radiation law)	قانون كيرشوف
+Kirchhoff’s (radiation) law	قانُون «كيرشهُوف» (في الإشعاع الحَراري)
+Kirchhoff’s laws	قانُونا «كِيرشهوف» (لِلدّارة الكَهربائيَّة المتَفَرِّعة)
+kirving = kerving	قَطْعٌ جانِبيّ
+kish	غرافيتٌ جَامِد (يَطْفو على سَطحِ خامِ الحَديد المَصْهور الغَنيّ بالكَربون)
+kiss surface	سَطْحُ القُبْلة
+kit	صُندوقُ أدَوات، كِيسُ مُهِمّات؛ عُدّة، مَجموعَة؛ كِيس / عُدَّة
+kitchen midden	فَضَلاتٌ مَطْبَخيَّة
+kite	طائِرة وَرَقِيَّة؛ شِيكٌ صُوَرِيّ (دُونَ مَؤُونَة)؛ رَفَعَ أو اِرتَفَع (السَّعْر) فَجأةً / طائِرةٌ وَرَقِيَّة / حدأة
+kite balloon	مُنطاد مُقيَّد (للمُراقَبَةِ على عُلُوٍّ مُعَيَّن)؛ مُنْطَادُ رَصْد
+kite sounding	سَبْرٌ صِواني
+kitten skins	جُلود صِغارِ الحَيوانات
+kiwi	كيوي
+Kjeldahl’s method	طريقةُ «كِلْدال» (لِتَقْدِير كَمِّيَّاتِ النِّتروجين في المُرَكَّبات العُضْويَّة)
+Kjellin furnace	فُرْنُ «كلين»
+klaxon	بُوق، مُنَبِّه
+Klein bottle	قارورةُ كْلايْن
+Klein group	زُمْرةُ كْلايْن
+Klein, Christian Felix	كْريسْتِيان فيليكْس كْلايْن
+Kleinschmidth's spreading technique	طريقة نشر 'كلاينشميدث'
+Klein’s four-group	زُمْرةُ كْلايْن الرُّباعِيَّة
+Klenow fragment	شدفة 'كلينو'
+Klieg light	مِصباحُ غَمْر ساطِعُ النُّور
+Klinefelter's syndrome	متلازمة 'كلاينفنتر'
+klinker brick	طُوبُ رَصْفٍ صُلْب
+klinostat	كلينوستات
+klint	شِعْبٌ مَرْجانيّ صَلْد
+klip(pe)	عَزيلَة صَخريَّة
+klippe	كتلة صخرية / كتلة صخرية مغزولة متبقية بعد الحت
+klirrfaktor	مُعَامِلُ التشَوُّه اللاّخَطِّي
+klischograph	حَفّارةُ كليشيهات إلِكترونيَّة
+kloof	خانِق / واد ضيق عميق
+kludge	1 [عمل] مُرتَجَل ؛ 2 [برنامج] مُهَلْهَل
+klydonograph	مِرْسَمَةُ التمَوُّر البَرْقيّ (عِندَ التفريغِ الشَّرَريّ أو البَرْقيّ)
+klystron	كلايْسترون / كلايسترون
+knack	بَرَاعَة، مَهارة، لَباقَة
+knap	شَذَّبَ الحِجارة
+knapping hammer	مِلْطاس
+knapsack	حَقيبةُ الظَّهْر
+Knapsack problem	مشكلة فى الحقيبة
+knapsack sprayer	مِرَشَّة ظَهْرِيَّة
+knapsak problem	مَسْأَلةُ حَقيبَةِ الظَّهْر
+knapweed	قنطريون
+knar	عُقْدَةٌ (في الخَشَب)
+knarred	ذو عُقَد، كَثيرُ العُقَد
+knead	عَجَنَ، جَبَلَ؛ فَرَكَ، دَلَكَ
+kneadable	عَجُون
+knee	رُكْبة، مَفْصِل، حَنْيَة؛ ماسورةٌ بِمِرْفَق، كُوع؛ مِنطَقةُ التقَوُّس القُصْوَى / ركبة
+knee (pipe)	ماسُورةٌ بِمِرْفَق، ماسُورة مرفقيَّة
+knee brace	شِكالٌ زاوِيّ أو مِرفَقيّ
+knee joint = knuckle joint	وُصْلَة مَفْصِليَّة
+knee of the head	حيزوم السفينة
+knee rafter	رَافِدة زَاوِيَّة
+knee roof = mansard roof	سَقْفٌ سَنَدِيّ
+knee-holly	آس بري شائك
+knee-joint	مفصل الركبة
+kneeler	دِعَامَةُ تَثْبيت (لِمَنْع الانجرافِ)؛ حجَرٌ مِرفقي
+knickpoint	مُنكَسر التحدُّر
+knife	سِكِّين، مُدْيَة؛ كَشَطَ، نَظَّفَ بالكَشْط
+knife file	مِبْرَدٌ سِكِّينيّ
+knife tool	سِكِّينُ قَطْعٍ (في المِخْرَطَة)
+knife, chip carving	سِكِّين جَذٍّ نُحاتيّ
+knife, clasp	مُدْيَةُ جَيْب (تُطْوَى)
+knife-edge	حَدٌّ سِكِّينيّ، مُرتَكزٌ سِكِّينيُّ الحَدّ
+knife-edge bearing	مَحْمِلٌ سِكِّينيُّ الحَدّ
+knife-edge load	حِمْلٌ حادُّ المُرتَكَز
+knife-edge suspension	تَعليقٌ على حَدٍّ سِكّينيّ
+knife-switch	مِفتاحٌ سِكِّينيّ، مِقلادٌ سِكِّينيّ
+knit	حَبَكَ، حَاكَ؛ اِلتَحَمَ، اِلتأَم
+knitting frame (or loom)	نَوْل (الحِياكة)
+knob	كُعْبُرَة، قَبْضَة، زِرّ؛ عُقْدَة، عُجْرَة / زِرّ / عقدة
+knob (chromosomal...)	عقدة صبغية
+knob rose	وردة الكُعبُرة
+knobbing	تَشْذيبٌ أوَّليٌّ لِلحِجارة (في المَحْجَر)
+knobbly limestone	حجر جيري عقدي
+knock	خَبْط، دَقّ، طَقْطَقَة؛ خَبَطَ، دَقَّ، طَقْطَقَ، قَرَعَ
+knock down	فَصَّلَ؛ فَكَّكَ
+knock intensity	شِدَّة الخَبْط
+knock motor	مُحَرِّكُ قياسِ الخَبْط
+knock out	ضَرْبة حاسِمة، ضَرْبَة قاضِيَة؛ فَصْل؛ طَرَدَ بالدَّقّ؛ فَصَلَ
+knock suppressor	كابِتُ الخَبْط، مانِعُ الخَبْط
+knock, engine	خَبْطُ المُحَرِّك
+knock, ignition	طَقْطَقَةُ الاِشتِعال
+knock-down	سَهْل التفكيك أو التركيب
+knock-on collision	اِصْطِدامٌ مُحَوِّلٌ لِطَبيعَة الذرَّة
+knock-out drum	مِرْكَنُ فَصْل
+knock-rating	تَقْديرُ الخَبْط؛ قياسُ العَدَدِ الأوكتاني (لِوَقودٍ سائِل)
+knock-rating engine	مَكَنَةُ تَقديرِ العَدَد الأوكتاني (بتقدير الخبط)
+knockabout	مِصْماد
+knocked-down	مُفَكَّك
+knocker-out	مِصَدّاتُ المِقْشَطَة النطّاحَة
+knocking	خَبْط، طَقْطَقَة
+knocking-up	مَزْجُ المِلاط أو الخَرَسانة؛ إعادةُ مَزْجِ المِلاط المُتَصَلِّب أو شِبْه المُتَصَلِّب
+knockings	نُثَارَةُ نَقْشِ الحِجارة
+knockmeter	مِقياسُ الخَبْط
+knockout	1 تخلية ؛ 2 نفيضة
+knoll	هَضْبَة صغيرة مُدَوَّرة، تلٌّ مُسَطَّح / رابية
+knop	حِلْيَةٌ صَغيرة مُدَوَّرة
+knot	عُقْدَة؛ عَقَدَ، عَقَّدَ؛ تَعَقَّدَ / عقدة / عُقْدة / عقدة بحرية
+knot (mile per hour)	عقدة، ميل في الساعة
+knot curve	مُنْحَني العُقْدة
+knot theory	نَظَرِيَّةُ العُقَد
+knot, granny	عُقْدَةٌ (مُرَبّعَةٌ) سَهلَةُ الحَلّ
+knot, overhand	عُقْدَة بَسيطة، نِصفُ عُقْدَة
+knot, reef	عُقدةٌ (مُربَّعةٌ) شِراعيَّة
+knot, running	عقدةٌ زالِقَة، أنشُوطة
+knots	عقد
+knots in lumber	عقد في الخشب
+knotted	عُقَدِي / عقدي، عقد
+knotted schist	طَفْلٌ صَفائِحِي عُقْديّ
+knotted schist; knodenschiefer	شيست عقدي
+knotted slate	أُردُوازٌ عُقْدِيّ / شست مشقق عقدي
+knotted texture	نسيج عقدي
+knotting	طِلاءُ العُقَد
+knotty	مُعَقَّد
+know-how	خِبرَة فَنِّيَّة، مَعْرِفَةٌ عَمَليَّة؛ سِرُّ الصَّنْعة / دِراية،خِبْرة
+knowbot	ماهن (ربوط) معرفي / بوت معرفة
+knowledge	مَعرِفَة؛ اِطِّلاع، إدراك / معرفة
+knowledge acquisition	اكتساب المعرفة
+knowledge base	قاعدة معرفة / قَاعِدَةُ مَعَارِف / قاعدة معارف / قاعدة معرفية
+knowledge base system	نِظَامٌ مَعْرِفيّ
+Knowledge Cutoff	تاريخ آخر تحديث للمعرفة
+Knowledge Distillation	تقطير المعرفة
+knowledge domain	نطاق المعرفة
+Knowledge eng-English ineering	هندسة المعرفة
+knowledge engineer	مهندس معرفة
+Knowledge Graph	شبكة معرفية
+Knowledge level	مستوى المعرفة
+Knowledge management	إدارة المعرفة
+knowledge representation	تمثيل المعرفة
+Knowledge Representation and Reasoning (KRR)	تمثيل المعرفة والاستدلال
+knowledge-based system	نظام معتمد على المعرفة / نظام مبنى على المعرفة
+Knowledge-Based System (KBS)	نظام قائم على قاعدة معرفة
+Known Plaintext Attack	هجوم النص الواضح المعلوم
+knuckle	بُرْجُمَة؛ مَفْصِل، مَبْيَتُ مِسمارِ الرَّزَّة
+knuckle gearing	تُرْسٌ بُرْجُمِيّ
+knuckle joint	وُصْلَة مَفْصليَّة (أو بُرْجُميَّة)
+knuckle pin = wrist pin	مِسمارٌ مَفْصِليّ
+knuckle thread	سِنُّ لَولَبةٍ بُرجُمي
+knuckle-joint press	مِكْبَسٌ بُرْجُميُّ الوَصْلَة
+knurl	عُجْرَة، عُقْدَة؛ تَخْريش؛ خَرَشَ، خَرَّش، فَرَّزَ
+knurled head = milled head	رَأسٌ مُخَرَّش، رأسٌ مُفَرَّز
+knurled nut	صَمُولَة مُخَرَّشة
+knurled pin	دِسار مُخرَّش
+knurling	تَخْريش مُحيطِيّ
+knurling tool	عُدّةُ تَخْريش، مِخْرَشَة
+Kobayashi potential	كُمونُ كوباياشي
+kobellite	كوبِلَّيْت
+Koch curve	مُنْحَني كوخ
+Koebe (or Köbe), Paul	بُولْ كوبي
+Koebe function	دالَّةُ كوبي
+kohlrabi	كرنب ساقي
+Kohlrausch’s law	قانون «كُولْراوش»
+kola	كولة
+Kollsman barometer	بارومِتْر «كُلزمان»
+kolm	كُلْم
+Kolmogorov inequalities	مُتَراجِحاتُ كولْموغورْف
+Kolmogorov space	فَضاءُ كولْموغوروف
+Kolmogorov, Andrei	أنْدْريه كولْموغوروف
+Kolmogorov-Selverstov-Plessner theorem	مُبَرْهَنةُ كولْموغورْف-سِلْفِرسْتوف-بْلِسْنَر
+Kolmogorov-Smirnov test	اخْتِبارُ كولموغورْف سميرْنوف
+Konberg's enzyme	إنزيم 'كونبرغ'
+Konel metal	مَعْدِن «كُونيل»
+Konigsberg bridge problem	مَسْأَلةُ جُسورِ كونيغْسْبِرغ
+konimeter	مِقياسُ الغُبار
+konimeter = konometer	مِقياسُ الغُبار
+Koppen's classification of climates	تَصْنِيف كُوبْن لِلمُناخ
+Kopp’s law	قانون «كُوپ»
+Korn shell	مَظرف Korn
+kort nozzle	فوهة كورت
+kovar	كُوڤر
+Kr (krypton)	كن
+kraft (paper)	كرافت
+kratogen	مِجَنّ
+kraton = craton	كُتْلة قارِّيَّة
+Krawtchouk polynomials	حُدودِيَّاتُ كْراڤْتْشوك
+Krebs cycle	دَورةُ «كرِيبس»
+Krebs's cycle; citric acid cycle	دورة 'كريبس'، دورة حامض الستريك
+Krein-Milman property	خاصِّيَّةُ كْرايْن ميلْمان
+Krein-Milman theorem	مُبَرْهَنةُ كْرايْن ميلْمان
+krilium	كرِيلْيُم
+krill	الكَرِيل
+Kroll process	طَريقةُ «كرول»
+Kronecker delta	دَلْتا كْرونيكَر
+Kronecker's lemma	تَوْطِئةُ كْرونيكَر
+Kronecker, Leopold	ليوبولْد كْرونيكَر
+Krull theorem	مُبَرْهَنةُ كْرُل
+kryometer = cryometer	مِحرار قَرِّي، كرِيومتر
+Kryptol	كريپتُول
+krypton (Kr)	(غاز) الكرِپتون
+krypton lamp	مِصباحُ الكرپتون
+KSR terminal	مطراف مرسل/مستقبل من لوحة المفاتيح
+Kullback-Leibler (KL) Divergence	تباعد كولباك-ليبلر
+Kummer relation	عَلاقةُ كومِر
+Kummer's equation	مُعادَلةُ كومِر
+Kummer's test	اخْتِبارُ كومِر
+Kummer, Ernest Eduard	إدْوارْد إرْنِسْت كومِر
+Kundt tube	أُنبوب «كُونْت»
+kunzite	كُونزَيت
+kupfernickel = niccolite	نيكوليت
+Kuratowski closure-complementation problem	مَسْأََلةُ كوراتوفْسْكي في الإغْلاقِ والتَّتْميم
+Kuratowski graphs	بَيانا كوراتوفْسْكي
+Kuratowski lemma	تَوْطِئةُ كوراتوفْسْكي
+Kuratowski theorem	مُبَرْهَنةُ كوراتوفْسْكي
+kurchatovium (Ku)	كورشَتُوفيُوم (أسماهُ الأمريكيُّون روذَرفورديوم)
+Kureppa number	عَدَدُ كوريبا
+kurtosis	درجةُ التحدُّب / تَفَلْطُح
+kVA (kilovolt-ampere)	كيلو ڤولْط أمپير
+kWh (kilowatt-hour)	كيلو واط ساعة
+kyanizing = cyanizing	سَيْنَزةُ الخَشب
+kymograph	مِمْواج، كِيمُوغراف
+kytoon	مُنْطادُ رَصْدٍ مُقَيَّد
+König-Egerváry theorem	مُبَرْهَنةُ كونِغ إيغِرڤاري

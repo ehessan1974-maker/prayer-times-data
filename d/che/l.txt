@@ -1,0 +1,329 @@
+L-electron	ألكترون L
+L-shape	شكل حرف L
+label	رقعة (للعنونة) / وَسْمٌ، لصيقة توسيم
+label(l)ing	عنونة، رقم
+labeled atom	ذرة موسومة
+labelled compound	مركب مرقوم
+labelled machine	آلة رقم، آلة عنونة
+labelled molecule	جزيء مرقوم
+labelled substance	مادة مرقومة
+labile	غير مستقر / مقلقل، قلِق
+labile complex	معقّد مقلقَل
+labile compound	مركب غير مستقر، مركب زلوق
+lability	تقلقل، قلَق
+laboratory	مَخْرَ، مختبَر / مخبر، مختَبَر
+laboratory apparatus	أجهزة مخبرية، أجهزة مختبرية
+laboratory bench	منضدة مخبرية، منضدة مختبرية
+laboratory equipments	تجهيزات مخبرية، تجهيزات مختبرية
+laboratory glass-ware	زجاجيات مخبرية، زجاجيات مختبرية
+laboratory technique	تقنية مخبرية، تكنيك المختبر
+laboratory test	اختبار مخبري، اختبار معملي، تجربة مخبرية
+laboratory ware	أدوات مخبرية، أدوات المختبر
+lac	صمغ اللّك
+lachrymator	غاز مسيل الدموع
+lack	قُصور
+lacquer	لكٌ، ورنيش اللّك / صمغ اللّك
+lactam	لاكتام
+lactase	لاكتاز
+lactate	لبنات، لاكتات
+lactation	إدرار، إلبان
+lactic acid	حمض اللبن، حمض اللاكتيك / حمض اللاكتيك (اللبن)
+lactide	لاكتيد
+lactim	لاكتيم
+lactoferrin	لاكتوفرّين
+lactogenic hormone	هرمون (اللاكتوجين)
+lactometer	مقياس اللبن، لاكتومتر
+lactone	لاكتون
+lactose	لاكتوز، سكر البن / لاكتوز، سكر الحليب
+lactous	لبنّي، لبني اللون
+laevo	يساريّ
+laevo-gyrate	يساري الدوران، أيسر الدوران
+laevo-rotatory	يساري الدوران، يساري التدوير
+laevorotary substance	مواد تدور إلى اليسار، ميَسرة
+lag	بطء / تَلكّؤ، تَخَلُّف
+lagging	عزل حراري
+lake	صبغ مرسّخ
+Lambert-Beer law	قانون لامبرت - بير
+lamella; lamina; lamellae	صفيحة، طبقة رقيقة
+laminar flow	جريان صفيحي
+laminated metal	فلز صفائحي
+laminated plastic	لدين صفائحي
+laminating	تصفيح، ترقيق
+laminating; lamination	تصفيح
+lamp	مصباح
+lamp (arc)	مصباح (قوس)
+lamp (filament...)	مصباح فتيلي
+lamp (gas...)	مصباح غازي
+lamp (mercury...)	مصباح زئبقي
+lamp (spirit...)	مصباح غولي
+lamp (warning...)	مصباح إنذار
+lamp black	سِناج
+lamp-black	سناج، هياب، سخام
+Langmuir adsorption isotherm	خَطُّ امتزاز لانغموير في درجة حرارة ثابتة
+Langmuir isotherm	خطُّ ثبات درجة الحرارة للانغموير
+languish (to)	فَتَرَ، خَفَتَ
+languishing	فاتر، خامل، مرتخ
+lanoline	لانولين
+lanterne	مشكاة، فانوس
+lanthanide	لانتانيد
+lanthanide sries	زمرة اللانتانيدات
+lanthanides	لانثانيدات
+lanthanum	لانثانوم / لانتانوم
+lap (to...)	صَقَل
+lapping	صقْل
+lapse (of time)	فترة (من الوقت)، فاصل زمني
+lard (...oil)	شحم الخزير، دهن الخنزير، دهن...
+larsenite	لَارْسينيت
+larvicide	مبيد اليرقانات
+laser	ليزر(ال...) / ليزر
+latent	كامن / كامن (لاطي)
+latent heat	حرارة كامنة (لاطية)
+lateral overlap	تراكب جانبي، تغطية جانبية
+latex	لثى مطاطي، عصارة مطاطية / لاتكس
+lather	رغوة
+lather (to)	أرغى، رغى
+lattice	شبكة / شُبَيْكة
+lattice defects	عيوب شبكية
+lattice energy	طاقة الشبكة، طاقة شبكية / طاقة الشبيكة
+lauching	إطلاق، قذْف
+laudanine	لودانين
+laughing gas (N2O)	غاز مضحك، أكسيد الآزوت
+lauric acid	حمض اللوريك (الغار)
+lauric acide	حمض الغاز، حمض اللوريك
+lauryl	لوريل
+lauryl alcohol	غَوْل اللوريك (الغار)
+lavender oil	زيت الخُزامى (اللافندر)
+law	قانون
+law (Boyle's)	قانون بويل
+law (Dalton's) for partial pressure	قانون دالتون للضغوط الجزئية
+law of chemical equilibrium	قانون التوازن الكيميائي
+law of combining volumes	قانون الأحجام المتحدة
+law of conservation of energy	قانون حفظ الطاقة
+law of conservation of matter	قانون حفظ المادة
+law of constant proportions	قانون النسب الثابتة
+law of corresponding states	قانون الحالات المتوافقة
+law of definite proportions	قانون النسب الثابتة
+law of diffusion	قانون غراهام، قانون انتشار الغازات، قانون جراهام
+law of equivalent proportions	قانون النسب المكافئة
+law of mass action	قانون فعل الكتلة
+law of mass conservation	قانون حفظ الكتلة
+law of multiple proportions	قانون النسب المضاعفة
+law of partial pressures	قانون الضغوط الجزئية
+law of reciprocal proportions	قانون النسب المتبادلة
+lawn	نسيج مرشِّح
+lawrencium	لورنسيوم
+laws of electrolysis	قوانين التحليل الكهربائي
+laxative	مليِّن
+layer	طبقة
+LDL: low density lipoprotein	بروتين شحمي منخفض الكثافة
+Le Blanc process	طريقة لوبلان
+Le Chatelier's principle	مبدأ لوشاتولية
+Le Chatelier-Braun principale	مبدأ
+Le Clanché cell	خلية لوكلانشه
+leaching	توشيل / استغسال، انتفاذ
+lead	رصاص (ال...) / رصاص
+lead (to)	أدَّى إلى، قاد
+lead accumulator	مركم الرصاص
+lead acetate	خلات الرصاص
+lead alloys	اشابات الرصاص، سبائك الرصاص
+lead chambers process	طريقة الحجرات الرصاصية
+lead glass	زجاج رصاصي
+lead in (to)	أدْخلَ
+lead out (to)	أَخْرَجَ (الغازات والأبخرة )
+lead oxide II	أكسيد الرصاص II
+lead oxide IV	أكسيد الرصاص IV
+lead sulfide	سلفيد الرصاص
+lead tetraethyl	رباعي إيتيل الرصاص
+lead white	أبيض الرصاص، أسبيداج
+league	جامعة، رابطة
+leak-proof	كتيم
+leakage	تسرُّب، ارتشاح / تسرّب
+lean	فقير
+lean coal	فحم فقير
+lean gas	غاز فقير
+lean oil	زيت فقير
+least time (principle of...)	مبدأ الزمن الأصغر، مبدأ الزمن الأدنى
+leather	جِلْد
+leavening	تخمير
+Leblanc process	إجراء لبلان
+lecithin	ليسيتين
+lemon oil	زيت الليمون
+leptophos	لبتوفوس
+letetium; lutecium	لوتسيوم
+lethal dose	جرعة مميتة
+leucine	لوسين
+leuco-	أبيض: سابقة
+leucocyte (leukocyte)	كرية بيضاء
+leukemia	ابيضاض الدم
+level	مستوي
+level of energy	مستوي الطاقة
+level(l)ing bottle	قارورة التسوية، قنينة التسوية
+levelling	تسوية
+levelling bulb	بصلة التسوية، بصلة ميزان التسوية
+levigation	سحن
+levo- (laevo-)	يساري: سابقة
+levogyre	يساري التدوير
+levorotatory	يساري التدوير
+levulinic acid	حمض الليفولينيك
+levulose	ليفولوز
+Lewis acid	حمض لويس
+Lewis base	قاعدة لويس
+Lewis-Langmuir theory	نظرية لويس- لنغموير
+lewisite	لويزيت
+lewistonite	لويستونيت
+liberation	تحرير
+Liebig's condenser	مكثف ليبيغ
+ligand	ربيطة
+ligand monodentale...	جزء رابط وحيد السن
+ligand-field theory (the...)	نظرية الحقل الرابط، نظرية المجالات المتصلات، نظرية الحقل اللاقط
+ligase	ليغاز
+light	ضوء / ضوء، خفيف
+light (momentum of...)	زخم الضوء، اندفاع الضوء
+light (polkarized...)	ضوء مستقطَب
+light (scattering of ...)	تبعثر الضوء
+light crude	خام خفيف
+light isotope	نظير خفيف
+light scattering	تشتُّت الضوء
+light source	منبع ضوئي
+light tight; light proof	صامد للضوء
+light-induced	تحريض بالضوء، حث بالضوء
+lightening	إضاءة
+lignin	ليغنين
+lignite	لغنيت / ليغنيت
+ligroin	ليغروين
+lime	كلْس، جير / كلس، جير
+lime (hydraulic)	كلس مائي
+lime (quick...)	كلس حيّ
+lime (skaleld...)	كلس مطفأ
+lime kiln	قمين كلس
+lime oil	زيت الزيزفون
+lime paste	كلس مطفأ، جير مطفأ، عجينة الكلس
+lime stone	حجر كلسي (جيري)
+lime water	رائق الكلس، ماء الجير / رائق الكلس
+limestone	حجر الكلس، حجر الجير
+limit	حدٌّ
+limit of error	حد الخطأ
+limit of saturation	حدّ التشبع
+limit of solubility	حد الذوبانية
+limitation	تحديد
+limiting conductivity	ناقلية حدية
+limiting current	تيار حدّي
+limiting density	كثافة حدية / كثافة حدّية
+limiting factor	عامل محدّد
+limiting viscosity number	رقم اللزوجة الحدّية
+limonene	ليمونين
+limonin	ليمونين
+limonite	ليمونيت
+limpid	رائق، واضح / رائق، شفّاف
+limpidity	روقان، وضوح
+linalool	لينالول
+linalyl acetate	أسيتات الليناليل
+linde's apparatus	جهاز
+line	خّطٌ
+line (spectrum...)	خط طيفي
+line spectrum	طيف خطّي
+linear	خطيّ / خطّي
+linear accelerator	مسرع خطّي
+linear hybridization	تهجين خطي
+linear molecule	جزيء خطّي
+linear polymer	بلمر خطي / بلمر خطّي
+lining	تبطين
+link	ربطة
+linkage	ارتباط، ربْط / اتصال
+linkage forces; between the nuclei	قوى الرباط، ترابط (ال...) بين النوى، ارتباط (ال...) بين النوى
+linoleic acid	حمض اللينولييك
+linolenic acid	حمض اللينولينيك
+linolenyl alcohol	غَوْل اللينولينيل
+linseed	بذر الكتان
+linseed oil	زيت بذر الكتان
+lip	شفة، حافة، طرف
+lipase	ليباز
+lipemia; lipohaemia	تشحُّم الدم
+lipid, lipide	ليبيد، شحم
+lipids	شحميات، ليبيدات
+lipochrome	ليبوكرومات
+lipogenesis	توليد الليبيدات، استحداث الشحميات
+lipogenic	مولّد للشحوم
+lipoic acid	حمض الليبوييك
+lipophile	محب للشحوم، شغوف بالشحوم
+lipoprotein	بروتين شحمي، لايبوبروتين / ليبوبروتين، بروتين شحمي
+liposoluble	دواب في الشحم أو الزيت
+lipoxidase	ليبوكسيداز
+liquation	تسييل (بالصهر) / فَصْلٌ بالصهر
+liquefaction	تسييل، إسالة
+liquefaction of gases	إسالة الغازات
+liquefied	مسيَّل للغازات، مسال
+liquid	سائل
+liquid air	هواء سائل
+liquid chromatographie	استشراب سائل
+liquid crystal	بلورة سائلة
+liquid crystals	بلورات سائلة
+liquid drier; drier	مجفِّف
+liquid junction potential	كمون الاتصال السائلي
+liquid phase	طور السيولة
+liquid propellant	دافع سائل، داسر سائل
+liquid volume fraction (L.V.F.)	جزء الحجم السائلي للجزء
+liquid-liquid extraction	استخلاص سائل بسائل
+liquid-vapor equilibrium	توازن سائل-بخار
+liquified petroleum gas	غازُ نفطٍ مُسيَّل
+liquor	شراب، سائل
+lithium	ليثيوم / ليتيوم
+lithium aluminium hydride	هيدريد الليتيوم والألومينيوم
+lithrage	ليثارج
+litmus	عبّاد الشمس / عباد الشمس
+litmus paper	ورق عبّاد الشمس / ورق عباد الشمس
+litmus solution	محلول عبّاد الشمس
+liver starch	نشاء الكبد، غليكوجين
+lixiviation	تشريب، حلحلة
+lixivium	ماء قلوي، ماء الأشنان
+lobe	فص، فلقة
+local	موضعي
+localization	توضُّع، تمركُز
+log (s)	كتلة خشبية، كتل خشبية
+lone pair	زوج وحيد
+lone pair of electrons	زوج إلكتروني منعزل
+long necked flask	دورق طويل العنق
+long period	فترة طويلة
+long stem funnel	قمع طويل الساق
+long-duration test	تجربة طويلة الأمد
+loosening	ارتخاء، انحلال
+Lorentz transformation	تحويل لورنتز
+Lorentz-Lorenz equation	معادلة لورنتز-لورنز
+Loschmidt number	عدد
+loss	فقد، خسارة، ضياع
+lotion	غسول / غَسول
+low brass	صُفْرٌ ضعيف
+low pour point	نقطة انسكاب منخفضة
+low temperature zone	منطقة درجة الحرارة المنخفضة
+low; point pressure...	منخفض، وطيء
+lower oxidising flame	لهب (ال...) المؤكسد السفلي
+lower reducing flame	لهب (ال...) المختزل السفلي
+lube hydrogenation	هدرجة زيوت التزليق
+lube oil	زيت تزليق
+lube stocks	خامات تزليق
+lubricant	مزلّق، مشحّم / مُزلِّق
+lubricating grease	شحم تزليق
+lubricating oil	زيت تزليق
+lubrication grease	شحم التزليق
+lumen	شمعة لومن
+luminescence	ضيائية، تألق، لمعان / تلألؤ
+luminescent paint	دهان مُتلألئ
+luminous	مضيء
+luminous intensity	شدة الإضاءة
+luster	بريق / لَـمَعان
+lustrous (glassy)	براق، لامع
+lyase	لياز
+lye	محلول القلي / غَسول قلوي
+Lyman series	سلسلة ليمان
+lymphoid	لمفاني
+lyogel	وسط جيلاتيني، وسط هلامي
+lyolysis	تفسخ الوسط، انحلال الوسط
+lyophilic	شغوف / أليف للمذيب
+lyophilic colloid	غرواني شغوف
+lyophobic	عزوف / نَفُور من المذيب
+lyophobic colloid	غرواني عزوف
+lysine	ليزين
+lysis	تفسُّخ، انحلال
+lysol	ليزول
+lysosome	جسيم حالّ
+lysozyme	ليزوزيم

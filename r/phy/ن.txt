@@ -1,0 +1,592 @@
+نابِذة	centrifuge
+نابذة مركزية فائقة	ultra centrifuge
+نابض	spring
+نابعة كهرحرارية؛ بيل حراري	thermopile
+نابلا	del
+ناتتج الاذابة	solubility product
+ناتج الاضمحلال (ن)	decay product
+ناتج انشطار (ن)	fission product
+ناتج؛ جداء	product
+ناثر	diffuser
+ناخب القنوات	channel selector
+ناخب نطاقي	band selector
+ناشر (ن)	diffuser
+ناشـر للطاقة	exoergic
+ناظم	normal
+ناظور	binoculars
+ناظور ذو العينتين	binocular
+نافذ	emergent
+نافذة التدريع (ن)	shielding window
+نافذة بروستر	Brewster's window
+ناقل	conductor
+ناقل فائق	superconductor
+ناقل معزول	insulated conductor
+ناقلية أحادية الاتجاه	unilateral conductivity
+ناقلية تبادلية	transconductance
+ناقلية حرارية	thermal conductivity
+ناقلية ضوئية	photoconductivity
+ناقلية فائقة	superconductivity
+ناقوس	bell jar
+ناقوس الغوص	diving-bell
+ناقوس زجاجي	bell-jar
+ناقوسّي الشكل	bell-shaped
+نانومتر	nanometer
+نبَّاض	pulsar
+نبتون	Neptune
+نبتونيوم	neptunium
+نَبْذٌ	centrifugalization
+نبضة	pulse
+نبضة الفُلطية	voltage pulse
+نَبضة حرارية	thermal spike
+نبيطة نقل الشحنة	charge-coupled device
+نبيطة؛ جهاز	device
+نتاج التطايرية	volatility product
+نتاج انشطار مشع	radioactive fission product
+نتاج تفكك إشعاعي	radioactive decay product
+نتاج ثانوي مشع	radioactive byproduct
+نتاج طاقة مغنطيسية	magnetic energy product
+نتح	transpiration
+نتح الغازات	transpiration of gases
+نتح حراري	transpiration (thermal..)
+نتروجين؛ آزوت	nitrogen
+نترون	neutron
+نترون (ن)	neutron
+نترون التجاوب	resonance neutron
+نترون الرنين (ن)	resonance neutron
+نترون انشطار (ن)	fission neutron
+نترون بارد (ن)	cold neutron
+نترون بطيء	slow neutron
+نترون بكر (ن)	virgin neutron
+نترون حراري	thermal neutron
+نترون سريع (ن)	fast neutron
+نترون ضوئي (ن)	photoneutron
+نترون فوتوني	photoneutron
+نترون فوري	prompt neutron
+نترون فوري (ن)	prompt neutron
+نترون فوق حراري	epithermal neutron
+نترون مبطأ (ن)	delayed neutron
+نترون متوسط الطاقة	intermediate neutron
+نترون وسيط (ن)	intermediate neutron
+نترونات الانشطار	fission neutrons
+نترونات الانشطار المتأخرة	delayed fission neutrons
+نترونات انشطارية فوريّة	prompt fission neutrons
+نترونات بطيئة	slow neutrons
+نترونات بِكْر	virgin neutron
+نترونات حرارية (ن)	thermal neutrons
+نترونات سـريعة	fast neutrons
+نترونات فورية (ن)	prompt neutrons
+نترونات فوق الحرارية (ن)	epithermal neutrons
+نترونات متأخرة	delayed neutrons / retarded neutrons
+نترينو	neutrino
+نترينو (ن)	neutrino
+نترينو إلكتروني	electron neutrino
+نترينو مضاد	anti-neutrino
+نتوء	spike
+نتوء (ن)	spike
+نتوء حراري (ن)	thermal spike
+نجم ثنائي	binary star
+نجم مضاعف	binary star
+نجم نتروني	neutron star
+نجم نووي	nuclear star
+نَجْمِيَّة (ال...)	asterism
+نجوم متغيرة السطوع	cepheid stars
+نحاس	copper
+نحاس أصفر	brass
+ندى	dew
+نِدّيّة	parity
+نِدّيّة الحالة	parity of state
+نِدِّيَّة ذاتية	intrinsic parity
+نزع التزجج	devitrification
+نزع الرطوبة	dehumidification
+نزع الماء	dehydration
+نزوح	migration
+نزوح الأيونات	migration of ions
+نسبة (ال...) الحركية	kinematical relativity
+نسبة (ال...) المئوية لجرعة العمق (ن)	percentage depth dose
+نسبة (ال...) المحورية في علم البِلَّوريات	crystallographic axial rations
+نسبة (ال...) النظيرية	isotopic ratio
+نسبة الإشارة إلى الضجيج	signal to noise ratio
+نسبة الانتشار	propagation ratio
+نسبة الانحراف	ratio of deflection
+نسبة التحوّل (ن)	conversion ratio
+نسبة التحويل النسبي (ن)	relative conversion ratio
+نسبة التدريع	shielding ratio
+نسبة الترابط	packing fraction
+نسبة التفرع	branching ratio
+نسبة التفرع (ن)	branching ratio
+نسبة التهدئة (ن)	moderating ratio
+نسبة التوليد (ن)	breeding ration
+نسبة الحرارتين النوعيتين	ratio of specific heats
+نسبة الخمود	damping ratio
+نسبة الضوء	light ratio
+نسبة الغاز	gas ratio
+نِسْبة ألفا (ن)	alpha ratio
+نسبة الكادميوم	cadmium ratio
+نسبة المواصلة	conductance ratio
+نسبة الوفرة	abundance ratio
+نسبة الوَفْرة (ن)	abundance ratio
+نسبة بؤرية أو محرقية	focal ratio
+نسبة تحول أولي (ن)	initial conversion ratio
+نسبة كادميوم (ن)	cadmium ratio
+نسبة محورية	axial ratio / ellipticity
+نسبة مغنطيسية ميكانيكية	magnetomechanical ratio
+نِسْبة وَفْرة النَّظير	abundance isotopic ratio
+نسبوي	relativistic
+نسبيّ	relative / relativistic
+نسبية (ال...)	relativity
+نسيج سلكي	wire gauze
+نسيم	breeze
+نشاط (ن) ، فاعلية	activity
+نشاط إشعاعي	radioactivity
+نشاط اشعاعي (ن)	radioactivity
+نشاط إشعاعي إشباعي	saturation activity
+نشاط اشعاعي اصطناعي	artificial radio-activity / artificial radioactivity
+نشاط اشعاعي طبيعي (ن)	natural radioactivity
+نشاط إشعاعي متحرض	induced radioactivity
+نشاط اشعاعي محثوث	induced radioactivity
+نشاط اشعاعي مهيج	excited radioactivity
+نشاط التشبع (ن)	saturation activity
+نشاطُ العوالِقِ الهوائيةِ الإشعاعيُّ	airborne radioactivity
+نشاط ضوئي	optical activity
+نشاط متوسط	mean activity
+نشاط مُطْلَق (ن)	absolute activity
+نشاط ناتج الانشطار (ن)	fission product activity
+نشاط نوعي	specific activity
+نشاط نوعي (ن)	specific activity
+نشاط نووي (ن)	nuclear activity
+نشاط نووي سلمي (ن)	peaceful nuclear activity
+نشـر الحدَّانية	binomial expansion
+نشفان	dehumidification
+نشيط (ن)	active
+نصف	half
+نصف العرض	half-width
+نصف القطر التقليدي للإلكترون	classical electron radius
+نصف القطر العطالي؛ نصف قطر التدويم	radius of gyration
+نصف خلية	half-cell
+نصف عاكس	half reflecting
+نصف عرض الخط الطيفي	half-width of spectral line
+نصف غروي	hemicolloid
+نصف قطر الإلكترون	radius of electron
+نصف قطر الانحناء	radius of curvature
+نصف قطر التدويم	radius of gyration
+نصف قطر الجاذبية	gravitational radius
+نصف قطر الذرة	radius of atom
+نصف قطر النواة	nuclear radius / radius of nucleus
+نصف قطر بور	Bohr radius
+نصف قطر شعاعي	radius vector
+نصف قطر فعل القوى النووية	radius of action of nuclear forces
+نصف قطر كومتُن	Compton radius
+نصف قطر لارمور	Larmor radius
+نصف قطري	radian
+نصف قطري؛ شِعّي	radial
+نصف كرة	Magdeburg hemisphere / hemisphere
+نصف كروي	hemispherical
+نصف مفضَّض	half-silvered
+نصف موجة	half-wave
+نصف ناقل أصيل	intrinsic semiconductor
+نصف ناقل دخيل	extrinsic semiconductor
+نصف ناقل مَشُوب	impurity semiconductor
+نصف نغمة	semi-tone
+نضائر مشعة	radioactive isotopes
+نضح خارجي	exosmosis
+نضرية النقل (ن)	transport theory
+نَضيدَة	battery
+نضيدة الشبكة	grid battery
+نضيدة المِصْعَد، بطارية	anode battry; plate battery
+نضيدة خزن	storage battery
+نضيدة نووية (ن)	nuclear battery
+نطاق	band
+نطاق أساسي	fundamental band
+نطاق الترددات العالية	high frequency band
+نطاق التكافؤ	valence band
+نطاق التوافق الثاني	first overtone band; second harmonic band
+نطاق الفرق	difference band
+نطاق إمتصاص	absorption band
+نطاق توافقي ثان	second harmonic band; first overtone band
+نطاق توصيل	conduction band
+نطاق جانبي	side band
+نطاق جمع	summation band
+نطاق طاقة	energy band
+نطاق محظور	forbidden band
+نطق انزلاق	slip bands
+نظائر الرصاص	lead isotopes
+نظائر مشعة	radioactive isotopes / radioisotopes
+نظّارات	spectacles
+نظام (ن)	system
+نظام اثناني	binary system
+نظام أحادية التفرق	monodisperse system
+نظام ازالة تلوث الهواء الملفوظ (ن)	exhaust air decontamination system
+نظام التبريد الاضطراري (ن)	emergency cooling system
+نظام التحكم في المفاعلية (ن)	reactivity control system
+نظام التشغيل (ن)	operating system
+نظام التفريق	disperse system
+نظام الخطوط المستقيمة	rectilinear system; orthoscopic system
+نظام العدسات اللازيغية	aplanatic lens system
+نظام الغاز المضغوط (ن)	pneumatic system
+نظام اللّي	mechanical rotational system
+نظام النفخ (ن)	blow down system
+نظام بصري لام	dioptric system
+نظام بصري متعامد الأشعة	orthotomic system
+نظام بصري مصحَّح	orthoscopic system; rectilinear system
+نظام بصري معاكس	katoptric system
+نظام تأخير (ن)	delay system
+نظام تبريد اللب الاضطراري (ن)	emergency core cooling system
+نظام تحريك حراري	thermodynamic system
+نظام حمض البورون	boric acid system
+نظام دوري	periodic system
+نظام س - غ - ث	centimetre gram-second system (c.g.s)
+نظام شبه مستقر	metastable system
+نظام صوت مجسِّم	stereophonic sound system
+نظام عدسات لالونية	apochromatic lens system
+نظام عَشـري	decimal system
+نظام غَروي	colloidal system
+نظام غروي عالي التفريق	dispersoid
+نظام غير متجانس	heterogeneous system
+نظام كبت الضغط (ن)	pressure-suppression system
+نظام لااتجاهي	astatic system
+نظام مبدِّد	dissipative system
+نظام مبردّ	cryogenic system
+نظام متجانس	homogeneous system
+نظام متعدد التفرق	polydisperse system
+نظام محافظ (ن)	conservative system
+نظام مخبري (ن)	laboratory system
+نظام مَرجعي	system of reference
+نظام مَركز الكتلة	center of mass system
+نظام مستقر	stable system
+نظام معيني قائم	orthorhombic system
+نظام مُغْلق	closed system
+نظام مفتوح	open system
+نظام مكثَّف	condensed system
+نظام نقل ميكانيكي	mechanical transmission system
+نظام وقاية المفاعل (ن)	reactor protection system
+نظامي (ال...) من درجة الحرارة والضغط العاديين	n.t.p
+نظريات المجال الموّحد	unified field theories
+نظرية	theory
+نظرية (ال...) الجزيئية	molecular theory
+نظرية (ال...) الجسيمية للضوء	corpuscular theory of light
+نظرية (ال...) الحركية	kinetic theory
+نظرية (ال...) الكهرمغنطيسية	electromagnetic theory
+نظرية (ال...) الموجية	wave theory
+نظرية (ال...) النسبية الخاصة	special relativity theory
+نظرية (ال...) النسبية العامة	general relativity theory
+نظرية (ن)	Heisenberg theory
+نظرية الاستحلاب	theory of emulsification
+نظرية الاضطراب	perturbation theory
+نظرية الاضطراب (ن)	perturbation theory
+نظرية الأعداد العقدية	complex number theory
+نظرية الأعداد المُرَكبة	complex number theory
+نظرية الالكترون	electron theory
+نظرية الإلكترونات الحرة	free electron theory
+نظرية الألوان	color theory; colour theory
+نظرية الانتشار (ن)	diffusion theory
+نظرية الانتشار والازالة	removal diffusion theory
+نظرية الأنطقة (جمع نطاق)	band theory
+نظرية الانفجار الأعظم	big- bang theory
+نظرية التكثيف لماير	Mayer theory of condensation
+نظرية الحركية للغازات	kinetic theory of gases
+نظرية الحقول	domains theory
+نظرية الحقول الموحَّدَة	unified field theory
+نظرية الزمر	group theory
+نظرية الزمر المتعددة (ن)	multigroup theory
+نظرية الزمرتين (ن)	two group theory
+نظرية الزّمرة	group theory
+نظرية الزمرة الواحدة (ن)	one-group theory
+نظرية السيال الحراري	caloric theory
+نظرية الصلب المرن	elastic solid theory
+نظرية الضوء الكمومية	quantum theory of light
+نظرية الضوء الكمية	quantum theory of light
+نظرية الضوء الموجية	wave theory of light
+نظرية العصابات	band theory
+نظرية العمر لفيرمي	Fermi-age theory
+نظرية الفجوة	hole theory
+نظرية الفجوة للسوائل	hole theory of liquids
+نظرية الفصل الشعَري	capillary theory of separation
+نظرية الكم	quantum theory
+نظرية المجال	field theory
+نظرية المجال الكم	quantum field theory
+نظرية المجال المكمي	quantized field theory
+نظرية المحاور المتوازية	theorem of parallel axes
+نظرية المعلومات	information theory
+نظرية النسبية	relativity theory
+نظرية النسبية الخاصة	special relativity theory
+نظرية النسبية العامة	general theory of relativity
+نظرية الهدف	target theory
+نظرية انتقال القدرة العظمى	maximum power transfer theorem
+نظرية باردين- كوبر- شـريفر	Bardeen-Cooper- Shriffer theory
+نظرية بور- زومرفلد	Bohr- Sommerfeld theory
+نظرية بورن- فون كارمان	Born- von Karman theory
+نظرية تحطيم القطرة	breaking-drop theory
+نظرية تقليدية (ن)	classical theory
+نظرية تمييز الألوان	theory of color vision
+نظرية تورِشلِّي	Torricelli 's theorem
+نظرية جزيئية	molecular theory
+نظرية ديباي في الحرارات النوعية	Debye theory of specific heats
+نظرية طول الخلط	mixing length theory
+نظرية ظاهراتية	phenomenological theory
+نظرية فايس في المغنطيسية الحديدية	Weiss theory of ferromagnetism
+نظرية في الانبعاث	Newton emission theory
+نظرية فيثاغورس	Pythagorean theorem
+نظرية كهرطيسية	electromagnetic theory
+نظرية للمَيز في المجهر	abbe theory of the resolution of microscope
+نظرية نيوتن في الجاذبية	Newton theory of gravitation
+نظم بِلَّورية	crystal systems
+نظير	isotope
+نظير (ن)	isotope
+نظير غير مستقر	unstable isotope
+نظير مستقِرّ	stable isotope
+نظير مشع (ن)	radio-isotope
+نظير مولَّد إشعاعيًا	radiogenic isotope
+نظيري (ن)	isotopic
+نغمات الوتر التوافقية	harmonics of a string
+نغمة	tone
+نغمة (ال...) الأساسية	major tone
+نغمة (ال...) الثانوية	minor tone
+نغمة أساسية	fundamental note / major tone
+نغمة الجواب	octave
+نغمة بسيطة	simple tone
+نغمة سمعيّة	audio-note
+نغمة صافية	pure tone; pure note
+نغمة عيارية	standard pitch
+نغمة مرجعية	reference tone
+نغمة، نغم	note
+نفّاث	jet
+نفاث سائل	liquid jet
+نفّاث غاز	jet gas
+نفاث ماء	water jet
+نفّاث، نفْث، نافورة	jet
+نفاديّة مثاليّة	ideal permeability
+نفادية مغنطيسية	magnetic permeability
+نفّاذ	penetrative
+نفاذ أشعة الحرارة	diathermy
+نفاذ الحرارة	diathermy
+نفاذية	permeability / transmissivity
+نفاذية الاشعاع الحراري	diathermancy
+نفاذية العناصر	permeability of the elements
+نفاذية المغنطيسية المعاكسة	diamagnetic permeability
+نفاذية أولية	initial permeability
+نفاذية تحريكية (دينمية)	dynamic permeability
+نفاذية تزادية	incremental permeability
+نفاذية حرارية	diathermancy
+نفاذية عادية	normal permeability
+نفاذية عظمى	maximum permeability
+نفاذية عكيسة	reversible permeability
+نفاذية كيميائية	diactinism
+نَفاذية مُطْلَقة	absolute permeability
+نفاذية مغنطيسية	permeability
+نفاذية نسبية	relative permeability; specific permeability
+نفاذية نوعية	specifc permeance / specific permeability
+نُفايات	wastes
+نفايات اشعاعية (ن)	radioactive waste
+نفايات التصنيع (ن)	scrap
+نُفايات مشعة	radioactive waste
+نفوذ؛ بث	transmission
+نقاء اشعاعي (ن)	radioactive purity
+نقاء الاشعاع (ن)	radiation purity
+نقاء النية المشعة (ن)	radionuclide purity
+نقاء طيفي	spectral purity
+نقاء كيميائي اشعاعي (ن)	radiochemical purity
+نقاء؛ صفاء	purity
+نقاط أصلية	cardinal points
+نقاط رئيسية	cardinal points
+نقبة، لون	hue
+نقص	deficiency
+نقص الكتلة	mass defect
+نقص الكتلة (ن)	mass defect
+نقط أساسية سالبة	negative principal points
+نقط عقدية سالبة	negative nodal points
+نقط فرعية	branch points
+نقطتان أصليتان عكسـيتان	antiprincipal points
+نقطتان عقديتان	nodal points
+نقطتان مترافقتان	conjugate points
+نقطة (ال...) الثلاثية	triple point
+نقطة أصلية	principal point
+نقطة الاتزان	equilibrium point
+نقطة الإصابة	point of impact
+نقطة الانصهار	melting point
+نقطة الانصهار المتوافقة	congruent melting point
+نقطة الانصهار؛ نقطة الاندماج	point of fusion
+نقطة الانعطاف	turning point
+نقطة الانعكاس	point of reflection
+نقطة التجمد	freezing point
+نقطة التجمد/الجمود	freezing point
+نقطة التراكُم	accumulation point
+نقطة التسامي	sublimation point
+نقطة التصلّب	gelling point
+نقطة التعادل، عتبة الربح	break even point
+نقطة التقاطع	cross-over point
+نقطة الجسم	objective point
+نقطة الخمود	null point
+نقطة الذوبان	melting point
+نقطة الصدم	point impact
+نُقطة العكر	cloud point
+نقطة العمل	operation point / q point / quiescent point
+نقطة الغليان	boiling point
+نقطة الغليان الصغرى	minimum boiling point
+نُقطة الغليان المُطْلَقة	absolute boiling point
+نُقطة القطع	arrest point
+نقطة القياس الأساسي (ن)	key measurement point
+نقطة الكَثَب	near point
+نقطة المدى	far point
+نقطة المطاوعة	yield point
+نقطة النَّبْوة	turning point
+نقطة النّدى	dew point
+نقطة النهاية	end-point
+نقطة الومض	flash point
+نقطة الوميض	flash point
+نقطة انصهار متطابقة	congruent melting point
+نقطة انعطاف	inflection point
+نقطة بطن	antinodal point
+نقطة تابثة	fixed point
+نقطة تجمد المحاليل	cryohydric point
+نقطة تجمد عظمى	maximum freezing point
+نقطة تساوي الكهربائية	isolectric point
+نقطة تفرع	branching point
+نقطة تفريع	tapping point
+نقطة ثلاثية	triple point
+نقطة حَرِجَة	critical point
+نقطة حرجة ثلاثية	ternary critical point
+نقطة رباعية	quadruple point
+نقطة ركود جريان المائع	fluid flow stagnation point
+نقطة عيِّنة	sample point
+نقطة غليان عظمى	maximum boiling point
+نقطة قريبية	near point
+نقطة كورى	Curie point / balance point
+نقطة لاتطابق الانصهار	peritectic
+نُقْطة لالونية	achromatic point
+نقطة مادية	material point
+نقطة مخمسة	quintuple point
+نقطة نصف القدرة	half-power point
+نقطي	stigmatic
+نُقْطِيَّة	anastigmatism / stigmatism
+نقطيّة العين	stigmatism
+نقل	transference
+نقل الطاقة	power transfer
+نقل الطاقة الخطي (ن)	linear energy transfer
+نقل القدرة الكهربائية	electric power transmission
+نقل حراري	thermal conduction
+نقل فائق	superconducting
+نقل في الظُّلمة	dark conduction
+نقل كتلة الكربون (ن)	carbon mass transfer
+نكلون	nucleon
+نكلونيّات	nucleonics
+نكليد	nuclide
+نُكْليد مشع	radioactive nuclide / radionuclide
+نُكليدات شطورة	fissionable nuclides
+نكليدان مرآويان	mirror nuclides
+نماذج الامتزاز، صنوف الامتزاز	types of adsorption
+نمط الانتشار	mode of transmission
+نمط التذبذب	mode of vibration
+نمط التفكك	decay mode
+نمط اهتزاز ضوئي	optical mode
+نمط بصري	optical mode
+نمط رنين	resonant mode
+نمط مسحوق	powder pattern
+نَمَط؛ أسلوب	mode
+نموّ	growth
+نمو البِلَّورة	crystal growth
+نمو التيار	growth of current
+نمو حراري (ن)	thermal growth
+نمو فوقي	overgrowth
+نموذج	model
+نموذج (ال...) الأصلي للمفاعل (ن)	prototype reactor
+نموذج الجسيمات المستقلة	independent particle model
+نموذج الزمرتين (ن)	two-group model
+نموذج الزمرة الواحدة (ن)	one-group model
+نموذج الطبقات للنواة	nuclear shell-model
+نموذج العمر لِفِرْمي	Fermi-age model
+نموذج العمر لفيرمي	Fermi-age model
+نموذج الغاز الطليق (ن)	free-gas model
+نموذج القشرة (ن)	shell model
+نموذج القطرة للنواة	drop model of nucleus / nuclear drop-model
+نموذج المجموعة الواحدة	one-group model
+نموذج أولي	prototype
+نموذج بصري (ن)	optical model
+نموذج بور الذري	Bohr atomic model
+نموذج بورن- مادلنغ	Born- Madelung model
+نموذج جزيئية	molecular model
+نموذج دروده	Drude model
+نموذج ذري (ن)	atomic model
+نموذج رذرفورد - بور الذري	Rutherford-Bohr atomic model
+نموذج فقاعي	bubble raft
+نموذج قطرة السائل (ن)	liquid drop model
+نموذج متَّجه للذرة	vector atom model
+نموذج متعدد الزمر	multigroup model
+نموذج متعدد الزمر (ن)	multigroup model
+نموذج نووي (ن)	nuclear model
+نهاية تقليدية (ن)	classical limit
+نواتج الانشطار	product (fission…)
+نواس أفقي	horizontal pendulum
+نواس الفتل	torsion pendulum
+نوّاس بسيط	simple pendulum
+نوّاس دحروجي	cycloidal pendulum
+نوّاس دوّامي	gyrostatic pendulum
+نواس عكيس	reversible pendulum
+نواس فوكو	Foucault pendulum
+نواس فيزيائي	physical pendulum; compound pendulum
+نواس قذفي	ballistic pendulum
+نواس قَذْفي، رقاص قَذْفي	ballistic pendulum
+نواس كاتر	Kater’s pendulum
+نواس ليّ	torsion pendulum
+نوّاس مخروطي	conical pendulum
+نوّاس مُرَكَّب	compound pendulum / compound pendulum; physical pendulum
+نُوَّاس معدَّل	compensated pendulum
+نَوّاس مُعَّوض	compensated pendulum; compensating pendulum
+نواس مغنطيسي	magnetic pendulum
+نواس، رقاص	pendulum
+نواس؛ رقّاص	pendulum
+نواسان مقترنان	coupled pendulums
+نواة	nucleus
+نواة (ن)	nucleus
+نواة الاستطارة (ن)	scattering Kernel
+نواة أم	parent nucleus
+نواة باقية (ن)	residual nucleus
+نواة حديدية	iron-core
+نواة ذرية	atomic nucleus
+نواة ذرية (ن)	atomic nucleus
+نواة زوجية - زوجية	even-even nucleus
+نواة زوجية فردية	even-odd nucleus
+نواة زوجية- فردية	odd-even nucleus
+نواة سَلَف	parent nucleus
+نواة شفعية شفعية	even-even nucleus
+نواة شفعية وِترية (ن)	even-old nucleus
+نواة عارية	bare nucleus
+نواة فردية- فردية	odd-odd nucleus
+نواة مرتدة	recoil nucleus
+نواة مرتدة (ن)	recoil nucleus
+نواة مركَّبة	compound nucleus
+نواة مُرَكَّبة (ن)	compound nucleus
+نواة مستهدفة (ن)	target nucleus
+نواة مشعة	radioactive nucleus
+نواة ناتجة	resultant nucleus
+نواة وترية (ن) ، نواة وِترية	odd-odd nucleus
+نواة وليدة	daughter nucleus
+نواة؛ قلب	core
+نوبليوم	nobelium
+نودان	libration / nutation
+نوزيع متقطع	discrete distribution
+نوعية الصوت	quality of sound
+نوفا: مستعِر	nova
+نوكس	nox
+نووي (ن)	nuclear
+نوَّى	nuclei
+نوى التبلور	nuclei of crystallization
+نوى متساوية النويّات (ن)	nuclear isobar
+نويدة وليدة (ن)	daughter nuclide
+نويّة (ن)	nucleon
+نيت	nit
+نير	yoke
+نيزك	meteorite
+نيغاترون	negatron
+نيغاتون	negaton
+نيكاتون (ن)	negatron; negaton
+نيكل	nickel
+نيكول	nicol
+نِيَة (ن)	nuclide
+نية انشطار (ن)	shielded nuclide
+نية سابقة (ن)	precursor of nuclide
+نية غير مستقرة (ن)	unstable nuclide
+نِيَة مستقِرّة (ن)	stable nuclide
+نِيَة مشعة (ن)	radionuclide
+نيوتن	Newton
+نيوديميوم	neodymium
+نيون	neon

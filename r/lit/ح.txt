@@ -1,0 +1,147 @@
+حَائر	disquited
+حَاجِز	Obstacle
+حَادٌّ	Acute
+حاشية	Gloss / annotation
+حاشية هامشية	marginal note
+حافز	Stimulus / motive
+حافز اقتحاميّ	intrusive motive
+حافزٌ حر	liberate motive
+حافز ديناميّ	dynamic motif
+حَالـة	state
+حالة الإشارة	Deixis
+حالة الإضافة	Genitive
+حالة التجاوز	Ablative
+حالة الفاعل	Nominative case
+حالة المستقر	Inessive
+حالة المعية	Comitative
+حالة المفعول	Accusative
+حالة الوقف	Pause
+حاَلِيةَ	Perlocutionary
+حباسة	Paraphasia
+حبس	Catastase
+حُبْسَة	Aphasia / Dysphasia
+حُبْسَة الألحان	Amusia
+حُبْسَة التأسيم	Amnesic aphasia
+حبسة القراءة	Alexia
+حُبْسَة الكتابة	Agraphia
+حُبسة تركيبية	Agrammatism / agrammatism
+حبسي	Abrupt
+حبْكَـة	intrigue
+حَجُّ (ال...)	spiritual travel
+حِجَاب الحَنَك	Velum
+حِجَابِيَة	Velar
+حُجَّة دامغة	replic
+حُجّـة، إثبات	proof
+حَدٌّ	Barrier / Boundary
+حد صوتي	Isophon
+حَدٌّ لغوي	Boundary (linguistic)
+حَدٌّ لَهَجِي	Isogloss
+حَدٌّ مركبي	Isosyntagmatic
+حَدٌّ، تَخْـمٌ	limit
+حداثـة	modernity
+حَـدَث	Action / event / fact; event
+حدث عابر	trivial event
+حَدْس	Intuition
+حدود اللّهجة	Dialect Boundary
+حديث	Parole
+حديث الأجانب	Foreigner Talk
+حَذَذٌ	Catalexis
+حَذْف	Troncation / ellipsis
+حَذْف الآخَر	Elision
+حذف الفعل الرّابط	Copula Deletion
+حذف إيجازي، إضمار	Ellipse
+حَذْف تصحيفي	Haplography
+حَذْلَقَة	Hypercorrection
+حراسة البوّابة	Gate-Keeping
+حَرْف	Graphem / Preposition
+حرف العطف	Coordonant
+حرف العلّة	Vowel
+حرف العلّة في وسط الكلمة	Mid (Vowel)
+حَرْف الكتابة	Letter
+حرف تدخّليّ زائد	Intrusive r
+حرف ساكن لا يُنطق	mute letter
+حرف صامت في الكتابة	silent letter
+حَرْف عادي	Minuscule
+حرف علّة واحد يُلفظ بدون حركة أعضاء النّطق	Monophthong
+حرف كبير	Capital
+حرف مبني	Morphonem
+حرف واحد لعدة مفعولات	zeugma
+حَرْفِيّ	Prepositional
+حرفية	typography
+حركة	Move / movement
+حركة التّبسيط اللُّغويّ	Plain Language Movement
+حركة الجسد	Gesture
+حركة صامتة، ميم	mime
+حركة محايدة	Schwa
+حركة مسرحية	mimicry
+حِرْمان	privation
+حروف العلّة القريبة / العالية	Close (Vowels)
+حروف العلّة المرجعيّة	Cardinal Vowels
+حروف العلّة غير المستديرة	Unrounded (Vowels)
+حُزْمَة	Matrix
+حِسٌّ لغوي	Linguistic intuition
+حَشْوٌ	Expletive / Redundancy / Tautology
+حَشْوٌ، مشترك دلالي	Pleonasm
+حضارة	Civilization
+حضارةُ الكِتاب	book civilization
+حُضُـور	presence
+حفريات	archeology
+حِقْبة	period
+حَقْل	Field / field
+حقل الانتشار	Dispersion field
+حَقْل دلاليّ	Semantic field / semantic field
+حقل سيميائيّ	semiotic field
+حقل مُعجميّ	Lexical field / lexical field
+حقوق المؤلف	royalties; copyright
+حقول لغوية	Linguistic fields
+حقيقـة	verity
+حقيقيّ	truthful
+حكائـيّ	Imitative / narrative fiction
+حِكايـة	tale
+حِكاية خُرافية	fairy tale
+حكاية داخل الحكاية	tale in tale
+حكاية رمزية	fable
+حِكاية شعبية	popular tale
+حكاية شعبية للفُرْسان	Fabliau horswhip
+حكاية شعبية منظومة	fabliau
+حُكْلَة	Anarthria / Dysarthria
+حُكـم	judgment
+حكم الجملة	Sentence status
+حكم الدخول في الشيء	Illative
+حُكْم الصفة الطارئة	Essive
+حُكْم القيمة	Value judjment
+حكم المُشاهد	Observer’s Paradox
+حكم تحليلي ّ	analytical
+حُكْم سيميائي	semantic judjement
+حِكَمية، مثلية	parable
+حكواتي	storyteller
+حكْي ذاتي	autodiegetic
+حلّ الحبكـة	denouement
+حَلْق	Pharynx
+حلقة دراسيّة	workshop
+حَلْقِّي	Pharyngal / Velar
+حَلْقِيَة	Pharyngalisation
+حُلْم	dream
+حَماس	enthusiasm
+حمّام السّيقان	Foot bath
+حَمْل	Predication
+حَمْلِيّ	Predicative
+حَنْجَرَة	Larynx
+حَنْجَرِي	Glottal; t-Glottalling / Guttural / Laryngal
+حَنَكٌ	Palate
+حَنَكِي	Palatal
+حَنَكي نُخْرُوبي، حنكي لثوي	Alveopalatal
+حَنَكِيَات	Palatography
+حَنَكِيَة	Palatogram
+حِـوار	dialogue
+حوار الطرشان	Dialogue of deaf
+حوار داخليّ	Monologue / interior monologue
+حِوَاري	dialogic
+حِوارية	dialogism
+حوسبة	computerization
+حوسبة أدبية	literary computing
+حوليات	annals
+حَيّ	Animate
+حَيِّز	Range
+حَيِّز الاعتماد	Point of articulation
+حيويّة الإثنيّة اللُّغويّة	Ethnolinguistic Vitality

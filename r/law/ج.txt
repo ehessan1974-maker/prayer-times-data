@@ -1,0 +1,106 @@
+جائز الاستئناف، ممكن استئنافه	appealable
+جانب بيئي	Environmental Aspect
+جانح	delinquent
+جاني	Offender
+جبريّ، قسريّ	forced
+جبرية، حتمية	fatalism
+جدارة بالثقة	Trustworthiness
+جدول أسعار	Schedule Of Rates
+جدول أسعار البورصة	stock exchange list
+جدول الأعمال	agenda
+جدول الإنتاج الرئيسي	Master Production Schedule
+جدول التحكم في الإصدار	Version Control Table
+جدول التسعير	Price Schedule
+جدول التسوية	Schedule Levelling
+جدول المدفوعات	Schedule Of Payments
+جدول النشاط	Activity Schedule
+جدول زمني	Level Schedule
+جدوى	Feasibility
+جرائم أصحاب الياقات البيضاء	white-collar crimes
+جرائم الأحداث	youth crimes
+جرائم المس بأمن الدولة	offences against the state
+جرائم حرب	war crimes
+جرائم دولية	international crimes
+جَرْد	MRO Inventory / inventory
+جرد خطوط الأنابيب	Pipeline Inventory
+جرد دورة الحياة	Life Cycle Inventory
+جرف قاريّ	continental shelf
+جَرَّمَ	incriminate
+جريدة (ال..) الرسمية	official gazette
+جريدة رسمية	Official Gazette
+جريمة	Crime / infraction / offence
+جريمة العدوان، جريمة الاعتداء	crime of aggression
+جريمة الكترونية	Cybercrime
+جريمة بيئية	environmental crime
+جريمة سلبية، جريمة الامتناع	crime of omission
+جريمة سياسية	political offence; political crime
+جريمة شكلية	formal crime
+جريمة ضد الإنسانية	crime against humanity
+جريمة ضد شخص	crime against person
+جريمة عابرة للقارات، جريمة عابرة للحدود	transnational crime
+جريمة عادية	ordinary crime
+جريمة عسكرية	military crime
+جريمة عمدية، جريمة قصدية	intentional offence; intentional crime
+جريمة غير عمدية	non-intentional crime
+جريمة غير متلبس بها	non-flagrant crime
+جريمة مادية	material crime
+جريمة مالية	financial crime
+جريمة متلبس بها	flagrant crime
+جريمة مخلة بالأمانة	Crime Impinging on Integrity
+جريمة مخلة بالشرف	Crime Impinging on Honor
+جريمة مركَّبة	complex offence
+جريمة مستحيلة	impossible offence; impossible crime
+جريمة مستمرة	continuous offence; continuous crime
+جريمة معلوماتية	computer crime
+جريمة منظمة	organized crime
+جزء من النظام البيئي	Ecological
+جزاء، مصادقة، تصديق	sanction
+جزاءات إدارية	administrative sanctions
+جزاءات تجارية	commercial sanctions
+جسم الجريمة	corpus delicti
+جلسات اسبريسو	Espresso Sessions
+جلسة	Hearing / sitting
+جلسة (ال..) الأخيرة (في المحكمة)	final court hearing
+جلسة (ال..) الأولى للمحكمة	first court hearing
+جلسة سرية	secret session; closed session; hearing in camera
+جلسة محكمة	hearing
+جلسة، دورة	session
+جمارك	Customs
+جماعات الضغط	Lobby
+جماعات محلية	local authorities
+جماعة الدائنين، كتلة الدائنين	body of creditors
+جماعة ضغط	pressure group; lobby
+جماعية نفسية	Psychological Collectivism
+جمالية	Aesthetics
+جُمْرك	customs
+جمعية	assembly / association
+جمعية استشارية	consultative assembly
+جمعية النفع العام	Public Benefit Association
+جمعية تعاونية	co-operative society
+جمعية عامة (شركة)	general assembly (company)
+جمعية عامة استثنائية، جمعية عامة غير عادية	extraordinary assembly
+جمعية عامة عادية	ordinary assembly
+جمعية غير ربحية	non-profit association
+جمعية منعقدة بكامل هيئتها وأعضائها	plenary assembly
+جمعية وطنية	national assembly
+جُمهورية	republic
+جناية	felony
+جنحة	misdemeanor
+جنرال موتورز	General Motors
+جنسية	nationality
+جنسية أصلية	original nationality
+جنسية الأشخاص المعنوية، جنسية الأشخاص الاعتبارية	nationality of moral persons
+جنسية مكتسَبة	acquired nationality
+جنون السرقة، إدمان على السرقة	kleptomania
+جهاز حكومي	Government Agency
+جهد فكري بذله المبتكر	Creator’s own intellectual effort
+جهوية	regionalism
+جوانكسي	Guanxi
+جودة	quality
+جودة الخدمة	SERVQUAL
+جوهريّ، أساسيّ	substantive
+جيش	army
+جيش الاحتلال	occupation army
+جيش التحرير	liberation army
+جِيل	generation
+جيوسياسية	Geopolitical

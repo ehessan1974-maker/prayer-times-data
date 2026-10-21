@@ -1,0 +1,472 @@
+earthenware	فخّار
+ebonite	إبونيت / مطاط مُقسّى، إيبونيت
+ebulliometer	مقياس الغليان
+ebulliometry	قياس الغليانية / قياس الغليان
+ebullioscope	مكشاف الغليانية / مقياس الغليان
+ebullioscopic constant	ثابتة الغليان
+ebullioscopic measurements	قياسات غليانية
+ebullioscopy	غليانية / قياس الغليان
+ebullition	غليان
+eccentric	خارج المركز
+eclipse	خسوف، كسوف
+eclipsed conformation	تشكيلات مكسوفة، امتثالات مكسوفة / التشكيل الدوراني المخسوف
+ecology	علم البيئة
+ecosystem	نظام بيئي
+ectoenzyme	إنزيم خارجي
+Edeleanu process	طريقة إديليانو
+edge	حافّة / طرف، حافَة (ج.حافَات)
+edge effect	مفعول الحافة
+edible	يؤكل
+edifenphos	إديفنفوس
+effect	تأثير، فعل / مفعول
+effective	مؤثّر، فعّال
+effective area	منطقة فعّالة
+effective molecular diameter	قطر جزيئي فعّال
+effectiveness	فعّاليّة
+effector	مُفعِّل
+efferent	صادر
+effervescence	فوران / فَوَران
+effervescent	فوّار
+efficacity	فعاليّة، نجاعة، كفاءة
+efficiency	نجاعة، جدوى / كفاءة، مردود
+efficient	فعّال
+efflorescence	تَزهُّر / تَزهّر
+effluent	دافق، مصروف
+effort	جُهْد
+effusion	دَفْق، تَدفُّق / انصباب، اندفاق
+egg albumen	زلال البيض، ألبومين
+eigenfunction	دالّة ذاتية
+eigenstate	حالة ذاتية
+eigenvalue	قيمة ذاتية
+einstein	أينشتاين
+einstein equation	معادلة أينشتاين
+einsteinium	أينشتانيوم
+ejection	لفظ، قذف
+ejector	لافظ، قاذف
+elaidic acid	حمض الأليديك
+elaidin	إيلايدين
+elaidin reaction	تفاعل الإيلايدين
+elaidinization	أَلْيَدَة
+elastic	مرن / مَرِن
+elastic collision	تصادم مرن
+elastic deformation	تشوّه مرن
+elastic limit	حدّ المرونة
+elasticity	مرونة
+elastin	ايلاستين
+elastomer	بلمر مرن
+elastomers	ممرنات
+elective culture	زرعٌ اصطفائي
+electric	كهربائي
+electric arc	قوس كهربائي
+electric cell	خليّة كهربائية
+electric charge	شحنة كهربائية
+electric conductivity	موصلية كهربائية
+electric current	تيار كهربائي
+electric dipole	ثنائي قطب كهربائي
+electric dipole moment	عزمُ ثنائيِّ قطبٍ كهربائي
+electric discharge	انفراغ كهربائي (تفريغ)
+electric double layer	طبقة كهربائية ثنائية
+electric moment	عزم كهربائي
+electric oven	فرن كهربائي
+electric potential	كمون كهربائي
+electrical	كهربائي
+electrical conductance	توصيل كهربائي
+electrical conductivity	ناقلية كهربائية
+electro analysis	تحليل كهربائي
+electro-coppering	تنحيس كهربي
+electro-decantation	تصفيق كهربائي، إبانة كهربائية، تصفية كهربائية
+electro-metallurgy	تعدين كهربائي
+electro-negative	كهرسلبي
+electro-osmsis	حلول كهربائي، اسموزية كهربائية
+electro-positive	كهرجابي
+electroaffinity	ألفة كهربائية
+electrocatalysis	حفز كهربائي، وساطة كهربائية
+electrochemical	كيميائي كهربائي / كهركيميائي
+electrochemical cell	خلية كهركيميائية
+electrochemical equivalent	مكافىء كهربائي كيميائي / مكافئ كهركيميائي
+electrochemical potential	كمون كهركيميائي
+electrochemical process	عملية كهركيميائية
+electrochemical serie	سلسلة كهربائية كيميائية
+electrochemical series	السلسلة الكهركيميائية
+electrochemistry	كيمياء كهربائية
+electrochromato-graphy; electrophero-graphy	كروماتوغرافيا كهربائية
+electrode	مسرى، ألكترود / مسرى، إلكترود
+electrode potential	كمون المسرى، جهد القطب، كمون القطب / كمون المسرى
+electrode potentials	كمونات مسرورية، كمونات الكترونية، جهود مسرورية، جهود الكترونية
+electrodeposit	متراكم (متوضّع) كهرلي
+electrodeposition	تراكُم (توضّع) كهربائي
+electrodialysis	فرز غشائي كهربائي، دليزة كهربائية / تحالّ كهربائي
+electrogalvanization	غلفنة (طلاء) كهرلي
+electrogelding	تذهيب كهربائي
+electrogravimetry	تحليل وزني كهربائي / قياس كهرثقلي
+electrokinetic	حركيّة كهربائية
+electrokinetic potential	كمون حركي كهربائي / كمون كهرحركي
+electrolysis	تحليل كهربائي / تحليل كهربائي، كهرلة
+electrolyte	ألكتروليت / كهرل
+electrolyte solutions	محاليل الالكتروليتات
+electrolytic	ألكتروليتي / كهرلي
+electrolytic cell	خلية ألكتروليتية / خلية كهرليّة
+electrolytic conduction	توصيل ألكتروليتي
+electrolytic decomposition	تحلل الكتروليتي
+electrolytic depolarization	منع الاستقطاب الالكتروليتي
+electrolytic dissociation	تفكك ألكتروليتي / تفارق كهرلي
+electrolytic déposit	توضّع ألكتروليتي
+electrolytic parting	فصل ألكتروليتي، إبعاد ألكتروليتي
+electrolytic polarization	استقطاب ألكتروليتي
+electrolytic separation	فصل ألكتروليتي
+electromagnetic	كهرطيسي
+electromagnetic energy	طاقة كهرطيسية، طاقة كهرمغناطيسية
+electromagnetic field	حقل كهرطيسي
+electromagnetic radiation	إشعاع كهرمغناطيسي، إشعاع كهرطيسي / إشعاع كهرطيسي
+electromagnetic spectrum	طيف كهرطيسي، طيف كهرومغناطيسي / طيف كهرطيسي
+electromagnetism	كهرطيسية، كهرمغناطيسية
+electromotive force	قوة محركة كهربائية
+electromotive series	سلسلة محرِّكة كهربائية
+electron	ألكترون / إلكترون
+electron acceptor	متقبّل الكترون / متقبِّل الإلكترون
+electron affinity	ألفة الكترونية / ألفة إلكترونية
+electron beam	حزمة الكترونية، شعاع الكتروني
+electron bonbardment	قصف الكتروني، قذف الكتروني
+electron capture	أسْرُ إلكترونات
+electron cloud	سحابة الكترونية / سحابة إلكترونية
+electron configuration	تشكيلة إلكترونية
+electron delocalization	عدم تموضع الإلكترون
+electron density	كثافة إلكترونية
+electron diffraction	انعراج الإلكترونات
+electron donor	مانح الإلكترون
+electron duplet	زوج الكترونات، زوج الكتروني
+electron emission	إصدار إلكتروني، انبعاث إلكتروني
+electron microscope	مجهر إلكتروني
+electron pair	زوج إلكتروني / زوجان إلكترونيان، ثنائية إلكترونية
+electron shell	طبقة الكترونية / طبقة إلكترونية
+electron spectrum	طيف إلكتروني
+electron spin	سَبين الإلكترون
+electron transition	انتقال إلكتروني
+electron volt (ev)	إلكترون فولط
+electron-ray tube	أنبوب أشعة الكترونية
+electron-volt	ألكترون - فولط
+electronegative	كهرسلبي
+electronegativity	كهرسلبية
+electronegativity sclae (the...)	مقياس السالبية الكهربائية
+electronic configuration	تشكيل الكتروني / تشكيلة إلكترونية
+electronic distribution	توزيع الكتروني
+electronic formula	صيغة الكترونية
+electronic orbits	مدارات الكترونية
+electronic state	حالة إلكترونية
+electronic structure	بنية الكترونية / بُنية إلكترونية
+electronic theory of valency	نظرية التكافؤ الالكترونية، نظرية الكترونية للتكافؤ
+electronickelling	تنكيل كهربائي
+electroosmosis	تناضح كهربائي
+electrophile	شغوف بالألكترونات، ألكتروفيل
+electrophilic	شغوف بالألكترونات، ألكتروفيلي / أليف الإلكترون، إلكتروفيلي
+electrophilic addition	إضافة إلكتروفيلية
+electrophilic displacement	انزياح ألكتروفيلي
+electrophilic reagent	كاشف إلكتروفيلي
+electrophilic substitution	استبدال إلكتروفيلي
+electrophoresis	رحلان كهربائي، رحيل كهربائي / رحلان كهربائي
+electrophoretic effect; drag effect	تأثير الرحلان، تأثير الاستشراد، تأثير السحب
+electrophorous	ألكتروفور
+electroplating	طلاء كهربائي / طِلاء كهربائي
+electropositive	كهرجابي
+electropositivity	كهرجابية
+electroscope	مكشاف كهربائي، ألكتروسكوب
+electrostatic	كهربائي ساكن، كهرساكن / كهراكدي
+electrostatic bond	رابطة كهربائية ساكنة
+electrostatic force	قوة كهراكدة
+electrovalence	تكافؤ كهربائي
+electrovalence bond	رابطة تكافؤية كهربائية، رابطة تكافؤية تشاركية
+electrovalency	تكافؤ كهربائي
+electrovalent bond	رابطة كهربائية
+electrovalent compound	مُرَكَّب أيوني
+element	عنصر
+elementary	عنصري، أولي، بسيط
+elementary analysis	تحليل عنصري
+elementary charge	الشحنة الأولية
+elementary particle	جسيم أولي
+elements (qualitative analysis of)	تحليل نوعي للعناصر، تحليل كيفي للعناصر
+elevation	ارتفاع، رفْع
+elevation of boiling point	ارتفاع نقطة الغليان
+elimination	حذْف
+elimination reaction	تفاعل حذف
+ellipse	قطع ناقص
+elliptical	إهليلجي
+elliptical orbit	مدار إهليلجي
+elongation	استطالة
+eluate	ملاصة / مُنْتَزَع
+elucidation	إيضاح، توضيح
+elude (to)	تَملَّصَ
+elude (v)	يتملّص
+eluent	مُنْتَزِع
+elusion	تملُّص
+elusive	متملِّص
+elute (v)	ينتزع
+elution	تملُّص / انتزاع
+elutriate (v)	يصوِّل، يروّق
+elutriation	ترويق / تصويل
+elutriator	مُروِّق
+emanation	انبعاث، انبثاق / انبعاث
+emerald	زُمرُّد
+emery	صنفرة، سفن / سنبادج، صنفرة
+emigration	هجرة
+emission	إصدار، انبعاث / إصدار، بث
+emission spectrum	طيف الاصدار، طيف الانبعاث / طيف إصدار
+empirical	خِبْرِيّ
+empirical formula	صيغة تجريبية، صيغة أولية / صيغة خِبرية
+empty	فارغ / فارغ، خاوي
+emulsification	استحلاب
+emulsifier	مستحلِب
+emulsifier; emulsifying machine	مُستَحلِبَة
+emulsify (to)	استحلَب
+emulsifying agent	عميل مستحلِب / عميل استحلاب
+emulsion	مستحلَب / مُستحلَب
+emulsion breaking	نقضُ المستحلَب
+emulsion stabilizer	مثبّت المستحلَب
+emulsoid	مستحلباني
+enamel	مينا / ميناء
+enantiomer	مُتصاوغ تَخَايليّ
+enantiomorph	متخايل / متخايل بِلّوري
+enantiomorphism	تماثل الصور / تخايُل بِلَّوري
+enantiomorphy	تخايلية
+enantiotropic	مُتَصاني
+enantiotropy	تَصاني
+encapsulation	تَمَحْفُظ
+end point	نقطة النهاية
+end product	ناتج نهائي، منتج نهائي
+end reaction	تفاعل نهائي، نهاية التفاعل
+end-point	نقطة النهاية، نقطة التعادل
+endergonic	داخليُّ الطاقة
+endergonic reactions	تفاعلات ماصة للحرارة
+endo-	داخلي
+endocrine gland	غدة ذات إفراز داخلي
+endocyclic	داخل الحلقة، داخلي حلقي
+endocytosis	استدخال (التقام) خلوي
+endogenous	داخلي المنشأ
+endopeptidase	ببتيداز داخلي
+endoplasm	بلازما داخلية
+endosmosis	نَضْحٌ داخليّ
+endothermic	ماص للحرارة
+endothermic compound	مركب ماص للحرارة
+endothermic reactions	تفاعلات ماصّة للحرارة
+energetic	طاقي
+energy	طاقة
+energy (activation...)	طاقة تنشيط
+energy (chemical...)	طاقة كيميائية
+energy (ionization...)	طاقة تأين
+energy (kinetic...)	طاقة حركية
+energy (potential...)	طاقة كامنة
+energy conservation	انحفاض طاقة
+energy level	مستوى الطاقة / مستوي الطاقة
+Engler distillation	تقطير
+Engler viscosity	لزوجة
+English degree	درجة إنكليزية
+English vermilion	زِنْجفَر قانٍ
+enol	انول / إينول
+enol-keto tautomerism	صِنْوية إينولية - كيتونية
+enolase	إينولاز
+enolate	إينولات
+enolic	إينولي
+enolization	تأنُول / تَأَنْوُل
+ensemble	مجموعة
+enthalpy	أنتالبية
+enthalpy (D.H)	محتوى حراري، انثالبية
+enthalpy of formation	أنتالبية التكوُّن
+entity	كيان
+entrainment	جرْف
+entrance slit	شقّ الدخول
+entropy	أنتروبيا، أنتروبية / أنتروبية
+entropy of activation	أنتروبيا تنشيط، أنتروبية تنشيط / أنتروبية التنشيط
+environement	بيئة، محيط، وسط
+environment	بيئة، محيط
+enzyme	أنزيم / إنزيم
+enzyme catalysis	حفز أنزيمي، وساطة أنزيمية
+enzyme inhibition	تثبيط الإنزيم
+eosin	أيوسين / إيوزين
+epimer	صنو / صِنو
+epimerase	إبيميراز
+epimerism	اصناء
+epimerization	تصنية
+epinephrine	إبينيفرين
+epithelium	ظِهارة
+epoxidation	أبوكسَدة
+epoxide	إيبوكسيد
+epoxy	إيبوكسي
+epoxy resin	راتين إيبوكسيدي
+epsom salt	ملح إبسوم
+Epson salt	ملح ابسوم، كبريتات المغنسيوم
+equation	معادلة
+equation (chemical...)	معادلة كيميائية
+equation (nuclear...)	معادلة نووية
+equation of state	معادلة حالة
+equatorial	استوائي
+equatorial bonds	روابط استوائية
+equilibium (chemical...)	توازن كيميائي
+equilibre bloking	لجم التوازن
+equilibrium	توازن
+equilibrium constant	ثابت التوازن / ثابتة التوازن
+equilibrium reaction	تفاعل متوازن، تفاعل متزن
+equilibrium state	حالة التوازن
+equimolar	متساوي المولات
+equimolecular	متساوي الجزيئات، مستجزئ
+equimolecular mixture	خليط متساوي الجزيئات
+equipement	تجهيز
+equipment	معدات
+equivalence	تكافؤ
+equivalence point	نقطة التكافؤ
+equivalent	مكافىء / مكافئ
+equivalent (electrochemical...)	مكافىء (ال...) الكهربائي الكيميائي
+equivalent conductance	توصيل مكافىء
+equivalent conductivity	موصلّية مكافئة
+equivalent of acid	مكافىء الحمض
+equivalent of base	مكافىء القاعدة، مكافىء الأساس
+equivalent point	نقطة تكافؤ، نقطة تعادل
+equivalent proportion	نسبة متكافئة
+equivalent solution	محلول مكافىء
+equivalent weight	وزن مكافىء / وزن مكافئ
+erbium	اربيوم / إربيوم
+erg	ارغة / إرغة
+ergosterol	إرغوستيرول
+ergot	إرغوت
+Erlenmeyer	ارلينة، كاس مخروطي
+Erlenmeyer flask	دورق مخروطي، ارلنماير / دورق إرلنماير
+erosion	تحاتّ, تعرية
+error	خطأ
+error (experimental...)	خطأ تجريبي
+erythema	حُمامى
+erythrite	إريتريت
+erythrocyte	كرية حمراء
+erythroid	حَمَراني
+erythrytol	إريتريتول
+escape (to)	هروب
+Escherichia coli	إشريكية قولونية
+essayer	جرّب، عاير، قدّر
+essence	جوهر، روح، عِطْر / عطر، خلاصة
+essential	جوهري، أساسي / جوهري، أساسي، ضروري
+essential amino acid	حمض أميني ضروري
+essential oil	زيت عطري
+ester	استير / إستر
+esterification	أستَرَة / أَسْتَرَة
+esterify (to)	أستَرَ
+estimation	تقدير / تقدير، تخمين، تقييم
+estradiol	إستراديول
+estragol	إستراغول
+estriol	إستريول
+estrogen	إستروجين
+estrone	إسترون
+etchant	مُنَمِّش
+etching	حفْربالحامض، حفْر بالحمض / تنميش
+ethanal	إيتانال
+ethanamide	إيتاناميد
+ethane	إيثان / إيتان
+ethanoic acid	حمض الإيتانويك
+ethanol	إيتانول
+ethanolamine	إيتانولامين
+ethene	إيتِنْ
+ether	إيثر / إيتر
+etherification	أَيْتَرَة
+ethoxyl	إيتوكسيل
+ethyl	إثيل / إيتيل
+ethyl alcohol anydrous; absolute alcohol	غول الأثيل اللامائي، كحول مطلق
+ethylamine	إيتيل الأمين
+ethylate	إيتيلات
+ethylation	أتيلة
+ethylene	اثيلين / إيتيلين
+ethylene glycol	غليكول الإيتيلين
+ethylene oxide	أكسيد الإيتيلين
+ethylenic	إيتيليني
+ethylic	إيتيلي
+ethyne	إيتين
+etiology	علم السببيّات
+eucaryote	حقيقي النواة
+eudiomètre	مِغواز، إيديومتر
+eugenol	أوجينول
+europium	أوروبيوم
+eutectic	تصلدي، يوتكتيكي، أصغري الانصهار / أَصْهَري، أوتكتي
+eutectic change	تغير تصلّدي، تغير يوتكتي
+eutectic mixture	أصغري الانصهار، خليط تصلّد
+eutectic phenomenum	ظاهرة التصلّد، ظاهرة يوتكتية
+eutectic point	نقطة التصلّد، نقطة اليوتيكية / النقطة الأصْهريّة
+eutectic reaction	تفاعل تصلّدي، تفاعل يوتكتي
+eutectic temperature	درجة الحرارة التصلدية، درجة الحرارة اليوتيكية
+eutectoid	شبه تصلّدي، يوتكتيد
+evacuation	إخلاء، إفراغ
+evaluation	تقييم، تقويم / تقييم، تقدير
+evaporating dich	طبق تبخير
+evaporating pan	قِدر تبخير
+evaporation	تبخُّر، تبخير / تبخَّر
+evaporator	مبخِّر / مبخّر
+even molecules	جزيئات زوجية، جزيئات مزدوجة
+even-odd	روجي، فردي، شفع ووتر
+evolution	تطوُّر، نشوء / تطوّر
+exactitude	ضَبْط
+example	مثال
+excess	زيادة
+excessive	مفرط
+exchange	تبادُل / تبادل
+exchange reaction	تفاعل تبادلي / تفاعل تبادل
+exchanger	مبادل
+excitation	تهيُّج، إثارة / إثارة
+excitation energy	طاقة الإثارة
+excite (v)	يُثير
+excited	مهيِّج، مثار
+excited state	حالة مهيَّجة، حالة مثارة / حالة مُثارة
+excitement	إثارة
+exclude (v)	يستبعد
+exclusion principle	مبدأ الاستبعاد
+excrete (v)	يُفْرِغ
+excretion	إفراغ
+exergonic	مُطْلِقُ طاقة
+exergonic reaction	تفاعلات منتجة للحرارة
+exhaust (v)	يستنفد
+exhaustion	استنفاد / إنهاك، استنفاد
+exit	مخرج
+exo-	خارجي
+exoenzyme	إنزيم خارجي
+exosmosis	نَضْحٌ خارجي
+exothermal	ناشرٌ للحرارة
+exothermic	ناشر للحرارة، باعث للحرارة
+exothermic reaction	تفاعل ناشر للحرارة
+exothermic reactions	تفاعلات ناشرة للحرارة
+expand (v)	يتوسّع
+expanded plastic	لدين متوسع
+expansibility	ممدودية، تمددية
+expansible	مدود
+expansion	تمدُّد / تَوَسُّع
+expectation	تَوَقُّع
+experience	خبرة
+experiment	تجربة
+experimental	تجريبي
+experimental basis	قواعد تجريبية
+experimental error	خطأ تجريبي
+experimental method	طريقة تجريبية
+explanation	تفسير، شرح
+explicit	صريح، واضح، ظاهر
+explosion	انفجار
+explosive	متفجر، منفجر / مادة متفجرة، متفجر
+exponent	أس، دليل / أُسّ
+exponential	أُسّي
+expression	عَصْر / تعبير، عَصْر
+extend (v)	يتمدّد، يمدِّد
+extender	مُمدِّد
+extensible	مَدُوْد
+extension	امتداد
+extensive	توسّعي / شمولي، تمدّدي
+extensive property	خاصيّة شمولية
+extent	مدى
+external	خارجي
+extinct (v)	يُطفئ
+extinction	انطفاء
+extinction coefficient	معامل الانطفاء
+extinction; extinguishing	انطفاء، إطفاء
+extinguish (v)	يطفئ
+extinguisher	مطفىء
+extracellular	خارج الخلَيَّة
+extract	مستخلص / خلاصة
+extract (to)	استخلَصَ
+extract (v)	يستخلص
+extractant	مستخلِص
+extraction	استخلاص
+extractor	جهاز استخلاص، مستخلِص / مستخلِص
+extrapolation	استقراء / استقراء خارجي
+extrative distillation	تقطير استخلاصي
+extruder	باثقة
+extrusion	إخراج، إبعاد، طرد / بَثْقٌ

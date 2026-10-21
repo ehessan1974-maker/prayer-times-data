@@ -1,0 +1,911 @@
+ضائقة	distress
+ضائِقَة [ج:ضَوائِق]	distress
+ضائِقَةُ الوَليدِ التَّنَفُّسِيَّةُ المَجْهُوْلَةُ السَّبَب	idiopathic respiratory distress of newborn
+ضائِقَةٌ انْفِعَالِيَّةٌ	emotional distress
+ضائِقَةٌ جَنينِيَّة	fetal distress
+ضَائِقَةٌ نَفْسِيَّة	mental distress
+ضاحِكَة [ج:ضَواحِك]	premolar (bicuspid)
+ضَاحِكَةٌ سُفْلِيَّةٌ أُوْلى	lower first bicuspid / lower first premolar
+ضاحِكَةٌ سُفْلِيَّةٌ ثَانِيَةٌ	lower second bicuspid / lower second premolar
+ضارّ	nocuous (noxious) / noxious
+ضارٌّ بِالإِنْسان	homininoxious
+ضارٌّ بالصِّحَّة؛ غَيْرُ صِحِّيّ	unhealthy
+ضَاغِط	compactor
+ضاغِط (اسْم)	compressor
+ضاغِط (صِفَة)	compressive
+ضاغِطُ الأَبْهَر	aortic compressor
+ضاغِطُ الغُرَز	shot-compressor
+ضاغِطُ الهَواء	air compressor
+ضَاغِطٌ تَرَادُفِيٌّ	tandem compressor
+ضاغِطُ ديشان (للشرايين)	Deschamps' compressor
+ضاغِطُ سيرت (ملقط لضغط الأبهر)	Sehrt's compressor (Sehrt clamp)
+ضاغِطٌ للهَواء	air compressor
+ضاغِطٌ مُطْلِق (ضاغِطُ ميزابَةِ الغُرَزِ الجِراحِيَّة)	shot compressor
+ضاغِطَةُ المَنْخِر (الجُزْءُ المُسْتَعْرِضُ لِلعَضَلَةِ الأَنْفِيَّة)	compressor naris (pars transversa musculi nasalis)
+ضاغِطَةٌ مُدَرَّجَة	compressorium
+ضال	erratic
+ضالِعُ السَّاق (حِصان)	saber-legged
+ضَآلَة	chetivism
+ضَآلَةُ البِنْيَة	microsoma
+ضَآلَةُ الثَّدْي	hypomastia / hypomazia
+ضامّ	conjunctive / connective
+ضامِر	atrophic / atrophied
+ضامَّةٌ مُشَكَّلَة	wrought clasp
+ضأْن أبتَر	tailless sheep
+ضأن، خروف	sheep; mutton
+ضَأْنِيّ	ovine
+ضَبّ (حَيَوانٌ مِنَ الزَّواحِف)	dabb / dabb-lizard
+ضَباب	fog
+ضَباب (خفيف)	haze
+ضَبابِيّ	hazy
+ضَبَابِيَّة	haziness
+ضَبابِيَّةُ الوَعْي	mental fog
+ضَبَطٌ	accuracy / ambidextrality (ambidexterity) / ambidextrism
+ضَبَط (القدرة على استعمال اليدين بنفس المهارة)	ambidexterity
+ضبط تقريبي	adjustment, coarse
+ضبط دقيق	adjustment, fine
+ضَبْط، تنظيم	regulation
+ضَبُوب [ج:ضَبائِب]	aerosol
+ضَبوط	adjustable
+ضَبِّيُّ الشَّكْلِ (شبيهٌ بالزواحف)	sauroid
+ضَجَرٌ بالضَّوْء	photodysphoria
+ضَجْعَةٌ جانِبِيَّة	lateral decubitus
+ضَجَّة ؛ ضَجيج ؛ ضَوضاء	noise
+ضَحِك ؛ قَهْقَهَة	laughter
+ضَحِكٌ ساردونيٌّ ( تَكْشيرَةٌ سَرْدونِيَّة)	sardonic laugh (risus sardonicus)
+ضَحِكٌ كَلْبِيّ ( تَكْشيرَةٌ ساردونية)	canine laugh (risus sardonicus)
+ضَحِكٌ هِسْتيرِيّ	gelasmus (hysterical laughter)
+ضَحْل	shallow
+ضخام	hyperblastosis
+ضخام الأصابع	dactylomegaly
+ضُخام الأطراف	acromegaly
+ضخام الأظافر	hyperonychia = hyperonychosis / hyperonychosis = hyperonychia = onychauxis
+ضخام الأمعاء	enteromegalia = enteromegaly
+ضُخام الثدي	gigantomastia
+ضخام الدماغ	encephalauxe
+ضخام الرأس	cephalonia
+ضُخامُ الرَّأْس (فِي الحَيَوانات)	bighead
+ضُخامُ السَّاق (فِي الخُيول)	bigleg
+ضخام العضلات	hypermyotrophy
+ضُخَام الغدد	hyperadenosis
+ضُخَامُ الفَكّ ( داءُ الشِّعِّيَّاتِ في الماشية)	big jaw (cattle actinomycosis)
+ضُخامُ الفَكّ (فِي الماشِيَة)	bigjaw
+ضخام القلب	cardiomegaly
+ضخام الكَبِد	hepataux = hepatomegaly / hepatauxe = hepatomegaly / hepatomegaly = hepatauxe
+ضخام الكَبِد والكلية	hepatonephromegaly
+ضخام المثانة	cystauxe
+ضخام المرئيات	dysmegalopsia
+ضُخَام المعدة	gastromegaly
+ضُخام اليدين	cheiromegaly
+ضخام عضلة المثانة	cysthypersarcosis
+ضُخام غديّ، ضُخام عُقَديّ	adenomegaly
+ضخام كَبِدي طحالي	hepatosplenomegaly
+ضخام كبدي قلبي	cardiohepatomegaly
+ضخام لساني شِقِّي	hemimacroglossia
+ضَخامَة	enlargement / enlargment / hypertrophia / macrosis
+ضَخامَةُ الأَحْشاء	splanchnomegalia / splanchnomegaly / visceromegaly
+ضَخامَةُ الإِحْليل	megalourethra
+ضَخامَةُ الأُذُن	macrotia
+ضَخامَةُ الأُذَين	atriomegaly
+ضَخامَةُ الأَسْنان	macrodontia / macrodontism / megadontia (macrodontia) / megadontism / megalodontia (macrodontia)
+ضَخامَةُ الأَصابِع	dactylomegaly / giant finger (macrodactyly) / macrodactylia / macrodactyly / megalodactylia / megalodactylism / megalodactyly
+ضَخامَةُ الأَصابِعِ المُلْتَصِقَة	megalosyndactylia / megalosyndactyly
+ضَخامَةُ الأَطْراف	acromegaly / macromelia / megalomelia / megamelia (macromelia)
+ضَخامَةُ الأَظْفار	hyperonychia (onychauxis) / hyperonychosis / macronychia (megalonychia) / macronychosis / megalonychia (macronychia)
+ضَخامَةُ الأَعْضاء ( ضَخامَةُ الأَحْشاء)	organomegaly (visceromegaly)
+ضَخامَةُ الأَعْوَر	typhlomegaly
+ضَخامَةُ الأَقْدام	megalopodia
+ضَخامَةُ الأَقْدام (خاصة في الاطفال)	sciopody
+ضَخامَةُ الأَلْيَة	Hottentot bustle (steatopygia)
+ضَخامَةُ الأَمْعاء	enteromegalia / enteromegaly
+ضَخامَةُ الأَنْف	macrorhinia
+ضَخامَةُ البرُوسْتاتَة	prostatomegaly
+ضَخامَةُ البَظْر	clitoridauxe / clitorimegaly / clitoromegaly / macroclitoris / megaloclitoris (clitoromegaly)
+ضَخامَةُ البَنكرِيَاس	pancreatomegaly
+ضَخامَةُ التَّجْسيم	macrostereognosia
+ضَخامَةُ التَّلافيف	macrogyria
+ضَخامَةُ التَّنَسُّج	macroplasia / macroplastia
+ضَخامَةُ التُّوتَة	megalothymus
+ضَخامَةُ الثَّدْي	barymazia / gigantomastia / mastauxe / megalomastia (macromastia)
+ضَخامَةُ الجِسْم	megasoma (gigantism) / megasomia
+ضَخامَةُ الجِسْمِ و الأَعْضَاءِ التَّنَاسُلِيَّة	macrogenitosomia
+ضَخامَةُ الجَفْن	macroblepharia
+ضَخامَةُ الخُصْيَة	macro-orchidism
+ضَخامَةُ الخَلاَيا	cytomegaly
+ضَخامَةُ الدَّرَقِيَّة	thyromegaly
+ضَخامَةُ الدِّماغ	encephalauxe / macrencephalia / macrencephaly / macroencephaly / megaloencephaly
+ضَخامَةُ الذِّراع	macrobrachia
+ضَخامَةُ الذَّقْن	macrogenia
+ضَخامَةُ الرَّأْس	macrocephalia / macrocephalus / macrocephaly
+ضَخامَةُ الرُّصُغ	tarsomegaly
+ضَخامَةُ الرُّغامَى و القَصَبات	tracheobronchomegaly
+ضَخامَةُ السَّاق	macroscelia
+ضَخامَةُ السَّاقَين	macrocnemia
+ضَخامَةُ السِّينِيّ	macrosigmoid
+ضَخامَةُ الشِّفاه	macrocheilia / macrochilia (macrocheilia) / macrolabia (macrocheilia)
+ضَخامَةُ الطِّحال	hypersplenotrophy (splenomegaly) / megalosplenia (splenomegaly)
+ضَخامَةُ الطحال الملارْيَّة المنشأ	ague-cake spleen
+ضَخامَةُ الظُّفُر	onychauxis
+ضَخامَةُ العَضَلاَتِ الحَقِيْقِيَّة	hypertrophia musculorum vera
+ضَخامَةِ العُقَدِ اللِّمْفِيَّة	lymphadenia
+ضَخامَةُ العُقْدَةِ اللِّمْفِيَّة	lymphadenhypertrophy
+ضَخامَةُ العُنُق ( دُراق)	big neck (goiter)
+ضَخامَةُ الغُدَد	hyperadenosis
+ضَخامَةُ الفَكّ	macrognathia
+ضَخامَةُ القِحْف	macrocrania
+ضَخامَةُ القَدَم	macropodia / pes gigas (macropodia)
+ضَخامَةُ القَرْنِيَّة	keratoglobus (megalocornea) / keratoglobus = megalocornea / macrocornea (megalocornea) / megalocornea
+ضَخامَةُ القَضيب	megalopenis / megalophallus
+ضَخامَةُ القَلْب	enlargement of heart / hypercardia / hypercardiotrophy / macrocardius
+ضَخامَةُ القَناةِ الهَضْمِيَّة	megaloenteron
+ضَخامَةُ القَولون	giant colon (megacolon) / macrocolon (megacolon)
+ضَخامَةُ الكَبِد	hepatomegalia / hepatomegaly / megalohepatia (hepatomegaly)
+ضَخامَةُ الكَبِدِ و الطِّحال	hepatosplenomegaly
+ضَخامَةُ الكُرَيَّاتِ الحُمْر ( كِبَرُ الكُرَيَّات)	megalocytosis (macrocythemia)
+ضَخامَةُ الكُظْر	adrenomegaly
+ضَخامَةُ الكُلْيَة	nephrohypertrophy / nephromegaly / renomegaly
+ضَخامَةُ اللِّثَة	gingival enlargement
+ضَخامَةُ اللِّثَة ( وُرامٌ ليفِيٌّ لِثَوِيّ)	macrogingivae (fibromatosis gingivae)
+ضَخامَةُ اللِّسان	glossauxesis / macroglossia (megaloglossia) / megaloglossia (macroglossia)
+ضَخامَةُ المَثانَة	megalocystis
+ضَخامَةُ المِشْط	metatarsomegaly
+ضَخامَةُ المَعِدَة	gastromegaly / megalogastria
+ضَخامَةُ المُقْلَة	macrophthalmia / macrophthalmous / megalophthalmia / megalophthalmos / megalophthalmus / megophthalmos / ophthalmacrosis (macrophthalmia)
+ضَخامَةُ المَكْتوبات	megalographia (macrography)
+ضَخَامَةُ المِلاَطِ (? فَرْطُ التَّمَلُّط)	cementum hypertrophy
+ضَخامَةُ النَّواة	karyomegaly / meganucleus (macronucleus)
+ضَخامَةُ الوَجْه	macroprosopia
+ضَخامَةُ اليَد	cheiromegaly / chiromegaly
+ضَخامَةُ اليَدَين	macrocheiria / macrochiria (macrocheiria)
+ضَخامَةٌ شَعْرِيَّة	trichomegaly
+ضَخامَةُ شِقِّ الرَّأْسِ	hemimacrocephaly
+ضَخامَةُ شِقِّ اللِّسانِ	hemimacroglossia
+ضَخامَةٌ شِقِّيَّة	hemihypertrophy
+ضَخامَةٌ شِقِّيَّة (خِلْقِيَّة)	hemiacrosomia (congenital hemihypertrophy)
+ضَخامَةٌ شِقِّيَّةٌ وَجْهِيَّة	facial hemihypertrophy
+ضَخامَةٌ طِحالِيَّةٌ كَبِدِيَّة	splenohepatomegalia / splenohepatomegaly
+ضَخامَةٌ عَضَلِيَّة	myohypertrophia / myopachynsis
+ضَخامَةٌ عَضَلِيَّةٌ شَلَلِيَّةٌ تَمَوُّجِيَّة	myohypertrophia kymoparalytica
+ضَخامَةٌ عَضَلِيَّة كَاذِبَةٌ	muscular pseudohypertrophy
+ضَخامَةٌ غُدِّيَّة	adenoncus
+ضَخامَةُ غِمْدِ شفان	schwannitis (schwannosis) / schwannosis
+ضَخامَةٌ قولونِيَّةٌ كاذِبَة	pseudomegacolon
+ضَخامَةٌ كاذِبَة	pseudohypertrophy
+ضَخامَةٌ لِثَوِيَّة	gingival hypertrophy
+ضَخامَةُ مُقَدَّمِ المُقْلَة ( ضَخامَةُ القَرْنِيَّة)	anterior megalophthalmos (megalocornea)
+ضَخامَةٌ نُخامِيَّةُ المَنْشَأ ( ضَخامَةُ النِّهايات)	hypophysomegaly (acromegaly)
+ضَخامَةٌ وِعائِيَّة	angiomegaly
+ضَخامِيّ	hypertrophic
+ضَخامِيٌّ كاذِب	pseudohypertrophic
+ضُخان ( ضَبابٌ وَدُخان)	smog (smoke and fog)
+ضخم	voluminous
+ضَخْمُ الأَبْواغ	megalosporon
+ضَخْمُ الأَحْشاء	macrosplanchnic / megalosplanchnic
+ضَخْمُ الأَسْنان	macrodont / macrodontic / megadontic / megalodont
+ضَخْمُ الأَسْنان (المَنْسَبُ السِّنِّيُّ أَكْثَرُ مِنْ 44)	megadont (macrodont)
+ضَخْمُ الأَصابِع	megadactyl / megalodactylous
+ضَخْمُ الأَطْراف	macromelus
+ضَخْمُ البِنْيَة	macrostructural
+ضَخْمُ الجِسْم	megasome (giant)
+ضَخْمُ الحَجاج (مَنْسَبٌ حَجاجِيٌّ أَكْثَرَ مِنْ 89)	megaseme
+ضَخْمُ الدِّماغ	megaloencephalic
+ضَخْمُ الرَّأْس	macrocephalic / macrocephalous / megacephalic / megacephalous / megalocephalic
+ضَخْمُ العُقَيدات	macronodular
+ضَخْمُ الغُدَد	macradenous
+ضَخْمُ القَدَم	macropodal
+ضِخَم الكظر	adrenomegaly
+ضَخْم المُقْلَة	buphthalmos
+ضَخْم، كِبْرى (سابقة)	macro
+ضَخْمَةُ المُحّ	megalecithal
+ضَخْمَةُ المُحّ (بِيْضَة)	macrolecithal
+ضِدٌّ	antibody
+ضدّ (ال...)، جِسْم مُضاد	antibody
+ضِدّ [ج:أَضْداد]	antibody
+ضِدٌّ أُحادِيُّ التَّكافُؤ	univalent antibody
+ضِدٌّ إِسْوِيّ	isoantibody / isobody (isoantibody, alloantibody) / isoimmune antibody / isophil antibody
+ضِدُّ الـ DNA	anti DNA antibody
+ضِدُّ الأَرسينين	antiarsenin
+ضِدُّ الإِيمَلْسين	antiemulsin
+ضِدُّ التِّرْياق	antiantitoxin
+ضِدُّ الترِيبْسين	antitrypsin
+ضِدُّ الْتِهابِ الكَبِد	hepatitis antibody
+ضِدُّ التوبيركولين	antituberculin
+ضِدُّ الجُسَيماتِ الصَّغيْرَةُ الدَّرَقِيَّة	thyroid microsomal antibody
+ضِدُّ الحالَّةِ العِقْدِيَّة	antistreptolysin
+ضِدُّ الخَلايا الخَيْفِيَّة	allocytophilic antibody
+ضِدُّ الخَلايا المِثْلِيَّة	homocytotropic antibody
+ضِدُّ الدَّرَقِيَّة	thyroid antibody
+ضِدُّ الدَّنا	antibody to DNA
+ضِدُّ الدَّناز	anti-DNase
+ضِدُّ الذَّات	antiself
+ضِدُّ الذِّيْفَان	antitoxin / antitoxinum (antitoxin)
+ضِدُّ السترِبْتُودُورْناز	antistreptodornase
+ضِدُّ السترِبْتُوكِيناز	antistreptokinase
+ضِدُّ الستِيابْسين	antisteapsin
+ضِدُّ الشَّحْمانِيَّات	antilipoid
+ضِدُّ الضِّدّ	antiantibody
+ضِدُّ الغِشاءِ القاعِدِيّ	basement membrane antibody
+ضِدُّ الغِشاءِ القاعِدِيّ (لِلكُبَيباتِ الكُلْوِيَّة)	anti GBM antibody (anti glommerular basement membrane antibody)
+ضِدُّ الغلُوبولين	antiglobulin
+ضِدُّ الغلُوبولينِ الدَّرَقِيّ	thyroglobulin antibody
+ضِدُّ الكُرَيَّاتِ الحُمْر	antierythrocyte
+ضِدُّ الكوتين	anticutin
+ضِدُّ الكيمُوسين	antichymosin
+ضِدُّ الكيناز	antikinase
+ضِدُّ المُتَمِّمَةِ الذَّاتِيّ	autoanticomplement
+ضِدُّ المُحَسِّس	antisensitizer
+ضِدُّ المُسْتَضِدِّ A	anti A antibody
+ضِدُّ المُسْتَضِدِّ B	anti B antibody
+ضِدُّ المُسْتَضِدِّ D	anti D antibody
+ضِدُّ المُسْتضدِّ H	H antibody
+ضِدُّ المُسْتَضِدِّ M	anti M antibody
+ضِدُّ المُسْتَضِدِّ P	anti P antibody
+ضِدُّ المُسْتَضِدِّ Rh	anti Rh antibody
+ضِدُّ المُسْتَضِدِّ S	anti S antibody
+ضِدُّ المُسْتَضِدِّ Vi	Vi antibody
+ضِدُّ المُسْتَضِدّ الجَسَدِيِّ	O antibody
+ضِدُّ المُسْتَضِدِّD	anti-D
+ضِدٌّ أَليفٌ للخَلايا (ضِدٌّ مُوَجِّهٌ لِلخَلايا)	cytophilic antibody (cytotropic antibody)
+ضِدٌّ أَليفٌ للخَلايا الغَيرِيَّة	xenocytophilic antibody (heterocytotropic)
+ضِدُّ اليُورْياز	antiurease
+ضِدٌّ أُمومِيّ	maternal antibody
+ضِدٌّ بِرازِيّ	coproantibody
+ضِدٌّ بَرْدِيّ	cold antibody
+ضِدٌّ تَأَقِيّ	anaphylactic antibody / anaphylactin / anaphylaxin (anaphylactin)
+ضِدٌّ تامّ	complete antibody
+ضِدٌّ تمْنيعيُّ المَنشأ	immune antibody
+ضِدٌّ ثُنائِيُّ التَّكافُؤ	bivalent antibody
+ضِدُّ حالَّةِ الدَّمِ العِقْدِيَّة	antistreptohemolysin (antistreptolysin)
+ضِدُّ حالَّةِ الكُزاز	antitetanolysin
+ضِدٌّ خِلْطِيّ	humoral antibody
+ضِدٌّ خَيْفيّ	alloantibody
+ضِدٌّ خَيْلِيُّ النَّمَط	horse-type antibody
+ضِدٌّ دِفْئِيّ	warm antibody
+ضِدٌّ ذاتِيّ	autoantibody
+ضِدٌّ ذاتِيُّ المَنْشَأ (ضِدُّ الذَّات)	autologous antibody (autoantibody)
+ضِدُّ ذِيْفَانِ الحاطِمَة (ضِدُّ ذِيْفَانِ الوَشيقِيَّة)	perfringent antitoxin (botulism antitoxin)
+ضِدُّ ذِيْفَانِ الخُنَاق	diphtheria antitoxin
+ضِدُّ ذِيْفَانِ العُنْقُودِيَّات	staphylococcus antitoxin
+ضِدُّ ذِيْفَانِ الغنغرينة الغَازِيَّة	gas gangrene antitoxin
+ضِدُّ ذِيْفَانِ الكُزاز	tetanus antitoxin
+ضِدُّ ذِيْفَانِ الكُزازِ و الغنغرينة الغَازِيَّة	tetanus and gas gangrene antitoxin
+ضِدُّ ذِيْفَانِ الوَشيقِيَّة	botulinal antitoxin / botulinum antitoxin / botulinus antitoxin / botulism antitoxin
+ضِدُّ ذِيْفَانٍ بَقَرِيّ	bovine antitoxin
+ضِدُّ ذِيْفَانِ عِقْدِيَّاتِ الحُمَّى القِرْمِزِيَّة	scarlet fever streptococcus antitoxin
+ضِدُّ ذِيْفَانٍ نِظامِيّ	normal antitoxin
+ضِدٌّ راجِن (راجِنَة)	reaginic antibody (reagin)
+ضِدٌّ راصّ	agglutinating antibody
+ضِدٌّ سَامٌّ لِلْخَلاَيَا	cytotoxic antibody
+ضِدٌّ سامٌّ للخَلِيَّة	cytotoxic antibody
+ضِدٌّ طَبيعِيّ	natural antibody
+ضِدٌّ طَهائِيّ	opsonizing antibody
+ضِدٌّ عَطوبٌ بالحَرارَة	heat labile antibody
+ضِدٌّ غَيرويّ	hetero antibody / heteroantibody / heteroligating antibody / heterophile antibody
+ضِدٌّ غَيرِيّ	heterogenetic antibody
+ضِدُّ فاسِرْمان (في الزُهْرِيّ)	Wasserman antibody
+ضِدٌّ قَليلُ الرَّغابَة	nonavid antibody
+ضِدٌّ لاَ مُنْتَظِم	irregular antibody
+ضِدٌّ لاطِئ	sessile antibody
+ضِدٌّ للكُلْيَة	anti kidney antibody
+ضِدٌّ مُتَأَلِّق	fluorescent antibody
+ضِدٌّ مُتَصالِبُ التَّفاعُل	cross-reacting antibody
+ضِدٌّ مُتَعَدِّدُ النَّسَائل	polyclonal antibody
+ضِدٌّ مُتَفَاعِلٌ بالبُرُوْدَة	cold reactive antibody
+ضِدٌّ مُتَفَاعِلٌ بالدِّفْء	warm-reactive antibody
+ضِدٌّ مُثَبَّتٌ بالخَلِيَّة	cell-fixed antibody
+ضِدٌّ مُثَبِّتٌ للمُتَمِّمَة	CF antibody (complement fixing antibody)
+ضِدٌّ مُثَبِّط	inhibiting antibody
+ضِدٌّ مُحَسِّس	sensitizing antibody
+ضِدٌّ مُحَسِّسٌ للجِلْد	skin sensitizing antibody
+ضِدٌّ مُحْصِر	blocking antibody
+ضِدٌّ مُحَصِّن	protective antibody
+ضِدٌّ مُخاطِيّ	mucoantibody
+ضِدٌّ مُراسِب	coprecipitating antibody
+ضِدٌّ مُرْتَبِطٌ بالخَلِيَّة (ضِدٌّ مُثَبَّتٌ بالخَلِيَّة)	cell-bound antibody (cell fixed antibody)
+ضِدٌّ مُرَسِّب	precipitant antibody / precipitating antibody
+ضِدٌّ مُزالُ النَّوعِيَّة	despeciated antibody
+ضِدُّ مُسْتَضِدُّ فُورسْمان	Forssman antibody
+ضِدٌّ مُسْتَعْدِل	neutralizing antibody
+ضِدٌّ مُسْتَوقِف	immobilizing antibody
+ضِدٌّ مُعَدِّل	neutralizing antibody
+ضِدٌّ مُعَزِّز	enhancing antibody
+ضِدٌّ مِلْحِيّ	saline antibody
+ضِدٌّ مُمْتَزٌّ مَناعِيَّا	immunosorbent antibody
+ضِدٌّ مناعِيٌّ ذَاتِيّ	autoimmune antibody
+ضِدٌّ مُوَجِّهٌ لِلْخَلاَيَا	cytotropic antibody
+ضِدٌّ مُوَجَّهٌ للخَلايا (ضِدٌّ أَليفٌ لِلخَلايا)	cytotropic antibody (cytophilic antibody)
+ضِدٌّ مُوَجَّهٌ للخَلايا الغَيرِيَّة	heterocytotropic antibody
+ضِدٌّ مُوَجَّهٌ للشَّحمانِيَّات	lipoidotropic antibody
+ضِدٌّ ناقِص	incomplete antibody
+ضِدٌّ هَجين	hybrid antibody
+ضِدٌّ وَحيدُ النَّسيلَة	monoclonal antibody
+ضَرْب [ج:ضروب] (في تصنيف الأحياء)	variety
+ضَرْبٌ مَصْلِيّ	serovar (serotype)
+ضربات القلب	heart beats
+ضَرَباتٌ مُؤْتَسَرَة	capture beats
+ضَرَباتٌ مُتَبادَلَة	reciprocal beats
+ضَرَباتٌ مُزْدَوِجَة	paired beats
+ضَرَباتٌ هارِبَة	escaped beats
+ضَرْبَة	beat / coup / stroke
+ضَرْبَةُ الأُذَين	atrial beat
+ضَرْبَةُ البَرْق ( الصَّاعِقَة)	lightning stroke
+ضَرْبَةُ الحَرارَة	heat stroke / heatstroke / thermoplegia (heat stroke)
+ضَرْبَةُ السَّوط	coup de fouet
+ضَرْبَةُ السَّيف	en coup de sabre
+ضَرْبَةُ الشَّمْس	calentura (sunstroke) / calenture (sunstroke) / coup de soleil (sunstroke) / heliosis (sunstroke) / ictus solis (sunstroke) / siriasis (sunstroke) / sun stroke / sunstroke
+ضَرْبَةُ الشَّمْسِ الاخْتِنَاقِيَّة	asphyxial insolation
+ضَرْبَةُ الشَّمْسِ بفَرْطِ الحَرارَة	hyperpyrexial insolation
+ضَرْبَةُ الضَّوء	light stroke
+ضَرْبَةُ القَلْب	ictus cordis (heart beat)
+ضَرْبَةُ القِمَّة	apex beat
+ضَرْبَةٌ راجِعَة	back stroke
+ضَرْبَةٌ رُجُوْعِيَّة	retrograde beat
+ضَرْبَةٌ ساقِطَة	dropped beat
+ضربة شمس	heliosis
+ضَرْبَةُ قَسْرِيَّةٌ ( ضَرْبَةٌ مُعْتَمِدَة)	forced beat (dependent beat)
+ضَرْبَةٌ قَلْبِيَّةٌ ؛ دَقَّةٌ قَلْبِيَّة	heartbeat
+ضَرْبَةٌ مُبْتَسَرَة ( انْقِباضَةٌ خارِجَة)	premature beat (extrasystole)
+ضَرْبَةُ مُتَداخِلَة ( ضَرْبَةٌ مُؤْتَسَرَة)	interference beat (capture beat)
+ضَرْبَةُ مُتَوَاَلِفَة ( ضَرْبَةٌ مُنْدَمِجَة)	combination beat (fusion beat)
+ضَرْبَةُ مُزْدِوِجَة	coupled beat
+ضربة مناظرة	contre coup
+ضَرْبَةُ مُنْتَبِذَة	ectopic beat
+ضَرْبَةُ مُنْدَمِجَة	fusion beat
+ضَرْبَةٌ هَدَبِيَّة	ciliary beat
+ضَرَر [ج:أضرار]	damage
+ضِرْس	mylodus
+ضِرْسُ العَقْل	dens sapientiae (wisdom tooth) / dens serotinus NA / lag tooth / wisdom tooth
+ضِرْسُ العَقْل (الرَّحَى الثَّالِثَة)	wisdom tooth
+ضِرْسُ العَقْل السُّفْلِيّ	lower wisdom tooth (lower third molar)
+ضِرْسُ العَقْلِ في الفَكِّ العُلْوِيِّ	maxillary wisdom tooth
+ضِرْسُ العَقْلِ للفَكِّ السُّفْلِيّ	mandibular wisdom tooth
+ضرس طاحنة	molar
+ضِرْسِيٌّ لامِيّ	mylohyoid
+ضَرْع	udder
+ضرعيّ	mammary
+ضَرَّة	antithenar
+ضّرَة (ال...)	hypothenar
+ضَرورَة	necessity
+ضَرورَةٌ صَيدَلاَنِيَّة	pharmaceutic necessity / pharmaceutical necessity
+ضَرُورِيٌّ للحَياة	teleorganic
+ضَزَز	trismus (lockjaw)
+ضَزَزُ المَفْصِل	joint trismus
+ضَزَزُ الوَليد	mocezuelo (trismus neonatorum)
+ضَزَزٌ تَضَيُّقِيّ (الْتِصاقٌ لَثَوِيٌّ وَجْنِيٌّ خِلْقِيّ)	trismus capistratus
+ضَزَزٌ سَرْدوني ( التَّكْشيرَةُ السَّرْدونيَّة)	trismus sardonicus (risus sardonicus)
+ضَزَزٌ عَكْسِيّ (تشنج يمنع غلق الفم)	antitrismus
+ضَزَزٌ كاذِب	pseudotrismus
+ضَزَزٌ مُؤْلِم (أَلَمُ الثُّلاَثِيِّ التَّوائِم)	trismus dolorificus
+ضَزَزٌ هستيريّ	hysterotrismus
+ضَزَزٌ وَليدِيّ	trismus nascentium (trismus neonatorum) / trismus neonatorum
+ضَزَزِيّ	trismic
+ضَعَافَةٌ	debilitation / debility
+ضَعْف	asthenia; weakness / hypodynamia
+ضعف إدراك الزرقة	blue diminished perception
+ضَعْفُ الإِدْراك	imperception
+ضَعْفُ الإِرادَة	hypoboulia / hypobulia
+ضَعْفُ الاسْتِجابَة	inaction
+ضَعْفُ الأَصْواتِ التَّسَمُّعِيَّة	hypophonesis
+ضَعْفُ الإِلْقاحِية	subfecundity
+ضَعْفُ الانْقِباض	hyposystole
+ضَعْفُ الباه	hypaphrodisia
+ضَعْفُ التثبيطِ العَصَبي	hypokolasia
+ضَعْفُ التَّصْويت	hypophonia / subenergetic phonation (hypophonia)
+ضَعْفُ التَّلَوُّن	amblychromasia / chromophobia
+ضَعْفُ التَّنَفُّس	hypopnea
+ضَعْفُ الحَساسِيَّة	dyserethism
+ضَعْفُ الخُصوبَة؛عُقْمٌ نِسْبِيّ	subfertility
+ضَعْفُ الذَّاكِرَة	hypomnesis
+ضَعفُ السَّمَع	amblyacusis / amblykusis / hypacusia (hypoacusis) / hypacusis / hypoacusis
+ضعف الشم	hyposmia
+ضَعْفُ الصَّوت	microphonia (leptophonia)
+ضَعْفُ القَلْب	hypodynamia cordis
+ضَعْفُ القُوَّة	hypasthenia
+ضَعْفُ الكَفاءَة	vitiation
+ضَعْفُ اللَّمْس	amblyaphia (tactile hypoesthesia)
+ضَعْفُ المُنْعَكَسات	hyporeflexia (hyporeflectivity)
+ضَعْفُ النَّبْض	microsphygmia / microsphygmy
+ضعف انقباض القلب	hyposystole
+ضَعْفُ حَاسَّةِ الذَّوْقِ	amblygeustia
+ضَعْفُ حِسِّ الأَلَم	penalgesia
+ضَعْفُ حِسِّ الضَّغْط	barhypesthesia
+ضَعْفُ حِسِّ اللَّمْس	apselaphesia / pseudaphia
+ضَعْفٌ عَضَلِيّ	hypomyosthenia
+ضعف عقلي	amentia
+ضِعفانيّ	diploid
+ضِعْفانِيّ (صبغيات)	diploid
+ضِعْفانِيٌّ ذاتِيُّ التَّضاعُف	autodiploid
+ضِعفانية	diploidy
+ضِعْفانِيَّة (وجود طقمين كاملين من الصبغيات في الخلية)	diploidy
+ضَعْفَة	acratia
+ضَعيف	debile / hypodynamic / weak
+ضَعيفُ الإِرادَة	hypobulic
+ضعيفُ التَّأْريج	hypoallergenic
+ضَعيفُ التَّفاعُلِيَّة	hyporeactive
+ضَعيفُ التَّلَوُّن	amblychromatic
+ضَعيفُ التَّنَفُّس	hypopneic
+ضَعيفُ الحِسّ	dysesthetic
+ضَعيفُ الخُصوبَة	subfertile
+ضَعيفُ الذَّاكِرَة	hypomnesic
+ضَعيفُ الشَّمّ	microsmatic
+ضَغْط	pressure
+ضَغْطُ الإِشْعَاع	radiatoin pressure
+ضَغْطُ الأَفْكار	thought pressure
+ضَغْطُ البُخار	vapor pressure
+ضَغْطُ التَّرْوِيَة	perfusion pressure
+ضَغْطُ الدَّم	blood pressure / hematopiesis (blood pressure)
+ضَغْطُ الدَّمِ السَّوِيّ	orthoarteriotony
+ضَغْطُ الدَّمِ المُنْخَفِض	low blood pressure
+ضَغْطُ السَّائِلِ النُّخاعِيّ	cerebrospinal pressure
+ضَغْطُ الشُّعَيراتِ الرِّئَوِيَّة	pulmonary capillary pressure
+ضَغْطُ العَضّ ( قوة إطباقيَّة)	biting pressure (occlusal force)
+ضَغْطُ المَأْمُونِيَّةِ الأَدْنَى	minimum safety pressure
+ضَغْطُ المَأْمُونِيَّةِ الأَقْصَى	maximum safety pressure
+ضَغْطُ المَجْرَى الهَوائِيّ	airway pressure
+ضَغْطُ المَحْلول	solution pressure
+ضَغْطُ المُقْلَةِ الدَّاخِلِيّ	intraocular tension
+ضَغْطُ النَّبْضَة	pulse pressure
+ضَغْط الهوَاء	air-pressure
+ضَغْطُ الوِداجِي	jugular compression
+ضَغْطُ الوَرَم	oncothlipsis
+ضَغْطُ الوَريدِ البابِيّ	portal pressure / portal venous pressure
+ضَغْطُ الوَريدِ الوِداجِيّ	jugular venous pressure
+ضغط انبساطيّ	diastolic pressure
+ضَغْطٌ إيجابِيّ	positive pressure
+ضَغْطُ بَاطِنِ العَين	intraocular pressure
+ضَغْطٌ تِلْوِيّ	after pressure
+ضَغْطٌ تَناضُحِيّ	osmotic pressure
+ضَغْطٌ جانِبِيّ	lateral stress
+ضَغْطٌ جُزْئِيّ	partial pressure
+ضَغْط جَوِّيّ	atmospheric pressure
+ضَغْطُ دوندرز (زِيادَةُ الضَّغْطِ في رُغامَى المَيَّتِ عَنْدَ فَتْحِ صَدْرِه)	Donders' pressure
+ضَغْطٌ رَاجِعٌ	back pressure
+ضَغْطٌ سَلْبِيّ	negative pressure
+ضَغْطٌ شِصّيّ (إرقاء بالضغط بالكُلابة)	uncipressure
+ضَغْطٌ عالٍ (عالي)	high pressure
+ضَغْطُ لُبِّ الطِّحال	splenic pulp pressure
+ضَغْطٌ مِلْقَطِيّ (ضَغْطٌ بِالمِلْقَط)	forcipressure
+ضَفائِرُ بانيتزا (ضَفائِرُ لِمْفِيَّةٌ فِي القُلْفَة)	Panizza's plexuses
+ضِفْدَع	frog
+ضفدَعيَّات، بَرْمائيَّات	amphibia
+ضَفْرُ الأَمْعاء (توصيل نهايتي المعى المقطوع)	enteroplexy
+ضُفَيْدِعَة	hydroglossa (ranula)
+ضُفَيدِعَةٌ بَنْكِرْياسِيَّة	pancreatic ranula
+ضُفَيدِعِيّ	ranular
+ضفيرة	plexus
+ضَّفيرَةُ (ال...) الإِبْطِيَّة	plexus axillaris
+ضَفِيرَة (ال...) البطْنيّة	celiac plexus
+ضَفِيرَة (ال...) الخَثَلية السُفلىّ	inferior hypogastric plexus
+ضَفِيرَة (ال...) الدَواليّة	pampiniform plexus
+ضفيرة (ال...) الرَحِمية المَهْبِلية	uterovaginal plexus
+ضَفِيرَة (ال...) العَضُديّة	brachial plexus
+ضَفِيرَة (ال...) العَضَلِيّة المِعَوية	myenteric plexus
+ضَفِيرَة (ال...) العُنُقية	cervical plexus
+ضَّفيرَةُ (ال...) الفِقْرِيَّة	vertebral plexus
+ضَفَيرة (ال...) المَسَاريقية	mesenteric plexus
+ضَفِيرَة (ال...) المساريقية السُفلى	inferior mesenteric plexus
+ضَفِيرَة (ال...) المَشِيمائِية	choroid plexus
+ضَّفيرَةُ (ال...) المُعْتَلِيَة	epiplexus
+ضَّفيرَةُ (ال...) الوِعائِيَّة	vascular plexus
+ضَفيرَة [ج:ضَفائِر]	plexus [pl.plexus or plexuses]
+ضَفيرَةُ الأَعْصابِ النُّخاعِيَّة	plexus of spinal nerves
+ضَفيرَةُ الشِّرْيانِ الوَجْهِيّ	plexus of facial artery
+ضَفيرَةُ العَصَبِ النُّخاعِيّ	plexus nervorum spinalium NA
+ضفيرة العضلة المعوية = ضفيرة "أورباخ"	Auerbach's myenteric plexus
+ضَفيرَةُ العُقْدَةِ الهَدَبِيَّة	ciliary ganglionic plexus / plexus gangliosus ciliaris
+ضَفيرَةُ الفَكِّ العُلْوِيِّ	maxillary plexus
+ضَفيرَةُ آورباخ ( الضَّفيرَةُ العَضَلِيَّةُ المِعَوِيَّة)	Auerbach's plexus (plexus myentericus)
+ضَفيرَةُ إيكسنر (الضَّفيرَةُ الجُزَيئِيَّة) (في قشرة المخ)	Exner's plexus (molecular plexus)
+ضَفيرَةٌ تالِيَة	metaplexus
+ضَفيرَةُ ترولارد (القناة الوَريدِيَّةُ تَحْتَ اللِسانِ)	Trolard's plexus (plexus venosus canalis hypoglossi)
+ضَفيرَةُ جاكوبسون ( الضَّفيرَةُ الطَّبْلِيَّة)	Jacobson's plexus (plexus tympanicus)
+ضَفيرَةٌ جَناحِيَّة	pterygoid plexus
+ضَفيرَةٌ جَناحِيَّةٌ وَريدِيَّة	pterygo-plexus (of veins)
+ضَفيرَةُ راشكوف (في الحليمات السنية)	plexus of Raschkow
+ضَفيرِةٌ رَقَبِيَّة	cervical plexus
+ضَفيرَةُ ريماك (الضَّفيرَةُ تَحْتَ المُخاطِيَّة)	Remak's plexus (plexus submucosus)
+ضَفيرَةُ سابي تَحْتَ الهالَة (ضفيرة لمفية تحت حلمة الثدي)	Sappey's subareolar plexus
+ضَفيرَةُ سانتوريني (الضَّفيرَةُ البرُوسْتاتِيَّة)	Santorini's plexus (plexus prostaticus)
+ضَفيرَةُ ستينسين (الضَّفيرَةُ الوَريدِيَّةُ حَولَ القَناةِ النَّكَفِيَّة)	Stensen's plexus
+ضَفيرَةٌ سِنِّيَّة	dental plexus
+ضَفيرَةٌ عَجُزِيَّة	sacral plexus
+ضَفيرَةٌ عَصَبِيَّة	neuroplexus / neuroplexus; nervous plexus
+ضَفيرَةٌ عُقْدِيَّة	ganglioplexus
+ضَفِيرَةٌ قَطَنيّة	lumbar plexus
+ضَفيرَةُ كروفيلييه (الضَّفيرَةُ الرَّقَبِيَّةُ الخَلْفِيَّة)	Cruveilhier's plexus (posterior cervical plexus)
+ضَفيرَةٌ كُلْوِيَّة	renal plexus
+ضَفيرَةُ ليبر (بين الجسم الهدبي والصلبة في العين)	Leber's plexus
+ضَفيرَةُ مايسنر (الضَّفيرَةُ تَحْتَ المُخاطِيَّة)	Meissner's plexus (plexus submucosus)
+ضَفيرَةٌ مُتَوَسِّطَة	intermediate plexus
+ضَفيرَةُ هالَّر (تحت مخاطية الامعاء)	Haller's plexus
+ضَفيرَةُ هوفيوس (في مَشيمِيَّةِ العَين)	Hovius' plexus
+ضَفيرَةٌ وَريدِيَّة	veniplex / veniplex; venous plexus
+ضَفِيرِيّ	plexal
+ضَفِيْرِيُّ الشَّكْل	plexiform
+ضفيرية دوالية	pampiniform plexus
+ضلال العظمة	grandiosity
+ضلال كلبي	cynanthorapia = cynanthropy
+ضلالة	delusion
+ضِلْع	pleurapophysis (rib) / rib
+ضِلْع [ج:أَضْلاَع]	costa NA [pl.costae] / rib
+ضِلْعٌ ثُنائِيِّةُ الرَّأْس	bicipital rib
+ضِلْعٌ جَنْبِيَّة	pleural rib
+ضِلْعٌ رَقَبِيَّة	cervical rib (costa cervicalis) / costa cervicalis NA
+ضِلْعٌ سائِبَة	costa fluctuantis / floating rib
+ضلع ستيلر (ضلع عاشرة شاذة متحركة)	Stiller's rib
+ضلع كاذب	false rib
+ضِلْعٌ كاذِبَة	false rib (costa spuriae)
+ضِلْعٌ مُتَفَرِّعَةٌ	branched rib
+ضِلْعٌ مَشْقوقَة	bifid rib
+ضِلْعٌ مُنْزَلِقَة	slipping rib
+ضِلْعِيّ	costal / costalis NA / pleurapophyseal (costal)
+ضِلْعِيّ (سابقة)	costo
+ضِلْعِيُّ الشَّكْل	costiform
+ضِلْعِيُّ المَنْشَأ	costogenic
+ضِلْعِيٌّ بَطْنِيّ	costoabdominal
+ضِلْعِيٌّ تَرْقُوِيّ	costoclavicular
+ضِلْعِيٌّ جَنَبِيّ	costopleural
+ضِلْعِيٌّ حِجابِيّ	costodiaphragmatic / costophrenic
+ضِلْعِيٌّ رِئَوِيّ	costopulmonary
+ضِلْعِيٌّ رَقَبِيّ	costicervical
+ضِلْعِيٌّ رَهابَوِيّ	costoxiphoid
+ضِلْعِيٌّ سُفْلِيّ	costoinferior
+ضِلْعِيٌّ سِيْسَائِيّ	costispinal
+ضِلْعِيٌّ عَضُدِيّ	costohumeral
+ضِلْعِيٌّ عُلْوِيّ	costosuperior
+ضِلْعِيٌّ غُرابِيّ	costocoracoid
+ضِلْعِيٌّ غُضْروفِيّ	costochondral
+ضِلْعِيٌّ فِقْرِيّ	costocentral (costovertebral) / costovertebral
+ضِلْعِيٌّ قَصِّيّ	costosternal
+ضِلْعِيٌّ قَطَنِيّ	costolumbar
+ضِلْعِيٌّ كَتِفِيّ	costoscapular
+ضِلْعِيّ لَوْحيّ	costoscapular
+ضِلْعِيٌّ مُسْتَعْرِضِيّ	costotransverse / transversocostal (costotransverse)
+ضِلْعِيٌّ مَفْصِلِيّ	costoarticular
+ضِلْعِيٌّ مَنْصِفِيّ	costomediastinal
+ضلل	disorientation
+ضَمَّات [ف:ضَمَّة]	vibriones [sing.vibrio]
+ضَمَّاتٌ غَيْرُ رَاصَّة	NAG vibrios (nonagglutinating vibrios) / nonagglutinating vibrios
+ضَمَّاتٌ مُنْتِنَة ( المِطَثِّيَّاتُ المُنْتِنَة)	vibrion septique (Clostridium septisum)
+ضَمَّاتٌ نَظيرَة الكوليرا	paracholera vibrios
+ضماد	bandage
+ضِمادٌ إِسْتَنْتِيّ (لتثبيت الطعم الجلدي)	stent dressing
+ضِمادٌ إِسْمَنْتِي [أسنان]	cement dressing
+ضِمادٌ إِضافِيّ	superligamen
+ضِمادٌ إِطْباقِيّ	occlusive dressing
+ضِمادٌ بَرافينِيّ	paraffin dressing
+ضِمادٌ بَيُولُوجِيّ	biologic dressing
+ضِمادٌ جافّ	dry dressing
+ضِمادٌ جِراحِيّ	surgical dressing
+ضِمادٌ شَرْنَقِيّ	cocoon dressing
+ضِمادٌ صُلْب	rigid dressing
+ضِمادٌ صَليبِيّ	cross dressing
+ضِمادٌ ضاغِط	pressure dressing
+ضِمادٌ ضَغْطِيّ	pressure dressing
+ضِمادٌ قَناةِ الجَذْر [أسنان]	root canal dressing
+ضِمادٌ لاصِقٌ ماصّ	adhesive absorbent dressing / dressing, adhesive absorbent
+ضِمادُ لِيستر (مشبع بحمض الكاربوليك المطهر)	Lister's dressing
+ضِمادٌ مُثَبَّت (بغرز جراحية)	bolus dressing (tie-over dressing) / tie-over dressing (bolus dressing)
+ضِمادٌ مُثَبَّت (بلاصق)	fixed dressing
+ضِمادٌ مُحَصِّن	protective dressing
+ضِمادٌ مُسِدّ	occlusive dressing
+ضِمادُ مُشَمَّع	cerecloth
+ضِمادٌ مُطَهِّر	antiseptic dressing
+ضماد معقم	dressing, antiseptic
+ضِمادٌ هَوائِيّ (التَّعْريضُ للهَواء)	air dressing
+ضِمادَة	pledget
+ضمادة - رباط	bandage
+ضِمادَةٌ كَتَّانِيَّة	lint
+ضَمَّادة، رِبَاط، عُصابة	bandage
+ضِمام	colligation / glia = neuroglia / gliosis
+ضِمامِيّ	colligative
+ضَمانُ الجودَة	quality assurance
+ضمد	groom; dress
+ضِمْنَ البَشَرَة	endoepidermal
+ضِمْنَ الحَلَقَة [كيمياء]	endocyclic
+ضِمْنَ الرَّحِم	interogestate
+ضِمْنَ الظِّهارَة	endoepithelial
+ضِمْنَ العَصَب	endoneural
+ضِمْنَ النَّسيج	in tela
+ضِمْنَ النَّوع	intraspecies / intraspecific
+ضَمَّة	vibrion
+ضمَّة (ال...)	Vibrio
+ضَمَّة [ج:ضَمَّات]	vibrio [pl.vibrios or vibriones]
+ضَمَّةُ إلْتُور	Vibrio eltor
+ضَمَّةُ الطَّور	El Tor vibrio / Vibrio eltor
+ضَمَّةُ الكُوليرا	cholera vibrio
+ضَمَّةُ الكوليرا الآسيَوِيَّة	Vibrio cholerae-asiaticae
+ضَمَّةُ سيليبيوس ( ضَمَّةُ الطُّور)	Celebes vibrio
+ضَمَّةٌ نَهْرِيَّة	Vibrio fluvialis
+ضَمَّةٌ هَيْضِيَّة	Vibrio cholerae
+ضمة، بكتيريا واوية	vibrio
+ضُمور	atrophia / atrophie / atrophy
+ضُّمور (ال...) الغضروفيّ	chondrodystrophy
+ضُمور (نقص حجم العضو أو الخلية)	atrophia / atrophy
+ضُمورٌ أَبْيَض	atrophie blanche / white atrophy
+ضُمورٌ أَحْمَر	red atrophy
+ضُمورٌ أَزْرَق (في مدمني المخدرات)	blue atrophy
+ضُمورٌ أَسْمَر	brown atrophy
+ضُمورٌ أَسْوَد	atrophie noire / black atrophy
+ضُمورٌ أَصْفَر (في الكبد)	yellow atrophy
+ضُمورٌ أَصْفَرُ تحتَ الحادّ (في الكبد)	subacute yellow atrophy
+ضُمورٌ أَصْفَرُ حادّ (فِي الكَبِد)	acute yellow atrophy
+ضُمورُ الإِرْضاع (ضمور الرحم المصاحب للإرضاع)	lactation atrophy
+ضُمورُ الأَطْراف	melatrophy / micromelia
+ضُمورُ الأَظْفار	atrophia unguium
+ضُمورُ الاعْتِلالِ العَصَبِيّ	neural atrophy (neuropathic atrophy) / neuropathic atrophy / neurotic atrophy (neuropathic atrophy)
+ضُمورُ الاعْتِلالِ العَضَلِيّ	myopathic atrophy
+ضُمورُ الإِنْهاك	exhaustion atrophy
+ضُمورُ التَّشعِيْعِ ( الْتِهابُ الجِلْدِ الإِشْعاعِيّ)	radiation atrophy (radiation dermatitis)
+ضُمورُ التَّلافِيْفِ (المُخِّيَّة)	convolutional atrophy
+ضُمورٌ الْتِهابِيّ	inflammatory atrophy
+ضُمورُ الثَّدْي	mastatrophia / mastatrophy
+ضُمورُ الجِلْد	atrophia cutis / atrophoderma / atrophodermia / dermatrophy
+ضُمورُ الجِلْدِ البُقْعِيّ	anetoderma / atrophia maculosa cutis (anetoderma) / atrophoderma maculatum
+ضُمورُ الجِلْدِ التَّغْذَوِيّ ( لُماعُ الجِلْد)	atrophoderma neuriticum (glossy skin)
+ضُمورُ الجِلْدِ الدُّودِيُّ الشَّكْل ( ضُمورُ الجِلْدِ الشَّبَكِيّ)	atrophodermia vermiculata (atrophoderma reticularis)
+ضُمورُ الجِلْدِ الشَّبَكِيّ	atrophoderma reticularis
+ضُمورُ الجِلْدِ الشَّيخوخِيّ	atrophia cutis senilis / atrophoderma biotripticum / atrophoderma senile
+ضُمورُ الجِلْدِ المَجْهُول السَّبَب	atrophia cutis idiopathica / idiopathic atrophoderma
+ضُمورُ الجِلْدِ المُخَطَّطُ المُبَقَّع	atrophia striata et maculosa
+ضُمورُ الجِلْدِ بحَسَبِ بَازينِي وبَيرينِي	atrophoderma of Pasini and Pierini
+ضُمورُ الخُصْيَة	atrophia testiculi / orchiatrophy / orchidatrophia / orchidatrophy / testicular atrophy
+ضُمورُ الدِّمَاغ	cerebral atrophy / encephalatrophy
+ضُمورُ الدِّماغِ الشَّيخوخِيُّ البَسيط	atrophia cerebri senilis simplex
+ضُمورُ الدِّماغِ المُتَحَدِّد	circumscribed atrophy of brain
+ضُمورُ الرَّبْلَتَين	acnemia
+ضُمورُ الرَّحِم	metratresia / metratrophia
+ضُمورُ الزَّيتونَةِ و الجِسْرِ و المُخَيخ	olivopontocerebellar atrophy
+ضُمُوْرُ السِّنِّ	odontatrophia (odontatrophy) / odontatrophy
+ضُمورُ السِّنْخ	alveolar atrophy
+ضُمورُ الشَّبَكِيَّة	neurodeatrophia / retinal atrophy
+ضُمورُ الطِّحال	splenatrophy
+ضُمورُ الظُّفُر	atrophia unguium / onychatrophia / onychatrophy
+ضُمورُ العَصَبِ البَصَرِيِّ الأَوَّلِيُّ الزُّهْرِيُّ	syphilitic primary optic atrophy
+ضُمورُ العَصَبِ البَصَرِيِّ الزَّرَقِيُّ المَنْشَأ	glaucomatous optic atrophy
+ضُمورُ العَصَبونات	neuronatrophy
+ضُمورُ العَضَل	muscular atrophy
+ضُمورُ العَضَلِ الشَّظَوِيّ	peroneal atrophy
+ضُمورُ العَضَلِ الضَّخَامِيُّ الكاذِب	pseudohypertrophic muscular atrophy
+ضُمورُ العَضَلِ العَصَبِيُّ المَنْشَأ المُتَرَقي	progressive neural muscular atrophy
+ضُمورُ العَضَلِ المُتَرَقي	progressive muscular atrophy
+ضُمورُ العَضَلِ المُتَرَقي النُّخاعِيُّ المَنْشَأ	progressive spinal muscular atrophy
+ضُمورُ العَضَلِ المُتَرَقي بالاعْتِلالِ العَصَبِيّ (ضُمورُ العَضَلِ الشَّظَوِيّ)	progressive neuropathic muscular atrophy (peroneal muscular atrophy)
+ضُمورُ العَضَلِ المَجْهُول السَّبَب (حَثَلٌ عَضَلِيٌّ مُتَرَقٍّ)	idiopathic muscular atrophy (progressive muscular dystrophy)
+ضُمورُ العَضَلِ النُّخاعِيُّ الزُّهْرِيُّ	syphilitic spinal muscular atrophy
+ضُمورُ العَضَلِ النُّخاعِيُّ المَنْشَأ العَائِلِيّ	familial spinal muscular atrophy
+ضُمورُ العَضَلِ باعْتِلالِ النُّخاع	myelopathic muscular atrophy
+ضُمورُ العَضَلِ بحَسَبِ آران-دوشين ( ضُمورُ العَضَلِ النُّخاعِيُّ المَنْشَأ)	Aran-Duchenne muscular atrophy (spinal muscular atrophy)
+ضُمورُ العَضَلِ بحَسَبِ دوشين و آران (ضُمورُ العَضَلِ النُّخاعِيُّ المَنْشَأ)	Duchenne-Aran muscular atrophy (spinal muscular atrophy)
+ضُمورُ العَضَلَةِ الإِقْفارِيّ	ischemic muscular atrophy
+ضُمورُ العَضَلَةِ المُزالَةِ التَّعْصيب	denervated muscle atrophy
+ضُمورُ العِظام ( تَخَلْخُلُ العِظام)	bone atrophy (osteoporosis)
+ضُمورُ العَظْمِ التَّالِي للرَّضْح	post-traumatic atrophy of bone
+ضُمورُ العَين	ophthalmatrophia
+ضُمورُ القُرْصِ البَصَرِيّ	optic atrophy
+ضُمورُ القُرْصِ البَصَرِيِّ الأَوَّلِيُّ	primary optic atrophy
+ضُمورُ القُرْصِ البَصَرِيِّ التَّكَهُّفِيّ	cavernous optic atrophy
+ضُمورُ القُرْصِ البَصَرِيِّ الثانَوِيُّ	secondary optic atrophy
+ضُمورُ القُزَحِيَّةِ المَجهول السبب	essential atrophy of iris / essential iris atrophy
+ضُمورُ القَلْب	cardiac atrophy
+ضُمورُ الكَبِد	hepatatrophia / hepatatrophia = hepatatrophy / hepatatrophy / hepatatrophy = hepatatrophia / hepatodystrophy
+ضُمورُ الكَبِدِ الزُّراقِيّ	cyanotic atrophy of liver
+ضُمورُ الكَتِفِ و العَضُد	scapulohumeral atrophy
+ضُمورُ الكُرَةِ الشَّاحِبَة	pallidal atrophy
+ضُمورُ الكُلْيَة	renal atrophy
+ضُمورُ الكُلْيَةِ الحُبَيبِيّ	granular atrophy of kidney
+ضُمورُ اللُّبِّ (السِّنِّي)	pulp atrophy
+ضُمورُ اللِّثَة	gingival atrophy / ulatrophy
+ضُمُورُ اللِّثَة (اِنْحِسَارُ اللِّثَة)	ulatrophia (gingival recession)
+ضُمورُ اللِّثَةِ الإِقْفارِيّ	ischemic ulatrophy
+ضُمورُ اللِّثَةِ الحَصَوِيّ	calcic ulatrophy
+ضُمورُ اللِّثَةِ الرَّضْحِيّ	traumatic ulatrophy
+ضُمورُ اللِّثَةِ الضُّمورِيّ	atrophic ulatrophy
+ضُمورُ اللِّثَةِ اللاوَظيفِيّ	afunctional ulatrophy
+ضُمورُ المَثانَة	cystatrophia
+ضُمورُ المَشيمِيَّةِ المُتَرَقِّي	progressive choroidal atrophy
+ضُمورُ المَشيمِيَّةِ و الشَّبَكِيَّة	atrophia choroideae et retinae
+ضُمورُ المَشيمِيَّةِ و الشَّبَكِيَّةِ التَّلْفيفِيّ	gyrate atrophy of choroid and retina
+ضُمورُ المَشِيْمِيَّةِ و الشَّبَكِيَّةِ حَولَ الحُلَيْمَة	circumpapillary chorioretinal atrophy
+ضُمورُ المَعِدَة	gastric atrophy
+ضُمورُ المُقْلَة	atrophia bulbi
+ضُمورُ المُقْلَةِ الوِراثِيّ	atrophia bulborum hereditaria
+ضُمُورُ النُّخاع	amyelotrophy / myelatrophy
+ضُمورُ النُّخاع ( التَّابِسُ الظَّهْرِيّ)	myelanalosis (tabes dorsalis)
+ضُمورُ الوَجْه	facial atrophy
+ضُمورُ الوَلِيْدِ بحَسَبِ باروت (سَغَل)	Parrot's atrophy of the newborn (marasmus)
+ضُمورٌ انْضِغاطِيّ	compression atrophy / pressure atrophy
+ضُمورٌ بَاثولوجيّ	pathologic atrophy
+ضُمورٌ بإِعاضَةِ الدُّهْن	fat replacement atrophy
+ضُمورٌ باعْتِلالِ العَصَبِ المُغَذِّي	trophoneurotic atrophy
+ضُمورٌ بَسيط	simple atrophy
+ضُمُوْرٌ بَصَرِيٌّ	optic atrophy
+ضُمورُ بِطانَةِ الرَّحِم	endometrial atrophy
+ضُمورٌ بنَقْصِ العَدَد	numeric atrophy
+ضُمورٌ تالٍ للإِياس	postmenopausal atrophy
+ضُمورُ تَحْتِ اللِّسانِ (ضُمورُ نِصْفِ اللِّسان)	hypoglossal atrophy (hemilingual atrophy)
+ضُمورٌ تَرابُطِيّ	correlated atrophy
+ضُمورٌ تَسَمُّمِيّ	toxic atrophy
+ضُمورٌ تَغْذَوِيٌّ عَصَبِيّ	neurotrophic atrophy
+ضُمورٌ تَلَيُّفِيّ	fibroatrophy
+ضُمورٌ تَنَكُّسِيّ	degenerative atrophy
+ضُمورٌ جِلْدِيٌّ عَصَبِيُّ المَنْشَأ	neurodermatrophia
+ضُمورٌ جِلْدِيٌّ كاذِبٌ في العُنُق	pseudoatrophoderma colli
+ضُمُوْرٌ خَطِّيٌّ (خُطُوطٌ ضُمورِيَّة)	linear atrophy (striae atrophicae)
+ضُمورٌ خِلالِيّ	interstitial atrophy
+ضُمورٌ دِمَاغِيّ	phrenatrophia (cerebral atrophy)
+ضُمورٌ دُهْنِيّ	fatty atrophy
+ضُمورُ دَوَاعِمِ السِّنّ	periodontal atrophy
+ضُمورٌ رُجوعِيّ (كَشَم)	reversionary atrophy (anaplasia)
+ضُمورٌ رَضْحِيّ	traumatic atrophy
+ضُمورٌ روماتزمي	rheumatic atrophy
+ضُمورٌ زَيتونِيٌّ جِسْرِيٌّ مُخَيخِيّ	olivopontocerebellar atrophy
+ضُمورٌ سِنْجابِيّ (في العصب البصري)	gray atrophy
+ضُمُورٌ سِنْخِيّ	alveolar atrophy
+ضُمورُ سوديك (تَخَلْخُلُ العِظامِ التَّالي لِلرَّضْح)	Sudeck's atrophy (post-traumatic osteoporosis)
+ضُمورٌ شامِل	panatrophy / pantatrophia / pantatrophy
+ضُمورٌ شَبَكِيّ	reticular atrophy
+ضُمُورٌ شَحْمِيّ	adipositas ex vacuo / lipoatrophy
+ضُمُوْرٌ شَحْمِيٌّ مُتَحَدِّد	circumscribed lipoatrophy
+ضُمورٌ شِقِّيّ	hemiatrophy
+ضُمورٌ شِقِّيٌّ قِحْفِيّ	cranial hemiatrophy
+ضُمورٌ شِقِّيٌّ لِسانِيٌّ مُتَرَقٍّ (مُتَرَقِّي)	progressive lingual hemiatrophy
+ضُمورٌ شِقِّيٌّ وَجْهِيّ	facial hemiatrophy
+ضُمورٌ شَيخوخِيّ	atrophia senilis / senile atrophy
+ضُمورٌ صَمَّاوِيُّ المَنْشَأ	endocrine atrophy
+ضُمورٌ طُفولِيّ (سَغَل)	infantile atrophy (marasmus)
+ضُمورٌ عامّ	general atrophy
+ضُمورُ عَدَمِ الاسْتِعْمال	disuse atrophy
+ضُمورُ عَدَمِ الفَعاليَّة ( ضُمورُ عَدَمِ الاسْتِعْمال)	inactivity atrophy (disuse atrophy)
+ضُمورٌ عَصَبِيّ	neuratrophia / neuratrophy
+ضُمورٌ عَصَبِيُّ المَنْشَأ	neurogenic atrophy
+ضُمورُ عَضَلِ الوَجْهِ و الكَتِفِ و العَضُد	facioscapulohumeral muscular atrophy
+ضُمورٌ عَضَلِيّ	amyotrophia (amyotrophy) / amyotrophy / myatrophy (myotrophy) / myoatrophy
+ضُمُورٌ عَضَلِيٌّ بَدْئِيٌّ مُتَرَقٍ (حَثَلٌ عَضَلِيّ)	primary progressive amyotrophy (muscular dystrophy)
+ضُمورٌ عَضَلِيٌّ سُكَّرِيّ	diabetic amyotrophy
+ضُمورٌ عَضَلِيٌّ عَصَبِيُّ المَنْشَأ (اعْتِلالُ الأَطْرافِ بِضُمُورِ العَضَل)	neural amyotrophy (amyotrophic acropathy)
+ضُمورٌ عَضَلِيٌّ مُؤْلِم	neuralgic amyotrophia
+ضُمورٌ عَضَلِيٌّ مُؤْلِم (مُتَلازِمَةُ الحِزامِ الكَتِفِيّ)	neuralgic amyotrophy (shoulder girdle syndrome)
+ضُمُورٌ عَضَلِيٌّ مُتَرَقٍ نُخاعِيُّ المَنشَأ	amyotrophia spinalis progressiva
+ضُمورٌ عَضَلِيٌّ نُخاعِيُّ المَنْشَأ	spinal muscular atrophy
+ضُمورٌ عَضَلِيٌّ نُخاعِيُّ المَنْشَأ مُتَرَقٍ	progressive spinal amyotrophy
+ضُمورٌ عَضَلِيٌّ نَوَوِيٌّ مُتَرَقٍ	progressive nuclear amyotrophy
+ضُمورٌ عَضَلِيٌّ يَفْعِيّ (حَثَلٌ عَضَلِيٌّ ضَخامِيٌّ كاذِب)	juvenile muscular atrophy (pseudohypertrophic muscular dystrophy)
+ضُمورٌ غَرَوانِيّ	colloid atrophy
+ضُمورٌ فَصِّيّ (فِي الدِّماغ)	lobar atrophy
+ضُمورٌ فِيزْيولوجِيّ	physiologic atrophy
+ضُمورٌ قافِز	leaping atrophy
+ضُمورٌ قُفَّازِيّ	gauntlet atrophy
+ضُمورٌ كَمِّيّ ( ضُمورٌ بَسيط)	quantitative atrophy (simple atrophy)
+ضُمورٌ كَهْلِيّ	presenile atrophy
+ضُمورٌ كَيفِيّ (تَنَكُّس)	qualitative atrophy (degeneration)
+ضُمورٌ لِثَوِيّ	gingival atrophy
+ضُمورٌ لِثَوِيٌّ شَيخوخِيّ	gingival senile atrophy
+ضُمورٌ لِثَوِيٌّ كَهْلِيّ	gingival presenile atrophy
+ضُمورُ ليبَر البَصَرِيّ	Leber's optic atrophy
+ضمور ليفي	fibroatrophy
+ضُمورٌ مُتَراكِز	concentric atrophy
+ضُمورٌ مُصْطَبِغ	pigmentary atrophy
+ضُمورٌ مَصْلِيّ (ضمور يحل فيه المصل محل الدهن في الحالات الشديدة من عوز التغذية)	serous atrophy
+ضُمورٌ مُعاوِض	compensatory atrophy
+ضُمورٌ مَفْصِلِيّ	arthritic atrophy
+ضُمُوْرٌ مَنْكِبِيّ (في الخيل)	sweeny
+ضُمورٌ نَاجِمٌ عَن القَيْء	emetatrophia
+ضُمورٌ نُخاعِيٌّ جِسْرِيّ	spinopontine atrophy
+ضُمورُ نِصْفِ اللِّسان	hemilingual atrophy
+ضُمورُ نِصْفِ الوَجْه	facial hemiatrophy / hemifacial atrophy / unilateral facial atrophy
+ضُمورُ نِصْفِ الوَجْهِ المُتَرَقِّي	progressive unilateral facial atrophy
+ضمور وجهي شِقّي	hemiatrophy, facial
+ضُمورٌ وَجْهِيٌّ نِصْفِيٌّ	prosopodysmorphia (facial hemiatrophy)
+ضُمورٌ وِعائِيُّ المَنْشَأ	vascular atrophy
+ضُمورِيّ	atrophic
+ضَنَى الجمجمة	craniotabes
+ضَهَى ؛ انقطاع الحَيض	amenia (amenorrhea) / amenorrhea
+ضَهَى اخْتِلالِ الوَزْن	dysponderal amenorrhea
+ضَهَى الإِرْضاع	lactation amenorrhea
+ضَهَى أَوَّلِيّ	primary amenorrhea
+ضَهَى تَغْذَوِيٌّ	dietary amenorrhea (nutritional amenorrhea) / nutritional amenorrhea
+ضَهَى ثانَوِيّ	secondary amenorrhea
+ضَهَى رَضْحِيّ	traumatic amenorrhea
+ضَهَى سابِقٌ للإِياس	premenopausal amenorrhea
+ضَهَى صَمَّاوِيّ	endocrinopathic amenorrhea
+ضَهَى فِيزْيُولُوجِيّ	physiologic amenorrhea
+ضَهَى كاذِب	pseudoamenorrhea
+ضَهَىً لاحَيضِيّ	emansio mensium
+ضَهَى مَبيضِيّ المَنْشأ	ovarian amenorrhea
+ضَهَى مَرَضِيّ	pathologic amenorrhea
+ضَهَى نُخامِيُّ المَنْشأ	pituitary amenorrhea
+ضَهَى نِسْبِيّ	relative amenorrhea
+ضَهَى وِطائِيّ المَنْشأ	hypothalamic amenorrhea
+ضوء	light
+ضَوْءٌ أَبْيَض	white light
+ضَوْءٌ أُحادِيُّ اللَّون	monochromatic light
+ضَوءُ الأَمانِ في الفلم الشُّعاعِيّ	x-ray safelight
+ضَوْءُ النِّيُون	neon light
+ضَوْءٌ أَلْيافِيّ	fiberoptic light
+ضَوْءٌ أَلْيافِيٌّ سِنِّيّ	fiberoptic dental light
+ضَوْءٌ بَارِد	cold light
+ضَوْءُ تِنْدال	Tyndall light
+ضَوْءٌ دَاخِلِيٌّ	intrinsic light
+ضَوءٌ سافِع	actinic light
+ضَوْءُ سيمْبسُون	Simpson light
+ضَوْءٌ شَبَكِيٌّ دَاخِلِيٌّ	idioretinal light (intrinsic light)
+ضَوْءُ فينْسين	Finsen light
+ضَوْءٌ قَوْسِيّ	arc light
+ضَوْءُ لانديكر-شتاينبرغ	Landeker-Steinberg light
+ضَوْءٌ مائِل	oblique light
+ضَوءٌ مارِق	transmitted light
+ضَوءٌ مَأْمون	safe light
+ضَوْءٌ مُتَرَابِط	coherent light
+ضَوْءٌ مِحْوَرِيّ	axial light
+ضَوْءٌ مَرْكَزيّ ( ضَوْءٌ مِحْوَرِيّ)	central light (axial light)
+ضَوْءٌ مُسْتَقْطَب	polarized light
+ضَوْءٌ مُنْتَشِر	diffused light
+ضَوْءٌ مُنْعَكِس	reflected light
+ضَوْءٌ مُنْكَسِر	refracted light
+ضَوْءُ مينين	Minin light
+ضَوْءُ وُود	Wood's light
+ضَوئِيّ	light / photic
+ضَوئِيُّ التَغَذِّي	phototrophic
+ضَوئِيٌّ مُميت	photolethal
+ضَوئِيٌّ وَغَيرِيُّ التَغَذِّي	photoheterotroph
+ضُواء (إحساس إبصاري شخصاني)	phose
+ضُواءٌ أَحْمَر (إحساس باللون الأحمر)	erythrophose
+ضُواءٌ أَزْرَق	cyanophose
+ضُوَاءٌ أَصْفَر	xanthophose
+ضُواءٌ بَنَفْسَجِيّ	ionophose
+ضُواءٌ صَوتِيّ	phonopsia
+ضُواءٌ عَينِيّ	antrophose
+ضُواءٌ لَونِيّ	chromophose
+ضُواءٌ مُحيطِيُّ المَنْشَأ	peripherophose
+ضُواءٌ مَرْكَزِيُّ التَّنْبيه	centrophose
+ضُواءٌ نيلِيّ	indicophose
+ضُوائِيَّة (حسٌّ ضوئي أو لوني مواكب لمنبهات غير إبصارية)	photism
+ضواحك	premolars
+ضواحك (ال...)	premolars
+ضَوْأومي (متعلق بتَغَيُّرِ المُقاوَمَةِ الكَهربيَّةِ بفِعلِ الضِّوء)	photohmic
+ضَوْضَاء	strepitus
+ضَوْهنري (متعلق بتَغَيُّرِ المُقاوَمَةِ الكَهربيَّةِ بفِعلِ الضِّوء)	photohenric
+ضَيَاعُ سَوَائِلِ الدَّم	exemia
+ضَيِّق	coarctation / narrow
+ضِيْقُ الأَسْنان	stenodont
+ضيق الشرايين	hemadostenosis
+ضَيِّقُ الصَّدْر	stenothorax
+ضِيْقُ الصُّدْغَين	stenocrotaphia / stenocrotaphy
+ضَيِّقُ الفَتْحَة	stenopeic
+ضيق الفرج	episiostenosis
+ضيقُ الفَكِّ العُلْوِيّ	brachyuranic
+ضِيْقُ الفَم	stenostomia
+ضيقُ القُنَيَّةِ الدَّمْعِيَّة	dacryostenosis
+ضَيِّقُ المَجَالِ الحَرَارِيّ	stenothermal / stenothermic
+ضَيِّقُ النَّفَس	dyspneic / short-winded / shortness of breath / suppressed breathing
+ضِيقُ النَّفَسِ الاضْطِجاعِيّ	orthopnea
+ضيقُ النَّفَسِ الاضْطِجاعِيُّ السِّمَنِيّ	pimelorthopnea / piorthopnea
+ضِيقُ النَّفَسِ الاضْطِجاعِيُّ يَتَحَسَّنُ بوِسادَتَين	two-pillow orthopnea
+ضيقُ النَّفَسِ الاِنْتِصابِيّ	orthostatic dyspnea (platypnea)
+ضيقُ النَّفَسِ الانْتِيابِيّ	paroxysmal dyspnea
+ضيقُ النَّفَسِ التَّنَهُّدِيّ	sighing dyspnea
+ضيقُ النَّفَسِ الجُهْدِيّ	exertional dyspnea
+ضيقُ النَّفَسِ الزَّفيرِيّ	expiratory dyspnea
+ضيقُ النَّفَسِ الشَّهيقِيّ	inspiratory dyspnea
+ضيقُ النَّفَسِ العُصابِيّ	dyspnoeneurosis
+ضيقُ النَّفَسِ القَلْبِيُّ المَنْشَأ	cardiac dyspnea
+ضِيْقُ النَّفَسِ القِيامِيّ	platypnea
+ضيقُ النَّفَسِ الكُلْوِيُّ المَنْشَأ	renal dyspnea
+ضيقُ النَّفَسِ اللَّيلِيّ	nocturnal dyspnea
+ضيقُ النَّفَسِ اللَّيلِيُّ الانْتِيابِيّ	paroxysmal nocturnal dyspnea
+ضيقُ النَّفَسِ النَّاجِمُ عن عَدَمِ تَوَسُّعِ الصَّدْر	nonexpansional dyspnea
+ضيقُ النَّفَسِ النُّفاخِيّ	pneumatodyspnea
+ضيقُ النَّفَسِ الوَظيفِيّ	functional dyspnea
+ضيقُ النَّفَس؛زُلَّة	dyspnea (dyspnoia)
+ضَيِّقُ الهامَة	stenobregmatic
+ضيق فتحة العين	blepharostenosis
+ضيقُ نَفَسِ السَّمين	liparodyspnea
+ضِيْقَة	narrowing
+ضِيْقَةُ الحالِبِ الحَرْقَفِيَّة	iliac narrowing of ureter
+ضِيْقَةُ المَريءِ الأَبْهَرِيَّة	aortic narrowing of esophagus
+ضِيْقَةُ المَريءِ الحِجابِيَّة	diaphragmatic narrowing of esophagus
+ضِيْقَةُ المَريءِ الحَلَقِيَّةُ	cricoid narrowing of esophagus
+ضِيْقَةُ المَريءِ القَصَبِيَّة	bronchial narrowing of esophagus
+ضِيْقَةُ المَريءِ القَّصِّيَّة	sternal narrowing of esophagus
+ضِيْقَةُ المَريءِ القَلْبِيَّة	cardiac narrowing of esophagus

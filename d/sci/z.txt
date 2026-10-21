@@ -1,0 +1,329 @@
+z axis	المِحْوَرُ z (مِحْوَرُ الصَّادات، مِحْوَرُ الرَّواقِم)
+Z chromosome	صبغيّ Z
+z component	المُرَكِّبة z (المُرَكِّبةُ الصَّادِيَّة)
+z coordinate	الإحْداثِيّ z (الإحْداثِيّ الصَّادِيّ)
+Z intercept	محصورة ع
+Z-axis	المِحورُ العَيْنِيّ؛ المِحْوَرُ الرأسيّ (في مَركبَةٍ فَضائيَّة) / محور z (محور الصادات) / محور عيني / محور العينات
+Z-bar (or zee bar)	قَضيبٌ مَقْطَعُهُ على شكل (Z)
+Z-bit	لُقْمَةُ حَفْر على شكل (Z)
+Z-buffer	مخزن مؤقت مرتب
+Z-co-ordinate	احداث ع
+Z-cut crystal	بلّورة عينيّة القَطْع
+Z-DNA	دنا Z
+z-fold paper	ورق مثقب [على الجانبين]
+Z-meter	مِقياسُ المُعاوَقة
+z-score	العَلامة-z
+z-test	الاخْتِبارُ z
+z-transform	المُحَوِّلُ z
+Z39.50 standard	مِقْيَس Z39.50
+Z80	[معالج] Z80
+zanthium	زنشيوم
+zap	1 يُتلف ؛ 2 يُتلف
+zaratite	زاراتيْت، زَهْرُ النِّيكل
+zauschneria	زوخانرية
+zax = slate axe	فَأْسُ ألواحِ الأُردواز
+zeal	حَماسَة
+zealous	مُتَحَمِّس
+zebra	حمار الوحش
+zebra dolomite	دُولوميتٌ مُجَزَّع
+zebrawood	خَشَبٌ مُجَزَّع، خَشَبٌ مُخَطَّط
+zebu	درباني
+Zeckendorf's theorem	مُبَرْهَنةُ زِكِنْدورف
+zed bar = zee bar	قَضيب مَقْطَعُهُ على شكل (Z)
+zedoary	جدوار
+Zeeman effect	ظاهِرَة «زِيْمان»
+zelkowa	زلقوة
+Zener breakdown	اِنهِيارُ «زِنَر»
+Zener current	تَيّار «زِنَر»
+Zener effect	ظاهِرةُ «زِنَر»
+zener or (Zener diode)	زِنَر، صِمامُ «زِنَر» الثُّنائِيّ
+Zener voltage	ڤلْطِيَّةُ «زِنَر»
+zenith	سَمْت، أوْج، ذِرْوَة؛ سَمْتُ الرأس / سمت / سَمْت
+zenith (the)	سمت (ال...)، سمت الرأس
+zenith camera	آلة تصوير السمت
+zenith distance	بُعْدٌ سَمْتِيّ / مسافة سمتية / بعد سمتي
+zenith telescope	تِلِسكُوب سَمْتِيّ، مِقرابٌ سَمْتِيّ
+zenith(al) angle	زاوِيَة سَمْتِيّة
+zenithal	سمتي
+zenithal equal-area projection	المسقطُ السَّمْتِيّ المُتَساوي المساحات
+zenithal equidistant projection	المَسْقَط السّمتِيّ المُتساوي الأبعاد
+zenithal projection	المسقطُ السَّمتيّ / اسقاط سمتي
+Zeno's paradox	مُحًيِّرةُ زينو
+zenobia	زينوبيا
+Zeno’s paradoxes	مُفَارَقاتُ «زِينو»
+zenthal point	نقطة السمت
+zeolite	زِيُوليت / زيوليت
+zeolite process	طريقةُ الزيُوليت
+zeolite treatment	مُعالجة (الماءِ العَسِر) بالزيُوليت
+zeolite water softener	جهازُ تَيْسير الماء بالزّيُوليت
+zeolitic	زيوليتي
+zeolitization	زَيْلَتَة / زيتلة
+zephyr	الرِّياح الغربيَّة؛ رُخاء، نَسيمٌ عليل
+zeppelin	مُنطادٌ كبير، مُنطادُ «زِپْلِن»
+zero	صِفْر؛ درجةُ الصِّفر؛ ضَبَطَ (أو عَيَّنَ) نُقْطَة الصِّفْر؛ مَحا (المعطيات) مِن الذاكِرة / يُصْفِر / صِفْر / صفر
+zero - G	الجاذبية الصفر
+zero adjustment	ضَبْطُ قراءة الصِّفر (في جهاز القياس)
+zero allowance	تَسامُح صِفْرِيّ، تسامُح مَعدوم
+zero angle	زاويةٌ صِفْرِيَّة / زاوية صفرية
+zero beat	اِنعِدام الضَّربات (عند تساوي التردُّدَيْن)
+zero bias	اِنحيازٌ صِفريّ
+Zero Bits	بتّات ذات قيم صفرية
+zero boost	اِنعِدام الضغط المُعَزِّز
+zero carrier	اِنعِدامُ المَوجَة الحامِلَة
+zero ceiling and visibility	اِنعِدامُ الارتِفاع والرُّؤية
+Zero Configuration Wireless	تجهيزات لاسلكية لا تحتاج إلى تشكيل
+zero current	اِنعِدامُ التيّار؛ تيّارٌ مَرجعيٌّ أدنى
+Zero Data Retention (ZDR)	عدم الاحتفاظ بالبيانات
+zero deflection	اِنعِدامُ الانحِراف، اِنحِرافٌ صِفْرِيّ
+zero divide	تقسيم على صفر
+zero divisors	قَواسِمُ للصِّفْر
+zero Doppler line	خط صفر دوبلر
+zero element	عنصر الصفر
+zero elevation	اِنعِدامُ الارتفاع؛ أُفُقِيّ
+zero energy	طاقةٌ صِفريّة، اِنعِدامُ الطاقة، صِفْر الطاقة
+zero error	خَطَأُ نُقطةِ الصِّفر، خطأٌ صِفريّ
+Zero Extract, Transform, and Load (Zero-ETL)	تكامل دون استخراج وتحويل وتحميل
+zero flag	راية الصفر
+zero frequency	اِنعِدامُ التردُّد
+zero g(ravity)	اِنعِدامُ الجاذبيَّة، صِفْرُ الجاذبيَّة
+zero geodesic	جِيوديزِيٌّ صِفْرِيّ
+zero hour	ساعةُ الصِّفر
+zero indicator	مُبَيِّنُ الصِّفر
+zero level	مَنْسُوب الصِّفر؛ مَنسوبُ قُدرة إسنادي؛ مُستَوى مُقارنةٍ إسنادي (أساسُهُ عَتَبةُ السَّمْع) / مستوى الصفر / مستوى الحفر
+zero lift	اِنعِدامُ الرَّفْع
+zero line	خَطُّ الصِّفر
+zero load	اِنعِدامُ الحِمْل، حِمْلُ الصِّفر
+zero mark	علامةُ الصِّفر
+zero matrix	مصفوفة صفرية
+zero measure	قِياسٌ صِفْرِيّ
+zero meridian	خَطُّ الزوالِ الصِّفريّ، خَطُّ الطول الأساسيّ
+zero out	يَضع صفراً
+zero page	صَفْحَةُ الصِّفْر
+zero pause	تَوَقُّف الصِّفر
+zero point	نُقطةُ الصِّفر / نُقْطةٌ صِفْرِيَّة (نُقْطةُ الصِّفْر)
+zero polynomial	حدودية صفرية
+zero position	وَضْعُ الصِّفر، وَضْعُ الابتِداء
+zero potential	جُهْدٌ صِفريّ، جُهْدُ الأرض
+zero pressure	اِنعِدامُ الضغط، ضَغطُ الصِّفر
+zero reading	قِراءَةُ الصِّفر (على جِهازِ القياس)
+zero ring	حَلَقةٌ صِفْرِيَّة
+zero set	مَجْموعةٌ صِفْرِيَّة
+zero setting	ضَبْطُ وَضْعِ الصِّفر
+zero shift	اِنعِدامُ الزَّحْزَحَة
+zero signal	اِنعِدامُ الإشارات
+Zero state	حالة صفرية
+zero suppression	حَذْفُ الأصفار / إسقاط (إزالة) الأصفار
+zero thrust	اِنعِدامُ الدَّفْع
+zero time binding DNA	دنا مرتبط بساعة الصفر
+zero torque	اِنعِدامُ عَزْمِ الدّوَران
+zero value	قيمةُ الصِّفر، قيمةٌ صِفْرِيَّة
+zero vector	متجه صفري / المُتَّجِهُ الصِّفْرِيّ
+zero visibility	صِفْرُ الرُّؤية / انعدام الرؤية
+zero voltage	اِنعِدامُ الڤلطيَّة
+zero wait state	دون حالات انتظار
+Zero Webpage Faults	أخطاء صفحات ويب صفرية
+zero, absolute	درجةُ الصِّفر المُطْلَق
+zero-access store	مَخْزن مُباشَر الولوج
+zero-address instruction	تعليمةٌ بلا عُنوان
+zero-beat reception	اِستِقبالٌ عديمُ الضَّربات، اِستِقبالٌ لا ضَربانيّ
+Zero-content	فارغ المحتوى :: صفر المحتوى
+zero-cut crystal	بِلَّورَةٌ ذاتُ قَطْع صِفْرِيّ
+zero-energy level	مَنسوبُ الطاقة الصِّفْرِيَّة
+zero-energy reactor = zero-power reactor	مُفاعِلٌ صِفْريُّ الطاقة
+zero-energy thermonuclear assembly = Zeta	جهازُ زِيتا، جهازُ الطاقة الصِّفريَّة لِلحرارة النوَوِيَّة
+zero-fill	حَشْوٌ بالأصفار
+zero-fuel weight	الوَزنُ بدون وَقُود
+zero-insertion-force socket	مقبس "إدخال سهل"
+zero-length launcher	جِهازُ إطلاقٍ صِفريُّ الامتِداد
+zero-phase sequence	اِنعِدامُ التتابُع الطَّورِي
+zero-point correction	تَصحيحُ نُقطةِ الصِّفر
+zero-point energy	طاقةُ نُقطةِ الصِّفر
+zero-power level	مَنْسُوبُ القُدرة الصِّفرِيّ
+zero-power reactor	مُفاعِلُ صِفر القُدرة
+zero-setting error	الخَطَأُ الصِّفرِيّ، خَطَأُ الوَضْعِ الصِّفريّ
+Zero-Shot Learning (ZSL)	تعلُّم بدون أمثلة
+Zero-Shot Prompting	أوامر بدون أمثلة
+zero-sum game	مُباراةٌ صِفْرِيَّةُ المَجْموع
+zero-valent	صِفريُّ التكافُؤ، لا تكافُؤيّ
+zeroing	تَعيينُ (نُقطةِ) الصِّفر
+zerophytes	نباتات صحراوية، نباتات جفافية
+zeros of a polynomial	أصفار حدودية
+zeroth law of thermodynamics	قانونُ الديناميّات الحَراريَّة الصِّفْرِيّ
+zest	حَيَويَّة
+Zeta (zero-energy thermonuclear assembly)	جهازُ زِيتا
+zeta function	دالَّةُ زِيتا
+zeugen	طَبليَّة عمودٍ أرضيّ
+Ziegler catalyst	وَسيطُ «زيغلر»
+zieria	زيارية
+ZIF (zero insertion force) socket	مَقبس (شرائح) لا ضغطي
+ZIF socket	مقبس "إدخال سهل" (مقبس ZIF)
+zig-zag	متعرج
+zigger	اِرتِشاحٌ مائي
+ziggurat	زَقُّورة
+zigzag	مُتَعَرِّج، مُشَرْشَر؛ تَعَرَّجَ، سارَ في خِطٍّ مُتَعَرِّج؛ مَسْلَكٌ مُتَعَرِّج؛ خَطٌّ مُتَكَسِّر أو مُتَعَرِّج / متعرج
+zigzag causeway	مَعْبَرٌ قَنْطَرِيّ مُتَعَرِّجٌ (يَصِلُ بين مَراسِي الناقِلات)
+zigzag connection	وُصْلَةٌ مُشَرْشَرة؛ اِتّصالٌ أو توصيلٌ مُتَعَرِّج
+zigzag course	مَسارٌ مُتَعَرِّج
+zigzag folds	طَيَّاتٌ مُتَعَرِّجة
+zigzag leakage	سُروبٌ (مغنطيسيّ) مُتَعَرِّج
+zigzag lightning	بَرْقٌ مُشَرشَر (أو مُتَعَرِّج)
+zigzag moldings	زَخرفة مُتَعرِّجة
+zigzag riveting	بَرشَمَة مُتَعَرِّجة
+zigzag rule	مِتْرٌ اِنْطِوائِيُّ القِطَع
+Zimmerman cell fusion	اندماج زمرمان الخلويّ
+zin(c)king (or zincification)	غَلْڤنَة، طِلاءٌ بالزِّنك، تَزْنيك
+zin(c)ky = zincy	زِنْكِيّ، خارَصِينيّ
+zinc	زنك، توتياء
+zinc (Zn)	الزِّنك، الخارَصين؛ زَنَّكَ، غَلْڤنَ
+zinc alloys	سَبائكُ أو أُشابات الزِّنك
+zinc bath	مَغْطِسُ الغَلْڤنة بالزِّنك
+zinc bearing; zinciferous	ذو زنك
+zinc blende	كِبريتيدُ الزِّنْك
+zinc bloom	نَوْرَةُ الزِّنْك
+zinc carbonate	كَربوناتُ الزِّنك
+zinc chloride	كلُوريدُ الزِّنك
+zinc chromes	كروماتُ الزِّنك
+zinc coated	مطلي بالزنك
+zinc die	قَالَبٌ من الخَارَصين
+zinc dust	مَسحوقُ الزِّنك
+zinc oxide	أُكسيدُ الزِّنك
+zinc polarity	قُطبِيَّةُ الزِّنك (وهي سالِبة في خَلِيَّةِ النُّحاس والزِّنك)
+zinc sulphate	كِبريتاتُ الزِّنك
+zinc sulphide	كِبريتيدُ الزِّنك
+zinc vitriol	كِبريتاتُ الزِّنك
+zinc white	أبيَضُ الزِّنك، أُكسيدُ الزِّنك الأبيض
+zinc yellow	أصفَرُ الزِّنك
+zinc-coated	مُلَبَّسٌ بالزِّنك
+zinc-copper couple	مُزْدَوِجَةُ النُّحاس والزِّنك
+zincate	زِنْكَاتُ
+zinciferous	حاوٍ الزِّنك
+zincify	غَلْڤنَ، زَنَّكَ، طَلَى بالزِّنك
+zincing = zinking	طَلْيٌ بالزِّنك
+zincite	زِنْكَايْت / زنكيت
+zincode (zinc electrode)	قُطْبُ الزِّنك (السالبُ القُطبِيَّة)
+zincography	أَلحَفرُ بالزِّنْكُوغْراف
+zingiber; zingiber officinale	زنجبيل
+zinkenite	زِنْكِنَيْت
+zinnia	زينية
+zip	فَتَحَ (أو أَغلَقَ) بزِمامٍ مُنْزَلِق؛ أَزَّ؛ أزيز / كَبْس
+ZIP = zone improvement plan	خُطَّةُ تحسين المِنطقة
+zip code	رمزٌ بريديّ (في عناوين الرَّسائِل)
+Zip drive	مِسوَق ZIP / قرص Zip
+zip fastener (or zipper)	زِمامٌ مُنْزَلِق، (سَحَّاب)
+Zip file	ملف مضغوط
+zircaloy	زِركالوي
+zircon	زِرْكُون / زرقون
+zirconia	أكسيد الزّركُونيُوم
+zirconium	زركونيوم / زركونيم
+zirconium (Zr)	الزِّرْكُونيُوم
+zirconium lamp	مِصباحُ الزِّركُونيُوم
+zizania	زيزانية
+Zmodem	[ميفاق] Zmodem
+Zn (zinc)	خ
+zoantharia	زهريات
+Zodiac	دائرة البُروج، مِنْطَقَةُ البُروج / منطقة البروج
+zodiacal light	ضَوءٌ بُروجيّ / ضوء (ال...) البرجي / ضَوْءُ بُرُوجِيّ
+zoean	يرقانة القشريات
+Zombie	زومبي
+zonal	نِطاقِيّ، مِنْطَقِيّ
+zonal aberration	زَيْغٌ نِطاقِيّ (في العَدسات الواسعةِ المَجال) / زيغ مِنْطَقي
+zonal circulation	سَيَرانُ نطاقي، دورة نطاقية
+zonal flow	دَفْقٌ (أو تَدَفُّقٌ) نِطاقي
+zonal guide fossil	دليل مستحاثي
+zonal harmonic	توافُقيَّةٌ مِنْطَقيَّة
+zonal harmonics	تَوافُقِيَّاتٌ نِطاقِيَّة
+zonal index	دليل نطاقي
+zonal index fossil	أُحفُورة مِنْطقِيَّة دَليلية
+zonal structure; zonary structure	بنية ممنطقة
+zonate	مُنَطَّق، مُحَدَّدُ المَناطِق
+zonated	ممنطق
+zonation	تَنَطُّق، تَمَنْطُق، مَنْطَقة
+zone	نِطاق، مِنْطَقَة؛ مِنطَقة (خَزْن) / منطقة / نطاق / نِطاق
+zone axis	مِحْوَرٌ نِطاقيّ (في مَرْكَزِ البلّورة)
+zone fossil	أُحفورةٌ نِطاقيَّة
+zone header	ترويسة منطقة
+zone lamp	مِصباحُ إسقاطٍ نِطاقيّ
+zone melting (or zone refining)	صَهْرٌ نِطاقيّ (لتنقيةِ الفِلِزَّات)، اِنصهارٌ نطاقي
+zone of abnormal audibility	مِنْطَقةُ مَسْمُوعِيَّة غَيْرِ عاديّة
+zone of aeration	نِطاقُ التَّهْوِية
+zone of audibility	نِطاقُ المَسمُوعيَّة / مِنْطَقةُ مَسْمُوعِيّة
+zone of contact	مِنْطَقةُ التَّمَاسّ، نطاقُ التّماسّ
+zone of contact; contact zone	منطقة التماس
+zone of convergence = subduction zone	نِطاقُ الطَّرح، نِطاقُ التقارُب
+zone of divergence	نِطاقُ الاِنفراج
+zone of elongation	منطقة التطاول
+zone of faulting; fault zone	منطقة صدعية، منطقة الصدوع
+zone of flowage	نِطاقُ الاِنسياب (تحت القشرة الأرضيّة)
+zone of fracture	نِطاقُ الشُّدوخ
+zone of intersection	مِنْطَقةُ التقَاطُع (للطُّرقِ الجَوِّيَّة)
+zone of low pressure	مِنْطَقةُ ضَغْطٍ مُنْخَفِض
+zone of oxidation	مِنْطَقةُ التأكسُد
+zone of reduction	مِنْطَقةُ الاِختِزال
+zone of saturation	مِنْطَقَة التَشَبُّع
+zone of silence	نِطاقُ الصَّمْت / مِنْطَقَةُ صَمت
+zone of weathering	مِنْطَقةُ التجْوِيَة
+zone plate	لَوحٌ نِطاقيّ
+zone punch	تَثْقِيبٌ نِطاقِيّ
+zone purification (or refining)	تَنْقِية نِطاقِيَّة
+zone television	تَلْفَزَة نِطاقيَّة (مُوَجَّهَةُ الإرسال)
+zone time	التَّوقيتُ المِنْطَقِيّ / توقيت المنطقة / وقت المنطقة
+zone, abyssal	مِنْطَقة غَوْرِيَّة
+zone, buffer	مِنْطَقَة فاصِلة
+zone, coastal	مِنْطَقَة ساحِليَّة
+zone, combustion	مِنْطَقةُ الاحتِراق
+zone, contact	نِطاقُ التَّماسّ
+zone, fault	مِنْطَقةُ الصَّدْع
+zone, free	مِنْطَقَة حُرَّة
+zone, neutral	مِنْطَقَة مُحايِدَة
+zone-axis	محور المنطقة
+zoned	مُنَطَّق، مُقَسَّمٌ إلى مَناطق
+zoned crystal	بِلَّورة مُنَطَّقة
+zoning	تَنْطيق / تَمَنْطُق / تقسيم إلى مناطق / تمنطُق، بنية مُمَنْطَقة / تمنطق
+zoning, compositional	تَنَطُّقٌ تَركيبيّ
+zonule	نُطَيْق، مِنْطَقةٌ صَغيرة، نِطاقٌ صَغير
+Zoo	حديقة الحيوانات
+zoo-	بادِئة بمعنى: حَيَوان أو حَيوانيّ
+zoobenthos	حيوانات قاعية
+zoochemistry	الكيمياءُ الحَيَوانيّة
+zoogenic	حيواني النشأة
+zoogenic rock	صخر عضوي التكون
+zoogeography	الجُغرافية الحَيَوانيَّة
+zooids	جبيونات
+zoological	حَيَوانيّ
+zoology	عِلْمُ الحَيوان / علم الحيوان
+zoom	زَوَّمَ؛ زَمَّ؛ زَمَّ، طَفَرَ؛ اِرتِفاعٌ مُفاجئ / يُزَوِّم / زُوم
+zoom box	صندوقُ التزويم
+Zoom in	كبِّر،تكبير
+zoom lens	عَدَسَةُ تَزْوِيم
+Zoom out	صغِّر،تصغير
+zoom-away shot	لَقطة مُرتدَّة
+zoom-in shot	لَقْطَةٌ مُنْقَضَّة
+zoom-out shot	لقطة مُتباعِدة
+zooming	زَمٌّ؛ تَزويم
+zoophyte	حَيَوانٌ نَباتيّ
+zooplankton	العَوَالِقُ الحَيَوانية / عوالق حيوانية
+zooplanktors	كائنات العوالق الحيوانية
+zoospore	بوغ حيواني
+zoospores	أبواغ حيوانية
+zootechny	تربية الحيوان
+Zorn's lemma	تَوْطِئةُ زورْن
+zostera	زوستيرة
+Zr (zirconium)	كز
+ZULU = zulu time	تَوقيتُ غرينتش المُتَوَسِّط
+zwitterion	شارِدةٌ ثُنائيَّةُ القُطْبِ
+ZX plane	مستوى ع س
+zygomorphic	وحيد التناظر
+zygophyllaceae	فصيلة فرقدية، فصيلة رطريطية
+zygophyllum	رطريط، زيجوفيلم
+zygospore	لاقِحة بَوغيَّة، بَوْغٌ زيجيّ / بوغ لاقحي
+zygote	لاقِحة، زَيْڠُوت / بيضة ملَقَّحَة / بيضة ملقحة / بيضة ملقحة، لاقحة / زيجوت، لاقحة
+zygotene stage	دور تشابكيّ
+zygotic meiosis	انقسام اختزاليّ زيجوتيّ
+zygotic nucleus	نواة البيضة الملقحة، نواة اللاقحة
+zymase	زَيماز / زيماز
+zymogen	مُوَلِّدُ الأنزيم
+zymology	عِلْمُ التَخَمُّر
+zymometer	مِقياسُ الاِختِمار
+zymosis	اِختِمار، تَخَمُّر
+zymotic	اِختِماريّ، تَخَمُّرِيّ
+zymurgy	كِيمياءُ التَّخَمُّر

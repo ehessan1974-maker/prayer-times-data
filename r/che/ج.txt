@@ -1,0 +1,141 @@
+جادييت	jadeite
+جاذب	attractive
+جاذبية	gravity
+جاف	dry
+جامع الغبار	dust-collecting equipement
+جامعة، رابطة	league
+جبس	gypsum
+جبسي، جبسيت	gibbsite
+جداء الذوبان	solubility product
+جداءات الذوبان	solubility-products
+جَدارة، كِفاية	competence
+جدول	table
+جدول دوري	periodic table
+جدول دوري للعناصر	chart (periodic…) of elements
+جدول كمون التأكسد المعياري	standard oxidation potential table
+جدول مندليف	Mendeleiev's table
+جدولٌ، طاولة	table
+جدول، مخطَّط	chart
+جَدْوَلة	tabulation
+جَديلة	strand
+جذْب	attraction
+جذر	radical
+جذر ألكيل	alkyl radical
+جذر المتيل	radical methyl (CH3)
+جذر ثنائي التكافؤ، شق ثنائي التكافؤ	bivalent radical
+جذر حرّ	free radical
+جذر حمضي	acid radical
+جذر متوسط، مربع السرعة	root-mean-square velocity (rms)
+جَذْر، شِق	radical
+جراثيم	bacteria
+جرّب، عاير، قدّر	essayer
+جرثوم	bacterium
+جرْش	grinding
+جرعة	dose
+جرعة مميتة	lethal dose
+جرْف	entrainment
+جرمانيوم	germanium
+جريان	flow
+جريان صفيحي	laminar flow
+جريان مضطرب	turbulent flow
+جزء	part
+جزء الحجم السائلي للجزء	liquid volume fraction (L.V.F.)
+جزء القطارة، كسر القطارة	distillate fraction
+جزء رابط وحيد السن	ligand monodentale...
+جزء مئوي	centesimal
+جزئي	partial
+جزيء	molecule
+جزيء الأمونيا	ammonia molecule
+جزيء ثنائي الذرة	diatomic molecule
+جزيء خطّي	linear molecule
+جزيء شَطِيري	sandwich molecule
+جزيء غرامي	gram molecule
+جزيء غرامي، جزيئية غرامية	gram-molecule (mol.gr.)
+جزيء غرواني	micelle
+جزيء قطبي	polar molecule
+جزيء كِبْريّ	macromolecule
+جزيء مرقوم	labelled molecule
+جزيء معدّل	tailored molecule
+جزىء منشَّط	activited molecule
+جزيئات ثنائية الذرة المتجانسة	homo nuclear diatomic molecules
+جزيئات ثنائية الذرة غير متجانسة	heteronuclear diatomic molecules
+جزيئات زوجية، جزيئات مزدوجة	even molecules
+جزيئات ضخمة	macromolecules
+جزيئات متفردة، جزيئات متميزة	discrete molecules
+جزيئات مفردة	odd molecules
+جزيئات نشطة، جزيئات فعّالة	active molecules
+جزيئي	molecular
+جزيئي داخلي، داخل الجزيئات	intramolecular
+جزيئية	molecularity
+جزيئية التفاعل	molecularity of reaction / reaction molecularity
+جَسْرٌ	bridge
+جسر ملحي	salt bridge
+جسر هيدروجيني	hydrogen bridge
+جسم أسود	black body
+جُسيم	particle
+جسيم xi	xi-particle
+جُسيم أساسي (أوَّلي)	fundamental particle
+جسيم أولي	elementary particle
+جُسَيم تحتُ ذرّي	subatomic particle
+جسيم حالّ	lysosome
+جسيم مضاد	antiparticle
+جَسيم، كُتْلي	massive
+جُسَيْم، كريّة	corpuscle
+جسيمات عضوية	organelles
+جُسيمي	corpuscular
+جص، جبصين	gypsum
+جغرافية الخلية	geography of the cell
+جفَّ، جَفَّفَ	dry
+جَفَّفَ	desiccate (to)
+جَفوف	drying
+جل مائي	hydrogel
+جلتنة، تجلد الهلام	gelation
+جِلْد	leather / skin
+جُلْطة	clot
+جليد	ice
+جليد جاف	drikold; dry ice
+جليد شفّاف، مينا	glaze
+جليد كربوني، ثلج جاف	dry ice
+جليدي	galcial / glacial
+جِلّينيت	gellinite
+جملة أحادية الميل	monoclinic system
+جملة ثلاثية	ternary system
+جملة لا متغيرة	invariant system
+جُمْلةٌ لولبية	spirosystem
+جملة مبعثرة	dispersed system
+جملة معزولة	isolated system
+جملة معينية مستقيمة	orthorhombic system
+جملة مفتوحة	open system
+جهاز	Jolly's apparatus / apparatus / linde's apparatus
+جهاز اختبار السحج، رائز السحج	abraison tester
+جهاز اختزال	reductor
+جهاز استخلاص، مستخلِص	extractor
+جهاز إسقاط	projector
+جهاز بكمان	Beckmann apparatus
+جهاز تقطير	distillation apparatus
+جهاز تنشيف فراغي	vacuum drying apparatus
+جهاز سوكسله للاستخلاص	Soxhlet extractor
+جهاز غسل الغازات	scrubber
+جهاز كب	Kipp's apparatus
+جهاز كيب	Kipp's apparatus
+جُهْد	effort
+جهد مسروي معياري	standard electrode potential
+جو	atmosphere
+جو أيوني	ionic atomosphere
+جودة	quality
+جوف	cavity
+جول	Joule / Joule (unit)
+جوهر، روح، عِطْر	essence
+جوهرة	jewel
+جوهري، أساسي	essential
+جوهري، أساسي، ضروري	essential
+جوّي	atmospheric
+جير مطفأ	killed lime
+جيرانيول	geraniol
+جيرهيدرولي	hydraulic lime
+جيفين	cadaverine
+جيلاتيني، هلامي	gelatinous
+جين، جينات	gene (s)
+جينوم، مَجيْن	genome
+جيوفيزياء، علم فيزياء الأرض	geophysics
+جيوكيمياء	geochemistry

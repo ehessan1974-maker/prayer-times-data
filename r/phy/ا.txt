@@ -1,0 +1,1238 @@
+إبراق راديوي	radiotelegraphy
+إبراق راديوي/لاسلكي	wireless telegraphy
+ابراق لاسلكي	radiotelegraphy
+إبرة	needle
+إبرة لا اتجاهية	astatic needle
+ابرة مُعَطَّلَّة	astatic needle
+ابرة مغنطيسية	magnetic needle
+إبصار	vision
+إبصار (ال...) بالعينتين	binocular vision
+أبصار (ال...) بمخاريط الشبكية	photopic vision
+أبصار الأمواج الصوتية	striation technique
+إبصار بمخاريط الشبكية	photopic vision
+ابطاء الطور	phase slowness
+أبْعاد	dimensions
+أبعاد الشبيكة	lattice dimensions
+آبقية	fugacity
+ابهامية	equivocation
+أبوستلب	apostilb
+إبيتكسي	epitaxy
+اتجاه	direction
+اتجاه الاستقطاب	direction of polarization
+اتجاه الانتشار	direction of propagation
+اتجاه أمامي	forward direction
+اتجاه مفضَّل	privileged direction
+اتجاهات مفضلة	privileged directions
+اتجاهية الخواص	anisotropic
+اتجاهية الخواص المغنطيسية	magnetic anistropy
+اتحاد حاملات الشحنة	carriers recombination
+اتحاد مباشـر	direct recombination
+إتربيوم	ytterbium
+إتريوم	yttrium
+اتزان القنطرة	bridge balance
+اتزان حيادي	neutral equilibrium
+اتزان غير مستقر	unstable equilibrium
+اتساع (ن)	amplitude
+اتساع الاستطارة	scattering amplitude
+اتساع الاهتزاز	amplitude of vibration
+اتساع الحركة التوافقية البسيطة	amplitude of simple harmonic motion
+اتساع الموجات	amplitude of waves
+اتصال (ن)	continuity
+اتصال عن بُعد	telecommunication
+إثارة	excitation
+إثارة الإلكترونات الداخلية	excitation of inner electrons
+إثارة الذرة	atom excitation
+إثارة ذرية	atomic excitation
+إثارة صدمية	impact excitation / shock excitation
+إثارة ضوئية	optical excitation
+إثارة قوسـية	arc excitation
+إثارة لالونية	achromatic stimulus
+أثر التأين (ن)	ionization track
+أثر المَخْر	wake
+أثر بيولوجي للإشعاع	radiobiologic action
+أثر جداري	wall effect
+أثر طومسون	Thomson effect
+أثر في الضباب	fog tracks
+إثْمِد	antimony
+إثمد؛ أنتموان	antimony
+أُثمون	octet
+أثير	Raman effect / ether
+اثير لمَّاع	luminiferous ether
+اجتياز الحرج (ن)	passage of criticality
+آجرة رصاص (ن)	lead brick
+أجسام ساقطة	falling bodies
+أجسام صلبة جزيئية	molecular solids
+أجسام طافية	floating bodies
+اجهاد	stress
+اجهاد الالتواء	torsional stress
+اجهاد الالكترون الذاتي	self stress of the electron
+اجهاد الانضغاط	compressive stress
+اجهاد الشدّ	tensile stress
+إجهاد الشد الأقصـى	ultimate tensile stress
+إجهاد القص	shear stress / shearing stress
+اجهاد قص حرج	critical shear stress
+إجهاد ميكانيكي	mechanical stress
+إجهاد ناظمي	normal stress
+أجهزة ضوئية؛ أجهزة بصـرية	optical instruments
+أحادي الأقطاب المغنطيسي	magnetic monopoles
+أحادي التكافؤ	monovalent / univalent
+أحادي الجزيء	monomer
+أحادي الخيط	unifilar
+أحادي الشكل	monomorph / monomorphous
+أحادي القطب المغنطيسي	magnetic monopole
+أحادي اللون	monochromatic
+أحادي المحور	uniaxial
+أحادي الوتر	monochord
+أحادية	singlet
+احتباس	occlusion
+احتجاب	occlusion / occultation
+احتجاب مصدر ضوئي	occultation
+احتجاز الاشعاع (ن)	radiation shielding
+احتراق	combustion
+احتراق (ن)	burnup
+احتراق نوعي (ن)	specific burnup
+احتراقية	combustibility
+احتكاك	friction
+احتكاك التدحرج	rolling friction / rolling friction; rolling resistance
+احتكاك المائع	fluid friction
+احتكاك انزلاقي	sliding friction
+احتكاك جداري	wall friction
+احتكاك حركي؛ احتكاك انزلاقي	kinetic friction
+احتكاك داخلي	anelasticity; internal friction / internal friction anelasticity
+احتكاك سكوني	static friction
+احتمال	probability
+احتمال الاختراق	penetration probability
+احتمال الالتصاق	sticking probability
+احتمال الإمتصاص (ن)	absorption probability
+احتمال الانتقال	transition probability
+احتمال الانتقال (ن)	transition probability
+احتمال الانفلات التجاوبي	resonance escape probability
+احتمال التحريك الحراري	thermodynamic probability
+احتمال التصادم الأول (ن)	first collision probability
+احتمال عدم التسرب (ن)	nonleakage probability
+احتمالية الافلات الرنيني (ن)	resonance escape probability
+احتواء	inclusion
+احتواء (ن)	containment
+احداتيات قطع مكافىء	parabolic coordinates
+أحداث مستقلة	independent events
+احداثي أفقي	abscissa
+إحداثي سـيني؛ فاصلة	abscissa
+إحداثي قطبي	polar coordinate
+إحداثيات	coordinates
+إحداثيات (ال...) القطبية الكروي (ن)	spherical polar
+إحداثيات أسطوانية	cylindrical coordinates
+احداثيات اسطوانية (ن)	cylindrical coordinates
+احداثيات ديكارتية	Cartesian coordinates / cartesian coordinates
+إحداثيات ذرية	atomic coordinates
+إحداثيات كروية	spherical coordinates / spherical polar coordinates
+احداثيات لونية	chromaticity coordinates
+إحداثيات معمَّمة	generalized coordinates
+إحداثيات منحنية	curvilinear coordinates
+إحداثيات نسبية	relative coordinates
+احصاء الكم	quantum statistics
+إحصاء بوزِه – أينشتاين	Bose-Einstein statistics
+إحصاء فِرمي-ديراك	Fermi-Dirac statistics
+إحصاء كمومي	quantum statistics
+إحصاء مَكسويل بولتزمان	Maxwell-Boltzman statistics
+احصائيا	statiscally
+إحكام؛ تبئير	focusing
+احيائيات (ال...) الفلكية	bioastronautics
+اختبار	test
+اختبار اللانقطية	astigmatism test
+اختبار بارد (ن)	cold testing
+اختبار بالألوان	testing by colours
+اختبار حار (ن)	hot testing
+اختبار لاإتلافي	nondestructive testing
+اختبار مسعري	calorimetric test
+اختراق الحاجز	barrier penetration
+اختزال؛ اختصار	reduction
+اختلاف الشكل	allotropism
+اختلاف الشكل البلوري	allomorphism
+اختلاف اللون	allochromy
+اختلاف المنظر؛ بارالاكس	parallax
+اختلاف المواضع	parallax
+اختلاف في الطور	out of phase
+اختلال (ن)	disordering
+اخصاب (ن)	enrichment
+اخماد (ن)	quenching
+ادارة النفايات (ن)	waste management
+ادارة الوقود (ن)	fuel management
+أداة تداخل كمومي فائقة الناقلية؛ سكويدة	superconducting quantum interference device
+إدراك مجسَّم	relief perception
+أَدَمة	skin
+اذاعة	broadcasting
+أذن	ear
+إربيوم	erbium
+ارتباط (ن)	correlation
+ارتباط زاوي (ن)	angular correlation
+ارتحال	migration
+ارتشاف	resorption
+ارتعاش	flicker
+ارتعاش ضوئي	flicker
+ارتفاع	altitude / elevation
+ارتفاع الضغط	head (pressure…)
+ارتفاع المركز المتبدل	metacentric height
+ارتفاع زاويّ	angular height
+ارتفاع فوقي	metacentric height
+ارتفاع نقطة التجمد	elevation of freezing point
+ارتياب مطلق	absolute incertitude
+ارتياب نسبي	relative incertitude
+ارسال	transmission
+إرسال الصور بالراديو	radiophotography
+أرض	ground
+أرض افتراضية	virtual ground
+ارغ ثانية، ارك ثانية	erg-second
+إرغة	erg
+أرغون	argon / ergon
+ارك، ارغ	erg
+ازاحة	Doppler displacement; Doppler shift / displacement
+ازاحة افتراضية	virtual displacement
+ازاحة حثّية	induction displacement
+ازاحة خطية	linear displacement
+إزاحة زاوية؛ متحول مستقل	argument
+إزاحة مُعَقَدة	complex displacement
+إزالة استقطاب	depolarization
+إزالة الإثارة	deexcitation
+ازالة الاستقطاب	depolarization
+إزالة الاقتران	decoupling
+ازالة التأين	deionization
+إزالة التزجّج	devitrification
+إزالة التعديل	demodulation
+ازالة التفكك	removal of degeneracy
+ازالة التلوث (ن)	decontamination
+ازالة التمغنط	demagnetization
+إزالة المغنطة	demagnetization
+إزالة تعدد الإرسال	demultiplexing
+ازدواجية (ن)	duality
+ازدواجية الجسيم والموجه (ن)	wave-particle duality
+ازلة التعديل	demodulation
+أُسّ	exponent
+أسُّ الامْتِزاز	adsorption exponent
+أساس	basis / principal
+أساسي	fundamental
+اسالة الهليوم	helium liquefaction
+أستات	astatine
+استبدال	substitution
+استبدال الشحنة الكلية (ن)	replacement of the whole charge
+استجابة التردد	frequency response
+استجابة انتقالية؛ استجابة عابرة	transient response
+استجابة ترددية	frequency response
+استجابة تيار الارسال	response (transmitting current...)
+استجابة حرارية (ن)	thermal response
+استجابة عشوائية	random response
+استجابة قدرة متاحة	response (available power…)
+استجابة قسـرية	forced response
+استجابة قطبية	polar response
+استجابة نسبية	relative response; relative sensitivity
+إستجابية صوتية	acoustic responsiveness
+استحراق	burnup
+استحلاب	emulsification
+استخلاص	extraction
+استخلاص بالمذيب (ن)	solvent extraction
+استرخاء	relaxation
+استرخاء الحدّ الحُبَيبِيّ	grain boundary relaxation
+استرخاء العازل الاستقطابي	dielectric relaxation
+استرداد من النُفايات	waste recovery
+استشعار عن بعد	remote sensing
+استضاءة ضوئية (ن)	photoluminescence
+استطارة (ن)	scattering
+استطارة اشعاعية غير مرنة (ن)	radiative inelastic scattering
+استطارة الضوء	scattering of light
+استطارة انتقائية	selective scattering
+استطارة جمعية	plural scattering
+استطارة جهدية (ن)	potential scattering
+استطارة ذاتية	self-scattering
+استطارة رنينية (ن)	resonance scattering
+إستطارة صوتية	acoustic scattering
+استطارة عكسية (ن)	backscattering
+استطارة غير متماسكة	incoherent scattering
+استطارة غير مرنة (ن)	inelastic scattering
+استطارة متعدّدة (ن)	multiple scattering
+استطارة متماسكة (ن)	coherent scattering
+استطارة مرنة	elastic scattering
+استطارة مسرعة (ن)	upscattering
+استطارة وحيدة (ن)	single scattering
+استطاعة اسمية	rated capacity
+استطالة	elongation
+استطالية	extensibility
+استعادة	recovery
+استعادة اليورانيوم	recovery of uranium
+استعادة/تَعَافي	recovery
+استقرار (ن)	stability
+استقرار شرطي	conditional stability; limited stability / limited stability; conditional stability
+استقرار متأصل (ن)	inherent stability
+استقرار ميكانيكي	mechanical stability
+استقرار نووي	nuclear stability
+استقطاب	phi polarization / polarization / theta polarization
+استقطاب أفقي	horizontal polarization
+استقطاب الانعكاس	polarization of reflection; polarization by reflection
+استقطاب التألق	polarization of fluorescence
+استقطاب الخلاء	vacuum polarization
+استقطاب الضوء	polarization of light
+استقطاب الفراغ	vacuum polarization
+استقطاب الكتروني	electronic polarization
+استقطاب المنحل الكهربائي	electrolytic polarization
+استقطاب انتشاري	diffusion polarization
+استقطاب انحراف الآلة المبرزة للذبذبة	deflection polarity of oscilloscope
+استقطاب اهليلجّي	elliptical polarization
+استقطاب بالاستطارة	scattering polarization
+استقطاب بالتركيز	concentration polarization
+استقطاب تلقائي	spontaneous polarization
+استقطاب خطي	linear polarization
+استقطاب دائري	circular polarization
+استقطاب دوراني	rotatory polarization
+استقطاب كهربائي	electric polarization
+استقطاب متصالب	cross polarization
+استقطاب محتث	induced polarization
+استقطاب مستوي	plane polarization
+استقطاب مغنطيسي	magnetic polarization
+استقطاب مغنطيسي ضوئي	optical magnetic polarization
+استقطابية	polarizability
+استقطابية الكترونية	electronic polarizability
+استقطابية أيونية	ionic polarizability
+استقطابية توجيهية	orientational polarizability
+استقطابية جزيئية	molecular polarizability
+استقلال عن الشحنة	charge independence
+استكمال بالاستقراء الخارجي	extrapolation
+استمرار الاحساس	persistence of sensation
+استمرار الرؤية	persistence of vision
+استمرار مميِّز	characteristic persistence
+استمرارية الحالة	continuity of state
+استنظام دالة	normalization of a function
+استنفاد (ن)	depletion
+استهلاك داخلي (ن)	internal consumption
+أَسـر	capture
+أسْر (ن)	capture
+أسر اشعاعي (ن)	radiative capture
+أَسـر إلكترون	electron capture
+أسر الكترون k (ن)	k-electron capture
+أسْر الكتروني (ن)	electron capture
+أسـر النترونات	neutron capture
+أسر النترونات الرنيني (ن)	resonance capture of neutrons
+أسـر تجاوبي للنترونات	resonance capture of neutrons
+اسر طفيلي (ن)	parasitic capture
+أسـر مشع	radiative capture
+أسر نترون (ن)	neutron capture
+أسـر نتروني مشع	radiative capture of neutrons
+أسطوانة	Airy disk / cylinder
+أسطوانة مدرجة	graduated cylinder
+اسفين ، وتد	Martens wedge
+إسقاء؛ إطفاء	quenching
+أسنان الشحن؛ أسنان الذّرِ	spray points
+أُسِّي	exponential
+إشارات سمعية	audio signals / aural signals
+إشارة	signal
+إشارة الدخل	input signal
+اشارة المسح	sweep signal
+إشارة؛ علامة	sign
+إشباع تيار المصعد	anode saturation
+إشباع مغنطيسي	magnetic saturation
+اشباع، تشبع	saturation
+أشباه البلورات	pseudo-crystallites
+اشتقاق	derivation
+اشعاع	radiation / radio
+إشعاع (أكتيني)	actinic radiation
+اشعاع (ن)	Cerenkov radiation
+إشعاع أحادي الطاقة	monoenergetic radiation
+إشعاع أرضي	terrestrial radiation
+اشعاع التأيين المباشرة (ن)	directly ionizing radiation
+اشعاع الجسم الأسود	black body radiation
+اشعاع الحرارة	radiation of heat
+إشعاع الخلفية	background radiation
+اشعاع الخلفية (ن)	background radiation
+اشعاع الصدم	impact radiation
+اشعاع الفضلة	residual radiation
+اشعاع الفناء (ن)	annihilation radiation
+إشعاع القطباني	dipole radiation
+إشعاع القطباني المغنطيسي	magnetic dipole radiation
+إشعاع الكبح	bremsstrahlung
+اشعاع الكَبْح (ن)	bremsstrahlung
+اشعاع الكبح الخارجي (ن)	external bremstrahlung
+اشعاع اللمع	luminous radiation
+إشعاع أولي	primary radiation
+اشعاع بيتا (ن)	beta radiation
+اشعاع تام	full radiation
+اشعاع تأيين غير مباشر (ن)	indirectly ionizing radiation
+اشعاع تحت الأحمر	infra-red radiation / infrared radiation
+اشعاع ثانوي (ن)	secondary radiation
+اشعاع ثنائي الأقطاب الكهربائي	electric dipole radiation
+إشعاع ثنائي الأقطاب المغنطيسي	magnetic dipole radiation
+اشعاع حراري	heat of radiation / heat radiation / thermal radiation
+اشعاع دائم	persistent radiation
+اشعاع ذري	atomic radiation
+اشعاع رباعي الأقطاب	quadruple radiation
+إشعاع سكلوتروني	cyclotron radiation
+إشعاع سيني	X-radiation
+اشعاع سيني (ن)	X- radiation
+اشعاع شارد	stray radiation
+اشعاع شمسي	solar radiation
+إشعاع شيرنكوف	Cerenkov radiation
+إشعاع طُفيلي	stray radiation
+إشعاعُ عديدِ الأقطاب	multipole radiation
+اشعاع فوري (ن)	prompt radiation
+اشعاع فوق البنفسجي	ultra-violet radiation
+اشعاع قاس	hard radiation
+إشعاع قاسـي	hard radiation
+اشعاع كاما الأسْري (ن)	capture gamma radiation
+اشعاع كاما الانشطاري (ن)	fission gamma radiation
+اشعاع كاما الفَوْري (ن)	prompt gamma radiation
+إشعاع كامل	full radiation
+إشعاع كهرطيسي	electromagnetic radiation
+اشعاع كهرمغنطيسي	radiation (electromagnetic...)
+اشعاع كوني (ن)	cosmic radiation
+إشعاع لا مترابط	incoherent radiation
+إشعاع لا مرئي	invisible radiation
+اشعاع لين	soft radiation
+إشعاع مؤيِّن	ionizing radiation
+اشعاع مؤيِّن (ن)	ionizing radiation
+اشعاع مُبَطَّأ (ن)	delayed radiation
+اشعاع متجانس	homogeneous radiation
+إشعاع مترابط	coherent radiation
+اشعاع متعدد	multiple radiation
+اشعاع متعدد الأقطاب	multipole radiation
+إشعاع متعدد الألوان	polychromatic radiation / polychromic radiation
+إشعاع متغاير	heterogeneous radiation
+اشعاع متماسك	coherent radiation
+اشعاع مرئي	visible radiation
+إشعاع مستطار	scattered radiation
+اشعاع مُميِّز	characteristic radiation
+اشعاع وحيد الطاقة (ن)	monoenergetic radiation
+إشعاع وحيد اللون	monochromatic radiation
+اشعاع وحيد اللون (ن)	monochromatic radiation
+اشعاعات سينية متواصلة (ن)	continuous x radiation
+اشعاعيّة	radiance
+اشعاعية (ال...)	irradiance; radiant flux density
+إشعاعية: كثافة تدفق الإشعاع	irradiance
+أشعة	Becquerel rays / Grenz rays / Roentgen rays
+أشعة (اكتينية)	actinic rays; chemical rays
+أشعة (ال...) السينية المميِّزة (ن)	characteristic x- rays
+أشعة (ال...) الصوتية، الأشعة السمعية	acoustic rarefaction
+أشعة الضوء	ray of light
+أشِعة ألفا (ن)	alpha rays
+أشعة الفضلة	residual rays
+أشعة الكبع الداخلية (ن)	internal bremsstrahlung
+أشعة الكترونات	electron rays
+أشعة المهبط	kathode rays
+أشعة الموت	death rays
+أشعة أولية	primary rays; principal rays
+أشعة بيتا	beta-rays
+أشعة تحت الحمراء	infra-red-rays
+أشعة حارقة	burning rays
+أشعة دلتا (ن)	delta rays
+أشعة رونتجن	Roentgen rays
+أشعة سينية	X- rays
+أشعة سينية قاسية	hard X-rays
+أشعة سينية لينة	soft x-rays
+أشعة صوتية	sound rays
+أشعة فوق البنفسجية	UV
+أشعة فوق المرئية	ultraphotic rays
+أشعة قاسية	hard rays
+أشعة قريبة من المحور؛ أشعة متمحورة	paraxial rays
+أشعة قنوية	canal rays
+أشعة قَنَويِّة؛ أشعة موجبة	canal rays
+أشعة كاتودية؛ أشعة مَهبِطية	cathode rays
+أشعة كَاما (ن)	gamma ray
+أشعة كونية	cosmic rays
+أشعة كونية أولية	primary cosmic rays
+أشعة كونية ثانوية	secondary cosmic rays
+أشعة كونية قاسية	hard cosmic rays
+أشعة لا مرئية	ultraphotic rays
+أشعة لينة	soft rays
+أشعة مائلة	skew rays
+أشعة متباعدة	divergent rays
+أشعة متتامّة	complementary rays
+أشعة متحدة التمركز	homocentric rays
+أشعة متفرقة	divergent rays
+أشعة متقاربة	convergent rays
+أشعة متمركزة	homocentric rays
+أشعة ملتمة	convergent rays
+أشعة مِهْبَطية	cathode rays
+أشعة موجبة	positive rays
+أشعة موجبة؛ أشعة قَنَوية	positive rays
+أشكال	Lissajous figures
+أشكال ليساجو	Lissajous figures
+إصابة إشعاعية	radiation injury
+أصباغ وألوان	pigment and colors
+إصدار الأمواج الكهرطيسية	emission of electromagnetic waves
+إصدار إلكترونات ثانوية	secondary electron emission
+إصدار إلكتروني	electron emission
+إصدار إلكتروني حراري؛ إصدار ترميوني	thermionic emission
+إصدار تلقائي	spontaneous emission
+إصدار حقلي	field emission
+إصدار كمومي	quantum emission
+إصدار كهرضوئي	photoelectric emission
+إصدار محثوث	stimulated emission
+إصدار، إرسال	emission
+إصدارية	emissive power / emittance
+إصدارية نسبية	emissivity
+آصرة (ن)	bond
+آصرة تكافؤ	homopolar bond; covalent bond
+آصرة تكافؤية	covalent bond; homopolar bond
+اصطدام	collision
+اصطدام تام اللامرونة	perfectly inelastic collision
+اصطدام ثلاثي الجزئيات	triple molecular collision
+اصطدام جزيئي	molecular collision
+اصطدام لدن	plastic collision
+اصطفائية	selectivity
+اصطلاح الاشارات	sign convention
+اصطلاح النقطة	dot notation
+أصغر حجم حرج (ن)	minimum critical volume
+أصغر كتلة حرجة (ن)	minimum critical mass
+أصل؛ مبدأ الإحداثيات	origin
+اصناف تناظر	symmetry classes
+أصيل	original
+أصيلة الشكل	idiomorphous
+إضاءة	illumination / lighting
+اضاءة الشَّبكية	retinal illuminance
+اضاءة غير مباشرة	indirect illumination / indirect lighting
+اضاءة مباشرة	direct illumination; direct lighting
+اضاءة مجال معتم	dark-field illumination
+اضطراب	perturbation / turbulence
+اضطراب دوّامي	turbulence
+اضطراب؛ تشويش	disturbance
+اضمحلال (ن)	decay / disintegration; decay
+اضمحلال أُسّي	exponential decay
+اضمحلال أسِّيّ (ن)	exponential decay
+اضمحلال اشعاعي (ن)	radioactive decay
+اضمحلال ألفا (ن)	alpha decay; alpha disintegration
+اضمحلال اللمعان	decay of luminescence
+اضمحلال النشاط الاشعاعي	decay of radioactivity
+اضمحلال بوزتروني	positron decay
+اضمحلال بوزيتروني (ن)	positron decay
+اضمحلال بيتا (ن)	beta decay
+اضمحلال تسلسلي (ن)	chain decay
+اضمحلال متعدد	multiple decay
+اضمحلال مميِّز	characteristic decay
+اضمحلال نتروني	neutron decay
+اضمحلال نووي (ن)	nuclear disintegration
+اطار	toroid
+اطار مرجع	rest frame
+أطر مرجعية (ن)	frames of reference
+أطياف الأشعة السينية	X- ray spectra
+أطياف انبعاث الأشعة السينية	X- ray emission spectra
+أطياف أنطقة الكترونية	electronic band spectra
+أطياف ذرية	atomic spectra
+أطياف لا مرئية	invisible spectra
+إظهار	developing
+إظهار؛ عَرْض	display
+إعادة الاتحاد	recombination
+إعادة الاتحاد الحجمي	volume recombination
+اعادة التبلور	recrystallization
+اعادة التجمد	regelation
+إعادة التدوير	recycling
+اعادة التوليد	regeneration
+إعادة المعالجة	reprocessing
+اعادة ترتيب الوقود (ن)	shuffling of fuel
+اعادة تركيب تفضيلي	preferential recombination
+إعادة تنظيم	renormalization
+إعادة توليد	regeneration
+إعادة توليد الوقود النووي	regeneration of nuclear fuels
+إعادة معالجة الوقود	fuel reprocessing
+اعادة معايرة الكتلة	renormalization of mass
+اعتلاج	entropy
+اعتلاج افتراضي	practical entropy; virtual entropy / virtual entropy; pratical entropy
+اعتلاج الانصهار	entropy of fusion
+اعتلاج التبخر	entropy of vaporization
+اعتلاج الخلط	entropy of mixing
+اعتلاج الفوضى	entropy of disorder
+اعتلاج المحلول	entropy of solution
+اعتلاج نقطة الصفر	zero point entropy
+اعتماد الكتلة على السرعة	mass dependance on velocity
+اعتيادي	regular
+اعتيان	sampling
+إعداد تركيب حجمي	volume recombination
+أعداد زوجية	even numbers
+أعداد سحرية	magic number
+أعداد كمومية	quantum numbers
+أعظم انعكاس (ن)	maximum reflection
+أعظم حادثة مفترضة (ن)	maximum credible accident
+أعمدة مجزّئة	fractionating columns
+إغنطرون، صمام قوسـي	ignitron
+افتراضي، تقديري	virtual
+افراغ المهّدىء (ن)	moderator dumping
+أفق الحدث	event horizon
+أفلام كرومية	chrome films
+افناء (ال...)	annihilation
+إفناء؛ فناء	annihilation
+اقتراب من الحالة الحرجة (ن)	approach to criticality
+اقتران سبيني - سبيني	spin-spin coupling
+اقتران سبيني – مداري	spin-orbit coupling
+اقتران مُحكَم	tight coupling
+اقتران مَهبِطي	cathode coupling
+اقتران وُسْعي	capacitive coupling
+اقتران؛ تقارن	coupling
+اقتصاد النترونات (ن)	neutron economy
+اقتصاد بالعاكس؛ اختصار بالعاكس	reflector saving
+اقتفاء الأشعة	ray tracing
+أقرب جار	nearest neighbor; nearest neighbour
+أقطاب متتابعة	consequent poles
+أقطاب متشابهة	like poles
+أقطاب متضادّة	opposite poles
+أقطاب مغنطيسية	magnetic poles
+أقل انعكاس (ن)	minimum reflection
+أكتينون	actinon (An)
+أكتيني (ن) ، أكتينيد	actinide
+أكتينيدات	actinides
+أكتينيوم	actinium
+أكتينيوم مشع	radioactinium
+إكساء	cladding
+اكستون	exciton
+أكسجين	oxygen
+إكسيتون	exciton
+إكسيمَر	excimer
+آلات بسيطة	simple machines
+آلات بصرية	optical instruments
+آلات نحاسية	brass instruments
+آلات وتريّة	string instruments
+الأثير	ether
+الاحترار العالمي	global warming
+الارتياب المئوي	percentage incertitude
+الأرض	Earth
+الإشعاع الشمسي	solar radiation
+الإشعاع بيتا	beta radiation
+الإشعاع تحت الأحمر القريب	near-infrared radiation
+الأشعة السينية المميِّزة	characteristic X-rays
+الأشعة ألفا	alpha-rays
+الأشعة بيتا	beta rays
+الأشعة دلتا	delta rays
+الأشعة غاما	gamma rays
+الأشعة فوق البنفسجية	ultraviolet rays
+الألوان الأولية الجمعية	additive primary colours
+الأمواج الطويلة	long waves
+الاندفاع الزاوي الكلي	total angular momentum
+الاندفاع الزاوي النووي	nuclear angular momentum
+الاندفاع؛ كمية الحركة	quantity of motion
+الانزياح التثاقلي نحو الأحمر	gravitational red shift
+البصـريات ،علم الضوء	optics
+البصـريات الإلكترونية	electron optics
+البصـريات الموجية	wave optics
+البطارية النووية	nuclear battery
+التحكم باستعمال الموائع	fluidics
+التحكُّم بالعرض	width control
+التردد المنخفض	low frequency
+التصاق	adhesion
+التصوير المقطعي	tomography
+التصوير المقطعي بالصدى	echotomography
+التعرض الإشعاعي	radiant exposure / radiation exposure
+التعقيم بالتشعيع	sterilization by radiation
+التفكك ألفا	alpha decay
+التفكك بيتا	beta decay
+التفكك غاما	gamma decay
+التوافقية الثالثة	third harmonic
+الثابتة الزمنية	time constant
+الثابتة الشمسية	solar constant
+الثقب الأسود	black hole
+الجدول الدوري	periodic table
+الجدول الدوري للعناصـر	periodic table of elements
+الجسم البلوري	crystalline lens
+الجُسـيم ألفا	alpha particle
+الجسيم سيغما	sigma particle
+الجسيم كساي	Xi particle
+الجسيم لمدا	lambda particle
+الجسيمات ألفا الطويلة المدى	long-range alpha-particles
+الجسيمات بيتا	beta particles
+الجملة المَكَثية	MKS system
+الجنوب المغنطيسي	magnetic south
+الحالة المستقرة	stationary state
+الحجم المولي	molar volume
+الحد الأدنى لارتفاع الصوت	lower pitch limit
+الحساسية الضوئية	photosensitivity
+الحقل الكهربائي البلوري	crystalline electric field
+الحقل المغنطيسـي للتيار	magnetic field of a current
+الخاصة الشعرية	capillarity
+الخَفَقَان	beat
+الدالة الموجية الزاويّة	angular wave functoin
+الدالة الموجية المدارية الذرية	atomic orbital wave function
+الدالة دلتا	delta function
+الدورة بروتون-بروتون	proton-proton cycle
+الذرات المتعددة الإلكترونات	multi-electron atoms
+الراجع؛ السائل المعاد؛ ارتداد	reflux
+الرياح الشمسية	solar wind
+الزمكان المنحني	curved space-time
+الزوجان إلكترون وبوزترون	electron positron pair
+الزيادة النترونية	neutron excess
+السـرعة الأكثر احتمالًا	most probable speed
+السـرعة بعد التصادم	velocity after collision
+السطح الكاوي بالانكسار	diacaustic
+السواتل كوزموس	Cosmos satellites
+الشحنة الأولية	elementary charge
+الشفق القطبي الجنوبي	aurora australis / southern lights
+الشفق القطبي الشمالي	aurora borealis / northern lights
+الشمال المغنطيسي	magnetic north
+الصفر المُطلَق	absolute zero
+الصوتيات	acoustics
+الصيغة شبه التجريبية للكتلة	semi-empirical mass formula
+الطاقة الحرة	free energy
+الطاقة الخفية	dark energy
+الطول الأساسـي	fundamental length
+العدد الذري	atomic number
+العدد الكتلي	mass number
+العدد الكمومي الداخلي	inner quantum number
+العدد الكمومي الرئيسـي n	principal quantum number (n)
+العدد الكمومي المغنطيسي	magnetic quantum number
+العزم المغنطيسـي للإلكترون	electron magnetic moment
+العصب السمعي	auditory nerve
+العلاج بالأشعة السينية	X-ray therapy
+العمر المتوسط	average life
+العناصـر المغنطيسية	magnetic elements
+الغلاف المغنطيسي	magnetosphere
+آلف العضم	bone seeker
+آلف وسط الانتشار	lyophilic
+الفرضية الذرية	atomic hypothesis
+الفرضية الكمومية	quantum hypothesis
+الفِرمي	fermi
+الفضاء الرباعي الأبعاد	four-dimensional continuum
+الفضاء؛ فراغ	space
+ألفَة كيميائية	affinity (chemical) / chemical affinity
+الفيزياء الطبية	medical physics
+الفيزياء الفلكية	astrophysics
+الفيزياء الكمومية؛ فيزياء الكم	quantum physics
+الفيزياء النووية	nuclear physics
+الفيزياء الهوائية	aerophysics
+القانون (المبدأ) الأول في الترموديناميك	first law of thermodynamics
+القانون الصفري في التحريك الحراري	zero law of thermodynamics
+القَدَع؛ مد البصـر	presbyopia
+القرِّيات	cryogenics
+القياس عن بعد	telemetry
+الكارثة فوق البنفسجية	ultraviolet catastrophe
+الكتروفور	electrophorus
+إلكترون	electron
+الكترون (ن)	electron
+إلكترون الانقلاب الداخلي	electron of internal conversion
+الكترون التحوّل (ن)	conversion electron
+الكترون التكافؤ	valence electron
+إلكترون أوجيه	Auger electron
+إلكترون أولي	primary electron
+إلكترون ثانوي	secondary electron
+الكترون حر	free electron
+إلكترون حراري	thermoelectron
+إلكترون ضوئي	photoelectron
+الكترون ضوئي (ن)	photo electron
+إلكترون غير متزاوج	unpaired electron
+إلكترون فلط	electron volt (eV)
+الكترون مداري (ن)	orbital electron
+إلكترون مرتد	recoil electron
+الكترون مُقَيَّد	bound electron
+إلكترون موجب	positive electron
+الكترون نفولط (ن)	electron-volt
+إلكترونات النقل	conduction electrons
+إلكترونات جَموحة	runaway electrons
+الكترونات حاملة اللون	chromophoric electrons
+الكترونات عالية السرعة	high speed electrons
+إلكترونات مرتدة	back scattered electrons
+الكترونات مُستطارة خلفيا	back-scattered electrons
+إلكترونات ممتصة	absorbed electrons
+إلكتروني	electronic
+الكترونيات الفضاء	astrionics
+إلكترونيات بصـرية	optoelectronics
+إلكترونيات صوتية	acoustoelectronics
+إلكترونيات كمومية	quantum electronics
+الكتلة الخفيَّة	missing mass
+الكتلة الذرية	atomic mass
+الكثافة الإشعاعية	radiant density
+الكثافة السطحية للكتلة	mass surface density
+الكربون	carbon
+الكمون الزائف	pseudo potential
+الكهرطيسية	electromagnetism
+الكوارك فوق	up quark
+اللزوجة الكهربائية	electroviscosity
+الليثيوم	lithium
+المادة الخفية	dark matter
+ألماس	diamond
+المتانة الحدِّية	ultimate strength
+المتحرِّض؛ حافظة المغنطيس	armature
+المتر	metre
+المتر المعياري	standard meter
+المتر؛ مقياس، عداد	meter
+المتَّصل	continuum
+المتصل زمكان	space-time continuum
+المتغيرات الخفية	hidden variables
+المحور السـريع	fast axis
+المدى الأعظم	maximum range
+المرّيخ	Mars
+المستوي المماس	tangential plane
+المسير الحر الوسطي للتفاعل	reaction mean free path
+المعادلات القانونية	canonic equations
+المفاعيل الجيرومغنطيسية	gyromagnetic effects
+المفعول الكهرضغطي	piezoelectric effect
+المقطع العَرْضـي الكلي	total cross section
+المقطع الفعال للتآثر	interaction cross section
+المقطع الفعال للتفاعل	reaction cross section
+المكافئ الميكانيكي للضوء	mechanical equivalent of light
+المكافىء المائي لجسم	water equivalent of a substance
+المكافىء الميكانيكي للحرارة	mechanical equivalent of heat
+المنظومة العالمية لتحديد الموضع	GPS / global positioning system
+ألمنيوم	aluminium
+الميكانيك الكمومي	quantum mechanics
+الميل	mile
+المَيْل المغنطيسي	magnetic inclination
+الناتج النهائي	end product
+الناقلية الفائقة العالية درجة الحرارة	high-temperature super conductivity
+النترينو الميوني	muonic neutrino
+النترينو ميو	mu-neutrino
+النجوم الثابتة	fixed stars
+النسبة الجيرومغنطيسية	gyromagnetic ratio
+النسبية	relativity
+النسبية العامة	general relativity
+النظرية الجُسَيمية للضوء	corpuscular theory of light
+النظرية الحركية للغازات	kinetic theory of gases
+النظرية الذرية	atomic theory
+النظرية الكمومية	quantum theory
+النظرية الموجية للمادة	wave theory of matter
+النظرية الموحَّدة الكبيرة	GUT / grand unified theory
+النفاذية المغنطيسية	magnetic permeability
+النماذج الذرية	atomic models
+النموذج-الهجين	hybrid model
+آلة	machine
+آلة (مَكَنة) فارادي القرصية	Faraday disk machine
+آلة الحيد	diffraction instrument
+آلة تحميل الوقود (ن)	fuel loading machine
+آلة حاسبة	calculator
+آلة عديدة الأقطاب	multipolar
+آلة نفخ	wind instrument
+آلة هوائية	wind instrument
+آلة وِمْشورست	Wimshurst machine
+الهدروجين	hydrogen
+الواحدات الذرية	atomic units
+الواقية من الصواعق	arrester
+ألوان (ال...) والأصباغ	colors and pigments
+ألوان أولية	primary colors; primary colours / primary colours
+ألوان أولية (تجميعية)	primary colors (additives)
+ألوان متتامّة	complementary colours
+الوزن النوعي	specific gravity
+الوسطاء Z: في الترانزستور	Z-parameters of transistor
+الوصل على التوازي؛ الوصل على التفرع	parallel connection
+آلي	automatic
+آلية	mechanism
+آلية الوصل	link mechanism
+آلية أمكلاب	Umklap process
+إماعة	fluidification
+أمان	safety
+أمانة	fidelity
+أمبير	ampere
+أمبير لفّة	ampere-turn
+أمبير – لفة	ampere-turn
+أمبير- ساعة	ampere-hour
+أمبيرية	amperage
+امتزاجية	miscibility
+امتزاجية جزئية	partial miscibility
+امْتِزاز	adsorption
+امتزاز الازاحة	displacement adsorption
+امتزاز الغاز	gas adsorption
+امتزاز سالب	negative adsorption
+امتزاز قطبي	apolar adsorption / polar adsorption
+إِمْتِزاز متماثل الجزئيات	adsorption isostere
+امتزاز مُنشَّط	activated absorption
+امتزاز موجَّه	oriented adsorption
+امتزاز نوعي	specific adsorption
+إمتصاص	Compton absorption / absorbance / absorption
+إمتصاص (ن)	absorption
+امتصاص أسِّي (ن)	exponential absorption
+امتصاص أشعة كاما (ن)	gamma ray absorption
+امتصاص الجسيمات (ن)	particle absorption
+امتصاص الضوء	absorption of light
+امتصاص الطاقة	energy absorption
+امتصاص الطاقة (ن)	energy absorption
+امتصاص العازل الاستقطابي	dielectric absorption
+امتصاص النترونات	neutron absorption
+امتصاص النترونات الرنيني	resonance absorption of neutrons
+امتصاص انتقائي	selective absorption
+امتصاص تجاوبي للنترونات	resonance absorption of neutrons
+امتصاص ذاتي	auto-absorption; self-absorption / self-absorption
+امتصاص ذاتي (ن)	self-absorption; self-reversal
+امتصاص رنيني	resonance absorption
+امتصاص غير مباشـر	indirect absorption
+امتصاص فوتوني أصيل	intrinsic photon absorption
+امتصاص كهرضوئي (ن)	photoelectric absorption
+امتصاص لما تحت الأحمر	infrared absorption
+امتصاص ما تحت الأحمر	infra-red absorption
+امتصاص منتج الأزواج	pair-production absorption
+امتصاص نترونات (ن)	neutrons absorption
+إمتصاصية	absorbancy / absorptivity
+أمريشيوم	americium
+أملس	smooth
+أمواج تثاقلية	gravitational waves
+أمواج دوبْرويْ	De Broglie waves
+أمواج فوق السمعية	ultrasonic waves
+أمواج متخامدة	damped waves
+أمواج مخمدة	damped waves
+أمواج مَرِنة	elastic waves
+أمواج مستقرة	standing waves / stationary waves
+أمواج هرتزية	hertzian waves
+إناء؛ بيكر	beaker
+أنابيب الأشعة السينية	X- ray tubes
+إنارة	illumination
+إنارة على خلفية سوداء	dark background lighting / dark field illumination
+انبثاق	emanation
+انبعات الاشعاع	emission of radiation
+انبعاث (ن)	emission
+انبعاث أيوني حراري	thermionic emission
+انبعاث ثانويّ	secondary emission
+انبعاث شبكي	grid emission
+انبعاث كهرضوئي	photoelectric emission
+انبعاث لا ارتدادي	recoilless emission
+انبعاث مجالّي	field emission
+أنبوب الأرغن	organ pipe
+أنبوب الأشعة السينية	X-ray tube
+أنبوب الأشعة المِهْبَطية	cathode-ray tube
+أنبوب الانسياب	stream tube
+أنبوب الانفراغ	discharge tube
+أنبوب الرنين	resonance tube
+أنبوب السبر	sounding tube
+أنبوب العداد (ن)	counter tube
+أنبوب المضغاط	piezometer tube
+أنبوب بيتو	Pitot tube
+أنبوب تقصي النزوح	migration tube
+أنبوب شعريّ	capillary tube
+أنبوب عداد (ن)	Geiger-Müller counter tube
+أنبوب عداد الانشطار (ن)	fission counter tube
+أنبوب عداد بوروني (ن)	boron counter tube
+أنبوب عداد ذاتي الاخماد (ن)	self quenched counter tube
+أنبوب عداد ذو نافذة (ن)	window counter tube
+أنبوب عداد هالوجيني الاخماد (ن)	halogen quenched counter tube
+أنبوب عداد هيليومي (ن)	helium counter tube
+أنبوب غيسلر	Geissler tube
+أنبوب كوندت	Kundt’s tube
+أنبوب نانوي	nanotube
+أنبوب؛ صِمام	tube
+أنبوبة تشخيص	diagnostic tube
+أنبوبة تفريغ	discharge tube
+أنبوبة ذات بؤرتين	double focus tube
+أنبوبة شَعَرية	capillary tube
+انتاج (ن)	production
+انتاج اجمالي (ن)	gross production
+إنتاج الأزواج	pair creation / pair production
+انتاج الأزواج (ن)	pair production
+انتاج الأشعة السينية	X- ray production / production of x - rays
+انتاج صاف (ن)	net production
+انتاج نووي (ن)	nuclear production
+انتثار	diffusion
+انتثار الضوء	diffusion of light
+انتثار حراري	thermal diffusion
+انتثار ذاتي	self-diffusion
+انتثار شِعّي	radial diffusion
+انتثارية	diffusivity
+انتثارية حرارية	thermal diffusivity
+أنتروبية	entropy
+أنتروبية نقطة الصفر	zero point entropy
+انتزاز؛ لفظ	desorption
+انتزاع (ن)	stripping
+انتزاع المركبات المعدنية من الماء	water demineralizing
+انتشار	diffusion / propagation
+انتشار الجزيئات الحرة	knudsen flow; free molecule diffusion
+انتشار الجزيئات الطليقة	free-molecule diffusion
+انتشار الصوت	propagation of sound
+انتشار الضوء	propagation of light
+انتشار الضوء بخطوط مستقيمة	rectilinear propagation of light
+انتشار الغازات	diffusion of gases
+انتشار الموجة	wave propagation
+انتشار النترونات (ن)	neutron diffusion
+انتشار حراري	thermal diffusion
+انتشار مستقيم للضوء	rectilinear propagation of light
+انتشارية (ال...)	diffusivity
+انتشارية حرارية	thermal diffusivity
+انتِشاف	sorption
+انتضاح داخلي كهربائي	electroendosmosis
+انتفاح	bulge
+انتفاخ	swelling
+انتقائيّة	selectivity
+انتقال اشعاعي (ن)	radiative transition
+انتقال الالكترون	electron transition / transition (electron..)
+انتقال الحرارة	heat transfer / transfer of heat / transmission of heat
+انتقال الزخم	momentum transfer
+انتقال القدرة العظمى	maximum power transfer
+انتقال بين الحالات	transition between states
+انتقال تَصَاوُغيّ	isomeric transition
+انتقال عازل- فلز	metal-insulator transition
+انتقال غير مباشـر	indirect transition
+انتقال مجانس (ن)	isomeric transition
+انتقال محثوث	stimulated transition
+انتقال محظور	forbidden transition
+انتقال مشع	radiative transition
+انتقال موتّ	Mott transition
+انتقال نظام - فوضى	order-disorder transition
+انتقال نووي (ن)	nuclear transition
+انتقالي؛ عابر	transient
+انتقالية	mobility / transmissivity
+انتقالية الأيونات	ionic mobility / mobility of ions
+انتقالية الأيونات في المادة الصلبة	mobility of ions in solid
+انتقالية مجهرية	microscopic mobility
+انثناء	flexure
+انجذب	gravitate (to)
+أنجسْتروم	angstrom
+انحدار، تدرج	gradient
+انحراف	deflection / deviation
+انحراف أصغر	minimum deviation
+انحراف أصغري	minimum deviation
+انحراف الجسيم	deviation of particle
+انحراف متوسط	mean deviation
+انحراف معياري	standard deviation
+انحراف مغنطيسي	declination / magnetic declination
+انحسار، جزر	reflux
+انحطاط (ن)	degradation
+انحطاط الطاقة	degradation of energy
+انحفاظ الاحتمال	conservation of probability
+انحفاظ الاندفاع الزاوي	conservation of angular momentum
+انحفاظ الشحنة	charge conservation / conservation of charge
+انحفاظ الكتلة والطاقة	conservation of mass and energy
+انحلال النشاط الاشعاعي	radioactive disintegration
+انحناء	curvature
+انحناء السطح	curvature of surface
+انحناء لا تناظري	unsymmetrical bending
+انحناء؛ تقوُّس	curvature
+انحياز	bias
+انحياز الشبكة	grid bias
+انحياز المِهْبَط	cathode bias
+انحياز المَهبِط؛ انحياز الكاتود	cathode bias
+انحياز أمامي	forward bias
+انحياز ذاتي	self-bias
+انحياز سالب	negative bias
+انحياز عكسي	backward bias
+انحياز معدوم	zero bias
+انخساف	implosion
+انخفاض نقطة التجمد	depression of freezing point
+انخلاع	dislocation
+انخلاع الحافة	edge dislocation
+انخلاع لولبي	screw dislocation
+انخلاع ملولبي	screw dislocation
+اندفاع	momentum
+اندفاع الفونون	phonon momentum
+اندفاع خطي	linear momentem
+اندفاع زاويّ لجسمٍ صلد	angular momentum of rigid body
+اندفاع زاوي مداري	orbital angular momentum
+اندفاع زاوي؛ عزم الاندفاع	angular momentum
+اندفاع معمَّم	generalized momentum
+اندفاع نسبوي	relativistic momentum
+اندفاق	effusion
+اندماج بالليزر	laser fusion
+اندماج نووي	nuclear fusion
+اندماج، انصهار	fusion
+اندماج؛ انصهار	fusion
+اندماح نووي (ن)	nuclear fusion
+إنديوم	indium
+انزلاق	sliding / slip
+انزياح	Lam shift / shift
+انزياح أحمر	red shift
+انزياح أحمر بالجاذبية	gravitational red shift
+انزياح الطور	phase displacement / phase shift
+انزياح خطوط الطيف	shift of spectral line
+انزياح دوبلر	Doppler displacement / Doppler shift
+انزياح دوبلر للخطوط الطيفية	Doppler shift of spectral lines
+انزياح طيفي	spectral shift
+انزياح كهربائي	electric displacement
+انزياح لامب	Lamb shift
+انزياح نحو الأحمر	redshift
+انزياح نحو الأزرق	blue shift
+انزياح نظيري	isotope shift
+انزياح نظيري (ن)	isotope shift
+انزياح؛ إزاحة	shift
+انسجامية	consistency
+انسحاب	translation
+انسحاب المحاور	translation of axes
+انسداد هوائي	aeroembolism
+انسكاب	effusion
+انسياب صوتي	sound streaming
+انسياب غير منتظم	unsteady flow
+انسياب لاحق	after-flow
+انسـياب متبقي	afterflow
+انسيابي	aerodynamic
+انسياق	drift
+إنش	inch
+إنشاء هندسي	geometrical construction
+انشطار	fission
+انشطار (ن)	fission
+انشطار تلقائي	spontaneous fission
+انشطار تلقائي (ن)	spontaneous fission
+انشطار ثلاثي	ternary fission
+انشطار ثنائي (ن)	binary fission
+انشطار حراري (ن)	thermal fission
+انشطار ذري	atomic fission
+انشطار سـريع	fast fission
+انشطار سريع (ن)	fast fission
+انشطار ضوئي (ن)	photofission
+انشطار فوتوني	photofission
+انشطار محرَّض	induced fission
+انشطار نووي	nuclear fission
+انشطار نووي (ن)	nuclear fission
+انشطاري (ن)	fissile
+انشطاري ذّري	fission (atomic..)
+أنصاف أقطار	radii
+انضغاط	compression
+إنضغاط كَظيم	adiabatic compression
+انضغاطية	compressibility
+انضغاطية السوائل	compressibility of liquids
+انضمام خطي	linear superposition
+انضمام؛ تراكب	superposition
+انطباق أساسي	essential degeneracy
+انطباق التبادل	exchange degeneracy
+انطفاء	extinction
+انطفاء أولي	primary extinction
+أنطقة التشويه	deformation bands
+انطلاق حرج	critical speed
+انطلاقة	speed
+انطلاقة الصوت	speed of sound
+انطلاقة صوتية	sonic speed
+أنطلبية حرة؛ محتوى حراري حر	free enthalpy
+أنطلبية؛ محتوى حراري	enthalpy
+انعدام الثقالة؛ انعدام الوزن	zero gravity
+انعدام الجاذبية	zerogravity
+انعدام الوزن	weightlessness
+انعراج الأشعة السينية	X-ray diffraction / diffraction of X-rays
+انعراج الإلكترونات	electron diffraction
+انعراج النترونات	neutron diffraction
+انعراج فراونهوفر	Fraunhofer diffraction
+انعراج فرينل	Fresnel diffraction
+انعراج لاوِه	Laue diffraction
+انعراج؛ حيود	diffraction
+انعطاف	flexure
+انعكاس	reflection
+انعكاس إسكاني	population inversion
+انعكاس الصوت	reflection of sound / sound reflection
+انعكاس الضوء	reflection of light
+انعكاس الطور	phase reversal
+انعكاس النترونات	neutron reflection
+انعكاس انتثاري	diffuse reflection / irregular reflection
+انعكاس انتشاري	diffuse reflection
+انعكاس انتشاري غير منتظم	irregular diffuse reflection
+انعكاس براغ	Bragg reflection
+انعكاس حزمة نترونات	reflection of neutron beam
+انعكاس كلّي	total reflection
+انعكاس كلّي داخلي	total internal reflection
+انعكاس متعدد	multiple reflection
+انعكاس منتشر	non specular reflection
+انعكاس منتظِم	regular reflection
+انعكاسية	reflectance / reflectante; radiant reflectance / reflectivity / reversibility
+انعكاسية الضوء	reversibility of light
+انعكاسية اللمع	luminous reflectance
+انعكاسية مرآوية	specular reflectance
+أنغستروم	angström
+إنفاذية	transmittance
+إنفاذية نوعية	transmittancy
+انفجار	explosion
+انفجار ذري (ن)	atomic explosion
+انفجار نووي	nuclear explosion
+انفجار نووي (ن)	nuclear explosion
+انفراغ توهجي	glow discharge
+انفراغ توهجي شاذ	abnormal glow discharge
+انفراغ غازي	gaseous discharge
+انفراغ قوسـي	arc discharge
+انفراغ كهربائي؛ تفريغ كهربائي	electric discharge
+انفراغ مظلم	dark discharge
+انفصال	separation
+انفعال	strain
+انفعال التمدد الحجمي	dilatational strain
+انفعال القصّ	shear strain
+انفعال غير منتظم	non uniform strain
+انفعال قصّي	shearing strain
+انفعال؛ تشوُّه	strain
+انفلاتية (غازية)	fugacity
+انفلاق	cleavage
+انفلاق الخطوط الطيفية المغنطيسي	magnetic splitting of spectral lines
+انفلاق زيمان	Zeeman splitting
+انفلاق شتارك	Stark splitting
+انفلاق مستويات الطاقة	splitting of energy levels
+انفلاق ناتج عن رباعي الأقطاب النووي	nuclear quadruple splitting
+انقطاع	discontinuity / jog
+انقطاع الامتصاص	absorption discontinuity
+انقلاب الفضاء	space inversion
+انكسار	refraction
+انكسار الصوت	refraction of sound / sound refraction
+انكسار الضوء	refraction of light
+انكسار انتشاري	diffuse refraction
+انكسار ثنائي بالاستقطاب الدائري	allogyric birefringence
+انكسار جزيئي مولالي	molar refraction
+انكسار جوّي	atmospheric refraction
+انكسار خطوط التدفق	flux refraction
+انكسار ذري	atomic refraction
+انكسار شاذ	anomalous refraction
+انكسار ضوئي مزدوج	optical birefringence; optical double refraction
+انكسار عياري	standard refraction
+انكسار فائق	super-refraction
+انكسار فلكي	astronomical refraction
+انكسار مخروطي	conical refraction
+انكسار مزدوج قسري	forced birefringence; forced double refraction
+انكسار مزدوج، انكسار مضاعف	double refraction
+انكسار مضاعف	birefringence / double refraction
+انكسار موشوري	refraction by prism
+انكسار نوعي	specific refraction
+انكساري	refrangible
+انكسارية	refractive dispersivity
+أنماط أطياف لامرئية	types of invisibles spectra
+أنماط التذبذب	modes of oscillation
+أنماط نظامية	normal modes
+انهيار	breakdown
+انهيار العازل	dielectric breakdown
+انهيار الغاز	gas breakdown
+انهيار الكهرنافذ	dielectric break-down
+انهيار تَيهوري	avalanche breakdown
+أنواع الطيف، أنواع الأطياف، صنوف الأطياف	types of spectra
+أنود؛ مَصْعَد	anode
+آنيّ	instantaneous
+آنية (ال...)	simultaneity
+أنيون	anion
+اهتزاز (ن)	vibration
+اهتزاز الشّبيكة	lattice vibration
+اهتزاز طبيعي	natural vibration
+اهتزاز غشاء الطبلة	drumskin action
+اهتزاز قسـري	forced oscillation
+اهتزاز؛ اهتزازة	oscillation
+اهتزازات نقطة الصفر	zero point vibrations
+اهتزازت حرة	free vibrations
+اهتزازة ذرية (ن)	atomic vibration
+اهتزازة قسرية	forced vibration
+أهداب	Brewster fringes / Haidinger fringes
+أهداب التداخل	fringes of interference / interference fringes
+أهداب بروستر	Brewster fringes
+أهداب تساوي الثخن	fringes of equal thickness
+أهداب تساوي الميل	fringes of equal inclination
+أهداب فابري بيرو	Fabry-Perot fringes
+أهداب لا متوضِّعة	unlocalized fringes
+أهداب متموضعة	localized fringes
+أهداب ملّونة	colored fringes
+اهليلج الاستقطاب	polarization ellipse
+إهليلج القرائن المجسَّم	index ellipsoid
+اهليلج ديكارتي	cartesian oval
+إهليلج، قطع ناقص	ellipse
+إهليلجي	elliptical
+أهمية نسبية (ن)	relative importance
+أوان مستطرقة	communicating vessels
+أواني مستطرِقة	communicating vessels
+أوج المدار حول الشمس	aphelion
+أورانوس	Uranus / uranus
+أورستد	oersted
+أوروبيوم	europium
+أوزون	ozone
+أوسميوم	osmium
+أوّلّي	initial
+أولي، ابتدائي	primary
+أوم	ohm
+إيجابية شفافة (شفّافية)	diapositive
+إيجابية ضوئية	light positive; photo-conductive; photo-positive
+إيذاء بالإشعاع	radiation damage
+إيريديوم	iridium
+إيزومير نووي، متصاوِغ نووي	nuclear isomer
+إيزومير؛ مُصاوِِغ	isomer
+إيعاز بالجريان	flowing junction
+ايقاف (ال...)	stopping
+ايقاف (ن)	shutdown
+ايقاف اضطراري (ن)	emergency shutdown
+ايقاف بارد (ن)	cold shutdown
+ايقاف طارئ (للمفاعل) (ن)	scram
+إيقاف فُجائي	scram
+إيلم؛ هيولى	ylem
+أينشتاين	einstein
+أينشتاينيوم	einsteinium
+أيون	ion
+أيون (ن)	ion
+أيون جزيئي	molecular ion
+أيون سالب	anion / negative ion
+أيون شبيه بالهدروجين	hydrogen-like ion
+أيون عديد الذرات	polyatomic ion
+أيون غير متجانس	heteroion
+أيون مُركَّب	complex ion
+أيون مميّه	aquo ion; hydrated ion / hydrated ion; aquo ion
+آيون موجب	cation; cathion; positive ion / positive ion
+أيونات شبيهة بالهدروجين	H-like ions
+أيونات قلوية	alkali ions
+أيونات موجبة	Kathions
+آيونية	ionicity; degree of ionicness

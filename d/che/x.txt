@@ -1,0 +1,41 @@
+x - ray	الأشعة السينية (أشعة x)
+x - ray diffraction	انعراج الأشعة السينية
+x - ray spectrum	طيف الأشعة السينية
+x-axis	محور السينات، محور سيني
+x-coordinate	احداثيّ (ال...) السيني
+x-radiation	إشعاع x، إشعاع سيني
+x-ray crystallography	رسم البلورات بالأشعة السينية، رسم البلورات بأشعة روتنجن
+x-ray diffraction	انعراج الأشعة السينية، انعراج أشعة روتنجن
+x-ray examination	فحْص بالأشعة السينية، فحْص بأشعة روتنجن
+x-ray photograph	صورة بالأشعة السينية
+x-ray screen	ستارالأشعة السينية، ستارأشعة روتنجن
+x-ray shield	حاجز الأشعة السينية، حاجز أشعة روتنجن
+x-ray spectrogram	صورة طيفية للأشعة السينية
+x-ray tube	أنبوب الأشعة السينية، أنبوب أشعة روتنجن
+x-rayon analysis	تحليل بالأشعة السينية، تحليل بأشعة روتنجن
+x-rays	أشعة سينية، أشعة روتنجن، أشعة اكس
+x-unit (or xu)	وحدة سينية
+xanthan gum	صمغ الزانتان
+xanthate	زنتات / زانتات
+xanthation	زنتتة
+xanthene	زانتين
+xanthene dye	صبغة زنتيني / صمغ زانتيني
+xanthic acid	حمض الزنتيك / حمض الزانتيك
+xanthin	زانتين، كزانثين
+xanthine	زانتين
+xantho-	أصفر: سابقة
+xanthogen	زانتوجين
+xanthone	زانتون
+xenon	زينون
+xenon compounds	مُرَكَّبات الزينون
+xi-particle	جسيم xi
+xylan	زيلان
+xylem	زيليوم
+xylene	زايلين
+xylene; xylol	زيلين
+xylenol	زيلينول / زيلِنول
+xylidine	زيليدين
+xyloid	خشباني
+xylol	زليول / زيلول
+xylonite	زيلونيت
+xylose	زايلوز / زيلوز

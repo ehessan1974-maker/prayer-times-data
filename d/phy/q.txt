@@ -1,0 +1,76 @@
+q point	نقطة العمل
+QED	تحريك كهربائي كمومي
+quadrant electrometer	مقياس كهربي ربعي
+quadrantal angle	زاوية ربعية
+quadrantal point	جهة فرعية
+quadratic	تربيعي
+quadratic equation	معادلة من الدرجة الثانية
+quadratic formula	صيغة تربيعية
+quadratic piezoelectric effect	تأثير كهرضغطي تربيعي
+quadratic Stark effect	مفعول شتارك التربيعي
+quadratic surface	سطح من الدرجة الثانية
+quadrature	ترابُع
+quadric	سطح تربيعي
+quadrilateral	رباعي الأضلاع
+quadripole	رباعي الأقطاب
+quadruple moment	عزم رباعي الأقطاب
+quadruple point	نقطة رباعية
+quadruple radiation	اشعاع رباعي الأقطاب
+quadrupole	رباعي الأقطاب
+quadrupole moment	عزم رباعي الأقطاب
+qualitative	كيفي
+qualitative analysis	تحليل كيفي
+qualitatively	كيفيا
+quality control	مراقبة الجودة (ن)
+quality factor	عامل الجودة (ن) / عامل الجودة
+quality of sound	نوعية الصوت / طابع الصوت
+quanta	كُموم
+quantic physics	فيزياء الكم
+quantification	تقدير كمِّي
+quantitative analysis	تحليل كَمِّي
+quantitative law	قانون كمي
+quantitative law of electrolysis	قانون التحليل الكمّي
+quantitatively	كميا
+quantity	كمية
+quantity of motion	الاندفاع؛ كمية الحركة
+quantization	تكمية (ن) / تَكْمية
+quantized	مكمى / مُكَمَّى
+quantized field theory	نظرية المجال المكمي
+quantized states	حالات (ال...) المكماة (ن)
+quantum	كم / كمٌّ (جمعها كموم)
+quantum condition	شـرط كمومي
+quantum efficiency	مردود كمومي
+quantum efficiency; quantum yield	كفاءة الكم
+quantum electrodynamics	تحريكات (ال...) الكهربائية الكمية
+quantum electrodynamics (QED)	تحريك كهربائي كمومي
+quantum electronics	إلكترونيات كمومية
+quantum emission	إصدار كمومي
+quantum field theory	نظرية المجال الكم
+quantum hypothesis	الفرضية الكمومية
+quantum mechanical picture	صورة كمومية
+quantum mechanics	ميكانيك الكم / الميكانيك الكمومي
+quantum number	عدد كمي (ن)
+quantum numbers	أعداد كمومية
+quantum of magnetic flux	كمُّ التدفق المغنطيسي
+quantum physics	فيزياء الكم / الفيزياء الكمومية؛ فيزياء الكم
+quantum state	حالة كمومية
+quantum statistics	احصاء الكم / إحصاء كمومي
+quantum theory	نظرية الكم / النظرية الكمومية
+quantum theory of light	نظرية الضوء الكمية / نظرية الضوء الكمومية
+quantum yield	مردود كمومي
+quark	كُوارْك
+quarter-wave plate	صفيحة ربع موجة / صفيحة ربع موجية
+quartz	مَرْو / كوارتز؛ مرو
+quartz crystals	بلورات مرو
+quasi conductor	شبه موصّل
+quasi dielectric	شبه عازل استقطابي
+quasi Ferme levels	شبه مستويات فرمية
+quasi Fermi level	شبه مستوى فيرمي
+quasi static transformation	تحوُّل شبه سكوني
+quasistationary filed	مجال شبه ساكن
+quenching	اخماد (ن) / إسقاء؛ إطفاء
+quenching circuit	دارة الاخماد (ن) / دارة إطفاء
+quenching gas	غاز الاخماد (ن)
+quiescent current	تيار العمل
+quiescent point	نقطة العمل
+quintuple point	نقطة مخمسة

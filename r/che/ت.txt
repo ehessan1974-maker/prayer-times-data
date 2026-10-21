@@ -1,0 +1,1076 @@
+تابع العمل	work function
+تابع الموجة، دالة موجية	wave function
+تابع جيبس	Gibbs function
+تابعُ حَالةٍ	state function
+تابع موجي	wave function
+تابع هلمهولتز	Helmholtz function
+تابون	tabun
+تآثر	interaction
+تآثر مَداري سَبيني	spin-orbit interaction
+تأثرية	susceptibility
+تأثير	influence
+تأثير الاستشراد أو السحب، تأثير دراك، تأثير الهجرة الكهربائية	drag effect; ellectrophoretic effect
+تأثير الأيون المشترك، فعل (تأثير) الأيون المشترك	common-ion effect
+تأثير الحجب	screening effect
+تأثير الدفيئة	greenhouse effect
+تأثير الرحلان، تأثير الاستشراد، تأثير السحب	electrophoretic effect; drag effect
+تأثير الصمام	valve effect
+تأثير المذيب	solvent effect
+تأثير الموقع المفروق	trans effect
+تأثير النفق، تأثير نفقي	tunnel effect
+تأثير تراكمي	cumulative effect
+تأثير تندال	Tyndall effect
+تأثير تندال، ظاهرة تندال	Tyndall effect
+تأثير جان-تيلر، ظاهرة جان-تيلر	Jahn-Teller effect
+تأثير جول-طومسون، ظاهرة جول-طومسون	Joule-Thomson effect
+تأثير فراغي	steric effect
+تأثير فين	Wien effect
+تأثير لا تناظري، تأثير عدم التماثل، فعل عدم التماثل	asymmetry effect
+تأثير متحاوز، (متفارغ)	allosteric effect
+تأثير مجموعة مجاورة	neighbour-group effect
+تأثير، فعل	effect
+تأخُّر، تأخير	delay
+تأخير	retardation
+تأريخ	dating
+تأريخ بالكربون	carbon dating
+تأريخ بالكربون المشع	radiocarbon dating
+تآزر	synergism
+تأشيب	recombination
+تآصل	allotropy; allotropism
+تآصل فوسفوري	phosphorous allotropy
+تاغاتوس	tagatos
+تأكسد بالتحريض	induced oxidation
+تأكسد داخلي	internal oxidation
+تأكسدي	oxidative
+تآكَلَ	corrode (to) / corrosion
+تآكل بالاحتكاك	attrition
+تآكل كامن	potential corrosion
+تآكُل، تأكّل	corrosion
+تال، مجاور	next carbon atom
+تألق كيميائي، ضيائية كيميائية	chemi-luminescence
+تألُّق مناعي	immunofluorescence
+تألُّق، تَفَلْوَرٌ	fluorescence
+تاليوم	thallium
+تام، كامل	complete
+تأنُول	enolization
+تأيّن	ionization
+تأين ذاتي	auto-ionization
+تأين ضوئي	photoionization
+تأيُّن، تشرُّد	ionization
+تبئير	focusing
+تبادُل	commutation / exchange / interchange
+تبادل أيوني	ion exchange
+تبادل كاتيوني	cationic exchange
+تبادل، استبدال	substitution
+تبادُلِيّ	commutative
+تباعد	divergence
+تبايُن	contrast
+تباينية الخواص	anisomerism / anisotropy
+تبخُّر	evaporation / vaporization
+تبخُّر، تبخير	evaporation
+تبخير، تبخُّر	vaporization
+تبدّل	alteration
+تبدّل، تغيّر	change
+تبديد	dissipation
+تبديل	permutation
+تبريد فائق	supercooling
+تبريد فجائي	chilling
+تبطين	lining
+تبعثر الضوء	light (scattering of ...)
+تبعثر مرتد	backscattering
+تبعثُر، بعثرة	dispersion
+تبعثُر، تشتُّت	dispersion
+تبعثري	dispersive
+تبقيع بالحمض	acid spotting
+تَبَلْور	crystallization
+تبلور مجزأ	fractional crystallisation
+تبليل	wetting
+تتالي	succession
+تتالي، تتابع	sequence
+تترالين	tetralin
+تتميم - تكميل	complementation
+تتميمي - تكميلي	complementary
+تثبيت	fixation / stabilization
+تثبيت (مركب)	tightening (of a compound)
+تثبيت النتروجين	nitrogen fixation
+تثبيت مركب	stabilization (tinghtening) of a compound
+تثبيط	inhibition
+تثبيط الإنزيم	enzyme inhibition
+تثبيط إنزيمي لا تنافسي	uncompetitive enzyme inhibition
+تثبيط تنافسي	competitive inhibition
+تثبيط، كبْح، كبْت	inhibition
+تثخين، تغليظ	thickening
+تثقيل، ترسُّب، ترسيب	sedimentation
+تجاذب	attraction
+تجاذب أيوني	ionic attraction
+تجاذب جزيئي	molecular attraction
+تجانُس	homogeneity
+تجاوب (رنين) مغنطيسي	magnetic resonance
+تجاوب (رنين) مغنطيسي نووي	NMR / nuclear magnetic resonance (NMR)
+تجاوبٌ سبيني	spin resonance
+تجاوب، رنين (طنين)	resonance
+تجديد	regeneration
+تجربة	experiment
+تجربة شاهدة، تجربة مقارنة	control experiment
+تجربة طويلة الأمد	long-duration test
+تجربة، محاولة	trial
+تجريبي	experimental
+تجزئة	fractionation / partition
+تجزيء	fractionation / partitioning
+تجفيف	desiccation / drying
+تجفيف بالمذيب	solvent drying
+تجفيف في الخلاء	vacuum drying
+تجلتن هلامي	pectization
+تجلتُن، تهلُّم، جلتنة	gelatinization
+تجلُّط	clotting
+تَجَمُّد	setting up
+تجمُّد، تجميد	freezing
+تجمُّع	aggregation
+تجمع جزيئي	molecular association
+تجمُّع، اقتران	association
+تجمع، جماعة	aggreagate
+تجميد	congelation
+تجميد، تجمُّد	freezing
+تجميع	assembly
+تجهيز	equipement
+تجهيزات مخبرية، تجهيزات مختبرية	laboratory equipments
+تجهيزة	appliance
+تجوية	weathering
+تحاتّ, تعرية	erosion
+تحالّ كهربائي	electrodialysis
+تحاوز، تفارغ	allostery
+تحبيب، برغلة	granulation
+تحت (بادئة)	hypo
+تحت أكسيد	suboxide
+تحت الاسموزية، أقل اسموزيا	hypotonic
+تحت الحمض	sub acid
+تحت الفراغ	undervacuum
+تحت كلوريت	hypochlorite
+تحت: سابقة	infra-
+تحت، دون: سابقة	sub-
+تحت، قصور، نقص: سابقة	hypo-
+تحجُّر، استحجار	petrification
+تَحَدُّب	convexity
+تحديد	limitation
+تحديد، تعيين	determination
+تَحَرُّك حراري	thermal agitation
+تحرير	liberation
+تحريض	induction
+تحريض بالضوء، حث بالضوء	light-induced
+تحريض كيميائي ضوئي، حث كيميائي ضوئي	photochemical induction
+تحريض، حّثٌ	induction
+تحريضي	inductive
+تحريك	stirring
+تحريك، خضخضة	agitation
+تحريكي، ديناميكي	dynamic
+تحسيس ضوئي	photosensitization
+تحسين	reforming
+تحسين بالبلاتين	platforming
+تحسين بالهدرجة	hydroforming
+تحسين حراري	thermoforming
+تحسين فائق	ultraforming
+تحضير	preparation
+تحطيم حراري، تحلل حراري	pyrolysis
+تحفيز	catalysis
+تحفيز ذاتي	autocatalysis
+تحفيز سلبي	negative catalysis
+تحفيز ضوئي	photocatalysis
+تحفيز لا متجانس	heterogeneous catalysis
+تحفيز متجانس	homogeneous catalysis
+تحفيزي	catalytic
+تحقُّق، بحْث	investigation
+تحكُّم عن بعد	remote control
+تحلحلٌ، تذُّوب	solvolysis
+تَحَلُّق	cyclization
+تَحَلُّق بالضم	cycloaddition
+تحلّق بنزع الهيدروجين	dehydrocyclization
+تحلُّق، تحليق	cyclization
+تحلُّل	decomposition
+تحلل الجراثيم، حَلُّ الجراثيم	bacteriolysis
+تحلل الغليكوجين	glycogenolysis
+تحلل الكتروليتي	electrolytic decomposition
+تحلُّل أميني	aminolysis
+تحلّل أوزوني	ozonolysis
+تحلُّل بالهيدروجين	hydrogenolysis
+تحلل بروتوني ذاتي	autoprotolysis
+تحلل بورتيني	proteolysis
+تحلل جزيئي	molecular decomposition
+تحلل حراري	thermal decomposition / thermolysis
+تحلل حمضي	acidolysis
+تحلل ذاتي	autolysis
+تحلل ذري ذاتي	atomic desintegration
+تحلُّل سكري	glycolysis
+تحلل سكري، تحويل غلايكولي	glycolysis
+تحلُّلٌ صوتي	sonolysis
+تحلّل ضوئي	photolysis
+تحلل ضوئي، تفكك ضوئي	photolysis
+تحلّل غَوْلي	alcoholysis
+تحلل لا تجانسي	heterolytic
+تحلل لا متجانس	heterolysis
+تحلُّل، تفكُّك	decomposition (point)
+تحليل	analysis
+تحليل استقطابي	polarographic analysis
+تحليل استقطابي، تحليل الاستقطابية	polarographic analysis
+تحليل أستيلي	acetolysis
+تحليل الأثر	trace analysis
+تحليلُ الطيف	spectrum analysis
+تحليل أوزوني	ozonolysis
+تحليل بالأشعة السينية، تحليل بأشعة روتنجن	x-rayon analysis
+تحليل بالإنصال (الإبعاد)	stripping analysis
+تحليلٌ بالتخطيط الطيفي	spectrographic analysis
+تحليل باللهب	flame photometry
+تحليل بقياس درجة الحرارة	thermometric analysis
+تحليل تقريبي	proximate analysis
+تحليل ثقلي (وزني)	gravimetric analysis
+تحليل جهازي، تحليل بالأجهزة	instrumental analysis
+تحليل حجمي	volumetric analysis
+تحليل حدّي	ultimate analysis
+تحليل حراري	thermal analysis
+تحليل حراري وزني	thermogravimetric analysis
+تحليل حكم	umpire analysis
+تحليل راديومتري، تحليل إشعاعي	radiometric analysis
+تحليل رطب	wet analysis
+تحليل صِغْريّ	microanalysis
+تحليل ضوئي	photometric analysis
+تحليل طيفي	spectral analysis
+تحليل عادي	macroanalysis
+تحليل عددي	numerical analysis
+تحليل عنصري	elementary analysis
+تحليل كِبْريّ	macro analysis
+تحليل كمّي	quantitative analysis
+تحليل كمي للغازات	gasometric analysis
+تحليل كهربائي	electro analysis / electrolysis
+تحليل كهربائي، كهرلة	electrolysis
+تحليل كيفي	qualitative analysis
+تحليل كيميائي فيزيائي	physicochemical analysis
+تحليل مجزأ	fractional analysis
+تحليل مجهري، تحليل ميكروئي	micro-analysis
+تحليل مقياس العكَر، تحليل بقياس الكدورة أو التعكر	turbidimetric analysis; turbidimetry
+تحليل نفلومتري	nephlometric analysis
+تحليل نهائي، تحليل جوهري، تحليل مطلق	ultimate analysis (elementary)
+تحليل نوعي للعناصر، تحليل كيفي للعناصر	elements (qualitative analysis of)
+تحليل وزني	gravimeter analysis / gravimetry
+تحليل وزني كهربائي	electrogravimetry
+تحليلي	analytic / analytical
+تحلية	sweetening
+تحلية بالهواء	air sweetening
+تَحَمُّل الصّدم	impact strength
+تحملية، قابلية التحمل	durability
+تحميص	roasting
+تحميض	acidification
+تحوصب، تدمّج	flocculation
+تحوُّل	transformation / transmutation
+تحوّل الطور	phase transition
+تحوُّل زجاجي	glass transition
+تحوّل وول	Wohl degradation
+تحوُّل، انقلاب	conversion
+تحوُّل، تحويل	transformation
+تحوير	modification
+تحويرات	modifications
+تحويل	diversion
+تحويل بيني	interconversion
+تحويل لورنتز	Lorentz transformation
+تحويل، قلب	conversion
+تحويلة	shunt
+تحييد	neutralization
+تخايُل بِلَّوري	enantiomorphism
+تخايلي	antipodal
+تخايلية	enantiomorphy
+تخثّر	coagulation
+تَخَثُّر الدم	blood clotting / blood coagulation
+تخثّر فوق صوتي، تخثّر فوق السمعية	ultrasonic coagulation
+تخثُّر، تجلُّط	coagulation
+تخدير	anesthesia
+تخريب، إتلاف	destruction
+تخزين	storage / warehousing
+تخطيط استقطابي	polarography
+تخطيط طيف الكُتْلة	mass spectrography
+تخطيطٌ طيفي	spectrography
+تخفيض الضغط	depressurizing
+تخفيف الضغط	decompression
+تخفيف، تمديد	dilution
+تخلخل	rarefaction
+تخلفية، بطاء	hysteresis
+تخلّق إشعاعي، إشعاع تخلقي	radiomemetic
+تخليق (اصطناع) راشيغ	Raschig synthesis
+تخليق لا تناظري، تركيب لا تماثلي	asymmetric synthesis
+تخمُّر	fermentation
+تخمُّر، اختمار	zymosis
+تخميد، تلطيف	taming (down)
+تخمير	leavening
+تخمير الجعة	brewing
+تخميل	deactivation
+تداخُل	interference
+تداخل المدارات، تداخل الأفلاك	overlap of orbitals
+تدافع، تنافر	repulsion
+تدخين	fumigation
+تدرّج الكمون	potential gradient
+تدرُّج، تدريج	graduation
+تدرّك، تخفيض، حطّ	degradation
+تدريج المحارير، تدريج الترمومترات، تدريج مقاييس الحرارة	calibration of thermometers
+تدفئة، تسخين	warming
+تدفُّق	flow; flux
+تدفق الإشعاع	radiant flux
+تدفُّق راجع	backflow
+تدفُّق، صُهارة	flux
+تدهوُر	deterioration
+تدويرٌ متبدِّل	mutarotation
+تدوير يميني	dextrorotation
+تذهيب كهربائي	electrogelding
+تَذَوُّب	solvation
+تذوّب هيدروجيني	hydrosolvation
+تراب قلوي	alkaline earth
+تراب نادر	rare earth
+ترابط	association / coherence
+ترابُطٌ عدديّ	colligative
+ترابط فلزي، ترابط معدني	metallic bonding
+ترابط لا قطبي، رابطة لا قطبية	non-polar bond
+ترابط هيدروجيني	bonding (hydrogen..)
+ترابطي	associative
+تراجُعٌ	backward
+تراسب متزامن	coprecitation
+تراص، تلازق	agglutination
+ترافق متساوي التكافؤات	isovalent conjugation
+ترافق، اقتران	conjugation
+ترافُق، تقارُن، اقتران	conjugation
+تَرَاكُب	overlapping
+تراكب - انضمام	superposition
+تراكب بلوري	crystal (overgrowth..)
+تراكب جانبي، تغطية جانبية	lateral overlap
+تراكَم	accumulate (to) / accumulation / cumulation
+تراكُم (توضّع) كهربائي	electrodeposition
+تراكُميّ	cumulative
+ترانزستور	transistor
+تربيع	quartering (of sample)
+تربيعي	quadratic
+تِرْبين	terpene
+تربيوم	terbium
+ترتيب	arrangement / ordinate
+ترتيبة	tacticity
+ترتيبي	isotactic
+ترتيوم	tritium
+ترجّح	fluctuation
+ترجرُج	fluctuation
+ترحّل أنودي	anaphoresis
+تَرَدُّد العتبة	threshold frequency
+تردّد، تواتر	frequency
+تَرَدّي	degeneration / deterioration
+ترذيذ	atomization
+ترذيذ، تذرية	atomization
+ترسب مجزأ	fractional precipitation
+ترسُّب، إرساب، رسوب	sedimentation
+ترسُّب، توضُّع	deposition
+ترسيب	precipitation
+ترسيب مشترك	coprecipitation
+ترسيب نطاقي	zone precipitation
+ترسيب، توضّع	deposition
+ترشّح	percolation
+ترشيح	filtration
+ترشيح (غشائي) فائق الدقة (للمواد الغروانية)	ultrafiltration
+ترشيح فائق	ultrafiltration
+ترشيح مسرّع	accelerated filtration
+ترشيح ميكروئي، ترشيح دقيق	microfiltration; ultrafiltration
+ترشيح هلامي	gel filtration
+ترطيب، تخميد	damping
+ترقيد	settling
+تركيب	composition
+تركيب الهواء	air (composition of)
+تركيب بلوري للثلج	snow (crystal structure...)
+تركيب حجمي	volumetric composition
+تركيب مئوي	percentage composition
+تركيز	concentration
+تركيز أيون الهيدروجين	hydrogen ion concentration
+تركيز أيونات الهيدروجين	hydrogen-ion concentration
+تركيز ترموديناميكي	thermodynamic concentration
+تركيز خامات	concentration of ores
+تركيز محاليل	concentration of solutions
+تركيز مولي	molar concentration
+تركيز نَشِط، تركيز فعّال	active concentration
+تركيم	build up
+ترموديناميك	thermodynamics
+ترموديناميكة الخلايا الفولتية، ديناميات (ال...) الحرارية للخلايا الفولتية	thermodynamics of voltatic cells
+ترموديناميكي	thermodynamic
+ترموديناميكي (ال...)، دينامية (ال...) الحرارية	thermodynamics
+ترموستات	thermostat
+ترموستات, منظّم حراري	thermostat
+ترميت	thermite
+ترميد	ashing / incineration
+ترميد رطب	wet ashing
+ترميز	coding
+تروبوكولاجين	tropocollagene
+تروبونين	troponin
+ترومبين	thrombin
+ترويق	clarification / elutriation
+تريازول	triazole
+تِرياق	antidote
+ترياقي	antitoxic
+ترياقي، مضاد للسم	antidotal
+تريبتوفان	tryptophan
+تريبسين	trypsin
+تريتون	triton (t)
+تريتيوم	tritium
+تريديميت	tridymite
+تريموليت	tremolite
+تريوز	triose
+تزامن	synchronism
+تزاوُج، ازدواج	coupling
+تزاوج، مُزاوجة	pairing
+تزجيج	vitrification
+تزجيج بالملح	salt glazing
+تزهُّر	blooming / efflorescence
+تزهُّر الكبريت	blooming of sulphure
+تسارع	acceleration
+تسامٍ، تصعيد	sublimation
+تسامُح، تفاوت مسموح	tolerance
+تَسانُد	coordination
+تساندٌ رباعيُّ الوجوه	tetrahedral coordination
+تسانُد، تناسُق	coordination
+تساندي	coordinative
+تساوٍ، تعادُل	iso
+تساوي الخصائص، وحدة الخصائص	isotropy; isotropisme
+تسخين فائق	superheating
+تسخين قَبْلِيّ	preheating
+تسخين مفرط	overheating
+تسرّب	leakage
+تسرُّب، ارتشاح	leakage
+تسفية, تنقية	scavenging
+تَسَكُّر	saccharification
+تسكير	saccharidification
+تسكين	analgesia
+تَسَلْفُت	sulfating
+تسمُّم بالزئبق	mercurialism
+تسمُّم بالفلور	fluorosis
+تسمية	nomenclature
+تسمية جنيف	Geneva nomenclature / Geneva termination
+تسمية كيميائية	chemical nomenclature / nomenclature chemical
+تسوية	levelling
+تسوية، تنظيم, تطبيع	normalization
+تسييل (بالصهر)	liquation
+تسييل، إسالة	liquefaction
+تشارك، تساهم	covalence
+تشاركيّ، تساهميّ	covalent
+تشاكُل	homomorphism / isomorphism
+تشاكل نووي، إيزومرية نووية	nuclear isomerism
+تشاكُل، تشابه بلّوري	isomorphism
+تشاكلي	isomorophic
+تَشتّت	scattering
+تشتُّت الضوء	light scattering
+تشتّت رذرفورد	Rutherford scattering
+تشتت فوق صوتي، تشتيت فوق السمعية	ultrasonic dispersion
+تشتت متعدد	polydispersity
+تشحُّم الدم	lipemia; lipohaemia
+تشخيص	diagnosis
+تشدّف، (تَجَذُّذ)	fragmentation
+تشرُّب	imbibition / impregnation
+تشرّب، ارتشاف	imbibition
+تشرّب، تسرّب	infiltration
+تشريب، حلحلة	lixiviation
+تَشَطُّر	cleavage
+تشظية، تجزئة	fragmentation
+تشعيع	irradiation
+تشكُّل	formation
+تشكل الغليوكوجين	glycogenesis
+تشكل الهلام، تهلُّم	congelation
+تشكل حلقي، تكوين حلقي	ring formation
+تشكل كاذب	pseudomorphism
+تشكيل	configuration
+تشكيل الكتروني	electronic configuration
+تشكيل حراري	thermoforming
+تشكيل دوراني	conformation
+تشكيل دوراني متجانف	skewed conformation
+تشكيلٌ دوراني مُزاح	staggered conformation
+تشكيل دوراني ملتوي	twist conformation
+تشكيل فضائي، ترتيب فراغي	conformation
+تشكيل في الخلاء	vacuum forming
+تشكيل معقّد	complex formation
+تشكيلات مكسوفة، امتثالات مكسوفة	eclipsed conformation
+تشكيلة	assortment
+تشكيلة إلكترونية	electron configuration / electronic configuration
+تَشَمُّع، تليُّف	cirrhosis
+تشميع	waxing
+تشوّه	deformation / distortion
+تشوّه مرن	elastic deformation
+تشوُّه، تشويه	deformation
+تصادم	collision
+تصادم مرن	elastic collision
+تصادُم، اصطدام	collision
+تَصاني	enantiotropy
+تصاوغ	isomerism
+تصاوغ بُنيْوي	structural isomerism
+تصاوغ حلقي	transannular
+تصاوغ حلقي - سلسلي	ring-chain isomerism
+تصاوغ ديناميكي	dynamic isomerisation
+تصاوغ سِلْسِلِيّ	chain isomerisum
+تصاوغ ضوئي	optical isomerism
+تصاوغٌ فراغي	stereoisomerism / stereoisomery
+تصاوُغ هندسي	geometrical isomerism
+تصاوغ وظيفي	functional isomerism
+تصاوغي	isomeric
+تصبّن	saponification
+تصبن، تصبين	saponification
+تصحيح	correction
+تصعيد	sublimation
+تصفيح	laminating; lamination / plating
+تصفيح، ترقيق	laminating
+تصفيق كهربائي، إبانة كهربائية، تصفية كهربائية	electro-decantation
+تصلُّب	solidification
+تصلُّب، تجمّد	solidification
+تَصَلُّد	consolidation
+تصلدي، يوتكتيكي، أصغري الانصهار	eutectic
+تصليب الدهون	fat hardening
+تصميم	design (n)
+تصنيف	classification
+تصنيف دوري	periodic classification
+تصنية	epimerization
+تصوير إشعاعي	radiophotography
+تصويع (تفريق)	decoupling
+تصويل	elutriation
+تضاؤل	decay
+تضاؤل إشعاعي، تفكك إشعاعي، تحلل إشعاعي	radioactive decay
+تضاد	antagonism
+تضاعف	duplication
+تضبيط، تعديل	adjustment
+تضخُّم، انتفاخ	inflation
+تضخيم	amplification
+تضمين، اشتمال	inclusion
+تطابق	coincidence / congruence
+تطافر	transmutation
+تطاير	volatilization
+تطايريّة	volatility
+تَطَبُّق	stratification
+تطبيع	tempering
+تطبيق	application
+تطرية الماء	water softening
+تطعيم	grafting
+تطهير، إزالة التلوث	decontamination
+تطوّر	evolution
+تطوُّر، نشوء	evolution
+تطويع	annealing
+تعاكس البصري، انقلاب البصري	Walden optical inversion
+تعالُق	correlation
+تعامد	orthogonality
+تَعَبٌ	fatigue
+تعبير، عَصْر	expression
+تعتيق	aging; ageing
+تعتيق، تقادم، شيخوخة	aging
+تعدّد البلورية	polymorphism
+تعدد التكافؤ	polyvalency
+تعددية الأشكال البلورية	polymorphism
+تعددية الشكل البلوري	allomorphism
+تعدين	metallurgy
+تعدين كهربائي	electro-metallurgy
+تَعَرُّف	identification
+تعرّق	sweating
+تعريف	definition
+تعرية	demasking
+تعضية، تعّضٍ	organization
+تعطير	aromatization
+تعفُّن، فساد	putrefaction
+تعقيد	complexing
+تعقيم	sterilization
+تعليمات	instructions
+تعويض	compensation
+تعويض داخلي	internal compensation
+تعويم	flotation
+تعويم، طفو	flotation
+تعيير، معايرة	calibration
+تعيين	determination
+تعيين (نقطة) الصفر	zeroing
+تعيين الph	ph-determination
+تعيين الألدهيدات و الكيتونات	aldehydes and ketones
+تعيين الرطوبة	moisture determination
+تعيين الكثافة	determination of density
+تعيين الهيدروجين النّشط	active hydrogen determination
+تعيين نقطة الغليان	boiling-point determination
+تغاير	variance
+تغاير - تآصل	allotropy
+تغدية	nutrition
+تغدية، تلقيم	feed
+تغدية، تموين	supply
+تغذية راجعة	feedback
+تغرية	agglutination
+تغليظ، تسميك	thickening
+تغميس	dipping
+تغويز	gasification
+تغيُّر	variation
+تغير تصلّدي، تغير يوتكتي	eutectic change
+تَغَيُّرٌ ثابتُ درجة الحرارة	isothermal change
+تغير فيزيائي	physical change
+تغير كيميائي	change (chemical)
+تغيّر متآصل	allotropic change
+تغير نووي	nuclear change
+تغيرات كيميائية	chemical changes
+تغيرية	variability; variance
+تغيير الطبيعة	denaturation
+تفارق	dissociation
+تفارق ضوئي	photodissociation
+تفارق كهرلي	electrolytic dissociation
+تفاضُل	differentiation
+تفاعَلَ	react (to) / reaction
+تفاعل (كيميائي)	reaction (chemical)
+تفاعل إجمالي	overall reaction
+تفاعل أحادي الجزيء	unimolecular reaction
+تفاعل أحادي الجزيء، تفاعل أحادي الجزيئية	unimolecular reaction
+تفاعل اختزال وأكسدة، تفاعل أكسدة-إرجاع	redox reaction
+تفاعل استبدال	substitution reaction
+تفاعل إضافة (ضم)	addition reaction
+تفاعل أكسدة - اختزال	oxidation-reduction reaction
+تفاعل أكسدة وإرجاع	reduction-oxidation reaction
+تفاعل أُكسو	oxo reaction
+تفاعل الإزاحة	shift reaction
+تفاعل الانصهار اللامتطابق	peritectic reaction
+تفاعل الإيلايدين	elaidin reaction
+تفاعل المجموعة	group reaction
+تفاعل الهالفروم	haloform reaction
+تفاعل الهالوفورم	haloform reaction
+تفاعل أليفاتي	aliphatic reaction
+تفاعل بالإضافة، تفاعل ضم	addition reaction
+تفاعل برتوني ديوتروني	proton-deuteron reaction
+تفاعل برتوني نيوتروني	proton-neutron reaction
+تفاعل بروتون - غاما	proton-gamma reaction
+تفاعل بروتوني، بروتوني	proton-proton reaction
+تفاعل بيورت	Biuret reaction
+تفاعل تبادل	exchange reaction
+تفاعل تبادلي	exchange reaction / replacement reaction
+تفاعل تحلّل متجانس	homolytic reaction
+تفاعل تصلّدي، تفاعل يوتكتي	eutectic reaction
+تفاعل تعديل	neutralization reaction
+تفاعل ثلاثي الجزىء، تفاعل ثلاثي الجزيئة	termolecular reaction
+تفاعل ثنائي الجزيء	bimolecular reaction
+تفاعلٌ جانبي	side reaction
+تفاعل جانوفسكي	Janovsky reaction
+تفاعل جزيئي	molecular reaction
+تفاعل حذف	elimination reaction
+تفاعل حفزي	catalytic reaction
+تفاعل خرزة البورق، تفاعل خرزة البوراكس	borax bead reaction
+تفاعل درجة الحرارة الثابتة، تفاعل فان هوف	reaction isotherm
+تفاعل ديلز-آلدر	Diels-Alder reaction
+تفاعل رايمر	Reimer's reaction
+تفاعل رولر، تفاعل أوكسو	Roler reaction
+تفاعل ريدوكس	redox reaction
+تفاعل زيمرمان	Zimmerman reaction
+تفاعل ساند ماير	Sandmeyer reaction
+تفاعل ساندماير	Sandmeyer's reaction
+تفاعل سطحي	surface reaction
+تفاعل سِلْسِلِيّ	chain reaction
+تفاعل سلسلي متفرع، تفاعل متسلسل متفرع	branched-chains reaction
+تفاعل شميدت	Schmidt reaction
+تفاعل شوتن-بومان	Schotten-Bauman reaction
+تفاعل شوريجين	Schorigin reaction
+تفاعل شول	Scholl reaction
+تفاعل طوري	phase reaction
+تفاعلٌ عكسيّ (راجع)	back reaction
+تفاعل عَكوس	reversible reaction
+تفاعل عكوس، تفاعل قابل للانعكاس	reversible reaction
+تفاعل غاترمان-كوش	Gatterman-Koch reaction
+تفاعل غرينيارد	Grignard reaction
+تفاعل غرينيارد، كاشف غرينيارد	Grignard reaction
+تفاعل غير متجانس	heterogeneous reaction
+تفاعل فريدل-كرافت	Friedel-Craft reaction / friedel-craft's reaction
+تفاعل فورتز	Wurtz reaction
+تفاعل فِيْتِغْ	Wittig reaction
+تفاعل فيتيغ	Fittig's reaction
+تفاعل كانيزارو	Cannizaro reaction
+تفاعل كوشي	Kochi reaction
+تفاعل كيلياني	Kiliani reaction
+تفاعل كيميائي ضوئي	photochemical reaction
+تفاعل لاعكوس	irreversible reaction
+تفاعل مانّيش	Mannich reaction
+تفاعل متبادل	interaction
+تفاعل متجانس	homogeneous reaction
+تفاعل متوازن، تفاعل متزن	equilibrium reaction
+تفاعل محرَّض	induced reaction
+تفاعل مرتدّ	back-reaction
+تفاعل مسرَّع	accelerated reaction
+تفاعل معاكس	opposing reaction
+تفاعل مغاير	heterogeneous reaction
+تفاعل من المرتبة الأولى	first order reaction / reaction of first order
+تفاعل من المرتبة الثانية	second - order reaction
+تفاعل من المرتبة الثانية، تفاعل من الدرجة الثانية	second-order reaction
+تفاعل من مرتبة الصفر	zero-order reaction
+تفاعل ناشر للحرارة	exothermic reaction
+تفاعل نهائي، نهاية التفاعل	end reaction
+تفاعل نوعي فراغي	stereospecific reaction
+تفاعل نووي	nuclear reaction
+تفاعل نووي حراري	thermonuclear reaction
+تفاعل نووي متسلسل	nuclear chain reaction
+تفاعل هنزبرغ	Hinsberg reaction
+تفاعل هوفمان	Hoffman reaction / Hofmann's reaction
+تفاعل ويكر	Wacker reaction
+تفاعلات استبدال، تفاعلات إحلال واستبدال	substitution reactions
+تفاعلات التأكسد و الاختزال، تفاعلات الأكسدة والارجاع	oxidation-réduction reactions
+تفاعلات تبادلية، تفاعلات تبادل، تبادل مزدوج، تفاعل كيميائي مزدوج التبادل	metathesis reaction; double replacement
+تفاعلات حلقية، تفاعلات دورية	cyclic reactions
+تفاعلات سلسلية	chain reactions
+تفاعلات كيميائية متضادة	opposing chemical reactions
+تفاعلات ماصة للحرارة	endergonic reactions / endothermic reactions
+تفاعلات مترافقة	conjugated reactions
+تفاعلات منتجة للحرارة	exergonic reaction
+تفاعلات ناشرة للحرارة	exothermic reactions
+تفاعلات يصحبها انتقال البروتونات	protolysis
+تفاعلي	reactive
+تفاعلية	reactivity
+تفتت إشعاعي، تحلل إشعاعي	disintegration
+تفتّتَ، انحلَّ	disintegrate (to)
+تفحمل	carboxylation
+تفحيم الخشب	charring of wood
+تفرّع	branching
+تفرّق، تشرذم	disaggregation
+تفريغ	discharge
+تفريق غشائي للغازات	atmolysis
+تفريق، مَيز	resolution
+تفسّخ	putrefaction
+تفسخ الوسط، انحلال الوسط	lyolysis
+تفسُّخ، انحلال	lysis
+تفسير، شرح	explanation
+تفعيل، تنشيط	activation
+تَفَكَّكَ	break down / dissociate (to) / dissociation
+تفكّك إشعاعي	radioactive decay
+تفكك البلمرة، فكّ البلمرة	depolymerization
+تفكك ألكتروليتي	electrolytic dissociation
+تفكك تام	complete dissociation
+تفكك جزيئي	molecular dissociation
+تفكك حراري	thermal dissociation
+تفكك سابق	predissociation
+تفكُّك ستريكر	Strecker degradation
+تفكك ضوئي	photodecomposition / photodissociation
+تفكّك هوفمان	Hofmann degradation
+تفكُّك، تفسّخ	decay
+تفكُّك، تفكيك	decomposition
+تَفَلْوُر	fluorescence
+تفلُون	teflon
+تقابل	correspondence
+تقادم بالإسقاء	quench aging
+تقارُب	convergence
+تقانة حيوية	biotechnology
+تقانة, تكنولوجيا	technology
+تقدير	estimation
+تقديرٌ كمِّي	quantification
+تقدير، تخمين، تقييم	estimation
+تقديري، افتراضي	virtual
+تقريب	approximation
+تقريبي	approximate
+تقريس، تبريد سريع	chilling
+تقسية	hardening / set
+تقسية الدهون، اجماد الدهون السائلة (بالهدرجة)	hardening of fats
+تقسية بالإسقاء	quench hardening
+تقصير، إهمال	default
+تقطّع، انقطاع	discontinuity
+تقطير	Engler distillation / distillation
+تقطير اتلافي	destructive distillation / distillation (destructive)
+تقطير آزيوتروبي	azeotropic distillation
+تقطير استخلاصي	extrative distillation
+تقطير أولي، قطف أولي	topping
+تقطير بالبخار	distillation (steam) / steam distillation
+تقطير بسيط	simple distillation
+تقطير تحت ضغط مخفف، تقطير تحت ضغط منقَّص	distillation under diminished pressure
+تقطير جاف	dry distillation
+تقطير جزيئي	molecular distillation
+تقطير ضغطي	pressure distillation
+تقطير على دفعات	batch distillation
+تقطير فراغي	vacuum distillation
+تقطير في إخلاءٍ شديد	high vaccum distillation
+تقطير في الخلاء	vacuum distillation
+تقطيرٌ متقطِّع	batch distillation
+تقطير متواصل	continuous distillation
+تقطير مجزّأ	fractional distillation
+تقطير مستمر	continous distillations
+تقطير ومضي	flash distillation
+تقطير وميضي	flash distillation
+تقعُّر	concavity
+تقلُص	contraction
+تقلقل، قلَق	lability
+تقليب	stirring
+تقليب آلي	stirring (mechanical...)
+تقليب مغناطيسي	magnetic stirring / stirring (magnetic)
+تقليب ميكانيكي	mechanical stirring
+تقليدي	conventional
+تقليل، تخفيض	decreasing
+تقلية (ال...)	alkalinization
+تِقْني	technical
+تقنية التخمر	zymotechnic
+تقنية مخبرية، تكنيك المختبر	laboratory technique
+تقنية، تكنولوجيا	technology
+تَقَوْصُرْ	coacervation
+تقويض	catabolism
+تقويم، تكرير	rectification
+تقييد	restriction
+تقييس	standardization
+تقييم، تقدير	evaluation
+تقييم، تقويم	evaluation
+تكاثر	proliferation
+تكاثف	condensation
+تكاثف ألدول	aldol condensation
+تكاثف ألدولي، ضم ألدولي، إضافة الدول	aldol condensation
+تكاثف كلايزن	Claisen condensation
+تكاثف، تكثيف	condensation
+تكافؤ	equivalence / valence / valency
+تكافؤ تساهمي، تكافؤ مشترك	covalence; covalency
+تكافؤ ثُمالي	residual valence
+تكافؤ ثنائي - أحادي	unibivalent
+تكافؤ خامد	null valence
+تكافؤ سالب	negative valence
+تكافؤ سلبي	negative valence
+تكافؤ كهربائي	electrovalence / electrovalency
+تكافؤ، تكافؤية	valency
+تكافؤية رباعية	quadrivalence; quadrivalency
+تكامل، دمج	integration
+تكبير	scaling up
+تَكَتَل	agglomerate (to) / agglomeration
+تكتُّل (المادة الحفّازة)	tableting
+تكثيف مجزأ	fractional condensation
+تكدُّس، تجمُّع	aggregation
+تَكَرْبُن، تفحيم	carbonization
+تكرير	refining
+تكرير، تصفية	rectification
+تكسوتروبية	thixotropy
+تكسير	breaking / cracking / craking
+تكسير بالهدرجة	hydrocracking
+تكسير تحفيزي	catalytic cracking
+تكسير حراري	thermal cracking / thermal craking
+تكسير هيدروجيني	hydrocarcking
+تكلّس	calcification
+تكليس	calcination
+تكميم، إكمام	quantification
+تَكْمِيَة	quantization
+تكمية الطاقة	quantization of energy
+تكنيسيوم	technetium
+تكنيسيوم، تكتيشيوم	technetium
+تكوّن الكيتون	ketogenesis
+تكويك	coking
+تكوين	constitution
+تكوين الرابطة	bond making
+تكوين، قوام	constitution
+تكويني	constitutive
+تكيُّف، تلاؤم	adaptation
+تكيّفي، تلاؤُمي	adaptive
+تلاؤم	convenience
+تلازق	conglutination
+تلألؤ	luminescence
+تلألؤ كيميائي	chemiluminescence
+تلألؤ، لمعان	opalescence
+تلبيد	sintering / sintering (operation)
+تلبيد بالحمض	acid milling
+تلبيس بالمطّاط	rubber plating
+تلبيس بقشرة	incrustation
+تلقائي	spontaneous
+تلقائي الاشتعال	hypergolic
+تلقائي، عفوي	spontaneous
+تلقيح	inoculation
+تلقيح، تطعيم	inoculation
+تلقيم	feeding
+تلقيم، إجراء	run
+تَلكّؤ، تَخَلُّف	lag
+تَلْمَرَة	telomerization
+تلمرة موجهة، تماثر موجه	telomerization
+تلميع	burnishing
+تلوُّث	contamination / pollution
+تلوث الهواء	air pollution
+تلوُّث حراري	thermal pollution
+تلوُّث: بيئي	pollution
+تِلّوري	tellurous
+تِلّوريوم	tellurium
+تلوريوم، تلُور	tellurium
+تَلْوينة	stain
+تلويوم مشعّ، تلور مشعّ	radio-tellurium
+تماثل الصور	enantiomorphism
+تماثل فراغي (تشكيلي)	isosterism
+تماثل في الشكل البلوري	allomerism
+تماثلية	metamerism
+تماسٌ	contact
+تماسُك	cohesion / consistency / tenacity
+تماكب بصري، تماكب ضوئي	optical isomerism
+تماكب مجسم	steroisomerism
+تماكب مقرون	cis-form isomerism
+تماكب مقرون-مفروق	cis-trans isomerism
+تماكب هندسي	geometrical isomerism
+تماكُب، إيزومريّة	isomerism
+تمثُّل	assimilation
+تمثُّل، تمثيل	assimilation
+تَمَحْفُظ	encapsulation
+تمخلب	chelation
+تَمَخْلُب، تَمَكْلُب	chelation
+تمدُّد	distention / expansion
+تمدد حجميّ	volume expansion
+تمدد حراري	thermal expansion
+تمدد مكظوم	adiabatic expansion
+تمددية، اتساعية	dilatability
+تمديد	dilution
+تمديد لا متناه	infinite dilution
+تمسُّك، لزوب، استعصاء	tenacity
+تمعدُن، تعدين، تفليز	mineralization
+تمكبٌ، تحول ايزوميري	isomerization
+تَملَّصَ	elude (to) / elusion / elution
+تمليح	salting in
+تمنيع	immunization
+تمنيع ذاتي	autoimmunization
+تموُّج، موَجان	ondulation
+تميُّع	deliquescence
+تميم الإنزيم	coenzyme
+تميم الإنزيم آ	coenzyme A
+تميم العامل	cofactor
+تميُّه، إماهة	hydration / hydration, hydratation
+تمييز	characterization / discrimination / distinction
+تمييع	fluidification / fluidization
+تناحي	isotropy
+تناسخ، نسخ	replication
+تناضح	osmosis
+تناضح عكوس	reverse osmosis
+تناضح كهربائي	electroosmosis
+تناضحي	osmotic
+تناظُر	symmetry
+تناظري (صفة)	symmetrical
+تَنافُس	competition
+تنافُسِيّ	competitive
+تناقص	decrease
+تناوب	alternation
+تَنبُّؤ	forecasting
+تنبيب	tubing
+تنبيذ	centrifugation
+تنبيه	stimulation
+تَنْتال	tantalum
+تنتالوم، تنتال	tantalum
+تنتاليت	tantalite
+تنحيس كهربي	electro-coppering
+تنحية (الأيونات)، فصْل	sequestration
+تندّف	flocculation
+تنسيمتر	tensimeter
+تنشيط	activation
+تنظيرُ الطيف	spectroscopy
+تنظير الطيف بالأشعة غاما	gamma ray spectroscopy
+تنظير طيف الكُتْلة	mass spectroscopy
+تنظيف بالحمض	pickling
+تنظيف على الناشف	dry cleaning
+تنظيف كيميائي	picking (chemical)
+تنظيم	normalization
+تنغستن، تنجستن	tungsten; wolfram
+تنغستين	tungsten (wolfram)
+تنقّل	metastasis
+تنقية	purification / refining
+تنقية الماء	water purification
+تنقية بالهدرجة	hydrofining
+تنقية مناطقية	zone refining
+تنقية نطاقية	zone purification
+تنكّسيّة	degeneracy
+تنكيل كهربائي	electronickelling
+تنميش	etching
+تنميل هيدروجيني	hydroformylation
+تنوٍ	nucleation
+تنوّي	nucleation
+تهجير كهربائي	cataphoresis; electrophoresis
+تهجين	hybridization
+تهجين المداريّات	orbital hybridization
+تهجين ثلاثي	trigonal hybridization
+تهجين خطي	linear hybridization
+تهجين رباعي	tetrahybridisation
+تهجين رباعي الوجوه	hybridization tetragonal
+تهجين مثلثي	trigonal hybridization
+تهدم ذري	atomic destruction
+تهشيم، هَرْسْ	crushing
+تهلَّمَ	gelation / jell (to) ; gel
+تهميد	passivation
+تهوية	aeration / ventilation
+تهيّج نووي، استثارة نووية	nuclear excitation
+تهيُّج، إثارة	excitation
+تهيُّج، تهييج	irritation
+توابث القوة	force constants
+تواتر، تكرار	frequency
+توازن	equilibrium
+توازن الأطوار	phase equilibrium
+توازن أيوني	ionic equilibrium
+توازن أيوني، اتزان أيوني	ionic equilibrium
+توازن توتوميري	tautomeric equilibrium
+توازن ثابت	stable equilibrium
+توازن ثلاثي الأطوار	three-phase equilibrium
+توازن حراري	thermal equilibrium
+توازن ديناميكي	dynamic equilibrium
+توازن سائل-بخار	liquid-vapor equilibrium
+توازن شبه مستقر	metastable equilibrium
+توازن كيميائي	chemical equilibrium / equilibium (chemical...)
+تواصل، انتشار	propagation
+توأم بلّوري	crystals (twin..)
+توأمي	geminate
+توباز	topaz
+توتُّر	tension
+توتر البخار	vapor tension
+توتّر بين سطحين	interfacial tension
+توتر سطحي	surface tension
+توتُّر، شدٌّ	tension
+توتومرية	tautomerism
+توتومير، متماكب مزيج	tautomer
+توثُّر، جهد	stress
+توجيه	orientation
+توجيه بصري	optical orientation
+تور	torr
+توريوم	thorium
+توزُّع، توزيع	distribution
+توزيع الكتروني	electronic distribution
+توزيع نسبي	proportioning
+توزيع، حاجز، فاصل	partition
+توسُّخ، اتساخ	fouling
+تَوَسُّع	expansion
+توسّعي	extensive
+توسيم	notation
+توسيم بلّوري، دلالة بلورية	crystallographic notation
+توسيم كيميائي	chemical notation
+توشيل	leaching
+توصيف، تمييز	characterization
+توصيل	conduction
+توصيل ألكتروليتي	electrolytic conduction
+توصيل أيوني	ionic conductance
+توصيل حراري	thermal conductance
+توصيل كهربائي	electrical conductance
+توصيل مكافىء	equivalent conductance
+توصيل مولي أو مولاري، نقل مولي أو مولاري	molar conductance
+توصيل نوعي	conductance (specific) / specific conductance
+توصيل، نقْل	conductance
+توصيلية جزيئية، موصلة جزيئية، ناقلة جزيئية	molecular conductivity
+توصيليّة مكافئة	conductivity (equivalent..)
+توصيليّة نوعية	conductivity (specific..)
+توصيليّة، ناقلية	conductivity
+توضّع ألكتروليتي	electrolytic déposit
+توضّع في الخلاء	vacuum deposition
+توضُّع، تمركُز	localization
+توغّل	permeation
+توفّر، متاحيّة	availability
+توقّد	deflagration
+تَوَقُّع	expectation
+تولوين	toluene
+توليد الليبيدات، استحداث الشحميات	lipogenesis
+توليوم	thulium
+توهُّج	candescence / incandescence
+توهين	atténuation
+توهين، تخفيف، تلطيف	attenuation
+تيا	thia-
+تيار	current
+تيار حدّي	limiting current
+تيار كهربائي	electric current
+تيار كهربائي مستمر	continous electric current
+تيار مباشر	direct curent
+تيار متناوب، تيار متردد	alternating current
+تيّار مساير	cocurrent
+تيارٌ معاكِس	countercurrent
+تيار معاكس، تيار مضاد	counter current
+تيار مقاطع	crosscurrent
+تيازول	thiazole
+تيالين	ptyalin
+تيامين	thiamine
+تيبّس	stiffness
+تيتانيوم	titanium
+تيتانيوم، تيتان	titanium
+تيرا	tera-
+تيروزين	tyrosine
+تيروكسين	thyroxine
+تيمول	thymol
+تيو	thi- / thio / thio-
+تيو إيتر	thioether
+تيوأسيتاميد	thioacetamide
+تيوالبولة (تيوكرباميد)	thiourea
+تيوسلفات	thiosulphate
+تيوسلفات الصوديوم	sodium thiosulphate
+تيوسيانات	thiocyanate
+تيوسيانات البوتاسيوم	potassium thiocyanate
+تيوفِنول	thiophenol
+تيوفين	thiophene
+تيول	thiol-
+تيونيل	thionyl

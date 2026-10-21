@@ -1,0 +1,107 @@
+U-tube	أنبوب على شكل U، أنبوب U
+ubiquitous	كلي الوجود، واسع الانتشار
+ultimate	أقصى، حدّي
+ultimate analysis	تحليل حدّي
+ultimate analysis (elementary)	تحليل نهائي، تحليل جوهري، تحليل مطلق
+ultimate recovery	الاستخراج الأقصى
+ultimate stage (of reaction)	مرحلة أخيرة (من التفاعل)
+ultra	فوق، فائق
+ultra-	فائق، فوق، مافوق، مابعد، عبر
+ultra-red (infra-red)	دون الحمراء
+ultra-red (infra-red) rays	أشعة(ال...) دون الحمراء
+ultra-red absorption recorder	مسجّل امتصاص الأشعة دون الحمراء
+ultra-violet light	ضوء فوق بنفسجي
+ultrabalance	ميزان فائق الدقة، ميزان فوقي
+ultracentrifuge	نابذة فائقة السرعة / نبّاذة
+ultrachromato-graphy	كروماتوغرافية
+ultrafilter	مرشِّح فائق
+ultrafiltration	ترشيح (غشائي) فائق الدقة (للمواد الغروانية) / ترشيح فائق
+ultraforming	تحسين فائق
+ultramicrochemistry	كيمياء المقادير الفائقة الصغر
+ultramicron	دون الميكرون
+ultramicroscope	مجهر فائق الدقة / مجهر فائق
+ultrasonic	فوق صوتي
+ultrasonic coagulation	تخثّر فوق صوتي، تخثّر فوق السمعية
+ultrasonic dispersion	تشتت فوق صوتي، تشتيت فوق السمعية
+ultrasonic; supersonic	فوق الصوتي، فوق السمعي
+ultraviolet	فوق بنفسجي، أشعة (ال...) فوق البنفسجية / فوق البنفسجي
+ultraviolet absorber	ماصٌّ للأشعة فوق البنفسجية
+ultraviolet absorption spectrometry	قياس طيف الامتصاص فوق البنفسجي
+ultraviolet light	ضوءٌ فوق البنفسجي
+ultraviolet spectrum	طيف فوق البنفسجي، طيف الأشعة فوق البنفسجية / طيفٌ فوق البنفسجي
+umbra	ظل، خيال
+umpire analysis	تحليل حكم
+un-	عكس، أزال / غَيْر
+unary	نظام أحادي (المركبة)
+unbound	غير مقيَّد، غير مربوط
+uncertainty principle	مبدأ الارتياب، مبدأ عدم التأكد، مبدأ الاستبعاد / مبدأ الارتياب
+uncompetitive enzyme inhibition	تثبيط إنزيمي لا تنافسي
+unctuous	مرهمي، زيتي، دبِق
+uncyclized	لا حلقي، غير حلقي
+undecane (eleven)	حادي عشر
+undecanoic acid	حمض الأنديكانويك
+undecyl (alcohol)	غول أحادي عشر (كحول)
+undercutting	قطف مُبْتَسر
+undertitration	معايرة ناقصة، معايرة غير تامة
+undertreating	معالجة ناقصة، معالجة غير تامة
+undervacuum	تحت الفراغ
+undetermined (water)	ماء غير محدّد
+undulatory mechanics	ميكانيك موجي
+uni	أحادي/وحيد
+uni-	أحادي، مفرد، بادئة بمعنى
+unibivalent	تكافؤ ثنائي - أحادي
+uniform	منتظم، وحيد التعيين / منتظم
+unifromity (of solution)	انتظام (المحلول)
+unimolecular	أحادي الجزيء، أحادي الجزيئية
+unimolecular reaction	تفاعل أحادي الجزيء، تفاعل أحادي الجزيئية / تفاعل أحادي الجزيء
+unipolar	أحادي القطب
+unique	وحيد
+unit	وحدة / واحدة
+unit cell	واحدة خلوية
+unit cells crystal	وحدة خلايا البلورة
+unit method (the...) in calculations	طريقة الوحدة في الحسابات
+unit operation	عملية أولية
+unit process	طريقة أولية
+unitary	واحدي
+unity	وَحدة
+univalent	أحادي التكافؤ
+univariant	أحادي المتحول
+univariant (system)	أحادي المتحول، أحادي التحول
+universal	عام
+universal constant	ثابتة عامة
+universal gas constant	ثابت الغاز العام / ثابتة الغازات العامة
+universal gas law	قانون الغازات العام
+universal indicator	مُشعِر عام، دليل عام، كاشف عام / مُشْعِرٌ عام
+unpaired electron	ألكترون غير متزاوج / إلكترون غير متزاوج
+uns- (unsym-)	غير متناظر
+unsaturated	غير مشبع
+unsaturated compound	مُرَكَّب غير مشبع
+unsaturated solution	محلول غير مشبع
+unsaturation	عدم إشباع، عدم تشبع / عدم إشباع
+unshared electron	إلكترون غير متشارك
+unshared electron pair	زوج إلكتروني غير متشارك
+unslaked lime	كلس غير مطفأ، جير حيّ او غير مطفأ
+unstable	غير ثابت
+upper oxidising flame	لهب مختزل علوي، لهب مرجع علوي
+uracil	يوراسيل
+uranium	يورانيوم، أورانيوم / يورانيوم
+uranium decay series	سلسلة تفكّك اليورانيوم
+uranium fission	انشطار اليورانيوم
+uranium hexafluoride	سداسي فلوريد اليورانيوم
+uranium, depleted	يورانيوم مستنفد
+uranium,enriched	يورانيوم مخصّب
+uranium-233	يورانيوم-233
+uranium-234	يورانيوم-234
+uranium-235	يورانيوم-235
+uranium-238	يورانيوم-238
+urea	يوريا، يولينا / بولة، يوريا
+ureaformaldehyde resin	راتين البولة – ألدهيد النمل
+urease	يورياز
+urethane	يوريتان
+uric acid	حمض اليوريك، حمض اليوليك / حمض اليوريك (البول)
+uricase	يوريكاز
+uridine	يوريدين
+urinic acid	حمض اليورينيك
+uroporphyrin	يوروبورفيرين
+use	استعمال، استخدام
+utilized	مستعمل، مستخدم

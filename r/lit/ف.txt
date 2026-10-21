@@ -1,0 +1,115 @@
+فئة زمن الفعل	Tense
+فائقُ الوصف	ineffable
+فاصل، استراحة	intermission
+فاعل	Subject
+فاعل ثقافي	cultural agent
+فاعِل حقيقي	Actor
+فاعل سطحي، فاعل ظاهر	Superficial subject
+فاعِليّ	Subjective
+فَتْرة	episode
+فحوى	Tenor
+فحوى المفهوم	Comprehension of a concept
+فرجويّ	spectacular
+فَرْدانية، نزعة الفردية	individualism
+فَرْديّ	individual
+فردي، خصوصي	Idiosyncrasy
+فَرَضِيّ	Virtual
+فَرَضِية	Hypothesis / hypothesis
+فرضيّة التّوازن	Balance Hypothesis
+فرضيّة العجز	Deficit (Hypothesis)
+فرضيّة العجز اللُّغويّ	Deictic
+فرضيّة سابير وورف	Sapir-Whorf Hypothesis
+فرضية معجمية	Lexicalist hypothesis
+فَرْط الحمولة الإدراكية	cognitive addition
+فَرْع	Phénotype
+فَسْخ	Cleaving
+فَصَاحَة	oratory
+فَصْل	Asyndetic construction / Parataxis
+فَصْل (من مسرحية)	acte heater
+فَصْل الكلمة	Tmesis
+فصل مقطوع	Aposiopesis
+فَصْل، توقيف	disengagement
+فصيح	eloquent
+فصيلة صغرى، فَرْع	Branch
+فصيلة لغوية	Family of languages
+فضـاء	space
+فضاء اللّعب	Playing area
+فضاء المسرح الوسيط	Mansion
+فضاءٌ شبَكي	cyberspace
+فضاء صغير	microspace
+فَضَاء مشترك	locus common
+فضاء مفتوح	open space
+فضائيّ	outer space
+فضائية	spacious
+فُضْلَة	Complement / Expansion
+فُضْلَة جُمْلِيَة	Predicative complement
+فِطْرِي	Innate
+فعـال	oval action
+فعاليـة	efficiency
+فعل	Verb
+فِعْل أحادي الشخص	Unipersonal verb
+فعل أداتي	Verb (Instrumental-)
+فِعْل الانعكاس	Reflexive verb / Verb (Reflexive-)
+فِعْل التفاعل	Reciprocity verb / Verb (Reciprocity -)
+فِعْل الحكاية	Narration
+فعل الرغبة	Desiderative verb / Verb (Desiderative)
+فعل الكلام (الفعل، القوّة)	Illocutionary (Act, Force); Locutionary (Act, Force); Perlocutionary (Act, Force)
+فِعْل رابط	Verb (Copula-)
+فِعْل سَببيّ	Verb (Causative -)
+فِعْل شاذّ	Verb (Irregular -)
+فِعْل لازِم	Verb (Intransitive -)
+فِعْل مُتَعَدٍّ	Transitive verb
+فعل متعدٍّ لمفعولين	Verb (Factitive-)
+فعل متعدي المعنى	Verb (Deponent)
+فِعْل مركَّب	Verb (Compound -)
+فِعْل مُساعِد	Accessory verb / Auxiliary verb / Verb (Auxiliary -)
+فِعْل مُطَّرِد	Regular verb
+فِعْل منقطِع	Accomplished verb / Verb (Accomplished -)
+فِعْل ناقِص	Defective verb / Verb (Defective-)
+فِعْل، حركة	action
+فِعْلِيّ	Verbal
+فقدان الصواتة	Dephonologization
+فقدان النفس	De aspiration
+فقرة	Nexie / Paragraph
+فقه اللغة، فيلولوجيا	philology
+فكّ العُقدة	Denouement
+فك العُقدة الاعتباطي	Deus ex machina
+فُكَاهـة	humour
+فُكاهة سوداء	black humour
+فِكْـر	spirit; mind (wit)
+فِكْرة	idea
+فكرة متكررة	motif
+فلْتة لسان، زلّة لسـان	lapsus linguae
+فلسفة	philosophy
+فموي	Buccal
+فن (ال..) للفن	art (l'…) for art
+فن التَّصوير	photography
+فن الخط	Calligraphy
+فنّ المأساة	Tragic acting
+فنّ الملهاة	Comic acting
+فن إنجازيّ	performative art
+فنون الرّكح	Stage arts
+فنون العرض	Performing arts
+فنون الفُرجة	Spectacle arts
+فُنُون شعبية	folklore
+فِهْرَس، عَلاَمة	Index
+فَهْرَسَة	Indexation
+فهْم	comprehension
+فوضوية	anarchism
+فوْضى	anarchy
+فَوْقَ أسنانيّ	Supradental
+فَوقَ خِطَاب	Meta discours
+فَوْقَ قطعيّ	Suprasegmental
+فَوْق لغوي	Metalinguistic
+فَوْقَ مَحَلِيّ	Supralocal
+فَوْق نظرية	Metatheory
+فَوْقِيّ	Transcendent
+فوقيّة الوظائف	Metafunctions
+فولكلور	folklore
+فولكلور العصر الوسيـط	medieval folklore
+فيرث	Firth, J. R. (1890-1960)
+فيركلوف نورمان	Fairclough Norman (1941- )
+فيشمان، جوشوا	Fishman, Joshua (1926- )
+فيلم مسرحي	theatre film
+فِيلْم، شريط	film
+فيلولوجيا	Philology

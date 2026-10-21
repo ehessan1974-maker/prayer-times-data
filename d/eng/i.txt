@@ -1,0 +1,3266 @@
+I	شدة التيار الكهربائي (i)
+I - beam	جائز I
+I signal	إشارة I
+I system in the frequency domain	نظام تكاملي في المجال الترددي
+I system with 1st order lag in the frequency domain	نظام تكاملي بتأخير من الدرجة الأولى في المجال الترددي
+I system with 2nd order lag in the frequency domain	نظام تكاملي بتأخير من الدرجة الثانية في المجال الترددي
+I-band	نطاق I
+I-beam	عَتَبَة I
+I-controller with I-control system	ضابط تكاملي بمنظومة تكاملية
+I-controller with P-control system	ضابط تكاملي بمنظومة تناسبية
+I-display	بيان I / شاشة I
+I-portion integral component	جزء تكاملي
+I-section	مقطع I
+i.beam	جسْر حديد
+I/O channel	قناة دَخْل / خَرْج
+I2t characteristic	خاصية حاصل ضرب مربع التيار * الزمن
+I2t characteristic,	خاصية (I2t) لأداة الوصل والفصل
+I2t; Joule integral	حاصل ضرب مربع التيار *الزمن
+IAA	مستخلصات الطيران والفضاء الدولية
+IADL; instrumental activity of daily living	العمل الانسانى فى منظومة الانشطة االمعيشية اليومية
+IAS; indicated airspeed	سرعة هوائية مبيَّنة
+IATA	اتحاد النقل الجوي الدولي
+IBAA	اتحاد طائرات الأعمال الدولية
+Ibn Sina	ابن سينا
+IC	دائرة مُتكاملة (IC)
+IC engine; internal combustion engine	محرك احتراق داخلي
+ICAA	اتحاد المطارات المدنية الدولي
+ICAO	منظمة الطيران المدني الدولية
+ICARE Double Master Degree Programme Qualification Awarded: Postgraduate/Master	شهادة ماجستير مزدوجة من معهد الطاقة النظيفة والمتجددة الشهادة المسلمة: شهادة الماجستير
+ICAS	مجلس علوم الطيران الدولي
+ICC file format; ICC profile format	نسق الملف للمجموعة الدولية للالوان
+ICC profile connection space; ICC PCS	فضاء الألوان المرجعية للمجموعة الدولية للالوان
+ICCAIA	مجلس التنسيق الدولي لاتحاد صناعات الطيران والفضاء
+ice	جليد متجمِّد / ثلج / جليد
+ICE 61215	المواصفة القياسية رقم 61215 للجنة الدولية للتقانة الكهربائية (IEC)
+ice age	عصر جليدي / عصر(ال..) الجليدي
+ice cake	لوح جليد
+ice cap climate (ef)	مناخ الغطاء الجليدي
+ice caps	غطاءات جليدية
+ICE Competitiveness	القدرة التنافسية لمحركات الاحتراق الداخلي
+ice control	مِكشَافُ الثَّلج
+ice core	عينة جليد جوفية / عينة لبية جليدية
+ice crepe	كريب ثلجي
+ice crystals	بلورات الجليد
+ice dam	سدّ جليدي
+ice day	يوم جليدي
+ice field	حقل جليدي
+ice frost	صقيع جليدي
+ice ingestion	ابتلاع الجليد
+ice lens	عَدَسَة الثَّلج / عدسة جليدية
+ice loading	حمل جليدي
+ice needles	إِبَر جليدية
+ice pack	كتلة جليدية
+ice plate	صفيحة جليدية
+ice plug	سِدادة من الجليد
+ice point	نقطة الجليد
+ice prevention system	إذابة الصقيع
+ice rod	قضيب الجليد
+ice sheet	صفيحة جليدية
+ice slurry system	نظام التبريد ذو الثلج بعوالق صلبة
+ice storm	عاصفة ثلجية
+ice warning system	منبّه الصقيع / محفرة عنفية
+ice-fender	كاسحة الجليد
+ice-point	نقطة التجمد
+iceberg	جبل جليد
+iceboX rivet	برشام الثلاّجة
+icecap	غطاء جليدي
+Iceland spar	سِبار أيسلندي
+icewool	صوف أيسوول / صوف إيسلندي
+icing	تكوُّن الجليد
+icing indicator	مؤشِّر الجليد / مُبَيِّن الجليد
+icing limits	حدود الجليد
+icing tanker	ناقلة جليد
+iconoscope	صمام الة تصوير تلفازية تخزينيه ، الة تصوير عالية السرعه تخزينيه
+ICT-technology	(ICT) (تكنولوجيا المعلومات والاتصالات)
+ID look	نمط تعريف
+iddingsite	إدينزايت
+ideal amplifier	مضخم مثالى
+ideal attenuator	موهن مثالى
+ideal capacitor	مكثف مثالي
+ideal crystal	بلورة مثالية
+ideal current source	مصدر تيار مثالى / مصدر تيار مثالي
+ideal despotic distribution	توزيع استبدادي مثالي
+ideal diode	صمام ثنائى مثالى
+ideal filter	مرشح مثالى
+ideal fluid; perfect fluid	مائع مثالي
+ideal free distribution	توزيع حر مثالي
+ideal gas	غاز مِثالي
+ideal gas law	قانون الغازات المثالية
+ideal impedance convertor	مغير معاوقة مثالى
+ideal inductor	محث مثالي
+ideal instant	لحظة مثالية
+ideal machine	آلة مِثاليّة
+ideal magnetic medium	وسط مغناطيسي مثالي
+ideal no-load direct voltage	جهد مثالي مستمر غير محمل
+ideal noise diode	صمام ضجيج مثالى
+ideal reproducing head	رأس استعادة التسجيل مثالي
+ideal resistor	مقاوم مثالى
+ideal rocket	صاروخ مثالي
+ideal self-excitation	إثارة ذاتية مثالية
+ideal synchronizing	تزامن مثالي؛ توافق مثالي
+ideal transducer	محول إشارة مثالي
+ideal transformer	محلول مثالي
+ideal voltage source	مصدر جهد مثالي
+ideal voltage source; ideal tension source	مصدر جهد مثالى
+identification	تعريف / تعرُّف / تعيين
+identification cable colour	ألوان أسلاك التمييز
+identification entry	مدخل التحقق من القطار
+identification feature	سمة التمييز
+identification friend or foe	تمييز الصديق من العدو
+identification lights	أضواء التمييز
+identification manoeuvre	مناورة تمييز
+identification manual (cites)	دليل تحديد الهوية (اتفاقية التجارة الدولية في الأنواع المهددة بالانقراض)
+identification of a system; identification	تعريف للنظام
+identification request	طلب تعريف
+identification system	تظام التعريف
+identification test	اختبار تحديد الهوية
+identifier	مُعرِّف / رمز معرف / مُعَرِّفٌ
+identifier (ID)	المُعرّف (ID)
+identifier (in switching)	مُعِّرف (في الفصل والوصل (التبديل))
+identifier,	معرف النظام, ؛ معرف
+identity context	بيئة الهوية؛ سياق الهوية
+Identity number of the country or region	رَقْمُ هُوِيَّةِ البَلَدِ
+identity operation	عملية تحديد بالهوية
+ideogram; ideograph	رمز تعبيري
+ideography	كتابة رمزية
+idioblast	إديوبلاست
+idiochromatic minerals	معادن أصيلة اللون
+idiomorphic crystals	بلورات كاملة الشكل
+idiosyncrasy	تزايد الحساسية
+idle	خامل / شاغِر، متعطِّل
+idle actuator	موتور مؤازر لسرعة اللاحمل
+idle and auxiliary mixing system	نظام خلط سرعة التباطؤ والخلط الإضافي
+idle and recirculating air system	نظام سرعة التباطؤ وإعادة تدوير الهواء
+idle circuit condition	حالة دارة خاملة
+idle component	مركبة ردّيّة
+idle control (LLR)	نظام التحكم في وضع اللاحمل
+idle cut-off valve	صمام إيقاف وضع اللاحمل
+idle cutoff position	وضع التوقُّف
+idle gear	وضع مُحايِد للتروس
+idle interval (of a valve arm)	فترة توقف ( لذراع صمام )
+idle mode	نمط خامل
+idle period; off period	فترة عطل
+idle pulley	بَكَرة سائبة
+idle running; process idle	دوران دون تعشيق
+idle signal unit; IDU (abbreviation)	وحدة اشارة بدون عمل
+idle speed	سرعة بطيئة
+idle speed control	مُقاومة مُرتبطة بالضوء (LDR) / تحكّم في وضع اللاحمل
+idle speed control (LDR)	نظام التحكم في سرعة دوران وضع اللاحمل
+idle state; DEPRECATED: free state	حالة الخمول،, ؛ حالة التعطل عن العمل،, ؛ سابقا: الحالة الحرة
+idle stepper motor	موتور متدرج لسرعة دوران اللاحمل (IVC)
+idle stop cylinder (ABS/ASR)	أسطوانة مصد اللاحمل الخاصة بنظام منع غلق العجلات (ABS)/ نظام التحكم في الجر (TCS))
+Idle Time	وقت التوقف
+idle time; DEPRECATED: free time	فترة الخمول،, ؛ فترة التعطل عن العمل،, ؛ سابقا: الوقت الحر
+idler dolly	قاطرة دون محرِّك
+idler gear	تُرْس وسيط، تُرْس طليق
+idles	تكرار الإبطاء والإسراع
+idling	وضع اللاحمل / دوران بطيء
+idling (for wind turbines generator systems)	اللاحمل (لأنظمة مولد عنفة الرياح)
+idling control valve	صمام اللاحمل
+idling device	تجهيزة اللاحمل
+idling speed	سرعة دوران اللاحمل / سرعة التباطؤ
+idling speed adjustment	ضَبْط السرعة البطيئة
+idling-charge control	نظام التحكم في درجة الامتلاء في حالة اللاحمل
+idocrase	أيدوكريس
+IDT; interdigital transducer	جهاز تحويل طاقة رقمى بينى
+IEC 584	مواصفة (ال...) القياسية للجنة الدولية للتقانة الكهربائية IEC رقم 584
+IEC 60269-6	مواصفة (ال...) القياسية رقم 60269-6 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 60730-2-11	مواصفة (ال...) القياسية رقم 60730-2-11 للجنة الدولية للتقانة الكهربائية (I+F4141EC)
+IEC 60730-2-13	المواصفة القياسية رقم 60730-2-13 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 60730-2-14	المواصفة القياسية رقم 60730-2-14 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 60730-2-6	المواصفة القياسية رقم 60730-2-6 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 60730-2-7	المواصفة القياسية رقم 60730-2-7 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 61131	مواصفة (ال...) القياسية للجنة الدولية للتقانة الكهربائية IEC رقم 61131
+IEC 61158	مواصفة (ال...) القياسية للجنة الدولية للتقانة الكهربائية IEC رقم 61158
+IEC 61400-1	المواصفة القياسية رقم 61400-1 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 61400-11	المواصفة القياسية رقم 61400-11 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 61400-13	المواصفة القياسية رقم 61400-13 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 61400-2	المواصفة القياسية رقم 61400-2 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 61400-21	المواصفة القياسية رقم 61400-21 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 61400-23	المواصفة القياسية رقم 61400-23 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 61400-24	المواصفة القياسية رقم 61400-24 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 61400-25	المواصفة القياسية رقم 61400-25 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 61400-27	المواصفة القياسية رقم 61400-27 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 61400-3	المواصفة القياسية رقم 61400-3 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 61400-3-2	المواصفة القياسية رقم 61400-3-2 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 61646	المواصفة القياسية رقم 61646 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 61850-1	المواصفة القياسية رقم 61850-1 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 61850-10	المواصفة القياسية رقم 61850-10 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 61850-2	المواصفة القياسية رقم 61850-2 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 61850-3	المواصفة القياسية رقم 61850-3 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 61850-4	المواصفة القياسية رقم 61850-4 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 61850-5	المواصفة القياسية رقم 61850-5 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 61850-6	المواصفة القياسية رقم 61850-6 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 61850-7 standard	المواصفة القياسية رقم 61850-7 للجنة الدولية للتقانة الكهربائية (IEC)
+IEC 61850-7-2	المواصفة القياسية رقم 61850-7-2 للجنة الكهروتقنية الدولية (IEC)
+IEC 61850-7-3	المواصفة القياسية رقم 61850-7-3 للجنة الكهروتقنية الدولية (IEC)
+IEC 61850-7-4	المواصفة القياسية رقم 61850-7-4 للجنة الكهروتقنية الدولية (IEC)
+IEC 61850-8-1	المواصفة القياسية رقم 61850-8-1 للجنة الكهروتقنية الدولية (IEC)
+IEC 61850-9-1	المواصفة القياسية رقم 61850-9-1 للجنة الكهروتقنية الدولية (IEC)
+IEC 61968-1	المواصفة القياسية رقم 61968-1 للجنة الكهروتقنية الدولية (IEC)
+IEC 61968-2	المواصفة القياسية رقم 61968-2 للجنة الكهروتقنية الدولية (IEC)
+IEC 61968-3	مواصفة قياسية رقم 61968-3 للجنة الكهروتقنية الدولية (IEC)
+IEC 61968-4	مواصفة قياسية رقم 61968-4 للجنة الكهروتقنية الدولية (IEC)
+IEC 61968-9	المواصفة القياسية رقم 61968-9 للجنة الكهروتقنية الدولية (IEC)
+IEC 61970	المواصفة القياسية رقم 61970 للجنة الكهروتقنية الدولية (IEC)
+IEC 61970-2	المواصفة القياسية رقم 61970-2 للجنة الكهروتقنية الدولية (IEC)
+IEC 61970-301	المواصفة القياسية رقم 61970-301 للجنة الكهروتقنية الدولية (IEC)
+IEC 61970-401	المواصفة القياسية رقم 61970-401 للجنة الكهروتقنية الدولية (IEC)
+IEC 61970-402	مواصفة قياسية رقم 61970-402 للجنة الكهروتقنية الدولية (IEC)
+IEC 61970-501	مواصفة قياسية رقم 61970-501 للجنة الكهروتقنية الدولية (IEC)
+IEC 62026	مواصفة (ال...) القياسية للجنة الدولية للتقانة الكهربائية IEC رقم 62026
+IEC 62351-1	المواصفة القياسية رقم 62351-1 للجنة الكهروتقنية الدولية (IEC)
+IEC 62352-2	المواصفة قياسية رقم 62352-2 للجنة الكهروتقنية الدولية (IEC)
+IEC 62352-3	مواصفة قياسية رقم 62352-3 للجنة الكهروتقنية الدولية (IEC)
+IEC bus	ناقل (ال...) المعياري للجنة الدولية للتقانة الكهربائية (IEC)
+IEC bus, properties	خصائص الناقل المعياري للجنة الدولية للتقانة الكهربائية (IEC)
+IEC standard 66.22	جمعية مُهندسي الكهرباء والإلكترونيات (IEEE)
+IEC Strategic Group 1 (SG1)	المجموعة الاستراتيجية رقم 1 (SG1) للجنة الكهروتقنية الدولية (IEC)
+IEC Technical Committee (TC) 114	اللجنة الفنية رقم 114 للجنة الكهروتقنية الدولية (IEC)
+IEC Technical Committee (TC) 82	اللجنة الفنية رقم 82 للجنة الكهروتقنية الدولية (IEC)
+IEC Technical Committee (TC) 88	اللجنة الفنية رقم 88 للجنة الكهروتقنية الدولية (IEC)
+IECEE	اللجنة الدولية لمواصفات الموافقة على المعدات الكهربائية (IECEE)
+IECEx	نظام (IEC) لاعتماد المعايير الخاصة بالمُعدِّات المُستخدَمة في بيئات مُعرضة للانفجار (IECEx)
+IECQ	نظام تقييم مطابقة جودة العناصر الإلكترونية (IECQ)
+IEEE 488	معيار جمعية مُهندسي الكهرباء والإلكترونيات (IEEE) رقم 488
+IEEE-488	خط للاتصالات الرقمية قصيرة المدي (آى تريبل إي 488 - IEEE 488)
+if-then rule	شرطية (ال...)
+ifoam norm	الزراعة العضوية معايير الاتحاد الدولي لحرآات
+igneous rock	صَخْر ناري / صخور بركانية
+igneous rocks	صخور نارية
+ignitability	قابلية الاشتعال
+ignitable	قابل للاشتعال
+Ignitable waste	نفايات قابلة للاشتعال
+igniter	مشعل ، حهاز اشعال / جهاز إشعال / مُشْعِل
+igniter plug	شمعة المُشْعِل
+ignition	الإشعال / إشعال / احتراق، اشتعال
+ignition (in a gas)	قدح ، اشعال (في الغاز)
+ignition (in a gaseous medium)	اشعال (في وسط غازى)
+ignition cable	كابل إشعال كهربي
+ignition capacitor	مُكثف إشعال
+ignition circuit	دائرة الإشعال
+ignition coil	ملف الإشعال / ملف اشعال
+ignition coil module	وحدة ملف الإشعال
+ignition control	نظام التحكم في الإشعال
+ignition control additives, (I.C.A.)	مُضَافَات ضبْط الاشتعال
+ignition delay time	زمن تأخُّر الاشتعال
+ignition delay time,	زمن تأخير الإشتعال, مادة قابلة للإشتعال
+ignition diagnostic monitor	مرقاب تشخيص الإشعال
+ignition harness	ضفيرة إشعال
+ignition interference	تشويش الاشتعال
+ignition key	مفتاح الإشعال
+ignition lead	كابل إشعال
+ignition leads	نَوَاقِل (موصلاّت) تيارالإشعال، أسلاك الإشعال
+ignition lock	قفل الإشعال
+ignition loss	فَقْد في درجة حرارة الإشعال
+ignition of a plasma torch	إشعال مصباح البلازما
+ignition performance	قابلية الاشتعال
+ignition plug; spark plug	شمعة الإشعال، شمعة الشرَر
+ignition point	لحظة الإشعال / نقطة الإشعال
+ignition pressure	ضغط الإشعال
+ignition screening	حَجْب الاشتعال
+ignition spark	شرارة إشعال / شرارة الإشعال
+ignition starter switch	مفتاح بدء الإشعال
+ignition switch	مفتاح إشعال
+ignition system	منظومة الإشعال / نظام الإشعال
+ignition temperature	درجة الاشتعال
+ignition time	زمن إشعال
+ignition timing	وحدة التحكم في لحظة الإشعال / ضبط لحظة الإشعال
+ignition timing device	مُسدس لحظة الإشعال
+ignition voltage (breakdown voltage deprecated with this meaning)	جهد إشعال
+ignition wood	خشب الإيقاد
+ignition-capable equipment; ICE	معدة قابلة اللاشتعال
+Ignition-prevention device; Ignition-prevention system	جهاز منع الاشعال
+ignitor	شاعل
+ignitor assembly	تركيبة إشعال
+ignitor needle	إبرة إشعال
+ignitron	صمام مقوم ذو مصعد اشعال / مشعل؛ صمام قوسي زئبقي ذوقضيب إشعال / قادح
+IHCC	نظام IHCC
+IIC-Shirley tester	جهاز القياس شيرلي من معهد الكمياء الغير العضوية-
+ikat / ikkat	تقنية إيكات
+illegal act	إجراء غير قانوني
+illegal landfill	مكبّ نفايات عشوائي
+illegal logging	قطع غير قانوني للأشجار
+illegal wood	خشب غير قانوني
+illegal, unreported and unregulated fishing iuu	صيد غير قانوني، دون إبلاغ ودون تنظيم
+illegibility	لا مقروئية
+illite	فِلِزّ الإليت / إيّلايت
+illiteracy rate	معدل الأمية
+illuminance	شدة الإضاءة / إضاءة / الإستضاءة / كثافة الإضاءة
+illuminance (of an elementary surface)	نصوع (سطحِ أولّيِ)
+illuminance meter	مقياس شدة الإضاءة / لكسمتر / عداد الإنارة؛ مقياس الإنارة
+illuminance uniformity; uniformity ratio of illuminance	معامل إنتظام الإستضاءة؛ نسبة الإنتظام فى الاستضاءة
+illuminance vector	متجه ضوئى
+illuminant	مضيء / مضىء
+illuminant colorimetric shift	إنحراف فى قياس الإستضاءة
+illuminant colour shift	إنحراف فى الإستضاءة اللونية
+illuminant mode,	نمط إضاءة,
+illuminated (manuscrit)	(مخطوط) مضاء
+illuminated capital	حرف مزخرف
+illuminated landing ramp	مَدْرَج مُضاء
+illuminating engineering	هندسة الإنارة
+illuminating oil	زيت الاستصباح، زيت الإضاءة
+illumination	إضاءة / اضاءة
+illumination colour	لون زاهى
+illumination of deck	إضاءة السطح
+illumination pattern; illumination diagram	نمط الإضاءة
+illuminator	مُضيء
+illuminometer	مِضواء
+illusion tulle	تول من نسيج كاذب
+illustration	رسم ايضاحي
+illuvial	تراكمي
+illuviation	ترسب الطين / تراكمية آفاقية
+ilmenite	إلمنيت / إلمنايت
+ILPA	المنطقة اللوجستية الإنتاجية المؤقتة
+ILS integrity	كمال نظام الحط الآلي
+ILS reference datum	مرجع إسناد نظام الحط الآلي
+ILS reliability	اعتمادية نظام الحط الآلي
+ILS; instrument landing system	نظام الحط الآلي / نظام الحط بالأجهزة
+ilvaite	إلفايت
+image antenna	هوائي تمثيلى
+image area/image-bearing area	مجال صوري
+image attenuation	توهين الصورة
+image background	خلفية الصورة
+image camera tube	صمامة آلة تصوير ناقلة للصورة / انبوب آلة تصوير
+image colour appearance model	نموذج زهو لون الصورة
+image dissector (obsolete)	محلل الصورة ( غير فاعل)
+image focus voltage	جهد تركيز الصوره ( الطيف ، الخيال )
+image frequency (in superheterodyne reception)	تردد الصورة ( في استقبال بقوة فوقية)
+image iconoscope	آلة تصوير تلبفزيونية ناقلة للصورة
+image impedance	مقاومة صورية
+image intensifier	مكثف شدة الصورة
+image intensifier tube	صمام معزز الصوره
+image intensifier; image amplifier (deprecated)	مقوً الصورة
+image orthicon	صمام تلبفزيوني لاقط ناقل للصورة / مصحح الصورة
+image phase change	تغيير طور الصورة
+image plane	مستوي الصورة
+image quality indicator (IQI); penetrameter	مؤشر جودة الصورة
+image rejection ratio	نسبة رفض صورة الإشارة؛ إضعاف على التردد المترافق
+image retention	إحتفاظ الصورة
+image sensor; camera sensor	حساس الصورة
+image state	وضع الصورة؛ حالة الصورة
+image transfer coefficient	معامل تحويل الصورة
+image viewer	مكبرة الشفافات
+image-converter tube	صمامة مغير الصورة
+image-motion compensation	تعديل حركة الصورة
+image-parameter filter	مرشح ثابت الصورة
+imagery	تمثيل الصورة / تماثيل، أوثان
+imagery collateral	ملحقات تمثيل الصورة
+imagery correlation	ربْط تمثيل الصورة
+imagery data-recording	تسجيل معطيات تمثيل الصورة
+imagery degradation	انحطاط تمثيل الصورة
+imagery eXploitation	استثمار التصوير
+imagery interpretation	تفسير التصوير
+imagery interpretation key	مفتاح تفسير التصوير
+imagery pack	مجموعة الصوَر
+imagery sortie	غارة تصوير
+imaginary number	عدد تخيلي
+imago	يافعة
+imbalance (mass irregularities)	عدم الاتزان (عدم تساوي الكتل من حيث الشكل)
+imbibition	ارتشاف
+imbibition capacity	سعة التبلّل
+imbibition moisture; water of imbibition	مِياه التشرُّب
+imbibitional water value	قيمة مائية متشرِّبة
+imbricate tiles	بلاط متراكب
+imbrication; overlapping (of tiles, etc.)	تراكب
+Imhoff cone	مخروط 'إمْهُوف' (الزجاجيّ) / مَخْرُوط 'إمْهُوف' / قُمع 'إمْهُوف' / مخروط إيمهوف
+Imhoff tank	صِهْرِيج إمْهُوف / خَزّان إيمهوف
+imission	تلوث عبر الهواء أو الماء
+imitation animal skin	جلد حيواني مقلد
+imitation fur	فرو مقلد
+imitation leather	جلد مقلد
+imitation linen fabric	نسيج مُحاكِ للكتان
+imitation Mako	خيط تقليد الماكو
+imitation melange yarn	خيط غزل صناعي ممتزج الألوان
+imitation rib fabric	نسيج مضلع اصطناعي
+imitation suede	وبر بري مقلد
+imitation velour	قطيفة مقلدة
+imitation velvet	قطيفة مقلدة
+imitation vigogne yarn	خيط غزل الفيكونيا
+imitation yarn	خيط مُقَلّد
+immature cotton	قُطن ميّت
+immature crystal	بلورة غير ناضجة
+immature soil	تربة غير ناضجة
+immediate action plan	خطة العمل الفوري
+immediate air support	دعم جوي فوري
+immediate appreciation percentage	تقدير فوري للنسبة المئوية
+immediate improvements	تحسينات فورية
+immediate stop post	لوحة توقف وقائي
+Immelmann manoeuvre	مناورة إمِلْمان
+immersed boundary method	طريقة الحدّ المغمور
+immersed gun	قاذف مغموس
+immersed plant	نباتات مغمورة
+immersion	غمْر
+Immersion Cooling	نظام التبريد بالغمر
+immersion tank	خزان كسح
+immersion test	اختِبَار الغَمر
+immersion-compression test	اختبار الغمْر و الانضغاط
+immigration	هجرة
+immigration law	قانون الهجرة
+immiscible	لا يمتزج
+immission	تَضَرُّر / ردود (تأثير) الانبعاثات
+immittance	قبولية معاوقة / مسامحية
+immittance matrix	مصفوفة قبولية معاوقة
+immobiliser [UK] / immobilizer [US]	مانع تحريك السيارة
+immobilization	تثبيت
+immune response	استجابة مناعية
+immune system	جهاز المناعة
+immunity	مناعة
+immunity (to a disturbance)	مناعة (للإضطراب)
+immunity (used when dealing with international trade agreements and OPEC)	حصانة
+immunity level	مستوى المناعة - مستوى الحصانة
+immunity limit	حد المناعة - حد الحصانة
+immunity margin	هامش المناعة - هامش الحصانة
+immunity test level; severity level (deprecated)	مستوى إختبارِ المناعةِ (الحصانة)
+immunity to interference	مناعة ضد التداخل
+immunization	تمنيع
+immuno-electrophoresis; immuno-electrodiffusion; electrosyneresis	مناعة الأنفصال الكهربائي
+immunostimulants	محفزات المناعة
+imp (abbreviation); impairment unit	وحدة الضعف
+impact	أثر/تأثير / تأثير / صَدْم
+impact (collision)	تَصادُم
+impact area	منطقة صدم
+impact basin / impact stilling basin	حوض تهدئة للصدمات
+impact energy	طاقة اصطدام
+impact factor	مُعامِل الصدم
+impact factor / peak factor / surge factor	عامل التصادم
+impact fees	رسوم التأثير
+impact ionisation [UK] / impact ionization [US]	تأيّن بالارتطام
+impact load	حِمْل صدم / حِمل صدمي
+impact loss	فاقِد التصادم
+impact microphone	ميكروفون ارتطامي
+impact mitigation	تخفيف التأثير
+impact moling	مدّ الأنابيب بمطرقة حفر
+impact of radiation	إشعاع الصدم
+impact on the environment	تأثير البِيئة
+impact parameter	مَعْلَم الصدْم
+impact point	نقطة الاصطدام
+impact potential	تأثير محتمل
+impact pressure	ضَغْط التصادم / ضغط الصدم / ضغط صدمي
+impact resistance	مُقَاوَمة الصدم
+impact screwdriver	مفك يعمل بالطرق
+impact sound pressure level	مستوى ضغط صوت الصدم
+impact strenght	مقاومة الصدم
+impact strength	مقاومة الصدم
+impact stress	إجهاد الصدم
+impact test	اختبار الصدم
+impact transmitter	جهاز إرسال دَفْعي، مُرْسِل بالدفع
+impact velocity	سرعة التصادم
+impact wrench; impact air wrench	مفتاح ربْط دَفْعي
+impact-sound reducing material	مادة مخفضة لصوت الصدم
+impactless printer	طابعة كاتمة
+Impaired water	مياه ملوثة
+impairment	تأخر الحالة
+impairment (of signal quality)	ضعف (جودة الإشارة)
+impairment of quality	إضعاف النوعية
+impairment scale	مِقياس ضعفِ
+impedance	المُعاوقة / مُعاوقة / معاوقة / ممانعة / معاوقة لمرور التيار الكهربائي
+impedance angle	زاوية معاوقة
+impedance bond	رابط معاوقة / الرابط المقاوم / رابِطُ إِعاقَةٍ كَهْرَبائِيٍّ
+impedance drop	هبوط الجهد بالمعاوقة؛ هبوط بالمعاوقة / هبوط الجهد بالممانعة
+impedance earthed (neutral) system	نظام مؤرض خلال معاوقة
+impedance earthed system; impedance grounded system, US	نظام تأريض بمعاوقة
+impedance matrix	مصفوفة معاوقة
+impedance of the skin	معاوقة الجلد
+impedance plethysmography	تقنية الكشف على الإمتلاء الدموى بالمعاوقة
+impedance pneumography	تقنية الكشف على الرئة بالمعاوقة
+impedance relay	مُرَحِّل ممانعة
+impedance to earth; impedance to ground (US)	ممانعة خرج
+impedance to earth; impedance to ground, US	معاوقة الأرضى
+impedance voltage at rated current (for the principal tapping)	جهد المقاومة عند التيار الاسمي ( للمأخذ الرئيسي )
+impedance; complex impedance	المعاوقة؛ المعاوقة المركبة
+impedence	معاوقة / ممانعة
+impeller	دَفّاعة أحادية القناة / دفاعة / دافع (ال...)
+impeller (blower/pump) / rotor	دَفّاعة
+impeller channel	قناة ذات دَفّاعة
+impeller, single-vane	دَفّاعة أحادية الريشة
+impeller, spiral non-clog	دَفّاعة لولبية عديمة الانسداد
+impending slough	انسلاخ وَشِيك
+imperfect cleavage	انفلاق ناقص
+imperfect frame	إطار بإفراط
+imperfection (of a crystal lattice)	عدم الاننظام (لشبكة بلورية)
+imperial (papier)	امبريال، امبراطوري
+imperial porphyry	حَجَر السُّمّاق الأمبراطوري، رُخام السُّمّاق الأمبراطوري
+impermeability	عدم النفاذ، كتامة، اللامَنْفَذِيَّة / كتامة
+impermeability to water	كتامة عن الماء
+impermeable	صامد للماء، غير نفّاذ، كتيم / مُحْكَم
+impermeable / impervious	غير منفذ
+impermeable barrier	غِطاء غير نفّاذ
+impermeable cellular fabric	نسيج الخيام
+impermeable rocks	صخور كتيمة
+impermeable strata	طبقة غير نفوذة
+impermeable stratum	طبقة غير نفَّاذة
+impermeable; impervious; tight	مُحكَم الغلْق
+impervious	كَتِيم / عديم النفاذية
+impervious boundary	حد غير منفذ
+impervious canopy	ظُلَّة غير منفتحة
+impervious rock	صخور غير مَسَامِّية
+impervious surface	سطح منيع
+impervious wall	حائط كتيم
+imperviousness overlay zoning	تجزئة مع تغشية بعدم نفاذ
+impingement	اصطدام
+impingement aerator	مِنْفاخ هواء على دفقات
+impingement cooling	تبريد عن طريق الاصطدام / تبريد اصطدامي
+impingement injector	مِحقَن اصطدامي
+implant (radioactive)	زرع (مُشعّ)
+implantation technique; interstitial technique	تقنية الزرعِ
+implement, tool	أداة
+implementation	تنفيذ
+implementer	المنفذ
+implementing directives	مبادئ توجيهية
+implication	إنجرار منطقي
+implication; IF-THEN operation	تضمين
+implicit data, pl	بيانات ضمنية
+implosion	انفجار إلى الداخل / انفجار إلى الداخل (في المرجل)، انْبِعاج
+import	استيراد / استيراد خارجي
+important bird areas (ibas)	مناطق الطيور الهامة
+imported backfill	ردم مستجلب
+Imported Flare Gas Index	مؤشر حرق الغاز المستورد
+Importer	مستورد
+imposed load	حِمْل إضافيّ
+imposer	مرتب الصفحات
+imposition	ترتيب الصفحات
+impost	جبهة الباب
+impost; coussinet	كتف القوس، مرتكز القوس
+impoundage operation	مَحطّة احتجاز وتخزين المياه
+impounded river section	قطاع مائيّ مُزوّد بسدود وحواجز (لتنظيم المجرى المائيّ)
+impounding reservoir bank	سَدّ حاجِز
+impoundment	حجز / حَجْز
+impoundment layer	طَبَقة الحجز
+impregnated deposits	رواسب مُتشرِّبة
+impregnated paper insulation	عزل ورقى مشبع
+impregnated plywood	خشب معاكس مُشَرَّب
+impregnated sand	رَمْل مُشرَّب
+impregnating	تشبع- غمر / إشباع - غمر
+impregnating resin	راتنج ( صمغ ) التشرب
+impregnating substance	منتجات الاشراب
+impregnation	تشرّب / تَشَرُّب
+impress copy	نسخة طباعية
+impression	طبع
+impression block	لوحة البصْمَة
+impression cylinder/roller	أسطوانة الطبع
+impression edge	بصمة مطرقة
+imprimatur	إذن بالطبع
+imprint	أَثَر / أثر
+improved oil recovery	تحسين استخراج النفط (IOR)
+improved plow steel	فولاذ محسن عالي الجودة لأسلاك الرفع
+improved soil	تُربَة مُحَسَّنَة
+improved subgrade	قاعِدَة مُحَسَّنَة
+improvement / optimisation	تَحْسين
+improvement of subsoil	إصلاح التربة السفلية (تحت السطحية)
+improvement of the environment	تحسين البيئة
+Improving Policies through Energy Efficiency Indicators (IPEEI)	مجموعة تحسين السياسات من خلال مؤشِرات كفاءة استخدام الطاقة (IPEEI)
+Improving the energy efficiency of buildings	تحسين كفاءة الطاقة في المباني
+impsonite	حُمَّر ناري أسفلتي
+impulse	نبضة / نَبْضَة / نبضة دفعية / نبضي - دفعي / قدرة الدفع
+impulse and step function	دالة نبضية ودالة درجية
+impulse function	دالة نبضية
+impulse generator	مولد نبضات
+impulse magneto	مغنيط النبض
+impulse response	إستجابة نبضية
+impulse response in Laplace domin	إجابة على إشارة نبضية في المجال الترددي
+impulse response in time domin	إجابة على إشارة نبضية في المجال الزمني
+impulse test	اختبار نبضي (دفعى)
+impulse turbine	تربين دفعي / عنفة دفع / عَنَفَة دفعية
+impulse type turbine	تربينية نبضية
+impulse voltage	قفزة جهد
+impulse withstand voltage	جهد التحمل الدفعي
+impulse-function sequence	تتابع دالة نبضية
+impulse-reaction turbine	عَنَفة ذات صدْم وردّ فعل
+impulse/reaction turbine	عَنَفَة دفعية فعلية
+impulsive disturbance	اضطراب دفعي ( نبضي )
+impulsive loading	حِمْل دفعيّ
+impulsive noise	ضوضاء دفعية
+impurities	شوائب
+impurity	شائبة / شوائب
+impurity activation energy	طاقة تنشيط الشوائب
+impurity band	حزمة شوائب
+impurity compensation	تعويض الشوائب
+impurity concentration	تركيزالشوائب / تركيز الشوائب
+impurity concentration transition zone	منطقة انتقال تركير الشوائب
+impurity level	نطاق شوائب
+impurity levels	مستويات الشوائب
+impuse	دَفْع
+in between	بَيْنَ بَيْنَ
+in Hg	بوصة زئبق
+in line offset	بُعْد بين التفجير و السماعة
+in local override	أولويّة على التشغيل المحلّي
+in opposition, adj	متضادان فى الطور
+in phase	متطابق الطور
+in phase, adj	تماثل الطور
+in quadrature, adj	متعامدان فى الطور
+in series	على التوالي
+In Service	فِي الخِدْمَةِ
+in situ	في الموقع
+in situ combustion; fireflood	حَرْق في الموقع الأصلي
+in situ construction	مُنشآت جاهزة في موقع العمل
+in the blind	في العمى
+in the groove	حسب الرغبة / حسب الطلب
+in the slot; on-line	على الخط
+in vehicle local area network (IVLAN)	شبكة موضعية لبيانات السيارة (IVLAN)
+in vitro	في المختبر
+in vivo	في الوسط الحيوي
+in – situ water conservation (or 'in-situ moisture conservation')	محافظة على المياه في الموقع (أو 'محافظة على الرطوبة في الموقع')
+in-band signalling	تأشير داخل النطاق
+In-Cable-Control-Box	صندوق تحكم داخل الكابل (ICCB)
+in-depth review (idr)	تقييم معمق
+in-flight advisory	تقرير في أثناء الطيران
+in-house' contract award	تعاقد داخلي
+in-line analysis / in situ analysis	تحليل مِجْهَريّ دقيق
+in-line blending	مَزْج في داخل الأنابيب
+in-line engine	محرك مُستقيم / مُحَرِّك مستقيم
+in-line equipment	مُعِدَّات تصنيع أساسية
+in-line filter	فلتر خطي
+in-line profiling	تشكيل القطاعات الجانبية
+in-line pump	مضخة حقن خطية
+in-line tube valves	صمام أُنبوبيّ
+in-local	فى النطاق المحلى
+in-parallel	على التوازي
+in-phase	متفق الطور / مُتطاوِر / متفق بالطور
+in-phase (voltage) control	تحكم طوري (في الجهد)
+in-place	في المكان
+in-process inspection	فحص بيني
+in-quadrature	متعامد
+in-rush of water	دَفْق الماء
+in-series	على التسلسل
+in-situ	حقلي / فى الموقع / في الموقع الأصلي / داخل الموقع
+in-situ conservation	حفاظ فى الموقع
+in-situ processes	عملية داخل الموقع
+in-situ stripping	كسح داخل الموقع
+in-situ treatment	معالجة بموقع التكون
+in-slot signalling	تأشير داخل الحيز
+in-tank pump	مضخة داخل الخزان
+in-transition	قيد الانتقال
+In-vessel composting	التدمين في حاويات
+inactivated	خمول، غير نشط
+inaugural flight	رحلة تدشين
+inauguration	تدشين
+inbetween fabric	قماش ستائر بَيْني
+inboard aileron	جُنيح داخلي
+inboard profile	مظهر جانبي داخلي
+inboard quadrant	رُبعيّة داخلية
+inbond	ضمن الرابطه
+inbound	متَّجه إلى الداخل
+inbreeding depression	تراجع سكاني ناتج عن زواج الأقارب
+Inca patterns	نماذج إنكا
+incandescence	توهـج
+incandescent	مُتَوهِّج
+incandescent bulb	مصباح متوهج
+incandescent bulbs ban	حظر المصابيح المتوهجة
+incandescent lamp	مصباح متوهج
+incendiary bomb	قنبلة حارقة
+incentive	تشغيل / حافز
+incentive (economic)	حافز (اقتصادي)
+incentive regulation	تنظيم التحفيز / تنظيم الحوافز
+incentive zoning	تقسيم تحفيزي
+incentive-based rehabilitative economics	اقتصاد تأهيلي قائم على الحوافز
+inch	بوصة / إنش / يزحزح
+inching	تحرّك ببطء / ضبط دقيق المراحل
+incidence	حدوث / وقوع
+incidence indicator	مبين زاوية السقوط
+incidence instability	عدم استقرار الوُرود
+incidence matrix	مصفوفة حدث (عقدة)
+incidence wires	أسلاك السقوط
+Incident	العَارِضُ / حادثة
+Incident and Trafficking Database	قاعدة بيانات الحوادث والإتجار غير المشروع
+incident current	تيار عارض
+incident energy limit, ; ELIM	حد الطاقة الساقطة على السطح,
+incident energy,	الطاقة الساقطة على السطح,
+incident light	ضوء ساقط
+incident ray	شعاع ساقط
+incident scattering variable; incident wave quantity	متغير الانتشار الساقط
+Incident Solar Radiation (G)	الإشعاع الشمسي الساقط
+incident wave	موجة مرسلة / موجه عارضة / موجة ساقطة
+incident wave (in a transmission line)	موجة عرضية (في خط نقل)
+incidental frequency modulation	تعديل التردد الطارئ
+incidental recharge	تغذية مائية عرضية
+incineration	حرق (ال...) للتحويل إلى رماد / حرق
+incineration plant	حرْق النفايات
+incinerator	مِحرقة / مَرمِد
+incinerator ash	رَمَاد المَحرَقَة
+incipient drying	جفاف بادئ
+incise (to)	حزَّ، شقَّ
+incised meander	تعرُّج وعر، مُنعطَف عميق
+incised river	نهر قاعي
+incisive	حازّ، قاطع
+inclination	مَيَلان
+inclination (of a satellite orbit)	زاوية ميل (لمدار قمر صناعي)
+inclination meter	مقياس الميل
+inclination of the wind	ميل الريح
+inclination test	اختبار الميل
+inclination; slope; tendency; tilt	مَيل
+incline / slope	مَيْل
+Incline Block Tariff	تعريفة حسب شرائح الاستهلاك
+inclined - V antenna	هوائي على شكل V مائلة
+inclined catenary; skew catenary; curvilinear catenary	خط تعليق طولي مائل
+inclined crested weir	هدار مائل العتبة
+inclined dispersion	تشتُّت مائل
+inclined fault	صَدْع مائل
+inclined flow	تدفق مائل
+inclined gauge / sloping gauge	مِقياس مائل
+inclined orbit (of a satellite)	مدار مائل (لقمر صناعي)
+inclined plane	مَيْل عكسيّ
+inclined plate separator	مفرق الصفيحة المائلة
+inclined shock	صدمة مائلة
+inclined tunnel spillway	مخلص ذو نفق منحدر
+inclinometer	مقياس ميل / مقياس التشوُّه
+included angle	زاوية محصورة
+included angle of a reproducing stylus tip	زاوية تشمل طرف إبرة إستعادة التسجيل
+inclusion	شوائب؛ مشتملات / تضمين
+inclusions	مُكتَنَفَات
+Inclusive list	قائمة شاملة
+incoherence	عدم التماسك
+incoherent radiation	إشعاع لا متماسك
+incoherent scatter ionospheric sounding	سبر أيونوسفيري متناثر غير مترابط
+incoherent scattering	تشتت متفكك
+income	دَخَلٌ
+income statement	بيان الأرباح والخسائر
+incoming	وارد (دخول)
+incoming air	هواء التزويد
+incoming circuit	دارة استقبال
+incoming feeder	مغذى دخول
+incoming goods	سِلَع عند الوصول
+incoming only terminal	طرف دخول فقط
+incoming response delay	تأخير الرَدِّ القادمِ
+incoming sewer	مُوجِّه مياه الصرف
+incoming traffic	اتصالات قادمة
+incompatible	متباين
+incompetent bed	طبقة ضعيفة
+incomplete adaptation	ظاهرة التكيف اللوني الغير مكتمل
+incomplete bridge connection (of an auto self-excited transductor)	توصيلة قنطرة غير كاملة
+incomplete combustion	احتراق غير تام
+incongruent	غير متماثل
+incorporated hand-operated device (of a remote control switch)	أداة مدمجة تعمل يدويا (لمفتاح تحكٌم عن بعد)
+incorporated switch	مفتاح مدمّج
+incorporation	امتزاج
+incorrect (discrete) signal	إشارة غير صحيحة (متقطعة )
+incorrect framing	تأطير غير صحيح
+incorrect operation of protection; incorrect operation of relay system (US)	تشغيل خاطئ للحماية
+increase / rise	ارتفاع
+increase / rise / upgrade	منحدر صاعد
+Increase Energy Efficiency Production and Consumption	رفع كفاءة إنتاج واستهلاك الطاقة
+increase in the EEG surcharge	زيادة في رسوم قانون الطاقات المتجددة
+increase; propagation	زيادة
+increased safety "e"	درجة الأمان الزائد "e"
+increasing velocity	سُرعة متزايِدة
+increasing water supply	زيادة إمدادات المياه
+increment	تَزايُد / جزء صغير / جزء / زيادة
+incremental airbrakes	فرامل هوائية تزايدية
+incremental angle/time sensor (IWZ)	إشارة الزاوية-الزمن المُتزايدة
+incremental B (H) loop	حلقة (B (H إضافية
+incremental dilution dewaxing	إزالة الشمع بالتمديد المتزايد
+incremental duplex	مزدوج تزايدى
+incremental encoder	مُشفِّر تزايدى
+incremental hysteresis loop	حلقة تخلف مغناطيسي إضافية
+incremental information	معلومات راجعة
+incremental J (H) loop	حلقة (J (H إضافية
+incremental M (H) loop	حلقة (M (H إضافية
+incremental permeability	عامل ارتفاع النفاذية / نفاذية تفاضلية
+incremental power gain	الكسب المتزايد للقدرة
+incremental pressure changes	زيادات في الضغط
+incremental procedure	إجراء إضافيّ
+incremental sensitivity	حساسية تزايدية
+incrustant	قشرة
+incrustation	تغطية / تراكُب
+incubation	حضانة
+Indanthren	إندانترين
+indefinite callsign	إشارات نداء غير محددة
+Indemnification obligation of the network operator	التزام تعويض من مشغل الشبكة
+indentation	تسنين، تخريم
+indented bar	قضيب محزَّز
+indented bolt	برغي محزَّز
+indenture level	مستوى إلزام
+independant producer	مُنتِج مستقل
+independence of tracks	استقلالية المسارات
+independent	مستقل
+independent convertor	محول تردد الكتروني منفصل
+independent earth electrode; independent ground electrode, US	قطب أرضى مستقل؛ إلكترود أرضى مستقل
+independent lamp control gear	معدة تحكم منفصلة
+independent lampholder	ماسك وحدة إضاءة منفصل
+independent LED module	وحدة صمام ثنائي باعث لضوء LED مستقلة
+independent manual operation (of a mechanical switching device)	تشغيل يدوى مستقل
+independent monitoring	رصد مستقل
+independent point lock	قفل مستقل لنقطة تحويل
+Independent Power Producer	منتج مستقل للكهرباء
+independent power producer; independent power generator	منتج كهرباء مستقل؛ مولد كهرباء مستقل
+independent sideband ; ISB (abbreviation)	نطاق جانبى مستقل
+independent source	مصدر مستقل
+independent suspension	نظام تعليق مستقل
+Independent System Operator	مشغل النظام المستقل
+Independent Unit	وحدة مستقلة
+independent variable	مُتغيِّر مستقل
+independent verifier	مراجع محايد
+Independent Water and Power Plant	محطة إنتاج مستقلة للكهرباء والمياه
+independent-time measuring relay	مُرَحِّل قياس ذو زمن مستقل, لا يعتمد على كمية اخرى
+independently driven exciter	مثير مستقل الحركة
+indestructibility	لا تَلَفِيَة
+indeterminate	غير مقرر
+indetermination	عدم تحديد
+index	دليل / فهرس
+index (in CD or DAT systems)	دليل (في انظمة الأشرطة السمعية الرقمية أو الأقراص المدمجة)
+index (of an indicating device)	موهن
+index by the dilution method	دليل تخفيف الحمأة
+index dip	هبوط عامل الانكسار
+index ellipsoid	مجسَّم دليلي(مجسم إهليلجيّ الشكل)
+indeX error	خطأ قراءة
+index fossil	مُستحاثَّة دليل، أُحـْفورة دليل
+index mark	علامة دليلية
+index matching material	مادّة لملائمة الدليل؛ مادة متجانسة الدليل
+index of concentration	دليل التركيز
+index of cooperation	دليل المشاركة
+index of irregularity	مؤشر انتظام الخيط
+index of refraction	مُعامِل الانكسار / معامل الانكسار
+index property	خاصّة دالة
+index register	مُسجِّل القرينة، عَدَّاد القرينة
+index signal	إشارة دليل
+index, biotic	دَليل حيويّ
+indexation	مقايسة
+indexing	فهرسة
+indialite	إنديلايت
+Indian cotton	قطن هنديّ / قطن هندي
+Indian crepe / Indian linen	كريب هنديّ، كتان هنديّ
+Indian rib	نسيج هندي مُضلَّع
+Indian rugs	سجاد هندي
+Indian sheepskin	جلد الخروف الهندي
+indian spring low water	خط انحسار المياه الأدنى
+Indian style	طراز الهندي
+indicate, verb	يبين, فعل؛ يوضح
+indicated air-speed	سرعة جوّية مبينة
+indicated altitude	ارتفاع مبيَّن / ارتفاع مُبيَّن
+indicated course	مسار مُبيَّن
+indicated course sector	قطاع المسار المبيَّن
+indicated glidepath	مسار انزلاق مُبيَّن
+indicated hold	إيقاف مُبيَّن
+indicated horse power,(I.H.P.)	قدرة حصانية بيانية (قبل حسم فاقد الاحتكاك)
+indicated horsepower	القدرة البيانية / قدرة حصانية مُبيَّنة
+indicated Mach number	رقم ماخ المُبيَّن
+indicated value	بيان
+indicated work	شُغل بيانيّ
+indicating (measuring) instrument; displaying (measuring) instrument	جهاز قياس
+indicating bolt	مزلاج مبيّن
+indicating circuit; monitoring circuit	دائرة بيان
+indicating device	مُؤشِّر، نبيطة تأشير / جهاز تأشير؛ جهاز بيان
+indicating device,	جهاز بيان, الكشف عن الغاز
+indicating device; indicator	جهاز بيان
+indicating element	عنصر بيان
+indicating fuse	مصهر بيان
+indicating instrument	جهاز بياني / جهاز قياس بمؤشر
+indicating tape; warning tape	شريط تحذير؛ شريط بيان
+Indication	بيان / قيمة حقيقية إصطلاحية (لكمية)
+indication of a signal	مؤشر للإشارة
+indication of an automatic level crossing	بيان معبر تقاطع بنفس المستوى آليا
+indication of charge	بيان التكلفه
+indication of duration	بيان المدة
+indication panel	لوحة البيان
+indicator	مؤشر / مؤشِّر / مُبيِّن
+indicator diagram	الرسم البياني للمبين / مخطط مُبيِّن
+indicator drum	أسطوانة المسجل
+indicator lamp	مُشَوِّر
+indicator lamp [UK] / indicator light [US]	لمبه بيان
+indicator lamp circuit 1 [UK] / indicator light circuit 1 [US]	لمبة بيان الدائرة 1
+indicator lamp circuit 2 [UK] / indicator light circuit 2 [US]	لمبة بيان الدائرة 2
+indicator light	مؤشر ضوئي
+indicator organism	مُؤشِّر جرثوميّ
+indicator plant	نباتات مؤشرة
+indicator species	أنواع مؤشرة
+indicator substance	مادة مُبَيِّنة
+indicator,	مؤشر, الانضغاط الداخلى برمز P / مؤشر,
+indicators	كواشف
+indicatrix of Tissot	دليل تيسو
+indicolite	إنديكولايت
+Indienne	هنديّ
+indigenous (=native) species	أنواع أصلية (= ولدت بالموقع)
+indigenous ecological knowledge; tek; traditional ecological knowledge	معرفة إيكولوجية تقليدية المعرفة الإيكولوجية للسكان; الأصلين
+indigenous knowledge; ik; local knowledge	معرفة; محلية معرفة السكان الأصليين
+indigenous lands and territories	أراضي ومواطن الشعوب الأصلية
+indigenous people	سكان أصليون
+indigenous strategy	استراتيجية السكان الأصليين
+indirect (method of) measurement	القياس (بطريقة) مباشرة
+indirect (power) conversion	تحويل غير المباشر (للقدرة)
+indirect AC converter	مغير تيار متردد مباشر
+indirect AC/DC converter	مغير تيار متردد/ تيار مستمر غير مباشر
+indirect acting instrument	جهاز قياس فعَّال بطريقة غير مُباشرة
+indirect actinic effect	تأثير كيميائى إشعاعي غير مباشر؛ تأثير أكتينى غير مباشر
+indirect actuation	تحريك غير مباشر
+indirect address	عنوان غير مباشر
+indirect aerosol effect	تأثير غير مباشر للهباء الجوي
+indirect air support	دعم جوي غير مباشر
+indirect arc furnace	فرن قوسي غير مباشر
+indirect arc heating	تسخين بالقوس (الكهربائي )غير المباشر
+indirect charges	رسوم غير مباشرة
+indirect commutation	تبديل غير المباشر
+indirect contact	تلامس غير مباشر؛ إتصال غير مباشر
+indirect control	تحكم غير مباشر
+indirect cooled winding	ملفات مبردة غير مباشرة
+indirect current link AC converter	مغير تيار متردد غير مباشر
+indirect cycle	دورة غير مباشرة
+indirect damage assessment	تقويم الضرر غيرالمباشر
+indirect DC converter	مغير تيار مستمر غير مباشر
+Indirect dischargers	مكان تصريف غير مُباشر
+indirect distribution by satellite	توزيع غير مباشر بالقمر الصناعي
+indirect economic impacts	آثار اقتصادية غير مباشرة
+indirect electric heating	تسخين كهربائي غير مباشر
+indirect flow measurement	قياس غير مُباشر لمُعدَّل التدفّق
+indirect flux,	تدفق غير مباشر,
+indirect fuel injection	نظام الحقن في ماسورة السحب
+indirect heating	تدفئة غير مباشرة، تسخين غير مباشر
+indirect illuminance	الإستضاءة الغيرمباشرة
+indirect induction heating	تسخين حثي غير مباشر
+indirect inverter	مقوم عكسى غير مباشر
+indirect levelling	تسوية غير مباشرة
+indirect lighting	إضاءة غير مباشرة
+indirect lightning strike	صاعقة غير مباشرة
+indirect liquid cooling system	نظام التبريد بالسائل غير مباشر
+indirect measurement	قياس غير مُباشر
+indirect measurement of force	قياس (ال...) غير المباشر للقوة
+indirect observations	ملاحظات غير مباشرة
+indirect overcurrent release	اعتاق غير مباشر بزيادة التيار
+indirect potable reuse	إعادة استخدام المياه بشكل غير مباشر
+indirect pressure gauge	أجهزة قياس الضغط بطريقة غير مُباشرة
+indirect ray path	مسار شعاع (لاسلكي) غير مباشر
+indirect reading pocket dosemeter [exposure meter]	مقياس جرعة جيبى غير مباشر القراءة (مقياس تعرض)
+indirect rectifier	مقوم غير مباشر
+indirect resistance electroheat installation	منشأة كهروحرارية للتسخين غير المباشر بمقاومة
+indirect resistance heating	تسخين غير مباشر بمقاومة
+indirect reuse	إعادة استعمال غير مباشرة / إعادة استخدام غير مباشر
+indirect side control	تحكم جانبي غير مباشر (نظام منع غلق العجلات (ABS))
+indirect system	نظام غير مُباشر
+indirect tax	ضرائب غير مباشرة
+indirect tensile testing	اختبار شَدٍّ غَير مُبَاشِر
+indirect use values	قيم استخدام غير مباشر
+indirect voltage link AC converter	مغير تيار متردد ذو وصلة جهد غير مباشر
+indirect water use	استخدام غير مباشر للماء
+indirect wave	موجة (لاسلكية) غير مباشرة / موجة غير مباشرة
+indirect-acting instrument	جهاز قياس ذو فعل مباشر
+indirect-arc	فرن قوس غير مباشرة
+indirect-use value	قيمة استخدام غير مباشر
+indirectly heated cathode	مهبط غيرمسخن مباشرة
+indirectly ionizing radiation; indirectly ionizing particles	إشعاع متأين غير مباشر
+indirectly irradiated area	منطقة إشعاع غير المباشر
+indistinct cleavage	انفلاق غير تام
+individual air conditioning system	نظام فردي لتكييف الهواء
+individual assessment	تقييم فردي
+individual axle drive locomotive	قاطرة بمحور قيادة منفرد
+individual coach lighting	إنارة عامة مفردة داخل الحافلة
+individual contactor equipment; unit switch equipment	معدات ملامس مفردة
+individual control	نظام التحكم الفردي (نظام منع غلق العجلات (ABS))
+individual control ABS	التحكم المستقل لكل عجلة على حدة بنظام منع غلق العجلات (ABS)
+individual control level	مستوى تحكم فردى
+individual controls	أسطح تحكم مستقلة
+individual drive	نقل حركة فردى
+Individual Monitoring	رصد فردي
+individual motorized transport	وسائل النقل والمواصلات الفردية المُجهّزة بمُحرّكات (MIV)
+individual points control	تحكم مفرد في مجموعات التحويل
+individual reception (in sate llite broadcasting)	إستقبال فردي (للبثّ بالقمر الصناعي)
+individual reception (in satellite broadcasting)	استقبال فردي ( في البث الاذاعي بواسطة القمر الصناعي)
+individual risk	الخطر الفردى
+individual saw	منشار فردي
+individual switch operation	تشغيل مفتاح للتحكم المفرد
+individual transport	نقل فردي
+individual/ organism	كائن / فردي
+individually screened cable; radial field cable	كابل ذو مجال شعاعي؛ كابل ذو قلوب مغطاة بسواتر منفصلة
+indoor air contaminant	مُلوثات الهواء الداخلي
+indoor air handling unit	وحدة مناولة الهواء داخلية
+indoor air quality	جودة هواء الأماكن المغلقة
+indoor bushing	عازل نفاذ داخلى (عارضة داخلية)
+indoor clothing	ملابس بيتية
+indoor jacket	سترة داخلية
+indoor meter	غطاء طرفيات توصيل
+indoor packaged cooling unit	وحدة تبريد مُدمجة داخلية
+indoor packaged cooling; heating unit	وحدة تبريد, تدفئة مُدمجة داخلية
+indoor packaged heat pumps	مضخة حرارية مُدمجة داخلية
+indoor packaged unit	وحدة تكييف مُدمجة داخلية
+indoor post insulator	عازل دعامة داخل المبانى
+indoor substation	محطة محولات داخل مبنى
+indoor switchgear and controlgear	أجهزة تحكم وفصل وتوصيل داخلي
+indoor termination	نهاية للاستخدام داخل المبنى
+indoor, adj	داخلي
+indoor-immersed bushing	عازل نفاذ داخلي مغمور
+induced air flotation (IAF)	تعويم هوائيّ مُستحَثّ
+induced control voltage (of a Hall-effect device)	جهد تحكم حثى (لجهاز تأثير هول)
+induced draft cooling tower	برج تبريد بالسحب المستحث
+Induced draft fan	مروحة بالسَّحْب المُستَّحث
+induced drag	كبح حثِّي / مقاومة مستحثّة
+induced F.M.F	قوة محركة كهربية تحريضية
+induced flow	جريان حثِّي / دفق مستحث
+induced magnetic anisotropy	تباين خواص مغناطيسي مستحث
+induced pan	أفق مستحث
+induced radioactivity	نشاط إشعاعي مَحْثُوث / نشاط إشعاعي مستحثّ
+induced recharge	تغذية مستحثة
+induced sloughing	تنظيف حوض التنقيط (حوض إمْهُوف)
+induced traffic	حركة مرور مُستحثَّة، حركة مرور مُحرَّضة
+induced velocity	سرعة مستحثّة
+induced voltage; induced tension	جهد مستحث؛ جهد حثى
+inducer	أداة حاثَّة
+inductance	المُعامل الحثي / مُحاثة / محاثة / محاثّة / تحريضية / المحاثّة
+inductance factor	حساسية أولية
+inductance fed alternating current track circuit	دائرة مسار ذات تيار متردد حثى
+inducting (inducing) current	تَيَّار حَاثٌّ
+inducting coil	وَشِيعة تحريض، مِلَف حثّ
+induction	الحثّ / حَثٌّ / تحريض
+induction accelerator	معجِّل حثّ
+induction brazing	لحام نحاس بتيارات الحث الكهربائي
+induction channel furnace	فرن حثي ذو مجرى
+induction compass	بوصلة حثِّية
+induction coupling	تقارن حثي
+induction crucible furnace	فرن حثي ذو.بوتقة
+induction currents	تيارات حثٍّ
+induction effect	تاثير الحثّ
+induction electrical log	سجل تحريضي كهربائي
+induction field	مجال الحث
+induction frequency convertor	مغير تردد حثي
+induction furnace	فرن حثي / فرن تحريضي
+induction furnace with cold crucible	فرن حثي ذو البوتقة الباردة
+induction generator	حسّاس حثي / مولد حثي / مولد تحريضي / مولِّد حثّي
+induction hardening	تصليد حثى
+induction heater	سخان حثي
+induction heater guide	دليل السخان الحثي
+induction heating	تسخين حثي / تسخين حثِّي / تسخين(ال…) بالتحريض
+induction holding furnace	فرن حثي للمحافظة ( على درجة حرارة)
+induction instrument	جهاز قياس حديدى حركى / جهاز تحريضي
+induction lamp	مصباح حثى
+induction law/ Faraday's law of induction	قانون فاراداي للحثّ
+induction log; induction logging	تصويرمرسامي بالتحريض
+induction luminaire	جهاز إضاءة منجم حثى
+induction machine	آلة حثية
+induction manifold	مَشْعَب السحب
+induction melting	صهر حثي
+induction melting furnace	فرن صهر حثي
+induction meter	جهاز قياس حثي / عداد حثّي (تحريضي)
+induction motor	محرك تحريضي
+induction period	فترة الحث
+induction phase	طَوْر السحب
+induction plasma torch	مصباح بلازما الحث
+induction pouring furnace	فرن صب حثي
+induction soldering; induction brazing	لحام السبانك بالحث
+induction stirrer; arc furnace stirrer	أداة تحريك (لفرن قوسي)
+induction stroke	شَوْط السحب
+induction system	دورة السحب
+induction tube welding	لحام الأنابيب بالحث
+induction tunnel	نفق هوائي سحبي
+induction voltage regulator	منظم جهد تحريضي
+induction welding	لحام حثي
+induction-type pulse generator	حساس حثي
+inductive coupling	اقتران حثي؛ تقارن حثى / تقارن حثى / تقارن حثِّي
+inductive coupling factor; coupling factor	معامل تقارن حثى؛ معامل تقارن
+inductive current	تيار حثى
+inductive direct voltage regulation	تنظيم جهد مستمر حثي
+inductive leakage factor; leakage factor	معامل تسرب حثى؛ معامل تسرب
+inductive load	حمل حثي
+inductive plasma	بلازما الحث
+inductive power coupler	موصل قدرة حثي
+inductive pressure sensor	مُستشعر حثّي لقياس الضغط
+inductive pulse generator	مولد النبضات الحثّي
+inductive reactance	مفاعلة حثية / مُفاعَلة حثِّية
+inductive shunt	موازي حثى
+inductive susceptance	تأثرية حثية
+inductive train control system	نظام تحكم حَثِّي
+inductive travel sensor (IWG)	المستشعر الحثّي للحركة
+inductive two-terminal element	عنصر حثى ثنائى الطرف
+inductive, adj	حثّي
+inductively coupled plasma mass spectrometry (ICP-MS)	المطياف الكتلي البلازمي بالتقارن الحثي
+inductor	محرض / محث
+inductor frequency convertor	مغير تردد الحث
+inductor; reactor	ملف حثى / أداة حث / عضو حث (محث)
+indurated rock	صخر متصلِّب
+Industrial	صناعي
+industrial agriculture	مكوّن
+industrial air pollution	تلوث صناعي للهواء
+industrial and professional use	استخدام صناعي متخصص
+industrial and project consignments	مشاريغ الشحنات الصناعية
+industrial by-product	مُنتَج ثَانَوِيّ صِنَاعِي
+industrial city	مدينة صناعية
+industrial complex	مُجمَّع صناعي
+Industrial Consumer	مستهلك صناعي
+industrial customer	زبون من الصناعة
+industrial cutting of timber	تقطيع صناعي للخشب
+industrial data collection	تجميع البيانات التشغيلية
+industrial design	تصميم صناعي
+industrial ecology	علم البيئة الصناعية
+industrial effluent	مياه صرف تشغيلية / مخلفات صناعية سائلة
+industrial enterprise, water utilising	مشروع صناعيّ مُستخدم للمياه
+industrial establishment	منشأة صناعية
+industrial estates	مناطق صناعية
+industrial forester	مهني غابوي بالصناعة
+industrial gas	غاز صناعي
+industrial gas turbine	توربينة الغاز الصناعي
+industrial heating plants	محطة تسخين صناعية
+industrial horse hair	شعر حصان صناعي
+industrial location	موقع صناعي
+industrial locomotive	قاطرة صناعية
+industrial metabolism	أيض الصناعة
+industrial minerals	معادن صناعية
+industrial nutrients	مغذيات صناعية
+industrial parent track	طريق صناعي مباشر
+industrial plant	مُنشأة صناعية
+industrial power plant	محطة طاقة صناعية
+industrial process waste	نفايات عمليات التصنيع
+industrial products	منتجات صناعية
+industrial railway (1)	سكة مَعمَليَّة
+industrial railway (2)	سكة صِناعيَّة
+industrial robot	روبوت صناعي
+industrial roundwood removals	استخلاص الأخشاب المستديرة الصناعية
+industrial scheme	مشروع صناعي
+Industrial Sector	قطاع الصناعة
+industrial sludge	حمأة صناعية
+industrial tariff	تعرفة صناعية
+industrial waste	نفايات صناعية
+Industrial Waste Gas Purification	تنقية الهواء في الصناعة
+industrial waste gases	غازات صناعية مُتبدّدة
+industrial waste wood	نفايات الخشب الصناعية
+industrial wastes	فَضَلات صناعية
+industrial wastewater	مياه عادمة صناعية
+industrial wastewater pre-treatment plant	مَحطَّة المُعالَجة الأوّلية لمياه الصرف الصناعية
+industrial wastewater treatment	مُعالجة مياه صرف المُنشآت الصناعية / معـالجة ميــاه الصرف الصناعيّ
+industrial wastewater treatment plant, directly discharging	محطة مُعالجة مياه صرف صناعية ذات تصريف مباشر
+industrial water / process water	‌ماء يُستخدم في أغراض صناعية
+industrial water management	إدارة المياه الصناعية
+industrial water use	استخدام المياه للأغراض الصناعية
+industrial wood; industrial timber	خشب صناعي
+industrial yarn	خيط تريكو يُشغل على ماكينات
+industrial yarns	خيوط غزل للأغراض الصناعية
+industrial zone	منطقة صناعية
+industrial, commercial and service companies waste	نفايات المُنشآت الصناعية والتجارية، وقطاع تقديم الخدمات
+industrialisation	تصنيع
+industrialization	تصنيع
+industrialize	تصنيع
+industrialized buildings	مَبَانٍ مصنّعة
+Industry Association of chemical fibers	الاتحاد الصناعي للألياف الصناعية
+industry forecast	التنبؤ بحالة القِطاع
+industry of wood	صناعة الخشب
+industry, chemical	صِناعة كيميائية
+industry, meat processing	صناعات اللحوم
+inelastic behaviour	سلوك غير مَرِن
+inelastic collision	تصادم غير مرن
+inelastic demand	طلب غير مرن
+inelastic scattering	تشتت غير مرن
+inequality	تَبَايُن
+inert	خامل
+inert atmosphere; neutral atmosphere	جو خامل؛ غـلاف هامد
+inert gas	غاز خامل
+inert gas welding equipment	جهاز اللحام المحجب بغاز خامل
+inert material	مادة خاملة
+inert round	طَلقَة خاملة
+inert substances	مواد خاملة
+inertia	مُقاومة القصور الذاتي / القصور الذاتي / القُصور / عطالة / قصور ذاتى / عَطالة / قصور ذاتي
+inertia flywheel clutch	قابض نظام التشغيل بالحدّافة
+inertia flywheel system	نظام التشغيل الآلي بالحدّافة
+inertia force	قوة العَطالة
+inertia starter	مطلق قصوري / بادئ حركة عَطالي
+inertia storage vehicle by a flywheel	مركبة تعمل بالقصور الذاتى المخزن بعجلة توازن
+inertia welding	لحام بالقصور الذاتي / لِحام عطالي
+inertial anti-icer	مضاد للجليد عطالي
+inertial control	تحكم عطالي
+inertial coupling	تقارن عطالي
+inertial flight	طيران عطالي
+inertial force	قوة العطالة / قوة القصور الذاتي
+inertial frame	إطار القصور الذاتى
+inertial guidance	توجيه عطالي
+inertial gyro	جيروسكوب عطالي
+Inertial Measurement Unit	وحدة القياس بالقصور الذاتي
+inertial navigation system, INS	جهاز ملاحة عطالي
+inertial orbit	مدار عطالي
+inertial platform	منصة عطالية
+inertial separator	فارِز عطاليّ
+inertial sub-range	قصور المجال التحتي
+inexhaustible resources	مصادر لا تنفد
+inexperience	عدم الخبرة
+infallible component; infallible assembly of components	مكون ناجح؛ تجميع ناجح من المكونات
+infallible connections, pl	وصلات ناجحة
+infallible separation; infallible insulation	فاصل فعال؛ عزل فعال
+infant mortality rate	معدل وفيات الأطفال
+infauna	حيوانات الوسط الرسوبي
+infection	عدوى
+infectious diseases	أمراض معدية
+infectious waste	نفايات معدية
+inference	اِسْتِدْلال
+inference (RFI)	التداخُل (RFI)
+inference engine	ماكينة استدلال
+inferior knubbs	تجعدات
+inferior planet	كوكب سفلي
+infertile	مُجْدِب
+infertile land	أرض جدباء
+infertile soil	تربة جدباء
+infestation	اجتياح
+infestation (disease)	عَدْوَى بِالطُّفَيلِيَّات
+infill development	تنمية مساحات البناء الشاغرة
+infilling	تطوير المواقع الشاغرة
+infilling drilling	حَفْر تعبئة
+infilling well; intermediate well	بئر متوسطة
+infiltrate	اِرْتِشاح
+infiltrated air	هواء دخيل
+infiltration	تَسرَّب / رَشْح / تسرب / تغلغل مياه الصرف الصحي / تَسَرُّب / تخليل / تخلُّل / تيّار هوائيّ / ارتشاح
+infiltration (into the drain or sewer system)	تَسرُّب (إلى شبكة صرف)
+infiltration (into the ground)	تسرّب (إلى داخل التُربة)
+infiltration (water cycle)	تسرب (دورة الماء)
+infiltration basin	حَوْض ترشيح / حَوْض الرَشْح
+infiltration capacity	سَعَة الرشْح / القدرة على التسرب
+infiltration capacity curve	مُنحنى سَعة الرشح
+infiltration coefficient	معامِل الرشْح / معامل التسرب
+infiltration device	محطة الرَشْح
+infiltration gallery	رواق التسرب
+infiltration head	كمية حرجة للمياه الراشحة
+infiltration index	دليل التسرب
+infiltration of water	تسرُّب الماء
+infiltration rate	مُعدَّل الرشْح / معدل تسرب
+infiltration rate curve	مُنحنى مُعدَّل الرشْح
+infiltration rate, average	مُتوسِّط مُعدَّل الرشْح
+infiltration trench / swale	خَنْدَق صرف
+infiltration volume	حَجْم الرشح
+infiltration water	ماء الرشْح
+infiltration water discharge rate	مُعدَّل تصريف الماء الدخيل
+infiltrometer	مِقياس الرشْح
+infinite aspect ratio	نسبة باعية لانهائية
+infinite bus	مصدر لا متناهي
+inflammable	سريع الاشتعال
+inflammable materials	مواد قَابِلَةٌ لِلِاشْتِعَالِ
+inflammation	التهاب
+inflatable aircraft	طائرة قابلة للنفخ
+inflatable de-icer	مذيب جليد قابل للنفخ
+inflation	تضخم مالي / تضخم
+inflation manifold	مَشْعَب النفخ
+inflation sleeve	جُلبة النفخ
+inflection	انعطاف
+inflection, infleXion; rockover; tumble	انقلاب
+inflorescence	أزهار عنقودية
+inflow	جريان / دَفْق داخِل / دفق
+inflow pipe	أنبوب الدخول
+inflow ratio	نسبة الدفق الداخلي
+inflow region	مِنطَقة التدفق الداخل
+inflow, average; flow, average	متوسط الدفق الداخل
+influence coefficient	تغير ( بسبب كمية مؤثرة)
+influence line	خَطُّ تأثير / خط التأثير
+influence of geographic environment	تأثير البيئة الجغرافية
+Influence of technical systems	تأثير (ال...) على نظام تقنيّ
+influence quantity	الكمية المؤثرة / أداة تسجيل / كمية مؤثرة / كمية تأثير
+influenced voltage; influenced tension	جهد تاثيري؛ جهد متأثر
+influencing quantity,	الكمية المؤثرة (لأداة تعمل بالتيار المتبقي)
+influent	رافِد
+influent conduit; inlet channel; intake channel; inlet canal; parent canal	الترعة الأم
+influent seepage	تسرب نحو الداخل / تَسرُّب وارد للداخل
+influent stream	مجرى رافد
+influent water	مياه داخلة
+influent; inflow	دفق
+influx geometry; irradiation geometry; incidence geometry	هندسة التدفق الداخلى؛ هندسة سقوط الاشعاع
+informal	غير نظامي
+informal dress	ملابس غير رسمية
+informal sector	قطاع غير رسمي
+informatics	معلوماتية
+information	معلومات / إعلام (اقتصادي)
+information / instruction / notice	تَعْلِيمات
+information about connections	برنامج الربط
+information and awareness campaign	حملة إعلامية وتوعوية
+information and communication technologies (icts)	تقنيات المعلومات والاتصالات
+Information and Communication Technology (ICT)	تكنولوجيا المعلومات والاتصالات (ICT)
+information and education measures	تدابير إعلام وتربية
+information bit	وحدة معلوماتية
+information capacity (in telecontrol)	كفاءة ارسال المعلومات ( في التحكم عن بعد )
+Information carrier (center) for control	حاملة المعلومات في المُتحكِّمات
+information concerning planned measures	معلومات متعلقة بالتدابير المزمع اتخاذها
+information content	محتوى المعلومات
+information economy	اقتصاد المعلومات
+information elite	نُخبة مُطّلعة
+information layer	مستوي المعلومات
+information logistics	معلومات/ بيانات لوجستية
+information management system ims)	نظام إدارة المعلومات
+information on tariffs	معلومات عن التعريفة
+information parameter	مُتغيِّر المعلومات / بارامتر المعلومات / مقدار معلوماتى متغير القيمة
+information pits	حفر معلومات
+information processing	معالجة المعلومات
+information provider	مزود معلومات
+information pulses	نبضات معلومات
+information security	أمن المعلومات
+information separator	فاصل معلومات
+information system	نظام المعلومات
+information technology	تقنية المعلومات
+information technology equipment; ITE (abbreviation)	معدة تكنولوجيا المعلومات (جهاز معالجة المعلومات)
+information theory	نظرية المعلومات
+information tone	نغمة معلومات
+information transfer efficiency (in telecontrol)	معدل ارسال المعلومات ( في التحكم عن بعد )
+information transfer rate (in telecontrol)	احتمالية فقد المعلومات المتبقية ( في التحكم عن بعد )
+information,	معلومات,
+informatory sign	إِشَارَةٌ دالّةٌ
+Informel abstract print	رسومات مجردة
+INFORSE EUROPE	الشبكة الدولية للطاقة المستدامة في أوروبا (INFORSE EUROPE)
+infotainment system	نظام الترفيه والمعلومات
+infra-red	تحت الأحمر
+infra-red absorption	امتصاص ما تحت الأحمر
+infra-red absorption spectrum	طيف امتصاص تحت الأحمر
+infra-red heating	تنشيف بالأشعة تحت الحمراء
+infra-red lamps	مصابيح أشعة تحت الحمراء
+infra-red photography	تصوير بالأشعة تحت الحمراء
+infra-red radiation	إشعاع تحت الأحمر
+infra-red rays	أشعة تحت الحمراء
+infra-red rays, IR rays	أشعة تحت الحمراء
+infradyne receiver	مستقبل دون القوة
+infrared absorption coefficient; α-value	معامل امتصاص الأشعة تحت الحمراء
+infrared absorption sensor,	حساس امتصاص بالأشعة تحت الحمراء, الكشف عن الغاز
+infrared bright emitter	باعث ساطع للأشعة تحت الحمراء
+infrared cataract hazard; heat cataract hazard	الخطر الحرارى للأشعة تحت الحمراء على إعتام عدسة العين؛ الخطر الحرارى على اعتام عدسة العين
+infrared ceramic heater	سخان خزفي بالأشعة تحت الحمراء
+infrared dark emitter	باعث قاتم للأشعة تحت الحمراء
+infrared drying	تجفيف بالأشعة تحت الحمراء
+infrared emitter directing unit	وحدة توجيه باعث أشعة تحت الحمراء
+infrared emitter reflector	عاكس باعث الأشعة تحت الحمراء
+infrared furnace	فُرْن بالأشعة تحت حمراء / فرن الأشعة تحت الحمراء
+infrared heater	سخان الأشعة تحت الحمراء
+infrared heating	تسخين بالأشعة تحت الحمراء / تدفئة بالأشعة تحت الحمراء
+infrared heating element	عنصر تسخين بالأشعة تحت الحمراء
+infrared high temperature emitter	باعث أشعة تحت حمراء عالية الحرارة
+infrared installation	منشأة ذات أشعة تحت الحمراء
+infrared lamp	مصباح أشعة تحت حمراء
+infrared lamp radiator	مصباح مشع للأشعة تحت الحمراء
+infrared light [US]	مُشع أشعة تحت الحمراء
+infrared low temperature emitter	باعث أشعة تحت حمراء منخفضة الحرارة
+infrared medium temperature emitter	باعث أشعة تحت حمراء متوسطة الحرارة
+infrared plate emitter	باعث لوحي للأشعة تحت الحمراء
+infrared quartz emitter	باعث كوارتز للأشعة تحت الحمراء
+infrared radiation	أشعة تحت الحمراء
+infrared radiation; IR radiation; IRR	أشعة تحت حمراء
+infrared ray	أشعة (ال..) تحت الحمراء
+infrared remote control	وحدة التحكم عن بعد بالأشعة تحت الحمراء
+infrared space heating	تسخين الفراغ ( الفضاء)بالأشعة تحت الحمراء
+infrared spot emitter	باعث بقعي للأشعة تحت الحمراء
+infrared vacuum drying	تجفيف بالتفريغ بالأشعة تحت الحمراء
+infrared vacuum furnace	فرن التفريغ بالأشعة تحت الحمراء
+infrared-emitting diode	صمام ثنائى باعث لاشعة تحت حمراء
+infrared; IR (abbreviation)	تحت الحمراء
+infrasound	تحت الصوتي - ما دون الصوتي / دون السمع / دون الصوت
+infrastructure	البِنيَة التَحتِيَّة / خدمات (ال...) العامة / بنية تحتية / أساس
+infrastructure authority	هيئة الأساس
+infrastructure facility	تجهيز البنيات التحتية
+Infrastructure manger	مُدِيرُ البِنْيَةِ التَحْتِيَّةِ للخُطُوطِ الحَدِيدِيَّةِ
+infrastructure policy	سياسة البِنيَة التَحتِيَّة
+infrastructure project	مشروع بِنية أساسية
+infrastructure requirement; infrastructure demand	مُتطلبات البنيات التحتية
+Infrastructures Works	أَعْمالُ البِنْيَةِ التَحْتِيَّةِ
+infringement	مخالفة، خَرْق / مخالفة / انتهاك / خَرْق
+infusible	لا انصهاري
+infusoria	نُقَاعيات
+ingate	تسليم البضائغ عن طريق استخدام الشاحنة
+ingate load	تبادل التحميل
+ingeneosity	مهارة
+ingestion	ابتلاع
+ingot iron	حديد مصهور
+ingot solidification	تصلّب سبائكي
+ingredient	مُقوِّم
+ingress	وُلُوج
+ingress route	مسار الدخول
+inhabitant	ساكن
+inhabitant / resident	ساكِن
+inhabitant; resident	ساكِن
+inherent availability; intrinsic availability	الإتاحية الذاتىة
+inherent braking torque	عزم الفرملة الملازم؛ عزم الإيقاف المتأصل
+inherent colour	لون كامن؛ لون متأصل
+inherent delay angle	زاوية التأخير الملازمة
+inherent direct voltage regulation	تنظيم جهد مستمر ذاتى
+inherent distortion (of a transmission channel)	تشوة متأصل (في قناة الارسال)
+inherent filtration	ترشيح متأصل؛ ترشيح ذاتى
+inherent regulation (of a generator)	تنظيم متأصل لجهد المولد
+inherent regulation (of a motor)	تنظيم متأصل للمحرك
+inherent settlement	هبوط ذاتيّ
+inherent stability	استقرار متأصِّل
+inherent stability of a power system	الاستقرارية المتأصلة للنظام الكهربائي (الشبكة)؛ الاستقرارية المتأصلة الشبكة
+inherent structural frequency	تردد ذاتي لجسم السيارة
+Inherently low-emission vehicle	مركبة مُنخفضة الانبعاثات بشكل أساسيّ (ILEV)
+inherently safe optical radiation "op is"	إشعاع ضوئى آمن ذاتيا برمز "op is"
+inherently short-circuit and earth fault proof, adj	مقاوم ضد دائرة القصر والخطأ الأرضى, صفة
+inheritance	وراثة / توريث - وراثة
+inhibit wire	سِلْك المنع، سِلْك الحَصْر
+inhibitation; interception	مَنْع
+inhibitation; quenching	كَبْت
+inhibited insulating oil	زيت عازل مكبوح
+inhibiting pigment	صبغ مانع
+inhibition signal,	اشارة تثبيط, الكشف عن الغاز
+inhibitor	مانع / مانع للتآكل / مثبط / مَانِع، كابِح، كابِت
+inhibitor; suppressor	كابت
+inhomogeneous differential equation	معادلة تفاضلية لامُتجانسة
+inhomogeneous, adj; heterogeneous, adj	غير متجانس
+initial	أولي
+initial abstraction	سَحْب أوّليّ
+initial abstraction retention	حَجْز أوّليّ
+initial address message; IAM (abbreviation)	رسلة عنوان أولي
+initial altitude	ارتفاع البدء
+initial aperiodic component of short-circuit current	المركبة الأولية غير المتكررة لتيار قصر الدارة
+initial approach	اقتراب ابتدائي / اقتراب أولي
+initial approach area	منطقة بدء الاقتراب
+initial area	منطقة البدء
+initial average illuminance	متوسط الإستضاءة الإبتدائية
+initial average luminance	متوسط الإستضواء الإبتدائي
+initial boiling point	نقطة بدء الغليان
+initial calibration,	معايرة ابتدائية, الكشف عن الغاز
+initial charge	الشحن الابتدائي
+initial condition	ظروف ابتدائية
+initial conditions	شروط بدائية
+initial conversion	نسبة تحوّل أولي
+initial core	لُبٌّ ابتدائي
+initial detention	احتجاز أوّليّ
+initial development of a field	إنتاج أَوَّلِي لحقل
+Initial Field Clearance	تطهير ميداني مبدئي
+initial flood	فَيَضان ابتدائيّ
+initial flowing pressure	ضغْط التدفّق الأولي، ضغْط بدء التدفّق
+initial heading	اتجاه مبدئي
+Initial injection station	محطة حقن أوّلي
+initial inspection	فحص مبدئى
+initial ionizing event	حَدَث تأيّن أولي / حدث تأين ابتدائى
+initial letter	حرف ابتداء
+initial line	خط البداية
+initial magnetization curve	منحني المغنطة الأولى
+initial mass	كتلة مبدئية
+initial moisture	رطوبة أولية
+initial of cambium	بداءة الكمبيوم
+initial of protophloem	بداءة خلايا اللحاء الأول
+Initial Oil Saturation	درجة التشبع بالزيت في الأصل / تشبع (ال...) الأولي بالنفط
+initial operational capability	قابلية التشغيل الأولي
+initial periodic short-circuit current	تيار قصرالدارة الأولي المتكرر
+initial permeability	نفاذية أولية / نفاذية السعة الفعالة (لجذر متوسط المربعات)
+initial phase; phase angle	طور ابتدائى؛ زاوية الطور / طور ابتدائى
+initial point	نقطة البداية / نقطة البدء
+initial prestress	سَبْق الإجهاد الابتدائيّ
+Initial Production (IP)	إنتاج مبدئي
+initial production, (I.P)	إنتاج ابتدائي
+initial quantity, output quantity	مقدار الخرج
+initial radiation	إشعاع ابتدائي
+initial resistance of the human body	معاوقة أولية لجسم الإنسان
+initial row	صَفٌّ مبدئي
+initial set	تماسك أولي، شَكّ أولي (للإسمنت)
+initial setting time	زمن الشك الابتدائيّ
+initial signal unit; ISU (abbreviation)	وحدة إشارة أولية
+initial speed	سرعة أولية
+initial starting current	تيار بدء التشغيل
+initial steam conditions	حالات بُخار الماء الأوّلية
+initial step	مرحلة أولية
+initial surface	سطح ابتدائي / سطح البدء
+initial surface/throat area	نسبة مساحة العنق إلى سطح البدء
+initial susceptibility	نفاذية ظاهرية
+initial symmetrical short-circuit power	قدرة التيار المتردد البدئي لدائرة القصر
+initial throat area	مساحة العنق الابتدائي
+initial type testing (ITT)	اختبار النُموذَج الأوليّ
+initial value	قيمة مبدئية / القيمة الإبتدائية
+initial value problem	مسألة القيمة الابتدائية
+initial voltage	فولطية أولية
+initial well potential	كُمُون البئر الابتدائية
+initial well potentiel test	اختبار انتاجية البئر الابتدائية
+initiall development (of a field)	استغلال بدئي (لحقل)
+initiation	تعلُّم (أولي) / بدء / بداية
+initiation / priming	تحكُّم
+initiation phase	طَوْر البدء
+initiative	مُبَادَرة / مُبادرة
+Initiative for Natural Gas-Based Mobility	مُبادرة 'حركية الغاز الطبيعي'
+initiative of energy storage funding	مبادرة تمويل تخزين الطاقة
+initiator	بادئ
+inject deep injection	حقن بالضغط
+injected	مَحْقُون
+injected fuel quantity	كمية الحقن
+injected gas	غاز محقون
+injected-beam magnetron; voltage-tunable magnetron	ماغنترون مقحون بشحنة
+injection	حَقْن / حقن
+Injection auger	برّيمة حقن
+injection cam	كامة الحقن
+injection carburettor	مُفَحِّم حقْن
+injection contact	حقن تلامسيّ
+injection flow	جريان الحقن
+injection joint	وصلة حقن
+injection laser diode; ILD (abbreviation); semiconductor laser; diode laser	صمام ليزري ليزر شبه موصل ليزر صمام ثنائي
+injection lines	أنابيب الحَقْن
+injection locked laser	ليزر محكم الحقن؛ ليزر مقفل بالحقن
+injection moulding	تشكيل القالب بالحقن / قَوْلَبة بالحقن
+injection nozzle (diesel engine)	حاقن (محرك ديزل)
+injection on the flanks	حَقْن في الجوانب
+injection phases piezo-injection valves	مراحل الحقن- صمامات الحقن الضغطية
+injection point	نقطة الإدخال
+injection pressure	ضغط الحقن / ضغط الحقْن
+injection pump	مضخة حقْن / مضخة حقن
+injection pump test bench	منصة فحص مضخات الحقن
+injection rate; injection capacity	قُدرة تخزينية
+injection ratio	نسبة الحقن
+injection signal	إشارة الحقن
+injection timer	ضابط الحقن
+injection type petrol engine [UK] / injection type gasoline engine [US]	محرك أوتّو عامل بالحقن
+injection valve (common rail)	منظومة حقن (المساق المشترك)
+injection valve (petrol engine) [UK] / injection valve (gasoline engine) [US]	صمامات الحقن (محرك بنزين)
+injection velocity	سرعة الإدخال
+injection well	بئر الحقن / بئر حقن / بئر حَقْن / بئر رشح
+injection, deep-well	حقن في بئر عَمِيق
+injection; insert; telescoping; walking in/out	إدخال
+injectivity	قابلية الحقن
+injector	حاقن بُخَاري / حاقن / مِحْقَن / مِحْقَن، مِحْقَنة
+injector needle	إبرة الحاقن
+injector needle damping	مخمد إبرة المنفث
+injector spring (pump-injector unit)	ياي الحاقن (وحدة المضخة)
+injector tester	جهاز فحص الحواقن
+injector volume adjustment	خاصية تسوية الكميات في الحاقن
+injury potential	جهد الإصابة
+ink	حبر
+ink agitator (=ink mixing machine)	مزّاجة الحبر
+ink compound	معدّل الحبر
+ink coverage	معدل استهلاك الحبر
+ink feed	جرعة الحبر
+ink feed roller/cylinder	أسطوانة التغذية بالحبر (اللقاط)
+ink film	طبقة الحبر
+ink misting	تضبب الحبر
+ink receptive surface	سطح تسلم الحبر
+ink receptivity	تقبلية(ال...) للحبر
+ink splitting	تشقق طبقة الحبر
+ink table	صينية التحبير
+ink transfer	نقل الحبر
+ink-in-water emulsion	مستحلب الحبر في الماء
+ink-receptive	متقبّل الحبر
+inking	تحبير
+inking control light	مصباح مراقبة التحبير
+inkmill	مسحقة الحبر
+inkometer	مقياس خصائص الحبر
+inlaid	مُلَبّس
+inlaid leather	تجليد فيسفسائي
+inlaid parquet	أرضية خشبية مطعّمة
+inlaid work marquetry	تلبيس خشبي
+inland	داخلي
+inland area	منطقة داخلية
+inland basin	حوض داخلي
+inland canal	قناة داخلية
+inland carrier	ناقل داخلي
+inland drainage	تصريف داخلي
+inland fresh water wetlands	أراضي مستنقعات المياه العذبة داخل البلاد
+inland lake	بُحَيْرة داخلية / بحيرة داخلية (قارية)
+inland navigation company	شركة الملاحة الداخلية
+inland rail clearance depot	محطة جمركية داخلية
+inland sea	بحر داخلي(أو قاري)
+inland transport	نَقْل داخلي
+inland water transport	نَقْل مائي داخلي
+Inland waters	مياه داخلية
+inland waterway	مجرى مائي داخلي، طريق نهري / طريق ملاحي داخلي( نهري)
+inland waterway transport	النَّقل المائي الداخلي
+inlet	مُدخَل / مدخل / مَنْفَذ
+inlet air damper control	تحكم في الهواء الداخل بمخمد
+inlet area	نطاق دخول الماء
+inlet cap	سدادة المدخل
+inlet chamber	حُجْرة الدخول
+inlet control	حاكِم المدخل
+inlet control; inlet structure	مُنْشأة الدخول
+inlet controlled cooling system	نظام تبريد محكوم المدخل
+inlet distortion	انحراف المدخل
+inlet duct; intake duct	مجرى المدخل
+inlet guide vane	أرياش توجيه المدخل
+inlet manifold	مشعب المدخل
+inlet mouth	فوهة دخول
+inlet pipe	أنبوب المدخل / مَجْرَى وصول، أنبوب تغذية
+inlet port	فتحة الدخول
+inlet pressure	ضَغْط الإمداد
+inlet screen	مصفاة المدخل
+inlet separator	فاصل المدخل
+inlet unstart	عدم عمل المدخل
+inlet valve	صمام سحب / صِمام دخول / صِمام المدخل
+inlet wing wall / upstream wing wall	جَناح المدخل
+inlier	صخْر حبيس
+inline engine	محرك مستقيم
+inline tube valves	صِمامات أُنْبوبية وَسَطية
+inline valve; one-line valve	صِمَام في الخَطّ / صِمَام تنظيم الخَط
+innage gauge	قياس ارتفاع السائل في خزان (انطلاقا من القعر)
+innate	فِطري / متماثل في المنشأ، متزامن مع التكوين
+inner (error code) check data	بيانات فحص (شفرة الخطأ) الداخي
+inner (error correction) code; inner ECC	شفرة (تصحيح الخطأ) داخلية
+inner code block	مجموعة شفرة داخلية
+inner core	لُبّ داخلي
+inner core barrel	أنبوب (ال...) الداخلي لجهاز الاعتيان
+inner covering	غطاء داخلى
+inner diameter of the recorded surface	قطر داخلي للسطحِ المسجّلِ
+inner embankment	سد داخليّ
+inner horizontal surface	سطح أفقي داخلي
+inner inductor	محث (عضو حث) داخلي
+inner loop	حلقة داخلية / عروة داخلية، عكفة داخلية
+inner margin	هامش داخلي
+inner marker	دليل داخلي
+inner planet	كوكب داخلي
+inner planets	كواكب داخلية
+inner product	الضرب الداخلى
+inner quantum number	عدد كَمِّي داخلي
+inner sheath; inner jacket (North America)	جاكيت داخلى (أمريكا الشمالية )؛ غلاف داخلى
+inner shoe	حذاء داخلي
+inner side	وجه داخليّ (للسدّ)
+inner slope	انحدار داخلي (للسد)
+inner space	فضاء داخلي
+inner work	شُغل داخلي
+innovation	ابتكار
+innovator's royalty; fixer's royalty	حِصَّة المخترِع، جعالة المبتكِر
+inoculation	تلقيح
+inoperative	غير شغَّال / غير عامل
+inorganic	لاعُضْويّ / لا عضوي / غير عضوي
+inorganic acidity	حُموضة غير عُضوية
+inorganic carbon	كربون غيرعضويّ
+inorganic clutch lining	بطانة غير عضوية للقابض
+inorganic compound	مركبات غيرعضوية
+inorganic matter	مادة غير عضوية
+inorganic pigment	خضاب لا عضوي
+inorganic polluants (pollutants)	مُلوِّثات غير عضوية
+inorganic soil	تربة غير عضوية
+inosilicates	إنوسيليكات
+Inoxor®	إنوكسور ®
+inplant, in-plant	داخل المصنع
+Input	مُدْخَلَات / دَخْل / مدخلات
+Input / Output	المُدْخَلاتُ والمُخْرَجاتُ
+input admittance	سماحية دخل / سماحية الدخل
+input and output circuits with isolated common point	دارة خرج معزولة كلياً
+input aXis	محور الدخل
+input backoff	تراجعُ المدخل
+input capacitance,	السعة الداخلة
+input circuit (for elementary relays)	دارة الدخل (للمرحلات البسيطة )
+input circuit connection (ABS)	دائرة دخل (نظام منع غلق العجلات (ABS))
+input circuit,	دائرة دخل, لمُرَحِّل قياس او نظام وقاية
+input data (pl.)	بيانات داخلة
+input device, ; input unit,	وحدة إدخال,
+input element	عُنصر دخل
+input energizing quantity; DEPRECATED: characteristic energizing quantity	كميات مفعِّلة داخلة
+input immittance; driving-point immittance	قبولية معاوقة دخل
+input impedance	معاوقة دخل / دارات دخل وخرج بنقطة معزولة مشتركة / ممانعة ( معاوقة)الدخل / المعاوقة الداخلة
+input level	مستوى الداخل
+input matrix	مصفوفة دخل
+input module	وحدة دخل
+input port	منفذ دخل
+input power	قدرة دخل / قدرة مُدخلة
+input power (of a machine)	قدرة الدخل (لآلة)
+input power control	تحكم في قدرة الدخل
+Input power profile	تغير زمني لقدرة مدخلة
+input quantity	مقدار الدخل
+input resistance	مُقاومة دخل
+input signal (of a transmission system); transmitted source signal	إشارة الدخل (لنظام ارسال)
+input signal,	إشارة دخل, لمُرَحِّل قياس او نظام وقاية
+input span	مدى متغيِّر الدخل
+input terminal	طرف دخل
+input time constant	ثابت زمن الدخل
+input transfer rate	معدل تحويل الدخل
+input variable	متغير الدخل
+input vector	مُتجه الدخل
+input voltage	جهد الدخل / جهد مُدخل
+input well	بِئْر حَقْن
+input,	دخل,
+input, adj	دخل (صفة)
+input-output channel	قناة دخول وخروج البيانات؛ مسار دخول وخروج البيانات
+Input/Output	دخل وخرج شبكة المجال العملياتي'Profinet IO'
+input/output (I/O)	وحدات الإدخال/الإخراج (I/O)
+input/output of data	إدخال / إخراج بيانات
+inrush current	التيار المتدفق
+INS	جهاز ملاحة عَطالي
+insect pollination	تلقيح حشري
+insecticide	مبيد حشرات / مبيد الحشرات
+insectivorous plants	نباتات آكلة الحشرات
+insects	حشرات
+insert	تبطين
+insert / yoke	تبطين، طوق
+insert bit	لقمة
+insert earphone	سماعة أدن ملحقة
+insert pump anchor	مِرْساة الخط الثابت
+inserted message	رسالة مدخلة
+inserted pattern	طبعة مركبة
+inserting wefts	تراكب خيوط اللحمة
+insertion attenuation	توهين الإدخال
+insertion attenuation,	التوهين الناشئ عن إدخال / توهين الإدخال
+insertion gain	كسب الإدخال
+insertion gain (of a two-port device)	كسب الإدخال
+insertion joint	وُصْلة تراكبية، وُصْلة ذات طوق مسيك
+insertion loss	فقد الإدخال
+insertion loss (of a two-port device)	فقد الإدخال
+insertion loss (of an optical component)	فقد الإدخال
+insertion of additional locomotive in train	إضافة قاطرة
+insertion parameter filter	مرشح ثابت الادخال
+insertion phase change	تغير طور الإدخال
+insertion signal	إشارة إدخالِ
+insertion transfer function	دالة إنتقال الإدخال
+inset	نافذة صغيرة ضمن الصورة
+inset balance	اتزان مُبيَّت
+inset hinge	مفصل مبيَّت
+inset light	ضوء مبيَّت
+inside bevel gouge	منظفار بحد داخلي مائل
+inside diameter,(I.D.)	قُطْر داخلي
+inside lap; exhaust lap	تراكُب داخلي
+inside pipe diameter	قطر داخلي للأنبوب
+inside screw rising stem	عمود صاعد بلولب داخلي
+inside width of frame	العرض الداخلي للإطار
+inside wing	جناح داخلي
+insitu concrete	خرسانة مصبوبة في الموقع
+insolation	تَشَمُّس / إشعاع الشمس / تشميس
+insolation weathering	تجوية تشميسية
+insoluble	غير قابل للذوبان / غير ذَوّاب / غير ذوّاب
+inspect (to) / supervise (to)	راقَبَ
+inspectability	تفتيشية / قابلية التفتيش
+inspection	الفحص / فحص / تفتيش
+inspection / survey	تَفْتِيش
+inspection access opening	فُتحة تفتيش
+inspection and repair as necessary	تفتيش وإصلاح حسب الضرورة
+inspection body (for certification)	هيئة فحص (لمنح شهادة الاعتماد )
+inspection by variables	تفتيش بالمتغيرات
+inspection chamber	فُتحة تفتيش / حُجَيرَة تَفتِيش
+inspection chamber, non-man-accessible	بئر تفتيش لا يمكن دخولها
+inspection chamber; inspection pit	غرفة تفتيش
+inspection gallery	دهليز تفتيش
+inspection hole	فتحة التفتيش
+inspection interval	الفحص الدوري
+inspection notebook	دفتر أعمال الفحص والخدمة
+inspection plan	خطة الفحص
+inspection platform	مِنَصَّة تَفتِيش
+inspection shaft	مَنْفَذ تفتيش
+inspection shaft / inspection chamber / inspection gallery	حُفرة تفتيش
+inspection shaft / inspection gallery	دهليز تفتيش
+inspection,	فحص, فى الأجواء المتفجرة
+inspection, continuing; routine inspection	مُراقَبة مُستمرة
+inspection, continuous	مُراقبة دائِمة
+inspection; survey	معاينة
+inspin yaw	انعراج تدويمي
+instability	عدم استقرار / لا استقرار
+instability (of permeability)	لزوجة مغناطيسية
+instability factor (of permeability)	عدم استقرار (النفاذية)
+instability in Bode diagram	عدم استقرار في مُخطط بود
+instability of closed-loop control system	عدم استقرار دائرة الضبط المُغلقة
+instable / unstable	غير مُستقر
+installation	تركيب / تجهيزة
+installation (laying of pipes)	مَدُّ (الأنابيب)
+installation azimuth,	زاوية السمت,
+installation diagram	مُخطَّط التوصيلات والتركيبات / مُخطَّط التركيب والتوصيل / مخطط التركيب
+installation flux density,	كثافة تدفق تجهيزه, ؛ كثافة تدفق تركيبة
+installation lines	خطوط التركيب
+installation operator	مشغل المرفق
+Installation process	عملية تركيب
+installation wiring impedance	معاوقة أسلاك التركيب
+installation, biological filter	جهاز ترشيح بيولوجي
+installation, electrical	تركيب كهربائيّ أساسيّ
+installation, monitoring; surveillance facility	وَسِيلة المراقبة
+installation, pumping / station, pumping	مَحطّة ضخّ
+installation, scraper floating sludge	تجهيزة كَشْط الحمأة الطافية
+installation, sludge circulation	تجهيزة تدوير الحمأة
+installation, sludge separator for biological filter systems	مُنشأة فصْل الحمأة في محطة مرشح النض
+installation/system, central control	نِظام تَحكُّم مركزيّ
+installed capacity	قُدرَة مركَّبة
+installed lamp flux density,	كثافة تدفق لوحدات الإضاءة فى منشأة,
+installed load	حمل مركب
+installing; fitting	تركيب
+instant	لحظة
+instant centre and roll axis[UK]/ instant center and roll axis[US]	مركز لحظي ومحور ترجح
+instant message; IM (abbreviation)	إختصار (IM)؛ رسالة فورية
+instant messaging	مراسلة فورية
+instant start system (ISS)	نظام بدء الدوران الفوري (ISS)
+instantaneous absorbed power	قدرة ممتصة لحظيا
+instantaneous acoustic pressure	الضغط الصوتي اللحظي
+instantaneous availability	الإتاحية اللحظية
+instantaneous availability; point availability	الإتاحية اللحظية
+instantaneous complex value; rotating phasor; complex representation,	قيمة لحظية مركبة؛ الطور الدوار؛ التمثيل المركب للقيمة الجيبية
+instantaneous contactor relay	متمم تلامس لحظى
+instantaneous failure intensity; failure intensity	شدة الانهيار اللحظى؛ شدة الانهيار
+instantaneous failure rate; failure rate	معدّل الانهيار اللحظى؛ معدل الانهيار
+instantaneous frequency (of a signal)	تردد لحظي (لاشارة)
+instantaneous intensity	شدة الكثافة اللحظية
+instantaneous kinetic sound energy density	كثافة طاقة صوت حركية لحظية
+instantaneous operating point	نقطة التشغيل اللحظية
+instantaneous output	المخرج اللحظي
+instantaneous particle acceleration	تعجيل جسيم لحظي أو تسارع الجسيم اللحظية
+instantaneous particle displacement	إزاحة جسيم لحظية / الإزاحة اللحظية للجزيء
+instantaneous particle velocity	سرعة جسيم لحظية / السرعة اللحظية للجزيء
+instantaneous peak power (in a transmission line)	قدرة ذروة لحظية (في خط نقل)
+instantaneous potential sound energy density	كثافة طاقة صوت كامنة لحظية
+instantaneous power	القدرة اللحظية
+instantaneous power (n-terminal circuit)	قدرة لحظية (لدارة متعددة الأطراف)
+instantaneous power,	قدرة لحظية (لعنصر متعدد الأطوار) / قدرة لحظية (لخط متعدد الأطوار)
+instantaneous protection	الحماية اللحظية
+instantaneous readout	مُقرِئة فورية
+instantaneous release	إعتاق لحظى
+instantaneous repair rate; repair rate	معدل الإصلاح اللحظى؛ معدل الإصلاح
+instantaneous sound pressure	ضغط صوتي لحظي
+instantaneous speech power	قدرة الحديث اللحظية
+instantaneous storage water heater	سخّان مياه فوري
+instantaneous supplied power	قدرة موردة لحظيا
+instantaneous tripping current	تيار الإعتاق اللحظي (لقاطع دارة)
+instantaneous unavailability	اللا إتاحية اللحظية
+instantaneous unit hydrograph	رسم الوحدات الآني
+instantaneous value	القيمة اللحظية / قيمة لحظية / قيمة آنية
+instantaneous vertical speed indicator	مبيِّن فوري للسرعة الرأسية
+instantaneous, adj	لحظى
+Institute of Electrical and Electronics Engineers	معيار جمعية مُهندسي الكهرباء والإلكترونيات (IEEE) رقم 1188
+institute of international law	معهد القانون الدولي
+institute of petroleum (british)	معهد النفط (البريطاني)
+Institute of textile and process engineering (formerly ITR)	معهد الغزل والنسيج
+institution	مَعهَد
+institution / organisation (association)	مُؤسَّسَة
+institution / organisation (association) / organisation (arrangement) / set-up	مُنظَّمة
+institutional analysis	تحليل مؤسساتي
+institutional aspects	جوانب مؤسساتية
+Institutional Control	رقابة مؤسسية
+institutional failure	فشل مؤسساتي
+institutional investor	مستثمر مؤسساتي
+institutional measure	إجراء مؤسساتي، تدبير مؤسساتي
+institutional mechanism	الآلية المؤسسية
+institutional strengthening	تعزيز مؤسساتي
+institutional sustainability	استدامة مؤسسية
+institutional waste	نفايات مؤسسية
+institutions	مؤسسات
+instream use	استخدام داخل المجرى
+instructed person	شخص موجه
+instructed person,	شخص تحت التوجيه,
+instructed person, ; trained person, US	شخص مُوجه؛ شخص مُدرب
+instructed person; electrically instructed person	شخص تحت التوجيه
+instruction	تعليمة
+instruction / directive	إرشاد
+instruction command; standard command	أمر بث
+instruction control unit	وحدة التحكم في التعليمات
+instruction list	قائمة تعليمات (البرمجة)
+instruction list (IL)	قائمة تعليمات (البرمجة)
+instruction manual	كتيّب تعليمات التشغيل
+instruction to proceed	أمْر بالمباشرة
+instruction, ; DEPRECATED: statement	تعليمات,
+instructions	تعليمات / تَعْلِيماتٌ
+instructions for the dispatch of goods (IDG)	تصريح بإرسال البضائع
+instrument	جهاز / أداة، جِهاز / أداة سياسية
+instrument / measurement equipment / measuring instrument / meter	جِهاز قياس
+instrument air dryer	مُجفِّف هواء الأجهزة
+instrument air dryer knock-out pot	بوتقة فصل السائل عن هواء الأجهزة
+instrument air receiver	وعاء استقبال هواء الأجهزة
+instrument approach area	منطقة الاقتراب بالأجهزة
+instrument approach runway	مَدرج الاقتراب بالأجهزة
+instrument autotransformer	محول قياس
+instrument circuit	دائرة أجهزة القياس
+instrument cluster	مجموعة أجهزة القياس والبيان
+instrument error	خطأ الجهاز
+instrument flight	طيران آلي / طيران بالأجهزة
+instrument flight rules	قواعد الطيران بالآليات / قواعد الطيران بالأجهزة
+instrument landing	حط آلي / حط بالأجهزة
+instrument landing system	نظام الهبوط بالآليات
+instrument landing system; ILS (abbreviation)	نظام الهبوط بالأجهزة
+instrument lead	وصلة جهاز قياس
+instrument meteorological conditions	حالات الجو للإرشاد بالأجهزة
+instrument monitor	مراقبة الأجهزة
+instrument panel application	لوحة التوصيلات
+instrument rating	تقدير آلي
+instrument runway	مَدرج بأجهزة
+instrument security factor (FS)	تيار ابتدائي اسمي حدي (لأجهزة القياس)
+instrument spread	أسلاك توصيل الأجهزة
+instrument transformer	مقاومة ربط التيار / محول قياس
+instrument with contacts	جهاز قياس مُلامس / جهاز قياس بأداة قـَفل
+instrument with locking device	جهاز قياس لا إتجاهي
+instrument with optical index	جهاز قياس بمؤشر
+instrument with suppressed zero	جهاز قياس بصفر مكبوت / جهاز قياس ذو فعل غير مباشر
+instrument, economic	جهاز اقتصادي
+instrumental drift	حَيْد بسبب الأداة، انزياح بسبب الآلة
+instrumentation	استخدام الآلات، أجهزة، آلات
+instrumentation for fail safe operation	أجهزة وقف العمل تلقائيا عند الخطر
+instrumentation hook-ups	تركيب الآلات، تركيب الأجهزة
+instrumentational drift	انحراف في قياس الجهاز، حَيْد الآلات
+instruments	أجهزة البيان / أدوات تنفيذية
+instrusive magma	صهارة مُقْحمَة، مُهْل مُقْحَم
+insufficient production	قلة الإنتاج
+insulant	مادة عازلة
+insular	جَزِيري
+insular climate	مُناخ جَزِيرِي
+insulate, verb	يعزل
+insulated	معزول
+insulated bearing housing	حاضنة كرسي تحميل معزول؛ حاضنة محمل معزول
+insulated bearing pedestal	قاعدة كرسي تحميل معزولة؛ قاعدة محمل معزولة
+insulated block joint (IBJ); insulated rail joint (IRJ)	وصلة تجميع معزولة
+insulated boxcar	شاحنة صندوقية معزولة
+insulated cable	كابل معزول / كَبْل معزول
+insulated conductor	ناقل معزول، مُوصِّل معزول
+insulated container	حاوية معزولة
+insulated gate bipolar transistor	ترانزستور ثُنائي القطب ببوابة معزولة / ترانزستور IGBT / ترانزستور معزول البوابة ثنائي القطب (IGBT)
+insulated glazing	تزجيج عازل
+insulated hand tool	أداة يدوية معزولة
+insulated joint	وصلة عزل للسكة الحديدية
+insulated overlap	نهايات متراكبة معزولة
+insulated phenomenon	ظاهرة معزولة
+insulated rail	سِكَّة معزولة / سكة حديد معزولة
+insulated rail joint	وصلة قضيب معزولة
+insulated return system	مسار الرجوع المعزول
+insulated section of track	قسم مسار معزول / قطاع معزول من المسار
+insulated shield cable system	نظام كابل ذي درع معزول
+insulated tool	أداة معزولة
+insulated track circuit for one rail	مسار سِكَكِي معزول أحادي القضيب
+insulated wagon	عَرَبَة معزولة
+insulated-gate field-effect transistor	ترانزستور(محكوم بالمجال الكهربائي) ذو بوابات معزولة كهربياً
+insulating (fire) brick	آجرة عازلة
+insulating aerial device	جهاز هوائي معزول
+insulating assembly	تجميعة عازلة
+insulating blanket	غطاء عازل
+insulating board	لوح عازل
+insulating clothing	رداء عازل
+insulating coating	طلية عازلة، طبقة عازلة
+insulating components	مكونات عازلة
+insulating concrete	خرسانة عازلة
+insulating conduit	ماسورة عازلة
+insulating conduit fitting	تجهيزات عازلة لربط المواسير
+insulating ferrule	حلقة عزل
+insulating filling material	مادة ملء عازلة، مادة ردْم عازلة
+insulating fishplate	وصلة عزل
+insulating fluid	مائع عازل
+insulating fluid,	مائع عازل؛ سائل عازل
+insulating footwear	حذاء حماية عازل
+insulating gas	غاز عازل
+insulating gin	بكارة يدوية عازلة
+insulating glazing	تزجيج معزول
+insulating glove working	العمل بقفاز عازل
+insulating hand tool	أداة يدوية عازلة
+insulating hose with fittings	خرطوم عازل بتجهيزاته
+insulating joint	وصلة عازلة
+insulating ladder	سلم عازل
+insulating liquid	سائل عازل
+insulating material	مادة عازلة
+insulating material; insulant	مادة عازلة
+insulating materials	مواد عازلة
+insulating medium; insulant	وسط عازل
+insulating oil	زيت عازل
+insulating overshoe	غطاء حذاء عازل كهربائيا
+insulating plywood	خشب معاكس عازل
+insulating rod	قضيب عازل
+insulating rope	حبل عازل
+insulating screen	حاجز عازل
+insulating side-plate	لوح عازل جانبي
+insulating stick	عصا عازلة
+insulating tool	أداة عازلة
+insulating tube	إنبوبة عازلة
+insulating washer	حَلْقة عازلة، فلكة عازلة
+insulating, adj	معزول, كهرباء ساكنة
+insulation	عزل / مادة عازلة / عَزْل
+insulation (1)	عزل (1)
+insulation (2)	عزل (2)
+insulation (of a cable)	عزل ( لكابل )
+insulation capacity	عازلية
+insulation co-ordination	تنسيق العزل
+insulation effect	خاصية العزل
+insulation fault	عطل عزل
+insulation fault detecting instrument	مكشاف إنهيار العزل
+insulation fault location	موقع عطل عزل
+insulation filler	مادة حشو عازلة
+insulation level	مستوى العزل
+insulation marker	علامة العزل
+insulation noise	عازل الصوت
+insulation piercing connecting device; IPCD (abbreviation)	أداة توصيل ثاقبة للعزل
+insulation piercing connection	وصلة أختراق العزل
+insulation piercing connector	رابط أختراق العزل
+insulation resistance	مقاومة عزلِ / مقاومة العزل / مقاومة العزلِ
+insulation resistance measuring device	جهاز قياس مُقاومة العزل
+insulation resistance meter	مقياس مقاومة العزل
+insulation resistance test	اختبار مقاومة العزل
+insulation screen; core screen	ستارة قلب؛ ستارة عزل
+insulation test voltage	جهد عزل مقنن
+insulation,	عزل المعدة,
+insulation-enclosed switchgear and controlgear	معدات وصل وفصل وتحكم فى حاوية معزولة
+insulation; lagging	عَزْل
+insulator	عازل (كهربائيّ أو حراريّ) / عازل / عــازل
+insulator hood	غطاء عازل، ناقوس عازل
+insulator protective fitting	قرون حماية للعازل
+insulator set	مجموعة العازل / مجموعة عازلات
+insulator string	سلسلة عازل
+insulator trunk	جذع العازل
+insurance	تأمين
+insurance broker	وكيل تأمين، وسيط تأمين
+intact	مَصُون
+intaglio etching	حفر غائر
+intaglio offset	طباعة أوفست غائرة
+intaglio printing	طباعة غائرة
+intake	مأخذ / مَأخذ / تناول / امتصاص؛ أخذ - إستنشاق
+intake air	هواء (ال...) الداخل
+intake air heating	تسخين تحضيري للهواء المسحوب
+intake air temperature (IAT)	درجة حرارة تدفق الهواء (IAT)
+intake air temperature sensor (MAT)	مستشعر درجة حرارة هواء السحب (MAT)
+intake area	منطقة تغذية
+intake area (of an aquifer)	مِنطَقة التغذية (لطبقة حاملة للمياه)
+intake basin	حَوْض الدخول
+intake bulkhead gate	بَوابة مَأْخَذ ضَخْمة
+intake duct	مجرى السحب
+intake floor	أرضية المَأْخَذ
+intake manifold	ماسورة السحب / مُجمّع السحب
+intake manifold fuel injection	حقن في ماسورة السحب
+intake manifold heating	تسخين ماسورة السحب
+intake manifold pressure sensor	حسّاس ضغط ماسورة السحب
+intake mouth (pump)	مَاصٌّ (مِضخّة)
+intake plenum	جهاز قبول، حجرة دخول
+intake port	فتحة الدخول / فتحة المأخذ
+intake ports	فَتحة المأخذ
+intake stroke	شوط الدخول / شوط السحب
+intake structure	مَأْخَذ / مُنشَأَة المأخذ
+intake system icing	تجلد نظام السحب
+intake tower	بُرْج المأْخَذ
+intake tower, dry	بُرْج مَأْخَذ جافّ
+intake tower, wet	بُرْج مَأْخَذ مُبتَلّ
+intake valve	صمام الدخول، صمام الإدخال
+intake, floating	مَأْخَذٌ طافٍ
+intake, movable	مَأْخَذٌ نَقَّال
+intake-manifold throttle	قلاب ماسورة السحب
+intangible component	عنصر غير مادي
+intangible drilling costs	تكاليف الحفر غير المنظورة
+intangible heritage	تراث غير مادي
+intanglio	حجر محفور
+intarsia patterns	ترصيع
+integer	عدد صحيح
+integral	تكامل
+integral action	فعل تكامُل
+integral action coefficient	مُعامل الكسب التكاملي / معامل فعل تكاملي
+integral action time	زمن فعل تكاملي
+integral action time/ reset time	زمن إعادة الضبط
+integral active steering	نظام التوجيه الفعال التكاملي
+integral axle	محور متكامل
+integral components, pl	مكونات متكاملة؛ عنصر حساس لدرجة الحرارة
+integral concentration,	تكامل تركيز الغازات, الكشف عن الغاز
+integral construction	إنشاء متكامل
+integral Controller	ضابط تكاملي
+integral element	عنصر تكاملي
+integral element; I element	عنصر تكاملي
+integral joint	وصلة متكاملة
+integral lamp control gear	معدة تحكم مدمجة
+integral lampholder	ماسك وحدة إضاءة مدمج
+integral LED module	وحدة صمام ثنائي باعث لضوء LED تكاملية
+integral management	إدارة متكاملة
+Integral of absolute error	تكامُل الخطأ المُطلق (IAE)
+integral of absolute value of error (IAE)	مساحة القيمة المطلقة لفارق الضبط
+Integral of squared error	تكامُل الخطأ التربيعي (ISE)
+Integral of squared time multiplied by the absolute error	تكامل الزمن التربيعي مضروباً في الخطأ المُطلق (ISTAE)
+Integral of time multiplied by squared error	تكامُل الزمن مضروباً في الخطأ التربيعي (ITSE)
+integral of time-multiplied absolute value of error	معيار تكامل مجموع الزمن والقيمة المُطلقة للخطأ
+integral quality	مُكامل الجودة
+integral quantity,	كمية متكاملة,
+integral sensor,	حساس مدمج, الكشف عن الغاز
+integral slot winding	ملف كامل المجرى
+integral switching device	أداة وصل وفصل تكاملية
+integral tank	خزان كلي / خزان مندمج
+integral time constant	ثابت زمن التكامل
+integral-action time	زمن فعل تكامُلي
+integrally fused circuit-breaker	قاطع دارة متكامل بالمصهر
+integrated	مدموج، متكامل
+integrated acoustic structure	إنشاء صوتي مندمج
+integrated aeroplane	طائرة مندمجة
+integrated assessment	تقييم متكامل
+integrated bottom line	خط سفلي متكامل
+integrated chassis management (ICM)	الإدارة التكاملية لمجموعة الحركة على الطريق (ICM)
+integrated circuit	دائرة كهربائية متكاملة / دارة متكاملة / دارة مندمجة
+integrated circuit (IC)	دائرة مُتكاملة (IC)
+integrated circuit memory	ذاكرة دارة متكاملة
+integrated circuit; IC	دارة مدمجة
+Integrated Circuits	دائرة متكاملة
+integrated coastal management (icm).	إدارة ساحلية متكاملة
+integrated conductor	موصل مدمج
+integrated control relay	مُرَحِّل تحكم متكامل؛ مُرَحِّل تحكم متعدد الوظائف
+integrated crop-livestock zero tillage system	نظام متكامل للمحاصيل والثروة الحيوانية بدون حرث
+integrated design process of buildings	عملية تصميم متكامل للمباني
+integrated diagnosis	تشخيص مُدمج
+integrated digital transmission and switching	إرسال وتحويل رقمي متكامل
+integrated electronic control centre	مركز التحكم الالكتروني المتكامل
+Integrated Energy Strategy (IES)	إستراتيجية الطاقة المتكاملة
+integrated environmental management	إدارة بيئية متكاملة
+integrated environmental protection	حماية متكاملة للبيئة
+integrated gasification combined cycle (IGCC)	دورة التغويز المُتكامل المُدمجة / دورة التغويز المتكامل المدمجة (IGCC)
+Integrated Gate Commutated Thyristor	ثايراستور مُدمج ببوابة تحكّم للتشغيل (IGCT)
+integrated hydroelectronics unit (IHE)	وحدة هيدروإلكترونية مُدمجة
+integrated lamp	مصباح متكامل
+integrated LED lamp; LEDi lamp	مصباح صمام ثنائي باعث لضوء LED متكامل
+integrated LED module; LEDi module	وحدة صمام ثنائي باعث لضوء LED متكاملة
+integrated logistic support, ; ILS	الدعم اللوجستي المتكامل،,
+integrated movement	حركة تكاملية
+integrated natural resources management; inrm	إدارة متكاملة للموارد الطبيعية
+Integrated Nuclear Infrastructure Review	مراجعة متكاملة للبنية النووية الأساس
+Integrated Nuclear Security Support Plan	خطة متكاملة لدعم الأمن النووي
+integrated optical circuit; IOC (abbreviation)	دارة بصريه متكاملة؛ دارة ضوئية مدمجة
+Integrated Part-Load Value (IPLV)	قيمة متكاملة للحمل الجزئيّ
+integrated pest management	إدارة متكاملة للآفات
+Integrated PLC	جهاز تحكّم منطقي قابل للبرمجة مُدمج
+Integrated Power System; Unified Power System (IPS/UPS)	نظام الطاقة المُدمج
+integrated pressure controller	منظم ضغط مُدمج
+integrated production	إنتاج متكامل
+integrated protection and control relay	مُرَحِّل حماية و تحكم متكامل؛ مُرَحِّل حماية وتحكم متعدد الوظائف
+integrated protection relay	مُرَحِّل حماية متكامل؛ مُرَحِّل حماية متعدد الوظائف
+integrated radio and information system (IRIS)	نظام الراديو والمعلومات التكامُلي (IRIS)
+Integrated Regulatory Review Service	خدمة المراجعة الرقابية المتكاملة
+integrated resource management (irm)	إدارة متكاملة للموارد
+integrated risk assessment	تقييم متكامل للمخاطر
+Integrated Services Digital Network	شبكة رقمية للخدمات المُتكاملة (ISDN) / شَبَكَةٌ رَقْمِيَّةٌ لِلخَدَماتِ المُتَكامِلَةِ
+Integrated Services Digital Network (ISDN)	شبكة رقمية للخدمات المتكاملة
+integrated services digital network; ISDN (abbreviation)	شبكة خدمات رقمية متكاملة
+integrated services network; ISN (abbreviation)	شبكة خدماتِ متكاملةِ
+integrated sewer system management	إدارة مُتكاملة لشبكة الصرف
+Integrated Simulation Environment Language	برنامج INSEL
+integrated solid waste management	إدارة متكاملة للنفايات الصلبة
+integrated speed limiter	محدد السرعة المُدمج
+integrated starter alternator (ISA)	نظام 'مُبدئ الحركة - مُولّد التيار المُتردد' التكامُلي (ISA)
+integrated starter alternator damper	نظام 'مُبدئ الحركة - مُولّد التيار المُتردد - المُضائل' التكامُلي (ISAD)
+integrated starter generator (ISG)	نظام 'مُبدئ الحركة - المُولّد الكهربائي' التكامُلي (ISG)
+integrated switch	مفتاح متكامل
+integrated transport	النَّقل المتكامل
+integrated waste management	إدارة متكاملة للنفايات
+integrated water plan	خطة مائية متكاملة
+Integrated Water Resources Management (IWRM)	إدارة (ال...) المُتكاملة لموارد المياه / الإدارة المتكاملة للموارد المائية / إدارة متكاملة للموارد المائية
+integrated weed management	إدارة متكاملة للأعشاب الضارة
+integrating (measuring) instrument	راسم ذبذبات
+integrating accelerometer	مقياس جَمْل التسارع
+integrating circuit	دارة تكامل / دارة جَمْل
+integrating dosemeter	مقياس جرعة تكاملى
+integrating meter	جهاز قياس مُدمج / عداد الكهرباء
+integrating photometer	مقياس ضوئي ذو كرة مكاملة؛ مضواء الكرة التكاملية
+integrating sphere; Ulbricht sphere	كرة تكاملية؛ كرة اولبراخت
+integration	قدرة الدمج / تكامُل / تكامل / تَكَامُل
+integration of upstream and downstream water-related interests	تكامل المصالح المائية بين دول المصب ودول المنبع
+integrative lighting	إضاءة متكاملة
+integrator	آلة التكامل / جهاز جَمْل / مُكامِل
+integrator ; integrating circuit	مكامل
+integrity	سلامة / كَمال
+integrity of a multiloop control system	سلامة نظام تحكم متعدد الحلقات
+integrity,	تكامل, / تكاملى,
+intellectual capital	رأسمال فكري
+intellectual property (ip)	ملكية فكرية
+intellectual property rights (iprs)	حقوق الملكية الفكرية
+intelligent battery sensor (IBS)	حسّاس البطارية الذكي (IBS)
+intelligent cruise control	نظام التحكم الذكي في السيارة
+intelligent data bus-multimedia	ناقل البيانات الذكي لنظام الوسائط المُتعددة
+Intelligent Energy Europe (IEE)	البرنامج الأوروبي للطاقة الذكية (IEE)
+intelligent highway cruise control (Honda) (IHCC)	نظام تحكم ذكي في السرعة على الطرق السريعة من هوندا (IHCC)
+intelligent missile	صاروخ فَطِن / قذيفة ذكية
+intelligent occupant protection	نظام حماية الرُكّاب الذكي
+intelligent protection system (IPS)	نظام السلامة والأمان الذكي (IPS)
+intelligent speed adaptation (ISA)	النظام الذكي لموائمة السرعة
+Intelligent System Controller	مُتَحَكِّمُ الأَنْظِمَةِ الذَكِيّ
+intelligibility (index)	وضوح (دليل)
+intelligible croostalk	لغط مفهوم
+Intelsat	منظمة أقمار الاتصالات الدولية
+intended life (of an electric insulation system)	العمر الإفتراضى (لنظامِ عزلِ كهربائيِ
+intended use	استخدام مقصود
+intensed saw	منشار مرتخي النصلة
+intensification	تكثيف
+intensifying screen	شاشة مقوية
+intensity	كَثافَة / شدة / شدة المجال
+intensity / magnitude / power / size / strength / thickness	قُوة
+intensity of gravity	شِدّة الجاذبية
+intensity of magnetization	شدة التمغنط
+intensity of opening	شدة المسامية
+intensity of pressure	شِدّة الضغط
+intensive	كثيف
+intensive agriculture	فلاحة مكثفة / زراعة كثيفة
+intensive cropping	زراعة مكثفة
+intensive culture	زراعة مكثفة
+intensive flying	طيران مكثَّف
+intensive management	إدارة مركزة
+intensive quantity; local quantity	كمية مركزة (كمية موضعية)
+intensive risk	خطر مركز
+intensive student area	منطقة تدريب مكثف
+intentional dark signal	إشارة الظلمة
+inter communication	اتصال متبادل
+inter governmental maritime consultative organization,(I.M.C.O)	منظمة (ال...) البحرية الاستشارية بين حكومات الأمم المتحدة، (امكو)
+inter-character rest condition	حالة راحة بين الرموز
+inter-circuit wiring	اسلاك بين الدوائر
+inter-governmental authority on development (igad)	(ال)هيئة الحكومية للتنمية (IGAD)
+inter-municipal cooperation	تعاون بين البلديات
+inter-ocular	بَيْعَيْني
+inter-satellite link	وصلة بين الأقمار الصناعية / وصلة بين الاقمار الصناعية
+inter-switch link	وصلة تحويل داخلي
+inter-system interference	تداخل (تشويش) فيما بين الأنظمة
+inter-system interference,	تداخل ما بين الأنظمة (تشويش)
+inter-tropical front	جبهة مدارية
+interacting jets dissipator	مُبَدِّد طاقة ذو أنفاث متضادة
+interaction	تفاعُل / تفاعل
+interaction coefficient	مُعامِل التفاعل
+interaction gap	فجوة التفاعلِ
+interaction of subsystems	تَدَاخُل الأنظمة الفرعية
+interaction parameter	متغير التفاعل التبادلي
+interaction region	منطقة تفاعلِ
+interactive computer	حاسب تبادلي الفعل
+interactive dynamic driving system (IDS)	نظام دينامية القيادة (IDS)
+interannual variability ( iav)	التقلبات من سنة إلى أخرى
+interarrival time	فاصل الوصول
+interband transmission	نقل تداخل نطاقى
+interbedded	متعاقبة
+interbeded layer	طبقة مُتعاقِبة
+interblock gap (in DAT system); IBG (abbreviation)	فجوة القالب البينية (في نظام الأشرطة السمعية الرقمية)
+interblock gaps	فواصل بين السجلات (أو بين مجموعتين من البيانات.)
+Interbus	إنترباص (نظام نقل تسلسل البيانات للأتمتة)
+Interbus, properties	خواص الإنترباص
+intercalary	بيني
+intercalary meristem	مرستيم بيني
+intercalation	تداخل / تَدَخُّل
+intercalibration	مُضاهَاة المُعايَرَة
+intercarrier sound	صوت حامل بيني
+intercell handover; intercell hand-off	تمرير بين الخلايا
+Intercellular cement	مُصْطَكَاء
+Intercellular cement-substance	عنصر التلصيق
+intercellular space	وتيحة بَيْخَلَوية
+intercellular spaces	مسافات بَيْخلوية
+intercellular substances	مواد بيْخلوية
+intercept factor	عامل اعتراضي
+intercept point	نقطة اعتراض
+intercepter, interceptor	معترِضة / مَركبة اعتراض / مَركبة معترِضة
+intercepting drain; curtain drain	مَصْرِف ستارة
+interception	اعتراض بسبب تكثيفات نباتية (أو أشجار) / اعتراض / صَدٌ
+interception capacity	سَعَة الاعتراض
+interception ditch	خندق اعتراض
+interception storage	مخزون الاعتراض
+interceptor	مُجمِّع رئيسي لمياه الصرف الصحيّ
+interceptor ditch/pit	حُفرة تجميع مياه الصرف الصحيّ
+interceptor sewer	أنبوب مجار معترِض
+interceptor; intercepting drain	مجرى تصريف مُعترض
+interchange	تبادل / تبادُل / التقاطع / تبادُل (الاشارات)، تداخُل (الكبلات، الأسلاك)
+interchange agreement	إنفاق تبادلي
+interchange facility	محطة تبادل
+interchange office	مكتب تبادل
+interchange point	نقطة التبادل
+interchange ramp	مرتقى انتقال(بين ساقي تقاطع على مستويين مختلفتين)
+interchange time (platform to platform)	وقت تبادل الرصيف
+interchangeability,	مبادلة مكونات النظام
+interchangeable accessory	ملحقة قابلة للتبديل
+interchangeable gear system	نظام تعشيق متبادل
+interchangeable train cartridges	خراطيش مقطورة تتبادل فيما بينها
+interchangeable, adj	قابل للتبادل
+interchanger	مُبادِل
+interchannel interference	تداخل بين القنوات
+Intercity Rail	قِطارُ نَقْلٍ بَيْنَ المُدُنِ
+intercolumniation	تفاريج
+intercom	نظام الاتصال الداخلي
+intercommunicating gangway bellows; corridor connection	ممر جانبي
+intercommunication station; intercom	محطة إتصال داخلي
+intercondenser	مكثف داخلي
+interconnect	رابط بيني
+interconnected operation	تشغيل مترابط / تشغيل مُترابط
+Interconnected System	نظام مترابط
+interconnected system interconnected network grid	شبكة مترابطة
+interconnected systems	شبكات مترابطة
+interconnecting line	مُغذِّي ربط مُشترك
+interconnecting pipe between all tanks	أنبوب رابط بين جميع الخزانات
+interconnecting track	مسار ربط
+interconnection (for WTGS)	الربط ( لنظام مولد بعنفة طاقة الرياح)
+interconnection (of electric power systems)	ترابط (لنظام القدرة الكهربائية)
+interconnection (of power systems)	الربط الكهربائي؛ (الربط (لنظام كهربائي
+interconnection cord set	طرف ربط بيني للأجهزة الكهربائية
+interconnection coupler	قارن توصيل بيني
+interconnection post	مركز ربط مشترك
+interconnection; interconnexion	ربط (ترابط)
+interconnector	معذي ربط مشترك / موصل داخلي / رابط مشترك
+intercontinental ballistic missile	قذيفة عابرة للقارات
+intercontinental circuit	دارة عابرة للقارات
+intercooler	مبرد هواء الشحن / مُبرِّد بَيْنِي / مُبَرِّد بيني
+intercoolers	مبردات بينية
+intercorrelation	ارتباط متبادَل
+intercostal	بَيْضِلعي / ضلع بَيْنِي
+intercropping	زراعة مقحمة
+intercrystalline corrosion	تآكل بللوري بَيْني
+interdeparture time	فاصل المغادرة
+interdependance (interdependence)	اعتماد متبادَل
+interdiction	تدمير
+interdigitated interdigital transducer; IIDT	ناقل طاقة رقمي بيني تعددى IIDT
+Interdisciplinary Master in Energy Qualification Awarded: Postgraduate/Master	ماجستير متعدد التخصصات في الطاقة الشهادة المسلمة: شهادة الماجستير
+interelectrode capacitance	السعه الداخليه للقطب
+interest	فائدة
+interest (oil interest)	مصلحة (مصالح نفطية)
+interface	واجهة بينية / بَرْزَخ / واجهة / سطح بينيّ / تداخل بينى / تداخل / سطح بيني؛ سطح تماس / بينى (وسيط) / سطح بينى / جزء اتصال / جزء بَيْني / سطح بَيْني / سطح بيني / سطْح التماس، سطْح الفصْل
+interface (specification)	بينى (وسيط) (مواصفات)
+Interface Board	لَوْحَةُ الواجِهَةِ البِينِيَّةِ
+interface circuit	دائرة مواءمة
+interface circuit (in switching); relay set (in switching) (obsolescent term)	دارة بينية (في الفصل والوصل (التبديل))
+interface circuit for capacitive receiver	دائرة مواءمة المستقبِل السعويّ
+interface point	نقطة ربط للقياس
+interface specification	مواصفات سطح بيني
+interface standard	قِياسية المواجهة / واجهة قياسية
+interface,	وحدة تداخل, ؛ وحدة بينية
+interfacial angle	زاوية بين وجهية
+interfacial tension	توتر سطحي
+interfascicular	كمبيوم ما بين الحزم
+interference	تداخل / تداخل موجى
+interference (to a wanted signal)	تداخل (فى إشارة مطلوبة)
+interference drag	كبح التداخل
+interference fading	اضمحلال التداخل
+interference filter	مرشح تداخل؛ مرشح شوشرة تداخل
+interference fit	توافق تداخلي
+interference from an external source	تداخل من مصدر خارجي (تشويش)
+interference pattern (in facsimile); moire	نمط التداخل (في الناسوخ)
+interference settlement	هبوط تداخليّ
+interference suppression	منع التشويش / إخماد التداخل
+interference suppression,	اخماد التداخل
+interference test	اختبار تداخل الأبار
+interference; lap; overlap	تداخل
+interfering signal	إشارة تداخل (تشويش) / إشارة تداخل / أشارة مسببة للتدخل
+interferogram	صورة التداخل
+interferometer	مقياس التداخل
+interferometer array	صفيف مقياس التداخل
+interfield coding	ترميز داخل المجال ما قبله وما بعده
+interflow	جريان تحت سطح الأرض
+interflow density current	تيار الكثافة الداخلية
+interframe coding	ترميز داخل الاطار ما قبله وما بعده
+intergenerational equity	عدالة بين الأجيال
+interglacial period	فترة بيْجليدية
+interglacials	بين جليديين
+intergovernmental negotiating committee (inc)	لجنة حكومية للتفاوض
+intergovernmental negotiating committee on desertification (incd)	لجنة التفاوض الدولية الحكومية المعنية بالتصحر
+intergovernmental oceanographic commission (ioc)	لجنة حكومية دولية لعلوم المحيطات
+intergovernmental organization (igo)	منظمة حكومية دولية (IGO)
+Intergovernmental Panel of Climate Change (IPCC)	اللجنة الحكوميّة الدوليّة لشؤون تَغَيُّر المناخ (IPCC)
+intergovernmental panel on climate change (IPCC)	لجنة التغيرات المناخية الدولية / الهيئة الحكومية الدولية المعنية بتغير المناخ (IPCC)
+intergowth	نمو مُتَداخِل
+intergradation	تداخل تدريجي
+intergrade	درجة بينية
+intergranular	بين حبيبي
+intergranular pressure	ضَغْط الحبيبات البيني
+interharmonic component	المركبة التوافقية المتداخلة / مركبة توافقية بينية
+interharmonic frequency	التردد التوافقى المتداخل / تردد توافقى متبادل
+interharmonic voltage	جهد توافقى بينى
+interharmonics	توافقية بينية
+interior	التجهيز الداخلي / داخلي
+interior angle	زاوية داخلية
+interior ballistics	قذائف داخلية
+interior cylinder surface	سطح الأسطوانة الداخلي
+interior design	تصميم داخلي / مصمّم داخلي
+interior differential needle valve	صِمام إِبريّ داخلىّ متفاوِت الضّواغِط
+interior drainage	صرْف داخلي
+interior economy	اقتصاد داخلي
+interior lighting	الإضاءة الداخلية للسيارة / إضاءة مقصورة السيارة
+interior ornamentation	زخرفة داخلية
+interior painting	طلاء داخلي
+interior sealing ring	حلقة إحكام داخلية
+interior span	مَجَاز داخليّ
+interior wood finishing	نجارة الإنهاء
+interior works	أعمال داخلية
+interior zone luminance	إضاءة منطقة جسم النفق
+interior zone,	منطقة جسم النفق,
+interlaboratory comparison test	اختبار للمقارنة في المعامل
+interlace	تشابك
+interlaced fencing	سياج متشابك
+interlaced scanning	مسح تشابكي
+interlacing	تحابُك / تشابُك
+interlacing factor	عامل التشابك
+interlacing sequence	تسلسل النشابك
+Interlaine	إنترلين
+interlayer	طبقة بينية
+interleaved, adj	بيني (صفة)
+interleaves	أوراق بينية
+interleaving	تداخل / تورق بيني
+interleaving; shuffling	الفصل البيني للكلمات الأصلية المتتابعة
+interline	بين الخطوط
+interline flicker; twitter	رجفة بين الخطوط
+interline freight	شحن بيني
+interlinings	بطانة
+interlock	أقمشة الإنترلوك / تواشح
+interlock (of sheet piling)	واشِجَة خَوَازِيق لَوْحية
+interlock circuit	دائرة تواشج
+interlock code	شفرة اقفال
+Interlock cross tubular	قماش جاكارد مُتقاطع الخيوط
+interlock fabric	نسيج يمين/ يمين
+interlock of a plug	حاكم ترابط للقابس
+interlock signal	إشارة اقفال
+interlocked socket-outlet	مقبس (مخرج) بمزلاج داخلي
+interlocking	تشابك / متداخِل / نظام منع التشابك / نِظامُ الرَبْطِ الآلي
+interlocking bed; interlocking frame	إطار التشابك
+interlocking block	مجموعة ترابط
+interlocking block paving	رصفات ذاتية الرتج
+interlocking blocks	كُتلَة قَفل
+interlocking device	جهاز تعشيق
+interlocking signal	إشارة تشابك
+interlocking switchgroup	مجموعة مفاتيح الإقفال التبادلي
+interlocking,	ترابط,
+Intermediary Goods	سلع وسيطة
+intermediate adaptor (for accessories)	موائم بيني (وسطي)
+intermediate approach	اقتراب متوسط
+intermediate block section	متوسط التكتل
+intermediate car	عَرَبَة بينية
+intermediate carrier	حامل متوسط
+intermediate contingency	معدل الطوارئ المتوسط
+intermediate distribution frame	إطار توزيع متوسط
+intermediate dump; depot, intermediate	مستودع مؤقّت
+intermediate feed antenna	هوائى تغذية متوسطة
+intermediate flash-off time	وقت تهوية بيني
+intermediate frequency	تردُّد بيني
+intermediate frequency rejection ratio	نسبة رفض تردد متوسط؛ إضعاف على التردد المتوسط
+intermediate frequency; IF (abbreviation)	تردد أوسطي
+intermediate gear	ترس بيني
+intermediate neutron; epithermal neutron	نيوترون متوسّط
+intermediate node	نقطة وسطية
+intermediate piston	كباس بيني
+intermediate piston pressure	الضغط المتوسط للكبّاس
+Intermediate point to a possession	نُقْطَةٌ وَسِيطَةٌ لِلحِيازَةِ
+intermediate points position	وضع متوسط لنقاط تحويل
+intermediate pressure	ضغط متوسط
+Intermediate Pressure (IP)	ضغط متوسط (IP)
+Intermediate processing facility (IPF)	منشأة معالجة وسيطة
+intermediate reference system; IRS (abbreviation)	نظام مرجعي وسيط
+intermediate refter	رافدة متوسطة، رافدة وسيطة
+intermediate retarder	مقاصر مُتَوَسِّط
+intermediate rocks	صخور متوسطة / صخور متعادلة
+intermediate shop	ورشة متوسطة
+intermediate signal	إشارة متوسطة
+intermediate sky	سماء ذات توزيع إضاءة متوسطة
+intermediate state information	معلومات نقطة مزدوجة
+intermediate station	محطة وسيطة
+intermediate storage	تخزين وسيط
+intermediate string	مجموعة أنابيب التغليف الوسطى
+intermediate support; tangent support (deprecated)	دعامة وسطية
+intermediate well; infilling well	بئر متوسطة
+Intermediate-Level Waste	نفايات متوسطة المستوى
+intermediate-voltage capacitor (of a capacitor divider)	مكثف جهد متوسط لمقسم جهد سعوي
+intermediate-voltage capacitor (of a capacitor voltage transformer)	مكثف جهد عالي لمحول جهد سعوي
+intermediate-voltage terminal (of a capacitor divider)	طرف جهد متوسط لمقسم جهد سعوي
+intermediate-voltage terminal (of a capacitor voltage transformer)	طرف جهد منخفض( لمحول جهد سعوي)
+intermediate-voltage winding	لفيفة ذو جهد متوسط
+intermediate-wheel gearing	تعشيق بعجلة وسيطة
+intermediates	متوسطات
+intermetallic materials	مواد بين معدنية
+intermingled yarn	مزيج خيطي
+intermittent automatic train control(ATC)	إدارة آلية متقطعة للقطار
+intermittent automatic train protection transmission system	نظام الإرسال المتقطع لحماية القطار آليا
+intermittent duct	مجرى متقطع
+intermittent duty	خدمة متقطعة
+intermittent fault,	خطأ متقطع،,
+intermittent flow (of direct current)	سريان متقطع (للتيار المستمر)
+intermittent insulation fault	عطل عزل متقطع
+intermittent light	ضوء متقطِّع
+intermittent on/off control	عملية متقطعة تعديل فتح-غلق
+intermittent operation	تشغيل متقطع
+intermittent periodic duty with electric braking; duty type S5	خدمة شغل دورية متقطعة مع كبح كهربائي
+intermittent periodic duty with starting; duty type S4	خدمة شغل دورية متقطعة مع بدء التشغيل نوع S4
+intermittent periodic duty; duty type S3	خدمة شغل دورية متقطعة نوع S3
+intermittent rating	تقنين متقطع
+intermittent sensing,	استشعار متقطع, الكشف عن الغاز
+intermittent signalling	تأشير متقطع
+intermittent supply	تغذية بطريقة الصدمة
+intermittent warning signal	إشارة التحذير المتقطع
+intermittent windscreen wiper [UK] / intermittent windshield wiper [US]	مسّاحة التشغيل المتقطع
+intermixing	اختلاط
+intermodal	متعدد الوسائط / المتعدد الوسائط / نمط متبادل / النقل المتعدد الوسائط
+intermodal freight transport	نقل البضائع متعدد الوسائط
+intermodal marketing company	شركة التسويق متعددة الوسائط
+intermodal rail transport terminal	محطة نقل سككي مشترك / مَحَطَّةٌ طَرَفِيَّةٌ فِي الخُطُوْط الحَدِيدِيَّةِ لِلنَقْلِ ما بَيْنَ وَسائِطَ مُتَعَدِّدَةٍ
+intermodal transport	نقل متعدد الوسائط
+intermodal transport terminal	محطة النقل متعدد الوسائط
+intermodal transport unit	وحدة نقل متعدد الوسائط
+intermodal transport unit (ITU)	وحدة التقل متعدد الوسائط
+intermodulation	تضمين بيني
+intermodulation distortion	التشوه البيني لتعديل الموجة / تشوه تضمين بيني
+intermodulation noise	ضوضاء تضمين بينى
+intermodulation product ; intermodulation component	ناتج تضمين بيني
+intermodulation product order	ترتيب المنتج بالتضمين البيني
+internal (telephone) system; house telephone system	نظام ( هاتف ) داخلي
+internal angle of an alternator	الزاوية الداخلية لمولد كهربائي
+internal apparent resistance	مقاومة داخلية ظاهرة
+Internal Audit Department	دائرة التدقيق الداخلي
+internal balance	اتزان داخلي
+internal blocking	انسداد داخلي
+internal burden (of a current transformer)	تيار التحريض ( التهييج)
+internal carburetion	التكوين الداخلي للخليط
+Internal circulation reactor	مفاعل التدوير الداخلي
+internal climate variability	تقلبية المناخ الداخلية
+internal combustion engine	محرك احتراق داخلي / محرك الاحتراق الداخلي، محرك ذو احتراق داخلي / مُحرّك احتراق داخلي (ICE) / محرك الاحتراق الداخلي
+internal combustion set	مجموعة احتراق داخلي
+internal conductor	موصل داخلي
+Internal consumption regulation	تقنين الاستهلاك الداخلي
+internal control loop, inner loop [control system]	دائرة ضبط داخلية
+internal control system (ics)	نظام الرقابة الداخلية
+internal conversion	تحول داخلي
+internal cooling	تبريد داخلي
+internal cooling system	نظام تبريد داخلي
+internal cracking	تشقق داخلي
+internal differential needle valve	صِمام إبري داخلي مُتفاوِت الضّواغِط
+internal efficiency	كفاءة داخلية / مردود داخلي
+internal electric field	مجال كهربائي داخلي
+internal electricity market	سوق الكهرباء الداخلية
+internal energy (U)	طاقة داخلية (U)
+internal energy market	سوق داخلية للطاقة
+internal energy; thermodynamic energy	الطاقة الداخلية؛ الطاقة الحرارية الديناميكية
+Internal Exposure	تعرض داخلي
+internal fault	عطل داخلي
+internal flush	شَطْف داخلي، غسْل داخلي، ردّ داخلي
+internal flush tool joint	وصلة مستوية من الداخل، وصلة أداة ذات ردة داخلية
+internal friction	احتكاك داخلي
+internal fuel	وقود داخلي
+internal fuse of a capacitor	مصهر داخلى للمكثف
+internal gas console	حامل غاز داخلي
+internal gas pressure cable	كابل مضغوط بغاز داخلي
+internal groove sidewall	جدار جانبي لأخدود داخلي
+internal gun	مدفع داخلي
+internal horsepower	القدرة الداخلية
+internal immunity	مناعة داخلية - حصانة داخلية
+internal impedance of the human body	معاوقة داخلية لجسم الإنسان
+internal insulation	عزل داخلى
+internal market	سُوق داخلية
+internal migration	هجرة داخلية
+internal orientation	توجيه داخلي
+internal overvoltage	جهد زائد داخلى, ارتفاع جهد داخلى
+internal partial discharge	تفريغ جزئى داخلى
+internal phloem	لحاء داخلي
+internal photoeffect	تأثير ضوئي داخلي
+internal power	قدرة داخلية
+internal quantum efficiency,	كفاءة كمية داخلية,
+internal rate of return (irr)	معدل العائد الداخلي
+internal reflection	انعكاس داخلي
+internal reforming	هدرجة داخلية
+internal refugee	لاجئ داخلي
+internal resistance	مقاومة داخلية / مُقاومة داخلية
+internal source of release	مصدر داخلى للتنفيس
+internal storage; internal memory	ذاكرة داخلية
+internal stress	توترات داخلية
+internal structure	بنية داخلية
+internal supercharger	شحّان داخلي
+internal synchronization	قدح داخلي
+internal taper	مخروط داخلي
+internal traffic	اتصالات داخلية
+internal transport (e.g. in a factory)	النَّقل الداخلي (على سبيل المثال في مصنع)
+internal triggering	مسح ضوئي بقادح
+internal upset drill pipe	أنبوب حفْر مضغوط من الداخل
+internal volute	حلزون داخليّ
+internal wiring	توصيلات داخلية
+internal-source irradiation	إشعاع داخلى المصدر
+internalization	إدخال
+internally blown flap	قلاّبة داخلية النفخ
+internally coupled induction lamp	مصباح حثى ذو تقارن داخلى
+internally reflected component of daylight factor	مركبة منعكسة داخلياً لعامل ضوء النهار
+internals	داخليات
+international	دولي / دَوْلي / عالمي
+international air transportation association	رابطة النقل الجوي الدولية
+International Alphabet No. 5; ISO 7 bits code	أبجدية عالمية رقم 5
+international altitude	ارتفاع عالمي
+International Association for Water Law (AIDA)	الرابطة الدولية لقانون المياه
+international association of drilling contractor, (I.A.D.C.)	تجمع (ال...) الدولي لمقاولي الحفر
+International Atomic Energy Agency (IAEA)	الوكالة الدولية للطاقة الذرية / وكالة الطاقة الذرية الدولية ( IAEA )
+international atomic time; TAI (abbreviation)	زمن ذري دولي
+International Biogas & Bioenergy Center of Expertise (IBBK)	المركز الدولي لكفاءة الغاز الحيوي والطاقة الحيوية (IBBK)
+international boost	تعزيز دَوْلي
+international circuit	دارة دوليّة
+international civil aviation organization	منظمة الطيران المدني الدولية
+international climate change partnership (iccp)	شراكة دولية لتغير المناخ
+international commercial terms (incoterms)	مفردات التجارة الدولية
+international commission for the conservation of atlantic tunas (iccat)	(ال) لجنة الدولية للحفاظ على تونة الأطلسي
+International Commission on Illumination	هيئة الإضاءة الدولية (CIE)
+International Committee of Rayon and Synthetic fibers	اللجنة الدولية للحرير الصناعي والألياف الاصطناعية
+International Committee on cotton Testing Methods	الهيئة العامة للتحكيم اختبارات القطن
+international consortium on combating wildlife crime (iccwc)	اتحاد دولي لمكافحة جريمة الحياة البرية
+international consultation and analysis (ica)	مشاورات وتحاليل دولية
+international convention for prevention of pollution of the sea by oil 1954	ميثاق (ال...) الدولي لمنع تلويث البحار بالنفط (1954)
+International Cotton Advisory Committee	اللجنة الاستشارية الدولية للقطن
+International Cotton Calibration Standards	كِيمْياء سيتولوجية مَناعِيَّة-للقطن
+international council for the exploration of the sea (ices)	مجلس دولي لاستكشاف البحار
+international council of local environmental initiatives (iclei)	مجلس دولي للمبادرات البيئية المحلية (ICLEI)
+international council of museums (icom)	(ال)مجلس الدولي للمتاحف (ICOM)
+International Court of Justice (ICJ)	محكمة العدل الدولية
+international date line	خط الزمن الدولي
+International Diesel Service (IDS)	شركة خدمة الديزل العالمية
+International Electrotechnical Commission	لجنة (ال...) الدولية للتقانة الكهربائية (IEC)
+International Electrotechnical Commission (IEC)	اللجنة الدولية للتقانة الكهربائية (IEC)
+international emissions trading	تجارة دولية للانبعاثات
+International Emissions Trading (IET)	IET تجارة الانبعاثات الدولية
+international emissions/carbon/energy tax	انبعاثات دولية / الكربون / ضريبة الطاقة
+International Energy Agency	وكالة الطاقة الدولية
+international energy agency (iea)	وكالة الطاقة الدولية (IEA) / وكالة الطاقة الدولية / الوكالة الدولية للطاقة (IEA)
+International Energy Forum	منتدى الطاقة العالمي
+International Energy Forum (IEF)	منتدى الطاقة الدولي
+international energy law	قانون الطاقة الدولي
+International Environmental Agreements	اتفاق بيئي دولي
+international environmental court	محكمة البيئة الدولية
+International Feed-In Cooperation (IFIC)	التعاون الدولي لإمداد الطاقة (IFIC)
+international freight forwarding agency	وكالة الشحن الدولية
+International Gas Union	الاتحاد الدولي للغاز (IGU)
+international geographic mile	مِيل جغرافي دولي
+international geothermal association (IGA)	الجمعية الدولية للطاقة الجيو حرارية / جمعية الطاقة الحرارية الأرضية الدولية / الرابطة الدولية للطاقة الحرارية الأرضية
+International goods transport by rail - unloaded (incoming)	نَقْلُ البَضائِعِ الدَوْلِيّ بِالتَحْمِيلِ عَلَى الخُطُوْط الحَدِيدِ القادِمَةِ
+International Hydropower Association (IHA)	الرابطة الدولية للطاقة المائية (IHA) / الجمعية الدولية للطاقة الكهرُمائية (IHA)
+International Institute for Cotton	المعهد الدولي للقطن
+international labour organization (ilo)	منظمة العمل الدولية (ILO)
+international law	قانون دولي
+International Law Association (ILA)	رابطة القانون الدولي
+international maritime consultative organization,(I.M.C.O.)	منظمة (ال...) البحرية الاستشارية الدولية
+international maritime organization	المنظمة الدولية للملاحة البحرية
+international maritime organization (imo)	منظمة البحرية الدولية
+International Marketing Sector	قطاع العضو المنتدب للتسويق العالمي
+International Mohair Association	الجمعية الدولية للموهير
+international monetary fund (imf)	صندوق النقد الدولي
+International Network for Sustainable Energy (INFORSE)	الشبكة الدولية للطاقة المستدامة (INFORSE)
+International Network for Sustainable Energy (INFORSE) Coordination	الشبكة الدولية للطاقة المستدامة - INFORSE
+international ngo network on desertification (innd)	شبكة دولية للمنظمات غير الحكومية المعنية بالتصحر
+international nuclear event scale (ines)	مقياس دولي للحوادث النووية
+International Oil Companies	شركات نفطية عالمية
+International Oil Companies (IOC)	شركات النفط الدولية (IOC)
+international organic standard	معيار دولي للزراعة العضوية
+International Organization for Standardization	المُنظمة الدولية للمواصفات والمقاييس / منظمة (ال...) الدولية للتوحيد القياسي (أيزو - ISO) / المنظمة الدولية لتوحيد المقاييس
+International Organization for Standardization (ISO)	المنظمة الدولية للمعايير
+International Partnership for Energy Efficiency Cooperation (IPEEC)	الشراكة الدولية للتعاون في مجال كفاءة الطاقة (IPEEC)
+international plant protection convention	اتفاقية دولية لوقاية النباتات
+international population congress	مؤتمر دولي للسكان
+International Practical Temperature Scale of 1968 (IPTS-68)	مقياس درجات الحرارة الدولي (لعام 1968) IPTS-68
+International Protection	الحماية الدولية (IP)
+International railway transport	نَقْلٌ دَوْلِيّ بِالخُطُوط الحَدِيدِيَّةٍ
+International Relations	دائرة العلاقات الدولية
+international relative sunspot number	رقم بقعة شمسية نسبي دولي
+International Renewable Energy Agency (IRENA)	الوكالة الدولية للطاقة المتجددة (ايرينا)
+International Renewable Energy Alliance (IREA)	التحالف الدولي للطاقة المتجددة (IREA)
+international requirements for organic certification bodies (irocb)	العضوي المتطلبات الدولية لهيئات التصديق
+international resources	موارد دولية
+international river	نهر دولي
+international roughness index	مُؤَشِّر الخُشوُنَة الدَّولِي
+international selection sequence	تتابع الاختيار الدولي
+International Silk Organisation	المنظمة العالمية للحرير
+International Society for Measurement and Automation	جمعية (ال...) الدولية للأتمتة ISA: International Society of Automation
+International Solar Energy Society (ISES)	الجمعية الدولية للطاقة الشمسية / جمعية الطاقة الشمسية الدولية (ISES)
+international standard	معيار تطبيقي
+international standard atmosphere; ISA	غلاف جوي قياسي دَوْلي
+International Standard Organization (ISO)	المنظمة الدولية للتوحيد القياسي (الأيزو ISO)
+international standard recording code; ISRC (abbreviation)	رمز تسجيل قياسي دولي
+International Standards	المواصفات القياسية الدولية
+international standards organisation (iso )	منظمة المعايير الدولية (ISO)
+international standards organization (iso)	منظمة دولية للمعايير (ISO)
+International System of Quantities; ISQ	كميات نظام عالمية
+International System of Units; SI	وحدات نظام عالمية
+International Telecommunication Union	الاتِّحَادُ الدَّولِيّ للاتِّصَالات
+International Telegraph Alphabet No. 1	أبجدية برقية عالمية رقم 1
+International Telegraph Alphabet No. 2	أبجدية برقية عالمية رقم 2
+International Telegraph Alphabet No. 3	أبجدية برقية عالمية رقم 3
+International Telegraph Alphabet No. 4	أبجدية برقية عالمية رقم 4
+International Temperature Scale of 1990 (ITS-90)	مقياس درجات الحرارة الدولي (لعام 1990) (ITS-90)
+International Temperature Scale of 1990; ITS-90 (abbreviation)	مقياس الحرارة الدولى المعتمد لسنة 1990
+International Textile Manufacturers Federation	الاتحاد الدولي لشركات تصنيع المنسوجات
+international trade	تجارة دولية
+international treaty on plant genetic resources for food and agriculture	المعاهدة الدولية حول الموارد الوراثية النباتية من أجل الغذاء والزراعة
+international two-stage selection	اختيار بمرحلتين للمكالمات الدولية
+international union for the protection of new varieties of plant (upov)	Union internationale pour la protection des obtentions végétales (UPOV)
+international water law	القانون الدولي للمياه
+international watercourse	مجرى مائي دولي
+international watercourses	مجاري مائية دولية
+International Wool Textile Organisation	المنظمة الدولية لنسيج الصوف
+Internationale Elektrotechnische Kommission	معيار اللجنة الكهروتقنية الدولية (IEC)
+internationale migration	هجرة دولية
+Internature Fibre Content	محتوى الألياف الغير الناضجة
+Internet	إنترنت / الإنترنت
+Internet Control Message Protocol	بروتوكول رَسائِلِ التَحَكُّمِ بِالإِنْتَرْنِتْ
+internet of things and services	وصلة انترنت الأشياء والخدمات
+Internet of Things; IoT	الأشياء المتعلقة بشبكة الإنترنت
+Internet Protocol	بروتوكول الإِنْتَرْنِتْ
+Internet Protocol (IP)	بروتوكول الإنترنت (IP)
+Internet Protocol; IP (abbreviation)	إختصار (IP)؛ برتوكول الإنترنت
+Internet relay chat; IRC (abbreviation)	إختصار (IRC)؛ الدردشة عبر الإنترنت
+Internet resource	مصدر خدمة الإنترنت
+Internet service provider; ISP (abbreviation)	إختصار (ISP)؛ مزود خدمات الإنترنت
+internet ticket	تذكرة إنترنت
+internetworking; internetting	ربط شبكات بينية
+interoperability	توافقية التشغيل / التوافقية؛ قابلية للتشغيل مع اجهزة متنوعة / قابلية للتشغيل مع اجهزة متنوعة
+interoperability (in digital television)	قابلية التشغيل مع أجهزة متنوعة (في التلفاز الرقمي)
+interoperability of a transport network	قابلية شبكة النقل للتشغيل
+interpentrant twining	توأمة مُتَدَاخِلة
+interphase transformer	محول ذو طور بيني
+interphone	هاتف بَيْني / هاتف داخلي
+interplane	دعامة الجناح
+interplanetary	بَيْكَوكبي
+interplate	بين الطبقات
+interpolation	استكمال / توسُّط داخلي / استيفاء
+interpolation (in digital television)	إقحام ( تدخيل ) في التيليفزيون الرقمي
+interpolative coding (in digital television)	ترميز بالإقحام ( في التيليفزيون الرقمي )
+interpole	قطب بيني
+interpole; commutating pole	قطب بيني؛ قطب مساعد
+interpret, verb	يفسر, فعل
+interpretation	تفسير
+interpreter	تُرْجُمان، آلة ترجمة
+interreflection	إنعكاس متبادل
+interreflection ratio	نسبة الإنعكاس المتبادل
+interrelation	علاقة تبادلية
+interrogate	يَستجوِب / يَستنطق
+interrogation	استفهام للتحقق، استجواب
+interrogation check	فَحْص بالأجهزة الالكترونية
+interrogation command	إعلان تغير حاله
+interrogation mode	نمط الاستجواب
+interrogator	مستجوِب
+interrupt capability	المقدرة على القطع
+interrupt input unit	وحدة دخل إشارة القطع
+interrupt reaction time	الزمن بين إشارتى القطع والقرار
+interrupt; interruption	قطع؛ ايقاف
+interruptable gas	غاز قَطُوع، غاز قابل للقطع
+interrupted stream	مجرى مائي متقطع
+interrupted stripe	خطوط متقطعة
+interrupter switch	قاطع التيار
+interruptible load	حمل قابل للإنقطاع / حمل قابل للفصل
+interruption duration	فترة الانقطاع / فترة إنقطاع
+interruption frequency	تردد الانقطاع
+interruption of supply	انقطاع التغذية
+interruption time	فترة انقطاع
+interruption,	قطع (لأداة تعمل بالتيار المتبقي)
+interruption, ; break,	قطع, ؛ فصل
+intersection	مجموعة التقاطُع / تَقَاطُع / تقاطُع / تقاطع
+intersection angle	زاوية التقاطع
+intersection entrance	مَدْخَل التقاطع
+intersection exit	مَخْرَج التقاطع
+intersection leg	فرع التقاطع / فَرْع التقاطع
+intersection of vehicle streams	تَقَاطُعُ الْمَرْكَبَاتِ
+intersection point	نقطة تقاطع
+intersection; junction; crossing	تقاطع
+interstage	بين المراحل / وسيط
+interstage booster pump	مضخة داعم بين المراحل
+interstage condensate pump	مِضَخَّة الكثافة الوُسْطى
+interstate oil compact commission,(I.O.C.C.)	لجنة اتفاقية المحافظة على النفط في الولايات المتحدة
+interstice (in a rock or soil) / void (in a rock or soil)	تجويف في باطن الأرض
+interstice, capillary	تجويفات شَعَرية في باطن الأرض
+interstice, subcapillary	أصغرتجويفة شَعَرية في باطن الأرض
+interstitial	خلالي
+interstitial cell	خلية متحللة
+interstitial solid solution	محلول صلب خلالي
+interstitial water	مياه الفرجات
+interstitiale deposits	تَوَضُّعات خلاَلِية
+intersymbol interference	تداخل بين الرموز
+intersystem fault	عطل بين شبكات
+intertidal region	نطاق المد و الجزر
+intertidal zone	مِنطقة المد البَيْنيّ
+intertripping; transfer tripping (US)	فصل عن بعد
+intertropical	بَيْمداري
+intertropical convergence zone (itcz)	نطاق التقاء بين المدارين
+intertropical front	جبهة بَيْمدارية
+interturn insulation	عازل بين اللفات
+interturn test; turn-to-turn test (US)	اختبار العزل بين الملفات
+intertype	منضدة سطرية
+interval	تباعُد / فترة
+interval between X-ray tube exposures	الفترات الزمنية ما بين التعرضات لإنبوب أشعة سينية X
+interval relay	مُرحّل التشغيل المُتقطع / مُرَحِّل فترة / مُرَحِّل الفترة
+interval relay with control signal; single shot relay	مُرَحِّل فترة ذو اشارة تحكم
+interval time	زمن الفترة
+interval timer	ساعة توقيت
+interval velocity	سرعة الشريحة
+intervalometer	مقياس الفاصل الزمني
+intervene, verb	يتدخل, فعل
+intervention action	تدخَّل
+interwinding insulation fault	عطل عزل فى الملفات البينية
+Interwoollabs standards	معايير الصوف الدولية
+interworking between networks	تشغيل بيني بين الشبكات
+intestine	أمعاء
+intimate blend	خليط بسيط
+into the mission	في المهمة
+intoxication	تسمُّم
+intra station block	توقف بَيْنِي
+intra-system interference	تداخل (تشويش) فيما بين النظام
+intra-system interference,	تداخل داخل نظام (تشويش)
+intraband transmission	نقل تداخل نطاقى
+intracavitary radiotherapy	علاج إشعاعي للتجوف الداخلي
+intracell handover; intracell hand-off	تمرير داخل الخلايا
+intracellular potential	جهد داخل الخلية
+Intracity Rail	قِطارُ نَقْلٍ داخِلَ المُدُنِ
+intraday	بيع الطاقة في نفس اليوم / مزاد يومي
+intrados	باطن، بطن
+intrafield coding	ترميز داخل المجال
+intralogistics	داخل الحدمات اللوجستية
+intramodal distortion; chromatic distortion	تشتيت لوني تشويش لوني
+Intranet	إنترانت / الإنترانت
+intraplate	صفائحية
+intrascope	منظار داخلي
+intravehicular	بَيْمَركبي
+intrazonal soil	تربة داخل المناطق
+intricacy	تعقُّد
+intrinsic	جوهري / أصيل
+intrinsic accuracy	دقة جوهرية
+intrinsic conduction	توصيل أصيل
+intrinsic conductivity	موصلية طبيعية/حقيقية
+intrinsic error	حيود ذاتي لجهاز قياس / سلسلة القياس
+intrinsic error,	خطأ جوهرى, لمُرَحِّل قياس او نظام وقاية
+intrinsic factors of species vulnerablity (cites)	عوامل جوهرية لهشاشة الأنواع (اتفاقية التجارة الدولية في الأنواع المهددة)
+intrinsic joint loss	فقدان توصيل جوهري
+intrinsic noise ; intra-system noise	ضوضاء ذاتية / داخلية
+intrinsic rate of increase	معدل ذاتي للزيادة
+intrinsic safety	آمان ذاتي
+intrinsic safety "i"	امان الاستعمال درجة"i"
+intrinsic safety "iD"	امان الاستعمال درجة"iD"
+intrinsic semiconductor	شبه موصل حقيقي/طبيعي
+intrinsic sensitivity	حساسية ذاتية
+intrinsic uncertainty	لايقين ذاتي لجهاز قياس / خطأ أصيل
+intrinsic value	قيمة جوهرية
+intrinsic/inherent variability	تغير جوهري / متأصل
+intrinsically safe	أمن حقيقي
+intrinsically safe apparatus	جهاز مأمون الاستعمال
+intrinsically safe circuit	دائرة مأمونة الاستعمال
+intrinsically safe electrical system with certificate	نظام كهربى مأمون الاستعمال بشهادة موثقة
+intrinsically safe electrical system without certificate	نظام كهربى مأمون الاستعمال بدون شهادة موثقة
+intrinsically safe luminaire	جهاز إضاءة منجم أمن ذاتيا
+introduced current	تيار مدخل
+introduced pastures	مراعي مدخلة
+introduced species	أنواع مُدْخَلة
+introduction	إدخال / مقدمة
+introduction from the sea	إدخال من البحر
+introductory page	صفحة تمهيدية
+intron	دخلون
+intruder	مقتحِم
+intrusion	استرساب/صخر دخيل / اندساس
+Intrusion Barrier	حاجز مقاوم للاقتحام
+intrusion tone	نغمة تداخل
+intrusion; override (US)	تدخل
+intrusive igneous rocks	صخور نارية دخيلة
+intrusive rocks	صخور مُنْدَسَّة / صخور متداخلة
+inundated land	أَرْض مغمورة
+inundation	غمر / غمر (ال...) بالماء
+inundation canal	قناة تصريف مياه الفيضان
+invalidation signal	إشارة تعطيل
+invar	أنفار / إنفار
+invariant wavelength	ثابت طول موجي
+invariant,	كمية ثابتة,
+invasion	غزو
+invasion pipe	أنبوب الاكتساح
+invasive species	أنواع غازية
+invention	اختراع
+inventive step	خطوة ابتكاريه
+inventory	جَرْد / جرد / بيان الجرد / قائمة الموجودات
+inventory (oil stock)	مخزون النفط/ نفطي
+inventory accounting, stock management and accounting	حساب الخزون السلعي
+inventory data	بَيانات الجَرد
+inventory range; inventory coverage	حجم المخزون السلعي
+inventory sampling	عينة المخزون السلعي
+inventory service	خدمة الجرد
+inverse	مقلوب
+inverse common base	قاعدة مشتركة عكسية
+inverse common collector	مجمع مشترك عكسى
+inverse common emitter	باعث مشترك عكسى
+inverse direction of operation	عكس اتجاه التشغيل
+inverse direction,	الإتجاه العكسي,
+inverse Fourier transform	تحويل فورير العكسى
+inverse Fourier transformation	تحويلة فورير العكسية
+inverse Laplace transform	تحويل لابلاس العكسى
+inverse Laplace transformation	تحويلة لابلاس العكسية
+inverse monopulse	نبضة إحادية معكوسة
+inverse picking	جمع عكسي
+inverse solubility	ذوبان معكوس
+inverse speed signal	إشارة سرعة الدوران الانعكاسية
+inverse square law	قانون التربيع العكسى
+inverse suppressor	مخمد عكسي
+inverse time-delay overcurrent release	إعتاق بزيادة التيار مع علاقة عكسية بين التيار والزمن
+inverse values	قِيَّم مَقْلوبة
+inverse voltage	جهد عكسى
+inverse-square law	قانون التربيع العكسي
+inversion	عكس / انقلاب / انعكاس حراري
+inversion axis	محور انقلاب
+inversion factor	عامل تحويل عكسي
+inversion point	نقطة الانعكاس
+inversion; reversal	انعكاس
+invert	خط القاع / حَضِيض (ال...) / قاع المجرى
+invert (pipe)	قاع (أنبوب)
+Invert Oil Mud	طين الحفر ذو المستحلب الزيتي المقلوب
+invert wall; bucket lip wall	جِدار تحويل (الماء أو الاتجاه، مثلاً) / حائط شفة الجابية
+invertebrates	لافقاريات
+inverted	معكوس؛ مقلوب
+inverted - V antenna	هوائي شكل V معكوسة
+inverted arch	قوس معكوسة
+inverted engine	محرك معكوس / محرك مقلوب
+inverted filter / protective filter	مرشح معكوس
+inverted filter; protective filter	مُرشِّح مانِع
+inverted flight	طيران مقلوب
+inverted gull wing	جناح النورس المعكوس
+inverted image	صورة مقلوبة
+inverted mud	طين معكوس، طين محلَّب معكوس
+inverted normal loop	أنشوطة عادية معكوسة
+inverted outside loop	أنشوطة خارجية معكوسة
+inverted pavement	رَصِيف عَكسِي
+inverted pleat	ياقة مَقْلوبة
+inverted siphon	سيفون مقلوب
+inverted spin	مسار حلزوني مقلوب
+inverted television channels	قنوات تلفازية معكوسة
+inverted-L antenna	هوائي على شكل L معكوسة
+inverted-vee engine	محرك V مقلوب
+inverter	مُحوِّل / محوِّل عكس / مقوم عكسي / مقوِّم عكسي / عاكس / عاكس التيار / عاكس كهربائي / عاكس التيار الكهربائي / محوّل عكسي
+inverter design variables	متغيرات تصميم العاكس
+inverter power inverter	مُحوّل عكسي
+inverter,	مقوّم عكسي,
+inverter; invertor	مقوم عكسى
+inverting topology	طوبولوجيا عاكسة
+invertor	محول تيار مستمر-متردد
+Investigation Committee	لَجْنَةُ التَّحْقِيقِ
+investigation methods for determining geothermal parameters	طرق الفحص لضبط المعامل الجيوحراري
+investigation programme	برنامج اِستقصائيّ
+investigation test	إختبار إستقصائى
+investment	استثمار
+investment additionality	إضافية الاستثمار
+investment barrier	عائق استثمار
+investment costs / prime costs	تكاليف المُنشأة
+Investment expenditure on infrastructure (of railways)	نَفَقاتُ الاِسْتِثْمارِ فِي البِنْيَةِ التَحْتِيَّةِ
+investment expenditures	نفقات استثمارية
+investment incentive	حوافز الاستثمار
+investment prediction	تقدير الاستثمار
+investment product	عائد الاستثمار
+investor	مُستثّمر
+inviscid fluid	مائع غير دَبِق / مائع غير لَزِج
+invisible load	حمولة غير ظاهرة، حمولة غير مرئية
+invitation to tender	اعلان طَلَب عَرْض
+INVOIC	INVOIC
+involuntary emigration	هجرة غير طوعية
+involuntary unemployment	بطالة قسرية
+involute gear system	نظام تعشيق ملتف داخليا
+inyoite	إينيوايت
+iodargyrite	إيودارجيرايت
+iodinator	مُيَوِّد
+iodine	يُود
+iodine index	قيمة اليود
+iodine number	عدد (ال...) اليوديّ
+iodine prophylaxis	وقاية باليود
+iodobromite	أيودوبرومايت
+iolite	إيولايت
+ion	أيون / شارِدة / شاردة
+ion cluster	عنقود أيونات
+ion density	كثافة التأين
+ion dose	جرعة آيونية
+ion exchange	تَبادُل أيونيّ / تبادُل أيوني
+ion exchange (IX or IE)	تبادل أيونيّ
+ion exchange chromatography	استشراب بتبادل الأيونات
+ion exchange column	عمود التبادل الأيوني
+ion exchange material	مادة تبادُل أيونيّ
+ion exchange resins	راتنجات التبادل الأيوني
+ion exchange technique	عملية تبادل الايونات
+ion exchanger	مبادل أيونات
+ion exhange	التبادل الأيوني
+ion implantation	زراعة ايونات / تثبيت ايوني
+ion membrane	غشاء أيوني
+ion noise	ضجيج ايوني
+ion rocket	صاروخ أيوني
+ion selective membrane	غشاء أيوني انتقائي
+ion transfer	إنتقال الأيونات
+ion trap	مصيدة ايونات ( شوارد )
+ion-dose rate	معدل الجرعة الأيونية
+ion-selective electrode; ion-specific electrode	قطب كهربائي انتقائي للأيونات
+ion-yield (of radiation) (deprecated)	إنتاجية الآيونِ (مِنْ الإشعاعِ) (لا ينصح باستعماله))
+ionic balance	تَوازُن أيونيّ
+ionic conduction	توصيل ايونى
+ionic loudspeaker	مكبر صوت أيوني
+ionic microphone	ميكروفون أيوني
+ionic order	الصنف اليوني
+ionic propulsion	دفع أيوني / دَفْع شارِدي
+ionic semiconductor	شبة موصل ايونى
+ionic strength	قوة أيونية
+ionic valve device; gas-filled valve device	جهاز صمام متآين جهاز صمام مملوء بغاز
+ionising air gun / ionised air gun	مُسدس تأيّن
+ionization	تَأَيُّن / تأين / التأين / تأيُّن / تشرُّد / تشرّد
+ionization chamber	حجرة التأين / غُرفة تأيُّن
+ionization coefficient; linear ionization	معامل التأين؛ تأين خطى
+ionization current	تيار تأيّنِ
+ionization energy	طاقة تأين
+ionization gradient component	مركبة تدرج التأين
+ionization ledge	حافة التأين
+ionization path	مسار تأين
+ionization potential	جهد التأيُّن / جهد التشرُّد
+ionization profile; electron density profile	المظهر الجانبي للتأين
+ionization rate	معدل التأين
+ionization time	زمن التأين
+Ionizer	مُؤيِّن
+ionizing energy of acceptor	طاقة التاين لمتقبل
+ionizing energy of donor	طاقة تأين المانح
+ionizing event	حدث التأين
+ionizing radiation	إشعاع مُؤيِّن / إشعاعات مؤينة / إشعاع متأين / إشعاع مؤين
+ionogram	مخطط أيوني / رسم أيوني
+ionography; electron radiography	تصوير أيونى
+ionosonde; ionospheric sounder; ionospheric recorder	مسبار أيوني
+ionosphere	غلاف أيوني / أيونوسفير (الغلاف الجوي المتأين) / أيونوسْفير / غلاف الجو المتشرِّد
+ionospheric absorption	امتصاص أيونوسفيري
+ionospheric cross modulation; Luxembourg effect	تضمين عرضي أيونوسفيري
+ionospheric defocussing	إزالة تركيز بؤري أيونوسفيرى
+ionospheric distortion	تشوه أيونوسفيرى
+ionospheric disturbance	إضطراب أيونوسفيرى
+ionospheric focussing	تركيز بؤري أيونوسفيرى
+ionospheric index	دليل أيونوسفيرى
+ionospheric layer	طبقة أيونوسفيرية
+ionospheric map	خريطة أيونوسفيرية
+ionospheric modification	تعديل أيونوسفيرى
+ionospheric prediction; ionospheric forecast	تنبؤ أيونوسفيرى
+ionospheric propagation	إنتشار أيونوسفيرى
+ionospheric reflection	انعكاس أيونوسفيري
+ionospheric sounding	سبر أيونوسفيري
+ionospheric storm	عاصفة أيونوسفيرية
+ionospheric wave; sky wave (deprecated)	موجة أيونوسفيرية
+iontophoresis; ion therapy; cataphoresis	إنفصال أيونى
+IoT conceptual model	نموذج مفاهيمي خاص بشبكة الإنترنت
+IoT device	نبيطة خاصة بشبكة الإنترنت؛ جهاز خاص بشبكة الإنترنت
+IoT domain	نطاق خاص بشبكة الإنترنت
+IoT gateway	بوابة خاصة بشبكة الإنترنت؛ مدخل خاص بشبكة الإنترنت
+IoT system	نظام وظيفى خاص بشبكة الإنترنت
+IoT trustworthiness	أمانة خاصة بشبكة الإنترنت؛ شبكة الإنترنت جديره بالثقة
+IoT user	مستخدم خاص بشبكة الإنترنت
+IP address; dot address; dotted decimal notation; IP number	عنوان بروتوكول انترنت
+IP dialup access	الربط باستخدام خط التليفون
+IP Television	تلفاز بروتوكول الإِنْتَرْنِتْ
+IPARS	نظام حجز الخطوط الجوية المبرمَج الدوْلي
+ipat identity	هوية IPAT
+ipat-s	تأثير السكان والثراء، والتكنولوجيا (IPAT-S)
+IPCC	الفريق الحكومي الدولي المعني بتغير المناخ.
+ipcc (intergovernmental panel on climate change)	الفريق الحكومي الدولي المعني بتغير المناخ (IPCC)
+ipcc, macroeconomic level	الفريق الحكومي الدولي المعني بتغير المناخ، مستوى الاقتصاد الكلي
+ipcc, project level	الفريق الحكومي الدولي المعني بتغير المناخ، مستوى المشروع
+ipcc, sector level	الفريق الحكومي الدولي المعني بتغير المناخ، مستوى القطاع
+ipcc, technology level	الفريق الحكومي الدولي المعني بتغير المناخ، مستوى التقنيات
+IpeX	تذكرة مخفَّضة بشراء سريع
+ipieca ecosystem services guidance	إرشادات 'جمعية الصناعة النفطية الدولية للحفاظ على اللبيئة' المتعلقة بخدمات النظم الإيكولوجية
+IPO principle (input, processing, output)	مبدأ الإدخال/المُعالجة/الإخراج (I-P-O)
+IR augmenter	معزِّز بأشعة تحت حمراء
+IR countermeasures	إجراءات معاكسة تحت حمراء
+IR decoy	خيدع الأشعة تحت الحمراء
+IR detector	كاشف الأشعة تحت الحمراء
+IR guidance	توجيه بالأشعة تحت الحمراء
+IR seeker	باحث عن الأشعة تحت الحمراء
+IR signature	دليل الأشعة تحت الحمراء
+IR-A	أشعة تحت حمراء من الفئة1
+IR-B	أشعة تحت حمراء من الفئة ب
+IR-C	أشعة تحت حمراء من الفئة ج
+IREC (Interstate Renewable Energy Council)	المجلس الأمريكي للطاقات المُتجدّدة (IREC)
+IRENA	الوكالة الدولية للطاقة المتجددة (إيرينا)
+iridescence	تَقَزُّح
+iridescent leather shoe	أحذية جلدية ذهبية
+iridium 192	إريديوم (ال...) 192
+iris (in a waveguide)	قوس (في دليل موجة)
+iris diaphragm	حجاب قُزَحيّ
+Irish tweed	تويد أيرلندي
+iron	حَدِيد / حديد / مكواة
+iron (manganese) sludge	حَمْأَة محتوية على الحديد (المنجنيز)
+iron bacteria (pl.)	بكتيريا الحديد
+iron bird	طائر حديدي
+iron bomb	قنبلة حديدية
+iron fertilization	تسميد حديدي
+iron loss	فقد بالحديد
+iron mike	رجُل حديدي
+iron of plane; plane iron	نصل المسحاج
+iron removal / deferrisation	إزالة الحديد
+iron reserve	احتياطي حديدي
+iron salt	ملح حديد
+iron yarn	خيط حديدي
+iron, ductile	حَدِيد مَطِيل
+iron-Constantan	مُزدوجة كونستنتان الحديد
+iron-on fleece interfacing	طبقة وبرية حرارية
+ironing-board	لوحة كيّ
+ironless	بلا حديد
+ironmonger	تاجر حديد
+ironwork (s)	مشغولات حديدية، مصنوعات حديدية
+irradiance	شدة الإشعاعية / كثافة تدفق الإشعاع / كثافة الفيض الإشعاعى / إشعاعية
+irradiance; DEPRECATED: intensity	إشعاع؛ إشعاع مرئي
+irradiance; intensity (deprecated)	إشعاعية
+irradiation	إشعاع / تعرض للأشعة السينية أو الراديومية / تشعيع
+irradiation conditions; radiation conditions; sunlight conditions	حالة الإشعاع
+irradiation-saturation current	تيار أشعاع التشبع
+irreducible connate water zone	منطقة ماء خلالي مستعص
+irreducible water saturation	إشباع بماء مُسْتَعْصٍ
+irregular fracture	مكْسَر غير منتظم
+irregular silk weave	نسيج أطلس غير مُنتظم
+irregular waves	أمواج غير مُنتظمة
+irregular-courses	مداميك غير منتظمة
+irrelevance; prevarication; spread	لاعلاقة؛ عدم الإرتباط؛ اللاعلاقية
+irrelevancy reduction	تخفيض غير المتعلق
+irreversibility	عدم إمكانية الرجوع
+irreversible control	تحكم غير عَكوس
+irreversible loss of soil	خسارة لا رجعة فيها من التربة
+irreversible process	عملية غير قابلة للارتداد
+irreversible processes	عمليات غير عكوسة
+irreversible screwjack	مرفاع لولبي غير عَكوس
+irridiscent clouds	غيوم قزحية الألوان
+irrigate (to) / water (to)	رَيٌّ بالرشّ
+irrigated area	رُقْعَة مَروية
+irrigated cotton	قطن مروي
+irrigation	رَيٌّ سَطْحيّ / ري / رَيٌّ / رَيّ / ري (ال...) / سقي
+irrigation control	مراقبة الري
+irrigation demand; irrigation requirement	احتياج الريّ
+irrigation efficiency	كِفاية الريّ / كفاءة الريّ
+irrigation interval	فترة الدور
+irrigation loss	فاقِد الريّ
+irrigation method	طريقة الريّ
+irrigation plan	مخطط الري
+irrigation requirement	حاجة إلى الري / احتياج من مياه الريّ
+irrigation scheme	نظام ري
+irrigation system	نظام الري / نظام سقي
+irrigation technique	تقنية الري
+irrigation water	مِياه الريّ
+irrigation water-use efficiency; water-use efficiency; water-use efficiency	آفاءة; استخدام المياه آفاءة استخدام مياه الري
+irritant	مُهَيِّج
+irritating properties of wood	خواص الخشب المثيرة
+irrotational flow	جريان لادوراني
+isallobar	خط تَساوي التغيرات الضغطية
+ISDN access capability	إمكانية وصول للقنوات المخصصة للاتصال ضمن الشبكة الرقمية للخدمات المتكاملة
+ISDN connection	إتّصال ضمن الشبكة الرقمية للخدمات المتكاملة
+ISDN connection attribute	خاصية محددة للإتّصال ضمن الشبكة الرقمية للخدمات المتكاملة
+ISDN connection element	عنصر إتّصال ضمن الشبكة الرقمية للخدمات المتكاملة
+ISDN connection type	نوع إتّصال ضمن خواص الشبكة الرقمية للخدمات المتكاملة
+ISDN protocol reference model	نموذج مرجعي للوظائف والإتفاقيات لنظام الشبكة الرقمية للخدمات المتكاملة
+ISDN terminal	نهاية (طرفية) في الشبكة الرقمية للخدمات المتكاملة
+ISDN user-network interface structure	هيكل السطح البيني لمستخدمي الشبكة الرقمية للخدمات المتكاملة
+ISE (Fraunhofer Institute for Solar Energy Systems ISE)	معهد فراونهوفر لأنظمة الطاقة الشمسية (ISE)
+Isemann rivet	برشام آيزمان
+isenergic	متساوي الطاقة
+isentropic	كظيم / متساوي الأنتروبي
+isentropic compressibility	الانضغاطية عند ثبوت درجة الحرارة
+isentropic efficiency	كفاءة الإنتروبيا الثابتة / كفاءة ايزنتروبية
+isentropic exponent	أس القصور الحرارى / مُعامل ثبات الإنتروبيا
+isentropic state change	حالة تغيّر متساوي الإنتروبيا
+iSERV	نظام iSERV
+Isfahan	سجاد إصفهان
+island	جزيرة / منطقة مُحاطة
+island (in a power system)	جزيرة (في النظام الكهربائي)
+island arc	قوس جزر
+island grid	شبكة جزيرية
+island mode	نظام تشغيل بمعزل عن الشبكة
+island operation; island mode operation	تشغيل مُنعزل (قائم بذاته)
+island platform	رصيف جَزِيرِيّ / المنصة المتوسطة
+island system; off-grid system	نظام مُنعزل
+islanding; network splitting	تجزئة النظام
+isloated network isolated grid	شبكة معزولة
+islw datum	مستوى إسناد (خاص بخط انحسار المياه الأدنى)
+ISM (qualifier)	مؤهل ISM
+ISM frequency band	نطاق تردد ISM
+ISO	مُنظمة الأيزو (ISO) / المنظمة الدولية للمقاييس والمواصفات / هيئة التقييس الدولية (ISO)
+ISO / International Organization for Standardization	إيزو
+ISO 13065	مواصفة الأيزو رقم 13065
+iso 14000	معيار 14000 لمنظمة المعايير الدولية (ISO 14000)
+ISO 14438	مواصفة الأيزو رقم 14438
+iso 19011	معيار 19011 لمنظمة المعايير الدولية (ISO 19011)
+iso 26000	معيار 26000 لمنظمة المعايير الدولية (ISO 26000)
+ISO 50001	مواصفة الأيزو رقم 50001
+Iso 50001 (Energy Management)	المواصفة الدولية لنظام إدارة الطاقة
+Iso 9001 (Quality Management)	المواصفة الدولية لنظام إدارة الجودة
+ISO 9050	مواصفة الأيزو رقم 9050
+ISO 9060	مواصفة الأيزو رقم 9060
+ISO 9488	مواصفة الأيزو رقم 9488
+ISO 9553	مواصفة الأيزو رقم 9553
+ISO 9846	مواصفة الأيزو رقم 9846
+ISO country code	اسم البلد طبقا للأيزو
+ISO digital still camera dynamic range	المدى الديناميكى للكاميرا الرقمية الثابتة
+ISO metric fine thread	لولب آيزو متري
+ISO OSI (Open Systems Interconnect) Reference Model	نموذج الأيزو المرجعي لنظام الربط البينى المفتوح
+ISO Technical Committee (TC) 180	اللجنة الفنية أيزو رقم 180
+ISO Technical Committee (TC) 238	اللجنة الفنية أيزو رقم 238
+ISO Technical Committee (TC) 242	اللجنة الفنية أيزو رقم 242
+iso-echo	تَساوي الصدى
+iso-intensity diagram; DEPRECATED: isocandela diagram	مخطط شدة الإضاءة
+iso-luminance curve	منحني النورانية؛ منحني السطوع
+iso-octane	شبيه الأوكتان / إيزو أُكْتَان
+iso-propyl nitrate	نترات الآيزوبروبيل
+iso-temperature line,	المحل الهندسى لخطوط درجات حرارة اللون,
+ISO/IEC JTC 2	اللجنة الفنية المشتركة رقم 2 لمنظمة الأيزو واللجنة الدولية للتقانة الكهربائية ISO/IEC
+isobar	إيزوبار / خط تَساوي الضغط
+isobar line	خط تساوي الضغط الجوّي
+isobar sweep	انحراف خط تَساوي الضغط
+isobaric process	عملية مُتساوية الضغط
+isobaric range	مدى متساوي الضغط
+isobars	خطوط تساوي الضغط / ذرات متطابقة الكتلة (ايزوبار) / خط تساوي الضغط
+isobutane feed surge drum	وعاء تهدئة إيزوبوتان التلقيم، حوض تمُّورإيزوبوتان التلقيم، مِطْفاح إيزوبوتان التلقيم
+isobutane recycle drying tower	بُرْج تجفيف الإيزوبوتان معاد التدوير
+isobutane recycle surge drum	وعاء تهدئة الإزوبوتان معاد التدوير، وعاء تمُّورإيزوبوتان إعادة التدوير، مِطْفاح إيزوبوتان التدوير
+isocentre	خط تَساوي المركز
+isochore	تساوي الثحن الظاهري
+isochoric	متساوي الحجم
+isochoric process	عملية مُتساوية الحجم
+isochron	متساوي الزمن
+isochrone	خط تزامُن / تَساوي الدورة الزمنية
+isochronism	تساوي التزامن
+isochronous modulation	تضمين متساوي التزامن
+isochronous, adj; DEPRECATED: synchronous, adj	متساوي التزامن / متجانس الفترات
+isoclinal fold	طَيَّة متماثلة الميل
+isoclinic line	خط تَساوي المَيل
+isoclinic wing	جناح متساوي المَيل
+isodose curve	منحني الجرعات المتساوية
+isodose surface	سطح الجرعات المتساوية
+isodynamic line	خط تَساوي القوى
+isoelectric potential	متساوى الجهد الكهربائى
+Isoentropic process	عملية ايزنتروبية
+isoexposure curve	منحنى تساوي التعرض
+isoexposure surface	سطح تساوي التعرض
+isogonal lines	خطوط تساوي الانحراف (المغناطيسي)
+isogonal, isogonic line	خط تَساوي الانحراف
+isograd	متساوي الدرجة
+isogram; isopleth	خط التساوي
+isogriv	خط تساوي الفرق الزاوي
+isogyres	أيزوجير
+isohaline	خط تساوي الملوحة
+isohyet	خط تساوي الهطول / خط تَساوي المطر
+isohyet; isohyetose	خطوط تساوي الأمطار
+isohyetal	متساوي المَطَر، خَطّ التماطُر
+isohyetal map; isopluvial map	خريطة خطوط تساوي الأمطار
+isolate (1) verb	يعزل (1)، فعل
+isolate (2) verb	يعزل (2)، فعل
+isolated conductor	موصل معزول
+isolated exhaust gas oxygen sensor (ISO-EGO)	حسّاس لامدا المعزول
+isolated footing	أساس منعزل
+isolated foundation	أساس منفرد
+isolated heated exhaust gas oxygen sensor (ISO-HEGO)	حسّاس لامدا المعزول والمُسخن
+isolated neutral system	نظام متعادل معزول
+isolated operation	تشغيل منعزل
+isolated system	نظام منعزل / نظام معزول
+isolated system; off-grid system	نظام الخلايا الكهروضوئية القائم بذاته
+isolated track section	أقسام فصل
+Isolating Cock	صمام العزل
+isolating distance (for a fuse)	مسافة العزل
+isolating distance (of a pole of a mechanical switching device)	مسافة العزل (لقطب جهاز فصل ووصل ميكانيكي)
+isolating jacket	غطاء عازل
+isolating link	وصلة عازلة
+isolating tape	شريط عازل
+isolating valve	صِمام عازِل / صِمَام عازل
+isolation	عزل / عزل كهربى / العزل
+isolation materials	مواد العَزْل
+isolation of a unit	عزل الوحدة
+isolation ratio (of a multiport antenna)	نسبة عزل (لهوائى متعدد الفتحات)
+isolation valve / shut-off valve	صِمام غَلْق
+isolator	عازل
+isolator; one-way attenuator	عازل
+Isomerization	أزمرة
+isomers	متشابه التركيب
+isometric	إيزومتري / مجسَّم منظوري متساوي القياس / متناظر / متساوي الأبعاد
+isometric crystals forms	أشكال بلورات النظام المكعبي
+isometric diagram	مُخَطَّط متساوي القياس
+isometric drawing	رَسْم متساوي القياس
+isometric latitude	زاوية العرض الإيزومتري
+isometric minerals	معادن النظام المكعبي
+isometric projection	استقطاب متساوي القياس
+isometric switch	مفتاح تَساوي القياس
+isopach map	مَصْور تساوي الثخن (في التكوينات الجيولوجية)
+isopentane	ايزوبنتان
+isophase light	ضوء متساوي فترة الضوء والظلمة
+isopiestic line / pressure surface contour	خَطُّ تساوي الضغط (المياه الجوفية) / خط تساوي الضغط
+isopiestic line; pressure surface contour	كنتور الضغط المتساوي
+isoprene	إيزوبرين
+isoprene rubber,(I.R.)	مَطَّاط الايزوبرين
+isoprofit lines	خطوط الأرباح المتساوية
+isopycnic	متساوي الكثافة
+isosceles triangle	مثلث متساوي الساقين
+isoseismal (line)	خط تساوي شدة الزلازل
+isoseismal line	خط تساوي شدة الزلزال
+isostasy	توازن مكونات القشرة
+isostatic	متوازن التضاغط
+isostatic readjustment	إحكام تضاغطي
+isostructural crystals	بلورات متساوية البنية
+isotach	خط تَساوي سرعة الريح
+isotherm	خطوط تساوي درجات الحرارة / خط تساوي درجات الحرارة / خط تَساوي درجة الحرارة
+isothermal	متساوي الحرارة / في درجة حرارة ثابتة / متساوي درجة الحرارة
+isothermal atmosphere	جو متساوي درجة الحرارة
+isothermal change	تغير متساوي درجة الحرارة
+isothermal change of state	عملية ثابتة الحرارة
+isothermal compressibility	معامل الانضغاط عند ثبوت درجة الحرارة
+isothermal compression	انضغاط ثابت درجة الحرارة
+isothermal crystallization	تبلوُّر متساوي الحرارة
+isothermal efficiency	كفاءة عند ثبات درجة الحرارة
+isothermal exponent	أُس ذو درجة حرارة ثابتة
+isothermal layer	طبقة متساوية الحرارة / طبقة متساوية درجة الحرارة
+isothermal line	خط تساوي الحرارة
+isothermal process	عملية ذات درجة حرارة ثابتة
+isothermal surface	سطح تساوي الحرارة
+isotherms	خطوط التساوي الحراري / خطوط درجة الحرارة الثابتة / خط تساوي درجة الحرارة
+isotone	ايزوتون
+isotones	متعادلات النيوترونات (ايزوتونز)
+isotope	نظير / إيزوتوب
+isotope inspection	كَشْف بالنظائر المشِعة
+isotope power	قدرة النظائر المشِعة
+isotope technician	فني نظائر مشعة
+isotope; nadir	نظير
+isotopes	نظائر
+isotopic tracer	كاشف نظير / كاشف نظائري
+isotropic	موحَّد الخواص / متجانِس / متساوي الخواص
+isotropic (for electromagnetic waves)	موجة متماثلة في جميع الاتجاهات
+isotropic diffuse reflection	إنتشار موحد الخواص
+isotropic diffuse transmission	إنتقال منتشر متماثل؛ نفاذ منتشر متماثل
+isotropic minerals	معادن متساوية الخواص
+isotropic radiator	مشع موحد الخواص
+isotropic, adj	وسط متجانس
+issue	نشرة
+IT Disaster Recovery Plan	خُطَّةُ التَعافِي مِنْ كَوارِثِ تَقْنيةِ المَعْلُوماتِ
+IT platform	برنامج تكنولوجيا المعلومات
+IT service	خدمة تكنولوجيا المعلومات
+IT system (Isolé-Terre system)	نظام IT
+Italian lapel	تصميم إيطالية
+Italian pocket	جيب إيطالي
+Italian skirt length	تنورة إيطالية
+italic capitals	حروف استهلالية مائلة
+Italo collar	ياقة إيطالية
+ITC	المركز الدولي للمنسوجات
+item	بند
+item master	سيد البند
+item under consideration	بند تحت الاعتبار
+iteration method	طريقة تكرار متتالٍ
+iterative impedance	مقاومة متكررة
+itinerant waste buyer	مشتري نفايات متجول
+itta (international tropical timber agreement)	اتفاق دولي للأخشاب المناطق المدارية
+itto (international tropical timber organization)	منظمة دولية للأخشاب الاستوائية (ITTO)
+ITV tester	جهاز الفحص للكشف عن الشوائب
+iucn (international union for conservation of nature)	اتحاد دولي لحفظ الطبيعة
+iucn-categories for nature protection	فئات مناطق حماية الطبيعة حسب الاتحاد الدولي لحماية الطبيعة
+iucn-categories for nature protection - habitat/ species management area (iv)	فئات مناطق حماية الطبيعة حسب الاتحاد الدولي لحماية الطبيعة - منطقة إدارة الأنواع / الموئل (IV)
+iucn-categories for nature protection - national park (ii)	فئات مناطق حماية الطبيعة حسب الاتحاد الدولي لحماية الطبيعة - الحديقة الوطنية (II)
+iucn-categories for nature protection - natural monument (iii)	فئات مناطق حماية الطبيعة حسب الاتحاد الدولي لحماية الطبيعة - المعالم الطبيعية (III)
+iucn-categories for nature protection - protected landscape/ seascape (v)	فئات مناطق حماية الطبيعة حسب الاتحاد الدولي لحماية الطبيعة - محمية المناظر الطبيعية / المناظر البحرية (V)
+IVC logo	علامة الجودة للألياف الصناعية
+ivory timber	خشب عاجيّ
+IWS	الكتابة الدولية العامة للصوف
+IWTO Blue Book	الكتاب الأزرق للجمعية الدولية للصوف
+IWTO Congresses / International Wool Textile Organisation Congresses	مؤتمرات الصوف
+Izmir cotton	قطن إزمير
+Izod test	اختبار آيزود

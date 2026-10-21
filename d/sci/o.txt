@@ -1,0 +1,2737 @@
+O (oxygen)	أ
+o -cyclopropyl- α -( para -methoxyphenyl)-5-pyridinmethanol	حلقي بروبيل - o - (بارا - بتروكسي فينيل) -α بيريديمثانول الميثانول
+O system	نِظامُ ثِيتا
+O,O-diethyl-O-para-(methylsulfinylphenyl) phosphorothioate	كح عضو ] ثنائي إتئيل البييَريمدين -4-إيل - ثنائي الميتيل - فسفوروثيونات 2- ثُنائي إتائيل اميدنو 6- ميتيل البييريميدين -4-إيل - ثنائي الميتيل - فسفوروثيونات
+O,O-dimethyl O-(3-methyl-4(methylthio) phenyl) phosphorothioate	فسفورو تيوات 0-3-متيل 4- (متيل تيو) فنيل 0,0-ثنائي المتيل
+O,O-dimethyl-O-(2,5-dichloro-4-iodophenyl) thiophosphate	jodfenphos
+O,O-dimethyl-O-(4-para-dimethylsulfamoyl) phenyl phosphorothioate	famphur
+O,O-dimethyl-S- { 2-[(1-methylcarbamoylethyl) thio] ethyl} -phosphorodithioate	vamidothion
+O,O-dimethyl-S-(N-methyl-N-formylcarbamoylmethyl) phosphorodithioate	فسفورو ثنائي تيوات- S-(N متيل N فورميل كربامويل متيل)-0,0 ثنائي المتيل
+O,O-dimethyl-S-(α-ethoxycarbonyl)benzyl) phosphorodithioate	phenthoate
+O,O-dimethyl-S-[2(ethythio) ethyl] phosphorothioate	demeton-S-methyl
+O-[2-chloro-1-(2,5-dichlorophenyl)-vinyl] O,O-diethyl phosphorothioate	فسفوروتيوات 0 {2-كلورو-1-2, 5- ثنائي كلوروفينيل) - فينيل} -0,0 - ثنائية الأتيل
+O-electron	إلِكترون «أُو»
+O-network	شَبَكةٌ حَلْقيَّة
+O-ring	فَلْكَةٌ حَلْقيَّة
+O-shell	الغِلافُ الإلِكتروني الخامِس «أُو»
+oak	بَلُّوط، سِنْديان
+oak timber	خشَبُ السِّنْديان
+oak-moth	عث البلوط
+oak-pest	فلوكسرة البلوط
+oakum	مُشَاقَةُ جَلْفَطة
+oar	مِجْذاف، مِجداف؛ جَذَّفَ، جَدَّف، جَدَفَ / مجذاف
+oar blade	صَفْحَةُ المجذاف
+oar lock = row lock	ماسِكةُ المجذاف
+oarsmen	مجذفون
+oasis	واحة
+oasis (pl. oases)	واحَة
+oat	شُوفان، خَرْطال
+oatmeal	دَقيق الشُّوفان
+Obach cell	خليَّة «أوباخ»
+obconic	مَخْروطيٌّ مَقْلوب
+obconical	مخروط مقلوب / مخروط مقلول
+obduction	تراكُبٌ دَسريّ
+obedience	طاعة، إذعان، اِنقِياد
+obelisk	مِسَلَّة / جِذْعُ هَرَمٍ قائِمٍ مُنْتَظَم
+obesity	سِمْنَة، بَدانَة
+obey	أطاعَ، اِمتَثَلَ
+object	شَيْء؛ مَوضُوع؛ هَدَف، غَرَض؛ جِسم، شَيْءٌ مَنْظور؛ اِعترَضَ، عارَضَ، اِمتنَعَ / 1 رِمَازٌ غرضي ؛ 2 غرض ؛ 3 غرض / مَوْضُوع / كائن / شيء / كائِن، شَيْء
+object code	شَفْرةُ الهَدَف، شيفرة هَدفيَّة / رِمَازٌ غرضي
+object computer	حاسُوبُ التنفيذ، الحاسُوبُ الهَدَف / حاسوبٌ غرضٌ
+object database	قاعدة معطيات غرضية
+Object Database Management Group	مجموعة إدارة قواعد المعطيات الغرضية
+object deck	دَكَّةُ (أو رَصَّةُ بِطاقات) الهَدَف
+Object Detection	اكتشاف الأشياء
+object file	ملف غرضي / مفل غرض،ملف غرضي
+object glass = objective	الشَّيئيَّة، عَدَسةُ الشَّيئيَّة
+object language	لُغَةُ الهدَف، اللغةُ المُستَهْدَفة
+object linking and embedding	ربط الأغراض وتضمينها
+Object Management Architecture	بنيان إدارة الأغراض
+Object Management Group	مجموعة إدارة الأغراض
+object model	1 نموذج غرضي ؛ 2 نموذج غرضي ؛ 3 نموذج غرضي
+object module	نسيقة غرضيّة
+Object oriented	غرضي التوجيه
+object point	نُقطةُ الهَدَف، نُقطةُ تقاطُعِ الأشِعَّةِ الوارِدة
+object program	البَرنامَجُ الهَدَف (أو المُستَهْدَف)
+Object Recognition	تَعرُّف على الأشياء
+object request broker	وسيط طلب الأغراض
+object space	حَيِّزُ الجِسم
+Object Tracking	تتبُّع الأشياء
+object wave	المَوجة الشيئيَّة
+object wrapper	مُغَلِّف الغرض
+object, real	هَدَفٌ أو جِسمٌ حَقيقي
+object, virtual	جِسْمٌ افتِراضيّ، هدَفٌ تَقْديريّ
+Object-orientation	غرضية التوجيه
+object-oriented	غرضي التوجه
+object-oriented analysis	تحليل غرضي التوجه / تحليل غرضي التوجيه
+object-oriented database	قاعدة معطيات غرضية التوجه / قاعدة بيانات كائنيّة
+object-oriented design	تصميم غرضي التوجه / تصميم غرضي التوجيه
+object-oriented graphics	بيانيات غرضية التوجّه
+object-oriented interface	واجهة غرضية التوجّه
+Object-oriented language	لغة غرضية التوجيه
+object-oriented operating system	نظام تشغيل غرضي التوجّه
+object-oriented programming	برمجة غرضية التوجه / برمجة كائنيّة
+object-relational server	مخدِّم غرضي علاقاتي
+objection	اِعتراض، مُعارَضة، اِمتناع
+objectionable	بَغيض، مُثيرٌ لِلاعتِراض؛ غيرُ مَرغوبٍ فيه
+objective	مَوضوعيّ، هادِف، واقِعيّ؛ هَدَف، غَرَض، غاية / هدف / شيئية
+objective analysis	تَحْلِيلٌ مَوْضوعِيّ
+objective forecast	تنبؤ جوي موضوعي
+Objective Function	دالة الهدف / دالَّةٌ مَوْضوعِيَّة
+objective lens	عَدَسةُ الشيئيَّة / عدسة الهدف
+objective noise-meter	مِقياسُ الضجَّةِ الشيئي
+objective observation	مُلاحَظة مَوضوعيَّة
+objective prism	مَنْشورُ الشَّيئيَّة
+objective probabilities	احْتِمالاتٌ مَوْضوعِيَّة
+objective sound meter	مِقياسُ الصَّوت الشَّيئيّ
+objective, achromatic	شَيئيَّة لا لَونيَّة
+Objective-C	[لغة] Objective-C
+objectivity	مَوضوعيَّة؛ حَقيقة موضوعيَّة
+Objects	الأهداف
+oblate	مُفَلْطَح، مُنبعِجٌ عندَ القُطْبَيْن / مُفَلْطَح / مفلطح
+oblate ellipsoid	مُجَسَّمٌ إهليلَجيٌّ مُفَلْطَحُ القُطْبَيْن / مُجَسَّمٌ ناقِصِيٌّ مُفَلْطَح
+oblate spheroid	كُرَوانيّ مُفَلْطَح / كُرَوانِيٌّ مُفَلْطَح
+oblate spheroidal coordinate system	مَنْظومةُ إحْداثِيَّاتٍ كُرَوانِيَّةٍ مُفَلْطَحة
+oblateness	فَلْطَحة؛ درجةُ التفلطُح / تَفَلْطُح
+obligate	أجبَرَ، ألْزَمَ؛ إجباريّ، إلزامي؛ مُجْبَر، مُلْزَم
+obligate apomictic	لا تزاوجيّ إجباريّ
+obligate parasite	طفَيليٌّ مُجْبَر
+obligation	اِلتِزام، تعَهُّد، عَهْد؛ سَنَد، صَكّ؛ مِنَّة، مَعروف
+obligatory	إلزاميّ، مُلزِم، إجباريّ
+obliging	لَطيف، كَريم، مُحِبٌّ لِلمُساعَدة
+oblique	مائِل، مُنحَرِف، مَوروب / منحرف / منحرف،مائل / مائل / مائل، منحرف
+oblique aerial photograph	صورة جَوِّية مائِلة (بزاويةٍ مُحَدَّدة)
+oblique angle	زاوية مائِلة / زاوِيةٌ مائِلة
+oblique arch	قَوسٌ مائلُ المِحوَر
+oblique axis	مِحْوَرٌ مائل
+oblique bedding	تطَبُّق مائل
+oblique circular cone	مَخْروطٌ دائِرِيٌّ مائِل
+oblique circular cylinder	أُسْطُوانةٌ دائِرِيَّةٌ مائِلة
+oblique cone	مَخْروط مائل
+oblique coordinates	إحداثِيّات مائِلة / إحْداثِيَّانِ مائِلان
+oblique drawing	رَسْمٌ مائل
+oblique fault	صَدْعٌ مائِل / صَدْع مائل، صدع منحرف / صدع مائل، صدع منحرف
+oblique gridded photograph	صورة مائلة شبكية
+oblique illumination	إضاءة مائِلة
+oblique impact	صَدْمة مائِلة، صَدمٌ مائل
+oblique incidence transmission	إرسالٌ مائِلُ السُّقوط
+oblique joint	وُصْلَة زاوِيَّة، وُصْلَة مائِلة
+oblique line	خَطّ مائل / خط مائل
+oblique lines	خُطوطٌ مائِلَة
+oblique offset	بُعْدٌ أُفُقِيٌّ مائل (بالنسبةِ لِخَطِّ المَسْح)
+oblique parallelepiped	مُتَوازي سُطوحٍ مائِل
+oblique photograph aerial	صورة جوية مائلة
+oblique plane	سَطْحٌ مائل، مُستَوٍ مائل / مستو مائل
+oblique prism	مَوْشورٌ (مَنْشورٌ) مائل / منشور مائل / مَوْشورٌ مائِل
+oblique projection	إسقاطٌ مائل؛ مَسْقَطٌ مُنحَرِف / اسقاط مائل
+oblique pyramid	هَرَمٌ مائِل
+oblique section	قِطاعٌ مائِل / مقطع منحرف، مقطع مائل / مقطع منحرف أو مائل
+oblique septum	حاجز مائل
+oblique slip fault	صَدْعٌ اِنزِلاقيّ مائِل
+oblique spherical triangle	مُثَلَّثٌ كُرَوِيٌّ مائِل
+oblique stroke	عَارِضَةٌ مَائِلَة
+oblique strophoid	سْتْروفوئيد مائِل
+oblique triangle	مُثَلَّثٌ مائل / مُثَلَّثٌ مائِل (غَيْرُ قائِم)
+oblique triangular prism	مَوْشورٌ مُثَلَّثِيٌّ مائِل
+oblique valve	صِمام مائل
+oblique visibility; slant visibility	رُؤْيَةٌ مائلة
+obliquity	مَيْل، مَيَلان / مَيل
+obliquity factor	عامِلُ المَيْل
+obliquity of ecliptic	ميل (ال...) الأعظم
+obliquity of the ecliptic	مَيْلُ دائِرة البُروج / ميل الدائرة الكسوفية
+obliterate	طَمَسَ، أزالَ الأثرَ، اِنْطَمَس
+obliterate (to)	طمس
+obliterating paint	دِهانُ طَمْسٍ (بِطانيّ)
+obliteration	انطماس
+obliteration of phloem	انطماس اللحاء
+obliteration of sieve tubes	انطماس الأنابيب الغربالية
+oblong	مُستَطيلُ الشَّكل، مُتَطاوِل؛ مُستَطيل، شَكْلٌ مُستَطيل
+oboe	مِزْمار؛ أُوبو
+obovoid	بَيْضيٌّ مَقْلوب
+obpyramidal	هَرَميٌّ مَقلوب
+obscuration	حَجْب
+obscure	مُظلِم، مُعتِم؛ غامِض، مُبْهَم؛ أظلَمَ، عَتَّمَ؛ أبهَمَ
+obscure radiation	إشعاعٌ غيرُ مَنْظور
+obscured glass	زُجاجٌ مُعْتِم، زُجاجٌ غَبِشٌ (شَفيفٌ غيرُ شَفّاف)
+obsequent	عكسِيّ؛ مَجْرًى مُضاد أو عكسِيّ
+obsequent stream (or river)	مَجْرًى مُضادّ، نَهرٌ مُنْقلِب
+Observability	قابلية الرصد
+observance	مُراعاة؛ مُراقَبَة، رَصْد؛ مُلاحَظة
+observant	سَريعُ الملاحظة، شَديدُ الانتباه
+observation	مُراقَبة، مُلاحَظة، رَصْد؛ قوَّة المُلاحَظة؛ مُراعاة / مُشاهَدة / ملاحظة
+observation (with prefix of time)	رَصْد، رَصْدة
+observation airplane	طيّارةُ مُراقَبة
+observation balloon	مُنْطاد مُراقَبة
+observation error	خَطأ الرَّصْد، خَطَأُ المُشاهَدة
+observation platform	مِنَصَّةُ مُراقَبة
+observation post	مَركَزُ الرَّصْد
+observation station	محَطَّةُ رَصْد
+observation tower	بُرْجُ مُراقَبة
+observation well	بئر الرَّصْد، بِئْرُ مُراقَبة
+observation, radar	رَصْدٌ راداريّ
+observational network	شَبَكةُ الرَّصْد
+Observations	ترصدات، ملاحظات / مشاهدات
+observatory	مَرْصَد / مرصد / مرصد (فلكي)
+observe	لاحَظَ، راعَى؛ رَصَدَ
+observed data	المُعطَياتُ المَرصودة (أو المُلاحَظة)
+observed radio bearing	اِتجاهُ الإشاراتِ اللاّسِلكية المَرصود
+observer	مُراقِب، راصِد / راصد
+observer's zenith	سمت المراقب
+obsession	وَسْواس، وَسْوَسة، هاجِس
+obsidian	السَّبَج / أبسيدي / أوبيديان
+obsidian lava	لابَة سَبَجِيَّة
+obsolescence	تقادُم، عتَاقة
+obsolescence-free	لا يَعْتُقُ، لا يَعتريهِ التقادُم
+obsolescence-prone	عُرْضةٌ للتقادُم والعِتْق
+obsolescent	آيِلٌ إلى التقادُم والإهمال
+obsolete	مَهْجور، عَتيق، بَطَلَ استِعمالُه / متروك، مبطًل
+obsolete vessel	سفينة من طراز قديم
+obstacle	عَقَبة، عائِق، حائِل، مانِع، حاجِز
+obstacle light	ضَوءُ الحاجِز
+obstetrics	طبُّ التوليد
+obstruct	عَرقَلَ؛ سَدَّ، زحَمَ، عاقَ
+obstructed	مَعوق، مَسْدود؛ مَحْجوب
+obstruction	سَدٌّ، عَرْقَلة، اعتِراض؛ انْسِداد؛ حاجِز، مانِع، عائِق / سَدٌّ، عائق / سد عائق
+obstruction buoy	عامَةُ العائِق
+obstruction light	نُورُ الحَواجِز، ضَوءُ العَوائق (الأحمر)
+obstruction marker	علامة خطر
+obstruction markers	مَعالِمُ العَوائِق (في المَطارات)
+obtain	أحرزَ، نالَ، حَصَل على
+obtain (to) the fix	حدد نقطة
+obturate	سَدَّ، غَلَقَ، حَبَسَ
+obturation	سَدٌّ، غَلْق، اِنسِداد؛ مَنعُ تَسَرُّبِ الغاز (عِندَ انطلاقِ القَذيفة)
+obturator	حابِسَة، سِدَاد؛ مِحْبَس
+obturator pad	لَيْنة المِحبَس
+obturator ring	حَلْقة المِحبَس
+obtuse	مُنفَرِج؛ كَلِيل، غيرُ حادّ؛ مَكْتُوم / منفرج
+obtuse angle	زاوَية مُنفَرِجة / زاوية منفرجة / زاوِيةٌ مُنْفَرِجة
+obtuse sound	صَوتٌ مَكْتوم
+obtuse triangle	مُثَلَّث مُنفَرِج / مثلث منفرج / مُثَلَّثٌ مُنْفَرِجُ الزاوية
+obverse	مُواجِه، مقابِل، عَكْسِي؛ وَجْهٌ مُقابِل، جانِبُ الشيءِ الآخرُ
+obviate	تحاشَى، تجَنَّبَ
+obvious	ظاهِرٌ، واضِح، بَيِّن
+obvolute	مُتَراكِب، مُتَداخِل، مُتَلافّ
+OC curve	مُنْحَني OC
+OC3	[دارة] OC3
+Occam's Razor	نصل أوكام
+occasion	فُرْصة، مُناسَبة؛ حادِث؛ أحدَثَ، سبَّبَ / فرصة، مناسبة
+occasional	اِتِّفاقي، عَرَضِيّ؛ حِيني، اِقتِضائي(لِمُناسبةٍ مُعَيَّنة)
+occasional light	ضوء عرضي
+occasional survey	مسح عرضي
+occasionally	أحيانًا، مِن حينٍ لآخر
+occidental	غَرْبيّ، خاصٌّ بنصفِ الكُرة الغَرْبي
+occipital	قَذاليّ؛ العَظْمُ القَذاليّ
+occipital condyle	لقمة قفوية، لقمة قذالية
+occlude	سَدَّ، حبَسَ، اِحتَبَس؛ تشَرَّبَ (أو اِحتبس) بالاِمتزاز / يسُدً
+occluded	محتبس
+occluded depression	مُنْخَفَضٌ جوي ممتلئ
+occluded front	جَبْهة مَسْدودة، جَبْهة مُرتَجَة / جَبْهَةٌ ممتلئة
+occlusion	غَلْق، إغلاق؛ إطباق؛ اِنسِداد؛ إِرتاج؛ احتِباس / احتباس / امتلاء
+occlusion of gases	اِحتباسُ الغازات؛ اِحتواءُ الغازات (في البِلَّورات)
+occulation	استتار
+occult	سَتَرَ، حَجَب، كَسَف، اِحتَجَب، اِنكسفَ؛ مُستَتِر، مُستَخْفٍ؛ غامِض
+occult line	خَطٌّ مُستَخفٍ (لا يظهرُ في الشكل النهائي)
+occult mineral	مَعدِن مُستَخْفٍ (يظهَرُ بالتَّحليلِ الكِيماويّ فَقَط) / معدن خفي
+occultation	اِستِتار، اِحتِجاب؛ احتِجاب، كُسوف / احتجاب، كسوف
+occulting light	ضوءٌ مُحتَجِب (أو مُستَتِر) / ضوء محتجب
+occupant	شاغِل، مُقِيم؛ مُحتَلّ؛ مالِكٌ بِوَضْع اليَد
+occupation	اِحتِلال؛ إشغال؛ حِرْفَة، مِهنة، صَنْعَة / المهنة
+occupational disease	مَرَضٌ مِهْنِيّ
+occupational hazards (or risks)	أخطارُ المِهْنة، مَخاطِرُ العمَل
+occupational therapy	مُعالَجةٌ عَمَلانيَّة
+occupied	مُحتَلّ؛ مَشْغول
+occupy	شَغَلَ؛ اِستَغرقَ؛ اِحتَلّ
+occur	حَدَثَ، جرَى، حَصَلَ؛ وُجِدَ، (تواجَد)
+occurance of natural gas	وجود غاز طبيعي
+Occurence	حدوث
+occurence (minera	وجود معدني
+occurrence	حُدوث؛ وُجود، تَواجُد / وُرُود / حدوث / وجود
+occurrence (mineral…)	وجود معدني
+occurrence of natural gas	وجود غاز طبيعي
+occurrence of oil deposits	وجود رواسب بترولية
+ocean	مُحيط، أوقيانوس / محيط
+ocean basin	حَوضُ المُحِيط / حوض المحيط
+ocean bill of lading	سند شحن بحري
+ocean carriage	نقل بحري
+ocean carrier	ناقل بحري
+ocean currents	تَيّارات مُحيطيَّة
+Ocean Data Acquisition System (ODAS)	نظم تجميع البيانات الاوقيانوغرافية (أوداس)
+ocean deeps	أعماق المحيطات
+ocean deposits	رواسب المحيطات / رواسب الفحميات
+ocean depths	جُبُّ المُحيط
+ocean dumping	إلقاء النفايات في المحيط
+ocean freight	شحن بحري
+ocean going ship	سفينة أعالي البحار
+ocean going tug	قاطرة أعالي البحار
+ocean navigation	ملاحة أعالي البحار
+ocean shipping	نقل بحري
+ocean station vessel	سفينة أرصاد جوية
+ocean vessel	سفينة أعالي البحار
+ocean weather station	مَحَطَّة رَصْدَ جَوّيّةٌ مُحِيطِيَّة / محطة جوية محيطية
+oceanic	محيطي
+oceanic crust	القشرة المحيطيَّة
+oceanic deposits	رَواسبُ مُحيطيَّة
+oceanic ridge	حَيْدٌ مُحيطيّ
+oceanicity; oceanity	مُحِيطِيَّةٌ، أُقْيانُوسِيّة
+oceanite	أوشنايت
+oceanographic submersible	غواصةُ أبحاث مُحيطيَّة
+oceanographic survey	مسح أقيانوغرافي
+oceanography	عِلْمُ المُحيطات، الأوقيانوغرافية / علم المحيطات / جغرافية المحيط، أقيانوغرافيا
+oceanology	علم البحار
+oceans	محيطات
+ocellar structure	بنية عينية
+ocellus	عُيَيْنَة
+ocher codon; ochre codon	رامزة 'أوكر'
+ocher mutation; ochre mutation	طفرة 'أوكر'
+ocher suppressor; ochre suppressor	كابت 'أوكر'
+ochre = ocher	مُغْرَة
+ochre, hematite	مُغْرَة حَمراء
+ochre, lemonite	مَغْرة صَفراء
+ochre; ocher	مُغْرَة / مغرة
+ochreous	أَمْغَر / مغرى
+OCR	تَعرُّف المحارف ضوئياً
+OCR = Optical Character Recognition	التعرُّف الضوئي على الرموز
+octa (or okta) scale	مقياسُ التغيُّم
+octa-	بادِئة مَعناها: ثَمانية، ثمانِي
+octad	ثُمانِيَّة
+octagon	مُثَمَّن، ثُمانيّ / مُثَمَّن
+octagonal	مُثَمَّن (الزوايا أو الأضلاع)
+octagonal prism	مَوْشورٌ مُثَمَّن
+octagone	ثماني
+octahedral	ثُمانيُّ السطوح، ذو ثَمانيةِ سُطوح / ثماني الأوجه
+octahedral cleavage	تشقق ثماني
+octahedral graph	بَيانُ ثُمانِيِّ وُجوه
+octahedral group	زُمْرةٌ ثُمانِيَّةُ الوُجوه
+octahedral system	النِّظامُ الثُّمانيُّ الأوجُه (لِلبَلُّورات)
+octahedron	ثُمانيُّ الأوجُه؛ ثماني الأوجه (البلوريَّة) / مُتَعَدِّدُ وُجوهٍ ثُمانِيّ / ثماني الأوجه
+octahedron; octahedrous	ثماني الأوجه
+octal	ثُمانيّ / ثماني
+octal base	قاعِدة (صِمامٍ) ثُمانيَّةُ المُلامِسات
+octal digit	رَقْمٌ ثُمانِيّ
+octal notation	الترميز الثُّماني
+octal number system	نِظامُ العَدِّ الثُّمانِيّ
+octamerous	ثُمانيُّ القِطَع، ثُمانيُّ الأجزاء
+octane	أُوكتان
+octane engine	مُحَرِّكُ قياسِ الأوكتانيَّة
+octane number	العَددُ الأُوكتانيّ
+octane rating	دَرَجةُ الأوكتان، عِيارُ الأُوكتان؛ تَقديرُ درجة الأوكتان
+octane rating test	اِختبار التقديرِ الأوكتاني
+octane rating unit	وحدة التقدير الأوكتاني
+octangle	ثُمانيُّ الزوايا؛ مُثَمَّن
+octangular	ثُمانيُّ الزوايا
+octans	كوكبة الثمن
+Octans (The Octant)	الثُّمن
+octant	ثُمْنِيَّة / ثُمُنُ [فَضاء] / ثُمْنِيّ (ثمن الدائرة)
+octant, gyroscopic	ثُمْنِيَّة جيرُوسكوبيَّة
+octavalent	ثُمانِيُّ التكافُؤ
+octave	ثُمانيّ؛ جَواب (النَّغْمَة)؛ طَبقة / ثمان
+octave pressure level	مُستَوى الضغطِ الجَوابيّ
+octet	ثُمانيَّة / ثُمانيّة / ثمانية
+octet structure	بِنْيَة ثُمانِيَّة
+octillion	أكْتِلْيُون / أُكْتِلْيون
+October	أُكْتوبر، تشرين الأوَّل / تشرين الاول
+octode	أكْتُود، صِمامٌ ثُمانيُّ الالِكترودات (المَساري)
+octohedron	ثماني الأوجه
+octomino	دومينو ثُمانِيّ
+octonary number system	نِظامُ العَدِّ الثُّمانِيّ
+octonions	ثُمانِيَّات
+octoploidy	ثمانية الصيغة الصبغية
+octopods	ثماني الأرجل، أخطبوط
+octopus	أُخطبُوط / أخطبوط
+octosepalous	ثماني السبلات
+octospermous	ثماني البذور
+octroi tax	رَسْمُ دُخول، ضَريبةُ إدخال
+octuple	أكثَرُ بثمانيةِ أضعاف؛ ضاعَفَ ثَماني مَرّات؛ ثُمانيّ، مُضاعَفٌ ثُمانيّ
+octuple phantom circuit	دارةٌ ثُمانِيّةٌ وَهميَّة
+octupole	ثُمانية الأقطاب
+oculagravic illusion	خداع بصري جاذبي
+ocular	عَيْنِيّ، مُقْلِيّ / عينية
+ocular micrometer	ميكرومِتر عَيْنِيّ / ميكرومتر عيني
+ocular spot	بقعة عينية
+ocularist	صانِعُ عُيونٍ اصطِناعيَّة
+oculist	طَبيبُ عيُون
+oculomotor	مُحَرِّكُ المُقْلَة
+oculomotor nerve	عصب محرك للعين
+OCX	تحكم في OLE حسب الطلب
+OD (oculus dexter)	العينُ اليُمْنى
+OD (outside diameter)	القُطْر الخارِجي (لِلأُنبوب)
+ODBC	ترابطية قواعد المعطيات المفتوحة
+ODBMG	مجموعة إدارة قواعد المعطيات الغرضية
+odd	فَرْدِيّ، وَتْريّ (غيرُ شَفْعِيّ)؛ شاذّ، غَريب / فردي
+odd chromosome	صبغيّ ثانٍ، صبغيّ فرديّ
+odd function	دالَّة فَرْديَّة / دالة فردية / دالَّةٌ فَرْدِيَّة
+odd molecules	جُزَيئاتٌ فَردِيَّةُ إلِكتروناتِ التكافُؤ
+odd node	عُقْدةٌ فَرْدِيَّة
+odd number	عدَدٌ وَتْرِيّ، عددٌ فَرديّ / عدد فردي / عَدَدٌ فَرْدِيّ
+odd number theorem	مُبَرْهَنةُ الأعْدادِ الفَرْدِيَّة
+odd parity	تكافؤ وَتْريّ / نديّة وِتْرية
+odd permutation	تَبْديلٌ فَرْدِيّ
+odd polynomial	حدودية فردية
+odd vertex	رَأْسٌ فَرْدِيّ
+odd-even check	تَدْقيقٌ وَتْريّ شَفْعيّ
+odd-even nuclei	نَوَيّاتٌ فَرْديَّةٌ زَوجيَّة
+odd-leg calipers = odd legs	قدمةٌ شاذةُ الساق؛ فِرجارٌ مُشَبَّه
+odd-odd nuclei	نَوَياتٌ ذرِّية فَرْدِيَّةٌ فَرْدِيَّة
+odds	أرجَحِيَّة، فائِدة؛ فَرْق، تَفاوُت
+odds ratio	نِسْبةُ الأرْجَحِيَّة
+odds, at	على خِلاف
+odo(u)rant oil	زَيتٌ فَوّاح
+odo(u)rless	عديمُ الرائحة
+odograph	أُودُوغراف، راسِمةُ المَسار
+odometer	أودُومِتر، عَدّادُ مَسافاتٍ بَكَريّ؛ أُودومِتر، بَكَرةُ مَسافات
+odontograph	أُودنتُوغراف
+odontolite	أُودُنتُوليت
+odor	رائحة
+odor (or odour)	رائِحة، فَوْح
+odorant gas	غازٌ رَوِح (أو فَوّاح)
+odoriferous	رَوِح، فَوّاح
+odorimeter	مِقياسُ شِدَّةِ الرَّوائح واستِدامَتِها
+odorimetry	قياسُ الروائح
+odorless	عديم الرائحة
+odoroscope	مِكشافُ الروائح
+odour	رائحة
+oedema	وَذَمة، وَذَمةٌ استِسْقائيَّة
+Oedipus complex	عُقْدةُ «أوديپ»
+OEM	مُصنّع معدّات أصلي
+oersted	أُورستِد، اِيرستِد
+Oersted’s experiment	تَجْربَةُ «أُورْستِد»
+oesophagus = esophagus	المَرِيء
+oestrus = estrus	وِداق، وَدَقان
+off	جانِبًا، بَعيدًا، خارِجًا؛ مُغلَقًا، مُطْفَأ؛ مَفْصولاً، مَقطوعًا، غيرُ مَوصول / مغلق
+off delay	تعوُّق القَطع
+off punch	ثَقْبٌ مُجانِب، ثَقْبٌ حائِد
+off shore	بعيدا عن الشاطئ
+off specifications	مُغايِرٌ لِلمُواصَفات، غيرُ مُطابِقٍ للمُواصَفات
+off state	حالة القَطع (للمفتاح أو الدارة الكهربائية)
+off type	نمط شارد
+off- line processing	معالجةٌ مُنْفَصلة
+off-air alarm	نذير انقطاع الاستقبال
+off-centre	حائدٌ أو بعيدٌ عن المَركَز
+off-colour	حائِلُ اللون
+off-course	مُنحَرِفٌ عن الاتجاه الصحيح
+off-course correction	تَصْحيحُ انحِراف الاتِّجاه
+off-duty	خارِج أوقات العَمَل
+off-hook signal	إشارةُ رَفعِ السمّاعة
+off-lap	تراجُع، تراكُبٌ اِنحِساريّ
+off-line	مُنفَصِل، مَفْصول؛ حائِد، مُجانِب / غير متصل بالشبكة
+Off-line system	نظام غير متصل
+off-load	أفرَغَ، أنزَلَ الحِمْل
+off-loading station	مَحَطَّةُ تَفْريغ
+off-net station	مَحَطَّةٌ خارِجَ الشَّبَكة
+off-peak	دُونَ الذُّرْوة؛ في غيرِ وَقْت الذُّروة
+off-peak load	حِملٌ دُونَ الذُّروة؛ حِمْلٌ في غير وَقتِ الذُّروة
+off-phase	خارِجٌ عن الطَّور
+off-position (of a switch)	وَضْعُ القَطْع (للمِفتاح أو المِقلاد)
+off-production	مُتوَقِّفٌ (مُؤقَّتًا) عن الإنتاج
+off-season	خارِجَ المَوسِم؛ في غيرِ مَوسِمِه
+off-time	توَقُّفُ الاستِراحة؛ زمنُ أو مُدّةُ التوقُّف
+Off-topic	خارج الموضوع
+offence	إساءة، اِعتِداء؛ مُخالَفة، جُنْحة
+offend	أغضَبَ، أغاظَ، ضايَقَ، أساءَ إلى
+offender	مُسِيءٌ؛ مُخالِف
+offense = offence	إساءة؛ مُخالَفة
+offensive	عُدْوانيّ، هُجوميّ؛ كَرِيه، مُزعِج؛ هُجوم؛ مَوقِفُ الهُجوم
+offensive goods	سلع مؤذية، سلع ضارة
+offensive industry	صِناعة كَريهة
+offer	عَرضَ، قدَّمَ، أبدى؛ عَرْض، عَطَاء؛ هَدِيَّة
+Offer Prices	عرض الأسعار
+offhand	فَورِيّ؛ مُرتَجَل، غيرُ مَدْروسٍ بعِناية
+office	مَنْصِب، وَظيفة؛ مَكتَب، دائِرة
+office automation	مَكْنَنةُ المكاتِب / أتمتة مكتبية (حوسبة مكتبية)
+office expenses	مَصاريفُ المكتب
+office hours	ساعاتُ العمَل، أوقاتُ الدَّوام
+office work	عَمَلٌ مكتَبيّ
+office, central	مَكتَب مَركَزيّ
+office, head	المكتبُ الرئيسي
+office, public call	مَركَزُ تِليفون لِلعُموم
+office, toll	مَكْتَبُ تَحْصيل
+officer	مُوظَّف؛ ضابِط / ضابط
+officer of the deck	ضابط السطح
+officer of the watch	ضابط المناوبة
+officer, liaison	ضابِطُ ارتباط
+officers' berth	غرفة الضابط
+officers' quarters	أماكن إعاشة الضباط
+officers' room	غرفة الضباط
+offices, good	مَساعٍ حَميدة
+official	مُوَظَّف، مُستَخْدَم؛ رَسْميّ، قانونيّ
+officially	رَسْميًّا، بِصُورةٍ رَسْميَّة
+officinal	مَخْزَنيّ، جاهِز (لا يُرَكَّبُ في الصيدلية)؛ طِبِّيّ؛ نَباتٌ طِبِّيّ
+offlap	ترسب تقهقري
+offline	1 مفصول [عن الخط] ؛ 2 مفصول [عن الشبكة] / مَفْصُول / غير متصل
+Offline Feature Store	مخزن الخصائص التاريخية
+Offline Inference	استنتاج غير مباشر
+offline navigator	ملاّح مفصول [عن الشبكة]
+offline processing	مُعَالَجَةٌ مُرْجَأَة
+offline reader	قارئ مفصول [عن الشبكة]
+offline storage	وسط خزن مفصول [عن الخط]
+offload	يحمل عن، يقاسم الحمل
+offscouring	غُثاء، كُشاطة؛ حُثالة، نُفاية
+offset	حَيْد، إزاحة؛ مُعادَلة، مُقابَلة؛ مُجانَبة، حَيَدان، زَيَحان؛ تَحْويلَة؛ لَيّةُ مُجانَبَة (تُبقي الفرعَ مُوازيًا للأصل)؛ أُوفْسِت؛ طِباعة بالأُوفسِت؛ جانَبَ، حايَدَ؛ وازَنَ، عادَلَ؛ بَدأ، شرَعَ؛ حائِد، مُجانَب، مُجَنَّب؛ مُعادَل، مُوازَن / زَيَحان
+offset bit	لُقْمةُ حَفرٍ لا مُتمَركِزَة، مِحفارٌ مُجَنَّب (ثَقبُه أَوسعُ منه)
+offset fitting	تَركيبةٌ مُجنَّبة، وُصلَةٌ مُجانَبَة (لتلافِي حاجزٍ ما)
+offset pipe	أُنبوبٌ ذو وُصلةٍ مُجانَبَة، ماسورةٌ مُجَنَّبَة
+offset printing	طِباعةُ الأُوفْسِت
+offset rod	شاخِصُ مُجانبَة
+offset screwdriver	مِفَكٌّ مُجَنَّب
+offset spanner	مِفتاحُ رَبْطٍ مُجَنَّب (ذو وُصْلةٍ مُجانَبَة)
+offset well	بِئرٌ مُجانِبة (لِلحُدود)؛ بئرٌ مقابِلَة أو مجاوِرَة
+offset, in-line	البُعْدُ بينَ مكانِ التفجير والسمّاعة
+offshoot	فَرْع، شُعْبَة / فَرْع / فرع
+offshore	مُشاطِئ / بعيد عن الشاطئ، عرض البحر
+offshore area	مِنطَقةٌ مُشاطِئة
+offshore bar; barrier beach	حاجز قرب شاطئي
+offshore deposits	رَواسِبُ غَمْريَّة مُشاطِئة
+offshore dock	حَوضٌ مُشاطِئ
+offshore drilling	حفر في عرض البحر
+offshore drilling platform	مِنَصَّةُ الحَفْرِ المُشاطِئ
+offshore fisheries	مصايد أعالي البحار
+offshore foundations	منشآت بعيدة عن الشاطئ
+offshore island	جزر في عرض البحر
+offshore islands	جزر في عرض البحر
+offshore lighthouse	منارة داخل البحر
+offshore navigation	ملاحة بعيدة عن الشاطئ
+offshore oil production platform	منصة إنتاج النفط البحري
+offshore petroleum reserves	مخزونات نِفطية في قاع البحر / مخزنات بترولية في قاع البحر
+offshore platform	مِنَصَّة (غَمْريَّة) مُشاطِئة
+offshore well	بِئر غَمْريَّة مُشاطِئة، بئر بحريَّة
+offshore wind	ريح بحرية
+offside	الجانِبُ البَعيد؛ الجانب الأيمن (من الطريق أو المركبة أو الحيوان)
+offspring	نَسْل، نِتاج / نسل
+offstructure	خارج البنية
+offtake	مَسْرَب، مُنطَلَقُ تَصْريف؛ خَطُّ (أنابيب) السَّحْب
+ogdoad	ثُمانِيَّة
+ogee	مُنْحَنٍ مُتَعاكِس؛ حليةٌ مِعمارية متعاكسة الاِنحناء
+ogee (or ogival) arch	قَنْطَرةٌ مُتعَاكِسة
+ohm	أُوم
+ohm mile	مِيلٌ أُومِيّ
+ohm, acoustical	أُومٌ صَوتي
+ohm, international	أُوم دوليّ
+ohm, legal	أُومٌ قانُوني
+ohm-centimeter	أُوم سنتيمتر
+ohmage	المقاوَمة الأُوميَّة، المقاوَمة بالأُوم
+ohmic contact	تلامُسٌ أُومِيّ
+ohmic drop	الهُبوطُ الأُومِيّ (في الجُهد الكَهربائي)
+ohmic loss	الفَقْدُ الأُومِيُّ
+ohmic resistance = true resistance	مُقاوَمة أُومِيَّة
+ohmmeter	أومِّتر، مِقياسُ الأُوم
+Ohm’s law	قانُون «أُوم»
+ohnos hypothesis	فرضية 'أونوس'
+oil	زَيْت؛ زَيْتُ (نَفْط أو نِفْط)، بِتْرول؛ زيَّتَ، زَلَّقَ / نِفْط، بترول / بترول خام، نفط / نفط، زيت / زيت
+oil (crude)	نفط خام
+oil (crude...)	نِفط خام
+oil (or petroleum) geology	جِيولوجية الزيت
+oil absorption	اِمتصاصُ الزيت
+oil accumulation	تجَمُّع الزيت، مَكْمَنٌ نَفْطيّ / تراكُم نِفطي / تراكمات نفطية
+Oil and Gas Extraction	استخراج النفط والغاز
+oil baffle	مِصَدُّ الزَّيت، حاجِزٌ صادٌّ للزيت
+oil barge	ماعون نفط، ناقلة نفط، خزان نفط
+oil base	قاعِدة زَيتيَّة؛ زَيتيُّ القاعِدة
+oil basin	حَوضٌ نفطيّ / حوض نِفطي / حوض بترولي
+oil bath	مَغْطِسٌ زيتي، حَمّامُ الزيت
+oil bath air filter	مُرشِّح هَواءٍ ذو حَمّامٍ زَيتيّ
+oil bearing strata	طَبَقاتٌ حاوِيةٌ لِلنَّفط
+oil belt	مِنطَقة نَفْطيَّة، نِطاقٌ نفطِي
+oil black	سِناجُ الزيت (أسوَدُ الكَربون)
+oil boom	مرفأ عائم
+oil box	عُلْبة الزيت
+oil buffer	مُخَمِّد زَيتي، مُخَفِّفُ صَدَمات زَيتيّ
+oil bulk - ore ship (OBO ship)	سفينة زيت وخام صب
+oil bunker	ناقِلةُ زَيت؛ خَزّانُ الزيت
+oil burner	حاروقٌ زَيتيّ، مَوقِدٌ نَفْطيّ
+oil cake	كُسْب
+oil canal	قناة زيتية
+oil canister	عُلْبة الزيت
+oil cargo	شحن النفط، شحن الزيت
+oil carrier	ناقلة زيت، حاملة نفط
+oil catcher (or trap)	مَصْيَدةُ الزيت
+oil cavity	تجويف زيتي
+oil chamber	حُجْرة الزيت
+oil chamber plug	سِدادُ حُجْرة الزيت
+oil channel	مَجْرى الزيت، قَناةُ الزيت
+oil circuit breaker	قاطِعُ دارةٍ زيتي
+oil cleaner	مُنَظِّفٌ زَيتي
+oil cock	صُنْبور الزيت
+Oil Coke	فحم البترول
+oil collector	مُجَمِّعُ الزيت
+oil column	عَمودُ الزيت
+oil company	شَرِكة زَيت
+oil concession	اِمتِيازٌ بِتروليّ
+oil connection	مأخَذُ الزيت؛ وُصلةُ الزيت
+oil consumption	اِستِهلاك الزيت
+oil container	وِعاء الزيت
+oil contents gauge	مِقياسُ مُحتَوى الزيت
+oil control ring	حَلْقةُ ضَبْط الزيت
+oil cooler	مُبَرِّدُ الزيت
+oil cooling	التبريدُ بالزيت؛ تَبْريدُ الزيت
+oil cup	مِزْيَتة، قدَحُ الزيت
+oil cushion	وِسادة زَيتيَّة (لِتَلْطيف الصَّدَمات)
+oil damping	المُضاءلةُ بالزيت
+oil dashpot	وعاءُ كَبْحٍ زيتي
+oil deflector	حارِفَةُ الزيت
+oil delivery tubes	أنابيبُ وُرودِ (أو توصيل) الزيت
+oil deposit	راسب نِفطي / راسب نفطي
+oil deposits	مَكامنُ الزيت
+oil derrick	بُرْجُ حَفْر الزيت
+oil dilution	تَخْفيفُ الزيت
+oil dilution valve	صِمامُ تَخْفيفِ الزيت
+oil discharge duct	قَناةُ تَصْريف الزيت
+oil discharging terminal	محطة نهائية لتفريغ النفط
+oil dispenser	مُوَزِّعُ الزَّيت
+oil distillation	تَقْطيرُ الزيت
+oil distillation heater	مُسَخِّنُ تَقْطير الزيت
+oil distribution	تَوزيعُ الزيت
+oil distributor	مُوزِّعُ الزيت
+oil drain	مَصْرِفُ الزيت؛ اِستِصْفاءُ الزيت
+oil drum	برميل زيت
+oil duct	قناةُ الزيت
+oil ducts	قنوات زيتية
+oil emulsion	مُستَحلَبٌ زيتيّ
+oil engine	مُحرِّك زَيتيّ
+oil escape valve	صِمامُ انفِلات الزيت
+oil exploration	التنقيبُ عن النفط
+Oil Export	الصادرات النفطية
+oil exudation	نَزٌّ نَفْطيّ
+oil feed	تَغْذيةٌ بالزيت
+oil feeding reservoir	خَزّان التغذية بالزيت
+oil felt pad	لَيْنَةُ لُبّاد زَيْتيَّة
+oil field	حَقْلُ زيت، حقلُ نَفْط / حقل نِفطي / حقل بترولي
+oil filler pipe	أُنبوبُ مَلْءِ الزيت
+oil filling station	محطة تعبئة الزيت
+oil film	غِشاءٌ زيتي
+oil filter	مُرَشِّح الزيت
+oil filtration	ترشيحُ الزيت
+oil firing	الوَقْدُ بالزيت، الإيقادُ بالنِّفْط
+oil flash point	نُقْطةُ وَميضِ (أبْخِرة) الزيت
+oil flow	تدَفُّقُ الزَّيت، سَرَيانُ الزَّيت
+oil foaming	ترَغِّي الزيت
+oil fuel	وَقودٌ زَيتيّ
+oil furnace	فُرْنٌ نِفطيّ
+oil gauge	مِعيارُ الزيت، مقياس مُستوى الزيت
+oil gauge dipstick	مِسْبارُ قياسِ الزيت
+oil gauge glass	زُجاجةُ بَيانِ الزيت
+oil glands	غدد زيتية
+oil grade	دَرَجةُ أو رُتْبةُ الزيت
+oil grooves	مَجاري الزيت، حُزُوزُ الزيت، حُزوزُ التزييت
+oil gun	مِدْفَعةُ الزيت
+oil hardening	التصليدُ بالزيت
+oil heater	سَخّان زيتيّ؛ مُسَخِّنُ الزيت
+oil hole	ثَقْبُ الزيت، فُتْحةُ تَزْييت
+oil immersion	الغَمْرُ بالزَّيت
+Oil Imports	الواردات النفطية
+oil index	دَليلُ الزيت
+oil indications	دَلالات الزيت، تباشيرُ الزيت
+oil indications; oil shows	مؤشرات نِفطية / مؤشرات بترولية
+oil indicator	مُبَيِّنُ الزيت
+oil industry	صِناعةُ الزيت
+oil injection	حَقْنٌ بالزيت
+oil inlet pipe	أُنبوبُ دُخول الزيت
+oil insulator	عازِلٌ زيتيّ
+oil interrupter	مُقَطِّعٌ زيتي
+oil jack	رافِعةٌ بالزيت
+oil jacket	قَميصُ الزيت، دِثارٌ زيتيّ
+oil lamp	مِصباح زيتي
+oil leakage	تَسرُّب الزيت، سُروب الزيت
+oil lease	اِمتيازُ تَنْقيبٍ عن الزَّيت
+oil length	مَدى الزَّيت
+oil level	مُستَوى الزيت
+oil level indicator	مُبيِّنُ مُستَوى الزيت
+oil line	أُنبوبُ الزيت، خَطُّ (أنابيبِ) الزيت
+oil loading terminal	محطة رئيسية لشحن النفط
+oil lubrication	التزليقُ بالزيت
+oil measures	طبَقاتٌ نِفْطيَّة، طَبقاتٌ حاوية للزيت
+oil migration	اِرتحالُ الزَّيت، اِنتقالُ الزيت
+oil mill	مِعْصَرةُ الزيت
+oil mining	استِخراجُ النفط
+oil mist	غَشاوةٌ زيتيَّة، رَذاذُ الزيت
+oil nozzle	مِنْفَثُ الزيت، فُوَّهةُ الزيت
+oil occurrence	وُجودُ الزيت، ظُهورُ الزيت
+oil of bitter almonds	زيت اللوز المُرّ، بِنْزالديهَيْد
+oil of mirbane	نِتْروبِنزين
+oil of turpentine	زَيت التربَنْتين
+oil of vitriol	زيتُ الزّاج، حامِض الكِبريتيك المُرَكَّز
+oil outlet	مَخْرَجُ الزيت
+oil overflow pipe	أُنبوبُ الزيت الفائِض
+oil painting	التصويرُ بالزَّيت؛ صُورةٌ زَيتيَّة
+oil paints	دِهاناتٌ زَيتيَّة
+oil pan	حَوضُ الزيت، وِعاءُ الزيت
+oil pan gasket	حَشِيَّةٌ ضابِطةٌ لِحَوض الزيت
+oil pipe-line	خَطُّ أنابيبِ النفط
+oil piping	أنابيبُ الزيت
+oil pit (or pool)	حُفْرة الزيت
+oil pollution	التلَوُّث بالزيت، تلَوُّثٌ نِفطِِيّ
+oil pollution safety code	مدونة السلامة للتلوث النفطي
+oil pool	تَجَمُّع الزيت، تجَمُّع نَفْطِيّ
+oil press	مِعصَرة الزيت، مِكبَسٌ زيتي
+oil pressure	ضَغْطُ الزيت
+oil pressure gauge	مِقياسُ ضَغْط الزيت
+oil pressure indicator	دَليلُ ضَغْطِ الزيت
+oil pressure regulator	مُنَظِّمُ ضغطِ الزيت
+oil pressure relief valve	صِمامُ تَصْريفِ (تَنفيسِ) ضَغْط الزيت
+oil priming	تَحْضيرٌ أو إسقاءٌ بالزيت
+oil product	مُنْتَجٌ زَيتيّ
+oil production	إنتاجُ النفط
+oil proof	صَمَّدَ (جَعَلَ صامِدًا) للزيت؛ جعلَ (سطحَ الإسمَنْتِ) صامِدًا لِلحَوامِض، صمَّدَ للحوامض
+oil prospecting	التنقيبُ عن النّفْط، اِستِكشافُ الزيت / تنقيب عن النفط
+oil pump	مِضَخَّةُ الزيت؛ مِضَخَّة تزييت
+oil pump casing	غِلافُ مِضَخَّة الزيت
+oil pump drive	مُدَوِّرُ مِضَخَّة التزييت
+oil pump screen	مِصفاةُ مِضخَّة الزيت
+oil pumping	ضَخُّ الزيت
+oil purifier	مُنَقِّي الزيت
+oil putty	مَعْجونٌ زيتي
+oil quench	تَغْطيسٌ (أو سقاية) بالزَّيت
+oil radiator	مُبَرِّدُ الزيت
+oil receiver	مُستقبِل الزيت
+oil reclamation	اِستِعادة الزيت (لاستِعماله مُجدَّدًا)، استِصلاح الزَّيت
+oil record book	سجل النفط
+oil rectifier	مِقْطَرَةُ (إعادة تَكْرير) الزيت
+Oil Refineries	معامل تكرير النفط
+oil refinery	مَعْمَلُ تكرير الزيت، مِصفاةُ نَفْط / معمل تكرير النفط، مصفاة النفط
+oil refining	تكريرُ النفط
+oil region	مِنطَقة نفطيَّة
+oil regulation valve	صِمامُ تَنْظيم (سريان) الزيت
+oil relay control	ضَبْطُ الترحيلِ بالزيت
+oil relay system	نظامُ (أو منظومةُ) ترحيلٍ بالزيت
+oil relief valve	صِمامُ تَصْريف الزيت
+oil reserves	اِحتياطيُّ النفط
+oil reservoir	خَزّانُ زيت؛ مَكمنُ زَيْت، تجمُّعٌ نفطيّ
+oil residue	المُتخَلِّفُ الزيتي
+oil resinification	رَتْنَجَةُ الزَّيت
+oil retaining ring	حَلْقة استِبقاء الزيت
+oil rig	بُرجُ حَفرٍ نِفطيّ
+oil ring = scraper ring	طَوقُ الزيت، حَلْقة (كَشْطِ) الزيت
+oil rock	صَخْرٌ بِتروليّ / صخر نِفطي / صخر نفطي
+oil run	الناتِجُ النّفْطيّ (في فَترةٍ مُعَيَّنة)
+oil sands	رِمالُ النفط
+oil saver	حافِظُ الزيت
+oil scraper ring	حَلْقة كَشطِ الزيت
+oil screen (or sieve)	مِصفاةُ الزيت
+oil seal	حَلْقة مَنْعِ تسَرُّب الزيت
+oil seepage	سُروبُ (أو تسَرُّب) الزَّيت
+oil separating machine	مَكَنةُ فَصْلِ (فَرْزِ) الزيت
+oil separation	فصل الزيت
+oil separator	فاصِلُ الزيت
+oil settling tank	خَزّان تَرْسيب الزيت
+oil shale	طَفْلٌ زَيتي، طفْلُ الزيت / نضيد زيتي، سجيل
+oil shale; bituminal shale	نضيد زيتي، سجِّيل
+oil shipment	شَحْنُ الزَّيت؛ شِحْنةُ زَيْت
+oil showings (or shows)	تَباشيرُ الزيت، دَلائلُ (وُجودِ) النِّفط
+oil silk	حَريرٌ مُشَمَّع
+oil slick	بُقْعَةٌ أو غِشاءٌ زَيتيٌّ طافٍ (على سَطْح الماء) / بقع النفط على وجه البحر
+oil sludge	كُدادَةُ الزيت / طين نفطي
+oil spill	بقعة نفط
+oil spillage	إراقة النفط
+oil spring	مَنْبَع نفط / منبع نفط
+oil squirt	بَخّاخَةُ زَيت، ثَجّاجَةُ زَيت
+oil stove	مَوقِدٌ بالزيت، مَوقِدُ زَيت
+oil strainer	مِصفاةُ الزيت، مِنْطَبُ الزيت
+oil strata	طَبَقاتٌ حامِلة للنفط
+oil stripping	قَطْفُ الزيت
+oil structure	بِنْيَةٌ نِفْطِيَّة
+oil sump	مجمع الزيت
+oil sump (or pan)	مَجْمَعُ الزيت (السُّفْليّ)، حَوضُ الزَّيت
+oil sump tank	خَزّانُ تَجْميعِ الزيت (السُّفلي)
+oil supply	مَورِدُ الزيت؛ إمدادُ الزيت
+oil switch (or circuit-breaker)	مِقلادٌ (أو قاطِعُ دارة) زَيتيّ، مِفتاحٌ غاطِسٌ في الزيت
+oil syringe	مِحْقَنَةُ زَيت
+oil system	مَنْظومةُ الزيت، آلِيَّةُ التزييت؛ دَورةُ الزيت
+oil tank	صِهْريجُ زيت، خَزّان زيت
+oil tanker	ناقِلةُ زيت، ناقِلة نفط / ناقلة نفط
+oil tar	قارُ النّفْط
+oil temper	سَقْيٌ بالزيت، تَطْبيع بالزيت، تَسْقِيَة بالزيت؛ سقَى بالزيت، طبَّع بالزيت
+oil temperature indicator	مُبَيِّنُ (درجة) حَرارة الزيت
+oil temperature regulator	مُنَظِّمُ حَرارة الزيت
+oil tempering	سَقْيٌ أو تَطْبيع في الزيت
+oil terminal	فُرْضَةُ (تَحْميلِ) الزيت / محطة نفط رئيسية (نهائية)
+oil thermometer	تِرمومتر الزيت
+oil thickening	تَغْليظُ (قَوام) الزَّيت، تَغَلُّظ الزَّيت
+oil traces	آثارُ الزيت، دَلائِلُ الزَّيت
+oil transformer	مُحوِّل زيتيٌّ (يُعْزَلُ ويُبَرَّد بالزيت)
+oil trap	مكمن (محبس) الزيت
+oil traps	مَحابِسُ الزَّيت، مَكامِنُ الزَّيت
+oil trip gear	جِهازُ تَسييبٍ بالزيت
+oil trough	حَوض الزيت
+oil varnish	بَرْنيقٌ أو وَرْنيشٌ زَيتي
+oil well	بِئر نفط، بئرٌ بِتروليَّة
+oil wiper ring	حَلْقةُ مَسْح الزَّيت
+oil zone	مِنطَقة نفطيَّة / منطقة نفط / منطقة البترول
+oil, aircraft engine	زَيتُ مُحَرِّكاتِ الطائرات
+oil, antifreezing	زيتٌ مقاوِم للتجَمُّد
+oil, auto	زيتُ السيارات
+oil, aviation	زيتُ الطيّارات
+oil, axle	زيتُ المِحْوَر
+oil, ball bearing	زَيتُ مَحامِلِ الكُرَيّات
+oil, black	زَيتٌ أسوَد
+oil, bunker	زَيت وَسِخ
+oil, cable	زَيتُ (عَزْلِ) الكُبول
+oil, castor	زَيتُ الخِرْوَع
+oil, crankcase	زَيتُ عُلبةِ المَرافِق
+oil, crude	الزيتُ الخام
+oil, cutting	زَيتُ (تَبْريد) القَطْع
+oil, cylinder	زيتُ الأُسطوانات
+oil, diesel fuel	وَقود زَيتِ الديزل
+oil, engine	زيتُ مُحرِّكات
+oil, essential	زَيتٌ عِطْري
+oil, furnace	زَيتُ الأفران
+oil, gas	زيتُ السُّولار
+oil, heavy	زَيتٌ ثَقيل
+oil, light	زيتٌ خفيف، زَيتٌ رَقيق
+oil, linseed	زَيتُ بِزْر الكَتّان
+oil, lubricating	زيتُ تَزْليق
+oil, medium	زيتٌ متوسِّطُ اللُّزوجة
+oil, mineral	زَيتٌ مَعدِني
+oil, motor	زَيتُ محرِّكات
+oil, neutral	زيتٌ مُتَعادِل
+oil, olive	زَيتُ الزيتون
+oil, paraffin	زيتُ البارافين، كِيروسين
+oil, refrigerator	زَيتُ أجهِزَةِ التبريد
+oil, seal	زَيتٌ حاجِز
+oil, semidrying	زيتٌ نِصفُ جَفيف
+oil, slop	زَيْت مُلَوَّث
+oil, sludge	زَيتٌ وَسِخ
+oil, solar = gas oil	زيت السُّولار (قُطارةُ ما بعدَ الكيروسين)
+oil, soluble	زيتٌ ذَؤوب
+oil, synthetic	زَيتٌ اصطِناعي
+oil, transformer	زَيتُ المُحوِّلات
+oil, transmission case	زيتُ عُلْبة السُّرعة
+oil, turbine	زَيتٌ للتربينات
+oil, vegetable	زَيتٌ نَباتي
+oil, volatile	زَيت طيّار، زيت مُتَطاير
+oil-base mud	طين زيتي القاعدة
+oil-bearing	نِفطي / ذو بترول
+oil-bearing rock	صخر نِفطي / صخر حاد على النفط
+oil-blast circuit-breaker	قاطِعُ دارةٍ باندِفاع الزيت
+oil-break	زَيتيُّ القَطْع
+oil-break switch	مِفتاحٌ زَيتيُّ القَطْع، مِقلادُ قَطْعٍ في الزّيت
+oil-containment device	نبيطة احتواء النفط (لمنع تلَوُّث الشواطِئ به)
+oil-cooled	مُبَرَّدٌ بالزيت
+oil-cooler casing (or shell)	غِلافُ مُبَرِّدِ الزيت
+oil-cooler shutters	مَغالِقُ مُبَرِّد الزيت
+oil-drain plug	سِدادُ مَصرِف الزيت
+oil-drain valve	صِمامُ تَصْريف الزيت
+oil-drip pan	وِعاء تقَطُّرِ الزيت
+oil-feed pump	مِضَخَّةُ تَغْذيةٍ بالزَّيت
+oil-filled cable	كَبْلٌ مُعَبَّأ بالزيت (لِلڤلطيّات العالية)
+Oil-Filled Capacitors	المكثفات البترولية
+oil-fired furnace	فُرْن يُحمَى بالزيت
+oil-hardened steel	فُولاذٌ مُصَلَّد بالزيت
+oil-immersed	مَغْمورٌ في الزيت
+oil-immersion objective	شَيئيَّة (مِجْهَرٍ) تُغمَرُ بالزيت
+oil-impregnated paper	وَرَق (عزلٍ) مُشرَبٌ بالزيت
+oil-impregnated sands	رِمالٌ مُشرَبة بالزيت
+oil-insulated	مَعْزولٌ بالزيت
+oil-loading berth	مَرسى تحميل الزيت
+oil-mist lubrication	التزليقُ برَذاذِ الزيت
+oil-palm	نخل الزيت
+oil-poor circuit-breaker	قاطِعُ دارةٍ شَحيحُ الزيت
+oil-poppy	خشخاش
+oil-producing	مُنتِجٌ للزيت
+oil-proof	صامِدٌ لِلزَّيت
+oil-quenched fuse	مِصْهَرٌ يُبَرَّدُ بالزيت
+oil-quenching	التبريدُ السريع بالزيت، التسقِيَة بالزيت
+oil-resistant	مُقاوِمٌ لِلزيت
+oil-soaked	مَنْقوعٌ (أو مُشْبَعٌ) بالزَّيت
+oil-soluble	ذوّابٌ في الزيت، ذَؤوبٌ (قابِلٌ لِلذَّوَبان) في الزيت
+oil-soluble resin	راتِينَج ذَوّابٌ في الزَّيت
+oil-spray lubrication	تَزْليقٌ رَذِّيّ، التزليقُ بنَضْح الزيت
+oil-storage tank	خَزّانُ الزيت
+oil-tank cap	غِطاءُ خَزّان الزيت
+oil-tank vent	مَنْفَسُ خَزّان الزيت
+oil-tempered	مَسْقِيٌّ أو مُطَبَّعٌ في الزيت
+oil-tight	سَدودٌ لِلزَّيت، مَسِيكٌ للزَّيت
+oil-tree	خروع
+oil-tube twist drill	مِثقَبٌ اِلتوائي ذو أنابيبَ زيتية
+oil-water interface	بَيْنيَّةُ الماء والزَّيت
+oil-water separator	جهاز فصل الزيت والماء
+oil-waterseparating equipment	معدات فصل الزيت والماء
+oil-well cement	إسمَنْتُ آبارِ النَّفْط
+oil-well derrick	بُرجُ (حَفْر) بئر النفط
+oil-well pump	مِضَخَّةُ بئرِ النفط
+oilcan	مِزْيَتة
+oilcloth	قُماش زَيتي (صامِدٌ للماء)
+oildom	مِنطَقةُ بِتروليَّة
+oiled paper	وَرَقٌ مزَيَّت
+oiler	مِزْيتَة؛ بِئرٌ بتروليَّة مُنتِجَة؛ ناقِلةُ نفط
+oilgas	غازُ النفط (الناتِجُ بالتقطير الهَدّام للزيوت المَعدِنيَّة الثقيلة)
+oiling	تَزْييت
+oiling pad	لَيْنَةُ تَزْييت
+oiling ring	حَلْقةُ تَزْييت
+oiling system	نِظامُ التَّزْييت؛ مَنظومةُ التزييت
+oiling, bath	تَزْييتٌ بالتَّغْطيس
+oiling, forced-feed	تَزْييتٌ بالتَّغْذِية القَسْرِيَّة، تَزْييت بالضَّغْط
+oilland	كتلة جبلية قديمة، نجد قديم
+oilless bearing	مَحْمِلٌ لا زَيتيّ
+oilless circuit-breaker	قاطِعُ دارة لا زَيتيّ
+Oilostatic cable	كَبْلٌ زيتيٌّ إستاتي (مَعزولٌ بالورق في أنبوبٍ فولاذي معبَّأ بالزيت)
+oilskin	مُشَمَّع
+oilslip	مِسَنٌّ صغير بالزيت (لشَحْذِ المِظفار)
+oilstone	حجَرُ سَنٍّ بالزيت، مِسَنٌّ زَيتي
+oilways = oil grooves	مَجاري الزيت، حُزوزُ الزَّيت
+oily	زَيتيّ؛ دَسِم
+ointment	مَرْهَم، مَرُوخ، دَهُون
+OK	موافق
+okazaki fragment	شدفة 'أوكازاكي'
+okta	ثمن (ثمن الدائرة)
+okta; octa	أوكْتا
+OLAP database	قاعدة معطيات ذات معالجة تحليلية آنية
+Old	قديم
+old age	هَرَم
+Old Red Sandstone	الحَجَر الرمليُّ الأحمرُ القَديم
+Older than	أقدم من
+Oldham coupling	قارِنة «أُولدهام» (لوَصْل عَمُودَين غير مُتَسامِتَين)
+oldhamite	أُولدهَمايت
+OLE	ربط الأغراض وتضمينها
+oleaceae	فصيلة زيتونية
+oleaginous	زَيْتيٌّ؛ زَلِق
+oleander	دفلى
+oleaster	عنم
+oleate	زَيْتات، أولِيَات
+olefiant gas = ethylene	إثِيلين
+olefines	الأولَفِينات
+olefinic fuel	وَقود أولَفِينيّ
+oleic acid	حَمْضُ الأُولَييك، حامِضُ الزيتيك
+olein	زَيْتين، أولَيِين
+oleo oil = tallow oil	زَيْتُ الشَّحْم الحَيَوانيّ
+oleo shock absorber	مُمْتَصُّ صَدَمات زَيتي
+oleo-gear	جِهازٌ زَيتيّ (ماصٌّ لِلصَّدَمات)
+oleo-pneumatic shock absorber	مُمتَصُّ صدَمات زَيتيٌّ هَوائي
+oleo-strut	قائِمُ انضِغاط زَيتيّ، قائمُ تَخميدٍ زَيتيّ
+oleometer	مِقياسُ الزيت
+oleophil	إلْفُ الزَّيت
+oleophobe	صادٌّ لِلزَّيت
+oleoresin	راتِينَج زَيتي
+oleum	زَيتٌ
+olfactometry	قياس الروائح
+olfactory	شَمِّيّ
+olfactory organ	عضو الشم
+oligist	أوليجست
+oligo-	بادئة بمعنى: قليل أو قِلَّة
+oligocene	أوليغوسين
+Oligocene epoch (or period)	عَصْرُ الأوليغوسين، العَصْر الحَديث اللاحِق
+oligocene period	عهد الأوليغوسين / عهد الأوليفوسين
+oligocene system	نظام الأوليغوسين / نظام الأوليفوسين
+oligoclase	أوليغوكلاز
+oligogene	قليل المورِّث
+oligohaline	قليل المُلوحة
+oligomiktic conglomerate	رصيص شبه متجانس
+oligosaccharide	سُكَّر قَليلُ السُّكَّريد (من اثنين إلى خَمسة)
+oligotrophic lake	بُحَيرةٌ فَقيرةُ المُغَذِّيات (ووَفيرةُ الأُكسِجين)
+oligotrophic water	قليلة التغذية، ماء (ال..) القليل
+olistostrome = olisthostrome	رُسابة مُخَلَّطة
+olivaceous	زَيتونيّ، زَيتونيُّ اللون
+olive	زَيتون؛ خَشَب الزيتون؛ لَونٌ زَيتوني / زيتونة
+olive oil	زَيت الزيتون
+olivenite	أوليڤينايت
+oliver	مِطْرقةٌ آليّة بَسيطة (تُستخدَم في صُنْع السلاسِل)
+Oliver filter	مُرَشِّح «أُوليڤر»
+olivine	أولِڤين، زَبَرْجَد زَيتوني / أوليفين
+olivine rock	صَخْر أولڤيني
+olivine rock; dunite	صخر أوليفيني
+Olsen ductility test	اختبار «أولْسِن» للمطيليَّة
+Olson microphone	مِكروفون «أولْسُون» الشريطيّ
+OLTP	معالجة مبادلات آنيّة
+OMA	بنيان إدارة الأغراض
+omasum	أُمُّ التلافيف
+ombre of the sun; umbra	ظل الشمس
+ombrogenous	مَطريُّ التغذية
+ombrometer	مِقياسُ المَطَر / مقياس المطر
+omega	أوميغا؛ نِهاية / نِظام «أُوميغا» الملاحي
+omega-particle	جُسَيْم أوميغا، الهَيْپِرون الثقيل، مِيزون أُوميغا
+omegatron	أوميغاترون
+omission	حَذْف، إسقاط
+omit	حَذَفَ، أسقَطَ، أهمَلَ
+ommatidium (pl.ommatidia)	عوينة
+omni-	بادِئة بمعنى: كُلّ، شامِل، لاحَصْرِيّ
+omnibearing	اِتِّجاهٌ زاويٌّ شامِل
+omnibus	حافِلَة، سيّارة رُكّاب كَبيرة؛ شامِل، جامِع
+omnibus-bar = bus-bar	مُوَصِّلٌ عُموميّ، قَضيبُ تَوصيلٍ عُمومي
+omnidirectional antenna	هَوائيٌّ لِجَميع الاتجاهات (الأُفُقيَّة)
+omnidirectional light	ضوء لجميع الاتجاهات
+omnidirectional radio beacon	منارة لاسلكية لجميع الاتجاهات
+omnigraph	أومنيغراف
+omnimeter	أومنيمِتر
+omnirange	شامِلُ المَدَى؛ مُرشِدٌ راديويّ شامِلُ المَدى
+Omnivora	ألقَوارِت
+omnivore	متعدد الغذاء
+omnivorous(animal)	آكل العشب واللحوم
+omtimeter	أومتيمتر
+on	جارٍ؛ دائِر، شَغّال / يعمل
+on (the) air	على الهَواء
+on a large scale	على نِطاقٍ واسِع
+on account	على الحِساب
+On all pages	على كلً الصفحات
+on approval	عِندَ المُوافَقة؛ تحتَ التجربة
+on ballast	على الصابورة
+on board	على ظَهْر السفينةِ أو القِطارِ أو الطائِرة
+on call	تحتَ الطَّلَب
+on consignment	في الإيداع
+on delay	تعَوُّق الوَصْل
+on demand	عندَ الطَّلَب
+On even pages	على الصفحات الزوجية
+on scene commander	آمر في الموقع
+on state	حالةُ الوَصْل أو التشغيل (للمفتاح أو الدارة الكهربائيَّة)
+on stream	شَغّالة، في دَور التشغيل
+on the beam (or on the pump)	بالضَّخّ، مُستَثمرٌ بالضَّخّ
+on the fly	على الماشي (على الطاير) أثناء العمل
+on the high sea	في أعالي البحار
+On the line	على الحط
+on the way	في الطريق
+on-board computer	حاسوب متني (على المتن)
+on-chip cache	خابية على الرقاقة
+on-cost men	عُمّالُ مَنجَمٍ مُياوِمون
+on-costs = overhead expenses	نفَقاتٌ عامَّة، تكاليفُ إِضافية
+on-course beam	شُعاعٌ ثابِت الاتجاه
+on-hook signal	إشارة وَضْعِ السمّاعة
+on-lap	تراكُبٌ توَسُّعيّ
+on-line	مُتَّصِل؛ مُتاحٌ من الحاسوب / متصل بالشبكة
+on-line operation	تَشْغيلٌ مُتَّصِل
+on-line updating	تحديثٌ فَوريّ
+on-off control	تحَكُّمٌ بالقَطْع والوَصْل (دونَ وَضعٍ وَسيط)
+on-off switch	مِفتاح الوَصْلِ والقَطْع، مِقلادُ قطعٍ ووَصْل
+on-position (of a switch)	وَضْعُ الاتصال (لِلمفتاح)
+on-season	مَوسِميّ؛ في مَوسِمِه
+on-site	في المَوقِع، في مَكان العَمَل
+on-time	زمنُ التشغيل
+onboard (ship)	على ظهر (السفينة)
+once-through boiler	مِرْجَلُ الإمرار الواحِد
+onchosphere	جنين مسدس الأشواك
+oncogene	مورِّث مورم
+oncology	عِلْمُ الأورام
+ondograph	أوندوغراف، مِرسَمةُ
+ondometer	أوندومتر
+ondoscope	أوندوسكوب، مِكْشافُ
+ondulating	مُتَموِّج
+ondulating ground	أرضٌ مُتموِّجة
+one armed anchor	مخطاف بقرن واحد، مرساة بقرن واحد
+one gene-one enzyme hypothesis	فرضية مورِّث واحد-إنزيم واحد
+one gene-one polypeptide hypothesis	فرضية مورِّث واحد-عديد ببتيد واحد
+one way traffic lane	طريق مرور وحيد الاتجاه
+one's complement	متمِّم إلى واحد
+one-address code	شفرة أحادية العنوان
+one-ahead addressing	عنونة [من نمط] واحد إلى الأمام
+one-coat work	تَمْليطٌ أُحاديُّ الطبقة
+one-cylinder engine	مُحَرِّك أُحاديُّ الأُسطُوانة
+one-dimensional	أُحاديُّ البُعْد
+one-dimensional flow	دَفْقٌ أُحاديُّ البُعْد
+one-dimensional strain	انْفِعالٌ أُحادِيُّ البُعْد
+one-drum system	نِظامُ الأُسطوانة
+one-flowered	وحيد الزهرة
+One-Hot Encoding	ترميز الواحد النشط
+one-hour rating	تَقديرٌ ساعِيّ
+one-leaved	وحيد الورقة
+one-lung engine	مُحَرِّكٌ وَحيدُ الأُسطُوانة
+one-many function	دالَّةُ واحِدٍ إلى مُتَعَدِّد
+one-one function	دالَّةُ واحِدٍ إلى واحِد
+one-one-transformation	تحويل تقابلي
+one-parameter semigroup	نِصْفُ زُمْرَةٍ وَحيدةُ الوَسيط
+one-part die	قالَبُ لَولَبة أُحاديُّ القِطعة
+one-part screwplate	كِفَّةُ لولَبةٍ
+one-pass compiler	مصرِّف أحادي المرور
+one-phase = single-phase	أُحاديُّ الطَّور
+one-phase circuit	دارةٌ أُحاديَّةُ الطور
+one-phase induction regulator	مُنظِّمٌ حَثِّي أُحاديّ الطور
+one-piece propeller	مِروَحةٌ من قِطعة واحِدة
+one-pipe system	نِظام (تصريفِ) أحاديُّ الماسورة
+one-point compactification	رَصٌّ وَحيدُ النُّقطة
+one-pole switch	مِفتاحٌ أُحاديُّ القُطْب، مِقلادٌ أحاديّ القُطب
+one-sample problem	مَسْأَلةٌ وَحيدةُ العَيِّنة
+one-shot (or monostable) multivibrator	هَزّازٌ مُتَعدِّدٌ وَحيدُ الاستِقرار
+one-shot circuit	دارةٌ أُحاديَّةُ المَدى
+One-Shot Classification	تصنيف بمثال واحد
+One-Shot Learning	تعلُّم بمثال واحد
+one-shot lubrication	تَزْييتٌ في دَفْقةٍ واحِدة
+One-Shot Prompting	أوامر بمثال واحد
+one-sided	وَحيدُ الجانِب؛ مُلْزِمٌ أحدَ الطرفَيْن؛ مُتَحَيِّز
+one-sided limit	نِهايةٌ أُحادِيَّةُ الجانِب
+one-sided surface	سَطْحٌ وَحيدُ الجانِب
+one-sided test	اخْتِبارٌ وَحيدُ الجانِب
+one-tail test	اخْتِبارٌ وَحيدُ الذَّيْل
+one-tailed test	اخْتِبارٌ وَحيدُ الذَّيْل
+One-Time	مرة،مرة واحدة
+One-time Password	كلمة مرور تستخدم لمرة واحدة
+one-to-one correspondence	تناظُرٌ أُحادي / تناظر واحد لواحد / تَقابُلُ واحدٍ لِواحِد
+one-to-one function	دالَّةُ واحِدٍ إلَى واحِد
+one-to-one mapping	تَطْبيق واحدٍ لِواحِد
+one-to-one transformer	مُحوِّلٌ مُتَساوي اللَّفات (الابتدائيةِ والثانَوية)
+one-track	وَحيدُ المَسلَك، وحيدُ السِّكَّة
+one-valued function	دالَّةٌ وَحيدةُ القيمة
+One-vs-All	واحد مقابل الكل
+one-way	وحيدُ الاتجاه
+one-way circuit	دارةٌ وحيدةُ الاتجاه
+one-way classification	تَصْنيفٌ وَحيدُ الاتِّجاه
+one-way cock	مِحْبَسٌ وَحيد الاتجاه
+one-way road	طَريق وَحيدُ الاتجاه
+one-way switch	مِفتاح وحيدُ الاتجاه، مِقلادٌ بسِكّة واحِدة
+one-way traffic	مُرورٌ باتجاه واحِد
+onerous	شاقّ، مُرهِق
+One–Year –Old Children Immunized Against Measles, Rubella and Mumps	نسبة الأطفال البالغين من العمر سنة واحدة المحصنين ضد الحصبة والحصبة الألمانية والنكاف
+one’s complement	تمامةُ الآحاد
+Ongoing	جار
+onion weathering	تقَشُّر
+onion-couch or grass	شوفان عال
+onionskin	ورَقٌ بَصَلِيّ
+onium ion	أيُونٌ أُونيُوميّ
+online	1 موصول [إلى الخط] ؛ 2 موصول [إلى الشبكة] ؛ 3 موصول [إلى الشبكة، الخ...] ؛ 4 قابل للوصل [إلى الشبكة، الخ...] / عَلَى الْخَطّ / (شخص) متصل، (شيء) على الإنترنت أو عبر الإنترنت
+online community	مجتمع الموصولين [إلى الشبكة]
+Online Feature Store	مخزن الخصائص الآني
+online help	مساعدة متاحة [إلى الخط] / مُسَاعَدة عَلَى الْخَطّ
+Online Inference	استنتاج مباشر
+online information service	خدمة معلومات متاحة [إلى الخط]
+Online Machine Learning	تعلُّم الآلة المستمر
+online processing	مُعَالَجَةٌ مُبَاشِرَة
+Online recognition	التعرف المتصل
+online service	خدمة متاحة [إلى الخط] / خِدْمَةٌ مُبَاشِرَة
+online state	حالة وصل [إلى الخط]
+online transaction processing	معالجة مبادلات آنيّة
+onlooker	مُشاهِد، مُتفرِّج
+onset	بِداية، مُستَهَلّ، بَدْء
+onshore	شاطِئيّ / نحو الشاطئ، على اليابسة
+onshore area	المِنطَقةُ الساحِليَّة (اليابِسة)
+onshore deposits	رَواسِبُ ساحِليَّة
+onshore wind	رياح ساحلية
+ontogeny	تاريخ حياة الفرد / تكون الفرد
+ontogeny = ontogenesis	نُشوءُ الفَرْد
+ontogeny; ontogenesis	تكون الفرد
+Ontological relations	علاقات أنطولوجية
+Ontology	توصيف معرفي / انطولوجيا
+Ontology eng-English ineering	هندسة التوصيف المعرفي
+Ontology Learning	تعلُّم التوصيف المعرفي
+Ontology-Based Semantic Context Framework (OBSC)	إطار السياق الدلالي القائم على الأنطولوجيا
+onyx	جَزْع، عَقيقٌ يَمانيّ / جَزْع، أونيكس / جزع، أونيكس
+onyx marble	مَرْمَر شَرقي، رُخام جَزْعيّ
+OO	غرضيُّ التوجّه
+oocyte	خَليَّة بيضيَّة / خلية بيضية
+oogenesis	تكوُّنُ البَيْض (في المَبِيض)، نُشوءُ البَيْضة / تكون البيضة
+oogonium	أوجنة / سليفة البيضة
+ook	بلوط
+oolemma	غمْد البيضة
+oolite	أُوليت، حَجَرٌ سَرْئيّ / سَرْئية
+oolithic rock	صخر سرئي
+oolithic structure	بنية سرئية
+ooliths	سَرْئيّات حَجَريَّة
+oolitic	سرئي
+oolitic rock	صَخْرٌ سَرْئي
+oolitic structure	بِنْية سَرْئيَّة (أو حُبَيبيَّة)
+OOP	برمجةٌ غرضية التوجّه
+ooplasm	جبلة البيضة
+Oort cloud	سحابة «أورت»
+oosperm	بيضة مخصبة
+oosphere	بيضة بالغة
+ootid	بيضة ناضجة
+ootid nucleus	نواة البيضة الناضجة
+ooze	نَزَّ، تحَلَّبَ، رَشَحَ؛ رَزَغَة، حَمأ؛ طِرْيَن / رَدْغَة / رزع / ردغ، غرين
+opacifier	مُكَمِّد
+opacimeter	مِكْماد
+opacity	كُمْدَة، لا إنفاذيَّة؛ عَتامَة، لا شَفافيَّة (لِلإشعاعاتِ وخاصَّةً لِلضوء)؛ كُمدةُ الطّلاء / عتمة / لاشفافية / كُمدة
+opacus ((op))	مُعْتِم
+opal	أُوپال / أوبال
+opal agate	أوپال عَقيقي
+opal codon	رامزة 'أوبال'
+opal glass	زُجاج أوپاليّ (أو أوپالينيّ)
+opal lamp	مِصباح كهربائيٌّ أوپاليُّ البُصَيلة
+opal mutant	طافرة 'أوبال'
+opal-glass	زجاج أوبالي، زجاج حليبي
+opalescence	تخايُفُ الألوان، تَلألُؤ، لأْلأَةٌ / بريق لبني، بريق صدفي / تَلألُؤ
+opalescent	أُوبالي، مُتَلألِئ، مُتخايفُ الألوان / حليبي، صدفي
+opaline	أوپالين، زُجاجٌ أوپالينيّ؛ أوپالينيّ، مُتَلألِئ؛ سَماويُّ اللون / أوبالي
+opalite	أوباليت
+opaque	عَتيم؛ كامِدٌ، كَمِدٌ، أكْمَدُ؛ غيرُ شَفّافٍ، غيْر مُنْفِذ (لأشِعّةٍ معيَّنة)؛ ظَليليّ / معتم / لا شفّافي / عاتم، أَكْمَد / عاتم، عتم
+opaque minerals	معادن غير شفافة، معادن معتمة / معادن غير شفافة، معادن معتم
+opcode	رِمَازُ العملية
+opdar (optical radar)	أوپدار
+open	مَفْتوح؛ مَكْشوف، صَرِيح؛ مَفْتوح، غيرُ مُتَّصِل (لا يسمَحُ بمُرور التيّار)؛ عَراء، أرضٌ مَكْشوفة؛ اِنقِطاع (يمنَعُ مُرورَ التيّارِ الكَهربائيّ) / يفتح / فتح
+open account	حِسابٌ مَفْتوح؛ حِسابٌ جارٍ
+open aerial (or antenna)	هَوائيّ مَفْتوح
+open air	هَواءٌ طَلْق، عَراء، خَلاء
+open anchorage	منطقة إرساء مكشوفة
+open angle	زاوية مَفْتوحة
+open antenna	هَوائيّ مَفْتوح
+open arc	قَوْسٌ مَكْشوف
+open architecture	1 بنيان مفتوح ؛ 2 بنيان مفتوح
+open ball	كُرةٌ مَفْتوحة
+open belt	سَيْرٌ مُعتدِل
+open belt drive	ادارة بسَيْرٍ مُعتدِل
+open bicollateral	حزمة مفتوحة ذات جانبين
+open bundles	حزم مفتوحة
+open caisson	قَيْسون مَفتوح (من الطَرفَيْن)
+open chain	سِلسِلَة مَفْتوحة
+open channel	قَناةٌ مكشوفة، مَجْرًى مَكْشوف
+open charter	مشارطة تأجير مفتوحة
+open cheque	شِيك مَفْتوح (غيرُ مُسَطَّر)
+open circuit	دارة مفتوحة
+open circular region	مَنْطِقةٌ دائِرِيَّةٌ مَفْتوحة
+open cluster	حشد مفتوح
+open clusters	قُِنوانٌ مُبَعْثَرة
+open conduit	قَناةٌ مَكْشوفة
+open contact	مُلامِسٌ مَفْتوح
+open core	قَلْب مَفتوح
+open country	أرضٌ مَكْشوفة، أرضٌ عَراء
+open covering	تَغْطِيةٌ مَفْتوحة
+open credit	اِعتمادٌ مَفْتوح
+open cut	حَفْر مَكشوف (للتنقيب أو لإمرارِ خَطٍّ حَديديّ)
+open cycle	دَورة مفتوحة (يُستعمَلُ فيها السائلُ مَرّةً واحِدة)
+open deck	سطح مكشوف
+open diggings	حَفْرِيّات مَكشوفة
+open disc	قُرْصٌ مَفْتوح
+open drain	مَصْرِفٌ مَكْشوفٌ أو مَفْتوح
+Open Farming	الزراعة المكشوفة
+open fault	صَدْع مَكشوف / صَدْع مفتوح / صدع مفتوح
+open file	ملف مفتوح
+open flame	لَهَبٌ مكشوف
+open flash-point	دَرَجةُ الوَميض المَكْشوف
+open floor	أرْضيَّة مَكشوفة
+open flume	مَسِيل مَكشوف
+open fold	طَيَّة مَفتوحة / طية مفتوحة
+open fuse	مِصْهَر مَكشوف
+open grid = floating grid	شَبَكةٌ طَليقة
+open ground	أرضٌ عَراء
+Open Group	المجموعة المفتوحة
+open half plane	نِصْفُ مُسْتَوٍ مَفْتوح
+open half space	نِصْفُ فَضاءٍ مَفْتوح
+open hole	ثَقْبٌ مَكْشوف؛ بِئرٌ مَكْشوفة؛ بِئرٌ غيرُ مُنَبَّبة
+open inequality	مُتبايِنة مَفْتوحة
+open interval	فَترةٌ مَفْتوحة / مجال مفتوح / مَجالٌ مَفْتوح
+open jetty	رَصيفٌ مكشوف
+open loop	حَلْقَة مفتوحة
+open machine	مَكَنةٌ مَكشوفة
+open magnetic circuit	دارة مِغنطيسيَّة مَفْتوحة
+open manifold	مُتَنَوِّعةٌ مَفْتوحة
+open map	تَطْبيقٌ مَفْتوح
+open mapping theorem	مُبَرْهَنةُ التَّطْبيقِ المَفْتوح
+open mortise = slot mortise	نَقْر مَفتوح، شَقْبٌ طَرَفِيّ
+open mould	قالَبُ سَبْكٍ مَكشوف
+open neighborhood	جِوارٌ مَفْتوح
+open pipe	أُنبوبٌ مَفتوح
+open polygonal region	مَنْطِقةٌ مُضَلَّعةٌ مَفْتوحة
+open propeller	رفاس حر
+open quarry	مَقْلَع مكشوف / مقلع مكشوف
+open reading frame (ORF)	إطار القراءة المفتوح
+open rectangular region	مَنْطِقةٌ مُسْتَطيلةٌ مَفْتوحة
+open region	مَنْطِقةٌ مَفْتوحة
+open return bend	مِرْفَقٌ مُزدَوِج مَفتوح
+open roadstead	مرس طبيعي
+open roof	سَقْف مكشوف
+open sand	رَمْلٌ مَساميّ؛ الصبُّ في قالَب مكشوف
+open sea	أعالي البحار
+open segment	قطعة مفتوحة
+open set	مَجْموعةٌ مَفتوحة / مجموعة مفتوحة / مَجْموعةٌ مَفْتوحة
+open sheeting	ألواحٌ مُتَباعِدة
+open shop	مَشْغَلٌ مَفتوح (لِغَيْر النِّقابيِّين)؛ مَركزٌ مفتوح / مَشْغَل مفتوح
+Open Shortest Path First	ميفاق "المسار الأقصر أولاً"
+open simplex	مُبَسَّطٌ مَفْتوح
+open slating	شَرائحُ مُتَباعِدة (من 3 إلى 10 سم)
+open slot	شَقٌّ خُدِّي مَكشوف
+open socket	جُلْبَة مَفتوحة
+Open Software Foundation	مؤسسة البرمجيات المفتوحة
+Open source	مصدر مفتوح
+open sphere	كرة مفتوحة
+open standard	مِقْيَسٌ مفتوح
+open subroutine	مَسَاقٌ فرعيٌّ مفتوح
+Open switch	(زرً) مبدال مفتوح
+open system	نِظامٌ مَفتوح؛ شَبَكة مَكشوفة / 1 نظام مفتوح ؛ 2 نظام مفتوح
+Open Systems Interconnection model	نموذج ترابط الأنظمة المفتوحة
+Open Table Format	صيغة جداول مفتوحة
+open traverse	مَسْحٌ اجتيازيّ مَفتوح
+open triangular region	مَنْطِقةٌ مُثَلَّثِيَّةٌ مَفْتوحة
+open universe	(نَظَريَّة) الكَوْن المَفْتوح
+open vegetation	نبت مبعثر
+open wagon	عَرَبة مَكشوفة
+open window unit = sabin	سابين
+open workings	أشغالٌ مَكشوفة (في مَنجَمٍ أو مَحْجَر)
+open wrench	مِفتاح رَبْطٍ مَفتوحُ الفَكّ
+open-arc lamp	مِصباح ذو قوس مَكْشوف
+open-chain compounds	مُرَكَّباتٌ
+open-chain hydrocarbons	هِدْروكَربونات مَفتوحةُ السلْسِلة (أو لاحَلْقيَّة)
+open-circuit characteristic = no-load characteristic	مُنحَني (خصائصِ) الدارةِ المفتوحة
+open-circuit impedance	مُعاوَقَةُ الدارة المَفْتوحة
+open-circuit loss = no-load loss	الفَقْدُ اللاّحِمْلي
+open-circuit potential	جُهْد الدارة المفتوحة
+open-circuit transition	التحويل مع فتح الدارة
+open-circuit voltage	ڤلْطيَّةُ الدارة المَفتوحة
+open-core transformer	مُحَوِّل ذو قلبٍ مَفتوح
+open-cut mining	تَعْدينٌ بالقَطْع المَكْشوف
+open-delta connection	وَصْلٌ أو اِتِّصالٌ مُثَلَّثيّ مَفْتوح
+open-diaphragm loudspeaker	مِجهارٌ مُكْشوفُ الرِّق
+open-end spanner (or wrench)	مِفتاحُ رَبْطٍ مَفتوحُ الطرَف
+open-ended class	صَفٌّ مَفْتوحُ الطَّرَف
+open-eyed	يَقِظ، مَفْتوحُ العَينَيْن
+open-flow capacity	سَعَةُ التدَفُّقِ (أو الصَّبيب) الحُرِّ
+open-flow potential	جُهْدُ الدارةِ المَفْتوحة؛ جُهْدُ التدَفُّق المَكْشوف (لِبِئر الغاز)
+open-frame girder	عارِضَة مَفتوحةُ الإطار
+open-gear compound	مُرَكَّبٌ لِلتُّروس المكشوفة
+open-grained	خَشِنُ الحُبَيبات؛ خَشِنُ النِّسْجَة
+open-hearth furnace	فُرْن المَجْمَرةِ المكشوفة (لِصُنْع الفُولاذ)
+open-hearth process = Siemens-Martin process	أُسلوبُ المَجْمَرة المكشوفة، طَريقةُ «سيمِنْز ومارتِن» (لصُنْعِ الفولاذ)
+open-hearth steel	فُولاذُ المَجْمَرةِ المكشوفة، فولاذُ «سيمِنْز ومارتِن»
+open-hearth steel plant	مَعملُ فولاذِ «سيمِنْز ومارتن»
+open-joint pattern	قالَبُ تشكيلٍ
+open-joint tube	أُنبوبٌ ذو وُصْلة مَفتوحة
+open-link chain	سِلْسِلةٌ مفتوحةُ الحَلَقات
+open-phase relay	مُرَحِّلُ فَتْح الطَّور
+open-pit mining	تَعْدين سَطْحي، التعدينُ بالحُفْرة المكشوفة
+open-sand casting (or moulding)	الصَّبُّ في قالَب (رَمْلٍ) مكشوف
+open-side planer (or planing machine)	مِقْشَطةٌ مفتوحةُ الجانِب
+open-sight alidade	عضادة النظر المُجرَّد
+Open-Source Software (OSS)	برمجيات مفتوحة المصدر
+open-top mixer	خَلاّطةٌ ذاتُ فُتْحةٍ عُلْويَّة
+open-type	مَكْشوف
+open-vegetation	نَبْتٌ مُبَعْثَر
+Open-Weight Model	نموذج ذو أوزان مفتوحة
+open-wire circuit	دارةٌ مَكْشوفةُ السِّلْك
+open-wire feeder	مُغَذٍّ مَكْشوفُ السِّلْك
+open-wire line	خَطٌّ ظاهِرُ (أو مَكْشوفُ) السِّلْك
+open-wire transmission line	خَطُّ نَقْلٍ مكشوفُ السِّلْك
+opencast	حُفْرة (تعدينٍ) مَكْشوفة؛ سَطْحيّ، مَكْشوف
+opencast mining	تعدينٌ سَطحي
+OpenDoc	[واجهة] OpenDoc
+opener	فَتّاحة، فتّاحةُ عُلَب
+Openid	الهوية المفتوحة
+opening	فُتْحة، ثُغْرة؛ اِفتِتاح، فَتْح
+opening (of a river)	فتحة (فم) النهر
+opening die	قالَبُ لَولبة ذاتيُّ الفَتْح
+opening out	تَوْسيع (الثقوب)
+opening, delayed	فَتْحٌ متأخِّر (لمِظَلَّة الهُبوط)
+opera glass(es)	مِنظارُ الأوبرا
+operable	يُمكِنُ تشغيلُه؛ قابِلٌ للجراحة
+operand	مُعامَل، مُحْتَسَب / مؤثَّر فيه / مُعامل
+operate	أدارَ، شغَّلَ، اِشتَغلَ؛ أجرى عمليَّةً جِراحيَّة
+operating characteristic curve	مُنْحَني العَمَلِيَّاتِ المُمَيِّز
+operating coil	مِلَفُّ التشغيل
+operating conditions	ظُروفُ التشغيل
+operating cost	تكلِفَةُ التشغيل
+operating crank	ذِراعُ التدوير
+operating current	تيّار التشغيل
+operating cylinder	أُسطوانةُ تَشْغيل
+operating directives	تَوجيهاتُ التَّشْغيل
+Operating Expenditure	النفقات التشغيلية
+operating expenses	نَفَقاتُ التَّشْغيل
+operating factor	عامِلُ التشغيل
+operating gear	جِهازُ التشغيل
+operating hand wheel	دولابُ التشغيل اليدَوي
+operating handle	مِقْبَضُ التشغيل
+operating instructions	تعليماتُ التشغيل
+Operating Leasing	التأجير التشغيلي
+operating lever	عَتَلةُ التشغيل
+operating maintenance	صِيانَةُ التشغيل العادي
+operating mechanism	آلِيَّة التشغيل
+operating of ship	تشغيل (استخدام) السفينة
+operating panel	لَوحةُ أجهزةِ التشغيل
+operating position	وَضْعُ التشغيل
+operating power	قُدرةُ التَّشْغيل
+operating pressure	ضَغْط التشغيل
+operating range	مَدى التشغيل، مَجالُ الاشتِغال العادي
+operating range fuel pressure	مَدى ضغطِ الوَقود في التشغيل العادي
+operating range oil temperature	مَدى دَرَجة حَرارة الزيت في التشغيل العادي
+Operating Revenues	الإيرادات التشغيلية
+operating rod	ساقُ التشغيل
+operating room	غرفة التشغيل؛ غُرفة العمَليّات
+operating shaft	جِذْعُ التشغيل
+operating speed	سُرعة التشغيل (العاديَّة)
+Operating Surplus	فائض التشغيل
+Operating Surplus and Mixed income	فائض التشغيل والدخل المختلط
+operating switch	مِقلادُ تشغيل، مِفتاحُ تَشْغيل
+operating system	نِظام التشغيل / نظام تشغيل
+operating system (OS)	نِظَامُ تَشْغِيل
+operating temperature	دَرَجةُ حَرارةِ التشغيل (المُثْلى أو الفِعليَّة)
+operating theatre	غُرفة العمليات
+operating time	زَمَنُ التشغيل / زمن التشغيل / مُدَّة التَّنْفِيذ
+operating tower	بُرْجُ العَمَليّات
+operating voltage	ڤلْطيَّة التشغيل
+operation	تَشْغيل، اِشتِغال؛ عَمَليَّة / 1 عملية ؛ 2 عملية / عَمَلِيَّة / عملية
+operation and maintenance phase	طور التشغيل والصيانة
+operation code	شَفرةُ العمليَّة / رِمَازُ العملية / رماز عملية
+operation exception	استثناء [ناجم عن] عملية
+operation in set	عملية على مجموعة
+operation table	جدول عملية
+operation time	زَمَنُ العمَليَّة
+operation, active	تَشْغيلٌ فِعْليّ
+operational	تَشْغيليّ، جاهِزٌ للتشغيل
+operational amplifier	مُضَخِّمٌ عمَليّاتي
+operational analysis	تَحْليلٌ عَمَلِيَّاتِيّ
+operational calculus	حُسْبانٌ عَملِيَّاتِيّ
+operational control	مُراقَبةُ التشغيل، مُراقَبة العمَليّات
+operational cycle	دَورة تَشْغيليَّة
+Operational database	قاعدة بيانات عملية
+Operational Database (ODB)	قاعدة بيانات تشغيلية
+operational failure	خَلَلٌ تشغيليّ
+operational index	دليل عامل
+operational necessities	مُقتَضَياتُ التشغيل
+operational planning	تَخطيطُ التشغيل، تَخطيطُ العمَليّات
+operational reliability	عِوَليَّة التشغيل / وثوقية عملياتية
+operational requirements	مُتطَلَّباتُ (أو مُقتَضيات) التشغيل / متطلبات عملية،إحتياجات عملية
+operational research	بحوث العمليات
+operational system	نظام ذو عملية
+operational testing	اختبار عملياتي
+Operations	عمليات
+operations research	بحوث العمليات / بُحوثُ العَمَلِيَّات
+operations research = operational reseach	بُحوثُ العمليَّات، بَحْثٌ عَمَليَّاتي
+operative	فَعّال، عامِل، فاعِل، مُؤَثِّر
+operator	عامِل، مُشَغِّل؛ عامِلُ الهاتِف أو التلِغراف أو الحاسوب؛ مُؤَثِّر / 1 مؤثِّر ؛ 2 مشغّل / عَامِل / عامل / مؤثر / مُؤَثِّر / مُشَغِّل
+operator algebra	جَبْرُ المُؤَثِّرات
+operator associativity	تجميعية المؤثرات
+operator constitutive mutation	طفرة المشغل البنيوية
+operator control panel	لوحة تحكم المُشَغِّل
+operator gene	مورِّث مُشَغِّل
+operator manual	دليل المُشَغِّل
+operator overloading	زيادة تحميل مؤثر
+operator precedence	أسبقيّة المؤثر
+operator theory	نَظَرِيَّةُ المُؤَثِّرات
+operator, wireless	عامِلُ اللاسِلْكي
+operator’s manual = operator’s handbook	دَليلُ المُشَغِّل، كُتَيِّبُ تَعليماتِ التشغيل
+operculum	وِصاد / غطاء
+operculum of fish	غطاء الخياشيم
+operon	أوبِّرون
+operon network	شبكة الأوبِّرون
+ophi-mottling	بَرْقَشَة
+Ophidia	الحَيّات / حيات
+ophite	اوفيت، حَجَرُ الحيَّة
+ophitic texture	نَسيجٌ اِختِراقيّ مُرَقَّطٌ (لِتَداخُلِ البِلَّورات المَعدِنيَّة) / نسيج أوفيتي
+Ophiuchus	كوكبة الحواء
+Ophiucus (The Serpent Bearer)	ألحَوّا والحُوَيَّة
+ophiuran	ذنب الحية
+ophthalmia	اِلتِهابُ العَين، رَمَد
+ophthalmic	عَيْنيّ
+ophthalmic artery	فريس
+ophthalmology	طِبُّ العُيون؛ دراسةُ العين وأمراضها
+ophthalmoscope	مِنظارُ العَين
+ophys	نجوم البحر الهشة
+opiate	فيوني، مُخَدِّر؛ مُخَدِّر، مُستَحضَرٌ أفيونيّ
+opinion	رأي
+Opinion mining	استخراج الآراء
+opinion(n)aire	صحيفةُ استِبْيان الرأي
+opinion, adverse	رأيٌ مُخالِف
+opinion, public	الرأيُ العام
+opisometer = map measurer	مِقياسُ خرائط، مقياسُ الخُطوطِ المُنحَنِية
+opium	أفيون / شريان عيني
+opopanax	أفيون
+opponent	خَصْم، مُعارِض، مُناوِئ
+opportune	مُلائم، مُؤاتٍ، مُناسِب
+opportunist	اِنتهازيّ، نَفْعِيّ؛ شَخْص نَفْعِيٌّ انتهازِي
+opportunity	فُرْصة، مُناسَبة
+oppose	عارَضَ، قاوَمَ، ضادَّ، تعارَضَ، تضادّ
+opposed pistons	كَبّاساتٌ مُتقابِلة
+opposed voltage protective system	نِظامٌ وِقائيٌّ مُتضادُّ الڤلطِيَّتين (الثانويَّتَيْن)
+opposed-cylinder engine	مُحرِّك مُتَضادُّ الأسطوانات
+opposite	نَقيض، ضِدّ، عَكْس؛ مُواجِه، مُقابِل، مُضادّ، مُعاكِس، مُتقابِل، مُتَعاكِس / مقابل
+opposite angles	زاويتان مُتَقابِلتان / زاويتان متقابلتان / زاوِيَتانِ مُتَقابِلَتان بالرَّأْس
+opposite angles of polygon	زوايا متقابلة في مضلع
+opposite cones	مَخْروطاتٌ مُتقابِلة
+opposite course	خط سير معاكس
+opposite direction	اِتِّجاهٌ مُضادّ
+opposite phase	طَورٌ مُضاد
+opposite poles	أقطاب مُتَضادَّة
+opposite rays	شُعاعانِ مُتَعاكِسان
+opposite ring	حَلَقةٌ مُقابِلَة
+opposite side	ضِلعٌ أو جانِبٌ مُقابِل / ضلع مقابل / ضِلْعٌ مُقابِل
+opposite sign	إشارة أو عَلامة مُضادة
+opposite vertices	رَأْسانِ مُتَقابِلان
+oppositely congruent figures	شَكْلانِ مُتَطابِقانِ عَكْسِيًّا
+oppositely threaded	مُلَولَبٌ في اتِّجاهٍ معاكِس
+opposition	مُعارَضة، مخالَفة؛ تَضادّ، تقابُل؛ اِختلافُ الطور بنِصْفِ مَوْجة (أو بنصف دَورة)؛ تقَابُل / تقابل
+oppressive	ظالِم، جائر؛ ثَقيلُ الوَطأة، مُضايِق، قابِضٌ لِلصَّدْر، خانِق
+oppressive weather	طقس خانق ثقيل
+opsonin	أُپسونِين، طاهِية
+Optacon (optical to tactile converter)	أُوبتاكون، مُحَوِّلٌ بَصَريّ لَمْسيّ
+optar	أُوپتار
+optic	بَصَريّ، عَيْنيّ
+optic axial angle	الزاويةُ المِحوَريَّة البَصَريَّة
+optic axis	مِحْوَرٌ بَصَريّ / محور بصري، محور ضوئي / محور بصري أو ضوئي
+optic axis plane	سطح المحور البصري
+optic chiasma	التصالُب البَصَرِيّ
+optic disc = blind spot	النقطةُ العمياء
+optic lobes	الفَصّانِ البَصَريّان
+optic nerve	العَصَبُ البَصَري / أجزاء بصرية
+optic(al) axial angle	الزاويةُ المِحوَريَّة البَصَرية
+optical	إبصاري، بَصَرِيّ / ضوئي
+optical aberration	زَيْغٌ بَصَريّ
+optical activity	نَشاطٌ بصَريٌّ، الفاعِليَّة البَصَريَّة
+optical air mass	كُتْلَةٌ هَوَاء بَصَرِيَّة
+optical altimeter	مِقياسُ الارتِفاع البَصَري
+optical ammeter	أمِّيتر بَصَريّ
+optical antipodes	نَقيضان بَصَريّان
+optical apparatus	جِهاز بَصَري
+optical axes (of a crystal)	المحاوِرُ البَصَرية (لِلبِلَّورة)
+optical axis	مِحوَرٌ بَصَريّ
+optical axis; principal axis	محور بصري رئيسي
+optical bench	نَضَدٌ بَصَريّ، مِنْضَدَة (اختِباراتٍ) بَصَريَّة
+optical binary	نجمٌ ثنائي
+optical cable	حَبْلٌ ذُو أَلْيَافٍ ضَوئِيَّة
+optical center	مركز بصري
+optical centre	مَركَزٌ بَصَرِيّ
+optical centre of lens	المركزُ البَصَريُّ لِلعَدَسة
+optical character reader	قَارِئَةٌ ضَوْئِيَّة لِلْمَحَارِف
+optical character recognition	تعرف المحارف ضوئياً / تعرّف بصري على الحروف
+optical character recognition (OCR)	التمييزُ البَصَريّ لِلسِّمات / تَعَرُّفٌ ضَوْئِيّ على المَحَارِف / تعرُّف آلي على الحروف / التعرف الضوئي للحروف
+optical communications	اتصالات ضوئية
+optical comparator	مُقارِنٌ بَصَريّ، جهازُ مُقارَنَةٍ بَصَريّ
+optical correlator	رابط ضوئي
+optical density	الكثافة البَصَريَّة
+optical density of a cloud	كَثَافةٌ بَصَرٍيَّة لِسَحابَة
+optical depth; optical thichness	سًمك بَصَري
+optical disc	قرصُ الاِختبارات البَصَريّة؛ قُرصٌ بَصري / قرص ضوئي
+optical disk	قُرْصٌ ضَوْئِيّ
+optical dispersion	تَشَتُّتٌ بَصَري
+optical distance (or path)	المَسارُ البَصَريّ
+optical dividing head	رأسُ تَقْسيمٍ بَصَريّ
+optical double	مُزدَوِجٌ بَصَريّ
+optical drive	مِسوَق ضوئي
+optical electronic device	نبيطة بصرية الكترونية
+optical electrons	إلِكتروناتٌ بَصَريَّة
+optical element	عُنْصُر بَصَريّ
+optical fiber	ليف ضوئي / الياف ضؤية
+optical fibre	لِيفٌ ضوئي / الياف ضؤية
+optical flat	مُنْبَسَطٌ بَصَريّ، سَطحُ استواءٍ بصري
+optical flat; parallel optical plate	صفيحة بصرية مستوية
+optical flint	ظِرَّان بَصري
+optical glass	زُجاجُ بَصَرِيّات
+optical illusion	خِداع بَصَريّ
+optical image	صُورة بَصَريَّة
+optical indicator	مُبَيِّن بَصَري
+optical instruments	أجهِزَة بَصرِيَّة
+optical interval = optical tube length	طولُ الأُنبوب البَصَري
+optical isomer	زَمِيرٌ بَصَريّ
+optical isomerism	تَماكُبٌ مِرآويّ، تَزامُر بَصَريّ، أيسُومريَّة بَصَريَّة
+optical lantern	فانوسٌ سِحْريّ
+optical lever	ذِراع بَصَريّ
+optical line of sight	خط النظر البصري
+optical magnetic polarization	استقطاب مغنطيسي بصري
+optical MASER	ميزر ضوئي
+optical maser = laser	مِيْزَرٌ بَصَرِيّ، لِيْزر
+optical microscope	مِجْهَر بَصَري
+optical mineralogy	دراسات معدنية ضوئية
+optical minéralogy	دراسات معدنية ضوئية
+optical mouse	فأرة ضوئية
+optical orientation	الاتِّجاهُ البَصَري
+optical parallax	اِختِلافُ المَنْظَر البَصَري
+optical parts	جاوشير
+optical path	مَسارٌ بَصَريّ / مسار ضوئي
+optical phenomenon	ظاهِرة بَصَريَّة
+optical plane	سطح بصري
+optical plastic	لَدينةُ بَصَريّات
+optical polishing	صَقل بصريّ
+optical properties	خواص ضوئية
+optical properties (of a crystal)	خَصائِصُ بَصَريَّة (لِلبِلَّورة)
+optical pumping	ضَخٌّ بصري
+optical pyrometer	پَيْرومِتْر بَصَريّ
+optical radar = opdar	رادارٌ بَصَريّ، أُوپدار
+optical range finder	مُبَيِّنُ المَدى البَصَري
+optical reader	قارئ ضوئي / قَارِئَةٌ ضَوْئِيَّة
+optical recognition	تعرّف ضوئي
+optical recording	تَسْجيلٌ ضَوئيّ
+optical rotation	دَوَرانٌ بَصَري، دَوَرانُ مُستَوي الاستِقطاب
+optical scanner	ماسحة ضوئية / مِفْرَاسٌ ضَوْئيّ
+optical sight	مِهْدافٌ بَصَري، نَظّارةُ التسديد
+optical sign	عَلامةُ الاستِقطاب البَصَري / علامة بصرية
+optical sound head	رأسُ الصَّوت البَصَريّ
+optical spectra	أطيافٌ بَصَريَّة
+optical spectrometer	مِطيافٌ بَصَريّ
+optical square	كُوسٌ إبصاري
+optical surface	سَطْح بَصَري (عاكِسٌ أو كاسِر)
+optical system	مَنْظومة بَصَريَّة
+optical telescope	تلِسْكوب بَصَريّ (غيرُ راديويّ)
+optical thermometer	مِحْرارٌ بَصَريّ، پيرومتر بَصَريّ، تِرمومتر بصَريّ
+optical track	مَسْلَكٌ بَصَريّ
+optical tracking	تتَبُّعٌ بَصَريّ
+optical tracking theodolite	ثيودوليت متابعة بصريّ
+optical tube length = optical interval	طُولُ الأُنبوب البَصَريّ، تِرمومتر بَصري
+optical wand	مِخْصَرَةٌ بَصَريَّة
+optical-mechanical system	نِظام (تَلْفَزَةٍ) آليُّ المَسْح
+optically active	ذو فاعِليةٍ بَصَرِية، مُدَوِّرٌ لمُستَوي الاستِقطاب
+optically effective atmosphere	جو ناجع ضوئياً
+optician	صانِعُ أدواتٍ بَصَريَّة، صانِعُ النظّارات الطبيَّة، نظّاراتي
+optics	عِلْمُ البَصَرِيّات، البَصَريّات
+optimal	أمْثَلُ، مُثْلَى / الأمثل
+optimal control	تَحَكُّمٌ أَمْثَل
+optimal solution	حَلٌّ أمْثَلُ
+optimal system	مَنْظومةٌ مُثْلَى
+optimeter = omtimeter	مِقياسٌ دَقيقٌ لِمُعايرَة اللولَبة
+Optimise	أمثلة
+optimization	توَخِّي (أو تَحْقيقُ) الأمثَليَّة، اِستِمثال / 1 استمثال ؛ 2 استمثال / أَمْثلَة / أمثلة / تحسين / اسْتِمْثال (اخْتِيارُ الأَمْثَل)
+optimization theory	نَظَرِيَّةُ الاسْتِمْثال(اخْتِيارُ الأَمْثَل)
+optimize	أمْثَلَ، اِستَمْثَلَ / أمثلة
+Optimized	مأمثل
+Optimized platforms architectures	بُنى منصّات مُحسَّنة
+optimizer	مستمثِل / مُحسِّن
+optimizing compiler	مصرِّفٌ مستمثِل
+optimum	أفضَلُ، أمثَلُ / قيمةٌ مُثْلَى
+optimum coupling	تقارُنٌ أمثَل
+optimum degree	عصب بصري
+optimum density	كَثافةٌ مُثْلَى
+optimum load	الحِمْلُ الأمثَل
+optimum mixture	المَزيجُ الأمثل
+optimum moisture content	المُحتَوى الرُّطوبيّ الأمثَل
+Optimum Population	الحجـم الأمثـل للسكان
+optimum programming	بَرْمَجة مُثْلَى
+optimum temperature	دَرَجة الحَرارة المُثْلى / درجة مثلى
+optimum value	القيمة المُثْلَى
+option	اِختِيار؛ حَقُّ الاختيار / خِيَار / خيار
+option case	خَانَةُ الْخِيارَات
+Option key	مفتاح "الخيار"
+optional	اِختياريّ / خياري
+optional hyphen	واصلة اختيارية
+optional stop instruction	تعليمة وقوف خيارية
+optional-pause instruction	تعليمة توقّف خيارية
+Options	خِيارات / خيارات
+optoacoustic effect	ظاهِرةٌ بَصَريَّة صَوتيَّة
+optoelectronics	إلكترونيات بصرية
+optoelectronics = electro-optics	الإلكترونيات البصريَّة
+optomechanical mouse	فأرة ضوئية-ميكانيكية
+optometer	أوپتُومِتر
+optometry	قياس البصر
+optophone	أوپتوفون، مِصوات كهرضَوئيّ
+opus	عَمل؛ زَخرفة؛ تطريز
+opus musivum	زَخرفةٌ فُسيفسائية
+opus sectile = sectile opus	رَصفٌ فُسَيفسائي
+OR	«أو» / جواز / أو
+or bed	طبقة الركاز
+OR circuit	دارة «أو»
+OR gate	بَوّابةُ «أو»
+OR-parallelism	توازي الجواز
+oral	شَفَهِيّ، شَفَويّ؛ فَمِّيّ
+oral cavity	تَجْويفُ الفَم
+oral cirri	درجة الحرارة المثلى
+oral surface	سطح فموي
+orange	بُرتُقالة؛ لَونٌ بُرتُقاليّ؛ برتُقاليُّ اللون / برتقالي
+orange -lily	ذؤابات فمية
+Orange Book	1 الكتاب البرتقالي؛ 2 الكتاب البرتقالي
+orange lead	إسْرَنْج بُرتُقالي
+orange light	ضَوءٌ بُرتقالي
+orange peel	تغَضُّن
+orb	كُرَة، جِسْمٌ مُستَدير؛ دائِرة؛ جِرْمٌ سَمَاويّ؛ فَلَك، مَدار / وسيط طلب الأغراض
+orbicular	دوَيريّ؛ مَحاريّ
+orbicular (spheric)	كروي، دائري
+orbicular structure	بِنْيَةٌ مَحارِيَّة (مِن المحاراتِ المتمركِزة المَدارات) / بنية كروية
+orbicular; spheric	كروي، دائري
+orbit	مَدار، فَلَك؛ مَدار، مسارٌ دائري؛ حَِجاج (العَيْن)، حجاج، مَحْجَر، وَقْب؛ دارَ حَولَ / مسار / مَدار / مدار / زنبق برتقالي أوزعفراني
+orbit decay	تلاشي المدار
+orbit inclination	مَيْلُ المَدار
+orbit(al) decay	تَلاشِي المَدار؛ تَضاؤلٌ مَداريّ (لإلكتروناتِ الذرَّة)
+orbit; orbital revolution	مدار
+orbital	مَدَاريّ؛ حَجَاجِيّ، وَقْبيّ؛ مَداري
+orbital accelerator	مُسارِعٌ مَداري
+orbital angular momentum	زخمٌ زاويٌّ مَداري (لإلكترون دوّار)
+orbital electron	إلِكترون (كُهَيْرِبٌ) مَداريّ
+orbital elements	عناصر مدارية
+orbital momentum	زَخْمٌ مَداريّ
+orbital motions	حَرَكات مدَاريَّة
+orbital path	مَسارٌ مَدارِيّ
+orbital period	فَتْرة مَداريَّة، مُدَّة الدورة / دور مداري
+orbital quantum number	العدد الكمِّي المَداري
+orbital rendezvous	لِقاءٌ مَداري
+orbital sander	مِرملة مداريّة، مُسنفرة رمليّة مداريّة
+orbital velocity	السُّرعةُ المَداريَّة
+orbital, atomic	المداريّ الذرِّيّ، الحَجْمُ المَداريُّ الذرِّيّ
+orbital, molecular	مَداريٌّ جُزَيئي
+orbiter	عَرَبةٌ (فَضائيَّة) مَداريَّة
+orbiting observatory	مَرْصَدٌ مَداريّ (فضائيّ)
+orchis	حجاج، محجر
+ordeal	مِحْنَة، تجرِبةٌ قاسية
+order	مَرْتبة؛ أمْرٌ، إيعاز؛ طَلَب؛ حَوالة؛ وِسام نَسَق، نِظام، تَرْتيب، تَشْكيلَة؛ رُتْبة؛ طِرازٌ مِعماريّ؛ طِرازُ الأعمِدة؛ رُتْبَة؛ إيعاز؛ حالةُ صِفْر الإنتروبيا؛ مَرْتَبة؛ أمَرَ، طَلَبَ / 1 مرتبة ؛ 2 رتبة ؛ 3 ترتيب / يرتّب / رتبة / مَرْتَبَة، درجة / سحلب
+order blank	اِستِمارةُ طَلَب
+order book	دَفتَرُ الطَّلَبات (التِّجاريَّة)
+order check (or cheque)	شِيكٌ لاِمرِه
+order form	أُنموذَجُ طَلَب
+order ideal	مِثالِيٌّ في مَجْموعَةٍ مُرَتَّبة
+order interval	مَجالٌ في مَجْموعَةٍ مُرَتَّبة
+order number	رَقْمُ الطَّلَب؛ رَقمُ المَرْتَبة
+order of a derivative	رتبةُ مشتقةٍ
+order of a determinant	رتبةُ محدَّدٍ
+order of a differential equation	رتبةُ معادلة تفاضلية
+order of a group	رتبةُ زمرةٍ
+order of a matrix	رتبةُ مصفوفةٍ
+order of a nodal point	رتبةُ نقطة (عقدية)
+order of a radical; order of a root	رتبة جذرٍ
+order of an equation	رتبةُ معادلةٍ
+order of crystallization	درجة التبلور
+order of degeneracy	مَرْتَبةُ التَّرَدِّي
+order of eruption	شدة الاندفاع
+order of insects	رتبة
+order of interference	رُتْبَةُ التداخُل
+order of magnitude	رُتْبَةُ العِظَم، مَرتَبة الكِبَر / مَرْتَبةُ القيمَةِ المُطْلَقة
+order of reaction	تَرْتيبُ (أو دَرَجةُ) التفاعُل
+order of reflection	رُتْبة الانعِكاس
+order of symmetry	رتبة التناظر
+order of the day	جَدْوَلُ الأعمال (اليَوميّ)
+order point	حَدُّ الطلَب
+order relation	علاقة ترتيب / عَلاقةُ تَرْتيب
+order tone	نَغْمةُ الطَّلَب
+order-preserving (adj)	مُحافِظٌ على التَّرْتيب
+ordered	مُنَظَّم، مُنَسَّق، مُرَتَّب / مرتب
+ordered data	معطيات مرتبة
+ordered field	حقل مرتب / حَقْلٌ مُرَتَّب
+ordered geometry	هَنْدَسةٌ مُرَتَّبة
+ordered group	زمرة مرتبة
+ordered n-tuple	نونِيٌّ مُرَتَّب
+ordered octad	ثُمانية منظَّمة
+ordered pair	زوج مرتب / زَوْجٌ مُرَتَّب
+ordered partition	تَجْزِئةٌ مُرَتَّبة
+ordered polynomial	حدودية مرتبة
+ordered quadruple	رُباعِيَّةٌ مُرَتَّبة
+ordered ring	حلقة مرتبة
+ordered rings	حَلَقاتٌ مُرَتَّبة
+ordered set	مجموعة مرتبة / مَجْموعةٌ مُرَتَّبة
+ordered structure	بِنْيةٌ مُرَتَّبة
+ordered triple	ثُلاثِيَّةٌ مُرَتَّبة
+ordered vector space	فَضاءٌ مُتَّجِهِيٌّ مُرَتَّبَ
+ordering	عَلاقةُ تَرْتيب
+orderly	مُنَظَّم، مُرَتَّب؛ تابِع، وَصيف؛ عامِل
+ordinal	رُتْبَوي، تَرتيبي، تَرَاتُبي / ترتيبي
+ordinal (number)	العَددُ الترتيبي
+ordinal data	مُعْطَياتٌ تَرْتيبِيَّة
+ordinal number	عدد ترتيبي / عَدَدٌ تَرْتيبِيّ
+ordinal scale	تَدْريجٌ تَرْتيبِيّ
+ordinally similar relations	عَلاقَتانِ مُتَشابِهَتانِ تَرْتيبِيًّا
+ordinarily	عادَةً، في العادة
+ordinary	عادِيّ، اِعتِياديّ، مَألوف / عادي
+ordinary agricultural meteorological station	مَحَطَة أرصاد جوية زراعيّة عادية
+ordinary climatological station	مَحَطَّة مُنَاخِيَّة عادِيّة
+ordinary differential equation	مُعادَلةٌ تَفاضُليَّة عادِيَّة / مُعادَلةٌ تَفاضُلِيَّةٌ عادِيَّة
+ordinary fraction	كَسْرٌ اعتيادي / كسر عادي
+ordinary generating function	دالَّةٌ مُوَلِّدةٌ عادِيَّة
+ordinary lay	جَدْلٌ عادِيّ (يتعاكَسُ فيهِ جَدْلُ الحَبْل والجَدائل)
+ordinary light	ضوء عادي
+ordinary point	نُقْطةٌ عادِيَّة
+ordinary ray	شُعاعٌ عادِيّ (الانكِسار) / شعاع عادي
+ordinary singular point	نُقْطةٌ شاذَّةٌ عادِيَّة
+ordinate	الإحداثِيُّ الرأسيّ (الصادِيّ) / احداثي صادي / إحْداثِيٌّ عَيْنِيّ
+ordinate of a point	الإحداثيُّ الرأسيّ لِلنُّقطة
+ordinates, axis of	مِحْوَرُ الإحداثيّاتِ الرأسيَّة، الإحداثيُّ الصّادِيّ
+ordnance	مُعَدّات مِدْفَعيّة، مُعَدّات حَربيَّة، عَتاد؛ عِيْنَة
+ordnance bench mark	علامةُ إسناد مساحيّ، مَعْلَمٌ مِساحِيّ (بالنسبة لِمَرجِع الإسناد)
+ordnance datum	خَطُّ إسنادٍ مِساحيّ (كمرجعٍ يُحَدِّد صِفْرَ الارتفاع)
+ordnance survey	مَصلَحةُ المِساحة، مَصلحةُ الخَرائط
+ordonnance	تَناسُق، تَرْتيبٌ نِسبيّ؛ مَرسُوم
+ordovician	أوردوفيسي
+Ordovician period	العَصْرُ الأردوفيسيّ (بينَ السّيلُوري والكَمْبري) / عصر (ال..) الأوردوفيسي
+ordovician system	نظام الأوردوفيسي
+ore	خام، خامَة، رِكاز / رِكَاز، خام / ركاز، خام
+ore (eluvial ore deposit)	راسب الركاز الحتي
+ore (lean)	ركاز ضعيف المحتوى الفلزي
+ore (lean...)	ركاز ضعيف المحتوى الفلزي
+ore apex	قِمَّةُ الرِّكاز
+ore bed	طَبَقةُ الرِّكاز
+ore berth	مرس (رصيف) الخام
+ore bin	خابِيَة خام
+ore body	كُتْلَةُ الخام، كُتلةُ الرِّكاز / مَكْمَن / مكمن
+ore bridge	قَنْطَرةُ خام، مِرْفاعُ خامٍ قَنْطَريّ
+ore bunker	مُستَودعُ الخام
+ore carrier	ناقلة الخام
+ore concentration	تَرْكيز الخام / تركيز الخام
+ore crusher	كسّارةُ الخام
+ore deposit	قرارةُ الرِّكاز، راسِبُ الخام / راسب الخام
+ore dressing	تَهْذيبُ الخام
+ore dryer	مُجَفِّفُ الخام
+ore enrichment	إغناءُ الخام
+ore flotation promoter	مُعَزِّزُ تَعْويم الخام
+ore furnace	فُرْن صَهْرِ الخام
+ore hearth	فرنُ صَهْر الخامِ (في تَعْدين الرَّصاص)
+ore lode; ore vein	عرق ركازي
+ore milling	سَحْقُ خام المَعْدِن
+ore mineral	معدنُ الخام
+ore mining	تَعْدينُ الخام، اِستخراجُ الرِّكاز
+ore pocket	جَوْبَةُ الخام
+ore roasting chamber	حُجْرةُ تَحْميصِ الخام
+ore shoot	عمودُ الخام؛ عِرْقُ الرِّكاز
+ore sorting	فَرْزُ الخام
+ore washing plant	وَحْدَةُ غَسْل الخام
+ore, mineral	خامٌ مَعدِني
+ore-bearing rock	صَخْرٌ رِكازيّ
+ore-bulk-oil ship (OBO)	سفينة خام وسوائب ونفط
+ore-dressing works	وَرْشَةُ تهيِئةِ الرِّكاز (أو تَهْذيب الخام)
+ore-oil carrier	ناقلة الخام والنفط
+ores, metalliferous	خاماتٌ فِلزِّيَّة، خاماتٌ حاويةٌ لِلمَعادن
+Orford process	طَريقةُ «أورفُورد»
+Org	منظمة
+organ	عُضْو؛ جِهاز؛ أُرْغُن / عضو
+organ of special sens	عضو حس خاص
+organelle	عُضَيٌّ، جُزَيئةٌ عُضْويَّة (داخِل الخليَّة)
+organic	عُضْوِيّ؛ عُضويُّ المنشأ؛ عُضوي / عضوي
+organic acids	أحماضٌ عُضْويَّة، حَوامِضُ عُضْويَّة
+organic aggregates	رُكامٌ عُضْويّ، أخلاطٌ (خَرَسانيَّة) عُضْويَّة
+organic analysis	تَحليل عُضْوي
+organic base	قاعِدة عُضويَّة
+organic chemistry	الكيمياءُ العُضْوِيَّة
+organic compound	مُرَكَّب عُضْوي
+organic deposits	رَواسِبُ عضْوِيَّة
+organic evolution	تطور عضوي
+organic grease	شَحْمٌ عُضْوي
+organic matter	مادَّة عُضويَّة
+organic nutrients	الأغذيةُ العُضويَّة
+organic rock	صخر عضوي
+organic rock formation	تشكيلة صخر عضوي
+organic rocks	صُخور عُضويَّة
+organic salt	مِلْحٌ عُضْويّ
+organic silt (or clay)	غِرْيَنٌ عُضْويّ
+organic slime	طين عضوي
+organic solvent	مُذيبٌ عُضوي
+organic weathering	تَجْوِيَة عُضْويَّة
+organism	كائنٌ حَيّ، مُتَعَضٍّ (الجَمعُ مُتَعَضِّيات)، كائِنٌ عُضويّ / كائن حي متعض، متعضية / كائن متعض
+organization	تَنظيم، نِظام؛ مُنَظَّمَة، هَيئَة؛ تَعْضِيَة، تَعَضٍّ / منظمة، الشركة / تنظيم، تعضٍّ / تنظيم، تعض / تعض، نظام
+organization chart	مُخَطَّط تَنْظيميّ / رُسَامَة تَنْظِيمِيَّةٌ
+organization, industrial	مُؤسَّسة صِناعيَّة؛ تَنْظيمٌ صِناعي
+Organizational Unit	الوحدة التنظيمية
+Organizations Concerned with Specific Social Groups	المنظمات المعنية بفئات اجــتماعية محددة
+Organizations Engaged in Environmental Protection	المنظمات العاملة في مجال المحافظة على البيئة
+organize	نَظَّمَ، رَتَّبَ؛ أسَّسَ؛ عَضَّى / تنظيم
+organizer	مُنَظِّم؛ مَركَزُ تَنْظيم / منظم
+organizing committee	لَجْنةُ تَنْظيم
+organo-metallic compound	مُرَكَّبٌ فِلزِّي عُضوي
+organogenic	عُضْويُّ المَنْشأ
+organogenous	عضوي المنشأ
+organogenous sediments	توضُّعات عضوية التكوين / توضعات عضوية التكوين
+organosol	صُلٌّ عُضْوي، مُستَعْلَقٌ
+organs of offence and defence	أعضاء الهجوم والدفاع
+oriel	مَشْرَبيَّة، نافِذةٌ ناتِئة
+Orient	الشَّرْق، المَشْرِق / وَجَّهَ؛ كَيَّفَ، نَسَّقَ / مشرق(ال..)
+orientable surface	سَطْحٌ قابِلٌ للتَّوْجيه
+oriental	شرقي
+oriental alabaster = onyx marble	مَرمَرٌ شَرْقي، رُخامٌ جَزْعيّ
+oriental emerald	زمُرُّد شَرقي
+oriental ruby	ياقوتٌ شرقي
+oriental saphire	صَفير شرقي
+oriental topaz	ياقُوت أصفَرُ
+orientate	وَجَّهَ، اِتَّجَهَ، توَجَّه (لِمُلاءمةِ وَضْعٍ مُعَيَّن)
+orientation	تَوْجيه، تكْييف، تَهْيئَة؛ اِتِّجاه، تَوَجُّه؛ اِتِّجاه (بالنِّسبة إلى الشّمال الحَقيقي) / توجيه / توجّه، توجيه، اتجاه / تَوْجيه / توجيه، توجُّه
+orientation effect	أثر التوجيه
+orientation of a space	توجيه فضاء
+orientation of fibrils in cell wall	توجيه الليفات في جدار الخلية
+orientation of monocline minerals	توجيه بصري للمعادن الأحادية الميل
+oriented	موجَّه / موجه
+oriented angle	زاوية موجَّهة
+oriented arc	قوس موجَّهة
+oriented graph	بَيانٌ مُوَجَّهٌ وَحيدُ الاتِّجاه
+oriented line	مستقيم موجَّه
+oriented simplex	مُبَسَّطٌ مُوَجَّه
+oriented simplicial complex	مُجَمَّعُ مُبَسَّطاتٍ مُوَجَّهَة
+oriented specimen	عَيِّنة مُوَجَّهة / عينة موجَّهة / عينة موجهة
+orifice	فُوَّهَة، فُتْحَة
+orifice coefficient	مُعامِلُ الفُتْحة
+orifice meter	مِقياسُ التدَفق الفوَّهيّ؛ مِقياسٌ فُوهي
+orifice spud	سِدادُ (أو سِطامُ) الفُوهة
+orifice spud, adjustable	سِدادٌ بفُوَّهةٍ انضِباطيَّة (الدَّفْقِ)
+orifice spud, fixed	سِدادٌ بفُوَّهةٍ ثابِتة (الدَّفْقِ)
+origin	أصْل، مَصْدَر، مَنْشأ؛ الأصْل / أصل / نُقْطةُ الأصْل / أَصْل / أصْل
+origin of a new species	نشأة نوع جديد
+origin of a ray	ابتداء شعاع
+origin of a vector	أصل متجهٍ
+origin of co-ordinates	أصل الاحداثيات
+origin of lateral roots	أصل الجذور الجانبية
+origin of replication	نقطة المنشإ
+origin of species	أصلُ الأنواع / أصل الأنواع
+origin rocks	صخور أصلية
+origin, point of	نُقطةُ الأصل
+original	أصْليّ، أصيل؛ مُبتَكَر؛ الأصل، النُّسْخة الأصليَّة / أصلي
+original equipment manufacturer	مُصنِّع معدّات أصلي
+original medullary ray	شعاع نخاعي أصلي
+original model	النَّموذَجُ الأصليّ
+original position	الوَضْعُ الأصلي
+original pressure	الضغط الأصلي
+original stratification	طباقية الأصل، تطبقية الأصل
+original strtification	طباقية
+originality	أَصالة، جِدَّة، اِبتكارِيَّة
+originate	نَشَأ، بَدَأ؛ أنْشَأ، أحدَثَ
+Orion	الجَبّار، الجَوزاء / كوكبة الجبار / جوزاء (ال..) (مجموعة نجمية)
+orion's belt	حزام الجبار
+Orlon	أُورلون
+orlop deck	السَّطْح السُّفْليّ (في السفينةِ المتعَدِّدة السُّطوح)
+ormolu = mosaic gold	الذهَبُ الزائِف
+ornament	حِلْيَة، زِينَة؛ زَيَّنَ، زَخْرَفَ
+ornament rocks	صخور الزينة
+ornamental	زُخْرُفِيّ
+ornamentation	زَخْرَفة / زخرفة / تزيين
+ornate	مُزَخْرَف
+ornementation	زخرفة
+ornithology	عِلْمُ الطيور / علم الطير
+ornithophily	التلقيحُ (أو التأبير) بالطيور
+ornithopter	طائرة خَفّاقة
+orobanchaceae	فصيلة هالوكية
+orobanche	هالوك
+orobus	أروبس
+orogene	حزام ملتو
+orogenesis = orogeny	نُشوءُ الجِبال
+orogenetic; orogenic zone	منطقة ملتوية، منطقة الالتواء
+orogenic cycle	دورة الحركات الالتوائية
+orogenic movement	حَرَكةُ نُشوء الجِبال
+orogenic movements	حركات التوائية / حركات إلتوائية
+orogenic phase	طور الحركات الالتوائية
+orogenic sedimentation	ترَسُّبٌ جَبَلِيُّ المنشأ / ترسيب المناطق الالتوائية
+orogenic zone	منطقة ملتوية، منطقة الالتواء
+orogeny	نشوء الجبال
+orogeny; orogenesis	نشوء الجبال
+orographic cloud	سَحابةٌ تَضارِيسِيَّة
+orographic depression	مُنْخَفَضٌ تَضاريسِيّ
+orographic precipitation	تَساقُطٌ تَضارِيسِيّ
+orographic rain	مَطرٌ جَبَلي
+orography	عِلْمُ الجِبال، جُغرافيَّة الجِبال / علم وصف الجبال
+orology	علم بناء الجبال و تشكيلها
+orometer	أورُومِتر
+oronite	أُورونَيت
+orphan	[سطر] يتيم / يتيم / اليتيــم
+orphan file	ملف يتيم
+Orphan process	اجراء يتيم
+orphons	مورثات كاذبة
+orpiment	الرَّهَجُ الأصفر / أوربيمان
+orpine	حي العالم
+orris	سوسن
+Orsat apparatus	جِهاز «أورسات»
+orthicon	أُورثيكون
+orthicon (image) tube	أنبوب لاقط
+orthite	أورتيت
+ortho normed	متعامد نظيم
+ortho-	بادِئَةٌ بِمَعنى قَويم، مُستقيم؛ قائم؛ أُورثو، مُتَجاوِرُ البَديلَيْن
+ortho-chlorophenyl-methylcarbamate	أورثو - كلوروفينيل كاربامات الميثيل
+ortho-chlorotoluene	أورتو - كلور التولوين
+ortho-para directing	أُورثو باريُّ التَّوجيه
+orthoaxis	مِحْوَرٌ مُستَقيم (أو مُتَعامِد)
+orthocenter	مُلْتَقَى الارْتِفاعات
+orthocentre	مُلتَقَى الارتفاعات (في المُثَلَّث) / ملتقى الأعمدة
+orthochromatic	قَوِيمُ التلَوُّن، أورثوكروماتي
+orthochromatic film	فيلمٌ أورثوكروماتي
+orthochromatin	كروماتين اعتياديّ ثابت
+orthoclase	أورثوكلاز / أرتوكلاز
+orthodontics	تقويمُ الأسنان
+orthodrome	دائرة عظمى
+orthodrome distance	مسافة على دائرة عظمى
+orthogenesis	(نظَرِيَّة) التطَوُّر المُوَجَّه / تطور (ال..) المستقيم
+orthogeosyncline	تقَعُّر إقليميٌّ قائم (بينَ المِجَنّات الصَّخْريَّة) / مقعر جيولوجي أصيل
+orthogeotropism	اِنتِحاءٌ أرضِيٌّ مُستَقيم
+orthogonal	عَمُوديّ، مُتعامِد / متعامِد / متعامدة
+orthogonal (adj)	مُتَعامِد
+orthogonal basis	قاعِدةٌ مُتَعامِدة
+orthogonal basis vectors	متجهات أساس متعامدة
+orthogonal circles	دائِرتانِ مُتعامِدَتان / دوائر متعامدة / دائِرَتانِ مُتَعامِدَتان
+orthogonal complement	مُتَمِّمٌ مُتَعامِد
+orthogonal crystal	بِلَّورة مُتَعامِدةُ المَحاوِر
+orthogonal curves	مُنْحَنيانِ مُتَعامِدان / مُنْحَنِياتٌ مُتَعامِدة
+orthogonal family	جملة متعامدة / جَماعةٌ مُتَعامِدة
+orthogonal functions	دَوالُّ مُتَعامِدة
+orthogonal group	زمرة متعامدة / زُمْرةٌ مُتَعامِدة
+Orthogonal instruction set	زمرة تعليمات متعامدة
+orthogonal lines	مُسْتَقيمانِ مُتَعامِدان
+orthogonal matrix	مصفوفة متعامدة / مَصْفوفةٌ مُتَعامِدة
+orthogonal mesh reinforcement	تَسْليحٌ شَبَكيٌّ مُتَعامِد
+orthogonal polynomials	حُدودِيَّاتٌ مُتَعامِدة
+orthogonal projection	مَسْقَطٌ عَمودي؛ إسقاطٌ عَمُودي أو مُتَعامِد / اسقاط عمودي / إسْقاطٌ عَمودِيّ
+orthogonal scanning	مَسْحٌ مُتَعامِد
+orthogonal series	مُتَسَلْسِلةٌ مُتَعامِدة
+orthogonal set	مَجْموعةٌ مُتَعامِدة
+orthogonal spaces	فَضاءانِ مُتَعامِدان
+orthogonal subspaces	فَضاءانِ جُزْئِيَّانِ مُتَعامِدان
+orthogonal sum	مَجْموعٌ مُتَعامِد
+orthogonal surfaces	سَطحانِ مُتَعامِدان / سُطوحٌ مُتَعامِدة
+orthogonal system	نظام متعامد / مَنْظومةٌ مُتَعامِدة
+orthogonal tensors	مُوَتِّرانِ مُتَعامِدان
+orthogonal trajector	مسار متعامد
+orthogonal trajectory	مَسارٌ عَمودِيّ
+orthogonal transformation	تَحْويلٌ عَمودِيّ
+orthogonal vector	متجهات متعامدة
+orthogonal vectors	مُتَّجِهانِ مُتَعامِدان / مُتَّجِهاتٌ مُتَعامِدة
+orthogonality	تَعامُد
+orthogonalization	مُعامَدة
+orthograph	رَسْمُ المَسقط الرأسي (لِمَبنًى أو لِجُزءٍ منه)
+orthographic projection	إسقاطٌ مُتَعامِد، إسقاطٌ عَمُوديّ / إسْقاطٌ عَمودِيّ / إسقاط متعامد
+Orthography	الإملاء
+orthohelium	أُورثوهليوم
+orthohydrogen	أورثوهِدْروجين
+orthokinetic	مُرتَحِلٌ في نَفْس الاتِّجاه؛ مُقَوِّمُ الحَركةِ
+orthomorphic projection = conformal projection	مَسْقَطُ الشكلِ الصحيح (في رَسْم الخَرائط)، مَسْقَطٌ مُطابِق
+orthonik	أورثونيك
+orthonormal basis	قاعِدةٌ مُتَعامِدةٌ مُنَظَّمة
+orthonormal coordinates	إحْداثِيَّاتٌ مُتَعامِدةٌ مُنَظَّمة
+orthonormal functions	دَوالُّ مُتَعامِدةٌ مُنَظَّمة
+orthonormal vectors	مُتَّجِهاتٌ مُتَعامِدةٌ مُنَظَّمة
+orthopedics	جِراحةُ العِظام، تَقْويمُ العِظام
+orthophosphoric acid	حامِضُ الأُورثوفُسْفوريك، حَمْضُ الفُسفوريك
+orthophyric	أُورثوفيريّ
+orthopter = ornithopter	طائرة خَفّاقة
+Orthoptera	مُستَقيماتُ الأجنِحة (رُتْبةُ حَشَرات) / مستقيمات الأجنحة
+orthoptic curve	مُنْحَني تَعامُدٍ بَصَرِيّ
+orthoptics	تَقْويمُ البَصَر
+orthorhombic	مُعَيَّنِيٌّ مُستَقيم؛ نظامُ المُعَيَّن المُستَقيم / معيني
+orthorhombic pyramid	هَرَمٌ مُعَيَّنيٌّ مُستَقيم / هرم معيني
+orthorhombic sphenoid	الإسفيني المُعيَّني (من الأشكال البلوريَّة)
+orthorhombic system	نِظامُ المُعَيَّن المُستَقيم، نِظامُ التبلورِ المعيَّنيّ المُستَقيم
+orthoscope	مِنظارٌ مُقَوَّم
+orthoscopic eyepiece	عَيْنيَّةٌ مُقَوَّمة
+orthoscopic system = rectilinear system	مَنْظومَةٌ مُقَوَّمة
+orthosilicate minerals	مَعادِنُ أورثوسِليكاتية
+orthostyle	صَفٌّ مُستقيمٌ مِن الأعمِدة
+orthotropism	اِنتِحاءٌ رأسيّ (أو عَموديّ)
+oryctognosy; mineralogy	علم المعادن / علم المعادن، عدانة
+oryx	مهاة
+OS	نظام تشغيل
+OS (oculus sinister)	العَيْنُ اليُسْرَى
+os (or ose)	حَيْدٌ جَبَليّ
+Os (osmium)	مز
+OS/2	[نظام التشغيل] OS/2
+osar = esker	إسكَر
+Osborne’s rule	قاعِدةُ أُسْبورْن
+oscillate	ذَبْذَبَ، تَذَبذبَ، اِهتَزَّ؛ ناسَ، ترَجَّحَ، تنَوَّسَ
+oscillating armature	حافِظَة مُتَذَبذِبة
+oscillating block (or mass)	كُتْلة مُتذَبذِبة
+oscillating cam	حَدَبةٌ (كامةٌ) مُتذَبذِبة
+oscillating circuit	دارة تذَبذُبيَّة
+oscillating conveyor	ناقِلة هَزّازة
+oscillating crystal	بِلَّورةٌ تذَبْذُبيَّة
+oscillating current	تيّارٌ مُتَذَبذِب، تيّار تَذَبذُبي
+oscillating cylinder	أُسطوانة مُتَرجِّحة
+oscillating detector	مِكْشاف تذَبْذُبي
+oscillating doublet antenna	هَوائيٌّ ثُنائيٌّ تذَبْذُبي
+oscillating engine	مُحَرِّكٌ مُتَرجِّحُ الأُسطوانة
+oscillating load	حِمْلٌ مُتذَبذِب
+oscillating motion	حَرَكة تَذَبذُبيَّة
+oscillating piston	كَبّاسٌ أو مِكْبَسٌ مُتذَبذِب
+oscillating screen	غِرْبالٌ هَزّاز
+oscillating series	مُتسَلْسِلةٌ تذَبْذُبيَّة / مُتَسَلْسِلةٌ مُتَذَبْذِبة
+oscillating voltage	ڤلْطيَّة مُتذَبذِبة
+oscillation	ذَبْذَبة، تذَبذُب، اِهتِزاز؛ نَوَسان، ترَجُّح، خَطَران / اهتزاز / تذبذب / ذبذبة
+oscillation constant	ثابِتُ التذَبذُب
+oscillation frequency	ترَدُّدُ الذبذَبة
+oscillation of a function	ذَبْذَبةُ دالَّة
+oscillation period	زَمَنُ الذبذبة
+oscillation point	نُقطة الذبذَبة
+oscillation transformer	مُحَوِّل تذَبْذُبي
+oscillation valve	صِمامٌ تذَبْذُبي؛ مِكشافٌ أو مُذبذِب صِمامي
+oscillation, centre of	مَركزُ التذَبذُب
+oscillation, damped	ذبذَبة مُتَضائلة (أو مُضاءَلة)
+oscillation, forced	ذَبذبة قَسرِيَّة
+oscillation, free	ذَبذبة حُرَّة
+oscillation, lateral	ذَبذَبةٌ جانِبيَّة
+oscillation, stable	ذَبْذَبةٌ مُستَقِرَّة
+oscillation, unstable	ذَبْذَبةٌ غيرُ مُستَقِرَّة
+oscillator	مُذَبذِب / مُهتَزّ
+oscillator crystal	بِلّورة المذبذِب
+oscillator drift	اِنسِياقُ المذَبذِب
+oscillator tube	صِمامٌ تذَبْذُبيّ
+oscillatory	تذَبذُبي، مُتَذبذِب، اهتزازي
+oscillatory circuit	دارةٌ تذَبذُبيَّة، دارةٌ اِهتِزازيَّة
+oscillatory crystal	بِلَّورةٌ تذَبْذُبيَّة
+oscillatory current	تيّارٌ تذَبْذُبيّ
+oscillatory discharge	تَفريغ تذبذُبي، تَفْريغٌ اِهتزازيّ
+oscillatory motion	حَرَكة تذبذُبيَّة، حَرَكة اِهتزازيَّة
+oscillatory scanning	مَسْحٌ تذبذُبي
+oscillatron	أُوسِّيلَتْرون
+oscillogram	مُخَطَّطُ الذَّبْذَبة، رَسْمٌ تَذَبْذُبيّ (مَوجِيُّ الشَّكْل)
+oscillograph	راسمُ (أو مِرسَمةُ)
+oscillograph, cathode-ray	مِخطاطُ ذَبْذَبة بالأشِعَّةِ الكاثوديَّة، مِرسَمَةُ ذَبْذَباتٍ بالأشِعَّةِ المَهْبِطيَّة، أُسِّيلوغراف كاثودي
+oscillograph, electrostatic	مِخْطاطُ ذَبْذبةٍ إلِكتروستاتي
+oscillograph, hot-wire	مِخْطاطُ ذَبْذَبةٍ بالسلكِ الحَراري، مِرسَمةُ السِّلك الحَراري لِلتذَبْذُبات
+oscillometer	مِقياسُ التذَبْذُبِ
+oscillometry	قِياسُ التذَبْذُبات
+oscilloscope	كاشِفُ الذبذبة / راسم اهتزاز
+osculate	لَثَمَ، مَسَّ
+osculating	لِثاميّ، لِثاميُّ التَّماسّ، مُلاصِق
+osculating circle	دائرةٌ لِثاميَّة / دائرة ملاصقة / دائِرةٌ مُلاصِقة
+osculating curve	مُنْحَني اللِّثام
+osculating curves	مُنْحَنِيانِ مُتَلاصِقان
+osculating orbit	مَدارٌ مُماسٌّ
+osculating plane	مُستَوي اللِّثام / مُسْتَوٍ مُلاصِق
+osculating sphere	كُرةٌ مُلاصِقة
+osculation	لَثْم، تفَمُّم، تمَاسّ، مُلاصَقة
+osculum	فُوَيْهَة / فوهة
+OSF	مؤسسة البرمجيات المفتوحة
+OSI	ترابط الأنظمة المفتوحة
+osier	صَفْصافُ السلاّلِين / صفصاف
+osmiridium	أوزميريديُوم
+osmium	معدن الأسيميوم
+osmium (Os)	الأُزميوم
+osmo-regulation	تنظيم أسموزي
+osmometer	أُزمومِتر، مِنْضاح، مِقياسُ الضَّغْط التناضُحيّ (الانتِشاريّ)؛ مِقياسُ الرائحة / مِقْياسُ التَّنافُذ (النفاذية)
+osmoregulation	نَظْمُ الضَّغْط التناضُحيّ
+osmose	تناضَحَ
+osmose, electric	تَناضُحٌ غِشائيّ كَهْربائي
+osmosis	الانتِشارُ الغِشائي، التناضُح، الأُزموسيَّة / تناضُح، أسموز / تناضح، أسموز / أسموز
+osmotic	أسموزي
+osmotic coefficient	المُعامِلُ التناضُحِيّ
+osmotic potential	الجُهْد التناضُحيّ (بينَ مَحلولٍ ما والماء النَّقيّ)
+osmotic pressure	الضَّغْط التناضُحيّ، الضَّغْطُ الأُزموسي / ضغط أسموزي / ضغط سموزي
+osmotic pressure regulation	تنظيم الضغط الأسموزي
+osmotic suction force	قوة الامتصاص الاموزية
+OSPF	ميفاق "المسار الأقصر أولاً"
+ossein	عَظْمِين
+osseous breccia	بريشيا عظمية / بريشيا عظمية، جذاذ عظمي
+ossicle	عُظَيمة، عَظْمة صَغيرة
+ossiferous	حاوٍ عِظامًا
+ossification	تَعَظُّم / تعظم
+osteichthyes	أسماك عظمية
+osteoblast of bone	خلية مولدة العظم
+osteocyte	خَلِيَّة عَظْميَّة
+osteolith; osteolite	عظم متحجر
+osteology	عِلْمُ العِظام
+ostium	فُوَّهة، فُتْحة فُوَّهيَّة
+ostracion	أبو صندوق
+ostracoda	استراكودا
+ostreiculture	تربية المحار
+ostrich	نعامة
+ostrich male	ظليم
+Ostrogradski’s theorem	مُبَرْهَنةُ أُسْتْروغْرادْسْكي
+Ostwald process	طريقة «أوستڤالد»
+otary	قندس
+Other	آخر
+Other Accounts	حسابات أخرى
+Other Accounts Receivable/ Payable	الحسابات الأخرى برسم القبض/الدفع
+Other Activities Revenues	إيرادات الأنشطة الأخرى
+Other Capital Transfers	تحويلات رأسمالية أخرى
+Other Changes in Volume of Assets	التغيرات الأخرى في حجم الأصول
+Other Current Taxes	ضرائب جارية متنوعة / الضرائب الجارية الأخرى
+Other Current Transfers	التحويلات الجارية المتنوعة
+Other Current Transfers – SNA	التحويلات الجارية الأخرى
+Other Deposit Liabilities with Local Banks	مطلوبات الودائع الأخرى لدى البنوك المحلية
+Other Depository Corporations	شركات الإيداع الأخرى
+Other Deposits	ودائع أخرى
+Other Economic Disappearance of Non-produced Assets	حالات الاختفاء الاقتصادي الأخرى غير المنتجة مثل
+Other Investment	استثمارات أخرى
+Other Kerosene	أنواع الكيروسين الأخرى
+Other Non-market Products	منتجات أخرى غير سوقية
+Other Oil Products	منتجات بترولية أخرى
+Other Personal Transfers	التحويلات الشخصية الأخرى
+Other Projects	مشاريع أخرى
+Other Shareholders Equities	الحقوق الأخرى للمساهمين
+Other Social Security Benefits in Kind	منافع الضمان الاجتماعي العينية الأخرى
+Other Subsidies on Products	الإعانات الأخرى على المنتجات
+Other Taxes on Production	الضرائب الأخرى على الإنتاج
+Other Telecommunication Revenues	إيرادات الاتصالات الأخرى
+Other Volume Changes in Financial Assets and Liabilities n.e.c.	التغيرات الأخرى في حجم الأصول والخصوم المالية غير المصنفة في مكان آخر
+Other Volume Changes in Non-financial Assets n.e.c	التغيرات الأخرى في حجم الأصول غير المالية غير المصنفة في مكان آخر
+Other Workers	العاملون الآخرون
+otitis	اِلتِهابُ الأُذُن
+otology	طِبُّ الأُذُن
+otophone	مِسْماع، سَمّاعة
+otoscope	مِنظارُ الأُذُن
+otter	قُضاعة، ثَعْلَبُ الماء / قضاعة
+otter twin trawls	شبكتان توأمتان
+Otto cycle	دورَة «أُوتو»
+Otto engine	مُحرِّك «أوتو»
+ounce (avoirdupois)	أونْصَة آونس (أڤوار ديپوا)
+ounce, fluid	آونس سائلي
+ounce, troy	ترُوي آونس
+oust	طَرَدَ، أخرَجَ، أزالَ
+out breeding	توالد خارجيّ
+out flow	جريان المياه
+out of action	مُعَطَّل، مُتَعطِّل
+out of alignment	مُخْتَلُّ المُحاذاة، مُخَتلُّ التراصُف الطولي
+out of balance	مُخْتَلُّ التوازُن
+out of bounds	مَحظورٌ دُخولُه
+out of breath	مَقْطوعُ النفَس
+out of centre	حائِدٌ عن المَركَز
+out of control	خارجٌ عن السيطرة، يتَعذَّرُ التحَكُّم به
+out of date	عَتيقُ الطراز، فاتَ أوانُه
+out of focus	خارجُ البُؤْرة، مُخْتَلُّ التبَؤُّر
+out of gear	مُعَطَّل، غيرُ عامِل؛ غيرُ مُعَشَّق، في نُقطةِ العَطالة
+out of joint	مُفَكَّك
+out of mesh	غَيْرُ مُعَشَّق
+out of order	مُشَوَّش، مُخْتَلُّ النظام
+out of phase	مُختَلُّ التطاوُر، مُتفاوِتُ الطور
+out of range	خارِج المَدى
+out of trim	مُشَوَّش؛ مُخْتَلُّ الوَزانة
+Out of vocabulary words	كلمات غير مدرجة في المعجم
+out of work	عاطِلٌ عن العَمَل
+out-and-in bond	رابطةُ مُواجَهةٍ ومُجانَبة (لِلحجارة الرُّكنيَّة)
+out-and-out	تَمامًا؛ كُلِّيّ
+out-gate = riser	زائدة قالَبِ الصَّب، ماسورةُ الصبِّ الزائد
+Out-Group Homogeneity Bias	تحيُّز التجانس خارج المجموعة
+Out-Migrant Rate	معدل الهجرة الخارجة
+out-of-band signaling	تشوير خارج الحزمة
+out-to-out	البُعْدُ الأَقْصَى (طُولاً أو عَرْضًا)
+outage	اِنقِطاع، توَقُّف (لاِنقِطاعِ التيّار)؛ مُدَّةُ التوَقُّف (في الطاقةِ أو المَكَنات)؛ عُمْقُ الخَواء؛ خَسارة (بِسَبَب النقلِ أو التخزين) / انقطاع الإرسال
+outbalance	فاقَ وَزْنًا، رَجَحَ على
+outbid	زايَدَ، عرَضَ ثمَنًا أعلى
+outbidder	صاحِبُ العَرْض الأعلى (في المَزاد)، صاحِبُ العَرْضِ الأقَلِّ (في مُناقَصة)
+outboard	بَرّانِيّ؛ جانِبي، بَعيدٌ عن وَسَطِ المركَب (أو الطائِرة) / خارج البدن
+outboard motor	مُحَرِّك خارِجيّ
+outboard motor oil	زَيْتُ المُحرِّكاتِ الخارِجيَّة (لِلزَّوارِق)
+outbond	طوبة مُجانَبَة
+outbound bearing	اتجاه للخارج
+Outbound Foreign Direct Investment	الاستثمار الأجنبي المباشر الخارج
+Outbound Tourism	السياحة الخارجية
+Outbox	صندوق البريد الصادر / علبة الصادر
+outbreak	نُشوب، شُبُوب، اِندِلاع؛ تَفَشٍّ
+outbreak (invasion) of air	اجتِياح الهواء
+outbreeding	اِستيلادٌ خارِجيّ، مُزاوجةٌ بينَ الأباعِد، تَهْجين
+outbuilding	مَبْنًى إضافي (مُلحَقٌ بالبناء الأصلي)
+outburst	اِنفِجار، تفَجُّر، ثوَران / تفجُّر / تفجر
+outburst (glacial)	هيجان جليديات
+outburst (glacial...)	هيجان جليديات
+outburst bank	مُنتَصَفُ الانحِدارِ في حائلٍ بَحْري
+outcome	نَتيجة، ناتِج / ناتج
+outcrop	مُنكَشَفُ الصَّخْر؛ وَجْهُ الطبقةِ الصخريَّة؛ بُروزُ المَعدِن؛ نَتأَ فَوقَ سَطْح الأرض / تكشُّف، مُنْكَشِف / تكشف، منكشف
+outcrop line	خَطُّ البُروز / خط التعري، خط التكشف
+outcrop spring	نبع التكشف
+outdegree	دَرَجةُ الخُروج
+outdent	إزاحة نحو الخارج
+outdo	بَذَّ، فاقَ، سبَقَ
+outdoor antenna (or aerial)	هَوائيّ خارِجيّ
+outdoor substation	مَحَطَّةٌ فَرْعيَّة خارِجيَّة
+outer	خارِجيّ، بَرّانيّ / خارجي
+outer (or external) conductor	مُوَصِّلٌ خارِجي
+outer automorphism	تَذاكُلٌ خارِجِيّ (أوتومورْفيزْم خارِجِيّ)
+outer bearing	مَحْمِلٌ خارِجيّ
+outer casing	غِلافٌ خارِجي، قَميصٌ خارِجي
+outer cover	غِلافٌ خارِجي
+outer crankshaft	عَمُود مِرفَقِيّ خارِجي
+outer dead-centre	النُّقْطة المَيْتَة الخارِجية
+outer harbour	ميناء خارجي
+outer join	ضمّ خارجي
+outer Jordan content	مُحْتوَى جورْدان الخارِجِيّ
+outer Jordan measure	قِياسُ جورْدان الخارِجِيّ
+outer light	نور خارجي
+outer measure	قِياسٌ خارِجِيّ
+outer planet	كوكب خارجي
+outer planets	السيّاراتُ الخارجية (المُشتري وزُحَل وأورانوس ونپتون وپلوتو)
+outer product	جداء خارجي
+outer product of two tensors	جُداءٌ خارِجِيٌّ لِمُوَتِّرَيْن
+outer shell	القِشْرة الخارِجيَّة
+outer skin	الغِشاء الخارِجي (للطائرة أو السفينة)
+outer space	الفَضاء الخارِجي
+outer strut	قائِمُ الانضِغاط الخارِجي
+outfall	مَخْرجُ التصريف؛ مَصَبّ، مَصَبُّ مَجارٍ (في نَهر أو بَحْر)
+outfall mark (buoy)	علامة (عوامة) مخرج التصريف
+outfall of sewage	مخرج تصريف مياه المجاري
+outfall sewer	مَجرى التصريفِ الخارجي الرئيسي (للمدينة)
+outfit	عُدَّة، مُعَدّات، تَجهيزات؛ طَقْم، بِزَّة؛ جهَّزَ أو زَوَّد بالمُعَدّات
+outflow	تدَفَّقَ، اِنصَبَّ؛ تدَفُّق، دَفق؛ اِندِفاقٌ إلى الخارج؛ دَفْقُ الهَواءِ الخَلْفي / جَرَيانٌ خارِجٌ (جَرَيانٌ نَحْوَ الخارِج)
+outflow channel	مَسِيل
+outflow velocity	سُرعة التدَفُّق الخَلفي
+outgassing	تَفْريغٌ إضافي؛ نَزْعُ الغاز المُحتَبَس (أو المُمْتَزّ)؛ إطلاقُ الغازات البِكْرِ (من باطن الأرض)
+outgoing	خارِج، مُنصَرِف، صادِر / خارج
+outgoing feeder	مُغذٍّ خارِج
+outgoing jack	مَقْبِس (تَفْريعٍ) خارِجي
+Outgoing Mobile Traffic to International in Minutes	حركة المرور الصادرة من الهاتف المحمول إلى الدولي، بالدقائق
+outhaul	حبل إرسال، حبل رفع
+outlay	أنفَقَ، صَرَفَ؛ إنفاق؛ نَفَقَة، تكاليف، تَكلِفة
+outlet	مَخْرَج، مَنْفَذ؛ مَقْبِسُ تَغْذِية، مأخَذُ التيّار (لتغذيةِ الأدوات الكَهربائية) / مَخْرَج / مخرج / منفذ، مخرج / منفذ بيع
+outlet box	عُلْبةُ المَقابِس
+outlet cam	حَدَبَةُ الخُروج؛ كامَةُ الانفِلات
+outlet port	فُتْحَةُ الخُروج
+outlet pressure	ضَغْط الخُروج، ضَغْطُ الانفِلات
+Outlet Sample	عينة المصادر
+outlet valve	صِمامُ الخُروج
+outlier	صَخْر عَزِيل / قيمة شاذة / قيمةٌ مُنْعَزِلة / مسقط المقعرات / تلال شاهدة
+Outlier Detection	اكتشاف القيم الشاذة
+outline	خَطٌّ مُحيطي، خط كِفافيّ؛ نِطاق، حَدّ؛ مُخطَّط تَمْهيدي؛ مُجْمَل، مُوجَز؛ رسَمَ، خَطَّطَ؛ حَدَّدَ، أجمَلَ، أوجَزَ / خُطَّة، رسم تخطيطي
+outline drawing	رَسْمٌ إجماليّ، رَسْمٌ كِفافيّ (أو تَخْطيطيّ)
+outline font	بنط مُجمّل / خط تفصيلي
+outline map	خَريطة خَرْساء، خَريطةٌ تَمْهيديَّة
+outline plan	خُطَّة إجماليَّة
+outlook	مَنْظَر، وُجهَةُ نَظَر؛ تَباشير، دَلائلُ المُسْتَقبَل
+outmoded	قديمُ الطِّراز
+outnumber	فاقَ عدَدًا
+outport	ميناءٌ خارِجي، مِيناء أماميّ / ميناء ثانوي خارجي
+outpost	مَخفَرٌ أمامي
+outpost (extension) well	بِئر (امتِدادٍ) أمامية
+outpour	صَبَّ، اِنصَبَّ، تدَفَّقَ؛ اِنهِمار، دَفْق، تدَفُّق
+outpower	فاقَ قُدرةً
+output	خَرْج، مُخْرَج؛ نِتاج، ناتِج، مَرْدود، حَصيلة؛ كِفاية أو قُدرةٌ فِعليَّة؛ بياناتٌ (أو مَعلوماتٌ) من الحاسُوب / خرج / خَرْج
+output (of gyro compass)	معلومات (البوصلة الجيروسكوبية)
+Output Account in Banking	حساب الإنتاج في نشاط البنوك
+output area	منطقة خرج
+output buffer	صِوان خرج
+output capacitance	مُواسَعَةُ الخَرْج
+output channel	قناة خرج
+output choke	خانِقُ الخَرْج
+output circuit	دارةُ الخَرْج
+output coefficient	مُعامِلُ الخَرْج
+output curve	مُنْحَني (بَيان) الإنتاج
+Output Data (Or Output)	بيانات مُخرَجة (أو مخرجات)
+output device	نبيطة إخراج / جِهاز إخراج
+output factor	عامِلُ الخَرْج
+output gap	فُرْجةُ الخَرْج
+output impedance	مُعاوَقةُ الخَرْج
+Output Layer	طبقة مخرجات
+output link	وُصْلةُ الخَرْج
+output matching	مُواءَمةُ الخَرْج
+output meter	مِقياسُ (فُلطيَّة) الخَرْج
+output of dynamo	خَرْجُ المُولِّد
+output of motor	القدرة الميكانيكيةُ لِمُحَرِّك (مَقِيسَةً كَقُدرةٍ حِصانيَّة فَرمَلِيَّة)
+output port	بَوَّابَةُ الْخَرْج
+output power	قُدْرة الخَرْج
+output process	اسْتِخْرَاج
+output rate	مُعَدَّلُ الإنتاج
+output regulation	تَنْظيمُ الخَرْج
+output resistance	مُقاوَمة الخَرْج؛ المقاوَمة الداخِلية
+output stage	مَرْحَلَةُ الخَرج
+output stream	دفقة خرج
+output transformer	مُحوّلُ (دارة) الخَرج
+output tube (or valve) = power valve	صِمامُ الخَرج
+output unit	وَحدةُ إخراج
+output valve	صِمام الخَرْج
+output volume	حَجْمُ الإنتاج
+output winding	لَفيفةُ الخَرْج
+output, electrical	الخَرْج الكَهربائي
+output, engine	قُدرةُ المحرِّك الفِعلية، مَرْدودُ المحرِّك
+output, horsepower	القُدْرةُ الناتِجة بالحِصان البُخاريّ
+output, maximum	الخَرْجُ الأقْصى، كَمِّيَّةُ الإنتاجِ القُصْوى
+output, minimum	الخَرْجُ الأدنى، كَمِّيَّةُ الإنتاجِ الدُّنيا
+output, power	خَرْجُ القُدرة
+output, rated	الخَرْجُ المُقَنَّن
+output, total	الخَرْجُ الكُلِّي، الإنتاجُ الكُلِّي
+output-bound	مقيَّد بالخرج
+Outputs	المخرجات
+outrigger	ذِراعُ امتِداد، مِسْنَد ناتئ، مَدّاد
+outright	فَورًا، حالاً؛ صَريح، تامّ
+outset	بَدء، بِداية، مُستَهَلّ، شُروع
+outshoot	بَذَّ في الرِّماية؛ بَرَزَ، نَتأ؛ بُروز، نُتوء
+outside	خارِجي؛ خارِجًا، مِنَ الخارِج، في الخارِج / في الخارج،خارج عن
+outside bevel gouge	مِظفارٌ خارجيُّ المَيْل (خارِجيُّ الشُّطْبة)
+outside broadcasting	إذاعةٌ خارِجية
+outside caliper(s)	قَدَمة خارجيَّة، فِرجارُ قياسٍ خارِجيّ
+outside clearance	خُلُوصٌ خارِجي
+outside crank	ساعِد (تدوير) خارِجيّ
+outside cylinders	أُسطوانات خارِجية
+outside diameter	القُطْرُ الخارِجي
+outside excitation	اِستِثارة خارجية
+outside gauge	مُحدِّدُ قياسٍ خارِجي
+outside gouge	مِظفارٌ طَرَفِيّ ذو شَطْبٍ خارِجي
+outside lap	تَراكُبٌ خارِجي (للصِّمام المنزَلِق)
+outside loop	حَرَكة أُنشُوطِيَّة خارِجية
+outside plating	تَصْفيحٌ خارِجي؛ ألواحُ التغطيةِ الخارِجية
+outside threading	لَولَبةٌ خارِجيَّة
+outside work	عَمَلٌ خارِجَ الوَرْشَة
+outside-air temperature	دَرَجةُ حَرارة الهواء الخارِجي
+outskirts	ضَواحٍ
+outsourcing	تعهيد [خارجي]
+outstanding	بارِز، ظاهِر؛ رائِع؛ غيرُ مُسَدَّد، غيرُ مَدْفوع؛ مُعَلَّق، غيرُ مَبْتوت
+outstation	مَحَطَّةٌ نائية
+outstep	تجاوَزَ، تخَطَّى (حَدًّا مُقَرَّرًا)
+outstroke (of a piston)	شَوطُ الخُروج
+outstroking	تَعْدينٌ تَجاوُزيّ (بأنفاقٍ أُفُقيَّة عَبْرَ مِنطَقةِ الامتياز)
+outtake	مَهْواة
+outturn	نِتاج، مَحْصول، مَرْدود
+outward	خارِجيّ؛ ظاهِريّ؛ نحوَ الخارج، إلى الخارِج
+outward flow	دَفْقٌ خارِجي (من المَركَزِ إلى الأطراف)
+outwash	رسوبيات إذابة الجليديات / رسوبيات نقلتها ثم وضعتها مياه الأمطار
+outwash fan (or plain)	سَهلُ الغَسْل
+outweigh	رجَحَ، فاقَ وَزْنًا
+outworks	مُنْشَآتٌ خارجيَّة تحصينيَّة؛ أعمال خارجيَّة (خارج الوَرشة)
+ova	بويضات
+ova (pl. of ovum)	بُيَيْضات، بُيوض، بَيض
+oval	بَيْضَويّ، بَيْضِيّ، إِهْلِيلَجيّ / بيضوي / شَكْلٌ بَيْضَوِيّ
+oval file	مِبْرَدٌ إهْليلَجيُّ المَقْطع
+oval of Cassini	بَيضَويُّ كاسّيني
+oval socket	لاقِطة إهليلَجيَّةُ التجويف (لِسَحْبِ الأنابيبِ المنكَسِرةِ في البئر)
+ovaliform	بَيضَويُّ الشكل، إِهليلَجِي
+ovals of Cassini	بَيْضَوِيَّاتُ كاسيني
+ovary	مَبِيض / مبيض
+ovate leaf	وَرَقةٌ إهْليلَجيَّة
+oven	فُرْن، تَنُّور، أَتُون
+oven gas	غازُ الأفران
+oven, drying	فُرْن تَجْفيف
+oven-dry soil	تُرْبة مُجفَّفة لإزالة الرطوبة (في فُرنٍ حَرارتُه 105° مِئَوية)
+oven-dry weight	الوزنُ بعد التجفيفِ في الفُرن
+over a map	مُمَدَّدُ تَطْبيق (فَوْقَ تَطْبيق)
+over a set	مُمَدَّدُ مَجْموعَة (فَوْقَ مَجْموعَة)
+over exposure	فرط التعرض للضوء
+Over-age Enrolment Rate	النسبة المئوية للأطفال الأكبر سناً من عمر صفهم الدراسي بسنتين أو أكثر
+over-all cost	التكْلِفَةُ الإجمالية
+over-compounded generator	مُولِّدٌ مُرَكَّب (اللَّفائفِ) تَزايُدِيّ (الڤلْطية)
+over-compounded motor	مُحَرِّك مُرَكَّب (اللفائفِ) تَزايُديّ (السرعة)
+over-compounding	زِيادةُ اللَّفاتِ المتوالية (في مُولِّد مُركَّبٍ لِتَثْبيت الڤلطية)
+over-current (or overload) relay	مُرَحِّلٌ يعملُ عندَ تجاوُزِ التيّار (أو الحِمْل)
+over-current (or overload) release	مُعْتِقُ الدارة عندَ تجاوزِ التيّار (أو الحِمْل)
+over-damped	زائِدُ المُضاءَلة
+over-draft	استنزاف
+over-excited	مُفرِطُ الاستِثارة
+over-exploitation	فَرْطُ الاستِثمار
+over-exposure	تعَرُّضٌ مُفرِط (لِلضَّوء)
+over-hung beam	عَتَبَةٌ ناتِئة
+over-hung crank	مِرْفَقٌ ناتِئ
+over-hung cylinder	أُسطوانة ناتِئة
+over-inflation	فَرْطُ النَّفْخ، فَرطُ الانتِفاخ؛ فَرْطُ التضخُّم
+over-population	تجمُّع مفرط
+over-pressure valve	صِمامُ (تَنْفيسِ) الضغطِ الزائِد
+over-reinforced	مُفرِطُ التسليح، (خَرَسانة) زائِدةُ التسليح
+over-ring	فَوْقَ حَلَقة
+over-travel	تَجاوُزُ مَدَى الشوط (في المِكْبَس)
+overabundance	وَفرةٌ مُفرِطَة
+overacidity	فَرْطُ الحَمضِيَّة
+overactive	مُفرِطُ النَّشاط
+overage	فائِض، فَيْض
+overall	إجماليّ، كُلِّيّ؛ بِدْلَةُ الشُّغْل، بدْلَةُ الوَرْشَة، مِيْدَعٌ كامل (مِن قِطعةٍ واحِدة)
+overall attenuation	التوهينُ الإجمالي
+overall efficiency	الكِفايةُ الإجمالية، المَردودُ الإجماليّ
+overall gain	الكَسْبُ الإجمالي
+overall height	الارتفاع الإجمالي
+overall length	الطول الإجمالي
+overall loss	الفَقْدُ الإجمالي
+overall response	الاستِجابة الإجمالية
+overall selectivity	الانتِقائيَّة الإجماليَّة
+overall weight	الوَزْنُ الإجمالي
+overall width	العَرْضُ الإجمالي
+overalls = overall	بِدْلَةُ الوَرْشة، مِيدَعٌ كامِل
+overannealing	التلْدين المُفرِط
+overbalance	رَجَحَ؛ أرجَحَ (وَأفقدَ التوازُنَ)؛ رُجْحان، فِقدانُ التوازُن (بالرُّجحان)
+overbid	زايَدَ، عَرَضَ ثمَنًا أعلى؛ عَرْضٌ أعلى، سِعْرٌ أعلى
+overblowing	فَرْطُ النَّفْخ
+overblown steel	فُولاذٌ مُحتَرِقٌ قليلُ المتانة
+overboard	خارِجَ السفينة، في البحر
+overboard discharge	تصريف في البحر
+overboard scupper	بالوعة التصريف للخارج
+overboiling	غلَيانٌ مُفْرِط، فَرْطُ الغلَيان
+overboosting	التعزيز الزائد، فَرْطُ التعزيز
+overbreak (or overbreakage)	الحَفْرُ الزائد (الخارِجُ عن الحُدود المقرَّرة)
+overburden	ثَقَّلَ على، حَمَّلَ فوقَ الطاقة؛ تَثْقيل، تَحْميلٌ مُفرِط / غطاء عقيم
+overburden velocity	السُّرعة في الغِطاء الأرضيّ
+overcast	مُتَرَبِّد، مُلَبَّدٌ بالغُيوم؛ دِثارٌ من السُّحُب المُنخَفِضة
+overcast sky	سماُء ملبّدة
+overcharge	شَحَنَ بإفراط؛ طَلَبَ ثَمنًا باهِظًا؛ شِحْنَةٌ مُفرِطَة
+overcharge (of a battery)	فَرْطُ الشَّحْن (في البَطّاريَّة)
+overcharging	الشَّحْنُ الزائِد
+Overclocking	فيض الميقاتية
+overcome	تَغَلَّب على
+overcooling	التبريدُ المُفْرِط
+overcoupling	فَرْطُ التقارُن
+overcurrent	تيّارٌ زائِد
+overcurrent protection	وِقاية (من) فَرْط التيّار
+overdamping	تَخْميدٌ زائد
+overdetermined (adj)	زائِدةُ التَّحْديد
+overdevelop	ظَهَّر بإفراط
+overdevelopment	تَظْهير مُفْرط (أو زائِد)؛ فَرْطُ (أو تجاوز) الاستِغلال
+overdo	بالَغَ (في)، أفرَطَ
+overdominance	سيادة مفرطة
+overdoor	قَوْصَرةُ الباب (أو المَدْخَل)
+overdose	جُرْعة مُفْرِطة؛ أعطى جُرْعَةً زائِدة
+overdraft	فَرْطُ السَّحْب (مما يَنْتُجُ عنهُ تقَوُّسُ القِطعة المُدَلفَنة)
+overdrive	جِهازُ السُّرعة الزائدة؛ أَجْهَدَ؛ ساقَ بالسُرعةِ الزائِدة (توفيرًا لِلوَقود)
+overdrive gear	تُرْسُ السرعة الزائدة
+overdue	مُتأَخِّر (الدَّفْع)، فاتَ مَوعِدُ استِحقاقِه
+overdue vessel	سفينة متأخرة
+overestimate	غالَى في تقدير القيمة؛ تَقْديرٌ مُفرِط
+overfall	مَسْقَطُ مِياه السَّدّ / مسقط مياه السد
+overfall dam	سدُّ انسكاب
+overfault	صَدْعٌ مَقْلوب
+overfeed	فَرْطُ التغذية، تَغذِيَة زائدة
+overfeed stoker	وَقّادٌ ميكانيكيّ عُلْويّ
+overfill	أَطْفَحَ
+overfilling	زيادة الملء
+overfishing	إفراط الصيد
+Overfitting	فرط التخصيص
+overflash	فَرْطُ التَّبْخير
+overflow	فاضَ، طفَحَ؛ غَمَر، طمَا؛ فَيْضٌ، طَفْح؛ فائِض، طُفاحَة؛ فَيَضان؛ منفذُ الفَيْضٌ؛ منفذُ الفائِض / 1 فيض ؛ 2 فيض / فيض / فَيَضَان / فيضان / تدفق زائد، فائض
+overflow area	منطقة الفَيْض
+overflow can	عُلبَة الطَّفْح
+overflow chamber	حُجرةُ الطَّفْح، غُرفة الفائِض
+overflow cup	كوبُ الفائض، كأسُ الطُّفَاحة
+overflow drain	مَصرِفُ الفائِض، أنبوبُ تَصْريف الفائِض
+overflow error	خطأ الفيض
+overflow exception	اسثثناء [ناجم عن] فَيْض
+overflow indicator	مُبَيِّنُ الفَيْض
+overflow meter	عَدّادُ الفائض (من المُكالَمات)
+overflow pipe	ماسورةُ الطَّفْح، أُنبوبُ الفائِض
+overflow valve	صِمامُ الفائض
+overfold	طَيَّةٌ مُتَّكِئَة، طَيَّة مُتَضاعِفة / طية منقلبة
+overfold; overturned	طية منقلبة
+overgassing	فَرْطُ الغاز
+overgear	تُروسُ رَفْع السُّرعة
+overgrainer	فِرشاةُ تجزيعٍ هُلبيَّة
+overgraining	طَلْيَةُ تَجْزيعٍ إضافيّ
+overgreasing	فَرْطُ التشحيم
+overgrinding	طَحْنٌ (أو سَحْنٌ) مُفْرِط
+overgrowth	فَرْطُ النُّمُوّ؛ تَنامٍ فَوقيّ
+overhand knot	عُقْدةٌ بَسيطة، نِصْفُ عُقْدة
+overhand stopes	حَفائِرُ ثَقاليَّةُ التَّفْريغ
+overhang	تدَلَّى (مُشرفًا على)؛ أَطْنَفَ؛ تدَلٍّ؛ نُتوء، إطْناف، حَيَدانٌ جانِبيّ
+overhanging	ناتِئ، مُطْنِف / جدار مشرف
+overhanging beam	عَتَبة ناتِئَة، كَمَرة مُطْنِفة (مَحْمُولةٌ على حامِلَين بَعيدَينِ عن طَرَفَيْها)
+overhanging side	جدار مشرف
+overhaul	أَصْلَحَ، رَمَّمَ، جَدَّدَ؛ عَمْرَة
+overhaul period	الفترة بين ترميمَيْن
+overhauled engine	مُحرِّكٌ مُرَمَّم
+overhead	عُلْويّ؛ إضافيّ؛ نَفَقاتٌ عامَّة، مصروفات غير مُباشرة؛ قُطارة عُلْويَّة، مُنْتَجاتُ التقطير العُلْويَّة / حمل مضاف / فوقاني
+overhead accumulator	مُجَمِّع المُنتَجات العُلْويَّة
+overhead cable	كَبْلٌ مُعلَّق، كَبْلٌ عُلْويّ
+overhead camshaft	عَمُود حَدَباتٍ عُلْوي
+overhead condenser	مُكَثِّفُ المُنَتجات العُلْويَّة
+overhead conductor	مُوَصِّلٌ عُلْوي
+overhead costs (or expenses)	نَفَقاتٌ ثابِتة عامَّة (غَير مُباشِرة)
+overhead crane	مِرفاعٌ عُلْوِيّ (متحرِّك)
+overhead crossing	مُصَلَّبَة عُلْويَّة (بينَ سِلْكَي تَلامُسٍ مُتَقاطِعَين)
+overhead door	بابٌ عُلْويُّ التعليق
+overhead expenses	نَفَقاتٌ عامَّة (أو غيرُ مُباشِرة)
+overhead gantry	إنشاءٌ قَنْطَريٌّ مُعَلَّق
+overhead gear	مُعَدَّاتٌ عُلْويَّة
+overhead line	خَطٌّ عُلْويّ، سِلْك مُعلَّق
+overhead pipe	ماسورةٌ عُلْويَّة، أُنبوبٌ مُعَلَّق
+overhead products = overheads	المُنتَجاتُ العُلْويَّة، القُطارات العُلْويَّة
+overhead projector	عارض عُلوي / عَارِضَةٌ عَاكِسَة
+overhead pulley	بَكَرةٌ عُلْوِيَّة
+overhead railway	خَطٌّ حَديديٌّ مُعَلَّق، سِكَّة مُعَلَّقة
+overhead ropeway	طَريقٌ حَبْليّ مُعلَّق
+overhead suspension	تَعْليق عُلْويّ
+overhead time	زمن العمل المُضاف
+overhead transmission-line	خَطٌّ عُلْويّ لِنَقْل القُدْرة
+overhead travel(l)er	جِهازٌ (غالِبًا مِرْفاعٌ) عُلْوِيّ مُتَحرِّك
+overhead travelling crane	مِرفاعٌ عُلْوِي مُتَنقِّل / رافعة قنطرية متحركة
+overhead valve engine	مُحَرِّكٌ عُلْوِيّ الصِّمامات
+overhead-contact system	نظامُ التلامُس العُلْوي (للحافِلات الكَهربائية)
+overheads	نَفَقاتٌ عامَّة، مصروفاتٌ غيرُ مُباشِرة؛ القُطارات (أو المُنتجات) العُلويَّة
+overhearing	تسَمُّع؛ تَنَصُّت؛ أصواتٌ مُشوِّشَة (مُتَداخِلةٌ من دائرةٍ جانبية)
+overheat	أحْمَى بإفراط، سَخَّنَ (أو سَخُنَ) أكثرَ مِما يَنبغي
+overheated	مُفْرِطُ الإحماء
+overheating	فَرْطُ الإحماء، تَسخين زائد (فوق درجة الغليان)
+overlaid windows	نوافذ متراكبة
+overland	بَرِّيّ؛ بَرًّا
+overlap	راكَبَ، تَراكَبَ؛ تَراكُب؛ مُجاوَزة، تَجاوُز / تراكُب
+overlap fault	صَدْع التراكب / صدع التراكب
+Overlap Products	تداخل المنتجات
+overlap span	مسافةُ أو مَدَى التراكُب
+overlap, valve	تَراكُبُ الصِّمامات
+overlap; transgression	تجاوز
+overlapped	متجاوز
+overlapped folds	مُتَجَاوَز
+Overlapping	تراكب / تداخل / طيات متراكبة
+overlapping averages	مُعَدِّلاتٌ مُتَراكِبة
+overlapping code	راموز متراكب
+overlapping folds	طَيّاتٌ مُتَراكِبَة
+overlapping frequency band	نِطاقُ التردُّدات المُتراكبة
+overlapping genes	مورثات متراكبة
+overlapping inversion	انقلاب متراكب
+overlapping joint	وُصلةٌ مُتَراكِبة
+overlapping of power strokes	تراكُبُ أشواطِ القُدرة
+overlapping sets	مجموعات متشابكة
+overlapping strake	ألواحٌ خارِجية مُتَراكِبة
+overlay	غَشَّى، غَطَّى، طَلَى؛ أَحَلَّ (جُزءًا مِن البَرنامَج مَكانَ آخَر)؛ غِشاء، غِطاء؛ طِلاء؛ إحلال؛ صَفحةُ (أو فيلم) إرشادات الاستِنْساخ / 1 يراكب ؛ 2 يراكب / إِطْبَاق
+overlay (to)	شفَّ
+overleaf	ظَهْرُ الصَّحيفة
+overload	أفرَطَ التحميلَ؛ أرهَقَ بحِمْلٍ زائد؛ تَجاوُز الحِمْل؛ حِمْلٌ زائِد / إعادة التعريف / تحميل، حمل زائد
+overload capacity	سَعَةُ التحَمُّلِ الزائد
+overload circuit-breaker	قاطِعُ دارةٍ يعملُ عند تَجاوُزِ الحِمْل
+overload level	مُستوَى تجاوُز الحِمْل
+overload protection	الوِقايةُ عِنْدَ تَجاوزِ الحِمْل
+overload protective system	نِظامٌ وِقائيّ عندَ تَجاوز الحِمْل
+overload relay = over-current relay	مُرَحِّلٌ يعمَلُ عندَ تجاوُزِ الحِمْل (أو التيّار)
+overload release = over-current release	مُعْتِقُ الدارةِ عندَ تَجاوُزِ الحِمْل (أو التيّار)
+overload trip	مُعتِقُ الدارةِ عند تجاوُزِ الحِمْل
+overloading	تَحميلٌ زائد، فَرْطُ التَّحْميل
+overlook	أطَلَّ أو أشرَفَ على؛ أغفَلَ؛ تَغاضَى عن؛ مَطَلّ، مَشْرَف
+overlubrication	فَرْطُ التزليق، تَزْييتٌ مُفرِط
+overlying beds	الطبَقاتُ الفَوقِيَّة
+overmodulation	فَرْطُ التضمين
+overnight service	خِدمة لَيليَّة
+overpass	مَعْبَرٌ فَوقيّ، مَمَرٌّ عُلْويّ
+overpoled copper	نُحاسٌ زائِدُ الصُّعُد
+overpopulation	فَيْضُ السُّكان
+overpotential	جُهْدٌ زائد، فَرْطُ الجُهد
+overpower	غَلَبَ، أخضَعَ؛ بالَغَ في زِيادةِ القُدرة؛ قُدْرة زائدة؛ تَجاوُزُ القُدرة
+overpower protection	الوِقاية عندَ تجاوُزِ القُدرة
+overpressure	ضَغْطٌ زائِد، ضَغْطٌ مُتَجاوِز
+overprint	راكَبَ الطَّبْع؛ طَبْعٌ مُراكَب / يراكب الطباعة
+overproduction	فَرْطُ الإنتاج، فَيْضُ الإنتاج
+overpumping	فَرْط الضخ / فرط الضخ
+overpunch	ثَقَبَ فَوقيًّا
+overrate	بالَغَ في التقدير
+overrich mixture	مَزيجٌ مُفرِطُ الغِنَى
+override	داسَ؛ تَجاهَلَ (فَلَم يَعْمَل بِحَسَب)؛ أبطَلَ؛ سادَ؛ تَجاوَزَ بِتَراكُب، تَراكَبَ؛ مِضْبَطٌ سائِد (يتحَكَّمُ يدَويًّا في المِضْبَط الآليّ)؛ تَراكُبٌ تَجاوُزيّ / يُبطل / تجاوز
+overriding control	تحَكُّمٌ سائِد
+overriding royalty	رَيْعٌ تَجاوُزيّ
+overrigid = redundant	زائدُ الجُسوءَة، مُدَعَّمٌ بأكثرَ مِمّا يَنْبغي
+overrun	تجاوَز؛ اِجتاحَ، اِكتَسَح؛ غَمَر؛ دَوَّرَ (الأسطرَ) / تجاوُز
+overrun brake	مِكْبَحُ العرَبةِ المَقْطورة
+overs	إِضافيّات
+oversailing courses	مَداميكُ بارِزة (غير مُحَمَّلة)
+Oversampling	زيادة العيِّنات
+oversaturation	فَرْطُ الإشباع، فَرْطُ التشَبُّع
+overscan	خارج المسح
+overscanning	مَسْحٌ زائدٌ (عمّا تستوعِبُه الشّاشة)
+overseas	عَبْر البحار / ما وراء البحار
+overseer	ناظِر (عُمّالٍ)، مُراقِب / مراقب بحري
+oversensitive	مُفرِطُ الحسّاسيَّة
+overset	ضيّقَ التنضيد، لَزَّ الأحرفَ
+overshadow	حَجَبَ، كَسَفَ، ألقى ظِلًّا على؛ بَذَّ
+overshoot	تجاوَزَ الهَدف؛ بَذَّ في الرِّماية؛ شَطْح، تجاوُز الغَرَض؛ تجاوُزُ الهُبوط / تجاوز الهدف
+overshot	عُلْويُّ الدَّفْع؛ ناتِئُ الفَكّ؛ مِلْقاطٌ ناتِئُ الفَكّ
+overshot (water)wheel	سانِيَةٌ عُلْويَّةُ الدَّفق
+overshot run	تدَفُّقٌ عُلْويّ
+oversight	قُصُور، سَهْو، خَطَأ (بالإهمال)؛ مُلاحَظة، إشراف
+oversite concrete	خرسانة فوق الموقِع
+oversize	أكبَرُ مِن المُعتاد؛ حَجْمٌ (أو قِياس) كَبير
+oversize(d)	كَبيرُ الحَجْم (أو القِياس)، أكبرُ من المُعتاد
+overspeed	فَرْطُ السُّرعة، تجاوُزُ السُّرعة (المُقَرَّرة)؛ تجاوَزَ السُّرعة المُقَرَّرة
+overspeed limit device	جِهازٌ يَعمَلُ عندَ تَجاوُزِ السرعة
+overspeed protection	وِقايةٌ عِنْدَ تجاوُز السُّرعة؛ جِهاز وِقايةٍ يعمَلُ عندَ تَجاوُزِ السرعة
+oversteer	فَرْطُ التوجُّه
+overstep	تَجَاوُز
+overstocking of fish	نمو مفرط للأسماك
+overstrain	أرهَقَ، أنهَك؛ مَطَّ مُجاوِزًا حَدَّ المُرونَة؛ اِنفِعال زائد
+overstrike	يطبع فوق [المحرف، ...]
+oversude	في الخارج
+overswing (of a compass needle)	فَرْطُ الترَجُّح (في إبرة البوصَلة)
+overt	ظاهِر، صَريح، عَلَنِيّ
+Overt morpheme	مورفيم ظاهر
+overtake	أدرَكَ، لَحِقَ (بِـــ)؛ تخَطَّى، تجاوَزَ، سبَقَ
+overtaking	إلحاق، تجاوز
+overtaking lane	مَسْرَبُ التجاوُز
+overtaking light	ضوء التخلي، ضوء الإلحاق
+overtaking vessel	سفينة لاحقة بالأخرى
+overthrow	قَلَبَ، أسقَطَ، أطاحَ (بِـــ)؛ اِنقِلاب، إسقاط، سُقوط
+overthrust	دَسْرٌ زائد؛ دَسْرَة فَوقيَّة / فالق الدسر، صدع الدسر
+overthrust (fault)	صَدْعٌ دَسْريّ
+overthrust belt	حزام المجاوزة، حزام التجاوز / حزام المجاورة، حزام التجاوز
+overthrust fault	صدع التجاوز
+overthrust faults	صدع التجاوز
+overthrust fold	طَيَّةُ دَسْرٍ زائد، ثَنْيَة مَكسورة
+overtime	عَملٌ إضافي؛ عِلاوةُ العمل الإضافي
+Overtime Hours	ساعات العمل الإضافية
+overtone	نَغْمَة تَوافُقِيَّة، نَغْمةٌ مُتآلِفة، نَغَمٌ فَوقيّ
+overtone crystal	بِلَّورةُ النَّغَم الفَوقيّ
+overtreating	مُعالَجة مُفرِطَة، فَرْطُ المُعالَجة
+overturn	قلَبَ، اِنقلَبَ، عَكَسَ؛ اِنقلاب
+overturned	مقلوب، منقلب
+overturned anticline	طيّة محدّبة مقلوبة
+overturned fold	طَيَّة مَقْلوبة
+overturned syncline	طَيَّة مُقَعَّرة مقلوبة
+overturning	انقلاب
+overtype mode	نمط الإحلال
+overvaluation	تَقْييمٌ زائد، فَرْطُ التقييم
+overvoltage	تجاوُزُ الڤلْطيَّة، ڤلطيَّة زائدة، فَرْطُ الڤلْطيَّة
+overvoltage protective device	جِهازٌ واقٍ من تَجاوُز الڤلْطيَّة
+overvoltage release	مُعتِق الدارةِ عندَ تَجاوُزِ الڤلْطية
+overwater	مسلك بحري
+overweight	وَزْنٌ زائد
+overwinding	التفاف مفرط
+overwork	جَهِدَ، أجهَدَ، أرهَقَ؛ عَمَلٌ شاقّ؛ عَمَل إضافي
+overwrite	كَتَبَ فَوق (ماحِيًا البَياناتِ السابِقةَ) / كتابة فوقية،كتابة على
+overwrite mode	نمط الإحلال
+ovi-, ovo-	بادئة بمعنى: بيض أو بيضة
+ovicide	مُبِيدٌ لِلبُيَيضات
+oviduct	قَناةُ المَبيض، البُوق / قناة المبيض
+oviparous	بَيُوض / بيوضة / بيوض
+ovipositor	مِرَزّ
+ovoid	بَيْضيُّ الشَّكْل، بيضاويّ / بيضي
+ovolo	حِليّةُ معمارية ربع بيضيَّة
+ovoviviparous	بَيُوضٌ وَلُود / بيوضة ولودة / ولود بيوض
+ovulation	إباضة
+ovule	بُيَيْضَة، بُذَيرة / بويضة، بيضة / بويضة، بذيرة
+ovule orthotropus	بويضة مستقيمة
+ovuliferous	حرشفة البويضة
+ovum	بَيْضَة، بُوَيضة، بُيَيْضة / بيضة
+Owen bridge	قَنطرةُ «أُوِين»
+Own Resources	الموارد الخاصة
+Owner	مالك / ماِلك / المالك
+Owner Rights	حقوق المستخدم
+owner's agreement	اتفاق مالكي السفن
+ownership	مِلْكيَّة
+Ownership of The Enterprise	ملكية المنشأة
+ox-bow (lake)	بُحَيرة قَوسيَّة، بُحَيرة مُقتَطَعة
+ox-eye	رَوْزَنة بَيْضاويَّة
+ox-eye daisy; white ox-eye	سرخس عين الثور / أقحوان المروج
+oxalate	أُوكسالات
+oxalic acid	حامِضُ الأوكساليك
+oxalis	أكساليس
+oxamide	أوكساميد
+oxidability	أكسدة / اكسدة
+oxidable = oxidizable	قابِلٌ لِلتَّأكْسُدِ (أو الأكسَدة)
+oxidable; oxidizable	قابل للتأكسد
+oxidant	مُؤَكْسِد، عامِلٌ مُؤَكسِد
+oxidase	أُكسيداز، خَميرةٌ مُؤَكسِدة
+oxidation	أكْسَدَة، تأكْسُد / أكسدة
+oxidation inhibitor	مانِعُ التأكسُد
+oxidation number	رَقْمُ الأكسدَة
+oxidation pond	بِرْكةُ أكْسَدة
+oxidation potential	جُهْدُ التأكسُد
+oxidation, anodic	أكسَدَة أنُودِيَّة
+oxidation-reduction = redox	اِختِزالٌ وأكْسَدة، أَخْسَدة
+oxidation-reduction indicator	كاشِفُ أخْسَدة
+oxidation-reduction potential	جُهْدُ الأخْسَدة
+oxidation-reduction reaction	تَفاعُل أخْسَدة
+oxidation; oxidization	تأكسد، أكسدة
+oxidative	مُؤَكْسِد
+oxidative anabolism	أيض بنائي تأكسدي
+oxide	أُكْسِيد / أكسيد
+oxide isolation	عَزْلٌ أُكسيديّ
+oxide, hydrous	أُكسيدٌ (فِلزِّيٌّ) مُمَيَّأ، هِدْروكسيد
+oxide-coated cathode	كاثُود مُغَطًّى بالأُكسيد
+oxide-coated filament	فَتيلةٌ مُغَطّاة بالأكسيد
+oxide-film	غِشاءٌ أُكسيديّ
+oxide-film arrester	مانِعةُ صَواعِق أُكسيدية الغشاء
+oxidise = oxidize	أَكْسَدَ، تأكْسَدَ
+oxidising; oxidizing	مُؤَكْسِد / مؤكسد
+oxidizable	قابِلٌ لِلأكسَدة، يُؤَكسَد، يتأكسَدُ
+oxidization	أكسَدَة، تأكسُد
+oxidize	أكسَدَ، تأكسَدَ؛ اِتَّحَدَ بالأُكسِجين
+oxidized	مُؤَكْسَد، مُتأكْسِد
+oxidized ore	خامٌ مُتأكسِد أو مُؤكْسَد
+oxidizer	مُؤكسِد، عامِلُ أكسَدة
+oxidizing agent	عامِلٌ مُؤَكسِد / عامل التأكسد، عامل مؤكسِد / عامل التأكسد، عامل مؤكسد
+oxidizing enzymes	أنزيمات مؤكسدة
+oxidizing flame	لَهَبٌ مُؤَكسِد
+oxidizing roast(ing)	تَحْميصٌ مُؤكسِد
+oxidizing slag	خَبَثٌ مُؤكْسِد
+oxido-reduction = oxidation-reduction	أخْسَدة، اِختِزالٌ وأكْسَدة
+oxonium ion = hydronium ion	أيُونُ الأُكزونيُوم، أيون الهِدْرونيوم
+oxy-cutting torch	مِشْعَلُ قَطْعٍ بالأُكسِجين
+oxy-gas cutting torch	مِشْعَلُ قَطْعٍ بالأُكسِجين وغازٍ لَهُوب
+oxy-weld	لِحامُ بالاكسِجين (والأسيتيلين)
+oxyacetylene blowpipe	حِمْلاجٌ أُكسي أسيتِليني
+oxyacetylene cutting	قَطْعٌ أُكسي أسيتِلينيّ
+oxyacetylene flame	لَهَبٌ أُكسي أسيتِليني، لَهَبُ الأُكسِجين والأسيتلين
+oxyacetylene torch	مِشْعَلٌ أُكسي أسيتِلينيّ، مِشْعَل الأُكْسِجين والأسيتيلين
+oxyacetylene welding	لِحامٌ أُكسي أسيتلِينيّ، لِحامٌ بالأُكسِجين والأسيتيلين
+oxyacid	حامِض أُكسِجينيّ
+oxybitumen	قارٌ مُؤَكْسَد
+oxycelluloses	سليُولوزاتٌ مُؤكسَدة
+oxychloride cement	إسمَنْتٌ أُكسيكلوريديّ
+oxygen	أكسجين
+oxygen (O)	أُكسِجين
+oxygen apparatus	جِهاز أكسِجين
+oxygen blinker	مُبَيِّنُ سَرَيان الأُكسِجين
+oxygen bottle (or cylinder)	أُسطوانةُ أُكسِجين
+oxygen content	المُحتَوى الأُكسِجينيّ
+oxygen cutting	قَطْعٌ بالأُكسِجين
+oxygen cycle	دَورةُ الأُكسِجين
+oxygen cylinder	أُسطُوانةُ أُكسِجين
+oxygen enriching	إغناءٌ بالأُكسِجين
+oxygen lancing	بَزْغٌ أُكسِجيني
+oxygen machining	التشكيل بالأُكسِجين
+oxygen mask	قِناعُ الاكسِجين
+oxygen mixture	مَزيجُ تَحضير الأُكسِجين
+oxygen point	نُقطةُ غَلَيان الأُكسِجين
+oxygen regulator	مُنَظِّمُ الأُكسِجين
+oxygen respiration	تنفس أكسجيني
+oxygen respirator	مِنْشَقةُ (جِهازُ تَنفُّس) الأُكسِجين
+oxygen scavenger	كاسِحُ الأُكسِجين
+oxygen, activated	أُكسِجين مُنَشَّط
+oxygen, liquid	أُكسِجينٌ سائل (بين -183° و -218° مِئَوية)
+oxygen-enriched air	هَواءٌ مُزَوَّدُ الأُكسِجين
+oxygen-free	خالٍ من الاكسِجين
+oxygen-free high conductivity copper	نُحاسٌ عالي المُوَصِّلِيَّةِ خالٍ من الاكسِجين
+oxygenate	أكْسَجَ
+oxygenated water	ماءٌ مُؤَكسَج
+oxygenation	أكْسَجَة
+oxyhaemoglobin	خضاب مؤكسج
+oxyhemoglobin	أُكسي هيموغلُوبين
+oxyhydrogen blowpipe	حِمْلاجٌ أُكسي هِدْروجيني
+oxyhydrogen flame	لَهَبٌ أُكسي هِدْروجيني
+oxyhydrogen welding	لِحامٌ أُكسي هِدْروجيني
+oxylith	أوكسيليث
+oxymeter	مِرقاب الأُكسجين
+oxyphile	أليف الأكسجين
+oxyphobic	كارِهُ الاكسجين
+oxywelder	عامِلُ اللِّحام بالاكسِجين
+oyster (flat…)	محار مسطح
+oyster breeder	مربي المحار
+oyster culture	استزراع المحار
+oyster seed	بذور المحار
+oyster-plant	فومي، لحية التيس
+oz (abbrev. of ounce)	أونصَة
+ozocerite; ozokerite	أوزوسيريت
+ozokerite (or ozocerite)	أُوزوكِيريت
+ozonation	مُعالَجة بالأُوزون؛ تَوليدُ الأوزون
+ozonator = ozonizer	مُوَلِّدُ الأُوزون
+ozone	أُوزون / غاز الأوزون
+ozone layer	طَبَقةُ الأُوزون (في الجَوّ) / طَبَقَةُ الأوزُون
+ozone sonde	مِسْبارُ الأوزُون
+ozone spectrophotometer	مِقياسُ الضَّوء الطَّيِفي للأوزون الجَوّي
+ozone-friendly	وَديدُ الأُوزون
+ozonesonde	مسبار الأوزون
+ozonide	أوزونيد
+ozonization	أوزَنة؛ توليدُ الأوزون
+ozonize	شَبَّعَ بالأُوزون؛ حَوَّل (أو تحوَّل) الأكسجين إلى أوزون
+ozonizer	مُوَلِّدُ الأُوزون (قبل اكتشاف سُمِّيته، كان يُعتقد بنَفعيَّة الأوزون في تكييف الهواء)
+ozonolysis	التحلُّلُ الأُوزونيّ، الانحِلالُ بالأوزون
+ozonometer	أُوزونومتر
+ozonosphere	الطبَقةُ الأُوزونيَّة، الغِلاف الأوزونيّ (في الجَوّ) / غِلافُ الأوزُون
+oôlite; oôlith	سرئية
+oôlithe	سرء
+oôlithic rock	صخر سرئي
+oôlithic structure	بنية سرئية
+oôlitic	سرئي

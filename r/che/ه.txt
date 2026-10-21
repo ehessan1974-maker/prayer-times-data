@@ -1,0 +1,142 @@
+هاجِـع	dormant
+هال	cardamom
+هالوجين	halogen
+هالوجين بيني	interhalogen
+هالوجينات (ال...)	halogens
+هالوفورم	haloform
+هالوهيدرين	halohydrin
+هاليد	halide
+هاليد الفضة	silver halide
+هامد	quiescent
+هاون، مِلاط	mortar
+هباب الفرن	furnace black
+هبتان	heptane
+هبتوز (سكر سباعي)	heptose
+هَبتوغلوبين	haptoglobin
+هجرة	emigration / migration
+هجرة الأيونات	migration of ions
+هجوع	dormancy
+هجوم	attack
+هجين	hybrid
+هجين تجاوبي (رنيني)	resonance hybrid
+هَدرَج	hydrogenate (to) ; hydrogenize
+هدرجة	hydrogenation
+هدرجة حفزية	catalytic hydrogenation
+هدرجة زيوت التزليق	lube hydrogenation
+هَدْرَكْسَلةَ	hydroxylation
+هدرلة	hydroxylation
+هدف	target
+هِرتز	hertz
+هُرمون	hormone
+هرمون (اللاكتوجين)	lactogenic hormone
+هرمون الحَدَثة	juvenile hormone
+هُرمون الدريقات	parathormone
+هرمون النمو	growth hormone
+هرمون جريبي	follicular hormone
+هرمون كيتوني	ketogenic hormone
+هروب	escape (to)
+هزّازة، رجّاجة	vibro-mill
+هَشٌّ	brittle / fragile
+هشّ، قصف	fragile
+هشاشة	fragility
+هَشاشَة (فلز)	brittleness
+هشاشة، قصافة	fragility
+هضْم	digestion
+هضْم، تسييل	peptization
+هضميّ	peptic
+هفنيوم	hafnium
+هكسان	hexane
+هكسان حَلَقِيّ، سيكلوهكسان	cyclohexane
+هِكسِن	hexene
+هكسوز	hexose
+هكسيل	hexyl
+هلالة	meniscus
+هلالي	crescent-shaped
+هلام	gelatin / jelly
+هُلام السيليكا	silica gel
+هلام النفط، فازلين	petrolatum
+هلام، جيلاتيني	gelatin
+هلامة	gel
+هلامة أيونية	ionic gel
+هلامة مائية	aqua gel
+هلامة، جيل	gel
+هلامي	gelatinous
+هلجنة	halogenation
+هُلميوم	holmium
+هليوم	helium
+هندسة الجزيئات، بنيان الجزيئات	arc spectrum
+هندسة جزيئية	molecular geometry
+هندسة وراثية	genetic engineering
+هواء	air
+هواء سائل	air (liquid..) / liquid air
+هوائي	aerobic
+هورمونات، حاثات	hormones
+هولميوم	holmium
+هومو: سابقة	homo-
+هوموسيستيين	homocysteine
+هوّى	aerate (to)
+هيئة، تشكيل	configuration
+هيبارين	heparin
+هيبرون	hyperon
+هيبوبروميت	hypobromite
+هيبوفسفات	hypophosphate
+هيبوفسفيت	hypophosphite
+هيبوكزانتين	hypoxanthine
+هيبوكلوريت الصوديوم	sodium hypochlorite
+هيبويوديت	hypo iodite
+هيدرات	hydrate / hydrates
+هيدرات تجمدية	cryohydrate; cryosel
+هيدرات غازي	gas hydrate
+هيدرات قَرِّيَّة	cryohydrate
+هيدرات نصفية	hemihydrate
+هيدراز : إنزيم	hydrase
+هيدرازون	hydrazone
+هيدرازويك	hydrazoic
+هيدرازين	hydrazine
+هيدرو: سابقة	hydro-
+هيدروجين	hydrogen
+هيدروجين أورتو	orthohydrogen
+هيدروجين ثقيل	heavy hydrogen
+هيدروجين وليد	nascent hydrogen
+هيدروجيناز	hydrogenase
+هيدروستاتي	hydrostatic (pressure)
+هيدروكربون	hydrocarbon
+هيدروكربون عطري	hydrocarbon (aromatic...)
+هيدروكربون مطاطي	rubber hydrocarbon
+هيدروكربونات أليفاتية غير مشبعة	aliphatic hydrocarbons (unsaturated…)
+هيدروكربونات أليفاتية مشبعة	aliphatic hydrocarbons (saturated…)
+هيدروكربونات حلقية	ring hydrocarbons
+هيدروكربونات عطرية	aromatic hydrocarbons
+هيدروكسي برولين	hydroxyproline
+هيدروكسي تريبتامين	hydroxytryptamine
+هيدروكسيد	hydroxide / hydroxyde
+هيدروكسيد البوتاسيوم	potassium hydroxide
+هيدروكسيد الصوديوم	sodium hydroxide
+هيدروكسيل	hydroxyl
+هيدروكسيل أمين	hydroxylamine
+هيدروكلوريد مطاطي	rubber hydrochloride
+هيدروكورتيزون	hydrocortisone
+هيدروكينون	hydroquinone
+هيدرولية	hydraulicity
+هيدريد	hydride
+هيدريد الصوديوم	sodium hydride
+هيدريد الليتيوم والألومينيوم	lithium aluminium hydride
+هيدريد النحاس، هيدرور النحاس	copper hydride
+هيدرين	hydrin
+هِيْروين	heroin
+هيستامين	histamine
+هيستون	histone
+هيستيدين	histidine
+هيكل	skeleton
+هيليوم	helium
+هيم	haem / haeme / heme
+هيماتيت	haematite / hematite
+هيماتين	Haematin; hematin / hematin
+هيماتيين	hematein
+هيموغلوبين جنيني	fetal hemoglobin
+هيموغلوبين، خضاب الدم	hemoglobin (Hb)
+هيموغلوبين، هيموجلوبين	haemoglobin
+هيموليزين: حالّة دموية	hemolysin
+هِيمين	hemin
+هَيوج	irritable
+هيولى، سيتوبلازما	cytoplasm

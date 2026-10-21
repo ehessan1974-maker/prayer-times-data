@@ -1,0 +1,605 @@
+D' Alembert' s principle	مبدأ دالامبير
+D' Alembert-Lagrange's equation	معادلة دالامبير- لاغرانج
+D.C. acoustic resistance	مقاومة (ال...) السمعية للتيار المستمر
+D.C. generator	مولد تيار مستمر
+D.C. motor	محرك تيار مستمر
+D.C. voltage regular	منظّم فولطيّة التيار المستمر
+daily load cycling	تدوير الحِمل اليومي (ن)
+Dalton's law	قانون دالتون
+damp (to)	يُخمد
+damped harmonic motion	حركة توافقية مخمّدة / حركة توافقية متخامدة
+damped harmonic oscillation	ذبذبة توافقية مخمّدة
+damped linear oscillator	متذبذب خطي مخمدّ
+damped oscillation	ذبذبة مخمدة
+damped vibration	ذبذبة متخامدة
+damped waves	أمواج مخمدة / أمواج متخامدة
+damping	خمود
+damping diode	ثنائي مسار مخمّد
+damping factor	عامل التخامد
+damping ratio	نسبة الخمود
+Dancoff correction	تصحيح دانكوف (ن)
+Daniell cell	بيل دانييل
+dark adaptation	تكيف مع الظلام / تكيُّف مع الظلام
+dark background lighting	إنارة على خلفية سوداء
+dark box	صندوق مظلم
+dark conduction	توصيل الظلام / نقل في الظُّلمة
+dark current	تيار الاظلام (ن)
+dark discharge	تفريغ لامرئي / انفراغ مظلم
+dark energy	الطاقة الخفية
+dark field illumination	إنارة على خلفية سوداء
+dark matter	المادة الخفية
+dark resistance	مقاومة في الظُّلمة
+dark-band spectrum	طيف نطاق مضلم
+dark-field illumination	اضاءة مجال معتم
+dark-line spectrum	طيف خطوط معتمة / طيف الخطوط المظلمة
+darkroom	غرفة مظلمة
+data	بيانات، معطيات / بيانات؛ معطيات
+data base	قاعدة معطيات
+data processing	معالجة المعطيات
+dating	تأريخ
+dative covalence	تكافؤ العطاء
+daughter	وليدة
+daughter nucleus	نواة وليدة
+daughter nuclide	نويدة وليدة (ن)
+Davisson- Germer experiment	تجربة دافيسون- جِرمَر
+daylight	ضوء النهار
+daylight factor	عامل ضوء النهار
+DC generator	مولد تيار مستمر
+De Broglie wavelength	طول موجة (ن) / طول موجة دوبْرويْ
+De Broglie waves	أمواج دوبْرويْ
+De Broglie' s hypothesis	فرضية دوبْرويْ
+De Sauty bridge	جسـر دوسوتي
+dead room	غرفة عديمة الصدى
+dead sound	صوت مخمد
+dead time	زمن الخمود (ن) / زمن ميت
+dead-beat galvonometer	مقياس جلفاني لا ارتجاجي
+dead-room; anechoic room	غرفة عديمة الصدى
+death rays	أشعة الموت
+debug	يعالج؛ يصحّح
+Debye effect	مفعول ديباي
+Debye equation	معادلة ديباي
+Debye frequency	تردد
+Debye temperature	درجة حرارة ديباي
+Debye theory of specific heats	نظرية ديباي في الحرارات النوعية
+Debye unit	واحدة ديباي
+Debye- Scherrer method	طريقة ديباي- شيرر
+decade	عَقْد
+decade counter	عداد عَشـري
+decade counter tube	صمام عدد عشري
+decade scaler	معداد عشري / عداد عَشـري
+decay	اضمحلال (ن) / تفكك؛ اضمحلال
+decay branche	توزيع الاضمحلال (ن)
+decay chain	تسلسل الاضمحلال (ن)
+decay characteristic; persistence charcteristic	مميز الاضمحلال
+decay constant	ثابت الاضمحلال (ن) / ثابتة التفكك؛ ثابتة الاضمحلال
+decay curve	منحنى الاضمحلال (ن)
+decay mode	نمط التفكك
+decay modulus	معامل الاضمحلال
+decay of luminescence	اضمحلال اللمعان
+decay of radioactivity	اضمحلال النشاط الاشعاعي
+decay power	قدرة الاضمحلال (ن)
+decay product	ناتج الاضمحلال (ن)
+decay time	زمن الاضمحلال
+deceleration	تباطؤ
+decibel	ديسبل
+decibelmeter; volume indicator	مقياس الدّيسبل
+decimal scaler	معداد عشري (ن)
+decimal system	نظام عَشـري
+decimal-to-binary conversion	تحويل من عَشـري إلى اثناني
+decladding; decanning	تعرية (ن)
+declination	انحراف مغنطيسي
+decoder	مفكِّك الرماز؛ مفكِّك الكود
+decoder circuit	دارة لفك الكود
+decomposition	تحلّل / تحلل
+decomposition of liquid	تحلل السائل
+decomposition voltage	فولطية التحلل
+decontamination	ازالة التلوث (ن) / تطهير؛ إزالة التلوث
+decontamination factor	عامل ازالة التلوث (ن) / عامل التطهير
+decoupling	إزالة الاقتران
+decrement	تناقص قفزي
+decrepitation	تفرقع الأملاح، فرقعة (بالتحميص)
+deexcitation	إزالة الإثارة
+defect	عيب
+defect of lenses	عيوب العدسات
+defects of lenses	عيوب العدسات
+defects of sight	عيوب الرؤية
+defects of vision	عيوب الرؤية
+deficiency	نقص
+definite integral	تكامل محدَّد
+definition	تعريف / تعريف؛ وضوح
+definition circle	دائرة التعريف
+definition of Dyne	تعريف وحدة الداين
+definition of speed	تعريف السرعة
+deflecting coil	ملف حارف
+deflecting electrode	مسرى حارف / مسـرى حارف
+deflecting voltage	فولطية حارفة
+deflection	انحراف
+deflection polarity of oscilloscope	استقطاب انحراف الآلة المبرزة للذبذبة
+deflection valve	صمام الانحراف
+deformable body	جسم قابل للتشويه
+deformation	تشويه؛ تشوُّه
+deformation bands	أنطقة التشويه
+deformation potential	كمون التشوّه
+deformation potentials	جهود التشويه
+deformation; strain	تشويه
+degeneracy	تفكك (ن) / تردّي؛ انطباق
+degenerate	مفكك
+degenerate eigenvalue	قيمة ذاتية منطبقة
+degenerate electron gas	غاز إلكتروني متردٍّ
+degenerate energy level	مستوى طاقيّ منطبق
+degenerate energy levels	مستويات الطاقة المتفككة
+degenerate gas	غاز مفكك
+degeneration	تردّي
+degradation	انحطاط (ن)
+degradation energy	طاقة الانحطاط
+degradation of energy	انحطاط الطاقة
+degree	درجة
+degree of degeneracy	درجة التفكك
+degree of dissociation	درجة التفرق
+degree of enrichment	درجة التخصيب (ن)
+degree of freedom	درجة الحرية
+degree of ionization	درجة التأين
+degrees of freedom	درجات الحرية
+dehumidification	نشفان / نزع الرطوبة
+dehydration	نزع الماء
+deionization	ازالة التأين / إزالة التأين
+deionization potential	جهد ازالة التأين
+deionization time	زمن ازالة التأين
+del	نابلا
+delay line	خط التأخير
+delay system	نظام تأخير (ن)
+delay time	زمن تأخير
+delayed fission neutrons	نترونات الانشطار المتأخرة
+delayed neutron	نترون مبطأ (ن)
+delayed neutron fraction	جزء النترونات البطأة (ن)
+delayed neutrons	نترونات متأخرة
+delayed radiation	اشعاع مُبَطَّأ (ن)
+deliquescence	تميع / تميُّع بالرطوبة
+delta 28	دلتا 28 (ن)
+delta connection	توصيل مثلثي
+delta function	دالة دلتا (ن) / الدالة دلتا
+delta rays	أشعة دلتا (ن) / الأشعة دلتا
+delta Y conversion	تحويل مثلثي إلى نجمي
+demagnetization	ازالة التمغنط / إزالة المغنطة
+demagnetization factor; depolarization factor	عامل ازالة التمغنط
+demagnetizing field	مجال مزيل للتمغنط / حقل مزيل للمغنطة
+demand factor	عامل الطلب (ن)
+Dember effect	مفعول ديمبَر
+demodulation	ازلة التعديل / إزالة التعديل
+demodulator	مزيل التعديل
+demonstration reactor	مفاعل ايضاح (ن)
+demultiplexing	إزالة تعدد الإرسال
+dense	كثيف
+densimeter	مكثاف / مِكثاف؛ مقياس الكثافة
+densitometer	مقياس الكثافة الضوئية
+density	كثافة
+density function	دالة الكثافة
+density matrix	مصفوفة الكثافة
+density modulation	تعديل الكثافة
+density of air	كثافة الهواء
+density of dislocation	كثافة الانخلاع
+density of states	كثافة الحالات (ن) / كثافة الحالات
+dependant variable	متغيّر تابع / متغيرٌ تابع
+dependent source	منبع غير مستقل
+depleted material	مادة مستنفََدَة (ن)
+depleted uranium	يورانيوم مستنفد؛ يورانيوم ناضب
+depleted zone	منطقة مستنفَدَة (ن)
+depletion	استنفاد (ن)
+depletion layer	طبقة ناضبة
+depletion region	منطقة النضوب
+depletion- layer transistor	ترانزستور ذو طبقة ناضبة
+depolarization	ازالة الاستقطاب / إزالة استقطاب
+depolarization field	مجال ازالة الاستقطاب
+depolarizer	مزيل الاستقطاب
+depression of freezing point	انخفاض نقطة التجمد
+depth	عمق
+depth dose	جَرْعة عميقة / جرعة عميقة
+depth of field	عمق المجال / عمق الحقل
+derivation	اشتقاق
+derivative	مشتقّة / مشتق
+derived unit	وحدة مشتقة
+derived units	واحدات مشتقة
+Descartes laws	قانونا ديكارت
+desensitization	تخفيض الحساسية
+design basis accident	حادثة تصميم (ن)
+desorption	انتزاز؛ لفظ
+destructive interference	تداخل هدّام
+detection efficiency	كفاءة الكشف
+detection of sound	كشف الصوت
+detector	مكشاف (ن) / مكشاف
+detector efficiency	كفاءة المكشاف (ن)
+deterioration	تدهور
+deterioration of emission	تدهور الانبعاث
+determinant	محدِّد
+determinant of Slater	محدِّد سلاتر
+deuterium	دوتريوم / دوتيريوم: هدروجين ثقيل
+deuteron	دترون (ن) / دوتيرون
+developer	مُظْهِر
+developing	إظهار
+development	تطور
+deviation	انحراف
+deviation (angle of…)	زاوية الانحراف
+deviation of particle	انحراف الجسيم
+device	نبيطة؛ جهاز
+devitrification	نزع التزجج / إزالة التزجّج
+dew	ندى
+dew point	نقطة النّدى / نقطة الندى
+Dewar flask	وعاء ديوار
+dextrorotatory	يميني الدوران / يميني التدوير (مُيَامن)
+diac	دِياك
+diacaustic	كاوٍ بالانكسار / السطح الكاوي بالانكسار
+diactinism	نفاذية كيميائية
+diagnostic tube	أنبوبة تشخيص
+diagonal	قطر
+diagonal matrix	مصفوفة قطرية
+diagonalization of matrices	جعل المصفوفات قطرية
+diagram	مُخطَّط / مخطط
+dialysis	ديلزة / تحالّ
+dialyzer	فرّازة (بالانتشار الغشائي) / جِهَاز التّحالّ
+diamagnetic	مغنطيسية معاكسة
+diamagnetic materials	مواد ذات مغنطيسية معاكسة
+diamagnetic permeability	نفاذية المغنطيسية المعاكسة
+diamagnetic substance	مادة ذات مغنطيسية معاكسة
+diamagnetism	مغنطيسية معاكسة (ن) / مغنطيسية معاكسة
+diameter	قطر
+diamond	ألماس
+diamond structure	بنية ألمْاسِيَّة
+diaphragm	حجاب، حظار / حِظار
+diaphragm of camera	حجاب الصوارة
+diapositive	إيجابية شفافة (شفّافية)
+diascope	عارض الشفّافيات
+diathermancy	نفاذية الاشعاع الحراري / نفاذية حرارية
+diathermanous	مُنْفِذ حراري
+diathermanous; diathermic	منفذ للاشعاع الحراري
+diathermy	نفاذ أشعة الحرارة / نفاذ الحرارة
+diatomic molecule	جزيء ثنائي الذرة
+diatonic scale	سلم موسيقى ثنائي النغمة
+dichroic crystal	بلورة لونانية؛ بلورة ثنائية التلون
+dichroism	ثنائي التلون
+dichromatism	لونية مزدوجة
+dielectric	عازل استفطابي / كهرنافذ
+dielectric absorption	امتصاص العازل الاستقطابي / فَقْدٌ في الكهرنافذ
+dielectric break-down	انهيار الكهرنافذ
+dielectric breakdown	انهيار العازل
+dielectric constant	ثابت العازل / ثابتة الكهرنافذ
+dielectric dissipation factor	عامل تبدد العازل الاستقطابي
+dielectric heating	تسخين العازل الاستقطابي
+dielectric hysteresis	تخلف عازل
+dielectric lens	عدسة عازلة استقطابية
+dielectric loss	فقد العازل / فَقْدٌ في الكهرنافذ
+dielectric phase angle	زاوية طور العازل الاستقطابي
+dielectric power factor	عامل قدرة العازل الاستقطابي
+dielectric relaxation	استرخاء العازل الاستقطابي
+dielectric strength	قوة العازل الاستقطابي
+dielectric susceptibility	مطواعية كهرنافذية
+diesel engine	محرك ديزل
+difference amplifier	مضخم تفاضلي
+difference band	نطاق الفرق
+difference in optical path	فرق المسير الضوئي
+differential	تفاضل؛ تفاضلي
+differential amplifier	مضخم تفاضلي
+differential cross section	مقطع عَرْضي تفاضلي (ن)
+differential cross-section	مقطع فعال تفاضلي
+differential dose albedo	عاكسية الجرعة التفاضلية (ن)
+differential energy flux density	كثافة تفاضلية لتدفق الطاقة (ن)
+differential equation	معادلة تفاضلية
+differential galvanometer	مقياس جلفاني تفاضلي
+differential heat of solution	حرارة المحلول التفاضلية
+differential ionization chamber	غرفة تأين تفاضلية (ن)
+differential particle-flux density	كثافة تفاضلية لتدفق الجسيمات (ن)
+differentiation	مفاضلة
+differentiator	مفاضِل
+diffraction	حيود / انعراج؛ حيود
+diffraction angle	زاوية الحيد
+diffraction grating	محزز الحيد / شبكة الانعراج
+diffraction instrument	آلة الحيد
+diffraction of X-rays	انعراج الأشعة السينية
+diffraction pattern	صورة الانعراج
+diffraction spectrum; normal spectrum	طيف الحيد
+diffractometer	مقياس الانعراج
+diffuse (to)	ينتشر
+diffuse density	كثافة انتشار
+diffuse reflection	انعكاس انتشاري / انعكاس انتثاري
+diffuse refraction	انكسار انتشاري
+diffuse transmission	بثّ انتشاري
+diffuse transmission density	كثافة بث انتشاري
+diffused junction	وصلة بالانتشار / وصلة انتثارية
+diffused light	ضوء منتشر
+diffuser	ناشر (ن) / ناثر
+diffusion	انتشار / انتثار
+diffusion analysis	تحليل انتشاري
+diffusion area	مساحة الانتشار (ن)
+diffusion barrier	حاجز الانتشار (ن)
+diffusion cloud chamber	غرفة التأين بالانتشار
+diffusion coefficient	معامل الانتشار (ن) / مُعامل الانتثار
+diffusion column	عمود الانتشار
+diffusion cooling	تبريد بالانتشار (ن)
+diffusion current	تيار الانتشار / تيار الانتثار
+diffusion equation	معادلة الانتشار (ن) / معادلة الانتثار
+diffusion indicatrix	مخطط الانتشار
+diffusion layer	طبقة الانتشار
+diffusion length	طول الانتشار (ن) / طول الانتثار
+diffusion of gases	انتشار الغازات
+diffusion of light	انتثار الضوء
+diffusion polarization	استقطاب انتشاري
+diffusion potential	جهد الانتشار
+diffusion pump	مضخة انتثارية
+diffusion theory	نظرية الانتشار (ن)
+diffusive substance	مادة انتشارية
+diffusivity	انتشارية (ال...) / انتثارية
+digital circuit	دارة رقمية
+digital voltmeter	مقياس فلط رقمي
+dilatation	زيادة حجمية نسبية
+dilatational strain	انفعال التمدد الحجمي
+dilation	تمدد حجمي
+dilatometer	مقياس التمدّد الحجمي / مقياس التمدد
+dilute solution	محلول مخفف / محلول مُمَدَّد
+dilution	تخفيف / تمديد
+dimension	بُعْد
+dimensional analysis	تحليل الأبعاد
+dimensions	أبْعاد
+dimer	مَثْنَوي؛ متثاني
+diminished	مُقلَّل
+diminished image	صورة مصغرة
+diode	ثنائي المساري / ديود؛ ثنائي المَسـرى
+diode tube	صمام ثنائي المساري / ديود صِمامِيّ
+diopter	ديوبتر
+dioptometer	مقياس الكسيرة
+dioptre	كُسيرة
+dioptric system	نظام بصري لام
+dip angle	زاوية الميل
+dip circle	دائرة مَيْل / بوصلة الميل
+dip; inclination	مَيْل
+dipole	ثنائي القطب (ن) / قُطباني/ذو قطبين
+dipole moment	عزم ثنائي الأقطاب / عزم القطباني
+dipole radiation	إشعاع القطباني
+Dirac constant	ثابت ديراك
+Dirac delta function	دالة ديراك الدلتاوية
+Dirac equation	معادلة ديراك
+Dirac notations	رموز ديراك
+direct	مباشر، مستمر
+direct current	تيار مستمر
+direct energy band	عصابة طاقة مباشـرة
+direct gap	فرجة مباشـرة
+direct illumination; direct lighting	اضاءة مباشرة
+direct magneto-striction effect	تأثير التقبض المنغطيسي المباشر
+direct maintenance	صيانة مباشرة (ن)
+direct piezoelectric effect	تأثير كهرضعطي مباشر
+direct recombination	اتحاد مباشـر
+direct vision prism	موشور رؤية مباشـرة
+direct vision spectrometer	مطياف رؤية مباشرة / مطياف الرؤية المباشـرة
+direct vision spectroscope	مطياف مباشر الرؤية
+direct- acting pump	مضخة فعل مباشـر
+direct-cycle reactor; boiling	مفاعل الدورة المباشرة (ن) ، مفاعل الغليان
+direct-vision prism	موشور الرؤية المباشرة، منشور الرؤية المباشرة
+direction	اتجاه
+direction cosines	جيوب تمام اتجاهية / جيوب تمام التوجيه
+direction of polarization	اتجاه الاستقطاب
+direction of propagation	اتجاه الانتشار
+directional baffle	عارضة اتجاهية
+directional microphone	لاقطة صوت اتجاهية
+directly ionizing particle	جسيم التأيين المباشر (ن)
+directly ionizing radiation	اشعاع التأيين المباشرة (ن)
+directrix	دليل
+disadvantage factor	عامل العيب (ن)
+disaggregation energy	طاقة البعثرة
+disc	قرص
+discharge	تفريغ / تفريغ؛ انفراغ
+discharge potential	جهد تفريغ
+discharge tube	أنبوبة تفريغ / أنبوب الانفراغ
+discharger	مُفرِّغ / مفرِّغ الشحنات
+discharging of a body	تفريغ جسم
+discharging tongs	كلاَّبتا تفريغ
+discomposition effect	مفعول فيغنر
+discontinuity	انقطاع
+discontinuous spectrum	طيف متقطع
+discord	تنافر النغمات
+discrete	متقطع (ن)
+discrete base	قاعدة متقطعة
+discrete distribution	نوزيع متقطع / توزيع متقطِّع
+discrete spectrum	طيف متقطِّع
+discrete variable	متحول متقطِّع
+discrimination index	دليل تمييز
+discriminator	مميِّز (ن)
+discriminator circuit	دارة تمييز
+discriminator curve	منحنى المميِّز (ن)
+dish	طَبَق
+disintegration	تفكك
+disintegration constant	ثابتة التفكك
+disintegration energy	طاقة الاضمحلال (ن)
+disintegration rate	معدل الاضمحلال (ن)
+disintegration; decay	اضمحلال (ن)
+disjoint events	حدثان منفصلان
+dislocation	انخلاع
+dislocation line	خط الانخلاع
+dislocation networks	شبكات الانخلاع
+disorder	عدم انتظام
+disorder pressure	ضغط الفوضى
+disordering	اختلال (ن)
+disperse phase	طور التفريق
+disperse system	نظام التفريق
+dispersed particles	جسيمات مفَرَّقة
+dispersion	تفريق (ن) ، تشتّت / تبدُّد
+dispersion effect	تأثير التفريق
+dispersion forces	قوى التفريق
+dispersion fuel	وقود مشتَّت (ن)
+dispersion in statistical data	تشتت المعطيات الإحصائية
+dispersion of light	تفريق الضوء
+dispersion of rotation	تفريق الدوران
+dispersion power	قدرة التبدد
+dispersion reactor	مفاعل الوقود المشتَّت (ن)
+dispersional frequency	تردد تفريقي
+dispersity	تفريقية
+dispersity medium	وسط مفَرَّق
+dispersive medium	وسط مبدِّد
+dispersive power	قدرة تفريقية / قدرة التبديد
+dispersive wave	موجة مبدّدة
+dispersivity	تفريقية
+dispersoid	نظام غروي عالي التفريق
+displaced liquid	سائل مزاح
+displaced terms; anomalous terms	حدود مزاحة
+displacement	ازاحة
+displacement adsorption	امتزاز الازاحة
+displacement antiresonance	ضديد رنين الازاحة
+displacement current	تيار الازاحة / تيار الانزياح
+displacement law	قانون الانزياح
+displacement resonance	رنين الازاحة
+displacement vector	متجه الانزياح
+display	إظهار؛ عَرْض
+display screen	شاشة عرض
+disruptive discharge	تفريغ تمزيقي
+dissipation	تبدد / تبديد
+dissipation factor	عامل التبدد
+dissipation of energy	تبدد الطاقة
+dissipationless	معدوم التبدد
+dissipationless line	خط معدوم التبدد
+dissipative force	قوة مبدِّدة / قوة مُبدِّدة
+dissipative function	دالة التبدد
+dissipative system	نظام مبدِّد
+dissociation	تَحَلّل / تحلُّل
+dissociation constant	ثابت التحلل
+dissolution	ذوبان؛ انحلال
+dissolve (to)	يذيب
+dissolved substances	مواد مذابة
+dissolving	ذوبان
+dissonance	تنافر النغمات
+dissonance; discord	تنافر(النغمات)
+dissymmetry factor; anisotropy factor	عامل تباين الخواص
+distance	مسافة / مسافة؛ بُعد
+distillation	تقطير
+distilled water	ماء مقطَّر
+distinguishable particles	جسيمات متمايزة
+distorted waveform	شكل موجة مشوه
+distortion	تَشَوُّه / تشوُّه
+distortion of image	تشوه الصورة
+distributed capacitance	مواسعة موزعة / مواسعة متوزعة
+distributed element	عنصـر متوزِّع
+distribution	توزّع
+distribution coefficient; partition coefficient	معامل التوزيع
+distribution function	دالة التوزّع
+distribution of charge	توزيع الشحنة
+distribution of electricity	توزيع الكهرباء
+distribution of potential	توزيع الجهد
+distribution of random variable	دالة التوزّع
+distribution of velocities	توزّع السـرع
+distributive law	قانون توزيعي
+disturbance	اضطراب؛ تشويش
+diurnal variations	تغيرات يومية
+divalent	ثنائي التكافؤ (ن)
+divergence	تباعد (ن) / تفرُّق؛ تباعُد
+divergence loss	فقد بالتفرق، فقد بالتباعد
+divergence of fluid	تفرق المائع
+divergent	متباعد (ن)
+divergent lens; diverging lens	عدسة مفَرقة
+divergent rays	أشعة متفرقة / أشعة متباعدة
+diverging lens	عدسة مبعِّدة
+diverging mirror	مرآة محدَّبة
+diversity factor	عامل التنوع (ن)
+diving-bell	ناقوس الغوص
+divisibility	قابلية القسمة / قَسُومِيَّة
+domain	حقل (ن) / منطقة
+domain structure	بنية حقل
+domain wall	جدار المنطقة
+domains theory	نظرية الحقول
+donor	مانح (ال...)
+donor atom	ذرة مانحة
+donor level	مستوى طاقة المانحات
+dopant	شائبة طعم
+doping	تطعيم
+Doppler broadening	توسيع / توسع دوبلر
+Doppler coefficient	معامل (ن)
+Doppler displacement	انزياح دوبلر
+Doppler displacement; Doppler shift	ازاحة
+Doppler effect	مفعول دوبلر
+Doppler radar	كاشوف
+Doppler shift	انزياح دوبلر
+Doppler shift of spectral lines	انزياح دوبلر للخطوط الطيفية
+Doppler-averaged cross section	مقطع العرضي الوسطي (ن)
+Doppler-Fizeau effect	تأثير (ن)
+Doppler-Fizeau principle	مبدأ
+dose	جَرعة (ن)
+dose equivalent	مكافىء الجرعة (ن)
+dose meter	مقياس الجرعة
+dose of radiation	جرعة الإشعاع
+dose rate meter	مقياس معدل الجرعة
+dose-ratemeter	مقياس معدل الجرعات (ن)
+dosemeter; dosimeter	مقياس الجرعة (ن)
+dosimeter	مقياس الجرعة
+dosimetry	قياس الجرعات (ن)
+dot notation	اصطلاح النقطة
+dot product	جداء داخلي (نقطي) / جُداء سُّلَّمي؛ جداء داخلي
+double concave	مقعر الوجهين
+double concave lens	عدسة مقعرة الوجهين
+double convex	محدب الوجهين
+double convex lens	عدسة محدبة الوجهين
+double differential cross section	مقطع عرضي تفاضلي مضاعف (ن)
+double diode	ثنائي المسار المضاعف
+double focus tube	أنبوبة ذات بؤرتين
+double grid valve	صمام مزدوج الشبكة
+double isomorphism; isodimorphism	تشاكل مزدوج
+double lever	رافعة مزدوجة
+double pole	مزدوج القطب
+double refraction	انكسار مزدوج، انكسار مضاعف / انكسار مضاعَف
+double slit	شق مزدوج
+double source	مصدر مزدوج
+double spherical harmonic Yvon's method	طريقة ابفون للمتوافقات الكروية المضاعفة
+double throw-over switch	مفتاح مزدوج
+double weighing	وزن مضاعف
+double-current generator	مولد التيار المزدوج
+doublet	ثنائية
+doubling time	زمن المضاعفة (ن)
+doughnut	كعكة / كعكة سوارية
+downward pressure	ضغط الى الأسفل
+drag effect	تأثير الانجرار / مفعول السحب
+drain	مصـرف
+drift	انسياق
+drift current	تيار الانسياق
+drift energy	طاقة الانسياق
+drift mobility	حركية الانسياق
+drift transistor	ترانزستور انسياقي
+drift velocity	سرعة الانسياق / سـرعة الانسياق
+driven oscillator	هزاز قسـري
+driving mirror	مرآة الرؤية الخلفية؛ مرآة القيادة
+drop	قطرة
+drop formation	تكون القطرات
+drop model of nucleus	نموذج القطرة للنواة
+drop weight	وزن القطرة
+dropping electrode	مسرى قَطري
+Drude model	نموذج دروده
+drum	طبلة / طبلة؛ طبل
+drumskin action	اهتزاز غشاء الطبلة
+dry cell	خلية جافة / بيل جاف
+dry ice	جليد جاف
+dry objective	جسمية جافة
+dry well	بئر جافة (ن)
+dryout	تجفيف (ن)
+dual pressure cycle	دورة مزدوجة الضغوط (ن)
+dual-cycle reactor	مفاعل مزدوج الدورات (ن)
+duality	ازدواجية (ن) / مَثْنَوِيَّة
+duality of wave- particle	مَثْنَوِيَّة الموجة والجُسيم
+duality principle	مبدأ المَثْنَوِيَّة
+ductility	ممطوطية
+dull-emitting cathode	مهبط ضعيف الانبعاث
+Dulong and Petit law	قانون دولونغ وبتي
+dummy element	عنصر زائف (ن)
+dummy load	حمولة افتراضية
+duralumin	ديورالومين
+duty factor	عامل التشغيل
+dynamic braking	كبح تحريكي (دينمي)
+dynamic characteristic	مميز تحريكي (دينمي)
+dynamic coercive force	قوة قهرية تحريكية (دينمية)
+dynamic cooling	تبريد تحريكي (دينمي)
+dynamic magnetizing force	قوة تمغنط تحريكية (دينمية)
+dynamic permeability	نفاذية تحريكية (دينمية)
+dynamic pressure	حفظ تحريكي (دينمي)
+dynamic resistance	مقاومة تحريكية
+dynamical analogies	مضاهات تحريكية (دينمية) / تماثلات تحريكية
+dynamical quantity	كمية تحريكية (ن)
+dynamics	علم التحريك (دينميات) / علم التحريك؛ ديناميك
+dynamo	مولد كهربائي / مولد كهربائي؛ دينامو
+dynamometer	مقياس القوة الكهربائية / ربيعة
+dynatron	دينترن / دينا ترون
+dynatron effect	مفعول الديناترون
+dyne	داين / دينة: واحدة قوة
+dynode	داينود / مسـرى ثانوي
+dysprosium	دِسبروسيوم

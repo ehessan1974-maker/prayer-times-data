@@ -1,0 +1,295 @@
+قائمة الأسعار، قائمة الأثمان	price list
+قائمة الانتقاء	Pick List
+قائمة الموردين المعتمدين	Approved Supplier List
+قائمة انتخابية، لائحة انتخابية	electoral list
+قائمة سوداء، قائمة المشبوهين	blacklist
+قائمة مراقبة الائتمان	Credit Watch List
+قابل (ال..)	acceptor
+قابل للاستبدال	Substitutable
+قابل للاستغلال	exploitable
+قابل للتحلل	Biodegradable
+قابل للتحويل	transferable
+قابل للتنفيذ	executable
+قابل للتوضيح، قابل للتفسير	explicable
+قابل للحوار	Dialogic
+قابلة للاستبدال	Fungible
+قابلية الإبطال (لعقد من العقود)	voidability
+قابلية التحويل (في النقد)	convertibility
+قابلية التصرف	alienability
+قابلية التطبيق الصناعي	Capability of industrial application
+قابلية الخطإ	fallibility
+قادر على التنوع	Diversity-Capable
+قاصر	Minor / minor; under age
+قاصر على، حَصْريّ	exclusive
+قاضٍ	judge; magistrate
+قاضٍ منتدبٌ	commissioned judge
+قاضٍ منفرد	unique judge
+قاض نائب	judge alternate
+قاضي	Judge
+قاضي الأمور المستعجلة، قاضي المستعجلات	judge of urgent matters
+قاضي التحقيق	inquiry judge; investigating judge; examining magistrate
+قاعدة	Rule
+قاعدة إجرائية	Procedural Rule
+قاعدة الإسناد	rule of connection
+قاعدة الإمداد	Supply Base
+قاعدة الموردين	Supplier Base
+قاعدة آمرة	imperative rule
+قاعدة تنازع القوانين	rule of laws conflict
+قاعدة قانونية	legal rule / rule of law
+قاعدة مكمِّلة	suppletive rule
+قاعة الاجتماعات	assembly room
+قاعة البيع، مكان البيع	saleroom
+قاعة المحكمة	court room
+قاعة المداولات، غرفة المداولات	deliberations room
+قانون	Law / law
+قانون (ال..) الإسلاميّ، شريعة (ال..) الإسلامية	islamic law; shari’ah
+قانون (ال..) الإطار	frame law
+قانون (ال..) الإنسانيّ الدوليّ	international humanitarian law
+قانون (ال..) الجويّ	air law
+قانون (ال..) الدستوريّ	constitutional law
+قانون (ال..) الدوليّ الخاصّ	private international law
+قانون (ال..) الدولي العام	public international law
+قانون (ال..) العام	public law
+قانون (ال..) الماليّ	financial law
+قانون (ال..) المصرفيّ، قانون (ال…) البنكيّ	banking law
+قانون (ال..) تجاريّ، مدونة تجارية	commercial law; commercial code
+قانون اجتماعيّ	social law
+قانون إجرائي	Procedural Law
+قانون إداريّ	administrative law
+قانون أساسيّ	fundamental law
+قانون إقليميّ	territorial law
+قانون الأسرة، مدونة الأسرة	family law; family code
+قانون الإصلاح الزراعيّ	agrarian reform law
+قانون الأعمال	business law
+قانون الالتزامات والعقود، قانون الموجبات والعقود	law of obligations and contracts
+قانون الأموال	law of property
+قانون الانتخابات	election law
+قانون التجارة البحرية	maritime commercial law
+قانون التعمير، قانون هندسة المدن	urbanism law
+قانون الجنسية	nationality law
+قانون السجون	prisons law
+قانون الشركات	companies act; corporations law
+قانون الشغل، قانون العمل	labour law; employment law
+قانون الصحافة	press law
+قانون الصرف	exchange law
+قانون الضمان الاجتماعيّ	social security law
+قانون العرض والطلب	law of supply and demand
+قانون العفو الشامل، قانون العفو العام	amnesty law
+قانون العقد	lex loci contractus
+قانون العقوبات، قانون (ال..) الجنائيّ	penal law
+قانون العلَم	law of flag
+قانون المستهلِك	consumer law
+قانون المسطرة الجنائية، قانون الإجراءات الجزائية، قانون الإجراءات الجنائية	criminal procedure law
+قانون المسطرة، قانون الإجراءات	procedural law
+قانون الملكية الصناعية	patent law
+قانون المنافسة	competition law
+قانون الموطن	law of domicile
+قانون آمر	imperative law
+قانون بحريّ	maritime law; shipping law
+قانون تنظيميّ	organic law
+قانون جبائيّ، قانون ضريبـيّ	tax law; fiscal law
+قانون جنائيّ دوليّ	international criminal law
+قانون جنائيّ للأعمال	criminal business law
+قانون جنائيّ، قانون العقوبات	criminal law
+قانون خاصّ	private law
+قانون دوليّ	International Law / international law
+قانون دولي عام	Public International Law
+قانون ذو أثر رجعيّ	retroactive law
+قانون زراعيّ	rural law
+قانون شخصيّ	personal law
+قانون طبيعيّ	natural law
+قانون عاديّ	ordinary law
+قانون عرفيّ	customary law; common law
+قانون عسكريّ	military law
+قانون عقاريّ	land law
+قانون قضائيّ	judicial law
+قانون مدنيّ	civil law
+قانون معتبر	Rule Of Consideration
+قانون مفسّر	interpretation law
+قانون مقارن	comparative law
+قانون مكافحة الإغراق	anti-dumping law
+قانون مكتوب	written law
+قانون موحد	uniform law
+قانون موضوعي	Substantive Law
+قانون وضعيّ	positive law
+قانون وطنيّ	national law
+قانوناً، شرعاً	legally; lawfully
+قانوني	Legalese
+قانونيّ، شرعيّ	legal
+قانونيّ، مُشرِّع، فقيه	legist
+قبض	Arrest
+قبطان السفينة، ربان السفينة	ship master
+قَبُول	acceptance
+قَبول العقد	adoption of the contract
+قبول اليمين	Accept the oath
+قبول بدون تحفظ، موافقة بدون شرط	general acceptance
+قبول تسجيل علامة	Acceptance of registration application
+قَبول جدول الأعمال، إقرار جدول الأعمال	adoption of the agenda
+قبول جزئيّ	partial acceptance
+قَبول صريح	express acceptance
+قَبول ضمنيّ	tacit acceptance
+قبول غير المشروط	Unconditional Acceptance
+قبول مشروط	Conditional Acceptances
+قَبول مُطْلق	absolute acceptance
+قبول معلق على شرط	conditional acceptance
+قَبُول، جواز سماع الدعوى	admissibility
+قتال أو هروب	Fight Or Flight Reaction
+قَتْلٌ	Murder / homicide / killing
+قَتْل (ال..) الرحيم	euthanasia
+قَتْل الأصول	parricide
+قَتْل الفروع، قَتْل الأولاد	infanticide
+قتْل الملك، قاتل الملك	regicide
+قَتْل عمديّ	murder
+قَتْل غير عمديّ، قَتْل غير متعمد	manslaughter
+قَتْل مع سبق الإصرار	premeditated murder
+قدرات استراتيجية	Strategic Capabilities
+قدرات ديناميكية	Dynamic Capabilities
+قدرات سلسلة التوريد	Supply Chain Capabilities
+قدرة استيعابية	Absorptive Capacity
+قدرة تصنيعية	Manufacturing Capacity
+قدرة تفاعلية	Reactive Capacity
+قدرة تنافسية	Competitiveness
+قدرة على الابتكار	Innovation Capability
+قدرة على التكيف	Adaptability
+قدرة على المساومة	Bargaining Power
+قدرة عملية	Process Capability
+قدرة متناقصة	Diminished
+قَذْف	Defamation / defamation; slander
+قرابة	Kinship
+قرابة الحواشي	collateral consanguinity
+قرابة شرعية	legitimate relationship
+قرابة غير شرعية	illegitimate relationship
+قرابة غير مباشرة	Collateral Kinship
+قرابة مباشرة	Lineal Kinship / lineal kinship
+قرابة، نَسَبٌ	kinship
+قرار	Decision / decision
+قرار إداريّ	Administrative Decision / administrative decision
+قرار المنح	Grant decision
+قرار بالإحالة	judgment of remand
+قرار بالإلغاء	reversal judgment
+قرار بالرفض	judgment of rejection
+قرار بالنقض	judgment of cassation
+قرار تأديبي	Disciplinary Decision
+قرار تأييديّ	affirmative judgment
+قرار تنظيميّ	Regulatory Decision / regulation act
+قرار غير قابل للطعن	Non-Appealable Decision
+قرار فرديّ	individual act
+قرار قطعي	Final Decision
+قرار مؤكِّد	confirmative act
+قرار مجلس الوزراء	Council of Ministers Resolution
+قرار مُسبَّب	Reasoned Decision
+قرار منفصل	detachable act
+قرار هيئة المحلفين	verdict
+قرار وزاري	Ministerial Decision
+قرار، حُكْم	judgment
+قرارات استراتيجية	Strategic Decisions
+قرارات الترخيص الإجباري	Decisions of compulsory license
+قرارات مبدئية	leading judgments
+قرصنة	piracy
+قرصنة جوية	aerial piracy; air piracy
+قرض	Loan
+قرض طويل الأجل	long term loan
+قرض قصير الأجل	short-dated loan
+قَرْض لأجل متوسط	medium-term loan
+قرض مضمون برهن رسميّ	mortgage loan
+قرينة	Presumption / presumption
+قرينة البراءة	presumption of innocence
+قرينة بسيطة، قرينة غير قاطعة	simple presumption
+قرينة قاطعة	absolute presumption
+قرينة قانونية	legal presumption / presumption of law
+قرينة قضائية	judicial presumption
+قِسْط ، دفعة	instalment; installment
+قِسط التأمين	insurance premium
+قسط تأمين	Insurance Premium
+قسط سنويّ	annuity
+قسم الحسابات	accounting department
+قسم مكافحة الاحتيال التجاري	Anti-Commercial fraud department
+قِسمة	partition
+قسمة التركة	Partition of estate
+قسمة المهايأة	provisional partition
+قسمة رضائية	consensual partition
+قسمة قضائية	judicial partition; judicial division
+قسمة نهائية	definitive partition
+قصاص	Qisas / talion
+قصد جنائيّ	criminal intent
+قضاء	Judiciary
+قضاء إداريّ	administrative justice
+قضاء مُستعجَل	Summary Proceedings
+قضاء، قَدَرٌ	fatality; fate
+قضائيا	judicially
+قضاة الحكم، قضاء (ال..) الجالس	judges (the ..)
+قضايا دولية، شؤون دولية	world affairs
+قضية	case; suit
+قضية جنائية	criminal case
+قضية حقوق	Rights Issue
+قضية عامة	Public Issue
+قضية مدنية	civil case
+قطاع	Sector
+قطاع الخدمات	Tertiary Sector
+قطاع المرافق	Utilities Sector
+قطاع أولي	Primary Sector
+قطاع ثالث	Third Sector
+قطاع خاصّ	Private Sector / private sector
+قطاع رسمي	Formal Sector
+قطاع عام (أو الحكومي)	Public (Or State) Sector
+قطع	Amputation
+قلة القلة(النخبوية)	Oligopoly
+قلة اليد العاملة	labour shortage
+قماش الاستراتيجية	Strategy Canvas
+قناة أومني (المتعددة)	Omni-Channel
+قناة توزيع	Distribution Channel
+قنصلية	consulate
+قوائم الدخل	Income Statement
+قوائم مالية	Financial Statements
+قوات مُسلَّحة	armed forces
+قواطع	Breakers
+قواعد التفسير	Rules Of Interpretation
+قواعد سلوكية	Code Of Conduct
+قوالب نمطية/ وطنية / التنميط الثقافي	National/Cultural Stereotypes
+قوة الإثبات، قوة ثبوتية	probatory force
+قوة التسعير	Pricing Power
+قوة الشيء المقضي به	authority of the final decision
+قوة المسافة	Power Distance
+قوة المكافئة	Remunerative Power
+قوة شرائية، قدرة شرائية	spending power; spending capacity; chasing power
+قوة قاهرة	Force Majeure / act of God; superior force; irresistible force
+قوة متماثلة أو تناسق القوة	Power Symmetry
+قوة معيارية	Normative Power
+قوة مقاعد البدلاء	Bench Strength
+قوى خارجية	Macro Environment
+قوى عاملة	Working Capital
+قيادة	Leadership
+قيادة التكلفة	Cost Leadership
+قيادة المعاملات	Transactional Leadership
+قيادة ظرفية	Situational Leadership
+قيادة غير رسمية	Informal Leader
+قيادة مجموعة الأمم المتحدة	UN Cluster Lead
+قياس	analogy
+قياس الأداء	Performance Benchmarking
+قياس العملية	Process Metric
+قياس النتيجة	Outcome Measurement
+قياس ذكي	Smart Metering
+قياسات صلبة	Hard Parameters
+قياسي	Standard
+قيْد	restriction
+قيد (قيود)	Constraint
+قيد النقل	In Transit
+قيلولة	Siesta
+قيم أخلاقية	Ethical Values
+قِيم منقولة	transferable securities
+قِيمة	Value / value
+قيمة اسمية (للسهم)	nominal value (of share)
+قيمة اقتصادية مضافة	Economic Value Added
+قيمة الأصول	Asset Value
+قيمة المستفيد	Beneficiary Value
+قيمة تجارية	commercial value
+قيمة دفترية	Book Value
+قيمة زمنية للنقود	Time Value Of Money
+قيمة سوقية	Market Capitalization
+قيمة مضافة	Added Value; Value-Added Benefits
+قيمة معرضة للخطر	Value At Risk (VAT)
+قيمة مقابل المال	Value For Money (VFM)
+قيمة مقدرة للبضائع	Ad Valorem
+قيمة يحددها السوق	market value
+قيود المشروع	Project Constraints
+قيود مفروضة على السعة	Capacity Constraints

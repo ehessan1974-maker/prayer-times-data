@@ -1,0 +1,330 @@
+قابض	astringent
+قابض، مرسّخ	bate
+قابَلَ	correspond (to)
+قابل للاحتراق	combustible
+قابل للاشتعال، شَعول، لَهوب	inflammable
+قابل للامتصاص	absorbable
+قابل للتأكسد	oxidizable
+قابل للتصفيح	malleable
+قابل للتمدد	dilatable
+قابل للحقن	injectable
+قابل للعدوى	infectible
+قابليّة	ability
+قابلية التبعثر	dispersibility
+قابلية التبلل	wettability
+قابلية التصفيح	malleability
+قابلية التطاير	volatility
+قابلية التوصيل، نقولية، قابلية نقل	conductibility
+قابلية الرؤية، جلاء، وضوح	visibility
+قاتم، مُعْتِم	dark
+قار	pitch
+قار، حمّر	bitumen
+قار، زفت	pitch
+قارورة	bottle
+قارورة التسوية، قنينة التسوية	level(l)ing bottle
+قارورة الكثافة، قنينة الكثافة	density bottle
+قارورة بوخنير	Büchner flask
+قارورة ترشيح	filter flask
+قارورة غَسْل	wash bottle
+قارورة غسل، زجاجة غسل	wash-bottle; washing bottle
+قارورة قطّارة، قارورة القطر	dropping bottle
+قارورة كيلدال	Kjeldahl flask
+قارورة وزن	weighing bottle
+قَاسَ	measure (to)
+قاصِر	bleach
+قاطَع، قطَع	interrupt (to)
+قاطعة، مشرحة	slicer
+قاع، قعر	bottom
+قاعدة	base (alkaline earth…) / basis / rule
+قاعدة (جهاز)	base board
+قاعدة الاثنين	rule of two
+قاعدة الأطوار	phase rule
+قاعدة الأطوار لجيبس	Gibbs phase rule
+قاعدة الثلاثيات	triad rule
+قاعدة الثماني، قاعدة المجموعة الثمانية	octet rule
+قاعدة الثُّمانيات	octave rule
+قاعدة الثمانية	rule of eight
+قاعدة بورينية	purine base
+قاعدة تروب	Traube's rule
+قاعدة تروتن	Trouton's rule
+قاعدة سيتزف	Saytzeff rule (Zaitsev)
+قاعدة شحنة مجاورة	adjacent charge rule
+قاعدة شيف	Schiff base
+قاعدة عضوية	organic base
+قاعدة قَطْرَانية	tar base
+قاعدة قوية	strong base
+قاعدة كاذبة	pseudo base
+قاعدة لويس	Lewis base
+قاعدة ماركوفنيكوف	Marcovnicov's rule
+قاعدة مترافقة	conjugate base
+قاعدة مرافقة	conjugated base
+قاعدة مركوفينكوف	Marcovinkov's rule
+قاعدة هوفمان	Hofmann rule
+قاعدة هوند	Hund's rule
+قاعدة، أساس	base
+قاعدة، قانون	rule
+قاعدي، أساسي	basic
+قاعدية الحموض، أساسية الحموض	basicity of acids
+قاعدية، أساسية	basicity
+قالب	die / mould
+قانون	Gay Lussac's law / Graham's law (of gases) / Van't Hoff's law / law
+قانون (ال...) الأول في الثرموديناميك	first law of thermodynamics
+قانون (ال...) الثالث في الترموديناميك، قانون (ال...) الثالث للدينامية الحرارية	third (the) law of thermodynamics
+قانون (ال...) الثاني للدينامية الحرارية، قانون (ال...) الثاني في الثرموديناميك	second law of thermodynamics (the...)
+قانون آفوغادرو	Avogdro's law
+قانون الأحجام المتحدة	law of combining volumes
+قانون الانتشار، قانون غراهام	diffusion law; Graham's law
+قانون التوازن الكيميائي	law of chemical equilibrium
+قانون التوزع، قانون التوزيع	distribution law
+قانون التوزيع	partition law
+قانون التوزيع ل	Wien's distribution law
+قانون الحالات المتوافقة	law of corresponding states
+قانون الضغوط الجزئية	law of partial pressures
+قانون الغاز المثالي	ideal-gas law (the...)
+قانون الغاز المثالي (الكامل)	ideal gas law
+قانون الغازات العام	universal gas law
+قانون النسب الثابتة	constant proportion law / law of constant proportions / law of definite proportions
+قانون النسب المتبادلة	law of reciprocal proportions / reciprocal proportions (law of)
+قانون النسب المضاعفة	law of multiple proportions
+قانون النسب المكافئة	law of equivalent proportions
+قانون انخفاض درجة التجمد	freezing point law
+قانون أوم	Ohm's law
+قانون باشن	Paschen law
+قانون بويل	Boyle's law / law (Boyle's)
+قانون بير	Beer's law
+قانون جول	Joule's law
+قانون حفظ الطاقة	law of conservation of energy
+قانون حفظ الكتلة	law of mass conservation
+قانون حفظ المادة	law of conservation of matter
+قانون دالتون	Dalton's law
+قانون دالتون للضغوط الجزئية	law (Dalton's) for partial pressure
+قانون دولونغ وبتي	Dulong and Petit law
+قانون راؤول	Raoult's law
+قانون ستوكس	Stokes law
+قانون شارل	Charle's law
+قانون غراهام، قانون انتشار الغازات، قانون جراهام	law of diffusion
+قانون غولدبرغ وَواج	Guldberg and Waage law
+قانون غي - لوساك	Gay-Lussac law
+قانون فاراداي (في الكهرلة)	Faraday's law (of electrolysis)
+قانون فعل الكتلة	law of mass action / mass action law
+قانون كولروش	Kohlraush law
+قانون لامبرت - بير	Lambert-Beer law
+قانون للجمع الجبري الحراري الثابت	Hess's law of constant heat summation
+قانون مندلييف	Mendeleef's law
+قانون هس	Hess's law
+قانون هنري	Henry's law
+قانون هوك	Hooke's law
+قانونا فانت هوف	Van't Hoff laws
+قبل، ماقبل	pre-
+قبول	acceptance
+قِدر تبخير	evaporating pan
+قدرة	ability / power
+قدرة المَيز	resolving power
+قدرة تدويرية	rotatory power
+قَذَفّ، قَصَفَ	bom (to…)
+قرائن، أدلّة	indices (pl. of index)
+قرص, مضغوطة	tablet
+قرقرة	bubbling
+قرمز النيلة	indigo carmine
+قِرْمِزَة	cochineal
+قرمزي	scarlet
+قَرِّيَ	cryogenic
+قَرِّيّ: سابقة	cryo-
+قرينة الاحتباس	retention index
+قرينة الانكسار	index (of refraction) / indice (of refraction) / refractive index
+قرينة الانكسار، معامل الانكسار	refractive index
+قرينة اللزوجة	viscosity index
+قساوة	hardness
+قساوة الماء، عسر الماء	hardness of water
+قساوة المياه، عسر الماء	water hardness
+قساوة دائمة	permanent hardness
+قساوة مؤقتة	temporary hardness
+قساوة، عُسْرة	hardness
+قسّى، صلّد	harden (to)
+قشْد، تقطير أولي، حذف الجزء الغازي	skimming
+قشدة	cream
+قشّر	flake (to)
+قشراني سُكَّري	glucocorticoid
+قشرة	cortex
+قشري	cortical
+قشيرات ثلجية، كشف ثلجية	snow flakes
+قُشيْرة، قُشارة	flake
+قصّ	shearing
+قَصَافة	brittleness; fragility
+قصب السكر	sugarcane
+قصدير	tin / tin; stannum
+قصدير (IV)	stannic
+قصدير(II)	stannous
+قصديرات	stanates / stannate
+قصديريت	stannite
+قصر الألوان	bleaching
+قَصْر، تَبْييض	bleaching
+قَصِفٌ	brittle
+قصف الكتروني، قذف الكتروني	electron bonbardment
+قصف نووي، قذف نووي	nuclear bombardement
+قَصْف، قَذْف	bombardment
+قُصور	lack
+قصور، نقْص	deficiency
+قضيب (مغناطيسي)	bar (magnet)
+قضيب زجاجي	glass rod
+قضيب، بار	bar
+قضيب، ساق	rod
+قطارات وسطى	middle distillates
+قطارة	distillate / dropper / gutter
+قُطارة محسَّنة	reformate
+قطارة، قطير	distillate
+قطّارة، نقّاطة	dropper
+قطب	pole
+قطب مغنطيسي	magnetic pole
+قطبي	polar
+قطبية	polarity
+قطر جزيئي فعّال	effective molecular diameter
+قطر ذري	atomic diameter
+قطران	tar
+قطران الفحم الحجري	coal-tar
+قطرة	drop
+قطري	diagonal
+قَطْعٌ	scission
+قطع ناقص	ellipse
+قِطع وصل، لوازم تثبيت	fitting
+قطعة	segment
+قطعة بشكل y	y-piece
+قطعة، جزء	piece
+قطف مُبْتَسر	undercutting
+قطن	cotton wool
+قطن البارود	gun cotton / guncotton / nitrocotton
+قطوبية، قابلية الاستقطاب	polarizability
+قطيرة	droplet
+قَعْر	bottom
+قلاء	alkalosis
+قلاّب	stirrer
+قلَّبَ	stir (to)
+قلب ذري، لب ذري	atomic core
+قلبي	cardiac
+قلفونة	colophony
+قلفونة (روزين)	rosin
+قلِق	metastable
+قلنسوة الفقاعات	bubble cap
+قَلَواني	alkaloid
+قِلوي	alkaline
+قِلويات	alkalies
+قلويات خفيفة	mild alkalis
+قلوية	alkalinity
+قلّي	alkali / alkalinize (to); alkalize (to); alkalify (to) / potash
+قِلي، قِلو	alkali
+قليل	oligo / oligo-
+قليل البلمرة	oligomerization
+قليل الحدود	oligomer
+قليل الذوبان	scanty (chardly soluble)
+قليل السكّريد	oligosaccharide
+قمع	funnel
+قمع بخنير	Büchner funnel
+قمع بوخنر	Buchner funnel
+قمع ترشيح	filter funnel / filtering funnel
+قمع ذو صنبور	tap-funnel
+قمع سناني	thisle funnel
+قمع طويل الساق	long stem funnel
+قمع فصل	separating funnel / tap funnel
+قمّة	apex; top; peak
+قميص بخار، دثار البخار	steam jacket; chemise de vapeur
+قميص، غلاف	jacket
+قَمين	kiln
+قمين كلس	lime kiln
+قناع	mask
+قناع غازي	gas mask
+قنبلة ذرية	atomic bomb
+قنبلة هيدروجينية	hydrogen bomb
+قنديلة	candela
+قنينة	phial
+قنينة، قارورة	vial
+قواعد تجريبية	experimental basis
+قوانين الاتحاد الكيميائي	combination (law of chemical..)
+قوانين التحليل الكهربائي	laws of electrolysis
+قوانين الغازات	gas laws
+قَوْس	arc
+قوس كهربائي	electric arc
+قَوْصَرَة	coacervate
+قُوْلَبَة	molding
+قولبة انتقالية	transfer molding
+قولبة بالحقن	injection molding
+قَوْلَبَةٌ بالنَفْخ	blow molding
+قولبة، مصبوبة	casting
+قوة	force / strength
+قوة (تابع)	virial (function)
+قوة (متانة) أيونية	ionic strength
+قوة (معامل)	virial (coefficient)
+قوة الاتحاد	combining force
+قوة التدافع (التنافر)	repulsive force
+قوة الحمض	acid (strength of…) / strength of acids
+قوة الرابطة	bond strength
+قوة المحلول	strength of solution
+قوة تحريضيّة	induction force
+قوة حية، قوة حياتية	vital force
+قوة فاندر فالس	Van der Waals force
+قوة كهراكدة	electrostatic force
+قوة محرِّكة	driving force
+قوة محركة كهربائية	electromotive force
+قوة نابذة	centrifugal force
+قوى التبعتر	dispersion forces
+قوى التجاذب	attraction forces
+قوى التكافؤ	valence forces
+قوى التماسُك	cohesive force
+قوى الرباط، ترابط (ال...) بين النوى، ارتباط (ال...) بين النوى	linkage forces; between the nuclei
+قوى بين الجزيئات، قوى (ال...) البين جزيئية	intermolecular forces
+قوى نووية	nuclear forces
+قياس	measurement
+قياس (قياسات)	measurement (s)
+قياس الاستقطاب	polarimetry
+قياس الأمبير	amperometry
+قياس الامتصاص	absorptiometry
+قياس التفلور	fluorometry
+قياس التناضحية	osmometry
+قياس الحموضة	acidimetry
+قياس الحموضية، محماضية	acidimetry
+قياس الرطوبة، مرطابية	hygrometry; hygroscopy
+قياس الشحنة	coulometry
+قياسُ الضوء الطيفي	spectrophotometry
+قياسُ الطيف	spectrometry
+قياس الطيف الضوئي الإلكتروني	photoelectron spectroscopy
+قياس الطيف تحت الأحمر	infrared spectroscopy
+قياس الغليان	ebulliometry / ebullioscopy
+قياس الغليانية	ebulliometry
+قياس القِلوية	alkalimetry
+قياس الكَدَر	nephelometry
+قياس الكدورة	turbidimetry
+قياس الكمون	potentiometry
+قياس الموصلية	conductometry
+قياس اليود	iodometry
+قياس تندال	tyndallimetry
+قياس حجمي	volumetric
+قياس طيف الامتصاص فوق البنفسجي	ultraviolet absorption spectrometry
+قياس طيف الكُتْلة	mass spectrometry
+قياس قرينة الانكسار	refractometry
+قياس كثافة السوائل، مكثافية	hydrometry
+قياس كمون لوني، قياس جهد لوني	chromopotentiometry
+قياس كمية الحرارة	calorimetry
+قياس كمية الحرارة، مسعرية	calorimetry
+قياس كهرثقلي	electrogravimetry
+قياس مطيافة الامتصاص	absorption spectrometry
+قياس يودي	iodimetry
+قياس، تدبير	measure
+قياسات تجمدية	cryometry
+قياسات حرارية	heat measurements
+قياسات غليانية	ebullioscopic measurements
+قيراط	carat
+قيم أصغرية	minima
+قيمة	value
+قيمة (ال...) الحمضية	acid value
+قيمة (ال...) السُّعرية، قيمة (ال...) الحرارية	calorific value
+قيمة PH	ph - value
+قيمة R.F	Rf-value (retention factor)
+قيمة rH	rH-value
+قيمة أستيلية	acetyl value
+قيمة اسمية، قيمة مستحقة	rated value
+قيمة التصبّن	saponifification value
+قيمة اليود	iodine value
+قيمة تقديرية، قيمة افتراضية	virtual value
+قيمة حرارية	calorific value
+قيمة ذاتية	eigenvalue
+قيمة عددية	numerical value
+قيمة مختزَلة	reduced value

@@ -1,0 +1,117 @@
+UHF	تردد فوق العالي
+ultimate lines	خطوط حدّية
+ultimate lines; persistent spectrum	خطوط التهيج الأدنى
+ultimate strength	المتانة الحدِّية
+ultimate tensile stress	إجهاد الشد الأقصـى
+ultra centrifuge	نابذة مركزية فائقة / مُثفِّلة فائقة
+ultra high frequency	تردد فوق العالي
+ultra violet	فوق البنفسجي
+ultra-violet radiation	اشعاع فوق البنفسجي
+ultra-violet spectrum	طيف فوق البنفسجي
+ultrafiltration	ترشيح فائق
+ultramicroscopic vision	رؤية فوق مجهرية
+ultraphotic rays	أشعة فوق المرئية / أشعة لا مرئية
+ultrasonic	فوق صوتي
+ultrasonic cleaning	تنظيف بالأمواج فوق السمعية
+ultrasonic waves	أمواج فوق السمعية
+ultrasonics	فوق الصوتيات / فوق السمعيات
+ultraviolet catastrophe	الكارثة فوق البنفسجية
+ultraviolet rays	الأشعة فوق البنفسجية
+ultraviolet spectroscopy	مطيافية ما فوق البنفسجي
+umbra	ظل
+umbra spectrum	طيف الظل
+Umklap process	آلية أمكلاب
+umklapp process; flip-over process	عملية أمكلاب
+unavailable energy	طاقة غير متاحة
+unbalance	لاتوازن
+unbalanced	لا متوازن
+unbalanced forces	قوى غير متوازنة
+uncertain figure	رقم غير موثوق به
+uncertainty principle	مبدأ الارتياب
+uncertainty principle; indeterminancy principle	مبدأ عدم التحديد
+uncertainty relations	علاقات الارتياب
+uncharged particle	جسيم غير مشحون
+unclassified area	منطقة غير مصنفة (ن)
+uncontrolled nuclear transformation	تحوُّل نووي منفَلِت
+undermoderated	مهدّأ جزئيا (ن)
+undulating light	ضوء موَّاج
+undulations	تموّجات
+uni-pivoted ammeter	مقياس أمبير أحادي المرتكز
+uniaxial	أحادي المحور
+uniaxial crystal	بلورة أحادية المحور
+unidirectional	وحيد الاتجاه
+unidirectional current	تيار وحيد الاتجاه
+unified field theories	نظريات المجال الموّحد
+unified field theory	نظرية الحقول الموحَّدَة
+unifilar	أحادي الخيط
+unifilar suspension	تعليق أحادي الخيط
+uniflar electrometer	مقياس الكهربية أحادي الخيط
+uniform acceleration	تسارع منتظم
+uniform field	حقل منتظم
+uniform flow	جريان منتظم
+uniform motion	حركة منتظمة
+uniform rotation	دوران منتظم
+uniform velocity	سرعة منتظمة
+unijunction transistor	ترانزستور أحادي الوصلة
+unilateral conductivity	ناقلية أحادية الاتجاه
+unilateral current	تيار وحيد الاتجاه
+unimolecular Layer; monomolecular Layer	طبقة أحادية الجزيء
+unipolar motor	محرِّك أحادي القطب
+unipolar transistor	ترانزستور وحيد القطبية
+unique trajectory	مسار فريد (ن)
+unit	وحدة / واحدة قياس
+unit (absolute…)	وحدة مطلقة
+unit cell	خلية (ال...) اللّبنة / خلية أولية
+unit matrix	مصفوفة محايدة
+unit of atomic mass	واحدة الكتل الذرية
+unit of current	وحدة التيار
+unit of density	وحدة الكثافة
+unit of separative work	وحدة عمل الفصل (ن)
+unit pole	واحدة القطب
+unit vector	متَّجه الواحدة
+unitary matrix	مصفوفة واحدية
+unitary operator	مؤثر واحدي
+units of activity	واحدات النشاط الإشعاعي
+units of reactivity	واحدات التفاعلية
+univalent	أحادي التكافؤ
+universal attraction	تجاذب كوني
+universal discharger	مفرغ عام / مفرِّغ عام
+universal gas constant	ثابتة الغازات العامة
+universal motor	محرِّك عام
+universal shunt	مفرعة عامة / مفرِّعة عامة
+universe	كون
+unlimited	غير محدود
+unloading amplifier	مضخم غير محمَّل
+unloading circuit	دارة معدومة الحمل
+unloading conveyor	سَيْرُ تفريغ
+unlocalized fringes	أهداب لا متوضِّعة
+unoccupied energy level	مستوى طاقة شاغر
+unpaired electron	إلكترون غير متزاوج
+unperturbed system	منظومة غير مضطربة
+unperturbed wave function	دالة موجية غير مضطربة
+unpolarized beam	حزمة غير مستقطِبة
+unpolarized light	ضوء غير مستقطب / ضوء غير مستقطِب
+unsaturated	غير مشبّع
+unsaturated standard cell	خلية عيارية غير مشبعة
+unsaturated vapour	بخار غير مشبع / بخار غير مُشبَع
+unsealed radioactive source	منبع إشعاع غير محكم الإغلاق
+unsealed source	مصدر غير محكم التغليف (ن)
+unstable	غير مستقر
+unstable equilibrium	اتزان غير مستقر / توازن قَلِق
+unstable isotope	نظير غير مستقر
+unstable nuclide	نية غير مستقرة (ن)
+unsteady flow	انسياب غير منتظم
+unsymmetrical bending	انحناء لا تناظري
+up quark	الكوارك فوق
+upscattering	استطارة مسرعة (ن)
+upthrust	دافعة رافعة
+uraninite	يورانينيت
+uranium	يورانيوم (ن) / يورانيوم
+uranium content analysis	تحليل المحتوى من اليورانيوم
+uranium enrichment	تخصيب اليورانيوم
+uranium hexafluoride	سداسـي فلوريد اليورانيوم
+uranus	أورانوس
+urban sitting	موقع حضري (ن)
+utilization time	زمن الاستعمال (ن)
+UV	أشعة فوق البنفسجية
+uviol glass	زجاج فوق البنفسجي الشفافية / زجاج يوفيول

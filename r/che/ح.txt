@@ -1,0 +1,567 @@
+حابس، صمام	obturator
+حاجب، عميل تقنيع	masking agent
+حاجز	barrier
+حاجز الأشعة السينية، حاجز أشعة روتنجن	x-ray shield
+حاجز كموني	potential barrier
+حاجة حيوية كيميائية للأكسجين	biochemical oxygen deman (BOD)
+حادّ	acute / sharp
+حادي عشر	undecane (eleven)
+حاصِرْ	blocker
+حاصل القسمة، خارج القسمة، ناتج	quotient
+حافز حامل، وسيط حامل	carrier catalyst
+حافز سلبي، وسيط سلبي	negative catalyst
+حافز غير متجانس	heterogeneous catalyst
+حافز متجانس	homogeneous catalyst
+حافز، وسيط	catalyst
+حافّة	edge
+حالّ الدم	hemolytic
+حالات المادة	states of matter
+حالات متقابلة (متوافقة)	corresponding states
+حالات مختزَلة	reduced states
+حالة	state
+حالة (ال...) الدنيا	ground-state
+حالة (ال...) الغازية	gaseous state (the...)
+حالة التأكسد	oxidation state
+حالة التكافؤ	valency state
+حالة التوازن	equilibrium state
+حالة الصلابة	solid state
+حالة إلكترونية	electronic state
+حالة بلورية	crystalline state
+حالة حرجة	critical state
+حالة حركية	state of motion
+حالة داخلية (لجسم)	internal condition (of a body)
+حالة دنيا (أساسية)	ground state
+حالة ذاتية	eigenstate
+حالة زجاجية	glassy state
+حالة سلبية	passive state
+حالة عِيانيّة (جَهْرِيّة)	macrostate
+حالة غروانية	colloïdal state
+حالة كُمومية	quantum state
+حالة مُثارة	excited state
+حالة مستقرة	stationary state / steady state
+حالة مضطردة	steady state
+حالة معيارية	standard state
+حالة مكثَّفة	condensed state
+حالة مِكروية (مجهرية)	microstate
+حالة مهيَّجة، حالة مثارة	excited state
+حالة نهائية	final state
+حالة، شرط	condition
+حامض	sour
+حامض ريبونيوكلييك، حامض الريبو النوكلوئي	ribonucleic acid (R.N.A)
+حامضية	sourness
+حامل	carrier / matrix / stand
+حامل الأيون	ionophore
+حامل الحفز، حامل الوسيط	catalyst carrier
+حامل الرائحة	odoriphore
+حامل السحاحة	burette-stand
+حامل اللون	chromophore
+حامل المعوجَّة	retort stand
+حامل أنابيب الاختبار	test tube stand
+حامل حديدي	stand
+حامل ذو خانات	rack (test-tube...)
+حامل قمع	funnel support (holder)
+حاملات اللون، كروماتين (ال...)	chromatographores
+حبة	grain
+حبة، قمحة (وزن)	grain
+حُبيبة	granule / pellet
+حبيبة اليخضور، كلوروبلاست، صانعات اليخضور	chloroplasts
+حبيبة بلورية مجهرية	microcrystalline
+حُبيبي	granular
+حجاب	diaphragm / shield (nucl.)
+حجاب، درع، حائل	shield
+حجْب (للوقاية)	shielding
+حجْب، تقصِّي	screening
+حَجْبٌ، تنحية	sequestration
+حجر الخفّان	pumice stone
+حجر الفلاسفة	philosopher's stone
+حجر الكلس، حجر الجير	limestone
+حجر خفان، حجر خفاف	pumice (...stone)
+حجر قاري، حجر زفتي	pitchstone
+حجر كلسي (جيري)	lime stone
+حجم	volume
+حجم آفوغادرو	Avogdro's volume
+حجم الاحتباس	retention volume
+حجم الوزن الجزيئي الغرامي	molal volume; molar volume
+حجم جزيء غرامي	gram molecular volume
+حجم جزيئي	molecular volume / volume (molecular...)
+حجم جزيىء غرامي	gram-molecular volume; molar volume
+حجم حرج	critical volume / volume (critical...)
+حجم ذري	atomic volume
+حجم نظامي	normal volume
+حجمٌ نوعي	specific volume
+حجميّ	volumic
+حجوم متحدة، حجوم منضمة، حجوم ملتئمة	combining volumes
+حدٌّ	limit
+حدّ التشبع	limit of saturation
+حد الخطأ	limit of error
+حد الذوبانية	limit of solubility
+حدّ المرونة	elastic limit
+حدوث	occurrence
+حدوث، وجود	occurrence
+حديد	iron
+حديد II	ferrous
+حديد III	ferric
+حديد بيتا	beta-iron
+حديد خنزيري	pig iron
+حديد صبّ	cast iron / iron (cast)
+حديد صبّ، حديد زهر	cast iron
+حديد صُبة	ingot iron
+حديد صلب، حديد مسكوب، حديد غفل	pig iron
+حديد مُديْلز	dialyzed iron
+حديد مطاوع	iron (soft...)
+حديد مطروق	iron (wrought...)
+حديدي: سابقة	sidero-
+حديدي، حديديك	ferric
+حذْف	elimination
+حذَفَ، نزَعَ، أزال	remove (to)
+حر	free
+حُرّ، طليق	free
+حرارة	heat
+حرارة (نوعية) حجمية	volumetric (specific) heat
+حرارة إشعاعية	radiant heat
+حرارة الاحتراق	heat of combustion
+حرارة الامتزاز	heat of adsorption
+حرارة الانتقال	heat of transition
+حرارة الانحلال	heat of dissolution / heat of solution
+حرارة الانصهار	heat of fusion
+حرارة التأيّن	heat of ionization
+حرارة التبخر	heat of vaporization
+حرارة التبلور	heat of crystallization
+حرارة التشكل	heat of formation
+حرارة التشكُّل (التشكيل)	heat of formation
+حرارة التصعُّد (التصعيد)	heat of sublimation
+حرارة التعادل	heat of neutralization
+حرارة التعديل	heat of neutralization
+حرارة التفاعل	heat of reaction
+حرارة التفكّك	heat of decomposition
+حرارة التكاثف	heat of condensation
+حرارة التمديد	heat of dilution
+حرارة التميّه	heat of haydration / heat of hydration
+حرارة المحلول	heat of solution
+حرارة تَكوُّن معيارية	standard heat of formation
+حرارة جزيئية	molecular heat
+حرارة حمراء	red heat
+حرارة ذرية	atomic heat / heat (atomic...)
+حرارة كامنة (لاطية)	latent heat
+حرارة محسوسة	sensitive heat
+حرارة مولية، حرارة جزئية	molar heat
+حرارة نوعية	specific heat
+حرارة نوعية اهتزازية	vibrational specific heat
+حرارة نوعية، حرارة مميزة	specific heat
+حراري	calorific / thermal / thermic
+حراري: سابقة	thermo-
+حرّاق	burner
+حرّاق بنسن	Bunsen burner
+حَرِج	critical / critical; critic
+حرَّرَ، أَطْلَقَ	release (to)
+حَرْق	burn
+حرق، احتراق	burning
+حرَّك، خضَّ	agitate (to)
+حركة	motion / movement
+حركة (ال...) البراونيّة	Brownian movement
+حركة (ال...) الموجية	wave motion
+حركة إعصارية، حركة دوّامية	vortex motion
+حركي	kinetic
+حركية	mobility
+حركية التفاعل	reaction kinetic
+حركية أيونية	ionic mobility
+حركية غروتس، جروتس	Grothus mechanism
+حركيّة كهربائية	electrokinetic
+حركية كيميائية	chemical kinetics
+حَروق، قابل للاحتراق	combustible
+حروكية	mobility
+حرير	silk
+حرير (اصطناعي)	silk (artificial...)
+حرير اصطناعي، رايون	rayon
+حريرة-غرام	gram calorie
+حريق، نار	fire
+حُرِّيَّة	freedom
+حزام	belt
+حزمة (ضوئية)	beam (of light)
+حزمة اتحادية، عصابة توافقية	combination band
+حزمة التكافؤ	valence band
+حزمة الكترونية، شعاع الكتروني	electron beam
+حزمة امتصاص	absorption band
+حزمة واردة	incident beam
+حزمة، عاتق	beam
+حساب	computation
+حسابات، إجراء الحسابات	calculations
+حسّاس	sensitive
+حسّاس للضوء	photosensitive
+حساسية	sensitivity
+حساسية الخبط، حساسية الدق	knock sensitivity
+حساسية الميزان	balance sensibility
+حسر هويتستون	Wheatstone bridge
+حَشْدٌ، عنقود	cluster (n)
+حشو مطاطي	rubber cloth / toile caoutchouc (rubber cloth)
+حشوات، موالىء	fillers
+حَشْوَةٌ، حَشْوٌ، ترابط	packing
+حِصار، منع	blockade
+حصاة صفراوية	biliary calculus
+حَصْر، مَنْع، إعاقة	block
+حصى، بلور صخري	pebbles
+حصيلة، مردود، ناتج	yield
+حضانة	incubation
+حفّاز	catalyst
+حفّاز زيغلر	Ziegler catalyst
+حفْربالحامض، حفْر بالحمض	etching
+حفرة، نقرة	pit (corrosion)
+حفَز	catalyse (to)
+حفز أنزيمي، وساطة أنزيمية	enzyme catalysis
+حفز ذاتي	auto-catalysis
+حفز سلبي، وساطة سلبية	negative catalysis
+حفز ضوئي	photo-catalysis
+حفز قاعدي	base catalysis
+حفز كهربائي، وساطة كهربائية	electrocatalysis
+حفْز، وساطة	catalysis
+حفْض، وقاية	preservation
+حِفْظ	conservation / preservation
+حِفْظ الطاقة	conservation of energy
+حقَّقَ	check (to)
+حقل كهرطيسي	electromagnetic field
+حقل مغناطيسي، مجال مغناطيسي	magnetic field
+حقل مغنطيسي	magnetic field
+حقل، مجال	field
+حقْن	injection
+حقنة، حقن	injection
+حقيقي	true
+حقيقي النواة	eucaryote
+حلّ هيدروجيني	hydrogenolysis
+حلّ، فرَّق، حلَّل	resolve (to)
+حُلالة	sol
+حلالة غَوْلية	alcosol
+حلالة مائية	hydrosol
+حُلالة هوائية، ضبابة	aerosol
+حلامة	hydrolysate
+حلحلة	percolation / solvolysis
+حلحلة، تمذيب	solvation
+حلزون ألفا	alpha helix
+حلزون مزدوج	double helix
+حلزوني	spiral
+حلقات راشغ	Rashig rings
+حلقات فورانوزية، خواتم فيورانوزية	furanose rings
+حلقات متداخلة	fused rings
+حلقة	ring
+حلقة البنزن	benzene cycle / benzene ring
+حلقة بال، عمود بال	Pall ring (column)
+حلقة سداسية	six-membered ring
+حلقة متغايرة	heterocycle
+حلقة، دورة	cycle
+حَلَقي	annular
+حلقي غير متجانس	heteroannular
+حلقي متجانس	homoannular / homocyclic
+حلقي متغاير	heterocyclic
+حلقي: سابقة	cyclo-
+حلقي، دوري	cyclic
+حلَّلَ	analyze (to)
+حلَّلَ بالحرارة العالية	pyrolyze (to)
+حلمأة، حلمهة بالحمض	acid hydrolysis
+حَلْمهَ	hydrolyze (to)
+حلمهة	hydrolysis
+حلوٌ	sweet
+حلول كهربائي، اسموزية كهربائية	electro-osmsis
+حلول، أسموز	osmosis
+حُماض	acidosis
+حمّام	bath
+حمّام إسقاء	quenching bath
+حمّام بخاري	steam (or vapour) bath
+حمام رملي	sand bath
+حمّام زيتي	oil bath
+حمام مائي	water bath
+حمام هوائي	air-bath
+حمامات	baths
+حمامات التبريد	cooling baths
+حُمامى	erythema
+حَمْأَة، حَمَأ	sludge
+حماية	protection / shielding
+حماية كاتودية	cathodic protection
+حمّرٌ	bitumen
+حَمَراني	erythroid
+حمّري	bitumen
+حمّري، قاري	bitumenous
+حمَّصَ	roast (to)
+حمْض	acid / acidify (to)
+حمض أحادي	monoacid
+حمض أحادي الهيدروجين	monoprotic acid
+حمض أسيتو الأسيتيك	acetoacetic acid
+حمض أكسجيني	hydroxy-acid; oxyacid
+حمض أكسيجيني	oxyacid
+حمض الأديبيك	adipic acid
+حمض الأرسينوز، حمض الزرنيخي، حمض الزرنيخوز	arsenious acid
+حمض الآزوت، حمض النتريك	azotic acid
+حمض الآزوتي (النتروز)	nitrous acid
+حمض الآزوتي، حمض نتروز	nitrous acid
+حمض الأسيتوأسيتيك، حمض خلاّل الخل، حمض الأسيتيلاسيتيك	aceto-acétic acid
+حمض الأسيتيك (الخل)	acetic acid
+حمض الأكريليك	acrylic acid
+حمض الأكزاليك، حمض الحمّاض	oxalic acid
+حمض الأليديك	elaidic acid
+حمض الانَثرانيليك	anthranilic acid
+حمض الأنديكانويك	undecanoic acid
+حمض الأوكتاديكانويك	octadecanoic acid
+حمض الأوكتانويك	octanoïc acid
+حمض الأوكزاليك (الحُمّاض)	oxalic acid
+حمض الأولييك (الزيت)	oleic acid
+حمض الإيتانويك	ethanoic acid
+حمض الإيزو ستياريك	isostearic acid
+حمض الإيزوبوتيريك	isobutyric acid
+حمض الإيزوسيانيك	isocyanic acid
+حمض الإيزوسيتريك	isocitric acid
+حمض الإينوزينيك	inosinic acid
+حمض الباربيتوريك	barbituric acid
+حمض البالميتوليك	palmitoleic acid
+حمض البالميتيك (النخيل)	palmitic acid
+حمض البانتوتينيك	pantothenic acid
+حمض البروبانويك	propanoic acid
+حمض البروبيوليك	propiolic acid
+حمض البروبيونيك	propionic acid
+حمض البروسيك	prussic acid
+حمض البروميك	bromic acid
+حمض البروميك، حمض البروم	bromic acid
+حمض البكتيك	pectic acid
+حمض البلّرغونيك	pelargonic acid
+حمض البنزويك	benzoic acid
+حمض البنزويك، حمض البنزوئي	benzoic acid
+حمض البوتيريك (الزبدة)	butyric acid
+حمض البوريك	boric acid
+حمض البيبِريك	piperic acid
+حمض البيروفيك	pyruvic acid
+حمض البيكريك	picric acid
+حمض البيميليك	pimelic acid
+حمض التِـرِفْتاليك	terephtalic acid
+حمض التِلّوري	tellurous acid
+حمض التلوريك	telluric acid
+حمض التماس	contact acid
+حمض الثيوكبريتيك	thiosulphuric acid
+حمض الخل الجليدي، حمض الأسيتيك الجليدي	acetic acid
+حمض الخلّ، حمض الأسيتيك	acetic acid
+حمض الديكوييك	decoic acid
+حمض الروزوليك	rosolic acid
+حمض الريبونيك	ribonic acid
+حمض الريسينوليك	ricinoleic acid
+حمض الزانتيك	xanthic acid
+حمض الزبدة، حمض البيوتيريك	butyric acid
+حمض الزرنيخ، حمض الزرنيخيك، حمض الأرسينيك	arsenic acid
+حمض الزنتيك	xanthic acid
+حمض الزيت، حمض الأوليك	oleic acid
+حمض الساليسيليك (الصفصاف)	salicylic acid
+حمض الستياريك (الشمع)	stearic acid
+حمض السكاريك	saccharic acid
+حمض السكسنيك (الكهرباء)	succinic acid
+حمض السُلْفاميك	sulfamic acid
+حمض السُلْفانيليك	sulfanilic acid
+حمض السُلْفونيك	sulfonic acid
+حمض السلينيك	selenic acid
+حمض السوربيك	sorbic acid
+حمض السيانيك	cyanic acid
+حمض السيباسيك	sebacic acid
+حمض السيليسيك	silicic acid
+حمض السيليني	selenious acid
+حمض السيلينيك	selenic acid
+حمض الصفراء	bile acid
+حمض الطرطريك	tartaric acid
+حمض العفص (الدبغ)	tannic acid
+حمض الغادولييك	gadoleic acid
+حمض الغاز، حمض اللوريك	lauric acide
+حمض الغالاكتورونيك	galacturonic acid
+حمض الغالاكتونيك	galactonic acid
+حمض الغاليك	gallic acid
+حمض الغُرَفْ	chamber acid
+حمض الغلوتاريك	glutaric acid
+حمض الغلوتاميك	glutamic acid
+حمض الغلوكاريك	glucaric acid
+حمض الغلوكورونيك	glucuronic acid
+حمض الغلوكونيك	gluconic acid
+حمض الغليكوكوليك	glycocholic acid
+حمض الغليكوليك	glycolic acid
+حمض الغليوكسيليك	glyoxylic acid
+حمض الغوانيليك	guanylic acid
+حمض الفاليريك	valeric acid
+حمض الفتاليك	phtalic acid
+حمض الفسفاتيديك	phosphatidic acid
+حمض الفُسفوري	phosphorous acid
+حمض الفُسفوريك	phosphoric acid
+حمض الفسفوريك الفائق	superphosphoric acid
+حمض الفسفونيك	phosphonic acid
+حمض الفلمينيك	fulminic acid
+حمض الفورميك (النمل)	formic acid
+حمض الفوسفوريك	phosphoric acid
+حمض الفوليك	folic acid
+حمض الفولينيك	folinic acid
+حمض الفوماريك	fumaric acid
+حمض القطران	tar acid
+حمض الكابرويك	caproic acid
+حمض الكبرويك	caproic acid
+حمض الكبريت، حمض الكبريتيك	sulphuric acid
+حمض الكبريتي	sulfurous acid / sulphurous acid
+حمض الكبريتيك	sulfuric acid
+حمض الكبريتيك المدخن	sulfuric acid fuming
+حمض الكبريك	capric acid
+حمض الكبريليك	caprylic acid
+حمض الكرباميك	carbamic acid
+حمض الكربوكسيليك	carboxylic acid
+حمض الكربوليك، حمض الفينيك	carbolic acid
+حمض الكربونيك	carbonic acid
+حمض الكربونيك، حمض الكربون	carbonic acid
+حمض الكروميك	chromic acid
+حمض الكلوري	chlorous acid
+حمض الكلوريك	chloric acid
+حمض الكوليك (الصفراء)	cholic acid
+حمض الكيتوغلوتاريك	ketoglutaric acid
+حمض الكيتوفاليريك	ketovaleric acid
+حمض الكينورينيك	kynurenic acid
+حمض الكينولينيك	quinolinic acid
+حمض اللاكتيك (اللبن)	lactic acid
+حمض اللبن، حمض اللاكتيك	lactic acid
+حمض اللوريك (الغار)	lauric acid
+حمض الليبوييك	lipoic acid
+حمض الليفولينيك	levulinic acid
+حمض الليمون، حمض السيتريك	citric acid
+حمض اللينولينيك	linolenic acid
+حمض اللينولييك	linoleic acid
+حمض المالييك	maleic acid
+حمض المانّورونيك	mannuronic acid
+حمض المنغنيك	manganic acid
+حمض المورياتيك	muriatic acid
+حمض الموسيك	mucic acid
+حمض الميتا سيليسيليك	metasilicilic acid
+حمض الميتافسفوريك	metaphosphoric acid
+حمض الميتاكريليك	methacrylic acid
+حمض الميتانويك	methanoic acid
+حمض الميتيونيك	methionic acid
+حمض الميريستيك	myristic acid
+حمض النتروبنزويك	nitrobenzoic acid
+حمض النتريك	nitric acid
+حمض النتريك الدخاني	nitric acid (fuming)
+حمض النفتاليك	naphthalic acid
+حمض النفتينيك	naphthenic acid
+حمض النمل، حمض الفورميك	formic acid
+حمض النونانويك	nonanoic acid
+حمض النيكوتينيك	nicotinic acid
+حمض الهبتانويك	heptanoic acid
+حمض الهكسانويك	hexanoic acid
+حمض الهيالورونيك	hyaluronic acid
+حمض الهيبوريك	hippuric acid
+حمض الهيدرازويك	hydrazoic acid
+حمض الهيدروبروميك	hydrobromic acid
+حمض الهيدروسيانيك	hydrocyanic acid
+حمض الهيدروفلوريك	hydrofluoric acid
+حمض الهيدروكلوريك	hydrochloric acid
+حمض الهيدرويوديك	hydroiodic acid
+حمض اليوديك	iodic acid
+حمض اليوديك اللامائي	iodic acid anhydride
+حمض اليوريك (البول)	uric acid
+حمض اليوريك، حمض اليوليك	uric acid
+حمض اليورينيك	urinic acid
+حمض أميني	amino acid / amino-acid
+حمض أميني ضروري	essential amino acid
+حمض أميني غير أساسي	nonessenttial amino acid
+حمض إندول الأسيتيك	indolacetic acid
+حمض إندول البوتيريك	indolebutyric acid
+حمض أورتو الفسفوريك	orthophosphoric acid
+حمض أورتو الكربونيك	ortho carbonic acid
+حمض أوكزال الأسيتيك	oxaloacetic acid
+حمض أوكزال السُكْسينيك	oxalosuccinic acid
+حمض إيميدي	imidic acid
+حمض إيميني	imino acid
+حمض بكريك	picric acid
+حمض بيروفوسفوريك	pyrophosphoric acid
+حمض بيروكبريتيك	pyrosulphiric acid
+حمض تحت الآزوتي	hyponitrous acid
+حمض تحت البرومي	hypobromous acid
+حمض تحت البرومي، حمض تحت البرموز	acid (hypobromous…)
+حمض تحت الفسفوري	hypophosphorous acid
+حمض تحت الفسفوريك	hypophosphoric acid
+حمض تحت الفوسفوري، حمض تحت الفوسفوروز	hypophosphorous acid
+حمض تحت الفوسفوريك، حمض تحت الفوسفور	hypophosphoric acid
+حمض تحت الكلوري	hypochlorous acid
+حمض تحت اليودي	hypoiodous acid
+حمض تيو الكبريتيك	thiosulfuric acid
+حمض تيوالأسيتيك	thioacetic acid
+حمض تيوالبنزويك	thiobenzoic acid
+حمض ثلاثي القاعدة، حمض ثلاثي الأساس، حمض ثلاثي الوظيفة الأساسية	tribasic acid
+حمض ثلاثي فلور الأسيتيك	trifluoroactic acid
+حمض ثنائي القاعدة	dibasic acid
+حمض ثنائي الكروميك	dichromic acid
+حمض دُبالي	humic acid
+حمض دهني	fatty acid
+حمض دُهْنِي، حمض دَسِم	fatty acid
+حمض راتيني	resin, acid
+حمض راسيمي	racemic acid
+حمض رباعي الديكانوييك	tetradecanoic acid
+حمض ريبي نووي	ribonucleic acid
+حمض ريزورسيليكي	resorcylic acid
+حمض زائف (كاذب)	pseudo acid
+حمض ساليسيليك، حمض الصفصاف	salicyclic acid
+حمض ستياريك، حمض الشمع	stearic acid
+حمض سلفون النفتالين	naphthalene sulfonic acid
+حمض سيليسيك	sillicic acid
+حمض شيفر	Schaiffer acid
+حمض ضعيف	feeble acid / weak acid
+حمض ضعيف، قاعدة ضعيفة	weak acid; weak base
+حمض عضوي	organic acid
+حمض فِنول السلفونيك	phenosulfonic acid
+حمض فِنيل الأسيتيك	phenylacetic acid
+حمض فوق أكسي الأسيتيك	peroxyacetic acid
+حمض فوق أكسي الكبريتيك	peroxysulfuric acid
+حمض فوق الأسيتيك	peracetic acid
+حمض فوق البوريك	perboric acid
+حمض فوق الكلورات	perchloric acid
+حمض فوق الكلوريك	perchloric acid
+حمض فوق المنغنيك	permanganic acid
+حمض فوق اليوديك	periodic acid
+حمض قوي	strong acid
+حمض كاذب	pseudoacid
+حمض كلور الأسيتيك	chloroacetic acid
+حمض كلور السلفونيك	chlorosulfonic acid
+حمض كلورنيتريك	chlorinitric acid
+حمض كيتو	keto acid
+حمض لاعضوي	inorganic acid
+حمض لويس	Lewis acid
+حمض مختلط	mixed acid
+حمض مدخِّن	fuming acid
+حمض مُرجِع	reductic acid
+حمض مُهدرَل	hydroxylated acid
+حمض ناري الفُسفوريك	pyrophosphoric acid
+حمض ناري الكبريتيك	pyrosulfuric acid
+حمض نباتي	vegetable acid
+حمض نتروزوالكبريتيك	nitrososulfuric acid
+حمض نووي	nucleic acid
+حمض هالوجيني	haloacide
+حمض هيدروجيني	hydracid
+حمض هيدروكسي البوتيريك	hydroxybutyric acid
+حمض هيدروكسيلي	hydroxy acid
+حمض يوديك	iodic acid
+حمضي	acidic
+حمضية	acidity
+حَمْل	convection
+حِمْلاج، حرّاقٌ لافح	blast burner
+حموض ألفا أمينو	alpha-amino acids
+حموض الفصل، حموض الاستخلاص	parting acids
+حموض أمينية لا أساسية	non-essential amino acids
+حموض أمينية مولدة للكيتون	ketogenic amino acids
+حموض ثنائية الكربوكسيل	dicarboxylic acids
+حموض شحمية غير مؤشرة	non-esterified fatty acids
+حموض صفراوية	bile acids
+حموض طبيعية	natural acids
+حموض كربوكسيلية، دهنية أليفاتية	aliphatic carboxylic acids
+حموض كيتونية	keto acidosis
+حموض متعددة الروتونات	polyprotonic acids
+حُموضة	acidity
+حموضة ألدهيدية	aldehydic acids
+حِنّاء	henna
+حنفية، محبس	cock
+حوادث المختبر	accidents (laboratory..)
+حَوّار، طباشير	chalk
+حوجلة، دورق	flask
+حوض	basin
+حوض، جُرْن	trough
+حول، محيط: سابقة	peri-
+حويضة، كُفيْت	cuvette
+حياد، تعادُل، تعادلية	neutrality
+حيادي	indifferent
+حيادي، معتدل	neutral
+حيهوائي- هوائي	aerobic-aerobiotic
+حَيَوِيّ	biotic
+حَيَوِيّ المَنْشأ	biogenic
+حَيَوِيّ: سابقة	bio-

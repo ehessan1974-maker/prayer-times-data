@@ -1,0 +1,541 @@
+تَابِع	Dependant / Subordinate / heteronym
+تأبين	oration
+تأبين جَنَائِزِيّ	funeral oration
+تَأْتَأَة	Palilalia
+تأثير أدبيّ	literary influence
+تأثيريّ	contatif
+تأثيل، اشتقـاق	etymology
+تاجي	Coronal
+تآخٍ	Adjacence
+تاريخ (مراحل)	History
+تاريخ الأحداث الأدبية	literary chronology
+تاريخ الأدب	literature history
+تاريخُ الأفكـار	history of ideas
+تاريخ التشعب اللغوي	Glottochronology
+تاريخ التّطوُّر الفرديّ	Ontogeny
+تاريخ اللُّغة	History (of Language)
+تاريخ اللُّغة الاجتماعيّ	Social History (of Language)
+تَارِيخانيّة	historicism
+تاريخيّ	Historic / historic
+تَأْسِيم	Nominalization
+تأصيل اللُّغة	Nativaisation
+تَاكْمِيم	Tagmem
+تَاكْمِيمِيَة	Tagmemics
+تأكيـد	affirmation
+تألّق الجسد	Body apotheosis
+تأليف	Combinaison / Encoding
+تأليف المعاجم	Lexicography
+تأليف، تركيب	Composition
+تأليفية	Combinatoire
+تَامٌّ	Perfect
+تأمُّل	contemplation
+تأنيف	Nasalization
+تأهُّل	qualification
+تَأْويل	Interpretation / hermeneutic / interpretation
+تأويلي	Interpretative
+تَبْئيـر	focalization
+تبادُل	Exchange
+تبادل الأدوار	Role play
+تبادُل اللّهجات	Dialect Switching
+تبادُل ثقافي	cultural exchange
+تبادُل شعري	poetic exchange
+تبادل منطقيّ	Interdiscursivity
+تباعُـد	distantiation; distancing
+تبايُن	Contrast / contrast
+تباين الإنتاج	Heterogeneity of Production
+تباين المعياريّة	Heteronormativity
+تباين النّطق	Allophone
+تبريريّ، دفاعيّ	apologetic
+تبسيط تجمُّع الأصوات السّاكنة	Consonant Cluster Simplification
+تبسيطية	optimisation
+تبشيرية	messianism
+تبعية	Dependance / Subordination
+تبليل	Logopedy
+تثاقُف	intraculturation
+تثبيت الزّخارف	Production bleueprints
+تجاري	Trade name
+تَجاوُر	Contiguity
+تجاور جُمليّ	transphraseology
+تجديد	innovation
+تجديد الحافز	remotivation
+تجربة	Experiment
+تجربةُ الحُدود	experience of limits
+تجريبيّ	Empirical / empirical / experimental
+تجريبية	empiricism
+تجريد	abstraction
+تجريدٌ من السياق	decontextualization
+تجزيئية	segmentation
+تجمعات أدبية، حلقات متداخلة للآداب	interliterary community
+تجميع	Regrouping
+تجنيس بالقلب	anagram
+تَجوال	browsing
+تجويف	Cavity
+تجويف فموي	Buccal cavity
+تحبيك، تخريف	affabulation
+تَحْجِيب	Velarization
+تَحدّد	determination
+تحدّي الهياكل	Carnival (-isation)
+تحديث، تحيين	actualization
+تحديد	Delimitation / Détermination
+تحريات لغوية	Linguistic inquiry
+تحريف	perversion
+تَحْرِيف المعنى	Alteration of meaning
+تحريف، تزييف	alteration
+تحريك	Vocalization
+تحصِيل	instance
+تحصيل التلفظ	statement instance
+تحصيل الحاصل	tautology
+تحصيل الشّرعية	legitimation attainment
+تحصيل الكلام	Instance of discourse
+تحصيلي	Factitive / Resultative
+تحفيز	motivation
+تَحقُّق	verification
+تحقيري	Pejorative
+تحقيق	Actualization / Realization
+تحقيق، تعيين	Identification
+تحليل	analysis
+تحليل إبداليّ	paradigmatic analysis
+تحليل اصطلاحي	Terminological analysis
+تحليل التّباين	Analysis of Variance (ANOVA); ANOVA
+تحليل التّكاليف والفوائد	Cost Benefit Analysis (CBA)
+تحليل الخطاب	Discourse (Analysis) / Discourse analysis
+تحليل الصّورة	photogram
+تحليل الفنيّة الدراميّة	Dramaturgical analysis
+تحليل المحادثة	Conversation Analysis (CA)
+تحليل المرموز	Cryptanalysis
+تحليل المضمون	Content Analysis
+تحليل المكوِّنات الأساسيّة	Principal Components Analysis (PCA)
+تحليل النّص الدّقيق	CDA
+تحليل النّوع الأدبيّ	Genre (Analysis)
+تحليل إلى سمات	Semic analysis
+تحليل تجمّع الأصوات السّاكنة	Cluster Analysis
+تحليل جوتمان المعياريّ	Guttman Scalogram Analysis
+تحليل دلاليّ	semantic analyse
+تحليل سيميائيّ	semiotic analyse
+تحليل نحوي	Analysis (Grammatical --)
+تحليل نفسيّ	psychoanalysis
+تحليل نفسيّ للأدب	literary psychoanalysis
+تحليل نفسيّ نِسوِيّ	feminine psychoanalysis
+تحليل نفسيّ وجوديّ	existential psychanalysis
+تحليلي	Analytic
+تحليليـة	analytic
+تَحْنِيك	Palatalization
+تحـوُّل	Transition / metamorphosis
+تحوّل السّلسلة الصّوتيّة	Chain Shift
+تحوُّل المدن الشّماليّة	Northern Cities Shift
+تحول صواتي	Phonologization
+تحوُّل صوتي	Allophonic change
+تحول مقولي	Hypostase
+تحوّل نصف الكرة الجنوبيّ	Southern Hemisphere Shift
+تَحَوُّل، إِتْبَاع	Mutation
+تحولات الحكاية، مورفولوجية الخرافة	morphology tale
+تَحَوُّلِيّ	Translative
+تحويل	Transformation / transformation
+تحويل اسميّ	Nominalization
+تحويل الصلة	Relativization
+تحويل المجهول	Passive transformation
+تحويل موقوف	Blocked transformation
+تحويلات إجبارية	Obligatory transformation
+تحويلي	Transformational / Transformationnism
+تحويليّة خِطابية	discursive transformation
+تحييد	Neutralization
+تخريف سرديّ	narrative fabulous
+تخصيص	Characterization
+تخطيط اكتساب اللُّغة	Acquisition Planning
+تخطيط حالة اللُّغة	Status Planning
+تخطيط لغوي	Linguistic planning
+تخطيط مدوّنة اللُّغة، تخطيط حالة اللُّغة	Corpus Planning, Status Planning
+تخطيط مكانة اللُّغة	Prestige Planning
+تخفٍّ، استتار	overshadowing
+تخفيض	Bemolisation
+تخليد ذكرى	eponymous
+تخيُّل	imagination
+تخيُّل ذاتي	autofiction
+تخيّليّ	Ideational
+تخيير	Disjunction
+تخييل	imagery
+تَداخُل	Interference
+تَداخل أدبيّ	interliterary
+تداخُل معرفيّ	interdisciplinarity
+تداعي الأفكار	association of ideas
+تداوليّ، برغماتي	pragmatic
+تدخّل	Interference
+تدخل سافـر	aside stage whisper
+تَدَرُّجي	Progressive
+تدريجي	Gradual
+تدريس اللغات	Teaching languages
+تدريس اللُّغة الإنجليزيّة للنّاطقين بغيرها	Teaching English to Speakers of Other Languages (TESOL)
+تدريس اللُّغة التّواصليّة	Communicative Language Teaching
+تَدْليل	significance
+تدليل خاطئ	paralogism
+تدوير	enjambment
+تدوين	Notation
+تدوينٌ تصويريّ	pictography
+تذييل	appendix
+ترابُط	linking
+تراتُبيّـة	hierarchy
+تُراث	heritage
+تراث شعبي	folklore
+تراجيديّ	tragic
+تراجيديا	tragedy
+ترادف	Synonymy
+تَراسُل أدبيّ	literary correspondence
+تَراسُلية	epistolary
+تَراكُم	accumulation
+تراكميّ	accumulative
+ترتيب الخطاب	Order of Discourse
+ترتيب الكلمات	Words order
+ترتيب حُرٌّ	Free order
+ترتيبي	Ordinal
+ترجمة	Translation
+ترجمة آلية	Automatic translation
+ترجمة حرفية	Literal translation
+ترجمة ذاتية	auto-translation
+ترجيع سماعي	Auditive retroaction
+ترخيصي	Permissive
+ترخيم المتشابه	Hapaxepy / Haplology
+تَرداد	redouble
+تردُّد	Frequency
+ترديد	Antanaclasis
+ترقٍّ	advancement
+تركيب	Syntax / syntax
+تركيب السرد السطحيّ	surface narrative syntax
+تركيب الكلام	Synthesis
+تركيب المقولة	synthesis
+تركيب ثنائي	Binary construction
+تركيب جَوْهريّ	fundamental syntax
+تركيب خِطابي	discursive syntax
+تركيب سرديّ	narrative syntax
+تركيب مَزْجِي	Agglutination
+تركيب نصيّ	textual syntax
+تَرْكيبي	Syntactic / Synthetic / combinative; combinatory
+تركيبية الصائت	Diphtongization
+تركيز أدبي	concentration litrary
+ترميز	symbolization
+ترميزيّ، استعاريّ	allegoresis
+تروخيائي (تفعيلة)	trochaic
+ترويـج	vulgarization
+تَزَامُن	Synchrony
+تَزَامُنِيّ	Synchronic
+تزامُنية	synchrony
+تزمنية	Diachrony
+تزمين، زمانية	temporariness
+تسجيل البداية والنهاية	chronotope
+تسريب	Constriction
+تسلسل التصرّف	Act Sequence
+تسلسل الفعل	Act Sequence
+تسلسل المشاهد	Scenes order
+تَسلْسل تسْجيلي	chronicle
+تسْلية	entertainment
+تسميـة	Denomination / denomination
+تَسْويفية	dilatory
+تسويق	Marketisation
+تسوية اللّهجات	Dialect Levelling
+تشاؤم	pessimism
+تَشَابُك	Crossing
+تَشابُه	Affinity / ressemblance
+تَشَابُهُ الأطراف	Epanalepse
+تشابه التّفسير أو التّأويل	Homogeneity of Interpretation
+تشارلز فيرغسون	Ferguson Charles A. (1921-98)
+تَشاكُل، تماثُل	homology; equivalence
+تشاكُليّـة	isomorphism
+تشبيه	simile
+تشجيرة	Arborescence
+تشخيص	Personification
+تَشْخيصية	personnification
+تشريفي	Honorific
+تَشْفير العمل	codwork
+تَشْفير، تَسْنين	coding
+تَشْفِيهٌ	Labialization
+تشكّل الشّخصيات	Configuration
+تََشَكُّل خِطابيّ	discursive formation
+تشكيل مَوجيّ مميّز	Formant
+تشويـش	noise
+تشويه، تزييغ	anamorphosis
+تشْييئيّة	chosiness
+تصحيح ذاتي	Auto-correction
+تَصْحِيف	Metaplasm
+تصحيف بالقلب	Contrepetrerie
+تصدير صوتي	Prothesis
+تصريحيّ	Declarative
+تصريف	Conjugation / Flection / Inflexion
+تصريف نغمي	Modulation
+تصعيد	climax
+تصفير	Assibilation
+تصميم	Design
+تصميم الجمهور	Audience Design
+تصميم الحَكم	Referee Design
+تصميم المرجع	Referee Design
+تصميم مدوّنة اللُّغة	Corpus Design
+تصميمٌ، قَصْدٌ	design
+تَصنُّع، تَكلُّف	affectation
+تصنيف	Categorization / Classification / Taxonomy / Typologiy / compilation
+تصنيف العضويّة (الأداة، التّحليل)	Membership Categorization (Device, Analysis)
+تصنيف العُمر	Age-Grading
+تَصْنِيفِي	Taxonomic
+تصنيفية، صنافة	taxonomy
+تَصَوُّر	Figuration
+تصْويب ذاتي	autoregulation
+تصويت	Phonation
+تَصْويريّ	figurative
+تَضَادٌّ	Antonymy / Oxymoron
+تَضاد، تَناقُض	antithesis
+تضعيف	Gemination / Redoubling
+تضمير	Pronominalization
+تَضْمِين	Enallage
+تضييق تجويف الفم	Spirantization
+تطابُق	Correspondency
+تطبيق	Application / Implementation
+تطبيق سيميائيّ	semiotic practice
+تطبيق كتابيّ	scriptural practice
+تطبيق، ممارسة	practice
+تطريز	Prosody
+تطهُّرية	purism
+تَطْهير	catharsis
+تَطوُّر	Evolution
+تطور اللغات	Developing language
+تطوري	Evolutive
+تَطوّرية	evolutionism
+تظاهُر	Connivance
+تعابير خاصّة بمجموعة اجتماعيّة معيّنة	Cant
+تَعارُض	isothety
+تعاقب	Commutation
+تعاقب صائتين	Hiatus
+تَعالٍ	transcendance
+تَعَالق	Correlation
+تعَامُلِي حَدّي	Sandhi
+تَعاوُن	collaboration
+تَعْبيـر	Expression / expression
+تَعْبير اصْطلاحيّ	idiom
+تعبير خاص بلغة معينة	Idiotisme
+تعبير، بيان	elocution
+تعبيري	Expressive
+تَعجُّب	Exclamation
+تعجيمي	Diacritic
+تَعداد، تعيين	enumeration
+تَعَدُّد	Plurality
+تعدد الأصوات	Polyphony / polyphony
+تعدد المعاني	Plurivalency / polysemy
+تعدد المعنى	ambiguity
+تعدُّدية	pluralism
+تعدّديّة الأصوات	Polyphony
+تعدّديّة الأنماط	Multimodal (-ity)
+تعدّديّة التّشابك	Multiplex (-ity)
+تعدديّة القراءة والكتابة	Multiliteracies
+تعدّديّة اللُّغات	Multilingual (-ism)
+تعدّديّة المعاني	Polysemy
+تعددية لغوية	Multilingualism / Plurilingualism
+تعديل	Modification
+تَعْدِيَة	Transitivity
+تعريض	Preterition
+تعريف	Definition / definition
+تَعْطِيش	Affrication
+تعقِيب، تعْليق	commentary
+تعليق	suspend
+تعليق سرديّ	narrative suspend
+تعليم اللُّغة الإنجليزيّة	ELT; English Language Teaching (ELT)
+تعليميّ	didactic
+تعميم	Generalization
+تعهّد الجوق	Choregy
+تعويض	Supply
+تَعْوِيضِي	Suppletive
+تَعْييـن	designation
+تَغْذية عكسية	feedback
+تغْريب	strangerisation
+تغليف الزّخارف	Decorative wrapping
+تَغيُّر	Change
+تغيّر الصّوت	Sound Change
+تغير جغرافي	Geographical change
+تغير صواتي	Phonological change
+تغير عشوائي	Amorphous change
+تغيير التقابل الصوتي	Rephonologization
+تغيير الزّخارف المرئي	Visible scene - change
+تغيير مشترك	Covariance
+تغيير نظام التّمثل	Transmodalization
+تَفَاعُل	Reciprocity
+تفاعُل (ال...) بين الثقافات	interculturality
+تفاعُليّ	interactive
+تَفَاعلية	interactivity
+تفَاَهُم	Intercomprehension
+تفخيم	Emphasis
+تفخيمي	Emphatic
+تَفرديّة	Individuation / individuation
+تفريع	Branching program
+تفريع مَقُولِيّ	Sub categorization
+تَفْسيـر	exegesis
+تفسير النص	text explication
+تفصيل، جُزْئية	detail
+تفضيليّ	Superlative
+تفعيل البيت	scan (a verse)
+تفعيل البيت الشعري	scansion
+تفعيلة	foot (metrical foot)
+تفعيلة ثقيلة مزدوجة	spondee
+تفكيك	Decoding / Diaeresis / deconstruction
+تفكيك السّنن	decoding
+تفكيك الكرولة	Decreolisation
+تفكيك اللُّغات الكريوليّة	Depidginisation
+تفكيك المركزيّة	decentring
+تفكيك الموقف	decomposition
+تفْويض (الكلام)	delegation (of speech)
+تَقَابُـل	Opposition / correspondance
+تقابل تناسبي	Proportional opposition
+تقابل ثنائي	Bilateral opposition
+تقابل سالب	Privative opposition
+تَقَابُل منفرد	Isolated opposition
+تقابلي	Contrastive
+تقَاَطُع	Intersection
+تقديسٌ أعْمى	fetish
+تقديم وتأخيـر	anastrophe
+تقرير الحديث	Report (Talk)
+تقريرية	Constative
+تقسيم	Decomposition
+تقسيم اصطلاحي	Term identification
+تقسيم الرّكح	Acting area segmentation
+تقسيم مَقْطِعِيّ	Syllabification
+تقسيمي	Partitive
+تقصٍّ	quet
+تقْطيع	Segmentation / cutting; decoupage
+تقطيع ثنائي	Binary cut
+تقعيسي	Cacuminal / Cerebral
+تقليد أدبيّ	literary tradition
+تقليد التّنوّع	Variety Imitation
+تقليد ساخر	parody
+تقليد شفهيّ	oral tradition
+تقليص	Reducing
+تقَنْيِع	Masking effect
+تقنية	technique
+تقنيّة المظهر المتطابق	Matched Guise
+تَقَهقر	distance
+تقويس	Bracketting / Parenthetization
+تقويم	valuation
+تقويم النطق	Orthophony
+تقييس اصطلاحي، تنميط اصطلاحي، معيرة اصطلاحية	Terminological standardization
+تقييم	critique
+تقييم اصطلاحي	Term rating
+تكافؤ	Equivalence
+تكاملي	Complementary
+تكامليّة	Complementarity / complementary
+تكثيـف	condensation
+تَكْرار	repetition
+تكرار الافتتاح	anaphora
+تكرار الجذر الصامتي	Reduplication
+تكرار الحرف	alliteration
+تكرار النهاية	epiphora
+تَكْرار قَذْف	Recursion
+تَكراريّ	reduplication; increase
+تَكْراري قَذْفي	Recursive
+تَكْراريـة	Recursiveness / iteration
+تكريري	Iterative
+تكْعيبية مُستقبلية	cubo-futurism
+تَكْويـن	genesis
+تكييف	Conditioning / adaptation
+تلاحقيـة	adjunction
+تَلاَحُم	Solidarity
+تلازم الصفات	Concomitancy
+تلازم الكلمات	Collocation
+تلاق	Convergence
+تلاوة	recitation
+تلفُّظ	Articulation / Enunciation / enunciation
+تلفظ مشترك	Co articulation
+تلميح مُوجَّه	Tip
+تليين يائي	Yodization
+تليين، تسهيل	Lenition
+تَمايُز	Pertinence
+تمثيل	Configuration / Representation / presentation
+تمثيلٌ دراميّ	dramaturgy
+تمثيل ذاتيّ	self-representation
+تمثيل مسرحيّ	theatrical representation
+تمثيلية	Reprensentativity
+تَمرْحُل	periodicity
+تمركز صَوْتي	phonocentrism
+تَمَظْهُر	Simulation
+تَمفصُل	articulation
+تمفصل مزدوج	Double -articulation
+تَميُّز	qualisign
+تمييز	Differenciation
+تَنـاصٌّ	intertextuality
+تناظُـر	Symmetry / isotopy
+تناظر - حمل على النظير	Contamination
+تَنَاظُر مقطعي	Isosyllabism
+تَنَاظُريّ	Symmetrical
+تناظريّ، تماثليّ	analogical
+تناغُـم	consonance
+تنافُـر	Incompatibility / discordance
+تنافر صوْتي	Cacophony / dissonance
+تناقُض	contradiction
+تناقل	Translativity
+تَناوُب	Alternation / Apophony
+تناوب اللغات	Code switching
+تناوُب حركي، تناوب صائتي	Ablaut
+تناوُب متعاقِب	alternative
+تناوُب، تعاقُب	alternation
+تنبئي	Predictive
+تَنْبِير	Accentuation
+تنسيق ثنائيّة اللُّغة	Co-Ordinate Bilingualism
+تنشيد	stress
+تنشيط، تحريك	animation
+تنصيص	textualization
+تنضيد	Stratification
+تنظيم ذاتي	Feed back
+تنغيم	Intonation
+تنفيس	Aspiration
+تنميق الكلام	Sales talk
+تَنَوُّع	Variation
+تَنَوُّع اجتماعي	Variation (Social)
+تنوّع الأداء	Performance Variety
+تَنَوُّع تزمنيّ	Variation (Diachronic) / Variation (Synchronic-)
+تَنَوُّع جغرافي	Variation (Geographical)
+تنويع	variation
+تهجين	crossbreeding
+تهكم	sarcasm
+تهميس	Devoicing
+تهويم، حلمية	reverie; musing
+تهيئة النّطق	Articulatory Setting
+تهييء	initiation
+تهييج	pathos
+تواتُر	recurrence
+توارد	Co occurrency
+توازٍ	parallelism
+تَـَوازُن	Equilibrium / equilibrium
+تواصُل	communication
+تواصُل بوساطة الحاسوب	C.M.O (Computer Mediated Communication)
+تواصل نامٍ من الخارج	Exogenous Communication
+تواصل، اتصال	Communication
+تواضُع	Convention
+تَوَافُق	concordance
+توافق الأصوات	assonance
+توافق الأصوات الساكنة	consonance
+توافق البنية	Isomorphism
+توافق، تلاؤم، لياقة	propriety convenience
+توافقي	Harmonic
+توجه آسيوي	asiatism
+تَوْجيه	orientation
+توحيد الحركة المزدوجة	Monophtongaison
+توحيد النغمة	Monotonisation
+تورية	pun
+توزيع	Distribution
+توزيع تكاملي	Complementary distribution
+توزيعية	Distributionalism / distributional
+توسُّط، وساطة	mediation
+توسّطية	intermediality
+تَوسُّع	extension
+توسُّع الانتشار	Expansion Diffusion
+توسيع	Extending
+توسيع صرفي	Morphological extension
+توسيع قياسي	Analogical extension
+توصيف الشّخصيات	Characterization
+توصيلية	Phatic
+تَوْضيح	illustration
+توطئة، تقديم	prologue
+توقع سرديّ	analepsis
+توليد	Génération / Neology
+توليد اقتباسي	adaptative generation
+توليد النص	text generation
+توليد آلي	automatic generation
+توليد حواريّ	mannerism
+تَوْليديّ	Generative / genetic
+تَوْليفة	pastiche
+تيار أدبيّ	literary stream
+تيار الوعي	stream of consciousness
+تِيـه	errancy; wandering
+تَيَهان، انحراف	desorientation

@@ -1,0 +1,33 @@
+j-j coupling	j-j الاقتران
+jack	مأخذ؛ مَقْبِس
+jack screw	رافعة لولبية
+jack-screw; screw-jack	مرفعة لوبية
+jacket	غِمد
+jacket; can	غلاف
+Jamin interferometer	مقياس جامان التداخلي
+Jamin refractometer	مقياس جامان التداخلي
+jamming	تشويش
+jet	نفّاث / جيت / نفّاث، نفْث، نافورة
+jet engine	محرك نفّاث
+jet gas	نفّاث غاز
+jet propulsion	دفع نفّاث / دَفْعٌ نفاث
+jet sound	صوت النفث
+JFET	جفيت
+jib crane	مرفاع ذراعي / مِرفاع ذراعي
+jog	انقطاع
+joint	وُصْلة
+Joint European Torus	مفاعل الاندماج الأوروبي المشترك
+Josephson effect	مفعول جوزفسون
+joule	جول
+Joule effect	مفعول جول
+Joule heating	تسخين بمفعول جول
+Joule law	قانون
+Joule's law	قانون جول
+Joule-Thomson coefficient	معامل
+junction	وصلة / وُصْلة
+junction (diffused...)	وصلة انتشار
+junction diode	ديود وُصلي
+junction field-effect transistor	ترانزستور مفعول الحقل الوصلي
+junction transistor	ترانزستور وصلي
+Jupiter	مشتري (ال...)
+Jurin's law	قانون جوران

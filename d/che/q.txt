@@ -1,0 +1,75 @@
+Q-electron	ألكترون Q
+Q-shell	طبقة(ال...) Q
+quadrate	رباعيّ
+quadratic	تربيعي
+quadri; quadr; quadru	رباعي
+quadrimolecular	رباعي الجزىء
+quadrivalence; quadrivalency	تكافؤية رباعية
+quadrivalent	رباعي التكافؤ
+quadruple	رباعي القطب / رباعيّ
+quadruple bond	رابطة رباعية
+quadruple point	نقطة رباعية
+quadruplet	رباعية
+quadrupole	رباعي الأقطاب
+qualitative	كيفيّ / كيفي
+qualitative analysis	تحليل كيفي
+qualitative test	اختبار كيفي، اختبار نوعي
+quality	نوعية، صفة / جودة
+quality control	مراقبة الجودة
+quanta	كوانتا، كُموم
+quantic	كوانتي، كُمومي
+quantification	تكميم، إكمام / تقديرٌ كمِّي
+quantitative	كمّي / كمِّي
+quantitative analysis	تحليل كمّي / تحليل كمِّي
+quantity	كمية / كمِّية
+quantization	تَكْمِيَة
+quantization of energy	تكمية الطاقة
+quantum	كوانتم، كم
+quantum chemistry	كيمياء كمية / كيمياء الكم، كيمياء كُمومية
+quantum mechanics	ميكانيك الكم
+quantum number	عدد كوانتي (كُمومي)
+quantum number (principle)	عدد كمي رئيسي
+quantum number (secondary)	عدد كمي ثانوي
+quantum number (spin...)	عدد كمي، لف ذاتي
+quantum numbers	أعداد الكم
+quantum shell	طبقة كمية
+quantum state	حالة كُمومية
+quantum theory	نظرية الكم
+quantum transition	انتقال كُمومي
+quantum yield	مردود كُمومي
+quark	كوارك
+quartering (of sample)	تربيع
+quartet	رباعية
+quartz	كوارتز
+quasi	شبه، ظاهريا
+quasi-classical	شبه تقليدي
+quasi-static	شبه ساكن
+quaternary	رابعي / رباعي، رابع
+quaternary ammonium salt	ملح أمونيوم رباعي
+quaternary silver	فضة رباعية
+quatum yield	ناتج كمي
+quench	إطفاء، سقي
+quench aging	تقادم بالإسقاء
+quench hardening	تقسية بالإسقاء
+quenching	إطفاء / إطفاء، إخماد، إسقاء
+quenching bath	حمّام إسقاء
+quick	سريع، نشيط
+quick lime	كلس حيّ، جير حيّ / كلس (جير) حي
+quick silver	فضة سريعة
+quiescent	هامد
+quinaldine	كينالدين
+quinary	خماسي
+quinhydrone	كينهيدرون
+quinhydrone electrode	مسرى الكينهيدرون
+quinhydrone electrode (half-cell)	ألكترود، مسرى خماسي الهيدرون
+quinine	كينين
+quinizarin	كينيزارين
+quinoline	كينولين
+quinolinic acid	حمض الكينولينيك
+quinone	كينون
+quinquivalent	خماسي التكافؤ
+quinta-valent	خماسي التكافؤ
+quintessence	خلاصة، جوهر
+quintuple point	نقطة خماسية
+quotation	اقتباس
+quotient	حاصل القسمة، خارج القسمة، ناتج

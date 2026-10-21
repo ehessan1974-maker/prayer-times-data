@@ -1,0 +1,2374 @@
+g	تسارع الجاذبية الأرضية / وحدة تسارع
+G-235	صُلب مطلي بالزنك 'G-235'
+g-break	انحراف تسارعي
+g-force	قوة العَطالة / قوة القُصور الذاتي
+G-lader	مضغاط G
+G-layer	طبقة ـ ج
+G-nav	ملاحة بيانية / ملاحة تخطيطية / ملاحة مباشرة
+g-suit	بذلة تسارع
+g-tolerance	إطاقة التسارع / احتمال التسارع
+G-value	قيمة G / مستوى نفاذية الطاقة
+G20 (Group of Twenty)	مجموعة العشرين (G20)
+G8 (Group of Eight)	مجموعة الثماني (G8)
+GaAs	زرنيخيد الغاليوم / زرنيخيد الجاليوم (GaAS)
+gabardine	قماش جبردين
+gabardine / gaberdine	معطف الخندق
+gabardine weave	قماش جبردين
+gabarit	الحد الاقصى المسموح به لإشارة التداخل
+gabbro	جابرو / غابرو
+gabion	دعامة / حشية حجرية / قفة تراب؛ كِيسُ حِجَارَة / أقفاص استنادية
+gabion cylinder; bolster	صناديق حماية
+gabion groyne	رأس من رُكام الأحجار
+gabion spur; gabion groyne	مسند
+gabion wall	مُنشأ حشايا أحجار
+gable roof	سقف مسنّم
+gadget	رادار شفري
+gadolinite	غادولينايت
+gadroon	حِلْية مستديرة، زخرف مفصّص
+gadrooned capital (of column)	تاج مفصّص
+gagarinite	غاغارينايت
+gage; scale	مقياس
+gahnite	غانايت
+gain	كسب / كســب / تضخيم / ربْح / كسْب / كَسْبٌ
+gain / increase	زِيادة
+gain crossover angular frequency	التردد الزاوى لمعامل كسب يساوى الواحد
+gain crossover frequency	تردد انتقالي
+gain crossover frequency in Bode diagram/plot	تردد (ال...) الانتقالي في الرسم البياني لبود
+gain degradation; antenna to medium coupling loss	تدهور الكسب
+gain limited sensitivity; maximum sensitivity	حساسية محدودة للكسب
+Gain margin	إحتياطيّ السعة / هامش الكسب؛ قيمة الفرق بين إستجابة الكسب للدائرة المفتوحة والتردد
+gain of a measuring instrument	توهين
+gain output ratio	قياس أداء المبخر
+gain relative to a half-wave dipole	كسب منسوب لثنائي أقطاب نصف موجة
+gain relative to a short vertical antenna	كسب منسوب لهوائي رأسي قصير
+gain response; amplitude quotient response; amplitude response	استجابة كسب
+gain ripple	تموجات الكسب
+gaining stream	مجرى منبثق
+gaining; notching = grooving	تخديد، تحزيز
+gains of exchange	مكاسب تبادل
+gaiter	جرموق
+gaiter seal for fixed	مانع تسرّب مُنفاخي للوصلة الثابتة
+gaiter seal for high- speed joint	مانع تسرّب مُنفاخي للوصلة سريعة الدوران
+gaiter seal for plunging joint	مانع تسرّب مُنفاخي للوصلة الانزلاقية
+Gal, gal	جال
+galaxite	غالاكسايت
+galaxy	مجرة
+galena	جالينا / كبريتيد الرصاص / غالينا
+gall-midget	حَوَّام العَفْصَة
+gallery	مجمِّع / مجرى الموائع / مَشعَب وقود / رواق
+galley	مطبخ الطائرة / صينيّة
+galley fuel	وقود مطابخ السفن
+galley proof	تجربة لوحيّة
+galliformes	دجاجيات
+galling	تآكل، تفتُّت
+galling; warting	تنقُّر
+gallon (Imperial…)	غالون بريطانيّ
+gallon (U.S.)	غالون أمريكيّ
+Gallon Per Day (GPD)	جالون يوميًا
+Gallon Per Hour (GPH)	جالون في الساعة
+Gallon Per Minute (GPM)	جالون في الدقيقة
+gallon per minute, (G.P.M.)	غالون في الدقيقة
+Gallons (GAL)	جالون
+gallons of gasoline per 1000 of natural gas procuded, (G.M.P.)	غالون بنزين في كل 1000 قدم مكعبة في الغاز الطبيعي المنتَج
+gallooned fur processing	فرو مَضْفُور
+gallow bracket	مرتكز كتفيّ
+galoshes	حذاء غالوش
+galvanic	مُغَلْفَن
+galvanic cell	خلية جلفانية
+galvanic corrosion	تآكل غلفانيّ / تحاتّ جلفاني / التآكل الجلفاني / تآكل جلفاني
+galvanic decoupling	فك التقارن الجلفاني
+galvanic element	خلية جلفانية، عنصر جلفاني
+galvanic isolation	عزل كهربائى / عزل جلفاني
+galvanic isolation; galvanic separation	عزل جلفاني
+Galvanic protection	حماية غلفانية من التآكل
+galvanic separation	فصل غلفاني
+galvanic skin response	مقاومة الجلد للكهرباء
+galvanising and electrotyping equipment	معدّات الروسمة والترسيب الطباعي الكهربائي
+galvanism	الطلاء بالمعادن
+galvanization	كَلْفَنَة (جلفنة)
+galvanize	غَلْفَنَ
+galvanized iron	حديد مغلف
+Galvanized pipe	أنبوب مُغَلْفَن / أنبوب مغلفن
+galvanized steel	صُلب مطلي بالزنك
+galvanizing	جلفنة / طلاء بالزنك / غَلْفَنَة
+galvannealed sheets	لوح مُجلفن
+galvanometer	مقياس جلفانو (للتيارات الصغيرة) / مقياس جلفاني / مقياس غلفاني
+galvanoplasty	تلبيس بالكهرباء
+gambrel roof	سقف محدّر
+game reserves	مناطق محجوزة لحيوانات الصيد
+gaming orcard table	طاولة اللعب
+gamma	اشعة جاما / أشعة غاما / نسبة التباين الضوئي / نسبة التضاؤل / نسبة الحرارتين النوعيتين / نسبة الكبت
+gamma compensation characteristic	خاصية تعويض غاما
+gamma correction; contrast ratio correction	تصحيح جاما
+gamma iron	حديد غاما
+gamma radiation	إشعاع جاما
+gamma radiation; gamma rays	إشعاع جاما
+gamma ray	أشعة غاما
+gamma ray log	مخطَّط (سجل) أشعة غاما / رصد آشعة جاما
+gamma ray survey	فحْص أشعة غاما، مسْح أشعة غاما
+gamma rays	أشعة جاما
+Gamsbart	شوشة
+gandoura	قندورة
+gang boarding	معبر مدرج
+gang drill	مثقاب جماعي
+gang planing	سحج متسلسل
+gang saw	منشار متعدد النصال
+gangue	غث
+gangue minerals	شوائب معدنية / فلزات الشوائب المعدنية
+Gangway	ممشى / ممر
+gangway bellows	منفاخ ممر مرتفع
+gangway; passageway	ممر
+gantry	جائز الرافعة / مسند الرافعة
+gantry crane	مرفاع قنطري متحرك
+gantry-style signal tower	برج إشارة قَنْطَرِي
+gap	فجوة
+gap (in photo cover)	فجوة
+gap coding	شفرة فَجْوية
+gap depth	عمق الفجوة
+gap energy	طاقة ثغرة
+gap grading	مُستَدَلّ اللُّدُونَة / تدرُّج حبيبي متباعد
+gap inductor; folded pancake inductor	محث (عضو حث) ذو ثغرة، (مفاعل حث حلزوني في مستوى مطوي)
+gap length	طول فجوة / طول الثغرة
+gap loss	فقد الفجوة
+gap width	عرض الفجوة
+gap,	ثغرة, وصلة ضد اللهب
+gap-filler	سادّ الثغرات
+gap-squaring shears	مقص الشقوق الطويلة
+gape-worm	دودة حمراء
+gapless ice guard	واقي جليد لافَجوي
+gapped ice guard	واقي جليد فَجوي
+garage	مرآب / مَرْأَب
+garage door	باب مرآب
+Garantiecord / corduroy quality mark	ضمان الجودة كورد
+garbage	نُفَاية / قمامة / نُفاية / قُمَامَة منزلية، نُفَايات منزلية
+Garbage disposal unit	فَرّامة نفايات الطعام
+Garbage grinder	مِطْحَنة قُمامة / طاحونة قمامة
+garbled edition	طبعة مبتورة
+garbling	تحريف / بتر
+garboard strake	صفيفة الصالب
+Garconne style	موضة الفتاة
+garde style	لباس الحراسة
+garden seat	دكّة الحديقة
+garden waste	نفايات الحدائق
+garden-wall bonds	آصرة حائط حديقة
+garderobe	خزانة الثياب
+garment	ملابس
+garment assembly; assembly of garments	تجميعة الملابس
+garment washed	غَسْل الملابس الجاهزة داخل المصنع
+garnet	عقيق أحمر / غارنيت
+garnet paper	ورق زجاج
+garnetted Cotton	مُنَسل
+garnetted fibers / shredded fibers	بقايا الألياف
+garnetted hemp	قنب مجرود
+garnierite	غارنيرايت
+garnish nail	مسمار مشطوب الرأس
+garret	سقيفة، حجرة علوية، سدّة
+garrigue	مجال عشبي شجري
+garter belt	حمّالة الجورب / حزام تثبيت الشراب
+gas	غاز
+gas (natural gas)	غاز (غاز طبيعي)
+gas absorption	إمتصاص الغاز
+Gas Al Ahmadi (KOTC gas carrier)	ناقلة غاز الأحمدي
+Gas Al Burgan (KOTC gas carrier)	ناقلة غاز البرقان
+Gas Al Gurain (KOTC gas carrier)	ناقلة غاز القرين
+Gas Al Minagish (KOTC gas carrier)	ناقلة غاز المناقيش
+Gas Al Mutlaa (KOTC gas carrier)	ناقلة غاز المطلاع
+gas analysis	تحليل الغاز
+gas analyzer	جهاز تحليل الغاز
+gas bag	حقيبة الغاز / خلية الغاز / كيس الغاز
+Gas barrier	حاجز غاز
+gas bearing	مسند غازي / مَحْمِل غازي
+gas black	سِناج الغاز، أسود الغاز
+gas blanketing	حجب الغازات
+gas bleedoff	فصد الغاز
+gas booster station	محطة تعزيز الغاز
+gas bottle	اسطوانة غاز
+gas bubble; gas bell	وِعاء ناقوسيّ للغاز
+gas business year	سنة معاملات للغاز
+gas calibration cell,	خلية معايرة الغاز, الكشف عن الغاز
+gas cap	غطاء غازي / قلنسوة غازية / قُبَّعة الغاز، قبعة غازية
+gas cap drive	دفْع بتمدّد غاز الْمَكْمَن، تصريف بتمدّد الغاز الحر
+Gas Cap Field	حقل بقلنسوة غازية / مَكْمَن ذو قُبَّعَة غازية، حقل ذو قبعة غازية (مكمن يعلوه غاز طليق)
+gas chamber	غرفة الغار
+gas chlorination	كَلْورة بالغاز
+gas chromatograph	فصل كروماتوجرافيا الغاز
+gas chromatography–mass spectrometry (GC-MS)	كروماتوغرافيا الغاز-مطياف الكتلة
+gas circulator	مُدوّر عاز
+gas clean-up	تنظيف الغاز
+gas cleaning	تنقية الغاز
+gas combustion; turbo-generator	مُوَلِّد عَنَفِي باحتراق الغاز
+gas compressor	ضغَّاط الغاز
+gas concrete	خرسانة غازية، خرسانة رغوية
+gas condensate	كثافة الغاز / مكثفات الغاز
+Gas condensing boiler	مراجل تكثيف يعمل بالغاز
+gas conduction; gas discharge (deprecated in this sense)	توصيل غازى
+Gas Coning	تكوّن مخروط غازي داخل المكمن / تَكَوُّن مخروط غازي في داخل الْمَكْمَن
+gas console	حامل غاز
+gas constant	ثابت الغاز
+Gas consumption	استهلاك الغاز
+gas content (of an insulating liquid)	محتوى الغاز قي سائل عازل
+gas content of a fluid	محتوى الغاز في مائع
+gas cooker	مطبخة غاز
+gas current	تيارالغاز
+Gas Cut (GC)	مخفف بالغاز
+gas cut mud	طين مُخَفَّف بالغاز
+Gas Cut Mud (GCM)	طين مخفف بالغاز
+Gas Cylinder	أسطوانة غاز / إسطوانة غاز
+Gas Dehydrator	مجفف الغاز
+gas detector	مِكشاف الغاز / جِهاز إنذار تسرُّب الغاز / جهاز الكشف عن وجود الغاز
+gas diffusion electrode	إلكترود لإنتشار الغاز
+Gas Diffusion Layer (GDI)	طبقة انتشار الغاز
+gas diffusion layer; GDL; porous transport layer; PTL	طبقة إنتشار الغاز؛ طبقة إنتقال المسامية
+gas discharge	تفريغ الغاز / تفريغ غازي
+gas discharge lamp	مصباح التفريغ الغازي / مصباح تفريغ غازيّ / مصباح تفريغ (كهربائي) للغاز
+gas drilling	حفْر بالغاز
+Gas Drilling (Air Drilling)	إزالة نواتج الحفر بالغاز المضغوط
+Gas Drive	دفع بالغاز
+gas dynamics	ديناميكا الغازات / علم تحريك الغازات
+Gas Emissions	انبعاثات الغاز
+gas engine	مُحِّرك غازيّ / مُحرِّك غازي / مُحرك غازي
+gas evolving switch	مفتاح بإنبعاث الغاز
+gas exchange	التبدّل الغازي / تبدّل الشحنة
+gas expansion process	عملية تمدُّد الغاز
+gas expansion refrigeration system	نظام تبريد بالتمدد الغازي
+gas exploder	مُفجِّر الغاز (لتوليد موجات زلزالية في البحر)
+gas exporting countries forum	منتدى الدول المصدرة للغاز
+gas field	حَقْل غاز / حقل غاز
+Gas Filling Plant	مصنع تعبئة الغاز
+gas film	غشاء غازي
+gas formation (by insulating liquid)	تكوّن الغاز
+gas free test	اختبار الغاز الحر
+gas from renewable energy sources	غاز من مصادر الطاقة المتجددة
+gas generator	مُولِّد الغاز / مولد الغاز
+gas generator (airbag)	مُولّد الغاز (الوسادة الهوائية)
+gas generator; gas producer	مولِّد الغاز
+gas heating	تسخين بالغاز / تدفئة بالغاز
+gas hood	قبة تجميع الغاز / غطاء الغاز
+gas hood / gas collecting dome	قِناع واق للرأس من الغاز الحيويّ
+gas hydrate	هيدرات الغاز
+gas hydrates	هدرات الغاز، غازات مُمَيَّهَة
+gas in place	اجمالى حجم الغاز
+Gas Injection	حقن الغاز / حَقْن الغاز
+Gas Injection Well	بئر حقن الغاز / بئر حقْن الغاز
+gas insulated line; gas insulated circuit (deprecated); GIC (deprecated)	خط معزول بالغاز
+gas insulated metal-enclosed substation	محطة محولات معزولة بالغاز
+gas jet	فوهة غاز
+gas laser	ليزر غازي
+gas laws	قوانين الغازات
+gas leakage	تسرب غاز
+gas liberation	انطلاق الغاز، تحرُّر الغاز
+Gas Lift	رفع بالغاز / مصعد (ال...) الغازي
+Gas Lift Mandrels (GLM)	مضخة رفع الغاز
+gas lift valve	صِمام المصعد الغازي
+gas liquefaction	إسالة الغاز
+gas Liquefaction process	عملية تسييل الغاز
+Gas load	الاستهلاك الإجمالي للغاز
+gas lock; vapor lock	سِدادة غازية
+gas main	أنبوب الغاز الرئيس
+gas mains stoppers	صنابير (محابس) أنابيب الغاز الرئيسية
+gas measurement equipment	جِهاز قياس الغاز
+Gas Measurement System (GMS)	نظام قياس الغاز (GMS)
+gas migration	انتقال وتسرب الغاز
+gas misalignment	اختلاف محاذاة الغاز
+gas multiplication	تضاعف الغاز / تضاعف غازى
+gas multiplication factor	معامل تضاعف الغاز
+Gas Network	شبكة الغاز / شبكة غاز
+gas network access ordinance (GasNZV)	مرسوم الوصول إلى شبكة الغاز (GasNZV)
+Gas network capacity	قدرة شبكة الغاز
+gas network charge ordinance (GasNEV	مرسوم رسوم شبكة الغاز (GasNEV)
+gas nozzle	فونيه غاز
+gas oil	زيت الغاز / سولار
+gas oil level	مستوى زيت الغاز
+Gas Oil Ratio	معدل غاز/نفط
+gas oil ratio, (G.O.R.)	نسبة الغاز في النفط
+gas oil separator plant, (G.O.S.P.)	معمل فصل زيت الغاز
+Gas Permeability	نفاذية الغاز
+gas pipe	أنبوب غاز
+Gas Plant	معمل غاز
+Gas Power Plants	محطات توليد الطاقة بالغاز
+Gas Pressure	ضغط الغاز في الخلية
+gas pressure control loop	دائرة ضبط ضغط الغاز
+gas pressurization	نزح بالغاز المضغوط
+Gas Production	إنتاج الغاز
+gas purge	طرد الغاز
+gas purification	تنقية الغازات
+gas radiator	مشعّ عازي
+Gas Recombination on Negative Electrode	إعادة تركيب الغاز على القطب السالب
+gas recovery system	نظام استرداد الغاز
+gas release (by insulating liquid)	اطلاق الغاز
+Gas Reservoir & Wells	مكمن الغاز وآباره
+gas ring	حلقة الغاز
+gas rudder	دفة الغاز
+gas saturation pressure	ضغط الإشباع بالغاز
+gas scrubber	غاسل الغاز، مُغَرْغِر غازي
+gas scrubber (unit: removes impurities before reaching power stations)	وحدة تطهير الغاز من الشوائب
+gas seal	مانع تسرب الغاز
+gas seal,	مانع تسرب الغاز,
+Gas Separator	جهاز فصل الغاز
+gas starter	بادئ حركة بالغاز
+Gas Station	محطة الوقود
+Gas Station - Filling Station (Fuel Station)	محطة بيع وتعبئة الوقود
+gas supply system	نِظام الإمداد بالغاز
+Gas Tank	خزان الغاز
+Gas Tank with Gas Type Indication (H2) Symbol	رمز خزان الغاز مع مؤشر النوع
+gas tanker	ناقلة الغاز المسال
+gas thermometer	مقياس درجة حرارة الغاز
+Gas to Liquids (GTL)	إسالة الغاز
+gas transfer station	محطة نقل الغاز
+Gas Transmission System	شبكة نقل الغاز
+gas transmission system network	شبكة أنابيب نقل الغاز
+Gas Transporters (GTs)	شركات نقل الغاز (GTs)
+gas triode	صمام ثلاثي غازي
+gas trunk	جذع الغاز
+gas tube	صمام غازي
+gas turbine	محرك توربيني / عنفة غازية / توربين غازي / محرك مروحي غازي / عَنَفَة غازية / توربينات الغاز
+Gas turbine and heat recovery steam generator (GTHRSG) unit	وحدة عنفة غازية ومولّد بخار يعمل باسترجاع الحرارة (GTHRSG)
+gas turbine catalytic combustion technology	تكنولوجيا الاحتراق الحفزي في العنفة الغازية
+gas turbine engine	محرك التربين الغازي
+gas turbine power plant	محطة توليد الطاقة بعنفة غازية
+gas turbine set	مجموعة التربينة الغازية؛ عنفة غازية
+gas utilisation	انتفاع بالغاز
+gas vane	ريشة توجيه الغاز
+gas vehicle	عربة تشتغل بالغاز
+gas volume	حجم الغاز
+gas welding	لِحام بالغاز / لحْم بالغاز
+Gas Well	بئر غاز
+Gas Well Plunger	كباس لمضخات آبار الغاز
+Gas Well Tubing	أنابيب آبار الغاز
+gas works tar	قطران مصانع الغاز، قطران الغاز
+gas yield	ناتِج غازيّ
+gas- or vapour-proof machine	آلة محمية من دخول الغاز أو البخار
+gas-absorbing (insulating) liquid	سائل ممتص للغازات
+gas-air ratio	نسبة الغاز في الهواء
+gas-bag alarm	إنذار كيس الغاز
+gas-bag net	شبكة كيس الغاز
+gas-bag wiring	أسلاك كيس الغاز
+gas-blast circuit-breaker	قاطع دارة باندفاع الغاز / قاطع دائرة يعمل باندفاع الغاز
+gas-evolving (insulating) liquid	سائل باعث للغازات
+gas-filled lamp; gas-filled incandescent lamp	مصباح مملوء بالغاز؛ مصباح مملوء بغاز متوهج
+gas-filled phototube	صمام ضوئي مملوء بالغاز
+gas-filled shock absorber	مُمتص صدمات عامل بضغط الغاز
+gas-filled tube	إنبوب مملوء غاز / انبوب غازي
+gas-flow counter tube	صمام عداد تدفقِ غازِ
+gas-insulated metal-enclosed switchgear	معدات وصل وفصل وتحكم فى حاوية معزولة بالغاز
+gas-insulated tubular conductor	أنبوب الموصلات المعزولة بالغاز
+gas-jet	ثفثة غاز
+gas-oil level	مستوى تماس الغاز و الزيت (في المكمن)
+Gas-Oil Ratio	نسبة الغاز إلى الزيت
+gas-oil separator plant ,(G.O.S.P.)	مَعْمَل فصل زيت الغاز (الغازويل)، مَعْمَل فصل الغاز من النفط
+gas-operated	مُشَغَّل بالغاز
+gas-pressure cable	كبل بغاز مضغوط
+Gas-quality monitoring equipment	جهاز مُراقبة جودة الغاز
+gas-sample counter tube	صمام عداد عيّنةِ غازِ
+gas-to-liquid (gtl)	غاز إلى سوائل
+Gas-to-Liquids	تحويل الغاز إلى سوائل (GtL)
+gas-turbine	عَنَفَةٌ غازية
+gas/oil ratio	نسبة الغاز في النفط
+gas; electric rooftop packaged unit	وحدة تكييف مدمجة فوق سطح السقف (غاز/كهرباء)
+Gasco	غازكو
+gaseous	غازِيّ
+gaseous effluents	نفايات غازية
+gaseous electronics	علم الإلكترونات الغازية
+gaseous emission	انبعاث غازيّ
+gaseous fuel	وقود غازي
+gaseous fuel boiler	مرجل (غلاية) بوقود غازي
+gaseous polluants	ملوِّثات غازية
+gaseous pollution	تلوث غازي
+gaseous rocket	صاروخ غازي
+gases	غازات
+Gases Under Pressure Symbol	رمز الغازات تحت الضغط
+Gasholder	خزّان الغاز
+gasification	تغويز
+gasification of wood	تغويز الخشب
+gasifier	مُنتِج الغاز / مُولد غاز
+gasket	حَشِيّة / لبوس
+gasket / package / packing	حَشِية
+gasket / seal	مانِع تسرُّب مُسطح
+gasket cement	أسمنت للوصلات، أسمنت وصلات
+gasket cutter	قاطعة (قطّاع) الحَشَوَات
+Gasket Formation	تشكيل الجوان
+gasket joint	وُصْلة ذات مَسِيكَة
+gasket type pressure sensor (GPS)	حساس ضغط الاحتراق (GPS)
+gasket; seal	طَوْق مانِع
+gasohol	خليط البنزين / ميثانول
+Gasoil	زيت غاز / زيت الغاز
+gasoil processing unit	وحدة معالجة زيت الغاز
+gasoline	بنزين / غازولين / جازولين / غازولين، بنزين
+gasoline (or petrol) engine	محرك بنزين
+gasoline engine	محرك بنزين
+gasoline indicator paste	مَعْجُون الكشف عن البنزين
+gasoline leading and dyeing unit	وحدة معالجة البنزين بالرصاص وتلوينه
+Gasoline Plant	وحدة استخلاص الجازولين من الغاز الطبيعي بالضغط / وحدة استخلاص البنزين (من الغاز الطبيعي)
+Gasoline Treatment	معالجة الجازولين
+gasoline vapor emission control system (EECS)	نظام التحكم في انبعاث أبخرة وقود البنزين (EECS)
+gasper system	نظام هواء اللاهث
+gasser	بئر غاز
+gassing	تعبئة بالغاز / نشر الغاز
+gassing (under electric stress)	التحول الى غاز (تحت الضغط الكهربائي)
+gassing and cooking the battery	تغوّز وغليان البطارية
+gassing factor	مُعامِل التعبئة بالغاز
+gassing of a cell	تصاعد الغاز لخلية
+gastropod	بطني الأقدام
+gate	بوابة / بوّابة / حاجز ميكانيكي / حد الإنطلاق / صمّام / نِسَب بدء الاحتراق
+gate (of a field-effect transistor)	بوابة (لترانزستورمحكوم بالمجال الكهربائي)
+gate / seal	سدادة
+gate array	مصفوفة بوابة
+gate chamber of sluice well	حجرة الصمامات الخاصة بأنبوب التصريف
+Gate Commutated Thyristor	ثايرستور ببوابة تحكم لتوصيل أو غلق التيار (GCT)
+gate fee	رسوم البوابة
+gate galleries	دهاليز ذات بوابات
+gate guardian	حارسة البوّابة
+gate hanger	مِشجَب بوابات
+gate hook	خطاف بوابة
+gate non-trigger current	تيارعدم قدح البوابة
+gate non-trigger voltage	جهد عدم قدح البوابة
+gate pier	دعامة بوابة
+gate post	قائم بوابة، قائمة الباب
+gate seal	قلفطة البوابة
+gate shaft	بئر الصمامات
+gate trigger current	تيار قدح البوابة
+gate trigger voltage	جهد قدح البوابة
+Gate Turn off Thyristor	ثايراستور ببوابة قطع التيار الكهربائي (GTO)
+Gate Turn-Off (GTO)	محرِّك البوابة القابل للإيقاف
+gate valve	صِمام بوّابة / صِمام الملء / صمّام بوّابي / صِمام بوابة / صِمام بَوَّابي / صمام إغلاق / صمام إيقاف/قطع
+gate valve; slide valve	صمام بوابي
+gate with tension gate arms, radial	بوابة نصف قطرية ذات أذرع شد
+gate, hinged	بوابة مَفْصِلية
+gate, hinged-leaf	سدادة مفصلية
+gate, movable-hinged	بوابة متحركة المفاصل
+gate, two-piece	بوابة هَدَّار من جزأين
+gated electromagnetic pulse	نبضة كهرمغناطيسية محجوزة
+gated RQ	دورة طلب (RQ) مبوبة
+gatehouse	بيت الحارس عند مدخل
+gatehouse/scale house	بوابة الحراسة/ محطة قياس
+gates, fixed hinged	بوابة ثابتة المفاصل
+gateway	منفذ (Gateway) / بوّابة / بوابة
+Gateway in Vehicle Network	بوابة شبكة السيارة
+gateway module (GTWY)	موديول المنفذ (GTWY)
+gateway,	وصلة بين القضبان المختلفة,
+gateway; vent	منفذ
+gather (to)	جمّع الملازم
+gathered elastic belt	حزام المعطف
+gathered parasheet	مظلّة مجمَّعة
+gathered shoulder	كتفية رومانية
+gathering	كشكشة / اجتذاب القذيفة
+gathering and wire stitching machine	ماكينة تجميع وخزم الملازم
+gathering centre	مركز تجميع
+gathering lines	خطوط التجميع
+Gathering pipelines	أنابيب التجميع
+gathering system	شبكة تجميع
+gating	تمرير (عبر بوابة) / إمرار انتقائي / حجز ميكانيكي / ضبط انبعاث الليزر
+Gatorizing	تشكيل الأرياش النيكلية
+Gatsby look	طراز كاتس باي
+GATT / General Agreement of Tariffs and Trade	الاتفاقية العامة للتعرفة الجمركية والتجارة
+gaucho	غاوتشو
+gaucho trousers	سروال غاوتشو
+gaufré	جوفريه
+gauge	محدد قياس / مقياس / قياس / مُحدِّد قياس / معيار، مقياس / مسبار
+gauge board; gauging board	لوحة جَبْل المَعَاجِين، لوحة خلْط المَعَاجِين
+gauge datum	منسوب الإسناد
+gauge factor	مُعامل k
+gauge factor (GF)	عامل القياس
+gauge hatch	فتحة القياس، مأطورة العيار
+gauge indicator	مُؤَشِّر قياس
+gauge line	خَطّ مِقياس المناسيب / خط القياس
+gauge line pillar	أعمدة خطوط مقياس المناسيب
+gauge pressure	ضغط مقيس
+gauge tank	خَزَّان مقياس السعة
+Gauge Ticket	بطاقة القياس
+gauge well / stilling well / float well / recorder well	بئر المناسيب
+gauge, mean monthly	مقِياس مناسيب شهريّ وسطيّ
+gauge; manometer; pressure manometer	مقياس ضغط
+gauged arch	عقذ قياسي
+gauged fuel	وقود مقيس / وقود مُعايَر
+gauged mortar	ملاط قياسي
+gauged plaster	جبس قياسي
+gauger	قِياس، عِيار
+gauging	تعيير / مقايسة، معايرة
+Gauging (of track)	معايرة السكة
+gauging / measurement / dimension / measuring	قِياس
+gauging board	لوحة خلط الخرسانة
+gauging cock	صُنْبُور معايرة
+gauging plaster	بياض مصيّص، جصّ مصّيص
+gauging site	محطة قياس
+gauging station / measuring site	موضع قياس
+Gauging Tape	شريط القياس
+gauging; measuring; survey	قِياس الأراضي
+gauntlet track; interlaced track; gantlet track	مسار متداخل
+gauss	جاوس / غاوس
+Gauss curve	مُنْحَنَى غاوس (للتوزّع الإحصائي)
+gausse law	قانون غاوس
+gaussian beam	حزمة اشعة غاوس
+Gaussian distribution; normal distribution	توزيع طبيعي
+gaussian noise	ضوضاء متعلقة بالجاوس (وحدة قياس)
+Gaussian pulse	نبضه غاوس
+gautry	جسر الرافعة / حامل قِنطَري
+gauze	شبيكة / ضماد
+gauze fabric / cloth	نسيج مبروم السداء
+Gavroche kerchief	منديل غافروش
+Gay-Lussac law	قانون جاي لوساك
+gazelle hide / gazelle pelt	فرو الغزال
+gazometric installation	منشأة تخزين الغاز
+GB/T Charging Plug	مقبس الشحن الصيني
+GCC Standardization Organization (GSO)	هيئة التقييس لدول مجلس التعاون لدول الخليج العربية
+GCOS Surface Network	شبكة الرصد السطحي التابعة للنظام العالمي لمراقبة المُناخ
+GCOS Upper Air Network	شبكة رصد الهواء العلوي التابعة للنظام العالمي لرصد المُناخ
+GE (television) projector (trade mark)	عارض اسقاط (تلفاز)جي إي (علامة تجارية)
+gear	تُرس / مسنن / ترس مسنن / ترس
+gear assembly	مجموعة تُرُوس التعشيق، مجموعة المسنَّنَات
+gear box	صندوق التروس
+gear box oil	زيت علبة السرعة
+gear case	علبة التروس
+gear centre distance	مسافة بين مراكز التروس
+gear characteristics	منحنيات أداء صندوق التروس
+gear drive	آلية (ميكانيزم) الإدارة الترسيّة في المحرك / إدارة بالمسننات
+gear driven parallel converter	مدار بالمسننات إلى متوازي
+gear head	جِهاز تَعْشِيق التُّرُوس
+gear of ships	عدة السفينة
+gear oil	زيت التُّرُوس، زيت التعشيق
+gear position sensor	مستشعر ضبط تعشيق صندوق التروس
+gear puller	نَازِعة العَجَلَة، نازعة الدولاب، أداة سَحْب التُّرُوس
+gear pump	المضخة الترسية / مِضخّة ذات مسننات / مضخة تُرسية
+gear pump (common rail)	مضخة ترسية (نظام المساق المشترك)
+gear pump; gear-type pump	مضخة ذات مسننات
+gear ratio	نسبة النقل / نسب نقل صندوق التروس / نسبة تعشيق المسننات، نسبة (ال...) التُّرسية / نسبة المسننات / نسبة سرعة التُروس / نسبة التروس
+gear; harness	عُدّة
+gear; system	جهاز
+gearbox	صندوق تروس (للسرعة) / صندوق مسننات / علبة تُروس / صندوق تروس
+gearbox unit	وحدة صندوق التروس
+geared engine	محرك معشَّق
+geared fan	مروحة معشَّقة
+geared motor	مُحرِّك مُعَشَّق
+geared propeller	داسر معشَّق
+geared supercharger	شحّان معشَّق
+geared tab	سُطيح معشَّق
+geared turbo fan	مروحة تربينية مجهزة
+geared turbofan	مروحة تربينية مجهزة
+gearless drive; direct drive	نقل حركة بدون تروس
+gearshift	ذراع نقل السرعة
+gedrite	جيدرايت
+Gee	مُعيِّن موضع جي
+Gee-H	مُعيِّن موضع جي ـ إتش
+gef (global environment facility)	مرفق البيئة العالمية (GEF)
+gef agency	وكالة مرفق البيئة العالمية
+gef partner agencies	وكالات شريكة لمرفق البيئة العالمية
+gef project agency	وكالة مشروع مرفق البيئة العالمية
+gef resources	موارد مرفق البيئة العالمية
+gef, accreditation panel	مرفق البيئة العالمية، فريق الاعتماد
+gef, accreditation panel review	مرفق البيئة العالمية، مراجعة فريق الاعتماد
+gef, applicant	مرفق البيئة العالمية، مقدم الطلب
+gef, bilateral development agency	مرفق البيئة العالمية، وكالة التنمية الثنائية
+gef, operational focal point support letter	مرفق البيئة العالمية، نقطة الاتصال التشغيلية، رسالة دعم
+gef, project concept summary	مرفق البيئة العالمية، فكرة المشروع، ملخص
+gef, stage 1 application	مرفق البيئة العالمية، تطبيق المرحلة 1
+gef, stage 2 application	مرفق البيئة العالمية، تطبيق مرحلة 2
+gef, value-added review	مرفق البيئة العالمية، مراجعة القيمة المضافة
+gegenschein	لمعان مقابل
+gehlenite	غيلانايت
+Geiger counter	عدّاد جيجر / عدّاد غايغر
+Geiger region	منطقة جيجر
+Geiger threshold	عتبة جيجر
+Geiger-Müller counter tube	صمام عد جيجر-مللر
+Geiger-Müller region	نطاق جيجر- مولر
+Geiger-Müller tube	انبوبة جيجر- مولر
+geikielite	غيكيلايت
+Geisha sandals	شبشب غايشا
+gel	جِلّ / هُلامة، هُلام
+gel cement	أسْمَنت هُلاَمي
+gel point	نقطة التحول إلى هلام
+gel slip	طين لَزِج
+gel technology	تقنية خلايا الجِل
+gel time	زمن التحول إلى هلام
+gel, noun	غراء (إسم)
+gel, verb	هلامى القوام
+gelatine	جيلاتين
+gelatine glue	غراء هلامي
+gelatinous	هلامي
+gelatinous fibres	ألياف هلالية
+gell-cell battery	بطارية الرصاص الهلامية
+gem minerals	معادن كريمة
+geminate crystal	بلورة مزدوجة
+Gemmer steering box	صندوق تروس التوجيه 'جيمر' (Gemmer)
+gemston	حجر كريم
+gender	جنس
+gender analysis	تحليل النوع
+gene	جينة
+genebank	بنك الجينات
+general / global / overall / lump sum	شامِل
+general agreement on tariffs and trade (gatt)	اتفاقية عامة بشأن التعريفات الجمركية والتجارة (GATT)
+General Agreement on Trade in Services	الاتفاقية العامة لتجارة الخدمات
+general aviation	طيران عام
+general cargo	بضائع عامة / بضاعة عامة / شحن عام
+general cargo transport	نقا البضائع العامة
+general circulation model (gcm)	نموذج الدوران العام (GCM)
+general contractor	مُقاوِل عامّ
+general diffused lighting	إضاءة عامة منتشرة؛ اضاءة أساسية منتشرة
+General Electric Issue Warning Light	ضوء تحذير مشكلة كهربائية عامة
+General Electrical Fault	عطل كهربائي عام
+general electronic module (GEM)	الوحدة الإلكترونية المركزية
+General Fault Warning Light	ضوء تحذير عطل عام
+general fisheries commission for the mediterranean (gfcm)	(ال) لجنة العامة لمصايد الأسماك بالبحر المتوسط
+general foreman	رازّ عام، ملاحظ عام
+general formula	صيغة عامة
+general ideal gas constant	ثابت الغازات العامة
+general ideal gas equation of state	مُعادلة الغازات المثالية
+general inference	رصد جوي عام
+general interrogation command	أمر إستجواب؛ أمر استفهام
+general lighting	إضاءة عامة؛ اضاءة اساسية
+general Lorentz transformation; Lorentz transformation	تحويل لورنتز العام
+General Motors (GM)	شركة جنرال موتورز
+general move	نقل عام
+general movement of bed load	تحرّك عام لحِمل القاع
+general obligation to cooperate	التزام عام بالتعاون
+General Packet Radio Service (GPRS)	خدمة حزمة الراديو العامة
+general petroleum and mineral organization	منظمة (ال..) العامة للنفط و الفلزات
+general plan; summary	نَظْرَة عامة
+general principles of law	مبادئ عامة للقانون
+General Purpose Inputs	الإِدْخالُ لِلأَغْراضِ العامَّةِ
+general purpose motor	محرك لأغراض عامة
+General Purpose Outputs	مُخْرَجاتُ الغَرَضِ العامِّ
+general purpose tanker wagon-citerne	ناقلة للأغراض العامة، ناقلة (صهريج) نفط متعددة الاستخدام
+General Repair	الإِصْلاحاتُ العامَّةُ
+general service dynamite	ديناميت للأغراض العامة
+general service gelatine dynamite	ديناميت هُلامِي للأغراض العامة
+general theory of relativity; GTR	نظرية النسبية العامة
+general type approval	ترخيص التشغيل العام
+general unit step function	دالة الخطوة الواحدة العامة
+General- Purpose Interface Bus	ناقل بيني مُتعدد الأغراض (GPIB)
+general-arrangement drawing	رسم تنظيمي عام
+general-purpose aircraft	طائرة متعددة الأغراض
+general-purpose ink	حبر للاستعمال العام
+generale contractor	مقاول عام
+generalist predator	مفترس عام
+generalized coordinate	إحداثيات عامة
+generalized force	قوة عامة
+generalized momentum	عزم عام
+generalized phase control	تحكم عام في الطور
+generalized soil map	خريطة عامة للتربة
+generalized velocity	سرعة عامة
+generally accepted/acknowledged rules of technology	قواعد تكنولوجية عامة مُعترف بها
+generating set	مجموعة توليد
+generating station	محطة توليد
+generating time	زمن التوليد
+generating unit auxiliary power	سعة الاستهلاك الداخليّ للمحطة
+generating unit auxiliary service	استهلاك داخليّ للمحطة
+generating unit schedule	برنامج وحدة التوليد
+generation	جيل / إنتاج / جيل تقني / توليد
+Generation Efficiency	كفاءة التوليد
+generation length	عمر الجيل
+generation mix forecast	توقعات لمحطات الانتاج
+generation of electrical energy; electricity production	توليد الطاقة الكهربائية
+generation of electricity	انتاج الطاقة الكهربائية؛ توليد الطاقة الكهربائية
+generation rate	معدل التوليد
+generation schedule	برنامج الانتاج
+generation side	جانب التوليد / جانب العرض
+generation system	نظام التوليد
+generation time (micro-organism)	زمن جيلي (كائنات دقيقة)
+Generation Unit	وحدة توليد
+generation; interpolation	توليد
+generative folds	طَيَّات مُتزايدة
+generator	مُولّد كهربائي / مولد / مولِّد / مولد (كهربائي) / مولد كهربائي / مولد كهرباء
+generator atmosphere	جوّ المولّد
+generator controller	مُنظم المُولّد الكهربائي
+generator free run	قابض الدوران الحُر للمُولّد الكهربائي
+generator junction box	صندوق توصيل
+generator output and battery capacity	قدرة المُولّد الكهربائي وسعة البطارية
+generator program	برنامج انتاجي
+generator rectifier	مُقوّم المُولّد الكهربائي
+generator reference arrow system	نظام العدّاد السهمي لقياس معدل توليد الطاقة
+generator rotor	العضو الدوّار للمُولّد الكهربائي
+generator set	مجموعة توليد / مجموعة توليد الكهرباء
+generator strator	العضو الإستاتي للمُولّد الكهربائي
+generator terminal designation	تسميات أطراف المُولّد الكهربائي
+generator test bench	منصة فحص المُولّد الكهربائي
+generator tester	فاحص المُولّد الكهربائي
+generator transformer	مجموعة مولد محول
+generator warning lamp [UK] / generator warning light [US]	لمبة بيان المُولّد الكهربائي
+generator, vacuum	مُولِّد الضغط الخوائيّ
+generators	مولدات
+generic application	تطبيق عام
+generic coding	ترميز عام
+generic product	منتج عام
+generic pulse code modulation; generic PCM (abbreviation)	تعديل التشفير النبضي العام
+generic software	برامج اساسية
+genesis	نشأة / نشوء
+Genetic Algorithm	خوارزمية جينية
+genetic assimilation	اندماج وراثي
+genetic code	شفرة وراثية
+genetic disease	مرض وراثي
+genetic distancing	تحديد (قياس) المسافات الوراثية
+genetic diversity	تنوع وراثي
+genetic drift	إنحراف (إنجراف) وراثي
+genetic effects	تأثيرات وراثية
+genetic engineering	هندسة وراثية
+genetic immunization	تحصين وراثي
+genetic mapping	خرائطية وراثية
+genetic material	مادة جينية
+genetic pollution	تلوث وراثي
+genetic pools	احتياطات الموارد الوراثية
+genetic resources	موارد جينية
+genetic selection	انتقاء وراثي
+genetic stump	جدعة جينية
+genetic transformation	تحويل (تحوير) المورثات
+genetic types	أنواع وراثية
+genetic use restriction technology (gurt)	تقنية حصر استخدام المورثات
+genetic variability	تباين وراثي
+genetically modified organism (gmo)	كائن مُعَدَّل وراثيا
+genetically modified organisms (gmo)	كائنات معدلة وراثيا (GMO)
+genetically significant dose	جرعة مؤثرة وراثيا
+genetics	علم الوراثة
+genome	جينوم
+genotte	جينوت
+genotype	نمط جيني
+genre canaille	نوع السوقة
+gentex network	شبكة جنتكس
+gentle turn	دوران معتدل
+gentrification	رفع المستوى الاجتماعي
+genuine animal skin / real fur	فرو حقيقي
+genuine progress indicator (gpi)	مؤشر تقدم حقيقي / مؤشر التقدم الحقيقي
+genus	جنس
+genus (plural: genera)	جنس (الجمع: أجناس)
+geo-engineering	هندسة جيومناخية
+geobarometry	قياس (ال..) الجيولوجي
+geocentric	منسوب إلى مركز الأرض / منسوب لمركز الأرض
+geocentric angle	زاوية رأسها مركز الارض
+geocentric latitude	عَرض مركزي
+geochemical prospecting	تنقيب جيوكيميائي
+geochemistry	جيوكيمياء
+geochronology	علم التقويم الجيولوجي
+geode	درنة صخرية مجوفة
+geodesic	خط جيوديزي
+geodesic line	خط جيوديسي
+geodesic radome	قبّة جيوديسية
+geodesist	مهندس جيوديزي
+geodesy	علم الجيوديزيا / جيوديسيا / مساحة تطبيقية
+geodetic azimuth	سَمْت جيوديزي
+geodetic construction	إنشاء جيوديسي
+geodetic construction; geodetic frame	هيكل جيوديسي
+geodetic control network	شبكة جيوديزية
+geodetic levelling	تسوية جيوديزية
+geodetic line	خط جيوديسي أرضي
+geodetic tailrace head	مقدارجيوديسيّ للضغط المرتد
+geodiversity	تنوع جيولوجي
+geodynamics	جيوديناميكيا / ديناميات الأرض
+GeoEnergy Celle Association	مُنظّمة دعم الطاقة الحرارية الجوفية
+geoflex detonating cord	سلك تفجير 'جيوفلكس'
+geogeny	علم نشأة الأرض
+geograph	جُغْرافي
+geographic co-ordinates	إحداثيات جغرافية
+geographic indication (gi)	بيان جغرافي
+geographic information system	نظام المَعلُومات الجغرافية
+geographic information system (GIS)	نِظام المعلومات الجغرافي ّ(GIS) / نظام المعلومات الجغرافية / نظام معلومات جغرافيّ
+geographic information systems (gis)	نظم المعلومات الجغرافية (GIS)
+geographic poles	قطبان جغرافيان
+geographical circuit interlocking	ترابط الدائرة الجغرافية
+geographical circuitry interlocking	تشابك الدوائر الجغرافي
+geographical control panel	لوحة تحكم جغرافية
+geographical interlocking; geographic route logic	متشابكة جغرافية
+geographical map	خريطة جغرافية
+geographical mile	مِيل جغرافي
+geographical range; geographic range	مدى جغرافى
+Geohydrology	هيدرولوجيا المياه الجوفية
+geohydrology / groundwater hydrology	عِلم المياه الجوفية
+geoid	جيوئيد / مُجسَّم أرضي
+geologic column	عمود جيولوجي، مقطع جيولوجي، سلم جيولوجي
+geologic maps	خرائط جيولوجية
+geologic province	إقليم/محافظة الجيولوجية
+geologic time scale	مقياس الزمن الجيولوجي
+geological	جيولوجي
+geological column	عمود جيولوجي
+Geological Disposal	تخلص جيولوجي
+geological erosion	تآكل جيولوجي
+geological hazard	مخاطر جيولوجية
+geological mapping	مسْح جيولوجي
+geological model	نموذج جيولوجي
+Geological Repository	مستودع جيولوجي
+geological section	مقطع جيولوجي
+geological society of america, (G.S.A.)	جمعية (ال..) الجيولوجية الأمريكية
+geological window	نافذة جيولوجية
+geolograph; tattle tare	سجل معدل الحفر (كل 8 ساعات)
+geology	جيولوجيا
+geomagnetic cavity	فجوة مغناطيسية أرضية
+geomagnetic co-ordinates	إحداثيات مغناطيسية أرضية
+geomagnetic dipole	ثنائي قطب مغناطيسي أرضي
+geomagnetic equator	خط الاستواء المغناطيسي الأرضي
+geomagnetic field	حقل جيومغنطيسي
+geomagnetic poles	قطبان مغناطيسيان أرضيان
+geomagnetic storm	عاصفة جيومغنطيسية
+geomagnetism	مغناطيسية أرضية
+geometric	طراز هندسي
+geometric attenuation	توهين هندسي؛ إضمحلال هندسى
+geometric distortion	تشوة هندسي
+geometric drive axis	محور قيادة هندسي
+geometric error	خطأ هندسي
+geometric extent	المدى الهندسي لحزمة أشعة
+geometric mean	قيمة المُتوسِّط الهندسيّ / متوسط هندسي
+geometric mean value; geometric average	قيمة الوسط الهندسى؛ المتوسط الهندسى
+geometric optics	بصريات هندسية
+geometric optics; ray optics	علم البصريات الهندسي
+geometric pitch	خطوة هندسية
+geometric twist	التواء هندسي
+geometrical concentration ratio	نسبة التركيز الجيومتري
+geometrical irregularities	عدم انتظام هندسي
+geometrical optics	بصريات هندسية
+geometrical stair	درج هندسي
+geometry of the reservoir	هندسة الخزان
+geometry test chart	مخطّط إختباري هندسي
+geometry-limited	محدَّد هندسياً / مقيَّد هندسياً
+geomorphology	جيومورفولوجيا
+geophone	مقياس ترددات الأمواج
+geophones	سمّاعات أرضية
+geophysical	جيوفيزيائي / جيوفيزيائية
+geophysical mapping	فن رسم المصورات الجيوفيزيائية
+geophysical test	اختبار جيوفيزيائي
+geophysics	علم الجيوفيزياء
+geophyte	أعشاب ببراعم معمرة
+geopotential height	ارتفاع وضع أرضي
+georef	إسناد جغرافي / مرجع جغرافي
+George	جورج
+georgette	قماش جورجيت
+georgian glass	زجاج جورجياني
+geosphere	غلاف أرضي / كرة أرضية
+geostationary altitude	ارتفاع الثبات الأرضي
+geostationary orbit	مدار ثبات أرضي
+geostationary orbit; stationary orbit	مدار ثابت
+geostationary satellite	قمر صناعي ثابت مع الأرض
+geostationary satellite orbit; GSO (abbreviation); geostationary orbit	مدار قمر صناعي ثابت مع الأرض
+geostrophic wind	ريح موجّهة أرضياً / ريح دورانية أرضية
+geostrophic wind speed	سرعة الريح الموجّهة أرضياً
+geosynchronous	متزامن مع الأرض
+geosynchronous satellite	قمر صناعي متزامن مع الأرض
+geosyncline	طية أرضية مُقعَّرة
+geotaxis	انتماء أرضي
+geotechnical	جيوتكنيكي
+geotextile	كسوة أرضية
+geotextile with soil and grains of sod	حصيرة خضراء
+geothermal	جيوحراريّ / حراري أرضي
+geothermal anomaly	شذوذ جيوحراري
+geothermal business forum	مُنتدى اقتصادي للطاقة الجيوحرارية
+geothermal center Bochum	مركز الطاقة الجيوحرارية في بوخوم
+geothermal collector	مجمّع الطاقة الحرارية الأرضية
+geothermal congress	مؤتمر الطاقة الجيوحرارية
+geothermal doublet	ثنائية الطاقة الحرارية الأرضية / ثنائية جيوحرارية
+geothermal drill	بئر جيوحرارية
+geothermal energy	طاقة حرارة الأرض / طاقة حرارية جوفية / طاقة (ال..) الحرارية الجوفية / طاقة حرارية أرضية / طاقة حرارة باطن الأرض / طاقة جيوحرارية
+geothermal energy systems	محطات الطاقة الحرارية الأرضية
+Geothermal Exploration Project	مشروع استكشاف الطاقة الحرارية الأرضية
+geothermal gradient	تَدَرُّج حراري أرضي / تدرُّج الحرارية الأرضية، مُنْحدَر حراري أرضي / مدرج الحرارة الأرضية
+geothermal heat	حرارة الأرض الجوفية / طاقة حرارية أرضية
+geothermal heating plant	محطة تدفئة بالطاقة الحرارية الأرضية
+geothermal heating system	وحدة تدفئة بالطاقة الجيوحرارية
+geothermal power	قوة (ال..) الحرارية الطبيعية
+geothermal power plant	محطة طاقة حرارية أرضية / محطة توليد بالحرارة الجوفية
+geothermal power station	محطة توليد بالحرارة الجوفية
+geothermal probe	مُبادل حراري أرضي / مسبار حراري أرضي / مسبار حرارة الأرض
+geothermal reservoir	خزان طاقة جيوحرارية
+geothermal sector	قطاع الطاقة الجيوحرارية
+Geothermal System	نظام الطاقة الحرارية الأرضية
+geothermics	حرارة أرضية
+geothermometry	علم قياس حرارة الأرض
+geothermy	حرارة أرضية
+germ	جُرْثُومة / جُرثومة مُسبِّبة لأمراض / جرثومة
+germ / pathogenic agent	جُرْثُومة
+germ, coliform thermotolerant	جرثومة معوية
+German Calibration Service (DKD)	هيئة (ال...) الألمانية للمُعايرة (DKD)
+German Code of Civil Law	قانون (ال..) المدنيّ الألمانيّ
+German Combined Heat and Power Act (KWKG)	القوانين الالمانية لتوليد المشترك للحرارة والقدرة (KWKG)
+german development bank	بنك التنمية الألماني
+german DWA standards (short version)	مجموعة اشتراطات الجمعية الألمانية لعلوم المياه ومياه الصرف الصحيّ والمخلفات (صيغة مختصرة)
+german energy act (EnWG)	قانون الطاقة الألماني
+German Federal Ministry for Economic Cooperation and Development	الوزارة الاتحادية للتعاون الاقتصادي والتنمية (BMZ)
+German General Association for Energy	الاتحاد العام للطاقة
+german meteorological society	جمعية الأرصاد الجوية الألمانية
+German Motor Vehicle Inspection Association	جمعية (ال...) الألمانية لمُراقبة السيارات
+German Offshore Wind Energy Foundation	اتحاد طاقة الرياح البحرية
+german set of DWA rules and standards (long version)	مجموعة اشتراطات الجمعية الألمانية لعلوم المياه ومياه الصرف الصحيّ والمخلفات (دون مطولة)
+german silver	ميشور
+German Society for Sustainable Biogas and Bioenergy Utilization	مؤسّسة دعم الاستخدام المُستدام للغاز الحيوي والطاقة الحيوية
+German Standards Institution	معهد (ال...) الألماني للتوحيد القياسي (DIN)
+German Yarn Contract	اتفاقية الغزل الألمانية
+germanite	جيرمنايت
+germanium	جرمانيوم
+germanotype folding	طي جرماني
+germicide	مبيد جراثيم
+germination	إنبات
+germplasm	بلازما جرثومية
+gerotor pump	مضخة تُرسية حلقية
+gesso	تجصيص
+gestation period	مدة الحمل
+get	يحصل على
+get-away speed	سرعة الإنطلاق / سرعة الاستقلال
+getter	عنصر تثبيت ضغط الغاز داخل الصمام / مُحصِّل الغاز / مستأصلة
+geyser	نبع ماء حار
+geyser; instantaneous water heater	مسخّن فوري
+geyserite	غيزرايت
+GH2	هيدروجين غازي
+GHG management	إدارة غازات الدفيئة
+ghg protocol	بروتوكول الغازات الدفيئة
+ghg protocol, scope 1, scope 2, and scope 3 emissions	بروتوكول الغازات الدفيئة: النطاق 1، النطاق 2، ونطاق 3 للانبعاثات
+ghg reduction potential	احتمال خفض انبعاث غازات دفيئة
+ghost	خيال
+ghost crystal	بلورة شبح
+ghost; echo (in television)	شبح
+ghosting	صورة شبحية
+Giaever (normal electron) tunnelling	نفقية (جايفر) (للإلكترون الطبيعي)
+giant / megagiant oilfield	حقل نفط عملاق
+giant magnetic resistance (GMR)	مُقاومة مغناطيسية عملاقة (GMR)
+giant pulse	نبضة عملاقة
+giardia	جِياردِيا
+gib and cotter joint	وصلات خشبية
+Gibbs energy (G)	طاقة جيبس (G)
+Gibbs free energy; Gibbs energy; Gibbs function	الطاقة الحرارية ليجيبس؛ طاقة جيبس؛ دالة جيبس
+Gibbs potential	جُهد جيبس
+gibbsite	جبسيت
+gibi	جيجابايت
+gibsy bracelet	سوار غجري
+gief stem	عمود حفر مربع المقطع (مضلع)، وصلة أنابيب الحفر بالرحى
+giga	جيجا
+giga (prefix)	جيجا
+Gigabit-capable PON	شَبَكَةُ الجِيجابت الضَوْئِيَّةُ الخامِلَةُ
+Gigajoule (GJ)	جيجا جول
+Gigawatt (GW)	جيجا واط
+Gigawatt-Hour (GWH)	جيجا واط - ساعة
+gigawatt-hour (GWHr)	جيجاوات/ ساعة (GWHr)
+gigot sleeve	كم فخذ
+gilding	تذهيب
+gilet	صِدَار
+gilet / body warmer	صدرية فوقية
+gillnet	شباك خيشومي
+gills	خياشيم تبريد / زعانف تبريد
+gilsonite	جلسونيت
+gimbal	ذو محورين / محمل ارتكازي
+gimbal freedom	مدى حرية ذي المحورين
+gimbal lock	قَفْل ذي المحورين
+gimballed chamber	غرفة ارتكازية
+gimbals	حامل ذو محورين، جِمْبل
+gimbals of a compass	محاور تحويل
+gimlet	برّيمة / بريمة
+gimlet bit	نصلة برّيمة
+gimp thread / cordonnet	خيط قيطان
+gimp yarn	خيط برم
+gin pole	قائم المرفاع، صاري الرفع
+gingham	مربعات المنشفة / جنجهام
+Giorgi unit system	نظام وحدات جيورجي
+girbitol process	إجراء جِرْ بِيتُول
+Girder	جائز رئيس / جائز
+girder box; girder casing	جائز صندوقي
+girder bridge	جِسر ذُو عَوَارِض
+girder type; truss type	نمط جملوني
+girdle pocket elevator	رافعة ذات جيوب الحزام
+girdling	تحزيم
+girlie	بناتي
+girlie look	نمط بناتي
+Giromill turbine	عنفة 'جيروميل'
+girt	سكة جدار
+girth tape	شريط قياس
+given value / nominal value / rated value / reference value	قيمة مستهدفة
+givré rib	قُماش جيفري مضلَّع
+giza cotton	قطن جيزة
+glacial	جليدي
+glacial deposits	رواسب جليدية
+glacial drift	انجراف جليدي / جَرَّافة جليدية، انجراف جليدي، نقل جليدي
+glacial lake outburst	فورة بحيرة جليدية
+glacial pavement	رصْفَة جليدية
+glacial till	حَتات جليدي
+glacier	نهر جليدي
+Glacier crevasse	صدع نهر جليدي
+glacier power plant	محطة توليد الطاقة من انصهار المثالج
+glacier retreat	تراجع الأنهار الجليدية
+glacier shrinkage	انكماش الأنهار الجليدية
+glaciolacustrine deposits	رواسب بحيرات جليدية
+glaciomarine deposits	رواسب بحرية جليدية
+glacé	جلاسيه
+glacé leather	جلد مجمد
+gladiator sandals	شبشب المحارب
+glamour belt	حزام غلامور
+glamour look	الأسلوب اللامع
+glance pitch	أسفلتيت
+gland	جُلبة حشو / وصلة حشو / حشوة
+gland joint	وصلة تمددية
+glare	وهج
+glare by reflection; DEPRECATED: reflected glare	وهج بإنعكاس
+glare rating limit; GRL	الحد المقنن للوهج
+glare screen	ستار لحجب البهر
+glareshield	حاجب الوَهَج
+glass	زجاج
+glass batiste	باتسته شفاف
+glass beneficiation plant	محطة استعادة الزجاج
+glass block	كتلة زجاجية، قالب زجاجي / آجرة من الزجاج
+glass containers	زجاج التعليب
+glass cutter	قاطعة الزجاج
+glass door	باب مزجَّج
+glass electrode	مسرى من زجاج
+glass fibbers	ألياف زجاجية
+glass fiber	ألياف زجاجية / ألياف بصرية
+glass fibre	آلياف زجاجية
+glass fibre mat [UK] / glass fiber mat [US]	قاعدة من ألياف زجاجية
+glass fibre reinforced plastic	لدائن مدعمة بألياف زجاجية
+glass gauge	أنبوب بيان زجاجي، مقياس زجاجي
+glass linen	كتان شفاف
+glass making batch	دفعة تصنيع الزجاج
+glass matrix	حامل زجاجي
+glass plate	لوحة تربيع
+glass rod	قضيب زجاجي
+glass tile	بلاطة زجاجية
+glass transition	الإنتقال خلال الزجاج
+glass transition temperature	درجة الحرارة نتيجة الإنتقالِ خلال الزجاج
+glass wool	صوف الزجاج
+glass-concrete construction	إنشاء خرساني زجاجي
+glass-fibre reinforced plastic (FGRP)	لدائن مُقوّاة بألياف زجاجية
+glass-roofing or roof	سقف زجاجي
+glassine paper	ورق جلاسين
+glassware	آنية زجاجية
+glasswool	صوف زجاجي
+glaucodot	غلوكودوت
+glauconite	غلوكونايت
+glaucophane	غلوكوفين
+glaucous	أخضر شاحب
+Glauert factor	عامل جلاورت
+glaze	مْسحَة زجاجية أو طبقة مزججـة
+glaze (on ceramic)	طلاء زجاجي (على الخزف)
+glaze (on paper or board)	طلاء زجاجي (على الورق أو اللوح)
+glaze coat	طبقة مزجّجة
+glaze finish	تشطيب صقيل / طلاء صقيل
+glaze ice	جليد زجاجي
+glazed brick	آجرة مزجّجة
+glazed finish	طلية أخيرة، طلية نهائية
+glazed frost	صقيع زجاجي
+glazed paper	ورق ملمّع
+glazed stoneware	منتجات حجرية مزجّجة
+glazier (glassworker)	زجاج، عامل زجاج
+glazier's chisel	إزميل الزجّاج
+glazier's diamond	ماسة الزجاج
+glazier's putty	معجونة الزجاج
+glazing	تزجيج
+glazing bar	قضيب تزجيج
+glazing bead	شرائح مثبتة للزجاج، درزة لحام صقلية( وملساء)
+Gleason type gear teeth	مُسَنَّنَات 'جليسون' (Gleason)
+gleysation	جْلَيْزايشن
+glide	هبوط انحداري / هبوط انزلاقي / ينزلق
+glide bomb	قذيفة انحدارية / قذيفة انزلاقية
+glide landing	حط انحداري / حط انزلاقي
+glide mode	أسلوب الانزلاق / نمط الانحدار
+glide path	منارة إشعاعية للهبوط، منارة ممّر الانزلاق
+glide plane	مستوى الانزلاق
+glide ratio	نسبة الانحدار / نسبة الانزلاق
+glide; glidepath	ممر الانحدار / ممر الانزلاق
+glide; skidding; skid-out; slip	انزلاق
+glidepath angle	زاوية ممر الانحدار
+glidepath beacon	منارة ممر الانحدار
+glidepath bend	منعطف ممر الانحدار
+glidepath indicator	مُبيِّن ممر الانحدار
+glidepath localizer	مُحدِّد موضع ممر الانحدار
+glidepath sector	قطاع ممر الانحدار
+glidepath; glideslope	مَيل الانحدار / مَيل الانزلاق
+glider	طيّارة شراعية، طائرة انزلاقية / طائرة انحدارية / تجهيزة انزلاق (جلايدر)
+glider train	قطار طائرات شراعية
+glider tug	ساحبة الطائرات الشراعية
+glider; sailplane; sailwing	طائرة شراعية
+gliding	انحدار
+gliding angle	زاوية الانزلاق
+gliding range	مدى الانحدار / مدى الانزلاق
+gliding speed	سرعة الانحدار
+gliding speed; slip speed	سرعة الانزلاق
+gliding turn	انزلاق حلزوني / دورة انحدارية
+gliging speed	سرعة الانحدار
+glim lamp	مصباح وميض
+glitch	قَدْح / مشكلة فنية
+glitch; surging	تموُّر
+Global Alliance for Vehicle Data Access (GAVDA)	التحالف العالمي لبيانات السيارات
+global area network; GAN (abbreviation)	إختصار (GAN)؛ الشبكة العالمية
+global atmospheric circulation	دوران الغلاف الجوي العالمي
+global automotive telematics standard	مواصفة GATS القياسية
+global brightening	إشراق العالم
+global carbon budget	ميزانية الكربون العالمية
+global chassis control	نظام التحكم الشامل في مجموعة الحركة على الطريق
+global chassis management	نظام الإدارة الشاملة لمجموعة الحركة على الطريق
+global climate change	تغير المناخ العالمي
+global climate model	نموذج مناخ عالمي
+global climate observing system (gcos)	نظام عالمي لرصد المناخ (GCOS) / النظام العالمي لمراقبة المُناخ
+global coverage beam	حزمة تغطية عالميّة
+Global Dimming	تعتيم عالمي
+Global Emission Model for Integrated Systems	نموذج الانبعاثات العالمية للأنظمة المتكاملة (GEMIS)
+Global Energy Market	سوق الطاقة العالمية
+global energy supply	إمدادات الطاقة العالمية
+global environment facility (gef)	صندوق البيئة العالمي / صندوق البيئة العالمي (GEF)
+global environmental management initiative (gemi)	مبادرة إدارة البيئية العالمية (GEMI)
+Global EV Outlook	توقعات السيارات الكهربائية العالمية
+global eye	عين على العالم
+global forest resources assessment (fra)	تقييم عالمي لموارد الغابات
+global horizontal illuminance	إشعاع ضوئى نهارى افقى كلى؛ إضاءة افقية كليه
+global horizontal irradiance	إشعاع شمسى أفقي كلى
+Global Horizontal Irradiance (GHI)	إشعاع أفقي أرضي
+Global Location Number	رمز GLN أو GS1
+global market	سوق دولية
+global maximum value; peak value	القيمة العظمى العامة؛ قيمة عظمى أو قمة
+global measurement	تدابير عالمية
+global mechanism (gm)	آلية عالمية
+Global Methane Pledge	التعهد العالمي بشأن الميثان
+global minimum value; valley value	القيمة الصغرى العامة؛ قيمة صغرى أو قاع
+Global Navigation Satellite System (GNSS)	النظام العالمي للملاحة
+Global Network on Energy for Sustainable Development (GNESD)	الشبكة العالمية المعنية بالطاقة من أجل التنمية المستدامة (GNESD)
+global ocean observing system (goos)	نظام عالمي لرصد المحيطات (GOOS)
+global pollution investigation	أبحاث عالمية عن التلوث
+global positioning system	نظام GPS / نِظامُ تَحْدِيدِ المَواقِعِ العالَمِيّ
+Global Positioning System (GPS)	النظام العالمي لتحديد المواقع
+global projects	مشروعات عالمية
+global quote	الحصة العامة
+global radiation	إشعاع كوني / إشعاع إجمالي
+global radiation measurement equipment	جِهاز قياس الإشعاعات الكونية
+global reporting initiative (gri)	مبادرة التقارير الشاملة (GRI)
+global solar radiation	الأشعة الشمسية الكونية / إشعاع شمسي كلّي
+global sourcing	توريد عالمي
+global stock situation	وضع المخزون العالمي
+Global System for Mobile Communications (GSM)	النظام العالمي للاتصالات المتنقلة (GSM)
+Global System for Mobile Communications - Railway (GSM-R)	النِظامُ العالَمِيّ لِلاِتِّصالاتِ المُتَنَقِّلَةِ لِلخُطُوطِ الحَدِيدِيَّةِ
+global temperature	درجة الحرارة العالمية
+global terrestrial observing system (gtos)	نظام عالمي لمراقبة الأرض/اليابسة (GTOS)
+global UV index	المؤشر الكونى للأشعة الفوق بنفسحية
+global variables	متغيرات عالمية
+global warming	استسخان (ال...) الشموليّ / ظاهرة الاحتباس الحراري العام / الاحترار العالمي / الاحتباس الحراري / احتباس حراري / احترار الأرض / احترار المناخ / احترار عالمي
+global warming controversy	جدل حول الاحترار العالمي
+global warming index	مؤشر الاحترار العالمي
+global warming potential (gwp)	إمكانات الاحترار العالمي / إمكانية الاحترار العالمي / الغازات المسبِّبة للاحتباس الحراري / احتمالية الاحتباس الحراري (GWP) / إمكانات الاحترار العالمي (GWP)
+Global Warming Solutions Act of 2006, or Assembly Bill (AB) 32	قانون ظاهرة الانحباس الحراري لعام 2006 (المعروف بإسم Assembly Bill (AB) 32) / مشروع قانون الاحتباس الحراري لسنة 2006 رقم 32
+Global Water Partnership (GWP)	الشراكة العالمية للمياه (GWP)
+global water tool	أداة عالمية للمياه
+Global Wind Energy Council (GWEC)	المجلس العالمي لطاقة الرياح
+globe	غطاء ناشر للضوء
+globe valve	صِمام كرويّ / صمام كروي، صنبور إغلاق ذو كرة
+globular structure	بنية كروية
+Glore Valcana®	جلور فالكانا
+gloss	لمعان / تعليق، حاشية
+gloss ink	حبر لامع
+gloss meter	مقياس اللمعان
+gloss paint	صباغ لامع
+gloss varnish	ورنيش لامع
+gloss,	لمعان,
+glossmeter	مقياس اللمعان / مقياس شدة اللمعان
+glossy	لامع / لمّاع (صقيل)
+glossy coated paper	ورق مطلي لمّاع
+glove	قفازات / قفّاز
+glove box	صندوق القفازات
+glove compartment cover	غطاء دُرج القفازات
+glove compartment lighting	إضاءة دُرج القفازات
+glove sleeves	قفاز كمي
+Gloves Air Leakage Test	اختبار تسرب الهواء في القفازات
+glow	توهج
+glow discharge	تفريغ توهجى / تفريغ توهجي / تفريغ متوهج
+glow discharge furnace	فرن التفريغ المتوهج
+glow discharge installation	معدّة (منشأة) التفريغ المتوهج
+glow discharge tube	صمام تفريغ توهجي
+glow duration contol unit	وحدة التحكم في مُدة التوهّج
+glow duration control	تحكم في مُدة التوهّج
+glow duration control unit	وحدة التحكم الخاصة بالضبط الأوتوماتي لزمن التوهّج
+glow indicator light	مؤشر شمعة التوهج
+glow indicator tube	صمام مؤشر وهج
+glow lamp	مصباح متوهج
+glow plug	شمعة توهُّج
+glow yarns	خيوط غزل مُضيئة
+glow-discharge	تفريغ متوهج
+glow-discharge anemometer	مقياس سرعات بالتفريغ التوهّجي
+glow-discharge heating; ion heating	تسخين بالتفريغ المتوهج؛ تسخين أيوني
+glow-discharge nitriding; ion nitriding	نتردة التفريغ المتوهج ، نتردة الأيون
+glowing lamp	مصباح متوهج
+glucogen (glycogene)	نشأ حيواني
+glucose	جلوكوز
+glue	غراء
+glue and gluing	غراء وتغرية
+glue brush	فرشة غراء
+glue cartridge	خرطوشة مادة اللصق
+glue joint	وصلة غراء
+glue line	خط الغراء
+glue mixing and homogenizing machine	آلة خلط ومجانسة الأغراء
+glue pot	وعاء الغراء / مغراة
+glue pump	مضخة الغراء
+glue putty	معجون الغراء
+glue spreader	غرّاية
+glued cloqué	كلوكيه ملتصق / كلوكيه لاصق
+glued fibers	ألياف ملصقة
+glued joints	وُصَل مغراة
+glued off	مفكَّك
+gluey phase	مَرْحَلة تغرّي الطمي
+gluing	اللصق / تغرية / تغزية
+gluing brush	فرشة التغرية
+gluing machine	آلة التغرية
+gluing roller	ملف التغرية
+glycerin	جليسرول / جليسرين
+glycerin (glyzerine)	جليسرين
+glycerine; glycerol	جليسرين
+glycol alcohol	كحول الجليكول
+Glycol Coolant	سائل تبريد الجليكول
+Glycol dehydration	نزع الماء بالجليكول
+Glycol Dehydrator	وحدة تجفيف الغاز الطبيعي / مزيل الماء بالغليكول، جفَّاف غليكولي
+glycol ink	حبر غليكول
+glyptal	ليبتال
+GM Hy-wire	سيارة Hy Wire من جنرال موتورز
+gmelinite	غملينايت
+GMR	مُقاومة عملاقة
+gnat	حَوَّام
+gnawing	قَارض
+gneiss	نايس
+gneissoid	شبية النايس
+gnomonic projection	إسقاط مركزي / خريطة مزولية / مسقط مِزْوَلي
+gnp deflator	تغير الناتج الوطني الإجمالي
+go channel; transmit channel	قناة بث؛ قناة للإرسال
+GO Device	جهاز إدارة الأسطول
+go for broke	يستنزف الذخيرة
+go gauge	محدد قياس مروري / مُحدِّد قياس سماحي
+GO TALK	نظام توجيه السائق
+go-ahead	سماح بالبدء / سماح بالمتابعة
+go-around mode	نمط العزوف
+go-devil	مكشطة خطوط الأنابيب، دحراج تنظيف، دحراج تفجير
+go-home mode	نمط توجيه العودة
+go/no-go	سماح / لاسماح
+go/no-go check list	قائمة توثيق سماحية / لاسماحية
+go/no-go gauge	محدِّد قياس سماحي / لاسماحي
+go/no-go test equipment	معدّات اختبار سماحية / لا سماحية
+Goa look	طراز غوا
+goat hair carpet	سجاد من شعر الماعز
+goat suede	جلد ماعز سويدي
+goatskin	جلد الماعز
+goat’s hair	شعر الماعز
+Gobelin pattern	طراز جوبلين
+GoBiGas	مشروع GoBiGas
+God-made fibers	ألياف من 'خلق الله'
+Goddard Space Flight Center	مركز جودارد لطيران الفضاء
+goddess style	طراز الإلهة
+godet	طية جودية
+godet skirt / mermaid skirt	تنورة جودية
+Godets	تنورة مخروطية
+goethite	غوثايت
+goffering	دمغ
+going	عرض الدرجة، نائمة الدرجة
+going in	تشرُّب، إشراب
+Goiserer	حذاء جبلي
+gold	ذهب
+gold / iron-nickel / chromium	ذهب/حديد- نيكل/كروم
+gold bronze	برونز مذهّب
+gold C	شهادة ذهبية
+gold floatation	تعويم الذهب
+gold ink	حبر ذهبي
+gold leaf (s)	رقائق ذهبية
+gold nugget	شذرة ذهب
+gold standard	معيار الذهب
+gold varnish	برنيق مذهب
+gold vein	عرق ذهب
+gold-bearing	حامل للذهب
+goldbeaters' fabric	نسيج مرقِّق الذهب
+Golden mole	خلد ذهبي
+Golden Tower	جولدن تاور
+golden-knop	دُعْسُوقَة
+goldie	وضع ذهبي
+goldie lock	قيد ذهبي
+golf glove	قفازات الغولف
+golf jacket	سترة الجولف
+golf pleat	طية الجولف
+golf skirt	تنورة الجولف
+golf trousers	سروال الجولف
+golf wear	ملابس الكولف
+Goliath	جالوت
+gon on stream	بدء سير الانتاج
+gonadal dose	مكافىء جرعة سنوية معبرة وراثياً
+gondola	جَندُول / حافلة مسطّحة
+gondwana	غندوانا
+gone to water	غَاِرق
+gong	وسام الشرف القرصي / نجران، فرضة الباب
+gonio-apparent material	مادة ظاهرة من الزاوية
+gonio-spectrophotometer	مقياس الطيف الضوئى من زاوية
+goniometer	مِنْقلة / جهاز بث الإشارات الدوّارة / محدِّد الاتجاه الزاوي / مقياس الزوايا
+goniophotometer	قياس خصائص توزيع الضوء الإتجاهى
+gonioradiometer	مقياس توزيع زوايا الاشعة
+good	سلعة
+good agricultural practices in the use of pesticides	ممارسات زراعية جيدة في استخدام المبيدات
+good cleavage	تَشَطُّر جيد
+Good Crimp Quality	مقياس جودة العقص
+good faith	حُسْنُ النّيّةِ
+Good jeans	جود جينز
+good laboratory practice (glp)	ممارسة مختبرية جيدة
+good offices	خدمة جليلة / مساعي حميدة
+Goodrich deicers	جهاز جودريتش لمنع التجلُّد
+Goodrich rivnut	صامولة جودريتش المبرشمة
+Goods loaded (for transport by rail)	البَضائِعُ المُحَمَّلَةُ عَبْرَ الخُطُوْط الحَدِيدِيَّةِ
+goods station, freight yard, freight depot	محطة البضائع
+goods traffic	حركة البضائع
+Goods unloaded (after transport by rail)	البَضائِعُ المُفْرَغَةُ عَبْرَ الخُطُوْط الحَدِيدِيَّةِ
+goose neck	عنق الاوزة (كوع رأسي الحقن)، كوع رأس الحقن
+goose-neck bar	قضيب معقوف، قضيب ذو انحناء راجع
+gooseneck flare	شعلة رقبة الإوزة / شعلة معقوفة
+Gore XCR	جور إكس سي أر
+gore; lobe	فصّ
+gored skirt	تنورة مخروطية
+gorge	انهدام
+gorge portion / throat	عُنُق
+gorge; drip	إفريز
+goshenite	غوشانايت
+Gosport tube	أنبوب التخاطب / أنبوب جوسبورت
+gossan	قُبْعَة الحديد
+gossypium	جوسيبيوم
+gothic architecture	هندسة غوطية
+Gothic delta	جناح دلتا قوطي
+gothics	طراز الجوثيكس
+Gotland sheepskin	جلد خروف جوتلاند
+Goubau line; G line (deprecated)	خط غوبو
+Gouge	قلاّبة جوج / مظفار / منقار
+gouge bit	نصلة المظفار
+gouge slip	مسن المظفار
+governance	حكومة / حكامة
+governance (of ecosystems)	حكامة (النظم الإيكولوجية)
+governance by government (of protected areas)	جهاز تسيير حكومي (مناطق محمية)
+governance by indigenous peoples and local communities (of protected areas)	تسيير من قبل الساكنة الأصلية والجمعيات المحلية (مناطق محمية)
+governance safeguards	ضمانات الحكامة
+government budget constraint	تقييد الميزانية الحكومية
+Government Funding	التمويل الحكومي
+Government Relations Department	دائرة العلاقات الحكومية
+government security	سندات حكومية
+government ship	سفينة حكومية
+government-mediated payments	مدفوعات بوساطة الحكومة
+Governmental Agencies	الهيئات الحكومية
+governmental effort	جهد حكومي
+Governmental Tariff	تعريفة حكومية
+governor	مُنظّم سرعة الدوران / مُنظِم
+governor carburetor	كابوراتير ثنائي المرحلة
+goX	أكسجين غازي
+GPS Fleet Tracking	تتبع الأسطول عبر نظام تحديد المواقع
+GPS Tracking System	نظام التتبع عبر الأقمار الصناعية
+grab	كَبّاش (سطل)
+grab hook	كُلاّب ممسك
+grab line	خط الانتزاع
+grab sample	عينة مقتطفة
+grab; grab iron	مِقْبَض، خُطَّاف
+grabber	خطَّاف
+grabbing problem	مشكلة النتش
+grabbing response	سلوك النتش
+graben	انخساف/خندق
+graben fault	صدْع خَسَفِي
+graceful degradation (in digital television)	انحطاط تدريجي (في التلفاز الرقمي)
+gradation curve	منحني التدرّج
+grade	درجة / درجة الانحدار / غراد / صنف
+Grade "A" Lithium Batteries	بطاريات ليثيوم درجة (أي)
+Grade "B" Lithium Batteries	بطاريات ليثيوم درجة (بي)
+Grade "C" Lithium Batteries	بطاريات ليثيوم درجة (سي)
+grade beams	جُسُور منحدرة، دعامات أرضية
+grade boards	أوتاد تحديد
+grade crossing	مَمَرّ على مستوى واحد
+grade of automation; GOA	مستوى الية تشغيل القطار
+grade of crude oil	نوع النفط الخام، نمط النفط الخام
+grade of dissipation	درجة التبديد
+grade of service	مستوى الخدمة
+grade separation	تقاطع على مستويين مختلفين، مفصل وفق الدرجة
+grade signal	مُؤَشِّر تغيير الميل
+Grade-A	قماش ـ أ
+grade-separated crossing	ملتقى طرق متراكبة
+grade-separated fork junction	مَوثَبَة
+grade-separated highway	طريق سريع متراكب
+grade-separated interchange	مبدِّل / بَدَّالٌ / عُقدَة طَريق سَيَّار
+grade-separated junction	تَقَاطُع مُتَرَاكِب
+grade-separated pedestrian walkways	مَمَرٌّ مشاة متراكب
+grade; step	درجة
+graded aggregate	رُكَام مُتَدَرِّج / حصويات ذات تدرج منتظم
+graded fibre	ألياف مصنّفة
+graded index fibre	ألياف بمعامل انكسار متدرج
+graded index profile	مخطط جانبى لعامل إنكسار متدرج
+graders	آلَات تَمهِيد التُّربَة
+gradient	درجة الميل، معدل الانحدار / تدرُّج / معدَّل التدرج / درجة مَيل / معدل انحدار / ميل / إنحدار
+gradient / incline / slope	مَيْل
+gradient of climb; rate of climb	معدل التسلق / معدل الصعود
+gradient of pipeline	درجة ميل أو انحدار خط الأنابيب
+gradient wind	رياح تدرُّجية / ريح الانحدار
+gradient wind speed	سرعة الرياح التدرُّجية
+gradient; grade	منحدر
+grading	تَدْرِيج / تسوية / تدرج / تدرُّج / تدرج (ال..) الحبيبي، تصنيف (الفلز)
+grading / computer-assisted	تدريج حاسوبي
+grading curve	منحنى التَّدرِيج / منحني التدرُّج / منحني التدريج، منحني التدريج الجيبي
+grading envelope	غِلَاف التَّدَرُّج / غلاف منحنيات التدرج
+grading of a front piece	تدريج الجزء الأمامي
+grading screens	مناخِل مُتدرِّجَة
+grading using a variator	تدريج باستعمال جهاز تبديل
+graduated	مدرَّج / مدّرج
+graduated pipette	ماصَّة مُدرَّجة
+graduated tube	أنبوب قياس / أنبوب مدرَّج
+graduating piston	كباس متدرج
+graduation	تدريج
+Graetz number	رقم جريتز
+Grafcet	جرافسيت
+graffiti pattern	نموذج جرافيتي
+Grafil	جرافيل
+grafting	تطعيم النبات
+grahamite	غراهاميت (ضرب الأسفلتيت)
+grain	حَبَّة / حبيبة / حُبيبة / تجزع
+grain boundaries	حدود الحبيبة
+grain de blé	حبة قمح
+grain de poudre	نسيج حُبَيْبِي
+grain diameter, characteristic	قطر حبيبيّ مميّز
+grain distribution	تدريج حبيّبي
+grain d’orge / huckweave	نسيج حبة شعير
+grain growth	نمو الحبيبات
+grain of wood	ألياف الخشب
+grain orientation	اتجاه الحُبيبات
+grain segregation	فصل الحبيبات
+grain shape	شكل الحبوب
+grain size	حجم الحبوب / حجم الحبيبات
+grain size analysis	تحليل التدرج الحبي
+grain size distribution curve	منحني التدرّج الحبي
+grain structure	بِنية حُبَيبِيَّة
+grain-oriented material	مادة موجهة الحبيبات
+graininess	خشونة
+graining	تحبيب
+graining machine	ماكينة تحبيب
+gram (g)	غرام
+gram-atom	ذرة اغراميّة
+gram-rad	راد - غرام
+gramme	جرام / غرام
+gramme-molecule	الجزيء الغرامي / الوزن الجزيئي الغرامي
+gramophone grooving	حُزوز الحاكي
+gramophone; phonograph	حاكي
+grand slam	انتصار ساحق / جراند سْلام
+Grand Tour	رحلة عظمى
+Grandfather rights	حقوق الأجداد / حقوق السلف
+grandfathering	تخصيص رجوعىّ
+granite	غرانيت / جرانيت
+granite crepe	كريب مُحبَّب
+granite plaster	جبس الجرانيت
+granite powder	مسحوق الجرانيت
+granite-prophyry	غرانيت فرفيري
+granitization	غَرْنَتة
+granny board; growler board	مِسْنَد توصيل الأنابيب، مِنَصَّة التعليق
+granny knot	عقدة مستعصية، عقدة ملتوية
+granoblastic texture	نسيج تحوُّلي حبيبي
+granodiorite	غرانوديورايت
+granophyric	غرانوفيري
+grant	منحة / دعم
+granular	حُبيبي
+granular activated carbon (GAC)	كربون حبيبيّ منشَّط
+granular disintegration	تفكك حبيبي
+granular fixed bed reactor / biofilter	مرشح حيويّ
+granular material	حُبَيبات
+granular material cartridges	خرطوشة الحُبيبات
+granular media	وسط حبيبيّ
+granular media filtration	ترشيح ذو وسط حبيبيّ
+granular media pressure filtration	ترشيح خاضع لضغط الوسط الحبيبي
+granular noise	ضوضاء حبيبية
+granular snow	ثلج حُبيبي
+granular sulphur	حبيبات كبريت
+granular urea	يوريا حبيبية
+granulat (to…)	حبَّبَ
+granulated Crepe	كريب محبب
+granulated slag	جُفَاء مُحَبَّب
+granulating	تَحَبُّب، طحن حُبيبي
+granulation	تفتيت
+granule	حُبيبة
+granules	حبيبات
+granulite	غرانيولايت
+granulose	حُبَيْبي
+granulé	كريب برغلي
+graph (of a network)	رسم بياني للشبكة
+graph theory	نظرية الرسم البياني
+Graph7	مُخطط 7
+graphene-based membrane permeation	تخلل الغشاء القائم على الغرافين
+graphic	بياني
+graphic arts graphics	فنون تخطيطية
+Graphic interactive programming	برمجة تفاعلية بيانية
+graphic lithology log	سجل بياني لعلم تكون الصخور
+graphic part programming	برمجة بيانية للقطعة
+graphic solution	حل بياني / حل تخطيطي
+graphic texture	نسيج نقشي
+graphical error	خطأ تخطيطي
+graphical representation	تمثيل بياني
+graphical symbol; circuit symbol (initiator)	رمز البادئ
+Graphical User Interface	واجِهَةُ المُسْتَخْدِمِ الرُسُومِيَّةُ
+graphics	بيانات
+Graphics Interchange Format	جي آي إف
+graphics tablet	قرص رسومات
+graphite	جرافيت / غرافيت
+graphite crucible	بوتقة غرافيت
+graphite heating element	عنصر تسخين جرافيتى
+graphite stripes	خطوط رمادية
+grapple control guard	جهاز حماية التحكم بالكُلابة
+Grashof number	عدد جراشوف / رقم جراشوف
+grass	عشب
+grass catcher	شبكة احتجاز الأعشاب
+grass roots	سطْح، طبقات سطحية
+grasshopper	جرادة / جرادة تثبيت
+Grassmann's laws, pl	قوانين جراسمان
+grassroots	شعبية
+grassy filter strip	شريط معشوشب للتصفية
+grate	مُصبَّعة
+grate / graticule	نِظام شبكيّ
+grate bar	قضيب المُصبَّعة
+grate firing; stoker firing	حرق شبكي
+grate path	مَسار الصدأ
+grate/rust	مصبعات شبكية
+grate; grating	منفذ شبكيّ
+Grates	مُصَبعَّات
+graticule	شبكة (ال...) الأرضية / مقياس العينيّة
+graticule / interference filter	نِظام شبكيّ
+grating	تسْييجٌ / شَبَكَة
+grating / grid rack / screen	شبكة (النُّفايات)
+grating floor	أرضية ملوّحة
+grating; lattice	مُصَبَّعة
+grating; lattice-work	تشبيك، شبك معدني
+gratiné	جراتينه
+gratté	جراتيه
+grave yard shift; hoot-owl shift	نوبة الليل (من منتصف الليل إلى 8 صباحا)، وردية ليلية
+gravel	حَصى (زلط) / سَجِيحَة عَكُوسَة / حَصًى / حصى / جرول
+gravel base	طبقة حَصبَاء
+gravel filter	مُرَشِّح حَصَوي
+gravel packed completion	استكمال الحفر بالرّص بالحصى، إنجاز بئر مع وقاية الطبقة المنتجة بالحصى
+gravel pit	حُفرَة حَصبَاء / مَقْلَع الحصى / مَقْلَع حصى
+gravel road	طَرِيق حَصبَاء / طريق حصوي
+gravel stops	حواجز الحصى، حواجز حصوية
+graver	منْقاش، حفّارة
+gravimeter	مقياس الثِّقالة / مقياس الجاذبية / مقياس الثَّقالة
+gravimetric analysis	تحليل وزني
+gravimetric capacity	سعة وزنية
+Gravimetric Energy Density	كثافة الطاقة الوزنية / كثافة الطاقة بالمقياس الجاذبي
+gravimetric survey	قياس الجاذبية (باستخدام طريقة الجاذبية)
+graving tool	مِسْفَن
+gravipause	نقطة التعادل الجنوبي
+gravireceptors	أجهزة الاستقبال التثاقلية
+gravitation	قوة الجذب / جاذبية
+gravitation constant	ثابت الجاذبية
+gravitation drainage	تصريف بالجاذبية
+gravitational acceleration	تَسارُع الجاذبية / تسارع الجاذبية الأرضية
+gravitational constant	ثابت الجاذبية
+gravitational energy	طاقة الجاذبية
+gravitational head	عُلُوّ تثاقُليّ
+gravitational head of water	عُلُوّ تثاقُليّ للماء
+gravitational potential	كُمون تثاقُليّ
+gravitational pressure	ضَغْط ثَّقَالي
+gravitational red shift,	إنزياح الجاذبية الأحمر,
+gravitational segregation	فصْل ثقالي
+gravitational shift, ; gravitational red shift,	إنزياح الجاذبية, ؛ إنزياح الجاذبية الأحمر
+graviton	جرافيتون
+gravity	جاذبية أرضية / ثقالة أرضية / كَثَافة
+gravity a p i	كثافة (ال..) بدرجات معهد النفط الأمريكي
+gravity anomalies	شذوذات الجاذبية
+gravity circulation	جريان بالجاذبية
+gravity convection	حِمْل (حراري) تثاقلي
+gravity conveyor	ناقلة بالثقل / ناقل ثقالي، ناقل بالثقالة
+gravity dam	سدّ تثاقليّ / سَدٌّ ثقليّ / سدٌّ ثقلي / سد ثقالي
+gravity dam, solid	سَدّ تثاقلُيّ مصمت
+gravity dam, straight	سَدّ تثاقُليّ مستقيم
+gravity drainage pipe	أُنْبوب تصريف بالثقالة
+gravity drainage system	تصريف جاذبيّ
+gravity drop angle	زاوية الهبوط التثاقلي
+gravity fault	صَدْع الجاذبية / صَدْع نظامي، صَدْع الجاذبية
+gravity feed	تغذية بالثقل / تغذية بالجاذبية
+gravity Filter	مرشح بالجاذبية / مُرشِّح ثقليّ
+gravity flow	جَرَيان طبيعي
+gravity hump yard	محطة الفرز
+gravity line	أنبوب ذو جريان طبيعي، خط أنابيب ثقالي
+gravity lines	خطوط الجاذبية
+gravity map	خريطة(مَصْوَر) الجاذبية
+gravity meter; gravimeter	قياس الجاذبية
+gravity method (two-dimensional method of analysis)	طريقة التثاقل (طريقة التحليل ذات البعدين)
+gravity retaining wall	جدار استنادي ثقلي
+gravity roller conveyor	ناقلة أسطوانات مدورة بالثقل
+gravity segregation	فَرْز ثقالي
+gravity separation	فَصْل تثاقلي
+gravity sewer	قناة تدفق حر بالثقالة / قناة الجاذبية
+gravity spring	نَبْع جارٍ / نبع ثقلي
+gravity structure	مِنَصَّة ثقالية
+gravity surveying	قياس تغيرات الثِّقالة
+gravity system	نِظام الجاذبية الأرضية / شبكة جريان حُر / نظام جريان بفعل الثقالة
+gravity tank	خزان تغذية بالثقَل
+gravity vents	فتحات تهوية بتأثير الثقالة
+gravity weir / masonry weir	هَدّار تثاقُليّ
+gravity weir; masonry weir	هَدّار تثاقُليّ
+gravity-flow line	مُوَصِّل حُرُّ التدفق
+gravure	حفر
+gravure ink	حبر طباعة غائرة
+gravure machine	ماكينة طبع غائر
+gravure paper	ورق طباعة غائرة
+gravure printing; Intaglio printing	طباعة من سطح غائر
+gray	غراى (وحدة قياس كيرما) / أشهب / رمادي
+Gray code	ترميز جراي
+gray energy	طاقة رمادية
+gray minerals	معادن رمادية
+gray water	مياه رمادية
+graywacke	طِين بازلتي
+grazing	حافّ / سافّ
+grazing angle	زاوية كشط / زاوية الميل / زاوية الحفوف
+grazing incidence	سقوط حاك ، سقوط كاشط
+grazing land management	إدارة الأراضي الرعوية
+grazing system	نظام الرعي
+GRC	خرسانة مسلّحة بالألياف الزجاجية
+grease	شَحْم
+grease cavity	قرص تحميل احتكاكي
+grease collection chamber	حوض تجميع الشحوم
+grease device	مُنشأة معالجة الشحوم
+grease gun	مِشحَمة / مدفعة شحم / مشحمة
+grease gun; lubricating gun	مِدْفَعة تشحيم، مَسدَّس تشحيم
+grease removal / degreasing	إزالة الدهون
+grease separation chamber	حوض فصل الشحوم
+grease separator / oil separator	فاصِل الشحم
+grease trap	مِصيَدة الشحوم / مصيدة شحوم
+grease wool	صوف خام
+grease, directly separable	شحوم قابلة للانفصال مباشرةً
+grease-proof paper	ورق مقاوم للدهون
+grease-resistant paper	ورق كتيم للدهون
+greaseproof paper	ورق مضاد للشحوم
+greasing	تشحيم
+greasy luster	بريق شحمي
+great circle	دائرة عظمى
+great diurnal range	أعلى مد يومي
+great-circle chart	خريطة دوائر عظمى
+great-circle course	مسار دائرة عظمى
+great-circle course; great-circle route	طريق دائرة عظمى
+great-circle track	مسلك دائرة عظمى
+Greater Gabbard	حقل رياح 'جريتر جابارد'
+GreatreX nozzle	فوهة جريتركْس
+greek architecture	معمارية إغريقية، عمارة إغريقية
+greek key-pattern	مشبكات مقطعة
+greek orders	أنماط إغريقية
+green	أخضر
+green accounting	محاسبة خضراء
+green aircraft	طائرة غضّة
+green airway	خط جوي أخضر
+Green Ammonia	أمونيا خضراء
+green area	مساحة خضراء
+green belt	حزام أخضر
+green building	بناء أخضر / مبنى أخضر
+green building or green design	مباني خضراء أو تصميم أخضر
+Green Charging Initiative	نظام التحكم في الشحن الأخضر
+green climate fund (gcf)	صندوق المناخ الأخضر (GCF)
+green coke	فحم صناعي
+green coke; thermal coke	كوك بِكْر، كوك حراري
+green concrete	خرسانة خضراء
+green density	كثافة غضّة
+green economic interests	مصالح اقتصادية خضراء
+green economy	اقتصاد أخضر
+green electricity	كهرباء خضراء / طاقة نظيفة / تيار الأخضر
+green electricity plant; green power plant; green power station	منشأة طاقة خضراء
+green electricity privilege	امتياز الكهرباء الخضراء
+green electricity; green power	تيار كهربائي أخضر
+Green Energy	طاقة خضراء / طاقة من مصادر الطاقة المتجددة
+Green Energy Act	قانون الطاقة الخضراء
+Green Energy Act (GEA)	قانون الطاقة الخضراء
+Green Energy Law	قانون الطاقة الخضراء
+green fertilizer	سماد طبيعي خام
+green globe/green globe 21	كوكب أخضر / كوكب أخضر 21
+green growth	نمو أخضر
+green head bit	مِدَقّ بعشر شفرات، مِثْقَب بعشر شفرات
+Green house gas (GHG)	غاز الاحتباس الحراريّ (GHG)
+Green Hydrogen	الهيدروجين الأخضر / هيدروجين أخضر
+green labelling; environmental labelling; eco-labelling; ecolabelling	وضع وضع البطاقات الإيكولوجية; لبطاقات الخضراء وضع البطاقات البيئية
+Green Light Optimal Speed Advisory (GLOSA)	الضوء الأخضر لاستشارة السرعة المثالي
+green logistics	الخدمات اللوجستية / الإمدادات الخضراء
+green manure crop	محاصيل السماد الأخضر
+green marketing	تسويق أخضر
+green minerals	معادن خضراء
+green power	طاقة خضراء / الطاقة الخضراء
+green power forum	منتدى الطاقة الخضراء
+green pricing	تسعيرة خضراء
+Green roof	سقف أخضر
+green run	تشغيل غضّ
+green scale	مقياس أخضر
+Green Steel	فولاذ أخضر
+green structural change	تحوّل إنشائي بيئي
+green tech	تكنولوجيا خضراء
+green tonne	طن أخضر
+green vehicle	تقنية تحرك بديلة/سيارة خضراء
+Green Vehicle Numberplate	لوحة أرقام خضراء
+green water	المياه الخضراء / مياه خضراء
+green water footprint	بصمة مياه خضراء
+green wave (lights)	موجة خَضْرَاءُ
+green wood	خشب أخضر
+Green World	جرين ورلد
+green zone	منطقة خضراء
+green-collar jobs	وظائف خضراء
+Green-Cotton®	جرين كوتون®
+greenalite	غرينالايت
+greenfield development	تطوير مرافق جديدة
+greenfield site	موقع حقل أخضر / موقع مطار غضّ
+greenhouse	بيت زجاجي / دفيئة / وَأم، دفيئة
+greenhouse effect	تأثير الصوبة / انحباس حراريّ / تأثير الاحتباس الحراري / ظاهرة البيت الزجاجي / ظاهرة الدفيئة / ظاهرة الاحتباس الحراري / احتباس حراري / (ظاهرة) الاحتباس الحراري
+greenhouse gas	غازات الاحتباس الحراري / غازات دفيئة الاحتباس الحراري / غازات دفيئة / غاز الاحتباس الحراري
+Greenhouse Gas (GHG)	غازات الاحتباس الحراري / غازات الدفيئة
+Greenhouse Gas Emissions (GHG Emissions)	انبعاثات غازات الاحتباس الحراري
+greenhouse gases	غازات الاحتباس الحراري / غازات دفيئة / غازات مسببة للاحتباس الحراري/غازات دفيئة
+greenhouse gases (GHG)	غازات الدفيئات / غازات الاحتباس الحراري
+greenhouse gases (ghgs)	غازات الاحتباس الحراري (غازات دفيئة)
+Greenhouse Gases Emissions Inventories	قوائم جرد انبعاثات غازات الاحتباس الحراري
+Greenland	غرينلاند
+greenness	اخضرار
+greenockite	غرينوكايت
+greensand	رمل أخضر
+Greensulate	جرين سولات
+greentea party	حزب الشاي الأخضر
+greenway	سبيل أخضر
+Greenwich	خط جرينيتش
+Greenwich apparent time	توقيت جرنيتش
+grege silk	حرير مُختبَر
+gregorian reflector antenna	هوائى عاكس غريغورى
+Greisser gate	بوابة 'جرايسر'
+Grelonda®	جريلوندا ®
+grelots	جَلَاجِل
+grenadine	جرينادين
+Grenz rays	اشعة غرينز
+Grex	جريكس
+Grey Ammonia	أمونيا رمادية
+grey body	جسم رمادي / جسم رمادى
+grey desert sol	تربة صحراوية رمادية
+grey filter	مرشِّح رمادي
+grey level	مستويات الرمادي
+Grey mole	خلد رمادي
+grey morning coat	بذلة الفروسية
+grey power	طاقة رمادية
+grey scale	تدريج الرمادي / تدريج رمادي / سلم رمادي / مقياس النغمات اللونية
+grey scale distortion	تشوه التدرج الرمادي
+grey scale tracking	تتبع التدريج الرمادي
+grey water	مياه قذرة رماديّة / مياه رمادية
+grey water / greywater	مياه رمادية
+grey water footprint	بصمة مياه رمادية
+grey wedge	إسفين رمادي
+grey-scale chart	مخطط درجات الرمادي
+grey-scale non-purity; white tracking error	عدم نقاوة درجات الرمادي
+greyout	غشاوة تسارعية / غشاوة رمادية
+grid	إطار شبكيّ / شبكة مربعات / شبكة
+grid (of an X-ray tube)	شبكة (أنبوب أشعة سينيةِ)
+grid acceleration time constant	ثابت زمن بدء تشغيل الشبكة
+grid bearing	زاوية اتجاهية تسامتية
+grid bias	انحياز الشبكة
+grid bias voltage	الجهد الوسطي لتشغيل الشبكة / جهد انحياز الشبكه
+grid capacity expansion	توسيع قدرة الشبكة
+grid co-ordinates	إحداثيات الشبكة المتسامتة
+Grid Code	كود الشبكة
+grid company	شركة الشبكة
+Grid Connected	مرتبط بالشبكة
+grid connected system	نظام مرتبط بالشبكة
+grid connection	ربط بالشبكة / توصيلة الشبكة
+grid connection agreement network connection agreement	عقد التوصيل بشبكة الكهرباء (NAV)
+grid connection capacity network connection capacity	سعة التوصيل بالشبكة الكهربائية
+grid connection contract network connection contract	عقد توصيل الطاقة الكهربائية
+grid connection point network connection point	نقطة التوصيل بالشبكة
+grid connection power network connection power	قُدرة مخرج الشبكة
+Grid Control Cooperation (GCC)	رابطة التحكم في الشبكات
+grid convergence	تقارب سمتي
+grid current	تيار الشبكه
+Grid Domain	نطاق الشبكة
+Grid Expansion Acceleration Act (entry into force 28.07.2011)	قانون تسريع توسيع الشبكة (دخل حيزالتنفيذ في 28.07.2011)
+grid expansion needs	الحاجة إلى توسيع الشبكة
+grid feed	تغذية الشبكة
+grid gas	غاز البعد
+grid heading	اتجاه سمتي
+grid input power; grid driving power	قدرة دخل الشبكة
+grid input voltage; grid driving voltage	جهد دخل الشبكه
+Grid Integration	نظام توصيل الشبكة
+grid integration network integration	تكامُل الشبكة الكهربائية / تكامل الشبكة
+Grid Interconnection	ربط بالشبكة
+grid leak	مسرِّب شبكي
+grid lines	خطوط الشبكة
+grid Linking point	نقطة ارتباط الشبكة
+grid load forecast	توقعات حمل الشبكة
+grid loss; network loss	فقدان الشبكة
+grid losses network losses	فواقد في الشبكة
+grid magnetic angle	زاوية مغناطيسية سمتية
+grid management system	نظام إدارة الشبكة
+grid modulation	تضمين شبكي
+grid necessity	ضرورة الشبكة
+grid North	اتجاه الشمال / شمال سمتي
+grid operator network operator	مُشغّل الشبكة
+grid oscillation network oscillation	تأرجح الشبكة
+grid parity	تكافؤ الشبكة / تعادل الشبكة / حد التكافؤ
+grid plan	مخطط شبكي، شبكية
+grid quality	جودة الشبكة
+grid roller	مِدْمَاكٌ شبكي / مِحْدَلة شبكية، مدكاة شبكية
+grid safety	أمن الشبكة
+grid Safety Management	إدارة أمن الشبكة
+grid security	أمن الشبكة
+grid security; network security	أمان الشبكة
+grid simulation	محاكاة الشبكة
+grid solar power system	شبكة نظام الطاقة الشمسية
+grid stability	استقرار الشبكة
+grid storage	تخزين شبكي
+grid system operator	مشغل نظام الشبكة
+grid ticks	دليل الشبكة
+Grid to Vehicle (G2V)	من الشبكة إلى السيارة / من الشبكة إلى المركبة (G2V)
+grid tray	صينية شبكية، صينية ذات شبكة
+grid user network user	مُستخدم الشبكة
+grid utilization	استهلاك الطاقة
+grid utilization billing	فاتورة استهلاك الطاقة
+grid utilization fee	رسوم استخدام الشبكة
+grid variation	تغير شبكي
+Grid Violation	تعدٍ على الشبكة
+grid-connected operation	تشغيل متصل بالشبكة
+grid-connected system	نظام مرتبط بالشبكة
+grid-controlled arc discharge tube	صمام تفريغ شحنة قوسِ بتحكم شبكة
+grid-independent operation; isolated operation	تشغيل غير متصل بالشبكة؛ تشغيل منعزل
+grid-tie inverter	عاكس مرتبط بالشبكة / محوّل تيار عكسي مُرتبط بالشبكة
+Grid-Tied Inverter	عاكس متصل بالشبكة
+grid/cathode driving voltage; modulation voltage	جهد شبكة قيادة المهبط
+grid; net	شبكة
+gridding plate	لوحة تربيع
+Griffith wing	جناح جريفيث
+Grilene fibers	ألياف جريلين ®
+grillage	شبكة الجوائز
+grillage foundation	أساس شبكيّ / قاعدة شبكية
+Grille	شبيكة
+grilled pipe; finned pipe	أنبوب بزعانف
+grills	مُصبَّعات
+Grilon fibers	ألياف جريلون ®
+grind	سَحْن
+grind out	اختبار عينة نفط خام بآلة نابذة، محتوى النفط الخام بالماء و الرواسب
+grinder (of glass, diamonds, etc)	ماسة الزجاج
+grinder spindle	عمود إرجاع
+grinding	بلى / سحق / طحن
+grinding machine	آلة الطَّحْن
+grinding materials	مواد الطَّحْن
+grinding mill	طَاحُونَة
+grinding of valves	شحذ الصمامات
+grinding slip	مشحذ، مسنّ
+grinding the head	شكل سطح المكبس
+grinding wheel	عَجَلَة شَحْذ، دولاب شحذ
+grindstone	حجر مسن
+grip	تشبث الإطار بالطريق / كَلَّابَة / قِبْض، شَدّ، مِلْقَط تعليق
+grip length	طُول التماسك
+grip map	مَصْوَر شبكي
+grip of tyres	تشبث الإطارات
+grip range	مدى الاستحواذ / مدى القبضة
+gripper	قابض
+gripping power	قدرة التعليق
+grisaille	ترميد
+Grisuten fibers	ألياف جريستون ®
+grisé	جريزي
+grit	حصى / حصويات / حجر رملي خشن
+grit chamber	حوض فصل الحصى والرمل / حجرة الحصويات
+grit chamber scraper	منشأة فصل الحصى
+grit chamber, aerated	منشأة إزالة الرمال مهوية
+grit classifier	مُصنِّف الحصى والرمل
+grit content	محتوى الجريش
+grit elevator with compressed air pumps	منظومة رفع الرمل بمضخات تعمل بالهواء المضغوط
+grit elevator with mammoth pumps	منظومة رفع الرمل مزودة بمضخات عملاقة
+grit filter; sand filter	مرشِّح رمليّ
+grit removal	إزالة الحصويات
+grit separator	منشأة إزالة الرمال
+grit washer	مغسل الحصويات
+grit washer / grit separating device	مُصنِّف
+grit washing sludge	حَمْأَة ناجمة عن غسل الرمل
+grit washing system; plant	مُنشأة غسل الرمل
+grits	حُبَيْبَات
+gritstone	حجر رملي خشن
+gritting	صرير / تَحْصِيب
+grivation	زاوية سمتية
+grizzle bricks	آجر مشوه
+grizzly	غربال ضخم
+grograin weave	تركيب نسجي حُبَيْبِي
+groin	حنية
+groined vault	قبو متصالب السقوف
+grommet	خلدة / عروة
+groove	أخدود / حُزّ، تخذير / حزّ، أخدود / مجرى
+groove and tongue	حزّ ولسان
+groove angle	زاوية الأخدود / زاوية الحزّ
+groove depth	عمق الأخدود
+groove guard	حماية الأخدود
+groove jumping	قفزة في الأخدود
+groove plane	مسحاج التحزيز أو التخديد
+groove shape	شكل الأخدود
+groove speed	سرعة أخدودِ
+groove weld	لِحَام الحز، لِحَام الجَبِينية
+groove width	عرض الأخدود
+groove with variable depth	أخدود بعمق متغيّر
+groove with variable pitch	أخدود بخطوة متغيّرة
+grooved bit	نصلة محزّزة أو مخدّدة
+grooved cable; slotted core cable	كابل مخدّد سلك مشقب اللب
+grooved drum	أسطوانة مُحَزَّزة
+grooved hearth furnace	فرن بموقد محزز
+grooved rail	سكة مُخَدَّدَة
+grooved runway	مدرج محزوز
+groover	آلة تحزيز
+grooving	تحزيز، تخديد
+grooving chisel	إزميل تحزيز
+grooving cutter	نصل أو سكين محزّزة
+grooving iron	سكين تحزيز
+grosgrain	نسيجٌ مُضلَّع
+gross additions	تكاليف إجمالية لمنشآت مضافة
+gross altitude scale	مقياس الارتفاع الإجمالي
+gross annual increment	زيادة سنوية إجمالية
+gross area	مساحة إجمالية (المنطقة بأكملها) / مساحة إجمالية
+gross average heat rate of a unit	متوسط المعدل الحراري الأجمالي للوحدة
+gross calorific value	قيمة حرارية نوعية / قيمة (ال...) التسخينية النوعية
+gross calorific value (GCV )	القيمة السعرية الإجمالية
+gross ceiling	ارتفاع أقصى إجمالي
+gross contract	عقد إجمالي
+gross demand	طلب إجمالي
+gross domestic product	ناتج محلي إجمالي
+gross domestic product (GDP)	الناتج المحلي الإجمالي / إجمالي الناتج المحلي / إجمالي الناتج المحلي (GDP)
+gross dry weight	وزن جاف إجمالي
+gross electricity consumption	إجمالي استهلاك التيار / إجمالي استهلاك الكهرباء
+gross final energy consumption in 2020 forecast	الاستهلاك النهائي للطاقة الإجمالي في توقعات 2020
+gross flight performance	أداء الطيران الإجمالي
+gross flightpath	ممر الطيران الإجمالي
+gross head	ضاغط (ال..) الكليّ / علو إجمالي
+gross head of a hydroelectric power station	الضغط الاجمالي لمحطة توليد مائي
+gross heat output of the back-pressure heat and power station	إجمالي الخرج الحراري لمحطة القدرة والحرارة ارتدادية الضغط
+gross height	ارتفاع إجمالي
+gross interception loss	فاقد الاعتراض الإجمالي
+gross irrigable area	رُقْعَة كلية قابلة للريّ
+gross lift	رفع إجمالي
+gross lift area	رُقعة (ال..) الكلية للريّ بالرفع
+gross maximum capacity gross bottleneck capacity	إجمالي القدرة القصوى
+gross national happiness (gnh)	سعادة قومية إجمالية (GNH)
+gross national product	ناتج قومي إجمالي
+gross national product (GNP)	الناتج الوطني الإجمالي / ناتج وطني إجمالي (GNP)
+gross output of a power station	الخرج الكلي لمحطة توليد
+gross output of a set	الخرج الكلي لمجموعة
+gross oxygen transfer efficiency in clean water	كِفاية نقل إجماليّ الأكسجين في المياه النقية
+gross oxygen transfer efficiency under process conditions	كِفاية نقل إجماليّ الأكسجين تحت ظروف التشغيل
+gross performance	أداء إجمالي
+gross power	قدرة إجمالية
+Gross Power Generation	الطاقة الإجمالية المولدة / إجمالي القدرة الكهربائية المتولدة
+gross profile	جانبية الطيران الإجمالية
+gross reservoir capacity / total reservoir capacity	سَعَة الخزان الكلية
+gross section	مقطع إجمالي
+Gross Standard Volume	الحجم القياسي الإجمالي
+gross storage	تخزين إجماليّ
+gross thermal efficiency of a unit	الكفاءة الحرارية الاجمالية للوحدة
+gross thrust	دفع إجمالي
+gross traffic hauled	إجمالى حركة المرور للشحن
+gross value added	قيمة مضافة إجمالية
+gross vehicle weight	الوزن الإجمالي
+gross vehicle weight, (G.V.W.)	وَزْن السيارة الإجمالي
+Gross Volume	الحجم الإجمالي
+gross weight	وزن إجمالي
+grossularite	غروسيولارايت
+groud water flow around a borehole	تسريب البئر الأنبوبية
+ground	أرضي / أرض / الكرة الأرضية / غير صالح للطيران / تَأْرِيض / توصيلة أرضية
+ground / soil	تُربة
+ground air	هواء التربة
+ground air vehicle	مَركبة أرضية جوية
+ground alert	استنفار أرضي
+ground angle	زاوية أرضية
+ground based duct; surface duct	مجرى موجود على الأرض
+ground beam	جائز أرضيّ (شيناج)
+ground clearance	الخلوص الأرضي / خلوص أرضي / خُلوص أرضي
+ground clutter	اضطراب أرضي
+ground coat	طبقة أساسية
+ground contact	تلامس أرضي / اتصال أرضي
+ground contact area	مساحة تلامُس الإطار مع سطح الطريق
+Ground Continuity Test	اختبار التوصيل الأرضي
+ground control	مراقبة أرضية
+ground coordinates	إحداثيات أرضية
+ground cover	غطاء الأرض
+ground crew	طاقم أرضي
+ground culvert	بَرْبخ أرضيّ
+ground cushion	وسادة أرضية
+ground effect	تأثير أرضي
+ground elapsed time	زمن أرضي منقضي
+ground electrical	تأريض كهربائي
+ground environment	بيئة أرضية
+ground equipment	معدات أرضية
+ground fine pitch	خَطَران أرضي دقيق
+ground fire	نيران أرضية
+ground floor	طابق أرضي
+ground fog	ضباب أرضي
+ground formation	تحسين التربة
+ground frame operation	تشغيل أرضى
+ground glass	زجاج مشدوف
+ground half-coupling	معدات أرضية مرتبطة / معدات أرضية مقترنة
+ground handling equipment	معدات مناولة أرضية
+ground hold	إمساك أرضي
+ground horizon	أفق أرضي
+ground ice	جليد أرضي / جليد قعر النهر
+ground idle	سرعة الخمول الأرضية
+ground joint cover	غطاء بوصلةُ مُفرَّزة
+ground liaison	ضابط اتصال أرضي
+ground loiter	تلكُّؤ أرضي
+ground loop	حلقة الأرض / أنشوطة أرضية / التفاف أرضي
+ground measurement equipment	جِهاز قياس مواصفات التربة
+ground measurements	قياسات أرضية
+ground moraine	رُسابة جليدية أرضية
+ground movement control	تنظيم النقل البري
+ground nadir	حضيض أرضي / نظير السمت الأرضي
+ground observer	راصد أرضي / مراقِب أرضي
+ground plan	مخطط الطابق الأرضي
+ground plane	بساط تأريض / مستوي تأريض
+ground plate; groundsel; ground sill	خشبة الأساس
+ground position	موقع أرضي
+ground power unit	وحدة قدرة أرضية
+ground pressure distribution	توزيع الضغط على الأرض
+ground radar aerial delivery	تسليم جوي برادار أرضي
+ground readiness	استعداد أرضي
+ground relay	مُرَحِّل أرضي
+ground resonance	رنين أرضي
+ground return	رَجْع أرضي
+ground roll	مسافة التدحرج الأرضي
+ground run	مسافة الركض الأرضي
+ground seat union	قارنة أنابيب من قطعتين متداخلتين وحلقة مسنَّنَة
+Ground Shine	لمعان أرضي
+ground signal; dwarf signal	اشارة ارضية
+ground signals	إشارات أرضية
+ground speed	سرعة أرضية
+ground spoiler	مُفسِد الرفع الأرضي
+ground start	بدء تشغيل أرضي
+ground state	حالة أرضية (أقل مستوى للطاقة)
+ground support equipment	معدات خدمة أرضية
+ground surface	سطح الأرض
+ground swing envelope	غلاف الانحراف الأرضي
+ground system (of an antenna); earth system	نظام التأريض (للهوائي)
+ground table	مدماك الأساس، عرقة الأساس
+ground test	اختبار أرضي
+ground test coupling	قارن اختبار أرضي
+ground trace	أثر أرضي
+ground track	مسلك أرضي
+ground upset	إتلاف أرضي
+ground visibility	رؤية أرضية
+ground water	المياه الجوفية
+ground water flow	تدفق المياه الجوفية
+ground water surface / phreatic surface	منسوب سطح المياه الجوفية
+ground wave	موجة أرضية
+ground wire	سلك أرضي
+ground zero; surface zero	صفر أرضي
+ground(s); terrain	حَقْل
+ground-adjustable propeller	داسر ذو تعديل أرضي
+ground-control approach system	هبوط بتحكّم أرضي
+ground-controlled approach	اقتراب بالتحكم الأرضي / اقتراب بالتوجيه الأرضي
+ground-controlled interception	اعتراض بالتوجيه الأرضي
+ground-fine-pitch stop	حاجزالخطران الأرضي الدقيق
+ground-hook control	تحكم باستراتيجية الخطاف الأرضي
+ground-level ozone	أوزون الأجواء القريبة من الأرض
+ground-performance aircraft	طائرة أداء أرضي / طائرة مناورة أرضية
+ground-plane antenna	هوائي مستوي أرضي
+ground-position indicator	مبيِّن الموقع الأرضي
+ground-proXimity eXtraction system	نظام استخلاص تقاربي أرضي
+ground-reflected solar radiation	إشعاع شمسي أرضي مُنعكِس
+ground-running	زمن التشغيل الأرضي
+ground-running time	زمن تشغيل أرضي
+ground-speed mode	نمط السرعة الأرضية
+ground-water replenishment	إعادة الشحن المستحثة لمستودع ماء أرضيّ (عن طريق مجرى مائيّ)
+ground-water storeys	طبقات المياه الجوفية
+groundcover	تغطية أرضية
+grounded	مُؤَرَّض
+grounding	أساس / التأريض في السيارة / تأريض
+grounding of boat	جنوح سفينة
+grounding pole or rod	قطب التأريض
+groundmass	أرضية
+groundwash	اجتراف أرضي
+groundwater	مياه جوفية
+groundwater accretion; groundwater in crement	زيادة المياه الجوفية
+groundwater basin	حَوْض مائيّ جوفي
+groundwater body	حَوْض مائيّ جوفيّ / كتلة المياه الجوفية
+groundwater cascade	شَلاَّل تعاقبيّ للمياه الجوفية
+groundwater catchment area / groundwater province	مِنطقة مياه جوفية
+groundwater contamination	تَلوث المياه الجوفية
+groundwater contour / water-table contour	مستوى سطح المياه الجوفية
+groundwater dam	سَدّ مائيّ جوفيّ / سد جوفي
+groundwater dating	مسار زمني للمياه الجوفية
+groundwater decrement	انخفاض منسوب المياه الجوفية
+groundwater depletion	استنزاف المياه الجوفية
+groundwater depletion curve	منحنى استنزاف المياه الجوفية
+groundwater desalination	تَحْلية المياه الجوفية
+groundwater discharge	تصريف المياه الجوفية
+groundwater divide	قاسم مائيّ جوفيّ / تدفق المياه الجوفية
+groundwater emergence / natural groundwater discharge	تَسُّرب منصرف للخارج
+groundwater equation	مُعادلَة المياه الأرضيّة
+groundwater flow	جريان جوفي / تدفق تحت سطح الأرض
+groundwater flow / groundwater runoff	جَرَيان مائيّ جوفيّ
+groundwater infiltration (GWI)	رشح المياه الجوفية
+groundwater isohypse	خط كنتوريّ للضاغط المتساوي
+groundwater law	قانون المياه الجوفية
+groundwater level	منسوب المياه الجوفية / منسوب المياه الجوفيةمنسوب المياه الجوفية
+groundwater mining	استخراج المياه الجوفية
+groundwater mining/ overexploitation	فرط الاستغلال
+groundwater monitoring well	بئر رصد المياه الجوفية
+groundwater mound	ربوة مياه جوفية
+groundwater overexploitation	استنزاف المياه الجوفية
+groundwater protection	حماية المياه الجوفية
+groundwater recession	نضوب المياه الجوفية
+groundwater recession curve	مُنحنى انحسار المياه الجوفية
+groundwater recharge	إعادة شحن الطبقة الحاملة للمياه الجوفية / تغذية المياه الجوفية / رفد المياه الجوفية
+groundwater regeneration / groundwater renewal	تَجَدُّد المياه الجوفية
+groundwater reserve	احتياطي المياه الجوفية
+groundwater reserves	كمية المياه الجوفية المُتاحة
+groundwater reservoir	خَزَّان مياه جوفية / خزان المياه الجوفية
+groundwater resources	مَصَادِر المياه الجوفية
+groundwater salinization	تَمَلُّح المياه الجوفية
+groundwater storage	مخزون المياه الجوفية
+groundwater storage curve	مُنحنى مخزون المياه الجوفية
+groundwater surface (table)	مستوى المياه الجوفية
+groundwater table	كِفاف (كنتور) سطح المياه الجوفية / منسوب المياه الجوفية / سَطْح المياه الجوفية
+groundwater trench	خندق ماء جوفيّ
+groundwater turbulent flow	تدفق مضطرب للماء الأرضيّ
+group	مجموعة (باقة)
+group / concern (business) / corporate group	اتحاد شركات
+group A (obsolete term); basic group A (deprecated)	مجموعة أساسية (أ) (باقة)
+group a: tropical/megathermal climates	مجموعة ألف: مناخات استوائية / مرتفعة الحرارة
+group address	عنوان المجموعة
+group alarm	معلومات دائمة
+group b: dry (arid and semiarid) climates	مجموعة باء: مناخات جافة (قاحلة وشبه قاحلة)
+group button	زر مجموعة
+group c: temperate/mesothermal climates	مجموعة جيم (C): مناخات معتدلة / متوسطة الحرارة
+group call (in a maritime mobile service)	نداء جماعي ( في خدمة الملاحة الجوالة )
+group carrier frequencies	ترددات حامل مجموعة أولية
+group certification; grower group certification	إصدار; الشهادات لمجموعات المربين إصدار الشهادات الجماعية
+group command	أمر اختيار
+group control level	مستوى تحكم فى المجموعة
+group d: continental/microthermal climates	مجموعة (D): مناخات قارية / مكروحرارية (مناخات محدودة المساحة)
+group delay	تأخير المجموعة / تأخر المجموعة (زمن انتشار المجموعة) / زمن انتشار المجموعة
+group delay distortion	تشوه تأخير المجموعة
+group delay equalization	تعادل تأخر المجموعة
+group delay time	زمن تأخير المجموعة
+group delay/frequency distortion ; envelope delay distortion	تشوه تأخير مجموعة / تردد
+group directive; group Directive + 'title'	توجيه مجموعة
+group directory	دليل المجموعة
+group distribution frame	موزع باقات؛ موزع مجموعات
+group e: polar and alpine climates	مجموعة (E): مناخ المناطق القطبية والألبية
+group felling	قطع مجموعات
+group flashing light	ضوء متعدد الوميض
+group index	دليل مجموعة / دَالَّة المجموعة
+group link	وصلة مجموعة
+group modulating equipment	معدات تكييف المجموعة (الباقة)
+group of 77 (g-77)	مجموعة 77
+group of 77 and china	مجموعة 77 والصين
+group of latin american and caribbean states (grulac)	مجموعة دول أمريكا اللاتينية والكاريبي
+group of mountain landlocked developing countries	مجموعة البلدان النامية الجبلية غير الساحلية
+group principle, group structure	مبدأ المجموعات، بنية المجموعات
+group reference pilot	مجموعة إشارة دليلية مرجعيه
+group section	قسم مجموعة
+group selector	مفتاح اختيار لمجموعة
+group size	حجم المجموعة
+group translating equipment; group bank (US)	معدات تحويل المجموعات؛ معدات تحويل الباقات
+group valuation	تقييم مجموعة
+group velocity	سرعة المجموعة / سرعة مجموعة / سرعة جماعية
+group velocity (vector)	(متجه) سرعة مجموعة
+group velocity,	سرعة مجموعات المياه,
+group wavelength	طول موجة المجموعة
+group; set	مجموعة
+grouping	تجميع
+grousers	متذمر
+grout	سائل الحْقن / مونة إسمنتية مائعة / حقين / ملاط سائل، روبة
+grout curtain	سِتارة حَقْن / سِتارة من المونة / ساتر من الحقين
+Grout, grout curtain	جص، جص عازل
+grouted asphalt	إِسفَلت حَقِين
+grouted macadam	مِكْدَام مُسَمنَت، مِكْدَام مَحْقُون
+grouting	حَشْو / حَقْن / تَحصِيب / تطيين بملاط سائل، تكحيل الآبار بالأسمنت
+grouting cementation	حقن بالإسمنت
+grower group	مجموعة مربين
+growing by pulling (of a single crystal); growing by Czochralski’s method	نمو بالسحب (لبلورة احادية)
+growing by zone melting (of a single crystal)	نمو بانصهار منطقة (لبلورة احادية)
+growing energy requirement; growing energy demand; growing energy needs	زيادة الطلب على الطاقة
+growing of wood	نموّ الخشب
+growing seasons	موسم النمو
+growing stock	مخزون نامي
+growler	نعّارة
+growler board; lazy board	دُفّ (مسند) توصيل الأنابيب، مِنَصَّة التعليق
+grown junction	وصلة نامية
+grown wind farms	مزارع الرياح المتزايدة
+growth	نمو
+growth (Biology)	نمو (بيولوجيا)
+growth / increase	نُمُوّ
+growth coefficient	معامل النمو
+growth form	شكل النمو
+growth management	إدارة النمو
+growth period	فترة النمو
+growth promoter; growth regulator	للنمو محفز )محرض النمو( للنمو؛ منظم
+growth ring; annual ring	حلقة النمو، حلقة نمو حولية
+growth rings	حلقات النمو
+growth twinning	توأمة النمو
+growth zones	مناطق النمو
+GRP	لدائن مقوّاة بالألياف الزجاجية
+grubbing up	اجتثاث الجذور
+grunerite	غرونيرايت
+grunge	غرانج
+grunt manoeuvre	مناورة زاعقة
+Gryphone	جريفون
+Grätzel cell	خلية جريتزل (Grätzel)
+GSM-R	نظام تواصل سككي متنقل عالمي
+gsross (total energy consumption) (GFEC)	استهلاك إجمالي للطاقة
+Guanaco	غواناكو
+guanaco wool	صوف الغوناق
+guanine	جوانين
+guarantee of origin	ضمان المنشأ، إثبات المنشأ
+guaranteed rating	معدل الضمان / معدَّل مضمون
+Guard	مرافق
+guard band	حزمة حارسة
+guard for planing (cutter)	غطاء سكين المسحاج
+guard gate	بوابة أمان
+guard hair	وبر خشن
+Guard Irons	طاردة أحجار
+guard post; bouteroue	مِصْدَم العجلات
+guard rail	حاجز أمان / القضيب الحارس
+guard rails	حواجز واقية
+guard ship	سفينة حراسة
+guard time (in TDMA)	وقت الحراسة (في أسلوب تبادل البيانات
+Guard wagon	عربة صدم
+guard wires	أسلاك الحماية
+guard's position	مركز المراقبة
+guard-rail	حَاجِز أَمَان
+guarded switch	مفتاح محصَّن
+guardhood	غطاء الوقاية
+guarding	حِراسَة
+guarding (in v.f. signalling)	حراسة (في تشوير تردد صوتي )
+guards van	قاطرة المرافقين
+Guardscoat pleat	طية المعطف
+guardship	طائرة إنقاذ / طائرة تحرُّز / طائرة حماية
+guardsman coat / officer’s coat	معطف الحارس
+gudgeon (in stonework)	آصرة
+gudgeon pin	بنز الكبّاس / مسمار رسخ المكبس
+gudgeon pin; knuckle pin	مسمار رسغي
+guench (or guenching) oil	زيت اسقاء لتبريد المعادن، زيت تبريد أبخرة التكسير
+Guess-O-Meter (GOM)	مقياس التخمين
+guidance	إرشاد
+guidance magnet	مغناطيس الدَّلَالَة
+guidance radar	رادار إرشاد / رادار توجيه
+guidance system	نظام إرشاد / نظام توجيه
+guide	موجّه؛ مرشد ، دليل / دليل / مُرشِد
+guide / guideline	خط إرشاديّ
+guide / guideline (advice) / guideline / outline	خط إرشاديّ
+guide bank / guide wall / divider wall	ضفّة مُرتدة
+guide bearing	مَحمَل دَلِيلِيّ / كرسي تحميل دليلي؛ محمل دليلي
+guide electrode; transfer electrode	قطب ارشادي (دليلي)
+guide fossil	مستحاثة دليل، أحفورة دليل
+guide lever	رافعة توجيه
+guide mark	علامة دالّة
+guide mineral	معدن مُرشِد
+guide rope	حبل توجيه
+guide shoe	كعب دليلي، نعل التوجيه
+guide sleeve	كم دليلي
+guide vane	ريشة توجيه
+guide vane (tech.)	ريشة توجيه (هندسة) / دِرْع (هندسة)
+guide-book	دليل
+guide-surface canopy	مظلة توجيهية
+guide; guidance	توجيه
+guide; overshot part	دليل
+guided bomb	قنبلة موجّهة
+guided electromagnetic wave; guided wave	موجة كهرومغناطيسية موجهة / موجة كهرومغناطيسة موجهة
+guided missile	قذيفة موجّهة
+guided propagation	إنتشار موجّه (لموجات كهرومغناطيسية)
+guided weapon	سلاح موجّه
+guidelines for electromobility funding	مبادئ توجيهية لتمويل التنقل الكهربائي
+Guidelines for Standardized Instrument Testing of Cotton	الدليل المستخدم لجهاز فحص خصل الشعيرات هونتر
+guidelines for water resources development co-operation	خطوط إرشادية للتعاون في مجال تحسين موارد المياه
+guideway clearance	دليل المسافة الأمنة للأشخاص
+guillotine	مقص جيلوتين
+guillotine attenuator	موهّن مقصلي
+guipure lace	دانتلا بتَخْرِيم
+gul (gull)	نَوْرَس
+Gulf Cooperation Council Interconnection Authority (GCCIA)	هيئة الربط الكهربائي لدول مجلس التعاون لدول الخليج العربية
+Gulf Petrochemical Industries	شركة الخليج لصناعة البتروكيماويات
+gulf ports	موانىء الخليج
+Gulf stream	تيار الخليج
+gull wing	جناح النَّورس
+gull-wing door	باب جناح النَّورس
+gully	أُخدُود / بالوعة
+gully / sink trap / street inlet	أُخدود
+gully erosion	تآكل أخدودي
+gully head	رأس أخدود
+gully top	غِطاء بالوعة
+gully trap	سيفون تهوية
+gully; gulley	مسيل ماء
+gully; sink trap	أُخدود
+gum	صمغ / صمْغٌ / صَمْغ
+gum dragon	صمغ التنين
+gum inhibitor	مانع التصمُّغ
+Gumbel distribution	توزيع 'جامبل'
+gummer	آلة تغرية، آلة تصميغ
+gumming	تصميغ
+gumming machine	صمّاغة
+gun	مسدس / مِدفع / يدفع المحرك
+gun club stripes	خطوط النادي
+gun cross	المدفع جاهز
+gun gas	غاز المدفع
+gun jump	وَثْب المدفع
+gun metal	بُرُنْزالمدافع
+gun pack	ربطة مدفع / مجموعة مدفع
+gun perforating	ثَقْب بالطلقات، تثقيب بالمسدس
+gun perforation	تثقيب (أنبوب التغليف) بقدائف صلبة، ثَقْب بالطلقات
+gun time per engagement	زمن النار في الاشتباك
+gun-type weapon	سلاح نووي مِدفعي
+gunbore line	خط أنبوبة المدفع
+gunite	خرسانة مقذوفة
+gunite; shotcrete	خَرسانة مقذوفة
+Gunk	جَنْك
+gunlaying radar	رادار تسديد المدافع
+Gunn oscillator	مذبذِب جَن
+gunner's quadrant	مِزْوَلَة المدفعي، مِزْوَلَة أبعاد
+gunroom	غرفة الاستراحة
+gunship	طائرة مِدفعية
+gunsight line	خط المِهداف
+Guppy	طائرة نتوئية
+gurnet	سَمَك طَيَّار
+gusher; gushing well	بئر دَافقة نافُورية، بئر فَوَرَانية
+gusset	لوح التقوية / لوح تقوية
+gusset plate	لوح تجميع / لوح وصل، مُجَمِّعة
+gusset; gusset plate	لوح تقوية
+gust	زوبعة ، هبوب الرياح / عَصْفة
+gust alleviation	تخفيف العَصْفة / تلطيف العصفة
+gust alleviation factor	عامل تخفيف العَصْفة / عامل تلطيف العصفة
+gust curve	منحني العَصْفة
+gust envelope	غلاف العَصْف
+gust loading	حِمل العَصْف
+gust locks	قَفْل العَصْف
+gust response	استجابة العَصْف
+gustiness factor	عامل شدة العَصْف الأفقي
+GuT	علامة 'جوت'
+gutter	مسيل ماء / أخدودي / سيالة، مجرى تصريف، مزراب
+gutter bearer	حامل السيالة، حامل المزراب
+gutter board; cornice	إفريز، طنف
+gutter, eaves	مِزْراب معلق من الخارج
+gutter, long	مِزْراب طويل
+gutter, short	مِزْراب قصير
+gutter; channel	ميزاب، مجرى (أو قناة) لأسلاك كهربائية
+guttering	مجاري
+Guttman	مقياس جَتمان
+guy anchor	مِرْبَط حبال التثبيت / مُثبت حبل الإرساء
+guy line; guy câble	رِبَاط، وِثاق
+guy radius	نصف قطر أحبال الإرساء
+guy wire	سلك التثبيت، كَبْل الشد، كَبْل التثبيت
+guy-wire	سلك شدّاد
+guyed derrick	بُرْج حَفْر مشدود (بالشدادات)
+guyed mast	ساري مسند
+guyed portable mast	عمود متنقل مشدود
+gyppy	جصّي
+gyps-base mud	طين بالْجَص
+gypsum	جبس / جِبْس / جبس (ال...) / جِصٌّ
+gypsum cement	أسمنت جَصِّي
+gypsum lath	ساجة جبسية
+gypsum mud	طين جَصِّي
+gypsum plaster	بياض جبس
+gypsum plate	شريحة الجِصّ
+gypsy look	أسلوب غجري
+gypsy queen	ملكات جيبسي
+gyrator	مدوّم (دوّار )
+gyratory shear compactor	ضاغطة محورية
+gyratory traffic	مرور دوّار
+gyro	جَيرو
+gyro angling gain	كَسْب زاوي للجَيروسكوب
+gyro gunsight	مِهداف جَيروسكوبي
+gyro log	سجلّ الجَيروسكوب
+gyro radius; Larmor radius	نصف قطر الدوران
+gyro time constant	ثابت الجَيروسكوب الزمني
+gyro vertical	اتجاه الجَيروسكوب الرأسي
+gyro-frequency; cyclotron frequency	تردد جيروسكوبى
+gyro-magnetic compass	بوصلة تدوين مغناطيسية
+gyrocompass	بوصلة جَيروسكوبية
+gyrodyne	جَيروداين
+gyrograph	راسم الجَيروسكوب
+gyrohorizon	أفق جَيروسكوبي
+gyroidal	جيرويدي
+gyrolite	جَيرولايت
+gyromagnetic coefficient (of an electron); gyromagnetic ratio (deprecated)	تأثير فاراداي
+gyromagnetic compass	بوصلة مغناطيسية جَيروسكوبية
+gyromagnetic device	مادة جيرومغناطيسي
+gyromagnetic device; gyrator (deprecated in this sense)	أداة مغناطيس دوّار
+gyromagnetic effect	تأثير الجيرومغناطيسية / لفات مساحة (لملف البحث) / تأثير المغناطيسية الدوّارة
+gyromagnetic filte; YIG filter (deprecated); garnet filter (deprecated)	مُرشح مغناطيسية دوارة
+gyromagnetic filter; YIG filter (deprecated); garnet filter (deprecated)	عازل لعنصر مجمع
+gyromagnetic material	مادة مغناطيسية دوّارة
+gyromagnetic material; gyromagnetic medium	مادة جيرومغناطيسية / رنين جيرو مغناطيسي
+gyromagnetic medium	وسط مغناطيسى دوّار
+gyromagnetic power limiter	مرشح جيرومغناطيسى / مُحدِّد قدرة لمغناطيسية دوارة
+gyromagnetic ratio	نسبة المغناطيسة الدوّارة
+gyromagnetic resonance	معامل جيرو مغناطيسي (للإلكترون) / رنين المغناطيسية الدوّارة
+gyromagnetic resonance loss	فقد متبقي
+gyromagnetic resonator	جهاز جيرومغناطيسي / مرنان مغناطيس دوّار
+gyropilot	طيار جَيروسكوبي
+gyroplane	طائرة جَيرو
+gyroscope	جَيروسكوب / مكشاف التدويم
+gyroscopic compass	بوصلة تدوينية
+gyroscopic inertia	عطالة جَيروسكوبية
+gyrostabilized	موازَن تدويمياً / موازَن جَيروسكوبياً
+gyrostat	سكون تدويمي / سكون جَيروسكوبي
+Gyrosyn	جَيروسِن
+Göttingen-type tunnel	نفق جوتنجن الهوائي

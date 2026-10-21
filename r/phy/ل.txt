@@ -1,0 +1,142 @@
+لا اختراقية	impenetrability
+لا امتزاجيّة	immiscibility
+لا انثنائي	inflexible
+لا انثنائية	inflexibility
+لا انضغاطي	incompressible
+لا انضغاطية	incompressibility
+لا تزامن	asynchronism
+لا تلفيّة	indestructibility
+لا تمايز	indistinguishability
+لا تناحي	anisotropy
+لا تناظر	asymmetry
+لا خطية	nonlinearity
+لا زيغي	aplanatic
+لا فلز	non-metal
+لا لونية	achromaticity / achromatism
+لا متجانس	inhomogeneous; hetergeneous
+لا متناهٍ في الصغر	infinitesimal
+لا متوازن	unbalanced
+لا مرئي	invisible
+لا مركزي	eccentric
+لا مركزية، تباعد مركزي	eccentricity
+لا مرن	inelastic
+لا نفاذيّة	impermeability
+لا نفاذية حرارية	athermancy
+لا نقطية	astigmatism
+لا نقطية قطرية	radial astigmatism
+لا نهاية	infinity
+لا يتلف	indestructible
+لااتجاهيات الخواص	isotropics
+لابلاسي	laplacian
+لابِلَّوْري	amorphous
+لاتجاهي الخواص	isotropic
+لاتزامن (ال...)	asynchronism
+لاتناحٍ مغنطيسي	magnetic anisotropy
+لاتناحي بلوري	crystal anisotropy
+لاتناظر	asymmetry
+لاتوازن	unbalance
+لاتوافقية (ال...)	anharmonicity
+لاخطية	non linearity
+لادار	ladar
+لادوري	aperiodic
+لاسلكي	wireless
+لاعكيسية (ال...)	irreversibility
+لافلز	non metal
+لاقط	pick-up
+لاقط صوت ضغطي	piezomicrophone
+لاقط صوت فحمي	carbon microphone
+لاقطبي	non polar
+لاقطة صوت	microphone
+لاقطة صوت اتجاهية	directional microphone
+لالوني	achromatic
+لالونية	achromaticity; achromatism
+لامبرت	lambert
+لامتناهي	infinite
+لامركزي	eccentric
+لامركزية	eccentricity
+لانتانوم	lanthanum
+لانثانيدات	lanthanides
+لانفاذية حرارية	athermancy
+لانفوذيَّة	impermeability
+لانقطي	astigmatic
+لانقطية (ال...)	astigmatism
+لانقطية العدسة	astigmatism of lens
+لانقطية العين	astigmatism of eye / eye astigmation
+لبّ	core
+لب ابتدائي (ن)	initial core
+لب المحول	transformer core
+لب المفاعل (ن)	reactor core
+لب المفاعل؛ قلب المفاعل	reactor core
+لب متوازن (ن)	equilibrium core
+لبتون	lepton
+لدونة	plasticity
+لزوجة	viscosity
+لزوجة حركية	kinematic viscosity / kinematical viscosity
+لزوجة ذاتية	intrinsic viscosity
+لزوجة نسبية	relative viscosity
+لزوجة نوعية	specific viscosity
+لف ثنائي السلك	bifilar winding
+لفَّات المجال	field-winding
+لقضيب تحكم دقيق (ن)	fine control rod
+للفتحةf الرقم	f-number
+لماع	phosphorescent
+لمعان	luminance / luminosity / phosphorescence
+لمعان (فسفوري) مِهْبَطي	cathodophosphorescence
+لمعان (فوسفوري) حراري	thermophosphorescence
+لمعان احتكاكي	triboluminescence
+لمعان اشعاعي	radioluminescence
+لمعان حراري (ن)	thermoluminescence
+لمعان كهربائي	electro-luminescence
+لمعان مِهْبَطي	cathodoluminescence
+لمعاني	luminescent
+لمعانية	luminance / luminescence
+لمعانية نسبية	relative luminosity
+لهب	flame
+لهب اللمع	liminous flame
+لهب بنسن	Bunsen flame
+لهب حسّاس	sensitive flame
+لهب غير لامع	non luminous flame
+لوتيسيوم	lutecium (lutetium)
+لوح المناطق	zone plate
+لوحا الانحراف الأفقي	horizontal deflection plates
+لوحة تبديل	switchboard
+لوحة تحكم	control panel
+لوحة فولطية ضوئية	photovoltaic panel
+لوحة قياس الأبصار	optical chart
+لوحة متعددة المبدلات	multiple switch board
+لوحة مفاتيح	switchboard
+لورنسيوم	lawrencium
+لوغاريتم طبيعي	natural logarithm
+لوكس	lux
+لولب	helix / solenoid
+لولب؛ برغي؛ بُزال	screw
+لولبية	helicity
+لومن	lumen
+لون	chroma / color, colour / color; colour
+لون ثانوي	secondary colour
+لون طيفي	spectral colour; spectral color
+لون كاذب	false color
+لون لا طيفي	non spectral color
+لون لاطيفي	non-spectral color
+لونان متتامان	complementary colors
+لوني	chromatic
+لونية	chromaticity
+لونية (ال...)	chromaticity
+لونية متتامّة	complementary chromaticity
+لونية مزدوجة	dichromatism
+ليدار	lidar
+ليزر	laser
+ليزر إكسيمر	excimer laser
+ليزر الأشعة السينية	X-ray laser
+ليزر الإلكترونات الحرة	electron laser
+ليزر الانفراغ الغازي	gas discharge laser
+ليزر الذرات	atom laser
+ليزر الهليوم والنيون	He-Ne-laser
+ليزر ثنائي أكسيد الكربون	carbon dioxide gas laser
+ليزر ذري	atomic laser
+ليزر كيميائي	chemical laser
+ليزر مضخوخ كيميائيًا	chemically pumped laser
+ليزر ياغ	YAG laser
+ليف ضوئي	optical fiber
+لِيْن؛ قابلية الانثناء	flexibility
+ليناك	LINAC

@@ -1,0 +1,285 @@
+طائرة	airplane
+طابَع	timbre
+طابع الصوت	quality of sound
+طابعة عن بُعد	teleprinter
+طاحونة هوائية	wind mill
+طاردة مركزية ذات تيار مضاد (ن)	counter-current centrifuge
+طاردة مركزية متواقتة (ن)	concurrent centrifuge
+طاقة	Fermi energy / energy
+طاقة ارتباط الإلكترون	electron binding energy
+طاقة اشعاعية	radiant energy
+طاقة الإثارة	excitation energy
+طاقة الارتباط الكلية	total binding energy
+طاقة الإشعاع	radiation energy
+طاقة الاضمحلال (ن)	disintegration energy
+طاقة الامتصاص التجاوبي	energy of resonance absorption
+طاقة الانتقال	energy of translation
+طاقة الانحطاط	degradation energy
+طاقة الاندماج	fusion energy
+طاقة الانسياق	drift energy
+طاقة الانشطار	fission energy
+طاقة البعثرة	disaggregation energy
+طاقة التآثر	interaction energy
+طاقة التأين	ionization energy
+طاقة التبادل	exchange energy
+طاقة التجاوب	resonance energy
+طاقة التخلف	hysteresis energy
+طاقة الترابط	correlation energy
+طاقة التفاعل	reaction energy
+طاقة التفاعل (ن)	reaction energy
+طاقة التماسُك	cohesion energy / cohesive energy
+طاقة التنافر	repulsive energy
+طاقة التنشيط	activation energy
+طاقة التنشيط (ن)	activation energy
+طاقة التهيج (ن)	excitation energy
+طاقة التهيج الأولي (ن)	first excitation energy
+طاقة الحاجز	wall energy
+طاقة الخلع	energy of dislocation
+طاقة الدوران	energy of rotation / rotational energy
+طاقة الربط	binding energy
+طاقة الرنين (ن)	resonance energy
+طاقة السطح	surface energy
+طاقة السطح الحرّ	free-surface energy
+طاقة السكون (ن)	rest energy
+طاقة الشّبيكة	lattice energy
+طاقة الصدم	impact energy
+طاقة الضوء	energy of light
+طاقة العتبة (ن)	threshold energy
+طاقة القطع (ن)	cut-off energy
+طاقة الماء	water energy
+طاقة المفاعلة (ن)	interaction energy
+طاقة المياه	water power
+طاقة النترونات الحرارية	thermal neutron energy
+طاقة النترونات الحرارية (ن)	thermal neutron energy
+طاقة انفعال مغنطيسي	magnetic strain energy
+طاقة انمشطار (ن)	fission energy
+طاقة تباين الخواص البِلَّورية	crystalline anisotropy energy
+طاقة تثاقلية	gravitational energy
+طاقة تذبذب	vibrational energy
+طاقة ترابط (ن)	binding energy
+طاقة ترموديناميكية	thermal dynamic energy / thermodynamic energy
+طاقة حاجز	wall energy
+طاقة حرارية جوفية	geothermal energy
+طاقة حركية	kinetic energy
+طاقة حرة	free energy
+طاقة داخلة في الهوائي	aerial input
+طاقة داخلية	internal energy
+طاقة ذاتية	intrinsic energy / self-energy
+طاقة ذرية	atomic energy
+طاقة ذرية (ن)	atomic energy
+طاقة رابطة	bond energy
+طاقة ربط الإلكترونات	binding energy of electrons
+طاقة ربط النواة	binding energy of nucleons
+طاقة سطح بينيّ	interfacial surface energy
+طاقة سطحية جزيئية مولالية	molar surface energy
+طاقة سكونية	rest energy
+طاقة شمسية	solar energy
+طاقة ضوئية	luminous energy
+طاقة غير متاحة	unavailable energy
+طاقة فرمي	Fermi energy
+طاقة فصل الإلكترون	separation energy of the electron
+طاقة كامنة	potential energy
+طاقة كامنة تثاقلية	gravitational potential energy
+طاقة كامنة نووية	nuclear potential energy
+طاقة كامنة، طاقة وضع	potential energy
+طاقة كَهْراكدة	electrostatic energy
+طاقة كهربائية	electric energy / electrical energy
+طاقة كهرساكنة	electrostatic energy
+طاقة كيميائية	chemical energy
+طاقة مؤينة	ionizing energy
+طاقة مادلونغ	Madelung energy
+طاقة مُتاحة	available energy
+طاقة متيسِّرة	available energy
+طاقة مُختَزَنَة	stored energy
+طاقة مخزونة (ن)	stored energy
+طاقة معطاة للمادة (ن)	energy imparted to matter
+طاقة ميكانيكية	mechanical energy
+طاقة نقطة الصفر	zero point energy
+طاقة نووية	nuclear energy
+طاقة نووية (ن)	nuclear energy
+طب شعاعي	radiology
+طب نووي	nuclear medicine
+طباعة ملونة	color printing
+طباقي	laminar
+طبع كهربائي	electrotyping
+طَبَق	dish
+طبقة	Appleton layer / Heaviside layer / shell
+طبقة (ال...) الحرارية	thermosphere
+طبقة (ال...) الزمهريرية	stratosphere
+طبقة أحادية الجزيء	monomolecular layer / unimolecular Layer; monomolecular Layer
+طبقة الانتشار	diffusion layer
+طبقة الأوزون	ozone layer
+طبقة التكافؤ	valence shell
+طبقة إلكترونية	electron shell
+طبقة تُخومية	boundary layer
+طبقة توهين النصف	half-value layer (HVL)
+طبقة حاجزة	barrier layer
+طبقة حدّية	boundary layer
+طبقة حدية صفيحية	laminar boundary layer
+طبقة حساسة؛ فِلم حسّاس	sensible film
+طبقة شحنة	layer of charge
+طبقة فرعية	sub-shell
+طبقة ممتلئة	closed shell
+طبقة ناضبة	depletion layer
+طبقة هيفيسايد	Heaviside layer
+طبلة	drum
+طبلة؛ طبل	drum
+طبيب أشعة	radiologist
+طرائق التصلّب (ن)	solidification methods
+طرائق التقريب	approximation methods
+طرد مركزي، نابذ	centrifugal
+طرف الدخل	terminal input
+طرقانية	malleability
+طريقة	method
+طريقة ابفون للمتوافقات الكروية المضاعفة	double spherical harmonic Yvon's method
+طريقة الاستطارة الذرية الشاذة	anomalous atomic scattering method
+طريقة الأسطوانة الدّوارة	rotating cylinder method viscosity
+طريقة الاسطوانة المتذبذب	oscillating cylinder method
+طريقة البلّورة الدوارة	rotating crystal method
+طريقة البلورة المتذبذبة	oscillating crystal method
+طريقة التبريد	method of cooling
+طريقة التركيز (ن)	concentration method
+طريقة التغيّرات	variational method
+طريقة الحد المتحرك، طريقة السطوح الحدية المتحركة	moving boundary method
+طريقة الخلط	method of mixture
+طريقة الدفعات (ن)	batch-by-batch method
+طريقة الصور الكهربائية	method of electrical images
+طريقة العزوم (ن)	moments method
+طريقة القنطرة	bridge method
+طريقة المتوافقات الكروية (ن)	spherical harmonic method
+طريقة المسابر الأربعة	four point probe method
+طريقة المسحوق التحليلية	powder method of analysis
+طريقة المطابقة؛ طريقة الانطباق	method of coincidence
+طريقة النبذ المركزي (ن)	centrifugal process
+طريقة النقطة السرجية	saddle point method
+طريقة النوى النقطية (ن)	point-kernel method
+طريقة بارنِت	Barnett method
+طريقة تكرارية	iterative method
+طريقة توزيع شعاعية	radial distribution method
+طريقة ديباي- شيرر	Debye- Scherrer method
+طريقة زمن الطيران	time of flight method
+طريقة علمية؛ نهج علمي	scientific method
+طريقة لاوِه	Laue method
+طريقة مبرهنات المراجحة	method of inequality theorems
+طريقة مغنطيسية	magnetic method
+طفرة الفولطية	voltage surge
+طفو	flotation; floatation
+طَفْوٌ مغنطيسي	maglev / magnetic levitation
+طفوة	raffinate
+طلاء كهربائي	electro plating
+طلاء مضاد للانعكاس	antireflection coating
+طواعِيَّة	susceptance
+طواعية مغنطيسية	magnetic susceptibility
+طور	phase / torr
+طور التفريق	disperse phase
+طور التيار	current phase
+طور بلّورية سائلة	nematic phase
+طور بيني	interphase
+طور طبقي	smectic phase
+طور موجة الجيب	phase of sine wave
+طَوْق	collar / tore
+طَوْق؛ سِوار (كعكة)	tore
+طول	length
+طول (ال...) الحسّاس (ن)	sensitive length
+طول الارتحال	migration length
+طول الاسترخاء (ن)	relaxation length
+طول الاشعاع	radiation length
+طول الانتثار	diffusion length
+طول الانتشار (ن)	diffusion length
+طول التبطئة (ن)	slowing-down length
+طول المسار (ن)	path length
+طول المسير الضوئي	optical length
+طول الموجة	wave length / wavelength
+طول النزوح (ن)	migration length
+طول بلانك	Planck’s length
+طول طريق الإشعاع	radiation length
+طول طومسون للتبعثر	Thomson's scattering length
+طول فعال (ن)	active length
+طول موجة	Compton wavelength
+طول موجة (ن)	De Broglie wavelength
+طول موجة العتبة	threshold wavelength
+طول موجة القطع	cut-off wavelength
+طول موجة دوبْرويْ	De Broglie wavelength
+طول موجة كومْتُن	Compton wavelength
+طول موجيّ فعّال	effective wavelength
+طويلة متّجه	magnitude
+طويلة؛ معامل	modulus
+طيَّار؛ متطاير	volatile
+طيف	Fraunhofer spectrum / Raman spectrum / spectrum
+طيف (ال...) و اللون	spectrum and colour
+طيف أشعة بيتا	beta-rays spectrum
+طيف أشعة كاما، طيف أشعة جاما	gamma ray spectrum
+طيف إصدار الأشعة السينية	X-ray emission spectrum
+طيف الأشعة تحت الحمراء	infra-red spectrum / infrared spectrum
+طيف الأشعة غاما	gamma ray spectrum
+طيف الإصدار	emission spectrum
+طيف الامتصاص	absorption spectrum
+طَيْف الإمتصاص (ن)	absorption spectrum
+طيف الأمواج المكروية	microwave spectrum
+طيف الانبعاث	emission spectrum
+طيف الانشطار	fission spectrum
+طيف الانشطار (ن)	fission spectrum
+طيف الانفجار	explosion spectrum
+طيف التسرب	leakage spectrum
+طيف الحيد	diffraction spectrum; normal spectrum
+طيف الخطوط الساطعة	bright-line spectrum
+طيف الخطوط المظلمة	dark-line spectrum
+طيف الرنين	resonance spectrum
+طيف السمعية	audibility spectrum
+طيف الشرارة	spark spectrum
+طيف الشمس	solar spectrum
+طيف الطاقة	energy spectrum
+طيف الظل	umbra spectrum
+طيف القوس	arc spectrum
+طيف القيم الذاتية	eigen values spectrum
+طيف إلكتروني	electron spectrum
+طيف الكتل	mass spectrum
+طيف الكتلة	mass spectrum
+طيف اللهب	flame spectrum
+طيف الموجات الدقيقة	microwave spectrum
+طيف الموشور	prism spectrum
+طيف الموشور، طيف المنشور	prismatic spectrum
+طيف امتصاص تحت الأحمر	infrared absorption spectrum
+طيف انتقال الشِّحنة	charge -transfer spectrum
+طيف انقلابي	inversion of spectrum
+طيف اهتزازية دوراني	vibration rotation spectrum
+طيف أولي	primary spectrum
+طيف تذبذب	vibrational spectrum
+طيف تذبذب – دوراني	vibration-rotation spectrum
+طيف جزيئي	molecular spectrum
+طيف جزيئي، طيف شـريطي	molecular spectrum
+طيف جُسيمات ألفا (ن)	alpha particles spectrum
+طيف خط	line spectrum
+طيف خطوط الانبعاث (ن)	emission lines spectra
+طيف خطوط معتمة	dark-line spectrum
+طيف خطي	line spectrum
+طيف دقيق	fine spectrum
+طيف دوراني	rotational spectrum
+طيف ذري (ن)	atomic spectrum
+طيف رامان للتذبذب	vibrational Raman spectrum
+طيف رنين مغنطيسي	magnetic resonance spectrum
+طيف شـريطي	band spectrum
+طيف شمسي	solar spectrum
+طيف صافٍ	pure spectrum
+طيف صوتي	sound spectrum
+طيف عادي	normal spectrum
+طيف فوق البنفسجي	ultra-violet spectrum
+طيف قَنَوي	channeled spectrum
+طيف قوس	arc spectrum
+طيف كاما (ن)	gamma spectrum
+طيف كهرطيسي	electromagnetic spectrum
+طيف لا مرئي	invisible spectrum
+طيف متصل	continuous spectrum
+طيف متعاكس الاضاءة	reversal spectrum
+طيف متقطع	discontinuous spectrum / discrete spectrum
+طيف مرئي	visible spectrum
+طيف مستمر	continuous spectrum
+طيف مَشوب	impure spectrum
+طيف مفرط الدقة	hyperfine spectrum
+طيف مقارنة	comparison spectrum
+طيف نترونات الانشطار (ن)	neutrons fission spectrum
+طيف نترونات المفاعل	reactor spectrum of neutrons
+طيف نطاق	band spectrum
+طيف نطاق مضلم	dark-band spectrum
+طيف نظامي	normal spectrum
+طيوف؛ أطياف (مفردها طيف)	spectra

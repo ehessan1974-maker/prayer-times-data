@@ -1,0 +1,104 @@
+فئات السلع للعلامة التجارية	Trademarks class of goods
+فئة	Category
+فئة الإنفاق	Spend Category
+فائدة غير قانونية	illegal interest
+فائدة مؤداة	interest paid
+فائدة، مصلحة	interest
+فائدة، ميزة	advantage
+فائض	surplus
+فاتورة الشراء	purchase invoice
+فاتورة الكميات	Bill Of Quantities
+فاتورة اللوازم والمعدات	(BOM) Bill Of Materials
+فاتورة إلى نقد	Invoice To Cash (I2C)
+فاتورة، قائمة حساب	invoice; bill
+فارغ	Void
+فاسِد، مُرتشٍ	corrupt
+فاشيّ	fascist
+فاعل أصليّ	principal author
+فاعل الجريمة، مرتكب الجريمة	principal
+فاعل معنويّ	moral author
+فتح اعتماد	opening up of a credit
+فترات التقادم	Limitation Periods
+فترات مركبة سنوية	Compounding Periods Per Year
+فترة الاسترداد	Payback Period
+فترة الأولوية	Priority period
+فترة الريبة	suspect period
+فترة القبول	Period Of Acceptance
+فترة المسؤولية عن العيوب	Defects Liability Period
+فترة سماح، أجلٌ استرحاميّ	grace (days of ..); respite of debt
+فُجُور، لا أخلاقية	immorality
+فحص / تفتيش	Inspection
+فحص الائتمان	Credit Check
+فحص الجرد	Stock Take
+فحص الجودة (مراقبة الجودة)	Quality Inspection (Quality Control)
+فحص الدم	blood test
+فحص الطلبات المسجلة	Examination of registered applications
+فحص طلب براءة الاختراع	Examination of patent applications
+فحص مقارن	Comparative test
+فحص موضوعي	Substantive examination
+فَحْص، مراجعة، تدقيق	audit
+فخ عدم الكفاءة	Inefficiency Trap
+فرار من الجيش، فرار من الخدمة العسكرية	desertion
+فراغ، شغور	vacancy
+فردية	Individualism
+فَرْز الملكية	dismembering of property
+فرصة للتحسين	Opportunity For Improvement
+فرْض ضريبة	taxation
+فرض غرامة	Impose a fine
+فرع (ال..) يتبع الأصل	accessory follows principal (the ..)
+فرع وارث	Descendant Heir
+فرق الأبعاد	Dimension Difference
+فرق سعر الفائدة	Interest Rate Differential (IRD)
+فرق عبر المنظمات	Cross-Organizational Teams
+فرق متعددة الوظائف	Cross-Functional Activity
+فرق متعددة الوظائف قائمة على المنتج الأفقية	Horizontal Product-Based Multi-Functional Teams
+فريد	Unique
+فريق المشتريات	Procurement Team
+فريق عالي الأداء	High-Performing Team
+فريق متداخل الوظائف	Cross-Functional Team
+فريق متعدد التخصصات	Multi-Discipline Team
+فساد	Corruption
+فساد إداريّ	administrative corruption
+فساد سياسيّ	political corruption
+فساد، رشوة	corruption
+فَسْخ	resolution
+فَسْخ العقد	Rescission Of Contract / rescission of contract / termination of contract
+فَسْخ تعسُّفيّ	abusive rescission
+فَسْخ، إلغاء	rescission
+فَسْخ، انتهاء	termination
+فشَلٌ	fiasco
+فشل آمن	Fail-Safe
+فصل	Dismissal
+فَصْل الذمم المالية	separation of patrimonies
+فَصْل السلطات	separation of powers
+فصل المهمات	Separation Of Duties
+فَصْل تعسُّفيّ، عَزْل تعسُّفيّ	abusive dismissal
+فَصْل، تفريق	separation
+فَصْل، عَزْل	dismissal
+فَضُّ الأختام	removal of seals
+فضاء إنساني	Humanitarian Space
+فعالية	Effectiveness
+فعل الغير	action of third party
+فعل جنائيّ، عمل إجراميّ	criminal act
+فعل ضار	Harmful Act
+فعل غير مشروع	Unlawful Act
+فقدان الجنسية	loss of nationality; denationalization
+فقط في حالة(التسبيب)	Just In Case
+فِقْه	Jurisprudence / doctrine
+فقيه قانونيّ	jurisconsult
+فكُّ الرهن، رفْع الحجز	discharge of mortgage
+فِهرس، فهرست	index list
+فهرسة	Indexation
+فوائدٌ اتفاقيةٌ	conventional interests
+فوائد التأخير	moratory interests
+فوائد تعويضية	compensatory interests
+فوائد مستحقة	arrears of interest
+فوائد معفية من الضرائب	interest free of tax
+فوز	Win-Win
+فوضى	anarchy
+فوق الوطنية	Supranational
+في الوقت المحدد بالكامل	On Time In Full (OTIF)
+في الوقت المناسب	Just In Time (JIT)
+في مجموعة	In-Group
+فيرتريد	Fairtrade
+فيل ابيض	White Elephant

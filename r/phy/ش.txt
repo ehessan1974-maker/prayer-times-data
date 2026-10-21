@@ -1,0 +1,207 @@
+شائبة	impurity
+شائبة طعم	dopant
+شائبة كيميائية	chemical impurity; foreign atom; impurity atom
+شاحن قارئ (ن)	charge-reader
+شارة	badge
+شاشة تعزيز	intensifying screen
+شاشة عرض	display screen
+شاشة متألقة (ن)	fluorescent screen
+شاشة متفلورة	fluorescent screen
+شاشة ملونة	color screen; colour screen
+شاطرة الحزمة	beam splitter
+شافّ	translucent
+شبح	ghost
+شبكات الانخلاع	dislocation networks
+شبكة	grating / grid / net / network
+شبكة الانعراج	diffraction grating
+شبكة الفراشة	butterfly net (Faraday's…)
+شبكة انعراج بلورية	crystal grating
+شبكة انعراج معزِّزة	blazed diffraction grating
+شبكة انعراج نَفوذة	transmission grating / transmitting grating
+شبكة تدريجات	graticule
+شبكة توفيق الممانعة	impedance-matching network
+شبكة حاجبة	screen grid
+شبكة خطوط	graticule
+شبكة دَرَجية	echelon grating
+شبكة ذات طرفين	two terminal network
+شبكة ذات منفذين	two-port network
+شبكة رباعية الأطراف	four-terminal network
+شبكة سلَّميَّة	echelon grating
+شبكة طليقة	floating grid / floating grid; free grid / free grid / free grid; floating grid
+شبكة كابتة	suppressor grid
+شبكة كهربائية	electric network
+شبكة لوح المناطق	zone-plate grating
+شبكة محلية	LAN
+شبكة مقعرة	concave grating
+شبكة منفعلة	passive network
+شبكة نوع π	pi network
+شبكية	retina
+شَّبكية (ال...)	retina
+شبكية العين	eye retina / retina of eye
+شَبَه	brass
+شبه أحادية الشكل	pseudo-monotropy
+شبه الظل	penumbra
+شبه الظل؛ ظُلَيل	penumbra / semi-darkness
+شبه بؤرة	parfocal
+شبه شفّاف	semi-transparent / translucent
+شبه عازل استقطابي	quasi dielectric
+شبه غروي	mesocolloid
+شبه مستقر	metastable
+شبه مستوى فيرمي	quasi Fermi level
+شبه مستويات فرمية	quasi Ferme levels
+شبه منفّذ	semipermeable
+شبه موصّل	quasi conductor / semi-conductor
+شبه موصّل؛ نصف ناقل	semiconductor
+شِبَّة؛ رُقاقة، جُذاذة	chip
+شبيكات برافيه	Bravais lattices
+شُبَيْكة	lattice
+شبيكة بلورية	crystal lattice
+شبيكة تنسيقية	coordination lattice
+شبيكة حيزّ	space lattice
+شبيكة رباعية	tetragonal lattice
+شبيكة طبقية	layer lattice
+شبيكة عكسية	reciprocal lattice
+شبيكة فائقة	superlattice
+شبيكة فراغية	space lattice
+شبيكة فوقية	superlattice
+شبيكة معيّنيّة	rhombic lattice
+شبيكة مُعَيَّنية قائمة	orthorhombic lattice
+شبيكة مفاعل (ن)	reactor lattice
+شبيكة مكعبة	cubic lattice
+شبيكة مكعبة مركزية الوجوه	face-centered cubic lattice
+شبيكة مكعبية مركزية الوجوه	fcc lattice
+شبيكة ممركزة القاعدة	base-centered lattice
+شُبَيْكِي	reticulated
+شَحن جسم	charging a body
+شحنات كهربائية	electric charges
+شحنة	charge
+شِحْنة (ن)	charge
+شحنة أساسية	fundamental charge
+شحنة الاستقطاب	polarization charge
+شِحْنة الالكترون	charge of electron / electron charge
+شحنة الفضاء؛ شحنة الفراغ	space charge
+شُحنة الكترون	charge of electron
+شحنة النواة	charge of nucleus / nuclear charge
+شحنة النواة الفعالة	effective nuclear charge
+شحنة أولية (ن)	elementary charge
+شحنة أيونية	ionic charge
+شحنة حرة	free charge
+شحنة حيّز	space charge
+شحنة كهربائية	electric charge
+شحنة متحرضة	induced charge
+شحنة محتثة	induced charge
+شحنة مُفرِطة	hypercharge
+شحنة مُقيّدَة	bound charge
+شِحْنة نوعية	charge-mass ratio / specific charge
+شحنة نووية (ن)	nuclear charge
+شحنة وقود (ن)	fuel charge
+شد، توتُّر	tension
+شدّة	intensity
+شدّة اشعاعية	radiant intensity
+شدة إشعاعية؛ شدة الإشعاع	radiant intensity
+شدة الاشعاع	intensity of radiation; quantity of radiation / radiation intensity
+شدة الاضاءة	intensity of illumination
+شدة الإنارة	illumination intensity
+شدة التّيار	current intensity / intensity of current
+شدة الحقل	field intensity / field strength
+شدة الحقل المغنطيسـي	magnetic field strength
+شدة الصوت	intensity of sound / sound intensity
+شدة القطب	pole strength
+شدة القطب المغنطيسي	magnetic pole strength / strength of magnetic pole
+شدة اللمع	luminous intensity
+شدّة المجال	field intensity / field strength
+شدة المجال الكهربائي	electric field strength / strength of electric field
+شدة المجال المغناطيسي	strength of a magnetic field
+شدة المجال المغنطيسي	magnetic field strength
+شدة النشاط الاشعاعي	intensity of radioactivity
+شدة ضوئية	luminous intensity
+شدة مجال الفضاء الحر	free-space field intensity
+شدة مغنطيسية	magnetic intensity
+شذوذ ضوئي	optical anomaly
+شرارة	spark
+شرارة رائدة	pilot spark
+شرط	Lorentz condition
+شـرط الاتّساق	consistency condition
+شـرط الجيوب	sine condition
+شـرط براغ	Bragg's condition
+شـرط بور للترددات	Bohr frequency condition
+شرط قَذْفي	ballistic condition
+شـرط كمومي	quantum condition
+شرط محدِّد (ن)	limiting condition
+شـرطا التوازن	conditions of equilibrium
+شـرطان نظاميان للضغط ودرجة الحرارة	standard temperature & pressure
+شـروط ابتدائية	initial conditions
+شـروط التوازن	equilibrium conditions
+شـروط الحالة المستقرة	stationary state conditions
+شـروط أولية	primary conditions
+شـروط حدّية	boundary conditions
+شروط عيارية	standard conditions
+شـروط نظامية	normal conditions
+شـريحة ثنائية الفلز	bimetallic strip
+شـريحة واقية	cover slide
+شـريط الخطأ	error bar
+شريط ذو فلزّين	bimetallic strip
+شـريط ليمان	Lyman band
+شـريط مغنطيسي	magnetic tape
+شـريط، عِصابة، نطاق	band
+شطر واذابة (ن)	chop and leach
+شَطُور	fissile
+شظايا الانشطار	fission fragments
+شظية انشطار (ن)	fission fragment
+شعاع	ray
+شعاع بارز	emergent ray
+شعاع رئيس	chief ray
+شعاع رئيسي	chief ray
+شعاع شبه محوري	paraxial ray
+شعاع عادي	ordinary ray
+شعاع غير عادي	extraordinary ray
+شعاع متواز	parallel ray
+شعاع معتاد	ordinary ray
+شعاع ملامس	grazing ray
+شعاع نافذ	emergant ray
+شعاعي	radial
+شَعَرية	capillarity
+شعيرات متصالبة	reticle; cross-hair lines
+شغل	work
+شغل (ال...) الأقل	least work
+شغل أعظم	maximum work
+شغل خارجي	external work
+شغل داخلي	internal work
+شغل كهربائي	electrical work
+شغل كهرضوئي	photoelectric work
+شفاطة	pipette
+شفّاف	transparent
+شفاف للضوء	optically transparent
+شفافية	transparency
+شفافية محرَّضة كهرطيسيًا	electromagnetic induced transparency
+شفق	twilight
+شفق (ال...)ُ القطبي الجنوبي	aurora australis
+شفق (ال...)ُ القطبي الشمالي	aurora borealis
+شَفَقٌ قطبي	aurora
+شق	slit
+شق الخروج	exit slit
+شق الدخول	entrance slit
+شق مزدوج	double slit
+شكل البِلَّورة	crystal habit
+شكل الموجة	wave form / waveform
+شكل موجة مشوه	distorted waveform
+شلاّل (ن)	cascade
+شلال بسيط (ن)	simple cascade
+شلال تعاقبي	cascade
+شمال (ال...) المغنطيسي	magnetic north
+شمس كاذبة	parhelion
+شمع	wax
+شمعة الاشعال	spark plug
+شمعة عيارية	standard candle
+شمعة، قنديلة	candle
+شهاب	meteor
+شهر قمري	lunar month
+شوائب	impurities
+شوائب متأينة	ionized impurities
+شواظ	flare
+شواظ شمسي	solar flare
+شوكة	fork
+شوكة رنّانة	tuning fork
+شيء	object
+شيئية (ال...) المنغمرة في الزيت	oil-immersion objective
+شيئية مغمورة، شيئية غاطسة	immersion objective

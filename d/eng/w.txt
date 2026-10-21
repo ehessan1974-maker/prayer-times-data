@@ -1,0 +1,2205 @@
+w-arrangement	الترتيب-W
+W-code	شِفرة - w
+W-engine	محرك بشكل W
+W-wing	جناح بشكل W
+Waad Al Shmal Wind Farm	مشروع محطة وعد الشمال لطاقة الرياح
+WAC chart	خارطة الطيران العالمية
+wadding	حشوة الفُرُش / بِطَانَة قُطْنِيَّة
+Wadebridge Renewable Energy Network (WREN)	شبكة واديبريدج للطاقة المتجددة (WREN)
+wadi	وادي
+wafer	رُقاقة شبة مُوصّلة / رقاقة / رقاقة سيليكون / رُقاقة
+wafer thickness	سمك الرقاقة
+waffle piqué	تركيب نسيجي خلايا النحل
+waffle slab	بَلاَطَة مُعَصّبَة
+waffle weave	نسيج خلايا النحل
+wage	أجر
+Wagner bar	قضيب واچنر
+Wagner beam	جائز واچنر / عتبة واچنر
+Wagner beret	قبعة فاجنر
+wagon	عَرَبَة
+wagon carrier truck	دعم أُسطُوَاني
+wagon carrying trailer	مقطورة العربات
+wagon drill	حفارة متنقلة
+wagon for intermodal transport	عَرَبَة للنقل متعدد الوسائط
+wagon railway	عَرَبَة سِكَكِية
+wagon vault	عقد برميلي، عقد أسطواني
+wagon with highest frication	عربة ذات احتكاك عال
+wagon with lowest frication	عربة ذات احتكاك بسيط
+wagon´s carrying capacity	القُدرَة الاستيعابية للعَرَبَة
+Wahrscheinlichkeit	احتمال (ال...)
+Waikiki shirt	قميص وايكيكي
+wainscot	تلبيسة خشبية
+wainscoting	تلويح، تلبيس
+waist	خصر / وسط البرج / وسط (تجويف) / خَصْر
+waist cincher	لباس لتنحيف البطن
+waist cincher knickers	مُخَصِّر
+waist slip / half-slip	قميص تحتي
+waist width	عرض الخصر
+waistband finishing	تعديل الحزام
+waistcoat / body warmer	صُدرة دافئة
+waistcoat lining	تبطين الظهر
+waistcoat with lapel and collar	صدرية بياقة
+waistline	طول الجسم
+waiting on cement	انتظار تماسك الأسمنت
+waiting on orders	في انتظار التعليمات
+waiting room	قاعة انتظار / حجرة انتظار، قاعة انتظار
+waiting signal, wait board	إشارة انتظار
+waiting time	زمن إنتظار
+waiting time; queuing time	زمن إنتظار
+wake	خَضْرَبة / ذيل
+wake effect	تأثير دوّامة الريح الخلفية
+wake turbulence	اضطراب مَخْري
+wake-interaction noise	ضجيج تفاعل المَخْر
+wake; wash	أثر المَخْر
+wale	عارضة تدعيم
+waling	لَوحُ رَبط
+walk way	مَعْبر، ممشى
+walk-around bottle	قارورة التجول
+walk-in cooler	غرفة تبريد
+walk-on service	رحلة بلا حجز
+walkaround oXygen	أكسجين التَّجوُّل
+walker cell	خلية وولكر
+Walker circulation	دورة 'ووكر'
+walking beam	ذراع مترجِّحة / رَقَّاص المِضَخَّة
+walking beam furnace	فرن ذو عارضة متحركة
+walking in/out	إخراج
+Walking jacket	سترة المشي
+walking; wander	تجوال
+walkingstick	عصا المشي
+walkway	ممشى؛ مَمَرٌّ
+wall	جدار / حائط
+wall (roof) bushing	عازل إختراق حائط (سقف)
+wall bearing structure	منشأ ذو جدران حمّالة
+wall board	لوح حائطي، لوح جداري
+wall board lining	تكسية حائط
+wall box	صندوق جداري، صندوق حائطي
+wall chart	صورة جدارية
+wall constraint	تقييد الجدار
+wall covering	ورق حائط
+wall cupboard	خزانة حائطية
+wall effect	تأثير الجدران
+wall energy	طاقة جدارية
+wall friction	احتكاك جِداريّ / احتكاك (ال...) الجداري مع التربة
+wall hanger	حمّالة تعليق
+wall heater	جدار سخان
+wall hook	خطّاف جداري / خُطَّاف جِداري، خُطَّاف الجوانب
+wall map	خريطة جدارية
+wall paper	ورق حائط / ورق جداري
+wall plate	لوح حائطي
+wall pressure	ضَغْط جداريّ
+wall rock	صخر الجدار
+wall scraper	مُوسِّع دَوَّار
+wall shear stress	إجهاد الاحتكاك الجداري
+wall sheeting	طبقات تغطية الجدران
+wall tapestry	سجاد الجدار
+wall thickness (of a conduit)	سمك الجدار (للماسورة)
+wall thickness tolerance	تفاوت مقبول في ثخن جدران أنابيب الحفر
+wall thickness, mean	مُتوسِّط سَماكَة الجدار
+wall tie	رباط حائطي، شدّادة حائطية
+wall, external / outer wall	جِدار خارجيّ
+wall-box	وول بوكس
+wall-panels	ألواح الحائط
+wallboard	لوح حائطي
+walll paper	ورق الحائط
+walnut	خشب الجوز
+walnut shell filter	مُرشِّح قشر الجوز
+Walschaert valve gear	آلية صمام فالشرت
+Walter	والتر
+waltz dress	فستان الفالس
+wander (in digital transmission)	تقلقل الإرسال طويل المدى
+wanishing points	نقط التلاشي
+Wankel engine (rotary piston engine)	محرك 'فانكل' ذو كبّاس دوّار
+wanted signal ; desired signal	إشارة مطلوبة - إشارة مرغوبة
+wanted signal; desired signal	إشارة مطلوبة
+war consumables	مستهلكات حربية
+war game	مباراة حربية
+war gas	غاز حربي
+war material	مادة حربية
+war reserve	احتياطي حربي
+war-readiness spares kit	عدَّة غيار التأهب للحرب
+Warbah (KOTC product carrier)	ناقلة وربة (ناقلة منتجات بترولية)
+warble tone	نغمة متأرجحة
+Ward-Leonard generator set	مجموعة وارد - ليونارد للمولد
+Ward-Leonard system	نظام وارد- ليونارد
+warding file [UK] / key file [US]	مبارد دقيقة
+wardrobe	خِزَانَةُ المَلابِس / خزانة ثياب / خزانة الملابس
+warehouse	مستودع
+warehouse logistics	إمدادات المستودع
+warehouse management system	نظام إدارة المستودع
+warehouse receipt	إيصال استيداع
+warehouse to warehouse	من مستودع إلى آخر
+warehouse-handling machine	جهاز مناولة المستودع
+warehousing	استيداع
+warhead	رأس حربي
+warhead section	مقطع الرأس الحربي
+warm colour	لون دافئ
+warm front	جبهة دافئة
+warm gas thruster	دافع الغاز الدافئ
+warm interlining	حشوة دافئة
+warm season plants	نباتات الموسم الحار
+warm sector	قطاع دافئ
+warm start,	بدء التشغيل من الحالة الدافئة,
+warm summer continental or hemiboreal climates (dfb, dwb, dsb)	مناخ قاري أو شبه شمالي بصيف دافئ (Dsb, Dwb, Dfb)
+warm water retting	التعطين بالماء الدافئ
+warm-season grass	عشب الموسم الحار
+warm-up	إحماء
+warm-up clothing	ملابس تحمية
+warm-up time	ضبط المستخدم (لجهاز قياس) / زمن الإحماء
+warm-up time,	زمن تسخين, الكشف عن الغاز
+warm-yp cycle	دورة التسخين
+warmth retention	الاحتفاظ بالدفء
+warn, verb	يحذر, فعل
+warned eXposed forces	قوى مكشوفة مستعدة
+warned protected forces	قوى محمية مستعدة
+warning board; signal marker board	لوحة التحذير
+warning device, automatic	جهاز إنذار ذاتي التشغيل (أوتوماتي)
+warning flasher control	تجهيزة تشغيل منظومة لمبات التحذير الومضية
+warning indicator	جهاز تحذير
+warning light spring brake	لمبة تحذير الخازنات النابضية
+warning lights	أضواء إنذار
+warning net	شبكة تحذير
+warning order	أمر تحذير
+warning panel	لوحة تحذير
+warning presignalling distance	مسافة تحذير ما قبل الإشارات
+warning receiver	مستقبِل تحذيري
+warning red	تحذير من خطر
+warning signal	إشارة إنذار / إشارة تحذيرية
+warning signal,	أشارة تحذير, / إشارة تحذير,
+warning stage	مَرْحَلة الإنذار
+warning streamer	راية تحذير
+warning-blinker system	منظومة لمبات التحذير الومضية
+warp effect	تأثير سدائي
+warp fabric	قماش سداء
+warp knitted fabric	قماشٌ مُتعدد الشُعيرات
+warp knitting	ترِيكُو
+warp of a disk	تشوة سطح القرص
+warp pile velvet	مخمَل من السُداء
+warp rib	تضليعاتٌ من السداء
+warp satin weave	أطلس مُمتد في اتجاه السداء
+warp yarn	خيوط السداء
+warp,	تشوه
+warp-faced twill	نسيج مبرد مُمتد في اتجاه السداء
+warp-knitted fabric / two-yarn system	أنسجة تريكو من السداء ثنائية النظام الخيطيّ
+warp-knitted jersey	تريكو سداء
+warp-knitted textiles / plain weave types	أنسجة التريكو السداء
+warp-sheet	صفيحة ليفية
+warping	تشوُّه بالالتواء
+warping joint	وَصلَة اعوِجَاج
+warplane	طائرة حربية
+warrantor	ضامِن
+warranty	ضمانة
+Warren girder	جائز ورن
+Warren truss	إنشاء وارين الشبكي / جملون وارين
+wartime rate	معدل زمن الحرب
+wash boring	سَبْر التربة بقوة ضخ الماء
+wash drum	وعاء الغسل
+wash leather	جلد قابل للغسل
+wash oil	زيت الامتصاص، زيت الشطف
+Wash out	تنصيل (لون الجينز)
+wash plate	لوح مضاد للتمايل
+wash primer	دِهان أولي
+wash resistance	مقاومة تأثير الغسيل
+wash-in	اجتراف إلى الداخل
+wash-out	اجتراف إلى الخارج / راسب في الطيران / رسوب في الطيران / غسيل
+wash-out gate	بوابة الكسح
+washable silk	حرير مغسول
+washed	مغسول
+washed effect	تأثير الغَسْل
+washed loden	قماش لودن مغسول
+washed natural silk	حرير طبيعي مغسول
+washed optic	مظهر مغسول
+washed out hole; washout	حفرة مُجَوَّفَة
+washed-out	مكسوح
+washer	رنديلة / حلقة
+washer clutch for motor lorry [UK] / washer clutch for motor truck [US]	قابض ثنائي الأقراص للشاحنات
+washer clutch for motorcar [UK] / washer clutch for automobile [US]	قابض ثنائي الأقراص للسيارات
+washer jet	فوهة غسل الزجاج
+washfastness	القابلية للغسل
+washing out	غسل
+washing process	عملية الغسيل
+washing track	رصيف التنظيف
+Washington D.C. Office	مكتب واشنطن
+Washington International Renewable Energy Conference (WIREC)	مؤتمر واشنطن الدولي للطاقة المُتجدّدة (WIREC)
+washout	تخفيض التباين
+washover pipe	أنبوب الحفر حول الأنابيب، أنبوب غَاسِل
+washover shoe	سنبك التضليع، نعل التفريز، كعب التفريز
+wasp-waisted corset	صَدْرِيَّة
+Waspaloy	سبيكة واسْب
+wastage	تسرُّب الطلاب
+waste	نفايات
+waste (economic)	نفايات (اقتصادية)
+waste (refuse)	فضلات
+Waste Acceptance Requirements	متطلبات قبول النفايات (المشعة)
+waste air purification gas	تنقية الهواء العادم
+waste arriving at a disposal site (wad)	نفايات تصل موقع التخلص
+waste arriving at a transfer site (wat)	نفايات تصل موقع النقل
+Waste auditing	تدقيق نفايات
+waste autoclave	مِحَمُّ (أوتوكلاف) النفايات
+waste available for collection (wac)	نفايات متاحة للجَمع
+waste bin	حاوية للمُخلّفات
+waste characterization studies	دراسة خصائص النفايات
+waste collected (wc)	نفايات مجمعة
+waste collector	جامع نفايات
+waste compactor	كابسة النفايات
+waste disposal	طرح النفايات
+Waste disposal authority	سلطة (مشرفة على) التخلص من النفايات
+waste disposal technique	تقنية معالجة النفايات
+waste disposed (wd)	نفايات متخلص منها
+waste electrical & electronic equipment (weee) recycling directive	مذكرة توجيهية لتدوير نفايات المعدات الكهربائية والإلكترونية
+waste exchange	تبادل النفايات
+waste feed	إدخال النفايات
+waste gas	غاز محروق، غاز عادم
+waste gate	صمام التحكم في ضغط التعزيز / بوّابة تسريب / فوهة تسريب
+waste generated	نفايات مُنْتَجَة
+waste generation	إنتاج النفايات
+waste generator	مُنتج المُخلّفات
+waste hauled (wh)	نفايات منقولة
+waste heat	حرارة مُتبددة / حرارة مهدرة / حرارة عادمة
+waste heat evaporator	مبخر لحرق النفايات
+waste heat utilisation	إعادة استخدام الحرارة المُتبددة
+waste incineration	حرق النفايات
+waste incineration plant	مُستودَع حرق النفايات
+waste liquor; spent liquor	ماء مِلحيّ مُتخلِّف
+waste liquor; spent lyetic	محلول قَلَوي مُصرّف
+waste management	إدارة المُخلّفات / إدارة النفايات
+Waste Management Act	قانون إدارة النفايات
+waste management hierarchy	تسلسل هرمي لإدارة النفايات
+waste material	نُفَايَات
+waste minimisation	تدنية النفايات
+waste ore	خام نفاية
+waste outlet / dewatering outlet	مَنْفَذ لتصريف المياه الفائضة
+waste paper	ورق نفاية
+waste picker	منتقى نفايات
+waste picking	التقاط (الصالح من) النفايات
+waste pipe	أُنْبوب صرف النُّفايات
+waste prevention	الحدّ من النفايات
+waste processing	معالجة النفايات
+waste products	فضلات المنتجات
+waste reduction	الحد من النفايات
+waste shredder	طاحونة مُخلَّفات
+waste stabilization pond	بِرْكة تثبيت النفايات
+waste stream	تيار النفايات / تدفق المُخلّفات
+Waste to Energy	تحويل النفايات إلى طاقة
+Waste treatment	تدوير البقايا
+waste treatment and disposal facility (wtdf)	مرفق معالجة النفايات والتخلص منها
+waste treatment stream	مسار معالجة النفايات
+waste types	أنواع النفايات / أنواع النِفايات
+waste valve	صِمام المصرف المائيّ
+waste water	مياه الصرف
+waste water productivity	إنتاجية مياه الصرف الصحي
+Waste water recovery	تنقية وتدوير مياه الصرف الصحي
+waste water treatment	معالجة مياه الصرف الصحي
+waste yarn	خيط غزل مُدَوَّر
+waste, municipal	نُفايات البلديات
+waste, toxic and dangerous	نفايات، سامة وخطرة
+waste-fed power station	محطة توليد الطاقة من النفايات
+waste-gate valve	صمام بوّابة التسريب
+waste-to-energy plant	وحدة استخلاص الطاقة من النفايات
+wastes	نفايات
+wastes feed	تغذية بالنفايات
+Wastes producer	مُنْتِج النفايات
+Wastes, inert	نفايات، خاملة
+wastewater	مياه الصرف الصحي / مياه عادمة / مياه الصرف الصحيّ
+wastewater analysis	تحليل مياه الصرف الصحيّ
+wastewater bacteria	بَكتريا مياه الصرف الصحيّ
+wastewater centrifuge	جِهاز طرد مركزيّ لمُعالجة مياه الصرف الصحيّ
+wastewater charges	مدفوعات الصرف الصحي
+wastewater charges act / wastewater levy law	قانون رسوم الصرف الصحيّ
+wastewater chemical treatment	مُعالجة كيميائية لمياه الصرف الصحيّ
+wastewater collection	تحويل مياه الصرف الصحيّ / تجميع مياه الصرف الصحيّ
+wastewater communal treatment	مُعالجة مَحلية لمياه الصرف الصحيّ
+wastewater discharge into the nature	تصريف مياه الصرف الصحي في الطبيعية
+wastewater discharge rate	مُعدَّل تدفق مياه الصرف
+wastewater disposal	تَخلُّص (ال...) من مياه الصرف الصحيّ
+wastewater disposal scheme / waste water disposal plan	خطة التخلّص من مياه الصرف الصحيّ
+wastewater engineering	هندسة الصرف الصحيّ
+wastewater filtration	ترشيح مياه الصرف الصحيّ
+wastewater flow, commercial	تدفق مياه الصرف الصحيّ التجارية
+wastewater flow, domestic and industrial; wastewater flow rate	تدفق مياه الصرف
+wastewater industrial treatment	مُعالجة صناعية لمياه الصرف الصحيّ
+wastewater irrigation	ريّ (ال...) بمياه الصرف الصحيّ / مُعالَجة مياه الصرف بتوجيهها إلى الأراضي الزراعية
+wastewater irrigation, untreated	ريّ (ال...) بمياه صرف صحيّ غير مُعالجة
+wastewater load / pollution load	نِسبة مياه الصرف الصحيّ في مِجرى مائيّ
+wastewater load plan	مُخطط مياه الصرف الصحيّ في مجرى مائيّ
+wastewater management	إدارة مياه الصرف الصحي
+wastewater mechanical treatment /sewage mechanical treatment,	مُعالجة ميكانيكية لمياه الصرف الصحيّ
+wastewater pollution	تلوث مياه الصرف الصحي
+wastewater pollution- GEMIS	تلوث مياه الصرف الصحي – (نموذج عالمي لانبعاثات نظم متكاملة GEMIS)
+wastewater pump	مِضخّة مياه الصرف
+wastewater purification	تنقية مياه الصرف الصحي
+wastewater quality	خواص مياه الصرف الصحيّ
+wastewater quantity	كَمّية مياه الصرف الصحيّ
+wastewater recovery / wastewater reclamation	معالجة المياه المستعملة
+wastewater recycling	إعادة تدوير مياه الصرف الصحيّ
+wastewater sludge	حمأة مياه الصرف الصحي
+wastewater sprinkling	رَشُّ مياه الصرف الصحيّ
+wastewater statistics	إحصائيات مياه الصرف الصحيّ
+wastewater system	نِظام صرف صحيّ
+wastewater taxes	رسوم الصرف الصحيّ
+wastewater technology	تقانة الصرف الصحي / تقنية مياه الصرف الصحي / تكنولوجيا الصرف الصحي
+wastewater treatment	مُعالَجة مياه الصرف الصحيّ / مُعالجة مياه الصرف الصحي
+wastewater treatment plant	محطة مُعالَجة مياه الصرف الصحيّ / محطة معالجة مياه الصرف الصحي / محطة تنقية مياه الصرف الصحي
+wastewater treatment plant neighbourhood	أعمال مُعالجة مياه الصرف الصحي في المناطق المجاورة
+wastewater treatment plant, mechanical-biological	محطة بيولوجية ميكانيكية لمعالجة مياه الصرف الصحيّ
+wastewater treatment plants; purification plants	محطة مُعالجة مياه الصرف الصحي
+wastewater treatment system/plant, advanced	محطة مُتقدمة لمُعالجة مياه الصرف الصحيّ
+wastewater treatment works, sewage works, effluent treatment works	محطة مُعالجة مياه الصرف الصحيّ
+wastewater treatment, physical-chemical	مُعالجة فيزيائية - كيميائية لمياه الصرف الصحيّ
+wastewater use in agriculture	استخدام مياه الصرف الصحي المعالجة في أغراض الري
+wastewater, agricultural	مياه الصرف الزراعية
+wastewater, anaerobically pretreated	مياه صرف صحيّ لاهوائية مُعالجة مُسبقاً
+wastewater, bacitracin	مياه صرف صحيّ محتوية على مضادات حيوية
+wastewater, domestic	مياه صرف صحيّ مَنزلية / مياه الصرف المنزلية
+wastewater, fermentation	مياه صرف متَعفُّنة
+wastewater, industrial	مياه الصرف الصناعية
+wastewater, industrial / effluent, trade	مياه صرف صحيّ من مُنشآت صناعية
+wastewater, industrial / wastewater, trade	مياه صرف المصانع
+wastewater, industrial/commercial	مياه الصرف الصناعية والتجارية
+wastewater, municipal	مياه صرف صحيّ من المدن / مياه الصرف المحلية
+wastewater, municipal / wastewater, communal / wastewater, urban	مياه صرف صحيّ من المُجتمعات السكنية
+wastewater, radioactive	مياه صرف صحيّ تحتوي على مواد مُشِعّة
+wastewater, silage	سيلاج مياه الصرف
+wastewater, tetracycline	مياه صرف صحي تحتوي على تتراسيكلين
+wastewater, trade / effluent, trade / urban drainage system	مياه صرف صحيّ من مُنشآت تجارية
+wastewater, treated	مياه صرف صحيّ مُعالَجة
+wastewater; sewage	مياه الصرف الصحي
+wasting	إضاعة، تبذير
+WAT curve	منحني عوامل الوزن والارتفاع والحرارة
+watch pocket	جيب الساعة
+watch receiver	مستقبل مترقب
+water	ماء
+water - cement ratio	نسبة الماء إلى الإسمنت
+water / cement ratio (absorbed water included)	نسبة الماء إلى الأسمنت ( بالماء الممتص)
+water absorbency	ماصّيّة الماء
+water absorption capacity	القدرة على امتصاص الماء
+water agressivity	درجة عدوانية المياه
+water allocation mechanism	تحكم (ال..) في توزيع المياه
+water analysis	تحليل المياه
+water analysis lab	مختبر تحليل المياه
+Water and Electricity Regulatory Authority	هيئة تنظيم المياه والكهرباء
+water and evaluation planning system (weap)	مياه وتقييم نظام التخطيط (WEAP)
+water application pattern	مُنْحنى توزيع المياه
+water authority	هيئة المياه / سلطة المياه
+water availability	تيسر المياه / تصريف مساحي / توفر الماء
+water bag	حقيبة مائية
+water balance	جرْد المياه الجوفية / ميزان مائي / توازن الماء / موازنة مائية
+water balance, climatic	تَوَازُّن (ال...) المائيّ المناخيّ
+water ballast	ثقل مائي موازِن
+water bar; waterstop	شريط ملء فواصل (الوصلات)
+water barrier	حاجز مائي
+Water Base Mud	طين مائي القاعدة
+water bearing deposit	طبقة خازنة للماء
+water bias	انحياز الماء
+water blocking glue; swelling glue	غراء منتفخ لمنع المياة؛ غراء حاجز للمياة
+water blocking powder; swelling powder	بودرة منتفخة لمنع المياة؛ بودرة حاجزة للمياة
+water blocking tape; swelling tape	شريط منتفخ لحجز المياة؛ شريط حاجز للمياة
+water body	كُتْلَة المياه / تجمع مائي
+water body maintenance; river maintenance	إدارة وصيانة المُسطحات المائية
+water bomber	قاذفة الماء
+water borne disease	أمراض تنقلها المياه
+water bottom	ماء القعر، طبقة الماء السفلية
+water bound macadam	مكدام مائي
+water bra	حمالة صدر مبطنة
+water break through	وصول الموجة المنبثة عبر الماء إلى مسجل الزلزال
+Water Breakthrough	اختراق الماء
+water cart	عربة الماء
+water catchment	قطف المياه
+water catchment area	مِنْطَقَة قَطْف المياه
+water catchment facility	محطة قطف المياه
+water catchment, sustained	قَطْف مُستمر للمياه
+water chamber /water compartment	غرفة المياه
+water chemistry analysis	تحليل كيميائي الماء
+water cistern	خزّان مياه
+water closet (W.C)	مرحاض
+water coloring	تلون المياه
+water colour	لون الماء
+water column	عمود الماء
+Water Compressibility Factor	معامل انضغاط الماء
+water conditioning	تكييف المياه
+water conservancy area	مِنطقة حماية المياه
+water conservation	الحفاظ على المياه / محافظة على المياه
+water consumption	استهلاك الماء / استهلاك المياه
+water content	محتوى الماء / نسبة الرطوبة / احتواء الماء / مُحتوى مائيّ
+water content (soil moisture tension)	محتوى التربة من الماء (توتر رطوبة التربة)
+water content, available water	محتوى التربة من الماء، مياه متاحة
+water content, field capacity	محتوى التربة من الماء، السعة الحقلية
+water content, gravitational water	محتوى التربة من الماء، مياه الجاذبية
+water content, hygroscopic water	محتوى التربة من الماء، مياه استرطابية
+water content, permanent wilting point	محتوى التربة من الماء، نقطة الذبول الدائم
+water control	تحكم فى المياه
+water cooled panel	لوحة مبردة بالماء ( لوحة تبريد مائي)
+water cooled roof	سقف مبرد بالماء
+water cooling	التبريد بالماء
+water cost price	أسعار تكلفة المياه
+water crisis	أزمة المياه
+water cumulative flows	جريان الماء التراكمي؛ الانسيابات التراكمية للماء
+water cycle	دورة الماء
+water deficiency	قصور المياه
+water deficit	عجز مائي / نقص المياه
+water demand	الطلب على المياه / احتياج (ال...) المائيّ / طلب (ال...) على الماء
+water depth	عمق المياه
+water depth profile	بروفيل عمق الماء
+water desalination	تحلية المياه
+water distribution system	شبكة (نِظام) توزيع المياه
+water diversion	تحويل المياه
+water diversion section	قطاع تحويل المياه
+water drainage	تحويض المياه
+Water Draw	سحب الماء
+Water Drive	دفع بالماء / تصريف بدافعة الماء، تصريف بامتداد المحتوى المائي
+water duty	مقنن مائي / عمق الرَيَّة
+water duty, economic	مقنن مائيّ اقتصاديّ
+water electrical conductivity	قابلية المياه لنقل الكهرباء / ديلزة كهربية العكسية
+water emergency	طَوَارِئ المياه
+water encrocachment	تسرُّب الماء (إلى الحقل)، اجتياح الماء
+water equivalent depth	عمق الماء المكافئ
+water erosion	تعرية مائية
+water exploitation	اِسْتِغلال الماء / استغلال المياه
+water extraction	سحب المياه / استخراج المياه
+water facilities	مرافق المياه
+water fall	شلال
+water fastness	مُقاومة في الماء
+water feed pump	مِضَخَّة تغذية بالمياه
+water film	غِشَاء مَائِي
+water filter	مرشح مياه
+water filtration	ترشيح الماء
+water flaps	قلاّبات مائية
+water flood injection	حَقْن بماء الغَمْر، حَقْن بماء الدفْق
+water flooding	غَمْر بالماء، دَفْق الماء
+water flow	تدفُّق الماء (من جوانب البئر)
+water flow-rate	معدل المياه
+water flux	تدفق المياه
+water footprint	بصمة (ال..) المائية / بصمة مائية
+water for fire fighting	مياه إطفاء الحرائق
+water for injection	ماء الحقن
+water framework directive	دليل الاتحاد الأوروبيّ عن إطار العمل في مجال المياه
+Water Framework Directive (WFD)	دَلِيل إطَار العَمَل في مَجَال المياه
+water gain	نضح الماء (على سطح خرسانة)
+water gas shift reaction	تفاعل إزاحة غاز الماء
+water glass	كأس الماء
+water governance	حَوْكَمة المياه / حوكمة المياه
+water hammer	مِطْرقة مائية
+water hardness	عسرة المياه / عُسر الماء
+water harvesting	تعبئة المياه
+water hazard class (WHC)	فئة الخطر على الماء (WHC)
+water heat store	خزّان طاقة حرارية بالحصى والماء
+water holding capacity	قدرة حجز الماء
+water in oil emulsion mud	طين محلّب عكسي (الماء في الزيت)
+water income, actual	إيراد مائيّ فعليّ
+water indicator paste	معجون الكشف عن الماء
+water infrastructure project	مشروعات البِنْيَة التحتية للمياه
+water injection	حقن المياه / حقن مائي / ضخ الماء / حَقْن الماء
+water inlet temperature	درجة حرارة الماء الداخل إلى البُرج
+Water Installed Capacity (Cubic Meter/Day)	قدرة إنتاج المياه (متر مكعب \يوميًا)
+water intake test	اختبار نضح المياه
+water jacket	دثار مائي / قميص مائي، غلاف مائي
+water jet pump	مضخة مياه نفاثة
+water laboratory, portable	مُختَبَر (معمل) مياه محمول
+water law	حق استخدام المياه / حَقُّ استخدام المياه / قانون المياه
+water law, international	حَقّ اِرْتِفَاق مائيّ دولي
+water layer	طبقة مِيَاه
+water level	منسوب المياه / جهاز التسوية المائي / منسوب الماء / مستوى الماء
+water level diagram / water surface curve	مخطط مناسيب المياه
+water level measurement	قِياس منسوب المياه
+water level of overtopping / overtopping stage	منسوب المياه في حالة زيادتها عن مُعدلها الطبيعيّ
+water level, maximum	أقصى منسوب للمياه
+water level, maximum / flood level, highest / reservoir level, highest	أعلى منسوب للخزان
+water level, specific	مَنسُوب (ال..) المقابِل
+water load	حمل مائي
+water loading	تحميل المياه
+water loop	دوران مائي
+water loss	فواقد المياه / فقدان الماء / فَقْد الماء (من الطين)
+water loss analysis	تحليل فاقِد المياه
+water loss detection	كشف (ال..) عن تسرب المياه
+water loss reduction	تَقْليل الفاقِد في المياه
+water loss, actual	فاقد فعليّ للمياه
+water loss, apparent	فاقد ظاهريّ للمياه
+water loss, operation-specific	فاقد تشغيليّ للمياه
+water loss, real	فاقد حقيقيّ للمياه
+water maintenance association	هيئة إدارة وصيانة المُسطحات المائية
+water management	إدارة المصادر المائية / إدارة المياه / إدارة المُسطحات المائية
+water management act	قانون إدارة الموارد المائية
+water management administration	قِسْم إدَارة المياه
+water management office	مَصْلَحة (إدارة) المياه / مَصْلَحِة المياه
+water management plan	برنامج إدارة المياه
+water management policies	سياسة إدارة المَصادر المائية
+water management process	عملية إدارة المَصادر المائية
+water management, transboundary	إدارة المياه العَابِرة للحدود
+water manager	مُدِير المياه
+water mediated disease cases	مرض منقول بواسطة الماء
+water meter	عَدّاد ماء / عداد المياه
+water mirror	سطح الماء
+water molecule	جزيء الماء
+water mortar	ملاط ماهي، ملاط هيدرولي
+water need	الحاجة من المياه لفترة معينة
+water neutral/ water neutrality	مياه محايدة / حياد المياه
+water of capillary	ماء الشعرية، ماء الجاذبية الشعرية
+water of crystallization	ماء التبلور
+water offsets	تعويضات المياه
+Water Oil Ratio (WOR)	نسبة الماء إلى الزيت
+water outlet temperature	درجة حرارة الماء الخارج من البُرج
+water paint	طلاء مائي
+water parting	خط انقسام المياه
+water parting / divide / watershed	فاصل مائيّ
+water penetration	اختراق المياه
+water percolation	تخلل المياه
+water permeability	نفاذية المَاء
+water pipes	أنابيب الماء
+water plan, integrated	خُطَّة مائية متكاملة
+water plan, local	حَقّ اِرْتِفَاق مائيّ إقليميّ
+water planning process	طريقة التخطيط المائيّ
+water policies, integrated	سياسة مائية مُتكاملة
+water policy	سياسة مائية / السياسة المائية
+water policy, national	سياسة (ال..) القومية للمياه
+water pollutant substance	مادة ملوثة للمياه
+water pollution	تَلَوُّث المياه / تلوث الماء / تلوث المياه / تلوُّث المياه
+water pollution prevention	الوقاية من تلوث المياه
+water positive/ positive water balance	مياه إيجابية / توازن الماء الإيجابي
+water poverty; water scarcity	فقر في المياه
+water power utilisation	استغلال الطاقة المائية
+water preparation, chemical	تنقية المياه كميائياً
+water pressure	ضَغْط الماء / ضغط الماء
+water pricing	تسعير المياه
+water problem; water scarcity	أزمة مياه
+water procurement costs (pl.)	نَفقات الحصول على المياه
+Water Production Systems	أنظمة إنتاج المياه
+water productivity	إنتاجية المياه
+water proof	صادّ للماء، كتيم للماء، عازل للمياه
+water proofing course	طبقة صامدة للماء
+water protection	حفاظ على المياه / حِماية المُسطّحات المائية
+water protection area (WPA)	منطقة حماية المياه
+water protection policy	سياسة حماية المُسطحات المائية
+water pump	مضخة الماء / مِضخّة ماء / مضخة مياه
+water pump grease	شَحْم لمضخات الماء
+Water pumping (with buckets) /Noria	ناعورة
+water purification	تَنْقِيَةُ الماء
+water purveyor	ممون المياه
+water quality	نوعية المُسطحات المائية / نوعية الماء / جودة المياه / نوعية المياه / درجة جودة المياه
+water quality class	فئة نوعية المياه / درجة جودة المياه
+water quality data	بَيَانَات نَوْعية المياه
+water quality management	إدارة نوعية المياه / إدارة جودة المياه
+water quality problem	مشكلة نوعية المُسطحات المائية
+water quality protection	حماية جودة المياه
+water quantity	كمية الماء
+water quantity measurement	قياس كمية الماء
+water rate / water charge / water duty	مُقنَّن مائيّ
+water rationing	تَقْنِين الماء
+water Reclamation	استصلاح المياه
+water recovery	استنقاذ الماء
+water recovery/reclamation	معالجة المياه
+water recycling	معالجة المياه المستعملة / إعادة تدوير المياه
+water recycling/reuse	إعادة تدوير المياه / إعادة استخدامها
+water recycling/reuse reclaimed water	إعادة تدوير المياه / إعادة استخدام المياه المستصلحة
+water regulation	تهذيب مجرى النهر / تنظيم المياه
+water removal	نزع الماء
+water repellent agent	عامِل دَفْع الماء
+water repellent grease	شَحْم دافع للماء، شَحْم مانع لتسرب الماء
+water replenishment facility	مَحَطة إعادة شحن المياه
+water requirement	الاحتياج المائي / احتياج مائيّ
+Water Research Centre (WRC, Stevenage, UK)	مركز أبحاث المياه (WRC، المملكة المتحدة)
+water reserve	احتياطي المياه
+water reserves	احتياطي المياه
+water resistance	مقاومة مائية
+water resource	مَصْدَر المياه / مورد المائي
+water resource, shared	مَصْدَر مياه مُشْتَرَك
+water resources	مَصادِر المياه / مصادر المياه
+water resources assessment	تقييم الموارد المائية
+water resources management	إدارة الموارد المائية
+Water Resources Management Law (German)	قانون إدارة الموارد المائية (WHG)
+water resources management system	نظام إدارة الموارد المائية
+water resources management, integrated	إدارة (ال..) المُتَكَامِلَة للموارد المائية
+water resources planning	تخطيط الموارد المائية
+water retention	احتفاظ بالماء
+water retting	التعطين بالماء
+water reuse	إعادة استعمال المياه / إعادة استخدام الماء / إعادة استخدام المياه
+water reutilisation, intelligent	إعادة استعمال المياه بطريقة راشِدة
+water right, abandoned	حَق مياه مَهْجُور
+water right, general	حَقّ اِرْتِفَاق مائيّ عام
+water right, junior	حَقّ اِرْتِفَاق مائيّ فرعي
+water right, riparian	حَق المُشَاطِئ على المياه
+water right, senior	حَقّ اِرْتِفَاق مائيّ رَاشِد
+water right, vested	حَقّ اِرْتِفَاق مائيّ مُحَال
+water rights	حقوق استخدام المياه / حقوق المياه
+water rudder	دفَّة مائية
+water salinity	محتوى الماء من الملح
+water saturation	تشبُّع بالماء
+water saturation exposent	مُعَامِل أسى للتشبع بالماء
+water saving	تَوفير المياه
+water scarce	شُحُّ المياه
+water scarce country	دول تعاني ندرة المياه
+water scarcity	نُدْرَة المياه / نُدرة المياه / ندرة المياه
+water scarcity; water shortage	ندرة المياه – نقص المياه
+water seal	غطاء مائي
+water seal head	علو مانع التسرب المائي
+water sealant for odour traps; water sealant	مانِع التسرُّب المائيّ لمصايد الرائحة
+water security	أمن مائي
+water separation index	قرينة فَصْل الماء
+water separator	عازل الماء / فاصل الماء
+water separator index, (W.S.I.)	قرينة فصل الماء
+water services (pl.)	خدمات (ال...) المائية
+Water shortage	نقص المياه / ندرة المياه
+water shut off	سد بالماء
+water softener	مُزيل عُسْر الماء
+water softening	تَيْسِير الماء
+water softening sludge	حَمْأَة كربونات الكالسيوم
+water softening system/plant	نِظام تيسير الماء
+water stain	صبغ مائي
+water standpipe	رافعة هيدروليكية
+water stimulation; hydraulic stimulation	تحفيز مائي
+water storage	تخزين المياه
+Water storage power plant	محطة كهرومائية مع تخزين المياه
+water stress	إجهاد مائي
+water string	أنابيب سطحية
+water structure	بنية المُسطحات المائية
+water suit	بذلة مائية
+water supplier	مزوِّد بالمياه
+water Supplies	مرافق المياه
+water supply	تزود بالمياه
+Water Supply and Sanitation Collaborative Council	المجلس التعاوني لإمدادات المياه والصرف الصحي (WSSCC)
+water supply installation	محطة الإمداد بالمياه
+water supply network	شبكة التزويد بالماء الشروب
+water supply system	نظام إمداد بالمياه
+water surface	سطح الماء
+water surface (groundwater)	سَطْح الماء (للمياه الأرضية)
+water surface area, maximum / surface area of reservoir	مساحة سَطْح الخزان / أقصى مساحة لمسطح الماء
+water surplus	فائِض المياه
+water swivel	رأس حَقْن الماء
+water system	منظومة مائية
+water table	سَطْح الماء الحر (المياه الجوفية) / منسوب المياه الجوفية / مستوي المياه الجوفية / مستوى مائي / سوية الطبقة المائية، منسوب المياه
+water table contour	حدود منسوب المياه الجوفية
+water table drawdown	هبوط المياه الجوفية
+water table drawdown curve	منحنى استنزاف المياه الجوفية
+water table slope	ميل منسوب المياه الجوفية
+water table, natural	سَطْح الماء الجوفيّ الطبيعيّ
+water tariff	تعرفة المياه
+water taste	مذاق الماء
+water technology	تقانة المياه
+water temperature	درجة حرارة الماء
+water theft	سَرقة المياه
+water tolerance	استيعاب الماء
+water tower	برج المياه / برج المياه، طالع
+water treatment	معالجة ( المياه) / معالجة الماء / مُعالجة المياه / معالجة المياه
+water treatment methods	طُرق مُعالجة المياه
+water treatment process	طَريقة مُعَالَجَة المياه
+water treatment stages	مراحل مُعالجة المياه
+water treatment system	نِظام مُعَالَجَة المياه
+water treatment system, mobile	نِظام نَقَّال لمُعَالَجَة المياه
+water tree	تفرع شجرى مائى
+water treeing	تفريع شجرى مائى
+water tribunal or court	محكمة المياه
+water tunnel	نفق مائي
+water turbine; hydraulic turbine	عنفة مائية
+water Use	استخدام المياه
+water use efficiency	كفاءة استخدام المياه
+water use, beneficial	استعمال مائيّ مفيد
+water use, commercial	استخدام (ال...) التجاريّ للمياه
+water use, effective	استعمال مائيّ فَعّال
+water use, transboundary	اِستخدام المياه العَابِرة للحدود
+water user	مُستخدِم المياه
+water user association	جمعية مستخدمي المياه
+water utilisation efficiency	كفاية استخدام النبات للماء
+water utilisation, industrial	استخدام (ال...) الصناعيّ للمياه
+water vapor	بخار الماء / بُخار الماء
+water vapor pressure curve	مُنحنى ضغط بخار الماء
+water vapor table	جدول خصائص بخار الماء
+water vapour	بخار الماء
+water volume	مقدار المياه
+water volume sprayed	حجم الماء المرشوش
+water wash	غسل بالماء
+water wash drum	وعاء الغسل بالماء
+water wash settler	وعاء النقع بالماء، وعاء الغسل بالماء، راقود ماء التنقية
+water washing	غسْل بالماء
+water wave	موجة مائية
+water withdrawal	سحب المياه
+water works booster	آلة مساعدة للتفجير في الماء
+water year	سنة مائية
+Water zone	نطاق المياه
+water, aggressive	مياه عدوانية
+water, alkaline	مياه قَلَوية
+water, artesian	مياه ارتوازية أرضية
+water, blue	مياه زرقاء
+water, clean	مياه نقية
+water, dystrophic	مياه ناقصة التغذية
+water, free	مياه حرة
+water, green	ماء أخْضَر
+water, intermediate	مياه وسطية
+water, interstitial	ماء متخلِّل
+water, juvenile / water, connate	مياه يافعة
+water, mesotrophic	مياه متوسطة التغذية
+water, metamorphic	مياه مُتحولة
+water, meteoric	مياه جوية
+water, primitive	مياه بدائية
+water, privatisation of	خصخصة المجاري المائية
+water, running	ماء جارٍ
+water, saline	ماء مالح
+water, saline-alkaline	مياه مالحة قلوية
+water, subsurface/ water, subterranean	مياه تحت أرضية
+water, thermal	مياه حرارية
+water, treated	مياه مُعالَجة
+water, virtual	مياه افتراضية
+water- and ash-free (waf)	خال من الماء والرماد (waf)
+water-based paint	طلاء ذو أساس مائي
+water-bearing layer	طبقة حاملة للمياه الجوفية
+water-bearing rock	صخر حامل للماء
+water-carrying capacity	قدرة استيعاب التدفق
+water-collecting sump	حوض تجميع الماء
+water-compatible	مُتحمل للماء
+water-cooled boxer engine	محرك مُتقابل الأسطوانات مُبرّد بالماء
+Water-cooled chiller	مُبَرَد بالماء
+water-cooled condenser	مكثف مبرد بالماء
+water-cooled electrode	قطب مبرد بالماء
+water-cooling system	نظام التبريد بالماء
+water-depth ratio	نسبة كمّية لمياه التربة
+water-displacing fluid	سائل مُزيح للماء
+water-gas tar	قطران مصانع غاز الماء
+water-holding capacity	قدرة على الاحتفاظ بالماء
+water-holding capacity, effective	سَعة الإمساك الفعالة للماء
+water-in-oil emulsion	مُستَحلَب الماء في الزَّيت
+water-jet	نافورة، نضّاخة، فوّارة
+water-level recorder / recording gauge	مسجل مناسيب الماء
+water-logging	غطاء مائيّ
+water-meadow	مجرى مائيّ مُنخفض له ضفة عالية / سهل فيضيّ
+water-proof plywood	خشب معاكس مقاوم للماء
+water-related services	خدمات متعلقة بالمياه
+water-scarce area	منطقة فقيرة في الموارد المائية
+water-sediment complex	مُعقَّد الرُّسابة المائية
+water-soluble	ذوبان في الماء / ذَوّاب في الماء
+water-stage recorder / water-level recorder	مُسَجِل مَناسيب الماء
+water; steam solar power tower receiver	برج استقبال الطاقة الشمسية ببخار الماء
+water; waters (pl.)	مياه
+Waterbody	تجمع مائي
+waterborne	منقول بالماء
+waterborne disease	مرض منقول بالماء
+watercourse	مجرى مائي
+watercourse managment	انتفاع بالمُسطحات المائية
+watercourse state	دولة مُجاورة / دولة المجرى المائي
+watercourses	مجرى مائي / مياه جارية
+watercraft	الزوارق
+waterfall	شلال
+waterfall blouse	قميص ذو طيات
+Waterflooding	غمر بالمياه
+watering duration	مدة الريّ
+waterless technology	تقنيات لامائية
+waterline	خط الماء
+waterlogged	مشبع
+waterlogging	غَدَق التربة / تغدق مائي
+watermaker	معبئ المياه
+watermark	علامة مائية
+watermill	طاحونة مائية
+waterproof	سَدُود للماء
+waterproof / watertight	سَدُود للماء
+waterproofness / watertightness	سَّدُودِية
+waters condition	حالة المُسطحات المائية
+waters maintenance	عناية بالمُسطحات المائية
+waters monitoring	مُراقبة المُسطحات والمُنشآت المائية
+waters morphology	تشكّل المُسطحات المائية
+waters observational survey	مسح رقابي للمُسطحات والمُنشآت المائية
+Waters Quality Class	درجة نوعية المُسطحات المائية
+waters quality map	خريطة نوعية المُسطحات المائية
+waters utilization	انتفاع بمُسطحات المائية
+Watershed	مُسْتَجْمَعُ (الأَمْطار) / حوض مائيّ / حوض ساكب / منطقة التصريف المائي / حد التصريف
+watershed (catchment area)	حوض مائي
+watershed area / drainage area	مساحة مستجمعات المياه
+watershed leakage	تَسرّب من فاصل مائي / تسرب مياه المستجمع
+watershed management	إدارة حوض مائي / إدارة مستجمعات المياه
+watershed point	نقطة مستجمعات المياه
+watershed services	خدمات مستجمعات المياه
+waterslope	مَيْل الماء
+waterspout	إعصار مائي
+waterstop [blanket], surface-near / sealing layer close to the upstream face	حُشِّية منع تسرب قريبة من السطح
+watertight	كاتِم
+watertwist / wateryarn	خيط غزل مائي
+waterway	مَجْرَى مائيّ / مَمر مائيّ / مَجرى مائيّ / ممر مائي
+waterway area	مِساحة مقطع دخول المياه
+waterway, clear	مَمر مائيّ خالص
+waterworks	محطة مياه / أشغال مائية
+waterworks neighbourhood	جِوَار المُنْشَآت المائية
+watt	واط / وات
+watt hour	وات.ساعة؛ وحدة قياس الطاقة / واط ساعة
+watt linkage	أوصال واط
+watt, kilowatt	واط، كيلوواط
+watt- hour	واط - ساعة
+watt-hour efficiency	مردود الواط ساعة
+watt-hour meter	مقياس واط ساعة
+watt-hour meter; (active) energy meter	عداد الطاقة الفعالة
+Watt-peak (Wp)	واط الذروة (Wp)
+wattle	نسيج غصنيّ
+wattless component	مركبة عاطلة / مُركِّبة مفاعلة / مركبة ردية
+wattless power	قدرة عاطلة / قدرة مفاعلة
+wattmeter	واطمتر / مقياس القدرة الفعالة / مقياس القدرة / مقياس واط
+wave	موجة / الموجة / موجه
+wave analyzer; tuned voltmeter	محلّل طيف
+wave angle	زاوية الموجة
+wave chain matrix	مصفوفة سلسلة موجات
+wave climate	حالة الموجة
+wave crest	ذروة الموجة / قمة الموجة
+wave cyclone	موجة إعصار
+wave disturbance	اضطراب موجي
+wave drag	كبح موجي / مقاومة موجية
+wave energy	طاقة الموجة / طاقة الأمواج
+wave energy converter; WEC	محول طاقة الامواج
+wave energy plant	محطة طاقة الأمواج
+wave filter	مرشِّح موجات
+wave form	شكل الموجة
+wave front	جبهة موجية
+wave height,	إرتفاع الموجة,
+wave impedance	مُعاوقة موجية / معاوقة الموجة
+wave interference	تداخل موجي
+wave length	طول الموجة
+wave lift	رفع موجي
+wave marks	علامات الموج، آثار الموج
+wave motion	حركة موجية
+wave movement	حركة الأمواج
+wave number	رقم موجي / مَعْلَم الموجة
+wave number; repetency	رقم الموجة
+wave period	دَوْر الموجة
+wave phase velocity,	سرعة انتشار الموجة,
+wave power, ; wave energy flux per unit width,	قدرة الموجة,
+wave pressure	ضَغْط الأمواج
+wave propagation	انتشار الموجات
+wave soaring	تحليق موجي
+wave spectrum,	طيف الموجة,
+wave steepness,	انحدار الموجة,
+wave transfer factor; amplitude transmission factor	عامل نقل موجة
+wave trough	قاع الموجة
+wave vector	متجه الموجة / متجه موجة
+wave winding	ملف تموجي / لف موجي
+wave-cut terrace	مصطبة نحتها الموج، مصطبة الموج
+wave-front	صدر الموجة
+wave-length	طول موجة
+wave-trap	مصيدة للموجة
+waveband	حزمة موجية
+waveform	شكل الموجة / شكل موجي
+waveform analysis	تحليل شكل الموجة
+waveform distortion chart	مخطط التشوه شكل الموجة
+waveform generator	مولِّد الشكل الموجي
+waveform test	اختبار شكل الموجة
+wavefront	اول الموجة / مقدمة الموجة / سطح موجة؛ مقدمة موجه
+waveguide	دليل موجى / دليل موجي
+waveguide (of a microwave heater or oven)	دليل الموجة (للسخان أو فرن الترددات العالية)
+waveguide bend; elbow	كوع دليل موجة
+waveguide cavity	تجويف دليل موجة
+waveguide corner; elbow	زاوية دليل موجة
+waveguide dispersion	تشتيت دليل موجى
+waveguide filter	مُرشح دليل موجة
+waveguide filter (in a dielectric heating equipment)	مرشح دليل الموجة ( في معدة التسخين بالعزل الكهربائي)
+waveguide flange	حلقة نهاية دليل الموجة
+waveguide gasket	حشوة إحكام لدليل موجة
+waveguide mode suppressor	كابت أنماط الدليل الموجي
+waveguide modes	أنماط الدليل الموجي
+waveguide post	حامل دليل موجية
+waveguide rope	حبل دليل موجة
+waveguide shim	حشوة رقيقة (معدنية) لدليل موجة
+waveguide switch	مُفتاح تبديل دليل موجة
+waveguide tuner	ضابط دليل الموجة
+waveguide twist	التواء دليل موجة
+waveguide wavelength; guide wavelength (deprecated)	طول موجة (لدليل موجة)
+waveguide window	نافذة دليل موجة
+wavelength	طول الموجة / الطول الموجى
+wavelength (in a given direction)	طول الموجه (فى اتجاه محدد)
+Wavelength Division Multiplexing	إِرْسالٌ مُتَعَدِّدٌ بِتَقْسِيمِ الطُولِ المَوْجِيّ
+wavelength division multiplexing; WDM	مضاعفة الإرسال بتقسيم طول الموجه / مضاعفة الإرسال بتقسيم طول الموجة
+wavelength reduction factor	عامل تخفيض طول الموجه
+wavelet	الموجة / مُوَيْجَة
+waveline	خط التموج
+wavellite	ويفلايت
+wavemaking resistance	مقاومة صنع الأمواج
+wavenumber; repetency	عدد موجى؛ تكرارات
+wavenumber; wave number	الرقم الموجي
+waves	موجة زخرفية
+waves of oscillation	أمواج الاهتزاز
+waves of translation	أمواج الارتطام، أمواج الانتقال
+waviness height	ارتفاع التموُّج
+waviness spacing	تباعد التموُّج
+waviness,	التموج,
+wavy edge	حافة متموجة
+wax	قماش مُشَمَّع / شمع
+wax fractionation	تجزئة الشمع
+wax manufacture	صنع الشمع
+wax manufacturing	صنْع الشمع
+waxed fabric	قماش مُشَمَّع
+waxed paper	ورق مشمّع
+waxed yarn	خيط مُعالج بالبرافين
+waxing	تشميع
+waxy luster	بريق شمعي
+way of life	نهج حياة
+waybill	سند شحن / بيان الشحن
+waybill (WB)	سَنَدُ نقل برّي
+waypoints	نقاط الطريق
+weadapt	تعاونية تكيف (نحن نتكيف)
+weak acid	حمض ضعيف
+weak concrete	خرسانة ضعيفة
+weak field	مجال ضعيف
+weak link	وصلة ضعيفة
+weak miXture	مزيح ضعيف
+weak point analysis	تحليل المواضع الضعيفة
+weak sun paradox	مفارقة شمسية ضعيفة
+weak tie	ربطة ضعيفة
+weak-miXture rating	قدرة تقديرية للمزيج الفقير
+weakest miXture maintained	أضعف مزيج مداوِم
+weakly guiding fibre	ليف ( بصري ) بتوجيه ضعيف
+wealth	ثروة
+weapon bay	حجرة السلاح
+weapon control system	نظام التحكم بالسلاح
+weapon debris	حُطام السلاح
+weapon delivery	مناولة السلاح
+weapon line	مسار السلاح
+weapon line; weapon/target line	خط السلاح
+weapon system	نظام التسليح
+weapon-aiming system	نظام تصويب السلاح
+weapon-systems physical security	أَمْن أنظمة التسليح
+weapon/target line	الهدف
+weaponeering	حسابات السلاح
+weapons assignment	تخصيص الأسلحة
+weapons of mass destruction	أسلحة التدمير الجماعي
+weapons recommendation sheet	ورقة اقتراح الأسلحة
+weapons state of readiness	حالة استعداد الأسلحة
+wear	بِلَى
+wear and tear	البلى والتمزق
+wear comfort	عامل الراحة
+wear inhibiting property	خاصية مَنْع الْبِلَى
+wear resistance	مقاومة البَلى
+wear-out failure	فشل إهلاكى
+wear-out failure period	فترة الفشل الناتجة عن الإهلاك
+wearing course	طبقة التَّآكُل
+weasel	فرو ابن عرس
+weather	طقس / حالة الطقس
+weather advisory	تحذير طقسي
+Weather and Energy PROGnoses (WEPROG)	مؤسسة التنبؤ بالطقس والطاقة
+weather barrier,	حاجز حماية, تسخين بالتتبع
+weather beam	حزمة الطقس الجوي
+weather boarding	ألواح التغطية
+weather condition	حالة الطقس خلال فترة معينة
+weather facsimile format	صيغة نقل صور الطقس
+Weather forecast	توقعات الطقس
+weather forecasting	التنبؤ بالأحوال الجوية
+weather map	خريطة الطقس
+weather minima	أحوال جوية دنيا
+weather proof	مقاوم للجو
+weather radar	رادار الطقس
+weather reconnaissance	استطلاع الأحوال الجوية
+weather report	نشرة الطقس / نشرة جوية
+weather resistance	مُقاومة التقلُّبات الجوية
+weather satellite	قمر الأحوال الجوية / قمر صناعي للأرصاد الجوية
+weather service	هيئة الأرصاد الجوية
+Weather station	محطة (قياس) حالة الطقس / محطة الطقس
+weather window	فترة الطقس المواتي
+weather-board (framing strip)	إفريز
+weather-proof, adj	صامد للأحوال الجوية
+weathercock	الأجولي
+weathered ore	خام مُجوَّى
+weathered sample	عينة مفتتة، عينة مجواة
+weathering	تجوية / تَجْوِية (ال...)
+weathering (contaminants)	تجوية (ملوثات)
+weathering (soil)	تجوية (التربة)
+weathering corrections	تصحيحات التجوية، تصحيحات المنطقة المتبدلة
+weathering equilibrium	توازن التجوية
+weathering intensity	شدة التجوية
+weathering stability	استقرار التجوية
+weathering zone	منطقة التجوية
+Weatherization	مقاومة التجوية
+weathervane effect	ظاهرة دوّارة الريح
+weathervane; wind vane	دوّارة الريح
+weave	تركيب نسجي للقماش / تَذَبْذُب / تَرَنُّح
+weave lapping	تركيب نسيج أطلس
+weave-tuft	سجاد متموج
+weaver’s knots	عُقدة نسّاج
+weaving distance	مسافة التداخل
+weaving section	مَقْطَع النسج، مَقْطَع التعرُّج
+weaving wire	سلك منسوج
+web	حمَّالة للقدم / صفيحة الجَسَد / عَصَب / وَتَرة / شريط ورق، لفة ورق
+web (of a beam)	عصب
+web average burning-surface area	مساحة سطح الاحتراق المتوسطة
+web buckling	تحنيب الجَسَد
+web chenille	خيط شانيل منسوج
+web crippling	تحطُّم الجَسَد
+web guide	موّجه شريطي
+web members	عناصِر الجَسَد
+Web page	صفحة على الإنترنت
+web ratio	نسبة العَصَب / نسبة الوترة
+web reinforcement	تسليح الجَسَد
+Web server	خادم إنترنت
+Web site; WWW site	موقع على الشبكة العالمية العنكبوتية؛ الموقع على الإنترنت
+web stiffener	مُدَعِّمة الجَسَد
+web tension control	ضبط شدّ الشريط
+web-fed gravure rotary press	ماكينة طبع غائر شريطي
+web-fed; reel-fed	ماكينة طبع شريطي
+webbing	شريط الحزام / حزام
+Weber number	عدد (كمية) ويبر
+Webmaster	مشرف مواقع الإنترنت
+websterite	وبسترايت
+wedding	الزواج
+wedge	مَوْشور / إسفين / وتد، إسفين / وتد
+wedge filter; step-like filter	مرشح موشوري؛ مرشح مثبت بوتد
+wedge ring	جِلْبة زاوية
+wedges	كعب الإسفين
+weed	عشب ضار
+weed-killer	مبيد الأعشاب الضارة
+weedage	انتشار العُشب أسفل سطح الماء
+weeding	اجْتثاث الحَشَائش / اجتثاث (الحشائش) / إزالة الأعشاب الضارة
+weep hole	فتحة التذريف / دَمّاعة / دِماعة
+weephole	مِيزَاب جداري
+weeping core	قوارة ناضخة، قوارة راشحة
+weeping drain	مَصرِف ترشيح
+weft / woof	خيوط اللحمة
+weft density	كثافة اللُّحْمَة
+weft double fabric	قُماش مزدوج اللُحمة
+Weft Kinitted Fabric	قماش تريكو اللحمة
+weft knitted fabric	نسيج محبوك السداء / قماش مخيط اللُحمة والسداء
+weft look	نسيج مطاطي
+weft rep	تضليعات اللُحمة
+weft twill	تويل لُحمة
+weft-knitted fabric	قماش تريكو اللُحمة
+Wehnelt cathode	مهبط وهنلت
+wehrlite	ويرلايت
+Weibull distribution	توزيع (ويبول) / توزيع 'ويبول'
+Weibull distribution plot	رسم بياني لتوزيع 'وايبل'
+Weick coefficient	مُعامِل وايك
+weigh hopper; weighing hopper	وعاء الوزن، قادوس الوزن
+weigh scales	ميزان
+weighbowl	صندوق معايرة (الوقود)
+Weighbridge	ميزان جسري
+weighing cell;load cell	خلية وزن
+weighing of axle loads	وزن الأحمال المِحوَرية
+weighing procedure	طريقة الوزن
+weight	قوة الوزن / وَزْن / وزن
+weight and balance computation	حساب التوازن
+weight and balance sheet	ورقة الوزن والتوازن
+weight breakdown	تجزئة الوزن
+weight coefficients	مُعاملات الوزن
+weight flow	جريان وزني
+weight function	دالة مُوازنة
+weight function and step response	دالة موازنة وإجابة على استثارة درجية
+weight gradient	مُعدَّل وزني
+weight in running order	وزن وضع التشغيل
+weight of container	وزن الحاوية
+weight on bit	ثِقْل على المِدَقّ
+weight per horsepower	وزن لوحدة القدرة
+weight per metre run between outer axles	الوزن لكل متر سير بين المحاور الخارجية
+weight per metre run over buffers	الوزن لكل متر سيرعلى مخفف الصدمة
+weight per unit area	الوزن النوعي
+weight per unit thrust	وزن لوحدة الدفع
+weight reduced aluminium front [UK] / weight reduced aluminum front [US]	مُقدمة السيارة 'GRAV'
+weight span	مسافة امتداد الثقل
+weight transfer	تحويل الوزن
+weight transfer compensation device	جهاز تعويض تحويل الوزن
+weight-limited	محدَّد بالوزن
+weighted average cost of capital	تكلفة مرجحة لرأس المال / متوسط تكلفة رأس المال
+weighted inner product	الضرب الداخلى لمتجهات موزونة
+weighted mean	متوسطة موزونة
+weighted mud	طِين مُثْقَل
+weighted noise	ضوضاء مرجحة
+weighted silk	حرير مُثَقل
+weighted sound pressure level; sound level	مستوى ضغط الصوت الفعال / مستوى ضغط صوت موزون
+weightlessness	انعدام الوزن
+Wein bridge	جسر ڤين
+Wein law	قانون ڤين
+weir	هَدّار / قَناةُ تَصْرِيف
+weir coefficient	مُعامِل العائق المائيّ
+weir crest	قِمّة الفيض / قمة الفيض
+weir field	حاجز الهدّار
+weir gate	بوابة الهَدَّار
+weir head	عُلُو أمام الهدَّار
+weir loading	حِمْل الهدّار
+weir overflow rate	مُعدَّل التدفق فوق الهدّار
+weir pier	دِعَامَة السَدّ
+weir shutter	مِصراع الهدَّار
+weir sill	حَدَبَة الهَدَّار / عَتَبَة الهَدَّار
+weir structure	جِسم الهَدَّار
+weir to reduce ground-water runoff	سدّ لرفع منسوب المياه الجوفية
+weir, broad-crested	هدار عريض العتبة
+weir, circular	هَدَّار دائريّ
+weir, closed / diversion dam, overflow	هَدَّار مقفول
+weir, closed / overflow diversion dam	هَدَّار مقفول
+weir, combined	هَدَّار مُركب
+weir, contracted	هَدَّار مُتقلِّص / هَدَّار مُتقلِّص
+weir, curved	هَدَّار مُنْحنٍ / هَدَّار مُقَوَّس
+weir, diversion	هَدَّار تحويل
+weir, inflatable	هَدَّار مُنتفِخ
+weir, open / dam, open diversion	هَدَّار مفتوح
+weir, rectangular	هَدَّار مُستطيل / هَدَّار مُستطيل
+weir, sharp-crested	هَدَّار حاد العتبة
+weir, short-crested	هَدَّار ضيق العتبة
+weir, suppressed	هَدَّار مكْبُوت
+weir, triangular / V-Notch weir	هَدَّار مثلوم (حرف V) / هَدَّار مُثلَّثيّ
+weir, triangular; V-Notch weir	هدار مثلثي
+weir, uncontrolled	هَدَّار ثَابِت
+weir-overflow rate	مُعدَّل التدفق العَتَبِيّ
+Weissach axle	محور 'ﭭايساخ' (Weissach)
+weld	لحام / وُصلَة ملحُومة
+weld bead	حُبيبات اللِحام / محزّ اللحام
+weld colour [UK] / weld color [US]	لون لحام
+weld continuity	اتصال اللِحام
+weld fusion zone	منطقة اندماج اللِحام
+weld parameter	متغيرات اللحام
+weld point height	بروز بقع اللحام
+weld-plus end couplings	قارنات بحلقات حبك
+weldability	قابلية اللِّحام
+weldbonding	لِحام لصقي
+welded bond	ربط ملحوم
+welded casing	أنابيب تعطيب ملحومة
+welded mesh	شبكة ملحومة
+welded patch	رقعة ملحومة
+welded steel blade	ريشة فولاذية ملحومة
+welded stud	دسار ملحوم
+welder	جهاز اللحام
+welding	لِحـام / لحام / لِحام
+welding cable	كابل لحام
+welding circuit	دائرة اللحام الكهربيه
+welding current return clamp ; work clamp, US	كلامب عودة تيار اللحام (كلامب تشغيل)
+welding cycle	طور التلحيم
+welding elbow	كوع لحم
+welding electric current	تيار كهرباء اللحام
+welding electrode	مسرى لحام
+welding fluX	صهيرة لِحام
+welding installation	تجهيزه لحام
+welding jig	دليل اللِحام
+welding machine	آلة لِحام / ملحم
+welding neck	طوق لحم
+welding neck flange	شَفَة اللحام التناكبيّ بعنق
+welding post	مركز تلحيم
+welding power circuit	دائرة كهربائية لنظام اللحام
+welding procedure qualifications	شروط طريقة اللحم
+welding resistance check; weld resistance test	مقاومة اللِّحام
+welding return cable; work lead, US	كابل إعادة تغذية اللحام
+welding rod	قضيب لِحام
+welding steps filler passes	درزات لحام ملء
+welding tee	لحام بثلاث شعب، لحام على شكل(T)
+welding truck	سيارة بمعدات لحم، سيارة لحم
+welex hercules 2 powder for side wall coring	بارود (ولكس) ماركة هركلوز رقم 2 للاعتيان الجانبي
+well	بئر / صالحة
+Well Acidization	معالجة البئر بالحامض
+Well Acidizing Pump	مضخة معالجة الآبار بالحامض
+well boring	عملية الحفر
+well car	عربة ذات منصة مخصصة لتكديس الحاويات
+well casing	غلاف البئر / قسطل حماية البئر
+well cementing	سَمْنَتَة الآبار
+Well Completion	إنجاز البئر
+Well Coordinates	إحداثيات البئر
+well core	لُبُّ البئر
+well curb	‌حاجز البئر
+Well Deepening	تعميق البئر
+well development	تطوير البئر
+well effluent	قيض البئر
+well foundation	أساسات بئرية
+well head pressure	ضغط عند رأس البئر
+well head protection area	منطقة حماية رأس البئر
+Well History	سجل تاريخي للبئر
+well hydrograph	هيدروجراف آبار / هَيدروجراف البئر
+Well Integrity	سلامة البئر وتكامله
+well interference	تداخل الآبار
+well killing; borehole killing	إخماد البئر
+well log	سجل البئر / مخطَّط البئر
+well logging	تسجيل البئر
+well monitoring	مراقبة الآبار
+well permit	تصريح بالحفر
+well rig	معدات الحفر / برج الحفر
+well sampling	عينات البئر
+well screen	مِصْفاة بئرية
+well shooting	رصيد الحفر، تقوير زلزالي، حفر زلزالي
+Well Site	موقع البئر / ورشة الحفر
+well sorted	جَيِد الفَرْز
+well spacing	تباعُد بين الآبار
+well water	ماء البئر / مياه الآبار
+well, artesian flowing	بئر ارتوازية متدفقة
+well, gas-lift flowing	بئر متدفقة برفع الغاز
+well, subsurface injection	بئر تسرّب (إلى باطن الأرض)
+well-core analysis	تحليل القوارة
+well-drop culvert	بَرْبَخُ سقوط بئريّ
+well-graded	جَيِّد التدرج
+well-hole (open well of a stair)	بئر الدرج، بيت الدرج
+well-measuring wire	سلك قياس البئر
+well-stocked	كثافة جيدة
+well-to-wheel	من المنبع إلى العجلات
+Wellhead	فوهة البئر
+wellhead (christmas tree)	رأس البئر (يسمى شجرة عيد الميلاد لتشابه الشكل)
+wellness service	خدمة لياقة بدنية
+wellpoint	بئر تصريف
+wells formula	مُعادلة البئر
+wells used for irrigation	آبار تستخدم للري
+welt pocket	جيب شريطي
+Wendelflex hose coupling	وصلة خرطومية مرنة
+west African cotton	قُطن غرب إفريقيا
+western look	طراز الغرب الأمريكي
+western pocket	جيب الغرب الأمريكي
+Weston standard voltage cell	خلية ويستون للجهد القياسي
+wet	يتبلَّل / يُبلِّل / رطب، مبلّل / مبلّل، رطب
+wet adiabatic	رطب لاتبادلي للحرارة
+wet air cooler	مُبرِّد هواء بالطريقة الرطبة
+wet air oxidation (WAO)	أكسدة بالهواء الرطب
+wet analysis	تحليل رطب
+wet assembly	تجميع رطب
+wet boost	تعزيز رطب
+wet builder	مُصنِّع رطب
+wet Bulb	بُصَيْلة رطبة
+wet bulb temperature	درجة حرارة البصيلة الرطبة / درجة حرارة البُصَيْلة الرطبة
+wet bulb thermometer	ترمومتر ذو بُصَيْلة رطبة
+wet cell	خلية سائلة
+wet cooling tower	برج تبريد رطب
+wet cooling towers	أبراج تبريد رطبة
+wet crease recovery angle / wet wrinkle recovery angle	زاوية التجعد في الرطوبة
+wet crop	محصول مَرويّ
+wet crushing	تكسير رطب
+wet deck surface	سطح رطب
+wet deposition	ترسب رطب
+wet dust collector	جَامِع الغُبَار الرَّطب
+wet emplacement	منصَّة مبتلَّة
+wet felting	تلبيد بالتبليل
+wet filter	مرشِّح رطب
+Wet Gas	غاز رطب
+wet H-bomb	قنبلة هيدروجينية رطبة
+wet lease	استئجار الطائرة مع الطّاقم / استئجار رطب
+wet look	لباس بَلِيل
+wet mix	خليط رطب
+wet mix macadam	حَصبَاء مَزِيج رَطب
+Wet Oil	زيت رطب
+wet oil; cut oil	زيت رطب (يحتوي على الماء)، نفط خام رطب، نفط رطب
+wet oxidation	‌أكسدة رَطبة
+wet pad	منصة رطبة
+wet printing	طباعة رطبة
+wet rating	تقدير رطب / معدَّل رطب
+wet rotor pump	مضخة بِدوار مبلل
+wet scrubber	تنظيف رطب
+wet seal	مانع تسرب الرطوبة
+wet season barrier	حاجز المَطَر
+wet sensor	مُحِسّ رطب
+Wet separation	فصل رطب
+wet snow	ثُلُوجٌ رَطبَة
+wet spun yarn	خيط مغزول غزلاً رطباً
+wet start	بدء تشغيل رطب
+wet steam	بُخار رَطب
+wet steam region	منطقة بُخار رطب
+wet strength / relative wet strength	مُقاومة الصباغة للبلل
+wet strength paper	ورق مقاوم للبلل
+wet strength retention	قوة الورق الرطب
+wet suit	بذلة رطبة
+wet sump	حوض رطب
+wet take-off	إقلاع رطب
+wet tensile strength / wet tearing resistance	مقاومة البلل
+wet torrefaction	تحميص رطب
+wet twisted yarn	خيط مزوي رطب
+wet unit weight	وزن (ال...) الحجمي الرطب
+Wet waxing	ترطيب بالبارافين
+wet weather flow	جريان في الطقس الرطب
+wet weight	وزن رطب
+wet well	غرفة السحب / بئر رَطْبَة / بئر رطبة
+wet wing	جناح رطب
+wet workshop	مَشْغل رطب
+wet wrinkle release	التعافي من التكمش في حالة رطبة
+wet – mix shotcrete	خرسانة رطبة مقذوفة
+wet-bulb potential	درجة حرارة البُصَيْلة المخضَّلة
+wet-bulb temperature	درجة حرارة البُصَيلة المخضّلة
+wet-bulb thermometer	مقياس حرارة ذو بُصَيْلة مخضَّلة
+Wet-Process Phosphoric Acid	حمض الفوسفوريك بالطريقة الرطبة
+wet-run anti-icing	منع التجلُّد بالتشغيل الرطب
+wet/dry collection systems	نظم جمع رطب / جاف
+wet/dry deposition	ترسيب رطب / جاف
+wetland	أراضي رطبة
+wetland agriculture	زراعة (ال...) الرطبة
+wetland cultivation	زراعة أراضي المُستنقعات
+wetlands	أهوار
+wetlands / constructed wetland	محطة معالجة بالنباتات
+wettability	قابلية البلل
+wettability / wetting capacity	قابلية تشرب السوائل
+wetted area	مساحة مبتلَّة / مساحة معرَّضة
+wetted contact	تلامس مبتّل (منخفض المقاومة)
+wetted fibre	ألياف مبتلَّة
+wetted perimeter	محيط (ال...) الرطب
+wetted surface	سطح مبتلّ / سطح معرَّض
+wetting	تبليل / ترطيب
+wetting agent	عامِل مُبلِّل / عامل تبليل / عامل ترطيب / عامل مبلِّل، عامل مرطِّب
+Wevenit®	ويفينت ®
+wgh (wgii) less scenario	فريق العمل الثاني، سيناريو النظام الأقل انبعاثات
+wharf (pl.wharves), boarding bridge	رصيف
+wharf wall	جدار الرصيف
+wharfage charges	رسوم الرصيف
+wharfmaster	ناظِر الرصيف
+wheat acreages	أراضي مزروعة بالقمح
+Wheatstone automatic system	نظام (هويستون) التلقائي
+Wheatstone bridge	قنطرة ويتستون / جسر ويتستون
+Wheatstone bridge circuit	قنطرة قياس ويتستون
+wheel	عجلة / عَجَلَة / جهاز جيروسكوبي / دولاب / دوّار العنفة / عَجَلة قيادة
+wheel alignment system	نظام قياس المحاور
+wheel arrangement	ترتيبات العَجَلَة
+wheel balance weight pliers	قامطة أثقال موازنة العجلات
+wheel balancing	ضبط الاتزان
+wheel base	المسافة بين العجلتين / قاعدة العَجَلَة / قاعدة اللف
+wheel bearing	محمل العجلة
+wheel bearing extractor	كلابة سحب محامل العجلات
+wheel bearing grease	شَحْم لكراسي العجلات
+wheel bearing insert unit (FAG)	وحدة محمل العجلة طراز Insert Unit من شركة فاج (FAG )
+wheel bearing kit	شحم محامل العجلات
+wheel bearing kit 1.T (FAG)	شحم محامل العجلات من الجيل 1.T من شركة فاج (FAG)
+wheel bearing kit 2.1 (FAG)	شحم محامل العجلات من الجيل 2.1 من شركة فاج( FAG)
+wheel bearing kit 3 (FAG)	شحم محامل العجلات من الجيل الثالث من شركة فاج( FAG)
+wheel bearing unit	وحدة محمل العجلة
+wheel bearing unit hub unit offset design(FAG)	وحدة محمل العجلة طراز Hub Unit Offset من شركة فاج (FAG)
+wheel bearing unit truck axle module (FAG)	وحدة محمل العجلة طراز محور الشاحنة Truck Axle Module من شركة فاج (FAG)
+wheel bearing unit truck hub unit (FAG)	وحدة محمل العجلة طراز صرة الشاحنة Truck Hub لشركة فاج (FAG)
+wheel bearing with spur gear	محمل عجلة بتسنين جبهي
+wheel body	هيئة العَجَلَة
+wheel bolt	مسمار العجلة
+wheel brake	فرملة العجلات / فرامل العَجَلَة
+wheel brake cylinder	أسطوانة العجلة
+wheel brake disk	الفرامل العجلات
+wheel cleaning	تنظيف العجلات
+wheel contact	اتصال بالعَجَلَة
+wheel conveyor	ناقل ذو عجلات
+wheel cover	غطاء العجلة
+wheel detector	كاشف العجلة
+wheel disc [UK] / wheel disk [US]	قرص العجلة
+wheel disk	قرص العَجَلَة
+wheel doors	أبواب العَجَلات
+wheel drive	مجموعة الإدارة النهائية
+wheel flange	شَفَّة العجلة
+wheel flange contact point	نقطة اتصال شَفَّة العجلة
+wheel flat	عَجَلَة مسطحة
+wheel hub	صُرّة العجلة / مِحوَر العَجَلَة
+wheel hub motor	موتور صُرّة العجلة
+wheel hub puller	كلابة سحب صُرر العجلات
+wheel landing; wheeler	حط برفع الذيل
+wheel load	حِمْل العَجَلة
+wheel lock-up	انغلاق العجلات
+wheel material	مواد العَجَلَة
+wheel materials	أدوات عَجَلَة
+wheel mode	نمط الدولاب
+wheel noise	ضجيج العَجَلَة
+wheel noise absorber	ممتص ضوضاء العَجَلَة
+wheel nut [UK] / lug nut [US]	صامولة العجلة
+wheel receiver	مستقبل العَجَلَة
+wheel revolution counter	عداد دوران العجل
+wheel satellite	قمر صناعي دولابي
+wheel sensor	حساس العجلة
+wheel set	مجموعة العَجَلَة
+wheel set axle	مِحوَر مجموعة العَجَلَة
+wheel set changer	مُغيِّر مجموعة العَجَلَة
+wheel slide protection device	جهاز حماية من إنحراف العجلة
+wheel speed sensor	حسّاس سرعة العجلة / مستشعر سرعة العَجَلَة
+wheel suspension	مجموعة تعليق العجلات
+wheel tread	مداس العَجَلَة
+wheel well	بئر العَجَلة
+wheel; wheeling	إحناء / تقويس
+wheelbarrowing	خطران على العَجَلات
+wheelbase	قاعدة العَجَلات
+wheelbrakes	فرامل العجلات / مكابح العَجَلات
+wheelcase	علبة الدولاب
+wheeler	حط ذات الدولاب
+wheeling	نقل كهربائي وسيط
+wheelwright's work wood	خشب صناعة المركبات
+whewellite	ويويلايت
+whiffletree; whippletree	شجرة قيادة
+whip	سوط
+whip aerial	هوائي سَوْطي
+whip antenna	هوائى بشكل سوط
+whip cord	نسيج مضلّع بخطوط بارزة بالورب
+whip stall	انهيار سَوْطي / هَوَيان سوطي
+whip-off	تنظِيفُ الشَّظَايَا
+whipcord	نسيج مبرد مُستقيم
+whipstock	صَفَّارة التحويل / إسفين الإمالة
+whirl chamber process	طريقة الغرفة الدوّامية
+whirl-mode flutter	رفرفة النمط الدوّامي
+whirler	دوّار
+whirling arm	ذراع تدويم
+whirling mode	نمط اهتزاز دوّامي
+whirlpool	دَوَّامة
+whirlybird	طائرة دوّامية
+whisker	شُعيرة
+whisper brake	فرامل هَمسيَّة
+whistle	صَافِرَة / صفارة / صفير
+whistle board	لوحة الصفير
+whistle for attention	صافرة الإنذار
+whistler	صافر / شُوَاش
+Whitcomb body	جسم ويتكومب
+white balance	موازنة اللون الابيض / توازن اللون الأبيض
+white body	جسم أبيض
+white cedar	أزر أبيض
+white clipping	قصاصة بيضاء
+white crushing (of a television picture)	تحطيم البياض ( لصورة التلفاز)
+White Diesel Oil	زيت الديزل الأبيض / زيت ديزل أبيض
+white goods	نسيج أبيض / سلع بيضاء
+white lead	أبيض الرصاص / الرصاص الأبيض، أبيض الرصاص
+white ledger	كتاب أبيض
+white level	مستوى الأبيض / منسوب البياض
+white minerals	معادن بيضاء
+white noise	ضوضاء بيضاء / شوشرة بيضاء / ضجيج أبيض
+white noise; flat random noise	ضوضاء نظيفة، تشويش أبيض
+White Oils	زيوت بيضاء / زيوت بيضاء (للأغراض الطبية أو لمستحضرات التجميل)، دهن الوذلين
+white open wove bandage; w.o.w. bandage	رباط من النسيج المسامي الأبيض، رباط من الشاش
+white pages (in computer networks)	صفحات بيضاء (فى ربط الشبكات)
+white pine wood	خشب الصنوبر الأبيض
+white point,	نقطة بيضاء, / نقطة لالونية, ؛ نقطة بيضاء
+White Products	منتجات بترولية بيضاء
+white reproduction non-uniformity; white shading	عدم تجانس في إعادة إنتاج الأبيض
+white room	حجرة بيضاء
+white saturation level; white clipping level	مستوى تشبع الابيض
+White Scale	شمع برافين غير نقي
+white scale; paraffin scale	قشور برفين
+white tracking characteristics	خصائص تتبّع الأبيض
+white washed	طريقة الغَسْل البيضاء
+white water	مياه ذات نوعية جيدة / مياه بيضاء
+white zone (in a chromaticity diagram)	منطقة البياض ( في مخطط اللونية)
+white-box testing; glass-box testing; clear-box testing	اختبار الصندوق الأبيض؛ اختبار الصندوق الزجاجى؛ اختبار الصندوق الشفاف
+white-tailed	بيضاء الذيل
+whitecoat sealskin	فقمة بيضاء
+whitening	تبيض
+whitening of pastes	تبيض العجائن
+whiteout	إضباب قطبي
+whiting	مسحوق كربونات الكالسيوم، مسحوق طباشير
+Whiting’s gate / Whiting’s self-acting waste weir gate	بوابة وايتنج ذات هدار يعمل ذاتياً
+Whitney punch	مثقب وِتني
+Whitney stress diagram	مُخَطَّط وتني للإجهادات
+whittle - turbo-drill	مثقب (ويتل) العنفي
+Whitworth	لولب وِتوُورث
+whole body dose	جرعة لكامل الجسم
+whole farm planning	تخطيط شامل لمزرعة
+whole naphta	نفتا خالصة
+Whole Naphtha	نافثا كاملة
+whole route locking	إغلاق كامل الطريق
+whole-aircraft charter	استئجار كامل الطائرة
+whole-body counter	عداد لكامل الجسم / عدّاد الجسم الكامل
+whole-body irradiation	تعريض كامل الجسم للاشعاع
+whole-range distance	مسافة المدى الكلي
+whole-range point	نقطة المدى الكلي
+whole-tree harvesting	حصاد الشجرة من فوق الجِذْل
+wholesale	بيع بالجملة
+wholesale customer; wholesaler	مستهلك البيع بالجملة؛ البائع بالجملة
+wholesale price index	مؤشر أسعار الجملة
+Wholesale Transmission Services	خدمات نقل الطاقة بالجملة
+wholesaler	بائع الجملة
+whorl	فلكة المغزل
+wick	خيط غزل الفتيل / فتيلة
+wick feed cup	كأس تغذية بفتيل، كوب تغذية ذوفتيل
+wicker lattice-work	الشَّبكان
+wide angle lens	عدسة بسعة زاوية كبيرة
+wide angle luminaire	جهاز إضاءة ذو زاوية منفرجة
+wide area augmentation system	نظام WAAS
+Wide Area Network	شبكة واسعة النطاق (WAN) / شَبَكَةٌ واسِعَةٌ
+Wide Area Network (WAN)	شبكة منطقة شاسعة (WAN)
+wide area network; WAN (abbreviation)	شبكة حاسبات واسعة النطاق؛ إختصار (WAN)؛ شبكة الحاسبات المتسعة
+wide body	عريضة الجسم
+wide cut jet fuel	وقود نفاثات عريض القطفة، وقود نفاثات واسع القطفة
+wide flange beam	جائز عريض
+wide grading	تَدرِيجٌ وَاسِع
+wide range distillate	قطارة المجال الواسع
+wide skirt	تنورة واسعة / تَنُّورَة واسعة
+wide space design	رسم الفضاء الواسع
+wide wale corduroy	قطيفة ترينكر
+wide-band amplifier (for MATV or CATV)	مضخم النطاق العريض (لنظام MATV او CATV )
+wide-base tyre [UK] / wide-base tire [US]	إطار عريض
+wide-bodied aircraft	طائرة عملاقة
+wide-body aircraft	طائرة عريضة الجسم
+wide-cut fuel	وقود منخفض الأوكتان
+wide-deck	أسطوانة عريضة القاعدة
+wide-open-throttle enrichment	إغناء الخليط في حالة الحمل الكامل
+wideband amplifier	مضخِّم عريض النطاق
+wideband channel	قناة عريضة النطاق
+wideband dipole	ذو قطبين عريض النطاق
+wideband oxygen sensor, planar type (LSU)	حساس لامدا العالمي LSU
+wideband ratio	نسبة النطاق العريض
+widening	تعريض، توسيع
+width	ثخانة الحرف
+width at back	عرض الظهر
+width dimension	عرض هيكل السيارة
+width of bottom	عَرْض القاع
+width of flameproof joint	عرض لوصلة ضد اللهب
+width of sheaf	اتساع الحزمة
+width of spread	عرض الانتشار
+width variation	تغيّر العرض
+Wiedemann-Franz law	قانون ڤيدمان-فْرانز
+Wien's law,	قانون واين,
+wild collection	مجموعة برية
+wild fauna	حيوانات برية
+wild flooding; contour ditch irrigation	غمر عشوائيّ
+wild flower strip	شرائط الأزهار البرية
+wild flowing	تدفُّق جامح، ثوران بئر لا سيطرة عليه
+wild gasoline	بنزين وحشي
+wild harvest	حصاد بري
+wild phase; leading phase	طور جامح- طور متقدم
+wild population	ساكنة برية
+wild silk	سِمات الحرير البري الطبيعي
+Wildcat Area	منطقة استكشافية
+wildcat well	بئر استكشافية، بئر تنقيبية
+wildfire	حريق الغابة
+Wildhaber-Novikov gears	مسنن ڤيلدهابر-نوڤيكوڤ
+wildlife	حياة برية
+wildlife corridor	ممر للحياة البرية
+will not fire	عدم اشتباك
+willemite	وليمايت
+willingness to accept (wta)	استعداد للقبول
+willingness to open	قابلية الانفتاح
+willingness to pay (wtp)	استعداد للدفع
+Williot-Mohr diagram	مخطط ويليوت-مور
+willow wood	خشب الصفصاف
+Wilson centre	مركز ويلسون
+Wilson cloud chamber; cloud chamber	حجرة ويلسون السحابية
+wilt disease	ذبول
+wilting point, first permanent / wilting point / wilting coefficient	نقطة الذّبول الدائم
+Wilton carpet	سجاد ويلتون
+wimple	حجاب الراهبة
+winch	رافِعة
+winch launch	إطلاق مِرفاعي
+winch suspension	تعليق مِرفاعي
+winched cleaning equipment	جِهاز تنظيف مِلْفاف الرافعة
+winching	مُعالجة (ال...) بواسطة المرفاع
+winchman	رَجُل المِرفاع
+wind	ريح
+wind across; wind down	ريح عمودية
+wind action	فِعْل الرياح
+wind and air pressure belt	حزام الرياح والضغط الجوي
+wind angle	زاوية الريح
+wind atlas method	طريقة أطلس الرياح
+wind aXes	محاور الريح
+wind beam	جائز الرياح
+wind break	كبح رياح
+wind carrier 1	سفينة ويند كاريير 1
+wind chill	تبريد ريحي
+wind cone	مخروط الريح
+wind correction angle	زاوية تصحيح الريح
+wind desalination	تحلية باستخدام الطاقة الريحية
+wind diagram	مخطط الريح
+wind direction	اتجاه الريح / اتجاه الرياح
+wind dispersal	انتشار بالريح
+wind energy	الطاقة الريحية / طاقة الرياح / طاقة ريحية
+Wind Energy Agency Bremerhaven; Bremen (WAB)	وكالة طاقة الرياح بمدينة بريمرهافن (WAB)
+wind energy converter	مُحوِّل طاقة الرياح
+Wind Energy Measurement Station	محطة قياس طاقة الرياح
+wind erosion	تعرية ريحية
+wind factor	عامل الريح
+Wind Farm	مزرعة الرياح / حقل رياح
+wind farm design tool	أداة تصميم حقل الرياح
+wind farm lease	عقد انتفاع بحقل رياح
+wind force	حِمْل الرياح / قُدرة الرياح
+wind forecast error	خطأ في التنبؤ بالرياح
+Wind gas	غاز الرياح
+wind girder	دِعامة لمقاومة الريح
+wind gradient	تدرُّج الريح
+wind home systems (WHS)	أنظمة طاقة رياح منزلية (WHS)
+wind load	حمل الرياح / حِمْل الرّياح
+wind monitoring system	نظام مُراقبة الرياح
+Wind Park	حقل ريحي / مزرعة الرياح / مزرعة رياح
+wind portal	إطار الرياح
+Wind Portfolio	محفظة الرياح
+Wind power	كهرباء رياحية
+wind power density	كثافة طاقة الرياح
+Wind Power Generation	توليد طاقة الرياح
+wind power plant	محطة لتوليد طاقة الرياح
+wind power station	محطة توليد بطاقة الرياح / محطة توليد هوائية
+wind power station; wind farm	محطة توليد بطاقة الرياح
+wind power time series	تسلسل زمني لقُدرة الرياح
+wind pressure	ضَغْط الرياح / ضغط الريح
+wind profile; wind shear law	مخطط الرياح
+wind rose	وردة الريح / وردة الرياح
+wind rotor	دوّار الريح
+wind shear	رياح القص / قصّ الرياح
+wind shear exponent	أس رياح القص
+wind shift	زحزحة الريح
+wind sleeve	كُمُّ الريح
+wind span	مسافة امتداد الرياح
+wind speed	سرعة الرياح
+wind speed distribution	توزيع سرعة الرياح
+wind speed duration curve	مُنحنى فترات سُرعة الرياح
+wind speed frequency curve	مُنحنى تواتر سُرعة الرياح
+wind star	نجمة الريح
+wind suction	امتصاص ريحي
+wind tee	دليل الريح
+wind tetrahedron	هرم الريح
+wind turbine	عنفة (تربينة) رياح / عنفة رياح / عنفة الرياح
+Wind turbine (WT)	عنفة الرياح
+Wind Turbine blades	ريش توربينة الرياح
+wind turbine bridge	جِسر عنفات رياح
+wind turbine generator system; WTGS (abbreviation)	نظام مولدعنفات (تربينات) الرياح
+wind turbine operation costs	تكاليف تشغيل عنفات الرياح
+Wind Turbines	توربينات الرياح
+wind vane	ريشة المروحة / دوّارة الريح
+Wind Vane Sensor	مستشعر اتجاه الرياح
+wind veer	تغيّر اتجاه الرياح
+wind velocity	سرعة الرياح
+wind-aided intensified evaporation	التبخر المكثف باستخدام الطاقة الريحية
+wind-gauge sight	مقياس الانحراف بالريح
+wind-loading rating	قدرة برج الحفر على مقاومة الرياح
+wind-tunnel balance	ميزان النفق الهوائي
+wind-up turn	لفّ نهائي
+windage	انحراف بفعل الريح
+windage jump	قفزة بفعل الريح
+windage loss	فقد الاحتكاك بالهواء
+windbreak	حاجز رياح
+windbreaker / wind jacket	سترة واقية من الريح
+Windcatcher	ملقف
+winder	لفّاف
+winding	ملفات / ملف رئيسى / لفيفة / لولبي، حلزوني / درج حلزوني، درج لولبي / لفّ / لفّة
+winding cylinder; winding drum	اسطوانة لفّافة
+winding factor	عامل اللف؛ عامل الوشيعة
+winding overhang	الأجزاء الطرفية للملف؛ رأس الوشيعة
+winding overhang support	حامل الأطراف المعلقة للملف؛ حامل رأس الوشيعة
+winding overhang support insulation	عزل حامل الأطراف المعلقة للملف
+winding pitch	خطوة بين اللفات
+winding yarn	خيط غزل ملفوف
+windmill	طاحونة الريح / طاحونة هوائية
+windmill-brake state	وضع كبح طاحونة الريح
+window	نافذة
+window (of a counter tube)	نافذة (لصمام العد)
+Window and Door Frames (UPVC)	أبواب وإطارات النوافذ من اليو بي في سي
+window bars	عوارض النافذة
+window chart	مخطط نافذةِ
+window defogger	نظام تدفئة النوافذ
+Window insulation film	رقاقة عزل النوافذ
+window lift control	تجهيزة تشغيل آلية رافعات زجاج النوافذ
+window lock	قفْل النافذة
+window mullion	عمود النافذة
+window signal	إشارة نافذةِ
+window sill (internal)	عتبة داخلية
+window space	مساحة نافذة
+window-check	تربيعات النافذة
+window-frame	إطار النافذة
+window-seat	مقعد نافذة
+windrow composting	تسميد بالتكويم
+windrow of snow	كَفَّاف ثَلجِي
+windrowing	إزَاحَة
+winds aloft	رياح عليا
+windscreen	حاجب الريح
+windscreen [UK] / windshield [US]	زجاج المُقدمة / زجاج أمامي
+windscreen washer system [UK] / windshield washer system [US]	نظام غسل الزجاج / نظام تنظيف الزجاج
+windscreen wiper	مسَّاحة حاجب الريح
+windscreen wiper [UK] / windshield wiper [US]	مسَّاحة الزجاج
+windscreen wiper control [UK] / windshield wiper control [US]	تجهيزة تشغيل مسّاحات الزجاج الأمامي
+windshear	قص الريح
+windshear indicator	مُبيِّن قص الريح
+windshield	واقية الريح
+windshield aperture	إطار الزجاج
+windshield wiper blade	ريشة ممسحة الزجاج الأمامي، ماسحة الزجاج الأمامي
+windsock	جورب الريح
+Windsor collar	ياقة ويندسور
+windthrow	إسقاط ريحي
+wing	جَناح / يطير
+wing (of a building)	جناح، جناح ملحق بمبنى
+wing [UK] / fender [US]	رفرف
+wing area	مساحة الجناح
+wing arrangement	ترتيب الجناح / نسق الجناح
+wing auger	مِثْقَب يدوي مجنح
+wing aXis	محور الجناح
+wing bar	قضيب إنارة مجنح؛ شريط إنارة مجنح / شريط جناحي / شعاع جناحي
+wing bending moment	عزم انعطاف الجناح / عزم ثني الجناح
+wing bending-moment relief	تخفيف عزم ثني الجناح
+wing bending-torsion mode	نمط ثني والتواء الجناح
+wing boX	صندوق الجناح
+wing cell	خلية جناح
+wing chord	وتر الجناح
+wing collar	ياقة مجنحة
+wing dike	سد تُرابيّ مُجنّح / ضفة مُرشدة
+wing drag	كبح الجناح / مقاومة الجناح
+wing drop	هبوط الجناح
+wing fence	حاجز الجناح
+wing fillet	شريحة الجناح المنحنية
+wing flaps	قلاّبات الجناح
+wing flutter	رفرفة الجناح
+wing guns	مَدافع الجناح
+wing levee / afflux bund / afflux bank	جناح حاجز
+wing levee; afflux bund; afflux bank	حاجز الطميّ
+wing leveller	مُسوِّ الجناح
+wing loading	تحميل الجناح
+wing mirror [UK] / side mirror [US]	المرآة الجانبية
+wing nut	صمولة مجنَّحة
+wing overhang	مُتَدَلٍّ من الجناح
+wing panel	لوح الجناح
+wing pivot	مرتَكَز الجناح
+wing plan	مسقط الجناح الأفقي
+wing pocket	جيب الفارس
+wing position	موضع الجناح
+wing profile	جانبية الجناح
+wing radiator	مُشِعّ الجناح / مِشعاع الجناح
+wing rail	جناح السكة
+wing reactions	ردود فعل الجناح
+wing rib	ضلع الجناح
+wing rock	ترجُّح الجناح
+wing section	مقطع الجناح
+wing setting	وَضْع الجناح
+wing skid	زحّافة الجناح
+wing skin	غشاء الجناح
+wing slot	شقُّ الجناح
+wing spar	عضد الجناح
+wing struts	دعامات الجناح
+wing sweep	اجتراف الجناح
+wing tanks	خزانات الجناح
+wing tip	حاقة الجناح
+wing truss	جملون الجناح / شبكية الجناح
+wing union	صمولة وصل مجنحة
+wing walk	ممشى الجناح
+wing wall	حائط منحدر / جِدَار جَناح
+wing wall culvert	بربخ بجدار جناحي
+wing warping	انفتال الجناح
+wing yawmeter	مقياس انعراج جناحي
+wing-borne flight	طيران محمول بالجناح
+wing-heavy	ثقيلة الجناح
+winglet	جُنَيِّح / جنيح ثانوي
+wingman	طائرة الجناح
+wingover	انقلاب على الجناح
+wingspan	باعُ الجناح
+wingspread	بسطة الجناح
+wingtip	طَرَف الجناح
+wingtip flare	مشعل طَرَفي
+wingtip handler	مُناوِل طَرَف الجناح
+wingtip rake	مَيْل طرف الجناح
+wingtip vortices	دوّامات طَرَفية
+winter	شتاء
+winter cotton	قطن شتوي
+winter serviceability	مَرفِقِيَّة شَتوِيَّة
+winter solstice	انقلاب شتوي
+winter thermal cover	غلاف شتوي حراري
+winter tyre	مَلَّاحَة
+winterflats	أقمشة مسطحة شتوية
+winterization	إعداد للشتاء
+wipe	مسح
+wipe-off switch	مفتاح الاحتكاك
+wiper (of a selector)	ماسح ( لمفاتيح الاختيار
+wiper arm	ذراع ماسحة الزجاج
+wir-rope clip	مِشْبَك كَبْلي
+wire	سلك / سلْك
+wire / twist	سلك
+wire binding	تجليد سلكي
+wire brush	فرشاة سلكية / فرشة سلكية
+wire bundle	حزمة أسلاك
+wire clamp	ماسك الأسلاك
+wire comb	مشط سلكي، خدّاشة
+wire edge	حافَّة سلكية
+wire electrode	إلكترود سلكي / قطب كهربائي سلكي
+wire enamel	مينا عزل السلك
+wire fabric	نسيج معدني، شبك معدني
+wire feed device	تجهيزة تغذية سلك اللحام
+wire feeder; wire feed unit (superseded)	مغذي سلك/ وحدة تغذية السلك
+wire fixing	تثبيت الأسلاك
+wire gauge	قياس الأسلاك / مُحَدِّد قياس الأسلاك / معيار الأسلاك / مقياس الأسلاك المعدنية
+wire group	مجموعة أسلاك
+wire guidance	توجيه سلكي
+wire guide coil	حلزون دليلي للسلك
+wire line	كَبْل، خط سلكي
+wire line core barrel; retractable core barrel	أنبوب اعتيان سَحُوب، قوارة سَحُوبَة بسلك
+wire line coring	استخراج اللب بالسلك
+wire line formation tester	جهاز اختبار الطبقة الأرضية المدلى بالسلك
+wire link	وصلة سلكية
+wire locking	قَفْل سلكي
+wire mesh	شبك معدني
+wire nail	مسمار سلكي، مسمار دقيق / مسمار سلكي / مسمار إبرة
+wire netting	شبك معدني
+wire printing	طبع سلكي
+wire pulling method	طريقة شد السلك
+wire rack truck	عربة حمالات الأسلاك
+wire reel; wire spool	حامل بكرة سلك الحشو
+wire rope	كَبْل معدني، حبل سلكي
+wire rope knife	قاطع الكبل
+wire rope lubricant	مزلّق الحبال المعدنية، مزلق الكبلات المعدنية
+wire side	جانب السلك
+wire stitcher	ضبارة سلكية
+wire train bus; WTB	سلك قضبان القطار
+wire transmission	نقل سلكى
+wire – mesh reinforcement	شبكة تسليح ملحومة
+wire-drawing	سحب الأسلاك
+wire-feed control	تحكم مغذي السلك
+wire-strike protection system	نظام الوقاية من الارتطام بالأسلاك
+wire-wound	لفّة سلكية
+wire-wound potentiometer	مقياس فرق الجهد بسلك ملفوف
+wire-wrapped connection	وصلة ذات لفّات سلكية
+wire; strand	سلك - جديلة
+wired glass	زُجاج مسلَّح
+wired program	برنامج سلكي
+wired program control	تحكّم ببرنامج سلكى
+wired storage	مخزون سلكي
+wireless	لاسلكي
+Wireless Charging Control	نظام التحكم في الشحن اللاسلكي
+Wireless charging system	نظام الشحن اللاسلكي
+Wireless EV Charging	الشحن اللاسلكي
+wireless LAN; WLAN (abbreviation)	إختصار (WLAN)؛ شبكة الحاسب المحلية اللاسلكية
+wireless local area network	الشبكات المحلية اللاسلكية W-LAN
+Wireless power transfer	نظام نقل الطاقة اللاسلكي / نقل الطاقة اللاسلكي
+wireless transmission medium	وسط نقل لاسلكي
+wireless valve	صِمام لاسلكي
+wireless-LAN	شبكة محلية لاسلكية (WLAN)
+wireline	تقنية استخدام الكابل
+wiremark	علامة سلكية
+wiresonde	مسبار سلكي
+wireway	مجرى أسلاك
+wiring	شبكة أسلاك
+wiring (secondary wiring)	اسلاك التوصيل الثانوية
+wiring diagram	نمط الأسلاك / مخطط التمديدات الكهربائية
+wiring system	نظام توصيلات الأسلاك
+wishbone arm	ذراع تعليق شبه منحرفة
+wishbone axle	محور بيايات تعليق عرضية
+wishbone axle system	نظام المحاور Wishbone
+Wiss	ويس
+Wistel®	ألياف ويستل ®
+withdrawable part (of an assembly)	جزء قابل للسحب
+withdrawal	تعديل فتح-غلق
+withdrawal from service	سَحبٌ من الخدمة
+withdrawal level	مستوى السحْب، مستوى الاستخراج
+withdrawal of casing	سحب أنابيب التبطين، استخراج أنابيب التغليف
+withdrawal rate	معدَّل السحْب
+withstand voltage	جهد التحمل
+witness mark	علامة ربط
+witness point	نقطة ربط
+witzschoura	فيتشورا
+wobble plate	القرص المترواح / قرص متراوح
+wobble plate compressor	ضغّاط ذي قرص مُتراوح
+wobble plate compressor (AC)	ضغّاط القرص المتراوح (مكيف الهواء)
+wobble plate compressor (AC), externally controlled	ضغّاط القرص المُتراوح (مكيف الهواء) المحكوم خارجياً
+wobble plate compressor (AC), not self-adjusting	ضغّاط القرص المُتراوح (مكيف الهواء) غير ذاتي التحكم
+wobble plate compressor (AC), self-adjusting	ضغّاط القرص المُتراوح (مكيف الهواء) ذاتي التحكم
+wobble pump	مضخة تراوحية
+wobble saw	منشار رجّاج
+wobble wheel roller	محدلة بعجلات مترجحة (متمايلة)
+wobbulator	مُراوِح
+wolf	ذئب
+wolframite	ولفرامايت
+woll-Labor-Bremen eV	مختبر بريمن للصوف
+wollastonite	ولاستونايت
+Wolpryla ®	فولبريلا ®
+woltmann meter	عدّاد ولتمان
+womenswear	ملابس نسائية خارجية
+women’s jumper / women’s pullover / women’s sweater	كنزة نسائية
+women’s oversized shirt	قميص فضفاض
+wood	خشب
+wood -fungi	فطور الخشب
+wood -oil	زيت الخشب
+wood balustrade	درابزين خشبي
+wood bed	سرير خشبي
+wood blind	مربيّة، حصيرة النافذة
+wood blind factory	مصنع المشربيات
+wood block	قالب خشبي، رسم خشبي
+wood boarding	تلبيس بالخشب
+wood briquettes	قوالب خشبية
+wood carving	نحْت على الخشب
+wood charcoal	فحم الخشب
+wood chemistry	كيمياء الخشب
+wood chips	رقائق الخشب
+wood chisel	إزميل الخشب
+wood combustibility	احتراقية الخشب
+wood consumption	استهلاك الخشب
+wood cutter	قطّاعة الخشب
+wood cutters-camping	مخيّم الحطّابين
+wood distillation	تقطير الخشب
+wood drill	ثقابة الخشب
+wood drying	تجفيف الخشب
+wood dust of wood powder	مسحوق الخشب
+wood energy	طاقة خشبية
+wood engraving	حفر الخشب
+wood file	مبرد للخشب
+wood filler	معجون الخشب
+wood finishing	إنهاء الأغمال الخشبية
+wood flour	مسحوق الخشب
+wood fuel (including wood for charcoal)	خشب الوقود (بما في ذلك خشب فحم الخشب)
+wood fungus	فطر الخشب
+wood gas	غاز الخشب
+wood gas generator	مولِّد غاز الخشب
+wood gauge block	قالب خشبي
+wood glue	غراء خشبي
+wood grains	ألياف الخشب
+wood gum	صمغ الخشب
+wood heating	موقد حرق الأخشاب
+wood impregnation	إشراب الخشب
+wood improvement	تحسين الخشب
+wood inflammability	احتراقية الخشب
+wood joist	عارضة خشبية
+wood management	عناية بالغابات الخشبية
+wood moulding	تشكيلات خشبية
+wood packaging	تغليف خشبي
+wood pattern maker	صانع النماذج الخشبية
+wood pattern shop	معمل نماذج الخشب
+wood pellets	جسيمات خشبية مضغوطة / كبسولات خشبية
+wood pile	وَتِد خشبي
+wood plasticity	لدانة الخشب
+wood polish	صقْلأ الخشب
+wood preservation	حفظ الخشب
+wood press	مكبس الخشب
+wood products	منتجات خشبية
+wood pulley	بكرة خشبية
+wood pulp	مواد الخلايا / عجينة الخشب / لب خشب
+wood raw material equivalent	خشب خام مكافئ للمادة المصنعة
+wood residues	بقايا الخشب
+wood resources	موارد الخشب
+wood rim	طوق خشبي
+wood screw	لولب للخشب
+wood shavings	نُشارة
+wood structure	بنية الخشب
+wood technology	تكنولوجيا الخشب
+wood tissue	نسيج الخشب
+wood trunk	قناة خشبية
+wood turning lathe	مخرطة الخشب
+wood type	محرف خشبي
+wood vinegar	خل الخشب
+wood waste	نفايات الخشب
+wood work	أشغال الخشب
+wood worn	دودة الخشب
+Wood's metal	معدن وُود
+wood-cut printings	مطبوعات بالقوالب الخشبية
+wood-resistance to physical and chemical factors	مقاومة الخشب للعوامل الفيزيائية والكيميائية
+woodchip heating system	تدفئة برقائق الخشب
+woodchips	رقائق الخشب
+wooden baby -doll	دمية خشبية
+wooden barrel	برميل خشبي
+wooden beam	جائز خشبي، برطوم
+wooden bomb	قنبلة خشبية
+wooden bowl	جفنة خشبية
+wooden buttress	مسند خشبي
+wooden coffin	تابوت خشبي
+wooden feet ways	أرصفة خشبية
+wooden foot bridge	جسر خشبي للراجلين
+wooden graver	نقّاش على الخشب
+wooden house	بيت خشبي
+wooden humper	سلّة خشبية
+wooden jar	سطل خشبي
+wooden lock	نُجُرٌ
+wooden nail	مسمار خشبي
+wooden ornemants	زخارف خشبية
+wooden panelling	تغطية خشبية
+wooden peg	دسار خشبي
+wooden plates	رقائق خشبية
+wooden pole	عمود خشبي
+wooden roof	سقف خشبي
+wooden sledge	زلاّجة خشبية
+wooden steering wheel	عجلة قيادة خشبية
+wooden string	عارضة خشبية
+wooden tie	صلبان خشبية
+wooden tile	بلاطة خشبية
+wooden toy	لعبة خشبية
+wooden toy factory	مصنع لعب الخشب
+wooden work of art	منقوشات فنية من خشب
+wooden- house factories	مصانع البيوت الخشبية
+woodfuel removals	استخراج خشب الوقود
+woodwork	خشبيات
+woody	خشبي
+woody biomass	كتلة حيوية خشبية
+woody debris	حطام خشبي
+woody materials	مواد خشبية
+woody plant zone	منطقة نباتات خشبية
+woody plants	نباتات خشبية
+wool	صوف
+wool blanket	غطاء صوفي
+wool breeds / wool types	سلالات أغنام الصوف
+wool broadcloth	قماش صوفي
+wool combings	مُشَاطَة الصوف
+wool flannel	صوف فلانل
+wool fleece	صوف
+wool georgette	قماش جورجيت الصوف
+wool grading / wool classification	تصنيف
+wool grease / lanolin	دهن الصوف
+wool mark	وولمارك
+wool modification	تغيير الصوف
+wool origins	مَنْشَأ الصوف
+wool padding / wool batting	بطانة صوف
+wool poplin	بوبلين صوفي
+Wool purity	نقاوة الصوف
+wool quality test	اختبار جودة الصوف
+wool research	أبحاث لصوف
+Wool Research Organisation of New Zealand	معهد بحوث الصوف بنيوزيلندا
+wool ripple	تجعد الصوف
+wool scouring mill / wool laundry	غسيل الصوف
+Wool suint	عرق الصوف
+wool taffeta	تافتاه صوف
+wool trading rules	شروط تجارة الصوف
+wool types	أنواع الصوف
+wool voile	وشاح صوفي
+wool, naming principles	مبادئ التسميات الصوف
+woollen spun yarn	خيط غزل لازوردي
+Woolmark	ختم الصوف
+Woolmark Blend	رمز نسبة الصوف الكبيرة
+word	كلمة
+word articulation	وضوح الكلمات
+word length	عرض الكلمة
+word rate	مُعدَّل الكلمات
+work	شغل / شُغْل / عَمَل / شُغل
+work (mechanical)	شُغل (ميكانيكي)
+work and tumble (to)	طبع وقلب طولي
+work and turn (to)	طبع وقلب عرضي
+work and twist (to)	طبع وتدوير نفس الوجه
+work barge	طَوْف الصيانة
+work bench	منضدة عمل
+work clothes	ملابس العمل
+work dungarees	مـِشمل مهني
+work electrode (of a dielectric heater)	قطب التشغيل الكهربائي (لسخان العزل الكهربائي)
+work exchanger	جهاز استعادة الطاقة الميكانيكية
+work function	دالة شغل
+work function (of an electrode material)	دالة العمل ، وظائف الشغل ( لمواد القطب )
+work lamp [UK] / work light [US]	مصباح العمل
+work location	منطقة عمل
+work machine	آلة تشغيل
+Work order	أَمْرُ العَمَلِ
+work overalls	لباس مهني
+work package	حزمة شُغل / عقد تصنيع
+work place	مكان العمل
+work platform	منصة عمل
+work report	تقرير عمل
+work rules	لوائح وقواعد العمل
+work shirt	قميص مهني
+work shop	مَشْغَل
+work station	محطة التشغيل
+work suit	بذلة مكتبية
+work trousers	سروال مهني
+workability	قابلية التَّشغِيل / قابلية التشغيل
+worked ivory	عاج مصنع
+worked penetration	اختراقية (ال...) بعد الجَبْل (العجن)
+worker look	لباس العامل
+working capital	مصاريف التشغيل
+working chamber / working space	حيّز العمل
+working clearance	مسافة العمل الآمنة
+working cycle	دورة العمل
+working cylinder	أسطوانة تشغيل
+working electrode	قطب التشغيل الكهربائي
+working end of an electrode glass furnace	مقسم التشغيل لفرن الزجاج ذو أقطاب كهربائية
+working face	مساحة العمل
+working fluid	مائع تشغيل
+working frequency	التردد الفعال
+working group	فريق عمل
+working group on energy balances (AGEB)	مجموعة عمل حول حصيلة الطاقة / مجموعة العمل حول التوازنات الطاقية (AGEB)
+working height	ذروة العمل
+working in the vicinity of energized parts	العمل فى محيط الأجزاء تحت الجهد
+working interest	حصة صاحب الامتياز، حصة التشغيل
+working load	حمل التشغيل / حِمل التشغيل
+Working member	عُنصر تشغيل
+working photometric standard; tertiary photometric standard	معيار فوتومترى عملى
+working plane; work plane; utilization plane	سطح العمل؛ سطح الشغل
+working platform	منصة التشغيل، منصة برج الحفر، منصة العمل
+working point	خَطّ إرتدادِ
+working point/operating point	نقطة تشغيل
+working poor	وظيفة سيئة
+working pressure	ضغط التشغيل
+working pressure; operating pressure	ضغط التشغيل
+working price	سعر الكيلوواط ساعة
+working range (of a quantizer)	مجال العمل
+working rules, service regulations,	قواعد العمل
+working section	مقطع التشغيل / مقطع العمل
+working site signal	إشارة تَبَاطُؤ
+working standard	معيار مرجعي
+working standard (in telephonometry)	معيار العمل ( في القياسات الهاتفية )
+working standard lamp	مصباح قياسى عامل
+working stress	إجهاد (ال...) المسموح
+working stress design	تصميم وفق إجهادات التشغيل
+working temperature	درجة حرارة التشغيل
+working voltage	جهد التشغيل / جهد تشغيل
+workload	حمل الشغل؛ حمل تشغيلى
+Workover	صيانة البئر
+workover operations	أعمال الصيانة، عمليات صيانة بئر
+workover rig	محطة إعادة التشغيل
+workpiece	قطعة تشغيل / الشغلة
+Workpiece coordinate system	نظام إحداثيات الشغلة
+Workpiece coordinate system based	نظام إحداثيات قاعدة الشغلة
+Workpiece zero point	نقطة صفر الشغلة
+workpiece,	قطعة تشغيل, مقاومة تسخين / قطعة تشغيل, تسخين بالتتبع
+workshop	ورشة / ورشة العمل
+workshop crane	رافعة مَشْغَل
+workshop equipment	عُدَد الورشة
+workshop gantry	رافدة مَشْغَل
+workshop switch	زر الورشة
+workwear	ملابس مهنية
+workwear / office wear / work clothes	ملابس مهنية وعملية
+world bank	البنك الدولي
+world business council for sustainable development (wbcsd)	مجلس الأعمال العالمي للتنمية المستدامة (WBCSD)
+world city	مدينة عالمية
+world commission on dams	لجنة السدود العالمية / لجنة عالمية للسدود (WCD)
+World coordinate system	نظام إحداثيات عالميّ
+World Council for Renewable Energy (WCRE)	المجلس الدولي المستقل للطاقة المتجددة (WCRE)
+world day to combat desertification and drought	(ال) يوم العالمي لمكافحة التصحر والجفاف
+World Economic Forum (WEF)	المُنتدى الاقتصادي العالمي (WEF)
+world energy council	مجلس الطاقة العالمي (WEC)
+world energy demand	طلب عالمي على الطاقة
+world fare	تعرفة عالمية
+world future energy summit	قمّة عالمية لطاقة المُستقبل
+World Geographic Reference System	نظام إسنادي جغرافي عالمي
+World Health Organization	منظمة الصحة العالمية
+World Health Organization (WHO)	مُنظّمة الصحة العالمية (WHO)
+world heritage	تراث عالمي
+world heritage area	مجال تراث عالمي
+world heritage convention	اتفاقية التراث العالمي
+world heritage site	موقع تراث عالمي
+world intellectual property organization (wipo)	منظمة عالمية للملكية الفكرية
+world meteorological organization (wmo)	المنظمة العالمية للأرصاد الجوية (WMO) / المنظمة العالمية للأرصاد الجوية
+world petroleum council (WPC)	مجلس البترول العالمي (WPC)
+world resources institute (wri)	معهد الموارد العالمية (WRI)
+world scale	مقياس عالمي، سُلَّم عالمي
+World Social Forum	منتدى اجتماعي عالمي
+world summit on sustainable development	مؤتمر القمة العالميّ للتنمية المستدامة
+World Trade Agreement	اتفاقية التجارة العالمية
+World Trade Organisation (WTO)	منظمة التجارة العالمية
+world trade organization	منظمة التجارة العالمية
+world trade organization (wto)	منظمة التجارة العالمية
+World Weather Watch	مراقبة الطقس العالمي
+World Wide Web; Web; WWW (abbreviation)	النسيج العالمى للمعلومات؛ إختصار (W3)؛ إختصار (WWW)؛ صفحة الإنترنت
+world wind energy association (WWEA)	جمعية عالمية لطاقة الرياح (WWEA) / الرابطة العالمية لطاقة الرياح (WWEA)
+worm -eater wood	خشب مسوَّس
+worm and roller steering	مجموعة تروس التوجيه الدودية ذات البكرة
+worm and rolling finger steering gear	نظام توجيه ذو إصبع دوراني
+worm feeder; screw feeder	لَولَبُ التعيير
+worm gear	تعشيق دودي / تروس دودي، عجلة و تروس دودي
+worm gear steering	مجموعة تروس التوجيه الدودية
+worm spring	ياي دودي
+worm-and-sector steering gear	مجموعة تروس التوجيه الدودية ذات القطاع
+worn in	جينز مقلوب
+worst-case (risk)	أسوأ حالة (خطر)
+worsted flannel	صوف فلانل ذو خيوط مُمشَّطة
+worsted twist yarn	خيط برم ممشط
+worsted yarn	خيط مُمَشَّط
+Wortmann profiles	جانبيات ڤورتمان
+wound primary type current transformer	محول تيار ذو دعامة
+wound rotor induction generator	مُولّد حثّي بدوَّار ملفوف
+wound-rotor induction motor	محرك حثي بدوار ملفوف
+wove paper	ورق سادة
+woven clutch lining	بطانة نسيجية للقابض
+woven compound fabric	نسيج مزدوج
+woven rug	سجاد منسوج
+wow	نشاز
+wrack	حطام
+wracking force	قوة الانهيار
+wrap	صفحات مضافة
+wrap dress / wraparound dress / wrap coat	إزار
+wrap dressing gown	معطف منزلي
+wrap skirt	تنورة تحتية
+wrap-round boosts	معزِّزات محيطية
+wrap-round engine	محرك مُحيطي
+wrap-round wing skin	غشاء مُحيط بالجناح
+wraparound skirt / wrap skirt	تنورة ملتفة
+wrapped bushing	جِلبة ملفوفة، جِلبة مغلوقة
+wrapped connection	وصلة ملفوفة
+wrapped pipe	أُنْبوب ملفوف
+wrapping cord	حبل تحزيم
+wrapping machine	مغلّفة
+wrapping machines; pallet wrapper	ألات الالتفاف؛ غلاف المنصة
+wrapping paper	ورق لفّ
+wrapping thread	خيط مزوي ملفوف
+wrapping tissue	ورق لفّ رقيق
+wrapping yarn	خيط غزل ملفوف
+WRE break-up system	نظام التحطيم اللاسلكي
+wre profiles	WRE-Profile
+WRe97/3-WRe75/25	تنجستين رينيوم 97/ 3 - تنجستين رينيوم 75/ 25
+wreck risks	مَخَاطر التحطم
+wrecker	سيارة تصليح
+wrecks	بقايا حيوية طافية
+wring out	إقحام عنيف
+wrinkle angle	زاوية تَجَعّد
+wrinkle recovery angle	زاوية تصحيح التجعد
+wrinkle release	التعافي من التكمش
+wrinkle; wrinkling	تَجَعُّد
+wrist circumference	محيط المعصم
+wrist pin	مسمار الرسغ
+wristwarmer	كُمَيْم
+write off	يقضي على الطائرة
+Write Once Read Many; WORM (abbreviation)	الكتابة مرة واحدة مع القراءة المتعددة
+write, verb	يكتب, فعل
+write-off	حساب الاستهلاك / خَفْض القيمة
+writing	كتابه
+writing bar; writing edge; chopper bar	عارضة الكتابة
+writing gun	قاذف كتابة
+writing helix	لولب الكتابة
+writing speed	سرعةِ الكتابة
+writing speed maximum	سرعة الكتابه القصوى
+Written Consent for Railway Transport	مُوافَقَةٌ خَطِّيَّةٌ لِلنَقْلِ في الخُطُوطِ الحَدِيْدِيّةِ
+wrong road signal; wrong signal	اشارات الطريق الخطأ
+wrong-side failure	عطل يؤثر على السلامة
+wrought	مُشكَّل / مُطرَّق
+wrought iron	حديد مُطَاوِع
+wter -spout or pipe of a roof-gutter	مزراب
+WTI Crude Oil	بترول خام غرب تكساس وسيط
+Wuerzburg radar	رادار فيرزبرچ
+wulfenite	ولفنايت
+Wulff net	شبكة ولف
+wurtzilite	حُمَّر متصلِّب
+wurtzite	ورتزايت
+wurtzite structure	بنية ورتزايت
+wwf ecoregions	مناطق ايكولوجية للصندوق العالمي للطبيعة
+wye turnout	إزاحة خارجية
+Wärmereservoir höherer Temperatur	خزان ذو درجة حرارة مرتفعة

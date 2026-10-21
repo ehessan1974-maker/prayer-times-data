@@ -1,0 +1,255 @@
+عابر	transient
+عاتق الميزان	beam of balance
+عاثية الجراثيم	bacteriophage
+عازل	insulator
+عازل كهربائي	dielectric
+عاكِس (اسم)	reflecting
+عاكس (صفة)	reflective
+عام	universal
+عام، شامل	general
+عامِل	factor
+عامل التواتر، عامل التكرار	frequency factor
+عامل الحِدَّة	severity factor
+عامل الذوبانية، عامل الذائبية	solubility factor
+عامل القياس	scale factor
+عامل بولتزمان، معامل بولتزمان	Boltzmann factor
+عامل تنشيط سطحي، فعالية سطحية	surfactant
+عامل داخلي المنشأ	intrinsic factor
+عامل مؤسّل، عامل محمضل	acylating agent
+عامل محدّد	limiting factor
+عاملي	factorial
+عايَرَ	titrate (to)
+عاير، وحّد القياس	standardize (to)
+عبّاد الشمس	litmus
+عبير، شذا، أرج	fragrance
+عتامة، كمدة	opacity
+عتبة	threshold
+عجز المعدن، إخفاق المعدن	metal failure
+عجينة	paste
+عجينة باريس	plaster of Paris
+عجينة، لبّ	pulp
+عدّاد الومضان	scintillation counter
+عدّاد غيجر	Geiger counter
+عدّاد، معاكس، ضدّ	counter
+عدد	Loschmidt number
+عدد (ال...) الحمضي	acid number
+عدد (ال...) الموجي	wave number
+عدد أفوغادرو	Avogadro's number
+عدد أفوكادرو	Avogadro's number
+عدد الأستيل	acetyl number
+عدد الأكسدة	oxidation number
+عدد الانتقال	transference number
+عدد الأوكتان	octane number
+عددُ التساند	coordination number
+عدد التكافؤ	valence number
+عدد التكافؤ، رقم التكافؤ	valence unmber
+عدد الدفعة	batch number
+عدد السيتان	cetane number
+عدد الكتلة	mass number
+عدد النقل	transport number / transport number; transference number
+عدد اليود	iodine number
+عدد براندت	Prandtl number
+عدد ذري	atomic number
+عدد فردي	odd number
+عدد كمومي دوراني	rotational quantum number
+عدد كمومي مداري	orbital quantum number
+عدد كمي ثانوي	quantum number (secondary)
+عدد كمي رئيسي	quantum number (principle)
+عدد كمي، لف ذاتي	quantum number (spin...)
+عدد كوانتي (كُمومي)	quantum number
+عدد موجي	wave number
+عدد نظيري	isotopie number
+عدد نيوتروني	neutron number
+عدد هرشل لتفكك الاستحلاب	Herschel demulsibility number
+عدد، رقم	number
+عدم إشباع	unsaturation
+عدم إشباع، عدم تشبع	unsaturation
+عدم التشبّع، عدم الاشباع	insaturation
+عدم الذوبان، لاذوبانية (ال...)، عدم الانحلال	insolubility
+عدم تموضع	delocalization
+عدم تموضع الإلكترون	electron delocalization
+عدم تناظر، لا تناظر	dissymmetry
+عدّة	tools
+عدوى	contagion / infection
+عديد التكافؤ، متعدد التكافؤ	multivalent
+عديد السكاريد الموسيني	mucopolysaccharide
+عديم الرائحة	odourless
+عديم اللون	colorless
+عربة، مركبة، سائل حمل (في الصيدلية)	vehicle
+عَرْض	symptom / width
+عَرَضي، عارِض	accidental
+عُرْف	convention
+عرَّى	dismanttle (to)
+عزْل	insulation / isolation
+عزل حراري	lagging
+عزْل، فصْل	segregation
+عزم	moment
+عزم ثنائي القطب	dipole moment
+عزمُ ثنائيِّ القطبِ المغنطيسي	magnetic dipole moment
+عزمُ ثنائيِّ قطبٍ كهربائي	electric dipole moment
+عَزْمٌ سَبينيّ	spin momentum
+عزم قطبي	orbital moment
+عزم كهربائي	electric moment
+عزم مغناطيسي	magnetic moment
+عزم مغنطيسي	magnetic moment
+عزوف	lyophobic
+عسرة الماء، قساوة الماء	water hardness
+عُشاري	deca
+عشاري الماء	decahydrate / decahydrous
+عُشْريّ	deci-
+عشوائي	chaotic / random
+عشوائية	randomization / randomness
+عصابة الطنين	resonance band
+عصارة معدية	gastric juice
+عصبة، عصابة، حزام، شريط	band
+عَصْر	expression / squeezing
+عصير	juice
+عضوي	organic
+عضوية	organism
+عضى	oragnize (to)
+عطالة	inertia / passitivity
+عطالة الفلز، عطالة المعدن	passitivity of metal
+عطَّر	aromatize (to) / perfume
+عطر, شذا	scent
+عِطرٌ، أرِجٌ (زيت)	fragant (oil)
+عطر، خلاصة	essence
+عطْر، شذى، عبير، نكهة	aroma
+عطري	aromatic
+عطريل، آريل	aryl
+عظمين	ossein
+عَفْصٌ	tannin
+عفص، حامض التنيك	tannin
+عفن	mildew
+عقّار، أصل الدواء	drug
+عَقّار، دواء	drug
+عقد، انعقد، جمّد، تجمّد	congeal (to)
+عقم	infertility
+عُقَيدة	nodule
+عقيق	agate
+عكارة، عكَر، كدورة	turbidity
+عكِر	clouding / turbid
+عكس، أزال	un-
+عكس، عكوس	reverse
+عَكوس	reversible
+عكوس، قابل للانعكاس	reversible
+عَكوسية	reversibility
+عكوسية، قابلية للانعكاس	reversibility
+علاج (ال...) الكيميائي	chemotherapy
+علاقات (ال...) الكمية الكيميائية	stoichiometry
+علاقة	relation
+علاقة قطرية	diagonal relationship
+علامة بصرية	optical sign
+علبة أوزان، مجموعة أوزان	weights set
+علم الأشكال، مورفولوجيا	morphology
+علم البلّورات	crystallography
+علم البيئة	ecology
+علم التحريك، التحريكيات	kinetics
+علم التعدين	metallurgy
+علم السببيّات	etiology
+علم المعادن	mineralogy
+علم المعادن، ميتالوغرافية	metallography
+علم الوراثة	genetics
+علم وصناعة الصواريخ النارية	pyrotechnics
+على التوالي	in series / in succession
+عمر النصف، عمر نصفي	half-life
+عمل	work
+عملي	practical
+عملية	operation / process
+عملية إعادة الدوران	recirculation process
+عملية أُكسو	oxo process
+عملية الأمونيا-صودا	ammonia soda process
+عملية التماس	contact process
+عملية الزيوليت	zeolite process
+عملية السياناميد	cyanamide process
+عملية أميليّة	amylo process
+عملية أوكسو	oxo process
+عملية أولية	unit operation
+عملية بسمر	Bessemer process; Bessemer converter
+عملية تحليلية	analytical method
+عملية ترموفور	thermofor process
+عملية جافة	dry process
+عملية حرارية	thermal process
+عملية رطبة	wet process
+عملية ريب	Reppe process
+عملية صناعية	industrial process
+عملية عَكوسة	reversible process
+عملية غولد شميدت	Goldschmidt process
+عملية كظيمة، إجراء كظيم	adiabatic process
+عملية كهركيميائية	electrochemical process
+عملية هابر، إجراء هابر	Haber process
+عملية هيدروكول	Hydrocol process
+عملية، إجراء	process
+عمود	column
+عمود الاحتجاز، عمود الاحتفاظ	retention column
+عمود الغسل، برج الغسل	washing column
+عمود تجزئة	fractionating colomn / fractionating column
+عمود تقطير	distillation column / still head
+عمود تقويم	rectifying column
+عمود ذو قرص دوار	rotating disk column
+عمود فولتا، خلية فولتا	volta cell
+عمود محشو	packed column
+عمودي، رأسي، شاقولي	vertical
+عميل	agent / agent (oxiding)
+عميل استحلاب	emulsifying agent
+عميل التنحية، عميل الفصل	sequestering agent
+عميل انتفاخ	swelling agent
+عميل إنصال (إزالة)	stripping agent
+عميل تبريد، عامل تبريد	cooling agent
+عميل تبعثر	dispersing agent
+عميل تبليل	wetting agent
+عميل تحرّي، عميل حجب	screening agent
+عميل تغليظ	thickening agent
+عميل تنظيف	scouring agent
+عميل حافز، عامل حفّاز	catalytic agent
+عميل حفّاز	agent (catalytic)
+عميل صهر	fusing agent
+عميل مؤكسِد	oxidizing agent
+عميل مبعثِر	dispersibility agent
+عميل مجفّف	drying agent
+عميل مختزِل	reducing agent
+عميل مختزِل، عامل مرجِع	reducing agent
+عميل مذيب	dissolving agent
+عميل مستحلِب	emulsifying agent
+عميل مطفّر	mutagenic agent
+عميل مقوّي	reinforcing agent
+عميل مُنْصِل	decolorizing agent
+عميل نازع للماء	dehydrating agent
+عميل وقاية	protective agent
+عميل وقاية من الماء	water proofing agent
+عناصر انتقالية داخلية	innertransition elements
+عناصر ترابية نادرة	rare earths
+عناصر ما وراء اليورانيوم	transuranian elements
+عناصر مشعَّة	radio-elements
+عناصر نزرة	trace elements
+عناصرانتقالية	transition elements
+عنبر	amber
+عنبر، كهربا	amber
+عنصر	element
+عنصر انتقالي	transition element
+عنصر ترابي نادر	rare earth element
+عنصر تسخين	heating element
+عنصر خماسي التكافؤ، عنصر خماسي	pentad
+عنصر مُشِعٌّ	radioactive element
+عنصر نَزْر	trace element
+عنصر وليد	daughter element
+عنصري، أولي، بسيط	elementary
+عنفي، قيحي	septic
+عنونة، رقم	label(l)ing
+عنيف	violent
+عَوَز الهواء	air deficiency
+عَوَز، نقص	deficiency
+عيادة	clinic
+عيار	titer (titre)
+عياري، عادي	normal
+عياني	macroscopic
+عِيانيّ، جَهْرِيّ	macroscopic
+عيب، خلل	defect
+عيّر، درّج، عاير	calibrate (to)
+عين	mesh
+عين مجردة	naked eye
+عينة	sample / specimen
+عينة اختبارية	test sample
+عينة مَرجِعية	reference sample
+عيوب	defects
+عيوب بلورية	crystal defects
+عيوب شبكية	lattice defects

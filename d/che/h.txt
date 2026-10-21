@@ -1,0 +1,337 @@
+Haber process	عملية هابر، إجراء هابر / طريقة هابر
+haem	هيم
+Haematin; hematin	هيماتين
+haematite	هيماتيت
+haeme	هيم
+haemoglobin	هيموغلوبين، هيموجلوبين
+haemoglobinometer	مقياس الهيموغلوبين، مقياس الهيموجلوبين
+hafnium	هفنيوم
+half-cell	نصف خلية
+half-fluid	نصف سائل
+half-life	عمر النصف، عمر نصفي
+half-life (t1-2)	نصف الحياة، عمر النصف
+half-life period	فترة نصف الحياة، فترة عمر النصف / مدة عمر النصف
+half-reaction	نصف تفاعل / نصف تفاعل، تفاعل نصفي
+half-wave potential	كمون نصف الموجة
+halide	هاليد
+halide ion	أيون هاليدي
+Hall process	طريقة هال
+hallucinogen	مُهلوِس، مُحدِث هَلْوسة
+halo-	سابقة: ملح أو هالوجيني
+haloacide	حمض هالوجيني
+haloalkane	ألكان هالوجيني
+haloamine	أمين هالوجيني
+halocarbon	كربون هالوجيني
+haloform	هالوفورم
+haloform reaction	تفاعل الهالفروم / تفاعل الهالوفورم
+halogen	هالوجين
+halogenated	مهلجَن
+halogenation	هلجنة
+halogens	هالوجينات (ال...)
+halohydrin	هالوهيدرين
+halophilic	أليف الملح
+Hamiltonian function	دالّة هاملتونيّة
+hammer	مطرقة
+haptoglobin	هَبتوغلوبين
+hard water	ماء قاس، ماء عسير / ماء قاسي (عَسِر)
+harden (to)	قسّى، صلّد
+hardened oils	زيوت مقساة، زيوت مهدرجة
+hardening	تقسية
+hardening of fats	تقسية الدهون، اجماد الدهون السائلة (بالهدرجة)
+hardness	قساوة / قساوة، عُسْرة
+hardness of water	قساوة الماء، عسر الماء
+harmful	مؤذ، ضار
+harsh	خشن
+hazard	خطَرٌ، مخاطرة
+hazardous material	مادة خطرة
+heat	حرارة
+heat (atomic...)	حرارة ذرية
+heat capacity	سعة حرارية
+heat constant	ثابت حراري
+heat content	محتوى حراري
+heat exchanger	مبادل حراري
+heat measurements	قياسات حرارية
+heat of adsorption	حرارة الامتزاز
+heat of combustion	حرارة الاحتراق
+heat of condensation	حرارة التكاثف
+heat of crystallization	حرارة التبلور
+heat of decomposition	حرارة التفكّك
+heat of dilution	حرارة التمديد
+heat of dissolution	حرارة الانحلال
+heat of formation	حرارة التشكل / حرارة التشكُّل (التشكيل)
+heat of fusion	حرارة الانصهار
+heat of haydration	حرارة التميّه
+heat of hydration	حرارة التميّه
+heat of ionization	حرارة التأيّن
+heat of neutralization	حرارة التعادل / حرارة التعديل
+heat of reaction	حرارة التفاعل
+heat of solution	حرارة المحلول / حرارة الانحلال
+heat of sublimation	حرارة التصعُّد (التصعيد)
+heat of transition	حرارة الانتقال
+heat of vaporization	حرارة التبخر
+heat transfer	نقْل الحرارة / انتقال الحرارة
+heater	سخّان
+heating element	عنصر تسخين
+heating mantle	لِحاف مُسخِّن
+heavy	ثقيل
+heavy chemical	مادة كيميائية ثقيلة
+heavy hydrogen	هيدروجين ثقيل
+heavy isotope	نظير ثقيل
+heavy metal	فلز ثقيل
+heavy oil	زيت ثقيل
+heavy oxygen (18O)	أكسجين ثقيل
+heavy water	ماء ثقيل
+heavy water (D2O)	ماء (ال...) الثقيل
+Heisenberg uncertainty principle	مبدأ الارتياب لهايزنبرغ
+helium	هليوم / هيليوم
+Helmholtz free energy	طاقة هلمهولتز الحرة
+Helmholtz function	تابع هلمهولتز
+hematein	هيماتيين
+hematin	هيماتين
+hematite	هيماتيت
+heme	هيم
+hemi-	نصف، نصفي: سابقة
+hemiacetal	أسيتال نصفي
+hemicellulose	سيلولوز نصفي
+hemihedron	متعدد سطوح نصفي
+hemihydrate	هيدرات نصفية
+hemiketal	كيتال نصفي
+hemin	هِيمين
+hemoglobin (Hb)	هيموغلوبين، خضاب الدم
+hemolysin	هيموليزين: حالّة دموية
+hemolysis	انحلال الدم
+hemolytic	حالّ الدم
+Hempel burette	سحاحة
+hempseed oil	زيت بذر القنب
+henna	حِنّاء
+Henry's law	قانون هنري
+heparin	هيبارين
+heptane	هبتان / هِبتان
+heptanoic acid	حمض الهبتانويك
+heptose	هبتوز (سكر سباعي)
+herbicide	مبيد للأعشاب / مبيد الأعشاب
+hereditary	وراثي
+hermetic	محكم السدّ
+heroin	هِيْروين
+Herschel demulsibility number	عدد هرشل لتفكك الاستحلاب
+hertz	هِرتز
+Hess's law	قانون هس
+Hess's law of constant heat summation	قانون للجمع الجبري الحراري الثابت
+hetero	غير متجانس، مغاير، مختلف، مخالف
+hetero-	متغاير: سابقة
+heteroannular	حلقي غير متجانس
+heteroatom	ذرّة متغايرة
+heteroazeotrope	إيزوتروب غير متجانس
+heterocycle	حلقة متغايرة
+heterocyclic	حلقي متغاير
+heterocyclic compounds	مركبات حلقية غير متجانسة
+heterogeneous	غير متجانس (بادئة بمعنى)، لا متجانس / لا متجانس
+heterogeneous catalysis	تحفيز لا متجانس
+heterogeneous catalyst	حافز غير متجانس
+heterogeneous reaction	تفاعل غير متجانس / تفاعل مغاير
+heterolysis	تحلل لا متجانس
+heterolytic	تحلل لا تجانسي
+heteronuclear diatomic molecules	جزيئات ثنائية الذرة غير متجانسة
+hexa-	سداسي: سابقة
+hexagonal	سداسي الشكل، مسدس
+hexagonal closepacked	سداسي الأوجه المتراص
+hexamer	مسدوس، سداسي الحد
+hexamethylene tetramine	سداسي ميتيلين رباعي الأمين
+hexane	هكسان
+hexanoic acid	حمض الهكسانويك
+hexene	هِكسِن
+hexose	هكسوز
+hexoses	سكريات سداسيّة، هكسورات
+hexyl	هكسيل
+high end-point	نقطة (ال...) النهائية العليا
+high polymer	بلمر عال
+high speed	سرعة عالية
+high vaccum distillation	تقطير في إخلاءٍ شديد
+higher alcohols	غولات عالية
+hindered	معاق
+hindrance	إعاقة
+Hinsberg reaction	تفاعل هنزبرغ
+hippuric acid	حمض الهيبوريك
+histamine	هيستامين
+histidine	هيستيدين
+histochemistry	كيمياء نسيجية
+histone	هيستون
+Hoffman reaction	تفاعل هوفمان
+Hofmann degradation	تفكّك هوفمان
+Hofmann rearrangement	إعادة ترتيب هوفمان
+Hofmann rule	قاعدة هوفمان
+Hofmann's reaction	تفاعل هوفمان
+holder	ماسك، حامل
+hole	ثقْب، فتحة / ثقب
+hollow	أجوف
+holmium	هولميوم / هُلميوم
+holoenzyme	إنزيم كامل
+homo	متجانس
+homo nuclear diatomic molecules	جزيئات ثنائية الذرة المتجانسة
+homo-	هومو: سابقة
+homoannular	حلقي متجانس
+homocyclic	حلقي متجانس
+homocyclic compound	مركب حلقي متجانس
+homocysteine	هوموسيستيين
+homogeneity	تجانُس
+homogeneous	متجانس
+homogeneous catalysis	تحفيز متجانس
+homogeneous catalyst	حافز متجانس
+homogeneous mixture	خليط متجانس، مزيج متجانس
+homogeneous reaction	تفاعل متجانس
+homogeneous solution	محلول متجانس
+homogeneous system	منظومة متجانسة
+homogenization	مجانسة
+homolog	مماثل
+homologous	مثيل، نديد
+homologous series	سلسلة متماثلة، سلسلة قرينة، سلسلة متقارنة / سلسلة متماثلة
+homologue	متماثل، قرين، مماثل
+homolytic	متجانس
+homolytic reaction	تفاعل تحلّل متجانس
+homomorph	متماثل الشكل
+homomorphism	تشاكُل
+homopolar bond	رابطة متجانسة القطب / رابطة متماثلة الأقطاب
+homopolymer	بوليمر متجانس / بلمر مِثْلِيَّ التماثر
+hood	ساحبة الهواء / داخون
+Hooke's law	قانون هوك
+hormone	هُرمون
+hormones	هورمونات، حاثات
+horn silver	فضة قرنية
+host-guest chemistry	كيمياء الضيف والمضيف
+hot	ساخن، حار / ساخن
+hotness	سخونة
+Houdry cracking process	طريقة تحطيم هودري
+Houdry flow process	طريقة جريان هودري
+humectant	مرطِّب
+humic acid	حمض دُبالي
+humid	رطْب / رطب
+humidity	رطوبة
+humidity (absolute)	رطوبة مطلقة
+humidity (relative)	رطوبة نسبية
+humidity indicator	مُشعر الرطوبة
+humor	خِلْط
+humoral	خِلطي
+humus	دُبال
+Hund's rule	قاعدة هوند
+hyaluronic acid	حمض الهيالورونيك
+hybrid	هجين
+hybrid orbital	مداري هجين
+hybridization	تهجين
+hybridization tetragonal	تهجين رباعي الوجوه
+hydracid	حمض هيدروجيني
+hydrase	هيدراز : إنزيم
+hydrate	هيدرات
+hydrate (to)	ميَّه، تميَّهَ
+hydrated	مُميَّه / مُـمَيَّه
+hydrates	هيدرات
+hydration	تميُّه، إماهة
+hydration energy	طاقة الإماهة
+hydration, hydratation	تَـمَيُّه، إماهة
+hydraulic lime	جيرهيدرولي
+hydraulicity	هيدرولية
+hydrazine	هيدرازين
+hydrazoic	هيدرازويك
+hydrazoic acid	حمض الهيدرازويك
+hydrazone	هيدرازون
+hydric	مائي
+hydride	هيدريد
+hydride ion	إيون الهيدريد
+hydrin	هيدرين
+hydro-	هيدرو: سابقة
+hydrobromic acid	حمض الهيدروبروميك
+hydrocarbon	فحوم هيدروجينية، هيدروكربونات / هيدروكربون
+hydrocarbon (aromatic...)	هيدروكربون عطري
+hydrocarcking	تكسير هيدروجيني
+hydrochloric acid	حمض الهيدروكلوريك
+Hydrocol process	عملية هيدروكول
+hydrocolloid	غروان مائي
+hydrocortisone	هيدروكورتيزون
+hydrocracking	تكسير بالهدرجة
+hydrocyanic acid	حمض الهيدروسيانيك
+hydrodesulfurization	نزع الكبريت بالهدرجة
+hydrofining	تنقية بالهدرجة
+hydrofluoric acid	حمض الهيدروفلوريك
+hydroforming	تحسين بالهدرجة
+hydroformylation	تنميل هيدروجيني
+hydrogel	جل مائي
+hydrogen	هيدروجين
+hydrogen bomb	قنبلة هيدروجينية
+hydrogen bond	رابطة هيدروجينية
+hydrogen bridge	جسر هيدروجيني
+hydrogen bromide	بروم الهيدروجين
+hydrogen chloride	كلور الهيدروجين
+hydrogen electrode	إلكترود (مسرى) هيدروجيني
+hydrogen ion	أيون الهيدروجين، شاردة الهيدروجين / أيون الهيدروجين
+hydrogen ion concentration	تركيز أيون الهيدروجين
+hydrogen peroxide	فوق أكسيد الهيدروجين / بيروكسيد الهيدروجين، ماء أكسجيني
+hydrogen sulfide	كبريت الهيدروجين
+hydrogen sulphide	كبريتيد الهيدروجين، كبريتور الهيدروجين
+hydrogen-ion concentration	تركيز أيونات الهيدروجين
+hydrogenase	هيدروجيناز
+hydrogenate (to) ; hydrogenize	هَدرَج
+hydrogenation	هدرجة
+hydrogenolysis	تحلُّل بالهيدروجين / حلّ هيدروجيني
+hydroiodic acid	حمض الهيدرويوديك
+hydrolysate	حلامة
+hydrolysis	حلمهة
+hydrolysis constant	ثابت الحلمهة / ثابتة الحلمهة
+hydrolyze (to)	حَلْمهَ
+hydrometer	مقياس كثافة السوائل، هيدرومتر
+hydrometry	قياس كثافة السوائل، مكثافية
+hydronium ion	أيون الهيدرونيوم
+hydrophil	أليف الماء
+hydrophilic	أليف الماء
+hydrophobe	كاره الماء
+hydrophobic	كاره للماء
+hydrophylic; hydrophilic	محب للماء، جذوب للماء
+hydroquinone	هيدروكينون
+hydrosol	محلول غرواني مائي / حلالة مائية
+hydrosolvation	تذوّب هيدروجيني
+hydrostatic (pressure)	هيدروستاتي
+hydrous	مائي
+hydroxide	هيدروكسيد
+hydroxonium ion	إيون هيدروكسونيوم
+hydroxy acid	حمض هيدروكسيلي
+hydroxy-acid; oxyacid	حمض أكسجيني
+hydroxybutyric acid	حمض هيدروكسي البوتيريك
+hydroxyde	هيدروكسيد
+hydroxyl	هيدروكسيل
+hydroxyl group	مجموعة هيدروكسيلية
+hydroxyl ion	إيون هيدروكسيل
+hydroxylamine	هيدروكسيل أمين
+hydroxylated acid	حمض مُهدرَل
+hydroxylation	هدرلة / هَدْرَكْسَلةَ
+hydroxyproline	هيدروكسي برولين
+hydroxytryptamine	هيدروكسي تريبتامين
+hygrometer	مقياس الرطوبة، هيجرومتر
+hygrometry; hygroscopy	قياس الرطوبة، مرطابية
+hygroscope	كاشف الرطوبة
+hygroscopic	استرطابي، مسترطب / ماص للرطوبة، مسترطِب
+hyper	فَرْط
+hyper conjugation	فرط الترافق
+hyper-	فرط،مفرط: سابقة
+hyperconjugation	فرط الترافق
+hyperfine structure	بنية مفرطة الدقة
+hypergolic	تلقائي الاشتعال
+hyperon	هيبرون
+hypersensitivity	فرط التحسّس
+hypersorption	فرط الاشتراب
+hypertonic	فرط الأسموزية / مفرط التوتر
+hypo	تحت (بادئة)
+hypo iodite	هيبويوديت
+hypo-	تحت، قصور، نقص: سابقة
+hypobromite	هيبوبروميت
+hypobromous acid	حمض تحت البرومي
+hypochlorite	تحت كلوريت
+hypochlorous acid	حمض تحت الكلوري
+hypoiodous acid	حمض تحت اليودي
+hyponitrous acid	حمض تحت الآزوتي
+hypophosphate	هيبوفسفات
+hypophosphite	هيبوفسفيت
+hypophosphoric acid	حمض تحت الفوسفوريك، حمض تحت الفوسفور / حمض تحت الفسفوريك
+hypophosphorous acid	حمض تحت الفوسفوري، حمض تحت الفوسفوروز / حمض تحت الفسفوري
+hypothesis	فرضية
+hypotonic	تحت الاسموزية، أقل اسموزيا / ناقص التوتر
+hypoxanthine	هيبوكزانتين
+hysteresis	تخلفية، بطاء / بِطاء
+Hérault-Hall process	إجراء هير-هول

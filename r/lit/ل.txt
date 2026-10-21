@@ -1,0 +1,183 @@
+لا احتماليـة	unlikelhood
+لا أدب	a-literature
+لا جُمْلة	Non phrase
+لا حقيقة (ال...)	unreality
+لاَ دقــة	impertinence
+لاَ دلالة	asemantic
+لا دلالي	Asemantic
+لا ذهنية	Antimentalism
+لاَ رَمْزي	asymbolic
+لاَ سِيميائي	asemiotic
+لا شُعـور (ال...)	unconsciousness
+لا معقول، عَبثٌ	absurd
+لاَ مُفَكَّر فيـه	unthinkable
+لا مَقْطَعي	Asyllabic
+لا َنحوية، لَحْـن	agrammaticality
+لا واقع	unreal
+لا يوصف	unutterable; inexpressible
+لاَحِقَة	Suffix
+لاَحِقِيّ، تابعيّ	propertyman
+لاَزِم	Intransitive
+لازم المعنى	Presupposed
+لاَزِمـة	leitmotif
+لازمة جماعية	chorus
+لازمة سردية	anaphora
+لاَصِقَة	Affix
+لاصقة اشتقاقية	Derivational affix
+لاصقة تصريفية	Flectional affix
+لامي	Hyoid
+لباس التّمارين	Rehersal costume
+لَبْس	Ambiguity
+لَثْغَة	Lambdacism / Lisping
+لَثْغَة الراء	Burring
+لِثَوِي	Gingival
+لجنة العمل الاصطلاحي	Terminology working group
+لحظـة	moment
+لحظة انتهاء الدّور	Transition Relevance Place (TRP)
+لَحْظة تاريخية	historical moment
+لحظة سيكولوجية	psychological moment
+لَحْن	Agrammaticality / Solecism
+لُزُوم	Presupposition
+لِسَان	Tongue
+لساني	Lingual
+لسانيات	Linguistics
+لسانيات اجتماعية	Sociolinguistics
+لسانيات بيئية	Ecology of languages
+لسانيات تاريخية	Historical linguistics
+لسانيات تربوية	Didactics
+لسانيات تزمنية (تاريخية)	Diachronic linguistics
+لسانيات تصنيفية	Taxonomic linguistics
+لسانيات تطبيقية	Applied linguistics
+لسانيات تطورية	Evolutive linguistics
+لسانيات تفسيرية	Explanatory linguistics
+لسانيات جغرافية	Geographical linguistics
+لسانيات سلالية، إثنولسانيات	Ethnolinguistics
+لسانيات عامة	General linguistics
+لسانيات عصبية	Neurolinguistics
+لِسانيات مختلفة	heterolingualism
+لسانيات مقارَنة	Comparative linguistics
+لسانيات نظرية	Theoretical linguistics
+لسانيات هند أمريكية	Amerindian linguistics
+لسانيات وصفية	Descriptive linguistics
+لسانيات وظيفية	Functional linguistics
+لطيفة لفظية	witticism
+لعنة، طَرْد	anathema
+لغات إعرابية	Casual languages
+لُغَات إلحاقية	Affixing languages
+لغات تحليلية	Analytic languages
+لغات دَمْجِية	Amalgamating language
+لغات عازلة	Amorphous languages
+لغات متداخلة	Mixing languages
+لُغَات مَزْجِيَة	Agglutinate languages
+لغات نظائر	Analogus languages
+لُغْز، معضلة	mystery (play)
+لُغـة	language
+لغة اتصال دولي	Interlingua
+لغة أساس	Basic language
+لغة اصطناعية	Artificial language
+لغة أصلية	Ancestor languages
+لغة الاتحاد	Union language
+لغة الاتّصال	Contact Language
+لغة الإشارة	Sign Language
+لغة الأغلبيّة	Majority Language
+لغة الأقليّة	Minority Language
+لغة الأمّ المبسّطة	Motherese
+لغة التّراث	Heritage Language
+لغة التّواصل الواسع	Language of Wider Communication
+لغة الثّقافة	Kultursparche
+لغة الجسد	Body Language / Body language
+لغة الجمل المفردة	Holophrastic language
+لغة الحيوان	Animal language
+لغة الدّولة الأساسيّة	Substrate (Substratum)
+لغة السّحاقيّات والمثليّين	Lesbian and Gay Language
+لغة السّحاقيّة، المثليّ، ثنائيّ الجنس، المتحوّلون جنسيًّا، المتحرّرون جنسيًّا	Lesbian, Gay, Bisexual, Transgender, Queer (LGBTQ) Language
+لغة السّود الإنجليزيّة العاميّة	Black English Vernacular (BEV)
+لغة الشّباب	Youth Language
+لغة الشِّعر	Poetic (Poetics)
+لغة الطّبقة العليا المسيطرة	Superstrate (Superstratum)
+لغة الطّفل	Child Language
+لغة المثليّين	Gay Language
+لغة المجتمع	Community Language
+لغة المصدر	Source Language
+لغة المعتوهين	Glossolaly
+لغة المعجم	Lexifier Language
+لغة المنزل	Home Language
+لغة المنشأ	Substratum
+لغة النّساء	Women’s Language
+لغة أم	Mother tongue
+لغة أوروبية	European language
+لُغة باطنيـة	interior language
+لغة بينيّة	Interlanguage
+لغة تعيين النصوص المتشعبة	hypertext mark-up language(HTML)
+لغة تنبر ما قبل الأخير	Paroxytonic
+لغة تواصلية	Lingua franca
+لغة ثانية	Second language
+لُغة حركة	action language
+لغة خارجيّة المفردات	Exoglossic Language
+لغة رجال الأعمال	Language Entrepreneurs
+لغة رسميّة، لهجة رسميّة	Standard (Language, Variety)
+لغة شعبية	Popular language
+لغة طارئة (فوقية)	Superstratum
+لغة طبيعية	Natural language
+لغة عازلة	Isolating language
+لغة عالميّة	Global Language
+لُغة فردية	idiolect
+لغة قريبة	Related language
+لغة كريول غير المترابطة	Abrupt Creolisation
+لغة كونيّة	Global Language
+لغة مألوفة	Familiar language
+لغة مساعدة	Auxiliary language
+لغة مشتركة	Koine
+لغة مَصْدَرٌ	Source language
+لغة مِعْيَار	Standard language
+لغة مكتوبة	Written language
+لغة ملحقة	paralanguage
+لغة منبورة الوسط	Proparoxytonic language
+لغة موضـوع	object language
+لغة ميتة	Dead language
+لغة ناقلة	Vehicular language
+لغة هجين مبسّطة	Pidgin
+لغة هجين مبسّطة ممتدّة	Expanded Pidgin
+لغة هجينة	Pidgin
+لغة هجينة مبسّطة ممتدّة	Extended Pidgin
+لغة هدف	Target language
+لغة واصفة	Metalanguage
+لغة وثائقية	Documentary Language
+لغة وسطى	Mesolect
+لغة، لِسَان	Language
+لغويّات الشّواذ	Queer Linguistics
+لغويّات تاريخيّة	Historical Linguistics
+لغويّات جغرافيّة	Geographical Linguistics; Geolinguistics
+لُغَيَّة	Technolect
+لُغيَّة دنيا	Basilect
+لُغَيَّة عليا	Acrolect
+لُغَيَّة غريبة	Xenolect
+لَفْظ شَامِل	Superordinate word
+لفظ قديم	Archaism
+لَفْظ من الأضداد	Ambivalent word
+لَفْظـة	Lexie / Vocable / lexis
+لفظيّ	Verbal
+لفظية تقرأ طردا وعكسا	Palindroma
+لقب	epithet
+لقْطة وسائطية	flash macromedia
+لُكْنَة	Accent
+لَهَاة	Uvula
+لَهَاة، لسان المزمار	Epiglottis
+لهجة	Dialect
+لهجة الأمريكيّين من أصول إفريقيّة	African American Vernacular English (AAVE)
+لهجة العين	Eye-Dialect
+لهجة المعنى	tone
+لهجة النّوع الاجتماعيّ	Genderlect
+لهجة أمست لتكون لغة سائدة في منطقة كبيرة	Koine (-isation)
+لهجة جديدة	Interdialect
+لهجة خاصة	Idiom
+لهجة شعبية	vernacular
+لهجة عاميّة	Patois
+لهجة فردية	Idiolect
+لهجة محلية	Patois
+لهجة مصبّ النّهر الإنجليزيّة	Estuary English
+لهجـيّ	Dialectal / sociolect
+لَهَوِيّ	Uvular
+لوحة، صورة	portrait
+لُوغـوس	logos
+لَوْن	Color

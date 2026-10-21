@@ -1,0 +1,418 @@
+I.U.P.A.C.	اتحاد (ال...) الدولي للكيمياء البحتة والتطبيقية
+ice	جليد
+ideal gas	غاز مثالي / غاز مثالي (كامل)
+ideal gas law	قانون الغاز المثالي (الكامل)
+ideal solution	محلول مثالي
+ideal-gas law (the...)	قانون الغاز المثالي
+identical	مماثل
+identification	استعراف، تحديد الهوية، تعرُّف / تَعَرُّف
+ignite (to)	أوقد
+ignition	إيقاد، اتقاد، اشتعال، إشعال / إيقاد، إشعال
+ignition point	نقطة الإيقاد
+ignition temperature	درجة حرارة الإيقاد
+illuminating gas	غاز الاستصباح
+illumination	إنارة
+imbibition	تشرُّب / تشرّب، ارتشاف
+imid	إيميد: سابقة
+imidazole	إيميدازول
+imidazolidon	إيميدازوليدون
+imidazoline	إيميدازولين
+imide	إيميد
+imidic acid	حمض إيميدي
+imin-	إيمين: سابقة
+imine	إيمين
+imino acid	حمض إيميني
+imino compound	مُرَكَّب إيميني
+immersion	غمْر، غطْس / غَمْر
+immiscible	غير مَزُوج، غير قابل للامتزاج / لا مَزُوْج
+immiscible liquids	سوائل غير مزوجة
+immiscible solvents	مذيبات غير مزوجة، مذيبات عديمة الامتزاج
+immobile	ساكن
+immobilize (v)	يثبِّت
+immobilized enzyme	إنزيم مثبَّت
+immune	منيع
+immunity	مناعة
+immunization	تمنيع
+immuno chemistry	كيمياء مناعية
+immuno-	مناعي: سابقة
+immunoassay	مقايسة مناعية
+immunoelectrophoresis	رحلان مناعي
+immunofluorescence	تألُّق مناعي
+immunogen	مولد مناعي، مستمنِع
+immunoglobulin	غلوبولين مناعي
+immunosupression	كبت المناعة
+impact	وَقْع
+impact strength	تَحَمُّل الصّدم
+impedance	ممانعة
+impeller	دفّاع
+impermeable	لا نَفوذ، كتيم للماء / كتيم، لا نفوذ
+implosion	انبجار
+impregnate (v)	يشرِّب
+impregnated	مُشْرَب / مُشرَّب
+impregnation	تشرُّب
+impulse	نبضة، دفعة
+impulsion	دفْع
+impurities	شوائب
+impurity	شائبة
+in phase	متوافقة في الطور، متفق في الطور
+in series	على التوالي
+in succession	على التوالي
+in vitro	في المختبر
+in vivo	في الأحياء
+inactivation	إخمال
+inactive	غير نشيط، غير فعال / خامل
+inborn	خِلْقِيّ
+incandescence	توهُّج
+incandescent	متوهّج
+inception	استهلال
+incidence	ورود، وقوع
+incident beam	حزمة واردة
+incineration	ترميد
+inclusion	تضمين، اشتمال / اشتمال، تضمين
+inclusion complex	معقّد اشتمالي
+incombustible	لا حَروق / غير قابل للاحتراق
+incompressible	لا ضَغوط / لاضَغوط، متعذر الانضغاط
+incongruent	غير متوافق
+incongruent melting point	نقطة الانصهار غير الموافقة
+increase	زيادة
+incrustation	تلبيس بقشرة
+incubation	حضانة
+indene	إندين
+independent	مستقل
+indestructibility	لا إتلافية، لا إفنائية
+index	دليل، قرينة
+index (of refraction)	قرينة الانكسار
+indican	إنديكان
+indication	بيان
+indicator	مشعِر، دليل / مؤشِّر
+indice (of refraction)	قرينة الانكسار
+indices (pl. of index)	قرائن، أدلّة
+indifferent	حيادي
+indigo	نيلة
+indigo blue	أزرق النيلة
+indigo carmine	قرمز النيلة
+indigo dye	صباغ شبيه بالنيلة
+indirect	غير مباشر
+indium	انديوم / إنديوم
+indolacetic acid	حمض إندول الأسيتيك
+indole	إندول
+indolebutyric acid	حمض إندول البوتيريك
+indophenol	إندوفنول
+indoxyl	إندوكسيل
+induced dipole	ثنائي قطب محرَّض
+induced oxidation	تأكسد بالتحريض
+induced reaction	تفاعل محرَّض
+inducible enzyme	إنزيم قابل للتحريض
+induction	تحريض، حّثٌ / تحريض
+induction force	قوة تحريضيّة
+induction period	مدّة التحريض
+inductive	تحريضي
+inductive effect	أثر (تأثير) تحريضي
+inductor	محرَّض، حاثّ / مستحِث
+industrial alcohol	غَوْل صناعي
+industrial chemistry	كيمياء صناعية
+industrial process	عملية صناعية
+industriel	صناعي
+inert	خامل
+inert complexes	معقدات خاملة
+inert electron pair	زوج الكتروني خامل
+inert gas	غاز خامل
+inertia	خمول، قصور ذاتي، عطالة / عطالة
+infect (v)	يُعدي
+infectible	قابل للعدوى
+infection	عدوى
+infertility	عقم
+infiltration	ارتشاح، تسرُّب، تخلُّل / تشرّب، تسرّب
+infinite	لانهائي
+infinite dilution	تمديد لا متناه
+inflammability	لَهوبيّة
+inflammable	قابل للاشتعال، شَعول، لَهوب / لَهوب
+inflammation	التهاب (لَهوبية)
+inflate (v)	ينتفخ
+inflation	تضخُّم، انتفاخ
+influence	تأثير
+influx	دفْق، تدفُّق
+infra-	تحت: سابقة
+infrared	أشعة (ال...) تحت الحمراء / المنطقة تحت الحمراء
+infrared absorption	امتصاص تحت الحمراء
+infrared rays	أشعة تحت الحمراء
+infrared spectroscopy	قياس الطيف تحت الأحمر
+infrared spectrum	الطيف تحت الأحمر
+infuse (v)	ينقع
+infusible	لا صَهور
+infusion	نقيع
+ingot iron	حديد صُبة
+ingrain dye	صبغ راسخ
+ingredient	مقوم، مكون، مركّب
+inherent error	خطأ متأصل
+inhibit (v)	يثبّط
+inhibited	مثبَّط
+inhibition	تثبيط، كبْح، كبْت / تثبيط
+inhibitor	مثَبِّط / مثبِّط
+initial	ابتدائي، بدئي
+initial stress	إجهاد بدئي
+initiate (v)	يبادر
+initiation	بدء، شروع
+initiator	مبدىء / مبدئ، مبادر
+inject (v)	يحقن
+injectable	قابل للحقن
+injection	حقْن / حقنة، حقن
+injection molding	قولبة بالحقن
+inlet	مدخل
+inner	داخلي
+inner anhydride	بلا ماء داخلي
+inner coordination sphere	كرة التساند الداخلية
+inner salt	ملح داخلي
+innertransition elements	عناصر انتقالية داخلية
+inoculation	تلقيح، تطعيم / تلقيح
+inorganic	لا عضوي، غير عضوي
+inorganic acid	حمض لاعضوي
+Inorganic chemistry	كيمياء لاعضوية
+inorganic compound	مُرَكَّب لاعضوي
+inorganic compounds	مركبات لا عضوية، مركبات غير عضوية
+inosilicate	إينوسيليكات
+inosine	إينوزين
+inosinic acid	حمض الإينوزينيك
+inositol	إينوزيتول
+input	دَخْل
+insaturable	لا شَبوع
+insaturation	عدم التشبّع، عدم الاشباع
+insatured	غير مشبع
+insecticide	مبيد حشري
+insertion	إقحام، إيلاج
+insitu	في الموقع الأصلي
+insolubility	عدم الذوبان، لاذوبانية (ال...)، عدم الانحلال / لاذوبانية
+insoluble	غير ذؤوب، غير حَلول، غير ذواب / غير ذواب
+insoluble salts	أملاح غير ذؤوبة
+inspection	معاينة
+instability	لا استقرار، عدم استقرار
+instability constant	ثابت اللااستقرارية، ثابت عدم الاستقرار
+instable	غير مستقر
+installation	منشأة، نصب
+instant	آني، لحظة
+instructions	تعليمات
+instrument	أداة، جهاز / أداة
+instrumental analysis	تحليل جهازي، تحليل بالأجهزة
+instrumentation	أداة
+insulate (v)	يعزل
+insulating oil	زيت عازل
+insulation	عزْل / عزل
+insulator	عازل
+insulin	إنسولين
+intake	مأخد
+integral	متكامل
+integration	تكامل، دمج
+integrity	كمال
+intensify (to)	شدّد، قوّى
+intensity	شِدة / شدة
+intensive property	خاصِّيّة ذاتية
+inter nuclear distance	مسافة (ال...) بين النوى
+inter-	بين: سابقة
+interaction	تفاعل متبادل / تآثر
+interatomic	بين ذري
+intercalation compound	مُرَكَّب إقحام
+interchange	تبادل
+interconversion	تحويل بيني
+interface	سطح فاصل، سطح بيني / وجه بيني، سطح فاصل
+interface mixing	مزج بيني
+interfacial angle	زاوية بين وجهين
+interfacial film	فلم بيني
+interfacial tension	توتّر بين سطحين
+interference	تداخُل / تداخل
+interferon	إنترفيرون
+interhalogen	هالوجين بيني
+intermediary metabolism	استقلاب متوسط
+intermediate	منتج وسطي
+intermediate compound	مُرَكَّب متوسط
+intermetallic compound	مُرَكَّب فلزي بينيّ
+intermetallic compounds	مركبات ما بين الفلزات، مركبات ما بين المعادن
+intermittent	مُتَقَطِّع
+intermolecular	بين الجزيئات / بين الجزيئات، بين جزيئي
+intermolecular forces	قوى بين الجزيئات، قوى (ال...) البين جزيئية
+internal	داخلي، باطني / داخلي
+internal compensation	تعويض داخلي
+internal condition (of a body)	حالة داخلية (لجسم)
+internal diffusion	انتشار داخلي
+internal energy	طاقة داخلية
+internal oxidation	تأكسد داخلي
+internal phase	طور داخلي
+internal pressure	ضغط داخلي
+international	دولي
+International Union of Pure and Applied Chemistry (IUPAC)	الاتحاد الدولي للكيمياء البحتة والتطبيقية
+international unit	واحدة دولية
+internuclear distance	مسافة بين نووية
+interrupt (to)	قاطَع، قطَع
+interstice	خلال
+interstitial atom	ذرة خلالية
+intra-	داخل: سابقة
+intracellular	داخل الخلايا
+intramolecular	جزيئي داخلي، داخل الجزيئات / داخل الجزيئات
+intrinsic	داخلي المنشأ
+intrinsic energy	طاقة داخلية
+intrinsic factor	عامل داخلي المنشأ
+intrinsic pressure	ضغط داخلي المنشأ
+intrinsic viscosity	لزوجة داخلية المنشأ
+inulin	إينولين
+invariant	لا متغير، عديم التحول
+invariant system	جملة لا متغيرة
+invention	اختراع
+inversion	انقلاب
+inversion point	درجة الانقلاب
+inversion spectrum	طيف انقلابي
+inversion temperature	درجة حرارة الانقلاب
+invert sugar	سكر منقلب
+invertase	إنفرتاز
+inverted	منقلِب، مقلوب / مقلوب
+investigation	تحقُّق، بحْث
+iodate	يودات
+iodic acid	حمض يوديك / حمض اليوديك
+iodic acid anhydride	حمض اليوديك اللامائي
+iodide	يوديد، يودور / يوديد
+iodimetry	قياس يودي
+iodination	يوددة
+iodine	يود
+iodine number	عدد اليود
+iodine solution	محلول اليود
+iodine test	اختبار اليود
+iodine tincture	صبغة اليود
+iodine trichloride	ثلث كلوريد اليود، ثالث كلورور اليود
+iodine value	قيمة اليود / رقم اليود
+iodoform	يودوفورم
+iodoform test	اختبار اليودوفورم
+iodometry	مقياس اليود، ايوديمتري / قياس اليود
+ion	أيون، شاردة / أيون
+ion detector	كاشف الأيون
+ion exchange	تبادل أيوني
+ion exchange chromatography	استشراب التبادل الأيوني
+ion exchange resin	راتين التبادل الأيوني
+ion product	منتج أيوني، حاصل أيوني
+ionic	أيوني
+ionic atomosphere	جو أيوني
+ionic attraction	تجاذب أيوني
+ionic bond	رابطة أيونية
+ionic compound	مُرَكَّب أيوني
+ionic conductance	توصيل أيوني / إيصال أيوني
+ionic crystal	بلّورة أيونية
+ionic equilibrium	توازن أيوني، اتزان أيوني / توازن أيوني
+ionic gel	هلامة أيونية
+ionic lattice	شبيكة أيونية
+ionic link	رباط أيوني
+ionic membrane	غشاء أيوني
+ionic mobility	حركية أيونية
+ionic polymerization	بلمرة أيونية
+ionic product of water	الجداء الأيوني للماء
+ionic radii	أنصاف أقطار أيونية
+ionic radius (the...)	نصف قطر الأيون
+ionic strength	قوة (متانة) أيونية
+ionization	تأيُّن، تشرُّد / تأيّن
+ionization constant	ثابت التأين / ثابتة التأيّن
+ionization degree	درجة التأيّن
+ionization energy	طاقة التأين / طاقة التأيّن
+ionization potential	كمون التأين، جهد التأين / كمون التأيّن
+ionize (v)	يؤيّن
+ionized atom	ذرة متأيّنة
+ionizing solvant	مذيب مؤيّن، حال مؤيِّن
+ionogen	مولّد أيوني
+ionomer	إيونومير
+ionomer resin	راتين إيونوميري
+ionophore	حامل الأيون
+iridium	إيريديوم
+iron	حديد
+iron (cast)	حديد صبّ
+iron (soft...)	حديد مطاوع
+iron (wrought...)	حديد مطروق
+iron oxide	أكسيد الحديد
+iron slag	خَبث الحديد
+irradiate (v)	يُشعِّع
+irradiation	إشعاع، تشعيع / تشعيع
+irreducible	غير قابل للاختزال
+irregular	غير منتظم
+irreversibility	لاعكوسية
+irreversible	لا عَكوس، غير قابل للعكس / لاعكوس
+irreversible colloid	غروان لاعكوس
+irreversible reaction	تفاعل لاعكوس
+irridium	اريديوم
+irrion rust	صدأ الحديد
+irritable	هَيوج
+irritant	مهيِّج، مثير / مهيِّج
+irritation	تهيُّج، تهييج
+isentropic	متساوي الأنتروبية
+iso	تساوٍ، تعادُل
+iso-	إيزو: سابقة
+isoalloxazine	إيزو الألّوكسازين
+isoamyl acetate	أسيتات إيزوأميلية
+isoamyl alcohol	غَوْل إيزو أميلي
+isoantibody	ضِدٌّ مماثل
+isoantigen	مستضد مماثل
+isobar	متساوي الضغط، خط تساوي الضغط / 1- خط ثبات الضغط
+isobaric	ثابتُ الضغط
+isobutane	إيزو بوتان
+isobutene	إيزو بوتين
+isobutyl acetate	أسيتات إيزوبوتيلية
+isobutyl alcohol	غَوْل إيزوبوتيلي
+isobutyl aldehyde	ألدهيد إيزوبوتيلي
+isobutyl amine	أمين إيزوبوتيلي
+isobutylene	إيزوبوتيلين
+isobutyric acid	حمض الإيزوبوتيريك
+isochore	متساوي الحجم / خَطُّ ثباتِ الحجم
+isochoric	ثباتُ الحجم
+isocitric acid	حمض الإيزوسيتريك
+isocyanate	إيزوسيانات
+isocyanic acid	حمض الإيزوسيانيك
+isoelectric point	نقطة التساوي الكهربائي، نقطة التكافؤ الكهربائي / نقطة تساوي الشحنتين
+isoelectronic	متساوي الإلكترونات
+isoenzymes	إنزيمات متماثلة
+isoflavone	إيزوفلافون
+isohexane	إيزو هكسان
+isohydric	متساوية الهيدرونيوم
+isoionic point	نقطة تساوي درجَتَي التأيّن
+isolate (v)	يعزل
+isolated	معزول
+isolated double bond	رابطة مزدوجة معزولة
+isolated system	جملة معزولة
+isolation	عزْل / عَزْلٌ
+isolectronic	متساوي الالكترونات
+isoleucine	إيزولوسين
+isomer	متماكب، إيزومر / مصاوغ
+isomerase	إيزوميراز: إنزيم مصاوغة
+isomeric	متماكب / تصاوغي
+isomerism	تماكُب، إيزومريّة / تصاوغ
+isomerization	تمكبٌ، تحول ايزوميري / مصاوغة
+isomerize	يصاوِغ
+isomorophic	تشاكلي
+isomorphism	تشاكُل، تشابه بلّوري / تَشاكُل
+isonitrile	إيزونتريل
+isooctane	إيزوأوكتان
+isooctyl alcohol	غَوْل إيزوأوكتيلي
+isoparaffin	إيزوبارافين
+isopentane	إيزوبنتان
+isopolyacids	إيزو متعددات الحموض
+isoprene	إيزوبْرِن
+isoprenoid	إيزو برينوييد
+isopropyl acetate	أسيتات إيزوبروبيلية
+isopropyl alcohol	غَوْل إيزوبروبيلي
+isopropyl amine	أمين إيزوبروبيلي
+isoquinoline	إيزوكينولين
+isostearic acid	حمض الإيزو ستياريك
+isosteric	متماثل فراغي (تشكيلي)
+isosterism	تماثل فراغي (تشكيلي)
+isostructural	متساوي التركيب
+isotactic	ترتيبي
+isotactic polymer	بلمر ترتيبي
+isotherm	خط التساوي الحراري / خطٌّ ثابتُ درجةِ الحرارة
+isothermal change	تَغَيُّرٌ ثابتُ درجة الحرارة
+isothermal lines	خطوط تساوي الحرارة
+isothermal; isothermic	متساوي الحرارة
+isothermic	ثابت درجة الحرارة
+isotonic	متساوي الضغط التحالي، متساوي الضغط الأزموزي، متساوي الضغط الغشائي / ثابتُ التوتّر
+isotonic solutions	محاليل متساوية الحلولية
+isotope	نظير
+isotope effect	مفعول النظير
+isotopic	نظيري
+isotopic labelling	وسم نظيري
+isotopie number	عدد نظيري
+isotropic	متساوي الخصائص / متناحي
+isotropy	تناحي
+isotropy; isotropisme	تساوي الخصائص، وحدة الخصائص
+isovalent conjugation	ترافق متساوي التكافؤات
+ivory black	أسود العاج

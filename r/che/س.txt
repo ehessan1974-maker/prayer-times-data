@@ -1,0 +1,263 @@
+سائد	dominant
+سائل	liquid
+سائل رجراج، سائل متحرك	mobile liquid
+سائل طافٍ	supernatant liquid
+سابق	antecedent
+سابقة: ملح أو هالوجيني	halo-
+ساحبة الهواء	hood
+ساحِج	abrasive
+ساحة، حقل	field
+ساخن	hot
+ساخن، حار	hot
+ساران	saran
+ساري المفعول صحيح، صالح	valid
+سارين	sarin
+ساكن	immobile / static
+سالب	negative
+سالب، سلبي	negative
+سالبية	negativity
+ساليسيل	salicyl
+ساليسيلات	salicylate
+ساليسيلات الصوديوم	sodium salicylate
+ساليسيلات الميتيل	methyl salicilate
+ساليسيلال	salicylal
+سامّ	poisonous / toxic
+سامّ، سمِّي	poisonous
+ساماريوم	samarium
+سبائك سهلة الانصهار، اشابات سهلة الانصهار	fusible alloys
+سُبات	coma
+سْبار	spar
+سباعي أكسيد الكلور	chlorine hyptoxide
+سباكة	founding
+سبيكة	alloy
+سبيكة فائقة	super alloy
+سبيكة لحام	solder
+سَبين	spin
+سَبين الإلكترون	electron spin
+سْبينِل	spinel
+ستارالأشعة السينية، ستارأشعة روتنجن	x-ray screen
+سترنتيوم	strontium
+سْترونسيوم	strontium
+ستريكنين	strychnine
+ستوكيومترية	stoichiometry
+ستيارات, شمعات	stearate
+ستياريل	stearyl
+ستيارين	stearin
+ستيبنيت	stibnite
+سْتيبين	stibine
+ستيروييد	steroid
+ستيرين	styrene
+سْتيلبين	stilbene
+ستيليت	stellite
+سِجّيل	shale
+سحابة الكترونية	electron cloud
+سحابة غازية	gas cloud
+سَحَّاحة	Hempel burette / burette
+سحّاحة وزن	weight burette
+سَحْج	abrasion
+سحَق	powder (to)
+سحْق، تفتيت، هرْس	crushing
+سَحَقَ، فتَّت	crush (to)
+سحن	levigation
+سحْن، سحْق	trituration
+سخّان	heater
+سخونة	hotness
+سداد، مأخد	plug
+سدادات فلّينية	cork stoppers
+سدادات مطّاطية	rubber stoppers
+سدادة، فدام	stopper
+سداسي الأوجه المتراص	hexagonal closepacked
+سداسي الشكل، مسدس	hexagonal
+سداسي فلوريد اليورانيوم	uranium hexafluoride
+سداسي كلوريد البنزن	benzene hexacloride; gamaxane
+سداسي ميتيلين رباعي الأمين	hexamethylene tetramine
+سداسي: سابقة	hexa-
+سديد، ضباب	mist
+سربنتين	serpentine
+سرّع التفاعل	accelerate the reaction
+سرّع، عجّل	accelerate (to)
+سرعة	speed / velocity
+سرعة (ال...) المتوسطة	average velocity
+سرعة التفاعل	rate of reaction / reaction rate / reaction velocity / velocity of reaction
+سرعة الضوء	velocity of light
+سرعة عالية	high speed
+سرعة فراغية	space velocity
+سرعة نسبية	relative velocity
+سريري، إكلينيكي	clinical
+سريع، صامد	fast
+سريع، نشيط	quick
+سريوم	cerium
+سطح	surface
+سطح فاصل، سطح بيني	interface
+سطح مزدوج	double surface
+سطحٌ نوعي	specific surface
+سطح هلالي	meniscus
+سطحي	superficial
+سُعر، حريرة	calory
+سَعري	caloric; calorific
+سَعَة	amplitude / capacity
+سعة الاتحاد، قدرة الاتحاد	combining capacity
+سعة الدارئ	buffer capacity
+سعة حرارية	heat capacity / thermal capacity
+سعة حرارية مولية، سعة حرارية جزئية	molar heat capacity
+سعة كلية	total capacity
+سفّاطة	aspirator
+سفْط	aspiration
+سْفِنْغول	sphingol
+سفنغوميلين	sphingomyelin
+سَقْط	gangue
+سكارين	saccharin
+سكانديوم	scandium
+سكر	sugar
+سكر البلّوط	acorn sugar
+سكر الشعير، مالتوز	barely sugar; maltose
+سكر الشمندر	beet sugar
+سكر الفاكهة، فركتوز	fructose
+سكّر القصب	cane sugar
+سكّر القَيقَبْ	maple sugar
+سكر خام	raw sugar
+سكر مُرجِع	reducing sugar
+سكر منقلب	converted sugar / invert sugar
+سكراز	sucrase
+سكروز	saccharose / sucrose
+سكّري	saccharic
+سكريات أحادية	monosaccharides
+سكريات سداسيّة، هكسورات	hexoses
+سكريدات	saccharides
+سكريدات متعددة	polysaccharides
+سكّرين	saccharin
+سكسيتوكسين	saxitoxin
+سكون	rest
+سلاسل جزيئية	molecular chains
+سلبي، عاطل	passive
+سلبية، هُمود	passivity
+سلسلة	chain / series
+سلسلة إزاحة، سلسلة دافعة كهربائية	displacement series; electromotive series classification
+سلسلة إشعاعية	radioactive chain / radioactive series
+سلسلة التضاؤل	decay series
+سلسلة التفاعلات	reaction chain
+سلسلة باشن	Paschen series
+سلسلة بالمر	Balmer's series
+سلسلة بْراكِت	Bracket series
+سلسلة تفكّك اليورانيوم	uranium decay series
+سلسلة جانبية	side chain
+سلسلة خطية	straight chain
+سلسلة غلفانية	galvanic series
+سلسلة كهربائية كيميائية	electrochemical serie
+سلسلة ليمان	Lyman series
+سلسلة متماثلة	homologous series
+سلسلة متماثلة، سلسلة قرينة، سلسلة متقارنة	homologous series
+سلسلة محرِّكة كهربائية	electromotive series
+سلسلة مغلقة	closed chain
+سلسلة، متسلسلة	serie
+سلسلى الكمون، سلسلة الجهد	potential series
+سلع، منتجات	ware
+سَلَفْ، طليعة، قَبْل	precursor
+سلفات البوتاسيوم	potassium sulfate
+سلفاميد	sulfamide / sulphamide
+سُلْفانيلاميد	sulfanilamide
+سَلْفَتة	sulfation
+سَلْفَدة	sulfiding
+سَلْفَدة، تَسَلْفُد	sulfidation
+سلفرسان	salvarsan
+سلفنة كلورية	chlorosulphonation
+سَلْفَنَة، تَسَلْفُن	sulfonation
+سُلْفو	sulfo-
+سُلْفوريل	sulfuryl
+سُلْفوكسيد	sulfoxide
+سُلْفون	sulfone
+سُلْفونات، يُسلفن	sulfonate
+سُلْفونيك	sulfonic
+سُلْفونيل	sulfonyl-
+سُلْفيت	sulfite
+سُلْفيد	sulfide
+سلفيد الرصاص	lead sulfide
+سلفيد الزنك	zinc sulfide
+سُلْفيد الصوديوم	sodium sulfide
+سلك	wire
+سلك دقيق، شعيرة، خيط	filament
+سلك شَبَه	brass wire
+سُلَّم بوميه	Baumé scale
+سلّم سلسيوس	celsius sclae
+سلّم فهرنهايت	fahrenheit scale
+سلّم كلفن	Kelvin scale / kelvin's scale; kelvin's absolute scale or temperature
+سلم مئوي	centrigrade scale
+سلّم, ميزان، قشرة	scale
+سُلَّمِي، عددي	scalar
+سلة الوزن	weighing boat
+سلّوفان	cellophane
+سلوك	behaviour
+سلولوز	cellulose
+سليم	benign
+سّمٌ	poison / poison (to)
+سماحية، تحمّل	tolerance
+سماد، مخصِّب	fertilizer
+سماريوم	samarium
+سُمّاق	sumac
+سَمت	azimuth
+سّمط (ال...)، إزالة الشعر	depilation
+سَمَطَ، أزال الشعر	depilate (to)
+سَمْنَتَة	cementation
+سِمة, ملمح, مَعلَم	feature
+سُمِّيَّة	toxicity
+سناج	black (ivory); lamp / lamp black
+سِناج، أسود الكربون	carbon black
+سناج، هياب، سخام	lamp-black
+سنبادج، صنفرة	emery
+سنة ضوئية	year (light...)
+سنة قمرية	year (lunar...)
+سوائل جزئية الامتزاج	partially miscible liquids
+سوائل غير مزوجة	immiscible liquids
+سوائل لا مزوجة	completely immiscible liquids
+سوائل مزوجة	completely miscible liquids / miscible liquids
+سوربيتان	sorbitan
+سوربيتول	sorbitol
+سوربيد	sorbide
+سُوْمان	soman
+سوية الصفر، منسوب الصفر	zero level
+سوية نووية	nuclear level
+سيانات الأمونيوم	ammonium cyanate
+سياناميد	cyanamide
+سياناميد الكلسيوم	cyanamide (calcium..)
+سيانوجين	cyanogen
+سيانيد	cyanide
+سيانيد البوتاسيوم	potassium cyanide
+سيانيد الحديد III	ferricyanide
+سيانيد الفضة	silver cyanide
+سيانيد، سيانور	cyanide
+سيتان	cetane
+سيتوزين	cytosine
+سيتوكروم	cytochrome
+سيدِريت	siderite
+سيروزين	cerosin
+سيريبروزيد	cerebroside
+سيريزين	ceresin
+سيريوم	cerium
+سيزيوم	caesium / caesium=cesium
+سيستين	cystine
+سيستييين	cysteine
+سيفالين	cephalin
+سيفون، مِمَصّ	siphon
+سيكلوترون	cyclotron
+سِيلان	silane
+سيلفيت	sylvite
+سِيلّوبيوز	cellobiose
+سِيلّوفان	cellophane
+سيلوكسان	siloxane
+سيلولوز	cellulose
+سيلولوز مؤكسَد	oxycellulose
+سيلولوز مجدّد	regenerated cellulose
+سيلولوز ميتيلي	methyl cellulose
+سيلولوز نصفي	hemicellulose
+سيلولويد	celluloid
+سيليكا	silica
+سيليكات	silicate
+سيليكات الألومينيوم	aluminosilicate
+سيليكون	silicon
+سيليكون،سيليسيوم	silicon
+سيليكونات	silicone
+سيليني	selenious
+سيلينيد، سيلينور	selenide
+سيلينيوم	selenium
+سيمياء، خيمياء	alchemy
+سينبتاز	synaptase

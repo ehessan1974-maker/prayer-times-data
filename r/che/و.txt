@@ -1,0 +1,98 @@
+وات، واط	watte
+واحد ونصف	sesqui-
+واحدة	unit
+واحدة خلوية	unit cell
+واحدة دولية	international unit
+واحدة ديباي	Debye unit
+واحدي	unitary
+وارد	afferent
+واضح، بيِّن	obvious
+وافر	abundant
+واق، صادّ	buffer
+وتر	string
+وجه بيني، سطح فاصل	interface
+وحدة	unit / unity
+وحدة أنغستروم، وحدة أنغشتروم	angstrom unit
+وحدة تقطير	distillation unit
+وحدة تقطير مستمرة	continuous still
+وحدة حرارية بريطانية	British Thermal Unit
+وحدة خلايا البلورة	unit cells crystal
+وحدة ديباي	Debye unit
+وحدة سينية	x-unit (or xu)
+وحدة فرعية	subunit
+وحدة كتلة ذرية	atomic mass unit
+وحل، طين	mud
+وحيد	unique
+وحيد اللون	monochromatic
+وراثي	hereditary
+وردي، زهري	pink
+ورفرين	warfarin
+ورق	paper
+ورق أسبستوس	asbestos paper
+ورق أسبستوس مقوى	asbestos boar
+ورق الرق، ورق برشمان	parachment paper
+ورق ترشيح	filter paper
+ورق عبّاد الشمس	litmus paper
+ورق عباد الشمس الأزرق	blue litmus paper
+ورقة اختبار، ورق كاشف	test-paper
+ورقة نشّاف	blotting paper
+ورنيش	varnish
+ورود، وقوع	incidence
+وُريقة	foil
+وزْن	weighing boat / weight
+وزن جزيئي	molecular weight / weight (molecular...); box of wieghts
+وزن ذري	atomic weight / weight (atomic...)
+وزن ذري غرامي	gram-atomic weight
+وزن ظاهري	apparent weight
+وزن مطلق	absolute weight
+وزن مكافئ	equivalent weight
+وزن مكافئ غرامي	gram equivalent weight
+وزن مكافىء	equivalent weight / weight (equivalent...)
+وزن نوعي	specific gravity (or weight) / specific weight
+وساطة تلامسية، وسيط تلامسي	contact catalysis
+وساطة سالبة	catalysis (negative..)
+وسط	medium
+وسط التبعثر	dispersion medium
+وسط جيلاتيني، وسط هلامي	lyogel
+وسط حسابي	average
+وسط حمضي	acidic medium
+وسطُ سَحْل	grinding media
+وسَط قِلِوي	alkalin medium
+وسطي، متوسط	mean
+وسم نظيري	isotopic labelling
+وَسْمٌ، لصيقة توسيم	label
+وسيط	mediator
+وسيط، قائم بالوساطة	mediator
+وسيط، مَعْلَمْ	parameter
+وَصْفٌ	description
+وصفة	recipe
+وُصلة	joint
+وصلة تصالبية	cross link
+وصلة قائمة ثلاثية (على شكل T)، أنبوب على شكل T، وصلة T	T-connection
+وطيد، مستقر	steady
+وظيفة	function
+وظيفة، دالّة	function
+وظيفي	functional
+وعاء	jar / vessel
+وعاء تجميع الغاز	pneumatic troungh
+وعاء ديوار	Dewar's flask
+وعاء مدرج	gratuated vessel / measuring vessel
+وعاء، مستودع	container
+وفرة	abundance
+وقت ضائع، زمن ضائع	dead time
+وَقْع	impact
+وقود	fuel
+وقود الألكلة، وقود ألكيلاني	alkylate fuel
+وقود تلقائي الاشتعال	pyrophoric fuel
+وقود ديزل	diesel fuel
+وقود غازي	gaseous fuel
+وقود نفّاث	jet fuel
+وقود نووي	nuclear fuel
+ولادة، حداثة	nascency; nascence
+وُلْفرام	wolfram
+ولفرام، تنغستن	wolfram
+وليد	nascent
+وليد، حديث مولود	nascent
+وَمَضان	scintillation
+وميض	flash
+وميض، ومضة	flash

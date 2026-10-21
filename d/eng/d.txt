@@ -1,0 +1,4734 @@
+D action derivative action	فعل تفاضلي
+D element	عنصر تفاضلي
+D pillar	القائم D
+D region; D layer (deprecated)	منطقة D
+D system with 1st order lag in the frequency domain	نظام تفاضلي بتأخير درجة أولى في المجال الترددي
+D system with 2nd order lag in the frequency domain	نظام تفاضلي بتأخير درجة ثانية في المجال الترددي
+d'Alembertian operator; four-Laplacian box	عامل ألبرتيان
+D'B signal	إشارة D'B
+D'R signal	إشارة D'R
+D-channel	قناة D
+d-horizon	أفق (د)
+D-layer	طبقة ـ د
+D-nose	مقدمة ـ D
+D-ring	حلقة D
+D.C. amplifier	مضخم تيار مستمر
+D.C. balancer	موازن تيار مستمر
+D.C. bridge	جسر تيار مستمر
+D.C. current network	شبكة تيار مستمر
+D.C. motor	محرك تيار مستمر
+D.C. resistance	مقاومة التيار المستمر
+D2B	ناقل البيانات الداخلية
+D2B bus	ناقل البيانات الداخلية
+DAB/DDB	البث الرقمي للبيانات (DDB) / البث الرقمي لبرامج الراديو (DAB)
+dabbing	تحريش
+dacite	داسيت
+Dacron Comforel	داكرون-كومفوريل
+Dacron fiberfill	ألياف داكرون للحشو
+Dacron-Aerelle	داكرون أيريل
+Dacron®	داكرون®
+dado joint	وُصلة تخديد
+dafed colour	لون باهت
+dafeometer	مقياس الخفوت
+dahllite	دالايت
+daily amount of sewage per inhabitant	مقدار يومي من مياه الصرف بالنسبة لعدد السكان
+daily amount of water consumption per inhabitant	مقدار الاستهلاك اليوميّ من المياه للفرد الواحد
+daily average temperature	متوسط يومي لدرجات الحرارة
+daily commuting	مكوك يومي
+daily cover	تغطية يومية
+daily flight register	سِجِلّ الرحلات الجوية اليومية
+daily flight sheet	ورقة الرحلات الجوية اليومية
+daily flying order	أمر(ال...) اليومي للطيران
+daily storage	تخزين يومي
+daily traffic load	كثافة يومية للرواج
+daily variation	تغيّرات يومية
+daily water flow	تدفق يوميّ للمياه
+dairy	مَعمل ألبان
+Dalton's Law	قانون دالتون
+dalton; unified atomic mass unit	دالتون؛ وحدة كتلة الذرة الموحدة
+dam	سَدّ تخزين / سد / سَدّ / سَدٌّ / دولار لكل ميل للطائرة
+dam (to)	سّدَّ
+dam / barrage / embankment / weir	سّدَّ
+dam axis / axis of dam	مِحور السد
+dam axis; axis of dam	مِحور السد
+dam board	عارِضة حجز
+dam overflow / dam spillway	مفيض السد
+dam water	مياه السُدود
+dam, diversion	سَدُّ تحويل
+dam, diversion; weir, diversion	هَدّار تحويل
+dam, homogeneous	سَدٌّ مُتَجَانِس
+dam, rolled-fill / dam, rolled-earthfill	سَدُّ ترابيّ مدموك
+dam, zoned / embankment, zoned / composite earth dam	سَدٌّ مُقَسَّم
+dam, zoned; embankment, zoned; composite earth dam	سَدّ مُقَسَّم إلى نطاقات
+dam; barrage; embankment; weir	سد
+dam; barrage; weir	هَدّار
+damage	نماذج للتلفيات / ضرر / تَلَفٌ / عطب ، ضرر؛ تلف
+damage analysis	تحليل الأضرار
+damage assessment	تقدير الضرر
+damage cargo	بضاعة تالفة
+damage certificate	شهادة تلف
+damage cycle	دورة الضرر
+damage function	دالة الضرر
+damage in transit	خسارة أثناء النقل، تَلَفٌ أثناء النقل
+damage limitation	تقييد الضرر
+damage repair	إصلاح الأضرار
+damage repair conception	تصور إصلاح الأضرار
+damage report	تقرير (عن) تلف
+damage to catenary, damage to overhead wire	ضرر سِلسِليّ
+damage to forest	أضرار لحقت بالغابات
+damage, corrosive	ضَرَر تَأكليّ
+damage, direct; loss, direct	ضرر مباشر
+damage-tolerant	مطيق الضرر / مُجيز الضرر
+damaged aircraft	طائرة معطلة
+damaged area	نُقطة تَلَف
+damaged rail	سكة حديدية متلفة
+damaged ship	سفينة بها عطب، سفينة معطلة
+damaged shipment	إرسالية متلفة
+damascus	قماش دامسك
+damascus brocade	بروكار دمشقي
+damast	دمشقي
+Damier pattern	ضامة
+damming body	كتلة حاجزة
+damming stage	قنطرة
+damp (to)	رَطَّبَ
+damp proof	مانع للرطوبة
+damp wood	خشب رطب
+damp-proof	مانع الرطوبة
+damp-proof coat	طبقة مانعة للرطوبة
+damp-proof membrane	غِشاء مانع للرطوبة
+damp-proofing compound	عازل
+damped flywheel clutch	قابض الحدافة المخمدة (DFC)
+damped natural frequency	تَردد طبيعيّ مُخمد / تردد طبيعي مُخمَد
+damped oscillation	ذبذبة متضائلة
+damped oscillatory wave	موجة متذبذبة مخمدة
+damped wave	موجة مُخمَدة / موجة مُضاءَلة
+dampening anchors	مَرَاسِي التَّخْميد
+damper	مُضائِل / مخمّد / مُخمِّد
+damper characteristics	المنحنى الخصائصي للمخمّد
+damper; suppressant; suppressor	مُخمِد
+damping	تخميد / إخماد / إخماد ، توهين / تخامد
+damping coefficient	معامل التضاؤل
+damping constant	مُعامِل التخميد
+damping curve	مُنحنى التخميد
+damping factor	مُعامل التخميد / عامل التخميد / عامل التضاؤل
+damping fluid preparation	معالجة ماء الترطيب
+damping magnet	مغنطيس مخمّد
+damping moment	عزم التخميد
+damping ratio	درجة التخميد / نِسبة التخميد / نسبة إخماد / نسبة الإخماد
+damping resistor	مقاوم إخماد
+damping roller	اسطوانة ترطيب
+damping solution	ماء ترطيب
+damping torque	عزم كبح (لجهاز قياس تكاملي)
+damping winding	ملف إخماد
+dance belt	حزام الرقص
+dance briefs	سروال قصير للرقص
+dance dress	فستان الرقص
+dance suit / leotard	ثوب الجمناز
+dancing roller	اسطوانة رقّاصة
+danger - do not load in passenger aircraft	محظور في طائرة المسافرين
+danger area	منطقة خطر
+danger of climate	مخاطر المناخ
+danger of jamming	خَطَر اللّصْب
+danger threshold	عَتَبة الخطر
+Danger Zone (Railway)	منطقة الخطر للسكك الحديدية
+danger zone; peril point; danger point	منطقة خطر
+dangerous goods	بضائع خطرة
+dangerous goods handling	شحن البضائع الخطرة
+Dangerous Goods Incident	حَدَثٌ لِقِطارِ بَضائِعَ خَطِرَةٍ
+dangerous goods stickers, hazardous goods stickers	ملصقات البضائع الخطرة
+dangerous structure	بنية خطرة، منشأة خطرة
+dangerous waste	نفايات خطرة
+dangle	زاوية التدلِّي
+Daniel cell	عمود دانييل
+Danish leather	جلد دنماركي
+danish organization for renewable energy (OVE)	منظمة دنماركية للطاقة المتجددة (OVE)
+Danufil Micro	ميكرو-دانوفيل
+Danufil®	دانوفيل ®
+Danuflor	دانوفلور
+Darcy’s law	قانون دارْسي / قانون دارسي
+dark	قاتم
+dark adaptation	تكيُّف الظلام
+dark brown	(تربة) بني(ة) داكن(ة)
+dark colour	لون قاتم
+dark current	التيار المُظلم , التيار المتبقي / تيار الظلام؛ تيار قاتم
+dark current,	تيار مظلم,
+dark denim	دنيم داكن
+dark gray	(تربة) رمادي(ة) داكن(ة)
+dark reaction	تفاعُل الظلام
+dark resistance	مقاومة الاظلام
+dark wash	طريقة الغَسْل المُدكِّنة
+dark, adj	داكن
+dark-trace	دليل الظلام
+darkfire	نار الظلام
+darkroom lamp	مصباح الحجرة المظلمة
+Darlington pair	زوج دارلينجتون
+Darlington thick film integrated transistor ignition (TFI)	نظام الإشعال الترانزستوري 'دارلنجتون' ذو الطبقة السميكة (TFI)
+darning yarn / darning twist	خيوط غزل للرفو، خيط مزوي للرفو
+Darrieus wind-turbine	عنفة رياح 'داريوس'
+dart	مَركبة سهمية / زخرف نشابي / لِسَانُ صِمَام
+darts / tuck	طية
+darts at breast	طية صدرية
+darts at neckline	طية تقويرة العنق
+darts at side	طية جانبية
+darts at waist	طيات الخصر
+darts in armhole	طية تقويرة الذراع
+darwinian fitness	لياقة داروينية
+dash	عارضة
+dash (in Morse code)	شرطة (في شفرة مورس)
+dash pot	مكبس تخميد
+dash-board	لوحة القيادة
+dash; penetration	اندفاع
+dashboard	لوحة أجهزة القياس والبيان / واقية من الوحل (في مقدمة السيارة)، لوح القيادة (تحت الزجاج الأمامي)
+DAT system; DAT (abbreviation)	نظام الأشرطة السمعية الرقمية (DAT)
+data	بيانات / معطيات / بيانات؛ معطيات
+data (pl.)	بيانات
+data above voice (transmission); DAV (abbreviation)	بيانات أعلى من ترددات حيز الصوت (إرسال)
+data acquisition unit	وحدة تحصيل البيانات
+data archiving	أرشفة البيانات
+data base	قاعدة معطيات
+data bit rate/data transfer rate	سرعة النقل
+Data Block	كتلة بيانات / كتلة البيانات
+data broadcasting	بث البيانات
+data bus	ناقل بيانات
+data cell devices	شرائط أفلام مغناطيسية
+data centre	مركز بيانات
+data channel	قناة بيانات
+data channel signalling conditions	حالات تشوير في قناة بيانات
+data circuit	دارة بيانات
+data circuit terminating equipment; DCE (abbreviation)	معدّة انهاء دارة بيانات
+data code	شفرة بيانات
+data collection	تجميع بيانات
+data collection satellite	قمر صناعي لجمع البيانات
+data collection system	نظام جمع بيانات
+data collector	مُجمِّع معطيات
+data communication	أنظمة نقل البيانات
+Data Communication Equipment	معدات اتصالات البيانات (DCE)
+data communication link (DCL)	رابط نقل البيانات (DCL)
+data communication; data transmission (deprecated in this sense)	إتصال لنقل بياناتِ؛ ارسال بيانات اتصال بيانات / اتصالات البيانات
+data communications equipment (DCE); data transmission equipment	تجهيزة نقل البيانات / معدات إرسال البيانات
+data compression	ضغط البيانات
+data compression data compaction data reduction	ضغط البيانات
+data concentrator	مُركـِّز بيانات
+data confidentiality	سرية البيانات
+data corruption	خطأ فى البيانات
+data element	عنصر بيان
+data encapsulation	تغليف البيانات
+data flow charts	مُخَطَّطات سير البيانات، مُصَوَّرَات تدفّق البيانات (أو المعطيات)
+data hub	قاعدة بيانات
+data integrity	تكامل البيانات
+data integrity classification	فئة تكامُل البيانات
+data link	وصلة بيانات / وصلة معطيات
+data link (in common channel signalling)	رابط بيانات (في ارسال الإشارات بقناة مشتركة)
+data link escape and end of text	رمز تحويل وصلة البيانات (DLE) ورمز نهاية النص (ETX)
+Data Link Layer	طبقة توصيل البيانات
+data link module,	نموذج ربط البيانات (في اشارات السكة الحديد),
+data link,	ربط البيانات,
+data log	بروتوكول نقل البيانات
+data logger	مُسجِّل أداء البيانات / مُسَجِّلُ بَياناتٍ / مُسجل عدديّ أوتوماتيّ
+data management	إدارة البيانات
+data management system	نظام إدارة البيانات
+Data Management Tool	أَداةُ إِدارَةِ البَياناتِ
+data matrix	مصفوفة المعطيات
+data minimization	الحد الأدنى للبيانات
+data models	نماذج البيانات
+data network	شبكة بيانات
+data preparation	اعداد بيانات
+data processing	مُعالَجة بيانات / معالجة البيانات / مُعالَجَة البيانات، مُعَالَجة المُعْطَيَات
+data processing system; computer system; computing system	نظام معالجة البيانات
+data processing; DP	معالجة البيانات
+data protection	حماية البيانات
+data rate	مُعدّل نقل البيانات
+data recorder	مُسجِّل المعطيات
+data relay satellite	قمر صناعي لترحيل البيانات
+data reliability	إعتمادية البيانات
+data set (for power performance measurement)	مجموع بيانات (لقياس أداء القدرة)
+Data set list	قائمة بيانات الجُمل
+data sheet	ورقة عمل (الاتحاد الألمانيّ لقطاع الغاز والمياه)
+data signal	إشارة بيانات
+data signalling rate; equivalent bit rate; DSR	معدل إرسال البيانات؛ معدل إنتقال البيانات المكافئة
+data sink	مجمِّع بيانات
+data source	مصدر بيانات
+data station; terminal installation for data transmission	محطة بيانات تركيبات طرفية لارسال البيانات
+data storage	ذاكِرة بيانات
+data store	مخزن البيانات
+data switching exchange; DES (abbreviation)	تبادل فصل وتوصيل البيانات
+data terminal	جهاز بيانات طرفي
+data terminal equipment	جهاز بيانات طرفي (DTE) / جهاز بيانات طرفي / مُعدّاتٌ طَرَفِيَّةٌ لِلبَياناتِ
+data terminal equipment, DTE	تجهيزة بيانات طرفية (DTE)
+data terminal equipment; DTE (abbreviation)	معدة طرف بيانات
+data transfer	نَقْل بيانات
+data transfer data transmission	نقل البيانات
+data transfer phase	طور نقل البيانات
+data transfer rate	مُعدل نقل البيانات / مُعدّل نقل
+data transfer rate data transmission rate	مُعدَّل نقل البيانات
+data transmission	نقل البيانات؛ نقل المعطيات / نقل البيانات
+data under voice (transmission); DUV (abbreviation)	بيانات تحت ترددات حيز الصوت (إرسال)
+data word	كلمة بيانات
+data, pl	بيانات,
+data-acquisition station	محطة استحواذ المعلومات
+data-logger	مُدَوِّن المعطيات
+data-sensitive fault,	خطأ فى بيانات حساسة،,
+database	قاعِدة بيانات / قاعدة بيانات / قاعدة البيانات
+database management system; DBMS	نظام إدارة قواعد البيانات
+Database of State Incentives for Renewable Energy (DSIRE)	قاعدة البيانات الأمريكية للحوافز في مجال الطاقة المُتجدّدة (DSIRE)
+datafax	ناسوخ بيانات
+datagram	إطار البيانات المؤدية لنقطة النهاية
+datagram service	خدمة جزئيات البيانات
+datapath	مسار البيانات
+dataset	مجموعة من متغيرات العملية
+date	تاريخ
+date of shipment	تاريخ الإرسال/ الشحن
+date of travel	تاريخ السفر
+datolite	داتولايت
+datum	سَطْح مقارنة / مَرجِع إسناد
+datum horizon	أُفُقُ الإسناد
+datum level	مستوى مرجعي
+datum line	خَطُّ إسناد / خط المعطيات، خط (ال...) المرجعي
+datum-line	خط الصفر، مستوى الصفر
+daubing	تلطيخ
+Dauphine twinning	توأمة داوفين
+davenport	أريكة سرير
+Davis barrier	حاجز ديفِس
+Davis wing	جناح ديفِس
+davit	مقدم سفينة
+day	يوم
+day ahead	بيع الطاقة ليوم مُقدّماً
+day beacon	علامة النهار
+Day bin	حاوية اليوم الواحد
+day marking	تَأْرِيمٌ نهاريّ
+day tank	خَزَّان العمل اليومي
+day to busy hour ratio	نسبة الانشغال اليومي للساعة
+day tour	نوبة العمل النهارية
+day-ahead	كهرباء اليوم التالي
+Day-Glo	داي ـ جْلو
+day/night	ليل / نهار
+daylight	ضوء النهار
+daylight factor	عامل ضوء النهار
+daylight fluorescent colour	لون فلورى نهارى
+daylight illuminant; D illuminant	اضاءة نهارية؛ مستضيء كضوء النهار
+daylight lamp	مصباح ضوء نهارى
+daylight locus	المحل الهندسى لضوء النهار
+daylight opening	فتحة لدخول ضوء النهار
+daylight simulator	محاكى ضوء النهار
+daylighting; DEPRECATED: natural lighting	ضوء النهار,
+days of operation	أيام التنقل
+daytime running lights, pl; DRLs, pl	أضواء أثناء الحركة النهارية
+dB (decibel)	ديسيبل
+dB; decibel	ديسيبِل
+dbh	قياس القطر عند الصدر (dbh)
+DBS (Drainback system)	نظام تفريغ ذاتي (DBS)
+DC breakdown voltage	جهد إنهيار تيار مستمر
+DC Charging	جهد الشحن بالتيار المستمر
+DC component (of a video signal)	مكون التيار المستمر ( للإشارة المرئية)
+DC conversion factor	عامل تحويل تيار مستمر
+DC converter	مغير تيار مستمر
+DC convertor	مبدل التيار المستمر
+DC diesel generators	مولد ديزل مستمر التيار
+DC Fast Charging	الشحن السريع بالتيار المستمر / الشحن بالتيار المستمر / شحن التيار المستمر السريع
+DC filter	مرشح تيار مستمر
+DC form factor	عامل تشكيل تيار مستمر
+DC harmonic filter	مرشح توافقي لتيار مستمر
+DC high-speed circuit-breaker	قاطع دائرة تيار مستمرعالي السرعة
+DC injection braking; DC braking (US)	كبح عن طريق حقن تيار مستمر
+DC line	خط تيار مستمر
+DC load supply	تغذية حِمل التيار المُستمر
+DC main generator	مولد رئيسي للتيار المستمر
+DC motor vehicle	مركبة بمحرك تيار مستمر
+DC power	قدرة تيار مستمر
+DC railways	سكك حديدية ذات تيار متواصل
+DC restoration	إستعادة التيار المستمر
+DC ripple factor	عامل تموج تيار مستمر / عامل التموج لتيار مستمر
+DC source	مصدر تيار مستمر
+DC steady-state recovery voltage	جهد الاستعادة لحالة الاستقرار بالتيار المستمر
+DC traction	جر بالتيار المستمر
+DC, qualifier	تيار مستمر
+DC-DC Converter	وحدة تحويل التيار (DC-DC) / مصدر قدرة من النوع التبديلي (SMPS)
+DC-DC Converters	محولات التيار المستمر
+DC-to-DC converter	مغيّر فلطية مُستمرة
+DC/AC equivalence factor	عامل تكافؤ للتيار (المستمر / المتردد)
+DC/DC converter	مُحوّل فلطية مُستمرة / محول تيار مستمر الى تيار مستمر
+DC، d.c.	تيار مباشر
+DC، d.c.; direct current	تيار مستمر
+DDE	التحكم الإلكتروني في محرك ديزل
+ddt	ثنائي كلورو ثنائي فينيل ثلاثي كلورو الإيثان (ددت DDT)
+de Dion axle (DD axle)	محور 'دو ديون' (محور DD)
+de facto	واقعي (بحكم الواقع)
+de Laval nozzle	منفث دو لافال / فوهة دولافال
+De Morgan's laws	قواعد ديمورجان
+de-aeration	نَزْع الهواء
+de-air	تفريغ من الهواء
+de-certification	سحب التصديق
+de-commodification	عدم الاستغالل التجاري
+de-electrification current	إزالة التكهرب
+de-emphasis	إزالة التأكيد
+de-emphasis; post-equalization	عدم التأكيد
+de-ethanizer	نازع الاتان
+de-icing	إزالة الجليد
+de-inking	إزالة الحبر
+de-ionization	زوال التأين
+de-ionization rate	معدل زوال التأين
+de-ionization time	زمن إزالة التأين / مدة إزالة التشرُّد
+de-ionizing grid	شبكة زوال التأين
+de-iteration	إزالة التكرار
+de-minimis risk	مخاطر أقل من الحد الأدنى
+de-spin	يدوِّر عكسيّاً
+deacidification	إزالة الحموضة
+deacidification system/plant	نِظام إزالة الحَمْضية
+dead	ميت؛ غير مكهرب / غير مكهرب
+dead band; dead zone	نطاق عدم الاستجابة؛ منطقة عدم الاستجابة
+dead beat	لا ارتجاجي
+dead biomass	كتلة حيوية ميتة
+dead colour	لون باهت
+dead earth	اتصال أرضي وثيق
+dead end	طرف مسدود، ردبة
+dead end filtration	ترشيح ذو نهاية ميتة
+dead end street	شارع ضيق (غير نافذ)، ردب، زنقة
+dead engine	محرك هامد
+dead floor (or wall)	أرضية مصمتة للصوت
+dead head	عربة غير محملة
+dead leg,	فرع راكد, تسخين بالتتبع
+dead level	تامُّ الاستواء
+dead line	خط ساكن، خط حدّي، خط معلم
+dead line anchor	مِرْسَاة الخَطّ الثابت
+dead lines	خطوط الجريان (من البئر إلى خزانات الحقل)
+dead load	حِمْل ساكِن / حِمْل ميت / حمولة ميتة
+dead matter	مواد تم طبعها
+dead phase; lagging phase	طور هامد - طور متأخر
+dead reckoning	تقدير الوضع
+dead room	حجرة ميتة - غرفة كاتمة (للصوت)
+dead sector	قطاع ميّت
+dead shore	دعامة مؤقتة
+dead sounding (pugging)	حرديّ
+dead space	حيز ميت
+dead storage	مَخْزون مَيت / مخزون ميت / تخزين ميت
+dead storage capacity / dead storage	سَعَة التخزين الميت
+dead storage level	منسوب التخزين الميت
+dead tank circuit-breaker	قاطع دارة ذو خزان غير مكهرب
+dead time	زمن عدم الاستجابة / مدة الراحة (الوقت الميت) / الزمن الميت ، زمن عدم الاستجابه / وَقْت ضَائع
+dead time (during auto-reclosing)	زمن ميت أثناء اعادة الغلق الآلي
+dead time correction	تصحيح الزمن الميت ، تقويم زمن الاستجابه
+dead vortex	دوّامة هامدة
+dead water	ماء راكِد / مياه راكدة
+dead weight tonnage	حُمُولة إجمالية
+Dead Well	بئر عقيمة / بئر مُنْهَكَة
+dead wood	خشب يابس
+Dead zone	منطقة ميتة / منطقة هامدة
+dead, adj	غير مكهرب
+dead, adj; DEPRECATED: de-energized, adj	غير مكهرب؛ DEPRECATED: غير مشحون
+dead-end	طريق مَسْدُود
+dead-end filtration process	عملية ترشيح ذات نهاية ميتة
+dead-end flow	نهاية سريان مغلقة
+dead-end tension joint	وصلة نهاية شد
+dead-end track	طريق مسدود
+dead-front panel	لوحة توزيع معزولة
+dead-reckoning plot	مخطط تقدير الموضع / مخطط تقدير الوضع
+dead-reckoning position	موضع محدد بالتقدير / موضع محدَّد بالتقدير
+dead-rise	ارتفاع القاع
+dead-rise angle	زاوية ارتفاع القاع
+dead-side	جانب هامد
+dead-stick landing	حط هامد
+dead-time element	عنصر عدم الاستجابة
+dead-time element in effect plan	عنصر زمن الهمود في مخطط الإجراءات
+deadbreak connector	رابط منفصل للاستخدام بدون جهد
+deadening mastic	معجون خافت للصوت
+deadeye	قرص شد الحبال
+deadface	تهميد
+deadhead	عربة خاوية / راكب مجاناً / طيران بلاعائد
+deadleg	أنبوب راكد
+Deadman	مفتاح الرجل الميت / مرساة غاطسة، عمود إرساء
+deadman control	جهاز لوقف التشغيل (إذا أصاب المشغل طارىء)، تحكم (ال..) بعمود الإرساء
+deadspot	بقعة هامدة
+deadtime in the frequency domain	نظام زمن ميت في المجال الترددي
+deadweight	حمولة ساكنة
+deadwood	أخشاب ميتة
+deaerated heater	سَخَّانَة طرد الهواء (من ماء المراجل)
+deaerated water	ماء مخلى من الهواء
+deaeration	تهوية
+deaerator	مزيل الهواء؛ نازع الهواء؛ وعاء نزع الهواء / مزيل غازات / وعاء طرد الهواء، جهاز تفريغ الهواء
+dealkalization	إزالة القِلْوية
+deamination	نزع الأمين
+death watch-beetle	سوس الخشب
+deballasting	طَرْح الأحمال
+deblocking	إزالة الإحْصار
+deboost	عَكْس التعزيز
+debouchment	مصب النهر
+debouchure	مصب النهر
+debriefing	استخلاص المعلومات
+debris	أنقاض
+debris basin / sediment pool	حوض تجميع الطمي المُترسّب
+debris flows	سريان طيني
+debris-flow	تدفق حطام
+debt coverage ration (dcr)	نسبة تغطية الديون
+debug	ينزع العلَّة
+debug, verb	يصحح, فعل
+debugging	كشف الأخطاء و تصحيحها
+debugging runs; test runs	تشغيل اختباري (بقصد تصحيح الأخطاء)
+debutanizer	مزيل البوتان، نازع البوتان
+debutanizer reboiler	مبادل حراري لتسخين مزيل البوتان
+debutanizer reflux drum	أسطوانة نازع البوتان بالتقطير الارتدادي
+deca	ديكا
+deca (prefix)	ديكا
+decadic key pad; decadic push-button	لوحة مفاتيح عشرية
+decadic signal	إشارة عشريّة
+decadic System	نظام عشري
+decal	نقل الشعار
+decalage	فرق زاوي
+decalcification	إزالة الكالسيوم / نزكلة
+decalescence point	درجة الخبوّ
+decameter	مخبار الرطوبة
+decametric	ديكامتري
+decanewton	ديكانيوتن
+decanoic acid solvent extraction process	عملية استخراج المذيبات بحمض الديكانويك
+decant (to)	صفّى
+decantation	إِبَانَة / ترويق
+decantation; sedimentation; settling; settlement	ترسيب
+decantationtank	خَزّان ترسيب
+decanter	دَوْرَق
+decarbonation	إزالة الرواسب الفحمية / نَزْع الكربون / إزالة الكربون
+decarbonator	مزيل الكربون / جهاز نزع الكربون
+decarbonisation	إزالة الكربون
+decarbonization	حدف الكربون / الحد من انبعاثات الكربون
+decarburizing	إزالة الكربون
+decat water	ماء محدود القساوة
+decay	تَلَف / انحلال / اضمحلال ، تلاشي / اضمحلال / تضاؤل
+decay constant; damping constant	ثابت المُضَاءَلة
+decay constant; disintegration constant	ثابت الاضمحلال
+decay curve	منحنى إضمحلال / منحني الاضمحلال
+decay of wood	تعفُّن الخشب / عفن الخشب
+decay orbit	مدار الاضمحلال
+decay product	ناتج الاضمحلال
+decay rate	معدل الاضمحلال / معدَّل الاضمحلال
+decay time	زمن الاضمحلال، زمن التلاشي / مدة الاضمحلال
+decay time (of a pulse); fall time (of a pulse)	زمن اضمحلال (لنبضة)
+decay time; fall time	زمن الإضمحلال؛ زمن الهبوط
+Decca chain	سلسلة دكّا
+Decca Flight Log	سجلّ دكّا للرحلة
+Decca lane	ممر دكّا
+Decca Navigator	ملاّح دكّا
+Decca Omnitrac	أومنيتراك دكّا
+decelerating electrode	قطب إبْطاء
+decelerating force; retarding force	قوة تبا طؤ
+decelerating lane	مسار تخفيف السرعة
+deceleration	التباطؤ
+deceleration lane	مَسْرَب الإبطاء
+deceleration limit	حد التباطؤ
+deceleron	جُنيح مُبطِّئ
+decentralisation	لامركزية
+decentralised electricity generation plant	محطات لامركزية لتوليد التيار الكهربائي
+decentralised energy supply	إمداد لامركزي بالطاقة
+Decentralised oil mill	مطحنة/معصرة زيت لامركزية
+decentrality	لامركزية
+decentralization	لا مركزية / لامركزية
+decentralization [US]	لامركزية
+decentralization theorem	نظرية اللامركزية
+decentralized control	تحكم لا مركزي / تحكم لامركزي
+decentralized control structure	هيكل تحكم لا مركزى
+decentralized controller	ضابط لامركزي
+decentralized electricity production	إنتاج لا ممركز للكهرباء
+decentralized energy production	إنتاج لا مركزي للطاقة
+decentralized energy storage	تخزين لامركزي للطاقة
+decentralized energy supply	إمداد لامركزي بالطاقة / إمدادات الطاقة اللامركزية
+decentralized generators	مولد مُوَزّع
+Decentralized Peripherals	أجهزة (ال...) الطرفية اللامركزية
+decentralized power generation [US]	لامركزية في توليد التيار الكهربائي
+decentralized warehouse	مستودع غير مركزي
+deception	خداع
+deception; decibel	تضليل
+dechlorination	إزالة الكلور / إزالة الكلورة
+dechlorination system	نِظام إزالة الكلور
+deci (prefix)	ديسيـ
+decibel	ديسيبل / ديسيبل (وحدة قياس فى مستوى الشدة بين صوتين متساويين التردد) / ديسيبل (وحدة قياس شدة الصوت)
+decibel (A)	ديسيبل (A)
+decibel meter	مقياس ديسيبِل
+deciduous (tree)	(شجر) نفضي
+decimal	عُشْري
+decimal classification	تصنيف عشري
+decimal fraction	كسر عشري
+decimal number	عدد عشري
+decimal point	فاصلة (عشرية)
+decimal system	نظام عشري
+decimal system; decade system	نظام عشري
+decimal, adj	عشرى, صفة
+decimetric	عُشر متري
+decimillimetric	عُشر مِليمتري
+decision analysis	تحليل قرار
+decision circuit (for a digital signal)	دارة القرار (لإشارة رقمية)
+decision content	محتوى القرار / محتوى القرار، مضمون القرار
+decision height	ارتفاع القرار
+decision instant (for a digital signal)	لحظة القرار (لإشارة رقمية)
+decision making	اتّخاذ القرارات
+decision of national tribunals	حكم المحاكم الداخلية
+decision speed	سرعة القرار
+Decision Support System Department	دائرة نظم مساندة القرار
+decision value	قيمة مقررة
+Decitex / dtex	وحدة القياس ديتيكس
+deck	سَطْح (طائرة)، سَطْح (سفينة) / سَطْح / ظهر / جسر عمل (فوق جزء مغمور من منصة الحفر البحرية)
+deck chair	كرسي طويل
+deck letter	حرف السطح
+deck modules	معدّات جسور، وحدات قياس معابر
+deck of a bridge	سَطْح جِسْر
+deck of bridge	سَطْح جَسْر
+deck park	موقف ظهر الحاملة
+deck roof	سقْف ذو تسقيفة زائفة
+deck-edge elevator	مصعد جانب السطح
+deck; face; surface	سطح
+decked buttress dam	سَدٌّ بواجهة غير مسطحة مثبت بدعامات
+decking	سطح الجسم
+deckle straps	سيور ضابطة
+decks	أدوار
+declarable substance and declarable substance group	المادة المعلن عنها ومجموعة المادة المعلن عنها
+declaration	بيان
+declaratory judgment	حكم تفسيري
+declared	مُصرَّح به / مُعلَن
+declared alternate	بديل مُعلَن
+declared destination	مقصَد مُعلَن
+declared error; assigned error	خطأ معلن
+declared thrust	دَفْع مُعلَن
+declared weight	وزن مُعلَن
+declination	انحراف
+declination; descent; glide; slope	انحدار
+declination; dip	مَيل زاوي
+decline	هبوط، زوال
+decline (cites)	تراجع (اتفاقية التجارة الدولية في الأنواع المهددة بالانقراض)
+decline curve	منحني الهبوط
+decline of water table / phreatic decline	انخفاض مَنسوب المياه الجوفية
+declining-rate filtration	ترشيح بمعدل متناقص
+declutching	فَصْل القابض، توقيف الحركة
+decoder	جهاز فك الشفرة / فاكَّ الشفرة / فك التشفير / جهاز فك الترميز (التشفير) / جهاز فكّ الترميز
+decoder circuit	دائرة فك الشفرة
+decoding	فكّ التشفير / حلّ الشفرة / فكّ الرمز
+decoding (in colour television)	فك الترميز ( في التلفاز الملون )
+decoding (in pulse code modulation)	فك الشفره؛ تفكيك الرموز
+decollete	خط الرقبة
+Decometer	ديكومتر
+decommissioning	إخراج من التشغيل
+decomposer	كائن محلل
+decomposition	تَحلُّل / تحلل / تحلُّل
+decomposition voltage	جهد التحلل
+decomposition; degradation	تَحلُّل
+decompression chamber	حجرة انخفاض الضغط
+decompression sickness	مرض انخفاض الضغط
+decompression stress	إجهاد انخفاض الضغط
+decompression valve	صِمام تخفيف الضَغْط
+deconcentration	عدم تمركز (السلطة)
+decontamination	تطهير / إزالة التلوث
+decontamination (chem.) / disinfection (med.)	تعقيم
+decontamination (med.)	تطهير
+decontamination facility	مَعمَل تطهير
+decontamination plant/system (chem.) / disinfection system (med.)	نِظام إزالة التلوث
+decontamination system (med.)	نِظام إزالة التلوث
+decoraive plastic laminate	ألواح اللدائن المزخرفة
+decorated	مُزيَّن
+decorated tiles	بلطات مزخرفة
+decoration	زخرفة
+decorative fabric	أقمشة مزركشة
+decorative heel	عقب مزخرف
+decorative plywood	خشب معاكس للزخرفة
+decorative strip	إطار شريط التزيين
+decorative yarn	خيوط زخرفة
+Decorwool®	ديكوروول
+decoupled output	خرج غير متقارن
+decoupling	فك التقارن / فصل؛ فصل الاقتران / فك الاقتران
+decoy	خيدع
+decrab	إزالة المُجانبة
+decrease	تناقُص
+decreasing	مُتناقِص
+decrement	تناقص / نقصان
+decrepit	نخِر أو مسوّس
+decryption (in television)	فك الترميز ( في التلفاز)
+decryption; decipherment	حل الشفرة؛ فك الشفرة
+Dectrac	دِكتراك
+dedicated	مُخصَّص
+dedicated battery	بطارية مخصصّة لاستخدام معين؛ نضيدة مخصصّة لاستخدام معين
+dedicated circuit (in telegraphy and data transmission); leased circuit	دارة مخصصة (في اتصالات البيانات والإبراق )
+dedicated energy crop	محصول مُخصص لتوليد الطاقة
+dedicated high speed railway line	خط سككي عالي السرعة
+Dedicated high-speed railway line	خَطّ حَدِيدِيّ مُكَرَّس لِلسُرْعَةِ العالِيَةِ
+dedicated low-voltage wiring	أسلاك خاصة بالجهد المنخفض
+dedicated runway	مدرج مخصَّص
+dedicated train	قطار متخصص
+dedication	اهداء
+dedicative preface	مقدمة اهدائية
+dedusting	إزالة الغبار
+dee	دي ـ كشتبان
+deed restriction	عقد تَقَيُّد
+deep bed filter	مُرشِّح ذو طبقة عميقة
+deep borehole heat exchanger	مِسبار حراري أرضي عميق
+deep borehole; deep drill	بئر عميقة
+deep borer	ثَقَّابة عميقة
+deep cycling	تدوير عميق
+deep drainage	تصريف عميق للمياه
+deep drilling	حَفْر عميق
+deep drilling technology	تكنولوجيا الحفر العميق
+deep etching	حفر عميق
+deep foundation	أساس عميق
+deep foundations	أساسات عميقة
+deep geothermal energy	طاقة جيوحرارية العميقة
+deep ground water	مياه جوفية عميقة
+deep heat mining	مشروع المنجم الحراري
+deep hole	بئر عميقة
+deep indented connection	وصلة ذات حزوز عميقة
+deep infiltration	تخلل عميق
+deep infiltration loss, non-recoverable	فاقِد تخلل عميق غير مسترد
+deep manhole	غرفة تفتيش عميقة
+deep mining	تنجيم عميق
+deep percolation	تخلل عميق (مياه الشقوق) / رشح عميق
+deep pump	مضخة الأعماق
+deep scattering layer	طبقة تشتت عميقة
+Deep Sea Disposal	تخلص في أعماق البحار
+deep sea ooze	رسوبيات الأعماق، غرين الأعماق
+deep sea vessel (DSV)	سفينة أعالي البحار
+deep space	فضاء بعيد / فضاء سحيق
+deep space probe	مسبار فضاء بعيدِ
+deep stall	انهيار عميق
+deep water port	ميناء بالمياه العميقة
+deep well	بئر عميقة
+deep well injection	حَقْن في بئر عميقة / حقن في بئر عميق
+deep X-ray therapy	علاج عميق بالأشعة السينية X
+deep zone	مِنطقة العمق
+deep-drawing property	خاصية السحب العميق
+deep-drilling	حَفْر عميق
+deep-etch effset; intaglio offset	طباعة غائرة أوفست
+deep-etched; half-tone	كليشيه ظلي عميق
+deep-sea	أعالي البحار
+deep-sea deposits	رواسب أعماق البحار
+deep-seated rocks	صخور عميقة الجذور
+deepening	تعمُّق
+deer glade	فسحه الأيل
+deerskin	جلد الأيل / جلد الغزال
+default setting/value	وضع ضَبْط المصنع / قيمة قياسية
+default, adj	مبدئى, صفة
+defect	عيب، خلل / عَيْب
+defect / deficiency / shortcoming / fault	نقص
+defect marking	توسيم الأخطاء
+defect; failure	عُطْل
+defected insulation	عَزْل مَعِيب
+defective colour vision	عمي الألوان
+Defective On Train Equipment	عُطْلٌ فِي أَجْهِزَةِ القِطارِ
+defective relay	مرحل معيب
+Defective Signal	إِشارَةٌ مُتَعَطِّلَةٌ
+defects of woods	عيوب الأخشاب
+defence	دفاع
+defence suppression	إخماد الدفاع
+defensive electronics	إلكترونيات دفاعية
+deferrable load	حِمل قابل للتأجيل
+deferrable outage	خروج قابل للتأجيل
+deferred maintenance	صيانه مؤجلة
+deferrisation	إزالة الحديد
+deferrization	إزالة الحديد
+defiber (to)	نزَع الألياف
+defiberizing; defibrating	نزع الألياف
+defibrating machine	نزّاعة الألياف
+defibrillation; cardioversion	إزالة الرجفان
+defibrillator	مزيل الرجفان
+deficiency	عَجْز / قُصور
+deficit spending	عجز إنفاق
+deficit, oxygen	نَقْص الأكسجين
+definable groundwater capacity	حَجْم المياه الجوفية القابلة للتحديد
+defining data (pl.)	بيانات التنظيم
+definite purpose motor	محرك لغرض محدد
+definite time-delay overcurrent release	إعتاق بزيادة التيار بتأخير زمنى محدد
+definition	وضوح / حدة الوضوح
+definition of legally produced timber (component of las)	تعريف الأخشاب المنتَجة بشكل قانوني (عنصر من نظام ضمان الشرعية LAS)
+definition; familiarization	تعريف
+definition; resolution	تعريف
+definitive edition	طبعة نهائية
+deflation	تذرية
+deflected slipstream	تيار المروحة المنحرف
+deflected well	بئر منحرفة، بئر منعطفة
+deflecting electrodes; deflector plates	أقطاب إنحِراف
+deflecting tool	أداة انحراف جارفة، أداة لتوجيه الحفر
+deflecting torque; driving torque	مسجل (لجهاز قياس تكاملي)
+deflecting yoke	مِقرن الانحراف
+deflection	انْعِطَافٌ، انحراف / انْعِطَافٌ / سهم (ال...) / انحراف (الشاقول) / انعطاف / انحراف / انحراف، انعطاف
+deflection (structural distortion)	انحراف
+deflection / deviation	انحراف
+deflection angle	زاوية الانحراف
+deflection coefficient	خاصية التحول من جهد ثابت إلى تيار ثابت / معامل انحراف
+deflection coils	ملفات الانحراف
+deflection crash switch	مفتاح الانحراف عند التصادم
+deflection current	تيار الانحراف
+deflection defocusing	انحراف بؤري ، انحراف التركيز
+deflection method	طريقة الانحراف
+deflection plug	سدادة انعطاف، سدادة انحراف
+deflection radius; minimum railway curve radius	شعاع الانحراف
+deflection sensitivity (electrostatic)	حساسية الانحراف ( كهروسكوني )
+deflection sensitivity (magnetic)	حساسية الانحراف ( مغناطيسي )
+deflection under bending load	إزاحة تحت حمل الانحناء
+deflection uniformity factor	عامل انتظام الانحراف
+deflection voltage	جهد الانحراف
+deflective	حارف، مسبب الانحراف
+deflective forces	قُوَى حارفة
+deflectometer	جهاز قياس السهوم
+deflector	حارف
+deflector / sealing bucket	شفة
+deflector coil	ملف انحراف ، ملف تغير اتجاه
+deflector plate	لوح حارف
+deflocculant	مُشتِّت
+deflocculating agent	عامل منع التخثُّر
+deflocculation	إزالة التَنَدُّف
+defluorination	إزالة الفلور
+defoamer	مُضَاد للرغوة، مُضَاف مضاد للرغوة
+Defogging System	نظام التحكم في الضبابية
+defoliant	مزيل أوراق الأشجار
+defoliation	تساقط الأوراق
+defoliation classes	مستويات تساقط الأوراق
+deforestation	إزالة الغابات
+deformation	تشوّه / تَشَوُّه / تَشوُّه / تشوه / تشويه / تحرُّف
+deformation lot	جزء مُعرّض للتشكّل
+deformation of the model	تَشوُّه النموذج
+deformation work	شغل تشوّه / شغل التشكّل
+deformed bars	قضبان محزَّزة / قُضْبَان مفتولة، قُضْبَان مشوَّهة
+defroster	جهاز إذابة الصقيع / مزيل الصقيع؛ مزيل التجمد
+defruiting	تهذيب
+defuzzification	إزالة الغموض
+degarbling; filter; filtering	تنقية
+degasification / degassing	إزالة الغازات
+degasifier	تفريغ من الغاز
+degassing of digested sludge	إزالة الغاز من الحمأة المتعفّنة
+degassing station	مَعْمَل إزالة الغاز، مَرْكَز نَزْع الغاز
+degassing system/plant	نِظام إزالة الغازات
+degaussing circuit (in colour television)	دارة إزالة المغناطيسية (في التلفاز الملون)
+degeneracy	تعدد شفرات الحمض الأميني
+degenerate mode (in a cavity resonator)	نمط مُنحل ( في مِرنان تجويف)
+degenerate mode (in a uniform transmission line)	نمط مُنحل ( في خط نقل منتظم)
+degenerate mode polarization	استقطاب لنمط مُنحل في دليل موجة
+degenerate semiconductor	شبه موصل عالي الناقلية
+degenerated polyphase system	نظام منفك متعدد الأطوار
+degradability	قابِلية التحلّل
+degradable	قابِل للتحلّل
+degradable organic matter	مادة عضوية قابلة للتحلّل
+degradation	تَحَلُّل / تفكُّك / تدهور / تدهور،, / تدرج نصول الألوان
+degradation (in performance)	إنحطاط - تدهور (الأداء)
+degradation chain	سِلسِلة التحلّل
+degradation efficiency	فَعالية التحلّل
+degradation kinetics; kinetics of degradation	سُرعة التحلّل
+Degradation of energy systems	تدهور أنظمة الطاقة
+degradation process	عملية التحلل
+degradation product; decomposition product	ناتج عملية التحلّل
+degradation rate	معدل الإضمحلال
+degradation, primary	تَفكُّك أوّليّ
+degradative water use	استخدام تدهوري للمياه
+degraded modes, pl	انماط التشغيل أثناء الأعطال
+degraded operation	عملية متدهورة / آلِيَّةُ تَشْغِيلِ النِظامِ رُغْمَ وُجُود خَلَل
+degraded performance	أداء متدنٍ
+Degraded Service	تَشْغِيلٌ جُزْئِيّ
+degraded state	الحالة المتدهورة،,
+degraded surface	سطح مطار متدنٍ
+degreasant, alkaline	قَلَويّ للتخلص من الدهون
+degreasing	إزالة شحوم / نَزْع الشحم
+degree	درجة
+degree Celsius; centigrade degree (deprecated)	درجة مئوية
+Degree day	يوم درجة
+degree days	يوم درجة
+degree of anaerobic stabilisation	درجة التعفّن
+degree of automation	درجة الآلية
+degree of bias distortion	درجة التشوه الانحيازي
+degree of capacity utilisation	درجة الاستفادة الفعلية من السعة الكلية
+degree of coherence	درجة التماسك
+degree of compaction	درجة الضغط
+degree of curvature	درجة الانحناء
+degree of dispersion	درجة التشتت
+degree of dryness	درجة التجفيف
+degree of early anisochronous parallel distortion	درجة تشوة مبكر في الارسال المتوازي متباين التزامن
+degree of fixation	دَرَجة التثبيت
+degree of freedom	درجة تحرر / درجة حرية / درجة الحرية
+degree of gross start-stop distortion	درجة التشوة الاجمالي للبدء والتوقف
+degree of humidity	درجة الرطوبة
+degree of individual distortion (of a particular significant instant)	درجة التشوة الفردي (للحظة خاصة هامة)
+degree of ionization	درجة التشرّد
+degree of ionization (of a plasma)	درجة التأين (للبلازما)
+degree of isochronous distortion	درجة تشوة متساوي التزامن
+degree of late anisochronous parallel distortion	درجة تشوة متأخر في الارسال المتوازي متباين التزامن
+degree of latitude	خط العرض
+degree of longitude	درجة الطول
+degree of moisture	درجة الرطوبة
+degree of opening	درجة المسامية
+degree of order of fibers in yarn	درجة ترتيب الألياف في الخيط
+degree of polymerisation	درجة البلمرة
+degree of polymerization (of a cellulose molecule)	درجة البلمرة ( لورق السللوز)
+degree of polymerization (of a polymer)	درجة البلمرة (لبوليمر)
+degree of protection of enclosure; IP	درجة حماية الحاوية
+degree of reflection	درجة الانعكاس
+Degree of root penetration	درجة اختراق الجذور
+degree of salinity	درجة الملوحة
+degree of saturation	درجة التشبّع / درجة الإشباع
+degree of shrinkage	درجة الانكماش
+degree of speed regularity	درجة انتظام سرعة الدوران
+degree of stabilization	درجة الاستقرارية
+degree of standardized test distortion	درجة تشوة الاختبار القياسي
+degree of start-stop distortion	درجة تشوة البدء والتوقف
+degree of technical degradation	درجة التحلّل التقنية
+degree of theoretical degradation	درجة التحلّل النظرية
+degree of twist	درجة البرم
+degree of utilisation	درجة الانتفاع
+degree of utilization	درجة الاستخدام
+degree of whiteness	درجة البياض
+degree; day DD	درجة/ يوم
+degrees api	درجات معهد النفط الأمريكي، درجات كثافة معهد النفط الأمريكي
+degrees of freedom, pl	درجات حرية الحركة, جمع
+degression	تخفيض
+degressive feed-in tariffs	أسعار تناقصية لامداد بالطاقة
+degritting	إزالة الرمال
+dehalogenation	فصل الهالوجينات
+dehumidification	إزالة الرطوبة / تّجفيف
+dehumidifie (AC)	مُزيل الرطوبة (مكيف الهواء)
+Dehumidifier	مُزيلُ الرُّطُوبَة
+dehydrant	نازع الرطوبة
+dehydratation	نزع الماء
+dehydrate (to)	جَفَّف
+dehydration	نزف الماء / نَزْع الماء / نزع الماء / تجفيف/إزالة الماء
+dehydration process	عملية إزالة المياه
+dehydration; dewatering; drying	تجفيف
+dehydrogenation	نَزْع الهيدروجين
+deicer vehicle	عربة إزاحة الجليد
+deionisation	نَزْع التأين
+deionisation advances	تنقية متقدمة من الإيونات
+deionization	تنقية من الإيونات
+deionization (DI)	إزالة الأيونات
+deisobutanizer feed settler	رَاقُود تلقيم نازع ايزو البوتان
+delamination	فَصْلٌ إلى طَبَقَات / فصل الى طبقات رقيقة
+delay	تأخير / تأخُّر / تَأْخِير
+delay and self-regulation time in practice	زمن التأخير وزمن التعديل عملياً
+delay angle	زاوية التأخير / زاوية تأخير
+delay cable	كبل تأخير
+delay device	أداة تأخير
+delay line	خط تأخير / خط التأخير / خط تعويق / خَطُّ التأخير
+delay mode of operation	صيغة تشغيلية التأخير
+delay rate	معدّل التأخير
+delay system	نظام التأجيل
+delay tank; decay tank	خَزّان المياه المُلوّثة إشعاعياً
+delay time (of a time-delay switch)	زمن تأخير (لمفتاح تأخير زمني)
+delay time of electrode drive	زمن التأخير لآلية حركة قطب كهربائي
+delay upon arrival	وصول متأخر
+delay, late arrival	تأخر
+delay-time	زمن التاخير
+delay/frequency characteristic	تأخير / خصائص التردد
+delayed action electromechanical treadle	دواسة الكهروميكانيكية بفعل متأخر
+delayed automatic gain control	تحكم الكسب الآلي المتأخر
+delayed coker unit	وحدة الفحم البترولي
+delayed coking	تكويك معوق
+delayed command	أمر متأخر
+delayed delivery	تسليم متأخر (مؤجل)
+delayed drop	إسقاط متأخر
+delayed intermittent control	تحكّم مُرحّل في الإيقاف
+delayed message	رسالة متأخرة
+delayed protection; time-delayed protection (US)	حماية مؤخرة زمنياً
+delayed repeater	مكرِّر تأخيري
+dele	علامة حذف
+delessite	ديليسايت
+delete (to) / erase (to) (comp.)	مَسَحَ
+delete, verb	يمسح, فعل؛ يمحو
+deleted message	رسالة ملغاة
+Delhi sheep	جلد دَلْهِي
+deliberative monetary valuation	تقييم نقدي تداولي
+delimitation of frontiers	تحديد الحدود
+delimiter	محدد
+delineation	دليل علامات الطريق / تحديد، تخطيط، تصوير
+Delineation Well	بئر تحديدية / بئر تحديدي
+delineator	محدد لحافة الطريق
+delivered ex quay	مسلَّم بالرصيف
+delivery	تسليم / تزويد
+delivery (of a pump)	تصريف المضخّة
+delivery (supply)	توريد
+delivery (tech.)	توصيل
+delivery and pick-up	تسليم وتجميع (البضائع)
+Delivery Calculation	حساب التسليم
+delivery carrier	مُوَزِّع (بضائع)
+delivery characteristics	مُخطَّط خصائصيّ لأعمال التوريد والتسليم
+delivery concepts	مفاهيم التسليم
+delivery confirmation	تأكيد التسليم
+delivery error	خطأ القذف
+delivery flight	رحلة تسليم (بضائع)
+delivery forecast	توقعات تسليم
+delivery head	علو الرفع
+delivery head, geodetic	علو جيوديسيّ لرفع الماء
+delivery head; discharge head	عُلُوّ الضغط
+delivery loss / operating waste	فائض عمليات التوزيع
+delivery loss; operating waste	فاقِد التشغيل
+delivery lot	حزمة للتسليم
+delivery of cargo	تسليم الحمولة
+delivery of cars	تسليم العربات
+delivery of ship	تسليم السفينة
+delivery pipe	ماسورة توريد، أنبوب توريد
+delivery point	نقطة التزويد / نقطة الدفع، نقطة التفريغ
+delivery pressure; discharge pressure; manometric pressure	ضَغْط الإمداد
+delivery pump	مِضَخّات الدَّفع
+delivery risk	خطر التسليم
+delivery round	جولة التسليم
+delivery table	نضذ الخروج، طاولة التسليم
+Delivery Ticket	بطاقة التسليم
+delivery time	أَجَلُ التسليم
+delivery truck dock	رصيف تسلُّم الرزم
+delivery valve	صمام ضغطي
+delivery volume	كمية تصرّف المضخة / حجم إمداد
+delivery wagon	عربة تسليم البضائع
+delivery, rate of / delivery	معدل الدفق
+delle	رصْعة
+Delpage	دلباج
+delta	دلتا
+delta aircraft	طائرة دلتا
+delta configuration	توصيل شكل دلتا
+delta connection	توصيلة مثلث (دلتا) / توصيل مثلّثي
+delta connection; Δ-connection	توصيل دلتا (مثلثي)
+delta hinge	مفصل دلتا
+delta light pulse	نبضة ضوء مثلثيه
+delta modulation ; ΔM; DM	تعديل مثلثي
+delta modulation; ΔM; DM	تعديل دلتا
+delta network	شبكة دلتا
+delta radiation; delta rays	إشعاع دلتا
+delta voltage	جهد دلتا
+delta wing	جناح دلتا / جناح مثلثي
+delta wing airplane	طائرة ذات أجنحة على شكل دلتا
+delta-event	نظام حاسوبيّ لمراقبة توزيع المياه أو الطاقة
+Delta-Star transformation	تحويل مثلثي نجمي
+delta-wye conversion; delta-star transformation	تحويل مثلثي نجمي
+deltoid	داليّ
+deluge	طوفان
+deluge pond	بركة الغَمْر
+delugging runs; test runs	تشغيل اختباري (بقصد تعديل اختباري)
+deluxe cabin	مقصورة فاخرة
+deluxe class	درجة فاخرة
+DEM	نَمُوذَج رقمي
+demagnetization	إزالة التمغنط
+demagnetization curve	منحنى إزالة المغنطة / منحنى إزالة التمغنط
+demagnetization factor	عامل إزالة المغنطة / ليعادل
+demagnetize, verb	يزيل المغنطة / ليمغنط
+demagnetizer	مزيل مغنطة
+demand	طلب
+demand (telecommunication) service	خدمة الطلب (الاتصالات )
+demand (transport)	الطلب على النقل
+demand assignment	تحديد الطلب
+demand bus	حافلة تحت الطلب
+demand characteristic curve	مُنحنى خصائصيّ للاحتياجات
+demand charge; fixed charge	تكلفة الطلب تكلفة ثابتة
+demand component	عنصر الطلب
+demand curve	منحنى الطلب
+demand deposits	ودائع تحت الطلب
+demand factor	عامل الطلب / عَامِل الطلب
+Demand Forecast	توقعات الطلب
+demand function transfer	نقل دالة الطلب
+demand integration period	فترة تجميع طلب
+demand mask	قناع الطلب
+demand oxygen	أكسجين الطلب
+demand rate; price per kilowatt [kilovoltampere]	معدّل الطلب؛ معدل تكلفة الطلبالسعر لكل كيلواط (كيلوفولت-أمبير)
+Demand Response	استجابة للطلب
+demand response; DR (abbreviation)	تلبية الطلب
+demand responsive	استجابة إلى الطلب
+demand set up	القدرة المطلوبة
+demand side bidding; demand-side bidding	مُضاربة على طلب الطاقة
+demand side management; demand-side management	إدارة الطلب على الطاقة (DSM)
+demand side management; DSM (abbreviation)	الطلب على الطاقة
+demand site management	إدارة جانب الطلب
+demand stop	وقف الطلب
+demand tariff	تعرفة طلب؛ تعريفة بمكافأة ثابتة
+demand-orientated regular transport	نقل منتظم حسب الطلب
+demand-orientated transport	نقل حسب الطلب
+demand-pull inflation	تضخم ناتج عن الطلب
+demand-related cost	تكاليف ذات علاقة بالطلب
+demand-responsive public transport	نقل عام حسب الطلب
+demand-responsive system	نظام استجابة الطلب
+demand-responsive transport	نقل حسب الطلب
+demand-side management	إدارة جانب الطلب / إدارة الأحمال الكهربائية / إدارة الطلب على الطاقة
+demand-side management (DSM)	إدارة جانب الطلب (DSM)
+demand-site waste management	إدارة النفايات من موقع الطلب
+demanganisation facility	نِظام نزع المنجنيز
+demanganization	إزالة المنجنيز / إزالة المنغنيز
+demantoid	ديمانتويد
+demarcation agreement	اتفاق ترسيم حدود
+demarkation	تأريف
+dematerialization	تخفيض استهلاك المواد
+demersal	غوري / قاعية
+Demeter label	علامة ديميتر
+demi textured yarns	خيوط غزل نصف مُضخَمة
+demineralization	إزالة الشوائب المعدنية / نزع المعدنيات (الأيونات أحادية التكافؤ)
+demineralizer	مُزِيل الأملاح المعدنية
+demineralizing	إزالة المعادن
+demise charter-party	إيجار سفينة لأمد طويل
+demister	مزيل التكثف / مزيل الرطوبة المكثفة، مضاد الصنباب
+demister / mist eliminator	مزيل الرذاذ
+democratic mutually synchronized network	شبكة متزامنة بشكل متساو ومتبادل
+demodulate	كشف التضمين
+demodulation	إزالة التضمين / إزالة التشكيل
+demodulation synchronisation sequence (in TDMA)	تتابع متزامن لازالة التعديل (في أسلوب تبادل البيانات
+demodulator	مزيل تضمين / إزالة التضمين / مزيل التضمين
+demographic effects	تأثيرات ديموغرافية
+demographic survey	استقصاء رأي المواطنين
+demolition	هدْم / الصدع
+Demolition wastes	نفايات هدم
+demonstrate	يعرض
+Demonstration Project	مشروع توضيحي
+demonstrator programme	برنامج العارض
+demulsifiability	قَابِلية الْمُسْتَحْلَب للتفكُّك
+demulsifier	مُفَكِّك المستَحْلَب
+demultiplexer	ناقض مضاعف الارسال / فك مضاعف الإرسال
+demultiplexing	نقض مضاعفة الارسال / نقض مضاعفة الإرسال / فك مضاعف الإشارات
+demurrage	غرامة تأخير الشحن
+demurrage costs	تعويض عن الرسوم الإضافية
+demy	قطع مربع
+den tree	شجرة موئل
+denature [UK] / denaturing [US]	تغيير طبيعة الكحول / الإيثانول
+denatured	متغيرالطبيعة
+dendrite	تشجير
+dendrite drainage pattern	نمط صرف (دنريتي شجريّ) / نمط صرف شجريّ
+dendrites	تشعبات
+dendritic	شَجريّ / جذعيّ
+dendritic web technique	تقنية النسيج الجذعيّ
+dendrogram	رسم تخطيطي تفرعي
+dendrology	علم قياس عمر الأشجار / علم الأشجال
+dendrometer	مشحار
+denesting of pipes	فَكُّ الأنابيب المتداخلة
+DEngRD	مديرية أبحاث وتطوير المحركات
+dengue fever	حمى الضنك
+denied boarding	مَنْعُ ركوب
+denier / den	دينر
+denim	دنيم
+denim stretch	دنيم مرن
+denim yarns	خيوط دنيم
+denitrification	إزالة النترجة / اختزال نيتروجينيّ / إزالة النيتروجين / نزع النتروجين
+denitrogenation	إزالة النتروجين
+Denoxtronic	نظام دينوكسترونيك المحفز (نظام التحكم في مستوى أكسيد النيتروجين)
+dense	كثيف
+dense bitumen macadam	تربة مُستَقِرَّة بالحمر
+dense graded aggregate	كُسَارَة عالية الكثافة، كُتَاَلة عالية الكثافة
+dense graded mix	خليط عالي الكثافة
+dense tar surfacing	صَقْل بالقطران الكثيف، إكْسَاء بالقطِران الكثيف
+dense tarmacadam	تربة مُستَقِرَّة بالزفت
+densification	تكثيف
+densified laminated wood	شرائح الخشب المكثف
+densified refuse-derived fuel	وقود مستمد من قمامة مضغوطة
+densified wood	خشب مكثَّف
+densimeter	جهاز قياس الكثافة / مقياس الكثافة
+densimetry	قياس الكثافة
+densitometer	جهاز قياس شدة الضوء / مقياس الكثافة / مكثاف تصويري
+density	كَثَافة / كثافة (ال...) / كثافة / كثافة (ال..)
+density (specific mass)	الكثافة (الكتلة النوعية)
+density altitude	ارتفاع الكثافة
+density compensation	تعويض الكثافة
+density current	تيار الكثافة / تيار كثافي المنشأ
+density dependence	تبعية للكثافة
+density error	خطأ الكثافة
+density gauge	جهاز قياس الكثافة
+density independence	استقلال عن الكثافة
+density log	مجس الكثافة
+density meter	جِهاز لقياس الكثافة
+density modulation; charge-density modulation	تعديل كثافة حاملات الشحنة
+density of a fluid fluid density	كثافة المائع
+density of cargo	حجم البضاعة
+density of heat flow rate; areic heat flow rate	كثافة معدل التدفق الحرارى؛ معدل تدفق الحرارة السطحية
+density of population	كثافة السكان
+density of wood	كثافة الخشب
+density of …; … density, ; areic, adj	مساحى (صفة)؛ الكثافة (2)؛ الكثافة لـ
+density, effective	كَثَافة فعالة
+densometer	مقياس المسامية
+dent	تبطط الوسيط المطاطي
+dent angle	زاوية إزالة الانبعاجات
+dent repair lamp	لمبة كشف
+dent repair/dent removal	إزالة انبعاجات
+dentated sill	عتبة مُسنَّنة
+dentelle	أقمشة دانتلا
+denticulation	تسنين، تخريم
+dentils (denticles)	مسننات
+denudation	تعرية
+denudation chronology	تاريخ التعرية
+denude (to…)	عرّى
+denuded	معرّى
+deodorant	مزيل الرائحة، عامل مزيل للروائح
+deodorant briefs	لباس داخلي مزيل للرائحة
+deorbit	يترك المدار
+deoxygenation	إزالة الأكسجين
+DEP	مغادرَة
+DEP; departure	رحيل
+depalletization	عدم الإلواح
+departing aircraft	طيارة مغادَرة
+departing baggage	أمتعة مغادَرة
+department	هيئة / قِسْم، دائرة
+Department of Energy (DOE)	إدارة الطاقة (DOE)
+departure	مُغَادَرة / مغادَرة
+departure aerodrome	مطار المغادرة
+departure alternate	بديل مغادَرة
+departure area entry	منطقة المغادرة
+departure board	لوحة المغادرة
+departure board, train-departure indicator	لوحة المغادرة
+departure concourse	بهو المغادرة
+departure control	تحكم المغادَرة
+departure curve	منحني الانطلاق، منحني الانحراف
+departure date	تاريخ المغادرة
+departure delay	تأخير مغادرة
+departure fees	رسوم المغادرة
+departure gate	بوابة المغادرة
+departure light signal	إشارة ضوئية للمغادرة
+departure lounge	قاعة المغادرة
+departure pattern	نمط المغادَرة
+departure platform, out-track platform	منصة المغادرة
+departure point	نقطة المغادَرة
+departure procedure	إجراء المغادَرة
+departure process	عملية مغادرة
+departure profile	جانبية المغادَرة
+departure repeat lock; departure repeat locking	حاجز المغادرة
+departure runway	مَدْرَج المغادرة / مدرج المغادَرة
+departure schedule	جدول مغادرة
+departure screen	لوحة (معلومات) المغادرة
+departure sidings	طرق المغادرة
+departure signal	إشارة المغادرة / اشارة المغادرة
+departure station	محطة المغادرة
+departure strip	شريط المغادَرة
+departure time	وَقْت المغادرة / مُغادَرَةُ
+departure time, time of departure	وقت مغادرة
+departure track	سِكَّة المغادرة / درب المغادَرة
+departure traffic	حركة المغادرة / مرور المغادَرة
+dependability	الاعتمادية،,
+dependability of protection; dependability of relay system (US)	تأمين تشغيل الحماية
+dependence on imports	اعتماد على الواردات
+dependent (repeater) station	محطة (مكرر) تابعه
+dependent manual operation (of a mechanical switching device)	تشغيل يدوى غير مستقل
+dependent point lock	قفل غير مستقل لنقطة تحويل
+dependent power operation (of a mechanical switching device)	تشغيل قدرة غير مستقل
+dependent signal box	محطة تحويل مع حارس
+Dependent source	مصدر تابع
+dependent-time measuring relay	مُرَحِّل قياس ذو زمن تابع, يعتمد على كمية اخرى
+dephenolation system/plant	نِظام التخلص من الفينول
+dephlegmator	جهاز فصل الشوائب السائلة الثقيلة (بتقطير القطفة المرغوب فيها)
+depigram	مخطط نقطة الندى
+deplation allowance	بَدَلُ النُّضُوب
+Depleted Uranium	يورانيوم مستنفد
+depletion	استنزاف / استنـزاف
+depletion / exhaustion	استنزاف
+depletion layer	طبقة النضوب
+depletion layer (of a semiconductor)	طبقة الاستنزاف (لشبة موصل)
+depletion mid-point	نقطة منتصف النضوب
+depletion mode operation	تشغيل بنمط الاستنزاف
+depletion of bases	نُضوب القواعد
+depletion rate	معدل الاستنزاف / معدل نضوب
+depletion type field-effect transistor	ترانزستور(محكوم بالمجال الكهربائي) من النوع المستنفذ
+depletion zone	وصلة الخلية
+depletion-type reservoir	مَكْمَن مُسْتنفَد
+deployment	نَشْر
+Deployment of Technologies	نشر التقنيات
+depolarization	إزالة الاستقطاب
+depolarization (in electrophysiology)	زوال الاستقطاب ( في علم الظواهر الكهربائية لوظائف الأعضاء )؛ إزالة الإستقطاب
+depolarization current	تيار إزالة الاستقطاب
+depolarization front	مقدمة زوال الاستقطاب
+depolarizer	مانع إ ستقطاب
+deposit	راسِب / راسب
+deposit, alluvial	كمية الحمأة المنجرفة
+deposit, fluvial	رسوبيّات نهرية
+deposit/refund system	نظام إيداع / استرجاع
+deposition	ترسيب / عملية الترسيب
+deposition (water cycle)	ترسب (دورة المياه)
+deposition of ozone for stomatal exchange (do3se)	إيداع الأوزون عند التبادل الفوهي
+deposition of silt	تَوضُّع الطمي / تَوضُّع الطمي
+deposits	رواسب
+deposits (pl.)	رواسب
+depot	مستودع / ورشة / مستودع توقف القطارات
+depot; work yard	ساحة المصنع
+depreciation	إهلاك
+depreservation run	اختبار السحب من المستودع
+depressant	خافض / خَافِضُ نقطة الانصباب
+depressed cladding	عازل بمعامل الانكسار الأدنى
+depressed collector operation	تشغيل المجمع المنخفض
+depressed trajectory	مسار منخفض
+depressed-centred flat car	عَرَبَة مسطحة منخفضة
+depression	انخفاض / منخَفَض
+depression (cyclonic…)	انخفاض ضغط إعصاري
+depression spring	يَنْبوع انخفاضيّ / نبع منخفض
+depression storage	تخزين المُنخفضات / فاقِد تخزين المُنخفضات / مخزون المنخفضات
+depression storage / pocket storage	مخزون المنخفضات
+deprivation	حرمان
+depropanizer reboiler	مبادل حراري لتسخين مزيل البروبان
+depth	عمق
+depth dose	جرعة عمق
+depth gauge	مقياس العُمق (القدمة ذات الورنية) / مِقْياس العمق
+depth limit	حَدُّ العمق
+depth of cover	ارتفاع التغطية
+depth of cut	عمق القطع
+Depth of Discharge	عمق التفريغ
+depth of discharge (DOD)	عُمق التفريغ
+depth of drainage	عُمْق الصرف
+depth of face	سُمْكُ رصفة سطحية، ثِخَنُ التّطبُّقات
+depth of foundation	عُمْق الأساس
+depth of hardening	عمق التصلد
+depth of page	ارتفاع الصفحة
+depth of penetration, ; skin depth,	عمق الاختراق,
+depth of runoff; run-off depth	عُمْق المدد النهريّ
+depth of visibility	عُمْق الرؤية
+depth of water level decline	عُمْق المياه
+depth range	مَدَى العُمْق
+depth-area curve / rainfall intensity-area curve	مُنحنى العلاقة بين شدة المطر ومساحة المنطقة
+depth-duration curve	منحنى شدة
+depth-duration curve / rainfall intensity-duration curve	مُنحنى العلاقة بين شدة الأمطار وزمن استدامتها
+depth; level (gen.)	عُمْق
+depuration	تنقية
+Deputy Chairman & Chief	قطاع نائب الرئيس والرئيس التنفيذي / نائب رئيس مجلس الإدارة والرئيس التنفيذي
+Deputy Managing Director (DMD)	نائب العضو المنتدب
+derail marker sign	إشارة مرئية لمحول الخط
+derailer	آلة السقوط / جِهازُ تَجْنِيحٍ
+derailing point	نقطة خروج عن السكة
+derailling points	نقاط توجهيه خروج
+derailment	خروج عن المسار / الخروج عن المسار / الجنوح / الإنحراف / خُرُوجٌ عَنْ الخُطُوْط
+Derailment Containment System	نظام إحتواء الإنحراف أو الخروج عن المسار
+Derailment detector	كاشف الإنحراف
+derated engine	محرك منخفِض القدرة
+derating,	انخفاض المقننات
+deregulation	إزالة القيود / رفع القيود / إزالة القوانين / تحرر من التنظيمات
+derelict land	أرض مهجورة
+Deri motor	محرك ديري؛ محرك تنافري بمجموعة فرش متحركة وأخري ثابتة
+derivation fabric weave	نسيج قماش سادة مُشتق
+derivation satin weave	تراكيب نسيج أطلس مُشتقة
+derivation twill weave	تراكيب نسجية مُشتقة للنسيج المبرد
+derivative	مشتق
+derivative action coefficient	مُعامل تفاضلي / معامل فعل مشتق
+derivative action gain	كسب فعل اشتقاقي
+Derivative action time	زمن تفاضلي / زمن فعل مشتق
+derivative controller	ضابط تفاضلي
+derivative element; D element	عنصر مشتق؛ اشتقاقي
+derivative time; derivative-action time	زمن فعل تفاضلي
+derivatives	مشتقّات
+derivatives market; forward market	سوق البيع بالآجل
+derived air concentration (abbreviation DAC)	تركيز هوائى مشتق (إختصار DAC )
+Derived basic shortcuts	روابط (ال...) المنطقية المُشتقَّة
+derived channel	قناة مشتقة
+derived limit	حد مشتق / الحد الاشتقاقي
+derived quantity	كمية مشتقة
+derived unit	وحدة مُتفرعة / وحدة مشتقة
+dermatolozoon	حيوان يتطفل على الجسم
+dermis	أدمة
+derrick	بُرج الحفر / بُرْجُ الحفر
+derrick axial stress	إجهاد(ال..) المحوري لبرج الحفر
+derrick band wheel clearance	خلوص عجلات طوق برج الحفر، خلوص دواليب حزام برج الحفر
+derrick band wheel face	وَجْهُ الْعَجَلَة الطَّوْقِية في بُرْج الحفر
+derrick barge	بُرْجُ الْجَفْر البحري
+derrick base square	قاعدة بُرْج الْحَفْر المربعة
+derrick bearing stress	إجهاد تحميل برج الحفر، إجهاد انحناء برج الُحفر
+derrick bolts	لَوَالِب (بَرَاغِي) بُرْج الحفر
+derrick brace	عَارِضَةُ بُرْج الحَفْر
+derrick bull girt	حِزَامُ العجلة الكبيرة في برج الحفْر
+derrick bull rope groove	حَزُّ الحبل الكبير في برج الحفر، أُخْدُود الكَبْل في برج الحفر
+derrick bull wheel brake rim	حِتَار الطَّوْق (الدولاب) المكبحي الكبير في برج الحفر
+derrick bull wheel diameter	قطر العجلة الكبرى في برج الحفر
+derrick bull wheel girt clearance	خلوص حزام العجلة الكبرى في برج الحفر
+derrick bull wheel location	موقع العجلة الكبرى في برج الحفر، موقع ملفاف الحفر في البرج
+derrick bull wheel shaft diameter	قطر عمود العجلة الكبرى في برج الحفر، قطر العمود المحوري لملفاف الحفر في البرج
+derrick calf wheel girt	حزام ملفاف أنابيب التغليف في برج الحفر
+derrick calf wheel girt clearance	خلوص حزام العجلة الصغرى في برج الحفر، خلوص حزام ملفاف أنابيب التغليف في برج الحفر
+derrick calf wheel location	موقع العجلة الصغرى في برج الحفر، موقع ملفاف أنابيب التغليف في برج الحفر
+derrick casing load	حمل انابيب التبطين (التغليف) في برج الحفر
+derrick cellar	حفرة رأس البئر، خندق برج الحفر
+derrick clamps	مشابك برج الحفر
+derrick co-acting load	حمل (ال...) التَّضَافُرِي في بُرْج الحفْر
+derrick compression stress	إجهاد الانضغاط في برج الحفر
+derrick concentric crown-block load	حمل البكارة التاجية متحدة المركز في برج الحفر
+derrick crane	مِرْفَاع بُرْج الحفر
+derrick crown	قَمَّة برْج الحفر
+derrick crown -block load	قمَّة البكارة التاجية في برج الحفر
+derrick drill hole location	موقع حفر البئر بواسطة برج الحفر
+derrick failure	انهيار برج الحفر
+derrick floor	أرضية برج الحفر، قاعدة جهاز الحفر
+derrick foundations	أُسُسُ بُرْج الحفْر
+derrick girt	حِزَامُ (عارضة) برج الحفر
+derrick grillage	شبيكة برج الحفر، شبكة حماية برج الحفر
+derrick ladder	سُلَّم برْج الحفْر
+derrick leg	قائمة برج الحفر، صَاعِدُ برج الحفر
+derrick leg clamp	مِشْبَك قائمة برج الحفر
+derrick lock washers	حلقات برج الحفر الكابحة، حلقات الكبح في برج الحفر
+derrick man	عامل برج الحفر
+derrick mast	صاري رافعة
+derrick platform	مِنَصَّةُ برْج الحفر
+derrick post	عَامُودُ برْج الحفر
+derrick roof	سَقْف برْج الحفْر
+derrick safety cage	قَفَصُ الأمان في برج الحفر
+derrick shearing stress	إِجْهَادُ القَصِّ في برج الحفر
+derrick shim	رفادة برج الحفر
+derrick sill	عَتَبَة برج الحفر
+derrick skinner	عامل برج الحفر، حَفَّار
+derrick static leg capacity	سعة (ال...) الساكنة لقائمة برج الحفر
+derrick static load capacity	سعة (ال...) الساكنة لحمل برج الحفر
+derrick supports	ركائز برج الحفر
+derrick sustructure	دعامة برج الحفر، أسيسة (أسس) برج الحفر
+derrick tension stress	إجهاد الشد في برج الحفر
+derrick turnbuckles	شَدَّادَات برج الحفر
+derrick type crane	برج حفر من طراز مِرْفَاع
+derrick wind load	تحميل الريح في برج الحفر
+derrick window opening	فتحة نافذة في برج الحفر
+DERV (Diesel engine road vehicle)	مَرْكَبَةٌ بمحرّك ديزل
+derviation weave	تراكيب نسجية مُشتقة
+desalination	تحلية المياه / إزالة ملوحة المياه / تحلية/إزالة الملح
+desalination / demineralization / desalting	تَحْلية
+desalination economics	اقتصاديات التحلية
+desalination material	مواد التحلية
+desalination plant	محطة تحلية
+desalination processe	عملية التحلية
+desalination system/plant / desalting facility	محطة تحلية (المياه)
+desalination unit	وحدة التحلية
+desalination, seawater	تَحْلية مياه البحر
+desalination, wastewater	إزالة ملوحة (تحلية) مياه الصرف الصحيّ
+desalination; desalting	تحلية (نزع الملوحة)
+desalinization	تحلية المياه / إزالة الملوحة
+desalting	تحلية / فصل الماء عن النفط
+desalting capacity	قدرة التحلية
+desalting plant	مصنع تحلية المياه أو محطة تحلية المياه
+desanding unit	وحدة ازالة الرمل (من خطوط الجريان)
+descend	ينزل / يهبط
+descend; glide	ينحدر
+descending crest	عَتَبة ساقِطة
+descending node (of a satellite)	عقدة هابطة (لقمر الصناعي )
+descent	نزول
+descent fuel	وقود الهبوط
+descent orbit insertion	دخول مدار الهبوط
+descent propulsion	دفع الهبوط
+descent stage	جزء الهبوط
+descent transfer orbit	مدار الانتقال للهبوط
+descent; drop; landing; pancake; settling; subsidence	هبوط
+descrambler (in digital transmission)	جهاز فك مزج الإشارة (في الإرسال الرقمي)
+descrambling (in digital transmission)	إزالة المزج ( في الإرسال الرقمي )
+descrambling (in television)	إزالة المزج ( في التلفاز)
+describing function	دالة وصفية
+description of accident	وَصْف الحادثة
+description of goods	وَصْف البضائع
+description of orientation and SAW propagation	وصف توجه وانتشار الموجة الصوتية السطحية
+description; designation	تمييز
+descriptive system document	وثيقة وصفية لنظام
+descrptive geometry	هندسة وصفية
+desensitization	إزالة الحساسية
+desensitizer	مخفف الحساسية
+desensitizing	إزالة الحساسية
+desert power project; desert electricity project	مشروع تيار صحراوي
+desert power; desert electricity; power produced in desert regions	تيار صحراوي
+desert varnish	برنيق الصحراء
+Desertec industrial initiative	مُبادرة ديزرتيك الصناعية (Dii) / مُبادرة التيار الصحراوي
+Desertec Industrial Initiative (Dii)	مُبادرة ديزيرتيك الصناعية (DESERTEC)
+Desertec project	مشروع ديزرتيك
+desertification	تصحُّر / تصحر
+desertification, land degradation and drought (dldd)	تصحر، تدهور الأراضي والجفاف (DLDD)
+desiccant	مُجفِّف / مجفِّف
+desiccation	تجفيف
+desiccation / drying up	تجفيف
+desiccative	مجفف
+desiccator	وعاء مجفِّف للرطوبة / مُجَفِّف
+Desieter telegraph translation	جهاز إبراق مزدوج الاتجاه
+design	تصميم هندسيّ / تصميم / رسم تمهيدي
+design (configuration ) of a frequency characteristic (frequency curve)	تصميمُ المُنحنى الخصائصي للتردد
+design / model / version	تصميم بناء
+design / structure / construction	بنية
+design and development	التصميم والتطوير
+design authority	هيئة التصميم
+design capacity	سَعَة تصميمية / سعة (ال...) التصميمية
+design criteria / layout criteria	مواصفات التصميم
+design current,	تيار تصميمي,
+design discharge	عِدان المَيّ
+design dry weather flow (design DWF)	تصريف (ال..) الأدنى التصميميّ في فترة الجفاف
+design fault,	خطأ تصميم،,
+design feature	خاصية في البنية
+design flood	فيضان التصميم الهندسي / فيضان تصميميّ / مخطط الفيضان
+design flood discharge	تصريف تصميميّ / تصريف فيضان التصميم الهندسي
+design flood hydrograph	رَسْم مائيّ للفيضان التصميمي / رَسْم مائيّ لفيضان تصميميّ
+design flood level	مستوى فيضان التصميم الهندسي
+design for all	تصميم للجميع
+design for the environment (dfe)	تصميم للبيئة
+design gross weight	وزن إجمالي تصميمي
+design heat load	حمل حراري تصميمي
+design landing weight	وزن الحط التصميمي
+design leader	قائد التصميم
+design life	عُمر التَّصميم
+design limits	حدود التصميم
+design load	حِمْل (ال...) التصميميّ / حمولة تصميمية / حِمل تصميمي
+design loading	حمولة (ال...) الإسمية
+design loading,	حمل تصميمى, تسخين بالتتبع
+design maximum weight	وزن أقصى تصميمي
+design month	شهر تصميمي
+design of irrigation canals	تصميم قنوات الريّ
+design office	مكتب التصميم
+design peak flow	تصريف تصميميّ أقصى
+design point	نقطة التصميم
+design points	نقاط التصميم
+design pressure, maximum	أعلى ضغط تصميميّ
+design protection	حماية العلامة التجارية
+design rainfall	عاصفة تصميمية
+design rainfall intensity	شدة مطرية معتمدة في التصميم
+design service life	عُمر تصميميّ حسابيّ
+design situation	وضع التصميم
+design spectrum	طَيْف تصميميّ
+design standards	معايير التصميم / مواصفات التصميم القياسية
+design storm	مخطط عاصفة المطر / عاصفة تصميمية
+design strength	مُقَاوَمة تصميمية
+design temperature	درجة الحرارة التصميمية
+design verification	تحقُّق من التصميم
+design volume	حجم معتبر في التصميم
+design water depth	عُمْق (ال...) التصميميّ للمياه
+design wing area	مساحة الجناح التصميمية
+designated airspace	مجال جوّي معين
+designated airway	خط جوي معين
+designated alternate airport	مطار بديل معين
+designated carrier	ناقل معين
+designated civil airway	خط جوي مدني معين
+designated national authority (dna)	(ال) سلطة (ال) وطنية (ال) معينة
+designated operational entity (DOE)	هيئة فحص مُعتمدة (DOE)
+designated person in control of a work activity	الشخص المكلف لإدارة العمل
+designated person in control of an electrical installation	الشخص المكلف لإدارة التركيبات الكهربائية
+designation / identification / marking	علامة
+designation marking	علامات الإظهار / علامات التعيين / علامات الدلالة
+designator	دالّ / مُظهِر / مُعيِّن
+designed speed	سرعة مرجعية / سرعة التصميم
+designed water charge	مُقَّنن مائيّ تصميميّ
+designer	مُصمم / مُصَمِّم / مصمم / مصمِّم
+desilting basin	حوض ترسيب
+desired future condition (fsc)	حالة مستقبلية مرجوة (مجلس رعاية الغابات)
+desired idle speed (DIS)	نظام تثبيت سرعة دوران وضع اللاحمل
+desired pressure	القيمة المستهدفة للضغط
+desired size	عرض إسمي
+desired value	قيمة ضبط الوضع / قيمة مرادة
+desk calendar pad	مفكرة كتب
+deslater	محلي
+desludging of lakes and rivers	تطهير المجاري المائية من الحمأة
+desmodromic (forced control)	نظام 'ديسمودروميك' (التحكم الإجباري)
+desorption	معاودة الانبعاث / انتزاز / إزالة الامتصاص
+desorption curves	مُنْحَنيات المجّ
+despatch	يُرحِّل
+despatch boat	قارِب توصيل
+despatch deficiency	عجْز الترحيل / قصور الترحيل
+despatch delay	تأخير الترحيل
+despatch deviation	انحراف الترحيل
+despatch note	مُذَكِّرة شحن
+despatch reliability	اعتمادية الترحيل
+despatcher; dispatcher	مُرحِّل
+despun antenna	هوائي ثابت الاتجاه / هوائي مدوَّر عكسياً
+dessert pavement	رصفة صحراوية
+destination	وِجهَة
+destination (of a call attempt)	وجهة
+destination address	عنوان الجهة المُستهدفة
+destination coach	عَرَبَة التوجيه
+destination code	تشفيرالمقصد (الوجهة)
+destination device	مستقبل البيانات
+destination dwell	سكون الوجهة
+destination indicator	إشارة اتجاه
+destination ramp	منحذر الوجهة
+destination terminal area	منطقة نهاية الرحلة
+destination-based automatic route setting	تحديد مسار على أساس الوجهة
+destroyer, floating sludge	مُبدِّد الحمأة الطافية
+destruct	إتلاف / تحطيم
+destruction and removal efficiency (dre)	التدمير وكفاءة الإزالة
+destructive (convergent) plate margins	صفائح (متقاربة) مدمرة للهوامش
+destructive interfrence	تَدَاخُل إتلافي
+destructive line	خط الإتلاف
+destructive reading	قراءة ماسحة
+destructive test	اختبار إتلافي
+destructive tests	اختبارات إتلافية
+destructor	مدمِّر
+destructor; spoiler	مُتلِف
+desublimation	ترسيب
+desublimation line	خطّ التّرسيب
+desuetude	مهمل
+desulfurization	إزالة الكبريت
+desulfurization equipments	معدات نزع الكبريت
+desulfurization process	عملية نزع الكبريت
+desulfurizer	مزيل الكبريت
+desulphurisation	إزالة الكبريت
+desulphurisation unit	وحدة إزالة الكبريت
+Desulphurization	نزع الكبريت
+detachable	قابل للفصل / قابل للنزْع
+detachable connection	وصلة فصول
+detachable cord	وصلة قابلة للفصل
+detachable fitting (pipe)	قطعة تطويل (لماسورة)
+detachable part	جزء يمكن فصله
+detachable tights	سروال ضيق
+detached shockwave	موجة صدمية منفصلة
+detail	تفصيل / مفرزة / تفصيلات
+detail drawing	مُخَطَّطات تنفيذية / رسم تفصيلي
+detail drawing; lay off	رسم تفصيلي
+detail part	جزء تفصيلي
+detail stop	فتحة تفصيلات
+detail survey	مَسْح تفصيلي
+detailed inspection	فحص مفصل
+detailed soil map	خريطة مفصلة للتربة
+detectable crack	شرخ يمكن اكتشافه
+detecting instrument	جهاز قياس بملامسات
+detection	كشف؛ إحساس / كشف / الكَشْفُ
+detection (in acoustics)	كشف (في الصوتيات)
+detection and attribution	كشف وإسناد
+detection circuits	دارات اكتشاف الأخطاء
+detection differential; recognition differential	التباين في الكشف
+detection efficiency	كفاءة الاكتشاف
+Detection Point	نُقْطَةُ الاِكْتِشافِ
+detection threshold; sensitivity	بدء الإحساس (مبدئ)
+detection,	اكتشاف (التيار المتبقي)
+detectivity	كشفية
+detectivity,	الكشفية,
+detector	مِكشاف / كاشف
+detector diode	صمام ثنائى كاشف
+detector mount	حامل الكاشف
+detector systems for flocculation opti-misation	نِظام كاشف لإجراء عملية التندف
+detector,	كاشف
+detector; scope	مكشاف
+detention	توقيف
+detention basin	حوض لاحتجاز مياه الفيضان مؤقتاً
+detention ponds	برك تجميع واحتجاز
+detention reservoir	خزان لاحتجاز مياه الفيضان
+detention reservoir / retarding reservoir	خَزَّان إعاقة
+detention storage	مخزون مُؤقَّت / تخزين مؤقت
+detention time	زمن الإعاقة
+detergency test	اختبار المنظفية
+detergent	مُنظِّف / مُطهِّر
+detergent additives	مُضَافَات مُنَظِّفة
+detergent oil	زيت مُنظِّف (يمنع تكون الصمغ و الشمع وغيرهما في داخل المحرك)
+deterioration	تَسَيُّع
+determinant	مُعيِّنة
+determinate	مُقَرَّر
+determination of net requirement	تحديد صافي المتطلبات
+determinative mineralogy	علم المعادن التعريفي
+deterrence	منْع
+detonating cord delays	إعاقات سلك التفجير، تأخرات سلك التفجير
+detonation	تفجير
+detonation test	اختبار التفجير
+detonation; pinking	فرقعة
+detonator	فتيل تفجير / مفجِّر
+detonator placer	واضع المفجر
+detonator; torpedo	مفجر
+detotalizing counter	عدّاد الكمية المتبقية
+detour	تحويلة / إلتفاف، انعطاف
+detoxification	إزالة السُّمية
+detoxification / decontamination	إزالة السموم
+detoxification system/plant	نِظام إزالة السموم
+detritus	فُتات / فتات عضوي
+detrivorous	يتغذى على فتات عضوي
+deutan, adj	مصاب بعمي اللونين الأحمر والأخضر
+deuteranomaly	عمي اللونين الأحمر والأخضر
+deuteranopia	مرض عمى الأخضر و الأحمر
+deuterium	دوتريوم
+deuteron	ديوترون
+Deutschen Gesellschaft für Sonnenenergie e.V. (DGS)	جمعية الطاقة الشمسية الألمانية
+Deutsches Institute for Normung	المَعْهَدُ الأَلْمانِيّ لِلتَوْحِيدِ القِياسِيّ
+devastation	دمار
+developable (surface)	قابل للتطوير
+developed countries	دول متقدمه
+developed ore	خام مطوَّر
+developing	تظهير، تحميض
+developing bath	حوض تظهير
+developing countries	بلدان نامية
+developing country / less developed country (LDC)	دولة نامية
+developing fault; evolving fault (US)	عطل متطور
+developing insulation fault	عطل عزل متطور
+development	تنمية / تطوير / فتْح
+development bank	بنك التنمية / بنك تنمية
+development clause	شرط التطوير، بند الإنماء
+development contract	عقد تطوير
+development drilling	حفْر الإنماء، حفْر التطوير / حفر تطوير
+development goal; development target	هدف التنمية
+development length	طُول التماسك
+Development of control engineering	تطوّر هندسة الضبط
+Development of Earth's atmosphere	تطور الغلاف الجوي للأرض
+development of environmentally friendly products and processes	تطوير مُنتجات وعمليات صديقة للبيئة
+development of renewable energies; expansion of renewable energies	تطوير الطاقات المُتجددة
+development plan	خطة تطوير مِنطقة مَبانٍ / خطّ التنمية، خِطّة الإنماء
+development projects	مشاريع التنمية
+development reach	قطاع مجرى
+development rights	حقوق التطوير
+development stage	مرحلة التطوير
+development well	بئر الإنماء
+development, hydrochemical	تنمية هيدروكيميائية
+devetail bit; devetail cutter	نصلة تعشيقية
+devetail hinge	مفصلة تعشيقية
+devetail joint	وصلة تعشيق
+devetail saw	منشار تعشيق
+devetailing machine	آلة تعشيق
+deviated hole	بئر منحرفة
+deviation	إنحراف؛ حيود
+deviation (for the verification of calibration)	ارتياب إسنادي
+deviation card	بطاقة الانحراف
+deviation from rated speed (tape speed or speed of rotation)	إنحراف من السرعة المقننة (سرعة الشريط او سرعة الدوران)
+deviation in shape	تشوه الشكل
+deviation limit of the Pt100	انحراف أقصى لمقياس الحرارة البلاتيني 100
+deviation of synchronous time	انحراف المدة التزامنية
+deviation route; deviation	انحراف المسار
+deviation survey	قياس الانحراف
+deviative absorption	امتصاص انحرافي
+deviatoric stress (in the triaxial test)	فرق الإجهادين الرئيسين الأعظمي والأصغري
+device	جهاز / جهاز مخصص للعمل تحت الجهد
+device / mechanism	جِهاز
+device / unit	جِهاز
+device address	عنوان الجهاز (8 خانات)
+device control	التحكم بجهاز
+device under test (DUT)	جهاز تحت الاختبار
+device,	جهاز,
+device, floating sludge removal	تجهيزة التخلص من الحمأة الطافية
+device, flushing	جِهاز كسح
+device, locking	وسيلة زنق
+device, security/safety	تجهيزة أمان
+device-dependent colour space	حيز لونى معتمد على جهازالتصوير
+device/system, sludge dewatering	نِظام تصريف مياه الحمأة
+device; package; unit; component	وحدة
+devolution	تفويض
+devonian period	عصر ديفوني
+dew	ندى
+dew point	نقطة الندى / نقطة التكثيف
+dew point curve	مُنحنى التكثيف
+dew point temperature	درجة حرارة تكون الندى / درجة حرارة نقطة الندى
+Dewar flask	وعاء ديوار
+dewater (to)	أزالَ الماء
+dewatered sludge	حمأة منـزوعة المياه
+dewatering	تجفيف / نَزْع الماء / نَضْج / نزع المياه
+dewatering / ponding	تحويض المياه
+dewatering, mechanical	صَرْف ميكانيكيّ
+dewaxed oil	زيت منزوع الشمع
+dewlap	غَبَب
+dewpoint، dew point	نقطة الندى
+dextral fault	صدْع يَمِينِي
+dextrorotatory	يمينيّ التدوير
+DF loop; direction-finding loop	حلقة تعيين الاتجاه
+DI water	ماء منزوع الأملاح
+dia case	اطار قوالب الحروف
+diabatic process	عملية تبادلية للحرارة / عملية غير كاظمة للحرارة
+Diabolo®	ديابولو ®
+diacetate	ثنائي الخلات
+diacritical mark	علامة نطقية
+diad axis	محور ثنائي التناظر
+diadem	إكليل
+diadochy	ثنائية التبادل
+diadromous	حيوانات مخضرمة
+diagenesis	نشأة متأخرة
+diagnosis [UK] / diagnostics [US]	تشخيص الأعطال
+diagnosis information system (DIS)	نظام المعلومات وتشخيص الأعطال DIS
+diagnosis interface [UK] / diagnostics interface [US]	واجهة بينية للتشخيص
+diagnostic bush adapter	مُهايئ التشخيص ذو الجلبة
+diagnostic computer	كمبيوتر تشخيص
+diagnostic connector	قابس تشخيص
+diagnostic controller	نظام الفحص التشخيصي
+diagnostic device	جهاز تشخيصي
+diagnostic horizons	آفاق تشخيصية
+diagnostic link	وصلة تشخيص الأعطال
+diagnostic link connector	قابس وصلة بيانات
+diagnostic module	وحدة تشخيص
+diagnostic radiology	طب إشعاعي تشخيصي
+diagnostic readout box (DRBII)	صندوق الاستقراء التشخيصي (DRBII)
+diagnostic routing equipment	جهاز طريق التشخيص
+diagnostic test	اختبار تشخيصى؛ اختبار تحليلى / إختبار تشخيصي
+diagnostic tester (diagnostic controller)	فاحص تشخيصي
+diagnostic-type protective tube housing	هيكل انبوب الوقاية في نمط التشخيص
+diagnostics gauge [UK] / diagnostics gage [US]	مُحدد قياس تشخيصي
+diagonal	خطوط مائلة / قُطْر
+diagonal baulk	شَقّ في اتجاه قُطريّ
+diagonal baulk fish pass	ممر سمك مشقوق في خط قُطريّ
+diagonal brace	عنصر تربيط قطريّ
+diagonal cutter	قاطع جانبي
+diagonal fault	صدْع قُطْرِي
+diagonal flow pump	مضخة ذات التدفق القطري
+diagonal full floating axle	محور تأرجحي قطري
+diagonal leg profile	مقطع قطري لقوائم البرج
+diagonal measurement	قياس قطري
+diagonal pocket	جيب عرضي
+diagonal tension	شدٌّ قطريّ
+diagonal tricot / diagonal jersey	تريكو بخطوط مائلة
+diagonal-flow compressor	ضاغط التدفق القطري
+diagonal-stream carburetor	كاربوراتير ذو سحب مائل
+diagram	مخطط / مُخَطط / مُخطَّط، رسم بياني
+diagram; graph	رسم بيانيّ
+diagrid floor	أرضية معصبة قطريا (مشبكة)
+dial	تدريج (لجهاز قياس تماثلي) / قرص الهاتف / قرص مدرج / بوصلة عامل المنجم، مِشْوَر
+dial gauge	مُؤشِّر
+dial micrometer	مقياس مِجْهَري بُقرص مدرّج
+dial selection (in telegraphy switching)	اختيار طلب رقم (في فصل ووصل المبرق)
+dial setting	لوحة بيان (شاشة) قياس
+dial tone	نغمة اتصال
+dial tone delay	تأخير نغمة الاتصال
+dial your weight	حاسب الوزن
+dial-a-ride (groups); flexible transport services	نقل جماعي بالطلب
+dial-a-ride; flexible transport services	خدمات نقل مرنة
+dial-tone delay	مدة تأخير النغمة
+diallage	دياليج
+dialling (in switching)	طلب الإتصال (في الفصل والوصل (التبديل))
+dialling (in telephony)	الاتصال (في الإرسال الهاتفي)
+dialling duration	فترة الاتصال
+dialling time	مدة طلب الرقم
+Dialog Textil Bekleidung / German Textile-Apparel Conference	حوار النسيج والألبسة
+dialysis	ديلزة
+diamagnetic	ضعيف الإنفاذية المغناطيسية / مُغاير مغناطيسية
+diamagnetic substance	مادة ضعيفة النفاذية المغناطيسية
+diamagnetism	ضعف النفاذية المغناطيسية / مغنطيسية معاكسة
+diamand fiber	ألياف ماسية
+diameter	قُطْر / قطر / قُطر
+diameter at breast height (dbh)	قُطْرْ عند ارتفاع الصدر
+diameter class	فئة القطر
+diameter compensation	تعويض قطري
+diameter distribution	توزيع قطر الأشجار
+diameter of particle, nominal	قطر إسمي للحبيبة الكروية
+diameter of wafer	قطرالرقاقة
+diameter, hydraulic	قُطْر هيدروليّ
+diameter, internal mean / mean inside diameter of a pipe	مُتوسِّط القُطْر الداخليّ
+diametral pitch	خطوة قطرية
+diametral stiffness of a pipe	صلابة قطرية للأنبوب
+diametral voltage	جهد قطري
+diametrical voltage	جهد قطري ، جهد تقاطعي
+diamond	ألماس / أَلْمَاسٌ
+diamond (cutting)	حذْيةٌ، ماسة
+diamond bit	مثقب ألماسي
+Diamond C	جائزة ماسيّة
+diamond core	قَوَّارَة بمثقب ألماسي
+diamond core drill	قوارة ألماسية، حفْر بالقوارة الألماسية
+diamond core drill samples	عَيِّنَات التَّقْوير بالألماس
+diamond coring	تقوير ماسي، اعْتِيَانٌ بالماس
+diamond coring bit	رأس حفر ألماسي
+Diamond Crossing	تقاطع منحرف
+diamond crossing; scissors	تقاطع طرق
+diamond crown	تَاجٌ ألْمَاسِيٌّ
+diamond drilling	حفْر بمثقب ألْمَاسي
+diamond head buttress dam	سَدّ مثبت بدعامات ذوات رؤوس متعددة الأضلاع
+diamond interchange	مُوَزِّعٌ نجمي / مُوَزِّع مَاسِي / مُبَدِّل ألْمَاسي
+diamond landing gear	عُدّة حط معيَّنة الشكل
+diamond pantograph	لَاقِط تيار ماسي
+diamond point	رَأس ألْماسي
+diamond point bit	مثقب ألماسي الراس
+diamond rock drill crown	تاج ألماس لحفر الصخر
+diamond switch	تقاطُع مزدوج، إبرة ألماسية للقطع
+diamond twill	نسيج مبرد ماسي
+diamond washed	غسل ماسِيّ
+diamond winding	ملف معيني الشكل
+diamond-work	حائط معيني
+diamonds	معيّنات
+Dianette sandal	صندل ديانيت
+diapercloth	قماش ديباج مول
+diaphragm	قرص ياييّ / غشاء رقي / حِجاب / حجاب (ديافرام) / حظار / حجاب
+diaphragm (gen.) / membrane	غِشاء رَقّيّ
+diaphragm (seal)	قاطِع مياه صناعي / قاطع مياه
+diaphragm control chamber	غرفة تحكم ذات غشاء رقي
+diaphragm control valve	صِمام تحكم ذو رَقّ
+diaphragm cylinder	أسطوانة رقية
+diaphragm flexure	جسم نابض في شكل غشاء
+diaphragm float	عوامة رَقِّية
+diaphragm meter	عَدَّاد غِشَائي
+diaphragm piston	كبّاس رقي
+diaphragm pump	مِضخَّة ذات غشاء رَقّيّ
+diaphragm servo-cylinder	أسطوانة تعزيز أولي بغشاء رقي
+diaphragm shaft seal ring	مانع تسرب رقي مركب على عمود الدوران
+diaphragm spring	ياي قرصي
+diaphragm spring bearing	محمل ياي قرصي
+diaphragm spring clutch with support spring	قابض بياي قرصي مُزود بياي دعم
+diaphragm spring clutch with triangular leaf spring configuration	قابض بياي قرصي مزود بيايات ورقية مُثلثة
+diaphragm spring finger	لسان ياي قرصي
+diaphragm spring finger height	ارتفاع لسان الياي القرصي
+diaphragm spring finger run-out	خبط لسان الياي القرصي
+diaphragm spring pressure	قوة الياي القرصي
+diaphragm spring top	طرف ياي قرصي
+diaphragm vacuum pump	مضخة تفريغ ذات غشاء رَقّيّ
+diaphragm wall	جِدار حاجز / جدار حاجِز / جدار تَخطِيطِي / جِدَار حاجِب
+diaphragm; membrane; skin	غشاء
+diapir fold	طية اختراقية
+diapsid	دياباسيدات
+diary	سجل اليوميات
+diascope (in a television camera)	مشفاف (في آلة تصوير التلفاز
+diaspore	آلية انتشار / دياسبور
+diathermic coagulation	تخثر (ال…) بحرارة نافذة
+diathermic, adj	منفذ ناقل للحرارة
+diathermy	علاج برفع درجة حرارة الأنسجة / استحرار
+diatom	دياتوم / دياتوم / طحلب نهري
+diatomaceous earth filter	مُرشِّح دياتوميتيّ
+diatomite	دياتوميت
+diatreme	مدخنة بركانية
+diazo paper	ورق نقشمي، ورق ديازو
+diazo printing	طبع نقشمي
+diazoprint	طبعة نقشمية، طبعة ديازو
+dibber	محفار
+dibbs process	طريقة دبس
+dibromotetrafluoroethane	إيثان ثنائي البروم رباعي الفلور
+dice	نِرْد
+Dicel®	ديسل ®
+dichlorodifluoromethane	ثنائي كلورو ثنائي فلورو ميثان / ميثان ثنائي الكلور ثنائي الفلور
+dichloromethane	ميثان ثنائي الكلور
+dichoric mirror	مرآة ثنائية اللون
+dichotomizing search	بحث ثنائي
+dichotomous choice	اختيار بين شيئين
+dichroic	ثنائي اللون
+dichroic filter	مرشح ثنائى اللون
+dichroic mirror	مرآه ثنائيه اللون
+dichroite	دايكروايت
+dichromatism	عمى ثنائى اللون
+dick-stick	عصا القياس، مِسْبَار
+dickite	ديكايت
+diddler	مرتجّ / مضطرب
+die	قاطع لوالب خارجية / قالب قاطع
+die cast metal	معدن مصبوب بالضغط
+die cast metal truck	شاحنة المعدن المضغوط
+die collar	طوق انتشال، سلسلة التقاط
+die coupling	جَرْس الالتقاط، لوحة الالتقاط
+die nipple	أداة الالتقاط
+die socket; screw socket	جلبة ملولبة (ذات أسنان)، زج ملولب (ذو أسنان)
+die-back	dépérissement
+die; form block; form die	قالب تشكيل
+diecast profile	قطاع مصبوب بالضغط
+dielectric	عازل كهربائي / عازل / غير موصِّل
+dielectric (medium)	وسط عزل كهربائي
+dielectric breakdown	انهيار العازل الكهربائي
+dielectric constant	ثابت العزل الكهربائي / ثابت العازل الكهربائي
+Dielectric constant (ε)	ثابت العزل الكهربائي
+dielectric cutting edge welding electrode	قطب لحام ذو عزل كهربائي وحافة قطع
+dielectric dissipation factor; tan δ; loss tangent	عامل تبدد العزل الكهربائي
+dielectric dry test	اختبار جاف لتحمل العزل
+dielectric dryer	مجفف العزل الكهربائي
+dielectric drying	تجفيف بالعزل الكهربائي
+dielectric gluing press	مكبس تلصيق بالعزل الكهربائي
+dielectric gluing; glue curing	لصق بالعزل الكهربائي، تصليد الغراء
+dielectric heater	مُسخِّن عازل / سخان العزل الكهربائي
+dielectric heating	تسخين بالعزل الكهربائي / تسخين العازل
+dielectric heating generator	مولد العزل الكهربائي الحراري
+dielectric hysteresis	بطاء العازل
+dielectric lens	عدسة عازلة
+dielectric loss	فقد في العازلية الكهربائية / فقد في العزل الكهربائي / فقد العزل الكهربائي / فقد العازل
+dielectric loss angle	زاوية الفقد في العزل الكهربائي / زاوية فقد العزل الكهربائي
+dielectric loss of wood	الفقد العازل الكهربائي
+dielectric material	عازل كهربائي / مادة غير موصلة
+dielectric medium; dielectric, n	وسط عازلية كهربائية
+dielectric phase angle	زاوية الوجه للعزل الكهربائى
+dielectric plastic welder	جهاز لحام اللدائن ذو العزل الكهربائي
+dielectric plastic welding	لحام اللدائن (البلاستيك) بالعزل الكهربائي
+dielectric power factor	عامل القدرة للعزل الكهربائى
+dielectric preheater	جهاز تسخين مسبق للعزل الكهربائي
+dielectric preheating	التسخين المسبق بالعزل الكهربائي
+dielectric resonator	رنان غير موصل
+dielectric resonator material	مادة رنانة غير موصلة
+dielectric rod antenna	هوائي بقضيب عازل
+dielectric strength	متانة العازل
+dielectric support	دعامة غير موصلة
+dielectric tape camera	مصوِّرة الشريط العازل
+dielectric waveguide	دليل موجية عازل
+dielectric welding electrode	قطب لحام ذو عزل كهربائي
+dielectric wet test	اختبار مبلل لتحمل العزل
+dielectric withstand voltage	جهد تحمل العزل
+dielectric, adj	عازلية كهربائية
+dielectrici constant (of wood)	الثابتة العازلة الكهربائية
+diergolic	غير شَعِل
+diesel	ديزل
+diesel alternator	منوّبة دييزل
+Diesel cycle	دورة ديزل
+diesel desulfurizing unit ,(D.U.U.)	وحدة إزالة الكبريت من الديزل
+diesel engine	محرك ديزل / محرك الديزل
+diesel engine oil	زيت محركات الديزل
+diesel engine road vehicule, (D.E.R.V)	سيارة بمحرك ديزل، عربة بمحرك ديزل
+diesel fuel	وقود ديزل / وقود الديزل
+diesel fuel oil; diesel oil	زيت الديزل، وقود الديزل
+diesel generator design variables	متغيرات تصميم مولّد ديزل
+diesel generator operating costs	تكاليف تشغيل مولّد ديزل
+diesel generator shut down conditions	ظروف إيقاف مولّد ديزل
+diesel generator starting conditions	ظروف بدء تشغيل مولّد ديزل
+Diesel Index	مؤشر للديزل / قرينة الديزل
+diesel injection process	طريقة حقن وقود ديزل
+diesel locomotive	قاطرة ديزل / مقطورة / قاطرة ديزل
+Diesel motor-Management (Common-Rail)	نظام التحكم في محرك ديزل، (منظومة حقن المساق المشترك)
+diesel oil cement	أسمنت ممزوج بزيت الديزل
+diesel or gas locomotive	قاطرة الديزل أو الغاز
+diesel or gas railcar	الديزل أو الغاز عَرَبَة القِطَار
+diesel particle filter	مرشح جسيمات الديزل
+diesel quick-start preheating unit	تجهيزة التوهج التحضيري الخاصة بالبدء السريع لمحركات ديزل
+Diesel railcar	عَرَبَة السِكَّة سَيطَارٌ بالديزل
+diesel ramjet	محرك نفّاث ضغاطي ديزل
+diesel-electric locomotive	قاطرة ديزلكهربية
+diesel-electric motor vehicle	مركبة بمحرك كهربائي-ديزل
+dieseling	دَيْزلة / إشعال بالديزل
+diethyl ether (ethoxy ethane)	ثنائي إيثيل الإيثر (الإيثر الإيثيلي)
+difference galvanometer	مقياس جلفانو (لفرق التيار)
+difference in levels	فرق المستويات
+difference limen for loudness	بداية شعور مختلفة للصخب
+difference limen for pitch	بداية شعور مختلفة للخطوة
+difference of level	درجة هابطة
+difference signal; S signal	إشارة إختلاف
+differential	صندوق التروس الفرقية (دفرنشيال) / تفاضلي
+differential (method of) measurement	القياس (بطريقة) التكامل
+differential absorption ratio	نسبة الإمتصاصِ التفاضليةِ
+differential ailerons	جُنيحات تفاضلية
+differential amplifier	مكبر تفاضلى
+differential amplitude distortion ; differential gain distortion	تشوه سعة تفاضلي
+differential ballistic wind	ريح قذفية تفاضلية
+Differential Bi-Phase Level	مُسْتَوىً تَفاضُلِيّ ثُنائِيّ الطَّورِ
+differential booster	معزز تفاضلي
+differential brake valve	صمام فرامل تفاضلي
+differential Cantilever beam	عارضة تقوّس تفاضلية
+differential cell pressure	فرق ضغط الخلية
+differential coding	ترميز تفاضلي
+Differential component/portion	عنصر تفاضلي
+differential compound excitation	تهييج مركب تفاضلي
+differential compounded	مركب تفاضلي
+differential cost	تكاليف تفاضلية
+differential costs	تكاليف تفاضلية
+differential coupler (in a telephone set)	وصلة ( قارنة ) تفاضلية (لمجموعة الهاتفِ)
+differential coupler ; hybrid coupler	قارن تفاضلي
+differential duplex, adj	تفاضلي مزدوج
+differential duplex, adj and noun	تفاضلي مزدوج؛ نظام تفاضلي مزدوج
+differential duplex, noun	نظام تفاضلي مزدوج
+differential elements	عناصر تفاضلية
+Differential equation	معادلة تفاضلية
+differential equation of D element	معادلة (ال...) التفاضلية للعنصر التفاضلي
+differential equation of I element	معادلة (ال...) التفاضلية للعنصر التكاملي
+differential fare	تعرفة تفاضلية
+differential gap	فجوة تفاضلية
+differential GPS	نظام تحديد المواقع العالمي الفرقي
+differential inductance	محاثة تفاضلية
+differential input circuit	خرج متناظر
+differential laser gyro	جَيروسكوب ليزري تفاضلي
+differential lock	تجهيزة تعطيل التروس الفرقية
+differential measuring instrument	جهاز قياس تفاضلي / جهاز قياس بأدوات تحكّم بالداره
+differential measuring method	طريقة قياس تفاضلية
+differential mode attenuation	نموذج الإضعاف التفاضلي
+differential mode current	تيار نمطى تفاضلى
+differential mode delay; multimode group delay	تأخير صيغة تفاوتيه تأخير مجموعات متعددة الصيغ توزيع بصيغة التوازن؛ نموذج التأخير التفاضلي طريقة التوزيع المتوازن
+differential mode voltage; symmetrical voltage	جهد نمطى تفاضلي
+differential modulation	تضمين تباينى
+differential modulation,	تضمين تفاضلى
+differential permeability	نفاذية قابلة للعكس
+differential phase distortion	تشوه طور تفاضلى
+differential phase shift keying ; DPSK	مفتاح ازاحة طور تفاضلي
+differential phase shift keying; DPSK	مفتاح ازاحة طور تفاضلي
+differential phase-shift	إزاحة طور تفاضلية؛ إزاحة وجه تفاضلية
+differential phase-shift (of a non-reciprocal phase-shifter)	محدد قدرة جيرومغناطيسى
+differential piston	كبّاس فرقي
+differential pressure	الضغط الفرقي / ضغط تفاضليّ / ضغط تفاضلي
+differential pressure method	طريقة الضغط التفاضلي
+differential pressure transducer	مُرسل الضغط الفعَّال
+differential protection	حماية تفاضلية
+differential pulse code modulation ; DPCM	تعديل شفرة نبضه تفاضلية
+differential pulse code modulation; DPCM	تعديل التشفير النبضي التفاضلي / تعديل تفاضلي لترميز النبضة
+differential quantum efficiency	كفاءة كَمّية تفاضلية
+differential relay	مُرَحِّل تفاضلى
+differential relay,	مرحل تفاضلي,
+differential relays	مُرَحِّلات تفاضُلية
+differential rotation	دوران تفاضلي (للشمس)
+differential shrinkage elongation yarn	خيط غزل ذو انكماش واستطالة مختلفتين
+differential shrinkage yarn	خيط مُنكمش الشعيرات بنسب مختلفة
+differential spoilers	مُفسِدات رفع تفاضلية
+differential surge tank	صِهريج تَمُّور تفاضليّ
+differential tailplane	ذيل تفاضلي
+differential thermal analysis	تحليل حراري تمايزي
+differential valve	صمام تفاضلي (لحقن الأسمنت على مرحلتين)
+differential voltage transformer	مُحوِّل تفاضليّ
+differential winding	لف تفاضلي
+differentiated sills	جدات متمايزة (أو مقسَّمة)، أسكفات مقسَّمة
+differentiating circuit	دارة مُفاضَلة
+differentiation	مفاضلة / تَمايُز
+differentiator ; differentiating circuit	مفاضل
+diffracted wave	موجة حيود ( منحرفة ) / موجة منعطفة حيودية
+diffraction	تحليل بانكسار / حيود ،انعطاف / إنحراف / انحراف الصوتي / حيود
+diffraction factor	عامل الانحراف - عامل الإنكسار
+diffraction grating	شبكة انحراف؛ حاجز الإنحراف
+diffraction region	منطقة الحيود
+diffraction,	حيود
+diffractometer	مقياس الحيود
+diffuse horizontal illuminance; sky illuminance	إشعاع ضوئى نهارى افقى منتشر؛ اشعاع ضوئى نهارى سماوي
+diffuse horizontal irradiance	إشعاع شمسى افقي منتشر
+Diffuse Horizontal Irradiance (DHI)	إشعاع أفقي منتشر
+diffuse insolation	تشميس مشتت
+diffuse radiation	إشعاع مُنتشِر / إشعاع مُشتت
+diffuse reflectance	إنعكاسية منتشرة
+diffuse reflection	إنعكاس منتشر / إنعكاس إنتشاري
+diffuse sky radiation	إشعاع سماوي منتشر
+diffuse solar radiation	إشعاع شمسي مُشتَّت
+diffuse sound field	مجال صوتي منتشر
+diffuse transmission	إنتقال إنتشاري؛ نفاذ انتشارى
+diffuse transmittance	نفاذية منتشرة
+diffuse-field distance	مسافة مجال تشتت
+diffuse-field sensitivity	حساسية مجال منتشر (متشتت)
+diffuse-porous wood	خشب متفتح المسام
+diffused aeration	تهوية منتشرة
+diffused junction	وصلة بالانتشار
+diffused lighting	إضاءة منتشرة
+diffuser	ناشِرة / ناشر للضوء / ناشر
+diffuser area ratio	نسبة مساحة الناشر
+diffuser depth; diffuser submergence	عُمْق فتحة التهوية
+diffuser efficiency	فعالية الناشر
+diffuser tunnel	نفق ناشر
+diffuser vanes	أرياش ناشرة
+diffuser vanes; diffuser	ناشِرة
+diffuser; diffusor	ناشر
+diffusibility	نشورية (ال...)
+diffusibility; diffusivity	قابلية انتشار الحرارة، انتشارية
+diffusion	انتشار / إنتشار / انتِشار
+diffusion (in a semiconductor)	انتشار(فى شبة موصل)
+diffusion bonding	ارتباط بالانتشار / ترابط بالانتشار / لصق بالانتشار
+diffusion coefficient	مُعامل الانتشار
+diffusion coefficient (in porous media)	معامل انتشار (عبر وسط مسامي)
+diffusion constant	ثابتة الانتشار
+diffusion constant (of charge carriers)	ثابت الانتشار(لحوامل الشحنات )
+diffusion dialysis	فرز انتشار الإيونات
+diffusion equation	معادلة الانتشارية
+diffusion equipment	معدات نشر
+diffusion factor	عامل الانتشار
+diffusion factor,	عامل الإنتشار,
+diffusion length (of minority carriers)	طول الانتشار(للحوامل االفرعية )
+diffusion plane	سطح الانتشار
+diffusion technique	تقنية الانتشار
+diffusion well	بئر رشح
+diffusion; dispersal	انتشار
+diffusion; penetration	نَفَاذ
+diffusivity (of an aquifer)	انتشار (خزان جوفي)
+digenite	ديجنايت
+digest (to) / putrefy (to)	تَعَّفن
+Digestate	بقايا الهواضم
+Digested sludge	حمأة مهضومة
+digester	حوض هَضْم / هاضم
+digester / digestion tank	خَزَّان هَضْم / حوض هاضم
+digester gas	هاضم الغاز الحيوي
+digester gas / biogas	غاز الهَضْم
+digester gas compression	ضَغْط الغاز الحيويّ
+digester gas production	ناتج الغاز الحيوي
+digester gas quantity, specific	كَمّية نوعية للغاز الحيويّ
+digester gas quantity, technic	كَمّية فعلية للغاز الحيويّ
+digester installation	تجهيزات حوض التعفّن
+digester solids retention time	فترة احتجاز الحمأة في خزان الهضم
+digester tank	صهريج المهتضمة
+digester, covered	حوض هضم مغلق
+digester, final	حوض التخمّر اللاحق
+digester, open	خَزّان هَضْم مكشوف
+digestion	تعفن تام / هضْم / هضم
+digestion (conditioning), thermophilic	تَخَمُّر حَراريّ
+digestion by heat / thermal digestion	تفتيت حَراريّ
+digestion limit, practical	حَدُّ فعليّ للتعفُّن
+digestion tank	حَوْض تعفُّن
+digestion tower	خزّان الهضم
+digging / excavation	حَفْر
+digijet	نظام 'دﯾﺟﯾﭽت' (Digijet)
+Digiplex ignition	نظام الإشعال 'دﯾﭽيبليكس' (Digiplex)
+digit	رقم (فى الاتصالات عن بعد) / رقم / رقم (في الاتصالات)
+digit (in telecommunication signalling)	رقم ( في تأشير الاتصالات عن بعد)
+digit absorption	استيعاب رقم
+digit deletion	حذف رقم
+digit error ratio	نسبة خطأ رقم
+digit position	موضع رقم
+digit rate	معدل رقمى / المعدل الرقمى (في الإرسال الرقمي)
+digit sequence integrity	سلامة التسلسل الرقميِ
+digit time-slot	حيز زمنى رقمى
+digital	رقمي / رقميّ / رَقْمِيّ، أصبعي
+digital (measuring) instrument; digital indicating instrument	جهاز (قياس) تماثلي
+digital active line	الخط الفعال الرقمي
+digital audio broadcast/digital data broadcast	البث الرقمي لبرامج الراديو (DAB) / البث الرقمي للبيانات (DDB)
+digital audio disk system; DAN (abbreviation)	نظام القرص السمعي الرقمي
+digital audio stationary heads system	نظام سمعي رقمي ذو رؤوس ثابتة
+digital audio tape recording system	نظام تسجيل سمعي رقمي للاشرطة
+digital block	كتلة رقمية؛ قالب رقمي
+digital cinema	سينما رقمية
+digital compression (of a video signal) (deprecated)	إنضغاط رقمي (لإشارة مرئية )
+digital computer	حاسبة رقمية، حاسوب رقمي
+digital connection	توصيل رقمي
+digital control	تحكّم رقميّ / تحكم رقمي
+digital control algorithm	خوارزمية ضبط رقمية
+digital demultiplexer	جهاز فك الإشارة المضاعفة
+digital diesel electronics (DDE)	نظام التحكم الرقمي في حقن وقود ديزل (DDE)
+digital directional antenna	هوائي توجيه رقمي
+digital display	آلية تحرك الرسم البياني
+digital distribution frame	اطارالتوزيع الرقمي
+digital entity	هوية رقمية؛ كيان رقمى
+digital error	خطأ رقمي
+digital factory	مصنع رقمي
+digital filling	تعبئة ( رقمية )
+digital frequency control (DFC)	تثبيت التردد
+digital idle stabilisation (DLS)	التثبيت الرقمي لسرعة التباطؤ
+digital imaging system	نظام تصوير رقمي
+Digital information transfer types	أنماط نقل المعلومات الرقمية
+digital input signal	اشارة دخل رقمية
+digital input unit	وحدة دخل رقمية
+digital line link; digital line path (deprecated)	وصلة الخَطِّ الرقميةِ
+digital line section	قسم خَطِّ رقميِ
+digital line system	نظام الخَطِّ الرقميِ
+digital link; digital path (deprecated in this sense)	الوصلة الرقمية /المسار الرقمي
+digital measuring instrument	جهاز قياس ذو قراءة رقميّة
+digital modulation	تضمين رقمي
+digital motor electronics	نظام التحكم الإلكتروني الرقمي
+digital muldex	جهاز رقمي لمضاعفة وفك مضاعفة الإشارات الثنائية
+digital multimeter	ملتيمتر رقمي / مقياس رقمي متعدد القياسات
+digital multiplex equipment	جهاز مضاعف رقمي
+digital multiplex hierarchy	التسلسلسل الهرمى الرقمى المتعدد
+digital multiplexer	مضاعف رقمي
+digital multiplexing	مضاعفة رقمية
+digital offset modulation; digital staggered modulation	تضمين الازاحة الرقمي
+digital output unit	وحدة خرج رقمية
+digital phase shifter	مزيح رقمي للطور
+digital pulse duration modulation; DPDM	نظام تحكم عن بعد باختيار القناة
+digital radio concentrator (system)	(نظام) ممركز رقمي راديوي
+digital radio link; digital radio path (deprecated)	وصلة لاسلكية رقمية
+digital radio section	قسم لاسلكي رقمى
+digital radio system	نظام لاسلكي رقمي
+digital recorder	مُسجِّل رقمي
+digital recording system; digital audio/video recording/reproducing system	نظام تسجيل رقمي
+digital relay	مُرَحِّل رقمى
+digital section	القسم الرقمي
+digital signal	إشارة رقمية / اشارة رقمية
+Digital Signal 1	الإِشارَةُ الرَّقْمِيَّةُ 1
+Digital Signal Processor	معالج رقمي للإشارات (DSP) / مُعالِجُ إِشارَةٍ رَقْمِيَّةٍ
+digital signalling	إرسال رقمي بالإشارات
+digital signature	توقيع الكترونى
+Digital Subscriber Line	خَطُّ الاِشْتِراكِ الرَقْمِيّ
+Digital Subscriber Line (DSL)	خط المشترك الرقمي
+digital sum	المجموع الرقمي
+digital sum variation (of a line code)	تغيير المجموع الرقمي (لشفرة خط)
+digital switching	فصل ووصل (تبديل) إشارة رقمية
+digital switching delay	تأخير فصل ووصل (تبديل) رقمي
+digital technology	تقنية رقمية
+digital television	تلفاز رقمي
+digital test sequence; DTS (abbreviation)	تسلسل اختبار رقمى
+digital to analogue conversion (for measuring instruments)	التحويل من تماثلي إلى رقمي (لأجهزة القياس)
+digital transmission	إرسال رقمى
+digital transmission (of a discretely-timed signal)	إرسال رقمى (لإشارة متقطعة الوقت)
+digital transmission system	نظام الإرسالِ الرقميِ
+digital user	مستخدم رقمي
+digital video tape recording system; DVTR (abbreviation)	نظام تسجيل رقمي للشريط المرئي
+Digital Visual Interface	واجِهَةٌ بَصَرِيَّةٌ رَقْمِيَّةٌ
+Digital Voice Announcement	الإِعْلانُ الصَّوْتِيّ الرَّقْمِيّ
+digital voltmeter	فولتميتر رقمي
+digital, adj	رقمى, صفة
+digital-analog converter	مُحوِّل رقمي تناظري
+digital-to-analog converter	مغير إشارة رقمية إلى تناظرية
+digital-to-analogue conversion; D/A conversion (abbreviation)	التحويل رقمي ـــ لتمثيلي؛ تحويل رقمى إلى تماثلى / تحويلِ رقمي إلى مناظرِ
+digital-to-analogue converter	محوِّل رقميّ تناظريّ
+digital-to-analogue converter; D/A converter (abbreviation)	محولِ رقمي إلى مناظرِ
+digital/analog converter	محوِّل رقمي / محوِّل نظيري
+digital/analogue converter	محول رقمي / تناظري
+Dignition	نظام الإشعال 'ديجنيشن' (Dignition)
+dihedral angle	زاوية ثنائية
+dihedral corner reflector	عاكس زاويةِ ثنائي السّطحِ
+dihedral effect	تأثير المَيل
+dihedral; tilt angle	زاوية المَيل
+dihexogonal	سداسي مزدوج
+Dii cooperation project	مشروع مُبادرة ديزيرتيك
+dike	حاجز / حَاجِز / جُدَّة قاطعة
+dike (dyke)	ساتر ترابي ردمي
+dike / levee / embankment	سدّ ترابي للنهر
+dike access way; way to the dike	طريق الدخول للحاجِز
+dike breach	فتحة في السد
+dike crest; top of dike	قِمّة الحاجِز
+dike defence; dike protection	حِماية الحاجِز
+dike direct along a water way; levee, direct	حاجز مُباشر
+dike drainage ditch	خندق حاجِز / خندق جانبي للحاجِز
+dike failure	انهيار حاجِز
+dike height	ارتفاع الحاجِز
+dike inspection	فحص دوري للسد
+dike line	مُخطَّط الحاجِز
+dike lock	بَوّاَبة الحاجِز
+dike protection zone	منطقة حِماية الحاجِز
+dike ramp	مُنحدَر الحاجِز
+dike road	طريق حِماية الحاجِز
+dike shoulder	كتف السد
+dike slope	جسر السد
+dike springs	ينابيع القواطع، ينابيع الدكوك
+dike toe	قدمة السد
+dike, inspected	حاجِز تحت المُراقبة
+dike, secondary	حاجز تُرابي وسيط
+dike/dyke / levee	كَتِف النهر
+dike; flood embankment	حاجِز
+dilapidated / out of repair	خَرِب
+dilatancy	تمدُّد
+dilatation	تمدُّد
+dilatation of wood	تمدُّد الخشب
+dilation (dilatation	تمدد (توسع)
+diligentia quam in suis	عناية (يقظة) معتادة
+diluent	مخفِّف
+diluent injection	حقن مُخففّ
+Dilute and disperse' (UK)	تخفيف وتفريق
+dilution	مُخفف / تخفيف / تخفيف، مَذْق
+dilution area	منطقة تخفيف, حاوية منضغطة داخليا برمزp
+dilution gauging	قِياس درجات التخفيف
+dilution method	عملية قياس درجة التخفيف
+dilution ratio	نسبة التخفيف
+dilution water	دسع
+dim, adj	خافت
+dimension	بعد
+dimension (s)	بعد
+dimension / size	حجم
+dimension of a quantity; quantity dimension; dimension	بعد لكمية (بعد كمية) بعد
+dimension of pipes and fittings	مقاييس الأنابيب ولوازمها
+dimension; measurement	قياس الأبعاد
+dimensional exponent	أس بعدى
+dimensional output	خرج بعدى
+dimensional similarity	تشابه بُعدي
+dimensional stability	ثبات الأبعاد / استقرار بعدي
+dimensional stability / shape retention	استقرار الأبعاد
+dimensioning	تحديد الأبعاد
+dimentioned sketch	رسيمة
+dimethyl ether	ثنائي ميثيل الإيثر
+Dimethyl Ether (DME) Synthesis	اصطناع ثنائي إيثيل الإيثر
+diminishing marginal utility	تناقص المنفعة الحدية
+diminishing relative value	تناقص القيمة النسبية
+diminishing returns	تناقص العوائد
+diminishing returns to scale	تناقص العائد عند توسيع نطاق
+diminution; decrease	تقليل
+dimity / fustian yarn	خيط غزل فستياني
+Dimmable lights	تخفيت أنوار
+dimmer	معدة تحكم في شدة الاضاءة
+dimmer switch	مفتاح خفض شدة الإضاءة، مفتاح الْمِعْتَام
+dimorphic	ثنائي الشكل
+dimorphism	ثنائية الشكل
+dimorphous mineral	معدن ثنائي الشكل
+dimple	نقرة صغيرة؛ حفرة صغيرة / حفرة - نقرة صغيرة
+dimple spring	يَنْبوع دَوّاميّ
+dimpled tyre	دولاب مُخوَّش
+DIN	المواصفة القياسية الألمانية DIN / القياسات المعيارية الصناعية الألمانية
+DIN 1319-1	مواصفة (ال...) القياسية الألمانية DIN رقم 1319، الجزء الأول
+DIN 1319-2	مواصفة (ال...) القياسية الألمانية DIN رقم 1319، الجزء الثاني
+DIN 19227	مواصفة (ال...) القياسية الألمانية (DIN) رقم 19227
+DIN 2000	المعيار 2000 للمعهد الألماني للتوحيد القياسي (DIN 2000)
+DIN 24900	مواصفة (ال...) القياسية الألمانية DIN رقم 24900
+DIN 30600	مواصفة (ال...) القياسية الألمانية DIN رقم 30600
+DIN 40110-1, Part 1	مواصفة (ال...) القياسية الألمانية DIN رقم 40110-1، الجزء الأول
+DIN 55003-3	مواصفة (ال...) القياسية الألمانية DIN رقم 55003-3
+DIN 66001:1983-12	مواصفة (ال...) القياسية الألمانية DIN رقم 66001:1983-12
+DIN 66003	مواصفة (ال...) القياسية الألمانية DIN رقم 66003
+DIN 66025	مواصفة (ال...) القياسية الألمانية DIN رقم 66025
+DIN 66217	مواصفة (ال...) القياسية الألمانية DIN رقم 66217
+DIN 66257	مواصفة (ال...) القياسية الألمانية DIN رقم 66257
+DIN 66261:1985-11	مواصفة (ال...) القياسية الألمانية DIN رقم 66261:1985-11
+DIN 8580:2003-09	مواصفة (ال...) القياسية الألمانية DIN رقم 8580:2003-09
+DIN EN 60751	مواصفة (ال...) القياسية الألمانية (DIN) رقم 60751 طبقاً للمعيار الأوروبي
+DIN EN 61131	مواصفة (ال...) رقم 61131 طبقاً للمواصفات القياسية الألمانية (DIN) والمواصفات الأوروبية
+DIN EN ISO 10628	مواصفة (ال...) رقم 10628 طبقاً للمواصفات القياسية الألمانية (DIN) والمواصفات الأوروبية ومنظمة توحيد المقاييس الدولية
+DIN IEC 60381-1	مواصفة (ال...) القياسية الألمانية (DIN) رقم 60381-1 الموافقة للجنة الدولية للتقانة الكهربائية (IEC)
+DIN IEC 60529	مواصفة (ال...) رقم 60529 طبقاً للمواصفات القياسية الألمانية (DIN) والمواصفة القياسية للجنة الدولية للتقانة الكهربائية
+DIN IEC 751	مواصفة (ال...) القياسية الألمانية (DIN) رقم 751 الموافقة للجنة الدولية للتقانة الكهربائية
+DIN measurment bus	ناقل القياس وفقًا للمواصفات القياسية الألمانية DIN
+DIN measurment bus, Characteristics	خصائص ناقل القياس وفقًا للمواصفات القياسية الألمانية DIN
+DIN power output	القدرة التشغيلية طبقاً للمواصفات القياسية الألمانية DIN
+DIN standards	معايير المعهد الألماني للمعايير
+DIN; EN 14775	مواصفة قياسية أوروبية رقم 14775 DIN; EN
+Dines anemograph	مرياح داينز
+dinghy	قُويرِب
+dining - hall	غرفة أكل، قاعة طعام
+dining car	عَرَبَة مطعم / عَرَبَة الطعام
+dining chair	كرسي طعام
+dining room	غرفة طعام / غرفة أكل، قاعة طعام
+dining table	منضدة طعام
+dinking	تفصيم
+dinner jacket	سترة السّهْرَة
+dinner suit	فستان السهرة
+DIO	نظام إدخال / إخراج البيانات DIO
+dioctahedral	ثماني مزدوج
+diode	دايود / صمام ثنائى / صمام ثنائي / ثنائي المساري
+diode array	صف صمامات ثنائية
+diode characteristic; emission characteristic of a multi-electrode tube	خصائص الصمام الثنائى
+diode gun	مدفع صمام ثنائي
+diode lamp	مصباح صمام ثنائي
+Diode Module	وَحْدَةُ الصِمامِ الثُنائِيّ
+diode perveance	موصلية الصمام الثنائى
+diode safety barrier	تركيبات صمامات ثنائية محمية
+dioecious	منفصل الجنس / منفصل الجنس / ثنائي المسكن
+Diolen	ديولين®
+Diolen Sedura	ديولين-سيدورا
+diolen tipico	ديولين أصلي
+diopside	ديوبسيد
+dioxin	دِيوكْسِين / ديوكسين
+dioxins	ديوكسينات
+dip (angle of ...)	زاوية الميل
+dip of fault	مَيْل الصّدْع
+dip slip/ normal fault	تراجع انزلاقي / صدع عادي
+dip slope	مُنْحَدَر الطبقة المائل، مَيْل المنحدَر
+dip switch	مفتاح الضوء المنخفض
+dip wing	يُميل الجناح
+dip-coating	طلاء بالتغطيس/ الغمس
+dip-slip fault	صدْع نِظَامي
+dipentene	ثنائي البنتين
+diphase	ثنائي الطور
+diplexer	مزاوج
+diplexer (for an antenna)	ثنائى الإرسال (للهوائى)
+diploid	ثنائي الصيغة الصبغية
+diploidal	ذو الاثني عشر وجها دلتاويا مزدوجا
+diplomatic authorization	ترخيص دبلوماسي
+dipmeter survey	قياس الميل
+dipmeter; clinometer	مقياس الميل
+dipole	ثنائي القطب
+dipole (antenna); doublet (antenna)	ثنائى قطب (هوائى)
+dipole aerial	هوائي ثنائي القطب
+dipole moment	عزم ثنائي القطب
+dipole-curtain antenna	هوائي ستاره ثنائي القطب
+dipolyon fiber	ألياف ديبوليون
+diposition	ترسُّب
+dipped headlights	نورٌ عالٍ مخفَّضٌ
+dipped-beam headlight; low-beam headlight; passing-beam headlight	أنوار أمامية مغمورة؛ أنوار أمامية منخفضة
+dipper; spoiler	مُخَفِّف
+dipping	تغطيس
+dipping sonobuoy	طافية صوتية رادية للغطس
+dipyramidal	هرمي معكوس
+Dirac function; Dirac delta function; unit pulse; unit impulse, US	دالة ديراك؛ دالة ديراك التركيبية؛ النبضة الواحدة؛ قفزة الوحدة
+Dirac Impulse	نبضة ديراك
+DIREC (Delhi International Renewable Energy Conference)	مؤتمر نيودلهي الدولي للطاقة المُتجدّدة (DIREC)
+direct (method of) measurement	انحراف ( لأجل التحقق من المعايرة)
+direct (power) conversion	تحويل مباشر (للقدرة)
+direct AC converter	مغير تيار مباشر
+direct AC/DC converter	مغير تيار متردد/ تيار مستمر مباشر
+direct access storage; DEPRECATED: random access storage	وحدة تخزين الوصول المباشر
+direct access store; random access store (deprecated)	مخزن دخول بيانات مباشرة
+direct access; DEPRECATED: random access	وصول مباشر
+direct actinic effect	تأثير أكتينى مباشر
+direct action fuze	شعيلة الفعل المباشر
+direct actuation	تحريك مباشر
+direct address	عنوان مباشر
+direct air capture	استخلاص مباشر من الهواء
+direct approach	اقتراب مباشر
+direct arc furnace	فرن قوسي مباشر
+direct arc heating	تسخين بالقوس (الكهربائي )المباشر
+direct award	جائزة مباشرة
+Direct Battery Cooling	نظام التبريد المباشر للبطارية
+direct beam radiation	إشعاع مباشر
+direct bill of lading	سَنَدُ شحن مباشر
+direct charge material	مادة مستوردة لعمل خاص
+direct charges	رسوم مباشرة
+direct co2 emissions	انبعاثات مباشرة لثاني أكسيد الكربون
+direct co2 emissions per person in employment	انبعاثات مباشرة لثاني أكسيد الكربون للعامل الواحد
+Direct combustion	احتراق مُباشر
+direct combustion system	نظام احتراق مُباشر
+direct commutation	تبديل المباشر
+direct component	المركبة المباشرة
+direct connection	اتصال مباشر
+direct contact	تلامس مباشر؛ إتصال مباشر
+direct control	تحكم مباشر
+direct control,	تحكم مباشر,
+direct cooled winding; inner cooled winding	ملف مبرد بطريقة مباشرة ملف مبرد داخلياً
+direct cooling	تبريد مباشر
+direct cost (construction cost)	تَكْلِفَة مُباشرة (تَكْلِفَة إنشاء)
+direct coupled PV system	نظام كهرضوئي مباشر الاقتران
+direct coupling	قَرْن مباشر / وصْل مباشر / اقتران مباشر
+direct current	تيار مستمر / تيار مستمر (DC) / تيار مباشر / التَيّارُ المُباشِرِ
+direct current (D.C.)	تيار مستمر
+direct current (DC)	تيار مستمر (DC)
+direct current arc furnace	فرن قوسي ذو تيار مستمر
+direct current converter	مُحوّل التيار المُستمر (DCDCC)
+Direct Current Derailment and Dragging Equipment Detector	جِهازُ كَشْفِ الاِنْحرافِ وَاِنْجِرارِ المُعِدّاتِ
+direct current generator	مُولّد التيار المُستمر
+direct current machine; DC machine	آلة تيار مستمر
+direct current measuring transductor	محول حثي لقياس تيار مستمر
+direct current motor	مُحرِّك تيار مُستمر / محرك تيار مستمر
+direct current power supply	مصدر قدرة تيار مستمر
+direct current signalling; DC signalling	التأشير بالتيار المستمر
+direct current system; DC system	نظام التيار المستمر
+direct current track circuit	دائرة مسار ذات تيار مستمر
+direct current transmission	نقل (ارسال) تيار مباشر
+direct current voltage	فلطية مستمرة
+direct damage assessment	تقدير مباشر للتلف
+direct data entry	تبادل البيانات الدينامي Dynamic Data Exchange
+direct DC converter; DC chopper	مغير تيار مستمر مباشر مقطع تيار مستمر
+direct debit	تَدفُّق مُباشِر
+Direct digital control	ضبط رقمي مُباشر
+direct discharger	مَصْرِف مباشِر
+Direct Disposal	تخلص مباشر
+direct distribution by satellite	توزيع مباشر بالقمر الصناعي
+direct drilling	زرع مباشر
+direct drive	تعشيقة مباشرة
+direct electric heating	تسخين كهربائي مباشر
+direct energy consumption in the country	استهلاك مباشر للطاقة داخل البلد
+direct energy consumption per employee	استهلاك مباشر للطاقة لكل عامل
+direct evaporator	ملف التَمَدُّد المُباشر
+direct filtration	ترشيح مباشر
+direct fired type reformer	مهدرج من النوع ذو احتراق مباشر
+direct flank protection (provided by an adjacent element)	حماية مباشرة للجانب
+direct flight	رحلة جوية مباشرة / طيران مباشر
+direct flow	جريان مباشر
+direct flow evacuated tube collector	مُجَمِّع تدفق مُباشر ذو أنبوبٍ مُفرَّغ
+direct flow measurement	قياس التدفق المباشر
+direct flux,	تدفق مباشر,
+direct force control	تحكم القوة المباشرة
+direct force measurement	قياس مباشر للقوة
+direct fouandations	أساسات مباشرة
+direct freezing	تجميد مباشر
+direct fuel cell	خلية وقود مباشرة
+direct glare	وهج مباشر
+direct hammering	طرق مباشر
+Direct haul	نقل مباشر
+Direct heat utilization	استخدام مباشر للحرارة
+direct ignition	نظام إشعال مباشر
+direct illuminance	الإستضاءة المباشرة
+direct incoming selection	اختيار دخول مباشر
+direct incoming selection with integrated numbering	اختيار دخول مباشر بترقيم متكامل
+direct incoming selection with two-stage selection	اختيار دخول مباشر باختيار مرحلتين
+direct induction heating	تسخين حثي مباشر
+direct injection	نظام حقن مباشر (DI)
+direct injection process	طريقة حقن مباشر
+direct input-output matrix	مصفوفة مباشرة للدخل/ للخرج
+direct insolation	تشميس مباشر
+direct inverter	مقوم عكسى مباشر
+direct levelling	تسوية مباشرة
+direct lift control	تحكم الرفع المباشر
+direct lighting	إضاءة مباشرة / اضاءة مباشرة
+direct lightning strike	صاعقة مباشرة
+direct liquid cooling	نظام التبريد بالسائل المباشر
+direct liquid cooling system	نظام التبريد المباشر بسائل
+Direct Load Control (DLC)	تحكم مباشر في الحمل
+direct marketing	تسويق مُباشر / تسويق مباشر
+direct marketing form	شكل التسويق المباشر
+direct marketing of the plant operator	تسويق مباشر من مشغل المحطة
+direct material input (dmi)	مدخلات مادية مباشرة (DMI)
+direct measurement method	طريقة قياس مُباشرة
+Direct Memory Access	وصول مباشر إلى الذاكرة
+direct memory access; DMA	الوصول المباشر للذاكرة
+Direct Meter	عداد مباشر
+direct methanol fuel cell (DMFC)	خلية وقود الميثانول المُباشر
+direct methanol fuel cell; DMFC	خلية وقود ميثانول مباشرة
+Direct Normal Irradiance (DNI)	إشعاع طبيعي مباشر
+Direct numerical control	تحكّم رقميّ مُباشر
+direct observations	ملاحظات مباشرة
+direct operating cost	تكاليف التشغيل المباشرة
+direct orbit (of a satellite)	مدار مباشر (لقمر صناعي)
+direct outgoing selection	اختيار خروج مباشر
+direct overcurrent release	اعتاق مباشر بزيادة التيار
+direct positive	ايجابية مباشرة
+direct pressure gauge	مقياس
+direct printer	طابعة مباشرة
+direct radiation	إشعاع مُباشر
+direct ratio,	نسبة مباشرة,
+direct ray path	مسار شعاع (لاسلكي) مباشر
+direct read after write; DRAW (abbreviation)	القراءة مباشرة بعد الكتابة
+direct reading pocket dosemeter [exposure meter]	مقياس جرعة جيبى مباشر القراءة (مقياس تعرض)
+direct rectifier	مقوم مباشر
+direct refrigerant cooling system	نظام التبريد المباشر
+direct resistance electroheat installation	منشأة كهروحرارية للتسخين المباشر بمقاومة
+direct resistance heating	تسخين مباشر بمقاومة
+direct retail; direct selling	بيع مباشر; بيع مباشر بالتجزئة
+direct reuse	إعادة استخدام مباشر
+direct river-water cooling	تبريد مباشر بمياه الأنهار
+direct runoff	جريان سطحي مباشر
+direct selling	بيع مباشر
+direct sequence spread spectrum modulation	تضمين بتمديد الطيف بالتتابع المباشر / تعديل انتشار الطيف بتسلسل مباشر
+direct service area	منطقة خدمة مباشرة
+direct shadow photo	صورة الظل المباشر
+direct shear apparatus	جهاز القص المباشر
+direct shear test	تجربة القص المباشر
+direct side-force control	تحكم القوة الجانبية المباشر
+direct solar illuminance	إشعاع ضوئى شمسى مباشر؛ اضاءة شمسية مباشرة
+direct solar irradiance	إشعاع شمسي مباشر
+direct solar radiation	إشعاع شمسي مباشر / إشعاع شمسي مُباشر
+direct specific co2 emissions	انبعاثات نوعية مباشرة لثاني أكسيد الكربون
+direct stress	إجهاد مباشر
+direct strutted type steel dam	سَدّ من الصلب من النوع المدعوم مباشرة
+direct tax	ضريبة مباشرة
+direct through-connection filter; direct line filter; direct transfer filter	مرشح توصيل الخط المباشر
+direct through-connection point	نقطة توصيل مرشح الخط المباشر
+direct use	استعمال مُباشر
+direct use values	قيم الاستعمال المباشر
+direct voltage	جُهد مُستمّر
+direct voltage regulation	تنظيم جهد مستمر
+direct voltage; direct tension	جهد مستمر
+direct water-cooled machine	آلة مُبرّدة بالماء مباشرة
+direct wave	موجة (لاسلكية) مباشرة
+direct-acting instrument	جهاز قياس ذو فعل مُباشر / جهد نمط تسلسلي
+Direct-Air Capture	عزل الكربون مباشرةً من الجو
+direct-arc furnace	فرن القوس المباشرة
+direct-axis component of current	المركبة الأفقية للتيار
+direct-axis component of magnetomotive force	المركبة الأفقية للقوة الدافعة المغناطيسية
+direct-axis component of synchronous generated voltage	المركبة الأفقية للجهد المولد تزامنياً
+direct-axis component of voltage	المركبة الأفقية للجهد
+direct-axis sub-transient open-circuit time constant	ثابت زمنى دون العابر للدارة المفتوحة للمحور المباشر
+direct-axis sub-transient reactance	المركبة الأفقية للمفاعلة دون العابرة
+direct-axis sub-transient short-circuit time constant	ثابت زمني دون العابر للدارة القصر للمحور المباشر
+direct-axis sub-transient voltage	المركبة الأفقية للجهد دون العابر
+direct-axis synchronous reactance	المركبة الأفقية للمفاعلة التزامنية
+direct-axis transient open-circuit time constant	ثابت زمنى عابرلدارة مفتوحة
+direct-axis transient reactance	المركبة الأفقية للمفاعلة العابرة
+direct-axis transient short-circuit time constant	ثابت زمنى عابر للمحور المباشر لتيار قصر الدارة
+direct-axis transient voltage	المركبة الأفقية للجهد العابر
+direct-cranking starter	بادئ حركة بالتدوير المباشر
+direct-current Josephson effect; DC Josephson effect	تأثير (جوزيفسون) للتيار المستمر
+direct-on-line starter	بادئ حركة جاهز للعمل مباشرة / مقلع مباشر
+direct-on-line starting; across-the-line starting (US)	بدء تشغيل مباشر
+direct-to-disk record; instantaneous recording	تسجيل مباشر على القرص
+direct-use value	قيمة الاستعمال المباشر
+direct-view storage tube	صمام تخزين مباشر الرؤية
+direct-vision panel	لوحة للرؤية المباشرة
+directed slipstream	تيار المروحة الموجَّه
+direction	اتجاه
+direction / instruction	إرشاد
+direction cosines	جيوب مُوجِّهة
+direction equation	مُعَادلة للاتجاهات
+direction float	عوامة اتجاه
+direction indicating board	لوحة بيان الأتجاه
+direction indicator [UK] / turn indicator [US]	اللمبة الومضية
+direction indicator control	تجهيزة تشغيل مُبين اتجاه السير
+direction indicator glass	زجاج المصباح الومضي
+direction indicator lamp [UK] / direction indicator light [US]	مصباح ومضي
+direction indicator pilot lamp [UK] / direction indicator pilot light [US]	لمبة بيان الأضواء الومضية
+direction indicator switch	مفتاح المصباح الومضي
+direction indicator system	منظومة اللمبات الومضية
+direction lever operation (on single line)	تحديد اتجاهي
+direction light	إشارة ضوئية إتجاهية
+direction of action	اتجاه الفعل (التأثير) / إتجاه الفعل
+direction of deviation	اتجاه الانحراف
+direction of electric current	اتجاه تيار كهربائي
+direction of lay	أتجاة الجدل / اتجاه اللف؛ اتجاه الجدل
+direction of polarization (in a waveguide)	اتجاه الاستقطاب (في دليل موجة)
+direction of propagation	اتجاه الانتشار / إتجاه الانتشار
+direction of propagation (of a wave)	اتجاه الانتشار (لموجه)
+direction of propagation (of energy)	اتجاه الانتشار(للطاقة)
+direction of propagation of energy (in a transmission line)	اتجاه انتشار الطاقة (في خط نقل)
+direction of rotation	اتجاه الدوران
+direction peg	وَتِد الاتجاه
+direction peg line	خَطّ وَتِد الاتجاه
+direction-finder	مُعَيِّن الاتجاه
+direction-indicator light; turn-signal light	ضوء بيان الإتجاه؛ ضوء اشارة الالتفاف
+directional	مُوجَّه
+directional aerial, antenna	هوائي اتجاهي
+directional antenna	هوائى إتجاهى
+directional arm	ذراع استعدال
+directional beacon	منارة الاتجاهية
+directional comparison protection	حماية المقارنة الاتجاهية
+directional control	تحكم موجه
+directional coupler	رابط اتجاهي / رابط إتجاهى؛ قارن ( بصري ) اتجّاهي
+directional deviation of borings	انحراف موجَّه للحفر
+directional drilling	حَفْر مُوجَّه / حفر موجه / حفر موجَّه
+directional drilling tools	أدوات الحفر الموجَّه
+directional emissivity	قدرة إشعاعية مُوجَّهة / قدرة إشعاعية موجهة
+directional gain; directivity index	كسب (دليل)اتجاهي
+directional gyro	جَيرو اتجاهي
+directional hole	بئر حفر موجَّه
+directional indicator	مؤشِّر الاتجاه
+directional instability	عدم استقرار اتجاهي
+directional interchange	مُحوِّل (طرق) اتجاهِي، مُحوِّل (طرق) مُوجَّه
+directional lamp	مصباح إتجاهى
+directional lighting	إضاءة موجهة
+directional marker	علامة اتجاهية
+directional microphone	ميكروفون إتجاهي
+directional null	ملغى الإتجاه
+directional operation	تشغيل اتجاهي
+directional pattern	نمط إتجاهي
+directional protection	الحماية الاتجاهية (الوقاية الاتجاهية)
+directional relay	مُرَحِّل اتجاهى
+directional relief well	بئر مائلة للتخفيف، بئر منحرفة للنجدة
+directional solidification	تصلب اتجاهي / تصلُّب اتجاهي
+directional spreading function,	دالة الإنتشار الإتجاهي,
+directional stability	استقرار اتجاهي
+directional survey	قياس اتجاه البئر
+directional treadle	دواسة إتجاهية
+directional wave spectrum,	طيف الموجه الإتجاهية,
+Directional Well	بئر موجهة / بئر مائلة، بئر منحرفة
+directional-null antenna	هوائى لا إتجاهى
+directionally resolved power,	القدرة الاتجاهية المستفاد بها,
+directionally solidified materials	مواد مصلبة اتجاهية
+Directive (EU)	توجيهات الاتحاد الأوروبيّ
+directive / guide (advice) / guideline / rule / standard procedure	توجيهات
+directive 2001/77/EC	توجيه 2001/77/EC
+Directive 2001; /77/EC	الأمر التوجيهي رقم 2011/77/EU الصادر عن البرلمان الأوروبي
+directive on access to environmental information	مذكرة توجيهية متعلقة بالوصول إلى المعلومات البيئية
+directivity (for WTGS)	التوجهيه ( نظام مولد عنفة الرياح)
+directivity (of a directional coupler)	اتجاهية (لرابط اتجاهي)
+directivity (of an antenna, in a given direction)	الاتجاهية (من الهوائي في اتجاه معين)
+directivity factor	عامل الاتجاهية
+directly connected industrial branch line/branch railway	ربط رئيسي مباشر
+directly controlled equipment	معدة متحكم بها مباشرة
+directly heated cathode; filament	مهبط مسخن مباشرة
+directly ionizing radiation; directly ionizing particles	إشعاع متأين مباشر
+directly irradiated area	منطقة إشعاع مباشر
+directly-fired boiler	مرجل (غلاية) باحتراق مباشر
+directly-powered (repeater) station	محطة مكرر ذات تغذية مباشرة
+director	قائد / موجِّه
+director element (of an antenna)	عنصر موجه (للهوائي)
+directory number; catalogue number (term deprecated)	رقم الدليل الهاتفي
+directrix	خط أساس
+diret labour	عمل مباشر
+diret lignting	إضاءة مباشرة
+dirigible	قابل للتوجيه
+dirndl	فستان درندل
+dirt	ثلوث / أوساخ
+dirt factor	معامل التلوث
+dirt pan	وَاقِيَة اَلْوَحْل
+dirty	غير صافية / ملوّثة
+dirty bill of lading	سَنَدُ شحن مشروط
+dirty cargo	منتجات سوداء، حمولة سوداء
+dirty situation	وضع متسخ
+dirty water	مياه الصرف الصحيّ
+dirty water pump	مضخة المياه القذرة
+disability	عجز
+disability glare	وهج مانع للرؤية
+disabled state (of an echo suppressor)	حالة التعطيل/التعليق (مخمد صدى)
+disabled state; DEPRECATED: outage	حالة التعطيل, ؛ سابقا: التوقف
+disabled time; outage	وقت التعطيل؛ لتوقف
+disabling (in echo control)	عدم تمكين ( التحكم بالصدى )
+disaccommodation (of permeability)	تقادم مغناطيسي
+disaccommodation coefficient (of permeability)	عدم تكيف (النفاذية)
+disaccommodation factor (of permeability)	معامل عدم تكيف (النفاذية)
+disaggregation	تحلّل
+disassembly	التفكيك
+disaster	كارثة
+disaster management	إدارة الكوارث
+disaster plan	خطة الكوارث
+disaster preparedness	تأهب للكوارث
+disaster response planning	تخطيط لمواجهة الكوارث
+disaster risk	مخاطر الكوارث
+disaster risk management	إدارة مخاطر الكوارث
+disaster risk reduction	الحد من مخاطر الكوارث
+disaster risk reduction plans	خطط للحد من مخاطر الكوارث
+disc	قُرْص
+disc [UK] / disk [US]	عجلة قُرصية
+disc and drum turbine	عَنَفَة ذات قُرْص و طبْل
+disc and wiper lubricated bearing	كرسي تحميل بقرص وزيت
+disc area	مساحة القرص
+disc attenuator	موهّن قرصي
+disc bit; disk bit	مِدَقٌّ ذو أقراص، مِثْقَب ذو أقراص
+disc brakes [UK] / disk brakes [US]	فرامل قُرصية
+disc insulator	عازل قرصي
+disc loading	تحميل القرص
+disc recorder	مسجّل قرصي
+disc sander	مصقل قرصي / قُرْص صَنْفَرَة
+disc signal	أشارة القرص
+disc valve	صمام قرصي، سِكْر أمان
+disc winding	لفّ قرصي
+disc-type machine	آلة قرصية
+discard/release mortality	صيد مُرْجَع / وفيات الإفراج
+discards	صيد مُرْجَع
+discharge	تفريغ الشَحن / أعمال الفيض / تصريف / تفريغ / صبيب / تفريغ / تصريف / تفريغ الشحن
+discharge (of a battery)	تفريغ (للبطارية )
+discharge (of wastewater)	تصريف (مياه الصرف الصحيّ)
+discharge / discharging capacity	سَعَة التصريف (القُمامة)
+discharge adapter	مُهَايئ التَصْريف
+discharge area; discharge section area	مِساحة التصريف
+discharge at the sprinkler	تصريف عند رأس الرشاش / تفريغ (ال...) عند الرشاش
+discharge capacity	سَعَة المجرى
+discharge channel	مَجرى منحدر
+discharge channel; tailrace	دليل مخرج خلفيّ
+discharge channel; tailrace channel	قناة خلفية
+discharge coefficient	مُعامل التفريغ
+discharge coefficient; runoff coefficient	مُعامِل التصريف / مُعامِل المدد النهريّ
+discharge consent; discharge permit	إذْن تصريف
+discharge control	تحكم في الصرف
+discharge correction factor	مُعامِل تصحيح التفريغ
+discharge cross-section	مَقْطَع مُستعرض لقياس الصرف
+discharge current	تيار التفريغ
+discharge current,	تيارالتفريغ,
+discharge curve; flow curve	منحني تصريف / مُنحنى مُعايرة التصريف
+discharge device of a capacitor	جهاز لتفريغ المكثف
+discharge ditches	خنادق تحويل مياه الصرف
+discharge energy test	اختبار طاقة التفريغ
+discharge expenses	مصاريف التفريغ
+discharge hydrograph	رسم التصريف (هيدروغراف)
+discharge inception test	إختبار بدء التفريغ
+discharge lamp	مصباح تفريغ
+discharge pipe	ماسورة تصريف / أُنْبوبة ضغْط / أنبوبة تصريف
+discharge pipe / outlet pipe / draft/draught tube	أُنْبوبة سَحْب
+discharge pipe; waste pipe	أُنْبوب تحويل مياه الصرف
+discharge point	نُقطة الصرف
+discharge power; discharge capacity	قُدرة التفريغ
+discharge process	تفريغ البطارية
+discharge rate	معدل التفريغ
+discharge register	سِجِلّ التصاريف
+discharge section line; gauging section	خَطّ مَقطَع التصريف
+discharge stack	أنبوب رأسي لمياه الصرف / مدخنة طرد
+discharge standard / release limit	معايير التفريغ / حدود الانبعاث
+discharge system	نِظام توجيه مياه الصرف
+discharge table; rating table	جدول تصريف / جدول الصرف
+discharge throttle; runout throttle; run out throttle; meter-out control	صِمام خانق للصرف
+discharge tube	أنبوب تفريغ
+discharge unit (DU)	مُعامِل الصرف
+discharge valve	صمام تصريف
+discharge velocity	سُرعة التصريف
+discharge, available	التدفق المتاح
+discharge, verb	يفرغ
+discharge-tube rectifier	مقوّم بأنبوب تفريغ
+discharge; drainage	تحويل
+dischargeable weight	وزن ممكن تفريغه
+discharged empty battery; discharged unfilled battery	بطارية غير مشحونة وغير مملوءة
+discharger	مفرّغ
+discharger, indirect	مكان تصريف غير مُباشر
+discharging berth of vessel	رصيف تفريغ السفينة
+discharging current of a capacitor	تيار تفريغ مكثف
+discharging equipment	مُنشَأَة المأخذ
+discharging of a capacitor	تفريغ مكثف
+discharging of timber	نقل الأخشاب
+discing	تَقَرُّص
+disclosure	إفصاح
+disco bag	حقيبة النادي الليلي
+disco glove	قفازات النادي الليلي
+discomfort glare	وهج مزعج؛ وهج غير مريح
+discone	هوائي مخروطي قرصي
+disconformity	تخالُف
+disconnectable busbar	قضيب تجميع قابل للفصل
+disconnectable remote control switch	مفتاح تحكم عن بعد قابل للفـك
+disconnectable time-delay switch; disconnectable TDS	مفتاح بتاخير زمني قابل للفك
+disconnected, adj	مفصول, صفة
+disconnecting switch	مفتاح فصل
+disconnecting switch reverser	عاكس مفتاح الفصل
+Disconnection	فصل
+disconnection,	فصل التغذية,
+disconnector	فاصل- سكينة فصل / قاطع سكينى / قاطع
+disconnector-fuse	مصهر - فاصل
+discontinuity	عدم استمرار / لااستمرارية
+discontinuous	غير مُستمر
+discontinuous control; intermittent control	ضبط مُتقطِّع
+discontinuous controller	ضابط متقطع
+discontinuous conveyor	ناقل غير مستمر
+discontinuous disturbance	إضطراب متقطع
+discontinuous fibres	ألياف متقطّعة
+discontinuous furnace	فرن غير مستمر
+discontinuous interference	تداخل (تشويش) متقطع
+discontinuous mode	تشغيل غير متواصل
+discordants	نشَازَات
+discount rate	معدل الخصم
+discounted cash flow	تدفق نقدي مخصوم
+discounted utility	خدمة عمومية بأسعار مخفضة
+discounting	خصم / استقطاع / حسْم / خصْم
+discovery service	خدمة إكتشاف
+discovery well	بئر الاكتشاف
+discovery well allowable production	إنتاج مقبول من بئر الاكتشاف، إنتاج (ال...) المسموح به من بئر الاكتشاف
+discrepancy switch	مفتاح تعارضي
+discrete	مُتقطّع
+discrete (semiconductor) device	جهاز شبة موصل منفصل
+discrete distribution of measurements	توزيع متقطع للقيم المقاسة
+discrete noise	لَغَطٌ متميّز، ضجيج غير مترابط
+discrete value	قيمة متقطعة
+discrete variable	متحول غير مستمر
+discrete, adj	متقطع, صفة
+discrete-time signal	إشارة متقطعة الوقت
+discrete-time variable	متغير متقطع الوقت
+discrete-value signal	اشارة قيمة متقطعة / إشارة متقطعة القيمة
+discrete-value variable	متغير متقطع القيمة
+discretely timed signal; discrete signal	إشارة (زمنيّة) منفصلة
+discretely timed signal; discrete-time signal	اشارة زمن متقطعة
+discretely-timed signal; discrete signal	إشارة على دفعات زمنية / إشارات متقطعة زمنياً
+discriminating selector	مفتاح اختيار تمييزي
+discriminating zone	منطقة متميزة
+discrimination ratio (of an antenna between two received waves)	نسبة تمييزِ (لهوائى بين موجتين مستقبلتينِ)
+discrimination; identification; recognition; resolution	تمييز
+discus	قرْص
+discussion thread	سلسلة مناقشات
+disease	مرض
+disease regulation	تنظيم المرض
+disengage condition	ظروف الإعتاق
+disengage hysteresis	تخلفية الانعتاق
+disengage ratio	زاوية الإنعتاق
+disengage time	زمن الإعتاق
+disengage value	قيمة الإعتاق
+disengage, verb	أعتق
+disengagement time	زمن فصل القابض
+disengaging drum	وعاء مساعد لفصل الغاز من النفط، وعاء الانطلاق
+disequilibrium	اختلال التوازن
+dish	طَبَق
+disharmonic folds	طَيَّات لا تَناسُقية
+disharmony	عدم انسجام
+dished channel fish pass	ممر سمك لقناة مُقَعرَّة
+dished flywheel	حدّافة وعائية
+dishing	تقعير
+disincentive (economic)	مُثْبِط (اقتصاديا)
+disinfectant	وسيلة تعقيم / مُطهِّر
+disinfectant contact time	زمن تلامس المطهر
+disinfecting	مطهر
+disinfection	تطهير / تعقيم
+disinfection (AC)	تطهير (مكيف الهواء)
+disinfection by-products	نواتج التعقيم الثانوية
+disinfection plant; system (chem.)	منظومة تعقيم (كيمياء)
+disinflation	تخفيض معدل التضخم
+disintegration	تفكُّك / انحلال / تفـتُّت
+disjointment	فصل المادة ميكانيكيا
+disjunction	فصل / اتحاد
+disjunction; OR operation; INCLUSIVE-OR operation; logical add	الانفصال؛ التباين
+Disjunctive normal form	نموذج فصل نظامي
+disk plate	لوحة القرص
+disk storage	تخزين على أقراص
+disk-seal tube	صمام قرصي محكم الاغلاق
+dislocations	اختلال الوضع
+dismantling	تفكيك
+disparity	تجمع رقمي لعناصر اشارة لتشكيل مجموعة
+dispatch system	نظام تحكم في التشغيل
+dispatcher	مرحل النفط أو الغاز (في خطوط الأنابيب)
+dispatching centre	مركز جدولة
+dispatching, sending station	محطة شحن
+dispenser cathode	مهبط موزع
+dispensing	توزيع
+dispensing sequence	تعاقب التوزيع
+dispensing; dispersal; resolution	تفريق
+dispersal	انتشار / تشتت
+dispersal area	منطقة الانتشار
+dispersant	وسيط تشتت / مشتِّت / مُشتِّت
+dispersed field heating	تسخين بالمجال المشتت
+dispersible soil	تربة قابلة للتشتت
+dispersing	تشتت
+dispersing agent	عامِل مُشتِّت / عَاقِدٌ مَاهِي / عامل تبعثر، منتج مُبَعْثِر
+dispersion	تَشتُّت / تشتُّت / تشتيت صوتي / تشتت / تبعثر / تفرُّق / تبدّد / تَشَتُّت / تشتيت / تشتت/انتشار
+dispersion (of an electromagnetic wave)	تشتت (لموجة كهرومغناكيسية)
+dispersion agent	عامل تشتيت
+dispersion coatings	طلاءات مشتتة
+dispersion coefficient	معامل التشتت
+dispersion error	خطأ التشتُّت
+dispersion hardening	تصلُّد التشتُّت
+dispersion model / propagation model	نمط التشتت
+dispersion pattern	نمط التشتُّت
+dispersion rate	معدَّل التشتت
+dispersion warhead	رأس قذيفة تشتيت
+dispersion/ scattering	تشتُّت
+dispersion; chromatic dispersion (redundant term)	تشتيت
+dispersive filter	فلتر التشتت؛ مرشح التشتت
+dispersive flux	تدفق مُشَتَّتْ
+dispersive medium	وسط مشتت
+dispersive, adj	مشتت
+dispersivity	تشتّتية
+disphenoidal	وتدي ثنائي
+displaced threshold	مَشْرِف مُزاح
+displacement	انتقال / إزاحة
+displacement angle; phase difference angle	زاوية إزاحة
+displacement compressor	مكثف إزاحة
+displacement current	تيار إزاحة / تيار الانزياح
+displacement current density	كثافة تيار إزاحة
+displacement efficiency	كِفَاية الإزاحة
+displacement four-vector	إزاحة رباعية الابعاد
+Displacement Impracticality	عدم جدوى الإزاحة
+displacement light	ضوء الازاحة
+displacement machine	آلة إزاحة
+displacement pump	المضخة الإزاحية / مِضَخَة إزاحيّة
+displacement pump / rotary pump	مِضخّة ترددية ودوَّارة
+displacement sensor based on eddy current	مُستشعر التيار الدوّامي لقياس المسافة
+displacement sensor using a resonant circuit	مُستشعر المسافة بتخميد المُذَبذِب
+displacement thickness	سماكة الإزاحة
+displacement transducer	حساس الإزاحة
+displacement work	شُغل إزاحي
+displacement; misalignment; relocation; translocation	إزاحة
+displacement; shift	إزاحة
+display	شاشة عرض / شاشة عرْض / مادّة مبرّزة
+display (for static meters)	ذاكرة (للعدّادات الساكنة)
+display gamma	عرض جاما
+display input/output characteristic	دخل /خرج شاشة العرض
+display machine	ماكينة عناوين
+Display Port	مَنْفذ شاشَةِ عَرْضٍ
+display primaries	أوليات العرض
+display storage tube	صمام تخزين العرض( عرض المعلومات )
+display surface	مسطح شاشة العرض
+display surround,	محيط شاشة العرض
+display type	حرف لعناوين
+display work	ابراز العناوين
+disposable container	وعاء يستعمل مرة واحدة، وعاء في المتناول، وعاء نَبُوذٌ
+disposable income	دخل قابل للتصرف
+disposable lift	رفْع التخلُّص
+disposable load	حِمل التخلُّص
+disposable party sets	طقم حفلات استعمال وحيد
+disposable textiles / disposables	ملابس وَحِيْدة الاِسْتِعْمَال / نسيج وحيد الاستعمال
+disposables	مستهلكات
+disposal	طَرْح / تخلص
+disposal / removal / wastes, radioactive – storage of	استبعاد
+disposal facilities	مرافق تخلص
+disposal of waste; waste disposal	تَخلّص من المُخلّفات
+disposal route	طُرُق تصريف النُّفايات
+disposal well	بئر تصريف المياه المالحة
+disposal/tipping fee	رسوم التخلص / المطرح
+Disposition module of ARAMIS system	وِحْدَةُ التَصَرُّفِ فِي نِظام "ARAMIS"
+dispute	نزاع
+disruption	اضطراب
+disruption in operation	اضطراب العملية
+disruptive discharge	تفريغ تمزيقى
+disruptive voltage	جهد التصدع
+disruptive-type spoiler	مُفْسد الرفع من النوع التصدُّعي
+dissected	مُجزَّأ
+disseminated ore	خام مُبعثَر
+dissenting opinion	رأي مخالف
+disservices	خدمة سيئة
+dissipatedpower	قدرة مُبدَّدة
+dissipation	إنقشاع- تبدد / تَبَددّ
+dissipation (of electric energy)	تبدد (الطاقة (الكهربائية)
+dissipation factor	عامل إنقشاعِ
+dissipation factor; loss factor	معامل الفقد
+dissipative	متبدد
+dissipative clothing	لباس مبدد للشحنة
+dissipative energy	طاقة مُبدَّدة
+dissipative footware	حذاء مبدد للشحنة
+dissipative losses	خسائر مبددة
+dissipative structure	بِنيَة تَبدِيدِيَّة
+dissipative use of products	استخدام ناشر للمنتجات
+dissipative, adj	مبدد, كهرباء ساكنة
+dissociate	فصل
+dissociation	تفكك
+dissolution	ذوبان
+dissolution weathering	تجوية بالانحلال
+dissolved air flotation (DAF)	تعويم الهواء المذاب
+dissolved gas drive	دفْع بالغازات المنحلَّة، تصريف بتمدد الغاز المنحل في النفط
+dissolved gase	غاز ذائب
+dissolved natural gas	غاز طبيعي مُنْحَلّ
+dissolved organic carbon	الكربون العضوي المذاب
+dissolved organic carbon (DOC)	كربون (ال...) العضويّ المنحل / كربون عضوي مُذاب
+dissolved organic matter	المادة العضوية الذائبة
+dissolved organic matter (DOM)	مواد عضوية منحلة
+dissolved oxygen	أكسجين مذاب
+dissolved oxygen (DO)	أكسجين منحل
+dissolved solid	مواد صلبة ذائبة
+dissolved solids	مواد صلبة منحلة
+dissolved substances in a fluid	مواد مُذابة في مائع
+dissolved-oxygen curve	مُنحنى الأكسجين المذاب
+distance	مسافة / فارق، فاصل
+distance assistant	مُساعد ضبط المسافة
+distance bar	قضيب مسافة
+distance between signals	مسافة بين الأشارات
+distance between trains	مسافة بين القطارات
+distance constant	ثابت المسافة
+distance control	نظام مُراقبة مسافة الأمان / نظام مُراقبة المسافة
+distance heating	نظام التدفئة عن بعد
+distance marker	علامة المسافة
+distance measurement by runtime measurement	قياس المسافة بقياس مدة الارتداد
+distance measuring equipment	أجهزة قياس المسافات
+distance piece	قطعة مباعدة
+distance protection; distance relay (US)	حماية (وقاية) مسافية
+distance relay	مُرَحِّل مسافة
+distance technique; air-gap technique	مسافة تقنية - شبكة هواء
+distance through casting compound	اقل مسافة موصلة خلال مركب مصبوب
+distance through filling material,	أقل مسافة تعبئة للمسحوق بين موصلين, عبوة المسحوق
+distance through solid insulation	اقل مسافة موصلة خلال عزل صلب
+distance under coating	اقل مسافة موصلة خلال عزل مطلى, الأجواء المتفجرة
+distance warning radar	رادار تحذير مسافة الأمان
+distance,	اقصر مسافة لمرور اللهب, وصلة ضد اللهب
+distance-baed cruise control	تثبيت السرعة للتحكم في المسافة
+distance; run	مسافة
+distant route indicator	مبين المسافة على المسار
+distant signal	اشارة عن بعد وقت الخطر / إشارةُ المَسافَةِ
+distant signal repeater	مُكَرِّرُ الإشارة القَبْلِيَّة
+distemper	طلاء مائي
+distension of wood	انتفاخ الخشب
+distillate	قطَارَة / قُطارة / ناتج تقطير / مشتق
+distillate / distilled water	ماء مقطر
+distillate fuel oils; middle distillate	قَطَّارات متوسطة
+distillate range	مَجَال القَطَّارَة، مجال الغليان
+distillation	تقطير
+distillation apparatus	جهاز تقطير
+distillation characteristics	سلوك الغليان
+distillation range	مجال التقطير
+distillation tower	برج التقطير
+distillation unit	وحدة تكرير
+distillation, membrane	تقطير غشائيّ
+distillation, multistage flash	تبخير فُجائي مُتعدد المراحل
+distilled water	ماء مُقطّر
+distillers dried drains (DDG)	حبوب جافة مُقطرة
+distillers wet grains (DWG)	حبوب رطبة مُقطرة
+distinctness-of-image,	صفاء الصورة,
+distored wave	موجة مشوهة
+distorted crystal	بِلُّورة مُشَوهَة
+distortion	تَشوُّه المقطع العرضي / فَتْل / تَشوُّه / تشويه / تشوُّه / تشوّه
+distortion limited operation	عملية محدودة بالتشتت؛ تشغيل محدّد بالتشويه
+distortion of envelope delay time,	تشوه زمن تأخير حزمة الإشارة
+distortion of long duration (of a picture)	تشوة لمدة طويلة (للصورة)
+distortion of short duration (of a picture)	تشوة لمدة قصيرة (للصورة)
+distortion,	التشوه (فى الإشارة) / تشوّه ( إشارة )
+distress frequency	تردد الاستغاثة
+distress signal	إشارة استغاثة
+distressed wash	طريقة الغَسْل المُمزِّقة
+distributed automation	أداء ألي موزع
+distributed collaborative intelligence	ذكاء تعاوني موزع
+distributed control	تحكّم موزّع
+distributed data processing; DDP	معالجة البيانات المتناثرة
+distributed data-processing	معالجة للمعطيات موزَّعة
+distributed energy generation	توليد مُوَزّع للطاقة
+distributed energy structure	هيكل طاقة لامركزي
+Distributed feedback control	ضبط بتغذية راجِعة مُوزَّعة / التحكم في التغذية المرتدة الموزعة
+distributed frame alignment signal	اشارات محاذاة اطار موزعة
+distributed generation	إنتاج غير ممركز / توليد من مصادر مستقلة / توليد مُوَزّع / توليد موزع
+Distributed Generation (DG)	توليد موزع
+distributed load	حِمْل موزَّع / حِمل موزَّع
+distributed mass-balance	توازن كتلة موزَّع
+distributed network	شبكة التوزيع
+distributed process computer system	نظام عمليلت حاسوبية موزعة
+distributed steel	شبكة حديد التسليح، حصيرة تسليح
+distributed storage system	خزَّان لامركزي
+distributed winding	ملف موزع / لفّ موزّع
+distributed, adj	موزع
+distributed-parameter system	نظام ذو مقدار متغير القيمة موزع
+distributed-parameter transfer element	عنصر تحويل لمتغير موزع
+distributing roller	اسطوانة موزّعة
+distribution	توزيع / توزيع (الطاقة)
+distribution (of types)	صندقة
+distribution basin	حَوْض توزيع
+distribution board	لوحة توزيع
+distribution cable	كبل توزيع
+distribution centre (freight)	مركز التوزيع (الشحن)
+distribution circuit	دائرة توزيع
+distribution coefficient	معامل التوزيع
+distribution curve / distribution graph	مُنحنى التوزيع
+distribution curve,	منحنى توزيع, شدة الاستضاءة
+distribution efficiency	كفاءة التوزيع
+distribution factor	عامل التوزيع
+distribution frame	إطار توزيع / مقسم؛ موزع
+distribution function	دالة التوزيع
+distribution function; cumulative distribution function	دالة التوزيع؛ دالة التوزيع التراكمى
+distribution function; partition function	دالة التوزيع
+distribution grid	شبكة توزيع
+distribution in cross section	مقطع مستعرض مُوَزَّع
+distribution line	خط توزيع
+distribution link; distribution circuit	وصلة توزيعِ
+distribution logistics (2)	إمدادات التوزيع (2)
+distribution losses	مفاقيد التوزيع
+distribution main	خَط توزيع
+distribution main / distribution pipe	خَطُّ الإمداد بالمياه
+distribution net work	شبكة توزيع
+distribution network	شبكة نقل وتوزيع / شبكة التوزيع / شبكة توزيع
+Distribution network operator (DNO)	مُشغِّل شبكة التوزيع
+Distribution networks	شبكات توزيع
+distribution of electricity	توزيع الكهرباء
+Distribution Operating Area	منطقة أعمال التوزيع
+Distribution Panel	لوحة التوزيع
+distribution pilar	عمود توزيع
+Distribution pipelines	خطوط أنابيب التوزيع
+distribution piping	أنبوب توزيع
+distribution point	نقطة توزيع
+Distribution Sector	قطاع التوزيع
+Distribution Service Provider	مقدم خدمة التوزيع
+distribution shaft	صندوق تقسيم
+distribution steel	قضبان توزيع
+Distribution Substation	محطة توزيع
+distribution system	نِظام التوزيع / نظام التوزيع
+distribution system operator; distribution network operator; distributor	مشغل نظامِ التوزيع؛ مشغل شبكةِ التوزيع؛ موزع
+distribution temperature	درجة حرارة التوزيع
+distribution temperature,	توزبع درجات الحرارة,
+distribution tube	خزان توزيع عُلْوي
+distribution undertaking; distributor	تعهد توزيع (مقاولة)؛ زبون
+distribution-board	لوحة توزيع
+distribution; generalized function	توزيع؛ دالة تعميمية
+distributive	توزيعي
+distributive justice; fair distribution	توزيع عادل
+distributive law	قانون التوزيع
+distributor	مُوَزّع / مُوزع الإشعال / موزِّع / موزع الأمهات
+distributor (gen.) / flow splitter	مَقْسَم
+distributor (turbine)	مُوَزِّع
+distributor bar	قضيب موزّع
+distributor fuel injection pump	مضخة حقن مُوزّعة
+distributor panel	لوحة الموزع
+distributor tester	جهاز اختبار الموزِّع، فَاحِص الموزِّع
+distributorless ignition (DIS)	نظام إشعال بدون مُوزّع (DIS)
+district (of a town, etc.)	قطاع
+District Cooling	تبريد المناطق / نظام تبريد المناطق، قطاعي
+district cooling system	نظام تبريد قطاعيّ
+district energy	نظام طاقة الحي
+District heating	تدفئة الضواحي
+district heating plant	محطة تدفئة حضرية
+District heating substation	محطة تسليم الحرارة
+district heating systems	أنظمة تدفئة حضرية
+district heating; urban heating	تدفئة حضرية
+disturbance	اضطراب
+disturbance / defect / fault / malfunction	اضطراب
+disturbance [variable]	مُتغيِّر التشويش
+disturbance and observation method	طريقة الاضطراب والملاحظة
+disturbance estimation	تقدير التشويش
+disturbance feedforward	تغذية أمامية بمُتغيّر التشويش
+disturbance feedforward control	تشويش تحكم التغذية الأمامية
+Disturbance of a control device	مقدار تشويش تجهيزة ضبط
+disturbance power; interference power (deprecated in this sense)	قدرة الإضطراب
+disturbance reaction in Laplace transform space	إجابة على الاضطرابات في المجال الترددي
+disturbance reaction, fault response	سلوك تشويشي
+disturbance recorder; perturbograph	مسجل الأعطال
+disturbance regime	نظام اضطراب
+disturbance response of the control system	إستجابة نظام التحكم للتشويش
+disturbance signal	شكل إشارة التشويش
+disturbance suppression	إخماد الاضطراب
+disturbance suppression,	أخماد الاضطراب,
+disturbance variable	متغير تشويش؛ متغير إضطراب
+disturbance variable of filling level control system	متغيرات التشويش بنظام التحكم في منسوب الملء
+disturbance voltage; interference voltage (deprecated in this sense)	جهد الإضطراب
+disturbance,	اضطراب,
+disturbance; turbulence	اضطراب
+disturbed channel	قناة مُشَوَّشة
+disturbed ecosystems	نظم بيئية مضطربة
+disturbed land	تربة مضطربة
+disturbed sample	عينة مضطربة
+disturbing channel	قناة تشويش
+disturbing moment	عزم اضطرابي
+disturbing noise	ضجيج مُشَوِّش
+Disulphide bond	جسور ثاني كبريتيد
+ditch	خندق / حَفِيرٌ، حفرة / حَفِيرٌ / خندق طولي / خندق، حفرة
+ditch / pit	خَنَدق
+ditch cuttings	أَنْقَاض الحفْر، فُتَاَت الحفْر
+ditch impoundment	حجز خندقيّ
+ditch impoundment irrigation	صرف خندقيّ
+ditch, open / drain, open / trench, open	خَنَدق مكشوف
+ditcher	حفارة الخنادق
+ditching	حط مائي / حفر الخندق / خندقة
+ditching characteristic	خاصية الحط المائي
+ditching device	جهاز الحط المائي
+ditching drill	تدريب الحط المائي
+ditetragonal pyramid	هرم رباعي مزدوج
+dither	إهتزاز
+ditrigonal	ثلاثي مزدوج
+ditter	ارتجاف / قلقلة
+ditto marks	علامات التكرار
+dity cargo	حُمُولة سوداء، حَاملة نِفْط خام
+diurnal fluctuation	تأرجحات (ال...) اليومية
+diurnal ozone concentration	تركيز الأوزون النهاري
+Diurnal Storage	تخزين يومي
+diurnal temperature range	نطاق درجة حرارة اليومي
+diurnal variation	تَغَيُّر التَصريف في اليومي
+diurnal variations	التغيرات اليومية
+divan	أريكة، متكأ
+dive bomber	قاذفة الانقضاض
+dive brakes	فرامل انقضاض
+dive-recovery flap	قلاّبة الخروج من الانقضاض
+dive; Pounce	انقضاض
+divergence	انفراج / تباعد
+divergence factor	عامل التباعد
+divergence loss	فقد التباعد
+divergence loss; spreading loss	فقد تباعدي
+divergence of laser beam	انحراف حزمة الليزر
+divergence speed	سرعة التباعد
+divergence,	تباعد / انفراج,
+divergent oscillation	تذبذب تباعدي
+diverging traffic streams	مرور مساعد
+diverse redundancy; diversity	وفرة متنوعة؛ تنوع
+diversification of energy supply	تنويع الإمداد الطاقة
+diversified production; mixed cropping; polyculture	محاصيل مختلطة; زراعة متعددة إنتاج متنوع
+diversion	انحراف / تحويل / تحويلة
+diversion bank	حاجز تحويل
+diversion canal	تحويل المياه
+diversion chamber	حُجرة تحويل
+diversion channel	قناة تحويل
+diversion dam	سدُّ تحويل
+diversion head	عُلُوّ التَحْويل
+diversion of the current	حرف التيار
+diversion power plant	محطة تَوليد طَاقَة بالتَحْويل
+diversion program	برنامج تحويل
+diversion rate	معدل تحويل
+diversion structure / weir / dam	‌مُنشأة الريّ الرئيسية
+diversion, re-routing	تحويل المسار
+diversion; transformation; xfer	تحويل
+diversity	تنوع / معامل التباين
+diversity (reception)	تنوع (الإستقبال)
+diversity factor	عامل التباين / عامل تباين
+diversity gain	كسب التباين
+diversity improvement factor	عامل تحسين التباين
+diversity of a signalling module	تنويع لوحدة ارسال الإشارات
+diversity receiver	مستقبِل تباعدي
+diverter	مقاومة تحويل
+diverter switch	مفتاح التحويل؛ مفتاح التبديل
+divided circle	دائرة مُدرَّجة
+divided collar	ياقة مُتَشَعّبة
+divided highway	طريق ذو مسلكين منفصلين
+divided landing gear	عُدّة حط منفصلة
+divided shielding	حجْب مجزَّأ
+divided support disconnector	فاصل دعم مقسم
+Divided Zone	المنطقة المقسومة
+Divided Zone Group (DZG)	مجموعة المنطقة المقسومة
+dividend	حصة الأرباح
+dividend right; dividend entitlement	حق في حصة من الأرباح
+dividends	أرباح المساهمين
+dividing box	علبة تفريغ
+dividing box; splitter box	صندوق تقسيم؛ صندوق تجزئة
+dividing door	باب فاصل
+dividing element	عنصر مقاسمة
+dividing wall / dividing groyne	حائط فاصل
+diving board	لوح الغثاء
+diving speed	سرعة الانقضاض
+division	تقسيمات التدريج / مجال (تخصّص شركة) / تقسيم
+division of labor	تقسيم العمل
+division order	تعهُّد بالتقسيم
+division pier	دعَامَة فَصْل
+division wall	حائط فاصل
+djellaba / djellabah / jellaba	جلابة
+DMD	تقنية المرايا الرقمية الدقيقة
+DME	وحدة إلكترونية للتحكم في المحرك
+dna (deoxyribonucleic acid)	د ن ا (الحمض النووي الريبوزي المنقوص الأكسجين) DNA
+dna help desk	مكتب مساعدة السلطة الوطنية المعينة
+DNA UF membrane	غشاء UF حمض نووي
+DNC machine	ألة ضبط عددي مباشر
+DO joint	وصلة DO
+dobby	دوبي
+Dobson Unit (DU)	وحدة دوبسون
+dobson units	وحدات دوبسون
+Doc Martens	أحذية دوك مارتينس
+dock	حوض، حوض سفن / حَوْض السفُن / صِقالة
+dock entrance	مدخل الحوض
+dock gate	بوابة الحوض
+dock leveller	مستعدل رصيف
+dock line	خط مينائي
+dock siding	مجانبة الأرصفة
+dock station	محطة بحرية
+dock trials	اختبارات بالحوض
+dock worker	عامل بالميناء
+docking	التحام / دفْع إلى الحظيرة
+docking bridge	ممشى التحويض
+docking phase	مرحلة الرُّسُوّ
+Docksteps	شبشب
+dockyard	ورش بحري، مَسْفَن
+doctor blade (wiping blade)	مكشط الحبر، سكين الازاحة
+doctor sweetening	تحلية دكتور، نزع الكبريت بالرصاصيت
+doctor test	رَائِز دكتور
+Doctorate in Renewable Energy Science Qualification Awarded: Doctorate/PhD	دكتوراه في علوم الطاقة المتجددة الشهادة المسلمة: شهادة الدكتوراه
+doctor’s white coat	وزرة طبية
+doctrine of correlative rights	مَذْهَب الحقوق المتقابلة
+document	وثيقة
+document facsimile equipment, Group 1	معدّة ناسوخ وثائق، المجموعة 1
+document facsimile equipment, Group 2	معدّة ناسوخ وثائق، المجموعة 2
+document facsimile equipment, Group 3	معدّة ناسوخ وثائق، المجموعة 3
+document facsimile telegram	برقية وثائقيةِ بالناسوخ
+document facsimile; black and white facsimile	ناسوخ وثائق
+document of title	رَسْم الملكية
+documentation	توثيق
+dodecahedron	ذو الاثني عشر وجها
+dog clutch	ترس بقابض كُلاّبي
+dog house	حجرة الحَفَّار، غرفة ملابس عمّال الحفر
+dog-legged chisel	إزميل معقوف الساق
+dogbone	كلاّبة عظميّة
+dogfight	معركة جوية
+doghouse	وِجار
+dogleg	ضالع / انحراف في ثُقْب البئر، انحناء مضاعف في أنبوب
+dogleg; warping	اعوجاج
+dogskin / dog skin	فرو الكلاب
+dogskin from China / dog skin from China	فرو الكلب الصيني
+dogtooth; sawtooth	أسنان نابيّة / ناب
+DOHC engine	محرك ذو عمود كامات علوية مزدوجة (DOHC)
+Dolan fiber	دولان®
+Dolanit	ألياف دولانيت
+doldrums	ركود استوائي
+doll's eye	عين الدُّمْيَة
+dolloping	تحضير موقع غرس شجرة
+dolly	مِنَصَّة متنقلة، قاطرة منخفضة، عربة نقل الأنابيب
+dolly roll	ساندة دوّارة
+Dolman sleeves	كم دولمان
+dolomite	دولوميت / دولميت / دولومايت
+dolomite refractories	حرونات الدولوميت الحرارية
+dolomite rock	دولوميت
+dolomitic sand rock	صَخْر رملي دولوميتي
+dolomitization	دَلْمَتَة
+dolphin	لسان ردمي
+DOM (ground)	دوم (تربة)
+domain	النطاق
+domain name	اسم النطاق
+domain name server; DNS (abbreviation)	إختصار (DNS)؛ خادم اسم النطاق
+domain name service; DNS (abbreviation)	إختصار (DNS)؛ خدمة اسم النطاق
+Domain Name System	نِظامُ أَسْماءِ النِطاقاتِ
+domain name system; DNS (abbreviation)	إختصار (DNS)؛ نظام اسم النطاق
+domain wall	حائط مجال / جدار نطاق - جدار المجال
+domatic class	صِنْف قُبي
+dome	قُبَّة / قبة / قُبة، سطح مقبب
+dome dam	سدّ مُقبب
+dome loudspeaker	مكبر صوت ذو قُبة
+dome trap	مَكْمَن محدَّب، مَصْيَدَة قُبِيَة
+domestic connection; house connection	وَصْلة منزلية رئيسية
+domestic environment	بيئة محلية
+domestic fuel	وَقُود منزلي
+domestic market	سوق داخلية
+domestic material consumption (dmc)	استهلاك محلي للمواد
+domestic requirement; domestic demand	احتياج محلي
+domestic reserves	احتياطي الرحلات الداخلية
+domestic robot, service robot	روبوت خادم
+domestic sanitary appliance	تجهيزات الصرف الصحيّ المنزليّ
+domestic service; internal service	خدمة داخلية
+domestic sewage treatment system/plant	وحدة مُعالجة مياه الصرف الصحيّ المنزلية
+domestic tariff	تعرفة منزلية
+domestic traffic	نَقْل داخلي
+domestic wastewater	مياه (ال...) العادمة المنـزلية
+domestic water use	مياه (ال...) المستخدمة المنـزلية
+domestication	تدجين
+domical vault (spherical vault)	قُبة، سطح مقبب
+Dominance	السَيْطَرَةُ
+dominant	سائد
+dominant mode (in a waveguide); fundamental mode (deprecated)	نمط سائد (في دليل موجي)
+dominant wavelength,	طول الموجة السائد,
+Domy®	دومي®
+Donegal	دونجال
+donnan effect	تأثير دونان
+Donnan potential	جهد دونان
+donor	مانح / معطى
+donor agency	وكالة مانحة
+donor level	مستوى المانح
+door	باب
+door -sill; door step	وصيد، عتبة الباب
+door bundle	حزمة الباب
+door case	إطار الباب
+door catch plate	لوحة مزلاج الباب
+door cylinder (MTS)	أسطوانات الأبواب (نظام MTS)
+door cylinder ETS	أسطوانات الأبواب (نظام ETS)
+door cylinder with double-sided	أسطوانات أبواب بخاصية التخميد المزدوج
+door fixed by threaded fasteners; cover fixed by threaded fasteners	باب مثبت بواسطة مفصلات حلزونية؛ غطاء مثبت بواسطة مفصلات حلزونية
+door handle	مقبض الباب / حلق الباب، إطار الباب
+door hinge	مفصلات الأبواب
+door jamb	حلْق الباب
+door latch control	تجهيزة تشغيل قفل الباب
+door latch locking control	تجهيزة تشغيل نظام تأمين قفل الأبواب
+door leaf	مقبض الباب
+door nail	مسمار الباب
+door of enbrasure	قائم الباب، عضادة الباب
+door panel	كسوة الباب / لوْح الباب
+door plate	صفيحة الباب
+door post	قائمة الباب
+door pull	مِقْبَض سَحْب الباب، مِقْبَض الباب
+door push plate	لَوْحَةُ دَفْع الباب
+door pushbutton	زر الباب
+door rebate	فرْز الباب
+door rotory drive	تحريك دوّار للباب
+door sensor (MTS)	حساس الباب (نظام MTS)
+door sill protector	لوح عتبة الباب
+door stop	مِصَدُّ الباب
+door stud	صفق الباب، مصراع
+door valve ETS	صمام الباب (نظام ETS)
+door valve MTS	صمام الباب (نظام MTS)
+door with two leaves	باب بمصراعين
+door-frame	باب فتحة التهوية أو الإنارة
+door-hinge rotor	دوّار مفصلة الباب
+door-jamb	حشوة الباب، لوحة الباب
+door-knob transformer	محول مقبض باب
+door-panel	قائم الباب
+door-post	عتبة
+door-to-door	من باب إلى باب
+door-to-door delivery	تسليم مباشر
+door-to-ramp	من باب إلى منحذر
+doorstep	قائم الباب
+doorway	فتحة الباب / مدخل
+dopant	مقوي؛ إضافة للتقوية
+dope	دِمام / مهيّئ الحبر / شَحْم، مُضَاف
+doped fuel	وقود مُعالَج بالدمَام
+doping	معالجة بالدمَام / إشابة
+doping (=doctoring)	تعديل خصائص الحبر
+doping (of a semiconductor)	اضافة شوائب (لاشباه الموصلات)
+doploc	قُفْل دوبلر
+doppi	دوبي
+Doppler beam sharpening	شَحْذ شعاع دوبلر
+Doppler correction	تصحيح دوبلر
+Doppler effect	تأثير دوبلر / ظاهرة دوبلر
+Doppler effect in flow measurement	ظاهرة دوبلر في قياس مُعدَّل التدفّق
+Doppler error	خطأ دوبلر
+Doppler hover	حَوَمان دوبلر
+Doppler navigation	ملاحة دوبلر
+Doppler radar	رادار دوبلر
+Doppler ranging; Doran	مدى دوبلر
+Doppler shift	إزاحة دوبلر
+Doppler velocity and position	قياس دوبلر للسرعة والموقع
+Doppler velocity logger	جهاز دوبلر لقياس سرعة التيارات المائية
+doric order	طراز دوري معماري
+Dorix®	ألياف الدوريكس ®
+Dorlastan®	دورلاستان ®
+dormancy	سُبات
+dormant fault,	خطأ خامد،,
+dormer	مَنْوَر
+dormer window	روشن
+dormitory	منامة، مَرْقد
+Dorra gas field	حقل الدرة الغازي
+dorsal	ظهري
+dorsal fin	زعنفة ظهرية
+dorsal spine	عمود ظهري
+dorsal stripe	خط الظهر
+Dortmund tank	حَوْض دورتموند / بئر دورتموند
+dosage	جرعة / معايرة / تجريع
+dose	جرعة
+dose (deprecated)	جرعة (لا ينصح باستعمالها)
+dose equivalent	مكافىء الجرعة
+dose equivalent index (at a point)	دليل مكافىء الجرعة(في النقطة)
+dose equivalent limit; maximum permissible dose equivalent (deprecated)	حد مكافىء الجرعة
+dose equivalent rate	معدل مكافىء الجرعة
+dose fractionation	تجزئة الجرعة
+Dose Limit	الحد الأقصى للجرعة
+dose protraction	إطالة الجرعةِ
+dose rate	معدل الجرعة / معدَّل الجرعة
+dose rate contour line	خط منسوب معدَّل الجرعة
+dose ratemeter	مقياس معدل الجرعة
+dose response curve	منحنى استجابة الجرعة
+dose,	جرعة, الكشف عن الغاز / جرعة,
+dose-meter	مقياس الجرعة الاشعاعية
+dosemeter	مقياس الجرعة
+dosimeter	مقياس الجرعة
+dosimetry	قياس الجرعات
+dosing device; dosing feeder	جهاز مُعايَرة
+dosing equipment	جِهاز التعيير
+dosing point; dosing station	نقطة مُعايَرة الجرعات
+dosing pump	مِضخَّة مُعايَرة الجرعة / مضخة جرعات / مضخة القياس
+dosing station	محطة مُعايَرة الجرعات / محطة التجرع
+dot	نقطة طباعية
+dot (in Morse code)	نقطة (في شفرة مورس)
+dot formation	تكوين النقطة الطباعية
+dot frequency	تردد نقطةِ
+dot sequential colour television system	نظام تلفاز ملون تتابعي النقطة
+dots / polka dots / pointillé	مُرَقَّط
+Dots per Inch	نقطة لكل بوصة (DPI)
+dotted line	خط منقّط / خط متقطع
+dotted line recorder	مسجّل نقطي
+double	مزدوج
+double (doublet)	جمع مكرّر
+double air conditioner	مُكيّف الهواء المُزدوج
+double arming full thread bolt	مسمار كامل التسنين للربط المزدوج
+double axle (ABS/ASR)	محور مزدوج (نظام منع غلق العجلات (ABS)/ نظام التحكم في الجر (TCS))
+double bed	سرير مزدوج
+double bellows	مانع تسرب مُنفاخي مزدوج
+double belt conveyor	حزام ناقل مزدوج
+double blank parachute	مظلة مزدوجة القَطْع
+double board	مِنَصَّة العمل
+double box	أنبوب توصيل بلولب أنثى من الطرفين
+double branch-joint; double tap off	وصلة فرعية مزدوجة؛ وصلة تفريع مزدوجة
+double bridge	جسر مزدوج
+double busbar substation	محطة ثنائية قضبان التجميع
+double cab; dual cab	قَمْرَة مزدوجة
+double cantilever beam	عارضة تقوّس مزدوجة
+double carburetor	مكربن مزدوج
+double carpet	سجاد مزدوج
+double catenary construction	تركيب سلسلي مزدوج
+double catenary equipment	مهمات خط تعليق مزدوج
+double circuit line	خط مزدوج الدارة
+double circuit semi-vertical configuration	شكل شبه رأسي مزدوج الدارة
+double circuit vertical configuration	شكل رأسي مزدوج الدارة
+double clear-coat finish	طلاء بيانو
+double coated paper	ورق كثيف الطلية
+double collar	ياقة مزدوجة
+double column paper	صفحة مجموعة على عمودين
+double command	أمر وحيد
+double commutator motor	محرك بمجمع مزدوج
+double converter	مغير مزدوج
+double cord lap fabric	قماش مزدوج
+double core barrel	مِسبار مزدوج الجدران
+double counting of services	عد مضاعف للخدمات
+double covered yarn	خيط غزل مزدوج اللف
+double crepe	كريب مزدوج
+double cross-over	أشرطة مزدوجة
+double crucible technique	تقنية البوتقة المزدوجة
+double cuff	كم مزدوج
+double current transmission	نقل (ارسال) تيار مزدوج
+double curvature	انحناء ثنائي / تقوّس ثنائي
+double cycle	دورة مزدوجة
+double cylinder machine	ماكينة طبع باسطوانتين
+double deck container	حاوية مزدوجة الأرضية
+double delta	دلتا ثنائية / مثلثي ثنائي
+double density yarn / multiple yarn	خيط مضاعف الكثافة
+double designation	تخصيص مزدوج / تعيين ثنائي
+double dilution dewaxing	إزالة الشمع بالتمديد المزدوج (على مرحلتين)
+double diversity (reception)	تباين مزدوج (استقبال)
+double door	باب مزدوج
+double drift	انسياق مزدوج
+double earth fault [UK]; double ground fault [US]	عطل أرضي مزدوج
+double elbow	كُوع مُزدوِج
+double engine	محرك مزدوج
+double error	خطأ مزدوج
+double exposure	تعريض مزدوج
+double flanged	ذو شفة مزدوجة، مزدوج الشفة
+double flanged gate-valve	صِمام بوابيّ مزدوج الشفَهَ
+double flap	سَديلَةٌ مُزْدَوِجَةُ
+double flap dam	بسَديلَةٌ مُزْدَوِجَةُ سَدّ
+double float	عَوَّاَمة مزدوجة
+double focus tube	انبوب ذو مُرًكز مزدوج
+double gates	بوابة مزدوجة
+Double glazing	تزجيج مزدوج
+double half-barrier level crossing	معبرتقاطع بنفس المستوى ذو حاجز نصفى مزدوج
+double halides	هالوجينات مزدوجة
+double heading	سير بجر ثنائى
+double hull	هيكل سفينة مزدوج، بَدَن مزدوج
+double insulation	عزل مزدوج
+double insulation earth fault	عطل عزل بين خطين و الأرضى
+double iron plane	سمحاج ثنائي النصل
+double jersey	جيرسيه مزدوج
+double junction tandem solar cell	خلية ضوئية جهدية متعددة الوصلات ثنائية الوجه
+double kidney grille [UK] / double kidney grill [US]	شبكية الرادياتير المزدوجة
+double knit	قماش تريكو مزدوج
+double layer	طبقة ثنائية
+double layer tights	جوارب مزدوجة
+double leaf gate; lifting hook type	بوابة هدّار مزدوجة خطافية
+double longitudinal link axle	محور ذو أذرع تعليق طولية مزدوجة
+double measure	ثنائي القياس
+double modulation	تضمين مزدوج
+double motor	محرك مزدوج
+double open-ended spanner [UK] / double open-ended wrench [US]	مفتاح مفتوح الطرفين
+double phantom circuit	دارة وهمية مزدوجه
+double pin	أنبوب توصيل بلولب ذكر من الطرفين
+double pinion drive	الإدارة بترسي بنيون
+double piston engine	محرك ذو كباسين متضادين
+double platform	مِنَصَّة مزدوجة
+double pressure gauge [UK] / double pressure gage [US]	مانومتر مزدوج الضغط
+double projection	إسقاط مضاعف
+double rail	سكة مزدوجة
+double refraction	انكسار مزدوج
+double release valve	صمام إعتاق مزدوج
+double rib	تضليع مزدوج
+double roller chain	جنزير مزدوج الدحاريج
+double roof	سقف مزدوج
+double seizure	حجز مضاعف
+double shock absorber	وسادة ثنائية الثنيات
+double shut-off valve	حابس مزدوج
+double sideband; DSB (abbreviation)	نطاق جانبى مزدوج
+Double Slip	الإنزلاق المزدوج
+double slotted flap	قلاّبة مزدوجة الشقّ
+double socket	مقبس مزدوج
+double spark coil	ملف إشعال مزدوج الشرارة / ملف إشعال مزدوج الشرارة DFS
+double stake wagon	عَرَبَة مزدوجة الركاز
+double stretch elastic / two-way elastic	مطاطي ثنائي السحب
+double studded	مسمار رسْغ مزدوج
+double surface dressing	طِلَاءٌ ثُنَائِيُّ الْفَرْشَةِ / رَصف سَطحِيّ مُزدَوَج
+double switch	مفتاح مزدوج
+double taper	مُستَدِقّ الطرفين
+double time stamp	ختم زمنى مزدوج
+double tone ink	حبر ملون
+double track	مسار مزدوج
+double traction	جر مزدوج
+double tramway equipment	مهمات خط تلامس ثنائى للترام
+double tube	صمام مزدوج
+double tube core barrel	برميل تقوير ذو أنبوب مزدوج، قوارة مزدوجة الأنبوب
+double twill	نسيج مبرد مزدوج
+double twist fabric	نسيج من خيط مزدوج البرم
+double valve	صمام مزدوج
+double velvet	نسيج وبري مزدوج
+double wall	حائط مزدوج / جِدَار مزدوج / جدار مزدوج
+double warren redundant support; double lacing redundant support	تركيبة عل شكل المعين
+double warren; double lacing	ربط شبكي ثنائي
+double weave	تركيب نسجي مُتطابق الوجهين / قماش مزدوج
+double weaver’s knot	عُقدة نساج مزدوجة
+double welt / edge	حاشية مزدوجة
+double wishbone axle	محور بذراعي تعليق عرضيين
+double wishbone axle system	نظام محاور مزدوج الشعبة المثلثة
+double wishbone suspension	مجموعة تعليق العجلات ذات أذرع تعليق عرضية مزدوجة
+double word	كلمة مزدوجة
+double wound synchronous generator; double-winding synchronous generator (US)	مولد تزامني بملف مزدوج
+double-acting pump	مضخة مزدوجة الفعل
+double-base propellant	وقود دفعي ثنائي القاعدة
+double-bodied tanker	ناقلة مزدوجة البدن
+double-break disconnector	فاصل ذو انقطاع مزدوج
+double-break switch	مفتاح مزدوج الفصل
+double-breasted jacket	بذلة بصفين من الأزرار
+double-breasted suit	بذْلَة مزدوجة الأزرار
+double-bubble	ثنائي الفقاعة
+double-check system	نظام المراقة المزدوجة
+double-circuit fault	عطل على دارتين (متوازيتين)
+double-cone synchronisation [UK] / double-cone synchronization [US]	تزامن مخروطي متقابل
+double-deck settling basin	حَوْض ترسيب مُكوَّن من طابقين
+double-decker	حافلة ذات طابقين
+double-decker bus	حافلة بطابقين
+double-decker coach	عَرَبَة ذات طابقين
+double-delta connection	وصلة دلتا المزدوجة
+double-edged	ذو حدين
+double-emulsion film	فيلم ثنائى الطبقة الحساسة
+double-ended marshalling yard	محطة فَرْز من الجهتين
+double-ended ring spanner [UK] / double-ended ring wrench [US]	مفتاح حلقي الطرفين
+double-ended socket spanner [UK] / double-ended socket wrench [US]	مفتاح صندوقي بطرفين
+double-ended synchronization	تزامن ثنائى الطرف
+double-entry compressor	ضاغط مزدوج المدخل
+double-face	قماش ذو وجهين
+double-face adhesive	شريط لاصق من الوجهين
+double-face bedding	غطاء مزدوج
+double-face fadeout	قمش مزدوج باهت
+double-face loden	قماش لودن ضد الماء مزدوج الوجه
+double-faced	مزدوج الوجه أو السطح
+double-fed machine	آلة مزدوجة التغذية
+double-flow	سريان مزدوج
+double-gun cathode-ray tube	صمام الاشعه المهبطيه ذو القاذف المزدوج
+double-head bender	ماكينة حني برأس مزدوجة
+Double-Heading	الجر المزدوج
+double-hinged rudder	دفّة مزدوجة المفاصل
+double-lapped joint	عامل الكتلة النشيطة (الفعّالة)
+double-layer capacitors	مُكثّفات ثنائية الطبقة
+double-layer trousers	سروال مزدوج
+double-layer winding	لف بطبقتين
+double-lead screw	لولب مزودج
+double-lined fabric	نسيج تبطين مزدوج
+double-mass flywheel	حدّافة مزدوجة الكتلة
+double-pivot steering	توجيه بالرُّكب المفصلية
+double-point information	معلومات نقطة وحيدة
+double-protection honeycomb	إنشاء خلايا العسل مزدوج الحماية
+double-rail track circuit	دائرة مسار مزدوج للسكة الحديد
+double-reduction gearing	تعشيق بتخفيض مزدوج
+double-root blade	ريشة مزدوجة الجذر
+double-row engine	محرك مزدوج الصفوف
+double-seat valve	صمّام بمقعدين
+double-sided field system	نظام مجال مزدوج الوجه
+double-sided knitted fabrics	تريكو مزدوج الوجه
+double-sided printed board	لوحة مطبوعة على وجهين
+double-sleeve joint	وصلة مفصلية ثُنائية الجلبة
+double-slip switch	تقاطع مزدوج العبور
+double-stack	مراحل ثنائية لحملية شحن الحاوية
+Double-Stack Wagon	عَرَبَةُ الرَصْفِ المُزْدَوَجِ المُتَعَدِّدَةُ الوَسائِطِ
+double-suction pump	مِضخَّة مزدوجة السحب
+double-throw switch	مفتاح بسكتين
+double-tie	ربطة مزدوجة
+double-track line	مسار مزدوج
+double-wall cofferdam	سَدُّ إنضاب مزدوج الجدران
+double-way connection (of a converter)	وصلة ذات إتجاهين للمغير
+double-way connection,	طريقة وصل مزدوجة,
+double-wedge aerofoil	منساب هوائي مزدوج الإسفين
+doubler	مُضاعِف
+doubles	قطاع من أنبوبين متصلين
+doublet	ثنائية / زَوْج
+doublet antenna	هوائي ثنائي
+doublet; 2-bit byte, US; doublet byte; DEPRECATED: dibit	مجموعة أعداد ثنائية من خانتين / مجموعة أعداد ثنائية من (2 خانة )
+doubling-folding	تجميع
+doubly gap-graded curve	منحنى مزدوج الانقطاع
+doughnut	كعكة / حلقة ساندة لأنابيب الحفر (أو التغليف)، أنبوب مدوَّر على شكل حلقة
+doughnut; ferrule; ring	حلقة
+douplon	دوبلون
+dovetail	تعشيقة، وُصلة ذيل حمامة / تعشيقة
+dovetail brick	آجر تعشيق
+dovetail collar	ياقة مُسْتَدَقَّة
+dovetail saw	منشار التعشيق، منشار ذيل الحمامة
+dow jones sustainability index	مؤشر داو جونز للاستدامة
+dowel	خابور / دِسَار / دسار / قِطْعة وَصْل
+dowel bar	قضيب دسار
+dowel bit	نصلة دسار
+dowel hole boring machine	ثقّابة للدسر
+dowelled jointing	وُصَل بِدُسُر
+dowlas	دولاس
+down	عاطل / معطوب
+down collar	طوق منسدل
+down duration; outage duration	فترة عدم الجاهزية؛ فترة الخروج
+down hole pump	مِضَخَّة قعْر البئر
+down hole turbine	عَنَفَة حفر، حَفَّارة عنفية
+down percale	قماش بركال
+down throw side	جَانِب الْمَرْمَى السفلي
+down time; down duration	زمن التوقف؛ فترة توقف
+down to the nut cutting	نقطة حاسمة
+down twill	نسيج مبرد وبري
+down-comer	مَصْرَفٌ
+down-converter	محول خافض للتردد
+Down-draft gasifier	مُغوز ذو سحب سفليّ
+down-lead (of an antenna)	الطرف النازل ( للهوائي )
+down-link	وصلة هابطة
+down-look radar	رادار سفلي / رادار ناظر للأسفل
+down-proof	تجهيز مانع
+down-proof fabric	نسيج رفيع
+down-stream sampling line	خط اعتيان نازل
+downburst	انفجار سفلي
+downcomer	مَاسُورَة نازِلَة
+downcutting	قطْع سفلي
+downcycle	دورة تراجعية
+downdraft	تيار هابط
+downdraft carburetor	كاربوراتير بسحب سفلي
+downdraft carburettor	مُفَحِّم التيار الهابط
+downdraft gasifier	مُغوّز ذو سحب سفلي
+downed aircraft	طائرة مُسْقَطَة
+downed woody debris	حطام خشبي
+downflow baffle; scumboard; skimmer wall	لوح الغُثاء
+downgrade	مُنْحَدَر
+downgrading	تنزيل الدرجة
+downhole motor	محرك تحت الأرض
+downlight	الضوء الساقط
+downlink data	معلومات الربط النازلة
+download	تنزيل برنامج / إنزال الحِمل / حِمل للأسفل
+downpipe	ميزاب
+downpipe, gutter pipe	ماسورة نازلة، أنبوب تصريف المياه
+downpour	زخة مطرية
+downrange; proliferation; span	امتداد
+downscaling	تقليص النطاق
+downsizing	تحجيم
+downstage	نزول مرحلي
+downstream	خَلْفيّ / تيار في اتجاه المَصب / ضد التيار / سافلة النهر / مصب النهر / باتجاه المجرى السفليّ / باتجاه حركة الشريط / أعمال المصب / صناعات لاحقة (تكرير وتصنيع) / في اتجاه التيار
+downstream chromakey	تغشيّة إنسيابيّة
+downstream face	جانب الصّبَب
+downstream face of a dam	ظهر السدّ
+downstream face of a weir	وَاجِهَة الهَدَّار ناحية الصَبَب
+downstream floor	أرضية الصّبَب (أرضية النهر ناحية مهبط التيار المائيّ)
+downstream toe	قدمة خلفية
+downstream toe line	خط القدم الخلفية (في السدود)
+downstream undersluice channel	قناة ممرات الحتات الخلفية
+downtime	زمن التوقف
+downtime، down time	فترة التوقُّف
+downward compatibility	تَوَافُق (تساوُق) هابط، تلاؤُم نازل
+downward current; falling current (deprecated)	تيار هابط
+downward flux fraction	نسبة تدفق منحدر
+downward flux,	تدفق منحدر,
+downward identification light	ضوء التعريف السفلي
+downward light output ratio; DLOR	نسبة خرج ضوء منحدر
+downward slope	انحدار الأرض
+downwash	اجتراف سفلي / انجراف سفلي
+downwelling	غوص المياه
+downwind	مع إتجاه الرياح / باتجاه الريح
+downwind leg	ساق باتجاه الريح
+downwind machines	توربينات في اتجاه الريح
+downzoning	تقسيم لأسفل
+Dowty Retarder	مُؤخِّر دوتي
+dozer	'دوزر' (Dozer) / دَفَّاعَةُ تراب، جَرَّافَة
+dozer blade	نَصْلُ الجَرَّافة
+dozer, bulldozer, crawler	آليات تجريف وتسوية
+Dqo transformation	تحويل مُباشر من التعامد إلى الصفر (Dqo)
+Dracone	دراكون
+draft	تغيير نمط الدفع / تصميم أولي / رسم تمهيدي، رسم أولي
+draft standard	مُسَوَّدة مواصفة قياسية
+draft stop	صَادُّ الحريق
+draft tube	أنبوب سَحْب
+draft; draught	مسحوب الماء، غاطس (السفينة)
+draft; draught tube; suction pipe	ماسُورة سَحْب
+drafting group	فريق الصياغة
+drafting table or drawing board	طاولة الرسم
+draftsman	رسّام
+drag	منحدر حَادّ / كبح المائع / كبح / مقاومة الهواء
+drag anchor	ركيزة تثبيت، مِرْسَاة تثبيت
+drag area	مساحة الكبح
+drag axis	محور الكبح
+drag bar	قضيب جرّ
+drag bit	مِثْقَب نَصْلِي، مِدَقّ ذو شَفْرَات
+drag bracing	دعامة الكبح
+drag chain conveyor (1)	ناقل سلسلة السحب (1)
+drag chain conveyor (2)	ناقل سلسلة السحب (2)
+drag chute; drag parachute	مظلة كبح
+drag coefficient	مُعامل Cw / مُعامِل الكبح
+drag curve	منحني الكبح
+drag fold	طَيَّةٌ انزلاقية، طَيَّة السَّحْب
+drag hinge	مفصل الكبح
+drag link	وصلة كبح
+drag member	عضو الكبح
+drag ore	ركَازٌ مَسْحُوق
+drag polar	قطبي الكبح
+drag rib	ضلع كبح
+drag rope	حبل الكبح
+drag strut	عضو انضغاط الكبح
+drag wires	أسلاك الكبح
+drag-chute limit	حد مظلة الكبح
+drag-weight ratio	نسبة الكبح إلى الوزن
+dragline	مِرْفاعٌ ذو قَحَّافة مُنْسَحِبَة
+dragline excavator	حَفَّارَة كابل
+dragon's blood	مسحوق دم التنين
+dragon-beam	زافرة
+drain	مصفاة حقلية / مصرف / مَصْرِف مائيّ / مَصْرِف
+drain (drainage channel)	مَصْرِف
+drain (of a field-effect transistor)	مصرف (لترانزستور محكوم بالمجال الكهربائي)
+drain cock / sludge cock / screw-down bibcock / blow-off cock	صنبور تصريف
+drain depth	عمق أنبوب الصرف
+drain division	مجمع المصارف
+drain filter	مِصفاة المَصْرِف
+drain pipe / sewer pipe	أُنْبوب مياه الصَّرْف الصحيّ
+drain pipe socket	جلبة وصل أنبوب الصرف
+drain pipe trench	خندق أنبوب المَصْرِف
+drain plug	صَمَام تَصريف
+drain prism; filter layer	منشور مَصْرِفيّ / منشور المَصْرِف
+drain running parallel to contour lines	مصرف مائيّ عرضيّ
+drain system	نظام تَصريف
+drain tile	أنبوب الصرف
+drain trench	خندق مَصْرِفيّ / خندق تَصريف
+drain valve	صمام تصريف الماء / صمام تصريف، صمام تفريغ
+drain well / relief well / pressure relief well	بئر تخفيف / بئر صرف
+drain wire; continuity wire	سلك موصل بالستارة أو الدرع؛ سلك استمرارية
+drain, buried / drain, covered / drain, subsurface / underdrain	مَصْرِف مدفون
+drain, lateral; collecting drain; collector drain	مصَرْف مجمع
+drain, longitudinal	مَصْرِف طوليّ
+drain, seepage	مَصْرِف تَسَرُّب
+drain, subsoil	أنبوب صرف تحت سطح التربة
+drain; draining device	وسيلة تصريف
+drain; outlet	مَصْرِف
+drainage	صَرْف / صرف / تفريغ الْمِياه، صَرْف المياه / تصريف الماء / تصريف / تصريف، نزْح
+drainage (soil)	صرف سطحي للمياه
+drainage area	مِساحة المصْرِف / منطقة التصريف المائي / منطقة صَرْف
+drainage area (basin)	حوض الصرف
+drainage area / water catchment area / recharge area	مستجمع صرف
+drainage basin	حوض التصريف / منطقة مستجمعات المياه/حوض النهر
+drainage benefit	فائدة الصرف
+drainage blanket	بساط تصريف الماء
+drainage channel	قناة صَرْف / مَفَاض
+drainage coefficient	مُعامِل صَرْف
+drainage course	عِرْقُ النّزْح، مَجْرَى الصّرْف
+drainage culvert / supply culvert	بَرْبَخ صَرْف
+drainage degree	درجة كفاءة التصريف
+drainage density	كَثافة الصَّرْف / كثافة الصرف
+drainage depression	منخفض تصريف
+drainage ditch	مجرى تصريف
+drainage divide	فاصل مائيّ
+drainage flood	فيضان مطري
+drainage head	عُمْق الصَّرْف
+drainage length	طُول مجرى الصَّرْف
+drainage line	خط تصريف
+drainage path	مسار التصريف
+drainage pattern / drainage system	نِظام صَرْف
+drainage pattern, radial	نظام صَرْف شُعاعيّ
+drainage pipe / sanitary drain	أُنْبوب صَرْف صحيّ
+drainage plan	خطة صَرْف
+drainage sewer	مَجرى صَرْف
+drainage shaft / drop shaft'	بئر امتصاص
+drainage system	نظام التصريف / محطة إزالة المياه
+drainage system (drains)	نِظام الصَّرْف الصحيّ (لقطعة أرض خاصة)
+drainage system, siphonic	نِظام صَرْف ذو جَرَيان مضغوط
+drainage system, urban	نِظام صَرْف مدنيّ
+drainage system; discharge system	نِظام الصرف الصحيّ للمباني
+drainage unit	وحدة النَّزْح، وحدة التَّصْرِيف
+drainage water	مياه الصرف
+drainage well	بئر صَرْف / بئر صرف
+drainage, agricultural	صَرْف زراعيّ
+drainage, area demanding	مِنطقة بحاجة لإنشاء شبكة صرف بها
+drainage, artificial	صَرْف صناعيّ
+drainage, inherited / drainage, superimposed / drainage, superposed	صَرْف متوارث
+drainage, natural	صَرْف طبيعيّ
+drainage, open channel	صَرْف بواسطة خندق مكشوف
+drainage, trenchless	تركيب قنوات الصرف بدون حفر
+drainage, urban	صرف داخل المدن
+drainage-type terraces; cross-slope ditch system	مصارف قاطعة للانحدار
+drainback system	نظام تصريف راجع
+drained charged battery	نضيدة مشحونة تم تفريغها من المحلول الالكتروليتي
+drainpipe trousers / drainpipes	سروال أنبوبي
+drains, joint / wells, vertical / drains, vertical	مصارف رأسية
+Dralon®	درالون®
+drapability of materials	انسدالية
+drape	تنجيد
+drapery	تلفيف
+draping	تَلْبِيس
+drapé	ستار
+draught (draft)	تيار هوائي
+draught aft	غاطس المؤخّرة
+draught forward	غاطس المقدّمة
+draught line	خط الغاطس
+draught of swing door	باب دوّار
+draught strip	شريط منع تسرب الهواء
+draughtsman	رسّام
+dravite	درافايت
+draw lead bushing	عازل نفاذ ذو موصل قابل للنزع عارضة ذات موصل قابل للنزع
+draw off line	أنبوب التفريغ
+draw sheet	فرخ الشد العلوي
+Draw Textured Yarns	خيوط غزل مزخرفة
+draw works	مِلْفَافُ الْحَفْر، أجهزة رافعة
+draw-bar pull	سحب قضيب الجر
+draw-cord	مِزرّ
+draw-down of water level	انخفاض مَنسوب الماء
+draw-leaf table or extending table	طاولة ممتدة
+draw-off statement	بَيان السحْب
+draw-off; drawoff	تصريف بالسحب
+draw-through air handling unit	وحدة مناولة الهواء بالسحب
+drawbar	قضيب
+drawbar pull	قوة الجر
+drawbar tractor	عربة قاطرة
+drawbridge	جِسْرٌ مُتَحَرِّك
+drawdown	خفض منسوب المياه / هبوط المنسوب المائيّ / انخفاض / تجريف
+drawdown (lowering of water table)	خَفْض (منسوب المياه)
+drawdown level	مُستوى هبوط منسوب المياه
+drawer	جارور، دُرْج
+drawer lock	قفل جارور
+drawer slide	مزلاق جارور
+drawing	رَسْم
+drawing board	لوحة رسم
+drawing control sheet	بيان الرسومات الرئيسي
+drawing furnace	فرن سحب
+drawing paper	ورق رسم
+drawing power	قُدْرَة الاستخلاص، قُوَّةُ السّحْب
+drawing-in of panels	انكماش الألواح المعدنية
+drawing; figure (diagram); illustration	رَسْم
+drawing; outline; sketch	مخطط
+drawing; profile	تخطيطات خارجية للرسم
+drawn ore	خام نافذ
+drawn-up	مسحوب إلى أعلى
+drawstring	رّباط
+drayman	سائق شاحنة يقوم بتوفير الحاويات للموانئ
+dream cotton	دريم كوتن
+dredge (to)	جَرَفَ / جَرَّف
+dredge (to) / excavate (to)	حَفَرَ
+dredger	كَرَّاكة / كراءة
+dredging	كرى
+dredging depth indicator	مؤشر عمق الحفر
+dredging fleet	أسطول جرّافات
+dredging sludge	حَمْأَة الحفر بالكَرَّاكة
+dredgings / spoil / material, dredged	ناتِج الحفر
+DREF-2 yarn	خيط 'دريف'
+Drem lighting	إضاءة دْرِم
+dress	فستان
+dress coat	معطف السهرة
+dress down	لباس مريح
+dress-up crew	فريق تنظيف موقع العمل و تجميله
+dressed	مجهَّز
+dressed stone	حجر منقوش
+dressed stuff	أخشاب مسواة
+dresser	خزانة الأواني، خزانة الأطباق
+dresser sleeve	كُمٌّ قَاِرنَةٍ لأنابيبَ غيرِ مسنَّنة
+dressing gown	ثوب نسائي / روب
+dressing of setts	تهيئة البِلاََط، تهيئة أحجار الرَّصْف
+dressing table	طاولة الزينة
+dried distillers grains with solubles (DDGS)	الحبوب المُقطّرة الجافة مع الذوائب
+drier	مجفف / مُجفِّف / منشاف
+drift	انحراف جهاز القياس / انتقال جانبي / استقرار / إنحراف / انسياق / انسياق، انجراف
+drift (in common channel signalling)	إنسياق (في تشوير في قناة مشتركة)
+drift angle	زاوية الانسياق / زاوية الانسياق، زاوية الانزياح
+drift angle vector	موجه (ال...) الزاوي للانجراف الطّمييّ، موجه زاوية الانسياق
+drift compensation (in common channel signalling)	تعويض الانسياق (في تأشير في قناة مشتركة)
+drift correction	تصحيح الانسياق
+drift current	تيار الانجراف
+drift error	خطأ الانسياق
+drift indicator	مؤشر الانسياق
+drift meter	مقياس الانسياق
+drift punch	سنبك دسر
+drift recorder	مُسَجِّلُ الانحراف
+drift sight	منظر الانسياق
+drift space	فراغ (مسافة) الإنجرافِ (الانجراف)
+drift valve	صمام نفايات
+Drift warning	تَحْذِيرُ الاِنْحرافِ
+drift,	إنحراف, الكشف عن الغاز
+drift-down	تصحيح سفلي
+drifting	انزلاق انعطافي / ثُقْبُ الدهاليز، شَقُّ الأرْوِقَة
+drifting (of sludge) / negative lift	تآكُل رأسيّ جانبيّ
+drill	ماكينة ثَقب / قماش دريل / دريل / تدريب / مثقاب / مثقب / مثقاب، خرّامة
+drill (to)	سَبَر التربة
+drill bit	مثقاب / مِثْقَبُ الْحَفْر، مِدَقّ الْحَفْر
+drill card	بطاقة التدريب
+drill carriage	عَرَبةُ تَثْقِيب
+drill collar	طَوْقُ المثقب، طَوْقُ الْحَفْر
+drill column	عمود الحفر
+drill core	عينة السبر / عينة الحفر / قَوَّارَةَ حَفْر
+drill cuttings	بُرَايَاتُ الحفر
+drill extractor	أداة استخراج عمود الحفر، مُستخرِجة أنبوب الحفر
+drill log	سِجِلُّ الحفْر
+drill man	حَفَّار
+drill pipe	أنبوب الحَفْر / أنبوب حفر
+drill pipe coupling	تعشيق أنابيب الحفر، وصلة أعمدة الحفر
+drill pipe cutter	قاطعة أنابيب الحفر
+drill pipe elevator	مصْعَد أنابيب الحفر، رافعة أنابيب الحفر
+drill pipe float collar	نعل تبطين عمود الحفر
+drill pipe float valve	صمام العمود، صمام عائم لأنبوب الحفر
+drill pipe protector	واقي أعمدة الحفر
+drill pipe slips	كُلاَّبات أنابيب الحفر
+drill pipe string	مجموعة أنابيب الحفر
+Drill Pipes	أنابيب حفر
+drill point	رأس المثقب
+drill post	عمود حامل للحفارة
+drill rod	قضيب حفر
+drill rod bushing	قضبان الحفر
+drill round	طلقة تدريب
+drill ship	سفينة حفر
+drill steel grinder	مِسَنٌّ فولاذي لِنِصَال الحفر، مِسَنّ نِصَالِ الحفْر
+drill stem	عمود الحفر بالطَّرْق، عمود الحفر الرئيسي
+drill stem test, (D.S.T.)	اختبار الانتاجية في أثناء الحفر
+Drill String	مجموعة أنابيب الحفر
+drill time recorder	مُسَجِّل تقَدُّم الْمِثْقَب
+drill web	مقبض المثقب
+drillable	قابل للحفر
+drillable material	مادة قابلة للحفر
+drillable plug	سدادة قابلة للحفر
+drilled	مَحْفُور
+drilled pier	غَرْز محفور
+drilled well	بئر محفورة
+driller's log; drilling log	سِجِلّ الحفر، سِجِلّ الحَفَّار
+drilling	حَفْر / حفْر، سَبْر، تثقيب / حفر
+drilling (drilling operations)	حفر (عملية الحفر)/تنقيب
+drilling assembly	أدوات الحفر
+drilling barge	مركب الحفْر البحري، طَوْفُ الحفْر البحري
+drilling bit	مِدَقُّ الحفر
+drilling break	زيادة سرعة الحفر
+drilling by rotation	حفْر بالتدوير، حفْر رَحَوِيّ
+drilling by vibrations	حفر بالاهتزاز، حفر بالذبذبات
+Drilling Cable	سلك حفر / كَبْل الحفر
+drilling clamp	مِشْبَك كبْل الحفْر
+drilling contractor	مُقَاوِل حفْر
+drilling control	إشراف على الحفر، تحكم بالحفر
+drilling control head assembly	تركيبة ضبْط الحفْر
+drilling crew	فَرِيقُ عُمَّال الحفْر
+drilling cuttings	حُطَام الحفْر، فُتَات الحفْر
+Drilling Engine	محرك جهاز الحفر / مُحرِّك حفْر
+drilling engineer	مهندس حفْر
+drilling equipment	جِهاز حَفْر / مُعِدّات حفْر
+drilling fluid	سائل الحفر / سوائل حفر / طين زيني
+drilling foreman	مُعلِّم حفْر
+drilling in	اختراق المسبار الطبقة النفطية
+Drilling Island	جزيرة حفر / جُزَيْرَة حفْر، مِنَصَّة حّْفر
+drilling jars	وُصْلات خَلْخَلَة (في سلك الحفر الدقاق)
+drilling jig	دليل ثقب
+drilling line	سِلْك الحفْر، كَبْل الحفْر
+drilling line spooler	مِكَبُّ كبل الحفْر
+drilling log	سِجِلُّ الحفْر
+drilling machine	آلة ثقابة
+drilling mast	سَارِي الحفْر
+drilling mud	طِينُ الحفْر
+drilling operations	عمليات الحفر
+drilling out	حفْر خارجي، حفر الأسمنت المتخلف في قعر البئر (بعد تثبيت أنابيب التغليف)
+drilling pattern	نسبة عدد الآبار إلى مِسَاحَة الحقل
+drilling pipe	أنبوب حَفْر
+drilling platform	مِنَصَّة حفْر / مِنصة الحفر
+drilling program	برنامج الحَفْر / برنامج الحفر
+drilling progress	تقدم الحفر
+drilling record	سِجِلّ الحفر
+drilling rheology	علم انسياب طين الحفر، علم تدفّق طين الحفر
+drilling rig	برج الحَفْر / منصة حفر / جهاز الحفْر
+drilling speed	سرعة الحفْر
+drilling spool	مِرْدَن الحفْر
+drilling string	مجموعة أدوات الحفر، أنابيب و توصيلات الحفر
+drilling superintendant	ناظر عمليات الحفر، ناظر أعمال الحفر، مدير أعمال الحفر
+drilling technology	تكنولوجيا الحفر
+drilling tender	مَرْكَب تموين الحفر، مَرْكَب الحفر
+drilling time	زمن الحفر
+drilling tools	أدوات الحفر
+drilling vessel	مركب الحفر، منصة حفر عائمة
+drilling water	مياه الحفر
+drillometer	مُبيِّن الحمل، مقياس الحمل
+drinking water	ماء شروب / مياه الشرب / ماء صالح للشرب / ماء الشرب
+drinking water / potable water	مياه صالحة الشُرْب
+drinking water container	خَزّان مياه الشرب
+drinking water extraction	استخلاص مياه الشُرْب
+drinking water heating	تسخين مياه الشُّرب
+drinking water installation component	جزء من تجهيزة الإمداد بمياه الشرب
+drinking water limiting value	القِيمة الحدية لمياه الشُرْب
+drinking water ordinance	قَانون مياه الشُرْب
+drinking water procurement facility	مَرْفِق تدبير مياه الشُرْب
+drinking water protection area	منطقة حماية مياه الشرب
+drinking water quality	جودة مياه الشرب
+drinking water regulation	قانون مياه الشرب
+drinking water supply	التزويد بالماء الشروب
+drinking water tank	خزان مياه الشرب
+drinking water treatment	معالجة مياه الشرب
+drinking water valve	محبس أنبوب مياه الشُرب
+drinking water, abstraction of	استخلاص مياه الشُرْب
+drinking water, demand feeding of	إمداد بمياه الشُّرْب عند الحاجة
+drip	جهاز فصل كثافات الغاز عند مخرج البئر
+drip band	شريط الميزاب
+drip drum	وِعَاء جمع الْقَطَرَات، وِعَاء تكثيف، وِعَاء التنقيط
+drip flap	طوق الميزاب / قلاّبة القَطْر
+drip gasoline	بنزين الغاز الطبيعي
+drip irrigation	رَيّ بالتنقيط / ريٌّ بالتنقيط
+drip line	خط التنقيط
+drip mould	مقطر
+drip oiler	مِزْيَتَة بالتنقيط
+drip sink	إفريز القطر
+drip strip	شريحة الميزاب
+drip-proof	لانفوذي
+dripper	قَطّارَة
+dripper lateral	خَط الرَيّ بالتنقيط
+dripper space	المسافة بين القَطّارات
+dripping	استمرار تقطر الوقود
+dripping eaves	حوض صرف
+dripshield	حائل القَطْر / وقاء القطر
+dripstone	طنف القطْر
+drive	دهليز، روَاق
+drive (to)	دَقَّ
+drive axle	محور المحرك
+drive concept	تصميم منظومة الإدارة بالسيارة
+drive control unit (DCU)	وحدة التحكم في التشغيل
+drive controller	مراقب القيادة
+drive dolly	عربة قَطْر بمحرِّك، قَاطِرة بمحَرِّك
+drive end of a machine; D-end	طرف التحريك لآلة
+drive equipment	معدات القيادة
+drive handle	مقبض زنق
+drive head	رأس أنبوب الدّقّ، جُلْبَة أنبوب الطّرْق
+drive level	مستوى التشغيل
+drive level dependency; DLD	إعتمادية مستوى التشغيل
+Drive Line Type	نوع الدفع
+drive mechanism	آلية تحريك
+drive pin	وتد دفع
+drive pipe	أنبوب تغليف (لمنع الانهيار)، أنبوب غرْز
+drive rolls	درافيل متحركة
+drive safety system	نظام السلامة والأمان
+drive shaft	عمود القيادة
+drive shaft [f]	عمود الإدارة
+drive shaft boot	جلبة وصل عمود الإدارة
+drive shoe	نَعْل الأنبوب (لوقاية أنابيب الحفر)، كَعْب الأنبوب
+drive slip	ميل للانزلاق
+drive surface	سطح الإدارة
+drive torque	عزم القيادة
+drive torque distribution	توزيع عزم القيادة
+drive train	مجموعة نقل القدرة
+drive unit	وحدة التدوير
+drive-in rack	حملة في الرف
+drive-in rack storage	تخزين على أساس حملة في الرف
+drive-through rack	حمالة الغرز
+driven cast-in place pile	وَتِد مصبوب في الموقع
+driven element; fed element	عنصر مقاد
+driven pile	وَتِد دقّ / ركيزة مدقوقة
+driven wheel	عَجَلَة مُدارة
+driven wheel set	مجموعة العَجَلَة المُدارة
+driver	سائق آليات (وبخاصة القطار)
+driver (direct or indirect)	محرك/مؤثر (مباشر أو غير مباشر)
+driver assist	مساعدة سائق
+driver axle part	جزء مِحوَر السائق
+driver axle; driving axle	مِحوَر القيادة
+driver command	رغبة قائد السيارة
+driver disk	قرص مُصْطَحِب
+driver error	خَطَأُ السَّائِقِ
+Driver Fatigue Monitoring System	نظام كشف إرهاق السائق
+driver front door module (DDM)	موديول باب السائق (DDM)
+driver information module	وحدة المعلومات
+driver information system (DIS)	نظام إعلام السائق دي آي إس (DIS)
+Driver Machine Interface	واجِهَةُ السائِقِ وَالآلَةِ البِينِيَّةِ
+Driver Machine Interface (DMI)	واجِهَةُ مَعْلُوماتِ النِظامِ
+driver pushbutton	زر السائق
+driver response time	زمن استجابة السائق
+Driver Safety Device	جِهازُ أَمانِ السائِقِ
+driver's cab	قمرة السائق / كابينة قيادة
+driver's door	باب السائق
+driver's indication signal	اشارات بيان للسائق
+Driver's Safety Device (DSD)	جهاز سلامة السائق
+driver's safety device, automatic vigilance device, dead man's handle	جهاز اليقظة التلقائي
+driver's safety device; dead-man's handle	جهازسلامة للسائق
+driver's seat	مقعد السائق
+driverless train operation; GOA3; DTO	تشغيل القطار بدون سائق
+drivers of emissions	محركات الانبعاثات
+driver’s safety device (DSD)	جهاز سلامة السائق
+driver’s vent	فتحة جانبية
+driver’s waistband	حزام قابل للضبط
+drivetrain	مجموعة نقل القدرة
+driveway	طريق
+driving	قيادة
+driving at block distance	القيادة في المسافة الكتلية
+driving at distance mode	القيادة في وضع المسافة
+driving band	طوق الدفع / نطاق التوجيه
+driving chassis	شاسيه متحرك
+driving dynamic control button (DDC)	زر التحكم في دينامية القيادة (FDC)
+driving element of a induction motor	عنصر تدوير لعداد تحريضي
+driving gear	ترس إدارة
+driving glove	قفازات القيادة
+driving head	محرك ضاغط
+driving helmet	خُوذَة الدق
+driving license	رخصة السياقة
+driving light switch	مفتاح ضوء السير
+driving mechanism	آلية التحريك
+driving on command	القيادة في وضع المراقبة
+driving on sight	القيادة في وضع الرؤية / قيادة متحكم فيها
+driving on sight distance mode	القيادة في وضع مسافة رؤية
+driving position	مركز القيادة
+driving power of bolt	القوة الحاملة للمحازق
+driving power; radio-frequency input power	قدرة دافعة
+driving record	سِجِلّ الدق
+driving resistance	مقاومة السير / مقاومة الغرز
+driving shoe	نَعْل الوَتِد
+driving space	مجَال السِّياقَة
+driving stability control (FSR)	نظام التحكم في اتزان السيارة (FSR)
+driving test	اختبار القيادة
+driving time	وقت القيادة
+driving torque transmission system	نظام توزيع عزم الدفع
+Driving Trailer (DT)	مقطورة القيادة
+driving trailer; control trailer	مقطورة بكابينة قيادة
+driving under the influence	سياقة في حالة سكر
+driving wheel	عَجَلَة القيادة
+driving wheel diameter	قطر عَجَلَة القيادة
+driving-point impedance	معاوقة عند نقطة الحفز
+Drivmatic riveter	آلة برشمة آلية القيادة
+drizzle	رذاذ
+drizzling rain irrigation	ريّ بالرذاذ المطريّ
+drogue chute	مظلة المرساة
+drogue recovery	استعادة القُمع
+drogue; funnel	قُمْع
+drone	طائرة بلا طيار / طائرة موجّهة
+droop	تدلٍّ
+droop balk	عائق الحافة المتدلية
+droop leading edge	حافة أمامية متدلية
+droop nose	مقدمة متدلية
+droop of a set	تدلّي المجموعة؛ معدل تغير التردد بالنسبة للتغير في القدرة
+droop of a system	تدلّي النظام الكهربائي
+droop snoot	خطم متدلٍّ
+droop stop	مَنْع التدلّي / وَقْف التدلّي
+drooping ailerons	جُنيحات متدلية
+drooping characteristic (of an arc welding power source)	(خصائص هبوط (لمصدر كهرباء اللحام بالقوس الكهربائى
+droops	متدلّيات
+drop & pull	إسقاط وسحب
+drop altitude; drop height	ارتفاع الإسقاط
+drop anchor (to)	أرسى
+drop center rim	جنط مستدق
+drop charges	رسوم الإسقاط
+drop cloth	قُمَاش حِمَاية
+drop feed cup	كأس تغذية بالتنقيط، كوب تغذية بالتنقيط
+drop forged eye bolt	مِسْمَار مَطْرُوق ذو عُرْوَة، مسمار ذو عُرْوَة مشَكَّل بالطَّرْق
+drop forged round flange	شَفَة مستديرة مشكَّلة بالطَّرْق
+drop forging	طَرْق بالإسقاط
+drop hammer	مِطْرَقة هابطة / مطرقة ساقطة
+Drop in Fuel	قطرة في الوقود/وقود بديل
+drop interval	فاصل الإسقاط
+drop manhole	غُرفَة تَفتيش عَميقَة
+drop message	رسالة مُسقَطة / رسالة هابطة
+drop out	إسقاط للخارج
+drop probe	مسبار إسقاطي
+drop shunt of a track	سقوط تحويلة المسار
+drop siding	حاجز مصرّع
+drop stitch pattern	تصميم خطوط عمودية
+drop structure	مَسْقَط
+drop tank	خزان إسقاط
+drop test	اختبار إسقاط
+drop testing apparatus	جهاز اختبار الإسقاط
+drop zone	منطقة الإسقاط
+drop-arch	قوص قوطية هابطة
+drop-bottom wagon	عَرَبَة ذات قعر متحرك
+drop-down curve; line of water level decline; water surface slope line	مُنحنى الهبوط
+drop-front trousers	سروال منسدل
+drop-manhole	مَسقَط أسطوانيّ
+drop-off	إعادة
+drop-off centre	مركز تجميع
+drop-off curve	مُنحنى السقوط
+drop-off section	مَقطَع السقوط
+drop-out	إنخفاض مستوى الإشارة / فَصْل
+drop-out fuse	مصهر القطع
+drop-pipe	أُنْبوب تصريف
+drop-shaft / glory hole / penstock shaft / shaft	فتحة المجد
+drop; jettison; projection	إسقاط
+drop; rundown	انخفاض
+droplet separator	فتحة تهوية
+dropline fishing.	صيد عميق بالسنارة
+dropmaster	مسؤول الإسقاط
+Dropped ceiling	سقف مستعار
+dropper, ; hanger	حامل خط تلامس,
+dropper; swinging bracket (US)	Vمسمار شكل
+dropping point	نُقْطَة التنقيط
+dross; skimmings	خَبَثٌ
+drought	جَفاف / جفاف
+drought index	مؤشر الجفاف
+drought management	إدارة موسم الجَفاف
+drought resistant	مقاومة للجفاف
+drought-resistant crop; drought-tolerant crop	محاصيل قادرة على تحمّل الجفاف محاصيل مقاومة للجفاف
+drowdown curve	منحني هبوط مستوى المنسوب المائيّ
+drowned drop; submerged drop	هَدَّار محكوم
+drowned jet; submerged jet; immersion jet	نَفْث غاطس
+drowned valley	وادٍ غارقٌ، وادٍ مغمورٌ
+drum	برميل
+drum and disc construction	إنشاء الأسطوانة والقرص
+drum brake	مكبح طلي
+drum controller	منظم أسطوانى
+drum facsimile receiver	مستقبل ناسوخ اسطواني
+drum facsimile transmitter	اسطوانة المرسل في الناسوخ
+drum factor	عامل الاستخدام لاسطوانة الناسوخ
+drum filter	فلتر أسطواني
+drum gate	بوابة برميلية
+drum mixer	خلاطة الخرسانة
+drum motor	طبل محرك
+drum polishing machine	مصقلة بأسطوانات
+drum recorder	مسجّل أسطواني
+drum screen	مُنْخُل أسطوانيّ
+drum shaft	جزع الأسطوانة
+drum winding	لف اسطواني
+drum-shaped commutator	مُبدِّل أسطواني
+drum-starter	مقلع اسطواني
+drumlin	دروملين
+drumstick	مقرعة الطبل
+drunken saw	منشار رجاج
+druse	مُسَنَّن
+drusy structure	بنية مُسَنَّنة
+dry adiabat (lapse rate)	هواء جاف
+dry adiabatic lapse rate	معدل الهبوط المكظوم الجاف
+dry biomass	كتلة حيوية جافة
+dry bore	ثَقْب جافّ
+dry bound macadam	تُربَة مُستَقِرَّة بِالإِسمَنْت / رصفة مكدام على الناشف
+dry bulk freight container	حاوية مواد جافة
+dry cargo carrier	ناقلة الشحن الجاف
+dry cell	خلية جافة / عمود جاف
+dry cell battery	نضيدة جافة، بطارية جافة
+dry charged battery	بطارية مشحونة جافة
+dry cooling	تبريد جاف
+dry cooling tower	برج تبريد جاف
+dry cooling towers	أبراج التبريد الجافة
+dry crease recovery angle	زاوية التجعد الجاف
+dry crushing	تهشيم جاف
+dry day	يوم جاف
+dry density	كثافة في الحالة الجافة / كثافة جافة / كَثَافَة جَافَّة / كثافة في حالة الجفاف
+dry dock	حوض جاف
+dry drilling	حفْر جاف
+dry emplacement	منصة المدفع الجافة
+dry filter	مرشِّح جاف
+dry fog	ضباب جاف
+dry freight container	حاوية مواد جافة
+dry fuel	وقود جاف
+Dry Gas	غاز جاف
+dry gyro	جَيرو جاف
+Dry Hole	بئر جافة
+dry hole; uncased hole	بئر جافة، بئر غير منتجة
+dry hub	قبّ جاف
+dry hydrogen bomb	قنبلة هيدروجينية جافة
+dry joint	فاصِل تمدُّد
+dry lands	أراضي جافة
+dry landscape reclamation (oil sands)	استصلاح جاف لمواقع طبيعية (رمال نفطية)
+dry lease	كراء بلا طاقم / تأجير جاف
+dry mass	كتلة جافة
+dry mix	خلطة جافة
+dry natural gas	غاز طبيعي جاف
+dry offset	طباعة أوفست جافة
+Dry Oil	زيت جاف
+dry plate	لوح جاف
+dry port	ميناء جاف
+dry rectifier	مقوّم جاف
+dry relief offset	طباعة جافة بارزة بالأوفست
+dry residue	متبقّيات جافّة / مُخلّفات صلبة جافة
+dry run	دورة تجريبية / تشغيل جاف
+dry sanding	تجلخ جاف
+dry screening	تنخيل جاف
+dry separation	فَصْل جاف
+dry separation toilet / urine diverting dry toilet	مِرحاض جافّ فاصل للفضلات
+dry sludge	حَمْأَة جافّة
+dry spell	نوبة جفاف
+dry squeeze	ضغط جاف / كَبْس جاف
+Dry Storage	تخزين جاف
+dry strength	مقاومة الجفاف / مُقَاوَمَة التربة الجافة
+dry substance	جوامد جافة
+dry substance content	مُحتوى المواد الجافة
+dry sump	حوض جاف
+dry sump lubrication	التزليق بطريقة الحوض الجاف
+dry toilet	مِرحاض جافّ
+dry transfer lettering	نقل الحروف بالكزّ
+dry unit weight	وزن (ال...) الحجمي الجاف
+dry unit weight; unit dry weight	وحدة وَزْن جافة
+dry weather conditions	ظروف فترة الجفاف
+dry weather flow	تدفق في فترة الجفاف
+dry weather flow (DWF)	جريان الطقس الجاف
+dry weight	وزن جاف
+dry well	غرفة المضخات / بئر جافة
+dry well; sump; trap	مجرور
+dry wrinkle release	استرجاع الأبعاد
+dry year	سنة جفاف
+dry-bulb temperature	درجة حرارة البُصيلْة الجافة
+dry-bulb thermometer	محرار البصيلة الجافة
+dry-disc joint [UK] / dry-disk joint [US]	قارن مرن
+dry-dock	حوض جافّ لإصلاح السفن
+dry-hole money	مساهمة الجار في نفقات الحفر
+dry-running operation	التشغيل الاضطراري
+dry-spun yarn	مغزول بالطريقة الجافة
+dry-stone	بناء حجري
+dry-summer maritime subalpine climates (csc)	مناخات بحرية دون ألبية بصيف جاف
+dry-summer subtropical or mediterranean climates ©	مناطق شبه استوائية جافة صيفا أو مناخ حوض المتوسط
+dry-type reactor	مفاعل من النوع الجاف
+dry-type transformer	محول من النوع الجاف / محول جاف
+dryer	مُجَفّف (الهواء)
+dryer (AC)	المجفف (مكيف الهواء)
+dryer cartridge (AC)	خرطوشة المجفف (مكيف الهواء)
+dryer drum	أُسْطُوَانَةٌ مُجَفِّفَةٌ / مِنفَاضٌ مُجَفِّفَ
+dryer drum mixer	خلاّطة مُجَفِّفَةٌ
+dryer, belt	سَيْر مُجفِّف
+dryer, disk/plate	مُجِّفف قُرصيّ
+dryer, drum-type; dryer, tumble	مجفف دورانيّ
+dryer, flight/panel	مجراف تجفيف
+dryer, rotary	مُجَفِّف دَوَّار
+dryer, spray	مُجِّفف رَذاذ
+dryer-safe	صالح للتجفيف
+drying	تجفيف / تنشيف
+drying behaviour	مسار التجفيف
+drying behaviour curve	مُنحنى مسار التجفيف
+drying cylinder	أسطوانة التجفيف
+drying ground	مجفّة
+drying in	انسداد بالجفاف
+drying of sludge	تجفيف الحمأة
+drying of wood	تجفيف الخشب
+drying oil	زيت تجفيف / زيت مجفف
+drying passage	ممرّ التّجفيف
+drying shed	سقيفة تجفيف
+drying tower	بُرْج تجفيف
+drying unit	وحدة تجفيف
+dryland salinity	تملح الأراضي الجافة
+drystone road	طريق غَيْرُ مَكْسُوٍّ
+Drzewiecki theory	نظرية دْرْزِويكي
+DSA chassis	مجموعة الحركة على الطريق (DSA)
+DSL Access Multiplexer	مُعَدِّدُ وُصُولِ خَطِّ المُشْتَرِكِ الرَقْمِيّ
+DSO distribution system operator	مُشغّل محلي لشبكة توزيع الطاقة (DSO)
+DTC	أكواد أعطال التشخيص (DTC)
+dtex	دي تيكس
+DTM	نَمُوذَج رقمي للأراضي
+dual	ثنائي / مزدوج
+dual analogue-digital display	شاشة رقمية
+dual axis rate transducer	محوِّل طاقة بمعدَّل مزدوج المحاور
+dual axle	محور ثنائي
+dual carriage way	طريق ذات مَسْرَبَيْن، طريق ذات قارعتين
+dual carriageway	طريق ثنائي القارعة
+dual carriageway road	طريق ثنائي القارعة
+dual circuit brake system	منظومة الفرامل ثنائية الدائرة
+dual completion	إنجاز مزدوج (في طبقتي إنتاج)
+dual compressor	ضاغط ثنائي
+dual discovery	اكتشاف مزدوج
+dual fraction	كسر ثنائي
+dual frequency motor vehicle	مركبة بمحرك ثنائي التردد
+dual fuel engine	محرك بوقود مزدوج
+dual fuel engines	مُحرك ثُنائي الوقود
+dual ignition	ثنائي الإشعال
+Dual Inline Memory Module	وِحْدَةُ ذاكِرَةٍ مُضَمَّنَةٍ مُزْدَوِجَةٍ
+dual line pneumatic brake system	منظومة الفرامل البنيوماتية ثنائية الخط
+dual magneto	آلة كهرمغناطيسية مزدوجة / مغنيط ثنائي
+dual master cylinder	أسطوانة رئيسية مزدوجة
+dual media filter	مُرشِّح ثنائيّ الوسط
+dual media filter (DMF)	مرشح مزدوج الوسائط
+dual networks	شبكتان ثنائيتان
+dual operation	عملية ثنائية
+dual packer	حشوة أسطوانية مزدوجة (مؤلفة من مسيكتين أسطوانيتين متنضدتين)
+dual parity checking	مراجعة مزدوجة التماثل
+Dual path	مسار مزدوج
+dual persistence	إصرار مزدوج
+dual plate clutch	قابض ثنائي الأقراص
+Dual Port RAM	ذاكرة وصول عشوائي مزدوجة المنفذ (DPR)
+dual propellant	وقود صاروخي مزدوج
+dual purpose	ثنائي الاستعمال
+dual purpose kerosene	كيروسين مزدوج الاستخدام
+dual purpose plant	مصنع ثنائي الغرض
+dual purpose voltage transformer	محول جهد للحماية(للوقاية)
+dual segment cushion	تعليق مقطعي مزدوج
+dual system motor vehicle	مركبة بمحرك ثنائي النظام
+dual system track	مسار يقبل التغذية الثنائية
+dual track guideway	مسار مزدوج الاتجاه
+dual two-barrel carburetor	مكربن مزدوج ثنائي المرحلة
+dual voltage motor vehicle	مركبة بمحرك ثنائي الجهد
+dual-axes tracking	تتبع ثنائي المحور
+dual-beam echo sounder	سونار صوتى ثنائى الشعاع؛ جهاز صدى صوتى ثنائى الشعاع
+dual-capable	ثنائي المقدرة
+dual-frequency induction heating	تسخين حثي مزدوج التردد
+dual-frequency loco	قاطرة ثنائية التردد
+dual-fuel engine	محرك ثنائي الوقود
+dual-fuel vehicle	مركبة بنظام وقود ثُنائي
+dual-homed host; dual-homed gateway	الإستضافة المزدوجة
+dual-mass flywheel	حدّافة ZMS
+dual-mode emergency power unit	وحدة طاقة للطوارئ ثنائية النمط
+dual-mode hybrid	نظام هجين ثنائي التشغيل
+dual-phase steel	صُلب ثنائي المرحلة
+dual-phase-extraction	استخلاص ثنائي المرحلة
+dual-plane separation	فَصْل مزدوج الأسطح
+dual-polarized antenna	هوائى ثنائى الإستقطاب
+dual-purpose	ثنائي القصد / مزدوج الغرض
+dual-rotation	ثنائي الدوران
+dual-slope process	طريقة الميل المُزدوج
+dual-supply back-to-back test	dual-supply back-to-back test
+dual-thrust motor	محرك ثنائي الدفع
+dualism	ثنائية
+dubai storage tank	خزان مخروطي مغمور، صهريج تخزين دبي
+dubbing	تسجيل مركّب
+dubbing tool	أداة تسوية، أداة تمليس
+dubbing; post dubbing	دبلجة
+dubbs process	إجراء دبس
+Dublin Principles	مبادئ دبلن
+Dublin principles (pl.)	مبادئ دُبلن
+duchesse satin	قماش دوقة
+duck	أطلس مزدوج / قماش دكّ
+duck board	أرضية خشبية / قَطَّاعة خشبية، معبر خشبي
+duct	مجرى / محبرة / مَسْلَك، قناة
+duct / pipeline	أُنْبوب ناقِل
+Duct Bank	مجموعة قنوات أنابيب
+Duct fan	مروحة أنبوبية
+duct height	ارتفاع المجرى
+duct opening	فتحة القناة
+duct propagation	انتشار مجروي
+duct roller	اسطوانة المحبرة
+duct spacer	موزع الهواء؛ مباعد مجرى التهوية
+duct thickness	سُمك المجرى
+duct, launching / pit, starting / shaft, starting	بئر البداية
+duct, ventilation (tank)	مَنْفَس تهوية (خزان)
+duct; track	مجرى
+ducted cooling	تبريد بالقنوات / تبريد مجروي
+ducted propeller	دافع مجروي
+ducted radiator	مشعاع مجروي
+ducted rocket	صاروخ مجروي
+ducted-fan engine	محرك بمروحة مجروية
+ductile	سَحوب
+ductility	قابلية الطَّرْق والسَّحْب / مَطِيلِيَّةٌ / مَطِيلِيَّةٌ، مُستَحلَب عَكْسِي / مُطَاوَعة / مطيلية
+ductility plateau	عتبة المطاوعة
+ducting	التوجيه بالمجاري
+ducting layer	طبقة مجروية
+ducting length	طول مجارى الكابلات الرئيسة
+ductor (vibrating roller)	لقاط(ال...)
+ductor key	مفاتيح ضبط التحبير
+due care	عناية واجبة
+due diligence	فحوصات لازمة / مرحلة التحقق
+due diligence (system) (flegt)	فحوصات لازمة (نظام: إنفاذ قانون الغابات، الحكامة والتجارة FLEGT)
+due quota	حصة واجبة
+duel purpose (co - generation)	محطة ثنائية الغرض
+duff; raw humus	دُبال خام
+duffel	دُفِّيل
+duffel coat / duffle coat	معطف ثقيل
+dug well	بئر محفورة
+Duhamel's integral	تكامل دوهاميل
+dull bit	مدَقٌّ متآكل، مِثْقَب بالٍ
+dull luster	بريق باهت
+dulling	تكدّر
+Dumat Al-Jandal Wind Farm	مشروع محطة دومة الجندل لطاقة الرياح
+dumb bell pier	دِعامة جرس أصم
+dumb-bell shaft; spacer shaft (US)	عمود دوران ناقل الحركة
+dummy coil	ملف وهمي
+dummy coupling	قارنة خالية
+dummy deck	سطح زائف
+dummy joint; false joint	وَصلَة وَهمِيَّة
+dummy lamp	مصباح وهمى
+dummy load	حِمل وهمي
+dummy round	جولة وهمية / طلقة زائفة
+dummy; mock-up	تصميم
+dumortierite	دومورتيرايت
+dump	مَكَبٌّ / مطرح نفايات / إفراغ / مستودع ذخيرة / يُفْرِغ / يُلقي الركام
+dump bailer	مِغْرَفَة السمنتة، دَلْوُ حَقْن الأسمنت
+dump flooding	إغراق ثقالي
+dump load	عُنصر تفريغ الحِمل الزائد
+dump programs	برامج إفراغ الذاكرة
+dump truck	شاحنة قلابة / سيارة قلّابة
+dump valve	صمام إفراغ
+dump, verb	ينقل, فعل
+dump; landfill	رَدْم
+dumper	عَرَبَة قَلاّبة
+Dumping	إفراغ
+dung (animal manure); fertiliser	سماد
+dungarees	بذلة عمل / سروال الميكانيكي
+dunite	دونايت
+dunk	يغمر / يغمس / يُغطس
+dunnage	حشوة توضع بين الصناديق المشحونة لوقايتها / وقاء (لبضائع مشحونة)
+dunnage wood	خشب الوَسْق
+Dunova®	دونوفا®
+Duo jersey	جيرسيه مزدوج
+duo-bus	حافلة ثنائية
+Duo-Matic quick coupling	قارنة ديوماتيك سريعة الفصل
+duo-sol	طريقة دوسول
+duo-tone	مزدوج اللون
+duodecimal, adj	عشرينى, صفة
+duodecimo	كتاب قطع الاثني عشر
+Duolastic®	ديولاستك®
+dupion silk	دوبيون / حرير دوبيون
+Dupioni silk	حرير ثنائي الشرنقة
+duplex	ازدواجي / مزدوج
+duplex apparatus	معدة مزدوجة
+duplex burner	حارق ازدواجي / حارق مزدوج
+duplex connection	ربط ثنائي الاتجاه
+duplex lap winding	ملف انطباقي مزدوج
+duplex pump	مِضَخَّة مزدوجة
+duplex soils	تربة بطابقين
+duplex transmission	إرسال مزدوج
+duplex wave winding	ملف تموجي مزدوج
+duplex, adj and noun; DEPRECATED: full duplex, adj and noun	مزدوج الاتجاه؛ نظام معلومات مزدوج الاتجاه
+duplex, adj; DEPRECATED: full duplex, adj	مزدوج الاتجاه
+duplex, noun; DEPRECATED: full duplex, noun	نظام معلومات مزدوج الاتجاه
+duplexer	مازج إرسال - استقبال / جهاز مزدوج
+duplexer (of an antenna)	مزدوج (للهوائى)
+duplicate	نسخة ثانية
+duplicate supply	تغذية مزدوجة
+Duplicating	مضاعفة
+duplicating stencil	ورق استنسل
+duplicating; copying	نسخ متعدد
+duplicator	مستنسخة
+DuPont process	طريقة دوبون لنقل الفتل
+durability	قوة التحمل / تحمُّلية
+durability of treated timber	تحمّلية الخشب المعالج
+durability test	وضع تحميل الضغاط
+durability,	التحملية،,
+durable goods	سلع معمرة
+durable wood	خشب مقاوم
+duralumin	ديورالومين
+Duramold	ديورامولد
+duration	أمَد / بقاء / دوام / مدة / فترة
+duration curve	مُنحنى الدوام
+duration model	نموذج الأمَد
+duration of a voltage change	مدة تغير الجهد
+duration of capillary rise	زَمَن استدامة الصعود الشَّعرِيّ
+duration of ebb tide	أَمَدُ الْجَزْر
+duration of jack up and down (DJUD)	مُدة الرفع والخفض
+duration of shock pulse	مدّة نبضِ الصدمةِ
+duration of tariff payment	مدة دفع الرسوم الجمركية
+duration of the sailing from turbine to turbine (DTTT)	زمن الإبحار من عنفة لأخرى
+duration of X-ray tube exposure series	مدة التعرض لسلسلة من أنابيب أشعة سينية X
+duration; time (for continuous time scales)	مدة زمنية ( لمقياس زمنى مستمر)
+Durestos	ديوريستوز
+Duriez test	اختِبَار دُوريِيه
+Duron®	ألياف الدورون ®
+dust	غُبار
+dust bowl	حوض عواصف الغبار
+dust cloth	منفضة
+dust containment	احتواء الغبار
+dust devil	دوامة ترابية/غبار الشيطان / دوامة ترابية
+dust holding capacity	سعة حجز الغبار
+dust ignition protection "tD"	نوع الحماية من اشتعال الغبار "tD"
+dust ignition protection by enclosure "t"	نوع الحماية بالحاوية من اشتعال الغبار "t"
+dust jacket	جاكيت
+dust removal	إزالة الغبار
+dust removal process	عملية إزالة الأتربة
+dust seal	مانع دخول الغبار
+dust,	غبار, الأجواء المتفجرة
+dust-laying oil	زيت مضاد للغبار
+dust-protected enclosure	حاوية محمية من الغبار
+dust-tight enclosure	حاوية محكمة ضدالغبار
+dustbin	صندوق القمامة
+dustcover	غطاء كتاب
+duster	بئر جافة
+duster / dust-coat	مِئزر
+dusting	ترذيذ / رشّ / تعفير، تغبير / إزالة الغبار، ذرٌّ
+Dutch roll	عُطوف دَتْش
+dutchman	موهة
+duty	خدمة؛ مهمة / تشغيل / خدمة
+duty crew	طاقم المهمة
+duty cycle	مدة التشغيل / دورة التشغيل / دورة الخدمة؛ دورة المهمة / دورة تشغيل
+duty cycle,	دورة تشغيل / دورة فحص واختبار,
+duty cycle/duty factor	دورة تشغيل
+duty cycle; duty factor (superseded)	دورة تشغيل
+duty factor	عامل الخدمة / عامل تشغيل / عامل التشغيل
+duty of a well	مقنن بئر
+duty on capacity	إجمالي الكمية المطلوبة
+duty point	نقطة التشغيل اللحظية
+duty rating	تقنين التشغيل
+duty ratio	نسبة التشغيل
+duty runway	مدرج الخدمة
+duty to investigate	واجب التحقيق
+duty type	نوع الخدمة او المهمة
+duty with non-periodic load and speed variations; duty type S9	خدمة تشغيل مع تغيرات حمل- سرعة غير دورية نوع S9
+duvet	لِحَاف رِيشٌ / ملاءة من الريش / لحاف الريش
+duvet / comforter	لحاف من الريش
+duvet / cover	لِحَاف
+duvet cover	غطاء لحاف
+duvetine	قماش دافتين
+DVD changer (DVDC)	مُبدِّل أسطوانات DVD
+DWA advisory leaflet	منشور الجمعية الألمانية لعلوم المياه ومياه الصرف الصحي والمخلفات
+DWA Standard	مواصفات الجمعية الألمانية لعلوم المياه ومياه الصرف الصحي والمخلفات
+dwarf signal, ground signal	إشارة أرضيَّة
+dwarf varieties	أصناف قزمة
+dwell	زاوية الإغلاق / يسكن
+dwell control	التحكم في زاوية الإغلاق
+dyadic Boolean operation	عملية بوليان ذات التكامل الثنائي
+dye	ملوّن / صبْغ، تلوين
+dye solution	محلول الملوّن
+dye works	مِصبغة
+dyeing of wood	صباغة الخشب
+dyeing stumps	تلوين جذوع
+dyesensitized solar cell (DSC)	خلية شمسية صبغية
+dyke (dike)	ساتر ترابي ردمي
+dyke springs	ينابيع السدود، ينابيع القواطع
+dyking	إنشاء حاجز
+dyn; dyne	داين
+dyna ' jet'	شحنة تفجير نافثة 'دينا'
+dynamic (read/write) memory	ذاكرة (قراءة / كتابة) متحركة
+dynamic amplifier	مضخم تحريكي
+dynamic and kinematic viscosity	لزوجة الكينماتية والدينامية
+dynamic aquaplaning	تزلق مائي تحريكي
+dynamic axle load transfer	الترحّل الدينامي لحمل المحور
+dynamic B (H) loop	حلقة (B (H ديناميكية
+dynamic back pressure	ضغط فعال معاكس
+dynamic balance	اتزان تحريكي
+dynamic behavior	سلوك دينامي
+dynamic brake	مكْبَح تحريكي
+Dynamic Brake / Rheostatic brake	المكابح الديناميكية
+dynamic brake exciter	محرض الكابح الحركى؛ محرض الكابح الديناميكى
+dynamic braking	كبح ديناميكي؛ كبح حركي / كبح حركي
+Dynamic Braking Relay	مُرَحِّلُ المكابح الدِينامِيكِيَّةِ
+dynamic braking resistor (DBR)	مقاومة الكبح الديناميكية
+dynamic characteristic	خصائص حركية
+dynamic characteristic (of an arc welding power source)	(خصائص ديناميكية (لمصدر كهرباء اللحام بالقوس الكهربائى
+dynamic characteristics	مُنحنيات خصائصية ديناميكية
+Dynamic Charging Control	نظام التحكم في الشحن الديناميكي
+Dynamic Charging Technologies	تقنيات الشحن الديناميكي
+dynamic compensation Of control loop dynamic correction Of control circuit	تصحيح دينامي لدائرة الضبط
+dynamic component	مركّبة التحريك
+dynamic compressor	ضَغَّاط دينامي
+dynamic convergence	تقارب حركى / تقارب حركي
+dynamic damper	مخمِد تحريكي / مُضائل تحريكي
+dynamic data exchange	تبادُل دينامي للبيانات (DDE) / تبادل دينامي للبيانات (DDE)
+dynamic distortion	تشوّه حركي
+dynamic drive	نظام القيادة الدينامية
+dynamic equilibrium	توازن ديناميكي
+dynamic factor	عامل التحريك
+dynamic friction factor	عامل احتكاك ديناميكى
+dynamic geodesy	علم الجيوديزيا الديناميكي
+dynamic head	ارتفاع الضغط التحريكي
+dynamic head; dynamic pressure; Q-alpha	ضغط تحريكي
+dynamic heating	تسخين تحريكي
+dynamic height	ارتفاع ديناميكي
+Dynamic Host Configuration Protocol	بروتوكول الضَبْطِ الدِينامِيكِيّ لِلمُضِيفِ
+dynamic imbalance	عدم الاتزان الدينامي
+dynamic input in switching systems; dynamic input	دخل حركي للنظام التحويلي
+dynamic J (H) loop	حلقة (J (H ديناميكية
+Dynamic Kinetic Envelope (DKE)	غلاف الحركة الديناميكي
+dynamic lift	رفع تحريكي
+dynamic load	حِمل تحريكي
+dynamic loading	أحمال ديناميكية
+dynamic M (H) loop	حلقة (M (H ديناميكية
+dynamic magnetization curve	منحني المغنطة الديناميكي (الحركي)
+Dynamic measurement error	خطأ قياس دينامي
+Dynamic Measurements	قياسات ديناميكية
+dynamic mechanical and electrical model	نموذج دينامي ميكانيكي وكهربائي
+dynamic mechanical model	نموذج دينامي ميكانيكي
+dynamic mechanical, steady-state electrical model	نموذج دينامي ميكانيكي وكهربائي مستقر الحالة
+dynamic membrane	غشاء حيوي
+dynamic metamorphism	تحوُّل ديناميكي
+dynamic meteorology	أرصاد جوية تحريكية
+dynamic misregistration	تسجيل خاطئ حركي
+dynamic model	نموذج تحريكي
+dynamic operating range (of an equipment); working range (of an equipment)	مدى التشغيل الحركي ( لمعدة)
+dynamic particle filter	مرشِّح تحريكي للجزيئات
+dynamic performance	أداء ديناميكى
+dynamic photogrammetry	تصوير مساحي ديناميكي
+dynamic positioning	تركيز تحريكي، وضع تحريكي
+dynamic pressure	ضغط دينامي
+dynamic pressure valve	غطاء الضغط الدينامي
+Dynamic problem	مشكلة دينامية
+Dynamic RAM	ذاكرة ديناميكية ذات وصول عشوائي
+dynamic range	المدى الحركي
+dynamic range (of a signal)	المدى الحركي (لاشارة)
+dynamic range (of a sound signal)	مدى حركي (لاشارة صوت)
+dynamic range control (of a sound signal)	تحكم المدى الحركي (لاشارة صوت)
+Dynamic response	ديناميكا (ال...)
+dynamic route guidance (DRG)	نظام الإرشاد الدينامي للمسار (DRG)
+dynamic routing	توجيه ديناميكي
+dynamic sampling	أخذ عيّنات تحريكية
+dynamic scale	مقياس تحريكي
+dynamic sensitivity	حساسيه ديناميكه , حركية
+dynamic shear rheometer	ريُومِتر القَص التَّحرِيكِي
+dynamic signal transmission	نقل دينامي للإشارات / نقل (ال...) الدينامي للإشارات
+dynamic similarity	تشابه تحريكي
+dynamic soaring	تحليق تحريكي
+dynamic stability	استقرار تحريكي
+dynamic stability control	نظام التحكم الدينامي في الاتزان
+dynamic stability control (DSC)	نظام التحكم في الاتزان الدينامي (DSC) / نظام DSC
+dynamic stationing	وضع تحريكي
+dynamic steering	نظام التوجيه الدينامي
+dynamic storage	تخزين تحريكي
+dynamic strength	مُقاوَمة ديناميكية
+dynamic system	نظام تحريكي
+dynamic thrust	دفع تحريكي
+Dynamic Torque Vectoring	نظام التحكم في النقل الديناميكي
+dynamic transmission characteristic	خصائص النقل الدينامي للإشارات
+dynamic type tests	اختبارات تحريكية النمط
+Dynamic variable	مُتغيّر دينامي
+dynamic viscosity	لزوجة تحريكية
+dynamic viscosity; viscosity	لزوجة ديناميكية؛ لزوجة
+dynamic water level	منسوب المياه المتحرك
+dynamic withstand value	قيمة تيار التحمل الديناميكى
+dynamically effective unloaded radius	نصف القُطر الفعّال الدينامي للإطار
+dynamically neutralized state; dynamically demagnetized state (deprecated)	حالة متعادلة ديناميكيا (حركيا)
+dynamics	ديناميكا / علم التحريك
+dynamics; movables	متحركات
+dynamite fishing	صيد بالديناميت
+dynamo	ماكينة إنارة / مولد كهربائي / مُولِّد كهربائي
+dynamo field (DF)	مجال الدينامو (DF)
+dynamo minus (D-)	سالب الدينامو (D-)
+dynamo plus (D+)	موجب الدينامو (D+)
+dynamo sheet	القلب الشرائحي للدينامو
+dynamometer	محرك ـ مولِّد / مقياس القوة / مقياس القوى
+dynamometric yarn properties	خصائص مقوانية
+dynode	قطب ثانوي / دَيْنود
+dynode (of electron multiplier)	داينود/ قطب ثانوي (مضاعف إلكترونات)
+dypingite	دايبنجايت
+dyr cleaning solvent	محل التنظيف على الناشف
+dysanalyte	دايسانالايت
+dystrophic	حَثَلِي
+Dzus fastener	رابط دْزيس / مثبِّت دْزيس
+déliquescence	تميُّع
+désertification	تصحر
+Düppel	عصا تشويش
+Dürrnhaar project	مشروع دورنهار

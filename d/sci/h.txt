@@ -1,0 +1,3721 @@
+H	H
+H (hydrogen)	هـ
+H and D curve (Hurter and Driffield)	منحني H و D منحنٍ مميز
+H and D scale	سلم H و D (هورتر ودريفيلد)
+H-beam	كمرَةُ أو عتَبةُ إِتش
+H-bomb	قُنبلَة هِدْروجينيَّة
+H-fractal	كُسورِيُّ-H
+H-runner	عارضةٌ او جائز فولاذي سقفيّ مقطعه على شكل H
+H-sync	مزامنة أفقية
+H-X antigen	مستضد H-X
+H.324	[مِقْيَس] H.324
+ha(t)chure	تَرقين
+haar	هار
+Haar condition	شَرْطُ هار
+Haar integral	تَكامُلُ هار
+Haar measure	قِياسُ هار
+Haar, Alfréd	أَلْفْرِد هار
+Haber(-Bosch) process	طَريقةُ «هابِر (وَبُوش)»
+Haberdasher’s problem	مَسْألةُ هابِرداشَر
+habit	عادَة، عُرْف؛ بِنْيَة؛ مَظْهَر (البلّورة)، سَحْنة / هيئة
+habit of crystals	مَظْهَرُ البلّورات، هيئةُ البِلَّورات / هيئة البلورات
+habitability	صَلاحيَّةٌ لِلسُّكْنَى
+habitable	صالِحٌ لِلسُّكْنَى، (سَكُون)
+habitant	موطن، بيئة
+habitat	مَوْطِن، مَثْوَى، مَوطِنٌ بِيئيّ، بِيئَةٌ طَبيعيَّة / مَوْطِن، بيئة / بيئة، موطن
+habitat factors	عَوامِلُ البِيئَة / عوامل البيئة
+habitat form	صورة البيئة
+habitat societies	جمعات بيئية
+habitation	مأوى، مَسْكَن؛ سُكْنَى، اِستِيطان
+habitual	عادِي، مُعتاد، مألوف؛ مُعاوِد، مُعاوَدٌ بانتِظام
+habituate	عَوَّدَ، طَبَّعَ، ضَرَّى
+habitus	مَظْهَر، هيئة / مظهر، هيئة
+habitus of crystals	هيئة البلورات
+haboob	رِياحُ الهَبُوب (في السُّودان)
+hachure	رَقْن، تَرْقين؛ رَقَّنَ / تظليل بالخطوط
+hachured map	خَريطة مُرَقَّنَة
+hack	فَرَّضَ، قَطَّعَ، فَرَضَ، فَرَّمَ؛ فُرْضٌ، قَطعٌ خَشِن؛ قَطَّاعَة، فأس؛ رَكوبة؛ رَصيفُ تَجفيف الآجُر / هاك
+Hack value	قيمة الهاك
+hack watch	عَدَّاد، مِيْقَت
+hack-saw	مِنْشارُ مَعادِن، مِفْرَاض
+hacker	كاتِبُ برامج روتينيَّة؛ هاوي مُداخلاتٍ حاسوبيَّة (غير مَشروعة) / 1 هاكِر ؛ 2 هاكِر / قُرْصَان / هاكر
+Hackers	العابثون – القراصنة
+hacket = hatchet	بُلَيْطَة (لِقَطْع الخَشَب)
+hacking	رَكْمُ الطُّوب لِلتَّجْفيف؛ تَخْشينُ السَّطحِ (إِعدادًا لِلتَّمْليط) / تسلل – قرصنة
+hacking-out knife	سِكِّينُ كَشْط (الدِّهان)
+hackle	مِمْشَقَة، مُشْط (لِلقُطن أو الكَتّان)؛ مَشَقَ؛ فَرَّضَ، مَزَّقَ
+hackly	مُثَلَّم، مُفَرَّض، مَفْلُول، مُشَرْشَر / مُثَلَّم / مثلم
+hackmatack	لاريكس أمريكية
+hadal zone	نِطاقُ الأخاديد
+Hadamard configuration	تَشْكيلَةُ هادَمار
+Hadamard formula	صيغةُ هادَمار
+Hadamard inequality	مُتَبايِنةُ هادَمار
+Hadamard matrix	مَصْفوفةُ هادَمار
+Hadamard product	جُداءُ هادَمار
+Hadamard theorem	مُبَرهَنةُ هادَمار
+Hadamard, Jacques Salomon	جاك سالومون هادَمار
+Hadamard’s inequality	مُتَبايِنةُ هادَمار
+Hadamard’s three-circle theorem	مُبَرْهَنةُ الدَّوائِرِ الثَّلاثِ لِهادَمار
+hade	زاويةُ الصَّدْع الرأسيَّة، زاويةُ المَيْل الرأسيَّة؛ مالَ، اِنحَرَفَ عن الوَضْع العَموديّ / زاوية الميل (في الصدع)
+hade (of a fault)	زاوية الميل (في الصدع)
+hade of fault	مَهْوَى الصَّدْع
+Hadfield steel	فُولاذُ «هَدْفِيلد»
+Hadley cell	خَلِيَّةُ هادْلي
+Hadoop Distributed File System (HDFS)	نظام هدوب للملفات الموزَّعة
+hadron	هَدْرون
+haemal arch	قوس دموية
+haematite	هيماتيت، شاذَنْج، حَجَرُ الدم، أُكسيدُ الحَديديك الأحمر، (خَماهان) / هيماتيت / هيمانيت
+haematoxylon	هيماتوكسيلون
+haemocyanin	هيموسيانين
+haemoglobin	هيمُوغلوبين، يَحْمُور / يحمور، هيموكلوبين
+haemophilia	ناعور، هيموفيليا
+haemorrhage	نَزْفٌ، نَزْفٌ دَمَوي / نزيف
+haemorrhoids	بَواسير
+haemostatic	مُرْقِئ
+hafnium (Hf)	الهفنيوم
+haft	مِقْبَض، نِصاب، مَقْبِض؛ رَكَّبَ مِقبَضًا (لِـ)
+haggle	قَطَعَ بخُشونة
+Hahn decomposition	تَفْريقُ هان
+Hahn-Banach extension theorem I	مُبَرْهَنةُ هان-باناخ الأولَى في التَّمْديد
+Hahn-Banach extension theorem II	مُبَرْهَنةُ هان-باناخ الثَّانِيةُ في التَّمْديد
+Hahn-Banach theorem	مُبَرْهَنةُ هان-باناخ
+hahnium	الهَهْنِيُوم (أَسماهُ الرُّوسُ نِيْلزبُوريوم وَاسمُهُ الدوليُّ أنِّلْپِنْتيُوم)
+hail	سقَطَ البرَد؛ أمطَرَ بوابِلٍ من؛ حَيّا، رَحَّبَ (بِـ)؛ نادَى؛ بَرَد / بَرَدٌ / برد / بَرَد
+hail stage	مَرْحَلَةُ البَرَد
+hailstone	بَرَدة، حبَّةُ بَرَد، حَجرُ البرَد / حجر البَرَد
+hailstorm	عاصِفَة بَرَدِيَّة
+hair	شَعْر، شَعَرَة؛ وَبَر؛ فُسْحَة شَعْريِّة؛ شَعْريّ / غامض، معقّد / شعر
+hair compasses	فِرْجارٌ شَعْريّ، فِرجار دَقيقُ الضَّبْط
+hair crack	شَقٌّ (أو صَدْعٌ) شَعْريّ، فَلعٌ دقيق
+hair felt	لُبّادٌ وَبَريّ
+hair follicle	حويصلة الشعرة
+hair hygrometer	مِرْطابٌ شَعريّ / مِقْياسُ الرُّطُوبةِ الشّعْرِيّ
+hair-grass	شوفان
+hair-line	خَطٌّ شَعريّ، خطٌّ رَفيعٌ جِدًّا
+hair-line cracks	شُقوق شَعْريَّة
+hair-pin bend	حَنِيَّة حادَّة
+haircloth	قُماشُ الشَّعْرِ
+haircross	شُبَيكة شَعْريَّة مُتصالِبة
+hairline	خطٌّ شَعْريّ
+hairpin loops	عروة شعرية
+hairs	شعيرات
+hairspring	نابِضٌ شَعْريّ، زُنْبَرك شَعريّ
+hairy stem	ساق مشعرة
+Haiti	هايتي
+HAL	طبقة تجريد العتاديات
+halation	هاليَّة
+halation; halo	غَبَش هالي، ضباب هالي
+halcyon	قرلي
+halcyon days	فَترةُ اعتِدال (في الاِنقِلاب الشتَويّ)
+Haldane apparatus	جِهازُ «هالْدِين»
+Haldane's law	قانون 'هالدن'
+hale	صَحيحُ الجِسم، مُعَافى
+half	نِصْف، شِقّ، شَطْر؛ نِصْفيّ؛ جُزئيّ؛ بمِقدارِ النِّصْف؛ جُزْئيًّا، تَقريبًا / نصف
+half adder	نصفُ جامع
+half angle	زاويةٌ نِصْفيَّة (لأَسنانِ اللولَب)
+half beam	عَتَبةٌ نِصْفيَّة / عتبة قصيرة على السطح
+half cell	نِصفُ خَلِيَّة
+half closed space	نصف فضاء مغلق
+half coupling = flange coupling	قارِنة بشَفَة، قارِنَة نِصفيَّة
+half deck	غرفة السطح
+half duplex	نِصْفُ مزدوج، نِصْفُ ازدِواجيّ؛ جهازٌ نِصف مزدوج
+half flood; half tide	منتصف المدر
+half hatchet	بَلْطة نِصْفيَّة
+half line	خَطٌّ نِصفيّ / نِصْفُ مُسْتَقيم
+half loop	نِصفُ أُنشوطة؛ نِصفُ حَلْقيّ، نِصفُ إطاريّ
+half mast	نصف الصاري
+half nut	صَمُولَة نِصفيَّة
+half open	نصف مفتوح
+half open space	نصف فضاء مفتوح
+half pattern	نِصْفُ قالَب السَّبْك
+half pay	نِصفُ راتِب
+half plane	نِصْفُ مُسْتَوٍ
+half range	نِصفُ المدى
+half roll	نِصفُ دَورةٍ عُطُوفيَّة
+half router	نصفُ مسيِّر
+half shaft	عَمُودٌ نِصْفيّ
+half size	نِصْفِيّ؛ نِصفُ الحَجم الاعتيادي
+half space	نِصْفُ فَضاء
+half straight line	نصف مستقيم
+half thickness	السُّمْكُ المُنَصِّف
+half tide	مَدٌّ نِصْفيّ، مَدٌّ وَسَطيّ
+half title	عُنوانٌ نِصْفيّ
+half turn	نصف دورة / نِصْفُ دَوْرة
+Half vowel– consonants	أشباه العلل (حروف اللين)
+half word	نِصْفُ كَلِمة
+half-adder	جامِعٌ نِصْفيّ
+half-angle formulae	صِيغُ نصف الزاوية
+half-angle formulas	صِيَغُ نِصْفِ الزَّاوِية
+half-blind dovetail = lap dovetail	وُصْلَةٌ غِنْفاريَّة راكِبَة
+half-bordered pit	نقرة نصف مصفوفة
+half-breadth plan	المَسقَطُ الأُفُقيّ لِنِصْفِ العَرْض (لِجانبِ السَّفينة)
+half-breed	هَجين، مُوَلَّد
+half-card	بطاقة نصفية
+half-circle landing	حَطٌّ بدَوَرانٍ نِصفيّ
+half-closed interval	مَجالٌ نِصْفُ مُغْلَق
+half-closed slot	شَقْبٌ نِصْفُ مُقْفَل
+half-cocked	نِصْفُ مَصْلِيّ
+half-coiled winding = hemitropic winding	لَفٌّ نِصفُ مُنْتَحٍ
+half-column	عَمودٌ نِصفُ ظاهِر (يبرُزُ نِصفُه من الحائط)
+half-compression cam	كامَةُ تَخفيفِ الضغط
+half-crossed belting	سَيْرٌ نِصفُ مُتَعارِض
+half-deflection method	طريقةُ الانحِرافِ النِّصفِي
+half-duplex	نصف مزدوِج (مثنوي) / أحادي الاتجاه
+half-duplex circuit	دارةٌ نِصْفُ ازدِواجيَّة، دارة أُحاديَّة الاتجاه الآنيّ
+half-duplex telegraphy	تلِغرافيَّة نِصْفُ ازدِواجيَّة
+half-element = single-electrode system	بَطّاريَّة نِصفيَّة
+half-finished product	ناتِجٌ نِصفُ مَشغول
+half-fluid	شِبْهُ سائِل
+half-header	لَبِنَةُ مُواجَهة نِصفيَّة
+half-height drive	مِسْوَق بنصف الارتفاع
+half-hight width; half width	عرض النصف
+half-hitch	عُقدَة نِصفيَّة (سَهلةُ الحَلّ)
+half-hour rating	تَقديرٌ نِصفُ ساعيّ
+half-hourly	نِصْفُ ساعِيّ
+half-landing	بَسْطةُ دَرَجٍ نِصفيَّة
+half-lap coupling	قَرْنٌ نِصْفُ تَراكُبيّ، قَرنٌ بوُصلَةٍ نِصفِ راكِبة
+half-lap joint	وُصلَة نصفُ راكِبة (لِرَبْطِ عَمودَين طُوليًّا)
+half-life	عُمْرُ النِّصْف؛ العُمر النصفي؛ فَترةُ انتِصافِ العُمْر
+half-life, effective	عُمر النِّصف الفعّال
+half-line	نصف خط
+half-liner	بِطانة نِصْفيَّة
+half-load efficiency	كِفايَةُ نِصفِ الحِمْل
+half-loaded	نِصفُ مُحَمَّل؛ نِصفُ مَشحون
+half-mast	تَنكيسٌ إلى مُنْتَصَف السّارِيَة؛ نَكَّسَ العلَم (حِدادًا)
+half-moon	نِصفُ بَدر
+half-normal bend	مِرْفَقُ رَبطٍ بزاوية 135°
+half-open interval	مَجالٌ نِصْفُ مَفْتوح
+half-pace	بَسْطَة (أو مِنَصَّة) بينَ دَرَجَين
+half-period = half-life	عُمْرُ النِّصْف
+half-period zones	مَناطِقُ نِصفُ دَوْرِيَّة
+half-plane	نصف مستو
+half-power point	نقطة نِصف القُدرة
+half-range series	مُتِسَلْسِلةُ نِصْفِ المَجال
+half-reaction	تفاعُلٌ نِصْفِي
+half-rip saw	مِنشارُ شَقٍّ يَدَويٌّ صَغيرُ الأسنان
+half-round	نِصفُ دائري، نِصْفُ مَبْروم / نصف دائري
+half-round bit	لُقمةٌ نِصفُ دائريَّة
+half-round chisel	إزميلٌ نِصفُ مَبْروم، إزميلٌ نِصفُ دائريّ المَقْطَع
+half-round file	مِبْرَدٌ نِصفُ مَبْروم
+half-round iron	حَديدٌ نِصفُ مَبروم
+half-round screw = button-headed screw	مِسْمارٌ لَولبيّ ذو رأسٍ نِصفِ كُرَوي (مَشقوق)
+half-section	نِصْفُ مَقْطَع
+half-sectional view	مَسْقَطٌ ذو قِطاعٍ نِصفي
+half-sibs	إخوة غير أشقاء
+half-side mill	مِقْطَعُ تَفريزٍ جانبِيّ نِصفي
+half-silvered surface	سَطحٌ نِصفُ مُفَضَّض، سَطحٌ نِصفُ عاكِس
+half-space	نصف فضاء
+half-space landing	بَسطَةٌ أو مِنَصَّةٌ انتِهائيَّة
+half-speed shaft	عَمودُ نِصفِ السُّرعة
+Half-Sphere	نصف كرة
+half-step = semi-tone	نِصفُ نَغَم، نِصفُ خَطْوة
+half-timbered	نِصفُ خَشَبي
+half-time	نِصفُ الوَقت؛ فاصِلٌ انتِصافي، شَوْط
+half-tone	نِصفِيُّ الدِّخْلَة؛ لَونٌ مُتوَسِّط؛ نِصفُ نَغَم
+half-track	نِصفُ مُزَنْجَر؛ عَربةٌ نِصفُ مُزَنْجَرة
+half-track recording	تَسجيلٌ على نِصف الشَّريط
+half-track tractor	جَرَّارٌ نِصفُ مُجَنزَر (أو نِصْفُ مُزَنْجَر)
+half-turn socket	جُلْبَةٌ (لاقِطةٌ) بنِصفِ دَورة
+half-twist auger	بَريمة نِصفيَّةُ اللَّولَبة
+half-value layer (or thickness)	الطبَقةُ (أو السَّماكَةُ) المُنَصِّفة
+half-value period	أَمَدُ انتِصافِ القِيمة، عُمْرُ النِّصْف
+half-watt lamp	مصباحٌ كَهرَبائي نصفُ وَطِّيّ (استِهلاكُه نِصفُ واط لِلشَّمعة)
+half-wave	نِصفُ مَوْجي؛ نِصفُ مَوْجَة
+half-wave antenna	هوائيّ نِصفُ مَوجي
+half-wave dipole	ثُنائيُّ القُطْب نِصْفُ المَوجيّ، هَوائيّ ثُنائيّ القُطْب
+half-wave plate	لَوحٌ نصفُ مَوجي
+half-wave rectification = single-wave rectification	تَقويمٌ نِصفُ مَوجي، تَقويمُ التناوُب
+half-wave rectifier	مُقَوِّمٌ نِصفُ مَوْجي، مُقَوِّمُ نِصْفِ المَوجة
+half-wave suppressor coil	مِلَفٌّ كابتٌ نِصفُ مَوجي
+half-wave transmission	إرسالٌ نِصفُ مَوجي
+half-way	مُتَوسِّط بينَ نُقطَتَين
+half-width	نِصفُ الاتِّساع، نِصْفُ العَرْض / نِصْفُ العَرْض
+half-word	نصف كلمة
+half-yearly	نِصفُ سَنَوي
+halftone	نصف درجة [لونية] / طباعة نصفية
+halftone cell	خلية ذات نصف درجة [لونية]
+Halfword	نصف كلمة
+halide	هاليد، نَظيرُ الهالُوجين؛ هالُوجينيّ، شِبهُ مِلْحيّ / هاليد
+halieutic	صيدي، سمكي
+haliplankton	عَوالقُ البحار
+halite	مِلحُ الطعام الصَّخري، كلوريد الصُّوديوم الطبيعي / مِلْح صخري / ملح صخري
+halitosis	بَخَر، رائِحَةُ النَّفَسِ الكَريهة
+Hall effect	ظاهرة «هُول»
+Hall probe	مِسبار «هُول»
+Hall process	طريقةُ «هُول»
+Hall subgroup	زُمْرةُ هول الجُزْئِيَّة
+Halley, Edmond	إدْمونْد هالي
+Halley’s comet	مُذَنَّب «هالِيْ»
+Halley’s method	طَريقةُ هالي
+halliard = halyard	كَرٌّ
+hallmark	دَمْغَةُ المَصُوغات (لبَيان عيارِها)؛ طابَعٌ مُمَيِّز، طابَعُ الأصالَةِ والجُودَة
+Hallucination	هلوسة
+hallucinogen	مُهَلِّس
+Hallwach’s effect = photo-electric effect	ظاهِرةُ «هولوَاك»
+Hall’s theorem	مُبَرْهَنةُ هول
+Halm’s differential equation	مُعادَلةُ هالْم التَّفاضُلِيَّة
+halo	هالَة / هالة
+halo = halation	هالَة؛ هالَة، تهَلُّل
+halo of 22°	هالةٌ ذاتُ 22 دَرَجة
+halocarbon	فحْمٌ هالوجينيّ
+halochromism	تَلَوُّنٌ أملاحي
+halocline	مَمالُ الملوحة، مَدروجُ المُلوحة
+halogen	هَالُوجين / هالوجين
+halogen minerals	مَعادنُ هالُوجينيَّة
+halogenate	هَلْجَنَ
+halogenated hydrocarbon	هِدْروكَربون مُهَلْجَن
+halogenated rubber	مَطّاطٌ مُهَلْجَن
+halogenation	هَلْجَنَة
+halogenic deposit	قُرارَة هالُوجينيَّة، رُسابة مِلْحيَّة
+haloid	هاليد؛ هالُوجيني، شَبِيهٌ بالهالُوجينات
+haloid acids	حَوامِضُ الهالُوجينات
+halon	هالون
+halophia	حامول البحر
+halophile	أَليفُ المُلوحة
+halophious	أليف الملح
+halophobe	نَباتٌ لامِلْحيّ
+halophyte	نَباتٌ مِلْحِي / نباتات ملحية
+halophytes	نباتات ملحية
+halt	تَوَقُّف، وَقْفَة؛ مَوْقِف، مَحَطَّة؛ عَرَجٌ؛ تَوَقُّف؛ تَعليمةُ تَوَقُّف؛ أوقَفَ، تَوَقَّفَ؛ عَرَجَ / 1 وقوف ؛ 2 توقّف / إغلاق، إيقاف
+halt instruction	تعليمة توقّف / تَعْلِيمَةُ التَّوَقُّف
+halter	دبوس الاتزان
+Halting problem	مشكلة إيقاف، مشكلة توقف
+halve	نَصَّفَ، شَطَرَ؛ خَفَّضَ إلى النِّصف
+halved joint	وُصلَة تَنْصيفيَّة
+halves (pl. of half)	أنصاف
+halving	وَصلٌ تَنْصيفيّ
+halving joint	وُصْلَةٌ تَنْصيفيَّة
+halyard	كَرّ، كَرُّ القِلْع، حَبْلُ القِلْع أو العَلَم / حبل الرفع، حبل السحب
+halyard block	بكرة حبل السحب
+halyard purchase	عدة رفع حبل السحب
+ham	هاوٍ لاسِلْكيّ
+ham sandwich theorem	مُبَرْهَنةُ الشَّطيرة
+hamate = hamulose	أَعْقَفُ، خُطّافيّ، مَعْقوف
+Hamel basis	قاعِدةُ هامِل
+Hamel, Georg Karl Wilhelm	جورْج كارْل وِلْهِلْم هامِل
+hamelia	هاميلية
+Hamilton, William Rowan	وِلْيَم رُوان هامِلْتون
+Hamilton-Cayley theorem	مُبَرْهَنةُ هامِلْتون-كايْلي
+Hamilton-connected graph	بَيانُ هامِلْتون المُتَرابِط
+Hamilton-Jacobi equation	مُعادَلةُ هامِلْتون-جاكوبي
+Hamilton-Jacobi theory	نَظَرِيَّةُ هامِلْتون-جاكوبي
+Hamiltonian chain	سِلْسِلةٌ هامِلْتونِيَّة
+Hamiltonian circuit	دارةٌ هامِلْتونِيَّة
+Hamiltonian cycle	دَوْرةٌ هامِلْتونِيَّة
+Hamiltonian graph	بَيانٌ هامِلْتونِيّ
+Hamiltonian path	مَسارٌ هامِلْتونِيّ
+hammada	حَمّادة / حمادة، صحراء صخرية
+hammer	مِطْرَقَة، شاكُوش؛ ذِراعُ الطابِعة؛ ديكُ (البُندقية)، قادِح؛ بَيْعُ المَزاد العَلَني؛ طَرَقَ، طَرَّق، دَقّ / مِطرقة
+hammer break	رَعّاشَة مِطرقيَّة (في جَرَسٍ أو مِلَفِّ حَثّ)
+hammer crusher	كَسّارة مِطرقيَّة
+hammer drill	مِطْرَقَةٌ ثقّابة، ثَقّابةٌ مِطْرقيَّة
+hammer face	وَجْهُ المِطرقَة
+hammer forging	التشكيلُ بالطَّرْق، حِدادةٌ بالطَّرْق
+hammer hardening	الإصلادُ بالطَّرْق
+hammer head (shark)	رأس مطرقة (سمكة قرش)
+hammer head crane	مرفاع برأس مطرقة
+hammer mark	عَلامةُ طَرْق
+hammer mill	كَسّارة مِطرَقيَّة
+hammer pane (or peen)	ناريجُ المِطرَقة
+hammer pick	مِعْوَلٌ مِطْرَقيّ، مِطرَقةُ نَقر
+hammer scales	قُشورُ الطَّرْق
+hammer slag	خَبَثُ الطَّرْق
+hammer test	اِختبارُ الطَّرْق
+hammer welding	لِحامٌ بالطَّرْق (والإحماء)
+hammer, air	مِطرقَة هَوائيَّة
+hammer, ball-pane (or peen)	مِطرقةٌ ذاتُ وجهٍ (ناريجٍ) كُرَويّ
+hammer, boilermaker’s	مِطرقَةُ جَلفَطةِ المَراجِلِ (أو إزالةِ القُشور عَنها)
+hammer, bumping	مِطرَقَةُ دَقدَقة
+hammer, bush	مِنقاش، مِنحاتٌ مُسَنَّن
+hammer, claw	مِطرَقة مِخلبيَّة، شاكوشٌ بكَمّاشة
+hammer, cross-pane	مِطرقةٌ بناريجٍ مُستعرض
+hammer, drop	مِطرقةٌ ساقِطة
+hammer, forging	مِطرقَةُ الحِدادة
+hammer, nail	مِطْرَقة بكَمّاشة
+hammer, picking	مِطرَقة نَقْر
+hammer, planishing	مِطرَقةُ تَسْطيح
+hammer, plastic	مِطرقةٌ لَدائنيَّة (من البلاستيك)
+hammer, pneumatic riveting	مِطْرَقَةُ بَرْشَمَةٍ نَفْحيَّة
+hammer, power	مِطرقةٌ آليَّة، مِطْرَقة مِيكانيكيَّة
+hammer, rawhide	مِطرَقة من الجِلْدِ الخام (لا تَخدُشُ السُّطوح)
+hammer, riveting	مِطرَقةُ بَرْشَمة
+hammer, sledge	مِرْزَبَة
+hammer, straight-pane	مِطرقةٌ بنارِيجٍ مُعتَدِل، مِطرَقة (جَذ) مُستَقيمةُ الحَد
+hammer-axe	فَأْسٌّ مِطْرَقيَّة
+hammer-beam	عَتَبَة مِطْرَقيَّة (ترتكِزُ إلى الجِدار)
+hammer-beam roof	سَقْفٌ مِطْرَقيُّ العَتَبات
+hammer-headed	طَروقُ الرأس
+hammer-headed chisel	إِزْميلٌ طَرُوقُ الرأس
+hammered	مُطَرَّق، مُشَكَّلٌ بالتَّطْريق
+hammerhead	رَأسُ المِطْرَقة
+hammering	تَطْريق
+hammering block	زَهْرةُ التَّطْريقِ
+hammerman	طَرّاق، عامِلُ المِطرَقة الآليَّة
+Hamming code	رِمَازُ Hamming
+Hamming distance	مَسافةُ هامِنْغ
+hamper	أعاقَ، عَرْقَلَ، عاقَ الحَرَكة؛ سَلٌّ كَبير ذو غِطاء، زَنْبيل
+Hancock jig	هَزّازُ «هانكوك»
+hand	يَد؛ مِقْبَض، مَقْبِض؛ عَقْرَب (الساعة)؛ عامِل، مُستَخْدَم؛ ناوَلَ، سَلّم يَدًا لِيَدٍ؛ مَدّ يدَ المُساعدة؛ يَدَوِي / يد
+hand anemometer	مِقياسُ الرّياح اليدوي
+hand auger	مِثقابٌ يَدَوي
+hand bell	جرس يدوي، ناقوس يدوي
+hand brake	فَرْمَلَة يَدَويَّة، مِكْبَحٌ يَدَوي
+hand bumping	دَقدقةٌ باليَد
+hand burnishing	تَلْميعٌ يَدَوي
+hand crank	مُدَوِّرَةٌ (ذِراعُ تَدْويرٍ) يَدَويَّة
+hand cranking	تَدْويرٌ بِذِراعٍ يَدَويّ
+hand drill	مِثقابٌ يَدَوِي، ثَقّابة يَدَويَّة
+hand drive (or driving)	إدارة باليَد
+hand feed	إِلْقامٌ يَدَويّ، تَغْذِية يَدَويَّة
+hand fit	تَوافُق باليَد، إزواجٌ يَدويّ
+hand forging	تَشكيلٌ بالطَّرْق اليَدوي، حِدادةٌ يَدَويَّة
+hand generator	مُوَلِّدٌ يَدَويّ
+hand grenade	قُنبلَة يدوية؛ قارورةٌ لإطفاء الحَرائق
+hand grip	مِقْبَض يدَوي، قَبْضَة يدَويَّة
+hand groover	مُحَزِّزةٌ يَدَويَّة، مِكَدَّة يَدَويَّة
+hand hammer	مِطْرَقَة يدَوَّية
+hand hoist	مِرفاعٌ يَدَوي
+hand hole	فُتحَةُ يَد (في غَلاّيةٍ أو مِرْجَل)، مَدخَلُ اليَد
+hand hole (in a boiler)	فتحة تفتيش (في غلاية)
+hand jack	رَافِعَة يَدَوِيَّة
+hand jig	هَزّازٌ يَدَويّ (يُحَرَّكُ في خَزّانٍ مائيّ)
+hand knob	كُعْبُرة يدَويَّة
+hand labour	عَمَلٌ يَدَوي
+hand ladle	مِغْرَفَة (سباكة) يدويَّة
+hand lathe	مِخْرَطة يدَويَّة
+hand lens	عَدَسَة مكبِّرة (تُمسَكُ باليَد)
+hand level	مِسْواةٌ يَدَويَّة، مِيزانُ تَسْويةٍ يدَوي
+hand lever	عَتَلَة يدوية، رافِعةُ يَدَويَّة
+hand lever punch	خَرّامَةٌ يَدَويَّة بذِراعَين
+hand lift	مِرفاعٌ يَدَوي
+hand loading	تَعْبِئَة باليَد، تَحْميلٌ يَدَويّ
+hand lubrication	تَزْليقٌ يَدَويّ
+hand mast	صارٍ يدويٌّ
+hand moulding	قَوْلَبةٌ يَدَويَّة
+hand operation	التَّشْغيلُ باليَد
+hand press	مِكْبَسٌ يَدَوي (لِطَبْع المُسَوَّدات)
+hand puddling	تَسْويطٌ باليَد
+hand pump	مِضَخَّة يَدَويَّة
+hand punch	ثَقّابة يَدَويَّة (لبِطاقاتِ البَيانات)
+hand rammer	مِدَكٌّ يَدَوي
+hand release	مُطْلق يدوي
+hand reset	إِعادةٌ يَدَويَّة
+hand rest	سِنادَةٌ لليَد (في المِخرَطة)
+hand roller	أُسطُوانةُ تَحْبير يَدَويَّة
+hand rudder	دفة يدوية
+hand scanner	مِفْرَاسٌ يَدَوِيّ
+hand scraper	مِكْشَطَة يدَويَّة
+hand screw = clamp	قامِطَة يَدَويَّة (يُشَدُّ فَكَّاها بمسمارَين مُلَولَبَيْن)
+hand seamers	زَرَديَّةُ دَرْزٍ يدويَّة
+hand shank	مِغْرفَةُ سباكةٍ يدَويَّة (يحملُها رَجُلان)
+hand shears	مِقَصٌّ يدَويّ
+hand sketch	رَسْمٌ تخطيطيّ يَدَوي
+hand starting	بَدءُ الحَرَكة يَدويًّا
+hand steering gear	جهاز توجيه يدوي
+hand straightening	ضَبْطُ الاستِقامة يَدَويًّا
+hand surfacing	تَسْطيحٌ باليَد
+hand tap	ذَكَرُ لَولَبةٍ (داخِليَّةٍ) يَدَوي
+hand thermometer	مِقياسُ الحَرارَةِ اليدَوي
+hand tool	عُدَّة يَدَويَّة
+hand tool rest	سِنادةُ العُدَّة اليدَويَّة
+hand tools	عُدَّة يَدَويَّة
+hand turning	خِرَاطَة يَدوية
+hand vice (or vise)	مِلْزَمَة يدوية
+hand wheel	عَجَلَةٌ تُدارُ باليَد
+hand winding	لَفٌّ باليَد
+hand-axe	فَأسٌ يدَويَّة خَفيفة
+hand-barrow	مِحَفَّة، حَمَّالة، نَقَّالَة
+hand-brace	مِثقابٌ يَدَوي
+hand-controlled	يَدَوِيُّ التحَكُّم، مُدارٌ باليَد
+hand-held computer	حَاسُوبٌ جَيْبِيّ
+hand-lamp = inspection-lamp	مِصباحٌ يَدَوي (للمُعايَنة أو التفتيش)
+hand-lead	مِسْبار يَدَوي
+hand-loom	نَوْلٌ يَدوي
+hand-net	شُبيكة يدوية
+hand-operated chuck	ظَرْفٌ يَدَويُّ التَّشْغيل
+hand-operated device	جِهازٌ يَدَويُّ التَّشْغيل
+hand-rail	درَابزين الدَّرَج، دَرابزون
+hand-regulated arc lamp	مِصباحٌ قَوسيّ يُنظَّمُ باليَد
+hand-saw	مِنشارٌ يَدوي
+hand-set	مُجَمَّعٌ أو مَرْصُوص باليَد؛ تِلفون يَدَوي مُدْمَج
+hand-sorted ore	خامٌ مَفروزٌ باليَد
+hand-wrought	مُشَكَّلٌ أو مَشغولٌ باليَد
+handbook	كُتَيِّب، كِتابٌ مُخْتَصَر، دَليل / كتيّب
+handbreadth	عَرْضُ الكَفّ (حَوالَى 10 سم)
+handcart	عَرَبَةُ يَد
+handcraft	حِرْفَة، صَنْعَة يَدَويَّة؛ صَنَعَ يَدَوِيًّا
+handcuff	قَيدٌ لِليَد، صِفادٌ يَدَوي
+handful	قُبْضَة، حَفْنة، مِلءُ اليَد
+handglass	مِرآة (أو مُكَبِّرة) يدويَّة
+Handheld	محمول باليد
+handheld computer	حاسوب محمول [باليد]
+handheld PC	حاسوب شخصي محمول [باليد]
+handheld scanner	ماسحة محمولة [باليد]
+Handi-Talkie	مُرْسِلٌ مُستَقْبِلٌ يَدَويّ
+handicap	عائِق، عَقَبَة، عَرْقَلَة؛ عاقَ، عَرْقَلَ
+handicraft	حِرْفَة، صَنْعَة يَدَويَّة؛ بَراعَة يدويَّة
+handiness	سُهولَةُ المَنال، سُهولَةُ المُباشَرة
+handiwork	عَمَلٌ يَدَوي
+handkerchief surface	سَطْحٌ مِنْديلِيّ
+handle	مِقْبَض، مَقْبِض، قَبْضَة؛ مِمْسَك؛ عَالَجَ، اِستعَمَل، عامَلَ / 1 مقبض (مؤشِّر مضاعف) ؛ 2 مقبض ؛ 3 مقبض
+Handle (noun)	مقبض
+Handle (verb)	تعامل
+handle bar	مِقْوَد، ذِراعُ التَّوجيه (في الدرّاجة)
+handle, adjusting	مِقْبَضُ الضَّبْط
+handle-type fuse	حامِلُ مِصْهَر ذو مِقْبَض
+handler	مُناوِل، عامِلُ مُناوَلة؛ مِقْبَض؛ مُوَجِّه؛ مُناول، برنامجُ مُناولة / 1 متولٍّ، متناول ؛ 2 متولٍّ، متناول / مُدَبِّر / مداوِل
+handline	حبل النجاة
+handling	مُعالَجة، مُداوَلة، مُعامَلة، مُناوَلة، تَدْبير، مُباشَرة، خِدْمة؛ تَعْبِئَةُ السِّلَع أو شَحْنُها
+handmade	يَدَويّ، مَصنوعٌ باليَد
+Handout	منحة، مكتوب
+hands-on	عمليّ
+handsel	قِسْطٌ أوَّل، عُرْبون؛ صَفْقَة أُولى؛ دَشَّنَ
+handshake	مصافحة / إقامة الإتصال
+handshaking	مُصافحة؛ مَراسمُ بَدءِ الاتصال / تأكيد الإتصال، إقامة الإتصال
+handspike	مُخْل، عَتَلَة يَدَويَّة
+handwork	صِناعة يدَويَّة، شُغْلٌ أو عَمَلٌ يَدَوي
+handwriting recognition	1 تعرُّف خطّ اليد ؛ 2 تعرُّف خطّ اليد
+Handwriting recognition corpora	ذخيرة لغوية لتمييز الكتابة اليدوية
+Handwriting recognition system	نظام تَعَرُّف الكتابة اليدوية
+handy	سَهْلُ الاستِعمال، سَهلُ المَنال؛ صَناعُ اليَدَين، فارِه
+hang	عَلَّقَ، دَلَّى؛ تَعلَّقَ، تدَلَّى؛ رَكَّزَ على مُفَصِّلات؛ طَريقةُ التعليق / يتوقف فجأة / تعليق
+hang-glider	شراعيَّة مِعلاقيَّة
+hang-up	تعَلُّق؛ توَقُّفٌ طارِئ / تَوَقُّفٌ غَيْرُ مُتَوَقَّع
+hangar	حَظيرة (الطائرات)، عَنْبَر، مَرْكَن
+hangbird	صفارية
+hanger	مِعْلاق، أَداةُ تَعْليق؛ عُرْوةُ التَّعليق؛ حَمّالة، عَلاّقة؛ كَتيفةُ تَعْليق؛ كَتيفةُ المِيزاب
+hanger bearing	مَحْمِلُ التَّعليق
+hanger bracket	كَتِيفَةُ تَعْليق
+hangfire	تعَوُّقُ الاِنفِجار
+hanging	سِتارةٌ (أو شَيءٌ يُعَلَّقُ) لِلزِّينة؛ تَعْليق؛ تعَلُّق؛ مُعَلَّق، مُتَدَلٍّ؛ مُشْرِف / مُعلَّق / معلق
+hanging battens	صَفٌّ مِن المَصابيح المُعَلَّقة
+hanging bolts	قُضْبانُ دَعْمٍ مُعَلَّقة
+hanging bridge	قَنْطَرة مُعَلَّقة، جِسْرٌ مُعَلَّق
+hanging buttress	كَتِفٌ (دِعامةٌ زافِرة) مُعَلَّقة
+hanging compass	بوصلة مقلوبة
+hanging drop	قطرة معلقة
+hanging indent	إزاحة نحو الخارج
+hanging method (oysters)	تربية بالتعليق
+hanging sash	إِطارُ نافِذةٍ مُعَلَّق
+hanging scaffold	سِقالةٌ مُعَلَّقة
+hanging steps	دَرَجاتٌ مُعَلَّقة
+hanging stile	قائم مُعَلَّق
+hanging valley	وادٍ مُعَلَّق (لِرافِدٍ مُرتَفِع المَجْرى)
+hanging wall	جِدارٌ مُعَلَّق
+hangings	مُعَلَّقات جُدرانيَّة
+hangover	تخَلُّفُ الصُّورة (على السِّتارة)؛ تخَلُّف الصَّوت
+hank	لَفيفَة، كُبَّةُ خُيوط، شِلَّة؛ مِلَفّ / قفيز الشراع
+Hankel functions	دالَّتا هانْكِل
+Hankel matrix	مَصْفوفةُ هانْكِل
+Hankel transform	مُحَوِّلُ هانْكِل
+Hankel, Hermann	هِرْمان هانْكِل
+Hankel’s integral	تَكامُلُ هانْكِل
+Hanoi graph	بَيانُ هانوي
+Hanoi towers	أبْراجُ هانوي
+Hansa yellow	أَصْفَرُ «هَنْزا»
+Hansen’s problem	مَسْأَلةُ هانْسِن
+haphazard	اِتِّفاقيّ، عَرَضيّ، تَصادُفيّ؛ عَرَضًا
+haplodiploidy	فردانية ضعفانية
+haploid	فَرْدانيّ (الصِّبْغيّات)، أُحادِيُّ الصِّيغةِ الصِّبْغيَّة / أحادي الصبغيات / أحاديّ المجموعة الصبغية، فردانيّ
+haploid number	أحادي المجموعة الصبغية
+haploidy	فردانية
+haplont	فردانيّ ضعفانيّ الزيجوت
+haplophase	طور فردانيّ
+haplotyne	لاقحة فردانية
+haplotype	نمط فردانيّ
+happen	حَدَثَ، جَرَى؛ حَدَثَ اتِّفاقًا
+Haptic	لمسى، متعلق باللمس
+Haptic interface	واجهة لمسية
+haptotropism	اِنتِحاءٌ لَمْسيّ
+harass	أَنْهَكَ، أَرْهَقَ، ضايَقَ، أَزْعَجَ
+harbo(u)r	مِيناء، مَرْفَأ، ثَغْر، كَلاّء؛ مَلاذ، مُكَلاَّ؛ أَلْجَأَ، أَكَنَّ؛ أَرْفَأَ؛ لاذَ
+harbor authorities; port authorities	سلطات الميناء
+harbor; harbour, haven	مرفأ، ميناء
+harbour area	منطقة الميناء
+harbour bound	محتجز بالمرفأ
+harbour captain	قائد الميناء
+harbour dues	رُسومُ المَرفَأ
+harbour entrance	مدخل الميناء
+harbour police	شرطة الميناء
+harbour regulation	قانون المرفأ
+harbour signals	إشارات الميناء
+harbour station	محطة ركاب الميناء
+hard	صُلْب، قَاسٍ، صَلْد؛ صَعْب، شاقٌّ، عَسِير؛ شَديد، كَدُود؛ عَسِر؛ حادّ؛ شَديدُ النّفاذِية؛ عالي التفريغية؛ طَبقةُ تَصليد حَصْباوِيَّة؛ بِشِدَّة، بِعُنف، بِجُهد؛ إلى الحَدِّ الأقصى / 1 صُلْب ، 2 صُلْب / صَلْد، قاسٍ / صلد، قاس
+hard ash coal	فَحمٌ غَثّ
+hard brass	نُحاسٌ أصفَرُ مُصَلَّد
+hard bronze	برونز صَلْد
+hard card	بطاقةٌ صُلبة
+hard clam (meretrix lusoria)	محارصلب الصّدفة
+hard coal	فَحْمٌ صَلْد، فَحمُ الأنثراسيت / الفحم الحجري
+hard coal; anthracite	انتراسيت
+hard contrast light	ضَوءٌ شَديدُ التَّبايُن
+hard copy	نُسْخةٌ مَطْبوعة / نسخة مطبوعة / نُسْخَة وَرَقية / نسخة ورقية
+hard core	أساسٌ جامِدٌ (للرَّصْف)؛ كُسارة صلْبة لِلرَّصْف؛ قَلْبٌ صَلْد
+hard currency	عُمْلَةٌ صَعْبَة
+hard digging	حَفْرٌ في أرضٍ صُلْبَة
+hard disk	أسطوانة صُلبة، قُرصٌ غير مَرِن / قرصٌ صُلب / قُرْصٌ صَلْب / قرص ثابت
+hard disk drive	مِسْوَقُ قرصٍ صُلْب / محرّك قرص صلب
+hard disk type	نوعُ القرصِ الصُّلب
+Hard drive	قرص صلب
+hard drug	عقّارٌ إدمانيٌّ خَطِر
+hard error	1 خطأ عتادي ؛ 2 خطأ مُهلِك
+hard failure	عطل عتادي
+hard finish	طَلْيَةُ تَصْليد
+hard formation	تَكوينٌ صُلْب، بِنْية قاسِية
+hard formation bit	لُقمةُ حَفرٍ لِلطبقاتِ الصُّلبة
+hard glass	زُجاجٌ صَلْد (لوُجودِ مُرَكَّبات البُورون فيه)
+hard grit	حَجَرُ تَجليخٍ صَلْد
+hard head	كُتْلة صَلْدة
+hard heading	حاجزٌ صَخْري (في طَريق الحَفر)
+hard hyphen	واصلة صُلبة
+hard labour	أَشغالٌ شاقَّة
+hard lead	رَصاصٌ قاسٍ (يَحوي شَوائِبَ مِن الأنتيمون)
+hard lighting	إضاءَةٌ شَديدةُ التَّبايُن (تُحدِثُ ظِلالاً واضحةً مُحَدَّدةَ المَعالِم)
+Hard limit	حدّ قوى
+Hard linking	ربْط صلب
+hard metal	مَعدِنٌ صَلْد
+hard oil	شَحْمٌ صُلْب
+hard plaster	جص صَلْد
+hard plating	طِلاء صَلْد
+Hard Prompting	أوامر صلبة
+hard radiation	إشعاعٌ صَلْد
+hard rays	أَشِعَّة نَفّاذة أو صَلْدة
+hard return	نهاية سطر قسرية
+hard roe	سرء السمك
+hard rubber	مَطاطٌ صَلْد
+hard rush	سمار أحوى، أسل أحوى
+Hard sector	قطاع صلب
+hard soap	صابونٌ جامِد (يُحَضَّرُ بأملاحِ الصوديوم)
+hard solder	لِدامٌ صَلْد
+hard soldering	اللِّحامُ بِلِدامٍ صَلْد
+hard space	مسافة صُلبة
+hard steel	فُولاذٌ صَلْد
+hard stocks	طُوبٌ مَحروق
+hard surfacing	تَصْليدُ السَّطْح
+hard tube = hard valve	صِمامٌ صَلد، صِمامٌ عالي التَّفريغيَّة
+hard twist	غَزْلٌ شَديدُ البَرْم
+hard valve (or tube)	صِمامٌ صَلْد
+hard water	ماءٌ عَسِر
+hard wheat	حنطة صلدة
+hard-backed	مُجَلَّد بغِلافٍ مُقَوّى
+hard-coded	1 صلب الترميز ؛ 2 صلب الترميز
+hard-facing	تَصليدُ السَّطح؛ سطحٌ مُصَلَّدٌ بهذه الطريقة
+hard-laid	شَديدُ الفَتْل
+hard-sectored	عَسِر القطاعات
+hard-sectored disk	قرصٌ صُلبُ التقطيع
+hard-set	مُحكَم، ثابِت
+hard-wired	ذو توصيلات ثابتة (من صُلب الجهاز)
+hard-wired logic	داراتٌ إلكترونية (منطقية) ثابتة
+hardboard	لَوحٌ صَلْد
+harden	صَلَّدَ، قَسَّى، اِشتَدَّ، تَصَلَّبَ
+hardenability	صَلُوديَّة
+hardenable	صَلُود
+hardened	مُقَسَّى، مُصَلَّد
+hardened case	تَغليفٌ مُصَلَّد
+hardened oils	زيُوت مُهَدرَجَة، زُيوتٌ مُيَبَّسَة
+hardened steel	فُولاذٌ مُصلَّد
+hardener	مُعَجِّلُ التَّصليد، مُصَلِّد
+hardening	تَيْبيس، تَقْسِية؛ تجميد، إجماد؛ تَصلُّب؛ تَقْسِيَة، تصليد؛ إصلاد
+hardening agent	عامِلُ تَصْليد
+hardening bath	مَغطِسُ تَصليد
+hardening by nitridation	تَصليدٌ بالنَّتْرَدَة
+hardening furnace	فُرْنُ تَصْليد
+hardening media	أوساطُ التَّصليد
+hardening of fats	إجمادُ الشُّحومِ السائِلة (بالهَدْرَجة)
+hardening of metals	تَصْليدُ المَعادِن
+hardening of oils	إجمادُ الزُّيوت (بالهَدْرَجة)
+hardening of plants	تصليد النباتات
+hardening plant	وَحدةُ تَصْليد
+hardening test	اِختبارُ الإصلاد
+hardening, age	تَعْتيق (المعادن)، إصْلادٌ بالزَّمَن
+hardening, air	تَصليدٌ بالهَواء
+hardening, case	تَصليدٌ (سَطْحي) بالتغليف
+hardening, surface	تَصليدٌ سَطحي
+hardiness	مَتَانة، قُوَّةُ احتِمال
+hardlock	مِفْتَاح حِمَايَة إلكتروني
+hardness	صَلابَة؛ قَسْوَة؛ صُعوبة؛ عُسْر؛ صَلادَة؛ شِدَّةُ النَّفاذِيَّة؛ شِدَّةُ التَّفْريغ / صَلاَدَةٌ، قَسَاوَة / صلادة، قساوة
+hardness number	رَقْمُ الصَّلادَة (باعتِبار رَقْم الماس 10)
+hardness of radiation	صلادةُ الإشعاعِ
+hardness of water	عُسْرُ الماء
+hardness scale	مِقياسُ الصَّلادَة
+hardness test	اِختبارُ الصَّلادَة
+hardness tester	مِقياسُ الصَّلادَة
+hardpan	طَبَقةٌ صَمّاء
+hardship	شِدَّة، مَشَقَّة، عَنَاء
+hardware	خُردَوات (أو أدوات) مَعدِنيَّة؛ عَتادٌ مادِّي؛ مُعدّات، عَتادُ الحاسُوب / عتادياتٌ (كيانٌ صُلب) / عَتَاد / عتاد
+hardware abstraction layer	طبقة تجريد عتادية
+hardware check	تَدقيقٌ عَتاديّ / فحصٌ عتاديّ
+hardware description language	لغة [لـ] وصف العتاديات
+hardware design language	لغة [لـ] تصميم العتاديات
+hardware failure	عطلٌ عتاديّ
+hardware handshake	مصافحةٌ عتادية
+Hardware handshaking	تأكيد اتصال عتادى
+hardware interrupt	مقاطعة عتادية
+hardware key	1 مفتاح عتادي ؛ 2 مفتاح حماية عتادي
+hardware monitor	مرقابٌ عتاديّ
+hardware profile	لاحةٌ عتادية
+hardware tree	شجرة العتاديات
+hardware-dependent	معتمِدٌ على العتاديات
+hardwired	1 مبنيّ عتادياً ؛ 2 مُوَصَّل [مادياً]
+hardwood	خَشَبٌ صَلْد (من الأشجار النَّفْضيَّة) / خشب صلد
+hardy	قَويُّ الاحتِمال، شَديد؛ صَلْدٌ؛ مِقْطَعَةُ الحَدّاد
+hardy hole (of anvil)	ثَقْبُ المِقطَعَة (في السَّندان)
+Hardy-Weinberg law	قانون 'هاردي- فاينبرغ'
+hare	أرنب برية
+hare's ear; cynoglossum	أذن الأرنب
+harebell	جريسة
+Hare’s apparatus	جهاز «هير»
+haricot	فاصولياء
+haricot-bean	فاصوليا
+harm	أَضَرَّ، آذَى، أَتلَفَ؛ ضَرَر، أَذَى؛ تَلَف
+harmful	مُؤذٍ، ضارّ
+harmless	غَيرُ مُؤذٍ
+harmonic	نَغْمَة تَوافُقيَّة؛ تَوافُقِيَّة؛ إشعاعٌ تَوافُقيُّ التردُّد؛ توافُقِيّ، مُتَناسِق، مُنسَجِم، هارمُونيّ / توافقي / متناسق
+harmonic absorber	مُمْتَصُّ تَوافُقيّات
+harmonic accentuator	مُبرِزُ التوافُقيّات
+harmonic amplifier	مُضَخِّمُ تَوافُقيّات
+harmonic analyser	مُحلِّل توافقي
+harmonic analysis	تَحليل تَوافُقي / تحليل توافقي / تَحْليلٌ تَوافُقِيّ
+harmonic analyzer	مُحَلِّلَةُ تَوافُقيّات (في تيّارٍ مُتَناوِب)
+harmonic antenna	هَوائيٌّ توافُقيّ (طولُه مُضَاعَفٌ صَحيح لِطُولِ رُبْعِ المَوْجَة)
+harmonic arithmetic mean	وسط توافقي حسابي
+harmonic attenuator	مُوهِنُ تَوافُقيّات
+harmonic average	مُعَدَّلٌ تَوافُقِيّ
+harmonic beam	حُزْمَة توافُقيَّة / حزمة توافقية
+harmonic components	مُرَكِّباتٌ تَوافُقيَّة
+harmonic conjugates	مُتَرافِقَتانِ تَوافُقِيَّتان / مترافقان توافقيان / مُرافِقَتانِ تَوافُقِيًّا
+harmonic content	المُحتَوى التوافُقيّ
+harmonic current	تَيّارٌ تَوافُقيّ
+harmonic curve	مُنْحَني الحَرَكة التوافُقيَّة
+harmonic detector	كاشِفُ تَوافُقيّات
+harmonic distortion	تَشَوُّهٌ تَوافُقِي / تشوُّه توافقي
+harmonic division	قِسْمَة تَوافُقِيَّة / قسمة توافقية / تَقْسيمٌ تَوافُقِيّ
+harmonic equation	مُعادَلَة تَوافُقية
+harmonic excitation	إثارة تَوافُقِيَّة
+harmonic filter	مُرَشِّحُ تَوافُقيّات
+harmonic folding	طَيٌّ مُتَناسِق
+harmonic frequency	تردُّدٌ تَوافُقي
+harmonic function	دالَّة تَوافُقِية / دالَّةٌ تَوافُقِيَّة / تابع توافقي، دالّة توافقية
+harmonic functions	دالَّتانِ تَوافُقِيَّتان
+harmonic generator	مُوَلِّدُ تَوافُقيّات
+harmonic geometric mean	وسط توافقي هندسي
+harmonic interference	تَداخُل تَوافُقِي
+harmonic mean	وَسَطٌ تَوافُقِي / وسط توافقي / وَسَطٌ تَوافُقِيّ
+harmonic measure	قِياسٌ تَوافُقِيّ
+harmonic motion	حَرَكة تَوافُقية / حركة توافقية
+harmonic motion, simple	حَرَكةٌ تَوافُقية بَسيطة
+harmonic number	عَدَدٌ تَوافُقِيّ
+harmonic oscillation	تذبذب توافقي
+harmonic oscillator	هَزَّازٌ (بِلَّوريّ) تَوافُقيّ
+harmonic pencil	حُزمَة تَوافقية / حزمة توافقية / حُزْمةٌ تَوافُقِيَّة
+harmonic points	نُقْطَتانِ تَوافُقِيَّتان
+harmonic progression	مُتَوَالية توافُقيَّة / متوالية توافقية / مُتَوالِيةٌ تَوافُقِيَّة
+harmonic range	صَفٌّ تَوافُقي / تَشْكيلةٌ تَوافُقِيَّة
+harmonic ratio	نِسْبةٌ تَوافُقِيَّة
+harmonic receiver	مُستَقْبِلٌ توافقي
+harmonic resonance	رَنينٌ تَوافُقيّ (على مُضاعفات تردُّد الإشاراتِ العامِلة)
+harmonic response	اِستِجابةٌ توافُقيَّة
+harmonic ringing	رَنينٌ توافُقي
+harmonic section	قِطاعٌ تَوافُقي / مقطع توافقي
+harmonic selective signalling	إشاراتٌ اِنتِقائية تَوافُقية
+harmonic selector circuit	دارةُ انتِقاء تَوافُقي
+harmonic sequence	مُتَتالِيةٌ تَوافُقِيَّة
+harmonic series	مُتَسلْسِلَة تَوافقية / متسلسلة توافقية / مُتَسَلْسِلةٌ تَوافُقِيَّة
+harmonic suppression	كَبْتٌ تَوافُقيّ
+harmonic suppressor	كابِتُ التوافُقيّات
+harmonic synthesis	تَرْكيبٌ تَوافُقِيّ
+harmonic synthesizer	مركِّب توافقي
+harmonic system of points	مَنْظومةُ نِقاطٍ تَوافُقِيَّة
+harmonic tones	نَغَماتٌ مُتَوافِقَة، تَوافُقِيّات
+harmonic triangle	مُثلَّث تَوافُقي
+harmonic vibration	اِهتِزازٌ تَوافُقي
+harmonic wave	مَوجة تَوافُقيَّة
+harmonic-geometric mean	وَسَطٌ هَنْدَسِيٌّ تَوافُقِيّ
+harmonics	تَوافُقيّات؛ نَغَماتٌ مُتَوافِقة
+harmonics, electric	تَوافُقِيّات كَهربائية
+harmonious	تَوافُقي، مُنْسَجِم، مُتَوافِق؛ إيقاعِي
+harmonization	تَوافُق، تَنْسيق، اِنسِجام، تَوفيق
+harmonize	وَفَّق، نَسَّقَ، تَوافَقَ، اِنسَجَم
+harmony	اِنسِجام، تَساوُق، تَواؤم، أُلْفَة، تَجانُس
+harmotome	هارمُوتُوم
+Harnack’s first convergence theorem	مُبَرْهَنةُ هارْنَك الأولَى في التَّقارُب
+Harnack’s second convergence theorem	مُبَرْهَنةُ هارْنَك الثَّانِيَة في التَّقارُب
+harness	مُهِمّات، عُدَّة؛ طَقْمُ أحزِمة المَقْعَد؛ عُدَّةُ حَيَوان الجَرّ؛ أحزِمَة، حَمائِل؛ سَخَّرَ لِتَوليد القُوَّة، اِستَخدم، تَحَكَّمَ في
+Harness eng-English ineering	هندسة بيئة التشغيل
+harness, parachute	أحزِمَة المِظَلَّة
+harness, wiring	حامِلُ الأسلاك؛ عُدَّة التَّوصيلات الكَهربائية
+harp	كِنّارة، جُنْك
+harpoon	حَرْبةٌ خُطّافيَّة / حربون، خُطاف
+harpoon line	حبل الحربون
+harpooning	صيد بالحربون
+harpy-eagle	عقاب أمريكي
+harrier	مرزة
+Harris process	طريقة «هارِيس»
+harrow	مِسْلَفة
+harrow, disc	مِسْلَفَة قُرصيَّة
+harsh	خَشِن، غَليظ؛ قَاسٍ، فَظٌّ، جافٍ
+Harshad number	عَدَدُ هارْشاد
+hart	ذكر الأيل
+hart's tongue	لسان الأيل
+hartley	هارتلي
+Hartley oscillator	مُذَبذِبُ «هارتلي»
+Hartman dispersion formula	مُعادَلَةُ «هارتمان» لِلتَّشَتُّت
+hartshorn, spirits of	الأمونيا، النوشادر (كانَ مصدرُه قَديمًا قرنَ الإيَّل)
+Haruki’s theorem	مُبَرْهَنةُ هاروكي
+Harvard architecture	بنيان Harvard
+harvest	حَصاد؛ حِصاد؛ غَلَّة؛ حَصَدَ، جَمَعَ الغَلَّة
+harvest of fish	محصول السمك
+harvest-fly	زير الحصاد
+harvester	حَصّادة، مِحْصَدَة
+harvester-thresher	حَصَّادةٌ درّاسَة
+harvesting ant	نملة حصادة
+Harvey meter	مِقياس «هارڤي» (لتَحديد مُدةِ التعرُّض لِلضوء)
+hash	فَرَمَ؛ هَرَمَ؛ خَليط، مَزيج؛ هَذَر؛ شَواش، جَلبَة / يُلبِّد / تلبيد
+hash coding	ترميز بالتلبيد
+Hash function	دالة تجزئة / تابع البصمة - التابع الهاشي
+hash search	بحثٌ بالتلبيد
+hash total	مجموعٌ نحتي / حاصل تدقيقي
+Hash Value	قيمة تابع البصمة
+hashing	نَحْت
+Hashing Trick	حيلة التهشير
+hasp	سَقّاطة مَشقوبة، رِتاج بِرَزَّة
+Hasse diagram	مُخَطَّطُ هاسي
+Hassle	إزعاج
+haste	سُرعة، عَجَلة؛ سُرعة طائِشة
+hasten	عَجَّلَ، اِستعجَلَ
+hasty	سَريع؛ مُنجَزٌ بعَجَلة
+HAT	بيئة 'هات'
+hat section	قِطاعٌ قُبَّعي
+hatch	كُوَّة في السَّقْف أو الأَرضيَّة، غِطاءُ هذه الكُوَّة؛ بابُ الخَزّان؛ النِّصفُ السُّفليُّ لِبابٍ من جُزءَيْن، خَوْخَة؛ تَظْليل؛ تَفْريخ؛ فِراخُ الحُضْنَة الواحِدَة؛ أفرَخَ، أحْضَنَ، فَقَس؛ رَقَّنَ، ظَلَّلَ / فتحة عنبر
+hatch batten cleats	لِزازات غِطاء فُتحة العنبر
+hatch beam	عَصَبُ فُتحة العنبر
+hatch carlings	دعامات سقف العنبر
+hatch coaming	حِتارُ الكُوَّة
+hatch cover	غطاء فتحة العنبر
+hatch grating	شبكة فتحة العنبر
+hatch opening	فتحة العنبر
+hatch, gauge	فُتحةُ القِياس
+hatchback	سيّارةٌ ذاتُ بابٍ خلفيٍّ قَلاّب
+hatchery	مَفْرَخ
+hatchet	بُلَيْطَة، فأسٌ صغيرةٌ لِقَطْع الأخشاب
+hatchet iron	كاوِيةُ لِحامٍ مُستعرضَةُ الحَد
+hatchet stake	عَلاةُ حِدادَةٍ أُفُقِيَّةُ الحافَّة (لِثَنْي الألواح المَعدِنيَّة)
+hatchet, claw	بُلَيطة مِخْلَبيَّة
+hatching	تَظْليل / ترقين / تظليل بالخطوط / بلعوط
+hatchway	كُوَّةُ عُبُور
+hauerite	هاورَيت
+haul	سَحْب، جَرّ؛ شِحْنَة مَجرورة؛ شَوْط، مَسافَة، مسافةُ الجَرِّ أو النقل؛ جَرَّ، نَقَلَ بالجَرّ؛ حَوَّلَ اتجاهَ السفينة (باتِّجاه الرِّيح)
+haul ashore; haul out	سحب للخارج
+haul distance	مَسافةُ الجَرِّ أو النقل
+haul down a flag	أنزل علما
+haul down a sail	أنزل شراعا
+haul in a line	سحب حبلا
+haul the wind	اقترب من الريح
+haul up the slack	سحب الارتخاء
+haul-net	شبكة سحب، شبكة جر
+haulage	جَرٌّ، قُوَّةُ الجَرّ؛ نَقْلٌ بالجَرّ؛ رُسوم الجَرّ؛ شِحْنَةٌ مَنقولة
+haulage level	سَطْحُ الجَرِّ
+hauler	مُلْتَزِمُ نقلِ البَضائعِ بالشاحِنات
+hauling engine	مُحَرِّكُ الجَر
+hauling rope	حَبلُ الجَر
+hauling slip-way	منزلق جر السفن إلى اليابس
+haulm	ساق نجيلية
+haulway	سِكّة الجَر (في المَنجَم)
+haunch	كَتِفُ العَقْد؛ كَتِفُ أو جَذرُ التَّلسينِ المُفْرَغ
+haunch boards	لَوْحا تَكْتيف
+haunched beam	عَتَبة مَشْطوفة
+haunched tenon	لِسانٌ مَشْطوف
+Hausdorff axioms	مَوْضوعاتُ هاوْسْدورْف
+Hausdorff distance	مَسافةُ هاوْسْدورْف
+Hausdorff maximal principle	مَبْدَأُ الأَعْظَمِيَّةِ لِهاوْسْدورْف
+Hausdorff maximality theorem	مُبَرْهَنةُ الأَعْظَمِيَّةِ لِهاوْسْدورْف
+Hausdorff measure	قِياسُ هاوْسْدورْف
+Hausdorff paradox	مُحَيِّرةُ هاوْسْدورْف
+Hausdorff space	فَضاءُ هاوْسْدورْف
+Hausdorff, Felix	فيلِكْس هاوْسْدورْف
+haustori	طرف خرطوم الذباب
+haustorial cells	خلايا ماصة
+haustorium	ممص
+hav	hav
+hav = haversine	نِصْفُ مُتَمِّم جَيْب التَّمام
+have way	تقدَّم بالدفع الذاتي
+haven	مَرفأ، مِيناء، مَلْجَأ، مُكَلاَّ؛ ألجَأ أو اِلتَجأَ إلى مَكانٍ أمين
+haven of refuge	مرفأ التجاء
+haversack	جِرابُ المؤُونَة، مِزْوَدَةُ المُسافِر
+haversian canal	قناة هافرس
+haversine	نِصْفُ مُتَمِّم جَيْب التَّمام / نِصْفُ مُتَمِّمِ جَيْبِ التَّمام
+havoc	خَراب، دَمار بالِغ
+haw	سياج
+hawk	صَقْر، بازِي، طيرٌ جارِح؛ لَوحَةُ المُطَيِّن / باشق
+hawk's beard	كريبس
+hawk-owl	بومة صمعاء
+hawse	فُتحَةُ القَلْسِ (أو الجنزير) في مُقَدَّم السفينة؛ المسافَةُ بين مُقَدَّمِ السفينة الرَّاسِيَة ومَراسيها / بيت القلس
+hawse flap	مصراع كوّة الجنـزير
+hawse hole	فتحة مجرى الجنـزير، فتحة قلس الرباط
+hawse pipe	ماسورة مجرى الجنـزير
+hawse-pipe	ماسُورة القَلْس
+hawse-plug	سِدادُ فُتحَةِ القَلْس
+hawser	قَلْس، كَبْلُ القَطر أو الإرساء / قَلْس
+hawser port	دليل قَلْس فُتحة الرباط
+hawser reel	دولاب قلس
+hawthorn	زعرور
+hay	دَرِيس، كَلأ مُجَفَّف / دريس
+Hay bridge	قَنْطرة «هاي»
+hay-fever	حُمّى الدَّريس، رَبْوُ الحَشائش
+hay-fork	مِذراة، مِذْراةٌ آليَّة
+hayloft	متبنة
+hazard	خَطَر، مَصدرُ خَطَر، خُطورة؛ خاطَرَ، عَرَّضَ أو تَعَرَّض لِلأَخطار
+hazard beacon	منارة تحذير
+hazard bonus	تَعويضُ الأعمالِ الخَطِرة
+Hazard Pay	بدل المخاطر
+Hazardous and Non-Hazardous Wastes	المخلفات الخطرة وغير الخطرة
+hazardous wastes	نُفاياتٌ (أو فَضَلات) خَطِرة
+haze	ضَبابيَّة، اِغبِرار؛ رَهْج، شابُورة، ضَبابٌ خَفيف / غيم / سَدِيم
+haze aloft	غيم مرتقع
+haze horizon	أُفُقٌ الغيم
+haze layer	طَبَقةٌ غيمية
+haze level = haze line	مَنْسوبُ الاِغبِرار؛ خَطُّ أو حَدُّ الشابُورة
+haze line	خَطُّ الغيم
+hazel	بُنْدُق، جِلَّوز؛ خَشَبُ البُنْدُق؛ بُنْدُقيُّ اللَّون؛ عَسَليّ
+hazel-nut	بندق
+hazemeter	مِقياسُ الاِغبِراريَّة
+hazy	مُغْبَرٌّ، أَغْبَشُ، مُضِبّ
+hcf	hcf
+HCF (highest common factor)	قاسِمٌ مُشتَرَك أعظَم
+HDBMS	نظام إدارة قواعد معطيات تراتبية
+HDF	مَصَاغَةُ معطياتٍ تَراتبيّة
+HDL	لغة [لـ] وصف العتاديات
+HDLC	تحكّمٌ عالي المستوى في وُصلةِ معطيات
+HDSL	خطٌّ رَقْميٌّ عالي السرعة لمشترك
+HDTV	تلفزةٌ عاليةُ الوضوح
+He (helium)	هي
+head	رأس، مُقدّمة، طَرَف أمامي، رأسٌ مُدَبَّب؛ أُسْكُفَّة، غِطاء عُلْوي؛ رأسُ العامود؛ طَرَفُ الآلة الذي يُطرَقُ به؛ رئيسُ إدارة؛ ذُرْوَة؛ مَنْبَع (النهر)؛ عُلُوّ؛ ضَغْطُ (الماء أو البُخار)؛ رِغْوة، زَبَد؛ مُتَقدِّم، أمامي، رَئيسي / تَقدَّمَ، تَرأّسَ؛ كَوَّنَ الرأس (للبرشامة مثلاً)؛ وَجَّه أو اتَّجَه (نَحْو) / رأس / رَأْس
+head amplifier	مُضَخِّم رئيسي
+head arm	ذراع الرأس
+head crash	ارتطامُ الرأس / سقوط الرأس
+head de femur	رأس غظم الفخذ
+head foreman	مُلاحِظٌ أَوَّل، رئيسُ المُلاحِظِين
+head ledge	حافة مستعرضة لفتحة العنبر
+head light	نور الملاحة الأمامي
+head line	حبل ربط المقدمة
+head loss	فَقْدُ العُلُوّ
+head louse	قملة الرأس
+head metal	مَعْدِنُ زائدة الصَّب
+head meter	مِقياسُ عُلُوِّ الدَّفْق
+head motion	هَزّازٌ نَضَديّ
+head moulding	حِلْيَةٌ رأسيَّة
+head of a sail	رأس الشراع
+head of drain	عُلُوُّ التَّصْريف، ضَغْطُ شَبَكة التصريف
+head of form (HOF)	أَعْلَى الصَّفْحَة
+Head of Household	رئيس الأسرة
+head of humerus	رأس العضد
+head of liquid	عُلُوُّ السائل (فَوقَ فُتحةِ التصريف)، ضَغْطُ السائل (بالنِّسبة إلى فُتحة التفريغ)
+head office	مَكتَبٌ رَئيسيّ
+head positioning	توضّع الرأس
+head pulley	البكَرةُ العُلْويَّة
+head race	مَجْرًى صاعِد
+head receiver	مُستَقبِلٌ لِلرّأس
+head resistance	مُقاوَمَةٌ أَماميَّة، مُقاوَمةُ التقَدُّم
+head sea	أمواج معاكسة
+head shaft	عَمُودُ الإدارة الأَماميّ
+head slot	شقب الرأس
+head switching	ابتدال الرؤوس
+head to the wind	مقدمة (ال..) في عين الريح
+head tree	عَريشٌ عُلْويّ
+head valve	صِمَامُ التَّصريف (في مِضَخَّة)، صِمَامٌ عُلْوي
+head wall	جِدارٌ ظَهْريّ
+head wind	رِيحٌ أماميَّة، رِيحٌ مُعاكِسة أو مُقابِلة / رياح مُعاكسة
+head, bridge	رأسُ جِسر
+head, buffer	رأسُ المِصَد
+head, cheese	رَأسٌ أُسطُوانيّ (مَشْقُوبٌ لِتَحْريكهِ بالمِفَك)
+head, clevis	رأسٌ ذو تركيبة شُعَبِيَّة
+head, countersunk	رأسٌ غاطِس
+head, cylinder	رأسُ الأُسطوانة
+head, discharge	عُلُوُّ التصريف
+head, dividing	رأسُ تَقسيم
+head, dynamic	العُلوُّ الدينامي
+head, elevation	علُوُّ الوَضع
+head, fillister	رَأسٌ أُسطوانيّ مَشْقُوب
+head, hydraulic	العُلُوّ الهيدرولي
+head, pressure	عُلُوُّ الضَّغْط
+head, print	رأس الطباعة، رأس الطابعة
+head, spline	رأسٌ مُخَدَّد (للمِسمار المُلَولَب)
+head, static	العُلُوّ الإستاتي
+head, suction	عُلُوُّ المَصّ
+head, velocity	الطاقَةُ السُّرْعيَّة (في وَحْدَةِ الوَزْن مِن سائِلٍ يَجري)
+head, water	عُلُوّ مَنْسوب الماء (فوقَ فُتحة التَّصريف)
+head, well	فُوَّهةُ البئر
+head-all	ناردين
+head-bay	حَوزٌ أمامي (يلي بوّابةَ السّدّ الرئيسيَّة على نَهرٍ أو قَناة)
+head-cleaning device	تجهيزة تنظيف الرؤوس
+head-fold	ثنية الرأس
+head-gate	بَوّابةُ السّد الرئيسية (على نَهرٍ أو قَناة)؛ بَوّابةُ المَنسوبِ الأعلى
+head-lamp = headlight	مِصباحٌ أمامي؛ مِصباحُ رأس
+head-on collision	تصادُمٌ مُواجِه، اصطدامُ مُواجَهة
+head-per-track disk drive	مِسوَق أقراص ذات رأس لكل مسلك
+head-rail	سَاكِف
+head-rest	سِنادُ الرأس
+head-set	سَمّاعةُ رأس
+head-waters	أعالي أو مَنابعُ النهر، مِياهُ الأَعالي
+headache	صُداع
+header	لَبِنَةُ مُواجَهة، طُوبةٌ مُستَعْرِضة؛ مُجَمِّعٌ عُلْويّ؛ أُنبوبٌ صاعِد؛ مَجْمَعُ تَوزيع؛ مُشَكِّلةُ الرُّؤوس (لِمَسامير البَرْشَمة)؛ عامِلُ تَسْطيح البِرشام؛ جائِز (ترتكِزُ عليه الأخشابُ المُستَعرِضة)، عارِضةُ دَعْم / 1 ترويسة ؛ 2 ترويسة / تَرويسَة / ترويسة
+header (block)	فاتِحة، تَرويسة
+header file	ملف ترويسي / ملف الترويسة
+header joist	جائزٌ مُستَعرِضٌ قَصير (بين جائزينِ طويلين متوازيين)
+header label	لصيقة ترويسية
+header record	تسجيلة ترويسية
+header set	مِسْطَحةُ بِرْشام
+header tank	خَزّان عُلْوي (في مُقَدَّم السفينة)
+headfast	قَلْسُ المُقَدّمة / رباط المقدمة
+headframe	إِطارٌ عُلْويّ
+headful mechanism	طريقة الرأس الممتلئ
+headgear	غِطاءُ الرأس؛ إطارُ البكَرات العُلويّ (في سَقف المنجَم)
+heading	مُقَدَّم، رأس؛ عُنْوان؛ وُجْهَة السَّيْر؛ فَلْطَحة، تَسْطيح؛ اِتِّجاهٌ زاويّ، وُجْهَة؛ نَفَق أُفُقي (عَبرَ الفحمِ الصُّلْب)، نَفَقٌ مَبْدَئي (يوَسَّعُ فيما بَعْد) / ترويسة ، رأسيّة / (1) ترويسة (2) عنوان / وجهة / اتجاه الطيران
+heading angle	زاويةُ الاِتِّجاه
+heading chisel = mortise chisel	إِزميلُ نَقْر
+heading course	مِدْماكٌ (ظاهرٌ) مِنَ الطُّوب المُستَعرِض
+heading indicator	مُبَيِّنُ الاتِّجاه
+heading joint	وُصلَةٌ فوق مُلتَقى الأَلواح
+heading machine	مَكَنةُ تَكْوين الرأس
+heading of rivets	فَلْطَحةُ رؤوسِ البِرشام
+heading tool	عُدَّةُ تَسطيحِ الرأس
+headlamp bracket	حامِلُ المِصباح الأمامي
+headland	رَأْس / لسان أرضي / لسان أرضي داخل البحر
+headless bushing	جُلْبةٌ لارَأسيَّة
+headlight	مِصباح أمامي، ضَوءُ المُقَدِّمة، (كشّاف)
+headline	عُنوانٌ بحُروف كَبيرة؛ كَبْلُ تَوْجيهِ الكَرّاءة؛ عَنْوَنَ
+headlong	مُنْكَرِسٌ؛ مُتَسرِّع؛ شَديدُ الانحِدار؛ مُنْكَرِسًا؛ دُونَ رَوِيَّة
+headmost	المُتَقدِّم، الأَوَّل
+headphone	سَمّاعةُ رأس
+headquarters	مَقَرُّ القيادة، مَركَزُ الرِّئاسة
+headroom = headway	الخُلوص، اِرتفاعُ السَّقْف (عن الارضيّة أو بين طابقين)
+heads	المُنتَجاتُ العُلْويَّة، مُنتَجاتُ التقطير الأوليَّة؛ طُوبُ المِدْماك العُلْوي
+headspace	فُسْحةٌ عُلْويَّة
+headstock	غُرابُ الرأس (في المِخرطة)؛ حاضِنُ الجُزء الدوّار (في آلةِ قياس)
+headstock motor	مُحَرِّكُ غُراب الرأس (في المِخْرَطة)
+headstream	مَجْرى النهر قُربَ المَنبَع
+headward erosion	تَحاتٌّ باتجاه المَنْبَع
+headwater	مَنْبَع (النهر)
+headwater erosion	تراجُعٌ حَتِّيٌّ نحوَ المَنْبَع
+headway	تَقَدُّم، حَرَكَة إلى الأمام
+headwork	عَمَلٌ فِكرِي
+headworks	مُنْشآتُ المَنْبَع
+heal	شَفَى، أَبرأَ، شَفِيَ؛ اِلتَأمَ، اِندَمَل
+heald	نِيرَةُ النّول (لِنَسْج الخُيوط الطوليَّة)
+health	صِحَّة، عافِيَة
+health certificate	شَهَادة صِحِّيَّة
+Health Expenditure	الإنفاق الصحي
+Health Expenditure (As % of Total Government Expenditure)	نسبة الإنفاق على الصحة كنسبة من الإنفاق الحكومي العام
+Health Indices	المؤشرات الصحية
+health insurance	الضَّمانُ الصِّحِّي
+health physics	الفيزياءُ الصِّحِّيَّة
+health resort	مُنْتَجَعٌ صِحّيّ
+Health Services	الخدمات الصحية
+healthy	صِحِّيّ، نافِعٌ لِلصِّحَّة؛ مُتمَتِّعٌ بالصِّحة، سَليم
+heap	كُومة، رُكام؛ كَمِّيَّة كَبيرة؛ كَوَّمَ، تكَوَّمَ، كَدَّسَ، تكَدَّسَ / 1 مَكدس ؛ 2 كومة
+heap leaching	نَضٌّ تَكْويميّ
+heap roasting	تَحْميصٌ تَكْويميّ
+heap sampling	أَخْذُ العَيِّناتِ التكويميّ
+heap sort	فرز بالتكديس
+heapstead	مُنشَآتُ السَّطْح
+hear	سَمِعَ
+hearing	سَمْع؛ استِماع؛ مَسْمَع / سمع
+Hearing Aids	المعينات السمعية
+Hearing Difficulties	الصعوبات السمعية
+hearing loss	فَقْدُ (حِدَّةِ) السَّمع
+hearing-aid	مُعِينةُ السَّمْع
+hearsay	إشاعة
+Hearst’s algorithm	خوارزمية هيرست
+heart	قَلْب؛ جَوْهَر، صَميم، وَسَط / قلب
+heart cam	كامَة قلْبيَّة، حَدَبةٌ قَلبيَّة الشَّكْل
+heart surface	سَطْحٌ قَلْبِيّ
+heart wood	خشب صميمي
+heart-beat	نَبْضَةُ القَلب، نَبَضان
+heart-clover	فصفصة، برسيم حجازي
+heart-ease	بنفسج مثلث الألوان، بنفسج بري
+heart-failure	قُصُورُ القَلْب، تَوَقُّفُ القَلْب
+heart-rot	تعفن صميمي
+Heartbeat	نبضة قلب
+heartburn	حُرْقة
+hearten	شَجَّعَ
+hearth	مَجْمَرَة؛ مَوْقِد
+hearth capacity	سَعَةُ المَجْمَرة
+hearth casing	إطارُ المَجْمَرة الوِقائي
+hearth furnace, open-	فُرنُ المَجْمَرة المَكشوفة
+hearth lining	بِطانَةُ المَجْمَرة
+hearth refining	تَنقيةٌ بالمَجْمَرة
+heartshake	صَدْعٌ قَلْبي
+heartwood	خَشَبُ القَلْب، جِلْب
+heat	حَرارَة؛ كمِّيةُ الحَرارة؛ طاقَةٌ حَراريَّة؛ سَخَّنَ، سَخُنَ، أَحْمَى؛ ثارَ / حرارة / الحرارة
+heat absorbing glass	زُجاجٌ ماصٌّ للحرارة
+heat absorption	اِمتِصاصُ الحَرارة
+heat absorption capacity	سَعَةُ الامتِصاص الحَراري
+heat accumulators	مَراكِمُ حَرارية
+heat balance	تَوازُنٌ أو اِتِّزانٌ حَراري؛ ميزان الطاقة الحرارية / حَصيلةُ حرارية
+heat capacity	سَعَة حَرارية / سعة حرارية
+heat coil	مِلَفٌّ حَراري (يقطع الخَطَّ عند ارتفاع الحرارة لحِماية الأجهزة)
+heat conductance	المُواصَلَة الحَراريَّة
+heat conduction	التَّوصيل الحَراري
+heat conductivity	المُوَصِّلِيَّة الحَرارية
+heat conductor	مُوَصِّلٌ لِلحَرارة
+heat constant	ثابِتٌ حَراريّ
+heat container	حاوية حرارية
+heat content	المُحْتَوى الحراري
+heat control	تَنظيمُ الحَرارة، ضَبْطُ الحرارة؛ مِضبَطُ الحرارة
+heat convection	الحَمْلُ الحَراري
+heat crack	صَدْعٌ حَراري
+heat detector	مِكْشافُ الحَرارة
+heat dissipation	تَبْديدُ (أو تبَدُّدُ) الحَرارة
+heat distribution	تَوزيعُ (أو نَشْرُ) الحَرارة
+heat drop	هُبُوطُ الحَرارة
+heat efficiency	الكِفاية الحَراريَّة
+heat elimination	نَبْذُ الحَرارة
+heat emission	اِبتعاثُ الحَرارة، إِصدارُ الحَرارة
+heat energy	طاقَةٌ حَرارية / طاقة حرارية
+heat engine	مُحَرِّك حَراري، آلة حراريَّة
+heat engine cycle	دَورةُ المُحرِّك الحَراريّ
+heat equivalent	مُكافِئٌ حَراري
+heat exchange	تَبادُل حَراري
+heat exchange, law of	قانونُ التَّبادُل الحَراري
+heat exchanger	مُبادِل حَراري
+heat expansion	تَمدُّد حَراري
+heat filter	مُرَشِّحٌ حَراريّ
+heat flow	سَرَيانُ الحَرارة؛ تدفُّق حَراريّ
+heat flux	فَيْضٌ حراريّ، دَفْقٌ حَراريّ، تدَفُّق حَراريّ
+heat function	دالَّة حَرارية
+heat gain	كَسْبٌ حَراري
+heat generation	تَوليدُ الحرارة
+heat gradient	مَدروجُ الحرارة، تدرُّج حراري، مَمالٌ حراري
+heat input	الدَّخْلُ الحَراري، المُدْخَلُ الحَراريّ
+heat insulation	عَزْلٌ حَراري
+heat insulator	عازِلٌ حَراري
+heat intensity	شِدَّةُ الحَرارة
+heat lightning	بَرقٌ حراري
+heat loss	فَقْدٌ حَراري / فقد الحرارة، ضياع الحرارة / فقد أوضاع الحرارة
+heat of absorption	حَرارةُ الامتِصاص
+heat of adsorption	حَرارةُ الامتِزاز
+heat of combustion	حرارةُ الاحتِراق
+heat of compression	حَرارةُ الاِنضِغاط
+heat of condensation	حَرارةُ التكَثُّف، حَرارةُ التكاثُف
+heat of crystallization	حَرارةُ التَّبَلْوُر
+heat of decomposition	حرارةُ الانحِلال، حَرارةُ التفَكُّك
+heat of dilution	حَرارةُ التَّخفيف
+heat of dissociation	حرارة التفكُّك
+heat of emission	حرارةُ الابتِعاث
+heat of evaporation	حرارةُ التبَخُّر أو التَّبخير
+heat of explosion	حرارة الانفجار
+heat of formation	حرارةُ التَّكْوين، حَرارة التكَوُّن أو التشَكُّل
+heat of fusion	حَرارةُ الانصِهار
+heat of hydration	حرارة التمييه / حرارة الإماهة والتمييه
+heat of ionization	حرارة التأيُّن
+heat of melting	حَرارةُ الانصِهار
+heat of neutralization	حرارة التعادُل
+heat of reaction	حرارة التَّفاعُل
+heat of solidification	حَرارة التصَلُّب
+heat of solution	حَرارةُ الذَّوَبان، حَرارةُ الانحِلال
+heat of sublimation	حَرارةُ التَّسامي، حَرارةُ التَّصعيد
+heat of transformation	حَرارة التحَوُّل
+heat of vaporization	حَرارةُ التبَخُّر أو التَّبْخير
+heat oil	زَيتٌ حَراريّ، زيتُ تَسْخين
+heat output	الخَرْجُ الحَراري، المُخْرَجُ الحَراري
+heat pipe	أُنبوب (نَقْلٍ) حَراريّ / أنبوب تصريف حراري
+heat pump	مِضَخَّةُ حَرارة
+heat radiation	إِشعاعٌ حَراريّ؛ إِشعاعُ الحَرارة / إشعاع حراري / اشعاع حراري
+heat rays	أَشِعَّة حَراريَّة
+heat reactor	مُفاعِلٌ حَراريّ
+heat recovery	اِستِعادَةُ الحَرارة
+heat regenerators	مُعِيداتُ (أو مُستَرجِعات) الحَرارة
+heat regulator	مُنَظِّمُ الحَرارة
+heat rejection	رَفْضُ الحَرارة، التخَلُّصُ من الحَرارة
+heat release	إِطلاقُ الحَرارة، إِعتاقُ الحَرارة؛ الحرارةُ المُعْتَقة أو المُحَرَّرة
+heat resisting	مقاوم للحرارة
+heat resistivity	مقاومة الحرارة
+heat run	اِختِبارُ حَرارةِ التَّشغيل (لِلآلةِ على حِمْلٍ مُعَيَّن)
+heat seal	خَتْمٌ حَراريّ؛ سِدادةٌ حَراريَّة، وُصْلَةٌ مانِعةٌ لِتَسَرُّب الحَرارة
+heat sealing	وَصل (اللدائن) بالحرارة والضغط
+heat shield	حِوالٌ حَراريّ، دِرْعٌ حَراريّ
+heat shunt	مُفَرِّعٌ حَراريّ
+heat sink	بالُوعةٌ حَراريَّة / مُفرِّغٌ حراريّ / بالوعة حرارة
+heat source	مَصْدَرٌ حَراريّ، مَنْبَعٌ حَراريّ
+heat stable	لا يَنحَلُّ بالحَرارة، ثابِتٌ على الحَرارة
+heat supply	إِمدادٌ حَراريّ؛ مَورِدٌ حَراريّ
+heat tinting	مَشْجٌ حراريّ
+heat transfer	انتِقالُ الحَرارة
+heat transfer coefficient	مُعامِلُ الانتِقال الحَراري
+heat transmission	إنفاذُ الحَرارة، نَقْلُ الحَرارة
+heat treatment	مُعالَجَة حرارية، مُعاملَةٌ حَراريَّة
+heat unit	وَحْدَة (قياس) حَراريَّة
+heat value	القيمةُ الحَرارية
+heat waste	تَبَدُّدٌ حَراري، ضَيَاعُ الحَرارة
+heat wave	مَوْجَة حَراريَّة؛ مَوجةُ حَرّ / موجة حرارية / مَوْجَةُ حَرارية
+heat, atomic	الحَرارة الذَّرِّية
+heat, latent	حَرارةٌ كامِنة
+heat, mechanical equivalent of	المُكافِئ الميكانيكيّ لِلْحَرارة
+heat, molecular	الحَرارةُ الجُزَيئية
+heat, specific	الحَرارةُ النَّوعيَّة
+heat-insulating concrete	خَرَسانةٌ عازِلة لِلحَرارة
+heat-proof	صامِدٌ لِلحرارة
+heat-proof lagging	تَغْليفٌ صامِدٌ لِلحَرارة
+heat-resistant	صامِدٌ لِلحَرارة
+heat-resistant paint (or enamel)	دِهانٌ (أو مِينا) صامِدٌ لِلحَرارة
+heat-resisting steel	فُولاذٌ صامِدٌ لِلحَرارة
+heat-stroke	ضَرْبةُ الحَرارة، رَمَض
+heated filament	فَتيلَةٌ مُسَخَّنة
+heater	مُسَخِّن، سَخّان؛ مِدْفَأَة
+heater bias	اِنحيازُ المُسَخِّن
+heater circuit	دارةُ التَّسخين
+heater coils	مِلَفّاتُ المُسَخِّن
+heater current	تَيّارُ التَّسخين
+heater oil	زيتُ المَواقِد
+heater plug	سِدادةُ السَّخّان
+heater resistance	مُقَاوَمَةُ المُسَخِّن
+heater tube	صِمَامٌ ذو مُسَخِّن
+heater unit	وَحدةُ إِحرار (أَو تَسْخين)
+heater voltage	ڤلطِيَّة المُسَخِّن
+heater, air	مُسَخِّنةُ الهَواء
+heater, electric	مُسَخِّن أو مشِعٌّ كَهرَبائي
+heater, feed-water	مُسَخِّنُ مِياه التَّغذية، سَخّانُ الماء اللقيم
+heater, immersion	مُسَخِّن غاطِس
+heater, oil	مُسَخِّنُ الزَّيت؛ سَخّانٌ زَيتيّ
+heater, water	سَخّانُ مياه؛ مُسَخِّنٌ مائي
+heath	خلنج
+heath- bell	زهرة الخلنج
+heath-berry	حجرية
+heath-land	أرض خلنجية
+heather - moor	غدق خلنجي
+heating	تَسخين، إِحرار، إِحماء؛ تَدفِئَة
+heating apparatus	جهازُ تَسخين
+heating appliance	وَسيلةُ تَسْخين، أَداةُ تَسْخين
+heating capacity	القُدرةُ التَّسْخينيَّة
+heating coefficient	مُعامِلُ التَّسخين
+heating coil	مِلَفُّ تَسخين، مِلَفٌّ إِحراريّ / ملف تسخين
+heating degree-day	دَرَجَةُ / يَومٌ لِلتَّسْخِين
+heating effect	تأثيرٌ حراري
+heating fuel = heating oil	وَقودُ تَسْخين
+heating furnace	فُرنُ المُعالجة الحَراريَّة
+heating installations	مُنْشآتُ التَّدفِئة
+heating jacket	دِثارٌ مُسَخِّن
+heating limit	حَدُّ التَّسخين
+heating load	الحِمْلُ الحَراريّ، حِمْلُ التدفِئة
+heating pad	كِمَادَةٌ مُسَخِّنَة
+heating pipes	مَواسيرُ التَّسخين
+heating plant	وَحْدَةُ تَسخين
+heating power	القُدرة التَّسْخينيَّة
+heating surface	سَطحُ تَسخين
+heating system	نِظامُ التَّدفِئة؛ شَبَكةُ أنابيبِ التدْفِئَة، مَنظومةُ التدفئة
+heating time	زَمَنُ التَّسخين
+heating unit	وَحْدَةُ تَسخين
+heating value	قدرة حرارية
+heating value = calorific value	القيمَة التَّسخينيَّة أو الحَراريَّة (لِلوَقود)
+heating, central	تَدفِئة مَرْكَزيَّة
+heating, radiant	التَّسخينُ بالحَرارة الإشعاعيَّة
+heating-element	عُنصُرُ تَسْخين، مُقاوَمة إحراريَّة
+heating-resistor	مُقاوَمة مُسَخِّنة
+heave	رفَعَ بجُهد، سَحَبَ بقوَّة؛ تماوَجَ، جاش، اختلَجَ؛ طَرَحَ، ألقى؛ اِرتِفاع؛ سَحْب؛ جَيَشان، تَماوُج؛ طَرْح؛ تقَبُّب؛ اِنزياحٌ صَدْعيّ، فُسْحةُ الصدْع
+heave (of a fault)	زيخة الصدع الأفقية
+heave (to) the log	ألقى مقياس السرعة
+heave fault	صَدْعٌ مُفَسَّح
+heave in sight	ظهر في الأفق
+heave of a fault	زيخة الصَّدْع الأفقية
+heave the lead	ألقى مجسّاً يدويّاً
+heavenly body	جِرْمٌ سَماويّ / كوكب
+heaviness	ثِقَل
+heaving	اِنتِفاخ (الجِدار) / انتفاخ
+heaving shale	شيل منتفخ، شِست منتفخ / شيل منتقخ
+Heaviside (or Kennelly-Heaviside) layer	طَبَقةُ «هيڤيسايد» (أو كنيلي وهيڤيسايد)
+Heaviside step function	دالَّةُ هيڤيسايد الدَّرَجِيَّة
+Heaviside unit function	دالَّةُ الوَحْدَة لِهيڤيسايد
+Heaviside, Oliver	أُلِڤَر هيڤيسايد
+Heaviside’s expansion theorem	مُبَرْهَنةُ هيڤيسايد في النَّشْر
+heavy	ثَقيلُ الوَزن؛ شَديد، عَنيف؛ حادّ، كَثيف؛ شَاقّ / ثقيل، كثيف
+heavy artillery	مِدْفَعيَّة ثَقيلة
+heavy bomber	قاذِفَةُ قَنابل ثَقيلة
+heavy cargoes	بضائع وازنة
+heavy chemicals	الكيماويّاتُ الثقيلة
+heavy concrete	خَرَسانةٌ ثَقيلة
+heavy crude	خامٌ نَفْطيّ ثَقيل
+heavy derrick	ذراع الشحنات الثقيلة
+heavy displacement	إزاحة ثقيلة
+heavy draught	غاطس كبير
+heavy duty	عَمَلٌ شاقّ، تَشْغيلٌ عَنيف
+heavy ends	النِّهاياتُ الثَّقيلة، القُطاراتُ الثقيلة
+heavy fraction	مُقتَطعٌ (نَفطيّ) ثَقيل، الجُزءُ الثَّقيل
+heavy fuel	وَقُود ثَقيل
+heavy glass	زُجاجٌ ثقيل، زُجاجٌ ظِرَّاني
+heavy gradient	انحِدارٌ شديد، مَمالٌ حادّ
+heavy ground	سَقفٌ صَخريٌّ غير مُستَقِرّ
+heavy hydrogen = deuterium	هِدْروجين ثَقيل، ديُوتِريوم
+heavy industries	الصِّناعاتُ الثَّقيلة
+heavy liquids	سَوائِلُ ثَقيلة
+heavy metal	فِلِزٌّ ثَقيل / فلز ثقيل
+heavy minerals	مَعادِنُ ثَقيلة / معادن ثقيلة
+heavy oil	نِفطٌ ثَقيل؛ زيتٌ عالي الكثافة
+heavy particle = hyperon	جُسَيمٌ ثَقيل
+heavy press fit	تَوافُقٌ (أو إزواجٌ) بالضغط الشديد
+heavy pressure	ضَغْطٌ عالٍ / ضغط شديد، ضغط مرتفع
+heavy residue	مُخَلَّفات ثَقيلة
+heavy running	تَدويرٌ أو تَشغيل عَنيف
+heavy sea	بحر مائج
+heavy soil	تُرْبة (طِينيَّة) ثَقيلة / تربة منتفخة
+heavy spar	سپار ثَقِيل، بارايت
+heavy water	الماءُ الثَّقيل
+heavy weather; bad weather	طقس متقلب، طقس رديء
+heavy wood	خشب ثقيل
+heavy-drive fit	تَوافُقٌ بالدَّقِّ الشَّديد
+heavy-duty	مِصماد، قَوِيُّ الاحتِمال
+heavy-duty engine	مُحَرِّكٌ مِصْماد، مُحَرِّكٌ عالي القُدْرةِ والمَتانة (لِلتَّشْغيل الثقيل)
+heavy-duty jack	مِرفاعُ الأحمالِ الثَّقيلة
+heavy-duty lathe	مِخْرَطةٌ للتَّشْغيل الثَّقيل
+heavy-gauge wire	سِلْكٌ غَليظ القُطْر
+heavy-oil engine	مُحَرِّكٌ يعملُ بالزيتِ الثَّقيل
+heavy-water reactor	مُفاعِلُ الماء الثَّقيل
+Heavyweight	ثقيل الوزن
+hebrides	جزر الهبريد
+heck	سَقّاطةُ الباب
+heckle	ضايَقَ بكَثرة الأسئلة
+hectare	هِكْتار
+hecto	هكتو
+hecto-	هِكتو
+hecto-ampere balance	مِيزان «كَلْڤن» لقياس التيّار (مَداهُ من 6 إلى 600 أمبير)
+hectogon	مَضَلَّعٌ مِئَوِيّ
+hectogram(me)	هكتوغرام
+hectograph	هكتوغراف
+hectolitre	هِكتولتر
+hectometre	هِكتومتر
+hectometric waves	أَمواجٌ هكتومتريَّة
+hectowatt	هكتوواط
+hedge	سِيَاج، وَشيع، حاجِز؛ سَيَّجَ، سَوَّرَ
+hedgehog	قنفذ
+hedgehog transformer	مُحَوِّل وَشِيعيّ
+hedron	hedron
+heed	اِهتمَّ أو بالَى (بِـ)؛ راعَى؛ اِنتِباه، مُبالاة، اِهتِمام
+heel	عَقِب، كَعْب؛ مُؤَخَّر، دابِر؛ جُنوح؛ داسَ بعَقِبِه؛ تَتَبَّع؛ جَهَّزَ بكَعْبٍ؛ جَنَحَ، اِجتَنَحَ، مال إلى جانبٍ
+heel angle	زاوِيةُ الجُنوح / زاوية الميلان
+heel brace	شداد كعب
+heel rope	حبل الكعب
+heel-post = quoin post	قائِمٌ مَفْصلي جانبي
+heeling	جُنُوح؛ مَيَلانُ البُوصَلة (عِنْدَ الجُنوح)
+heeling adjuster	مِضْبَطُ المَيَلان
+heeling compensation	معادلة الميلان
+heeling experiment	تجربة الميلان
+heeling tank	صهريج الإمالة
+Hefner candle	شَمعةُ «هِفْنَر»
+Hefner lamp	قِنديل «هِفْنَر»
+heft	رَفَعَ؛ رازَ؛ ثِقَل؛ ثِقَل نَوعيّ
+hefty	ثَقيلٌ جِدًّا؛ ضَخْم
+hei function	دالَّةُ هاي
+heifer	عجلة
+height	اِرتفاع، عُلُو؛ قِمَّة، ذُروة؛ شِدَّة، غايَة / إرتفاع / ارتفاع / ارْتِفاع / إرْتِفاع، عُلُوّ
+height above base	الاِرتفاعُ فوقَ خَط القاعِدة
+height computer	حاسبةُ العُلُوّ، حاسِبَةُ الارتفاع
+height control	مِضْبَطُ الارتفاع
+height displacement	إزاحة التضاريس
+height finder	مُعَيِّنُ الاِرتِفاع، مُبَيِّنُ الارتِفاع
+height gain	تضخيم مع الارتفاع
+height gauge	مُحَدِّدُ قياسِ الارتِفاع
+height indicator	دَليلُ الارتفاع
+height of eye	ارتفاع العين
+height of fall	عُلُوُّ السُّقوط
+height of instrument	عُلُوُّ آلةِ القِياس (عَن مُستَوى الأرض)
+height of projection	اِرتِفاعُ القَذْف
+height of the tide	ارتفاع المد
+height of wave	ارتفاع الموجة
+height, angular	اِرتفاعٌ زاوِي
+height, standard	اِرتِفاعٌ مِعْياريّ
+height-range indicator	مُبَيِّنُ الاِرتِفاعِ والمَدى
+heighten	عَلَّى، اِرتَفَع، رَفَعَ؛ اِشتَدَّ؛ اِزدادَ
+Heine, Heinrich	هاينْريش هايْنِه
+Heine-Borel theorem	مُبَرْهَنةُ هايْنِه-بوريل
+Heine’s theorem	مُبَرْهَنةُ هايْنِه
+heiri	مهرية
+Heisenberg principle = uncertainty principle	مَبْدأُ «هايْزنبرغ»، مَبْدَأُ الرِّيبَة
+Heising modulation	تَضْمينُ «هايزنغ»
+heli-, helio-	سابِقةٌ بِمَعنى: شَمْسِيّ
+heli-arc welding	لِحامٌ قَوسيّ هِلْيُوميّ
+heliacal rising	شروق احتراقي
+helianthemum	زهرة الشمس
+helianthin	صِبْغُ عَبّادِ الشَّمس
+helianthus	عباد الشمس
+helical	حَلَزونيّ، لَوْلَبيّ
+helical antenna	هَوائي حَلَزوني / هوائي حلزوني
+helical conveyor	ناقِلةٌ لَولَبيَّة، ناقِلٌ حَلَزوني
+helical cut	قَطْعٌ حَلَزوني
+helical gears	تُروس لَولَبيَّة، مُسَنَّناتٌ حَلَزونيَّة
+helical hinges	مُفَصِّلاتٌ لَولَبيَّة (لِلأبوابِ الدوّارة)
+helical motion	حَرَكةٌ لَولَبيَّة
+helical rotor	دَوّارٌ لَولَبي
+helical scanning	مَسْحٌ لَولَبيّ
+helical spring	نابِضٌ لَولَبيّ، زُنبرَك لولبي
+helical teeth	أَسنان لَولَبيَّة
+helical wheel	دُولابٌ حَلَزونيُّ التَّسنين
+heliciform	قوقعي الشكل، حلزوني الشكل
+helicine; helicoid	حلزوني، قوقعاني
+helicism	تحلزن، التفاف قوقعي
+helicodromic	ذُو مَسارٍ طَيَرانيّ حَلَزونيّ
+helicoid	لَولَبانيّ، سَطْحٌ لَولَبانيّ / سَطْحٌ لَوْلَبِيّ
+helicoid inflorescence	نورة حلزونية
+helicoid surface	سَطْحٌ حَلَزوني
+helicoid(al)	حَلَزوني، لَوْلَبي
+helicoidal	حلزوني
+helicoidal displacement	ازاحة لولبية
+helicoidal gear	تُرْسٌ حَلَزوني
+helicopter	هليكُوبتر، طائرة عَمُوديَّة، طَوّافة
+helio-	بادئة بمعنى: شَمْس
+heliocentric	شَمْسيُّ المَركَز؛ مَقِيسٌ بالنِّسبة لمَركَزِ الشَّمس
+heliocentric coordinates	إِحداثيّاتٌ شَمْسيَّة المَرْكَز
+heliocentric orbit	مَدارٌ شَمْسيُّ المَركَز
+heliocentric parallax = annual parallax	اِختِلافُ المَنْظَر السَّنَويّ
+heliocentric theory	نظرية مركزية الشمس
+heliochrome	صُورةٌ فوتوغرافيَّة بالألوانِ الطبيعيَّة
+heliogram	مُبْرَقَة شَمْسيَّة
+heliograph	هِلْيُوغراف، مِشْماسَة؛ مُبْرِقَة شَمسيَّة / مِخْطاطٌ شَمْسِيّ
+heliography	التَّراسُلُ بالمُبْرِقة الشَّمسيَّة، التَّخاطُبُ بالأشِعَّة الشَّمْسيَّة
+heliolamp	مِصباحٌ شمسِيُّ الطَّيف
+heliometer	هِلْيُومِتْر، مِشْماس
+heliometric index	دليل المقياس الشّمْسيّ
+helion	هِلْيون
+helion filament	فتيلَةٌ شمسيَّة
+helionics = helio-electronics	الإلِكترونيّات الشَّمسيَّة
+heliophyte	نَباتٌ شَمْسيّ
+heliophytes	نباتات شمسية
+helioscope	هِلْيُوسكوپ، مِرْقَبُ الشَّمْس
+heliostat	هِلْيُوستات، مُتَتبِّعة شَمْسيَّة
+heliotaxis	اِنتِحاءٌ شَمْسيّ
+heliotrope	حَجَرُ الدَّم؛ مُبْرِقَة شَمْسيَّة، مِرآة الإشارات / رقيب الشمس
+heliotropism	اِنتِحاءٌ شَمْسيّ / انتحاء ضوئي
+helipad	مِنَصَّةُ طَوّافات
+heliport	مَطارُ طَوّافات
+helistop	مَوقِفُ طَوّافات
+helium	هليوم
+helium (He)	الهِلْيُوم
+helium diving bell	ناقوسُ غَوصٍ بالهليوم
+helix	حَلَزون، لَوْلَب؛ مُنْحَنٍ حَلَزوني؛ حِلية لولبيّة (تحت تاج العمود أو طَبليَّتِهِ)؛ مَحارَة / لولب / لَوْلَب / حلزويّ، لولبيّ
+helix angle	زاويةُ اللَّولَب، زاويةُ اللَّولَبة الحَلَزونيَّة / زاوِيةُ اللَّوْلَب
+helix destabilizing protein; SSB protein	بروتين مفكك اللولب
+hell in(to)	وضع في الأخدود
+hell weed	كسثوث
+hellebore	خربق
+Hello World	أهلا بالعالم
+Hello, world	مرحبا، أيها العالم
+Helly, Eduard	إدْوارْد هيلي
+Helly’s theorem	مُبَرْهَنةُ هيلي
+helm	دَفّة، سُكّان؛ خُوذَة؛ وَجَّهَ، أدارَ الدَّفَّة / جهاز التوجيه
+helm angle	زَاوِيَةُ التَّوجيه / زاوية التوجيه
+helm port	فتحة قائم الدفة
+helmet	خُوذَة
+helmet shield	حِوالٌ خُوذِيّ
+helmet- flower	بيش، خانق الذئب
+Helmholtz equation	مُعادَلةُ هِلْمْهولْتز
+Helmholtz galvanometer	غلفانُومِتر «هِلْمهُلْتز»
+Helmholtz instability	عَدَمُ اسْتِقْرَار هِلْمُولْتَز
+Helmholtz resonator	رَنّانُ «هِلْمهُلْتز»
+Helmholtz wave	مَوجةُ هِلْمُولْتَز
+Helmholtz, Hermann Ludwig Ferdinand von	هيرْمان لودْڤيغ فِردينانْد ڤون هِلْمْهولْتز
+Helmholtz’s theorem	مُبَرْهَنةُ هِلْمْهولْتز
+helminth	دُودَة / دودة طفيلية
+helminthoid	دُودِيُّ الشَّكل، دُودانيّ
+helminthold	دوداني
+helminthology	علم الديدان الطفيلية
+helmsman	مُديرُ الدَّفَّة / عامل الدفة
+helophyte	نَباتٌ مُستَنقَعيّ / نباتات المستنقعات
+help	عاوَنَ، ساعَدَ، أسعَفَ؛ عَوْن، مُساعَدَة، نَجْدَة / 1 مساعدة ؛ 2 مساعدة / مُسَاعَدَةٌ / مساعدة
+help desk	1 مكتب مساعدة ؛ 2 برمجية [مكتب] مساعدة
+Help key	زرُّ مساعَدة
+help screen	شاشة مساعدة
+help-yourself system	نِظامُ الخِدمة الذاتيَّة
+helper	مُساعِد، مُعاوِن؛ عَامِلٌ مُساعِد / مساعِد
+helper application	تطبيقُ مساعَدة
+helper program	برنامج مساعَدة
+helpful	مُساعِد، نافِع، مُفيد
+helve	نِصاب، مِقْبَض، يَدُ الآلة، مَقْبِض
+helve hammer	مِطرقَةٌ نِصابيَّة
+hem	كِفاف، حاشِيَة، حافَّة؛ كَفَّ، هَدَّبَ، عَمِلَ حاشيةً (لِـ)
+hematite = haematite	هيماتَيْت، شاذَنْج، أُكْسيدُ الحَديديك الأَحمَر
+hematite; haematite	هيماتيت
+hematology	الدَّمَويّات، عِلْمُ الدَّم
+heme	هيم
+hemera	أَوان / أوان / آوان، آونة، برهة
+hemeralopia	عَمًى نَهاريّ، عَشَا
+hemerocallis	زنبق النهار
+hemi-	بادِئة بِمَعنى: نِصْف
+hemicellulose	هيمسليلوز
+hemicolloid	نِصفُ غَرَواني
+hemicrystalline	نِصْفيُّ التبَلْوُر / نصف بلوري، شبه بلوري
+hemicycle	نِصفُ دائرة، نِصفُ دَورة؛ نِصفُ دَورةٍ رُسوبيَّة / نِصْفُ دائِرة / نصف دورة
+hemihedral crystal	بِلَّورة نِصف تامَّة
+hemihedral; hemihedric	نصفي الأوجه
+hemihedral; hemihedric (form)	نصفي الأوجه
+hemihedrism	انتصاف سطحي
+hemihydrate	نِصْفُ هِدْرات
+hemimetabola	ناقصة التحول
+hemimorphic	نِصْفيُّ التشَكُّل / نصف شكلي
+hemimorphite	سليكات التوتياء
+hemiplegia	شلَلٌ نِصْفيّ
+Hemiptera	نِصْفيَّةُ الأجنِحَة / نصفية الأجنحة
+hemisaprophyte	نصف رمي
+hemisphere	نِصفُ الكُرة (الأرضيَّة)؛ نِصفُ كُرة / نصف كرة / نِصْفُ سَطْحِ كُرة / نصف الكرة الأرضية
+hemispheric; hemispherical	نصف كروي
+hemispherical	نِصفُ كُرَوي
+hemispherical emittance	إصدار نصف كروي
+hemispheroid	نِصْفُ مُجَسَّمٍ كُرَوِيّ
+hemitropic crystal	بِلَّوْرَةٌ نِصفُ مُنْتَحِيَة
+hemitropic winding = half-coiled winding	لَفٌّ نِصفُ مُنْتَحٍ
+hemizygous gene	مورِّث زيجوتيّ فردانيّ، مورث نصفيّ الزيجوت
+hemlock	شَوْكَرانٌ سامّ؛ تَنُّوب شَوْكَرانيّ، أُتسُوغةُ كَنَدا / شوكران
+hemming	كَفٌّ
+hemogeneous	متجانس
+hemoglobin	يَحْمُور، هيموجلوبين
+hemoglobin = haemoglobin	هيموغلُوبين، يَحْمُور
+hemophilia	ناعور، مرض نزف الدم
+hemorrhage = haemorrhage	نَزْفٌ، نَزْفٌ دَمَوي
+hemorrhoids	بَواسير؛ داءُ البَواسير
+hemostasis	إرقاء
+hemostatic	رَقُوء
+hemp	قِنَّب، قِنَّبٌ هِندي؛ أليافُ القِنَّب
+hemp packing	حَشْوَة من القِنَّب
+hemp rope	حبل قنب
+hemp-nettle	خوذية
+hempseed	شهدانج
+hempseed oil	زَيتُ بِزرِ القِنَّب
+hen	دجاجة
+hen-roots	محط الطيور
+henbane	سكران
+henceforth	مِنَ الآن فَصَاعِدًا
+hendecagon	ذُو الأحَدَ عَشَرَ ضِلْعًا / مُضَلَّعٌ أحَدَ عَشَرِيّ
+hendecahedron	مُتَعَدِّدُ وُجوهٍ أحَدَ عَشَرِيّ
+henna	حناء
+henry	هِنري
+Henry’s law	قانون «هنري»
+heparin	هِپارِين
+hepatic	كَبِديّ؛ كَبِديُّ اللَّون
+hepatic lobule	فصيص كبدي
+hepatic vein	وريد كبدي
+Hepaticae	الكَبِديّات
+hepaticeae; liverworts	حزازيات منبطحة
+hepatitis	اِلتِهابُ الكَبِد، كُباد
+hepato-pancreatic duct	قناة كبدية بنكرياسية
+hepta-	بادِئة بِمَعنى: سَبْعة؛ سُباعيّ
+heptachlor	سُباعيُّ الكلُور
+heptacontagon	مَضَلَّعٌ سَبْعينِيّ
+heptad	مَجموعة سُباعيَّة، سابُوع
+heptadecagon	مَضَلَّعٌ سَبْعَ عَشْرِيّ
+heptagon	مُسَبَّع / سباعي / مَضَلَّعٌ سُباعِيّ
+heptagonal	سُبَاعيُّ الشَّكْل، سُباعيُّ الزوايا
+heptagonal number	عَدَدٌ سُباعِيّ
+heptagonal triangle	مُثَلَّثٌ سُباعِيّ
+heptagram	نَجْمةٌ سُباعِيَّة
+heptahedral	سُباعِيُّ السُّطوح
+heptahedral graph	بَيانُ سُباعِيِّ وُجوه
+heptahedron	جِسمٌ سُباعيُّ السُّطوح / سباعي السطوح / مُتَعَدِّدُ وُجوهٍ سُباعِيّ
+heptakaidecagon	مَضَلَّعٌ سَبْعَ عَشْرِيّ
+heptane	هِپْتان
+heptangular	سُباعيُّ الزَّوايا
+heptastyle	رِواق معمَّد سُباعيُّ الأعمدة (في مُقَدِّمةِ المَبْنى)
+heptavalent = septavalent	سُبَاعيُّ التكافُؤ
+heptode	صِمَامٌ سُباعيّ (المَساري)
+heptomino	دومينو سُباعِيّ
+heptose	هِپتوز، سُكَّر سُباعيّ
+her function	دالَّةُ هير
+herb	عُشْبَة، بَقْلَة؛ مُفْرَدة / عشب
+herbaceous	عُشْبِيّ
+herbaceous monocotyledon	أعشاب من ذوات الفلقة الواحدة
+herbaceous perennials	أعشاب معمرة
+herbaceous plants	نباتات عشبية
+herbaceous stage	مرحلة الإعشاب
+herbaceous stem	ساق عشبية
+herbage	مسطح أخضر
+herbarium	مَعْشَبَة / معشبة
+herbicidal oil	زيتٌ مُبيدٌ للأعشاب
+herbicide	مُبِيدُ الأعشاب
+herbivore	عاشِب
+herbivorus	آكل الحشائش
+Hercules	هِرَقْل، الجَاثي / هرقل
+Hercules Graphics Card	بطاقة Hercules البيانية
+herd	سِرْب، قَطيع
+hereditary	وِرَاثي
+hereditary character	صفة موروثة، خاصية وراثية
+hereditary diseases	أمراض وراثية
+heredity	وِراثَة؛ صِفاتٌ مَوروثَة / وراثة
+hererodonts	مختلفات الإنسان
+heretofore	حَتَّى الآن
+herewith	طَيَّه، مُرْفَقًا بهِ
+Hering furnace	فُرْن «هرِنڠ»
+heritability	توريثية، معامل التوريث
+heritable character	صفة قابلة للتوريث
+Herlofson diagram	بَيانِيُّ هِرْلُفْسُون
+hermaphrodite	خُنْثَى؛ خُنْثَويّ، خُنْثيّ / خنثوي / خنثى / خُنْثى، أحاديّ المسكن
+hermaphrodite moss flower	زهرة حزاز خنثوية
+hermaphroditic connector	مُوَصِّلٌ خُنْثَويّ
+hermaphroditic plug	قابِسٌ خُنْثَويّ
+hermaphroditism	تخنث
+hermetic seal	سَدٌّ مُحكَم، خَتْمٌ سَدُود
+hermetic(al)	كَتِيم، مُحْكَمُ السَّدّ، سَدود لِلسَّوائلِ والغازات
+hermetically sealed	مُحْكَمُ السَّد، مُغْلَقٌ بإحكام
+Hermit point	نُقْطةُ هِرْمِت
+Hermite polynomials	حُدودِيَّاتُ هِرْمِت
+Hermite, Charles	شارْل هِرْمِت (شارْل إرْمِت)
+Hermite’s differential equation	مُعادَلةُ هِرْمِت التَّفاضُلِيَّة
+Hermitian conjugate of a matrix	المُرافِقةُ الهِرْمِتِيَّةُ لِمَصْفوفَة
+Hermitian conjugate operator	مُؤَثِّرٌ مُرافِقٌ هِرْمِتِيّ
+Hermitian endomorphism	تشاكل داخلي هرميتي
+Hermitian form	صيغةٌ هِرْمِتِيَّة
+Hermitian inner product	جُداءٌ داخِلِيٌّ هِرْمِتِيّ
+Hermitian kernel	نَواةٌ هِرْمِتِيَّة
+Hermitian matrix	مَصْفوفةٌ هِرْمِتِيَّة
+Hermitian operator	مُؤَثِّرٌ هِرْمِتِيّ
+Hermitian scalar product	جُداءٌ سُلَّمِيٌّ هِرْمِتِيّ
+Hermitian space	فَضاءٌ هِرْمِتِيّ
+Hermitian vector space	فَضاءٌ مُتَّجِهِيٌّ هِرْمِتِيّ
+hernia	فَتْق
+Hero/Heron Alexandria	هيرو/هيرون الإسْكَنْدَرِيّ
+heroin(e)	هيرُوِين
+heron	أبو قردان
+Heronian mean	وَسَطٌ هيرونِيّ
+heronshaw	فرخ أبو قردان
+Heron’s formula	صيغةُ هيرون
+Heroult furnace	فُرْن «إيرولت»
+Heroult process	طَريقةُ «إيرولت»
+Hero’s formula	صيغةُ هيرو
+Hero’s method	طَريقةُ هيرو
+herpes	حَلأَ
+herring	رنكة(ال..) / رنكة
+herring fisheries	مصايد الرنكة
+herring oil	زيتُ الرَّنكة
+herring-bone gear = double helical gear	تُرْسُ فقار الرّنكة
+herring-bone pattern	نَمَطُ فَقارِ الرَّنْكة، نمطٌ سُنْبُلي
+hertz	هِرْتز / هرْتز
+hertz (Hz)	هِرْتز / هرتز (HZ)
+Hertz antenna	هَوائي «هِرتز»
+hertz time	معدَّل الهرتز
+Hertzian oscillator	مُذَبذبٌ هِرتزي
+Hertzian radiator	مُشِعٌّ هِرتزي
+Hertzian waves	أمواجٌ هِرتزيَّة
+hesitate	ترَدَّدَ، تَحَيَّرَ
+hesitation	ترَيُّث
+hesperidium	بُرتُقاليَّة
+hesperis	هسباريس
+Hesse, Ludwig Otto	لودْڤيغ أُوتو هسِّه
+Hessenberg matrix	مَصْفوفةُ هِسِّنْبِرغ
+Hessenberg, Karl	كارْل هِسِّنْبِرغ
+Hesse’s theorem	مُبَرْهَنةُ هسِّه
+hessian	خَيْش؛ مُحَدِّدة هِسِّيَّة (اِشتِقاقيَّة) / هِسِّيٌّ (المُحَدِّدةُ الاشْتِقاقِيَّة)
+hessian fly	ذبابة هيس
+hessite	هِسّايْت
+Hess’s law	قانون «هِس»
+hetermorphic	لا متجانس الشكل
+hetero alleles	أليلات متغايرة، غير متماثل الأليلات
+hetero-	بادِئة بمعنى: مُغايِرٌ، غَيْرُ مُتجانِس، مُخْتَلِف، مُخَالِف
+hetero-polar	متغير القطبية، متغير الأقطاب
+heteroatomic	مُختلف الذرّات
+heteroauxin	هيتراكيس
+heterobares	ذَرَّاتٌ مُختَلِفَةُ الوَزن
+heterocarpian; heterocarpous	مختلف الثمر
+heterochromatic	مُتَغايرُ الألوان؛ مُتغايرُ الأطوال الموجيَّة (الضوئيَّة)
+heterochromatic photometry	مِضوائيَّةُ التغايُرِ اللوني
+heterochromatin	كروماتين مغاير
+heterochromatization	إحداث تغاير كروماتينيّ
+heterochromosomes	صبغيات متباينة
+heterochroneity	تَخالُفٌ زَمَنيّ (في الأحافير)
+heteroclinal	مُتَغايِرُ المَيْل (المِغنَطيسيّ)
+heterocycle	حَلْقَةٌ غير متجانِسة
+heterocyclic compound	مُرَكَّبٌ حَلْقيّ غَيرُ مُتَجانِس
+heterodont	مُتَبايِنُ الأَسنان
+heterodont dentition	متباين الأسنان
+heterodonts	مختلفات الأسنان
+heteroduplex	مزدوج مختلف الجديلة
+heterodyne	مُغايَر، خَفْقيُّ التردُّد، هِتْرُودايني؛ غايَر؛ هِتروداين، خَفقٌ تردُّدي
+heterodyne detector	مِكْشافٌ هِترودايني، كاشِفٌ مُتَغايِرُ الفِعْل / كاشف هتروديني
+heterodyne effect	ظاهِرَةُ اقترانٍ هِتْرودايني (لِتردُّدَين أو قُوَّتَين)
+heterodyne interference	تَداخُلٌ هترودايني (تداخُلُ الخفق التردُّدي)
+heterodyne oscillator	مُذَبِذبٌ هِترودايني، هَزّازٌ خفقيٌّ التردُّد / مذبذب هتروديني
+heterodyne principle	مَبدأ الخَفْقِ التردُّدي
+heterodyne reception	استقبال هتروديني
+heterodyne reception = beat reception	اِستِقبال هِترودايني
+heterodyne wavemeter	مِقياسٌ هِترودَايني لِطُول الأمواج
+heterodyne whistle	صَفير هترودايني
+heterodyne-frequency meter	مِقياسُ تردُّدٍ هِترودايني
+heterodyning	هِتروداينيَّة
+heterofertilization	تزاوج متغاير الأمشاج
+heterogametes	أمشاج متباينة
+heterogamous	مُتَباينُ الأعراس، مُتَبايِنُ الأمشاج
+heterogamy	تزاوج الأمشاج المتغيرة / تزاوج متغاير، تزاوج غير متجانس
+heterogen(e)ous	مُتَغايِر، مُغايِر، مُتَغايرُ الطَّور، غيرُ مُتَجانس
+heterogeneity	تَغايُر، اِختِلاف، لاتَجانُس / لا تجانسية
+Heterogeneous	غير متجانس
+heterogeneous catalyst	حافِزُ تَفاعُلٍ مُغَايِرُ الطَّور
+heterogeneous composition	تَركيبٌ مُغايِر أو غير مُتجانِس
+heterogeneous environment	بيئة لامتجانسة
+heterogeneous equation	مُعادَلة غيرُ مُتجانِسة
+heterogeneous network	شَبَكَةٌ غَيْرُ مُتَجَانِسَة / شبكة غير متجانسة
+heterogeneous nuclear RNA	رنا نوويّ متغاير
+heterogeneous numbers	عَدَدانِ مُتَغايِران
+heterogeneous radiation	إِشعاعٌ مُتَغايِر
+heterogeneous reaction	تَفاعُلٌ مُتَغايرُ الطَّور
+heterogeneous reactor	مُفاعِلٌ مُتَغايِر (قضبانُ الوقود فيه مَفصولةٌ عن المُهَدِّئ)
+Heterogeneous vocabulary	مفردات متنوعة الأصول
+heterogenesis	متغاير التراكيب الوراثية
+heterogenetic = heterogenous	مُتَغايِرُ النَّشْأَة، مُتَبايِنُ التَّكْوين
+heterogenic; heterogeneous	مُتَبَايِن
+heterogenic; heterogenous	متباين
+Heterogenous	غير متجانس
+heterogenous system	نظامٌ مُتغايرُ الطَّور
+heterograft	طُعْمٌ مُبايِن / تطعيم متباين
+heteroion	أَيُونٌ مُغاير
+heterokaryosis	خليط النوى، تباين النوى
+heterolecithal	مُتَبايِنُ توَزُّع المُحِّ
+heterologous graft	طعم أجنبيّ
+heterologous series	مُتَسَلْسِلة مُتَغايِرة
+heterolysis	حَلْمَأة مُتَبايِنةُ الأَيُونات
+heteromerous	متباينة الأجزاء
+heteromerous flower	مختلفة الأجزاء، متباينة الأجزاء
+heteromorphic	مُتَغايرُ الأَشكال، مُتَغايِرُ التشَكُّل / لا متجانس الشكل
+heteromorphic bivalent	ثنائيات مغايرة الشكل
+heteromorphic chromosomes	صبغيات مغايرة الشكل
+heteromorphism	تباين الشكل
+heteromorphous	مختلفة الأشكال، متباينة الأشكال
+Heteronomy (or Heteronomous)	تحكم غير ذاتي (أو غير ذاتي)
+heterophase	طَورٌ مُغايِر
+heterophile	مُتَبايِنُ الأُلفة
+heterophyllous	مُتَبايِنُ الوَرَق
+heterophylly	تباين ورقي
+heteropic	متزامن النشأة ومختلف السحنة
+heteropical beds	طبقات متزامنة النشأة ومختلفة السحنة
+heteroploid	تغيُّراتيُّ الصيغة الصبغية
+heteroploidy	تغيراتية الصيغة الصبغية
+heteropolar	غير مُتَجانِس الأقطاب
+heteropolar bond	رابِطة مُتبَاينة القُطبيّة
+heteropolar generator	مُوَلِّدٌ مُتَبايِنُ الأقطاب
+heteropoly compound	مُركَّبٌ متَعَدِّد غير مُتجانِس
+heteropycnosis; heterpyknosis	تَغَلُّظ مغاير
+heteroscian	متعدد العائل
+heterosexuality	جِنْسيَّةٌ غَيْريَّة
+heterosis	تَهْجين، إِخصابٌ تَهْجينيّ / تفوق الهجين
+heterosis; hybride vigor	تفَوُّق الهجين
+heterosomal aberration	زيغ الصبغيات المغايرة
+heterosphere	الغِلافُ المُتَغايِر / طبقة جوية غير متجانسة
+heterosporous	متباين الأبواغ
+heterospory	تغاير الأبواغ، تباين الأبواغ
+heterostyly	تغاير حاملات السمة
+heterotaxial beds	طبقات متغايرة
+heterothallic	متباين الثالوس
+heterothallism	تباين الثالوس
+heterotrophic	مُتَباينُ التَّغذية / شاذة التغذية
+heterotypic mitosis	انقسام خيطيّ
+heterozygosity	تغاير الزيجوت
+heterozygote	لاقحة متباينة الصبغيات
+heterozygote inversion	انعكاس زيجوتيّ متغاير
+heterozygous	مُتَغايِرُ اللَّواقِح / متباين اللاقحات / متغاير الزيجوت
+heterozygous superiority	تَفَوُّق متغاير الزيجوت
+heuchera	هوشيرة
+heuristic	تَجْريبيّ؛ خِبْروي؛ مَنْهَجٌ تَجْريبيّ / كسبية / أسلوب إرشادي
+heuristic approach	المَأتى التجريبيّ
+heuristic method	طَريقةٌ تَجْريبيَّة / طَريقةٌ اسْتِكْشافِيَّة
+heuristic program	برنامجٌ خِبروي
+Heuristic Search	بحث إرشادي
+Heuristics	مقاربة عملية
+Heuristics testing	إختبار الكسبية
+Heusler’s alloys	أُشابات «هوِيزْلَر»
+hevea brasiliesis; siphonia brasiliesis	شجرة المطاط البرازيلية
+hew	قَطَعَ، قَطَعَ بِفَأسٍ أو مِعْوَل؛ نَجَرَ، نَحَتَ؛ شَكَّلَ بالقَطْع أو النَّحْت
+Hewlett-Packard Graphics Language	لغة بيانية من Hewlett-Packard
+Hewlett-Packard Printer Control Language	لغة التحكم في طابعات Hewlett-Packard
+hewn stone	حَجَرٌ مَنْحُوت
+hewn timber	خَشَبٌ مَنْجور
+hex	ست عشري / ست
+hex(agonal) nut	صَمُولَةٌ سُداسِيَّة
+hexa-	بادِئة بِمعنى: سِتَّة؛ سُداسيّ
+hexacontagon	مُضَلَّعٌ سِتِّينِيّ
+hexacoralla	مرجانيات سداسية / مرجنيات سداسية
+hexad	مَجْموعةٌ سُداسيَّة؛ سادُوس
+hexadecagon	مُضَلَّعٌ سِتَّ عَشْرِيّ
+hexadecan	هِكساديكان
+hexadecimal	سِتَّ عَشْريّ / ست عشري
+hexadecimal (adj)	سِتَّ عَشْرِيّ
+hexadecimal conversion	تحويل ست عشري
+hexadecimal number system	نِظامُ العَدِّ السِّتَّ عَشْرِيّ
+hexadecimal system	النظام السِّتَّ عشري
+hexafoil	سُداسِيُّ الوُرَيْقات
+hexagon	شَكْلٌ سُداسِيّ، مُسَدَّس / سداسي / مُضَلَّعٌ سُداسيّ (مُسَدَّس)
+hexagon key set	طاقَمُ مَفاتيح (ربْطٍ) سُداسيّ
+hexagonal	سُداسِيّ، سُداسيُّ الأَضلاعِ والزَّوايا / سداسي الشكل
+hexagonal number	عَدَدٌ سُداسِيّ
+hexagonal numbers	أعداد سداسية
+hexagonal prism	مَوْشورٌ سُداسِيّ
+hexagonal pyramid	هَرَمٌ سُداسِيّ
+hexagonal system	نظام سداسي
+hexagonal-head bolt	بُرغي مُسَدَّسُ الرأس
+hexagram	نَجْمةٌ سُداسِيَّة
+hexahedral	سُداسيُّ السُّطوح أو الأوجُه / سداسي الأوجه
+hexahedral graph	بَيانُ سُداسِيِّ وُجوه
+hexahedron	(مُجَسَّم) سُداسيُّ السُّطوح، مُكَعَّب / سداسي السطوح / مُتَعَدِّدُ وُجوهٍ سُداسِيّ / مجسم سداسي
+hexakaidecagon	مُضَلَّعٌ سِتَّ عَشْرِيّ
+hexamer	مَسْدُوس
+hexandrous	سداسية الأسدية
+hexane	هِكْسان
+hexangular	سُداسيُّ الزَّوايا
+hexaploid	سداسيّ الصبغية الطبيعية
+Hexapoda	سُداسيَّة القَوائِم
+hexapoda insecta	سداسية الأرجل
+hexastyle	رِواقٌ مَدخَليّ سُداسيّ الأعمدة
+hexavalent	سُداسيُّ التكافُؤ
+hexode	صِمامٌ سُداسيّ
+hexogen	هِكْسُوجين، سَيْكلونايت
+hexomino	دومينو سُداسِيّ
+hexose	هِكْسوز، سُكَّرٌ سُداسِيّ / سكر هكسوز
+hexose isomerase	سكر ايسوميراز
+hexphase	سُداسيُّ الطور
+Hf (hafnium)	هف
+HFR strain	سُلالة 'هف.ر'، نسيلة 'هف.ر'
+HFS	نظام ملفات تراتبي
+Hg (mercury)	بق
+HGA	موائمة Hercules البيانية
+HGC	بطاقة Hercules البيانية
+HGC Plus	بطاقة Hercules البيانية المتطوِّرة
+hi-fi = high-fidelity	دَقيقٌ في اِستعادَةِ الأصل (الصَّوتي)، عالي الأمانة
+hi-pot (high-potential) test	اِختِبارٌ عالي الجُهْد
+hiatus	ثُغرة، فَجْوَةُ تَرسُّب / فجوة رسوبية، ثغرة رسوبية
+hibernal	شَتَويّ
+hibernal aspect	مظهر شتوي
+hibernate	أسْبَتَ، أَشْتَى، كَمَنَ شِتاءً، شَتَّى مُسْبِتًا / سبات
+hibernation	إِسبات، إِشتاء، كُمُونُ الشِّتاء، اِكتِنان شَتَوي / سبات شتوي
+hibiscus	خبيزة
+hiccup	فُواق، (حازوقة)
+hickey	وُصْلَة مُسَنَّنَة
+hickory	قارِيَة؛ جَوْزَة أميركية
+Hicks hydrometer	هيدرومِتْر «هِكس»
+hidden	دَفين، مُخَبَّأ، خَفِيّ / مَخْفِيٌّ / مخفي،مختبئ
+hidden file	ملف مخفيّ / ملف مخفى
+Hidden Layer	طبقة مخفية
+hidden line	خط مخفيّ
+Hidden Markov Models (HMMs)	نماذج ماركوف المستترة
+hidden surface	سطح مخفيّ
+hide	خَبَّأَ، أَخْفَى؛ اِختَفى؛ جِلْد، جِلْدٌ غيرُ مَدْبوغ؛ قِياسٌ لِلمِساحَة يعادِلُ 100 فَدّان / يخفي / إخفاء
+hide glue	غِراءُ الجُلُود
+hide rope	حَبْلٌ جِلدي
+hide, raw	جِلْدٌ خام
+hideout	مَلْجَأ، مَخْبَأ
+hiding power	كُمْدَة
+hidneyore; kidney-ore	خام حديدي دوني
+hidrosis	تَعَرُّق
+hiduminium alloys	سبائكُ الهيديُومِنيوم
+Hierachy	هرمي
+hierarchical	هَرَميُّ التراتُب / تراتبي / شجرى
+Hierarchical Clustering	تجميع هرمي
+hierarchical computer network	1 شبكة حاسوبية تراتبية ، 2 شبكة حاسوبية تراتبية
+hierarchical data base	قَاعِدَةُ مُعْطَيَاتٍ ترَاتُبية
+Hierarchical Data Format	مَصَاغَةُ معطياتٍ تَراتبيّة
+hierarchical database	قاعدة معطيات تراتبية / قاعدة بيانات شجرية
+hierarchical database management system	نظام إدارة قواعد معطيات تراتبية
+Hierarchical File System	نظام ملفات تراتبي / نظام ملفات شجرى
+hierarchical menu	قائمة خيارات تراتبية
+hierarchical model	نموذج تراتبي
+Hierarchical navigation	تصفح شجرى
+Hierarchical routing	توجيه هرمي
+Hierarchical structure	هيكل هَرَمي
+hierarchy	تراتُب، تَسَلْسُل تراتبي / تَراتُب / تَرَاتُب / شجرة
+Hierarchy cluster technique	تقنية العنقود الهرمي
+Higgs particle	جُسَيِّم «هِيڠْز»
+high	عالٍ، مُرتَفِع؛ سامٍ، جَليل؛ جَيِّدُ الصِّنف؛ سُرعَةٌ عَالية؛ تُروسُ السُّرعةِ العالية؛ مُرتَفَع جَوِّيّ / عالى، مرتفع
+high (anticyclone)	ضَغْطٌ
+high altitude	اِرتفاعٌ عالٍ
+high band	نِطاقُ تردُّد عالٍ (من 144 إلى 170 ميغا هرتز)
+high beam	ضَوءُ السيّارَة الأماميُّ البعيدُ المَدى
+high blood pressure	ضَغْطُ دمٍ عالٍ
+high brass	صُفْرٌ عالٍ
+high byte	بايتٌ عالٍ
+high capacity	سَعَةٌ عالِيَة
+high cloud	سَحَابةٌ عَالِيَّة
+high coast	ساحل مرتفع
+High colour	عالي الألوان
+high contrast	تَبايُنٌ شَديد
+high cost	تَكْلِفَة مُرتَفِعة
+High definition	عالي التحديد
+High density	عالي الكثافة
+high density catfish culture	تربية مكثفة للأسماك القطية
+high dip	مَيْلٌ حادّ
+high DOS memory	ذاكرة DOS العليا
+high efficiency	كِفايَةٌ عالِيَة
+high end point	النُّقطةُ النِّهائيةُ العُليا (لِلتقطير)
+high explosive	مُتَفجِّرٌ شديد، مُتَفَجِّر قاصِم
+high fidelity	أمانةُ نَقْلٍ عالية
+high forest	غابة دائحة
+high freight	أجرة نقل مرتفعة
+high frequency	ترَدُّدٌ عالٍ (من 3 إلى 30 مِيغاهِرْتز)؛ عالي الترَدُّد
+high furnace = blast furnace	فُرنٌ عالٍ
+high gear	سُرعةٌ عالية؛ تُرسُ السُّرعَةِ العالية
+high grade (ore)	ركاز عالي المحتوى الفلزي
+high grading	تَعْدينٌ عالي الانتِقائيَّة؛ اِختِلاسُ الرِّكاز النَّفيس (كالشَّذرات الذهَبيَّة)
+high incidence	زاويةُ سُقوطٍ عالية
+high index	دليل مُرْتَفِع
+high inversion fog	ضَبابُ الانقلاب المرتفع
+high memory	1 ذاكرة عليا ؛ 2 الذاكرة العليا
+high memory area	منطقة الذاكرة العليا / مِنْطَقََةٌ عَاليَّةٌ مِنَ الذَاكِرَة / منطقة ذاكرة عالية
+high moorland	هضبة مستنقعية / هضبة مستنقعة
+high oblique	صورة شديدة الميل
+High Performance File System	نظام ملفات عالي الأداء
+High Performance Serial Bus (1394)	مسرى تسلسلي عالي الأداء
+high pitch	خُطْوة عالية؛ نَغْمَة عالية
+high plains	سهول مرتفعة
+high polar glaciers	جليديات قطبية
+high potential	جُهْدٌ عالٍ
+high quartz = beta quartz	مَرْوٌ بائيّ، كوارتز الحَرارةِ العالية (يتشَكَّلُ على درجة 573° م)
+high relief	نَحْتٌ نافِر، نَقْشٌ (أو نَحْتٌ) بارِزٌ
+high repetitive DNA	دنا عالي التكرر
+high resolution	مَيْز عالٍ / دِقِّيَّةٌ عَالِيَة
+high seas	عُرْضُ البَحر / أعالي البحار
+high seas fishery	مصايد أعالي البحار
+High Sierra specification	توصيف High Sierra
+high speed craft	زورق عالي السرعة
+High speed serial interface	واجهة تسلسلية عالية السرعة
+high tech	1 تقانة عالية ؛ 2 تقانة عالية
+high tide	مَدٌّ، ذُروةُ المَد؛ حَدٌّ أعلى / مَدٌّ / سدّ / مد عالٍ
+high vacuum	خَواءٌ شَديد، تَفْريغيَّة عالية (يمكنُ فيها إهمال أثر التأيُّن)
+high water	مَنسوبُ المَدّ الأعلى، ذُروَةُ المَدّ
+high water level	مستوى الماء العالي
+high water line or mark	علامة ماء عالٍ
+high water of equinoctial spring	ماء (ال..) العالي للمدار الاعتدالي الكبير
+high water of ordinary neap tides	ماء(ال..) العالي للمدر العادي الصغير
+high water of ordinary spring tides	ماء(ال..) العالي للمدر العادي الكبير
+high-angle faults	صُدوعُ المَيل العالي (يَزيدُ مَيْلُها على 45°)
+high-angle shot	لَقْطةٌ مِن عَلُ
+high-ash coal	فَحمٌ كثيرُ الرَّماد
+High-bit-rate Digital Subscriber Line	خط رقمي عالي السرعة لمشترك
+high-boiling	عالي دَرَجَةِ الغَلَيان
+high-capacity CD-ROM	قرص متراص كبير السعة
+high-carbon steel	فُولاذٌ عالي الكَربون (يَحوي من ½ إلى 1½% كربونًا)
+high-coloured	غامِقُ اللَّون
+high-compression engine	مُحَرِّكٌ عالي الانضِغاط
+high-conductivity copper	نُحاسٌ عالي المُوَصِّلِيَّة
+High-data-rate Digital Subscriber Line	خط رقمي عالي السرعة لمشترك
+high-definition	عالي الوُضوح
+high-definition television	تلفزة عالية الوضوح
+high-density disk	1 قرص عالي الكثافة ؛ 2 قرص عالي الكثافة
+high-dispersion nozzle	فُوَّهةٌ عاليةُ التَّشْتيت
+high-duty cast-iron	حديدُ الزَّهْر العالي مُقاوَمةِ الشَّد (فوقَ الـ 17 طُنًّا لِلإنْش المُربَّع)
+high-efficiency motor	مُحَرِّكٌ عالي الكِفاية
+high-end	[بـ] أحدث تقانة
+high-energy bond	وُصْلَةٌ عاليةُ الطّاقة، رابِطة عاليةُ الطّاقة
+high-energy fuel	وَقُودٌ عالي الطّاقة
+high-energy particle	جُسَيْمٌ عالي الطّاقة
+high-energy physics = particle physics	فيزياء الطاقة العالية، فيزياء الجُسَيْمات
+high-expansion alloy	سَبيكةٌ عاليةُ التمَدُّد
+high-explosive	شديدُ الانفجار
+high-fidelity	عالي الأمانَة
+high-fidelity amplifier	مُضَخِّمٌ عالي الأمانة، مُضَخِّمٌ دَقيقُ الأداء
+high-fidelity reception	اِستِقبالٌ عالي الأمانة، اِستِقبالٌ دَقيقُ الأداء
+high-flux reactor	مفاعِلٌ عالي التدَفُّق (النيوتروني)
+high-frequency alternator	مُنَوِّب عالي التردُّد
+high-frequency amplification	تَضخيمُ التَّردُّداتِ العاليَة
+high-frequency choke	خانِقُ التردُّدات العالية
+high-frequency compensation = high boost	تَعْويضُ (أو تَعْزيز) التردُّداتِ العالية (في التسجيلاتِ الصوتيَّة)
+high-frequency condenser microphone	ميكروفون بِمُكَثِّفٍ عالي الترَدُّد
+high-frequency current	تيَّارٌ عالي الترَدُّد
+high-frequency heating = microwave heating	تَسخينُ التردُّد العالي
+high-frequency induction furnace	فُرنٌ بالحَثِّ العالي الترَدُّد
+high-frequency power generator	مُوَلِّدُ قُدرة عالية التردُّد
+high-frequency resistance	مُقاوَمةُ الترَدُّد العالي
+high-frequency transformer	مُحَوِّل التردُّداتِ العالية
+high-frequency welding	لِحام التردُّد العالي (بتَيّارٍ عالي الترَدُّد)
+high-gloss paint	طلاءٌ شديدُ اللَّمعَة
+high-grade	جَيِّدُ الصِّنف، عالي المَرتَبَة، مُمتاز
+high-grade fuel	وَقُودٌ عالي المَرتَبَة
+high-grade ore	خامٌ جيِّد الصِّنف
+high-grade steel	فُولاذ جيِّد الصِّنف
+high-gravity crude	خامٌ بِتروليّ عالي الكَثافة
+high-impedance voltmeter	ڤلْطمِتر عالي المُعاوَقة
+high-intensity carbon arc	قَوسٌ كَربونيّ عالي الشِّدة الضَّوئية
+high-interest rate	سِعرُ الفائِدةِ المُرتَفِع
+high-key lighting	إضاءَة فاتِحة
+high-level alarm	نَذيرُ المُستَوى العالي
+high-level cloud	سحابة مستوى مرتفع
+High-level Data Link Control	تحكم عالي المستوى في وُصلة معطيات
+high-level format	مَصاغةٌ عاليةُ المستوى
+high-level language	لُغَةٌ عاليةُ المُستَوى / لغةٌ عاليةُ المستوى / لغة عالية المستوى
+high-level modulation	تَضْمينٌ عالي المُستَوى، تَضْمينٌ عالي القُدرة
+high-level waste	نُفايةٌ عالية المَنسوب
+high-lift airfoil	سطحُ انسيابٍ هوائيٍّ عالي الرَّفْع
+high-lift pump	مِضَخَّةُ رَفْعٍ عالٍ
+high-line	خَطٌّ عالي التوَتُّر
+high-line telephone	نظامٌ تِلفونيّ عالي التوَتُّر
+high-manganese steel	فُولاذٌ عالي نِسبَةِ المنغنيز
+high-octane gasoline	بِنزين عالي الأوكتانيَّة (ذو خَصائصَ مانِعَةٍ لِلخَبْط)
+high-octane rating	تَقْديرٌ أُوكتانيّ عالٍ
+high-order	مرتبة عالية
+high-order language	لغة عالية المستوى
+high-pass filter	مُرَشِّحُ (إمرارِ) التردُّدات العالية
+high-performance	عالي الأداء
+High-Performance Parallel Interface	واجهة متوازية عالية الأداء
+high-persistence phosphor	مادة متفسفرة مِدْوامة
+high-power modulation	تَضمينٌ عالي القُدرة
+high-powered	عالي القُدرة
+high-precision shoran (HIRAN)	مقياس مسافات عالي الدقة (هيران)
+high-pressure	عالي الضَّغط؛ ضَغْطٌ عالٍ
+high-pressure cock	مِحْبَسُ ضَغْطٍ عالٍ
+high-pressure cylinder	أُسطُوانَةُ الضَّغط العالي
+high-pressure piping	مَواسيرُ الضَّغط العالي
+high-pressure pump	مِضَخَّةٌ عاليةُ الضَّغط، مِضَخَّةُ الضَّغط العالي
+high-pressure steam	بُخَارٌ عَالي الضَّغط
+high-pressure turbine	عَنَفَةٌ عاليةُ الضَّغط، تُربين عالي الضَّغْط
+high-proof	عالي الكُحوليَّة
+high-resistance voltmeter	ڤلْطمِتر عالي المُقاوَمة
+high-resolution	عالي الاِستِبانة
+high-shear rivet	بِرْشامةٌ عاليةُ مُقاوَمةِ القَصّ
+high-sounding	طَنّان، رَنَّان، مُجَلْجِل
+high-speed circuit-breaker	قاطِعُ دارةٍ عالي السُّرعة
+high-speed emulsion	طبَقة (فيلم) شديدةُ الحَسّاسيَّة لِلضَّوء
+high-speed engine	مُحَرِّكٌ عالي السُّرعة
+high-speed photography	التَّصويرُ الفائِقُ السُّرعة
+high-speed steel	فُولاذُ (آلاتِ) القَطْعِ السَّريع
+high-speed tunnel	نَفَقٌ عالي سُرعة الهَواء
+high-stop filter	مُرَشِّحُ وَقْفِ التردُّدات العالية
+high-strength	عالي المتَانة، عالي المُقاوَمة
+high-strength brass	نُحاسٌ أصفَرُ عالي المَتانة (بإضافةِ المَنغنيز والحَديد والألومنيوم)
+high-sulfur crude	بِترولٌ خامٌ عالي نِسبة الكِبريت
+high-tech	عالي التِّقانيَّة
+high-temperature alarm	نَذِيرُ (دَرَجة) الحَرارة العالية
+high-temperature dyeing	صِبَاغَةٌ عاليةُ الحَرارة
+high-temperature reactor	مُفاعِلٌ عالي دَرَجة الحَرارة (تَبْلُغ دَرَجةُ حَرارة لُبِّه 660° مِئَويَّة)
+high-tenacity yarn	غَزْلٌ قويُّ التماسُك
+high-tensile steel	فولاذٌ عالي مُقاومةِ الشَّد
+high-tension = high-voltage	جُهْدٌ أو تَوتُّر عالٍ (فوقَ 650 فُلْطًا)
+high-tension battery	بَطَّاريَّةُ الجُهد العالي
+high-tension cable	كَبْلٌ عالي التوَتُّر
+high-tension current	تيّارٌ عالي الجُهْد
+high-tension detonator	مُفَجِّرٌ عالي الجُهد
+high-tension ignition	إشعالٌ بالجُهْد العالي
+high-tension magneto	مَغْنيطٌ عالي الجُهد
+high-test cast-iron	حديدُ الزَّهْرِ العالي المَتانة
+high-test gasoline	بِنزينٌ سريعٌ التَّطايُر
+high-toned	عالي النَّغْمة، مُرتَفِعُ دَرَجةِ الصَّوت
+high-vacuum tube (or valve) = hard tube	صِمامٌ عالي التَّفْريغيَّة
+high-volatility fuel	وَقودٌ سَريعُ التَّطايُر
+high-voltage	فُلْطيَّة عالية (فوقَ 650 ڤلطًا)
+high-voltage test	اِختبارٌ بالڤلطيَّة العالية (للتأكُّد من سَلامةِ العَزْل)
+high-water mark	مَنسوبُ المِياه الأعلى؛ حَدّ أقصى
+higher apes	قرود عليا
+higher arithmetic	عِلْمُ الحِسابِ العالي
+higher critical velocity	السُّرعةُ الحَرِجةُ العُليا
+higher derivatives	مشتقات عليا
+higher formation	التَّشْكيلُ الأَعلى
+higher mathematics	الرِّياضِياتُ العالِية
+higher partial derivative	مُشْتَقٌّ جُزْئِيٌّ عالي المَرْتَبة
+higher plane curve	مُنْحَنٍ مُسْتَوٍ عالي الدَّرَجة
+Higher-order function	دالة عالية الرتبة
+Highest	الأعلى، أعلى قيمة
+highest common divisor	القاسِمُ المُشتَرَكُ الأَعْظَم
+highest common divisor (h.c.d)	قاسم (ال...) المشترك الأعضم
+highest common factor	العامِلُ المُشتَرَكُ الأَعظَم / العامِلُ المُشْتَرَكُ الأَعْظَم
+highjacking = hijacking	خَطْف (الطائرات بِخاصَّةٍ)
+highland	مُرتَفَع، هَضْبَة، نَجْد؛ نَجْديّ، هَضْبيّ
+highlands	مرتفعات / مرتقعات
+highlight	أبرز؛ ركَّز (الأنوار أو الأَهميَّةَ) على؛ حَدَثٌ ذو أَهَمِّيَّةٍ خاصَّة؛ جُزءُ الصُّورةِ الأَشَدُّ إِضاءَةً؛ بُقعةٌ ساطِعة (مِن الشاشة أو الصُّورة) / يلقي الضوء / سُطُوعٌ فَائِق / إبراز / إضاءة شديدة
+highlighting	إِبراز (بالطِّلاء الأَفْتَحِ أَو الإنارة) / إبانة،إبراز
+highly eccentric orbit	مدار لا تمركزي عالٍ
+Highly inflected language	لغة غنية بالتصريف
+highpass filter	مرشح تمرير عالٍ
+highroad	طَريقٌ عام
+highway	جادّة، طَريقٌ رئيسيّ أو عامّ
+highway engineering	هَندَسةُ الطُّرُق العامَّة
+highway map	خَريطةُ طُرُق
+Hijacking	خطف
+hilac (heavy-ion linear accelerator)	مُسَرِّعٌ خَطِّيّ لِلأَيوناتِ الثقيلة
+Hilbert cube	مُكَعَّبُ هِلْبِرت
+Hilbert matrix	مَصْفوفةُ هِلْبِرت
+Hilbert parallelotope	مُتَوازي سُطوحِ هِلْبِرت التَّضاعُفِيّ
+Hilbert singular integral	تَكامُلٌ شاذٌّ لِهِلْبِرت
+Hilbert space	فَضاءُ هِلْبِرت
+Hilbert transform	مُحَوِّل هِلْبِرت
+Hilbert, David	ديڤيد هِلْبِرت
+Hilbert-Schmidt theory	نَظَرِيَّةُ هِلْبِرت-شْميت
+Hilbertian space l 2	الفَضاءُ الهِلْبِرتِيُّ l 2
+Hilbert’s basis theorem	مُبَرْهَنةُ القاعِدَةِ لِهِلْبِرت
+Hilbert’s paradox	مُحَيِّرةُ هِلْبِرت
+Hilbert’s problems	مَسائِلُ هِلْبِرت
+Hilbert’s theorem	مُبَرْهَنةُ هِلْبِرت
+hile = hilum	نَقِير، أُنقور
+hill	تَلّ، تَلَّة، رابِيَة؛ كُومة؛ كَدَّسَ، رَكَمَ؛ كَمَّ، كَوَّمَ التُّرابَ حَولَ / تلّ
+Hill climbing	تسلًق التلال
+hill creep	زَحْفٌ تَلِّيّ
+hill-and-dale recording = vertical recording	تَسْجيلٌ عَمُوديُّ القَطْع (على الأُسطُوانات)
+hill-climbing	طَريقةٌ تسَلُّقيَّة
+hilling	حضن
+hillock	رَبْوَة، رابِيَة، تَلَّة صَغيرة، أَكَمة / اكمة، رابية / اكمة أوراسية
+hillside	جانِبُ التَّلّ / جانب التل
+hilly coast	ساحل تلي
+Hill’s differential equation	مُعادَلةُ هِلْ التَّفاضُلِيَّة
+hilt	مَقْبِض، نِصاب، قَبْضَة، مِقبَض
+hilum	سرة
+hilum (or hile)	نَقير، سُرَّة، أُنقُور
+hilum of seed	سرة البذرة
+hin d II	هن د 2
+hind	خَلْفِيّ، مُؤَخَّر؛ أيِّلَة
+hind axle	مِحْوَرٌ خَلْفيّ
+hind carriage	مَقْطُورة خَلْفيَّة
+hind intestine	معي خلفي
+hind sight	مِهدافُ التَّسديد الخَلْفيّ
+hind wheel	دُولابٌ خَلْفيّ
+hindcast	تَكَهُّنٌ بالماضي
+hinder	عاقَ، عَرْقَلَ، صَدَّ؛ اِعتَرَضَ؛ خَلْفِيّ
+hindered settling	اِستِقرارٌ مُعاق، ترسُّبٌ مُعَاقٌ (بواسِطَةِ تيّارٍ مائيّ صاعِد)
+Hindi	الهندية
+hindrance	عائِق، مانِع، عَقَبَة؛ تأخير، عَرْقَلَة
+Hindu-Arabic numerals	الأرقامُ الهنديَّةُ العَربيَّة (0،1،2،3،4.....9) / الأَرْقامُ العَرَبِيَّةُ-الهِنْدِيَّة
+hinge	مُفَصِّلَة؛ مِحْوَر، قُطْب؛ جَهَّزَ أو وَصَلَ بمُفَصِّلات، اِتَّصَلَ بمُفَصِّلَة؛ دارَ على قُطبٍ أو مِحْوَر / مفصلة
+hinge axis	مِحوَرُ المُفَصِّلة
+hinge barrel	مَفْصِل (أو أُسطُوانةُ) المُفَصِّلة
+hinge bolt	مِسْمارُ المُفَصِّلة
+hinge bracket	كَتيفةُ المُفَصِّلة، صَفيحةُ (ارتِكاز) المُفَصِّلة
+hinge cells	خلايا مفصلية
+hinge fault	صَدْعٌ مَفْصِليّ
+hinge joint	مَفصِلٌ بَكَريّ
+hinge leaves	صَفْقا (أو جَناحا) المُفَصِّلَة
+hinge line	خَطُّ الاتصالِ المَفْصِلِي
+Hinge Loss	خسارة مفصلية
+hinge moment	عَزْمُ المُفَصِّلة، عَزْم مُفَصِّليّ
+hinge pin	مِحْوَرُ المُفَصِّلَة
+hinge, helical	مُفَصِّلَةٌ لَولَبيةٌ دوَّارة
+hinged	ذو مَفاصِلَ أو مُفَصِّلات، مُتمَفْصِل / مفصلي
+hinged arch	قَنطَرَة مَفْصليَّة
+hinged beam	عَتَبة مَفْصِليَّة
+hinged bearing	مُرتَكَزٌ مَفْصِليّ
+hinged connection	اِتِّصال مَفْصِلي، اِتِّصال بِمُفَصِّلة
+hinged flap	قَلاّبة مَفْصِليَّة، مِصراعٌ مَفْصِلي (ذو مُفَصِّلات)
+hinged joint	وُصْلَة مَفْصِليَّة
+hinged lever	عَتَلَة بمُفَصِّلَة
+hinged lid	غِطاءٌ بمُفَصِّلَة
+hinged tessellation	فُسَيْفِساءُ مُتَمَفْصِلة
+hinged valve	صِمامٌ بمُفَصِّلَة
+hingeing post	قائمٌ ذو مُفَصِّلات (يَحمِلُ البوّابة)، قائمُ تعليقٍ مَفصليّ
+hinny	نغل
+hint	تَلميح، إشارة؛ أَلمحَ، أَشارَ
+hinterland	أرضُ المؤَخَّرَة؛ إقليمٌ داخِليّ / منطقة خلفية / ظهر اليابسة
+hip	وَرِك؛ سَنَام / عظم الحوض
+hip girdle = pelvic girdle	حِزامُ (أو زُنّار) الحَوض
+hip joint	مَفْصِلُ الوَرِك؛ وُصلةٌ سَناميَّة
+hip rafter	رافِدَة وَرِكيَّة (لِدَعم الجُمْلُون)
+hip roof	سَقْفٌ مُسَنَّم
+hip-and-valley roof	سَقفٌ مُسَنَّم مُفرَّج
+hip-joint	مفصل الورك
+hiperco	هَيپِركو
+hipernick	هَيْبرنِك
+hipersil	هَيپِرسيل
+hipped roof = hip roof	سَقْفٌ مُسَنَّم، جَمَلُون، جُمْلون
+HIPPI	واجهة متوازية عالية الأداء
+hippo(potamus)	بِرْنيق، فَرسُ النَّهر
+hippoboscid	برغش الخيل
+hippocampus	حصان البحر
+hippodrome	مَيدانُ سِباق الخَيْل
+hippology	علم دراسة الخيل
+hippopede	قَدَمُ الفَرَس
+hippophae	غاسول رومي
+hire	اِستأجَرَ، أجَّرَ، اِكْتَرى، أكْرَى؛ أُجْرَة، كِراء، استِئجار
+hire purchase	شِراءٌ بالتَّقسيط؛ إيجارٌ ساتِرٌ للبَيْع
+hired labo(u)r	عَمَل مأْجُور
+hirst	رَبْوَة، ضَفَّة رَمليَّة
+hirsute	هُلْبيّ، أَزَبّ
+Hirudinea	العَلَقيّات / علقيات
+hirudiniculture	تربية العلق
+hirudinidae	سنونيات
+hiruste	مهلب
+hiss	فَحَّ، هَسَّ، هَسْهَسَ، أَزَّ؛ فَحيح، هَسِيس، نَشيش
+histamine	هِسْتامين / هيستامين
+hister	جعل
+histidine	هستيدين
+histoblast	خلايا مولدة النسيج
+histochemistry	كِيمياءُ الأَنسِجَة
+histogenesis; histogeny	تكوين الأنسجة
+histogram	مخطط [بياني] نسيجي / مِدْرَاج / رسم بياني نسيجي، مدرّج تكراري / مدرّج تكراري / مُخَطَّطٌ دَرَجِيّ (مُدَرَّج تَكْرارِيّ)
+histogram = frequency diagram	مُنَسَّج، مُخَطَّطٌ درَجيّ
+histology	النُّسُجيّات، عِلْمُ النُّسُج، عِلْمُ الأَنسِجة / علم الأنسجة
+histolysis	اِنحِلالُ الأَنسِجَة / انحلال الأنسجة
+histone cluster	عنقود هستونيّ
+histone genes	مورثات الهستون
+histones	هستونات
+historical climate	مُناخٌ تارِيخِيّ
+historical geology	الجيُولوجية التاريخيَّة / جيولوجيا تاريخية
+history	تاريخ؛ عِلْمُ التاريخ / ماضٍ، تأريخ / تاريخ
+hit	ضَرَبَ، خَبَطَ، صَدَمَ؛ أصابَ؛ خَبْطَة، صَدْمَة؛ إِصابَة؛ صاعِقة؛ اِضطِرابٌ مُؤَقَّت؛ إِصابة / 1 إصابة ؛ 2 إصابة / ضَرْبَة
+hit (drill)	رأس الحفر
+hit probability	احتمال الإصابة
+Hit rate	معدل الاصابة
+hit ratio	1 نسبة الإصابة ؛ 2 نسبة الإصابة
+hit-and-miss ventilator	جِهازُ تَهْوِيَة يُضبَطُ بالتَّجربة
+hitch	جَرَّ أو جَذَبَ فَجْأةً؛ شَبَكَ، اِنشَبَكَ؛ جَذْبةٌ مُفاجِئَة، نَخْعَة؛ عُقْدة مُؤَقَّتة؛ وُصْلَةُ رَبْط؛ صَدْعٌ صَغير، تصَدُّعٌ خَفيف؛ مُتَّكَأ
+hitch knot	عُقْدَةٌ مُؤَقَّتَة، عُقْدَةٌ سَهْلَةُ الحَلّ
+Hitchcock transportation problem	مَسْأَلةُ النَّقْلِ لِهِتْشْكوك
+Hitchcock, Frank Lauren	فْرانْك لورين هِتْشْكوك
+hitcher = hanger-on	رابِطُ العَرَبات (أو فاصِلُها)
+hitchhiking alleles	أليل متطفل
+hitherto	حَتَّى الآن
+HIV Prevalence Rate ( %)	معدل انتشار فيروس نقص المناعة المكتسبة (الإيدز)
+hive	خَليّةُ نَحل، نَحِيتَة
+hive bee	نحل الخلية
+Hjelmslev plane	مُسْتَوي هِلْمْسْلِڤ
+HKEY	مفتاح المقبض
+HLA; human leucocyte antigen	هـ.ل.أ
+hlot	دغل
+HLS	حاسّية اللون-ضياء-تشبّع
+HMA	منطقة الذاكرة العليا
+Ho (holmium)	هل
+hoar	صَقيع (أبيض)
+hoar frost	صقيع أبْيَض
+hoar-frost	صَقِيعٌ فِضِّي
+hoar-frost point	نُقطةُ الصَّقيع الهَشّ
+hoard	اِختَزَنَ، اِدَّخَر
+hoary; hoar	مجثر
+Hoax	رسائل إلكترونية تنشر بلاغات كاذبة
+hob	قالَبُ تَشكيل رَئيسي؛ مسمارُ نَعلٍ (غليظُ الرأس)؛ لَولَبَ بِمقْطَعٍ مُخَدَّد، خَدَّدَ (المُسَنَّنة)، قَطَعَ (أسنانَ التُّرس)
+hobber = hobbing machine	مُخَدِّدة، مَكَنةُ تَخْديد (لِقَطْعِ المُسَنَّنات الحَلَزونيَّة)
+hobby	هِوايَة / فرخ الشاهين
+hobnail	مِسمارُ نَعلٍ (غليظُ الرأس)
+hock	ربلة الساق
+hoctonospheres	صهاريجُ ضَغط كُرَويَّة
+hod	قادُوس؛ قادُوسُ فَحْم
+hodfast	ماسك جذري
+hodograph	هودُوغراف / راسم خطّي / مِخْطَاط مُنْحَنَياتِ سُرعة الرّياح
+hodoscope	هودُوسكوب
+hoe	مِعْزَقَة، مِعْوَل، مِنْكاش، فأس؛ عَزَقَ، نَكَشَ
+hoe scraper	مِكْشَطَة مِعْزَقِيَّة
+Hoehn’s theorem	مُبَرْهَنةُ أويْن
+Hofmann reaction	تَفاعُلُ «هُوفمان»
+hog	خنزير
+hog wallow	منخفض صغير / منخفض صغير فيه بقايا تلال
+hog's bane	رجل الأوز
+hog-deer	أيل أسمر
+hog-fish	سمك خنزيري
+hog-nut	ثمرة الجوزية
+hog-plum	برقوق اسباني
+hogback	مُسَنَّم، مُقَوَّس، مُحَدَّبُ الظَّهر، مُقَتَّب؛ قتَبٌ أرضيّ، ظَهْرٌ مُحَدَّب / ذروة حادة
+hoggin (or hogging)	حَصيمٌ ناعِم
+hogging girder	عارِضَة مُقَتَّبة
+hogging moment	عَزْمُ التقَوُّس
+hogging vessel	سفينة متحدبة
+hoghorn	هَوائيٌّ بُوقيّ
+hogshead	بِرميلٌ كَبير؛ مِكيالٌ لِلسَّوائِلِ (سَعَتُه 283.5 لِترًا)
+hogweed	سفندوليون
+hohlraum	فَجْوَة، تَجْويف؛ تَجْويفٌ أَسوَدُ
+hoist	مِرْفَع، مِرْفاع، آلةٌ رافِعَة رَحويّة؛ رَفَعَ، اِرتَفَع؛ نَشَر (العَلَم أو الشِّراع)
+hoist a boat	رفع قاربا
+hoist a signal	رفع إشارة
+hoist controller	ضابِطُ سُرعَةِ المِرفاع
+hoist drum	أُسطوانةُ المِرْفاع
+hoist frame	هَيكَلُ المِرفاع
+hoist inboard	حمل قاربا
+hoist tower	بُرجُ الرَّفع
+hoist(ing) cable	كَبْلُ المِرفاع، كَبْلُ الرَّفْع
+hoist(ing) tackle	بَكّارَةُ (بَكَراتُ) الرَّفْع، عُدَّة الرَّفع
+hoist, chain	مِرفاعٌ سلسلي
+hoist, electric	مِرفاعٌ كَهربائي
+hoisting	رَفْعٌ (بالمِرفاع)
+hoisting block	مَجموعةُ البَكَرات المُتَحرِّكَة
+hoisting cage	قَفَصُ الرَّفع
+hoisting crab	مِرفاعٌ (قَنْطَريّ) نَقّال
+hoisting crane	مِرفاع، وِنْشُ الرَّفع
+hoisting engine (or motor)	مُحَرِّكُ رَفْع
+hoisting eye	عُرْوَةُ رَفْع
+hoisting gear	جِهازُ الرَّفع
+hoisting machine	مَكَنَةُ رَفْع، آلةٌ رافِعة
+hoisting rope	حَبْلُ الرَّفع
+hoisting sheave	بَكَرَةُ الرَّفع
+hoisting sling	مِعْلاقُ رَفْع
+hoisting speed	سُرعَةُ الرَّفع
+hoisting winch	وِنْشُ الرَّفع، مِرفاع
+hoisting winch; lifting winch	رافعة
+hoistman = hoist operator	عامِلُ المِرفاع
+holandric genes	مورثات هولاندرية، مورثات ذكرية
+holandric inheritance	وراثة ذكرية
+Holarctic region	مِنطَقةُ الحَيواناتِ القُطبيَّة الشماليَّة
+holard	الماءُ الكُلِّي (في التُّربة)
+holcus	هلقوس صوفي
+hold	مَسَكَ، ضَبَط؛ سَنَد، ثبَّتَ، أَبقَى؛ اِستوعَبَ، أخَذَ، شَغَل؛ ضَمّ، اِحتَوى؛ تَحَمَّل، ثَبَتَ، صَمَدَ؛ تَعَلَّقَ (بِـ)؛ اِنطَبَقَ؛ عَقَدَ (اجتِماعًا)؛ قَبْضَة، مِمْسَك؛ وَقْفَة؛ مُستَودَع (الطائرة)، عَنْبَرُ أو أنبارُ السفينة؛ سِجْن؛ مُداومة / 1 إمساك (وقف) ؛ 2 إمساك (وقف)
+hold access	وصول إلى العنبر
+hold beam	عارضة العنبر
+hold ceiling	بطانة سقف العنبر
+Hold Down	ضغط مع التعليق / نقر مع التعليق
+hold ladder	سلم العنبر
+hold pillar (stauchion)	ركيزة العنبر
+hold pump	مضخة العنبر
+hold-back (agent)	مُعيقٌ إِشعاعيّ
+hold-off spring	زُنْبَركٌ مُباعِد
+hold-up	الكميَّة المُحتجَزة
+holdall	جَعْبَة، حَقيبة، جِراب
+holdback	عائِق، كابِح؛ كَبْح، إعاقَة؛ كابِحُ الارتداد
+holder	ماسِك، مِمْساك؛ حامِل، حامِلة
+holder pressure	ضَغْطُ مُستودَعِ الغاز
+holder, cutter	مِمْسَكُ القاطِع
+holder, gas	مُستَودَعُ الغاز
+holder, tool	مِمْسَكُ العُدَّة
+holderbat	قامِطةٌ خُفّاشِيَّة
+Holder’s Main Occupation	مهنة الحائز الرئيسة
+holdfast	مِرْبَط، إسار تثبيت؛ مِسمارُ رَبْط
+holding	عَقار؛ حَوْزَةٌ من الأسهم والسَّنَدات؛ اِنتِظار؛ قابِضٌ، مُمْسِكٌ
+holding anode	مَصْعَدُ استِمرارٍ مُساعِد
+Holding Area	المساحة الكلية للحيازة
+holding bay (or apron)	ساحةُ (أو رَصيفُ) الانتِظار
+holding capacity	سعَةُ الاِستيعاب
+holding circuit	دارةُ إِمساك
+holding company	الشَّرِكَة المُهَيمِنَة / الشركة القابضة
+holding fixture	تَثبيتَةُ رَبْط أو إِمساك
+Holding Gains	مكاسب الاقتناء
+holding ground	قاع إرساء
+Holding Irrigation Method	أسلوب الري في الحيازة
+Holding Main Activity	النشاط الرئيس للحيازة
+Holding Management Method	أسلوب إدارة الحيازة
+holding pattern	نَمَطُ (مَسار) الانتِظار
+Holding Plot	قطعة الحيازة
+holding point	نُقطةُ الانتِظار
+holding power	قُدرةُ الإمساك
+holding ring	طَوقُ تَثبيت
+holding time	زَمنُ الاحتجاز / مُدَّةُ شَغْلِ الْخَطّ
+Holding Type	نوع الحيازة
+holding-down bolt	مِسمارُ الرَّبْطِ
+holding-up	دَعْمُ رأس البِرشامِ (بمِطرقة) أثناءَ فَلْطَحَتهِ (من الجِهة الأُخرى)
+Holdout Data	بيانات مستثناة
+hole	ثَقْب، ثُقْبَة، فُتْحَة، فَجْوَة؛ شُغْرَة إلِكترونيَّة؛ ثَقَبَ، نَقَرَ / ثقب، فتحة / ثَقْب / حفرة
+hole base	أَساسُ الثَّقب
+hole bore	ثقب الخيط الفطري
+hole conduction	تَوصيل شُغْريّ
+hole current	تَيّارٌ شُغْريّ (في شِبْه المُوَصِّل)
+hole deviation	اِنحِرافُ الحَفْر، انحِرافُ الثَّقْب
+hole director	مُوَجِّهُ الحَفْر
+hole gauge	مُحَدِّدُ قياس الثُّقوب
+hole injection	الحَقْنُ بالشُّغرات
+hole saw	مِنشارُ تَثْقيبٍ مُستَدير
+hole size	قُطْرُ الحَفْر، قُطْر الحَفيرة
+hole through	مُلْتَقًى نَفَقيّ
+hole, discharge	فُتحةُ تَصريف، مَنْفَذُ الخُروج
+hole, dry	بئرٌ جافَّة (غيرُ مُنتِجَة)
+hole, inspection	فُتحَةُ تَفتيش
+hole, oil	ثَقْبُ التَّزْييت
+holiday	عُطْلَة؛ خَلَلٌ بِطانيّ أو تَغْليفيّ
+holidays	تَفْويتاتُ الدِّهان (المَتروكَةُ عَرَضًا)
+holing	حَفْر، ثَقْب (يَدَويّ أو آليّ)
+Hollerith tabulating/recording machine	آلة Hollerith للجدولة والتسجيل
+Holliday model	طراز 'هوليداي'
+hollow	أَجوَف، مُفْرَغ، مُجَوَّف؛ غائِر؛ باطِل؛ تَجويف، نُقْرة، غَور، وَهْدَة؛ جَوَّفَ، تَجَوَّف، فَرَّغَ، قَعَّر / تَجَوُّف / تجوّف / أجوف
+hollow blocks (or tiles)	طُوب مُفْرَغ، قَوالِبُ مُفرَغَة
+hollow casting	مَصْبوبة جَوفاء
+hollow conductor	مُوَصِّل أَجوَف
+hollow float	عَوّامَة جَوفاء، طافِيَة مُفرَغة
+hollow keel	أرينة مجوفة
+hollow mandrel lathe	مِخْرَطة مُفرَغَةُ الشِّياق
+hollow mill	مِقْطَعُ تَفريزٍ أجوَف
+hollow punch	سُنبُكٌ أجوَفُ
+hollow sea	بحر متغاور
+hollow shaft	عَمودٌ أَجوَف، جِذعٌ أَجوَفُ / جُذْع إدارة أجوف
+hollow sphere	كُرةٌ جَوفاء
+hollow square	مُرَبَّع أَجوَفُ (ينقُصُه ضِلْع)
+hollow steel mandrel	شِياقٌ فُولاذيّ أَجوَف
+hollow stem	ساق جوفاء
+hollow stem valve	صِمامٌ أجوفُ الجِذع
+hollow tiles	آجُرٌّ مُفْرَغ
+hollow trunnion	مِبْرمٌ أَجوَف
+hollow-block floor	أَرضيَّةٌ مِن القَوالِب المُفْرَغَة
+hollow-cathode tube	أنبوبٌ أجوف الكاثود (عالي التوهُّج)
+hollow-walls = cavity walls	جُدرانٌ مُزدوِجة (بينَ الواحِد والآخرِ حَوالى 5 سم)
+hollow-ware presser	مَكَنةُ تشكيلِ الأواني المُجَوَّفة
+hollowed	أَجوَفُ، مُجَوَّف؛ مُفْرَغ / مُجَوَّف / مجوّف
+hollowing plane	مِسحاجُ تَجويف
+holm	جزيرة صغيرة / جزيرة صغيرة في نهر أو بحيرة
+holm(e)	جَزيرة نَهريَّة (أو بُحَيريَّة)
+holm; holm-oak	بلوط أخضر
+holmium (Ho)	الهُلْميُوم
+holo-	بادِئة بِمَعنى: كامِل، تامّ، كُلِّيّ
+holo-parasitic	تام التطفل
+holoaxial	كامِلُ المَحاوِر (البِلَّوريَّة)
+holoblastic	تامُّ الاِنقِسام
+Holocene period	العَصْرُ الحَديث
+holocene; recent	هولوسين، عصر (ال..) الحديث / هولوسين، العصر الحديث
+Holocentric	منتشر القسيمات المركزية
+holoclastic	تامُّ التفَتُّت
+holocrystalline rocks	صُخُورٌ ناريَّة كُلِّيَّة التبَلْوُر
+hologram	صُورةٌ مُجَسَّمة / مُصوَّر تجسيمي
+holography	التَّصْويرُ التَّجْسيميّ (بأشِعَّة اللِّيزَر) / تصوير تجسيمي
+hologynic	صفات أنثوية
+holohedral	كامِلُ الأوجه أو السُّطوح / كامل الأوجه
+holohedral crystal	بِلَّورة تامَّة
+holohedral forms	أَشكالٌ بِلَّوريَّة تامَّةُ التماثُل
+holomorphic	تامُّ الشَّكْل (البِلَّوريّ)
+holomorphic function	دالَّةٌ هولومورْفِيَّة
+holomorphic map	تَطْبيقٌ هولومورْفِيّ
+holonomic function	دالَّةٌ هولونومِيَّة
+holophytic	نَباتيُّ التغذِيَة
+holophytic nutrition	تغذية نباتية
+holoplankton	عَوالِقُ كامِلة
+holothuria	خيار البحر
+holothuroidea	صنف خيار البحر
+holotricha	كاملات الهدب
+holozoic	حَيَوانيُّ التغذِيَة
+holozoic nutrition	تغذية حيوانية
+holster	قِرابُ المُسَدَّس
+holt	أَجَمة
+holystone	رَخَف، خُفّان
+hom(e)opathy	المُعالَجَةُ المِثْليَّة
+home	بَيْت، مَنزِل؛ مَنشَأ، مَوْطِن؛ مَقَرّ؛ يُوَجِّهُ (إلى هَدَفٍ أو مَوقِعٍ مُعَيَّن)؛ يُعيدُ (أو يَعودُ) إلى نُقطةِ البِداية / موطن / منزل
+home battery	بَطّارِيَّةُ مَحَطَّة الإرسال
+home computer	حاسوبٌ مَنزلي / حاسوب منْزلي
+home consumption	الاستِهلاكُ المَحَلِّي
+home country (of a ship)	بلد تسجيل (سفينة)
+home directory	دليل الموطن / رَأْسُ الْمَصْنَفَة / دليل رئيسي
+home economics	التدبيرُ المَنزِليّ
+home freight; back freight	أجرة إرجاع البضاعة
+home front	جَبْهةٌ داخِليَّة
+Home key	مفتاح "الموطن"
+home office	1 مكتب منْزلي ؛ 2 مكتب الموطن [لشركة]
+home page	صفحة دليلية / 1 صفحة الموطن ؛ 2 صفحة الموطن / صَفْحَةُ الْبِدَايَة / صفحة البداية
+home port	مِيناءُ المَوطِن / ميناء التسجيل
+home range	مَجالٌ مَعيشيّ
+home record	تسجيلة الموطن
+home trade	ملاحة ساحلية داخلية
+home waters	مياه إقليمية
+home-office switch	مِقلادٌ (مِفتاحٌ كَهرَبائيّ) كامِلُ العَزْل
+homebrew	صنع للاستخدام الخاص
+homegrown software	برمجيات منْزلية
+homemade	مَحَلِّيُّ الصُّنْع
+homeomorphic spaces	فَضاءانِ مُتَصاكِلان (فَضاءانِ هومْيومورفِيَّان)
+homeomorphism	تَصاكُل (هومْيومورفيزم)
+homeomorphism = homeomorphy	التَّشاكُل، التَّشابُهُ الشَّكليّ؛ تَشاكُلٌ طُوبولوجيّ
+homeomorphy	تشاكُل / تشاكل
+homeostasis	اِستِقرارٌ داخِليّ، الاِستِتْباب
+homeothermous = warm-blooded	مُستَقِرُّ دَرَجةِ الحَرارة، حارُّ الدَّم
+Homepage	صفحة رئيسية
+homer	مُوَجِّه
+homewards working	اِستِثمارٌ تَراجُعي
+homework	واجِبٌ مَنزِلي
+Homicide Rate	معدل جرائم القتل
+homing	عودَة؛ تَوجيهُ العَودة، توَجُّه؛ توجيهٌ راديوي لإصابةِ الهَدَف
+homing antenna	هَوائيُّ تَوْجيه
+homing beacon	مَنارةُ تَوْجيه
+homing device	جِهازُ تَوْجيه (إلى هَدَفٍ أو مَوقِعٍ مُعيَّن)
+homing guidance	تَوْجِيهٌ أُوتوماتيٌّ نحوَ الهَدَف
+homing mechanism	جِهازُ التَّوجيه الرّاديوي
+homing, active	تَوجيهٌ فَعّال
+homing, passive	تَوجيهٌ تأثُّرِي
+hominidae	بشر، فصيلة البشر
+Homo sapiens	ألجنسُ البَشَريّ، الإنسان / هوموسابينس
+homo-	بادِئة بمعنى: مُتَجانِس، مُتَناظِر، مُتَشابِه
+homoalleles	أليلات متماثلة، بديلات متماثلة
+homoatomic ring	حَلْقة متجانِسة الذرَّات
+homobrachial inversion	انقلاب جنيب المركزيّ
+homocentric rays	أشعّةٌ مُتَماثِلةُ التمَركُز
+homochromatic or homochromic	مُتجانِس اللَّون (لكن مختلِف التركيب)
+homochromy	مُجانَسة لَونيَّة
+homochronous inheritance	وراثة مِثْلِيَة التزامن
+homoclimes	مَناطِقُ مُتَجانِسةُ المُناخ
+homoclinal	مُتَجانِسُ المَيْل
+homoclines	طَبَقاتٌ مُتَجانِسة المَيْل
+homocologous chromosomes	صبغيات جزئية التماثل
+homocyclic compound	مُرَكَّبٌ حَلْقيٌّ مُتَجانِس
+homodesmic structure	بِنْيةٌ مُتجانِسَة الرَّوابط (الأيونية أو الإسهاميَّة)
+homoduplex	مزدوج متماثل الجديلة
+homodyne	هومُودايني
+homodyne reception	اِستِقبالٌ مُتَجانِس
+homoeogenesis	تَماثُل التكوين
+homoeomorphy	التَّشاكُل، التَّشابُه الشَّكْليّ
+homogametic sex	جنس متجانس الأعراس
+homogamodeme	ديم ذو تلقيح خلطيّ فعليّ
+homogamous	مُتَجانِسُ الأعراس، مُتَماثِلُ الأمشاج
+homogamy	تلاقح الأمشاج المتجانسة / تزاوج متماثل، تزاوج متجانس
+homogen(e)ous	مُتَجانِس، مُتَجانِسُ التركيب
+homogen(e)ous catalyst	حافِزٌ مُتَجانِس
+homogeneity	تجانُس، تماثُل؛ تجانُسِيَّة، تَماثُليَّة / تَجانُس / تجانُس / تجانس
+homogeneity of dimensions	تجانس الأبعاد
+homogeneization	تجنيس، مُجَانَسَة / تجنيس، مجانسة
+Homogeneous	متجانس
+homogeneous (adj)	مُتَجانِس
+homogeneous aggregate	تَجمُّعات مُتجانِسة
+homogeneous atmosphere	غِلافٌ جَوِّيٌّ مُتَجانِس
+homogeneous co-ordinates	احداثيات متجانسة
+homogeneous computer network	شَبَكَةٌ حَاسُوبِيَّة مُتَجَانِسَة
+homogeneous coordinates	إحداثيّات مُتَجانِسة / إحْداثِيَّاتٌ مُتَجانِسة
+homogeneous differential equation	مُعادَلةٌ تَفاضُلِيَّةٌ مُتَجانِسة
+homogeneous dye	صِبْغَة مُتَجانِسَة
+homogeneous environment	بيئة متجانسة
+homogeneous equation	مَعادَلةٌ مُتَجانِسة
+homogeneous equations	معادلات متجانسة
+homogeneous expression	عبارة متجانسة
+homogeneous function	دالَّة مُتَجانِسة / دالة متجانسة / دالَّةٌ مُتَجانِسة
+homogeneous integral equation	مُعادَلةٌ تَكامُلِيَّةٌ مُتَجانِسَة
+homogeneous light = monochromatic light	ضَوءٌ مُتَجانِس (وحيد اللون)
+homogeneous mixture	مَخْلوطٌ مُتَجانِس
+homogeneous network	شبكة متجانسة
+homogeneous numbers	عَدَدانِ مُتَجانِسان
+homogeneous polynomial	حدودية متجانسة / حُدودِيَّةٌ مُتَجانِسة
+homogeneous radiation	إشعاعٌ مُتَجانِس (مُتجانِسُ الطُّولِ المَوجيّ أو الطاقة الجُسَيميَّة)
+homogeneous reaction	تَفاعُلٌ مُتَجانِسُ الطَّور
+homogeneous reactor	مُفاعِلٌ مُتَجانِس (مُتَجانِسُ مَزيج الوَقود والمُهَدِّئ)
+homogeneous section	مَقْطَعٌ مُتَجانِس
+homogeneous set of linear equations	مَجْموعةٌ مُتَجانِسةٌ من المُعادَلاتِ الخَطِّيَّة
+homogeneous space	فَضاءٌ مُتَجانِس
+homogeneous system	منظومة متجانسة
+homogeneous transformation	تَحْويلٌ مُتَجانِس
+homogenize	جانَسَ
+homogenized grease	شَحمٌ مُجانَس
+homogenizer	مُجانِسَة
+Homogenous	متجانس
+homogenous = homogeneous	مُتَجانِس
+homogenous equations	مُعادَلات مُتَجانِسة
+homogenous section	مَقطعٌ مُتجانِس
+homogenous texture	نَسيجٌ مُتَجانِس، نَسْجَة مُتجانِسة
+homogeny	تَجانُس، تماثُل
+homograft	طُعْمٌ مجانِس
+Homographic	متشارك لفظي
+homographic transformations	تَحْويلاتٌ هوموغْرافِيَّة (تَحْويلاتٌ مُجانِسِيَّة)
+homography	تَجانُس، تَوافُق
+homoiothermic = warm-blooded	ثابتُ الحَرارة، مِن ذَواتِ الدمِ الحارّ
+homokaryon	متماثلة النوى
+homolateral	مُتَجانِب
+homologous	مُتشابِه، مُتَناظِر؛ مُتَشاكِل، مُتَماثِل، مُتَشابِهُ التَّركيب / متناظر، متماثل
+homologous chromosomes	صِبْغِيّات مُتَشاكِلة / صبغيات متجانسة / صبغيات متناظرة
+homologous pair	زَوجٌ مُتَشاكِل
+homologous series	سِلْسِلةٌ مُتَشاكِلة؛ مُتسَلْسِلَةٌ مُتَشاكِلَة
+homologous sides	أضلاعٌ مُتَناظِرة
+homologue	مُتَشاكِل، مُماثِل
+homologues sides	أضلاع متناظرة
+homology	تَماثُل، تناظُر، تَشاكُل؛ تَشابُهُ النَّسَق / تماثُل
+homology group	زُمْرةٌ هومولوجِيَّة
+homology theory	نَظَرِيَّةُ الهومولوجيا
+homolysis	اِنحِلالٌ تَماثُليّ
+homomorphic	مُتَماثِلُ الشَّكْل (مع اختِلافِ التكوين) / متشاكل
+homomorphic bivalent	ثنائيات متماثلة الشكل
+homomorphism	تَشاكُل، التَّشابُه الشَّكليّ / تشاكل متصل / تَشاكُل
+homomorphism theorem	مُبَرْهَنةُ التَّشاكُل
+homoplasmic	متماثل جبلة الخلية
+homopolar	مُتَجانِسُ الأَقطاب؛ مُتَماثِلُ الأَقطاب
+homopolar bond	تَرابُطٌ مُتَجانِسُ الأقطاب؛ رابِطَةٌ (كيميائيَّة) تساهُميَّة
+homopolar generator	مُوَلِّد مُتجانِسُ الأقطاب (لِلتيّار المُستَمِرّ)
+homopolymer tails	أذناب المثيليّ
+Homoptera	مُتَجانِساتُ الأَجنِحة
+homoscedastic	مُتَساوي التبايُن
+homoseismal line	خَطُّ تجانُسِ الزَّلازِل / خط تساوي الاهتزاز
+homosequential species	متشابهات الأنواع
+homosexuality	جُنُوسَة
+homosphere	الغِلافُ المُتَجانِس / غِلافٌ مُتَجانِس
+homosporous	متجانس الأبواغ
+homostyly	تماثل طول الأقلام والأسدية
+homotaxial deposit	رسوبيات متشابهة وغير متزامنة النشأة
+homotaxial deposits	رسوبيات متشابهة وغير متزامنة النشأة
+homotaxis	تَناظُرُ التطَبُّق
+homothetic	مُتَماثِلُ الوَضْع / متحاكٍ
+homothetic center	مركز التحاكي / مَرْكَزُ التَّحاكي
+homothetic centre	مَركَزُ التَّشابُه
+homothetic curves	مُنْحَنِياتٌ مُتَحاكِية
+homothetic figures	أَشْكالٌ مُتَحاكِية
+homothetic ratio	نِسْبةُ التَّحاكي
+homothetic transformation	تحويل التحاكي / تَحْويلٌ مُتَحاكٍ
+homothetic triangles	مُثَلّثاتٌ مُتَحاكِية
+homothety	تحاكٍ / تَحاكٍ
+homotopy	هوموتوبيا
+homotopy group	زُمْرةٌ هوموتوبِيَّة
+homotopy theory	نَظَرِيَّةُ الهوموتوبيا
+homotropic elements	عَناصِر مُتجانِسة المجموعة
+homozygosity	زيجوتية متماثلة
+homozygote	لاقحة متجانسة الصبغيات / زيجوت متماثل
+homozygous	مُتَجانِسُ اللَّواقِح / متجانس اللاقحات / متماثل الزيجوت
+hone	حَجَرُ الصَّقْل أو الشَّحْذ؛ مِشحَذ، مِمسَك أحجار الشَّحذ؛ شَحَذَ، سَنَّ
+honer	عامِلُ صَقْل، صَيْقَل
+honest	أَمين، شَريف، صادِق، غيرُ مُتَحيِّز
+honestone = whetstone	حَجَرُ الشَّحذِ أو التَّجليخ
+honey ant	نملة عسالة
+honey-cup	مرحقة
+honey-dew	رحيق، مغثر الزهر
+honey-locust	جلاديشية ذات ثلاث شوكات
+honeybee	نَحلَةُ العَسَل
+honeycomb	قُرصُ العَسَل؛ نُخروب؛ عائق نُخروبي؛ مُنَخْرَب، نُخْروبيّ
+honeycomb casting	مَصْبُوبةٌ نُخْروبيَّة
+honeycomb coil	مِلَفُّ مُحاثَّة نُخروبيّ (أو مُتَعرِّج اللَّف)
+honeycomb radiator	مُشِعٌّ نُخْروبي
+honeycomb texture	نَسيجٌ نُخروبي، نَسْجَة نُخروبيَّة
+honeycomb wall	جِدارٌ مُنَخْرَب (بالفَجَواتِ المُنتَظَمةِ التّوزيع)
+honeycomb weathering	تَجْوِيَة نُخروبيَّة
+honeycombed rock	صَخْرٌ مُنَخْرَب
+honeydew	مِغْثِر
+honeysuckle	سلطان الجبل، صريمة الجدي
+honing	صَقْل، شَحْذ
+honing machine	مَكَنةُ صَقْل (ثُقوبِ أُسطُواناتِ المُحَرِّك)
+honker	مِجهارُ الوَسِيطات
+honorarium	أُجرةُ (أو أتعابُ) صاحِبِ المِهنة
+honorary	شَرَفي، فَخْرِي
+hood	كُمَّة، غِطاء، قَلَنْسُوَة؛ غِطاءُ (أو سَقْفُ) السيّارة؛ قَلَنْسُوةُ الصِّمام الكاثوديّ
+hood fastener	كُلاّبُ أو مِشْبَك الغِطاء
+hood hinges	مُفَصِّلاتُ الغِطاء
+hood light	ضَوءُ الغِطاء (لإنارةِ ما تحتَه)
+hood mould	إفريزٌ تاجِيّ بارز (فوقَ بابٍ أو شُبّاك)
+hood, engine	غِطاءُ المُحَرِّك
+hood, sliding	غِطاءٌ مُنزَلِق
+hood, valve	قَلَنْسُوَةُ الصِّمام
+hooded anode	أَنُود مُطَوَّق
+hoodie	زاغ
+hoodoo	عَمُودٌ تُرابي
+hoof	حافِر، ظِلْف / حافر
+hook	خُطّاف، مِشْبَكٌ خُطّافي؛ شِص، كُلاّب، صِنّارة؛ عَقيفَة، حَنِيَّة حادَّة؛ شَبَكَ بخُطّاف، حَنَى بشَكلِ خُطّاف؛ اِشتَبك، اِنعطَفَ / خُطّاف / موضع إضافة في الروتين / كُلاَّب، خُطّاف / كلاب، خطّاف
+hook and hinge	مُفَصِّلَة بمِحوَرٍ مَعقوف
+hook bolt	مِسمارٌ خُطافيّ، مِحزاقٌ مَعْقُوف
+hook gauge	مِقياسٌ خُطّافي
+hook joint	وُصْلَةٌ خُطّافيَّة
+hook spanner (or wrench)	مِفتاحُ رَبْطٍ أعقَف
+hook worm	دودة شصية
+hook wrench	مِفتاحُ رَبطٍ أعقَف
+hook, switch	حامِلُ السَّماعة (في آلةِ التلِفون)
+hook, traction	كُلاّبُ الجَرّ
+hook-and-eye fastener	مِشْبَكٌ خُطّافيّ عُرْوِيّ
+hook-and-eye hinge	مُفَصِّلة خُطّافية عُرويَّة
+hook-down	فَكَّكَ، فَكَّ الاتصالَ المؤَقَّت
+hook-up	وَصْلُ أو تَركيبُ (جِهازٍ لاسلكي)؛ وَصْل (عِدَّة مَحَطّات) لإذاعةٍ مُشتَركَة؛ قَناةُ اتِّصالٍ مُؤَقَّتة
+hook-up wire	سِلكٌ ذو خُطّاف (يُرَكَّبُ ويُنْزَعُ بسُرعة)
+Hooke's law	قانون هوك
+hooked	خُطافِيُّ الشَّكْل، أعقَفُ؛ مُجَهَّزٌ بخُطّافٍ أو أكثر
+hooked joint	مَفْصِلٌ حابِك (يجعلُ البابَ سَدُودًا لِلهَواء أو الغُبار)
+Hooke’s joint	وُصْلَةُ «هُوك» العامَّةُ الحَرَكة
+Hooke’s law	قانون «هُوك»
+hooking	انحِرافٌ حادّ، اِنعِطافٌ شَديد
+hooklet	كُلاّبٌ صغير، شِصّ
+hoop	طَوْق، طارَة؛ إطار؛ طَوَّقَ، حَزَّمَ (أو ثَبَّت) بالأَطواق
+hoop iron	طَوقٌ حَديدي (لرَبطِ الصناديقِ أو البَراميل الخَشَبية)؛ حَديدُ أطواق
+hoop iron bond	ترابُط (الجُدران) بأطواقٍ حَديديَّة
+hoop stress (or tension)	إجهادٌ حَلْقيّ
+hoope	هدهد
+hooped	مُطَوَّق
+hooped concrete	خَرَسانةٌ مُسَلَّحةٌ بأَطواقِ الحَديد
+Hoopes process	طَريقة «هُوپس»
+hooping	قُضبانٌ حَلَزُونِيَّةٌ (أو حَلْقيَّة) لِتَسْليح الخَرَسانة؛ تَطْويق، تَخْريم
+hooping cough	شُهاق، السُّعال الدِّيكي
+hoot	زَعَقَ، بَوَّقَ؛ تَبْويق، زَعيق
+hooter	بَوّاق، زَعّاق، زاعوق
+hop	قَفْزة؛ إِرسالٌ قَفْزيّ (ينعَكِسُ على الأيونُوسفير)؛ جُنْجُل، حَشيشةُ الدِّينار
+hop-clover	فصفصة صغيرة
+hop-district; hop field	زريعة الجنجل
+hop-tree	بوقيصا
+hope	جنجل، حشيشة الدينار
+hope bind; hope line	سرغ الجنجل
+Hope’s experiment	تَجربةُ «هُوپ»
+Hopfner process	طريقة «هُوفنر»
+hopocenter	مركز(...) الباطني للزلزال
+hopped file	مِبْرَدٌ مُفَلَّجُ الأسنان
+hopper	قادُوس
+hopper car	عَرَبة قادوسيَّة
+hopper dredger	كَرّاءة قادوسيَّة
+hopper tank	خَزّانٌ قادوسيٌّ
+hopper window	نافِذَة قادوسيَّة (تَمنَعُ تَيّارات السَّحب)
+hoppit	قادُوس
+horary	ساعِيّ، حادِثٌ كُلَّ ساعة / ساعي
+horary equation; time equation	معادلة زمنية
+horehound	فراسيون
+horizon	أُفُق؛ مُستَوى / أفق / أُفُق / أُفق
+horizon camera	آلة تصوير الأفق
+horizon dip	مَيْلُ الأُفُق
+horizon glass	مِرآةُ الأُفُق
+horizon line	خَطُّ الأُفُق / خط الأفق
+horizon, apparent	أُفُقٌ ظاهِر
+horizon, artificial	أُفُقٌ اِصطِناعي؛ مُبَيِّنُ الأُفُق الاصطِناعي
+horizon, celestial	أُفُقٌ سَماوي
+horizon, geological	أُفُقٌ جيُولوجي
+horizon, gyro	أُفُق جيرُوسكوبي
+horizon, refracting	أُفُقُ الانكِسار
+horizontal	أُفُقِي، مُوازٍ للأُفُق؛ أُفُقِيُّ الوَضعِ أو الاتِّجاه؛ خَطٌّ أُفُقي؛ وَضْعٌ أُفُقِي / أفقى / أفقي / أُفُقِي
+horizontal angle	زاوية أفقية
+horizontal antenna	هَوائيٌّ أُفُقي
+Horizontal application	تطبيق أفقى
+horizontal axis	مِحْوَرٌ أُفقي
+horizontal balance	اِتِّزانٌ (أو تَوازُن) أُفُقِي
+horizontal bedding	تطَبُّقٌ أُفُقيّ
+horizontal blanking	إِظلامٌ أُفُقي / إضلام أفقي
+horizontal blanking interval	مجال الإغفال الأفقي
+horizontal boiler	مِرجَلٌ أُفُقيّ، غَلاّية أُفُقيَّة
+horizontal bracing	شِكالاتٌ أُفُقيَّة
+horizontal bridging	تجسير أُفقي
+horizontal centring control	مضْبَطُ المَرْكَزة الأُفُقيَّة
+horizontal circle	قُرْصُ قياسِ الزَّوايا الأُفُقية (في التيودوليت)
+horizontal co-ordinates	احداثيات أفقية
+horizontal component	مُرَكِّبَةٌ أُفقِيَّة
+horizontal diameter	قطر أفقي
+horizontal dispersion	تَشَتُّت أُفُقي
+horizontal displacement	إزاحَة أُفُقيَّة
+Horizontal encoding	ترميز أفقى
+horizontal engine	مُحَرِّكٌ أُفُقيّ
+horizontal equivalent	مكافئٌ أُفقي، مُرتَسَمٌ أُفُقيّ
+horizontal fault	صَدْعٌ أُفُقي
+horizontal flyback	عودة أفقية
+horizontal line	خَطٌّ أُفُقيّ / خط أفقى / خط أفقي
+horizontal line frequency	تَواتُر الخُطوط الأُفُقِيَّة
+horizontal market software	برمجيات السوق العريضة
+horizontal microscope	مجهر أفقي
+horizontal oscillator	مُذَبذبٌ أُفقي
+horizontal parallax	اِختِلافُ المَنْظَرِ الأُفُقي / اختلاف المنظر الأفقي
+horizontal pendulum	بَنْدولٌ أُفقي
+horizontal plane	مُستَوٍ أُفُقيّ / مستو أفقي / مستوٍ أفقي
+horizontal polarization	اِستِقطابٌ أُفُقي
+horizontal projection	مَسقَطٌ (أو إسقاطٌ) أُفُقي / مسقط أفقي
+Horizontal projection histogram method	طريقة المُدَرَّج التكراري للإسقاط الأفقي
+horizontal resolution	اِستِبانةٌ أُفُقيَّة
+horizontal retrace	عودة أفقية / عودة المسح الأفقي
+Horizontal Scaling	توسيع أفقي
+Horizontal scan rate	معدل المسح الأفقي
+horizontal scanning	مَسْحٌ أُفُقيّ
+horizontal scrollbar	شَرِيطُ تَمْرِير أفُقِي
+horizontal scrolling	تحريك [انزلاقي] أفقي
+horizontal section	مَقْطَع أُفُقي، قِطاعٌ أُفقي
+horizontal sheeting	ألواحُ دَعْمٍ أُفُقِيَّة
+horizontal slicing	اِستِثمارٌ بالقَطْع الأُفُقي
+horizontal stabilizer	سَطحٌ مُوازِن أُفُقيّ
+horizontal sweep	الاكتِساحُ الأُفُقيّ
+horizontal synchronization	مزامنة أفقية
+Horizontal tabulation	جدولة أفقية
+horizontal thrust	دَفْعٌ أُفُقي
+horizontal visibility	رُؤْيةٌ أُفُقِيَّة
+horizontal wind shear	قَصٌّ أُفُقِيّ لِلرّياح
+horizontality	أُفُقِيَّة، اِستواءٌ أُفُقي
+Horizontally	أفقياً
+hormone	هُرْمون، حَاثَّة / هرمون
+horn	قَرْن؛ بُوق، نَفير؛ قُرْنَة؛ قُرنة / قرن
+horn angle	زاوِيةٌ قَرْنِيَّة
+horn antenna	هَوائيّ بُوقيّ
+horn arrester	مانِعُ صواعقٍ قُرْنيّ
+horn centre	قُرْص قُرنيٌّ شَفّاف (لِتَركيز الفِرجار)
+horn feed	مُغَذٍّ بُوقيّ، مُلْقِمٌ بُوقيّ (لهوائي الرَّادار)
+horn gap	فُرْجةٌ قُرْنيَّة
+horn loudspeaker	مِجهارٌ بُوقيّ
+horn mercury = calomel	كالُومِيل
+horn mouth	فُوهَةُ البُوق (في الهَوائيّ والمِجهار)
+horn silver = cerargyrite	سِيرارجيرَيْت
+horn speaker	مِجهارٌ بُوقيّ
+horn throat	حَلْقُ (أو مَخْنَقُ) البُوق
+horn-break fuse	مِصْهَر قُرني، قاطِعٌ قُرني
+horn-fly	ذبابة البقر
+horn-shaped antenna	هَوائيٌّ بُوقيُّ الشَّكْل
+hornbeam	نِيريَّة، قرْبينُوس
+hornblende	هُورنْبلِند / هورنبلند
+hornblende andesite	أندزيت حاثري، أندزيت هورنبلندي / أندزيت حاثري، هورنبلندي
+hornblende diorite	ديوريت هورنبلندي / هورنبلندي تيوريت
+hornblende gneiss	غنايس هورنبلندي
+hornblende granite	جرانيت هورنبلندي
+hornblende schist	شست هورنبلندي
+hornblende-granite	غرانيت هُورنبلِنْدي
+hornblende-schist	شِسْتٌ هُورنبلندي
+horne	قَرْن / قرن
+horned angle	زاويَة قُرنِيَّة
+Horner, William George	ويلْيام جورْج هورْنَر
+Horner’s method	طَريقةُ هورْنَر
+Horner’s rule	قاعِدةُ هورْنَر
+hornet	دبور
+hornfels	هورنفِلس
+hornfels texture	نسيج متقرِّن، نسيج قرني / نسيج متقرّن
+hornfelses	صخور مُتَقَرِّنَة، صخور قرنية / صخور متقرنة
+hornschist	شِسْتٌ هورنبلِنْدي
+hornstone	صَوّان
+hornwort	فصيلة نخشوش الحوت
+horny	قَرنِيّ؛ صُلْب / قرني
+horny endosperm	اندوسبرم قرني
+horny starch	نشا قرني
+horologium	كوكبة الساعة
+Horologium (The Clock)	السّاعة
+horology	عِلمُ قياس الوَقت؛ فَنُّ صُنعِ الساعات
+horrify	رَوَّعَ، أرهَبَ
+horse	حِصان؛ حِصانُ تَحميل، مِنْصَبٌ ذو أَرْجُل؛ جَنْدَل، كُتلةٌ صَخْريَّة (في شِعْبٍ أو سامَةٍ مَعدِنيَّة) / فرس
+horse fetter	قَيْدُ الفَرَس
+horse latitudes	عُروضُ الخَيل
+horse power	قدرة حصانية
+horse-bean(vicia faba)	فول بلدي
+horse-bot	يرقانة نبر الفرس
+horse-chestnut	قسطلة الهند
+horse-dung	روث
+horse-fly	نعرة
+horse-heal	قسط شامي، عرق جناح
+horse-mint	برغموت بري
+horse-parsley	كرفس بري
+horse-power	قُدرةٌ حِصانيَّة
+horse-power, brake	القُدرةُ الحِصانِيَّة الكابِحة
+horse-power, effective	القُدرَة الحِصانيَّة الفَعَّالة
+horse-power, indicated	القُدرَة الحِصانيَّة المُبيَّنة
+horse-power, metric	قُدرةٌ حِصانيةٌ مِتْرية
+horse-power, nominal	القُدرةُ الحِصانيَّة الاسميَّة
+horse-power, rated	القُدرة الحِصانية المُقَدَّرة
+horse-power-hour	قُدرةٌ حِصانيَّة ساعِيَّة
+horse-radish	فجل الخيل
+horse-shoe	حدوة حصان / حدوة حصان (شكل)
+horse-shoe dunes	كثبان هلالية
+horse-tail	نبات ذيل الفرس
+horse-weed	أريجارون
+horsehsoe arch	قنطرة نِضويَّة
+horsehsoe curve	مُنْحَنٍ نِضْوِي (يقابلُ قوسُهُ زاويةً تَزيدُ على 180°)
+horseshoe	حِذاءُ الفَرس، حَدْوَة، نِضْوَة
+horseshoe dune	كَثِيبٌ نِضْوِي
+horseshoe filament	فَتيلةٌ نِضْوِيَّة
+horseshoe gauge	مُحَدِّدُ قياسٍ نِضْويّ (حَدْويُّ الشَّكْل)
+horseshoe magnet	مغْنَطيسٌ نِضْويّ، مِغنيط حَدويّ
+horst	نَتقٌ / نشر، نتق / نشر (هورست)
+hortensia	هورتنسيا
+horticulture	بَسْتَنَة / بستنة
+horticulturist	بستاني
+hose	نَربيج، خُرطوم (مياه)؛ جَوْرَبٌ طويل
+hose clamp	قامِطةُ الخُرطوم
+hose connection	وُصْلَة خُرطوميَّة
+hose coupling	قارِنة خُرطوميَّة
+hose joint	وُصْلَة خُرطوميَّة
+hose nozzle	فُوَّهَةُ الخُرطوم
+hose reel	دَارةُ لَفِّ الخُرطوم
+hose, canvas	خُرطوم قِنَّبي
+hose, fire	خُرطومُ (إطفاء) الحَريق
+hose, rubber	خُرطوم مَطَّاطيّ
+hose, suction	خُرطومُ مَصّ
+hose-proof	صامِدٌ لِلرَّشِّ بالخَراطيم
+hospice	مَصَحُّ العِناية الانتهائية
+hospital	مُستَشْفى
+hospital bus-bars	مُوَصلاتٌ عُموميَّة لِلطَّوارئ (في مَحطَّة توليد القُدرة)
+hospital ship	سفينة مستشفى
+hospital switch	مِقلادُ الطَّوارئ
+hospital window = hopper window	نافذة قادوسيَّة
+hospitalization	اِستِشْفاء، دُخولُ المُستشفَى لِلمُعالَجة
+host	مُضيف؛ جَيْش، حَشْدٌ كَبير؛ عائِل، حاضِن (لِلطُّفَيليّات) / مُضِيف / مضيف / عائل
+host adapter	موائمة [الربط بـ] المضيف
+Host adaptor	مهيِّئ مضيف
+Host bus adapter	مكيًف ناقل مضيف
+host computer	الحاسُوبُ المُضِيف / حَاسُوبٌ مُضِيف / حاسوب مضيف
+host crystal	البِلَّورة الرئيسيَّة
+host language	1 لغة الآلة ؛ 2 لغة المضيف
+host name	اسم المضيف / أسم المضيف
+host not responding	المضيف لا يستجيب
+Host number	رقم المضيف
+host rock	صَخْر مُضيف
+host timed out	انقضاء مهلة [استجابة] المضيف
+host to cuscuta	عائل للحامول
+host unreachable	لا يمكن الوصول إلى المضيف
+Host-host layer	طبقة مضيف-مضيف
+Host-resident	مقيم على المضيف
+hostage	رَهينَة، أَسيرٌ رَهين
+hostess	مُضيفَة
+hostess, air	مُضيفةٌ جَوِّيَّة
+hostile	مُعادٍ، عُدواني
+hostility	عَداوة؛ عَمَل عِدائي، مُعاداة
+Hostname	اسم مضيف
+hot	حارّ، ساخِن؛ حادّ، عَنيف؛ مُكَهْرَب؛ عالي الإشعاعية؛ حامِيًا؛ بشِدَّة، بِعُنف / ساخن
+hot atom	ذَرَّة مُشِعَّة
+hot carrier	حامِلٌ ساخِن
+hot cathode	مَهْبِطٌ ساخِن، كاثودٌ حارّ
+hot chassis	هَيْكَلٌ مُكَهْرَب
+hot crack	شَقٌّ ساخِن
+Hot Data Storage	تخزين البيانات النشطة
+hot dip	غَمْسٌ ساخِن
+hot docking	إحضان على الساخن
+hot drawing	السَّحبُ على السّاخِن
+hot electrons	إِلِكتروناتٌ حارَّة
+hot forging	تَشكيلٌ على السّاخِن
+hot galvanizing	غَلْفَنة على الساخِن
+hot insertion	إدخال على الساخن
+hot junction	المَوْصِلُ الساخِن
+hot key	مفتاح ساخن / اتفاق على المفتاح
+hot laboratory	مُخْتَبَرُ تَجارِبَ إشعاعيَّة
+hot line	خَطٌّ ساخِن / خَطٌّ مُبَاشِرٌ
+hot link	وُصلة ساخنة
+hot miller	فَرّازَة على السّاخِن
+hot plate	لَوحُ تَسْخين (كهربائي)
+hot plugging	تركيب على الساخن
+hot press	شَكَّل بالكَبْس على السّاخن
+hot pressing	كَبْسٌ ساخِن
+hot riveting	بَرشَمةٌ على السّاخِن / برشمة على الساخن
+hot rolling	طَلْمٌ ساخِن
+hot sate = hot set	إزميلُ قَطْعٍ على الساخِن، أجَنَةُ السَّواخِن
+hot saw	مِنْشارُ السَّواخِن
+hot set	أَجَنَةُ قَطْعٍ على الساخِن
+hot side	جانبُ الڤلطية الأعلى
+hot spot	بُقْعةٌ ساخِنة / بقعة ساخنة / نقطة فعّالة
+hot spraying	رَشٌّ على السّاخِن (دونَ الحاجةِ إلى تَخْفيف الطِّلاء)
+hot spring	حَمَّة، يَنْبوعُ ماءٍ حارّ
+Hot swapping	توصيل فوري
+hot tap	أزالَ قُشورَ المِرجَل على السّاخِن
+hot top	رأسٌ ساخن
+hot wire anemometer	مِقياسُ رياح بِسِلْكِ ساخِن
+hot wire resistance seismometer	مقياس الزلزال الحراري
+hot-air dryer	مُجَفِّفٌ بالهَواء الساخِن
+hot-air engine	مُحَرِّكٌ بالهَواء الساخِن
+hot-air heating	التَّدفِئَة بالهَواءِ الساخِن (عبرَ فُتحاتٍ في الجُدران أو الأرضيَّة)
+hot-air intake	مأخَذُ (مَدخَل) الهَواءِ السّاخِن
+hot-air turbine	تُربينةٌ تُدارُ بالهَواءِ الساخِن، تُربينُ الهَواءِ السّاخِن
+hot-bed	مَدفَأةُ البادِرات؛ فَرشةٌ ساخِنة
+hot-bend test	اِختبارُ الحِنايةِ على السّاخِن
+hot-blast furnace	فُرنُ تَسخين الهَبوب
+hot-blast stove	مَوقِدُ تَسخين الهَبوب (لِلفُرن العالي)
+hot-bulb ignition	إشعالٌ بالبُصَيلَةِ السّاخِنَة
+hot-cathode discharge lamp	مِصباحُ تَفريغ ذو مهبِط ساخِن
+hot-cathode rectifier	مُقَوِّم ذو مَهبِط ساخِن
+hot-die steel	فُولاذُ القَولَبة الساخِنة
+hot-dip coating	طِلاءٌ بالغَمْس السّاخِن
+hot-dipping process	طَريقةُ الغَمسِ السَّاخِن
+hot-drawn	مَسحوبٌ على السّاخِن (في وَصْف الأَسلاكِ أو القُضبان أو الأنابيب)
+hot-filament gas detector	كاشِفُ غازٍ حارُّ الفَتيلة
+hot-flow drying	تَجفيفٌ بالهَواء الساخِن
+hot-galvanized	مُغَلْڤن على السّاخِن
+hot-laid	مَوضوعٌ (أو مَمدودٌ) على السّاخِن
+hot-rolled steel	فُولاذٌ مُدَلْفَنٌ (مَسحوبٌ صَفائحَ) على السّاخِن
+hot-short = red-short	قَصِفٌ على الساخِن
+hot-short iron	حديدٌ قَصِفٌ على الساخِن (لاِرتفِاع مُحتَواه الكِبريتي)
+hot-spring	حَمَّة / حصّة
+hot-tinned	مُصَفّحٌ (بالقصدير) على السّاخِن
+hot-water boiler	مِرجَلُ الماءِ الساخِن
+hot-water heating system	نِظامُ (أو مَنظومةُ) تَدفئَة بالماءِ السّاخِن
+hot-water jacket	دِثارٌ مِن الماء الساخِن
+hot-water pipe	ماسُورةُ الماءِ الساخِن
+hot-wire ammeter	أمِّيتر ذو سِلْكٍ ساخِن
+hot-wire anemometer	مِرياحٌ ذو سِلْكٍ ساخِن
+hot-wire arc lamp	مِصباحٌ قَوسِيّ ذو سِلْكٍ ساخِن
+hot-wire instrument	آلةُ قياسٍ ذاتُ سِلكٍ ساخِن
+hot-wire voltmeter	ڤلْطمِتر ذو سِلكٍ ساخِن
+hot-working	تَشكيل (المعادن) على السّاخِن، تَشغيلٌ على الساخِن
+Hotfixes	التحديثات السريعة
+hothouse	دَفيئَة
+HotJava	[متصفِّح] HotJava
+Hotlink	رابط ساخن
+hotlist	لائحة ساخنة / قائمة شائعة
+hotwell	مَجْمَعُ المُتَكثِّف السّاخن (من حيثُ يُعاد الى المِرْجَل بالضَّخّ)
+Houdriforming	التهذيب بطريقة «هودري»
+hound's tongue	لسان الكلب
+hour	ساعة؛ 15° (درَجَة) من قَوْس الطُّول / ساعة
+hour angle	زاويةُ التَّوقيت / زاوية زمنية / زاوية ساعية
+hour circle	دائرةٌ ساعِيَّة / دائرة الزوال / دائرة ساعية / دائرة زمنية
+hour co-ordinates	إحداثيات زمنية
+hour wheel	مُسَنَّنةُ (عَقْرب) الساعات
+hour-glass	بِنكَامٌ ساعيّ
+hour-glass piston	كَبّاسٌ بِنكاميّ
+hour-hand	عَقْرَبُ الساعات
+hourly	ساعِيّ، مُتَكَرِّرٌ كُلَّ ساعة؛ كُلَّ ساعة، مُسَاوعة، ساعةً فَساعة
+hourly average	المعدَّلُ السّاعي
+hourly flow	الدَّفقُ السّاعي
+hourly peak	القيمةُ الذُّروية السّاعيَّة
+hours, office	ساعاتُ الدَّوام، ساعاتُ العمَل في المكتب
+house	بَيت، مَنزِل؛ مَقَرّ، مَبْيَت؛ بَيَّتَ، آوَى؛ اِحتَوى، ضَمَّ
+house brand	دَمْغَةُ المَصْنَع
+house coal	فَحمٌ للاستِعمال المَنْزِليّ
+house flag	علم الشركة المجهزة
+house fly	ذبابة منزلية
+house martin; martinet,martlet	سمامة
+house sewer	مَجْرورٌ مَنزِليّ
+house-cricket	جدجد منزلي
+house-sparrow	عصفور دوري
+houseboat	ذَهَبِيَّة
+housed joint	وُصْلَة مُبيَّتَة
+housefly	ذُبابة، ذُبابَةُ المنازل
+household	أَهلُ البَيت، أُسْرَة؛ شُؤون مَنزِليَّة؛ بَيتيّ، مَنْزِليّ؛ مَألوف / الأسرة المعيشية
+household appliances	الأجهِزَة المُستخدَمةُ في المَنزِل
+Household Energy Consumption	استهلاك الطاقة المنزلي
+Household Expenditure	إنفاق الأسرة المعيشية
+Household Final Consumption Expenditure	الإنفاق الاستهلاكي النهائي العائلي
+household fuel	وَقودٌ لِلاستِعمال المَنزِليّ
+Household Income	دخل الأسرة المعيشية
+Household Sector	قطاع الأسرة المعيشية
+Householder’s method	طَريقةُ هاوسْهولْدَر
+Households With Cable Television	المنازل التي يصلها التلفزيون الكبلي
+housekeeping	تدبير (شؤون) المنزل؛ تَهْيِئَة / إدارة بيئة العمل / تدابير تحضيرية
+houseleek	مخلدة، حي العالم
+Houses Connected to Source of Electric Energy (% of Total)	نسبة المساكن المتـصلة بالـطاقة الكهربائية (٪)
+Housewife	متفرغة لأعمال المنزل
+housing	تَبييت؛ إِسكان؛ حِواء، مَبْيَت؛ مَجموعةُ بُيوتٍ أَو شُقَق
+housing box	صُندوقُ التَّبييت
+Housing Characteristics	خصائص المساكن
+Housing Loans Granted to Citizens as Government Housing Subsidies	القروض السكنية الممنوحة للمواطنين كدعم سكني حكومي
+housing, flexible	حِواءٌ مَرون
+housing, pump	مَبيتُ المِضَخَّة، حِواءُ المِضَخَّة
+housing; mast housing	جذر الصاري
+hove-to	إيقاف السفينة في عين الريح
+hovelling	مَدُّ المِدْخَنة
+hover	حَوَّمَ، حامَ، دارَ (حَول) / حوم/حومان
+hover ground	أرضٌ (رخوةٌ) مُنزَلِقة / أرض غير متماسكة
+hover-craft	حَوَّامَة
+hover-fly	ذبابة حائمة
+hovercraft	زلاّقة
+hovercraft with water propulsion	زلاّقة بدفع مائي
+hoverport	ميناءُ حَوّامات
+hovership	سَفيْنة حَوّامة
+howitzer	مِدفَع «هاوتزر»
+howl	زَعيقٌ تَشْويشيّ
+howler	زاعِق؛ زَمّارةُ تَنْبيه، مُنَبِّه
+howling buoy; whistle buoy	عوامة إرشاد صوتية
+hoya	هوية، زهرة الشمع
+HP/UX	[نظام] HP/UX
+HPC	حاسوب شخصي محمول [باليد]
+HPFS	نظام ملفات عالي الأداء
+HPGL	لغة بيانية من Hewlett-Packard
+HPIB	مسرى التواجه من Hewlett-Packard
+HPPCL	لغة التحكم في طابعات Hewlett-Packard
+HPPI	واجهة متوازية عالية الأداء
+HREF	مدلال نص ترابطي
+HSB	حاسّية اللون-تشبّع-سطوع
+HSV	حاسّية اللون-تشبّع-قيمة
+HTML	لغة تأشير نص ترابطي
+HTML (Hypertext Markup Language)	لغة الترميز بنَصٍّ زائد (متشعِّب)
+HTML document	وثيقة HTML
+HTML editor	محرِّر HTML
+HTML page	صفحة HTML
+HTML tag	أمارة HTML
+HTML validation service	خدمة إقرار [صلاحية] HTML
+HTML+	[توصيف] +HTML
+HTTP	ميفاق نقل النصوص الترابطية
+HTTP (Hypertext Transfer Protocol)	بروتوكول نقل النصّ الزائد
+HTTP Next Generation	الجيل التالي من HTTP
+HTTP server	1 مخدِّم HTTP ، مخدِّم HTTP
+HTTP status codes	أرْمِزَة حالة HTTP
+HTTP-NG	الجيل التالي من HTTP
+HTTPd	ناطر HTTP
+HTTPS	[برمجيات] HTTPS
+hub	صُرَّة، قَبُّ (العَجَلة)، بَطِّيخةُ (الدُّولاب)؛ مِحْوَرٌ قَبِّي؛ صُرَّةُ خَتْم، قالَبُ خَتْم؛ مَنْشَب؛ صَرَّرَ / قَبٌّ / موزع
+hub brake	مِكْبَحٌ قَبِّيّ
+hub cap	قَلَنْسُوةُ القَبّ
+hub springs	زُنبركات مُخَمِّدَة للاِهتزاز
+hub, airscrew	صُرَّةُ (أو بَطِّيخةُ) المِروَحة
+hub, brake	طَبْلَةُ المِكبح
+hub, wheel	صُرَّةُ (أو بَطّيخة) الدولاب
+hubble	هَبِل
+hubbub	ضَجيج، لَغَط
+huckaback	قُماشُ المَناشِف
+hue	نُقْبَة، تَدَرُّج اللَّون؛ لونيَّة / حاسّيةُ اللّوْن / تدرج اللون / تدرُّج اللون
+hue control	مِضْبَطُ النُّقْبة
+hue sensibility	حَسَاسِيَةُ النُّقْبة
+huff	هَبَّةُ بُخار (أو هَواء)؛ نَفَخَ، هَبَّ
+Huffman coding	ترميز Huffman
+huge	ضَخْم، جَسيم، عَظيمٌ جِدًّا
+Hughes plane	مُسْتَوي هْيوز
+hulk	مَرْكَبٌ كَبير خَشِنُ الصُّنْع / هُلك
+hull	بَدَن (السَّفينة أو الطائِرة)؛ هَيْكَل؛ سِنْفَة، غِلافُ البِزرة أو الثَّمَرة؛ أصابَ بَدَنَ السَّفينةِ (أو الطائِرة) بقَذِيفَة؛ قَشَرَ / هيكل
+hull borne	محمول على السفينة
+hull conductor	موصل هيكل السفينة
+hull current	تيار هيكل السفينة
+hull fitting	تجهيزات هيكل السفينة
+hull insurance	تأمين هيكل السفينة
+hull piping	أنابيب هيكل السفينة
+hull policy	وثيقة تأمين هيكل السفينة
+hull-down	غَاطِسُ البَدَن، بَعيد (بحيثُ يبدو هَيكلُه فقَط في الأفُق)
+hum	طَنَّ، دَنَّ، دَوَّى؛ طَنين، دَوِيّ، دَنين
+hum bucking	كَبْتُ الطَّنين
+hum modulation	تَضمينٌ بالطَّنين
+hum, grid	هَمْهَمةُ الشَّبَكة
+hum-bucking coil	مِلَفُّ كَبْت الطَّنين
+human	إِنسانيّ، بَشَريّ؛ إِنسان، كائِنٌ بَشَريّ
+Human Action Recognition	تعرُّف على الأفعال البشرية
+Human Activity Recognition (HAR)	تعرُّف على النشاط البشري
+Human Augmentation	تعزيز البشر
+human bioclimatology	علم المناخ الحيوي البشري
+human chromosome bands	أشرطة صبغيات الإنسان
+human engineering	هندسة متطلبات الإنسان
+Human intervention	تدخل بشري
+Human language technology	تكنولوجيا اللغة البشرية
+human mitotic chromosomes	صبغيات الإنسان الانقسامية
+human relations	العَلاقاتُ الإنسانيَّة
+Human Resources	الموارد البشرية
+Human Takeover	تدخّل بشري
+Human-AI Collaboration	تعاون الإنسان والذكاء الاصطناعي
+Human-Centric Artificial Intelligence	ذكاء اصطناعي مرتكز على الإنسان
+Human-Computer Interaction (HCI)	تفاعل بين الإنسان والحاسب
+Human-in-the-Loop (HITL)	إنسان في الحلقة
+human-machine interface	واجهة تخاطب الإنسان مع الآلة
+Human-Machine Teaming	تكامل بين الإنسان والآلة
+Human-Robot Interaction (HRI)	تفاعل بين الإنسان والروبوت
+Humanist technology	تقنية انسانية الهدف
+humanitarian	اِنسانيّ
+Humanoid Robot	روبوت بشري
+humates	دُباليّات
+humble-bee	طنانة
+humectant	ماصُّ الرُّطوبة؛ مادَّةٌ استِرطابيَّة
+humeral	عَضُديّ
+humerus	عَظْمُ العَضُد / عظم العضد
+humic	دُباليّ / دباليّ
+humic acid	حامِضٌ دُباليّ
+humic coal	فحم دُباليّ / فحم دباليّ
+humic compounds	مُرَكَّبات دُباليَّة
+humid	رَطْب، وَمِد
+humid climate	مُناخٌ رَطْب
+humid tropics	مناطق مدارية رطبة
+humid zone	مِنْطَقَةٌ رَطْبة
+humidifier	مُرَطِّب
+humidify	رَطَّبَ، نَدَّى
+humidistat = hygrostat	مُنَظِّمُ الرُّطوبة
+humidity	رُطُوبَة، وَمَد / رطوبة
+humidity mixing ratio	نِسبةُ مُخالَطةِ الرُّطوبة
+humidity of the air	رُطُوبة الهَواء
+humidity sensor	مِحَسُّ الرُّطوبة
+humidity, absolute	الرُّطوبة المُطلَقة
+humidity, relative	الرُّطوبَة النِّسبيَّة
+humidity, specific	الرُّطُوبَةُ النَّوعيَّة
+humification	تَدبيل، تَدَبُّل / تدبل
+humilis ((hum))	مُبَسّط
+humite	معدن الهوميت
+hummer	دَنّان، طَنّان
+hummer screen	مُنْخُل دَنّان
+hummock	رَبْوَة، رابِيَة، أكَمَة؛ مُرتَفَع جَليدي / أكمة، رابية / ربوة، رابية
+humo(u)r	خِلْط، رُطُوبة
+Humor	ظَرَافَة
+humour, aqueous	الرُّطوبةُ المائيَّة (في العَين)، خِلْطٌ مائِيّ
+humour, vitreous	الرُّطوبةُ الزُّجاجيَّة (في العَين)
+hump	حَدَبَة، سَنام؛ أكَمَة، رابِيَة؛ حَدَّبَ
+humus	دُبَال / دُبال / دبال
+hundred	مئة / مِئة
+hundreds place	مرتبة المئات
+hundredth	جزء من مئة
+hundredweight	هَنْدرِدويت
+hung	تعليق [التنفيذ]
+hunger-grass	ثعلبية
+hunger-weed	حوذان العقل
+hungry	جائع؛ مُتَعَطِّشٌ (إلى)؛ صادٍ
+hunk	كُتلة ضَخمة
+hunt	اِصطادَ؛ طارَدَ، تَعَقَّبَ، بَحَثَ (عن)؛ شَطَّ؛ تَرَنَّحَ؛ صَيْد؛ بَحثٌ دَقيق، تَعَقُّب
+hunting	صَيْد، اقتِناص؛ شَطَط؛ ترَنُّح؛ ترنُّح (أو انعراج) اضطراري (في مَسار الطائرة) / تَصَيُّدٌ
+hunting tooth (or cog)	سِنٌّ مُباعِدَة
+hunting-dog	كلب الصيد
+hurdle	عَقَبَة، حَاجِز
+hurl	رَشَقَ، قَذَفَ بِقُوَّة؛ رَشْق، قَذْف
+hurlinge	مُفَصِّلةٌ لِسانيَّة مُتَداخِلةُ الصَّفْقَين
+hurricane	إعْصار شَديد؛ إعصارٌ مَداريّ / إعصار / اعصار / نُوَجة، إعصار مداري
+hurricane cloud	سَحَابةُ إعصارية مدارية
+hurricane deck	سَطْحُ الإعصار
+hurricane drier	مُجفِّف إعصاري
+hurricane eye	عَيْنُ الإعصار
+hurricane lamp (or lantern)	مِصْباحٌ (أو فانوسٌ) إعصاريّ
+hurricane microseisms	إعصار مداري زلزالي
+hurricane tracking	كَشْف النّوجات
+hurricane warning	إشعارٌ بِنَوْجة، إنذار بإعصار مداري / إنذار بإعصار
+hurry	أَسرَعَ، اِستَعجَلَ؛ سُرعَة، عَجَلَة
+hurter	مِصْدَمٌ قُرنِيّ (يَقي زاويةَ المبنَى من العَرَباتِ المارَّة)
+hurtleberry	عنب الدب، سنبل بري
+Hurwitz equation	مُعادَلةُ هورْڤِتْز
+Hurwitz polynomial	حُدودِيَّةُ هورْڤِتْز
+Hurwitz’s criterion	مِعْيارُ هورْڤِتْز
+Hurwitz’s theorem	مُبَرْهَنةُ هورْڤِتْز
+husbandry	زِرَاعة؛ تَربيةُ الحَيواناتِ الدّاجِنة
+hush(ing)	غَسْلُ التُّراب السَّطحيّ
+husk	عُصافة؛ غِلالَة
+husky	كلب الزلاقات
+hutch	عَرَبَةٌ صَغيرة؛ زَنْبيلُ (أو قَفَصُ) فَحْم؛ صُندوقُ غَسلِ الخامات
+hutch-rabbit	قنية، أرنب هلية
+Huygens, Christian	كْريسْتْيان هيغِنْز
+Huygens’ approximation	تَقْريبُ هيغِنْز
+Huygens’ formula	صيغةُ هيغِنْز
+Huyghens’ eyepiece	عَينيَّةُ «هيڠِنز»
+Huyghens’ principle	مَبْدَأُ «هيڠِنز»
+hyacinth	ياقوتٌ أكْهَب، حَجَرٌ يَمانيّ بُرتقاليُّ اللون / ياقوتة (زركون) / ياسنت
+Hyades	القِلاص والقلائص
+hyaline	زُجاجيّ، شَفّاف / شفَّاف / شقاف / شفاف
+hyaline cartilage	غضروف شفاف
+hyaline quartz	مَرْوٌ شَفّاف / مَرْوٌ شفَّاف / مرو شقاف
+hyalite	هَياليت
+hyaloid	زجاجي، شفَّاف / زجاجي شقاف
+hyaloid canal	قناة زجاجية
+hybrid	هَجِين، نَغْل، مُوَلَّد؛ خَليطٌ هِدروكَربوني بِترولي؛ هَجيني، مُخْتَلِطُ الأصْل / هَجِينٌ / هجين
+hybrid (false...)	هجين كاذب
+hybrid (numerical...)	هجين عدديّ
+hybrid (permanent...)	هجين دائم
+Hybrid approach	مقاربة هجينة
+hybrid arrested translation	ترجمة موقفة بالتهجين
+hybrid breakdown	انهيار هجينيّ
+hybrid circuit	دارةٌ مُختَلِطة / دارة هجينة
+hybrid coil	مِلَفٌّ هَجينيّ
+hybrid complexes	مركبات الهجن
+hybrid computer	حاسُوبٌ هَجين / حاسوبٌ هجين / حَاسُوبٌ هَجِين
+hybrid coupling	اقترانٌ هجين
+hybrid DNA model	طراز دنا هجين
+hybrid DNA molecule	جزيء دنا هجين
+hybrid duplex molecule	جزيء ثنائيّ هجين
+hybrid electromagnetic wave	مَوجَة كَهْرمِغنَطيسيَّة هَجينيَّة
+hybrid index	دليل الهجين
+hybrid inviability	لا عيوشية الهجين، لا حيوية الهجين
+hybrid junction	مُوْصِلٌ هَجينيّ؛ وُصْلَة مختلِطة
+Hybrid method	طريقة هجينة
+hybrid microcircuit	دارةٌ صِغْرِيةٌ هجينة
+Hybrid multiprocessing	تعدد الإجراء الهجين،تعدد المعالجة الهجين
+hybrid network	شبكة هجينة
+hybrid nucleic acid	حمض نوويّ هجين
+hybrid optimum	قيمة مثلى للهجين
+hybrid resistance	مقاومة هجينية
+hybrid ring	حَلْقَةٌ هجينة
+hybrid rocket	صاروخٌ هَجين
+hybrid rocks	صُخورٌ هَجينة (مُختَلِطةُ الأَصْل)
+hybrid salmonids	سلمونيات مهجّنة
+Hybrid Search	البحث الهجين
+hybrid segregation	انعزال الهجين
+hybrid set	مُحَوِّلاتٌ مُختلِطة
+hybrid sterility	عُقْم هجينيّ
+hybrid swarm	تجمعات الهجين
+Hybrid system	نظام هجين
+Hybrid testing	إختبار مهجن
+hybrid vigor	قُوَّةُ الهَجين، تفَوُّق الهَجين
+hybrid vigor; heterosis	عنفوان الهجين، قوة الهجين
+hybrid zone	منطقة الهجين
+hybride (structural...)	هجين بنيويّ
+hybridity	حالة هجينية، حالة خليطة
+hybridization	تَهْجين، تَنْغيل / تهجين
+hybridize	هَجَّنَ، أنتَجَ (أحياءً جَديدة) بالتَّهْجين
+hydathode	مَنْتَح، ثُغيْرةُ نَتْح
+hydatogenesis	تبَلْورٌ مائيّ
+hydr- (or hydro-)	سابِقة بِمَعنى: مائيّ
+hydra	عُدارِيَّة، هَيْدرا / كوكبة الشعاع / هيدرا
+Hydra (The Sea Serpent)	الشُّجاع، الثُّعبان
+hydracid	حامِضٌ هِدْروجيني (عَديمُ الأُكْسِجين)
+hydrangea	هدرنجية، هورتنسيا
+hydrangeacea	هدرنجية
+hydrant	مَأْخَذُ ماء، صُنْبورٌ رَئيسي؛ مِحْبَسُ مَطافِئ
+hydrant, fire	مِحْبَسُ مَطافِئ
+hydrargyrum = mercury	زِئْبَق
+hydrarthrosis	اِستِسقاءُ المَفْصِل
+hydrate	هِدْرات، ماءات؛ مَيَّأَ، مَيَّهَ، أَماهَ، تمَيَّأَ / هيدارشي
+hydrated	مُمَيَّأ، مُمَيَّه، مُهَدْرَت / هِيدْراتي، مُميَّه
+hydrated electron	إلِكترون مُمَيَّه
+hydrated ion	أَيون مُمَيَّأ
+hydrated lime	جِيرٌ مُطْفَأ
+hydrated oxide	هِدْروكسيد، أُكسِيد مُمَيَّأ
+hydrated silicates of aluminium	سليكات الألومنيوم المائية، سليكات الألومنيوم المميهة
+hydrathode	ثغر مائي
+hydration	إماهة، تَميُّؤ؛ تَمَوُّه، هَدْرَتَة / إماهة، هدرتة / أماهة، هدرتة / اماهة
+hydraulic	هَيدرولي، هِدْرولي، هيدرولِيكي؛ مائِي؛ سائِلي، مائعي
+hydraulic accumulator	مُجَمِّع هَيدرولي
+hydraulic air compressor	ضاغِطُ هَواءٍ مائيّ
+hydraulic amplifier	مُضَخِّم هَيدروليّ، مُضَخِّم مائِعيّ
+hydraulic belt	سَيْرٌ سائِليّ
+hydraulic blasting	نَسْفٌ سائليّ
+hydraulic brake	مِكْبَحٌ هَيدروليّ، مِكْبَح سائِليّ
+hydraulic buffer	مُخَمِّد هَيدرولي
+hydraulic cartridge	خَرطوشةٌ سائليَّة
+hydraulic cement	إِسمَنْت مائيّ، إِسمَنْتٌ هَيدروليّ (يتصَلَّبُ تحتَ الماء)
+hydraulic circuit	دارةٌ سائليَّة
+hydraulic classifier	مُصَنِّفٌ سائِليّ
+hydraulic clutch	قابِضٌ سائِليّ (هَيدروليّ)
+hydraulic computer	حاسُوبٌ سائِليّ
+hydraulic control	تحكُّمٌ سائليّ، إِدارة (تحَكُّم) هَيدروليَّة
+hydraulic conveyor	ناقِلة سائليَّة
+hydraulic coupling	تَقارُن هَيدروليّ
+hydraulic crane	مِرفاعٌ هَيْدرولي
+hydraulic cylinder	أُسطُوانةٌ هَيدروليَّة
+hydraulic dredger = suction dredger	كَرّاءَةٌ (هَيدروليَّة) ماصَّة
+hydraulic drilling	حَفْرٌ سائِليّ، حَفْرٌ هَيدروليّ
+hydraulic drive = fluid drive	إدارةٌ هَيدروليَّة، إدارةٌ سائليَّة
+hydraulic efficiency	الكِفايَةُ الهَيدروليَّة
+hydraulic ejector	لافِظَة هَيدروليَّة
+hydraulic elevator	رافِعٌ هَيدرولي
+hydraulic engineering	الهندسَةُ الهيدروليَّة (سُبُلُ وَوسائلُ تَسْخيرِ الطّاقة المائيَّة)
+hydraulic feed	تَغْذِيَة هَيدروليَّة، إلقامٌ هَيدروليّ
+hydraulic fill (dam)	سَدٌّ هَيدرولي (من الترَسُّبات المَحْمُولَة بالماء المُتدَفِّق)
+hydraulic fit	تَوافُقٌ هَيدروليّ
+hydraulic fluid	مائِعٌ هَيدروليّ
+hydraulic forging press	مِكْبَسُ تَشكيلٍ هَيدروليّ
+hydraulic fracturing	تكسيرٌ هيدرولي
+hydraulic friction	اِحتِكاكٌ هَيدروليّ
+hydraulic fuse	صِمامٌ سائِليّ أو هَيدروليّ
+hydraulic gauge	مُحَدِّدُ قِياس هَيدرولي
+hydraulic glue	غِراءٌ هَيدرولي
+hydraulic governor	حاكِمٌ هَيدرولي
+hydraulic gradient	مَمالٌ هَيدرولي، مَدروجُ ضَغْط المائِع / ميل (ال...) الهيدروليكي، ميل الضغط المائي / ميل (...) الهيدروليكي، ميل الضغط المائي
+hydraulic hammer	مِطرَقة هَيدروليَّة
+hydraulic head	عُلُوٌّ هَيدروليّ؛ ضَغْطٌ أُرتُوازيّ
+hydraulic injection	حَقْنٌ هَيدرولي
+hydraulic intensifier	مُضَخِّمٌ هَيدروليّ
+hydraulic jack	مِرفاعٌ هَيدرولي، رافِعة سائِليَّة، رافِعٌ سائِلي
+hydraulic jib crane	مرفاعٌ هيدروليّ ذراعيّ
+hydraulic lift	رافِعة سائِليَّة، رافِعٌ هَيْدروليّ
+hydraulic lime	جِيرٌ هَيدروليّ (يَصْلُدُ تحتَ الماء)
+hydraulic loss	فَقْدٌ هَيدروليّ
+hydraulic mean depth	مُتوَسِّطُ العُمْقِ الهَيدرولي، نِصفُ القُطر الهَيدرولي
+hydraulic medium	وَسَطٌ (مائعٌ) هَيدرولي
+hydraulic mining = hydraulicking	تَعْدينٌ هَيدرولي
+hydraulic mixer	خَلاّطة هَيدروليَّة
+hydraulic mortar	مِلاطٌ هَيدرولي (يَتَصَلَّبُ تحتَ الماء)
+hydraulic motor	مُحَرِّكٌ هَيدرولي (متعدِّدُ الأُسطُوانات)
+hydraulic oil	زَيتٌ هَيدروليّ
+hydraulic packing	حَشْوٌ هَيدرولي
+hydraulic pipe cutter	قاطِعُ أنابيبٍ هَيدروليّ
+hydraulic piston	كَبّاسٌ هَيدرولي
+hydraulic power	قُدرَة هَيدروليَّة / قوة(ال...) المائية / قوة(...) المائية
+hydraulic press	مِكْبَسٌ هَيدروليّ، مِكْبَسٌ سائِليّ
+hydraulic pressure	ضَغْطٌ هَيدروليّ / ضغط مائي
+hydraulic pump	مِضَخَّة هَيدروليَّة
+hydraulic radius = hydraulic mean depth	نِصفُ القُطْرِ الهَيدروليّ
+hydraulic ram	كَبّاسٌ هَيدروليّ (في مِكْبَسٍ مائيّ)؛ مِدَكٌّ هَيدروليّ
+hydraulic rammer	مِدَكٌّ هَيْدروليّ
+hydraulic regulator	مُنَظِّم هَيدرولي
+hydraulic riveter	مَكَنةُ بَرْشَمة هَيدروليَّة
+hydraulic selector	مُنْتَقٍ هَيْدرولي
+hydraulic shock absorber	مُخَمِّدُ صَدَماتٍ سائلي
+hydraulic shutter	مِصراعٌ (أو غَلَقٌ) هيدرولي
+hydraulic strut	قائمُ انضِغاطٍ هَيدرولي
+hydraulic system	دَورة هَيْدروليَّة
+hydraulic test	اِختِبارٌ هَيدرولي
+hydraulic transmission	نَقْلٌ هَيْدرولي
+hydraulic transport	نَقْلٌ سائليّ، نَقْلٌ مائيّ
+hydraulic turbine	تُربينٌ مائيّ، عَنَفةٌ سائِليَّة
+hydraulic wedge	سَفينٌ هَيدروليّ
+hydraulically-operated	يُشَغَّلُ هَيدروليًّا
+hydraulicity	هَيْدروليَّة
+hydraulicking	تَعدينٌ هَيدرولي
+hydraulics	الهَيدروليّات
+hydrazine	هَيْدرازين
+hydric	مائيّ؛ حاوٍ هِدْروجينًا يُمكِنُ استبدالُه بفلِزّ / مائي
+hydride	هِدْريد، هَيدريد
+hydriodic acid	حامضُ الهيدرويُوديك
+hydrion	أيُون هِدْروجينيّ
+hydro-	بادِئة بمعنى: مائيّ، مُتَّحِدٌ بالهِدْروجين
+hydro-acoustics	الصوتيّات المائيَّة
+hydro-airplane	طائِرةٌ مائيَّة
+hydro-dynamics	حركية السوائل
+hydro-electric	كَهْرَمائيّ، هَيْدروكَهْربائي
+hydro-electric generating station	مَحَطَّةٌ كَهْرَمائِيَّة لِتَولِيدِ القُدْرَة
+hydro-electric plant	وَحْدَةٌ كَهْرَمائيَّة لِتَوليد الطاقة
+hydro-electric power station	مَحَطَّةُ قُدرة كَهْرَمائيَّة
+hydro-extractor = whizzer	مُجَفِّفة طارِديَّة
+hydro-pneumatic	هَوائيٌّ سائِليّ، هيدْرونَفْحيّ
+hydro-power	القُوَّةُ (الكَهربائيةُ) المائيَّة
+hydrobiologic	حيوي مائي
+hydrobromic acid	حامِضُ الهَيدْروبرُوميك
+hydrocarbon	هِدْروكَربون، هَيدْروكربون؛ هِدْروكَربوني، هَيدرُوكَربوني
+hydrocarbon fuel	وَقُودٌ هَيْدروكربوني
+hydrocarbons	فحوم هيدروجينية
+hydrocarbons, aromatic	هِدْروكَربونات عِطْريَّة، هَيْدروكَربونات أروماتيَّة
+hydrocellulose	هِدْروسِليلوز، سِليلُوز مائيّ / سليلوز مائي
+hydrochloric acid	حامِضُ الهَيدروكلُوريك / حمض هيدروكلوريك
+hydrocorallina	عداريات مرجانية
+hydrocracking	التكسيرُ الهِدْروجينيّ
+hydrocyanic acid	حامضُ الهَيدروسَيانيك
+hydrocyclone	فَرّازة دَوّاميَّة مائيَّة
+hydrodesulfurization	نَزْعُ الكِبريت بالهِدروجين
+hydrodynamic	هَيدرودينامي، حَراكيّ مائعيّ
+hydrodynamic governor	حاكِمٌ هَيدروديناميّ
+hydrodynamic impact of the waves	تأثيرات الحركة المائية للأمواج
+hydrodynamic instability	عَدَمُ اسْتِقرارٍ حركيٍ مائيّ
+hydrodynamic lubrication	تَزْليق هَيدرودينامي
+hydrodynamic stability	اسْتِقرارٌ حركي مائي
+hydrodynamic suspension	تَعليقٌ هَيدروديناميّ
+hydrodynamics	هَيدروديناميّات / علم تحريك السوائل / علم حركة السوائل
+hydrodynamometer	هيدرودينامومتر، مقياس سُرعة السوائل
+hydroelectricity	الكَهْرَمائيَّة، الكَهرباء المائيَّة / الطاقة الكهرومائية
+hydroexplosion	اِنفِجارٌ تحتَ الماء
+hydroextraction	استِخراج سائلي، تعدينٌ هيدرولي
+hydrofiner	مُكَرِّر هِدْروجينيّ
+hydrofining	التَّحسينُ الهِدْروجيني
+hydrofluoric acid	حامِضُ الهَيْدروفلُوريك / حمض الهيدروفلوريك، حمض فلور الماء
+hydrofoil	سَطحُ انسِيابٍ مائيّ (رافِع) / زلاقة مائية
+hydrofoil boat	زَورقٌ زلاّق
+hydroforming	التَّهذيبُ الهِدْروجيني
+hydrogel	جِلٌّ مائيّ، هُلامٌ مائيّ / هيدروجل، هُلامة مائية / هيدروجل، هلامة مائية / جل مائي
+hydrogen	هيدروجين
+hydrogen (H)	هِدْروجين، هَيْدروجين
+hydrogen acceptor	مستقبل الايدروجين
+hydrogen bomb	قُنبُلة هِدْروجينيَّة
+hydrogen bond	تَرابُط هِدْروجينيّ، رابِطَة هدروجينيَّة / رابطة هيدروجينية
+hydrogen brazing	لِحامٌ هِدْروجينيّ
+hydrogen bromide	بروميد الهِدْروجين
+hydrogen carbonate	كَرْبونات هِدْروجينيَّة (أو حامِضيَّة)
+hydrogen chloride	كلُورِيد الهِدْروجين
+hydrogen cooling	التَّبْريدُ بالهِدْروجين
+hydrogen cyanide	سَيانيد الهِدْروجين، حامِضُ الهَيْدروسيانيك
+hydrogen donor	مانح الايدروجين
+hydrogen electrode	مَسْرًى هِدْروجينيّ، إِلِكترود هِدْروجيني
+hydrogen embrittlement	قَصَافة هِدْروجينيَّة
+hydrogen equivalent	المُكافِئُ الهِدْروجيني
+hydrogen fluoride	فلُورِيد الهِدْروجين
+hydrogen iodide	يُوديد الهِدْروجين
+hydrogen ion	أَيُون الهِدْروجين
+hydrogen ion concentration	دَرَجةُ تَرْكيز أَيُوناتِ الهِدْروجين
+hydrogen oxide	أُكْسيدُ الهِدْروجين، الماء
+hydrogen peroxide	فَوق أُكسيد الهِدْروجين، الماءُ الأُكْسِجيني
+hydrogen phosphide	الفُسْفين، فُسْفيد الهِدْروجين
+hydrogen sulfate	كِبريتاتٌ هِدْروجينيَّة (أو حامِضيَّة)
+hydrogen sulfide or sulphide	كِبريتيد (أو كِبريتور) الهِدْروجين
+hydrogen thyratron	ثايْراترونٌ هِدروجيني
+hydrogen, active	هِدْروجين فَعّال
+hydrogen, atomic	هِدْروجين ذَرِّي
+hydrogen, sulphuretted	هِدْروجين مُكَبْرَت، كِبريتيد الهِدْروجين
+hydrogenate	هَدْرَجَ
+hydrogenated fat	دُهْنٌ مُهَدْرَج
+hydrogenated oil	زَيتٌ مُهَدْرَج
+hydrogenation	هَدْرجَة / هَدْرَجَة / هدرجة
+hydrogenation plant	وَحْدَةُ هَدْرَجَة
+hydrogenation, catalytic	هَدْرَجَة بالحَفْز
+hydrogenize	هَدْرَجَ
+hydrogenous	هِدْروجينيّ، حاوٍ الهِدْروجين
+hydrogenous coal	فحم مائي / فحم مائي (ليجنيت)
+hydrogeochemistry	علم جيوكيمياء الماء
+hydrogeologic units	وحدات هيدروجيولوجية، وحدات المياه الجوفية
+hydrogeology	جيولوجية الماء، الجيُولوجية المائيَّة / هيدروجيولوجيا، علم الجيولوجيا المائية
+hydrograph	خارِطة مائيَّة؛ رَسْمٌ مِياهي بيانيّ؛ هَيدْرُوغراف، مِرسمَة هيدروغرافيَّة / هيدروغراف / مهندس مائي
+hydrographic chart; marine map	خريطة الملاحة البحرية (المائية)
+hydrographic map	خارِطةٌ مائيَّة / خارطة هيدروغرافية
+hydrographic office	مكتب هيدروغرافيا
+hydrographic survey	مَسْحٌ هَيدْروغرافيّ / مسح هيدروغرافي
+hydrographic symbols	رموز هيدروغرافية
+hydrographic(al)	هَيدْروغرافيّ، جُغرافيّ مائيّ
+hydrography	الجُغرافية المائيَّة، الهَيْدروغرافية / علم الهيدروغرافيا
+hydrography (water representation)	علم وصف المياه
+hydroids	عدارات مائية
+hydrojet propulsion	دفع بالنفث المائي
+hydrokinetics	عِلمُ حركيّات المَوائِع / حركة(ال...) الذاتية للسوائل / حركة(...) الذاتية للسوائل
+hydrol	هيدْرُول
+hydrolith	هِدْريد الكالسيوم
+hydrologic map	خريطة مائية
+hydrological basin	حَوْض مائيّ
+hydrological cycle	الدورةُ المائيَّة (في الكَوْن) / دَوْرةٌ (ال…) المائية / دورة مائية
+hydrological studies	دِراساتٌ تتعلقُ بالمِياه الجَوفيَّة
+hydrology	الهَيدْرولُوجية / علم المياه السطحية، هيدرولوجيا / علم المياه
+hydrolysis	حَلْمَهة، حَلْمَأة / تفكك مائي / حلمأة، تحليل بالماء / تحلل مائي / تحلُّل مائيّ، حلمهة
+hydrolysis constant	ثابِتُ الحَلْمَهة
+hydrolytic	محلل مائي
+hydrolyze	حَلْمَهَ، حَلْمَأَ؛ تحَلْمأ
+hydromagnetic	هَيدْرومِغنيطيّ
+hydromagnetics	المِغْنَطيسيّات المائعيَّة، الحراكياتُ المائعيَّة المغنطيسيَّة
+hydromatic brake	مِكْبَحٌ هَيدروليّ
+hydromechanics	ميكانيكا الموائِع
+hydrometallurgy	العِدانَة السائِليَّة
+hydrometeor	ظاهِرةٌ جَوِّيَّة مائيَّة / ظواهر جوية مائية
+hydrometeorology	عِلْمُ الأرصاد الجَوِّيَّة المائيَّة / علم الأرصاد الجوية المائية
+hydrometer	هَيدرومِتْر، مِكثافُ السَّوائِل، مِسْيَل / هيدرومتر / مقياس الرطوبة / مسيل
+hydrometrograph	مِقياسٌ مُسَجِّلٌ لِلتَّدفُّق المائي
+hydrometry	المِكْثافِيَّة
+hydronalium	هيدروناليوم
+hydronaut	رائدُ أعماق
+hydrone	هايْدرون
+hydronics = hydronic system	نِظامٌ هيدروني
+hydronium ion = hydroxonium	أَيُون الهَيدرونيوم
+hydrophile	إِلْفُ الماء
+hydrophilic colloid	غَرَوانيٌّ يألَفُ الماء (وينحلُّ فيه بسُرعة)
+hydrophilic colloids	غراوانيات محبة للماء
+hydrophily	العيشُ في الماء؛ التأبير المائي
+hydrophis	حية بحرية
+hydrophobe	صَادُّ الماء
+hydrophobia	داءُ الكَلَب، رُهابُ الماء
+hydrophobic colloid	غَرَوانِيٌّ لا يألَفُ الماء (ولا ينحَلُّ فيه إلا بصعوبة)
+hydrophone	هَيدروفون / مسماع مائي
+hydrophore	مِعيانُ الماء
+hydrophyte	نَبَاتٌ مائِيّ
+hydrophytes	نباتات مائية
+hydroplane	زَوْرَقٌ سَريعٌ مُسَطَّحُ القاع؛ طيَّارةٌ مائيَّة
+hydroponics	الزِّراعةُ المائيَّة
+hydroquinone	هِدروكِينون؛ كِينُول
+hydrorefining	تَنْقِيةٌ بالماء؛ التكرير الهِدْروجينيّ
+hydroscope	هَيْدرُوسكُوب
+hydroscopic tests	اِختباراتُ الأعماق (المائيَّة)
+hydroseparator	فَرَّازَة سائليَّة
+hydroskis	زَلاّجَتا الطائرة المائيَّة
+hydrosol	هَيدروصُول، حُلالةٌ مائيَّة / صل مائي
+hydrospace	الحَيْزُ المائي
+hydrospace detection	كشفُ غواطِس الحَيْز المائي (بالسُّونار أو وسائل أُخرى)
+hydrosphere	الغِلافُ المائي / غلاف(ال...) المائي / غلاف(...) المائي / غِلافٌ مائيٌ / محيط مائي
+hydrostat	مُنَظِّمُ الماء (أو الرُّطوبة)، هَيدْروستات
+hydrostatic balance	اِتِّزانٌ سُكونيّ سائليّ؛ ميزان هيدروستاتي
+hydrostatic curves	منحنيات مائية متوازنة
+hydrostatic equation	مُعادَلة السُّكُونمائية
+hydrostatic extrusion	بَثْق هيدروستاتي
+hydrostatic feed lubrication	تَشحيمٌ بالضَّغط الهيدروستاتي
+hydrostatic fuse	صِمامةٌ هَيدروستاتية (لتفجير الشِّحنةِ على عُمقٍ مُعَيَّن)
+hydrostatic head	العُلُوُّ السُّكونيّ السائِليّ
+hydrostatic instability; static instability	عَدَم اسْتِقرارٍ سُكُونَمائيّ
+hydrostatic jack	مِرفاعٌ هَيدروستاتي
+hydrostatic level	مِيزانُ استِواء هيدروستاتي
+hydrostatic press = Bramah press	مِكْبَسٌ (مائيٌّ) هيدروستاتي
+hydrostatic pressure	ضَغْطٌ هَيدروستاتي، ضَغْطُ الماء الساكِن
+hydrostatic stability; static stability	إسْتِقرارٌ سُكُونَمائيّ
+hydrostatic stress	إِجهادٌ سُكونيّ سائليّ، إجهادٌ هيدْروستاتيّ
+hydrostatic test	اِختِبارٌ هيدْروستاتيّ
+hydrostatic thrust	دفع مائي متوازن
+hydrostatic valve	صِمَامٌ هَيدروستاتي (لحِفْظِ الجِسْم على عُمْقٍ مُعَيَّن)
+hydrostatic(al)	هَيدْروستاتي، هِدروستاتي، سُكُونيّ سائِليّ
+hydrostatics	هيدْروستاتيكا، سُكونيّاتُ السَّوائِل، عِلمُ تَوازُنِ السَّوائل وضَغطِها / علم توازن السوائل / علم توازن السوائل، هيدروستاتيك (ال...) / علم توازن السوائل، الهيدروستاتيك
+hydrosulphuric acid	حامضُ الهَيدرو كِبريتيك
+hydrotherapy	مُعالَجَةٌ بالماء
+hydrothermal	حَرْمائيّ، حَراريّ مائيّ / مائي حراري
+hydrothermal action	فعل حرمائي
+hydrothermal deposit	محلول حرمائي
+hydrothermal metamorphism	تَحَوُّل حَراريٌّ مائيّ، تحَوُّل حَرْمائيّ
+hydrotropic	منتح نحو الماء
+hydrotropism	انتحاء مائي
+hydrotropism = hydrotaxis	اِنتِحاءٌ مائيّ
+hydrous	مائيّ / مائي
+hydrous silicate	سليكات مائية
+hydrovane = hydrofoil	سَطْحُ انسِيابٍ مائِي (رافِع)
+hydroxide	هِدْروكسيد / أكسيد مائي، هيدروكسيد
+hydroxyapatite	هيدروكسي أباتيت
+hydroxyl	هيدروكسيل
+hydroxyl ion	أيونُ الهِدروكسيل
+hydroxyl radical (or group)	مَجموعةُ الهِدْروكسيل
+hydroxylamine	أَمينٌ هِدْروكْسِيليّ / هيدروكسيلامين
+hydroxyurea	هيدروكسي يوريا
+Hydrozoa	العُدارِيّات الشُّعاعيَّة / هيدريات / أبابيات
+Hydrus	الشُّجاعُ الصغير، ثُعبانُ البَحر
+hydrux	حيّة البحر
+hyena	ضبع
+hyetograph	خارِطةُ المَطَر؛ مِرْسَمَةُ المَطَر
+hyetology	عِلْمُ الأَمطار
+hyetometer	مِقياسُ المَطَر
+hyetometrograph	مِرسَمةُ المَطَر
+hygiene	عِلْمُ الصِّحَّة
+hygienic(al)	صِحِّيّ، خاصٌّ بِعِلْم الصِّحَّة
+hygristor	مُقاوِمٌ رُطوبيّ
+hygro-	بادِئة بِمَعنى: رُطوبة
+hygrodeik	مِرطابٌ بَيانيّ
+hygrogram	مُخَطَّط الرُّطوبة / مِبْيان الرُّطُوبة
+hygrograph	مِخطاطُ الرُّطوبة، مِرسَمَةُ الرُّطوبة النِّسبيَّة / مِخْطَاطُ الرُّطُوبة
+hygrometer	مِرْطاب / مقياس الرطوبة / مِقْياسُ الرُّطُوبة
+hygrometer, dew-point	مِرطاب (تحديد) نُقطة النّدى
+hygrometer, electrical	مِرطابٌ كَهرَبائي
+hygrometer, hair	مِرطابٌ شَعْري
+hygrometric tables	جَداوِلُ قِياساتِ الرُّطوبة
+hygrometry	المِرطابيَّة / قياس الرطوبة / قِياسُ الرُّطُوبة
+hygrophylous	أليف الرطوبة
+hygrophyte	نَباتٌ مائيّ / نبات الرطوبة
+hygrophytes	نباتات الأماكن الرطبة
+hygroscope	مِكشافُ الرُّطوبَة، هَيڠروسكوب / كشاف الرطوبة
+hygroscopic	اِستِرطابيّ، مُسْتَرطِب، رَطُوب
+hygroscopic coefficient	مُعامِلُ الاستِرطاب (لِلتُّرْبة)
+hygroscopic nucleus	نَوَاةٌ اسْتِرْطابيَّة
+hygroscopic water	ماءٌ استِرطابيّ / ماءٌ اسْتِرْطابِيّ
+hygroscopic(-ad)	ايجروسكوبي
+hygroscopicity	اِستِرطابيَّة، رَطوبيَّة / اسْتِرْطابيَّة
+hygrostat	مُرَحِّلٌ حسَّاس للرطوبة؛ دارةُ تبديل حسّاسة للرطوبة
+hygrothermogram; thermohygrogram	مِبْيَانُ الحَرارةِ والرُّطُوبة
+hygrothermograph	مِرطابٌ مِحرار، مِرسَمَةُ الرُّطوبةِ والحَرارة / ايجرو ترموجراف
+hygrothermograph; thermohygrograph	مِخْطاط الحَرارةِ والرُّطُوبة
+hygrothermoscope	مِبْصارُ الحَرارةِ والرُّطُوبة
+hylophagous	خاشِب
+hymen	البَكارة، غِشاءُ البَكارة (في اللبونات) / غشاء البكارة
+hymenium; hymenial layer	طبقة خصية
+hymenolichens	أشن غشائية
+hymenomycetes	فطريات غشائية
+hymenophyllaceae	غشائيات
+Hymenoptera	غِشائيّاتُ الأَجنِحة / غشائيات الأجنحة
+hyoid arch	قوس لامية
+hyoscine	هيوسين
+hyoscyamine	هيوسيامين، مخدر، بنج
+hypabyssal	مُتوَسِّطُ العُمْق، قَليلُ الغَوْر
+hypabyssal rocks	صُخورُ الأغوارِ المتوسِّطة (العُمق)، الصُّخورُ المُتوَسِّطة / صخور نارية
+hyparchic genes	مورثات ممنوعة التعبير
+hyper-	بادِئة بمعنى: فَرْط، شِدَّة، فوقَ المألوف، زِيادة
+Hyper-Heuristic	إرشاد فائق
+Hyper-personalization	تخصيص فائق
+Hyper-Wave	[مخدِّم] Hyper-Wave
+hyperacidity	فَرْطُ الحَمْضِيَّة، حامِضيَّة زائِدَة
+hyperactive	مُفْرِطُ الفَعّاليَّة، زائدُ النَّشاط
+hyperbaric	مُفْرِطُ الضَّغْط
+hyperbaric chamber	غُرفةُ أُكسِجين عالي الضَّغْط
+hyperbola	قِطْعٌ زائِد / قطع زائد / قَطْعٌ زائِد (هُذْلول)
+hyperbolic (or reciprocal) spiral	حَلَزونٌ عَكْسيّ، حَلزونٌ زائدي
+hyperbolic antenna	هَوائيٌّ زائِديُّ المَقْطَع
+hyperbolic cosecant	قاطِعُ التَّمامِ الزَّائِدِيّ
+hyperbolic cosine	جَيْبُ التَّمامِ الزَّائِدِيّ
+hyperbolic cosine function	دالة جيب التمام الزائد
+hyperbolic cotangent	ظِلُّ التَّمامِ الزَّائِدِيّ
+hyperbolic curve	مُنحَنٍ زائِديُّ المَقطع
+hyperbolic cylinder	أُسطوانَةٌ زائِديَّةُ المَقْطَع / أُسْطُوانةٌ زائِدِيَّة
+hyperbolic differential equation	مُعادَلةٌ تَفاضُلِيَّةٌ زائِدِيَّة
+hyperbolic expansions	نشور زائدية
+hyperbolic functions	دوالّ زائِديَّة / دَوالُّ زائِدِيَّة
+hyperbolic geometry	الهندسة الزائدية، الهندسة المطلقة (اللاإقليدية) / الهَنْدَسةُ الزَّائِدِيَّة
+hyperbolic helicoid	سَطْحٌ لَوْلَبِيٌّ زائِدِيّ
+hyperbolic logarithm	لُغارِتْمٌ زائِدِيّ
+hyperbolic logarithms = natural logarithms	اللُّوغاريتماتُ الطَّبيعيَّة
+hyperbolic navigation	ملاحة زائدية القطع
+hyperbolic paraboloid	سَطحٌ مكافِئٌ زائِد، مُجَسَّم مُكافِئ زائِديّ / مجسم مكافئ زائدي / مُجَسَّمٌ مُكافِئٌ زائِدِيّ
+hyperbolic point	نُقطةٌ زائِديَّة / نُقْطةٌ زائِدِيَّة / نُقْطةٌ هُذْلُولِيّة
+hyperbolic position fix	موقع مرصود بنظام زائدي القطع
+hyperbolic Riemann surface	سَطْحُ ريمان الزَّائِدِيّ
+hyperbolic secant	قاطِعٌ زائِدِيّ
+hyperbolic sine	جيب زائد / جَيْبٌ زائِدِيّ
+hyperbolic sine function	دالة الجيب الزائد
+hyperbolic space	فضاء زائدي / فَضاءٌ زائِدِيّ
+hyperbolic spiral	حلزون زائدي / حَلَزونٌ زائِدِيّ
+hyperbolic tangent	ظِلٌّ زائِدِيّ
+Hyperbolic Tangent (Tanh) Function	دالة الظل الزائدي
+hyperbolic tangent; banh	ظّل زائدي
+hyperbolic type	نَمَطٌ زائِدِيّ
+hyperbolic velocity	سُرعةٌ زائِديَّة
+hyperbolic(al)	زائِديُّ المَقْطَع
+hyperboloid	مُجَسَّمٌ زائِديّ / مجسّم زائدي / مُجَسَّمٌ زائِدِيّ
+hyperboloid of one sheet	مُجَسَّمٌ زائِديٌّ أُحاديُّ الطَّيَّة / مُجَسَّمٌ زائِدِيٌّ وَحيدُ الفَرْع
+hyperboloid of revolution	مُجَسَّمٌ زائِديّ دَوَرانيّ / مُجَسَّمٌ زائِدِيّ دَوَرانِيّ
+hyperboloid of two sheets	مُجَسَّمٌ زائديّ ذو طَيَّتَيْن / مُجَسَّمٌ زائِدِيٌّ ثُنائِيُّ الفَرْع (ذو الفَرْعَيْن)
+hyperborean	قُصوي شمالي
+HyperCard	[برمجية] HyperCard
+hypercharge = strangeness	فَرْطُ الشِّحْنة
+hyperchromatism	فَرْطُ التلَوُّن
+hyperchromic effect	تأثير فرط التصبيغ
+hyperchromic karyckinesis	انقسام نوويّ مفرط الصبغيات
+hypercircle method	طَريقةٌ فَوْقَ دائِرِيَّة
+hypercompensation	تعويض مفرط
+hypercomplex number	عَدَدٌ فَوْقَ عقَدِيّ
+hypercomplex system	مَنْظومةٌ فَوْقَ عُقَدِيَّة
+Hypercube	مكعًب فائق / فَوْقَ مُكَعَّب
+hyperdiploidy	فرْط الضعفانية
+hyperellipse	فَوْقَ قَطْعٍ ناقِص
+hypereutectoid steel	فُولاذٌ فَوق أَصْهَراني
+hyperfine	فائِقُ الدِّقَّة
+hyperfine spectrum	طيفٌ فائق الدقة
+hyperfocal distance	مَسافة فَوق بُؤْريَّة / مسافة فوق البؤرية
+hyperfrequency waves	أَمواجُ الترَدُّد الفَوقيّ
+hypergeometric differential equation	مُعادَلةٌ تَفاضُلِيَّةٌ فَوْقَ هَنْدَسِيَّة
+hypergeometric distribution	تَوْزيعٌ فَوْقَ هَنْدَسِيّ
+hypergeometric function	دالَّةٌ فَوق هَنْدَسيَّة / دالَّةٌ فَوْقَ هَنْدَسِيَّة
+hypergeometric series	مُتَسَلْسِلةٌ فَوْقَ هَنْدَسِيَّة
+hypergeometry	هَنْدَسة فَوقيَّة
+hypergol	وَقودٌ تِلقائيُّ الاِشتعال
+hypergolic fuel	وَقُودٌ تِلْقائيُّ الاِشتِعال (يتأَلَّفُ مِنْ وَقودٍ ومُؤَكسِد فيَشْتَعلُ تِلْقائيًّا عند مَزْجِهما)
+hyperkinesis	فَرْطُ الحَرَكة
+hyperlink	وُصلة ترابطية / رِبَاطُ التَّشَعُّب
+hypermedia	وسائط ترابطية / وَسَائِط مُتَشَعِّبَة
+hypermetropia = hyperopia	مَدُّ البَصَر، طُولُ البَصَر، طَرَح
+hypermetropic = hyperopic	مَدِيدُ أو طَويلُ البَصَر، مِطْرَح
+hypermorph	شكلية (ال...)
+Hypernym	إطار دلالي عام
+Hypernyms- hyponyms	علاقة العام بالخاص
+hyperons	هَيپِرونات
+hyperopia	مَدُّ البَصَر، طُولُ البَصَر
+hyperpanchromatic	فوق بانكروماتي
+Hyperparameter	مُعامِل ضبط
+Hyperparameters Tuning	ضبط مُعامِلات الضبط
+hyperparasite	طفيلي الطفيلي
+hyperpituitarism	فَرْطُ النُّخامِيَّة؛ تضَخُّمٌ أو عَمْلَقةٌ بِفَرْط النُّخاميَّة
+Hyperplane	مستوي متعدد الأبعاد / مستو فوقي / فَوْقَ مُسْتَوٍ
+hyperplane of support	فَوْقَ مُسْتَوٍ لِحامِل
+hyperploid	مفرط الصيغة الصبغية
+hyperploidy	فَرْطُ الصِّبْغيّات
+hyperpyrexia	فَرْطُ الحُمَّى
+hyperreal numbers	أعْدادٌ فَوْقَ حَقيقِيَّة
+hypersensitive	مفرط الحساسية
+hypersensitivity	فَرْطُ الحَسّاسيَّة
+hypersensitization	فَرْطُ التحَسُّسيَّة
+hypersensitizing	فرط التحسيس
+hypersonic	فَرْط صَوتي؛ فَرط صوتي
+hypersonics	فَرْطُ الصَّوتيّات
+hypersound	صَوتٌ فوقي
+hyperspace	فَراغٌ فَوقيّ / فضاء ترابطي / فراغ فوقي / فَوْقَ فَضاء
+hypersparse	فائق التركيز
+hypersphere	فَوْقَ كُرة
+hyperstereoscopy	فرط التجسيم
+hypersurface	سَطْحٌ فَوقيّ / فَوْقَ سَطْح
+HyperTalk	[لغة] HyperTalk
+hypertension	فَرْطُ التوَتُّر
+hypertext	نَصٌّ فَوقيّ / نص ترابطي / نَصٌّ مُتَشَعِّب / نص فائق
+hypertext link	وُصلةُ نصٍّ ترابطيّ / رَبْطُ نَصٍّ مُتَشَعِّب
+Hypertext Markup Language	لغة تأشير نص ترابطي
+hypertext markup language (HTML)	لُغَةُ وَسْمِ النُّصوُص المتشَعّبَة / لغة ترميز النصوص المتشعبة
+Hypertext Transfer Protocol	ميفاق نقل النصوص الترابطية
+hypertext transfer protocol (HTTP)	بُرُوتُوكُول نَقلِ النَّصِّ المتَشَعّب
+HyperText Transfer Protocol Daemon	ناطر ميفاق نقل النصوص الترابطية
+HyperText Transport Protocol Next Generation	الجيل التالي من ميفاق نقل النصوص الترابطية
+hyperthermia	فَرْطُ الحَرارة (وما يتبعُهُ مِن أَعراض)
+hypertonic	مُفرِطُ التوَتُّر، زائِدُ التوَتر / فرط تركيز
+hypertrophy	تَضَخُّم، فَرْطُ النُموّ / ضخام
+hypervelocity	سُرعةٌ فائِقة
+hypervolume	فَوْقَ حَجْم
+Hyperware	برمجيات فائقة
+hypha	خُوط، خَيْطٌ فُطريّ / خيط فطري
+hyphen	واصلة
+hyphenation program	برنامج وضع الواصلات
+Hyphens	علامات الوصل
+hypidiomorphic	جُزْئيّ التبَلْوُر، ناقِصُ التبَلْوُر
+hypnosis	نُوام؛ نَومٌ أَو تَنْويمٌ إيحائي
+hypnotic	مُنَوِّم؛ عَقّارٌ مُنَوِّم
+hypo	مِلْحُ الهَيپُو / تحت
+hypo-	بادِئَة بِمَعنى: نَقْص، قُصُور، هَبْط، دُونَ المُعتاد، تحتَ السَّوِيّ
+hypo-eutectoid steel	فُولاذٌ دُونَ الأَصْهَرانيّ (بِهِ أَقَلّ مِن 0.9 بالمِئَة كَربونًا)
+hypoacidity	نَقْصُ الحَمْضيَّة
+hypobaric	خَفيضُ الضَّغْط
+hypocenter	مركز (ال...) الباطني للزلزال
+hypocentre	مَركَزُ الزِّلزالِ الجَوفيّ، المَركَزُ الباطِنيُّ لِلزَّلْزَلة
+hypochlorite	هَيپُوكلُوريت، تحت كلُوريت
+hypochlorous acid	حامِضُ الهَيپوكلُوروز
+hypochromic karyokinesis	انقسام نوويّ قليل الصبغيات
+hypocotyl	سُوَيقةٌ تَحْتفِلْقِيَّة / سويقة جنينية سفلى
+hypocrystalline	ناقِصُ التبَلْوُر، جُزئيُّ التبَلْوُر / جزئي التبلور
+hypocycloid	دُوَيريٌّ تَحْتيّ، دُوَيريٌّ داخِليّ / دحروج داخلي / دُحْروجٌ داخِلِيّ
+hypocycloid curve	مُنْحَنٍ دُوَيريّ تَحْتِيّ
+hypocycloidal gear	تُرْسٌ دُوَيريٌّ تَحْتِيّ
+hypoderm; hypoderma	تحت البشرة
+hypodermal (ic)layer	طبقة تحت بشرية
+hypodermal colour	لون تحت الأدمة
+hypodermic	تَحْت جِلْديّ، تَحتَ الجِلْد
+hypodermis	طبقة تحت الأدمة
+hypodiploid	منقوص الصبغانية
+hypodispersion	تشتت تحت العادة
+hypoellipse	تَحْتَ قَطْعٍ نَاقِص
+hypogeal	تَحْت سَطْحيّ، نامٍ أو عائِشٌ تَحت السَّطْح
+hypogeal germination	انبات أرضي
+hypogene	صُخورٌ ناريَّة جَوفيَّة؛ جَوفِيّ، باطِنيّ / جوفي المنشأ
+hypogene action	فِعْلٌ جَوفيّ / فعل جوفي
+hypogene process	تطور جوفي
+hypogenetic	جوفي النشأة
+hypogenic	باطِني، جَوفي
+hypogenous	أسفل المبيض
+hypoglossal nerve	عصب تحت اللسان
+hypogynous flower	سفلية
+hypoid	هَيپُودي
+hypoid gearing	تُروسٌ هَيپُوديَّة
+hypolimnion	تَحْتَ البُحيَرة
+hypomorph	ضعيف الشكلية
+Hyponym	لفظة دلالية مخصصة
+hypopharynx	تحت البلعوم
+hypophosphate	هَيُْپوفُسْفات
+hypophosphoric acid	حامِضُ الهَيپُوفُسفوريك
+hypophosphorous acid	حامِضُ الهَيپُوفُسفوروز
+hypophyseal artery	شريان نخامي
+hypophysis	نخامة
+hypophysis = pituitary gland	الغُدَّة النُّخاميَّة
+hypopituitarism	قُصورُ النُّخاميَّة (وما يتبعُه مِن أَعراض)
+hypoploid	نقص الصيغة الصبغية
+hypoploidy	نَقْصُ الصِّبْغيّات
+hyposometer	مقياس الارتفاع
+hypostate gene	مورِّث راكد
+hypostatic	تحت استاتيكية
+hypostyle roof	سَقْفٌ مُعَمَّد
+hyposulfite = hyposulphite	هَيپُوسُلفيت
+hyposulphuric acid	حامِضُ الهَيپوكِبريتيك
+hyposulphurous acid	حامِضُ الهَيْپوكِبريتوز
+hypotaxic deposit	قُرارَة سَطْحيَّة
+hypotension	هُبوط التوتُّر
+hypotenuse	وَتَر، وَتَرُ المُثَلَّثِ القائِمِ الزّاويَة / وَتَر / وتر مثلث قائم الزوايا
+hypothalamus	الوِطاء
+hypothermal	تَحْت حَراريّ
+hypothermal deposit	راسب حرمائي عميق / راسب حرماني عميق
+hypothermal deposits	ترَسُّباتٌ تَحْت حَراريَّة
+hypothermal vein	عِرْقٌ مَعدِنيّ تَحْت حَراريّ
+hypothermia	هُبُوطُ الحَرارة (وما يتبعُه مِن أَعراض)
+Hypothesis	فرضية / فَرْضِيَّة
+hypothesis (pl. hypotheses)	فَرْض، فَرْضيَّة، فَرْضيَّة مُرَجَّحة؛ اِفتِراض
+hypothesis testing	اخْتِبارُ الفَرْضِيَّات
+hypothesize	اِفتَرَضَ، وَضَعَ فَرْضِيَّة
+hypothetical	فَرْضي، اِفتِراضي، ظَنِّي
+Hypothetical Document Embeddings (HyDE)	تضمين المستندات الافتراضي
+hypothetical global climate	مُنَاخٌ الأرض الافتراضيّ
+hypothetical reserves	الاحتياطيُّ المُفتَرَض أَو المُرَجَّح
+hypotonic	ناقص التركيز
+hypotonic = hypo-osmotic	ناقِصُ التوَتُّر
+hypotonic environment	بيئة قليلة التوتر
+hypotrochoid	عَجَليٌّ تَحْتيّ، عَجَليّ داخِليّ / دحروج عام داخلي / دُحْروجٌ عامٌّ داخِلِيّ
+hypoxanthine-guanine phosphoribosyl transferase	إنزيم ناقل فسفوريبوسيل الهيبوزنثين غوانين
+hypoxia	نَقْصُ الأَكْسَجة
+hypsobarometer	بارومِتْرُ العُلُوّ
+hypsograph	هِبْسُوغراف
+hypsographic curve	مُنْحَنٍ تَضارِيسيّ، مُنْحَني الارتِفاعاتِ النِّسْبيَّة للتضاريس
+hypsographic map	خَريطةٌ هِپْسُوغرافيَّة
+hypsography	جُغرافيةُ المُرتَفَعات / هبسوغرافيا(ال...) / هبسوغرافيا(...)
+hypsometer	هِپْسُومِتْر، مِقياسُ الاِرتفاع / مقياس الارتفاع / مِقياسُ الارْتِفاع
+hypsometric map	خَريطةُ الارتِفاعات
+hypsothermometer = hypsometer	تِرمومتر العُلُوّ، هِپْسُومِتْر
+hyssop	حسل
+hysterectomy	استئصال الرَّحِم
+hysteresis	التَّخَلُّف / بِطاء / تَخَلُّفِيّة / هيستيرسيز تخلفية، فشل التواقت
+hysteresis coefficient	مُعامِلُ التَّخَلُّفِ (المِغنَطيسيّ)، مُعامِلُ «شتاينمِتْز»
+hysteresis cycle	دَوْرَةٌ تخَلُّفيَّة (مِغنَطيسيَّة)
+hysteresis distortion	تشَوُّهٌ تخَلُّفيّ
+hysteresis error	خَطَأُ التخَلُّف
+hysteresis heater	مُسَخِّنٌ بالفَقْد التخَلُّفِي
+hysteresis loop	أُنْشُوطةُ التخَلُّفيَّة
+hysteresis loop, magnetic	المُنْحَني الأُنْشُوطيّ لِلتخَلُّف المِغنَطيسيّ
+hysteresis loss	فَقْدُ التخَلُّفيَّة
+hysteresis loss, magnetic	فُقدانٌ تخَلُّفيٌّ مِغنَطيسيّ
+hysteresis motor	مُحَرِّكٌ تَخَلُّفي
+hysteresis tester	مِقياسُ التخَلُّفِ المِغنَطيسيّ (في عَيِّنةٍ مِن الفُولاذ أو الحَديد)
+hysteretic	تخَلُّفيّ
+hysteretic angle	الزّاويَةُ التخَلُّفيَّة
+hysteretic lag	التَّخَلُّفُ المِغنَطيسيّ
+hysteretic loss	الفَقْدُ التخَلُّفِي
+hysteria	هِسْتِيريا، هَرَع، هَوَس
+HYTELNET	[دليل] HYTELNET
+Hz	هرتز
+Hz = hertz	هِرْتز
+Hölder condition	شَرْطُ هولْدَر
+Hölder integral inequality	مُتَبايِنةُ هولْدَر في التَّكامُل
+Hölder means	أَوْساطُ هولْدَر
+Hölder sum inequality	مُتَبايِنةُ هولْدَر في الجَمْع
+Hölder summation	جَمْعُ هولْدَر
+Hölder, Ludwig Otto	لودْڤيغ أُوتو هولْدَر

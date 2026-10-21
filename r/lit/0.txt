@@ -1,0 +1,21 @@
+(I)المنطقة	Area (I)
+(It) الضّمير غير العاقل التّأكيديّ	It-Clefting
+(مفاهيم) القرابة	Kinship (Terms)
+/r/ اللّهجات الإنجليزيّة الّتي تلفظ / لا تلفظ صوت	r-Full, r-Less
+/r/اللّهجات الإنجليزيّة الّتي تلفظ صوت	Rhotic
+/r/اللّهجات الإنجليزيّة الّتي لا تلفظ صوت	Non-Rhotic
+1- شكْـوَى	complaint
+1- مَلْحمـة	epic
+1-انـزياح	deviation
+2- مَلْحَميّ	epic
+2-انحراف	deviation
+Ann Arbor محاكمة مدينة	Ann Arbor Trial
+BASIC English اللُّغة الإنجليزيّة الأساسيّة	BASIC English
+Chi مربّع	Chi-Square
+T , V الضّمائر	T and V Pronouns
+ing لاحقة	ing
+r ربط	Linking r
+t اختبار -	t-Test
+–t/-d حذف الأصوات	-t/-d Deletion
+‘L’ اللّهجة	‘L’ Variety
+‘p’ مستوى	P-Level

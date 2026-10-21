@@ -1,0 +1,129 @@
+Wacker reaction	تفاعل ويكر
+Walden inversion	انقلاب فالدن
+Walden optical inversion	تعاكس البصري، انقلاب البصري
+walnut oil	زيت الجوز
+ware	سلع، منتجات
+warehousing	تخزين
+warfarin	ورفرين
+warming	تدفئة، تسخين
+wash	غَسْل
+wash (after treatment) (to)	غَسَلَ (بعد المعالجة)
+wash bottle	قارورة غَسْل
+wash tray	صينية الغسل
+wash-bottle; washing bottle	قارورة غسل، زجاجة غسل
+washer	غاسل
+washing	غسْل، غسيل / غَسْل
+washing column	عمود الغسل، برج الغسل
+washing soda	صودا الغسيل / صودا الغَسْل
+waste	فضلات، نفايات
+waste, chemical	نُفاية كيميائية
+wastes disposal	التخلص من النفايات
+watch glass	زجاجة ساعة
+water	ماء
+water (distilled...)	ماء مقطر
+water (soft...)	ماء لين
+water bath	حمام مائي
+water content	محتوى مائي
+water cooler	مُبَرِّد مائي
+water gas	غاز الماء
+water glass	زجاجي مائي
+water hardness	قساوة المياه، عسر الماء / عسرة الماء، قساوة الماء
+water of constitution	ماء التكوين
+water of crystallization	ماء التبلور
+water of dehydration	ماء البلمهة / ماء التميّه
+water of hydration	ماء الإماهة، تميؤ (ال...)
+water proofing agent	عميل وقاية من الماء
+water proofing protection	الوقاية من الماء
+water purification	تنقية الماء
+water softening	تطرية الماء
+water solubility	ذوبانية (ال...) في الماء
+water soluble	ذؤوب في الماء، حلول في الماء
+water vapour pressure	ضغط بخار الماء
+water-pump	مضخة ماء
+water-repellent	لا بَلُول، دافع للماء
+waterproof	غير نفوذ للماء، صامد للماء
+watte	وات، واط
+wave	موجة
+wave equation	معادلة موجية
+wave function	تابع الموجة، دالة موجية / تابع موجي
+wave length	طوا الموجة، طول موجي
+wave mechanics	ميكانيك (ال...) الموجي، ميكانيكا (ال...) الموجية / ميكانيك موجي
+wave motion	حركة (ال...) الموجية
+wave nature	طبيعة (ال...) الموجية للالكترونات
+wave number	عدد (ال...) الموجي / عدد موجي
+wave theory	نظرية (ال...) الموجية
+wave-particle duality	مَثْنَوِيَّةُ الموجة والجسيم
+wavelength	طول الموجة
+wax	شمْع / شمع
+waxing	تشميع
+weak acid	حمض ضعيف
+weak acid; weak base	حمض ضعيف، قاعدة ضعيفة
+weak electrolyte	ألكتروليك ضعيف
+weak solution	محلول ضعيف
+wear	بِلَى
+weathering	تجوية
+weighing boat	وزْن / سلة الوزن
+weighing bottle	قارورة وزن
+weighing factor	معامل الوزن
+weighing room	غرفة الوزن، حجرة الميزان
+weighing-in spoon	ملعقة الوزن
+weight	وزْن / وزن
+weight (atomic...)	وزن ذري
+weight (equivalent...)	وزن مكافىء
+weight (molecular...); box of wieghts	وزن جزيئي
+weight burette	سحّاحة وزن
+weights set	علبة أوزان، مجموعة أوزان
+welding	لَـحْمٌ
+welding powder	مسحوق لحام
+Werner's theory	نظرية فرنر
+Weston cell	خلية وِسْتُن
+wet	رطْب / مبلَّل، رَطْبٌ
+wet analysis	تحليل رطب
+wet ashing	ترميد رطب
+wet gas	غاز رطب
+wet process	عملية رطبة / طريقة رطبة
+wet test	اختبار رطب، اختبار بالمحاليل
+wettability	ابتلالية، قابلية الابتلال / قابلية التبلل
+wettable sulfur	كبريت قابل للتبلّل
+wetting	تبليل
+wetting agent	عميل تبليل
+Wheatstone bridge	حسر هويتستون
+white	أبيض
+white gold	ذهب أبيض
+white lead	رصاص أبيض (أسبيداج)
+white lime	لبن الكلس، لبن الجير
+white metal	فلز أبيض
+white oil	زيت أبيض
+white phosphorous	فسفور أبيض
+white spirit	غول أبيض، روح (ال...) الأبيض، كحول أبيض
+white vitriol	زاج أبيض
+wide necked flask	دورق ذو عنق عريض، قارورة بعنق عريض
+width	عَرْض
+Wien effect	تأثير فين
+Wien's distribution law	قانون التوزيع ل
+wiggle	ذبذبة، رجرجة
+wild products	منتجات جامحة
+Williamson synthesis	اصطناع ويليامسون
+Wilson cloud chamber	غرفة الغيم لويلسن، غرفة السحاب لولسن
+wire	سلك
+wire gauze	رماد الخشب
+wire-ash	شبك معدني
+Wittig ether rearrangement	إعادة ترتيب إيترية لِفِيْتِغ
+Wittig reaction	تفاعل فِيْتِغْ
+Wohl degradation	تحوّل وول
+wohler synthesis	اصطناع وُهْلِرْ
+wolfram	ولفرام، تنغستن / وُلْفرام
+wood	خشب
+wood alcohol	غول الخشب، كحول المثيل / غَوْل الخشب
+wood pulp	لبّ الخشب
+wooden paddle	محراك خشبي، ملوق خشبي
+wooden stirrer	محراك خشبي
+wool	صوف
+wool grease	شحم الصوف
+work	شغْل، عَمَلٌ / عمل
+work function	تابع العمل
+workshop	مَشْغَل، ورشة
+woulfe bottle	زجاجة ولف
+wrinkled	متغضّن
+Wurtz reaction	تفاعل فورتز
+Wurtz synthesis	اصطناع فورتس، تخليق

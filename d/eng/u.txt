@@ -1,0 +1,945 @@
+U signal	إشارة U
+U,	معدة فئة ExبرمزU, الأجواء المتفجرة
+U-bar	قضيب U
+U-bolt	Uمسمار شكل
+U-code	شِفرة U
+U-figure; U-indeX	دليل الفروق المغناطيسية
+u-indeX	دليل الفروق المغناطيسية المعدَّل
+U-neck T-shirt / scoop neck T-shirt	قميص بتقويرة عنق دائرية
+U-tail	ذيل U
+U-tube	أنبوب U
+U-value	قيمة الانتقالية الحرارية
+u.n. convention on the law of the sea (unclos)	اتفاقية الأمم المتحدة لقانون البحار
+u.n. fish stock agreement (unfsa)	اتفاقية الأمم المتحدة حول الأرصدة السمكية (UNFSA)
+U; Q control voltage; reactive power control	تحكّم في الجُهد والقُدرة غير الفعّالة
+uars (upper atmosphere research satellite)	قمر صناعي لبحوث الغلاف الجوي العلوي (UARS)
+ubiquitous computing	حوسبة واسعة الإنتشار
+udometer	مقياس المطر
+UF joint	وصلة مفصلية خالية من النحر
+ugrandite	أوغراندايت
+UHF	تردد فوق العالي
+UIC	الإتحاد الدولي للسكك الحديدية
+uk food & drink federation (fdf)	فدرالية مصنعي المأكولات والمشروبات بالمملكة المتحدة
+UK Transmission System Operators Association (UKTSOA)	اتحاد مُشغّلي نظام نقل الطاقة في بريطانيا (UKTSOA)
+Ulbricht sphere	كرة أولبرشت
+ulexite	يوليكسايت
+uliginose	نابت في الأماكن الرطبة
+ullage	النقص عن حد الامتلاء / فجوة الصهريج، فراغ فوق شحنة الناقلة النفطية
+ullage engine	محرك تجميع بقايا الوقود
+ullage engine; ullage motor	محرك الفراغ القمِّي
+ullage manoeuvre	مناورة الفراغ القمِّي / مناورة تجميع بقايا الوقود
+ullage; ullage space	فراغ قمِّي
+Ulster	أولستر
+Ulster style	تصميم أولستر
+ultimate analysis	تحليل مُطلق
+ultimate bearing capacity	سَعَة الحمل
+ultimate bearing pressure	ضَغْط التحمّل الأقصى
+ultimate compressive strength	مُقَاوَمَة الضغط القصوى
+ultimate consumer	مستهلك نهائي
+ultimate design load	حمل التصميم الأقصى
+ultimate factor of safety	عامل الأمان الأقصى / عامل الأمان النهائي
+ultimate limit state	حالة الحد الأقصى / حالة الحد النهائي
+ultimate load	حِمْل الانكسار / حَمْل أقصى / حِمْل (ال...) الأقصى / حِمل أقصى / حِمل الكسر، حِمل أقصى
+ultimate pH	رَقْم هيدروجينيّ نِهائيّ
+ultimate recovery	استخلاص نهائي / استخلاص أقصى
+ultimate short-circuit breaking capacity	استطاعة (سعة ) القطع القصوى لتيار القصر
+ultimate strength	مُقَاوَمة قصوى / مقاوَمة قصوى / مقاوَمة نهائية
+ultimate strength design	تصميم (ال...) على المقاومة القصوى
+ultimate stress	إجهاد أقصى / إجهاد نهائي
+ultimate tensile stress	إجهاد الشد الأقصى
+ultra acidic rocks	صُخور فوق حمْضِية
+ultra basic rocks	صُخور ما فوق أساسية، صخور ما فوق قاعدية
+ultra filtration (UF)	ترشيح فائق
+ultra fine pinstripe	ألياف رقيقة
+ultra fine pinstripe check	مربعات صغيرة
+ultra high frequency, (U.H.F.)	تردُّد فوق العالي، تواتُر فوق العالي
+ultra large crude carrier (ULCC)	ناقلة نفط عملاقة / ناقلة خام عملاقة
+ultra light steel auto body	صُلب هياكل سيارات فائق الخفة (ULSAB)
+ultra low rise trousers	سروال السُرَّة
+ultra short wave (UKW)	موجة مُتناهية القصر (USW)
+Ultra Super 98 (gasoline type)	98 ألترا
+ultra violet radiation	اشعاع فوق بنفسجي
+ultra violet rays	أشعة فوق بنفسجية
+ultra-	جداً / فوق
+Ultra-Fast Charging	الشحن فائق السرعة
+Ultra-Fast Charging Protocol	نظام التحكم في الشحن السريع
+Ultra-Fast Charging Station	محطة الشحن الفائق
+ultra-filtration	ترشيح زائد
+ultra-high magnetic field	مجال مغناطيسي فوق عالٍ
+ultra-high speed photography	تصوير فائق السرعة
+ultra-high vacuum	تفريغ فائق / تفريغ فوق عالٍ
+ultra-high voltage AC transmission systems	أنظمة الجهد العالي والجهد المتردد
+ultra-low airdrop	إسقاط جوي بالغ الانخفاض
+Ultra-low-emission vehicle	مركبة ذات انبعاثات مُتدنّية (ULEV)
+ultra-short take-off	إقلاع قصير جداً
+ultra-short waves	موجات شديدة القِصَر / موجات فائقة القِصَر
+ultrabasic rocks	صخور فوق قاعدية
+ultrafiltration (UF)	ترشيح فائق
+ultrafiltration membrane	غِشاء ترشيح فائق
+ultralight aircraft	طائرة بالغة الخفة / طائرة فائقة الخفة
+ultramafic rocks	صخور فوق مافية
+ultramarine	صبغ أزرق
+ultramicroscope	مجهر فائق الدقة
+Ultranet	شبكة فائقة (Ultranet)
+Ultrapan®	خيط ألترا بان ®
+ultrapure water	ماء عالى النقاء
+ultrasonic	فوق سمعي
+ultrasonic atomizer	مرذاذ ما فوق صوتي
+ultrasonic bonding	لصق بالاهتزازات فوق السمعية
+ultrasonic converter	مغيّر (مبدل)بالموجات فوق السمعية (الصوتية)
+ultrasonic equipment	معد ات فوق السمعية ( الصوتية)
+ultrasonic flow meter	مقياس التدفّق بالموجات فوق الصوتية / مقياس جريان فوق صوتيّ
+ultrasonic generator	مولّد الموجات فوق السمعية (الصوتية)
+ultrasonic heating	تسخين بالموجات فوق السمعية (الصوتية)
+ultrasonic inspection	تفتيش بالموجات فوق السمعية
+ultrasonic installation	تجهيزات الموجات فوق السمعية (الصوتية)
+ultrasonic level measurement	قياس منسوب الملء بالموجات فوق الصوتية
+ultrasonic machining	تشغيل بالموجات فوق السمعية
+ultrasonic rolling	دلفنة بالموجات فوق السمعية
+ultrasonic scan line	خط المسح المقطعى للموجات فوق الصوتية
+Ultrasonic separation	فصل بالموجات فوق الصوتية
+ultrasonic sound; ultrasound	موجة فَوق صَوتِيّة
+ultrasonic technique	طريقة القياس بالموجات فوق الصوتية
+ultrasonic tester	اختبار الموجات فوق الصوتية
+ultrasonic testing	اختبار فوق صوتي
+ultrasonic transformer	محوّل بالموجات فوق السمعية (الصوتية)
+ultrasonic transmitter	مرسل بالموجات فوق السمعية (الصوتية)
+ultrasonic wave	موجة فائقة الصوت
+ultrasonic welding	لحام بالموجات فوق السمعية (الصوتية) / لِحام بالموجات فوق السمعية
+ultrasound	فوق صوتي / فوق الصوتي - ما فوق الصوتي / الموجات فوق الصوتية / تموّجات صوتية فوق سمعية
+ultrasound field	مجال الموجات فوق الصوتية
+ultrasound intensity	شدّة الموجات فوق السمعية (الصوتية) -
+Ultrasound tester	مفحاص الموجات فوق الصوتية
+Ultratuft	وبر فوقي
+ultraviolet	فوق بنفسجي
+ultraviolet detector	كاشف الإشعاع فوق البنفسجي
+ultraviolet hazard	خطر الأشعة الفوق بنفسحية
+ultraviolet hazard irradiance	كثافة الفيض الإشعاعى الفعال الخطر للأشعة الفوق بنفسجية
+ultraviolet hazard radiant exposure	التعرض لخطر الأشعة الفوق البنفسجية
+ultraviolet hazard spectral weighting function	دالة التوازن الطيفي الخطر للاشعة الفوق بنفسجية
+ultraviolet image	تصوير فوق بنفسجي
+ultraviolet irradiation	تشعيع بالأشعة فوق البنفسجية
+ultraviolet lamp	مصباح أشعة فوق بنفسجية
+ultraviolet protection factor; UPF	معامل الحماية من الأشعة الفوق بنفسحية
+ultraviolet radiation; UV radiation; UVR	أشعة فوق بنفسجية
+ultraviolet; UV (abbreviation)	فوق البنفسجيه
+ultrawhite	ما فوق الأبيض
+ulvöspinel	ألفوسبينيل
+umbilical	قنطرة تحميل
+umbilical mast	صارية سُرِّية
+umbilical tower	برج سُرِّي
+umbilical; umbilical cord	حبل سري / كَبل سُرِّي
+umbrella	مظلة
+umbrella antenna	هوائي على شكل مظلة / هوائي مظلِّي
+umbrella group	مجموعة المظلة
+umbrella reflector antenna	هوائى عاكس على شكل مظلة
+umbrella skirt	تنورة المتزلجة
+umkehr	ظاهرة الضوء المستطير
+umlaut	شكله حرف العلّة
+umulative runoff; total discharge	مدد نهريّ تراكميّ
+UN CDM executive board (UN CDM EB)	المجلس التنفيذي لآلية التنمية النظيفة التابع للأمم المتحدة (UN CDM EB)
+UN Convention to Combat Desertification	اِتفاقية الأمم المتحدة لمُكافحة التَصَحُّر
+un global compact (ungc)	ميثاق عالمي للأمم المتحدة (UNGC)
+un watercourses convention (unwc)	اتفاقية الأمم المتحدة للمجاري المائية
+UN-Energy	آلية الأمم المتحدة المعنية بالطاقة UN-Energy
+un-redd	برنامج الأمم المتحدة لخفض الانبعاثات الناتجة عن إزالة الغابات وتدهورها في البلدان النامية (UN-REDD)
+unaccelerated flight	طيران غير متسارع / طيران لاتسارعي
+unaccompanied baggage (US)	أمتعة غير مصحوبة
+unaccompanied baggage; unaccompanied luggage	أمتعة غير مصحوبة / عفش غير مرافِق
+unaccompanied combined transport	النقل المشترك غير المصحوبين بذويهم
+unaccounted-for water (UFW)	مياه ضائعة
+unanimity rule	مبدأ التبادلية
+unapproved	غير معتَمَد
+unattended train operation; GOA4; UTO	تشغيل القطار بدون عاملين
+unaugmented	غير معزَّز
+unauthorized access	منفذ غير مرخص
+unavailability	عدم التوفر / عدم توفر
+unavailability factor	عامل اللاإتاحية / عامل اللا إتاحية
+Unavoidable Annual Real Losses (UARL)	فواقد (ال...) الفعلية السنوية التي لا يمكن تجنبها من المياه
+unavoidable energy	طاقة لا يمكن تجاهلها
+unbalance coefficient	معامل عدم التوازن
+unbalance factor	معامل عدم اتزان الجهد
+unbalance motor	محرك منعدم التوازن
+unbalance protection for a capacitor bank	حماية عدم التوازن لمجموعة المكثفات
+unbalance relay	مُرَحِّل عدم إتزان
+unbalance; unblanced load	حِمل غير مُتوازن
+unbalanced cell	خلية غير متوازنة
+unbalanced metallic circuit; unbalanced transmission line (deprecated)	دارة معدنية غير متزنه
+unbalanced state of a polyphase network	حالة غير متزنة لشبكة متعددة الأطوار
+unbalanced turn	دوران غير متوازن
+unbattering	قطع شرائح الخشب
+unbiased estimator	مخمِّن محايد
+unbleached yarn	خيط غزل غير مبيض
+unblocking signal	إشارة فكّ الإعاقة
+unblown	بلا نَفْخ / غير منفوخ
+unbolt (to)	حلّ محزقة
+unbonded tendon	وَتَرٌ مُنفَصِل
+unbound mode	أسلوب غير مقيّد
+unbroken minerals	مَعَادن صَحِيحَة
+unbundled product/rate	منتج مخرج
+Unbundling	تفكيك
+uncalendered paper	ورق غير مصقول
+uncased	غير مبطَّن، غير مغلَّف
+uncased hole	بئر غير مغلَّفة، حفرة غير مبطَّنة
+uncased well	بئر غير مغلَّفة، بئر غير مبطَّنة
+unccd comprehensive communication strategy (ccs)	استراتيجية شاملة للاتصالات (CCS) لاتفاقية مكافحة التصحر
+unccd headquarters	مقر أمانة اتفاقية مكافحة التصحر
+unccd united nations convention to combat desertification	اتفاقية الأمم المتحدة لمكافحة التصحر (UNCCD)
+unced	مؤتمر الأمم المتحدة المعني بالبيئة والتنمية (UNCED)
+uncertain	غامض / ملتَبِس
+uncertainty	عدم اليقين
+uncertainty (of measurement)	نتيجة قياس
+uncertainty in measurement	اللايقين في القياسات
+uncertainty phase	طَوْر الالتباس / مرحلة الغموض
+uncertainty principle	نظرية التردد
+uncertificated	غير مُجاز
+unclassified	غير مُصنَّف
+unclean bill of lading	سَنَدُ شحن مع تحفظات، سَنَد شحن غير مكتمل
+uncleared goods	بضائع غير مجمركة
+unco-operative	غير متعاون / غير مستجيب
+uncoated mechanical paper	ورق ميكانيكي غير مصقول
+uncoated woodfree paper	ورق خال من الخشب وغير مصقول
+unconfined aquifer	خزان جوفي غير محصور / طبقة حاملة حرة / مياه جوفية غير محصورة
+unconfined compression	تجرِبة الضغط الحر
+unconfined compression test	اختبار الانضغاط البسيط
+unconfined compressive strength	مُقَاوَمَة الضغط الحر
+unconformable succession	تتابُع غير متوافق
+unconformity	عدم تطابق / عدم توافق
+unconnected network	شبكة غير موصولة
+unconsolidated	غير متراصّ
+unconsolidated sediment	رواسب غير متماسكة
+uncontrolled airspace	مجال جوي غير مراقَب
+uncontrolled mosaic	خريطة فسيفسائية غير منضبطة
+uncontrolled slip	انزلاق غير خاضع للتحكم
+Unconventional Gas	غاز غير تقليدي
+unconventional resources	موارد غير تقليدية
+unconventional water resources	موارد مائية غير التقليدية
+uncoupled	غير مقرون
+uncoupled mode	نمط غير مقرون
+uncoupling track	قنوات فك الرَّبط
+uncoursed	بناس لا مدماكي
+uncovered emissions	انبعاثات بدون رصيد
+undamped	غير مُخْمَد
+undamped natural frequency	تردد طبيعيّ غير مُخمد
+under and over... relay	مُرَحِّل.... ارتفاع و انخفاض
+under the baseboard	تحت أرضي
+under the baseboard installation	تجهيز مُثَبَّت
+under the hood	تحت الغطاء / مُعَمَّى
+under the radar	تحت مستوى الرادار
+Under Track	أسفل المسار
+under waiting	غرفة مُراقبة فرعية
+under water completion	إنجاز تحت سطح الماء
+under-compounded	مركب مُقل
+under-counterweight shutter	مِصْراع ذو ثقل موازن سفليّ
+under-development well	بئر تحت التطوير
+under-fire air	هواء متدفق من أسفل النار
+under-modulation	تعديل ناقص / تضمين أقل من المقرر
+under-retting	تعطن المنخفض
+under-voltage release	اعتاق تحت الجهد
+under-voltage; under-tension	إنخفاض الجهد
+under... relay	مُرَحِّل انخفاض...
+Underbalanced Drilling	حفر تحت التوازن
+underbark	تحت اللحاء
+underbreathing	نقص التنفس
+undercarriage	عجلات الحط / عربة سفلى
+undercarriage measuring system	نظام قياس أرضية السيارة
+undercarriage protection	كسوة حماية تحتية
+undercoat	طبقة بطانة / بِطَانة دِهان، دِهان أساس
+underconsolidated	قليل التَرَاص
+undercrossing; underpass	ممر سفلي / تَقَاطُع سُفليّ
+undercurrent release	اعتاق بتيار أصغري
+undercut	قطع جذر عمودي / نخر سفلي
+undercut-slope bank	ضفة متآكلة القاعدة
+undercutting	حفرة دوّامية / حَفْر تحتي
+underdeck spray	رشّ سفلي
+underdrain	خط من أنابيب الصرف / مَصْرِف سفليّ
+underexcitation	إثارة دون الحدّ
+underfeed Furnace	فرن يعمل بالتغدية من الأسفل
+Underfloor air distribution (UFAD)	توزيع الهواء تحت الأرضية (UFAD)
+underfloor chain conveyor	ناقل أرضي ذو سلسلة دوارة
+underfloor engine	محرك سُفلي
+underfloor heating	تدفئة تحت البلاط
+underfloor hydrant	صنبور مياه الجوفية
+underfloor lifting plant	تجهيز الرفع تحت أرضي
+underflow	تدفق سفلي / جريان تحتي / جَريان تحتيّ
+underflow density current	تيار الكثافة التحتية
+underflow plunging type turbidity current	تيارات العَكَر الغاطسة السريعة
+underframe-mounted motor	محرك معلق بهيكل العربة السفلي
+underfrequency	تردد دون الحدّ
+undergauge hole	حفرة ذات قطر داخلي دون المعدل
+undergraduate	طالب طيران / متدرِّب طيران
+underground	قِطَار الأنفاق، ميترو
+underground cable	كابل أرضي / سلك أرضي
+underground distribution	توزيع تحت أرضي
+underground irrigation	ريّ تحت سطحيّ
+underground line	خط تحت أرضي
+Underground Lines	خطوط أرضية
+underground mining	تعدين جوفيّ
+underground pipe	أنابيب تحت الأرض
+Underground power station	محطة كهفية لتوليد الطاقة
+underground storage	تخزين جوفي
+Underground Strata	طبقات جوفية
+underground stratum	طبقة جوفية
+Underground Structures	تشكيلات جوفية بنائية / تشكيلات جوفية، بنى جوفية
+underground substation; vault substation	محطة محولات تحت الأرض
+underground system	نظام أرضي
+underground tank	خزان تحت سطح الأرض
+underground water	مياه جوفية
+underground water table	منسوب المياه الجوفية، سوية الطبقة المائية الجوفية
+underground, adj	تحت أرضي
+undergrowth	غطاء حي
+underknot design	رسومات تحت ربطات العنق
+underlap	تضيّق اثناء النسخ
+underlay	ابراز
+underline	خط تحتي
+undernutrition	نقص تغذية
+underpass	مَمَر سُفلي
+underpass approach	مَدخَل نَفَق / اقتراب من الممر السفلي
+underpass; underbridge	مَمَرّ سُفلِي
+underpinning	تدعيم
+underplant (to)	غرَسَ في الطبقة السفلى
+underplanting	زراعة بكثافة أدنى
+underreach; underreaching protection (US)	امتداد قصير
+underreamer	مُوَسِّع
+underscanning	مسح مخفّض
+undershoot	يَنْبُو / يُقَصِّر
+undersized	حَجْم ضيق
+underskirt / slip / petticoat	تنورة تحتية
+undersluice channel; scouring sluice channel	قناة ممرات الحتات
+undersluice pocket (waterwheel) / scouring sluice pocket (waterwheel)	جَيْب ممرات الحتّ
+undersluice pocket; pocket	جَيْب الفتَحاتّ السفليّ
+undersluice; scouring sluice	فتحات سفلى
+undersluices; scouring sluices	فتحات سُفلى
+underspun yarn	خيط مغزول
+understeering	ميل ناقص
+understocked	كثافة منخفضة
+understorey	طبقة سفلى
+understory trees	أشجار الطبقة السفلى
+understructure	أسِيسة
+undertow current	تيار المد السفلي، تيار القعر
+undervoltage protection	حماية انخفاض الجهد
+undervoltage release	اعتاق بجهد أصغري
+underwater acoustic positioning system	نظام صوتى لتحديد المواقع تحت الماء
+underwater hydraulic hammer based piling	قاعدة ذات ركائز في قاع البحر
+underwater missile	مقذوف تحت مائي
+underwater pump	مِضخّة مغمورة
+underwater sound projector	كاشف صوتى تحت الماء
+underwear	ملابس داخلية
+underwear / lingerie and sleepwear	مَلابِس النِّساء الدَّاخِلِيَّة
+underwear as outerwear	ملابس تحتية -علوية
+underwedge bleed	نزف إسفيني سفلي
+undescribed species	نوع غير موصوف
+undesired emergency	طوارئ غير متوقعة
+undevelopable	غير نشري / لا بسطي / لا نشري
+undissociated substances	مواد غير مُتفككة
+undissolved residue	بقايا غير ذائبة
+undisturbed	غير مضطرب
+undisturbed sample	عينة مطابقة للطبيعة / عينة مُطابقة للطبيعة / عينة غير مشوشة، عينة غير مضطربة
+undock	يباعد / ينزع
+undrained test	غير مُصرَّف
+undrawn filament yarn / Undrawn Yarn	خيوط غزل غير مسحوبة
+undressed timber	خشب خام
+undulated	مموّج
+undulated ratiné	نسيج ولّينيه
+undulating current motor	محرك تيار متموج
+undulating voltage	جهد متموج
+undulose	تَمَوُّجي
+undulose extinction	انطفاء متموج
+unduplicated	أحادي / لا تكراري
+unearthed voltage transformer; ungrounded voltage transformer (US)	محول جهد
+unearthing	رفْع
+unenclosed lampholder	ماسك وحدة إضاءة غير محمي كهربيا؛ ماسك مفتوح
+unep-wcmc	برنامج الأمم المتحدة للبيئة - مركز الرصد العالمي لحفظ الطبيعة
+unesco´s man and biosphere programme (mab)	برنامج اليونسكو الإنسان والمحيط الحيوي
+uneven fracture	مَكْسَر مستوٍ
+uneven thread	خيط مزوي غير منتظم
+uneven yarn	خيط غزل سهل القطع
+uneven-aged silviculture	غابات بأشجار متفاوتة السن
+uneven-aged stand	موقع بأشجار متفاوتة السن
+unevenness	عَدَم استِوَاء
+unexpurgated edition	طبعة كاملة
+unfactored	غير مُعامَل
+unfactored load	حِمل غير مُعامَل
+unfccc, financial mechanism	الاتفاقية الإطار للأمم المتحدة بشأن تغير المناخ، الآلية المالية
+unfccc. article 4.1	الاتفاقية الإطار للأمم المتحدة بشأن تغير المناخ. المادة 4.1
+unfccc. article 4.2	الاتفاقية الإطار للأمم المتحدة بشأن تغير المناخ. المادة 4.2
+unfccc. article 6	الاتفاقية الإطار للأمم المتحدة بشأن تغير المناخ. المادة 6
+unfeather	يزيل التجنيب / يستعيد
+unff (united nations forum on forests)	منتدى الأمم المتحدة للغابات
+unfill; blow-hole	غير معبأ
+unfilled	مَنزُوع المُكَوِّنَات
+unfinished length	طول ناقص، طول غير مستكمَل
+unfinished oils	زيوت غير مصنَّعة، ضروب النفط الخام
+unfinished paper	ورق غير مجهز
+unfinished products, goods	بضائع غير مكتملة
+unfolded stratum	طبقة غير مَطْوِية
+unformed dry cell	خلية جافة غير مشكلة
+Ungaro dolman	انغارو دولمان
+unguarded interval	فترة غير محروسة
+ungulate	ذو حوافر
+unhooking; offhooking	فكّ ( السماعة)
+uni-directional converter	مُقوّم أحادي الجزيء
+uniaxial minerals	معادن أحادية المحور
+unicial letter	حرف استهلالي قديم
+Unicom	شبكة اتصال موحَّدة / يونيكوم
+unidirectional aerial	هوائي أحادي الاتجاه
+unidirectional composite	مادة مركّبة أحادية الاتجاه
+unidirectional current	تيار أحادي الاتجاه / تيار وحيد السلك
+unidirectional interdigital transducer ; UDT	ناقل طاقه رقمى بينى موحد الإتجاه
+unidirectional microphone	ميكروفون أحادى الإتجاه
+unidirectional operation (of a track)	عملية أحادية الاتجاه
+unidirectional pulse	نبضة في اتجاه واحد
+unidirectional solidification	تجمُّد أحادي الاتجاه / تصلُّب أحادي الاتجاه
+unidirectional, adj	احادى الاتجاه؛ وحيد الاتجاه / إحادى الإتجاه / احادى الاتجاه / أحادي الاتجاه؛ وحيد الاتجاه / أحادى الاتجاه
+unified atomic mass constant	ثابت الكتلة الذرى الموحد
+unified fuel control	تحكم موحَّد بالوقود
+unified specific creepage distance	عازل مستقر
+unified system	نظام موحَّد
+Unified thread	لولب موحَّد
+unifilar suspension	تعليق وحيد السلك
+unifiner unit	وحدة تحسين
+uniflow compressor	ضاغط أحادي اتجاه الدفق
+uniflow engine	مُحَرِّك أحادي الدفْق
+uniflow scavenging	كسح بالتيار المستمر
+uniform	منتظم
+uniform acceleration	تسارع منتظم
+uniform channel	مجرى منتظم
+uniform circular motion	حركة دائرية منتظمة
+uniform colour space	فضاءألوان منتظم؛ حيز لونى منتظم
+uniform connection	توصيلة متجانسة
+uniform distribution	توزيع منتظم
+uniform field	مجال منتظم
+uniform flow	تدفق مُنتظم / جريان منتظم
+uniform ice loading	حمل جليدي منتظم
+uniform insulation of a winding, (of a transformer or of a reactor)	عزل منتظم لملف محول أو مفاعل
+uniform load	حمل منتظم
+uniform major section	مقطع رئيسى منتظم
+uniform mixture	خليط منتظم، مزيج متّسق
+uniform photo-interpretation report	تقرير بالاستنباط الضوئي المنتظم
+uniform plane wave	موجة مستوية منتظمة
+uniform point source; isotropic point source	مصدر نقطة موحد؛ مصدر موحد الخصائص اتجاهيا
+uniform printing	طباعة منتظمة
+uniform quantization; uniform quantizing	تحديد كمى منتظم
+uniform rate	تعريفة موحدة
+uniform resource locator; URL (abbreviation)	إختصار (URL)؛ عنوان موقع URL
+Uniform Ressource Locator	مُحدّد مسار مورد مُنمَّط
+uniform section	مَقْطَع منتظم
+uniform sky	سماء ذات توزيع إضاءة منتظمة
+uniform style	أسلوب البذلة الموحدة
+uniform transmission line	خط نقل منتظم / خط نقل متناسق
+uniform velocity	سرعة منتظمة
+uniform waveguide	دليل موجة متناسق
+uniform-chromaticity-scale diagram; UCS diagram	مخطط تلوين قياسى منتظم
+uniformity coefficient	مُعَامِل الانتظام
+uniformity field strength (of a magnetically hard material)	عامل عدمِ استقرار (النفاذية)
+uniformity index	دليل الانتظام
+uniformity of luminance (for character indicator tubes)	انتظام (الاضاءة)(لصمامات مبينات مميزة)
+uniformly distributed load	حِمْل مُوزَّع بانتظام / حِمل منتظم التوزيع
+uniformly graded	منتظم التدرج الحبي
+uniformly varying load	حِمل منتظم التغيُّر
+Unihedd	بيان مركز قيادي عام
+unijunction transistor	ترانزيستور أحادي الموصِّل
+unilateral arrangement	اتّفاق أحاديّ الجانب
+unilateral control	تحكم موحد الجانب
+unilateral gearing	تعشيق أحادي الإتجاه
+unilateral instrumentation	تجهيز وحيد الجانب
+unilateral network	شبكة أحادية الاتجاه
+unilateral transmission	نقل أحادي للحركة
+unillustrated	غير موضح
+unimolecular rectifier	مُقوّم صمامي مفرغ
+uninhibited insulating oil	زيت عازل نشط
+uninsulated earth conductor; uninsulated ground conductor (USA)	موصل ارضى غير معزول (الولايات المتحدةالامريكية)؛ موصل ارضى غير معزول
+unintelligible crosstalk	لغط غير مفهوم
+unintended consequences	عواقب غير مقصودة
+uninterrupted duty	أداء غير متقطع (لأداة فصل ووصل)
+uninterrupted neutral	خط تعادل متصل
+Uninterruptible Power Source UPS	مصدر الطاقة الغير منقطع
+union	مجموعة الإتحاد
+Union Alls	بذلة عمل من الجينز
+union for the coordination of transmission of electricity (UCTE)	اتحاد تنسيق نقل الكهرباء
+Union for the Mediterranean (UfM)	الاتحاد من أجل المتوسط(UFM) / اتحاد (ال...) من أجل المتوسط (UfM)
+Union of the Electricity Industry (EURELECTRIC)	الاتحاد الأوروبي لصناعات الطاقة الكهربائية
+union suit / long johns	سروال داخلي موحد
+unipolar	أحادي القطب
+unipolar electrode system; monopolar electrode system	نظام احادي القطب
+unipolar machine	آلة وحيدة القطب
+unipolar transistor	ترانزستوراحادى القطب
+unipole	وحيد القطب
+unique and threatened system	نظم فريدة ومهددة
+unique hue; unitary hue	لون وحيد؛ لون فريد
+unique type reference (for accessories)	مرجع وحيد للملحقات؛ مرجع فريد (للقطع التكميلية)
+unique word (in TDMA); burst codeword (in TDMA)	كلمة فريدة (في أسلوب تبادل البيانات
+uniselector; rotary selector	مفتاح اختيار ذو حركة دورانية فقط
+Unishear	مقص أحادي
+unit	وحدة قياس / وَحدة / وحدة
+unit acceleration time	زمن وحدة التسارع؛ زمن وحدة العجلة
+unit aircraft	طائرات الوَحدة
+unit area	وحدة المساحة
+unit auxiliaries	وحدة مساعدات
+unit charge	وحدة الشحنة
+unit circle	دائرة وحدة
+unit deformation	وحدة التشوُّه
+unit doublet	وحدة مزدوجة ( الرمز ΄δ )
+unit element	عنصر وحدةِ
+unit equation	معادلة وحدة
+unit face	وجه الوحدة
+unit generator transformer; set transformer	مجموعة مولد محول؛ ممول وحدة
+unit heater	وحدة تسخين أو تدفئة
+unit hydrograph; unit graph	رَسْم مياهيّ للوحدة
+unit impulse; Dirac impulse	نبضة أحادية
+unit injector system (EUI)	نظام 'المضخة - الحاقن' المُدمج (EUI)
+unit interval; signal element (US)	فترة زمنية لوحدة الاشارة
+unit load (device)	وحدة حمولة / وحدة التحميل (جهاز)
+unit load method	طريقة الحِمل الأحادي
+unit magnetic pole	وحدة القطب المغنطيسي
+unit matrix	مصفوفة (ال...) الواحدية
+unit name; name of unit	اسم الوحدة
+unit of issue	وحدة الإصدار
+unit of measurement	وحدة (قياس) / وحدة قياس / وحدة القياس
+unit of measurement; measurement unit; unit	وحدة قياس (وحدة قياس) وحدة
+Unit of Measurements	وحدات القياس
+unit operation	عملية متكاملة
+unit power cost	تكلفة وحدة الطاقة
+unit prefix	بادئة وحدة
+unit protection	حماية (وقاية) الوحدة
+unit protection using telecommunication	حماية ذات تمييز مطلق للمقطع تستخدم الاتصالات عن بعد
+unit pulse	نبضة وحدة
+unit pulse response ; unit impulse response; weighting function	وحدة استجابة نبضية
+unit ramp	..…
+unit seepage force	قيمة ضغط التسرب
+unit step function; Heaviside function	دالة الخطوة الواحدة؛ دالة هيفيسايد
+unit stress	وحدة الإجهاد
+unit symbol; symbol of a unit	رمز وحدة
+unit time ramp; unit ramp	إنحدار أحادى الزمن؛ انحدار أحادى
+unit water requirement	وحدة الاحتياجات المائية
+unit weight	وزن (ال...) الحجمي
+unit weight (mass unit weight), wet	وحدة وزن رطبة
+unit weight, maximum	أقصى وحدة وزن
+unit weight, saturated	وحدة وزن مُشبَّعة
+unit-based pricing/pay-as-you-throw	اعتماد تسعيرة الوحدة / الدفع حسب كمية الأزبال
+unit-impulse response; weighting function	إستجابة نبضة أحادية؛ دالة الوزن
+unit-rainfall duration	وحدة زمن استدامة المطر
+unit-ramp response	إستجابة انحدار أحادى
+unit-step function; Heaviside function	دالة أحادية الخطوة؛ دالة هيفيسايد
+unit-step response	إستجابة خطوة أحادية
+United Nations Climate Change conference	مؤتمر الأمم المتحدة للتغير المناخي
+united nations commission on sustainable development (csd)	لجنة الأمم المتحدة للتنمية المستدامة (CSD)
+united nations conference on environment and development (unced)	مؤتمر الأمم المتحدة المعني بالبيئة والتنمية (UNCED)
+United Nations Convention to Combat Desertification	اتفاقِية الأمم المتحدة لمكافحة التَصَحُّر
+United Nations convention to combat desertification (1994)	اتفاقية الأمم المتحدة لمكافحة التصحر 1994
+United Nations Convention to Combat Desertification (UNCCD)	اتفاقية مكافحة التصحر
+united nations decade for desert and the fight against desertification (unddd)	عقد الأمم المتحدة للصحراء ولمكافحة التصحر (UNDDD)
+United Nations economic commission for Europe	لجنة الأمم المتحدة الاقتصادية لأوروبا
+united nations economic commission for europe (unece)	لجنة اقتصادية لأوروبا تابعة للأمم المتحدة
+United Nations Environment Programme (UNEP)	برنامج الأمم المُتحدة للبيئة (UNEP) / برنامج الأمم المتحدة للبيئة
+United Nations Environment Programme (UNFCCC)	اتفاقية الأمم المتحدة الإطارية بشأن التغير المناخي
+United Nations Framework Convention on Climate Change (UNFCCC)	اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ / الاتفاقية الإطار للأمم المتحدة بشأن تغير المناخ (UNFCCC)
+united nations initiatives	مبادرات الأمم المتحدة
+united nations specialized agencies and programs	وكالات وبرامج الأمم المتحدة المتخصصة
+United Nations Technical Cooperation	التعاون التقني للأمم المُتحدة
+United States geological survey	هيئة المسح الجيولوجي بالولايات المتحدة الأمريكية (USGS)
+unitized container	حاوية متجانسة
+unitized load	حِمل موحَّد / شحنة مجمَّعة
+unitunnel diode; backward diode	صمام ثنائى احادى النفق
+unity power-factor test	اختبار عامل القدرة الواحدي
+universal adapter	مُهايئ عام
+Universal Asynchronous Receiver/Transmitter	مُرسِل-مُستقبِل عالمي لاتزامني UART
+universal band	شريط عالمي
+universal beam	جائز قياسي
+universal bridge	جسر قياس عام
+universal bulk ship (UBS)	سفينة شحن عام
+Universal Charging Protocol	نظام التحكم في الشحن العالمي
+universal chassis clamp	قامطة شاسيه عامة
+Universal coupling	قارنة شاملة
+universal design	تصميم شامل؛ تصميم عام
+universal detonator	مُفجِّر عام
+universal gas constant	ثابت الغازات العام
+Universal head-down display	بيان مركزي قيادي عام
+universal joint	وصلة مفصلية للعمود / وصلة مفصلية / وصلة عامة
+Universal Mobile Telecommunications System (UMTS)	النظام العالمي للاتصالات المتنقلة (UMTS)
+universal motor	محرك عام
+Universal panel beating hammer	مطرقة سمكرة عامة
+universal polar stereographic	مجسِّم قطبي عام
+universal receiver	مستقبِل عام
+universal serial bus	ناقل تسلسلي عام (USB) / ناقل تتابعى عام (USB)
+universal serial bus; USB	ناقل تسلسلي عالمى
+universal shunt	مجزِّئ تيار عام / مفرِّغ تيار عام
+universal stage	منصة جامعة
+universal standards	المعايير الدولية
+Universal Standards Agreement	اتفاقية المعايير الدولية
+Universal Standards Conference	مؤتمر المعايير اللدولية
+universal straightening angle top	طرف زاوية استعدال عام
+universal straightening bench	منضدة استعدال عامة
+universal stub	مضربة عامة
+universal tester	جهاز اختبار عام
+universal time; UT	توقيت عالمي
+universal timing disc	قرص توقيت عام
+universal transmission function	دالة انتقال عامة
+universal transverse Mercator	إسناد مركاتوري عرْضي عام
+universality	العمومية
+universally jointed drive	عمود إدارة مفصلي
+univesrsal plane	مسحاج عام
+unjustified line	سطر غير مضبوط الطول
+unkempt look	طراز المتسكع
+Unleaded Gasoline	جازولين خالٍ من الرصاص / بنزين غير مُعَالَج بالرصاص
+unleaded petrol	البنزين الخالي من الرصاص
+Unleaded Premium 91 (gasoline type)	بنزين ممتاز 91 خالي من الرصاص
+Unleaded Super 95 (gasoline type)	بنزين خصوصي 95 خالي من الرصاص
+unleaded super premium	بنزين خالي من الرصاص
+unlimited ceiling	سقف غير محدَّد
+unlined hole; barefoot completion	حفرة غير مبطَّنة
+unlined paper	ورق ساذج
+unloaded antenna	هوائي غير محمَّل
+unloaded quality factor,	معامل جودة غير محمل ؛ معامل جودة غير محمل
+Unloading bulkhead	حاجز تفريغ
+unloading hatch	فتحة التصريف
+unloading installation	مرفق التفريغ
+unloading platform	رصيف التفريغ
+unloading time	زمن التفريغ
+unlocked	غير معاق / لا قفلي
+unmanned	بلا إنسان / غير مأهول
+unmanned LTC	مَحَطَّةٌ مَأْهُولَةٌ لِمُراقَبَةِ حَرَكَةِ المُرُورِ المَحَلِّيَّةِ
+unmanned substation	محطة غير مأهولة
+unmanned technique	أعمال لابَشَرية
+unmetered supply	مصدر تغذية غير مقاس
+unnavigable	غير صالح للملاحة
+Unobtrusive Assessment	تَقْيِيمٌ غَيْرُ واضِحٍ
+unoperated state (of an echo suppressor)	حالة غير مشغّلة (لمخمدِ صدى)
+unpaged book	كتاب غير مرقم
+Unpaid Area	المنطقة المجانية / المنطقة الحرة
+unpatterned oriental carpet	سجاد شرقي مُصْمَت
+unpaved road	طَرِيق غير مُعَبَّدة
+unperturbed orbit (of a satellite)	مدار غير مضطرب (لقمر صناعي)
+Unpland cotton	قُطن أبلاند
+unplaned wood	خشب غير مسحوج
+unplanned outage	خروج غير مخطط؛ خروج غير مجدول
+unpolarized radiation	إشعاع غيرمستقطب
+unpolished look	مظهر غير ملمّع
+unpowered roller	أسطوانة غير مزودة بالكهرباء
+unprepared airfield	مطار غير مُهيَّأ
+unprepared conductor	موصل غير مجهز التوصيل
+unprintable	غير قابل للطبع
+Unprivileged final consumer	مستهلك نهائي غير متميز
+unproductive boring	حَفْر غير مُنْتِج
+unpunctuated; unpointed	غير مرقّم
+unreasonable message	رسالة غير معقولة
+unrefuelled range	مدى بلا تزوُّد بالوقود
+unreinforced ablator	قشرة سطحية غير مقوَّاة
+unreinforced derrick	برج حفر غير مسلَّح، برج حفر غير مدعَّم
+unrelated colour	لون غيرمتصل بألوان أخرى؛ لون غير ذى صلة
+unreliability	غير ثقة
+unrivet	يزيل البرشام / ينزع البرشام
+unsaturated	غير مُشبَّع
+Unsaturated Hydrocarbon	مادة هيدروكربونية غير مشبعة
+unsaturated steam	بُخار غير مُشبّع
+unsaturated zone	نِطاق غير مُشبَّع
+unscheduled maintenance	صيانة غير مُجَدْوَلَة
+unscheduled maintenance; unplanned maintenance	صيانة غير مجدولة؛ صيانة غير مخطط لها
+unscheduled waiting times	أوقات انتظار غير مقررة
+unscoured silk / raw silk	ليف حريري
+unscreened separable connector	وصلة
+unsealed strip	مَدرج غير مانع للتسرب
+unsealing of surfaces	فَتْح مِنطَقة
+unserviceabl	غير صالح للخدمة
+unshrinkable wood	خشب غير قابل للانكماش
+unsprung mass	كُتل غير مُعلّقة / كتلة غيرنابضة
+unspun wool	صوف غير مغزول
+unstabilised reformatis	صلاحات غير مستقرة
+Unstabilized Crude	خام غير متزن
+Unstabilized Reformates	مهذبات غير مستقرة
+unstable	غير مُستقِرّ / غير مستقر
+unstable aerofoil	منساب هوائي غير مستقر
+unstable air	هواء غير مستقر
+unstable channel	مجرى غير مستقر
+unstable characteristic	خصائص غير مستقرة
+unstable frame	إطار غير مُستقِرّ / هيكل ضعيف
+unstable oscillation	ذبذبة غير مستقرة
+unstable state,	حالة غير مستقرة,
+unstart	غير مبدوء
+unsteady flow	جريان غير مستقر
+unsteady state cooling load calculation	حساب حمل التبريد في الحالة غير المستقرة
+unstick run	مسافة التحرُّر
+unstick speed	سرعة التحرُّر
+unstick-speed ratio	نسبة سرعة التحرُّر
+Unstressed	مخفف / غير محمَّل / غير مُجْهَد
+unsuccessful call	نداء غير ناجح (فاشل)
+unsuccessful reclosing	إعادة غلق آلى غيرناجح
+unsupported site	موقع غير مدعَّم
+unsustainable use (of ecosystems)	استخدام غير مستدام (لنظم إيكولوجية)
+unswept wing	جناح غير مجترف
+unsymmetric load	حِمل غير متناظر
+unsymmetric thrust	دفْع غير متناظر
+unsymmetrical factor	معامل اللاتناظرية
+unsymmetrical flight	طيران غير متناظر
+unsymmetrical molecular structure	تركيب جزيئي غير متناظر
+untitled	غير معنون
+untreated yarn / unprocessed yarn	خيط غزل غير معالج
+untreated/raw water	مياه غير معالجة
+untrimmed paper	ورق غير مشذب
+untrimmed size	مقاس غير مشذب
+untwisted yarn	خيوط غزل غير مثنية
+unusable fuel	وقود لايمكن استخدامه
+unused insulating liquid	سائل عازل غير مستعمل
+unwanted emissions	بث غير مطلوب
+unwanted operation of protection	تشغيل غير مرغوب فيه للحماية
+unwanted response	استجابه غير مرغوبة
+unwanted signal ; undesired signal	إشارة مرفوضة
+unwanted signal; undesired signal	إشارة غيرمطلوبة
+unwanted signal; undesired signal; DEPRECATED: radio-frequency interference	إشارة غير مرغوبة
+unwarned eXposed forces	قوات مكشوفة غير منذَرة
+unwashed	أقمشة الجينز غير المغسولة
+unworked penetration	اختراق دون جَبْل مسبَّق (دون عجْن مسبَّق)
+up draft gasifier	مغوِّز السحب العلويّ
+up duration	فترة الجاهزية
+up gear	ارفعْ عدَّة الحط
+up state duration; up duration; up time,	فترة عدم الإتاحة, ؛ فترة التوقف
+up state; available state	الحالة الحالية،, ؛ الحالة المتاحة،,
+up time	الوقت اللازم
+up-chaff	فوق عُصافة التشويش
+up-chaff interception	اعتراض فوق العُصافة
+up-converter	محول رافع للتردد
+up-gust	عَصْفَة صاعدة
+up-link	وصلة صاعدة
+up-shaft insulation; bore-hole lead insulation (US)	عزل تجويف عمود الدوران
+upconing	انزياح فوقي مخروطي
+upcycle	إعادة تدوير للأفضل
+update	يُجَدِّد
+update rate	معدَّل التجديد / معدَّل التحديث
+updating time; refresh time (in telecontrol)	زمن دوري
+updraft	تيار صاعد
+updraft carbureter; updraught carburettor	مُفَحِّم صاعد التيار
+updraft carburetor	مكربن التيار الصاعد
+upflow anaerobic sludge blanket digestion	هضم بطبقة ندفات لاهوائية ذات تدفق صاعد
+upflow clarifier	مروِّق علويّ الجريان
+upflow filter	مُرشِّح علويّ الجريان
+upgradability	القابلية لتحسين المنتج
+upgrade (to a less restrictive signal aspect)	تحسين
+upgrading	تحسين المنتج / تكرير
+upholstered bed	سرير مُنَجَّد
+upholstery	منجّدات
+upkeep	عناية / مُحافظة
+uplift	رَفْـع / رَفْع إلى أعلى / رفع
+uplift pressure / buoyancy	ضَغْط إلى أعلى
+uplift; pore water pressure on a foundation; uplift pressure	ضَغْط المياه المسامية على الأساس
+uplink	وصلة عُلوية
+upload	تحميل برنامج / حِمل صاعد
+uplock	قُفل عُلوي
+upper air	هواء عُلوي
+upper airspace	مجال جوي عُلوي
+upper arm width	محيط الذراع
+upper atmosphere	غلاف جوي عُلوي
+upper branch	فرع الزوال العُلوي
+upper chest width	محيط الجزء العلوي من الصدر
+upper culmination; upper transit	تكبُّد عُلوي
+upper cylinder lubrication	تزليق علوي
+Upper Explosive Limit; UEL (abbreviation)	حد أعلي للانفجار
+upper flammable limit; UFL	أعلى حد للاشتعال
+upper flap	ياقة علوية
+upper floor	طابق علوي
+upper hip	محيط أعلى الخصر
+upper layer	طلية أخيرة، طلية نهائية
+upper limb	حافة عُلوية
+Upper Quartile Mean Length	متوسط طول الربع الأعلى
+upper reach	مجرى أعلى الحوض
+upper sideband	نطاق جانبى علوى
+upper stage	مرحلة عُلوية
+upper transit	تكبد سماوي
+upper-air observation	رصد الهواء العُلوي
+upper-surface aileron	جُنيح السطح العُلوي
+upper-surface blowing	نفخ السطح العُلوي
+upper-wing pylon	برج الجناح العُلوي
+uprated	مرفوع القدرة / مُزاد القدرة
+uprating	رفع القدرة
+upright image	صورة صحيحة
+upright storage tank	خزّان قائم
+upset	اضطراب مفاجئ / فَلْطَحَة
+upset casing	أنابيب تغليف معطوبة
+upset tubing	أنبوب ضخ مفلطح
+upstage	أعلى المرحلة / نحو القمة
+upstairs	طائراً / عالياً
+upstream	مع التيار / ضِدّ التيار / أعلى النهر (المنبع) / عالية المجرى / عكس اتجاه حركة الشريط / ضد التيار / منبع / صناعات أولية (استكشاف وإنتاج) / ضد اتجاه التيار (في اتجاه البداية/المنبع)
+Upstream Associated Gas Flaring	حرق الغاز المصاحب لاستخراج البترول
+upstream blanket	غِطاء أماميّ
+upstream face	جدار السد / مُقدم السد
+upstream floor	أرض (ال...) أمام الهدار
+Upstream Stages	مراحل المنبع
+Uptake	امتصاص
+upthrow side	جانب مرمي علوي
+Upturned collar	ياقة مقلوبة
+upward Charlie; upward roll	عُطوف صاعد
+upward current; rising current (deprecated)	تيار صاعد
+upward flux fraction	نسبة تدفق صاعد
+upward flux,	تدفق صاعد,
+upward ident	ضوء تعريف عُلوي
+upward light output ratio; ULOR	نسبة خرج ضوء صاعد
+upward light ratio; ULR	نسبة ضوء صاعد
+Upward Pressure	ضغط تصاعدي
+upward-flow rate / rising velocity	سُرعة الارتفاع الشعري
+upwards converter	مُغيِّر تعزيز
+upwash	اجتراف عُلوي
+upwelling	رَفْع ماء البئر / تيار صاعد للمياه
+upwind	عكس إتجاه الرياح
+upwind turbine	عنفة مواجِهة للريح
+uraninite	يورانينايت
+uranium	يورانيوم
+uranium deposits	رواسب اليورانيوم
+uranium price	سعر اليورانيوم
+uranium production	إنتاج اليورانيوم
+Uranus	أورانوس
+urban agglomeration	تجمع عمراني
+urban air pollution	تلوث هواء المناطق الحضرية
+urban and peri-urban agriculture	زراعة المناطق الحضرية وشبه الحضرية
+urban and peri-urban organic agriculture	والمناطق المحيطة بالمدن الزراعة العضوية في المدن
+urban centre of à community	مركز ريفي، مركز جماعة
+urban desing	جمالية مدينة
+urban drainage management, integrated	إدارة الصرف المتكاملة
+urban form	الشكل الحضري
+Urban Freight Trains	قِطاراتُ البَضائِعِ الحَضَرِيَّةِ
+urban growth boundary	حدود النمو الحضري
+urban heat island effect	تأثير جزيرة حرارة حضرية
+Urban Interface Plan UIF/ ALI	مخطط الواجهة الحضرية
+Urban Planning	تخطيط حضري
+urban railway	سكك حديدية حضرية
+urban residues	بقايا حضرية
+urban runoff	جريان سطحيّ مَدَنِيّ
+urban soil	تربة حَضَريَّة
+urban sprawl	انتشار حضري
+urban techno-ecosystem	نظام إيكولوجي تقني حضري
+urban transport	النقل الحضري
+urban transport plan	خطة النقل الحضري
+urban waste; municipal waste	مُخلّفات المدن
+urban water management	إدارة المياه الحضرية
+urbanized area	تكتل حضري
+urea	يوريا
+urea fertiliser	سماد اليوريا
+Urena	يورينا
+urinal	مِبْوَلَة
+urinal, waterless	مِبْوَلة جافّة
+urine	بَوْل
+urine diversion dehydration toilet (UDDTs)	مراحيض جافّة لفصل البول
+urine diversion flush toilet	مِرحاض الفصل بالكَسْح / مِرحاض بنظامي الشطْف والفصْل
+urine diversion flush toilets (UDTs)	مراحيض كَسْح لفصل البول
+urine diverting dry toilet; dry separation toilet	مِرحاض فصْل جافّ
+ursigram	أرسيغرام
+us forest service (usfs)	دائرة الغابات في الولايات المتحدة (USFS)
+US Renewables Group (USRG	المجموعة الأمريكية للطاقة المتجددة (USRG)
+US standards	معايير أمريكية
+US-Pima cotton	بيما أمريكي
+usability	قابلية الأستخدام
+usable field strength	شدة مجال قابل للإستخدام
+usable lift	رفْع نافع
+usable lift; useful lift	رفْع مفيد
+usable scanning line length	طول خَطِّ المَسْح الصالح للإستعمالِ
+usable storage	مخزون قابل للاستخدام
+Usable water	مياه صالحة للاستخدام
+usage concept	مبدأ الاستخدام
+Usage fee	مُقابِلَ الاِسْتِخْدامِ
+USB bus, properties	خصائص الناقل التتابعى العام (USB)
+use	قطعة صالحة / اِسْتِخْدام (الحرارة)
+use / consumption	استهلاك
+Use Agreement	اِتِّفاقِيَّةُ الاِسْتِخْدامِ
+use factor	عامل إستعمالِ
+use of sewage	استخدام مياه الصرف الصحيّ المُعالجة
+use value	قيمة استخدام
+used insulating liquid	سائل عازل مستخدم
+used look	لباس مستعمل
+used oil	زيت مستعمل / زيت مستعمَل
+used oil / waste oil	زيت قديم
+useful area	منطقه فعاله ، منطقه مفيده
+useful beam	حزمة مفيدة
+useful energy	طاقة مُفيدة / طاقة مفيدة
+useful heat	حرارة مفيدة
+useful high-frequency power	قدرة التردد العالي المفيدة
+useful life,	العمر النافع،,
+useful lift	وزن مفيد
+useful load	حِمل مفيد / حِمل نافع
+useful luminous flux,	فيض ضيائى مفيد
+useful output power; load power	قدرة خرج مفيدة
+useful surface (of a heating chamber)	سطح فعال (لغرفة التسخين)
+useful volume	حَجْم مُستخدَم
+useful water capacity of a reservoir	السعة المائية المفيدة للخزان
+useful water reserve of a reservoir	الاحتياط المائي المفيد للخزان
+useful working period	فترة تشغيل فعال
+Usenet news service	خدمة شبكة الإخباريات
+user	مُشترك / مستخدم
+user adjustment (of a measuring instrument)	ضبط (لجهاز قياس)
+user benefits	فوائد المستخدِم
+user bits	أرقام ثنائية للمستخدم
+user charges/user pay	رسوم الاستعمال / الدفع على المُستَعْمِل
+user class of service	فئة مستخدم الخدمة
+user data, pl	بيانات المستخدم
+user facility	تسهيلات المستخدم
+user guide	دليل التشغيل
+user interaction	تفاعل المستخدم
+user interface	مكونات بينية للمستخدم
+user interface (M-ASK-BO)	واجهة الاستعمال لنظام التحكم المُتعدد في الصوتيات (M-ASK-BO)
+user part; service-oriented part	طرف مستخدم طرف توجيه الخدمة
+user program application program	برنامج تطبيقي
+user worked crossings	مَعابر يَدَويَّة
+user's table of contents; U-TOC (abbreviation)	جدول المحتويات لمستخدم
+user,	المستخدم
+user, (in common channel signalling)	مستخدم (في الإرسال بالإشارات بقناة عامّة)
+user-network access	وصول المستخدم إلى الشبكة
+user-network interface; UNI (abbreviation)	سطح بيني لمستخدم الشبكة
+user-to-user protocol	نظام تراسل مستخدم الى مستخدم
+users code	رمز المستخدمين
+Uster statistics	إحصائيات أوستر
+Uster value / CV value / Uster unevenness	قيمة أوستر
+usufruct	حق انتفاع
+usufruct right	حق الانتفاع
+UTI	مخطط السكك الحديدية و الخدمات
+utilance,	الإستفادة, ؛ الاستخدام
+utilidor	ماسورة منافع
+utilisation factor	عامِل الاستفادة / عامِل التطبيق
+utilisation factor of the maximum capacity of a unit	عامل الاستعمال للسعة القصوى للوحدة
+utilisation of farm animal genetic resources	استغلال الموارد الوراثية الحيوانية بالمزرعة
+utilisation period at maximum capacity of more units	فترة استعمال القدرة القصوى لاكثر من وحدة
+utilisation period at maximum capacity of one unit	فترة استعمال القدرة القصوى لوحدة واحدة
+utilisation/ recycling	استغلال
+utilities master data message	رسالة البيانات الرئيسية للمرافق (UTILMD)
+Utilities Sector	قطاع المنافع
+utility	فائدة / مرفق الإمداد العمومي
+utility aircraft	طائرة استخدام عام / طائرة بهلوانية محدودة
+Utility companies (RU) (according to the German Renewable Energy Act)	شركة إمداد بالطاقة (وفقا لقانون الطاقة المتجددة الألماني)
+utility company	شركة إمداد / شركة منفعة
+Utility Crossing Category	فئة معبر الخدمات
+Utility Crossing Data Sheet	جدول بيانات الخدمات
+utility EESS	نظام تخزين الطاقة الكهربائية في شبكة محلية
+utility flatbed trailer	مقطورة مسطَّحة للأغراض العامة
+utility glider	طائرة شراعية عامة
+utility grid	شبكة محلية
+utility interactive PV system	نظام كهرضوئي مُدمَج بالشبكة العمومية
+utility jacket	سترة عملية
+Utility Owner	مالك الخدمة
+utility services	خدمات المرافق
+utility space	حُجْرَةٌ مُشَمَّسَة
+utility system	نظام خدمة عامة
+utility tanker	سيارة خدمة
+utility truck	سيارة خدمات
+utilizable energy	طاقة متوفرة للاستعمال
+utilization	استخدام / انتفاعية
+utilization category (for a switching device or a fuse)	فئة الانتفاع
+utilization factor	عامل إستخدامِ
+utilization factor, ; coefficient of utilization,	عامل الإستفادة,
+utilization of sewage sludge, agricultural	إعادة استخدام الحمأة الناتجة عن مُعالجة مياه الصرف الصحيّ في الأغراض الزراعية
+utilization of storage area	استغلال منطقة التخزين بشكل فعال
+utilization period	فترة الاستخدام
+utilization plan	خطة الاستخدام
+utilization rate	معدَّل الانتفاعية
+utilization time	فترة الاستعمال
+utilization time of power losses	مدة استغلال مفاقيد القدرة
+UV flashlamp [UK] / UV flashlight [US]	مصباح ومضي للضوء فوق البنفسجي
+UV irradiation; UV radiation	أشعة فوق البنفسجية
+UV light	ضوء فوق البنفسجي
+uv light uv / radiation	ضوء أو أشعة فوق البنفسجية
+UV protection bonnet [UK] / UV protection hood [US]	غطاء حماية من الضوء فوق البنفسجي
+UV protection yarn	خيوط مقاومة للأشعة فوق البنفسجية
+UV radiation	أشعة فوق البنفسجية
+UV-A	أشعة فوق بنفسجية من الفئة ا
+UV-B	أشعة فوق بنفسجية من الفئة ب
+UV-C	أشعة فوق بنفسجية من الفئة ج
+UV-hardened resin	راتينج يتصلّد بالضوء فوق البنفسجي
+uvarovite	يوفاروفايت
+uvite	أوفايت
+Uvutan®	أووفيوتان ®
+Uzbek cotton	قُطن أوزباكستاني

@@ -1,0 +1,195 @@
+vacancy	فجوة؛ شاغر
+vacancy; hole	فراغ (بلّوري)، فجوة
+vacuum	فراغ / فراغ؛ خلاء
+vacuum capacitor	مكثف خَلائي
+vacuum evaporation	تبخُّر خَلائي
+vacuum gauge	مقياس ضغط التفريغ/الإخلاء
+vacuum polarization	استقطاب الفراغ / استقطاب الخلاء
+vacuum pump	مُخْلِيَة؛ مضخة إخلاء
+vacuum reservoir	خزان فراغي
+vacuum thermocouple	مزدوجة حرارية فراغية
+vacuum tube	صِمام إلكتروني؛ أنبوب إلكتروني
+valence	تكافؤ
+valence angles	زوايا التكافؤ
+valence band	نطاق التكافؤ / عِصابَة التكافؤ
+valence bond	رابطة تكافؤية؛ رابطة تساهمية
+valence cristal	بلورة التكافؤ
+valence crystal	بلورة تكافؤية
+valence electron	الكترون التكافؤ / إلكترون التكافؤ
+valence force field	مجال قوة التكافؤ
+valence number	عدد التكافؤ
+valence orbits	مدارات التكافؤ
+valence shell	قشرة التكافؤ / طبقة التكافؤ
+valency	تكافؤية / تكافؤية؛ تكافؤ
+valley attenuation	توهين مقعَّر
+value function	دالة القيمة (ن)
+valve	صمام / صِمام؛ دِسَام
+valve amplifier	مضخم صمامي
+valve diode	ذو مسـريين صمامي؛ دَيود صمامي
+valve rectifier	مقوِّم صمامي
+valve voltmeter	مقياس فولط صمامي / مقياس فلط صمامي
+valve wave-meter	مقياس موجه صمامي
+Van Allen belts	حزاما فان ألن
+Van de Graaff generator	مولد فان دي غراف
+Van de Graff generator	مولِّد فان دوغراف
+Van der Waals's equation	معادلة فاندرفالس
+Van Vleck paramagnetism	مغنطيسية فان فليك المسايرة
+vanadium	فاناديوم
+vapor	بخار
+vapor; vapour	بخار
+vaporization	تبخير، تبخّر
+vaporization (heat of…)	حرارة التبخير، حرارة التبخّر
+vapour density	كثافة البخار
+vapour pressure	ضغط البخار
+variability	تغيّرية / تغيُّريَّة
+variable capacitor	مكثف متغير
+variable condenser	مكثف متغير
+variable focus lens	عدسة متغيِّرة البؤرة؛ عدسة متغيِّرة المحرق
+variable focus lens; zoom lens	عدسة متغيرة البؤرة
+variable resistance	مقاومة متغيرة
+variable velocity	سرعة متغيرة
+variance	تباين (ن) / تغاير
+variational derivative	مشتقة تغيّرية
+variational method	طريقة التغيّرات
+variational principle	مبدأ تغيري / مبدأ التغيير
+vector	متَّجه؛ متَّجهة
+vector addition	جمع المتَّجهات
+vector analysis	تحليل متجهي (ن)
+vector atom model	نموذج متَّجه للذرة
+vector function	دالة متَّجهة
+vector potential	كمون متَّجه
+vector product	جداء متَّجهي؛ جداء خارجي
+vector quantity	مقدار متَّجه
+vector space	فضاء متَّجهي
+vehicle	مَرْكبة
+velocity	سرعة / متَّجه السـرعة
+velocity (drift…)	سرعة انسياق
+velocity after collision	السـرعة بعد التصادم
+velocity antiresonance	ضديد رنين السرعة
+velocity distribution	توزّع السـرع
+velocity head	علوّ السـرعة
+velocity of escape	سـرعة الإفلات
+velocity of light	سـرعة الضوء
+velocity of precession	سـرعة المبادرة الزاويِّة
+velocity of projection	سـرعة القذف
+velocity of propagation	سـرعة الانتشار
+velocity of sound	سرعة الصوت / سـرعة الصوت
+velocity pressure	ضغط (ال...) الحركي
+velocity profile	رسم السرعة الجانبي (العمودي)
+velocity resonance; phase resonance	رنين الطور، رنين السرعة
+velocity vector	متَّجه السـرعة
+vena contracta	تخصّر انبثاقي / تخصُّر انبثاقي
+Venturi effect	مفعول فنتوري
+Venturi's phenomenon	ظاهرة فنتوري
+Venturimeter	مقياس فنتوري
+vergence	تمايل (ال...)، التقارب / تقارب أو تباعد
+vernier	فَرْنِيَّة
+vernier caliper	قدم قَنَوِيَّة
+vernier vernier	ورنية
+vertex	ذُروة؛ رأس
+vertical axis	محور شاقولي
+vertical deflection plates	صفيحتا الانحراف الشاقولي
+vertical input	مربط الدخل الشاقولي
+very high frequencies	ترددات عالية جدًا
+VHF	ترددات عالية جدًا
+vibrating column of air	عمود هوائي مهتز
+vibrating magnet	مغنطيس اهتزازي
+vibrating plates	صفائح مهتزة
+vibration	اهتزاز (ن) / ذبذبة
+vibration rotation spectrum	طيف اهتزازية دوراني
+vibration sum rule	قاعدة جمع الاهتزازات
+vibration-rotation spectrum	طيف تذبذب – دوراني
+vibrational energy	طاقة تذبذب
+vibrational motion	حركة اهتزازية
+vibrational partition function	دالة تجزئة اهتزازية / دالَّة التجزئة التذبذبية
+vibrational Raman spectrum	طيف رامان للتذبذب
+vibrational spectrum	طيف تذبذب
+vibrator	هزاز / هزّاز؛ مذبذب
+vibratory motion	حركة اهتزازية
+vibrometer	مقياس التذبذب
+video	فيديو
+violet	بنفسجي
+violin	كمنجة / كمان
+virgin neutron	نترون بكر (ن) / نترونات بِكْر
+virial theorem	مبرهَنة الترابط
+virtual	افتراضي، تقديري
+virtual cathode	مهبط وهمي
+virtual current	تيار افتراضي
+virtual displacement	ازاحة افتراضية / إزاحة افتراضية
+virtual entropy; pratical entropy	اعتلاج افتراضي
+virtual ground	أرض افتراضية
+virtual image	صورة تقديرية / خيال وهمي؛ صورة وهمية
+virtual object	جسم تقديري / جسم وهمي
+virtual particles	جسيمات افتراضية
+virtual state	حالة افتراضية
+virtual temperature	درجة حرارة تقديرية
+virtual work	عمل افتراضي
+viscosity	لزوجة
+viscosity index	معامل اللزوجة
+viscous coefficient	معامل اللزوجة
+viscous damping	تخميد لزج
+viscous flow	جريان لزج
+viscous fluid	مائع لزج
+viscous sate	حالة لزوجة
+visibility	رؤية / مدى الرؤية
+visibility curve	منحنى الرؤية / منحني الرؤية
+visible light	ضوء مرئي
+visible radiation	اشعاع مرئي / إشعاع مرئي
+visible spectrum	طيف مرئي
+vision	رؤية / إبصار
+vision angle	زاوية الرؤية
+vision defects of sight	عيوب الرؤية
+visual acuity	حدة البصر / حِدَّة البصـر
+visual angle	زاوية الأبصار / زاوية الرؤية
+visual axis	محور بصـري
+visual axis; line of vision	محور الأبصار
+visual fatigue	كَلال بَصـري
+vitreous humor	خَلْط زجاجي
+vitreous humour; vitreous humor	سائل العين الزجاجي
+vitreous state	حالة زجاجية
+vocal cords	حِبال صوتية
+vocal sound	صوت نطقي
+void	خلو (ن)
+void coefficient	معامل الخلو (ن)
+void fraction	جزء الخلو (ن)
+volatile	متطاير / طيَّار؛ متطاير
+volatility process	عملية التطاير (ن)
+volatility product	نتاج التطايرية
+volt	فولط / فُلط
+volt-ampere characteristic	منحني مميِّز فُلط - أمبير
+voltage	فُلطية
+voltage divider	مجزِّئ فُلطية
+voltage doubler	مضاعِف الفلطية
+voltage drop	هبوط في الجهد، هبوط في الفولطية / هبوط الفُلطية
+voltage gain	كسب الفُلطية
+voltage law	قانون الفُلطية
+voltage peak	ذروة الفولطية
+voltage pulse	نبضة الفُلطية
+voltage source	منبع فُلطية
+voltage stabilizer	منظم الفلطية
+voltage surge	طفرة الفولطية / تموُّر الفلطية
+voltaic arc	قوس فولطية / قوس فُلطائية
+voltaic cell	خلية فولطا / خلية فلطا
+voltaic electricity	كهرباء فولطائية / كهرباء فُلطائية
+voltameter	مقياس فولطا / مقياس فلطا
+voltammeter	مقياس الفلط والأمبير
+voltmeter	مقياس الفُلط
+volume	حجم
+volume charge density	كثافة الشحنة الحجمية
+volume dose	جرعة كلية
+volume elasticity	مرونة حجمية
+volume in phase space	حجم (ال...) في فضاء الطور
+volume ion density	كثافة (ال...) الحجمية للأيونات (ن)
+volume magneto striction	تقبض مغناطيسي حجمي
+volume magnetostriction	تقبُّض حجمي مغنطيسي
+volume recombination	إعداد تركيب حجمي / إعادة الاتحاد الحجمي
+volume velocity	سرعة حجمية
+volumetric mass	كُتلة حجمية
+volumetric strain	تشوُّه حجمي
+vortex	دردور
+vortex line	خط دردوري
+vortex motion	حركة دردورية / حركة دوّاميَّة
+vortex ring	دوَّامة طوقيَّة
+vortex ring; collar vortex	حلقة دردورية
+vorticity vector	متجه الحركة الدردورية / متَّجه الحركة الدوّامية
+voxel	عنصـر حجم

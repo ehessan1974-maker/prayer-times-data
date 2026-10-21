@@ -1,0 +1,105 @@
+Vague	مُبْهَم
+valuation	تقويم
+Value	قِيمَة
+Value judjment	حُكْم القيمة
+Varbrul; Variable Rule	قاعدة المتغيّر
+Variable	مُتغيِّر / المتغيّر
+Variant	بَدِيل / البديل اللّفظيّ
+Variant (Allophonic -)	بَدِيل صَوْتيّ
+Variant (Conditioned -)	بَدِيل مقيد
+Variant (Dialectal -)	مُتَغَيِّر لَهْجِيّ
+Variant (Free -)	بديل حر
+Variant (Obligatory -)	بَدِيل اضطراريّ، بَدِيل مقيد
+Variant (Stylistic-)	بَديل أسلوبيّ
+variation	تنويع / تَنَوُّع
+Variation (Diachronic)	تَنَوُّع تزمنيّ
+Variation (Geographical)	تَنَوُّع جغرافي
+Variation (Social)	تَنَوُّع اجتماعي
+Variation (Synchronic-)	تَنَوُّع تزمنيّ
+Variationist (Sociolinguistics)	اللُّغويّات الاجتماعيّة المبنيّة على التّنوّع اللُّغويّ
+variety	منوعات / مُنَوّعَة
+Variety Grammar	قواعد اللُّغة المتنوّعة
+Variety Imitation	تقليد التّنوّع
+vaudeville	مسرحية هزلية خفيفة / ملهاة الجادّة
+Vector	الاتّجاه
+Vehicular language	لغة ناقلة
+Velar	حِجَابِيَة / حلقيّ
+Velarization	تَحْجِيب
+Velarized	مُحَجَّب
+Velum	حِجَاب الحَنَك
+vengeance	انتقـام
+Ventriloquation	التّحدُّث من خلال كلام الآخرين
+Ventriloquism	المَقْمَقة
+Verb	فعل
+Verb (Accomplished -)	فِعْل منقطِع
+Verb (Auxiliary -)	فِعْل مُساعِد
+Verb (Causative -)	فِعْل سَببيّ
+Verb (Compound -)	فِعْل مركَّب
+Verb (Copula-)	فِعْل رابط
+Verb (Defective-)	فِعْل ناقِص
+Verb (Deponent)	فعل متعدي المعنى
+Verb (Desiderative)	فعل الرغبة
+Verb (Factitive-)	فعل متعدٍّ لمفعولين
+Verb (Impersonal -)	بِنَاء للمبهم
+Verb (Infinitive)	صيغة فعلية مجردة
+Verb (Instrumental-)	فعل أداتي
+Verb (Intransitive -)	فِعْل لازِم
+Verb (Irregular -)	فِعْل شاذّ
+Verb (Reciprocity -)	فِعْل التفاعل
+Verb (Reflexive-)	فِعْل الانعكاس
+Verb Phrase (VP)	جملة فعليّة
+Verbal	فِعْلِيّ / لفظيّ
+Verbal channel	القناة اللّغوية
+Verbal didascalia	المُمسرحية اللّغوية
+Verbal Duelling	الثّنائيّة اللّفظيّة
+Verbal Hygiene	صحّة اللّفظ
+Verbal irony	هزل الكلمات
+Verbal joke	المُزْحة اللفظيّة
+Verbal Play	التّلاعب اللّفظيّ
+Verbal scenery	الزّخرف القولي
+verification	تَحقُّق
+Verisimilitude	الاستلاحة
+Verismo	الحقائقية
+verity	حقيقـة
+Vernacular	اللّهجة العاميّة
+Vernacular language	دَارِجَة
+Verner's law	قانون فيرنير
+verse	بيت شعر، مقطع، شطر
+versification	نَظْم الشعر
+versifier	منظم للشعر، محوّل إلى شعر
+version	صيغة
+Versus	ضِدّ
+Vibrant	مُهْتَزّ
+Vibration	اهتزاز
+Villain	الشرّير
+virtual	افتراضيّ / فَرَضِيّ
+virtual library	مكتبة افتراضية، خزانـة افتراضية
+virtual reality	واقعية افتراضية
+Visible scene - change	تغيير الزّخارف المرئي
+vision	رؤيـة
+visiual poetry	شعر بصريّ
+Visual	بصريّ
+Visual set	الزّخرف المرئي
+Visual signe	دليل مرئي
+Vocable	لفظة
+Vocabulary	مِلْفَظَة
+Vocal channel	قناة صوتية
+Vocal register	مستوى النطق
+Vocalic	صائتي / معلول
+Vocalic system	نظام الصوائت
+Vocalization	تحريك
+Vocative	نِدَاء دُعَائِيّ
+Voice	بِناء / صَوْت
+Voice (-ed, -ing)	الصّوت
+Voice - off	الصّوت الخارجي
+Voice of reason	صوت العقل
+Voice Quality	نوعيّة الصّوت
+Voiced	مجهور
+Voiceless	مَهْمُوس
+Voloshinov, Valentin Nikolaevich (1895-1936)	العالِم فولوشينوف فالانتاين
+Volume	قوة الصوت
+Vowel	صائت، حركة (في الاصطلاح النحوي العربي.) / حرف العلّة
+Vowel Merger	اندماج حروف العلّة
+Vulgar	مبتذل
+vulgarization	ترويـج
+Vygotsky, Lev (1896-1934)	العالِم فيجوتسكي ليف

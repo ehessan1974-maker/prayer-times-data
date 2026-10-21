@@ -1,0 +1,80 @@
+X axis	محور السينات
+x dB bandwidth (of a signal)	عدد ديسبل لعرض النطاق (لاشارة)
+X,	معدة فئة ExبرمزX, الأجواء المتفجرة
+X-403 fibers	ألياف X-403
+X-aerial	هوائي تصالبي
+X-allocation	تخصيص x
+X-axis	المحور السيني / محور السينات
+X-band	نطاق x / نطاق اكس
+X-channel	قناة x
+x-chromosome	كروموسوم - X
+X-cut	تصميم 8
+X-cut crystal	بلّورة سينية القطع
+X-cut plate	لوح قطع فى محور X
+X-engine	محرك تصالبي
+x-plates	ألواح سينية
+X-radiation	إشعاع سيني
+X-radiation technician	أخصائى أشعة سينية ( إكس)
+X-radiation; X-rays	أشعة سينية ( إكس)
+X-ray	أشعة x / أشعة سينية
+X-ray analysis	تحليل بالأشعة السينية
+X-ray apparatus; X-ray generator	جهاز اشعة سينيةِ X
+X-ray astronomy	علم الأشعة السينية الفلكية
+x-ray crystallography	دراسة البلورات بالأشعة السينية
+X-ray department	قسم الأشعة السينية X
+X-ray diffractometer	مقياس حيود الأشعة السينية
+X-ray emitter	باعث الأشعة السينية X
+X-ray fluorescence	فلورية الأشعة السينية
+x-ray inspection system	نظام تفتيش بأشعة سينية، نظام فحص بأشعة سينية
+X-ray installation	معدة اشعة سينيةِ X
+X-ray room	غرفة الأشعة السينية X
+X-ray television system	نظام مرئي للاشعة السينية X
+X-ray testing	اختبار بالأشعة السينية
+X-ray therapy	علاج بالأشعة السينية X
+X-ray tube	أنبوب الأشعة السينية X / أنبوب الأشعة السينية
+X-ray tube assembly	مجموعة أنبوب الأشعة السينيةِ X
+X-ray tube current	تيار أنبوب أشعة سينيةِ X
+X-ray tube exposure	زمن التعرض لأنبوب أشعة سينية X
+X-ray tube exposure cycle time	زمن دورة التعرض لأنبوب أشعة سينية X
+X-ray tube exposure frequency	تردد التعرّضِ لأنبوب أشعة سينيةِ X
+X-ray tube exposure series	سلسلة تعرّضِ أنبوب أشعة سينيةِ X
+X-ray tube housing	مقر أنبوب الأشعة السينيةِ X
+X-ray tube voltage	جهد أنبوب أشعة سينيةِ X
+X-rays	أشعة (ال…) السينية
+x-shaped twin	توأم مُتصالب
+X-Statics / the silver fiber	ألياف الفضة
+X-t recorder	مُسجِّل أحداث بدلالة الزمن
+X-unit	وحدة سينية
+X-unit (deprecated)	وحدة إكس
+X-wax	شمع سينيX
+X-Y recorder	مسجل إحداثيات
+Xbar	تصالبي
+xducer	محولة طاقة
+Xe (xenon) lamp	مصباح إكسينون
+xenobiotic	غريب حيويّ / دخيلة بيولوجية
+xenoblast	بلورة غير مكتملة
+xenocryst	بلورة دخيلة
+xenogamy	تلقيح مختلط
+xenolith	صخر دخيل
+xenomorphic crystal	بلورة ناقصة الشكل
+xenon	زنون
+xenon lamp [UK] / xenon light [US]	ضوء زينون
+xeric	كائن حيّ جفافيّ
+xeriscaping	حديقة جافة
+xerography	تصوير جاف
+xerophilous	كائن بيئة جافة / أليف الجفاف
+xerophyte	نبات صحراويّ
+xerophytes	نباتات جفافية
+xeroradiography	تصوير جاف بالأشعة
+xfer	نَقْل
+xography	طباعة مجسمة
+xtal	بلّوري
+Xylee®	إكسيلي®
+xylem	نسيج الخشب
+xylene	زيلين
+xylographer	منقشب
+xylography	نقشبة
+xylol	زيلول
+xylopal	أوبال خشبي
+xylose	زيلوز
+XYZ analysis	تحليل XYZ

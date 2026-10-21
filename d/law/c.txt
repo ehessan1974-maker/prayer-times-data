@@ -1,0 +1,747 @@
+cabinet	مجلس الوزراء
+caducity	شيخوخة
+Call For Competition	دعوة للمنافسة
+Call Off	إلغاء / وقف التنفيذ
+Call-Off Contract	عقد الاسترداد
+calling in question	إدخال الغير في الدعوى
+Cancel a trademark	شطب تسجيل علامة
+Cancel denomination	شطب تسمية الصنف
+candidacy; candidature	ترشيح
+candidate	مرشَّح
+canvasser	مُرَوِّج بيع سندات مالية
+canvassing	استحالة المشتري
+Capability	إمكانية
+Capability of industrial application	قابلية التطبيق الصناعي
+capacity	أهلية / سعة
+Capacity Constraints	قيود مفروضة على السعة
+Capacity Cushion	طاقة إنتاجية إضافية
+capacity to sue; right to sue	أهلية التقاضي
+capital	رأس المال
+Capital Asset	أصول رأسمالية
+Capital Cost	تكلفة رأس المال
+Capital Equipment	معدات رأسمالية
+Capital Expenditure (CAPEX)	نفقات رأسمالية
+Capital Intensive	كثافة رأسمالية (الأساس النقدي)
+capital investment	استثمار الرساميل
+capital market	سوق الرساميل
+capital market authority	هيئة (ال..) العامة لأسواق الرساميل
+capital of company; capital stock	رأس مال الشركة
+Capital Purchases	مشتريات رأسمالية
+Capital Requirements	متطلبات رأسمالية
+capitalization of interests	رسملة الفوائد
+capitals company	شركة أموال
+capitulation	نظام الامتيازات
+car licence	رخصة سيارة
+Carbon Footprint	آثار الكربون / البصمة الكربونية
+card	بطاقة
+carriage free	خالص الشحن
+cartel	تحالف المؤسسات، كارتل / الإحتكار
+case file	ملف قضية / ملف القضية
+case; suit	قضية
+Cash Equivalents	مكافئات النقدية
+Cash Flow	تدفق نقدي
+Cash Flow Issues	مشاكل التدفق النقدي
+Cash Flow Return	عائد التدفق النقدي
+cash payment; payment in cash	سداد نقديّ، دَفْع نقديّ
+cassation	نقْض
+Category	فئة
+Category Hierarchy	تسلسل هرمي للفئات
+Category Management	إدارة الفئات
+Causal Link	صلات سببية
+causality	سببية (ال..) ، عِلِّية(ال..)
+Causation	السببية
+cause	سبب
+cause of complaint	سبب الشكاية
+cause of contract	سبب العقد
+Cause–Effect Diagrams	مخططات الأسباب والنتائج
+caution; bail; suretyship	كَفالة
+Caveat Emptor	مسؤولية المشتري
+cell	زنزانة
+censorship	رقابة
+Centers Of Excellence	مراكز الامتياز
+central	مركزيّ
+central bank	مصرف مركزيّ، بنك مركزيّ
+Central Banks	بنوك مركزية
+central commercial register	سِجلّ تجاريّ مركزيّ
+central government	حكومة مركزية
+centralization	مركزية إدارية / مركزية
+Centralized Decision-Making	مركزية صنع القرار
+Centralized Inventory Holding	حيازة المخزون المركزي
+Centralized Procurement	مشتريات مركزية
+Centralized Structure; Centralized	هيكل مركزي
+certain debt	دَين ثابت، دَين محقق
+certificate	شهادة
+certificate for non-protest claims	شهادة بعدم الاحتجاج
+certificate of deposit	شهادة إيداع
+certificate of foreign law	شهادة إثبات القانون الأجنبيّ
+certificate of good character; certificate of good conduct	شهادة حسن السيرة
+certificate of need	شهادة العوز
+certificate of property	شهادة مِلكية
+Certificate of registration of copyright	شهادة تسجيل حق مؤلف
+certification	تصديق، مصادقة
+Certification marks	علامات مراقبة
+certified	مُصدَّق، مصادق عليه
+certified cheque	صكٌّ معتمد، شيك معتمد
+certified copy of judgment	نسخة الحكم التنفيذية
+certified copy; exemplification	نسخة معتمدة، نسخة مصدَّقة
+Certified Public Accountant	مُحاسِب قانوني
+cessionary	محال (ال..) له
+Chain Of Custody	سلسلة الحيازة
+challenge	تَحدٍّ
+chamber of commerce and industry	غرفة التجارة والصناعة
+chance bargain	صفقة جزافية
+Change Agency Unit	وحدة تغيير الوكالة
+Change Management	إدارة التغيير
+Change Management Programmers	برامج إدارة التغيير
+Change of work	تغيير مصنف
+Change-Readiness	استعداد للتغيير
+Channel Fill	تعبئة القناة
+Characterization	تكييف / توصيف
+Characterization of the Incident	تكييف الواقعة
+Charity	أعمال خيرية
+charter	ميثاق
+charter-party	عقد إيجار السفينة
+chartered accountant	خبير محاسبيّ، خبير حسابات
+Chat Bots	روبوتات المحادثة
+Check	شيك
+Check Digits	التحقق من الأرقام
+Checkpoint Reports	تقارير نقاط التفتيش
+cheque book	دفتر صكوك، دفتر شيكات
+cheque; check	شيك، صَكٌّ
+chief clerk	أمين (ال..) العام للمحكمة، رئيس كتابة الضبط
+Chief of the court	رئيس المحكمة
+Chief Procurement Officer (CPO)	الرئيس التنفيذي للمشتريات
+child	طِفل
+child abuse	سوء معاملة الأطفال
+Child Labor	تشغيل الأطفال
+christian name; first name; given name	اسم (ال..) الشخصيّ
+CIF sale (Cost Insurance Freight)	بَيْع 'سيف'
+CIPS Code Of Conduct	مدونة لقواعد السلوك
+Circuit of First Instance	دائرة ابتدائية
+Circular Economy	الإقتصاد التداولي (الدائري)
+circulars	منشورات، تعميمات
+circumstances	ظروف / ملابسات
+citation	استدعاء
+citizen	مُوَاطِن
+citizen rights	حقوق المواطن
+citizenship	مُواطَنة
+civic degradation	تجريد (ال..) من الحقوق الوطنية
+Civic Obligations	التزامات المدنية
+civil action	دعوى مدنية
+civil case	قضية مدنية
+civil caution	كَفالة مدنية
+civil company	شركة مدنية
+civil court	محكمة مدنية
+civil death	موت مدنيّ
+Civil Dispute	مُنازعَة مدنية
+civil law	قانون مدنيّ
+Civil Liability	مسؤولية مدنية
+Civil Liability Insurance	تأمين المسؤولية المدنية
+civil liability; civil responsibility	مسؤولية مدنية
+civil obligation	التزام مدنيّ
+Civil Procedure	مرافعة شرعية
+civil procedure; civil proceedings	إجراءات مدنية
+civil register	سِجلّ الحالة المدنية، سِجلّ الأحوال المدنية
+civil rights	حقوق مدنية
+civil service	خدمة مدنية
+civil service union	نقابة موظفين
+civil status	حالة (ال..) المدنية
+civil status certificate	شهادة الحالة المدنية
+civil trial	محاكمة مدنية، خصومة مدنية
+civil war	حرب أهلية
+claim	مطالبة، ادِّعاء / عنصر حماية
+Claim Identification	الهوية القائمة على المطالبات
+Claim Quantification	تنويع المطالبات
+Claims Adjuster	خبير تسوية
+Claims Made Policies	سياسات المطالبات المقدمة
+Claims Management	إدارة المطالبات
+clause	بَند، شَرْط
+clause (free of damages ..)	شرط الإعفاء من ضمان الأضرار
+clause of attributing competence	شرط إسناد الاختصاص
+clause of celibacy	شرط العزوبة
+clause of inalienability	شرط المنع من التصرف
+clause of non-guarantee	شرط عدم الضمان
+clause of non-responsibility; clause of non-liability	شرط عدم المسؤولية
+clause of reciprocity	شرط المعاملة بالمثل
+clausula rebus sic stantibus	شرط عدم تغير الظروف أو الأوضاع
+clearing house	غرفة المقاصة
+Clerk	كاتب ضبط
+clerk's office	كتابة الضبط (بالمحكمة)
+client	زبون
+Client Experience Strategy (CX)	إستراتيجية تجربة العميل
+client servicing	خدمة بعد البيع
+closed account	حساب مُقفَل
+Closed Change	تغيير مغلق
+closed issue	إصدار مخصص للمساهمين
+Closed Loop Supply Chains	سلاسل التوريد ذات الحلقة المغلقة
+Closed System	نظام مغلق
+Closed-Book Costing	تكلفة الدفترية (الختامية) المغلقة
+Closed-Loop Supply Chain (Reverse Supply Chain)	سلسلة التوريد ذات الحلقة المغلقة (سلسلة التوريد العكسية)
+closing	إغلاق، إقفال
+Closing of Arguments	إقفال باب المرافعة
+Closing Stock	بضاعة آخر المدة
+Cloud	مساحة سحابية
+Cloud Computing	حوسبة سحابية
+Co-Cooperativeness	تعاونية
+Co-Creation	تساند
+Co-Design	تصميم المشترك
+co-exchanger	مُبادِل، مقايِض
+co-operative	تعاونية / التعاون التشغيلي
+Co-Operative Procurement	مشتريات تعاونية
+co-operative society	جمعية تعاونية
+co-optation	اختيار (ال..) (من جانب الأعضاء)
+Co-Ordination Evolution	تطور التنسيق
+Co-Ordination Of Activities	تنسيق الأنشطة المشترك
+Co-Production	الإنتاج المشترك
+coalition	ائتلاف
+coalition government	حكومة ائتلافية
+coastal shipping	مِلاحة ساحلية
+coaster	سفينة ساحلية
+code	مدوَّنة، قانون
+Code Of Conduct	قواعد سلوكية
+Code Of Ethics	مدونة الأخلاقيات
+Code Of Practice (CoP)	مدونة الممارسات
+codicil	ملحق وصية
+codification	تدوين، تقنين
+coefficient	مُعامِل
+coercion	إكراه، إجبار / إكراه
+coercion of labour	عمل إجباريّ، شغل إجباريّ
+Coercive Strategies	إستراتيجيات قسرية
+Cognitive Dissonance	تنافر المعرفي
+Cold Calling	اتصال بارد
+Collaboration	تعاوني
+Collaboration Evolution	تطور التعاون
+Collaborative	ابتكار
+Collaborative Agreement	اتفاقية تعاون
+Collaborative Approach	نهج تعاوني
+Collaborative Procurement	مشتريات تشاركية
+Collaborative Style	الأسلوب التعاوني
+collateral consanguinity	قرابة الحواشي
+Collateral Kinship	قرابة غير مباشرة
+collective agreement	اتفاقية جماعية
+collective company	شركة جماعية
+collective conflict	نزاع جماعيّ
+Collective Consultation	استشارة جماعية
+Collective Efficacy	كفاءة (جدارة)
+collective liability; collective responsibility	مسؤولية جماعية
+collective ownership; collective property	مِلكية جماعية
+Collective trademarks	علامات جماعية
+Collective work	مصنف جماعي
+Collectivism	الشمولية
+collide; collision	اصطدام، تَصَادُم
+Collude	يتواطأ
+Collusion	تواطؤ
+commencement (of crime)	بدء تنفيذ (جريمة)، شروع (ال..) في تنفيذ (جريمة)
+commercial acts	أعمال تجارية
+commercial acts by accessory	أعمال تجارية بالتبعية
+commercial agency	وكالة تجارية
+commercial agent	وكيل تجاريّ، ممثل تجاريّ
+commercial arbitration	تحكيم تجاريّ
+commercial attaché	ملحق تجاريّ
+commercial bank	بنك تجاريّ، مَصْرف تجاريّ
+Commercial Banks	بنوك تجارية
+commercial caution	كَفالة تجارية
+commercial chamber	غرفة التجارة
+Commercial Circuit	دائرة تجارية
+commercial company	شركة تجارية
+commercial conflict	نزاع تجاريّ
+commercial contract	عقد تجاريّ / عقد تجاري
+Commercial Corporations	شركات تجارية
+commercial court	محكمة تجارية
+commercial custom	عرف تجاريّ
+Commercial Dispute	مُنازعَة تجارية
+commercial enterprise	مقاولة تجارية، مشروع تجاريّ
+Commercial Exploitation	استغلال تجاري
+Commercial Fraud	غش تجاري
+Commercial information	معلومات تجارية
+commercial law; commercial code	قانون (ال..) تجاريّ، مدونة تجارية
+commercial lease	إيجار تجاريّ، كراء تجاريّ
+commercial mortgage	رهْن تجاريّ
+commercial name; trade name	اسم تجاريّ
+commercial navigation	مِلاحة تجارية
+Commercial Negotiation	التفاوض التجاري
+Commercial Off-The-Shelf (COTS)	منتجات تجارية جاهزة
+commercial paper	ورقة تجارية
+commercial pawn	رهْن تجاريّ
+commercial property	مِلكية تجارية
+commercial register	سِجلّ تجاريّ / سجل تجاري
+commercial reputation	سمعة تجارية
+commercial sanctions	جزاءات تجارية
+commercial transaction	معاملة تجارية
+commercial usages	عادات تجارية
+commercial value	قيمة تجارية
+comminatory	تهديديّ
+commission	عمولة
+commission agent	وكيل بالعمولة
+commission of inquiry	هيئة تحقيق، لجنة تحقيق
+commissioned judge	قاضٍ منتدبٌ
+Commissioning	تكليف
+Commitment	إلتزام أو إمتثال
+committee	لجنة
+Commodities	سلعة
+Commodities Exchange	تبادل السلع
+commodity exchange	سوق البضائع
+Commodity Indices	مؤشرات السلع
+Commodity Markets	أسواق السلع الأساسية
+Commodity Pricing	تسعير السلع
+Common Causes	أسباب شائعة
+Common Logistics Services	خدمات لوجستية
+Common Procurement Vocabulary (CPV) Codes	رموز مفردات المشتريات العامة
+common property	مِلك مشترَك
+commonwealth of nations	رابطة الشعوب البريطانية (الكومونولث)
+Communication	اتصال (تواصل)
+Communication Management Strategy	استراتيجية إدارة الاتصال
+Communication of a work to the public	نقل مصنف الى الجمهور
+Communication Strategy	خطة التواصل
+Community Benefit Clause	بند المنفعة المجتمعية
+community property	مِلكية مشتركة
+commutation of penalty	تخفيف العقوبة
+commutative contract	عقد محدِّد
+companies act; corporations law	قانون الشركات
+Company Annual Reports	تقارير السنوية للشركة
+Company Direction	توجه شركة
+Company Documentation	وثائق الشركة
+company in liquidation	شركة في طور التصفية
+company share	حصة الشريك
+company's assets	أصول الشركة، موجودات الشركة
+company; corporation	شركة
+comparative law	قانون مقارن
+Comparative Metrics	مقاييس المقارنة
+Comparative test	فحص مقارن
+Compensating the owner of the right	تعويض مالك الحق
+compensation	تعويض (عن الضرر)، مقاصة / تعويض
+Compensation Event	حدث التعويض
+compensation of ejection	تعويض الإخلاء
+compensatory damages	تعويضات عن عدم التنفيذ
+compensatory interests	فوائد تعويضية
+Competence	الأهلية
+competence; competency	اختصاص
+Competences	مواد استهلاكية
+Competency	كفاءة الإنتاج
+Competent court	المحكمة المختصة
+competition	مُنَافَسة
+competition law	قانون المنافسة
+Competition-Based Pricing	تسعير القائم على المنافسة
+Competitions And Markets Authority (CMA)	هيئة المنافسة والأسواق
+Competitive	تنافسية
+Competitive Advantage	ميزة تنافسية
+Competitive Approach	نهج التنافسية (الاستراتيجية التنافسية)
+Competitive Assessment/’ Teardown’	الخدمات اللوجستية المشتركة
+Competitive Benchmarking	معايرة تنافسية
+Competitive Bids	عطاءات تنافسية
+Competitive Dialogue	حوار تنافسي
+Competitive Dialogue With Negotiation	حوار تنافسي مع التفاوض
+Competitive Environment	بيئة تنافسية
+Competitive Interdependence	ترابط التنافسي
+Competitive Position	مكانة تنافسية
+Competitive Pricing	تسعير التنافسي
+Competitiveness	قدرة تنافسية
+competitor	مُنَافِس
+complainant	مُشتكٍ
+complaint	شكوى، شكاية / شكوى
+Complementarity	تكميلية
+complete abrogation	إلغاء كليّ
+complete respite; complete delay	أجل كامل
+Complex Conditions	ظروف معقدة
+complex offence	جريمة مركَّبة
+Compliance Framework	إطار الإمتثال
+Components	عناصر
+composition between merchant and creditors	صلح بين المدين المفلس ودائنيه
+composition tax	ضريبة جزافية
+Compounding Periods Per Year	فترات مركبة سنوية
+Comprehensive Economic And Trade Agreement (CETA)	اتفاقية اقتصادية وتجارية شاملة
+comprehensive insurance; all-in insurance	تأمين شامل، تأمين ضد جميع الأخطار
+compromise	صُلْح، تسوية (نـزاع)
+compulsory	إجباريّ
+compulsory labour	شغل إجباريّ، عمل إجباريّ
+Compulsory License	ترخيص إجباري
+compulsory unemployment insurance	تأمين إجباريّ على البطالة
+computer crime	جريمة معلوماتية
+concealment	تكتُّم، إخفاء / تستر
+Concentration Ratio	نسبة تركيز
+Conceptual Rule-Based Definitions	مفاهيم قائمة على القواعد
+Conceptual Skills	مهارات مفاهيمية
+concession	امتياز
+concession of public services	امتياز لتسيير المرافق العامة
+conciliation	توفيق
+conciliatory arbitration	تحكيم رضائيّ
+Conciliatory Settlement	تسوية صلحية
+Conclude the Contract	إبرام العقد
+conclusion of contract	إبرام عقد
+concubinage	معاشرة غير شرعية
+concurrence of infractions; concourse of crimes	تعدُّد الجرائم
+condemnation sentence	حُكْم بالإدانة
+condition	شَرْط / شرط
+condition of avoidance	شرط فاسخ
+Condition-Based Maintenance (CBM)	صيانة حسب الحالة
+conditional acceptance	قبول معلق على شرط
+Conditional Acceptances	قبول مشروط
+Conditional Debt	دَيْن معلق على شرط
+conditional obligation	التزام شرطيّ / التزام معلق على شرط
+conditional release	إفراج شرطيّ، إفراج مشروط
+Conditions	شروط
+confederation	اتحاد تعاهديّ، كونفدرالية
+Confederation Of British Industry (CBI)	اتحاد الصناعة البريطاني
+Confession	اعتراف
+confession; recognition	اعتراف، إقرار
+confidential	سريّ
+confidentiality	سرية
+Confidentiality Agreements	اتفاقات السرية
+Configuration Management Strategy Document	وثيقة استراتيجية إدارة التكوين
+Configuration Of Activities	ترتيب الأنشطة
+confinement	سَجْن
+confirmation	تأكيد، إقرار
+confirmative act	قرار مؤكِّد
+confirmed documentary credit	اعتماد مستنديّ مؤكَّد
+confiscate (to)	صَادَر
+confiscation	مُصَادرة / مصادرة
+confiscation of property	مصادرة ممتلكات، مصادرة أموال
+conflict	نزاع
+conflict management	إدارة الصراع، إدارة النـزاع
+Conflict Minerals	معادن الصراع
+Conflict of Interest	تعارض المصالح / تضارب المصالح
+conflict of interests	تضارب المصالح، تنازع المصالح
+conflict of jurisdiction	تنازع المحاكم، تنازع الاختصاص / تنازع الاختصاص
+conflict of laws	تنازع القوانين
+conflict of legal definition	تنازع التكييف
+conflict of nationalities	تنازع الجنسيات
+conflict resolution	تسوية النـزاع، حلُّ النـزاع
+Conflict Resolution; Adjudication	حل النزاعات
+Conformity European (CE)	كونفورمايت يوروبين
+confrontation	مُواجَهة
+Confuses the public	إحداث لبس لدى الجمهور
+confusion	اتحاد الذمة، خَلْط
+congress	مؤتَمَر
+conjugal fidelity	أمانة (ال..) الزوجية
+Connected Stakeholder	صاحب مصلحة (حملة الأسهم) المتصلين
+Connectors	روابط
+connexity of offenses	ارتباط الجرائم
+connivance	تواطؤ
+conquest	غَزْو
+consensual act	تصرُّف رضائيّ
+consensual contract; simple contract	عقد رضائيّ
+consensual partition	قسمة رضائية
+consensus	وفاق الآراء، إجماع
+consent	موافقة، رضى / رضا
+Consequential Loss	الخسارة التبعية
+conservatory act	إجراء تحفظيّ، عمل تحفظيّ
+conservatory seizure; garnishment	حَجْز تحفظيّ
+Consideration	الاستقلالية
+consignation; deposit	إيداع
+consignee	مُرْسَل إليه
+consignee of the shipment; consignee of the cargo; depositary of cargo	وكيل بحريّ، أمين الحمولة
+Consignment Stocking	تخزين شحنة
+consolidation (of two rights)	ضَمُّ حقَّين (اتحاد الحقوق)
+consolidation of actions; process junction	ضَمُّ الدعاوى
+Consortia Procurement	مشتريات تكتلية
+Consortium	تحالف
+conspiracy	مؤامرة / تآمر
+Constant	عائد ثابت
+constituent assembly	مجلس تأسيسيّ، جمعية تأسيسية
+constituting effect	أثر منشِئ
+constitution	دستور، قانون أساسيّ / دستور
+constitutional	دستوريّ
+constitutional act	إجراء دستوريّ
+constitutional amendment; constitutional modification	تعديل دستوريّ
+constitutional council	مجلس دستوريّ
+constitutional court	محكمة دستورية
+constitutional custom	عُرْف دستوريّ
+constitutional democracy	ديمقراطية دستورية
+constitutional drafting commission	لجنة صياغة الدستور، لجنة إعداد الدستور
+constitutional history	تاريخ دستوريّ
+constitutional institution	مؤسسة دستورية
+constitutional law	قانون (ال..) الدستوريّ
+constitutional monarchy	مَلَكية دستورية
+constitutional oath	يمين دستورية
+constitutional referendum	استفتاء دستوريّ
+constitutional reform	إصلاح دستوريّ
+constitutional right	حقٌّ دستوريّ
+constitutional system; constitutional regime	نظام دستوريّ
+constitutionality of laws	دستورية القوانين
+constitutive act	تصرُّف منشِئ
+constitutive judgment	حُكْم منشِئ
+constitutive power	سلطة تأسيسية
+Constraint	قيد (قيود)
+constraint; menace fine	غرامة تهديدية
+Construct Validity	صلاحية تنبؤية
+consular register	سِجلّ قُنصليّ
+consulate	قنصلية
+Consultants	استشاريون/ مهنيون
+consultation	استشارة
+consultative assembly	جمعية استشارية
+consulting barrister	محامٍ استشاريّ
+consumer	مستهلِك
+Consumer Contracts	عقود المستهلك
+consumer law	قانون المستهلِك
+Consumer Markets	أسواق استهلاكية
+Consumer Order Decoupling Point (CODP)	نقطة فصل طلب المستهلك
+Consumers	مستهلكون
+consumption	إتمام، استهلاك
+consumption goods and services	سلع وخدمات استهلاكية
+Contained Change	متضمن التغيير
+contempt	انتهاك، احتقار
+contempt of court	انتهاك حرمة المحكمة
+continental shelf	جرف قاريّ
+continental waters	مياه قارية
+Contingency	طارئ
+Contingency Plan	خطة طوارئ
+Continuing Professional Development	تطوير المهني المستمر
+Continuing Professional Development (CPD)	تطوير المنتج التعاوني
+Continuous Improvement	تحسن مستمر
+continuous offence; continuous crime	جريمة مستمرة
+Continuous Replenishment	التجديد المستمر
+contract	عَقْد / عقد
+Contract Awarding	إرساء العقد
+Contract By Formal Deed Or Seal	عقد بصك رسمي أو ختم رسمي
+contract by mutual agreement	تعاقُد بالتراضي
+Contract Change	تغيير العقد
+Contract Compliance	الالتزام الأساسي
+Contract For Difference (CFD)	عقد الإفتراق
+Contract Formation	تكوين العقد
+Contract Frustration	إحباط العقد
+Contract Leakage	تسرب العقد
+Contract Management	إدارة العقود
+Contract Of Affreightment	عقد الشحن
+contract of enterprise	عقد المقاولة
+Contract of Exchange	عقد المعاوضة
+Contract of Sale	عقد البيع
+contract of supply	عقد توريد
+Contract Price Adjustment	تعديل سعر العقد
+Contract Register	سجل العقد
+Contract Regulations	لوائح العقود
+contract Spot	عقد فوري
+Contract Terms	شروط العقد
+Contract Variation	اختلاف العقد
+Contracting	تعاقد / تعاقد / اتفاق / تعهد
+contracting party	طرف متعاقِد
+Contracting State	دولة متعاقدة
+contractor	متعاقِد
+Contractors	متعاقدون
+contractual compensations	تعويضات اتفاقية
+Contractual Flow Downs	انخفاض التدفق التعاقدي
+contractual liability; contractual responsibility	مسؤولية عقدية
+Contractual license	ترخيص تعاقدي
+Contractual Obligation	التزام تعاقدي
+Contractual Relationship	علاقة تعاقدية
+Contractual Year	سنة عقدية
+contradiction	تناقُض
+contradictory decision	مقرر قضائيّ حضوريّ
+contrariety of judgments	تعارُض الأحكام
+contravention	مُخالفَة
+Contributed Value	مساهمة القيمة
+contribution	حصة، مُشَارَكة
+contribution in cash	حصة نقدية، مشاركة نقدية
+contribution in kind	حصة عينية
+control	مراقبَة
+Control Charts	مخططات الرقابة / المراقبة
+control of corporations	مراقبة الشركات
+Control Systems	أنظمة المراقبة
+Control; Monitoring	مراقبة
+controller	مُراقِب، مُراجِع
+Convention	اتفاقية
+convention; agreement	اتفاقية
+conventional caution	كَفالةٌ اتفاقيةٌ
+conventional compensation	مقاصةٌ اتفاقيةٌ
+conventional interests	فوائدٌ اتفاقيةٌ
+conventional servitude	ارتفاق اتفاقيّ
+conventional solidarity	تضامُن اتفاقيّ
+conventional subrogation	حلول اتفاقيّ
+conversion	تحويل
+convertibility	قابلية التحويل (في النقد)
+conveyance	تصرُّف ناقِل (الحق)
+Conviction	إدانة
+conviction; condemnation	إدانة
+convocation; summons	دعوة، استدعاء
+Cooperative Insurance	تأمين تعاوني
+Copied works	مصنفات منسوخة
+Copy of the Notification	صورة التبليغ
+Copy right	حق النسخ
+Copying	النسخ
+Copying the work	نسخ المصنف
+Copyright	حق المؤلف
+copyrights	حقوق المؤلِّف
+Core Activities	أنشطة أساسية
+Core Competencies	كفاءات أساسية
+corporal punishment	عقوبة بدنية / عقاب بدني
+Corporate Citizenship Behavior	سلوك مواطنة الشركات
+corporate debts	ديون الشركة
+Corporate Goals	أهداف الشركات
+Corporate Governance	حوكمة الشركات
+corporate income tax	ضريبة على الشركات
+Corporate Inversions	انقلابات الشركات
+Corporate Objectives	أهداف الشركة
+Corporate Positioning	وضع الشركات
+Corporate Risks	مخاطر الشركات
+Corporate Social Responsibility (CSR)	المسؤولية الاجتماعية للشركات
+Corporate Strategy	استراتيجية مؤسسية
+corpus delicti	جسم الجريمة
+corpus juris	مدوَّنة
+correctional court	محكمة الجنح
+Corrective Action	إجراء تصحيحي
+Corrective Action Plan (CAP)	خطة العمل التصحيحية
+Correlation	الإرتباط
+corrupt	فاسِد، مُرتشٍ
+corruption	فساد، رشوة / فساد
+Corruption of work	تشويه المصنف
+Cost Advantage	ميزة سعرية
+Cost Analysis	تحليل التكلفة
+Cost Avoidance	تجنب التكلفة
+Cost Base	أساس التكلفة
+Cost Benefit	تكاليف ومنفعة
+Cost Consultant	إستشاري تكلفة
+Cost Driver	محرك التكلفة
+Cost Estimating	تقدير التكاليف
+Cost Impact	تأثير التكلفة
+Cost Leadership	قيادة التكلفة
+Cost Management	إدارة التكاليف
+Cost Modelling	نمذجة التكلفة
+Cost Of Sales (COS)	تكلفة المبيعات
+Cost Reimbursable Contract	عقد التكلفة القابلة للاسترداد
+Cost To Serve	تكلفة للخدمة
+Cost-Based Metrics	مقاييس القائمة على التكلفة
+Cost-Based Pricing	تسعير على أساس التكلفة
+Cost-Down Approach	نهج خفض التكلفة
+Cost-Out Approach	نهج التكلفة
+Cost-Plus Arrangements	تعاقب التكلفة الزائدة
+Cost-plus award fee(CPAF)	رسوم ترسية التكلفة الإضافية
+Cost-Plus Pricing	تسعير على أساس التكلفة زائد
+Cost-Reimbursable Contract	عقد استرداد التكاليف
+Cost-Responsiveness Frontier	حدود الاستجابة من حيث التكلفة
+Cost; Cost Object	تكلفة
+costs	مصاريف
+Cost–Benefit Analysis	تحليل التكاليف والعائد
+Cottage Industry	صناعات منزلية
+Council of Ministers	مجلس الوزراء
+Council of Ministers Resolution	قرار مجلس الوزراء
+counsellor	مستشار
+Counter Offer	عرض مقابل
+counterclaim	طلب مضاد
+Counterfeit goods	سلع مزورة
+Counterfeit works	مصنفات مزورة
+counterfeiting	تزييف، تزوير
+counterfoil; stub	أرومة (شيك أو صك)
+countersignature	توقيع بالعطف
+country planning	تخطيط إقليميّ
+Court	محكمة
+Court Administration	إدارة المحكمة
+court chamber	غرفة المشورة
+court costs	مصاريف الدعوى
+Court Jurisdiction	الإختصاص القضائي
+court of appeal	محكمة استئناف
+Court of Appeals	محكمة الاستئناف
+court of cassation	محكمة النقض، محكمة التمييز
+court of first instance	محكمة ابتدائية / محكمة الدرجة الأولى
+court room	قاعة المحكمة
+Court’s Jurisdiction	اختصاص المحكمة
+Creating Shared Value	خلق قيمة مشتركة
+Creative	ابتكاري
+Creative Evolution	تطور إبداعي
+Creative works	مصنفات مبتكرة
+Creator’s own intellectual effort	جهد فكري بذله المبتكر
+credentials	أوراق اعتماد
+credit card	بطاقة اعتماد (مصرفية)
+Credit Check	فحص الائتمان
+credit facilities	تسهيلات ائتمانية
+credit insurance	تأمين ضمان
+Credit Rating	التصنيف الائتماني
+credit sale; instalment sale	بَيْع بالتقسيط
+Credit Terms	شروط الائتمان
+Credit Watch List	قائمة مراقبة الائتمان
+creditor	دائن
+creditor account	حساب دائنية
+Crime	جريمة
+crime against humanity	جريمة ضد الإنسانية
+crime against person	جريمة ضد شخص
+Crime Impinging on Honor	جريمة مخلة بالشرف
+Crime Impinging on Integrity	جريمة مخلة بالأمانة
+crime level; crime rate	نسبة الإجرام، مستوى الإجرام
+crime of aggression	جريمة العدوان، جريمة الاعتداء
+crime of omission	جريمة سلبية، جريمة الامتناع
+crime scene	مسرح الجريمة، مكان وقوع الجريمة
+crime victim	ضحية جريمة
+criminal	مجرم
+criminal act	فعل جنائيّ، عمل إجراميّ
+criminal action	دعوى جنائية
+criminal behaviour; criminal conduct	سلوك إجراميّ
+criminal business law	قانون جنائيّ للأعمال
+criminal case	قضية جنائية
+criminal court	محكمة جنائية / محكمة جزائية
+criminal intent	قصد جنائيّ
+Criminal Investigation	تحقيق جنائي
+Criminal Judgment	حكم جزائي
+criminal law	قانون جنائيّ، قانون العقوبات
+Criminal Liability	مسؤولية جزائية / مسؤولية جنائية
+criminal police	شرطة جنائية
+criminal policy	سياسة جنائية
+criminal procedure law	قانون المسطرة الجنائية، قانون الإجراءات الجزائية، قانون الإجراءات الجنائية
+Criminal Prosecution	ملاحقة جنائية
+Criminal Record	سجل جنائي
+criminal responsibility; criminal liability	مسؤولية جنائية
+criminal sociology	علم الاجتماع الجنائيّ
+criminality	إجرام
+criminalization	تجريم
+criminologist	مختص في علم الإجرام
+criminology	علم الإجرام
+crisis	أزمة
+Criteria of patentability	معاير قابلية منح البراءة
+criterion of connection	معيار الإسناد
+Critical Chain Methodology	منهجية السلسلة الحرجة
+Critical Factor	عامل حاسم
+Critical Mass	كتلة حرجة
+Critical Path	مسار الحرج
+Critical Reflection	التفكير النقدي
+Critical Service Level	مستوى الخدمة الحرج
+Critical Success Factors (Csfs)	عوامل النجاح الحاسمة
+Critical-Dialectical Discourse	خطاب جدلي نقدي
+Cronyism	محسوبية
+crop-sharing	مزارعة
+cross-appeal	استئناف مقابل
+Cross-Docking	توزيع البضائع
+Cross-Functional Activity	فرق متعددة الوظائف
+Cross-Functional Collaboration; Cross-Functional Involvement	تعاون متعدد الوظائف
+Cross-Functional Team	فريق متداخل الوظائف
+Cross-Organizational Teams	فرق عبر المنظمات
+Cross-Selling	بيع متقاطع
+crossed cheque	صكٌّ مُسطَّر، شيك مُسطَّر
+Crowdsourcing	التوريد / التحويل الجماعي
+Crown Prince	ولي العهد
+Crystallized	تبلور
+Cultural Dimensions	أبعاد ثقافية
+Cultural Diversity	تنوع ثقافي
+Cultural Relativism	نسبية ثقافية
+Cultural Silos	صوامع ثقافية
+Culture	ثقافة
+currencies	عملات
+Currency	عملة
+Currency Hedging	تحوط العملات
+Currency Option	خيار العملة
+Currency Speculators	مضاربون بالعملة
+Currency Swap	مقايضة العملات
+Current (Liquidity) Ratio	نسبة (السيولة) الحالية
+current account	حساب جارٍ / حساب حالي
+Current Assets	اصول المتداولة
+Current Liabilities	خصوم متداولة
+Current Ratio	نسبة حالية
+custody	حضانة
+custom	عُرْف / عرف
+customary law; common law	قانون عرفيّ
+Customer Churn	إنشقاق العملاء
+Customer Portfolio Analysis	تحليل محفظة العملاء
+Customer Service	خدمة العملاء
+Customer Service Management	إدارة خدمة العملاء
+Customer Switching Costs	تكاليف تبديل العملاء
+Customer Value-Based Pricing	تسعير على أساس قيمة العميل
+customer; clientele	زبائن
+customs	جُمْرك / جمارك
+customs declaration	تصريح جمركيّ
+Customs Duties	رسوم جمركية
+Customs Fine	غرامة جمركية
+customs union	اتحاد جمركيّ
+Cyber Attack	هجوم الانترنت
+cyber criminality	إجرام معلوماتيّ، إجرام سيبرانيّ
+Cyber Risks	مخاطر السيبرانية
+Cyber Security	أمن الإلكتروني
+Cybercrime	جريمة الكترونية
+Cybernetics	علم التحكم الذاتي
+Cycle Stocks	مخزون الدوري
+Cycle Time	دورة الزمن

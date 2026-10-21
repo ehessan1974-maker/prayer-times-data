@@ -1,0 +1,189 @@
+X	X
+X Align	ترصيف
+x axis	المِحْوَرُ x (مِحْوَرُ السِّينات، مِحْوَرُ الفَواصِل)
+X chromatin	كروماتين X
+X chromosome	صبغيّ X
+X chromosome inactivation	تعطيل صبغيّ X
+x component	المُرَكِّبة x (المُرَكِّبةُ السِّينِيَّة)
+X Consortium	تجمُّع X
+x coordinate	الإحْداثِيّ x (الإحْداثِيُّ السِّينِيّ)
+X series	سلسلة [توصيات] X
+X terminal	X مطراف
+X test	الاخْتِبار X
+X Window System	نظام X Window
+X Windows	[نظام] X Windows
+X-aerial	هَوائِيّ مُتَصالِب
+X-amplifier	مُضَخِّم المُرَكِّبَةِ ألأُفُقِيَّة
+X-axis	مِحْوَرُ السِّينات، ألمِحورُ السِّيني؛ المِحْوَرُ الطّوليّ (في مَركبةٍ فضائيَّة مِن المقدّمة إلى المؤخرة) / محور x (محور السينات) / محور سيني / محور السينات
+X-band	نطاقُ التردُّداتِ (الراداريَّة) السينية
+X-bit	لُقمةُ حَفْرٍ مُتصالِبة
+X-brace	شِكالٌ تَصالُبي
+X-bracing = cross bracing	تكتيفٌ مُتَصالِب
+X-bridge	قنطرة إكس
+X-chisel	إزميلٌ ذو حَدٍّ مُتَصالِب (بشكل X)
+X-chromosome	صِبْغِيُّ إكس، الصِّبْغِيُّ السِّينيّ / صبغي، x كروموسوم
+X-co-ordinate	احداثي سينّي
+X-coordinate	الإحداثِيُّ السينيّ
+X-cut	قَطْعٌ سِينيّ
+X-cut crystal	بلّورةٌ (كْوَارْتزِيَّةٌ) سِينيَّةُ القَطْع
+x-height	ارتفاع [الحرف] x
+X-line	خَطٌّ سِينيّ
+X-plates	صفيحتا س
+X-position	الموقِعُ السِّيني
+X-punch	تثقيبٌ سِينيّ
+X-radiate	عرَّضَ للأشعة السِّينية
+X-radiation	إشعاع سِينيّ؛ تعريضٌ لِلأشِعَّةِ السينية (أو أشِعَّة إكْس)
+X-ray	شُعاعٌ سِينيّ؛ صُورةٌ بالأشعةِ السينية (أو أشعة إكْس)؛ صَوَّرَ أو عالَجَ بأشِعَّةِ إكْس / أشعة سينية، أشعة إكس
+X-ray absorptiometer	مِقياسُ الاِمتِصاصية لأشِعّة إكس
+X-ray analysis	تَحليلٌ بأشِعَّة إكْس، تَحليلٌ بالأشعَّة السِّينية
+X-ray astronomy	ألدراسةُ الفَلَكِيَّة لمصادر الأشعة السينيَّة (خارج النظام الشمسي)
+X-ray camera	مُصَوِّرة سينيَّة
+X-ray crystallography	دِراسةُ البلّوريّات بأشِعَّة إكْس
+X-ray diffraction	حيُود (أو انعِراجُ) الأشِعَّة السِّينيّة
+X-ray diffractometer	مِقياسُ انعِراج الأشِعَّة السِّينيَّة
+X-ray emission	اِبتعاث الأشِعَّة السِّينيّة
+X-ray examination	فَحصٌ بأشِعَّة إكْس
+X-ray field	مَجالُ الأشِعَّة السِّينيّة
+X-ray film	فِيلمُ التصويرِ بالأشِعَّة السِّينيّة
+X-ray fluorescence	فَلوريَّةُ الأشعة السِّينيَّة
+X-ray fluorimetry	التحليلُ الفَلوريّ بالأشِعَّة السِّينيَّة
+X-ray focal spot	ألنُّقطَةُ البُؤْريَّة لِلأشِعَّة السِّينيَّة
+X-ray hardness	صَلادةُ الأشعة السِّينية
+x-ray inspection	كشف بأشعة إكس، فحص بالأشعة السينية
+X-ray investigation	اِستِقصاءٌ بالأشِعَّة السِّينيّة
+X-ray lamp	مِصباحُ (توليدِ) الأشِعَّة السِّينيّة
+X-ray laser	لِيزر الأشِعَّة السِّينيّة
+X-ray leak detector	مِكشافُ سُروب بالأشِعَّة السِّينيّة
+X-ray load	حِمْلُ الأشعة السينيَّة
+X-ray machine	مَكَنَةُ (تَوليد وَتَوجيهِ) الأشِعَّة السِّينيّة
+X-ray micrography	ألتصويرُ المِجهَرِيّ بالأشِعَّة السِّينيّة
+X-ray microscope	مِجْهَرُ الأشِعَّة السِّينيّة
+X-ray photograph	صُورةٌ بالأشِعَّة السِّينيّة
+X-ray photography	ألتصويرُ بالأشِعَّة السِّينيّة، ألتصويرُ بأشِعَّة إكْس
+X-ray projection microscope	مِجْهَرٌ إسقاطيّ بأشِعَّة إكْس
+X-ray protective glass	زُجاجٌ واقٍ من الأشِعَّة السِّينيَّة
+X-ray radiography	التصويرُ بالأشِعَّة السِّينيّة
+X-ray screen	سِتارُ الأشِعَّة السِّينيّة
+X-ray shield	مِدْرَأُ الأشِعَّة السِّينيّة
+X-ray spectrogram	صُورةٌ طَيفِيَّةٌ لِلأَشِعَّةِ السِّينيَّة
+X-ray spectrograph	مِرْسَمَةُ طَيْفِ الأشِعَّة السِّينيّة، مِطيافُ أشعة إكس
+X-ray spectrography	الدراسة الطيفيَّة بالأشعَّة السِّينيَّة (في التحليل الكيماوي)
+X-ray spectrometer	مِطْيَفُ (مِقياسُ طَيْفِ) الأشِعَّة السِّينيّة
+X-ray spectrum	طَيْفُ الأشِعَّة السِّينيّة، طَيفُ أشِعَّة إكْس
+X-ray stars	نُجومُ الأشِعَّة السِّينيّة
+X-ray structure	البِنْيَة (البلورية) بالأشِعَّة السِّينيّة
+X-ray telescope	مِقرابُ الأشِعَّة السِّينيّة
+X-ray therapy	ألمُعالجَةُ بالأشِعَّة السِّينيّة
+X-ray transformer	مُحَوِّلُ تَغْذِيةِ أنبوب الأشِعَّة السِّينيّة
+X-ray tube	صِمامُ الأشِعَّة السِّينيّة، أُنبوبُ (توليدِ) الأشِعَّة السِّينيّة
+X-ray tube target	هدَفُ صِمامِ الأشعَّةِ السِّينيَّة
+X-ray tube, hot-cathode	أُنبوبُ الأشعةِ السِّينيَّة الساخنُ الكاثود
+X-ray unit -	وحدة أشعة سينيَّة
+X-ray unit, external pipeline	وحدة أشعة سينية لخارج الانابيب
+X-ray unit, internal pipeline	وحدة أشعة سينيَّة لداخل الأنابيب
+X-ray; X-radiation	أشعة سينية
+x-rays	أشعة سينية، أشعة إكس / أشعة سينية
+X-rays = Roentgen rays	أشِعَّةُ إكْس، أشِعَّةُ رونْتجِن، الأشِعَّة السِّينيّة
+X-rays, secondary	الأشِعَّة السِّينيّة الثانوية
+X-spring	نابِضٌ رَقائِقِيّ مُتَصالِب
+X-unit (or Xu)	وَحْدَةٌ سينيَّة
+X-waves	أمواجٌ سِينيَّة
+X-Y display	مظهار X-Y
+x-y matrix	مصفوفة x-y
+x-y plotter	راسمة x-y
+X-Y recorder	مُسَجِّلٌ سِينيّ صادِيّ
+X-Y-Z co-ordinates	احداثيات س، ص،ع
+x-y-z coordinate system	نظام الإحداثيات x-y-z
+X-Y-Z intercepts	محصورات س، ص،ع
+X-Y-Z- axes	محاور س، ص،ع
+X.25	[التوصية] X.25
+x86	x86
+xanth(o)-	بادئة بمعنى: أصفَر، صَفراوي
+xantha	زانثا
+xanthate	زَنْثَات
+xanthation	زَنْثَنَة (السِّليُولوز)
+xanthene dye	صِبْغٌ زَنْثينِيّ
+xanthic acid	حامِضُ الزّنْثِيك، حامِضُ الصّفراوِيك
+xanthoceras	صفراء القرون
+xanthophyll	يَصْفُور / يصفور / صبغ أصفر، اكسانتوفيل
+xanthorrhiza	صفراء العروق
+xanthosoma	لوف أصفر
+xanthoxylum; zanthoxylum	فاغرة
+XCMD	أمر (إيعاز) خارجيٌّ
+XDMCP socket	السوكت المحلّية
+Xe (xenon)	نِز
+xen(o)-	بادئة بمعنى: دَخيل، أجنبي، غَريب
+xenia	تلقاح
+XENIX	[نظامُ التشغيل] XENIX
+xenoblastic	دَخيلُ البَلْوَرة
+xenocryst	بِلَّورةٌ دَخيلة
+xenocryst; disomatic	بلورات خارجية المنشأ
+xenogamy	لقح تهجيني
+xenogamy = cross fertilization	تَلقيحٌ خَلْطِيّ، إخصابٌ تَهْجِينِيّ
+xenogenous	أجنبيُّ المَنْشأ، دَخيل
+xenolith	صَخْرٌ دَخيل / صخر حبيس، صخر دخيل / صخر حبيس
+xenomorph	عديم الأوجه
+xenomorph; xenomorphic, anhedral	عديم الأوجه
+xenomorphic	غَريبُ الشَّكل (أو التشكُّل)
+xenomorphic structure	بنية ناقصة الشكل
+xenon (Xe)	الزِّنُون
+xenon lamp	مِصباحُ الزّنُون / مصباح غاز الزينون
+xenoplastic transplantation	غَرْس غيريّ
+xenothermal	ذو منشأ حراري سطحي / ذو منشأ حراري سطحي، ذو منشأ متسم بالحرارة والجفاف
+xenothermal deposit	قُرارة حرارية دَخيلة
+xenotime	زينوتايم
+xer(o)-	بادئة بمعنى: جافّ، جَفافي
+xeranthemum annum	حولية
+xeric	جَفافيّ؛ أليفُ الجَفاف
+xerography	ألتصويرُ الجافّ
+xerophil(e)	أَليفُ الجَفاف
+xerophillous	أليف الجفاف
+xerophyte	نباتٌ جَفَافِيّ، نباتٌ صَحْراوي
+xerophyte stem	ساق جفافية
+xerophytes	نباتات جفافية
+xerophytic leaves	أوراق جفافية
+xeroradiography	ألتصويرُ الشُّعاعي الجافُّ (بأشِعة إكس)
+xerotherm	نبات حراري جَفافي
+xerothermic	حارٌّ جافّ
+xerox	صوَّر نُسخةً بالطَّبع الجافّ؛ تصوير (أو صورةٌ) بالطبع الجافّ
+Xerox PARC	مركز أبحاث Xerox في Palo Alto
+XFCN	وظيفة خارجية
+XG blood group	زمرة الدم XG
+XGA	صفيفة البيانيات الموسَّعة
+Xi particle	جُسَيْمُ كْسَاي
+xiphidae	سيفية
+xiphoid cartilage	غضروف خنجري، عظم القص
+Xmas tree = Christmas tree	شجرةُ الصِّمامات (على فُوَّهة بئر النّفط)
+xmitter	جهازُ إرسال
+XML Injection	حقن في ملف XML
+XML-based Morphological Definition Language (XMODEL)	لغةُ العريفِ الصرفيّ المُعْتَمِدَةُ على لغةِ التوصيف الموسَّعة
+Xmodem	[ميفاق] Xmodem
+Xmodem 1K	[ميفاق] Xmodem 1K
+Xmodem-CRC	[ميفاق] Xmodem-CRC
+XMS	توصيف الذاكرة الممدَّدة
+XMT	إرسال
+XO	XO
+XO monosomy	أحادية الصبغيّ XO
+XON/XOFF	[ميفاق] XON/XOFF
+XOR	خيار مقصور
+XT keyboard	لوحة مفاتيح XT
+XXY	ثلاثية XXY
+XY, YZ, ZX planes	مستويات س ص، ص ع،ع س
+xylanthrax	فَحمُ الخَشَب
+xylem	نَسيجُ الخَشَب، خَشَب / زيلين
+xylem maturation	نضج الخشب، اكتمال نمو الخشب
+xylem mother cells	خلايا الخشب الأم
+xylem; wood	نسيج وعائي خشبي، خشب
+xylene = xylol	زَيْلين، زَيْلُول، زيتُ الخَشَب
+xylenol	زَيْلِينُول
+xylenol resin	راتينَج الزَّيْلينُول
+xylidine	زَيْلِيدين
+xyloid	خَشَباني، شَبيهٌ بالخشب
+xylol = xylene	زَيْلُول، زَيْلين
+xylonite	زَيْلُونيت، سِلْيُولُويْد
+xylophagous	آكل الخشب
+xylophone	زَيْلُوفون؛ خَشَبيَّة
+xylopia aethiopica	فلفل السودان
+xylose = wood sugar	زَيْلُوز، سُكَّر الخَشَب
+XYY	ثلاثية XYY
+X’s (or Xs) = atmospherics	شَوَاشٌ راديوي (بفِعْلِ الظواهر الجَوِّيَّة)

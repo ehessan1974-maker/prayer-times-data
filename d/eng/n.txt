@@ -1,0 +1,1836 @@
+N type semiconductor	شبه موصل سالب النوع
+n-adic Boolean operation	عملية بوليان ذات التكامل المتعدد (n)
+n-ary (digital) signal	إشارة رقمية متعددة القيم
+n-ary digit	رقم متعدد الخانات / عنصر من مصفوفة نونية
+n-ary digit rate	معدل رقمى متعدد القيم
+n-ary, adj	مصفوفة أعداد, صفة
+n-bit byte	مجموجعة أعداد ثنائية / مجموعة أعداد ثنائية نونية الخانة
+n-bit byte (1)	مجموعة أعداد ثنائية نونية الخانة (1)
+n-bit byte (2)	مجموعة أعداد ثنائية نونية الخانة (2)
+n-bit byte (in digital transmission)	مجموعة عناصر ثنائية (في نظام إرسال رقمي)
+n-bit byte,	مجموعة أعداد ثنائية,
+N-channel field-effect transistor	ترانزستور(محكوم بالمجال الكهربائي) ذوقناةN
+N-code	شِفرة ـ ن
+n-condition frequency shift keying ; n-FSK (abbreviation)	مفتاح ازاحة التردد بعدد من الشروط
+N-display	شاشة عرض ـ ن
+N-doping	منشطات - N
+N-gate thyristor	ثايرستور ذو بوابة N
+n-port	متعدد المنافذ
+n-port; multiport	متعدد المنافذ
+N-sector	قطاع ـ ن
+n-state amplitude phase shift keying; n-APSK (abbreviation)	مفاتيح ازاحة طور الاتساع متعدد الحالات
+n-state quadrature amplitude modulation; n-QAM (abbreviation)	تضمين اتساع تربيعي متعدد الحالات
+n-step starter	بادئ حركة بخطوات n
+n-step-warehousing	مستويات التخزين
+N-strut	عمود ـ N
+n-terminal capacitor	مكثف بعدد N طرف
+n-terminal circuit	دارة متعددة الأطراف (n)
+n-terminal circuit element	عنصر دارة متعددة الأطراف (n)
+n-terminal device	جهاز متعدد الأطراف
+n-terminal inductor	ملف حثي بعدد N طرف
+n-terminal network	شبكة متعددة الأطراف بعدد n
+n-terminal resistor	مقاومة بعدد N طرف
+n-terminal, adj	متعدد الأطراف (n)
+n-terminal-pair network	شبكة زوج متعددة الأطراف بعدد n
+n-tier software architecture	مستويات هيكل البرامج
+n-truss	جائز شبكي على شكل حرف N
+N-type conductivity	موصليه سالبه N
+N-type semiconductor	شبه موصل من النوع N / شبه موصِّل سالب / نصف ناقل نوع N
+N-unit	وحدة N
+n-unit code	رمز (شفرة) وحدة (نونية)
+n-unit code alphabet	أبجديّة شفرة بعدد نوني
+N-version programming; NVP	برمجة متعددة النسخ
+N-wave	موجات ـ N
+N-year flood probabilty	(فيضان احنمالي 1 نيوتن (وحدة
+N2O	N2O
+NACA	ناكا
+NACA cowling	واقية ناكا
+NACA section	مقطع ناكا
+NACA Standard Atmosphere	جو ناكا النظامي
+nacelle	هيكل المحرك / كِنَّة / كنة
+nacre	عرق اللؤلؤ
+nacreous clouds	غيوم صدفية
+nacreous luster	لمعان لؤلؤي
+nacrite	ناكريت
+nadir	نظير (ال...) / نظير السمت
+nadir; periapsis	حضيض
+Naft 1 (KOTC product carrier)	ناقلة نفط 1 (ناقلة منتجات نفطية)
+nafta-reformate heat exchanger	مبادل حراري بين الصلاحة و النفتا
+nagoya protocol	بروتوكول ناغويا
+nagyagite	ناغياغايت
+nail	مسمار
+nail extractor	قلاّعة المسامير
+nail hammer; claw-hammer	مطرقة مخلبية
+nail headed	مسماريّ الرّأس
+nail punch; nail set	مغرزة المسامير
+nailed	مُسَمر
+nailed jointing	وُصَل بالمسامير
+nailer	صانع المسامير
+nailing	تسمير
+Najma layer	طبقة النجمة
+naked	عارٍ / مجرِّد من
+naked fashion	موضة العري
+naked mole-rat	فأر الخلد العاري
+naked wool	أصواف عارية
+nam, n.a.m.	مِيل ملاحة جوية
+name plate; rating plate	لوحة اسمية
+nameplate	لوحة الإسم
+naming authority	هيئة تحديد الأسماء؛ الهيئة المعنية بالتسمية
+NAMUR	لجنة المواصفات لهندسة القياس والتحكم في الصناعات الكيميائية (NAMUR)
+NAND	علاقة (ال...) المنطقية NAND
+Nankeen	نانكينج
+nano	نانو
+nano (prefix)	نانو
+nanocube	مكعب النانو
+nanofiltration	ترشيح نانوي
+nanofiltration (NF)	ترشيح نانوي / ترشيح نانويّ
+nanofiltration membrane	غِشاء ترشيح نانوي
+Nanogel	هلام نانوي
+nanometer	نانومتر
+nanosecond	نانو ثانية
+nanotube membranes	أنابيب نانوية غشائية
+nap	زئبر / زغب
+nap (to) [leather]	تخشين
+nap count	عدد البثور
+nap loden	جوخ مُقلِّم
+napalm	نابالم
+Napara®	نابارا
+nape	اقذف بالنابالم
+naphta	نفتا
+naphta and kerosene treating unit	وحدة معالجة النفتا و الكيروسين
+naphta caustic treating	معاجة النفتا بالصود الكاوي
+naphta caustic treating unit	وحدة معالجة النفتا بالصود الكاوي
+naphta furnace	فرن النفتا
+naphta stabilizing unit	وحدة تثبيت النفتا
+naphta-lean oil exchanger	مبادل الحرارة بين النفتا و زيت الامتصاص
+naphta-reformate exchanger	مبادل الحرارة بين النفتا و الصلاحة
+naphtenic acid	حَمْض النفتينيك
+naphtenic base	قاعدة نفتينية، أساس نفتيني
+naphth	نفط
+naphtha	نفط / نافثا
+Naphtha and Kerosene Treating Unit	وحدة معالجة النافثا والكيروسين
+Naphtha Caustic Treating Unit	وحدة معالجة النافثا بالمادة الكاوية
+naphtha fractionation unit	وحدة تكسير النافثا
+Naphtha Furnace	فرن النافثا
+Naphtha Stabilizing Unit	وحدة تركيز النافثا
+Naphtha-Lean Oil Exchanger	مُبادل الحرارة بين النافثا وزيت الامتصاص الخفيف
+Naphtha-Reformate Exchanger	مُبادل الحرارة بين النافثا والمُهذَّبات
+naphthenate	نفتينات
+Naphthenates	أملاح الأحماض النفتينية / ضروب النفتينات
+Naphthene Series	نفتينات / سلسلة النفتينات
+Naphthene-Base Crude (Asphalt-Base Crude)	خام أسفلتي الأساس
+Naphthenic Acid	أحماض نفتينية
+naphthenic acids	حُمُوض نفتينية
+naphthenic hydocarbons	ضروب الهدروكربون النفتية
+Naphthenic Hydrocarbons	هيدروكربونات نفتينية
+naphthenic insulating oil	زيت نفتيني عازل
+napier's diagram	مُخَطَّط نابير
+Napierian spectral absorption coefficient,	معامل إمتصاص طيفى نابيرنانى,
+nappa	نابا
+nappa fur	فرو المشمع
+nappa lambskin	نابا الخروف
+nappalan	جلد النابالان
+nappato	ناباتو
+napped pigskin suede / napped pork suede	وبر الخنزير المخشن
+naptha treatment unit	وحدة معالجة النافثا
+Naptha/ Mogas & LPG Sales Department	دائرة مبيعات النافثا/ البنزين والغاز المسال
+Napuco	نابوكو
+narrow band network	شبكة ضيقة النطاق
+narrow drain filled with coarse material	مَصْرِف ضيق
+narrow fabric	قماش نحيف
+narrow gauge	سكة حديدية ضيقة
+narrow grading	التصنيف الضيق
+narrow indented chisel	إزميل مخلبي
+narrow knife pleats	ثنيات مُسْتَوية
+narrow pennant	راية ضيقة
+narrow side	جَانِب ضيق
+narrow-beam attenuation	توهين حزمة ضيّقةِ؛ إضمحلال حزمة ضيقة
+narrow-body	نحيل الجسم
+narrow-gauge locomotive	قاطرة ضيقة السِكَّة
+narrowband device	جهاز ضيق النطاق
+narrowband disturbance	اضطراب ضيق النطاق
+NASA	ناسا
+NASC	المجلس الوطني للطيران والفضاء
+Nascent Clean Energy Industries	صناعات الطاقة النظيفة الناشئة
+natal dispersal	انتشار عند الولادة
+national accounting system (nas)	نظام محاسبة وطني
+National Action Plan for Renewable Energy (NREAP)	خطة العمل الوطنية للطاقة المتجددة (NREAP)
+national action programme (nap)	برنامج العمل الوطني / برنامج العمل الوطني (NAP)
+national action programme adoption	اعتماد برنامج عمل وطني
+national action programme formulation	صياغة برنامج العمل الوطني (لمكافحة التصحر)
+national adaptation programmes of action (napas)	برامج العمل الوطنية للتكيف
+national airline	خطوط جوية وطنية
+national allocation plan (NAP)	خطة تخصيص وطنية (NAP)
+National Almanac	التقويم الوطني
+national awareness seminar (nas)	ندوة توعية وطنية
+national biodiversity strategies and action plans (nbsaps)	استراتيجيات وطنية للتنوع البيولوجي وخطط العمل (NBSAP)
+national capacity self-assessment (ncsa)	تقييم ذاتي للقدرات الوطنية
+national carriers	ناقلات وطنية
+national communication	بلاغ وطني
+national communication strategy	استراتيجية التواصل الوطنية
+national conservation strategy	استراتيجية وطنية للحفظ
+national coordinating body (ncb)	هيئة التنسيق الوطنية
+national development plan	خطة التنمية الوطنية
+national economy	اقتصاد وطني
+national electronic autocoding technique 3; neat/3	تقنية التجفير التلقائي الألكتروني الوطني 3
+National Energy Efficiency Action Plan (NEEAP)	الخطة الوطنية لكفاءة الطاقة ( NEEAP )
+national environmental action plan (NEAP)	خطة عمل وطنية للبيئة
+national fine thread, (N.F.T.)	سن لولب أمريكي دقيق
+national focus points (nfp)	نقاط التركيز الوطنية (NFP)
+National Freight Trains	قِطاراتُ البَضائِعِ الوَطَنِيَّةُ
+national gas processors association, (N.G.P.A.)	تجمع منتجي الغاز الوطني
+national implementation measure (NIM)	تدابير التنفيذ الوطنية (NIM)
+National Industrial Development and Logistics Program (NDLIP)	برنامج تطوير الصناعة الوطنية والخدمات اللوجستية (ندلب)
+National Metrology Institute of Germany (PTB)	معهد (ال...) الفيدرالي التقني الفيزيائي (PTB)
+national oceanic and atmospheric administration (noaa)	(ال)إدارة الوطنية للمحيطات والغلاف الجوي (NOAA)
+National Oil Companies (NOC)	شركات النفط الوطنية (NOC)
+National Oil Companies (NOCs)	شركات نفطية وطنية
+national park	منتزه وطني
+National Passenger Trains	قِطاراتُ الرُكّابِ الوَطَنِيَّةُ
+national petroleum refiners association, (N.P.R.A.)	تجمع (ال...) الوطني لمكرري النفط
+national platform for disaster risk reduction	لجنة وطنية للحد من مخاطر الكوارث
+National Platform for Electric Mobility (NPE)	لجنة قومية للمركبات الكهربائية (NPE)
+National Policy on Radioactive Waste	السياسة الوطنية لإدارة النفايات المشعة
+national poverty line	خط وطني للفقر
+national poverty rate	نسبة الفقر على المستوى الوطني
+National Railroad Trains	قِطاراتُ الخُطُوطِ الحَدِيدِيَّة الوَطَنِيَّة
+National Renewable Energy Action Plan (NREAP)	خُطط العمل القومية للطاقة المُتجددة
+National Renewable Energy Action Plans (NREAPs)	خطط العمل الوطنية بشأن الطاقة المتجددة (NREAPs)
+National Renewable Energy Program ( NREP)	البرنامج الوطني للطاقة المتجددة
+national responsibility	مسؤولية وطنية
+National Search and Rescue Plan	مخطط البحث والإنقاذ الوطني
+national standard	معيار دولي
+National Standards	المواصفات القياسية الوطنية
+national strategy for sustainable development (NSSD)	استراتيجية وطنية للتنمية المستدامة
+national subscriber's telex number	رقم قومى لمشترك تلكس
+national support program [US]; national promotional program [US]	برنامج دعم وطني / برنامج دعم حكومي
+national support scheme	برنامج دعم وطني
+National target for Germany Renewable Energy Directive	الهدف الوطني لألمانيا من لجنة التوجيه للطاقات المتجددة
+National Transformation Program	برنامج التحول الوطني
+national transmission system	نظام قوميّ لنقل الغاز
+national use conflict	صراع استخدام وطني
+national water plan	خطة وطنية للمياه
+national waters	مياه وطنية، مياه إقليمية / مياه داخلية
+Nationally Appropriate Mitigation Action (NAMA)	إجراءات التخفيف الملائمة وطنيا (NAMA)
+nationally appropriate mitigation actions (namas)	إجراءات التخفيف الملائمة وطنيا
+nationwide census	إحصاء وطني للساكنة
+nationwide compensation scheme	خطة التعويض الاتحادية
+native	صِرْف
+native (plant/animal/species/ etc.)	أصلي (نبات / حيوان / نوع / الخ)
+native / indigenous	أصلي
+native carbon	كربون صِرْف
+Native Command Queuing	التَرْتِيبُ التَتابُعِيّ لِلأَوامِرِ الأَصْلِيَّةِ
+native fabrics / native fibers	ناتيفس
+Native Gas	غاز جوفي غير محقون / غاز أصلي
+native landscape	موقع طبيعي أصلي
+native minerals	صِرْفة
+native woodland	غابة أصلية
+Nato jacket	سترة الناتو
+natrolite	ناترولايت
+natté	جَدِيلَة
+natura 2000 network	شبكة ناتورا 2000
+natural	طبيعي
+natural actinic effect	تأثير أكتينى طبيعى
+natural angular frequency	تردد زاوي ذاتي
+natural area	منطقة طبيعية
+natural asphalt	أسفلت طَبِيعي / أسفلت طبيعي
+natural asphalt; native asphalt	أسفلت طبيعي
+natural assets™ information system (nais)	نظام المعلومات للأصول الطبيعية
+natural atmosphere	جوّ طبيعي
+natural attenuation	تخفيف طبيعي / تخفيف الطبيعي
+natural back ground radiation	إشعاع خلفي طبيعي
+natural balance	توازن طبيعي
+natural bio-ecosystems	نظم بيئية حيوية طبيعية
+natural blanket	غِطاء طبيعيّ
+natural budget	ميزانية الطبيعة
+natural buffet	دفيف طبيعي
+natural capital	رأس المال الطبيعي / رأسمال طبيعي
+Natural Carbon Sinks	أوساط طبيعية لامتصاص ثاني أكسيد الكربون
+natural cement	إسمنت طبيعي
+natural characteristic (of a line commutated converter)	خاصية طبيعيةلمغير تبديلي لخط
+natural circulation	دوران طبيعي للزيت
+natural circulation boiler	مرجل (غلاية) بدوران طبيعي / مِرْجَل طبيعي الجريان، مِرْجَل طبيعي الدورة
+natural cooling tower	سحب طبيعي
+natural cotton / natural cotton fibers	قطن ملون طبيعي
+natural disaster	كارثة طبيعية
+natural disaster debris	حطام من كوارث طبيعية
+natural disasters	كوارث طبيعية
+natural disturbance regime (fsc)	نظام الاضطرابات الطبيعية (مجلس الإشراف على الغابات)
+natural draft	سحب طبيعي
+natural draft cooling tower	برج تبريد بالسحب الطبيعي
+natural draft flue	مدخنة بسحب طبيعي
+natural durability of wood	تحملية الخشب الطبيعية
+natural Egyptian silk	ساكروت
+natural environment	بيئة طبيعية
+natural environment receptor of pollution	مُسْتقبِل طبيعي للتلوث
+natural expansion of forest	توسع طبيعي للغابات
+natural factors	عوامل طبيعية
+natural fiber	ألياف طبيعية
+natural fibers yarn	خيط غزل من الألياف الطبيعية
+natural flavour; natural flavouring	إضافة نكهة طبيعية; نكهة طبيعية
+natural flow	تدفق طبيعي / تصريف طبيعيّ / جريان طبيعي
+natural food	أغذية طبيعية
+natural forest reserve	غابة طبيعية محمية
+natural frequency	تواتر طبيعيّ / تردد طبيعى / تردد طبيعي
+natural frequency (in a cavity resonator)	تردد طبيعي ( في مِرنان تجويف)
+natural gamma ray logging	تصوير مرسامي لأشعة غاما الطبيعية
+natural gas	غاز طبيعي
+natural gas consumption	استهلاك الغاز الطبيعي
+natural gas deposits	مكامن الغاز الطبيعي
+Natural gas exports	صادرات الغاز الطبيعي
+Natural gas from gas hydrate	غاز طبيعي من هيدرات الغاز
+natural gas imports	واردات الغاز الطبيعي
+natural gas liquids (NGL)	سوائل الغاز الطبيعي
+Natural Gas Liquids (NGLs)	سوائل غاز طبيعي
+natural gas production	إنتاج الغاز الطبيعي
+natural gas reserves	احتياطي الغاز الطبيعي
+natural gas reservoir	خزَّان الغاز الطبيعيّ
+natural gas resources	موارد الغاز الطبيعي
+natural gas shortfall	عجز في قِطاع الغاز الطبيعي
+natural gas vehicle (NGV)	عربة غاز طبيعي (NGV)
+Natural Gasoline	جازولين طبيعي
+natural gaz processors association,( N.G.P.A.)	تجمع مصنّعي الغاز الطبيعي
+natural glue	غراء طبيعي
+natural greenhouse effect	احتباس حراري طبيعي
+natural ground	أَرضٌ طَبِيعية / أرض طبيعية
+natural ground level	مستوى (منسوب) الأرض الطبيعية
+natural hair	وبر طبيعي
+natural hazard	مخاطر طبيعية
+natural hazard management, integral	إدارة (ال...) المُتكاملة للأخطار الطبيعية
+natural hazard regulation	تنظيم الأخطار الطبيعية
+natural landscape	مَنْظَر طبيعي
+natural levee	حاجز طبيعي
+natural light	إضاءة نهارية
+natural load of a line	الحمل الطبيعي لخط
+natural look	نمط الطبيعة
+natural manure	سماد طبيعي
+natural monopoly	احتكار طبيعي
+natural mortality	وفيات طبيعية
+natural mud	طين طبيعي
+natural noise	ضوضاء طبيعية
+natural organic matter (NOM)	مادة عضوية طبيعية
+natural pack	حاجز طبيعي، رَدْم طبيعي
+natural park	منتزه طبيعي
+natural polluants	مُلَوِّثات طبيعية
+natural polyamide	عديد أميد طبيعي
+natural pupil luminance	الإستضواء العادى للحدقة
+natural purification processes	عمليات التنقية الطبيعية
+natural radiation	إشعاع طبيعى
+natural radioactivity	نشاط إشعاعي طبيعي
+natural recovery/natural revegetation	انتعاش طبيعي / تجديد طبيعي للغطاء النباتي
+natural regeneration	تجدد طبيعي
+natural regeneration enhanced by planting	تجدد طبيعي معزز بالزرع
+natural resource agencies	هيئات الموارد الطبيعية
+natural resources	موارد طبيعية / مصادر طبيعية
+natural resources management	إدارة المصادر الطبيعية
+natural rock asphalt	أَسفَلت صَخرِي طَبِيعي / صخر أسفلتي طبيعي / أسفلت صخري طبيعي، صخر أسفلتي طبيعي
+natural rubber	كاوتشوك طبيعي
+natural seeding	بذر طبيعي
+natural selection	اختيار طبيعي
+natural silk	حرير طبيعي
+natural sky glow	توهج طبيعى للسماء
+Natural state	في الحالة الطبيعية
+natural step, the	خطوة طبيعية
+natural stone	حَجَر طَبِيعي
+natural stone paving	رصْف بالحجر الطبيعي
+natural surface level; ground level	مَناسِيب الأرض الطبيعية
+natural surface line	خّطُّ الأرض الطبيعي
+natural unemployment rate	معدل بطالة طبيعي
+natural unit,	وحدة طبيعية,
+natural uranium (Unat)	يورانيوم طبيعي (Unat)
+natural ventilation	تهوية طبيعية
+natural ventilation,	تهوية طبيعية,
+natural wavelength	طول الموجة الطبيعي
+natural wealth	ثروات طبيعية
+natural-coloured yarn	خيط بلونه الطبيعي
+natural-gas processing	معالجة الغاز الطبيعيّ
+naturalisation	توطين
+naturalised	مُجَنَّسْ
+naturalised pastures	نباتات رعوية موطنة
+naturalism	الطبيعية
+naturalized plant	نبات تم توطينه
+naturally aspirated	مسفوط طبيعياً
+naturally grown pelt	فرو مشمع
+Naturally Occurring Radioactive	مواد مشعة متكونة طبيعيًا
+naturally occurring radioactive material (norm)	مواد مشعة طبيعيا / خلفية إشعاعية طبيعية / المواد المشعة طبيعية المنشأ
+naturally pure water	مياه طبيعية عذبة
+naturally regenerated forest	غابات طبيعية التجدد
+nature conservation	حماية الطبيعة / حِماية الطبيعة / حماية الطَبيعة
+nature conservation by contract	عقد حفظ الطبيعة
+nature conservation/protection	حِماية الطبيعة
+Nature line	خيط طبيعي
+nature of jointing	طبيعة الفواصل
+nature reserve	مَحميّة طبيعية / مَحْمِيَة طبيعية
+nature tourism (nature-based tourism)	سياحة الطبيعة (سياحة تعتمد على الطبيعة)
+naturell denim	دنيم طبيعي
+nautical almanac	تقويم بحري
+nautical book	كتاب بحري
+nautical calculations	حسابات بحرية
+nautical chart	خريطة بحرية / خريطة ملاحة بحرية
+nautical mile	مِيل ملاحي
+nautical twilight	شفق ملاحي
+nav	مِلاحة
+nav/attack system	نظام ملاحة وهجوم
+navaid	مُساعِدات الملاحة
+Navajo style	نمط نفايو
+naval administration	إدارة بحرية
+naval aircraft	طائرة بحرية / طائرة بَحرية
+naval architecture	هندسة ملاحية
+naval aviation	طيران بحري
+naval dock	حوض بحري
+naval dockyard	ترسانة بحرية، حوض تصنيع السقف
+naval electronic laboratory international algorithmic code, (N.E.L.I.A.C.)	جَفْر (ال...) الخوارزمي الدولي للمختبرات البحرية الألكترونية (نلياك)
+naval flag	عَلَم البحرية
+naval hospital	مستشفى البحرية
+nave of a church	صحن الكنيسة
+navel neckline	تقويرة مُجَوَّفة
+naveX	تدريب ملاحة
+Navier-Stokes equations	معادلات نافيير ـ ستوكس
+Navier’s hypothesis	فَرَضِية نافييه
+navigate a vessel (to)	أَبْحَرَ بسفينة، قاد سفينة
+navigation	ملاحة
+navigation (in computer networks)	التصفح (فى ر بط الشبكات)
+navigation agent	برنامج المتصفح
+navigation company	شركة ملاحية
+navigation dues	رسوم الملاحة
+navigation echo sounder; depth sounder; depth finder	سونار صوتى ملاحى؛ جهازصدى صوتى ملاحى
+navigation flame-float	عوّامة ملاحة متوهّجة
+navigation flare	سهم مضيء للملاحة
+navigation float	عوّامة ملاحة
+navigation in ballast	إبحار على الصابورة
+navigation light	أضواء الملاحة
+navigation light,	ضوء ملاحى,
+navigation lights	أضواء ملاحة
+navigation lines	خطوط ملاحية
+navigation lock	هويس
+navigation mark	إشارة ملاحية
+navigation on the high seas	ملاحة أعالي البحار
+navigation smoke-float	عوّامة ملاحة دخانية
+navigation stars	نجوم ملاحية
+navigation table	جدول ملاحي
+navigation treaty	معاهدة ملاحية
+navigational dome	قبة الملاحة
+navigational planets	كواكب الملاحة
+navigational stars	نجوم الملاحة
+navigational triangle	مثلث الملاحة
+navigator	مَلاَّح
+Navy look	زي رجال البحرية
+Nawaro reactors	مفاعلات المواد الخام المتجددة (Nawaro)
+NBS test chart	مخطّط "فوكولت"
+NC control	مُوجِّه التحكّم الرقميّ
+NC control technology	هندسة التوجيه بالتحكّم الرقمي
+NC machine	ألة للتحكم الرقمي
+NC program structure	بنية برنامج التحكّم الرقميّ
+NDI; non-destructive inspection	تفتيش غير متلِف
+NDT	فحص غير متلِف
+Ne / Neb	'نيب'
+neaped ship	سفينة جانحة
+Near a Railway Line	القرب من خط السكك الحديدية
+near encounter	لقاء قريب
+near field	مجال قريب
+near miss	إِخْطاء حادث جوي
+near sound field	مجال صوتي قريب
+Near Surface Disposal Process	عملية التخلص بالقرب من سطح الأرض
+Near Surface Repository	مستودع قريب من سطح الأرض
+near-end crosstalk	لغط الطرف القريب
+near-end crosstalk attenuation	توهين اللغط في الطرف القريب
+near-field diffraction pattern; Fresnel diffraction pattern	نموذج إنحراف مجال قريب نموذج انحراف فرنل
+near-field radiation pattern; near-field pattern	نموذج الإشعاع قرب الحقل نموذج مجال قريب؛ نموذج إشعاع مجال قريب
+near-field region	منطقة المجال القريب
+near-field scanning technique	تقنية مسح المجال القريب
+near-natural	شِبه طبيعيّ
+near-shore areas	مناطق ساحلية
+near-shore environment	بيئة ساحلية
+near-shore waters	مياه ساحلية
+near-surface geothermal energy	طاقة جيوحرارية قريبة من سطح الأرض
+nearside lane	مَسْرَب خارجي
+neat cement	إسمنت نظيف، معجون إسمنت صرف
+neat line	خط (ال...) الصافي
+neatlines	خطوط الحدود
+necessary bandwidth, (of an emission)	عرض النطاق الترددي المطلوب (للبث)
+neck	عنق
+neck pillow	وسادة الرقبة
+neck pleat	طية العنق
+neck shadow	ظل العنق
+neck size	محيط الرقبة
+neck; throat	عُنُق
+neckerchief	لِفاع
+necking	تَعَنُّق
+necking; waisting	تَخَصُّر
+neckline	تقويرة / تقويرة العنق
+neckwarmer	ياقة مُدفئة
+necrophore	دافنة
+need	حاجة
+needle	إبْرة السَّد / إبرة
+needle and ball	إبرة وَ كُرَة
+needle bar collar	ياقة دبوس
+needle bearing	محمل إبري
+needle counter tube	صمام عدا د ابرى
+needle felt	لباد إبري
+needle lift sensor (NBF)	حساس حركة الإبرة (NBF)
+needle lift sensor (NBS)	حساس تحرك إبرة الحاقن
+needle split	انفصال الإبر
+needle valve	صمام مخروطي / صمام إبريّ / صِمام إبرة / صمام إبري / صِمام إبري
+needle valve, balanced	صِمام إبريّ مُتوازِن
+needle weir	هدّار إبري
+needle-head design	تَقْوِيرَة نازِلة
+needle-point gap	ثغرة ابرية
+needle-shaped	إبريُّ الشكل
+needle; sting	إبرة
+needlepoint tufting machine	آلة التفت
+needlework fabric	قماش كانافاه
+needs assessment; determination of demand	تقييم الاحتياجات
+needs independent power supply	امدادات الطاقة المستقلة عن الطلب
+negation	نفي / التأمين ضد المخاطر
+negation law	قانون النفى
+negation time	فترة التأمين ضد المخاطر
+negation; NOT operation	عملية نفي
+negative	سلبية (الصورة) / سلبي / سالب / صورة سلبية
+negative (sequence) component (of a three-phase system)	مركب التتابع السالب(لنظام ثلاثي الطور)
+negative acknowledge	إشارة استلام سلبية
+negative acknowledgement	إفادة إيجابية
+negative altitude	ارتفاع سالب
+negative area	منطقة سالبة
+negative booster	خافض الجهد
+negative camber	تقوُّس سالب
+negative caster angle	تراوح ميلي سالب
+negative conductor	موصل سالب
+negative crossing time	وقت التقاطع السلبي
+negative differential resistance region	منطقة مقاومة تفاضلية سلبية
+negative effect	تأثير سلبي
+negative electric charge; negative charge	شحنة سالبة؛ شحنة كهربائية سالبة
+negative electrode	قطب كهربائي سالب
+Negative feedback	تغذية راجعة سالبة / تغذية عكسية سالبة / تغذية عائدة سالبة
+negative g	تسارع سالب
+negative half-wave	نصف الموجة السالب
+negative head	ضاغط سلبيّ
+negative image	صورة سلبية / صورة سالبة
+negative impedance convertor; NIC (abbreviation)	مغير معاوقة سلبى
+negative justification; negative pulse stuffing	تبرير سلبي
+negative modulation (in television)	تعديل سلبي (في التلفاز)
+negative moment	عَزْم سالب
+negative phase difference; phase lead (of an electromagnetic wave)	فرق طور سالب - تقدّم طور
+negative phase sequence	تتابع طوري سالب
+negative photocomposition	تصنيف تصويري سلبي
+negative picking	إنتقاء سلبي
+negative plate	لوح سالب
+negative pore water pressure	ضَغْط (ال...) المساميّ السلبي
+negative pressure	ضغط سلبيّ
+negative pressure relief valve	صمام تخفيف الضغط العكسي
+negative ratio	جزء سلبي
+negative remanence	استبقاء سلبي
+negative rolling moment	عزم عُطوف سلبي
+negative scanning shift	إزاحة مسح سلبية
+negative sequence impedance	مقاومة تسلسل سالب؛ معاوقة التتابع السالب
+negative sequence reactance	مفاعلة تسلسل سالب؛ مفاعلة التتابع السالب
+negative sequence resistance	مقاومة تسلسل سالب؛ مقاومة التتابع السالب
+negative skin friction	احتكاك سالب
+negative spring travel	مشوار الياي السالب
+negative stability	استقرار سالب
+negative stagger	تَخَلُّف سلبي
+negative stall	انهيار سلبي
+negative sweep	امتداد سلبي / تراجع سلبي
+Negative Temperature Coeffficient Resistor	مُعامل حراري سالب
+negative temperature coefficient	معامل حراري سالب / مُقاومة ذات مُعامل حراري سالب (NTC)
+negative terminal	طرف قطب سالب / طرف سالب
+negative video signal	إشارة مرئية سالبة
+negative yaw	انعراج سالب
+negative-sequence polyphase system	نظام سالب التتابع متعدد الأطوار
+negative-torque signal	إشارة عزم تدوير سلبي
+negawatt	واط غير مستهلك / نيغاواط
+negligé / negligée	ثوب مبتذل / قميص شفاف
+negligé fabric	دامسك مهمل
+negotiable bill of lading	سَنَدُ شحن قابل للتداول
+Negotiation	مفاوضات / تفاوُض
+negotiation threshold	بدء التفاوُض
+NEH	إن ـ إي ـ إتش
+Nehru style	نمط نيهرو
+neighborhood	جوار
+Neighborhood Investment Facility (NIF)	آلية تسهيل الاستثمار في منطقة الجوار NIF
+nekton	سابحة
+nematic	بلورات سائلة
+nematocide	مبيد الخيطيات
+nematocides	مبيدات الديدان الخيطية (في التربة)
+neo-traditional development	تنمية جديدة-تقليدية
+neo-traditional food system	نظام غذاء تقليدي حديث
+neobiota	كائنات حية جديدة
+neogene	نيوجين
+neogene period	عصر نيوجيني
+neon	نيون / أنابيب النيون
+neon indicator tube	صمام مؤشر نيوني
+neon tube	أنبوب نيون
+neophyte	نباتات مدخلة جديدة
+Neoprene	نيوبرين / نيوبرين، مطاط اصطناعي / مطاط مستخرج من البترول / نَيُوبْرين
+neotenic	استدامة المرحلة اليرقية
+neotype	نوع جديد
+neozoon	حيوانات جديدة
+Nep	عقد
+Nepal	نيبال
+neper	نيـــبر (وحدة توهين) / نيبر (تعادل 8.686 ديسيبل) / نيبر
+nepheline	نيفيلين
+nephelometer	مقياس التبعثر
+nepheloscope	مكشاف الحرارة / نفِلوسكوب
+nephometer	مقياس الغيوم
+nephoscope	مكشاف الغيوم
+nephrite	نفرايت
+neptunite	نبتونايت
+nerd / nerd look	طراز النيرد
+Nernst potential	جهد نرنست
+nerve	عصب
+nerve cord	حبل عصبي
+nervures	تعاريق
+nesosilicates	نيسوسيليكات
+nest	عش
+nest of tabel	طاولة متداخلة القطع
+nesting chairs	كراسي متراكبة
+Net	شبكة
+net annual increment	صافي الزيادة السنوية
+net area	صافي المساحة
+net asset value	قيمة صافية للأصول
+net average heat rate of a unit	متوسط المعدل الحراري الصافي للوحدة
+Net Barrels	براميل صافية
+net biome production	صافي إنتاج وحدة أحيائية
+net calorific value	قيمة حرارية محددة / قيمة (ال...) الحرارية الصافية
+net carbon dioxide emissions	صافي انبعاثات ثاني أكسيد الكربون
+net contract	عقد صريح
+net curtain	بُرْدايَة
+Net Delivery Time	وقت التسليم الصافي
+net demand, net requirement	طلب صاف
+net driving pressure (NDP)	الضغط الصافي للدفع
+net dry weight	وزن جاف صافٍ
+net ecosystem production (nep)	صافي إنتاج نظام إيكولوجي
+net effective volume	حجم صافي فعّال
+net electric power	صافى القدرة الكهربائية
+net electric power output	صافى قدرة الخرج الكهربائية
+net electricity consumption; net power consumption	صافي استهلاك التيار الكهربائي
+net emission	صافي انبعاث
+net energy balance	صافي موازنة الطاقة
+Net energy yield	صافي الإنتاج الطاقي
+net fade margin	هامش اضمحلال صافي (خالص)
+net flightpath	ممر طيران صافٍ
+net force	خط ناتج
+net head	صافي الضاغط
+net head of a hydroelectric power station	الضغط الصافي لمحطة توليد مائية
+net heat to process (NHP)	صافي الحرارة المُستخدمة (NHP)
+net height	ارتفاع صافٍ
+net inventory forecast (NIF weekly report of stock)	القيمة الصافية الحالية
+net irrigation requirement / farm delivery requirement	احتياج (ال..) المُعطَى لمزرعة
+net load	حمل صافي
+net loading intensity	شِدّة التحميل الصافي
+net margin	هامش صافي
+net maximum capacity net bottleneck capacity	صافي القُدرة القصوى
+net metering	صافى القياس / قياس صافي الطاقة / نظام القياس الصافي / قياس صافي / مشروع Net Metering
+net output of a power station	الخرج الصافي لمحطة توليد
+net output of a set	الخرج الصافي لمجموعة
+net performance	أداء صافٍ
+net positive seduction head (NPSH)	علو المصّ الإيجابيّ الصافيّ
+net positive suction head (NPSH)	ضاغط السحب الموجب الصافي
+net positive suction head, (N.P.S.H.)	صافي قوة السحب الموجبة، ارتفاع اشتفاف (المضخة) الموجب الصافي
+net power	القدرة الخالصة وفقاً لمقاييس جمعية مهندسي السيارات الأمريكية (SAE) / قدرة خالصة
+net power generation	صافي الكهرباء المتولدة
+net present value	صافي القيمة الحالية
+net present value (npv)	صافي قيمة حالية / صافي القيمة الحالية
+net primary production (npp)	صافي الإنتاج الأولي
+net primary productivity	صافي الإنتاجية الأولية
+net production	إنتاجٌ صافٍ
+net propulsive force	قوة الدفع الصافية
+net radiation factor	مُعامِل الإشعاع الصافي
+net register tonnage	طنِّيَة صافية مسجَّلة
+net residual value, calculated	صافي القيمة المتبقية المحسوبة
+net return flow	صافي عائد المياه
+net storm rain	معدّل الأمطار الصافي خلال عاصفة مطرية
+net supply rainfall	صافي إيراد هُطول المطر
+net thermal efficiency of a unit	الكفاءة الحرارية الصافية للوحدة
+net thrust	دفع صافٍ
+net tonnage	طنِّية صافية
+net traffic	صافى حركة المرور
+Net Transfer Capacity (NTC)	صافي سِعة النقل
+net travel time	زمن السفر
+Net Volume	الحجم الصافي
+net water requirement	صافي الاحتياجات المائية
+net weight	وزن صافٍ
+net worth	صافي القيمة
+Net Zero	الحياد الصفري
+net zero energy house	منزل بصفر صافي الطاقة
+net-shaped	شبكي الشكل
+nettage decrement	تناقص التصفية
+netting yarn	خيط غزل شبكي
+nettle fiber	ألياف القُراص
+nettle yarn	خيوط نبات القراص
+network	شَبَكَة أنابيب / شبكة
+Network (railway network)	شبكة السكك الحديدية
+network address	عنوان الشبكة
+Network Address Translation	تَرْجَمَةُ عُنْوانِ الشَبَكَةِ
+Network adjustment	ضبط الشبكة
+network administrator	مسئول الشبكة
+network agent (in network management)	وكيل شبكة (فى ادارة الشبكات)
+network analysis	تحليل الشبكات / تحليل الشبكة
+network analyzer	مقياس الانعكاس / محلل الشبكة
+Network Appendix	مُلْحَقُ الشَبَكَةِ
+network assistant	مساعد شبكات
+network browser; net browser	مستعرض الشبكة
+network calculation	حسابات الشبكة
+Network capacity expansion	توسيع سعة الشبكة
+network characteristic method	طريقة المُنحنى الخصائصي للشبكة
+network charges	رسوم الشبكة
+network cluster	قطاع شبكة
+network code	معايير الشبكة
+network connection point (for WTGS)	نقطة توصيل شبكة
+network control phase	طور تحكم الشبكة
+network control technology	تقنية التحكّم في الشبكة
+network conversion; network transformation	تبديل الشبكة؛ تحويل الشبكة
+network design principles	مبادئ تصميم الشبكة
+Network Development Plan	خطة تطوير الشبكة
+Network Development Plan Working Group Grid Development Plan Working Group	مجموعة عمل خطة تطوير الشبكة
+network device	جهاز الشبكة
+Network Element	عُنْصُرُ الشَبَكَةِ / عنصر دارة
+network etiquette; netiquette	قواعد لإستخدام الشبكة؛ آداب إستخدام الشبكة
+Network expansion according to the German Renewable Energy Act	توسيع الشبكة وفقا لقانون الطاقة المتجددة الألماني
+network feature	ميزة الشبكة
+network file system	نظام ملفات الشبكة
+network header	رأس الشبكة
+network information centre; NIC (abbreviation)	إختصار (NIC)؛ مركز شبكة المعلومات
+network integrity function	وظيفة تكامل الشبكة
+network interface	شبكة بينية
+Network Interface Card	بِطاقَةُ واجِهَةِ الشَّبَكَةِ البِينِيَّةِ
+Network Layer	طبقة الشبكة
+network management server	خادم ادارة الشبكة
+Network Management System	نِظامُ إِدارَةِ الشَبَكة
+network management,	إدارة الشبكة,
+network management; network administration	ادارة الشبكة
+network manager	مدير الشبكة / مُدِيرُ الشَبَكَةِ
+network node	نقطة عقدية (في الشبكة)
+network number	رقم الشبكة
+network of pipes	شبكة أنابيب
+network of veins	شبكة عروق
+network operating system (NOS)	نظام تشغيل الشبكة
+network operating system; NOS (abbreviation)	إختصار (NOS)؛ نظام تشغيل الشبكة
+network operations centre; NOC (abbreviation)	إختصار (NOC)؛ مركز عمليات الشبكة
+network operator	مُشغّل الشبكة
+network optimization according to the German Renewable Energy Act	تحسين الشبكة وفقا لقانون الطاقة المتجددة الألماني
+network planning	تخطيط الشبكات
+network power frequency characteristic	مُعامل قدرة الشبكة
+network protocol	برتوكول الشبكة
+network recall	استدعاء شبكة
+network reserve; grid reserve	احتياطي قدرة الشبكة
+network short-circuit power grid short-circuit power	قدرة دائرة قصر الشبكة
+network site; net site; site (in computer networks)	موقع شبكة
+network support	دعم الشبكة
+network synthesis	تشكيل شبكة / تصميم الشبكات
+network system	نظام الشبكة
+network termination unit	وحدة نهاية طرفية للشبكة
+network termination; NT (abbreviation)	نهاية الشبكة
+Network Time Protocol	بروتوكول وَقْتِ الشَّبَكَةِ
+network topology	طوبولوجيا الشبكة / طبولوجية الشبكات / طوبولوجية الشبكة
+network,	شبكة, / الشبكة,
+network, sampling	شَبَكَة أخذ العيّنات
+Network-Network Interface	واجِهَةُ الشَبَكَةِ إِلَى الشَبَكَةِ
+networking	تشبيك / ربط الشبكات
+Networks Analysis	تحليل الشبكة
+networks pipes	شبكات الأنابيب
+neural stimulation	تنبيه عصبى
+neurogram	رسم كهربائى للأعصاب
+neurograph	راسم كهربائي للأعصاب
+neurography	تقنية الكشف بالرسم الكهربائى للأعصاب
+neuromuscular junction	ملتقى عصبى عضلى
+neuromuscular stimulation	تنبيه العصب العضلى
+neuron	خلية عصبية
+neutral	وضع اللاحمل / تعادل؛ محايد
+neutral axis	مِحوَر محايد / المحور المعتدل / محور التعادل / محور التعادل، محور الخمول
+neutral company/sector	شركة محايدة / قطاع محايد
+neutral conductor	موصل تعادل / موصل التعادل
+neutral current	تيار تعادل
+neutral current protection; ground overcurrent protection (US)	حماية تيار المحايد
+neutral displacement protection; neutral overvoltage protection (US)	حماية إزاحة المحايد
+neutral electrolyte zinc air battery	بطارية هوائية - زنك ذات محلول متعادل
+neutral engine	محرك معتدل
+neutral equilibrium	توازن متعادل
+neutral flag	علم محايد
+neutral flame	لهب متعادل
+neutral hole	ثقب متعادل
+neutral line	قطبية
+neutral magnetic state	حالة تعادل مغناطيسي
+neutral membrane	غشاء محايد
+neutral performance	توجيه محايد
+neutral plane	مستوى التعادل
+neutral point	نقطة التعادل / موصل نقطة التعادل
+neutral point connection	توصيل نقطة التعادل
+neutral point displacement voltage	جهد الازاحة لنقطة تعادل
+neutral point in a polyphase system	نقطة تعادل في شبكة متعددة الطور
+neutral point star point	نقطةُ التعادُل
+neutral point treatment	طريقة توصيل نقطة التعادل بالأرض
+neutral range; neutral zone; dead band	مجال مُحايد
+neutral region	منطقة التعادل
+neutral section	قسم متعادل
+neutral shore lines	خطوط الشاطئ المتعادلة
+neutral soil	تربة محايدة
+neutral stability	استقرار متعادل
+neutral step wedge	مرشح متعادل مرحلي؛ مرشح متعادل على خطوات
+neutral stress	إجهاد مُتعادِل
+neutral terminal	نهاية محايد
+neutral wedge	مرشح متعادل
+neutral wire	ناقِل مُتعادِل، مُوَصِّل مُحايِد
+neutral zone	منطقة حيادية / منطقة تعادل / منطقة التعادل / مجال محايد
+Neutral Zone Crude Oil (offshore wells- Khafji and Hout)	نفط خام المنطقة المقسومة
+neutral-point displacement voltage	جهد نقطة التعادل
+neutralisation agent	عامِل التعادُل
+neutralization	تحييد / تعادل
+neutralization value	قيمة التعادل
+neutralize track	مسار متعادل
+neutralize, verb; demagnetize (deprecated in this sense) verb	ليزيل المغنطة
+neutralize, verb; demagnetize, verb (deprecated in this sense)	يحايد - يعادل
+neutralized controls	سطح تحكم معادَل
+neutrals	ألوان محايدة
+neutrino	نيوترينو : عنصر عديم الشحنة / نيوترينو
+neutrodyne	مضخم معادل عالي التردد
+neutron	نيوترون / شحنة كهربائية متعادلة (نيوترون) / نترون
+neutron count	حساب النترونات
+neutron excess number	عدد الزيادة النيوترونية
+neutron log	سجل النترونات
+neutron number	العدد النيوترونى
+neutron reflector	عاكس نترونات
+neutron therapy	علاج نيوترونى
+New and Renewable Energy Authority (NREA)	هيئة الطاقة الجديدة والمُتجدّدة (NREA)
+New call procedure	إجراءات عملية نيو كال
+new economic regulations act	قانون اللوائح الاقتصادية الجديدة
+new edition	طبعة جديدة
+New Edwardian style	الطراز الإدواردي الجديد
+new electric car	سيارات Necar
+new impression	اعادة طبعة
+new look	مظهر جديد
+new marble	جلد رخامي جديد
+new planting	غرس غابات جديدة
+New Silky® / New worsted®	نيو سيلكي®، نيو ورستد®
+New Technology File System	نِظامُ مَلَفّاتِ التَقْنِيةِ الجَدِيدِ
+new urbanism	عمران جديد
+new wool	صوف بكر
+New Zealand emissions trading scheme (NZ ETS)	نظام تجارة الانبعاثات في نيوزيلندا (NZ ETS)
+New Zealand fibers	ألياف نيوزيلندية
+New Zealand wool	صوف نيوزيلندي
+newel	قائم بيت الدَّرج
+newly laid concrete	خَرَسَانَة حَدِيثَة
+news reader; news client	عميل الأخبار؛ قارئ للأخبار
+newsboy caps	قبعة الكرة
+newspaper	جريدة
+newspaper ink	حبر جرائد
+newspaper press	ماكينة طبع جرائد
+newsprint (paper)	ورق جرائد
+newsprint paper	ورق طباعة الصحف
+newton	نيوتن ( وحدة قياس القوة) / نيوتُن
+newton (N)	نيوتن (N)
+Newton's laws	قوانين نيوتُن
+Newtonian flow	جريان نيوتوني
+Newtonian mechanics	ميكانيك نيوتوني
+Newtonian speed of sound	سرعة الصوت النيوتونية
+Newtonian stress	إجهاد نيوتوني
+Newton’s colours	ألوان نيوتن
+NF	ألياف نيوزيلاندية
+nfma (national forest monitoring assessment programme)	برنامج تقييم رصد الغابات الوطنية (NFMA)
+nfp (national forest programme)	برنامج وطني للغابات
+NFPA	المؤسسة الوطنية للوقاية من الحرائق في الولايات المتحدة الأمريكية
+NG freight wagon	عَرَبَة شَحن ضيقة السِكَّة
+NH3	أمونياك / غاز النُشَادُر
+Ni50	مقياس حراري نيكلي 50
+Nial	نْيال
+nib	طرف مستدقّ
+nib of a tile	طرف بلاطة
+nibbler	مِقراض / مِقْرضة
+Nicad, Ni/Cd	نيكاد
+Nicalloy	سبيكة حديد ونيكل / نيكالوي
+Nicerol	نيسرول
+niche	مشكاة، فجوة
+niche market	سوق متخصصة
+Nichols plot	رسم نيكولاس
+Nichrome	نيكروم
+nick	حزّ / ثلْم، حَزٌّ
+nick (to)	حزّة
+nick point	نقطة (ال...) الحرجة، فقد الميل
+nickel	نيكل
+nickel cadmium battery	بطارية أكسيد نيكل- كادميوم
+nickel metal hydride battery	بطارية نيكل - هيدريد / بطارية هيدريد النيكلِ المعدنيِ
+nickel oxide cadmium battery; nickel cadmium battery	بطارية أكسيد نيكل- كادميوم
+nickel oxide iron battery; nickel iron battery	بطارية أكسيد نيكل- حديد
+nickel oxide zinc battery; nickel zinc battery	بطارية أكسيد نيكل- زنك
+nickel plating	طلاء بالنيكل
+nickel zinc battery	بطارية أكسيد نيكل- زنك
+nickel-cadmium	نيكل وكدميوم
+nickel-cadmium battery (nicad)	بطارية النيكل والكادميوم (nicad)
+nickel-cadmium cell	خلية نيكل- كاديوم
+nickel-chromium steel	فولاذ بالنيكل و الكروم
+nickel-iron cell	خلية حديد- نيكل
+nickel-metal hydride battery	بطارية هيدريد نيكل - معدن
+Nickel-Metal Hydride Battery (NiMH)	بطارية النيكل-ميتال هجين (NiMH)
+nickel-metal-hydride battery (NiMH)	بطارية هيدريد فلز النيكل
+nickel/cadmium battery	حاشدة نيكل / كادميوم
+nickelchromium-constantan	كونستانتان النيكل كروم
+nickelchromium-nickelaluminium	نيكل كروم - نيكل ألومنيوم
+nicking	تحزيز
+Nicol prism	منشور نيكول
+NiCr-Ni	نيكل كروم - نيكل
+nidge (to…)	نحَت، سنَّن
+Nife, Ni/Fe	نايْف
+Nigel®	خيوط نيجل®
+Niggli norm	معيار نيغلي
+night and all-weather	ليلية ولكل الأجواء
+night blindness	عمى ليلى
+Night cap	دورية جوية مقاتِلة ليلية
+night effect	تأثير ليلي / ظاهرة الليل
+night fighter	مقاتِلة ليلية
+night frost	صقيع ليلي
+night setback	تخفيض الحِمل ليلاً
+night soil	فضلات بشرية
+night storage heating	نظام تخزين الطاقة ليلاً
+night tariff	التعريفة الليلية
+night time cooling	تبريد ليليّ
+night vision	الرؤية الليلية / رؤية ليلية
+night vision camera	كاميرا الرؤية الليلية
+night vision electronic	إلكترونيات الرؤية الليلية
+night warning light (for conductor)	ضوء تحذيري ليلي لموصل
+night-flying chart	خريطة الطيران الليلي
+nightdress / nightshirt	قميص نوم
+nightshirt	قميص النوم
+Nikasil coating	طبقة 'نيكاسيل'
+nikel ore	خام النيكل
+nil test / zeroing test	اختبار تصفير
+NIL; null	لا شيء
+nimbostratus	خَسْف
+nimbostratus clouds	غيوم طبقية داكنة
+nimbus	مُعْصِرَة
+nimbus clouds	غيوم نيمبوس
+nimby	ليس في عقر داري
+nimby ('not in my backyard')	NIMBY مختصر للتعبير ('ليس في عقر داري')
+nimite	نيمايت
+Nimocast	نيموكاست
+Nimonic	نيمونيك
+Ningal®	نينجال®
+ningyoite	ننجوايت
+niocalite	نيوكالايت
+nip	عَضّ / قَرْص / قَرْض / خط التلامس
+nipper	كمّاشة
+nipping	قمط الملازم
+nipping fork	مفتاح مسك
+nipple	وُصْلة مسننة، وُصْلة مستقيمة
+nipple (of a conduit)	وصلة لمواسير (شريط)
+nit	نِتْ
+Nit inspection	فحص وجود العقد
+Nitralloy	نترالوي
+nitrate	النترات / نترات
+nitrate bacteria	بكتيريا نيتراتية
+nitrate dope	دِمام النترات
+nitrate leaching	تنقية النترات
+nitric acid	حَمْض النيتريك / حمض النتريك
+nitric oxide (NO)	أكسيد النيتريك
+nitriding	تصليد بالنتردة / نَتردة
+nitrification	نَترَجَة / تأزت أو نيترة / نَتْرَجَة / نترجة
+nitrifying bacteria	بكتيريا النترتة
+nitrite	النتريت / نتريت
+nitrite bacteria	بكتيريا نيترينية
+nitrobacterium	بكتيريا التأزت
+nitrocarburizing	خلط الوقود مع الهواء في المحرك
+nitrocellulose	نترسلولوز
+nitrogen	نتروجين / نيتروجين / آزوت
+nitrogen balance	تَوازُن النتروجين
+nitrogen compound	مركب النيتروجين
+nitrogen compounds	مركبات نيتروجينية
+nitrogen cycle	دورة النيتروجين / دورة النتروجين
+nitrogen cycle bacteria (pl.)	بَكتيريا دورة النيتروجين
+nitrogen desaturation	نقْص الآزوت
+nitrogen dioxide	ثاني أكسيد الآزوت
+nitrogen fertilization	تسميد نيتروجيني
+nitrogen fixation	تثبيت النتروجين (الجويّ) / تثبيت الآزوت / تثبيت النيتروجين
+nitrogen fixer	مثبت النيتروجين
+nitrogen lift test	اختبار النيتروجين
+nitrogen narcosis	تخدُّر آزوتي
+nitrogen oxide	أكسيد النيتروجين
+nitrogen oxide (NOx)	أكاسيد نيتروجين (NOx)
+nitrogen oxides	أكاسيد النيتروجين
+nitrogen oxides (NOx)	أكاسيد الآزوت / أكسيد النيتروجين
+nitrogen removal	إزالة النتروجين
+nitrogen tetroXide	أكسيد الآزوت الرباعي
+nitrogen, total	إجمالي النتروجين
+nitrogen, total oxidized	إجمالي النتروجين المُؤَكْسَد
+nitrogen-based atmosphere	جو نيتروجيني
+nitrogen-hydrogen atmosphere	جوّ نتروجيني هيدروجيني
+nitrogenous biochemical oxygen demand (NBOD)	احتياج (ال...) الأزوتيّ البيوكيميائيّ للأكسجين
+nitrogenous fertilizers	مُخَصِّبات نيتروجينية
+nitrogenous oxygen demand (NOD)	احتياج (ال...) الأكسجينيّ في المرحلة النتراتية
+nitrogenous waste	نفايات أزوتية
+nitroguanidine	نيتروجانِداين
+nitromethane	ميثان الآزوت
+nitroso	نتروزو
+nitrous oXide	أكسيد الآزوتوز / أكسيد النيتروز
+nitrous oxide (n2o)	أكسيد النيتروز (N2O)
+Nivion	نيفيون ®
+Nivomat	نيفومات
+nlbi (non-legally binding instrument on all types of forests)	صك غير ملزم قانونا بشأن جميع أنواع الغابات
+NMMO solvent process	عملية محاليل من -أوكسيد ميثيل مُورْفين
+NO	علاقة (ال...) المنطقية (لا) NO
+no authorization needed (schoolbus)	نقل مجاني
+no humping	خال من المُرتَفَعات
+no joy	غير مفرِح
+no lift	لا رَفْع
+no load	بدون حمل
+no load speed	سرعة اللاحمل
+no net loss of wetlands policy	سياسة لا خسارة صافية للأراضي الرطبة
+no parking	ممنوع الوقوف
+No Parking – EV Charging Only	منع الوقوف في أماكن الشحن
+no platform gap	خال من الفَجوَات
+no regrets	لا تأسف
+no regrets mitigation options	خيارات التخفيف لا تأسف
+no regrets strategy	استراتيجية لا أسف
+no step	ليست مسنداً
+no till	لا حرث
+no-break supply	تزويد بلا توقُّف
+no-draft forging	طَرْق بلاسَحْب
+no-feathering aXis	محور اللاتجنيب
+no-flare landing	حط غير طرفي
+no-go gauge	مقياس عقيم
+no-go item	صنف لا ذهابي
+no-lift angle	زاوية اللارَفْع
+no-lift direction	اتجاه اللارَفْع
+no-lift wire	سلك اللارَفْع
+no-load	بدون حمل
+no-load (operation)	لا حمل (تشغيل)
+no-load current	تيار اللاحمل
+no-load loss	مفاقيد اللاحمل
+no-load voltage	جهد الدائرة المفتوحة
+no-load voltage (in arc welding and cutting)	جهد اللاحمل(في اللحام والقطع بقوس الكهرباء)
+no-observed-adverse-effect-level (noel)	مستوى مع عدم ملاحظة تأثير ضار
+no-show	لا ظهور
+no-show passenger	مُسَافِر متأخر (عن الركوب)
+no-take zone	منطقة لا أخذ
+no-transgression zone	منطقة التجاوز الممنوع
+no-volt relay	مرحل فقدان الجهد
+no-wind position	موضع اللارياح
+noble-metal	معدن ثمين
+nobular hypothesis	فَرَضِية (ال...) السديمية
+NOC	شهادة عدم ممانعة
+noctilucent	سُحُب مضيئة
+noctilucent clouds	غيوم ليلية مضيئة
+nodal period	فترة عقدية
+nodding	انحناء الرأس
+nodding aerial	هوائي تمايُل
+noddy cap	غطاء الرأس
+node	عقدة / عُقْدة
+node address	عنوان نقطة الإتصال
+node analysis	تحليل عقدي
+node descriptor	واصف نقطة الإتصال
+node directory	دليل نقطة الإتصال
+node key	مفتاح نقطة الإتصال
+node method	طريقة العقدة
+node of conflicting sub routes	عقدة الطرق المتقاطعة
+node of main routes (between opposing main signals)	مفرق طرق
+node of Ranvier	عقدة رانفيه
+node voltage analysis	تحليل جهد القعدة
+node,	عقدة / عقدة (لشبكة بيانات) / نقطة إتصال,
+node, ; panel point	عقدة
+node, ; standing-wave minimum	عقدة / موجة ثابتة دنيا
+node, ; vertex, US	عقدة
+node-by-node selecting	اختيار عقدة بعقدة
+nodular	عُقَيدي
+nodular cast iron	حديد صب عقدي
+nodule	عُقَيدة
+nog	طوية خشبية
+noils	عوادم تمشيط
+noise	ضجيج / شوشرة / الضجيج أو الضوضاء / ضوضاء
+noise (for a measuring instrument)	طنين
+noise (in telecommunication)	ضوضاء (فى الاتصال عن بعد)
+noise (measuring devices)	تشويش (ال...) في جهاز قياس
+noise (on a television picture)	شوشرة (على صورة التلفاز)
+noise abatement	خَفْض الضوضاء / خَفْض الضجيج
+Noise and Number IndeX	ضجيج ودليل رقمي
+noise attenuation	توهين الضجيج
+Noise Cancellation System	نظام التحكم في الضوضاء
+noise carpet	سجادة الضجيج
+noise certification	شهادة جودة الضجيج
+noise contour	خط منسوب الضجيج / كِفاف الضجيج
+noise control	التحكم في الضوضاء
+noise disturbance / nuisance	إزْعاج بسبب الضوضاء
+noise eliminators	حاذفات الصوت، مزيلات الصوت
+noise emission	انبعاث الضوضاء
+noise equivalent power; NEP (abbreviation)	الطاقة المعادلة للضجيج
+noise eXposure	تعريض للضجيج
+noise floor	أرضية الضجيج
+noise footprint	آثار أقدام الضجيج
+noise immunity (light barriers)	مناعة الحواجز الضوئية ضد التشويش
+noise index	مؤشر الضوضاء
+noise level	حِدَّة الصوت
+noise limited sensitivity; usable sensitivity	حساسية محدودة للشوشرة
+noise pollution	تَلَوُّث بالضجيج
+noise protection	حِماية من الضوضاء
+noise reduction	تخميد الضجيج / تخفيض المستوى الصوتي
+noise reference points	نقاط مرجع الضجيج
+noise shielding	حَجْب الضجيج
+noise suppression	إخماد الضجيج
+noise suppressor	خامد الضجيج
+noise temperature (of a receiving antenna)	درحة حرارة الشوشرة (لهوائي الاستقبال)
+noise-abatement climb procedure	إجراء صعود خافض للضجيج
+noise-equivalent input,	دخل مكافئ للضوضاء,
+noise-equivalent irradiance,	كثافة الفيض الإشعاعى المكافىء للضوضاء,
+noise-equivalent power, ; NEP	قدرة مكافئة للضوضاء
+noise-generator diode	صمام مولد ضجيج
+noise-generator plasma tube	صمام توليد الضجيج البلازمي
+noise-level test	اختبار مستوى الضوضاء؛ اختبار مستوى الضجيج
+noise-limited condition	حالة محدودة الضوضاء
+noise-shield aircraft	طائرة حاجبة الضجيج
+noises	ضجيج
+noisiness	ضوضائية
+noisy blacks	عدم الإتساق في المنطقةِ السوداءِ للصورة
+noisy industry	صناعة ضاجّة
+nomad	بَدْوي
+nomad carpet	سجاد بدوي
+nomadic rug	سجاد الرعاة
+nomadism	بَدَاوة
+nomenclature	تسمية
+nomenclature on transmission elements	اصطلاحات عناصر التحويل
+nomenclature, binomina	تسمية، ذات الحدين
+NomeX	نومِكْس
+Nomex yarn	خيط نومكس
+nominal [rated] current	تيّار اسمي
+nominal acceleration point	نقطة التسارع الاسمية
+nominal apparent power,	قدرة ظاهرية إسمية,
+nominal black	سواد اسمي
+nominal capacity (K20)	السعة الإسمية (K20)
+nominal charge	مقنن اسميّ
+nominal charging duration	الفترة الزمنية الاسمية للشحن
+nominal contact wire height	قيمة إرتفاع خط التلامس
+nominal deceleration point	نقطة التباطؤ الاسمية
+nominal diameter	قُطر إسمي / قُطْر اسمي
+nominal dielectric heating frequency	تردد إسمي للعزل الكهربائي
+nominal dimension	بُعد اسمي
+nominal dimension of the piston	المقاس الإسمي للكبّاس
+nominal discharging duration	الفترة الزمنية الاسمية للتفريغ
+nominal frequency	التردد الإسمي
+nominal gas capacity	سعة الغاز الاسمية
+nominal gnp	ناتج وطني إجمالي اسمي
+nominal group delay	تَأخُّر المجموعة الإسمية
+nominal height	ارتفاع اسمي
+nominal horse power, (N.H.P.)	قدرة (ال...) الحصانية الاسمية
+nominal insertion attenuation	توهين الإدخال الإسمي
+nominal interest rate	سعر الفائدة الاسمِي
+nominal justification rate; nominal stuffing rate	معدل التبرير الاسمي
+nominal justification ratio; nominal stuffing ratio	نسبة التبرير الاسمية
+nominal length / internal barrel length	طول (ال..) الاعتباريّ للمبنى
+nominal level	مستوى إسمي
+nominal line voltage	خط الجهد الإسمي
+nominal linear density / nominal titre	عيار اسمي
+nominal load	حِمْل اسمي
+nominal margin (of a type of apparatus)	هامش إسمي (لنوع جهاز)
+nominal module current	تيار الوحدة المُقَنَّن
+nominal operating cell temperature (NOCT)	درجة حرارة التشغيل الإسميّ للخلية
+nominal orbital position	موقع مداري اسمي
+nominal performance	أداء اسمي
+nominal pitch	خطوة اسمية
+nominal power nominal capacity	قُدرة إسمية
+nominal power of a thermo-electric vehicle	القدرة الإسمية لمركبة كهروحرارية
+nominal pressure (PN)	ضغط اسميّ
+nominal property	خاصية اسمية
+nominal pull-in torque	عزم التحريك الاسمي؛ عزم السحب الإسمي
+nominal range of an influence quantity	المدى الأسمي لكمية مؤثرة
+nominal range of an influence quantity; specified range of an influence quantity	مدى إسمى لكمية مؤثرة؛ مدى موصف لكمية مؤثرة
+nominal range of use	معامل التأثير
+nominal range,	مدى إسمى,
+nominal size (DN) / nominal size (NS) (width)	مقاس إسمى (DN)
+nominal size / nominal value / nominal width	قيمة إسمية
+nominal speed	سرعة الإسمية
+nominal steel	فولاذ اسمي
+nominal strength	مُقاوَمة اسمية
+nominal terms	قيمة إسمية
+nominal titre	عيار إسمي
+nominal tower dimensions	أبعاد برج التبريد
+nominal track gauge	مقياس اعتباري
+nominal usable field strength; reference usable field strength	شدة اسميّة لمجال قابل للإستخدام
+nominal value	قيمة إسمية / قيمة اسمية
+nominal value / rated value	قيمة اسمية
+nominal voltage	الجهد الأسمي
+nominal voltage of a system	جهد إسمي للنظام الكهربائي
+nominal voltage reference voltage target voltage	الجهد الإسمي
+nominal voltage,	جهد إسمي,
+nominal weapon	سلاح اسمي
+nominal white	بياض اسمى
+nominal width	عرض اسمي
+nominal-actual comparison	مقارنة القيمة الفعلية بالقيمة المستهدفة
+nominated reserved circuit; fall back circuit	دارة محجوزة مسماة دارة احتياطية (أثناء العطل)
+NoMix toilet / sorting toilet / urine diversion toilet	مِرحاض فَصْل
+non annex b countries /parties	بلدان /أطراف غير مدرجة في المرفق (باء)
+non aqueous cell	خلية بمحلول لامائي
+non carbonate hardness	صلابة غير فحمية
+Non clocked control	تحكّم لاتزامني
+non compressed fibreboard	لوح ألياف غير مكبوس
+non degradable residues	بقايا غير قابلة للانحلال
+non organic world	عَالَم غير عضوي
+non pressurised storage tank	صهريج تخزين غير مُكَيَّف الضغط
+non renewable	موارد غير متجددة
+non selective coating	طلاء غير انتقائي
+non toxic	غير سام
+non – destructive testing	اختبار لا إتلافي
+non – linearity	لا خَطِّية
+non – rusting reinforcement	تسليح غير قابل للصدإ
+non – slip floor	أرضية غير قابلة للانزلاق
+Non- Oil Activities	أنشطة غير بترولية
+Non- Oil Revenues	إيرادات غير بترولية
+non-active current	تيار غير فعال
+non-active power	القيمة المطلقة للقدرة غير الفعالة
+non-active power factor	عامل قدرة غير فعالة
+non-adiabatic process	عملية لاأدياباتية
+non-alkaline permanent hardness	عُسر ماء دائم لا قلويّ
+non-annex i parties	أطراف غير مدرجة في المرفق الأول
+non-asbestos pads	بطانات خالية من الأسبستوس
+Non-Asphaltic Road Oil	زيت غير أسفلتي لرش الطرق
+non-associated gas	غاز غير مواكب
+non-associated signalling	ارسال إشارات غير مترابطة
+non-automated train operation; GOA1; NTO	التشغيل غير الآلى للقطار
+non-biological degradation	تحلّل غير بيولوجي
+non-busy period	فترة شُغُور
+non-carbonate scaling potential	قابلية الترسب للا-كربونات
+non-certified organic agriculture	زراعة عضوية غير مصدقة
+non-certified organic farmer	مزارع عضوي غير مصدق
+non-circularity of cladding	لا دائريه الغلاف؛ عدم دائرية التكسيه
+non-circularity of core	عدم انتظام الدائرية في النواة؛ لا دائريه للقلب
+non-circularity of reference surface	لا دائرية السطح المرجعى؛ عدم دائرية سطح المرجع
+non-clocked control	تحكم لا زمنى؛ تحكم حـر
+non-clog impeller	دفّاعة لا انسدادية
+non-clogging	غير قابل للانسداد
+non-clogging pump	مِضخّة لا انسدادية
+non-clogging single vane centrifugal pump	مِضخّة طاردة مركزية أحادية الريشة لا تنسد
+non-co-operative scorer	مُهدِّف غير متعاوِن
+non-co-operative target	هدف غير متعاون
+non-coaxial transmission	صندوق التروس غير متماثل المحور
+non-cohesive	عديم التماسك
+non-cohesive soil	تُربَة غَير مُتَمَاسِكَة
+non-coincident peak method	طريقة الذروة غير المتزامنة
+Non-Compliance	عدم التزام
+non-concurrent forces	قوى غير متلاقية
+non-condensable gas (NCG)	غاز غير قابل للتكثف
+non-condensing controlled extraction turbine	عنفة ذات ضغط مرتد و صمام استنزاف
+non-conducting crucible	بوتقة غير موصلة
+non-conducting direction (of an electronic valve device or of a valve arm)	اتجاه عدم التوصيل
+non-conducting environment	بيئة غير موصلة
+non-conducting interval, ; idle period,	فترة عدم التوصيل,
+non-conductive dust	غبار غير موصل
+non-conference carrier	سفينة غير منضمة إلى اتحاد شركات الملاحة
+non-conformity	عدم المطابقة
+non-conjunction; NAND operation; NOT-BOTH operation; alternative denial	اقتران غير متزامن
+non-consumable arc welding electrode	قطب كهربائى غير مستهلك للحام بالقوس الكهربائى
+non-consumptive use	استخدام غير استهلاكي
+non-continuous conveyor	ناقل غير مستمر
+non-controllable connection	توصيلة غير خاضعة للتحكم
+non-controllable valve device; rectifier diode	مقوم ثنائي - جهاز صمام غير قابل للتحكم به
+non-conventional gas deposit	احتياطي الغاز غير التقليدي
+Non-Conventional Oil	زيت غير تقليدي / نفط غير تقليدي
+non-coordinated chic	متناسق مختلف
+non-countable fault	خطأ غيرقابل للعد
+non-cryptographic safety code	كود الأمان بدون تشفير
+Non-curing	عدم المعالجة
+non-degenerate semiconductor	شبه موصل ضعيف الناقلية
+non-destructive oversowing	بذر سطحي غير مدمر
+non-destructive read	قراءة غير ماسحة
+non-destructive test	اختبار لا إتلافي
+non-destructive testing	اختبار غير متلِف / اختبار لا إتلافي / اختبارات غير مدمرة
+non-destructive testing equipment	تجهيزة اختبار غير إتلافية
+non-detachable flexible cable or cord	وصلة كبل مرنة مثبتة إلى بكرة
+non-detriment finding (cites)	نتيجة غير سلبية (اتفاقية التجارة الدولية في الأنواع المهددة بالانقراض)
+non-deviative absorption	امتصاص غير انحرافي
+non-differential spoilers	مُفسدات غير تفاضلية
+non-discrimination principle	مبدأ عدم التمييز
+non-discriminatory access to charging station	صلاحية عموميّة لاستخدام محطة الشحن
+non-disengage value	قيمة عدم الإعتاق
+non-disjunction; NOR operation; NEITHER-NOR operation; NOT-OR operation	عدم الإنفصال؛ عدم التباين
+non-dissipative	غير متبدد
+non-drive end of a machine; N-end	طرف غير قابل للحركة
+non-driving motor vehicle	مركبة بمحرك بدون سائق
+non-economic techniques	تقنيات غير اقتصادية
+non-effective sortie	هجمة غير فعّالة
+non-electrical equipment	معدة غيركهربية
+non-electrode plasma torch	مصباح البلازما بدون أقطاب
+non-encapsulated-winding dry-type reactor	مفاعل من النوع الجاف ذو ملف غير مغلف
+non-encapsulated-winding dry-type transformer	محول من النوع الجاف ذو ملف مغلف
+non-energy use	استعمال غير طاقيّ
+non-equilibrium mode distribution	توزيع بصيغة اللاتوازن؛ طريقة التوزيع غير المتوازن
+non-essential auxiliary circuits	دوائر مساعدة غير أساسية
+non-ferrous alloy	سبيكة لا حديدية
+non-flame propagating component	مكون ذو إشتعال غير منتشر
+non-flame propagating conduit	ماسورة مضادة لإنتشار اللهب
+non-flame propagating conduit fitting	تجهيزات ذات إشتعال غير منتشر لربط المواسير
+non-flying prototype	نموذج أولي غير طيّار
+non-frangible wheel	قرص غير قابل للكسر
+non-galvanic corrosion	تآكل غير جلفاني
+non-governmental organisations (ngos)	منظمات غير حكومية
+non-governmental organization (NGO)	منظمة غير حكومية
+non-governmental organization [US] (NGO)	مُنظمة غير حكومية
+non-hazardous area	مساحة غير خطرة
+non-holding side	جانب غير مواصل
+non-identity operation	عملية تحديد بدون هوية
+non-incendive component "nC"	"nC" مكون غير قابل للاشتعال درجة
+non-integrated LED lamp; LEDni lamp	مصباح صمام ثنائي باعث لضوء LED غير متكامل
+non-integrated LED module; LEDni module	وحدة صمام ثنائي باعث لضوء LED غير متكاملة
+non-interchangeability	عدم المبادلة
+non-interchangeable	غير قابل للتبادل
+non-interchangeable accessory	ملحقة غير قابلة للتبديل
+non-interchangeable socket	مقبس غير تبادلي
+Non-Interlocked	بِدُونِ نِظامِ الرَبْطِ الآلي
+non-invasive testing	الإختبار الغير متداخّل
+non-inverting topology	طوبولوجيا غير عاكسة
+non-ionic detergents	منظفات غير شاردية، منظفات غير أيونية
+non-landing section	جزء ليس للحط
+non-linear	لاخطّي
+non-linear conversion	تحويل خطي
+non-linear network	شبكة لاخطية
+non-linear potentiometer	مقياس فرق الجهد لا خطي
+non-linear power supply	مصدرقدرة غير خطى
+non-linear relationship	علاقة غير خطية
+non-linear resistor	مقاوم غير خطي
+non-linear resistor type surge arrester	مانعة الجهود الزائدة من النوع غير الخطى
+non-linear, adj	غير خطي
+non-linearity correction	تصحيح غير خطى
+non-linearity distortion ; non-linear distortion	تشوه لاخطى
+Non-Lubricated Slide Baseplate	ألواح القاعدة المنزلقة الغير مشحمة
+non-luminous colour	لون غير مضىء
+non-magnetic	لا مغناطيسي
+non-magnetic drill collar	أنبوب حفر ثقيل غير ممغنط
+non-maintained control gear	معدة تحكم غير دائمة
+non-market damages	أضرار خارج إطار السوق
+non-metallic conduit	ماسورة غير معدنية
+non-metallic conduit fitting	تجهيزات غير معدنية لربط المواسير
+non-methane organic compounds	مركبات عضوية غير الميثان
+non-methane volatile organic compounds	هيدروكربورات متطايرة غير الميثان
+non-native species	أنواع غير محلية
+Non-Nuclear Testing	اختبارات غير نووية
+non-operate value	قيمة عدم التشغيل
+non-operate voltage	جهد عدم التشغيل
+non-operating state	حالة عدم التشغيل،,
+non-operating time	فترة عدم التشغيل
+non-operative active aircraft	طائرة فعّالة غير عاملة
+non-orthogonal sampling	أخذ عينات غير المتعامد
+non-overflow dam	سَدٌّ غير انسكابي
+non-parallelism	عدم تَوازٍ
+non-party	دولة غير طرف
+non-permanent flow; variable flow	تدفق مُتغير
+non-phase segregated protection	حماية مطلقة بدون تمييز لطور
+non-photochemical quenching (of photosynthesis)	تحويل غير كيماوي للضوء
+non-piercement dome	قُبَّة غير ثاقبة، قُبَّة غير اختراقية
+non-point source	مصدر تلوث منتشر
+non-point source pollution (nps)	تلوث غير محدد المصدر
+non-polarized relay	مرحل غير مستقطب
+non-pored wood	خشب غير مسامي
+non-power system fault tripping; false tripping (US)	فصل غير ناتج عن عطل في شبكة القدرة
+non-precision approach	اقتراب غير دقيق
+non-precision instrument runway	مدرج بلا أجهزة دقيقة
+non-presetting control	تحكم غير مسبق الضبط
+non-print cycle	دورة غير مطبوعة
+non-profit and not-for-profit	غير ربحية وغير هادفة للربح
+non-profit-making transport, public service	نقل جماعي
+non-program aircraft	طائرة غير مؤهلة
+non-propagated potential	جهد غير منتشر
+non-quantized system (of particles)	نظام غير كمى (للجسيمات)
+non-radial field joint	وصلة ذات مجال غير شعاعي
+non-reciprocal phase-shifter	مرنان جيرومغناطيسي
+non-reciprocal polarization rotator; non-reciprocal wave rotator	مزيح طور غير تبادلي / مدوِّر غير تبادلي للقطبية
+non-reciprocal sequential locking	قفل متسلسل غير متبادل
+Non-redundant code	كود غير مُطوَّل
+Non-reflective code	كود لاعَكوس
+non-reinforced concrete pipe	أُنْبوب خرسانيِّ غير مُسَلَّح
+non-release voltage	جهد عدم التحرير
+non-renewable energy resource	مورد الطاقة غير المتجددة
+non-renewable groundwater	مياه أرضية غير متجددة
+non-renewable resource	مورد ناضب، مورد غير متجدد / مورد غير متجدد
+non-renewable water resources	موارد مائية غير المتجددة
+non-repairable item; DEPRECATED: non-repaired item	بند غير قابل للإصلاح؛ سابقا: بند لم يتم إصلاحه
+non-repeat part	جزء غير متكرر
+non-replaceable light source	مصدر ضوء غير قابل للإستبدال
+non-required time	الفترة الغير مطلوبة
+non-reset value	قيمة عدم الرجوع
+non-reset voltage	جهد عدم إعادة الوضع
+non-resetting trailable points; two way spring points	نقاط قابلة للقطر دون إعادة
+non-resident / non-indigenous	غير مقيم / ساكن غير أصلي
+Non-Residential Consumer	مستهلك غير سكني
+non-return valve	صمام عدم العودة
+non-return valve with by-pass	صِمَام لا رجعي بصنبور تحويل، صِمَام كابح بصنبور تفريغ
+non-reusable insulation piercing connecting device; non-reusable IPCD	أداة توصيل ثاقبة للعزل للاستخدام مرة واحدة
+non-reusable twist-on connecting device	أداة توصيل لولبية للاستخدام مرة واحدة
+non-revenue water	فواقِد مائية
+non-reverse blocking valve device	جهاز صمام بلا اعاقة عكسية
+non-revert reverse voltage	جهد عدم الإرجاع العكسي
+non-revert voltage	جهد عدم الإرجاع
+non-rewirable accessory	ملحقة لا يمكن استبدال أسلاكها؛ قطعة تكميلية لا يمكن استبدال أسلاكها
+non-rigid airship	منطاد غير صلب
+non-salient pole	قطب غير بارز
+non-saline-alkali soil	تُربة قَلَويّة غير ملحية
+non-screen film; direct-exposure film	فيلم بدون شاشة
+non-sealed equipment	معدة غير محكمة
+non-selective detector,	كاشف غير انتقائى
+non-selective filter; neutral filter	مرشح غير إنتقائى؛ مرشح متعادل
+non-selective quantum detector; quantum detector	كاشف كمي غير انتقائى؛ كاشف كمي
+non-selective scattering; non-selective diffusion	تشتت غير إنتقائى؛ انتشار غير إنتقائى
+non-selective thermal radiator	مشع حرارى غير إنتقائي
+non-self-maintained discharge	تفريغ غيرمستمر ذاتيا
+non-self-maintained gas conduction	توصيل غازى غير مستمر ذاتياً
+non-self-restoring insulation	عزل غير ذاتى الأستعادة
+non-sked	غير مجدوَل
+non-skid quality	خاصية منع الانزلاق، خاصية عدم الانزلاق
+non-sparking device "nA"	جهازغير منتج شرارة درجة "nA"
+non-sparking tools	أدوات مقاومة للشرر، أدوات مضادة لانفجار الشرر
+non-spillable cell	خلية لا يتسرب منها المحلول الالكتروليتي
+non-start value; non-pick-up value	قيمة عدم البدء؛ قيمة عدم الإلتقاط
+non-stochastic effects	تأثيرات لاعشوائية
+non-structural	لا إنشائي
+non-structural flood control measures	تخفيف حدة فيضان بدون استخدام منشآت تحكم
+non-structural measures	تدابير غير هيكلية
+non-supporting body	هيكل السيارة غير الحامل
+non-synchronous	غير متزامن / لاتزامني
+non-threadable conduit	ماسورة غير ملولبة
+non-threadable entry for conduit	طرف ماسورة غير قابل للتسنين (القلوظة)
+non-transferred arc plasma torch	مصباح بلازما القوس الغير متنقل
+non-treated timber	خشب غير معالج
+non-uniform connection	توصيلة غير متجانسة
+non-uniform ice loading	حمل جليدي غير منتظم
+non-uniform insulation of a winding (of a transformer or of a reactor)	عزل غير منتظم لملف محول أو مفاعل
+non-uniform quantization; non-uniform quantizing	تحديد كمى غير منتظم / تحديد كمى غيرمنتظم
+non-unit protection	تمييز الحماية النسبي لجزء
+non-use values	قيم عدم الاستخدام
+non-user replaceable light source	مصدر ضوء قابل للإستبدال بمعرفة المصنع
+non-volatile	لا متطاير
+non-volatile storage	تخزين ثابت
+non-woven fabric	قماش الألياف المترابطة / قماش غير منسوج
+non-woven fabric; non-woven product	مادة غير منسوجة؛ مُنتَج غير محاك (2)؛ نسيج غير محاك (2)
+non-woven fabrics	قماش الألياف المترابطة
+non-woven stitch-bonded fabric	قماش صوفي غير منسوج
+non-woven velour	قطيفة صوفية
+Nonane	نونان (مادة هيدروكربونية)
+Nonassociated Gas	غاز غير مصاحب
+noncarbonate hardness	صلابة اللا-كربونات
+noncarbonate hardness (NCH)	قساوة غير كربونية
+noncoastal country	بلد بلا سواحل، بلد قارّي
+noncombustible refuse	فَضَلات غير قابلة للاحتراق
+noncondensable gas	غاز غير قابل للتكثف
+nonconformable	غير متوافق
+nonconformity	عدم مطابقة
+noncrystalline	غير متبلور
+nonferrous metals	معادن غير حديدية
+nonionic emulsion	مُستَحلَب غَير أَيُونِي
+Nonlinear control Non-linear control	ضبط لاخطّي
+nonlinear scattering	تشتت غير خطي
+Nonlinear transfer element	عنصر تحويل لاخطي
+nonlinearity non-linearity	لاخطّية
+Nonmetallic tubes	أنابيب غير معدنية، أنابيب غير فلزية
+nonmethane hydrocarbons (nmhcs)	هيدروكربورات غير الميثان (NMHCs)
+nonpoint source (NPS)	مَصْدَر غير نقطيّ
+nonpotable reuse	إعادة استخدام مياه غير صالحة للشرب
+nonputrescible	غير قابل للتفكك
+nonrenewable resource	مَصْدَر غير متجدد
+nonsettleable solids	مواد صلبة غير قابلة للترسيب
+nontronite	ننترونايت
+nonvolatile store	مخزن فاقد للمعلومات
+noppé	نسيج محبب
+NOR	علاقة (ال...) المنطقية NOR
+Noralan®	نورلان®
+Norden gear	جهاز نوردن
+Norden sight	مُصوِّبة نوردن
+Norfolk	نورفولك
+Norfolk gaiters	جوارب نورفولك
+norfolk shirt	سترة نورفولك
+noria	ناعورة
+norite	نورايت
+norm	مِعيار / معيار
+norm / rule / standard (criterion)	قاعدة
+norm / standard specification	مواصفة قياسية
+normal	ناظِم
+normal (ionospheric) absorption	امتصاص أيونوسفيري عادي
+normal (normal button or switch state)	وضع أساسي
+Normal (scheduled) Running	الحركة بنسق ثابت
+normal (traffic) routing	مسار عادي (لحركة مرور)
+normal / perpendicular / vertical	رأسيّ (شاقولي)
+normal acceleration	تسارع عمودي
+normal angle lens	عدسة ناظمية
+Normal Application	عملية الكبح الطبيعية
+normal auditory sensation area	منطقة الإحساسِ السمعيةِ العادية
+normal aXis	محور عمودي
+normal B (H) loop	حلقة (B (H عادíة
+normal body flora	ميكروبات الجسم الطبيعية
+normal cathode fall	هبوط الجهد الطبيعى فى المهبط
+normal chart datum	مُستوى سطح البحر
+normal condition	حالة عادية
+normal contact	ملامس عادى
+normal density	كثافة عادية
+normal depth	عُمْق عاديّ
+normal device	نبيطة عادية، نبيطة نظامية
+normal distribution	توزيع نظامي
+normal drive	وحدة التروس المخروطية المُعتادة
+normal end use pressure	ضغط معياري
+normal equations	معادَلات نظامية
+normal fault	صَدْع عادي / صَدْع نظامي، صَدْع عادي / فالق
+normal flow, maximum	أقصى كمية مياه تصميمية / أقصى تدفق اعتياديّ
+normal force	قوة (ال...) الناظمية / قوة عمودية
+normal force coefficient	مُعامِل القوة العمودية
+normal glide	انحدار عادي
+normal gross weight	وزن إجمالي عادي
+normal horsepower	قدرة حصانية عادية
+normal hydrological value	قيمة هيدرولوجية قياسية
+normal hysteresis loop	حلقة تخلف مغناطيسي عادية
+normal J (H) loop	حلقة (J (H عادية
+normal landing	حط عادي / هبوط عادي
+normal load,	حمل عادى,
+normal load; primary load	الحمل الاسمي
+normal loop	التفاف عادي / لفة عادية
+normal M (H) loop	حلقة (M (H عادية
+normal maintenance	صيانة عادية
+normal mode	نمط عادي
+normal mode (in a waveguide)	نمط طبيعي (في دليل موجة)
+normal mode of oscillation	نمط تذبذب عادي
+normal operation	تشغيل عاديّ / التَّشْغِيلُ الاِعْتِيادِيّ / تشغيل طبيعى
+normal operation,	تشغيل عادى / تشغيل عادى, معدة غيركهربية
+normal outsize cargo	حمولة كبيرة عادية
+normal position	وضع عادى
+normal pressure	ضغط عادي
+normal pressure drag	كبح الضغط العادي
+normal propeller state	حالة الداسر العادية
+normal pulse	نبضة عادية
+normal safety freeboard / standard freeboard	خلوص الأمان المعياريّ
+normal section	مَقطَع ناظمي / مَقْطَع نظامي
+normal sequence operation	عملية ذات تتابع نظامي
+normal service,	التشغيل العادي, ألات
+normal shock	صدم عمودي
+normal situation	وضع عادي
+normal solar illuminance	إشعاع ضوئى شمسى عادى؛ اضاءة شمسية عادية
+normal solar irradiance	إشعاع شمسي عادي
+normal solution	مَحْلُولٌ نِظامِيّ، محلول عيارى
+normal spin	انهيار حلزوني عادي
+normal state	حالة عادية
+normal strain	انفعال ناظمي
+normal stress	إجهاد ناظمي / إجهاد (ال...) الناظمي / إجهاد عادى
+normal tariff; published tariff	تعرفة عادية؛ التعريفة العادية
+normal temperature cartridge	خرطوشة تخزن في درجة الحرارة العادية
+normal threshold of hearing	مبدئ السمع العادى
+normal threshold of pain	مبدئ الألم العادي
+Normal Train Operation	التَشْغِيلُ الاِعْتِيادِيّ لِلقِطاراتِ
+normal turn	دورة عادية
+normal twist thread	خيط مبروم بشكل طبيعي
+normal use	إستخدام عادى
+normal water surface elevation; water level	منسوب المياه المُعتاد أثناء التشغيل
+normal wind phase	مرحلة رياح طبيعية
+normal-pressure system	منظومة عاملة بالضغط العادي
+normalized admittance	سماحية عيارية
+normalized coupling	اقتران موحد
+normalized data	بيانات مُستنظَمة
+normalized detectivity,	الكشفية المعيارية,
+normalized detectivity; specific detectivity; D-star	كشفيه سويه كشفية معينة؛ كشفية عيارية
+normalized difference vegetation index (ndvi)	مؤشر قياسي لتباين الغطاء النباتي
+normalized frequency; V number	التردد الطبيعي
+normalized impact sound pressure level	مستوى ضغط صوت صدم اعتياديا
+normalized impedance	معاوقة عيارية
+normalized level difference	فرق مستوى عيارى
+normalized permeate flow (NPF)	تدفق معياري
+normalized salt passage (NSP)	ممر ملحي عادي، ممر ملحي معياري
+normalized salt rejection (NSR)	احتفاظ معياري بالملح
+normalized signal	إشارة عيارية
+normalized speed	السرعة المنسوبة لسرعة الضوء
+normalized state	حالة معيارية
+normalized velocity	السرعة الإتجاهية المنسوبة لسرعة الضوء
+normalizing	معالجة بالحرارة
+Normally closed	مُغْلَقٌ عادَةً
+normally closed contact	مُلامس فتح
+normally consolidated	تربة منضغطة طبيعياً
+Normally open	مَفْتُوحٌ عادَةً
+normally open switch	زرّ مبدال مفتوح
+normally sparking device	جهاز منتج للشرارة بصورة عادية
+normative composition	تركيب معياري
+normative economics	اقتصاد معياري
+normative minerals	معادن معيارية
+normative standard	مقياس معياري
+norms	أنظمة
+north	شَمَال
+North American free trade association	رابطة التجارة الحرة لأمريكا الشمالية (NAFTA)
+north atlantic oscillation (nao)	تذبذبات شمال الأطلسي / تذبذب شمال أطلسي
+north mode	نسق شمالي / نمط شمالي
+North Pier	الرصيف الشمالي
+north pole (of a magnet)	وجه القطب
+north pole face	قطب شمالي (لمغناطيس)
+north sea	بحر الشمال
+North Tank Farm	حظيرة التخزين الشمالية
+northern turning error	خطأ الدوران نحو الشمال
+Norton theorem	نظرية نورتون
+Norwegian jumper / Norwegian sweater	كنزة نرويجية
+Norwegian trousers	سروال نرويجي
+Norwiegan design	تصميم نرويجي
+nose	مقدمة
+nose art	رسم المقدمة / فن المقدمة
+nose battens	عوارض المقدمة
+nose down	انخفاض المقدمة
+nose drive	عمود مقدمة
+nose entry	دخول المقدمة
+nose extension	إمتداد أمامي
+nose gear	عدّة حط أمامية
+nose gearboX	علبة مسننات أمامية
+nose in	مواجهة المقدمة
+nose leg	ساق المقدمة
+nose of a step	أنف درجة
+nose of tool	مقدّمة أداة
+nose over	انقلاب باتجاه المقدمة
+nose rib	ضلع أمامي
+nose slot	شق أمامي / فتحة أمامية
+nose tow	سَحْب المقدمة
+nose up	ارتفاع المقدمة / رَفْع المقدمة
+nose-cap	قمة المقدمة
+nose-dive	انقضاض رأسي
+nose-heavy	ثقيل المقدمة
+nosecone	مخروط المقدمة
+noselite	نوزيلايت
+nosewheel	عجلة مقدمة الطائرة / عجلة أمامية
+nosing; hunting,	إرتجاج
+Not acknowledged	غير مقبول
+Not Belonging to the Railway	غير تابع لشبكة السكك الحديدية
+not ready	غير جاهز
+Not to be Hump-Shunted	حظر تجاوز حدبة الفرز
+Not to be Loose Shunted	تفادي التصادم التحويلات التقاطعية
+Not Yet Competent	غَيْرُ مُؤَهَّلٍ بَعْدُ
+notation	تدوين
+notational system	نظام القيمة الموضعية
+notch	ثُلْمَة / حز / ثلمة / مرحلة السير
+notch aerial	هوائي الثلمة
+notch effect	تأثير الثلم
+notch technique	تقنية الحز
+notch toughness test	اختبار مقاومة فعل الحزة
+notch-board	نواة الدرج
+notch; step,	سن؛ نقرة
+notching	حُزّ / تحزيز
+notching adze	بليطة الحز
+notching ratio	نسبة النقر
+note	علامة موسيقية
+notice of accident	إشعار بحادثة
+notice of departure; formal message of a train’s eminent departure to station	إشعار المغادرة
+notifiable accident	حادث يجب إبلاغه
+notification	إخطار
+notification (in computer networks)	الإخطار (فى الشبكات)
+Notification of Site Visit	إخطار بزيارة الموقع
+notification that train is clear of main track	إشعار مغادرة المسار
+Notified Transmission Flow (NTF)	تدّفُق اسمي للقدرة
+notify	إخطار/ إبلاغ
+notify party	طرف يخطر بالشحن
+notify, verb	يخطر, فعل
+notional value (of a uniform multivalue digital signal)	قيمة مفهومة
+Nova cotton	قماش نوفا
+Novacore yarn	خيط غزل نوفاكور
+Novalin®	نوفالين®
+novaloid fibers®	ألياف نوفالويد®
+Novanta	نوفانتا
+Novapelle®	نوفابيل
+novelty	تجديد
+NOWC	شهادة عدم ممانعة مشروطة
+nowel	نصف سفلي من صندوق السبك
+NOX	نتروجين ـ أكسجين
+NOx exhaust sensor (AS-NO)	حسّاس العادم لقياس نسبة أكسيد النيتروجين (AS-NO)
+noxious agent	مادة ضارة (أو مؤذية)
+noxious and offensive gases	غازات سامة و قاتلة
+noxious fumes	أبخرة ضارة
+noxious matters	مواد ضارة
+noxious weeds	أعشاب ضارة
+noy	نوى (وحدة الضوضائية)
+nozzle	فوهة، صنبور / فوهة / منفث / أنبوب تفريغ
+nozzle (of a plasma torch)	فوهة (لمصباح البلازما)
+nozzle blade	ريشة فوهية
+nozzle block	مجموعة الفوهة / لوحة الفوهات
+nozzle boom	رشّاشَة حقليّة مقْطورة
+nozzle boX	صندوق فوهات
+nozzle bucket	دَلْو فوهي
+nozzle contraction ratio	نسبة تضييق الفوهة
+nozzle diaphragm	غشاء فوهي
+nozzle efficiency	فعّالية الفوهة
+nozzle eXit area	مساحة مخرج الفوهة
+nozzle eXpansion ratio	نسبة توسُّع الفوهة
+nozzle guide vane	ريشة توجيه فوهية
+nozzle insert	وليجة فوهة
+nozzle orifice	فتحة الأنبوب
+nozzle plate	صفيحة الأنبوب
+nozzle throat	عنق الفوهة
+nozzle thrust coefficient	مُعامِل دفع الفوهة
+nozzle-line method / sprayline method	طريقة خَطّ الرذاذ
+nozzle; jet	منفَث
+nozzled ribbon yarn	خيط من أشرطة الفونيات
+nozzles	فوهات
+NTC resistor	مُقاوم NTC
+NTC thermistor	ثرمستور
+nth harmonic ratio	نسبة توافقية ذات الرتبة (n)
+NTSC (colour television) system; NTSC (abbreviation)	نظام التلفاز الملون NTSC
+nuance yarn	خيط غزل خفيف التظليل
+nub effect yarn	خيط مزوي مزرر
+nub yarn	خيط مُزَرَّز / خيط مزرر مزوي
+nubuck	نوبوك
+nuclear	نووي
+nuclear (thermal) power station	محطة توليد نووية (حرارية)
+nuclear accident	حادث نووي
+nuclear activity	نشاط نووي
+nuclear airburst	انفجار نووي في الجو
+nuclear bomb	قنبلة نووية
+nuclear bomber	قاذفة نووية
+nuclear cloud	غمامة نووية
+nuclear column	عمود نووي
+nuclear criticality safety	سلامة (ال..) الحرجة النووية
+nuclear defence	دفاع نووي
+nuclear disintegration	تفتيت نووي
+nuclear dud	قذيفة نووية غير منفجرة
+nuclear emulsion	طبقة حساسة نووية
+nuclear energy	طاقة نووية
+nuclear energy agency (NEA)	وكالة الطاقة النووية (NEA)
+nuclear energy use	استخدام الطاقة النووية
+nuclear energy; nuclear power	طاقة نووية
+nuclear explosion	انفجار نووي
+nuclear eXplosive	متفجرات نووية
+Nuclear Facility	مرفق نووي
+nuclear fission	إنشطار نووى / انشطار نووي / انشطار نوويّ
+nuclear fuel	وقود نووي / وقود نوويّ
+nuclear fuel cycle	دورة الوقود النووي
+nuclear fusion	إندماج نووى / اندماج نوويّ / التحام نوويّ
+nuclear fusion source materials	المواد الأولية للاندماج النووي
+nuclear heater propulsion	دَفْع مسخّن نووي
+nuclear incident	حادثة نووية / حادث نووي
+Nuclear Installation	منشأة نووية
+nuclear isomer	مماثل نووي
+nuclear isomeric transition	تحول نووي متجانس
+nuclear magnetic resonance spectroscopy	مطيافية الرنين المغناطيسي النووي
+nuclear magnetic resonance; NMR (abbreviation)	رنين نووى مغناطيسى
+nuclear material	مواد نووية
+nuclear medicine	طب نووي
+Nuclear Nonproliferation Treaty	معاهدة عدم انتشار الأسلحة النووية
+Nuclear or Radiological Emergency	حالة الطوارئ النووية أو الإشعاعية
+nuclear power phase-out	إنهاء استخدام الطاقة النووية
+nuclear power plant	محطة طاقة نووية
+nuclear power station	محطة للطاقة النووية
+Nuclear Proliferation	انتشار نووي
+nuclear radiation	إشعاع نووي
+Nuclear Radiological Regulatory Commission	هيئة الرقابة النووية والإشعاعية
+nuclear reaction	تفاعل نووي
+nuclear reactor	مفاعل نووي
+Nuclear Related Items	متعلقات نووية
+nuclear rocket	صاروخ نووي
+Nuclear Safeguards	ضمانات نووية
+Nuclear Safeguards Agreement	اتفاق الضمانات النووية
+Nuclear Safety	أمان نووي
+nuclear safety line	خط الأمان النووي
+nuclear surface burst	انفجار نووي سطحي
+nuclear surface moisture density gauge	مقياس الرطوبة و الكثافة للسطح النووي
+nuclear underground burst	انفجار نووي تحت الأرض
+nuclear waste	نفايات نووية
+nuclear weapon	سلاح نووي
+nuclear weapon accident	حادث سلاح نووي
+nuclear winter	شتاء نووي
+nuclear yield	نتاج نووي
+Nuclear-Coal Fired Units	وحدات تعمل بالطاقة النووية والفحم
+nuclear-track emulsion	مستحلب مسارِ نوويِ
+nuclear-weapon degradation	انحطاط السلاح النووي
+nuclear-weapon employment time	زمن عمل السلاح النووي
+nuclear-weapon eXercise	تدريب بالسلاح النووي
+nucleation scavenging	محاصرة التنوي
+nucleon	نيكلون / نوية ( نيوكليون) / نُوَيَّة
+nucleon number; mass number	عدد نووى؛ عدد كتلى
+nucleonics	نوويّات
+nucleotide	نيوكليتيد
+nucleus	نواة
+nuclide	نيوكيلد / نويدة
+nude	قماش نود
+nuisance factors	عوامل الضرر
+nuisance malfunction	سوء أداء مزعج
+Nuisance threshold	عتبة الإزعاج
+null	صفر / لاغٍ
+null (method of) measurement	القياس (بطريقة) تفاضلية
+null character	رمز فارغ
+null measurement method	طريق القياس الصفري
+null method of measurement	طريقة القياس الصفري
+null position	موضع الصفر
+null-steering antenna	هوائى غير موجه
+Number metric	عدد متري
+Number of Critical Hours	عدد الساعات الحرجة
+number of entities	عدد كينونات
+number of inherent tapping positions	عدد وضعيات التفريغ الذاتية
+number of lifts	عدد الرَّفعات
+number of private sidings serviced	خدمة الفرع
+number of revolutions; rotational speed (rpm)	سُرعة دَوَرانية
+number of service tapping positions	عدد وضعيات التفريغ العاملة
+number of significant conditions	عدد من الشروط الهامة
+number of the shipping unit	رقم وحدة الشحن
+number system	نظام عددي
+number tolerances / linear density tolerances	عدد التحمل
+number variations / linear density variations	اختلافات العدد
+number-unobtainable tone; vacant-code tone (US)	نغمة رقم غير موجود بالخدمة
+numbering	ترقيم
+numbering machine	آلة ترقيم
+numeric	عددي
+numeric positions; lower curtate	مواقع رقمية، مواضع رقمية
+numerical aperture; NA (abbreviation)	فتحة رقمية
+numerical cadastre	عقاري عددي
+Numerical Control	هندسة التحكّم الرقميّ (NC) / هندسة التحكّم الرقمي (NC) / تحكّم رقمي / تحكم عددي
+numerical control axis	محور التحكّم الرقميّ
+numerical control coordinate system	نظام (ال...) الإحداثي للتحكّم الرقمي
+numerical control coordinate transformation	تحويل إحداثيات التحكّم الرقميّ
+numerical control engineering/ numerical control technology	هندسة التحكّم الرقمي (NC)
+Numerical Control Interpolation	استكمال التحكّم الرقميّ
+numerical control machine	ماكينة التحكّم الرقميّ
+numerical control machine tool	ماكينة تشغيل بالتحكّم الرقميّ
+numerical control program	برنامج التحكّم الرقميّ
+numerical control progrmming	برمجة التحكّم الرقميّ
+Numerical Control sentence	جملة التحكّم الرقمي
+numerical integration	تكامُل عدديّ
+numerical ionospheric map	خريطة أيونوسفيرية رقمية
+numerical method	طريقة عددية
+numerical relay	مُرَحِّل عددى
+numerical value	قيمة مقاسة
+numerical value equation	معادلة قيمة عددية
+numerical value; numerical quantity value; numerical value of a quantity	قيمة عددية (قيمة عددية لوحدة)
+nummulitic limestone	حجر جيري نوميوليتي
+nun sleeves	أكمام الراهبات
+nunatak	نوناطاك (Nunatak)
+nurse	ممرض(ة)
+nurse balloon	بالون احتياطي
+nurse’s fabric	قُماش الراهبات
+Nusselt number; Biot number	عدد نيصليت؛ عدد بيوت
+nut	صامولة
+nut runner	مجرى صامولة
+nut splitter	كسّارة الصواميل
+nut tapping machine	آلة ذات حزقة (لثقب الأنابيب المركبة)
+nut wood	خشب البندق
+nutating feed	تغذية مترنّحة
+nutation	ترنّح ، تمايل المحور / ترنُّح
+nutation damper	مُخمّد ترنّح ، مخمد للتمايل
+nutator	مُرنِّح
+nutcracker	طائرة كسَّارة الجوز
+nutplate, nut plate	صفيحة صامولة
+nutria	فرو الكَيْب
+nutrient	غذاء / مادَة غذائيَة
+nutrient containing	مُحتوٍ على مُغذّيات
+nutrient contamination	تلوّث العناصر الغذائية
+nutrient content	مُحتوى غذائيّ
+nutrient cycle	دورة المغذيات
+nutrient cycling	دورة مغذيات
+nutrient deficient / nutrient poor	فقير في نسبة المُغذيّات
+nutrient humus	دبال مغذي
+nutrient input	تزويد (ال...) بالعناصر الغذائية
+nutrient media, biological	مُغذّيات بيولوجية للتُربة
+nutrient removal	عَزْل المُغذيّات
+nutrient requirement	الاحتياج للمُغذيّات
+nutrient requirements	احتياجات غذائية
+nutrient salt	ملح مُغذٍ
+nutrient salts (pl.)	أملاح مُغذيّة
+nutrient salts removal	إزالة الأملاح المُغذّية
+nutrient separation	فَصْل المُغذيّات
+nutrient, available	مُغذيّات مُتاحة
+nutrients	مواد مغذية
+nutrition	تغذية
+nutritional adequacy	آفاية غذائية
+nutshell filter	مُرشِّح قشر الجوز
+nwfp (non-wood forest product)	منتجات حرجية غير خشبية
+Nydelia	نيديليا
+nylon	نايلون / نيلون
+Nylsilk	حرير نيلون
+Nyquist criterion	معيار نايكست
+Nyquist criterion and control quality	معيار نايكست وجودة الضبط
+Nyquist criterion and Nyquist plot	معيار نايكست ومُنحنى المكان
+Nyquist criterion for instability of the closed loop	معيار نايكست لعدم استقرار الدائرة المُغلقة
+Nyquist criterion for marginal stability of the closed loop	معيار نايكست للاستقرار الحديّ للدائرة المُغلقة
+Nyquist criterion, based	اساس معيار نايكست
+Nyquist demodulator	مستخلص نيكوست
+Nyquist diagram	مُخطّط نايكست
+Nyquist frequency	تردد نيكوست
+Nyquist slope bandwidth	نطاق إنحدار نيكويست
+nystagmus	رأرأة العين
+Nysted	حقل 'نيستيد'
+Néel temperature; Néel point (deprecated)	درجة حرارة (نيل)
+Néel wall	حائط (نيل) / جدار نيل

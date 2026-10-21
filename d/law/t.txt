@@ -1,0 +1,282 @@
+taboos	نَواهٍ، محرَّمات
+tacit abrogation	إلغاء ضمنيّ
+tacit acceptance	قَبول ضمنيّ
+tacit agreement	اتفاقية ضمنية، اتفاق ضمنيّ
+tacit consent	رِضىً ضِمنيّ، تراضٍ ضِمنيّ
+Tacit Knowledge	معرفة ضمنية
+tacit mandate	وكالة ضمنية
+tacit novation; tacit reconduction	تجديد ضمنيّ
+Tact Time	تاقت الوقت
+Tactical Level	مستوى تكتيكي
+Tactical/Operational Sourcing	مصادر تكتيكية / تشغيلية
+Tail Spend	إنفاق الذيلي
+Tailored Products	منتجات مصممة خصيصا
+Takeover	الإستحواذ
+taking an oath	أداء اليمين
+talion	قصاص
+Tall Poppy Syndrome	متلازمة الخشخاش طويل القامة
+Tangible	ملموس
+Tangible Assets	أصول مادية / أصول ملموسة
+tangible property	أملاك مادية
+Target Company	شركة مستهدفة
+Target Contract	عقد هدف
+Target Cost	تكاليف المستهدفة أو اللازمة
+Target Cost Analysis	تحليل التكلفة المستهدفة
+Target Fee	رسوم مستهدفة
+Target Service Levels	مستويات الخدمة المستهدفة
+Targeted Segmentation	تجزئة مستهدفة
+tariff	تعريفة
+tariff barriers; walls barriers	حواجز جمركية
+tax	ضريبة
+Tax Avoidance	تجنب ضريبي
+tax base	أساس الضريبة / وعاء ضريبي
+tax collector	مُحَصِّل الضرائب، قابِض الضرائب
+tax cut	تخفيض الضريبة، خَفْض الضريبة
+Tax Dispute	مُنازعَة ضريبية
+Tax Evasion	تهرب ضريبي
+Tax Exemption	إعفاء ضرِيبي
+tax fraud	غِشّ ضريبـيّ
+tax increase	زيادة الضريبة
+tax law; fiscal law	قانون جبائيّ، قانون ضريبـيّ
+tax payer	دافِع الضريبة
+tax reduction	تنـزيل الضريبة
+taxable year	سَنَة ضريبية / سنة ضريبية
+taxation	فرْض ضريبة
+Taxonomies	تصنيفات
+Ta’sib	تعصيب
+Ta’zir	تعزير
+teacher in law	أستاذ قانون
+Teardown	تقييم التنافسي
+Technical (Conformance) Specification	مواصفات فنية (المطابقة)
+technical expertise	خبرة فنية، خبرة تقنية
+Technical Investigation	تحقيق فني
+Technical Nutrient	مغذيات تقنية
+Technical Regulations	لائحة فنية
+Technical Specification	مواصفات فنية
+technocracy	حكومة الفنيّين
+Technology	تكنولوجيا
+Technology readiness level	مستوى جاهزية التقنية
+Technology transfer office	مكتب نقل التقنية
+temporary arrest	وضْع تحت الحراسة
+temporary occupation	استيلاء مؤقَّت
+Temporary protection	الحماية المؤقتة
+temporary resident permit; certificate of registration	بطاقة إقامة مؤقتة
+Temporary Taking of Property	وضع اليد المؤقت على العقار
+Temporary trade protection	حماية مؤقتة للعلامة
+temporary work; temporary labour	عمل مؤقت، شغل مؤقت
+tender	عطاء، عَرْض / مناقصة
+Tender Evaluation	تقييم العطاء
+tenderer	مُقدِّم الطلب
+Tendering	مناقصات
+term	أجلٌ
+Term Contracts	عقود لأجل
+term of delivery	أجلُ التسليم
+term of notice	مهلة إخطار
+term of payment	أجلُ الأداء، ميعاد الدفع
+term of prescription	أجلُ التقادم
+termination	فَسْخ، انتهاء
+Termination Clauses	شروط الفسخ
+termination of contract	فَسْخ العقد
+Terms And Conditions	أحكام وشروط
+terms of the agreement	بنود الاتفاق، شروط الاتفاق
+territorial competence; local competence	اختصاص محليّ، اختصاص مكانـيّ
+Territorial Jurisdiction	اختصاص مكاني
+territorial law	قانون إقليميّ
+Territorial Sea	بحر إقليمي
+territorial waters	مياه إقليمية
+territoriality of laws	إقليمية القوانين
+territory	إقليم
+terror	رُعْب، فَزَعٌ
+terrorism	إرهاب
+terrorist	إرهابيّ
+Tertiary Sector	قطاع الخدمات
+testamentary succession; testamentary will	تَرِكة بالوصية
+testate	مورِّث (ال..)
+testator	موصٍ / مُورِّث
+testatrix	موصِية
+testimony	شهادة، إفادة / شهادة
+Testing	اختبارات
+The Dupont Identity	هوية دوبونت
+The European Free Trade Association	رابطة التجارة الحرة الأوروبية
+The Fairtrade Foundation	مؤسسة التجارة العادلة
+The Last Mile	الميل الأخير
+The owner of the protection document	مالك وثيقة الحماية
+The Plan-Do-Check-Act (PDCA)	خطط نفذ تحقق اعتمد
+The Public Interest Test	اختبار المصلحة العامة
+The Ricardo Principle	مبدأ ريكاردو
+theft	سرقة
+theocracy	تيوقراطية
+theory	نظرية
+Theory Drive Evaluation	تقييم محرك النظرية
+Theory Of Constraints (TOC)	نظرية القيود
+Theory Of Swift، Even Flow	نظرية السرعة، حتى التدفق
+Thinking Range	نطاق التفكير
+third arbitrator; umpire	حُكْم (ال..) المرجع
+Third Party	طرف ثالث
+third person; third party	غير (ال..)، طرف ثالث
+Third Sector	قطاع ثالث
+third world	عالم (ال..) ثالث
+Third-Party Logistics Provider	مزود الخدمات اللوجستية من طرف ثالث
+Third-Sector Organizations	منظمات القطاع الثالث
+threat	تهديد
+Three dimensional works	المصنَّفات المجسمة
+Three-Way Match	مباراة ثلاثية
+Threshold	عتبة
+throne	عَرْش
+Through-Life Contracts	عقود مدى الحياة
+Throughput Time	وقت الانتاجية
+Tier	طبقة
+Tier One Supplier	مورد المستوى الأول
+Tier Skipping	تجاهل الطبقة
+Tier Two Supplier	مورد المستوى الثاني
+Tightly Coupled Supply Chain	سلسلة التوريد المقترنة بإحكام
+Time And Materials (T&M)	الوقت والمواد
+time bargain; term bargain	صفقة آجلة، صفقة مؤجلة
+Time Barred	إنقضاء الوقت
+Time Bucket	الحيّز الوقت
+Time Charter	ميثاق الوقت
+Time Is Of The Essence	الوقت هو جوهر المسألة
+time of payment	ميعاد الاستحقاق
+time sale	بَيْع لأجل
+Time Series	سلاسل زمنية
+Time To Market (TTM)	وقت التسوق
+Time Value Of Money	قيمة زمنية للنقود
+Time-Based Competition	منافسة ينقصها الكمال
+Time-based Contract	عقد زمني
+Time-share Contract	عقد المشاركة بالوقت
+timesheet	ورقة الحضور
+tip	إكرامية
+Tiring	طبقات
+title	سَنَدٌ، حُجّة / عنوان
+Title Deed	صك الملكية
+Title of a work	عنوان المصنَّف
+title of property	سَنَدُ الملكية
+Title To Goods	حق ملكية البضائع
+Tooling	أدوات
+Tort	ضرر
+torture	تعذيب
+Total Asset Turnover	إجمالي معدل دوران الأصول
+Total Cost	تكلفة الإجمالية
+Total Cost Modelling	نمذجة التكلفة الإجمالية
+Total Cost Of Supply	إجمالي تكلفة التوريد
+Total Landed Cost	التكلفة الإجمالية للوصول
+Total Life Cost	إجمالي تكلفة الحياة
+Total or partial revocation	إبطال كلي أو جزئي
+Total Target Cost	التكلفة الإجمالية المستهدفة
+totalitarianism	تجميع السلطة، دكتاتورية
+Tote Box	صندوق حمل
+Touchpoints	نقاط التواصل
+town planning	تنظيم المدُن
+Toyota Production System	نظام إنتاج تويوتا
+TQM Systems	أنظمة إدارة الجودة الشاملة
+Traceability	تتبع
+Tracing Right	حق التتبع
+Trade Bloc	كتلة تجارية
+trade books	دفاتر تجارية
+Trade Contracts	عقد المتاجرة أو العقود التجارية
+Trade Execution	تنفيذ الصفقة
+Trade Name	اسم تجاري
+Trade Off	نفخة التجارة
+Trade Payables	ذمم دائنة تجارية
+Trade Receivables	ذمم تجارية
+trade register	سِجلّ تجاريّ
+Trade secret	سر تجاري
+Trade Unions	نقابات عمالية
+trade usage	عُرْف الحرفة، عُرْف المهنة
+Trade War	حرب تجارية
+Trade-Offs	مفضالات
+trade-union	نقابة مِهْنية
+trade-union freedom; trade-union liberty	حرية نقابية
+trade-union movement	حركة نقابية
+Tradeable	متاجرة
+trademark	علامة تجارية / العلامة التجارية
+Trademark amendment	تعديل العلامة التجارية
+Trademark associated with smell	علامة الرائحة
+Trademark associated with sound	علامة الصوت
+Trademark cancellation	شطب العلامة
+Trademark for non-commercial purpose	علامة لغايات غير تجارية
+Trademark integrity	ذاتية العلامة التجارية
+Trademark licensing	ترخيص استعمال العلامة
+Trademark mortgage	رهن العلامة التجارية
+Trademark opposition period	مدة الاعتراض على العلامة
+Trademark petition date	تاريخ تقديم استأنف علامة
+Trademark register	سجل العلامة التجارية
+Trademark renewal	تجديد العلامة
+Trademark services	خدمات العلامة التجارية
+Trademarks class of goods	فئات السلع للعلامة التجارية
+traffic accident	حادثة مرور، حادثة طريق
+Traffic Fine	غرامة مرورية
+Traffic Light (Or RAG) Method	أسلوب الدفع
+traffic police	شرطة المرور، شرطة السير
+Trafficking in Persons	اتجار بالأشخاص
+traineeship	تدريب
+training	تكوين / تمرين
+Training And Development	تدريب وتطوير
+transaction	مُعامَلة / عملية
+Transaction Exposure	تعرض الصفقة
+transactional	تصالحيّ
+Transactional Leadership	قيادة المعاملات
+Transactional Purchasing	مشتريات المعاملات
+Transcendent Approach	نهج متعالي
+transcription	تدوين، تسجيل
+transfer	نَقْل، حوالة
+transfer of debt	حوالة الدين
+Transfer of Obligation	انتقال الالتزام
+Transfer of Ownership	انتقال الملكية / نقل الملكية / نقل ملكية
+transfer of right	حوالة الحق
+Transfer of title	نقل الملكية
+transferable	قابل للتحويل
+transferable securities	قِيم منقولة
+Transferring trademark by endowment	نقل ملكية العلامة بالهبة
+Transferring trademark by inheritance	نقل ملكية العلامة بالإرث
+Transferring trademark by testament	نقل ملكية العلامة بالوصية
+transformation	تحوُّل، تحويل
+Transformational Programmers	برامج تحويلية
+transgression	مُخالفَة، خَرْق
+transgression of law	مُخالَفة القانون، خَرْق القانون
+transit	عبور
+transition	انتقال
+Transitional Economy	إقتصاد انتقالي
+transitory provisions	أحكام انتقالية
+transitory; transitional	انتقاليّ، عابِر
+Translation works	مصنفات الترجمة
+transmittal of a file	وَضْع الملف رهن إشارة المعنيّ
+transnational crime	جريمة عابرة للقارات، جريمة عابرة للحدود
+Transparency	شفافية
+Transport	مواصلات
+transport company; carrying company	شركة نقل
+transport contract	عقْد النقل
+Transport Optimization Modelling	نمذجة تحسين النقل
+transportation	نَقْل
+Transportation Management System	نظام إدارة النقل
+Travel Ban	منع من السفر
+traveler's cheque	صكُّ سفر، شيك سياحيّ
+treason	خيانة
+treasurer	خازن، أمين الصندوق
+treasury	خزينة عامة / بيت المال
+treasury bill	سند الخزينة
+treaty	معاهَدة / معاهدة
+treaty of commerce	معاهدة تجارية
+treaty of peace	معاهدة السلم، معاهدة سلام
+Trial	محاكمة
+Triangulation	التثليث
+Trigger Events	حدث محفز
+Tripartite	اتفاقية ثلاثية
+Triple Bottom Line	محصلة نهائية ثلاثية
+triple name	اسم ثلاثيّ
+Trust	ثقة
+trust company	شركة ائتمانية
+Trustee	أمين / وصي
+trustee in bankruptcy	مأمور التفليسة، سنديك
+Trusteeship	وصاية
+Trustworthiness	جدارة بالثقة
+truth	حقيقة
+Tube End Treatment	معالجة "نهاية الأنبوب"
+TUC	مؤتمر اتحاد العمال
+TUPE Legislation	تشريعات
+Turnkey Contract	عقد تسليم المفتاح
+turnover	رقْم الأعمال، مبلغ المعاملات
+tutelage	وِصاية
+type contract	عقد نموذجيّ
+tyranny	طغيان، تسلُّط
+tyrant	طاغية، ظالم

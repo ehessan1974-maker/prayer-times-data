@@ -1,0 +1,247 @@
+بؤبؤ الخروج	exit port; expit pupil
+بؤبؤ الدّخول	entrance pupil
+بؤبؤ العين	pupil of the eye
+بؤرتا العدسة	foci of lens
+بؤرتان أساسيتان	principal foci
+بؤرتان مترافقتان	conjugate foci / foci (conjugate..)
+بؤرة	focus
+بؤرة أساسية	focus point; principal focus
+بؤرة أصلية؛ محرق أصلي	principal focus
+بؤرة خيالية؛ محرق خيالي	image-side focus
+بؤرة رئيسية	principal focus
+بؤرة شبه محورية	paraxial focus
+بؤرة لانقطية	astigmatic focus
+بؤرة؛ محرق	focus
+بئر الجهد المستطيلة (ن)	rectangular potential well
+بئر جافة (ن)	dry well
+بئر جهد؛ بئر كمون	potential well
+بئر رطبة (ن)	wet-well
+بئر كمون مربَّعة	square-well potential
+بئر مربعة (ن)	square potential well
+باتجاه عقارب الساعة	clockwise
+باتجاه عقرب الساعة	clockwise
+بار	bar
+بارن	barn
+بارومتر	barometer
+بارومتر مسجِّل	barograph
+باريوم	barium
+باريوم مشع	radioactive barium
+باريون مضاد	antibaryon
+باريونات	baryons
+باعِث ألفا (ن)	alpha emitter
+باعث بيتا (ن)	beat emitter
+باعث؛ مرسِل	emitter
+بايت	byte
+بايون	pion = pimeson
+بتشبلند	pitchblende
+بتشبلند: خام اليورانيوم	pitchblende
+بِتَّة	bit
+بثّ انتشاري	diffuse transmission
+بخار	steam / vapor / vapor; vapour
+بخار غير مشبع	unsaturated vapour
+بخار ماء مشبّع	saturated steam
+بخار مشبّع	saturated vapour
+بخار مشع	radioactive steam
+بديل النضيدة	battery eliminator
+بديهية	axiom
+برا	bra
+برّاد	cooler
+براد؛ ثلاجة	refrigerator
+برادة الحديد	iron-filings / irons-filings
+براسيوديميوم	praseodymium
+براكِت	braket
+برج التبريد (ن)	cooling tower
+بَرَد	hail
+برق كروي	globular lightning
+برق متشعب	fork lightning
+برق متعرج	zigzag lightning
+برقيّة	telegram
+برقية لاسلكية	radiotelegram; radiogram
+بركليوم	berkelium
+بركة التبريد (ن)	cooling pond
+بَرْم	spin / spin (to..)
+بَرم نووي (ن)	nuclear spin
+برمجية راسخة	firmware
+بروتكتينيوم	protactinium
+بروتون	proton
+بروتون (ن)	proton
+بروتون ضوئي	photoproton
+بروتون فوتوني	photoproton
+بروتون مضاد	antiproton
+بروتيوم	protium
+بروم	bromine
+برومثيوم	promethium
+برونز	bronze
+بريق حَرِج	critical opalescence
+بريليوم	beryllium
+بزموت	bismuth
+بصري ضوئي	optical
+بصريات (ال...)	optics
+بصريات (ال...) الهندسية	geometrical optics
+بصـريات الألياف	fiber optics
+بصريات الكترونية	electronic optics
+بصـريات خطية	linear optics
+بصـريات لاخطية	nonlinear optics
+بصـريات مغنطيسية	magneto-optics
+بصـريات نترونية	neutron optics
+بِطاء	hysteresis
+بِطاء كهربائي	electric hysteresis
+بطاء كهرحديدي	ferroelectric hysteresis
+بِطاء مغنطيسي	magnetic hysteresis
+بطارية	battery
+بطارية شمسية	solar battery
+بطارية عالية الجهد	high tension battery
+بطارية نووية كهرحرارية	thermoelectric nuclear battery
+بطارية نيكل كادميوم	nicad battery / nickel-cadmium battery
+بطاقة	card
+بطن	antinode
+بطن عُرْوة	antinode; loop
+بُعْد	dimension
+بعد (ال...) البؤري الأمامي	front focal length
+بعد (ال...) البؤري لعدسة	focal length of a lens
+بعد (ال...) البؤري لمرآة	focal length of a mirror
+بعد (ال...) الرابع	fourth dimension
+بعد (ال...) القطبي الشمالي	north polar distance
+بعد بؤري	focal distance; focal length
+بعد بؤري جسمي	front focal length
+بعد بؤري خلفي	back focal length
+بعد بؤري مختزَل	reduced focal length
+بعد بؤري؛ بعد محرقي	focal distance
+بعد صادي	ordinate
+بُعْد ظاهري	apparent distance
+بعد قطبي	polar distance
+بعد محرقي خلفي	back focal length
+بعد نظرٍ	hypermetropia; hyperopia
+بُعد هُدبي	interfringe
+بغير حمّال (ن)	carrier-free
+بقعة	Arago spot
+بقعة (ال...) الصفراء	yellow spot
+بقعة (ال...) العمياء في العين	blind spot of the eye
+بقعة صفراء	luted macula / yellow spot
+بقعة صفراء، لطخة صفراء	macula lutea
+بُقعة عمياء	blind spot
+بقَّة	bug
+بِكْرِل	becquerel
+بكرة	pulley
+بكرة مفردة	single pulley
+بِل	bel
+بلاتين	platinum
+بلاديوم	palladium
+بلازما	plasma
+بلازما أصلية	ylem
+بلسم كندا	canada balsam
+بَلَق آيسلندة	Iceland spar
+بلوتونيوم	plutonium
+بلوتونيوم (ال...) (ن)	plutonium
+بلوتونيوم معاد التوليد	regenerated plutonium
+بلّور (ة)	crystal
+بلورات تَوْءمية	twin crystals
+بلورات توأمية	twin crystals
+بلورات ذات مقطع	BT-cut crystal
+بلّورات متشاكسة	enantiomorphs crystals
+بلورات مرو	quartz crystals
+بلورة	crystal
+بلورة أحادية	single crystal
+بلورة أحادية المحور	uniaxial crystal
+بلورة أحادية الميل	monoclinic crystal
+بلورة أصلية اللون	idiochromatic crystal
+بلورة أصيلة اللون	idiochromatic crystal
+بلورة التكافؤ	valence cristal
+بلّورة أم	mother crystal
+بلورة انعطافية	flexure crystal
+بلّورة أيونية	ionic crystal
+بلورة تساهمية	covalent crystal
+بلورة تكافؤية	covalent crystal / valence crystal
+بلورة ثنائية	bicrystal
+بلَّوْرة ثنائية المحاور	biaxial crystal
+بلورة ثنائية المحور	biaxial crystal
+بلّورة جزيئية	molecular crystal
+بلورة خليط	mixed crystal
+بِلَّوْرة ذات مقطع	AT-cut crystal
+بلّورة سائلة	liquid crystal
+بلّورة سالبة	negative crystal / optically negative crystal
+بلورة سداسية	hexagonal crystal
+بلّورة طولية	longitudinal crystal
+بلورة فوتونية	photonic crystal
+بلّورة قطع سيني	X- cut crystal
+بلورة قطع صادي	Y- cut crystal
+بلّورة قطع عيني	Z- cut crystal
+بلورة كهرضغط	piezoid
+بلورة كهرضغطية	piezoelectric crystal
+بلّورة كهرضغطية رنّانة	resonating piezoid
+بلورة كهرنارية	pyroelectric crystal
+بلورة لاخطية	nonlinear crystal
+بلورة لونانية؛ بلورة ثنائية التلون	dichroic crystal
+بلورة متشاكلة	isomorphous crystal
+بلورة متغيرة اللون	allochromatic crystal
+بلورة متناحية	isotropic crystal
+بلورة مزيج	mixed crystal
+بلورة مكعبية	cubic crystal
+بلّورة موجبة	optically positive crystal / positive crystal
+بلّورة نصف مكتملة الوجوه	hemihedral crystal
+بلورة وميض	scintillation crystal
+بِلَّوري (ن)	crystalline
+بلوندل	blondel
+بُلَيْلِرات	crystallites
+بنزين	gasoline
+بنفسجي	violet
+بنية	structure
+بنية الأذن	ear structure
+بنية البلورة	crystal structure
+بنية اللب (ن)	core structure
+بنية ألمْاسِيَّة	diamond structure
+بنية بِلَّورية	crystal structure
+بنية جزيئية	molecular structure
+بنية حقل	domain structure
+بنية دقيقة	fine structure
+بنية دقيقة (ن)	fine structure
+بِنية ذرية	atomic structure
+بنية ذرية (ن)	atomic structure
+بنية سداسية متراصة	hexagonal close-packed structure
+بنية طبقية	layer structure
+بِنية عصابات الطاقة	band structure / energy band structure
+بنية فسيفسائية	mosaic structure
+بِنْية متراصة	close packed structure
+بنية متساوية التآصر	mesodesmic structure
+بنية متساوية الترابط	isodesmic structure
+بنية متغايرة	heterostructure
+بِنية مركزية الجسم	body-centered structure / body-centred structure
+بنية مركزية الوجوه	face-centered structure / face-centred structure
+بنية مفرطة الدقة	hyperfine structure
+بِنْية مكعبية مركزية الجسم	body-centered cubic structure
+بنية نصف الناقل العِصابية	semiconductor band structure
+بنية نووية	nuclear structure
+بوّابة	gate
+بوابة عاكسة	inverter gate
+بوابة منطقية	logic gate
+بواز	poise
+بوتاسيوم	potassium
+بور	boron
+بوزترون	positron
+بوزون	boson
+بوزون هيغز	Higgs boson
+بُوصلة	compass
+بوصلَة (موصِلة)	compass
+بوصلة الميل	dip circle
+بوصلة بحرية	mariner's compass
+بوق	horn / speaking trumpet
+بوق ذو زالقة	trombone
+بوق سمعي	ear trumpet
+بولارون	polaron
+بولارويد	polaroid
+بولمتر	bolometer
+بولونيوم	polonium
+بياض العين	sclerotic; sclera
+بيان نتروني	neutron economy
+بيانات، معطيات	data
+بيانات؛ معطيات	data
+بيتا ترون	betatron
+بيرومتر كهرحراري	thermoelectric pyrometer
+بيرون	pyron
+بيفا ترون	bevatron
+بيفاترون	bevatron
+بيكوفاراد	picofarad
+بيل جاف	dry cell
+بيل دانييل	Daniell cell
+بيولوجيا فضائية	bioastronautics
+بيون	pion

@@ -1,0 +1,730 @@
+ذُؤابَة (وسط هامة الرأس)	centriciput
+ذؤوب في الماء	hydrosoluble
+ذَؤُوب، ذَوَّاب	soluble
+ذِئْبَةُ التَّثْلِيْجِ ( ذِئْبَةٌ حُمَامِيَّةُ تَثْلِيْجِيَّة)	chilblain lupus (chilblain lupus erythematosus)
+ذِئْبَةٌ بُقَعِيَّة	lupus maculosus
+ذِئْبَةٌ تَثْلِيْجِيَّة	lupus pernio
+ذِئْبَةٌ تَقَرُّحِيَّة	lupus exulcerans
+ذِئْبَةٌ تَقَشُّرِيَّة	lupus exfoliativus
+ذِئْبَةٌ ثُؤْلُولِيَّة ( ذِئْبَةٌ مُثَألَلَة)	lupus verrucosus (warty lupus)
+ذِئْبَةٌ جادِعة	lupus mutilans
+ذِئْبَة ٌجُدرَوِيَّة	keloidal lupus
+ذِئْبَةٌ حُمامِيَّةٌ	lupus erythematosus
+ذِئْبَةٌ حُمَامِيَّةٌ تَثْلِيْجِيَّة	chilblain lupus erythematosus
+ذِئْبَةٌ حُمَامِيَّةٌ جِلْدِيَّة	cutaneous lupus erythematosus
+ذِئْبَةٌ حُمَامِيَّةٌ ضَخامِيَّة	lupus erythematosus hypertrophicus
+ذِئْبَةٌ حُمَامِيَّةٌ ضَخامِيَّةٌ وعَميقَة	lupus erythematosus hypertrophicus et profundus
+ذِئْبَةٌ حُمَامِيَّةٌ ظُفْرِيَّة جادِعَة	lupus erythematosus unguium mutilans
+ذِئْبَةٌ حُمَامِيَّةٌ عُقَيْدِيَّة	lupus erythematosus nodularis
+ذِئْبَةٌ حُمَامِيَّةٌ عَميقَة	lupus erythematosus profundus
+ذِئْبَةٌ حُمَامِيَّةٌ قُرْصِيَّة	discoid lupus erythematosus / lupus erythematosus discoides
+ذِئْبَةٌ حُمَامِيَّةٌ مَجْموعِيَّة	systemic lupus erythematosus
+ذِئْبَةٌ حُمَامِيَّةٌ مُهاجِرَة	lupus erythematosus migrans
+ذِئْبَةٌ حُمَامِيَّةٌ وَرَمِيَّة	lupus erythematosus tumidus
+ذِئْبَةٌ حَنْجَرِيَّة	laryngeal lupus
+ذِئْبَةٌ دُخْنِيَّة وجهيَّة مُنْتَشِرَة	lupus miliaris disseminatus faciei
+ذِئْبَةٌ شائِعة	lupus vulgaris
+ذِئْبَةٌ صَدَفِيَّةُ الشَكل	lupus psoriasiformis
+ذِئْبَةٌ ضَخامِيَّة	lupus hypertrophicus
+ذِئْبَةٌ ضُمُوْرِيَّةٌ	lupus atrophicus
+ذِئْبَةٌ عَقِدَة	lupus nodosus
+ذِئْبَةٌ عَمِيْقَة	lupus profundus
+ذِئْبَةٌ غَنْغَرينيَّة	lupus gangrenous
+ذِئْبَةٌ مُتَصَلِّبة	lupus sclerosus
+ذِئْبَةٌ مُتَوَسِّعَة الشُّعَيرات	telangiectatic lupus
+ذِئْبَةٌ مُتَوَطِّنَةٌ ( دَاءُ الليشمانيات الجِلْدِيّ)	lupus endemicus (cutaneous leishmaniasis)
+ذِئْبَةٌ مُثَأْلَلة	warty
+ذِئْبَةٌ مُحْدَثَةٌ بالأَدْوِيَة	drug-induced lupus
+ذِئْبَةٌ مُسَطَّحة ( ذِئْبَةٌ بُقْعِيَّة)	lupus planus (lupus maculosus)
+ذِئْبَةٌ مُنْتَشِرَةٌ	lupus disseminatus
+ذِئْبَةٌ هيدرالازينيَّة	hydralazine lupus
+ذِئْبَةٌ وَرَمِيَّة	lupus tumidus
+ذِئْبَةٌ وَليدِيَّة	neonatal lupus
+ذِئْبِيُّ	lupous
+ذِئْبِيُّ الشَّكْل	lupiform (lupoid) / lupoid
+ذائِبَةٌ أُسْمولِيَّة	osmolute
+ذَائِبة، مُذَاب	solute
+ذابِل	tabescent
+ذات البطنين	digastric
+ذاتُ البَطْنَينِ الرَّقَبِيَّة (? العَضَلَةُ الشَّوكِيَّةُ الرَّأْسِيَّة)	biventer cervicis (musculus spinalis capitis)
+ذاتُ البَطْنَينِ الفَكِّيَّة (? العَضَلَةُ ذات البَطْنَيْن)	biventer mandibulae (musculus digastricus)
+ذَاتُ الْـجَنْب	pleurisy
+ذَاتُ الْـجَنْب وَالرِّئَة	pleuropneumonia
+ذاتُ الخُرْبَتَينِ السَّمْراء (دودة من الشَرِيطِيات)	Digramma brauni
+ذاتُ الرِّئَة	pneumonia
+ذَاتُ الرِّئَة الفَصِّية	lobar pneumonia
+ذَات الرِّئَة القَيْحِيَّة	suppurative pneumonia
+ذَاتُ الرِّئَة بِالْـمُكَوَّرات الرِّئَوِيّة	pneumococcal pneumonia
+ذات الرَأْسين	biceps / bicipital
+ذاتُ الرَّأْسَين (عَضَلَة)	biceps
+ذاتُ الرَّأْسَينِ العَضُدِيَّة	biceps brachii / brachial biceps
+ذاتُ الرَّأْسَينِ الفَخِذِيَّة	biceps femoris
+ذاتُ السُّرَّتَين (جنس من الحلزون)	Biomphalaria
+ذاتُ السُّرَّتَينِ الإِسْكَنْدَرانِيَّة	Biomphalaria alexandrina
+ذاتُ السُّرَّتَينِ الجَرْداء	Biomphalaria glabrata
+ذاتُ السُّرَّتَينِ المُنْسَدَّة	Biomphalaria obstructa
+ذاتُ الفُوَيهَين	Distomum (Distoma)
+ذاتُ الفُوَيهَين (دودَةٌ مِنَ المَثْقوبات)	Distoma
+ذاتُ الفُوَيهَينِ البوسْكِيَّة (المُتَوارِقَةُ البوسْكِيَّة)	Distoma buski (Fasciolopsis buski)
+ذاتُ الفُوَيهَينِ الخَيفاء (الخَيفانَةُ الخَيفاء)	Distoma heterophyes (Heterophyes heterophyes)
+ذاتُ الفُوَيهَينِ الدَّمَوِية (البلهارِسِيَّةُ الدَّمَوِيَّة)	Distoma haematobium (Schistosoma haematobium)
+ذاتُ الفُوَيهَينِ الرينجرية (جانِبِيَّةُ المَناسِلِ الفسترمانِيَّة)	Distoma ringeri (Paragonimus westermani)
+ذاتُ الفُوَيهَينِ الصِّينِيَّة (مُتَفَرِّعُ الخُصْيَةِ الصِّينِيّ)	Distoma sinensis (Clonorchis sinensis)
+ذاتُ الفُوَيهَينِ الفسترمانِيَّة (جانِبِيَّةُ المَناسِلِ الفسترمانِيَّة)	Distoma westermani (Paragonimus Westermani)
+ذاتُ الفُوَيهَينِ الكَبِدِيَّة (المُتَوَرِّقَةُ الكَبِدِية)	Distoma hepaticum (Fasciola hepatica)
+ذاتُ الفُوَيهَينِ المُصاحِبَة (الوَركانةُ المُصاحِبَة)	Distoma conjunctum (Amphimerus noverca)
+ذاتُ الفُوَيهَينِ الهِرِّيَّة (متأخِّرُ الخُصْيَةِ الهِرِّيّ)	Distoma felineum (Opisthorchis felineus)
+ذاتُ المَنْسَلَين (جِنْسُ ديدانٍ مِنَ العَوسائِيَّات)	Diplogonoporus
+ذاتُ المَنْسَلَينِ السَّمْراء	Diplogonoporus brauni
+ذاتُ المَنْسَلَينِ الكَبيرَة	Diplogonoporus grandis
+ذاتُ المَنْفَذَين (جِنس من الديدان الشرِيطية)	Dipylidium
+ذاتُ المَنْفَذَينِ الكَلْبِيَّة	Dipylidium caninum
+ذاتُ الوُرَيقَتَين (جِنْسٌ مِنَ الديدانِ المَمْسُودات)	Dipetalonema
+ذاتُ الوُرَيقَتَينِ العَويصَة	Dipetalonema reconditum
+ذاتُ الوُرَيقَتَينِ اللَّجُوجَة (المَنْسُونِيلَةُ اللَّجُوجَة)	Dipetalonema perstans (Mansonella perstans)
+ذاتُ ثَدْيَين	bimastic
+ذات قرنين	bicornuate (uterus)
+ذَاتَوِيّ	autistic
+ذَاتَوِيَّة	autism / autistic thinking (autism) / dereistic thinking (autism)
+ذَاتَوِيَّةُ تَعَذُّر الحَرَكَة ( غَيبوبَةٌ سَهَرِيَّة)	akinetic autism (coma vigil)
+ذَاتَوِيَّةٌ طُفولِيةٌ (اضْطِرابٌ ذَاتَوِيٌ)	infantile autism (autistic disorder)
+ذَاتَوِيَّةٌ فِي الطُّفولَةِ الباكِرَة (اضْطِرابٌ ذَاتَوِيّ)	early infantile autism (autistic disorder)
+ذَاتِيّ (سابقة)	auto
+ذاتِيُّ الإعْرَاس	autogamous
+ذَاتِيّ الإفرَاز	autocrine
+ذاتِّيُّ الاِلْتِصَاق	self-adhering
+ذاتِيُّ الأَمْشاج	autozygous
+ذاتِيُّ الانْشِطار	autotemnous
+ذَاتِيُّ التَبَلْمُر	autopolymer
+ذاتِيُّ التَّحْساس	idiosyncratic
+ذاتِيُّ التَّحَسُّس	idiocratic
+ذاتِيُّ التَّحْفيز	autocatalytic
+ذَاتِيُّ التَّدْقِيْقِ	self-checking
+ذَاتِيُّ التَّصَلُّب	self-curing
+ذاتِيُّ التَّغَذِّي	autotroph / autotrophic / idiotrophic
+ذاتِيُّ التَّغَذِّي الضَّوئِيّ	photoautotroph / photoautotrophic
+ذاتِيُّ التَّغَذِّي الكِيمْيائِيُّ	chemoautotroph
+ذاتِيُّ التَّغَذِّي المُجْبَر	obligate autotroph
+ذاتِيُّ التَّغَذِّي المُخَيَّر	facultative autotroph
+ذاتِيُّ التَّمايُز	self-differentiation
+ذَاتِيُّ التَّوَلُّدِ	idiogenetic
+ذاتِيُّ الصِّيْغَةِ الصِّبْغِيَّة	autoploid
+ذاتيّ المناعة	autoimmune
+ذاتِيُّ المَنْشَأ	autogeneic / autogenous / autologous
+ذَاتِيَّة	identity
+ذاتِيَّةُ التَّغَذِّي	autotrophy
+ذاتِيَّةُ الدَّم	autohemic
+ذاكِرَة	memory
+ذاكِرَةٌ إِبَصَارِيَّة	visual memory
+ذاكِرَةٌ اصْطِلاحيةٌ	conventional memory
+ذاكِرَةُ الإتَاحَةِ العَشْوَائِيَّة (في الحاسُوب)	random access memory (RAM)
+ذاكِرَةُ الشَّاطِىء ( فَقْدُ الذَّاكِرَة المَدارِيّ)	coast memory (tropical amnesia)
+ذاكِرَةٌ آنِيَّة ( ذَاكِرَةٌ وَجِيْزَةُ)	immediate memory (short-term memory)
+ذاكِرَةٌ أَوَلِيَّة	primary memory
+ذاكِرَةٌ أَيقونِيَّة (المرحلة الاولى من الذاكرة البصرية)	iconic memory
+ذَاكِرَةٌ بَادِئَةٌ	bootstrap memory
+ذاكِرَةٌ بَصَرِيَّة	eye memory
+ذاكِرَةٌ بُعادِيَّة	remote memory
+ذاكِرَةٌ تحتَ الشُّعورِيَّة	subconscious memory
+ذاكِرَةٌ تَقَدُّمِيَّة (لاحِقَة)	anterograde memory
+ذاكِرَةٌ حاجِبَة	screen memory
+ذاكِرَةٌ حَديثَة	recent memory
+ذاكِرَةٌ حَرَكِيَّة	kinesthetic memory
+ذاكرة خائِبَة	rot memory
+ذَاكِرَةٌ دَاخِلِيَّة	internal memory
+ذاكِرَةٌ رُجُوْعِيَّة (لاحِقَة)	retrograde memory
+ذاكِرَةٌ سَمْعِيَّة	echoic memory
+ذاكِرَةٌ عاطِفِيَّة	affect memory
+ذَاكِرَةٌ عُلْيَا	high memory
+ذَاكِرَةٌ فيزيولوجية	physiologic memory
+ذاكِرَةٌ قَصيرَةُ الأَمَد	short-term memory
+ذاكرةٌ متلاشِيَةٌ	volatile memory
+ذَاكِرَةٌ مُتَوَسِّعَةٌ	extended memory
+ذاكِرَةٌ مَدِيْدَة	long-term memory
+ذَاكِرَةٌ مُسَاعِدَةٌ	auxiliary memory
+ذَاكِرَةٌ مُقْتَصِرَةٌ على القِرَاءَة ؛ ذاكِرَةٌ للقِرَاءَةِ فقط (في الحاسُوب)	read only memory (ROM)
+ذاكرةُ مُمْتَدَّةٌ	expanded memory
+ذاكِرَةٌ مَناعِيَّة	immunologic memory
+ذانِبَة [ج:ذَوانِب] (أَحَدُ أَطْوارِ البِلْهارْسِيَّات)	cercaria [pl.cercariae]
+ذاهِل	narcous (stuporous)
+ذُباب [ج:ذُبَابٌ]	musca [pl.muscae]
+ذُباب [ف:ذُبَابَةٌ]	muscae [sing.musca]
+ذُبابِ الأَزْهار (فصيلة من ذوات الجناحَيْن)	Anthomyiidae
+ذُبابُ الفَرَس	clegs
+ذُبابُ الكَلْب (جِنْسٌ مِنَ الذُّباب)	cynomyia
+ذُبابَة	fly / mouche
+ذُبابَةُ الأَزْهار (جنس من الذباب)	Anthomyia
+ذُبابَةُ الإِصْطَبْل	stable fly
+ذُبابَةُ الأَقْذار	filth fly
+ذُبابَةُ الأَنْف	nose fly
+ذُبابَةُ الأَيِّل	deer fly
+ذُبابَةُ البُحَيرات	lake fly
+ذُبابَةُ البُحَيْرَة (نوع من الذباب)	Hexagenia bilineata
+ذُبابَةِ البومَة	owl fly
+ذُبَابَةُ التِّيْفِيَّة	typhoid fly
+ذُبابَةُ الجُبْن	cheese fly
+ذُبابَةُ الجُنود	soldier fly
+ذُبابَةُ الخَلّ	vinegar fly
+ذُبابَةُ الدُّودَةِ اللَّولَبِيَّة	screw worm fly
+ذُبَابَةُ الرَّمل ( الفاصِدَة) [ج:الفَواصِد]	sandfly (Phlebotomus)
+ذُبابَةُ الرَّمْل (الفَاصِدَة)	sand fly (Phlebotomus)
+ذُبابَةُ الرَّوث	dung fly
+ذُبابَةُ الشَّنْقَب	snipe fly
+ذُبابَةُ العُثّ	moth fly
+ذُبابَةُ العَقِب	heel fly
+ذُبابَةُ العَين	eye fly
+ذُبابَةُ الفاكِهَة	Drosophila / fruit fly
+ذُبابَةُ الفاكِهَةِ السَّوداءُ البَطْن	Drosophila melanogaster
+ذُبابَةُ الفَرَس	horse fly
+ذُبابَةُ الفَرَس ( نُعَرَة)	horsefly (tabanus)
+ذُبابَةُ الفَواكِه	fruit fly
+ذُبابَةُ القارورَةِ الخَضْراء	green-bottle fly
+ذُبابَةُ القارورَةِ السَّوداء ( اليَسَف)	blackbottle fly (Phormia)
+ذُبابَةُ القَرْن	horn fly
+ذُبابة اللَّحم	blowfly
+ذُبابَةُ اللَّحْم (الخَوْمَع)	flesh fly (Calliphora)
+ذُبابَةُ المانْجُو	mango fly
+ذُبابَةُ المَراحيض	latrine fly
+ذُبابَةِ المَنازِل	house fly
+ذُبابَةُ المَنْخِر	nostril fly
+ذُبابَةُ تسي تسي	tsetse / tsetse fly
+ذُبابَةُ سيروت	Seroot fly
+ذُباحٌ تَجاوُرِيّ (التهاب عضلات الحلق)	juxtangina
+ذُبَاحٌ حُمَامِيّ سَوِيقِيّ	angina erythematopultacea
+ذُبَاحٌ خُنَاقِيّ	angina diphtherica
+ذُباحٌ عِقْدِيّ (غِشائِيٌّ كاذِب)	streptoangina
+ذُبَاحٌ غِشَائِيٌّ كَاذِب	pseudomembranous angina
+ذُبَاحُ فَانْسُون	Vincent's angina
+ذُبَاحٌ فَلغِمُونِيّ	phlegmonous angina
+ذُباحٌ فَنْسان	Vincent's angina
+ذُبَاحٌ كاذِب	pseudangina / pseudoangina
+ذُبَاحٌ لَهَوِيّ	staphyloangina
+ذُباحُ لودفيغ	Ludwig's angina
+ذَباذِبِيّ (ذُو شَراشيب كَشَراشيبِ القِماش)	byssoid
+ذِبَّانُ الاصْطَبْل	Muscina stabulus
+ذَبْح	slaughter
+ذَبْحَة	angina
+ذُبحة "فنسنت"	angina, Vincent's
+ذُبحة "لودفيج"	angina, Ludwig's
+ذَبْحَةٌ أَبُقْراطِيَّة ( الخُراجُ خَلْفَ البُلْعومِيّ)	hippocratic angina (retropharyngeal abscess)
+ذَبْحَةٌ اسْتِلْقَائِيَّةٌ	angina decubitus
+ذَبْحَةُ الإِجْهاد	exertion angina
+ذَبْحَةُ الرَّاحَة	angina of rest / rest angina
+ذَبْحَةُ العَدْوَى المُسْتَشْفَوِيَّة ( الْتِهابُ البُلْعومِ التَّقَرُّحِيُّ)	angina nosocomii (pharyngitis ulcerosa)
+ذَبْحَةُ الكَرْب	stress angina
+ذَبْحَةُ الوَحيدات ( كَثْرَةُ الوَحيداتِ العَدْوائِيَّة)	monocytangina (infectious mononucleosis)
+ذَبْحَةٌ بحَسَبِ برتونو ( خُنَّاق)	Bretonneau's angina (diphtheria)
+ذَبْحَةٌ بحَسَبِ لُودْفيغ (الْتِهابُ قاعِ الفَم)	angina ludovici (Ludwig's angina)
+ذَبْحَةُ برنزميتال (تَظْهَرُ على الراحة مع تحمل الجهد)	Prinzmetal's angina
+ذَبْحَةٌ بَسيطة (التهاب البلعوم البسيط)	angina simplex (simple sore throat)
+ذَبْحَةٌ بَطْنِيَّة ( ذَبْحَةٌ مِعَوِيَّة)	abdominal angina (intestinal angina) / angina abdominalis (intestinal angina) / angina abdominis (intestinal angina)
+ذَبْحَةُ بلاوت ( ذَبْحَةٌ غِشائِيَّةٌ كاذِبَة)	Plaut's angina (pseudomembranous angina)
+ذَبْحَةٌ تالِيَّةٌ للاحْتِشاء	postinfarction angina
+ذَبْحَةٌ جُرَيبِيَّة ( الْتِهابُ اللَّوزَتَينِ الجُرَيبِيّ)	angina follicularis (follicular tonsillitis)
+ذَبْحَةٌ جَوبِيَّة ( الْتِهابُ اللَّوزَتَين)	lacunar angina (tonsillitis)
+ذَبْحَةٌ حادَّة	angina acuta
+ذَبْحَةٌ حَرَكِيَّةٌ وِعائِيَّة	vasomotor angina
+ذَبْحَةٌ حَنْجَرِيَّة ( الْتِهابُ الحَنْجَرَة)	angina laryngea (laryngitis)
+ذَبْحَةٌ خانُوقِيَّةٌ حَميدة	benign croupous angina
+ذَبْحَةٌ خَبيْثة ( ذَبْحَةٌ غنغرينيَّة)	malignant angina (angina gangrenosa)
+ذَبْحَةٌ خُناقِيَّة	angina diphtheritica
+ذَبْحَةٌ رَأْسِيَّة ( صُداع)	angina capitis (headache)
+ذَبْحَةٌ رُغامِيَّة ( خانوق)	angina trachealis (croup)
+ذَبْحَةٌ رُوْمَاتِزمِيَّة	angina rheumatica
+ذَبْحَةٌ سابِقَةٌ للاحْتِشاء ( حالَةٌ ذَبْحِيَّة)	preinfarction angina (status anginosus)
+ذَبْحَةٌ ساقِيَّة ( عَرَجٌ مُتَقَطِّع)	angina cruris (intermittent claudication)
+ذَبْحَةُ شولتز ( نَدْرَةُ المُحَبَّبات)	Schultz's angina (agranulocytosis)
+ذَبْحَةٌ صَدْرِيَّة	angina of effort = angina pectoris / angina pectoris / angor pectoris (angina pectoris) / stenocardia (angina pectoris)
+ذَبْحَةٌ صَدْرِيَّةٌ غَيْرُ مُؤْلِمَة	angina pectoris sine dolore
+ذَبْحَةٌ صَدْرِيَّةٌ مُخالِفَةٌ للمُعْتَاد ( ذَبْحَةُ بْرَنْزميتال)	variant angina pectoris (Prinzmetal's angina)
+ذَبْحَةٌ صَدْرِيَّةٌ وِعائِيَّة حَرَكِيَّةٌ	angina pectoris vasomotoria
+ذَبْحَةُ عُسْرِ الهَضْمِ	angina dyspeptica
+ذَبْحَةٌ غِشائِيَّة ( خانوق)	angina membranacea (croup)
+ذَبْحَةٌ غِشائِيَّة تَقَرُّحِية ( ذَبْحَةُ فِنْسان)	ulceromembranous angina (Vincent's angina)
+ذَبْحَةٌ غِشائِيَّة كاذِبة	pseudomembranous angina
+ذَبْحَةٌ غنغرينيَّة ( الْتِهابُ البُلْعومِ الغنغرينيُّ)	angina gangrenosa (gangrenous pharyngitis)
+ذَبْحَةٌ غَيرُ مُؤْلِمَة	angina sine dolore
+ذَبْحَةُ فَرْطِ الزُّراق	hypercyanotic angina
+ذَبْحَةٌ فَلْغَمونِيَّة ( الخُراجُ حَولَ اللَّوزَة)	angina phlegmonosa (peritonsillar abscess)
+ذَبْحَةُ فِنْسان (ذَبْحَةٌ مُنْتَشِرة)	Vincent's angina
+ذَبْحَةٌ قِرْمِزِيَّة	angina scarlatinosa
+ذَبْحَةٌ قُلاعِيَّة	aphthous angina
+ذَبْحَةٌ قَلْبِيَّة	angina cordis
+ذَبْحَةٌ كاذِبَة	false angina
+ذَبْحَةٌ لامُسْتَقِرَّة	unstable angina
+ذَبْحَةٌ لِسَانُ مِزْمَارِيَّة	angina epiglottidea
+ذُبحة لوزية	angina follicularis = angina tonsillaris
+ذَبْحَةٌ لَوزِيَّة ( الخُراجُ حَولَ اللَّوْزَة)	angina tonsillaris (peritonsillar abscess)
+ذَبْحَةٌ لَيلِيَّة	nocturnal angina
+ذَبْحَةٌ مُخَالِفَةٌ للمُعْتَاد	angina inversa
+ذَبْحَةٌ مُسْتَمِرَةٌ ( حالَةٌ ذَبْحِيَّة)	anginosis (status anginosus)
+ذَبْحَةٌ مِعَوِيَّة	intestinal angina
+ذَبْحَةٌ نَاجِمَةٌ عَن ابْيِضاضِ الدَم	leukemic angina
+ذَبْحَةٌ نَاجِمَةٌ عَن العِقْدِيَّات	streptococcal angina
+ذَبْحَةٌ نَاجِمَةٌ عَن الوَحيدات ( فَرْطُ الوَحيداتِ العَدْوَائِيّ)	monocytic angina (infectious mononucleosis)
+ذَبْحَةٌ نَاجِمَةٌ عَنْ قِلَّةِ العَدِلات ( نَدْرَةُ المُحَبَّبات)	neutropenic angina (agranulocytosis)
+ذَبْحَةٌ نَتْحِيَّة ( خانوق)	exudative angina (croup)
+ذَبْحَةُ نَدْرَةِ المُحَبَّبات ( نَدْرَةُ المُحَبَّبات)	agranulocytic angina (agranulocytosis)
+ذَبْحَةٌ نَزْلِيَّة ( الْتِهابُ البُلْعومِ الحادّ)	angina catarrhalis (acute pharyngitis)
+ذَبْحَةٌ نُكافِيَّة ( نُكاف)	angina parotidea (mumps)
+ذَبْحَةٌ هِيسْتيرِيَّة	hysteric angina
+ذَبْحَةٌ وِعائِيَّةٌ تَشَنُّجِيَّة	vasospastic angina
+ذَبْحِيُّ الشَّكْل	anginiform
+ذبول	deflorescence
+ذُبول (مَرَضٌ في الجِراء)	fading
+ذُبول (مرض نباتي)	wilt
+ذبيحة، جُثَّة الحيوان	carcass
+ذُرّاح (ج. ذراريح)	cantharides
+ذُرَّاحِيّ	cantharidal
+ذرّاحين - كنثريدين	cantharidin
+ذِرَاع	arm
+ذِّراعُ (ال...) البَصَرِيَّة	optic arm
+ذِّراعُ (ال...) الجِسْرِيَّة	pontic arm
+ذِراع (وَحْدَةُ قِياس)	cubit
+ذِراعُ التَّثْبيت ( ذِراعٌ مُتَبادَلَة)	stabilizing arm (reciprocal arm)
+ذِراعُ الصِّبْغِي	chromosome arm
+ذِراعُ الغولف	golf arm
+ذِراعُ الماكِنَة	engine arm
+ذِراعٌ بمِشْبَكٍ سِلْكِيّ [أسنان]	bar clasp arm
+ذِراعٌ بمِشْبَكة مُحِيْطَة	circumferential clasp arm
+ذِراعٌ حابِسَة [أسنان]	retention arm / retentive arm
+ذِراعٌ زُجاجِيَّة	glass arm
+ذِراعٌ طَيرِيَّة	bird arm
+ذِراعُ كروكِينْبِرغ (بعد بتر اليد وظهور نهايتي عظمي الساعد)	Krukenberg's arm
+ذِراعُ لاعِبِ التِّنِس ( مِرْفَقُ لاعِبِ التِّنِس)	lawn tennis arm (tennis elbow)
+ذِراعٌ مُتَبادَلَة [أسنان]	reciprocal arm
+ذِراع، عَضُد (ال...)	arm; brachium
+ذراعي	brachial
+ذِراعِيُّ الشَّكْل	brachiform
+ذراعي وجهي	faciobrachial
+ذراف	epiphora
+ذَرَب	psilosis (sprue)
+ذَرَب (سبرو)	sprew (sprue)
+ذَرَبٌ بَطْني	celiac sprue
+ذَرَبٌ لامَداري	nontropical sprue
+ذَرَبٌ مَدارِيّ	tropical sprue
+ذَرْذَرَة	inspersion / poudrage
+ذَرْذَرَةُ التَّأْمور	pericardial poudrage
+ذَرْذَرَةُ الجَنَبَة	pleural poudrage
+ذَرَّة	Zea (maize) / Zea mays / atom / maise (maize)
+ذُرَة [نبات]	maize
+ذَرَّة غِرَامِيَّة	gram-atom
+ذَرَّةٌ قائِفَة	tracer atom
+ذَرَّة كَرْبُون لاَ مُتَنَاظِرَة، ذَرَّة كَرْبُون لاَ مُتَمَاثِلة	asymmetric carbon atom
+ذَرَّةُ كَرْبون لامُتَناظِرَة	asymmetric carbon atom
+ذَرَّةٌ لاتَناظِرَة	asymmetric atom
+ذَرَّةٌ مُتَأيِّنَة	ionized atom
+ذَرَّةٌ مُتَجَرِّدَة	stripped atom
+ذَرَّةٌ مُرْتاحَة	rest atom
+ذَرَّةٌ مُرْتَدَّة	recoil atom
+ذَرَّةٌ مُسْتَثارَة ( ذَرَّةٌ مُنَشَّطَة)	excited atom (activated atom)
+ذَرَّةٌ مُشِعَّة	radiating atom
+ذَرَّةٌ مُغايِرَة	heteroatom
+ذَرَّةٌ مُنَشَّطَة	activated atom
+ذَرَّةٌ مَوسومَة	tagged atom
+ذَرَّةٌ نَوَوِيَّة	nuclear atom
+ذَرَّةٌ واسِمَة	marker atom
+ذرور	epipastic
+ذَرورٌ جِلْدِيّ	conspersus
+ذِرْوَة	apex / peak / tip
+ذِرْوَةٌ أُحادِيَّةُ النَّسيلَة (في الرَّحَلاَن)	monoclonal peak
+ذُرْوَةُ الإكْمَال [أسنان]	finishing tip
+ذِرْوَةُ الأَنْف	tip of nose
+ذِرْوَةُ الجَذْر	root tip
+ذِرْوَةُ الجَمْع	summation peak
+ذِرْوَةُ الذَّقْن	menton
+ذِرْوَةُ الرُّشَافَة	aspirator tip
+ذِرْوَةُ الكيلوفولط	kilovolt peak
+ذِرْوَةُ اللِّسان	tip of tongue
+ذِرْوَةُ براغ لحُزْمَةِ البرُوتُونات	Bragg peak of proton beam
+ذِرْوَةٌ ثُنائِيَّةُ النَّسيلَة (في الرَّحَلاَن)	biclonal peak
+ذِرْوَةٌ شِدْقِيَّة	buccal peak
+ذِرْوَةُ عَظْمِ العَجُز	tip of sacral bone
+ذِرْوَةٌ لِثَوِيَّةٌ لِسانِيَّة	gingival lingual peak
+ذُرْوَةٌ ماصَّة	suction tip
+ذِرْوَةُ وولنر ( الحُدَيبَةُ الأُذُنِيَّة)	Woolner's tip (tuberculum auriculae)
+ذُرْوَة، قِمَّة	peak / tip
+ذَرِّيّ	atomic
+ذُرِّية	strain
+ذُرِّيَّةُ R ( ذُرِّيَّةٌ خَشِنَة) (في المزارع الجرثومية)	R strain (rough strain)
+ذُرِّيَّةُ S ( ذُرِّيَّةٌ مَلْساء) (في المستنبتات الجرثومية)	S strain (smooth strain)
+ذُرِّيَّةُ Vi ( ذُرِّيَّةٌ مُفَوَّعَة)	Vi strain
+ذُرِّيَّةٌ إِسْوِيَّةُ الجينات	isogenic strain
+ذُرِّيَّةٌ بَدْئِيَّةُ الاغْتِذاء	prototrophic strain
+ذُرِّيَّةٌ خَشْنَة	rough strain
+ذُرِّيَّةٌ خَلَوِيَّة	cell strain
+ذُرِّيَّةُ قُرْبَى	inbred strain
+ذُرِّيَّةٌ مُغايِرَة	heterologous strain
+ذُرِّيَّةٌ مُقاوِمَة	resistant strain
+ذُرِّيَّةٌ مَلْساء	smooth strain
+ذُرِّيَّةٌ مُماثِلَة	homologous strain
+ذُعْر	horror
+ذُعْرُ الموت	angor animi
+ذُعْرٌ عَينِيّ (الخَوفُ مِن فَقْدِ البَصَر)	angor ocularis
+ذُعْرٌ لَيلِيّ	angor nocturnus / night terrors
+ذَقْن	chin / chin (mentum NA) / chin (mentum)
+ذَّقن (ال...)	genio-
+ذَقَْنٌ طَويلٌ بَارِز	galoche chin
+ذَقْنٌ مُزْدَوِج	double chin
+ذَقْنِيّ	genial (genian) / genial = genian / genian / genio- / mentalis
+ذَقْنِيٌّ أَمامِيّ	mentoanterior
+ذَقْنِيٌّ جِدارِيّ	mentoparietal
+ذَقْنِيٌّ خَلْفِيّ	mentoposterior
+ذَقْنِيّ شَفَوِيّ	mentolabial
+ذَقْنِيٌّ لامِيّ	geniohyoid
+ذَقْنِيٌّ لِسانِيّ	genioglossal
+ذَقْنِيٌّ مُسْتَعْرِض	mentotransverse
+ذَقْنِيٌّ هامِيّ	mentobregmatic
+ذَّقَنية لِسانِي	genioglossus
+ذُّقَينَى (ال...) (=نقطة تشريحية قياسية)	genion; pogonion
+ذَكاء	intelligence
+ذَكاءٌ اجْتِماعِيّ	social intelligence
+ذَكاءٌ اِصْطِنَاعِيّ	artificial intelligence
+ذَكاءٌ مُجَرَّد	abstract intelligence
+ذَكاءٌ ميكانيكِيّ	mechanical intelligence
+ذَكائِرُ ذاتِيَّة	autoanamnesia
+ذَكَر	male
+ذَكَر البطِّ	duck
+ذكَر الخنـزير	boar
+ذَكَرِيُّ الانتقال (يورث من الذكر كليا)	holandric
+ذَكَرِيُّ المَظْهَرِ	android / androidal (android) / andromorphous
+ذُكُورَة	masculinity
+ذُكورِيُّ التَّكَوُّن	arrhenokaryon
+ذَكِيّ	intelligent
+ذَنْب	cauda / guilt
+ذَنَب [ج:أَذْناب]	cauda NA [pl.caudae]
+ذَنَبُ البَرْبَخ	cauda epididymidis NA
+ذَنَبُ البَنْكِرْياس	cauda pancreatis NA
+ذَنَبُ الجِسْمِ المُخَطَّط (ذَنَبُ النَّواةِ المُذَنَّبَة)	cauda corporis striati (cauda nuclei caudati)
+ذَنَبُ الحَمام	dove tail
+ذَنَب الـخَيْل الـحَقْلِيّ	equisetum arvens
+ذَنَبُ الطِّحال	cauda lienis
+ذَنَبُ الفَرَس	cauda equina / cauda equina NA
+ذَنَبُ المُخَيخ (دودَةُ المُخَيخ)	cauda cerebelli (vermis cerebelli)
+ذَنَبُ المُخَيخ، دودَةُ المُخَيخ	cauda cerebelli
+ذَنَبُ النُّواةِ المُذَنَّبَة	cauda nuclei caudati NA
+ذَنَبُ حِتارِ الأُذُن	cauda helicis NA
+ذَنَبُ حَمامٍ لِسانيّ [أسنان]	lingual dovetail
+ذَنَبِيّ	caudal / caudalis NA
+ذنبي عدسي	caudatolenticular
+ذَنَبِيًّا (باتِّجاهِ الذَّنَب)	caudad
+ذَنَبِيَّاً رَأْسِيَّاً	caudocephalad
+ذَنْفار (نَحْتٌ من الكلمتين ذَنَبُ فَأْر)	rat-tails
+ذُنِيّ (سابقة)	oto
+ذُنِيّ المنشء	otogenic
+ذُنَيبٌ	caudex
+ذُنَيباتّ المُخ	caudex cerebri
+ذُهان	neuropsychosis (psychosis)
+ذُهان [ج:ذُهانات]	psychosis [pl.psychoses]
+ذُهانٌ أُحادِيّ	monopsychosis
+ذُهانٌ اكْتِئابِيّ ( اكْتِئابٌ كبير)	depressive psychosis (major depression)
+ذُهانُ الإِنْهاك	exhaustion psychosis
+ذُهانُ الإِنْهاكِ العَدْوائِيّ	infection exhaustion psychosis
+ذُهانُ الْتِهابِ الأَعْصاب	polyneuritic psychosis / psychosis polyneuritica
+ذُهانُ الحَيَاء ( هَوَسٌ كَاذِب)	shame psychosis (pseudomania)
+ذُهانُ السِّجْن	prison psychosis
+ذُهانُ المَجاعَة	famine psychosis
+ذهان الهلوسة	hallucinosis
+ذُهانُ الوَضْعِيَّة ( ذُهَانٌ تَفاعُليٌّ صَغير)	situational psychosis (brief reactive psychosis)
+ذهان انفعالي دوري	cyclophrenia = cyclothymia
+ذُهانٌ أَوبِيّ ( سَوداوِيَّةٌ أَوبِيَّة)	involutional psychosis (involutional melancholia)
+ذُهانٌ أَوَّلِيّ ( ذُهانٌ داخِلِيُّ المَنْشأ)	primary psychosis (endogenous psychosis)
+ذُهانٌ إِياسِيّ ( سَوداويَّةٌ أَوبِيَّة)	climacteric psychosis (involutional melancholia)
+ذُهَانٌ بُرفيريّ	porphyrismus
+ذُهانٌ تالٍ للرَّضْح	post-traumatic psychosis
+ذُهانٌ تالٍ للعَدْوَى	postinfectious psychosis
+ذُهانٌ تالٍ للوَضْع	postpartum psychosis
+ذُهانٌ تَعايُشِيّ	symbiotic psychosis
+ذُهانٌ تَفاعُلِيّ	reactive psychosis
+ذُهانٌ تَناوُبِيّ ( ذُهانٌ هَوَسِيُّ اكْتِئابِيّ)	alternating psychosis (manic-depressive psychosis)
+ذُهانٌ تَنَكُّسِيّ	degenerative psychosis
+ذُهانٌ ثُنائِيُّ القُطْب ( ذُهانٌ هَوَسِيٌّ اكْتِئابِيّ)	bipolar psychosis (manic-depressive psychosis)
+ذُهانٌ جَسَدِيّ	somatopsychosis
+ذُهانٌ حَمْلِيّ	gestational psychosis
+ذُهانٌ حُمَّوِيّ ( ذُهانُ الإِنْهاك)	febrile psychosis (exhaustion psychosis)
+ذُهانٌ دائِرِيّ ( ذُهانٌ هَوَسِيٌّ اكْتِئابِيّ)	circular psychosis
+ذُهانٌ داخِلِيُّ المَنْشَأ	endogenous psychosis
+ذُهانٌ دِمَاغِيّ	cerebropsychosis / encephalopsychosis
+ذُهانٌ دَوائِيّ	drug psychosis
+ذُهانٌ دَورِيّ ( ذُهانٌ هَوَسِيٌّ اِكْتِئابِيّ)	periodic psychosis (manic-depressive psychosis)
+ذُهانٌ زَوَرانِيّ ( زَوَر)	paranoid psychosis (paranoia)
+ذُهانٌ زَوَرِيّ ( زَوَر)	paranoiac psychosis (paranoia)
+ذُهانٌ سُمِّيّ	toxic psychosis
+ذُهانٌ شَيخوخِيّ	geriopsychosis / senile psychosis
+ذُهانٌ صَرْعِيّ ( خَرَفٌ صَرْعِي)	epileptic psychosis (epileptic dementia)
+ذُهانٌ طِفْلِيٌّ تَعايُشِيّ	symbiotic infantile psychosis
+ذُهانٌ عاطِفِيّ ( اضْطِرابُ المِزاج)	affective psychosis (mood disorder)
+ذهان عرضي	dysphrenia
+ذُهانٌ عُضْوِيّ	organic psychosis
+ذُهْانٌ عَقَّارِيُّ المَنْشَأ	pharmacopsychosis
+ذُهانٌ فُصامِيٌّ عاطِفِيّ	schizoaffective psychosis
+ذُهانٌ قَصْدِيّ	purpose psychosis
+ذُهانٌ كاذِب	pseudopsychosis
+ذُهانٌ كُحولِيّ	alcoholic psychosis
+ذُهانُ كُورْساكُوف	Korsakoff's psychosis
+ذُهانٌ مُحْدَث ( وُهَامٌ تَشارُكِيّ)	induced psychosis (shared delusion)
+ذُهانٌ مَرَضَيُّ المَنْشَأ	pathopsychosis
+ذُهانٌ مَصْحُوْبٌ بأَعْرَاض	symptomatic psychosis
+ذُهانٌ نِفَاسِيّ	puerperal psychosis (postpartum psychosis)
+ذُهانٌ هستيريّ	hysterical psychosis / hysteropsychosis (hysterical psychosis)
+ذُهانٌ هَوَسِيّ	manic psychosis
+ذُهانٌ هَوَسِيٌّ اكْتِئابِيّ ( اْضْطِرابٌ ثُنائِيُّ القُطْب)	manic-depressive psychosis (bipolar disorder)
+ذُهانٌ وَحيدُ القُطْب	unipolar psychosis
+ذُهانٌ وَظيفِيّ	functional psychosis
+ذُهانات [ف:ذُهان]	psychoses [sing.psychosis]
+ذُهانِيّ؛مَذْهُوْن	psychotic
+ذَهَب	gold
+ذَهَبٌ أَبْيَض	white gold
+ذَهَبٌ إسْفَنْجِيّ	sponge gold
+ذَهَبٌ إسْفِنْجِيٌّ ( ذَهَبٌ مُتَماسِك)	sponge gold (cohesive gold)
+ذَهَبُ الصَّبّ	cast gold
+ذَهَبُ آلكسندر [أسنان]	Alexander gold
+ذَهَبٌ بِلُّورِيّ	crystal gold / crystalline gold
+ذَهَبٌ تَماسُكِيّ	cohesive gold
+ذَهَبٌ شَريطِيّ	striped gold
+ذَهَبٌ غُرَوانِيّ	colloidal gold
+ذَهَبٌ كامِد (بدون بريق)	mat gold
+ذَهَبٌ لامُتَماسِك	noncohesive gold
+ذَهَبٌ لِيفِيّ ( ذَهَبٌ كامِد)	fibrous gold (mat gold)
+ذَهَبٌ مُتَماسِك	cohesive gold
+ذَهَبٌ مُشِعّ	radioactive gold
+ذَهَبٌ مُلَدَّن	annealed gold
+ذَهَبٌ نُورْنبِرْغ	Nurnberg gold
+ذَهَبٌ هولنديّ (خليطة من التوتياء والنحاس)	Dutch gold
+ذَهَبٌ هولَنْدِيّ (سَبيكَةُ النُّحاسِ والزِّنْك)	Dutch gold
+ذَهَبِيّ	aureus / auric
+ذَهَبِيَّةُ الأَبْواغ (جنس من الفطريات الناقصة)	Aleurisma (Chrysosporium)
+ذَهَبِيَّةُ الأَبْواغ (جِنْسٌ مِنَ الفِطْرِيَّات)	Chrysosporium
+ذَهَبِيَّةُ الدِّعامات (جنس فطريات)	Aureobasidium
+ذَهَبِيَّةُ الدِّعاماتِ المُلَوِّثَة	Aureobasidium pullulans
+ذَهَبِيَّةُ العُيون (جِنْسٌ مِنَ الذُّباب)	Chrysops
+ذَهَبِيَّةُ العُيونِ القُرْصِيَّة	Chrysops discalis
+ذَهَبِيَّةُ العُيونِ المُتَناصِفَة	Chrysops dimidiata
+ذَهَبِيَّةُ العُيونِ المُعَمِّيَة	Chrysops cecutiens
+ذَهَبِيَّةُ العُيونِ المُغْرِيَة	Chrysops silacea
+ذَهَبِيَّةُ النِّطاق (جِنْسٌ مِنَ الذُّباب)	Chrysozona
+ذَهَبِيَّةُالعُيونِ المُتَغَيِّرَة	Chrysops dispar
+ذِهْنِيّ	dianoetic / nousic
+ذهني، عقلي	mental
+ذُهول	stupor
+ذُهولٌ اكْتِئابِيّ	depressive stupor
+ذُهولٌ تالٍ للاخْتِلاَج	postconvulsive stupor
+ذُهولٌ تَعْطيلِيّ	anergic stupor
+ذُهولٌ جامودِيّ	catatonic stupor
+ذُهولٌ حَميد	benign stupor
+ذهول دماغي	encephalonarcosis
+ذُهولٌ سَوداوِيّ	melancholic stupor
+ذُهولٌ صَرْعِيّ	epileptic stupor
+ذُهولٌ نُوَامِيّ	lethargic stupor
+ذُهولٌ هَوَسِيّ	manic stupor
+ذُهولٌ وُهَامِيّ	delusion stupor
+ذُهولِيّ	carotic
+ذُو أَجْفان	palpebrate
+ذو أُذُنٍ إِضَافِيَّة	pleonotus
+ذُو أَرْحَاءٍ قَطَّاعَة	secodont
+ذو أَسْنانٍ طَبيعِيَّة	dentulous (possessing natural teeth)
+ذو أَصابِع	dactylate / dactylose
+ذو الأصبعين	didactylous
+ذو الرَأْسَيْن	biceps / dicephalus
+ذو الفمين	distomus
+ذو القِحْفَين [مسخ]	craniodidymus
+ذو الكفين	dicheirus
+ذو اللونين	dichromatic
+ذُو أَورِدَة	venate / venose
+ذَو بَرْزات	bosselated
+ذو بروزات	bosselated
+ذو بَطْنَين	biventer / biventral; biventricular / digastric
+ذو تَلَمَيْن ؛ ثُنائِيُّ الأَتْلام	bisulcate
+ذو ثديين	bimastic
+ذو ثَنِيَّتَينِ سُفْلِيَّتَين	diprotodont
+ذو جِسْمَين	bicorporate
+ذو جُلْبَةٍ	crustosus
+ذو جَوفٍ عامٍّ كاذِب	pseudocoelomate
+ذو حِبالٍ ؛ مُحَبَّل	funiculate
+ذو حِبالٍ، مُحَبَّل	funiculate
+ذو حجرتين	bilocular = biloculate
+ذُوْ حَجْمٍ ذُوْ جِرْم	onco-
+ذو حَلَقاتٍ	gyrose / gyrous (gyrose)
+ذو خُصْيَتَين	diorchic
+ذو دقتين	bisferious = bisferieus
+ذُو دَمٍ حَارٍّ ( ثابِتُ دَرَجَةِ الحَرارَة)	hemathermal (homothermic) / hemathermic (homeothermic) / hemathermous (homeothermic)
+ذُو رائِحَة	odorant
+ذو رَأْسَين [مسخ]	dicephalous
+ذو شاهِد	controlled
+ذو شرّافتين	bicupsid
+ذو شُرُفاتٍ	cuspidate
+ذو شعبتين	bifurcate = bifurcated
+ذو شَعْر	haired
+ذو شَكْلٍ مُكَوَّرٍ مُزْدَوِج	diplococcoid
+ذُو صِمامات	valved / valvulate
+ذو طاقَين	double-stranded
+ذو طبقتين	bilaminar
+ذو عُقَدٍ	gangliated
+ذو فَرْعَيْن ؛ ثُنائِيُّ الفَرُوْعِ	biramous
+ذو فصيصين	bilobular
+ذُو فَصَّين	bilobate
+ذُو فَكَّين	maxillate
+ذو قَدَمَين	biped / bipedal
+ذُو قُرْبَى	consanguineous
+ذو قرص	discophorous
+ذو قَرْنَين	bicornate / bicornis / bicornuate
+ذو قِسْمَين ؛ ذو مَسْكَنَيْن	bipartid / bipartite
+ذُو قِشْرَةٍ	corticate
+ذُو كيساتٍ مُذَنَّبَة	measly
+ذُو لَواحِق	pedigerous
+ذو مجلات	bullate = bullous
+ذو مَرْدودٍ عَملِيّ	action oriented
+ذُو مَساكِن	loculate / loculated
+ذُو مَفْعُولٍ أُحادِيِّ الأَمِيْن	monaminergic (monaominergic) / monoaminergic
+ذُو مَناطِق	zonate
+ذُوْ مَناعَةٍ مُصاحِبَة	premune
+ذو مِنْقار	rostrate
+ذو نَوَاتَيْن	binuclear / binuclear = binucleate
+ذو هالات ؛ هَالاتِيّ	areolate
+ذُو وِصاد	operculate (operculated) / operculate; operculated / operculated
+ذو يَدٍ بإصْبَعَين	didactylous
+ذَوَّاب	soluble / solvable (soluble)
+ذَوَّابٌ بِالأسيتيك [كيمياء]	acetosoluble
+ذَوَّابٌ بالدُّهْن	fat soluble
+ذَوَّابٌ بالزَّيت	oil soluble
+ذَوَّابٌ بِالماء	hydrosoluble
+ذَوَّابٌ في الشُّحوم	liposoluble
+ذواب، قابل للذوبان	soluble
+ذَواتُ الجِراب (مَجْموعَةٌ مِنَ الدِّيدان)	Bursata
+ذَواتُ الجُسَيمِ القاعِدِيّ (رُتَيبَةٌ مِنَ الأَوالِي)	Parabasalidea
+ذوات الجناحين	diptera
+ذَواتُ الجَناحَين (رُتْبَةٌ مِنَ الحَشَرات)	Diptera
+ذوات الحدبتين (الضاحكان)	bicupsid, premolar
+ذَواتُ المَنْفَذَين (فَصيلَةٌ مِنَ الديدانِ الشَريطِيَّة)	Dilepididae
+ذَواتُ مَنْشَأ الحَرَكَة (رُتْبَةٌ مِنَ السَّوائِط)	Kinetoplastida
+ذُوَافّ	toxinosis
+ذَوَّاق	taster
+ذَوَبان	dissolution
+ذَوَبَانِيَّة	solubility
+ذوبانية، قابلية الذوبان	solubility
+ذُوفََان	anatoxin / toxoid
+ذُوفان (ذيفانٌ مُعَطَّل)	toxoid (anatoxin)
+ذُوفانُ الخُناق	diphtheria toxoid
+ذوفانُ الخُناقِ المُمْتَزّ	diphtheria toxoid adsorbed
+ذوفانُ الكُزاز	tetanus toxoid
+ذوفانُ الكُزازِ المُمْتَزّ	adsorbed tetanus toxoid
+ذوفانُ الكُزازِ و الخُناقِ المُمْتَزَّان	adsorbed tetanus and diphtheria toxoids
+ذوفانٌ جُرْثومِيّ	bacterial toxoid
+ذوفانٌ داخِلِيّ	endotoxoid
+ذوفانٌ سائِل	fluid toxoid
+ذوفانٌ شَبِّيّ ( ذوفانٌ مُرَسَّبٌ بالشَّبّ)	alum toxoid (alum precipitated toxoid)
+ذوفانٌ فورْموليّ (ذوفانٌ مُعامَلٌ بالفورمول)	formol toxoid
+ذوفانٌ مُرَسَّب	precipitated toxoid
+ذوفانٌ مُرَسَّبٌ بالشَّبّ	alum precipitated toxoid
+ذوفانٌ مُمْتَزّ	adsorbed toxoid
+ذُوفان-مُضادُّ الذُّوفان	toxoid-antitoxoid
+ذوفاناتُ الخُنَاقِ و الكُزاز	diphtheria and tetanus toxoids
+ذوفاناتُ الخُناقِ و الكُزازِ المُمْتَزَّة	diphtheria and tetanus toxoids adsorbed
+ذوفاناتُ الخُنَاقِ و الكُزازِ مَعَ لِقاحِ الشَّاهوق	diphtheria and tetanus toxoids and pertussis vaccine
+ذوفاناتُ الخُنَاقِ و الكُزازِ مَعَ لِقاحِ الشَّاهوقِ المُمْتَزَّة	diphtheria and tetanus toxoids and pertussis vaccine adsorbed
+ذوفانِيّ	anatoxic
+ذوق	taste
+ذَوقٌ مُحَرَّض	gustatism
+ذوق، تذوق	tasting
+ذوْق، طَعْم، مَذَاق	taste; flavor
+ذَوقِيّ	gustatory
+ذيفان	toxin / toxinum
+ذيفان [ج:ذيفانات]	toxin
+ذِيْفَانٌ إِسْقُمْرِيّ	scombrotoxin
+ذيفانٌ إِسْوِيّ	isotoxin
+ذيفانُ الأَمانيت	Amanita toxin
+ذِيْفَانُ البِطانَة	endotheliotoxin
+ذيفانُ التَّعَب	fatigue toxin / kenotoxin / kinotoxin
+ذيفانُ الجَمْرَةِ الخَبيثَة	anthrax toxin
+ذيفانُ الحُمْرَة	erysipelas toxin / erysipelotoxin
+ذيفانُ الحُمَّى القِرْمِزِيَّة	scarlatinal toxin
+ذِيْفانُ الخُناق	diphtheria toxin / diphtherotoxin
+ذيفانُ الخُناقِ التَّشْخيصيّ	diagnostic diphtheria toxin
+ذيفانُ الخُناقِ التَّشْخيصيُّ المُعَطَّلُ	inactivated diagnostic diphtheria toxin
+ذيفانُ الخُناق المُعَطَّل	diphtheria anatoxin
+ذيفانُ الخُناقِ لاخْتِبارِ شيك	diphtheria toxin for Schick test
+ذيفانُ الزُّحار	dysentery toxin
+ذيفانُ السُّجُقِّيَّة	botulinus toxin
+ذِيْفَانُ السَّمَنْدَل	tarichatoxin
+ذيفانُ الشَّريطِيَّات	teniotoxin
+ذيفانُ الشَقائقِ البَحْريَّة	actinotoxin
+ذيفانُ الشيغيلَّةِ الزُّحارِيَّة	Shiga toxin
+ذيفانُ الطَّاعون	plague
+ذيفانُ الطِّحال	splenotoxin
+ذيفانُ العُصَيَّاتِ القَولونيَّة	colitoxin
+ذِيفَانُ العُصَيَّة القُولُونِيَة	colitoxin
+ذِيْفَانُ العُنْقودِيَّات	staphylotoxin
+ذيفانُ الكَبِد	hepatotoxin
+ذيفانُ الكُزاز	tetanus toxin
+ذيفانُ الكُوْبرا الحَّالُّ للدَّم	cobra hemotoxin
+ذيفانُ الكوليرا	cholera toxin
+ذيفانُ المِطَثِّيَّة	clostridial toxin
+ذيفانُ المُكَوَّراتِ البُنِّيَّة	gonococcal toxin
+ذيفانُ المُكَوَّراتِ السِّحائيَّة	meningococcal toxin
+ذيفانُ المُكَوَّراتِ العِقْدِيَّة	streptococcal toxin
+ذيفانُ المُكَوَّراتِ العُنْقودِيَّة	staphylococcal toxin
+ذيفانُ اليَنْفوخِ اليابانيّ ( التيترودوتوكسين) (في بعض الأسماك)	fugu toxin (tetrodotoxin)
+ذيفانٌ بِبْتُونيّ	peptotoxin
+ذِيْفانٌ بَرَّانِيّ؛ذيفانٌ خارِجَ خَلَوِيّ	extracellular toxin
+ذيفانٌ بروستاتي	prostatotoxin
+ذيفانٌ تَأَقِيّ	anaphylactotoxin (anaphylatoxin) / anaphylatoxin / anaphylotoxin / apotoxin
+ذِيفَانٌ تِيفِيّ	typhotoxin
+ذيفانٌ جُرْثومِيّ	bacterial toxin / bacteriotoxin
+ذيفانٌ جِلْدِيّ	dermotoxin
+ذِيْفانٌ جَوَّانِيّ؛ذيفانٌ داخِلَ خَلَوِيّ	intracellular toxin
+ذيفانٌ حالٌّ للدَّم	hemotoxin
+ذيفانٌ حَقيقِيّ	true toxin
+ذِيْفانٌ حُمَّوِيّ	pyrotoxin
+ذيفانٌ حَيَوانِيّ	animal toxin / zootoxin
+ذِيفَانٌ خَارِج الخَلاَيا	extracellular toxin
+ذيفانٌ خارِجِيّ	exotoxin
+ذيفان خارجي، سم خارجي	exotoxin
+ذِيْفَانٌ خَلَوِيّ	cytotoxin
+ذِيفانٌ خُنَاقِيّ	diphtherotoxin
+ذِيفَانٌ دَاخِل خَلَوِيّ	intracellular toxin
+ذيفانٌ داخِلِيّ	endotoxin
+ذِيْفَانٌ دَمَوِيٌّ	hematotoxin / hemotoxin
+ذِيْفانٌ دَمَوِيٌّ سَمَكِيّ	ichthyohemotoxin
+ذيفانُ ديك ( الذِّيفانُ العِقْدِيُّ المُحَمِّر)	Dick toxin (streptococcal erythrogenic toxin)
+ذيفانٌ ذَوَّاب	soluble toxin
+ذيفانٌ ريكيتسيّ	rickettsial toxin
+ذِيْفَانٌ سَامٌّ للمَعِدَة	gastrotoxin
+ذيفانٌ صامِد	stable toxin
+ذِيْفَانٌ ظِهَارِيٌّ	epitheliotoxin
+ذِيفَانٌ عَصَبِيّ	neurotoxin
+ذيفانٌ عَطُوْب	labile toxin
+ذِيفَانٌ عُنْقُودِيّ	staphylotoxin
+ذِيْفَانٌ عَينِيّ	ophtalmotoxin / ophthalmotoxin
+ذِيْفَانٌ غِذائِيّ	bromatotoxin / bromatotoxismus
+ذيفانٌ غَيْرَوِيّ	heterotoxin
+ذيفانٌ فُطْرِيّ	mycotoxin
+ذيفانٌ كاذِب	pseudotoxin
+ذِيفَانٌ كُزازِيّ	tetanotoxin
+ذيفانٌ مُؤَكْسَد	oxytoxin
+ذيفانٌ مِثْلِيّ	homeotoxin / homoiotoxin (homeotoxin)
+ذِيْفانٌ مَخْلَوِيّ	syncytiotoxin / syncytotoxin / synocytotoxin
+ذِيفَانٌ مُشَنِّج	spasmotoxin
+ذِيْفَانٌ مُعَطَّلٌ	anatoxin (toxoid)
+ذيفانٌ مِعَوِيّ	enterotoxin
+ذيفانٌ مِغْزَلاويّ ( ذيفانٌ فُطْرِيّ)	fusarial toxin
+ذيفانٌ مُمْرِض	nosotoxin
+ذيفانٌ مَناعِيّ	immunotoxin
+ذِيْفَانٌ مُنَخِّرٌ للخَلاَيا	necrocytotoxin
+ذيفانٌ مُوَلِّدٌ للحُمامَى	erythrogenic toxin
+ذيفانٌ ناخِر	necrotizing toxin / necrotoxin
+ذيفانٌ ناخِرٌ للجِلْد	dermonecrotic toxin
+ذيفانٌ نَباتِيّ	phytotoxin / plant toxin
+ذيفانٌ نِصْفِيُّ السُّمِّيَّة	hemitoxin
+ذيفانٌ نَوَوِيّ ؛ سُمٌّ للنَّوَى	nucleotoxin
+ذيفان-تِرْياق	toxin-antitoxin
+ذيفاناتٌ جُرْثومِيَّة	bacterial toxins
+ذِيفَانَمِيَّةٌ جُرْثُومِيَّة	bacteriotoxemia
+ذَيل	tail
+ذَيلَ البَرْبَخ	tail of epididymis
+ذَيلُ البَنْكِرْياس	tail of pancreas
+ذَيلُ الطِّحال	tail of spleen
+ذَيلُ النُّطْفَة	tail of spermatozoon
+ذَيلُ النَّواةِ المُذَنَّبَة	tail of caudate nucleus
+ذَيلُ سبينس (في الثدي)	tail of Spence
+ذَيْل، ذَنَب	tail
+ذَيْلِيُّ الأَرْجُل [مسخ]	uromelus

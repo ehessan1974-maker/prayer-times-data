@@ -1,0 +1,398 @@
+T- piece	أنبوب على شكل T، وصلة على شكل T، وصلة T
+T-connection	وصلة قائمة ثلاثية (على شكل T)، أنبوب على شكل T، وصلة T
+table	جدولٌ، طاولة / جدول
+table salt	ملح الطعام
+tablet	قرص, مضغوطة
+tableting	تكتُّل (المادة الحفّازة)
+tabulation	جَدْوَلة
+tabun	تابون
+tacticity	ترتيبة
+tactoid	شبه تاكتويد
+tagatos	تاغاتوس
+tagged atom	ذرة موسومة
+tail	ذيل
+tailored molecule	جزيء معدّل
+take up (to)	رَفَعَ، سَحَبَ
+talc	طَلْق
+tall oil	زيت الصنوبر، زيت الصنوبر الراتينجي / زيت الصنوبر
+tallow	شحم حيواني / دهن حيواني
+taming (down)	تخميد، تلطيف
+tannic acid	حمض العفص (الدبغ)
+tannin	عفص، حامض التنيك / عَفْصٌ
+tanning	دباغة / دِباغة
+tantalite	تنتاليت
+tantalum	تنتالوم، تنتال / تَنْتال
+tap funnel	قمعُ فصلٍ
+tap-funnel	قمع ذو صنبور
+tapered	مستدق
+tapering	مستدق
+tar	قطران / قَطْران
+tar acid	حمض القطران
+tar base	قاعدة قَطْرَانية
+target	هدف
+tartar	طرطير
+tartaric acid	حمض الطرطريك
+tartrate	طرطرات
+taste	طعْم، مذاق
+tautomer	توتومير، متماكب مزيج / صِنْوٌ, توتومير
+tautomeric	صِنْويّ, توتوميري
+tautomeric equilibrium	توازن توتوميري
+tautomerism	توتومرية / صِنْوِيَّة, توتوميرية
+tear gas	غاز مولد للدموع، غاز الدموع، غاز مسيل للدموع / غاز مُدمِّع
+technetium	تكنيسيوم، تكتيشيوم / تكنيسيوم
+technical	تِقْني
+technical metal	فلز تقني، معدن تقني
+technology	تقنية، تكنولوجيا / تقانة, تكنولوجيا
+teflon	تفلُون / تفلون
+telluric acid	حمض التلوريك / حمض التلّوريك
+tellurium	تلوريوم، تلُور / تِلّوريوم
+tellurous	تِلّوري
+tellurous acid	حمض التِلّوري
+telomerization	تلمرة موجهة، تماثر موجه / تَلْمَرَة
+temper (v)	يطبّع
+temperature	درجة الحرارة
+temperature (critical)	درجة الحرارة الحرجة
+temperature (kindling)	درجة حرارة الاشتعال
+temperature coefficient	معامل درجة الحرارة
+tempered	مُطبَّع
+tempered (glass)	مقسّى (زجاج)
+tempering	تطبيع
+temporary	مؤقَّت, وقتي
+temporary hardness	قساوة مؤقتة
+temporay	مؤقت
+tenacity	تمسُّك، لزوب، استعصاء / تماسك
+tensile strength	مقاومة الشد
+tensimeter	تنسيمتر
+tension	توتُّر، شدٌّ / توتُّر
+tera-	تيرا
+terbium	تربيوم
+terephtalic acid	حمض التِـرِفْتاليك
+term	مصطلح، حدٌّ
+terminal	نهائي، محطة نهائية / طَرَفي, نهائي
+terminate (v)	ينهي
+termolecular reaction	تفاعل ثلاثي الجزىء، تفاعل ثلاثي الجزيئة
+ternary	ثلاثية / ثلاثي
+ternary diagram	مخطط ثلاثي
+ternary steel	فولاذ ثلاثي
+ternary system	جملة ثلاثية
+terpene	تِرْبين
+terpene alcohol	غول تربيني
+terpenoid	شبيه التربين
+terpolymer	بلمر ثلاثي
+tertiary	ثالثي
+tertiary alcohol	غول ثالثي
+tertiary amine	أمين ثالثي
+tertiary carbon	كربون ثالثي
+tertiary structure	بنية ثالثية
+tervalent	ثلاثي التكافؤ
+test	اختبار، تجربة / اختبار
+test sample	عينة اختبارية
+test solution	محلول اختباري
+test tube	أنبوبة اختبار / أنبوب اختبار
+test tube rack	مسند أنابيب الاختبار
+test tube stand	حامل أنابيب الاختبار
+test-paper	ورقة اختبار، ورق كاشف
+test-tube holder (clamp)	مسّاكة أنابيب الاختبار
+testing, chemical	اختبار كيميائي
+tetra-	رباعي: سابقة
+tetrad	رباعي التكافؤ
+tetradecane	رباعي الديكان
+tetradecanoic acid	حمض رباعي الديكانوييك
+tetraethyl lead	رباعي إيتيل الرصاص
+tetragonal	رباعي الأضلاع
+tetrahedral	رباعي الوجوه، رباعي السطوح
+tetrahedral (a)	رباعي الوجوه
+tetrahedral atom	ذرة هرمية
+tetrahedral coordination	تساندٌ رباعيُّ الوجوه
+tetrahedron	رباعي الوجوه، رباعي السطوح
+tetrahybridisation	تهجين رباعي
+tetrahydrofuran	رباعي هيدرو الفوران
+tetrahydronaphtalene	رباعي هيدروالنفتالين
+tetralin	تترالين
+tetramer	رباعي الحد، مربوع
+tetranitromthane	رباعي نترو الميتان
+tetratomic	رباعي الذرة
+tetravalent	رباعي التكافؤ
+textile	نسيج
+texture	نسْج، تكوين، نسيج / منسوج
+thallium	ثاليوم / تاليوم
+thawing	ذوبان (الجليد)
+theorem	دعوى، مبرهنة
+theoretical	نظري
+theoretical plate	صفيحة نظرية
+theory	نظرية
+theory of relativity (the...)	نظرية (ال...) النسبية
+thermal	حراري
+thermal agitation	تَحَرُّك حراري
+thermal analysis	تحليل حراري
+thermal black	أَسْوَد حراري
+thermal capacity	سعة حرارية
+thermal conductance	توصيل حراري
+thermal conductivity	موصلية حرارية
+thermal conductor	موصّل حراري
+thermal cracking	تكسير حراري
+thermal craking	تكسير حراري
+thermal decomposition	تحلل حراري
+thermal diffusion	انتشار حراري
+thermal diffusion method	طريقة الانتشار الحراري
+thermal diffusion; thermodiffusion	انتشار حراري
+thermal dissociation	تفكك حراري
+thermal energy	طاقة حرارية
+thermal equilibrium	توازن حراري
+thermal excitation	إثارة حرارية
+thermal expansion	تمدد حراري / تمدُّد حراري
+thermal fatigue	كلال حراري
+thermal fission	انشطار حراري
+thermal neutron	نترون حراري
+thermal pollution	تلوُّث حراري
+thermal polymerization	بلمرة حرارية
+thermal process	عملية حرارية
+thermic	حراري
+thermic excitation	إثارة حرارية
+thermionic emission; thermoionic emission	إصدار أيوني حراري، انبعاث أيوني حراري
+thermite	ترميت
+thermo-	حراري: سابقة
+thermo-couple	مزدوجة حرارية
+thermochemical	كيميائي حراري
+thermochemical equations	معادلات كيمياء حرارية
+thermochemical manipulations	معالجات الكيمياء الحرارية
+thermochemistry	كيمياء حرارية
+thermocouple	مزدوجة حرارية
+thermodynamic	ترموديناميكي
+thermodynamic concentration	تركيز ترموديناميكي
+thermodynamic potential	كمون ترموديناميكي
+thermodynamics	ترموديناميكي (ال...)، دينامية (ال...) الحرارية / ترموديناميك
+thermodynamics of voltatic cells	ترموديناميكة الخلايا الفولتية، ديناميات (ال...) الحرارية للخلايا الفولتية
+thermoelectric	كهر حراري
+thermofor process	عملية ترموفور
+thermoforming	تحسين حراري / تشكيل حراري
+thermogen	مولد الحرارة
+thermogenic	مولد الحرارة
+thermogravimetric analysis	تحليل حراري وزني
+thermolysis	تحلل حراري
+thermometer	مقياس الحرارة، محرار / مقياس درجة الحرارة
+thermometric analysis	تحليل بقياس درجة الحرارة
+thermonuclear reaction	تفاعل نووي حراري
+thermoplast	متلدّن حراريًا
+thermoplastics	لدائن حرارية
+thermoregulator	منظم حراري
+thermoscope	مكشاف حراري ترموسكوب
+thermoset	متصلب حراريًا
+thermostable	ثابت حراريا
+thermostat	ترموستات / ترموستات, منظّم حراري
+thi-	تيو
+thia-	تيا
+thiamine	تيامين
+thiazole	تيازول
+thiazole dye	صِبْغُ التيازول
+thickened oil	زيت مُغَلَّظ
+thickener	مُغَلِّظ, مسمِّك
+thickening	تثخين، تغليظ / تغليظ، تسميك
+thickening agent	عميل تغليظ
+thin	رقيق
+thin layer	طبقة رقيقة
+thin layer chromatography	كروماتوغرافية الطبقة الرقيقة / كروماتوغرافيا الطبقة الرقيقة
+thinner	مرقِّق، ممدِّد / مُمدِّد, مرقِّق
+thio	تيو
+thio-	تيو
+thioacetamide	تيوأسيتاميد
+thioacetic acid	حمض تيوالأسيتيك
+thiobenzoic acid	حمض تيوالبنزويك
+thiocyanate	تيوسيانات
+thioether	تيو إيتر
+thiol-	تيول
+thionyl	تيونيل
+thiophene	تيوفين
+thiophenol	تيوفِنول
+thiosulfuric acid	حمض تيو الكبريتيك
+thiosulphate	ثيوكبريتات / تيوسلفات
+thiosulphuric acid	حمض الثيوكبريتيك
+thiourea	تيوالبولة (تيوكرباميد)
+third (the) law of thermodynamics	قانون (ال...) الثالث في الترموديناميك، قانون (ال...) الثالث للدينامية الحرارية
+thisle funnel	قمع سناني
+thixotropy	تكسوتروبية
+thorium	ثوريوم / توريوم
+thread	خيط
+three-phase equilibrium	توازن ثلاثي الأطوار
+threshold	عتبة
+threshold frequency	تَرَدُّد العتبة
+thrombin	ترومبين
+thulium	توليوم
+thyme	زعتر, صعتر
+thymol	تيمول
+thymol blue	أزرق التيمول
+thyroid	الدرقية
+thyroxine	تيروكسين
+tight	محكم، كتيم
+tightening (of a compound)	تثبيت (مركب)
+tin	قصدير
+tin; stannum	قصدير
+tincture	صبغة
+tincture of iodine	صبغة اليود
+tint	مسحة، لون ضعيف، درجة من درجات اللون
+titanium	تيتانيوم، تيتان / تيتانيوم
+titer (titre)	عيار
+titrant	محلول معاير
+titrate (to)	عايَرَ
+titration	معايرة
+titration flasks	دوارق معايرة
+toile (metallic); wire gauze	شبكة معدنية
+toile caoutchouc (rubber cloth)	حشو مطاطي
+tolerance	تسامُح، تفاوت مسموح / سماحية، تحمّل
+Tollen's reagent	كاشف تولن
+toluene	تولوين
+tongs	ملقط / ملقاط, مِلقط
+tools	عدّة
+topaz	توباز
+topping	تقطير أولي، قطف أولي
+torr	تور
+torsion	فتْل، ليّ، التواء / لَيٌّ, فَتْل
+torsion balance	ميزان فتل
+total ash	رماد كلّي
+total capacity	سعة كلية
+total energy	طاقة كلية
+toughness	خشونة، جلافة
+tower	برج
+tower distillation	برج تقطير
+toxic	سامّ / سام
+toxicity	سُمِّيَّة
+toxin	ذيفان, توكسين
+toxin-antitoxin	ذيفان - ترياق
+trace	أثر
+trace analysis	تحليل الأثر
+trace element	عنصر نَزْر
+trace elements	عناصر نزرة
+tracer	مقتفي
+tracer compound	مركب قواف أو مقتفى الأثر
+tracing fluid	مائع اقتفاء الأثر
+track	مسار، قناة
+tranfuse	صَفَّقَ السائل، نَقَلَ
+tranquilizer	مُهدِّئ
+trans	مفروق
+trans effect	تأثير الموقع المفروق
+trans-	مفروق
+transalkylation	نقل الألكيل
+transaminase	إنزيمٌ ناقلٌ للأمين
+transamination	نقل الأمين
+transaminaze	انزيم ترانز أميناز
+transannular	تصاوغ حلقي
+transcription	نسخ
+transesterification	نَقْلُ الإستر
+transfer molding	قولبة انتقالية
+transferase	إنزيم النقل، ترانسفيراز
+transference	انتقال، نقْل، تحويل
+transference number	عدد الانتقال
+transferrin	ناقل الحديد
+transformation	تحوُّل، تحويل / تحوُّل
+transformation temperature	درجة حرارة التحول
+transient	عابر
+transistor	ترانزستور
+transition	انتقال
+transition (the) metals	فلزات انتقالية، معدن انتقالية
+transition - state theory	نظرية الحالة الانتقالية
+transition element	عنصر انتقالي
+transition elements	عناصرانتقالية
+transition point	نقطة انتقالية
+transition temperature	درجة حرارة الانتقال
+transition time	زمن انتقالي
+translation	انتقال مستمر أو عادي، انتقالية، انسحاب
+translucent	شافّ، نصف شفاف / شافّ
+transmination	نقل أميني
+transmission	إرسال، نقْل / انتقال, نفاذ
+transmission diffraction	انعراج انتقالي
+transmittance	إرسالية، نفوذية، نفاذية / إنفاذية
+transmutation	تحوُّل / تطافر
+transparency	شفافية
+transparent	شفاف / شفَّاف
+transpiration	نتْح
+transport	نقل
+transport number	عدد النقل
+transport number; transference number	عدد النقل
+transuranian elements	عناصر ما وراء اليورانيوم
+transuranium	ما وراء اليورانيوم
+transverse	مستعرض، عرضّي / مستعرض
+trap	مصيدة، فخ
+Traube's rule	قاعدة تروب
+treat (v)	يعالج
+treatment	معالجة، معاملة / معالجة
+tremolite	تريموليت
+trend	نزعة
+tri-	ثلاثي، ثلاثة، ثلاث مرات / ثلاثي: سابقة
+triad	ثالوث / ثلاثية
+triad rule	قاعدة الثلاثيات
+trial	تجربة، محاولة
+triangle	مثلّث
+triazo-	ثلاثي الآزو: سابقة
+triazole	تريازول
+tribasic	ثلاثي القاعدة
+tribasic acid	حمض ثلاثي القاعدة، حمض ثلاثي الأساس، حمض ثلاثي الوظيفة الأساسية
+triclinic	ثلاثي المسيل / ثلاثي الميل
+triclinic crystals	بلورات ثلاثية الميل
+tridymite	تريديميت
+triethylamine	ثلاثي إيتيل الأمين
+trifluoroactic acid	حمض ثلاثي فلور الأسيتيك
+trigger	منبه، مثير
+triglyceride	ثلاثي الغليسريد
+trigonal	مثلثي
+trigonal hybridization	تهجين ثلاثي / تهجين مثلثي
+trigonal system	منظومة مثلثية
+trimer	ثلاثي الحد، تريمير / ثلاثي الحد (مثلوث)
+trimethylamine	ثلاثي ميتيل الأمين
+trimetric system	نظام ثلاثي
+trimorphic; trimorphous	ثلاثي التشكل البلوري
+trinitrobenzene	ثلاثي نترو البنزين
+trinitromethane	ثلاثي نتروالميتان
+trinitrotoluene	ثلاثي نتروالتولوين
+triose	تريوز
+trioxane	ثلاثي الأوكسان
+trioxide	ثلاثي الأوكسيد
+tripeptide	ثلاثي الببتيد
+triple	ثلاثي
+triple bond	رابطة ثلاثية
+triple point	نقطة ثلاثية
+triple superphosphate	فوق فسفات ثلاثية
+triplet	ثلاثية
+triplet code	راموز ثلاثي
+tripod	ثلاثي القوائم
+trisaccharides	ثلاثي السكريات
+tristearin	ثلاثي الستيارين
+tritium	ترتيوم / تريتيوم
+triton (t)	تريتون
+trituration	سحْن، سحْق
+trivalent	ثلاثي التكافؤ
+trivariant system	نظام ثلاثي المتغيرات
+trivial name	اسم شائع
+tropocollagene	تروبوكولاجين
+troponin	تروبونين
+trouble (liquid)	متعكّر، عكِر
+trough	حوض، جُرْن
+Trouton's rule	قاعدة تروتن
+true	حقيقي
+true solution	محلول حقيقي
+trypsin	تريبسين
+trypsinogen	مولد التريبسين
+tryptophan	تريبتوفان
+tube	أنبوبة
+tube holder	ماسك الأنبوب
+tubing	تنبيب
+tungsten (wolfram)	تنغستين
+tungsten; wolfram	تنغستن، تنجستن
+tunnel effect	تأثير النفق، تأثير نفقي
+turbid	عكِر / كَدِرٌ
+turbidimeter	مقياس العكَر، مقياس الكدورة (في محلول معلق) / مقياس الكدورة
+turbidimetric analysis; turbidimetry	تحليل مقياس العكَر، تحليل بقياس الكدورة أو التعكر
+turbidimetry	قياس الكدورة
+turbidity	عكارة، عكَر، كدورة / كدورة
+turboemulsifier	مستحلب تربيني
+turbulence	اضطراب
+turbulent flow	جريان مضطرب
+Turnbull's blue	أزرق تورنبول
+turpentine (gum)	صمغ التربنتين
+turpentine oil	زيت التربنتين
+twin crystal	بلورة توأم
+twin crystal (s)	بلورة توأمية
+twist conformation	تشكيل دوراني ملتوي
+two-dimensional chromatography	كروما توغرافية ذات بعدين
+Tyndall effect	تأثير تندال، ظاهرة تندال / تأثير تندال
+tyndallimetry	قياس تندال
+tyrosine	تيروزين

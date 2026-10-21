@@ -1,0 +1,184 @@
+Y (yttrium)	يت
+Y - co-ordinate	احداثي صادي
+y axis	المِحْوَرُ y (مِحْوَرُ العَيْنات، مِحْوَرُ التَّراتيب)
+y chromatin	كروماتين Y
+y chromosome	صبغيّ Y
+y component	المُرَكِّبة y (المُرَكِّبةُ العَيْنِيَّة)
+y coordinate	الإحْداثِيّ y (الإحْداثِيُّ العَيْنِيّ)
+y fork	شوكة Y، تشعُّب Y
+Y intercept	محصورة ص
+y linkage	ارتباط Y
+Y- (or wye) level	مِيزانُ تَسويةٍ ذو مَشْعَبَين
+Y- axis	محور الصادات / محور العينات، محور (ال…) العمودي
+Y-alloy	سَبيكةُ واي
+Y-amplifier	مُضَخِّمُ المُرَكِّبة العَمُودِيَّة
+Y-axis	مِحْوَرُ الصادات، ألمِحورُ الصادِيّ؛ المِحْوَرُ الأُفُقِيّ (في مَركبةٍ فضائيَّة - مِن جانِبٍ لآخر) / محور y (محور العينات) / محور صادي
+Y-axis deflection	اِنحرافٌ عَموديّ (على شاشَةِ أُنبوب أشِعَّة الكاثود)
+Y-branch	فَرعٌ (أو تَفرُّع) ذو شُعْبَتَيِن مائلتين (على شكل Y)
+Y-chromosome	الصِّبْغيُّ الصّادي، صِبْغيُّ ص، صِبْغيُّ واي / صبغي y، yكروموسوم
+Y-connection = star connection	اِتِّصالٌ نَجْمِيّ ثُلاثيّ
+Y-coordinate	ألإحداثيُّ الصادِيّ
+Y-current (or wye current)	تيّارُ التَفَرُّع النِّجميّ
+Y-cut	قطعٌ صادِيّ
+Y-cut crystal	بِلَّوْرَةٌ صادِيَّةُ الْقَطْع
+Y-fitting	تَركيبةٌ ثُلاثيَّةُ الشُّعَب
+Y-grouping	تَجميعٌ نَجميّ ثُلاثي (على شكل Y)
+Y-intersection	تقاطُعٌ ثُلاثيّ (نَجْميّ)
+Y-joint	وُصلةٌ ثُلاثيَّةُ التَفَرُّع (بِشكل Y)
+Y-line	خَطٌّ صاديٌّ
+Y-network	شَبَكَةٌ نَجْمِيَّة ثُلاثيَّة
+Y-parameters	وُسُطُ واي
+Y-piece	قِطعةٌ ثُلاثية التفرُّع
+Y-plates	صفيحتَا ص
+Y-point (or wye point)	نُقطَةُ التَفَرُّع (أو الاتصال) النجميّ
+Y-position	المَوقعُ الصادي
+Y-potential	جُهْدُ التفَرُّع النجمي
+Y-punch	تَثقيبٌ صادِيّ، تَثْقيبُ واي
+Y-rectifier (or wye rectifier)	مُقَوِّمٌ نَجمِيُّ التوصيل
+Y-signal	إشارَةُ نُصوع أُحادِيَّةُ اللّون (في التلفزة المُلَوَّنة)
+Y-tube	أُنبوب ثلاثي الشُّعب
+Y-tube (with 2 taps)	أُنبوب ثلاثي الشُّعب (ذو صُنبورين)
+Y-voltage = star (or phase) voltage	ڤلْطِيَّة الطَّور
+Y-waves	أمواجٌ صادِيَّة
+yacht	يَخْت؛ أبحَرَ في يَخْت / يخت
+yacht club	نادي اليخت
+yacht harbour	مرفأ يخوت
+yacht race	سباق يخوت
+yachting	تيخيت، إبحار باليخوت
+Yagi aerial (or antenna)	هَوائي «ياڠي»
+Yale lock	قُفْلُ «يِيل»
+yank	شَدَّ أو لَوى بعُنْف
+Yankee machine	مَكنةُ «يانكي»
+yard	يارْدَة (تساوي 3 أقدام أو 91.44 سم)؛ ساحَة، فِناء، حَظيرة؛ عارِضَةُ الصَّاري؛ ساحَةُ خُطوطِ التحويل والمُناورة / ياردة / عارضة الشراع
+yard goods	سِلَعٌ تُباعُ باليارْدة
+yard gull(e)y	مَصْرِفُ السّاحة المَرصوفة
+yard rope	حبل عارضة الشراع
+yard trap = gulley trap	مِحْبَسُ المَجرور
+yard traveller	مِرفاعٌ خارجيٌّ نَقّال
+yardage	ألمِقدارُ (مَقِيسًا) باليارْدات؛ نَفَقاتُ التَخْزين؛ حَجْمُ الحَفْرِ باليارداتِ المُكَعَّبة
+yardstick	عَصا الياردة؛ مِقياسٌ مِعياريّ
+yarn	غَزْل؛ خَيْط مَبْروم
+yarn-dye	صَبَغَ (الغَزْلَ) قبلَ النَّسْج
+yarning tool (or yarning chisel)	عُدَّةُ جَلْفَطَة، إزميلُ جَلفطة
+yaw	اِنعَرَجَ، اِنحَرَفَ، زاغَ؛ اِنعراج / انعراج / انحراف
+yaw damper	مُخَمِّدُ الانْعِراج
+yaw indicator	مُبَيِّنُ الانعِراج
+yaw meter	مِقياسُ الانْعِراج
+yaw, angle of	زاويةُ الاِنعِراج
+yaw, axis of	مِحْوَرُ الانعِراج
+yawing axis	مِحْوَرُ الانعِراج
+yawing moment	عَزْمُ الانعِراج
+yawl	زَورقٌ صغير
+yawning fissure	شَقٌّ (أو ثَلْمٌ) فاغِر
+yaws	يُوز
+yazoo stream	رافد
+Yb (ytterbium)	تر
+year	سَنة؛ سَنةٌ فَلَكِيَّة (لِكَوْكَبٍ سَيّار) / سنة / سنة، عام
+year ring = annual ring	حَلْقة (نُمُوٍّ) سَنويَّة
+year, calendar (or civil)	سَنةٌ تَقويميَّة
+year, common (or ordinary)	سَنة عاديَّة، سنة بَسيطة
+year, leap	سَنَةٌ كَبيسة
+year, light	سَنَةٌ ضَوْئِيَّة
+year, lunar	سَنَةٌ قَمَريَّة
+year, sidereal	سَنَةٌ نَجمِيَّة
+year, tropical	سَنَةٌ مَدارية
+year-to-year pressure difference	تَغَيُّرٌ سَنَواتِيّ لِلضَّغْط، تَغَيُّرُ الضَّغْطِ بَيْنَ السَّنَوات
+year-to-year temperature difference	تغير سنواتي لدرجات الحرارة، تغير درجات الحرارة بين السنوات
+yearbook	كِتابٌ سنَويّ
+yearling	بذرة سنة، غرسة سنة
+yearlings (of fish)	أسماك حولية
+yearly	سنويا
+yearly income	دخل سنوي
+yearly output	ألإِنتاجُ السنويّ
+yearly variation	تَغَيُّر سَنَويّ
+Years	سنوات
+Years of Life Lost (YLLs)	سنوات العمر المفقودة
+yeast	خَميرة؛ اِختمَرَ
+yellow	أصفَرُ / أصفر
+yellow arsenic = orpiment	ألرَّهْجُ الأصفر
+yellow book	كِتَابٌ أصْفَر
+yellow bottle	لؤلؤية مذهبة
+yellow cell	خلية صفراء
+yellow copper ore = chalcopyrite	كَلْكُوپَيريت، خامُ النُّحاس الأصفر
+yellow earth	طُفالٌ أصفر، مُغرة صفراء
+yellow fever	الحُمَّى الصفراء
+yellow iris	سوسن مذهب
+yellow lead ore = wulfenite	خامُ الرَّصاص الأصفر، وُلْفِنيت
+yellow mud	طين أصفر
+yellow ochre	مُغرةٌ صَفراء
+Yellow Pages	1 صفحاتٌ صُفْر ؛ 2 صفحاتٌ صُفْر ؛ 3 صفحاتٌ صُفْر / صَفَحَاتٌ صَفرَاء
+yellow perch (perca flavescens)	سمك البرش الأصفر
+yellow phosphorus = white phosphorus	ألفُسفور الأصفر (أو الأبيض)
+yellow pine	ألصَّنَوْبَر الأصفر أو خَشَبُه
+yellow polar; liriodendron	شجرة الزنبق
+yellow quartz = citrine	مَرْوٌ أصفَر، سِتْرين
+yellow scale	شمعٌ حَرْشفي
+yellow sea	بحر(ال..) الأصفر
+yellow spot	ألبُقْعَةُ الصفراء (في شَبَكِيَّة العَيْن) / بقعة صفراء
+yellow- hammer	خضيري
+yellow-bill	بط قصبي أسود
+yellow-seed; lipidium sativium	رشاد
+yellow-wood	صندل ليموني
+yellowish	ضاربٌ إلى الصُّفرة، مُصْفَرّ
+yelm	حَزَمَ (القَشَّ)؛ حُزْمَةُ قشّ (للتَّسْقيف)
+Yes	نعم
+yew	طَقْسُوس
+yield	أنتَجَ، أَغَلَّ، أدَرَّ؛ خَضَعَ، رَضَخَ، أذْعَنَ؛ اِنْطَاعَ، لانَ؛ حَصيلَة، مَحْصُول؛ نِتاج، غَلَّة؛ اِنطِياع، خُضُوع / عائد / إنتاجية، تصريف / انتاجية، تصريف
+yield chart	مُخَطَّط (بَيان) الإنتاج
+yield limit	حَدُّ المُطاوَعَة، حَدُّ الخُضُوع
+yield point	نُقطةُ الخُضُوع
+yield strain	اِنْفِعَالُ الخُضوع
+yield strength	مُقاوَمَةُ الخُضُوع
+yield stress	إجهادُ الخُضوع
+yield value	إجهادُ الخُضوع الأدنى
+yield, energy	حَصيلةُ الطاقة، ألإنتاجُ الطاقِيّ
+yield, theoretical	ألناتجُ النَظَريّ
+yieldable arch	عَقْدٌ خَضُوع، قَنْطَرَةٌ طَيِّعَة
+yielding	خُضُوع، مُطاوَعَة، اِنطِياع، إذعان؛ حَصيلة، ناتِج، إنتاج؛ مِطْواع، خاضِع؛ لَيِّن، طَيِّع، مَرُون
+yielding coupling	تقارُنٌ طَيِّع
+yielding prop	رَكيزةٌ طَيِّعة
+yielding rock	صَخْرٌ طيِّع
+YIG (yttrium-iron-garnet) crystal	بِلَّوْرةٌ إتريُوميَّة حَديديَّة مَقيقيَّة
+ylem	آيْلِم، هَيُولى العناصِر، هَيُولى النّواة
+Ymodem	[ميفاق] Ymodem
+yoke	مِقْرَن، نِير، مِضْمَدَة؛ مِقْرَنُ قالَبِ الصَّب؛ نِيْرُ (أو مِقْرَنُ لَفائِف) المَغْنَطة؛ قَرَنَ، ضَمَّ / حارف
+yoke line	حبل مقرن الدفة، جنزير مقرن الدفة
+yoke permeameter	مِقياسُ إنفاذِيَّة مِقْرَنِيّ
+yoke pin	مِحورُ المِقرن
+yoke suspension = bar suspension	تَعليقٌ مِقْرَنِيّ أو قَضيبيّ
+yoke, adjusting	مِقْرَنُ ضَبْط
+yoke, deflecting	مِقْرنٌ حارِف
+yoke, scanning	مِقْرَنُ المَسْح
+yoke-elm	نيرية
+yolk	مُحّ، صَفارُ البَيْض / مح
+yolk sac	كيسُ المُحّ / كيس المح
+Yonden square	مُرَبَّعُ يوندِن
+york antwerp rules	قواعد يورك وأنتويرب
+young	فَتِيّ؛ ناشِئ، قليلُ الخِبرة؛ يُصبحُ أحدثَ عهدًا (في اتجاهٍ مُعَيَّن) / حديث
+young fish	صغار الأسماك
+young fry	زريعة صغيرة
+young marine clay	غضار بحري حديث
+young relief	تضاريس حديثة
+young valley	وادٍ حديثٌ / واد حديث
+Young's inequality	مُتَبايِنَةُ يونغ
+Young's modulus	معيار يونج
+Young-Helmholtz theory	نَظريَّةُ «يَنْغ» وَ «هِلْمهُلْتز»
+younging, direction of	اِتِّجاه الحداثة
+Young’s double slits	شَقّا «يَنْغ»، فَلْعا «يَنْغ»
+Young’s modulus	مُعامِلُ «يَنْغ»
+youth	حداثة
+Youth Literacy Rate	معدل القدرة على القراءة عند الشباب
+Youth not in Employment, Education or Training (NEET)	الشباب ليس في العمل أو التعليم أو التدريب
+Youth Unemployment	بطالة الشباب
+youthful	فَتِيٌّ
+yperite = mustard gas	غازُ الخَرْدَل، إپيرَيْت
+yrneh	يرنه
+ytterbia	إيتيربيا
+ytterbium (Yb)	الإيتِيربيُوم
+yttria	إتْرِيا
+yttrium (Y)	الإتْريُوم
+yttrium oxide	أُكسيد الإتْريُوم
+yu-stone	يَشْمٌ كَريم
+yucca	يكة، يوكا
+Yukawa potential	جُهد «يُوكاوا» الكموني
+YZ plane	مستوى ص ع

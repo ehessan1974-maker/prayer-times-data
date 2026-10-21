@@ -1,0 +1,171 @@
+vacancy	فراغ، شغور / شُغور
+vaccine	لقاح
+vacuole	فجوة
+vacuum	فراغ / خلاء
+vacuum bell-jar	ناقوس تفريغ زجاجي
+vacuum deposition	توضّع في الخلاء
+vacuum desiccator	مجفِّف فراغي
+vacuum distillation	تقطير فراغي / تقطير في الخلاء
+vacuum drier	مجفف فراغي، منشف فراغي، مجفف تحت الفراغ
+vacuum drying	تجفيف في الخلاء
+vacuum drying apparatus	جهاز تنشيف فراغي
+vacuum forming	تشكيل في الخلاء
+vacuum pump	مضخة تفريغ
+vacuum risidium	بقايا التقطير الفراغي
+valence	تكافؤ
+valence band	حزمة التكافؤ
+valence bond	رابطة التكافؤ
+valence electron	ألكترون التكافؤ
+valence electrons	إلكترونات التكافؤ
+valence forces	قوى التكافؤ
+valence number	عدد التكافؤ
+valence shell	طبقة التكافؤ
+valence unmber	عدد التكافؤ، رقم التكافؤ
+valence-bond method	طريقة رابطة التكافؤ
+valence-bond theory	نظرية رابطة التكافؤ
+valency	تكافؤ، تكافؤية / تكافؤ
+valency state	حالة التكافؤ
+valency theory	نظرية التكافؤ
+valeric acid	حمض الفاليريك
+valid	ساري المفعول صحيح، صالح
+validity	صحة، ثبوت
+valine	فالين
+valium	فاليوم
+value	قيمة
+valve	صمام / صِمام (ج. صِمامات/أَصِمَّة)
+valve effect	تأثير الصمام
+valve tray	صينية الصمام
+Van der Waalls equations (law)	معادلة فان ديرفال (قانون)
+Van der Waals equation	معادلة ﭬـاندرﭬـالس
+Van der Waals force	قوة فاندر فالس
+Van't Hoff equation	معادلة فانت هوف
+Van't Hoff laws	قانونا فانت هوف
+Van't Hoff's law	قانون
+vanadium	فاناديوم
+vanillin	فانيلين
+vapor (vapour)	بخار
+vapor density	كثافة البخار
+vapor pressure	ضغط البخار
+vapor tension	توتر البخار
+vaporimeter	مقياس التبخر
+vaporization	تبخُّر / تبخير، تبخُّر
+vaporizer	مِبْخرة
+vapour	بخار
+vapour density	كثافة بخارية
+vapour pressure	ضغط البخار
+variability; variance	تغيرية
+variable	متغيِّر
+variable intensity	شدة متغيرة
+variables	متغيرات
+variance	تغاير
+variant	مغاير
+variation	تغيُّر / تغيّر
+variational principle	مبدأ (ال...) التغيري
+variety	ضَرْب
+varnish	برنيق، ورنيش / ورنيش
+vasopressin	فازوبريسين
+vat dye	صبغ الحوض، صبغ مرسِّخ
+vector	متجه / متَّجه، حامل
+vegetable acid	حمض نباتي
+vegetable butter	زبد نباتي
+vegetable dye	صبغ نباتي
+vegetable oil	زيت نباتي
+vehicle	عربة، مركبة، سائل حمل (في الصيدلية)
+velocity	سرعة
+velocity constant	ثابت السرعة
+velocity of light	سرعة الضوء
+velocity of reaction	سرعة التفاعل
+vent	مَنفس، مخرج / منفس
+vent valve	صمام تنفيس
+ventilation	تهوية
+ventilator	مروحة
+verdigris	زنجار
+vermicidal	مبيد للديدان
+vermil(l)ion	زُنْجُفْر
+vertical	عمودي، رأسي، شاقولي
+vessel	وعاء
+vestigial	أثري
+vexatous (operation)	مغيظ
+vial	قنينة، قارورة
+vibration	اهتزاز
+vibrational energy	طاقة الاهتزاز، طاقة تذبذبية
+vibrational specific heat	حرارة نوعية اهتزازية
+vibro-mill	هزّازة، رجّاجة
+vicinal	متجاور
+vicinal (faces)	أوجه متجاورة (البلورية)، تجاوري، مجاور
+vigorous	شديد
+vinegar	خلٌّ / خَلّ
+vinyl	فينيل
+vinyl acetate	أسيتات الفينيل
+vinyl chloride	كلوريد الفينيل
+vinyl ether	إيتر الفينيل
+vinyl ethyl ether	إيتر إيتيل الفينيل
+vinyl ethylene	إيتيلين الفينيل
+vinyl fiber	ليف فينيلي
+vinyl methyl ether	إيتر ميتيل الفينيل
+vinyl plastic	لدين الفينيل
+vinyl stabilizer	مثبّت الفينيل
+vinylation	فينلة، فينليّة / فَيْنَلَة
+vinylic alcohol	غَوْل فينيلي
+violent	عنيف
+violet	بنفسجيّ
+violet gential	بنفسجي
+virial (coefficient)	قوة (معامل)
+virial (function)	قوة (تابع)
+virtual	تقديري، افتراضي / اعتباري، وهمي، افتراضي
+virtual value	قيمة تقديرية، قيمة افتراضية
+virus	فيروس
+viscid	لزج / دَبِق
+viscometer	مقياس اللزوجة
+viscose	فِسكُوز / فسكوز
+viscose process	طريقة الفسكوز
+viscosimeter	مقياس اللزوجة
+viscosity	لزوجة
+viscosity improver	مُحسِّن اللزوجة
+viscosity index	قرينة اللزوجة
+viscous	لَزِج / لزج
+visibility	قابلية الرؤية، جلاء، وضوح
+visible	مرئيّ، واضح
+visible light	ضوء مرئي
+visible radiation	إشعاعات مرئية
+visible spectrum	طيف مرئي
+vision	رؤية، إبصار
+vital force	قوة حية، قوة حياتية
+vitalism (principle of...)	مبدأ الحيوية
+vitamin	فيتامين
+vitamin B complex	الفيتامين B المعقّد
+vitreous	شبه زجاجي / زجاجي
+vitrification	تزجيج
+vitriol	زاج
+volatile	متطاير / طيّار، متطاير
+volatile matter	مادة متطايرة
+volatile oil	زيت طيّار
+volatile solvent	مذيب متطاير
+volatility	قابلية التطاير / تطايريّة
+volatilization	تطاير
+volt	فولت، فلط / فولط
+volta cell	عمود فولتا، خلية فولتا
+voltage	فولتية، فلطية، جهد / فولطية
+voltaic cell	خلية فولطية
+voltmeter	مقياس الفولط
+voltometer	مقياس الفولتية، مقياس الجهد الكهربائي، فلطمتر
+volume	حجم
+volume (critical...)	حجم حرج
+volume (molecular...)	حجم جزيئي
+volume expansion	تمدد حجميّ
+volumetric	قياس حجمي
+volumetric (specific) heat	حرارة (نوعية) حجمية
+volumetric analysis	تحليل حجمي
+volumetric composition	تركيب حجمي
+volumetric flask	دورق حجمي
+volumetric gauge	مقياس حجمي
+volumetric glassware	زجاجات حجمية، أوانٍ زجاجية حجمية
+volumetric pipette	مّاصة حجمية
+volumetric solution	محلول حجمي
+volumetric titration	معايرة حجمية
+volumic	حجميّ
+voluminous (precipitation)	ضخْم
+vortex motion	حركة إعصارية، حركة دوّامية
+VSEPR Theory	نظرية دفع الأزواج الالكترونية في طبقة التكافؤ
+vulcanization	كبرتة / فلكنة
+vultex	فلتكس

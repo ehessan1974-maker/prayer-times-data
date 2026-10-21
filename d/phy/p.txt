@@ -1,0 +1,748 @@
+p-n junction	p-nوصلة
+p-n-p transistor	p-n-pترانزستور
+p-type semiconductor	p نصف ناقل من النوع
+packing fraction	نسبة الترابط
+pair creation	إنتاج الأزواج
+pair production	انتاج الأزواج (ن) / إنتاج الأزواج
+pair-production absorption	امتصاص منتج الأزواج
+paired echo	صدى مزدوج
+palemorphism	تشاكل تقدمي
+palladium	بلاديوم
+panachromatic	حساسية لونية
+parabola	قطع مكافئ
+parabolic antenna	هوائي مكافئي
+parabolic coordinates	احداتيات قطع مكافىء
+parabolic motion	حركة مكافئية
+paradox	تناقض ظاهري / مفارَقة
+parahydrogen	هدروجين تعاكسي
+parallax	اختلاف المواضع / اختلاف المنظر؛ بارالاكس
+parallax error	خطأ اختلاف المواضع / خطأ اختلاف المنظر
+parallel connection	الوصل على التوازي؛ الوصل على التفرع
+parallel feeding	تغدية متوازية
+parallel force	قوى متوازية
+parallel forces	قوى متوازية
+parallel impedance	ممانعة تواز
+parallel plate capacitor	مكثفة مستوية
+parallel ray	شعاع متواز
+parallel resistances	مقاومات متوازية
+parallel sided plate	صفيحة متوازية الوجهين
+parallel-axis theorem	مبرهنة المحور الموازي
+parallelepiped	متوازي الأضلاع المجسَّم
+parallelogram	متوازي الأضلاع
+parallelogram of forces	متوازي أضلاع القوى
+paralysis time	زمن الشلل (ن)
+paramagnetic	مغنطيسي مساير
+paramagnetic material	مادة ذات مغنطيسية مسايرة
+paramagnetism	مغنطيسية مسايرة
+parameter	مَعْلَم (ن) / وسيط
+parametric equation	معادلة وسيطية
+parasitic capture	اسر طفيلي (ن)
+parasitic oscillation	تذبذب طفيلي
+paraxial focus	بؤرة شبه محورية
+paraxial ray	شعاع شبه محوري
+paraxial rays	أشعة قريبة من المحور؛ أشعة متمحورة
+parent mass peak; parent peak	قمة كتلة الأم
+parent nucleus	نواة أم / نواة سَلَف
+parfocal	شبه بؤرة
+parhelion	شمس كاذبة
+parity	تماثل (ن) / نِدّيّة
+parity of state	نِدّيّة الحالة
+parity operator	مؤثر التماثل (ن)
+parsec	فرسخ فلكي
+partial	جزئي
+partial body dose	جرعة جسدية جزئية (ن)
+partial decay constant	تابث الاضمحلال الجزئي (ن)
+partial derivative	مشتق جزئي
+partial dislocation	خلع جزئي
+partial eclipse	كسوف جزئي / كسوف جزئي؛ خسوف جزئي
+partial level width	عرض المستوى الجزئي (ن)
+partial miscibility	امتزاجية جزئية
+partial pressure	ضغط جزئي
+partial wave	موجه جزئية
+partial width	عرض جزئي
+particle	جسيم (ن) / جسيم
+particle absorption	امتصاص الجسيمات (ن)
+particle current density	كثافة تيار الجسيمات (ن)
+particle fluence	سيولة الجسيمات (ن)
+particle flux density	كثافة تدفق الجسيمات
+particle physics	فيزياء الجسيمات
+particle velocity	سرعة الجسيم
+particular solution	حل خاص
+partition coefficient	معامل التجزئة
+partition coefficient; distribution coefficient	معامل التجزئة
+partition function	دالة تجزئة / دالة التحاص
+partition stage	مرحلة التجزئة (ن)
+Pascal principle	مبدأ
+Pascal's triangle	مثلث باسكال
+Pascal’s principle (law)	مبدأ باسكال
+Paschen series	متسلسلة باشن
+Paschen-Back effect	مفعول باشن-باك
+pass-band filter	مرشح تمرير نطاق
+passage of criticality	اجتياز الحرج (ن)
+passive element	عنصـر منفعل
+passive network	شبكة منفعلة
+passivity	سلبية
+path	مسار
+path difference	فرق المسار / فرق المسير
+path length	طول المسار (ن)
+path of rays	مسار الأشعة
+Pauli exclusion principle	مبدأ الاستبعاد / مبدأ باولي في الاستبعاد
+Pauli matrices	مصفوفات باولي
+Pauli principle	مبدأ باولي
+peaceful nuclear activity	نشاط نووي سلمي (ن)
+peak	ذروة، قمّة
+peak angular velocity	ذروة السرعة الزاوية
+peak force	ذروة القوّة
+peak sound pressure	ذروة الضغط الصوتي
+peak to peak voltage	فُلطية من الذروة إلى القاع
+peak velocity	ذروة السرعة
+peg	وتد
+pen dosimeter	قلم قياس الجرعة (ن)
+pencil	حزمة دقيقة
+pencil of rays	حزمة ضيقة من الأشعة
+pendulum	نواس، رقاص / نواس؛ رقّاص
+pendulum clock	ميقاتية
+penetration probability	احتمال الاختراق
+penetrative	نفّاذ
+penta prism	موشور خماسي / موشور خُماسي
+pentagon	خماسي / خُماسـي الأضلاع
+pentagrid	خماسي الشبكة
+pentagrid valve	صِمام خماسـي الشبكات
+pentode	صمّأم خماسي / صِمام خماسـي المساري
+pentode (sharp cut-off…)	صمام خماسي حاد القطع
+penumbra	شبه الظل / شبه الظل؛ ظُلَيل
+percentage depth dose	نسبة (ال...) المئوية لجرعة العمق (ن)
+percentage incertitude	الارتياب المئوي
+percolation	توشيل، ترشيح / رَشْح
+percussion	قرع
+perfect	كامل، مثالي
+perfect fluid	مائع مثالي
+perfect gas	غاز مثالي / غاز مثالي؛ غاز كامل
+perfect gas constant	ثابتة الغازات الكاملة
+perfectly inelastic collision	اصطدام تام اللامرونة
+perihelion	حضيض المدار حول الشمس
+period	دورة، زمن الذبذبة / دور
+period meter	مقياس الدورات (ن)
+period of deformation	دورة التشوّه
+period of harmonic motion	دورة الحركة التوافقية
+period of oscillation	دور الاهتزاز
+period of pendulum	دورة النواس
+period of restitution	دورة الارتداد
+period of simple harmonic motion	دورة الحركة التوافقية البسيطة
+periodic	دوري
+periodic focusing fields	مجالات تركيز دورية
+periodic law	قانون دوري
+periodic motion	حركة دورية
+periodic system	نظام دوري
+periodic table	جدول (ال...) الدوري / الجدول الدوري
+periodic table of elements	الجدول الدوري للعناصـر
+periodic wave	موجة دورية
+periodicity	دورية
+periscope	كاشف الأفق؛ مئفاق
+perisphere	مكان ظهور المجال
+peritectic	نقطة لاتطابق الانصهار
+Permalloy	سبيكة برمالوي
+permanent gas	غاز دائم
+permanent magnet	مغنطيس دائم
+permanent set	تشوّه دائم
+permeability	نفاذية / نفاذية مغنطيسية
+permeability of the elements	نفاذية العناصر
+permeate (to)	ينفد
+permissible dose	جرعة مقبولة (ن)
+permittivity	سماحية / سماحية كهربائية
+permutation operator	مؤثر التبديل
+perpendicular axis theorem	مبرهنة المحاور المتعامدة
+perpetual motion	حركة دائمة
+perpetual motion of the first kind	حركة دائمة من النوع الأول
+perpetual motion of the second kind	حركة دائمة من النوع الثاني
+perpetual motion of the third kind	حركة دائمة من النوع الثالث
+persistence characteristic; decay characteristic	مميز الاضمحلال
+persistence of light impressions	دوام الانطباعات الضوئية
+persistence of sensation	استمرار الاحساس
+persistence of vision	استمرار الرؤية / دوام الرؤية
+persistent radiation	اشعاع دائم
+personal dose	جرعة شخصية (ن)
+personal monitoring	مراقبة العاملين (ن)
+perturbation	قلقة، اضطراب / اضطراب
+perturbation theory	نظرية الاضطراب (ن) / نظرية الاضطراب
+Pfund series	متسلسلة بفوند
+phase	طور
+phase angle	زاوية الطور
+phase change	تغير الطور
+phase coherence	ترابط طوري
+phase constant	تابث الطور
+phase diagram	مخطط الأطوار
+phase difference	فرق الطور
+phase difference; phase displacement	فرق الطور
+phase displacement	انزياح الطور
+phase integral; action variable	تكامل الطور
+phase modulation	تعديل الطور (طوري)
+phase of sine wave	طور موجة الجيب
+phase plate	صفيحة ربع موجية
+phase resonance	رنين الطور
+phase reversal	انعكاس الطور
+phase shift	انزياح الطور
+phase shifting circuit	دارة ازاحة الطور
+phase slowness	ابطاء الطور
+phase space	فضاء طور (ن) / فضاء طوري
+phase transformation	تحول طوري
+phase transition	تحوُّل طوري
+phase velocity	سـرعة الطَّور
+phase-contrast microscope	مجهر تباين الطور
+phasor	مطوار، مقدار طوري
+phasor diagram	مخطط طوري
+phasotron	فازترون
+phenomenological theory	نظرية ظاهراتية
+phenomenon	ظاهرة
+phi polarization	استقطاب
+phon	فون
+phon-meter	مقياس الجهارة
+phone	هاتف
+phonetic	صوتي
+phonetics; phonics	صوتيات (ال...)
+phonofilm	رق سينمائي ناطق
+phonograph	حاكي (ال...) / حاكي
+phonometer	مصوات / مقياس شدة الصوت
+phonometry	مصواتية
+phonon	فونون
+phonon mean free path	مسار (ال...) المتوسط للفونون الحرّ
+phonon momentum	اندفاع الفونون
+phonoscope	مكشاف الصوت
+phoshorscope	مكشاف اللمعان الفسفوري
+phosphor	مادة متألقة بالفسفرة
+phosphorescence	لمعان / فسفرة
+phosphorescent	لماع
+phosphorus	فسفور
+phosphorus or phosphor	فسفور
+phot	فوت
+photo elasticity	مرونة ضوئية
+photo electricity	كهرضوئية
+photo electron	الكترون ضوئي (ن)
+photo emission curve	منحنى انبعاث الفوتونات (ن)
+photo sensitive	حساس ضوئيا
+photo-negative; photo-resistive; light-negative	سالب ضوئيا
+photocathode	كاتود ضوئي؛ مهبط ضوئي
+photocell	خلية ضوئية
+photochemical	ضو كيميائي
+photochemical action	فعل كيمياضوئي
+photochemical equilibrium	توازن ضو كيميائي
+photochemistry	كيمياء ضوئية
+photoconductive effect	تأثير التوصيل الضوئي / مفعول التوصيل الضوئي
+photoconductivity	ناقلية ضوئية
+photodiode	ديود ضوئي
+photodisintegration	تفكُّك ضوئي
+photoelasticity	مرونة ضوئية
+photoelectric	كهرضوئي
+photoelectric absorption	امتصاص كهرضوئي (ن)
+photoelectric cell	خلية كهرضوئية
+photoelectric effect	تأثير كهرضوئي (ن) / مفعول كهرضوئي
+photoelectric emission	انبعاث كهرضوئي / إصدار كهرضوئي
+photoelectric multiplier	مضاعِف كهرضوئي
+photoelectric threshold	عتبة كهرضوئية
+photoelectric work	شغل كهرضوئي
+photoelectron	إلكترون ضوئي
+photofission	انشطار ضوئي (ن) / انشطار فوتوني
+photograph	صورة، رسم
+photographic	تصويري
+photographic camera	صوّارة / مصوِّرَة؛ كاميرا
+photographic dosimeter	مقياس الجرعة التصويري (ن)
+photographic emulsion	مستحلَب فوتوغرافي
+photographic exposure	تعريض الرسم الضوئي
+photographic film	رق التصوير / فلم التصوير
+photographic grain	حبات رسم ضوئي
+photographic graininess	تحبب رسم ضوئي
+photography	تصوير
+photogravure	حفر فوتوغرافي
+photoionization	تأين فوتوني
+photoluminescence	استضاءة ضوئية (ن) / تألق ضوئي
+photoluminescence dosimeter	مقياس جرعة الاستضاءة (ن)
+photometer	مضواء / مقياس شدة الإضاءة
+photometric standard	معيار مضوائي
+photometry	قياس الضوء
+photomicrograph; microphotograph	صورة مصغّرة
+photomicrography	تصوير مجهري
+photomultiplier	مضاعِف ضوئي (ن) / مضاعِف ضوئي
+photon	فوتون (ن) / فوتون
+photon flux density	كثافة تدفق الفوتونات (ن)
+photon gas	غاز فوتونات
+photoneutron	نترون ضوئي (ن) / نترون فوتوني
+photonic crystal	بلورة فوتونية
+photonuclear reaction	تفاعل نووي ضوئي (ن) / تفاعل نووي ضوئي
+photopic vision	أبصار (ال...) بمخاريط الشبكية / إبصار بمخاريط الشبكية
+photoproton	بروتون ضوئي / بروتون فوتوني
+photosensitivity	الحساسية الضوئية
+photosphere	كرة ضوئية / كرة الضوء
+phototransistor	ترانزستور ضوئي
+phototropy	تغير جانبي عكوس
+photovoltaic	فولطية ضوئية
+photovoltaic cell	خلية فولطية ضوئية / خلية فوتو فلطية
+photovoltaic effect	تأثير فولطي ضوئي
+photovoltaic panel	لوحة فولطية ضوئية
+physical measurements	قياسات فيزيائية
+physical optics	ضوء فيزيائي
+physical pendulum; compound pendulum	نواس فيزيائي
+physical properties	خواص فيزيائية
+physical protection	وقاية بدنية (ن)
+physics	فيزياء
+physiological acoustics	صوتيات وظائفية
+pi network	شبكة نوع π
+pi-meson	ميزون باي
+Pi-T conversion	تحويل شبكة من نوع π إلى شبكة من نوع T
+pick-up	لاقط
+pick-up reaction	تفاعل التقاط
+picofarad	بيكوفاراد
+picture element (pixel)	عنصـر صورة (عنصورة)
+piezoelectric	كهرضغطي
+piezoelectric crystal	بلورة كهرضغطية
+piezoelectric effect	تأثير كهرضغطي / المفعول الكهرضغطي
+piezoelectricity	كهرضغطية / كهرباء ضغطية
+piezoid	بلورة كهرضغط
+piezometer	مضغاط / مقياس الانضغاطية أو الضغط
+piezometer tube	أنبوب المضغاط
+piezomicrophone	لاقط صوت ضغطي
+pigment	صبغ
+pigment and colors	أصباغ وألوان
+pile	مفاعل
+pile (atomic…)	مفاعل نووي (ن)
+pile of plates	كدس ألواح
+piled-up group	حشد مجموعة انخلاعات
+pilot spark	شرارة رائدة
+pin	دبوس توصيل
+pin-hole camera	صوارة دبوسية الثقب
+pincers	كماشة
+pinch-cock	ماسك
+pinch-off voltage	جهد التخصُّـر؛ جهد التضيُّق
+pincushion distortion	تشوه تقعّري
+pinhole camera	مصوِّرة ذات ثقب
+pinhole image	صوارة ثقبية دبوسية
+pion	بيون
+pion = pimeson	بايون
+pipette	شفاطة / سحّاحة
+piston	مكبس
+pitch	حدّة
+pitch ball	كرة البيلسان
+pitch of a tone	حِدَّة نغمة
+pitch of helice	خطوة اللولب (الحلزون)
+pitchblende	بتشبلند / بتشبلند: خام اليورانيوم
+Pitot tube	أنبوب بيتو
+pivot	مُرتكَز / رأس ارتكاز
+Planck's constant	ثابتة بلانك
+Planck's law	قانون بلانك
+Planck's radiation formula	صيغة بلانك في الإشعاع
+Planck’s distribution law	قانون بلانك في التوزيع
+Planck’s length	طول بلانك
+Planck’s mass	كتلة بلانك
+Planck’s relation	علاقة بلانك
+Planck’s time	زمن بلانك
+Planck’s units	واحدات بلانك
+plane	مستوٍ
+plane (polarised...)	مستوى مستقطب
+plane angle	زاوية مستوية
+plane mirror	مرآة مستوية
+plane motion	حركة مستوية
+plane of polarization	مستوى الأقطاب / مستوي الاستقطاب
+plane of polarization of light	مستوى استقطاب الضوء
+plane of vibration	مستوى الاهتزاز
+plane polarization	استقطاب مستوي
+plane wave	موجة مستوية
+plane-polarized light	ضوء مستقطب استوائيا
+planetary orbit	مدار كوكبي
+planetology	علم الكواكب
+Plank constant	ثابت
+Plank law	قانون
+Plank radiation formula	صيغة للاشعاع
+plano-concave	مقعّر مستوٍ
+plano-concave lens	عدسة مقعرة مستوية
+plano-convex	محدّب مستوٍ
+planoconcave lens	عدسة مستوية مقعرة
+planoconvex lens	عدسة مستوية محدَّبة
+plasma	بلازما
+plasma frequency	تردد البلازما
+plastic collision	اصطدام لدن
+plastic deformation	تشوّه لدن
+plastic impact; inelastic impact	صدم لدن
+plasticity	لدونة
+plate	مصعد صفيحة / مَصْعَد؛ صفيحة
+plate current	تيار المصعد
+plate voltage	فولطية المصعد
+plateau	مُنْبَسَط
+platinum	بلاتين
+platinum-resistance thermometer	محرار بلاتيني المقاومة
+pleochroism	تعدد الألوان؛ تلوُّن
+pleochroism; pleochromatism	تعدد لوني بلوري
+plotting of magnetic field	تخطيط المجال المغنطيسي
+plug	قابس / قابِس؛ آخذ
+plugging	قبس
+plumb line	خيط الشاقول
+plunger	كابس
+plural scattering	استطارة جمعية / تبعثر متعدد
+plutonium	بلوتونيوم (ال...) (ن) / بلوتونيوم
+plutonium bomb	قنبلة البلوتونيوم (ن)
+plutonium credit	رصيد البلوتونيوم (ن)
+plutonium reactor	مفاعل البلوتونيوم (ن)
+pluviometer	مقياس المطر
+Pn approximation Pn	تقريب Pn (ن)
+pneumatic engine	محرك هواء مضغوط
+pneumatic shock-absorber	ماص صدم هوائي
+pneumatic system	نظام الغاز المضغوط (ن)
+pneumatics	هوائيات (ال...) / علم الهواء المضغوط
+point contact	تماس نقطي
+point contact transistor	ترانزستور ذو تماس نقطي
+point discharge	تفريغ نقطي
+point groups; symmetry classes	زمر نقطية
+point image	صورة نقطية
+point impact	نقطة الصدم
+point light source	منبع ضوئي نقطي
+point object	جسم نقطي
+point of fusion	نقطة الانصهار؛ نقطة الاندماج
+point of impact	نقطة الإصابة
+point of reflection	نقطة الانعكاس
+point source	مصدر نقطي / منبع نقطي
+point-kernel method	طريقة النوى النقطية (ن)
+point-observer	ملاحظ نقطي
+pointer of balance	مؤشر الميزان
+poise	بواز
+poisoning of reactor	تسمّم المفاعل
+Poisson brackets	قوسا بواسّون
+Poisson distribution	توزع بواسون
+Poisson’s equation	معادلة بواسون
+polar	قطبي
+polar adsorption	امتزاز قطبي
+polar angle	زاوية قطبية
+polar axis	محور قطبي
+polar circle	دائرة قطبية
+polar compound	مركب قطبي
+polar coordinate	إحداثي قطبي
+polar coordinate system	جملة إحداثيات قطبية
+polar distance	بعد قطبي
+polar form	صيغة قطبية
+polar liquid	سائل قطبي
+polar molecule	جزيء قطبي
+polar property	خاصية قطبيّة
+polar response	استجابة قطبية
+polar solvent	مذيب قطبي
+polarimeter	مقطاب / مقياس الاستقطاب
+polarimetry	قياس الاستقطاب
+polariscope	مكشاف الاستقطاب
+polarising prism	موشور استقطابي
+polarity	قطبية
+polarity (diamagnetic….)	قطبية المغنطيسية العكسية
+polarity formula	صيغة قطبية
+polarizability	استقطابية
+polarizability (ellipsoid...)	مجسم استقطابية اهليلجي
+polarization	استقطاب
+polarization charge	شحنة الاستقطاب
+polarization curve	منحنى الاستقطاب
+polarization ellipse	اهليلج الاستقطاب
+polarization of fluorescence	استقطاب التألق
+polarization of light	استقطاب الضوء
+polarization of reflection; polarization by reflection	استقطاب الانعكاس
+polarization potential	جهد الاستقطاب
+polarization unit vector	وحدة متجه الاستقطاب
+polarized light	ضوء مستقطب
+polarizer	مستقطب / مقطِّب
+polarizing angle	زاوية الاستقطاب
+polarizing angle; Brewster angle	زاوية الاستقطاب
+polarizing microscope	مجهر استقطابي
+polarogram	مخطط الاستقطاب
+polarography	رسم الاستقطاب
+polaroid	بولارويد
+polaron	بولارون
+pole	قطب
+pole of wave	قطب الموجة
+pole strength	شدة القطب
+poles of a magnet	قطبا مغنطيس
+polish	مادة صَقل
+polished	مصقول
+polonium	بولونيوم
+polyatomic	متعدد الذرات
+polyatomic ion	أيون عديد الذرات
+polychromatic radiation	إشعاع متعدد الألوان
+polychromatic; polychromic	متعدد الألوان
+polychromic radiation	إشعاع متعدد الألوان
+polycrystal	متعدد البلورات
+polycrystalline	متعدد التبلور
+polydisperse colloidal system	منظومة غروانية متعددة التبدُّد
+polydisperse system	نظام متعدد التفرق
+polygon	مضلع / مضلَّع
+polygon of forces	مضلع القوى
+polygon of vectors	مضلَّع المتَّجِهات
+polygonization	تضليع
+polyhedron	متعدد الوجوه / متعدِّد الوجوه
+polymers	متماثرات؛ بوليميرات
+polymorph	متعدد الأشكال
+polymorphism	تعددية الأشكال / تعدد الأشكال
+polynomial	حدودية (كثيرة الحدود)
+polyphase equilibrium	توازن متعدد الأطوار
+polyprism	متعدد المواشير
+polytropic process	تحوُّل متعدد الاتجاهات
+pool	حوض (ن)
+pool reactor	مفاعل حوضي (ن)
+population inversion	انعكاس إسكاني
+porcelain	خزف
+pores	مسامّ
+porosity	مساميّة / مسامّية
+porous	مساميّ
+position vector	متَّجه الموضع
+positive	موجب
+positive column	عمود موجب
+positive crystal	بلّورة موجبة / بلورة موجبة
+positive electron	إلكترون موجب
+positive eyepiece	عينية موجبة
+positive feedback	تغذية راجعة موجبة
+positive ion	أيون موجب
+positive lens; converging lens	عدسة موجبة
+positive logic	منطق إيجابي
+positive magneto-striction	تقبض مغنطيسي موجب
+positive pole	قطب موجب
+positive potential	جهد موجب
+positive rays	أشعة موجبة / أشعة موجبة؛ أشعة قَنَوية
+positive valence	تكافؤ موجب
+positron	ضديد الالكترون (ن) ، بوزيترون / بوزترون
+positron decay	اضمحلال بوزيتروني (ن) / اضمحلال بوزتروني
+positronium	ذرة بوزيترونية / ذرة بوزترونية؛ بوزترونيوم
+possible error	خطأ ممكن
+possible state	حالة ممكنة
+post-burst protection	وقاية بعد الانفجار (ن)
+postulate	موضوعة؛ مُسَلَّمة
+potassium	بوتاسيوم
+potential	جهد / كُمون؛ جُهد
+potential barrier	حاجز جُهد؛ حاجز كُمون
+potential barrier or hill	حاجز جهد
+potential box	صندوق الجهد (ن) / صندوق جُهد؛ صندوق كُمون
+potential diagram	مخطط الجهد
+potential difference	فرق الجهد / فرق الجهد؛ فرق الكمون
+potential divider	مجزئ الجهد / مجزِّئ كُمون؛ مجزِّئ جهد
+potential drop	هبوط الجهد / هبوط كمون؛ هبوط جهد
+potential energy	طاقة كامنة، طاقة وضع / طاقة كامنة
+potential flow	جريان الجهد
+potential function	دالة جهد؛ دالة كُمون
+potential hill	حاجز كمون
+potential scattering	استطارة جهدية (ن) / تبعثر كموني
+potential step	درجة كمونية
+potential wall	جدار كموني
+potential well	بئر جهد؛ بئر كمون
+potentiometer	مِجهاد / مقياس جهد
+powder method of analysis	طريقة المسحوق التحليلية
+powder pattern	نمط مسحوق
+power	قدرة
+power amplifier	مضخم قدرة
+power coefficient	معامل القدرة
+power coefficient of reactivity	معامل القدرة للمفاعلية (ن)
+power control rod	قضيب تحكم في القدرة / قضيب التحكم في القدرة
+power density	كثافة القدرة (ن) / كثافة القدرة
+power factor	عامل القدرة
+power gain	كسب القدرة
+power of absorbed dose	قدرة الجرعة الممتصة
+power of lens	قدرة العدسة / تقريب العدسة
+power peaking factor	عامل ذروة القدرة (ن)
+power range	مدى القدرة (ن)
+power range monitor	مرقاب مدى القدرة (ن)
+power reactor	مفاعل قدرة (ن) / مفاعل توليد الطاقة الكهربائية
+power stretch	زيادة القدرة (ن)
+power supply	منبع تغذية كهربائية
+power transfer	نقل الطاقة
+power valve; power tube	صمام قدرة
+Poynting's vector	متَّجه بوينتينغ
+practical entropy; virtual entropy	اعتلاج افتراضي
+praseodymium	براسيوديميوم
+pre-stressed concrete	وعاء ضغط من الاسمنت المسلح (ن)
+precess (to..)	يبادر
+precession	مبادرة / مبادَرة
+precipitation hardening	تصليد بالتقادم
+precipitation hardening; age hardening	تقسية ترسيبية
+precision	دِقّة
+precriticality	قبيل الحرج (ن)
+precursor of nuclide	نية سابقة (ن)
+predissociation	تحلل مبكّر / تحلل سابق
+preferential recombination	اعادة تركيب تفضيلي
+prepressured fuel	وقود مضغوط (ن)
+presbyopia	القَدَع؛ مد البصـر
+press	ضاغط / مكبس
+press (to...)	يضغط
+pressure	ضغط
+pressure coefficient	معامل الضغط
+pressure coefficient of reactivity	معامل ضغط المفاعلية (ن)
+pressure gauge	مقياس الضغط
+pressure head	عُلوُّ الضغط
+pressure multiplier	مضاعف الضغط
+pressure of fluid	ضغط المائع
+pressure of liquids	ضغط السوائل
+pressure suppression	كبت الضغط (ن)
+pressure wave	موجة الضغط
+pressure-suppression system	نظام كبت الضغط (ن)
+pressurized fluid reactor	مفاعل المائع المضغوط (ن)
+pressurized water reactor	مفاعل الماء المضغوط (ن)
+primary	أولي، ابتدائي
+primary cell	خلية أولية
+primary coil	ملف ابتدائي / ملف أولي
+primary colors (additives)	ألوان أولية (تجميعية)
+primary colors; primary colours	ألوان أولية
+primary colours	ألوان أولية
+primary conditions	شـروط أولية
+primary coolant	مبرد (ال...) الأولي (ن)
+primary coolant circuit	دارة المبرد الأولية (ن) / دارة تبريد أولية
+primary cosmic rays	أشعة كونية أولية
+primary current	تيار ابتدائي
+primary electron	إلكترون أولي
+primary extinction	انطفاء أولي
+primary fission yield	مردود الانشطار الأولي (ن)
+primary ion pair	زوج أيون ابتدائي
+primary ionization	تأين أولي (ن)
+primary radiation	إشعاع أولي
+primary rainbow	قوس قزح ابتدائية
+primary rays; principal rays	أشعة أولية
+primary spectrum	طيف أولي
+primary winding	ملف أولي
+primitive cell	خلية أولية
+principal	أساس
+principal axes of inertia	محاور العطالة الرئيسية
+principal axis	محور رئيس / محور أصلي
+principal axis of a lens	محور عدسة رئيس
+principal foci	بؤرتان أساسيتان
+principal focus	بؤرة رئيسية / بؤرة أصلية؛ محرق أصلي
+principal lateral aberration	زيغ عَرْضـي أصلي
+principal longitudinal aberration	زيغ طولي أصلي
+principal moment of inertia	عزوم العطالة الرئيسية
+principal of least action	مبدأ الفعل الأقل
+principal plane	مستو رئيس / مستوٍ أصلي
+principal plane of crystal	مستوى البلّورة الأساسي
+principal point	نقطة أصلية
+principal quantum number	عدد كمي رئيس (ن)
+principal quantum number (n)	العدد الكمومي الرئيسـي n
+principal section	مقطع رئيس / مقطع أصلي
+principal series	متسلسلة رئيسية
+principle	مبدأ
+principle of additivity	مبدأ التجمع، مبدأ الاضافة
+principle of complementarity	مبدأ التكاملية
+principle of continuity	مبدأ الاستمرار
+principle of continuity; continuity equation	مبدأ الاستمرارية
+principle of equivalence	مبدأ التكافؤ
+principle of inertia	مبدأ العطالة
+principle of least action	مبدأ الفعل الأصغري
+principle of least time	مبدأ الزمن الأقل / مبدأ الزمن الأصغر
+principle of mobile equilibrium	مبدأ التوازن الحركي
+principle of optical superposition	مبدأ التراكب الضوئي / مبدأ الانضمام في الضوء
+principle of relativity	مبدأ النسبية
+principle of reversibility	مبدأ الانعكاسية / مبدأ رجوع الضوء
+principle of separate equilibrium	مبدأ التوازن المنفصل
+principle of superposition	مبدأ التراكب (ن) / مبدأ الانضمام؛ مبدأ التراكب
+principle of virtual work	مبدأ شغل افتراضي / مبدأ العمل الافتراضي
+principles of quantum mechanics	مبادئ الميكانيك الكمومي
+prism	موشور، منشور / موشور؛ منشور
+prism dispersion	تفرق موشوري
+prism of constant deviation	موشور انحراف ثابت
+prism spectrometer	مقياس الطيف الموشوري
+prism spectrum	طيف الموشور
+prismatic spectrum	طيف الموشور، طيف المنشور
+prismatic telescope	مِقراب موشوري
+privileged direction	اتجاه مفضَّل
+privileged directions	اتجاهات مفضلة
+probability	احتمال
+probability amplitude	سعة الاحتمال
+probability current	تيار الاحتمالية (ن)
+probability current density	كثافة تيار الاحتمال
+probability density	كثافة الاحتمال
+probability distribution	توزع احتمالي
+probability factor	عامل الاحتمال
+probable error	خطأ محتمل / خطأ مُحتَمَل
+probe	مسبار
+process	عملية / عملية؛ تحوُّل
+process of pair creation	عملية إنتاج الأزواج
+processor	معالِج
+product	جداء / ناتج؛ جداء
+product (fission…)	نواتج الانشطار
+production	انتاج (ن)
+production of x - rays	انتاج الأشعة السينية
+production reactor	مفاعل انتاج (ن)
+profile	منظر جانبي؛ جانبية
+progression	متوالية
+progressions	متواليات
+progressive undulations	تموجات متتالية
+progressive wave	موجة متقدمة
+projectile	قذيفة
+projectile motion	حركة القذائف
+projection	مَسْقَط؛ إسقاط
+projection lantern	فانوس (ال...) السحري / فانوس الإسقاط
+projection operator	مؤثر الاسقاط
+projector	جهاز الإسقاط
+prolate	متطاول (للمجسمات)
+promethium	برومثيوم
+prompt criticality	حرج فوري (ن)
+prompt fission neutrons	نترونات انشطارية فوريّة
+prompt gamma radiation	اشعاع كاما الفَوْري (ن)
+prompt neutron	نترون فوري (ن) / نترون فوري
+prompt neutrons	نترونات فورية (ن)
+prompt radiation	اشعاع فوري (ن)
+prongs of a tuning fork	فرعا الشوكة الرنانة
+proof-plane	مستوى الاختبار، مُخبِرة
+propagation	انتشار
+propagation constant	ثابتة الانتشار
+propagation of light	انتشار الضوء
+propagation of sound	انتشار الصوت
+propagation ratio	نسبة الانتشار
+proper function	دالة ذاتية
+proper value	قيمة ذاتية
+properties of matter	خواص المادة
+properties of wave	خواص الموجة
+property	خاصية
+proportion	تناسب
+proportionable	تناسبي
+proportional	متناسب
+proportional counter	عداد تناسبي
+proportional limit	حدّ متناسب
+proportional region	منطقة التناسب (ن) / منطقة التناسب
+protactinium	بروتكتينيوم
+protection	وقاية
+protection survey	مسح وقائي
+protium	بروتيوم
+proton	بروتون (ن) / بروتون
+proton number	عدد البروتونات (ن)
+proton recoil spectrometer	مطياف بالبروتونات المرتدة (ن)
+proton synchrotron	سنكروترون بروتوني
+proton-proton cycle	الدورة بروتون-بروتون
+proton-synchrotron	سنكروترون بروتوني
+prototype	نموذج أولي
+prototype reactor	نموذج (ال...) الأصلي للمفاعل (ن)
+proximity effect	تأثير المجاورة
+pseudo force	قوة زائفة
+pseudo potential	الكمون الزائف
+pseudo vector	متَّجه زائف
+pseudo-crystallites	أشباه البلورات
+pseudo-monotropy	شبه أحادية الشكل
+psychrometer	مقياس الرطوبة ذو المحرارين
+pulley	بكرة
+pulley-wheel	عجلة البكرة
+pulsar	نبَّاض
+pulse	نبضة / نَبضَة
+pulse amplifier	مضخّم نبضة / مضخم النَّبَضَات
+pulse amplitude discriminator	مميز اتساع النبضات (ن)
+pulse counting rate	معدل عدّ النَّبَضَات
+pulse generator	مولد نبضات
+pulse height discriminator	مميز النَبَضَات بسعاتها
+pulse ionization chamber	غرفة التأين النبضية (ن)
+pulse shape discriminator	مميز شكل النبضة (ن)
+pulsed column	عمود منبض (ن)
+pulverizer	مسحقة / مِسْحَقَة
+pump	مضخة / مِضَخَّة
+pump control	تحكم مضخي (ن)
+pupil of the eye	بؤبؤ العين
+pure spectrum	طيف صافٍ
+pure tone; pure note	نغمة صافية
+purify (to)	يصفي
+purity	صفاء / نقاء؛ صفاء
+purity of colour	صفاء اللون
+Purkinje effect	مفعول بوركنج
+push-pull amplifier	مضخم دفع جذب
+pycnometer	مكثاف / دورق الكثافة
+pyranometer	مقياس الإشعاع السماوي
+pyrochemical processing	معالجة كيميائية حرارية (ن)
+pyroelectric crystal	بلورة كهرنارية
+pyroelectricity	كهرباء نارية
+pyroheliometer	مضرام / مقياس الإشعاع الشمسـي الكلي
+pyrometallurgical processing	معالجة تعدينية حرارية (ن)
+pyrometer	محرار / مقياس درجات الحرارة العالية، بيرومتر
+pyrometry	قياس التضرم
+pyron	بيرون
+Pyrone detector	مكشاف بيروني
+Pythagorean theorem	نظرية فيثاغورس

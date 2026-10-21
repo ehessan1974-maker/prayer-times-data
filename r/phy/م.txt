@@ -1,0 +1,2597 @@
+مؤثر	operator
+مؤثِّر (ن)	Laplacian operator
+مؤثر الإحداث	creation operator
+مؤثر الاسقاط	projection operator
+مؤثِّر الاندفاع	momentum operator
+مؤثر الانعكاس (ن)	reflection operator
+مؤثر التبادل	exchange operator
+مؤثر التبادل (ن)	exchange operator
+مؤثر التبديل	permutation operator
+مؤثر التطور	evolution operator
+مؤثر التماثل (ن)	parity operator
+مؤثّر الخطي (ن)	linear hermitian operator
+مؤثر الطاقة	energy operator
+مؤثر الفناء	annihilation operator
+مؤثر الكتلة	mass operator
+مؤثر المجال	field operator
+مؤثر خطي	linear operator
+مؤثر خطي (ن)	linear operator
+مؤثر ذاتي التوافق	self adjoint operator
+مؤثِّر قَرين	adjoint operator
+مؤثر لابلاس	Laplace operator
+مؤثر لوني	auxochrome
+مؤثر متري	metric operator
+مؤثر مرافق	adjoint operator
+مؤثر ناظمي	normal operator
+مؤثر هرميتي	hermetian operator / hermitian operator
+مؤثر هملتوني	hamiltonian operator
+مؤثر واحدي	unitary operator
+مؤثرات تبديلية	commuting operators
+مؤثرات متآلفة	compatible operators
+مؤشر	indicator
+مؤشر الميزان	pointer of balance
+ماء (ال...) الثقيل (ن)	heavy water
+ماء ثقيل	heavy water
+ماء مقطَّر	distilled water
+مائع	fluid
+مائع لا اتجاهي الخواص	isotropic fluid
+مائع لا انضغاطي	incompressible fluid
+مائع لزج	viscous fluid
+مائع ماكسويلي	maxwellian fluid
+مائع متجانس	homogeneous fluid
+مائع متجانِسُ الضغط	barotropic fluid
+مائع مثالي	perfect fluid
+مائع مثالي؛ مائع كامل	ideal fluid
+مائع مرن	elastic fluid
+مائع مَكسويلي	Maxwellian fluid
+مائع نيوتوني	Newtonian fluid
+مائي	aqueous
+مأخذ؛ مَقْبِس	jack / outlet
+مادة	matter
+مادة (ن)	substance
+مادة اشعاعية (ن)	radioactive material
+مادة انتشارية	diffusive substance
+مادة انشطارية (ن)	fissile material
+مادة تبريد	refrigerant
+مادة خارقة	metamaterial
+مادة خام	raw material
+مادة خصبة	fertile material
+مادة خصبة (ن)	fertile material
+مادة خفيَّة	hidden matter
+مادة ذات مغنطيسية مسايرة	paramagnetic material
+مادة ذات مغنطيسية معاكسة	diamagnetic substance
+مادة شَطُورة	fissionable material
+مادة صَقل	polish
+مادة فعالة ضوئيا	optically active substance
+مادة قبلة للانشطار (ن)	fissionable material
+مادة ماصة	absorbent material
+مادة مبرِّدة	coolant
+مادة متألقة بالفسفرة	phosphor
+مادة مخصَبة (ن)	enriched material
+مادة مركَّبة	composite
+مادة مستنفََدَة (ن)	depleted material
+مادة مشعة	radioactive material / radioactive substance
+مادة مضادة	antimatter
+مادة مكثَّفة	condensed matter
+مادة نارية؛ مادة مقاومة للانصهار	refractory material
+مادة نووية (ن)	nuclear material
+مادة نووية خاصة (ن)	special nuclear material
+مازّ	adsorbent
+مازج	mixer
+مازج مروِّق (ن)	mixer-settler
+مازوريوم	masurium
+ماسح	scanner
+ماسح الوميض	scintiscanner
+ماسك	pinch-cock
+ماسك (ال...)	coherer
+ماصُّ	absorbent / absorber
+ماص الحرارة	endothermic
+ماص الطاقة (ن)	endoenergic
+ماص النترونات	neutron absorber
+ماص صدم هوائي	pneumatic shock-absorber
+ماص نترونات (ن)	neutrons absorber
+مافوق الكادميوم (ن)	epicadmium
+ماكنات التجميد	freezing machines
+ماكنات مترابطة	coupled machines
+ماكنة أتود	Atwood's machine
+ماكنة شحن الوقود (ن)	fuel charging machine
+ماكنة فارادي ذات القرص	Faraday disc machine
+ماكنة، آلة	machine
+مانح (ال...)	donor
+مانح الحرارة	exothermic; exoergic
+مانعة الصواعق	lighting conductor; lighting protector
+مبادئ الميكانيك الكمومي	principles of quantum mechanics
+مبادرة	precession
+مبادرة لارمور	Larmor precession
+مبادل حراري	heat exchanger
+مباشر، مستمر	direct
+مبدأ	Archimedes principle / Doppler-Fizeau principle / Fermat principle / Franck-Condon principle / Pascal principle / principle
+مبدأ أرخميدس	Archimede’s principle
+مبدأ الاتحاد	combination principle
+مبدأ الارتياب	indeterminacy principle / uncertainty principle
+مبدأ الارتياب لهايزنبرغ	Heisenberg uncertainty principle
+مبدأ الاستبعاد	Pauli exclusion principle / exclusion principle
+مبدأ الاستمرار	principle of continuity
+مبدأ الاستمرارية	principle of continuity; continuity equation
+مبدأ الانضمام	superposition principle
+مبدأ الانضمام في الضوء	principle of optical superposition
+مبدأ الانضمام؛ مبدأ التراكب	principle of superposition
+مبدأ الانعكاسية	principle of reversibility
+مبدأ التتّام	complementarity principle
+مبدأ التَّتام، التَّتامية	complementarity principle
+مبدأ التجمع، مبدأ الاضافة	principle of additivity
+مبدأ التراكب	superimposition principle; superposition principle
+مبدأ التراكب (ن)	principle of superposition
+مبدأ التراكب الضوئي	principle of optical superposition
+مبدأ التركيب	combination principle
+مبدأ التغيير	variational principle
+مبدأ التقابل	correspondence principle
+مبدأ التكافؤ	equivalence principle / principle of equivalence
+مبدأ التكاملية	principle of complementarity
+مبدأ التوازن الحركي	principle of mobile equilibrium
+مبدأ التوازن المنفصل	principle of separate equilibrium
+مبدأ التوافق (ن)	correspondence principle
+مبدأ الزمن الأصغر	principle of least time
+مبدأ الزمن الأقل	principle of least time
+مبدأ الطاقة الأقل	least energy principle
+مبدأ الطاقة الصغرى	least energy principle
+مبدأ العطالة	principle of inertia
+مبدأ العمل الافتراضي	principle of virtual work
+مبدأ الفعل الأصغر	least action principle
+مبدأ الفعل الأصغري	principle of least action
+مبدأ الفعل الأقل	principal of least action
+مبدأ اللاتحديد	indeterminancy principle; uncertainty principle
+مبدأ المَثْنَوِيَّة	duality principle
+مبدأ النسبية	principle of relativity / relativity principle
+مبدأ باسكال	Pascal’s principle (law)
+مبدأ باولي	Pauli principle
+مبدأ باولي في الاستبعاد	Pauli exclusion principle
+مبدأ تساوي توزع الطاقة	equipartition principle
+مبدأ تغيري	variational principle
+مبدأ دالامبير	D' Alembert' s principle
+مبدأ رجوع الضوء	principle of reversibility / reversibility principle
+مبدأ ريدبرغ – ريتز التوفيقي	Rydberg-Ritz combination principle
+مبدأ شغل افتراضي	principle of virtual work
+مبدأ عدم التحديد	uncertainty principle; indeterminancy principle
+مبدأ غاوص في القيد الأصغري	Gauss principle of least constraint
+مبدأ فرانك-كوندون	Franck-Condon principle
+مبدأ فرما	Fermat principle
+مبدأ هويغنز	Huygens principle
+مبدال؛ مبادل	commutator
+مبدِّل	commutator / switch
+مبرِّد	chiller / coolant
+مبرد (ال...) الأولي (ن)	primary coolant
+مبرقة	telegraph
+مبرقة كهربائية	electric telegraph
+مُبرْهَنَة	Bloch theorem / Furry theorem / Lagrange theorem / carnot theorem / theorem
+مبرهنة التبادل	reciprocal theorem
+مبرهنة التبادل الصوتي	acoustical reciprocity theorem
+مبرهَنة الترابط	virial theorem
+مبرهنة التعويض	compensation theorem
+مبرهنة التكافؤ	equivalence theorem
+مبرهنة المحاور المتعامدة	perpendicular axis theorem
+مبرهنة المحور الموازي	parallel-axis theorem
+مبرهنة برنولي	Bernoulli's theorem
+مبرهنة بلوخ	Bloch theorem
+مبرهنة تيفينين	Thévinin theorem
+مبرهنة شتاينر	Steiner's theorem
+مبرهنة فورييه	Fourier theorem
+مبرهنة نورتن	Norton's theorem
+مبرهنة هويغنز	Huygens’s theorem
+مبصار	optometer / sight meter
+مبين المؤالفة	tuning indicator
+متأثرية	susceptibility
+متأثرية كهربائية	electric susceptibility
+متأثرية مغنطيسية	magnetic susceptibility
+متآصل	allotrope
+متآصلي	allotropic
+متآصلية	allotropism; allotropy
+متألق	fluorescent
+متانة؛ قساوة	toughness
+متانة؛ مقاومة	strength
+متاهة	labyrinth
+متاهة صوتية	labyrinth enclosure; acoustic labyrinth
+متآون	simultaneous
+متباعد (ن)	divergent
+مُتباين الكتل (ن)	allobar
+متتالية؛ تتابع	sequence
+متتبع الباعث	emitter follower
+متتبع الشمس	heliostat
+متتبِّع الكاتود؛ متتبِّع المَهبِط	cathode follower
+متجانس	homogeneous
+متّجه الإعتلاج، متجه الانتروبي	entropy vector
+متجه الانزياح	displacement vector
+متّجه التسارع	acceleration vector
+متجه الحالة	state vector
+متجه الحركة الدردورية	vorticity vector
+متَّجه الحركة الدوّامية	vorticity vector
+متَّجه السـرعة	velocity / velocity vector
+متَّجه القوة	force vector
+متجه المغنطة	magnetization vector
+متَّجه الموضع	position vector
+متَّجه الواحدة	unit vector
+متَّجه برغرز	Burgers vector
+متَّجه بوينتينغ	Poynting's vector
+متَّجه ثابت	constant vector
+متَّجه ذاتي	eigenvector
+متّجه رباعي شبه فضائي	spacelike four vector
+متَّجه زائف	pseudo vector
+متَّجه قطري	radial vector
+متَّجه لورنتز الرباعي	Laurentz four-vector
+متجه مِحْوري	axial vector
+متجِه مميِّز (ن)	eigenvector
+متَّجه موجي	wave vector
+متَّجه؛ متَّجهة	vector
+متجهات الأساس	basis vectors
+متجهات متعامدة ومستنظمة	orthonormal vectors
+متجهان متعاكسان	antiparallel vectors
+مُتَّحِدُ الحجم	covolume
+مُتَّحد المحور، متمحور	coaxial
+متحكِّم الكسب	gain control
+متحكِّم آلي	automatic controller
+متحكِم ذاتي	automatic controller
+متحول متقطِّع	discrete variable
+متخلخل	rarefied
+متذبذب	oscillator
+متذبذب المفاعل (ن)	reactor oscillator
+متذبذب توافقي	harmonic oscillator
+متذبذب توافقي خطي (ن)	linear harmonic oscillator
+متذبذب خطي	linear oscillator
+متذبذب خطي مخمدّ	damped linear oscillator
+متذبذب لاتوافقّي	anharmonic oscillator
+متذبذب متعدد	multivibrator
+متذبذب ميكانيكي	mechanical oscillator
+متذبذبات مزدوجة (ن)	coupled oscillators
+متر معياري	standard meter
+متزامن	synchronous
+متزامن (ن)	synchronous
+متسام	sublimate
+متسامٍ؛ متصعِّد	sublimate
+متساوي الاحتمال	equiprobable
+متساوي الجرعات (ن)	isodose
+متساوي الحرارة	isothermal
+متساوي الزمن	isochronous
+متساوي المغنطيسية	isomagnetic
+متساوي النترونات (ن)	isotones
+متساوي النويّات (ن)	isobar
+متساويات الألوان	isochromatic
+متساويات الانحراف	isogonals; isogonics
+متساويات الميل	isoclinic; isoclinal; isocline
+متساويات زوايا الانحراف المغنطيسي	isogonals
+متساوية النترونات	isotone
+متسلسلات مشعة	radioactive series
+مُتسلسِلَة	Balmer series / Bracket series / series
+متسلسلة (ال...) الأساسية (ن)	fundamental series
+متسلسلة أساسية	fundamental series
+متسلسلة الاكتينيد (ن)	actinide series
+متسلسلة باشن	Paschen series
+متسلسلة بفوند	Pfund series
+متسلسلة تايلور	Taylor's series
+متسلسلة حادّة	sharp series
+متسلسلة حدَّانية	binomial series
+متسلسلة خطوط طيفية	series of lines
+متسلسلة رئيسية	principal series
+متسلسلة طيفية	spectral series
+متسلسلة فوريية	Fourier series
+متسلسلة كهرحرارية	thermoelectric series
+متسلسلة كهركيميائية	electrochemical series; electromotive force series
+متسلسلة ماكلوران	Mac-Laurin series
+متسلسلة هندسية	geometric series
+متشابه	like
+متشاكل	isomorph / isomorphous
+متشاكل الجزئيات	isosteres
+متشاكل معاكس، متطابق مرآويًا	enantiomorph
+متشاكلة	isomorph
+متصل (ن)	continuous
+متصوّر	Maxwell demon
+متطابقة	identity
+متطاول (للمجسمات)	prolate
+متطاير	volatile
+متعدد الأشكال	polymorph
+متعدد الأقطاب	multipole
+متعدد الألوان	polychromatic; polychromic
+متعدد الاهتزازات	multivibrator
+متعدد البلورات	polycrystal
+متعدد التبلور	polycrystalline
+متعدد الذرات	polyatomic
+متعدد المواشير	polyprism
+متعدد الوجوه	polyhedron
+متغاير	covariant / heterogeneous
+متغايرات الشكل	allotropes
+متغير (ال...) الزاوي	angular variable
+متغيّر تابع	dependant variable
+متغير محلي	local variable
+متغير مرافق	adjoint variable
+متغيّر مستقل	independant variable / independent variable
+متغيرات قانونية	canonical variables
+متفارقات	isodiapheres
+متقطّع	intermittent
+متقطع (ن)	discrete
+متلوِن	allochromatic
+متماثرات؛ بوليميرات	polymers
+متممة زاوية الورود	glancing angle
+متناحي	isotropic
+متناسب	proportional
+متناوب	alternating
+متوازي أضلاع القوى	parallelogram of forces
+متوازي الأضلاع	parallelogram
+متوازي الأضلاع المجسَّم	parallelepiped
+متوازي المستطيلات	rectangular solid
+متوازي المستطيلات القائم	rectangular parallelepiped
+متوافقات كروية (ن)	spherical harmonics
+متواليات	progressions
+متوالية	progression
+متوسط	average
+متوسط الزمن	time average
+متوسط الزمن الحر	mean free time
+متوسط السرعة الجزيئية	mean molecular velocity
+متوسط العمر (ن)	average life
+متوسط المسار الحر الانتقالي	transport mean free path
+متوسط المسار الحر للتأين	ionization mean free path
+متوسط المسار الحر للنقل (ن)	transport mean free path
+متوسط النقصان اللوغاريتمي للطاقة (ن)	average logarithmic energy decrement
+متوسط مربع الانحراف	mean-square deviation
+متوسط مربع الساعة	mean square velocity
+متوسط مربع السـرعة	mean square velocity
+مثانة	bladder
+مثبِّت	stabiliser
+مثبِّت الحرارة	thermostat
+مثبت الحرارة القرِّية	cryostat
+مثبت حراري	thermostat
+مثبتات البِلَّورة	crystal parameters
+مثبِّط	inhibitor
+مِثعَب	siphon
+مثعب حراري	thermal siphon
+مثفِّلة	centrifuge
+مُثفِّلة فائقة	ultra centrifuge
+مثلث	triangle
+مثلّث القوى	triangle of forces
+مثلث باسكال	Pascal's triangle
+مثلثات	trigonometry
+مثلثي	trigonal
+مثلثية	trigonometrical
+مثلَّج	iced / refrigerant
+مَثْنَوي؛ متثاني	dimer
+مَثْنَوِيَّة	duality
+مَثْنَوِيَّة الموجة والجُسيم	duality of wave- particle
+مجال (ال...) الأرضي	earth's field
+مجال (ال...) المغنطيسي للتيار	magnetic field of current
+مجال ازالة الاستقطاب	depolarization field
+مجال الجاذبية	gravitational field
+مجال الحثّ	induction field
+مجال الرؤية	field of view
+مجال الصوت	sound field
+مجال العين	eye field
+مجال بلّوري	crystal field
+مجال حر	free field
+مجال حَرِج	critical field
+مجال سمعي	auditory perspective
+مجال شبه ساكن	quasistationary filed
+مجال فاصل	interval
+مجال قريب	near field
+مجال قوة	field of force
+مجال قوة التكافؤ	valence force field
+مجال قوة محافظة	conservative force field
+مجال كهربائي	electric field
+مجال كهرساكن	electrostatic field
+مجال كهرمغنطيسي	electromagnetic field
+مجال مرآة مستوية	field of plane mirror
+مجال مزيل للتمغنط	demagnetizing field
+مجال مساعد	field auxiliary
+مجال مسلط	impressed field
+مجال معكوس	reflected field
+مجال مغنطيسي	magnetic field
+مجال مغنطيسي ساكن	magnetostatic field
+مجالات تباطؤية	retarded fields
+مجالات تركيز دورية	periodic focusing fields
+مجالات خارجة	outgoing fields
+مجانس (ن)	isomer
+مجانس نووي (ن)	nuclear isomer
+مجانسة	isomerism
+مجانسة بصرية	optical isomerism
+مجانسة نووية (ن)	nuclear isomerism
+مجانسي (ن)	isomeric; isomerous
+مُجاوِب تجويفي	cavity resonator
+مجاوبات هلمهولتز	Helmholtz resonators
+مجرتنا	Galaxy
+مَجرَّة	galaxy
+مجزئ الجهد	potential divider
+مجزِّئ فُلطية	voltage divider
+مجزِّئ كُمون؛ مجزِّئ جهد	potential divider
+مجزّزة	ruling-engine
+مِجْسَام	stereoscope
+مجسم استقطابية اهليلجي	polarizability (ellipsoid...)
+مجسم الدوران	solid of revolution
+مجسم القرائن الإهليليجي	ellipsoid of indicies
+مجسم القطع الناقص، مجسم إهليلجي	ellipsoid
+مجسم اهليلجي دليلي	index ellipsoid
+مجسم فرينل الإهليلجي	Fresnel ellipsoid
+مجفف البخار (ن)	steam dryer
+مجمّع	collector / collimator
+مجمع (ال...) دون الحرج (ن)	subcritical assembly
+مجمَّع أسِّيّ (ن)	exponential assembly
+مجمَّع الأمان (ن)	safety assembly
+مجمع التخدير من الاشعاع (ن)	radiation warning assembly
+مجمّع المطياف	collimator of spectrometer
+مجمع بؤري	focal collimator
+مجمَّع حرِج (ن)	critical assembly
+مجمّع ذاتي	auto collimator / autocollimator
+مجمع مولِّد (ن)	breeder assembly
+مجمع وقود (ن)	fuel assembly
+مجمِّع، مسدِّد	collimator
+مجموع منطقي	logical sum
+مجموعات عدسية	lens combinations
+مجموعة	set
+مجموعة أمواج	Gaussian wave group
+مجموعة جُمَل	ensemble
+مجموعة خالية	empty set
+مجموعة قضبان التحكم (ن)	cluster control rods
+مجموعة مغلقة	closed set
+مجموعة وقود (ن)	fuel bundle; fuel cluster
+مِجهاد	potentiometer
+مِجهار	megaphone / speaking trumpet
+مجهار عالي التردُّد	tweeter
+مجهر	microscope
+مجهر استقطابي	polarizing microscope
+مجهر الأشعة السينية	X-ray microscope
+مجهر الصوت	loud speaker
+مجهر القوة الذرية	atomic force microscope
+مجهر القوة المغنطيسية	magnetic force microscope
+مجهر الكتروني	electron microscope / electronic microscope
+مجهر إلكتروني غمري	immersion electron microscope
+مجهر إلكتروني ماسح	scanning electron microscope
+مجهر أيون المجال	field ion microscope
+مجهر بسيط	simple microscope
+مجهر تباين الطور	phase-contrast microscope
+مجهر ثنائي العينية	binocular microscope
+مجهر ضوئي	optical microscope
+مِجْهَر مُرَكَّب	compound microscope
+مجهر منزلق	travelling microscope
+مجهر، صوت	megaphone
+مجهري (ن)	microscopic
+مجهود	effort
+مُحَاثّة	inductance
+محاسبة المواد (ن)	material accountancy
+محاسبة موازنة المواد (ن)	material balance accountancy
+محاكي محطة قدرة نووية (ن)	nuclear power plant simulator
+محاكي مفاعل (ن)	reactor simular
+محاليل متساوية ضغط البخار	isopiestic solutions
+محاور البلورة	crystal axis
+محاور البِلَّوريات	crystallographic axes
+محاور العطالة الرئيسية	principal axes of inertia
+محاور متعامدة	orthogonal axes
+محايد، متعادل	neutral
+محتفَظ به	remanent
+محتفظية	remanence / retentivity
+محتفظية مغناطيسية	magnetic remanence
+محتوى (ال...) الحراري	enthalpy
+محتوى حراري	heat content
+مِحجَز غازات الانشطار (ن)	fission gas plenum
+محدّب	convex
+محدب الوجهين	double convex
+محدّب مستوٍ	plano-convex
+محدِّد	determinant
+محدِّد (ن)	limiter
+محدد الحزمة	stop beam
+مُحَدِّد الفتحة	aperture stop
+محدِّد سلاتر	Slater determinant / determinant of Slater
+محدد عدد ترتيبي	ordinal number
+محددة توازن	secular determinant
+محدودية النفوذ الضوئي	optical limiting
+محرار	pyrometer / thermometer
+مَحْرار الهواء	air-thermometer
+محرار بلاتيني المقاومة	platinum-resistance thermometer
+مِحْرار طبي	clinical thermometer
+محرار عياري	standard thermometer
+محرار غازي	gas thermometer
+محرار فهرنهايتي	Fahrenheit thermometer
+مِحْرار مئوي	centigrade thermometer scale
+محرار نهايتين	maximum and minimum angular thermometer
+محرارإشعاعي	radiation pyrometer
+محرارية (ال...)	thermometry
+محرِّض؛ محرضة	inductor
+محرّك	engine
+محرِّك أحادي القطب	unipolar motor
+محرك انفجاري	gasoline engine
+محرك بخاري	steam engine
+محرك بخاري؛ آلة بخارية	steam engine
+محرك بنزين	gasoline engine
+محرك تيار مستمر	D.C. motor / motar (dc)
+محرك حراري	heat engine
+محرك ديزل	diesel engine
+محرك رد فعل	reaction engine; reaction motor
+محرِّك عام	universal motor
+محرك كهربائي	electric motor
+محرك نفّاث	jet engine
+محرك هواء مضغوط	pneumatic engine
+محركات حرارية	heat engines
+محزّز (ن)	grating
+محزز الانعكاس المقعر	concave reflection grating
+محزز الحيد	diffraction grating
+محزِّز سليمّي	echelle grating
+محزّز عاكس	reflecting grating
+محزز مقعر	concave grating
+محزّز نفاذ	transmission grating
+محزِّزة	ruling-engine
+محزّزة مطابقة	replica grating
+مُحِس؛ مُشْعِر	sensor
+مِحْسَبة	abacus
+محصلة متّجهات	resultant vector
+محطة إذاعة	broadcasting station
+محطة الحمل الأساسي (ن)	base load station
+محطة قدرة نووية (ن)	nuclear power plant
+محطة كهرباء ذرية	atomic electric station
+محطة كهرباء نووية	nuclear power station
+محطة كهرحرارية (ن)	heat-electric station
+محظور (ن) ، ممنوع	forbidden
+مِحقنة	syringe
+محك	lap
+محكِّمة	reticle
+محلّ هندسي	locus
+محلات هندسية	loci
+محلِّل	analyser / analyzer
+مُحلِّل الاتساع (ن)	amplitude analyser
+محلل الزمن (ن)	time analyser
+محلِّل الصوت	sound analyzer
+محلِّل الضوء المُسْتقْطَب	analyser of polarized light
+محلل توافقي	harmonic analyzer
+محلّل كتلة دحروجيّ	trochoidal mass analyser
+محلِّل كتلي	mass analyser
+محلل متعدد القَنَوات	multichannel analyser
+محلل متعدد القنوات (ن)	multichannel analyser
+محلِّل موجي	wave analyzer
+محلل وحيد القناة (ن)	single-channel analyser
+محلول	solution
+محلول جامد	solid solution
+محلول جزيئي	molecular solution
+محلول جزيئي مولالي	molal solution / molar solution
+محلول دارئ	buffer solution
+محلول عادي	normal solution
+محلول عضوي	organosol
+محلول عياري	standard solution
+محلول غَروي	colloidal solution
+محلول فائق الاشباع	supersaturated solution
+محلول فوق المشبع	supersaturated solution
+محلول مترافق	conjugate solution
+محلول مثالي	ideal solution
+محلول محايِّد	salt bridge; buffer solution
+محلول مخفف	dilute solution
+محلول مشبَّع	saturated solution
+محلول مُمَدَّد	dilute solution
+محلول نظامي	normal solution
+محلول؛ حل لمعادلة	solution
+مِحْور	axe / axis
+محور أصلي	principal axis
+محور أفقي	horizontal axis
+محور الأبصار	visual axis; line of vision
+محور الانقلاب	inversion axis
+محور التعادل	neutral axis
+مِحْور التناظر	axis of symmetry
+محور الدوران	axis of revolution / axis of rotation / rotation axis
+محور الدوران الآني	instantaneous axis of rotation
+محور الدوران الثابت	fixed axis of rotation
+محور السينات؛ محور الفواصل	X-axis
+محور الصادات؛ محور الرواقم	Z-axis
+مِحْور العدسة	axis of lens
+محور العَطالة	axis of inertia
+محور العينات؛ محور التراتيب	Y-axis
+محور الفَتْل	axis of torsion / axis of twist
+مِحْور المِرآة	axis of mirror
+محور انعكاس دوراني	rotation-inversion axis; rotation reflection axis
+محور آني	instantaneous axis
+محور بصري	optical axis / visual axis
+محور بصـري؛ محور ضوئي	optic axis
+محور بلوري	cristalline axis
+محور تناظر	symmetry axis
+محور حقيقي	real axis
+محور رئيس	principal axis
+محور شاقولي	vertical axis
+محور عدسة رئيس	principal axis of a lens
+محور عصبي	axon
+محور قطبي	polar axis
+محور معتدل؛ محور محايد	neutral axis
+محور مغنطيسي	magnetic axis
+محور ملولبي	screw axis
+محور منطقة	zone axis
+محوّل	transformer
+محول التماثلي إلى رقمي	analog to digital converter
+محوّل التّيار	current transformer
+محوِّل الصورة	image converter
+محوّل ثانوي	secondary transformer
+محوّل جهد عال	high tension transformer
+محوِّل خافض	step-down transformer
+محوِّل خافض للتوتر	step-down transformer
+محول رافع	step-up transformer
+محوِّل رافع للتوتر	step-up transformer
+محوّل طاقة	transducer
+محول طاقة كهرحديدي	ferroelectric converter
+محوِّل طاقة؛ مِحوال	transducer
+محول نترونات (ن)	neutron converter
+محِّولةَ	transformer
+محوّلة ذاتية	autotransformer
+محِّولة مثالية	ideal transformer
+محيط	circumference
+مخاليط ذات نقطة غليان ثابثة	constant boiling mixtures
+مخبر حار	hot laboratory
+مختبر حار (ن)	hot laboratory
+مختزل	reduced
+مختلف الطور	out of phase
+مخرج الحُزمة (ن)	beam hole
+مخروط	cone
+مخروط الاحتكاك	cone of friction; friction cone / friction cone; cone of friction
+مخروط الجسم	body cone
+مخروط الضوء	cone of light
+مخروط الظّل	cone of umbra / shadow cone
+مخروط الظل التام	cone of total shadow
+مخروط الظل الجزئي	cone of partial shadow
+مخروط شبه الظل	cone of penumbra
+مخروط ماخ	Mach cone
+مخزون أولي (ن)	opening inventory
+مُخطَّط	Mollier diagram / diagram
+مخطط (ن)	Farmer diagram
+مخطط أرغند	Argand diagram
+مخطط الاستقطاب	polarogram
+مخطط الأطوار	phase diagram
+مخطط الانتشار	diffusion indicatrix
+مخطط التعاقب	flow diagram
+مخطط الجسم الحر	free-body diagram
+مخطط الجهد	potential diagram
+مخطط الدارة	circuit diagram
+مخطّط السمع	audiogram
+مخطط اللونية	chromaticity diagram
+مخطط المعادلة	abac
+مخطط انسيابي	flow chart
+مخطط بياني لوغارتمي	logarithmic-graph
+مخطط تكويني	constitution diagram
+مخطط ثبات الجرعة	isodose chart
+مخطط جزيئي	molecular diagram
+مخطط سمعي	audiogram
+مخطط سمعي حجبي	masking audiogram
+مخطط سميث	Smith chart
+مخطط شعاعي: للعين	skiagram
+مخطط طوري	phasor diagram
+مخطط طيف الأشعة السينية	X- ray spectrogram
+مخطط طيفي	spectrogram
+مخطط طيفي مجسم	stereospectrogram
+مخطط عمليات	flow chart; flow diagram
+مخطط فاينمان	Feynman diagram
+مخطط مؤشر	indicator diagram
+مخطط مجسّم	stereogram
+مخطط مستويات الطاقة	energy level diagram
+مخفّت	silencer
+مُخَفِضُ تردد الامتصاص	bathochrome
+مُخْلِيَة؛ مضخة إخلاء	vacuum pump
+مخمِّد الصدمات	shock absorber
+مُخمِّد الصوت	absorbing duct
+مُخْمِد صوت	absorbing duct
+مد (ال...)ّ والجزر	tide
+مد البصـر	hypermetropia / hyperopia
+مدّ وجَزْر	tide
+مداخيل	fan-in
+مدار	orbit
+مدار الإلكترون	orbit of the electron
+مدار الرابطة	bond orbit
+مدار إلكتروني	electron orbit
+مدار اللاتآصر	antibonding orbital
+مدار إهليلجي	elliptical orbit
+مدار بور	Bohr orbit
+مَدار ذري (ن)	atomic orbital
+مدار كوكبي	planetary orbit
+مدار لارمور	Larmor orbit
+مدار مستقر	stable orbit
+مدار، فلك	orbit
+مدارات التكافؤ	valence orbits
+مداري	orbital
+مداري جزيئي	molecular orbital
+مداري رابط	bonding orbital
+مداريّات جزيئية	molecular orbitals
+مدارية ؛ مداري	orbital
+مداواة بأشعة رونتجن	roentgen therapy
+مداواة بالإشعاع	radiation therapy / radiotherapy
+مداولة عن بعد؛ تشغيل عن بعد	remote manipulation
+مدخرة فور	Faure storage battery
+مدرأة، مِصَدّ	buffer
+مدروج أول؛ توافقية ثانية	first overtone / second harmonic
+مدروجات	overtones
+مدفع	gun
+مدفع الإلكترونات	electron gun
+مدفع الكترونات	electron gun / gun (electron…)
+مدفع أيوني	ion gun
+مدوِّر	rotator
+مدى (ال...) الأدنى للرؤية المميّزة	least distance of distinct vision
+مدى (ن)	range
+مدى أعظم	maximum range
+مدى التشغيل (ن)	operating range
+مدى الجسيم	range of particle
+مدى الرؤية	visibility
+مدى العداد (ن)	counter range
+مدى القدرة (ن)	power range
+مدى المسموعية	range of audibility
+مدى المصدر (ن)	source range
+مدى ثابت الزمن (ن)	time constant range
+مدى خطي	linear range
+مدى متوسط (ن)	mean range
+مدى؛ مجال	range
+مذاب	solute
+مذيب	solvent
+مذيب عادي	normal solvent
+مذيب قطبي	polar solvent
+مذيب لا مزوج	immiscible solvent
+مذيب لاقطبي	non polar solvent
+مذيب؛ مُحِلّ	solvent
+مراتب مفقودة	missing orders
+مرافق عُقَدِي	complex conjugate
+مَرافق نووية (ن)	nuclear facilities
+مرافق هرميتي	hermitian adjoint
+مراقبة الجودة (ن)	quality control
+مراقبة العاملين (ن)	personal monitoring
+مراقبة، تحكُّم	control
+مراكز لونية	F-centers / color centers
+مِرانة، مقلوب مواسعة	elastance
+مرآة	Mangin mirror / mirror
+مرآة الدوارة	Foucault rotating mirror
+مرآة الرؤية الخلفية؛ مرآة القيادة	driving mirror
+مرآة الكترونية	electron mirror
+مرآة ثنائية	bimirror
+مرآة كروية	spherical mirror
+مرآة لويد	Lloyd's mirror
+مرآة محدَّبة	diverging mirror
+مرآة مرجّعة	retrodirective mirror
+مرآة مستوية	plane mirror
+مرآة مقعّرة	concave mirror
+مرآة ميكلس الدوارة	Michelson rotating mirror
+مرآويّ	specular
+مربط الدخل الشاقولي	vertical input
+مرتبة التعددية	multiplicity
+مرتبة ثانية (ن)	second order
+مرتد؛ ارتداد	recoil
+مرتدات الانشطار	fission recoils
+مرتدات انشطار	fission recoils
+مرتكز	fulcrum / pivot
+مِرْجَل	boiler
+مرحِّل	relay
+مُرَحِّل ذو فلزّين	bimetal relay
+مرحلة (ن)	stage
+مرحلة التجزئة (ن)	partition stage
+مرحِّلة؛ مرحِّل	relay
+مردود الانشطار (ن)	fission yield
+مردود الانشطار الأولي (ن)	primary fission yield
+مردود الانشطار التسلسلي (ن)	chain fission yield
+مردود الانشطار المتراكم (ن)	cumulative fission yield
+مردود المحرك المثالي	efficiency of ideal engine
+مردود أيوني (ن)	ion yield
+مردود حراري	thermal efficiency
+مردود زوج الأيونات (ن)	ion pair yield
+مردود كمومي	quantum efficiency / quantum yield
+مردود نتروني لكل امتصاص (ن)	neutron yield per absorption
+مردود نتروني لكل انشطار (ن)	neutron yield per fission
+مردود، كفاءة	efficiency
+مردود، محصول	yield
+مِرْذاذ	atomizer / fulgurator
+مرسل	transmitter
+مرسمة الذبذبات	oscillograph
+مَرسَمة الزمن	chronograph
+مِرْسَمَةُ الضغط	barograph
+مرسمة الطيف	spectrograph
+مرسمة ذبذبات أشعة المِهْبَط	cathode-rays oscillograph
+مرسمة طيف الأشعة السينية	X- ray spectrograph
+مُرَشِّح	filter / filtre
+مرشح إيقاف نطاقي	band-reject filter
+مرشح بترورث	Butterworth filter
+مرشح تداخلي	interference filter
+مرشح تمرير سفلي	low-pass filter
+مُرشِّح تمرير عال	high-pass filter
+مرشح تمرير نطاق	pass-band filter
+مرشح تمرير نطاقي	band-pass filter
+مرشح ذو انكسار مضاعف	birefringent filter
+مرشح ضوئي	light filter
+مرشح فابري-بيرو	Fabry-Perot filter
+مرشح لوني	color filter
+مرشح محايد	grey filter / neutral density filter / neutral filter
+مرشح مضاعف التربيع	biquadratic filter
+مرشِّح وَتَدي	wedge filter
+مرشح وسعي	capacitor filter
+مرشِّحات فعالة	active filters
+مرشحات ملّونة	colored filters
+مرشد الموجة	wave guide
+مرشد كاشوفي	radar beacon
+مرطاب المحرارين الجاف والرطب، هجروميتر ذو البصلتين	wet and dry bulb hygrometer
+مرطاب نسبي	relative hygrometer
+مرطبات	hygrometer
+مرفاع ذراعي	jib crane
+مرفعة لوبية	jack-screw; screw-jack
+مرفعة ملولبية	screw-jack; jack screw
+مِرقاب	monitor
+مرقاب (ن)	monitor
+مرقاب الاشعاعية (ن)	radiation monitor
+مرقاب الأطراف	hand-and-foot monitor
+مرقاب الشمس	hélioscope
+مرقاب المدى الوسيط (ن)	intermediate range monitor
+مرقاب الهواء	air monitor
+مِرْقاب الهواء (ن)	air monitor
+مرقاب تلوث المياه (ن)	water contamination monitor
+مرقاب مدى القدرة (ن)	power range monitor
+مرقاب مدى المصدر (ن)	source range monitor
+مِرقاب منطقة (ن)	area monitor
+مرقوم	labelled
+مُرَكَّب	compound
+مركَّب الماسّي	adamantine compound
+مركب أيوني	ionic compound
+مركب أيوني مُمَيَّه	hydrated ionic compound
+مركب تكافؤي	covalent compound
+مركّب جزيئي	molecular compound
+مركب سبيكي	intermetallic compound
+مركب فلزي	intermetallic compound
+مركب قطبي	polar compound
+مركَّب كيميائي	chemical compound
+مركب لاقطبي	non polar compound
+مركّب مرقوم	labelled compound
+مركَّب مشبَّع	saturated compound
+مركّب مقتف	tracer compound
+مركّـب موسوم	labeled compound
+مركِّبات التسارع	components of accelaration
+مركِّبات السـرعة	components of velocity
+مركبات خلاليّة	interstitial compounds; interstitial strucutres
+مركبات ذات فعالية سطحية	surface-active compounds
+مركبات شبيكية	lattice compounds
+مركبات كيميائية	chemical compounds
+مركبات ماصة الحرارة	endothermic compounds
+مركِّبات متجه الموضع	components of position vector
+مركبات معقدة	complex compounds
+مُرَكّبة	component / vehicle
+مركبة (ال...) الفاعلة	active component
+مركَبة أفقية	horizontal component
+مُركِّبة التردد الراديوي	radiofrequency component
+مركبة الممانعة	impedance component
+مركِّبة ردّية	idle component
+مركّبة عاطلة	idle component
+مَركَبَة فضائية	spatial vehicle
+مركِّبة؛ مكوِّن	component
+مَركز	center; centre
+مركز (ال...) الآني للدوران	instantaneous center of rotation
+مَركز الاتزان	center of equilibrium
+مَركز الارتجاج	center of percussion
+مركز الانحناء	center of curvature
+مَركز التذبذب	center of oscillation
+مَركز التعليق	center of suspension
+مَركز التكور، مَركز الانحناء	center of curvature
+مَركز التناظر	center of symmetry
+مَركز الثقل	center of gravity
+مَركز الحجم	center of volume
+مركز الدفع	center of pressure
+مركز الدوران الآني	instantaneous center of rotation
+مَركز الضغط	centre of pressure
+مَركز الطفو	center of buoyancy; center of displacement
+مركز العطالة	center of inertia
+مَركز العكس	center of inversion; centre of inversion
+مَركز القصور الذاتي	center of inertia
+مَركز الكتلة	center of mass
+مركز اللون	color center
+مركز آني	instantaneous center
+مركز بصري	optical center
+مركز بصـري؛ مركز ضوئي	optical center
+مركز بيني	metacenter; metacentre
+مَركز ثقل السطح	center of area / centroid; center of area
+مركز دائرة	center(centre) of circle
+مركز كتلي	barycenter
+مركز مُتَبَدِّل	metacenter
+مركز متوسط	centroid
+مركز وسطي طيفي	spectral / spectral centroid
+مركَزيُّ الجسم	body centered
+مركزية	centricity
+مركم	accumulator
+مِرْكَم؛ مُدّخِرة	accumulator / storage battery
+مَرِن	elastic
+مَرْو	quartz
+مرونة	elasticity
+مرونة حجمية	volume elasticity
+مرونة ضوئية	photo elasticity / photoelasticity
+مُرونة كَظيمة	adiabatic elasticity
+مريخ (ال...)	mars
+مُزامَنة	synchronisation
+مزدوج القطب	double pole
+مزدوجة	couple
+مزدوجة حرارية	thermocouple
+مزدوجة حرارية فراغية	vacuum thermocouple
+مزدوجة كهرحرارية	thermoelectric couple
+مزواة	theodolite
+مَزُوجيّة	miscibility
+مِزولة شمسية	sundial
+مزيج	mixture
+مزيل الاستقطاب	depolarizer
+مزيل التعديل	demodulator
+مسائل القيم التُّخومية، مسائل القيم الحدودية	boundary-value problems
+مساحة	area
+مساحة الارتحال	migration area
+مساحة الانتشار (ن)	diffusion area
+مساحة التبطئة (ن)	slowing-down area
+مسار	path / trajectory
+مسار (ال...) الحرالجزيئي	molecular free path
+مسار (ال...) المتوسط للفونون الحرّ	phonon mean free path
+مسار الأشعة	path of rays
+مسار حر متوسط (ن)	mean free path
+مسار ضوئي	optical length; optical path
+مسار عكيس	reversible path
+مسار فريد (ن)	unique trajectory
+مسار قَذْفي	ballistic trajectory
+مسار مَركز	centrode
+مساعدة سمعية	hearing aid
+مسافة	distance
+مسافة استكمال خارجي خطي (ن)	linear extrapolation distance
+مسافة تطابق	identity period
+مسافة ضوئية	optical distance
+مسافة؛ بُعد	distance
+مسألة الأجسام الثلاثة	three-body problem
+مسألة الأجسام الثلاثية	three-body problem
+مسألة الأجسام المتعددة	many body problem
+مسألة الجسمين	two-body problem
+مسألة القيمة المميِّزة	eigen value problem
+مسامّ	pores
+مساميّ	porous
+مساميّة	porosity
+مسبار	probe / sonde
+مسبار بالصدى	echo sounder / echo-sounder
+مسبار لانغمير	Langmuir probe
+مسبار هول	Hall probe
+مستحلب	emulsion
+مستحلَب فوتوغرافي	photographic emulsion
+مستحلب لا يتحسس الأحمر	orthochromatic emulsion
+مستحلَب نووي	nuclear emulsion
+مستعرض	transverse
+مستقبل	receiver
+مستقبِل مازج	super heterodyne receiver
+مستقِرّ	stable / stationary
+مستقطب	polarizer
+مستقلة خطِّيا (ن)	linearly independent
+مستوٍ	flat / plane
+مستوٍ أصلي	principal plane
+مستو رئيس	principal plane
+مستوٍ ضوئيا	optically flat / optically flat; optically plane / optically plane
+مستوٍ عقدي	nodal plane
+مستوٍ مائل	inclined plane
+مستوٍ مرجعي	reference plane
+مستوى (ن)	Fermi level / level
+مستوى استقطاب الضوء	plane of polarization of light
+مستوى أفقي	horizontal plane
+مستوى الإحساس الصوتي	sensation level
+مستوى الاختبار، مُخبِرة	proof-plane
+مستوي الاستقطاب	plane of polarization
+مستوى الأقطاب	plane of polarization
+مستوى الانتقال	transmission plane
+مستوى الانزلاق	glide plane / gliding plane
+مستوى الانعكاس	reflection plane
+مستوي الانفلاق	cleavage plane
+مستوى الاهتزاز	plane of vibration
+مستوى البلّورة الأساسي	principal plane of crystal
+مستوى التجاوب	resonance level
+مستوي التعادل	neutral plane
+مستوى الحز	blaze
+مستوى الرنين (ن)	resonance level
+مستوي الزوال	meridian plane
+مستوى الشدة	intensity level
+مُستوى الشطر	cleavage plane
+مستوى الصوت	sound level
+مستوى الصوت المرجعي (ن)	reference sound level
+مستوى الطاقة	energy level
+مستوى الطاقة (ن)	energy level
+مستوى الطاقة الدورانية	rotational level
+مستوى الطاقة الصفرية	zero energy level
+مستوى الفعل (ن)	action level
+مستوى إلكتروني	electron level
+مستوى الممانعة	impedance level
+مستوى انزلاق	slip plane
+مستوى بؤري	focal plane
+مستوي بؤري؛ مستوي محرقي	focal plane
+مستوى طاقة	level of energy
+مستوى طاقة المانحات	donor level
+مستوى طاقة شاغر	unoccupied energy level
+مستوى طاقيّ منطبق	degenerate energy level
+مستوي عقدي	nodal plane
+مستوى فرط التحميل	overload level
+مستوى فرمي	Fermi level
+مستوي مائل	inclined plane / oblique plane
+مستوى مستقطب	plane (polarised...)
+مستوًى مقيّد	bound level
+مستوي؛ مسطَّح	flat
+مستويات الشوائب	impurity levels
+مستويات الطاقة المتفككة	degenerate energy levels
+مستويات براغ	Bragg planes
+مستَوَيات لانداو	Landau levels
+مسجل الرطوبة	hygrograph
+مسجِّل الزلازل	seismograph
+مسجّل الزمن؛ كرونوغراف	chronograph
+مسجِّل درجات الحرارة	thermograph
+مَسَح	scanning / sweep (to..)
+مسح اشعاعي (ن)	radiological survey
+مسح وقائي	protection survey
+مسحقة	pulverizer
+مسـرب شبكي	grid leak
+مسـرع	accelerator
+مسـرع الإلكترونات	electron accelerator
+مسـرع تحريضي	induction accelerator
+مسـرع ترادفي	tandem electrostatic generator
+مسـرع خطي	linear accelerator (LINAC)
+مُسـرع كهراكدي	electrostatic accelerator
+مَسرى	electrode
+مَسْرى إثْمِدي	antimony electrode
+مسرى التأكسد والاختزال	oxidation reduction electrode
+مسرى السبر	sounding electrode
+مسـرى تعزيز	intensifying electrode
+مسـرى ثانوي	dynode
+مسـرى ثنائي القطبية	bipolar electrode
+مسرى حارف	deflecting electrode
+مسرى زجاجي	glass electrode
+مسـرى سالب	negative electrode
+مسرى عكيس	reversible electrode
+مسرى غازي	gas electrode
+مسرى قَطري	dropping electrode
+مَسْرى كالوميل	calomel electrode
+مسـرى مكروي	microelectrode
+مسرى هيدروجين	hydrogen electrode
+مسـرى، إلكترود	electrode
+مسطرة حاسبة	slide-rule
+مسطرة مترية	meter-rule
+مِسْعر	calorimeter
+مسعر بخاري	steam calorimeter
+مِسعر جليدي	ice-calorimeter
+مِسعر قنبلي	bomb calorimeter
+مِسْعَري	calorimetric
+مِسعَريّة	calorimetry
+مِسْعَرية، تسعير	calorimetry
+مِسقاط الصور بالانعكاس	episcope
+مِسقاط الصور بالانعكاس وبالشُّفوف	epidiascope
+مسقاط الصور، ابدياسكوب	epidiascope
+مَسْقَط؛ إسقاط	projection
+مسلك	track
+مسلك الصوت	sound-track
+مسلَّمة بور الأولى	Bohr first postulate
+مسلَّمة بور الثانية	Bohr second postulate
+مسماع بوقي	ear trumpet
+مُسمِّعات	hearing aids
+مسموح به (ن)	allowed
+مَسْموعِيّة	audibility
+مسير جزيئي حر	molecular free path
+مسير حر وسطي	mean free path
+مسير ضوئي	optical path
+مسيِّل الهليوم	helium liquefier
+مُسيل تعاقبي	cascade liquefier
+مشاركة	association
+مشتري (ال...)	Jupiter
+مشتق	derivative
+مشتق جزئي	partial derivative
+مشتقّة	derivative
+مشتقة تغيّرية	variational derivative
+مشتقة دالية	functional derivative
+مشحون	charged
+مشع	radiant / radiator / radioactive
+مُشع أسود	black radiator
+مشع انتقائي	selective radiator
+مشع تام	full radiator; black body, complete radiator
+مشع كامل	full radiator
+مشع كروي	spherical radiator
+مشع لا انتقائي	non selective radiator
+مُشَعِّب	manifold
+مُشعِل	ignitor
+مشعة كروية	isotropic radiator; spherical radiator
+مشغل	workshop
+مشماسة	heliograph
+مشواف الاستقطابي	Cornu polariscope
+مشواف التذبذب	oscilloscope
+مِشواف ذبذبات أشعة المِهْبَط	cathode-ray oscilloscope
+مشواف طيف	spectroscope
+مشواف مجسم	stereoscope
+مَشوب	impure
+مَشُوب؛ غير نقي	impure
+مشيج (ج أمشاج)، خالط الألوان	tint
+مشيج عبور	tint of passage
+مَشِيج: الجمع أمشاج	tint
+مشية عشوائية	random walk
+مصّ؛ ثَعْب	suction siphonage
+مصابيح أشعة تحت الحمراء	infra-red lamps
+مصابيح كهربائية	electric lamps
+مصادر ضوء عيارية	standard light sources
+مصَّاص (ن)	absorber
+مصاص قابل للاحتراق (ن)	burnable absorber
+مصاص مؤقت (ن)	temporary absorber
+مصباح	lamp
+مصباح أشعة تحت الحمراء	infrared lamp
+مصباح الأمان	safety lamp
+مصباح الزئبق	mercury lamp
+مصباح الطيف	spectrum lamp
+مصباح القوس الفحمية	arc carbon lamp
+مصباح بخار الزئبق	mercury vapour lamp
+مصباح تفلور	fluorescent lamp
+مصباح زئبقي	mercury lamp
+مصباح عاكس	reflecting lamp
+مصباح قوس زئبقي	mercury arc lamp
+مصباح قوس زئبقية	mercury arc lamp
+مصباح قوس فحمّي	arc carbon lamp
+مصباح قوسـي فحمي	carbon arc lamp
+مصباح قوسي كربوني	carbon arc lamp
+مصباح كهربائي متوهج	electric glow lamp
+مصباح متألق	fluorescent lamp
+مصباح متوهّج	incandescent lamp
+مصباح نيون	neon lamp
+مصباح ومضي	flash lamp
+مصحح	Maksutov corrector
+مصحّح مكْسوتوف	Maksutov corrector
+مصدر	Frank-Red source / source
+مصدر اشعاع (ن)	radiation source
+مَصْدر ألفا	alpha emitter / alpha source
+مصدر ايونات (ن)	ions source
+مصدر بيتا (ن)	beta source
+مُصدِر بيتاوي	beta emitter
+مصدر حلقي مغلق	circular ring source
+مصدر غير محكم التغليف (ن)	unsealed source
+مصدر كاما (ن)	gamma source
+مصدر متساوي الحركة	equal-energy source
+مصدر محكم التغليف (ن)	sealed source
+مصدر مزدوج	double source
+مصدر نترونات (ن)	neutron source
+مصدر نترونات الانطلاق (ن)	start-up neutron source
+مصدر نقطي	point source
+مصدر نقطي بسيط	simple point source
+مصـرف	compiler / drain / sink
+مصـرف حرارة؛ منبع بارد	heat sink
+مصطبة النمو	growth step
+مِصْعَد	anode / lift
+مصعد صفيحة	plate
+مصعد مائي	hydraulic lift
+مَصْعَد؛ صفيحة	plate
+مصفاة	refinery
+مصفوفات باولي	Pauli matrices
+مصفوفة	matrix
+مصفوفة الكثافة	density matrix
+مصفوفة ذاتية الترافق	self adjoint matrix
+مصفوفة صفرية	null matrix
+مصفوفة قطرية	diagonal matrix
+مصفوفة متخالفة التناظر	skew symmetric matrix
+مصفوفة محايدة	unit matrix
+مصفوفة محايدة، مطابقة	identity matrix
+مصفوفة مرافقة	adjoint matrix
+مصفوفة منقولة	transposed matrix
+مصفوفة هرميتية	hermitian matrix
+مصفوفة هرميتية مرافقة (ن)	hermitian adjoint matrix
+مصفوفة واحدية	unitary matrix
+مصقول	polished
+مصوات	phonometer / sonometer
+مصوات أحادي الوتر	monochord sonometer
+مصواتية	phonometry
+مُصوِّر طيف الشمس	spectro heliograph
+مصوِّرة استجلائية	camera lucida
+مصوِّرة القذائف	ballistic camera
+مصوِّرة ذات ثقب	pinhole camera
+مصوِّرة عاكسة	reflex camera
+مصوِّرة غاما	gamma camera
+مصوِّرة لاوِه	Laue camera
+مصوِّرة، كاميرا	camera
+مصوِّرَة؛ كاميرا	photographic camera
+مصيدة	trap
+مصيدة إلكترونية	electron trap
+مصيدة تدفق (ن)	flux trap
+مصيدة حُزْمَة (ن)	beam trap
+مصيدة زئبقية للفلزات القلوية	alkali-metal mercury trap
+مصيدة مثلَّجة	refrigerated trap
+مصيدة مغنطيسية	magnetic trap
+مصيدة مغنطيسية ضوئية	magneto-optical trap
+مصيدة منخفضة المقاومة	low-resistance trap
+مضاعِف (ن)	multiplying
+مُضاعِف الإلكترونات	electron multiplier
+مضاعَف التربيع	biquadratic
+مضاعف التردد	frequency multiplier
+مضاعف الضغط	pressure multiplier
+مضاعِف الفلطية	voltage doubler
+مضاعف إلكترونات (ن)	electron multiplier
+مضاعِف ضوئي	photomultiplier
+مضاعِف ضوئي (ن)	photomultiplier
+مضاعِف كهرضوئي	photoelectric multiplier
+مضاعفة (ال...) دون الحرجة (ن)	subcritical multiplication
+مضاعفة النترونات (ن)	neutron multiplication
+مضاعفة غازية (ن)	gas multiplication
+مضاهات تحريكية (دينمية)	dynamical analogies
+مُضخِّم	amplifier
+مضخم النَّبَضَات	pulse amplifier
+مضخم بتغذية راجعة	feedback amplifier
+مضخم تعاقبي	cascade amplifier
+مضخم تفاضلي	difference amplifier / differential amplifier
+مضخّم تمرير نطاقي	band-pass amplifier
+مضخم جسـري	bridge amplifier
+مضخم خطي	linear amplifier
+مضخم دفع جذب	push-pull amplifier
+مضخم ذو مغنطيسية فريتية	ferrimagnetic amplifier
+مضخم صمامي	valve amplifier
+مضخم عريض النطاق	broad band amplifier
+مضخّم عملياتي	op amp / operational amplifier
+مضخم غير عاكس	noninverting amplifier
+مضخم غير محمَّل	unloading amplifier
+مضخم قدرة	power amplifier
+مضخم ليزري	laser amplifier
+مضخِّم محيَّز (ن)	biased amplifier
+مضخم مقياسي	instrumentation amplifier
+مضخّم نبضة	pulse amplifier
+مضخة	pump
+مضخة إطفاء الحريق	fire pump
+مِضَخّة اعتيادية	common pump
+مضخة الهواء	air -pump / air-pump
+مضخة انتثارية	diffusion pump
+مضخة تفريغ	evacuation pump
+مضخة حرارية	heat pump
+مضخة فعل مباشـر	direct- acting pump
+مضخة كابسة	forcing pump
+مضخة مائية	water-pump
+مضخة ماصّة	suction pump
+مضخة هوائية مكثِّفة	condensing air pump
+مضرام	pyroheliometer
+مِضْغاط	barometer / piezometer
+مضغاط ثعبيّ	siphon barometer
+مضغاط ذو حوض	cistern barometer
+مضغاط زئبقي	mercury barometer
+مضغاط فرقي	manometer
+مِضْغاط معدني	aneroid barometer
+مضغاط مفتوح	open-air manometer
+مضلع	polygon
+مضلع القوى	polygon of forces
+مضلَّع المتَّجِهات	polygon of vectors
+مضواء	illumination photometer; illuminometer / photometer
+مِضواء طيفي	spectrophotometer
+مضيء أحادي اللون	monochromatic illuminator / monochromator
+مضيء عياري	standard illuminant
+مطابقة العين	eye accommodation
+مطابقة؛ تكيُّف	accommodation
+مطّاط	rubber
+مطاط مكبرت، إبونيت	ebonite
+مطاوعة دوران ميكانيكية	mechanical rotational compliance
+مطاوعة ميكانيكية	mechanical compliance
+مِطراف	terminal
+مِطرقة مائية	water hammer
+مُطْلَق	absolute
+مطوار، مقدار طوري	phasor
+مِطواعِيَّة	susceptibility
+مطواعية كهربائية	electric susceptibility
+مطواعية كهرنافذية	dielectric susceptibility
+مطياف	Glan spectrometer / spectroscope
+مِطياف (ن)	spectrometer
+مطياف الأشعة السينية	X-ray spectrometer
+مطياف الانحراف الثابت	constant deviation spectrometer
+مطياف الرؤية المباشـرة	direct vision spectrometer
+مطياف بالبروتونات المرتدة (ن)	proton recoil spectrometer
+مطياف بِلَّوري (ن)	crystal spectrometer
+مطياف بيتا	beta spectrometer
+مطياف رؤية مباشرة	direct vision spectrometer
+مِطياف غلان	Glan spectrometer
+مطياف كتلي	mass spectrometer
+مطياف كتلي دُحروجي	trochoidal mass analyser
+مطياف مباشر الرؤية	direct vision spectroscope
+مطياف مجهري	microspectroscope
+مطياف نتروني	neutron spectrometer
+مطياف وميضي (ن)	scintillation spectrometer
+مطيافية	spectroscopy
+مطيافية الأشعة السينية	X-ray spectroscopy
+مطيافية الأشعة تحت الحمراء	infrared spectroscopy
+مطيافية الليزر	laser spectroscopy
+مطيافية باريونية	baryon spectroscopy
+مطيافية رامان	Raman spectroscopy
+مطيافية ما فوق البنفسجي	ultraviolet spectroscopy
+مُظْهِر	developer
+مظهر نجمي	asterism
+معاجة نهائية (ن)	tail end
+معادلات	Lagrange equations; Euler-Lagrange equations / Maxwell equations
+معادلات الحركة	equations of motion
+معادلات آنية	simultaneous equations
+معادلات أولر	Euler equations
+معادلات فرينل	Fresnel equations
+معادلات لاغرانج	Lagrange's equations
+معادلات لندن	London equations
+معادلات لورنتز	Lorentz equations
+معادلات متحدة الخط	collinear equations
+معادلات مكسويل	Maxwell equations
+معادلات هملتون	Hamilton equations
+معادلة	Einstein equation / Franklin equation / Gibbs-Dauhem equation / Gibbs-Helmholtz equation / Helmhotz equation / Morse equation / abel equation / equation
+معادلة (ن)	Schrodinger's equation
+معادلة الاستمرار	continuity equation / equation of continuity
+معادلة الاستمرارية	continuity equation
+معادلة الانتثار	diffusion equation
+معادلة الانتشار (ن)	diffusion equation
+معادلة التفاعل	reaction formula
+معادلة الحالة	equation of state
+معادلة الحَرَج (ن)	critical equation
+معادلة الحركة	equation of motion
+معادلة العمر لفيرمي	Fermi-age equation
+معادلة الغاز الكامل	equation of ideal gas
+معادلة القيم الذاتية	eigenvalue equation
+معادلة الكتلة النسبوية	relativistic mass equation
+معادلة الموجة	equation of wave / wave equation
+معادلة النقل (ن)	transport equation
+معادلة انتشار	Einstein diffusion equation
+معادلة انتشار الموجة	equation of wave propagation
+معادلة أينشتاين الكهرضوئية (الفوتوكهربائية)	Einstein's photoelectric equation
+معادلة براغ	Bragg's equation
+معادلة برنولي التفاضلية	Bernoulli differential equation
+معادلة بواسون	Poisson’s equation
+معادلة بورن- ماير	Born- Mayer equation
+معادلة تشايلد-لانغَمير	Child-Langmuir equation
+معادلة تفاضلية	differential equation
+معادلة تفاضلية غير متجانسة	inhomogeneous differential equation
+معادلة توازن	secular equation
+معادلة حالة مختزلة	reduced equation of state
+معادلة خطية	linear equation
+معادلة دالامبير- لاغرانج	D' Alembert-Lagrange's equation
+معادلة ديباي	Debye equation
+معادلة ديراك	Dirac equation
+معادلة ذاتية	eigen equation
+معادلة ريتشاردسون	Richardson's equation
+معادلة شـرودنغر	Schrodinger's equation
+معادلة فاندرفالس	Van der Waals's equation
+معادلة كلابيرون في الغازات	Clapeyron equation of state
+معادلة كلاين-غوردن	Klein-Gordon equation
+معادلة لابلاس	Laplace equation
+معادلة لانغمير- تشايلد	Langmuir-Child equation
+معادلة ليجندر	Legendre equation
+معادلة متجانسة	homogeneous equation
+معادلة متسامية	transcendental equation
+معادلة مميِّزة	characteristic equation
+معادلة من الدرجة الثانية	quadratic equation
+معادلة وسيطية	parametric equation
+معالِج	processor
+معالج صِغْري	microprocessor
+معالجة الغازات الخارجة (ن)	off-gas treatment
+معالجة المعطيات	data processing
+معالجة النفايات (ن)	waste treatment
+معالجة الوقود (ن)	fuel reprocessing
+معالجة أولية (ن)	head end
+معالجة تعدينية حرارية (ن)	pyrometallurgical processing
+معالجة حرارية	heat treatment
+معالجة كيميائية حرارية (ن)	pyrochemical processing
+معامل	Hall coefficient; Hall constant / Joule-Thomson coefficient / coefficient / modulus
+معامل (ن)	Doppler coefficient
+معامل g للوندية	Londé-g-factor
+مُعامل اعادة الاتحاد	coefficient of recombination / recombination coefficient
+معامل الاحتكاك	friction coefficient
+مُعامل الاحتكاك الانزلاقي	coefficient of sliding friction
+مُعامل الاحتكاك الحركي	coefficient of Kinetic friction / coefficient of kinetic friction
+مُعامل الاحتكاك السكوني	coefficient of static friction
+مُعامل الارتداد	coefficient of restitution / restitution coefficient
+مُعامل الاصطدام	collision coefficient; coefficient of restitution
+معامل الاضمحلال	decay modulus
+معامل الامتصاص الخطي	linear absorption coefficient
+معامل الامتصاص الخطي (ن)	linear absorption
+مُعامل الامتصاص الذري (ن)	atomic absorption coefficient
+معامل الامتصاص الكتلي	mass absorption coefficient
+مُعامل الانتثار	diffusion coefficient
+معامل الانتشار	spreading coefficient
+معامل الانتشار (ن)	diffusion coefficient
+معامل الانجرار لفرنل	Fresnel coefficient of drag
+معامل الانطفاء	extinction coefficient
+معامل الانعكاس	reflection coefficient / reflection coefficient; reflection factor
+معامل الانكسار	index of refraction / refraction modulus
+معامل الانكسار المعدَّل	modified index of refraction
+معامل الانكسار النسبي	relative index of refraction
+معامل البَخر	evasion coefficient
+مُعامل التبعثر	scattering coefficient
+معامل التجزئة	partition coefficient / partition coefficient; distribution coefficient
+مُعامل الترابط	correlation coefficient
+مُعامل التراكُم	accumulation coefficient
+مُعامل التسرب المغنطيسي	coefficient of magnetic leakage
+معامل التفاعلية الحراري	temperature reactivity coefficient
+معامل التفاعلية الكتلي	mass-coefficient of reactivity
+مُعامل التفريغ	coefficient of discharge
+مُعامل التقلص	coefficient of contraction
+مُعامل التكثف	coefficient of condensation
+مُعامل التكيّف	accommodation coefficient
+مُعامل التمدد	coefficient of expansion
+مُعامل التمدد الخطي	coefficient of linear expansion / linear coefficient of expansion
+معامل التمزق	modulus of rupture
+مُعامل التوتر السطحي	coefficient of surface tension
+معامل التوزيع	distribution coefficient; partition coefficient
+مُعامل التوصيل الحراري	coefficient of heat conductivity
+مُعامل التوصيلية الحرارية	coefficient of thermal conductivity
+مُعامل التَوْهين (ن)	attenuation coefficient
+معامل التوهين الخطي (ن)	linear attenuation coefficient
+مُعامل التوهين الذري (ن)	atomic attenuation coefficient
+معامل الجسوء	stiffness coefficient
+مُعامل الحثّ الذاتي	coefficient of self-induction
+معامل الخلو (ن)	void coefficient
+معامل الذّوبانية	solubility coefficient
+معامل الصلادة	modulus of rigidity / rigidity modulus
+معامل الضغط	pressure coefficient
+معامل القدرة	power coefficient
+معامل القدرة للمفاعلية (ن)	power coefficient of reactivity
+معامل القصّ	modulus of rigidity / shear modulus / shear modulus; rigidity
+معامل الكزازة	stiffness coefficient
+معامل اللزوجة	viscosity index / viscous coefficient
+معامل اللزوجة الحركية	kinematic viscosity coefficient
+معامل اللمعان	luminosity coefficient
+مُعامل المُرونة	Young's modulus / coefficient of elasticity / elastic modulus / modulus of elasticity
+معامل المرونة الحجمية	bulk modulus / elasticity bulk modulus / modulus of volume elasticity
+معامل المرونة الحرارية	thermoelastic coefficient
+مُعامل المرونة، الحجمية	bulk modulus; modulus of volume elasticity
+معامل المفاعلية (ن)	reactivity coefficient
+معامل المفاعلية الكتلي (ن)	mass-coefficient of reactivity
+مُعامل المقاومة	coefficient of resistance
+مُعامل المُواسعة	capacitance coefficient
+مُعامِل النشاط، مُعامِل الفاعلية	activity coefficient
+مُعامل النفوذ	transmission coefficient
+مُعامل امتصاص	coefficient of absorption
+مُعامل إمتصاص (ن)	absorption coefficient
+معامل امتصاص الطاقة الكتلي (ن)	mass energy absorption coefficient
+معامل امتصاص كتلي (ن)	mass-absorption coefficient
+معامل انعكاس الصوت	sound reflection coefficient
+معامل انكسار الشعاع غير العادي	extraordinary index of refraction
+معامل تمدد الغازات	expansion coefficient of gases
+معامل تناضحي	osmotic coefficient
+معامل حَرِج	critical coefficient
+مُعامل درجة الحرارة	temperature coefficient
+معامل درجة الحرارة للمفاعلية (ن)	temperature coefficient of reactivity
+معامل ضغط المفاعلية (ن)	pressure coefficient of reactivity
+معامل محراري	thermometric coefficient
+مُعامل مِسْعَري	calorimetric coefficient
+مُعامل مُطْلَق	absolute coefficient
+معامل نسبي	relative coefficient
+معامل نقل الطاقة (ن)	energy transfer coefficient
+معامل نقل الطاقة الخطي (ن)	linear energy transfer coefficient
+معامل نقل الطاقة والكتلة (ن)	mass energy transfer coefficient
+معامل هول	Hall coefficient
+معامِل يَنْغ للمرونة	Young modulus of elasticity
+معامل يونج للمرونة	Young's modulus of elasticity
+مُعامِلات الحَثّ	coefficients of induction
+معاملات المرونة	elastic moduli; stiffness constants
+معاملات ثلاثية التلون	trichromatic coefficients
+معاملات كليبش-غوردان	Clebsch-Gordan coefficients
+معاملات مِلَر البلّورية	Miller indices / Miller-cristal indices
+معاوقة	reactance
+معاوقة التسرب	leakage reactance
+معاوقة ذاتية	intrinsic reactance
+معاوقة متواقتة	synchronous impedance
+معاوقة ميكانيكية	mechanical reactance
+مُعايرة	calibration
+معايرة الدالة الذاتية	normalisation of eigen function
+معتدل	neutral
+معتم	opaque
+معجِّل (ن) ، مسرِّع	accelerator
+معجل بالكهرباء الساكنة (ن)	electrostatic accelerator
+مُعَجّل بيتا الدوراني (ن) ، بيتاترون	betatron
+معَجِّل حَثّ	induction accelerator
+معجِّل خطِّي (ن)	accelerator (linear..) / linear accelerator
+معجِّل دوراني (ن)	cyclotron
+معجِّل دوراني (ن) ، ميكروترون	microtron
+معجل دوراني متزامن (ن) ، سنكرو سيكلترون	synchro-cyclotron
+مِعداد	abacus
+مِعْداد ثنائي (ن)	binary scaler
+معداد عشري	decade scaler
+معداد عشري (ن)	decimal scaler
+معدَّل	rate
+معدَّل (ن)	rate
+معدل استنزاف الهواء	rate of exhaustion of air
+معدل الإشعاع	radiation rate
+معدل الاضمحلال (ن)	disintegration rate
+معدل الاقتراب	rate of approach
+معدل الانبعات (ن)	emission rate
+معدل الانبعاث الطيفي (ن)	spectral emission rate
+معدل التعرض (ن)	exposure rate
+معدل التغير	rate of change
+معدل التفاعل (ن)	reaction rate
+معدل التوليد	generation rate
+مُعَدَّلِ الجرعة الممتصة (ن)	absorbed dose rate
+معدل الجرعة الموقعي (ن)	local dose rate
+معدَّل العد	counting rate
+مُعدل العد (ن)	counting rate
+معدل المفاعلية	rate of reactivity
+معدل انتاج النترونات (ن)	neutron production rate
+مُعَدَّل تبدد الطاقة الصوتية	acoustic energy dissipation rate
+معدّل تلاشي الصوت	rate of decay of sound
+معدّل ضوء	light modulator
+معدل عدّ النَّبَضَات	pulse counting rate
+معدل كيرما (ن)	kerma rate
+معدِّلة	rheostat
+معدودات	counts
+معدودات الخلفية	background counts
+معدوم التبدد	dissipationless
+معزِّز	booster
+معزول	isolated
+معَقِّم	sterilizer
+معكوس	reflected
+معكوس التبديد	constringence
+معلّق	suspended / suspension
+معلّق غَروي	colloidal suspension
+مَعْلَم (ن)	parameter
+مَعْلَم الرنين (ن)	resonance parameter
+مَعلَم الصدم (ن)	impact parameter
+معمل تصنيع (ن)	fabrication plant
+معوِّض	compensator
+معوِّض بابينيه	Babinet compensator
+معوِّض برافيه	Bravais compensator
+معوِّض سولي	Soleil compensator
+معيار	etalon
+معيار اختيار موقع (ن)	sitting criterion
+معيار إشعاعي	radioactive standard
+معيار النشاط الاشعاعي	radioactive standard
+مِعْيار بيتا (ن)	beta gauge
+معيار داخلي	internal standard
+معيار رايلي	Rayleigh's criterion
+معيار مضوائي	photometric standard
+معياري	standard
+معيّن المدى	range finder
+مغذّ	feeder
+مغذي	feeder
+مغلاق	shutter
+مغلاق الصوّارة	shutter of a camera
+مِغلاق المصوِّرة	shutter of a camera
+مِغلاق ضوئي	optical shutter
+مغنطرون	magnetron
+مغنطسة لمس مزدوج	magnetization by double touch
+مغنطة	magnetization
+مغنطة اشباع	saturation magnetization
+مغنطة الإشباع	saturation magnetization
+مغنطة تلقائية	spontaneous magnetization
+مغنطة لمس مفرد	magnetization by single touch
+مغنطة متبقِّية	remanence
+مغنطة مثالية	ideal magnetization
+مغنطة، تمغنط	magnetisation / magnetization
+مغنطون	magneton
+مغنطون إلكتروني	electronic magneton
+مغنطون بور	Bohr magneton
+مغنطون فايس	Weiss magneton
+مغنطون نووي	nuclear magneton
+مغنطيس	magnet
+مغنطيس اهتزازي	vibrating magnet
+مغنطيس بشكل نعل الفرس؛ مغنطيس نَضْوِيّ	horse shoe magnet
+مغنطيس دائم	permanent magnet
+مغنطيس طبيعي	loadstone / natural magnet; loadstone
+مغنطيس كُرويُّ الطرفين	ball ended magnet
+مغنطيس كهربائي	electromagnet
+مغنطيسي	magnetic
+مغنطيسي مساير	paramagnetic
+مغنطيسية	magnetism
+مغنطيسية (ال...)	magnetism
+مغنطيسية (ال...) الأرضية	geomagnetism / terrestrial magnetism
+مغنطيسية (ال...) غير الحديدية	antiferromagnetism
+مغنطيسية أرضية	geomagnetism / terrestrial magnetism
+مغنطيسية حديديّة	ferromagnetism
+مغنطيسية حديدية مضادة	antiferromagnetism
+مغنطيسية ساكنة	magnetostatics
+مغنطيسية فان فليك المسايرة	Van Vleck paramagnetism
+مغنطيسية فرّيتية	ferrimagnetism
+مغنطيسية مؤقتة	temporary magnetism
+مغنطيسية متحرضة	induced magnetism
+مغنطيسية محتثة	induced magnetism
+مغنطيسية مسايرة	paramagnetism
+مغنطيسية معاكسة	diamagnetic / diamagnetism
+مغنطيسية معاكسة (ن)	diamagnetism
+مَغنوكس	magnox
+مَغنون	magnon
+مغنيزيوم	magnesium
+مِغنيط	magneto
+مغْنيط اصطناعي	artificial magneto
+مغير التردد	frequency changer / frequency converter
+مفارَقة	paradox
+مفارقة التوءمين	twin paradox
+مفارقة التوأم	twin paradox
+مفاضِل	differentiator
+مفاضلة	differentiation
+مفاعل	pile / reactor
+مفاعل (ن)	reactor
+مفاعل اختبار	test reactor
+مفاعل اختبار المواد	materials testing reactor (MTR)
+مفاعل اختبار المواد (ن)	materials testing reactor
+مفاعل الأرضية المميعة (ن)	fluidized bed reactor
+مفاعل الازاحة الطيفية (ن)	spectral shift reactor
+مفاعل الاندماج	fusion reactor
+مفاعل الاندماج الأوروبي المشترك	Joint European Torus
+مفاعل البلوتونيوم (ن)	plutonium reactor
+مُفاعل التبريد الغازي المتقدم (ن)	advanced gas cooled reactor
+مفاعل التشعيع (ن)	irradiation reactor
+مفاعل الدورة المباشرة (ن) ، مفاعل الغليان	direct-cycle reactor; boiling
+مفاعل القدرة صفر	zero-power reactor
+مفاعل الماء الثقيل	HWR / heavy water pile / heavy water reactor
+مفاعل الماء الثقيل (ن)	heavy water reactor
+مفاعل الماء الغالي	boiling water reactor (BWR)
+مفاعل الماء المضغوط (ن)	pressurized water reactor
+مفاعل المائع المضغوط (ن)	pressurized fluid reactor
+مفاعل الوقود المشتَّت (ن)	dispersion reactor
+مفاعل انتاج (ن)	production reactor
+مفاعل ايضاح (ن)	demonstration reactor
+مفاعل بُحوث	research reactor
+مفاعل بغير عاكس (ن)	bare reactor
+مفاعل تجريبي (ن)	experimental reactor
+مفاعل تكاملي (ن)	integral reactor
+مفاعل توليد الطاقة الكهربائية	power reactor
+مفاعل ثوريوم	thorium reactor
+مفاعل حارّ	HTR / high temperature reactor
+مفاعل حراري	slow reactor / thermal reactor
+مفاعل حَرِج	critical reactor
+مفاعل حَلْقي (ن)	loop reactor
+مفاعل حوضي (ن)	pool reactor
+مفاعل دوّار	circulating reactor
+مفاعلٌ دوَّارُ الوقود	circulating reactor
+مفاعل دورة غير مباشرة (ن)	indirect cycle reactor
+مُفاعل ذري	atomic pile
+مُفاعل ذري (ن)	atomic reactor
+مفاعل ذو عاكس	reflecting reactor
+مفاعل سـريع	fast reactor
+مفاعل سريع (ن)	fast reactor
+مفاعل شبيكي	lattice reactor
+مفاعل عالي التدفق	high-flux reactor
+مفاعل عالي الحرارية (ن)	high-temperature reactor
+مفاعل غير متجانس	heterogeneous reactor
+مفاعل فوق الحَرِج	supercritical reactor
+مفاعل فوق حراري	epithermal reactor
+مفاعل قدرة (ن)	power reactor
+مفاعل قدرة الصفر	zero-power reactor
+مفاعل كرافيت (ن)	graphite reactor
+مفاعل ماء الخفيف (ن)	light water reactor
+مفاعل مبرَّد بالغاز	gas cooled reactor
+مفاعل مبرَّد بالماء	water cooled reactor
+مُفَاعِل مبرَّد بالماء المُغْلَى (ن)	boiling water cooled reactor
+مفاعل مبرَّد بفلز سائل (ن)	liquid metal cooled reactor
+مفاعل مبرد غازيا (ن)	gas cooled reactor
+مفاعل متجانس	homogeneous reactor
+مفاعل محِّول	converter reactor
+مفاعل محوّل (ن)	converter reactor
+مفاعل مخصَب (ن)	enriched reactor
+مفاعل مزدوج الدورات (ن)	dual-cycle reactor
+مفاعل مصدر (ن)	source reactor
+مفاعل معلق الوقود (ن)	suspension reactor
+مفاعل مفرط التسخين (ن)	superheat reactor
+مفاعل مهدأ بالغرافيت	graphite-moderated reactor
+مفاعل مهدّأ بالماء (ن)	water moderated reactor
+مفاعل مولِّد	breeder pile / breeder reactor
+مفاعل مولد سريع (ن)	fast breeder reactor
+مفاعل نترونات متوسطة الطاقة	intermediate neutron reactor
+مفاعل نترونات وسيطة (ن)	intermediate neutrons reactor
+مُفاعل نظيف (ن)	clean reactor
+مفاعل نووي	nuclear reactor
+مفاعل نووي (ن)	nuclear reactor / pile (atomic…)
+مفاعل نووي حراري	thermonuclear reactor
+مفاعل نووي متجانس	homogeneous nuclear reactor
+مفاعل نووي متغاير	heterogeneous nuclear reactor
+مفاعل وسطي	intermediate reactor
+مفاعل وَلود	breeder pile / breeder reactor / regenerative reactor
+مفاعل ولود بالنترونات الحرارية	thermal breeder reactor
+مفاعل ولود سـريع	Fast breeder reactor
+مفاعل يورانيوم طبيعي (ن)	natural uranium reactor
+مُفَاعلة (ن)	interaction
+مفاعلية (ال...) الحركية (ن)	kinetic reactivity
+مفاعلية (ن)	reactivity
+مفاعلية تكاملية (ن)	integral reactivity
+مفاعلية سالبة (ن)	negative reactivity
+مفاعلية فائضة (ن)	excess reactivity
+مُفاعلية متضمنة (ن)	built-in reactivity
+مفتاح عاكس	reversing key
+مفتاح مزدوج	double throw-over switch
+مفتاح منطقي	logic switch
+مفتاح نضيدة	battery switch
+مفتاح نطاقي	band switch
+مفرد	single
+مفرط الحرج (ن)	supercritical
+مفَرِّعة	shunt
+مفرعة المقياس الأمبيري، مفرع الأميتر	shunt of ammeter
+مفرعة عامة	universal shunt
+مفرعة مقياس الأمبير	ammeter shunt / shunt ammeter
+مُفرِّغ	discharger
+مفرِّغ الشحنات	discharger
+مفرغ عام	universal discharger
+مُفَرِّغة مقياس الأمبير	ammeter shunt
+مَفصِل كُروي	ball and socket joint / ball joint
+مفضض نصفيا	half-silvered
+مفعول أبني	Abney effect
+مفعول التوجيه	orientation effect
+مفعول التوصيل الضوئي	photoconductive effect
+مفعول الحَافَة	edge effect
+مفعول الحجب	screening effect
+مفعول الخيال	image effect
+مفعول الدفيئة	greenhouse effect
+مفعول الديناترون	dynatron effect
+مفعول الزينون	Xenon effect
+مفعول السحب	drag effect
+مفعول القِشـرة	skin effect
+مفعول أينشتاين - دي هاس	Einstein-De Haas effect
+مفعول باركهاوزِن	Barkhausen effect
+مفعول بارنِت	Barnett effect
+مفعول باشن-باك	Paschen-Back effect
+مفعول برنولي	Bernoulli effect
+مفعول بوركنج	Purkinje effect
+مفعول تاندال	Tyndall effect
+مفعول جوزفسون	Josephson effect
+مفعول جول	Joule effect
+مفعول دوبلر	Doppler effect
+مفعول دوبلر قطري	radial Doppler effect
+مفعول ديباي	Debye effect
+مفعول ديمبَر	Dember effect
+مفعول رامان	Raman effect
+مفعول ريتشاردسون	Richardson effect
+مفعول زيمان	Zeeman effect
+مفعول زيمان الشاذ	anomalous Zeeman effect
+مفعول زيمان العادي	normal Zeeman effect
+مفعول زيمان النووي	nuclear Zeeman effect
+مفعول سيبِك	Seebeck effect
+مفعول شتارْك	Stark effect
+مفعول شتارك التربيعي	quadratic Stark effect
+مفعول شتارك الخطي	linear Stark effect
+مفعول غلفاني مغنطيسي	galvanomagnetic effect
+مفعول فاراداي	Faraday effect
+مفعول فنتوري	Venturi effect
+مفعول فيغنر	Wigner effect / discomposition effect
+مفعول كلفن	Kelvin effect
+مفعول كهرحراري	thermoelectric effect
+مفعول كهرضوئي	photoelectric effect
+مفعول كومْتُن	Compton effect
+مفعول كومْتُن معاكس	inverse Compton effect
+مفعول كوندت	Kundt effect
+مفعول كير الكهربصـري	Kerr electro-optical effect
+مفعول كير المغنطيسـي البصـري	Kerr magneto-optical effect
+مفعول لانغمير	Langmuir effect
+مفعول ماركس	Marx effect
+مفعول مايسنر	Meissner effect
+مفعول مغنطيسي	magnetic effect
+مفعول مغنطيسـي ضوئي	magneto-optic effect
+مفعول موسباور	Mossbauer effect
+مفعول نظيري	isotope effect
+مفعول نَفَقي	tunnel effect
+مفعول هالفاكس	Hallwachs effect
+مفعول هرتز	Hertz effect
+مفعول هول	Hall effect
+مفكك	degenerate
+مفكِّك الرماز؛ مفكِّك الكود	decoder
+مفلطح	oblate
+مفهوم	concept
+مفهوم الاتزان	equilibrium concept
+مفهوم الرقّ	film concept
+مُقارِب	asymptotic
+مقارمة خارجية	external resistance
+مقارِن	comparator
+مقاس الشبكة	mesh size
+مقاصرة	reluctance
+مقاصرة نوعية	reluctivity; specific reluctance
+مقاوِم	resistor
+مقاوم حراري قضباني	rod-type thermistor
+مقاوم كابح	ballast resistor
+مقاوم لاتحريضي	noninductive resistor
+مقاوِم ليِّن	flexible resistor
+مقاومات تسلسلية	series resistances
+مقاوِمات على التسلسل	series resistors
+مقاومات متوازية	parallel resistances
+مقاومة	resistance
+مقاومة (ال...) السمعية للتيار المستمر	D.C. acoustic resistance
+مقاومة اشعاعية	radioresistance
+مقاومة الاحتكاك	resistance of friction
+مقاومة الأدمة	skin resistance
+مقاومة الاشعاع	radiation impedence / radiation resistance
+مقاومة التماس	contact resistance
+مقاومة الشد	tensile strength
+مقاومة الصدم	impact strength
+مقاومة القشـرة	skin resistance
+مقاومة الهواء	air resistance
+مقاومة انحياز الشبكة	grid bias resistance
+مقاومة أومية	ohmic resistance
+مقاومة تحريكية	dynamic resistance
+مقاومة حراريّة	thermal resistance
+مقاومة داخلية	internal resistance / internal resistance; intrapilary resistance
+مقاومة ذاتية	intrinsic resistance
+مقاومة رباعية الأطراف	four-terminal resistance
+مقاومة سالبة	negative resistance
+مقاومَة صوتية	acoustic resistance / acoustical resistance
+مقاومة عيارية	standard resistance
+مقاومة في الظُّلمة	dark resistance
+مقاومة كهربائية	electrical resistance
+مقاومة لاخطية	nonlinear resistance
+مقاومة متبقية	residual resistance
+مقاومة متغيرة	variable resistance
+مقاومة متغيرة، مقاومة معدّلة	rheostat
+مقاومة مغنطيسية	magnetoresistance
+مقاومة مكافئة	equivalent resistance
+مقاومة ميكانيكية	mechanical resistance
+مقاومة نوعية	specific resistance
+مقاومة نوعية، مقاوميَّة	specific resistance; resistivity
+مقاومية	resistivity
+مقاومية حرارية	thermal resistivity
+مقاومية كهربائية	electrical resistivity
+مقبس	socket
+مِقْبس شَكِّي، قاعدة شَكِّية	bayonet socket
+مَقْبِس/مأخذ	socket
+مقتطع عرضي طيفي (ن)	spectral cross section
+مقتف (ن)	tracer
+مقتف اشعاعي (ن)	radioactive tracer
+مقتف غير نظيري (ن)	non isotopic tracer
+مقتفٍ كيميائي	chemical tracer
+مقتف مستقر (ن)	stable tracer
+مقتفٍ نظيري (ن)	isotopic tracer
+مقدار	magnitude
+مقدار متَّجه	vector quantity
+مقدرة الإيقاف	stopping power
+مقدرة الإيقاف الكتلي	mass stopping power
+مقدرة التأسيس (ن)	installed capacity
+مقدرة العدسة	lens power
+مقدرة الفصل اللوني	chromatic resolving power
+مقدرة الفصل؛ مقدرة الاستبانة	resolving power
+مَقَرّ الشحنة	seat of charge
+مقراب	Galilean telescope / Galileo telescope / telescope
+مقراب الرؤية الليلية	night vision telescope
+مِقراب السمت	zenith telescope
+مِقراب راداري	radar telescope
+مقراب رَاديَوِي	radiotelescope
+مقراب عاكس	reflecting telescope
+مقراب غاليليه	Galilean telescope
+مقراب غريغوري	Gregorian telescope
+مِقراب فَلَكي؛ راصِدة فَلَكية	astronomical telescope
+مِقراب موشوري	prismatic telescope
+مِقراب نيوتني	Newtonian telescope
+مقراب نيوتوني	Newtonian telescope
+مِقراب؛ راصدة	telescope
+مقزَّح	iridescent
+مقطاب	polarimeter
+مقطِّب	polarizer
+مقطع	chopper / interrupter / section
+مقطع أصلي	principal section
+مقطع الاستطارة العرضي الكلي	total scattering cross section
+مقطع التجاوب الفعال	resonance cross section
+مقطع العرضي الوسطي (ن)	Doppler-averaged cross section
+مقطع انسـيابي	aerofoil
+مقطع بلّوري	crystal cut
+مقطع رئيس	principal section
+مقطع عَرضي	cross section
+مقطع عرضي الأسْر (ن)	capture cross section
+مقطع عَرْضي تفاضلي (ن)	differential cross section
+مقطع عرضي تفاضلي مضاعف (ن)	double differential cross section
+مقطع عرضي حراري (ن)	thermal cross section
+مقطع عرضي حراري فعال (ن)	effective thermal cross section
+مقطع عرضي زاوي (ن)	angular cross section
+مقطع عرضي عياني (ن)	macroscopic cross section
+مقطع عرضي غير مرن (ن)	nonelastic cross section
+مقطع عرضي فعّال (ن)	effective cross section
+مقطع عرضي كلي (ن)	total cross section
+مقطع عرضي لامتصاص النترونات (ن)	neutron absorption cross section
+مقطع عَرضي لجسم	cross section of a body
+مقطع عرضي لذرة طليقة (ن)	free-atom cross section
+مقطع عرضي لذرة مُقّيدة (ن)	bound atom cross section
+مقطع عرضي للازالة (ن)	removal cross section
+مقطع عرضي للاستطارة (ن)	scattering cross section
+مَقْطَع عرضي للاستطارة المتماسكة (ن)	coherent scattering cross section
+مقطع عرضي للاستطارة المرنة (ن)	elastic scattering cross section
+مقطع عرضي للانشطار (ن)	fission cross section
+مقطع عرضي للتكوين	formation cross section
+مقطع عرضي للتنشيط (ن)	activation cross section
+مقطع عرضي للزمرة (ن)	group cross section
+مقطع عرضي مجهري (ن)	microscopic cross section
+مقطع فعال تفاضلي	differential cross-section
+مقطع فعَّال جهري	macroscopic cross section
+مقطع فعَّال للأسـر المشع	radiative capture cross section
+مقطع فعَّال للانشطار	fission cross-section
+مقطع فعَّال للتصادم	collision cross section
+مقطع فعال للتنشيط	activation cross section
+مقطع فعال للنقل (ن)	transport cross section
+مقطع فعال مجهري	microscopic cross section
+مقطع فعَّال؛ مقطع قائم	cross section
+مقطع؛ قسم	section
+مُقَعَّر	concave
+مقعر الوجهين	double concave
+مقعّر مستوٍ	plano-concave
+مُقلَّل	diminished
+مقلوب	reciprocal
+مقلوب تفرق خطي	reciprocal linear dispersion
+مقلوب شبيكة	reciprocal lattice
+مقلوب مجسم اهليلجي	reciprocal ellipsoid
+مُقوَّس	arched
+مقوِّم	rectifier
+مقوم اللون	orthochromatic
+مقوم أيوني حراري	thermionic rectifier
+مقوم بالمنحل الكهربائي	electrolytic rectifier
+مقوِّم بِلَّوري	crystal rectifier
+مقوِّم تحكُّم سيليسيومي	silicon controlled rectifier
+مقوِّم تحكُّم سيليكوني	SCR
+مقوِّم جسـري	bridge rectifier
+مقوم صمامي	rectifier valve / valve rectifier
+مقوِّم معدني	metal rectifier
+مُقوي السمع	audiphone
+مُقوِّيَّة السمع السِّنية	audiphone
+مقياس (ن)	gauge
+مقياس آبه لقرائن الانكسار	Abbe refractometer
+مقياس الإبصار	optometer
+مقياس الأبعاد	iconometer
+مقياس الأبعاد المجهرية	eikonometer
+مقياس الارتفاع	altimeter
+مقياس الاستقطاب	polarimeter
+مقياس الإشعاع	radiometer
+مقياس الاشعاع (ن)	radiometer
+مقياس الإشعاع الحراري	bolometer
+مقياس الاشعاع الدقيق	radiomicrometer
+مقياس الإشعاع السماوي	pyranometer
+مقياس الإشعاع الشمسي	solarimeter
+مقياس الإشعاع الشمسـي الكلي	Pyroheliometer
+مِقياس الأمبير	ammeter
+مقياس الأمبير الديناميكي الكهربائي	electrodynamic ammeter
+مقياس الأمبير ساخن السلك	hot-wire ammeter
+مقياس الانضغاطية أو الضغط	piezometer
+مقياس الانعراج	diffractometer
+مقياس الانكسار	refractometer
+مقياس الأوم	ohmmeter
+مقياس التألق	fluorometer
+مقياس التحريضية	inductance meter
+مقياس التداخل	interferometer
+مقياس التدفق الفقاعي	bubble gage; bubble gauge
+مقياس التذبذب	vibrometer
+مقياس التردد	frequency meter
+مقياس التسارع	accelerometer
+مقياس التعجيل، مقياس التسارع	accelerometer
+مقياس التفاعلية	reactivity meter
+مقياس التفلور	fluorometer
+مقياس التمدد	dilatometer
+مقياس التمدّد الحجمي	dilatometer
+مقياس التوتر السطحي	stalagmometer / tensiometer
+مقياس الثقالة	gravimeter
+مقياس الجَرْعات الكيميائي (ن)	chemical dosimeter
+مقياس الجرعة	dose meter / dosimeter
+مقياس الجرعة (ن)	dosemeter; dosimeter
+مقياس الجرعة التصويري (ن)	photographic dosimeter
+مقياس الجرعة الفردي	film badge
+مقياس الجهارة	phon-meter
+مقياس الحرارتين العظمى والصغرى	maximum and minimum thermometer
+مقياس الحرارة العالية الضوئي	optical pyrometer
+مقياس الدورات (ن)	period meter
+مقياس الدّيسبل	decibelmeter; volume indicator
+مقياس الرطوبة	hygrometer
+مقياس الرطوبة النسبية	wet and dry hygrometer
+مقياس الرطوبة ذو المحرارين	psychrometer
+مقياس الرونتجن	R-meter
+مقياس الزمن	chronometer
+مقياس الزمن، ميقات	chronometer
+مقياس الزوايا	goniometer
+مقياس السـرعة الزاويّة	tachometer
+مقياس السكَّر	saccharimeter
+مقياس السمع	audiometer
+مقياس السمع، مِسْماع	audiometer
+مقياس الصدى	echometer
+مقياس الصوت	sonometer
+مقياس الضغط	pressure gauge
+مقياس الضغط ذو السلك الحار	hot-wire gauge
+مقياس الضغط ذو الشعبتين	manometer
+مقياس الطيف	spectrometer
+مقياس الطيف الضوئي	spectrophotometer
+مقياس الطيف الموشوري	prism spectrometer
+مقياس الغاز	gasometer
+مقياس الفُلط	voltmeter
+مقياس الفلط والأمبير	voltammeter
+مقياس الفولط ساخن السلك	hot-wire voltmeter
+مقياس الفولط للكهرساكنة	electrostatic voltmeter
+مقياس القوة الكهربائية	dynamometer
+مقياس الكثافة الضوئية	densitometer
+مقياس الكرة	spherometer
+مقياس الكسيرة	dioptometer
+مقياس الكهرباء	electrometer
+مقياس الكهرباء، إلكترومتر	electrometer
+مقياس الكهربية أحادي الخيط	uniflar electrometer
+مقياس المَسْح	survey meter
+مقياس المطر	pluviometer
+مقياس المعدَّل	rate meter
+مقياس المغنطيسية	magnetometer
+مقياس المفاعلية (ن)	reactivity meter
+مقياس المنسوب	hypsometer
+مقياس المواسعة	capacitance meter
+مقياس النغم	tonometer
+مقياس الواط ساعة	watt-hour meter
+مقياس أمبير أحادي المرتكز	uni-pivoted ammeter
+مقياس أمبير كهرحراري	thermoelectric ammeter
+مقياس إنارة مخبري	illumination photometer
+مقياس إنارة ميداني	illuminometer
+مقياس انكسار بالغطس	immersion refractometer
+مقياس بوردون للضغط	Bourdon gauge
+مقياس تداخل الإلكترونات	electron interferometer
+مقياس تداخل فابري - بيرو	Fabry-Perot interferometer
+مقياس تداخل ليزري	laser interferometer
+مقياس تداخل متعدد الحزم	multibeam interferometer
+مقياس تداخلي	interferometer
+مقياس جامان التداخلي	Jamin interferometer / Jamin refractometer
+مقياس جرعات زجاجي	glass dosimeter
+مقياس جرعات شخصي (ن)	individual dosimeter
+مقياس جرعة الاستضاءة (ن)	photoluminescence dosimeter
+مقياس جرعة باللمعان الحراري (ن)	thermoluminescence dosimeter
+مقياس جلفاني تفاضلي	differential galvanometer
+مقياس جلفاني قَذْفي	ballistic galvanometer
+مقياس جلفاني لا ارتجاجي	dead-beat galvonometer
+مقياس جهد	potentiometer
+مقياس درجات الحرارة العالية، بيرومتر	pyrometer
+مقياس سرعة الريح	anemometer
+مقياس شدة الإضاءة	photometer
+مقياس شدة الإضاءة الزاوي	goniophotometer
+مقياس شدة الصوت	phonometer
+مقياس شدة المجال المغنطيسي	magnetometer
+مقياس ضغط التفريغ/الإخلاء	vacuum gauge
+مقياس ضغط الدم	sphygmomanometer
+مقياس ضغط جوي زئبقي	mercury barometer
+مقياس طيف الأشعة بيتا	beta ray spectrometer
+مقياس طيف ألفا	alpha-spectrometer
+مقياس طيف وميضي	scintillation spectrometer
+مقياس عن بعد	telemeter
+مقياس غاما	gamma gauge
+مقياس غاوص بمفعول هول	Hall-effect Gaussmeter
+مقياس غلفاني	galvanometer
+مقياس غلفاني الظّلّي	tangent galvanometer
+مقياس غلفاني ذو إطار متحرك	moving-coil galvaometer
+مقياس غلفاني ذو مغنطيس متحرك	moving-magnet galvanometer
+مقياس غلفاني قذفي	ballistic galvanometer
+مقياس غلفاني متحرك المغنطيس	moving-magnet galvanometer
+مقياس غلياني	hypsometer
+مقياس فلط رقمي	digital voltmeter
+مقياس فلط صمامي	valve voltmeter
+مقياس فلطا	Voltameter
+مقياس فنتوري	Venturimeter
+مقياس فولط حراري	thermocouple voltmeter
+مقياس فولط صمامي	valve voltmeter
+مقياس فولطا	voltameter
+مقياس قرائن الانكسار	refractometer
+مقياس كثافة السوائل	hydrometer
+مقياس كثافة السوائل، مكثاف	areometer
+مِقياس كثافة الهواء	aerometer
+مقياس كهرباء ذو خطين	bifilar electrometer
+مقياس كهرباء ذو صمام	tube electrometer; valve electrometer
+مقياس كهربائي أرْبَعي	electrometer quadrants
+مقياس كهربائي صمامي	electrometer valve
+مقياس كهربي ربعي	quadrant electrometer
+مقياس مايكلسون التداخلي	Michelson interferometer
+مقياس متعدد	multimeter
+مقياس مستوى الصوت	sound level meter
+مقياس معدل الجرعات (ن)	dose-ratemeter
+مقياس معدل الجرعة	dose rate meter
+مقياس موجه صمامي	valve wave-meter
+مقياس/ميزان حرارة	thermometer
+مقياسية تداخلية	interferometry
+مكافئ الـ تي إن تي	TNT equivalent
+مكافئ الكتلة الطاقي	energetic equivalent of mass
+مكافئ النسيج (ن)	tissue equivalent
+مكافئ بوروني (ن)	boron equivalent
+مكافئ رونتجن البيولوجي	roentgen equivalent man
+مكافئ كهركيميائي	electro-chemical equivalent
+مكافئ كيميائي	chemical equivalent
+مكافئ مائي	water equivalent
+مكافئ نورتن	Norton equivalent
+مكافىء (ال...) المكانيكي للحرارة	heat (mechanical equivalent of…)
+مكافىء الجرعة (ن)	dose equivalent
+مكافىء جرعة عظمى مقبولة (ن)	maximum permissible dose equivalent
+مكافىء غرامي	gram-equivalent
+مكافىء غَروي	colloidal equivalent
+مكافىء كهركيميائي	electro-chemical equivalent
+مكافىء ميكانيكي	mechanical equivalent
+مكافىء ميكانيكي حراري	mechanical equivalent of heat
+مكافىء ميكانيكي ضوئي	mechanical equivalent of light
+مكامل	integrator
+مكاملة بالتجزئة	integration by parts
+مكاملة متوسطة النطاق	medium-scale integration
+مكان ظهور المجال	perisphere
+مكان لالوني	achromatic locus
+مكانيك (ال...) الكمي غير النسبي (ن)	non relativistic quantum mechanics
+مِكْبَح	brake
+مكبح هوائي	air-brake
+مكبّر	enlarger
+مكبر الصوت	loudspeaker
+مكبِّرة	magnifier
+مكبس	piston / press
+مكبس مائي	hydraulic press
+مكثاف	densimeter / hydrometer / pycnometer
+مكثاف اعتيادي	common hydrometer
+مكثاف الحليب	lactometer
+مكثاف حليب	lactometer
+مكثاف كهربائية	electric condensers
+مِكثاف؛ مقياس الكثافة	densimeter
+مُكَثِّف	abbe condenser / condenser
+مكثف (مواسِعة)	capacitor
+مكثِّف آبه	Abbe condenser
+مكثف اسطواني	cylindrical condenser
+مكثف الراجع	reflux condenser
+مكثف الشبكة	grid condenser
+مكثف تثبيت	stabilizing condenser
+مكثف تهذيب	trimmer condenser
+مكثف خَلائي	vacuum capacitor
+مكثف ضوئي	optical condenser
+مكثف عياري	standard condenser
+مكثف لا لوني	achromatic condenser
+مكثف متغير	variable capacitor / variable condenser
+مكثِّف محجَّب	screened condenser
+مكثِّفات على التوازي، مكثِّفات متوازية	condensers in parallel
+مكثِّفات على التوالي، مكثِّفات متوالية	condensers in series
+مكثِّفَة	capacitor
+مكثفة أسطوانية	cylindrical capacitor
+مكثفة تحييد	neutralizing capacitor
+مكثفة تفريع	bypass capacitor
+مكثفة خزفية	ceramic capacitor
+مكثفة كروية	spherical capacitor
+مكثِّفة كهربائية	electric condenser
+مكثفة كهرليتية	electrolytic capacitor
+مكثفة مستوية	parallel plate capacitor
+مكرفون مكثفي، لاقط صوت مكثفي	capacitor microphone
+مِكرفون، لاقط صوت	microphone
+مكروفاراد	microfarad
+مكروكوري	microcurie
+مكرومتر	micrometer
+مِكرومتر؛ الدوَّارة اللولبية	micrometer screw
+مكرومكرو فاراد، بيكوفاراد	micromicrofarad
+مكسور، مقطوع	broken
+مكشاف	detector / hodoscope
+مكشاف (ن)	detector
+مكشاف اشعاعي	radioscope
+مكشاف اشعاعي بغاز سار (ن)	gas flow radiation detector
+مكشاف الأثر (ن)	track detector
+مكشاف الارتفاع	statoscope
+مكشاف الاستقطاب	polariscope
+مكشاف الاشعاع (ن)	radiation detector
+مكشاف التنشيط (ن)	activation detector
+مكشاف الرطوبة	hygroscope
+مكشاف الصوت	phonoscope
+مكشاف اللمعان الفسفوري	phoshorscope
+مكشاف النترونات (ن)	collectron; neutron detector
+مكشاف بلّوري	crystal detector
+مكشافٌ بوريّ	boron detector
+مكشاف بيروني	Pyrone detector
+مكشاف جرمانيومي (ن)	germanium detector
+مكشاف حراري	thermal detector
+مكشاف خفقاني	heterodyne detector
+مكشاف ذو عتبة (ن)	threshold detector
+مكشاف رنين (ن)	resonance detector
+مكشاف زلازل أرضية	geophone
+مكشاف شبه موصل (ن)	semiconductor detector
+مكشاف غلفاني	galvanoscope
+مِكشاف كهربائي	electroscope
+مكشاف كهربائي مُكثِّف	condensing electroscope
+مكشاف كهربي	electroscope
+مكشاف كهربية ذو ورقتي ذهب	gold-leaf electroscope
+مكشاف لما تحت الأحمر	infrared detector
+مكشاف وميضي (ن)	scintillation detector
+مِكْشف العين (ن)	ophthalmoscope
+مكمى	quantized
+مكوك	shuttle
+مكوك هوائي	rabbit system
+مِل	mil
+ملائمة الألوان	color matching; colour matching
+ملاحَظ	observable
+ملاحظ نقطي	point-observer
+مُلَخَّص	abstract
+ملغمة	amalgamation
+ملغمة؛ تملغُم	amalgamation
+مِلَف	coil / file
+ملف ابتدائي	primary coil
+ملف اطاري	toroidal coil
+مِلَف إعادة التسخين	reboiler coil
+ملف الإشعال	ignition coil
+ملف التحريض	induction coil
+مِلف المغنطيس	magnet coil
+ملف أولي	primary coil / primary winding
+ملّف تركيز	focusing coil
+مِلف تسلا	Tesla coil
+مِلَف ثانوي	secondary coil
+ملف حارف	deflecting coil
+ملف حثّ	induction coil
+ملف حث ثانوي	secondary induction coil
+ملف خانق	choke coil / choking coil
+مِلَف دولابي	toroidal coil
+مِلَفّ ضَبْط	balance coil
+ملف لولبي	solenoidal coil
+ملف متحرك	moving coil
+ملف مضاد	bucking coil
+ملف مقاومة	resistance coil
+ملفا هلمهولتز	Helmholtz coils
+مِلفات متحدة المحور، متمحورة	coaxial coils
+ملفات مترابطة	coupled coils
+ملفاف	winch
+ملقط	forceps
+ملولب	screw
+ملوى	wrench
+مِلْوى؛ مفتاح إنكليزي	wrench
+ملّي أميتر	milliammeter
+ملّي بار	millibar
+ملّي مايكروفاراد	millimicrofarad
+ملّي مايكرون	millimicron
+مليار (بليون) إلكترون فلط	BeV
+ملّيمتر زئبق	mmHg
+مليون إلكترون فلط (ميف)	MeV
+مليون الكترون فولت	MEV
+مماثلة انتقالية	mobility analogy
+مماس، ظل الزاوية	tangent
+ممانعة	impedance
+ممانعة (ال...) المنهية	terminating impedance
+ممانعة الخَرْج	output impedance
+ممانعة الخرج الفعّالة	effective output impedance
+ممانعة الخيال	image impedance
+ممانعة الدخل	input impedance
+ممانعة الدخل الفعّالة	effective input impedance
+ممانعة تواز	parallel impedance
+ممانعة دوران ميكانيكية	mechanical rotational impedance
+ممانَعة صوتية	acoustic impedance
+ممانعة عُقَدِيَّة	complex impedance
+ممانعة كهربائية	electrical impedance
+ممانعة متبادلة	mutual impedance
+ممانعة مستنظمة	normalized impedance
+ممانعة مغنطيسية	reluctance
+ممانعة مميِّزة	characteristic impedance
+ممانعة ميكانيكية	mechanical impedance
+ممتدة المرونة	elasticity tensor
+مُمْتَزّ	adsorbate
+ممتصِّيَّة (ال...)	absorptivity
+ممدّد الاجهاد	stress tensor
+مِمَصّ؛ مِثْعَب	siphon
+ممطوطية	ductility
+مميِّز (ن)	discriminator
+مميز اتساع النبضات (ن)	pulse amplitude discriminator
+مميز الاضمحلال	decay characteristic; persistence charcteristic / persistence characteristic; decay characteristic
+مميِّز الانتقال	transfer characteristic
+ممِّيز الزمن	time discriminator
+مميز النَبَضَات بسعاتها	pulse height discriminator
+مميز تحريكي (دينمي)	dynamic characteristic
+مميّز زمني	time discriminator
+مميِّز سكوني	static characteristic
+مميز شكل النبضة (ن)	pulse shape discriminator
+مميّز(ة) تيار ثابت	constant-current characteristic
+مميزات الصمام	tube characteristics
+مُميِّزات الصوت الموسيقي	characteristic of musical sound
+مميزة المسرى	electrode characteristic
+من المبادئ الأولية	ab initio
+منابع مترابطة	coherent sources
+مَناخ	climate
+منار راداري	radar beacon
+مناطق حديدية المغنطة	ferromgnetic domains
+مناطق فرينل	Fresnel zones
+مناطق مغنطيسية	magnetic domains
+منافذة (ال...)	transmittancy
+مناقلة	transposition
+مناوب	alternator
+مناوِل (ن)	manipulator
+مُنْبَسَط	plateau
+منبع إشعاع غير محكم الإغلاق	unsealed radioactive source
+منبع الضجيج	noise source
+منبع النترونات	neutron source
+منبع أيونات	ion source
+منبع تغذية كهربائية	power supply
+منبع ضوئي	light source / source of light
+منبع ضوئي نقطي	point light source
+منبع غير مستقل	dependent source
+منبع فُلطية	voltage source
+منبع مثالي	ideal source
+منبع معياري	standard source
+منبع نترونات راديوم بريليوم	radium-beryllium source of neutron
+منبع نقطي	point source
+منبع ومَّاض	stroboscope
+منتج النترونات	neutron producer
+منتَج ثانوي	byproduct
+منتهى	end-point
+منحل (ال...) الكهربائي الغروي	colloidal electrolyte
+منحلّ كهربائي	electrolyte
+منحن ذو عروتين	lemniscate
+منحن زمكاني صفري	null-geodesic
+منحنٍ كَظيم	adiabatic curve
+مُنحنَى	curve
+منحنى (ن)	Bragg curve
+منحني الاجهاد والانفعال	stress-strain curve
+منحني الإجهاد والتشوُّه	stress-strain curve
+منحني الاستجابة الطيفية (ن)	spectral response curve
+منحنى الاستقطاب	polarization curve
+منحنى الاضمحلال (ن)	decay curve
+منحني الامتصاص	absorption curve
+مُنْحني الامتصاص (ن)	absorption curve
+منحني البقاء/النجاة	survival curve
+منحنى التبريد	cooling curve
+منحنى التجمد	freezing curve
+منحنى التجميد	solidus curve
+منحني التساوي	sublimation curve
+منحنى التسييل	liquefaction curve
+منحنى التشبع (ن)	saturation curve
+منحنى الجريان	flow curve
+منحنى الخواص	characteristic curve
+منحنى الذوبانية	solubility curve
+منحنى الرؤية	visibility curve
+منحنى الزمن الأقصر	brachistochrone
+منحنى السيولة	liquidus curve
+منحنى الكهربية الشعرية	electrocapillary curve
+منحنى اللمعان	luminosity curve
+مُنحني اللمعانية المُطْلَقة	absolute luminosity curve
+منحنى المرونة	elastic curve
+منحني المسموعية	audibility curve
+منحني المعايرة	calibration curve
+منحنى المغنطة	magnetization curve
+منحنى المميِّز (ن)	discriminator curve
+منحني النمو	growth curve
+منحنى انبعاث الفوتونات (ن)	photo emission curve
+منحني جيبي	sinusoide
+منحنى خليط الألوان	color mixture curve; colour mixture curve
+منحني غاوص	gaussian curve
+منحنى متساوي الألوان	isochromatic curve
+منحني مميِّز	characteristic curve
+منحني مميِّز فُلط - أمبير	volt-ampere characteristic
+منحنيات	bends; curves
+منحنيات الازاحة	curves of displacement
+منحنيات حدّية	limiting curves
+منحنيات ليساجو	Lissajous curves
+مندليفيوم	mendelevium
+مُنشأة انتثار حراري	thermal diffusion plant
+منشأة تبريد الوقود (ن)	fuel cooling installation; cooling pond
+منشِّط (ن)	activator
+منشور ثنائي، موشور ثنائي	biprism
+منشور مصحِّح، موشور مقوِّم	erecting prism
+منصِّف الزاوية	bisectrix
+مِنْضدة بصرية، نَضَد بصري	optical bench
+مِنْطاد	balloon
+منطاد، بالون	balloon
+منطق إيجابي	positive logic
+منطق سالب	negative logic
+منطقة	domain
+منطقة (ن)	Geiger Müller region
+منطقة الاستبعاد (ن)	exclusion area
+منطقة التجاوب	resonance region
+منطقة التناسب	proportional region
+منطقة التناسب (ن)	proportional region
+منطقة الحياد	neutral zone
+منطقة الرنين (ن)	resonance region
+منطقة السطح البيني	interfacial zone
+منطقة الظِلّ	shadow zone
+منطقة النزوح	migration area
+منطقة النضوب	depletion region
+منطقة بريلوان	Brillouin zone
+منطقة بريلوان الأولى	first Brillouin zone
+منطقة بلّورية	zone of a crystal
+منطقة تساوي الجهد	equipotential region
+منطقة تفتيش (ن)	bonded area
+منطقة حَرِجة	critical region
+منطقة غرفة التأيّن (ن)	ionization chamber region
+منطقة غير مصنفة (ن)	unclassified area
+منطقة كهرحديدية	ferroelectric domain
+مِنْطَقة مراقبة (ن)	controlled area
+منطقة مستنفَدَة (ن)	depleted zone
+مِنْطَقة مصنَّفة (ن)	classified area
+منطقة ممتدة	extended zone
+منطقة موازنة المواد (ن)	material balance area (M.B.A)
+منطقة نشِطة	active region
+منطقة؛ مجال	region
+منظار الأشكال	kaleidoscope
+منظار ثنائي العينية	binoculars
+منظار داخلي، منظار الباطن	endoscope
+منظار مقرّب	field glass
+منظر جانبي؛ جانبية	profile
+مُنَظِّم	regulator
+منظم الضغط؛ باروستات	barostat
+منظم الفلطية	voltage stabilizer
+منظِّم ذو مفرِّعة	shunt regulator
+منظّم فولطيّة التيار المستمر	D.C. voltage regular
+منظومة إحداثيات ثابتة	fixed coordinate system
+منظومة أمان المفاعل	reactor safety system
+منظومة بصـرية مصححة	orthoscopic system
+منظومة بصـرية معاكسة	katoptric system
+منظومة ترموديناميكية	thermodynamic system
+منظومة ثنائية الطور	two-phase system
+منظومة عدسات فائقة اللا لونية	apochromatic lens system
+منظومة عدسات قوتها صفر	zero power lens combination
+منظومة عودة الامتصاص	resorption system
+منظومة غروانية متعددة التبدُّد	polydisperse colloidal system
+منظومة غير مضطربة	unperturbed system
+منظومة كاسـرة عاكسة	catadioptric system
+منظومة لا اتجاهية	astatic system
+منظومة متحركة؛ جملة متحركة	moving system
+منظومة مغلقة	closed system
+منظومة ميكانيكية	mechanical system
+منظومة هولونومية	holonomical system
+منظومة؛ جملة؛ مجموعة	system
+منعكِس	reflex
+منغنيز	manganese
+منفاخ مائي	hydrostatic bellow
+منفث غاز	gas jet
+مُنْفِذ حراري	diathermanous
+منفذ للاشعاع الحراري	diathermanous; diathermic
+مُنَوِّبَة	alternator
+مهاتفة لاسلكية	radiotelephony
+مِهْبَط	cathode
+مَهبِط بارد	cold cathode
+مهبط ضعيف الانبعاث	dull-emitting cathode
+مهبط فتيلي	filamentary cathode
+مَهْبِط مُنشَّط	activated cathode
+مهبط وهمي	virtual cathode
+مهتز توافقي أحادي البعد	one dimensional harmonic oscillator
+مهتز توافقي بسيط	simple harmonic oscillator
+مهدِّئ	moderator
+مهدأ بافراط (ن)	overmoderated
+مهدّأ جزئيا (ن)	undermoderated
+مهدّىء (ن)	moderator
+مهو	mho
+مواءمة	matching
+مواجهة عشوائية	random encounter
+مواد المصدر (ن)	source material
+مواد انشطارية خاصة (ن)	special fissionable material
+مواد حديدية المغنطة	ferromagnetic materials
+مواد ذات مغنطيسية معاكسة	diamagnetic materials
+مواد عازلة	insulating materials
+مواد كهرحديدية	ferroelectric materials
+مواد مذابة	dissolved substances
+مواد مضافة	additives
+مواد مغنطيسية	magnetic substances
+مواد نووية بكر (ن)	fresh nuclear material
+موازن حرارة البِلَّورة	crystal oven
+مُواسعة	capacitance
+مواسَعة الخانق	choke-capacitance
+مُوَاسَعَة الطبقة الحاجزة	barrier-layer capacitance
+مواسعة شاردة	stray capacitance
+مواسعة طُفَيلية	stray capacitance
+مواسعة فعّالة	effective capacitance
+مواسعة متوزعة	distributed capacitance
+مواسعة موزعة	distributed capacitance
+مواسعة هندسية	geometric capacitance
+مواصلة	conductance
+موت بالإشعاع	radiation death
+موت حراري	heat death
+مُوتِّر؛ تنسور	tensor
+موجات دقيقة	microwave
+موجات سطحية	surface waves
+موجات ضوئية	light waves
+موجات طولية	longitudinal waves
+موجات كهرمغنطيسية	electromagnetic waves
+موجات لا مترابطة	incoherent waves
+موجات مغنطيسية	magnetic waves
+موجات مكروية، موجات صِغْرية	microwave
+موجب	positive
+موجبة جيبيّة	sine wave; sinusoidal wave
+موجة	wave
+موجة أرضية	ground wave
+موجة أسطوانية	cylindrical wave
+موجة أسنان المنشار	sawtooth waveform
+موجة الإلكترون	electron wave
+موجة الصدمة	shock wave
+موجة الضغط	pressure wave
+موجه جزئية	partial wave
+موجة جيبية	sine wave / sinusoidal wave
+مَوجة حاملة	carrier wave
+موجة دورية	periodic wave
+موجة راديوية	radiowave
+موجة سبينية	spin wave
+موجة سماوية	sky wave
+موجة صدم	shock wave
+موجة صوتية مستقطبة خطيا	linearly polarised sound wave
+موجة ضوئية	light wave
+موجة طولانية	longitudinal wave
+موجة عادية	ordinary wave
+موجة عالية التردد	high frequency wave
+موجة عرضانية	transverse wave
+موجة قصيرة	short wave
+موجة كروية	spherical wave
+موجة كهربائية عرضانية	transverse electric wave
+موجة كهرطيسية	electromagnetic wave
+موجة كهرطيسية عرضانية	transverse electromagnetic wave
+موجة لادورية	aperiodic wave
+موجة مادية	matter wave
+موجة مبدّدة	dispersive wave
+موجة متقدمة	progressive wave
+موجة مربّعة	square wave
+موجة مستعرضة	transverse wave
+موجة مستقرة	standing wave / stationary wave
+موجة مستمرة	continuous wave
+موجة مستوية	plane wave
+موجة معدَّلة	modulated wave
+موجة منتشـرة	travelling wave
+موجة منخفضة التردد	low frequency wave
+موحِّد لون الأشعة السينية	X-ray monochromator
+مودِم	modem
+موس	MOS
+موشور	Amici prism / F?rsterling prism / Foucault prism / Glan prism; Glan-Thompson prism / Nicol prism
+موشور آبه	Abbe prism
+موشور استقطابي	polarising prism
+موشور الانحراف الثابت	constant-deviation prism
+موشور الثنائي	Fresnel biprism
+موشور الرؤية المباشرة، منشور الرؤية المباشرة	direct-vision prism
+موشور أميتشي	Amici prism
+موشور انحراف ثابت	prism of constant deviation
+موشور انعكاس كلي	total reflecting prism
+موشور ثنائي	biprism
+موشور جسمي	objective prism
+موشور خماسي	penta prism
+موشور رؤية مباشـرة	direct vision prism
+موشور زجاج مرصص	flint glass prisme
+موشور سقفي	roof prism
+موشور شيئي	objective prism
+موشور عاكس	reversing prism; Dove prism
+موشور فرينل الثنائي	Fresnel biprism
+موشور فيري	Fery prism
+موشور لا لوني	achromatic prism
+مَوْشور لالوني	achromatic prism
+موشور ليترو	Littrow prism
+موشور مضاعف	Cornu double prism
+موشور معدِّل	erecting prism
+موشور مَعيني	rhombohedron
+موشور معينّي الأوجه	rhombohedron
+موشور نيكول	Nicol prism
+موشور، منشور	prism
+موشور؛ منشور	prism
+موَصِّل أرضي	earth conductor
+موصل بالمنحلّ الكهربائي، موصل الكتروليتي	electrolytic conductor
+موصّل فائق	superconductor
+موصل كهربائي، ناقل كهربائي	electrical conductor
+موصّل معزول	installed conductor
+موصل هوائي	air conductor
+موصلات حرارية، نواقل حرارية	heat conductors
+موصلية	conductance
+موصّلية أيونية	ionic conductance / ionic conductivity
+موصلية جزيئية مولالية	molar conductance
+موصلية حرارية	heat conductivity
+موصِّلية صوتية	acoustic conductivity
+موصِّلية فائقة	superconductivity
+موصّلية كهربائية	electrical conductivity
+مُوصِلِيَّة كهربائية، ناقلية كهربائية	electrical conductivity
+موصلية متبادلة	mutual conductance / mutural conductance
+موصلية مكافئة	equivalent conductance
+موضع خلالي	interstitial position
+موضوعة؛ مُسَلَّمة	postulate
+موقع	site
+موقع حضري (ن)	urban sitting
+موقع ساحلي (ن)	coastal sitting
+مول، جزيء غرامي	mole
+مولّد	generator
+مولِّد إشارات	signal generator
+مولَّد إشعاعيًا	radiogenic
+مولّد التيار	current generator
+مولد التيار المزدوج	double-current generator
+مولد الدَّوال	function generator
+مولِّد الضجيج	noise generator
+مولد النترونات (ن)	neutrons generator
+مولد أمواج مربَّعة	square wave generator
+مولد أيوني	ionogenic
+مولد تعاقبي	cascade generator
+مولد تيار متناوب	generator AC
+مولد تيار مستمر	D.C. generator / DC generator / generator DC
+مولّد فارادي	Faraday generator
+مولِّد فان دوغراف	Van de Graff generator
+مولد فان دي غراف	Van de Graaff generator
+مولد كَهْراكدي	electrostatic generator
+مولد كهربائي	dynamo / electric dynamo
+مولد كهربائي؛ دينامو	dynamo
+مولد كهرساكن	electrostatic generator
+مولِّد نبضات	impulse generator / pulse generator
+مولِّد نترونات	neutron generator
+موليبدِن	molybdenum
+مولية حجمية	molarity
+مولية وزنية	molality
+مونومير، أحادي الجزيء	monomer
+موه	mho
+مُوهِن	attenuator
+مويجة	ripple; undulation / wavelet
+ميدان التمثيل الترددي	frequency domain
+ميدان الزمن	time domain
+ميز (ن)	resolution
+ميز عال (ن)	high resolution
+ميزان	balance
+ميزان التسوية، قبان التسوية	spirit level
+ميزان التيار	current balance
+ميزان الفتل	torsion balance
+ميزان اللي	torsion balance
+ميزان تحليل	analytical balance
+ميزان حرارة غازي	gas thermometer
+ميزان حسّاس	sensitive balance
+ميزان ذو عاتق	beam balance
+ميزان ذو عارضة	beam balance
+ميزان ذو نابض	spring balance
+ميزان غير مضبوط	false balance
+ميزان مائي سكوني	hydrostatic balance
+ميزان ميكانيكي	mechanical balance
+ميزان، توازن	balance
+ميزر	maser
+ميزة طيفية	spectral characteristic
+ميزوترون (ال...)، ميزون	mesotron
+ميزون	meson / meson; mesons
+ميزون باي	pi-meson
+ميَسَان	libration
+ميغا	mega
+ميغا أوم	megaohm
+ميقاتية	pendulum clock
+ميقاتية ذرية	atomic clock
+ميكا	mica
+ميكاأوم، ميجاأوم	meghom; megaohm
+ميكانيك (ال...)	mechanics
+ميكانيك (ال...) الموجي (ن)	wave mechanics
+ميكانيك إحصائي	statistical mechanics
+ميكانيك الكم	quantum mechanics
+ميكانيك المصفوفات	matrix mechanics
+ميكانيك الموائع	fluid mechanics
+ميكانيك تحليلي	analytical mechanics
+ميكانيك تقليدي	classical mechanics
+ميكانيك حدّي الشروط	hereditary mechanics
+ميكانيك سماوي	celestial mechanics
+ميكانيك كمومي نسبوي	relativistic quantum mechanics
+ميكانيك لانسبوي	nonrelativistic mechanics
+ميكانيك موجي	wave mechanics
+ميكانيك نيوتني	Newtonian mechanics
+ميكروفون السلك الحار	hot-wire microphone
+مَيْل	dip; inclination / inclination
+ميل؛ انحدار	slope
+ميوعة	fluidity
+ميوعة؛ مَيْع	fluidity
+ميون	muon

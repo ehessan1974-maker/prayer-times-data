@@ -1,0 +1,176 @@
+صاروخ قَذْفي	ballistic missile
+صامد	invariant
+صامد للصدمات	shockproof
+صبغ	pigment
+صَدّ	blocking
+صدٌّ، إيقاف	blocking
+صدر الموجة	wave-front / wavefront
+صدم	impact / shock
+صدم لامرن	inelastic impact
+صدم لدن	plastic impact; inelastic impact
+صدم مرن	elastic impact
+صدمة حرارية	thermal shock
+صدمة مُسَلَّطَة	applied shock
+صدى	echo
+صدى متعدد	multiple echo
+صدى مزدوج	paired echo
+صدى موسيقي	musical echo
+صعود شعَري	capillary rise
+صفاء	purity
+صفاء اللون	purity of colour
+صفاء لوني	colorimetric purity; coorimetry factor
+صفائح التداخل	interference plates
+صفائح مهتزة	vibrating plates
+صُفَّاحة بِلورية	crystal slab
+صفّارة	whistle
+صفارة انذار	siren
+صفر (ال...) المُطْلَق	absolute zero
+صفيحتا الانحراف الشاقولي	vertical deflection plates
+صفيحة الدعم العليا (ن)	top tie plate
+صُفَيْحة بلّورية، شِحفة	crystal blank
+صفيحة بورون (ن)	boron plate
+صفيحة حسّاسة	sensitive plate
+صفيحة ذات انكسار مضاعف	birefringent plate
+صفيحة ذات فتحة	orifice plate
+صفيحة ربع موجة	quarter-wave plate
+صفيحة ربع موجية	phase plate / quarter-wave plate
+صفيحة رقيقة	lamina
+صفيحة متوازية الوجهين	parallel sided plate
+صفيحة معوِّضة	compensating plate
+صفيحة مناطق	zone plate
+صفيحة موجبة	electropositive plate
+صفيحة موجية	wave plate
+صفيحة نصف ظليّة	half-shade plate
+صفيحة نصف موجة	half-wave plate
+صفيحة نصف موجية	half-wave plate
+صفيحة وقود (ن)	fuel plate
+صفيف خزن الصورة	image-storage array
+صفيف مستطيل	rectangular array
+صقل بالمنحل الكهربائي	electrolytic polishing
+صقل ضوئي	optical polishing
+صقيع	frost
+صقيع أبيض	hoarfrost; white frost / white frost
+صلابة مغنطيسية	magnetic rigidity
+صَلادة	Bierbaum hardness / rigidity
+صلادة مغنطيسية	magnetic rigidity
+صلب	solid
+صلب؛ صلد؛ جامد	solid
+صلة (ال...) الأحادية	singlet linkage
+صلة إشعاعية	radioactive relationship
+صلة، رابطة	linkage
+صُلية العين	sclera
+صمام	valve
+صمام الأمان	relief valve / safety valve
+صمام الانحراف	deflection valve
+صمام التحكّم	control valve
+صمام العزل (ن)	isolation valve
+صمام الكتروني	electron tube
+صِمام إلكتروني؛ أنبوب إلكتروني	electron tube / vacuum tube
+صمام المزج، مغيِّر التردد	mixing tube; frequency changer / mixing valve
+صِمام أمان	safety valve
+صمام انحراف الحُزْمَة	beam deflection tube; deflection valve
+صمام انزلاقي	slide valve
+صمام أيوني حراري	thermionic valve
+صمام ثلاثي	three-electrode vacuum tube
+صِمام ثلاثي المساري	triode
+صمام ثلاجي غازي	gas triode
+صمام ثُماني المساري	octode
+صمام ثنائي المساري	diode tube
+صِمام حزمة قطرية	radial-beam tube
+صمّأم خماسي	pentode
+صِمام خماسـي الشبكات	pentagrid valve
+صِمام خماسـي المساري	pentode
+صمام خماسي حاد القطع	pentode (sharp cut-off…)
+صمام درء، صمام صدّ	buffer tube
+صِمام رباعي المساري	tetrode
+صمام سداسي المساري	hexode
+صمام ضوئي	light valve
+صمام عدد عشري	decade counter tube
+صمام غازي	gas-filled tube
+صمام قدرة	power valve; power tube
+صمام قدرة حُزْمي	beam-power tube; beam power valve
+صِمام مُخْلًى من الهواء	thermoionic valve
+صمام مزدوج الشبكة	double grid valve
+صمام مقوم	rectifying vacuum tube
+صِمام مقياس الكهرباء	electrometer tube
+صمام منظم للتيار	barreter; current regulator tube
+صِمام؛ دِسَام	valve
+صُمود	invariance
+صندوق الجهد (ن)	potential box
+صندوق جُهد؛ صندوق كُمون	potential box
+صندوق قفازات	glove box
+صندوق قفازات (ن)	glove box
+صندوق مظلم	dark box
+صندوق مقاومات	resistance box
+صندوقي الشكل	box shaped
+صنف انشطاري (ن)	fissile class
+صُهارة، مُهْل	magma
+صوّارة	photographic camera
+صَوَّارة استجلائية	camera lucida
+صوارة ثقبية دبوسية	pinhole image
+صَوَّارة جدارية	camera obscura; dark room
+صوارة دبوسية الثقب	pin-hole camera
+صوت	sound
+صوت أبهر	hollow sound
+صوت الحافة	edge sound
+صوت النفث	jet sound
+صوت مجسَّم	stereophonic sound
+صوت مخمد	dead sound
+صوت موسيقي	musical sound
+صوت نبضي	impulsive sound
+صوت نطقي	vocal sound
+صوتي	phonetic
+صوتيات (ال...)	phonetics; phonics
+صوتيات جهرية	macrosonics
+صوتيات مغنطيسية	magnetoacoustics
+صوتيات وظائفية	physiological acoustics
+صوديوم	sodium
+صورة اشعاعيّة	radiograph
+صورة الانعراج	diffraction pattern
+صورة بؤرية	focal image
+صورة بالإشعاع الذاتي	autoradiograph
+صورة بالاشعاع الذاتي (لجسم حُقِن بالنظائر المشعة	autoradiogram
+صورة بصرية	optical image
+صورة تقديرية	virtual image
+صورة حقيقية	real image
+صورة رسم ضوئي كامنة	latent photographic image
+صورة سلبية	negative image
+صورة شعاعية	radiograph
+صورة طيف	spectrogram
+صورة قائمة	erect image
+صورة كامنة	latent image
+صورة كمومية	quantum mechanical picture
+صورة متحركة	motion pictures
+صورة مصغرة	diminished image / photomicrograph; microphotograph
+صورة مطابقة	replica
+صورة مطابقة؛ نسخة	replica
+صورة مقلوبة	inverted image
+صورة مقلوبة جانبيا	laterally inverted image
+صورة مكبرة	magnified image
+صورة نقطية	point image
+صورة هايزنبرغ	Heisenberg picture
+صورة، خيال	image
+صورة، رسم	photograph
+صوف زجاجي	glass wool
+صيانة عن بعد (ن)	remote maintenance
+صيانة مباشرة (ن)	direct maintenance
+صيغ فرينل	Fresnel formulae
+صيغة	Grüneisen formula / formula
+صيغة العدسات	Gaussian lens formula
+صيغة العوامل الأربعة (ن)	four-factor formula
+صيغة الكترونية	electronic formula
+صيغة أيونية	ionic formula
+صيغة بالمر	Balmer formula
+صيغة بلانك في الإشعاع	Planck's radiation formula
+صيغة تربيعية	quadratic formula
+صيغة جزيئية	molecular formula
+صيغة سترلنغ	Stirling's formula
+صيغة فرينل للانعكاس	Fresnel's reflection formula
+صيغة قطبية	polar form / polarity formula
+صيغة كَكاوس	Geiger formula
+صيغة كوشـي في التبدد	Cauchy dispersion formula
+صيغة كومْتُن	Compton formula
+صيغة لارمور	Larmor formula
+صيغة للاشعاع	Plank radiation formula
+صيغة متسلسلة رَيْدبرغ	Rydberg series formula
+صيغة مكسويل	Maxwell's formula

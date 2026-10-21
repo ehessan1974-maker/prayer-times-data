@@ -1,0 +1,255 @@
+سائل	liquid
+سائل (ال...) المائي للعين	eye aqueous humour
+سائل العين الزجاجي	vitreous humour; vitreous humor
+سائل دليلي	index liquid
+سائل فرمي	Fermi liquid
+سائل قطبي	polar liquid
+سائل لاقطبي	non-associated liquid; non-polar liquid; normal liquid
+سائل مُرَكَّب	complex liquid
+سائل مزاح	displaced liquid
+سائل مشارك	associated liquid
+ساتل	satellite
+ساتل مستقر	stationary satellite
+ساحج	abrasive
+ساطع	bright
+ساعة السيزيوم	cesium clock
+ساعة وقف	stopwatch
+ساق	stem
+ساكن	static
+سالب	negative
+سالب ضوئيا	photo-negative; photo-resistive; light-negative
+ساند	support
+سببي (ن)	causal
+سببية	causality
+سببية (ال...)	causality
+سبكترولوجيا	spectrology
+سَبيكَة	alloy
+سبيكة برمالوي	Permalloy
+سبيكة مرتّبة	ordered alloy
+سبيكة مغنطيسية	magnetic alloy
+سبين	spin
+سَبِين الإلكترون	electron spin
+سبين إيزو باري	isobaric spin
+سبين صحيح	integer spin
+سبين نظيري	i-spin / isospin / isotopic spin
+سبين نووي	nuclear spin
+سترونسيوم	strontium
+ستيراديان	steradian
+سْتِيْلب	stilb
+سجل	register
+سحاب	cloud
+سحابة	cloud
+سحابة الكترونية	electron cloud
+سحَّاحة	buret / burette / pipette
+سَداد البصـر	emmetropia
+سداد النظر	emmetropia
+سدادة التدريع (ن)	shielding plug
+سداسي	hexagonal
+سداسـي فلوريد اليورانيوم	uranium hexafluoride
+سداسي متراص	hexagonal close-packed
+سدسية	sextant
+سديد البصـر	emmetrope
+سراب	mirage
+سراب مرجانا	fata morgana
+سـراب مُرغانا	Fata Morgana
+سرعة	speed / velocity
+سرعة (ال...) الجزيئية الأكيلر احتمالاً	most probable molecular velocity
+سـرعة ابتدائية	initial velocity
+سرعة اعادة التركيب	recombination velocity
+سـرعة الإفلات	escape velocity / velocity of escape
+سـرعة الانتثار	rate of diffusion
+سـرعة الانتشار	velocity of propagation
+سرعة الانسياق	drift velocity
+سـرعة الانفراغ	rate of discharge
+سرعة الانفصال	separation velocity
+سرعة الانفلات	exhaust velocity
+سرعة البرم	spin velocity
+سـرعة التأين الصغرى	minimum ionization speed
+سـرعة التفاعل الكيميائي	rate of chemical reaction
+سـرعة التفكك	rate of disintegration
+سـرعة التفكك الإشعاعي	rate of radioactive decay
+سرعة الجريان الحرجة	critical velocity of flow
+سرعة الجسيم	particle velocity
+سرعة الرقّ التصويري	film speed (photographic…)
+سرعة الصوت	sonic speed / speed of sound / velocity of sound
+سرعة الضوء	speed of light / velocity of light
+سـرعة الطور	celerity / phase velocity
+سـرعة القذف	velocity of projection
+سـرعة المبادرة الزاويِّة	velocity of precession
+سـرعة المجموعة	group velocity
+سرعة الموجة	wave velocity
+سرعة انسياق	velocity (drift…)
+سرعة آنية	instantaneous velocity
+سرعة جزيئية	molecular velocity
+سرعة حجمية	volume velocity
+سرعة حدّية	terminal velocity
+سـرعة حرجة	critical velocity
+سـرعة خطية	linear velocity
+سرعة رباعية	four-velocity
+سرعة زاوّية	angular velocity
+سرعة زاوية عظمى	maximum angular velocity
+سرعة زاوية فعّالة	effective angular velocity
+سـرعة سطحية	areal velocity
+سرعة عظمى	maximum velocity
+سـرعة عودة الاتحاد	recombination velocity
+سـرعة فَرْطُ الصوتية	hypersonic speed
+سـرعة فرمي	Fermi velocity
+سرعة فعّالة	effective velocity
+سـرعة فوق الصوتية	supersonic speed
+سرعة فوق صوتية	supersonic speed
+سـرعة قطرية	radial velocity
+سـرعة كتلية	mass velocity
+سرعة متجهة متوسطة	average velocity
+سرعة متغيرة	variable velocity
+سرعة متوسطة	average speed / average velocity / mean velocity
+سرعة مدارية	orbital velocity
+سرعة مُطْلَقة	absolute velocity
+سـرعة معمَّمة	generalized velocity
+سرعة منتظمة	uniform velocity
+سـرعة ناظمية	normal velocity
+سـرعة نسبوية	relativistic velocity
+سرعة نسبية	relative velocity
+سطح	Fermi surface
+سطح التبريد	cooling surface
+سطح التَّماس	contact surface
+سطح أملس	smooth surface
+سطح بارومتري	barometric surface
+سطح بيني	interface
+سطح بيني؛ بينية	interface
+سطح تربيعي	quadric
+سطح تساوي الكمون	equipotential surface
+سطح تساوي جهد المائع	fluid equipotential surface
+سطح جزيئي مولالي	molar surface
+سطح حر	free surface
+سطح خشن	rough surface
+سطح صقيل؛ سطح أملس	smooth surface
+سطح فرمي	Fermi suface
+سطح فعّال	effective surface
+سطح كاوٍ	caustic surface
+سطح كروي	spherical surface
+سطح لا زيغي	aplanatic surface
+سطح لا كُروي	aspheric surface
+سطح لازيغي	aplanatic points or foci
+سطح لاكروي	aspheric surface
+سطح لولبي	helicoid
+سطح مضاد للانعكاس	antireflector
+سطح من الدرجة الثانية	quadratic surface
+سطح نوعي	specific surface
+سطوح تساوي الجهد	equipotential surfaces
+سطوح وحيدة اللون، سطوح من نفس اللون	isochromatic surfaces
+سُطوع	brightness
+سُطُوعية	brilliance
+سُعرة	calorie; calory
+سعرة غرام	gram-calorie
+سَعَة	capacity
+سعة الاحتمال	probability amplitude
+سعة الاهتزاز	amplitude of oscillation
+سَعة الترابط	coupling capacity
+سعة الذبذبة	amplitude of vibration
+سعة الموجة	wave amplitude
+سعة حثّية نوعية	specific inductive capacity
+سعة حرارية	heat capacity / thermal capacity
+سعة حرارية ذرية	atomic heat capacity
+سعة حرارية نوعية	specific heat capacity
+سعة عقدية	complex amplitude
+سعة كهربائية	electrical capacity
+سَعَة؛ إزاحة زاوية	amplitude
+سَعة؛ مواسعة	capacity
+سَقَطٌ إشعاعي	radioactive fallout
+سقط اشعاعي (ن)	radioactive fall-out
+سَقْط مُشِعّ	fallout
+سقوط	falling / incidence
+سقوط حر	free falling
+سكانديوم	scandium
+سكلوئيد	cycloid
+سكلوترون	cyclotron
+سكونيات (ال...)	statics
+سكونيات (ال...) الحرارية	thermostatics
+سكونيات (ال...) الكهربائية	electrostatics
+سكونيات (ال...) المغنطيسية	magnetostatics
+سكونيات (ال...) الهوائية	aerostatics
+سكونيات السوائل	hydrostatics
+سكونيات الهواء	aerostatics
+سكويدة	SQUID
+سِلاح ذري (ن)	atomic weapon
+سلاح نووي (ن)	nuclear weapon
+سلالة مشعة	radioactive family
+سلامة (ال...) الحرجة النووية (ن)	nuclear criticality safety
+سلامة نووية (ن)	nuclear safety
+سلبية	passivity
+سلبية ضوئية	light-negative; photo-negative; photo-resistive
+سلبية كهركيميائية	electrochemical passivity
+سلبية ميكانيكية	mechanical passivity
+سلسلة	series
+سلسلة (ن)	chain
+سلسلة الأمان (ن)	safety chain
+سلسلة بالمر	Balmer series
+سلسلة براكيت	Brackett series
+سلسلة تفكك النبتونيوم	neptunium decay series
+سلسلة ليمان	Lyman series
+سلسلة مشعة	radioactive chain
+سلسلة نشاط اشعاعي	radioactive chain / radioactive series
+سلسلةخطوط طيفية	series of spectrum lines
+سلك	wire
+سلك التَّماس	contact wire / whisker / whisker; contact wire
+سلك شعري	cat's whisker
+سلك معزول	insulated wire
+سلّم (ال...) الرمادي	gray scale
+سلم (ال...) المئوي	centigrade scale
+سلّم اشباع	saturation scale
+سُلَّم الحرارة المُطْلَقة	absolute temperature scale
+سلم الحراري	Rankine temperature scale
+سلّم تدريجات	scaler
+سلّم ثنائي	binary scale
+سُلَّم درجات الحرارة	temperature scale
+سلم درجة الحرارة الدولي	international temperature scale
+سلم درجة الحرارة الفهرنهايتي	Fahrenheit temperature scale
+سلم درجة الحرارة اللون	temperature color scale; temperature colour sclae
+سلم درجة الحرارة المئوي	Celsisus temperature scale
+سُلَّم سلزيوس	Celsius scale
+سلم صغير ثنائي النغمات	minor diatonic scale
+سلم مئوي	centigrade scale
+سلم معدّل	tempered scale
+سلّم موسيقي	musical scale
+سلم موسيقى ثنائي النغمة	diatonic scale
+سلّم هيدروجيني	hydrogen scale
+سُلَّم؛ تدريج	scale
+سُلَّمي؛ عدديّ	scalar
+سلوك استرخائي، الاسترخاء	relaxation behavior; relaxation bihaviour
+سُليسلة	catenary / catenary; curve
+سليسيوم	silicon
+سم إشعاعي	radioactive poison
+سُم المفاعل	reactor poison
+سماحية	permittivity
+سماحية كهربائية	electrical permittivity / permittivity
+سماريوم	samarium
+سمّاعة	stethoscope
+سمّاعة طبية	stethoscope
+سَمْتٌ	azimuth / zenith
+سمتي	azimuthal
+سمع	hearing
+سمعّي	audio
+سمك النصف	half-thickness; half-value layer; half-value thickness
+سمك النصف (ن)	half-value thickness
+سنكروترون	synchrotron
+سنكروترون بروتوني	proton synchrotron / proton-synchrotron
+سنكروترون، معجل دوراني تزامني	synchrotron
+سنة ضوئية	light year
+سوائل صافية ضوئيا	optically void liquids
+سوّاقة القضبان	rod drive
+سونار	sonar
+سـي دي	CD
+سـي دي روم	CD-Rom
+سـي سـي دي	CCD
+سَيْرُ تفريغ	unloading conveyor
+سير عشوائي	random walk
+سَيْر، حزام	belt
+سيريوم	cerium
+سيزيوم	caesium / cesium
+سيفرت	sievert
+سيكام	SECAM
+سيكلوترون تزامني	synchro-cyclotron
+سيلينيوم	selenium
+سيولة (ن)	fluence
+سيولة الجسيمات (ن)	particle fluence
+سيولة الطاقة (ن)	energy fluence

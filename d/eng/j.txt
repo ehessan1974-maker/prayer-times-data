@@ -1,0 +1,385 @@
+J	درجة الأفق
+J (H) curve	J (H)منحنى
+J (H) loop	J (H) حلقة
+J-band	نطاق J
+J-display	شاشة J
+J1772/CCS combo coupler	موصل الشحن المشترك J1772/CCS
+jack	مِرفاع / رفع (ال...) / دِعامة، مِرْفاع
+jack arch	عقْد مسطح، ساكف الباب
+jack board	دف توصيل الأنابيب، مسند توصيل الأنابيب
+jack boX	صندوق مقابس
+jack knife mast	ساري التوائي
+jack ladder	سُلَّم خشبي ذو حبال جانبية
+jack phone	جهاز هاتف مُتنقِّل
+jack plane	مسحاج تنعيم
+jack post	مسند ذراع التدوير
+jack rafter	رافدة قصيرة مائلة
+jack rib	ضلع ساند، صافدة
+jack shaft	عمود دوران متوسط
+jack shaft; counter shaft	عمود تدوير متوسط
+jack switch	قَاطِع تلقائي
+jack wheel; jackshaft	ذراع التدوير الأوسط
+jack-knife derrick; jack-knife drilling mast	بُرْج حفر طويّ
+Jack-Up Rig	منصة حفر بحرية بقوائم رافعة / مِنَصَّة حفْر بَحْرية بقوائم رافعة
+jack-up speed (JS)	سُرعة الرفع
+jacket	سُتْرَة قصيرة / سُتْرَة / غلاف / سترة كتاب / غلاف (منصَّة الحفر البحرية)
+jacket dress	طقم فستان
+Jacket foundation	أساس هيكل ارتكاز البرج (الجاكيت)
+jacket pipe/ sleeve pipe / casing pipe	أُنْبوب تغليف
+jacket tube module	موديول بغطاء أنبوبي
+jacket water heat	حرارة ماء الدثار
+jackhammer	مِطْرَقة هوائية
+Jackie O. dress	أسلوب جاكي كيندي
+jacking	رافعات أفقية
+jacking force	قوة الرفع
+jacking pipe / jetting pipe	ماسُورة ضخّ
+jackknifing	قفلة المطواة
+jackpad	صفيحة المِرفاع
+jackscrew; screwjack	مِرفاع لولبي
+jackstay	قضيب تثبيت
+Jacobs-Relf equations	معادلات جاكوبس ـ رِلف
+jaconet	قماش قطني رقيق
+jacquard	نموذج جاكار
+jacquard fabric	نسيج جاركارد
+jacquard knitted fabric	قماش تريكو جاكارد
+jacquard velvet	قطيفة جاكارد
+jade	يشم
+jadeite	جاديت
+jaeger 4p pump	مضخة جيغر بمروحة
+jalousie	ستارة بشرائح أفقية، حصيرة النافذة
+jam nut; lock nut	حَزْقَة حصْر، حَزْقَة دائمة
+jam nut; stop nut	صامولة زَنْق
+jamb	عضادة، حلْق / عضادة
+jamb post	قائم العضادة
+jamb stone	عضادة حجرية
+James	جيمس
+James; mu-meter; Stradograph; tribometer	مقياس الاحتكاك
+jamesonite	جمسونايت
+jammed	مَلْصُوب
+jammer	مُشوِّش
+jamming	تشويش
+jamming of the saw blade	انحصار نصل المنشار
+janitorial services	خدمات تنظيف المباني و المكاتب
+janker jacket	سترة يانكر
+Janus coat	فستان يانوس
+janus sleeve	كم يانوس
+Janus system	نظام جانوس
+Japan silk / Japanese silk	حريرٌ يابانيّ
+Japanese tissue paper	الورق النسيجي الياباني
+Japanese twin law	قانون التوأمة الياباني
+japanner	مبرنِق
+japanning	برنقة
+jar	مطرقة خلخلة
+jar socket; jar-tongue socket	أداة التقاط، خُطّاف التقاط
+jar test	اختبار أنبوبي
+jar tester	جهاز اختبار وصلات الخلخلة
+jar-down spear	أداة التقاط
+JAR-E	متطلبات صلاحية الطيران المشتركة الأوربية
+jargoon	جارغون
+jarosite	جاروسايت
+jarring	رَجٌّ، اصطكاك
+jarré	جاري
+jars; drilling jars	مجموعة أدوات الحفر
+jasper	يَشْب
+jaspé	جاسبي
+JATO, Jato; jet assisted take-off	إقلاع مُعَزَّز بنفّاث
+jatropha	يَطْروفَة
+Java canvas	جافا
+Java jute	قنب جاوه
+jaw	فك
+jaw fold	طيّة فكّيّة
+jaw folder	جهاز طيّ فكّي
+JB 114	جيه بي 114
+JB 116	جيه بي 116
+JB 117	جه بي 117
+jeans	جينز
+jeans and jeanswear washing out	طرق التنظيف لمنتجات الجينز
+jeans fabric	أقمشة جينز
+Jeans suit	بذلة جينز
+jeans wear	ملابس الجينز
+Jeddah IPP PV	مشروع محطة جدة للطاقة الشمسية الكهروضوئية
+jelly roll	لفة هلام
+Jeppsen	مخططات جبسُن
+jerk	معدَّل تغيُّر التسارع
+jerk line	كَبْل الدقّ، كَبْل الرجّ
+jersey	جيرسيه
+jersey bedding	ملاءت جيرسي
+jersey lapping	تراكب نسيج التريكو
+jersey quadrillé	جيرسيه ذو مُربَّعات
+jersey weave	تريكو
+jet	نَفْث / نفّاث
+jet advisory area	منطقة استشارية للطائرات النفاثة
+jet advisory service	خدمة استشارية للطائرات النفاثة
+jet aeration	تهوية بالنفث
+jet age	عصر الطائرات النفاثة
+jet aircraft	طائرة نفاثة
+jet bit	مِثْقَب نَفَّاث
+jet blower	مروحة نفاثة، منفاخ نفّاث
+jet cement	إسمنت منفوث
+jet condenser	مُكَثِّف بالحقن، مُكَثِّف نافوري
+jet deflector	حارِف نَفْثيِّ / حارِف نَفْثِّي
+jet diffusion	انتشار النفْث
+jet diffusion basin / jet diffusion stilling basin	حَوْض انتشار النفْث / حَوْض تهدئة مع رذاذ لإخماد النفْث
+jet engine	مُحَرِّك نفّاث / محرك نفّاث
+jet flap	قلاّبة نفّاثة
+jet flow gate	بوابة تدفق نَفْثيّ
+jet force	دفع طائرة نفاثة
+jet fuel	وقود الطائرات النفاثة / وقود الطائرات النفاثة، وقود النفاثات / وقود الطائرات
+jet heater	سخانة نافورية
+jet jewelry	كَهْرَمان أَسْوَد
+jet lag	تَفَاوُت زمني للتيار
+jet lift	رَفْع نفّاث
+jet mixer	خلاّط نَفَّاث
+jet noise	ضوضاء طائرة نفاثة
+jet nozzle	فوهة النفّاث
+jet orifice	فتحة النفّاث
+jet pipe	أنبوب نفّاث / أنبوب تفريغ
+jet plane	طائرة نفّاثة
+jet power	قدرة نفّاثة
+jet propulsion	دفع نفّاث
+jet propulsion engine	محرك دفع نفّاث
+jet pump	مِضخّة نافثة / مضخة نفّاثة / مضخة نفاثة، مضخة نافورية
+jet rock bit	مثقب صخور نفاث، مثقب صخور مهمازي
+jet route	طريق الطائرات النفّاثة
+jet sheet	صفيحة نفّاثة
+jet sound	صوت النفّاث
+jet stream	تيار نفاث
+jet tab; jetavator	مُوَجِّهَة النفث
+jet texturing	نسج بالهواء
+jet tube drier	مجففة بصنابير
+jet vane	ريشة توجيه النفث
+jet velocity	سرعة النفث
+jet washing equipment	آلة شَطْف بالدفقات
+jet, annular / jet, hollow	نَفْث حلقيّ
+jet, drowned / jet, submerged	نفث مغمور / نَفْث مَغْمُور / نَفْث غاطِس
+jet, partially drowned / jet, partially submerged	نَفْث مَغْمُور جُزئياً
+jet-edge shear	قصُّ حافة النفاث
+jet-fuel starter	بادئ الوقود النفّاث
+jet-propelled	مُسَيَّر بنفّاث
+jet-turbine powerplant	مجموعة المحرك العنفي النفّاث
+Jet; jet propellant; JP	وقود نفّاث
+jetevator	مُوَجِّهة النفث
+Jetronic	نظام 'ﭽيترونيك' (Jetronic)
+jetstream	تيار نفثي
+jetted particle drilling	حفر بنفث كريات من الحديد الصّبّ
+jetting	نَفْث / تآكُل / تآكل / انحراف بنفث الطين (في الاتجاه المرغوب فيه)
+jettison	طَرْح
+jettison gear	جهاز الإسقاط
+jetty	حاجز / رصيف مرفئيّ
+jetway	طريق نفّاث
+JI project	مشروع التنفيذ المشترك
+jib	ذراع الرَافِعَة
+jib crane	رَافِعَة ذراعية / مرفاع
+jib support truck	عَرَبَة شَحن ذراعية
+jig	دليل / مُوَجِّه
+jig-saw	منشار منحنيات
+jigger	دعامة البليارد
+jiggle	فرضة
+jiggle bars	قضبان الرنين
+jigsaw	منشار مُنحنيات / منشار
+jigsaw-effect	عرق معدني غني Bonanza
+jink	يتفادى
+Jitter	تقلقل / إضطرابات فى الموجه (ارتعاش) (نقلقل الإرسال) / تَقَلْقُل
+jitter,	تقلقل الإرسال قصير المدى (لإرسال رقمي) / إرتعاش ( في التلفاز) / عدم استقرار ( في الإرسال الرقمي ) / تقلقل - عدم استقرار القراءة
+Jo-bolt	مسمار جُو
+job order	مظروف أمر التشغيل
+job ticket	تذكرة وظيفة
+job – mix concrete	خرسانة تُحضَّر في الموقع
+Jobfit®	جوبفيت
+jock briefs	جوك
+jockey	جهاز الشّدّ، نبيطة الْقَرْن
+jockey cap	قبعة جوكي
+jodhpurs	بنطال ركوب الخيل
+jodhpurs / riding breeches	سروال ركوب الخيل
+jogging machine	مِدَقّ
+joggle	دسار / فرضة، لسان
+joggle beam	عارضة بدِسار
+joggling	تعشيق
+joggling tool	زردية تخطية
+johannsenite	جوهانسينايت
+John Wayne collar	ياقة جون واين
+joiner's adze	قدوم
+joiner's compass; carpenter's compass	الدّوّارة، بركار، فرجار
+joiner's glue	غراء الخشب
+joinery	نجارة
+joinery work	أشغال نجارة
+joinery workshop	مشغل نجارة
+joining plate	لوح ربط
+joint	وصلة مفصلية / فَاصِل / فاصِل / فاصل / وصلة ألياف ضوئية / وصلة / وُصْلة
+joint (1)	وصلة صلبة
+joint (2)	وصلة
+Joint (rail joint)	وصلة قضيب
+joint / connection / joint assembly	وصْلة
+joint attribution	إسناد مشترك
+joint casing; joint box	صندوق وصلة
+joint development	التنمية المشتركة
+joint drains / vertical drains	مَصْرِف رأسيّ
+joint entropy	الانتروبيا المشتركة؛ القيمة المتوسطة المشتركة لمحتوى المعلومات
+joint ferrule; through connector (of cables)	رابط مباشر (للكابلات)؛ حلقة ربط
+joint filler	حُشوَة الفَوَاصِل / حشوة فواصل / مالىء الوصلة
+Joint implementation	تنفيذ مشترك
+joint implementation (ji)	تنفيذ مشترك / التنفيذ المشترك (JI)
+joint implementation committee (jic) (flegt)	لجنة التنفيذ المشترك في إطار إنفاذ قانون الغابات والحكامة والتجارة
+joint implementation supervisory committee (jisc)	لجنة الإشراف على التنفيذ المشترك
+joint information content	محتوى المعلومات المشتركة
+joint interchange station where two lines cross at different levels	محطة طوابق
+joint liaison group (jlg)	فريق اتصال مشترك
+joint management	إدارة مشتركة
+Joint Ministerial Monitoring Committee (JMMC)	اللجنة الوزارية المشتركة لمراقبة الإنتاج
+joint national action plan (jnap)	خطة عمل وطنية مشتركة
+Joint Operations (JO)	العمليات المشتركة
+joint ownership (of party wall, etc.)	مشاركة
+Joint railway station	مَحَطَّةُ خُطُوْطٍ حَدِيدِيَّةٍ مُشْتَرَكَة
+joint seal	مِلء فَواصِل (الوَصلات)
+joint sealing	رَبطُ الفَوَاصِل
+joint sealing compound	مانعات التسرب للمفاصل
+joint sealing filler; joint sealing material	مادة حَشْو
+joint spring	نبع صدى
+joint station where two lines cross at level	محطة تقاطع
+joint station where two lines meet but do not cross	محطة مسارات متلامسة
+joint stock company; public limited company	شركة مُساهمة
+joint strenght	قوة الوصلة
+Joint Technical Committee (JTC)	اللجنة الفنية المشتركة
+joint treatment	مُعالَجة مُجمَّعة
+joint venture	مشروع مشترك
+joint with bolts	وصلة بالمحازق
+joint with nails	وصلة بالمسامير
+joint with pegs	وصلة بالدّسر
+joint with screws	وصلة باللوالب
+Joint Working Group	فريق العمل المشترك
+joint – sealing material	مادة خاتمة للفواصل
+joint, adjustable	وُصْلة انضباطية / وُصْلة أُنْبوبية انضباطية
+joint, flexible	وصلة متحركة / وُصْلة أنبوبية مَرِنَة
+joint, longitudinal	وُصْلة طُولية
+joint, mechanical flexible	وصلة ميكانيكية مَرِنَة
+joint, rigid	وُصْلة أُنْبوبية صلبة
+joint-cover; jointing (of wall)	قدّة
+joint-sleeve insulation	عزل كم الوصلة
+joint-use restricted area	منطقة محظورة مشتركة الاستعمال
+joint; connection	وُصْلة
+joint; rail joint	وصلة السكة
+jointed	مفصلي
+jointed face	وجه موصّل
+jointed flange	شفة وصل
+jointed reinforced concrete pavement (JRCP)	تكسية ببلاطة من الخرسانة المسلحة
+jointed unreinforced concrete pavement	تكسية بخرسانة غير مسلحة
+jointer	مِسجّة
+jointing	وصل / ملء
+jointing cutter	فريزة للوُصَل
+jointing screw	لولب الربط
+jointing technology	تقنية الوصل
+jointless track circuit	دائرة مسار منفصلة
+joints	مفاصل
+joints with cramps	وصلة بالمرابط
+joist	جائز ثانويّ
+joists	رافدة، لاحك
+Jordan diagram	ثابت التخلفية لقلب
+Josephson junction	وصلة (جوزيفسون)
+Joukowsky theory	نظرية جوكوفسكي
+joule	جول (J) / جول (وحدة طاقة) / جول
+joule (J)	جُول / جول
+Joule constant	ثابت جول
+Joule cycle; Brayton cycle	دورة برايتون
+Joule effect	تأثير (جول)
+joule process	عملية جول
+Joule-Thomson effect	ظاهرة جول-طومسون
+Joule/Kelvin effect	ظاهرة جول/كِلفِن
+Joule/Thompson coefficient	مُعامِل جول/تومبسون
+Journal	مرتكز المحور
+journal (of a shaft)	مقعد (عمود الدوران)
+journal bearing	كرسي تحميل محوري أملس / كرسي ارتكاز العمود
+journey, trip	رحلة
+joystick	عصا التحكم
+judas	عين الباب
+judged perceived noise level	مستوى الضوضاء المُدرَك المقدّر
+judgment	تَقْدِير / حكم
+judicial	قضائي
+judicial robe	بذلة المحامي
+judo jacket	بذلة الجودو
+jule's own version of an international algorithmic language,(J.O.V.I.A.l.)	لغة جول الخوارزمية الدولية (جوفيال)
+jumbo	كبير جداً
+jumbo burner	موقد كبير الشعلة، زيت الإشارات
+jump height curve	مُنحنى ارتفاع القفزة
+jump instructions	تعليمات الايقاف المؤقت
+jump jet	نفّاث القفز
+jump over	وصلة أنبوب، أنبوب توصيل
+jump take-off	إقلاع قفزي
+jump, hydraulic	قَفْزَة مائية
+jump, undular	قَفْزة هيدرولية جزئية
+jumper	وصلة عبور / وصلــة عبــور
+jumper / sweater / pullover	كنزة صوفية
+jumper and cardigan set	سترة وقميص مدمجان
+jumper board	لوحة توزيع الاسلاك
+jumper cable,	كبل وصلة تجسير,
+jumper flag; jumper lug	وصلة تدلي عبور
+jumper header	مُجمِّع المِثْقَب الدَّقَّاق
+jumper look	فستان نَطّاط
+jumper terminal	وصلة نهاية
+jumper tubes	أنابيب توصيل أفقية (في المراجل)
+jumping characteristic	خاصية قفز
+jumpmaster	قائد القفز
+jumpsuit /playsuit	زي الجمباز
+junction	تَقَاطُع / عقدة تفرُّع / وصلة / توصيل / ملتقى
+junction (2)	محطة تقاطع
+Junction (cross-over)	تقاطع (التحويلة)
+junction accident	حَادِث فِي مُلْتَقَى الطُّرُقِ
+junction at grade; grade junction	مُلْتَقًى مُسْتَوٍ
+junction between public railway and industrial branch line/railway	تداخل الخطوط العامة والصناعية
+junction block	مجموعة توصيل
+junction box	صندوق الوصل / صندوق توصيل / علبة وصل / صندوق توصيل ( أو توزيع)، علبة توصيل
+junction box electronic (JBE)	إلكترونيات صندوق التوصيل (JBE)
+junction canal / connecting canal	قناة توصيل
+junction center, junction station	محطة السكك الحديدية الرئيسية
+junction circulator	ممرر دوراني (لموجة) / مدوِّر وصلة
+junction curve	منحنى توصيل / منحني وصل
+junction frequency	تردد الوصلة
+Junction indicator	مؤشر الإتجاه
+Junction line	سكة وصل
+Junction point	نقطة التقاء
+junction signal	إشارة وصلة الطرق / إشارة تفرع
+junction station	محطة توصيل
+junction temperature	درجة حرارة الوصلة
+junction to a siding in section	تقاطع طرق
+junction-gate field-effect transistor	ترانزستور(محكوم بالمجال الكهربائي) ذو بوابات تكون وصلاتPN
+Junction: Double junction	تقاطع (التقاطع المزدوج)
+junction; node of main routes	عقدة الطرق الرئيسية
+jungle	دغْل
+jungle look	طراز غابوي
+jungle patterns	نموذج الغابة
+junk basket	سَلَّة التقاط التألف، دَلْو التقاط القِطَع الصغيرة
+junk basket-parts	أجزاء دلو التقاط للقطع الصغيرة
+junk catcher	طَوْق التقاط ذو شَفْرات
+junk shot	خَرْطوشة لتنظيف الآبار
+junk sub	سَلَّة الرواسب
+junkhead	رأس إحكام الحَشو
+junkhead ring	حلقة إحكام الحَشو
+junp leads [UK] / jumper cable [US]	كابل المساعدة على بدء الدوران
+Jurassic period	عصر (ال..) الجوراسي / عَصْر جوراسي
+juridical	عدلي
+jurisdiction	نِطاق الكفاءة / الولاية القضائية / السلطة القضائيَة
+jurisprudence	اجتهاد (في القانون)
+jury strut	قائم انضغاط مؤقت
+juscanz	JUSCANZ البلدان الصناعية من خارج الاتحاد الأوروبي
+jusscannz	مجموعة عمل لدول صناعية خارج الاتحاد الأوروبي
+just scale	مقياس مضبوط
+just-in-time	في الوقت المناسب
+just-in-time production	إنتاج في الوقت المناسب
+justice of funding	عدالة التمويل
+justifiable digit time-slot; stuffable digit time-slot	حيز زمنى رقمى مبرر
+justification	ضبط طول الأسطر
+justification instant; stuffing instant	لحظة تبرير
+justification rate; stuffing rate	معدل التبرير
+justification ratio; stuffing ratio	نسبة التبرير
+justification service digit; stuffing service digit	عنصر ( رقمي ) لخدمة التبرير
+justifying digit; stuffing digit	عنصر ( رقمي ) للتبرير
+justifying spaces	تباعدات ضبط الأسطر
+jut	نتوء، بروز
+jute	ألياف القنب
+jute blended yarn	مزيج خيط خيش
+jute quality	درجات جودة القنب
+jute substitute fibers	ألياف البديلة للقنب
+jute thread	خيط خيش مبروم
+jute yarn	خيط الخيش
+jutting window	نافذة ناتئة
+juvenile water	ماء وليد
+jökulhlaup	سيلان بحيرة جليدية

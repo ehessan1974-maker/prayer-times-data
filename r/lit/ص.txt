@@ -1,0 +1,112 @@
+صائت أمامي	Anterior vowel / Bright vowel
+صائت بسيط	Monophtong
+صائت خلفي	Back vowel / Posterior vowel
+صائت عالٍ	High (Vowel)
+صائت قصير	Breve vowel
+صائت متوسط	Abnormal vowel
+صائت مُثَلَّث	Triphtong
+صائت محايد	Chwa
+صائت مركب	Diphtong
+صائت مستدير	Round vowel
+صائت مغلق	Blocked vowel
+صائت مقيد	Bounded vowel
+صائت منخفض	Low vowel
+صائت منفتح	Open vowel
+صائت، حركة (في الاصطلاح النحوي العربي.)	Vowel
+صائتي	Vocalic
+صالون أدبيّ إلكترونيّ	electronic litrary salon
+صامِت	Consonant
+صامت وَسَطِيّ	Medial consonant
+صامِتي	Consonantal
+صحّة اللّفظ	Verbal Hygiene
+صدر الرّكح	Apron - stage
+صدر أو عجز	hemistich
+صَدْر كلمة	Sigle
+صدى	echo
+صديق الصّديق	Friend of a Friend
+صراع أدبيّ، خصومة أدبية	literary coflict
+صراع القدماء والمحدَثين	ancients and modernists quarrel
+صِرَافة، صَرْف	Morphology
+صرف تركيبي	Morphosyntax
+صرفية	Morphem
+صرفية دنيا	Morph
+صرفية مقيدة	Bound morphem
+صَرِيح	Explicit
+صريري	Strident
+صفحة مُبدعة	right hand page
+صِفْر	Zero
+صِفَة	Attribute
+صِفَةٌ مُقدَّمة	Preadjective
+صفة وصفية	epithet
+صفوة اللغة	Purism
+صفيحة	Blade
+صَفِيحِيّ، حافي	Laminal
+صَفِيرِيّ	Sibilant
+صلة محددة	Relative determinative sentence
+صَمْت	silence
+صناعة	workmanship
+صُنَافة	Nomenclature
+صنف	literary genre
+صِنف الكلمة المغلقة	Closed (Word Class)
+صِوَاتة	Phonology / phonology
+صِوَاتة التغيرات	Phonochronology
+صواتة تأليفية	Phonotax
+صواتة تقابلية	Contrastive phonology
+صِوَاتَة صرفية	Morpho phonology
+صواتة قطعية	Segmental phonology
+صِوَاتِي	Phonologic
+صَوْت	Sound / voice
+صوت ارتداديّ	Retroflex
+صوت الحرف السّاكن	Affricate
+صوت الرّاء ما بعد حرف العلّة	Post-Vocalic /r/
+صوت العقل	Voice of reason
+صوت المؤلّف	Authorial’s voice
+صوت حروف العلّة المركزيّة	Schwa
+صوت حِكَائي	Onomatpeia
+صوت خلفي	Back sound
+صوت صفيحي	Blade sound
+صوت غير منطوق	Mute
+صوت فردي	Idiophonem
+صَوْت مجرَّد	Abstract sound
+صوت نقريّ	Tap
+صوتة	Phone
+صوتوي	Phonemic
+صوتويات، صِواتة	Phonematics
+صَوْتِي	Phonic
+صَوْتيات	Phonetics / phonetics
+صوتيات إصغائية	Acoustic phonetics
+صوتيات تاريخية	Historical phonetics
+صوتيات تلفظية، صوتيات نطقية	Articulatory phonetics
+صوتيات سمعية	Auditory phonetices
+صوتيات فزيولوجية	Physiological phonetics
+صوتيات مخبرية	Laboratory phonetics
+صَوْتِيَة	Phonem
+صوتية جامعة	Archiphoneme
+صور شعرية	imagery
+صَوْرَنَة	Formalisation
+صُورة	figure / image
+صورة بلاغية	Rhetoric Form
+صورة بيانية	Expression form / Trope
+صُورَة كِتابية	iconogram
+صُورة مَعْنوية	ideogram
+صوفية	mysticism
+صويت	Svarabhakti
+صِيَغة	Scheme / locution / version
+صيغة التصغير	Dimunitive
+صيغة التعجب	Interjection
+صيغة التكثير	Intensive
+صيغة التكلف	Conative
+صيغة التمني	Optative
+صيغة الثبوت	Gnomic
+صيغة الحال، مضارع	Present
+صيغة الماضي المركب الثاني	Pluperfect; past perfect
+صيغة المبني للمعلوم	Active voice
+صيغة أولية	Basic form
+صيغة تحبّب	Hypocoristic
+صيغة سببية	Causative form
+صيغة فعلية مجردة	Verb (Infinitive)
+صِيغَة لاَحِنَة	Agrammatical form
+صيغة مجاملة لطائفة معيّنة	Phatic (Communion)
+صيغة مُحْدَثَة	Neoform
+صيغة مُقَيَّدة	Bound form
+صيغة، شَكْل	Form

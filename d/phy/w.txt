@@ -1,0 +1,124 @@
+wake	خضربة / أثر المَخْر
+wall effect	أثر جداري
+wall energy	طاقة حاجز / طاقة الحاجز
+wall friction	احتكاك جداري
+wall-type ionization chamber	غرفة تأين جدارية (ن)
+waste disposal	تخلص من النفايات (ن) / تخلُّص من النُفايات
+waste management	ادارة النفايات (ن)
+waste recovery	استرداد من النُفايات
+waste storage	تخزين النفايات (ن)
+waste treatment	معالجة النفايات (ن)
+wastes	نُفايات
+water contamination monitor	مرقاب تلوث المياه (ن)
+water cooled reactor	مفاعل مبرَّد بالماء
+water demineralizing	انتزاع المركبات المعدنية من الماء
+water energy	طاقة الماء
+water equivalent	مكافئ مائي
+water equivalent of a substance	المكافىء المائي لجسم
+water hammer	مِطرقة مائية
+water jet	نفاث ماء
+water logging	تسرب الماء (ن)
+water meter	عدَّاد الماء
+water moderated reactor	مفاعل مهدّأ بالماء (ن)
+water molecule	جُزَيْء الماء
+water power	طاقة المياه
+water-pump	مضخة مائية / مِضخة مائية
+watt	واط
+watt definition	تعريف الواط
+watt number per horse power	قدرة الحصان بالواط
+watt-hour	واط ساعة
+watt-hour meter	مقياس الواط ساعة
+wave	موجة
+wave amplitude	سعة الموجة
+wave analyzer	محلِّل موجي
+wave crest	ذروة الموجة
+wave equation	معادلة الموجة
+wave form	شكل الموجة
+wave function	دالة الموجة (ن) / دالة موجية
+wave guide	مرشد الموجة / دليل الموجة
+wave length	طول الموجة
+wave mechanics	ميكانيك (ال...) الموجي (ن) / ميكانيك موجي
+wave motion	حركة موجية
+wave number	عدد موجي (ن) / عدد موجي
+wave optics	البصـريات الموجية
+wave pachet	رزيمة أمواج
+wave packet	رزمة أمواج
+wave plate	صفيحة موجية
+wave propagation	انتشار الموجة
+wave theory	نظرية (ال...) الموجية
+wave theory of light	نظرية الضوء الموجية
+wave theory of matter	النظرية الموجية للمادة
+wave vector	متَّجه موجي
+wave velocity	سرعة الموجة / سـرعة الموجة
+wave-front	صدر الموجة
+wave-particle duality	ازدواجية الجسيم والموجه (ن) / ثنائية الجسيم والموجة
+waveband	حزمة موجية
+waveform	شكل الموجة
+wavefront	صدر الموجة
+wavelength	طول الموجة
+wavelet	مويجة
+wax	شمع
+waxed paper	ورق مشمَّع
+weak forces	قوى ضعيفة
+weak interactions	تآثرات ضعيفة
+weak lens	عدسة ضعيفة
+weathering	تعرية / تَجوِيَة
+weber	فيبر
+wedge	وتد
+wedge filter	مرشِّح وَتَدي
+weight	وزن / ثِقَل؛ وزن
+weight of air	وزن الهواء
+weightlessness	انعدام الوزن
+Wein displacement law	قانون فين في الانزياح
+Wein's law	قانون فين
+Weiss magneton	مغنطون فايس
+Weiss molecular field	حقل فايس الجزيئي
+Weiss theory of ferromagnetism	نظرية فايس في المغنطيسية الحديدية
+well moderated	حسن التعديل (ن)
+Weston cell	خلية وسطن
+wet and dry bulb hygrometer	مرطاب المحرارين الجاف والرطب، هجروميتر ذو البصلتين
+wet and dry hygrometer	مقياس الرطوبة النسبية
+wet-well	بئر رطبة (ن)
+wetting agent	وسيط ترطيب
+wetting agent; surface-active agent	عامل الترطيب
+wheatston bridge	قنطرة
+Wheatstone bridge	جسـر وطسْطُن
+wheel and axle	عجلة (ال...) والمحور
+wheel-barrow	عربة اليد
+wheelbarrow	عربة اليد
+whisker	سلك التماس
+whisker; contact wire	سلك التماس
+whistle	صفّارة
+white body	جسم أبيض
+white frost	صقيع أبيض
+white heat	حرارة بيضاء
+white light	ضوء أبيض
+white object	جسم أبيض
+wick	فتيل
+wide angle lens	عدسة واسعة الزاوية
+width control	التحكُّم بالعرض
+width of band	عرض النطاق
+Wigner effect	مفعول فيغنر
+Wilson cloud chamber	غرفة / حجرة ويلسن الضبابية
+Wimshurst machine	آلة وِمْشورست
+winch	رافعة / ملفاف
+wind	ريح
+wind instrument	آلة هوائية / آلة نفخ
+wind mill	طاحونة هوائية
+window counter tube	أنبوب عداد ذو نافذة (ن)
+wire	سلك
+wire gauze	نسيج سلكي
+wireless	لاسلكي
+wireless apparatus	جهاز لاسلكي
+wireless receiving set	جهاز استقبال لاسلكي
+wireless telegraphy	إبراق راديوي/لاسلكي
+Wolf's bottle	قارورة
+wolfram	تنغستن
+work	شغل / عمل
+work function	دالة الشغل / دالَّة العمل
+work hardening	تقسية بالطَّرْق
+work hardening; strain hardening	تقسية بالشغل
+workshop	مشغل / ورشة؛ مَشْغَل
+world line	خط عالمي
+wrench	ملوى / مِلْوى؛ مفتاح إنكليزي
+wrought iron	حديد مشغول

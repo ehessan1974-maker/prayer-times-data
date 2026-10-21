@@ -1,0 +1,174 @@
+خارج الخلَيَّة	extracellular
+خارج المركز	eccentric
+خارجي	exo- / external
+خاصة	property
+خاصة شَعْرِيَّة	capillarity
+خاصة عشوائية	accidental proprety
+خاصة مميِّزة	characteristic property
+خاصية	property
+خاصية إضافية	additive property
+خاصِّيّة ذاتية	intensive property
+خاصية سطحية	surface property
+خاصيّة شمولية	extensive property
+خاصية فيزيائية	physical property
+خاصية كيميائية	chemical property
+خافض التوتر السطحي	surface-active agent
+خام	crude / raw
+خام خفيف	light crude
+خام مخفّف (مختزل)	reduced crude
+خامات	ores
+خامات أكسيدية	oxides ores
+خامات تزليق	lube stocks
+خامل	inactive / inert
+خامة	ore
+خَبَث	slag
+خَبث الحديد	iron slag
+خبث قاعدي، خبث أساسي	basic slag
+خبث، جفاء	slag
+خبرة	experience
+خِبْرِيّ	empirical
+خَبْط، دقٌ	knocking
+خُبُوّ (الإشعاع الحراري)	decalescence
+خث، طورب (ال...)	peat
+خُثارة	coagulate
+خَثْرَةٌ دَمَوِيَّة	blood clot
+خَثور	coagulable
+خَثورية	coagulability
+خَدَر	narcosis
+خُراطة النحاس	copper turnings
+خردل	mustard
+خردل النتروجين	nitrogen mustard
+خردة	scrap metal
+خرطوشة المرشح	filter cartridge
+خرطوم مطاطي	rubber hose
+خَرْوَعٌ	ricin
+خريطة وراثية	genetic map
+خَزَف (سيراميك)	ceramic
+خزفي	ceramic
+خزفيات، خِزافة	ceramics
+خسْف	degradation
+خسف حيوي	biodegradation
+خسوف، كسوف	eclipse
+خشب	wood
+خشباني	xyloid
+خشن	coarse / harsh / rough
+خشونة	roughness
+خشونة، جلافة	toughness
+خصائص	properties
+خصائص عينة، خصائص مرئية (للمحاليل)	macroscopic properties (of solutions)
+خصائص مجهرية (للمحاليل)، خصائص ميكروئية (للمحاليل)	microscopic properties
+خصائص مميزة	distinctive properties
+خصوبة	fertility
+خّضٌ	shake
+خضاب الصفراء	bile pigment
+خضّاض	agitator
+خضاض، خضخاضة، رجّاجة	shaker
+خضّاضة	shaking machine
+خضخضة	agitation
+خّطٌ	line
+خط (ال...) الكفافي، كنتور، كفاف	contour
+خط التساوي الحراري	isotherm
+خط الصفر، علامة الصفر	zero-line; zero mark
+خَطُّ امتزاز لانغموير في درجة حرارة ثابتة	Langmuir adsorption isotherm
+خطٌّ ثابتُ درجةِ الحرارة	isotherm
+خَطُّ ثباتِ الحجم	isochore
+خطُّ ثبات درجة الحرارة للانغموير	Langmuir isotherm
+خط طيفي	line (spectrum...)
+خطأ	error
+خطأ التدرُّج، خطأ التدريج	graduation error
+خطأ الجهاز	apparatus error
+خطأ الصفر	zero error
+خطأ القياس	measurement error
+خطأ تجريبي	error (experimental...) / experimental error
+خطأ تحليلي	analytical error
+خطأ تراكمي	cumulative error
+خطأ عشوائي	random error
+خطأ قِلِوي	alkaline error
+خطأ متأصل	inherent error
+خطأ مطلق	absolute error
+خطأ منهجي	systematic error
+خطأ نسبيّ	relative error
+خطَرٌ، مخاطرة	hazard
+خطوط تساوي الحرارة	isothermal lines
+خطوة محددة للسرعة	rate controlling step
+خطيّ	linear
+خفّان	pumice
+خفي	occult
+خلٌّ	acetum / vinegar
+خلاء	vacuum
+خِلابة	chelate
+خلات الرصاص	lead acetate
+خلاصة	extract
+خلاصة مائعة	fluid extract
+خلاصة، جوهر	quintessence
+خلاط، مازج	mixer
+خلال	interstice
+خلالة عضوية	organosol
+خلايا عكوسة، قابلة للانعكاس	reversible cells
+خِلْط	humor / mixing
+خلط تلقائي، مزج تلقائي	spontaneous mixing
+خَلَط، مَزَج	mix (to)
+خِلطي	humoral
+خَلْعْ	dislocation
+خَلَف: سابقة	retro-
+خَلْفِيّة	background
+خلق، إنشاء	creation
+خلقي	congenital / inborn
+خلوبيولين، جلوبيولين	globulin
+خَلَوِيّ	cellular / cyt-, cyto-
+خليط	mixture
+خليط تجميد	freezing mixture
+خليط غازي، مزيج غازي	gaseous mixture
+خليط متجانس، مزيج متجانس	homogeneous mixture
+خليط متساوي الجزيئات	equimolecular mixture
+خليط منظم	regulator mixture; buffer solution
+خليط، مخلوط، مزيج	mixture
+خليّة	cell
+خلية الحاجز	diaphragm cell
+خلية ألكتروليتية	electrolytic cell
+خلية أوّلية	primary cell
+خلية بدينة	mastocyte
+خلية تركيز	concentration cell
+خلية جافة	dry cell
+خلية دانيال	Daniel cell
+خلية دانييل	Daniell cell
+خلية دوان	Down's cell
+خلية زئبقية	mercury cell
+خلية شحمية، خلية دهنية	adipose cell
+خلية شمسية	solar cell
+خليَّة عَكوسة	reversible cell
+خلية غلفانية	galvanic cell
+خلية فولطية	voltaic cell
+خليّة كهربائية	electric cell
+خلية كهرضوئية	photocell
+خلية كهركيميائية	electrochemical cell
+خلية كهرليّة	electrolytic cell
+خلية لوكلانشه	Le Clanché cell
+خلية مُرجِعة	reducing cell
+خلية وِسْتُن	Weston cell
+خلية وقود	fuel cell
+خماسي	penta; pent / quinary
+خماسي أكسيد الفُسفور	phosphorus pentoxide
+خماسي أكسيد النتروجين	nitrogen pentoxide
+خماسي التكافؤ	pentavalent / quinquivalent / quinta-valent
+خُماسي الحمض	pentacid
+خُماسي القاعدة	pentabasic
+خماسي الكربونيل	pentacarbonyl
+خماسي سلفيد الفُسفور	phosphorus pentasulfide
+خماسي كلوريد الفُسفور	phosphorus pentachloride
+خماسي: سابقة	penta- (pent-)
+خماسية التكافؤ، تكافؤية خماسية	pentavalency
+خمّد، أطفأ	damp (to)
+خمول، قصور ذاتي، عطالة	inertia
+خميرة	ferment / yeast
+خميرة الجعة	brewer's yeast
+خميرة الزيماز	zymase
+خواتم منصهرة	fused rings
+خواصُّ ترابُطٍ عدديّ	colligative properties
+خواص مترابطة	colligate properties
+خواص مترابطة (مج ق)، خواص جمعية	colligative properties
+خيال	shadow
+خيط	thread
+خيط (مبروم)	yarn
+خَيْطُ غَزْلٍ	yarn
+خيطي	nematic

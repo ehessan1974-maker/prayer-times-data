@@ -1,0 +1,168 @@
+ثابت	constant / stable
+ثابت - ثابتة	constant
+ثابت ارتفاع نقطة الغليان	boiling point elevation constant
+ثابت أفوغادرو	Avogadro's constant
+ثابت التأين	ionization constant
+ثابت التزاوج	coupling constant
+ثابت التشكل	formation constant
+ثابت التفتت الإشعاعي، ثابت التحلل الإشعاعي	disintegration constant
+ثابت التفكك	dissociation constant
+ثابت التوازن	equilibrium constant
+ثابتُ التوتّر	isotonic
+ثابت الحلمهة	hydrolysis constant
+ثابت الخفض الجزيئي	molecular depression constant
+ثابت الرفع الجزيئي	molecular elevation constant
+ثابت السرعة	rate constant / velocity constant
+ثابتُ الضغط	isobaric
+ثابت العزل الكهربائي	dielectric constant
+ثابت الغاز	gas constant
+ثابت الغاز الجزيئي	molecular gas constant
+ثابت الغاز العام	universal gas constant
+ثابت القاعدية	basicity constant
+ثابت اللااستقرارية، ثابت عدم الاستقرار	instability constant
+ثابت جداء الذوبانية، ثابت جداء الانحلال	solubility-product constant
+ثابت حراري	heat constant
+ثابت حراريا	thermostable
+ثابت حرج	critical constant
+ثابت درجة الحرارة	isothermic
+ثابت، مستقر	stable
+ثابتة إشعاعية	radioactive constant
+ثابتة الاضمحلال (التفكّك)	disintegration constant
+ثابتة التأيّن	ionization constant
+ثابتة التفارق	dissociation constant
+ثابتة التفكُّك	decay constant
+ثابتة التوازن	equilibrium constant
+ثابتة التوتر السطحي (باراكور)	parachor
+ثابتة الحجب	screening constant
+ثابتة الحلمهة	hydrolysis constant
+ثابتة السرعة	rate constant
+ثابتة العزل الكهربائي	dielectric constant
+ثابتة الغازات	gas constant
+ثابتة الغازات العامة	universal gas constant
+ثابتة الغليان	ebullioscopic constant
+ثابتة بلانك	Planck's constant
+ثابتة بولتزمان	Boltzmann constant
+ثابتة ريدبرغ	Rydberg constant
+ثابتة عامة	universal constant
+ثالثي	tertiary
+ثالوث	triad
+ثاليوم	thallium
+ثانوي	secondary
+ثاني أكسيد	bioxide
+ثاني الفنيل	biphenyl
+ثاني، ثانية	second
+ثباتُ الحجم	isochoric
+ثبات اللون	fastness
+ثبات نووي، استقرار نووي	nuclear stability
+ثبات، استقرار	stability
+ثفل، رسابة	sediment
+ثقاب الأمان	safety matches
+ثقّابة	borer
+ثقابة (فلين)، مثقب	borer (of cork)
+ثقالة	gravitation / gravity
+ثقالة نوعية	specific gravity
+ثقالى	gravitational
+ثقب	hole
+ثقْب، فتحة	hole
+ثقبة	orifice
+ثقل الحمض	acid sludge
+ثقلي، وزني	gravimetric
+ثقيل	heavy
+ثلاثي	ternary / triple
+ثلاثي أكسيد الفُسفور	phosphorus trioxide
+ثلاثي أكسيد الكبريت	sulfur trioxide
+ثلاثي الآزو: سابقة	triazo-
+ثلاثي الأوكسان	trioxane
+ثلاثي الأوكسيد	trioxide
+ثلاثي الببتيد	tripeptide
+ثلاثي التشكل البلوري	trimorphic; trimorphous
+ثلاثي التكافؤ	tervalent / trivalent
+ثلاثي الحد (مثلوث)	trimer
+ثلاثي الحد، تريمير	trimer
+ثلاثي الستيارين	tristearin
+ثلاثي السكريات	trisaccharides
+ثلاثي الغليسريد	triglyceride
+ثلاثي القاعدة	tribasic
+ثلاثي القوائم	tripod
+ثلاثي المسيل	triclinic
+ثلاثي الميل	triclinic
+ثلاثي إيتيل الأمين	triethylamine
+ثلاثي فوسفات الأدينوسين	adenosine triphosphate (A.T.P)
+ثلاثي كلوريد الفُسفور	phosphorus trichloride
+ثلاثي ميتيل الأمين	trimethylamine
+ثلاثي نترو البنزين	trinitrobenzene
+ثلاثي نتروالتولوين	trinitrotoluene
+ثلاثي نتروالميتان	trinitromethane
+ثلاثي: سابقة	tri-
+ثلاثي، ثلاثة، ثلاث مرات	tri-
+ثلاثيات دوبراينر	Dobreiner's triades
+ثلاثية	ternary / triad / triplet
+ثلالثيات دوبرينز	Dobreiner's triads
+ثلث كلوريد اليود، ثالث كلورور اليود	iodine trichloride
+ثلْج	snow
+ثلج جاف	dry ice
+ثُلم	groove
+ثُمانيُّ الأوجه	octahedral
+ثماني التكافؤ	octavalent
+ثماني السطوح	octahedron
+ثماني الوجوه	octahedral
+ثُماني: سابقة	octa-
+ثمانية	octet
+ثمانية، ثماني	octa
+ثنائي	binary / di / di-
+ثنائي أكسيد	dioxide
+ثنائي أكسيد الكبريت	sulfur dioxide
+ثنائي أكسيد الكربون	carbon dioxide / carbon dioxyde
+ثنائي أكسيد الكلور	chlorine dioxide
+ثنائي أكسيد النتروجين	nitrogen dioxide
+ثنائي الأولفين	diolefine
+ثنائي البروتون	diprotic
+ثنائي التبادل	disubstituted
+ثنائي التحوّل	bivariant
+ثنائي التسمية	binomial
+ثنائي التكافؤ	bivalent / divalent
+ثنائي التميه، ثنائي الهيدرات	dihydrate
+ثنائي الجذر	biradical / diradical
+ثنائي الجزيء	bimolecular
+ثنائي الحد	dimer
+ثنائي الحلقة	bicyclic
+ثنائي الذرة	diatomic
+ثنائي السكاريد	disaccharide
+ثنائي السكريات	disaccharide
+ثنائي السلوك	amphoteric
+ثنائي السلوك البروتوني	amphiprotic
+ثنائي السلوك الكهرلي	ampholyte
+ثنائي السن	bidental
+ثنائي الفِنول	diphenol
+ثنائي القطب	bipolar / dipole
+ثنائي الهيدرات	dihydrate
+ثنائي الوظيفة	bifunctionnal / dual function
+ثنائي إيتيلين الغليكول	diethylene glycol
+ثنائي ببتيد	dipeptide
+ثنائي بوتيل الفتالات	dibutyl phtalate
+ثنائي بوران	diborane
+ثنائي سلفيد الكربون	carbon disulfide
+ثنائي قطب كهربائي	electric dipole
+ثنائي قطب محرَّض	induced dipole
+ثنائي قطب مغنطيسي	magnetic dipole
+ثنائي قطبي	dipolar
+ثنائي كبريتات، بيكبريتات	bisulphate
+ثنائي كبريتيت، بيكبريتيت	bisulphite
+ثنائي كبريتيد، ثنائي كبريتور	bisulphide
+ثنائي كربونات، بيركربونات	bicarbonate
+ثنائي كرومات البوتاسيوم	potassium dichromate
+ثنائي كرومات، بيكرومات	bichromate / dichromate
+ثنائي كلور الأثيلين	dichloroethylene
+ثنائي كلور البروبان	dichloropropane
+ثنائي كلوريد الكبريت	sulfur dichloride
+ثنائي ميتيل الإيتر	dimethyl ether
+ثنائي ميتيل الغليوكسيم	dimethyl glyoxime
+ثنائي ميتيل الفورماميد	dimethyl formamide
+ثنائي نكلوتيد أدينين الفلافين	flavine adenine dinucleotide
+ثنائي هيدروكسي الأسيتون	dihydroxyacetone
+ثنائي: سابقة	bi-
+ثنائية البلّورية	dimorphism
+ثنائية التكافؤ	bivalence
+ثني، حني	bending
+ثوريوم	thorium
+ثيوكبريتات	thiosulphate

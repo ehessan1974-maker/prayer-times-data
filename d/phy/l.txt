@@ -1,0 +1,359 @@
+L electrons	Lإلكترونات الطبقة
+L shell	Lالطبقة
+labeled compound	مركّـب موسوم
+labeled molecule	جزيء موسوم
+labelled	مرقوم
+labelled compound	مركّب مرقوم
+labelled molecule	جزيء مرقوم
+laboratory system	نظام مخبري (ن) / جملة المخبر المرجعية
+labyrinth	متاهة
+labyrinth enclosure; acoustic labyrinth	متاهة صوتية
+lactometer	مكثاف حليب / مكثاف الحليب
+ladar	لادار
+laevo-rotation	دوران يساري
+lag angle	زاوية التأخر
+lag of phase	تأخر في الطور
+Lagrange equations; Euler-Lagrange equations	معادلات
+Lagrange theorem	مبرهنة
+Lagrange's equations	معادلات لاغرانج
+Lagrangiam function	دالة (ن)
+lagrangian	دالة لاغرانج
+Laguerre functions	دوال «لاغير»
+Laguerre polynomials	حدوديات «لاغير»
+Lam shift	انزياح
+Lamb shift	انزياح لامب
+lambda particle	الجسيم لمدا
+lambert	لامبرت
+lamina	صفيحة رقيقة
+laminar	طباقي
+laminar boundary layer	طبقة حدية صفيحية
+laminar flow	جريان طباقي / جريان صفيحي
+laminated core	قلب رقائقي
+lamp	مصباح
+lamp holder	غِمد المصباح
+Lamé constants	ثابتتا لاميه
+LAN	شبكة محلية
+Landau damping	تخامد لانداو
+Landau fluctuations	ترجّحات لانداو
+Landau levels	مستَوَيات لانداو
+Landé factor	عامل لاندِه
+Langevin function	دالة لانجفان
+Langmuir effect	مفعول لانغمير
+Langmuir plasma frequency	تردد بلازما لانغمير
+Langmuir probe	مسبار لانغمير
+Langmuir-Child equation	معادلة لانغمير- تشايلد
+lantern	فانوس
+lanthanides	لانثانيدات
+lanthanum	لانتانوم
+lap	محك
+Laplace equation	معادلة لابلاس
+Laplace operator	مؤثر لابلاس
+Laplace transform	تحويل لابلاس
+laplacian	لابلاسي
+Laplacian operator	مؤثِّر (ن)
+Larmor formula	صيغة لارمور
+Larmor frequency	تردد / تواتر لارمور
+Larmor orbit	مدار لارمور
+Larmor precession	مبادرة لارمور
+Larmor radius	نصف قطر لارمور
+laser	ليزر
+laser amplifier	مضخم ليزري
+laser diode	ديود ليزري
+laser fusion	اندماج بالليزر
+laser interferometer	مقياس تداخل ليزري
+laser radar	رادار ليزري
+laser spectroscopy	مطيافية الليزر
+laser threshold	عتبة الليزر
+latent heat	حرارة كامنة / حرارة لاطية
+latent heat of fusion	حرارة الانصهار الكامنة / حرارة الانصهار اللاطية
+latent heat of sublimation	حرارة التسامي الكامنة
+latent heat of vaporization	حرارة التبخر الكامنة / حرارة التبخر اللاطية
+latent image	صورة كامنة / خيال كامن
+latent photographic image	صورة رسم ضوئي كامنة
+lateral magnification	تكبير جانبي
+lateral spherical aberration	زيغ كروي جانبي
+laterally inverted image	صورة مقلوبة جانبيا
+latitude	خط عرض / خط العرض
+lattice	شُبَيْكة / شبيكة
+lattice compounds	مركبات شبيكية
+lattice constant	ثابت شبيكي
+lattice constants	ثوابت الشبيكة
+lattice defect	عيب شبيكي
+lattice dimensions	أبعاد الشبيكة
+lattice dynamics	تحريكات الشّبيكة
+lattice energy	طاقة الشّبيكة
+lattice parameters	وسطاء الشبيكة
+lattice reactor	مفاعل شبيكي
+lattice sum	جمع شبيكي
+lattice vibration	اهتزاز الشّبيكة
+Laue camera	مصوِّرة لاوِه
+Laue diffraction	انعراج لاوِه
+Laue method	طريقة لاوِه
+Laurentz four-vector	متَّجه لورنتز الرباعي
+law	قانون
+law of alternation	قانون التناوب
+law of areas	قانون المساحات / قانون السطوح
+law of conservation of angular momentum	قانون حفض الزخم الزاوي / قانون انحفاظ الاندفاع الزاوي
+law of conservation of mechanical energy	قانون حفظ الطاقة الميكانيكية / قانون انحفاظ الطاقة الميكانيكية
+law of degradation of energy	قانون انحطاط الطاقة
+law of reflection	قانون الانعكاس
+law of spectroscopie displacement; Kosselsommerfled displacement law	قانون الازاحة الطيفية
+lawrencium	لورنسيوم
+laws of Kepler	قوانين
+laws of motion	قوانين الحركة
+laws of reflection	قوانين الانعكاس
+laws of refraction	قوانين الانكسار
+laws of sines	قوانين الجيوب
+laws of thermodynamics	قوانين الترموديناميك
+laws of vortex motion	قوانين الحركة الدّواميّة
+layer lattice	شبيكة طبقية
+layer lines	خطوط طبقية
+layer of charge	طبقة شحنة
+layer structure	بنية طبقية
+lead	رصاص؛ سلك توصيل
+lead brick	آجرة رصاص (ن)
+lead isotopes	نظائر الرصاص
+leakage	تسرّب
+leakage current	تيار التسرب / تيار التسـرب
+leakage reactance	معاوقة التسرب
+leakage spectrum	طيف التسرب
+least action principle	مبدأ الفعل الأصغر
+least circle of aberration	دائرة الزيغ الصغرى
+least circle of aberration; leat circle of confusion	دائرة الزيغ الدنيا، دائرة الالتباس الدنيا
+least distance of distinct vision	مدى (ال...) الأدنى للرؤية المميّزة
+least energy principle	مبدأ الطاقة الأقل / مبدأ الطاقة الصغرى
+least work	شغل (ال...) الأقل
+Leclanché cell	خلية
+LED	ديود مصدر للضوء
+left-hand motor rule	قاعدة اليد اليسرى للمحرك
+left-hand rule	قاعدة اليد اليسـرى
+Legendre equation	معادلة ليجندر
+Legendre polynomials	حدوديات ليجندر
+lemniscate	منحن ذو عروتين
+length	طول
+lens	عدسة
+lens combinations	مجموعات عدسية
+lens defects	عيوب العدسة
+lens of camera	عدسة الصوّارة
+lens power	قدرة العدسة / مقدرة العدسة
+Lenz law	قانون
+lepton	لبتون
+lethargy	فتور (ن)
+level	مستوى (ن)
+level of energy	مستوى طاقة
+level spacing	تباعد المستويات (ن)
+level width	عرض المستوى (ن)
+lever	رافعة / عتلة، مُخْل
+levoratory	يساري التدوير
+levorotatory	يساري الدوران؛ مُياسـر
+Leyden jar; electric jar	جرة
+LF	تردد منخفض
+libration	نودان / ميَسَان
+lidar	ليدار
+life time	عمر
+lifetime of an excited state	عمر حالة مثارة
+lifetime of carriers	عمر الحاملات
+lift	مصعد
+lifting power	قدرة الرفع
+ligasoid	ضبيب
+light	ضوء
+light filter	مرشح ضوئي
+light filter factor	عامل مرشح ضوئي
+light flux; luminous flux	تدفق ضوئي
+light guide	دليل ضوئي (ن) / دليل ضوئي
+light modulator	معدّل ضوء
+light positive; photo-conductive; photo-positive	إيجابية ضوئية
+light ratio	نسبة الضوء
+light source	منبع ضوئي
+light valve	صمام ضوئي
+light water reactor	مفاعل ماء الخفيف (ن)
+light wave	موجة ضوئية
+light waves	موجات ضوئية
+light year	سنة ضوئية
+light-emitting diode	ديود مُصدر للضوء
+light-negative; photo-negative; photo-resistive	سلبية ضوئية
+light-sensitive; photo-sensitive	حساس ضوئي
+lighting	اضاءة
+lighting conductor; lighting protector	مانعة الصواعق
+lightning arrester	واقية من الصواعق
+lightning conductor	واقية من الصواعق
+lightning rod	واقية من الصواعق
+like	متشابه
+like forces	قوى متشابهة
+like poles	أقطاب متشابهة
+liminous flame	لهب اللمع
+limit of resolution	حد المَيْز
+limitation of mobility	تحديد الانتقالية
+limited stability; conditional stability	استقرار شرطي
+limiter	محدِّد (ن)
+limiting condition	شرط محدِّد (ن)
+limiting curves	منحنيات حدّية
+limiting density	كثافة حدّية
+limits of hearing	حدود السمع
+LINAC	ليناك
+line defect	عيب خطي
+line of action	خط التأثير؛ حامل
+line of action of force	خط فعل القوة
+line of sight	خط النظر
+line of vision	خط النظر
+line pair	زوج خطوط
+line spectrum	طيف خط / طيف خطي
+line width	عرض الخط / عرض الخط الطيفي
+linear	خطي، طولي
+linear absorption	معامل الامتصاص الخطي (ن)
+linear absorption coefficient	معامل الامتصاص الخطي
+linear acceleration	تعجيل خطي، تسارع خطي
+linear accelerator	معجل خطي (ن)
+linear accelerator (LINAC)	مسـرع خطي
+linear amplifier	مضخم خطي
+linear attenuation coefficient	معامل التوهين الخطي (ن)
+linear charge density	كثافة شحنة طويلة
+linear coefficient of expansion	معامل التمدد الخطي
+linear dispersion	تفرّق خطي
+linear displacement	ازاحة خطية
+linear distortion	تشوه خطي
+linear element	عنصـر خطي
+linear energy transfer	نقل الطاقة الخطي (ن)
+linear energy transfer coefficient	معامل نقل الطاقة الخطي (ن)
+linear equation	معادلة خطية
+linear extrapolation distance	مسافة استكمال خارجي خطي (ن)
+linear harmonic oscillator	متذبذب توافقي خطي (ن) / هزاز توافقي خطي
+linear hermitian operator	مؤثّر الخطي (ن)
+linear ionization	تأين خطي (ن)
+linear magnification	تكبير خطي
+linear measurements	قياسات خطية
+linear molecule	جزيء خطي
+linear momentem	اندفاع خطي
+linear operator	مؤثر خطي (ن) / مؤثر خطي
+linear optics	بصـريات خطية
+linear oscillator	متذبذب خطي
+linear polarization	استقطاب خطي
+linear power density	كثافة القدرة الخطية (ن)
+linear range	مدى خطي
+linear Stark effect	مفعول شتارك الخطي
+linear stopping power	قدرة الايقاف الخطية (ن)
+linear superposition	انضمام خطي
+linear transformation	تحويل خطي
+linear velocity	سـرعة خطية
+linearly independent	مستقلة خطِّيا (ن)
+linearly polarised sound wave	موجة صوتية مستقطبة خطيا
+lines of force	خطوط القوة
+link mechanism	آلية الوصل
+linkage	صلة، رابطة
+liquefaction	تسييل
+liquefaction curve	منحنى التسييل
+liquefaction of gases	تسييل الغازات
+liquefication of gases	تسييل الغازات
+liquid	سائل
+liquid crystal	بلّورة سائلة / بلورة سائلة
+liquid drop model	نموذج قطرة السائل (ن)
+liquid expanded film	رق سائل ممدَّد
+liquid jet	نفاث سائل
+liquid metal cooled reactor	مفاعل مبرَّد بفلز سائل (ن)
+liquidus curve	منحنى السيولة
+Lissajous curves	منحنيات ليساجو
+Lissajous figures	أشكال / أشكال ليساجو
+lithium	الليثيوم
+Littrow prism	موشور ليترو
+Lloyd's mirror	مرآة لويد
+load	حمل / حمولة؛ حِمْل
+load factor	عامل تحميل (ن)
+load line	خط الحمولة
+loadstone	مغنطيس طبيعي / حَجَر مغنطيسي
+local action	فعل موضعي / تأكُّل موضعي
+local criticality	حَرَج موقعي (ن)
+local dose	جرعة محلية (ن)
+local dose rate	معدل الجرعة الموقعي (ن)
+local variable	متغير محلي
+localized electron states	حالات إلكترونية متموضعة
+localized fringes	أهداب متموضعة
+loci	محلات هندسية
+lock	قفل
+locus	محلّ هندسي / محل هندسي
+lodestone	حجر مغنطيسي
+log-log paper	ورقة لوغارتمية
+logarithmic decrement	تناقص لوغاريتمي
+logarithmic-graph	مخطط بياني لوغارتمي
+logic circuit	دارة منطقية
+logic element	عنصـر منطقي
+logic gate	بوابة منطقية
+logic switch	مفتاح منطقي
+logical product	جداء منطقي
+logical sum	مجموع منطقي
+London equations	معادلات لندن
+Londé-g-factor	معامل g للوندية
+long waves	الأمواج الطويلة
+long-range alpha-particles	الجسيمات ألفا الطويلة المدى
+long-range force	قوة بعيدة المدى
+long-range order	ترتيب بعيد المدى
+longitude	خط الطول
+longitudinal aberration	زيغ طولاني
+longitudinal chromatic aberration	زيغ لوني طولي
+longitudinal crystal	بلّورة طولية
+longitudinal magnification	تكبير طولي
+longitudinal spherical aberration	زيع كروي طولي
+longitudinal vibrations	ذبذبات طولانية
+longitudinal wave	موجة طولانية
+longitudinal waves	موجات طولية
+loop analysis	تحليل عُروي
+loop current	تيار عُروي
+loop reactor	مفاعل حَلْقي (ن)
+loop; antinode	عروة، بطن
+loose or weak coupling	ترابط ضعيف
+Lorentz condition	شرط
+Lorentz equations	معادلات لورنتز
+Lorentz force	قوة لورنتز
+Lorentz gas	غاز لورنتز
+Lorentz gauge	عيار
+Lorentz number	عدد لورنتز
+Lorentz transformations	تحويلات لورنتز
+Loschmidt's number	عدد لوشميت
+loss angle	زاوية الفَقْد
+loss factor	عامل الفقد / عامل الفَقد
+loss of coolant accident	حادثة فقدان التبريد (ن)
+loss of-site power	فقد في القدرة الكهربائية الخارجية (ن)
+lost force	قوة مفقودة
+loud speaker	مجهر الصوت
+loudness	جِهارة، صوت
+loudness of sound	جِهارة الصوت / جهارة الصوت
+loudspeaker	مكبر الصوت
+low frequency	التردد المنخفض
+low frequency choke	خانق ترددات منخفضة
+low frequency wave	موجة منخفضة التردد
+low temperatures physics	فيزياء درجات الحرارة المنخفضة
+low voltage	فلطية منخفضة
+low-loss line	خط ضعيف الفقد
+low-pass filter	مرشح تمرير سفلي
+low-pressure cloud chamber	غرفة سحابية منخفضة الضغط
+low-resistance trap	مصيدة منخفضة المقاومة
+lower pitch limit	الحد الأدنى لارتفاع الصوت
+lumen	لومن / لومِن
+luminance	لمعان / لَمعَانية
+luminance temperature	درجة حرارة اللمعان
+luminescence	لمعانية / تألق
+luminescent	لمعاني
+luminiferous ether	اثير لمَّاع
+luminosity	لمعان
+luminosity coefficient	معامل اللمعان
+luminosity curve	منحنى اللمعان
+luminosity density	كثافة اللمع
+luminosity efficiency; visibility factor	كفاءة اللمع
+luminous efficacy	فعالية ضوئية
+luminous efficiency	كفاءة ضوئية
+luminous energy	طاقة ضوئية
+luminous flux	تدفق اللمع / تدفق ضوئي
+luminous intensity	شدة اللمع / شدة ضوئية
+luminous radiation	اشعاع اللمع
+luminous reflectance	انعكاسية اللمع
+luminous sensitivity	حساسية اللمع
+lunar eclipse	خسوف القمر
+lunar month	شهر قمري
+lunar rainbow	قوس قزح قمري
+lute	عود (ال...)، المزهر
+lutecium (lutetium)	لوتيسيوم
+luted macula	بقعة صفراء
+lux	لوكس
+Lyman band	شـريط ليمان
+Lyman series	سلسلة ليمان
+lyophilic	آلف وسط الانتشار
+lyophobic	كاره وسط الانتشار

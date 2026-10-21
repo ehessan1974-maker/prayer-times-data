@@ -1,0 +1,300 @@
+جائز، حزمة	beam
+جاذبية	gravity
+جاسىء	rigid
+جاما، كاما	gamma
+جامد لا بلوري؛ جسم صلب لا بلوري	amorphous solid
+جبر	algebra
+جَبْرُ بول	Boolean algebra
+جداء	product
+جداء داخلي	inner product
+جداء داخلي (نقطي)	dot product
+جُداء سُّلَّمي؛ جداء داخلي	dot product
+جداء سُلَّمِي؛ جداء داخلي؛ جداء عددي	scalar product
+جداء متجهي	cross product
+جداء متَّجهي ثلاثي	triple-vector product
+جُداء متَّجهي؛ جداء خارجي	cross product / vector product
+جداء منطقي	logical product
+جدار الصوت	sonic barrier / sound barrier
+جدار المنطقة	domain wall
+جدار بلوخ	Bloch wall
+جدار كموني	potential wall
+جداول احصائية	statistical tables
+جدول	table
+جدول (ال...) الدوري	periodic table
+جدول الجسيمات الأولية	table of elementary particles
+جدول الحقيقة	truth table
+جدول نقط الغليان	boiling points table
+جدول، منضدة	table
+جذر تربيعي	square root
+جذر متوسط المربعات	root-mean-square / root-mean-square (r.m.s.)
+جذران مترافقان	conjugate roots
+جِذع	axle
+جرد المخزون	book inventory
+جرد الوقود (ن)	fuel inventory
+جرد مخزون نهائي (ن)	ending book inventory; final book inventory
+جُرْزة	bundle
+جَرعة (ن)	dose
+جرعة إشعاع؛ تشعيع	radiation dose
+جرعة الأدمة، جرعة نسيجية	skin dose; tissue dose
+جرعة الإشعاع	dose of radiation
+جرعة الاشعاع (ن)	radiation dose
+جرعة الإشعاع الممتصة	absorbed dose of radiation
+جرعة الأشعة السينية	X- ray dosage / X-ray dosage
+جرعة التحمّل	tolerance dose
+جرعة التعرض للإشعاع	exposure dose of radiation
+جرعة الخروج	exit dose
+جُرعة العَتَبة	threshold dose
+جرعة العتبة (ن)	threshold dose
+جرعة تأيين كلية	total ionization dose
+جرعة تجمعية (ن)	collective dose
+جرعة تراكمية	accumulated dose / cumulative dose
+جُرعة جسدية (ن)	body dose
+جرعة جسدية جزئية (ن)	partial body dose
+جرعة شخصية (ن)	personal dose
+جرعة عظمى مسموح بها	maximum permissible dose
+جرعة عظمى مقبولة (ن)	maximum permissible dose
+جَرْعة عميقة	depth dose
+جرعة كلية	integral dose / volume dose
+جرعة متراكمة	cumulative dose
+جَرْعَة متراكِمَة (ن)	accumulated dose
+جرعة محلية (ن)	local dose
+جرعة مقبولة (ن)	permissible dose
+جَرْعةُ مُمْتَصة (ن)	absorbed dose
+جرعة ممتصة تكاملية (ن)	integral absorbed dose
+جرعة مميتة للنصف	MLD / median lethal dose
+جرعة نسيجية؛ جرعة جِلدية	skin dose / tissue dose
+جرعة هوائية	air dose
+جرمانيوم	germanium
+جرة	Leyden jar; electric jar
+جَرَيَان	flow
+جريان الاستقرار	steady flow
+جريان الجهد	potential flow
+جريان المائع	flow of a fluid; fluid flow
+جريان انسيابي	stream line flow
+جريان ثانوي	secondary flow
+جريان دون احتكاك	frictionless flow
+جريان صفيحي	laminar flow / streamline flow
+جريان ضَغُوط	compressible flow
+جريان طباقي	laminar flow
+جريان في دورة مغلقة	recirculation
+جريان قدرة مُرَكبَة	complex power flow
+جريان لا دوراني	irrotational flow
+جريان لزج	viscous flow
+جريان مائع	fluid flow
+جريان مائع حقيقي	real fluid flow
+جريان مثالي	ideal flow
+جريان مستقر	steady flow
+جريان مضطرب	turbulent flow
+جريان منتظم	uniform flow
+جريان نيوتني	Newton's flow
+جزء (ال...) الفعال في النترونات المتوازية (ن)	effective delayed neutron fraction
+جزء التفرع (ن)	branching fraction
+جزء الخلو (ن)	void fraction
+جزء النترونات البطأة (ن)	delayed neutron fraction
+جزء تخيلي	imaginary part
+جزء حقيقي لعددٍ عُقَدي	real part of complex number
+جزء محترق (ن)	burnup fraction
+جزئي	partial
+جزيء	molecule
+جُزَيْء الماء	water molecule
+جُزَيء النشادر	ammonia (molecule)
+جزيء بنيته رباعية الوجوه	tetrahedral molecule
+جزيء ثنائي الذرة	diatomic molecule
+جزيء جهري	macromolecule
+جزيء خطي	linear molecule
+جزيء عياني	macromolecule
+جزيء غرامي	gram-molecule
+جزيء قطبي	polar molecule
+جزيء متجانس النوى	homonucleaire molecule
+جزيء متشاكل الذرات	isosteric molecule
+جزيء متعادل	neutral molecule
+جزيء مرقوم	labelled molecule
+جزيء معتدل	neutral molecule
+جُزَيء مُنشَّط	activated molecule
+جزيء موسوم	labeled molecule
+جزيئي	molecular
+جزيئي مولالي	molal / molar
+جساءة	rigidity
+جسـر أوين	Owen bridge
+جسـر دوسوتي	De Sauty bridge
+جسـر ضوئي	optical bench
+جسـر كلفن	Kelvin bridge
+جسـر متوازن	balanced bridge
+جسـر مقاومات	resistance bridge
+جسـر ممانعات	impedance bridge
+جسـر مواسعات	capacitance bridge
+جسـر وطسْطُن	Wheatstone bridge
+جسم	body
+جسم أبيض	white body / white object
+جسم أسود	black body
+جسم تقديري	virtual object
+جسم جاسىء	rigid body
+جسم حرّ	free body
+جسم حقيقي	real object
+جسم رمادي	gray body
+جسم صلد؛ جسم جاسئ	rigid body
+جسم قابل للتشويه	deformable body
+جسم لا اتجاهي الخواص	isotropic body
+جسم مادي	material body
+جسم متجانس	homogeneous body
+جسم نقطي	point object
+جسم وهمي	virtual object
+جسم؛ شيء	object
+جِسْمية التصوير عن بُعد	teleobjective
+جسمية جافة	dry objective
+جسميةُ شمدت	Schmidt objective
+جسمية غاطسة	immersion objective
+جسمية فائقة اللا لونية	apochromatic objective
+جسمية؛ شيئية	objective
+جسوء	stiffness
+جُسَيم	corpuscle / particle
+جسيم (ن)	particle
+جسيم التأيين المباشر (ن)	directly ionizing particle
+جسيم المائع	fluid particle
+جُسيم أولي	elementary particle / fundamental particle
+جسيم تأيين غير مباشر (ن)	indirectly ionizing particle
+جسيم حر	free particle
+جسيم حر (ن)	free particle
+جسيم ذاتي الترافق	self conjugate particle
+جسـيم ذري	atomic particle
+جسيم سـريع	energetic particle
+جسيم غريب	strange particle
+جسيم غير مشحون	uncharged particle
+جسيم مؤيِّن (ن)	ionizing particle
+جسيم مادي	material particle / material point
+جسيم مرتد (ن)	recoil particle
+جسيم مشحون	charged particle
+جسـيم مضاد	anti-particle
+جُسيْم مكسو (ن)	coated particle
+جُسيم نسبوي	relativistic particle
+جسيمات افتراضية	virtual particles
+جُسيمات ألفا (ن)	alpha particles
+جسيمات أولية	elementary particles
+جُسيمات بيتا (ن)	beta particles
+جسيمات دون ذرية	subatomic particles
+جسيمات غريبة	strange particles
+جسيمات لا متمايزة	indistinguishable particles
+جسيمات متطابقة	identical particles
+جسيمات متمايزة	distinguishable particles
+جسيمات مشعة عالقة في الهواء	radioactive airborne particles
+جسيمات مفَرَّقة	dispersed particles
+جعل المصفوفات قطرية	diagonalization of matrices
+جفيت	JFET
+جليد	ice
+جليد التبريد، جليد التثليج	refrigeration ice
+جليد جاف	dry ice
+جمع الاندفاعات الزاوية	addition of angular momenta
+جمْع السرعات	addition of velocities
+جمع المتَّجهات	vector addition
+جمع شبيكي	lattice sum
+جمل غاليليه المرجعية	Galilean frames of reference
+جملة إحداثيات ديكارتية	Cartesian coordinate system
+جملة إحداثيات قطبية	polar coordinate system
+جملة إحداثيات لاديكارتية	non-cartesian coordinate system
+جملة إحداثيات متحركة	moving coordinate system
+جملة إحداثية	coordinate system
+جملة المخبر المرجعية	laboratory system
+جملة المقارنة؛ جملة مرجعية	reference frame
+جملة الواحدات الدولية	international system of units
+جملة الواحدات السغثية	centimeter-gram-second system / system of units (C.G.S.)
+جملة طليقة	free system
+جملة عَطالية مرجعية	inertial frame of reference
+جملة لا محرقية	afocal system
+جملة مادية	material system
+جملة مرجعية	frame of reference / system of reference
+جملة مرجعية سكونية	rest frame
+جملة معزولة	isolated system
+جملة مفتوحة	open system
+جموح	runaway
+جموح المفاعل	reactor runaway
+جنوب (ال...) المغنطيسي	magnetic south
+جِهارة الصوت	loudness of sound / sound volume
+جِهارة، صوت	loudness
+جهاز	apparatus
+جهاز ارسال	transmitting set
+جهاز استقبال	receiving set
+جهاز استقبال لاسلكي	wireless receiving set
+جهاز إسقاط خلفي	retroprojector
+جهاز الإسقاط	projector
+جِهَاز التّحالّ	dialyzer
+جهاز بلازما عالي درجة الحرارة	stellarator
+جهاز تجميد	freezing apparatus
+جهاز قَرِّي	cryogenic device
+جهاز قياس الاستطالة	extensometer
+جهاز لاسلكي	wireless apparatus
+جهاز ماص، جهاز مص	suction apparatus
+جهاز مسح الاشعاعات (ن)	radiation survey instrument
+جهاز مقوم	rectifying apparatus
+جهاز هاتف	telephone set
+جهد	potential
+جهد (ال...) الحاجز	barrier potential
+جهد (ن)	Fermi potential
+جهد ازالة التأين	deionization potential
+جهد الإثارة، كمون الإثارة	excitation potential
+جهد الاختزال	reduction potential
+جهد الاستقطاب	polarization potential
+جهد الاشعاع	radiation potential
+جهد الالتصاق	sticking potential
+جُهْد الامْتِزاز	adsorption potential
+جهد الانتشار	diffusion potential
+جهد الانسياب	streaming potential
+جهد الايقاف (ن)	stopping potential
+جهد التأكسد	oxidation potential
+جهد التأين (ن)	ionization potential
+جهد التأيّن الأول	first ionization potential
+جهد التحريك الحراري	thermodynamic potential
+جهد التخصُّـر؛ جهد التضيُّق	pinch-off voltage
+جهد التَّماس	contact potential
+جهد التوهج	glow potential
+جهد الجاذبية	gravitational potential
+جهد الخَرْج؛ فلطية الخرج	output voltage
+جُهْد الظهور	appearance potential
+جهد القدح	striking potential
+جُهد اللاتناظر	asymmetry potential
+جهد المسرى	electrode potential
+جهد أيوني	ionic potential
+جهد تفريغ	discharge potential
+جهد تنافري	repulsive potential
+جهد ثابت مكافىء	equivalent constant potential
+جهد حثي	induced potential
+جهد زيتا	zeta potential; electrokinetic potential
+جهد زينر؛ فلطية زينر	Zener voltage
+جهد سالب	negative potential
+جهد سرعة المائع	fluid velocity potential
+جهد شراري	sparking potential
+جهد عياري	standard potential
+جهد كهربائي	electric potential
+جهد كهربائي، كمون كهربائي	electric potential
+جهد كهرحركي	electrokinetic potential; zeta potential
+جهد كهرساكن	electrostatic potential
+جهد كيميائي؛ كمون كيميائي	chemical potential
+جُهد مركزي (ن)	central potential
+جهد موجب	positive potential
+جهد نووي	nuclear potential
+جَهْرِي، ماكروسكوبي	macroscopic
+جهة التيار الاصطلاحية	conventional current
+جهة فرعية	quadrantal point
+جهةُ متَّجِه	sense of a vector
+جهود التشويه	deformation potentials
+جهود تباطؤية	retarded potentials
+جَوّ (ال...)	atmosphere
+جو (ال...) الأوزوني	ozonosphere
+جو (ال...)ّ الأيوني	ionosphere
+جَوّ الشمس	atmosphere of sun
+جو كيميائي	chemosphere
+جو متجانس	homogeneous atmosphere
+جوف تجاوبي	resonant cavity
+جول	joule
+جَوَلان؛ دَوَران	circulation
+جيب	sine
+جيب التّمام؛ تجيب	cosine
+جيب تمام	cosine
+جيت	JET
+جيروسكوب	gyroscope
+جيغا	giga
+جيغا إلكترون فلط	Gev
+جيوب تمام اتجاهية	direction cosines
+جيوب تمام التوجيه	direction cosines
+جيوفيزياء	geophysics
+جيوفيزياء (ال...)	geophysics
+جيوفيزيائي	geophysical

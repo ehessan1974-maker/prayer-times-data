@@ -1,0 +1,443 @@
+Babinet absorption rule	قاعدة امتصاص
+Babinet compensator	معوِّض بابينيه
+back electromotive force	قوة محركة كهربائية عكسية
+back focal length	بعد بؤري خلفي / بعد محرقي خلفي
+back or counter electromotive force	قوة دافعة كهربائية مضادة، قوة دافعة كهربائية عكسية
+back pressure power	قدرة الضغط المعاكس (ن)
+back scattered electrons	إلكترونات مرتدة
+back scattering	تبعثر مرتد
+back to back	ظهرًا لظهر
+back-scattered electrons	الكترونات مُستطارة خلفيا
+background	خلفية (ن) / خلفية
+background count	عدُّ الخلفية
+background counts	معدودات الخلفية
+background noise	ضجيج الخلفية
+background radiation	اشعاع الخلفية (ن) / إشعاع الخلفية
+backing of source	ظهير المصدر (ن)
+backscattering	استطارة عكسية (ن)
+backward bias	انحياز عكسي
+badge	شارة
+baffle	عائق
+balance	ميزان / ميزان، توازن
+balance coil	مِلَفّ ضَبْط
+balance of forces	توازن القوى
+balance pan	كفة الميزان
+balance platform	قاعدة الميزان
+balance point	نقطة كورى
+balance weight	ثقل موازن
+balance wheel	عجلة المُوازنة
+balanced bridge	جسـر متوازن
+ball and socket joint	مَفصِل كُروي
+ball ended magnet	مغنطيس كُرويُّ الطرفين
+ball joint	مَفصِل كُروي
+ballast resistor	مقاوم كابح
+ballistic camera	مصوِّرة القذائف
+ballistic condition	شرط قَذْفي
+ballistic galvanometer	مقياس جلفاني قَذْفي / مقياس غلفاني قذفي
+ballistic missile	صاروخ قَذْفي / صاروخ قذفي
+ballistic pendulum	نواس قَذْفي، رقاص قَذْفي / نواس قذفي
+ballistic trajectory	مسار قَذْفي
+ballistics	قَذْفِيات (ال...) / علم القذائف
+balloon	مِنْطاد / منطاد، بالون
+Balmer formula	صيغة بالمر
+Balmer series	مُتسلسِلَة / سلسلة بالمر
+Balmer terms	حدود بالمر
+Baly cell; Baly tube	خلية
+band	نطاق / شـريط، عِصابة، نطاق
+band head	رأس النطاق
+band selector	ناخب نطاقي
+band spectrum	طيف نطاق / طيف شـريطي
+band structure	بِنية عصابات الطاقة
+band switch	مفتاح نطاقي
+band theory	نظرية الأنطقة (جمع نطاق) / نظرية العصابات
+band-pass amplifier	مضخّم تمرير نطاقي
+band-pass filter	مرشح تمرير نطاقي
+band-reject filter	مرشح إيقاف نطاقي
+bandwidth	عرض النطاق
+bar	قضيب / بار
+bar code	رِماز شـريطي (قضباني)؛ باركود
+Bardeen-Cooper- Shriffer theory	نظرية باردين- كوبر- شـريفر
+bare nucleus	نواة عارية
+bare reactor	مفاعل بغير عاكس (ن)
+barium	باريوم
+Barkhausen effect	مفعول باركهاوزِن
+Barlow lens	عدسة بارلو
+barn	بارن
+Barnett effect	مفعول بارنِت
+Barnett method	طريقة بارنِت
+barograph	مِرْسَمَةُ الضغط / بارومتر مسجِّل
+barographic charts	خرائط مِرْسَمَة الضغط
+barometer	مِضْغاط / بارومتر
+barometric pressure	ضغط المِضْغاط
+barometric surface	سطح بارومتري
+barostat	منظم الضغط؛ باروستات
+barotropic fluid	مائع متجانِسُ الضغط
+barrel distortion	تشوُّه برميلي
+barreter; current regulator tube	صمام منظم للتيار
+barrier	حاجز
+barrier layer	طبقة حاجزة
+barrier penetration	اختراق الحاجز
+barrier potential	جهد (ال...) الحاجز
+barrier-layer capacitance	مُوَاسَعَة الطبقة الحاجزة
+barycenter	مركز كتلي
+baryon spectroscopy	مطيافية باريونية
+baryons	باريونات
+base	قاعدة، أساس
+base frequencies	ترددات الأساس
+base load station	محطة الحمل الأساسي (ن)
+base power	قدرة أساسية (ن)
+base-centered lattice	شبيكة ممركزة القاعدة
+basis	أساس
+basis vectors	متجهات الأساس
+batch-by-batch method	طريقة الدفعات (ن)
+bathochrome	مُخَفِضُ تردد الامتصاص
+Batschinski relation	علاقة
+battery	نَضيدَة / بطارية
+battery charging circuit	دارة شحن النضيدة
+battery eliminator	بديل النضيدة
+battery switch	مفتاح نضيدة
+bayonet socket	مِقْبس شَكِّي، قاعدة شَكِّية
+bayonet socket; joint base	قاعدة مُسَنَّنة
+bead transistor	ترانزستور خَرَزي
+beaker	قدح / إناء؛ بيكر
+beam	حُزْمَة (ن) / جائز، حزمة
+beam balance	ميزان ذو عارضة / ميزان ذو عاتق
+beam deflection tube; deflection valve	صمام انحراف الحُزْمَة
+beam hole	مخرج الحُزمة (ن)
+beam of light	حُزْمَة ضوئية / حزمة ضوئية
+beam splitter	شاطرة الحزمة
+beam trap	مصيدة حُزْمَة (ن)
+beam width	عرض الحُزْمَة / عرض الحزمة
+beam-power tube; beam power valve	صمام قدرة حُزْمي
+beam-voltage	فولطية الحُزْمَة
+bearer	حامل
+beat	الخَفَقَان
+beat emitter	باعث بيتا (ن)
+beats	ضربات
+becquerel	بِكْرِل
+Becquerel rays	أشعة
+Beer's law	قانون بير
+bel	بِل
+bell jar	ناقوس
+bell-jar	ناقوس زجاجي
+bell-shaped	ناقوسّي الشكل
+belt	سَيْر، حزام
+belts of radiation	حزاما الإشعاع
+Benard convection cells	خلايا الحَملِيّة
+bending moment	عزم الانحناء
+bending or diffraction of light	حَيْدُ الضوء
+bends; curves	منحنيات
+berkelium	بركليوم
+Bernoulli differential equation	معادلة برنولي التفاضلية
+Bernoulli effect	تأثير / مفعول برنولي
+Bernoulli's theorem	مبرهنة برنولي
+Bertrand lens	عدسة برتراند
+beryllium	بريليوم
+Bessel functions	دوالّ بيسل
+beta decay	اضمحلال بيتا (ن) / التفكك بيتا
+beta emitter	مُصدِر بيتاوي
+beta factor	عامل بيتا
+beta gauge	مِعْيار بيتا (ن)
+beta particles	جُسيمات بيتا (ن) / الجسيمات بيتا
+beta radiation	اشعاع بيتا (ن) / الإشعاع بيتا
+beta ray spectrometer	مقياس طيف الأشعة بيتا
+beta rays	الأشعة بيتا
+beta source	مصدر بيتا (ن)
+beta spectrometer	مطياف بيتا
+beta-rays	أشعة بيتا
+beta-rays spectrum	طيف أشعة بيتا
+betatron	مُعَجّل بيتا الدوراني (ن) ، بيتاترون / بيتا ترون
+BeV	مليار (بليون) إلكترون فلط
+bevatron	بيفاترون / بيفا ترون
+bias	انحياز
+bias current	تيار انحياز
+bias voltage	فلطية انحياز
+biased amplifier	مضخِّم محيَّز (ن)
+biaxial	ثنائي المحاور
+biaxial crystal	بلَّوْرة ثنائية المحاور / بلورة ثنائية المحور
+biconcave lens	عدسة مقعرة الوجهين
+biconvex lens	عدسة محدبة الوجهين
+bicrystal	بلورة ثنائية
+bidirectional antenna	هوائي ثنائي الاتجاه
+Bierbaum hardness	صَلادة
+bifilar	ثنائي الخيوط
+bifilar electrometer	مقياس كهرباء ذو خطين
+bifilar winding	لف ثنائي السلك
+bifocal lens	عدسة ثنائية البُؤَر / عدسة ثنائية المحرق، عدسة ذات محرقين
+big- bang theory	نظرية الانفجار الأعظم
+bilateral antenna	هوائي ثنائي الجانب
+bilateral circuit	دارة ثنائية الجانب
+bilateral element	عنصـر ثنائي الجانب
+bilinear function	دالَّة ثنائية الخطية
+Billet's split lens	عدستا بييه
+bimetal	ذو فلزّين
+bimetal relay	مُرَحِّل ذو فلزّين
+bimetallic strip	شريط ذو فلزّين / شـريحة ثنائية الفلز
+bimirror	مرآة ثنائية
+bimorph cell	خلية ثنائية الشكل
+binary code	رِماز اثناني، كود اثناني
+binary digit (bit)	رقم اثناني، بِتَّة
+binary fission	انشطار ثنائي (ن)
+binary scale	سلّم ثنائي
+binary scaler	مِعْداد ثنائي (ن)
+binary star	نجم ثنائي / نجم مضاعف
+binary system	نظام اثناني
+binding energy	طاقة ترابط (ن) / طاقة الربط
+binding energy of electrons	طاقة ربط الإلكترونات
+binding energy of nucleons	طاقة ربط النواة
+binocular	ناظور ذو العينتين
+binocular microscope	مجهر ثنائي العينية
+binocular vision	إبصار (ال...) بالعينتين / رؤية مجسَّمة
+binoculars	ناظور / منظار ثنائي العينية
+binomial	ثنائي الحد ، حدّانيّة
+binomial expansion	نشـر الحدَّانية
+binomial series	متسلسلة حدَّانية
+bioastronautics	احيائيات (ال...) الفلكية / بيولوجيا فضائية
+biodynamics	تحركات (ال...) الاحيائية / تحريك حيوي
+biological half-life	عمر النصف الاحيائي (ن)
+biological shield	دِرْع احيائي (ن) / درع بيولوجية
+biophysics	فيزياء (ال...) الاحيائية / فيزياء حيوية
+Biot-Savart law	قانون بيو-سافار
+biphasic	ثنائي الطور
+bipolar	ثنائي الأقطاب / ثنائي القطبية
+bipolar electrode	مسـرى ثنائي القطبية
+bipolar transistor	ترانزستور ثناثي القطبية
+biprism	منشور ثنائي، موشور ثنائي / موشور ثنائي
+biquadratic	مضاعَف التربيع
+biquadratic filter	مرشح مضاعف التربيع
+bird cage	قفص النقل (ن)
+birefringence	انكسار مضاعف
+birefringent filter	مرشح ذو انكسار مضاعف
+birefringent plate	صفيحة ذات انكسار مضاعف
+bisectrix	منصِّف الزاوية
+bismuth	بزموت
+bistable	ثنائي الاستقرار
+bistable multivibrator	هزاز ثنائي الاستقرار
+bit	بِتَّة
+black body	جسم أسود
+black body radiation	اشعاع الجسم الأسود / إشعاع الجسم الأسود
+black hole	الثقب الأسود
+black radiator	مُشع أسود
+black-out effect	تأثير التعطل
+bladder	مثانة
+blanket	غِطاء / دثار، غطاء
+blaze	مستوى الحز
+blazed diffraction grating	شبكة انعراج معزِّزة
+blind sector	قِطاع مظلم
+blind spot	بُقعة عمياء / بقعة عمياء
+blind spot of the eye	بقعة (ال...) العمياء في العين
+Bloch function	دالَّة بلوخ
+Bloch theorem	مُبرْهَنَة / مبرهنة بلوخ
+Bloch wall	جدار بلوخ
+blocking	صَدّ / صدٌّ، إيقاف
+blocking oscillator	هزاز إيقاف؛ هزاز صادّ
+blondel	بلوندل
+blood count	تعداد كريات الدم
+blow down system	نظام النفخ (ن)
+blue shift	انزياح نحو الأزرق
+blueing	تزريق
+body	جسم
+body burden	تحمل جسدي (ن)
+body centered	مركَزيُّ الجسم
+body cone	مخروط الجسم
+body dose	جُرعة جسدية (ن)
+body efficiency	كفاءة الجسم
+body-centered cubic structure	بِنْية مكعبية مركزية الجسم
+body-centered structure	بِنْيةٌ مركزية الجسم
+body-centred structure	بِنية مركزية الجسم
+Bohr atom	ذرة بور
+Bohr atomic model	نموذج بور الذري
+Bohr first postulate	مسلَّمة بور الأولى
+Bohr frequency condition	شـرط بور للترددات
+Bohr magneton	مغنطون بور
+Bohr orbit	مدار بور
+Bohr radius	نصف قطر بور
+Bohr second postulate	مسلَّمة بور الثانية
+Bohr- Sommerfeld theory	نظرية بور- زومرفلد
+boiler	مِرْجَل
+boiling	غليان
+boiling point	نقطة الغليان
+boiling points table	جدول نقط الغليان
+boiling water cooled reactor	مُفَاعِل مبرَّد بالماء المُغْلَى (ن)
+boiling water reactor (BWR)	مفاعل الماء الغالي
+bolometer	بولمتر / مقياس الإشعاع الحراري
+Boltzmann constant	ثابت / ثابتة بولتزمان
+Boltzmann distribution	توزع بولتزمان
+Boltzmann factor	عامل
+bomb	قنبلة
+bomb calorimeter	مِسعر قنبلي
+bombardement	قذف، قصف، رجم
+bombardment with neutrons	رجم بالنترونات
+bond	آصرة (ن) / رابطة
+bond angle	زاوية الربط
+bond energy	طاقة رابطة
+bond orbit	مدار الرابطة
+bonded area	منطقة تفتيش (ن)
+bonding	رَبْط، لَحم، رباط
+bonding orbital	مداري رابط
+bone seeker	آلف العضم
+book inventory	جرد المخزون
+Boolean algebra	جَبْرُ بول
+booster	معزِّز
+booster element	عنصر معزِّز
+boric acid system	نظام حمض البورون
+Born approximation	تقريب بورن
+Born- Madelung model	نموذج بورن- مادلنغ
+Born- Mayer equation	معادلة بورن- ماير
+Born- von Karman theory	نظرية بورن- فون كارمان
+boron	بور
+boron chamber	غرفة بورون (ن)
+boron counter tube	أنبوب عداد بوروني (ن)
+boron detector	مكشافٌ بوريّ
+boron equivalent	مكافئ بوروني (ن)
+boron injection	حَقْن بالبورون (ن)
+boron plate	صفيحة بورون (ن)
+Bose-Einstein condensation	تكاثف بوزِه - أينشتاين
+Bose-Einstein distribution	توزع بوزِه – أينشتاين
+Bose-Einstein statistics	إحصاء بوزِه – أينشتاين
+boson	بوزون
+boson gas	غاز بوزونات
+bottom quark	كوارك قاع
+bound atom cross section	مقطع عرضي لذرة مُقّيدة (ن)
+bound charge	شحنة مُقيّدَة / شحنة مقيّدة
+bound electricity	كهرباء مُقَيَّدة
+bound electron	الكترون مُقَيَّد / إلكترون مُقيَّد
+bound level	مستوًى مقيّد
+bound state	حالة مقيدة
+boundary	تُخوم، حدود
+boundary conditions	شـروط حدّية
+boundary layer	طبقة تُخومية / طبقة حدّية
+boundary-value problems	مسائل القيم التُّخومية، مسائل القيم الحدودية
+Bourdon gauge	مقياس بوردون للضغط
+bowing	تَقوُّسٌ (ن)
+box shaped	صندوقي الشكل
+Boyle's law	قانون بويل - ماريوط
+bra	برا
+brachistochrone	منحنى الزمن الأقصر
+Bracket series	متسلسلة
+Brackett series	سلسلة براكيت
+Bragg curve	منحنى (ن)
+Bragg law	قانون
+Bragg planes	مستويات براغ
+Bragg reflection	انعكاس براغ
+Bragg's angle	زاوية براغ
+Bragg's condition	شـرط براغ
+Bragg's equation	معادلة براغ
+Bragg's law	قانون براغ
+brain	دماغ
+brake	مِكْبَح
+brake horsepower	قدرة المِكْبَح الحِصانية
+braket	براكِت
+branch	فرع
+branch line	خط فرعي
+branch points	نقط فرعية
+branching	تفرع (ن)
+branching disintegration	تفكك متفرع
+branching fraction	جزء التفرع (ن)
+branching point	نقطة تفرع
+branching ratio	نسبة التفرع (ن) / نسبة التفرع
+branching rule	قاعدة التفرع
+brass	نحاس أصفر / شَبَه
+brass instruments	آلات نحاسية
+Bravais compensator	معوِّض برافيه
+Bravais lattices	شبيكات برافيه
+breadth of spectrum line	عرض الخط الطيفي
+break even point	نقطة التعادل، عتبة الربح
+break-down voltage	فولطية الانهيار
+breakdown	انهيار
+breakdown diode	ديود انهياري
+breakdown potential	كمون الانهيار
+breakdown voltage	فلطية الانهيار، فلطية التصدُّع
+breaking a circuit	فتح دارة
+breaking-drop theory	نظرية تحطيم القطرة
+breeder assembly	مجمع مولِّد (ن)
+breeder pile	مفاعل مولِّد / مفاعل وَلود
+breeder reactor	مُُفاعل مولِّد / مفاعل وَلود
+breeder rod	قضيب المولِّد (ن)
+breeding	توليد
+breeding gain	كسب التوليد (ن)
+breeding ration	نسبة التوليد (ن)
+breeze	نسيم
+bremsstrahlung	اشعاع الكَبْح (ن) / إشعاع الكبح
+Brewster angle	زاوية بروستر
+Brewster angle; polarizing angle	زاوية ، زاوية الاستقطاب
+Brewster fringes	أهداب / أهداب بروستر
+Brewster law	قانون
+Brewster's angle	زاوية بروستر
+Brewster's incidence	ورود بروستري
+Brewster's window	نافذة بروستر
+bridge	قنطرة
+bridge amplifier	مضخم جسـري
+bridge balance	اتزان القنطرة
+bridge circuit	دارة القنطرة / دارة جسـرية
+bridge method	طريقة القنطرة
+bridge rectifier	مقوِّم جسـري
+bright	ساطع
+bright fringe	هدب مضيء
+bright-line spectrum	طيف الخطوط الساطعة
+brightness	سُطوع / سطوع
+brilliance	سُطُوعية / سطوعية
+Brillouin effect	تأثير
+Brillouin function	دالّة بريلوان
+Brillouin zone	منطقة بريلوان
+Brinell hardness	قساوة برينيل
+British Thermal Unit	وحدة الحرارة البريطانية / واحدة حرارية بريطانية
+brittleness	قَصَافَة / قَصافة
+broad band amplifier	مضخم عريض النطاق
+broad beam	حزمة عريضة (ن)
+broadcasting	اذاعة
+broadcasting station	محطة إذاعة
+broadening of spectral lines	توسع الخطوط الطيفية
+broadside position	وضع جانبي
+broken	مكسور، مقطوع
+broken circuit	دارة مقطوعة
+bromine	بروم
+bronze	برونز
+Brownian movement	حركة / حركة براونية
+brush discharge	تفريغ فرشاتي / تفريغ فرجوني
+BT-cut crystal	بلورات ذات مقطع
+bubble	فُقاعة
+bubble cap	غطاء الفقاقيع
+bubble chamber	غرفة (الفقاقيع) / حجرة الفقاقيع
+bubble gage; bubble gauge	مقياس التدفق الفقاعي
+bubble overvoltage	فرط الفولطية الفقاعية
+bubble pressure	ضغط (الفقاقيع)
+bubble raft	نموذج فقاعي
+bucking circuit	دارة مضادة
+bucking coil	ملف مضاد
+Budde effect	تأثير
+buffer	مدرأة، مِصَدّ / دارئ
+buffer solution	محلول دارئ
+buffer tube	صمام درء، صمام صدّ
+bug	بقَّة
+build-up factor	عامل التراكم (ن)
+built-in reactivity	مُفاعلية متضمنة (ن)
+bulge	انتفاح
+bulk	حجم
+bulk boiling	غليان حجمي (ن)
+bulk boiling saturation	غليان حجمي مُشبع (ن)
+bulk modulus	مُعامل المرونة الحجمية
+bulk modulus; modulus of volume elasticity	مُعامل المرونة، الحجمية
+bulk property	خاصة حجمية
+buncher resonator; input resonator	رنان المدخل
+bundle	جُرْزة
+bundle of cathode rays	حُزْمة أشعة المهبط
+bundle; beam	حُزْمة
+Bunsen burner	حرّاق بنسن
+Bunsen flame	لهب بنسن
+buoyancy	قوة الطَّفْو / قوة الطفو
+buoyant force	قوة الطفو
+buret	سحَّاحة
+burette	سحَّاحة
+Burgers vector	متَّجه برغرز
+burnable absorber	مصاص قابل للاحتراق (ن)
+burning rays	أشعة حارقة
+burnup	احتراق (ن) / استحراق
+burnup fraction	جزء محترق (ن)
+burst slug; burst can	علبة التفجر (ن)
+bus- bar	قضيب توصيل
+butterfly net (Faraday's…)	شبكة الفراشة
+Butterworth filter	مرشح بترورث
+bypass capacitor	مكثفة تفريع
+byproduct	منتَج ثانوي
+byte	بايت

@@ -1,0 +1,661 @@
+M electrons	Mإلكترونات الطبقة
+M shell	Mالطبقة
+Mac-Laurin series	متسلسلة ماكلوران
+Mach angle	زاوية ماخ
+Mach cone	مخروط ماخ
+Mach number	عدد ماخ
+machine	آلة / ماكنة، آلة
+macromolecule	جزيء عياني / جزيء جهري
+macrophysics	فيزياء عيانية
+macroscopic	عياني (ن) / جَهْرِي، ماكروسكوبي
+macroscopic cross section	مقطع عرضي عياني (ن) / مقطع فعَّال جهري
+macrosonics	صوتيات جهرية
+macula lutea	بقعة صفراء، لطخة صفراء
+Madelung constant	ثابتة مادلونغ
+Madelung energy	طاقة مادلونغ
+Magdeburg hemisphere	نصف كرة
+magic eye	عين سحرية
+magic lantern	فانوس سحري / فانوس سحري، جهاز إسقاط الصور
+magic number	أعداد سحرية / عدد سحري
+maglev	طَفْوٌ مغنطيسي
+magma	صُهارة، مُهْل
+magnesium	مغنيزيوم
+magnet	مغنطيس
+magnet bar	قضيب مغنطيسي
+magnet coil	مِلف المغنطيس
+magnet pole	قطب المغنطيس
+magnetic	مغنطيسي
+magnetic alloy	سبيكة مغنطيسية
+magnetic anisotropy	لاتناحٍ مغنطيسي
+magnetic anistropy	اتجاهية الخواص المغنطيسية
+magnetic annealing	تلدين مغنطيسي
+magnetic armature	حافظة المغنطيس
+magnetic attraction	تجاذب مغنطيسي
+magnetic axis	محور مغنطيسي
+magnetic bar	قضيب مغنطيسي
+magnetic bottle	قارورة مغنطيسية
+magnetic circuit	دارة مغنطيسية
+magnetic constant	ثابت مغنطيسي / ثابتة مغنطيسية
+magnetic core	قلب المغنطيس
+magnetic current	تيار مغنطيسي
+magnetic declination	انحراف مغنطيسي
+magnetic dipole	ثنائي الأقطاب المغنطيسي / قطبانيّ مغنطيسي
+magnetic dipole moment	عزم القطباني المغنطيسي
+magnetic dipole radiation	إشعاع ثنائي الأقطاب المغنطيسي / إشعاع القطباني المغنطيسي
+magnetic disk	قرص مغنطيسي
+magnetic domains	مناطق مغنطيسية
+magnetic effect	تأثير مغنطيسي / مفعول مغنطيسي
+magnetic effect of an electric current	تأثير التيار الكهربائي المغنطيسي
+magnetic electricity	كهرباء مغنطيسية
+magnetic elements	عناصر مغنطيسية / العناصـر المغنطيسية
+magnetic energy product	نتاج طاقة مغنطيسية
+magnetic equator	خط الاستواء المغنطيسي
+magnetic field	مجال مغنطيسي / حقل مغنطيسي
+magnetic field of a current	الحقل المغنطيسـي للتيار
+magnetic field of current	مجال (ال...) المغنطيسي للتيار
+magnetic field strength	شدة المجال المغنطيسي / شدة الحقل المغنطيسـي
+magnetic flux	تدفق مغنطيسي
+magnetic flux density	كثافة التدفق المغنطيسي
+magnetic force	قوة مغنطيسية
+magnetic force microscope	مجهر القوة المغنطيسية
+magnetic forces	قوى مغنطيسية
+magnetic hysteresis	تخلف مغنطيسي / بِطاء مغنطيسي
+magnetic inclination	المَيْل المغنطيسي
+magnetic induction	حث مغنطيسي / تحريض مغنطيسي
+magnetic intensity	شدة مغنطيسية
+magnetic keeper	حافظة مغنطيسية
+magnetic keepers	حوافظ مغنطيسية
+magnetic lag	تخلف مغنطيسي / تأخر مغنطيسي
+magnetic lens	عدسة مغنطيسية
+magnetic levitation	طَفْو مغنطيسي
+magnetic lines of force	خطوط قوة مغنطيسية / خطوط القوة المغنطيسية
+magnetic measurements	قياسات مغنطيسية
+magnetic meridian	خط الزوال المغنطيسي
+magnetic method	طريقة مغنطيسية
+magnetic moment	عزم مغنطيسي
+magnetic moment density	كثافة عزم مغنطيسي
+magnetic moment of electron	عزم الإلكترون المغنطيسي
+magnetic monopole	أحادي القطب المغنطيسي
+magnetic monopoles	أحادي الأقطاب المغنطيسي
+magnetic needle	ابرة مغنطيسية / إبرة مغنطيسية
+magnetic north	شمال (ال...) المغنطيسي / الشمال المغنطيسي
+magnetic pendulum	نواس مغنطيسي
+magnetic permeability	نفادية مغنطيسية / النفاذية المغنطيسية
+magnetic polarization	استقطاب مغنطيسي
+magnetic pole strength	شدة القطب المغنطيسي
+magnetic poles	أقطاب مغنطيسية
+magnetic potential difference	فرق جهد مغنطيسي / فرق كمون مغنطيسي
+magnetic pumping	ضخ مغنطيسي
+magnetic quadrupole lens	عدسة مغنطيسية رباعية الأقطاب
+magnetic quantum number	عدد كمي مغنطيسي (ن) / العدد الكمومي المغنطيسي
+magnetic remanence	محتفظية مغناطيسية
+magnetic repulsion	تنافر مغنطيسي
+magnetic resonance	رنين مغنطيسي / تجاوب مغنطيسي
+magnetic resonance imaging	تصوير بالتجاوب المغنطيسي
+magnetic resonance spectrum	طيف رنين مغنطيسي
+magnetic rigidity	صلادة مغنطيسية / صلابة مغنطيسية
+magnetic rotation	دوران مغنطيسي
+magnetic saturation	تشبع مغنطيسي / إشباع مغنطيسي
+magnetic shell	قشرة مغنطيسية / وُرِيْقَة مغنطيسية
+magnetic shielding	تدريع مغنطيسي
+magnetic south	جنوب (ال...) المغنطيسي / الجنوب المغنطيسي
+magnetic splitting of spectral lines	انفلاق الخطوط الطيفية المغنطيسي
+magnetic storms	عواصف مغنطيسية
+magnetic strain energy	طاقة انفعال مغنطيسي
+magnetic substances	مواد مغنطيسية
+magnetic susceptibility	متأثرية مغنطيسية / طواعية مغنطيسية
+magnetic tape	شـريط مغنطيسي
+magnetic trap	مصيدة مغنطيسية
+magnetic waves	موجات مغنطيسية
+magnetisation	مغنطة، تمغنط
+magnetism	مغنطيسية (ال...) / مغنطيسية
+magnetization	مغنطة / مغنطة، تمغنط
+magnetization by double touch	مغنطسة لمس مزدوج
+magnetization by single touch	مغنطة لمس مفرد
+magnetization curve	منحنى المغنطة / منحني المغنطة
+magnetization cycle	دورة المغنطة
+magnetization vector	متجه المغنطة / متّجه المغنطة
+magnetizing current	تيار تمغنط / تيار مُمَغنِط
+magnetizing force	قوة ممغنطة
+magneto	مِغنيط / مغنيط
+magneto caloric effect	تأثير المغنطة الحراري
+magneto electricity	كهرباء المِغنيط
+magneto-elastic coupling constants	ثوابت الربط المغنطيسي المرن
+magneto-optic effect	مفعول مغنطيسـي ضوئي
+magneto-optical analysis	تحليل مغنطيسي ضوئي
+magneto-optical trap	مصيدة مغنطيسية ضوئية
+magneto-optics	بصـريات مغنطيسية
+magnetoacoustics	صوتيات مغنطيسية
+magnetoelectricity	كهرباء مغنطيسية
+magnetohydrodynamics	علم تحريك السوائل المغنطيسي
+magnetomechanical damping	تخميد مغنطيسي ميكانيكي
+magnetomechanical factor	عامل مغنطيسي ميكانيكي / عامل ميكانيكي مغنطيسي
+magnetomechanical ratio	نسبة مغنطيسية ميكانيكية
+magnetometer	مقياس شدة المجال المغنطيسي / مقياس المغنطيسية
+magnetomotive force	قوة دفع مغنطيسي
+magneton	مغنطون / مغنِطون
+magnetoresistance	مقاومة مغنطيسية
+magnetosphere	الغلاف المغنطيسي
+magnetostatic field	مجال مغنطيسي ساكن / حقل مغنطيسـي ساكن
+magnetostatics	سكونيات (ال...) المغنطيسية / مغنطيسية ساكنة
+magnetostriction	تقبض مغنطيسي / تقبّض مغنطيسي
+magnetron	مغنطرون
+magnification	تكبير / تجسيم، تكبير، تكبير محوري
+magnified image	صورة مكبرة / خيال مكبَّر
+magnifier	مكبِّرة / مكبِّرة
+magnifying glass	عدسة مكبِّرة
+magnifying power	قدرة التكبير / قدرة التجسيم
+magnitude	مقدار / طويلة متّجه
+magnon	مَغنون
+magnox	مَغنوكس
+main circuit	دارة رئيسية
+mainframe	حاسوب رئيسي
+major tone	نغمة (ال...) الأساسية / نغمة أساسية
+majority carriers	حاملات أكثرية
+Maksutov corrector	مصحح / مصحّح مكْسوتوف
+malleability	طرقانية / قابلية التصفيح
+Malus cosine-squared low	قانون مربع جيب التمام لمالوس
+Malus' law	قانون مالوس
+manganese	منغنيز
+manganese steel	فولاذ منغنيزي
+Mangin mirror	مرآة
+manifold	مُشَعِّب
+manipulator	مناوِل (ن)
+manometer	مضغاط فرقي / مقياس الضغط ذو الشعبتين
+many body problem	مسألة الأجسام المتعددة
+mapping of field	تخطيط المجال
+mariner's compass	بوصلة بحرية
+Mariotte's law	قانون ماريوط
+mars	مريخ (ال...) / المرّيخ
+Martens wedge	اسفين ، وتد
+Marx effect	تأثير / مفعول ماركس
+maser	ميزر
+mask	قِناع
+masking	حَجب / تقنيع
+masking audiogram	مخطط سمعي حجبي
+masking effect	تأثير حجبي
+mass	كتلة
+mass absorption coefficient	معامل الامتصاص الكتلي
+mass action law	قانون فعل الكتلة
+mass analyser	محلِّل كتلي
+mass and weight	كتلة (ال...) والوزن
+mass defect	نقص الكتلة (ن) / نقص الكتلة
+mass dependance on velocity	اعتماد الكتلة على السرعة
+mass energy absorption coefficient	معامل امتصاص الطاقة الكتلي (ن)
+mass energy equivalence	تكافؤ كتلي طاقي
+mass energy transfer coefficient	معامل نقل الطاقة والكتلة (ن)
+mass number	عدد الكتلة (ن) / العدد الكتلي
+mass of earth	كتلة الأرض
+mass of oxygen molecule	كتلة جزيء الأكسجين
+mass of proton	كتلة البروتون
+mass of the atom	كتلة الذرة
+mass of the electron	كتلة الإلكترون
+mass of the universe	كتلة الكون
+mass operator	مؤثر الكتلة
+mass separator	فاصل الكتلة (ن)
+mass spectrograph	راسم طيف كتلي / راسم الطيف الكتلي
+mass spectrometer	مطياف كتلي
+mass spectrum	طيف الكتل / طيف الكتلة
+mass stopping power	قدرة ايقاف كتلية (ن) / مقدرة الإيقاف الكتلي
+mass surface density	كثافة سطحية للكتلة (ن) / الكثافة السطحية للكتلة
+mass velocity	سـرعة كتلية
+mass-absorption coefficient	معامل امتصاص كتلي (ن)
+mass-coefficient of reactivity	معامل المفاعلية الكتلي (ن) / معامل التفاعلية الكتلي
+mass-control	تحكم كتلي
+mass-energy equivalence	تكافؤ الكتلة والطاقة
+masurium	مازوريوم
+matched load	حِمْل مواءَم
+matching	مواءمة
+material accountancy	محاسبة المواد (ن)
+material balance accountancy	محاسبة موازنة المواد (ن)
+material balance area (M.B.A)	منطقة موازنة المواد (ن)
+material balance report	تقرير موازنة المواد (ن)
+material body	جسم مادي
+material particle	جسيم مادي
+material point	جسيم مادي / نقطة مادية
+material system	جملة مادية
+materials testing reactor	مفاعل اختبار المواد (ن)
+materials testing reactor (MTR)	مفاعل اختبار المواد
+Mathiessen's rule	قاعدة ماتيسن
+matrix	مصفوفة
+matrix mechanics	ميكانيك المصفوفات
+matrix representation	تمثيل مصفوفي
+matter	مادة
+matter wave	موجة مادية
+maximal power	قدرى عظمى (ن)
+maximum and minimum angular thermometer	محرار نهايتين
+maximum and minimum thermometer	مقياس الحرارتين العظمى والصغرى
+maximum angular velocity	سرعة زاوية عظمى
+maximum boiling point	نقطة غليان عظمى
+maximum credible accident	أعظم حادثة مفترضة (ن)
+maximum density	كثافة عظمى
+maximum density of water	كثافة الماء العظمى
+maximum excess reactivity	فاض (ال...) الأعظم مفاعلية (ن)
+maximum force	قوة عظمى
+maximum freezing point	نقطة تجمد عظمى
+maximum permeability	نفاذية عظمى
+maximum permissible dose	جرعة عظمى مقبولة (ن) / جرعة عظمى مسموح بها
+maximum permissible dose equivalent	مكافىء جرعة عظمى مقبولة (ن)
+maximum permissible limiting value	قيمة حدية عظمى مقبولة (ن)
+maximum power transfer	انتقال القدرة العظمى
+maximum power transfer theorem	نظرية انتقال القدرة العظمى
+maximum range	مدى أعظم / المدى الأعظم
+maximum reflection	أعظم انعكاس (ن)
+maximum valence	تكافؤ أعضم
+maximum vapour pressure	ضغط بخار أعظم / ضغط البخار الأعظم
+maximum velocity	سرعة عظمى
+maximum work	شغل أعظم
+Maxwell demon	متصوّر / عفريت مكسويل
+Maxwell distribution	توزُّع مكسويل
+Maxwell equations	معادلات / معادلات مكسويل
+Maxwell relations	علاقات
+Maxwell thermodynamic relations	علاقات مكسويل الترموديناميكية
+Maxwell's formula	صيغة مكسويل
+Maxwell-Boltzman statistics	إحصاء مَكسويل بولتزمان
+Maxwell-Boltzmann distribution law	قانون توزيع / قانون توزع مَكسويل-بولتزمان
+maxwellian fluid	مائع ماكسويلي / مائع مَكسويلي
+maxwellian view	رؤية ماكسويلية
+Mayer theory of condensation	نظرية التكثيف لماير
+mean activity	نشاط متوسط
+mean deviation	انحراف متوسط
+mean error	خطأ متوسط
+mean free path	مسار حر متوسط (ن) / مسير حر وسطي
+mean free time	متوسط الزمن الحر / زمن حرّ متوسط
+mean level spacing	تباعد المستويات المتوسط (ن)
+mean life	عمر متوسط (ن) / عمر متوسط
+mean lifetime	عمر متوسط
+mean linear power	قدرة خطية متوسطة (ن)
+mean molecular velocity	متوسط السرعة الجزيئية
+mean range	مدى متوسط (ن)
+mean square velocity	متوسط مربع الساعة / متوسط مربع السـرعة
+mean surface power density	كثافة القدرة السطحية المتوسطة (ن)
+mean value	قيمة متوسطة
+mean velocity	سـرعة متوسطة
+mean-square deviation	متوسط مربع الانحراف
+measurable	قابل للقياس
+measurement	عملية القياس
+measurement of flow	قياس الجريان
+measurement of spectrum	قياس الطيف
+measurement of time	قياس الزمن
+measurement of X-rays	قياس الأشعة السينية
+measuring disc	قرص القياس
+measuring eyepiece	عينية قياس
+mechanical advantage	فائدة ميكانيكية
+mechanical analysis	تحليل ميكانيكي
+mechanical balance	ميزان ميكانيكي
+mechanical compliance	مطاوعة ميكانيكية
+mechanical coupling	ترابط صوتي ميكانيكي
+mechanical energy	طاقة ميكانيكية
+mechanical equivalent	مكافىء ميكانيكي
+mechanical equivalent of heat	مكافىء ميكانيكي حراري / المكافىء الميكانيكي للحرارة
+mechanical equivalent of light	مكافىء ميكانيكي ضوئي / المكافئ الميكانيكي للضوء
+mechanical force	قوة ميكانيكية
+mechanical impedance	ممانعة ميكانيكية
+mechanical mass	كتلة ميكانيكية
+mechanical moment	عزم ميكانيكي
+mechanical moment of inertia	عزم القصور الذاتي الميكانيكي
+mechanical oscillator	متذبذب ميكانيكي
+mechanical passivity	سلبية ميكانيكية
+mechanical reactance	معاوقة ميكانيكية
+mechanical refrigeration	تبريد ميكانيكي
+mechanical resistance	مقاومة ميكانيكية
+mechanical rotational compliance	مطاوعة دوران ميكانيكية
+mechanical rotational impedance	ممانعة دوران ميكانيكية
+mechanical rotational system	نظام اللّي
+mechanical stability	استقرار ميكانيكي
+mechanical stress	إجهاد ميكانيكي
+mechanical system	منظومة ميكانيكية
+mechanical transmission system	نظام نقل ميكانيكي
+mechanics	ميكانيك (ال...) / علم الميكانيك
+mechanism	آلية
+median lethal dose	جرعة مميتة للنصف
+median lethal time	زمن اماتة النصف / زمن مميت للنصف
+medical physics	الفيزياء الطبية
+medium	وسط
+medium frequencies	ترددات متوسطة
+medium-scale integration	مكاملة متوسطة النطاق
+mega	ميغا
+megaohm	ميغا أوم
+megaphone	مجهر، صوت / مِجهار
+meghom; megaohm	ميكاأوم، ميجاأوم
+Meissner effect	تأثير / مفعول مايسنر
+melt (to)	يذيب
+melting point	نقطة الذوبان / نقطة الانصهار
+member of automatic control	عضو التحكم الذاتي (ن)
+membrane	غشاء
+memory	ذاكرة
+mendelevium	مندليفيوم
+meniscus	هلالي
+meniscus lens	عدسة هلالية
+mercury	عطارد، زئبق / عُطارد / زئبق
+mercury arc	قوس زئبقي / قوس زئبقية
+mercury arc lamp	مصباح قوس زئبقي / مصباح قوس زئبقية
+mercury barometer	مضغاط زئبقي / مقياس ضغط جوي زئبقي
+mercury lamp	مصباح الزئبق / مصباح زئبقي
+mercury vapour lamp	مصباح بخار الزئبق
+meridian circle	دائرة الزوال
+meridian plane	مستوي الزوال
+mesh	عروة
+mesh size	مقاس الشبكة
+mesic atom	ذرة ميزونية
+mesocolloid	شبه غروي
+mesodesmic structure	بنية متساوية التآصر
+meson	ميزون
+meson; mesons	ميزون
+mesonic atom	ذرة ميزونية
+mesotron	ميزوترون (ال...)، ميزون
+metacenter	مركز مُتَبَدِّل
+metacenter; metacentre	مركز بيني
+metacentric height	ارتفاع فوقي / ارتفاع المركز المتبدل
+metal	فلز
+metal rectifier	مقوِّم معدني
+metal-insulator transition	انتقال عازل- فلز
+metal-metal contact	تماس فلز- فلز
+metallic bond	رابطة فلزية
+metallic conduction	توصيل فلزي
+metallography	علم بنية الفلزات والسبائك
+metallurgy	علم الفلزات / علم التعدين
+metamaterial	مادة خارقة
+metastable	شبه مستقر
+metastable atom	ذرة شبه مستقرة
+metastable equilibrium	توازن شبه مستقر
+metastable state	حالة شبه مستقرة (ن) / حالة شبه مستقرة
+metastable system	نظام شبه مستقر
+meteor	شهاب
+meteorite	نيزك
+meteorology	علم الأرصاد الجوية
+meter	المتر؛ مقياس، عداد
+meter bridge	قفنطرة مترية
+meter-rule	مسطرة مترية
+method	طريقة
+method of coincidence	طريقة المطابقة؛ طريقة الانطباق
+method of cooling	طريقة التبريد
+method of electrical images	طريقة الصور الكهربائية
+method of inequality theorems	طريقة مبرهنات المراجحة
+method of mixture	طريقة الخلط
+metre	المتر
+metric operator	مؤثر متري
+MEV	مليون الكترون فولت / مليون إلكترون فلط (ميف)
+mho	مهو / موه
+mica	ميكا
+Michelson interferometer	مقياس مايكلسون التداخلي
+Michelson rotating mirror	مرآة ميكلس الدوارة
+Michelson-Morley experiment	تجربة / تجربة مايكلسون ومورلي
+micro-computer	حاسوب مِكروي، حاسوب صِغْري
+microcanonical assembly	تجمع قانوني مجهري
+microchemical analysis	تحليل مكرو كيميائي
+microcurie	مكروكوري
+microelectrode	مسـرى مكروي
+microfarad	مكروفاراد
+microgravity	ثقالة صِغْرية
+micrometer	مكرومتر
+micrometer screw	مِكرومتر؛ الدوَّارة اللولبية
+micromicrofarad	مكرومكرو فاراد، بيكوفاراد
+microphone	لاقطة صوت / مِكرفون، لاقط صوت
+microphonic noise	ضجيج مكرفوني
+microphotography	تصوير مجهري / تصوير صِغْري
+microphysics	فيزياء صِغْرية
+microprocessor	معالج صِغْري
+microscope	مجهر
+microscopic	مجهري (ن)
+microscopic cross section	مقطع عرضي مجهري (ن) / مقطع فعال مجهري
+microscopic mobility	انتقالية مجهرية
+microscopic state	حالة مجهرية
+microspectroscope	مطياف مجهري
+microtron	معجِّل دوراني (ن) ، ميكروترون
+microwave	موجات دقيقة / موجات مكروية، موجات صِغْرية
+microwave spectrum	طيف الموجات الدقيقة / طيف الأمواج المكروية
+migration	نزوح / ارتحال
+migration area	منطقة النزوح / مساحة الارتحال
+migration length	طول النزوح (ن) / طول الارتحال
+migration of ions	نزوح الأيونات
+migration tube	أنبوب تقصي النزوح
+mil	مِل
+mile	الميل
+milking	حلب (ن)
+milky way	درب التبانة / درب التبَّانة
+Miller indices	معاملات مِلَر البلّورية / قرائن ميلر
+Miller-cristal indices	معاملات مِلَر البلّورية
+milliammeter	ملّي أميتر
+millibar	ملّي بار
+Millikan oil drop experiment	تجربة قطرة الزيت لِمِلِكان / تجربة مليكان على قطرة الزيت
+millimicrofarad	ملّي مايكروفاراد
+millimicron	ملّي مايكرون
+mineralogy	علم التعدين
+minicomputer	حاسوب صغير
+minimum angle of deviation	زاوية الانحراف الصغرى
+minimum boiling point	نقطة الغليان الصغرى
+minimum critical mass	أصغر كتلة حرجة (ن)
+minimum critical volume	أصغر حجم حرج (ن)
+minimum deviation	انحراف أصغر / انحراف أصغري
+minimum ionization	تأين أصغر
+minimum ionization speed	سـرعة التأين الصغرى
+minimum of deviation angle	زاوية الانحراف الأصغر
+minimum reflection	أقل انعكاس (ن)
+Minkowski space-time	زمكان منكوفسكي
+minor chord	تآلف أصغَر
+minor diatonic scale	سلم صغير ثنائي النغمات
+minor planets	كواكب (ال...) الصغرى
+minor tone	نغمة (ال...) الثانوية
+minority carriers	حاملات أقلية
+minute	دقيقة
+minute of arc	دقيقة قوسية
+mirage	سراب / سـراب
+mirror	مرآة
+mirror nuclides	نكليدان مرآويان
+miscibility	امتزاجية / مَزُوجيّة
+miscibility gap	فترة امتزاج
+mismatch	عدم مواءمة
+missile	قذيفة صاروخية
+missing mass	الكتلة الخفيَّة
+missing orders	مراتب مفقودة
+mixed crystal	بلورة خليط / بلورة مزيج
+mixed state	حالة مختلطة
+mixer	مازج
+mixer-settler	مازج مروِّق (ن)
+mixing length theory	نظرية طول الخلط
+mixing tube; frequency changer	صمام المزج، مغيِّر التردد
+mixing valve	صمام المزج، مغيِّر التردد
+mixture	خليط / مزيج
+MKS system	الجملة المَكَثية
+MLD	جرعة مميتة للنصف
+mmHg	ملّيمتر زئبق
+mobility	انتقالية / حَرَكية
+mobility analogy	مماثلة انتقالية
+mobility of carriers	حركية الحاملات
+mobility of ions	انتقالية الأيونات / حركية الأيونات
+mobility of ions in solid	انتقالية الأيونات في المادة الصلبة
+mode	نَمَط؛ أسلوب
+mode locking	قَفْل الأنماط
+mode of transmission	نمط الانتشار
+mode of vibration	نمط التذبذب
+model	نموذج
+modem	مودِم
+moderate (to)	يهدىء (ن)
+moderating ratio	نسبة التهدئة (ن)
+moderation	تهدئة
+moderator	مهدّىء (ن) / مهدِّئ
+moderator control	تحكم بالمهدىء (ن)
+moderator dumping	افراغ المهّدىء (ن)
+moderator tank	خزان المهدىء (ن)
+modes of oscillation	أنماط التذبذب
+modification	تعديل
+modified index of refraction	معامل الانكسار المعدَّل
+modulated wave	موجة معدَّلة / موجة معدَّلة
+modulation	تعديل / تعديل؛ تضمين
+modulus	معامل / طويلة؛ معامل
+modulus of elasticity	معامل المرونة / مُعامل المرونة
+modulus of rigidity	معامل الصلادة / معامل القص
+modulus of rupture	معامل التمزق
+modulus of volume elasticity	معامل المرونة الحجمية
+molal	جزيئي مولالي
+molal concentration	تركيز جزيئي مولالي
+molal solution	محلول جزيئي مولالي
+molal volume	حجم جزيئي مولالي
+molality	تركيزية (ال...) الجزيئي المولالية / مولية وزنية
+molar	جزيئي مولالي
+molar concentration	تركيز جزيئي مولالي
+molar conductance	موصلية جزيئية مولالية
+molar dispersivity	تفرقية جزيئية مولالية
+molar gas constant	ثابتة الغازات المولية
+molar heat	حرارة جزيئية مولالية
+molar refraction	انكسار جزيئي مولالي
+molar rotation	دوران جزيئي مولالي
+molar solution	محلول جزيئي مولالي
+molar surface	سطح جزيئي مولالي
+molar surface energy	طاقة سطحية جزيئية مولالية
+molar volume	حجم جزيئي مولالي / الحجم المولي
+molarity	تركيزية (ال...) الجزيئية المولالية / مولية حجمية
+mole	مول، جزيء غرامي
+mole fraction	كسر جزيئي مولالي
+molecular	جزيئي
+molecular attraction	تجاذب جزيئي
+molecular beam	حزمة جزيئية
+molecular beams	حزم جزيئية
+molecular collision	اصطدام جزيئي
+molecular compound	مركّب جزيئي
+molecular constants	ثوابت جزيئية
+molecular crystal	بلّورة جزيئية / بلورة جزيئية
+molecular diagram	مخطط جزيئي
+molecular diameter	قطر جزيئي
+molecular dipole moment	عزم ثنائي الأقطاب جزيئي
+molecular distillation	تقطير جزيئي (ن) / تقطير جزيئي
+molecular excitation	تهيج جزيئي
+molecular field approximation	تقريب المجال الجزيئي / تقريب الحقل الجزيئي
+molecular formula	صيغة جزيئية
+molecular free path	مسار (ال...) الحرالجزيئي / مسير جزيئي حر
+molecular heat	حرارة جزيئية مولالية
+molecular ion	أيون جزيئي
+molecular model	نموذج جزيئية
+molecular number	عدد جزيئي
+molecular orbital	مداري جزيئي
+molecular orbitals	مداريّات جزيئية
+molecular physics	فيزياء جزيئية
+molecular polarizability	استقطابية جزيئية
+molecular rotation	دوران جزيئي
+molecular solids	أجسام صلبة جزيئية
+molecular solution	محلول جزيئي
+molecular solution volume	حجم المحلول الجزيئي
+molecular spectrum	طيف جزيئي / طيف جزيئي، طيف شـريطي
+molecular structure	بنية جزيئية
+molecular theory	نظرية (ال...) الجزيئية / نظرية جزيئية
+molecular velocity	سرعة جزيئية
+molecular weight	وزن جزيئي
+molecule	جزيء
+Mollier diagram	مخطط
+molybdenum	موليبدِن
+moment	عزم
+moment arm	ذراع العزم
+moment of a vector	عزم المتَّجه
+moment of couple	عزم الازدواج / عزم المزدوجة
+moment of force	عزم القوة
+moment of inertia	عزم القصور الذاتي / عزم العطالة
+moment of magnet	عزم المغنطيس
+moment of momentum	عزم الزخم، زخم زاوي / عزم الاندفاع، الاندفاع الزاوي
+moment of torsion	عزم الفتل
+moments method	طريقة العزوم (ن)
+momentum	اندفاع
+momentum operator	مؤثِّر الاندفاع
+momentum transfer	انتقال الزخم
+monatomic gas	غاز أحادي الذرة
+monitor	مرقاب (ن) / مِرقاب
+monoatomic gas	غاز أحادي الذرة
+monochord	أحادي الوتر
+monochord sonometer	مصوات أحادي الوتر
+monochromatic	أحادي اللون
+monochromatic beam	حزمة وحيدة اللون
+monochromatic illuminator	مضيء أحادي اللون
+monochromatic light	ضوء أحادي اللون / ضوء وحيد اللون
+monochromatic radiation	اشعاع وحيد اللون (ن) / إشعاع وحيد اللون
+monochromator	مضيء أحادي اللون
+monoclinic cell	خلية أحادية التناظر
+monoclinic crystal	بلورة أحادية الميل
+monodisperse system	نظام أحادية التفرق
+monoenergetic radiation	اشعاع وحيد الطاقة (ن) / إشعاع أحادي الطاقة
+monomer	أحادي الجزيء / مونومير، أحادي الجزيء
+monomolecular layer	طبقة أحادية الجزيء
+monomorph	أحادي الشكل
+monomorphous	أحادي الشكل
+monotonic function	دالة مطّردة
+monotropy	وحدة الشكل
+monovalent	أحادي التكافؤ
+moon	قمر
+morphotropy	تسكّل / تغيُّر بنيوي
+Morse equation	معادلة
+Morse potential	كُمون مورس
+Morse sounder	دقّاق
+MOS	موس
+MOS transistor	ترانزستور موس
+mosaic structure	بنية فسيفسائية
+Moseley law	قانون
+Moseley's law	قانون موزلي
+Mossbauer effect	مفعول موسباور
+most probable molecular velocity	سرعة (ال...) الجزيئية الأكيلر احتمالاً
+most probable speed	السـرعة الأكثر احتمالًا
+motar (dc)	محرك تيار مستمر
+mother crystal	بلّورة أم
+motion	حركة
+motion of particle	حركة جسيم
+motion of rigid body	حركة جسم صلب
+motion of rotation	حركة دورانية
+motion of system	حركة جملة مادية
+motion of translation	حركة انتقالية / حركة انسحابية
+motion pictures	صورة متحركة
+motional constraint	قيد حركي
+Mott transition	انتقال موتّ
+moving boundary method	طريقة الحد المتحرك، طريقة السطوح الحدية المتحركة
+moving coil	ملف متحرك
+moving constraint	قَيْد متحرك
+moving coordinate system	جملة إحداثيات متحركة
+moving iron	حديد متحرك
+moving system	منظومة متحركة؛ جملة متحركة
+moving-coil galvaometer	مقياس غلفاني ذو إطار متحرك
+moving-magnet galvanometer	مقياس غلفاني متحرك المغنطيس / مقياس غلفاني ذو مغنطيس متحرك
+MRI	تصوير بالتجاوب المغنطيسي
+mu-neutrino	النترينو ميو
+multi-electron atoms	الذرات المتعددة الإلكترونات
+multibeam interferometer	مقياس تداخل متعدد الحزم
+multichannel analyser	محلل متعدد القنوات (ن) / محلل متعدد القَنَوات
+multigroup model	نموذج متعدد الزمر (ن) / نموذج متعدد الزمر
+multigroup theory	نظرية الزمر المتعددة (ن)
+multilayer film	غشاء متعدد الطبقات، فلم متعدد الطبقات
+multimeter	مقياس متعدد
+multiple decay	اضمحلال متعدد
+multiple disintegration	تفكك متعدد
+multiple echo	صدى متعدد
+multiple radiation	اشعاع متعدد
+multiple reflection	انعكاس متعدد
+multiple scattcring	تبعثر متعدد
+multiple scattering	استطارة متعدّدة (ن)
+multiple switch board	لوحة متعددة المبدلات
+multiplet	تعددي / عديدة
+multiplet intensity rules	قواعد شدة خطوط تعددية
+multiplication	تكاثر، تضاعف
+multiplication constant	ثابتة التكاثر
+multiplication factor	عامل التكاثر
+multiplicity	مرتبة التعددية
+multiplying	مضاعِف (ن)
+multipolar	آلة عديدة الأقطاب
+multipole	متعدد الأقطاب
+multipole moment	عزمُ عديدِ الأقطاب
+multipole moments	عزوم متعددة الأقطاب
+multipole radiation	اشعاع متعدد الأقطاب / إشعاعُ عديدِ الأقطاب
+multivibrator	متعدد الاهتزازات / متذبذب متعدد
+Munsell chroma; saturation	تشبع لوني
+muon	ميون
+muonic atom	ذرة ميونية
+muonic neutrino	النترينو الميوني
+musical echo	صدى موسيقي
+musical intervals	فواصل موسيقية
+musical scale	سلّم موسيقي
+musical sound	صوت موسيقي
+mutarotation	تغير الدوران / تغير الدوران الاستقطابي
+mutual attraction	تجاذب متبادل
+mutual conductance	موصِّلية متبادلة
+mutual impedance	ممانعة متبادلة
+mutual inductance	تحريضية متبادلة
+mutual induction	تحريض متبادل
+mutural conductance	موصلية متبادلة
+muzzle	فوّهة
+myopea	قِصر النظر
+myopia	حَسـر البصـر، قِصـر البصـر

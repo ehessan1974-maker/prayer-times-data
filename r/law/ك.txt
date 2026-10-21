@@ -1,0 +1,57 @@
+كاتب العقد	Drafter (Of A Contract)
+كاتب ضبط	Clerk
+كاتب عدل	Notary Public
+كاشف الفساد	Whistleblowing
+كامل الأهلية	Fully Competent Person
+كامل خارجي نشط	Active External Integration
+كانبان	Kanban
+كايزن	Kaizen
+كتابة الضبط (بالمحكمة)	clerk's office
+كتابة العدل	Notary Public Office
+كتالوج إلكتروني	E-Catalogue
+كتلة تجارية	Trade Bloc
+كتلة حرجة	Critical Mass
+كتلة لوجستية	Logistics Cluster
+كثافة رأسمالية (الأساس النقدي)	Capital Intensive
+كثيري الإنجاب	Baby Boomers
+كذبٌ، افتراء	falsehood
+كراء أراضٍ زراعية، إجارة أراضٍ زراعية	rural lease
+كراء طويل الأجل، إيجار طويل الأجل	long lease
+كرامة	dignity
+كربون متجسد	Embodied Carbon
+كرْه الأجانب، معاداة الأجانب	xenophobia
+كسر التعادل	Break Even
+كشط السعر	Price Skimming
+كشف الاختراع	Invention disclosure
+كشف الحساب الشامل	Statement Of Comprehensive Income
+كشْف حساب	abstract of account / statement of account
+كفاءات أساسية	Core Competencies
+كفاءة	Efficiency
+كفاءة (جدارة)	Collective Efficacy
+كفاءة الإنتاج	Competency
+كفاءة بيئية	Production Efficiency
+كفاءة جماعية	Eco-Efficiency
+كفاءة ذاتية	Self-Efficacy
+كفاءة، أهلية	qualification
+كَفالة	Bailment / caution; bail; suretyship
+كَفالةٌ اتفاقيةٌ	conventional caution
+كَفالة انتخابية	election deposit
+كَفالة تجارية	commercial caution
+كَفالة شخصية	personal caution
+كَفالة مدنية	civil caution
+كَفالة مصرفية، كَفالة بنكية	bank security
+كفيل	Sponsor
+كفِيل، كَفالة	surety
+كلفة أولية	Prime Cost
+كلمة مفتاح	keyword
+كمبيالة	Bill of Exchange
+كمبيالة تدفع بمجرد الاطلاع، كمبيالة عند التقديم	draft payable at sight; sight draft
+كمبيالة مستندية	documentary bill of exchange
+كمي	Quantitative
+كمية	quantity
+كمية الدفعة	Batch Quantity
+كمية الطلب / الأمر الاقتصادي	Economic Ordering Quantity (EOQ)
+كود الهدف	Objective Code
+كوكب	Planet
+كونفورمايت يوروبين	Conformity European (CE)
+كيان قانونيّ	legal entity

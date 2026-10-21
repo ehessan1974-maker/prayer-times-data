@@ -1,0 +1,74 @@
+ذات السدس	sextant
+ذاتّي	intrinsic
+ذاكرة	memory
+ذاكرة قرائية	ROM / read-only memory
+ذاكرة قلبها فريتي	ferrite-core memory
+ذاكرة نفاذ عشوائي؛ رام	Random Access Memory
+ذبذبات توافقية	harmonic vibrations
+ذبذبات حرة	free vibrations
+ذبذبات طولانية	longitudinal vibrations
+ذبذبة	vibration
+ذبذبة (ن)	oscillation
+ذبذبة النوّاس، تذبذب البندول	swing of pendulum
+ذبذبة توافقية مخمّدة	damped harmonic oscillation
+ذبذبة حرة	free oscillation
+ذبذبة قسرية	forced oscillation / forced vibration
+ذبذبة متخامدة	damped vibration
+ذبذبة مخمدة	damped oscillation
+ذرات متقبِّلة	acceptor atoms
+ذراع	arm
+ذراع العزم	moment arm
+ذراع المُزدوجَة	arm of a couple / arm of couple
+ذراع توصيل	connecting rod
+ذراعا الرافعة	arms of lever
+ذرة	atom
+ذرة (ن)	atom
+ذرة أحادية الالكترون (ن)	one electron atom
+ذرة الشائبة	impurity atom; chemical impurity; foreign atom
+ذرة الكربون	carbon atom
+ذرة الهدروجين	hydrogen atom
+ذرة الهيدروجين (ن)	hydrogen atom
+ذرة بور	Bohr atom
+ذرة بوزترونية؛ بوزترونيوم	positronium
+ذرة بوزيترونية	positronium
+ذرة حارة	hot atom
+ذرة حارة (ن)	hot atom
+ذرة حرة	free atom
+ذرة خلالية	interstice atom
+ذرة رباعية الأوجه	tetrahedral atom
+ذرة شائبة	foreign atom; chemical impurity, impurity atom / impurity atom
+ذرة شبه مستقرة	metastable atom
+ذرة شبيهة بالهدروجين	hydrogen-like atom
+ذرة طومسون	Thomson's atom
+ذَرَّة غرامية	gram-atom
+ذرة غريبة	exotic atom / foreign atom
+ذرة مانحة	donor atom
+ذرة مُثارة	excited atom
+ذرة مضادة	antiatom
+ذرة معرّاة	stripped atom
+ذرة منتزعة (ن)	knocked out atom
+ذرة موسومة	tagged atom
+ذرة ميزونية	mesic atom / mesonic atom
+ذرة ميونية	muonic atom
+ذروة ، رأس	apex
+ذروة السرعة	peak velocity
+ذروة السرعة الزاوية	peak angular velocity
+ذروة الضغط الصوتي	peak sound pressure
+ذروة الفولطية	voltage peak
+ذروة القوّة	peak force
+ذروة الموجة	wave crest
+ذروة، قمّة	peak
+ذُروة؛ رأس	vertex
+ذري (ن)	atomic
+ذكّو حراريّ	recalescence
+ذهب	gold
+ذو فلزّين	bimetal
+ذو مسـريين صمامي؛ دَيود صمامي	valve diode
+ذوّاب؛ قابل للانحلال	soluble
+ذوبان	dissolving
+ذوبان؛ انحلال	dissolution
+ذوباني	soluble
+ذوبانية	solubility
+ذوبانية تراجعية	retrograde solubility
+ذوبانية حقيقية	real solubility
+ذوبانية ظاهرية	apparent solubility

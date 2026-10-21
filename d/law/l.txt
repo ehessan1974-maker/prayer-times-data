@@ -1,0 +1,265 @@
+label	علامة تجارية
+Labor Circuit	دائرة عمالية
+Labor Court	محكمة عمالية
+Labor Intensive	صناعة ثقيلة
+labour contract	عقد عمل، عقد شغل
+labour disputes; labour conflicts	منازعات الشغل، نزاعات الشغل
+labour law; employment law	قانون الشغل، قانون العمل
+labour market	سوق الشغل، سوق العمل
+labour relation	علاقة شغل، علاقة عمل
+labour shortage	قلة اليد العاملة
+lack of assets	عوز (عدم وجود ما يحجز عليه)
+Lack of Jurisdiction	عدم الاختصاص
+Lack of Subject-Matter Jurisdiction	عدم الاختصاص النوعي
+Lag Measures	تدابير متأخرة
+Laggards	متقاعسون
+land law	قانون عقاريّ
+land register	سِجلّ عقاريّ
+land registration	شهر عقاريّ
+land tax	ضريبة عقارية
+land transport	نَقْل بريّ
+lapsing	انعدام الأثر
+Last Mile	ميل أخير
+Last Shot Principle	مبدأ اللقطة الأخيرة
+latent	خفيّ
+latent defect; hidden defect	عيب خفيّ
+Latent Defects	عيوب كامنة
+law	قانون / نظام
+law and order	نظام عام
+law of domicile	قانون الموطن
+law of flag	قانون العلَم
+law of obligations and contracts	قانون الالتزامات والعقود، قانون الموجبات والعقود
+law of property	قانون الأموال
+law of supply and demand	قانون العرض والطلب
+law publication	نَشْر القانون
+law silence	سكوت القانون
+lawsuit	دعوى مدنية
+Lawyer	محامي
+lawyer; advocate	محامٍ
+Layering	تصفيف
+Layout design	تصميم تخطيطي
+Layout design certificate	شهادة تصميم تخطيطي
+Layout designs of integrated circuits	التصميمات التخطيطية للدرات المتكاملة
+Lead Time	مهلة الزمنية
+Lead To Cash (L2C) Process	عملية تؤدي إلى السيولة
+Leadership	قيادة
+leading judgments	قرارات مبدئية
+Leading Measures	تدابير رائدة
+Lean	البساطة
+Lean Distribution	توزيع المتدرج أو التدرجي
+Lean End-To-End Supply Chain	سلسلة التوريد الهزيلة من طرف إلى طرف
+Lean Manufacturing	صناعة تدرجية / متدرجة
+Lean Processes	عمليات العجاف
+Lean Supply	عرض متدرج
+Learning	تعلم
+Learning Curve	منحنى التعلم
+Learning Organization	منظمة تعليمية
+Learning Specification	مواصفات التعلم
+lease	إيجار، كراء / استئجار / تأجير / إيجار
+Lease Contract	عقد الإيجار
+leaseholder; tenant; lessee	مستأجِر، مُكترٍ
+leave	إجازة، عطلة
+ledger	دفتر الحسابات، دفتر (ال..) الأستاذ
+Left Wing	الجناح الأيسر
+Legacies	موروثات
+Legacy Supply Chains	سلاسل التوريد القديمة
+Legacy Systems	أنظمة قديمة
+legacy; testament	وصية
+legal	قانونيّ، شرعيّ
+legal act	تصرُّف قانونيّ
+legal action	دعوى قضائية
+legal administrator	مسيّر قانونيّ
+legal advice; legal consultation	استشارة قانونية
+legal adviser	مستشار قانونيّ
+legal age	سِنّ قانونية
+legal aid	مساعدة قانونية
+Legal Arrangement	ترتيب قانوني
+Legal capacity	أهلية قانونية
+legal compensation	مَقاصة قانونية
+legal department	مصلحة قانونية
+Legal Disposition	تصرف قانوني
+legal element (of a crime)	ركن قانونيّ (للجريمة)
+legal entity	كيان قانونيّ
+legal excuses	أعذار قانونية
+legal fact	واقعة قانونية
+legal fiction	حيلة قانونية
+legal guardian; legal tutor	وصيّ شرعيّ
+legal holiday	يوم عطلة قانونيّ
+legal interdiction	حَجْر قانونيّ
+legal interest	مصلحة قانونية، فائدة قانونية
+Legal Liability	مسؤولية قانونية
+legal mandate	وكالة قانونية
+legal monopoly	احتكار قانونيّ
+legal mortgage	رهْن قانونيّ
+legal notice	إعلام قضائيّ، إعلام قانونيّ
+legal obligation	التزام قانونيّ / التزام قانوني
+Legal Person	شخص اعتباري
+legal personality	شخصية قانونية
+legal precedent	سابقة قضائية
+legal presumption	قرينة قانونية
+Legal Procedure	إجراء قانوني / إجراء نظامي
+Legal Provision	نص نظامي
+legal rate	سِعْر قانونيّ
+legal regime	نظام قانونيّ
+Legal Relationship	علاقة قانونية
+Legal Representative	مُمثِل نظامي
+legal reserve	احتياطيّ قانونيّ
+legal responsibility	مسؤولية قانونية
+legal rule	قاعدة قانونية
+legal sanction	عقوبة قانونية
+legal servitude	ارتفاق قانونيّ
+legal solidarity	تضامُن بحكم القانون، تضامُن بقوة القانون
+Legal Status	وضع قانوني
+legal status (of real property)	نظام عينيّ
+legal subrogation	حلول بحكم القانون
+legal summons	دعوى قضائية، تكليف بالحضور
+Legal System	نظام قانوني
+Legalese	قانوني
+legality	شرعية
+legally; lawfully	قانوناً، شرعاً
+legatee	موصى له
+legation	مفوضية
+legislation	تشريع
+legislative initiative	مبادرة تشريعية
+legislative power; legislative authority	سلطة تشريعية
+legislative referendum	استفتاء تشريعيّ
+legislator	مُشرِّع، شارِع
+legislature	هيئة تشريعية
+legist	قانونيّ، مُشرِّع، فقيه
+legitimacy	مشروعية
+legitimate	مشروع، شرعيّ
+legitimate child	ولد شرعيّ
+legitimate defence	دفاع شرعيّ
+Legitimate interest	مصلحة مشروعة
+legitimate relationship	قرابة شرعية
+legitimate suspicion	تشكك مشروع، ريبة مشروعة
+Lending	إقراض
+leonine clause	شرط الأسد
+lesion	غبن
+Lessee	مستأجِر
+Lessons Learned	دروس مستفادة
+lessor	مُؤجِّر، مُكرٍ / مؤجِّر
+letter of credit	خطاب اعتماد / اعتماد مستندي / خطاب الاعتماد
+Letter Of Credit (LC/LOC)	خطاب الاعتماد
+letter of guarantee	خطاب ضمان / خطاب الضمان
+Letter Of Intent (LOI)	خطاب نوايا
+letters rogatory	إنابة قضائية
+Level Of Service Timeline	مستوى الجدول الزمني للخدمة (خطاب النوايا)
+Level Schedule	جدول زمني
+Level The Playing Field	مستوى الملعب
+Leverage	تأثير إيجابي
+Leverage Items	رفع العناصر
+lex loci contractus	قانون العقد
+Liabilities	خصوم
+liability insurance	تأمين المسؤولية
+liberal profession	مهنة حرة
+liberate share	سهم محرَّر
+liberation army	جيش التحرير
+liberation of shares; payment of shares	تحرير الأسهم، دَفْع قيمة الأسهم
+liberty of contract	حرية التعاقد
+licence	رخصة
+License	ترخيص / رخصة
+License contract	عقد ترخيص
+License contract amendment	تعديل عقد الترخيص
+licensee	صاحب رخصة
+licit cause	سبب مشروع، سبب جائز
+licit object	محل مشروع
+lie detector	آلة كشف الكذب
+life annuity	إيراد عمريّ، دَخْل مدى الحياة
+life certificate	شهادة الحياة
+Life Cycle	دورة الحياة
+Life Cycle Assessment (LCA)	تقييم دورة الحياة
+Life Cycle Inventory	جرد دورة الحياة
+life insurance	تأمين الحياة
+life reclusion; life imprisonment	سجن مدى الحياة، سجن مؤبد
+Life-Cycle Costing (LCC)	تكلفة دورة الحياة
+Life-Cycle Costs	تكاليف دورة الحياة
+Light-Emitting Diode (LED)	صمام نائي الباعث للضوء
+lighterage contractor	مقاول الشحن والتفريغ
+Likert Scale	مقياس ليكرت
+Limit Of Liability	حدود المسؤولية
+limitation of liability; limitation of responsibility	تحديد المسؤولية
+Limitation Periods	فترات التقادم
+Limitations	محددات
+Limited (Ltd)	محدودة
+limited liability company	شركة ذات مسؤولية محدودة
+limited liability; limited responsibility	مسؤولية محدودة
+limited partnership	شركة توصية بسيطة
+limited partnership by shares	شركة توصية بالأسهم
+Limited Recourse	دين حق الرجوع المحدود / الجزئي
+limited tender	مناقصة عمومية محدودة، مزايدة عمومية محدودة
+limiting responsibility clause	شرط محدد للمسؤولية
+Line Flow	تدفق الخط
+Line Item Detail	تفاصيل البند
+Line Of Best Fit	خط الاحتواء الأفضل
+Line Reports	تقارير الخط
+lineal kinship	قرابة مباشرة
+link of causality	علاقة سببية، رابطة سببية
+Linkages	روابط
+Liquid	سائل
+Liquid Assets	أصول سائلة
+Liquidated Damages	أضرار ناجمة
+Liquidating	تصفية
+liquidation	تصفية
+liquidation of succession	تصفية تركة
+Liquidation Proceedings	إجراءات التصفية
+liquidator	مُصَفٍّ / مُصفِّي
+liquidity	سيولة
+liquidity ratio	نسبة السيولة
+Liquidity Ratio Analysis	تحليل نسبة السيولة
+literary property	مِلكية أدبية، مِلكية فنية
+Literary works	مصنفات أدبية
+Litigant	خصم
+litigation	خصومة / تقاضي
+litigation immutability principle	مبدأ ثبات النـزاع
+litigious debt	دَين متنازع فيه
+Livestock	ماشية
+Living Wage	أجر المعيشة
+Loading	تحميل
+loan	سلفة، عارية، قَرْض / قرض
+loan company	شركة قرض، شركة تسليف
+Loan contract	عقد قرض / عقد القرض
+loan of consumption	عارية الاستهلاك
+loanee	مقترِض
+loaner	مقرِض
+Lobby	جماعات الضغط
+local administration	إدارة محلية
+local authorities	جماعات محلية
+local banishment	حَظْر الإقامة
+local custom	عُرف محليّ
+local governance	حوكمة محلية
+local government	حكومة محلية
+Local Living Wage	أجر المعيشة المحلي
+local register	سِجلّ محليّ
+local resources	موارد محلية
+local trade	تجارة محلية
+Localization	توطين
+Localized Supply Chain	سلسلة التوريد المحلية
+lockout; lock-out	إغلاق المقاولة في وجه الأجراء
+lodger	نزيل
+lodging allowance	بَدَل سكن، تعويض سكن
+Logarithmic Scale	مقياس لوغاريتمي
+Logical Incrementalism	تدرج منطقي
+Logistics Cluster	كتلة لوجستية
+Logistics Control	رقابة لوجستية
+Logistics Management	إدارة اللوجستيات
+Logistics Postponement	تأجيل اللوجستيات
+long lease	كراء طويل الأجل، إيجار طويل الأجل
+long term loan	قرض طويل الأجل
+Long Thin Process	عملية خطية طويلة
+long-dated	لأجل طويل
+Longevity	طول العمر التجاري
+Loosely Coupled Supply Chain	سلسلة التوريد المقترنة بشكل فضفاض
+loss	تَلَفٌ، خسارة / هلاك
+Loss Leader Pricing	تسعير زعيم الخسارة
+loss of nationality; denationalization	فقدان الجنسية
+Lost Time Incidents (LTI)	حوادث الإنقطاع عن العمل
+Lotting Strategy	استراتيجية لوتينغ
+Low Context Culture	ثقافة السياق المنخفض
+Low Cost Countries	دول منخفضة التكلفة
+Low-Cost Supply	توريد منخفض التكلفة
+Lower Specification Limit	حد مواصفات أقل
+lucrative	مُربِح، جالِب للكَسْب / مربح
+lump sale	بَيْع الجزاف
+Lump Sum	مبلغ مقطوع
+Lump Sum Compensation	تعويض مقطوع

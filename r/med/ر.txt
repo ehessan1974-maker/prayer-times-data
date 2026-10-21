@@ -1,0 +1,3000 @@
+رُؤْبَةٌ ذاتِيَّة ( طُعْمٌ ذَاتِيّ)	autoplast (autograft)
+رُؤوسُ زَهْرِ البابونَج	Matricaria
+رُؤَيْس	capitulum
+رؤيس - رأس صغير	capitellum (pl. capitula)
+رُؤَيسُ الرِّكاب (رَأْسُ الرِّكاب)	capitulum stapedis (caput stapedis)
+رُؤَيسُ الزَّنْد ( رَأْسُ الزَّنْد)	capitulum ulnae (caput ulnae)
+رُؤَيسُ الزَّنْد، رَأْسُ الزَّنْد	capitulum ulnae
+رُؤَيسُ الشَّظِيَّة (رَأْسُ الشَّظِيَّة)	capitular fibulae (caput fibulae NA)
+رُؤَيسُ الضِّلْع (رَأْسُ الضِّلْع)	capitulum costae (caput costae NA)
+رُؤَيسُ العَضُد	capitellum / capitulum humeri / capitulum of humerus
+رُؤَيسُ الكُعْبُرَة (رَأْسُ الكُعْبُرَة)	capitulum radii (caput radii)
+رُؤَيسُ المِطْرَقَة (رَأْسُ المِطْرَقَة)	capitulum mallei (caput mallei NA)
+رُؤَيسُ النَّاتِئِ اللُّقْمِيُّ للفَك السُّفْلِيّ (رَأْسُ الفَك السُّفْلِي)	capitulum processus condyloidei mandibulae (caput mandibulae)
+رُؤَيسٌ بَدْئِيّ	protoscolex
+رُؤَيسُ عَظْمِ السِّنْع (رَأْسُ عَظْمِ السِّنْع)	capitulum ossis metacarpalis (caput ossis metacarpalis)
+رُؤَيسُ عَظْمِ المِشْط (رَأْسُ عَظْمِ المِشْط)	capitulum ossis metatarsalis (caput ossis metatarsalis)
+رُؤَيس كاذِب	pseudoscolex
+رُؤَيسات [ف:رُؤَيْس]	capitula [sing.capitulum]
+رُؤَيسِيّ	capitular
+رُؤْيَة ; إِبْصار	visus
+رؤيَةٌ أحاديَّةُ اللَّون ( عَمى الأَلْوانِ التَّام)	monochromatism
+رؤيةٌ أُحادِيَّةُ اللَّون (عَمَى الأَلْوانِ التَّام)	monochromasy (monochromatism)
+رُؤْيَةٌ إِصْبَعِيَّة	finger vision
+رُؤْيَةُ الأَصْفَرِ و الأَزْرَق	xanthokyanopy
+رُؤْيَةُ الأَصْفَرِ و الأَزْرَق (عمى الأخضر والأحمر)	xanthocyanopsia
+رُؤْيَةُ الأَلْوان	color vision
+رُؤْيَةُ التَّوماض	coruscation
+رُؤْيَةُ العَوَائِم	myiodesopsia / myodesopsia (myiodesopsia) / myopsis (myiodesopsia)
+رُؤْيَةٌ أُنْبُوبِيَّة	tubular vision
+رُؤْيَةٌ بالعَينَين	binocular vision
+رُؤْيَةٌ بَنَفْسَجِيَّة	ianthinopsia / violet vision
+رُؤْيَةُ بيك (رؤية انحرافيَّة افقية)	Pick's vision
+رُؤْيَةٌ تَجْسِيْمِيَّة	solid vision / stereopsis / stereoscopic vision
+رُؤْيَةٌ تَجْسيمِيَّةٌ كاذِبَة	pseudoscopic vision
+رُؤْيَةٌ تِلْوِيَّة	aftervision
+رُؤْيَةٌ ثانَوِيَّة ( بَصَرٌ شَيخوخِيّ)	second sight (senopia)
+رُؤْيَةٌ ثُلاَثِيَّة	triple vision / triplopia
+رُؤْيَةٌ ثُنائِيَّةُ اللَّون	dichromtic vision
+رُؤْيَةٌ حَمْراء	erythropia (erythropsia) / erythropsia / red vision
+رُؤْيَةٌ خارِجَ المَرْكَزِيَّة	eccentric vision
+رُؤْيَةٌ خَضْراء	green vision
+رُؤْيَةٌ دِماغِيَّةٌ لَونِيَّة (ترابط الألوان مع إحساسات أخرى)	encephalopsy
+رُؤْيَةٌ دَمَوِيَّة	hematopsia
+رُؤْيَةٌ رُباعِيَّةُ الأَلْوان	tetranope
+رُؤْيَةٌ زَرْقاء	blue vision / cyanopia / cyanopsia
+رُؤْيَةٌ صَغِيْرَةُ الخَيَال	micropia (micropsia)
+رُؤْيَةٌ صَفْراء	xanthopia (xanthopsia) / xanthopsia / yellow vision
+رُؤْيَةٌ ضَخامِيَّة	macropia (macropsia) / macropsia / megalopia (macropsia) / megalopsia (macropsia)
+رُؤْيَةٌ ضَعيفَة	low vision
+رُؤْيَةٌ ضِيائِيَّة (تحسن الرؤية في الضياء المعتدل أكثر منها في الضياء الشديد)	eopsia (orthropsia)
+رُؤْيَةٌ ضِيَائِيَّة (رُؤْيَةٌ نَهَارِيَّة)	photopic vision (day vision)
+رُؤْيَةٌ ظَلامِيَّة	scotopic vision (night vision)
+رُؤْيَةٌ غَلَسِيَّة	mesopia
+رُؤْيَةٌ غَلَسِيَّةٌ ( رُؤْيَةٌ لَيلِيَّة)	twilight vision (night vision)
+رُؤْيَةٌ غَيْرُ مَحْسوسَةِ النَّقْص	vision null
+رُؤْيَةٌ فَرْدِيَّةٌ	haplopia
+رؤية قزحية	irisopsia
+رُؤْيَةٌ كاذِبَة	false vision
+رُؤْيَةٌ كاذِبَة ( هَلْوَسَةٌ بَصَرِيَّةٌ)	pseudopsia (visual hallucination)
+رُؤْيَةٌ لامُباشِرَة	indirect vision
+رُؤْيَةٌ لَونِيَّة	chromatic vision / color vision
+رُؤْيَةٌ لَيلِيَّة	night sight / night vision
+رُؤْيَةٌ مُباشِرَة	direct vision
+رُؤْيَةٌ مُتَعَدِّدَة	multiple vision
+رُؤْيَةٌ مُتَغايِرَة	heteroptics
+رُؤْيَةٌ مُجَسَّمَة	haploscopic vision
+رُؤْيَةٌ مَحْسوسَةُ النَّقْص	vision obscure
+رُؤْيَةٌ مُحْمَرَّةٌ بالظُّلْمَة	scoterythrous vision
+رُؤْيَةٌ مُحيطِيَّة	peripheral vision
+رُؤْيَةٌ مُذَبْذَبَة	oscilllating vision
+رُؤْيَةٌ مَرْكَزِيَّة	central vision
+رُؤْيَةٌ مُزْدَوِجَة (شَفَع)	double vision
+رُؤْيَةٌ مُسْتَدِيْمَة	persistence vision
+رُؤْيَةٌ مُسْتَصْغِرَة	micropsia
+رُؤْيَةٌ مَظْلولَة	scieropia
+رُؤْيَةٌ مُفْرِطَةُ التَّلَوُّن	hyperchromatopsia
+رُؤْيَةٌ مُقَزِّحَة	achromtic vision
+رُؤْيَةٌ مُقَزِّحَة (رُؤْيَةٌ هاليَّة)	iridescent vision (halo vision)
+رُؤْيَةٌ مَمَرِّيَّة (رُؤْيَةٌ نَفَقِيَّة)	shaft vision (tunnel vision)
+رُؤْيَةٌ نَبَُّوتِيَّة	rod vision
+رُؤْيَةٌ نِصْفِيَّة	half vision
+رُؤْيَةٌ نَفَقِيَّة	tunnel vision
+رُؤْيَةٌ نُقَيْرِيَّة ( رُؤْيَةٌ مَرْكَزِيَّة)	foveal vision (central vision)
+رُؤْيَةٌ نَهارِيَّة	day sight / day vision / diurnal vision / photopia (day vision)
+رُؤْيَةٌ هالِيَّة	halo vision / rainbow vision (halo vision)
+رُؤْيَةٌ هالِيَّةٌ قُزَحِيَّة (في الزرق)	iridization
+رُؤْيَةٌ هاليَّةٌ مُقَزَّحَة	irisopsia
+رُؤْيَةٌ هامِشيَّة	marginal vision
+رُؤْيَةٌ وَجْهِيَّة	facial vision
+رُؤْيَةٌ وَحِيْدَةُ العَين	monocular vision
+رُؤية، إبصار	vision
+رُؤْيَة؛إِبْصار	vision
+رئة	lung / pulmo-; lung
+رِئَة ؛ سَحْر	lung
+رِئَةٌ اِصْطِنَاعِيَّةٌ ( مِكْساج)	artificial lung (oxygenator)
+رِئَةُ البَنَّائين	masons' lung
+رِئَةُ الحَصَّادين ( رئة المُزارعين)	harvesters' lung (farmers' lung)
+رِئَةُ الصِّدْمة ( مُتَلازِمَةُ الضَّائِقَةِ التَّنَفُّسِيَّة)	shock lung
+رِئَةُ الطَّحانين	miller's lung
+رِئَةُ المُزارِع	farmer's lung
+رِئَةُ المُزَارِعِيْن	farmers' lung / threshers' lung (farmers' lung)
+رِئَةُ المُعَدِّنين	miners' lung
+رِئَةُ اليوزينيَّات (¬ كَثْرَةُ اليوزينيَّات الرِّئويَّة المَدارِيَّة)	eosinophilic lung (®tropical pulmonary eosinophilia)
+رِئَةُ بَيضْاء ( الاِلْتِهابُ الرِّئَوِيُّ الأَبْيَض)	white lung (pneumonia alba)
+رئة رَطْبَة ( وَذَمَةُ الرِّئَة)	wet lung (pulmonary edema)
+رِئَةٌ ركودِيَّة	hydrostatic lung
+رِئَةٌ سَمْرَاء ( سُحارُ قُطْنِيّ)	brown lung (byssinosis)
+رِئَةٌ سَوْداء ( سُحار المُعَدِّنين)	black lung (mineworker's pneumoconiosis)
+رِئَةٌ شَفيفَة ( نُفاخٌ رئوي وحيد الجَانب)	hyperlucent lung (unilateral emphysema)
+رِئَةُ عُمَّالِ الصَّوامِع	silo-fillers' lung
+رِئَةُ عُمالُ اللَّحام ( سُحارٌ حَديدِيّ)	arc-welder lung (siderosis)
+رِئَةٌ غَرْقَى	drowned lung
+رِئَةٌ فولاذَيَّة ( مِنْفاسٌ فُولاذِيّ)	iron lung
+رِئَةٌ قَلْبِيَّة	cardiac lung
+رِئَةٌ لِيفانِيَّة	fibroid lung
+رِئَةٌ مُتَعَضِّلَة	carnified lung
+رِئَةُ مُرَبِّي الحَمَام (رِئَةُ مُرَبِّي الطُّيور)	pigeon-breeders' lung
+رِئَةُ مُرَبِّي الطُيور	bird-breeder's lung
+رِئَةٌ مُضْمَحِلَّة	vanishing lung
+رِئَةُ مُعَدِّني الفَحْم	coal-miner's lung
+رِئَةٌ مُنَخْرَبَة ؛ رِئَةٌ شَبِيْهَةٌ بعُشِّ النَّحْل	honeycomb lung
+رِئَةُ يوريميَّة	uremic lung
+رِئَوِيّ	pneumal / pulmonal / pulmonary / pulmonic; pulmonal; pulmonary
+رِئَوِيٌ أَبْهَرِيّ	pulmoaortic
+رِئَوِيٌّ بَصَلِيٌّ	pneumobulbar / pneumobulbous
+رِئَوِيٌّ جَيبِيّ	sinopulmonary
+رئوي شُعَبي	bronchopulmonary
+رِئَوِيٌّ صِفاقِيّ	pulmonoperitoneal
+رِئَوِيٌّ قَلْبِيّ	cardiopneumatic / pneumocardial
+رِئَوِيٌّ كَبِدِيّ	pulmonohepatic
+رِئَوِيٌّ مَعِدِيّ	pneumogastric
+رِئْي (في مِنْظارِ العَين)	mire
+رَئيس	chief
+رَئيسُ الأَطِبَّاء	protomedicus
+رَئيسُ الجَرَّاحين	chief surgeon
+رَئيسُ الشُّعْبَة	chief of service
+رَئيسُ المُهَنْدِسين	chief engineer
+رَئيسُ الهَيْئَة؛رَئِيْسُ الأَطِبَّاء	chief of staff
+رَئيسَةُ المُمَرِّضات	chief of nursing / head nurse / matron
+رَئيسِيّ	cardinal / chief / principal
+رَئِيسِيّ، كبْرى، كبير	major; capital
+راؤُولٌ إِنْسِيّ [ج:رَوَائيلُ إِنْسِيَّة]	mesiodens [pl.mesiodentes]
+رَائِحة	odor; odour / odour / smell
+رائِحَة [ج:رَوائِح]	odor (odour)
+رائِحَةُ الإِبْط	hircism / hircismus
+رائحة الكف	palm
+رَائِحَة حَادَّة	pungent odour / sharp odour
+رائِحَةٌ كَريهَة	bad odor / offensive odor
+رائِس [ج:رَوائِس] (في الديدان الشريطية)	scolex [pl.scoleces]
+رائِسِيُّ الشَّكْل	scoleciform
+رائق	glairy
+رائق، صاف	limpid
+رَأْبٌ أَجْنَبِيّ	xenoplasty
+رَأْبُ الأَبْهَر	aortorrhaphy
+رَأْبُ الإِثْناعَشَرِيّ	duodenoplasty
+رَأْبُ الإِحْليل	urethroplasty
+رَأْبُ الأُذُن	otoplasty
+رَأْبُ الإِسْفَنْجِيَّة (العظمية)	spongiosaplasty
+رَأْبُ الأَعْضاءِ التَّناسُلِيَّة	genitoplasty
+رَأْبُ الأَعْضَاءِ التَّنَاسُلِيَّةِ الأُنْثَوِيَّة	gyneplasty
+رَأْبُ الأَقنِيَةِ اللُّعابِيَّة	sialodochoplasty
+رَأْبُ الأَمْعاء	enteroplasty
+رَأْبُ الأَنْف	rhinoplasty
+رَأْبُ الأَنْفِ التَّصِغْيِرِيّ	rhinomiosis
+رَأْبُ الأَنْفِ التَّكْبيرِيّ	augmentation rhinoplasty
+رَأْبُ الأَنْفِ بحَسَبِ كاربو ( رَأْبٌ أَنْفِيٌّ هِنْدِيّ)	Carpue's rhinoplasty (Indian rhinoplasty)
+رَأْبُ الأَنْفِ و الشَّفَة	rhinocheiloplasty
+رَأْبُ الأَوعِيَةِ التَّاجِيَّة	coronary angioplasty
+رَأْبُ الأَوْعِيَةِ الرِّئَوِيَّة	pulmonary angioplasty
+رَأْبُ الأَوعِيَةِ اللِّمْفِيَّة	lymphangioplasty / lymphoplasty (lymphangioplasty)
+رَأْبُ البَطْن	abdominoplasty
+رَأْبُ البَظْر	clitoroplasty
+رَأْبُ البُلْعُوم	pharyngoplasty
+رَأْبُ البُلْعومِ التَّكْبيرِيّ	augmentation pharyngoplasty
+رَأْبُ البُلْعومِ بحسبِ هاينز	Hynes pharyngoplasty
+رَأْبُ البُلْعومِ و المَريء	pharyngoesophagoplasty
+رَأْبُ البَوَّاب	pyloroplasty
+رَأْبُ البَوَّابِ المُزْدَوِج	double pyloroplasty
+رَأْبُ البَوَّابِ بحسب فِيني	Finney pyloroplasty
+رَأْبُ البَوَّابِ بحسب هَاينيكه-ميكوليتز	Heineke-Mikulicz pyloroplasty
+رَأْبُ البُوْق	salpingoplasty / tuboplasty
+رَأْبُ التَّاج [أسنان]	coronoplasty
+رَأْبُ التَّرْبيق	trabeculoplasty
+رَأْبُ التَّرْص	tarsoplasia / tarsoplasty
+رَأْبُ الثَّدْي	mammaplasty (mammoplasty) / mammoplasty / mastoplasty (mammoplasty)
+رَأْبُ الثَّدْيِ التَّصْغيرِيّ	reduction mammaplasty / reduction mammoplasty
+رَأْبُ الثَّدْيِ التَّكْبيرِيّ	augmentation mammaplasty / augmentation mammoplasty
+رَأْبُ الثَّدْيِ بالعُنَيْقَةِ الجِلْدِيَّة	dermal pedicle mammoplasty
+رَأْبُ الثَّدْيِ بحَسَبِ آريس-بيتانغوي ( رَأْبُ الثَّدْيِ التَّصْغيرِيّ)	Aries-Pitanguy mammaplasty (reduction mammaplasty)
+رَأْبُ الثَّرْب	omentoplasty
+رَأْبُ الجافِيَة	duraplasty
+رَأْبُ الجَبْهَة	forehead-plasty / metopoplasty
+رَأْبُ الجَفْن	blepharoplasty
+رَأْبُ الجِلْد	dermatoplasty / dermoplasty
+رَأْبُ الحاجِزِ الأُذَينِيّ	atrioseptoplasty
+رَأْبُ الحاجِزِ الأَنْفِيّ؛رَأْبُ الوَتيرة	septoplasty
+رَأْبُ الحاجِزِ و الأَنْف ؛ رأبُ الوَتيرَةِ و الأَنْف	septorhinoplasty
+رَأْبُ الحافَة	marginoplasty
+رَأْبُ الحالِب	ureteroplasty
+رَأْبُ الحالِبِ و الحُوَيضَة	ureteropelvioplasty / ureteropyeloplasty
+رَأْبُ الحالِبِ و الحُوَيضَةِ بحسب سَكاردينو	Scardino ureteropelvioplasty
+رَأْبُ الحالِبِ و الحُوَيضَةِ-بنَمَطِ Y بحسب فُولي	Foley Y-type ureteropelvioplasty
+رَأْبُ الحالِبِ و المَثانَة	ureterovesicoplasty
+رَأْبُ الحَشَفَة	balanoplasty
+رَأبُ الحُقّ	acetabuloplasty
+رَأْبُ الحَلَمَة	mamilliplasty (theleplasty) / mammilliplasty (mamilliplasty) / theleplasty / thelyplasty
+رَأْبُ الحَنْجَرَة	laryngoplasty
+رَأْبُ الحَنَك	palatoplasty / uraniscoplasty / uranoplasty
+رَأْبُ الحَنَكِ العَظْمِيّ	uranosteoplasty
+رَأْبُ الحَنَكِ و البُلْعوم	palatopharyngoplasty
+رَأْبُ الحَنَكِ و اللَّهاة	uranostaphyloplasty
+رَأْبُ الحُوَيْضَة	nephropyeloplasty / pelvioplasty (pyeloplasty) / pyeloplasty
+رَأْبُ الحُوَيضَةِ و الحالِب	pyeloureteroplasty
+رَأْبُ الخَدّ	maloplasty / melonoplasty (meloplasty) / meloplasty
+رَأْبُ الخُصْيَة	orchidoplasty / orchioplasty
+رَأْبُ الخَمَل (البوقي)	fimbrioplasty
+رَأْبُ الدِّهْليز (الفموي)	vestibuloplasty
+رَأْبُ الذَّقْن	genioplasty / genyplasty (genioplasty) / mentoplasty
+رَأْبُ الذَّقْنِ و الشَّفَة	geniocheiloplasty / genycheiloplasty (geniocheiloplasty) / genychiloplasty
+رَأْبُ الرِّباط	syndesmoplasty
+رَأْبُ الرَّحِم	hysteroplasty (uteroplasty) / metroplasty / uteroplasty
+رَأْبُ الرَّدْبَةِ (المَهْبِلِيَّة)	culdoplasty
+رَأْبُ الرُّغامَى	tracheoplasty
+رَأْبُ الرَّقَبَة	cervicoplasty
+رَأْبُ الرِّكاب	stapedioplasty
+رَأْبُ السِّنّ	odontoplasty
+رَأْبُ السِّنْخ	alveoloplasty / alveoplasty (alveoloplasty)
+رَأْبُ السِّنْخِ بَينَ الجُذُور (رَأْبُ السِّنْخِ بين الحواجز)	interradicular alveoloplasty (intraseptal alveoloplasty)
+رَأْبُ السِّنْخِ داخِلَ الحاجِز (رَأْبُ السِّنْخِ بَينَ الجُذُور)	intraseptal alveoloplasty (interradicular alveoloplasty)
+رَاْبُ السِّنْخِ عَبْرَ الحَاجِزِ	transeptal alveoloplasty
+رَأْبُ الشَّحْمِ ( مَصُّ الشَّحْم)	lipoplasty (liposuction)
+رَأْبُ الشَّرْج	anoplasty
+رَأْبُ الشَّرَجِ و العَجان	proctoperineoplasty
+رَأْبُ الشَّرْجِ و القولون	anorectoplasty
+رَأْبُ الشِّرْيان	arterioplasty
+رَأْبُ الشِّرْيانِ الفَخِذِيِّ العَميق	profundaplasty
+رَأْبُ الشَّفَة	cheiloplasty / labioplasty (cheiloplasty)
+رَأْبُ الشَّفَةَ و الفَم	cheilostomatoplasty
+رَأْبُ الصَّائِم	jejunoplasty
+رَأْبُ الصَّدْر	thoracoplasty
+رَأْبُ الصَّدْرِ الجانِبِيّ	lateral thoracoplasty
+راْبُ الصَّدْرِ بِقَلْبِ الأَضْلاَع	costoversion thoracoplasty
+رَأْبُ الصِّفاق	peritoneoplasty
+رَأْبُ الصَّفَن	oscheoplasty / scrotoplasty
+رَأْبُ الصِّماخ	meatoplasty
+رَأْبُ الصِّمام	valvuloplasty
+رَأْبُ الصِّمامِ الأَبْهَرِيِّ بالبَالون بطَريقِ الجِلْد	percutaneous aortic balloon valvuloplasty
+رَأْبُ الصِّوار	chalinoplasty
+رَأْبُ الضُّفَيدِعَة (تحت اللسان)	batrachoplasty
+رَأْبُ الضِّلْع	costoplasty
+رَأْبُ الطَّبْلَة	myringoplasty / tympanoplasty
+رَأْبُ الطَّبْلَةِ الباطِنيّ	underlay myringoplasty
+رَأْبُ الطَّبْلَةِ التَّرْصِيْعِيّ	inlay myringoplasty
+رَأْبُ الطَّبْلَةِ الظَّاهري	onlay myringoplasty
+رَأْبُ العانَة	pubioplasty
+رَأْبُ العِجان	perineoplasty
+رَأْبُ العَصَب	neuroplasty
+رَأْبُ العَضَلاتِ المُثْنِيَة	flexorplasty
+رَأْبُ العَضَلَةِ و الوَتَر	myotenontoplasty
+رَأْبُ العَظْم	osteoplasty
+رَأْبُ العُظَيمات	ossiculoplasty
+رَأْبُ العَين	ophthalmoplasty
+رَأْبُ الغُضْروف	chondroplasty
+رَأْبُ الفُؤاد	cardioplasty
+رَأْبُ الفَتْق	hernioplasty
+رَأْبُ الفَرْج	episioplasty
+رَأْبُ الفَرْجِ و العِجان	episioperineoplasty
+رَأْبُ الفُرْجَة	hiatopexia (hiatopexy) / hiatopexy
+رَأْبُ الفَكّ	gnathoplasty
+رَأْبُ الفَم	stomatoplasty
+رَأْبُ القاع	fundoplasty
+رَأْبُ القِحْف	cranioplasty
+رَأْبُ القَرْنِيَّة	keratoplasty
+رَأْبُ القَرْنِيَّةِ الانْكِسارِيّ	refractive keratoplasty
+رَأْبُ القَرْنِيَّةِ البَديلِيّ	keratoprosthesis / prosthokeratoplasty
+رَأْبُ القَرْنِيَّةِ البَصَرِيّ	optic keratoplasty
+رَأْبُ القَرْنِيَّةِ التَّرْقيعِيّ	tectonic keratoplasty
+رَأْبُ القَرْنِيَّةِ الذَّاتِيّ	autogenous keratoplasty (autokeratoplasty)
+رَأْبُ القَرْنِيَّةِ الذَّاتِيُّ المَنْشَأ	autokeratoplasty
+رَأْبُ القَرْنِيَّةِ الصُّفَاحِي	lamellar keratoplasty
+رَأْبُ القَرْنِيَّةِ الغَيْرَوِيّ	heterokeratoplasty
+رَأْبُ القَرْنِيَّةِ الغَيْرِيّ (رأب القرنية بمادة غير عضوية)	allokeratoplasty
+رَأبُ القَرْنِيَّةِ المُصَحِّحُ للتَّحَدُّب	keratophakia
+رَأْبُ القَرْنِيَّةِ النَّافِذ	penetrating keratoplasty
+رَأْبُ القُزَحِيَّة	coreoplasty / coroplasty (coreoplasty) / iridocystectomy
+رَأْبُ القَصَبات	bronchoplasty
+رَأْبُ القَضيب	phalloplasty
+رَأْبُ القُلْفَة	posthioplasty
+رَأْبُ اللِّثَة	gingivoplasty
+رَأْبُ اللِّجام	frenoplasty
+رَأْبُ اللِّسان	glossoplasty
+رَأبُ اللِّفافَة	fasciaplasty / fascioplasty
+رَأْبُ اللَّهاة	staphyloplasty / veloplasty
+رَأْبُ المَبيض	oophoroplasty
+رَأْبُ المَثانَة	cystoplasty
+رَأبُ المَثانَةِ التَّكْبيرِيُّ	augmentation cystoplasty
+رَأْبُ المَثانَةِ الذَّاتِيّ	autocystoplasty
+رَأْبُ المِحْفَظَة	capsuloplasty
+رَأْبُ المَدْوَر	trochanterplasty
+رَأْبُ المَريء	esophagoplasty / oesophagoplasty
+رَأْبُ المَريءِ بِالصائِم	esophagojejunoplasty
+رَأْبُ المَريءِ و المَعِدَة	esophagogastroplasty
+رَأْبُ المَساريق	mesentorrhaphy
+رَأْبُ المُسْتَقيم	proctoplasty / rectoplasty (proctoplasty)
+رَأْبُ المَصَرَّة	sphincteroplasty
+رَأْبُ المَعِدَة	gastroplasty
+رَأْبُ المَعِدَةِ و الأَمْعاء	gastroenteroplasty
+رَأْبُ المَفْصِل	arthroplasty
+رَأْبُ المَفْصِلِ الإِفْسَاحِيُّ	gap arthroplasty
+رَأْبُ المَفْصِلِ الإِقْحامِيّ	interposition arthroplasty
+رَأْبُ المَفْصِلِ الصُّدْغِيِّ الفَكِّيِّ داخِلَ المَحْفَظَة	intracapsular temporomandibular joint arthroplasty
+رَأْبُ المَفْصِلِ بالطُّعْمِ الخَيْفِيّ	allograft arthroplasty
+رَأبُ المَفْصِل بطُعْمٍ خَيْفِيّ	alloarthroplasy
+رَأْبُ المُلْتَحِمَة	conjunctiviplasty / conjunctivoplasty
+رَأْبُ المَهْبِل	colpoplasty / elytroplasty (colpoplasty) / vaginoplasty
+رَأْبُ المَهْبِلِ و العِجان	colpoperineoplasty
+رَأْبُ المَهْبِلِ و المَثانَة	colpocystoplasty
+رَأْبُ النَّاسورِ المُسْتَقيمِيِّ المَثانِيّ	proctocystoplasty
+رَأْبُ النَّاسورِ المُسْتَقيمِيِّ المَهْبِلِيّ	proctocolpoplasty
+رَأْبُ النَّفير	eustachian tuboplasty
+رَأْبُ الوَتَر	tendinoplasty (tenoplasty) / tendoplasty (tenoplasty) / tenontoplasty (tenoplasty) / tenoplasty
+رَأْبُ الوَتَرِ و العَضَلَة	tenomyoplasty / tenontomyoplasty (tenomyoplasty)
+رَأْبُ الوَجْه	facioplasty
+رَأْبُ الوَريد	phleboplasty
+رَأْبُ الوِعاء	angioplasty
+رَأْبُ الوِعاءِ التَّاجِيِّ عَبْرَ اللُّمْعَةِ بطَريقِ الجِلْد	percutaneous transluminal coronary angioplasty
+رَأْبُ الوِعاءِ التَّرْقيعِيّ	patch angioplasty
+رَأْبُ الوِعاءِ بالبَالون	balloon angioplasty
+رَأْبُ اليَد	cheiroplasty / chiroplasty
+رَأْبُ أُمِّ الدَّم	aneurysmoplasty
+رَأْبٌ أَنْفِيٌّ اِسْتِبْنائِيّ	reconstructive rhinoplasty
+رَأْبٌ أَنْفِيٌّ إِنْكِليزِيّ	English rhinoplasty
+رَأْبٌ أَنْفِيٌّ إيطالِيّ	Italian rhinoplasty (tagliacotian rhinoplasty) / tagliacotian rhinoplasty (Italian rhinoplasty)
+رَأْبٌ أَنْفِيٌّ تَصْغِيْرِيّ	reduction rhinoplasty
+رَأْبٌ أَنْفِيٌّ هِنْدِيّ	Indian rhinoplasty
+رَأْبٌ بشَكْلِZ	Z-plasty
+رَأْبُ تَجاعيدِ الجِلْد	rhytidoplasty
+رَأْبٌ ثَرْبِيّ	epiploplasty
+رَأْبُ حافَةِ الجَفْن	tarsocheiloplasty
+رَأْبٌ حَرْقَفِيٌّ فَخِذِيّ	iliofemoroplasty
+رَأْبُ حَلَقَةِ الصِّمام	annuloplasty
+رَأْبٌ ذاتِيّ	autoplasty
+رَأْبٌ ذَاتِيٌّ صِفَاقِيٌّ	peritoneal autoplasty (peritoneoplasty)
+رَأْبُ رُباعِيَّةِ الرُّؤوس	quadricepsplasty
+رَأْبٌ سينِيّ	S-plasty
+رَأْبٌ ضامِنٌ للحَرَكَة	cinematization (kineplasty) / cineplastics (kineplasty) / cineplasty (kineplasty)
+رَأْبٌ ضِلْعِيٌّ قَصِّيّ	costosternoplasty
+رَأْبٌ عَضَلِيّ	myoplasty
+رأبٌ عَظْمِيٌّ غَيْرَوِيّ	hetero-osteoplasty
+رَأْبُ عُنُقِ الرَّحِم	hysterotracheloplasty (tracheloplasty) / tracheloplasty
+رَأْبٌ غُضْروفِيٌّ قَصِّيّ	chondrosternoplasty
+رَأْبُ قَناةِ الصَّفْراء	choledochoplasty
+رَأْبٌ مُتَعَرِّج	zigzagplasty
+رَأْبٌ مَثَانِيٌّ لَفائِفِيّ	ileocystoplasty
+رَأْبٌ مَثانِيٌّ مَهْبِلِيّ	cystoelytroplasty
+رأب معوي	enterocleisis
+رابِط	amboceptor / annectent / bond / ligator / link
+رابِط [ج:رَوابِط]	bond
+رَابِطٌ اتِّصَالِيٌّ	communications link
+رابِطٌ أُحادِيّ	single bond
+رَابطُ المُتَبايِنات (ليفٌ موصل بين أقسام مختلفة في الجهاز العصبي المركزي)	heterodesmotic
+رَابِطُ المُتَمَاثِلَيْن	homodesmotic
+رابِط المُعْطَيَات	data link
+رابِطٌ أَيونِيّ	ionic bond
+رابِطٌ بِبْتيدِيّ	peptide bond
+رابِطٌ تَساهُمِيّ	covalent bond
+رابِطٌ تَساهُمِيٌّ تَسانُدِيّ	coordinate covalent bond
+رابِطٌ ثُلاثِيّ	triple bond
+رابِطٌ ثُنائِيّ	double bond
+رابِطٌ ثُنائِيُّ السُّلْفيد	disulfide bond
+رابِطٌ ذَرِّيّ	atomic bond
+رابِطٌ زَوجِيّ	pair bond
+رابِطٌ عالِي الطَّاقَة	high-energy bond
+رابِطٌ غَنِيُّ الطاقَة	energy-rich bond (high energy bond)
+رابِطُ فانْ دِر فالْس	Van der Waals bond
+رابِطٌ فُسْفاتِيٌّ عالِي الطَّاقَة	high-energy phosphate bond
+رابِطٌ فِلِزِّيّ	metallic bond
+رابِطٌ قُطْبِيّ	polar bond
+رابِطٌ كارِهٌ للماء	hydrophobic bond
+رابِطٌ كَبْريتِيٌّ عالِي الطَّاقَة	high-energy sulfur bond
+رابِطٌ كِيمْيائِيّ	chemical bond
+رابط كيميائيّ عُضْويّ	bond (biochemical...)
+رابِطٌ مُزْدَوِج [كيمياء]	double bond
+رابِطٌ هِيدْروجينِيّ	hydrogen bond
+رَابِطَاتٌ هَيُولِيَّة	plasmodesmata
+رَابِطَة	bond
+رابِطَةُ الأَطِبَّاءِ المُسْتَقِلِّين	independent Physicians Association
+رابِطَةُ المِهْنِيِّين	professional association
+رابِطَةٌ بِبْتيدِيَّة	peptide bond
+رَابِطَة تَسَانُدِيَة	coordination bond
+رَابِطَة تَسَاهُمِيَّة	covalent bond
+رَابِطَة ثُلاثِيَّة	trivalent bonding
+رابِطَةٌ زَوجِيَّة	pair bond
+رَابِطَةُ صَانِعِي المَوَادِّ الصَّيْدَلانِيَّة	pharmaceutical Manufacturers Association
+رابِطَةٌ صَيْدَلانِيَّة	pharmaceutical association
+رَابِطَة غَيرُ مُتَوضِّعة	delocalized bond
+رَابِطَة قُطْبِيَّة	polar bond
+رَابِطَة كَارِهَة لِلْمَاء	hydrophobic bond
+رَابِطَة كَهْرَسَاكِنَة	electrostatic bond
+رَابِطَة لاَ قُطْبِيَّة	non-polar bond
+رَابِطَة مَانِحَة	dative bond
+رَابِطَة هِيدرُوجِينِيَّة	hydrogen bond
+رَابِطَةٌ هَيُولِيَّة	plasmodesm (plasmodesma) / plasmodesma
+رابع كلوريد الكربون	carbon tetrachloride
+رابِعَةُ الحَمْل	quadripara / quartipara (quadripara)
+رابيليزين (نبات منبه للقلب)	rabelaisin
+رَاتَانيَا	Krammeria triandra
+راتب غذائي	intake
+رَاِتنْج	resin
+رَاتِنْجَاتٌ مُبَادِلةٌ للشَوَارِد	anion exchanger resins
+راتين	resina (resin)
+راتين [ج:راتينات؛ رَواتين]	resin
+راتينٌ أكريليكي	acrylic resin
+راتينُ البِدْلَةِ السِّنِّيَّة	denture resin
+راتينُ البُولْيامين-مِيثيلين (مضاد لحموضة المعدة)	polyamine-methylene resin
+راتين البُوليمَر المُشْتَرَك	copolymer resin
+راتينُ الحَشْوِ المُباشِر	direct filling resin
+راتينُ السَّرْخَسِ الزَّيْتِيّ	aspidium oleoresin
+راتينُ الفُلَيفِلَةِ الزَّيْتِيّ	capsicum oleoresin
+راتينُ اليَبْروح (لمعالجة الأورام الحليمية)	podophyllum resin
+راتينٌ تَخْليقِيّ	synthetic resin
+راتينٌ ذاتِيُّ التَّبَلْمُر	autopolymer resin
+راتينٌ ذاتِيُّ التَّصَلُّب	self-curing resin
+راتينٌ زَيْتِيّ	oleoresin / oleoresina
+راتينٌ سامّ	toxiresin
+راتينٌ ستيرينِيّ ( بولي ستيرين)	styrene resin (polystyrene)
+راتينٌ سَريعُ التَّصَلُّب	quick-cure resin
+راتينٌ سَريعُ التَّصَلُّب [أسنان]	quick-cure resin
+راتينٌ سِنِّيّ	dental resin
+راتينٌ صَمْغِيّ	gum resin
+راتينٌ فاينيلِيّ	vinyl resin
+راتينٌ كُوليستيرامينِيّ	cholestyramine resin
+راتينٌ مُبادِلٌ للأَنيوناتِ	anion-exchange resin
+راتينٌ مُبادِلٌ للأَيونات	ion exchange resin
+راتينٌ مُبادِلٌ للهَوَابِطِ	cation-exchange resin
+راتينٌ مُتَصَلِّبُ بالبُرودَة ( راتينٌ ذاتِيُّ التَّصَلُّب)	cold-curing resin (self-curing resin)
+راتينٌ مُتَصَلِّبُ بالتَّسْخين	heat-curing resin
+راتينٌ مُرَكَّب	composite resin
+راتينٌ مُنَشِّط	activated resin
+راتيناتٌ أَِكْريليكِيَّة	acrylic resins
+راتينج الكولستيرامين	cholestyramine resin
+رَاتِيْنَة	resene
+راتينِيّ	resinous
+راتِينيٌّ زَيْتِيّ	oleoresinous
+راجِبَة [ج:رَواجِب] (قطعة بين عقدتين)	internode
+راجِبَةُ رانفييه (بين عقدتي رانفييه)	internode of Ranvier
+راجِبِيّ (بَينَ عُقْدَتَين)	internodal
+راجِع	palindromic
+راجع، راجعة، حُمَّى	recurrent
+راجِع؛ناكِس	recurrent
+راجفة	scrapie
+راجِنَة [ج:رَواجِن] (جسم مضاد يتوسط التفاعل الأرجي)	reagin
+راجِنَةٌ تَأَتُّبِيَّة	atopic reagin
+راجِنِيّ	reaginic
+راحات	palms [sing.palm]
+راحَةُ اليَد	palm of hand / palm of hand (palma manus) / palma manus NA / vola manus
+راحَةٌ كَبِدِيَّة (حُمامَى الرَّاحَةِ الكَبِدِيَّةِ المَنْشَأ)	liver palm
+راحَةُ كُرَةِ اليَد (رَضُّ الرَّاحَةِ بِكُرَةِ اليَد)	handball palm
+راحة، استراحة	rest
+راحِيّ	palmar / palmaris NA (palmar) / volaris NA
+راحِيٌّ أَخْمَصِيّ	palmoplantar
+راحِيُّ ظَهْرانيّ	volardorsal
+راحِيٌّ كُعْبُرِيّ	radiopalmar
+راد	rad (radiation absorbed dose)
+رَادِف، جانبيّ	collateral
+رَادُون	radon
+رادْيان (وحدة لقياس زوايا السطوح)	radian
+راديوب (كائنات مجهرية شبيهة بالجراثيم)	radiobe
+رَادْيُوم	radium
+راديومٌ للتَّشْعِيعِ البُعَادِيّ؛راديومٌ للتَّشْعِيعِ عَنْ بُعدٍ	teleradium
+رادْيُون [كيمياء]	radion
+رَأرَئِيّ	nystagmic
+رَأْرَئِيُّ الشَّكْل	nystagmiform
+رَأْرَأَة	nystagmus / nystaxis / talantropia (nystagmus)
+رَأْرَأَةٌ أُذُنِيَّةُ المَنْشَأ	aural nystagmus
+رَأْرَأَةٌ إِرادِيَّة	voluntary nystagmus
+رَأْرَأَةٌ اعْتِلاَلِيَّةٌ عَضَلِيَّة	myopathic nystagmus
+رَأْرَأَةُ الارْتِداد	rebound nystagmus
+رَأْرَأَةُ الاسْتِفْزاز	provocation nystagmus
+رَأْرَأَةُ التَّثْبيت	fixation nystagmus
+رَأْرَأَةُ الحَمْلَقَة	gaze nystagmus
+رَأْرَأَةُ المُعَدِّنين	miners' nystagmus
+رَأْرَأَةٌ انْتِهائِيَّةُ المَوْضِع	end-position nystagmus
+رَأْرَأَةٌ اِنْحِرافِيَّة	deviation nystagmus
+رَأْرَأَةٌ اِنْفصالِيَّة	disjunctive nystagmus
+رَأْرَأَةٌ انْكِماشِيَّة	nystagmus retractorius / retraction nystagmus
+رَأْرَأَةٌ اهْتِزازِيَّة	vibratory nystagmus
+رَأْرَأَةٌ بَصَرِيَّة	visual nystagmus
+رَأْرَأَةٌ تَأَرْجُحِيَّة	see-saw nystagmus
+رَأْرَأَةٌ تالِيَةٌ للتَّدْوير	postrotational nystagmus
+رَأْرَأَةٌ تَدْوِيْرِيَّة	rotatory nystagmus
+رَأْرَأَةٌ تَذَبْذُبِيَّة	oscillating nystagmus
+رَأْرَأَةُ تشين	Cheyne's nystagmus
+رَأْرَأَةُ تشين-ستوكس	Cheyne-Stokes nystagmus
+رَأْرَأَةٌ تَقارُبِيَّة	convergence nystagmus
+رَأْرَأَةٌ تِلْقائِيَّة	spontaneous nystagmus
+رَأْرَأَةٌ تِيْهِيَّة	labyrinthine nystagmus
+رَأْرَأَةٌ ثانَوِيَّة	secondary nystagmus
+رَأْرَأَةٌ حَرارِيَّة	caloric nystagmus
+رَأْرَأَةٌ حَنَكِيَّة ( رَمَعُ الحَنَك)	palatal nystagmus (palatal myoclonus)
+رَأْرَأَةٌ خَافِيَة	latent nystagmus
+رَأْرَأَةٌ خَزَلِيَّة	paretic nystagmus
+رَأْرَأَةٌ خِلاَفَ القاعِدَة	nystagmus against the rule
+رَأْرَأَةٌ خِلْقِيَّة	congenital nystagmus
+رَأْرَأَةٌ خِلْقِيَّةٌ وِراثِيَّة	congenital hereditary nystagmus
+رَأْرَأَةٌ دَقيقَة	micronystagmus
+رَأْرَأَةٌ دِهْليزِيَّة	vestibular nystagmus
+رَأْرَأَةٌ دَوْرِيَّةٌ تَناوُبِيَّة	periodic alternating nystagmus
+رَأْرَأَةٌ رَأْسِيَّة	head nystagmus
+رَأْرَأَةٌ رَقَبِيَّة	cervical nystagmus
+رَأْرَأَةٌ رَنَحِيَّة	ataxic nystagmus
+رَأْرَأَةٌ سُفْلِيَّة	downbeat nystagmus
+رَأْرَأَةُ سِكَّةِ القِطار ( رَأْرَأَةٌ عَيْنِيَّةٌ حَرَكِيَّة)	railroad nystagmus (optokinetic nystagmus)
+رَأْرَأَةٌ طَوْرِيَّة	phasic nystagmus
+رَأْرَأَةٌ عُلْوِيَّة	upbeat nystagmus
+رَأْرَأَةٌ عَمُوْدِيَّة	vertical nystagmus
+رَأْرَأَةٌ عَيْنِيَّة	ocular nystagmus
+رَأْرَأَةٌ عَيْنِيَّةٌ حَرَكِيَّة	opticokinetic nystagmus / optokinetic nystagmus
+رَأْرَأَةٌ غلفانية	galvanic nystagmus
+رَأْرَأَةٌ غَمَشِيَّة	amblyopic nystagmus
+رَأْرَأَةٌ كاذِبَة ( رَأْرَأَةُ الوَضْعِ النِّهائِيّ)	pseudonystagmus (end-position nystagmus)
+رَأْرَأَةٌ كُمْنِيَّة	amaurotic nystagmus
+رَأْرَأَةٌ كَهْرَبِيَّة	electrical nystagmus
+رَأْرَأَةٌ مُتَفارِقَة	dissociated nystagmus
+رَأْرَأَةٌ مَرْكَزِيَّة	central nystagmus
+رَأْرَأَةٌ مَصْحُوْبَةٌ بالرَّمَعِ العَضَلِيّ	nystagmus-myoclonus
+رَأْرَأَةٌ مِهْنِيَّة	occupational nystagmus
+رَأْرَأَةٌ نَظْمِيَّة ( رَأْرَأَةٌ نَفْضِيَّة)	rhythmical nystagmus (jerk nystagmus)
+رَأْرَأَةٌ نَفْضِيَّة	jerk nystagmus (jerky nystagmus) / jerky nystagmus / resilient nystagmus (jerk nystagmus)
+رَأْرَأَةٌ نَوَّاسِيَّة	pendular nystagmus / undulatory nystagmus
+رَأْرَأَةٌ وَحْشِيَّة	lateral nystagmus
+رَأْرَأَةٌ وَحِيْدَةُ الجانِب	unilateral nystagmus
+رَأْرَأَةٌ وَضْعِيَّة	positional nystagmus / postural nystagmus
+رَأْس	head / head (caput NA)
+رَأْس (ال...) الطويل	scaphocephaly
+رَّأْسُ (ال...) المُسْتَعْرِضُ للعَضَلَةِ المُقَرِّبَةِ لإِبْهامِ اليَد	transverse head of adductor pollicis muscle
+رَّأْسُ (ال...) المُغْلَقُ للقَوْلُون (= الأَعْوَر)	head of blind colon
+رَأس (ال...) مائِل	oblique head
+رأس (ج. رؤوس)	capita (pl. capitae)
+رَأْسُ البَرْبَخ	caput epididymidis NA / epididymal head; head of epididymis / head of epididymis
+رَأْسُ البًنْكِرْياس	caput pancreatis NA / head of pancreas / head, of pancreas
+رَأْسُ الخُراج	point of an abscess
+رَأْسُ الرِّكاب	caput stapedis NA / head of stapes
+رَأْسُ الرِّكابِيّ	head of stapes
+رَأْسُ الزَّنْد	caput ulnae NA / head of ulna
+رَأْسُ الشَّظِيَّة	caput fibulae NA / head of fibula
+رَأْسُ الضِّلْع	caput costae NA / head of rib (caput costae)
+رَأْسُ الطِّحال	caput lienis
+رَأْسُ الطِّحال ( النِّهَايَةُ الخَلْفِيَّةُ لِلطِّحَالِ)	head of spleen (extremitas posterior lienis)
+رَأْسُ الطِّحال (= النِّهَايَةُ الخَلْفِيَّةُ لِلطِّحَالِ)	caput lienis
+رَأْسُ العَصَب (قُرْصُ العَصَبِ البَصَرِيّ)	nerve head (discus nervi opticus)
+رَأْسُ العَضَلَة	caput musculi NA / head of muscle
+رَأْسُ العَظْمِ السِّنْعِيّ	head of metacarpal bone
+رَأْسُ العَظْمِ المِشْطِيّ	head of metatarsal bone
+رَأْسُ الفَخِذِيّ	head of femur
+رَأْسُ الفَكِّ السُّفْلِيّ	capitulum mandibulae / caput mandibulae NA / caput of mandible; head of mandible
+رَأْسُ القَرْنِ الخَلْفِيِّ للنُّخاع	caput cornus posterioris medullae spinalis NA
+رَأْسُ القَرْنِ الظَّهْرانِيِّ للنُّخاع	caput cornus dorsalis medullae spinalis NA / head of dorsal horn of spinal cord
+رَأْسُ القَضيب (حَشَفَةُ القَضيب)	head of penis (glans penis)
+رَأْسُ الكَاحِل	caput tali NA / head of astragalus (caput tali) / head of talus
+رَأْسُ الكُعْبُرَة	caput radii NA / head of radius
+رَأْسُ المِدوسَة	medusa head (caput medusa)
+رَأْسُ المِدوسَة (أوردة سرية متوسعة حول سرة الوليد)	caput medusae
+رَأْسُ المِطْرَقَة	caput mallei NA / drum head; capitulum of malleus / head of malleus (caput mallei)
+رَأْسُ المِطْرَقَة (الغِشاءُ الطَّبْلِيّ)	drum head (membrana tympani)
+رَأْسُ النَّاتِئ اللُّقْمِيِّ للفَكّ (= رَأْسُ الفَكّ)	head of condyloid process of mandible
+رَأْسُ النَّاتِىءِ اللُّقْمِيِّ للفَكّ ( رَأْسُ الفَكّ)	head of condyloid process of mandible (caput mandibulae)
+رَأْسُ النَّواةِ المُذَنَّبَة	caput nuclei caudati NA / head of caudate nucleus
+رَأْسٌ بُرْجِيّ ( تَسَنُّمُ الرَّأْس)	steeple head (oxycephaly) / tower head (oxycephaly)
+رأس برجية	head, tower = oxycephaly
+رَأْسٌ بشَكْلِ الأَليَتَين (في الرَّخَد)	caput natiforme
+رَاْسٌ دُولاَبِيّ	wheel point
+رَأْسٌ دولاَبِيَّة	wheel point
+رأس زورقي	cymbocephalia = scaphecephaly
+رَأسٌ ساحِل [أسنان]	abrasive point
+رَأْسٌ ساحِل؛مِسْحَل	abrasive point
+رَأْسٌ سامورِيّ	Carborundum point
+رَأْسٌ سَرْجِيّ	saddle head
+رأس سرجية	head, saddle
+رَأْسُ سُلاَمَى أَصَابِعِ القَدَم	head of phalanx of toes
+رَأْسُ سُلاَمَى أَصابِعِ اليَد	head of phalanx of fingers
+رَأْسُ سُلاَمَى إِصْبَعِ القَدَمِ	caput phalangis digitorum pedis NA
+رَأْسُ سُلاَمَى إِصْبَعِ اليَد	caput phalangis digitorum manus NA
+رَأْسٌ شَبيهٌ بالكَعْكَةِ المَفْطورَةِ (رَأْسٌ أَلَوِيُّ الشَّكْل)	hot cross bun head (caput natiforme)
+رأس صغير مستسقٍ	hydromicrocephaly
+رَأْسٌ صُنْدوقِيّ ( رَأْسٌ مُسَطَّح)	box head
+رأس طافية	head of floating / head, floating
+رَأْسٌ طَوِيْلٌ	dolichocephalic head
+رَأْسٌ عائِم	floating head
+رَأْسُ عَظْمِ السِّنْع	caput ossis metacarpalis NA
+رَأْسُ عَظْمِ العَضُد	caput humerale / caput humeri NA / head of humerus
+رَأْسُ عَظْمِ الفَخِذ	caput femoris NA / caput ossis femoris NA / head of femur
+رَأْسُ عَظْمِ المِشْط	caput ossis metatarsalis NA
+رأس قردي	kebocephaly
+رَأْسٌ قَصير	brachycephalic head
+رَاْسٌ مُبْتَرَى	tapering point
+رَأْسٌ مُتَوَرِّم ( ضُخَامُ الرَّأْس)	swelled head (bighead)
+رَأْسٌ مُتَوَسِّط (ذو منسب طولي-عرضي يتراوح بين 75-79.9)	mesocephalic head
+رَأْسٌ مَخصُور (رأس شَبِيْهٌ بالسَّاعَةِ الرَّمْلِيَّة،ذو درز إكليلي منخسف)	hourglass head
+رَأْسٌ مَدْمُوْجٌ	engaged head
+رَأْسٌ مُرَبَّع (في الرَّخَد)	caput quadratum
+رَأْسٌ مُسْتَدير	round point
+رَأْسٌ مُسَطَّح	caput planum
+رأسٌ مغناطيسي	magnetic head
+رَأْسٌ مَفْصِلِيّ	articular head
+رأس ممتطية	head, overriding
+رأس منحشر	head, engaged
+رأس ميدوزا	head, medusa = caput medusae
+رَأْسٌ وارِب	plagiocephalism / plagiocephaly
+رَأْسٌ[ رُؤوس]	caput [pl.capita]
+راسِب	deposit
+راسِبٌّ بَولِيّ	urocheras / uropsammus
+رَاسِب، رُسابة	precipitate
+راسم الاهتزاز	oscillograph
+رَاسِمُ الحَوَافي	diagraph
+راسم القمة	apexograph
+راسمة عضلية	myograph
+رَأْسِيّ	cephalic
+رَأْسِيُّ (ال...) النَّاصِف	medicephalic
+رَأْسيّ (سابقة)	cephal
+رَأْسِيُّ الأَمْشاط (جِنْسٌ مِنَ البَراغيث)	Ctenocephalides
+رَأْسِيُّ الأَمْشاطِ الكَلْبِيُّ	Ctenocephalides canis
+رَأْسِيُّ الأَمْشاطِ الهِرِّيُّ	Ctenocephalides felis
+رَأْسِيُّ الشَّكْل	capitate
+رَأْسِيٌّ حَجاجِيّ	cephalo-orbital
+رَأْسِيٌّ حَجاجِيٌّ أَنْفِيّ	cephalo-orbitonasal
+رَأْسِيٌّ حَوضِيّ	cephalopelvic
+رَأْسِيٌّ ذَنَبِيّ	cephalocaudal / craniocaudal
+رأسي ذنبي (رأسذنبي)	cephalocaudad
+رَأْسِيٌّ سيسائِيّ	cephalorhachidian
+رَأْسِيٌّ صَدْرِيّ	cephalothoracic
+رأسي عضدي	brachiocephalic
+رَأْسِيٌّ قَدَمِيّ	capitopedal
+رَأْسِيٌّ وَجْهِيّ	cephalofacial
+رَأْسيّ، كافِليّ	cephalic
+رَأْسِيَّا (باتجاه الرأس)	cephalad
+رَأْسِيَّاتُ الأَرْجُل (صِنْفٌ مِنَ الرَّخَوِيَّات)	Cephalopoda
+راسيفيدرين (دَواءٌ مُحاكٍ لِلوِدِّي)	racephedrine
+راسيفينيكول (دَواءٌ مُضادٌّ لِلجَراثيم)	racephenicol
+راسيمات (مزيج غير فعال ضوئياً لمتصاوغين ميمِّن و ميسِّر)	racemate
+راسيماز [إنزيم]	racemase
+راسيمازُ الأَلانين [إنزيم]	alanine racemase
+راسيمِيّ	racemic
+رَاسِيمِي، رَزِيم	racemic
+راسيميثيونين (من المضافات الغذائية)	racemethionine
+رَأْسيّة	capitis
+رَأْسِيَّةُ الأَبْواغ (جِنْسٌ مِنَ الفُطْرِيَّات)	Cephalosporium
+رَأْسِيَّةُ الأَبْواغِ المِنْجَلِيَّة	Cephalosporium falciforme
+رَأْسِيَّةُ الأَبْواغِ الوَرَمِيَّةُ الحُبَيبِيَّة	Cephalosporium granulomatis
+راشِنَةُ الدِّماغ (جِنْسٌ مِنَ الحَيَواناتِ الأَوالِي البَوائِغ)	Encephalitozoon
+راشِنَةُ الدِّماغِ الأَرْنَبِيَّة	Encephalitozoon cuniculi
+راشِنَةُ الدِّماغِ الكَلْبِيَّة	Encephalitozoon rabiei
+راصّ	agglutinator
+راصُّ الرِّقاقَة [أسنان]	foil condenser
+راصُّ المُلْغَم [أسنان]	amalgam condenser
+راصٌّ آلِيّ [أسنان]	automatic condenser (mechanical condenser) / mechanical condenser
+راصٌّ دَمَوِيّ	hemagglutinative
+راصٌّ هَوائِيّ [أسنان]	pneumatic condenser
+راصِعَة	onlay (overlay)
+رَاصِعَةٌ ذَهَبِيَّة [أسنان]	gold onlay
+راصِعَةٌ ظِهارِيَّة	epithelial onlay
+راصِعَةٌ عَظْمِيَّة ( طُعْمٌ عَظْمِيّ)	bone onlay (bone graft)
+راصِعَةٌ عَظْمِيَّة، طُعْمٌ عَظْمِيّ	bone onlay (=bone graft)
+رَاصَّة	agglutinin
+راصَّةٌ H (راصَّةٌ هَدَبِيَّة)	H agglutinin
+راصَّةُ O (راصَّةٌ جَسَدِيَّة)	O agglutinin
+راصَّة [ج:راصَّات]	agglutinin
+راصَّةٌ إِسْوِيَّة	isoagglutinin
+راصَّةٌ إِسْوِيَّةٌ ذاتِيَّةُ التَّوَلُّد	idioisoagglutinin
+راصَّةُ الصُّفَيْحَات	platelet agglutinin
+راصَّةُ الكُرَيَّات البِيْض	leukagglutinin (leukoagglutinin) / leukoagglutinin
+راصَّةُ الكُرَيَّاتِ البيضِ الإِسْوِيَّة	isoleukoagglutinin
+راصَّةُ الكُرَيَّاتِ البيضِ الذَّاتِيَّة	autoleukoagglutinin
+راصَّةُ الكُرَيَّات البَيضاء	leukocyte agglutinin
+راصَّةٌ بالمَصْل	serum agglutinin
+راصَّةٌ بالمِلْح	salt agglutinin
+راصَّةٌ بَرْدِيَّة	cold agglutinin
+راصَّةٌ تامَّة	complete agglutinin
+راصَّةٌ جُرْثومِيَّة	bacterioagglutinin
+راصَّةٌ جُزْئِيَّة	minor agglutinin (partial agglutinin) / nebenagglutinin / partial agglutinin
+راصَّةٌ جَسَدِيَّة	somatic agglutinin
+راصَّةٌ حَيَوانِيَّة	zoo-agglutinin
+راصَّةٌ دِفْئِيَّة	warm agglutinin
+راصَّةٌ دَمَوِيَّة	hemagglutinin / hemoagglutinin (hemagglutinin)
+راصَّةٌ دَمَوِيَّةٌ إِسْوِيَّة	isohemagglutinin
+راصَّةٌ دَمَوِيَّةٌ بُرودِيَّة	cold hemagglutinin
+راصَّةٌ دَمَوِيَّةٌ دِفْئِيَّة	warm hemagglutinin
+راصَّةٌ دَمَوِيَّةٌ ذاتِيَّة	autohemagglutinin
+راصَّةٌ دَمَوِيَّةٌ غَيْرَوِيَّة	heterohemagglutinin
+راصَّةٌ دَمَوِيَّةٌ نَباتِيَّة	phytohemagglutinin
+راصَّةٌ ذاتِيَّة	autoagglutinin / idioagglutinin
+راصَّةٌ رَئيسِيَّة	haupt agglutinin (chief agglutinin) / major agglutinin (chief agglutinin)
+راصَّةٌ زُمْرِيَّة (راصَّةٌ مُتَصَالِبَة)	group agglutinin (cross agglutinin)
+راصَّةٌ سَوطِيَّة	flagellar agglutinin
+راصَّةٌ شامِلَة	panagglutinin
+راصَّة صُفَيْحِيَّة إِسْوِيَّة	isothromboagglutinin
+راصَّةٌ ضِدَّ الـراهاء	anti-Rh agglutinin
+راصَّةٌ طَبيعِيَّة	natural agglutinin
+راصَّةٌ غَيْرَوِيَّة	heteroagglutinin
+راصَّةٌ غَيْرَوِيَّةٌ ذاتِيَّةُ التَّوَلُّد	idioheteroagglutinin
+راصَّةٌ فُطْرِيَّة	mycoagglutinin
+راصَّةٌ فَوقَ صَوتِيَّةِ للمُلْغَم	ultrasonic amalgam condenser
+راصَّةٌ مُتَصالِبَة	cross agglutinin / cross reacting agglutinin
+راصَّةٌ مَناعِيَّة	immune agglutinin
+راصَّةٌ ناقِصَة	incomplete agglutinin
+راصَّةٌ نَباتِيَّة	phytagglutinin
+راضّ	contusive
+رَاعُود (في الأغنام)	slows (trembles)
+رَاعُوش (الْتِهابٌ دِماغٍيٌّ في الماشِيَة)	scrapie
+راعوم	malleoidosis / melioidosis
+رافض الاحمرار	erythrophobic
+رافضة الصبغ	chromophobe (cells)
+رافِعُ الضَّغْط	hypertensor / pressor
+رافِعُ الضَّغْطِ الشِّرْيانِيّ	arteriopressor
+رافِعُ ضَغْطِ الدَّم	antihypotensive
+رافِعٌ لتَوَتُّرِ الأَوعِيَة ( مُضَيِّقٌ للأَوعِيَة)	vasohypertonic (vasoconstrictor)
+رافِعٌ لضَغْطِ الدَّم	hypertensor
+رافِعٌ للتَّوَتُّر الوِعائِيّ	vasopressor
+رافِعات [ف:رافعة]	levatores [sing.levator]
+رافِعَة	elevator / lever
+رافِعَةُ البُروسْتاتَة	prostate elevator
+رافِعَةُ الجَذْر [أسنان]	root elevator
+رافِعَةُ الحَنَك (مِبْعادٌ حَنَكِيّ)	palatal elevator (palatal retractor)
+رافِعَةُ الرَّتْج	diverticuleve
+رافِعَةُ السِّمْحاق	elevator, periosteum / periosteal elevator / periosteum elevator
+رافِعَةُ السِّنّ	dental lever (dental elevator)
+رافِعَةُ اللِّسان (أَداة)	glossotilt
+رافِعَةُ اللَّولَب	screw elevator
+رافِعَةٌ زاوِيَّة	angular elevator
+رافِعَةٌ سِنِّيَّة [أسنان]	dental elevator
+رافِعَةٌ قِمِّيَّة [أسنان]	apical elevator
+رافِعَةُ كرايَر [أسنان]	Cryer's elevator
+رافِعَةٌ لَولَبِيَّة [أسنان]	screw elevator
+رافِعَةٌ مُتَصالِبَةُ المِقْبَض [أسنان]	cross bar elevator
+رافِعَةٌ مُسْتَقيمَة [أسنان]	straight elevator
+رافِعَةٌ مُنْحَنِيَة [أسنان]	curved elevator
+رافِعَةٌ وَتَدِيَّة [أسنان]	wedge elevator
+رافِعَةٌ وَجْنِيَّة [أسنان]	malar elevator
+رافِعَةُ وينتر (لقلع الأسنان)	Winter's elevator
+رافِعَة؛عَتَلَة	cantilever
+رافوكسانيد (دَواءٌ طاردٌّ لِلديدان)	rafoxanide
+رافيناز [إنزيم]	raffinase
+رافينُوز (سكر نباتي المصدر)	raffinose (melitose)
+راكد	hypostatic
+رَأَل؛كَثَارَةُ الأَسْنان	polyodontia
+رَأْل؛كَثْرَةُ الأَسْنان	polydentia (polydontia)
+رامانينجانا (مرض تشنج قفزي شائع في مدغشقر)	ramaninjana
+رامِح	lancinating
+رامِزَة [ج:رَوامِز]	codon
+رامِزَةٌ ابْتِدارِيَّة	initiation codon / initiator codon
+رامِزَةٌ إِنْهائِيَّة	termination codon
+رامِزَةٌ هُرَائِيَّة	nonsense codon
+رامْنُوز (سكر)	rhamnose
+رامْنُوزِيد (غليكوزيد)	rhamnoside
+رامْنينينُوز (سكريد ثلاثي)	rhamnininose
+رَامُوز	code
+رامُوزُ الجينات	genetic code
+راموزٌ ثُلاَثِيّ	triplet code
+رَامُوْزٌ ثُنَائِيٌّ ؛ شِفْرَةٌ ثُنَائِيَّة	binary code
+راموزٌ مُتَخَلِّلٌ	in-line code
+راموزٌ نسبي	relative code
+رامُوز، شفرة	code
+رانتيدين (مناهض لمستقبلات الهيستامين H2)	ranitidine
+رانِفَة	thenar NA
+رَّانِفَة (ال...)	thenar eminence; ball of thumb
+رانِفة (ال...) (الَية اليد)، رَاحي	thenar
+رانِفِيّ	thenal
+رانِيمِيسين (مُضادٌّ حَيَوِيّ)	ranimycin
+راوفُولْفِيَّة	rauwolfia
+راوفُولْفِيَّةٌ ثُعْبانِيَّة	rauwolfia serpentina
+رَاوَنْد	rhubarb
+راوَنْد (جِنْسُ أَعْشابٍ طِبِّيَّة)	Rheum
+رَاوُوق	percolator
+رَأْيٌ	opinion
+رَأْيٌ آخَر	second opinion
+رَأْيٌ آخَر ؛ رَأْيٌ ثانٍ	second opinion
+رايغان (فُطْرٌ صينِيٌّ مُجَفَّف)	raigan
+رباط	ligament
+رِباط (ال...)	ligamentum
+رِّباطُ (ال...) الإِبْرِيُّ اللامِيّ	stylohyoid ligament
+رِّباطُ (ال...) الإِثْناعَشَريُّ الكُلْوِيّ	ligamentum duodenorenale
+رِباط (ال...) الأُربيّ	inguinal ligament
+رِبَاط (ال...) الأسفينيّ البيْنيّ	intercuneiform ligament
+رِّباطُ (ال...) الأَصْفَر	subflaval ligament
+رِّباطُ (ال...) الإِنْسِيّ	ligamentum mediale
+رِبَاط (ال...) الحِجَابِيّ القُولُونِي	phrenicocolic ligament
+رِباط (ال...) الحُقَّانِيّ العَضُدِيّ	glenohumeral ligament
+رِباط (ال...) الحَلَقي	annular ligament
+رِّباطُ (ال...) الدَّرَقِيّ اللَّامِيّ	thyrohyoid ligament
+رِّباطُ (ال...) الدَّرَقِيّ اللِّسَانْ مِزْمَارِيّ	thyroepiglottic ligament
+رِّباطُ (ال...) الرُّسُغِيُّ الظَّهْرَانِيُّ	ligamentum carpi dorsale
+رِّباطُ (ال...) الزَّليلِيُّ للوَرِك	synovial ligament of hip
+رِبَاط (ال...) السُرّي الإِنْسِيّ	medial umbilical ligament
+رِبَاط (ال...) السُرّي النَاصِف	median umbilical ligament
+رِباط (ال...) الشِرْياني	ligamentum arteriosum
+رِبَاط (ال...) الشَظويّ الجانبيّ	fibular collateral ligament
+رِّباطُ (ال...) الصُّدْغِيُّ الفَكِّيّ	temporomandibular ligament
+رِبَاطُ (ال...) الصوتي	vocal ligament
+رِّباطُ (ال...) الطِّحالِيُّ المَعِدِيّ	splenogastric ligament
+رِّباطُ (ال...) الظُّنْبُوبِيّ الشِّظَوِيّ	tibiofibular ligament
+رِّباطُ (ال...) الظُّنْبُوْبِيّ العَقِبِيُّ	tibiocalcaneal ligament
+رِباط (ال...) العَانيّ	pectineal ligament
+رِباط (ال...) العَاني البرُوستاتيّ	puboprostatic ligament
+رِباط (ال...) العَانيّ المَثَانيّ	pubovesicalis ligament
+رِّباطُ (ال...) العانِيُّ المَثَانِيُّ الإِنْسِيّ	ligamentum pubovesicale medium
+رِّباطُ (ال...) العانِيُّ المَثانِيُّ الوَحْشِيّ	ligamentum pubovesicale laterale
+رِباط (ال...) العَجُزِيّ الحَرقَفيّ	sacro-iliac ligament
+رِّباطُ (ال...) العَجُزِيّ الشَّوكِيّ	sacrospinous ligament / spinosacral ligament
+رباط (ال...) العجزي العصعصي الأمامي	ventral sacro coccygeal ligament
+رِّباطُ (ال...) العَقِبِيُّ الظُّنْبوبِيّ	ligamentum calcaneotibiale
+رِّباطُ (ال...) الفِقْرِيُّ الجَنْبِيُّ	vertebropleural ligament
+رباط (ال...) القصي الترقوي	sternoclavicular ligament
+رِباط (ال...) القفويّ	ligamentum nuchae; nuchal ligament
+رِبَاط (ال...) الكَبِدِيّ القَولُونيّ	hepatocolic ligament
+رِبَاط (ال...) اللامِيّ الفَلْكَوي	hyo-epiglottic ligament
+رِّباطُ (ال...) المُثَلَّثِيُّ للكَتِف	triangular ligament of scapula
+رِباط (ال...) المُدَوَّر	ligamentum teres
+رِباط (ال...) المُسَنّنَ	ligamentum denticulatum
+رِباط (ال...) المِشطيّ	ligamentum pectinatum; pectinatum ligament
+رِّباطُ (ال...) المَصْلِيّ	ligamentum serosum
+رِّباطُ (ال...) المِطْرَقِيّ العُلْوِيّ	superior ligament of malleus
+رِبَاط (ال...) المَعدِيُّ الحِجَابِيُّ	gastrophrenic ligament
+رِبَاط (ال...) المَعِديّ الطِحَالِيّ	gastroplenic ligament
+رِّباطُ (ال...) المُعَلِّقُ لِلأبْط	suspensory ligament of axilla
+رِّباطُ (ال...) المُعَلِّقُ للقَضيب	suspensor ligament of penis
+رِبَاطُ (ال...) المعلق للمبيض	suspensor ligament of ovary
+رِّباطُ (ال...) المُعَلِّقُ للمِحْوَر	suspensory ligament of axis
+رِبَاط (ال...) المقوَّس	arcuate ligament
+رِّباطُ (ال...) الوَتَرِيّ المَدْوَرِيّ	tendinotrochanteric ligament
+رِّباطُ (ال...) الوَريدِيّ	venous ligament; ligamentum venosum
+رِبَاطُ (ال...) فوق السناسن	supraspinal ligament
+ربَاط (سابقة)	desmo
+رِباطُ Y	Y ligament
+رِباط [ج:أَرْبِطَة]	ligament / ligamentum NA [pl.ligamenta]
+رِباطُ أرانتيوس ( الرِّباطُ الوَريدِيّ)	Arantius' ligament (ligamentum venosum)
+رباط أرنولد ( الرِّباطُ السِّنْدانِيُّ العُلْوِيّ)	Arnold's ligament (ligamentum incudis superius)
+رِباطٌ إِضافِيّ	accessory ligament
+رِبَاطُ الحُقِّ (شَفا الحُقّ)	cotyloid ligament (labrum acetabulare)
+رِبَاط الدَاليّة	deltoid ligament
+رِباطُ الرُّكْبَةِ الوَحْشِيّ (الرِّباطُ الجانِبِيُّ الشَّظَوِيّ)	lateral ligament of knee (ligamentum collaterale fibulare)
+رِباط العَظم المُنحَرفيّ	trapezoid ligament
+رِباطُ المَبيض	ovarian ligament
+رِباطُ المُرَيكِزَين	centrodesmose / centrodesmus
+رِباطُ المِطْرَقَةِ الأَمامِيّ	anterior ligament of malleus
+رِباطُ المَهْبِل (¬ قِيَادُ الوَتَر)	vaginal ligament (®vinculum tendinum)
+رِباطُ الوَريدِ الأَجْوَفِ الأَيسَر	ligamentum venae cavae sinistrae
+رِبَاط انْشِعَابِيّ	bifurcate
+رباط انضباطي	adjustable band
+رِباط برودي ( الرِّباطُ العَضُدِيُّ المُسْتَعْرِض)	Brodie's ligament (transverse humeral ligament)
+رِباطُ بلومبيرغ الأُرْبِيّ ( الرِّباطُ بَينَ النُّقَيرات)	inguinal ligament of Blumberg (ligamentum interfoveolare)
+رباطُ بَلِّينِي (? جُزْءُ المِحْفَظَةِ الوَرَكِيَّةِ المُدَوَّرَة)	Bellini's ligament
+رِباطُ بوبار (¬ الرِّباطُ الأُرْبِيّ)	Poupart's ligament (®ligamentum inguinale)
+رِباطُ بوتالو (الرِّباطُ الشِّرْيانِيّ)	ligament of Botallo (ligamentum arteriosum)
+رِباطُ بورجيري ( الرِّباطُ المَأْبِضيُّ المائِل)	Bourgery's ligament (ligamentum popliteum obliquum)
+رِباط بيتروكان (? الجُزْءُ الثَّخينُ لِلْمِحْفَظَةِ الصُّدْغِيَّةِ الفَكِّيَّة)	Petrequin's ligament
+رِباطُ بيتي (الرِّباطُ الرَحِمِيُّ العَجُزِيّ)	Petit's ligament (uterosacral ligament)
+رباطُ بيرار ( الرِّباطُ التَّأمُوريُّ الفِقْرِيّ)	Berard's ligament (pericardiovertebral ligament)
+رباطُ بيرتن ( الرِّباطُ الحَرْقَفِيُّ الفَخِذِيّ)	Bertin's ligament (ligamentum iliofemorale)
+رِباط بيرنز (الحافَةُ المَنْجِلِيَّةُ لِفُرْجةِ الصَّافِن)	Burns' ligament (margo falciformis hiatus saphenus)
+رباطُ بيري ( الرِّباطُ الدَّرقِيُّ اللاَّمِيُّ الوَحْشِيّ)	Berry's ligament (ligamentum thyrohyoideum laterale)
+رِباطُ بيغلو ( الرِّباطُ الحَرْقَفِيُّ الفَخِذِيّ)	Bigelow's ligament (ligamentum iliofemorale)
+رِبَاط بَيْنِ النُقَيرات	interfoveolar ligament
+رِباطُ ترايتس (العَضَلَةُ المُعَلِّقَةُ لِلإثْناعَشَريّ)	ligament of Treitz (musculus suspensorius duodeni)
+رباطُ تشيفينيني (الرِّباطُ الجَناحِيُّ الشَّوكِيّ)	ligament of Civinini (ligamentum pterygospinale)
+رِباطُ توفييه السُّفْلِيّ (جزء من الصفاق ملتصق بجدار الحفرة الحرقفية)	Tuffier's inferior ligament
+رباطُ توينبي (¬ العَضَلَةُ المُوَتِّرَةُ لِلْطَّبْلَة)	Toynbee's ligament (®musculus tensor tympani)
+رِباطٌ جَناحِيٌّ فَكِّيّ	pterygomandibular ligament
+رِباطُ جيردي (الرِّباطُ المُعَلِّقُ لِلإِبْط)	Gerdy's ligament (suspensory ligament of axilla)
+رِباطٌ حَلَقِيّ	annular ligament
+رِباطُ خيمبيرنات ( الرِّباطُ الجَوْبِيّ)	Gimbernat's ligament (ligamentum lacunare)
+رِباطُ خيمبيرنات المُنْعَكِس (¬ الرِّباطُ الأُرْبِيُّ المُنْعَكِس)	reflex ligament of Gimbernat (®ligamentum inguinale reflexum)
+رِباطٌ دَرْزِيّ	sutural ligament
+رِبَاطُ دَوَاعِمِ السِّنّ	periodontal ligament
+رِباطُ دوغلاس ( الثَّنْيَةُ المُسْتَقيمِيَّةُ الرَّحِمِيَّة)	Douglas's ligament (plica rectouterina)
+رِباطٌ دُوَيْرِيّ	orbicular ligament
+رباط دينوسيه	Denuce's ligament
+رِباطُ رَأْسِ الضِّلْعِ داخِلَ المَفْصِل	intra-articular ligament of head of rib
+رِباطُ رَأْسِ الفَخِذ	ligament of head of femur / ligamentum capitis femoris NA
+رِباطٌ رَضَفِيّ	patellar ligament
+رِباطُ روبرت (¬ الرِّباطُ الهِلاَلَويُّ الفَخِذِيُّ الخَلْفِيّ)	Robert's ligament (®ligamentum meniscofemorale posterius)
+رِباطُ ريسبيرغ (¬ الرِّباطُ الهِلالَوِيُّ الفَخِذِيُّ الخَلْفِيّ)	Wrisberg's ligament (®ligamentum meniscofemorale posterius)
+رِباطٌ زَليلِيّ	synovial ligament
+رِباطُ زين (¬ الحَلَقَةُ الوَتَرِيَّةُ المُشْتَرَكَة)	Zinn's ligament (®annulus tendineus communis)
+رِباطُ سانتوريني (¬ الرِّباطُ الحِلْقِيُّ البُلْعومِيّ)	Santorini's ligament (®ligamentum cricopharyngeum)
+رِباطُ سكاربا (القَرْنُ العُلْوِيُّ لِلحافةِ المِنْجَلِيَّة)	ligament of Scarpa (cornu superius marginis falciformis)
+رِباطٌ سُنْبُلِيُّ الشَّكْل	spica
+رِباطٌ سِنْخِيٌّ سِنِّيّ	alveolodental ligament
+رِباط صَائِمِيّ	jejunal ligament
+رباط ضاغط	bandage, pressure
+رِباطٌ عَبْرَ الحَاجِز	transseptal ligament
+رباطٌ عَريض	broad ligament
+رِباطُ عُنُقِ الضِّلْع (¬ الرِّباطُ المُسْتَعْرِضُ لِلضِّلْع)	ligamentum colli costae (®ligamentum costotransversarium)
+رِباطُ غونتز (جُزْءٌ من الغِشاءِ المُسِدّ)	Gunz's ligament
+رِباطُ فالوب (الرِّباطُ الأُرْبِيّ)	fallopian ligament (ligamentum inguinale) / ligament of Fallopius (ligamentum inguinale)
+رِباطُ فايتبريخت (¬ الحَبْلُ المائِلُ لِلغِشاءِ بَينَ عَظْمَي السَّاعِد)	Weitbrecht's ligament (®chorda obliqua membranae interosseae antebrachii)
+رِباطُ فايتبريخت المَوْشُورِيّ (¬ رِباطُ رَأْسِ الفَخِذِيّ)	prismatic ligament of Weitbrecht (®ligamentum capitis femoris)
+رِباطُ فلود ( الرِّباطُ الحُقِّيُّ العَضُدِيّ)	Flood's ligament (superior glenohumeral ligament)
+رِباطُ فيرَّان (القسم السميك الخارجي من محفظة المفصل الصدغي الفكي)	Ferrein's ligament
+رِباطُ فِيزاليوس (الرِّباطُ الأُرْبِيّ)	ligament of Vesalius (ligamentum inguinale)
+رِباطُ قاعِدَةِ الرِّكاب	ligament of base of stapes
+رباط قفازي	gauntlet
+رِبَاطُ قِمَّةِ الفَائِق	apical dental ligament / apical odontoid ligament (ligamentum apicis dentis axis) / ligamentum apicis dentis axis NA / ligamentum apicis dentis epistrophei (®ligamentum apicis dentis axis)
+رِباطٌ كاذِب	false ligament
+رِباطُ كاركاسُون (الرِّباطُ العانِيُّ البرُوسْتاتِيّ)	Carcassonne's ligament (ligamentum puboprostaticum)
+رِباطُ كاسَر (رباطُ المِطْرَقَةِ الوَحْشِيّ)	Casser's ligament (ligamentum mallei laterale) / casserian ligament (ligamentum mallei laterale)
+رباطُ كامبر (الحِجابُ البَولِيُّ التَّناسُلِيّ)	Camper's ligament (diaphragma urogenitale)
+رباطُ كامبيل (الرِّباطُ المُعَلِّقُ لِلأبْط)	Campbel's ligament (suspensory ligament of axilla)
+رباط كراوزه (الرِّباطُ العِجانِيُّ المُسْتَعْرِض)	Krause's ligament (ligamentum transversum perinei)
+رباطُ كلادو (الرِّباطُ الضِّلْعِيُّ الرَّهَابِيّ)	Clado's ligament (ligamentum costoxiphoidea)
+رِباطُ كَلداني	Caldani's ligament
+رباطُ كلوكيه (أثارَةُ النَّاتِىءِ الغِمْدِيّ)	Cloquet's ligament (vestigium processus vaginalis)
+رِباطُ كوبَر (الرِّباطُ العانِيّ)	Cooper's ligament (ligamentum pectineale)
+رِباطُ كوبر (اللِّفافَةُ العانِيَّة)	Cowper's ligament (fascia pectinea)
+رِباطُ كوبر الأُرْبِيّ (الرِّباطُ المِشْطَوِيّ)	inguinal ligament of Cooper (ligamentum pectineale)
+رباطُ كولِّس (الرِّباطُ الأُرْبِيُّ المُنْعَكِس)	Colles' ligament (ligamentum inguinale reflexum)
+رِباطٌ لِثَوِيّ	gingival ligament
+رِباطُ لوت (الرِّباطُ الفَهْقِيُّ المُسْتَعْرِض)	Lauth's ligament (ligamentum transversum atlantis)
+رِباطُ لوكوود (في العَين)	Lockwood's ligament
+رِباطُ ليسفرانك (في القدم)	Lisfranc's ligament
+رِباطُ ماسيا (السَّبيلُ الحَرْقَفِيُّ الظُّنْبُوبِيّ)	ligament of Maissiat (tractus iliotibialis)
+رِباطُ ماكينروت (الثَّنْيَةُ المُسْتَقيمِيَّةُ الرَّحِمِيَّة)	Mackenrodt's ligament (plica rectouterina)
+رِباطُ ماوخارت (الأَرْبِطَةُ الجَناحِيَّة)	Mauchart ligaments (ligamenta alaria)
+رِباطُ ماير (الرِّباطُ الرُّسُغِيُّ الكُعْبُرِيّ)	ligament of Mayer (ligamentum carpi radiatum)
+رِباطٌ مِحْفَظِيّ (مِحْفَظَةٌ مَفْصِلِيَّة)	capsular ligament (ligamenta capsularia)
+رِباطٌ مَرْكَزِيّ	central ligament
+رِباطُ مِسْراقِ القَوْلُون (شَرِيطَةُ مِسْراقِ القَوْلُون)	mesocolic ligament of colon (taenia mesocolica)
+رِباطٌ مَصْلِيّ	serous ligament
+رباط منشّى	bandage, starch
+رِباطُ ميكل (شَريطُ ميكل)	Meckel's ligament (Meckel's band)
+رِباطُ هاي (الحافَةُ المِنْجَلِيَّةُ لِفُرْجَةِ الصَّافِن)	Hey's ligament (margo falciformis hiatus saphenus)
+رِباطُ هسلباخ (الرِّباطُ بَينَ النُّقَيْرات)	Hesselbach's ligament (ligamentum interfoveolare)
+رِباطُ همفري (رباطُ الهِلالَةِ الفَخِذِيَّةِ الأَمامِيَّة)	Humphry's ligament (ligamentum meniscofemorale anterius)
+رِباطُ هنتَر (الرِّباطُ المُدَوَّرُ الرَّحِمِيّ)	Hunter's ligament (ligamentum teres uteri)
+رِباطُ هنسينغ (طية مصلية من القولون النازل تمتد الى جدار البطن)	Hensing's ligament
+رِبَاطُ هنلي (مِنْجَلُ الأُرْبِيَّة)	Henle's ligament (falx inguinalis)
+رِباطُ هوشكه (الثَّنْياتُ المَعِدِيَّةُ البَنْكرياسِيَّة)	Huschke's ligaments (plicae gastropancreaticae)
+رِباطُ هيلمهولتز (رباط يربط المطرقة بغشاء الطبل)	Helmholtz's ligament
+رِباطُ و الداير قَبْلَ الإِحْليلِيّ (¬ الرِّباطُ المُسْتَعْرِضُ العِجانِيّ)	preurethral ligament of Waldeyer (®ligamentum transversum perinei)
+رباط واقٍ	bandage, protective
+رِباطُ ويبر الأَصْلِيُّ للرُّكْبَة (=الرِّباطُ المُسْتِعْرضُ الرُّكَبِيّ)	common ligament of knee (of Weber)
+رِباطُ وينسلو (¬ الرِّباطُ المَأْبِضِيُّ المائِل)	Winslow's ligament (®ligamentum popliteum obliquum)
+رِباطُY (¬ الرِّباطُ الحَرْقَفِيُّ الفَخِذِي)	Y ligament (®ligamentum iliofemorale)
+رِباطِيّ	desmogenous / ligamentous
+رِباطِيُّ المَنْشَأ	desmogenous
+رِباطِيٌّ سِنِّيّ	syndesmo-odontoid
+رِبَاطِيّ، ضَام	syndesmo
+رِباطِيَّاتُ الصَّدْر (رُتبة من الحيوانات الأوالي)	Desmothoracida
+رُباعُ الأَثْداء	tetramastia / tetramazia
+رُباعُ الأَسْواط	tetramastigote
+رُباعُ الأَهْدَابِ	tetrastichiasis
+رُباعُ الصِّبْغِيّ	tetrasomy
+رُباعُ الصِّيغَةِ الصِّبْغِيَّة	tetraploidy
+رُباعُ القُسَيْمات	tetramerism
+رُباعَة (شكل ترسيمي في الدراسات البيئية)	quadrat
+رُبَاعِيّ	quaternary
+رُباعِيُّ أُكْسيدِ الأُوزْميُوم	osmium tetroxide
+رُباعِيُّ الأَثْداء	tetramastous
+رُباعِيُّ الآذان [مسخ]	tetraotus / tetrotus (tetraotus)
+رُباعِيُّ الأَذْرُع [مسخ]	tetrabrachius
+رُباعِيُّ الأَرْجُل	tetrapod
+رُباعِيُّ الأسيتات	tetracetate
+رُباعِيُّ الأَصابِع	quadridigitate (tetradactylous) / tetradactylous
+رُباعِيُّ الأَعْيُن [مسخ]	tetranophthalmos / tetrophthalmos
+رُباعِيُّ الأَقْدام	quadruped
+رُباعِيُّ الأَقْدَام [مسخ]	tetrapus
+رُباعِيُّ الأَقْسام	quadripartite
+رُباعِيُّ الأَقْطاب	quadripolar
+رُباعِيُّ الأُكسيد	tetroxide
+رُباعِيُّ الأَلوان	tetrachromic
+رُباعِيُّ الأمين	tetramine
+رُباعِيُّ الأَيدِي [مسخ]	tetrachirus
+رُباعِيُّ البَوْغ	tetraspore
+رُباعِيُّ البيبتيد	tetrapeptide
+رُباعِيُّ التَّكافُؤ	quadrivalent (tetravalent) / tetravalent
+رُبَاعِيُّ التَّوَائِم [ج:رُبَاعِيَّاتُ التَّوَائم]	quadrigeminum [pl.quadrigemina] / quadrigeminus
+رُباعِيُّ الحَدَبات	quadritubercular
+رُباعِيُّ الذَّرَّة	tetratomic
+رُباعِيُّ الزَّوايا	quadrangle / quadrangular
+رُباعِيُّ السَّكّاريد	tetrasaccharide
+رُباعِي السِّيقان [مسخ]	tetrascelus
+رُباعِيُّ الشُّرَف [أسنان]	quadricuspid
+رُباعِيُّ الصِّبْغِي	tetrasomic
+رُباعِيُّ الصِّيغَةِ الصِّبْغِيَّة	tetraploid
+رُباعِيُّ الطَّبَقاتِ الأَرومِيَّة	tetrablastic
+رُباعِيُّ الفُصوص	quadrilobate
+رُباعِيُّ القاعِدَة	quadribasic / tetrabasic
+رُباعِيُّ القُسَيْمات	tetrameric
+رُباعِيُّ الكلوريد	tetrachloride
+رُباعِيُّ المُتَقَبِّل	quadriceptor
+رُباعِيُّ المُرْتَسَمِ النَّبْضِيّ	tetracrotic
+رُباعِيُّ المَساكِن	quadrilocular
+رُباعِيُّ الميثيل	tetramethyl
+رُباعِيُّ النترول	tetranitrol
+رُباعِيُّ النَّجْماء	tetraster
+رُباعِيُّ النُّوكليوتيد	tetranucleotide
+رُباعِيُّ الهيدروجين	tetrahydric
+رُباعِيُّ إيثيل الأمونيوم (دواء محصر للعقد الودية)	tetraethylammonium
+رُباعِيُّ برومو الفينول فثالئين (كاشف للحموضة)	tetrabromophenolphthalein
+رُباعِيُّ بروميد الفلوريسئين ( يوزين)	tetrabromofluorescein (eosin)
+رُباعِيُّ بروميدِ فثالئينِ الصُّودْيُوم (لتصوير المرارة الظليل)	tetrabromophthalein sodium
+رُباعِيُّ كلور إيثان	tetrachlorethane
+رُباعِيّ كلور ميثان	tetrachlormethane
+رُباعِيُّ كلورو إيثيلين (مضاد للديدان)	tetrachloroethylene
+رُباعِيُّ كلورو فينوكسيد (مبيد للفطريات)	tetrachlorphenoxide
+رباعي كلوريدِ الكَرْبون	carbon tetrachloride
+رُباعِيُّ ميثيل الأمونيوم (مركب سام من لعاب الحلزونات البحرية)	tetramethylammonium
+رُباعِيُّ ميثيلين ثُنائيُّ الأمين	tetramethylenediamine (putrescine)
+رُباعِي نِتْراتِ خُماسِيِّ الإيريثريتول	pentaerythritol tetranitrate
+رُباعِيُّ هيدروبالماتين (مركب قلواني نباتي)	tetrahydropalmatine
+رباعيُّ هيدروفولات	tetrahydrofolate
+رُباعِيُّ هيدروكانابينول (مركب ذو فعالية مُخَدِّرَة)	tetrahydrocannabinol
+رُباعِيُّ يودوثيرونين ( الثيروكسين)	tetraiodothyronine (thyroxine)
+رُباعِيُّ يودوفينول فثالئين (مادة لتصوير المرارة)	tetraiodophenolphthalein
+رُباعِيَّاتُ الأَسْنان (فصيلة أسماك)	Tetraodontoidea
+رُباعِيَّاتُ التَّوائِم [تشريح]	quadrigemina
+رباعيات القوائم	quadrupeds
+رُباعِيَّة	tetrad / tetralogy
+رباعية "فالوب"	Fallot's tetralogy
+رُباعِيَّةُ الأَصابِع	tetradactyly
+رُباعِيَّةُ الغِشاء (جنس من الأوالي المهدبة)	Tetrahymena
+رُباعِيَّةُ الغِشاءِ الكُمَّثْرِيَّة	Tetrahymena pyriformis
+رُباعِيَّةُ الوُرَيْقات (رتبة من الديدان الشريطية)	tetraphyllidea
+رُباعِيَّةُ آيزنمنغر	tetralogy of Eisenmenger
+رُباعِيَّةُ سِيلزُوس (الإِحْمَرارُ, التَّوَرُّمُ, الحَرارَةُ, والأَلَم)	Celsus quadrilateral
+رُباعِيَّةُ فالُّو	Fallot's tetrad / Fallot's tetralogy / tetralogy of Fallot
+رِباقَة (بنية تشريحية) [ج:رِباقات]	trabs [pl.trabes]
+رَبْدانِيّ	rhabditoid
+رَبَدِيّ (الرَّبْدَاءُ من المعز:السوداء المنقطة بحمرة)	rhabditic
+رَبْط	bind / ligation / ligature
+ربْط (سابقة)	hygro
+رَبْطُ الأَسْنان	teeth ligation
+رَبْطُ الأَسْهَر	vasoligation / vasoligature
+رَبْطُ البوق	tubal ligation
+رَبْطُ الدَّوالِي	cirsodesis
+رَبْطُ الشَّريطِ المَطَّاطِيّ	rubber band ligation
+رَبْطُ القُطْب	pole ligation
+رَبْطُ بارون (للبَواسير)	Barron ligation
+رَبْطٌ جِراحِيّ	surgical ligation
+رَبْطٌ زَوجِيّ	pair bonding
+رَبْط، تثْبيت	binding
+رَبْطَة	ligature
+رَبْطَةُ الخَيطِ المَرِن	thread-elastic ligature
+رَبْطَةٌ انْتِهائِيَّة	terminal ligature
+رَبْطَةٌ جانِبِيَّة	lateral ligature
+رَبْطَةٌ ذَوَّابَة	soluble ligature
+رَبْطَةٌ سِلْسِلِيَّةٌ	chain ligature
+رَبْطَةُ عُنْق	cravat
+رَبْطَةٌ فُولاذِيَّة [للأسنان]	steel ligature
+رَبْطَةٌ قَابِلَةٌ للامْتِصَاصِ	absorbable ligature
+رَبْطَةٌ قاصِيَة	distal ligature
+رَبْطَةٌ كَنْغَرِيَّة	kangaroo ligature
+رَبْطَةٌ لاتُمْتَصّ	nonabsorbable ligature
+رَبْطَةٌ مارِنَة	elastic ligature
+رَبْطَةٌ مُتَشابِكَة	interlacing ligature / interlocking ligature
+رَبْطَةٌ مَرْحَلِيَّة	provisional ligature
+رَبْطَةٌ مُزْدَوِجَة	double ligature
+رَبْطَةٌ مُسِدَّة	occluding ligature
+رَبْطَةٌ نِصْفُ مُسِدَّة	suboccluding ligature
+ربع (ال...) الخلفيّ	hindquarter
+رِبْع (يتكرر كل 72 ساعة)	quartan
+رِبْعٌ مُضاعَفَة (حمى يوم بعد يوم)	double quartan
+رُبُع، قِسْم	quarter
+رُبْعَوِيّ	quadrantal
+رُبْعِيَّاتُ غِشاءِ الطَّبْل	quadrants of the tympanic membrane
+رُبْعِيَّة ( رُبْعُ الدَّائِرَة)	quadrant
+رُبْعِيَّةٌ سِنِّيَّة	dental quadrant
+رُبُق [ف:رِباقَة]	trabes [sing.trabs]
+رَبْلَة	calf
+رَّبَلَة (ال...)	sura
+رَبْلة الساق	calf
+رَبْلِيّ	sural
+رَبْو	asthma
+رَبْوٌ اخْتِلاجِيّ ( رَبْوٌ قَصَبِيّ)	asthma convulsivum (bronchial asthma)
+رَبْوٌ أَرَجِيّ	allergic asthma
+رَبْوٌ أَسَاسِيّ	essential asthma
+رَبْوُ الإيزوسيانات	isocyanate asthma
+رَبْوُ الْتِهابِ القَصَبات	bronchitic asthma
+رَبْوُ الجِماع	sexual asthma
+رَبْوُ الخَزَّافين	potters' asthma
+رَبْوُ الخَيل	broken wind (heaves) / horse asthma
+رَبْوُ الدي إيزوسيانات ( رَبْوُ الإيزوسيانات)	diisocyanate asthma (isocyanate asthma)
+رَبْوُ آلسنر ( ذَبْحَةٌ صَدْرِيَّة)	Elsner's asthma (angina pectoris)
+رَبْوُ الطَّبَّاعين	printers' asthma
+رَبْوُ الطَّحَّانين	grinders asthma / millers' asthma
+رَبْوُ الطَّلْع	pollen asthma
+رَبْوُ الغُبار	dust asthma
+رَبْوُ الكَلأ	hay asthma
+رَبْوُ المُعَدِّنين	miners' asthma
+رَبْوُ المُعَدِّنين ( سُحار)	miner asthma
+رَبْوُ النَّسَّاجين	strippers' asthma
+رَبْوٌ انْعِكاسِيّ	reflex asthma
+رَبْوٌ أَنْفِيّ	nasal asthma
+رَبْوٌ بَطْنِيُّ المَنْشَأ	abdominal asthma
+رَبْوٌ تَأَتُّبِيّ ( رَبْوٌ أَرَجِيّ)	atopic asthma (allergic asthma)
+رَبْوُ تَحَصِّي القَصَبات	stone asthma
+رَبْوٌ تَشَنُّجِيّ	spasmodic asthma
+رَبْوٌ توتِيُّ المَنْشَأ	thymic asthma
+رَبْوٌ جُرْثومِيّ	bacterial asthma
+رَبْوٌ جِلْدِيُّ المَنْشَأ	cutaneous asthma
+رَبْوٌ حَقيقِيّ ( رَبْوٌ أَسَاسِيّ)	true asthma (essential asthma)
+رَبْوٌ خارِجِيُّ المَنْشَأ	extrinsic asthma
+رَبْوٌ داخِلِيُّ المَنْشَأ	intrinsic asthma
+رَبْوٌ رَطْب	humid asthma
+رَبْوُ روستان ( رَبْوٌ قَلْبِيّ)	Rostan's asthma (cardiac asthma)
+رَبْوٌ سِنْخِيّ	alveolar asthma
+رَبْوٌ طَعَامِيُّ المَنْشَأ	food asthma
+رَبْوٌ عَدْوائِيُّ المَنْشَأ	infective asthma
+رَبْوٌ عَصَبِيّ	nervous asthma
+رَبْوُ غُبارِ القُطْن	cotton-dust asthma
+رَبْوُ فَرْطِ الدَّرَقِيَّة	hyperthyroid asthma
+رَبْوٌ قَصَبِيّ	bronchial asthma
+رَبْوُ قِطَطِيُّ المَنْشَأ	cat asthma
+رَبْوٌ قَلْبِيّ	cardiasthma
+رَبْوٌ قَلْبِيُّ المَنْشَأ	cardiac asthma
+رَبْوٌ كاذِب ( ضِيقُ النَّفَسِ الانْتِيابِيّ)	pseudoasthma (paroxysmal dyspnea)
+رَبْوُ كوب ( تَشَنُّجُ الحَنْجَرَةِ الصَّريرِيّ)	Kopp's asthma (laryngismus stridulus)
+رَبْوٌ مَصْحُوْبٌ بأَعْرَاض	symptomatic asthma
+رَبْوُ مُصَلِّحِي المَراجِلِ البُخارِيَّة ( رَبْوٌ أَسْبَسْتِيّ)	steam-fitters' asthma (asbestosis asthma)
+رَبْوُ ميلار ( تَشَنُّجُ الحَنْجَرَةِ الصَّريرِيّ)	Millar's asthma (laryngismus stridulus)
+رَبْوٌ نَزْلِيّ ( رَبْوُ الْتِهابِ القَصَبات)	catarrhal asthma (bronchitic asthma)
+رَبْوٌ نُفاخِيّ	emphysematous asthma
+رَبْوُ هيبيردين ( ذَبْحَةٌ صَدْرِيَّة)	Heberden's asthma (angina pectoris)
+رَبْوُ ويشمان ( تَشَنُّجُ الحَنْجَرَةِ الصَّريرِيّ)	Wichmann's asthma (laryngismus stridulus)
+رَبْوِيُّ الشَّكْل	asthmatiform
+رُبَيْدَة (ليفَةُ العَضَلَةِ المُخَطَّطَة)	rhabdium
+رُّبَيْع (ال...) الأَدْنَى	lower quartile
+رُبَيْع أَوَّل	first quartile
+رَبيعِيّ	vernal
+رَتابَةُ الكَلام	aprosody / hypoprosody
+رُتَاج ؛ دَاءُ الرُّتُوْج	diverticulosis
+رِتاجُ الحَوْجَلَة	flask bolt
+رُتْبَة	order
+رُتْبَة الجَرَاثِيم الخَضْرَاء	Chlorobacteriales
+رُتْبَة الرِّيكِتْسِيَّات	Rickettsiales
+رُتْبَة الشُعِّيَّات	actinomycetales
+رُتْبَة الْـمُتَفَطِّرَات	Mycobacterials
+رُتْبَة المِطَثِّيَّات	Clostridiales
+رُتْبَة الْـمَفْطُورَات	Mycoplasmatales
+رُتْبَة الْـمُلْتَوِيَّات	Spirochetales
+رُتْبَةٌ شَكْلِيَّة	form-order
+رِتْج	diverticulum
+رَتْج ؛ رِتْج [ج:رُتوج]	diverticulum [pl.؛ diverticula]
+رَتْجُ الإِثْناعَشَرِيّ	duodenal diverticulum
+رَتْجُ الدَّرَقِيَّة	thyroid diverticulum
+رَتْجُ الدَّفْع	pulsion diverticulum
+رَتْجُ الصَّنَوبَرِيَّة	pineal diverticulum
+رَتْجُ الكُلْوَةِ التَّالِيَة	metanephric diverticulum
+رَتْجُ النُّخَامِيَّة (جَيبَةُ راتكه)	pituitary diverticulum (Rathke's pouch)
+رِتْجٌ اندفاعِيّ	pulsion diverticulum
+رَتْجٌ انْضِغاطِيّ	pressure diverticulum
+رَتْجُ بِرْتيك (رَتْجٌ بُلْعومِيٌّ عَميق)	Pertik's diverticulum
+رَتْجٌ بُلْعومِيٌّ مَريئِيّ	pharyngoesophageal diverticulum
+رَتْجٌ جَرِّيّ	traction diverticulum
+رَتْجٌ حَقيقِيّ	true diverticulum
+رَتْجٌ حَنْجَرِيّ	laryngeal diverticulum
+رَتْجٌ رَقَبِيّ	cervical diverticulum
+رَتْجُ رُوكِيتانسكي (رَتْجُ المَريء الجَرِّي)	Rokitansky's diverticulum
+رَتْجٌ زَليلِيّ	synovial diverticulum
+رَتْجُ زِنْكَر (رَتْجٌ بُلْعومِيٌّ مَريئِيّ)	Zenker's diverticulum (pharyngoesophageal diverticulum)
+رَتْجٌ سِقائِيّ	allantoic diverticulum
+رَتْجٌ عُقْدِيّ (انْفِتاقُ الكيسِ الزَليلِيّ)	ganglion diverticulum
+رَتْجُ غانسَر (رَتْجُ ثَنْيَةِ السِّينِيّ)	Ganser's diverticulum
+رَتْجُ غرِيسر (رَتْجُ ثَنْيَةُ السينِي الكاذِب)	Graser's diverticulum
+رَتْجٌ كاذِب	false diverticulum
+رَتْجٌ كَأْسِيّ	caliceal diverticulum / calyceal diverticulum
+رَتْجٌ كَبِدِيّ	hepatic diverticulum
+رَتْجُ كِيرشنَر (رَتْجُ النَّفير)	Kirchner's diverticulum
+رَتْجٌ لَفائِفِيّ (رَتْجٌ مِعَوِيّ)	diverticulum ilei
+رَتْجٌ لَفائِفِيّ (رَتْجُ مِيكل)	diverticulum ilei verum (Meckel's diverticulum)
+رَتْجٌ مَثانِيّ	vesical diverticulum
+رَتْجٌ مِعَوِيّ	intestinal diverticulum
+رَتْجٌ مُكْتَسَب	acquired diverticulum
+رَتْجُ مِيكل (رَتْجٌ مِعَوِيّ)	Meckel's diverticulum
+رَتْجُ نُوك (النَّاتِئُ المَهْبِلِيُّ الصِّفاقِيّ)	Nuck's diverticulum (processus vaginalis peritonei NA)
+رَتْجُ هايسْتر (بَصَلَةُ الوَريدِ الوَداجِيِّ العُلْوِيَّة)	Heister's diverticulum (bulbus venae jugularis superior)
+رَتْجٌ وَظيفِيّ	functional diverticulum
+رَتْجِيّ	diverticular
+رَتَق	atresia / atresia; atreto- / atretocormia / clausura (atresia) / imperforation
+رَتَق (غياب خلقي لفوهة تشريحية)	atresia
+رَتَقُ الأَبْهَر	aortic atresia
+رَتَقُ الإِثْنا عَشَرِيّ	duodenal atresia
+رَتَقُ الأَجْفان	atretoblepharia
+رَتَقُ الإِحْليل	atreturethria / urethratresia
+رَتَقُ الأُذُن	aural atresia / otic imperforation
+رَتَقُ الأَعْضَاءِ التَّنَاسُلِيَّةِ الأُنْثَوِيَّة	gynatresia
+رَتَقُ الأَمْعاء	intestinal atresia
+رَتَقُ الأَنْف	atretorrhinia
+رَتَقُ الجُرَيب	atresia folliculi / follicular atresia
+رَتَقُ الحَلْق	atretolemia
+رَتَقُ الرِّئَة	pulmonary atresia
+رَتَقُ الرَّأْس	atretocephalia
+رَتَقُ الرَّحِم	atretometria / hysteratresia
+رَتَقُ الشَّرْج	anal atresia / atresia ani / hedratresia (imperforate anus) / imperforate anus
+رَتَقُ الصِّماخ	meatal atresia
+رَتَقُ الصِّمَام الثُّلاثِيِّ الشُّرَف	tricuspid atresia
+رَتَقُ الصِّمامِ المِتْرالِيّ	mitral atresia
+رتق الفرجة	hiatopexy
+رَتَقُ الفَم	atretostomia
+رَتَقُ القُزَحِيَّة	atresia iridis / atretopsia (atresia iridis)
+رَتَقُ القَناةِ الدَّمْعِيَّة	dacryagogatresia / dacryagogatresia (dacryoagogatresia)
+رَتَقُ القَنَاةِ السَّمْعِيَّةِ الظَّاهِرَة	external auditory canal atresia
+رَتَقُ القَناةِ الصَّفْراوِيَّة	biliary atresia
+رَتَقُ القُنَيَّةِ الدَّمْعِيَّة	dacryo-agogatresia (dacryoagogatresia)
+رتق الكيس	cystendesis
+رَتَقُ المَثانَة	atretocystia
+رَتَقُ المَريء	esophageal atresia
+رَتَقُ المُسْتَقيم (? رَتَقٌ شَرْجِيّ)	proctatresia (imperforate anus)
+رَتَقُ المَعِدَة	atretogastria
+رَتَقُ المَهْبِل	colpatresia / vaginal atresia
+رَتَقٌ شَفَوِيٌّ (انعدام ثقبة الفم)	labial phimosis
+رَتَقُ صِمامِ الأَبْهَر	aortic valve atresia
+رَتَقٌ قَبْلَ البَوَّاب	prepyloric atresia
+رَتَقُ قِمْعِ الأَنْف	choanal atresia
+رتق مهبلي	gynatresia
+رَتَقِيّ	atresic / atresic; atretic / atretic
+رَتَل الأسنان	alignment, teeth
+رَتْلُ الأَسْنانِ الأَمامِيَّة	anterior teeth set
+رَتَلُ الأَسْنانِ الخَلْفِيَّة	posterior teeth set
+رَتْنَجَة	resinification
+رتَّة	spoonerism
+رُتَّة (عُسْرُ التَّلَفُّظ)	dysarthria
+رُتَّةُ الحُروف (تَأْتَأَة)	dysarthria literalis (stuttering)
+رُتَّةٌ تَشَنُّجِيَّة	spastic dysarthria
+رُتَّةٌ تَشَنُّجِيَّةٌ للمَقاطِع (تَأْتَأَة)	dysarthria syllabaris spasmodica (stuttering)
+رُتَّةٌ رَنَحِيَّة (رُتَّةٌ مُخَيخِيَّة)	ataxic dysarthria (cerebellar dysarthria)
+رُتَّةٌ مُخَيخِيَّة	cerebellar dysarthria
+رُتَّةٌ نَمَائِيَّة	developmental dysarthria
+رُتوُج	diverticula
+رُتوج [ف:رَتْج؛رِتْج]	diverticula [sing.diverticulum]
+رُتوجُ الرُّغامَى	diverticula of trachea / tracheal diverticula
+رُتوجُ القَوْلُون	colonic diverticula / diverticula of colon
+رُتوجُ أَمْبولةِ الأَسْهَرِ	diverticula ampullae ductus deferentis NA
+رُتوجٌ بَنْكرياسِيَّة	pancreatic diverticula
+رَتِيْبٌ	monotone
+رُتَيْبَة [ج:رُتَيْبَات]	suborder
+رَثْية	rheumatism
+رثية الأطراف	acro-arthritis
+رثية المفاصل المتعددة	arthritis, polyarticular = polyarthritis
+رثية حادة	arthritis, acute
+رثية، ألم المفاصل	arthralgia
+رَجّ	succussion
+رَجٌّ بُقْرَاطِيّ (في استرواح الصدر الانصبابي)	hippocratic succussion
+رُجْحان	preponderance
+رُجْحانٌ بُطَينِيّ	ventricular preponderance
+رَجْع	retroaction
+رَجْعُ الضَّرْبَة	contrecoup
+رَجْعَةٌ وِراثِيَّة (عودة خصائصِ الأَسْلاف)	paleogenesis (palingenesis)
+رَجْعَة؛نَكْسَة	recurrence
+رجف	tremble
+رَجَفان	fibrillation
+رَجَفانٌ أُذَينِيّ	atrial fibrillation / auricular fibrillation / fibrillation, auricular = atrial fibrillation
+رَجَفان الجفن	ciliosis
+رَجَفانٌ بُطَينِيّ	ventricular fibrillation
+رَجَفانٌ قَصْدِيّ	intention tremor
+رجفة	clonus
+رجفة الكاحل	clonus, ankle
+رِجْلُ الذِّئْب (جِنْسٌ مِنَ الأشْنات)	Lycopodium
+رِجْلُ الوَزّ (نجنسُ أعشاب مِنَ السَّرْمَقِيَّات)	Chenopodium
+رِجْلٌ عَصَبِيَّة [ج:أَرْجُلٌ عَصَبِيَّةٌ]	neuropodium [pl.neuropodia]
+رِجْلٌ كاذِبَةٌ خَيطِيَّة	filopod / filopodium [pl.filopodia]
+رِجليّ	podal
+رجن حُر	loose housing
+رُجُوْعِيّ؛بالطَّرِيْقِ الرَّاجِع	retrograde
+رُحام، التهاب الرحم	metritis
+رَحَح (قَدَمٌ رَحَّاء)	platypodia (flatfoot)
+رَحْضَة	enema
+رَحَلاَن	phoresis / phoresy (phoresis)
+رَحَلاَنُ البروتيناتِ الشَّحْمِيَّة	lipoprotein electrophoresis
+رَحَلاَنُ الطَّبَقَةِ الرَّقيقَة	thin-layer electrophoresis
+رَحَلانٌ أَيُوْنِيّ	ionophoresis
+رَحَلاَنٌ ذَهَبِيّ	chrysophoresis
+رَحَلاَنٌ صاروخِيّ	rocket electrophoresis
+رَحَلان كَهْرَبَائِيّ	electrophoresis
+رَحَلان كَهْرَبَائِيّ شُعَيْرِيّ	capillary electrophoresis
+رَحَلاَنٌ كَهْرَبائِيٌّ مَناعِيٌّ مُعاكِس	counterimmunoelectrophoresis
+رَحَلاَنٌ كَهْرَبِيّ	electrophoresis
+رَحَلانٌ كَهْرَبِيٌّ عَكْسِيٌّ (رَحَلاَنٌ مَناعِيٌّ عَكْسِيّ)	counter electrophoresis (counterimmunophoresis)
+رَحَلاَنٌ كَهْرَبِيٌّ قُرْصِيّ	disc electrophoresis
+رَحَلاَنٌ كَهْرَبِيٌّ مُتَصالِب	crossed electrophoresis
+رَحَلاَنٌ كَهْرَبِيٌّ مُعاكِس	counterelectrophoresis
+رَحَلاَنٌ كَهْرَبِيّ مَنَاعِيٌّ إِنْزيمِيّ	enzymoimmunoelectrophoresis
+رَحَلاَنٌ كَهْرَبِيٌّ هُلاَمِيّ	gel electrophoresis
+رَحَلاَنٌ مَتَحَرِّكُ الحُدود	moving boundary electrophoresis
+رَحَلاَنٌ مُتَّسِقُ السُّرْعَة	isotachophoresis
+رَحَلانٌ مِجْهَرِيّ	microelectrophoresis
+رَحَلاَنٌ مَناطِقِيّ	zone electrophoresis
+رَحَلاَنٌ مَناعِيّ	immunoelectrophoresis / immunophoresis (immunoelectrophoresis)
+رَحَلاَنٌ مَناعِيٌّ بالتَّيَّارِ العَكْسِيّ	countercurrent immunoelectrophoresis
+رَحَلانٌ مَناعِيٌّ صاروخِيّ	rocket immunoelectrophoresis
+رَحَلاَنٌ مَناعِيٌّ مُتَصالِب	crossed immunoelectrophoresis
+رَحَلاَنٌ مَناعِيٌّ مَعْكوس	reverse immunoelectrophoresis
+رَحَلاَنٌ مَهْبِطِيّ	cataphoresis
+رَحَلاَنٌ وَرَقِيّ	paper electrophoresis
+رَحَلاَنِيّ	electrophoretic
+رَحِم	metra (uterus) / uterus / uterus; womb / womb (uterus)
+رَحِمٌ أُحادِيُّ القُرْنِ	uterus unicornis
+رَحِمٌ بَسيط	uterus simplex
+رَحِمٌ بَيضَوِيٌّ	ovoid uterus
+رَحِمٌ جَنينِيٌّ	fetal uterus
+رَحِمٌ حامِل	gravid utérus
+رَحِمٌ ذُو غُرْفَتَين	uterus bicameratus vetularum
+رَحِمٌ ذُو فُوهَتَين	uterus biforis
+رَحِمٌ ذو قَرْنَين	bicornis uterus / uterus bicornis / uterus subseptus
+رَحِمٌ ذُو قُرْنَينِ وَعُنُق	uterus bicornis unicollis
+رَحِمٌ ذُو قُرْنَينِ وعُنُقَين	uterus bicornis bicollis
+رَحِمٌ ذو مَسْكَنَين	bipartid uterus / uterus bilocularis / uterus bipartitus / uterus septus
+رَحِمٌ رَديمِيٌّ	uterus rudimentarius
+رَحِمٌ سَرْجِيُّ الشِّكْل	saddle-shaped uterus
+رَحِمٌ سِنْدانِيُّ الشَّكْل	uterus incudiformis
+رَحِمٌ شَريطِيٌّ	ribbon uterus
+رَحِمٌ طِفْلِيّ	infantile uterus / pubescent uterus
+رَحِمٌ عَديمُ العُنُق	uterus acollis
+رَحِمٌ قَصيرُ العُنُق	uterus parvicollis
+رَحِمٌ قَلْبِيُّ الشَّكْل	uterus cordiformis
+رَحِمٌ قَوقَعِيٌّ	cochleate uterus
+رَحِمٌ لِيفانِيٌّ	fibroid uterus
+رَحِمٌ مُثَلَّث	uterus triangularis
+رَحِمٌ مُزْدَوِج	uterus duplex
+رَحِمٌ مُسَطَّحُ القَاع ( رَحِمٌ سِنْدانِيُّ الشَّكْل)	uterus planifundalis (uterus incudiformis)
+رَحِمٌ مُقَوَّس	uterus arcuatus
+رَحِمِيّ	hyster / metrial / uterine
+رَحمِي (سابقة)	metro; utero
+رَحِمِيُ التَّكَوُّن	uterogenic
+رَحِمِيُّ المَنْشَأ	metrogenous
+رَحِمِيٌّ بَطْنِيّ	uteroabdominal / uteroventral
+رَحِمِيٌّ بُوقِيّ	uterotubal
+رَحِمِيٌّ حَوضِيّ	uteropelvic
+رحمي داخلي	endouterine
+رَحمي سُخْدي، رحميّ مشيميّ	uteroplacental
+رَحِمِيٌّ صِفاقِيّ	metroperitoneal
+رَحِمِيٌّ عَجُزِيّ	uterosacral
+رَحِمِيٌّ عُنُقِيّ	uterocervical
+رَحِمِيٌّ مَبيضِيّ	utero-ovarian
+رَحِمِيٌّ مَثانِيّ	hysterocystic / uterovesical
+رَحِمِيٌّ مُسْتَقيمِيّ	uterorectal
+رَحِمِيٌّ مَشيمِيّ	uteroplacental
+رَحِمِيٌّ مِعَوِيّ	uteroenteric / uterointestinal
+رَحِمِيٌّ مُلْحَقاتِيّ	uteroadnexal
+رَحِمِيٌّ مَهْبِلِيّ	uterovaginal
+رَحَوِيُّ الجَسَد [مسخ]	aspalasoma
+رَحَوِيُّ الشَكْل	molariform
+رَحَى	cheek tooth / molar / molaris / wang tooth
+رَحَى السَّنَةِ الثَّانِيَةِ عَشْرَة ( الرَّحَى الثَّانِيَة)	twelfth-year molar (second molar)
+رَحَى السَّنَةِ السَّادِسَة	sixth-year molar
+رَحَى برويس	Breus' mole
+رَحَىً بُوقِيَّة	tubal mole
+رَحَىً توتِيَّة	mulberry molar
+رَحَىً حَقِيْقِيَّة	true mole
+رَحَىً حُوَيْصِلِيَّة ( رَحَىً عُدارِيَّة)	vesicular mole (hydatidiform mole)
+رَحَىً خَبيثَة	malignant mole
+رَحَىً دَمَوِيَّة	blood mole
+رَحَىً سُفْلِيَّة	lower molar
+رَحَىً سُفْلِيَّةٌ أُوْلى	lower first molar
+رَحَىً سُفْلِيَّةٌ ثالِثَةٌ	lower third molar
+رَحَىً سُفْلِيَّةٌ ثَانِيَّةٌ	lower second molar
+رَحَىً شَبِيْهَةٌ بالقُبَّة	dome-shaped molar
+رَحَىً عُدارِيَّة	hydatid mole (hydatidiform mole)
+رَحَىً عُلْوِيَّة	upper molar
+رَحَىً غَزْوِيَّة	invasive mole
+رَحَىً قَصْواء [أسنان]	distomolar
+رَحَىً كاذِبَة	false mole
+رَحَىً كيسِيَّة	cystic mole
+رَحَىً لَحْمِيَّة	fleshy mole
+رَحَىً مُتَكَلِّسَة	stone mole
+رَحَىً مَزيدَة	supernumerary molar (paramolar)
+رَحَىً مَشْطورَة	bicuspidized molar
+رَحَىً مُنْحَشِرَة	impacted molar
+رَحَىً نَقائِلِيَّة	metastasizing mole
+رَحيق	nectar
+رَحيقِيُّ المَذاق	nectareous
+رَخاوَة	flaccidity / laxity
+رخاوة العضل الخِلقية	amyotonia congenita (Oppenheim's disease)
+رَخَد	rickets
+رَخَدٌ آجِل	late rickets / tardy rickets (late rickets)
+رَخَدٌ آجِل ( تَلَيُّنُ العِظام)	rachitis tarda (osteomalacia)
+رَخَدُ البالِغين ( تَلَيُّنُ العِظام)	adult rickets (osteomalacia)
+رَخَدُ التَّسَمُّمِ بالبِريليوم	beryllium rickets
+رَخَدُ السِّمْنَة	fat rickets
+رَخَدُ العَوَزِ الكاذِب	pseudodeficiency rickets
+رَخَدٌ بَثَعِيّ	scurvy rickets
+رَخَدٌ بَنْكِرْياسِيّ	pancreatic rickets
+رَخَدٌ جَنينِيّ ( وَدانَة)	fetal rickets (achondroplasia)
+رَخَدٌ جَنينِيٌّ حَلَقِيٌّ	rachitis fetalis annularis
+رَخَدٌ جَنينِيٌّ مُقْصِّرٌ للعِظام	rachitis fetalis micromelica
+رَخَدٌ حادّ ( رَخَدٌ طِفْلِيّ)	acute rickets (infant rickets)
+رَخَدٌ حَرُوْنٌ (رَخَدٌ مُقَّاوِمٌ للفيتامين D)	refractory rickets (vitamin D -resistant rickets)
+رَخَدٌ حَرُوْنٌ عَلى الفيتامينِ D ( رَخَدٌ مُقَاوِمٌ للفيتامين D)	vitamin D-refractory rickets (vitamin D-resistant rickets)
+رَخَدٌ داخِلَ الرَّحِم ( وَدانَة)	rachitis intrauterina (achondroplasia)
+رَخَدٌ زُلاَقِيّ	celiac rickets
+رَخَدٌ غليسُّونِيّ	glissonian rickets
+رَخَدٌ كاذِب (حَثَلٌ عَظْمِيٌّ كُلْوِيّ)	pseudorickets (renal osteodystrophy)
+رَخَدٌ كَبِدِيّ	hepatic rickets
+رَخَدٌ كُلْوِيّ	renal rickets
+رَخَدٌ مُعْتَمِدٌ على الفِيتامينِ D	vitamin D -dependent rickets
+رَخَدٌ مُقاوِم	resistant rickets
+رَخَدٌ مُقاوِمٌ للفِيتْامينِ D	vitamin D -resistant rickets
+رَخَدٌ نَزْفِيّ ( رَخَدٌ طِفْلِيّ)	hemorrhagic rickets (infantile rickets)
+رَخَدٌ هُزالِيّ	lean rickets
+رخَد، كُساح	rachitism
+رَخَدِيّ	rachitic / rickety
+رَخديّ، كسيح	rachitic
+رُخْصَة التَّسْوِيق	marketing authorization
+رَخْف	fluffy
+رَخْو	flaccid
+رَخْوِيّ [حيوان]	mollusc (mollusk) / mollusk
+رخويات الماء العذب، سبيخة	plaudin
+رَدٌّ آجِل	delayed reduction
+رَدُّ الانْغِلاَف	disinvagination
+رَدُّ السُّرَر	omphalotaxis
+ردّ الفعل، تفاعُل، انعكاس لا إراديّ	reaction
+رَدُّ فِعْل، تفاعُل	reaction
+رَدٌّ فَورِيّ	immediate reduction
+رَدٌّ كُتْلِيّ	reduction en bloc / reduction en masse
+رَدٌّ مُغْلَق	closed reduction
+رَدٌّ مَفْتوح	open reduction
+رَدٌّ مَفْتوح [كُسور]	open reduction
+ردْبٌ	culde - sac / recess / recessus; recesses
+ردب "مكل"	diverticulum, Meckel's
+رَّدْبُ (ال...) الإِثْناعَشَرِيُّ السُّفْلِيّ	inferior duodenal recess
+رَّدْبُ (ال...) الإِثْناعَشَرِيُّ الصَّائِمِيّ	duodenojejunal recess
+رَّدْبُ (ال...) الإِثْناعَشَرِيُّ العُلْوِيّ	superior duodenal recess
+رَّدْبُ (ال...) الأَمامِيُّ للغِشاءِ الطَّبْلِيّ	anterior recess of tympanic membrane
+رَّدْبُ (ال...) الثَّرْبِيُّ العُلْوِيّ	superior omental recess
+رَّدْبُ (ال...) الحُقِّيّ	acetabular recess
+رَّدْبُ (ال...) السَّمْعِيّ	auditory recess
+رَّدْبُ (ال...) الضِّلْعِيُّ الحِجابِيُّ للجَنْبَة	costodiaphragmatic recess of pleura
+رَّدْبُ (ال...) القاطِعِيّ	incisive recess
+رَّدْبُ (ال...) القَوقَعِيُّ للدِّهْليز	cochlear recess of vestibule
+رَّدْبُ (ال...) الكَبِدِيُّ الكُلْوِيّ	hepatorenal recess
+رَّدْبُ (ال...) الكَبِدِيُّ المِعَوِيّ	hepatoenteric recess
+رَّدْبُ (ال...) الَّلفائِفِيُّ الأَعْوَرِيُّ السُّفْلِيّ	inferior ileocecal recess
+رَّدْبُ (ال...) الَّلفائِفِيُّ الأَعْوَرِيُّ العُلْوِيّ	superior ileocecal recess
+رَّدْبُ (ال...) المَخْرُوْطِيّ، الرَّدْبُ الصَّنَوبَرِيّ	conarial recess
+رَّدْبُ (ال...) المُخَيخِيُّ الجِسْرِيّ	cerebellopontile recess
+رَّدْبُ (ال...) الوَتَدِيُّ الغِرْبالِيُّ العَظْمِيّ	bony sphenoethmoidal recess
+رَدْب (ال...) خَلْف الأعَور	retrocaecal recess
+رَّدْبُ (ال...) فَوقَ الصَّنَوبَرِيَّة	suprapineal recess
+رَّدْبُ (ال...) فَوقَ الطَّبْلِ	epitympanic recess
+رَّدْبُ (ال...) فَوقَ الطَّبْلِيّ	epitympanum; attic
+ردب (رتج)	diverticulum
+رَدْب [ج:رُدوب]	recessus NA [pl.recessus NA]
+رَدْب [ج:رُدوب] (بنية تشريحية بشكل جوف)	recess
+رَدْبُ الجَوفِ الثَّرْبِيِّ الصَّغِيْر	recess of lesser omental cavity
+رَدْبُ الحُفْرَةِ الأَمامِيَّةِ بَينَ السُّوَيقَتَيْن (لتأريني)	recessus anterior fossae interpeduncularis (Tarini)
+رَدْبُ الحُفْرَةِ الخَلْفِيَّةِ بَينَ السُّوَيقَتَيْنِ (لتارينيى)	recessus posterior fossae interpeduncularis (Tarini)
+رَدْبُ الدِّهْليز	recess of vestibule
+رَدْبُ العُلِّيَّة	attic recess
+رَدْبُ العُلِّيَّة (في الأذن الوسطى)	attic recess
+رَدْبُ القِمْعِ	infundibular recess / recess of infundibulum / recessus infundibuli NA
+رَدْبُ المَسَمِّ العَصَبِيّ	neuropore recess
+ردب بلعومي مريئي	diverticulum, pharyngoesophageal = Zenker's divert
+رَدْبُ تارينِي (رَدْبُ الحُفْرَةِ الأَمامِيَّةِ بَينَ السُّوَيقَتَيْن)	Tarini's recess (recessus anterior fossae interpeduncularis)
+ردب حنجري	diverticulum, laryngeal
+ردب دفعي	diverticulum, pulsion
+رَدْبُ رايخيرت (الرَّدْبُ القَوقَعِيُّ الدِّهْليزِي)	Reichert's recess (recessus cochlearis vestibuli)
+ردب رغامي	diverticulum, tracheal
+رَدْبُ روزينمولر (الرَّدْبُ البُلْعومِيّ)	recess of Rosenmu‏ller (recessus pharyngeus)
+ردب سحبي	diverticulum, traction
+ردب قولوني	diverticulum, colonic
+ردب كاذب	diverticulum, false
+رَدْبُ مَساريقِ القولونِ الحَوضِيّ ( الرَّدْبُ داخلَ السِّينيّ)	recess of pelvic mesocolon (intersigmoidal recess)
+ردب معوي	diverticulum, intestinal
+رَدْبُ مَفْصِلِ المِرْفَقِ الكيسِيُّ	recessus sacciformis articulationis cubiti / sacciform recess of articulation of elbow
+ردب مكتسب	diverticulum, acquired
+رَدْبُ هيرتل (? الرَّدْبُ فَوقَ الطَّبْلِ)	Hyrtl's recess (epitympanic recess)
+رَدْبَة	cul-de-sac
+رَّدْبَةُ (ال...)	cul-de-sac
+رَدْبَةُ الجافِيَة	dural cul-de-sac
+رَدْبَةُ المُلْتَحِمَة	conjunctival cul-de-sac
+رَدْبَةُ دوغلاس ( اللَّجَفُ المُسْتَقيمِيُّ الرَّحِمِيُّ)	Douglas cul-de-sac (excavatio rectouterina)
+ردبي (رتجي)	diverticular
+رُدْبِيكْيَة (جِنْسٌ مِنَ الأَعِشاب)	Rudbeckia
+ردف	clunis
+رِدْف، كَفَل	croup
+ردفي	cluneal
+رَّدوبُ (ال...) تَحْتَ الحِجابِ	subphrenic recess
+رَّدوبُ (ال...)تَحْتَ الكَبِدِ	subhepatic recess
+ردوب (رتوج)	diverticula = diverticuli
+رُدوبُ الجَنْبَة	pleural recesses
+رُدوبُ الصِّفاق	peritoneal recesses
+رُدوبُ ترُولْتش (رُدوبُ الغِشاءِ الطَّبْلِيّ)	recesses of Troltsch (tympanic membrane recesses)
+رَديم	rudiment / rudiment; rudimentary / rudimentum NA
+رَديمُ الجِسْمِ المُخَطَّط	corpus striatum rudiment
+رَديمُ الحُصَين	hippocampal rudiment
+رَديمُ الشَّعْرَة	hair rudiment
+رَديمُ العَدَسَة	lens rudiment
+رَديمُ الكَبِد	hepatic rudiment
+رَديمُ النَّاتِىءِ الغِمْدِيّ (في الحبل المنوي)	rudiment of vaginal process / rudimentum processus vaginalis
+رَديمٌ داخِلَ المَشيماء	intrachorionic rudiment
+رَديمٌ سَلَوِيٌّ جَنينِيّ	amnioembryonic rudiment
+رَديمِيّ	rudimentary
+رَذُّ إبْريّ	needle spray
+رَذُّ الأثير	ether spray
+رَذُّ التيروثريسين	tyrothricin spray
+رَذَاذ	aerosol / droplet
+رَذَاذ الرَّغْوَة	foam spray
+رَذاذٌ بَرْدِيّ	cryospray
+رَذَّاذة	nebulizer
+رُذَيْذَة، ضُبيبة	aerosol
+رُزّ	rice
+رُّزٌّ أَبْيَض	white rice
+رَزَّانِيّ؛شِبْهُ الرَّزِّيّ	ginglymoid
+رزح	succumb
+رُزْمِيَّات	sarcinae
+رُزْمِيَّة	sarcina
+رَزَّة	hinge
+رَزَّة؛مَفْصِلٌ رَزِّيّ (مفصل يتحرك بشكل حركة الباب)	ginglymus NA (hinge joint)
+رَزِّيّ	ginglymal
+رَزِّيُّ الشَّكْل	ginglyform (ginglymoid) / riziform
+رَزِّيٌّ مُسَطَّح (مَفْصِل)	ginglymoarthrodial
+رِزِينُوتانُول (راتين كحولي)	resinotannol
+رُساباتٌ كِيراتينِيَّة	keratic precipitates
+رُسابَة	magistery (precipitate)
+رُسابَةٌ بَرْدِيَّة	cryoprecipitate
+رُسابَةٌ بَيضاء ( زِئْبَقٌ أَمُونِياكيّ)	white precipitate (ammoniated mercury)
+رُسابَةٌ حُلْوَة ( كالوميل)	sweet precipitate (calomel)
+رِسَالَة	message
+رِسالَةُ الخَطَأ	error message
+رِسَالَة تَحْذِير	warning letter(from FDA)
+رسام أصوات القلب	electrostethograph
+رسام التموج	kymograph
+رسّام زمني	chronograph
+رسام كهرباء القلب	electrocardiograph
+رسامة الأربطة	desmography
+رسامة الأمعاء	enterography
+رسامة التموج	kymography
+رسامة الجنين - وصف الجنين	embryography
+رسامة الحركة إشعاعيا	electrokymography
+رسامة الدماغ	encephalography
+رسامة القلب الحركية	kinetocardiography
+رسَامة الكَبِد	hepatography
+رسامة المثانة (رسم المثانة)	cystometrography
+رسامة المريء	esophagography
+رسامة داخلية لكهرباء القلب	electorcardiography, intracardiac
+رسامة شريانية دماغية	encephaloarteriography
+رسامة صوتية للقلب	electorcardiophonography
+رسامة عصبية عضلية كهربائية	electroneuromyography
+رسامة عصبية كهربائية	electroneurography
+رسامة عمل القلب	ergocardiography
+رسامة فوق الجافية	epidurography
+رسامة قطبية لكهرباء القلب	electorcardiography, precordial
+رسامة قنوات اللبن	galactography
+رسامة كهرباء الرحم	electrohysterography
+رسامة كهرباء العضل	electromyography
+رسامة كهرباء القلب	electrocardiography
+رسامة كهرباء المعدة	electrogastrography
+رسامة كهرباء المقلة	electro - oculography
+رسامة كهربائية	electrography
+رِسامة لونية (كروماتوغرافيا)	chromatography
+رسغ	carpus / tarsus
+رُسُغ [ج:أَرْساغ]	carpus
+رُسْغ الفرس	pastern
+رُسْغ القدم	tarsus
+رسغ اليد	carpus
+رسغ، معصم	wrist
+رُسُغِيّ	carpal
+رُسُغي (سابقة)	carpo
+رُسُغِيٌّ رُسُغِيّ	carpocarpal
+رُسُغِيٌّ سُلاَمِيّ	carpophalangeal
+رُسُغِيٌّ سِنْعِيّ	carpometacarpal
+رُسُغِيٌّ قَدَمِيّ	carpopedal
+رسغي مرفقي	cubitocarpal
+رسغي مشطي	carpometacarpal
+رسم إشعاعي	curie - gram
+رسم الاستشراد الكهربائي	electropherogram = electrophoretogram / electrophoretogram = electropherogram
+رسم الأمعاء	enterogram
+رسم الحالبين والمثانة	cystoureterogram
+رَسْمُ الحَرْف (في الجراحة التصنيعية)	ridging
+رَسْمُ الخِدْمَةِ اليَومِيَّة	daily service charge
+رسم الدماغ (صورة الدماغ)	encephalogram
+رسم الردب (الرتج)	diverticulogram
+رَسْمُ العُتْمَةِ الوِعائِيَّة	angioscotometry
+رَسْمُ الغرفة	room rate
+رسم الغضروف	chondrography
+رسم القلب	cardiography
+رسم القلب الحركي (رسم حركة القلب)	kinetocardiogram
+رسم الكَبِد	hepatogram
+رسم المثانة	cystometrogram
+رسم النبض العضدي	brachiogram
+رَسْمٌ بالوَكالَة	interim rate
+رسم بولي صبغي	chromourinography
+رسم بياني	graph
+رسم تلويني	chromatogram
+رسم حوضي مثاني	cystopyelography
+رَسْمٌ ريفِيّ	rural rate
+رسم سني	dentography = odonto-graphy
+رَسْمٌ شامِل	inclusive rate
+رسم صدى الدماغ	echoencephalogram
+رسم صدى القلب (مخطط الصدى)	echocardiogram
+رسم عفجي	duodenogram
+رسم كهرباء الشبكية	electroretinogram
+رسم كهرباء الشم	electro - olfactograph
+رسم كهرباء القلب	ECG = EKG = electrocardiogram / EKG = electrocardiogram / electrocardiogram
+رسم كهرباء المعدة	electrogastrogram
+رسم كهرباء المقلة	electro - oculogram
+رسم كهربائي	electrogram = electrograph
+رسم كهربائي شوكي	electrospinogram
+رَسْمٌ مُدْمَج	blending rate
+رَسْمٌ مُوَقَّت (للمرضى)	interim rate
+رَسْمِيّ	official
+رَسَن [ج:أَرْسان]	gubernaculum [pl.gubernacula]
+رَسَنُ الخُصْيَة	gubernaculum testis NA / gubernaculum, testis
+رَسَنُ السِّنّ	gubernaculum dentis
+رَسَنُ هَنْتَر ( رَسَنُ الخُصْيَة)	Hunter's gubernaculum (gubernaculum testis)
+رَسَنِيّ	gubernacular
+رَسُوْب؛قَابِلٌ للتَّرَسُّب	precipitable
+رَسوبِيَّةٌ بالبَرْدِ	cryoprecipitability
+رُشَاحَة	filtrate
+رُشاحَة [ج:رُشاحات]	filtrate
+رُشاحَةُ التوبركولين	tuberculin filtrate
+رُشاحَةُ الفُطْرِياتِ البَشْرَوِيَّة (للاختبارات الجلدية)	epidermophytin
+رُشاحَةٌ كُبَيْبِيَّة	glomerular filtrate
+رُشاحَةٌ مُسْتَدِقَّة	ultrafiltrate
+رشّاشة، مِرذاذ	spray
+رَشَّاشِيَّة (فرد من الرشاشيات)	aspergillus
+رَشْح	exsorption / rheum (rheuma) / rheuma / transudation
+رَشْحٌ وَبائِيّ	epidemic rheum
+رَشْح، ترشُّح	transudation
+رشْحة	transudate
+رَشْحَة [ج:رَشْحات]	transudate
+رَشْحِيّ	rheumic
+رُشْد (ال...) ، النُضْج	maturity
+رَشْف	aspiration
+رَشْفُ العَدَسَة (لعلاج الساد)	phacoerysis
+رَشْف، شَفْط	aspiration
+رَشْقَة	volley
+رَشْقَةٌ مُعاكِسَةٌ للمَسيرَة	antidromic volley
+رَشْن (المخصَّص الغذائيُّ خلال فترة محددة؛وفي اللسان الرَّشْنُ:الفرضة من الماء)	ration
+رَشْنٌ أَساسِيّ	basal ration
+رَشوح	filterable / filtrable
+رَشُوش (مسحوق للرش على الجسم)	epipastic
+رَشْوَة ؛ رِشْوَة	bribery
+رَشيحَةُ ابْيِضاضِ الدَّم	leukemic infiltrate
+رَشيحَةُ آسمان السُّلِّيَّة (الآفة السُّلِّيَّة الأولية في الرئة)	Assmann's infiltrate
+رَشيق	gracile
+رَشيق، دقيق	gracile; tuberculus
+رَصُّ المعطيات	data compaction
+رَصُّ المُلْغَم	amalgam compaction
+رَصٌّ شَفَوِيّ	labial compaction
+رَصٌّ فَوقَ-صَوْتِيّ	ultrasonic condensation
+رَصٌّ ميكانيكي	mechanical condensation
+رَصٌّ يَدَوِيّ	hand condensation
+رَصَاص	lead
+رَصَاصِيّ	plumbic / saturnine
+رَصَص (الأَسْنان)	crowding
+رَصْعَة	dell (dimple)
+رَصْعَة (انخفاضٌ ضئيل)	dimple
+رَصْعَةٌ شَرجِيَّة	anal dimple
+رَصْعَةُ فوكس (َْبَعْجاتُ القَرْنِيَّة)	Fuchs' dimples (dellen)
+رصُغيّ	tarsal
+رُصُغِيٌّ رُصُغِيّ	tarsotarsal
+رُصُغِيٌّ سُلاَمِيّ	tarsophalangeal
+رُصُغِيٌّ ظُنْبُوبِيّ	tarsotibial
+رُصُغِيٌّ مِشْطِيّ	tarsometatarsal
+رَصْف الخلايا	cytotaxis
+رَصوص	agglutinable
+رَصُوصِيَّة	agglutinability
+رَصُوصِيَّةٌ شامِلَة (قَابِلِيَّةُ التَّرَاصِ الشَّامِل)	panagglutinability
+رَصيف	pavement
+رَضّ (أذية بدون جرح)	contusion
+رَضُّ الدِّماغ	brain contusion
+رَضُّ النُّخاع	contusion of spinal cord
+رَضُّ رَجْعِ الضَّرْبَة	contrecoup contusion
+رَضٌّ عَصَبِيّ	neurotrosis
+رض، كدم	contusion
+رَضٌّ، كَدْمَة	contusion; bruise
+رَضاع	thelasis / thelasmus
+رَِضَاعَة	suckling
+رَضْح	traumatosis (traumatism)
+رَضْح [ج:رُضوح]	trauma [pl.traumata] / traumatism
+رَضْحٌ إِطْباقِيّ	occlusal trauma / occlusal traumatism
+رَضْحُ الأُذُنِ الضَّغْطِيّ ( الْتِهابُ الأُذُنِ الوُسْطَى الضَّغْطِيّ)	otitic barotrauma (barotitis media)
+رَضْحُ الجُيوبِ الضَّغْطِيّ ( الْتِهابُ الجُيوبِ الضَّغْطِيّ)	sinus barotrauma (barosinusitis)
+رَضْحُ الشَّفَة	lip trauma
+رَضْحُ الوِلاَدَة	birth trauma
+رَضْحٌ بالفَتْرَةِ المُحِيْطَةِ بالوِلادَةِ	perinatal trauma
+رَضْحٌ حَرارِيّ	thermic trauma
+رَضْحٌ حَنْجَرِيّ	laryngeal trauma
+رَضْح دَوَاعِمِ السِّنّ	periodontal traumatism
+رَضْحٌ سَمْعِيٌّ	acoustic trauma / auditory trauma
+رَضْحٌ ضَغْطِيّ	barotrauma
+رَضْحٌ عَصَبِيٌّ	neurotrauma
+رَضْحٌ كامِن	potential trauma
+رَضْحٌ مِجْهَرِيّ	microtrauma
+رَضْحٌ نَفْسِيّ	psychic trauma
+رَضْح، رَضٌّ	traumatism
+رَضْحِيّ	traumatic
+رضفة	patella
+رَّضَفَة (ال...)	rotula
+رَضَفَةُ المِرْفَق	patella cubiti
+رَضَفَةٌ عائِمَة	floating patella
+رَضَفَةٌ مُجَزَّأَة	patella partita
+رَضَفَةٌ مَشْطورَة	patella bipartita
+رَضَفَةٌ مُنْزَلِقَة	slipping patella
+رَضَفِيّ	patellar / rotular
+رَضَفِيُّ الشَّكْل	patelliform
+رَضَفِيٌّ فَخِذِيّ	patellofemoral
+رضَّةُ الوَرِك	hip pointer
+رُضوح [ف:رَضْح]	traumata [sing.trauma]
+رَضُوفِيّ	reduviid
+رضيع	infant
+رَضيعٌ غَيرُ ناضِج	immature infant
+رَضيعٌ مُتَرَهِّل	floppy infant
+رَضيعٌ ناضِج	mature infant (term infant)
+رَضيعٌ وَليد	newborn infant (neonate)
+رطانة	jargon
+رَطانِيَة (جِنْسٌ مِنَ الأَعْشاب)	rhatany
+رَطْب	humid
+رِطْلٌ-قَدَم (وَحْدَةُ العَمَل)	foot-pound
+رَطْمَة	plop
+رَطْمَةُ الوَرَم	tumor plop
+رُطوبَة	humidity / moisture
+رُطوبَةٌ مُطْلَقَة	absolute humidity
+رُطوبَةٌ نِسْبِيَّة	relative humidity
+رُطوبَةٌ نَوعِيَّة	specific humidity
+رُعاش	tremens
+رُعاش [ج:رعاشات]	tremor
+رُعاشٌ اخْتِلاَجِيّ	convulsive tremor
+رُعاشٌ إِرادِيّ	volitional tremor
+رُعاشٌ أرسنيكيّ	arsenic tremor
+رُعاشُ الجُهْدِ	effort tremor
+رُعاشُ الحَرَكَة	action, tremor / kinetic tremor
+رُعاشُ الرَّاحَة	rest tremor
+رُعاشُ السُّكون ( رُعاشُ الرَّاحَة)	static tremor (rest tremor)
+رُعاشُ الشَّيخوخَة	senile tremor
+رُعاشُ الظَّلاَم	darkness tremor
+رُعاشُ العَضَلَةِ المُتَحَرِّكَة	motofacient tremor
+رُعاشُ الفِعْل (رُعاشُ الحَرَكَة)	action tremor (kinetic tremor)
+رعاش القزحية	iridodonesis / iridonesis = iridodonesis = iridodonesis, tremulou / iris, tremulous = iridonesis = iridodonesis
+رُعاشُ اللِّسان	tremor linguae
+رُعاشُ اللِّسان التَّرَدُّدِيّ	trombone tremor of tongue
+رُعاشُ الماشِيَة (في الأغنام)	trembles
+رُعاشُ الوَضْعَة	attitudinal tremor / postural tremor
+رُعاشٌ إِنْغاضِيّ	titubating tremor
+رُعاشٌ بارْكِنْسونيّ	parkinsonian tremor
+رُعاشٌ خافِق	flapping tremor
+رُعاشُ دَحْرَجَةِ الحَبَّة	pill-rolling tremor
+رُعاشٌ رَقيق	fine tremor
+رُعاشٌ زِئْبَقِيّ	tremor mercurialis
+رُعاشٌ سُمِّيّ	toxic tremor
+رُعاشٌ شِبْهُ صَرْعِيّ	epileptoid tremor
+رُعاشٌ شِقِّيّ	hemitremor
+رُعاشٌ عائِلِيّ	familial tremor
+رُعاشٌ عائِلِيٌّ مَجْهولُ السَّبَب	hereditary essential tremor
+رُعاشٌ غَليظ	coarse tremor
+رُعاشٌ فِلِزِّيّ	metallic tremor
+رُعاشٌ فيزيولوجيّ	physiologic tremor
+رُعاشٌ قَسْرِيّ	forced tremor
+رُعاشٌ قَصْدِيّ ( رُعاشُ الحَرَكَة)	intention tremor (kinetic tremor)
+رُعاشٌ لافاعِل ( رُعاشُ الرَّاحَة)	passive tremor (rest tremor)
+رُعاشُ لَفِّ الأَقْراص	pill-rolling tremor
+رُعاشُ لَفِّ السِّيجارَة	cigarette rolling tremor
+رُعاشٌ لُيَيفِيّ	fibrillary tremor
+رُعاشٌ مُتَقَطِّع	intermittent tremor
+رُعاشٌ مُتَناوِب	alternating tremor
+رُعاشٌ مَجْهولُ السَّبَب	essential tremor
+رُعاشٌ مَخَطَّطِيٌّ مُخَيخِيّ	striocerebellar tremor
+رُعاشٌ مُدْمِنِي الأَفْيُون	tremor opiophagorum
+رُعاشُ مُدْمِني الخَمْر ( هَذَيانٌ اِرْتِعاشِيّ)	tremor potatorum (delirium tremens)
+رُعاشٌ مُسْتَدِيْم	persistent tremor
+رُعاشٌ مُسْتَمِر	continuous tremor
+رُعاشٌ هَرهَرِيّ	purring tremor
+رُعاشُ هنت (في أذيات المخيخ)	Hunt 's tremor
+رُعاشُ وَبائِيّ	epidemic tremor
+رُعاشٌ وَتَرِيّ	tremor tendinum
+رُعاشٌ وِراثِيٌّ عائِلِيّ	heredofamilial tremor
+رُعاش، رَجْف، ارتجاف	tremor
+رُعاف	epistaxis / hemorrhage, nasal = epistaxis / nosebleed (epistaxis)
+رُعاف المثانة	cystistaxis / cystostaxis
+رُعام	farcy / glanders / maliasmus (glanders)
+رُعَامُ الخَيل	rotz
+رُعامُ المَواشِي	cattle farcy
+رُعامٌ بُرْعُمِيّ	button farcy
+رُعامٌ كاذِب	pseudoglanders
+رُعامٌ كاذِب ( الْتِهابُ الأَوْعِيَةِ اللِّمْفِيَّةِ السُّوَافِيّ)	pseudofarcy (lymphangitis epizootica)
+رُعامٌ مائِيّ	water farcy
+رُعامٌ نَاجِمٌ عن المُسْتَخْفِيات	cryptococcus farcy
+رُعامِيّ	glanderous
+رِعايَةٌ إِقامِيَّة	residential care
+رِعايَةُ الأُمِّ و الوَليدِ العائِلِيَّةُ التَّرْكيز	family centered maternity newborn care
+رعاية الحوامل	ante-natal care
+رِعايَةُ الشُّيوخ	gerocomia / gerocomy / gerokomy (gerocomy)
+رِعايَةُ الطَّوارِئ	emergency care
+رِعايَةُ العائِلَة	family care
+رِعايَةُ العِيادَةِ الخارِجِيَّة	outpatient care
+رِعايَةُ المُتابَعَة	follow-up care
+رِعايَةُ المَريض	nosotrophy
+رِعايَةُ المَرِيْض الدَّاخِلِيِّ	inpatient care
+رِعايَةُ المَريضِ المُتَرَقِّيَة	progressive patient care
+رِعايَةُ المُسِنِّين	elder care
+رِعايَةٌ أَوَّلِيَّة	primary care
+رِعايَةٌ تالِيَةٌ للوِلاَدَة	postnatal care
+رِعَايَةٌ تَأْهِيْلِيَّةٌ	rehabilitative care
+رِعايَةٌ تَرْبَوِيَّة	foster care
+رِعَايَةٌ تِلْوِيَّة	aftercare
+رِعايَةٌ تَمْريضِيَّة	nursing care
+رِعَايَةٌ تَمْرِيْضِيَّةٌ تَأْهِيْلِيَّة	rehabilitative nursing care
+رِعايَةٌ تَمْريضِيَّةٌ حاذِقَة	skilled nursing care
+رِعايَةٌ ثالِثِيَّة	tertiary care
+رِعايَةٌ جَوَّالَة	ambulatory care
+رِعايَةٌ داعِمَة	supportive care
+رِعايَةٌ سابِقَةٌ للوِلاَدَة	antenatal care
+رِعايَةٌ شامِلَة	comprehensive care
+رِعايَةُ صِحَّةِ المُجْتَمَع	community health care
+رِعايَةٌ صِحِّيَّة	health care
+رِعايَةٌ صِحِّيَّةٌ مَنْزِلِيَّة	home health care
+رِعَايَةٌ قَصيرَةُ الأَمَد	respite care (short term care)
+رِعايَةٌ مُتَوَسِّطَة	intermediate care
+رِعايَةٌ مَديدَة	extended care (long term care) / long term care
+رِعايَةٌ مُرَكَّزَة	intensive care
+رِعايَةٌ مُسْتَمِرَّة	continuous care
+رِعَايَةُ مِنْزِلِ الرَّاحَة	rest home care
+رِعايَةٌ مَنْزِلِيَّة	home care
+رِعَايَةٌ نَهَارِيَّة	day care
+رِعَايَةٌ وَجِيزَة	acute care
+رِعَايَةٌ وخِدْمَةٌ صَيْدَلانِيَّة	pharmaceutical care end service
+رِعايَةٌ وِصائِيَّة [طب نفسي]	custodial care
+رُعْب	dread / fright / pavor (terror) / terror
+رُعْبٌ لَيلِيّ	night terrors / pavor nocturnus
+رُعْبٌ نَهارِيّ	day terror / pavor diurnus
+رِعْدَة	shakes
+رِعْدَةُ التيفلون (حُمَّى دُخان البلمر)	Teflon shakes (polymer fume fever)
+رِعْدَةُ الهِلْيوم (عند السائقين)	helium shakes
+رِعْدَةُ عُمَّالِ الزِّنْك	spelter shakes
+رِعْدَةُ عُمَّالِ القُبْعات (التسمم بالزئبق)	hatter's shakes
+رِعْدَةٌ كواسْكِيَّة (عند الأطفال المصابين بسوء التغذية)	kwaski shakes
+رعْشة، ارتجاف، رَعْدة	thrill
+رَعَفٌ مَعِدِيّ ( الْتِهابُ المَعِدَةِ النَّزْفِيّ)	gastrostaxis (hemorrhagic gastritis)
+رعن، ضربة شمس	insolation
+رَعِيل	panel
+رُغابُ الأَلَم ( مازُوخِيَّة)	algophilia (masochism) / algophily (masochism)
+رُغَابُ الكُحُوْل	alcoholophilia
+رُغابُ المَرَض	nosophilia
+رُغابُ الهِرَرَة	ailurophilia
+رَغابَة [مناعيات]	avidity
+رغاموي داخلي	endotracheal
+رُغامِيّ	trachea / tracheal / trachealis; tracheal
+رُغَامَى (ال...)	trachea
+رُّغامَى (ال...) الرَّقَبِيَّة	cervical trachea
+رُغامي (سابقة)	tracheo
+رُغامِيُّ المَنْشَأ	tracheogenic
+رُغامِيٌّ بُلْعومِيّ	tracheopharyngeal
+رُغامِيٌّ تَرْقُويّ	tracheloclavicular
+رُغامِيٌّ حَنْجَرِيّ	tracheolaryngeal
+رُغامَى شَبيْهَةٌ بغِمْدِ السَّيْف	scabbard trachea
+رُغامِيٌّ قَصَبِيّ	tracheobronchial
+رُغامِيٌّ مَريئِيّ	tracheoesophageal
+رَغْبَة	wish
+رَغْبَةُ التَّبَوُّلِ المُلِحَّة	precipitant urination
+رغبة، شهوة	appetence
+رغبة، وحمة	will
+رَغْوَة	foam / lather
+رَغْوَة جِلْدِيَّة	cutaneous foam
+رَغْوَةٌ فِبْرينِيَّة	fibrin foam
+رَغَويّ	foam
+رَفّ [ج:رُفوف]	shelf
+رفُّ الأجفان	blink
+رَفُّ المِجْهَر	microscope stage
+رَفٌّ سِنِّيّ	dental shelf
+رَفٌّ شِدْقِيّ	buccal shelf
+رَفٌّ مُسْتَقيمِيّ	rectal shelf
+رَفٌّ ميكانيكيّ (للمجهر)	mechanical stage
+رِفَاء	raphe / rhaphe (raphe)
+رِّفاءُ (ال...) الشَّرْجِيُّ العُصْعُصِيّ	raphe anococcygea
+رِفاء [ج:أَرْفِيَة]	raphe NA [pl.raphae]
+رِفاءُ الأَمْبُولَة (العُرْفُ الأُمْبولِيّ)	raphe of the ampulla (crista ampullaris)
+رِفاءُ الأَمْبُولَة، العُرْفُ الأُمْبولِيّ	raphe of the ampulla
+رِفاءُ البَصَلَة	raphe of medulla oblongata (raphe medullae oblongatae NA)
+رِفاءُ البَطْن (الخَطُّ الأَبْيَض)	abdominal raphe (linea alba)
+رِفاءُ البُلْعوم	raphe of pharynx / raphe pharyngis NA
+رِفاءُ الجِسْر	raphe of pons (raphe pontis NA) / raphe pontis
+رِفاءُ الجِسْمِ الثَّفَنِيّ	raphe corporis callosi
+رِفاءُ الحَنَك	palatine raphe / raphe palati NA
+رِفاءُ الصَّفَن	raphe of scrotum / raphe scrotalis / raphe scroti NA / scrotal raphe
+رِفاءُ العِجان	raphe of perineum / raphe perinei
+رِفاءُ القَضيب	raphe of penis / raphe penis NA
+رِفاءُ اللِّسان	lingual raphe
+رِفاءٌ جَناحِيٌّ فَكِّيّ	pterygomandibular raphe
+رِفاءٌ لِسانِيّ	lingual raphe
+رِفادة	compress
+رِفادَةٌ بشَكْلِ الفَرَاشة	butterfly pad
+رِفادَةٌ بَطْنِيَّة	abdominal pad
+رِفادَةُ ميكوليتش	Miculicz's pad
+رِفَادَة، وِسَادَة	pad
+رَفَّاصُ Z	Z spring
+رَفَّاصٌ إِصْبَعِيّ	finger spring
+رَفَّاصٌ جَفْنِيّ	palpebral spring
+رَفَّاصٌ حَلَزونِيّ	coil spring
+رَفَّاصٌ دَوَّار	rotating spring
+رَفَّاصٌ عُرْوِيّ	loop spring
+رَفَّاصٌ فاصِل	separating spring
+رَفَّاصٌ مِجْذافِيّ	paddle spring
+رَفَّاصٌ مُساعِد	auxiliary spring
+رَفَّاصٌ مُغْلَقٌ	closed spring
+رَفَّاصٌ مَفْتوح	open spring
+رَفَّاصٌ مُقَوِّم	uprighting spring
+رَفَّاصٌ مَلْفُوفٌ	volute spring
+رِفال - عازل تناسلي	condom or male sheath
+رَفرَف	rack
+رَفرَفُ الأَدَوات	instrument rack
+رَفرَفُ الأَنابيب	tube rack
+رَفرَفُ الشَّرائِح	slide rack
+رَفْرَفُ تَجْفيفِ الأَفْلاَمِ الشُّعاعِيَّة	x-ray film drying rack
+رَفرَفُ تَنْظيرُ الشَّبَكِيَّة	retinoscopy rack
+رَفْرَفَة	flutter
+رَفْرَفَةٌ أُذَينِيَّة	atrial flutter / auricular flutter / flutter, atrial
+رَفْرَفَةٌ بُطَينِيَّة	flutter, ventricular / ventricular flutter
+رَفْرَفَةٌ حِجابِيَّة	diaphragmatic flutter / flutter, diaphragmatic
+رفرفة حيزومية	flutter, mediastinal
+رَفْرَفَةٌ خالِصَة	pure flutter
+رَفْرَفَةٌ رَجَفانِيَّة	flutter-fibrillation
+رَفْرَفَةٌ مَشوبَة	impure flutter
+رَفْرَفَةٌ مَنْصِفِيَّة	mediastinal flutter
+رَفْض	refuse / rejection
+رَفْضُ الأَكلِ الأَلَمِيُّ المَنْشَأ	aphagia algera
+رَفْضُ الأكل؛امْتِنَاعُ الطَّعَام	aphagia
+رَفْضُ السِّنّ	tooth rejection
+رَفْضُ الشَّتْلِ الأَوَّلِ	first set rejection
+رَفْضُ الشَّتْلِ الثَّانِي	second set rejection
+رفض الصبغ	chromophobia
+رَفْضُ الطَّعْمِ الخَيْفِيّ	allograft rejection
+رَفْضٌ حادّ	acute rejection
+رَفْضٌ حادٌّ مُفْرِط	hyperacute rejection
+رَفْضٌ خَلَوِيّ ( رَفْضٌ حادّ)	cellular rejection (acute rejection)
+رَفْضٌ خَلَوِيٌّ حادّ	acute cellular rejection
+رَفْضٌ مُزْمِن	chronic rejection
+رَفْضٌ مَناعِيّ	immunologic rejection
+رَفْع	attollens / lifting
+رفع الكبت	derepression
+رَفْعُ نُقْطَةِ الغَلَيان	boiling point elevation
+رَفْوٌ اشْتِمالِيّ	encatarrhaphy / enkatarrhaphy
+رَفْوُ الإِثْناعَشَرِيّ	duodenorrhaphy
+رَفْوُ الإِحْليل	urethrorrhaphy
+رَفْوُ الارْتِفاق	symphyseorrhaphy / symphysiorrhaphy
+رَفْوُ الأَسْهَر	vasorrhaphy
+رَفْوُ الأَعْوَر	caecorrhaphy / cecorrhaphy / typhlorrhaphy
+رَفْوُ الأَمْعاء	enterorrhaphy
+رَفْوُ الأَمْعاءِ الدائِرِيّ	circular enterorrhaphy
+رَفْوُ الأَنْف	rhinorrhaphy
+رَفْوُ البَطْن	celiorrhaphy / laparorrhaphy
+رَفْوُ البَكارَة	hymenorrhaphy
+رَفْوُ البُلْعومِ باللَّهاة	staphylopharyngorrhaphy
+رَفْوُ البُوْق	salpingorrhaphy
+رَفْوُ التَّأْمور	pericardiorrhaphy
+رَفْوُ التَّرْصّ	tarsorrhaphy
+رَفْوُ الثَّرْب	epiplorrhaphy / omentorrhaphy
+رَفْوُ الجَفْن	blepharorrhaphy
+رفو الجفنين	blepharorrhaphy
+رَفْوُ الحالِب	ureterorrhaphy
+رَفْوُ الحَلَقَة (الفَتْقيَّة)	annulorrhaphy
+رَفْوُ الحَنْجَرَة	laryngorrhaphy
+رَفْوُ الحَنَك	palatorrhaphy (palatoplasty) / uraniscorrhaphy / uranorrhaphy
+رَفْوُ الحَنَكِ و اللَّهاة	uranostaphylorrhaphy
+رَفْوُ الرِّباط	syndesmorrhaphy
+رَفْوُ الرُّغامَى	tracheorrhaphy
+رفْوُ السَّحايا	meningeorrhaphy
+رَفْوُ السِّفاق	aponeurorrhaphy
+رَفْوُ السِّمْحاق	periosteorrhaphy
+رَفْوُ الشَّرَجِ و العِجان	rectoperineorrhaphy (proctoperineorrhaphy)
+رَفْوُ الشَّرَجِ و العَجان ( رَأْبُ الشَّرَجِ والعَجان)	proctoperineorrhaphy (proctoperineoplasty)
+رَفْوُ الشِّرْيان	arteriorrhaphy
+رَفوْ الشُعَب	bronchorrhaphy
+رَفْوُ الشَّفَة	cheilorrhaphy
+رَفْوُ الصَّائِم	jejunorrhaphy
+رَفْوُ الصِّماخ	meatorrhaphy
+رَفْوُ الصِّوار	commissurorrhaphy
+رَفْوُ الطِّحال	splenorrhaphy
+رَفْوُ العِجان	perineorrhaphy
+رَفْوُ العُرْقوب	achillorrhaphy
+رَفْوُ العَصَب	neurorrhaphy
+رَفْوُ العَضَل	myorrhaphy
+رَفْوُ العَضَلَةِ القَلْبِيَّة	myocardiorrhaphy
+رَفْوُ العَظْم	osteorrhaphy
+رفو العفج	duodenorrhaphy
+رَفْوُ الفَتْق	hernioplasty = herniorrhaphy / herniorrhaphy / herniorrhaphy = hernioplasty
+رَفْوُ الفَرْج	episiorrhaphy
+رَفْوُ الفَرْجِ و العِجان	episioperineorrhaphy
+رَفْوُ الفَرْجِ و المَهْبِل	episioelytrorrhaphy
+رفو الفرج والعجان	episioperineorrhaphy
+رَفْوُ القَصَبَة	bronchorrhaphy
+رَفْوُ القَلْب	cardiorrhaphy
+رَفْوُ القَولون	colorrhaphy
+رَفْوُ الكَبِد	hepatorrhaphy
+رَفْوُ الكُلْيَة	nephrorrhaphy
+رَفْوُ اللِّسان	glossorrhaphy
+رَفْوُ اللَّفائِفِيّ	ileorrhaphy
+رَفْوُ اللِّفافَة	fasciorrhaphy
+رَفْوُ اللَّهاة	cionorrhaphy / staphylorrhaphy / velosynthesis
+رَفْوُ المَبِيْض	oothecorrhaphy
+رَفْوُ المَثانَة	cystorrhaphy
+رَفْوُ المَثانَةِ بجِدارِ البَطْن	ventrocystorrhaphy
+رَفْوُ المِحْفَظَة	capsulorrhaphy
+رَفْوُ المَرارَة	cholecystorrhaphy
+رَفْوُ المَساريق	mesenteriorrhaphy / mesorrhaphy
+رَفْوُ المُسْتَقيم	proctorrhaphy (rectorrhaphy) / rectorrhaphy (proctorrhaphy)
+رَفْوُ المَعِدَة	gastrorrhaphy
+رَفْوُ المَهْبِل	colporrhaphy
+رَفْوُ المَهْبِلِ و الصِّفاق	colpoepisiorrhaphy
+رَفْوُ المَهْبِلِ و العِجان	colpoperineorrhaphy / vaginoperineorrhaphy
+رَفْوُ النَّاسورِ المَهْبِلِيِّ بعُنُقِ الرَّحِم	trachelosyringorrhaphy
+رَفْوُ الوَتَر	tenorrhaphy
+رَفْوُ الوَريد	phleborrhaphy / venesuture (phleborraphy) / venisuture
+رَفْوُ الوِعاء	angiorrhaphy
+رَفْوُ أُمِّ الدَّم	aneurysmorrhaphy / enoaneurysmorrhaphy
+رَفْوُ أُمِّ الدَّمِ مِنَ الدَّاخِل	endoaneurysmorrhaphy
+رَفْوٌ أماميّ	prorrhaphy
+رَفْوُ عُنُقِ الرَّحِم	hysterotrachelorrhaphy / trachelorrhaphy
+رفو غشاء البكارة	hymenorrhaphy
+رَفْوُ قَناةِ الصَّفْراء	choledochorrhaphy
+رفو قناة الكيس	cysticorrhaphy
+رَفْوُ قَناةِ المَرارَة	cysticorrhaphy
+رَفْوٌ مَرَارِيٌّ مِعَوِيٌّ	cholecystenterorrhaphy
+رَفْوُالرِّئَة	pneumonorrhaphy
+رُفوفٌ حَنَكِيَّة	palatal shelves
+رَفيعُ الدَّرَجَة	high grade
+رفيف احتكاكي	fremitus, friction
+رفيف الجفن	blepharoclonus
+رفيف تاموري	fremitus pericardial
+رفيف جنبي	fremitus, pleural
+رفيف خرخري	fremitus, rhonchal
+رفيف ذاتي	fremitus, subjective
+رفيف سعالي	fremitus, tussive
+رفيف شعبي	fremitus, bronchial
+رفيف صدري	fremitus, pectoral = vocal fermitus
+رفيف صوتي	fremitus, vocal
+رفيف ملموس	fremitus, tactile
+رَقائِقُ الذَّهَب	gold foils
+رقائق العظم	bone lamellae
+رِقابَة [طب نفسي]	censorship
+رَقَابَةُ الجُوْدَةِ للمَوَادِّ الصَّيْدَلانِيَّةِ	pharmaceutical quality control
+رِقَابَةٌ دَوَائِيَّة	drug control
+رُقاد (نوم عميق)	sopor
+رُقاقاتُ الذَّهَبِ الصَّفائِحِيَّة	laminated gold foils
+رُقاقاتُ العَضَّة	bite wafers
+رِقاقَة	foil / wafer
+رِقاقَةٌ بلاَتينية	platinum foil
+رُقاقَةٌ جافَّة [أسنان]	dry foil
+رِقاقَةٌ ذَهَبِيَّة	gold foil
+رِقاقَةٌ عُنُقِيَّة	cervical foil
+رِقاقَةٌ عُنُقِيَّة [أسنان]	cervical foil
+رِقاقَةٌ قَصْديرِيَّة	tin foil
+رَقَبَة	trachelos (collum)
+رَقَبَة ؛ عُنُق	neck
+رَقَبَةُ الثَّور	bull neck
+رَقَبَةُ الدِّيكِ الرُّومِيّ ( غَبْغَبُ الدِّيكِ الرُّومِيّ)	turkey gobbler neck
+رَقَبَةٌ مُتَيَبِّسَة	stiff neck
+رَقَبَةٌ وَتْراء ( رَقَبَةٌ مُجَنَّحَة)	webbed neck (pterygium colli)
+رقبة، عُنق	neck
+رَقَبِيٌّ إِبْطِيّ	cervicoaxillary
+رَقَبِيٌّ أَخْرَمِيّ	tracheloachromial
+رَقَبِيٌّ أُذُنِيّ	cervicoaural / cervicoauricular
+رَقَبِيُّ الدِّماغ [مسخ]	derencephalus
+رَقَبِيٌّ أَمامِيّ	precervical
+رَقَبِيٌّ حَجاجِيّ	cervico-orbicular
+رَقَبِيٌّ رَأْسِيّ	jugulocephalic
+رَقَبِيٌّ صَدْرِيّ	cervicothoracic
+رَقَبِيٌّ ظَهْرِيّ	cervicodorsal
+رَقَبِيٌّ عَضُدِيّ	cervicobrachial / cervicohumeral
+رَقَبِيٌّ قَذالِيّ	cervico-occipital
+رَقَبِيٌّ كَتِفِيّ	cervicoscapular
+رَقَبِيٌّ هامِيّ	trachelobregmatic
+رَقَبِيٌّ وَجْهِيّ	cervicofacial
+رقَبيّ، عُنقيّ	cervical
+رَقَبِيَّةُ الدِّماغ [مسخ]	derencephaly
+رَقَص	chorea / dance
+رَقَصٌ أُحادِيّ	monochorea
+رَقَصُ الأَطْفالِ الكَهْرَبِيُّ	children electric chorea
+رَقَصُ التَّسَمُّم بالهيُوسِين	hyoscine chorea
+رَقْصُ الرَّضَفَة	kneecap dance
+رَقْصُ الشِّرْيَانِ العَضُدِيّ	brachial dance
+رَقْصُ الصَّوتِ لسِنت فيتوس (تَأْتَأَة)	St. Vitus' dance of the voice (stuttering)
+رَقَصُ المُحاكاة	imitative chorea / mimetic chorea
+رَقْصُ النَّقير (رقص أوعية النقير الرئوي)	hilus dance
+رَقَصٌ انْحِنائِيّ	chorea nutans
+رَقَصٌ بَسيط	simple chorea
+رَقَصُ بيرغيرون ( رَقَصُ الأَطْفالِ الكَهْرَبِيُّ)	Bergeron's chorea (children electric chorea)
+رَقَصٌ تالٍ للفالِج	posthemiplegic chorea
+رَقَصٌ تِلْقائِيّ	automatic chorea
+رَقَصٌ تَنَكُّسِيّ	degenerative chorea
+رَقَصٌ جُنونِيّ	chorea insaniens
+رَقَصٌ حادّ	acute chorea
+رَقَصٌ حِجابِيّ	diaphragmatic chorea
+رَقَصٌ حَمْلِيّ	chorea gravidarum
+رَقَصٌ حَنْجَرِيّ	laryngeal chorea
+رَقَصٌ خُصْوِيّ	orchichorea
+رَقَصٌ دَوَّار	rotary chorea
+رَقَصٌ دوبينِيّ (رَقَصٌ كهربي حاد مميت تلو مرض عصبي مركزي)	Dubini's chorea
+رَقَصٌ روماتزميّ	rheumatic chorea
+رَقَصٌ سابِقٌ للفالِج	prehemiplegic chorea
+رَقْصُ سنت أنتوني	St. Anthony's dance
+رَقْصُ سنت جون	St. John's dance
+رَقْصُ سنت غي	St. Guy's dance
+رَقْصُ سنت فيتوس	St.Vitus dance
+رَقَصُ سيدنهام	Sydenham's chorea
+رَقَصُ سَيدِنْهام (يصيب الأطفال والمراهقين)	Sydenham's chorea
+رَقَصُ سيدينهام	Sydenham's chorea
+رَقَصُ شروتر ( رَقَصٌ حِجابِيّ)	Schrotter's chorea (diaphragmatic chorea)
+رَقَصٌ شَفَوِيٌّ	labichorea (labiochorea) / labiochorea
+رَقَصٌ شِقِّيّ	chorea dimidiata (hemichorea) / hemichorea / hemilateral chorea / one-sided chorea (hemichorea)
+رَقَصٌ شِقِّيٌّ تالٍ للفالِج	posthemiplegic hemichorea
+رَقَصٌ شِقِّيٌّ روماتزميّ	rheumatic hemichorea
+رَقَصٌ شِقِّيٌّ زُهْرِيّ	syphilitic hemichorea
+رَقَصٌ شِقِّيٌّ سابِقٌ للفالِج	preparalytic hemichorea
+رَقَصٌ شِقِّيٌّ شَلَلِيّ	paralytic hemichorea
+رَقَصٌ شَلَلِيّ	paralytic chorea
+رَقَصٌ شَيخوخِيّ	senile chorea
+رَقَصٌ عَدْوائِيّ	infective chorea
+رَقَصٌ قَفْزِيّ	dancing chorea (saltatory chorea) / jumping chorea / saltatory chorea
+رَقَصٌ قَلْبِيّ	chorea cordis
+رَقَصٌ قِيَامِيّ (حَرَكَةٌ صَرْعِيَّةٌ قِيامِيَّة)	orthochorea
+رَقَصٌ كاذِب	pseudochorea
+رَقَصٌ كَهْرَبِيّ	electric chorea / electrolepsy (electric chorea)
+رَقَصٌ لَيلِيّ	chorea nocturna
+رَقَصٌ لُيَيفِيّ ( نَظيرُ الرَّمَعِ العَضَلِي)	fibrillary chorea (paramyoclonus)
+رَقَصٌ مُتَرَقٍّ مُزْمِنٌ غَيْرُ وِراثِيّ	chronic progressive non-hereditary chorea
+رَقَصٌ مُتَرَقٍّ مُزْمِنٌ وِراثِيّ	chronic progressive hereditary chorea
+رَقَصٌ مُزْمِن	chronic chorea
+رَقَصٌ مُسَرَّع ( شَلَلٌ رعّاش)	chorea festinans (paralysis agitans)
+رَقَصٌ مِطْرَقِيّ	malleatory chorea
+رَقَصٌ مُعْتاد ( عُرَّة)	habit chorea (tic)
+رَقَصٌ مَوضِعِيّ	local chorea
+رَقَصٌ نِظامِيّ	methodic chorea
+رَقَصٌ نَظْمِيّ	rhythmic chorea
+رَقْصٌ نَقيرِيّ (رقص أوعية النقير الرئوي)	hilar dance
+رَقَصٌ هِسْتيرِي	hysterical chorea
+رَقَصٌ هَوَسِيّ	maniacal chorea
+رَقَصُ هينوخ ( رَقَضٌ كَهْرَبِيٌّ مُتَرَقٍّ مُزْمِن)	Henoch's chorea (chronic progressive electric chorea)
+رَقَصٌ وَبائَيّ	epidemic chorea
+رَقَصٌ وَخيم	chorea gravis
+رَقَصٌ وِراثِيّ	hereditary chorea
+رَقَصٌ وَنائِيّ ( رَقَصَ شَلَلِيّ)	atonic chorea (paralytic chorea)
+رَقَصٌ وَهَنِيّ	chorea mollis (limp chorea) / limp chorea
+رَقَصٌ يَفَعِيّ	juvenile chorea
+رَقَصِيّ	choreal / choreatic / choreic
+رَقَصِيُّ الشَّكْل	choreiform / choreoid
+رَقَطاتُ التَّبْغ (في الطحال المتضخم)	tobacco flecks
+رَقَطاتٌ تَنَخُّرِيَّة	fleckmilz
+رَقْطَة [ج:رَقَطات]	fleck
+رُقعة	bare patch
+رُقُم [ف:رَقيم]	inscriptiones [sing.inscriptio]
+رَقْمُ الوَجِيْبَة	batch number
+رَقْمُ الوَضْع (عَدَدُ مَرَّاتِ الوِلاَدات)	para
+رَقَمٌ عُشْري	decimal digit
+رَقَمٌ مِينكوفِسكي (في التغذية)	Minkowski's figure
+رِقَّةُ الصَّوت	leptophonia
+رَقْوَصَة	tarantism / tarentism
+رَقِيْقُ الصَّوت	leptophonic
+رقيقة	foil
+رقيقة البلاتين	foil, platinum
+رقيقة الذهب	foil, gold
+رقيقة القصدير	foil, tin
+رَّقيمُ (ال...) الوَتَرِيّ، تَّقاطُعُ (ال..) الوَتَرِيّ	tendinous intersection
+رِكابُ فينوكيتو (مُمَدِّةٌ للساق في تجبير كسور الساق)	Finochietto's stirrup
+ركاب، عظم ركابي	stirrup; stapes
+رِكابِيّ	stapedial
+رِكابِيٌّ دِهْليزِيّ	stapediovestibular
+رُكازَةُ البروتيازِ النَّباتِي	plant protease concentrate
+رُكازَةُ الكَبِد	liver concentrate
+رُكازَةٌ فيتامينِيَّة	vitamin concentrate
+رَكَّاض [حاسوب]	cursor
+رَكَبٌ (جَبَلُ العَانَة)	mons pubis
+رُكَب [ف:رُكْبَة]	genua [sing.genu]
+رُكْبَة	geniculum / genu / genu = knee / knee
+رُكْبَة [ج:رُكَب]	genu NA [pl.genua]
+رُكْبَةُ الجَذْرِ الغَائِر للعَصَبِ الوَجْهِيّ	genu radicis nervi facialis (internum radicis nervi facialis)
+رُكْبَةُ الجِسْمِ الثَّفَنِيّ	genu corporis callosi NA / genu of corpus callosum
+ركبة الجسم الجاسىء	genu of corpus callosum
+رُكْبَةُ الخادِمات	housemaid's knee
+رُكْبَةُ الخَادِمَة	house maid knee
+رُكْبَةُ الرَّغبي	rugby knee
+رُكْبَةُ العَصَبِ الوَجْهِيّ	genu nervi facialis NA / genu of facial nerve
+رُكْبَةُ العَصَبِ الوَجْهِيِّ الظَّاهِرَة (رُكَيبَةُ العَصَبِ الوَجْهِيّ)	external genu of facial nerve (geniculum nervi facialis)
+رُكْبَةُ العَصَبِ الوَجْهِيِّ الغَائِرَة (رُكْبَةُ العَصَبِ الوَجْهِيّ)	internal genu of facial nerve (genu nervi facialis)
+رُكْبَةُ المِحْفَظَةِ البَاطِنَة	genu capsulae internae NA / genu of internal capsule
+ركبة المحفظة الداخلية	genu of internal capsule
+ركبة المِحْفَظَة الداخَلِيّة، رُكْبَةُ المِحْفَظَةِ البَاطِنَة	genu of internal capsule
+رُكْبَةُ المِحْفَظَةِ الغَائِرَة	knee of internal capsule (genu capsulae internae)
+رُكْبَةٌ إنتانِيَّة	septic knee
+رُكْبَةُ برودي (? الالْتِهابُ المُزْمِنُ لِزَلِيْلِ الرُّكْبَة)	Brodie's knee
+رُكْبَةٌ رافِصَة (في الخُيُول)	sprung knee
+رُكْبَةٌ رَوحاء	genu introrsum (genu valgum) / genu valgum / genu valgus / gonyectyposis (genu varum) / in knee (genu valgum) / knee, out = genu varum = bowleg / knock knee (genu valgum) / knock-knee (genu valgum) / tragopodia (genu valgum)
+ركبة صكاء	knee, in
+رُكْبَةٌ طَرْقاء	back knee (genu recurvatum) / back-knee (genu recurvatum) / genu recurvatum
+رُكْبَةٌ فَحْجاء	genu extrorsum (genu varum) / genu varum / gonycrotesis (genu valgum) / out knee (genu varum)
+رُكْبَةٌ فَرْقَعِيَّة	snapping knee
+رُكْبَةٌ قَوساء	genu impressum
+رُكْبَةُ كُرَةِ القَدَم	football knee
+رُكْبَةٌ لَكَّاء	locked knee / trick knee
+ركبة متربسة (مكبوحة)	knee, locked
+ركبة متقيحة	knee, septic
+رُكْبَةُ مَسالِ فالوب (رُكَيبَةُ قَناةِ العَصَبِ الوَجْهِيّ)	knee of aquaeductus fallopii (geniculum canalis facialis)
+رُكْبِيّ	genicular / genual
+رُكْبِيّ (الشَّكْل)	geniculate
+رُكْبِيّ (خاص بالرُّكْبة)	genicular / genicular; geniculate; genual
+رُكْبِيٌّ صَدْرِيّ	genupectoral
+رُكْبِيٌّ صُدْغِيّ	geniculotemporal
+رُكَبِيٌّ مُخَطَّطِيٌّ	geniculostriate
+رُكْبِيٌّ مِرْفَقِيّ	genucubital
+رُكْبِيٌّ مِهْمازِيّ	geniculocalcarine
+رُكْبِيٌّ وَجْهِيّ	genufacial
+رِكْز	bruit
+رَكْض	gallop
+رُكَم ؛ رُكْمات [ف:رُكْمَة]	cumuli
+رُكَم، رُكْمات	cumuli
+رُكْمَة	cumulus
+رُكْمَةٌ مَبيضِيَّة	cumulus oophorous NA / cumulus ovaricus / granulosa (cumulus oophorus) / ovarian cumulus
+رُّكْن (ال...)، زَّاوِيَة (ال...)	gonio-
+رُكود	hypostasis / stasis
+ركود الحمر	erythrostasis
+رُكود الدم	stasis
+رُكودُ الدَّوَران	hypostasis
+ركود الصفراء	cholestasia = cholestasis
+رُكودُ الكُرَيَّاتِ الحُمْر	erythrostasis
+رُكودٌ انْضِغاطِيّ	pressure stasis
+رُكودٌ بَولِيّ	urinary stasis
+رُكودٌ حُلَيمِيّ ( وذمة الحليمة البصرية)	papillary stasis (papilledema)
+رُكودٌ خَلَوِيّ	cytostasis
+رُكودٌ صَفْراوِيّ	cholestasia / cholestasis
+رُكودٌ صَفْراوِيٌّ داخِلَ الكَبِد	intrahepatic cholestasis
+رُكودٌ لَفائِفِيّ	ileal stasis
+رُكُودٌ لِمْفِيّ	lymphostasis
+رُكُودٌ مُحَوِّط	peristasis
+رُكودٌ مُسْتَقيمِيّ	proctostasis
+رُكودٌ مِعَوِيّ	enterostasis / intestinal stasis
+رُكودٌ وَريدِيّ	venostasis / venous stasis
+ركيبات	genicula
+رُكَيبات [ف:رُكَيبَة]	genicula [sing.geniculum]
+رُكَيبَة	geniculum
+رُكَيبَة [ج:رُكَيبات]	geniculum NA [pl.genicula]
+رُكَيبَةُ العَصَبِ الوَجْهِيّ	geniculum nervi facialis NA / geniculum of facial nerve
+رُكَيبَةُ نَفَقِ الوَجْهِيّ	geniculum canalis facialis NA / geniculum of facial canal / genu of facial canal
+رَكِيزَة	substrate
+رَكيزَة [ج:رَكائِز]	substrate
+رُكَيناوات [ف:رُكَينى] (زوايا تشريحية قياسية)	gonia [sing.gonion]
+رَماد	ash / ashes
+رَمادُ العَظْم	bone ash
+رمادي	grey
+رِمالُ الدِّماغ	acervuli / brain sands
+رَمَّام	saprobe / sapronosis / saprophagous / saprophilous / saprophyte
+رَمَّام [ج:رَمَّامات]	saprophyte
+رَمَّامٌ اخْتِيارِيّ	facultative saprophyte
+رَمَّامِيّ	saprophytic
+رُمَّان	Punica granatum / pomegranate
+رَمَد	conjunctivitis
+رَمَدُ المَسافِن	shipyard conjunctivitis
+رمد الوليد الصديدي	blennorrhoea, neonatorum
+رَمَد دَوريّ، عمى القَمَر	periodic ophthalmia
+رمد سيلاني	gonoblennorrhea = gonorrheal conjunctivitis
+رَمَدٌ صَديدِيّ	blepharopyorrhea / purulent conjuctivis
+رَمَدٌ ضَوئِيّ	photo-ophthalmia / photophthalmia
+رَمَدٌ ضَوئِيٌّ شَمْسِيّ	solar photophthalmia
+رَمَدٌ ضَوئِيٌّ صِنَاعِيِّ (? رَمَدٌ ضَوئِيٌّ عِنْدَ عُمَّال اللِّحام)	industrial photo-ophthalmia
+رَمَدٌ ضَوئِيٌّ وَمْضِيِّ ( رَمَدٌ ضَوئِيٌّ عِنْدَ عُمَّالِ اللِّحام)	flash photo-ophthalmia (welders conjunctivitis)
+رمد غشائي كاذب	conjunctivitis, pseudo - membranous
+رَمْز	symbol
+رمز أُحادِيُّ أُكْسيدِ الكَرْبون	CO
+رمز أَساسُ اللُّوغارِتْمِ الطَّبيعِيّ	e
+رمز الإبسيلون (الحَرْفُ الهِجائِيُّ الإِغْريقِيُّ الخامِس)	E
+رَمْز الإتريوم	Y
+رمز الأَدينين	Ade (adenine)
+رمز الأَرْغون (Ar؛جو)	Ar (argon)
+رمز الأُزْميُوم (مز ؛ Os )	Os (Osmium)
+رمز الأَسْباراجين	Asn (asparagine)
+رمز الأستاتين (ستا:At)	At (astatine)
+رمز الأَسْماءُ التَّشْريحِيَّة	NA (Nomina Anatomica)
+رمز الأُسْمول	osm. (osmol)
+رمز الأَقْصَى الأُنْبُوبِيّ (في دراسة وظائف الكلية)	Tm (tubular maximum)
+رمز الأكتينون (An؛ كتن)	An
+رمز الأَكْتينِيُوم (كت؛Ac)	Ac (actinium)
+رَمْز الأكْسِجِين	O
+رمز الأَلانين	Ala (alanine)
+رمز الإِلِكْتُرُون	e- (electron)
+رمز الأَلَمِنْيُوم (Al؛ألو)	Al (aluminium)
+رمز الإلينيوم (مث؛ Il)	Il (illinium (Promethium)
+رمز الأمريسيُوم (Am؛مر)	Am (americium)
+رمز الأَنْتيمُونْ (نت؛Sb)	Sb (stibium)
+رمز الإِنديوم (ند ؛ In)	In (indium)
+رمز الأوزون	O3 (ozone)
+رمز الأُونْصَة	oz. (ounce)
+رمز الإيتا (الحَرْفُ الهِجائِيُّ الإِغْريقِيُّ السَّابِع)	E
+رمز الإِيتريوم (يتر؛Y)	Y (yttrium)
+رمز الإِيتيربيوم (يت؛Yb)	Yb (ytterbium)
+رمز الإيربيوم (بيو (Er؛	Er (erbium)
+رمز الإِيريديوم (يمIr ؛ )	Ir (iridium)
+رمز الإيزولوسين	Ile (isoleucine)
+رمز الآينشتاينوم (ين ؛ Es)	Es (einsteinium)
+رمز الايونيوم (يو؛ Io)	Io (ionium)
+رمز البَارْن (وحدة قياس المساحات الدقيقة وتعادل 10 -28 سنتي متراً مربعا)	b (barn)
+رَمْز الباريوم	Ba
+رمز البارْيوم (باBa؛)	Ba (barium)
+رمز الباكافُ الحَمْضِيَّة	pKa
+رمز البالاديوم (بل ؛Pd)	Pd (palladium)
+رمز البراسيوديميوم (Pr؛بس)	Pr (praseodymium)
+رمز البروتينُ الشَّحْمِيُّ الخَفيضُ الكَثافة	LDL (low- density lipoprotein)
+رمز البروم (برBr؛)	Br (bromine)
+رمز البروميثيوم (Pm؛مث)	Pm (promethium)
+رمز البِرِيلْيُوم (بيرBe؛)	Be (beryllium)
+رمز البِزْموت (بزBi؛)	Bi (bismuth)
+رمز البلاَتين (Pt؛بلا)	Pt (platinum)
+رمز البلُوتِينْيُوم (Pu؛بل)	Pu (plutonium)
+رَمْز البُوتَاسْيُوم	K
+رمز البوتاسْيُوم (بو ؛ K)	K (potassium)
+رمز البور (بB ؛) 2. مختصر الحائِلُ الدَّمَوِيُّ الدِّماغِيّ (BBB)	B (boron)
+رمز البوزيترون	e+ (positron)
+رمز البوصَة	in (inch)
+رمز البولونيوم	Po (polonium)
+رمز البيركليوم (بك؛Bk)	Bk (berkelium)
+رمز التَّانتالوم (تا؛Ta)	Ta (tantalum)
+رمز التَّرْكيزُ الأَيونِيُّ للهِيدْروجين [+H]	[H+] (hydrogen ion concentration)
+رمز التَّشْخِيْص	Dx
+رمز التِّكنيشيوم (تك؛Tc)	Tc (technetium)
+رَمْز التنتَالُوم	Ta
+رَمْز التنغستن	W
+رمز التِّيتانيوم (تي؛Ti)	Ti (titanium)
+رمز التيروكسين	T4
+رمز الثاليوم (ثل؛Tl)	Tl (thallium)
+رمز الثريونين (حمض أميني)	Thr (threonine)
+رمز الثوريوم (ثو؛Th)	Th (thorium)
+رمز الثوليوم	Tm (thulium)
+رَمْز الْـجَذْر العُضْويّ	R
+رمز الجُرْعَةُ القاتِلَة	LD (lethal dose)
+رمز الجُرْعَةُ القاتِلَةُ للْنِّصْف	LD 50
+رمز الجرمانيوم (جر؛ Ge )	Ge (germanium)
+رمز الجول	J (joule)
+رمز الجيلُ الأَبَوِيّ	P1 (parental generation)
+رمز الحَديد (ح Fe ؛ )	Fe (iron)
+رَمْز الدُّوتِرْيُوم	D (deuterium)
+رمز الديسبروسيوم (يسDy؛)	Dy (dysprosium)
+رمز الدِّيكامتر	dam.
+رمز الدِّيكامتر المُكَعَّب	dam3
+رمز الدُّيوتريُوم (D)	D (deutérium)
+رمز الذِّئْبَةُ الحُمَامِيَّة	LE
+رمز الذِّراعُ الطَّويلُ للصِّبْغِيّ	q
+رمز الذِّيفانُ-ضِدُّ الذِّيفان	T.A. (toxin-antitoxin)
+رمز الرَّادون (د؛Rn)	Rn (Radon)
+رَمْز الرَّاديُوم	Ra
+رمز الرَّاديوم (ر؛Ra)	Ra (radium)
+رمز الرَّصاص (ر؛Pb)	Pb (plumbum)
+رمز الرَّنا الرِّيباسِيّ	rRNA (ribosomal RNA)
+رمز الرُّوبيديُوم (بيد؛Rb)	Rb (rubidium)
+رمز الرُّوثينيوم (ثم؛Ru)	Ru (ruthenium)
+رمز الرِّينِيوم (نيم؛Re)	Re (rhenium)
+رمز الزئبق (ي؛ Hg)	Hg (hydrargyrum)
+رمز الزرقونيوم (كن؛Zr)	Zr (Zirconium)
+رمز الزنك (خ؛Zn)	Zn (zinc)
+رمز الزينون (نو؛Xe)	Xe (xenon)
+رمز الساماريوم (سم؛Sm)	Sm (samarium)
+رمز السكانْديُوم (سك؛Sc)	Sc (scandium)
+رمز السِّيرين	Ser (serine)
+رمز السيريوم (سر؛ Ce)	Ce (Cerium)
+رمز السِّيزْيُوم (سز؛ Cs)	Cs (cesium)
+رمز السِّيلِيكُون (س؛Si)	Si (silicon)
+رمز السِّيلينيُوم (سل؛Se)	Se (selenium)
+رَمْز الصِّبْغِيّ الجِنْسِيّ المُؤَنَّث	X
+رمز الصِّبْغِيُّ الحَلَقِيّ	r (ring chromosome)
+رمز الصُّودْيُوم (ص؛Na)	Na (natrium)
+رمز العُمُرُ النِّصْفيّ	t 1/2 (half-life)
+رمز الغادولينيوم (جد؛Gd)	Gd (gadolinium)
+رمز الغاليوم (جا؛Ga )	Ga (gallium)
+رمز الغرام (غ)	gm (gram)
+رمز الغليسين	Gly (glycine)
+رمز الفارنهايت	F 1/4
+رمز الفاناديوم (فا;V)	V (vanadium)
+رمز الفرانسيوم (فر Fr ؛)	Fr (Francium)
+رَمْز الفلور	F
+رَمْز الفَنَاديُوم، مُخْتَصَر الفُولْط، مُخْتَصَر وَرِيد، مُخْتَصَر حَجْم	V
+رمز الفنيل ألانين	Phe (phenylalanine)
+رَمْز الفُوسْفُور	P
+رمز الفيرميوم (فم؛ Fm)	Fm (fermium)
+رمز الفيمتو ( 10 15 )	f (femto-)
+رمز الفيمتو ( 10 15 ) 2. رمز الفاراد	F (fluorine)
+رمز الفينُول سَلفُون فتالئين	PSP (phenolsulphonphthalein)
+رمز القصدير (ق؛Sn)	Sn (stannum)
+رمز القَمْحَة	gr.(grain)
+رمز القنديلة	cd (candela)
+رمز الكاتال	kat (katal)
+رمز الكادميوم (كد؛Cd)	Cd (Cadmium)
+رمز الكالْسُيوم (كا Ca ؛)	Ca (calcium)
+رمز الكاليفورنيوم (كفcf ؛ )	Cf (californium)
+رَمْز الكِبْرِيت	S
+رمز الكرِبْتون (كير ؛ Kr)	Kr (krypton)
+رمز الكروم (كر Cr ؛ )	Cr (chromium)
+رمز الكلور (كل Cl ؛ )	Cl (chlorine)
+رمز الكوارْت	qt (quart)
+رمز الكوبالْت (كو؛Co)	Co
+رمز الكوريوم (كم Cm ؛ )	Cm (curium)
+رمز اللانثانوم (لن؛La)	La (lanthanum)
+رمز اللِّبِرة	lb. (libra)
+رمز اللِّتْر	L (liter) / l (liter)
+رمز اللوتِتْيُوم (لت؛Lu)	Lu (lutetium)
+رمز اللُّورنسيوم (لر؛ Lw)	Lw (lawrencium)
+رمز الُّلوسين	Leu (leucine)
+رمز اللوغارتم	log (logarithm)
+رمز اللِّيثْيوم (لث؛Li)	Li (lithium)
+رمز اللِّيزين	Lys (lysine)
+رمز المَصْعَد [كَهْرَباء]	An.
+رمز المَغْنيزيُوم (مغ؛Mg)	Mg (magnesium)
+رمز المُقايَسَةُ الشُّعاعِيَّةُ المَناعِيَّة	RIA (radioimmune assay)
+رمز المِكْرو فولط	microV (microvolt)
+رمز المَنْدِليفيُوم (مف؛ Md)	Md
+رمز المنْدِليفْيوم (مف؛ Mv)	Mv (mendelevium)
+رمز المَنْغَنيز (م؛Mn)	Mn (manganese)
+رمز المَهْبَط ؛ الكاثود	K. (cathode)
+رمز المولْبِدينوم (مو؛Mo)	Mo (molybdenum)
+رمز المِيثيل	Me (methyl)
+رمز الميثْيونين	Met (methionine)
+رمز المِيلِّي أُسْمول	mOsm (milliosmol)
+رمز المِيلِّي فُولط	mV (millivolt)
+رمز المِيلي لتر	mil (milliliter)
+رمز النَّانُو ( 10 -9 )	n (nano)
+رمز النَّانُو وَحْدَة	nU (nanounit)
+رمز النَّانُوثانِيَة	ns (nanosecond)
+رمز النَّانُوغْرام	ng. (nanogram)
+رمز النَّانولِتر	nl. (nanoliter)
+رمز النَّانومِتر	nm. (nanometer)
+رمز النِّبْتُونْيُوم (نب؛Np)	Np (neptunium)
+رمز النُّحاس (نح؛Cu)	Cu (cuprum)
+رمز النِّظَام المَكَثِيّ (متر-كيلو غرام-ثانية)	MKS
+رمز النُّوبِلْيُوم (نو؛ No)	No (nobelium)
+رمز النيكل (نك؛Ni)	Ni (nickel)
+رمز النيوبيوم (نب؛Nb)	Nb (niobium)
+رمز النيون (ني؛Ne)	Ne (neon)
+رمز الهافنيوم (هف؛ Hf )	Hf (hafnium)
+رمز الهانْيوم (ها؛ Ha)	Ha (hahnium)
+رمز الهولميوم (هو؛ Ho)	Ho (holmium)
+رَمْز الهِيدْرُوجِين	H
+رمز الهيدروجين (يد H ؛ )	H (hydrogen)
+رمز الهيرتز	Hz (hertz)
+رمز الهيليُوم (هـ ؛ He)	He (helium)
+رمز الهيمُوغلُوبين	Hb (hemoglobin)
+رمز الوَصْفَةُ الطِّبِّيَّة	Rx
+رَمْز الْيُود	I
+رمز اليود (ي؛I)	I (iodine)
+رَمْز اليُورَانْيُوم	U
+رمز اليورانيوم (يو؛U)	U (uranium)
+رمز اليوروبيوم (ير؛ Eu)	Eu (europium)
+رمز إيكزا (10 18)	E (exa-)
+رمز أَيونُ الهِدْرُوجين (+H)	H+ (hydrogen ion)
+رمز بيكوبيكوغرام	ppg. (picopicogram)
+رمز بيكولتر	pl (picoliter)
+رمز ثُلاثِيُّ يودو تيرونين	T3
+رمز ثُنائيُّ أُكْسيدِ الكَرْبون	CO2
+رَمْز جُول	J
+رمز حَمْضِ الأَسْبارْتيك	Asp (aspartic acid)
+رمز حَمْض ألفا-أمينولفولينيك	ALA (alpha-Aminolivolinic Acid)
+رمز دَرَجَةِ الحَرارَةِ المِئَوِيَّة	Cْ (Centigrade)
+رَمْز دَرَجَة الحَرَارَة المُطْلَقَة	T
+رمز زُمْرَةُ الهيدْرُوكْسيل	OH
+رمز زَمَنُ الثرُومْبُوبلاَستين الجُزْئِيّ	PTT (partial thromboplastin time)
+رمز سنتي ليتر (سل)	cl (centiliter)
+رمز سنتي متر (سم)	cm (centimeter)
+رمز سنتي متر مُرَبَّع	cm2 (square centimeter)
+رمز سنتي متر مكعب	c. cm / cc.
+رمز سنتي متر مُكَعَّب ( سم 3 )	cm3 (cubic centimeter)
+رمز ضَغْطُ الأُكْسِجينِ الجُزْئِيّ	pO2
+رَمْز عُنصُر الزَّرْنيخ	As
+رَمْز عُنْصُر الصُّودْيُوم	Na
+رَمْز عُنصُر الكَالسْيُوم	Ca
+رَمْز عُنصُر الكَرْبُون	C
+رَمْز عُنْصُرالآزُوت	N
+رمز فَرَضِيَّةُ البَديل	H1 (alternate hypothesis)
+رمز فَرَضِيَّةُ البُطلان	H0 (null hypothesis)
+رَمْزٌ قَضيبِيّ	phallic symbol
+رمز كيلو ( 10 3 )	k (kilo)
+رمز كيلو لتر	kl. (kiloliter)
+رمز لسابقة كيميائية بمعنى بَارا	P- (para-)
+رَمْز لِلثَّانِية	s
+رمز مِكْرو وَحْدَة	MU. (microunit)
+رمز مِكْروثانية	microsec. (microsecond)
+رمز مكروغرام	microg. (microgram)
+رمز مكرومتر	Mm (micrometer)
+رمز ملي لتر	ml. (milliliter)
+رمز ملي متر	mm. (millimeter)
+رمز مُيَاسِر	l- (levo-)
+رمز ميلي ثانِية	msec. (millisecond)
+رمز ميلي غرام	mg (milligram)
+رمز ميلي متر مُكَعَّب ( مم 3 )	cmm.
+رمز مِيلِّي وَحْدَة	mU. (milliunit)
+رمز نازِعَةُ الهِدْرُجِين اللاكْتاتِيَّة	LDH (lactate dehydrogenase)
+رمز نانو ثانية	nsec. (nanosecond)
+رمز نانوكوري	nCi (nano curie)
+رمز هيكتوغرام ( 10 2 غرام)	hg (hectogram)
+رمز وَزْنٌ بالحَجْم	w./v. (weight per volume)
+رَمْزالبور	B
+رَمْزجِيغَا	G
+رَمْزغَاليُوم	Ga
+رَمْش	saccade
+رَمْش ؛ رَفُّ الجَفْن	nictation / nictitation
+رَمْشٌ تَشَنُّجي	nictatio spastica
+رَمْشِيّ	saccadic
+رَمَع	clonus
+رَمَعُ إِبْهامِ القَدَم	toe clonus
+رَمَعُ الجَفْن	blepharoclonus
+رَمَعُ الرَّضَفَة	patellar clonus
+رَمَعُ العَين	opsoclonia (opsoclonus)
+رَمَعُ الغَلْقِ المَصْعَدِي	anodal closure clonus
+رَمَعُ الغَلْقِ المَهْبِطِي	cathodal closure clonus
+رَمَعُ الفَتْحِ المَصْعَدِي	anodal opening c
+رَمَعُ الفَتْحِ المَهْبِطِي	cathodal opening clonus
+رَمَعُ القَدَم	foot clonus
+رَمَعُ الكاحِل	ankle clonus
+رَمَعُ الكَلاَم	logoclonia / logoklony (logoclonia)
+رَمَعُ المِعْصَم	wrist clonus
+رَمَعٌ شِقِّيّ	hemiclonus
+رَمَعُ عَضَلاَتِ شِراعِ الحَنَك	velopalatine myoclonus
+رَمَعٌ عَضَلِيّ	myoclonia / myoclonus
+رَمَعٌ عَضَلِيٌّ إِجْفالِيّ	startle myoclonus
+رَمَعٌ عَضَلِيٌّ بُؤْرِيّ	focal myoclonus
+رَمَعٌ عَضَلِيٌّ بُؤْرِيٌّ صَرْعِيّ	focal epileptic myoclonus
+رَمَعٌ عَضَلِيٌّ بالْتِهابِ الدِّماغ	encephalitic myoclonus
+رَمَعٌ عَضَلِيٌّ بالصَّرْعِ الصَّغير	petit mal myoclonus
+رَمَعٌ عَضَلِيٌّ جَسيم	massive myoclonus
+رَمَعٌ عَضَلِيٌّ حِجابِيّ ( فُواقٌ وَبائِيّ)	diaphragmatic myoclonus (epidemic hiccup)
+رَمَعٌ عَضَلِيٌّ حَنَكِيّ	palatal myoclonus
+رَمَعٌ عَضَلِيٌّ حَنَكِيٌّ بُلْعومِيّ	palatopharyngeal myoclonus
+رَمَعٌ عَضَلِيٌّ شِقِّيّ	hemimyoclonus
+رَمَعٌ عَضَلِيٌّ صَرْعِيّ	epileptic myoclonus / myoclonia epileptica
+رَمَعٌ عَضَلِيٌّ ضَوئِيُّ المَنْشَأ	photomyoclonus
+رَمَعٌ عَضَلِيٌّ طِفْلِيّ	infantile myoclonia
+رَمَعٌ عَضَلِيٌّ عَدْوائِيّ	infectious myoclonia
+رَمَعٌ عَضَلِيٌّ فُرادِيّ	sporadic myoclonus
+رَمَعٌ عَضَلِيٌّ قَصْدِيّ	action myoclonus (intention myoclonus) / intention myoclonus
+رَمَعٌ عَضَلِيٌّ قِطَعِيّ	segmental myoclonus
+رَمَعٌ عَضَلِيٌّ لَيْلِيّ	nocturnal myoclonus
+رَمَعٌ عَضَلِيٌّ لُيَيْفِيّ	fibrillary myoclonia
+رَمَعٌ عَضَلِيٌّ لُيَيْفِيٌّ مُتَعَدِّد ( تَقَلُّصٌّ عَضَلِيٌّ مَوْجِيٌّ)	myoclonia fibrillaris multiplex (myokymia)
+رَمَعٌ عَضَلِيٌّ مُتَعَدِّد	myoclonus multiplex
+رَمَعٌ عَضَلِيٌّ مُتَفَرِّق ( نَظيرُ الرَّمَعِ المُتَعَدِّد )	myospasia (paramyoclonus multiplex)
+رَمَعٌ عَضَلِيٌّ مِزْمارِيٌّ كاذِبٌ ( فُواق)	pseudoglottic myoclonia (hiccup)
+رَمَعٌ عَضَلِيٌّ مُصَوِّت	phonomyoclonus
+رَمَعٌ عَضَلِيٌّ مُوَضَّع	localized myoclonus
+رَمَعٌ عَضَلِيٌّ نُخاعِيُّ المَنشَأ	spinal myoclonus
+رَمَعٌ عَضَلِيٌّ وَجْهِيّ ( تَشَنُّجُ شِقِّ الوَجْه)	facial myoclonus (facial hemispasm)
+رَمَعٌ عَضَلِيٌّ وَضْعِيّ	postural myoclonus
+رَمَعٌ كاذِب	pseudoclonus
+رَمَعٌ مُتَزامِن	synclonus
+رَمَعٌ مُتَزامِنٌ في البِري بري	synclonus beriberica
+رَمَعٌ مُتَعَدِّد	polyclonia
+رَمَعِيّ	clonic
+رَمَعِيٌّ تَوَتُّرِيّ	clonicotonic
+رَمَعِيٌّ عَصَبِيّ	neuroclonic
+رَمَعِيٌّ عَضَلِيٌّ ضَوئِيُّ المَنْشَأ	photomyoclonic / photomyogenic
+رَمْل	gravel / sabulum
+رَمْل [ج:رِمال]	sand
+رَمْلُ الدِّماغ	acervulus / brain sand (acervulus)
+رَمْلٌ عُدارِيّ	hydatid sand
+رَمْلٌ مَرارِيّ	biliary sand
+رَمْلٌ مِعَوِيّ	intestinal sand
+رَمْلِيّ	arenaceous / gritty / psammous (sandy) / sabulous
+رَمْلِيُّ المَعاش	sabulicolic
+رِمِّيّ	cadaveric / saprobic / saprogen / saprogenic / saprophyte
+رِمِّيُّ التَّغَذِّي	necroparasite (saprotroph) / necrophagous
+رَميجِيَّة (جِنْسٌ مِنَ الأَعْشاب)	Remijia
+رَّنَا (ال...) النَّاقِل	transfer RNA
+رَنَا مُرْسِل	messenger RNA
+رنامختصر (الحَمْضُ النَّوَوِيِّ الرِّيبِي)	RNA (ribonucleic acid)
+رَنَّان	resonant / sonorous
+رَنَح	amyotaxia (ataxia) / amyotaxy (ataxia) / ataxia
+رَنَحٌ استاتيكي	static ataxia
+رَنَحُ الأَطْراف	acrotaxia / limb ataxia
+رَنَحُ الْتِهابِ الأَعْصاب	polyneuritic ataxia
+رَنَحُ النَّهاياتِ الدَّانِيَة	proximoataxia
+رَنَحُ الوَضْعَة ( رَنَحٌ استاتيكي)	postural ataxia (static ataxia)
+رَنَحٌ بَصَلِيُّ المَنْشَأ	bulbar ataxia
+رَنَحٌ تابِسِيٌّ كاذِب	pseudotabetic ataxia
+رَنَحٌ تَحَرُّكِيّ (التَّابِسُ الظَّهْرِيّ)	locomotor ataxia (tabes dorsalis)
+رَنَحٌ تَشَنُّجِيّ	spastic ataxia
+رَنَحُ تَوَسُّعِ الشُّعَيرات	ataxia -telangiectasia
+رَنَحٌ تيهِيّ ( رَنَحٌ دِهْليزِيّ)	labyrinthic ataxia (vestibular ataxia)
+رَنَحٌ ثَفَنِيُّ المَنْشَأ	callosal
+رَنَحٌ جَبْهِيُّ المَنْشَأ	frontal ataxia
+رَنَحٌ جِذْعِيّ	truncal ataxia
+رَنَحٌ جُزْئِيّ	dystaxia
+رَنَحٌ جُزْئِيٌّ رعَّاش	dystaxia agitans
+رَنَحٌ حَرَكِيّ	kinetic ataxia (motor ataxia) / motor ataxia
+رَنَحٌ حِسِّيُّ المَنْشَأ	sensory ataxia
+رَنَحٌ دِهْليزِيُّ المَنْشَأ	vestibular ataxia
+رَنَحُ سانغر-براون (رَنَحٌ نُخاعِيٌّ مُخَيخِيّ)	Sanger-Brown's ataxia (spinocerebellar ataxia)
+رَنَحٌ شِقِّيّ	hemiataxia / hemiataxy
+رَنَحٌ عائِلِيّ ( رَنَحٌ وِراثيّ)	family ataxia (hereditary ataxia)
+رَنَحٌ عَينِيّ (رَأرَأَة)	ocular ataxia (nystagmus)
+رَنَحُ فريدْراِيخ (شكل وراثي مُتَنَحٍّ للرنح يبدأ منذ الطفولة)	Friedreich's ataxia
+رَنَحٌ كُحولِيّ	alcoholic ataxia
+رَنَحُ لايدن (التَّابِسُ الكاذِب)	Leyden's ataxia (pseudotabes)
+رَنَحُ ماري (رَنَحٌ مُخَيخِيٌّ وِراثِيّ)	Marie's ataxia (hereditary cerebellar ataxia)
+رَنَحٌ مُخِّيُّ المَنْشَأ	cerebral ataxia
+رَنَحٌ مُخَيخِيُّ المَنْشَأ	cerebellar ataxia
+رَنَحٌ مُخَيخِيٌّ حادّ	acute cerebellar ataxia
+رَنَحٌ مُخَيخِيٌّ وِراثِيّ	hereditary cerebellar ataxia
+رَنَحٌ مَرْكَزِيُّ المَنْشَأ	central ataxia
+رَنَحٌ مُزْدَوِج	diataxia
+رَنَحٌ مُزْدَوِجٌ دِمَاغِيٌّ (شَلَلٌ رَنَحِيٌّ دِمَاغِيٌّ طِفْلِيّ)	cerebral diataxia (infantile cerebral ataxic paralysis)
+رَنَحٌ مُزْدَوِجٌ دِمَاغِيٌّ طِفْلِيّ (شَلَلٌ رَنَحِيٌّ دِمَاغِيٌّ طِفْلِيّ)	diataxia cerebralis infantilis (infantile cerebral ataxic paralysis)
+رَنَحٌ مُسْتَقِلِيُّ المَنْشَأ	autonomic ataxia
+رَنَحٌ مِهْنِيّ	professional ataxia
+رَنَحٌ نُخاعِيُّ المَنْشَأ	spinal ataxia
+رَنَحٌ نُخاعِيٌّ مُخَيخِيُّ المَنْشَأ	spinocerebellar ataxia
+رَنَحٌ نَفْسِيّ	intrapsychic ataxia / psychataxia
+رَنَحٌ نَفْسِيٌّ حَرَكِيّ (شَلَلٌ عامّ)	psychomotor ataxia (general paralysis)
+رَنَحٌ هِسْتيرِيّ	hysteric ataxia
+رَنَحٌ وِراثِيّ	hereditary ataxia / heredoataxia
+رَنَحِيُّ الشَّكْل	atactiform
+رَنَّة	clang / tinkle
+رَّنَّة (ال...)	caribou
+رَنَّةٌ مَعْدَنِيَّة	metallic tinkle
+رَنين	resonance
+رَنينُ إِسارِ الكَتِف	shoulder-strap resonance
+رَنينُ الجَرَسِ المَعْدَنِيّ	bell-metal resonance
+رَنينُ السُّعال	cough resonance
+رَنينُ القِدْرِ المَفْلوعَة	cracked-pot resonance
+رَنينُ الكِيْسَةِ العُدارِيَّة	hydatid resonance
+رَنينٌ أَنْفِيّ	nasal resonance
+رَنينُ تَدْويمِ الإِلكِتْرُون	electron spin resonance
+رَنينٌ تَطَبُّلِيّ	tympanitic resonance
+رَنينٌ جَرِّيّ	amphoric resonance
+رَنينٌ حُوَيصِلِيّ	vesicular resonance
+رَنينٌ حُوَيصِلِيٌّ طَبْلِيّ	vesiculotympanic resonance
+رَنينٌ خَشَبِيّ ( رَنينٌ حُوَيصَلِيٌّ طَبْلِيّ)	wooden resonance (vesiculotympanic resonance)
+رَنينٌ سكُودِيّ	skodaic resonance
+رَنينُ صُنْدوقِ المُقَوَّى	bandbox resonance
+رَنينٌ صَوتِيّ	vocal resonance
+رَنينٌ طَبْلِيّ	tympanic resonance
+رَنينٌ عَظْمِيّ	osteal resonance
+رَنينٌ كَهْفِيّ	cavernous resonance
+رَنينٌ مِغْناطيسِيٌّ نَوَوِيّ	nuclear magnetic resonance
+رَنينٌ نَوَوِيٌّ مَغْنَاطيسِيّ	nuclear magnetic resonance
+رَنينٌ هَمْسِيّ	whispering resonance
+رُهاب	phobia
+رُهاب ( هِسْتِريا القَلَق)	phobism (anxiety hysteria)
+رهاب اختفاء القضيب	koro
+رُهابُ اعْتِلالِ الجِلْد	dermatopathophobia
+رهاب أكل اللحم	carniphobia
+رُهابُ الأَبْكار	parthenophobia
+رُهابُ الأَجْرامِ السَّماوِيَّة	siderophobia
+رُهابُ الأَحْمَر	ereuthophobia
+رُهابُ الاخْتِناق	pnigerophobia
+رُهابُ الأَدْوِيَة	pharmacophobia
+رُهابُ الاسْتِهْزاء	catagelophobia
+رُهابُ الإِشْعاع	radiophobia
+رُهابُ الأصْوَات	acousticophobia
+رُهابُ الأَطْفال	pedophobia
+رُهابُ الأَكْل	phagophobia / sitophobia
+رُهَابُ الأَلَم	algophobia / odynophobia
+رُهابُ الأَلْوان	chromatophobia
+رُهاب الأَماكِنِ المُغْلَقَة	claustrophobia / clithrophobia (claustrophobia)
+رُهابُ الامْتِحان	examination phobia
+رُهابُ الإِمْساك	coprostasophobia
+رهاب الإناث	gynephobia
+رُهابُ الانْبِهار	photaugiaphobia
+رُهابُ الانْفِراد	autophobia
+رهاب الأنوثة	gynophobia = gynephobia
+رُهابُ الأَيسَر (رهاب الجهة اليُسْرى)	levophobia
+رُهابُ البِراز	scatophobia
+رُهابُ البَرْد	cheimaphobia
+رُهابُ البروتين	proteinophobia
+رُهابُ البَشَر	anthropophobia
+رُهاب البكتريا	bacteriophobia
+رُهابُ البِيلَةِ الأَلْبومينِيَّة	albuminurophobia
+رُهابُ التَّبَوُّل	urophobia
+رهاب التشوه	dysmorphophobia
+رُهابُ التَّعَرِّي	gymnophobia / nudophobia
+رُهابُ التَّفْكير	ideophobia
+رُهابُ التَّكَلُّم	glossophobia (lalophobia)
+رُهابُ الْتِهابِ السَّحايا	meningitophobia
+رُهابُ التَّوَحُّد	monophobia
+رُهابُ الثَّعابين	ophidiophobia
+رُهابُ الجَحيم	hadephobia
+رُهابُ الجَديد	neophobia
+رُهابُ الجُذام	leprophobia
+رُهابُ الجَراثيم	bacteriophobia
+رُهابُ الجُفافِ	xerophobia
+رُهابُ الجُلوس ( تَعَذُّرُ الجُلوس)	kathisophobia (akathisia)
+رُهابُ الجِماع	coitophobia
+رُهابُ الجِنْس	genophobia
+رهاب الحبس	claustophobia = cleisophobia
+رُهابُ الحَرّ	thermophobia
+رُهابُ الحَرَكَة	kinesophobia
+رُهابُ الحَشَرات	entomophobia
+رُهابُ الحَلَم	acarophobia
+رُهاب الحَمَك	acarophobia
+رُهابُ الحَيَوان	zoophobia
+رُهابُ الخَدْش	amychophobia
+رُهابُ الخَطيئَة	peccatiphobia
+رُهابُ الخَلاَء	cenophobia / kenophobia (cenophobia)
+رُهابُ الخُيول	equinophobia
+رُهابُ الدَّم	hematophobia (hemophobia) / hemophobia
+رُهابُ الذَّرَابَة (الذَّرَابَةُ: الكَلامُ البذيء)	acerbophobia / acerophobia
+رُهابُ الذُّكور	androphobia
+رُهابُ الذُّنوب	hamartophobia
+رُهابُ الرَّعْد	brontophobia
+رُهابُ الرَّعْدِ و البَرْق	astraphobia / astrapophobia
+رُهابُ الرَّوائِح	osmophobia
+رُهابُ الرِّيح	anemophobia
+رُهابُ الزِّحام	ochlophobia
+رُهابُ الزَّمَن	chronophobia
+رُهابُ الزُّهْرِيِّ	syphiliphobia / syphilophobia
+رُهابُ الزُّهور	anthophobia
+رُهابُ الزَّواج	gamophobia
+رُهاب الزواحف	herpetophobia
+رُهابُ السَّرَطان	cancerophobia / cancerphobia / carcinomatophobia
+رُهابُ السَّرِقَة	cleptophobia
+رُهابُ السَّعادَة	cherophobia
+رُهابُ السَّفَر	hodophobia
+رُهابُ السُّلّ	phthisiophobia / tuberculophobia
+رُهابُ السُّمّ	toxicophobia / toxiphobia
+رُهابُ الشَّارِع	street phobia
+رهاب الشرب	dipsophobia
+رُهابُ الشَّعْرانِيَّة	hypertrichophobia
+رُهابُ الشَّمّ	osphresiophobia
+رُهابُ الشَّوَارع	agyiophobia
+رُهابُ الشَّياطين	demonophobia / demophobia / satanophobia
+رُهاب الصُماح (رهاب العرق المُرْدِن)	bromhidrosophobia
+رُهابُ الصُّنان	bromidrosiphobia
+رُهابُ الصَّوت	phonophobia
+رُهابُ الضَّفادِع	batrachophobia
+رُهابُ الضَّوء	phengophobia (photophobia) / photophobia
+رُهابُ الطَّعام	cibophobia
+رُهابُ الطُّفَيلِيَّات	parasitophobia
+رُهابُ الطَّيَران	aerodromophobia
+رُهابُ الطُّيور	ornithophobia
+رُهابُ الظَّلاَم	nyctophobia / scotophobia
+رُهابُ العُبور (في الشَوارِع)	dromophobia
+رُهابُ العَرَبات	amaxophobia / hamaxophobia (amaxophobia)
+رُهابُ العُزْلَة (داخل البيت)	domatophobia
+رهاب العفاريت	demonophobia
+رُهابُ العُقُوبَة	poinephobia
+رُهابُ العُمْق	bathophobia
+رُهابُ العَمَل	ergasiophobia
+رُهابُ العَناكِب	arachnephobia (arachnophobia) / arachnophobia
+رُهابُ الغابات	hylophobia
+رُهابُ الغُبار	amathophobia
+رُهابُ الغَصَص	anginophobia / pnigophobia
+رُهابُ الفَجْر	eosophobia
+رُهابُ الفَضاء	apeirophobia
+رُهابُ الفَيَضان	antlophobia
+رُهابُ القَذارَة	automysophobia / mysophobia
+رُهابُ القَسَط	ankylophobia
+رُهابُ القِطَط	gatophobia (ailurophobia)
+رُهابُ القَيء	emetophobia
+رُهابُ الكَذِب	mythophobia
+رُهابُ الكِلاَب	cynophobia
+رُهابُ الكَلاَم (في المُجْتَمَعات)	lalophobia
+رُهابُ الكَلَب	lyssophobia
+رهاب الكَلِب (كَلِب كاذب)	cynophobia = pseudorabies
+رُهابُ اللَّذَّة	hedonophobia
+رُهابُ اللَّمْس	haphephobia / haptephobia (haphephobia)
+رُهابُ اللَّيل	noctiphobia (nyctophobia)
+رُهابُ المُؤَنَّفَات	aichmophobia
+رُهابُ الماء	aquaphobia / hydrophobia
+رُهابُ الماء (? داءُ الكَلَب)	hydrophobia
+رُهابُ المُجْتَمَع	social phobia
+رُهابُ المَخاض	tocophobia
+رُهابُ المَخاوِف	phobophobia
+رُهابُ المَدْرَسَة	school phobia
+رُهابُ المُرْتَفَعات	acrophobia / batophobia / cremnophobia
+رُهابُ المَرَض	nosophobia / pathophobia (nosophobia)
+رُهابُ المَرَضِ القَلْبِيّ	cardiophobia
+رُهابُ المَسْؤولِيَّة	hypengyophobia
+رُهابُ المُسْتَجِدَّات	cenotophobia
+رُهابُ المَشْي	basiphobia
+رُهابُ المَظْهَر	phenophobia
+رُهابُ المَهاوِي	cremnophobia
+رُهابُ المَوت	thanatophobia
+رُهابُ الموسيقَى	musophobia
+رُهابُ المَيَادين	agoraphobia
+رُهابُ النَّار	pyrophobia
+رُهابُ النِّساء	gynephobia / gynophobia
+رُهابُ النَّفْس	psychophobia
+رُهابُ النَّوم	hypnophobia
+رُهابُ الهِرْبِس	herpetophobia
+رُهابُ الهِرَرَة	aelurophobia / ailurophobia / elurophobia (ailurophobia) / galeophobia (ailurophobia)
+رُهابُ الهَواء	aerophobia
+رُهابُ الهَوَس	maniaphobia
+رُهَابُ الوَأْد	taphephobia
+رُهابُ الوَحْدَة	eremophobia
+رُهابُ الوَهَن	asthenophobia
+رُهابُ اليَمين	dextrophobia
+رُهابٌ بَسيط	simple phobia
+رُهابٌ خَفيف	paraphobia
+رُهابُ خَلَلِ البِنْيَة	dysmorphophobia
+رُهابُ سَماعِ الكَلِمات	onomatophobia
+رُهابٌ شامِل	pamphobia (panphobia) / panophobia (panphobia) / panphobia / pantaphobia / pantophobia
+رُهابٌ شَرَجِيّ	proctophobia
+رُهابٌ مُتَعَدِّد	polyphobia
+رُهابُ مُعالَجَةِ الأَسْنان	odontophobia
+رَهابَوِيٌّ ضِلْعِيّ	xiphocostal
+رَهابَوِيّ؛ متعلقٌ بالرَّهابَة	ultimisternal
+رَهابِيّ	xiphisternal
+رَهابِيٌّ سُرِّيّ	xiphoumbilical
+رَهابِيٌّ ضِلْعِيّ	xiphicostal
+رَهابِيٌّ قَصِّيّ	xiphosternal
+رهاف	erethism
+رهاف الحس الحراري	hyperthermesthesia
+رهافة التذوق	hypergeusesthesia = hypergeusia / hypergeusia = hypergeusesthesia
+رهافة الحس	hypersensibility = hypersensitivity
+رهافة السمع	hyperacusia = hyperacousia / hyperechema
+رهافة الشم	hyperosmia
+رهافة اللمس	hyperaphia
+رهافة حس التذبذب	hyperpallesthesia
+رَهْبَةُ المَرْأَى	scopophobia / scoptophobia (scopophobia)
+رَهَجُ الغار (ثاني سَلْفيد الأَرْسِنيك)	realgar
+رَهْجَنِيَّة (ذبابة)	rhagionid
+رهل القلب	cardioptosis
+رهل المعدة	gastroptosis
+رهل المعدة والأمعاء	gastroenteroptosis
+رَهُوب (مُصابٌ بِالرُّهاب)	phobiac
+رَهوبُ الجَديد	neophobic
+رَهُوبُ المَرَض	nosophobe
+رَهُوبُ المَوت	necrophobe
+رَوَائِس [ف:رائِس] (في الديدان الشريطية)	scoleces [sing: scolex]
+رَوائيلُ إِنْسِيَّة [ف:رَاؤُولٌ إِنْسِيّ]	mesiodentes [sing.mesiodens]
+رَوَابِِط ثُنَائِيَة مُتَرَافِقَة	conjugated double bonds
+رَوابِطُ غليكُوزيدِيَّة	glycosidic bonds
+رَواتينُ الكارْباكريلاَمين	carbacrylamine resins
+رَواذ (الحركة جيئة وذهابا)	propalinal
+رواق	arcade
+رَوْب (في اللبن)	curd
+رَوْبٌ شَبِّيّ	alum curd
+رَوْبَةٌ	slurry
+رُوبيدُوميسِين (مُضادٌّ حَيَوِيّ)	rubidomycin (daunorubicin)
+روبيديُول (مُذيبٌ دوائيّ)	rubidiol
+رُوِبيزين (دَواءٌ مُضادٌّ لِلاخْتِلاَج)	ropizine
+رُوبين ( فُوكْسين)	rubin (fuchsin)
+روبين (مادَّةُ سامَّة نباتية)	robin
+رُوبينيدين (دَواءٌ مُضادٌّ لِلكَرَوِيَّاتِ في الدَّجاج)	robenidine
+رُوتاكارْبِين	rutaecarpine
+رُوتْلرين (مادة نباتية سامة)	rottlerin
+روتوزيد ( روتين)	rutoside (rutin)
+رُوتُوكْسامين (دَواءٌ مُضادٌّ لِلهِسْتامين)	rotoxamine
+روتين	q-3 rutoside (rutin) / routine
+روتين (دواء صائن للأوعية)	rutin
+روتيِنٌ تَشْخَيْصِي	diagnostic routine
+روتينٌ تَنْفيذِيّ	executive routine
+روتينٌ فَرْعِيٌّ	sub-routine
+روتينٌ مشارك	co-routine
+رُوتِين*	eldrin (rutin)
+روتينُوز (سكاريد ثنائي)	rutinose
+روتينُون	rotenone
+رَوْث، بَعْر، زبْل	dung
+روح	essence / essentia (essence) / soul / spiritus
+رُوْحُ الأَِثير	ether spirit
+رُوْحُ الأثيرِ المُرَكَّب	compound ether spirit
+رُوْحُ الأَمونيا	ammonia spirit
+رُوْحُ الأَمونيا العِطْرِيَّة	aromatic ammonia spirit / aromatic spirit of ammonia
+رُوْحُ الأَنيسُون	anise spirit
+رُوْحُ البُرْتُقالِ المُرَكَّب	compound orange spirit
+رُوْحُ البنزالديهيد	benzaldehyde spirit
+رُوْحُ التربنتين	spirit of turpentine
+رُوْحُ الخُزامَى	lavender spirit
+رُوْحُ الخَمْر ( كُحُوْل)	spirit of wine
+رُوْحُ الفانيلين المُرَكَّب	compound vanillin spirit
+رُوْحُ القِرْفَة	cinnamon spirit
+رُوْحُ الكَافُور	camphor spirit
+رُوْحُ النِّتروغليسيرين	nitroglycerin spirit
+روحُ النَّعْناع	essence of peppermint / peppermint spirit / spearmint spirit
+رُوْحُ الهِيْلِ المُرَكَّب	compound cardamom spirit
+رُوْحُ ثُلاَثِيِّ نترات الغليسيريل	glyceryl trinitrate spirit
+رُوْحٌ عِطْرِيّ	perfumed spirit
+رُوْحٌ مُكَرَّر	rectified spirit
+رُوْحُ منديريروس (محلول أسيتات الأمونيوم)	spirit of Mindererus
+رُوْحُ نِتْرات الإِيثيل	spirit of nitrous ether
+رُوْحٌ نتريٌّ حُلْو ( رُوْحُ نتريت الإِيثيل)	sweet spirit of nitre
+رُوْحُ نتريت الإيثيل	ethyl nitrite spirit
+رُوح، كُحُول	spirit
+رُودامين (صبغ أحمر متألق)	rhodamine
+رودانات	rhodanate
+رودانين	rhodanine
+رودُوبْسين (الأُرْجُوانُ البَصَرِيّ)	rhodopsin (visual purple)
+رودُوبْسينٌ جُرْثومِيّ	bacteriorhodopsin
+رُودُوبْسين ضَوئِيّ	lumirhodopsin
+رودُوبُورْفِيرِين	rhodoporphyrin
+رودوتُوكْسِين (سم نباتي المنشأ)	rhodotoxin
+رودوفان (صبغ أحمر في شبكية الطيور)	rhodophane
+رُوزَئين ( فُوكْسين)	rosein (fuchsin)
+رُوزاميسين (مُضادٌّ حَيَوِيّ)	rosamicin
+رُوَزانيلين (صبغ أحمر نباتي)	rosaniline
+روزُوكْساسين (دَواءٌ مُضادٌّ لِلجَراثيم)	rosoxacin
+روزين (راتين نباتي)	rosin
+رُوفيسين (صبغ أزرق في الرخويات)	rufescine
+رُوفْيُوبين (صبغ أحمر)	rufiopin
+رولاَنْدِيّ (في المخ)	rolandic
+رُولي تِتْراسِكْلين (مُضادٌّ حَيَوِيّ)	rolitetracycline
+رُولِيتاميد (دَواءءٌ مُنَّوِّم)	roletamide
+رَوْمٌ ؛ تَلَفُّظٌ ضِمْنِيّ (تحريك أعضاء التصويت دون تلفظ)	endophasia
+روماتزم	rheumatism
+روماتزمٌ الْتِهابِيّ ( الحُمَّى الرُّوماتزمِيَّة)	inflammatory rheumatism (rheumatic fever)
+روماتزمُ الصَّحْراء ( فُطارٌ كَرَوانِيٌّ)	desert rheumatism (coccidioidomycosis)
+روماتزمُ بُونْسِيه ( روماتزمٌ سُلِّيّ)	Poncet's rheumatism (tuberculous rheumatism)
+روماتزمٌ بيزنيه ( الْتِهابُ زَليلِ المَفْصِلِ المُزْمِن)	Besnie's rheumatism (chronic arthrosynovitis)
+روماتزمٌ تحت الحَادّ	subacute rheumatism
+روماتزمٌ حَشَوِيّ	visceral rheumatism
+روماتزمٌ زلِيْلِيّ	synovial rheumatism
+روماتزمٌ سَكْتِيَّ (روماتزم مترافق مع نزف دماغي)	apoplectic rheumatism
+روماتزمٌ سُلِّيّ ( التْهَابُ المَفَاصِلِ السُّلِّيّ)	tuberculous rheumatism
+روماتزمٌ سَيَلاَنِيّ	gonorrheal rheumatism
+روماتزم عَضَلِيّ ( الْتِهابُ الأَلِيافِ العَضَلِيَّة)	muscular rheumatism (fibrositis)
+روماتزمٌ عَضَلِيّ ( الْتِهابٌ ليفِيٌّ)	muscular rheumatism (fibrositis)
+روماتزمٌ عَظْمِيٌّ ( الْتِهابُ المَفاصِلِ الرُّوماتويديّ)	osseous rheumatism (rheumatoid arthritis)
+روماتزمٌ عَقِدٌّ	nodose rheumatism
+روماتزمٌ قَطَنِيّ ( أَلَمُ القَطَن)	lumbar rheumatism (lumbago)
+روماتزمٌ قَلْبِيّ	rheumatism of heart
+روماتزمٌ كاذِبٌ	pseudorheumatism
+روماتزمٌ لامَفْصِلِيّ	nonarticular rheumatism
+روماتزمُ ماكْلاَود المِحْفَظِيّ (روماتزمٌ مع انصباب مفصلي)	MacLeod's capsular rheumatism
+روماتزمٌ مُخِّيٌّ	cerebral rheumatism
+روماتزم مَفْصِلِيّ	arthrorheumatism / articular rheumatism
+روماتزمٌ مَفْصِلِيٌّ حادّ ( الحُمَّى الرُّوماتزميَّة)	acute articular rheumatism (rheumatic fever)
+روماتزمٌ مَفْصِلِيٌّ مُزْمِنٌ	chronic articular rheumatism
+روماتزمٌ هيبِيرْدين (روماتزمٌ إِصْبَعِيٌّ عُقْدِيّ)	Heberden's rheumatism
+روماتزميّ	rheumatic / rheumatismal
+روماتزميَّةٌ طِفْلِيَّة	rheumaticosis
+روماتويديّ	rheumatoid
+روماتيزم	rheumatism
+روممختصر (ذاكرة للقراءة فقط)	ROM (read only memory)
+رونْتِغن	roentgen
+رونيدازول (مضاد للطفيليات في الطب البيطري)	ronidazole
+رُونيل (مُبيدُ حَشَرِيّ)	ronnel
+روى	irrigate
+رِي (وَحْدَةُ قِياسِ السُّيولَة)	rhe
+رياضة	sport
+رياضة بدنية	gymnastics
+رِياضَةٌ تَجْميلِيَّة	calisthenics
+رِيَاضَة هَوائِيَّة ؛ عَرَابَة (العرابة: النشاط)	aerobics
+رِيَاضِيَّاتُ الكيمياء	stoechiometry
+ريبازِيبَام (دَواءٌ مُهَدِّىء)	ripazepam
+رِيباسَة؛رِيبوسوم [ج:ريباسات؛ريبوسومات]	ribosome
+ريبافيرين (دواء مضاد للفيروسات)	ribavirin
+ريبامينُول (دواء منشط للذاكرة)	ribaminol
+رِيبْتِيلاَز [إنزيم]	reptilase
+ريبرُوتيرُول (دَواءٌ مُوَسِّعٌ لِلقَصَبات)	reproterol
+ريبرُوميسين (مُضادٌّ حَيَوِيّ)	repromicin
+ريبْليكُون (جزء وظيفي من الدنا)	replicon
+ريبُوبْرين (دواء مضاد للأورام)	riboprine
+ريبُوبيرانُوز	ribopyranose
+رِيبُوتيميدِين	ribothymidine
+ريبُوز (سكر خماسي)	ribose
+رِيبُوزيل	ribosyl
+ريبُوفْلاَفِين ( الفيتامين B2)	riboflavin (vitamin B2)
+رِيبُولُوز	ribulose
+ريبُونوكْلِياز [إنزيم]	RNase (ribonuclease) / ribonuclease
+ريبونوكْليُوتيد	ribonucleotide
+ريبونوكْليُوزيد	ribonucleoside
+ريبيتُول (سكر كحولي)	ribitol
+ريبيديزوز (سكر كحولي)	ribodesose
+ريِتامين (قلواني نباتي)	retamine
+رِيتْرُورْسِين (قلواني نباتي سام للكبد)	retrorsine
+ريتروفير (دواء لمعالجة الايدز)	Retrovir
+ريتُودرِِين	ritodrine
+ريتُودرين (مُرْخٍِ للعَضَلاَتِ المَلْساء)	ritodrine
+رِيتِيكُولِين (بروتين في النسيج الضام)	reticulin
+ريتين (مادة خلوية)	retine
+ريتينال	ll-cis retinal (retinal)
+ريتينال مَفْرُوْق	all-trans retinal (trans retinal)
+ريتينالْديهيد	retinaldehyde
+ريتينُول ( الفيتامين A1)	retinol (vitamin A)
+ريتينين (شكل للفيتامين A)	retinene
+ريح مهبلي	flatus, vaginalis
+رَيحانُ الأَرْض (جِنْسُ نَباتٍ مِنَ الشَّفَوِيَّات)	Cunila
+ريحِيُّ التَّلْقيح	anemophilous
+ريدوكتون ( حَمْضُ الغلُوسيك)	reductone (glucic acid)
+ريدِيَّات [ف:ريديَّة]	rediae [sing.redia]
+ريدِيَّة (مرحلة من تطور المثقوبات) [ج:ريدِيَّات]	redia [pl.rediae]
+ريزُورْسين (مضاد للمكروبات)	resorcin (resorcinol)
+ريزُورْسينول (مضاد للمكروبات)	resorcinol / resorcinum (resorcinol)
+ريزُورْسينول فثالئين	resorcinolphthalein
+ريزُول (بوليمر كحولي)	resole
+ريزيت (مشتق ريزولي)	resite
+رِيزِيرْبِيّن	reserpine
+رِيزِيرْبين (دَواءٌ مُضادٌّ لارْتِفاعِ الضَّغْطِ وَمُهَدَّئ)	reserpine
+رِيزِيلِين (بروتين قانص ومطلق للطاقة في الحشرات)	resilin
+ريسازورين (مشعر للأكسدة والاختزال)	resazurin
+ريستُوسيتِين (مُضادٌ حَيَوِيّ)	ristocetin
+رِيسين (مادة سامة في بذور الخروع)	ricin
+ريسينامين (دَواءٌ مُضادٌّ لارْتِفاعِ الضَّغْطِ وَمُهَدِّىء)	rescinnamine
+ريشَة	feather
+ريشة (ال...)	ptero-
+ريشة التلقيح	vaccinostyle
+ريشِيُّ الشَّكْل	pennate / penniform / pinnate
+رِيفَامِبيسِين	rifampicin
+رِيفامبيسِين (مُضادٌّ حَيَوِيّ)	rifampicin
+رِيفَامبِين	rifampin
+ريفامبين (مُضادٌّ حَيَوِيّ)	rifampin
+رِيفاميد (مُضادٌّ حَيَوِيّ)	rifamide
+ريفاميسِن (مُضادٌّ حَيَوِيّ)	rifamycin
+رِيفَامِيسِين	rifamycin
+رِيفُومِيسِين	rifomycin
+ريفُوميسين (مُضادٌّ حَيَوِيّ)	rifomycin
+ريكِتْسِيّ	rickettsial
+ريكِتْسِيَّات	rickettsiae
+رِيكْتِسِيَّة	Rickettsia / rickettsia
+رِيكِتْسِيَّة شَرْقِيَّة	Rickettsia orientalis
+رِيكِتْسِيَّة كَلْبِيَّة	Rickettsia canis
+ريكُوغْنين (بروتين في الخلايا السرطانية)	recognin
+ريكون (أَصغر وحدة جزيئية في الدنا)	recon
+رَيِلاَكْسِين (بروتين مرخٍ للعضلات الملساء والرحم)	relaxin
+رِيمَانْتَادِين	rimantadine
+ريمانْتِيدين (مضاد للفيروسات)	rimantadine
+ريميتيرُول (دواء أدرينيُّ المفعول)	rimiterol
+رينين	renin
+ريُوتين	rhiotin

@@ -1,0 +1,327 @@
+h	ثابتة بلانك
+H-like ions	أيونات شبيهة بالهدروجين
+hadron	هَدرون
+hafnium	هافنيوم
+Haidinger fringes	أهداب
+hail	بَرَد
+halation	هالة
+half	نصف
+half reflecting	نصف عاكس
+half with	عرض النصف
+half-cell	خلية نصفية / نصف خلية
+half-decay period	دور التفكك النصفي
+half-life	عمر النصف (ن) / عمر النصف
+half-life time	عمر النصف
+half-light; semo-darkness	غبش
+half-power frequency	تردد نصف القدرة
+half-power point	نقطة نصف القدرة
+half-shade plate	صفيحة نصف ظليّة
+half-silvered	مفضض نصفيا / نصف مفضَّض
+half-thickness; half-value layer; half-value thickness	سمك النصف
+half-value layer (HVL)	طبقة توهين النصف
+half-value thickness	سمك النصف (ن) / ثخن نصف القيمة
+half-wave	نصف موجة
+half-wave plate	صفيحة نصف موجة / صفيحة نصف موجية
+half-wave rectification	تقويم نصف موجة
+half-wave-dipole aerial	هوائي قطباني نصف موجي
+half-width	نصف العرض
+half-width of spectral line	نصف عرض الخط الطيفي
+halfwidth value	قيمة عرض النصف
+Hall coefficient	معامل هول
+Hall coefficient; Hall constant	معامل
+Hall constant	ثابتة هول
+Hall effect	تأثير / مفعول هول
+Hall electric field	حقل هول الكهربائي
+Hall mobility	حركية هول
+Hall probe	مسبار هول
+Hall-effect Gaussmeter	مقياس غاوص بمفعول هول
+Hallwachs effect	تأثير / مفعول هالفاكس
+halo	هالة
+halogen counter	عداد هالوجيني
+halogen quenched counter tube	أنبوب عداد هالوجيني الاخماد (ن)
+halogens	هالوجينات
+Hamilton equations	معادلات هملتون
+hamiltonian	هملتوني
+hamiltonian function	دالة هاميلتونية / دالة هلمتونية
+hamiltonian operator	مؤثر هملتوني
+hand-and-foot counter	عداد الأطراف
+hand-and-foot monitor	مرقاب الأطراف
+handedness	يدوانية
+hard	قاسٍ
+hard cosmic rays	أشعة كونية قاسية
+hard radiation	اشعاع قاس / إشعاع قاسـي
+hard rays	أشعة قاسية
+hard X-rays	أشعة سينية قاسية
+hard-super conductor; non ideal superconductor	فائق التوصيل العادي
+hardened circuit	دارة محصَّنة
+hardness	قساوة
+hardware	عتاد
+harmonic	توافقي / توافقي؛ توافقية
+harmonic analysis	تحليل توافقي
+harmonic analyzer	محلل توافقي
+harmonic motion	حركة توافقية
+harmonic oscillator	متذبذب توافقي / هزاز توافقي
+harmonic vibrations	ذبذبات توافقية
+harmonics of a string	نغمات الوتر التوافقية
+harmony	توافق
+Hartley oscillator	هزاز هارتلي
+He-Ne-laser	ليزر الهليوم والنيون
+head (pressure…)	ارتفاع الضغط
+head end	معالجة أولية (ن)
+head of liquid	ضاغط السائل
+health physics	فيزياء صحية
+hearing	سمع
+hearing aid	مساعدة سمعية
+hearing aids	مُسمِّعات
+heat	حرارة
+heat (mechanical equivalent of…)	مكافىء (ال...) المكانيكي للحرارة
+heat capacity	سعة حرارية
+heat conduction	توصيل حراري
+heat conductivity	موصلية حرارية
+heat conductors	موصلات حرارية، نواقل حرارية
+heat content	محتوى حراري
+heat convection	حَمل حراري / حَمْل حراري
+heat death	موت حراري
+heat engine	محرك حراري
+heat engines	محركات حرارية
+heat equilibrium	توازن حراري
+heat exchanger	مبادل حراري
+heat expansion	تمدد حراري
+heat insulators	عوازل حرارية
+heat measurement	قياس الحرارة
+heat of activation	حرارة التنشيط
+heat of adsorption	حرارة الامتزاز
+heat of aggregation	حرارة التجمع
+heat of association	حرارة المشاركة
+heat of atomization	حرارة التذرير
+heat of combustion	حرارة الاحتراق
+heat of condensation	حرارة التكثف
+heat of evaporation	حرارة التبخر
+heat of evaporation; heat of vaporization	حرارة التبخر
+heat of formation; heat of combination	حرارة التكون
+heat of fusion	حرارة الانصهار
+heat of hydration	حرارة التميّه
+heat of ionization	حرارة التأين
+heat of linkage	حرارة الربط
+heat of neutralization	حرارة التعادل / حرارة التعديل
+heat of radiation	إشعاع حراري
+heat of solidification	حرارة التصلب / حرارة التجمد
+heat of transformation	حرارة الاستحالة
+heat of transition	حرارة الانتقال
+heat of vaporization	حرارة التبخِّر
+heat pump	مضخة حرارية
+heat quantity	كمية الحرارة
+heat radiation	اشعاع حراري
+heat shield	درع حرارية
+heat sink	مصـرف حرارة؛ منبع بارد
+heat temperature	درجة حرارة، حرارة نوعية
+heat transfer	انتقال الحرارة
+heat treatment	معالجة حرارية
+heat-electric station	محطة كهرحرارية (ن)
+heating value	قيمة حرارية
+Heaviside layer	طبقة / طبقة هيفيسايد
+heavy hydrogen	هيدروجين ثقيل / هدروجين ثقيل
+heavy water	ماء (ال...) الثقيل (ن) / ماء ثقيل
+heavy water pile	مفاعل الماء الثقيل
+heavy water reactor	مفاعل الماء الثقيل (ن) / مفاعل الماء الثقيل
+Heisenberg picture	صورة هايزنبرغ
+Heisenberg representation	تمثيل / تمثيل هايزنبرغ
+Heisenberg theory	نظرية (ن)
+Heisenberg uncertainty principle	مبدأ الارتياب لهايزنبرغ
+helical motion	حركة لولبية
+helicity	لولبية
+helicoid	سطح لولبي
+heliograph	مشماسة
+helioscope	راصد الشمس
+heliostat	متتبع الشمس
+helium	هليوم
+helium burning	حَرْق الهليوم
+helium counter tube	أنبوب عداد هيليومي (ن)
+helium liquefaction	اسالة الهليوم
+helium liquefier	مسيِّل الهليوم
+helix	حلزون / لولب
+helmholtz	هلمهولتز
+Helmholtz coils	ملفا هلمهولتز
+Helmholtz resonators	مجاوبات هلمهولتز
+Helmhotz equation	معادلة
+Helmhotz resonator	رنّان
+hemicolloid	نصف غروي
+hemihedral crystal	بلّورة نصف مكتملة الوجوه
+hemisphere	نصف كرة
+hemispherical	نصف كروي
+Henry	هنري
+Henry law	قانون
+Henry's law	قانون هنري
+hereditary mechanics	ميكانيك حدّي الشروط
+hermetian operator	مؤثر هرميتي
+hermeticity	هرميتية
+Hermite polynomials	حدوديات هيرميت
+hermitian adjoint	مرافق هرميتي
+hermitian adjoint matrix	مصفوفة هرميتية مرافقة (ن)
+hermitian matrix	مصفوفة هرميتية
+hermitian operator	مؤثر هرميتي
+hertz	هرتز
+Hertz effect	مفعول هرتز
+hertzian waves	أمواج هرتزية
+heterodyne detector	مكشاف خفقاني
+heterogeneous	غير متجانس / متغاير
+heterogeneous equilibrium; polyphase equilibrium	توازن غير متجانس
+heterogeneous nuclear reactor	مفاعل نووي متغاير
+heterogeneous radiation	إشعاع متغاير
+heterogeneous reactor	مفاعل غير متجانس
+heterogeneous system	نظام غير متجانس
+heteroion	أيون غير متجانس
+heterojunction	وصلة متغايرة
+heteroplar colloid	غروي متغاير القطبين
+heterostructure	بنية متغايرة
+hexagonal	سداسي
+hexagonal close-packed	سداسي متراص
+hexagonal close-packed structure	بنية سداسية متراصة
+hexagonal crystal	بلورة سداسية
+hexode	صمام سداسي المساري / صِمَام سداسـي المساري
+HF	تردد عالي
+hidden matter	مادة خفيَّة
+hidden variables	المتغيرات الخفية
+Higgs boson	بوزون هيغز
+high frequency	تردد عالٍ
+high frequency band	نطاق الترددات العالية
+high frequency choke	خانق الترددات العالية
+high frequency wave	موجة عالية التردد
+high pressure cloud chamber	غرفة سحابية عالية الضغط
+high resolution	ميز عال (ن)
+high speed electrons	الكترونات عالية السرعة
+high temperature reactor	مفاعل حارّ
+high tension battery	بطارية عالية الجهد
+high tension transformer	محوّل جهد عال
+high vacuum cut-off	فاصل فراغ عال
+high voltage	فولطية عالية
+high-flux reactor	مفاعل عالي التدفق
+high-pass filter	مُرشِّح تمرير عال
+high-pressure cloud chamber	حجرة سحاب عالية الضغط
+high-temperature reactor	مفاعل عالي الحرارية (ن)
+high-temperature super conductivity	الناقلية الفائقة العالية درجة الحرارة
+Hilbert space	فضاء هـِلبرت
+hindered setting	ترسب معاق
+histogram	هستوغرام؛ مخطط شـريطي
+hoarfrost; white frost	صقيع أبيض
+hodograph	رسمة / راسم الخـُطا
+hodoscope	مكشاف / كاشف المسار
+hold-back carrier	حمال المعيق (ن)
+hole	فجوة (ن) / ثقب
+hole theory	نظرية الفجوة
+hole theory of liquids	نظرية الفجوة للسوائل
+hollow sound	صوت أبهر
+holmium	هولميوم
+hologram	هولوغرام
+holography	هولوغرافيا
+holonomic constraint	قيد هولونوميّ
+holonomical system	منظومة هولونومية
+homocentric rays	أشعة متحدة التمركز / أشعة متمركزة
+homogeneous	متجانس
+homogeneous atmosphere	جو متجانس
+homogeneous body	جسم متجانس
+homogeneous equation	معادلة متجانسة
+homogeneous equilibrium	توازن متجانس
+homogeneous fluid	مائع متجانس
+homogeneous medium	وسط متجانس
+homogeneous nuclear reactor	مفاعل نووي متجانس
+homogeneous radiation	اشعاع متجانس / إشعاع متجانس
+homogeneous reactor	مفاعل متجانس
+homogeneous system	نظام متجانس
+homonucleaire molecule	جزيء متجانس النوى
+homopolar bond	رابطة متجانسة القطبية
+homopolar bond; covalent bond	آصرة تكافؤ
+homopolar colloid	غراء متجانس القطبية
+hook	خطّاف
+Hooke law	قانون
+Hooke's law	قانون هوك
+hopping conduction	توصيل بالقفز
+horizontal axis	محور أفقي
+horizontal component	مركَبة أفقية / مركِّبة أفقية
+horizontal deflection plates	لوحا الانحراف الأفقي
+horizontal pendulum	نواس أفقي
+horizontal plane	مستوى أفقي / مستوي أفقي
+horizontal polarization	استقطاب أفقي
+horn	بوق
+horse power	قدرة حصانية / حصان بخاري
+horse shoe magnet	مغنطيس بشكل نعل الفرس؛ مغنطيس نَضْوِيّ
+hot	حارّ (ن)
+hot atom	ذرة حارة (ن) / ذرة حارة
+hot atom chemistry	كيمياء الذرات الحارة (ن)
+hot cell	خلية حارة (ن)
+hot channel factor	عامل قناة حارة (ن)
+hot laboratory	مختبر حار (ن) / مخبر حار
+hot standby	وضعية الانتظار الحارة (ن)
+hot testing	اختبار حار (ن)
+hot-wire ammeter	مقياس الأمبير ساخن السلك
+hot-wire gauge	مقياس الضغط ذو السلك الحار
+hot-wire microphone	ميكروفون السلك الحار
+hot-wire voltmeter	مقياس الفولط ساخن السلك
+HTR	مفاعل حار
+Hubble's constant	ثابتة هَبْل
+Hubble's law	قانون هابل
+hue	نقبة، لون
+hum	دويّ
+humidification	ترطيب
+humidity	رطوبة
+humidity (absolute..)	رطوبة مطلقة
+humor	خِلط
+Hund's rule	قاعدة هوند
+Huygens principle	مبدأ هويغنز
+Huygens’s theorem	مبرهنة هويغنز
+HWR	مفاعل الماء الثقيل
+hybrid model	النموذج-الهجين
+hybrid parameter	وسيط هجين
+hybride computer	حاسوب هجين
+hybridization	تهجين
+hybridization of eigenfunctions	تهجين الدوال الذاتية
+hydrated ion; aquo ion	أيون مميّه
+hydrated ionic compound	مركب أيوني مُمَيَّه
+hydraulic lift	رافعة مائية / مصعد مائي
+hydraulic press	مكبس مائي
+hydraulic pressure	ضغط مائي
+hydraulics	علم السوائل / هندسة السوائل
+hydrodynamic instability	عدم اسقرار التحريك المائي (ن)
+hydrodynamics	تحريكيات السوائل / علم تحريك السوائل
+hydrogen	الهدروجين
+hydrogen atom	ذرة الهيدروجين (ن) / ذرة الهدروجين
+hydrogen bomb (H-bomb)	قنبلة هدروجينية
+hydrogen bond	رابطة هدروجنية
+hydrogen electrode	مسرى هيدروجين
+hydrogen ion concentration	تركيز أيون الهيدروجين
+hydrogen scale	سلّم هيدروجيني
+hydrogen-like atom	ذرة شبيهة بالهدروجين
+hydrogen-like ion	أيون شبيه بالهدروجين
+hydrogenation	هدرجة
+hydrometer	مكثاف / مقياس كثافة السوائل
+hydrostatic balance	ميزان مائي سكوني
+hydrostatic bellow	منفاخ مائي
+hydrostatic pressure	ضغط السائل السكوني
+hydrostatics	سكونيات السوائل / علم توازن السوائل
+hygristor	هيغرستور
+hygrograph	مسجل الرطوبة
+hygrometer	مرطبات / مقياس الرطوبة
+hygrometry	قياس الرطوبة
+hygroscope	مكشاف الرطوبة
+hyperbola	قطع زائد
+hyperbolic cosine function	تجيب قطعي
+hypercharge	شحنة مُفرِطة
+hyperconjugation	فرط الترافق
+hyperfine spectrum	طيف مفرط الدقة
+hyperfine structure	بنية مفرطة الدقة / بِنية مفرطة الدقة
+hypermetropia	مد البصـر
+hypermetropia; hyperopia	بعد نظرٍ
+hyperon	هيبرون
+hyperopia	مد البصـر
+hypersonic	فرط صوتي
+hypersonic speed	سـرعة فَرْطُ الصوتية
+hypocycloid	دحروج داخلي
+hypocycloïd	دحروج داخلي
+hypotenuse	وتر: في مثلث قائم الزاوية
+hypothesis	فرضية
+hypsometer	مقياس غلياني / مقياس المنسوب
+hysteresis	تخلف / بِطاء
+hysteresis (dielectric..)	تخلف العازل الاستقطابي
+hysteresis energy	طاقة التخلف
+hysteresis loss	فقدان تخلّفي
+hélioscope	مرقاب الشمس

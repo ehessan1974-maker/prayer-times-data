@@ -1,0 +1,2389 @@
+N (abbrev. for normal)	عِياريّ (التركيز)
+N (nitrogen)	ن
+N,N'-carbonyldiimidazole	N-Nثنائي إيميدازول الكربونيل
+N,N'-dibenzylethylenediamine	N،N' ثُنائي - البنزيل أيتيلين ثنائي - الأمين
+N,N'-diphenylthiourea	ثنائي بكريل الأَثيو
+N,N-dimethylaniline	N-N ثنائي متيل الأنيلين
+N,N-dimethylformamide	N, N ثنائي متيل أميد النمل
+N- terminal end	طرف (ال...) النهائيّ N
+N-(3-chloro-4-methylphenyl)-N-dimethylurea	chlorotoluron
+N-acetylethanolamine	N-أستيل اتانول الأمين
+N-acetylhomocysteinethiolactone	N-آستيل هوموسيتئين تيولاكتون
+N-acetylsulfanilyl chloride	كلوريد N- أستيل السلفانيليل
+n-amylamine	أميل أمين
+n-ary composition	تَرْكيبٌ نونِيّ
+n-ary tree	شَجَرةٌ نونِيَّة
+N-benzyl-N-(3,4-dichlorophenyl)-N,N'-dimethylurea	N-بنزيل -N-(4,3 ثنائي كلوروفينيل )
+N-bromoacetamide	N-بروم أميد الخل
+N-bromosuccinimide	N - بروم سكسين الإيميد
+N-butyl-N-ethyl-α,α,α-trifluoro-2,6-dinitro,-para-toluidine	N- بوتيل -N-a, a-a ثلاثي فلورو-2,6-ثنائي نترو -بارا-التولويدين
+n-butyl-para-aminobenzoate	N- بوتيل - بارا - أمنيو بنزوات
+n-butylamine	N- بوتيل الأمين
+n-butyric acid	butyric acid
+n-cell	خَلِيَّةٌ نونِيَّة
+N-chlorosuccinimide	N - كلورإيميد الكهرياء
+n-colorable graph	بَيانٌ نونِيُّ التَّلْوين
+n-connected graph	بَيانٌ نونِيُّ التَّرابُط
+n-dimensional space	فَضاءٌ نونِيُّ الأَبْعاد
+N-dimethylcyclohexanethylamine	propylhexedrine
+N-electron	إلِكترون «ن»
+N-Gram	ن-وحدة
+N-Grams	سلسلة عناصر لغوية بطول N
+n-layer = N-zone	طبَقةٌ سَلْبيَّةُ النَّمط
+n-level address	عنوان من المستوى n
+n-n junction	مَوصِل س - س
+n-net	شَبَكةٌ نونِيَّة
+n-p junction	مَوْصِل س-م
+n-p-n transistor	ترانزستور س-م-س
+N-Sec-butyl-4-tert-butyl-2,6-dinitroaniline	N- ثانوي البوتيل- 4- ثالثي البوتيل 2, 6 - ثنائينترو الأنيلين
+N-shell	الغِلافُ الإلِكترونيّ الرابِع
+n-space	فَضاءٌ نونِيّ
+n-sphere	كُرةٌ نونِيَّة
+n-tuple set	مَجْموعةٌ نونِيَّة
+n-type conduction	تَوصيلُ النَّمَط س
+n-type crystal rectifier	مُقَوِّمٌ بِلَّوريّ سالِبيُّ النَّمَط
+n-type semiconductor	شِبْهُ مُوَصِّلٍ سالِبُ النَّمَط
+N-zone = n-layer	نِطاقٌ سَلْبيُّ النَّمَط
+Na (natrium = sodium)	ص
+nab	مَصَدُّ لِسان القُفْل
+nabam	نابام
+nabla	نَبْلا / نابْلا
+nabla squared	مُرَبَّعُ نابْلا
+nacelle	كِنَّة، قَمْرَة، مَقصُورة؛ سَلَّةُ أو باسِنةُ المُنطاد
+nacelle strut	دِعامةُ الباسِنة، دِعامةُ كِنَّةِ المحرِّك
+nacelle, engine	كِنَّةُ المُحَرِّك، مَقْصورةُ المُحَرِّك
+nacre	صَدف، عرق اللؤلؤ / طبقة داخلة قاسية في صدف الرخويات
+nacre = mother of pearl	عِرْقُ اللؤلؤ
+nacreous	صَدَفِيّ، لُؤلُؤي البَريق / لؤلؤي، صدفي / لؤلؤي
+nacreous clouds	سُحُبٌ صَدَفيَّة / سُحُبٌ صَدَفِيّة
+nacrite	ناكريت
+nadir	النَّظير، نَظيرُ السّمت، الحَضيض / نظير (ال...)، سمت الرجل / نظير / نظير(ال..)
+nadir ground	نظير أرضي
+nadir map	نظير الخريطة
+nadir photograph	نظير الصورة
+nadir radial	نظير شعاعي
+nadir; nadir point	نظير
+naep tide	جزر محاقي، جزر جزئي / جزر محاقي أو جزئي
+nagana	مرض النوم
+nagging piece	مُناكِدة
+naiad	عروس الماء
+naiades	فصيلة غديرية
+nail	مِسمار؛ ظُفر؛ سَمَّرَ، ثَبَّتَ بمِسمار، دَسَرَ / ظفر
+nail adze	قَدوم بِخَلاّعة مَسامير
+nail bit	مِثقَبُ تَسْمير
+nail claw	كَمّاشة، كُلاّبةُ مَسامير
+nail extractor	كَمّاشة، كُلاّبة مَسامير
+nail fastener	مُسَمِّرة
+nail hammer	مِطرَقة مِخلبِيَّة
+nail magazine	خُرطوشة (أو خَزْنَة) مَسمرة
+nail plate	صَفيحة (وَصْلٍ) مِسْماريَّة
+nail point	مُستدَقُّ المسمار
+nail puller	كُلاّبةُ مَسامير
+nail punch = nail set	سُنْبُك، مِدْسَرةُ مَسامير
+nail shank	جِذع (أو ساقُ) المسمار
+nail, casing	مِسمارُ أُطُرٍ غَليظ
+nail, cut	مِسمارٌ مُستَطيلُ المقطع
+nail, finishing	مِسمارُ أُطُرٍ رَفيع
+nail, horse-shoe	مِسمارٌ نِضْوِيّ
+nail, staging	مِسمارُ سِقالةٍ ذو رأسَيْن
+nail, wire	مِسمارُ إبْرة
+nail-headed	مِسماريُّ الرأس
+nailable	اِنسِماريّ، يُسَمَّر
+nailable concrete	خَرَسانةٌ اِنسِماريَّة
+nailer	صانِعُ المَسامير، مَكَنةُ صُنع المسامير؛ مُسمِّرة، دَقَّاقةُ مسامير
+nailer, manual	مُسَمِّرة يَدوية
+nailhead	رأسُ المِسمار
+nailing	تَسْمير؛ مَسامير
+Naive	بريء،ساذج
+Naive Bayes Classifier	مُصنِّف بايز البسيط
+Naive Semantics	دلالات بسيطة
+naive set theory	النَّظَرِيَّةُ الحَدْسِيَّةُ للمَجْموعات
+naja; cobra	كوبرا
+NaK	سبيكةُ الصوديوم والبوتاسيوم / إشعار سلبي (بعدم القبول)
+Nakayama's lemma	تَوْطِئةُ ناكاياما
+naked cable	كَبْلٌ عارٍ
+naked eye	العَيْنُ المُجرَّدة
+naked flame	لَهَبٌ مَكْشوف
+naked light	ضَوءٌ مَكشوف
+naked-light mine	مَنْجَمٌ مَكْشوفُ المَصابيح
+name	اِسم؛ شُهْرة؛ سَمَّى؛ عَيَّنَ، حَدَّد / اسم
+Name Binding Protocol	ميفاق إيثاق الأسماء
+Name entity phrase	عبارة دالة على كينونة
+Name resolution	تمييز الاسم
+name server	مُخَدِّم أسماء
+name table = symbol table	جدولُ التّسميات
+Named	مسمى
+named anchor	مرساة مُسمَّاة
+Named entity	كينونة مسماة
+Named entity Classification (NEC)	تصنيف الكينونات المسماة
+Named Entity Detection (NED)	تمييز الكينونات المسماة
+Named entity recognition	الكشف عن اسماء الأشياء
+Named pipe	أنبوبة اتصال مسماة
+named target	هدف مُسمَّى
+Named-Entity Recognition (NER)	تعرُّف على الكيانات المُسمّاة
+nameplate	لَوحةُ الاسم، لَوحةُ الهُوِيَّة / لوحة بيان
+Names	أسماء
+Namespace	مساحة الاسم
+NAMPS	خدمة هاتف نقّال تماثلي ضيّق الحزمة
+NaN Trap	فخ القيم غير العددية
+nan(n)oplankton	عَوالِقُ مِجْهَريَّة
+NAND	لا – وَ
+NAND (circuit)	دارةُ «لا - و»
+NAND gate	بَوّابةُ «لا - و»
+nanism	قَزَميَّة، قَزامة، قماءَة، تقَزُّم
+nannofossils	مستحاثات جهارية، أحافير جهارية / مستحاثات (ال..) الجهارية، الأحافير الجهارية
+nano	نانو
+nano-	بادِئة بمعنى: جُزء من ألفِ مليون (= 10⁻⁹)؛ سابِقة بمعنى: قَزَميّ، دَقيق، مِجْهَريّ / نانو
+Nanocomputer	نانو حاسب آلى
+nanogram	نانوغرام
+nanometre	نانومتر / نانو متر
+nanoplankton	عَوالقُ دِقِّية، عوالقُ مِجهرية
+nanosecond	نانُوثانِيَة / نانو ثانية / نَانُوثَانِيَة
+nanotechnology	التِّقانة الدِّقِّية / تقنية النانو
+nap	زِئبِر، زَغَب؛ قَيلُولة / نقطة ارتباط وطنية
+Nap(i)erian logarithms = natural logarithms	اللُّوغاريتمات الناپيرِيَّة أو الطبيعيَّة
+napalm (naphthenic & palmitic acids)	ناپالْم
+Naperian logarithm	لُغارِتْمٌ نِيپَرِيّ
+naphta	نِفْط / نفط / نفتا، نفط
+naphta (mineral ... or native naphta)	نِفط طبيعي، نفط خفيف
+naphta (mineral naphta or native naphta)	قديما كا يقصد بها البترول الطبيعي حاليا يقصد بها المشتقات النفطية الخفيفة (درجة تبخرها دون 260 درجة)
+naphtha	نَفْتا، نَفْطَة / النفتا
+naphtha furnace	فُرْنُ النَّفْتا
+naphtha reforming	تَهْذيبُ النفتا
+naphtha stabilizing unit	وَحدَةُ تَرْكيز النفتا
+naphtha-lean oil exchanger	مُبدِّل الحَرارة بينَ النفتا وزيتِ الامتِصاص
+naphthalene	نَفْثالين
+naphthene	نَفْثين
+naphthene base crude	نفطٌ خام نَفثينيُّ الأساس
+naphthene series	النفثينات
+naphthenic acid	حامِضُ النَّفثين
+naphthenic hydrocarbons	هِدْروكَربونات نَفْثينيَّة
+naphthol	نَفثُول
+naphthology	عِلْمُ النَّفْط
+naphtology	دراسة خام النفط ومشتقاته / دراسة خام البترول ومشتقاته
+Napier's analogies	مُشابِهاتُ نِيپَر
+Napier's bones	قُضْبانُ نِيپَر
+Napier's constant	ثابِتةُ نِيپَر
+Napier's inequality	مُتَراجِحةُ نِيپَر
+Napier, John	جون نِيپَر
+Napierian logarithm	لوغاريتم نيبري، لوغاريتم طبيعي / لُغارِتْمٌ نِيپَرِيّ
+Napierian logarithms	لوغاريتمات نيبر
+napiform; napaceous	لفتي
+napkin	فُوطة، مِنديل
+nappe	فَرْعُ مَخروط (مَشطورٌ رأسيًّا)؛ سُمْكُ الماء؛ طيَّة (صخريَّة) مُغترِبة
+nappes	فَرْعا مَخْروط / صخور مغتربة
+narcotic	مُخَدِّر، مادة مخدِّرة؛ مُخَدِّر، تَخْديريّ
+nard	ناردين
+naris (pl. nares)	مَنْخِر، مِنْخَر
+narrate	قَصَّ، رَوَى
+narrative model	نموذج سَرْدي
+narrow	ضيِّق / ضَيِّق / ضيق
+Narrow Artificial Intelligence (NAI)	ذكاء اصطناعي ضيق
+narrow band filter	مرشح النطاق الضيق
+narrow beam radiogoniometer	مِقياسٌ راديَويّ لِلزَّوايا ضَيّق القطاع
+narrow channel	قناة ضيقة
+narrow gauge	سِكةٌ حَديديَّة ضَيِّقة (أضيقُ من 143.51 سم)
+narrow majority	أكثرَيَّة ضَئيلة
+narrow pass	مَجْرَى، ممر ضَيِّق / مجرى، ممر ضيق
+narrow SCSI	SCSI ضيّق
+narrow sense heritability	توريث بمعناه الضيق
+narrow waters	طرق مائية ضيقة
+narrow-angle lens	عَدَسةٌ ضَيِّقةُ المَجال
+narrow-base tower	بُرْجٌ ضيِّق القاعِدة
+narrow-gauge film	فِلمٌ ضيِّق القياس
+narrowband	حزمة ضيقة
+narrowband amplifier	مُضخِّمٌ ضيِّقُ النِّطاق
+narrowing	تَضْييق، تَضيُّق / تضييق
+narrowing cutter	مِقطعُ تَضْييق
+narrowing of valley	اختناق الوادي، تضيُّق الوادي
+narrowing of vally	اختناق الوادي، تضيق الوادي
+narrows	مَجازٌ ضيِّق، مَضِيق
+narwhale	كركدن البحر
+NASA (National Aeronautics and Space Administration)	ناسا
+nasal	أنْفِيّ / أنفي
+nascent	حَديثُ التوَلُّد، وَليد
+nascent polypeptide chain	سلسلة عديدة الببتيدات الوليدة
+nascent RNA	رنا وليد
+nascent state	حالةُ (حَداثة) التوَلُّد
+nasenerry-tree	سبوتة
+nastic movement	حَرَكةٌ ضِغاطيَّة
+nasturtium	قرة العين، حرف
+NAT	ترجمة عنوان الشبكة
+natal	وِلاديّ؛ ألْيوَي
+natality rate	نِسْبةُ المَواليد (في مَجموعةٍ سُكّانيَّة)
+natamycin = pimaricin	ناتامَيْسين، پيماريسين
+natant	عائم، طافٍ (فوق الماء)
+natatorial	عَوّام، سابِح؛ سِباحيّ
+natatorial leg	رجل العوم
+national	وطَنِيّ، قَوميّ
+National Address	العنوان الوطني
+National Attachment Point	نقطة ارتباط وطنية
+National Bureau of Standards	المكتَبُ القَوميّ للمقاييسِ العياريَّة
+National Center for Supercomputing Applications	المركز الوطني لتطبيقات الحوسبة الفائقة
+national coastal trade	تجارة ساحلية وطنية
+national colours	علم وطني
+National Exports	الصادرات الوطنية
+National Female Labor Force Participation Rate	معدل مشاركة المرأة المواطنة في قوة العمل
+national income	الدَّخْلُ القَومي / الدخل القومي
+National Information Infrastructure	البنية القاعدية الوطنية للمعلومات
+National Internet Bandwidth in Megabit/Second	عرض نطاق الإنترنت الوطنية، بوحدة ميغابت/ثانية
+national park	حَديقةٌ قَوميَّة طَبيعيَّة
+national standard barometer	مقياسُ الضَّغْطِ الجَوّيّ المِعْياريّ الوَطَنيّ
+National Television System Committee	اللجنة الوطنية لنظام التلفزة
+National Tourism	السياحة الوطنية
+national waters	المِياهُ الإقليميَّة / مياه إقليمية
+nationality	جِنسِيَّة، قَومِيَّة / الجنسيـــة
+nationalization	تأميم
+nationalize	أمَّمَ
+native	طَبيعيّ، فِطْريّ؛ أهليّ، بَلَديّ؛ طَبيعيّ، طَبيع؛ أصيل، أصْليّ، مَحَلِّيُّ النَّشأة؛ مُواطِن، قاطِن / أصيل / خالِص، صِرْف / خالص، صرف
+native amalgam	مُلْغَم طَبيعيّ
+native application	تطبيق أصيل
+native asphalt	أسفَلْت طبيعي
+native code	رماز أصيل
+native compiler	مصرِّف أصيل / مجمع فطرى
+native file format	مصاغة ملف أصيلة
+native language	لغة أصيلة
+native metal	فِلِزٌّ طَبيعي
+native paraffin	الشمْعُ الطبيعي، شَمْع مَعدِني، أوزوكِرَيت
+native rock	الصَّخْرُ المُكْتَنِف
+native salt	ملح طبيعي، هاليت / ملح طبيعي هاليت
+native sulphur	الكِبريت الطبيعي
+natrium	صوديوم
+natrium = sodium (Na)	النَّطريُوم، الصُّوديوم
+natrolite	نَطرُوليت / ناتروليت
+natron	نَطرون / نطرون
+natural	طَبيعي، فِطْريّ؛ طبيعي
+natural (or Napierian) logarithms	اللُّوغاريتمات الطبيعيَّة
+natural acids	الحوامِضُ (العُضويَّةُ) الطبيعيَّة
+natural acquired immunity	مناعة طبيعية مكتسبة
+natural ag(e)ing = age hardening	تَعْتيقٌ طَبيعيّ، تَقْسِيةٌ طَبيعيَّة
+Natural and Cultural Landscape	المناظر الطبيعية والثقافية
+natural arch = natural bridge	قَنطرة طبيعية
+natural asphalt	أسفَلْتٌ طَبيعيّ
+natural bed	مَرْبِضٌ طَبيعيّ
+natural boundary	حُدودٌ طَبيعِيَّة
+natural bridge	جِسرٌ طَبيعي
+natural brine	ماء مالح طبيعي
+natural cement	إسمَنْت طَبيعي، مِلاطٌ طبيعيّ
+natural circulation	دَوَرانٌ طَبيعيّ (بالحَمْلِ الحَراريّ في التدفِئةِ أو التبريد)
+natural classification	تَقْسيم طَبيعي / تصنيف طبيعي
+natural convection	نقل حراري طبيعي، حمل حراري طبيعي / نقل أو حمل حراري طبيعي
+natural cooling	تَبْريد طَبيعي
+natural crystal	بِلَّورة مَعدِنية (موصِّلة للتيّار في اتِّجاه واحِد)
+Natural deduction	حسم طبيعى
+natural density	كثافة عامة
+natural drainage	الصَّرف الطبيعي
+natural draught	سَحْبٌ طبيعيّ (في المداخِن)
+natural draught cooling tower	بُرْجُ تَبْريد بالسَّحْب الطبيعيّ
+natural earth currents	تيّاراتٌ أرضيَّة طَبيعيَّة
+natural equations of a curve	المُعادَلَتانِ الطَّبيعِيَّتانِ لِمُنْحَنٍ
+natural evaporation	تبَخُّر طَبيعي
+natural flow	التدَفُّق الطبيعي
+natural foundation	أساسٌ طَبيعيّ
+natural frequency	ذَبْذَبةٌ طَبيعيَّة، ترَدُّد طبيعيّ (لجِسْم حُرّ)
+natural frequency of antenna	الذبذبةُ الطبيعيَّة لِلهَوائي
+natural function	دالَّةٌ طَبيعِيَّة
+natural gas	الغازُ الطبيعي / الغاز الطبيعي
+natural gas deposit	مَكْمَن غاز طبيعي / مكمن غاز طبيعي
+Natural Gas Liquids (NGLs)	سوائل الغاز الطبيعي
+natural gas well	بِئرُ الغاز الطبيعي
+natural gasoline	غازولين طَبيعيّ، البِنزينُ الطبيعيّ (مِن الغاز)
+natural gasoline plant	وَحْدَةُ فَصْل البِنزين الطبيعي (من الغاز)
+natural glass	زُجاجٌ طَبيعي
+natural graphite	غرافيت طبيعي
+natural graphite brush	فِرْجَون غرافيتٍ طَبيعي
+Natural Growth of Non-timber Biological Resources	النمو الطبيعي للموارد البيولوجية غير المفتلحة
+natural harbour	مِيناءٌ طَبيعي / مرفأ طبيعي
+Natural Heritage	التراث الطبيعي
+natural history	التاريخُ الطبيعي
+natural horizon	الأُفُق الطبيعي أو الجُغْرافي
+natural immunity	مَناعَة طَبيعيَّة / مناعة طبيعية
+natural increase	زِيادةٌ طَبيعيَّة / تزايد طبيعي
+Natural Increase Rate	معدل الزيادة الطبيعية
+natural language	لُغة طبيعية / لغة طبيعية
+Natural language analyzer	محلل اللغة الطبيعية
+Natural Language Generation (NLG)	توليد اللغات الطبيعية
+Natural language processing	معالجة لغة طبيعية
+Natural Language Processing (NLP)	معالجة اللغات الطبيعية
+Natural language processing applications	تطبيقات معالجة اللغة الطبيعية
+natural language query	استفسار باللغة الطبيعية
+Natural Language Query (NLQ)	استعلام باللغة الطبيعية
+Natural Language Support	تقَبُّل اللغة الطبيعية
+Natural Language Understanding (NLU)	فهم اللغات الطبيعية
+natural law	قانون طَبيعي
+natural lighting	إنارة طَبيعية
+natural load	حِمْلُ المُعاوَقة الطبيعي
+natural logarithm	لوغاريتم طبيعي / لُغارِتْمٌ طَبيعِيّ
+natural magnet = lodestone	مِغنَطيسٌ طَبيعي، حَجَرُ المِغنَطيس، مَغنيطٌ طَبيعيّ
+natural manure	سماد طبيعي
+natural mating	تزاوج طبيعيّ
+natural mode	نَسَقُ الذبذبةِ الطبيعية (للهَوائي)
+natural mutation; spontaneous mutation	طفرة طبيعية، طفرة تلقائية
+natural number	عدد طبيعي / رقم طبيعى / عَدَدٌ طَبيعِيّ
+natural numbers	الأعدادُ الطبيعية
+natural oil	الزيتُ الطبيعي، النّفْطُ الخام / نِفط خام / بترول خام
+natural order	رتبة طبيعية
+natural oscillation	ذَبْذَبة طَبيعية
+natural outlet	مَخْرَج طَبيعي
+natural period	الفَتْرة الطبيعيَّة، فَتْرة الذبذبة الطبيعية
+natural philosophy	الفَلْسفة الطبيعية، عِلْم الفيزياء، (الطبيعيّات)
+natural pollutants	مُلَوِّثاتٌ طَبيعيَّة
+natural products	مُنتَجات طَبيعية
+natural radioactivity	فاعِليَّة إشعاعيَّة طَبيعيَّة / نشاطٌ إشْعاعِيٌّ طبيعيّ
+natural rectifier	مُقَوِّمٌ (مَعدِنيٌّ) طَبيعي
+natural resonance	رَنينٌ طَبيعيّ
+natural resources	الموارِدُ الطبيعية
+natural rubber	مَطّاط طَبيعي
+natural scale	السُّلَّم (الموسيقيُّ) الطبيعي؛ مِقياسُ رسمٍ طبيعي
+natural sciences	العُلوم الطبيعية / علوم طبيعية
+natural seasoning	تَجْفيف (الخشبِ) بالعَواملِ الطبيعية
+natural selection	الانتِخابُ الطبيعي، الاِنتِقاءُ الطبيعيّ، بَقاءُ الأصلح / انتقاء طبيعي / انتخاب طبيعيّ
+natural service	سِفاد طبيعيّ
+natural size	قِياسٌ أو حَجمٌ طبيعي
+natural slope	الحُدورُ الطبيعي
+natural soil	تُرْبَة طَبيعية
+natural state	الحالةُ الطبيعية
+natural stone	حَجَرُ بِناء طبيعيٌّ
+natural synoptic period	فَتْرَةٌ إحداقِيَّة طَبيعيَّة
+natural synoptic region	إقليم إحداقي طبيعي
+natural synoptic season	فَصْلٌ إحْداقِيٌّ طَبِيعِيّ
+natural trigonometric ratios	النِّسَبُ المُثَلَّثِيَّة الطبيعيَّة
+natural uranium reactor	مُفاعِلُ اليورانيُوم الطبيعيّ
+natural variation	تباين طبيعيّ
+natural ventilation	تَهْوية طَبيعية
+natural vibration	اِهتِزازٌ طَبيعي
+natural wavelength	الطولُ المَوجي الطبيعي
+natural wavelength of antenna	الطُّولُ المَوجِي الطبيعي لِلهَوائي
+natural whole number	عدد صحيح طبيعي
+natural-language processing	معالجة اللغات الطبيعية
+natural-language recognition	تعرّف اللغات الطبيعية
+naturalist	متخصص في العلوم الطبيعيةة
+naturalize	جَنَّسَ؛ أقْلَمَ، طَبَّعَ
+naturalized	مُجَنَّس
+naturally seasoned	مُجَفَّفٌ طَبيعيًّا
+nature	الطبيعة؛ طَبيعة، فِطْرة، جَوهَر / طبيعة
+nature conservation	حِمايةُ الطبيعة، صِيانةُ البِيئَة الطبيعيَّة
+naturel selection	انتخاب طبيعي
+naught	لا شَيء، صِفْر
+naught; nought	صفر
+naulage	نَوْل، نَوْلون
+nausea	غَثَيان
+nauseant	مُغْثٍ
+nautical	بَحْريّ، مِلاحيّ
+nautical (or geographical) mile	مِيلٌ بَحْري
+nautical almanac	تَقْويمٌ بَحريّ
+nautical astronomy	عِلمُ الفلَك المِلاحي / ملاحة فلكية
+nautical calculations	حسابات ملاحية
+nautical chart	خَريطةٌ مِلاحيَّة / خريطة بحرية / خريطة بحرية، خريطة ملاحية / خريطة الملاحة البحرية
+nautical fault	خطأ ملاحي
+nautical league	فَرسَخٌ بَحريّ
+nautical log	جِهاز لقياسِ سُرعةِ السفن
+nautical mile	ميل بحري
+nautical twilight	شفَقٌ بَحْريّ / شَفَقٌ مِلاحِيّ
+Nautilus	نوتيلاس
+naval	بَحْريّ
+naval aeronautics	عِلْم الطيَران البَحْري
+naval architect	مهندس بناء سفن
+naval architecture	هَنْدَسةُ بناءِ السفن
+naval base	قاعِدةٌ بَحْريَّة
+naval brass	صُفْر بَحْريّ، النُّحاس الأصفَر البَحري (يحتَوي على جُزء بالمِئة من القَصْدير)
+naval construction	إنشاءٌ بَحْري
+naval fleet	أسطول بحري (حربي)
+naval observatory	مَرْصَدٌ بَحْريّ
+navar (navigation and ranging)	ناڤار
+navarho (navigation aid rho)	ناڤارو
+nave	صُرّة العَجَلة، قَبُّ الدولاب
+nave box	صُندوقُ قَبِّ الدولاب
+navel	سُرَّة؛ وَسَط، مَركَز
+navel point	نُقْطةٌ سُرِّيَّة (نُقْطةٌ وُسْطَى)
+navel-orange	برتقال نافيل
+navicular	زَوْرَقيُّ الشَّكْل
+navicular bone	عظم زورقي
+navigability	إمكانية الملاحة
+navigable	صالِحٌ لِلمِلاحة / صالح للملاحة
+navigable river	نهر صالح للملاحة
+navigable semicircle	نِصفُ الدائِرة المِلاحيَّة / نصف دائرة صالِحٌ للْمِلاَحة
+navigable speed	سرعة صالحة للملاحة
+navigable water	مياه صالحة للملاحة
+navigate	أبْحَرَ، قادَ (سَفينةً أو طائرةً مُستَعينًا بآلاتٍ مِلاحيَّة خاصَّة) / ملاحة
+Navigating	يبحر
+navigation	مِلاحة / تصفح / ملاحة
+navigation aid	مساعدة ملاحية
+navigation ballast	إبحار على الصهاريج
+navigation bar	شريط الملاحة
+navigation bridge	ممشى بحري، جسر بحري
+navigation chart	خريطة ملاحية
+navigation company	شركة ملاحية
+navigation in ice	ملاحة في مياه متجمدة
+Navigation key	زر الأبحار
+navigation keys	مفاتيح الملاحة
+navigation laws	قوانين الملاحة المحلية
+navigation light	ضوء الملاحة
+navigation lights	أضواءُ المِلاحة
+navigation log	سِجلُّ المِلاحة
+navigation mark	علامة الملاحة
+Navigation system	نظام التتبع
+navigation treaty	معاهدة ملاحية
+navigation under load	إبحار بشحنة
+navigation, aerial	المِلاحة الجَوِّيَّة
+navigation, celestial	الملاحة الفَلَكية
+navigation, radio	مِلاحة راديويَّة، المِلاحة اللاسِلكيَّة
+navigational aids	مُعِيناتٌ مِلاحيَّة
+navigational buoy	عوامة ملاحية
+navigational chart	خَريطة مِلاحيَّة
+navigational computer	حاسوبٌ مِلاحيّ؛ حاسِبَة مِلاحيَّة
+navigational grid	شَبَكة مِلاحيَّة
+navigational hazard	خطر ملاحي
+navigational planets	الكَواكِبُ المِلاحيَّة
+navigational satellite	ساتِلٌ مِلاحي
+navigational triangle	مثلث ملاحي (فلكي)
+navigational warning	إنذار ملاحي
+navigational watch	مناوبة ملاحية
+navigator	مَلاّح / ملاّح / مُبْحِر / ملاح / مَلاَّح
+navvy	عامِلٌ بسيط، عامِلُ حَفْر؛ مِجْرَفةٌ آليَّة
+navy	أُسطول، عَمَارة بَحْريَّة؛ قُوّاتٌ بَحْريَّة
+navy blue	أزرَقُ بَحْري
+navy yard	تَرَسَانة بَحْريَّة
+naze; ness	رأس
+Nb (niobium)	نب
+NB (nota bene)	مُلاحَظة، تَنْبيه
+NBP	ميفاق إيثاق الأسماء
+NC	حاسوب شبكي
+NCR (No Carbon Required)	ورقُ استنساخٍ لاكربونيّ
+NCR paper	ورق ذاتي النسْخ
+NCSA	1 المركز الوطني لتطبيقات الحوسبة الفائقة ؛ 2 الرابطة الوطنية لأمن الحاسوب
+NCSA server	مخدّم NCSA
+Nd (neodymium)	مم
+NDMP	ميفاق شبكي لإدارة المعطيات
+NDR	قراءة لاإتلافية
+NDRO	قراءة لاإتلافيّة
+Ne (neon)	نن
+neap	مد قصير
+neap = neap tide	مَدٌّ تَرْبيعيّ، مَدٌّ أو جَزْرٌ ناقِص
+neap tide	جزر تام
+neapolitan medlar-tree	زعرور
+near	قَريب، مُجاوِر؛ قَريبٌ من الأصْل؛ دَنا، اِقتَرَبَ مِن، قارَبَ
+near field	مَجال (أو مدًى) قريب؛ حَقل (أو مجالٌ كهرمغنيطي) قريب
+near gale	رياح رادة
+near infrared	تحت الحمراء القريبة
+near letter quality (NLQ)	جَوْدَةُ طَبْعٍ بَرِيدِيّ
+near point	النُّقطة القريبَة، النقطة الدنيا (للرؤية الواضِحة)
+near ring	شِبْهُ حَلَقة
+near space	الفضاء القريب
+near-letter-quality	نوعية [طباعة] جيدة
+Near-line Storage	تخزين شبه المتصل
+near-shore waters	مياه شاطئية
+near-sighted	حَسير، أخْفَشُ
+Nearctic region	مِنطقَة (حيَوانات) شَمالي العالَم الجَديد
+nearest neighbour	الذرَّةُ الأَقربُ في النَّسَق البِلَّوري
+nearest point	أقْرَبُ نُقْطة
+nearly isometric spaces	فَضاءانِ مُتَقايِسانِ تَقْريبًا
+nearside	الجانب القريب
+nearsightedness = myopia	حَسَر، قِصَرُ النّظَر، خَفَش
+neat	نظيف؛ حسَنُ الصُّنع؛ نَقِيّ، صِرْفٌ؛ مُحَدَّدٌ بدِقَّة؛ صافٍ
+neat fluid	مائع خالٍ من الماء
+neat line	خَطٌّ مُحَدَّد
+neat lines	حُدودُ الحَفْر المَأجور؛ حدودُ البِناء الخارِجيّ
+Neat’s-foot oil	زيتُ الحوافِر
+nebula	سديم / سديم، غيمة
+nebula (pl. nebulae)	سَدِيم، غَيْمة سَديميَّة (بين النُّجوم)؛ سَحابةُ القَرْنيَّة
+nebular hypothesis	الفَرْضيَّة السَّديميَّة / فرضِية (ال..) السديمية / فرضة (ال..) السدمية
+nebule	سديم
+nebulize	يُرَذِّذ
+nebulizer	مِذَرَّة، مِرَشَّة، مِرَذَّة
+nebulosity	السَّديميَّة؛ ضبابيِّة، تَغَيُّم / ضبابة، غموض
+nebulosus ((neb))	سَدِيمِيّ
+nebulous	سَديميّ؛ غامِض
+necessaries	ضَرورِيّات، لَوازِم
+necessary	ضَروريّ، واجِبُ الوجود
+necessary and sufficient	لازم وكافٍ
+necessary condition	شَرْطٌ لازِم
+necessitate	أوجَبَ، اِستَلْزَم، اِقتَضى
+necessity	ضَرورة، حاجَة؛ اِقتِضاء، اِضطرار
+neck	عُنُق، رَقبَة؛ جزءٌ مُخَصَّر؛ قَصَبة (البُركان)؛ بَرْزَخ؛ ضاقَ، تخَصَّرَ، خَصَّرَ (بالشدّ) / عُنُق / حزة / عنق
+neck (volcanic)	عنق البركان
+neck (volcanic...)	عُنُق البركان
+neck cells	خلايا عنقية
+neck of land	برزخ
+neck, fishing	ذِراعُ التِقاطٍ مُخَصَّر
+neck, volcanic	عُنُق بُركانيّ
+neck-canal cell	خلية قنوية عنقية
+necking	تَخْصير، تخَصُّر (الفِلِزِّ المَطيل بعدَ الشَّدّ)؛ تضَيُّق، تَضْييق / تضييق، اختناق
+necleolus; nucleole	نوية
+necrophagous	آكلة الجيف
+necrophore	دافنة
+necrosis	نَخَر / نخر
+nectar	رَحِيق، مِغْثِرُ الزَّهْر / رحيق
+nectar gland; nectary	غدة الرحيق
+nectariferous	رحيقية
+nectarine-tree	خوخ أملس
+nectarium	مرحقة
+nectary	غُدَّةُ المِغْثِر، مِغْثِريَّة
+nectary disc	قرص رحيقي
+necton	سوابع
+need	اِحتاجَ (إلى)؛ حاجَة، ضَرورة؛ ضِيق، شِدّة
+needle	إبْرة؛ مِسَلَّة؛ إبرة مغنطيسيَّة؛ دِعْمَةٌ أُفُقيَّة خِلاليَّة (عبرَ الجِدار)؛ وَرَقة إبريَّة / إبرة، مسلة / ابرة، مسلة
+needle (compass)	ابرة البوصلة، إبرة مغناطيسية
+needle (compass...)	إبرة البوصلة، إبرة مغنطيسية
+needle (ice)	إبرة جليدية
+needle (ice...)	إبرة جليدية
+needle beam	كَمَرة رَفيعة مُعترِضة (في أرضيَّة جِسْرٍ خَشَبيّ)
+needle bearing	مَحْمِل إبْريّ؛ اِتجاهُ الإبرة
+needle cast	تعر، انجراد
+needle file	مِبْرَدٌ إبرْي
+needle gap	فُرْجة إبْرِيَّة
+needle indicator	مُبَيِّنٌ ذو إبرة
+needle instrument	جهازُ قياسٍ ذو إبرة مِغنطيسيَّة
+needle ironstone	حجر الحديد الإبري / نوع من الجوتيت
+needle jet (or nozzle)	مِنفَثٌ إبريّ (للمُعايَرة)
+needle lubricator	مُزَيِّت إبري، مِزْيَتةٌ بإبرة
+needle nose lap joint pliers	زَرَدِيَّةٌ حادّة المِنْقارِ تراكبية الوصل
+needle nose pliers	زَرَديَّةٌ حادَّةُ المِنقار
+needle nozzle	فوهة إبرّية، مِنفَث إبريّ
+needle oil	زيتُ المَحاوِر الإبريَّة
+needle ore	خام حديد إبري / اكنيت
+needle point	سِنٌّ أو طَرَفٌ إبريّ
+needle problem	مَسْأَلةُ الإبْرة
+needle release lever	عَتَلةُ إعتاق الإبرة
+needle roller-bearing	مَحمِلُ أُسيطيناتٍ إبري
+needle scaffold	سِقالة إبريَّة
+needle scratch	خَدْشُ الإبرة، ضَجيجُ السَّطْح (في أُسطوانةٍ مُسَجَّلة)
+needle stone = rutilated quartz	مَرْوٌ مُتألِّق ذو شَوائبَ إبريَّة
+needle valve	صِمامٌ إبْري
+needle valve lubricator	مِزْيَتة بصِمَام إبريّ
+needle weir	هَدّارٌ مُقَدَّد
+needle wire	سِلْكُ إبريّ (لإخراجِ الفَقاقيع من المَصْبوبَة قبلَ تجَمُّدِها)
+needle zeolites	زيوليتات إبرية / زيوليتات ابرية
+needle, astatic	إبْرةٌ لاإستاتيَّة، إبرةٌ لااِتِّجاهيَّة
+needle, compass	إبرةُ البُوصَلة
+needle, dip	إبرةُ المَيْل المِغنطيسي
+needle, fuel regulating	إبرةُ (أو مِنقاطُ) تَعْيير الوَقود
+needle, magnetic	إبْرة مِغنَطيسيَّة
+needle-dial	مَدالَة إبريَّة
+needle-point gap	فُرْجَة بإبرَتَين
+needle-shaped	إبري / ابري
+needle-shaped crystals	بِلَّوراتٌ إبريَّة
+needles, upholsterer’s	إبَرُ المُنَجِّدين
+needling	تَدْعيمٌ بكَمَراتٍ رَفيعة؛ قَدْح
+negat(r)on = negative electron	نِڠاترون، نِڠاتون
+negater = negator	نافٍ، عُنصر أو بوابةُ لا
+negation	نفي / نَفْي
+negation of proposition	نفي القضية
+negative	سالِب، سَلْبيّ؛ عَكْسيّ؛ يَساريُّ الدوران؛ سالِبُ الشِّحنة؛ جنوبيُّ المغنطيسيَّة؛ سَلْبيَّة، صُورة سَلْبيَّة؛ أُحْفورةٌ سَلْبيَّة / سالب / سالبة
+negative (or reverse) feedback	تَغْذِيةٌ مُرتَدَّة سالِبة
+negative acceleration = deceleration	تَقاصُر، تَسارُعٌ عَكْسيٌّ أو سَلْبي
+negative acknowledgement	إِشْعَارٌ بِعَدَمِ تسلُّم
+Negative Acknowledgment	إشعار سلبي (بعدم القبول)
+negative adaptation	تكَيُّف سَلْبيّ
+negative adsorption	امتزاز سالب
+negative afterimage	صورة سالبة تِلْويَّة
+negative allowance	تسامُحٌ سَلْبِيّ
+negative angle	زاوية سالِبة (بينَ خَطٍّ وآخَر تحرَّكَ باتِّجاه ضِدّ اتجاه عَقْربِ الساعة) / زاوية سالبة / زاوِيةٌ سالِبة
+negative areas	رِقاعٌ سالِبة
+negative bath	مَغْطِسُ السَّلْبيّات
+negative bias	اِنحيازٌ سالِب
+negative binomial distribution	تَوْزيعٌ حَدَّانِيٌّ سالِب
+negative blower	مِنفاخ سافِط
+negative booster	مُعزِّزٌ سَلْبيّ
+negative buoyancy	الطَّفْوِيَّة السلبيَّة
+negative camber	اِحديدابٌ سَلْبي
+negative carbon	قضيبُ الكربونِ السالِب (في مِصباح قَوسيّ)
+negative catalysis	حَفْزٌ عكسيٌّ أو سَلْبي
+negative catalyst	حافِزٌ سَلْبي
+negative charge	شِحْنةٌ سالِبة
+Negative Class	صنف سلبي
+negative clearance	خُلُوص عَكْسيّ
+negative color	سالبة ملونة
+negative complementation	تتام سلبيّ
+negative conductance	مُواصَلَة سالِبة
+negative conductor	المُوصِلُ السالب
+negative correlation	ارْتِباطٌ سالِب
+negative crystals	بِلُّورات سالِبة / بلورات متكهفة
+negative definite matrix	مَصْفوفةٌ مُعَرَّفةٌ سالِبة
+negative dilation	تَمَدُّدٌ سالِب؛ تَقَلُّص، تَضَيُّق، اِنكِماش
+negative direction	اِتجاهٌ مُعاكِس / اتِّجاهٌ سالِب
+negative electricity	الكَهربائيةُ السّالِبة
+negative electrode	إلِكترودٌ سالِب، مَهْبِط، كاثود
+negative electron	إلِكترون، كُهَيْرِبٌ سالِب
+negative entry	إدخال الإشارة السالبة
+negative eyepiece	عَيْنيَّة مُقَعَّرة
+negative feeder = return feeder	مُغَذٍّ سالِب، مُغَذٍّ عائِد
+negative g	جاذِبيَّة سَلْبيَّة
+negative glow	التوَهُّج السالِب
+negative group	شِقٌّ (حامِضيٌّ) سالِب
+negative heat of formation	حَرارةُ تَكْوينٍ سالِبة
+negative image	صورة سَلْبيَّة
+negative impedance	مُعاوَقة سَلْبيَّة
+negative impedance amplifier	مُضَخِّمٌ سَلْبيُّ المُعاوَقة
+negative inside lap	تراكُبٌ داخِليٌّ سَلْبي
+negative integer	عَدَدٌ صَحيحٌ سالِب
+negative interference	تداخُل سلبيّ
+negative ion = anion	أنَيُون، أيونٌ سالِبُ الشِّحْنة، شارِدةٌ سالِبةُ الشِّحْنة
+negative lap	تَراكُب سَلْبي
+negative lead	السَّبْقُ السلْبيّ
+negative lens	عدَسةٌ سالِبة، عدَسة مقَعَّرة
+negative lens; diverging lens	عدسة سالبة
+negative meniscus lens	عدسة هلاليّة سالبة
+negative mineral	مَعدِنٌ سالِب (مُزدَوِجُ الانكسار)
+negative modulation	التضمينُ السَّلبي
+negative moment	عَزْمٌ سالِب
+negative number	عدد سالب / عَدَدٌ سالِب
+negative outside lap	تراكُبٌ خارِجي سَلْبي
+negative part	الجُزْءُ السَّالِب
+negative pedal curve	مُنْحَنٍ قَدَمِيٌّ سالِب
+negative phase	طَورٌ سالِب، طورٌ سَلْبيّ / طور سلبي
+negative phase-sequence	تتابُعٌ طَوريٌّ سالِب
+negative plate	صَفيحةٌ سالِبة
+negative pole	قُطْبٌ سالِب؛ قُطْبٌ جَنُوبي
+negative potential	جُهْدٌ كَهربائي سالِب
+Negative Predictive Value (NPV)	قيمة تنبؤية سلبية
+negative pressure	ضَغْط عَكسيّ؛ ضَغْطٌ سالِب
+negative proton = antiproton	پروتُون سالِب، مُضادُّ الپروتون
+negative quantity	كمِّيَّة سالِبة / كمية سالبة
+negative reaction	ردُّ فِعْل عَكْسي
+negative resistance	مُقاوَمة سالِبة
+negative scanning	مَسحُ السَّلبيَّة
+negative segregation	عَزْل عَكْسي
+negative semidefinite matrix	مَصْفوفةٌ نِصْفُ مُعَرَّفَةٍ سالِبَة
+negative series	مُتَسَلْسِلةٌ سالِبة
+negative set	مَجْموعةٌ سالِبة
+negative set with respect to a measure	مَجْموعةٌ سالِبةٌ بِالنِّسْبَةِ إلَى قِياس
+negative sign	علامةُ السالِب (-) / إشارةُ السَّالِب، إشارةُ النَّاقِص
+negative similarity point	نُقْطةُ التَّشابُهِ السَّالِب
+negative skewness	الْتِواءٌ سالِب
+negative stagger	تخَلُّفٌ سَلْبي
+negative staining	صَبْغٌ سَلْبيّ
+negative supercoiling	التفاف مفرط سلبيّ
+negative temperature coefficient	مُعامِل دَرَجة الحَرارة السالِب (لِلمَوادّ التي تَقِلُّ مُقاوَمتُها بارتفاع الحَرارة) / معامل درجة الحرارة السالب
+negative term	حَدٌّ سالِب
+negative terminal	طَرَفٌ سالِب
+negative titling	عنونة السالبة
+negative tropism	انتحاء سلبي
+negative valence	تكافُؤٌ سالِب
+negative voltage	ڤلْطيَّة سالِبة
+negative well	بِئْرٌ عكسيَّة (لِتصريفِ الماء عبرَ طبقةٍ مَسيكة)
+negative whole number	عدد صحيح سالب
+negative wire	سِلْكٌ سالِب (في دارةٍ تلِفونيَّة)
+negative work	الشُّغْل السالِب
+negative-ion vacancy = hole	شُغْرٍة إلِكترونيَّة، شُغْرَة أُنبوبيَّة
+negative-phase-sequence relay	مُرَحِّلُ التتابُعِ الطوريّ السالِب
+negative-resistance oscillator	مُذبذبٌ سالبُ المُقاومة
+negator = NOT gate	نافٍ، بَوّابةُ لا
+negatron	نِڠاترُون / إلكترون سالب، كُهَيْرِب سالب / الكترون سالب، أوكهيرب سالب
+neglect	أهمَلَ، تَغافَلَ (استِخفافًا)؛ إهمَال، تغافُل
+negligence	إهمال، إغفال، تهاوُن
+negligible	يُمكِنُ إهمالُه، تافِه / قابل للاهمال
+negotiable	مُتَداوَل، صالِحٌ لِلتداوُل، قابِلٌ للتَّحْويل؛ صالِحٌ للتفاوُضِ فيه؛ سالِك
+negotiate	فاوَضَ، تَفاوَضَ؛ حوَّلَ (إِلى نَقْد)؛ أَتَمَّ، أَنْجَزَ؛ تجاوَزَ (عَقَبةً)، تغَلَّبَ على
+Neighborhood	الحي
+neighborhood of a point	جِوارُ نُقْطة
+neighborhood system	مَنْظومةُ جِوارات
+neighbour-hood of a point	جوار نقطة
+neighbourhood	جِوار، مِنطَقة مُجاوِرة / جوار
+neighbourhood noise	ضَجيجُ الجِوار
+neighbouring	مُجاوِر، مُتاخِم
+Neil's parabola	قَطْعُ نِيلْ المُكافِئ
+nekton	السَّوابِح
+nektons	سوابح
+Nemathelminthes	المَمْسُودات، الديدانُ المُدَوَّرة / ديدان خيطية
+nematic	خَطِّيُّ تَوازي التوَجُّه
+nematoblast	مولدة لاسعة
+nematoblastic	نسيج خيطي
+nematoblastics	نسيج خيطي في الصخور المتحولة
+nematocyst	حُويصلة خيطية
+Nematoda	الخَيْطيّات
+nematode	دودة خيطية
+nemerteans	ديدان ساحلية
+nemesia	نملسية
+nenuphar	نيلوفر
+Neo-Darwinism	الدّاروينيَّة الحَديثة
+Neo-Jurassic	العَصْرُ الجُوراسِي الحَديث
+neocentromeres	قسيمات مركزية جديدة
+Neocomian (system)	(النِّظام) النِّيُوكُومي
+neodymium (Nd)	النِّيُوديميُوم
+neogene	نيوجين
+Neogene period	العَصْرُ النِّيُوجينيّ
+neohexane	نِيُوهكسان
+neolithic deposits	توضُّعات تعود للعصر الحجري الحديث / توضعات تعود للعصر الحجري الحديث
+neolithic implements	أدوات الزمن الحجري الحديث
+Neolithic period	العصرُ الحَجَريّ الحَديث
+neomineralization	تَمعْدُنٌ جديد
+neomorph	تشكيل جديد
+neomycin	النِّيُومايسين
+neon (glow) lamp	مِصباحُ نِيُونٍ (توَهُّجِي)
+neon (Ne)	النِّيُون
+neon induction lamp	مِصباحُ نيُون حَثِّيّ
+neon tube	أُنبوبُ نِيُون
+neontology	علمُ الأنواع المُعاصِرة
+neoprene	نِيُوپرِين
+neoteng	نمو ناقص
+neotenic	ناقص النمو
+neoteny	امتداد الطفولة
+neotremata	حديثات الثقب
+neotype	نمط حديث
+neovolcanic	بركاني حديث
+neovolcanic rock	صخر بركاني حديث
+Neozoic (rocks)	صُخورُ العَصْر الجيولوجيّ الثالِث
+Neozoic era	حُقْبُ الحَياة الحَديثة
+nep	عُقْدَة
+nepa	عقرب الماء
+neper	نيپر
+nepheline = nephelite	نِفيلين
+nepheline basalt	بازَلْتٌ نفِيلينيّ
+nephelinite	نِفيلينيت
+nephelometer	مِقياسُ العَكارة
+nephenthe; nepenthes	سلوية
+nephograph	نِفُوغراف
+nephoscope	مِكْشافُ السُّحُب / مِبْصارُ السُّحُب
+nephridium(pl.nephridia)	نفريديوم
+nephrite	نِفْرَيت
+nephritis	اِلتِهاب الكُلْيَة
+nephroid	كُلوانيّ / نيفْروئيد
+nephroid evolute	مَنْشورُ نيفْروئيد
+nephroid involute	ناشِرُ نيفْروئيد
+nephros	كُلْوَة، كُلْيَة
+Neptune	نِبْتُون / نبتون / نيبتون
+neptunic rock	صَخْرٌ بَحْريّ
+neptunic rocks	صخور (ال..) التي تكونت في البحر
+neptunium	معدن النبتونيوم / معدن النيبتونيوم
+neptunium (Np)	النِّپْتونيُوم
+neritic	نيريتي / رسوبات بحرية
+neritic deposits	رواسب بحرية في مجال الحرف القاري قليلة العمق من 200م
+neritic environment	بيئة تحت شاطئية / بنية بحرية / بنية بحرية قليلة العمق عن الجرف القاري
+neritic facies	سخنة بحرية / سخنة بحرية قليلة العمق، سحنة الجرف القاري
+neritic sediments	رَواسِبُ تَحت شاطِئيَّة
+neritic zone	مِنْطَقةٌ تَحْت شاطِئيَّة (تمتدُّ في البحر إلى عُمْق حَوالى 180 مترًا) / نطاق نيريتي
+Nernst lamp	مِصباح «نِرنست»
+neroli oil	زيتُ زهرِ النارَنْج
+nervation	تَعَرُّق، شَكْلُ انتِشار العُروق
+nerve	عَصَب؛ شَجاعة، جُرْأة
+nerve cell = neuron(e)	خَلِيَّة عَصَبيَّة، عَصَبُون
+nerve component	مكون العصب
+nerve cord	حبل عصبي
+nerve fiber	ليفة عصبية
+nerve gas	غازُ الأعصاب
+nerve-ending	نهاية عصب
+nervous	عَصَبيّ؛ مُتوَتِّرٌ (قَلَقًا)
+nervous breakdown	اِنهيارٌ عَصَبيّ؛ اِضطِرابُ تَعليماتِ العَمَليَّة (في حاسوبٍ رَقميّ)
+nervous system	جِهازٌ عَصَبيّ، الجُملة العصبيَّة / جهاز عصبي
+nervous tissue	نسيج عصبي
+nesistor	نِزستُور
+Nessler cylinder	مِخْبار «نِسْلَر»
+Nessler’s reagent (or solution)	كاشِفُ (أو مَحْلول) «نِسْلَر»
+nest	عُشّ؛ مَجموعة مُتداخِلة؛ أدرَج، داخَل، تداخَل (بعضُه في بعض)؛ استكَنَّ / يُداخل
+nest of gas	جيب غاز
+nest of saws	طاقَمُ شَفَراتِ المِنْشار
+nest, tube = nest of pipes	مَجموعة أنابيب مُتَداخِلة
+nested	متداخل
+nested intervals	فترات متداخلة / مَجالاتٌ مُتَداخِلة
+nested multiplication	ضَرْبٌ مُتَداخِل
+nested sets	مجموعات متداخلة / مَجْموعاتٌ مُتَداخِلة
+nested transaction	مداولات متداخلة
+nested tubes	أنابيبُ مُتداخِلة (تلسكوبيَّة)
+nested-interval theorem	مُبَرْهَنةُ المَجالاتِ المُتَداخِلة
+nesting	إكنان، إدراج
+nesting ground	منطقة التفريخ
+Net	1 [شبكة] إنترنت، 2 [شبكة] Usenet / شبكة / شَبَكة
+net (or neat) lines	حُدودُ الحَفْر المأجور
+net = network	شَبَكة؛ كِلَّة؛ غَطّى بشَبَكة؛ أعطى رِبْحًا صافيًا
+net address	1 عنوان شبكي ؛ 2 عنوان شبكي ؛ 3 عنوان شبكي
+net area	صافي المِساحة، المِساحةُ الصافية
+net barrier	حاجِزٌ شَبَكيّ
+Net Bearing Liabilities	صافي تحمل الخصوم
+net buoyancy	الدفْعُ الصافي، صافي الطفويَّة
+net calorific value	القيمةُ السُّعْرِيَّةُ الصافية (لِلوَقود)
+net cash income	الدَّخْلُ النَّقْديُّ الصافي
+net convergence	تَقارُبُ شَبَكة
+net cost	صافي التَّكْلِفَة، السِّعْرُ الصافي
+net efficiency	الكِفايةُ الخالِصة
+Net Enrollment Ratio	نسبة القيد الصافي
+Net Enrolment Ratio (NER) in Primary Education, by Sex	صافي نسب الالتحاق في التعليم الابتدائي حسب الجنس
+Net Enrolment Ratio (NER) in Secondary Education, by Sex	صافي نسب الالتحاق في التعليم الثانوي حسب الجنس
+Net equity of Households in Life Insurance Reserves and Pension Funds	صافي حقوق الأسر المعيشية في احتياطيات التأمين على الحياة وفي صناديق معاشات التقاعد
+Net Factor Income from Abroad	صافي دخل عوامل الإنتاج من الخارج
+Net Financial Asset Acquisition	صافي حيازة الأصول المالية
+net fishing	صيد بالشبكة
+net fishing (in brooks)	صيد بالشبكة المثبتة (في الجداول)
+net flow	جَرَيانُ شَبَكة
+Net Foreign Debt As a Percentage of GDP	صافي الدين الخارجي كنسبة من الناتج المحلي الإجمالي
+net height	صافي العُلُوّ
+Net Lending or Borrowing	صافي الاقتراض
+net loss	الفَقْدُ الصافي، صافي الفَقْد / خسارة صافية
+Net Migration Rate	معدل صافي الهجرة
+net premium	قسط التأمين الصافي
+net product	صافي الإنتاج، غَلَّة صافية
+net profit	الرِّبْحُ الصافي، صافي الرِّبح / ربح صاف
+net pyranometer	مِقياسُ صافي الإشعاعِ الشَّمسِيّ
+net pyrgeometer	مِقْياسُ صافي الإشعاعِ الأرضيِيّ
+net pyrradiometer	مِقياسُ صافي الإشعاع (الكُلّيّ)
+net radiation	صافي الإشعاع الكُلّي
+net register ton	سجل الأطنان الصافي
+net register tonnage	سجل الحمولة الصافي
+Net Reproduction Rate	معدل الإحلال( التكاثر) الصافي
+net returns	صافي العائِدات
+Net Sector Output	الناتج الصافي للقطاع
+net slip	إزاحة إجماليَّة، صافي الإزاحة / سعة رمية الفالق
+net solar radiation	صافي الإشعاع الشَّمسِيّ
+net supervisor	مُشْرِفٌ عَلى الشَّبَكَة
+net surfer	مُبْحِر
+Net surfing	طَوْف في الشبكة
+net tanks	أحواض شبكية
+Net Taxes on Products and Imports	صافي الضرائب على المنتجات والواردات
+net terrestrial radiation	صافي الإشعاع الأرْضِيّ
+net ton (or short ton)	الطُّنّ الأميركي (يُساوي 2000 باوند)
+net tonnage	الحُمولة الصافية بالطُّن / حمولة صافية
+Net TV	تلفزة على الشبكة
+net unit value	صافي رِبح الوَحدة
+net weight	الوزنُ الصافي / الوزن الصافي
+Net Worth	صافي القيمة
+net, wire	شَبَكة سِلْكية
+net-pennate; reticulate	شبكي ريشي
+net-top box	حاسوب للشبكة
+NetBEUI	واجهة مستخدم NetBIOS المحسّنة
+NetBIOS	BIOS شبكي
+NetBIOS Enhanced User Interface	واجهة مستخدم NetBIOS المحسّنة
+NetBSD	[نظام] NetBSD
+Netcafe	مقهى إنترنت
+nethlands	أراضي (ال..) المنخفضة
+netiquette	آداب إنترنت / أَخْلاقُ الشَّبَكَة / آداب التعامل في الشبكة
+netizen	مواطن إنترنت
+netizen (internet citizen)	مُوَاطِنُ الشَّبَكَة
+Netmask	قناع الشبكة
+NetPC	[توصيف] NetPC
+netrate deposits	مكامن الآزوتات، مكامن النترات / مكامن الآزوتات أو النترات
+Netscape	نيتسكيب
+Netscape Navigator	ملاّح Netscape
+Netscape Server Application Programming Interface	واجهة برمجة تطبيقات مخدِّم Netscape
+Netspeak	الحديث على الشبكة
+netted	شَبَكِي، مُشبَّك / شبكي، مشبك
+netted structure	بنية شبكية
+netted texture	بِنْيَة شَبَكية / نسيج شبكي
+netting	شَبكَة؛ شِباك؛ تَشْبيك
+netting machine	نَوْلٌ لِصُنْعِ الشِّبَاك
+netting wire	سِلكٌ لِصُنع الشِّباك
+netting, wire	شَبَك سِلْكي
+nettle	قراص
+nettle-tree	ميس
+NetWare	[نظام] NetWare
+network	شبكة، شَبَكاتٌ مُترابِطة، شَبَكةُ خُطوط / شبكة / شَبَكَة / شَبَكة
+network adapter	موائمة شبكة
+network address translation	ترجمة عنوان الشبكة
+network administrator	قيِّم الشبكة
+network analysis	تحليلُ الشبَكة
+network analyzer	مُحَلِّلٌ شبَكيّ
+network architecture	بنيان الشبكة / بِنْيَة شَبَكَة
+network arm (or branch)	فَرْعٌ شَبَكيّ
+Network byte order	ترتيب بايت شبكي
+network card	بطاقة شبكة
+network computer	حاسوب شبكي
+network computer (NC)	حَاسُوبٌ شَبَكِيّ
+network connection	وَصْلٌ شَبَكِيّ
+network control program	برنامج تحكّم في الشبكة
+network crash	عَطَلُ شَبَكَة
+network data base	قَاعِدَةُ مُعْطَيَاتٍ شَبَكِيَّة
+Network Data Management Protocol	ميفاق شبكي لإدارة المعطيات
+network data-base	قاعِدةُ بياناتٍ شبَكيَّة
+network database	1 قاعدة معطيات شبكية ؛ 2 قاعدة معطيات الشبكة ؛ 3 قاعدة معطيات شبكية البنية / قاعدة بيانات على الشبكة
+network device driver	سوَّاق تجهيزة شبكية
+network directory	دليل شبكي
+network drive	مِسْوَق شبكي
+network driver	مُدَبِّرُ الشَّبَكَة
+Network engineer	مهندس شبكة
+Network File System	نظام ملفات شبكية
+network file system (NFS)	نِظَامُ التَّشَارك الشَّبَكيّ في الْمِلَفَّات
+Network Information Center	مركز معلومات شبكي
+network information center (NIC)	مَرْكَزُ المَعْلُومَاتِ على الشَّبَكَة
+network interface card	بطاقة واجهة شبكة / بطاقة واجهة الشبكة
+Network interface controller	متحكم واجهة الشبكة
+network latency	[زمن] تلبّث الشبكة
+network layer	طبقة الشبكة / طَبَقَة الشَّبَكَة
+network management	تَدْبِيرُ شَبَكَة / إدارة الشبكة
+Network mask	قناع الشبكة
+network model	نموذج شبكي
+network modem	مودم شبكة
+network news	أخبار الشبكة
+Network News Transfer Protocol	ميفاق نقل الأخبار عبر الشبكة
+Network node	عقدة الشبكة
+Network number	رقم شبكة الاتصال
+network of circles	شبكة دوائر
+network of distributing mains	شَبَكةُ خُطوطِ التوزيع الرئيسيَّة
+network operating system	نظام تشغيل شبكي / نظام تشغيل الشبكة
+Network Operation Center	مركز عمليات الشبكة
+Network operator	مشغل الشبكة
+network OS	نظام تشغيل شبكي
+network protocol	ميفاق شبكة / بُرُوتُوكول الشَّبَكَة
+Network Security	أمن الشبكات
+Network segment	مقتطع شبكي
+network server	مخدّم شبكة
+network services	1 قسم خدمات الشبكة ؛ 2 خدمات الشبكة
+Network simulation and testing	محاكاة الشبكة واختبارها
+network software	برمجيات الشبكة
+Network storm	عاصفة شبكة
+network structure	بِنيةٌ شَبَكيَّة / بنية الشبكة
+network synthesis	تَرْكيبُ الشبَكة
+Network Terminator 1	مُنهي الشبكة 1
+Network Time Protocol	ميفاق الزمن الشبكي
+network topology	طُوبُولُوجِية شَبَكَة
+Network transparency	شفافية الشبكة
+network, equivalent	شبَكةٌ مُكافِئَة
+network, peer-to-peer	شبكة أنداد
+network, railway	شبكةُ خُطوطٍ حَديدية
+Network, the	الشبكة
+Network-address	عنوان ـ شبكى
+network-like	شبكي
+Networked	مشبًك
+networked directory	دليل شبكي
+networked drive	مِسْوَق شبكي
+Networking	ربط الشبكات
+Neumann boundary condition	شَرْطُ نويْمان الحُدودِيّ
+Neumann differential equation	مُعادَلةُ نويْمان التَّفاضُلِيَّة
+Neumann function	دالَّةُ نويْمان
+Neumann line	مُسْتَقيمُ نويْمان
+Neumann problem	مَسْأَلةُ نويْمان
+Neumann series	مُتَسَلْسِلةُ نويْمان
+Neumann, John von	جون ڤون نويْمان
+Neumann, Karl Gottfried	كارْل غوتْفْريد نويْمان
+neural arch	قوس عصبية
+Neural Machine Translation (NMT)	ترجمة الآلة العصبية / الترجمة الآلية العصبية
+neural network	شبكة عصبونية / شبكة عصبية
+Neural Network (NN)	شبكة عصبية
+Neural network techniques	تقنيات الشبكة العصبية
+Neural Processing Unit (NPU)	وحدة معالجة عصبية
+Neural Rendering	تمثيل عصبي
+Neural Turing Machine (NTM)	آلة تورينج العصبية
+neuralgia	ألَمٌ عَصَبيّ
+neuration	تعريق
+Neuro-symbolic Artificial Intelligence	ذكاء اصطناعي عصبي ترميزي
+neurocyte = neuron(e)	خَليَّة عَصَبيَّة
+neuroelectricity	كَهْرَباءُ عَصَبيَّة
+neuroglia	دِبْقٌ عَصَبيّ
+neurology	عِلْمُ الأعصاب، طِبُّ الجِهاز العَصَبيّ
+Neuromorphic Chip	رقاقة عصبية
+Neuromorphic Computing	حوسبة عصبية
+Neuromorphic eng-English ineering	هندسة عصبية
+Neuron	عصب / خلية عصبية / خلية عصبية، نورون
+neuron(e)	عَصَبُون، خَليَّةٌ عَصَبيَّة (وتشعباتُها)
+neurosis	عُصاب
+neurotic	عُصابِيّ
+neurptéra	عصبيات الأجنحة
+neuston	سَوابِحُ السَّطْح
+neuter	مُحَيَّرُ الجِنْس
+neutral	مُحايِد، حِيَاديّ؛ مُتَعادِل؛ غَيرُ مَشْحون (بالكهرباء)؛ غيرُ مُعَشَّق؛ نُقطةُ تَعادُل؛ سِلْكٌ مُحايِد؛ اللاّتَعْشيق / حيادي، محايد
+neutral areas	رِقاعٌ مُتَعادِلة
+neutral atmosphere	جَوٌّ مُتَعادِل، جَوٌّ مُحايِد (لا مُؤكسِد ولا مُختَزِل)
+neutral atom	ذَرَّة مُتَعادِلة (لا مُتَأيِّنة)
+neutral autotransformer = earth(ing) reactor	مُحوِّلٌ تِلْقائي مُتعادِل، مُفاعِلُ تأريض
+neutral axis	مِحْوَرُ التعادُل / محور حيادي
+neutral beam	حُزمة مُحايِدة
+neutral centre	مَركَزُ التعادُل
+neutral colloid	غَرواني مُتعادِل
+neutral compensator = neutralator	مُفاعِلُ تأريضٍ معادِل
+neutral conductor (or wire)	مُوَصِّلُ (أو سِلْكُ) التعادُل، ناقِل مُحايِد
+neutral density filter	مرشح الكثافة المحايدة
+neutral element	عنصر محايد / عُنْصُرٌ مُحايِد
+neutral equilibrium	توازُنٌ مُتَعادِل، اِتِّزانٌ مُستَمِرّ (أو مُحايِد) / توازن حيادي / توازن متعادل
+neutral filter	مُرشِّحٌ مُتَعادِل (الامتِصاصِ)
+neutral flame	لَهَبٌ مُتَعادِل (في اللِّحام بالأُكسِجين والأسيتيلين)
+neutral gear	اللاّتَعْشيق
+Neutral Holding Gains	مكاسب الاقتناء المحايدة
+neutral layer	طَبقةٌ مُتعادِلة
+neutral line	خَطُّ التعادُل
+neutral litmus paper	وَرقُ عَبّادِ الشمسِ المُتَعادِل
+neutral molecule	جُزَيءٌ مُتَعادل، جُزَيءٌ أيونيّ مُتَعادِل
+neutral mutation	طفرة محايدة
+neutral oils	زُيوت مُتَعادِلة
+neutral plane	مُستوي التعادُل
+neutral point	نُقْطَة التَّعادُل
+neutral point (or neutral)	نُقطةُ التعادُل، نقطة محايِدة
+neutral position	وَضْعُ التعادُل؛ نُقطة مُحايِدة
+neutral reaction	تَفاعُلٌ مُتَعادِل
+neutral relay = nonpolarized relay	مُرَحِّلٌ مُحايِد، مُرَحِّلٌ لا اِستِقطابيّ
+neutral salt	مِلْحٌ مُتعادِل (لا حامِضيٌّ وَلا قاعِدي)
+neutral slag	خَبَثٌ مُتَعادِل
+neutral solution	مُحْلول متعادِل
+neutral stability	اِستِقرارٌ مُحايِد؛ اِستِقرار مُتَعادِل / تَوَازُنٌ مُتَعادِل
+neutral state = virgin state	وَضع المُحايَدة
+neutral surface	سَطحٌ مُحايِد، سَطْحُ التعادُل
+neutral temperature	دَرَجةُ حَرارةِ التعادُل (في المُزدَوِجة الحَراريَّة)
+neutral transformation	تحويل محايد
+neutral wave	مَوجةٌ مُحايِدة
+neutral wire	سِلْكُ التعادُل
+neutral zone	مِنطَقةٌ مُحايِدَة؛ مِنطقَةُ التعادُل
+neutralator = neutral compensator = earth reactor	مُعادِلٌ مُحايِد
+neutralism	حِياديَّة
+neutrality	تَعادُليَّة؛ حِياد
+neutrality test	اِختِبارُ التعادُليَّة
+neutralization	تعادُل، مُعادَلَة؛ تَحْييد، إبطالُ الفِعْل
+neutralization number	رَقْمُ التعادُل
+neutralization, heat of	حَرارةُ التَّعادُل (بينَ مُكافِئ غراميٍّ حامِضيّ وآخَر قاعِدي)
+neutralize	عادَلَ، تعادَلَ؛ حَيَّدَ، أبطَلَ الفِعْل
+neutralized series motor = compensated series motor	مُحرِّكُ تَوالٍ مُعادَل
+neutralizer	مُحَيِّد، مُعادِل
+neutralizing circuit	دارةٌ مُحَيِّدة
+neutralizing indicator	كاشِفُ (دَرَجة) التعادُل (في المُضَخِّم)
+neutralizing voltage	ڤلْطيَّةٌ مُحَيِّدة
+neutretto	نيُوتْرِتّو
+neutrino	نيوترينو
+neutrodyne	نيُوتْروداين
+neutrodyne receiver	مُستَقبِل نيُوترودايني
+neutron	نيوترُون
+neutron absorber	مُمْتَصُّ النيوترونات
+neutron bomb	قُنْبُلة نيوترونيَّة
+neutron capture	أسْرُ النيوترونات
+neutron counter	عَدّادُ النيوترونات
+neutron cycle	دَورة نيوترونيَّة (في مُفاعِلٍ ذَرِّي)
+neutron density	كَثافةٌ نيوترونية
+neutron diffraction	انعراج نيوتروني
+neutron diffusion	انتِشار نيوترونيّ
+neutron excess	زِيادَة نيوترونية
+neutron flux	فَيْضٌ نيوتروني
+neutron gun	مِدفَعةُ نيوترونات
+neutron hardening	التصليد النيوتروني
+neutron logging	سَبْرٌ (تَسْجيليّ) نيوترونيّ
+neutron number	العدَدُ النيوتروني
+neutron poison	سُمّ النيوترونات
+neutron producer	مُنْتِجُ النيوترونات
+neutron shield	دِرعُ النيوترونات
+neutron source	مَصْدَرٌ نيوترونيّ
+neutron star	نَجْمٌ نيوترونيّ
+neutron-induced radioisotopes	نظائِرُ مُشِعَّة من التفاعُل النيوتروني
+neutropause	نيوتروپوز / حَدُّ التَّعادُل، حَدُّ تَعادُلِيّ
+neutrophil	عَدِلة
+neutrosphere	نيوتروسفير / غِلافُ التَّعادُل
+neve	خشيف
+neve glacier	مثلجة الخشب
+Never	أبدأ، قطً
+Never Enrolled	لم يلتحق أبداً
+Never Married	لم يسبق الزواج له
+new	جَديد، عَصْريّ؛ طازَج، حَديث / جديد
+new field wildcat	بِئرٌ استِكشافيَّة في حَقْلٍ بِكْر
+new moon	القمرُ في الاقتِران، مُحاق؛ هِلال / غرة القمر
+New Orders Indicators	مؤشرات الطلبات الجديدة
+new sealan spinach	اسفاناخ زيلندة الجديدة
+new star = nova	نَجمٌ مُتَجدِّدُ التألُّق، نَجمٌ مُستَعِر
+new start	إِعَادَةُ انْطِلاق
+New Style	نِظامُ التقويم الغريغوري
+New talk	حديث جديد
+New text	نص جديد
+Newbie	مبتدئ
+newcomer	وافِدٌ حَديثًا؛ مُستَجِدّ
+newel (post)	قائمُ الدرابزين (في أسْفل الدَّرَج)
+newline character	محرف "سطر جديد"
+news	خَبَر، أخبار / أَنْبَاء / أخبار
+news bulletin	نَشْرةُ أخبار
+news feed	توريد الأخبار
+News group	مجموعة أخبار
+News reader	قارءى الأخبار
+news server	مخدم أخبار
+News Site	موقع إخباري
+newsgroup	مجموعةٌ أخباريةٌ / مجموعة أخبار
+newsgroup (forum)	نَدْوَة المُنَاقَشَة
+Newsgroups	مجموعات إخبارية
+Newsletter	جريدة الأخبار
+newsmaster	مسؤول مجموعة أخبارية
+newspaper	صَحيفة، جَريدة / صحيفة
+newsprint	وَرَقُ الصُّحُف
+newsreader	قارئ أخبار
+newsreel	شَريطٌ إخباري
+newt	سمندل الماء
+newton	نيوتُن
+Newton OS	نظام تشغيل Newton
+Newton square-root method	طَريقةُ نْيوتُن في الجَذْرِ التَّرْبيعِيّ
+Newton's binomial	حدانية نيوتن
+Newton's formulas	دَساتير نْيوتُن
+Newton's identity	مُتَطابِقةُ نْيوتُن
+Newton's inequality	مُتَراجِحةُ نْيوتُن
+Newton's method of approximation	طَريقةُ نْيوتُن في التَّقْريب
+Newton's three-eighths rule	قاعِدةُ ثَلاثةِ الأَثْمانِ لِنْيوتُن
+Newton, Sir Isaac	السِّير إسْحاق نْيوتُن
+Newton-Cotes formulas	دَساتيرُ نْيوتُن-كوتْس
+Newton-Raphson formula	صيغةُ نْيوتُن-رافْسون
+Newtonian mechanics	ميكانيكا نيُوتُنِيَّة
+Newtonian reflector	مِقرابُ «نيوتُن» العاكِس
+Newtonian telescope	مِقْرابُ «نيُوتُن» (العاكِس)، تِلِسْكوب نيوتُنيّ عاكِس
+newtonmeter	نيُوتُن-مِتر، جول
+Newton’s disc	قُرْصُ «نيوتُن» اللَّوني
+Newton’s law of cooling	قانون «نُيوتُن» للتبريد
+Newton’s law of gravitation	قانون «نيوتُن» للجاذِبيَّة
+Newton’s laws of motion	قوانين «نيوتُن» للحَرَكة
+Newton’s rings	حَلَقات «نيوتُن»
+next	تالٍ؛ مُجاوِر، قَريب؛ بعدَ ذلك / [شركة] NeXT / التالي
+Neyman, Jerzy	جيرْزي نيمان
+Neyman-Person theory	نَظَرِيَّةُ نيمان پيرْسون
+NFS	نظام ملفات شبكية
+Ni (nickel)	ني
+Ni-Fe	النِّيف، النَّيْحَد
+Ni-Fe battery	بَطّاريَّةُ النِّيكل والحديد، مِرْكَمُ «أديسُون»
+Ni-hard	نايْهارد
+niacin = nicotinic acid	نياسين، الحامضُ النيكوتيني
+nib	طَرَفٌ مُستَدِقّ، سِنّ؛ طَرَفُ العَتَلة؛ سَنَّنَ
+nibble	قَضَمَ، قَرَضَ قليلاً؛ قَضْمٌ رَقيق؛ مِقدارٌ ضَئيل؛ قَضْمة، نِصْفُ بايت / رباعية / قضم
+nibbler	قرّاضة، قاضمةُ يدويّة
+nibbler, electric	قرّاضة كَهربيَّة
+nibbling machine	مِقْرَضة (للألواحِ المَعدِنية)، مَكَنةُ قَضْم
+NIC	1 بطاقة واجهة شبكية ؛ 2 مركز معلومات شبكي
+niccolite = copper nickel	نيكُولَيت
+Nice	خلوق،لطيف
+niche	وَقْب، كُوَّة غيرُ نافِذة؛ مِشْكاة؛ بِيئةٌ مُلائِمة؛ عُشّ
+Nicholson hydrometer	مِكثاف «نِكِلْسون»
+Nichrome	نيكروم
+nick	حَزٌّ، ثَلْم، فُرْضَة؛ تَحْزيز؛ حَزَّ، فَرَّضَ، فَلَّ / اللقب / حزّة، ثلمة
+nick bend-test	اِختِبارُ الحِناية عندَ الحَزّ
+Nick name	اسم مستعار
+nick point	مكان انقطاع المنحدر
+nickase	إنزيم القطع
+nicked	مُحزَّز، مُخَدَّد
+nickel	نيكل
+nickel (Ni)	النِّيكل؛ طَلَى بالنيكل
+nickel accumulator	مِرْكَمُ النيكل (والحَديد)، مُرَكِّم «أديسُون»
+nickel alloys	سَبائكُ النيكل
+nickel aluminium	ألومنيوم نيكليّ (يحوي 20 في المئة من النيكل)
+nickel bath	مَغْطِسُ الطِّلاء بالنِّيكل
+nickel cadmium battery	بطّاريّة نيكل كَدمْيوم
+nickel metal hydride battery	بطّاريّة هدريد نيكل معدن
+nickel ore	ركازالنيكل، خام النيكل
+nickel pan	وعاءٌ (أو حوضٌ) من النيكل
+nickel silver = German silver	فِضَّة النِّيكل، سَبيكةُ الفِضَّة الألمانيَّة (من النِّيكلِ والنُّحاس والزِّنك)
+nickel steel	فُولاذ نيكليّ
+nickel tantalum alloy	سَبيكة النيكلِ والتنتالوم (لِصُنع أسلاكِ المُقاوَمة الكَهربائية)
+nickel-cadmium battery	بطاريَّة النيكل والكادميوم (للطائرات)
+nickel-chromium steel	فُولاذُ النيكل والكروم
+nickel-iron (alkaline) accumulator	مِرْكَمُ «أديسُون»؛ مُرَكِّمُ النيكلِ والحَديد (القِلْوي)
+nickel-iron cell	خَليَّةُ النيكل والحديد
+nickel-molybdenum iron	حَديدُ النيكل والموليبدينُوم (الصامدُ للحَوامِض)
+nickel-plated brass	نُحاسٌ أصفَرُ مَطليٌّ بالنيكل
+nickel-plating	الطِّلاءُ بالنيكل
+nickelage = nickeling	تَنْكيل
+nickelates	نيكلات
+nickeliferous	حاوٍ النيكل
+nickeline = niccolite	نِيكلين، نيكوليت
+nicking	تَحْزيز، تَفْريض
+Nickle	النكل
+nickname	لَقَب [شهرة] / اسْمٌ مُسْتَعَار / كُنية
+Niclad	نِيكْلاد
+Nicol prism	مَوشُورُ «نِيكُول»، مَنْشُور «نِيكول»
+Nicomachus's theorem	مُبَرْهَنةُ نيكوماخوس
+nicopyrite = pentlandite	بيريتُ النيكل
+nicotine	نيكُوتين
+nicotinic acid	حامِضُ النيكوتين / حمض النيكوتين
+nicrosilal	نيكروسيلال
+nictitating membrane	غشاء رامش
+nidation	اِنْغِراس (أو تعشيش) البَيْضة / تعشيش
+nidge	نَقَش (الحَجَر)
+nielsbohrium	نِيلْزبُوريوم
+Nielsen's spiral	حَلَزونُ نيلْسِن
+nif genes; nitrogen fixation genes	مورثات تثبيت النيتروجين
+nife	نيف
+nifisima	نيفيسيما
+nigger	مِطْوَلُ شَدٍّ
+niggers	سُوادُ الفَتيلة
+night effect = night error	الظاهِرةُ الليلية
+night flying	الطيَرانُ اللَّيلي
+night glow	وَهَجٌ لَيليّ
+night latch	مِزلاجُ الليل
+night letter	برقيَّة ليليَّة (بسعرٍ مُخَفَّض)
+Night mode	نمط ليلي
+night photography	التصويرُ الليلي
+night range	مَدًى ليليّ
+night shift	نَوبةُ عملٍ لَيلي
+night sky glow	ضياء سماوي ليلي
+night soil	سَمادٌ بَشَريّ
+night superintendent	المُشْرِفُ الليلي
+night switch	مِفتاحٌ ليلي
+night tracer bullet	طَلْقة كاشِفة ليليّة
+night-blindness	العَشَا / عمى العشى
+nightcap	غِطاءٌ لَيليّ
+nightglow	وهج (ال…) الليلي
+nightingale	هزاز، بلبل
+nightjar	سبد
+nihilism	العدَميَّة
+NII	البنية القاعدية الوطنية للمعلومات
+nil	لا شيء، صِفر
+nil pointer	مؤشّر خلوّ
+nil trim	لاتوازن
+nilalgebra	جَبْرٌ مَعْدومُ القُوَى
+nile	نايْل
+nile silt	طمي النيل
+nile-lily	وردة النيل، لوتس مقدس
+nilex = nylon	نَيْلِكس، نَيْلُون
+nilpotent (adj)	مَعْدومُ القُوَى
+nilpotent algebra	جَبْرٌ مَعْدومُ القُوَى
+nilpotent element	عُنْصُرٌ مَعْدومُ القُوَى
+nilpotent matrix	مَصْفوفةٌ مَعْدومةُ القُوَى
+nilradical ideal	مِثالِيٌّ مَعْدومُ القُوَى
+nimble	رَشيق، سَريعُ الحرَكة؛ سَدِك
+nimbo-stratus	رَهجٌ مُزنيّ، مُزْنٌ طَبَقيّ
+nimbostratus	طَبَقِيّ مُزْني (للسحب)
+nimbus	مُزْنَة، مُعْصِرَة
+NiMH battery	بطّاريّة هدريد نيكل معدن
+nimonic	نيمُونِك
+nine associated points theorem	مُبَرْهَنةُ النِّقاطِ التِّسْعِ المُتَرافِقة
+nine complement	مُتَمِّمُ التِّسْعات
+nine points circle	دائرة النقط التسع
+nine's complement	متمِّمٌ إلى تسعة
+nine-point circle	دائرةُ النُّقَط التِّسع (لِمُثلَّثٍ) / دائِرةُ النِّقاطِ التِّسْع
+nine’s complement	مُتَمِّم التِّسعة
+niobium (Nb) (or columbium)	النِّيوبيُوم
+nip	قَرَصَ؛ قَرَضَ، قَطَّ؛ قَرْض، قَضْم؛ عَطْفُ النابِض الرَّقائقيّ
+Nipkow disc	قُرْص «نِپْكو» الدوّار (لِلمَسْح الآلي)
+nipper	عامِلٌ يافِع؛ قَرّاضة، كَمَّاشة
+nippers	قَرّاضَة، كَمّاشة؛ مِلْقاطُ حجارةٍ
+nipple	حَلَمَة، نَبْل؛ حَلَمة، حَلَمةُ الثدي؛ وَصَلَ بِحَلَمةٍ أو نَبْل / حلمة
+nipple-cactus	صبار الضروع، كاكتس حلمي
+nipplewort	عشب الضروع
+NIS	خدمات معلومات الشبكة
+nit	نِتْ؛ صُؤابة، بيضُ القملة (أو يرقانتُها)
+nital	نِيتال
+niter (or nitre)	النِّتر
+nitometer	مِنصاع
+niton	نايتون
+Nitralloy	فُولاذُ نَتْردة
+nitramon	نِترامُون
+nitrate	نِتْرات / نترات
+nitrate bacteria	بكتريا النترجة، نترتة
+nitrate deposits	رواسبُ النِّترات
+nitrate, potassium	نِترات البوتاسيوم
+nitrate, silver	نِترات الفِضة
+nitrate, sodium	نِتْراتُ الصوديوم
+nitrates	نِترات، أزوتات
+nitration	نَتْرَجة
+nitre (or salt-petre)	نَطْرون؛ النِّتر
+nitric acid = aqua fortis	حامِض النيتريك، (ماءُ النار)
+nitric oxide	أُكْسِيد النِّيتريك، أُكْسيدُ الأزوتيك
+nitridation = nitriding	النَّتْردة
+nitride	نِتريد، أزوتيد
+nitrided steel	فولاذٌ مُنَتْرَد
+nitriding = nitrogen case-hardening	النَّتْرَدة
+nitriferous	حاوٍ النتروجين
+nitrification	النَّتْرَتة؛ نَتْرَتَة، تَنَتْرُت، تأزُّت
+nitrification; azotification	نترجة، نترتة، تأزت
+nitrifiers = nitrifying bacteria	المُنَتْرِتات، بَكْتيريا النَّترتة
+nitrifying bactérie	بكتريا التأزت، بكتريا النترتة
+nitrifying; azotifying	منترج
+nitrile rubber	مَطّاط النِّتريل، مَطّاطٌ نِتْريليّ
+nitrite	نِتْريت، أزوتيت
+nitrite, sodium	نِتْريت الصوديوم
+nitro derivatives	مُشتَقّاتٌ (عضويَّة) نِتريتيَّة
+nitro group	مَجموعةُ النِّتْريت
+nitro-cellulose	نِتروسليلُوز
+nitrobenzene	نِتروبنزين
+nitrocellulose filter	مرشحة نثروسلولوز
+nitrocotton	نِتراتُ السِّليلوز، قُطْن البارود
+nitrogelatin(e)	نِتْروجيلاتين
+nitrogen (N)	النِّتْروجين، الأزوت
+nitrogen balance	مِيزانُ النِّتروجين
+nitrogen bases = amines	قواعد نتروجينيَّة، الأمينات
+nitrogen case-hardening = nitriding	تَصْليد (سَطحِ الفولاذِ) بالنَّتردة
+nitrogen cycle	دَورةُ النتروجين (في الكَون) / دورة النتروجين
+nitrogen dioxide (or peroxide)	فَوق أُكسيد النتروجين
+nitrogen fixation	تثبيتُ النتروجين (بالبَكتيريا أو بالطّرُق الكيماويَّة)
+nitrogen pentoxide	خامِسُ أُكسيد النتروجين
+nitrogen peroxide (or tetroxide)	فَوق أُكسيد النتروجين
+nitrogen trioxide	ثالِث أُكسيدِ النتروجين
+nitrogen, liquid	النتروجينُ السائل (على درجة -196° مئوية)
+nitrogenated	مُنَتْرَج
+nitrogenize	نَتْرَجَ
+nitrogenous	نِتروجيني، أزوتي
+nitroglycerin(e)	نِتروغليسرين
+Nitrolime	نِتروليم
+nitrometer	نِترومتر، أزوتُومتر، مِقياسُ النِّتروجين
+nitron	نِتْرون
+nitronium	نِترونيُوم
+nitrosation = nitrozation	نَتْرتَة
+nitrosbacter	نتروبكتر
+nitroso-compounds	مُرَكَّباتٌ نِتروزُوِيَّة
+nitroso-dyes	أصباغٌ نِتروزُويَّة
+nitrosyl-sulphuric acid	حامِضُ الكبريتيك النّيتروزيلي
+nitrotoluene	نِتراتُ التولَوِين
+nitrous acid	حامِضُ النيتروز (أو الأزوتوز)
+nitrous oxide = laughing gas	أُكسيد النيتروز (أو الأزوتوز)، الغازُ المُضْحِك
+nitryl rubber	مَطّاطٌ (اصطِناعيٌّ) نيتريليّ
+Nivarox	نيڤارُوكس
+nivation	تَعْرية ثَلْجيَّة
+NL	محرف "سطر جديد"
+NLQ	نوعية [طباعة] جيدة
+NLS	تقَبُّل اللغة الطبيعية
+NMI	مقاطعة غير قابلة للحجب
+NMOS	[تقانة] NMOS
+NMR = nuclear magnetic resonance	رنينٌ مِغنطيسي نَووي
+NNTP	ميفاق نقل الأخبار عبر الشبكة
+NNTP = Network News Transfer Protocol	پروتوكول نقل الأخبار في الشبكة
+No	لا
+No (nobelium)	نو
+No numbering	بدون تعداد
+NO-DAEMON	لا-جنّي
+no-drift position	مَوضِعُ اللاّاِنسِياق
+no-fines concrete	خَرَسانة (مِلاطٌ وحَصْباء) دونَ النَّواعِم
+no-funds (n-f)	لا رَصيد
+no-go gauge	مُحَدِّدُ قِياسٍ لاسَماحيّ
+no-lag motor	مُحرِّك لاتخَلُّفي
+no-lift angle	زاويةُ اللاّرَفْع
+no-load current	تيّارُ اللاّحِمْل (في مُحوِّل أو مُحرِّك)
+no-load loss	فَقْدُ اللاَّحِمْل (في مُحوِّل أو محرِّك)
+no-load power	القُدْرةُ اللاَّحِمليَّة
+no-load test	اِختِبارٌ لاحِمْليّ (بدونِ حِمْل)
+no-load voltage	جُهْدُ اللاحِمْل
+no-man’s-land	مِنطَقةٌ حَرام، مِنطَقةٌ مُجرَّدة من السِّلاح
+NO-OP	تعليمة بلا عمل
+no-op (no-operation instruction)	تَعْليمةُ اللاعَمَل
+no-operation instruction	تعليمة بلا عمل
+no-run take-off	إقلاعٌ بلا دُروج، نُهوضٌ بلا جَرْي
+no-voltage release	قاطِع (دارةٍ تِلقائيّ) بانهيارِ الڤلْطيَّة
+Nobbs points	نِقاطُ نوبْس
+Nobel prize	جائِزة «نوبِل»
+nobelium (No)	النُّوبِليُوم
+noble gas = inert gas	غازٌ نَبيل، غازٌ خامِل
+noble metal	فِلِزٌّ نبيل، مَعْدِنٌ كريم
+noble potential	جُهْد كاثودي (بالنسبة لجُهد الهِدْروجين)
+NOC	مركز عمليات الشبكة
+noctilucent clouds	سُحُبٌ لَيليَّة مُضيئة / سُحُبٌ لَيْلِيَّة ضَوْئِيَّة
+noctua-noctuid	ليلية
+nocturnal	لَيليّ، لَيليُّ النشاط؛ لَيْليَّة
+nocturnal cooling	بُرودةٌ لَيْلِيَّة
+nocuous	مُؤذٍ، ضارٌّ
+nodal gearing	تُروسٌ عُقْدِيَّة (في عَمود الإِدارة)
+nodal line	خط عُقْدي
+nodal plane	المُستَوي العُقْدي
+nodal point	نُقْطة عُقْدِية / نقطة عقدية / نقطة عددية / نقطة عُقدية
+nodal points of a lens	نُقطَتا العَدَسة العُقدِيَّتان
+node	عُقْدَة؛ عُجْرَة، كُعبورة؛ عقدة / 1 عقدة ؛ 2 عقدة ؛ 3 عقدة / عُقْدَة / عقدة / عُقْدة
+node of curve	عقدة منحنٍ
+node of the fault	نقطة الفالق / نقطة (ال..) التي يتغير فيها اتجاه رمية الفالق
+node, ascending	العُقدَة الصاعِدة، عُقدةُ الرأس
+node, descending	العُقدةُ النازلة، عُقدةُ الذنَب
+Nodes	عُقَد
+nodical month	شهر عقدي
+Nodon rectifier	مُقَوِّم «نُودُون» (الإلِكتروليتي)
+nodose	عُقَديّ، عُجَريّ
+nodular	عُجَيريّ، عُقَديّ / عُقَدِي / عقدي
+nodular bacteria	بكتريا عقدية
+nodular cast iron	حديدُ صبٍّ عُقدي
+nodular or	خام عقدي
+nodular ore	خام عُقَدِي
+nodular shale	طَفْلٌ عُقَديّ
+nodule	عُقَيْدَة؛ عُجَيرة / عُقَيْدَة / عقيدة
+nodulizing	كَعْبَرة
+nodulous (or nodulose)	عُقَديّ، ذو عُقَد، كَثيرُ العُجَر
+Noether, Amelie Emmy	إمِي أَمِيلِي نوثِر
+Noetherian module	مودول نوثِريّ
+Noetherian ring	حَلَقةٌ نوثِريَّة
+nog	لَوحَةُ تَسْمير، طُوبةٌ خشَبيَّة (في الجِدارِ لاِغراضِ التَّسْمير)؛ دُسْرة بَيْنيَّة (لِتَثبيت القَواطِع)
+noil	حُثالة (من الصُّوف)، مُشاقة
+noise	ضَوضاء، ضَجيج، ضَجَّة؛ تَشْويش، لَغَط؛ إشارةٌ دَخيلة (مُشَوِّشة) / 1 ضجيج ؛ 2 ضجيج / ضجًة، ضجيج / ضجيج
+Noise (or Noisy Data)	تشويش (أو بيانات مشوِّشة)
+noise abatement	تَخْفيفُ الضَّوضاء
+noise antenna	هَوائيّ مُضادٌّ لِلتَّشْويش
+noise audiogram	المُنحَني البَيانيُّ السمعيُّ لِلضَّجيج
+noise control	كبحُ الضجيج (بالعَزْل أو الامتصاص)
+noise eliminator	مانِعُ الضجيج
+noise factor = noise figure	عامِلُ (أو رَقْمُ) الضجيج (في مُحوِّل طاقيّ)
+noise filter	مُرشِّحُ الضجيج
+noise filtering	تَنْقِيةُ الضَّوْضاء
+noise galactic; galaxy noise	ضجيج المجرة
+noise generator	مُوَلِّدُ الضَّجيج
+noise insulation = sound insulation	عَزْلُ الصوت، إصمات؛ وَسائلُ عَزْل الضجيج
+noise level	مُستَوى الضجيج
+noise limiter = noise suppressor	مانِعُ الضوضاء، كاتِمُ الضجيج
+noise meter	مِقياسُ الضجَّة (أو الضجيج)
+noise pollution	التلَوُّث الضَّجيجيّ (في البِيئة) / التلوث الصوتي (الضوضاء)
+noise rating	تَقْديرُ الضجيج
+noise ratio	نِسْبةُ الضجيج
+noise reduction	تَخْفيضُ الضوضاءِ، خَفْضُ الضجيج
+Noise reduction and silence removal	تقليل التشويش
+Noise shaping	تشكيل الضجًة
+noise signal	إشارةٌ ضَوضائية
+noise source	مَصْدرُ ضَجيج
+noise suppression	كَبْتُ الضَّجيج، كَتْمُ الضجيج
+noise suppressor	كاتِمُ الضجيج، كابِتُ الضَّوضاء
+noise waves, organized	مَوجاتٌ لَغَطِيَّة مُنتظَمَة
+noise, ambient	الضَّجيجُ المُكْتَنِف
+noise, atmospheric	ضَوضاء جَوِّيَّة
+noise, circuit	ضجيجُ دارةِ الاستِقبال
+noise, discrete	لَغَط مُتميِّز
+noise, galaxy	ضَجيج سَديمي، ضَجيجٌ مَجَرِّي
+noise, line	ضَجيجُ خطِّ النَّقْل
+noise, modulation	ضَجيجُ التضمين (المُرافِقُ لإشارة راديوية)
+noise, random	ضجيجٌ عَرَضيّ أو عشوائي
+noise, reference	ضَجيجُ مُقارنة
+noise, surface	ضَجيجُ السطح (في أُسطوانةِ التسجيل)
+noise, switching	ضَجيجُ تَشْغيل المَفاتيح، ضوضاءُ إعمالِ المقاليد
+noise, thermal = Johnson noise	ضَوضاء حَراريَّة، ضَجيجٌ حَراري
+noise, transmission impairment	ضَجيجٌ يُتلِفُ الإرسال، ضوضاءُ تَلَف الإرسال
+noise-cancelling microphone	ميكروفون مانِعٌ للضجيج
+noiseless engine	مُحرِّك صامِت
+noiseless recording	تَسْجيلٌ لاضَجيجي
+noisy	ضاجّ، ضَجيجيّ، ضَوضائيّ، كثيرُ الضجَّة أو التشويش
+noisy running	دَوَرانٌ ضَجيجيّ
+nomadism	بَداوَة
+Nomag	نُوماڠ
+nomenclature	تَسْمِيَة؛ مَجموعة مُصطَلحات (في مَوضوعٍ مُعيَّن) / صُنَافَة / مسميات
+nomenclature, binomial	التَّسْميَّة الثُّنائيِّة
+nominal	اِسمِيّ؛ اِعتِباري / اسميّ
+nominal (horse-)power	القُدرةُ (الحِصانيةُ) الاِسمية
+Nominal and verbal clauses	عبارات اسمية وعبارات فعلية
+nominal capacity	السّعَة الاِسميَّة (مِن حِسابِ الأبعادِ الخارِجيَّة لِلصِّهريج مَثَلاً)
+Nominal Holding Gains	مكاسب الاقتناء الاسمية
+nominal output	الخَرْجُ الاِسمي
+Nominal sentence	الجُملة الاسمية
+nominal value	قِيمة اِسميَّة / قيمة اسمية
+nominate	سَمَّى (لمنصبٍ أو وَظيفة)، رشَّحَ؛ عيَّنَ
+nominated subcontractor	المُقاوِلُ من الباطِن المُرَشَّح
+nominated supplier	المُوَرِّدُ المُرَشَّح
+nomination	تَسْمية، تَرْشيح؛ تَعْيين
+Nominative	مرفوع
+nominative shares	أسهم اسمية
+nominee	مُرَشَّح، مُعَيَّن (لوظيفةٍ أو منصب)
+nomogram	مُخَطَّطُ مُحاذاة
+nomogram = nomograph	مُخَطَّط بَيانيّ
+nomograph	مُخَطَّطُ مُحاذاة
+non basic chromosomal proteins	بروتينات صبغية لا قاعدية
+non corrosive	غير قابل للحت
+non cross over gamete	مشيج لاتعابريّ
+non disjonction	عدم الانفصال الإجباريّ
+non essential amino acid	حمض أمينيّ غير أساسيّ
+non histone proteins	بروتينات لا هستونية
+non homologous chromosomes	صبغيات غير متشابهة
+non homologous genes	مورثات غير متشابهة
+non mendelian	لا مندلية
+non mendelian genes	جينات لا مندلية
+non mendelian inheritance	وراثة لا مندلية
+non parental ditype	نمط ثنائيّ لا أبويّ
+Non parity	لا زوجيًة
+non permissive conditions	ظروف غير سمحة
+non random affinity	ألفة غير عشوائية
+non random association genes	اتحاد غير عشوائيّ للمورثات
+non reciprocal recombination	اتحاد لا تبادليّ
+non reciprocal translocation	انتقال لا تبادليّ
+non recurrent parenthood	أبوة غير راجعة
+non repetitive DNA	دنا غير تكراريّ
+non restitutional union	اتحاد غير ارتداديّ
+non structural gene	مورِّث لا بنيويّ
+non transcribed spacer	مباعد غير منتسخ
+non transcribed strang	خيط غير منتسخ
+non volatile memory	ذَاكِرَةٌ دَائِمَة
+non-	بادِئة بمعنى: غير، لا
+non-absorbent	غيرُ مَصّاص، لااِمتِصاصيّ
+non-acid	لاحامِضيّ
+non-aqueous solution	مَحْلولٌ لامائيّ
+non-aqueous solvent	مُذِيبٌ لامائيّ
+non-arcing fuse	مِصْهَرٌ لاقَوسيّ
+non-arcing metal	سَبيكة لاقَوسية
+non-associated gas	الغازُ غيرُ المُرافَق
+non-bearing wall	جدارٌ غير حامِل
+non-bedded	لاطِباقي، غيرُ مُتَطبِّق / غير متَطَبِّق / غير مطبق
+non-bleeder spray gun	مدفعة رشٍّ لانزفيَّة
+non-bleeding cable	كَبْلٌ (مُشْرَبٌ) لانَزُوف
+non-bonding electrons	الكترونات غير رابطة
+Non-Citizenship Residence	الإقامة غير المرتكزة على الجنسية
+non-cohesive soil	تُرْبة لامُتَماسِكة
+non-collinear	غيرُ مُتسامِتَة (ليست على استِقامة واحِدة)، لامُتَسامِت / غير متسامتة
+non-combustible	لاحَرُوق، لا يَحترِق، غير قابلٍ للاحتراق
+non-commissioned officer	ضابطُ صَفّ
+non-compensated	غيرُ مُعادَل
+non-competitive lease	اِمتيازٌ لاتَنافُسيّ
+non-concurrent	غير متلاقية
+non-concurrent forces	قُوًى غيرُ مُتَلاقية
+non-condensable gases	غازاتٌ لاكَثُوفة
+non-condensing engine	مُحرِّكٌ (بُخاريٌّ) لامكثِّف
+non-conductive = non-conducting	غيرُ مُوَصِّل، لامُوَصِّل (لِلكَهرباء والحَرارة)
+non-conductor	لامُوَصِّل، مادة غيرُ مُوَصِّلة
+non-conference line	خط غير عضو في اتحاد بحري
+non-conforming	مُبايِنُ القياسات الصُّنعية (وليس بالضرورة مَعيبًا)
+non-conformity	تبايُن، عدَمُ انسِجام؛ تَبايُن
+non-contributing area	مِنْطقَة جَلْدة
+non-cooperative	غيرُ مُتعاوِن
+non-coplanar forces	قُوًى مُختلِفةُ المُستَوي
+non-coplaner lines skew lines	مستقيمات ليست في مستو واحد
+non-corrodible	لا يَصْدأ، لا يتأكسَد؛ لا يتأكَّل، لا يتَحاتّ، لاحتوت
+non-corrosive	غيرُ أكَّال، لا يَحتُّ كيماويًّا
+non-cutting stroke	شَوطُ اللاّقَطْع
+non-cyclic	لاحَلْقي
+non-destructive read-out	قِراءةٌ غيرُ ماحِيَة
+non-destructive testing	اِختبار غير مُتْلِف
+non-directional	لااتجاهي
+non-directional microphone	ميكروفون لااتِّجاهيّ
+non-directional radio beacon	مَنارةٌ لاسِلكيَّة غيرُ مُوَجِّهة
+non-displacement craft	عائمة غير مزاحة
+non-dissipative network	شَبَكة لاتبَدُّديَّة (أو غير مُبَدِّدة)
+non-drying	لاجَفُوف
+non-drying oil	زَيتٌ لا يَجِفُّ، زَيتٌ لاجَفُوف
+non-durable goods	سِلَعٌ اِستهلاكيَّة
+non-effective measures	إجراءات غيرُ فَعّالة
+non-elastic collision	تصادُمٌ لامَرِن
+non-electrics	اللاكَهْربيات
+non-endospermous	عديم الأندوسبرم
+non-entity	عَدَم، لاوُجود؛ شَيءٌ كالعَدَم
+non-equilibrium	لاتَعادُل، لاتَوازُن
+non-erasable memory	ذاكِرة لاماحِيَة
+non-erasable storage	خَزْنٌ لا يُمْحَى
+non-Euclidean geometry	هَنْدَسة لاإقليدِيَّة / هندسية لا اقليدية / هَنْدَسةٌ لاإقْليدِيَّة
+non-Euclidean space	فضاء غير اقليدي
+Non-existant	غير موجود
+non-existent	غيرُ مَوجود، لا يوجدُ
+non-expansion engine	مُحَرِّك لاتمَدُّدي
+non-ferrous	لاحَديديّ
+non-ferrous alloy	سَبيكةٌ لاحَديديَّة
+Non-Ferrous Metal Residues	مخلفات المعادن غير الحديدية
+Non-Financial Corporations Sector	قطاع المشروعات غير المالية
+non-fission capture	أسْرٌ لااِنشطِاريّ
+non-flam film	فيلم لا يحتَرِق
+non-flammable	لالَهُوب، لا يَشْتَعِل / غير قابل للاشتعال
+non-flexible	غيرُ قابلٍ للانثِناء، لامَرون
+non-fluctuating	غيرُ مُتَراوِح
+non-foaming	لارَغاويّ، لا يتَرغَّى
+non-formation	صأصأة
+non-fractionating distillation	التقطيرُ اللاتَجزئيّ
+non-freezing	لاجَمُود، لا يتجَمَّدُ
+non-frothing oil	زَيتٌ غير مُزْبِد
+non-functioning body	جِسْمٌ عاطِل (أو غيرُ عامِل)
+non-graded sediments	توضُّعات جزئياتها مختلفة الحجوم / توضعات جزئياتها مختلفة الحجوم
+non-granular; non-granulate	غير حُبيبي / غير حبيبي
+non-halation film	فِيلم لاهاليّ
+non-hygroscopic	غَيْر مُستَرطِب، لااسترطابيّ
+non-ideal	لامِثاليّ، غيرُ مِثاليّ
+non-impact printer	طابعة لاصدميَّة
+non-inductive capacitor	مُكَثِّف (سَعَوِيّ) لاحَثِّيّ، مُواسِعٌ لاتحريضيّ
+non-inductive circuit	دارة لاحَثِّيَّة
+non-inductive load = non-reactive load	حِمْلٌ لاحَثِّيّ
+non-inductive resistor	مُقاوِم لاحثِّيّ، مُقاوِم لاتحريضيّ
+non-inflammable	لالَهُوب، لا يشتَعِل
+non-integrated	غير مُتكامِل
+non-interacting	غير مُتفاعِل، لا تَبادُليُّ التفاعُل
+non-interchangeable	لاتبادُليّ، غير متبادَل
+non-interference	عدمُ التدَخُّل، عَدَم التداخُل
+non-intermittent	غيرُ مُتقَطِّع، مُستَمِرّ
+non-intersecting	غير مُتقاطِعَة
+non-intervention	عدمُ التدَخُّل
+non-ionic detergents	مُنَظِّفاتٌ لامُتَأَيِّنة
+Non-life Insurance Claims	المطالبات على التأمين على غير الحياة
+non-linear	لاخَطِّيّ
+non-linear amplifier	مُضَخِّمٌ لاخَطِّيّ
+non-linear correlation	اِرتِباط لاخَطِّيّ (العَلاقةِ)
+non-linear distortion	تشَوُّه لاخَطِّي
+non-linear distortion coefficient	مُعامِلُ التشَوُّه اللاّخَطِّي
+non-linear equation	مُعادَلة لاخطِّيَّة (ليسَت من الدرجةِ الأولى)
+non-linear network	شَبَكةٌ لاخَطِّيَّة
+non-linear resistance	مُقاوَمَة لاخَطِّية
+non-linearity	لاخَطِّيَّة
+non-locking key	مِفتاحٌ مرتَدّ (عندَ رَفْع اليَد أو اِنقِطاع التيّار)
+non-locking relay	مُرَحِّلٌ مُرتَدّ
+non-luminous flame	لهبٌ غير مُضيء
+non-luminous radiation	إشعاعٌ غيرُ مُضيءٍ
+non-magnetic	لامِغنَطيسيّ، لامَغْنيطيّ
+non-magnetic steel	فُولاذٌ لامِغنطيسي (بهِ حَوالى 12 بالمئة مَنْغنيز)
+non-magnetic watch	ساعة لامِغنطيسيَّة (لا تتأثَّرُ بالمَجال المِغنطيسي)
+non-malleable	لاطَرُوق، غيرُ قابلٍ للتطريق
+Non-market Services; Non-Market Services – OECD	الخدمات غير السوقية
+Non-Maximum Suppression (NMS)	إزالة غير الأكبر
+non-metal	لافِلِزّ، عُنْصُر لافِلِزِّيّ (أو لامَعدِني)
+non-metallic	لافِلِزِّي، لامَعْدِنيّ
+non-metallic element	عُنْصُر لافِلِزِّي
+non-metallic inclusions	مُتَضمَّناتٌ (أو شَوائبُ) لافِلِزيَّة
+non-metric geometry	هندسة غير مترية
+non-miscible	لامَزُوج، لا يختَلِط
+non-miscible liquids	سَوائلُ لااختِلاطيَّة، سوائل لامَزُوجة
+Non-Monetary Benefits	الفوائد غير النقدية
+Non-monetary Gold	الذهب غير النقدي
+non-Newtonian fluid	مائع لانيوتوني
+non-observance	لامُراعاة، عدَمُ التقَيُّد (بِـــ)
+non-odorous	لافَوّاح، عَديمُ الرائحة
+non-ohmic	لاأُوميّ
+Non-oil Exports	الصادرات غير النفطية
+non-op(eration)	تَعْليمةُ اللاّعَمَل
+Non-optimal solution	حل ليس أمثَل
+non-orgaic world	عالم غير عضوي
+non-organic	لاعُضْويّ
+non-oscillatory	لاتذَبْذُبيّ
+non-oxidizable	لا يتأكسَدُ
+Non-Parametric Model	نموذج غير مُعامِلي
+non-periodic	غيرُ دَورِيّ، لادَوري
+non-piping	لاتَنبُّبي
+non-polar	لاقُطْبيّ، لااِستِقطابيّ
+non-polar bond	تَرابُطٌ لاقُطْبي
+non-polar compound	مُرَكَّبٌ لاقُطْبيّ (أو لااِستِقطابي)
+non-polar molecule	جُزَيءٌ لاقُطْبيّ
+non-polar solvent	مُذيبٌ لاقُطْبيُّ الجُزَيئات
+non-polarizable cell	خلِيَّة لااِستِقطابيَّة
+non-polarized relay	مُرَحِّلٌ لااِستِقطابي، مُرَحِّلٌ مُحايِد
+non-porous	غيرُ مَساميّ
+non-pressure heater	مُسَخِّنٌ لاضَغْطيّ، مُسخِّنٌ إزاحِيّ
+non-productive	غيرُ مُنتِجٍ
+Non-Profit Institutions	المؤسسات غير الهادفة للربح
+Non-Profit Institutions Serving Households	قطاع المشروعات غير الهادفة للربح التي تخدم الأسر المعيشية
+non-radioactive tracer	مُقْتَفٍ لاإشعاعي
+non-reactive	غيرُ فَعّال، لاتفاعُليّ؛ لامُفاعِليّ
+non-reactive load	حِمْلٌ لامُفاعِليّ
+non-recoil(ing) gun	مِدفَعٌ لااِرتداديّ
+non-reducing sugar	سُكَّرٌ لااِختِزاليّ
+Non-regular Enrolled Student	مقيد غير منتظم بالدراسة
+Non-Relational Database	قاعدة بيانات غير علائقية
+Non-Relational Model	نموذج غير علائقي
+non-relativistic	لانِسْبَويّ، لانِسْبيُّ السرعة
+non-renewable	لايُجَدَّد
+Non-Repudiation	عدم الإنكار - عدم التنصل
+Non-Resident Shareholders	أصحاب الأسهم غير المقيمين
+Non-Residential Buildings	مبانٍ غير سكنية
+non-resinous	لاراتينَجيّ
+non-resonant antenna = aperiodic antenna	هَوائيٌّ لارَنينيّ، هَوائيّ لادَوريّ
+non-resonant line	خَطّ (إرسالٍ) لارَنينيّ
+Non-Resp-Español onse Bias	تحيُّز عدم الاستجابة
+non-return	غير مرتد
+non-return valve	صِمامٌ لارجْعيّ / صمام لا رجعي
+non-reverberant room	غُرْفة لاتَردُّديَّة، غُرفة لامُرَدِّدة
+non-reversible	لاعَكُوس، لارَجُوع
+non-reversible clutch	قابضٌ لاعَكُوس
+non-reversible movement	حَرَكةٌ لارَجُوعة (كانكِماشِ الخَرَسانة)
+non-rigid airship	مُنطاد غيرُ جاسِئ
+non-rotatable	لا يُدار، لا يُدَوَّر
+non-scheduled	غيرُ مُدْرَجٍ (في الجَدول أو البرنامج)
+non-sequence	لاتتابُع، تبايُن التسَلْسُل الطَّبَقِيّ
+non-shatterable glass	زُجاجٌ لانَثور
+non-shrinkable	لااِنكِماشيّ، لاكَمُوش
+non-singular matrix	مصفوفة عكوس
+non-sinusoidal wave	مَوجَة لاجَيبيَّة
+non-skid = non-slip	لازَلُوق، لااِنزلاقي، مُضادٌّ لِلانزِلاق
+non-skid chain	سِلْسلةٌ مانِعةٌ لِلانزِلاق
+non-skid surface	سَطْحٌ لااِنزلاقي
+non-skid tyre	إطارٌ مُضادٌّ لِلانزِلاق
+non-slip floor	أرضيَّة لااِنزلاقية
+non-slip nosing	حافةٌ لازَلُوقة؛ شَفةُ الدَّرَجة اللااِنزِلاقيَّة
+non-slip surface	سطح غير منزلق
+non-soluble	غيرُ ذَوّاب، لاذؤوب
+non-specular reflection	انعكاسٌ لامرآوي
+non-spillable	لادَلُوق، لا يَنْدَلِق
+non-standard	لاعِياريّ، غيرُ قِياسيّ
+non-stop	لاتوَقُّفِيّ، دونَ تَوَقف
+non-stop flight	طَيَرانٌ دونَ تَوقُّف
+non-striated muscle	عَضَلةٌ غير مُخَطَّطة
+non-synchronous motor	مُحَرِّك لاتزامُنِيّ
+non-techonite	صخر لاتكتوني
+non-tectonic rock	صخر لاتكتوني
+non-tension joint	وُصْلَة لاشَدِّيَّة
+non-terminating decimal	كسْرٌ دائِر، كَسْرٌ غير مُنْتَهٍ
+non-tidal current	تيار غير مدي، تيار مستقل
+Non-Traditional Data	بيانات غير تقليدية
+non-transitive relation	علاقة غير متعدية
+non-uniform flow	جَرَيانٌ لااِنتِظامي، تدَفُّق غيرُ مُنتظَم
+non-uniform strain	انفِعال غيرُ مُنتظم
+non-valent	لاتَكافُئِي
+non-variant system	نِظامٌ عديمُ التغيُّر
+non-volatile	لا مُتَطايِر، لاتَطايُريّ؛ لا مُتَلاشٍ، واطِد، راسِخ / غير-متطاير
+non-volatile memory	ذاكِرةٌ لامُتَلاشِيَة / ذاكرة غير-متطايرة
+non-volatile storage	خَزْنٌ راسِخ أو مُستقِرّ / تخزين غير-متطاير
+non-volatile vehicle	حامِلٌ راسِخ
+non-wetting liquid	سائلٌ لابَلُولي
+nona	تُساعِيّ
+nonagon	تُساعيّ، مُتَسَّع / تُساعي / تُساعِيُّ الأَضْلاع
+nonagonal number	عَدَدٌ تُساعِيّ
+nonagram	نَجْمةٌ تُساعِيَّة
+nonahedron	مُتَعَدِّدُ وُجوهٍ تُساعِيّ
+Noname	لا أسم
+nonassociative algebra	جَبْرٌ غَيْرُ تَجْميعِيّ
+nonassociative ring	حَلَقةٌ غَيْرُ تَجْميعِيَّة
+nonatomic Boolean algebra	جَبْر بُول غَيْرُ الذَّرِّيّ
+nonatomic measure space	فَضاءُ قِياسٍ غَيْرُ ذَرِّيّ
+nonbreaking space	فراغ لامنقطع
+noncentral quadric	سَطْحٌ تَرْبيعِيٌّ غَيْرُ مَرْكَزِيّ
+Noncluster mode	نمط لا عنقودي، نمط لا خصلي
+Nonconcatenative morphology	صرف غير إلصاقي
+nonconductor	لاناقل (لاموصل)
+nonconformable	مُتَبَايِن / متباين
+nonconformity	تَبَايُن / تباين
+noncontiguous data structure	بنية معطيات غير متلاصقة
+noncritical region	مَنْطِقةٌ غَيْرُ حَرِجة
+noncrystalline	غير متبلور
+nondecreasing function	دالَّةٌ غَيْرُ مُتَناقِصة
+nondegenerate plane	مُسْتَوٍ غَيْرُ مُتَرَدٍّ
+nondenumerable set	مَجْموعةٌ غَيْرُ عَدودة
+nondestructive readout	قراءة لاإتلافيّة
+nondifferentiable programming	بَرْمَجةٌ غَيْرُ فَضولة
+None	لا شيء، بدون، لا أحد
+nonelectrolyte	لاكَهْرَل، مادَّة لاإلِكتروليتيَّة
+nonessential singularity	نُقْطةُ شُذوذٍ غير أساسِيّ
+nonetheless	معَ ذلِك، بالرَّغْم مِن ذَلِك
+nonexecutable statement	1 عبارة غير قابلة للتنفيذ ؛ 2 عبارة لاتنفيذية
+nonexpansive mapping	تَطْبيقٌ غَيْرُ تَمَدُّدِيّ
+nonferrous	لا حديدي
+nonferrous metallurgy	عدانة الفلزات غير الحديدية
+nonholonomic constraint	قَيْدٌ غَيْرُ هولونومِيّ
+nonillion	نونيلِيون
+nonimpact printer	طابعة لاطَرْقية
+nonincreasing function	دالَّةٌ غَيْرُ مُتَزايِدة
+noninterlaced	لامتحابك
+nonius = vernier	وَرْنِيَّة
+Nonlinear	لاخطّي
+nonlinear equation	مُعادَلةٌ غَيْرُ خَطِّيَّة
+nonlinear programming	برمجة لاخطية / بَرْمَجةٌ لاخَطِّيَّة
+nonlinear regression	انْكِفاءٌ غَيْرُ خَطِّيّ
+nonmagnetic	لا مغناطيسي
+nonmagnetic steel	صلب لا مغنطيسي، فولاذ لا مغناطيسي / صلب (فولاذ) لا مغنطيسي
+nonmaskable interrupt	مقاطعة غير قابلة للحجب
+nonmetal	لافِلِز / لافلز
+nonmetallic	لافلزي
+nonmetallic inclusion	تداخل لا فلزي
+nonnegative (adj)	غَيْرُ سالِب
+nonnegative integer	عَدَدٌ صَحيحٌ غَيْرُ سالِب
+nonnegative semidefinite linear operator	مُؤَثِّرٌ خَطِّيٌّ نِصْفُ مُعَرَّفٍ غَيْرُ سالِب
+nonnegative semidefinite matrix	مَصْفوفةٌ نِصْفُ مُعَرَّفَةٍ غَيْرُ سالِبَة
+nonocyclic	أحادي الدورة
+nonomino	دومينو تُساعِيّ
+nonorientable surface	سَطْحٌ غَيْرُ قابِلٍ للتَّوْجيه
+nonorientation	اهتداء متماثل
+nonparametric statistics	إحْصاءٌ غَيْرُ وَسيطِيّ
+nonperiodic decimal	عَدَدٌ عَشْرِيٌّ غَيْرُ دَوْرِيّ
+nonpositive (adj)	غَيْرُ موجِب
+nonpositive integer	عَدَدٌ صَحيحٌ غَيْرُ موجِب
+nonprobabilistic sampling	اعْتِيانٌ غَيْرُ احْتِمالِيّ
+nonprocedural language	لغة لاإجرائية
+nonrecurring decimal	عَدَدٌ عَشْرِيٌّ غَيْرُ تَكْرارِيّ
+nonremovable discontinuity	انْقِطاعٌ غَيْرُ قابِلٍ للإزالة
+nonrepeating decimal	عَدَدٌ عَشْرِيٌّ غَيْرُ تَكْرارِيّ
+nonresidue number	عَدَدٌ لَيْسَ باقِيَ قِسْمة
+nonreturn to zero	1 عدم عودة إلى الصفر ؛ 2 عدم عودة إلى الصفر
+nonrusting	لايصدأ
+nonsense codon; termination codon	رامزة لاغية
+nonsense correlation	ارْتِباطٌ وَهْمِيّ
+nonsense mutation	طفرة لاغية
+nonsense suppressor	كابت الإلغاء
+nonseparable graph	بَيانٌ غَيْرُ فَصول
+nonsingular matrix	مَصْفُوفة غيرُ فَريدة / مَصْفوفةٌ غَيْرُ شاذَّة
+nonsingular transformation	تَحْويلٌ غَيْرُ شاذّ
+nonsister chromatids	كروماتيدات غير شقيقة
+nonsquare Banach space	فَضاءُ باناخ غَيْرُ مُرَبَّع
+nonstandard numbers	أَعْدادٌ غَيْرُ مِعْيارِيَّة
+Nonstationarity	عدم ثبات
+nonterminal node	عقدة لاطرفية
+nonterminal vertex	رَأْسٌ غَيْرُ نِهائِيّ
+nonterminating continued fraction	كَسْرٌ تَسَلْسُلِيٌّ غَيْرُ مُنْتَهٍ
+nonterminating decimal	عَدَدٌ عَشْرِيٌّ غَيْرُ مُنْتَهٍ
+nonthermal radiation	إشعاع لا حراري
+nontransitive relation	عَلاقةٌ لامُتَعَدِّية
+nontrivial	لابديهي / غير مبتذل
+nontrivial solution	حَلٌّ غَيْرُ تافِه
+nonuniform memory architecture	بنيان ذاكرة غير موَحَّد
+nonviscous flow	جَرَيانٌ غيرُ لَزِج
+Nonvolatile	غير متطاير
+nonvolatile memory	ذاكرة لامتلاشية
+nonzero (adj)	غَيْرُ صِفْرِيّ
+nook	زاوِية، رُكْن
+noon	الظُّهْر، الظَّهيرة، الزَّوال / زوال (ال...)
+noose	أنشُوطَة؛ أوقَعَ في أُنْشوطة
+NOP	تعليمة بلا عمل
+nopal	تين شوكي
+NOR	نَفْيُ (أَوْ) المَنْطِقِيَّة
+NOR gate	بَوّابةُ «لا - أو»
+Nordhausen sulphuric acid = fuming sulphuric acid	حامِضُ الكِبريتيك المُدَخِّن
+nordmarkite	نوردماركيت
+Norfolk (or Canadian) latch = thumb latch	سَقّاطة كنديَّة
+noria	ناعُورة
+norite	نورَيت
+norm	مُستَوى عِياريّ، مِعيار؛ مُعَدَّل، وَسَط؛ قاعِدة، أُمثولة؛ القيمة المُطلقة للمُتَّجِه؛ تَركيب مَعدِنيّ مِعياري / معيار / نَظْمٌ / نَظيم
+norm of a vector	نظيمُ متجهٍ
+norm of reaction	مواصفة الاستجابة
+norma	مسطرة النقاش
+Norma (The Level)	مِسطرةُ النقّاش
+normal	عاديّ، طبيعي؛ سَوِي، نِظامي؛ مُعَدّل؛ عَمُودي، ناظِمي، مُتَعامِد؛ عِياريّ، قِياسيّ؛ سَويّ؛ المُعَدَّل، السَّوِيُّ؛ ناظِم، خَطّ عَمُوديّ / عادي،طبيعي / نظامي / عادي
+normal (or Gaussian) curve	مُنْحَنٍ جَرَسيّ، مُنْحَنٍ قياسيّ أو غاوسيّ
+normal (or Gaussian) distribution	توزيعٌ قياسيّ (أو غاوسيّ)
+normal (or three-point) landing	حَطٌّ عاديّ (على ثَلاث نُقَط)
+normal acceleration	تَسارُعٌ عَموديّ، عَجَلةٌ عَموديَّة / تسارع عددي
+normal agglutinins	ملزنات عادية
+normal aspiration	سَفْطٌ عاديّ
+normal atmospheric conditions	الأحوالُ الجَوِّيَّة العاديَّة
+normal atom	ذَرَّةٌ سَوِيَّة
+normal axis	مِحْوَرٌ ناظِميّ، مِحورٌ مُتَعامِد
+normal barometer	مْقياسُ الضَّغْطِ الجَوّيّ النَّمِطِيّ
+normal bend	وُصْلَة مِرْفَقيَّةٌ واسِعة القُطْر
+normal bundle	حُزْمةٌ ناظِمِيَّة
+normal calorie	كالوري عادي، سُعْر
+normal capacity	الطاقةُ الإنتاجيَّة العاديَّة
+normal chart	خَريطة قِياسيَّة
+normal component	مُرَكِّبة عَموديَّة
+normal concentration	تَرْكيز عِياريّ
+normal curvature	تقَوُّسٌ عَموديّ (أو ناظِميّ) / تَقَوُّسٌ ناظِمِيّ
+normal curve	المُنْحَني الطَّبيعِيّ
+normal cut	قَطْعٌ مُتَعامِد، قَطْعٌ ناظِميّ
+normal density function	دالَّةُ الكَثافَةِ النِّظامِيَّة (الطَّبيعِيَّة)
+normal dip	مَيْلٌ عاديّ / مَيْل عادي / ميل عادي، ميل لاعام
+normal displacement	إزاحة نظامية، إزاحة عادية
+normal distance	مَسافة عَمودية
+normal distribution	توزع طبيعي / توزيع طبيعى / توزيع طبيعي / توزيع نظامي / تَوْزيعٌ نِظامِيّ (طَبيعِيّ) / توزيع مُنظَّم
+normal distribution curve	منحنى توزيع نظامي
+normal divisor	قاسِمٌ عادِيّ
+normal down-throw	صَدْع عادي / صدع عادي
+normal electrode potential	جُهْدٌ إلِكترودي عِياري
+normal element	خَليَّة عياريَّة
+normal emission	اِبتعاثٌ عادي
+normal equation of line	معادلة الخط النظامية
+normal equations	مُعادَلاتٌ عادِيَّة
+normal erosion	حَتٌّ رأسيّ
+normal extension	تَمْديدٌ عادِيّ
+normal eye	عَيْنٌ سَوِيَّة
+normal facies	سِحْنَة عادية / سحنة عادية
+normal family	جَماعةٌ عادِيَّة
+normal fault	صَدْعٌ رَأسِي
+normal fold	طَيَّة عاديَّة (مُتَناسِقة) / طية عادية، طية متناظرة
+normal form	1 نموذج نظامي ؛ 2 شكل نظامي / شكل عادى
+normal function	دالَّةٌ ناظِمِيَّة
+normal gravity	الجاذِبيةُ (الثَّقالةُ) العِيارية
+normal hyphen	واصلة عادية
+normal induction	تَحْريضٌ (أو حَثٌّ) عاديّ
+normal load	حِمْلٌ مُتَعامِد؛ حِملٌ عادِيّ
+normal logarithm	اللوغاريتمُ العادي (لِلأساس عَشَرة)
+normal loop	حَرَكة أُنشوطيةٌ عاديَّة (تبدأُ وتَنتهي بالطيَران العادي)
+normal maintenance	صِيانة عاديَّة
+normal matrix	مَصْفوفةٌ عادِيَّة
+normal mode	نَسَقٌ عاديّ، مِنوالٌ طَبيعيّ
+normal mode of vibration	نَسَقُ التذَبْذُب العادي
+normal number	عَدَدٌ عادِيّ
+normal of curve	عمود على منحنٍ
+normal operation	تَشْغيلٌ عادي، اشتِغالٌ عادي
+normal operator	مُؤَثِّرٌ عادِيّ
+normal pedal curve	مُنْحَنٍ قَدَمِيٌّ ناظِمِيّ
+normal permeability	نَفاذية عاديَّة
+normal pitch	خُطوة مُتعامِدة
+normal plane	مُسْتَوٍ ناظِمِيّ
+normal polarization	اِستِقطابٌ ناظِميّ
+normal pressure	ضَغْطٌ عاديّ، ضَغْطٌ عياريّ (ضغطُ 760 ملم زِئبق)؛ ضَغْطٌ عَمُوديّ
+normal probability paper	وَرَقةُ رَسْمٍ للاحْتِمالِ الطَّبيعِيّ
+normal reaction	رَدُّ فِعْلٍ ناظِميّ، ردُّ فِعلٍ مُتعامِد
+normal running	دَوران عادي
+normal salt	مِلحٌ سَوِيّ (ينتجُ مِن استبدالِ كلِّ هِدْروجين الحامِض بفِلِزّ)
+normal scour	تحاتٌّ عاديّ
+normal section	مَقْطعٌ عَمُوديّ، مَقْطعٌ ناظِميّ / مَقْطَعٌ ناظِمِيّ
+normal segregation	اِنعزالٌ عادي (لشَوائِب المَعدن)
+normal series	مُتَسَلْسِلةٌ عادِيَّة
+normal shrinkage	اِنكِماش أو تقَلُّص عادي
+normal solution	مَحلولٌ عِياري، مَحلول نِظامي (يحوي مُكافِئًا غراميًّا في اللِّتر)
+normal space	فَضاءٌ عادِيّ
+normal spectrum	طَيفٌ عادي
+normal state	حالة عاديَّة أو طَبيعيَّة
+normal stress	إجهادٌ مُتَعامِد، إجهادٌ ناظِميّ
+normal subgroup	زُمْرةٌ جُزْئِيَّةٌ عادِيَّة
+normal subring	حَلَقةٌ جُزْئِيَّةٌ عادِيَّة
+normal superposition	تراكُب عادي / تراكب عادي، تواكب عادي
+normal temperature	دَرَجةُ الحَرارة العِياريَّة
+normal temperature and pressure	درجةُ الحَرارة والضغط العِياريَّيْن (دَرَجَةُ الصِّفر المِئَوي وضَغْط 760 ملم زِئبق)
+normal threshold of hearing	عَتَبةُ السَّمْع العاديَّة
+normal to a curve	ناظِمٌ على مُنْحَنٍ
+normal to a plane	ناظِمٌ على مُسْتَوٍ
+normal to a surface	ناظِمٌ على سَطْح
+normal to plane	عمود على مستوٍ
+normal to surface	عمود على سطح
+normal tower	بُرْجٌ عادِيّ
+normal transformation	تَحْويلٌ ناظِمِيّ
+normal vector	متجه عمودي
+normal vector to a plane	مُتَّجِهٌ ناظِمِيٌّ على مُسْتَوٍ
+normal velocity	سُرعةٌ اِتجاهيَّة عَمُوديَّة
+normal vision	بَصَرٌ طَبيعي، بَصَرٌ سَوِيّ
+Normal Workdays	أيام العمل الاعتيادية
+normal working	تَشْغيل عادي
+normal working conditions	ظُروفُ التشغيلِ العادي
+normal year	سنة عاديَّة
+normalcy	الحالةُ السَّوِيَّة، سَوائيَّة
+Normalisation	التطبّيع
+Normalised	طبّ
+normality	سَوائيَّة، حالةٌ سَوِيَّة؛ عِياريَّة
+Normalization	تنميط
+normalize	سَوَّى؛ عايَرَ، جَعَلَ عِياريًّا؛ نَسَّقَ؛ طَبَّعَ حَراريًّا / 1 يستنظم ؛ 2 يستنظم / يقلل التكرار
+normalize (v)	يُناظِم
+normalized function	دالَّةٌ ناظِمِيَّة
+Normalized lexicon	معجم موحد
+normalized number	عددٌ مُسَوّى
+normalized variate	مُتَغِيِّرٌ ناظِمِيّ
+normalizer	مُعَدٍّ (جاعِلُهُ عاديًّا)
+normalizing	تَطْبيعٌ حَراريّ
+normally aspirated engine	مُحَرِّك عادي السَّفْط
+normally distributed observations	مُشاهَداتٌ ذاتُ تَوْزيعٍ طَبيعِيّ
+normals	مُعَدِّلات
+normative	مِعياريّ، قياسي
+normative mineral	مَعدن قياسيُّ الوجود
+normed	نظيم
+normed linear space	فَضاءٌ خَطِّيٌّ مُنَظَّم
+normed space	فضاء نظيم / فَضاءٌ مُنَظَّم
+normed system	نظام نظيم
+normed vector space	فَضاءٌ مُتَّجِهِيٌّ مُنَظَّم
+normoblast	أرومةٌ سَوِيَّة
+normocyte	كُرَيَّةٌ (حَمراء) سَوِيَّة
+north	الشَّمال؛ شَمالِيّ؛ شَمالاً / الشمال / شَمال / شمال
+north atlantic high	مُرْتَفَعُ (ال…) الجوي الأطْلَسِي الشمالي
+north declination	حُدور شَمالي
+north magnetic pole	القُطبُ المغنطيسي الشمالي
+north polar circle	دائرة(ال..) القطبية الشمالية
+north polar sequence	متتابعة قطبية شمالية
+north pole	قُطْب شَماليّ / القُطْب الشَّمالي / قُطْب شَمالي / قطب شمالي / قطب (ال..) الشمالي
+north sea	بحر(ال..) الشمالي
+North Sea gas	غازُ بَحْر الشمال
+north star	نجم قطبي
+North Star = Polaris	النَّجْمُ القُطْبيّ، مِسْمارُ القُطْب، الجُدَيّ
+north star; pole star	نجم الشمال، نجم(ال..) القطبي
+north temperate zone	المِنطَقةُ المُعتَدِلة الشَّماليَّة
+north, geographic	الشَّمالُ الجُغرافي
+north, magnetic	الشَّمال المِغنَطيسي
+north, true	الشَّمال الحَقيقي
+north-seeking pole	قُطْبٌ شَماليّ (في البُوصَلة)
+north-up	شمال علوي
+northbound	مُتَّجِهٌ شَمالاً
+Northbridge	جسر شمالي
+northeaster	رِيحٌ شَمالية شَرقية
+northeasterly	شَماليٌّ شَرقيّ
+norther	رِيح شَمالية / رياح شمالية
+northerly	شَماليّ؛ نَحْوَ الشَّمال
+northern blotting	تنشيف 'نورذرن'
+Northern celestial hemisphere	نصف الكرة السماوية الشمالي
+northern crown (the)	إكليل (ال...) الشمالي
+Northern Hemisphere	نِصفُ الكُرة الشمالي / نصف الكرة الشمالي
+Northern Lights = Aurora Borealis	الأضواءُ الشمالِيَّة، الشفَقُ القُطْبيّ الشماليّ
+northing	خَطُّ عَرْضٍ شَماليّ؛ الانزِياحُ شَمالاً
+Northrup furnace = coreless induction furnace	فُرْن «نورثرُوب»
+northward(s)	شَمالاً، نحوَ الشَّمال، شَماليّ
+northwester	رِيحٌ شَماليَّة غَربيَّة / عاصفة شمالية غربية، رياح شمالية غربية
+northwesterly	شَمالي غَرْبي
+norway (lobster)	جمبري(ال..)، لنغوستين
+NOS	نظام تشغيل شبكي
+nose	أنْف؛ حَيْزوم؛ مُقَدّمة (الطائِرة أو المركَب)؛ خَطْم (الطَّيَّة)؛ حَدَبة؛ أماميّ / خطم
+nose bit	لُقْمَة خَطْميَّة
+nose carp	كارب (ال..)الانفوي
+nose cone	مَخروطُ المُقَدَّمة، مَخْروط الرأس (في مُقدّمةِ الصاروخ)
+nose fairing	سَطْحُ انسيابِ المُقَدَّمة
+nose fuse	صِمامةُ الرأس، صِمامةٌ أماميَّة
+nose gear	مَجموعةُ تَشغيلٍ أماميَّة
+nose ribs	ضُلوع (تقويةٍ) أماميَّة
+nose suspension	تَعْليقٌ أماميّ (لِلمُحَرِّك)
+nose wheel	دُولاب المقدّمة، عَجَلةُ المقدّمة (في الطائرة)
+nose-cap	كُمَّةُ المُقَدِّمة، غِطاءُ الأنْف
+nose-dive	اِنقِضاض بالمقدِّمة؛ اِنقَضَّ رَأسيًّا
+nose-down	أمالَ مُقدّمَةَ الطائرةِ إلى أسفل؛ مُنخَفِضةُ المقدِّمة؛ هبوطُ المُقَدّمة
+nose-heavy	ثَقيلُ المقدِّمة
+nose-over	اِنقِلابٌ باتجاه المقدّمة (أثناءَ الحَطّ)؛ اِنتكَسَ، قَلَبَ (أو انقلبَ) لِجهة المقدّمة
+nose-piece	أنفِيَّةُ المِجْهَر؛ قِطعةُ الأنف (من النظارة)
+nose-up	اِرتفاعُ المقدّمة؛ مُرتفِعة المُقَدِّمة؛ رفَعَ المقدّمة، أمالَ المقَدَّمةَ إلى أعلى
+nosean (or noselite)	نُوزِيان، نوزليت
+nosebleed	رُعاف، نَزْف أنْفيّ
+noselite = nosean	نوزليت، نوزِيان
+nosing	شَفَةُ الدرَجة (أو عَتَبة النافِذة)، حافّةُ الدرَجة البارِزة المدوَّرة
+nosology	مَبْحثُ تَصْنيف الأمراض
+nostoc	نوستك
+nostril	منخر
+nostrils	المِنْخَران، فُتْحَتا الأنْف
+NOT	«لا» / نفي / لا
+not belonging	عدم انتماء
+Not Economically Active Population (Outside labor force)	السكان غير النشطين اقتصاديًّا (خارج قوة العمل)
+Not empty	غير فارغ
+Not Enrolled	غيــر مقيد
+Not equal	غير معادل
+Not equal to	غير معادل الى
+NOT function	دالَّةُ لا (دالَّةُ NOT)
+NOT gate	بَوّابةُ «لا»
+Not Interested to Work	زاهد في العمل
+not negotiable	غيرُ قابلٍ للتحويل
+not to scale	بغيرِ مِقياس الرسم، دونَ التقَيُّد بمِقياسِ الرَّسْم الأصلي
+not under command ship	سفينة مقيدة الحركة
+NOT-AND	لا- وَ
+NOT-AND = NAND	لا - و
+NOT-OR	لا - أو / لا- أَوْ
+notable	مَلْحوظ، جَديرٌ بالمُلاحَظة؛ بارِز
+Notarization	التوثيق
+notary (or notary public)	كاتِبٌ عَدْلٌ
+notate	رَقَمَ، علَّمَ
+notation	تَرْميز، تَدْوين (بعَلاماتٍ أو رُموز خاصَّة)؛ عَلامة موسيقيَّة؛ عَلامة، رَمْز / تدوين / رمز / تَدْوين
+notch	فُرْضَة، ثُلْمة، نُقْرة، حَزٌّ؛ فُرْضةُ تَدْريج؛ فَرَّضَ، ثَلَمَ، حَزَّ؛ نَقَرَ (لِلتلسين) / شِرْم / شرن
+notch board	لَوحٌ مُفَرَّض
+notch brittleness	قَصَفُ التثَلُّم، قَصَفُ التحزيز
+notch filter = notcher	مُرَشِّحٌ ثَلْميّ
+notch sensitivity	حَسّاسيَّةُ التثَلُّم
+notch, sight	فُرْضَةُ التسديد
+notched	مَثلوم، مُثَلَّم، مُحَزَّز، مُفَرَّض
+notched bar test = impact test	اِختِبارُ القَضيب المُتَثلِّم (بالصَّدْم)
+notcher; notching tool	ثلاَّمة، فرّاضة، مُفرِّضة
+notching	نَقْر، تَفْريض؛ وَصل بالنَّقْر (والتلسين)
+notching adze	قَدُوم نَقْر
+note	مَلْحوظة، مُلاحَظة؛ مذكِّرة؛ نَغْمة، علامة (موسيقية)، مُجَسِّدة؛ لاحَظَ، إنتبَهَ إلى
+note, promissory	كَمْبِيَالة، سَنَدٌ إذْنيّ
+note-tuning	مُوالَفةُ الأنغام (لمنع تداخُلِها)
+notebook	مُذكِّرة، مُفَكِّرة، كُرّاس مُلاحَظات؛ حاسوبٌ كُنّاشي / حاسوب محمول
+notebook computer	حاسوب خفيف
+notice	مُلاحَظة؛ تَنْبيه، إنذار؛ اِنتباه؛ راعَى، لاحَظَ، اِنتبَهَ إلى / اشعار
+notice board	لَوحةُ إعلانات
+notice to airmen; notam	تنبيه إلى رجال (عناصر) الطيران
+notice to mariners	نشرة موجهة للملاحين
+noticeable	جَديرٌ بالمُلاحَظة والاهتِمام
+notification	إشعار، تَبْليغ؛ إنذار، إخطار / تنبيه
+notify	أبلَغَ، أعلَمَ؛ أنذَرَ / تبليغ
+notion	فِكرة، مَفْهوم
+notochord	الحَبْلُ الظَّهْريّ (الجَنينيّ) / حبل ظهري
+Notwork	شبكة
+nought (naught)	صِفْر
+nought = naught	صِفْر، لا شَيْء
+nought; nothing	عدم
+Noun phrase	عبارة اسمية
+nourishing	مُغَذٍّ، ذو قيمةٍ غِذائيَّة
+nova	نُوڤا / نجم جديد
+nova like	نجم شبه جديد
+novaculite	نوڤاكيُولايت، حَجَرُ السَّنّ
+noval base	قاعِدةٌ تُساعيّةُ الثقوبِ (لِلصِّمامات الدقيقة)
+Novell NetWare	[نظام] Novell NetWare
+novelty	شَيءٌ جَديد؛ جِدَّة
+Novelty Detection	اكتشاف البيانات غير المعتادة
+November	تشرين الثاني، نوڤمبر
+novemdecillion	نُوڤم دِيسيلْيُون = 10⁶⁰ (في نِظام العَدِّ الأمريكيّ)
+novice	مُبتَدِئ
+Novocain(e)	نوڤوكايين
+Novoid	نوڤويد
+nowcasting	تنبُّؤ انيّ
+nowel = drag	النِّصْف السفليُّ لِقالَب السَّبْك
+nowhere dense set	مَجْموعةٌ غَيْرُ كَثيفَةٍ في أيِّ مكان
+nox	نُكْس
+noxious	مُؤْذٍ، ضارٌّ (بالصِّحَّة)، وَبيل
+noxious agent	مادة ضارة، مادة مؤذية
+noxious fumes	دخان ضار
+noxious substances	مواد ضارة
+noy	نُوي
+nozzle	بَزْباز، فُوَّهة، فُتْحة سَكْب، منْفَث؛ صُنْبور / منفث، صنبور
+nozzle gauge	مُحَدِّد قياسِ المَنافِث
+nozzle of rocket motor	منفث، محرك
+nozzle orifice	فُوَّهةُ المِنفَث، فُتْحة الفُوَّهة
+nozzle throat	حَلْقُ الفُوهة
+nozzle, convergent-divergent	مِنْفَثٌ مُخَصَّر مُوَسَّع
+nozzle, discharge	صُنْبورُ تَفريغ، فُوَّهةُ تَصْريف
+nozzle, flushing	صُنْبورُ الرَّحْض، نافورةُ شَطْف
+nozzle, intake	مِنفَثُ الدُّخول
+nozzle, jet	مِنْفَثٌ نافوريّ، نَضّاحة
+nozzle, pressure	فُوَّهة تَلَقِّي الضغط (لقياسِ سُرعة الطائرة النسبيَّة)
+Np (neptunium)	تو
+NP-problem	مَسْأَلةُ NP
+NPN transistor	ترانزستور NPN
+NRZ	عدم عودة إلى الصفر
+ns	نانو ثانية
+NSAPI	واجهة برمجة تطبيقات مخدم Netscape
+NSFnet	شبكة منشأة العلوم الوطنية
+NT file system	NT نظام ملفات
+NT-1	منهي الشبكة 1
+NTFS	NT نظام ملفات
+nth derivative	مشتقة نونية
+NTP	ميفاق الزمن الشبكي
+NTP = normal temperature and pressure	دَرَجة الحَرارةِ والضغط العياريَّيْن (دَرَجة الصِّفر المِئويّ وضَغْط 760 ملم زِئبق)
+NTSC	اللجنة الوطنية لنظام التلفزة
+Nu (v) body	جسم 'نوفي'
+Nu function	دالَّةُ نْيو
+nubian sandstone	حجر رملي نوبي
+NuBus	[مسرى] NuBus
+nucellus	نيوسيلة / نسيج الجويزة، نُوسِيل
+nucha	قفا
+nuchal	قفوي
+nuclear	نَوَويّ، نَواتيّ / نووي
+nuclear aggregates	أخلاطٌ أو تجَمُّعات نوَوِيَّة
+nuclear associated chromatin	كروماتين نوويّ الترابط
+nuclear atom	ذرّة نواتيَّة
+nuclear attraction	تجاذُب نوَوي
+nuclear battery	بطّاريَّة نَوَوِيَّة
+nuclear binding energy	طاقة الترابُط النوويّ
+nuclear bomb	قُنْبلة نَوَويَّة
+nuclear bombardment	قَذْفٌ نَوَويّ، قَنْبَلةٌ نَوَويَّة
+nuclear breeder	مُوَلِّدٌ نَووي
+nuclear centre	مَركزُ أبحاثٍ نوَوية
+nuclear chain reaction	تفاعُلٌ نوويّ مُتَسلسِل
+nuclear change	تغَيُّر نَوَويّ
+nuclear charge	شِحْنةُ النَّواة، شِحْنةٌ نوَوِيَّة (پروتونيَّة)
+nuclear chemistry	الكِيمياءُ النوَوِيَّة
+Nuclear Club	النادي الذّري
+nuclear cross section	مَقْطَعٌ نَوَوِيّ مُستَعرِض
+nuclear device	مُتفَجِّرة نَوَويَّة (اِختباريَّة)
+nuclear disintegration	تَفتُّتٌ نوَويّ، اِنحِلالٌ نَوَويّ
+nuclear duplication	تضاعُف نوويّ
+nuclear electric rocket	صاروخٌ كَهربائي نَوَوي
+nuclear emission	اِبتِعاثٌ نَوَويّ
+nuclear emulsion	مُستَحلَبٌ نَوَويّ
+nuclear energy	الطاقةُ النوَوِيَّة
+nuclear energy levels	مَناسيبُ الطاقةِ النوويَّة
+nuclear energy plant	وَحدةُ تَوليد القُدرة بالطاقةِ النوَويَّة
+nuclear envelope	غلاف نوويّ
+nuclear equation	مُعادَلةٌ نوَوِيَّة
+nuclear explosion	اِنفجارٌ نوَوي
+nuclear fall-out	اِنهمالٌ نوَويّ
+nuclear fission	اِنشطار نَوَوي
+nuclear forces	قُوًى نَوويَّة
+nuclear fuel	وَقودٌ نَووِي
+nuclear fusion	اِندِماج نَووِيّ، اِلتِحام نَوَوِيّ
+Nuclear Household	أسرة نووية
+nuclear induction	حَثٌّ نَوَوِيّ، تَحْريضٌ نَوَويّ
+nuclear isobar(e)s	مُتَكاتِلاتٌ نوَويَّة
+nuclear isomer	مُتَماكِب نَوَويّ، زَميرٌ نوَويّ (متباينُ الخواصِّ الإشعاعيَّة)
+nuclear isomerism	تَماكُبٌ نَوَويّ
+nuclear magnetic resonance (NMR)	رَنين مِغنطيسي نَوَوي
+nuclear magneton	مَغنيطون نَوَوِيّ
+nuclear mass	الكُتْلة النوَويَّة
+nuclear mass defect	النُّقْصَان الكُتْليّ النَّوويّ
+nuclear membrane	الغِشاء النوَوي، غِشاءُ النواة / غشاء نووي
+nuclear network	شبكة نووية
+nuclear number = mass number	العَدَد النوَويّ، العَدَدُ الكُتليّ
+nuclear particles	جُسَيمات نَوَويَّة
+nuclear photodisintegration = nuclear photoeffect	تفَتُّتٌ نوَوي فوتوني
+nuclear photoeffect	الظاهرة الضوئية النووية
+nuclear physics	الفِيزياءُ (الطبيعيَّات) النوَويَّة
+nuclear pile = nuclear reactor	قَمين نَوَويّ، مُفاعِلٌ نَوَويّ
+nuclear potential	جُهْدٌ نوَويّ
+nuclear power	القُدرة النووية
+nuclear power plant (or station)	محَطَّةُ قُدرةٍ نَوَويَّة
+nuclear processing of RNA	معالجة نووية للرنا
+nuclear properties	خَواصُّ نوَويَّة
+nuclear propulsion	دَفْعٌ نَوَوي، دَسْرٌ بالطاقةِ النوَويَّة
+nuclear radiations	الإشعاعاتُ النوويَّة (الصادِرةُ عن التفاعُلات النوَوية)
+nuclear radius	نِصْفُ قُطْرِ النَّواة
+nuclear reaction	تفاعُلٌ نَوَوِيّ
+nuclear reactor = atomic pile	مُفاعِلٌ نَوَوِيّ، قَمينٌ ذَرِّيّ
+nuclear reactor control	التحكُّم في المُفاعِل النووي (أو جهاز هذا التحكُّم)
+nuclear reactor fuel	وقود المُفاعل النووي
+nuclear reactor oscillator	مُذَبْذِبةُ المفاعل النووي
+nuclear reactor thermal shield	الدرع الحراري للمُفاعل النووي
+nuclear resonance	رَنينٌ نَوَويّ
+nuclear RNA	رنا نوويّ
+nuclear rocket	صاروخٌ نَوَويّ
+nuclear sap	العُصارة النوَويَّة، عُصارةُ النواة / عصارة نووية
+nuclear screening	حَجْبٌ نَوَوِي
+nuclear spin	دُرورٌ نوَوي، لَفٌّ نوَويّ ذاتيّ
+nuclear spin quantum number	العدَدُ الكَمِّيُّ لِلدُّرُور النوَويّ
+nuclear spindle	مِغْزَلُ النَّواة / مغزل نووي
+nuclear stability	اِستِقرارٌ نَوَويّ
+nuclear star	نَجْمٌ نَوَويّ؛ نجمٌ نوويّ
+nuclear structure	تَركيبُ نَواةِ الذرَّة
+nuclear submarine	غَوّاصة نَوويَّة
+nuclear test	تَجربةٌ نوَويَّة، تَفجيرٌ نوَويّ اختِباريّ
+nuclear transfer	نقل نوويّ
+nuclear transformation = transmutation	تحَوُّلٌ نَوَويّ
+nuclear transition	انتِقالٌ (تَحوُّلي) نَوَويّ
+nuclear wall	فُوف، جِدارُ النَّواة / جدار النواة
+nuclear weapon	سِلاحٌ نوَوي
+nuclease	نكْليِيز
+nucleases	أنْزيماتٌ نَوَويَّة، خَمائِر نَوَويَّة
+nucleate	ذو نواة، منوى
+nucleate(d)	مُنَوَّى
+nucleating agent	عامِلُ تنَوٍّ
+nucleation	التنَوِّي / تَنْوِيَة
+nuclei	نوى
+nuclei (pl. of nucleus)	نَوًى، نَوَيات
+nuclei counter	عَدّادُ النَّويات
+nucleic acid	حَمْضٌ نوَويّ، حامِض النَّواة / حمض نووي / حمض نوويّ
+nuclein	نواتين، نيوكلين
+nucleolar chromosome	صبغيّ نُويِّيّ
+nucleolonema	شبكة نووية
+nucleolus	نُوَيَّة، نَواةُ النَّواة / نوية / نُوَية
+nucleolus organizer	مُنظِّم النوية
+nucleon	نُكلِيون، نُوَيَّة
+nucleon number = mass number	العَدَدُ النُّويِّي، العَدَدُ الكُتْليّ
+nucleonics	النوَوِيّات
+nucleophile	أليفُ النَّواة
+nucleoplasm	بلازما النَّواة / بلازمة نووية / جبلة النواة
+nucleoprotein	بروتين نوويّ
+nucleoproteins	بروتيناتٌ نَوَويَّة
+nucleosidase	نكليوزيداز
+nucleosome	جسيم نوويّ
+nucleosynthesis	تَخْليقٌ نَوَويّ
+nucleotide	نوَويد / نكليوتيد، نوويد
+nucleotide pair	زوج نكليوتيدات، زوج نوويدات
+nucleotide sharing	تقاسم نيوكليوتيدي
+nucleus	نَواة (الخليَّة أو الذرّة)؛ نَواة / نواة / نَواة / نواة (جَوّيّة)
+nucleus flock; nucleus herd	نواة الاصطفاء
+nucleus of crystal	نواة البلورة
+Nucleus Sampling	أخذ عيِّنات نيوكليوس
+nucleus, atomic	نَواةُ الذَّرَّة
+nuclide = nucleide	نُكلِيدة، نَوِيدَة
+nudibranchiate	عاريات الخياشم
+nugget	شَذْرَة، لَقَطَة؛ خَرزةُ لحام / لقطة
+nuggety gold	شذرة الذهب
+nuisance	إزعاج؛ شَيءٌ مُزعِج
+Nuisances	مزعجات
+nuke	1 يمحو ؛ 2 يوقف
+NUL	1 [محرف] عديم القيمة ؛ 2 [تجهيزة] معدومة
+null	باطِلٌ، لاغٍ؛ لا شَيء، عَدَم، صِفْر / عَدَمْ / صفر
+null (adj)	صِفْرِيّ، مَعْدوم
+null allele	أَلِيل تَفِه
+null angle	زاوِيةٌ صِفْرِيَّة
+null character	محرف عديم القيمة
+null circle	دائرة صِفْريَّة / دائرة صفرية
+null cycle	حلقة معدومة
+null detector	مِكشافُ نُقطَةِ الخُمودِ
+null element	عُنْصُرٌ صِفْرِيّ
+null ellipse	قطع ناقص صفري
+Null Error Rate	معدل الخطأ الفارغ
+null function	دالَّةٌ صِفْرِيَّة
+null geodesic	جِيوديزِيٌّ صِفْرِيّ
+null graph	بَيانٌ صِفْرِيّ
+null hypothesis	الفَرْضِيَّةُ الصِّفْرِيَّة
+null indicator	مُبَيِّنٌ صِفْريّ، مِكْشافُ نُقطةِ الخُمود
+null line	خَطّ الخُمود، خَطُّ الصِّفْر
+null matrix	مَصفوفةٌ صِفريَّةُ الحُدود / مصفوفة صفرية / مَصْفوفةٌ صِفْرِيَّة
+null measure	قِياسٌ صِفْرِيّ
+null measurement method	طَريقةُ القِياس الصِّفْريّ
+null method = zero method	طَريقةُ الصِّفْر
+null modem	مودم معدوم / بلا مودم
+null modem cable	كبل معدوم مودم
+null plane	مُستَوي الخُمود
+null point	نُقْطة الخُمود
+null pointer	مؤشر معدوم / مؤشّر للاشيء
+null sequence	مُتَتاليةٌ صِفْريَّة، تَتابُعٌ صِفْريُّ الحَدّ / متتالية صفرية / مُتَتالِيةٌ صِفْرِيَّة
+null set	مَجموعة خالِيَة / مجموعة خالية / المَجْموعةُ الخالِية
+null space	الفَضاءُ الصِّفْرِيّ
+null string	متوالية [محارف] فارغة / سلسلة أحرف فارغة
+null tetrad matrix	مَصْفوفةٌ رُباعِيَّةٌ صِفْرِيَّة
+null vector	مُتَّجِهٌ صِفْريّ / متّجه صفري / المُتَّجِهُ الصِّفْرِيّ
+nullify	أبطَلَ، أحبَط، ألْغَى
+nulliparity	عقْم
+nullipex	عديم الجين الرئيسيّ
+nullisomic	عديم الصبغيات
+nullity	الصِّفْرِيَّة
+Num Lock key	مفتاح "قِفل الأرقام"
+NUMA	بنيان ذاكرة غير موَحَّد
+numb	خَدِرٌ، فاقِدُ الحِسّ
+number	عَدد، رَقْم؛ كَمِّيَّة؛ عَدَّدَ؛ رَقَّمَ / رقم / العدد / عدد / عَدَد
+number class modulo N	صَّفُ أَعْدادٍ بالمَقاس N
+Number Converter	محول الأرقام
+number cruncher	جاروشُ أعداد
+number field	حقل الأعداد / حَقْلُ أَعْداد
+number line	خط الأعداد / مُسْتَقيمُ الأَعْداد
+Number of Bedrooms	عدد حجرات النوم
+Number of Charitable Organizations	عدد المنظمات الخيرية
+Number of daily newspapers	عدد الصحف اليومية
+Number of Employed Persons in the Establishment	عدد المشتغلين في المؤسسة
+Number of Future Vacancies in the Establishment	عدد الوظائف المستقبلية في المؤسسة
+Number of Labor Unions (Trade Unions)	عدد الاتـحـادات أو النقابات العمالية
+Number of Marriages	عدد مرات الزواج
+Number of Non – Governmental or Oanizations (NGOs)	عدد المنظمات الأهلية (غير الحكومية)
+Number of Rooms	عدد الحجرات (الغرف)
+Number of Vacancies in the Establishment	عدد الوظائف الشاغرة في المؤسسة
+Number of Wives	عدد الزوجات في العصمة
+Number of Working Hours in the Establishment	عدد ساعات العمل في المؤسسة
+number plate	لَوحةُ رَقْمِ (السيّارة)
+number prime	عدد أولي
+number pyramid	هَرَمٌ عَدَدِيّ
+number ring	حَلْقةُ الأرقام
+number scale	مِقياسٌ عَدَدِيُّ التدريج / تَدْريجٌ عَدَدِيّ
+number system	نِظامُ الأعداد / نظام الأعداد / مَنْظومةُ أَعْداد
+number theory	نَظَريَّةُ الأعداد / نظرية الأرقام / نظرية الأعداد / نَظَرِيَّةُ الأعْداد
+number, absolute	عَدَدٌ مُطْلَق
+number, abstract	عَدَد مُجَرَّد
+number, atomic	العددُ الذرِّي
+number, cardinal	عددٌ أصْليّ
+number, cetane	الرقْمُ السِّيتاني
+number, complex	عَدَدٌ مُرَكَّب
+number, composite	عَدَدٌ مُؤَلَّف
+number, concrete	عددٌ مادِّيّ
+number, imaginary	عَدَد تخَيُّليّ
+number, irrational	عددٌ أصَمّ (لا جَذْريّ)
+number, natural	عَددٌ طبيعي
+number, octane	العددُ الأوكتانيّ (لِلوَقود)
+number, ordinal	عَدَد تَرْتيبيّ
+number, prime	عددٌ أوّلِي
+number, rational	عَدَد مُنْطَق (جَذْريّ)
+number, real	عَدَدٌ حَقيقيّ
+number, reference	رَقْمُ الإسناد، رَقْمُ القَيْد
+number, saponification	رَقْمُ التصَبُّن
+number, serial	رَقْمُ التَسلْسُل
+number-theoretic function	دالَّةٌ حِسابِيَّة
+Numbered List	قائمة مرقمة
+Numbering	ترقيم
+numbering machine	مَكَنةُ تَرْقيم، مُرَقِّمة
+numbers prime to each other	أعداد أولية بعضها بالنسبة الى بعض
+numerable	عَدُود / قابل للعدّ
+numerable set	مجموعة قابلة للعدّ
+numeral	عَدَديّ؛ رَقْم، عَدَد / عددي / رقمي / رَقْم
+Numeral system	نظام عد / نِظامُ تَرْقيم
+numerals	أرقام
+numerals, Arabic	الأرقامُ العَرَبيَّة (الهِنديَّةُ الأصْل والمُستعمَلةُ بالإفرَنْجيَّة حاليًّا)
+numerals, Roman	الأرقامُ الرومانيَّة
+numerate	عَدَّ، سرَدَ بالتسَلْسُل
+numeration	عَدٌّ لَفْظيّ؛ عَدٌّ، إحصاء؛ تَرْقيم / عدّ / تَرْقيم
+numeration system	نِظامُ تَرْقيم
+numerator	بَسْط، صُورةُ الكَسْر / بَسْطٌ / بَسْط
+Numeric	أبجدي عددي
+numeric coprocessor	معالج رقمي مساعد
+numeric function	دالَّةٌ عَدَدِيَّة
+numeric keypad	مَسندُ مَفاتيحٍ رقميّ / مجموعة مفاتيح الأرقام
+numeric(al)	عَدَديّ، رَقْميّ
+numeric(al) control	تحَكُّم عَدَديّ (أو رَقْمي)
+numerical	عددىّ
+numerical analysis	التحليلُ العَدَديّ / تحليل عددي / التَّحْليلُ العَدَدِيّ
+numerical aperture	فُتْحةٌ عَدَديَّة / فتحة عددية
+numerical character	مِحْرَفٌ رَقْميّ
+numerical coefficient	مُعامِلٌ عَدَدي
+numerical coefficients	معاملات عددية
+numerical constant	ثابِتٌ عَدَديّ
+Numerical Data	بيانات عددية
+numerical determinant	مُحَدِّدَة عدَديَّة / مُحَدِّدةٌ عَدَدِيَّة
+numerical eccentricity	تَباعُدٌ مَرْكَزِيٌّ عَدَدِيّ
+numerical equation	معادَلةٌ عدَديَّة / مُعادَلةٌ عَدَدِيَّة
+numerical forecast; numerical weather prediction (NWP)	تنبؤ جوي عددي (كمي)
+numerical forecasting	التنَبُّؤ العَدَديّ
+numerical function	دالّة عددية
+numerical hybrid	هجين عددي
+numerical integration	التكامُلُ (بالتقييمِ) العدَديّ / مُكامَلةٌ عَدَدِيَّة
+numerical mapping	تطبيق عددي
+numerical phrase	عِبارةٌ عَدَدِيَّة
+numerical range	مَدًى عَدَدِيّ
+numerical scale	مِقياسٌ عدَدي
+numerical sorting	فَرْزٌ عَدَدِيّ
+numerical space	فَضاءٌ عَدَدِيّ
+numerical table	جدول عددي
+numerical tensor	مُوَتِّرٌ عَدَدِيّ
+numerical value	قِيمة عدديَّة / قيمة عددية / قيمةٌ عَدَدِيَّة
+numerical variation	تغاير عددي
+numerical verification	تحقيق عددي
+numerically	عدديّا
+numerous	عَديد، مُتعَدِّد، كَثير
+nummulites	نوموليتس، نميوليت / نوموليتس
+nummulitic	نميوليتي / توموليتي
+nummulitic facies	سِحْنة نميوليتية / سخنة نموليتية
+nun buoy	عوامة مخروطية
+nunatak	قِمَّةٌ مَثْلَجيَّة
+nuphar	نيلوفر أصفر
+nurse-tree	شجرة وقاية
+nurseries of fish	أحواض تربية الأسماك
+nursery	مشتل
+nursery bed	مستنبت
+nursery stock	غراس المشتل
+Nurses (Per 100,000) People	عدد الممرضات لكل مائة ألف شخص
+nurture	تنشِئَة؛ تَغذِيَة
+Nusselt number	عدد «نوسّلْت»
+nut	جَوزَة، بُندُقَة؛ صَمُولة، صامولة، حَزَقَة، عَزَقَة / بندقة / بندقة، جوزة
+nut driver	سوّاقةُ صواميل
+nut gauge	مُحَدِّدُ قِياس الصواميل
+nut lock	غَلَقُ الصَّمولة
+nut shell	قشرة بندقة
+nut socket	جُلْبةُ الصَّمُولة (المُثْبَتة في الخَرَسانة)
+nut tapping machine	مَكَنةُ لَولَبةِ الصَّواميل
+nut tree	بندق
+nut wrench	مِفتاحُ رَبْطِ الصَّواميل
+nut, adjusting	صَمُولةُ ضَبْط
+nut, anchor	صَمولَةُ تَثْبيت
+nut, castle	صَمُولَة بُرْجيَّة
+nut, clamp	صَمُولةُ رَبْطٍ أو شَدّ
+nut, lock	صَمُولةُ زَنْق
+nut, mounting	صَمُولة تَثْبيت
+nut, self-locking	صَمُولةٌ ذاتِيَّة الزَّنْق
+nut-gall	عصفة
+nut-palm	سيكاس استرالية
+nutating feed	تغذية مُرَنِّحة
+nutation	تطَوُّح، تَرنُّح، تَمايُلٌ (دَوْريّ)؛ الترَنُّح / ترنّح / تهوم، ترنح
+nutator	مُرَنِّح
+nutcracker	كَسّارةُ جَوز
+nutlet	بنيدقة
+nutmeg oil	زَيتُ جَوزة الطِّيب
+nutmeg-tree	شجرة جوز الطيب
+nutrient	مُغَذٍّ؛ غُذَيّ، مادّةٌ مُغَذِّية، طعامٌ مُغَذٍّ
+nutrient solution	مَحلولٌ مُغَذٍّ (لِلزِّارعةِ المائيَّة)
+nutrient; nutritive	مغذ
+nutrients	مغذيات
+nutrition	تَغْذية، اِغتِذاء، تغَذٍّ / تغذية
+nutritional mutant	طافر تغذويّ
+nutritive	مُغَذٍّ؛ غَذَويّ
+nutritive requirements	احتياجات غذائية
+nuvistor	نُوڤسْتُور
+nux vomica	جوزة القىء
+nuée ardente	سَحابةٌ مُتوَهِّجة (بِرَمادٍ وقِطَعٍ صَخْريَّة بُركانيَّة)؛ هَيارٌ مُتَأَجِّج
+nybble	رباعية / نصف بايت
+nyctalopia = night blindness	العَشا، العَمَى الليليّ
+nylon	نَيْلُون
+Nym server	راجع Anonymous remailer
+nymph	حَوْراء، حُورِيَّة، عَذْراء / حورية
+nympheae	نيلوفر أبيض
+névé = firn	خَشِيف

@@ -1,0 +1,1280 @@
+V signal	إشارة V
+V yarn	خيط غزل في V
+V-aerial	هوائي مخروطي
+V-band	نطاق ـ ڤ
+V-belt	السير V مخروطي المقطع / سير مقطعه V / سَيْر مخروطي
+V-canonical structure	هيكلة نمطية من نوع v
+V-curve characteristic	خاصية منحنى V
+V-cut	قطع إسفيني
+v-door hoist	رافعة ذات باب بشكل Vمقلوبة، رافعة ادخال أنابيب الحفر إلى البرج
+V-engine	محرك على شكل V
+V-g diagram	مخطط السرعة ـ التسارع الرأسي
+V-g recorder	مُسجِّل السرعة ـ التسارع الرأسي
+V-n diagram	مخطط السرعة ـ عامل التحميل
+V-neckline	ياقة مثلثة
+V-network	شبكة V
+v-shaped brake	مِكْبَح على شكل v
+V-straps	حمالة على شكل مثلث
+V-terminal voltage	جهد طرفي V
+V-trough collector	مُجَمِّع حوضيّ على شكل V
+V.24	واجهة بينية تسلسلية معيارية V24
+V/H ratio	نسبة السرعة إلى الارتفاع
+V/STOL; vertical and/or short take-off and landing	إقلاع وحط عمودي أو قصير
+V2G (vehicle to grid)	من المركبة إلى الشبكة (V2G)
+vacancy	ثُغرة
+vacant-number signal	إشارة رقم شاغر
+vaccines	لقاحات
+vachetta	جلد بقري
+vacuole	فجوة
+vacuum	فراغ / تفريغ (تخلخل ) / تفريغ / خواء
+vacuum advance unit	ضابط الضغط الخوائي
+vacuum brake	مكبح خوائي / كابح فراغي
+vacuum channel	مجرى خوائي
+vacuum chuck turntable	منضدة دوّارة شافطة
+vacuum circuit-breaker	قاطع دارة فراغى / قاطع دائرة يعمل فى الفراغ
+vacuum cleaner	مكنسة كهربائية، مشتفة غبار
+vacuum concrete	خرسانة مخلاة
+vacuum deaerator	مفرغ من الغاز / مزيل غازات فراغيّ
+vacuum distillation	تقطير فراغي
+vacuum drainage system	منظومة التصريف بالضغط الخوائيّ
+vacuum engine	محرك فراغ، فراغي
+vacuum factor; gas-content factor	عامل الفراغ
+vacuum filter	مُرشِّح فراغيّ
+Vacuum flat collector	لاقط مسطح مع فراغ
+vacuum fluorescent display	شاشة فلورية خوائية
+Vacuum Forming	تشكيل فراغي / تكوين فراغي
+vacuum furnace	فرن تفريغ
+vacuum gauge	مقياس التفريغ
+vacuum generator	مُولِّد ضغط خوائيّ
+vacuum guide	دليل ذو آلية تفريغ الهواء
+vacuum induction furnace	فرن تفريغي حثي
+vacuum lamp; vacuum incandescent lamp	مصباح مفرغ؛ مصباح متوهج مفرغ
+vacuum lifting unit	وحدة رفع بالتفريغ
+vacuum line	خط تفريغ خلائيّ
+vacuum mat	حصيرة تخلية
+vacuum melting	صهر فراغي
+vacuum multi-effect membrane distillation	تقطير غشائي فراغي متعدد الأثر
+vacuum network	شبكة تعمل بالتخلخل الفراغي
+vacuum orbit	مدار خوائي
+vacuum pipe; vacuum line	خط ضغط خوائيّ
+vacuum printing frame	اطار طبع بالتفريغ
+vacuum pump	مضحة بالتفريغ / مِضخّة تفريغ / مضخة تفريغ
+vacuum re-run	إعادة التقطير الفراغي
+vacuum recovery time	زمن استعادة الضغط الخوائيّ
+vacuum remelting arc furnace	فرن قوسي لإعادة الصهر التفريغي
+vacuum rerun unit	وحدة التقطير الفراغي
+vacuum residue	زيت الغاز التفريغي
+Vacuum Residue (Refining)	منتجات ثقيلة بعد التكرير بالضغط الهوائي المنخفض
+vacuum residuum	بقية التقطير تحت الفراغ
+vacuum salt	مِلحُ مُعَالج فَرَاغِيَّا
+vacuum separation toilet	مِرحاض فصل بالضغط الخوائيّ
+vacuum separation toilet; urine diversion vacuum toilet	مِرحاض فصل بالكسح الخلائيّ
+vacuum sewer	شبكة صرف خوائية
+vacuum specific impulse	دفع نوعي خوائي
+vacuum spectrograph	راسم طيف مفرغ
+vacuum station	محطة ضغط الخوائيّ / محطة تفريغ خوائيّ
+vacuum system	نظام خوائي
+vacuum tank	خزان الضغط الخوائي
+vacuum thrust	دفع خوائي
+vacuum toilet	مِرحاض كسح خلائيّ / مِرحاض بالضغط الخوائيّ
+vacuum toilet with urine diversion	مِرحاض كسح خلائيّ لفصل البول
+vacuum toilet without urine diversion	مِرحاض كسح خلائيّ بدون فصل البول
+vacuum treatment	معالجة في الفراغ
+vacuum tube	إنبوب مفرغ / صمام مفرغ / صمام خوائي / أنبوب تفريغ الهواء
+vacuum tube collector	لاقط أشعة بأنابيب مفَرَّغة
+vacuum tube rectifier	مضاعف الجهد
+vacuum tunnel	نفق خوائي
+Vacuum Unit (Refining)	معمل التكرير بواسطة الضغط الهوائي المنخفض
+vacuum valve	صمام فراغي
+vacuum vaporizing wells	بئر ذات مُبَخِّر بالضغط الهوائي
+vacuum vessel	صهريج تخلخل / صِهْريج مُخَلْخَل
+vacuum-flash process	عملية التفريغ والتبخير الفجائي
+vacuum-pressure impregnation (of a machine)	تشريب بضغط مخلخل (لآلة)؛ تشبع تحت التفريغ
+vadose water	مياه معلقة / ماء مَساميّ
+vadose water / gravity suspended water	مياه الثّقالة
+vadose water table	سوية الطبقة المائية الخارجية، منسوب المياه الجوفية الموسمي
+vadose zone	منطقة فادوز
+Vagant (vessel)	سفينة فاجنت
+valance lighting; pelmet lighting	إضاءة الستائر
+valence band	نطاق تكافؤ / نطاق الكترونات التكافؤ
+valence electron	إليكترون التكافؤ / إلكترون التكافؤ
+valid message	رسالة سارية
+validation	استصحاح، توكيد / تحقق من صحة التطبيق / التصديق / صلاحية
+validation phase	طور اختبار الصلاحية
+validator	المسئول عن التصديق
+validity	ساري
+validity period	فترة الصلاحية
+Vallenhove method	طريقة 'فالنهوف'
+valley	ميزاب
+valley consumptive use	استهلاك مائيّ نهريّ
+valley floor	قاع الوادي
+valley point (of a tunnel diode)	ادنى نقطة(لصمام ثنائى نفقى )
+valley rafter	رافدة ركنية
+valley spring	يَنْبوع الوادي
+valley springs	ينابيع الوديان
+valley storage	مخزون الوادي
+valley wind	نسيم الوادي
+valuable material / potential recyclable	مواد قابلة لإعادة التدوير
+valuation	تقييم
+valuation of weight saved	تقويم الوفر الوزني
+valuation on hypothetical behaviour	تقييم على أساس سلوك افتراضي
+valuation through direct observed behavior methods	تقييم من خلال أساليب الملاحظة المباشرة للسلوك
+valuation through indirect observed behavior methods	تقييم من خلال أساليب الملاحظة غير المباشرة للسلوك
+value	قِيمة / قيمة
+value (to)	قَدَّر
+value before notching	قيمة قبل توقف التشغيل
+value chain	سلسلة القيم / سلسلة القيمة
+value engineering	هندسة القيمة
+value function transfer	نقل دالة قيمة
+value of a quantity; quantity value; value	قيمة لوحدة (قيمة وحدة) قيمة
+value stream mapping	تخطيط تدفق االقيم
+value-continuous	مُستمر القيمة
+value-discrete	متقطع القيمة
+values (corporate values)	قيم
+valve	صمام / محبس / صِمام / بوابة منزلقة / مُنظِّم خنق / تنفيس
+valve auger	مِثْقَب يدوي ذو صِمام
+valve bonnet	قَلَنْسوة الصِّمام
+valve chatter	اصطكاك الصمام
+valve clearance	خلوص الصمام
+valve coking	تفحُّم الصمامات
+valve control	تشغيل الصِّمام
+valve control / valve controlled distribution / valve timing	آلية تشغيل الصِّمام
+valve control ABS/ASR	تشغيل الصمامات بنظام منع غلق العجلات (ABS)/ نظام التحكم في الجر (TCS)
+valve cover seal	حشية غطاء الصمام
+valve device assembly	جهاز صمام مجمع
+valve device blocking	اعاقة جهاز صمام
+valve device commutation	تبديل بجهاز صمام
+valve device quenching	اخماد بجهاز صمام
+valve device stack	مجموعة أجهزة صمامات
+valve elbow	صمام الكوع / مرفق ذو صمام
+valve elevation curve	منحني رفع الصمام
+valve for camshaft adjustment	صمام ضبط عمود الكامات
+valve for hydropower stations	صِمام مُرتد (لمحطات توليد الطاقة الكهرومائية)
+valve gear	جهاز إدارة الصمَّامات
+valve hood	غطاء الصمَّام
+valve lag	تخلُّف الصمَّام
+valve lead	سَبْق الصمَّام
+valve lift	رَفْع الصمَّام
+valve lifter	دافعة الصِّمام
+valve line	حبل الصمَّام
+valve magnet	مغناطيس صمامي
+valve opening overlap	تداخل الصمامات
+valve petticoat	تنّورة الصمَّام
+valve plate	قاعدة الصمامات
+valve rectifier	مقوّم صمامي
+valve regulated lead acid battery; VRLA (abbreviation)	بطارية رصاص حمضية ذات الصمام المتحكم
+valve regulating slide / control valve / valve regulating gate	صِمام التحكم
+valve reseater	مجلخة الصمامات
+valve retainer ring pliers	زردية حلقة إحكام الصمام
+valve rigging	عدّة الصمَّام
+valve rotator	مدورة الصمام
+valve seat	مقعد الصمام / قاعدة الصِّمام
+valve seat ring	حلقة مقعد الصمام
+valve shell	علبة الصِّمام، علبة الصنبور
+valve spring tensioner	زرجينة صمامات
+valve stem guide	دليل الصمام
+valve stem seal pliers	زردية إحكام ساق الصمام
+valve tee	وصْلَة حَرف T بصمام
+valve timing	ضَبْط توقيت الصِّمام / توقيت الصمَّام
+valve trains	سلاسل الصمامات
+valve travel	شوط الصمام
+valve tray	صينية بصمامات
+valve type	نوع الصمّام
+valve, annular control	صِمام بكباس تحكم حلقيّ
+valve, ball / valve, rotary	صمام كرويّ
+valve, hydraulic / valve, regulating	صِمام هيدروليّ
+valve, non-return	مانِع الدفق المرتدّ
+valves control	ضبط الصمامات
+valves operating unit	وحدة تشغيل الصمامات
+vamp neckline	طوق القلب
+van	عربة، مقطورة خلفية / عَرَبَة نقل / عَرَبَة
+Van Allen belts	أحزمة ڤان آلِن
+VAN bus	ناقل VAN
+Van de Graff	فان دي غراف
+Van der Waals bonding	رابطة فان درفالس
+Van der Waals equation	معادلة فان درڤالز
+Van der Waals forces	قوى فان درڤالز
+Van Duuren code	شفرة (فان دورن)
+Van Duuren radiotelegraph system; TOR (abbreviation)	نظام إبراق راديوي (فان دورن)
+Van Dyke theory	نظرية فان دايك
+van grounding	توريد الحاويات لعملية الجمع
+van notify	إعلان عن نقل اللوازم
+van truck	سيارة نقل مقفلة
+Van Zelm catcher	كُلاّب فان زِلم
+vanadinite	فنادينايت
+vanadium	ڤاناديوم
+Vanadium Flow Batteries	بطاريات تدفق الفاناديوم
+vanadium redox battery	بطارية فاناديوم - ريدوكس
+vane	دوارة
+vane air flow sensor (VAF)	حسّاس تدفق الهواء (VAF)
+vane apparatus	بروانة (ال...)
+vane attenuator	مُوهِن متقلب
+vane cell adjuster for camshaft adjustment	ضابط رياش ضبط عمود الكامات
+vane pump	مضخة ذات خلايا جناحية / مضخة ذات أرياش
+vane shear test	تجرِبة البروانة
+vane test	اختبار الرِّيشة
+vane type pump, regerative	مضخة ذات أرياش ذاتية التحضير
+vane wattmeter	مقياس قدرة متقلب
+vanish point	نهاية سن اللولب
+vanishing point	نقطة فرار
+vanity mirror	مرآة الزينة
+vapor	بُخار
+vapor compression	ضغط البخار
+vapor compression refrigeration system	انضغاط البخار / نظام التبريد بانضغاط البخار
+vapor compressor	ضاغط البخار
+vapor lock	سِدَادةُ بُخَار
+vapor pressure	ضغط البخار / ضَغْط البخار / ضَغْط البُخار (في درجة حرارة معينة)
+Vapor-compression evaporation	تبخير بضغط البخار
+vapor; vapour	بخار
+vaporiser (AC) [UK] / vaporizer (AC) [US]	المبخر (مكيف الهواء)
+vaporization	انفصال على هيئة بخار ماء / تبخر / تبخير / تبخُّر
+vaporization dish; evaporation cell	جفنة تبخير
+vaporizing combustor	حارق تبخيري
+vaporizing oil	كيروسين الجرارات
+vapour	بخار
+vapour compression (VP)	انضغاط البخار
+vapour Compression desalination	تحلية بالبخار المضغوط
+vapour compression distillation	تقطير بطريقة انضغاط البخار / تقطير بضغط البخار
+vapour compression unit	وحدة ضَغْط البُخَار
+vapour cycle	دورة البخار
+vapour degreasing	إزالة الشحم بالبخار
+vapour lock	عائق بخاري
+vapour lock [UK]; vapor lock [US]	تكوّن فقاعة بخارية
+vapour phase axial deposition technique; VAD (abbreviation)	تقنية ترسيب محورية الطور للبخار
+vapour pressure	ضَغْط البخار / ضغط البخار
+vapour pressure; vapour tension	ضغط البخار
+vapour tension	شد البخار
+vapour trail	أثر البخار
+vapour-phase deposition technique	تقنية الترسيب بالطور البخارى
+vapour-phase inhibitor	مانع طور البخار
+vapour-type thermometer	مقياس حرارة بخاري
+var	فار؛ وحدة قياس القدرة غير الفعالة / مدى بصري ـ سمعي
+var-hour meter; reactive energy meter	عداد الطاقة غير الفعالة
+varactor	مكثف متغير
+variability of surface climate observations (vasclimo)	تقلب نتائج الرصد السطحي للمناخ (VASClimO)
+variable	مُتغيّر / متغير / مُتَغيِّرٌ
+variable aerofoil mechanism	آلية المنساب المتغير
+Variable air volume (VAV) system	نظام حجم الهواء المتغير
+variable camber	احديداب متغير
+variable costs	تكاليف متغيرة
+variable frequency convertor	مبدل التردد المتغير
+variable frequency driver	محرك التردد المتغير
+variable geometry intake system	مدخل ذو أشكال متنوعة
+variable inlet	مدخل متغير
+variable magnet valve	صمام مغناطيسي متغير
+variable message set	مجموعة رسائل متغيرة
+variable message sign	إشارة رسائل متغيرة
+variable message sign (VMS)	شاخِصة بإشارات متغيرة
+variable quantity; variable	كمية متغيرة؛ متغير
+variable radius arch dam; variable centre dam	سَدٌّ عقديّ بنصف قُطر مُتغيِّر
+variable reach fork lift truck	حاملة رافعة بمديد متغير، رافعة شوكية بذراع متغير
+Variable Renewable Energy	طاقة متجددة متغيرة
+variable resistance	مقاومة متغيرة
+variable resistance lightning arrestor	مانعة صواعق بمقاومة متغيرة
+Variable resistor	مقاوم متغير
+variable speed motor	مُحرِّك بصندوق تروس قابِل للضبط / محرك متغير السرعة
+variable tariff	تعرفة متغيرة
+variable turbine geometry VTG turbocharger	الشاحن التوربيني ذو الجيومترية المتغيرة للتوربينة (VTFG)
+variable valve timing	نظام التحكم المتغير في الصمامات
+variable valve timing and lift electronic control	نظام VTEC
+variable venturi carburetor	الكاربوراتير VV
+variable voltage control	تحكم بتغيير الجهد
+variable-area nozzle	فوهة متغيرة المساحة
+variable-area wing	جناح متغير المساحة
+variable-bypass valve	صمّام تحويل متغيّر
+variable-camber flap	قلاّبة متغيّرة الاحديداب
+variable-capacitance diode	صمام ثنائى متغير السعة
+variable-cycle engine	محرك متغيّر الدورة
+variable-datum boosts control	تحكم تعزيز متغير المرجع
+variable-delivery pump	مضخة متغيرة التصريف
+variable-delivery turbine	عنفة متغيرة التصريف
+variable-density tunnel	نفق متغير الكثافة
+variable-displacement pump	مضخة متغيرة الإزاحة
+variable-floor-level bridge	جسر متغير المستوى
+variable-geometry aircraft	طائرة متغيرة الهندسة
+variable-geometry engine	محرك متغير الهندسة
+variable-incidence	متغير زاوية السقوط
+variable-incidence guide vane	ريشة توجيه بزاوية سقوط متغيرة
+variable-incidence tail	ذيل بزاوية سقوط متغيرة
+variable-incidence wing	جناح بزاوية سقوط متغيرة
+variable-inlet guide vane	ريشة توجيه بمدخل متغير
+variable-length coding; VLC (abbreviation)	ترميز متغير الطول
+variable-mu tube; remote cut-off tube	صمام متغيّر(μ )
+variable-pitch propeller	داسر متغير الخَطَران
+variable-pitch turbine	عنفة مُتغيرة الخطوة
+variable-ratio	متغير النسبة
+variable-stability trainer	طائرة تدريب متغيرة الاستقرار
+variable-stator turbine	عنفة متغيرة الجزء الساكن
+variable-stroke	متغير الشوط
+variable-sweep	متغير الاجتراف
+variance	تفاوت / تَبَايُن
+variance,	التباين ( لكميات عشوائية) / التباين (احصائى)
+variant bill of material	قائمة متنوعة للمواد
+variant management	إدراة البدائل/ الخيارات
+variant, option	خيار
+variate	متغير عشوائي
+variation	تغيُّر
+variation (due to an influence quantity)	مدى مرجعي
+variation coefficient	معامل الانحراف
+variation due to an influence quantity,	التغيير تجاه كمية مؤثرة, لمُرَحِّل قياس او نظام وقاية
+variation of the mean error	تغيير متوسط الخطأ
+varicam	متغير الاحديداب
+varicoloured	متنوع الألوان
+variegated	تلون
+variegated sandstone	حجر رملي متعدد الألوان
+variety	ضَرْبٌ
+variocoupler	قارن متغير
+Variomatic	ناقل الحركة اللاتدرجي (فاريوماتك) (Variomatic)
+variometer	مقياس التغير
+variourum edition	طبعة محقّقة
+various sedges	نباتات سعادى مختلفة
+variscite	فاريسايت
+varistor	ممانعة متغيرة حسب الجهد
+varistor; Varite	مقاوم متغير
+Varite	ڤارايت
+varmeter	مقياس القدرة غير الفعالة
+varnish	برنيق / ورنيش / ورنيش، برنيق
+varnish remover	مزيل الورنيش
+varnish run	آثار الطلاء
+varnish, noun	ورنيش
+varnished fabric	نسيج ورنيش
+varnished tile	بلاطة مبرنقة
+varnishing	ورْنشة، برنَقة
+Varsol	ڤارسول
+varved clay	غَضَار طبقي مخطط الشكل
+varying speed motor	محرك متغير السرعة
+vascular	وعائية
+Vat-B	تقرير الطقس ڤات ـ ب
+Vatol; vertical-attitude take-off and landing	إقلاع وحط رأسي
+vaugnerite	فوجنرايت
+vault	قبة الفرن الكهربائي / عقد، قبو
+Vaulted passage	بَرْبَخٌ عقدي
+VDE	رابطة (ال...) الألمانية للهندسة الكهربائية والإلكترونية وتكنولوجيا المعلومات (VDE) / جمعية مهندسي الكهرباء الألمان (VDE)
+VDI	اتحاد المُهندسين الألمان (VDI)
+VDMA	رابطة هندسة البناء والميكانيكا الألمانية (VDMA)
+VDU	وحدة بيان بصري
+vectofluviometer	مِقياس مطر مُتَّجِه
+vector	شعاع متجه / ناقل / مُتَّجِه / وجهة الطيران / متّجهة
+vector computer	حاسب المُتَّجِهات
+vector diagram	رسم بياني شعاعي
+vector electrocardiogram; vectorcardiogram	منحى الرسم البياني الكهربائي للقلب
+vector flight control	تحكم اتجاهي في الطيران
+vector of variables; vector	متجه المتغيرات؛ متجه
+vector scanning	مسح (متجه) شعاعي
+vector steering	إدارة اتِّجاهيَّة
+vector triangle	مثلث المُتَّجِهات
+vector-borne disease	مرض منقول بناقل
+vector-borne diseases	أمراض منقولة بنواقل
+vectored attack	هجوم مُوَجَّه
+vectored thrust	دَفْع مُوَجَّه
+vectorial calculus	حساب شعاعي متجهي
+vectorial product	جداء شعاعي
+vectoring in forward flight	طيران أمامي بالتوجيه
+vectors	ناقل
+vee	منشور
+vee depression	انخفاض مخروطي
+vee engine; V-engine	محرك v / محرك مخروطي
+vee formation	تشكيل v / تشكيل مخروطي
+vee roof	سقف مخروطي
+vee tail	ذيل v / ذيل مخروطي
+veeder counter	عدَّاد رقمي
+veering	إقبال
+vegetable fiber	ألياف نباتية
+vegetable glue	غراء نباتي
+vegetable kingdom	عالم النبات
+vegetable oil	زيت نباتي
+vegetable or wood tar	قطران الخشب، قطران نباتي
+vegetable plumule	شُعيرات نباتية / حرير نباتي
+vegetable tricome	شعر نباتي
+vegetation	كساء خضري
+vegetation fire	حرائق نباتات
+vegetation management	إدارة الغطاء النباتي
+vegetation zone	نِطاق نَبَاتيّ
+vegetative	خضري
+vegetative propagation	تكاثر خضري
+vegetative reproduction	تكاثر خضري
+vehicle	مركبة / مَرْكَبَة
+vehicle and chassis type identification number	رقم الشاسيه
+vehicle aXes	محاور المَركَبة
+vehicle bias	حوامل التحيز/الاختيار
+vehicle combination	قافلة قطر
+vehicle computer	كمبيوتر السيارة
+vehicle concept	مفهوم العَرَبَة
+vehicle cross-sectional area	مساحة المقطع المُستعرض للسيارة
+vehicle deceleration	تباطؤ السيارة
+vehicle diagnostic system (VDS)	نظام تشخيص المكوّنات الإلكترونية للسيارة
+vehicle distance speed regulator	مُنظِّم مسافة السيارة
+vehicle distribution	توزيع المركبات
+vehicle dynamics	دينامية القيادة
+vehicle dynamics concept	مفهوم دينامية القيادة
+vehicle electrical system	الشبكة الكهربائية
+vehicle emergency messaging system (VEMS)	نظام الإبلاغ عن حالات الطوارئ (VEMS)
+vehicle equipment	معدات العَرَبَة
+vehicle fleet	موقف عربات
+vehicle handling	خصائص القيادة
+vehicle height	ارتفاع السيارة
+vehicle identification number	كود تجيهزات السيارة / رقم تعريف السيارة
+vehicle information system (FIS)	نظام معلومات السائق (DIS)
+vehicle kilometer	سيارة - كيلومتر
+vehicle length	طول السيارة
+vehicle level	مستوى ارتفاع السيارة
+vehicle load	حمولة السيارة
+vehicle maintenance	صيانة المركبات
+vehicle mass ratio	نسبة كتل المَركبة
+vehicle occupancy	إشغال العربات
+vehicle on-line indicator	مبين مركبةعلى الخط
+vehicle parapet	طَلق تَطوِيقَة صَقَّالة
+vehicle productivity	إنتاجية العربات
+vehicle registration document	مستندات السيارة
+vehicle roll	ترنح
+vehicle route	مسار شاحنة النفايات
+vehicle safety	سلامة المركبة
+vehicle stability assist	نظام VSA
+vehicle stability assist (VSA)	نظام تعزيز اتزان السيارة (VSA)
+vehicle stability control	نظام VSC
+vehicle status data	بيانات حالة السيارة
+vehicle stopping distance	مسافة لازمة لتوقف مركبة، مسافة توقف العربة
+vehicle system	نظام المركبة
+Vehicle Tires Rolling Resistance and Wet Grip Requirements	متطلبات مقاومة الدوران والتماسك على الأسطح الرطبة لإطارات المركبات
+Vehicle Type	نوع المركبة
+Vehicle Type Approval (VTA)	ترخيص تشغيل عام
+vehicle vibration	اهتزازات السيارة
+vehicle width	عرض السيارة
+vehicle zoom	مكبرة العَرَبَة
+vehicle-dynamics control	نظام التحكم في دينامية القيادة / نظام التحكم في ديناميكية القيادة / نظام EFR للتحكم الإلكتروني في ديناميكية القيادة
+vehicle-dynamics control (FDR)	نظام التحكم الإلكتروني في ديناميكية القيادة
+vehicle-dynamics control system	نظام التحكم في دينامية السير
+vehicle-interval speed control	مُثبت سرعة خاص بنظام التحكم في مسافة الأمان
+vehicle-interval warning radar	رادار تحذير لتحديد مسافة الأمان
+Vehicle-to-Grid (V2G)	التوصيل ثنائي الاتجاه / نظام التحكم في الشحن العكسي
+Vehicle-to-Home (V2H)	نظام التحكم في الطاقة الاحتياطية
+Vehicle-to-Infrastructure (V2I) Communication	الاتصال بين المركبات والبنية التحتية
+Vehicle-to-Vehicle (V2V) Charging	نظام التحكم في الشحن التبادلي
+Vehicle-to-Vehicle (V2V) Communication	تقنيات الاتصال بين المركبات الكهربائية
+veil	طرحة
+veil cloud	سمحاق
+veiling glare, ; DEPRECATED: ambient flare,	وهج حاجب,
+veiling luminance,	النصوع الحاجب,
+veiling reflection	إنعكاس حاجب
+vein	وريد / عِرْق
+veined	معرَّق، مجزَّع
+veined wood	خشب معرّق
+veins of wood	عروق الخشب
+vela sensor	جهاز إحساس هوائي
+Velicren	فليكرين ®
+vellum paper	ورق قضيم
+Velluto®	فيلوتو ®
+velocimeter	مقياس السرعة
+velocity	سُرعة / سرعة (متجه)
+velocity (vector) of propagation (of a wave)	سرعة (متجه) الانتشار (لموجة)
+velocity algorithm	خوارزمية السرعة / لوغاريتم سرعة
+velocity curve	منحنى السرعة
+velocity error	خطأ في السرعة
+velocity factor	عامل السرعة
+velocity gate	صمّام السرعة
+velocity gradient	انحدار السرعة / تَدَرُّج السرعة
+velocity head	ضاغط السرعة / ضغط السرعة / طاقة السرعة
+velocity jump	قفزة السرعة
+velocity microphone	مجهار سرعي
+velocity modulation	تعديل سرعة حاملات الشحنة / تضمين السرعة
+velocity of advance	سرعة التقدم
+velocity of approach	سُرعة الاقتراب
+velocity of flow	سُرعة السريان
+velocity of light	سرعة الضوءِ
+velocity of mud return	سرعة عودة طين الحفر
+velocity of retreat	سُرعة الابتعاد
+velocity parameter	وسيطة السرعة
+velocity potential	جهد سرعي
+velocity profile	جانبية السرعة
+velocity recovery fan cylinder	أسطوانة مروحة تعويض السرعة
+velocity rod correction	تصحيح قضيب السرعة
+velocity signature	توقيع سرعي
+velocity test	اختبار السرعة
+velocity transducer	محول طاقة سرعي
+velocity-contour method	طريقة خطوط تساوي السرعة
+velocity-gate pull-off	انتزاع صمام السرعة
+velometer	مقياس سرعة الهواء
+Velona®	فيلونا®
+velour	سداء / قطيفة
+velour de panne	أطلس حريري
+velour fur	فرو سويدي
+velours au sabre / satin découpé	قطيفة سابر
+velours chiffon	شيفون قطيفة
+velours couché	قطيفة كوشي
+velours frisé	قطيفة مجعدة
+velours gaufré / terry velvet	قطيفة منقوشة
+velours épinglé	قطيفة مفتوحة
+veloutine	قطيفة مضلعة نصف حرارية
+Velv-a-Loop	وبر حلقي
+velvet	قطيفة ليندن / قطيفة سداء
+velvet lapping	تركيب نسجي للأقمشة المخملية
+velvet paper	ورق مخملي
+velvet sweater	قميص ناعم
+velvet twill	قطيفة من نسيج مُبرَّد
+velvet with weft face	قطيفة اللُحمة
+Velveton	فيلفيتون
+vena contracta	خِصْر النافورة
+vendor	بائع / مُوَرِّد
+vendor audit	بيان حسابات المُوَرِّد
+vendor managed inventory	إدارة المخازن من طرف المزود
+vendor profile	لمحة عن المُوَرِّد
+veneer	قشرة التصفيح / قشرة خشبية / تلبيسة
+veneer cutter	قطّاعة القشرة
+veneer cutting knife	سكين قطع القشرة
+veneer cutting shop	معمل قطع القشرة
+veneer peeling machine	آلة التفشير
+veneer saw	منشار القشرة
+veneer sheet	قطعة قشرة
+veneer stamping machine	آلة ترقيع القشرة
+veneered construction	إنشاء ملبّس
+veneered wood	خشب ملبّس
+veneering	تغطية بالقشرة / تلبيس
+veneering-hammer	مطرقة التلبيس
+venetian blind	ستارة معدنية
+Venetian blinds	بُرْدايَة متحركة
+venetian tiles	بلاط 'البندقية'
+Venezia®	فينيزيا
+vent	فتحة تهوية / متنفس / ثقب / منفس
+vent cap	غطاء سدادة التهوية / غطاء الفتحة
+vent hem	حاشية الفتحة
+vent line	خط الخدمة
+vent patch	رُقعة الفتحة
+vent valve	صمام استنزاف الهواء
+vented cell	خلية ذاتية التنفيس
+ventilated motor	محرك تهوية
+ventilated suit	بذلة مُهوَّاة
+ventilated totally-enclosed motor	محرك تهوية محكم الغلق
+ventilated, adj	مُهَوَّى
+ventilating buildings	تهوية المباني
+ventilating valve defrost/floor	غطاء تهوية لإزالة الصقيع/حيز الأقدام
+ventilating valves	غطاء التهوية
+ventilation	تهوية / تهوية، ترويح
+ventilation filter	فلتر تصريف هواء
+ventilation garment	بزَّة تهوية
+ventilation losses	خسائر التهوية
+ventilation pipe	أنبوب تهوية
+ventilation system	منظومة التهوية / نظام تهوية
+ventilation technology	تقانة التهوية
+ventilator	مِروَحة تهوية / مِروَحَة / مِروحة، جهاز تهوية، مهواة
+Venting	تهوية
+venting cycle	دورة التهوية
+venting device	تجهيزة التنفيس
+venting system	نظام تهوية
+venting, active	تنفيس، نشط
+venting, passive	تنفيس، سلبي
+ventral	بطني
+ventral fin	زعنفة بطنية
+ventral inlet	مدخل بطني
+ventral tank	خزان بطني
+ventricular electrofibrillation	رجفان بطينى كهربائى
+ventricular fibrillation	رجفان بطينى
+ventricular fibrillation,	إختلاج بطينى؛ إنقباض بطينى
+venture philanthropy	مشروع خيري
+venturi	عنق الكاربوراتير المخروطي / ڤنتشوري
+Venturi channel	قناة فنتوري
+Venturi effect	تأثير فينتوري
+venturi flume	مَسيل فنتوري
+venturi meter	مِقياس فنتوري / عدّاد ڤنتشوري
+venturi nozzle	فوهة 'فنتوري' (Venturi)
+venturi pitot	ڤنتشوري ـ پيتو
+venturi tube	أنبوب 'فنتوري' (Venturi) / أُنْبوب فنتوري / أنبوب ڤنتشوري
+Veralon®	فيلارون
+verandah	شرفة مسقوفة
+verd antique	رخام أخضر
+Verel ®	فيريل®
+Verendeel girder	جائز فيرنديل
+verge	شفير
+verge ring	حلقة الحافّة / حلقة محيطية
+verge trimming	تسوية حافة الطريق / تسوية كَتِد الطريق
+verification	تحقيق / تَحَقُّقْ / تحقق / التحقيق / تَحَقُّقُ / تَحَقُّق
+verification (component of las)	تَحَقُّقْ (جزء من نظام ضمان الشرعية (LAS))
+verification (of calibration)	ثابت (لجهاز قياس)
+verification dossier	مستندات الضمان
+verification of conformity	تَحقُّق من المُلاءمة
+verified emission reduction (VER)	خفوضات الانبعاثات المُحققة (VER)
+verified emissions reduction project (VER projects)	مشروع خفوضات الانبعاثات المُحققة
+verifier	المسئول عن التحقيق
+vermicomposting; worm composting	تسميد باستعمال الديدان، تسميد ديداني
+vermiculations	زخارف دودية
+vermiculite	فيرميكيولايت
+vermiculite concrete	خرسانة الفيرميكوليت
+vermiculture	دُودِية
+vermin	هَوامّ
+vernal equinoX	اعتدال ربيعي
+vernal pool (vernal pond)	بحيرة ربيعية (بركة ربيعية)
+vernalization	تجميد تنشيطي
+Verneuil process	طريقة فيرنويل
+Vernier	ورنيه / وَرْنيَّة
+vernier engine; vernier motor	محرك التحكم
+vernier rocket	صاروخ التحكم
+versant	منحدَر
+versatile avionics shop tester	جهاز اختبار متعدد الأغراض لإلكترونيات الطيران
+versicle	علامة آية
+version	إصدار
+Version: Isochronous Real Time	بروفينت IO: تبادل البيانات المتزامنة فى الزمن الحقيقى (IRT)
+Version: Real Time	بروفينت IO، إصدار: الزمن الحقيقي (RT)
+verso	وجه (ال...) الآخر / صفحة يمنى (في كتاب عربي)، صفحة يسرى (في كتاب افرنجي)
+vertebra	فقرة
+vertex	ذروة
+vertex plate (of a paraboloidal reflector)	لوحة رأسية (للعاكس القطعى المكافئ)
+vertical	شاقولي / رأسي
+vertical air handling unit	وحدة معالجة الهواء الرأسية
+vertical air photograph	صورة جوية رأسية
+vertical angle	زاوية شاقولية
+vertical axis	محور شاقولي
+vertical axis wind turbine	ايقاف عنفة (تربينة) رياح رأسية المحور
+vertical bank	عُطوف رأسي
+vertical barrier	حاجز عمودي
+vertical camera	آلة تصوير رأسية
+vertical centrifugal pump	مضخة نابذة رأسية المروحة
+vertical circle	دائرة شاقولية / دائرة رأسية / دائرة سمتيّة
+vertical circle level	ميزان توجيه شاقولي
+vertical compression shock	صدمة ضغط عمودية
+vertical configuration	توصيل شكل رأس علم / تشكيل رأسي
+vertical conveyor	ناقل عمودي
+vertical conveyor for pallets	ناقل عمودي للطبليات
+vertical coordinates	إحداثيات شاقولية
+vertical curve	منحن رأسي (في القطاع الجانبي)
+vertical development	نمو رأسي
+vertical drainage / inverted well	بئر إعادة شحن / صَرْف رأسيّ
+vertical drop weir; overfall weir	هَدّار رأسى المسقط / هدّار مسقط رأسي
+vertical ejector rack	حامل قذف رأسي
+vertical elasticity; vertical resilience	مرونة رأسية
+vertical engine	محرك رأسي / محرك قائم
+vertical envelopment	التفاف رأسي
+vertical examination stand	حامل الاختبار العمودي
+vertical fault	صدع رأسي
+vertical filter well	بئر رأسية بمُرشِّح
+vertical force	قوة عمودية / قوة رأسية
+vertical furnace	فرن عمودي
+vertical grab rail	مِقْبَض رأسي، خُطَّاف رأسي
+vertical grey-scale chart	مخطط المقياس الرمادي العمودي
+vertical gust	عَصْفَة رأسية
+vertical gyro	جَيْروسكوب رأسي
+vertical illuminance	الإستضاءة على سطح رأسى
+vertical incidence ionospheric sounding	سبر أيونوسفيري ذو إسقاط عمودي
+vertical interval	تباعُد منحنيات التسوية / فاصل رأسي
+vertical interval control address signal	إشارة ضبط و مراسلة المجال العمودي
+vertical ionization gradient (component)	تدرج التأين الرأسي (المكون)
+vertical launch	إطلاق رأسي
+vertical layout	تخطيط رأسي
+vertical lift	رفع رأسي
+vertical lift bridge	جسر رفع عَمُودي
+vertical lift gate	بوابة رفع رأسيّ
+vertical limit	تقييد مستوى ارتفاع التعليق
+vertical load	حمل رأسي عمودي / حمل رأسي على الشبكة
+vertical monopole (antenna); vertical unipole (antenna)	هوائي أحادي القطب عمودي
+vertical navigation	ملاحة رأسية
+vertical overspill	فيض رأسي
+vertical photography	صورة شاقولية
+vertical photometric angle,	زاوية قياس ضوئية رأسية,
+vertical picture slip	انزلاق الصورة عاموديا
+vertical polarization	إستقطاب رأسي
+vertical pressure gradient	تدرُّج الضغط رأسياً
+vertical probable error	خطأ محتمل رأسي
+vertical recording; hill-and-dale recording	تسجيل رأسي
+Vertical redundancy check	فحص التكرار العمودي
+vertical reference	إسناد رأسي
+vertical replenishment; vertrep	استعاضة عمودية
+vertical retort tar	قطران المعوجة الرأسية
+vertical reverse	انقلاب رأسي
+vertical riser	طائرة إقلاع عمودي
+vertical sand drainage	نزح (تصريف) رملي عمودي
+vertical separation	مُباعَدة رأسية
+vertical shaft	لُفَافَة سَطْحيّة / لَفّافة أرضية
+vertical speed	سرعة رأسية
+vertical speed indicator	مُبيِّن السرعة الرأسية
+vertical spin tunnel	نفق الانهيار الحلزوني الرأسي
+vertical stabilizer	موازِن رأسي
+vertical stay	سناد عمودي
+vertical stiffener	مُقوِّية عمودية
+vertical strip	شريحة رأسية
+vertical tabulation	جدولة عمودية
+vertical tail	ذيل رأسي
+vertical take-off and landing	طائرة بإقلاع وهبوط عموديين
+vertical take-off and landing; VTOL	إقلاع وحط عمودي
+vertical tape instrument	جهاز الشريط الرأسي
+vertical temperature gradient	تدرج حراري رأسي
+vertical tracking angle	زاوية التتبع العمودية
+vertical tracking angle error	خطأ زاويةِ التتبع العموديِ
+vertical translation	انتقال رأسي
+vertical tube evaporation	أُنْبوب تبخير عَمودِي
+vertical tube evaporator (VTE)	مبخر بأنبوب عمودي
+vertical tube multi effect evaporator	مبخر ذو أنبوب رأسي متعدد التأثير
+vertical tunnel	نفق رأسي
+vertical turn	دوران عمودي
+vertical unit	جزء رأسيّ
+vertical upward thrust	دفع عمودي
+vertical view	رَسْم مُحيطيّ
+vertical well	ثقب (بئر) عمودي / بئر عمودية
+vertical-axis wind turbine	عنفة ذات محور رأسي
+vertically integrated electricity entity	كيان كهرباءِ متكاملِ بشكل عمودي
+Vertically Integrated Utility	منشأة مدمجة عاموديًّا
+Verticals and Horizontals	مجالات رأسية وأفقية
+vertigo	دُوَار
+very fine sand	رمل ناعم جدا
+very fine sandy loam	طمي رمالي ناعم جدا
+very high altitude	ارتفاع عالٍ جداً
+very high frequency, (V.H.F.)	تواتُر عالٍ جدا، تردد عالٍ جدا
+very high frequency; VHF	تردد عالٍ جداً
+very high speed photography	تصوير مفرط السرعة
+very high voltage line	خط (خطوط) الجهد العالي جدا
+very large crude carrier (VLCC)	ناقلة نفط عملاقة
+very large crude carrier, (V.L.C.C.)	ناقلة خام ضخمة
+very large tanker	ناقلة نفط عملاقة
+very low frequency	تردد منخفض جداً
+Very pistol	مسدس ڤِري
+very small aperture terminal; VSAT (abbreviation)	محطة طرفية ذات فتحة صغيرة جداً
+very thin asphalt surfacing	طَبَقة رقيقة للأسفلت
+Very-high speed DSL	خَطُّ اِشْتِراكٍ رَقْمِيّ عالِي السُّرْعَةِ
+very-large-scale integration	تكامل واسع جداً
+vesicle	فجوة
+vesicular structure	بِنْيَة فجوية / بنية فجوية، بنية فقاعية
+vessel	وعاء / سفينة
+vessel inward	سفينة في المدخل (ميناء)
+vestige	طلل
+vestigial sideband (qualifying term)	نطاق تردد جانبي ومتبقي الاثر (تعبير تأهيلي)
+vestigial sideband ; VSB (abbreviation)	نطاق تردد جانبي متبقي الاثر
+vestigial sideband filter (in a vision transmitter)	مرشح إشارة الحزمة الجانبية المتبقية ( في المرسل المرئي)
+vesuvianite	فيزوفيانايت
+vesuviante	فيزوفيانيت
+veterinary drug; veterinary medicine; veterinary medicine	عالج بيطري; دواء بيطري
+Vetrolon®	ألياف الفترولون®
+VF	شاشة فلورية خوائية (VF)
+Vgh recorder	مُسجِّل السرعة ـ التسارع ـ الارتفاع
+viable population	ساكنة قابلة للحياة
+viaduct	جسر / جِسر / جِسْر
+vibra switch	مفتاح للوصل و القطع المتتابع
+vibrated concrete	خرسانة مهزوزة
+vibrated road roller	مِحْدَلَة هَزَّازة
+vibrating	خبط
+vibrating conveyor	ناقل هزاز
+vibrating plate compactor	آلة رصّ رَجّاجَة
+vibrating reed instrument	جهاز قياس بمقوم
+vibrating relay (telegraph)	مرحل تذبذب (إبراق)
+vibrating roller	اسطوانة مترددة
+vibrating screen	مِصْفاة هَزّازة / غربال هزّاز
+vibration	اهتزاز
+vibration absorber	مُخمّد اهتزازات
+vibration damper	مُخمّد الاهتزازات / مخمد اهتزاز / مخمّد الاهتزاز
+vibration fatigue	كَلَال اهتزازي، كَلَال بالاهتزاز
+vibration galvanometer	مقياس جلفانو اهتزازي
+vibration indicator	مؤشر الاهتزاز / مُبيِّن الاهتزاز
+vibration isolator	عازل الاهتزاز
+vibration meter	مقياس الاهتزاز
+vibration mode	نمط الاهتزاز
+vibration of concrete	رَجُّ الخرسانة
+vibration test	اختبارُ الإهتزاز / اختبار الإهتزاز
+vibrations	اهتزاز
+vibrato	تهديج الصوت - اهتزاز
+vibrator	مقطِّع اهتزازي / هزَّاز / موزع الحبر / هزّاز
+vibratory conveyor	ناقل اهتزازي
+vibratory roller	أُسطُوَانَة اهتزازية / مِدْحَلة رجَّاجة
+vibratory torque control	تحكم اهتزازي في عزم اللي
+Vibrene	فيبرين
+vibro drilling	حَفْر اهتزازي
+vibro-flotation	رصٌّ بالتعويم والرج
+vibrograph	راسم الاهتزاز
+vicariance	استبدالية
+vicariant / vicarious	مستبدلة
+Vicat needle	إبرة فيكات
+vice (vise)	ملزمة
+vice [UK] / vise [US]	منجلة
+vice of a bench	ملزمة منضدة عمل
+vicinity zone	المنطقة المحيطة؛ المنطقة المحيطة خارج منطقة العمل تحت الجهد
+vicious cycling	تغيير دوري عنيف
+Victor airway	خط جوي ڤِكتوري
+vicuña	فِكّونة
+video	ترئية الصُّوَر / حامل للصور / صُوَري
+Video Cassette Recorder	مُسَجِّلُ شَرِيطِ فيديو
+video compression	ضغط الترئية
+video control module (VCU)	وحدة تحكم في المرئيات (VCU)
+video control unit	وحدة التحكم في المرئيات
+video detector	كاشف الإشارات الحاملة للصور
+video display	شاشة صوريّة
+video eXtractor	مستخلِص الإشارات الصورية
+video frequency	تردد مرئي
+Video Graphics Array	مَصْفُوفَةُ رُسُوماتِ الفيديو
+video head assembly	مجموعة رأس آلة التسجيل المرئي
+video link	اتصال صوري
+video mapping	تركيب صوري للخرائط
+Video Program System (VPS)	نظام التحكّم المُبرمَج بالفيديو (VPS)
+video record current	تيّار آلة التسجيل المرئي
+video server	خادم الفيديو
+video signal	إشارة حاملة للصُّوَر
+video signal source gamma	مصدر اشعة جاما للإشارة المرئية
+video signal; picture signal	إشارة مرئية
+video tape recorder; VTR (abbreviation)	مسجل شريط مرئي
+video track	مسار آلة التسجيل المرئي
+video transmission	إرسال مرئي
+video tuner; television demodulator; video demodulator	موالف مرئي
+video-frequency protection ratio	نسبة الحماية في التردد المرئي
+video-frequency signal-to-interference ratio	نسبة الإشارة إلى التداخل في التردد المرئي
+video-telephony; viewphone; visual telephone	هاتف مرئى / هاتف مرئي
+videoconference	مؤتمر باستخدام الاتصال المرئي؛ مداوله مرئيه
+videodisk	قرص مرئي
+videography	نظام ارسال للبيانات الرقمية والسماح بعرضها على وحدة عرض مرئى / تصوير مرئي
+videorecorder	مسجل مرئي
+videotape recorder	مسجّل على شريط مرئي
+videotape reproducer	إعادة تسجيل شريط مرئي
+videotex; interactive videography	الصور المرئية المتبادلة
+vidicon	صمام الة تصوير التوصيل الضوئي ذو التخزين السطحي / صمام تصوير تلفازي
+vidicon (trade mark)	فيديكون (علامة تجارية)
+Vidissector	آلة تصوير تلفازي فضائي
+Viennese fashion	موضة فيينا
+Viennese seam	تصميم أميري
+Vierendeel	عارضة جملونية
+Vierendeel girder	عارضة فيرنديل
+view point	نقطة نظر
+viewer	المشاهد
+viewing flare	وهج الرؤية
+viewphone set; videophone	مجموعة هاتف مرئي
+vigilance device	جهاز تنبيه / جهاز اليقظة
+vignette	نقش زخرفي
+vigogne yarn	خيط غزل فيكونيا
+vigoureux yarn	خيوط غزل فيجوريكس
+Viking lambskin	خروف الفايكينغ
+villa	مَغْنَى، فيلا
+Viloft®	ألياف فيلوفت ®
+Vin Number	رقم هيكل المركبة
+Vinal	فينال
+Vincel ®	ألياف فينسل ®
+viniculture	زراعة الكروم
+vintage washed	طريقة الغَسْل التَقَادمي للجينز / تنظيف ثانوي / غسل متقادم
+vinylal fibers	ألياف عديد فينيل الكحول
+vinyliden fibers	ألياف الفينيلدين
+Vinylon	فينيلون
+Vinyon	فينون
+Violation Review Committee	لَجْنَةُ النَّظَرِ فِي المُخَالَفَاتِ
+violet square signal	الأشارة البنفسجية المربعة
+vip lounge	قاعة شرفية
+virage	دوران ضيّق
+viral pathogen	مُمْرٍضْ فيروسي
+virga	شهاب مائي
+virgin fibre	ألياف بِكْر
+virgin forest	غابة بكر
+virgin material	مادة بِكر
+virgin materials	مواد خام
+virgin naphta; straight run gasoline	نفتا عذراء
+Virgin Wool	صوف بكر
+virtual (equivalent) junction temperature	درجة حرارة افتراضية مكافئة للوصلة
+virtual call	نداء افتراضى
+virtual circuit	دارة افتراضية
+Virtual Concatenated Group	المَجْمُوعَةُ الاِفْتِراضِيَّةُ المُتَسَلْسِلَةُ
+Virtual Container	حاوِيَةٌ اِفْتِراضِيَّةٌ
+virtual decision value	قيمة مقررة إفتراضية
+virtual entity	كيان إفتراضى؛ هوية افتراضية
+virtual flank protection	حماية جناح افتراضية
+virtual front duration,	زمن مقدمة موجة الصواعق,
+virtual gravity	جاذبية تقديرية
+virtual height	ارتفاع افتراضي (للإنعكاس) / ارتفاع تقديري
+virtual image	صورة وهمية / صورة تقديرية
+virtual inertia	عطالة افتراضية / قصور تقديري
+virtual level	مستوى افتراضي
+Virtual Local Access Network	شَبَكَةٌ مَحَلِّيَّةٌ اِفْتِراضِيَّةٌ
+virtual local area network; VLAN (abbreviation)	إختصار (VLAN)؛ شبكة محلية إفتراضية
+virtual mass	كتلة افتراضية
+virtual office	مكتب إفتراضى
+virtual piston	مكبس افتراضي
+virtual power plant	محطة ظاهرية لتوليد الكهرباء
+Virtual Power Plant (VPP)	محطة ظاهرية لتوليد الكهرباء
+virtual private network; VPN (abbreviation)	إختصار (VPN)؛ شبكة خاصة إفتراضية
+virtual reality	واقع افتراضى
+virtual stress	إجهاد تقديري
+virtual temperature	درجة حرارة تقديرية
+virtual temperature; internal equivalent temperature (of a semiconductor device)	درجة حرارة افتراضية (لجهازشبة موصل)
+virtual time (of a fuse-link)	زمن افتراضى
+virtual water	مياه افتراضية / ماء افتراضي
+virucides	مبيدات الفيروسات
+virus	فيروس
+viscid	لزج
+visco fan	مروحة فيسكو
+viscoelasticity	مرونة لزجة
+Viscolin®	فيسكولين
+viscometer	مقياس اللزوجة
+viscose	فسكوز
+Viscose Circle of Quality®	'رابطة الفيسكوز للجودة '®
+viscose fibers	ألياف الفسكوز
+viscose filament yarn	خيوط من ألياف الفسكوز المستمرة
+viscose process	عملية الدبق
+viscose yarn	خيط فسكوز
+viscosimeter	مقياس اللزوجة / ملزاج
+viscosity	اللزوجة / لُزوجَة / لزوجة (ال...) / لُزُوجَة / لُزوجة / لزوجة
+viscosity (or : viscidity)	لزوجة
+viscosity breaking	خَفْض اللُّزوجة (بالتكسير الحراري)
+viscosity coefficient	مُعامِل اللزوجة
+viscosity compensation	معاوضة اللزوجة، تعويض اللزوجة
+viscosity cup	كأس قياس اللزوجة
+viscosity index	معامل اللزوجة (VI) / مُؤشر اللزوجة / درجة اللزوجة / دليل اللزوجة / قرينة اللزوجة
+viscosity index improvers	محسنات قرينة اللزوجة، مضافات تحسين قرينة اللزوجة
+viscosity manometer	مقياس ضغط اللزوجة
+viscosity of colloidal solution	لُزوجَة المحلول الغروانيّ (المعلق)
+viscosity range	نطاق اللزوجة
+viscosity valve	صمام اللزوجة
+viscosity, absolute	لُزوجَة مُطْلقة
+viscosity, dynamic	لُزوجَة دينامية
+viscosity, kinematic	لُزوجَة كينماتية
+viscous	لَزِج
+viscous aquaplaning	انزلاق لزج
+Viscous coupling	قابض لزج
+viscous damping	إخماد لزج / تخميد لزج / مُضاءلة لزجة
+viscous flow	انسياب لزج / جريان لزج
+viscous fluid	مائع لزج
+viscous force	قوة اللزوجة
+viscous stress	إجهاد اللزوجة
+viscous tar barrier	حاجز من القطران اللَّزِج
+visibility	رؤية واضحة / رؤية / مدى الرؤية
+visibility level	مستوي الرؤية
+visibility meter	مقياس مدى الرؤية
+visibility prevailing	عموم الرؤية
+visibility,	إمكانية الرؤية,
+visible arc (of a satellite network)	قوس مرئي (لشبكة القمر الصناعي)
+visible edge	حافة مرئية
+visible horizon	أفق مرئي / الأفق المرئي
+visible lead precipitate	رصاص ظاهري مترسِّب، راسب رصاصي مرئي
+visible light	ضوء مرئي
+visible load	حمْل مرئي
+visible radiation	إشعاع مرئي
+visible spectrum	طيف مرئي
+visible speech apparatus; sound spectrograph	أجهزة نطقية مرئية
+Visil®	ألياف فيسيل ®
+vision	رؤية مستقبلية
+vision (corporate)	رؤية (شركات)
+vision carrier	إشارة حاملة للصورة
+vision of relief	رؤية طبغرافية
+vision transmitter (television)	مرسل مرئي (تلفاز)
+vision-in-turn window	نافذة الرؤية في اللف
+Visitor Location Register	سِجِلّ مَواقِعِ الزُّوّارِ
+visitor location register; VLR (abbreviation)	مسجل بيانات الزائرين
+visol	ڤيزول
+visor	شق التصويب
+visual acuity	حدة الإبصار
+visual acuity, ; visual resolution,	حدة الإبصار, / قياس حدة الإبصار,
+visual airborne target-locator system	مُحدِّد بصري لمواقع الأهداف محمول جواً
+visual anamorphic movie	صورة سماوية
+visual angle	زاوية رؤية / زاوية الرؤية
+visual approach path indicator	مُبيِّن مسار الاقتراب البصري
+visual approach slope indicator	مبين الإقتراب المرئي للانحدار / مُبيِّن الانحدار في الاقتراب البصري
+visual colorimetry	اللونية المرئية؛ قياس الألوان المرئية
+visual contact	تماس بصري / اتصال بصري
+visual contrast threshold	حدود التباين البصرى
+visual countermeasures	تدابير مُعاكسة بصرية
+visual cue	تلقين بصري
+visual display unit	وحدة عرض مرئية / وحدة عرض مرئي، فيديو
+visual envelope	غلاف بصري
+visual evoked potential	جهد الإستثارة البصرية
+visual evoked sub-cortical potential	جهد الاستثارة المرئية تحت القشرة الدماغية
+visual field	مجال الرؤية
+visual flight rules	قواعد الطيران البصري
+visual flight rules (VFR)	قواعد الطيران بالرؤية
+visual guidance	دليل الرؤية
+visual head-up image	صورة بصرية عُلوية
+visual homogeneity test	اختبار الانسجام البصري
+visual identification	تَعَرُّف بصري
+visual inspection	فَحصٌ بَصَرِيّ / تدقيق بالمشاهدة / فحص ظاهرى / فحص ظاهري
+visual met conditions	شروط الطيران البصري
+visual perception	حاسة البصر
+visual performance	أداء ظاهري
+visual photometry	الضوئية المرئية؛ القِياسٌ الضوئى المرئى / مضوائية بصرية
+visual range	مَدَى بَصَرِي / مدى الرؤية
+visual range,	مدى بصرى,
+visual range; visual/aural range	مدى بصري
+visual reference	إسناد بصري
+visual report	تقرير بصري
+visual sensation	الإحساس البصرى
+visual separation	فَصْل بصري
+visual signal	إشارة مرئية
+visual survey	مسح بصري
+visual task	سطح مرئى؛ مهمة بصرية
+visual/aural range	مدى سمعي
+visualization	إبداء / إبصار / إظهار
+vital actions	إجراءات حيوية
+vital area	منطقة حيوية
+vital signs and metabolic data	بيانات مقاسة من أجهزة متصلة بالمريض
+vitamin D synthesis	تصنيع فيتامين د
+vitreous	زُجاجيّ
+vitreous enamel (on metal)	طلاء زجاجي (على المعدن)
+vitreous luster	بريق زجاجي
+vitrification	تزجيج
+vitrified brick	آجرة مزجّجة
+vitrified clay / stoneware	أوانٍ خزفية
+Vitrified clay fittings	قوالب من الفخار المزجج
+vitrifying	تزجُّج
+viviparity	ولودية
+Vlieseline	قماش الألياف المترابطة
+VME-Bus	ناقل VME
+vocalization	تشكيل (الكلمات)
+vocoder	حاكية أصوات مسجلة
+vog	ضباب بركاني
+voice coder	مُشَفِّرة الصوت
+Voice Command System	نظام التحكم في الصوت الاصطناعي
+voice frequency	تردد صوتي
+voice keying	وصل صوتي
+voice rotating beacon	منارة دوّارة صوتية
+voice-frequency	تردّد صوتي
+voice-frequency channel; VF channel	قناة صوتية ـــ ترددية
+voice-frequency multiplex telegraphy; VET (abbreviation)	إبراق متعدد التردد الصوتى
+voice-frequency signal	إشارة تردّد صوتي
+voice-frequency signalling; vf signalling	تأشير بتردد صوتي
+voice-grade channel	قناة ذات مرتبة صوتية
+voice-operated gain-adjusting device	مضبط التضخيم العامل بالصوت
+voice-operated relay	مُرَحِّل يعمل بالصوت
+voiceless homing	توجيه لاصوتي
+void	فراغ
+void content	مُحتَوى الفَرَاغ
+void fraction	نسبة الفجوة
+void ratio	نسبة الفراغات / نسبة المسامات
+void(s) content	مُحتَوى الفَرَاغ
+voided slab	بَلاَطَة مُفْرَغَة
+voids	فراغات
+voids ratio	نسبة الفراغات
+Voigt effect	ظاهرة ڤويت
+Voile	وشاح
+voile barré	وشاح مخطط
+voile mesh	قماش شفاف
+voile yarn	خيط فوال
+volatile	متطاير / طيَّار / سريع التطاير
+Volatile acids	أحماض متطايرة
+volatile liquids	سوائل طيَّارة
+volatile memory	ذاكرة قابلة للزوال
+volatile organic carbon	كربون عضوي مُتطاير
+volatile organic compounds (VOC)	مركبات عضوية طيَّارة
+volatile organic compounds (vocs)	مركبات عضوية متطايرة
+volatile solvent	مذيب متصعّد
+volatile storage	تخزين غير ثابت
+volatile store	مخزن حافظ للمعلومات
+volatile suspended solids (VSS)	مواد صلبة عالقة طيَّارة
+Volatilisation	تطاير
+volatility	تَطايُرِية (كيمياء) / تصعّديّة
+volatility index	قرينة التطاير
+volatilization	تطاير
+volcanic	بركاني / بركانيّ
+volcanic eruption	ثوران بركان
+volcanic pipe	أنابيب بركانية
+volcanic winter	شتاء بركاني
+volcanism	نشاط بركاني
+volcano explosion	انفجار بركان
+Volmet	ڤولْمِت
+volt	فولط / فولت / فلط
+volt (V)	فولط / فولت
+volt ampere	فولط أمبير
+volt per hertz relay	مُرَحِّل نسبة الجهد إلى التردد؛ مُرَحِّل زيادة الفيض المغناطيسي
+volt-ampere meter; apparent power meter	مقياس القدرة الظاهرة
+volt-ampere-hour meter; apparent energy meter	عداد الطاقة الظاهرة
+volt-ohm meter (VOM)	جهاز قياس الفولط والأوم (VOM)
+voltage	الفلطية الكهربائية / جهد
+Voltage Alternating Current	تَيّارُ الجُهْدِ المُتَرَدِد
+voltage amplifier	مضخِّم الجهد الكهربائي
+voltage and reactive power control	تحكم في الجهد بواسطة القدرة غير الفعالة
+voltage at begin of gassing [UK] / voltage at start of gassing [US]	فلطية انبعاث الغاز
+voltage booster	معزز الجهد
+voltage build-up	تنامى الجهد؛ تزايد الجهد
+voltage change	تغير الجهد / تغيير الجهد
+voltage change interval	فترة تغير الجهد
+voltage circuit	دارة تيار
+voltage clamp; constant-voltage generator (in electrophysiology)	اداة تثبيت الجهد( فى علم الظواهر الكهربائية لوظائف الأعضاء)
+voltage control	تحكم في الجهد
+voltage control voltage regulation	ضبط الجهد
+voltage controlled bus	قضبان التحكم في الجهد (عقدة)
+voltage controlled crystal oscillator ; VCXO	مذبذب بلورى محكوم الجهد
+voltage controlling transductor	محول حثي متحكم بالجهد
+Voltage Converters	محوِّلات الجهد
+voltage dependent current source (VDCS)	مصدر تيار معتمد على الجهد (VDCS)
+voltage dependent voltage source (VDVS)	مصدر جهد معتمد على الجهد (VDVS)
+voltage detector	مبين جهد
+voltage deviation	حيود الجهد / انحراف الجهد عن القياسي
+voltage dip	إنخفاض الجهد / انخفاض الجهد
+voltage dip; voltage sag	انحدارالجهد
+Voltage direct current	تَيّارٌ مُباشِر
+voltage divider	مُقَسِّم الفلطية / مجزئ الفلطية / مقياس فرق جهد / مقسّم الجهد
+voltage divider circuit	دائرة مجزئ الجهد
+voltage doubler	مضاعف الجهد
+voltage drop	هبوط الجهد الكهربائي
+voltage drop (2); tension drop (2)	هبوط الجهد (2)
+voltage drop, ; tension drop ,	هبوط الجهد (1)
+voltage error	خطأ التيار
+voltage factor; mu factor (US)	عامل الجهد
+voltage flicker	تذبذُب الجُهد
+voltage fluctuation	تأرجح (تقلب) الجهد / تذبذب الجهد
+voltage fluctuation waveform	شكل موجة تأرجح (تقلب) الجهد
+voltage gain	كَسْب الجهد الكهربائي
+voltage generation	توليد الفلطية
+voltage gradient	تدرّج الجهد / مُنحنى الجهد
+voltage jump	قفزة جهد / قفزة الجهد
+voltage level	مستوى الجهد / مستوى جهد
+Voltage Levels	مستويات الجهد
+voltage magnetic converter	مغير مغناطيسي للتيار
+voltage map	خريطة الجهد؛ نظام الجهد
+voltage matching transformer	محول جهد تعاقبي (حثّي)
+voltage multiplier	تكاليف تشغيل توربينات الرياح
+voltage optimization	أَمْثَلَة التيار الكهربائي
+voltage phase control	التحكم بطور الجهد
+voltage pulse, ; impulse voltage	موجة الجهد الدفعى, ؛ الجهد الدفعى
+voltage raising	رفع الجهد
+voltage ratio of a capacitor divider	جهد وسطي لدارة مفتوحة
+voltage ratio; voltage amplification	نسبة الجهد تضخيم الجهد
+voltage recovery	استعادة الجهد
+Voltage Reduction	تخفيض الجهد
+voltage reference tube	صمام جهد مرجعي (معياري)
+voltage regulation	تنظيم الجهد / ضبط التوتر
+voltage regulation characteristic	خاصية تنظيم الجهد
+voltage regulator	مُنظم / منظّم الجهد / منظم الجهد
+voltage relay	مُرَحِّل جهد
+Voltage sensor	مستشعر الجهد الكهربائي
+voltage sink	بالوعة جهد كهربائي
+voltage source	مصدر الفلطية / منبع جهد كهربائي
+voltage source inverter; voltage fed inverter	مقوم عكسى مصدر الجهد
+voltage stability	استقرار الجهد
+voltage stability voltage maintenance	استقرارية الجهد
+voltage stabilizer	مثّبت الجهد
+voltage stabilizing tube; voltage regulator tube (US)	صمام استقرار الجهد
+voltage standing-wave ratio	نسبة جهد التموُّجيّة المستقرة
+voltage stiff AC/DC converter	مغير تيار متردد / تيار مستمر ثابت الجهد
+voltage surge	اندفاعة الجهد - جهد دفعي (تصاعدي)
+voltage system	جهد تشغيل النظام
+Voltage to Frequency Converter	مُحوِّل الجهد إلي تردد
+voltage transducer	مُحول إشارة للجهد
+voltage transformer	تصحيح اللفات؛ التعويض بتعديل عدد اللفات / محوّل الجهد
+voltage unbalance	عدم اتزان الجهد
+voltage unbalance; voltage imbalance	عدم إتزان الجهد
+voltage variation	تغير الجهد
+voltage voice density	جهد الاضطراب
+voltage-controlled oscillator; VCO (abbreviation)	مذبذب يتم التحكم فيه بواسطة الجهد
+voltage-dependent resistor	مقاومة متغيرة مع الجهد
+voltage-limiting device	جهاز تحديد الجهد
+voltage-reference diode	صمام ثنائى مرجعى الجهد
+voltage-regulator diode	صمام ثنائى منظم للجهد
+voltage-saturation current	تيار الاشباع الجهدي
+voltage; (electric) tension	جهد،جهد (كهربائي)
+voltameter	جهاز فولطا
+voltammetry	قياس الجهد
+voltmeter	مقياس فرق الجهد / مقياس الجهد الكهربائي / مقياس فولط / جهاز لقياس الجهد الكهربائي
+volts alternating current	تيار الفلطية المتناوب / التناوبي (VAC)
+volts direct current	تيار الفلطية المُباشر (VDC)
+volume	حَجْم المحتوى / حَجْم / حجم / مجلّد
+volume (in telephony)	الحجم (في الإرسال الهاتفي)
+volume adjustment (ASL)	مواءمة شدة الصوت (ASL)
+volume bill of material	حجم قائمة المواد
+volume colour	لون مدرك فى حجم مادة
+volume concentration; concentration	تركيز؛ تركيز حجمى
+volume control	تحكم فى مستوى الصوت
+volume flow rate	تدفُّق حجميّ / معدل تدفق الحجم
+volume fraction	نسبة حجمية, الكشف عن الغاز / كسر حجمي / نسبة الحجم
+volume implant	زرع حجمى
+volume load of BOD	حِِمل (ال...) الحَجْميّ لنقص الأكسجين الحيويّ
+volume meter; volume indicator	مقياس قوة (الصوت)
+volume of combined water discharge	إجماليّ تدفّق المياه المُختلِطة / حَجْم المياه المُختلِطة
+volume of rainwater	حَجْم مياه الأمطار
+volume of traffic	حجم حركة المرور
+volume reduction	تخفيض الحجم
+volume resistance	مقاومة حجمية
+volume resistivity	المقاومة النوعية الحجمية
+volume resistivity,	مقاومة نوعية حجمية, الأجواء المتفجرة
+volume solids content	نسبة مُكوّنات صَلبة
+volume strain	توتر حجم
+volume unit	وحدة جهارة
+volume unit meter	جهاز قياس وحدة الصوت
+volume velocity	سرعة حجمية (صوتية)
+volume, dam	حَجْم السد / حجم السد
+volume-based fee	رسوم على أساس الحجم
+volumetric	حجمي
+volumetric capacity	سعة كهربائية حجمية
+volumetric change by heat expansion	تغير حجمي بواسطة التمدد الحراري
+volumetric density	كثافة حجمية
+volumetric efficiency	الكفاءة الحجمية / كفاءة حجمية
+volumetric efficiency (λL)	درجة الامتلاء (الكفاءة الحجمية λL)
+volumetric energy density	كثافة الطاقة الحجمية
+volumetric flow rate	مُتوسط التَدفُّق الحجمي
+volumetric flowmeter	مقياس التدفّق الحجمي
+volumetric load	حِمْل حَجْميّ
+volumetric loading	تحميل حجمي
+volumetric shrinkage	انكماش حجمي
+volumic (electric) charge; (electric) charge density	شحنة ( كهربائية ) حجمية
+volumic electromagnetic energy; (volume) density of electromagnetic energy	طاقة كهرومغناطيسية حجمية
+volumic energy (for batteries)	طاقة الحجمية ( للبطارية)
+voluntary action	عمل تطوعي
+voluntary agreement	اتفاق طوعي
+voluntary carbon market (VCM)	سوق الكربون الطوعية (VCM)
+voluntary carbon offset mechanism	آلية تعويض طوعي للكربون
+voluntary carbon offsets	معادلة الكربون الطوعية
+voluntary carbon standard	معيار طوعي للكربون
+voluntary commitments	التزامات طوعية
+voluntary emission reduction	خفض طوعي للانبعاثات
+voluntary export restraint	قيود تصدير طوعية
+voluntary measures	تدابير طوعية
+Voluntary separation	فرز طوعي
+voluntary standard	معيار طوعي
+volute	حلزون / تحلزن
+volute siphon	سيفون لولبيّ
+volute spring	نابض حلزوني
+volute, external	حَلَزُونيات خارجية
+volute, internal	حَلَزُونيات داخلية
+Von Brand method	طريقة فون براند
+von Kries' persistence law	قانون فون كريس لإستمرار الأثر
+Von Kármán street	شارع فون كارمان
+Vonnel	فونيل
+VOR	مرشد الاتجاه
+VOR/DME	مرشد الاتجاه والمدى
+VOR/ILS	مرشد الاتجاه/نظام الحط الآلي
+VOR/Loc, Vorloc	جهاز مرشد الاتجاه
+vorous	آكل
+Vortac, VOR/TAC	مرشد الاتجاه الملاحي التكتيكي
+vortex	دوامة / دَوّامة / دردور
+vorteX breakdown	انهيار دوّامي
+vortex breaker	مانع الدوَّامة، قاطِع الدردور
+vorteX burst	انفجار دوّامي
+vorteX dissipator	مشتِّت دوّامي
+vorteX drag	كبح دوّامي / مقاومة دوّامية
+vortex drop shaft; vortex manhole	بئر دَوّامية
+vorteX filament	فتيل دوّامي
+vortex flow	تيار دوّامي / جريان دوّامي
+vortex frequency method	طريقة التردد الدوّامي
+vorteX generator	مولِّد دوّامات / مُدَوِّم / مولد الدوامات
+vortex grit removal	إزالة رمال بالدوامة
+vorteX hazard	خطر دوّامي
+vorteX lift	رفع دوّامي
+vorteX line	خط دوّامي
+vortex pump	مِضخّة دُوَّامية / مِضخّة جريان حر
+vorteX ring	حلقة دوّامية
+vorteX separation	فَصْل دوّامي
+vortex separator	فَرّازة دَوّامية
+vorteX sheet	صفحة دوّامية
+vorteX street	شارع الدوّامات
+vorteX strength	شدة الدوّامات
+vorteX trail	ذيل الدوّامة
+Vortex yarn	خيوط فورتكس
+vorteX-ring state	حالة الحلقة الدوّامية
+vorticity component	مركِّبة الدوّامية
+vortillon	ڤورتيلون
+VOT, Vot	مختبِر مرشد الاتجاه
+voter	مقترِع
+voter threshold	مَشرِف المُقترِع
+voting system	نظام مُقترِع
+voussoir	حجر العقد
+vowel	حرف صامت
+voyage	رحلة
+voyage charter	استئجار رحلة
+voyage charter-party	عقد استئجار (سفينة) لرحلة
+voyage policy	وثيقة تأمين لرحلة
+vpa (voluntary partnership agreement)	اتفاق الشراكة الطوعية (VPA)
+vrille	خيط غزل فريلي
+vrille yarn / chenille yarn	خيوط مزوية لولبية
+VTG turbocharger	الشاحن التوربيني VTG
+VTO grid	شبكة الإقلاع العمودي
+vu meter	مقياس وحدة قوة (الصوت) / مقياس قوة الصوت
+vuggular	فجوي
+Vuilleumier cycle	دورة (Vuilleumier)
+vulcanicity	نشاط بركاني
+vulcanisation [UK] / vulcanization [US]	الفلكنة
+vulcanized fibre	ليف معالج بالحرارة
+vulnerability	ضعف، قابلية الإصابة (الانجراح)
+vulnerability assessment	تقييم الضعف
+vulnerability context	سياق الضعف
+vulnerability mapping	رسم خرائط الضعف
+vulnerability to climate change	حساسية لتغير المناخ
+vulnerable communities	مجتمعات هشة
+vulnerable groups	مجموعات هشة
+vulnerable marine ecosystems (vmes)	نظم إيكولوجية بحرية هشة
+vulnerable period	فترة غير آمنة
+vulnerable species	أنواع معرضة للخطر
+Vyrene	ألياف فيرين

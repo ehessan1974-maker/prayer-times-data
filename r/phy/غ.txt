@@ -1,0 +1,105 @@
+غادولينيوم	gadolinium
+غاز	Fermi-Dirac gas / gas
+غاز أحادي الذرة	monatomic gas / monoatomic gas
+غاز الاخماد (ن)	quenching gas
+غاز الإلكترونات الحرة	free electron gas
+غاز التثليج، غاز التبريد	refrigeration gas
+غاز إلكتروني	electron gas
+غاز إلكتروني متردٍّ	degenerate electron gas
+غاز انشطار (ن)	fission gas
+غاز بوزونات	boson gas
+غاز حقيقي	real gas
+غاز خامل	inert gas / inert gas; inert gases / noble gas; inert gas
+غاز دائم	permanent gas
+غاز دو بعدين	two-dimensional gas
+غاز فرمي	Fermi gas
+غاز فوتونات	photon gas
+غاز لورنتز	Lorentz gas
+غاز مثالي	ideal gas / perfect gas
+غاز مثالي؛ غاز كامل	ideal gas / perfect gas
+غاز مخلخَل	rarefied gas
+غاز مشع	radioactive gas
+غاز مفكك	degenerate gas
+غاز نادر	noble gas / rare gas
+غازولين	gasoline
+غالق كهربصري	electro-optical shutter
+غالون	gallon
+غاليوم	gallium
+غاوس، كَاوس	gauss
+غاوص	gauss
+غبار مشع	radioactive dust
+غبش	half-light; semo-darkness
+غراء	colloid
+غراء متجانس القطبية	homopolar colloid
+غراء محايد	neutral colloid
+غرافيت	graphite
+غرافيتون	graviton
+غرام	gram
+غراي	gray
+غرفة	Wilson cloud chamber
+غرفة (الفقاقيع)	bubble chamber
+غرفة التأيّن (ن)	ionization chamber
+غرفة التأين العيارية (ن)	standard ionization chamber
+غرفة التأين المرجعية	reference ionization chamber
+غرفة التأين المعوِّضة (ن)	compensated ionization chamber
+غرفة التأين النبضية (ن)	pulse ionization chamber
+غرفة التأين بالانتشار	diffusion cloud chamber
+غرفة التفاعل	reaction chamber
+غرفة انشطار (ن)	fission chamber
+غرفة بورون (ن)	boron chamber
+غرفة تأين التيار (ن)	current ionization chamber
+غرفة تأين تفاضلية (ن)	differential ionization chamber
+غرفة تأين جدارية (ن)	wall-type ionization chamber
+غرفة تأين ذات مُكثِّف (ن)	condenser ionization chamber
+غرفة تأين طليقة الهواء (ن)	free air ionisation chamber
+غرفة ترديد	reverbement room; reverberation room
+غرفة سحابية	expansion chamber; cloud chamber
+غرفة سحابية عالية الضغط	high pressure cloud chamber
+غرفة سحابية منخفضة الضغط	low-pressure cloud chamber
+غرفة سحابية، غرفة ضبابية	cloud chamber
+غرفة عديمة الصدى	anechoic room / anechoic room; dead room / dead room / dead-room; anechoic room
+غرفة مظلمة	darkroom
+غرفة هوائية	air chamber
+غَرَواني	colloidal
+غَروي	colloid / colloidal
+غروي متغاير القطبين	heteroplar colloid
+غُرَوِي مشع	radiocolloid
+غَرويات	colloids
+غشاء	membrane
+غشاء الطبل	tympanic membrane
+غشاء شبه منفّذ	semi-permeable diaphragm; semi-permeable membrane
+غشاء متعدد الطبقات، فلم متعدد الطبقات	multilayer film
+غشاء نصف نفوذ	semi permeable membrane
+غشاء هوائي	air film
+غِطاء	blanket
+غطاء الفقاقيع	bubble cap
+غلاف	jacket; can
+غِلاف الاحترار؛ ستراتوسفير	stratosphere
+غلاف الأوزون	ozonosphere
+غلاف جَوِّي أيوني؛ أيونوسفير	ionosphere
+غلاف جوي؛ جو	atmosphere
+غلاف حراري	thermosphere
+غلفانومتر الظل	tangent galvanometer
+غلُوون	gluon
+غليان	boiling / ebullition; boiling
+غليان التشبع (ن)	saturation boiling
+غليان الرق (ّن)	film boiling
+غليان حجمي (ن)	bulk boiling
+غليان حجمي مُشبع (ن)	bulk boiling saturation
+غِمدْ	can / jacket
+غِمد المصباح	lamp holder
+غمد كاتودي	cathode glow
+غمد؛ غلاف	sheath
+غَمَر، غََطس	immersion
+غير رنّان	non resonant
+غير عادي؛ شاذ	abnormal
+غير قابل للامتطاط	inextensible
+غير لامع	non luminous
+غير مباشر	indirect
+غير متجانس	heterogeneous / inhomogeneous / nonhomogeneous
+غير محدود	unlimited
+غير مستقر	unstable
+غير مشبّع	unsaturated
+غير مميز	indistinguishable
+غير منتظم	non uniform / non-uniform
+غير منفذ حراريا	athermanous; athermous

@@ -1,0 +1,59 @@
+(BIA) Impact	تحليل تأثير الأعمال
+(BOM) Bill Of Materials	فاتورة اللوازم والمعدات
+(C2C) Cash-To-Cash Cycle Time(C2C)	زمن دورة التحويل النقدي
+(CISG) The Vienna Convention; Vienna Convention	اتفاقية فيينا
+(CPFF)	تكلفة بالإضافة إلى الرسوم الثابتة
+(CPIF)	رسوم حوافز التكلفة الإضافية
+(CRM) Customer Relationship Management	إدارة علاقات العملاء
+(DDP) Delivered Duty Paid	رسوم التسليم المدفوعة
+(EDI) Electronic Data Interchange	تبادل البيانات الإلكترونية
+(EoI) Expression Of Interest	تعبير عن الاهتمام
+(EPSI)	نموذج مؤشر الرضا عن الأداء الأوروبي
+(ERP)	نظام تخطيط موارد المؤسسات
+(ESI)	مشاركة المبكرة للموردين
+(EWAM) Exponentially Weighted Average Method	طريقة المتوسط المرجح الأسي
+(FDA) US Food And Drug Administration	إدارة الغذاء والدواء الأمريكية
+(FPEPA)The Fixed Price With Economic Price Adjustment Contract	تعديل السعر الاقتصادي للأسعار الثابتة
+(FPI) Fixed Price Incentive	حافز السعر الثابت
+(FTA) Free-Trade Agreement	اتفاقية تجارة حرة
+(FTP) File Transfer Protocol	بروتوكول نقل الملفات
+(GATS)	اتفاقية عامة للتجارة في الخدمات
+(GDP) Business Cycle	دورة الأعمال التجارية
+(GDPR)	لائحة العامة لحماية البيانات
+(GIS)	رسم خرائط نظام المعلومات الجغرافية
+(MES) Minimum Efficient Scale	الحد الأدنى للمقياس الفعال
+(NDA) Non-Disclosure Agreement	اتفاقية عدم الإفشاء
+(NPD) New Product Development	تطوير منتج جديد
+(NWC) Net Working Capital	صافي رأس المال العامل
+(OPT) Optimized Production Technology	تكنولوجيا الإنتاج الأمثل
+(PCA) Purchase Cost Analysis	تحليل تكلفة الشراء
+(PQQ) Pre-Qualification Questionnaire	إستبيان التأهيل المسبق
+(QA) Quality Assurance	ضمان الجودة
+(Qcs) Quality Circles	دوائر الجودة
+(QM) Quality Management	إدارة الجودة
+(R & D) Research And Development	البحث والتطوير
+(RBV) Resource-Based View	عرض قائم على الموارد
+(RF) Radio Frequency	تردد الراديو
+(ROT) Retention Of Title	الإحتفاظ بالمخزون الإقليمي
+(S&OP) Sales And Operations Planning	تخطيط المبيعات والعمليات
+(SCM) Supply Chain Management	إدارة سلسلة التوريد
+(SCV) Supply Chain Visibility	رؤية سلسلة التوريد
+(SLA) Service Level Agreement	اتفاقية مستوى الخدمة
+(SLM) Service Life-Cycle Management	إدارة دورة حياة الخدمة
+(SOW) Statement Of Work	بيان العمل
+(SPC) Statistical Process Control	التحكم في العملية الإحصائية
+(SPMS) Supplier Performance Monitoring Scheme	نظام مراقبة أداء الموردين
+(SRM) Supplier Relationship Management	إدارة العلاقات مع الموردين
+(TCA) Total Cost Of Acquisition	تكلفة إجمالية للاكتساب
+(TCO) Total Cost Of Ownership; Total Cost Of Ownership Analysis	التكلفة الإجمالية للملكية
+(TPM) Total Productive Maintenance	إجمالي الصيانة الإنتاجية
+(TQM) Total Quality Management	إدارة الجودة الشاملة
+(TRM) Technology Road Map	خارطة طريق التكنولوجيا
+(UN OCHA) United Nations Office For The Coordination Of Humanitarian Affairs	مكتب الأمم المتحدة لتنسيق الشؤون الإنسانية
+(UNDAC) United Nations Disaster Assessment And Coordination	أمم متحدة لتقييم الكوارث والتنسيق
+(VC) Venture Capitalist	رأس المال الاستثماري
+(VCA) Value Chain Analysis	تحليل سلسلة القيمة
+(VOP) Variation On Price	اختلاف في السعر
+(WIP) Work In Progress	عمل قيد الإنجاز
+-Contango	ترحل / تأجيل
+4.0 Industry	صناعة 4.0

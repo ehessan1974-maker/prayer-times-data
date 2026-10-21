@@ -1,0 +1,222 @@
+غادولينيوم	gadolinium
+غادولينيوم، جادولينيوم	gadolinium
+غارْنِت	garnet
+غاز	gas
+غاز اصطناعي	syngas / synthetic gas
+غاز الاستصباح	gas lighting / illuminating gas
+غاز الاصطناع	synthesis gas
+غاز الأعصاب	nerve gas
+غاز الخردل	mustard gas / mustard gas; yprite
+غاز الخردل، إيبّريت	yperite; mustard gas
+غاز الفحم	gas coal
+غاز الفحم الحجري	coal gas
+غاز الماء	blue gas / water gas
+غاز المستنقعات	marsh-gas
+غاز المصفاة	refinery gas
+غاز المعوجة	retort gas
+غاز المناجم	fire damp / mine gas
+غاز المولّدة	producer gas
+غاز الوقود	fuel gas
+غاز حقيقي	real gas
+غاز خامل	inert gas
+غاز خامل، غاز هامد	gas (inert...)
+غاز خانق	asphyxiant gas
+غاز دائم	permanent gas
+غاز دلئم	permanent gas
+غاز رطب	wet gas
+غاز سم	poison-gas
+غاز سياني	cyanogas
+غاز طبيعي	natural gas
+غاز فقير	lean gas
+غاز كامل	perfect gas
+غاز مثالي	ideal gas
+غاز مثالي (كامل)	ideal gas
+غاز محسّن	reformed gas
+غاز مُدمِّع	tear gas
+غاز مسيل الدموع	lachrymator
+غاز مضحك، أكسيد الآزوت	laughing gas (N2O)
+غاز مفرقع	detonating gas
+غاز منفجر	detonating gas
+غاز مولد للدموع، غاز الدموع، غاز مسيل للدموع	tear gas
+غاز نادر	rare gas
+غاز نبيل	noble gas
+غازُ نفطٍ مُسيَّل	liquified petroleum gas
+غازات نادرة	rare gases
+غازات نبيلة	noble gases
+غازولين	benzine / gasoline / gasoline; gasolene
+غازولين محسّن	reformed gasoline
+غازي	gaseous
+غاسترين	gastrin
+غاسل	washer
+غالاكتان	galactan
+غالاكتوز	galactose
+غالاكتوزامين	galactosamine
+غالاكتوزيد	galactoside
+غالاكتوكيناز	galactokinase
+غالوتانين	gallotannin
+غالوسيانين	gallocyanine
+غاليبول	galipol
+غالينا	galena
+غاليوم	gallium
+غاما	gamma
+غانغليوزيد	ganglioside
+غبار	dust
+غبار الزنك	zinc dust
+غبار الفرن	blast dust
+غدة ذات إفراز داخلي	endocrine gland
+غراء	glue
+غرائي، غلوتيني	glutinous
+غراد، درجة	grade
+غرافيت	graphite
+غرافين	graphene
+غرام	gram
+غراميسيدين	gramicidin
+غربال رجّاج	shaking screen
+غرفة	chamber
+غرفة الغيم لويلسن، غرفة السحاب لولسن	Wilson cloud chamber
+غرفة الوزن، حجرة الميزان	weighing room
+غرفة غاز	gas chamber
+غرفة ميزان	balance-room
+غَرَوان	colloid
+غَرَوان عكوس	reversible colloid
+غروان لاعكوس	irreversible colloid
+غروان مائي	hydrocolloid
+غروان واقي	protective colloid
+غرواني	colloidal / colloïd / colloïdal
+غرواني شغوف	lyophilic colloid
+غرواني عزوف	lyophobic colloid
+غرى، لزن	agglutinate (to)
+غرينيارد	Grignard
+غَسْل	wash / washing
+غَسَلَ (بعد المعالجة)	wash (after treatment) (to)
+غسل الغاز	gas scrubbing / scrubbing
+غسْل الغازات	scrubbing
+غسْل، غسيل	washing
+غسول	lotion
+غَسول قلوي	lye
+غشاء	membrane
+غشاء القدم	patina
+غشاء أيوني	ionic membrane
+غشاء مطاطي	mucus membrane
+غشاء نصف نفوذ	semi-permeable membrane / semipermeable membrane
+غشاء، فِلم	film
+غُضار	clay
+غضار متحمل للحرارة	refractory clay
+غضار منزلق	slip clay
+غضار ناري	fire-clay
+غضار، طَفَلٌ	clay
+غطاء غازي	gas blanket (G.B)
+غلاف (محيط) حيوي	biosphere
+غلاف بخاري	jacket (steam)
+غلاف جوي، جو	atmosphere
+غلاف مبرد	jacket (cooling)
+غلاف هوائي، دثار هوائي	jacket (air...)
+غلاف، دثار	jacket (appar.)
+غلاكتوز	galactose
+غلاية	kettle
+غلفانيّ	galvanic
+غلفَنَ	galvanize (to)
+غلفنة	galvanization; galvanizing / galvanizing
+غلفنة (طلاء) كهرلي	electrogalvanization
+غَلْقُ الحلقة	ring closure
+غلوبولين	globulin
+غلوبولين قَرِّيّ	cryoglobulin
+غلوبولين مناعي	immunoglobulin
+غلوتاتيون	glutathione
+غلوتامين	glutamine
+غلوتين	gluten
+غلوسينيوم	glucinium
+غلوكاغون	glucagon
+غلوكامين	glucamine
+غلوكوز	glucose
+غلوكوز أميني	glucosamine
+غلوكوز بيرانوزي	glucopyranose
+غلوكوز فورانوزي	glucofuranose
+غلوكوزيد	glucoside
+غليان	boiling / ebullition
+غليانية	ebullioscopy
+غليسرول	glycerol
+غليسريد	glyceride
+غليسريد أحادي	monoglyceride
+غليسرين	glycerin / glycerin; glycerol
+غليسيدول	glycidol
+غليسين	glycine
+غليكوجين	glycogen
+غليكوزيد	glycoside
+غليكول	glycol
+غليكول الإيتيلين	ethylene glycol
+غليكول البروبيلين	propylene glycol
+غليم	glyme
+غليوكسال	glyoxal
+غليوكسالين	glyoxaline
+غليوكوجين	glycogen
+غَمْر	immersion
+غمْر، غطْس	immersion
+غَمْس	dip
+غُمّة	opalescence
+غَموم	opalescent
+غوانوزين	guanosine
+غوانيدين	guanidine
+غوانين	guanine
+غوتا برشا، صمغ جاوة	gutta-percha
+غوسيبول	gossypol
+غَوْل	alcohol
+غول أبيض، روح (ال...) الأبيض، كحول أبيض	white spirit
+غول أحادي عشر (كحول)	undecyl (alcohol)
+غول الأثيل اللامائي، كحول مطلق	ethyl alcohol anydrous; absolute alcohol
+غَوْل الاختبار	proof spirit
+غول الحبوب، كحول اشيلي	grain alcohol
+غَوْل الخشب	wood alcohol
+غول الخشب، كحول المثيل	wood alcohol
+غَوْل الدَّلك	rubbing alcohol
+غَوْل الساليسيل (الصفصاف)	salicyl alcohol
+غَوْل اللوريك (الغار)	lauryl alcohol
+غَوْل اللينولينيل	linolenyl alcohol
+غول أليلي، كحول أليلي	allyl alcohol
+غول أميلي، كحول أميلي	amyl alcohol
+غول أوّلي	primary alcohol
+غَوْل إيزو أميلي	isoamyl alcohol
+غَوْل إيزوأوكتيلي	isooctyl alcohol
+غَوْل إيزوبروبيلي	isopropyl alcohol
+غَوْل إيزوبوتيلي	isobutyl alcohol
+غَوْل بروبيلي	propyl alcohol
+غول بنتيلي	pentyl alcohol
+غول تربيني	terpene alcohol
+غول ثالثي	tertiary alcohol
+غَوْل دُهْنِي	fatty alcohol
+غول صرف، كحول صرف	absolute alcohol
+غَوْل صناعي	industrial alcohol
+غَوْل فينيلي	vinylic alcohol
+غول متعدد الفينيل	polyvinyl alcohol
+غَوْل مُطلق (صِرف)، إيتانول	absolute alcohol
+غَوْل مكرَّر	rectified alcohol
+غَوْل ممسوخ	denatured alcohol
+غَوْل ميتيلي	methyl alcohol
+غَولات	alcoholate
+غولات عالية	higher alcohols
+غَوْلَلَة	alcoholation
+غولوز	gulose
+غَيْر	un-
+غير ثابت	unstable
+غير ذؤوب، غير حَلول، غير ذواب	insoluble
+غير ذواب	insoluble
+غير طيار، لا متطاير	non-volatille
+غير قابل للاحتراق	incombustible
+غير قابل للاختزال	irreducible
+غير قابل للتآكل	non corrodible
+غير مباشر	indirect
+غير متجانس (بادئة بمعنى)، لا متجانس	heterogeneous
+غير متجانس، مغاير، مختلف، مخالف	hetero
+غير متموضع	delocalized
+غير متناظر	uns- (unsym-)
+غير متوافق	incongruent
+غير مذبذب، لا مذبذب	non amphoteric
+غير مَزُوج، غير قابل للامتزاج	immiscible
+غير مسترطب، لا استرطابي	non-hygroscopic
+غير مستقر	instable / labile
+غير مشبع	insatured / unsaturated
+غير مقيَّد، غير مربوط	unbound
+غير منتظم	irregular
+غير نشيط، غير فعال	inactive
+غير نفوذ للماء، صامد للماء	waterproof
+غَيْمة	cloud

@@ -1,0 +1,139 @@
+Name of trademark owner	اسم صاحب علامة التجارية
+Named Destination	وجهة مسماة
+nation	أُمَّةٌ
+national archives	أرشيف وطنيّ
+national assembly	جمعية وطنية
+National Audit Office	ديوان المحاسبة الوطني
+national company	شركة وطنية
+National Contact Point	نقطة الاتصال الوطنية
+National Identification Card	بطاقة الهوية الوطنية
+national income	دَخْل قوميّ
+National Insurance (NI)	تأمين وطني
+National Interest	مصلحة وطنية
+national law	قانون وطنيّ
+National Living Wage (NLW)	أجر المعيشة الوطني / القومي
+National phase	المرحلة الوطنية
+National Security	أمن وطني
+National Standards Bodies	هيئات المعايير الوطنية
+national treatment clause	شرط مماثلة الأجانب بالوطنيين
+National/Cultural Stereotypes	قوالب نمطية/ وطنية / التنميط الثقافي
+nationality	جنسية
+nationality certificate	شهادة الجنسية
+nationality law	قانون الجنسية
+nationality of moral persons	جنسية الأشخاص المعنوية، جنسية الأشخاص الاعتبارية
+nationalization	تأميم
+Nativism	الفطرة
+natural accession	التصاق طبيعيّ
+Natural attrition of employees	تناقص طبيعي (للموظفين)
+natural child	ولد طبيعيّ
+natural death	موت طبيعيّ، وفاة طبيعية
+natural law	قانون طبيعيّ
+natural obligation	التزام طبيعيّ
+natural person	شخص طبيعيّ، شخص ذاتيّ / شخص طبيعي / الشخص الطبيعي
+natural right	حقٌّ طبيعيّ
+naturalization	تجنُّس
+naturalization certificate	شهادة التجنُّس
+naval agreement	اتفاقية بحرية
+necessary deposit	وديعة اضطرارية
+necessity	ضرورة
+necessity knows no law	ضرورات (ال..) تبيح المحظورات، للضرورة أحكام
+necessity state	حالة الضرورة
+negative certificate	شهادة سلبية
+negligence	إهمال / تفريط
+negotiable instrument	ورقة تجارية قابلة للتداول
+Negotiated Tendering	مناقصة تفاوضية
+Negotiation	تفاوض
+Negotiation Variables	متغيرات التفاوض
+negotiations	مفاوضات
+Neighbor Principle	مبدأ الجار
+neighbourhood obligations	التزامات الجوار
+nepotism	محسوبية، محاباة / محسوبيات
+net	صافٍ
+Net Asset Value	صافي قيمة الأصول
+net income	دَخْلٌ صافٍ / صافي الدخل
+net loss	خسارة صافية
+Net Present Value (NPV)	صافي القيمة الحالية
+net profit	ربح صافٍ / صافي الربح
+Net Profit Ratio	نسبة صافي الربح
+Network	شبكة
+Network Management	إدارة الشبكة
+Network Optimization Modelling	نمذجة تحسين الشبكة
+Network Sourcing	مصادر الشبكة
+Neural Networks	شبكات عصبية
+Neuro-Linguistic Programming	برمجة لغوية عصبية
+Neuroplasticity	مرونة عصبية
+neutrality	حياد / حيادية
+New Buy	شراء جديد
+new claim	طلب جديد
+New invention	اختراع جديد
+New plant variety	صنف نباتي جديد
+New Purchase	شراء جديدة
+Niche	تخصص
+night work; night labour	عمل ليليّ، شغل ليليّ
+Nodes	عُقد
+nominal	اسميّ
+nominal capital	رأس مال اسميّ
+nominal contract; specific contract	عقد مُسمّى
+nominal share	سهم اسميّ
+nominal value (of share)	قيمة اسمية (للسهم)
+Nominate Contract	عقد مُسمَّى
+nominative bond; nominative title	سند اسميّ
+Nomothetic	اسمي
+non suit	عدم المتابعة
+non-acceptance	عدم قبول، رَفْض
+Non-acceptance Protest	احتجاج عدم القبول
+non-alignment clause	عدم الانحياز
+Non-Appealable Decision	قرار غير قابل للطعن
+Non-appealable Judgment	حكم غير قابل للتمييز
+non-competition clause	شَرْط عدم المنافسة
+Non-Competitive Benchmarking	مقارنة معيارية غير تنافسية
+Non-Conformance	غير مطابقة
+Non-Conformity	عدم المطابقة
+non-cumulation of penalties	عدم دمج العقوبات
+Non-Current Assets	أصول غير متداولة
+Non-discerning Minor	صغير غير مُمَيِّز
+Non-exclusive Right	حق غير حصري
+non-flagrant crime	جريمة غير متلبس بها
+Non-Functional Requirements	متطلبات غير وظيفية
+non-governmental organization (NGO)	منظمة غير حكومية
+non-intentional crime	جريمة غير عمدية
+non-liability	عدمُ المسؤولية
+non-liberated share	سهم غير محرَّر
+Non-original works	مصنفات غير اصلية
+non-payment	عدمُ الأداء، عدمُ الدفع
+Non-payment Protest	احتجاج عدم الوفاء
+non-profit	غير ربحيّ، لا ربحيّ
+non-profit association	جمعية غير ربحية
+Non-Profit Organization	منظمة غير ربحية
+Non-Recourse	عدم الرجوع
+non-retroactivity of laws	عدم رجعية القوانين
+Normal Distribution	توزيع اعتيادي
+Normalization	تطبيع
+Normative Power	قوة معيارية
+notarial act	عقد موثَّق
+notarized contracts	عقد موَثَّق
+notary	مُوثِّق، كاتب عدل
+Notary Public	كاتب عدل
+Notary Public Office	كتابة العدل
+Note	ملحوظة
+Notice	تنويه / إشعار
+Notice Of Cancellation	إشعار الإلغاء
+notice to quit	تنبيه بالإخلاء، تنبيه بالإفراغ
+notification	تبليغ، إخطار / إخطار / إعذار / تبليغ
+notification of judgement	تبليغ حكم
+notified cheque	شيك بإخطار، صكٌّ بإخطار
+notion	مفهوم
+novation	تجديد
+Novel industrial design	نموذج صناعي جديد
+Novelty	الجدة
+nuclear war	حرب نووية
+nuisances	مَضارّ
+null and void	باطِل ولا أثر له
+null contract	عقد باطل
+null; void	باطِل، لاغٍ
+Nullification of Contract	إبطال العقد
+Nullify the protection document	بطلان وثيقة الحماية
+nullity	بُطلان
+nullity of procedural acts	بُطلان الإجراءات
+numbering	ترقيم
+nuncio	سفير بابويّ

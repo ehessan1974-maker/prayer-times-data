@@ -1,0 +1,101 @@
+ضاغط	press
+ضاغط السائل	head of liquid
+ضاغطة الهواء	air compressor
+ضاغطة هواء	air compressor
+ضباب	fog
+ضبط الازاحة الطيفية (ن)	spectral shift control
+ضبط المفاعل (ن)	reactor control
+ضبيب	ligasoid
+ضجيج	noise
+ضجيج الخلفية	background noise
+ضجيج المفاعل (ن)	reactor noise
+ضجيج حراري	thermal noise
+ضجيج غاز	gas noise
+ضجيج محتث	induced noise
+ضجيج مكرفوني	microphonic noise
+ضجيج؛ ضوضاء	noise
+ضخ ضوئي	optical pumping
+ضخ مغنطيسي	magnetic pumping
+ضَديد (ن)	anti
+ضديد الالكترون (ن) ، بوزيترون	positron
+ضَديد الباريون	anti (baryon)
+ضَديد البروتون (ن)	anti-proton
+ضَديد التناظر	anti-symmetric
+ضَديد الجُسيم (ن)	anti-particle
+ضَديد الرنين	antiresonance parallel impedance
+ضَديد المادة (ن)	antimatter
+ضَديد النترون (ن)	antineutron
+ضَديد النترينو (ن)	anti-neutrino
+ضديد رنين الازاحة	displacement antiresonance
+ضديد رنين السرعة	velocity antiresonance
+ضربات	beats
+ضربات صوتية	sound beats
+ضغط	pressure
+ضغط (ال...) الجوّي	atmospheric pressure
+ضغط (ال...) الحركي	velocity pressure
+ضغط (الفقاقيع)	bubble pressure
+ضغط الاشعاع	radiation pressure
+ضغط البخار	vapour pressure
+ضغط البخار الأعظم	maximum vapour pressure
+ضغط البخار المشبع	saturated vapour pressure
+ضغط التماسُك	cohesion pressure
+ضغط الركود	stagnation pressure
+ضغط السائل السكوني	hydrostatic pressure
+ضغط السوائل	pressure of liquids
+ضغط الشعَرية	capillary pressure
+ضغط الصدم	impact pressure
+ضغط الطاقة الحركية	kinetic energy head
+ضغط الغاز	gas pressure
+ضغط الفوضى	disorder pressure
+ضغط المائع	pressure of fluid
+ضغط المحلول	solution pressure
+ضغط المِضْغاط	barometric pressure
+ضغط المقياس	gage pressure / gauge pressure
+ضغط الهواء	air pressure
+ضغط الى الأسفل	downward pressure
+ضغط بخار أعظم	maximum vapour pressure
+ضغط تناضحي	osmotic pressure
+ضغط ثابت الحرارة	isothermal compression
+ضغط جزئي	partial pressure
+ضغط جزيئي حراري	thermomolecular pressure
+ضغط جوي	atmospheric pressure
+ضغط حَرِج	critical pressure
+ضغط داخلي	internal pressure
+ضغط ساكن	static pressure
+ضغط سالب	negative pressure
+ضغط صوتي فعّال	effective sound pressure
+ضغط عادي	normal pressure
+ضغط عياري	standard pressure
+ضغط كلي	total head
+ضغط مائي	hydraulic pressure
+ضَغْط مُطْلَق	absolute pressure
+ضغط مفرط للصوت	excessive pressure of sound
+ضغط مقاس	gage pressure; gauge pressure
+ضَغُوط	compressible
+ضم العدسات محوريًا	coaxial combination of lenses
+ضو كيميائي	photochemical
+ضوء	light
+ضوء أبيض	white light
+ضوء أحادي اللون	monochromatic light
+ضوء الشمس	solar light
+ضوء النهار	daylight
+ضوء تندال الأزرق	residual blue
+ضوء ساقط	incident light
+ضوء طبيعي	natural light
+ضوء غير مستقطب	unpolarized light
+ضوء فيزيائي	physical optics
+ضوء مترابط	coherent light
+ضوء مرئي	visible light
+ضوء مركَّز	spotlight
+ضوء مستقطب	polarized light
+ضوء مستقطب استوائيا	plane-polarized light
+ضوء مستقطب اهليلجيا	elliptically-polarizes light
+ضوء منتشر	diffused light
+ضوء موَّاج	undulating light
+ضوء نافذ	transmitted light
+ضوء هندسي؛ بصـريات هندسية	geometrical optics
+ضوء وحيد اللون	monochromatic light
+ضوابط السلامة (ن)	safeguards
+ضوابط السلامة المواد النووية (ن)	safeguards of nuclear materials
+ضياع أومي	ohmic loss
+ضياع في الحديد	iron loss

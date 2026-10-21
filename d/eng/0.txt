@@ -1,0 +1,337 @@
+"a" contact; make contact	ملامس (أ)
+"A" pole; "A" frame (US)	Aعمود شكل
+"b" contact; break contact	ملامس (ب)
+"high band" standards	مواصفات في التردّدات العالية
+"low band" standards	مواصفات في التردّدات المنخفضة
+"S" distortion	تشوه متعرج على شكل S
+"target" system	نظام "مستهدف"؛ شبكة مستهدفة
+"V" pattern chart	مخطط اختبار شكل "V"
+"Who are you" signal (function); WRU signal	ا(وظيفية) إشارة "من أنت"
+"x" height	الإرتفاع X
+"Y-coupler"	رابط ثلاثى شكل "Y"؛ قارن بشكل حرف Y
+'ABS indicator light 'red', motor vehicle'	لمبة التحذير الحمراء الخاصة بنظام منع غلق العجلات (ABS) - السيارة القاطرة
+'ABS warning light ''red'' trailer'	المصباح التحذيري 'الأحمر' لنظام منع غلق العجلات (ABS)
+'Block' rainfall	هَطَل مطريّ غزير
+'EBS warning lamp 'red' [UK] / EBS warning light 'red' [US]'	لمبة تحذير نظام الفرامل المحكوم إلكترونياً 'حمراء'
+'European Union Allowance (EUA)'; 'EU Allowance'	تصريح إطلاق الانبعاثات في الاتحاد الأوروبي (EUA)
+'info light ''yellow'', ABS detection trailer'	لمبة البيان 'الصفراء' للتعرّف على عمل نظام منع غلق العجلات (ABS) بالمقطورة
+'megawatt' (thermic)	ميغاواط حرارية (MWth)
+'NIMBY effect (Not in my backyard effect)'	ظاهرة ليس في عقر داري
+'when' and 'where' flexibility	مرونة 'متى' و 'أين'
+(absolute) frequency deviation	تشوه تعديل السعة
+(acoustic) horn	بُوق (صوتيّ)
+(air) gap	معامل التسرب المغناطيسي
+(american) reference volume	قوة (الصوت) مرجعية ( أمريكي)
+(american) volume unit	وحدة قوة (الصوت)( أمريكي)
+(amplitude) reflection factor	عامل انعكاس (السعة)
+(analogue) magnetic recorder	مسجّل مغنطيسي (تماثلي)
+(analogue) temporal expansion (of a video signal)	تمدد زمني ( تماثلي ) (لإشارة مرئية )
+(biologically) equivalent single dose	جرعة فردية مكافئة (حيويا)
+(brush-holder) rocker gear	ترس ذراع الترجيح (حامل الفرشاة)
+(brush-holder) rocker yoke	مقرن ذراع ترجيح (حامل الفرشاة)
+(C, γ) coordinate system	نظام الإحداثيات (C, γ)
+(cabled distribution) sub-system	نظام فرعي ( توزيع بالكبل )
+(call) signal generator; magneto	مولّد إشاره (نداء)
+(capacitor) bank	مجموعة (مكثف)
+(capacitor) element	عنصر (المكثف)
+(capacitor) stack	رص (المكثف)؛ رصيص (المكثف)
+(capacitor) unit	وحدة (المكثف)
+(case) hardening	تصليد مغلف
+(cell) electrode	قطب ( للخلية )
+(charge) carrier (in a semiconductor)	حامل شحنة (فى شبه موصل )
+(colour) saturation control; (colour) intensity control	تحكم بإشباع (اللون)
+(complete) connection	توصيل (كامل) / توصيلة كاملة
+(construction) site management	إدارة الأشغال
+(correlated) colour temperature	ارتباط درجة حرارة اللون
+(coupling) probe	مجس (ربط)
+(DC) electrification current	تيار التكهرب
+(dielectric) loss angle	زاوية فقد (في العزل الكهربائي)
+(dielectric) loss index	دليل فقد (في العزل الكهربائي) / مؤشر الفقد في العزل الكهربائي / مؤشر فقد العزل الكهربائي
+(digital) (picture) coding; (digital) (picture) encoding	تشفير(رقمي)( للصورة)
+(digital) component coding	ترميز المكون الرقمي / ترميز المكونات (رقمي)
+(digital) decoding	فك الترميز الرقمي
+(dike) base	قاعِدة الحاجِز
+(directional) arrow	إشارة الاتجاه
+(Directorate-General) for Climate Action	الإدارة العامة لشؤون حِماية المُناخ 'Climate Action'
+(diversity) combiner	دامج (تباين)
+(drift) mobility (of a charge carrier)	انجراف , قابلية الحركة ( لحوامل الشحنات )
+(dynamic) viscosity	لزوجة ديناميكية
+(electric energy) converter	مبدل طاقة (كهربائية)
+(electric) actuator	مشغل (كهربائي)
+(electric) arc	قوس (كهربائي)
+(electric) breakdown	انهيار( كهربائي) / انهيار كهربائي
+(electric) conduction	توصيل (كهربائي)
+(electric) current density; (conduction) current density; areic electric current	كثافة تيار (كهربائي)
+(electric) current; (conduction) current	تيار (كهربائي)
+(electric) discharge	تفريغ (كهربائي) / تفريغ كهربائي
+(electric) generator	مولد (كهربائي)
+(electric) motor	محرك (كهربائى)
+(electric) potential difference	فرق جهد (كهربائي)
+(electric) relay	مرحل كهربائي
+(electric) sensor	مجس (كهربائي)
+(electric) shunt	توصيلة (كهربائية) متوازية
+(electric) spark	شرارة (كهربائية)
+(electric-)potential barrier	حاجز جهد (كهربائي)
+(electrical measuring) transducer	مُحول الإشارات (للقياس الكهربائي)
+(electrical) energy	طاقة كهربائية
+(electrical) rotating machine	آلة كهربائية دوارة
+(electrical) tetanization	إنقباض عضلى (كهربائى)
+(electricity) supplier	مصدر التغذية (الكهربية)
+(electricity) wheeling	تدوير (الكهرباء) أو (إعادة إستخدام الكهرباء)
+(electro-optic) Kerr effect	تأثير (كير) (الكهروبصرية)
+(electromagnetic) compatibility level	مستوى التوافق (الكهرومغناطيسي)
+(electromagnetic) compatibility margin	هامش التوافق (الكهرومغناطيسي)
+(electromagnetic) disturbance level	مستوى إضطراب (كهرومغناطيسى)
+(electromagnetic) mode	نمط (كهرومغناطيسي) / نمط (كهرمغناطيسي)
+(electromagnetic) radiation	إشعاع (كهرومغناطيسي)
+(electromagnetic) susceptibility	حساسية (كهرومغناطيسية)
+(electron beam) oscilloscope	مشاوف (مبينات) ذبذبه (لشعاع إلكترون)
+(electron) gyro-frequency (in the ionosphere)	تردد جيروسكوبى (إلكتروني) (في الأيونوسفير)
+(electronic) (power) conversion	التحويل (إلكتروني)( للقدرة)
+(electronic) (power) converter; (electronic) (power) convertor	مغير (القدرة)( الإلكتروني)
+(electronic) (power) inversion	تحويل عكسي (إلكتروني)( للقدرة)
+(electronic) (power) rectification	تقويم (إلكتروني)( للقدرة)
+(electronic) (power) resistance control	تحكم مقاومي (إكتروني)( للقدرة)
+(electronic) AC (power) conversion	تحويل إكتروني( للقدرة) (تيار متردد)
+(electronic) AC/DC (power) conversion	تحويل إلكتروني تيار متردد / تيار مستمر (للقدرة)
+(electronic) avalanche	انهمار (الكتروني)
+(electronic) DC (power) conversion	تحويل (إكتروني)( للقدرة) (تيار مستمر)
+(EMC) electromagnetic compatibility	توافق (ال...) الكهرمغناطيسي
+(energy) loss factor	عامل فاقد (الطاقة)؛ نسبة فاقد الطاقة
+(energy) transducer	مبدل (الطاقة)
+(EPC) Engineering, Procurement and Construction Contract	عقد الهندسة والمشتريات والبناء
+(equal) slope yard	محطة مائلة
+(equipotential) frame	إطار (متساوي الجهد)
+(equivalent) noise resistance (of a one-port device)	مقاومة الضوضاء المكافئة
+(exchangeable) noise power (of a one-port device)	قدرة الضوضاء القابلة للتبادل
+(fade) margin	هامش (اضمحلال)
+(FDM telephone) channel	قناة هاتفية بتيار حامل
+(four-wire) terminating set; 4-wire terminating set; 4W/2W terminating set	مجموعة طرفية بأربعة أسلاك مجموعة طرفية أربعة أسلاك / سلكين
+(frequency) channel	قناة (التردد) / قناة (تردد)
+(frequency) deviation ratio	نسبة الإنحراف (للتردد)
+(frequency) mixer	مازج تردد
+(IAP) International Action Program	برنامج العمل الدولي (IAP)
+(IDB) Inter-American Development Bank	بنك التنمية للبلدان الأمريكية (IDB)
+(ink) jet recorder	مسجّل نفاث (حبري)
+(instantaneous) frequency deviation	إنحراف (لحظي) للتردّد
+(instantaneous) phase deviation	إنحراف (لحظي) للطور
+(instrument landing system) glide path; glide slope	مسار الهبوط(في نظام الهبوط بالأجهزة)
+(instrument landing system) localizer	جهاز تحديد الموقع (في نظام هبوط بالأجهزة)
+(insulating) bushing	جلبة عازلة
+(integrated) digital network; IDN (abbreviation)	شبكة رقمية (متكامله)
+(interference) fringes	حواشي (هداب) تداخل
+(intermittent) relay fault (for elementary relays)	عطل (متقطع) لمرحل (للمرحلات البسيطة)
+(ionospheric) bistatic sounding	سبر ثنائي السكون (ايونوسفيري)
+(ionospheric) defocussing factor	عامل إزالة التركيز البؤري الأيونوسفيرى
+(ionospheric) focussing factor	عامل تركيز بؤري أيونوسفيرى
+(ionospheric) horizon focussing	تركيز أفقي أيونوسفيري
+(ionospheric) monostatic sounding	سبر أحادي السكون (ايونوسفيري)
+(ionospheric) propagation forecast	تنبؤ الإنتشار الأيونوسفيرى
+(ionospheric) transmission curve	منحنى الإرسال (الأيونوسفيرى)
+(ionospheric) transmission factor; distance factor; MUF factor (deprecated)	عامل إرسال (أيونوسفيرى)
+(level of) punctuality	(مستوى) الالتزام بالمواعيد
+(local line) network with link circuit	شبكة ذات دارة ربط (خط محلي)
+(logic) gate ; logic element	بوابة (منطقية)
+(machine) terminal	طرف توصيل (الآلة )؛ طرف (الآلة)
+(magnetic) core	قلب مغناطيسي / قطعة قطبِ
+(magnetic) hysteresis loop	حلقة تخلفية (مغناطيسية) ، انشوطة حلقة تخلفية (مغناطيسية)
+(magnetic) loss angle	زاوية الفقد(المغناطيسي) / فقد الرنين الجيرومغناطيسى
+(magnetic) loss factor	مقاومة الفقد المغناطيسي
+(magnetic) quality factor	زاوية فقد (مغناطيسية)
+(magnetic) total harmonic distortion	التشتت الكلي للتوافقيات(المغناطيسي)
+(magnetic) total harmonic distortion factor	عامل التشوه التوافقي الكلى المغناطيسي
+(magnetic) variability	تغيرية (مغناطيسية)
+(main) beam (of an antenna)	حزمة (الهوائي الرئيسية)
+(measurement) compatibility	تحقق (من المعايرة)
+(measurement) standard	الصفر الكهربائي
+(measuring) bridge	مصدر مرجعي
+(measuring) potentiometer	قنطرة (قياس)
+(mechanical) recycling	إعادة تدوير (ميكانيكي)
+(mechanical) switch	فاصل (ميكانيكى)
+(meter) constant	نوع العدّاد
+(microwave) isolator; one-way attenuator	ممرر عنصر مجمع
+(microwave) power meter	مقياس قدرة (لموجة متناهية القصر)
+(modulation) limiter	محدد (التعديل)
+(multiple) antenna system	نظام هوائى (متعدد)
+(network) number	رقم (شبكة)
+(network) operator	مشغِّل ( شبكة )
+(nominal) range	تباعد (في قياس ما)
+(NORDEL) Organization for Nordic Electrical Cooperation	شبكة 'نورديل' (NORDEL)
+(normal) shutdown (for wind turbines)	ايقاف (عادي) (لعنفة الرياح)
+(ocean) bill of lading	بوليصة الشحن (البحرية)
+(on-off) switch	مفتاح ( وصل-فصل)
+(operational event) notification	إخطار (حدث تشغيلى)
+(operational) MUF	MUF تشغيلية
+(optical) density (of a film)	كثافة (بصرية) (لفيلم)
+(output) span	معامل تحويل
+(paper) board	ورق مقوى
+(PCM) (telephone) channel	قناه هاتفيه (لتكييف التشفير النبضي)
+(permanent magnet) moving-coil instrument	جهاز قياس كهرباء ساكنة
+(phase) wavelength	طول الموجه (لطور)
+(plastic) film	غشاء (لدائني)
+(plate) separator	فاصل ألواح
+(power) loss	فقد (القدرة)
+(power) system user; (power) network user	مستخدم نظام (القدرة)؛ مستخدم شبكة (القدرة)
+(precision) gauge block; slip gauge; slip block	قالب قياس متوازي الأسطح
+(propagation by) ionospheric scatter	إنتشار بواسطة التبعثر (الانتشار) الأيونوسفيرى
+(public) switched (telephone) network; PSTN (abbreviation)	شبكة هاتف عمومية بمقاسم توصيل
+(public) transport authority	هيئة النقل (العامة)
+(pulse) counting assembly	مجموعة عد النبضات
+(pulse) selector	منتقي (نبضة)
+(quantity of) heat	كمية الحرارة
+(radiation) indicator	مؤشر (إشعاع)
+(radiation) monitor	جهاز مراقبة (إشعاع)
+(radiation) test site	موقع اختبار ( الإشعاع)
+(radiation) warning assembly	مجموعة إنذار من الإشعاع
+(radio wave) lens	عدسة (موجة راديوية)
+(radio) receiver	جهاز استقبال (راديوي)
+(radio) station	محطة ( راديوية) / محطة راديوية (لاسلكية)
+(radio) transmitter	مرسل ( راديوي)
+(radio-frequency) channel; RF channel	قناة (تردد راديوي)
+(radioactive) decontamination	إزالة التلوث (نشاط إشعاعي)
+(relative) side lobe level	مستوى نتوء جانبي (نسبي)
+(REMIT) Regulation on Wholesale Energy Market Integrity and Transparency	تشريع الاتحاد الأوروبي بشأن نزاهة وشفافية سوق الطاقة (REMIT)
+(result of a) measurement	نسبة الفقد (الإضعاف)
+(river) arm	رافِد النهر
+(rotating) frequency convertor	مغير التردد (دوار)
+(rotating) generator	مولد دوار
+(rotating) phase convertor	مغير الطور (دوار)
+(scanning) line	خطّ (مسح)
+(secondary) power control operation, (of a generating set)	تشغيل تحكم قدرة (ثانوي) (لمجموعة انتاج)
+(Selective Compliance Assembly Robot Arm) kinematics	حركية روبوت ذي ذراع آلية تجميعية انتقائية
+(semiconductor) diode	صمام ثنائى (شبه موصل)
+(semiconductor) photoelectric detector	كاشف كهروضوئى (لشبه موصل)
+(semiconductor) photosensitive device	جهاز حساس للضوء (لشبه موصل)
+(semiconductor) rectifier diode	صمام ثنائى مقوم (لشبه موصل)
+(semiconductor) rectifier stack	كتلة مقوم (لشبه موصل)
+(sensitivity) threshold of automatic frequency control	عتبة (حساسية) التحكم التلقائي (الآلي) في التردد
+(sensitivity) threshold of automatic gain control	عتبة (حساسية)التحكم التلقائي في الكسب
+(sequential) conditional locking	قفل مشروط (متسلسل)
+(short-term) sync pulling	سحب متزامن ( بند مختصر)
+(signal or noise) spectrum	طيف (اشارة او ضوضاء)
+(signal) converter	مغير (إشارة)
+(signal) quality detection; analogue error detection	كشف خطأِ الاشارة كشفِ جودة الاشارة المتناظرة
+(signal) transducer	مبدل (إشارة)
+(signalling) signal (in telecommunication)	تأشير) الاشارات (في الاتصالات عن بعد)
+(simultaneous) blocking	حجب (متزامن)
+(space) tracking	تتبّع (فضائي)
+(stored) network map; map-in-memory	خريطة شبكة (مخزنة) خريطة في الذاكرة
+(subscriber's line) flexible network	( خط المشترك ) شبكة مرنة
+(subscriber's line) rigid network	( خط المشترك ) شبكة صلبة
+(subscriber's) channel selector	منتقي القناة (المشترك)
+(surface) wave tilt	إنحدار موجة (سطحية)
+(switching) circuit	دائرة وصل وفصل
+(switching) path	ممر (فصل ووصل (تبديل))
+(system) ancillary services	نظام خدمات مساعد
+(system) entry delay	(نظام) تأخير الدخول
+(system) gamma (in television)	(نظام) جاما (في التلفاز)
+(tape) perforator	ثاقب (الشريط)
+(telecommunication) service attribute	ا(إتصال عن بعد) خاصية خدمة
+(telecommunication) terminal	وحدة (اتصالات) طرفية
+(telegraph) alphabet	أبجدية (برقية)
+(telegraph) terminal	طرف (للإبراق)
+(telephone) bell; ringer	جرس (هاتف)
+(telephone) circuit	دارة ( هاتف )
+(telephone) earcap	غطاء للأذن (هاتف)
+(telephone) earphone; (telephone) earphone capsule	سماعة الاذن (الهاتف)
+(telephone) line density; (telephone) penetration	كثافة الخط (الهاتف)
+(telephone) loudspeaker	مكبر الصوت (الهاتف)
+(telephone) subscriber	مشترك ( بالهاتف )
+(telephone) transmitter; microphone (in telephony)	مرسل (هاتف)
+(teleprinter) control unit	وحدة التحكّم (لطابعة عن بعد)
+(television) screen	شاشة (التلفاز)
+(television) standards converter	(تلفاز) محول معايير
+(television) wall-mounted screen	شاشة (تلفاز) حائط
+(telex) call	نداء (تلكس)
+(temporary) storage	تخزين (مؤقت)
+(terminal) dwell time	وقت التوقف
+(terminal) lug	عروة (طرف)
+(terminal) port (of a network)	ا(طرف) منفذ (الشبكة)
+(total) conversion time	معدل التحويل
+(total) effective area (of an antenna for a given direction)	المساحة الفعالة الكلية (للهوائي وباتجاه محدد )
+(total) harmonic factor	عامل توافقى (كلى)
+(traffic) signalling	تأشير
+(train) formation yard, marshalling yard, make-up yard	محطة التنظيم
+(transmission line) adapter	مهايئ (خط نقل)
+(transmission) break; interruption of transmission	انقطاع (إرسال)
+(transmission) path	مسار (إرسال)
+(transparent) repeater; (transparent) transponder	مكرر (شفاف)
+(transparent) transponder (in satellite communication)	(شفّاف) جهاز استقبال وارسال (في إتصالِ القمر الصناعي)
+(tropospheric) layer	طبقة (تروبوسفير)
+(uniform) multivalue digital signal	إشارة رقمية متعددة القيم ( منتظمة)
+(urban) commuter system	نظام النقل الحضري
+(user) class of service signal	فئة إشارة الخدمة (لمستخدم)
+(valve) arm	ذراع (صمام)
+(vibratory) acceleration level	مستوى التعجيل الصوتي (اهتزازي)
+(visible) image	صورة (مرئية)
+(vision/sound) diplexer	مزاوج الصورة و الصوت
+(voltage) ratio of a capacitor divider	نسبة الجهد لمقسم جهد سعوي
+(volume) DC resistance	المقاومة الحجمية للتيار المستمر
+(volume) DC resistivity	المقاومة الحجمية النوعية للتيار المستمر
+(volume) density of electromagnetic energy	(حجم ) كثافة الطاقة الكهرومغناطيسية
+(wave) rotation circulator	ممرر مزيح للطور / مدوِّر دوران (لموجة)
+(wave) rotation isolator	عازل بالأمواج الدقيقة / عازل دوران (موجه)
+(waveguide) cut-off frequency	تردد القطع (لدليل موجة)
+(Weiss) domain	مجال (فايس)
+- cooperation	تعاون
+- functional oriented stress	إجهاد وظيفي موجه
+- heterotrophic	غيري التغذية
+... bank; battery of ...	مجموعة
+1,3-dichloropropene	1،3-ثنائي كلورو بروبين
+1/f noise	ضجيج متناسب عكسيا مع التردد / ضوضاء مقلوب التردد
+15-supergroup assembly modulating equipment; hypergroup modulating equipment	معدات تجميع - 15 مجموعة رئيسة
+15-supergroup assembly translating equipment; hypergroup translating equipment	معدات تحويل تجميع 15 - مجموعة رئيسة
+15-supergroup assembly; (15-supergroup) hypergroup	مجمع من 15 مجموعة رئيسية
+18650 battery	بطارية 18650
+1:1 nomination	تعيين 1:1
+2 1/2-D computer generated image	صورة منتجة بالحاسوب بابعاد 2.5
+2-channel ABS	نظام منع غلق العجلات (ABS) ثنائي القناة
+2-D collector	مُجَمِع ثنائيّ الأبعاد
+2-flank A/D converter	مُغيِّر تناظري رقمي ثنائيّ الجوانب
+2-hexanone	هيكسانون-2
+2-in-1 jacket / two-in-one jacket	سترة متعددة الأستخدامات
+2-point control	التحكم ثنائي النقاط
+2/2 twill	نسيج المبرد لويس
+2/2-port directional control valve	صمام توجيهي 2/2
+20 mA current loop	حلقة تيار 20 ملّي أمبير
+21700 battery	بطارية 21700
+3-D collector	مُجَمِع ثلاثيّ الأبعاد
+3-point safety belt	حزام الأمان ثُلاثي النقاط
+3/2-port directional control valve	صمام توجيهي من النوع 2/3
+3/2-port solenoid valve ventilated	صمام مغناطيسي توجيهي للتهوية من نوع 2/3 / صمام مغناطيسي توجيهي لتصريف الهواء من نوع 2/3
+350.org	350.org
+3D ignition map	مُخطط خصائصي ثلاثي الأبعاد
+3D ignition system	منظومة الإشعال ثلاثية الأبعاد
+3rd brake	الفرملة الثالثة
+4-channel ABS	نظام منع غلق العجلات (ABS) رباعي القناة
+4-circuit protection valve	صمام حماية رباعي الدوائر
+4-Matic	نظام 'فورماتيك' (4-Matic)
+4-motion	نظام الدفع الرُباعي 'فور موشن' (4 Motion)
+4/2-port directional control valve	صمام توجيهي من نوع 4/2
+4/3-port electromagnet valve ETS [UK] / 4/3-port solenoid valve ETS [US]	صمام مغناطيسي توجيهي من نوع 3/4 (نظام ETS)
+4/3-port electromagnet valve MTS [UK] / 4/3-port solenoid valve MTS [US]	صمام مغناطيسي توجيهي من نوع 3/4 (نظام MTS)
+44-ton regulation	نظام 44 طن
+45-degree position	موقع ال45 درجة
+4S = four cells in series	توصيل 4 خلايا على التوالي
+5-in-1 Electric Powertrain	مجموعة نقل القدرة 5 في 1 للسيارات الكهربائية
+5-stage plan	خطة خُماسية المراحل
+6-channel ABS	نظام منع غلق العجلات (ABS) سُداسي القنوات
+6-unit train set	قِطَار من 6 وحدات
+7-pin connector	قابس سُباعي القطب
+7S = seven cells in series	توصيل 7 خلايا على التوالي
+[automatic] control theory	نظرية الضبط
+[US] voltage; reactive power optimisation	استمثال الجهد والقدرة غير الفعَّالة
+°API	درجة الكثافة (API °)
+ångström (deprecated)	أنجستروم ( لا ينصح باستعماله)
+étamine yarn	خيط إيتامين
+Öko-Institut (institute for applied ecology)	معهد علوم البيئة التطبيقية
+Übertragungsglied (n.)	عُنصر تحويل
+Ćuk converter	محول 'التشوك'
+Π-network	شبكة-Π
+‘easing back’ protection	شرائط الحماية
+‘easing back’ track section	قسم المسار 'العودة'
+“I” Adapter	مُحَوِّلٌ "i"
+… density, ; volumic, adj	حجمى - كمى (صفة)؛ الكثافة (1)
+…-handed quartz crystal	كوارتز أيمن أو أيسر
+…..	تقعر الامتداد / خطوة (تـداخل او تشابك)
+……	مستهلك متعدد العقود / إشارة تحليل

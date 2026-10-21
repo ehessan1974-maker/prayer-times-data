@@ -1,0 +1,53 @@
+K electrons	K إلكترونات الطبقة
+K meson	Kميزون
+K shell	Kالطبقة
+k-electron capture	أسر الكترون k (ن) / Kأسـر الإلكترون
+k-line	Kالخط
+kaleidoscope	منظار الأشكال
+kaon	كاوون
+Kater’s pendulum	نواس كاتر
+Kathions	أيونات موجبة
+kathode rays	أشعة المهبط
+katoptric system	نظام بصري معاكس / منظومة بصـرية معاكسة
+keeper	حافظة
+keeper armature	حافظة المغنطيس
+kelvin	كلفن
+Kelvin bridge	جسـر كلفن
+Kelvin effect	مفعول كلفن
+Kepler's laws	قوانين كبلر
+kerma	كيرما
+kerma rate	معدل كيرما (ن)
+Kerr cell	خلية كير
+Kerr electro-optical effect	مفعول كير الكهربصـري
+Kerr magneto-optical effect	مفعول كير المغنطيسـي البصـري
+ket	كِتْ
+key measurement point	نقطة القياس الأساسي (ن)
+kilocalorie	كيلو سعرة
+kilogram	كيلوغرام / كيلو غرام
+kilowatt	كيلوواط
+kilowatt-hour	كيلوواط ساعة / كيلو واط ساعة
+kinematic viscosity	لزوجة حركية
+kinematic viscosity coefficient	معامل اللزوجة الحركية
+kinematical relativity	نسبة (ال...) الحركية
+kinematical viscosity	لزوجة حركية
+kinematics	علم الحركة
+kinetic energy	طاقة حركية
+kinetic energy head	ضغط الطاقة الحركية
+kinetic friction	احتكاك حركي؛ احتكاك انزلاقي
+kinetic momentum	زخم حركي
+kinetic multiplication factor	عامل المضاعفة الحركي (ن)
+kinetic reaction force	قوة تفاعل حركي
+kinetic reactivity	مفاعلية (ال...) الحركية (ن)
+kinetic theory	نظرية (ال...) الحركية
+kinetic theory of gases	نظرية الحركية للغازات / النظرية الحركية للغازات
+kinetics	علم الحركة / علم التحريك
+Kirchhoff's current law (KCL)	قانون كيرشوف للتيارات
+Kirchhoff's law	قانون كيرشوف
+Kirchoff's voltage law (KVL)	قانون كيرشوف للفلطية
+Klein-Gordon equation	معادلة كلاين-غوردن
+knocked out atom	ذرة منتزعة (ن)
+knudsen flow; free molecule diffusion	انتشار الجزيئات الحرة
+Kronecker delta	دلتا كرونيكر
+Krypton	كريبتون
+Kundt effect	مفعول كوندت
+Kundt’s tube	أنبوب كوندت

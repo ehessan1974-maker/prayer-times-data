@@ -1,0 +1,149 @@
+رؤية	visibility / vision
+رؤية الألوان	color vision
+رؤية حرارية	thermovision
+رؤية عادية	normal vision
+رؤية فوق مجهرية	ultramicroscopic vision
+رؤية لون	color vision
+رؤية ليلية	night vision / nocturnal vision
+رؤية ماكسويلية	maxwellian view
+رؤية مجسّمة	binocular vision / stereoscopic vision
+رابط ضوئي	optocoupler
+رابطة	bond
+رابطة أيونية	ionic bond
+رابطة تساندية	coordinate bond / coordinate valence
+رابطة تساهمية	covalent bond
+رابطة تكافؤية؛ رابطة تساهمية	valence bond
+رابطة ذرية	atomic linkage
+رابطة فلزية	metallic bond
+رابطة كيميائية	chemical bond
+رابطة متجانسة القطبية	homopolar bond
+رابطة هدروجنية	hydrogen bond
+راتينج	resin
+راد	rad
+راد (ن)	rad
+راد غرامي (ن)	gram-rad
+راد-غرامي	gram-rad
+رادار	radar
+رادار ليزري	laser radar
+رادون	radon
+راديان	radian
+راديوم	radium
+راديوم 228	radium 228
+رأس	summit
+رأس ارتكاز	pivot
+رأس النطاق	band head
+رأس تسجيل	recording head
+راسب مشع	radioactive deposit
+راسم الاهتزاز	oscillograph
+راسم الاهتزاز المَهبِطي	cathode-rays oscillograph
+راسم الخـُطا	hodograph
+راسم الطيف	spectrograph
+راسم الطيف الكتلي	mass spectrograph
+راسم الموجة	ondograph
+راسم اهتزاز مخزِّن	storage oscilloscope
+راسم طيف الأشعة السينية	X-rays spectrograph
+راسم طيف كتلي	mass spectrograph
+راسيمي	racemic
+راصد الشمس	helioscope
+راصد، مراقب	observer
+راصدة عاكسة؛ مِقراب عاكس	reflecting telescope
+رافعة	crowbar / lever / winch
+رافعة ضوئية	optical lever
+رافعة لولبية	jack screw
+رافعة مائية	hydraulic lift
+رافعة مزدوجة	double lever
+رافعة؛ مُخْل	crowbar
+راكب	rider
+رام	RAM
+رباعي الأضلاع	quadrilateral
+رباعي الأقطاب	quadripole / quadrupole
+رباعي الأقطاب الكهربائي	electric quadrupole
+رباعي الأوجه	tetrahedral
+رباعي المساري	tetrode
+رباعي الوجوه	tetrahedron
+ربط المِصْعَد بالشبكة	anode-grid coupling
+ربط برمي مداري	spin-orbit coupling
+ربط تساهمي	covalence / covalency
+ربط سُليسلي	catenary linkage
+ربط محكم	tight coupling
+رَبْط، لَحم، رباط	bonding
+ربيعة	dynamometer / spring balance
+رتبة التداخل	order of interference
+رتبة التوازن	order of equilibrium
+رتبة انتقال الطور	order of phase transition
+رتبة مصفوفة	rank of a matrix
+رتبة، ترتيب	order
+رجم بالنترونات	bombardment with neutrons
+رجوعي	resilient
+رجوعية	resilience
+رد فعل	reaction
+رد فعل الحافظة	armature reaction
+رد فعل ساكن	static reaction
+رداء، غلاف	clad; clothe
+ردّيَّة	reactance
+ردية (ال...) الصوتية	acoustic rays
+رَدِّية تحريضية	inductive reactance
+ردّية وُسْعيّة	capacitive reactance
+رذاذ	aerosol
+رذرفورديوم	rutherfordium
+رزمة أمواج	wave packet
+رزمة أمواج إلكترونية	electron wave packet
+رزيمة أمواج	wave pachet
+رسم الاستقطاب	polarography
+رسم الأشعة	ray tracing
+رسم السرعة الجانبي (العمودي)	velocity profile
+رسم بياني	graph
+رسم ضوئي دوراني	rotation photograph
+رسمة	hodograph
+رَشَّ	sputter (to) / sputtering
+رَشْح	percolation
+رصاص؛ سلك توصيل	lead
+رصيد البلوتونيوم (ن)	plutonium credit
+رصيد الطاقة	energy balance
+رطوبة	humidity
+رطوبة حَرِجَة	critical humidity
+رطوبة مُطْلَقة	absolute humidity / humidity (absolute..)
+رطوبة نسبية	relative humidity
+رِقّ	film
+رقّ الأشعة السينية	X- ray film
+رق التصوير	photographic film
+رقّ رهيف	thin film
+رق سائل ممدَّد	liquid expanded film
+رق سينمائي ناطق	phonofilm
+رق غازي	gaseous film
+رِقّ مكثّف	condensed film; condensed surface film
+رقابة إشعاعية	radiological monitoring
+رقم (ال...) الذري الفعال (ن)	effective atomic number
+رقم اثناني، بِتَّة	binary digit (bit)
+رقم الضجيج	noise figure
+رقم غير موثوق به	uncertain figure
+رقم معنوي أو دِلالي	significant figure
+رقيق	thin
+رقيقة (ن)	foil
+رقيقة التنشيط (ن)	activation foil
+رِماز اثناني، كود اثناني	binary code
+رِماز شـريطي (قضباني)؛ باركود	bar code
+رِماز، كود	code
+رموز ديراك	Dirac notations
+رنّان	Helmhotz resonator / resonator
+رنّان الدخل	input resonator
+رنان المدخل	buncher resonator; input resonator
+رنّان مُرَكَّب	compound resonator
+رنانة	tuning-fork
+رنين	Fermi resonance / resonance
+رنين الازاحة	displacement resonance
+رنين الطور	phase resonance
+رنين الطور، رنين السرعة	velocity resonance; phase resonance
+رنين تسلسل	series resonance
+رنين مغنطيسي	magnetic resonance
+رنين مغنطيسي حديدي	ferromagnetic resonance
+رواسب مشعة	radioactive debris
+روبيديوم	rubidium
+روثينيوم	ruthenium
+روجرزيت	rogersite
+روديوم	rhodium
+ريب	rep
+ريح	wind
+ريم	rem
+رينارديت	renardite
+رينيوم	rhenium

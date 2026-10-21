@@ -1,0 +1,435 @@
+table	جدول، منضدة / جدول
+table of elementary particles	جدول الجسيمات الأولية
+tachometer	مقياس السـرعة الزاويّة
+tagged atom	ذرة موسومة / ذرَّة موسومة
+tail end	معاجة نهائية (ن)
+tandem electrostatic generator	مسـرع ترادفي
+tangent	مماس، ظل الزاوية / ظل الزاوية؛ مماس
+tangent galvanometer	مقياس غلفاني الظّلّي / غلفانومتر الظل
+tangential acceleration	تسارع مماسي
+tangential force	قوة مماسّية
+tangential plane	المستوي المماس
+tank	خزّان
+tantalum	تانتالوم
+tapping point	نقطة تفريع
+target	هدف (ن) / هدف
+target nucleus	نواة مستهدفة (ن)
+target theory	نظرية الهدف
+Taylor's series	متسلسلة تايلور
+technetium	تَكنيسيوم
+technic	تِقْنية؛ طريقة
+telecommunication	اتصال عن بُعد
+telegram	برقيّة / برقية
+telegraph	مبرقة / مِبْرَقَة
+telemeter	مقياس عن بعد / مقياس عن بُعد
+telemetry	قياس عن بعد / القياس عن بعد
+teleobjective	جِسْمية التصوير عن بُعد
+telephone	هاتف
+telephone set	جهاز هاتف
+telephoto lens	عدسة التصوير عن بعد / عدسة تصوير عن بُعد
+teleprinter	طابعة عن بُعد
+telescope	مقراب / مِقراب؛ راصدة
+telethermography	تصوير حراري عن بُعد
+television	تلفزة؛ تلفاز؛ تلفزيون
+telluric lines	خطوط أرضية في طيف الشمس
+tellurium	تيلوريوم
+temperature	درجة الحرارة
+temperature coefficient	مُعامل درجة الحرارة
+temperature coefficient of reactivity	معامل درجة الحرارة للمفاعلية (ن)
+temperature color scale; temperature colour sclae	سلم درجة الحرارة اللون
+temperature gradient	تدّرج درجة الحرارة
+temperature of neutrons	درجة حرارة النترونات
+temperature reactivity coefficient	معامل التفاعلية الحراري
+temperature scale	سُلَّم درجات الحرارة
+tempered scale	سلم معدّل
+temporal coherence	ترابط زمني
+temporary absorber	مصاص مؤقت (ن)
+temporary magnetism	مغنطيسية مؤقتة
+tensile strength	مقاومة الشد
+tensile stress	اجهاد الشدّ / إجهاد الشد
+tensiometer	مقياس التوتر السطحي
+tension	توتر، شدّ / شد، توتُّر
+tensor	مُوتِّر؛ تنسور
+tensor force	قوة تنسورية؛ قوة موتِّرة
+terbium	تِرْبْيوم
+terminal	مِطراف
+terminal input	طرف الدخل
+terminal velocity	سرعة حدّية / سـرعة حدّية
+terminating impedance	ممانعة (ال...) المنهية
+ternary critical point	نقطة حرجة ثلاثية / نقطة حرِجة ثلاثية
+ternary fission	انشطار ثلاثي
+terrestrial magnetism	مغنطيسية (ال...) الأرضية / مغنطيسية أرضية
+terrestrial radiation	إشعاع أرضي
+terrestrial space	فضاء أرضي
+tesla	تِسلا: واحدة التحريض المغنطيسي
+Tesla coil	مِلف تسلا
+test	اختبار
+test reactor	مفاعل اختبار
+testing by colours	اختبار بالألوان
+tetragonal lattice	شبيكة رباعية
+tetrahedral	رباعي الأوجه
+tetrahedral atom	ذرة رباعية الأوجه
+tetrahedral molecule	جزيء بنيته رباعية الوجوه
+tetrahedron	رباعي الوجوه
+tetrode	رباعي المساري / صِمام رباعي المساري
+thallium	تاليوم
+theodolite	مزواة / تيودوليت؛ مِزواة: جهاز قياس الزوايا
+theorem	مبرهنة
+theorem of parallel axes	نظرية المحاور المتوازية
+theoretical physics	فيزياء نظرية
+theory	نظرية
+theory of color vision	نظرية تمييز الألوان
+theory of emulsification	نظرية الاستحلاب
+thermal	حراري
+thermal agitation	هيجان حراري
+thermal analysis	تحليل حراري
+thermal bond	وصلة حرارية
+thermal breeder reactor	مفاعل ولود بالنترونات الحرارية
+thermal capacity	سعة حرارية
+thermal column	عمود حراري (ن)
+thermal conduction	نقل حراري
+thermal conduction; heat conduction	توصيل حراري
+thermal conductivity	ناقلية حرارية
+thermal convection	حمل حراري / حَمْل حراري
+thermal cracking	تصدع حراري
+thermal cross section	مقطع عرضي حراري (ن)
+thermal cycle	دورة حرارية
+thermal detector	مكشاف حراري
+thermal diffusion	انتشار حراري / انتثار حراري
+thermal diffusion plant	مُنشأة انتثار حراري
+thermal diffusion process	عملية الانتشار الحرارية (ن)
+thermal diffusivity	انتشارية حرارية / انتثارية حرارية
+thermal dissociation	تحلل حراري
+thermal dynamic energy	طاقة ترموديناميكية
+thermal efficiency	كفاءة حرارية / مردود حراري
+thermal equilibrium	توازن حراري
+thermal excitation	تهيج حراري
+thermal expansion	تمدّد حراري / تمدُّد حراري
+thermal fission	انشطار حراري (ن)
+thermal fission factor	عامل الانشطار الحراري (ن)
+thermal growth	نمو حراري (ن)
+thermal ionization	تأيين حراري
+thermal neutron	نترون حراري
+thermal neutron energy	طاقة النترونات الحرارية (ن) / طاقة النترونات الحرارية
+thermal neutrons	نترونات حرارية (ن)
+thermal noise	ضجيج حراري
+thermal power	قدرة حرارية (ن)
+thermal protection	حماية حرارية
+thermal radiation	اشعاع حراري / إشعاع حراري
+thermal reactor	مفاعل حراري
+thermal resistance	مقاومة حراريّة
+thermal resistivity	مقاومية حرارية
+thermal response	استجابة حرارية (ن)
+thermal shield	درع حراري (ن) / درع حرارية
+thermal shock	صدمة حرارية
+thermal siphon	مثعب حراري / مِثْعَب حراري
+thermal spike	نتوء حراري (ن) / نَبضة حرارية
+thermal utilization factor	عامل استخدام حراري (ن)
+thermal value	قيمة حرارية
+thermic conduction	توصيل حراري
+thermion	ترميون
+thermionic emission	انبعاث أيوني حراري / إصدار إلكتروني حراري؛ إصدار ترميوني
+thermionic rectifier	مقوم أيوني حراري
+thermionic valve	صمام أيوني حراري
+thermistor	تِرْمستور؛ مقاومة حرارية
+thermo-electricity	كهرحرارية
+thermo-electromotive force	قوة دافعة كهرحرارية
+thermo-element	عنصر حراري
+thermo-junction	وصلة حرارية
+thermochemistry	كيمياء حرارية
+thermocouple	مزدوجة حرارية
+thermocouple voltmeter	مقياس فولط حراري
+thermodynamic energy	طاقة ترموديناميكية
+thermodynamic equilibrium	توازن ترموديناميكي
+thermodynamic potential	جهد التحريك الحراري / كمون ترموديناميكي
+thermodynamic probability	احتمال التحريك الحراري
+thermodynamic quantities	كميات تحريك حراري
+thermodynamic system	نظام تحريك حراري / منظومة ترموديناميكية
+thermodynamics	تحريكات (ال...) الحرارية / علم الترموديناميك؛ علم التحريك الحراري
+thermoelastic coefficient	معامل المرونة الحرارية
+thermoelectric	كهرحراري
+thermoelectric ammeter	مقياس أمبير كهرحراري
+thermoelectric couple	مزدوجة كهرحرارية
+thermoelectric effect	مفعول كهرحراري
+thermoelectric nuclear battery	بطارية نووية كهرحرارية
+thermoelectric phenomena	ظواهر كهرحرارية
+thermoelectric power	قدرة كهرحرارية
+thermoelectric pyrometer	بيرومتر كهرحراري
+thermoelectric series	متسلسلة كهرحرارية
+thermoelectricity	كهرباء حرارية
+thermoelectromotive force	قوة محرِّكة كهرحرارية
+thermoelectron	إلكترون حراري
+thermoelement	عنصـر حراري
+thermograph	مسجِّل درجات الحرارة
+thermography	تصوير حراري
+thermoionic valve	صِمام مُخْلًى من الهواء
+thermoluminescence	لمعان حراري (ن) / تألُّق حراري
+thermoluminescence dosimeter	مقياس جرعة باللمعان الحراري (ن)
+thermometer	محرار / مقياس/ميزان حرارة
+thermometric coefficient	معامل محراري
+thermometry	محرارية (ال...) / قياس درجة الحرارة
+thermomolecular pressure	ضغط جزيئي حراري
+thermonuclear bomb	قنبلة نووية حرارية/هدروجينية
+thermonuclear reaction	تفاعل نووي حراري (ن)
+thermonuclear reactor	مفاعل نووي حراري
+thermophosphorescence	لمعان (فوسفوري) حراري / فسفرة حرارية
+thermopile	خلية كهرحراري / نابعة كهرحرارية؛ بيل حراري
+thermorelay	حاكمة حرارية
+thermos	حافظ حراري
+thermos bottle	كاظم
+thermoscope	كاشف حراري
+thermosphere	طبقة (ال...) الحرارية / غلاف حراري
+thermostat	مثبت حراري / مثبِّت الحرارة
+thermostatics	سكونيات (ال...) الحرارية
+thermovision	رؤية حرارية
+theta polarization	استقطاب
+thick lens	عدسة سميكة
+thin	رقيق
+thin film	رقّ رهيف / فلم؛ غشاء رقيق
+thin lens	عدسة رقيقة
+thin-film interference	تداخل في الأغشية الرقيقة
+thin-lens relationships	علاقات العدسات الرقيقة
+third harmonic	توافقية (ال...) الثالثية / التوافقية الثالثة
+Thomson effect	أثر طومسون
+Thomson's atom	ذرة طومسون
+Thomson's scattering length	طول طومسون للتبعثر
+thorium	ثوريوم (ن) / ثوريوم
+thorium reactor	مفاعل ثوريوم
+thoron	ثورون
+thou	ثاو
+three-body problem	مسألة الأجسام الثلاثية / مسألة الأجسام الثلاثة
+three-electrode vacuum tube	صمام ثلاثي
+three-phase equilibrium	توازن ثلاثي الأطوار
+threshold	عتبة / عَتَبة
+threshold current	تيار العتبة
+threshold detector	مكشاف ذو عتبة (ن)
+threshold dose	جرعة العتبة (ن) / جُرعة العَتَبة
+threshold energy	طاقة العتبة (ن) / عتبة الطاقة
+threshold frequency	تردّد العتبة / عتبة التردد
+threshold of contrast	عتبة التباين
+threshold of hearing	عتَبَة السَّمْع
+threshold reaction	تفاعل عتبي (ن)
+threshold sensitivity	حساسية العتبة
+threshold wavelength	طول موجة العتبة
+throwing power	قدرة الرمي
+thrust	دَفْع
+thulium	ثوليوم
+thyratron	تيراترون
+thyristor	ثايرستور
+Thévinin theorem	مبرهنة تيفينين
+tide	مد (ال...)ّ والجزر / مدّ وجَزْر
+tie rod; supporting; fuel rod	قضيب وقود مسند (ن)
+tight binding approximation	تقريب الربط المحكَم
+tight coupling	ربط محكم / اقتران مُحكَم
+tight-binding approximation	تقريب الترابط القوى
+timbre	طابَع
+time	زمن (ال...) / زمن
+time analyser	محلل الزمن (ن)
+time average	متوسط الزمن
+time base	قاعدة الزمن
+time coherence	ترابط زماني
+time constant	ثابت الزمن / الثابتة الزمنية
+time constant range	مدى ثابت الزمن (ن)
+time delay	تأخير زمني / تأخر زمني
+time dilation	تمدُّد الزمن
+time discriminator	مميّز زمني / ممِّيز الزمن
+time domain	ميدان الزمن
+time lag	تخلف زمني / تخلُّف زمني
+time of exposure	زمن التعرُّض
+time of flight method	طريقة زمن الطيران
+time reversal	عكس زمني / عكس الزمن
+time switch	قاطعة موقوتة
+tin	قصدير
+tint	مشيج (ج أمشاج)، خالط الألوان / مَشِيج: الجمع أمشاج
+tint of passage	مشيج عبور
+tissue dose	جرعة نسيجية؛ جرعة جِلدية
+tissue equivalent	مكافئ النسيج (ن)
+titanium	تيتانيوم
+TNT equivalent	مكافئ الـ تي إن تي
+tolerance	تسامح
+tolerance dose	جرعة التحمّل
+tomography	التصوير المقطعي
+tone	نغمة / نَغْمة
+tonometer	مقياس النغم
+top	خذروف / خُذروف؛ دُوَّامة؛ بُلبل؛ ذُروة
+top tie plate	صفيحة الدعم العليا (ن)
+tore	طوق / طَوْق؛ سِوار (كعكة)
+toric lens	عدسة طوقية
+toroid	اطار
+toroidal coil	ملف اطاري / مِلَف دولابي
+torque	عزم القوة / عزم مزدوجة
+torr	طُور
+Torricelli 's theorem	نظرية تورِشلِّي
+Torricellian vacuum	خلاء توريشلّي
+torsion	تواء (ال...) / فتل
+torsion balance	ميزان اللي / ميزان الفتل
+torsion constant	ثابتة الفتل
+torsion pendulum	نواس ليّ / نواس الفتل
+torsional stress	اجهاد الالتواء
+total	كلّي
+total angular momentum	الاندفاع الزاوي الكلي
+total binding energy	طاقة الارتباط الكلية
+total cross section	مقطع عرضي كلي (ن) / المقطع العَرْضـي الكلي
+total differential	تفاضل كلي
+total head	ضغط كلي
+total heat	حرارة كلّية / حرارة كلية
+total internal reflection	انعكاس كلّي داخلي / انعكاس كلي داخلي
+total ionization	تأين كلي (ن)
+total ionization dose	جرعة تأيين كلية
+total reflecting prism	موشور انعكاس كلي
+total reflection	انعكاس كلّي / انعكاس كلي
+total scattering cross section	مقطع الاستطارة العرضي الكلي
+toughness	متانة؛ قساوة
+tracer	مقتف (ن) / قفّاء
+tracer compound	مركّب مقتف
+track	مسلك / مَسْلك
+track detector	مكشاف الأثر (ن)
+train of waves	قطار أمواج
+trajectory	مسار
+transadmittance	قَبولية الانتقال
+transcendental equation	معادلة متسامية
+transconductance	ناقلية تبادلية
+transducer	محوّل طاقة / محوِّل طاقة؛ مِحوال
+transfer characteristic	مميِّز الانتقال
+transfer function	دالة النقل (ن)
+transfer of heat	انتقال الحرارة
+transference	نقل
+transformation	تحويل
+transformation circle	دائرة التحويل
+transformation group	زمرة تحويل
+transformation of energy	تحول الطاقة
+transformer	محوّل / محِّولةَ
+transformer core	لب المحول
+transformer coupling	قرن تحريضي
+transient	انتقالي؛ عابر
+transient equilibrium	توازن عابر (ن) / توازن انتقالي؛ توازن عابر
+transient motion	حركة عابرة
+transient response	استجابة انتقالية؛ استجابة عابرة
+transistor	ترانزستور
+transistor parameters	وسطاء الترانزستور
+transition	عبور؛ انتقال
+transition (electron..)	انتقال الالكترون
+transition between states	انتقال بين الحالات
+transition effect	تأثير الانتقال
+transition elements	عناصـر انتقالية
+transition metals	فلزات انتقالية
+transition probability	احتمال الانتقال (ن) / احتمال الانتقال
+transition temprature	درجة حرارة التحوُّل
+translation	انسحاب
+translation group	زمرة الانتقال
+translation of axes	انسحاب المحاور
+translation operation	عملية انتقال
+translational motion	حركة انسحابية
+translucent	شبه شفاف / شافّ
+translunar space	فضاء ما بعد القمر
+transmission	ارسال / نفوذ؛ بث
+transmission coefficient	مُعامل النفوذ
+transmission factor	عامل النقل / عامل النفوذ
+transmission grating	محزّز نفاذ / شبكة انعراج نَفوذة
+transmission line	خط نقل
+transmission loss	فَقْدٌ بالانتقال
+transmission of heat	انتقال الحرارة
+transmission plane	مستوى الانتقال
+transmissivity	انتقالية / نفاذية
+transmittance	إنفاذية
+transmittancy	منافذة (ال...) / إنفاذية نوعية
+transmitted light	ضوء نافذ
+transmitter	مرسل / مُرسِل
+transmitting grating	شبكة انعراج نَفوذة
+transmitting set	جهاز ارسال
+transmulation	تحوّل
+transmutation	تحُّول
+transparency	شفافية
+transparent	شفّاف / شفاف
+transpiration	نتح
+transpiration (thermal..)	نتح حراري
+transpiration of gases	نتح الغازات
+transport cross section	مقطع فعال للنقل (ن)
+transport equation	معادلة النقل (ن)
+transport index	دليل النقل (ن)
+transport mean free path	متوسط المسار الحر للنقل (ن) / متوسط المسار الحر الانتقالي
+transport theory	نضرية النقل (ن)
+transposed matrix	مصفوفة منقولة
+transposition	مناقلة
+transuranium elements	عناصر ما فوق اليورانيوم / عناصـر ما بعد اليورانيوم
+transverse	مستعرض
+transverse electric wave	موجة كهربائية عرضانية
+transverse electromagnetic wave	موجة كهرطيسية عرضانية
+transverse wave	موجة مستعرضة / موجة عرضانية
+trap	مصيدة / مَصيَدة
+travelling microscope	مجهر منزلق
+travelling wave	موجة منتشـرة
+treating unit	وحدة المعالجة
+triac	ترِياك: عنصـر إلكتروني
+triangle	مثلث
+triangle of forces	مثلّث القوى
+triangulation	تثليث
+tribo	دلك
+tribo-electrification	تكهرب بالدلك
+triboelectrification	تكهرب بالدَّلك
+triboluminescence	لمعان احتكاكي / تألق بالدَّلك
+trichroism	ثلاثي التلّون / ثلاثي التلوُّن
+trichromatic coefficients	معاملات ثلاثية التلون
+triclinic	ثلاثي الميل
+trigger	قادح
+trigger circuit	دارة القدْح
+trigonal	مثلثي
+trigonometric function	دالة مثلّثية
+trigonometrical	مثلثية
+trigonometry	مثلثات
+trim	تهذيب
+trimmer condenser	مكثف تهذيب
+triode	ثلاثي المساري / صِمام ثلاثي المساري
+triple isomorphism; isotrimorphism	تشاكلية ثلاثية
+triple molecular collision	اصطدام ثلاثي الجزئيات
+triple point	نقطة (ال...) الثلاثية / نقطة ثلاثية
+triple-vector product	جداء متَّجهي ثلاثي
+triplet	ثلاثية
+triplet state	حالة ثلاثية
+tripod	حامل ثلاثي
+tritium	ترتيوم (ن) / تريتيوم: نظير الهدروجين
+triton	تريتون (ن) / تريتون
+trivalent	ثلاثي التكافؤ
+trochoidal mass analyser	محلّل كتلة دحروجيّ / مطياف كتلي دُحروجي
+trombone	بوق ذو زالقة
+Tronton rule	قاعدة ترونتن
+troposphere	تروبوسفير
+true coincidence	تطابق حقيقي (ن)
+truth table	جدول الحقيقة
+tube	أنبوب؛ صِمام
+tube characteristics	مميزات الصمام
+tube electrometer; valve electrometer	مقياس كهرباء ذو صمام
+tungsten	تنغستين
+tuning	توليف
+tuning fork	شوكة رنّانة
+tuning indicator	مبين المؤالفة / دليل التوليف
+tuning-fork	رنانة
+tunnel diode	ديود نفقي
+tunnel effect	تأثير نفقي / مفعول نَفَقي
+tunneling of electrons	عبور نفقي للإلكترونات
+tunnelling effect	تأثير التنفيق
+turbidimetry	قياس التكدّر / قياس التعكّر
+turbidity	كدورة / تعكُّر
+turbine	عنفة
+turbine trip	توقف العنفة المجافئ (ن)
+turbulence	اضطراب / اضطراب دوّامي
+turbulent flow	جريان مضطرب
+turn-aroud time	زمن الصيانة (ن)
+turning point	نقطة الانعطاف / نقطة النَّبْوة
+tweeter	مجهار عالي التردُّد
+twilight	شفق / شَفَق
+twin crystals	بلورات توأمية / بلورات تَوْءمية
+twin paradox	مفارقة التوأم / مفارقة التوءمين
+twinning	تواؤم
+two group theory	نظرية الزمرتين (ن)
+two terminal network	شبكة ذات طرفين
+two-body problem	مسألة الجسمين
+two-dimensional gas	غاز دو بعدين
+two-group model	نموذج الزمرتين (ن)
+two-phase system	منظومة ثنائية الطور
+two-port network	شبكة ذات منفذين
+tympanic membrane	غشاء الطبل
+Tyndall effect	مفعول تاندال
+types of adsorption	نماذج الامتزاز، صنوف الامتزاز
+types of invisibles spectra	أنماط أطياف لامرئية
+types of spectra	أنواع الطيف، أنواع الأطياف، صنوف الأطياف

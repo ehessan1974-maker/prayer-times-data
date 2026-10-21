@@ -1,0 +1,110 @@
+wage	أجْر / أجر
+wage costs	تكلفة الأجور
+wage cuts	تخفيض الأجور، خفْض الأجور
+wage freeze	تجميد الأجور
+wage increase	زيادة الأجر
+wage pyramid	هَرَمُ الأجور
+wage scale	سُلَّم الأجور
+wage sheet	شهادة أداء الأجر
+waiting period	عِدّة المرأة
+Waiting Time	وقت الانتظار
+Waiver	تنازل
+Waiver of Rights	نزول عن الحق
+Waiver Of Subrogation	تنازل عن الحلول
+waiver; renouncement	تنازُل (عن دعوى أو غير ذلك)
+wakf	وقف (ال..)، حبوس
+Walk-Away Point	نقطة الابتعاد و التخلي
+war	حرب
+war crimes	جرائم حرب
+war criminal	مجرِم حرب
+war of independence	حرب الاستقلال
+ward	رَبِيب، يتيم مكفول
+warehouse	مخزن، مستودع / مستودع / مستودع البيانات
+Warehouse Management	إدارة المستودعات
+Warehouse Management System	نظام إدارة المخازن
+warehouse warrant	سند الخزن، سند رهن البضاعة
+warning	إنذار
+warrant	أَمْر
+warrant of appear	أَمْر بالحضور
+warrant of arrest	أَمْر بإلقاء القبض
+warrant of attachment; writ of habeas corpus	أَمْر بالإحضار، مذكرة إحضار
+warrant of confinement	أَمْر بالحبس
+warrant of defects	ضمان العيوب
+warrant of search	أَمْر بالتفتيش
+Warranties	ضمانات
+Waste	نفايات
+Waste Electronics And Electrical Equipment (WEEE)	نفايات الأجهزة الإلكترونية والكهربائية
+wealth	غنى، ثروة
+wealth tax; fortune tax	ضريبة على الثروة
+weapon	سِلاح
+Wearing Parts	ارتداء أجزاء
+Weighted Average Cost Of Capital (WACC)	متوسط مرجح لتكلفة رأس المال
+Weighted Scorecard	بطاقة الأداء المتوازن
+Weighting	ترجيح
+welfare state	دولة الرفاهية
+Well-known trademark	العلامة التجارية المشهورة
+What If Analysis	ماذا لو في التحليل
+whereases (the ..) (the reasons adduced)	أسباب (الحكم)، حيْثِيَّات (الحكم)
+Whistleblowing	كاشف الفساد
+White Elephant	فيل ابيض
+White Land	أرض بيضاء
+white-collar crimes	جرائم أصحاب الياقات البيضاء
+White-Collar Workers	عمال ذوي الياقات البيضاء
+whole life insurance; insurance in case of death	تأمين الوفاة
+Whole System Perspective	منظور تعددي
+Whole-Life Asset Management	إدارة الأصول مدى الحياة
+wholesale	بَيْع بالجملة
+wholesale price	ثمن البيع بالجملة
+wholesale trade	تجارة الجملة
+wholesaler	بائع بالجملة، تاجر الجملة
+widowhood	عِدّة المرأة
+widowhood period	مدة العدة
+wildcat strike	إضراب غير مرخص (من النقابة)
+will	وصية
+Willful Acts	أفعال متعمدة
+Win-Win	فوز
+Win-Win Negotiation	تفاوض مربح للجانبين
+Wise Agreement	اتفاق حكيم
+Withdraw of work	سحب المصنف
+withdrawal	سَحْب، استرداد / سحب
+without advice	دون إخطار، دون إشعار
+without delay	دون تأخير، فورا
+without expenses clause	شرط الرجوع بلا مصروفات
+without judicial clause; without proceeding clause	شرط البيع بدون إجراءات
+without prejudice	دون إخلال
+Without Recourse	بدون حق الرجوع
+witness	شهادة، شاهِد / شاهد
+Work	مصنف
+Work Breakdown Structure (WBS)	إنشاء هيكل تقسيم العمل / هيكل تنظيم العمل
+work by teams	عمل بالفرق
+Work Center	مركز العمل
+Work Context	سياق العمل
+Work for hire	مصنف بالتعاقد
+Work Packages	حزم العمل
+Work Tactics	تكتيكات العمل
+work; labour	عملٌ، شغلٌ
+Working Capital	قوى عاملة
+Working Capital Policy	سياسة رأس المال العامل
+Working Capital Requirement (WCR)	متطلبات رأس المال العامل
+Working Time	وقت العمل
+Workplace Fraud	احتيال في مكان العمل
+Works Contractor	متعاقد اعمال
+Works of broadcasting organizations	مصنفات هيئات الإذاعة
+workshop regulation	نظام (ال..) الداخلي للمقاولة (مصنع أو معمل)
+world affairs	قضايا دولية، شؤون دولية
+world bank	بنك (ال..) الدوليّ
+world congress	مؤتمر عالميّ
+world crisis	أزمة عالمية
+world security	أمن عالميّ
+world trade	تجارة عالمية
+world war	حرب عالمية
+writ of appeal	مقال استئنافيّ، عريضة استئناف
+writ of attachment	أَمر بالحجز
+writ of debt	أَمْر بالأداء
+writ; summons	استدعاء قضائيّ
+written constitution	دستور مكتوب
+Written disclosure	الوصف المكتوب
+written evidence	دليل مكتوب / دليل كتابي
+written law	قانون مكتوب
+Written Off / To Write-Off	شطب / شطب
+WTO	منظمة التجارة العالمية

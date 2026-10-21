@@ -1,0 +1,43 @@
+Zeeman effect	مفعول زيمان
+zein	زيين
+zeolite	زيوليت
+zeolite process	عملية الزيوليت
+zero	درجة الصفر / صفر
+zero error	خطأ الصفر
+zero group	مجموعة الصفر / الفصيلة صفر
+zero level	سوية الصفر، منسوب الصفر
+zero point	نقطة الصفر
+zero potential	كمون الصفر
+zero valent	صفري التكافؤ، لا تكافؤي
+zero-line; zero mark	خط الصفر، علامة الصفر
+zero-order reaction	تفاعل من مرتبة الصفر
+zero-point energy	طاقة الدرجة صفر
+zeroing	تعيين (نقطة) الصفر
+zeroth	المرتبة صفر
+zeroth law of thermodynamics	المبدأ صفر في الترموديناميك
+Ziegler catalyst	حفّاز زيغلر
+Zimmerman reaction	تفاعل زيمرمان
+zinc	زنك، خارصين / زنك
+zinc blende	بلند الزنك، ركاز الزنك
+zinc chloride	كلوريد الزنك
+zinc dust	غبار الزنك / مسحوق الزنك
+zinc oxide	أكسيد الزنك
+zinc powder	مسحوق الزنك
+zinc sulfide	سلفيد الزنك
+zinc-copper couple	مزدوج النحاس و الزنك
+zircon	زركون / زيركون
+zirconium	زركونيوم / زيركونيوم
+zirconium oxide	أكسيد الزيركونيوم
+zone (combustion...)	منطقة الاحتراق
+zone (neutral...)	منطقة محايدة
+zone precipitation	ترسيب نطاقي
+zone purification	تنقية نطاقية
+zone refining	تنقية مناطقية
+zoochemistry	كيمياء حيوانية
+zwitterion	أيون امفوتري، أيون هجين / أيون ثنائي القطب
+zymase	خميرة الزيماز / زيماز
+zymogen	مولّد الإنزيم
+zymometer	مقياس الاختمار
+zymosis	تخمُّر، اختمار
+zymotechnic	تقنية التخمر
+zymurgy	كيمياء التخمر

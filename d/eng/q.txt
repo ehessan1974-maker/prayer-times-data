@@ -1,0 +1,306 @@
+Q channel (in CD system)	القناة Q (في نظام القرص المدمج)
+Q signal	إشارة Q
+Q- factor	عامل الجودة
+Q-aerial	هوائي رُبْعي / هوائي ـ ق
+Q-alpha	ضغط ـ ق
+Q-ball, q-ball	كرة الضغط / كرة ـ ق
+Q-band	نطاق - ق
+Q-code	شفرة ـ ق / شِفرة ثلاثية
+Q-correction	تصحيح الارتفاع / تصحيح ـ ق
+Q-factor	رقم الاستحقاق
+Q-factor; quality factor	عامل الجودة
+Q-fan	مروحة هادئة
+Q-meter	مقياس الشحنة
+Q-series propellants	وقود دفعي هادئ
+Q-spring, q-spring	نابض الضغط التحريكي
+q-stops	حواجز الضغط التحريكي
+Q-switching	قَطعْ ووصْل سريع
+q-system	نظام الضغط التحريكي
+Q8 Aviation	زيوت كيو إيت
+Q8 Oils	وقود طائرات كيو إيت
+qanat (or foggara)	قناة
+Qatar Rail	شركة سكك الحديد القطرية (الرّيل)
+qaudrupleX system	نظام رباعي الوفرة
+Qazul fiber	ألياف كازيل ®
+QC card	بطاقة التصحيح الرُّبعي
+QIRP	مشروع قطر المتكامل للسكك الحديدية
+QR Permit 1	تصريح الرّيل 1
+QR Permit 2	تصريح الرّيل 2
+quad	رباعى / مجال رُبْعي / مجموعة تحكم رباعية
+quad actuator	مشغِّل رباعي
+quad bundle; four-conductor bundle (US)	حزمة رباعية
+quad; quadrat	رقيقة فاصلة
+quaded cable	كَبل رباعي
+quadrant	ربع دائرة / رافعة رُبعية / مجال رُبعي
+quadrant antenna	هوائى ربع دائري
+quadrant electrometer	مقياس الكهرباء الساكنة بقوى متعامدة / مقياس كهربي ربعي
+quadrant paper scale	ميزان الورق الربعي
+quadrantal deviation; quadrantal error	خطأ رُبعي
+quadrantal heights	ارتفاعات رُبعية
+quadrantal points	اتجاهات رُبعية متوسطة
+quadratic control area	منطقة ضبط تربيعية
+quadratic form	شكل تربيعي
+quadratic PI controller	مُتحكّم تناسبي تكاملي تربيعي
+quadrature	إزاحة رُبعية / اختلاف طَور رُبعي
+quadrature (amplitude) modulation ; QAM (abbreviation)	تعديل تعامدى لسعة النبضة
+quadrature (voltage) control	تحكم تربيعي في الجهد
+quadrature axis	محور متعامد
+quadrature component of the current	مركبة التيار المتعامدة
+quadrature component of the volt-amperes	مركبة متعامدة للفولط أمبير
+quadrature component of the voltage	مركبة الجهد المتعامدة
+quadrature crosstalk	حديث تربيع متبادل
+quadrature hybrid	وصلة هجينة رباعية
+quadrature phase shift keying; QPSK; quadrature phase modulation	مفتاح ازاحة طور متعامد
+quadrature signal; harmonic conjugate signal	اشارة متعامدة
+quadrature-axis component of current	المركبة العمودية للتيار
+quadrature-axis component of magnetomotive force	المركبة العمودية للقوة الدافعة المغناطيسية
+quadrature-axis component of synchronous generated voltage	المركبة العمودية للجهد المولد تزامنياً
+quadrature-axis component of voltage	المركبة العمودية للجهد
+quadrature-axis sub-transient open-circuit time constant	ثابت زمني دون العابر لدارة مفتوحة للمحور العمودي
+quadrature-axis sub-transient reactance	المركبة العمودية للمفاعلة دون العابرة
+quadrature-axis sub-transient short-circuit time constant	ثابت زمني دون العابر لدارة القصر للمحور العمودي
+quadrature-axis sub-transient voltage	المركبة العمودية للجهد دون العابر
+quadrature-axis synchronous reactance	المركبة العمودية للمفاعلة التزامنية
+quadrature-axis transient open-circuit time constant	ثابت زمني العابر للدارة المفتوحة للمحور العمودي
+quadrature-axis transient reactance	المركبة العمودية للمفاعلة العابرة
+quadrature-axis transient short-circuit time constant	ثابت زمني العابر لدارة القصر للمحور العمودي
+quadrature-axis transient voltage	المركبة العمودية للجهد العابر
+quadreX	رباعي الوفرة
+quadrifid	رباعية التشريم
+quadrifoliate	رباعية الأوراق
+quadrilateral	رباعي
+quadrilled paper	ورق ترابيعي
+quadrilobate	رباعية النصوص
+quadripinnate	ورقة ريشية رباعية
+quadruplane	طائرة رباعية السطوح
+quadruple register	سجلّ رباعي / عدّاد رباعي
+quadrupleX	نظام رباعي
+quadruplex system	نظام رباعى
+QualiCert	شهادة اعتماد جودة الخدمة (QualiCert)
+qualification	مؤهل / أهليّة / صلاحيّة
+qualification test	اختبار الكفاءة؛ اختبار التأهيل
+qualification,	تأهيل, لشخص
+qualitative	كيفيّ
+qualitative analysis	تحليل كيفي / تحليل نوعي
+qualitative limitation	تحديد نوعي
+quality	جَوْدة
+quality assurance	ضمان الجودة / ضَمانُ الجَوْدَةِ
+quality assurance (QA)	ضمان الجودة
+quality assurance of water	ضمان الجودة المياه
+quality assurance/control	ضمان الجودة / مراقبة
+quality certification	شهادة الجودة
+quality control	مُراقَبة الجودة / ضبط الجودة / مراقبة الجودة
+quality control (QC)	ضَبْط الجودة
+quality control system	نِظام التحكُّم في الجودة / نِظام مُراقَبة الجودة
+quality criteria for water	معايير جودة الماء
+quality factor	عامل الجودة
+quality factor for a series resonance circuit,	معامل الجودة لدائرة الرنين المتوالى
+quality factor of a material	معامل الجودة لمادة
+quality factor, ; Q factor,	معامل الجودة
+quality grade of a measuring device	مرتبة (درجة) جودة جهاز قياس
+quality grade,	درجة الجودة,
+quality guarantee	ضمان الجودة
+quality level quality criterion	معيار الجودة
+quality management	إدارة الجودة
+quality management system	نظام إدارة الجودة
+quality mark	عَلامة الجودة / علامة الجودة
+quality mark for down and feathers	علامة جودة الريش
+quality of crude oil	درجة جودة النفط الخام
+quality of data transmission	جودة نقل البيانات
+quality of display (of a teletext system)	جودة العرض (لنظام النص المنقول عن بعد)
+quality of life	جودة الحياة
+Quality of Life Program	برنامج جودة الحياة
+quality of service	جودة الخدمة / جَوْدَةُ الخِدْمَةِ
+quality of sound	نوعية الصوت
+quality of the electricity supply	جودة مصدر التغذية الكهربائية
+Quality of Transport Service	جودة خدمة النقل
+quality of water	جودة المياه
+quality planning	تخطيط الجودة
+quality scale	مقياس الجودة
+quality surveillance	مُراقَبة الجودة
+quality, ecological	جودة (ال...) البيئية
+Quallofil®	كواللوفيل®
+quantified	مقدَّر / مقيس
+quantified emissions limitation and reduction commitments (qelros)	تزامات مرقمة للحد و/أو التخفيض من كمية الانبعاثات (أهداف كمية)
+quantitative	كَمِّيّ
+quantitative analysis	تحليل كمي
+quantitative economy	اقتصاد كَمّيّ
+quantitative limitation	تحديد كمّي
+quantitative precipitation forecast	توقعات كمية هطول الامطار
+quantitatively	كِمِّيًا
+quantities	كَمِّيات
+quantity	مقدار / مجموعة / كِمّية / كمية
+quantity calculus	حساب التفاضل والتكامل للكميات
+quantity control	التحكم الكمّي
+quantity equation	معادلة كمية
+quantity name; name of quantity	اسم الكمية
+quantity of dimension one; dimensionless quantity	كمية بلا ابعاد
+quantity of electricity	كمية الكهرباء
+quantity of radiant energy	كمّية الإشعاع
+quantity symbol; symbol of a quantity	رمز الكمية
+quantity-value scale; measurement scale	مقياس قيمة الكمية (ميزان لقياس الاشياء)
+quantization error; quantizing error; rounding error	خطأ التحويل الكميّ
+quantization; quantizing	تقدير الكميّة / تقدير الكمية / تقدير الكمية (للكمية) / تحديد الكميّة
+quantize, verb	يحدد كمية, فعل
+quantized	مُكَمَّى
+quantized system (of particles)	نظام كمى (للجسيمات)
+quantized value	قيمة كمية
+quantizer	حاسب كميّات
+quantizing distortion; quantizing noise	تشوه كمى
+quantizing interval	فترة كمية
+quantizing law; coding law (deprecated)	قانون تقدير الكمية
+quantum	كمّ / وحدة الطاقة
+quantum counter	عداد كمى
+quantum efficiency	الكفاءة الكَمّية / كفاءة كمية؛ كفاءة الكم
+quantum efficiency characteristic	خصائص الكفاءة الكمية
+quantum noise; photon noise	ضوضاء كمية؛ ضوضاء فوتونية / ضوضاء كمية
+quantum number (of an electron in a given atom)	عدد كمي (لألكترون فى الذرة المعطاة)
+quantum theory	نظرية الكم
+quantum yield	إنتاجية الكم
+quantum-noise-limited operation; quantum limited operation	عملية محدودة بكمية الضجيج عملية محدودة التكمين؛ تشغيل محدّد بالضجيج الكمّي
+quarantine	حَجْر صحي
+quarantine boat	زورق الحجر الصحي
+quark	كوارك
+quarrel	ماسة الزجاج
+quarry	مَقْلَع حِجارة / مَقْلَع / مَحْجَر، مَقْلَع
+quarry species	أنواع الطرائد
+quarry waste	فَضلاَت المَحْجَر
+quarry-stone	شطاط
+quarter	حيّ
+quarter binding/leather	ربع تجليد
+quarter girth	ربع المحيط
+quarter sawing	نشر ربعي
+quarter sawn	نشر ربعي
+quarter wavelength resonator	رنان ربع موجى
+quarter-chord	محور ربع الوتر
+quarter-phase	طَور رُبعي
+quarter-phase system	نظام ثنائي الطور ربعي
+quarter-turn fastener	مثبِّت ربع دورة / مشبك ربع دورة
+quarter-wave aerial	هوائي ربع موجي
+quarter-wave choke	ملف خانق ربع موجى
+quarter-wave contact piston; bucket piston; bucket plunger	مكبس تلامس ربع موجه
+quarter-wave plate (in a waveguide)	صفيحة ربع موجة (في دليل موجة)
+quarter-wave sleeve balun; bazooka (US)	بالون كمي ربع موجة
+quarter-wave sleeve element	عنصر كمى ربع موجى
+quarter-wave transformer	محول ربع موجة
+quartered veneer	تلبيس ربعي بقشرة
+quartering of a log	تقسيم ساق الشجرة إلى أرباع
+quarterlights	نوافذ رُبعية
+quartet (byte); 4-bit byte (US)	مجموعة أعداد ثنائية من ( 4 خانات )
+quartz	كوارتز (ال...) / مَرْوٌ / كوارتْز / مَرْو / كوارتز، مَرْوٌ / كوارتز
+quartz crystal	بلورة مَرْو / بلّورة الكوارتز
+quartz crystals	بِلَّوْرات مَرْوٍ
+quartz sand	رمل الكوارتز
+quartz-diorite	دايورايت كوارتزي
+quartz-porphyry	بورفير كوارتزي
+quartzite	صَخْر الكوارتز / كوارتزيت
+quasi bit sequence independence	استقلالية تسلسل شبه الخانات
+quasi-	شِبه
+quasi-associated signalling	ارسال إشارات شبه مترابطة
+quasi-equilibrium state change	تغيّر شبه ساكن للحالة
+quasi-free electron	إليكترون شبه حر
+quasi-impulsive noise	ضوضاء شبه دفعي / ضوضاء شبه دفعية
+quasi-option value	قيمة شبه خيار
+quasi-peak detector	كاشف شبه الذروة
+quasi-peak voltmeter	جهاز قياس الجهد لشبه الذروة
+quasi-static process	عملية شبه ساكنة
+quasi-stereoscopic television	تلفاز شبه تجسيمي
+quassia	كواسية
+quassia-tree	كواسية مرة
+quater round molding	حلية خشبية للزوايا (ربع دائرة)
+quaternary	عصر رباعي / زمن (ال..) الرابع
+quaternary digital group	مجموعة رقمية رباعية
+quaternary period	عصر رابعي
+quatrefoil	حلية رباعية
+quatrifoil fibers	ألياف رباعية الفصوص
+quay	رصيف (ميناء)
+quay dues	رسوم الرصيف
+quay pavement	رصيف
+quebracho; tanic acid	مخفف طين الحفر
+queen -post	قائم الجملون
+quench	غَطْس / رذّاذة
+quench tank	خَزّان تبريد
+Quench trough	حوض تبريد سريع
+quencher (vapour condenser)	مُخَمِّد
+quenching	إخماد / تبريد سريع / تسقية / إطفاء
+quenching and tempering	إسقاء و تليين
+quenching voltage	جهد الإخماد
+quenching water	مياه إطفاء الحرائق
+quercus suber	بلوط الفلين
+question-mark	علامة استفهام
+Questol	طائرة إقلاع وحط قصير هادئة
+queue	صف / طابور / رَتْل
+queuing delay	التأخيرِ بسبب الإنتظار
+queuing model	نموذج صفوف الإنتظار
+queuing theory	نظرية صفوف الإنتظار
+Quiana fiber	ألياف كيانا ®
+quick break switch	مفتاح سريع القطع
+quick cam	حَدَبَة حادَّة
+quick cement; rapid hardening cement	أسمنت سريع التصلب، أسمنت سريع التماسك
+quick clay	غَضَار حسّاس
+quick closing gate	بَوّاَبة سريعة الإغلاق
+quick condition and quick sand	تميُّع (ال...)
+quick etch	حفر سريع
+quick glow system	نظام التوهج السريع
+quick gouge	مظفار قاطع
+quick lift mast	برج حفر سريع الرفع
+quick lime	جِير حيّ
+Quick Path Interconnect	وَصِلَةُ الرَبْطِ
+quick setting cement	إسمنت سريع الشك
+quick solder	لحام سريع
+quick-acting door; quick-acting cover	باب سريع االحركة؛ غطاء سريع الحركة
+quick-break knife switch	مفتاح سكِّينة سريع القطع
+quick-change aircraft	طائرة سريعة التبديل
+quick-connect parachute	مظلة سريعة التثبيت
+quick-disconnect couplings	قارنة سريعة الفصل
+quick-donning mask	قناع سريع التثبيت
+quick-engine-change unit	وحدة محرك متبدل بسرعة
+quick-make switch	مفتاح سريع الوصل
+quick-release boX	رتاج سريع الفتح / صندوق سريع الإعتاق
+quick-release device	تجهيزة إعتاق سريع
+quick-release valve	صمام إعتاق سريع / صمام تصريف سريع
+quick-search procedure	أسلوب البحث السريع / أسلوب التنقيب المكثَّف
+quick-start recognition	التعرف السريع على اسطوانة بدء الدوران
+quick-vent valve	صمام استنزاف الهواء السريع
+quick-wind mechanism	آلية سريعة اللف
+quicken	شجرة السمن
+quickie ground-controlled approach	اقتراب مختصَر
+quicklime	جِير حَيّ / جير (ال...) الحيّ / جير حي
+Quicktrans	نقل داخلي معاضد
+quiescent	ساكن
+quiescent current	تيار ساكن
+quiescent current manager	مُنظّم التيار الساكن
+quiescent flow	انسياب ساكن / دفق ساكن
+quiescent modulation	تضمين ساكن
+quiescent telecontrol system	ارسال التحكم عن بعد في التشغيل والايقاف؛ نقل ( تشغيل - إيقاف ) تحكم عن بعد ارسال غير متزامن تحكم عن بعد
+quiet automatic gain control	تحكم الكسب الآلي الساكن
+quiet Sun	شمس هادئة
+quill drive	نقل حركة بعمود أجوف
+quill shaft	عمود دوران أجوف / عمود أجوف / عمود قلمي
+quilt	غِطَاء السَّرِير
+quilt / duvet	بَطّانِيّة
+quilted blanket	غطاء مضرَّب
+quilted lining / thermal quilted lining	تبطين حراري داخلي
+quilting	قماش مُطرّز
+quilting thread	خيط تنجيد
+Quine-McCluskey	طريقة كواين ماكلوسكي
+quinone	كينون
+Quintesse fiber®	ألياف كوينتسا®
+quintet (byte); 5-bit byte (US)	مجموعة أعداد ثنائية من ( 5 خانات )
+quire	رزمة صغيرة
+quisqueite	كوسكويت
+quit claim	مخالصة، إبراء، تنازل عن حق
+QUJ	شِفرة QUJ
+quoin	حجر الزاوية / سناد، دعامة
+quota	نظام الحصص / حصة
+quota management system	نظام تنظيم وتحديد الكوته
+quota model	نظام الكوتا / نموذج الحصة
+quota obligation	كوتا إلزامية / إلزام بالكوتة / فرض نظام الحصص
+quota obligation system	نظام الالتزام بالحصص
+quota regulation	لائحة الكوتا / تنظيم الحصص / نظام الحصة
+quotation	اقتباس
+quotation marks	هلالان مزدوجان، علامتا 'الاقتباس'
+quotient	القسمة - خارج القسمة ( رياضيات )
+Qurain Petrochemical Industries Company	شركة القرين لصناعة الكيماويات البترولية
+Qurayyat IPP PV	مشروع محطة القريات للطاقة الشمسية الكهروضوئية
+québec cap-and-trade system	نظام كيبيك للحدّ الأقصى والإتجار

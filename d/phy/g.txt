@@ -1,0 +1,254 @@
+g-factor	gالمعامل
+gadolinium	غادولينيوم
+gage pressure	ضغط المقياس
+gage pressure; gauge pressure	ضغط مقاس
+gain	كسب
+gain control	متحكِّم الكسب
+galaxy	مَجرَّة / مجرتنا / مجرّة
+Galilean frames of reference	جمل غاليليه المرجعية
+Galilean telescope	مقراب / مقراب غاليليه
+Galilean transformations	تحويلات / تحويلات غاليله
+Galileo telescope	مقراب
+gallium	غاليوم
+gallium arsenide	زرنيخيد الغاليوم
+gallon	غالون
+galvanic cell	خلية غلفانية
+galvanic electricity	كهرباء غلفاني
+galvanomagnetic effect	مفعول غلفاني مغنطيسي
+galvanometer	مقياس غلفاني
+galvanoscope	مكشاف غلفاني
+gamma	جاما، كاما
+gamma camera	مصوِّرة غاما
+gamma counter	عداد غاما
+gamma decay	التفكك غاما
+gamma gauge	مقياس غاما
+gamma quantum	كمّ كاما (ن)
+gamma radiography	تصوير إشعاعي كامي (ن)
+gamma ray	أشعة كَاما (ن)
+gamma ray absorption	امتصاص أشعة كاما (ن)
+gamma ray scattering	تبعثر الأشعة غاما
+gamma ray spectrum	طيف أشعة كاما، طيف أشعة جاما / طيف الأشعة غاما
+gamma rays	الأشعة غاما
+gamma source	مصدر كاما (ن)
+gamma spectrum	طيف كاما (ن)
+gap	فرجة
+gas	غاز
+gas adsorption	امتزاز الغاز
+gas amplification	تضخيم غازي
+gas breakdown	انهيار الغاز
+gas constant	تابث الغاز / ثابتة الغازات
+gas cooled reactor	مفاعل مبرد غازيا (ن) / مفاعل مبرَّد بالغاز
+gas degeneration	تَرَدِّي الغاز
+gas discharge laser	ليزر الانفراغ الغازي
+gas electrode	مسرى غازي
+gas flow radiation detector	مكشاف اشعاعي بغاز سار (ن)
+gas focusing	تجميع غازي
+gas jet	منفث غاز / مِنْفَث غاز
+gas law	قانون الغاز
+gas multiplication	مضاعفة غازية (ن)
+gas multiplication factor	عامل المضاعفة الغازية (ن)
+gas noise	ضجيج غاز
+gas pressure	ضغط الغاز
+gas ratio	نسبة الغاز
+gas refrigerator	ثلاجة غازية
+gas thermometer	محرار غازي / ميزان حرارة غازي
+gas triode	صمام ثلاجي غازي
+gas-filled tube	صمام غازي
+gaseous diffusion process	عملية انتشار غازي (ن)
+gaseous discharge	تفريغ غازي / انفراغ غازي
+gaseous film	رق غازي
+gaseous ionization	تأين غازي / تأيين غازي
+gasoline	بنزين / غازولين
+gasoline engine	محرك بنزين / محرك انفجاري
+gasometer	مقياس الغاز
+gate	بوّابة
+gauge	مقياس (ن)
+gauge pressure	ضغط المقياس
+gauge transformation	تحويل قياسي
+gauss	غاوس، كَاوس / غاوص
+Gauss eyepiece	عينة
+Gauss law	قانون
+Gauss principle of least constraint	مبدأ غاوص في القيد الأصغري
+gaussian approximation	تقريب غاوص
+gaussian curve	منحني غاوص
+gaussian distribution	توزّع غاوص
+Gaussian lens formula	صيغة العدسات
+Gaussian wave group	مجموعة أمواج
+Gay-Lussac's law	قانون غي- لوساك
+Geiger counter	عدّاد كَايكَر / عداد غايغر
+Geiger formula	صيغة كَكاوس
+Geiger Müller region	منطقة (ن)
+Geiger-Briggs rule	قاعدة غايغر-بريغس
+Geiger-Müller counter	عداد غايغر-مولر
+Geiger-Müller counter tube	أنبوب عداد (ن)
+Geiger-Nüttal's law	قانون غايغر-نوتال
+Geissler tube	أنبوب غيسلر
+gelling point	نقطة التصلّب
+general gas law	قانون الغازات العام
+general relativity	النسبية العامة
+general relativity theory	نظرية (ال...) النسبية العامة
+general theory of relativity	نظرية النسبية العامة
+generalized coordinates	إحداثيات معمَّمة
+generalized force	قوة معممة
+generalized momentum	اندفاع معمَّم
+generalized velocity	سـرعة معمَّمة
+generating function	دالة توليد (ن)
+generation of electrons and holes	توليد الإلكترونات والثقوب
+generation rate	معدل التوليد
+generation time	زمن التوالد (ن)
+generator	مولّد / مُولِّد
+generator AC	مولد تيار متناوب
+generator DC	مولد تيار مستمر
+genetic effect of radiation	تأثير وراثي للاشعاع (ن)
+geodesic	خط جيوديزي
+geodesic line	خط جيوديزي
+geomagnetism	مغنطيسية (ال...) الأرضية / مغنطيسية أرضية
+geometric attenuation	توهين هندسي (ن)
+geometric capacitance	مواسعة هندسية
+geometric distortion	تشوّه هندسي
+geometric series	متسلسلة هندسية
+geometrical construction	إنشاء هندسي
+geometrical optics	بصريات (ال...) الهندسية / ضوء هندسي؛ بصـريات هندسية
+geometry	هندسة
+geophone	مكشاف زلازل أرضية
+geophysical	جيوفيزيائي
+geophysical constant	ثابت جيوفيزيائي
+geophysics	جيوفيزياء (ال...) / جيوفيزياء
+geothermal energy	طاقة حرارية جوفية
+germanium	جرمانيوم
+germanium detector	مكشاف جرمانيومي (ن)
+Gev	جيغا إلكترون فلط
+ghost	شبح
+Gibbs function	دالة جيبس
+Gibbs-Dauhem equation	معادلة
+Gibbs-Helmholtz equation	معادلة
+giga	جيغا
+Gladstone-Dale law	قانون
+Glan prism; Glan-Thompson prism	موشور
+Glan spectrometer	مطياف / مِطياف غلان
+Glancing angle	زاوية اللمح، زاوية براغ / متممة زاوية الورود
+glass dosimeter	مقياس جرعات زجاجي
+glass electrode	مسرى زجاجي
+glass wool	صوف زجاجي
+glide plane	مستوى الانزلاق
+gliding plane	مستوي الانزلاق
+global criticality	حرج عام (ن)
+global positioning system	المنظومة العالمية لتحديد الموضع
+global warming	الاحترار العالمي
+globular lightning	برق كروي
+globular star cluster	عنقود نجمي كروي
+glove box	صندوق قفازات (ن) / صندوق قفازات
+glow	توهج
+glow discharge	تفريق توهجي / انفراغ توهجي
+glow potential	جهد التوهج
+gluon	غلُوون
+gold	ذهب
+gold-leaf electroscope	مكشاف كهربية ذو ورقتي ذهب
+goniometer	مقياس الزوايا
+goniophotometer	مقياس شدة الإضاءة الزاوي
+GPS	المنظومة العالمية لتحديد الموضع
+graded junction	وَصلة متدرّجة
+gradient	انحدار، تدرج / تدرُّج
+graduated cylinder	أسطوانة مدرجة
+graduation	تدرج / تدريج
+Graham's law of diffusion	قانون غراهام للانتثار
+grain	حبّة
+grain boundaries	حدود الحـُبيبات
+grain boundary	حدّ حُبَيبِيّ
+grain boundary relaxation	استرخاء الحدّ الحُبَيبِيّ
+grain of the emulsion	حُبيبة المستحلب
+gram	غرام
+gram-atom	ذَرَّة غرامية
+gram-calorie	سعرة غرام
+gram-equivalent	مكافىء غرامي
+gram-molecular volume	حجم جزيئي غرامي
+gram-molecular weight; gram-molecule	وزن جزيئي غرامي
+gram-molecule	جزيء غرامي
+gram-rad	راد غرامي (ن) / راد-غرامي
+grand unified theory	النظرية الموحَّدة الكبيرة
+granularity of matter	حبيبيّة المادة
+granulometric composition	تركيب حبيبي
+graph	رسم بياني
+graphical analysis	تحليل بياني
+graphical representation	تمثيل بياني
+graphite	غرافيت
+graphite reactor	مفاعل كرافيت (ن)
+graphite-moderated reactor	مفاعل مهدأ بالغرافيت
+graticule	شبكة خطوط / شبكة تدريجات
+grating	محزّز (ن) / شبكة
+grating spacing	خطوة الشبكة
+gravimeter	مقياس الثقالة
+gravitate (to)	انجذب
+gravitation	تثاقل
+gravitational acceleration	تسارع الثقالة
+gravitational attraction	تجاذب تثاقلي
+gravitational constant	ثابتة التثاقل الكوني
+gravitational energy	طاقة تثاقلية
+gravitational field	مجال الجاذبية / حقل تثاقلي
+gravitational flux	تدفق الجاذبية
+gravitational mass	كتلة الجاذبية / كتلة تثاقلية
+gravitational potential	جهد الجاذبية
+gravitational potential energy	طاقة كامنة تثاقلية
+gravitational radius	نصف قطر الجاذبية
+gravitational red shift	انزياح أحمر بالجاذبية / الانزياح التثاقلي نحو الأحمر
+gravitational units	وحدات الجاذبية
+gravitational waves	أمواج تثاقلية
+graviton	غرافيتون
+gravity	جاذبية / ثقالة
+gravity acceleration	تعجيل الجاذبية، تسارع
+gravity cell	خلية جاذبية
+gravity field	حقل الثَّقالة
+gray	غراي
+gray body	جسم رمادي
+gray scale	سلّم (ال...) الرمادي
+grazing ray	شعاع ملامس
+Green function	دالة غرين
+greenhouse effect	مفعول الدفيئة
+Gregorian telescope	مقراب غريغوري
+Grenz rays	أشعة
+grey filter	مرشح محايد
+grid	شبكة
+grid battery	نضيدة الشبكة
+grid bias	انحياز الشبكة
+grid bias resistance	مقاومة انحياز الشبكة
+grid condenser	مكثف الشبكة
+grid emission	انبعاث شبكي
+grid hum	همهمة الشبكة
+grid leak	تسرب شبكي / مسـرب شبكي
+grid modulation	تعديل شبكي
+grid plate transconductance	توصيلية مصعدية شبكية
+grid suppressor	كبت شبكي / كابت شبَكي
+grid sweep	ترجُّح شبكي
+grid sweep; grid swing	تأرجح الشبكة
+grid swing	ترجّح شبكي
+grid-driving power	قدرة دفع الشبكة
+gross calorific value	قيمة (ال...) الحرارية الاجمالية
+gross power	قدرة اجمالية (ن)
+gross production	انتاج اجمالي (ن)
+ground	أرض
+ground state	حالة (ال...) الدنيا (ن) / حالة دنيا
+ground wave	موجة أرضية
+grounding	تأريض
+group	زمرة
+group cross section	مقطع عرضي للزمرة (ن)
+group theory	نظرية الزّمرة / نظرية الزمر
+group velocity	سـرعة المجموعة
+grouping	تجميع
+growth	نموّ
+growth curve	منحني النمو
+growth of current	نمو التيار
+growth spiral	حلزون النمو
+growth step	خطوة النمو / مصطبة النمو
+Grüneisen constant; Grüneisen gamma	ثابت
+Grüneisen formula	صيغة
+guide (to)	يرشد (ن)
+gun	مدفع
+gun (electron…)	مدفع الكترونات
+GUT	النظرية الموحدة الكبيرة
+gyrator	عاكس طور انتقائي / عاكس طور
+gyrofrequency	تواتر سيكلوتروني
+gyromagnetic effect	دّوام مغنطيسي
+gyromagnetic effects	المفاعيل الجيرومغنطيسية
+gyromagnetic ratio	النسبة الجيرومغنطيسية
+gyroscope	دوَّام(حر) / جيروسكوب
+gyrostatic pendulum	نوّاس دوّامي

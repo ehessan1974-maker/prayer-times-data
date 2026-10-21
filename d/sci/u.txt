@@ -1,0 +1,1579 @@
+U (uranium)	يو
+U-(shaped) valley	وادٍ نُونيّ أو نِضْويّ
+U-bar	قضيبٌ نوني، قضيبٌ نِضْوِيّ
+U-bend = air trap	حَنِيَّة نُونيَّة
+U-boat	غوّاصة، غَوّاصة ألمانية
+U-bolt	قامِطَة رِكابيَّة؛ مِسمارٌ أو بُرغي نِضْوِي على شكل (U)
+U-curve	مُنْحَنٍ نُونيّ
+U-iron	قُضبانُ حديد على شكل (U)
+U-shaped distribution	تَوْزيعٌ عَلى شَكْل U
+U-tube	أنبوبٌ نُونِيّ أو نِضْويّ
+U-tube manometer	مِقياسُ ضَغطٍ نُونِيّ أو نِضْويّ
+U. Valley	واد بشكل U
+U.V. dosimeter	مِقْياسٌ جُرْعاتٌ فَوقَ البَنَفْسَجِيّة
+U1 RNA	رنا 'يو1'
+UA	وكيل المستخدم
+UART	مرسل/مستقبل لامتزامن عميم
+ubac	منحدر ظليل
+ubiety	مَوقِعٌ لَحظِيّ
+ubiquitous	مَوجودٌ في كلِّ مكان، واسِعُ الانتشار / واسع الانتشار
+ubiquitous carrier	حامِلٌ آنِيُّ الوُجود في مَوقِعين (كالإلكترون في ظاهِرة الأنفاق يظهرُ كأَنَّه آنيُّ الوُجود في جانِبَي الحاجِز)
+ubiquitous RNA	رنا كليّ الوجود
+udder	ضَرْع، دِرَّة، طِبْي
+udell	أُنبوب فَخَّاري مُضَيَّقُ الطَّرَف
+udometer	مِقياسُ المَطَر
+UDP	ميفاق برقية معطيات المستخدم
+UDT	نقل المعطيات المنتظم
+UFO (Unidentified Flying Objects)	أجسامٌ طائرة مَجهولة
+ugly weather	طقس مزعج
+UHF (Ultra-High Frequency)	تردُّدٌ فوقَ العالي
+UI	واجهة المستخدم
+uint area resistance	مُقاوَمَةُ وَحدَةِ المِساحة
+uintaite	يُوإنْتايت
+ulan	زند
+ulcer	قَرْحَة
+ulex	جولق
+ulexite	يُولِكْسَيت
+uliginal; uliginous,uliginose	نابت في الأماكن الرطبة
+ulinginous	مسترطب / حياة الكائنات الحية في المناطق الرطبة والمستنقعات
+ullage	الفراغُ القِمِّي؛ ألفَقْدُ بفعل التبخُّر أو النّز
+ullage float	سعة طافية
+ullage space	فَراغٌ قِمّيّ / فراغ قمي (في أعلى خزان)
+ullmannite	ألْمَنّايت
+ulmaceae	فصيلة بوقيصية
+ulmaria	ملكة المروج
+ulna	الزَّنْد، عَظْمُ الزَّنْد
+ULSI	تكامل فائق النطاق
+ulterior	أبعَدُ، أقصى؛ تالٍ؛ خَفِيّ
+ultimate	نِهائِيّ، أخير، مُطْلَق؛ أقصى / نهائي
+ultimate analysis	تحليلٌ مُطلَق / تحليل نهائي / تحليل (ال..) النهائي بتحديد العناصر
+ultimate base level	مستوى القاع النهائي
+ultimate bearing capacity	قُدرةُ التَحَمُّل القُصوى
+ultimate bearing pressure	ضغطُ التحميل الأقصى
+ultimate bending strength	مُقاومةُ الثَّنْيِ القُصوَى
+ultimate breaking strength	مُقاومةُ الكسْر القُصوى
+ultimate compressive strength	مُقاومةُ الانضِغاط القُصوى
+ultimate crushing strength	مُقاومةُ الهَصْرِ القُصْوى
+ultimate elongation	ألاستِطالة النهائية
+ultimate gain	ألكَسْبُ الأقصى؛ ألتضخيم النِّهائي
+ultimate landform	شكل الأرض في المرحلة النهائية لدورة حتية
+ultimate liability	مسؤولية قصوى
+ultimate limit switch	مِقلادٌ (مِفتاحٌ) حَدِّيّ أقصى (لِلمَصاعِد الكهربائية)
+ultimate load	ألحِمْلُ الأقصى / حمل أقصى
+ultimate operational capability	قُدرةُ التشغيل القُصوى
+ultimate period	ألفَترةُ القُصوى
+ultimate production	ألإنتاجُ الأقصى
+ultimate recovery	مُجْمَل الإنتاج
+ultimate resistance	ألمقاومةُ القُصوى
+ultimate set	ألوَضعُ النِّهائي
+ultimate shearing strength	مُقاوَمَةُ القَصِّ القُصوى
+ultimate stage	مرحلة نهائية / مرحلة (ال..) النهائية
+ultimate stage (of reaction)	ألمَرحلةُ النِّهائيَّة (من التفاعُل)
+ultimate strain	الانفِعالُ الأقصى
+ultimate strength	ألمقاومَة القُصوى؛ ألاستِعصاءُ الأقصى
+ultimate stress	الإجهادُ الأقصى / جُهد فاصم / جهد (ال..) الفاصم
+ultimate tensile strength	مُقاومةُ الشدِّ القُصوى
+ultimate tensile stress	إجهادُ الشدِّ الأقصى
+ultimately	أخيرًا، في النهاية
+ultimatum	إنذار أخير
+ultor = second anode	أَلْتور
+ultra	فَوْق / فوق
+ultra acidic rocks	صخور فوق حامضية
+Ultra DMA/33	[ميفاق] Ultra DMA/33
+ultra high frequency UHF	تردد ما بعد العالي، تردد فوق العالي
+ultra large crude carrier (ULCC)	ناقلة نفط عملاقة
+ultra violit	فوق بنفسجي
+Ultra Wide SCSI	[ميفاق] SCSI فائق العرض
+ultra-	بادئة بمعنى: فَوق، ما فَوق، فَوْت، ما بَعد، فائق، فائقُ الدِّقَّة
+ultra-abyssal depth	غور فوق سحيق
+ultra-acid	فَوق حامِضيّ، فوت حامضيّ
+ultra-acid(ic) rocks	صُخورٌ فَوق حامضيَّة
+ultra-large-scale integration	تكامل فائق النطاق
+ultra-rapid picture = slow-motion picture	صُورةٌ بالحرَكة البَطيئة
+ultra-red (or infra-red) rays	أَلأَشِعَّةُ دُونَ الحمراء
+ultra-red = infra-red	ما دُونَ الأحْمَر، دونَ الحَمراء
+ultra-short waves	أَمواجٌ شديدةُ القِصَر (طولُها أقلُّ من 10 أمتار وتردُّدُها أكثرُ من 30 مِيڠاهِرْتز)
+ultra-violet radiation	إشعاعٌ فَوقَ البَنَفْسَجِيّ
+ultrabasic	فَوق قاعِديّ، فَوت قاعِديّ
+ultrabasic rocks	صُخورٌ فوق قاعِديَّة / صخور فوق قاعدية
+ultracentrifuge	نَبّاذة، طارِدَة مركزيَّة فائقةُ السرعة
+ultradominant	سائد، فائِقٌ (على ما سِواه) / مسيطر
+ultrafactorial	فَوْقَ عامِلِيّ
+ultrafax	أَلْترافاكْس
+ultrafiche	جُذاذة دُونَ الصُّغريَّة / بطاقة [«فيشة»] صغرية فائقة الكثافة
+ultrafilter	مُرَشِّحة فائقةُ الدِّقَّة، مُرَشِّحٌ فائق / فَوْقَ مُرَشِّحة (مُرشِّحةٌ أعْظَمِيَّة)
+ultrafiltration	تَرْشِيحٌ فائق
+ultrafine powder	مَسحوقٌ فائقُ الدِّقَّة
+ultrafining	تكريرٌ فائق، تكريرٌ بالغُ النقاوة
+ultraforming	تَهذيبٌ فائق، تهذيبٌ عالي الدرجة (للنفط المُنخَفِض الأُوكتان)
+ultrahaline	فَوْق مِلْحيّ
+ultrahigh frequency	تردّدٌ فوقَ العالي
+ultrahigh resistance	مُقاومةٌ فَوق العالية
+ultrahigh speed	سُرعةٌ عاليةٌ جِدًّا
+ultrahigh vacuum	خواءٌ فائقُ التفريغ (ضَغْطُه حوالى أو دُون 10⁻¹⁰ مليمتر زئبق)
+ultrakaline	فوق قلوي
+ultralight alloys	سبائكُ بالِغةُ الخِفَّة
+ultralight computer	حاسوب خفيف
+ultralinear amplifier	مُضَخِّمٌ فائِقُ الخَطِّيَّة
+ultralow frequency	تَرَدُّدٌ دُونَ الخَفيض
+ultramafic rocks	صُخُورٌ فوق مافيَّة (مغنِسيوميَّة حَديديَّة بنسبة 90%)
+ultramaphite	صخر فوق قاعدي / صخر فوق قاعدية
+ultramarine	أَلترامارِين، لازَوَرْد
+ultrametamorphism	تَحَوُّلٌ فائِقُ الدقة
+ultrametamorphism; anatexis	فوق استحالي
+ultrametric	فَوْقَ دالَّةِ مَسافة (فَوْقَ مِتْرِك)
+ultramicro earthquake	هزة أرضية مجهرية
+ultramicrobalance	ميزانٌ فائقُ الدِّقَّة
+ultramicrochemistry	الكيمياءُ فَوتُ الصُّغريَّة
+ultramicrometer	مِيكرُومِتر بالغُ الدِّقَّة
+ultramicron	جُسيْم دُون المَيْكرُون (قُطرُه بين 2 وَ50 أنڠستروم)
+ultramicroscope	ألْتراميكروسكوب، مِجْهَرٌ فائق، مِجْهَرُ السَّاحَةِ المُظلِمَة (لِدراسةِ الجُسَيْمات المُستَعْلَقة في سائل)
+ultramicroscopic	دُونَ المِجهَريّ، فَوْت مِجْهَريّ
+ultramicrotome	مِشراحٌ فائقُ الدِّقة
+ultramodern	فَوق عَصْريّ
+ultraphonic	فَوق صَوتيّ
+ultraphotic rays	أشِعَّةٌ فَوْت ضَوئيَّة
+ultrapure	فائقُ النقاوة
+ultrasaturated	فوق مشبع
+ultrasaturated solution	محلول فوق مشبع
+UltraSCSI	[مِقْيَس] SCSI فائق
+ultrasonic	فَوقَ السَّمعِيّ، فَوق الصَّوتِي / فوق صوتي
+ultrasonic (or supersonic) frequency	تَرَدُّدٌ فوق سمعيّ (أكثر من 20 كيلوهِرْتْز)
+ultrasonic cleaning	تَنْظِيفٌ فَوق صَوتيّ
+ultrasonic coagulation	تَخَثُّر (أو تَخثيرٌ) بالأمواجِ فوق السمعيَّة
+ultrasonic communication	اِتِّصالٌ فَوق صَوتيّ
+ultrasonic crack detection	كشف الشقوق بالتموُّجات فوق السمعيَّة
+ultrasonic delay line	خَطُّ تعويقٍ فوق سمعيّ، خطُّ التأخير فوق الصوتي
+ultrasonic depth finder	مِعماقٌ فَوق صَوتيّ / مسبار عمق فوق سمعي
+ultrasonic detector	مِكشافُ التمَوُّجات فوق السمعيَّة
+ultrasonic dispersion	تَشتيتٌ بالتمَوُّجات فوق السمعية
+ultrasonic drill	ثَقّابَةٌ فوق سمعيّة
+ultrasonic drilling	حَفرٌ (تَرَدُّدِيٌّ) فوق سَمعيّ
+ultrasonic echo sounder	مجس أعماق فوق صوتي
+ultrasonic flaw detection	اِكتِشافُ الخَلَل بالتمَوُّجات فوق السمعية
+ultrasonic generator	مُولِّدُ تموجاتٍ فوق سمعية
+ultrasonic inspection	فَحصٌ بالتموُّجات فوق السمعية
+ultrasonic leak detector	مكشافُ سُروبٍ فوق سَمعيّ
+ultrasonic light diffraction	حُيودُ الضوء بالتموُّجات فوق السمعية
+ultrasonic light modulator	مُضَمِّنٌ ضَوئيّ فَوق سَمْعيّ
+ultrasonic machining	التشكيلُ بِفَوق السَّمعيَّات
+ultrasonic methods of testing	طُرُق الاختِبار بالتموُّجات فوق السمعية
+ultrasonic mode changer	مُغَيِّر النَّسَقِ فوق السمعي
+ultrasonic plating	تَصْفيحٌ فَوق صَوتيّ
+ultrasonic probe	مِسبارٌ فَوق صَوتيّ
+ultrasonic receiver	مُستقبِلُ الأمواجِ فوق السمعية
+ultrasonic relay	مُرَحِّل فَوق صوتيّ
+ultrasonic soldering	اللِّحامُ (المصحوبُ) بالتموُّجات فوق الصَّوتيَّة (في لِحام الألومنيوم)
+ultrasonic speeds	سُرعات فوقَ الصوتيَّة (رَقْمُها الماخي بين 1 وَ 5)
+ultrasonic storage cell	مِرْكَمٌ فَوق صَوتيّ
+ultrasonic stroboscope	مِصباحٌ رَعّاش (استروبُوسكوب) فوق سمعيّ (لِتَقْطيع الضوء)
+ultrasonic switch	مِقلادٌ فَوق صَوتيّ
+ultrasonic testing	اِختبارٌ فَوق صَوتيّ
+ultrasonic thickness gauge	مِقياسُ ثَخانَةٍ فَوق صَوتيّ
+ultrasonic transducer	مِحوالٌ فوق صَوتيّ
+ultrasonic transmitter	مُرْسِلٌ فَوق سَمعيّ، مُرسِلُ تموُّجاتٍ فوق صَوتيَّة
+ultrasonic waves	أمواجٌ فَوق سَمعيّة
+ultrasonic welding	لِحامٌ فَوق صَوتيّ
+ultrasonic whistle	صافِرة فَوق سَمعيَّة
+ultrasonics	عِلْمُ ما فَوق السمعيّات، مَبَْحثُ الفَوق صَوتيّات
+ultrasonography	كَشفُ الخَلَلِ (في المعادن) بالتموُّجات فَوق الصَوتيّة
+ultrasound	صَوتٌ فَوق سَمعيّ (لِلتشخيصات فَوق الصَوتيّة)
+ultraspeed welding	لِحامٌ فائقُ السرعة
+ultraspherical polynomials	حُدودِيَّاتٌ فَوْقَ كُرَوِيَّة
+ultraviolet	فَوق البنَفْسَجيِّ؛ إشعاعٌ فَوق البنَفْسَجيّ / فوق البنفسجي
+ultraviolet (radiation) lamp	مِصباحُ الأشِعَّة فَوق البنَفْسَجيَّة
+ultraviolet (radiation) meter	مقياس الإشعاع فوق البنفسجيّ
+ultraviolet absorbing filter	مرشٍح امتصاص فوق البنفسجي
+ultraviolet absorption spectrometry	قياسُ طَيفِ الامتِصاص للأشعة فَوق البنَفْسَجيَّة
+ultraviolet cell	خليةٌ (كهرضوئية) فَوق البنَفْسَجيَّة
+ultraviolet lamp	مِصباحُ الأشِعَّة فَوق البنَفْسَجيَّة
+ultraviolet light = ultraviolet radiation	الإشعاع فَوق البنَفْسَجيّ
+ultraviolet microscope	مِجْهَرٌ بالأشعة فَوق البنَفْسَجيَّة، مِجْهَرٌ فَوق البَنَفْسجي
+ultraviolet photography	التصويرُ بالأشِعَّة فَوق البنَفْسَجيَّة
+ultraviolet radiation	الإشعاعُ فوقَ البنفسجيّ / إشعاع فوق البنفسجي
+ultraviolet rays	الأشِعَّة فوقَ البنفسجيَّة (إشعاعاتٌ غير مرئية طولُها الموجِيّ بين 3850 وَ200 أنڠستروم) / أشعة فوق البنفسجية
+ultraviolet spectrometer	مِطيَفٌ فَوق بَنفْسَجِيّ
+ultraviolet spectrum	طَيفُ ما فَوق البنَفْسَجي
+ulva lactuca	خس البحر
+UMA	منطقةُ ذاكرةٍ عليا
+UMB	كتلةُ ذاكرةٍ عليا
+umbel	خَيْمة، اِزهِرار خَيميّ / بنية شبه مظلية / نورة، خيمية
+umbelliferae	فصيلة الخيمية
+umber	تُرابٌ بُنّيّ (غنِيّ بأكاسيدِ الحديد والمنغنيز)؛ صِبْغٌ بُنِّيّ / أمبر
+umbilic	نُقْطةٌ سُرِّيَّة (نُقْطةٌ وُسْطَى)
+umbilical connector	مُوَصِّلٌ سُرِّيّ؛ وُصلَةُ الكَبْل السُّري (بخزّانات الصاروخ)
+umbilical cord	حَبْلٌ سُرِّيّ، السّرَر؛ كَبْلٌ سُرِّي / حبل سري / حبل التغذية
+umbilical point	نُقْطةٌ سُرِّيَّة (نُقْطةٌ وُسْطَى)
+umbilicate mediterramean gibbula	صدفة قمية صرية
+umbilicus	سُرَّة / سرة
+umbra	ظل
+umbra (pl. umbrae)	ظِلّ، سُوَيْداء الظِّل
+umbrella	مِظَلّة؛ مِظَلِّي، على شَكلِ مِظَلَّة
+umbrella antenna (or aerial)	هَوائيّ مِظلِّي
+umbrella insulator	عازِلٌ مِظَلِّي (بشكلِ مِظلَّة)
+umbrella roof	سَقفٌ مِظَلِّيّ
+umbrella squid	حبار مظلي
+umbrella-tree	مغنولية مظلية
+Umkehr effect	مَفْعُولُ أمْكِير
+Umount	فصْل
+umpire	حَكَمٌ، مُحَكَّم؛ حَكَمَ، فَصَل (في نِزاع)
+Umrah Performer	المعتمر
+un-	بادِئة بمعنى: غَيْر (مع الصِّفات)؛ عَكَسَ، أزالَ (مع الأفعال)
+unable	عاجِز، غيرُ قادِر، عَديمُ الأهلية / عدم القدرة
+unacceptable port	ميناء غير مقبول
+unaccommodated	غيرُ مُهَيَّأ، غيرُ مُجَهَّز (بوسائِلِ الراحة)
+unaccompanied baggage	أمتِعةٌ غيرُ مُرافَقة (لا يُصاحِبُها راكِب)
+unaccounted for	غيرُ مُعَلَّل أو مُفَسَّر
+unaccustomed	غيرُ مُعتاد
+unadulterated	غيرُ مَذِيق، صِرْف
+unaffected	غيرُ مُتَأَثِّر؛ غير مُتَكَلَّف
+unaflow (or uniflow) engine	مُحَرِّكٌ (بخاريٌّ) أُحادِيُّ اتجاه الدَّفْق
+unaided eye	العَيْنُ المُجَرَّدة / عين(ال..) المجردة
+unalienable property	مِلْكٌ غيرُ قابلٍ لِلتحويلِ
+unalloyed	غيرُ مَشوب، لا أُشابِيّ، صِرْف
+unalloyed metals	فلزات خالصة، فلزات بدون شوائب
+unaltered	غيرُ مُتَغَيِّر، ثابِت / غير متبدل
+unamplified	غَيْرُ مُضَخَّم، غيرُ مُعَزَّز (بتَضْخِيمٍ إِضافيّ)
+unamplified feedback	تغذيةٌ مُرتَدَّة غير مُعَزَّزة (بتَضْيخمٍ إضافيّ)
+unanimity	إجماع
+unanimous	إجماعيّ
+unannealed casting	مَصْبُوبةٌ غير مُلَدَّنة
+unarmed	غير مُسَلَّح، أعزَل؛ عَديمُ الأشواك؛ مُؤَمَّن، غيرُ مَصْليّ
+unarmoured	غيرُ مُدَرَّع، غيرُ مصَفَّح
+unarmoured cable	كَبْلٌ غيرُ مُدَرَّع
+unary	أحادي
+unary operation	عمليَّة أُحاديّة / عَمَلِيَّةٌ أُحادِيَّة
+unary operator	مؤثّر أحادي
+unary system	نِظامٌ أُحادِيُّ المُرَكِّبَة
+unassembled	مُفَكَّك
+unassisted	غيرُ مُعاوَن، دُونَ مُساعِد
+unattackable	مَنِيع / منيع
+unattended light ship	سفينة مُنارة بدون طاقم
+unattended machinery spaces	آلات دون عمال
+unattended time	زَمَنُ التوقُّف (لِغير أعمال الصِّيانة)
+unauthorized	غيرُ مُفَوَّض؛ غير مُرَخَّصٍ به
+Unauthorized Access	نفاذ غير مسموح به
+Unauthorized User	مستخدِم غير مخوَّل
+Unavailable	غير متوفر
+unavailable energy	طاقة غيرُ مُتاحَة
+unavailable moisture; unavailable water	مياه مَنِيعة، ماء منيع / مياه منيعة
+unavoidable delay	تأخيرٌ قَهْريّ
+Unawareness	عدم إدراك
+unawares	على حين غِرَّة، لا شُعوريًّا
+unbaffled	غَيْرُ مُرتَبِك؛ غيرُ مُعاق (بالحَوَاجِز)؛ عَدِيمُ عَوارِض التوجيه
+unbalance	عدمُ التوازُن، اللاّتوازُن؛ أَخَلَّ بالتوازُن
+unbalance factor	عاملُ اللاتوازُن (في نِظام نَقْل ثُلاثيِّ الأطوار)
+unbalanced	غيرُ مُتوازِن، غير مُعادَل، مُخْتَلُّ التوازُن
+unbalanced circuit	دارةٌ غيرُ مُتوازِنة
+unbalanced gametes	أمشاج غير متوازنة
+unbalanced line	خطٌّ غيرُ مُتوازِن (بالنسبة للأرض)
+unbalanced load	حِمْلٌ غيرُ مُتوازِن
+unbalanced network	شَبَكَة غيرُ مُتوازِنة
+unbalanced system	منظومةٌ غيرُ مُتَوازِنة
+unbalances variation	تغاير غير متكافىء
+unballasting	تفريغ صابورة، تفريغ سفينة
+unbar	فَتَحَ، رَفَعَ الرِّتاج؛ أزالَ الحَاجِزَ (أو الحواجز)
+unbased tube	صِمامٌ لا قاعِديّ
+unbattening	فَكُّ العَوارِض (أو اللاّطات)
+unbearable	لا يُطاق، لا يُحتَمَل
+unbecoming	غيرُ لائق
+unbedded	غير مطبق
+unbedded deposit	قُرارة لا تَطَبُّقيَّة
+unbiased	غيرُ مُتَحَيِّز، غير مُنْحاز
+unbiased error	خَطَأٌ عَرَضيّ
+unbiased estimate	تَقْديرٌ غَيْرُ مُنْحاز
+unbitt (to)	فك الرباط، حل حبلا (من على مربط)
+unblanking	إزالةُ الحَجْبِ
+unbleached	غيرُ مُقَصَّر، غيرُ مُبَيَّض
+unbolted	مفتوح، مَرفوعُ الرِّتاج؛ غيرُ مَنْخُول
+unbound charge	شِحْنَة طَليقة
+unbounded	غيرُ مَحدود / غير محدود
+unbounded function	دالَّةٌ غَيْرُ مَحْدودة
+unbounded manifold	مُتَنَوِّعةٌ غَيْرُ مَحْدودة
+unbounded set of real numbers	مَجْموعةٌ غَيْرُ مَحْدودةٍ مِنَ الأعْدادِ الحَقيقِيَّة
+unbraced	غير مُكَتَّفٍ بالشُّكُل
+unbreakable	لا كَسُور
+unbroken	غير مُنْقَطِع، مُتَواصِل؛ صَحيح
+unbroken ground	أرضٌ بِكْر
+unbuffered	عديم الصِّوان
+unbuffered output	خَرْجٌ غيرُ مُدَرَّأ
+unbundle	يفك [الصرّ]
+unbundled	غير مصرور
+unburn	فكَّ الأكسدة
+unburnable	لا حَروق
+unbuttoning	فَكُّ الهياكل الفولاذية (بِقَصِّ رُؤوس البِرشام)
+UNC	اصطلاح التسمية المُوَحَّد
+uncalcined	غير مُكَلَّس
+uncalibrated	غيرُ مُدَرَّج، غيرُ مُعايَر (وبالتالي غيرُ دَقيق)
+uncambered	غيرُ مُحَدَّب، لااِحديدابيّ
+uncanned fuel element	عُنصُرُ وَقودٍ غير مُعَلَّب
+uncap	نَزَعَ الغِطاء
+uncased	غير مُغَلَّف، مَكْشوف
+uncased well	بِئْرٌ غيرُ مُغَلَّفَة، بِئْر غيرُ مُنَبَّبَة
+uncertain	مَشكوكٌ فيه، غير مُؤكَّد، غير مُحَقَّق؛ مُتَرَدِّد، مُتَقَلِّب
+Uncertain Evidence	دليل غير مؤكد
+uncertainty	رِيبة، شُبْهة، عَدَمُ التَحَقُّق (لِنَقْصِ المعلومات)
+uncertainty principle	مَبْدَأُ الرِّيبَة، مَبدأُ اللاّمُحَقَّقِيَّة
+unchangeable	ثابِت، لا يتَغَيَّر
+unchanged	غيرُ مُتغيِّر، ثابِت / غير مغيّر
+uncharged	غير مَشحون
+uncharted	غير مبين على الخريطة
+unciform	خُطَّافِيُّ الشكل
+uncinus ((unc))	عُقافيّ
+unclamp	أزالَ القَمْط، قطعَ أو فصَلَ القمط
+unclassified	غير مُصَنَّف
+unclutch	فَصَلَ القابِض
+unco-ordinated	غيرُ مُنَسَّق
+uncoated filament	فَتيلة مَكشوفة
+uncoil	حَلَّ، فَكَّ (اللفّ)، اِنحَلَّ، انفكَّ (اللفّ)
+uncoiler	مِبْسَطة
+uncoiling of DNA molecule	حل التفاف جزيء دنا
+uncoloured	عديم اللون
+uncombined	غيرُ مُتَّحِد، طَليق
+uncommissioned officer	ضابطُ صَفّ
+uncommon	غير مألوف؛ نادِر
+uncompensated	غيرُ مُعادَل، غيرُ مُوازَن
+uncompress	يَفكُّ الضغطَ
+uncompromising	مُتَصَلِّب، عَنيد
+uncondensed	غير مُتكاثِف
+unconditional	غير مَشْروط، بلا قيدٍ أو شَرط
+unconditional branch	تفرع غير مشروط
+unconditional convergence	تَقارُبٌ غَيْرُ مَشْروط
+unconditional inequality	متباينة غير مشروطة / مُتَبايِنةٌ لاشَرْطِيَّة
+unconditioned reflex	مُنْعَكَسٌ لا شَرْطِيّ
+unconfined	غير مضغوط
+unconfined aquifer	مُستودَعُ ماءٍ أرضي غير محصور / طبقة مائية غير مضغوطة، طبقة مائية حرة
+unconfined ground water	مياه جوفية ذات مستوى حر
+unconformability of stratification	عدم توافق طبقي
+unconformable	غيرُ مُتَوافِق، لا تَوافُقيّ
+unconformable stratification	تطَبُّقٌ عَديمُ التوافُق، تطَبُّقٌ لا توافُقِيّ
+unconformity	تَبَايُنٌ طِباقيّ، لا تَوافُق (الطبقات) / لا توافق
+unconformity ( angular)	عدم توافق زاو
+unconformity (angular...)	عدم توافق زاويّ
+unconformity (local)	عدم توافق محلي
+unconformity (local...)	عدم توافق محلي
+unconformity trap	مصيدة عدم توافق
+unconscious	فاقِدُ الوَعي، غائبٌ عن الوَعْي؛ لا شُعوريّ
+unconscious selection	انتخاب موجه
+unconsolidated	غير متصلّب / غير متصلب
+unconsolidated formation	تَكْوِينٌ غير مُدَمَّج
+unconstrained optimization problem	مَسْأَلةُ اسْتِمْثالٍ غَيْرِ مُقَيَّد
+uncontrollable	لا يُمكِنُ التحكُّم به
+uncontrolled mosaic	موزاييك خام
+uncontrolled nuclear transformation	تَحَوُّلٌ نَوويٌّ غير مُتحكَّمٍ فيه
+uncork	نَزَعَ السِّدادة (أو الفِلِّينة)
+uncorrected	غيرُ مُصَحَّح
+uncorrected lens	عَدَسَة غيرُ مُصَحَّحة
+uncorrected time	الوَقتُ المحلِّي
+uncorrelated random variables	مُتَغَيِّرانِ عَشْوائِيَّانِ غَيْرُ مُرْتَبِطَيْن
+uncountable set	مَجْموعةٌ غَيْرُ عَدودة
+uncouple	فَكَّ التقارُن، فَرَّقَ، فَصَلَ
+uncoupling	فَكُّ التقارُن، فَصْلُ التعشيق
+uncoursed	لا مِدماكيّ
+uncover	كَشَفَ، أزاحَ الغِطاء (عن)
+uncovered	مكشوف
+uncowled engine	مُحَرِّك عديمُ الغِطاء
+uncrystalline	لا بلّوري، غير مُتَبَلِّر
+uncrystalline; amorph	غير متبلور
+unctuous	زَيتيّ، دُهنيّ؛ زَلِق
+unctuous clay; soapy	طين دهني، طين لزق
+uncut	غيرُ مُهَنْدَم؛ غير مَقطوع
+undalated; undulating	متموج
+undamaged vessel	سفينة غير معطوبة
+undamped oscillations = continuous oscillations	ذَبذباتٌ غيرُ مُضاءَلة، ذبذباتٌ مُستَمِرَّة (أو متواصِلَة)
+undamped waves = continuous waves	أمواجٌ غير مُضاءلة؛ أمواجٌ مُستَمِرَّة
+undated; undulating	متموج
+undation (or undulation) theory	نَظَريَّةُ التمَوُّج
+undecagon	ذو الأحَدَ عَشَرَ ضِلْعًا / أَحَدَ عَشَرِيِّ الأضْلاع
+undecahedron	مُتَعَدِّدُ وُجوهٍ أَحَدَ عَشَرِيّ
+undecillion	أندِسليون
+undecked vessel	سفينة بدون سطح، قارب مكشوف
+undecomino	دومينو أَحَدَ عَشَرِيّ
+undecomposable	لا يَنْحَلُّ، غيرُ قابلٍ للانحِلال
+undefined	غير مُحَدَّد / غير معرّف
+undefined hybrid	هجين، غير محدد، مبهم
+undefined term	حدّ غير معرّف
+undeflected beam	حُزمةٌ غيرُ مُنحَرِفة
+undelete	استرداد المحذوف / 1 يستردُّ المحذوف ؛ 2 يستردُّ المحذوف
+undeliverable	غير قابل للتسليم
+undemagnetizable	لا يَفقِدُ مغنطيسيَّتَه
+Undeniable Signature	توقيع غير قابل للإنكار
+undependable	لا يُرتَكَنُ إليه، غيرُ جَديرٍ بالثِّقة
+under construction	قَيْد الْبِنَاء
+under dominance	قلة السيادة
+under full sail; with all sails set	بكامل الأشرعة، مبحر بكل الأشرعة
+under keel clearance	عمق(ال..) تحت الأرينة
+under limb	جانب (ال..) التحتي للطية المضطجعة
+under replicated	متدني التضاعف
+under sail	مبحر بالأشرعة، مسير بالأشرعة
+under winding	التفاف عكسيّ، حل الحلزنة
+Under-5 Mortality Rate by Sex (per 1,000) Live Births	معدل وفيات الأطفال دون الخامسة حسب الجنس لكل ألف مولود حي
+under-pass	مَمَرٌّ سُفليّ
+under-rate	بَخَسَ التقدير
+under-reamer	مُوَسِّعٌ قاعي
+under-reaming	تَوسيعُ تَجويفِ القاعِدة
+under-reinforced	(خَرَسانة) ناقِصةُ التسليح
+under-running	مارٌّ (أو جارٍ) تَحتَ شيءٍ آخر؛ قاصِرٌ لِنَقْصِ الڤلطيَّة
+underage	قاصِر، دونَ السِّن القانونية
+underarm crutch	عُكّازٌ إبطيّ
+underbed	طَبَقَةٌ سُفليَّة (أو تَحتانيَّة)
+underbid	عَرضَ ثَمَنًا أقَلَّ (من مُنافسيه)؛ عَرْضٌ بَخْس
+underbrush	هَشيرُ الحِراج
+underbunching	تَحَزُّمٌ ناقِص
+undercarriage	العَرَبةُ السُّفْلَى، جِهازُ الهُبوط
+undercarriage position indicator	مُبَيِّنُ وَضْعِ العربةِ السُّفْلَى
+undercast	مَسْلَكُ تَهْوِيَةٍ تَحْتِيّ؛ سَحابة تحتيَّة
+undercharge	شِحنة أو حُمُولة ناقِصة؛ رَسمٌ أقَلّ من المُعتاد؛ شَحَنَ بأقلّ من المُناسِب
+underclay	فِراش طينيّ / فراش الطبقة الفحمية
+undercoat	طَلْيَة سُفلِيَّة (أو تَحتانية)
+undercolor separation	فرز تحت لوني
+undercompensation	نَقْصُ التعويض؛ نَقصُ المُعادَلة
+undercool	بَرَّدَ إلى ما دُونَ درجةِ التجمُّد
+undercooling = surfusion	فرطُ التبريد
+undercrossing	تَقاطُعٌ سُفليّ
+undercuring	تَصَلُّب ناقِص
+undercurrent	تيَّار سُفليّ
+undercut	قَطَعَ سُفلِيًّا؛ قَطْعٌ سُفليّ؛ جَيْبٌ سُفليّ
+undercutting	قَطْعٌ سُفْلِيّ؛ تَقَوُّض؛ نَخَر سُفلِيّ / نخر سفلي
+underdamped instrument	جهازُ قياسٍ ناقِصُ المُضاءلة
+underdamping	مُضاءَلَة أو تَخْميد ناقِص
+underdetermined (adj)	ناقِصةُ التَّحْديد
+underdeveloped	نَاقِصُ التظهير؛ ناقِصُ التَطَوُّر، مُتَخَلِّف النمُوّ
+underdeveloped countries	البِلادُ النامِيَة (أو المُتَخَلِّفة اقتِصاديًّا)
+underdeveloped negative	سَلْبِيَّةٌ ناقِصَةُ التظهير
+underdevelopment	إظهار ناقص
+underdone bell	جَرَسٌ تحتيُّ الآليَّة
+underdrain	مَصرفٌ سُفليّ
+underestimate	بَخَسَ التقدير؛ اِستَخَفَّ بِــ؛ تَقدير بَخْس
+underexposed	ناقِصُ التعريض (للضوء)
+underexposure	تَعريضٌ ناقِص (للضَّوء) / تعريض ناقص
+underfeed stoker	مُغَذٍّ سُفلِيّ، وَقَّادٌ مِيكانيكي سُفلِيُّ التغذِية
+underfit stream	نهر شارد
+Underfitting	فرط التعميم
+underfloor heating	التدفِئة تحت الأرضيّة (بتمديداتٍ تحتَ أرضيَّة المَبنى)
+underflow	اِنسياب سُفليّ؛ غَيْض / غيض
+underflow exception	استثناء [ناجم عن] غيض
+underfold	طية ثانوية
+underframe	هَيْكَلٌ سُفليّ؛ مَحمِلُ (أو حَامِلَةُ) بَدَنِ السيَّارة
+undergettings	دعائِمُ مُؤقَّتَة
+undergo	تَحَمَّلَ، عانَى؛ تَعَرَّضَ أو خَضَعَ لِـــ (اختبارٍ أو عمليةٍ)
+underground	تَحت أرضيّ؛ سِرِّيّ؛ جَوفيّ، باطِنيّ؛ قِطارُ النَّفَق؛ سِكَّةُ حديدٍ تحت الأَرض؛ حركة سِرِّيَّة
+underground burst	تَفْجيرٌ تحت أرضي
+underground cable	كَبْلٌ تَحت أرضيّ
+underground collector	مُجَمِّعٌ تَحت أرضيّ (للتيار)
+underground corrosion	تَحَاتٌّ جَوفيّ (أو تحت أرضيّ) / تآكل باطني
+underground dam	سَدٌّ باطنيّ (أو تحت أرضيّ)
+underground distribution	تَوزيع تَحت أرضيّ
+underground drainage	تصريف باطني
+underground furnace	فُرنٌ تَحت أرضيّ؛ فُرن تَهوية (في مَنْجَم)
+underground gasification	التَغويزُ الجَوفي
+underground haulage	نَقْلٌ تحت أرضيّ
+underground lake	بُحَيرة جَوفيَّة
+underground nuclear explosion	تَفجيرٌ نَوَوِيّ تحتَ سطح الأرض
+underground organ	عضو أرضي، تحت أرضي
+underground pipe	ماسُورَةٌ تَحتَ الأرض
+underground railway	سِكَّةُ حَديدٍ تحت الأرض
+underground storage	تخزين جَوفي
+underground strata	طبقاتٌ جَوفِيَّة
+underground survey	مَسحٌ باطِنيّ (أو جَوفيّ)
+underground tank	صِهريجٌ تَحتَ (سَطح) الأرض
+underground volatilization	التصعيد الجوفي
+underground water	مِياهٌ جَوفيَّة (أو باطِنيَّة) / مياه باطنية، ماء باطني / مياه باطنية
+undergrowth	ألغِطاءُ الحَيّ (السُّفلي) / غطاء حي
+underhand stoping	تَعْدينٌ بالتَدرُّج نُزولاً
+underlap	تَضَيُّق الصُّورة الجانبيّ
+underlay	بَطَّنَ أو زَوَّدَ بطَبقة سُفلية؛ رَفَعَ (الأحرفَ المَرصوصة) بِطَبَقَةٍ سُفليَّة؛ طَبقةٌ سُفلية أو تَحتانية؛ مَيْلُ الطبقة عن الخط العَمُودي / امتداد عرق تحت السطح / امتداد عرق أو راسب تحت السطح، ميل العرق او الراسب عن الوضع العمودي
+underlay lode	عرق مائل
+underlay shaft	مَهْواةٌ تَحتيَّة
+underlayment	بطانةُ الأرضيّة
+underlie	سَنَدَ أو دَعَم (من الأسفل)؛ شَكَّلَ الأساس؛ تَلا سُفْلِيًّا
+underline	يسطر [تحت الكلمات] / سَطَّرَ
+underloaded	ناقِصُ الشَّحن
+underlying	تَحْتِيّ، سُفليّ؛ أساسيّ، قاعِديّ؛ كامِن / تحتي
+underlying bed	ألطبقةُ السُّفليَّة؛ طبقةُ الارتِكاز / طبقة تحتية
+underlying graph	بَيانٌ تَحْتِيّ
+underlying rock	صخر تحتي، صخر الأساس
+underlying rocks	صُخور القاعِدة
+underlying set	مَجْموعةٌ تَحْتِيَّة
+undermanned ship	سفينة ناقصة الطاقم
+undermine	قَوَّضَ، هَدَمَ
+undermodulation	تَضمينٌ ناقِص
+Undernet	[شبكة] Undernet
+underpin	دَعَمَ الأساس
+underpinning	تَدعيمُ (أو اعادةُ بِناء) الأساس (دونَ الإضرار بالمَبْنَى)
+underpitch vault	عقدٌ مُصالبٌ ناقص وغير متكافئ
+underplant(to)	غرس في الطبقة
+underplanting	نَقْصُ المُعَدَّات المَكَنِيَّة
+underpoled copper	نُحاسٌ ناقصُ الصُّعُدِ المُخْتَزِلة
+underpopulated	قليلُ السُّكان
+underpopulation	غَيضُ السُّكّان
+underpressure	ضَغطٌ ناقِص أو خَفيض (أي دونَ المُعَدَّل)
+underproduction	نَقْصُ الإنتاج، غَيْضُ الإنتاج
+Undersampling	خفض العيِّنات
+undersaturated	دُونَ المُشْبَع، تحتَ الإشباع
+undersaturated rocks	صُخورٌ تحتَ المُشبَعة / صخور تحت المشبعة
+underscore	شَرْطة تحتية / تسطير سفلي
+undersea	تحت بحري
+underset	دَعَمَ (الأساسَ)، رَكَّزَ بِدعْمَةٍ سُفْلِيَّة
+underset; undertow	تيار تحتي معاكس (للتيار السطحي)
+undershoot	رَمَى دونَ الهَدَف، قَصَّرَ عن؛ قُصورٌ عن الهَدَف
+undershot wheel	سانِيَة سُفليَّة الدفع
+underside	ألجانِبُ السُّفليّ / جانب تحتي، جدار تحتي / جانب (ال..) السفلي أو التحتي، جدار (ال..) السفلي
+undersize	صَغيرُ الحَجْم (أو القياس)، أصغرُ من المُعدَّل؛ حَجمٌ صغير
+underslung	مُعَلَّقٌ تحتَ المِحور، سُفليُّ التعليق
+undersoil	ألتُّربةُ السُّفلية / تحت التربة
+understratum	طبقة سُفلية / طبقة تحتية
+understratum (pl. understrata)	طبقة (ال..) أو التحتية
+understructure	إنشاءٌ سُفليّ
+undersun	صُورةُ الشَّمْس
+undersurface	سَطْحٌ سُفْليّ
+undertake	تَعَهَّدَ، اِلتَزَمَ، أخذَ على عاتِقِهِ؛ شَرَعَ، باشَر
+undertaking	تَعَهُّد، اِضطِلاع؛ مُقاوَلَة، مَشروع، اِلتزام
+undertenant = subtenant	مُستَأْجِرٌ من الباطِن
+underthrust	دَفْعٌ سُفليّ، دَسْرٌ خافِض؛ كُتلةٌ مُندَسِرة
+underthrust faulting	صَدْعٌ بالدَّسْر السُّفليّ
+underthrust fold	طَيَّةٌ بالدَّسْرِ السُّفلي، طَيَّة تحت دَسْريَّة
+undertitration	مُعايَرَة ناقِصة
+undertone	نَغْمَة خَفيضة؛ لونٌ خافِت
+undertow	تيّارٌ سُفليٌّ مُعاكِس، تيَّار رَجْعِيّ
+undertreating	مُعالَجَة نَاقِصَة
+undervalue	غَبَنَ، بَخَسَ التّقْيِيم
+undervoltage	ڤلطِيَّة خَفيضَة (أقلّ من المُعَدَّل)
+undervoltage protection	وقاية عند انخفاض الفلطية
+undervoltage relay	مُرَحِّلٌ بانخِفاض الڤلطيَّة
+undervoltage release	آلِيَّةُ إعتاقٍ عندَ انْخِفاض الڤلطيَّة
+underwater	تَحت الماء، تَحت مائيّ؛ غاطِس، تحتَ خطِّ الماء / تحت الماء
+underwater antenna	هَوائِيٌّ تَحْت مائيّ (في الغَوّاصة)
+underwater burst	اِنفِجار (أو تفجير) تحتَ الماء
+underwater camera	مُصَوِّرة تَحت مائيَّة
+underwater concrete	خَرسانَة تحت مائية
+underwater cutting	قَطْعٌ تحتَ الماء
+underwater exploration	إستكشافٌ تَحْت بَحْرِيّ؛ التَّنْقِيبُ تَحْتَ البَحْر / استكشاف تحت مائي
+underwater tank	صِهريجٌ تَحْت مائيّ (لاختِزانِ النَّفْطِ تَحْتَ سَطحِ الماء)
+underwater television	التَّلْفزَة تحتَ الماء
+underwater transducer	مِحوالٌ مائي
+underwater welding	اللِّحامُ تحت الماء
+underwear	مَلابِسُ داخِليَّة
+underweight	وَزنٌ ناقِص؛ أَخَفّ من المُعَدَّل
+underwood	نباتات صغيرة في الغابات
+underwrite	ضَمِنَ، وَقَّعَ تَعَهُّدًا بالضمان (أو التَّأمين)
+underwriters	مُؤسَّسةُ ضَمان (خاصّةً للتأميناتِ البَحرية)
+undesirable	غيرُ مَرغُوبٍ فيه
+undetectable	لا يُسْتَبان
+undetected	غَيْرُ مُسْتَكْشَف
+undeterminate system	منظومة غير معينة
+undetermined coefficient	مُعامِلٌ غيرُ مُحَدَّدِ القيمة / معامل غير معيّن
+undetermined coefficients	مُعامِلاتٌ غَيْرُ مُحَدَّدة
+undetermined multipliers	مَضاريبُ غَيْرُ مُحَدَّدة
+undetermined parameter	وَسيطٌ غَيْرُ مُحَدَّد
+undeveloped	غيرُ مُستَثْمَر؛ غيرُ مُطَوَّر؛ غيرُ مُظَهَّر
+undeveloped reserves	اِحتياطيٌّ مبدَئيُّ الثُّبوت
+undifferentiated	غيرُ مُتَمَيِّز
+undiluted	غيرُ مُخَفَّف
+undirected graph	مِبْيان غير موجّه / بَيانٌ غَيْرُ مُوَجَّه
+undirectional flow	دَفْقٌ لا اِتجاهيّ
+undissolved	غيرُ مُذاب
+undistilled	غيرُ مُقَطَّر
+undistorted power output	خَرْجُ القُدرة غيرُ المُشَوَّه
+undistorted transmission	إرسالٌ غيرُ مُشَوَّه
+Undistributed Profits	الأرباح غير الموزعة (المحتجزة)
+undisturbed	غير مُضطَرِب، غير مُشَوَّش / غير مضطرب
+undo	حَلَّ، فَكَّ؛ أبطلَ / يتراجع [عن عملية] / إِلْغَاء / تراجع (تعديل)
+undock	يَقتلع
+undrained pockets	جُيوب غيرُ مُصفّاة
+undressed timber	خَشَب غير مُسَوًّى
+unducted fan	مِروحة لا مَسْهَكيَّة
+undue	غيرُ مُستحِق، لم يَستحِق بَعْدُ؛ غير مُلائِم، غيرُ لائق
+undulate	ماجَ، تَمَوَّجَ
+undulating	متموج
+undulating flight	طَيَرانٌ مُتَمَوِّج
+undulating ground	أرضٌ مُتَمَوِّجة
+undulating membrane	غِشاء مُتموِّج أو مَوّاج / غشاء متموج
+undulation	تَمَوُّج، تَمويج؛ مَوْجَة / تموّج / تموج، تجعيد
+undulation height	علُوُّ التَموُّج
+undulation of ground	تموج أرضي، تجعد أرضي
+undulation theory	نظريَّةُ التمَوُّج
+undulation wavelength	ألطُّول المَوجيّ للتموُّج
+undulatory	تَمَوُّجِيّ، مُتَمَوِّج، مَوَّاج / تموجي
+undulatory current	تيّار تَمَوُّجِيّ
+undulatory extinction	اِنطفاءٌ تَموُّجي
+undulatory motion	حركة تَمَوُّجيّة
+undulatory theory	نظرية التموج
+undulaus ((un))	مَوْجِيّ، مُتَموّج
+unduloid	سَطْحٌ تَمَوُّجِيّ
+undulose = undulatory	تَمَوُّجِيّ
+undulose extinction; undulatory extinction	تعتيم متموج
+unduly	بإفراط؛ بشَكْلٍ غير مُناسِب
+unearth	نَبَشَ، أخرجَ شيئًا دَفينًا
+unearthed	غيرُ مُؤَرَّض
+unearthed system	مَنْظُومةٌ غير مُؤرَّضة
+unearthing	رفع، إخراج
+unefficient	غيرُ فَعَّال، غير كَفِيّ، غيرُ كُفُؤ
+Unemployed	دون عمل
+Unemployed Persons	المتعطلون
+unemployment	ألبطالَة / البطالة
+Unemployment Duration	مدة التعطل (البطالة)
+unemployment insurance	التأمينُ ضِدَّ البَطالة
+Unemployment Rate of Citizens (by Sex)	معدل بطالة المواطنين حسب الجنس
+Unemployment Rate of Female Citizens	معدل بطالة المواطنات الإناث
+Unemployment Rate of Male Citizens	معدل بطالة المواطنين الذكور
+unequal angle	زاويةٌ غيرُ مُتساويَةِ الضِّلْعَيْنِ
+unequal crossing over	عُبور غير مُتساوٍ
+unequal sign	علامَةُ اللاّمُساواة (=)
+unequal(l)ed	لا يُجارَى، مُنقَطِعُ النظير
+unequigranular	غير متساوي الحبيبات
+unerase	استرداد الممحو
+uneven	غيرُ مُستَوٍ، غيرُ مُنْتَظِم، غير مُستَقيم؛ وَتْرِيّ، فَرْدِيّ / غير منتظم
+uneven fracture	صَدْعٌ غيرُ مُنْتَظِم / تشقق غير منتظم
+uneven ground	أرضٌ غير مُستَويَة
+uneven illumination	إضاءَةٌ غيرُ مُنتظِمة، إضاءَةٌ مُتفاوتَةُ الشِّدة
+uneven surface	سطح متجعد
+unevenground	أرض مُتجعِّدة / أرض متحدة
+unexacting	قليلُ التطَلُّب، مُتَساهِل
+unexcited atom	ذَرّة غير مُثارة
+unexcited synchronous motor	مُحَرِّك تزامُنِيّ لا اِستِثاريّ
+unexhausted	غيرُ مُسْتَنْفَد
+unexpected	غير مُتَوَقَّع
+Unexpected end	نهايةغير متوقعة
+Unexpected error	خطأ غير متوقّع
+unexploited	غير مُستغَلّ، غير مُسْتَثْمَر
+unexplored	غير مُسْتَكْشَف
+unextinguishable	لا يُمْكِنُ إخمادُهُ
+unfailing	ثابِت، لا ينضُبُ؛ لا يَخْذُل
+unfair	جائِر، غير مُنْصِف
+unfasten	فكَّ، حَلَّ، اِنفَكَّ، اِنحَلَّ
+unfavourable	غير مُواتٍ؛ غير مُوافِق
+unfeather the propeller	أزالَ تَجنيبَ المِروَحَة
+unfiltered	غير مُرَشَّح
+unfinished	غير مُكْتَمِل، غيرُ مُنْجَزِ الصُّنْعِ
+unfired	غيرُ مُشتعِل؛ غيرُ مَشويّ (لِلطُّوب)؛ غيرُ مُنفَجِر (للقَذيفة)؛ غير مُتَأَيِّن (لِلصِّمام الإلِكتروني)
+unfit	غيرُ صالِح
+unfocus(s)ed	غير مُرَكَّز، غيرُ مُبَأّر
+unfold	بَسَطَ أو نَشَرَ (شيئًا مَطوِيًّا)؛ تَفَتَّحَ، اِنْفَتَحَ، اِنْبَسَط
+unfolded stratum	طبقةٌ غير مَطوِيَّة
+unformatted disk	قُرْصٌ غَيْرُ مُشَوْكَل
+unformed	غير مُشكَّل، لا شَكْلِيّ
+unfossiliferous rock	صخر غير مستحاثي
+unfossilized	غير مستحاث، غير أحفوري
+unfounded	لا أساسَ له
+Unfriendly Artificial Intelligence (UFAI)	ذكاء اصطناعي ضار
+unfused	غير مُنصَهِر، غيرُ ذائب
+ungalvanized	غير مطْليّ بالزِّنْك، لا مُغَلْڤن
+ungauged lime plaster	مِلاطٌ جِيريّ لا مُعايَر
+ungeared	غيرُ مُعَشَّق
+unglazed	غيرُ مُزَجَّج، غير مَصْقول
+unglazed porcelain	خَزَفٌ (صينيٌّ) غيرُ مَصقول
+unglue	أزالَ الغِراء، فَكَّ التَغْرِيَة
+ungraded	غيرُ مُدَرَّج، غير مُصَنَّف (إلى رُتَب)
+unguiculate	ذات المخالب
+ungula	حافِر، ظِلْف، ظُفر؛ قِطعَة حافريَّة / مُجَسَّمٌ ظُفْرِيّ
+Ungulata	ذواتُ الحافِر، ذواتُ الظِّلف / حافريات
+unhair	أزالَ الشَّعْر
+unhandled exception	استثناءٌ غير مُتَوَلَّى
+unhardened	غيرُ مُصَلَّد
+unharmonicity	اللاتوافُقيَّة
+unheeled ship	سفينة غير جانحة
+Unhide	إظهار
+unhinge	نَزَعَ من المُفَصِّلة
+unhook	فَكَّ، نَزَعَ من الخُطّاف
+unhygienic	غيرُ صِحِّيّ
+uni-	بادئة بمعنى: أُحاديّ، مُفرَد
+uniaxial	أُحادِيُّ المِحوَر / أحادي المحور
+uniaxial crystal	بِلَّورةٌ أُحادِيَّةُ المِحور
+Unibus	[مسرى] Unibus
+unicapsullar	أحادية العليبة
+unicellular	أحاديُّ الخَلِيَّة، وَحيدُ الخَليَّة / وحيد الخلية
+unicellulary	أحادي الخلية
+uniclinal	أُحاديُّ المَيْل / وحيد الميل، أحادي الميل
+uniclinal flexure (or fold)	طَيَّة أُحاديَّةُ المَيْل
+Unicode	[الرِّمَازُ المُوَحَّد] Unicode / يونيكُود / يونيكود / نظام الترميز الموحد
+unicomponent system	نِظامٌ أُحاديُّ المُرَكِّبة
+unicostate	وحيد الضلع أوالعرق
+unicourse (or unicursal) curve	مُنحَنٍ أُحاديُّ الاِتجاه
+unidirectional	أُحادِيُّ الاتجاه
+unidirectional antenna	هَوائِيٌّ أُحادِيُّ الاتجاه
+unidirectional current = direct current	تيّارٌ أحاديُّ الاِتجاه
+unidirectional filter	مُرَشِّحٌ أُحاديُّ الاِتجاه
+Unidirectional Language Model	نموذج لغوي أحادي الاتجاه
+unidirectional network	شبكةٌ أُحاديَّةُ الاتجاه
+unidirectional replication	تكرر أحاديّ الاتجاه
+unidirectional transducer	مِحْوَالٌ (مُحَوِّلُ طاقة) أُحاديُّ الاتجاه
+unidirectional voltage	ڤلطيَّةٌ أُحاديَّةُ الاِتجاه
+unification	تَوحيد، اِتحاد
+unified field theory	نظَرِيَّةُ المَجال المُوَحَّد
+Unified Modeling Language (UML)	لغة النمذجة الموحدة
+unified scale	المِقياسُ المُوَحَّد
+unified screw threads	أسنانُ اللولبةِ الموَحَّدةُ القياسات (في كندا وانكلترا والولايات المتحدة)
+unifilar	أُحاديُّ السِّلْك، مُفرَدُ الخَيْط
+unifilar electrometer	إلِكترومِتْر مُفْرَدُ الخَيْط
+unifilar suspension	تَعليقٌ مُفرَدُ السِّلْك، تعليق بسِلكٍ واحِد
+unifining	التكريرُ المُوَحَّد
+uniflo	يونيفلو
+uniflor	أحادي الزهرة
+uniflow	أُحاديُّ اتجاه الدَّفْق
+uniflow compressor	ضاغِطٌ أُحادِيُّ اتجاه الدفق
+uniflow engine	مُحَرِّكٌ (بُخاريٌّ) أُحادِيُّ اتجاه الدفْق
+unifoliate	أُحاديُّ الوَرقة؛ أُحادِيُّ الطَبقة / أحادي الورقة
+uniform	مُنتَظَِم، مُنتَظِِم مُتَّسِق؛ لِبَاسٌ مُوَحَّد، بِزَّة نِظامية / منتظم / متجانس
+uniform acceleration	تَسارُع مُنتَظَم / تسارع منتظم
+uniform approximations	تقريب منتظم
+uniform bound	حَدٌّ مُنْتَظَم
+uniform boundedness principle	مَبْدَأُ المَحْدودِيَّةِ المُنْتَظَمَة
+uniform circular motion	حركة دائرية مُنتَظَمة / حَرَكةٌ دائِرِيَّةٌ مُنْتَظَمة
+uniform circular movement	حركة دائرية منتظمة
+uniform continuity	اتصال منتظم / اسْتِمْرارٌ مُنْتَظَم
+uniform convergence	تقارب منتظم / تَقارُبٌ مُنْتَظَم
+Uniform Data Transfer	نقل المعطيات المنتظم
+uniform distribution	تَوْزيعٌ مُنْتَظَم
+uniform electric field	مَجالٌ كهربائيّ مُنتَظم
+uniform expansion	تَمَدُّد مُنْتَظَم
+uniform extension	اِمتدادٌ مُنتَظَم
+uniform flow	اِنسياب مُنْتَظِم، جَريانٌ مُنتظِم
+uniform function	دالة منتظمة
+uniform grade	انحدار منتظم
+uniform gravitational field	حقل جذبي منتظم
+uniform limit	نهاية منتظمة
+uniform line	خَطٌّ مُنْتَظِم
+uniform load	حِمْلٌ مُنْتَظَم (التوزيع)
+uniform magnetic field	مَجالٌ مِغنطيسيٌّ مُنتَظِم
+uniform motion	حركةٌ مُنتَظِمة / حركة منتظمة
+Uniform Naming Convention	اصطلاح التسمية المُوَحَّد
+uniform norm	نَظيمٌ مُنْتَظَم
+uniform pitch	خُطوةٌ مُنتَظِمة
+uniform probability function	دالة احتماليةٍ منتظمة
+Uniform Resource Citation	وصف نظامي للموارد
+uniform resource identifier	هُويّة نظامية للموارد / معرّف نظامي لمورد
+Uniform Resource Locator	عنوان مَورد نظامي
+uniform resource locator (URL)	مُمَوْقِعُ المَوَارِدِ المُتَجَانس / رابط الموقع على الشابكة
+Uniform Resource Name	اسم مَورد نظامي
+uniform rod	قضيب مُنتَظِم
+uniform sand	رَمْلٌ مُنتَظِم الحُبَيْبات
+uniform scale	مِقياسٌ مُنتَظِم / تدريج منتظم / تَدْريجٌ مُنْتَظَم
+uniform space	فَضاءٌ مُنْتَظَم
+uniform speed	سرعة عددية منتظمة
+uniform surface	سطح منتظم
+uniform temperature	درجةُ حرارةٍ مُنتَظِمة
+uniform velocity	سُرعة مُنتَظِمة / سرعة منتظمة
+uniform wear	بِلًى مُنتَظِم، اِهتِراءٌ مُتَناسِق
+uniformitarianism	مبدأ الاِطِّراد / مذهب الوتيرة الواحدة
+uniformity	اِنتظام، اِتِّساق، اِطِّراد / وحدة الشكل
+uniformity coefficient	مُعامِلُ الاِتِّساق
+uniformly accelerated motion	حَركَة مُنتَظِمَةُ التسارُع
+uniformly convex space	فَضاءٌ مُحَدَّبٌ بِانْتِظام
+uniformly distributed load	حِمْلٌ مُنتظِمُ التوزيع
+uniformly equicontinuous family of functions	جَماعةُ دَوالَّ مُتَساوِيةُ الاسْتِمْراراتِ بِانْتِظام
+uniformly nonsquare Banach space	فَضاءُ باناخ غَيْرُ مُرَبَّعٍ بِانْتِظام
+uniformly retarded motion	حَركةٌ مُنتَظِمةُ التقاصُر
+uniformly rotund space	فَضاءٌ مُحَدَّبٌ بِانْتِظام
+uniformly summable series	مُتَسَلْسِلةٌ جَموعةٌ بِانْتِظام
+uniformly varied motion	حركة منتظمة التغير
+uniformly varying motion	حَرَكَة مُنتَظِمةُ التغيُّر
+UniForum	الرابطةُ الدولية لمحترفي النظم المفتوحة
+unifunctioning organ	عضو عاطل
+unify	وَحَّدَ
+unijunction transistor	ترانْزِستور أُحاديُّ المَوْصِل
+unilabiate	أحادي الشفة
+unilarm	جِهازُ إنذار عُموميّ
+unilateral	وَحيدُ الجانب، من جانبٍ واحِد، أُحاديُّ الاتجاه
+unilateral analysis	تَحْليلٌ أُحادِيُّ الجانِب
+unilateral conductivity	إلمُوَصِّلِيَّة الأُحادية الاتجاه
+unilateral impedance	مُعاوَقة أُحاديةُ الاتجاه
+unilateral limit	نِهايةٌ أُحادِيَّةُ الجانِب
+unilateral network = unidirectional network	شَبَكَةٌ وَحيدة الاتجاه
+unilateral shift	انْزِياحٌ أُحادِيُّ الجانِب
+unilateral surface	سَطْحٌ أُحادِيُّ الجانِب
+unilateral tolerance	تَسامُحٌ أُحاديُّ الاتجاه
+unilateral transducer = unidirectional transducer	مِحوالٌ أُحاديُّ الاتجاه
+unilateralization	توحيدُ الاتجاه
+unimodal	أُحاديُّ النمَط
+unimodal distribution	تَوْزيعٌ أُحادِيُّ المِنْوال
+unimodal function	دالَّةٌ أُحادِيَّةُ المِنْوال
+unimodal sequence	مُتَتالِيةٌ أُحادِيَّةُ المِنْوال
+unimodular matrix	مصفوفة وحيدة المعيار / مَصْفوفةٌ واحِدِيَّةُ المَقاسِيَّة
+unimodulus matrix	مَصْفوفةٌ واحِدِيَّةُ المِقْياس
+unimolecular	أُحاديُّ الجُزَيء
+uninducible mutants	طوافر لا تُحَرَّض
+unindurated	غيرُ مُتَصَلِّبة
+unindurated aggregate	تجمعات غير متصلة
+unineme hypothesis	فرضية أحادية الخيط
+uninflammable	لا لَهُوب، غيرُ قابل للالتِهاب
+uninhabited island	جزيرة غير مسكونة، جزيرة غير مأهولة
+uninstall	يلغي الإرساء / إِزَالَة
+uninsulated	غيرُ مَعزول
+uninsured	غيرُ مُؤَمَّنٍ عليه
+uninterruptible power supply	وحدة عدم انقطاع التغذية
+uninterruptible power system (UPS)	مَنْظُومةُ القُدرة اللامُنقَطعة
+uninucleate	أحاديُّ النَّواة
+union	اِتحاد؛ نِقابة، اِتحادٌ (عُمَّاليّ)؛ وُصْلَة أنابيب، وَصِيْلَة (مُلولبةُ الطرفَين) / 1 اجتماع ؛ 2 اجتماع ؛ 3 اجتماع / اتحاد / اتِّحاد (اجْتِماع)
+union = union of sets	اِتِّحاد، اِتِّحادُ مَجموعات
+union cock	مِحْبَسُ وَصْل
+union coupling	قَارِنَةُ وَصْل
+union elbow	مِرفَقُ وَصْل
+union joint	وُصْلَة مُشْتَرَكَة، وُصْلَة وَصِيلة
+union nut	صَمُولَةُ وَصْل، صَمُولَةٌ وَصِيْلَة
+union of two sets	اتحاد محموعتين
+union rule of probability	قاعِدةُ الاتِّحادِ في الاحْتِمالات
+union screw	لَوْلَبُ وَصْل
+union tee	وُصلَة تائية (بشكل T)
+union-compatible	متوافق [مع عملية] الاجتماع
+unionic material	مادَّة لا أيونيَّة (كُلُّ ذَرّاتِها مُتَعادِلة)
+unionist	نِقابيّ، عُضو في نِقابةٍ أو اتحاد عُماليّ
+unionized	لا مُتَأَيِّن
+Unions or Professional Associations	الاتحادات أو النقابات المهنية
+uniovular	أحاديّ البيضة، أحاديّ الزيجوت
+uniphase	أُحاديُّ الطَّور
+uniphase current	تيّارٌ أُحاديُّ الطّور
+uniphaser	مُرَدِّدٌ أُحادِيُّ الطَّور
+unipivot(ed) ammeter	أَمِّيتَرْ أُحادِيُّ الارتِكاز
+uniplaner	أُحاديُّ السطح
+unipod	وَحِيدُ القائمة
+unipolar	أُحاديُّ القُطْب، وَحيدُ القُطْبِيَّةِ / وحيد القطب / أحادي القطب
+unipolar induction	حَثٌّ أُحاديُّ القُطبِ
+unipolar machine	مَكَنَةٌ (كهربائيةٌ) أُحاديَّةُ القُطْب
+unipolar transistor	ترانزستُورْ أُحاديُّ القُطبيَّة
+unipole	وَحيدُ القُطْب
+unipotential cathode	كاثُود أُحاديُّ الجُهد (لامُباشريّ التسخين)
+unique	فَريد، لا نَظيرَ له؛ وَحيد، وَحْدانيّ، مُفْرَد / وحيد
+unique DNA	دنا فريد
+unique factorization domain	مَنْطِقةُ التَّحْليلِ الوَحيدِ إلى عَوامِل
+unique factorization ring	حَلَقةُ التَّحْليلِ الوَحيدِ إلى عَوامِل
+unique factorization theorem	مُبَرْهَنةُ التَّحْليل الوَحيدِ إلى عَوامِل
+uniqueness	وحدانية
+uniqueness of the limit	وحدانية النهاية
+uniserial	أُحاديُّ التسلْسُل
+unisexual	أُحاديُّ الجِنْس
+unisexual flower	زهرة وحيدة الجنس
+unisexuel	وحيد الجنس
+unison	اِتحاد النغَمات، تَوافُق رَنينيّ
+unit	وَحْدَة (من وَحَدات القياس)؛ وَحْدَة، مَجموعةٌ مُتكامِلَة / وحدة
+unit (electric) charge = unit electrostatic charge	وَحْدَةُ الشِّحْنَةِ الكهربائية
+unit angle = radian	وَحْدَةٌ زاوِيَّة، زاويةٌ نِصف قُطْرِيَّة، زاوية نِقِّيّة
+unit area	وَحْدَةُ المِساحَة
+unit area capacitance	سَعةُ وَحْدَةِ المِساحة
+unit area impedance	مُعاوَقَةُ وَحْدَةِ المِساحة
+unit area reactance	مُفاعَلَةُ وَحدةِ المِساحة
+unit ball	كُرةُ الوَحْدة
+unit binormal	ثُنائِيُّ النَّاظِمِ الواحِدِيّ
+unit capacitor	مُكَثِّفٌ وَحْدي
+unit cell	خَلِيَّة وَحْديَّة، الخليَّةُ الوَحْدَة (في التركيب البِلَّوري) / وحدة الخلية
+unit charge	وَحدَةُ الشِّحْنَة
+unit circle	دائرة الوحدة / دائِرةُ الوَحْدة
+unit commander	قائد الوَحدة
+unit conversion factor	عامِلُ تَحْويلٍ واحِدِيّ
+unit cooler	وَحدةُ تَبريد، مُبَرِّدٌ وَحْدِيّ
+unit cost	كُلْفَةُ (أو تكلِفةُ) الوَحدة
+unit cube	مُكَعَّبٌ وَحْدَوي (أو وَحْدِيّ) / مكعب الوحدة / مُكَعَّبُ الوَحْدة
+unit deformation = strain	وَحْدَةُ التَشَوُّه
+unit disk	قُرْصُ الوَحْدة
+unit element	عُنْصُرٌ واحِدِيّ
+unit flux density	وَحدَةُ كَثافةِ الفيض
+unit form	وحدة الشكل
+unit fraction	كَسْر وَحْدِيّ / كسر الوحدة / كَسْرٌ واحِدِيّ
+unit heater	مُسَخّنٌ وَحدِيّ، وَحْدَةُ تسخين (أو تدفئة)
+unit impulse	دَفْعٌ واحِدِيّ
+unit line	خَطُّ قُوَّة، خَطٌّ مجاليّ
+unit load	وَحدَةُ الحِمْل / وحدة الحمل
+unit load vessel	سفينة لنقل وحدات الحمل
+unit magnetic field	وَحْدَةُ المَجالِ المغنطيسي
+unit magnetic flux	وَحدةُ الفيض (أو الدَّفْق) المِغنطيسي؛ ماكسويل
+unit magnetic pole	وَحدةُ القُطب المغنطيسي
+unit manager	مُديرُ الوَحدة
+unit matrix	مصفوفة الوحدة
+unit normal	ناظِمٌ واحِدِيّ
+unit of acceleration	وَحدةُ تَسارُع
+unit of area	وَحدةُ مِساحَة / وحدة سطوح
+unit of attenuation	وَحدةُ تَوهين
+unit of brightness	وَحدةُ نُصوع
+unit of capacity	وَحدةُ سَِعَة (أو سَعَة)
+unit of current	وَحدةُ التيّار (الكهربائيّ)
+unit of energy	وَحدةُ طاقة
+unit of heat	وَحدةُ حَرارة
+unit of illumination	وَحدةُ إضاءة
+unit of length	وَحدةُ طُول / وحدة طول
+unit of living being	وحدة تركيب الأحياء
+unit of magnetic flux	وَحدةُ الفيض المغنطيسي، ماكسويل
+unit of mass	وَحدةُ كُتلَة
+unit of measure	وحدة قياس
+unit of power	وَحدةُ قُدرة
+unit of pressure	وَحدةُ ضَغط
+unit of resistance	وَحدةُ مُقاوَمة
+unit of time	وَحدةُ الزمَن / وحدة الزمن
+unit of velocity	وَحدةُ سُرعَة
+unit of volume	وَحدةُ حَجْم
+unit of weight	وَحدةُ وَزْن
+unit of work	وَحدةُ شُغْل
+unit operation	عمَليَّة مُفْرَدة
+unit operator	مُؤَثِّرٌ واحِدِيّ
+unit pole	وَحدةُ القُطْب
+unit position	خانة آحاد
+unit price	سِعرُ الوَحدة
+unit process	عمليَّة مُفردة
+unit pulse = baud	وَحدةُ النَّبض؛ وَحدةُ النبض
+unit quantity	وَحدةُ الكَمِّيَّة؛ كَمِّيَّةٌ وَحديَّة عِياريَّة
+unit record	سِجِلٌّ أُحاديّ
+unit set	مَجْموعةٌ أُحادِيَّةُ العُنْصُر
+unit sphere	كرة الوحدة / كُرةُ الوَحْدَة
+unit square	مُرَبَّعُ الوَحْدة
+unit strain	وَحدةُ الانفِعال، اِنفِعالُ الوَحدة
+unit stress	وَحدةُ الإجهاد، إِجهادُ الوَحدة
+unit surface	وَحدةُ المِساحة
+unit tangent	مُماسٌّ واحِدِيّ
+unit testing	اِختبارُ الوَحدة / اختبار الوحدة
+unit time	وَحدةُ الزمَن
+unit vector	متجه واحدي / مُتَّجِهُ الوَحْدة
+unit weight	وَحدةُ الوَزْن
+unit, drilling	وَحْدَةُ حَفْر
+unit, generating	وَحدةُ توليد
+unit, maintenance	وَحدةُ صِيانة
+unit, mechanized (or motorized)	وَحدةٌ آلِيَّة (أو مُؤلَّلة)
+unit; unity	وحدة
+unital left module	مودولٌ يَسارِيٌّ واحِدِيّ
+unital module	مودولٌ واحِدِيّ
+unital right module	مودولٌ يَمينِيٌّ واحِدِيّ
+unitary	واحِدي، وَحْدِي، وَحْدَوِي؛ تكامُلي / واحدي
+unitary air conditioner	مُكَيِّف هواءٍ تكامُلِيٌّ
+unitary group	زُمْرةٌ واحِدِيَّة
+unitary matrix	مصفوفة واحدية / مَصْفوفةٌ واحِدِيَّة
+unitary method	أَلطريقَةُ الوَحديَّة، طَريقَةُ الوَحْدَة / طريقة واحدية
+unitary module	مودولٌ واحِدِيّ
+unitary operation	عملية واحدية
+unitary ratio	أَلنِّسْبَةُ الوَحْديَّة
+unitary ring	حلقة واحدية
+unitary space	فَضاءٌ واحِدِيّ
+unitary transformation	تَحْويلٌ واحِدِيّ
+unitary vector	متّجه واحدي
+unite	وَحَّدَ، ضَمَّ، اِتَّحَدَ، اِنضَمَّ
+United States of America Standards Institute	معهد المَقايس في الولايات المتحدة الأميركية
+uniterm system	نِظامٌ أُحادِيُّ المُصطَلح
+uniting pressure	ضَغْطُ التوحُّد
+unitized body	جِسمٌ مُوَحَّد
+unitized cargo	بضائع ذات وحدات نقل موحدة
+unitized load	حُمولةٌ مُوَحَّدة
+units place	مَرتَبَةُ الآحاد / مرتبة الآحاد
+units position	مَوقِعُ الآحاد
+units, absolute	وَحداتٌ مُطْلَقَة
+units, derived	وَحداتٌ مُشتَقَّة
+units, fundamental	وَحداتٌ أساسية
+units, gravitational	الوحدات التثاقُليَّة
+units, SI	نِظام الوحَدات الدوليَّة
+unity	وَحدةٌ، واحِديَّة؛ واحِد؛ اِتحاد
+unity power factor	عامِلُ قُدرةٍ أُحادِيُّ القيمة
+UNIVAC (universal automatic computer)	يونيفاك
+UNIVAC I	[حاسوب] UNIVAC I
+univalent	أحادي التكافؤ / أحاديّ التكافؤ، وحدة صبغية أحادية
+univalent = monovalent	أُحادِيُّ التكافُؤ
+univalve	وحيد الصمام
+univariant distribution	تَوْزيعٌ أُحادِيُّ التَّغَيُّر
+univariant system	نظام أحادي التغيير
+univariant systems	مَنظوماتٌ أُحاديَّةُ التغيُّر
+universal	عام، عُمومي؛ شِامل، كُلِّيّ، جامِع؛ عالَميّ، كَونِيّ
+universal (or self-centring) chuck	ظَرْفٌ جامِعُ الحركة
+universal adapter	مُهايئٌ عام
+universal algebra	جَبْرٌ شامِل
+Universal Approximation Theorem	نظرية التقريب الشامل
+universal asynchronous receiver-transmitter	مرسل/مستقبل لامتزامن عميم
+universal bevel	مِسطارُ زوايا عامُّ الأغراض
+universal bridge	قَنطرَةُ قياسٍ عامَّةُ الأغراض
+universal code theory	نظرية الشفرة العامة
+universal compass	بُوصَلَة عامَّةُ الأغراض
+universal controller	مُتحَكِّمٌ عام
+universal coupling (or joint)	قارِنةٌ عامَّةُ الحركة
+universal curve	مُنحَنٍ وَحيدُ المَجْرَى
+universal donor	المانِحُ العامّ / معط عام
+universal element	عُنْصُرٌ شامِل
+universal filter	مُرَشِّحُ عامّ
+universal gas constant	ثابِتُ الغاز العامّ (8.314 جُول لِلكَلْڤن - مُول)
+universal gauge	مُحَدِّدُ قياس عام
+universal gravitation (the)	جاذبية (ال...) العامة
+universal gravitation, law of	قانونُ التجاذُب العام
+universal grease	شَحْمٌ عامُّ الأغراض
+universal grinder	مِطْحَنَة عامّة الأغراض؛ جَلاّخةٌ عامة
+universal indicator	كاشِفٌ عام (واسِعُ المَدى)؛ مُبَيِّنٌ عامُّ الأغراض
+universal joint	وُصْلَةٌ عامَّةُ (أو جامِعَةُ) الحركة
+universal joint yoke	مِقْرَنُ الوُصلةِ العامة
+universal lathe	مِخْرَطةٌ عامَّةُ الأغْراضِ
+universal mill	مُدَلْفِنَة عامَّةُ الأغراض
+universal milling machine	مَكَنَةُ تفريزٍ عامَّة الأغْراض
+universal motor	مُحَرِّكٌ عام
+universal naming convention	اتِّفَاقِيَّةٌ عَامَّةٌ للتَّسْمِيَّة
+Universal Networking Language (UNL)	لغة التشبيك العالمية
+universal plane	مِسحاجٌ عامُّ الأغراض (ذو لُقَمٍ مُختَلِفَة)
+universal planer	مِسحاجٌ عامّ
+universal pliers	زَرَديَّةٌ عامَّةُ الأغراض
+universal product code	الشيفرة العامة للمُنتجات / رماز المنتجات العميم
+universal quantifier	مكمّم كلّي
+universal receiver	مُستَقبِلٌ عامّ
+universal recipient	آخذ عام
+universal serial bus	مسرى تسلسلي عميم
+Universal Server	1 مخدّم عميم ؛ 2 مخدِّم عميم
+universal set	مجموعةٌ عامَّة (تضُمُّ جميعَ العَناصِر المَدروسة) / مجموعة شاملة / المَجْموعةُ الكُلِّيَّة (الشَّامِلَة)
+universal shaper	مِقْشَطَة عامَّة
+universal shunt	مُفَرِّعُ تيّارٍ عام
+universal spanner	مِفتاحُ رَبْطٍ عام
+universal stage	مِنَصَّة عامّة الحركة
+universal swivel machine vice	مِلْزَمَةُ مَكناتٍ دَوَّارَة عامةُ الأغراض
+universal synchronous receiver-transmitter	مرسل/مستقبل متزامن عميم
+universal test set	جِهازُ اختبارٍ عام
+universal time	توقيت (ال...) العالمي / توقيت عالمي
+universal time = Greenwich mean time	تَوقيت عالميّ، توقيتُ غْرينِتْش المُتَوَسِّط
+Universal Time Coordinate	إحداثيّ زمنيّ عميم
+universal transmitter	مُرسِلٌ عامّ
+universal vise	مِلْزَمَة عامَّة
+universe	أَلكَوْن، ألعالَم؛ مجموعة شاملة / كون (ال...) / كون (ال..)
+universe space	فضاء الكون
+university	جامِعَة
+univibrator = monostable multivibrator	هَزّازة وَحيدةُ الاستقرار
+UNIX	[نظام] UNIX / يونِكس
+UNIX shell account	حسابُ مَظْرف UNIX
+UNIX shell scripts	إخطاطات مَظْرف UNIX
+UNIX wizard	عرّاف UNIX
+UNIX-to-UNIX Copy	نسْخ من UNIX إلى UNIX
+unjust balance	مِيزانٌ غيرُ مَضبوط
+unjustified text	نَصٌّ غَيْرُ مُرَضَّن
+unkilled steel	صُلْبٌ غيرُ مُخَمَّد
+unkind lode	عِرْقٌ شَحيح
+Unknown	مجهول / مَجْهول
+unknown host	مضيف مجهول / مستضيف غير معروف
+unknown quantity	كَمِّيَّة مَجهولة
+unknown recipients	مستقبلون مجهولون
+unknown term	حَدٌّ مَجهول / حدّ مجهول
+Unlabeled Example	مثال غير مُسمًّى
+unlading	إِفراغُ الحِمْل
+unlatch	رَفَعَ المِزلاج أو السقّاطة
+unlay	فَكَّ، حَلَّ، اِنحَلَّ
+unleaded gasoline	بِنزينٌ غيرُ مُرَصَّص
+unleash	حَرَّرَ، أَطلَقَ
+unlighted beacon	منارة غير مضيئة
+unlighted buoy	عائمة غير مضيئة
+unlike charges	شِحناتٌ مُتَبايِنة
+unlike poles	أَقطابٌ مُتَخَالِفَةٌ أو غيرُ مُتَشابِهَة
+unlike terms	حُدودٌ غيرُ مُتَشابِهَة / حدود مختلفة
+unlikely	بَعيدُ الاحتِمال
+unlimited	غيرُ مَحدود
+unlined	غيرُ مُبَطَّن
+unlink	فَصَلَ، فَكَّ
+unload	أفْرَغَ، فَرَّغَ، أنزلَ (الحُمولَة) / 1 ينْزع ؛ 2 يفرِّغ [من الذاكرة]
+unloaded antenna	هوائيٌّ غيرُ مُحَمَّل
+unloaded battery	بَطّاريَّةٌ غيرُ مُحَمَّلَة، بَطّاريّة احتياطيّة
+unloading	تَفْريغ؛ إفراغُ الحِمْل
+unlock	فَتَحَ، فَتَحَ القُفْلَ؛ أَطَلَقَ، حَرَّرَ / حَلّ الإزْلاج / إلغاء القفل
+unlubricated	غيرُ مُزَلَّق
+unmachined	غيرُ مَشْغُولٍ بالمَكَنات
+unmalleable	لا طَرُوق، غيرُ قابلٍ للتطريق
+unmanned	غيرُ مُجَهَّزٍ بالرجال
+unmanned spacecraft	عَربةٌ فَضائيَّةٌ غيرُ مَأهُولَة
+unmarked pole	ألقُطبُ غيرُ المُعَلَّم، القُطبُ الجَنوبي (للمغنطيس)
+Unmarked stem	جذع غير مُعْلَم
+unmatched	غيرُ مُلاءَم؛ لا مَثيلَ له
+unmelted	غيرُ مَصهور
+unmetalled road	طريقٌ غيرُ مَرصوفة
+unmined coal	فَحمٌ غيرُ مُعَدَّن
+unmod(ulated)	غيرُ مُضَمَّن
+unmoderated	من دون مُلَطِّف
+unmodified	لا مُتَحوِّر، غَيْرُ مُعَدَّلٍ أو مُحَوَّر
+unmoor	فَكَّ مَراسي المَركَب
+unmount	يلغي التنصيب / فصل
+Unnamed	غير مُسَمىّ
+unnatural	غير طَبيعيّ، غير عادِيّ، اِصطِناعيّ
+unnavigable	غيرُ صالحٍ للمِلاحة
+unnecessary	غيرُ ضَروريّ
+unnilenium (Une)	أُنِّلِينْيُوم
+unnilhexium (Unh)	أُنِّلهِكْسيُوم
+unniloctium (Uno)	أُنِّلُكْتيوم
+unnilpentium (Unp)	أُنِّلْپِنْتيُوم
+unnilquadium (Unq)	انِّلْكُوَاديُوم
+unnilseptium (Uns)	انِّلْسِپتيُوم
+unobstructed	غيرُ مُعاق (بالمَوانِع أو الحَوَاجِز أو الضباب)
+unoccupied	شاغِر، غير مَشغول؛ غيرُ مُحْتَلّ
+unofficial	غيرُ رَسميّ
+unordered arrangement of a set	نَسَقٌ غَيْرُ مُرَتَّبٍ لِمَجْموعَة
+unoriented texture	نسيج غير موجَّه / نسيج غير موجه
+unpack	فَكَّ (شَيئًا مَحزومًا)، أفرَغَ؛ فَضٌّ / يفك الرزمة / تَفْكِيك
+Unpaid Caregiving Services for Households and Household Members	خدمات تقديم الرعاية غير المدفوعة للأسرة المعيشية وأفراد الأسرة
+Unpaid Community-Based and Organization-Based Volunteer Work	العمل التطوعي غير المدفوع على أساس المجتمع والمنظمات
+Unpaid Direct Volunteer Work for Other Households	العمل التطوعي المباشر غير مدفوع الأجر للأسر الأخرى
+Unpaid Domestic Services for Households and Household Members	الخدمات المنزلية غير المدفوعة للأسرة المعيشية وأفراد الأسرة
+unparalleled	لا يُجارَى، لا نَظيرَ له
+unpaved	غيرُ مَرصوف
+unperceivable flaw	خَلَلٌ لا يُمكِنُ اسْتِبانَتُه
+unplug	نَزَعَ القابِس
+unpolarized light	ضَوءٌ غيرُ مُستقطَب
+unpolished	غيرُ مُهذَّب، خَشِن، غيرُ مَصقول
+unpopulated board	بطاقة خالية [من العناصر]
+unprecedented	لم يَسبِقْ له مَثيل
+unpredictable	لا يُمكنُ التَّنبُّؤُ به
+unprime	نَزَعَ الشَّعِيلَة، أزالَ صِمامَةَ التفجير
+unproductive	غيرُ مُنْتِجٍ، عَقيم
+unproductive boring	حَفْرٌ غيرُ إنتاجِيّ
+unprofitable	غيرُ مُربِح
+unpromising	لا يَدعو إلى التفاؤُل، غيرُ مُشَجِّع، غيرُ واعِد
+unprotected	غَيْرُ مَحْمِيّ
+unproven area	مِنطقة غيرُ مُثْبَتة
+unpuncturable	لا ثَقُوب
+unqualified	غَيرُ مُؤَهَّل (لِـــ)، عَديمُ الجَدارة؛ باتّ، قاطِع
+unravel	حَلَّ، اِنحَلَّ
+unreactive	خامِل، غيرُ فَعّال
+unread	1 غيرمُستَلَم (لم يُستلم بعد) ؛ 2 غير مقروء (لم يُقرأ بعد)
+unreal	زائف، مُصطَنع، غيرُ حقيقيّ
+unrecoverable error	خطأٌ غير قابل للتصحيح
+unreducible	لا خَزُول
+unreel	حَلَّ (عن مِكَبّ أو بَكَرة)، اِنحلَّ
+unreeve	سَحَبَ (الحَبْلَ) من ثَقْبٍ أو حَلْقَة
+unrefined	غير مُكَرَّر
+unreinforced concrete	خَرَسانة غيرُ مُسَلَّحة
+unreliable	لا يُعَوَّلُ عليه، غيرُ مَوثوق
+unrest	قَلَق، اِضطراب
+unrest ground	تربة مرتجة
+unrestricted	غيرُ مُقَيَّد، غير مُحَدَّد / غير مقيَّد، غير محصور
+unrestricted transduction	نقل غير مقيد
+unrestricted visibility	رُؤيَةٌ غيرُ مُقَيَّدة
+unrival(l)ed	مُنْقَطِعُ النَّظير، لا يُجارَى
+unrivet	أزالَ البِرشام
+unroasted	غيرُ مُحَمَّص
+unroll	بَسَطَ، حَلَّ اللَّفات، نَشَرَ، اِنْبَسَطَ
+uns-dimethylhydrazine	غير متناظر - ثنائي متيل الهيدرازين
+Unsafe Expression	تعبير غير آمن
+Unsafe State	حالة غير آمنة
+unsaponifiable matter	مادةٌ لا صَبُون
+unsatisfied bond (or valency)	تَرابُط غير مُشْبَع
+unsaturate	ناتِجٌ غيرُ مُشْبَع؛ مُرَكَّبٌ هِدْروكربونيٌّ غيرُ مُشْبَع
+unsaturated	غيرُ مُشْبَع، لا مشْبَع
+unsaturated hydrocarbons	هِدْروكربونات غيرُ مُشْبَعَة
+unsaturated minerals	مَعادِنُ غير مُشْبَعَة
+unsaturated vapour	بُخار غير مُشْبَع
+unsaturation	عدمُ التشَبُّع
+unsatured minerals	معادن غير مشبعة
+unsatured solution	محلول غير مشبَّع / محلول غير مشبع
+unscheduled DNA synthesis	تركيب دنا غير مبرمَج
+unscientific	غير علمي
+unscreened	غير مَنْخُول، غير مُصَنَّفٍ (بالغربَلَة)؛ غير مَحجوب
+unscrew	فَكَّ اللولَب، اِنفَكَّ
+unseal	فَضَّ الخَتْم، فَتَحَ
+unseating of valve	اِختلالُ قُعودِ (أو إقعادِ) الصِّمام؛ شَيْلُ الصِّمام
+unseaworthiness	عدم الصلاحية للإبحار
+unseaworthy	غير صالح للملاحة، غير صالح للإبحار
+unserviceable	لا يَصلحُ للاستِعمال
+unset	يُصفِّر
+unsettled	غير مُستَقِرّ / مضطرب، متزعزع
+unsettled weather	طقس غير مستقر
+unsheltered coast	ساحل غير محمي، ساحل مكشوف
+unshielded	غيرُ مُدَرَّع؛ غير مَحجوب
+unshielded cable	كبْل غيرُ محجَّب
+unshielded metal arc welding	أللِّحامُ بالقَوس المَعْدنِيّ المَكْشوف
+unshielded twisted pair	زوج مضفور غير محجَّب
+unshrinkable	لا كَمُوش
+unsifted	غيرُ مَنْخُول
+unsightly	بَشِع، قَبيحُ المَنْظَر
+unsigned integer	عَدَدٌ صَحيحٌ غَيْرُ مُؤَشَّر
+unsigned real number	عَدَدٌ حَقيقِيٌّ غَيْرُ مُؤَشَّر
+unsilvering bath	مَغْطِسُ إزالة التَّفضيض
+unskilled	غيرُ ماهِر، لا صَنَاع؛ لا يتطلَّبُ مَهارةً خاصة
+unskilled labour	يدٌ عامِلَة غير مُدَرَّبَة
+unslaked lime	جِيرٌ حَيّ (أو غيرُ مُطْفَأ)
+unsmeltable	لا صَهُور
+unsolder	فكَّ اللِّحام
+unsolidified	غيرُ مُتَجمِّد، غيرُ متصَلِّب
+unsolvable (adj)	غَيْرُ حَلول (غَيْرُ قابِلٍ لِلْحَلّ)
+unsolvable problem	مَسْأَلةٌ غَيْرُ حَلولَة (مَسْألةٌ غَيْرُ قابِلَةٍ لِلْحَلّ)
+unsolved problems	مسائل غير محلولة
+unsorted	غير مَفروز، غير مُصَنَّف
+unsound	غيرُ صحيح؛ فاسِد؛ غيرُ ثابت؛ مُنَفَّط
+unsound knot	عُقدةٌ غيرُ سليمة
+unspecified	غير مُعَيَّن، غيرُ مُخَصَّص / غير محدد
+unsplinterable	لا يَتَشَظَّى
+unsprung mass	كُتلَةٌ لا نابِضيَّة
+unstabilized crude	خامٌ (نفطِيّ) غيرُ مُرَكَّز
+unstable	لا مُستَقرّ، غيرُ مُستَقِر؛ غيرُ ثابِت / غير مستقر / غير ثابت، غير مستقر
+unstable air	هَواءٌ غَيِرُ مُسْتَقِرّ
+unstable air mass	كُتْلَةُ هَواءٍ غَيِرِ مُسْتَقِرّ
+unstable compound	مُرَكَّبٌ غير ثابت
+unstable element	عُنْصُرٌ غيرُ مُستَقِرّ
+unstable equilibrium	اِتِّزانٌ غيرُ مُستَقِرّ، تَوَازُنٌ لا مُستَقِر / اتزان غير مستقر / توازن غير مستقر
+unstable flow	دَفْقٌ (أو جَرَيان) غيرُ مُسْتَقِرّ
+unstable frame	هَيْكَلٌ ضَعيف (ناقِصُ الأعضاء الإنشائيَّة)
+unstable graph	بَيانٌ غَيْرُ مُسْتَقِرّ
+unstable mutation	طفرة غير مستقرة
+unstable oscillation	ذَبذبةٌ غيرُ مُستقِرَّة
+unstable wave	مَوجةٌ غيرُ مُستقِرَّة
+unsteady	غيرُ ثابت، غير مُطَّرِد
+unsteady flow	جريان غير مستقر، تدفق غير مستقر
+unstick speed	سُرعةُ الإقلاع
+unstop(per)	نَزَعَ السِّدادَة
+unstrain	أزالَ الاِنفِعال
+unstratified	لا طِباقيّ، غيرُ مُتَطَبِّق / غير متَطَبِّق / غير متطبق
+unstratified structure	بنية غير طبقية
+unstriated muscle	عضل غير مخطط
+Unstructured Data	بيانات غير مهيكلة / بيانات غير مهيكَلة
+Unstructured Data Mining	تنقيب في البيانات غير المهيكلة
+Unsubscribe	إلغاء التسجيل
+unsuitable	غيرُ ملائم
+unsulfonated residue	فُضالة لا مُتَكَبْرِتَة
+Unsupervised Anomaly Detection	اكتشاف الشذوذ غير الموجَّه
+Unsupervised approach	مقاربة غير مراقبة
+Unsupervised Learning	تعلُّم غير موجَّه
+Unsupervised learning paradigm	نموذج التعلم غير المراقب
+unsupported	غيرُ مُدَعَّم، غيرُ مَسنُود / غير مدعوم
+unsurmountable obstacle	عَقَبَةٌ كَؤُود
+unsymmetric (al)	لا تناظري
+unsymmetric(al)	لا تَماثُلِيّ، غيرُ مُتَماثِل
+unsymmetric; unsymmetrical	لا تناظري
+unsymmetrical anticline	طَيَّة مُحَدَّبةٌ لا تَماثُلِيَّة، قَبْوَةٌ لا تماثلِيَّة الجَناحَين
+unsymmetrical bending	اِنحِناء غيرُ مُتَماثِل
+unsymmetrical fold	طَيَّة لا تَماثُلِيَّة
+unsymmetrical loading	تَحْمِيلٌ لا تَماثُلِيّ
+unsymmetry factor	عامِلُ اللاّتَماثُلِيَّة
+unsynchronized	غيرُ مُتَزامِن
+untapped	غيرُ مُسْتَثْمَر؛ غيرُ مُلَوْلَب (من الداخِل)؛ غيرُ مُفَرَّع
+untapped nut	صَمُولَة غير مُلَولَبة
+untapped resources	مَواردُ غير مُسْتَثْمَرة
+untapped winding	لَفيفة غيرُ مُفَرَّعة
+untar	يَبْسُط المَلَفّات
+untempered	غيرُ مُطَبَّع
+untested	غيرُ مُخْتَبَر، غير مُجَرَّب
+untie	فَكَّ، حَلَّ، اِنْحَلَّ، اِنفَكَّ
+untight	غيرُ مُحْكَم
+untimber	أزالَ الأخشابَ (الدَّاعِمة)
+untimbering	إزالةُ التَّخْشيب، إزالةُ الرَّكائِزِ الخَشَبِيَّة
+Untitled	غير معنون
+untreated	غيرُ مُعالَج (أو مُعامَل)
+Untrusted	غير موثوق به (لا يُوثق به)
+Untrustworthy	غير موثوق به (ليس جديرا بالثقة)
+untuned	غيرُ مُوالَف، غيرُ مُتآلِف
+untuned aerial	هَوائيّ غير مُوَالَف
+untuned circuit	دارة غير مُوالَفة
+untwist	حَلَّ (اللّيّ)
+unusable	لا يُمْكِنُ استِعمالُهُ؛ لا يَصلُح للاستِعمال
+unused	غيرُ مُستَعْمَل؛ غيرُ مُتَعَوَّد
+unused time = unattended time	زَمَنُ التوقُّف (لِغَير أعمالِ الصيانة)
+unusual	غير عادِيّ، اِستِثْنائِي
+unutilizable	لا يُمْكِنُ استِعمالُهُ
+Unvoweled	غير مشكول
+unwater	جَفَّفَ، نَشَّفَ
+unweathered	غيرُ مُجَوًّى / لم يتعرض للتجوية / لم يتعرض للتجوبة
+unweldable	لا لَحُوم
+unwieldy	صَعبُ المِراس؛ غيرُ عَمَلِيّ
+unwind	حَلَّ (اللَّفَّ)، اِنْحَلَّ
+unwinding proteins	بروتينات غير ملتقية
+unworkable	غيرُ عَمَلِيّ، لا يُمْكِنُ تَنفيذُهُ؛ لا يُمكِنُ تَشكيلُهُ؛ لا يُمْكِنُ اسْتِثْمَارُهُ
+unworked	غيرُ مَشْغُول؛ غيرُ مُسْتَغَلّ
+unwrought	خام، غيرُ مُشَكَّل، غيرُ مَشْغُول
+unwrought timber	خَشَبٌ غيرُ مُسَوًّى
+unyielding	قاسٍ، صُلْب؛ غيرُ مِطْواع
+unzip	تَفْكِيك / فك ضغط الملف
+uohm = m ohm	ميكروأُوم
+up	فَوق، إلى أعلى؛ شغّال؛ رَفَعَ، زادَ / جاهز [للعمل]
+up and down	صعودا و هبوطا
+up current	تيّارٌ صاعِد
+up grade	صُعُود / صعود
+up orientation	توجيه متعاكس
+up promoter mutations	طفرات منشطة للمحرض
+up side	جانب مرفوع
+up stream	اتجاه معاكس
+up time	زمن العمل
+up to date	حَديث، جَديد؛ حتى الوقتِ الحاضر
+up-and-over door	بابٌ (أُحادِيُّ الصَّفْق) عُلويُّ التعليق
+up-dip	مَيْلٌ عُلْوِيّ، اِنحدارٌ صاعِد / ميل صاعد
+up-draft	تيّار (سَحْبٍ) صاعِد
+up-fault	صَدْعٌ مَعكوس / صدع مقلوب
+up-fold	طية محدبة عادية
+up-gust	هبُوبٌ صاعِد، عَصْفَة صاعِدَة
+up-heaval	رَفْع
+up-lock	قُفْل الصعود
+up-shaft	مَهْوَاةٌ صاعِدَة
+up-steam	تَيّار البُخار الصاعِد
+up-time	الوقتُ المُُجدي
+upas-tree	أباس، أوباس
+upbringing	تربية، تنشِئة
+upburst	ثوران، فوران
+UPC	رماز المنتجات العميم
+upcast	إزاحةٌ صاعِدَة؛ مُزاحٌ إلى أعلى / مرفوع
+upcast strata	طَبقات مُزاحَة إلى أعلى
+upcut	قَطَعَ عُلْويًّا؛ قَطْعٌ عُلْوِيُّ الاتجاه
+update	حَدَّثَ / يُحَدِّث / نسخة مُحَدَّثة / تحديث
+update file	مِلَفّ التَّحيين
+update journal	دَفْتَرُ التَّحْيِينَات
+updating	تَحْيِين
+updraught	تَصاعُد
+upend	أقامَ (أو قامَ) على حَدِّه
+upfeed	تَغْذِيةٌ صاعِدة
+upglide cloud	سَحابةُ التَّصاعُدِ الإحْدَاقِيّ
+upgrade	حَسَّنَ الدَّرَجَةَ أو النَّوعيَّةَ، رَفَعَ الكِفايَة؛ مُنحَدَرٌ صاعِد / نسخة مُرقّاة / يُرقِّي / ترقية
+upgrading	تَرْقِيَة
+upheaval	فَورة، جَيَشان، ثَوَران؛ تَقَبُّب، نُتوء القِشرة الأرضيَّة / رفع
+uphill	صاعِد؛ صُعُودًا، صُعُدًا؛ مُنْحَدَر
+uphill casting	ألصّبُّ صُعودًا
+uphill welding	أللِّحام صُعودا
+uphold	دَعَمَ، سَنَدَ؛ أَيَّدَ؛ حافَظَ على
+upholster	نَجَّدَ
+upholsterer	مُنَجِّد
+upholsterer’s hammer	مِطرقةُ المُنَجِّدين
+upholsterer’s pliers	زَرَدِيَّة المُنَجِّد
+upholsterer’s regulator	مِسلاسُ المُنَجِّد
+upholstery	نِجادة، صِناعَةُ التنجيد؛ مَوادُّ التنجيد
+upkeep	صِيَانَة
+upland	ضَهْر، نَجْدٌ، أرضٌ مُرتفِعة (بالمُقارنةِ معَ ما حولَها)
+upland plane	سَهْلٌ مُرتَفِع
+uplift	رَفَعَ، اِرتَفَعَ؛ اِرتفاع، رَفْع؛ مَرْفَعٌ أرضيّ؛ تَقَبُّب، نُتوء القِشرة الأرضيَّة؛ دَفْعٌ عُلوِيّ / رفع
+uplifted fault block	كتلة ناهضة، كتلة متصدعة مرفوعة
+uplifted side	جانب مرفوع
+uplink	اِتِّصالٌ صاعِد / وُصلة صاعدة
+upload	يُرحل ؛ يحمّل [إلى] / رفع
+upmost	ألأعلى، الأرفع
+upper	أعلى، عُلْوي، فَوقيّ / قمة، علوي، فوقي
+upper air = upper atmosphere	ألغِلافُ الجَوِّيُّ العُلويّ، الأجواءُ العُليا (فوقَ الستراتُوسفير)
+upper apex of fold	قمة الطية المحدبة
+upper arm	عضد
+upper base	قاعدة عليا
+upper base course	طبقةُ أساسٍ عُلْيا
+upper bed; upper layer	طبقة عليا، طبقة السقف / طبقة (ال..) العليا، طبقة السقف
+upper bend	مفصلة عليا / مفصلة (ال..) العليا
+upper bound	قيد أعلى / حَدٌّ أَعْلَى (عُنْصُرٌ راجِح)
+upper brake shoe	نَعلُ المِكْبَح العُلوِيّ
+Upper Carboniferous	أَلعَصْرُ الكَربونِيُّ الأعلى
+upper case	حَرْفٌ كَبِير / حرف كبير
+upper circumzenithal arc	قَوْسٌ سَمْتِيَّة مُحِيطةٌ عُلْوِيَّة
+upper coal measures	طَبَقاتُ الفَحم العُليا (الأحدَث تَكوينًا)
+Upper Cretaceous	ألعصرُ الطباشيري الأعلى / طباشيري علوي / طباشيري (ال..) العلوي
+upper culmination	تَكَبُّدٌ عُلويّ
+upper Darboux integral	تَكامُلُ دارْبو الأَعْلَى
+upper Darboux sum	مَجْموعُ دارْبو الأَعْلَى
+upper dead centre	ألنُّقْطَةُ المَيْتَةُ العُليا، أعلى الشَّوط
+upper deck	ألسَّطْحُ العُلويّ
+upper extremity	أَلطَّرَفُ الأبعَد (صعودًا)
+upper front	جَبْهَةٌ عُلْوِيّة
+upper Hessenberg matrix	مَصْفوفةُ هِسِّنْبِرغ العُلْيا
+upper high	مُرتفَع ضَغْطِيّ عُلْويّ
+upper integral	التَّكامُلُ الأعْلَى
+Upper Jurassic	العَصر الجوري (أو اليوراسي) الأعلى
+upper limb	الحافةُ العُليا (لِجرمٍ سَماويّ)
+upper limit	نهاية عليا / النِّهايةُ العُلْيا
+upper limit of integration	حَدُّ التَكَامُلِ الأعلى / الحَدُّ الأعْلَى لِلتَّكامُل
+upper low	مُنخَفضٌ ضَغْطِيّ عُلويّ
+upper mantle	الدِّثار العُلوي
+Upper Memory Area	منطقةُ ذاكرةٍ عليا
+upper memory block	كتلةُ ذاكرةٍ عليا
+upper moraine	ركام جليدي علوي / ركام (ال..) الجليدي العلوي، جرافة (ال..) الجليدية العليا
+upper semicontinuous decomposition	تَفْريقٌ نِصْفُ مُسْتَمِرٍّ مِنَ الأَعْلَى
+upper semicontinuous function	دالَّةٌ نِصْفُ مُسْتَمِرَّةٍ مِنَ الأَعْلَى
+upper shell	قِشرةٌ عُليا
+upper shoe	نَعْلٌ عُلوِيّ
+upper side band	نِطاقُ التردُّدِ الجانِبيّ العُلويّ
+upper side; upper wall	جانب (ال..) الأعلى / جانب (ال..) الأعلى، جدار (ال..) العليا
+upper sum	مَجْموعٌ أَعْلَى
+upper sums	مجاميع عليا
+upper transit = upper culmination	تَكَبُّدٌ عُلْويّ، عُبورٌ عُلْويّ
+upper triangular matrix	مَصْفوفةٌ مُثَلَّثِيَّةٌ عُلْوِيَّة
+Upper Triassic	العَصرُ الثُّلاثي (التِّرياسي) الأعلى
+upper valve	صِمامٌ عُلوِيّ
+upper wind	رياح علوية
+upper wing surface	سَطحُ الجَناح العُلويّ
+upper works	إنشاءاتٌ عُلوِيَّة
+upper-air chart	خَرِيطةُ الهواء العلوي
+upper-air observation	رصد الهواء العلوي
+upper-air synoptic station; upper-air station	مَحَطَّةُ إحْداقِيَّةٌ للهواء العلوي
+upper-wind chart	خَرِيطةُ الرّياح العُلْوِيّة
+uppercase	صُندوقُ الحروف الكبيرة (الاِسِْتِهلاليَّة)؛ اِستِهلاليّ، كَبير (لِلحرف الطباعي)
+uppermost	أَلأعلى، الأرفَع
+upraise	رَفَعَ؛ عَدَّنَ صُعُودًا
+upright	قائم، مُنتَصِب، عمُوديّ / عَمود؛ خطٌّ عمُودي؛ قائمٌ إنشائي
+upright ascension	مطلع مستقيم
+upright boiler	مِرجَلٌ قائم
+upright condenser	مُكَثِّفٌ قائم
+upright drilling machine	ثَقَّابة قائمة
+upright engine	مُحَرِّك قائم
+upright fold	طَيَّةٌ قائمة / طية قائمة
+upright member	عُضوٌ (إنشائيٌّ) قائم
+upright shaft	عمُود إدارةٍ قائم
+upright ship	سفينة متوازنة
+uprising	اِرتِفاع، رَفْع، صُعود، بُروز؛ ثورة
+uproar	ضَجيج، صَخَب
+uproot	اِجتَثَّ، اِقتَلَعَ من الجذور
+uprush	اِندفَعَ صُعودًا؛ اِندفاعٌ صاعِد
+UPS	وحدة عدم انقطاع التغذية
+UPS = uninterruptible power system	مَنْظومةُ القُدرة اللامُنقَطِعة
+Upsampling	رفع العيِّنات
+upset	قَلَبَ، اِنقَلَبَ؛ أقلَقَ، بَلبَلَ، شَوَّشَ؛ فَلْطَحَ بالطَّرق (على الساخِن)؛ قَلِق، مُشَوَّش، مُضطرِب؛ مَقلوب؛ مُفَلْطَح بالطَّرقِ (على الساخن)؛ اِختِلال (التوازُن)، اِضطِراب؛ تَفَلطُح، فَلطَحة
+upset (thermal...)	اضطراب حراري
+upset end	طَرَفٌ مُفَلْطَحٌ بالطَّرق
+upset forging	تَشكيلٌ مُفَلْطَح
+upset price	سِعْرُ المَزادِ الأدنى (المُحَدَّدُ لِلشَّيءِ المُرادِ بَيْعُه)
+upset(thermal)	اضطراب حراري
+upsetting	الفَلْطَحةُ بالطّرْقِ على الساخِنِ
+upsetting angle	زاوية القلب، زاوية الانقلاب
+upsetting die	قالَبُ فَلْطَحَة
+upsetting machine	مَكَنَةُ فَلْطَحَة
+upsetting moment	عَزْمُ القَلْب
+upsetting press	مِكْبَسُ فَلْطَحَة
+upside	ألجانِبُ العُلويّ
+upside-down	رأسًا على عَقِب، مَقلُوب
+upslope fog	ضَبابٌ مُتَسَلِّق، ضَبابٌ مُتصاعِد
+upstand	قائم
+upstream	ضِدّ التيار؛ مَصْعَدُ النهر، عاليةُ النَّهر / مصعد النهر / مصعد النهر، عالية النهر / ضد التيار، نحو أعلى النهر
+upstroke	شَوطُ الصعود
+upstructure	قمة البنية
+upsurge	اِرتفاعٌ مُفَاجِئ
+uptake	سحبَ (إلى أعلى)، امتَصَّ؛ استَوعب، تمَثَّلَ؛ مأخَذ (تصريفٍ) صاعِد
+uptake rate	مُعَدَّلُ الاِستيعاب
+upthrow	رمية عليا
+upthrow = upcast	مَهوَاةٌ صاعِدة
+upthrow fault	صدع يكون المرفوع فيه باتجاه الحوض المجاور
+upthrow of a fault	رَفْعَةُ الصَّدْعِ
+upthrown	مرفوع
+upthrown block	كتلة مرفوعة
+upthrown fault block	كتلة متصدعة مرفوعة
+upthrown side	جانِبٌ صاعِد، جانِبُ المَرمى العُلْوي
+upthrown side of fault	جانب (ال...) المرفوع للصدع / جانب المرفوع الصدع
+upthrust	قُوَّةُ دَفْعٍ عُلْوِيّ؛ دَفْعٌ رافِع؛ دَسْرٌ عُلْوي، تَقَبُّب / نهوض، رَفْع / نهوض، رفع
+uptime	زمنُ العمل
+uptrusion	اِندِساسٌ عُلويّ / اندساس صاعد
+upturn	عَقَفَ، عَطَفَ (إلى أعلى)، اِنعقَفَ، اِنعَطَفَ؛ أصلَحَ، حَسَّنَ، تَحَسَّن
+upturning	عَقْف، اِنعِطاف، اِرتِداد إلى أعلى
+upward	صاعِد
+upward (or upwards)	إلى أعلى
+upward (total) radiation	إشعاع (كُلّيّ) صاعِد
+upward atmospheric radiation	إشْعاع جَوّيّ صاعِد
+upward gradient	مَمَالٌ صاعِد، مَدروجٌ صاعِد
+upward terrestrial radiation	إشْعاع أرْضِيّ صاعِد
+upward-compatible	متوافق مع الأحدث
+upwarp	قَبْوة عَريضةٌ خَفيضة
+upwarping	تَقَبُّب، تَسَنُّم؛ قَبْوة
+upwash	اِجتِراف عُلويّ؛ زاويةُ الاجتِراف العُلوي
+Upweighting	زيادة الوزن
+upwind	ضِدّ الريح؛ رِيحٌ مُعَاكِسَة / ضد الريح
+uracil	يُوراسيل / يوراسيل
+uralite	يُوراليت
+uranic	يُورانيّ؛ خاصٌّ باليورانيوم
+uraniferous	حاوٍ اليُورانيوم
+uraninite	يُورانِينَيْت؛ پِتْشبلِنْد
+uranite	يُورانِيت
+uranium (U)	أليُورانيُوم
+uranium minerals	معادِنُ اليُورانيُوم
+uranium reactor	مُفاعِلُ اليُورانيوم
+uranium series	سِلْسِلَة اليورانيوم
+uranium-actinium series	سِلسلةُ اليُورانيوم والأكتِنيُوم
+uranium-graphite lattice	شبيكة اليورانيوم والغرافيت
+uranium-lead dating	التأريخُ باليورانيوم والرصاص
+uranium-radium series	سِلسلةُ اليُورانيوم والراديُوم
+uranous	يورانوز
+Uranus	أُورانُوس / أورانوس / زُحَل / زحل / أورانوس (كوكب)
+urban	مَدَنيّ، مَدِينيّ / الحضر
+Urban Population (% of Total Population)	نسبة سكان المدن كنسبة من إجمالي السكان
+urbanization	تَمدين، تَمَدُّن، تَحَضُّر / معدل التحضر
+URC	وصف نظامي للموارد
+urchin (sea)	قنفذ البحر
+urchin (sea...)	قنفذ البحر
+urea	يُورْيَا، بَوْلَة، بَوْلينا / بولينا
+urea formaldehyde resins	راتِيْنَجاتُ اليُوريا والفورمَلْديهيد
+uredines	فصيلة شقرانية
+uredospore	بوغ، يوريدي
+ureter	حالِب / حالب
+urethane resins	راتِينَجاتُ اليُوريثان
+urethar	احليل، مجرى البول
+urethra	إحليل، مَبال
+urge	اِستحَثَّ، حَفَزَ، دَفَعَ؛ دافِع، حافِز
+urgency	اِستِعْجال، إلحاحيَّة
+urgent	مُلِحّ، عاجِل، مُستعجِل / عاجل
+Urgent condition	شرط ضروري
+URI	هُويّة نظامية للموارد
+uric acid	حامِضُ البَوليك، ألحامضُ البَوليّ / حمض بولي
+uridine	يوريدين
+uridylic acid	حمض اليوريدليك
+urinalysis	تَحليلُ البَول
+urinary bladder	المَثانة البَوليَّة
+urinary duct	قناة بولية
+urinary system	الجِهازُ البَولي
+urination	تَبَوُّل
+urine	بَوْل / بول
+uriniferous tubule	أنبوبة بولية
+URL	عنوان مَوْرِد نظامي / مسار
+URN	اسمُ مَوْرد نظامي
+urodele	ذوائل
+urogenital system	الجِهازُ البَولي التناسُلي
+urologist	طبيبُ الجِهازِ البَوْلي
+uromeristem	مرستيم بدائي
+ursa major	دب (ال...) الأكبر
+Ursa Major (The Great Bear)	ألدُّبُّ الأكبَر
+ursa minor	دب (ال...) الأصغر
+Ursa Minor (The Little Bear)	الدُّبُّ الأصغَر
+ursidae	دبية
+urtica	حرقة، قرص
+urticaceae	فصيلة حريقية
+urticaria	الشَّرى
+Urysohn space	فَضاءُ أُوريسون
+Urysohn's lemma	تَوْطِئةُ أُوريسون
+Urysohn's metrization theorem	مُبَرْهَنةُ أُوريسون في التَّمْتير
+Urysohn, Paul Samuilovich	پاوُل صَمْويلوڤِتْش أُوريسون
+usability	اِستِعماليَّة، صَلاحيَهُ الاستعمال
+usable	قابل للاستخدام
+usable (or useable)	صالِحٌ للاستعمال
+usage	اِستعمال / استعمال
+Usage Parameter Control (UPC)	تحكّم في موسِطات الاستخدام
+USB	مسرى تسلسلي عميم / الناقل التسلسي العام (USB)
+use	اِستعْمَلَ، اِسْتَخدَمَ، اِنتفَعَ بِـــ؛ عَمِلَ بِـــ؛ تَعَوَّدَ؛ اِستعمال؛ فائدة، مَنْفَعَة، نَفْع
+Use of Income Account	حساب استخدام الدخل
+Use-based Testing	اختبار معتمد على الاستخدام
+used	مُسْتَعْمَل؛ مُتَعَوِّد
+useful	نافع، مُفِيد
+useful elastic limit	حَدُّ المُرونة النافِع
+useful life	ألعُمر النافع (لِلآلة أو الجهاز)
+useful load	ألحُمولة النافعة
+useful minerals	ألمعادِن النافعة / معادن نافعة
+useful power	القُدرة المُفيدة
+useful resistance	ألمُقاومَةُ المُستفادُ منها، مُقاومة نافِعة
+useful work	ألشُّغْلُ النافِع (أو المُستفاد منه)
+useless	عديمُ النَّفْع، عديمُ الجَدوَى
+Usenet	[شبكة] Usenet / شَبَكَةُ اسْتِعْمَال
+Usenet User List	لائحةُ مستخدِمي Usenet
+user	مُستَخدِم، مُستَعْمِل؛ مُشتَرِك، مُنتَفِع؛ حقُّ الاستِعمال المكتسَب (بطُول مدة الاستعمال) / مُسْتَعْمِل / مستخدم / مستخدِم
+user account	حسابُ مستخدِم / حساب المستخدم
+User account Control	التحكّم بحساب المستخدم
+user agent	وكيلُ المستخدِم / وكيل المستخدم
+User Datagram Protocol	ميفاق برقية معطيات المستخدِم
+user datagram protocol (UDP)	بُرُوتُوكُول جُزْئِيَّاتِ الْمُعْطَيَات / بروتوكول برقية معطيات المستخدم
+User defined	محدد من المستخدم
+user documentation	وثائقُ المستخدِم
+user group	مجموعةُ مستخدِمين
+user guide	دَلِيلُ مُسْتَعْمِل
+User identifier	معرّف المستخدم / معرّف (معين هوية) المستخدم
+user interface	واجهةُ المستخدِم / وَجِيهَةُ مُسْتَعْمِل
+user manual	دليلُ المستخدِم
+User Matrix	مصفوفة المستخدم
+user name	اسمُ المستخدِم / اسم مستخدم
+user profile	لاحةُ المستخدِم / جَانِبِيَّةُ مُسْتَعْمِل
+user program	بَرنَامَجُ مُسْتَعْمِل
+user state	حالةُ المستخدِم
+User-based Security (USM) Model	نموذج الأمن المعتمد على المستخدم
+user-defined data type	نوعُ معطياتٍ يُعَرِّفه المستخدِم
+user-defined function key	مفتاحٌ وظيفيّ يُعَرِّفه المستخدِم
+user-friendly	ودود / سَهْلَةُ الاسْتِعْمَال / سهل الاستخدام
+username	اسمُ المستخدِم / اسم المستخدم
+usnea	أشنة
+USRT	مرسل/مستقبل متزامن عميم
+usual	عاديّ، مُعتاد، دارِج، مألوف
+Usual Environment	البيئة المعتادة
+Usual place of Residence	مكان الإقامة المعتادة
+UTC	إحداثيّ زمنيّ عميم
+utensil	أداة، أداة مَنزليَّة؛ وِعاء، إناء
+uterus	الرَّحِم / رحم
+uterus masculinus	رحم ذكري
+utility	مَنفعة، نَفْع، فائدة؛ مَرْفِقُ أو مَصْلحَةُ خدمةٍ عامَّة؛ نَفْعِيّ، نَفْعِيٌّ عَمَلِيّ / نافعة / نَفْعِيَّة / وسيلة
+utility factor	عامِلُ النفعيَّة
+utility program	برنامَجٌ مَرفقي / برنامجٌ نافعيّ ، نافعة
+utilizable	نَفُوع
+utilization	اِنتِفاع، إستفادة / استخدام ؛ انتفاع / استغلال، استفادة
+utilization factor	عامِلُ الانتِفاع
+utilize	اِستَخدَمَ، اِستعمَلَ، اِنتفعَ بِــ
+utmost	أقصى، أعظَم؛ غاية، حَدٌّ أقصى
+UTP	زوج مضفور غير محجَّب
+utrasaturated	فوق مشبع
+utrasaturated solution	محلول فوق مشبع
+utriculus	كيس المثانة
+utter	لَفَظَ، نَطَقَ، فاهَ بِـــ؛ تداوَلَ (بأوراقٍ مُزَوَّرة أو مُزيَّفة)
+Utterance	نُطْق / كلام منطوق
+utterly	تمامًا، مُطلقًا
+uttermost	أقصى، أعظَم، أسمَى؛ غاية، مُنْتَهَى
+UUCP	نسْخ من UNIX إلى UNIX
+uvarovite	أوڤارُوڤيت
+uvea	العِنَبيَّة
+uvula	اللَّهاة
+uvular	لهوية

@@ -1,0 +1,176 @@
+يؤرِّخ	date
+يؤكسِد	oxidize (v)
+يؤكل	edible
+يؤيّن	ionize (v)
+ياسمون	jasmone
+ياقوت	corundum / ruby
+ياقوت أحمر	ruby
+ياقوت أزرق	sapphire
+يبادر	initiate (v)
+يبادل	commute (v)
+يبدّد	dissipate (v)
+يُبعثر، يشتّت	disperse (v)
+يُبَلْمَر	polymerize (v)
+يُبين	decant (v)
+يتحد، يولّف	combine(v)
+يتحرّى، يتقصّى	screen (v)
+يتراكب	overlap (v)
+يتردّى، ينحطّ	degenerate (v)
+يترقد	settle (v)
+يتطابق	coincide (v)
+يتعنقد	cluster (v)
+يتقلّص	contract (v)
+يتكتّل	agglomerate (v)
+يتكدّس	aggregate (v)
+يتمدّد	dilate (v)
+يتمدّد، يمدِّد	extend (v)
+يتملّص	elude (v)
+يتناضح	osmose (v)
+يتوسّع	expand (v)
+يثبِّت	immobilize (v)
+يثبّط	inhibit (v)
+يُثير	excite (v)
+يجدّد	regenerate (v)
+يجفّف	desiccate (v) / dry (v)
+يجمّد	congeal (v)
+يجيب، يستجيب	respond (v)
+يحتجز	retain (v)
+يحرِّر	release (v)
+يحرف	deviate (v)
+يحرق	burn (v)
+يحرِّك	drive (v)
+يحسّن	reform (v)
+يُحَفِّزْ	catalyse(v)
+يحقن	inject (v)
+يحكّ	scratch (v)
+يُحلل	analyse (v)
+يحلّل بالحرارة	pyrolyse(v)
+يحلّي	sweeten (v)
+يُحمِّض	acidify (v)
+يختزل	reduce (v)
+يخضخض	agitate (v)
+يخضور، كلوروفيل	chlorophyll
+يخفض	depress (v)
+يُخَفِّف	damp (v)
+يخفق، يعجن	beat
+يخمِّل	deactivate (v)
+يد الهاون، مدق	pestle
+يدور	circulate (v)
+يَدَوي	manual
+يديل	dialyse (v)
+يذيب، يذوب	dissolve (v)
+يُراكِم	cumulate(v)
+يُرَكِّز	concentrate (v)
+يُروّق	clarify (v)
+يزيح	displace (v)
+يزيل الاستقطاب	depolarize (v)
+يساريّ	laevo
+يساري التدوير	levogyre / levorotatory
+يساري الدوران، أيسر الدوران	laevo-gyrate
+يساري الدوران، يساري التدوير	laevo-rotatory
+يساري: سابقة	levo- (laevo-)
+يستبدل	replace (v)
+يستبعد	exclude (v)
+يستخلص	extract (v)
+يسترجع	recuperate (v)
+يستمر	continue (v)
+يستنفد	exhaust (v)
+يسحق	comminute(v)
+يَسْحن، يَسْحَل	grind (v)
+يسرّع	accelerate (v)
+يسكب، يصب	pour (v)
+يسود	dominate (v)
+يَشْب، يَشْم	jade
+يشرِّب	impregnate (v)
+يُشعِّع	irradiate (v)
+يُشوّه	distort (v)
+يشوي	roast (v)
+يشوي، يخبز	bake (v)
+يصاوِغ	isomerize
+يصدم	collide(v)
+يصرف	drain (v)
+يصقل	calender (v)
+يصهر	fuse (v)
+يصوِّل، يروّق	elutriate (v)
+يضغط	compress(v)
+يطبّع	temper (v)
+يُطفئ	extinct (v) / extinguish (v)
+يُظْهِر	develop (v)
+يعالج	treat (v)
+يُعاير	calibrate (v)
+يُعدي	infect (v)
+يعرّف	define (v)
+يعرّي، يجرّد	strip(v)
+يعزل	insulate (v) / isolate (v)
+يعكس	reflect (v) / reverse (v)
+يعيد الدورة	recycle (v)
+يعيّن، يحدّد	determine (v)
+يغربل	sift (v)
+يَغلي	boil (v)
+يُفْرِغ	excrete (v)
+يفرّق	dissociate (v)
+يفصل	separate (v)
+يُفعِّل، يُنشّط	activate (v)
+يفلور	fluorinate(v)
+يقطِّر	distill (v)
+يقوّم، يكرّر	rectify (v)
+يُقوّي	reinforce (v)
+يكبح	repress (v)
+يُكَرْبِنْ	carbonize(v)
+يكرّر، يصفّي	refine (v)
+يكسر	break
+يكشُط	scrape (v)
+يكشف	detect (v)
+يكلِّس	calcine (v)
+يُكَلْوِر	chlorinate (v)
+يمتزّ	adsorb (v)
+يمتص	absorb (v)
+يُمدِّد، يخفِّف	dilute (v)
+يمزج	blend (v)
+يمسح	scan (v)
+يمنح	donate (v)
+يميِّز	characterise (v) / distinguish (v)
+يُميِّز، يُفرِّق	resolve (v)
+يميني التدوير	dextrorotatory
+يميني الدوران	dextrogyrated
+يميني: سابقة	dextro-
+يناوب، يتناوب	alternate(v)
+ينبذ	centrifuge(v)
+ينتز	desorb (v)
+ينتزع	elute (v)
+ينتشر	diffuse (v)
+ينتفخ	inflate (v)
+يندمج	coalesce(v)
+ينزع القلوية	dealkalyze
+ينزع الكربون	decarbonize (v)
+ينزع الماء، يُبلمه	dehydrate (v)
+ينسّق، يساند	coordinate (v)
+يُنظِّف	clean (v)
+ينظِّم	regulate (v)
+ينقّص	decrease (v)
+ينقع	infuse (v)
+ينهي	terminate (v)
+يود	iodine
+يودات	iodate
+يوددة	iodination
+يودوفورم	iodoform
+يوديد	iodide
+يوديد الفضة	silver iodide
+يوديد، يودور	iodide
+يوراسيل	uracil
+يورانيوم	uranium
+يورانيوم مخصّب	uranium,enriched
+يورانيوم مستنفد	uranium, depleted
+يورانيوم-233	uranium-233
+يورانيوم-234	uranium-234
+يورانيوم-235	uranium-235
+يورانيوم-238	uranium-238
+يورانيوم، أورانيوم	uranium
+يوروبورفيرين	uroporphyrin
+يوريا، يولينا	urea
+يورياز	urease
+يوريتان	urethane
+يوريدين	uridine
+يوريكاز	uricase
+يوقف	block (v)
+يوهن	attenuate(v)

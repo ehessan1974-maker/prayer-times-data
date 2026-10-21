@@ -1,0 +1,885 @@
+saccharimeter	مقياس السكَّر
+saddle point method	طريقة النقطة السرجية / طريقة النقطة السـرجية
+safe geometry	هندسة الأمان (ن)
+safeguards	ضوابط السلامة (ن)
+safeguards of nuclear materials	ضوابط السلامة المواد النووية (ن)
+safety	أمان
+safety assembly	مجمَّع الأمان (ن)
+safety chain	سلسلة الأمان (ن)
+safety circuit	دارة الأمان (ن)
+safety element	عنصر الأمان (ن)
+safety factor	عامل الأمان
+safety lamp	مصباح الأمان
+safety member	عضو الأمان (ن)
+safety rod	قضيب الأمان (ن)
+safety valve	صمام الأمان / صِمام أمان
+salt bridge; buffer solution	محلول محايِّد
+samarium	سماريوم
+sample	عيِّنة / عيِّنة
+sample point	نقطة عيِّنة
+sample size	قياس العيِّنة (ن)
+sampling	اعتيان
+sandpaper	ورق مرمل / ورق سَحْج
+satellite	ساتل
+saturated compound	مركَّب مشبَّع
+saturated solution	محلول مشبَّع / محلول مُشْبَع
+saturated steam	بخار ماء مشبّع
+saturated vapour	بخار مشبّع / بخار مُشْبَع
+saturated vapour pressure	ضغط البخار المشبع
+saturation	اشباع، تشبع
+saturation activity	نشاط التشبع (ن) / نشاط إشعاعي إشباعي
+saturation boiling	غليان التشبع (ن)
+saturation current	تيار التشبع (ن) / تيار الإشباع
+saturation curve	منحنى التشبع (ن)
+saturation magnetization	مغنطة اشباع / مغنطة الإشباع
+saturation magnetostriction	تقبض مغنطيسي اشباعي
+saturation scale	سلّم اشباع
+saturation voltage	فولطية التشبع (ن)
+sawtooth waveform	موجة أسنان المنشار
+scalar	سُلَّمي؛ عدديّ
+scalar product	جداء سُلَّمِي؛ جداء داخلي؛ جداء عددي
+scalar quantity	كمية لا اتجاهية / كمية سُلَّمِيَّة؛ كمية عددية
+scale	سُلَّم؛ تدريج
+scale factor	عامل المقياس
+scale-of two circuit	دارة تدرج ثنائي (ن)
+scale-of-ten circuit	دارة تدرج عشري (ن)
+scale-pan	كفّة الميزان / كفة الميزان
+scaler	سلّم تدريجات / عدَّاد؛ سُلم العد
+scaling circuit	دارة سلم العد (ن)
+scaling factor	عامل سلّم العد (ن)
+scandium	سكانديوم
+scanner	ماسح
+scanning	مسح
+scanning beam	حزمة مسح
+scanning electron microscope	مجهر إلكتروني ماسح
+scatter loading	تحميل موزع (ن)
+scattered beam	حزمة مبعثَرَة
+scattered radiation	إشعاع مستطار
+scattering	استطارة (ن)
+scattering amplitude	اتساع الاستطارة
+scattering angle	زاوية الاستطارة / زاوية التبعثر
+scattering coefficient	مُعامل التبعثر
+scattering cross section	مقطع عرضي للاستطارة (ن)
+scattering function	دالَّة التبعثر
+scattering Kernel	نواة الاستطارة (ن)
+scattering law	قانون الاستطارة (ن)
+scattering loss	فقد الاستطارة
+scattering of light	استطارة الضوء
+scattering polarization	استقطاب بالاستطارة
+scavenging	تنقيّة / كَسْح
+Schmidt objective	جسميةُ شمدت
+Schottky diode	ديود شوتكي
+Schottky specific heat	حرارة شوتكي النوعية
+Schrodinger wave function	دالَّة شـرودنغر الموجية
+Schrodinger's equation	معادلة (ن) / معادلة شـرودنغر
+science	عِلْم
+scientific method	طريقة علمية؛ نهج علمي
+scintigraphy	تصوير وَمَضَاني
+scintillation	وميض (ن) / ومضة؛ وميض
+scintillation counter	عداد الوميض / عدّاد وميض
+scintillation crystal	بلورة وميض
+scintillation detector	مكشاف وميضي (ن)
+scintillation spectrometer	مطياف وميضي (ن) / مقياس طيف وميضي
+scintillator	وامض (ن)
+scintiscanner	ماسح الوميض
+sclera	صُلية العين
+sclerotic; sclera	بياض العين
+SCR	مقوِّم تحكُّم سيليكوني
+scram	ايقاف طارئ (للمفاعل) (ن) / إيقاف فُجائي
+scrap	نفايات التصنيع (ن)
+screen	حاجب حائل؛ شاشة
+screen grid	شبكة حاجبة
+screen processes	عمليات حجب
+screened condenser	مكثِّف محجَّب
+screening	حَجْب
+screening constant	ثابتة الحجب
+screening constant; screening number	ثابت الحجب
+screening effect	مفعول الحجب
+screening number	ثابتة الحجب
+screw	ملولب / لولب؛ برغي؛ بُزال
+screw axis	محور ملولبي
+screw dislocation	انخلاع ملولبي / انخلاع لولبي
+screw-jack; jack screw	مرفعة ملولبية
+scrubbing	تنظيف (ن)
+sealed source	مصدر محكم التغليف (ن)
+seat of charge	مَقَرّ الشحنة
+SECAM	سيكام
+second	ثانية
+second harmonic	مدروج أول؛ توافقية ثانية
+second harmonic band; first overtone band	نطاق توافقي ثان
+second harmony	توافقية (ال...) الثانية
+second order	مرتبة ثانية (ن)
+second quantization	تّكمية (ال...) الثانية
+secondary	ثانويّ
+secondary coil	مِلَف ثانوي
+secondary colour	لون ثانوي
+secondary coolant circuit	دارة تبريد ثانوية (ن) / دارة تبريد ثانوية
+secondary cosmic rays	أشعة كونية ثانوية
+secondary current	تيار ثانوي
+secondary electromagnetic constants	ثوابت كهرمغنطيسية ثانوية
+secondary electron	إلكترون ثانوي
+secondary electron emission	إصدار إلكترونات ثانوية
+secondary emission	انبعاث ثانويّ
+secondary flow	جريان ثانوي
+secondary induction coil	ملف حث ثانوي
+secondary ionization	تأين ثانوي (ن) / تأيين ثانوي
+secondary radiation	اشعاع ثانوي (ن)
+secondary rainbow	قوس قزح ثانوية / قوس قزح ثانوي
+secondary transformer	محوّل ثانوي
+section	مقطع / مقطع؛ قسم
+sector	قطاع / قِطاع
+sector disk	قرص قطاعات
+secular determinant	محددة توازن
+secular equation	معادلة توازن
+secular equilibrium	توازن أبدى (ن)
+sedimentation	ترسيب
+sedimentation constant	ثابت الترسيب
+sedimentation; settling	ترسيب
+Seebeck effect	مفعول سيبِك
+seismograph	مسجِّل الزلازل
+selection rules	قواعد الانتقاء / قواعد الاصطفاء
+selective absorption	امتصاص انتقائي
+selective radiator	مشع انتقائي
+selective scattering	استطارة انتقائية
+selectivity	انتقائيّة / اصطفائية
+selenium	سيلينيوم
+self absorption factor	عامل امتصاص ذاتي (ن)
+self adjoint matrix	مصفوفة ذاتية الترافق
+self adjoint operator	مؤثر ذاتي التوافق
+self conjugate particle	جسيم ذاتي الترافق
+self discharge	تفريغ ذاتي
+self inductance	تحريضية ذاتية
+self induction	تحريض ذاتي
+self quenched counter tube	أنبوب عداد ذاتي الاخماد (ن)
+self regulation	تنظيم ذاتي (ن)
+self stress of the electron	اجهاد الالكترون الذاتي
+self-absorption	امتصاص ذاتي
+self-absorption; self-reversal	امتصاص ذاتي (ن)
+self-bias	انحياز ذاتي
+self-diffusion	انتثار ذاتي
+self-discharge	تفريغ ذاتي
+self-energy	طاقة ذاتية
+self-inductance	حثّية ذاتية
+self-induction	حث ذاتي
+self-maintained discharge; self-maintaining gas discharge	تفريغ ذاتي الاستمرار
+self-quenching counter	عداد ذاتي الإطفاء
+self-scattering	استطارة ذاتية
+self-shielding factor	عمل تدريع ذاتي (ن)
+semi permeable membrane	غشاء نصف نفوذ
+semi-conductor	شبه موصل
+semi-darkness	شبه الظل؛ ظُلَيل
+semi-empirical mass formula	الصيغة شبه التجريبية للكتلة
+semi-permeable diaphragm; semi-permeable membrane	غشاء شبه منفّذ
+semi-tone	نصف نغمة
+semi-transparent	شبه شفّاف
+semiconductor	شبه موصّل؛ نصف ناقل
+semiconductor band structure	بنية نصف الناقل العِصابية
+semiconductor detector	مكشاف شبه موصل (ن)
+semilog paper	ورقة نصف لوغارتمية
+semipermeable	شبه منفّذ
+sensation level	مستوى الإحساس الصوتي
+sense of a vector	جهةُ متَّجِه
+sensible film	طبقة حساسة؛ فِلم حسّاس
+sensible heat	حرارة محسوسة
+sensitive	حسّاس
+sensitive balance	ميزان حسّاس / ميزان حساس
+sensitive flame	لهب حسّاس
+sensitive length	طول (ال...) الحسّاس (ن)
+sensitive plate	صفيحة حسّاسة
+sensitive volume	حجم (ال...) الحسّاس (ن)
+sensitivity	حسّاسية (ن) / حساسية
+sensitivity of balance	حسّاسية الميزان
+sensor	مُحِس؛ مُشْعِر
+separation	انفصال
+separation circuit	دارة الفصل
+separation efficiency	كفاءى الفصل (ن)
+separation energy of the electron	طاقة فصل الإلكترون
+separation factor	عامل الفصل (ن) / عامل الفصل
+separation of flow	فصل الجريان
+separation of isotopes	فصل النظائر
+separation velocity	سرعة الانفصال
+separative element	عنصر فاصل (ن)
+separative power	قدرة الفصل (ن)
+sequence	متتالية؛ تتابع
+series	سلسلة / متسلسلة
+series (in..)	على التسلسل
+series circuit	دارة تسلسلية
+series connection	وصل على التسلسل؛ ربط تسلسلي
+series equivalent circuit	دارة مكافئة تسلسلية
+series of lines	متسلسلة خطوط طيفية
+series of spectrum lines	سلسلةخطوط طيفية
+series resistances	مقاومات تسلسلية
+series resistors	مقاوِمات على التسلسل
+series resonance	رنين تسلسل
+service life of a counter	عمر العدّاد
+set	مجموعة
+settling	ترسيب؛ ترقيد
+settling basin	حوض ترقيد
+settling; sedimentation	ترسيب
+sextant	سدسية / ذات السدس
+shade (to…)	يظلل
+shading	تظليل
+shadow	ظل
+shadow cone	مخروط الظِلّ / مخروط الظل
+shadow factor	عامل الظِلّ
+shadow shield	حاجز ظِلّي (ن) ، حاجز جزئي
+shadow zone	منطقة الظِلّ
+shadow; umbra	ظِلّ
+shadowing	تظليل (ن)
+shallow states	حالات ضحلة
+sharing	تقاسم؛ مشاركة
+sharing of a charge	تقاسم الشّحنة
+sharp series	متسلسلة حادّة
+sharpness of resonance	حدّة الرنين / حِدَّة التجاوب
+shear	قصّ / قَصّ
+shear modulus	مُعامل القص
+shear modulus; rigidity	معامل القصّ
+shear strain	انفعال القصّ / انفعال القص
+shear stress	إجهاد القص
+shearing strain	انفعال قصّي
+shearing stress	إجهاد القص
+sheath	غمد؛ غلاف
+shell	قشرة / طبقة
+shell model	نموذج القشرة (ن)
+shield	درع (ن) / درع؛ حجاب
+shielded nuclide	نية انشطار (ن)
+shielding	تدريع؛ تحجيب
+shielding plug	سدادة التدريع (ن)
+shielding ratio	نسبة التدريع
+shielding window	نافذة التدريع (ن)
+shift	انزياح / انزياح؛ إزاحة
+shift of spectral line	انزياح خطوط الطيف
+shim element	عنصر تدعيم (ن)
+shimming	تدعيم (ن)
+shock	صدم
+shock absorber	مخمِّد الصدمات
+shock excitation	تهيّج صدمّي / إثارة صدمية
+shock motion	حركة صدمّية / حركة صدمية
+shock wave	موجة الصدمة / موجة صدم
+Shockley diode	ديود شوكلي
+shockproof	صامد للصدمات
+short circuit	دارة قِصر
+short range force	قوة قصيرة المدى
+short wave	موجة قصيرة
+short-circuit	دارة قَصـر؛ دارة قصيرة
+short-circuit current	تيار القَصـر؛ تيار الدارة القصيرة
+Shottky barrier diode	ديود حاجز شوتكي
+shower	زخَّة؛ هَمْرة؛ وابل
+shower particles	زخّة جسيمات
+shuffling of fuel	اعادة ترتيب الوقود (ن)
+shunt	مفَرِّعة / مُفَرِّعة
+shunt ammeter	مفرعة مقياس الأمبير
+shunt of ammeter	مفرعة المقياس الأمبيري، مفرع الأميتر
+shunt regulator	منظِّم ذو مفرِّعة
+shutdown	ايقاف (ن)
+shutter	مغلاق / مِغلاق
+shutter of a camera	مغلاق الصوّارة / مِغلاق المصوِّرة
+shuttle	مكوك / مكُّوك
+shuttle movement	حركة مكوكّية
+SI units	واحدات النظام الدولي
+side band	نطاق جانبي
+sievert	سيفرت
+sight meter	مبصار
+sigma particle	الجسيم سيغما
+sign	إشارة؛ علامة
+sign convention	اصطلاح الاشارات / اصطلاح الإشارات
+signal	إشارة
+signal generator	مولِّد إشارات
+signal to noise ratio	نسبة الإشارة إلى الضجيج
+significant figure	رقم معنوي أو دِلالي
+silencer	مخفّت / كاتم صوت
+silent of brush discharge	تفريغ فرشاتي
+silicon	سليسيوم
+silicon controlled rectifier	مقوِّم تحكُّم سيليسيومي
+silver	فضة
+similarity transformation	تحويل تشابهي
+similarity transformations	تحولات تماثلية
+simple cascade	شلال بسيط (ن)
+simple cell	خلية بسيطة
+simple circuit	دارة بسيطة
+simple harmonic motion	حركة توافقية بسيطة
+simple harmonic oscillator	مهتز توافقي بسيط
+simple lens	عدسة بسيطة
+simple machines	آلات بسيطة
+simple microscope	مجهر بسيط
+simple pendulum	نوّاس بسيط / نواس بسيط
+simple point source	مصدر نقطي بسيط
+simple tone	نغمة بسيطة
+simultaneity	آنية (ال...) / تآون
+simultaneity factor	عامل الآنية (ن)
+simultaneous	متآون
+simultaneous equations	معادلات آنية
+sine	جيب
+sine condition	شـرط الجيوب
+sine wave	موجة جيبية
+sine wave; sinusoidal wave	موجبة جيبيّة
+single	مفرد
+single crystal	وحيد البلّورة / بلورة أحادية
+single pole	وحيد القطب
+single pulley	بكرة مفردة
+single scattering	استطارة وحيدة (ن)
+single-channel analyser	محلل وحيد القناة (ن)
+single-value function	دالة أحادية القيمة (ن)
+singlet	أحادية
+singlet linkage	صلة (ال...) الأحادية
+singlet state	حالة أحادية
+sink	مصـرف
+sinusoidal current	تيار جيبي
+sinusoidal function	دالة جيبية (ن)
+sinusoidal wave	موجة جيبية
+sinusoide	منحني جيبي
+siphon	مِثعَب / مِمَصّ؛ مِثْعَب
+siphon barometer	مضغاط ثعبيّ
+siphonage; suction	ثَعب
+siren	صفارة انذار / صفّارة إنذار
+site	موقع
+sitting criterion	معيار اختيار موقع (ن)
+size	قدّ؛ حجم
+skew rays	أشعة مائلة
+skew symmetric matrix	مصفوفة متخالفة التناظر
+skiagram	مخطط شعاعي: للعين
+skin	أَدَمة
+skin depth	عمق الأدمة / عمق القشـرة
+skin dose	جرعة نسيجية؛ جرعة جِلدية
+skin dose; tissue dose	جرعة الأدمة، جرعة نسيجية
+skin effect	مفعول القِشـرة
+skin effect; Kelvin effect	تأثير الأدمة، تأثير كلفن
+skin resistance	مقاومة الأدمة / مقاومة القشـرة
+skinless	عديم الأدمة
+sky wave	موجة سماوية
+skyshine	تأثير سماوي (ن)
+slag	خَبَث
+Slater determinant	محدِّد سلاتر
+slide caliper	قَدَم قنويَّة
+slide calipers	قدمة انزلاقية
+slide valve	صمام انزلاقي / صِمام انزلاقي
+slide-rule	مسطرة حاسبة
+sliding	انزلاق
+sliding friction	احتكاك انزلاقي
+slip	انزلاق
+slip bands	نطق انزلاق
+slip line	خط انزلاق
+slip plane	مستوى انزلاق
+slipband	خط انزلاق
+slit	شق / شِقّ
+slope	ميل؛ انحدار
+slow discharge	تفريغ بطيء
+slow neutron	نترون بطيء
+slow neutrons	نترونات بطيئة
+slow reactor	مفاعل حراري
+slowing down density	كثافة التباطؤ
+slowing-down	تباطؤ
+slowing-down area	مساحة التبطئة (ن)
+slowing-down density	كثافة التبطئة (ن)
+slowing-down kernal	دالة التبطئة (ن)
+slowing-down length	طول التبطئة (ن)
+slowing-down power	قدرة التبطئة (ن)
+smectic phase	طور طبقي
+Smith chart	مخطط سميث
+smooth	أملس
+smooth surface	سطح أملس / سطح صقيل؛ سطح أملس
+smoothing	تنعيم
+smoothing circuit	دارة تنعيم
+Snell's laws	قانونا سنل ديكارت
+socket	مقبس / مَقْبِس/مأخذ
+sodium	صوديوم
+sodium iodide scintillator	ومَّاض يوديد الصوديوم
+soft iron	حديد مطاوع / حديد ليِّن؛ حديد مطاوع
+soft radiation	اشعاع لين
+soft rays	أشعة لينة / أشعة ليِّنة
+soft x-rays	أشعة سينية لينة
+softening temperature	درجة حرارة الرخاوة، نقطة الرخاوة
+sol	حُلالة
+solar battery	بطارية شمسية
+solar cell	خلية شمسية
+solar constant	ثابت (ال...) الشمسي / الثابتة الشمسية
+solar day	يوم شمسي
+solar eclipse	كسوف / كسوف الشمس
+solar energy	طاقة شمسية
+solar flare	شواظ شمسي
+solar light	ضوء الشمس
+solar radiation	اشعاع شمسي / الإشعاع الشمسي
+solar spectrum	طيف شمسي / طيف الشمس
+solar spots	كُلَفٌ شمسية / كُلَف شمسية (مفردها كُلْفة)
+solar wind	الرياح الشمسية
+solarimeter	مقياس الإشعاع الشمسي
+solarization	تشميس
+Soleil compensator	معوِّض سولي
+solenoid	لولب / وشيعة
+solenoidal coil	ملف لولبي
+solid	صلب / صلب؛ صلد؛ جامد
+solid angle	زاوية مُجسَّمَة
+solid of revolution	مجسم الدوران
+solid solution	محلول جامد
+solid state	حالة صلبة
+solid state physics	فيزياء الحالة الصّلبة / فيزياء الجسم الصلب؛ فيزياء الحالة الصلبة
+solidification	تصلّب (ال...) / تصلُّب؛ تجمُّد
+solidification methods	طرائق التصلّب (ن)
+solidus curve	منحنى التجميد
+solubility	ذوبانية / قابلية الذوبان؛ ذوبانية؛ انحلاليَّة
+solubility coefficient	معامل الذّوبانية
+solubility curve	منحنى الذوبانية
+solubility product	ناتتج الاذابة
+soluble	ذوباني / ذوّاب؛ قابل للانحلال
+solute	مذاب
+solution	محلول / محلول؛ حل لمعادلة
+solution heat	حرارة المحلول
+solution pressure	ضغط المحلول
+solvent	مذيب / مذيب؛ مُحِلّ
+solvent extraction	استخلاص بالمذيب (ن)
+sonar	سونار
+sonde	مسبار
+sonic barrier	جدار الصوت
+sonic frequencies	ترددات سمعية
+sonic speed	انطلاقة صوتية / سـرعة الصوت
+sonometer	مِصوات / مقياس الصوت
+sonority	قوة الاسماع
+sorption	انتِشاف
+sound	صوت
+sound analyzer	محلِّل الصوت
+sound attenuation	توهين الصوت
+sound barrier	حاجز صوتي / جدار الصوت
+sound beats	ضربات صوتية
+sound field	مجال الصوت
+sound intensity	شدة الصوت
+sound level	مستوى الصوت
+sound level meter	مقياس مستوى الصوت
+sound ranging	قياس المدى صوتيًا
+sound rays	أشعة صوتية
+sound reflection	انعكاس الصوت
+sound reflection coefficient	معامل انعكاس الصوت
+sound refraction	انكسار الصوت
+sound spectrum	طيف صوتي
+sound streaming	انسياب صوتي
+sound volume	جَهَارة الصوت / جهارة الصوت
+sound-track	مسلك الصوت
+sounding electrode	مسرى السبر
+sounding tube	أنبوب السبر
+source	مصدر
+source density	كثافة المصدر (ن)
+source material	مواد المصدر (ن)
+source of light	منبع ضوئي
+source range	مدى المصدر (ن)
+source range monitor	مرقاب مدى المصدر (ن)
+source reactor	مفاعل مصدر (ن)
+south pole	قطب جنوبي
+south pole (of a magnet)	قطب جنوبي (لمغنطيس)
+south-seeking pole	قطب باحث عن الجنوب
+southern lights	الشفق القطبي الجنوبي
+space	فضاء / الفضاء؛ فراغ
+space biology	علم الاحياء الفضائي
+space charge	شحنة حيّز / شحنة الفضاء؛ شحنة الفراغ
+space group	زمرة فضائية / زمرة فراغية
+space inversion	انقلاب الفضاء
+space lattice	شبيكة حيزّ / شبيكة فراغية
+space quantization	تَكْمية الفراغ
+space-time continuum	المتصل زمكان
+spacelike four vector	متّجه رباعي شبه فضائي
+spacer	فاصل (ن)
+spallation	تشظّ (نووي) / تشظية نووية
+spark	شرارة / شـرارة
+spark chamber	حجرة الشـرر
+spark gap	فرجة شرارة / فجوة شـرر
+spark plug	شمعة الاشعال / شمعة الإشعال
+spark spectrum	طيف الشرارة / طيف الشـرارة
+sparking potential	جهد شراري
+spatial coherence	ترابط مكاني
+spatial vehicle	مَركَبَة فضائية
+speaking trumpet	بوق / مجهار
+special fissionable material	مواد انشطارية خاصة (ن)
+special nuclear material	مادة نووية خاصة (ن)
+special relativity theory	نظرية (ال...) النسبية الخاصة / نظرية النسبية الخاصة
+specifc permeance	نفاذية نوعية
+specific activity	نشاط نوعي (ن) / نشاط نوعي
+specific adsorption	امتزاز نوعي
+specific burnup	احتراق نوعي (ن)
+specific charge	شحنة نوعية
+specific dispersivity	تفرقية نوعية
+specific gamma-ray constant	ثابت أشعة كاما النوعي (ن)
+specific gravity	ثقل نوعي، وزن نوعي / الوزن النوعي
+specific heat	حرارة نوعية / حرارة نوعية (كتلية)
+specific heat capacity	سعة حرارية نوعية
+specific inductive capacity	سعة حثّية نوعية
+specific ionization	تأين نوعي
+specific permeability	نفاذية نوعية
+specific power	قدرة نوعية (ن) / قدرة نوعية
+specific refraction	انكسار نوعي
+specific resistance	مقاومة نوعية
+specific resistance; resistivity	مقاومة نوعية، مقاوميَّة
+specific rotation	دوران نوعي
+specific surface	سطح نوعي
+specific transmittivity	عبورية نوعية
+specific viscosity	لزوجة نوعية
+specific volume	حجم نوعي / حجم نوعي (كتلي)
+spectacles	نظّارات / نظارات
+spectra	طيوف؛ أطياف (مفردها طيف)
+spectral	مركز وسطي طيفي
+spectral analysis	تحليل طيفي
+spectral band	عصابة طيفية
+spectral centroid	مركز وسطي طيفي
+spectral characteristic	ميزة طيفية
+spectral colour; spectral color	لون طيفي
+spectral cross section	مقتطع عرضي طيفي (ن)
+spectral density	كثافة طيفية
+spectral emission rate	معدل الانبعاث الطيفي (ن)
+spectral energy density	كثافة الطاقة الطيفية
+spectral energy distribution	توزيع الطاقة الطيفية / توزع الطاقة الطيفي
+spectral line	خط طيفي
+spectral particle flux density	كثافة (ال...) الطيفية لتدفق الجسيمات (ن)
+spectral position	وضع طيفي
+spectral purity	نقاء طيفي
+spectral reflectance	عاكسية طيفية
+spectral response curve	منحني الاستجابة الطيفية (ن)
+spectral sensitivity	حساسية طيفية
+spectral sensitivity of eye	حساسية العين الطيفية
+spectral series	متسلسلة طيفية
+spectral shift	انزياح طيفي
+spectral shift control	ضبط الازاحة الطيفية (ن)
+spectral shift reactor	مفاعل الازاحة الطيفية (ن)
+spectral source density	كثافة المصدر الطيفية (ن)
+spectral transmission	عبور طيفي
+spectro heliograph	مُصوِّر طيف الشمس
+spectrogram	مخطط طيفي / صورة طيف
+spectrograph	مرسمة الطيف / راسم الطيف
+spectrology	سبكترولوجيا
+spectrometer	مِطياف (ن) / مقياس الطيف
+spectrometry	قياس الطيف
+spectrophotometer	مِضواء طيفي / مقياس الطيف الضوئي
+spectroscope	مشواف طيف / مطياف
+spectroscopy	علم الطيف / مطيافية
+spectrum	طيف
+spectrum analysis	تحليل الطيف
+spectrum and colour	طيف (ال...) و اللون
+spectrum lamp	مصباح الطيف
+spectrum line	خط طيف / خط الطيف
+specular	مرآويّ
+specular reflectance	عاكسية مرآوية / انعكاسية مرآوية
+specular transmission density	كثافة العبور
+speed	انطلاقة / سـرعة
+speed of light	سرعة الضوء / سـرعة الضوء
+speed of sound	انطلاقة الصوت / سـرعة الصوت
+spent fuel	وقود مستهلك / وقود مُستَهلَك
+spent fuel pool	حوض الوقود المستهلك
+sphere	كرة
+sphere of attraction	حيّز التجاذب
+spherical aberration	زيغ كروي
+spherical cap	قبّة كروية
+spherical capacitor	مكثفة كروية
+spherical coordinates	إحداثيات كروية
+spherical diopter	كاسـر كروي
+spherical earth factor	عامل الأرض الكروي
+spherical harmonic method	طريقة المتوافقات الكروية (ن)
+spherical harmonics	متوافقات كروية (ن)
+spherical lens	عدسة كروية
+spherical mirror	مرآة كروية
+spherical polar	إحداثيات (ال...) القطبية الكروي (ن)
+spherical polar coordinates	إحداثيات كروية
+spherical radiator	مشع كروي
+spherical surface	سطح كروي
+spherical wave	موجة كروية
+spheroidal state	حالة تكورية
+spherometer	مقياس الكرة
+sphygmomanometer	مقياس ضغط الدم
+spike	نتوء (ن) / نتوء
+spin	بَرْم / سبين
+spin (to..)	بَرَم
+spin quantum number	عدد كمي برميّ / عدد كمومي سبيني
+spin resonance	تجاوب سبيني
+spin velocity	سرعة البرم
+spin wave	موجة سبينية
+spin-lattice interaction	تآثر سبيني شبيكي
+spin-orbit coupling	ربط برمي مداري / اقتران سبيني – مداري
+spin-spin coupling	اقتران سبيني - سبيني
+spinning top	خذروف؛ بلبل دوّامة
+spinthariscope	كاشف الومضات
+spirit level	ميزان التسوية، قبان التسوية
+split lens	عدسة مشطورة
+splitting of energy levels	انفلاق مستويات الطاقة
+spontaneous	تلقائي
+spontaneous emission	إصدار تلقائي
+spontaneous fission	انشطار تلقائي (ن) / انشطار تلقائي
+spontaneous magnetization	مغنطة تلقائية
+spontaneous polarization	استقطاب تلقائي
+spork discharge	تفريغ شراري
+spotlight	ضوء مركَّز
+spray cooling	تبريد رذاذي (ن)
+spray points	أسنان الشحن؛ أسنان الذّرِ
+spreading coefficient	معامل الانتشار
+spring	نابض
+spring balance	ميزان ذو نابض / ربيعة
+spurious counts	عدّات زائفة / عدَّات زائفة
+sputter (to)	رَشَّ
+sputtering	رشّ / ترذيذ
+square potential well	بئر مربعة (ن)
+square root	جذر تربيعي
+square wave	موجة مربّعة / موجة مربعة
+square wave generator	مولد أمواج مربَّعة
+square-well potential	بئر كمون مربَّعة
+SQUID	سكويدة
+stabiliser	مثبِّت
+stability	استقرار (ن)
+stabilizing condenser	مكثف تثبيت
+stable	مستقِرّ
+stable equilibrium	توازن مستقِرّ / توازن مستقر
+stable isotope	نظير مستقِرّ / نظير مستقر
+stable nuclide	نِيَة مستقِرّة (ن)
+stable orbit	مدار مستقر
+stable system	نظام مستقر
+stable tracer	مقتف مستقر (ن)
+stage	مرحلة (ن)
+stagnation pressure	ضغط الركود
+stalagmometer	مقياس التوتر السطحي
+standard	عيار / معياري
+standard candle	شمعة عيارية
+standard cell	خلية عيارية / خلية معيارية؛ بيل معياري
+standard condenser	مكثف عياري
+standard conditions	شروط عيارية
+standard deviation	انحراف معياري
+standard error	خطأ معياري
+standard illuminant	مضيء عياري
+standard ionization chamber	غرفة التأين العيارية (ن)
+standard light sources	مصادر ضوء عيارية
+standard luminosity function	دالة لمعان عيارية
+standard meter	متر معياري / المتر المعياري
+standard pitch	نغمة عيارية
+standard potential	جهد عياري
+standard pressure	ضغط عياري
+standard refraction	انكسار عياري
+standard resistance	مقاومة عيارية
+standard solution	محلول عياري
+standard source	منبع معياري
+standard temperature	درجة حرارة عيارية
+standard temperature & pressure	شـرطان نظاميان للضغط ودرجة الحرارة
+standard thermometer	محرار عياري
+standard time	زمن عياري
+standard volume	حجم عياري
+standing wave	موجة مستقرة
+standing waves	أمواج مستقرة
+stapes; stirrup borre	عظم الركاب
+star connection	توصيل نجمي
+Stark effect	مفعول شتارْك
+Stark splitting	انفلاق شتارك
+start-up neutron source	مصدر نترونات الانطلاق (ن)
+state	حالة
+state function	دالّة الحالة
+state of aggregation	حالة حشد / حالة تجمُّع
+state vector	متجه الحالة
+states of matter	حالات المادة
+static	ساكن
+static characteristic	مميِّز سكوني
+static electricity	كهرباء ساكنة / كهرباء راكدة
+static friction	احتكاك سكوني
+static multiplication factor	عامل المضاعفة الساكن (ن)
+static pressure	ضغط ساكن
+static reaction	رد فعل ساكن
+statics	سكونيات (ال...) / علم السكون
+stationary	مستقر
+stationary current	تيار ثابت
+stationary satellite	ساتل مستقر
+stationary state	الحالة المستقرة
+stationary state conditions	شـروط الحالة المستقرة
+stationary undulation	تموّج مستقر
+stationary vortex	دردور مستقر
+stationary wave	موجة مستقرة
+stationary waves	أمواج مستقرة
+statiscally	احصائيا
+statistical distribution	توزُّع إحصائي
+statistical equilibrium	توازن إحصائي
+statistical mechanics	ميكانيك إحصائي
+statistical straggling	تطوح احصائي
+statistical tables	جداول احصائية
+statistical thermodynamics	ترموديناميك إحصائي
+statistical weight	وزن إحصائي
+statistics	علم الإحصاء
+stator	عضو (ال...) الساكن / عضو ساكن
+statoscope	مكشاف الارتفاع
+steady current	تيار الاستقرار / تيار مستقر
+steady flow	جريان الاستقرار / جريان مستقر
+steady state	حالة استقرار / حالة مستقرة
+steady-state oscillation	تذبذب حالة مستقرة
+steam	بخار
+steam calorimeter	مسعر بخاري
+steam distillation	تقطير بخاري
+steam dryer	مجفف البخار (ن)
+steam engine	محرك بخاري / محرك بخاري؛ آلة بخارية
+steam separator	فاصل البخار (ن)
+steel	فولاذ
+Stefan-Boltzmann constant	ثابتة ستيفان-بولتزمان
+Stefan-Boltzmann law	قانون ستيفان-بولتزمان
+Steiner's theorem	مبرهنة شتاينر
+stellarator	جهاز بلازما عالي درجة الحرارة
+stem	ساق
+stem correction	تصحيح (ال...) الساقي
+step function	دالَّة دَرَجِيَّة
+step junction	وصلة الخطوة؛ وصلة حادة
+step-down transformer	محوِّل خافض / محوِّل خافض للتوتر
+step-up transformer	محول رافع / محوِّل رافع للتوتر
+steradian	ستيراديان
+stereogram	مخطط مجسّم / مخطَّط مجسَّم
+stereophonic sound	صوت مجسَّم
+stereophonic sound system	نظام صوت مجسِّم
+stereoscope	مشواف مجسم / مِجْسَام
+stereoscopic vision	رؤية مجسّمة / رؤية مجسَّمة
+stereospectrogram	مخطط طيفي مجسم
+sterilization	تعقيم
+sterilization by radiation	التعقيم بالتشعيع
+sterilizer	معَقِّم
+Stern-Gerlach experiment	تجربة شترن - كرلاخ
+stethoscope	سمّاعة / سمّاعة طبية
+sticking potential	جهد الالتصاق
+sticking probability	احتمال الالتصاق
+stiffness	كزازة / جسوء
+stiffness coefficient	معامل الكزازة / معامل الجسوء
+stigmatic	نقطي
+stigmatism	نقطيّة العين / نُقطية
+stilb	سْتِيْلب
+stimulated emission	إصدار محثوث
+stimulated transition	انتقال محثوث
+Stirling's formula	صيغة سترلنغ
+stochastic	عشوائي
+Stokes's formula	قانون ستوكس
+stop	حِظار
+stop beam	محدد الحزمة
+stopping	ايقاف (ال...)
+stopping potential	جهد الايقاف (ن) / كمون الإيقاف
+stopping power	قدرة الايقاف / مقدرة الإيقاف
+stopwatch	ساعة وقف
+storage battery	نضيدة خزن / مِركَم؛ مُدَّخِرَة
+storage camera	كاميرا تخزين
+storage oscilloscope	راسم اهتزاز مخزِّن
+stored energy	طاقة مخزونة (ن) / طاقة مُختَزَنَة
+strabismus	حَوَل
+straggling	تطوح (ن) / تَطَوُّح
+strain	انفعال / انفعال؛ تشوُّه
+strain hardening	تصليد بالانفعال
+strain hardening; work hardening	تقسية انفعالية
+strange particle	جسيم غريب
+strange particles	جسيمات غريبة
+strangeness number	عدد الغَرابة
+stratosphere	طبقة (ال...) الزمهريرية / غِلاف الاحترار؛ ستراتوسفير
+stray capacitance	مواسعة شاردة / مواسعة طُفَيلية
+stray radiation	اشعاع شارد / إشعاع طُفيلي
+stream	تيار ماء؛ جدول
+stream line flow	جريان انسيابي
+stream tube	أنبوب الانسياب
+streaming effect; channeling effect	تأثير قنوي (ن)
+streaming potential	جهد الانسياب
+streamline	خط الانسياب
+streamline flow	جريان صفيحي
+strength	متانة؛ مقاومة
+strength function	دالة الشدة (ن)
+strength of a magnetic field	شدة المجال المغناطيسي
+strength of electric field	شدة المجال الكهربائي
+strength of magnetic pole	شدة القطب المغنطيسي
+strength of the pole; intensity of the pole	قوة القطب، شدة القطب
+stress	اجهاد / إجهاد
+stress tensor	ممدّد الاجهاد
+stress-strain curve	منحني الاجهاد والانفعال / منحني الإجهاد والتشوُّه
+stria	حزّ؛ ثَلْم
+striae	حزوز
+striation	حَزّ، تحزيز / تحزيز
+striation technique	أبصار الأمواج الصوتية
+striking potential	جهد القدح / كُمون القَدْح
+striking voltage	فولطية القدح
+string	خيط
+string instruments	آلات وتريّة
+stripped atom	ذرة معرّاة
+stripping	انتزاع (ن)
+stroboscope	منبع ومَّاض
+strong electrolyte	كهرحل قويّ
+strong interaction	تآثر قوي
+strontium	سترونسيوم
+structure	بنية
+structure factor	عامل البنية
+structure of the ear	تركيب الأذن
+sub-shell	طبقة فرعية
+subatomic particles	جسيمات دون ذرية
+subcadmium	دون الكادميوم (ن)
+subchannel analysis	تحليل القنوات الفرعية (ن)
+subcritical assembly	مجمع (ال...) دون الحرج (ن)
+subcritical mass	كتلة دون الحرجة
+subcritical multiplication	مضاعفة (ال...) دون الحرجة (ن)
+sublimate	متسام / متسامٍ؛ متصعِّد
+sublimation	تسامٍ / تسامٍ؛ تصعيد
+sublimation curve	منحني التساوي
+sublimation point	نقطة التسامي
+sublime (to)	تسامَى
+submerged discharge	تفريغ مغمور
+substance	مادة (ن)
+substitution	تعويض / استبدال
+suction apparatus	جهاز ماص، جهاز مص
+suction pump	مضخة ماصّة
+suction siphonage	مصّ؛ ثَعْب
+sulfur	كبريت
+sulphation	كبرتة
+summation band	نطاق جمع
+summit	رأس
+sun burst	تفجّر شمسي (ن)
+sundial	مِزولة شمسية
+super cell	خلية متميزة (ن)
+super heterodyne receiver	مستقبِل مازج
+super-refraction	انكسار فائق
+superconducting	فائق التوصيل / نقل فائق
+superconducting quantum interference device	أداة تداخل كمومي فائقة الناقلية؛ سكويدة
+superconductivity	موصِّلية فائقة / ناقلية فائقة
+superconductor	موصّل فائق / ناقل فائق
+supercooling	تبريد فائق
+supercritical	مفرط الحرج (ن)
+supercritical reactor	مفاعل فوق الحَرِج
+superficial expansion	تمدد سطحي
+superheat reactor	مفاعل مفرط التسخين (ن)
+superimposition principle; superposition principle	مبدأ التراكب
+superlattice	شبيكة فوقية / شبيكة فائقة
+superposition	انضمام؛ تراكب
+superposition principle	مبدأ الانضمام
+supersaturated	فوق مشبع
+supersaturated solution	محلول فائق الاشباع / محلول فوق المشبع
+supersaturation	فائق التشبع
+supersonic	فوق صوتي
+supersonic frequency	تردد فوق صوتي
+supersonic speed	سرعة فوق صوتية / سـرعة فوق الصوتية
+supersonics	فوق الصوتيات
+supplementary valence	تكافؤ مكمل
+support	ساند
+suppressor grid	شبكة كابتة
+surface charge density	كثافة الشحنة السطحية
+surface density	كثافة سطحية
+surface energy	طاقة السطح
+surface orientation	توجيه سطحي
+surface power density	كثافة القدرة السطحية
+surface tension	توثّر سطحي / توتر سطحي
+surface waves	موجات سطحية
+surface-active agent	وسيط ترطيب
+surface-active compounds	مركبات ذات فعالية سطحية
+surge arrester	واقية من الصواعق
+survey meter	مقياس المَسْح
+survival curve	منحني البقاء/النجاة
+susceptance	تأثرية / طواعِيَّة
+susceptibility	متأثرية / مِطواعِيَّة
+suspended	معلّق
+suspension	تعليق / معلّق
+suspension reactor	مفاعل معلق الوقود (ن)
+sweep (to..)	مَسَح
+sweep signal	اشارة المسح
+swelling	انتفاخ
+swing of pendulum	ذبذبة النوّاس، تذبذب البندول
+switch	مبَدِّل / قاطعة
+switchboard	لوحة تبديل / لوحة مفاتيح
+switching	تبديل
+symmetric top	خذروف متناظر
+symmetry	تناظر
+symmetry axis	محور تناظر
+symmetry classes	اصناف تناظر
+symmetry element	عنصر التناظر
+synchro-cyclotron	معجل دوراني متزامن (ن) ، سنكرو سيكلترون / سيكلوترون تزامني
+synchronisation	مُزامَنة
+synchronism	تزامن
+synchronous	متزامن (ن) / متزامن
+synchronous impedance	معاوقة متواقتة
+synchrotron	سنكروترون، معجل دوراني تزامني / سنكروترون
+synthesis	تركيب اصطناعي / تركيب؛ تخليق
+syringe	مِحقنة / مِحْقَنة
+system	نظام (ن) / منظومة؛ جملة؛ مجموعة
+system of reference	نظام مَرجعي / جملة مرجعية
+system of units (C.G.S.)	جملة الواحدات السغثية
+systematic error	خطأ نظامي

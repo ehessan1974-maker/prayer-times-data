@@ -1,0 +1,654 @@
+p-electron	ألكترون P
+p-n junction	اتصال P.N
+p-shell	طبقة(ال...) P
+packed column	عمود محشو
+packing	حَشْوَةٌ، حَشْوٌ، ترابط
+packing fraction	نسبة الترابط
+packing radius	نصف قطر التراص
+paint	دهان، طلاء / دهان
+pair	زوجان
+paired electron	ألكترون متزاوج، زوج ألكتروني
+pairing	تزاوج، مُزاوجة
+pairs of shared electrons	أزواج ألكترونية تساهمية
+pale	شاحب
+paling	شحوب
+Pall ring (column)	حلقة بال، عمود بال
+palladium	بلاديوم / بالاديوم
+palm oil	زيت النخيل
+palmitate	بالميتات، نخلات
+palmitic acid	حمض البالميتيك (النخيل)
+palmitin	بالميتين
+palmitoleic acid	حمض البالميتوليك
+pan balance	ميزان ذو كفات
+pantothenic acid	حمض البانتوتينيك
+paper	ورق
+paper (strip) chromatography	كروماتوغرافية (ال...) الورقية، شريط كروماتوغرافي
+paper chromotography	استشراب ورقي
+para-	بارا
+parachment paper	ورق الرق، ورق برشمان
+parachor	باركور / ثابتة التوتر السطحي (باراكور)
+paraffin	بارافين
+paraffin wax	شمع البارافين
+parafins; alkanes	برافينات، ألكانات
+paraldehyde	بارالدهيد
+paralyser	مُشِلّ
+paramagnetic	مغنطيسي طردي
+paramagnetism	مغنطيسية طردية
+parameter	متحول، بارامتر / وسيط، مَعْلَمْ
+parathion	باراتيون
+parathormone	هُرمون الدريقات
+parenchyma	مَتْنٌ
+parent compound	مُرَكَّب أمٌّ
+parent metal	فلز قريب
+parent solution	محلول أصلي، محلول ابتدائي
+parent substance (mother substance)	مادة أصلية، مادة ابتدائية
+Paris green	أخضر باريس
+parity	ندّيّة
+part	جزء
+partial	جزئي
+partial fraction	كسر جزئي
+partial pressure	ضغط جزئي
+partially miscible liquids	سوائل جزئية الامتزاج
+particle	دقيقة / جُسيم
+parting	فصْل
+parting acids	حموض الفصل، حموض الاستخلاص
+parting sand	رمل فاصل، رمل عازل
+partition	توزيع، حاجز، فاصل / تجزئة
+partition chromatography	استشراب بالتجزئة
+partition coefficient	معامل التوزيع / معامل التجزئة
+partition law	قانون التوزيع
+partitioning	تجزيء
+Paschen law	قانون باشن
+Paschen series	سلسلة باشن
+passitivity	عطالة
+passitivity of metal	عطالة الفلز، عطالة المعدن
+passivation	تهميد
+passivator	مُكسِب السلسلة، كاتب الفعالية
+passive	سلبي، عاطل
+passive metal	فلز مهمَّد
+passive metals	فلزات سلبية، معادن غير متأثرة
+passive state	حالة سلبية
+passivity	سلبية، هُمود
+paste	عجينة / معجون
+pasteurization	بسترة، تعقيم
+patent	براءة الاختراع
+pathway	مسار
+patina	غشاء القدم
+pattern	أنموذج، نموذج / طراز
+Pauli exclusion principle	مبدأ الاستثناء لباولي / مبدأ الاستبعاد لباولي
+Pauli principle	مبدأ باولي
+peak	ذروة، قمة / ذروة
+pearl	لؤلؤة
+peat	خث، طورب (ال...)
+pebbles	حصى، بلور صخري
+pectase	بكتاز
+pectic acid	حمض البكتيك
+pectic substance	مادة بكتية
+pectin	بكتين
+pectization	تجلتن هلامي
+pelargonic acid	حمض البلّرغونيك
+pellagra	بلّاغرا
+pellet	حُبيبة
+penetration	اختراق، نفوذ
+penicillin	بنسلين / بنسيلين
+penta- (pent-)	خماسي: سابقة
+penta; pent	خماسي
+pentabasic	خُماسي القاعدة
+pentacarbonyl	خماسي الكربونيل
+pentacid	خُماسي الحمض
+pentad	عنصر خماسي التكافؤ، عنصر خماسي
+pentagone	مُخمَّس
+pentamer	مخموس، خماسي الحد
+pentane	بنتان
+pentanol	بنتانول
+pentanon	بنتانون
+pentavalency	خماسية التكافؤ، تكافؤية خماسية
+pentavalent	خماسي التكافؤ
+pentene	بنتين
+pentosane	بنتوزان
+pentose	بنتوز
+pentyl	بنتيل
+pentyl alcohol	غول بنتيلي
+pentyne	بنتين
+pepsin	بِبسين
+pepsinogen	مولّد الببسين
+peptic	هضميّ
+peptide	ببتيد
+peptide bond	رابطة ببتيدية
+peptides	ببتيدات
+peptization	هضْم، تسييل / بَبْتَدَة، تهضيم
+peptone	ببتون
+per-	فوق / فوق: سابقة
+peracetic acid	حمض فوق الأسيتيك
+peracid	فوق الحمض / فوق حمض
+perborate	فوق بورات
+perboric acid	حمض فوق البوريك
+percentage	نسبة مئوية
+percentage composition	تركيب مئوي
+perchlorate	فوق كلورات
+perchloric acid	حمض فوق الكلورات / حمض فوق الكلوريك
+percolation	حلحلة / ترشّح
+perfect gas	غاز كامل
+perfect radiator	مشع كامل
+perfume	عطْر / عطر
+peri-	حول، محيط: سابقة
+period	دوْر / دور، دورة
+periodate	فوق يودات
+periodic	دوري
+periodic acid	حمض فوق اليوديك
+periodic classification	تصنيف دوري / التصنيف الدوري
+periodic law	القانون الدوري
+periodic system	نظام دوري
+periodic table	جدول دوري / الجدول الدوري
+periodicity	دورية
+peritectic point	نقطة الانصهار اللامتطابق
+peritectic reaction	تفاعل الانصهار اللامتطابق
+permanent	دائم
+permanent gas	غاز دلئم / غاز دائم
+permanent hardness	قساوة دائمة
+permanganate	فوق منغنات، برمنغنات / فوق منغنات
+permanganic acid	حمض فوق المنغنيك
+permeability	نفاذية، قابلية النفاذ / نفوذية
+permeable	نفوذ
+permeation	توغّل
+permutation	تبديل
+peroxidase	بيروكسيداز
+peroxidation	فوق أكسدة
+peroxide	فوق أكسيد
+peroxy-	فوق أكسي
+peroxyacetic acid	حمض فوق أكسي الأسيتيك
+peroxysulfuric acid	حمض فوق أكسي الكبريتيك
+persorption	امتزاز شديد الفعالية
+perspective	منظور
+perspective formula	صيغة منظورية
+perspex	برسبكس
+persulphate	فوق سلفات (كبريتات)
+pestle	يد الهاون، مدق
+petrification	تحجُّر، استحجار
+petrochemical	مادة نِفطية
+petrochemicals	بتروكيميائيات
+petrochemistry	كيمياء النفط / كيمياء النِّفط
+petrolatum	هلام النفط، فازلين / هلام النِّفط، فازلين
+petroleum	نِفط، بترول
+petroleum benzin	بنزين النِّفط
+petroleum coke	كوك النِّفط
+petroleum ether	إيتر النِّفط
+petroleum spirit	روح النِّفط
+petroleum wax	شمع النِّفط
+petrolum	نفط
+petrolum ether; gasoline	إثير النفط، كازوالين
+pH	الأس الهيدروجيني (pH)
+ph (F)	رقم هيدروجيني
+ph - value	قيمة PH
+ph-determination	تعيين الph
+pharmacentical chemistry	كيمياصيدلانية
+phase	طور / طَوْر
+phase diagam	مخطط الأطوار
+phase diagram	مخطط الأطوار
+phase equilibrium	توازن الأطوار
+phase reaction	تفاعل طوري
+phase rule	قاعدة الأطوار
+phase solution	محلول طوري
+phase transition	تحوّل الطور
+phenacetin	فناستين
+phenanthrene	فنانترين
+phenanthroline	فنانترولين
+phenantryl	فنانتريل
+phenazine	فنازين
+phenetidine	فِنيتيدين
+phenetole	فِنِيتول
+phenol	فنول / فِنول
+phenol formaldehyde resin	راتين فِنول - فورم ألدهيد
+phenolic group	مجموعة فِنولية
+phenolic resin	راتين فِنولي
+phenolphtalein	فينولفتالين / فِنول فتالين
+phenomenon	ظاهرة
+phenosulfonic acid	حمض فِنول السلفونيك
+phenoxide	فنوكسيد
+phenoxy-	فنوكسي: سابقة
+phenyl	فنيل
+phenylacetic acid	حمض فِنيل الأسيتيك
+phenylalanine	فِنيل الألانين
+phenylene	فنيلين
+phenylenediamine	فنيلين ثنائي الأمين
+phenylhydrazine	فنيل هيدرازين
+phenylhydrazone	فنيل هيدرازون
+pheromone	فيرومون
+phial	قنينة
+philosopher's stone	حجر الفلاسفة
+phlogiston theory	نظرية الفلوجيستون / نظرية الفلوجستون
+phosgene	فوسجين
+phosphatase	فسفاتاز
+phosphate	فوسفات / فسفات
+phosphate ion	أيون الفسفات
+phosphatide	فسفاتيد
+phosphatidic acid	حمض الفسفاتيديك
+phosphatize (to)	فسْفَتَ
+phosphide	فوسفيد / فسفيد
+phosphine	فوسفين / فسفين
+phosphite	فوسفيت / فسفيت
+phospholipid	ليبيد (شحم) فسفاتي
+phosphonic acid	حمض الفسفونيك
+phosphonium	فسفونيوم
+phosphoprotein	بروتين فسفاتي
+phosphorated	مفسفَر
+phosphorescence	بصيص، تَفَسْفُر
+phosphorescent	مصدر البصيص
+phosphoric acid	حمض الفوسفوريك / حمض الفُسفوريك
+phosphorolysis	فَسْلَرَة
+phosphorous	فوسفوري / فُسفوري
+phosphorous acid	حمض الفُسفوري
+phosphorous allotropy	تآصل فوسفوري
+phosphorus	فوسفور / فُسفور / مُتَفَسْفِر
+phosphorus pentachloride	خماسي كلوريد الفُسفور
+phosphorus pentasulfide	خماسي سلفيد الفُسفور
+phosphorus pentoxide	خماسي أكسيد الفُسفور
+phosphorus trichloride	ثلاثي كلوريد الفُسفور
+phosphorus trioxide	ثلاثي أكسيد الفُسفور
+phosphorylase	فُسفوريلاز
+phosphorylation	فسفرة / فَسْفَرة
+photo-	ضوء، نور
+photo-,(phot-)	ضوئي
+photo-catalysis	حفز ضوئي
+photocatalysis	تحفيز ضوئي
+photocell	خلية كهرضوئية
+photochemical	كيميائي ضوئي
+photochemical effect	مفعول (تأثير) كيميائي ضوئي
+photochemical induction	تحريض كيميائي ضوئي، حث كيميائي ضوئي
+photochemical reaction	تفاعل كيميائي ضوئي
+photochemistry	كيمياء ضوئية
+photodecomposition	تفكك ضوئي
+photodissociation	تفكك ضوئي / تفارق ضوئي
+photoelectric	كهرضوئي
+photoelectric effect	مفعول (تأثير) كهرضوئي
+photoelectron	إلكترون ضوئي
+photoelectron spectroscopy	قياس الطيف الضوئي الإلكتروني
+photoionization	تأين ضوئي
+photolysis	تحلل ضوئي، تفكك ضوئي / تحلّل ضوئي
+photometer	مقياس الضوء
+photometric analysis	تحليل ضوئي
+photomultiplier	مضاعِف الضوء
+photon	فوتون
+photons	فوتونات
+photooxidation	أكسدة ضوئية
+photopolymerization	بلمرة ضوئية
+photoreduction	اختزال ضوئي
+photosensitive	حسّاس للضوء
+photosensitization	تحسيس ضوئي
+photosynthesis	اصطناع ضوئي، تركيب ضوئي / اصطناع ضوئي
+phtalate	فتالات
+phtalic acid	حمض الفتاليك
+phthalate	فتالات، فثالات
+phthalein	فتالين، فثالين
+phthalic	فتاليك، فثاليك
+phthalic anhydride	بلاماء الفتاليك
+phthalimide	فتاليميد
+physical	فيزيائي، طبيعي / فيزيائي
+physical adsorption	امتزاز فيزيائي
+physical change	تغير فيزيائي
+physical chemistry	كيمياء فيزيائية
+physical property	خاصية فيزيائية / خاصيّة فيزيائية
+physicochemical analysis	تحليل كيميائي فيزيائي
+phytochemistry	كيمياء نباتية
+picking (chemical)	تنظيف كيميائي
+pickling	تنظيف بالحمض
+picnometer	مقياس الكثافة
+picoline	بيكولين
+picrate	بِكرات / بيكرات
+picric acid	حمض بكريك / حمض البيكريك
+piece	قطعة، جزء
+piezochelistry	كيمياء الاجهاد
+piezochemistry	كيمياء الضغوط المرتفعة
+piezoelectric	كهرضغطي
+pig iron	حديد صلب، حديد مسكوب، حديد غفل / حديد خنزيري
+pigment	صباغ
+pimelic acid	حمض البيميليك
+pinacol	بيناكول
+pinacol rearrangement	إعادة ترتيب بيناكولية
+pinacolone, pinacolin	بيناكولون، بيناكولين
+pink	وردي، زهري
+pipe	ماسورة، أنبوب
+pipe-clay triangle	مثلث خزفي
+piperazine	بيبيرازين
+piperic acid	حمض البيبِريك
+piperine	بيبِرين
+piperitone	بيبِريتون
+pipet, pipette	مِمَصّ
+pipette	ماصّة
+pit (corrosion)	حفرة، نقرة
+pitch	قار، زفت / قار
+pitchblend	بتشبلند
+pitchblende	بيتشبلند
+pitchstone	حجر قاري، حجر زفتي
+Planck's constant	ثابتة بلانك
+plant	مصنع، منشأ / منشأة صناعية، نبتة
+plant chemistry	كيمياء نباتية
+plant laboratory	مخبر المصنع، مختبر
+plasma	بلازما، مصل الدم / بلازما
+plasmolysis	انكماش بلازما الخلية
+plaster	لصقة، ملاط
+plaster of Paris	عجينة باريس
+plastic	لدن, لدين
+plasticity	لدونة
+plasticizers	ملدّنات
+plastics	لدائن
+plastisizer	ملدِّن
+plate	صفيحة
+platforming	تحسين بالبلاتين
+plating	طلي / تصفيح
+platinic	بلاتيني
+platinize (to)	بَلْتَنَ
+platinum	بالتين / بلاتين
+platinum sponge	بلاتين اسفنجي / إسفنج بلاتيني
+plug	سداد، مأخد
+plumbate	رصاصات
+plumbic acetate	اسيتات الرصاص
+plumbite	رصاصيت
+plumbous	رصاصي
+plumbum	رصاص
+plutonium	بلوتونيوم
+pneumatic troungh	وعاء تجميع الغاز
+poH	رقم الهيدروكسيل
+point	نقطة، درجة
+poison	سّمٌ / سمّ
+poison (to)	سمَّ
+poison-gas	غاز سم
+poisonous	سامّ / سامّ، سمِّي
+polar	قطبي
+polar bond	رابطة قطبية
+polar compound	مُرَكَّب قطبي
+polar covalent bond	رابطة تشاركية قطبية
+polar covalent bond; liaison polaire	رابطة قطبية مشتركة
+polar molecule	جزيء قطبي
+polar solvent	مذيب قطبي
+polarimeter	مقياس استقطاب، مقطاب / مقياس الاستقطاب
+polarimetry	قياس الاستقطاب
+polarity	قطبية
+polarizability	قطوبية، قابلية الاستقطاب / استقطابية
+polarization	استقطاب
+polarization potential	كمون الاستقطاب
+polarization tube	أنبوبة استقطاب
+polarized light	ضوء مستقطَب
+polarizer	مستقطِب / مقطِّب
+polarogram	مخطط الاستقطاب، منحنى الاستقطاب / مخطط الاستقطاب
+polarograph	مرمسة الاستقطاب / مخطاط الاستقطاب
+polarographic analysis	تحليل استقطابي، تحليل الاستقطابية / تحليل استقطابي
+polarography	رسم الاستقطابية / تخطيط استقطابي
+pole	قطب
+polishing	صقل
+pollution	تلوُّث / تلوُّث: بيئي
+polonium	بولونيوم
+poly-	متعدد، كثير / كثير، متعدد: سابقة
+polyacid	متعدد الحمض
+polyamide	متعدد الأميد
+polyatomic	متعدد الذّرات / متعدد الذرات
+polybasic	متعدد القاعدية، متعدد القاعدة / متعدد الأساس (القاعدة)
+polycyclic	متعدد الحلقات
+polydispersity	تشتت متعدد
+polyelectrolyte	ألكتروليت متعدد، كهرليت متعدد
+polyester	متعدد الإستر
+polyester resin	راتين متعدد الإستر
+polyethylene	متعدد الإيتيلين
+polymer	بَلْمَر
+polymerase	بوليمراز
+polymeric	بلمري
+polymerization	بلمرة، تماثُر / بَلْمَرة
+polymerize (to)	بَلْمَرَ
+polymerize (v)	يُبَلْمَر
+polymers	بلمرات
+polymorph	متعدد الأشكال البلورية
+polymorphic	متعدد الأشكال البلورية
+polymorphism	تعدّد البلورية / تعددية الأشكال البلورية
+polymorphous; polymorphic	متعدد الأشكال
+polynuclear	متعدد النوى
+polypeptide	متعدد الببتيد
+polyprotonic acids	حموض متعددة الروتونات
+polysaccharide	متعدد السكريد
+polysaccharides	سكريدات متعددة
+polyterpene resin	راتين متعدد التربين
+polyurethane	متعدد اليوريتان
+polyvalency	تعدد التكافؤ
+polyvalent	متعدد التكافؤ
+polyvinyl acetate	أسيتات متعدد الفينيل
+polyvinyl alcohol	غول متعدد الفينيل
+polyvinyl chloride	كلوريد متعدد الفينيل
+porcelain	بورسلان، خزف / بورسلان
+pore	مسم
+porosity	مسامية
+porous	مسامي
+porphin	بورفين
+porphyrin	بورفيرين
+porphyrins	بورفيرينات
+portland cement	إسمنت بورتلاند
+positive	موجب، إيجابي
+positive charge	شحنة موجبة
+positive semiconductor (p-type)	نصف موصل موجب، نصف ناقل موجب
+positron	بوزيترون
+post-	بَعْد: سابقة
+postulate	مسلَّمة
+potable	شَروب
+potable (water)	شَروب، صالح للشرب
+potash	قِلي
+potash (caustic potash)	بوتاس كاوية
+potash alum	شب البوتاس
+potassium	بوتاسيوم
+potassium bicarbonate	بيكربونات البوتاسيوم
+potassium bisulfate	بيسلفات البوتاسيوم
+potassium chlorate	كلورات البوتاسيوم
+potassium chloride	كلوريد البوتاسيوم
+potassium cyanide	سيانيد البوتاسيوم
+potassium dichromate	ثنائي كرومات البوتاسيوم
+potassium ferricyanide	فري سيانيد البوتاسيوم
+potassium ferrocyanide	فروسيانيد البوتاسيوم
+potassium fluoride	فلوريد البوتاسيوم
+potassium hydroxide	هيدروكسيد البوتاسيوم
+potassium nitrate	نترات البوتاسيوم
+potassium oxalate	أوكزالات البوتاسيوم
+potassium perchlorate	فوق كلورات البوتاسيوم
+potassium permanganate	فوق منغنات البوتاسيوم
+potassium persulphate	فوق كبريتات البوتاسيوم
+potassium sulfate	سلفات البوتاسيوم
+potassium thiocyanate	تيوسيانات البوتاسيوم
+potency	كمونية، إمكانية
+potential	كمون، جهد
+potential barrier	حاجز كموني
+potential corrosion	تآكل كامن
+potential difference	فرق الكمون
+potential energy	طاقة كامنة
+potential gradient	تدرّج الكمون
+potential series	سلسلى الكمون، سلسلة الجهد
+potentiometer	مقياس الكمون
+potentiometry	قياس الكمون
+pottery	فخار
+pour (to...)	صبَّ، سكَبَ
+pour (v)	يسكب، يصب
+pour point	نقطة الانصباب، نقطة الانسكاب / درجة الانسكاب
+pour test	اختبار الانسكاب
+powder	مسحوق، ذرور / مسحوق
+powder (to)	سحَق
+power	قدرة
+PPb	أجزاءٌ من البليون
+PPm	أجزاء من المليون
+practical	عملي
+Prandtl number	عدد براندت
+praseodymium	براسيوديميوم / برازيوديم
+pre-	قبل، ماقبل
+precautions	احتياطات
+precession	مبادرة
+precious metal	فلز ثمين
+precious metals	فلزات ثمينة، معادن ثمينة
+precipitant	مرسِّب، كاشف / مُرَسِّب
+precipitate	راسب
+precipitation	ترسيب
+precise	دقيق، مضبوط / دقيق، صحيح
+precision	دِقّة
+precision (of measurements)	دقة
+precursor	سَلَفْ، طليعة، قَبْل
+precursor compound	مُرَكَّب سلف
+predisposition	استعداد سابق، تعرُّض
+predissociation	تفكك سابق
+preheater	مسخِّن قَبْلِيّ
+preheating	تسخين قَبْلِيّ
+preliminary test	اختبار تمهيدي، اختبار مبدئي
+preparation	تحضير
+prepolymer	بلمر مسبق، بوليمر وسطي
+preservation	حفْض، وقاية / حفظ
+press	معصرة، مكبس
+pressure	ضغْط / ضغط
+pressure distillation	تقطير ضغطي
+primary	أولي / أوّلي
+primary alcohol	غول أوّلي
+primary alcohols	كحولات أولية
+primary amine	أمين أوّلي
+primary cell	خلية أوّلية
+primary explosive	متفجر أوّلي
+primary metal	فلز أوّلي
+primary salt	ملح أوّلي
+primary standard	معيار أولي
+prime	أوّل، رئيسي
+primeverin	بريمفيرين
+primeverose	بريمفيروز
+primitive	بدائي
+principal	رئيسي
+principal plane	مستوي رئيسي
+principal plane of symmetry	مستوي التناظر الرئيسي
+principal quantum number	العدد الكوانتي الرئيسي
+principle	مبدأ
+principle of equipartition of energy	مبدأ تجزئة الطاقة بالتساوي
+prinicple of mobile equilibrium	مبدأ التوازن المتحرك
+prism	منشور
+pro-	طليعة، مؤيد: سابقة
+probability	احتمال
+probe	مسبار، مِسْبَر
+problem	مسألة، مشكلة
+procaine	بروكايين
+procedure	إجراء، طريقة العمل / إجراء
+process	عملية، إجراء / عملية
+processing	معالجة، إجرائية
+producer	منتِج / مُنتِج، مولِّد
+producer gas	غاز المولّدة
+product	منتَج، ناتج / نتاج، منتَج
+production	إنتاج
+produncing	إنتاج
+proenzyme	طليعة الإنزيم
+progesterone	بروجسترون
+progressive	متقدِّم
+project	مشروع
+projection formula	صيغة إسقاطية
+projector	جهاز إسقاط
+proliferation	تكاثر
+proline	برولين
+prometeur (of catalysis)	مُنشِّط (الحفز)، مُعزِّز (الحفز)
+promethium	بروميتيوم، بروميثيوم / بروميتيوم
+promoted	معزَّز
+promoter	معزِّز
+proof	برهان
+proof spirit	غَوْل الاختبار
+propagation	انتشار، امتداد / تواصل، انتشار
+propane	بروبان
+propanoic acid	حمض البروبانويك
+propanol	بروبانول
+propellant	دافع، داسر / دافع، وقود دافع
+properties	خصائص
+property	خاصية / خاصة
+propiolactone	بروبيولاكتون
+propiolic acid	حمض البروبيوليك
+propionaldehyde	بروبيونالدهيد
+propionate	بروبيونات
+propionic acid	حمض البروبيونيك
+propionyl	برويونيل
+proportion	نسبة، تناسب
+proportioning	توزيع نسبي
+propyl	بروبيل
+propyl alcohol	غَوْل بروبيلي
+propylamine	بروبيلامين
+propylene	بروبيلين
+propylene glycol	غليكول البروبيلين
+propylene oxide	أكسيد البروبيلين
+prosthetic group	مجموعة لحاقية، زمرة لحاقية، مجموعة ترقيعية / مجموعة ضميمة
+prot- (proto-)	بروتو
+protactinium	برتكتينيوم / بروتكتينيوم
+protamine	بروتامين
+protease	بروتياز
+protection	حماية
+protective agent	عميل وقاية
+protective coating	طبقة واقية
+protective colloid	غروان واقي
+protein	بروتين
+proteolysis	تحلل بورتيني
+proto-	أول، أولي، بدئي
+protogenic	مولّد بروتونات
+protolysis	تفاعلات يصحبها انتقال البروتونات
+proton	بروتون
+proton donor	مانح بروتون
+proton number	العدد البروتوني
+proton-deuteron reaction	تفاعل برتوني ديوتروني
+proton-gamma reaction	تفاعل بروتون - غاما
+proton-neutron reaction	تفاعل برتوني نيوتروني
+proton-proton reaction	تفاعل بروتوني، بروتوني
+protonated	مبرتَن
+protonation	برتنة / بَرْتَنَة
+protons acceptor	متقبل بروتونات
+protopectin	بروتوبكتين
+protophile	محب للبروتونات
+protophobe	كاره للبروتونات
+protoplasm	بروتوبلازما
+prototropy	برتوتروبية
+protoxyde	بروتوكسيد
+proximal	داني، قريب
+proximate analysis	تحليل تقريبي
+prussian blue	أزرق بروسيا
+prussic acid	حمض البروسيك
+pseudo acid	حمض زائف (كاذب)
+pseudo base	قاعدة كاذبة
+pseudo salt	ملح كاذب
+pseudo-	زائف، كاذب: سابقة
+pseudoacid	حمض كاذب
+pseudomorphism	تشكل كاذب
+pseudosolution	محلول كاذب
+ptyalin	تيالين
+pulp	عجينة، لبّ
+pulverization	رشّ، نثر
+pumice	خفّان
+pumice (...stone)	حجر خفان، حجر خفاف
+pumice stone	حجر الخفّان
+pump	مضخة
+pumping (of liquids)	ضخّ
+pungent odour	رائحة حادة
+pure	نقي
+pure substance	مادة نقية
+purification	تنقية
+purine	بورين
+purine base	قاعدة بورينية
+purity	نقاوة
+purple	ارجواني
+purpurin	بوربورين
+putrefaction	تعفُّن، فساد / تفسّخ
+pycnometer	مقياس الكثافة
+pyrazine	بيرازين
+pyrazole	بيرازول
+pyrazoline	بيرازولين
+pyrazolone	بيرازولون
+pyrex glass	زجاج بيركس
+pyridine	بيريدين
+pyrimidine	بيريميدين
+pyrite	بيريت
+pyro-	ناري، حراري: سابقة
+pyrogallol	بيروغالول
+pyrogen	محِمّ / مُحمّ، ملتهب
+pyrogenic	محم (صفة)
+pyrolyse(v)	يحلّل بالحرارة
+pyrolysis	تحطيم حراري، تحلل حراري
+pyrolyze (to)	حلَّلَ بالحرارة العالية
+pyrometer	بيرومتر، مضرم
+pyrophoric fuel	وقود تلقائي الاشتعال
+pyrophosphate	بيروفوسفات
+pyrophosphoric acid	حمض بيروفوسفوريك / حمض ناري الفُسفوريك
+pyrosulfuric acid	حمض ناري الكبريتيك
+pyrosulphiric acid	حمض بيروكبريتيك
+pyrotechnics	علم وصناعة الصواريخ النارية
+pyroxilin; guncotton	بيروكسلين، قطن البارود
+pyrrole	بيرول
+pyrrolidine	بيروليدين
+pyrroline	بيرولين
+pyruvic acid	حمض البيروفيك

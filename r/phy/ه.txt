@@ -1,0 +1,75 @@
+هاتف	phone / telephone
+هاتف خَلَوِيّ	cell phone
+هاتف راديوي	radiophone / radiotelephone
+هاتف لا سلكي	radiophone
+هافنيوم	hafnium
+هالة	corona / halation / halo
+هالة؛ إكليل	corona
+هالوجينات	halogens
+هامش التحكم (ن)	control margin
+هبوط الجهد	potential drop
+هبوط الفُلطية	voltage drop
+هبوط في الجهد، هبوط في الفولطية	voltage drop
+هبوط كمون؛ هبوط جهد	potential drop
+هجرة آيونية	ionic migration; migration of ions
+هدب	fringe
+هدب مضيء	bright fringe
+هدرجة	hydrogenation
+هدروجين تسايري	ortho-hydrogen
+هدروجين تعاكسي	parahydrogen
+هدروجين ثقيل	heavy hydrogen
+هَدرون	hadron
+هدف	target
+هدف (ن)	target
+هرتز	hertz
+هرميتية	hermeticity
+هزاز	vibrator
+هزاز إيقاف؛ هزاز صادّ	blocking oscillator
+هزاز بتغذية راجعة	feedback oscillator
+هزاز بلوري	crystal oscillator
+هزاز توافقي	harmonic oscillator
+هزاز توافقي تقليدي	classical harmonic oscillator
+هزاز توافقي خطي	linear harmonic oscillator
+هزاز ثنائي الاستقرار	bistable multivibrator
+هزاز قسـري	driven oscillator
+هزاز هارتلي	Hartley oscillator
+هزّاز؛ مذبذب	vibrator
+هزازة استرخاء	relaxation oscillator
+هزَّازة لا توافقية	anharmonic oscillator
+هزازة؛ مهتز	oscillator
+هستوغرام؛ مخطط شـريطي	histogram
+هَفيف	aeolian sound
+هفيف؛ صفير الريح	aeolian sound / eolieun sound
+هلال مبعِّد	concavo- convex lens
+هلال مقرِّب	convexo- concave lens
+هلالي	meniscus
+هلمهولتز	helmholtz
+هليوم	helium
+هليوم تسايري (أرثوهليوم)	orthohelium
+هَمْرة ضيقة	narrow shower
+هملتوني	hamiltonian
+همهمة الشبكة	grid hum
+هندسة	engineering / geometry
+هندسة إقليدية	Euclidean geometry
+هندسة الأمان (ن)	safe geometry
+هندسة السوائل	hydraulics
+هندسة المفاعلات	reactor engineering
+هندسة المفاعلات (ن)	reactor engineering
+هنري	Henry / henry
+هواء	air
+هوائي	aerial / aerial; antenna / antenna
+هوائي ثنائي الاتجاه	bidirectional antenna
+هوائي ثنائي الجانب	bilateral antenna
+هوائي خيالي	image antenna
+هوائي قطباني نصف موجي	half-wave-dipole aerial
+هوائي مكافئي	parabolic antenna
+هوائيات (ال...)	pneumatics
+هولميوم	holmium
+هولوغرافيا	holography
+هولوغرام	hologram
+هيئة بلورية	crystal habit
+هيبرون	hyperon
+هيبرون كساي	Xi hyperon
+هيجان حراري	thermal agitation
+هيدروجين ثقيل	heavy hydrogen
+هيغرستور	hygristor

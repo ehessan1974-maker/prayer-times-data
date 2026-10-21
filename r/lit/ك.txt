@@ -1,0 +1,79 @@
+كآبة	melancholy
+كاتب	writer
+كاتِب مُساعد	co-author
+كاتب مقالات	essayist
+كاتب نثر	prose writer
+كاتِب، قارئ	writer-reader
+كاتشرو براج	Kachru, Braj B. (1932- )
+كِتاب	book
+كتاب (ال..) الأكثر مبيعاً	bestseller
+كتاب الحيوان	bestiary
+كتابٌ إلكترونيّ	electronic book
+كتاب رقميّ	numerical book
+كتاب ورع وتقوى	devotional book
+كتاب ورقيّ	paper book
+كِتابات جِدارية	graffiti
+كتابة	writing
+كتابة (ال...) ذاتية (ال...، كتابة الأنا	ego; writing
+كتابة تحريفية، لغة برمَجة	java script
+كتابة تصويرية	Pictography
+كتابة تمثيلية (رمزية)	Ideogram / Ideographic
+كتابة خاصة	Idiographem
+كتابة رمزية	Logogram
+كتابة سردية	narrative script
+كتابة سَماوية	skywriting
+كتابة شفرية	cryptography
+كتابة صوتية	Transcription
+كتابة صوتية عريضة	Broad transcription
+كِتابة مُساعدة	co-writing
+كتابة مسمارية	Cuneiform
+كتابة مَقْطِعِيَة	Syllabic writing
+كتابة نِسْوِية	feminine writing
+كُتَيّب	booklet
+كثافة	Density
+كثافة سيميائية	semantic density
+كَذِبٌ	lie
+كرّاس الإخراج	Specifications staging
+كرنفال، مهرجان شعبيّ	carnival
+كرولة	Creolisation
+كرون	Chron
+كرونيم	Chronem
+كريول	Creol / Creole
+كريول الحصون	Fort Creole
+كريول المزارع	Plantation Creole
+كَشّاف، فِهْرس	index
+كِفَايـة	Adequacy / competence
+كفاية وصفية	Descriptive adequacy
+كلاسيكية جديدة	neoclassicism
+كَلاَمٌ	Parole
+كلام الأطفال الصّغار	Babay Talk
+كلام مَرِن	Hedge
+كلام مُعاد، مُستنسَخ	cliche
+كلام، كلمة	word
+كلمة	Word / speech
+كلمة جملة	Word phrase
+كلمة دخيلة	Loanword
+كلمة دخيلة، كلمة غريبة	Alien word
+كلمة قواعديّة	Grammatical Word
+كلمة ممتزجة	Portmanteau word
+كلمة وظيفيّة	Function Word
+كلمة، جَذْرٌ	Root word
+كلوسيم	Glossem
+كلوسيماتية	Glossematics
+كُلِّي (ثقافة)	global (culture)
+كليات اللغة	Universals of language
+كليات إنسانية	universalis
+كُلِّيانيّ، شموليّ	totalitarian
+كلين (نحو)	Kleene
+كلية الحضور	ubiquitous
+كَمٌّ	Quantity
+كَمِّي	Quantitative
+كِنَاية	Euphemism
+كِنَاية بالسبب	Metalepsis
+كناية، تلميح	allusion
+كورال	chorus
+كوميدي، هزلي	comic
+كوميديا استعطافية	comedy larmoyante
+كوميديا، ملهاة	comedy
+كونية	cosmopolitanism
+كيتش، أسلوب مُتجاوَز	kitsch

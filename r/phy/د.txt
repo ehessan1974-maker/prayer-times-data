@@ -1,0 +1,322 @@
+داء الإشعاع	radiation sickness
+داء الاشعاع (ن) ، مرض اشعاعي	radiation sickness
+دائرة	circle
+دائرة الالتباس	apertural effect; circle of confusion / circle of confusion; apertural effect
+دائرة الالتباس الأصغر	circle of least confusion
+دائرة التحويل	transformation circle
+دائرة التشابه	circle of similitude
+دائرة التعريف	definition circle
+دائرة الزوال	meridian circle
+دائرة الزيغ الدنيا، دائرة الالتباس الدنيا	least circle of aberration; leat circle of confusion
+دائرة الزيغ الصغرى	least circle of aberration
+دائرة المحاكاة	circle of similitude
+دائرة قطبية	polar circle
+دائرة مرجعية، اسنادية	circle of reference
+دائرة مَيْل	dip circle
+دار التحكُّم (ن)	actuation circuit
+دارئ	buffer
+دارات مترابطة	coupled circuits
+دارات متقارنة	coupled circuits
+دارة	circuit
+دارة ازاحة الطور	phase shifting circuit
+دارة إطفاء	quenching circuit
+دارة اقفال محكم (ن)	interlock circuit
+دارة الاخماد (ن)	quenching circuit
+دارة الأمان (ن)	safety circuit
+دارة الباعث المشترك	common-emitter circuit
+دارة التيار المتذبذب	oscillating-current circuit
+دارة الفصل	separation circuit
+دارة القدْح	trigger circuit
+دارة القنطرة	bridge circuit
+دارة المبرد الأولية (ن)	primary coolant circuit
+دارة انطباق	coincidence circuit
+دارة بسيطة	simple circuit
+دارة تامة	complete circuit
+دارة تبريد أولية	primary coolant circuit
+دارة تبريد بينية (ن)	intercoolant circuit
+دارة تبريد ثانوية	secondary coolant circuit
+دارة تبريد ثانوية (ن)	secondary coolant circuit
+دارة تدرج ثنائي (ن)	scale-of two circuit
+دارة تدرج عشري (ن)	scale-of-ten circuit
+دارة تسجيل	recording circuit
+دارة تسلسلية	series circuit
+دارة تطابق	coincidence circuit
+دارة تكامل	integration circuit
+دارة تكامل؛ دارة مكاملة	integrator circuit
+دارة تَلْفَزَة مغلقة	closed circuit television
+دارة تمييز	discriminator circuit
+دارة تنعيم	smoothing circuit
+دارة ثنائية الجانب	bilateral circuit
+دارة جسـرية	bridge circuit
+دارة حثّية	induced circuit
+دارة رئيسية	main circuit
+دارة رقمية	digital circuit
+دارة رنّانة	resonant circuit
+دارة رنين حديدي	ferroresonant circuit
+دارة سلم العد (ن)	scaling circuit
+دارة شحن النضيدة	battery charging circuit
+دارة عدم التطابق (ن)	anticoincidence circuit
+دارة قابِلَة	acceptor circuit
+دارة قِصر	short circuit
+دارة قَصـر؛ دارة قصيرة	short-circuit
+دارة قلاّبة	flip-flop circuit
+دارة قَمْط	clamping circuit
+دارة كهربائية	electric circuit
+دارة لاتجاوبية	non-resonant circuit
+دارة لاخطية	non-linear circuit
+دارة لفك الكود	decoder circuit
+دارة متكاملة؛ دارة مُدْمَجة	integrated circuit
+دارة مُجاوِبة	resonant circuit
+دارة محصَّنة	hardened circuit
+دارة مرشّح	filter circuit
+دارة مضادة	bucking circuit
+دارة معدومة الحمل	unloading circuit
+دارة مُغْلَقة	closed circuit
+دارة مغنطيسية	magnetic circuit
+دارة مفتوحة	open circuit
+دارة مقارنة	comparator; comparator circuit
+دارة مقطوعة	broken circuit
+دارة مكافئة	equivalent circuit
+دارة مكافئة تسلسلية	series equivalent circuit
+دارة مكاملة	integrating circuit
+دارة من المرتبة الأولى	first-order circuit
+دارة منطقية	logic circuit
+دافعة رافعة	upthrust
+دالتان متعامدتان	orthogonal functions
+دالة	function
+دالة (ن)	Lagrangiam function
+دالة أحادية القيمة (ن)	single-value function
+دالة افراط هندسي وافدة	confluent hypergeômetric function
+دالة الأهمية (ن)	importance function
+دالة التبدد	dissipative function
+دالة التبطئة (ن)	slowing-down kernal
+دالَّة التبعثر	scattering function
+دالَّة التجزئة التذبذبية	vibrational partition function
+دالة التجيب القطعي	cosh function
+دالة التحاص	partition function
+دالة التوزّع	distribution function / distribution of random variable
+دالة التوزع الشعّي	radial distribution function
+دالة الحالة	function of state / state function
+دالة الخطأ	error function (erf)
+دالة الشدة (ن)	strength function
+دالة الشغل	work function
+دالة الطاقة الحرة	free-energy function
+دالَّة العمل	work function
+دالّة القوّة	force function
+دالة القيمة (ن)	value function
+دالة القيمة الأولية (ن)	elementary value function
+دالة الكثافة	density function
+دالة الموجة (ن)	wave function
+دالة النقل (ن)	transfer function
+دالة أينشتاين	Einstein function
+دالّة بريلوان	Brillouin function
+دالَّة بلوخ	Bloch function
+دالة تجزئة	partition function
+دالة تجزئة اهتزازية	vibrational partition function
+دالة توزع الطاقة	energy distribution function
+دالة توزيع	Fermi-Dirac distribution function
+دالة توزيع شعاعية	radial distribution function
+دالة توليد (ن)	generating function
+دالَّة ثنائية الخطية	bilinear function
+دالَّة جمعية	additive function
+دالة جهد؛ دالة كُمون	potential function
+دالة جيبس	Gibbs function
+دالة جيبية (ن)	sinusoidal function
+دالة خليط الألوان	color mixture function; colour mixture function
+دالَّة دَرَجِيَّة	step function
+دالة دلتا (ن)	delta function
+دالة ديراك الدلتاوية	Dirac delta function
+دالَّة ذاتية	eigenfunction / proper function
+دالة زوجية	even function
+دالَّة شـرودنغر الموجية	Schrodinger wave function
+دالة ضمنية	implicit function
+دالَّة عُقَدية	complex function
+دالة عكسـية التناظر	antisymmetric function
+دالة غرين	Green function
+دالة قابلة التكامل (ن)	integrable function
+دالة لاغرانج	lagrangian
+دالة لانجفان	Langevin function
+دالة لمعان عيارية	standard luminosity function
+دالة متَّجهة	vector function
+دالة مثلّثية	trigonometric function
+دالة مطّردة	monotonic function
+دالة معتلة (ن)	improper function
+دالة معيَّرة (ن)	normalized function
+دالة مميَّزة (ن)	eigen function
+دالة موجية	wave function
+دالة موجية عكسـية التناظر	antisymmetric wave function
+دالة موجية غير مضطربة	unperturbed wave function
+دالة هاميلتونية	hamiltonian function
+دالة هلمتونية	hamiltonian function
+دالَّي؛ تابعي	functional
+داين	dyne
+داينود	dynode
+دبوس توصيل	pin
+دترون (ن)	deuteron
+دثار، غطاء	blanket
+دحروج داخلي	hypocycloid / hypocycloïd
+دخان	fume
+دخل	input
+دخْل ; مدخل	input
+درب التبانة	Milky Way / milky way
+درجات الحرية	degrees of freedom
+درجة	degree
+درجة التأين	degree of ionization
+درجة التخصيب (ن)	degree of enrichment
+درجة التفرق	degree of dissociation
+درجة التفكك	degree of degeneracy
+درجة الحرارة	temperature
+درجة الحرارة الحرجة	critical temperature
+درجة الحرارة المُطْلَقة	absolute temperature
+درجة الحرية	degree of freedom
+درجة حرارة الاحتراق	combustion temperature
+درجة حرارة الاشعاع	radiation temperature
+درجة حرارة الإشعال	ignition temperature
+درجة حرارة الإلكترونات	electron temperature
+درجة حرارة الامتزاج الكامل	consolute temperature
+درجة حرارة التحوُّل	transition temprature
+درجة حرارة الرخاوة، نقطة الرخاوة	softening temperature
+درجة حرارة اللمعان	luminance temperature
+درجة حرارة اللون	color temperature; colour temperature
+درجة حرارة اللون المترابط	correlated color temperature
+درجة حرارة المحيط	ambient temperature
+درجة حرارة النترونات	temperature of neutrons
+درجة حرارة الوسط المحيط	ambient temperature
+درجة حرارة تقديرية	virtual temperature
+درجة حرارة حرجة	critical temperature
+درجة حرارة ديباي	Debye temperature
+درجة حرارة عيارية	standard temperature
+درجة حرارة فرمي	Fermi temperature
+درجة حرارة فيرمي	Fermi temperature
+درجة حرارة كوري	Curie temperature
+درجة حرارة نترونية (ن)	neutron temperature
+درجة حرارة نييل	Neel temperature
+درجة حرارة، حرارة نوعية	heat temperature
+درجة سلزيوس	Celsius degree
+درجة فارنهايت	Fahrenheit degree
+درجة كمونية	potential step
+درجة مئوية	centigrade degree
+دردور	vortex
+دردور مستقر	stationary vortex
+درع (ن)	shield
+دِرْع احيائي (ن)	biological shield
+درع بيولوجية	biological shield
+درع حراري (ن)	thermal shield
+درع حرارية	heat shield / thermal shield
+درع؛ حجاب	shield
+دِسبروسيوم	dysprosium
+دفع	impulse / thrust
+دفع القوة	impulse of a force
+دفع صاروخي	rocket propulsion
+دفع محصّل	resultant thrust
+دفع نفّاث	jet propulsion
+دَفْع؛ نبضة	impulse
+دقّاق	Morse sounder
+دقة	accuracy / precision
+دقة الميزان	accuracy of a balance
+دقيق	fine
+دقيقة	minute
+دقيقة قوسية	minute of arc
+دلتا 28 (ن)	delta 28
+دلتا كرونيكر	Kronecker delta
+دلك	tribo
+دليل	directrix
+دليل التوليف	tuning indicator
+دليل الموجة	wave guide
+دليل النقل (ن)	transport index
+دليل إمتصاص	absorption index
+دليل تمييز	discrimination index
+دليل ضوئي	light guide
+دليل ضوئي (ن)	light guide
+دليل مجال	field index
+دليل موجي مستطيل	rectangular waveguide
+دليل، معامل	index
+دماغ	brain
+دوّار	curl / rotational / rotor
+دوَّار (دوَّارة)	rotating
+دوّار: دوران في حقل متجهات	rotor; rotation of vector field
+دوارة كهربائية	electric whirl
+دوال «لاغير»	Laguerre functions
+دوالّ بيسل	Bessel functions
+دوال متعامدة (ن)	orthogonal functions
+دوال متعامدة ومستنظمة	orthonormal functions
+دوام الانطباعات الضوئية	persistence of light impressions
+دوام الرؤية	persistence of vision
+دّوام مغنطيسي	gyromagnetic effect
+دوَّام(حر)	gyroscope
+دوّامة طَوْقية	collar vortex; vortex ring / vortex ring
+دوتريوم	deuterium
+دوتيرون	deuteron
+دوتيريوم: هدروجين ثقيل	deuterium
+دور	period
+دور الاستنتاج	inference role
+دور الاهتزاز	period of oscillation
+دور التفكك النصفي	half-decay period
+دور ذاتي لدارة	free period of circuit; natural (free) period
+دوران	rotation
+دوران جزيئي	molecular rotation
+دوران جزيئي مولالي	molar rotation
+دوران داخلي محدود	restricted internal rotation
+دوران ضوئي	optical rotation
+دوران فارادي	Faraday rotation
+دوران مستوى الاستقطاب	rotation of plane of polarization
+دوران مستوى الاهتزاز	rotation of the vibration plane
+دوران مغنطيسي	magnetic rotation
+دوران منتظم	uniform rotation
+دوران نوعي	specific rotation
+دوران يساري	laevo-rotation
+دورق	flask
+دورق الكثافة	pycnometer
+دورة	cycle / revolution
+دورة الارتداد	period of restitution
+دورة الاستخلاص (ن)	extraction cycle
+دورة التثليج، دورة التبريد	refrigeration cycle
+دورة التشوّه	period of deformation
+دورة التوازن (ن)	equilibrium cycle
+دورة الحركة التوافقية	period of harmonic motion
+دورة الحركة التوافقية البسيطة	period of simple harmonic motion
+دورة الكربون	carbon cycle
+دورة الكربون العضوية	organic carbon cycle
+دورة المغنطة	magnetization cycle
+دورة المفاعل (ن)	reactor loop
+دورة النترونات	neutron cycle
+دورة النواس	period of pendulum
+دورة الوقود	fuel cycle
+دورة الوقود (ن)	fuel cycle
+دورة حرارية	thermal cycle
+دورة عكيسة	reversible cycle
+دورة غير عكيس	irreversible cycle
+دورة كارنو	carnot's cycle
+دورة مزدوجة الضغوط (ن)	dual pressure cycle
+دورة نترونات (ن)	neutrons cycle
+دورة وقود وحيدة الممر (ن)	once-through fuel cycle
+دورة، زمن الذبذبة	period
+دوري	cyclic / periodic
+دورية	periodicity
+دون الكادميوم (ن)	subcadmium
+دويّ	hum
+دِياك	diac
+ديسبل	decibel
+ديلزة	dialysis
+ديلزة كهربائية	electrodialysis
+دينا ترون	dynatron
+دينترن	dynatron
+دينة: واحدة قوة	dyne
+ديوبتر	diopter
+ديود انهياري	breakdown diode
+ديود إيساكي، ثنائي نفقي	Esaki diode
+ديود تَيهوري	avalanche diode
+ديود حاجز شوتكي	Shottky barrier diode
+ديود زينر	Zener diode
+ديود شوتكي	Schottky diode
+ديود شوكلي	Shockley diode
+ديود صِمامِيّ	diode tube
+ديود ضوئي	photodiode
+ديود ليزري	laser diode
+ديود مثالي	ideal diode
+ديود مصدر للضوء	LED / light-emitting diode
+ديود مُصْدر لما تحت الأحمر	infrared emitting diode
+ديود نفقي	tunnel diode
+ديود وُصلي	junction diode
+ديود؛ ثنائي المَسـرى	diode
+ديورالومين	duralumin

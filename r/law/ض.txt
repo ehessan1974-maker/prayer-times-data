@@ -1,0 +1,48 @@
+ضابط أمن، رجل أمن	peace officer
+ضابط شرطة	police officer
+ضامِن	Guarantor / guarantor
+ضحية	Victim
+ضحية جريمة	crime victim
+ضرائب التصدير	export tax
+ضَرْب	battery; beating
+ضرب (ال..) والجرح	assault and battery
+ضرَر	Tort / damage
+ضرر أدبيّ، ضرر معنويّ	moral damage
+ضرر غير مباشر	indirect damage
+ضرر ماديّ	material damage
+ضرر مباشر	direct damage
+ضرورات (ال..) تبيح المحظورات، للضرورة أحكام	necessity knows no law
+ضرورة	necessity
+ضريبة	Tax / tax
+ضريبة الأرباح	profits tax
+ضريبة التركات	inheritance tax
+ضريبة الدخل	Income Tax / income tax
+ضريبة الصادرات، رسْم على الصادرات	export duty
+ضريبة القيمة المضافة	Value Added Tax / value-added tax (VAT)
+ضريبة تصاعدية	progressive tax
+ضريبة تنازلية	degressive tax
+ضريبة جزافية	composition tax
+ضريبة عامة على المبيعات	general sales tax
+ضريبة عقارية	land tax
+ضريبة على الثروة	wealth tax; fortune tax
+ضريبة على الشركات	corporate income tax
+ضريبة على العقار	real estate tax
+ضريبة غير مباشرة	indirect tax
+ضريبة مباشرة	direct tax
+ضريبـيّ، جبائيّ	fiscal
+ضعف سلسلة التوريد	Supply Chain Vulnerability
+ضمّ	annexation
+ضَمُّ الدعاوى	consolidation of actions; process junction
+ضَمُّ حقَّين (اتحاد الحقوق)	consolidation (of two rights)
+ضمان	security
+ضمان اجتماعيّ	social security
+ضمان الاستحقاق	guarantee of quiet possession
+ضمان الجودة	(QA) Quality Assurance
+ضمان الدولة	state guarantee
+ضمان العيوب	warrant of defects
+ضمان العيوب الخفية	guarantee of hidden defaults
+ضمان شخصيّ	personal security
+ضمان عقاريّ	real estate security
+ضمانات	Warranties / guarantees
+ضمانة مصرفية، ضمانة بنكية	bank guarantee
+ضمنـيّ	implied; tacit

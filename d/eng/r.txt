@@ -1,0 +1,4578 @@
+R Ae S	جمعية الطيران الملكية
+R F surveillance	مراقبة الترددات اللاسلكية
+r layer	طبقة ®
+R-22	مُبرد R-22
+R-410A	مُبرد R-410A
+R-and I-flowsheet	مُخطَّط التوصيلات والمُعدِّات
+r-selected species	أنواع مختارة- فئة ®
+R-value	قيمة المقاومة الحرارية
+r.m.s.-ripple factor	عامل التموج الفعّال (جذر متوسط المربعات)
+R/P/Y	عُطوف / خَطَران / انعراج
+R12	وسيط R12
+R134a	وسيط R134a
+R2T	دوّار مُجمّع مُسبقاً
+rabatment	إسقاط شكل
+rabbet joint	وصلة الفرزة
+rabbet plane	مسحاج الفرز
+rabbetted lock	قفل مخفي
+rabbit	إجابة رادارية / مِكْشَط قصير (لتنظيف خطوط الأنابيب)، نبيطة (لتنظيف الأقنية المسدودة)
+rabbit fur	شعر الأرانب / صوف الأرانب
+rabbit hair / rabbit fur	شعر الأرنب
+rabble arms	أذرع تقليب
+Rabigh IPP PV	مشروع محطة رابغ للطاقة الشمسية الكهروضوئية
+race	سلالة
+race course	حلبة سباق
+race pattern	نمط حلبة السباق
+race rotation	تدوير التسريع
+racetrack	ممر حلبة السباق
+raceway	مسلك كهربائي
+raceway wire mold	مجرى أسلاك كهربائية (في الجدار)
+rachis	محور النورة
+racing boat	قارِب سباق
+racing stripes	شريط جانبي
+raciprocal theorem	نظرية التبادل
+rack	رف / حمَّالة السقف / راك / طريق تخفيف / مِنْصَب / منصبة، حامل
+rack and pinion locomotive	قاطرة الجريدة والترس
+rack control	تحكم الجريدة المسننة
+rack motor vehicle	مركبة بمحرك يعمل على جريدة مسننة
+rack mounting	تثبيت الحمَّالة
+rack play	تتبع المسار
+rack pricing	سعر تسليم معمل التكرير
+rack storage	تخزين الرف
+rack-and-pinion hydro-steering gear	نظام التوجيه الهيدرولي بالجريدة المُسننة
+rack-and-pinion steering	نظام التوجيه بالجريدة مُسننة وبنيون
+rack-and-pinion steering gear	صندوق تروس توجيه بجريدة مسننة
+racking	تسليك
+racking board	لوح برج الحفر العلوي
+racking platform	منصة ماسكة الأنابيب، منصة التغليف
+Racon	راكون
+Racon; radar beacon	منارة رادارية
+racoon	راكون شائع
+rad	وحدة الجرعة الاشعاعية الممتصة(راد)
+radar	رادار / جهاز الكشف والمدى باللاسلكي
+radar advisory	إعلام راداري
+radar aerial	هوائي الرادار
+radar altimeter	مقياس ارتفاع راداري
+radar altimetry area	مساحة قياس الارتفاع الراداري
+radar altitude	ارتفاع راداري
+radar approach	اقتراب راداري
+radar astronomy	علم الفلك الراداري
+radar band	نطاق تردد راداري
+radar beacon	شاخِصة رادارية / مرشد راداري
+radar beacon; racon	منارة راداريه
+radar bombing	قصف راداري
+radar bombsight	مُصَوِّبَة قنابل رادارية
+radar boresight	مُسَدِّدَة الجوف الرادارية
+radar calibration	مُعايرة الرادار
+radar camouflage	تمويه راداري
+radar clutter	جَلَبَة الرادار
+radar command	أمْر راداري
+radar contact	اتصال راداري
+radar control	ضبط راداري
+radar controller	ضابط الرادار
+radar countermeasures	تدبيرات مضادة رادارية
+radar coverage	تغظية الرادار
+radar cross-section	مقطع الرادار العرضي
+radar display; radarscope	شاشة الرادار
+radar echo	صدى راداري
+radar echo; radar return	صدى راداري
+radar element	عنصر راداري
+radar fire	نيران رادارية
+radar flight-following	تعقب راداري
+radar gunlaying	تسديد راداري
+radar horizon	أفق الرادار
+radar identification	تمييز راداري
+radar imagery	تخيلات رادارية
+radar intelligence item	موضوع استخبارات الرادار
+radar map	خريطة رادارية
+radar mile	مِيل راداري
+radar monitoring; radar surveillance	مراقبة رادارية
+radar navigation guidance	توجيه مِلاحي راداري
+radar netting	شَبْك راداري
+radar picket	شاخص راداري
+radar range	مدى الرادار
+radar ranging	تحديد المدى بالرادار
+radar receiver	مُستقبِل راداري
+radar reconnaissance	استطلاع راداري
+radar reflectivity	عاكسية الرادار
+radar reflectivity factor (of hydrometeors)	عامل الانعكاسية للرادار (للظواهر الجوية المائية)
+radar response	استجابة رادارية
+radar scan	مسح راداري
+radar scanner	ماسح الرادار
+radar sensor	حسّاس راداري
+radar separation	فَصْل راداري
+radar signal film	فيلم إشارات الرادار
+radar signature	شارة رادارية
+radar silence	صمت راداري
+radar sonde	مسبار راداري
+radar speedometer	عداد السرعة الراداري
+radar surveillance	مراقبة بالرادار
+Radar Tank Gauging System	نظام قياس الخزان بالرادار
+radar target	هدف (رادار)
+radar track position	موضع المسار الراداري
+radar tracking station	محطة تَتَبُّع رادارية
+radar vector	مُتّجِه راداري
+radar-controlled gun	مدفع مضبوط بالرادار
+radarscope overlay	غشاء شاشة الرادار
+radarscope photography	تصوير شاشة الرادار
+Radcliffe method	طريقة رادكليف
+radiac	رادياك
+radial	شعاعي / نصف قطري
+radial arm saw	منشار نصف قطري الذراع
+radial component	مركّبة قطرية / مركبة شعاعية
+radial core duct	مجارى تبريد شعاعية
+radial differential signal; RD (abbreviation)	اشارة تفاضلية نصف قطرية
+radial displacement	انحراف نصف قطري
+radial distance	مسافة قطرية / مسافة نصف قطرية (إشعاعية)
+radial distribution system	نظام توزيع اشعاعي
+radial engine	محرك شعاعي / محرك نصف قطري
+radial engines	محركات الرادار
+radial error	خطأ نصف قطري
+radial faults	صُدُوع شُعاعية
+radial field	مجال شعاعي
+radial field joint	وصلة ذات مجال شعاعي
+radial flow	جريان شعاعيّ / جَرَيَان مركزي
+radial flow fan	مروحة تهوية قطرية
+radial gate / Trainter gate	بَوّابة ترانتر
+radial gate; Trainter gate; segment gate weir	هَدّار ببوابة شدفية (قطعة دائرية)
+radial highway	طريق رئيسي شعاعي
+radial leaf spring	ياي ورقي نصف قطري
+radial line suburban traffic	خط شعاعي
+radial lock gates	بَوّابات نصف قُطرية للأهوسة
+radial network	شبكة شعاعية
+radial noise absorber	جهاز امتصاص الضوضاء الشعاعية
+radial offset (in a CD system)	إزاحة نصف قطرية ( في نظام القرص المدمج)
+radial operation (of a part of a network)	تشغيل شعاعي (لقسم من الشبكة)
+radial ply tires	إطار ذات تيلات عرضية ( شعاعية)
+radial pump	مضخة شعاعية
+radial resolution chart	مخطط الإستبانة شعاعيا
+radial road	طريق شعاعية
+radial run-out	التبطّح
+radial section	قطع نصف قطري
+radial shaft seal ring	حلقات الإحكام القطرية للأعمدة
+radial shrinkage	انكماش نصف قطري
+radial signal	إشارة إشعاعية
+radial splits	شقوق نصف قطرية
+radial struts	قوائم نصف قطرية
+radial system	نظام شعاعي
+radial tracking control	تحكم بمسار نصف قطري
+radial transmission line	خط نقل شعاعي
+radial triangulation	تثليث قُطري
+radial turbine	تربين شعاعي
+radial tyre [UK] / radial tire [US]	إطار قطري
+radial vane	ريشة شعاعية
+radial velocity	سرعة نصف قطرية
+radial ventilation	تهوية إشعاعية
+radial well	بئر ذو صرف قطري
+radial wings	أجنحة نصف قطرية
+radial-ply tyre (radial tyre) [UK] / radial-ply tire (radial tire) [US]	إطار مُحزّم (إطار قطري)
+radian	راديان
+radiance	كثافة (ال...) الإشعاعية / كثافة شدة الإشعاع؛ الإشعاعية
+radiance coefficient	معامل الإشعاعية
+radiance dose; integrated radiance; time-integrated radiance	جرعة إشعاعية؛ كثافة الإشعاع
+radiance factor	عامل الإشعاعية
+radiance temperature,	درجة حرارة إشعاعية,
+radiance; brightness (deprecated)	كثافة الدفق الضوئي
+Radiant barrier	حاجز مُشِعّ
+radiant convection crude charge lines	خطوط تلقيم الخام في فرن التسخين بالإشعاع و الحملان
+radiant cylindrical exposure	التعرض الإشعاعى على سطح إسطوانى
+radiant effect	تأثيرات إشعاعية
+radiant efficiency,	كفاءة الإشعاع
+radiant emittance	إشعاع نوعي
+radiant emittance; radiant exitance	الانبعاثية الاشعاعية اخراج اشعاعي
+radiant energy	طاقة (ال...) الإشعاعية / طاقة اشعاعية / طاقة إشعاعية
+radiant energy; radiation energy	طاقة إشعاعية
+radiant exitance	كثافة الفيض الإشعاعى الخارج
+radiant exposure	التعرض للإشعاع / التعرض الإشعاعى
+radiant exposure meter	مقياس التعرض للإشعاع
+radiant flux, flux of radiation	تدفّق إشعاعي
+radiant flux; radiant power	فيض إشعاعي؛ قدرة إشعاعية
+radiant heater	مشعّ حراري
+Radiant heating	سخان مشع / تدفئة إشعاعية
+radiant heating panel	لوحة تسخين مشعة
+radiant intensity	شدة الإشعاع / شدة الاشعاع / شدة إشعاعية
+radiant Panels	ألواح إشعاعية
+radiant power; optical power; optical flux; radiant flux	قوة مشعة؛ قوة ضوئية؛ تدفق ضوئي؛ تدفق مشع / قدرة إشعاعية
+radiant section	مَقْطَع الإشعاع
+radiant sensitivity	حسّاسية المشع
+radiant spherical exposure; fluence; radiant fluence	التعرض الإشعاعى على سطح كروى
+radiated disturbance	اضطراب مُشع
+radiated power; radiant power	قُدْرَة إشْعاعِية
+radiating element	عنصر مشع / عنصر إشعاعي
+radiating near field (region)	مجال قريب مشع (منطقة)
+radiation	إشعاع / اشعاع
+radiation angle; output angle	زاوية الإشعاع زاوية الخرج؛ زاوية المخرج
+radiation area	منطقة إشعاع
+radiation attenuation	توهين الإشعاع
+radiation balance	توازن إشعاعي
+radiation biology	بيولوجيا (علم الأحياء) الإشعاعية
+radiation burn	حُرق إشعاعي
+radiation characteristic	نمط الإشعاع
+radiation cooling	تبريد بالإشعاع
+radiation damage	ضرر إشعاعي
+radiation detector	كاشف إشعاعِ
+Radiation Detriment	ضرر إشعاعي
+radiation diagram	مُنحنى الإشعاع
+radiation dose	جرعة إشعاعية
+radiation efficiency	كفاءة إشعاعية / مردود إشعاعي
+radiation efficiency (of an antenna)	كفاءة إشعاعِ (لهوائى)
+Radiation Exposure	تعرض إشعاعي
+radiation factor	عامل إشعاعِ
+radiation field	مجال الإشعاع / مجال إشعاعي
+radiation fog	ضباب إشعاعي
+radiation hardening	تقسية إشعاعية
+radiation hazard	خطر الإشعاعِ
+radiation hygiene	صحة إشعاعية
+radiation illness; radiation sickness	مرض الإشعاع
+radiation index	دليل إشعاعِ
+radiation intensity (from an antenna in a given direction)	شدة الإشعاع ( من الهوائي باتجاه معين )
+radiation intensity (in a given direction)	شدة الإشعاع (فى إتجاة معطى)
+Radiation Levels	مستوى إشعاعي
+radiation lobe	نتوء إشعاع / نتوء إشعاعي
+radiation loss	فاقِد إشعاعيّ
+radiation map	خريطة الإشعاع
+radiation meter; (radiation) measuring assembly	مقياس إشعاعِ
+radiation mode	نمط إشعاعِ
+radiation monitor	مِرقَاب الإشعاع
+radiation pattern	نمط إشعاعِ / نمط الإشعاع
+radiation pattern (function)	نمط إشعاعِ (وظيفة)
+radiation pattern (of an optical fibre)	نموذج إشعاع (للألياف البصريه)
+radiation pattern (surface)	نمط إشعاعِ (سطح)
+radiation pattern, (graphical representation); radiation diagram	نمط إشعاعِ، (تمثيل تخطيطي)
+radiation physicist	فيزيائي أشعة
+radiation physics	فيزياء إشعاعية
+radiation protection	وقاية (ال..) من الإشعاعات / حماية من الاشعة / حِماية من الإشعاعات
+radiation protection technician	فني حماية من الاشعاع
+radiation pyrometer	بيرومتر إشعاعي / مِضْرَم إشعاعي / مقياس كهربائي حراري اشعاعي
+radiation quality	جودة الإشعاع
+radiation receiver; radiation detector; radiation receptor	مُستقبل الإشعاع
+radiation resistance (of an antenna)	مقاومة إشعاعِ (للهوائى)
+Radiation Safety Information Management System	نظام إدارة معلومات الأمان الإشعاعي
+radiation safety officer	ضابط أمانِ من الإشعاعِ / مسؤول الحماية من الإشعاع
+radiation scattering	تبعثر الإشعاع
+radiation sensitivity	حساسية الاشعاع
+radiation sickness	مرض الاشعاع
+radiation source	مصدر إشعاعِ / مصدر الإشعاعات
+radiation spectrometer	مقياس الطيف الإشعاعى
+radiation spectrum	طيف الإشعاع
+radiation workers — category A	عُمّال إشعاعِ — صنف A
+radiation workers — category B	عُمّال إشعاعِ — صنف B
+radiation,	إشعاع,
+radiation-counter tube	صمام عد اشعاعي
+radiative capture	احتجاز الاشعاع
+radiative damping	تخميد إشعاعي
+radiative mass stopping power	قدرة إيقاف الكتلة المشعة
+radiator	رادياتير / مبرد إشعاعي / مُشِعّ / مِشعاع / مشعّ / مشعاع
+radiator cooling	تبريد المُشع
+radiator cowl	واقية المُشِع
+radiator filler cap	الغطاء السدادي للرادياتير
+radiator grille	شبكة الرادياتير
+radiator grille [UK] / radiator grill [US]	شبكة وقاية الرادياتير
+radiator mascot [UK] / hood ornament [US]	رمز ماركة السيارة
+radiator muff	غطاء المُشِعّ
+radiator ribs	زعانف التبريد
+radiator shutter	مِصْراع الْمُشِع
+radical (free radical)	جذر (جذور حرة)
+radical chain reaction	تفاعل جذري متسلسل
+radical resource productivity	إنتاجية جذرية للموارد
+radical uncertainty	عدم يقين متطرف
+radio (transmission) channel	قناة (إرسال) راديوية
+radio active tracer technique	طريقة اقتفاء الاشعاع
+radio altimeter	مقياس الارتفاع بالراديو / مقياس ارتفاع لاسلكي
+radio approach aids	مساعدات الاقتراب اللاسلكي
+radio astronomy	علم الفلك الراديوي / علم الفلك الإشعاعي
+radio automatic train operation	تشغيل القطار بموجات الراديو آليا
+radio based continuous automatic train control	مراقبة آلية مستمرة بالراديو
+radio beacon	منارة راديوية / منارة لاسلكية
+radio bearing	اتجاه زاوي لاسلكي
+Radio Block Center	مَرْكَزُ المجْمعِ اللاسِلْكِيّ
+radio block centre	مركز كتلة الراديو / مَرْكَزُ الراديو
+radio cabinet	خزانة المذياع
+radio channel	قناة لاسلكية
+radio clock module	وحدة الساعة اللاسلكية
+Radio Communication System	نِظامُ اِتِّصالاتٍ لاسِلْكِيَّةٍ
+radio communications	مواصلات رادْيَوِيَة، مواصلات لاسلكية
+radio compass	بوصلة لاسلكية
+radio control	تحكم بموجات الراديو / تحكم لاسلكي
+Radio Detecting and Ranging	رادار
+radio detection	كشف باللاسلكي
+radio direction-finding	تحديد زاوية الاتجاه بالراديو
+radio display paging	استدعاء راديوي بالعرض
+radio echo	صدى لاسلكي
+radio environment	بيئة لاسلكية - المحيط اللاسلكي
+radio facility chart	خريطة الخدمة اللاسلكية
+radio fiX	نقطة إسناد لاسلكي
+radio frequency	تردد لاسلكي / التَّرَدُّدُ اللاسِلْكِيّ
+radio frequency (RF)	التردّد الراديوي
+radio frequency ; RF	تردد الراديو
+Radio Frequency Identification	ترددات الراديو المحددة للهوية
+Radio Frequency Identification (RFID)	بطاقة التعريف بنظام استخدام موجات الراديو (RFID)
+Radio Frequency Identification Detector	كاشف الهوَيِّة باستخدام موجات الراديو
+radio frequency identification device	راديو جهاز تحديد الترددات
+radio frequency,	تردد راديوى, الأجواء المتفجرة
+radio frequency; RF	تردد راديوي
+radio goneometer station	محطة توجيه لاسلكي
+radio guidance	توجيه راديوي
+radio homing	اهتداء راديوي
+radio horizon	أفق لاسلكي كهربائي / أفق لاسلكي
+radio horizon distance; radio horizon range	مسافة الأفق اللاسلكي الكهربائي
+radio interference	تداخل الأمواج اللاسلكية، تداخل أمواج الراديو
+radio interior protection (FIS)	وظيفة حماية المقصورة الداخلية في السيارات المكشوفة
+radio link	وصلة لاسلكية
+radio links for switching stations	معدات الراديو من أجل تغيير المحطات
+radio loop	هوائي إطاري لاسلكي
+radio mast	صاري اللاسلكي
+radio navigation	مِلاحة لاسلكية
+radio noise; radio-frequency noise; RF noise	ضوضاء (تردد) لاسلكي / ضوضاء (تردد) راديو / ضوضاءراديوى
+radio pager; paging receiver	مستقبل استدعاء راديوي
+radio paging	استدعاء راديوي
+radio propagation	إنتشار لاسلكي
+radio proXimity fuze	صهيرة تقاربية لاسلكية
+radio range	إرشاد لاسلكي
+radio rangefinding	تحديد المدى لاسلكياً
+radio reception	استقبال راديوي
+radio relay building	محطة تقوية راديوية، مبنى أجهزة الاتصال اللاسلكي
+radio relay station	محطة تقوية لاسلكية
+radio remote control (FFB)	وحدة تشغيل عن بُعد
+radio repeater; transponder,	مكرر(راديوى)
+radio silence	صَمْت لاسلكي
+radio sonde	مسبار لاسلكي
+radio sonobuoy; sonobuoy	طافية صوتية لاسلكية
+radio source	مصدر راديوي
+Radio Transmission Module	وِحْدَةُ الإِرْسالِ اللاسِلْكِيّ
+radio transponder	مرسل - مستجيب (راديوي) / جهاز استقبال وارسال (راديو)
+radio wave	موجة لاسلكية؛ موجات الراديو / موجة لاسلكية / موجة راديوية
+radio waves	موجات لاسلكية
+radio, adj	لاسلكي؛ راديو
+radio-amateur	هواة الراديو
+radio-based train control	مراقبة القطار بالراديو
+radio-carbon dating	تأريخ بالكربون المشع
+radio-cassette recorder	مذياع بشريط تسجيل
+radio-colloid	مادة غروانية مشعة
+radio-frequency disturbance; radio disturbance; RF disturbance	إضطراب (تردد) رادبو / اضطراب تردد راديوي
+radio-frequency heating apparatus	جهاز تسخين بتردد لاسلكي
+radio-frequency identification	نظام التعريف باستخدام موجات الراديو RFID / تَعْرِيفُ التَرَدُّدِ اللاسِلْكِيّ
+radio-frequency identification; RFID	تعريف التردد الراديوى
+radio-frequency interference; RFI	تداخل (تشويش) تردد لاسلكى
+radio-frequency interference; RFI (abbreviation)	تداخل الترددات الراديوية
+radio-frequency protection ratio; RF protection ratio	نسبة الحماية في التردد الراديوي
+radio-frequency radiation	إشعاع تردد راديوي
+radio-frequency signal-to-interference ratio; RF signal-to-interference ratio	نسبة الإشارة اإلى التداخل في التردد الراديوي
+radio-frequency vision signal; vision signal	إشارة مرئية راديوية التردد
+radio-inertial guidance	توجيه عطالي لاسلكي
+radio-relay system; radio-relay link; RRL (abbreviation)	نظام مرحل راديوى
+radio-tracer technique	تقنية اقتفاء الإشعاع
+radioactive	مُشِّع / مشع نوويا
+radioactive aerosol	بخاخ ذو نشاط إشعاعي
+radioactive concentration; activity concentration	تركيز إشعاعي
+radioactive contamination	تلوث إشعاعي
+Radioactive Contents	محتويات مشعة
+radioactive dating	تحديد العمر إشعاعياً
+radioactive decay	إضمحلال إشعاعي
+Radioactive Elements	عنصر مشع
+radioactive equilibrium	توازن النشاط الاشعاعي
+radioactive fallout	إشعاع متساقط
+radioactive half-life	مشع نووي، نصف الحياة / نصف عمر إشعاعى
+radioactive logging; gamma ray and neutron logging	تسجيل النشاط الإشعاعي للصخور
+radioactive material	مادة مُشِعَّة / مادة مشعة
+Radioactive Products	منتجات مشعة
+radioactive source	مَصْدَر مُشِعّ / مصدر مشع
+Radioactive Thermoelectric Generators	مولِّدات كهروحرارية مشعة
+radioactive tracer	كاشف إشعاعي / مقتفي نشاط إشعاعي
+radioactive waste	نفايات مشعة
+radioactive waste management	إدارة النفايات المشعة
+Radioactive Wastes	نفايات مشعة
+radioactivity	نشاط إشعاعي نووي / نشاط إشعاعى / نشاط إشعاعي
+radioactivity meter	جهاز قياس الإشعاع
+radiobiology	علم الأحياء الإشعاعي
+radiocarbon dating	تأريخ بالكربون المشع
+radiochemical purity	نقاوة كيميائية إشعاعية
+radiocommunication	الاتصال اللاسلكى / اتصال راديوي
+radiocommunication service	خدمة الاتصال الراديوي
+radiodermatitis	التهاب الجلد نتيجة للإشعاع
+radiodetermination	تحديد راديوي / استدلال راديوي (لاسلكي)
+radioelement	عنصر مشع
+radiograph	صورة إشعاعية
+radiographer	مصّور بالأشعة
+radiographic cassette	حافظة صور إشعاعية
+radiographic contrast	تباين في التصوير الشعاعي
+radiographic film	فيلم بالأشعة
+radiography	تصوير بالأشعة
+radiography; roentgenography (US)	تصوير بالأشعة
+radioisotope	نظير مشع
+radiolaria	شُعَاعِيات
+radiolarian rock	صخر راديولاري
+radiolocation	تعيين موقع بالراديو / تحديد الموقع باللاسلكي
+Radiological Accidents	حوادث إشعاعية
+radiological physics	فيزياء الطب الإشعاعى
+radiological protection	حماية من الطب الإشعاعى
+Radiological Survey	مسح إشعاعي
+radiological survey flight altitude	ارتفاع طيران المسح الإشعاعي
+radiological technologist, US	تقني طب اشعاعي
+radiologist	أخصّائي الأشعّة
+radiology	طب إشعاعى ( علم الأشعة)
+radioluminescence	تألق راديوى؛ لمعان راديوى
+radiometeorograph	مرصدة لاسلكية
+radiometer	جهاز قياس الإشعاع / مقياس الإشعاع
+radiometric level measurement	قياس المنسوب بالقياس الإشعاعيّ
+radiometry	قياس الإشعاع
+radionavigation	ملاحة راديوية / ملاحة راديوية (لاسلكية)
+radionuclide	نويدة إشعاعية
+radionuclide therapy	علاج بالإشعاع النووى
+Radionuclides of Natural Origin	نويدات مشعة طبيعية المنشأ
+radionuclidic purity	نقاوة نووية إشعاعية
+radiophonics	معالجة الإشارات الصوتيّة
+radiosensitivity	حساسية للإشعاع
+radiosity	الانبعاثية الاشعاعية
+radiosonde	مسبار لاسلكي / مسبار راديوي
+radiotelegram	برقية راديو
+radiotelegraph converter	محول إبراق راديوي
+radiotelegraphy	ابراق راديوي / إبراق لاسلكي
+radiotelephone	هاتف راديوي
+radiotelephony	مهاتفة راديوية
+radiotelephony network	شبكة هتف لاسلكي
+radiotelescope	مِقْراب لاسلكي
+radiotelex call	نداء تلكس لاسلكى
+radiotherapist	أخصائى المعالجة بالإشعاع
+radiotherapy	علاج بالأشعة
+radium equivalent	مكافئ الرمل
+radius	نصف قطر(انحناء) / نصف قطر
+radius arm	ذراع تعليق مُوجّهة
+radius brick	آجر نصف قطري
+radius gauge	مقياس نصف القطر
+radius of action	مدى العمل / نصف قطر المدى
+radius of curvature	نصف قطر انحناء / نصف قطر منحنى
+radius of gyration	نِصف قُطر العَطالة / نصف قطر التدويم
+radius of influence	مدى التأثير / شعاع تأثيري
+radius of influence is more common	نِصف قُطر هبوط منسوب المياه (هيدرولوجياً)
+radius of investigation	نطاق البحث
+radius of safety	نصف قطر الأمان
+radius rod	ذراع نصف قطري
+radius vector	مُتّجِه نصف قطري
+radius, equi-hydraulic	نِصف القُطر الهيدروليّ المكافئ
+radius, hydraulic / mean depth, hydraulic	نِصف القُطر الهيدروليّ
+radius, hydraulic; depth, hydraulic mean	مُتوسِّط العُمق الهيدروليّ
+radix (or machine) point	علامة عشرية
+radome	قبة هوائي / قبّة الهوائي
+radon	رادون
+radzimir	رادزمير
+RAF	قوى الجو الملكية
+raffia	خوص
+raffinate	صفاوة / مادة مكررة بإذابة الشوائب
+Rafha IPP PV	مشروع محطة رفحاء للطاقة الشمسية الكهروضوئية
+raft foundation	أساس متصل / أساس حَصِيرة / أساس الحصيرة / أساس حصيري
+raft port	فتحة شحن
+rafter	رافدة
+raftsman	معوّم
+rag	خرق
+rag paper	ورق خرقي
+rag stone work	رصْف عشوائي
+rag-wing	جناح الخِرقة
+rage-bolt	محزقة شائكة
+raglan	مِعْطَفٌ كُمَّاهُ حَتَّى العُنُق
+raglan sleeve coat	معطف بأكمام كروية
+Ragone diagram	مُخطط راجون
+rail	قضيب السكة الحديدية / سِكّة
+rail -road transport	نقل المركبات بالقِطَار
+rail between traction rails	قضيب السكة الحديدية الرئيسي
+rail bond	ترابط قضبان السكك الحديدية
+rail brake	فرامل السكك الحديدية
+Rail Breakage	انكسار القضيب الحديدي
+rail bridge	ممر السكك الحديدية
+rail card	بطاقة اشتراك بالقطار
+rail carriage, railway freight	شحن سِكَكِيّ
+Rail Clip	ممسك القضيب الحديدي / مشبك القضيب الحديدي
+Rail Collision Load	حمل الإصطدام بالقضبان
+rail connection	خطوط السكك الحديدية
+rail contact clamp	قامطة الاتصال
+Rail Crack	الصدع أو الشق في القضيب
+rail creep	ثني السكك الحديدية
+Rail Critical Zone	المنطقة الحرجة الخاصة بشبكة السكك الحديدية
+rail fastening	ربط قضبان السكك الحديدية
+Rail Fastening System	نظام ربط و تثبيت القضبان
+Rail Freight	الشَحْنُ فِي الخُطُوطِ الحديدية
+Rail freight terminal	مَحَطَّةُ شَحْنِ الخُطُوْط الحَدِيدِيَّةِ
+rail freight transport company	شركة نقل البضائع عبر السكك الحديدية
+rail freightway	مَمَرٌّ قِطَار الشَحن
+rail grinder	جلاخة السِكَّة الحديدية / آلة شحذ القضبان
+rail grinding	صقل السكك الحديدية / شحذ القضبان
+rail head	رأس/ رئيس السكة الحديدية
+Rail infrastructure manager	إِدارَةُ البِنْيَةِ التَّحْتِيَّةِ للخُطُوطِ الحَدِيدِيَّةِ
+rail joiner, track connector	رابط السكك الحديدية
+rail joint bond	وصلة ربط قضيب / رابط وصلة مشتركة / رابِطُ مِفْصَلِ القُضْبانِ
+rail junction	وصلة السكك الحديدية
+rail level, top of rail	حافة علوية للسكك الحديدية
+rail loading gauge	محدد قياس التحميل / مِقْياسُ تَحْمِيلِ الخُطُوطِ الحَدِيدِيَّةِ
+rail loading profile	مؤشر لقياس قضبان السكك الحديدية
+rail over road	سِكَّة فوق الطريق
+rail passenger company	شركة نقل الركاب بالسكك الحديدية
+Rail passenger disembarked	الرَّاكِبُ المُتَرَجِّلُ مِنَ القِطارِ
+Rail passenger embarked	الرَّاكب الصاعِدُ إِلَى القِطارِ
+rail post	قائم الدرابزين
+Rail Profile	قطاع القضبان
+Rail Protection Zone	منطقة الحماية الخاصة بشبكة السكك الحديدية
+rail regulator (Brit.)	ضابط (حركة القطارات)
+rail shoegear	مجمع الكهرباء
+rail spike	مسامير
+rail ticket	تذكرة القطار
+Rail to rail cross bond	رابِطٌ عَرْضِيّ بَيْنَ القُضْبانِ
+rail track	مسار السكك الحديدية
+rail track irregularities	مخالفات تقع في ممر أو مسار السكك الحديدية
+rail traffic	حركة السكك الحديدية
+Rail transit	العُبُورُ بِالخُطُوْط الحَدِيدِيَّةِ
+rail transport	نقل بالسكك الحديدية / النقل عن طريق القطارات
+rail travel specialist	متخصص السفر بالسكك الحديدية
+rail traveler(s)	مسافر بالسكك الحديدية
+rail user number	رقم مستعمل السكك الحديدية
+Rail van	شاحِنَةُ خُطُوطٍ حَدِيدِيَّةٍ
+rail wagon for intermodal transport	عربة السكك الحديدية للنقل متعدد الوسائط / عَرَبَةُ الخُطُوْط الحَدِيدِيَّةُ لِلنَقْلِ المُتَعَدِّدِ الوَسائِطِ
+rail waybill	سَنَدُ نقل سككي (بالسكك الحديدية)
+rail web	شبكة السكك الحديدية
+rail work	أشغال تقام ضمن السكك الحديدية
+rail-consignment note	سَنَدُ النقل السككي
+Railbed	أَرْضِيَّةُ خُطُوطِ الحَدِيدِ
+railbus	حافلة سِكَكِية
+railbus motor coach	عَرَبَة الحافلة السِكَكِية
+railbus trailer	مقطورة الحافلة السِكَكِية
+railcar	سَيَطَارٌ (من سيارة وقطار)، عربة سكة حديدية / عَرَبَة سِكَكِية
+railcar trailer	مقطورة العَرَبَة السِكَكِية
+railing	سياج
+railing; grab rail	حاجِز الجِسر
+railroad crossing, level crossing	تَقَاطُع على مستوى واحد
+railroad grade crossing	مَعْبَر السكة الحديدية
+railroad tie; railway tie; crosstie; railway sleeper	عارضة خشبية أو معدنية ثقيلة تتخد أساسا لخط السكة الحديدية
+railway	سِكَّة حديدية / سكة حديدية / الخَطُّ الحَدِيدِيّ
+railway agent	وكيل السكك الحديدية
+Railway Assets	أُصُولُ الخُطُوطِ الحَدِيدِيَّةِ
+railway authority	هيئة السكة الحديد
+railway ballast	فرش بالحصى المتواجد بالسكك الحديدية
+railway bridge	جسر طريق السكك الحديدية / جسر سكة حديد / الجِسْرُ الحَدِيدِيّ / جسر للسكة الحديدية
+railway building	بناء السكك الحديدية
+Railway capital stock	مَخْزُونُ رَأْسِ مالِ الخُطُوط الحَدِيدِيَّةِ
+Railway car	العَرَبَةُ
+Railway Car carrying capacity	سَعَةُ عَرَبَةِ الخُطُوْطِ الحَدِيدِيَّةِ
+railway clearance check	فحص جاهزية السكك الحديدية
+railway company	شركة السكك الحديدية / شركة الخطوط الحديدية
+Railway Concession Contract	عَقْدُ الاِمْتِيازِ فِي الخُطُوطِ الحدِيْديَّة
+Railway construction and Maintenance Works	أَعْمالُ التَّنْفِيذِ وَالصِّيانَةِ في الخُطُوطِ الحَدِيديَّة
+Railway construction and operating regulations (Germany)	أنظمة بناء وتشغيل السكك الحديدية
+Railway Corridor	ممر السكة الحديدية
+Railway Corridor; Railway Protection zones	حَرَمُ الخُطُوطِ الحَدِيدِيَّةِ
+railway couplers	مقرنات السِكَّة الحديدية
+railway crane	رَافِعَة السِكَّة الحديدية
+Railway Crossing	عبور السكة / معبر السكة
+railway electrification	تزويد السكك الحديدية بالكهرباء
+railway electrification system	نظام كهربة السكك الحديدية
+Railway enterprise	مُؤَسَّسَةُ الخُطُوْط الحَدِيدِيَّةِ
+railway enterprise-owned wagon	عَرَبَة مؤسسة السِكَّة الحديدية
+railway executive	إدارة السكك الحديدية
+Railway Executive Order	القَرارُ التَنْفِيذِيّ
+railway ferry	سفينة نقل القِطَارات
+railway gantry	هيكل مؤقت للسكك الحديدية
+railway grade crossing	تقاطُع سكة حديد، مَعْبَر سكّي حديد
+Railway incident	حادِثَةُ خُطُوطٍ حَدِيدِيَّةٍ
+Railway Infrastructure	البِنْيَةُ التَّحْتِيَّةُ للخُطُوطِ الحَدِيدِيَّةِ
+railway infrastructure authority	البنية التحتية للسكة الحديد
+railway jetty	فرضة بسكة حديدية
+Railway journey	رِحْلاتُ الخُطُوْط الحَدِيدِيَّةِ
+railway junction	وصلة السكك الحديدية
+railway land title register	سجل الأراضي الممسوحة لبناء السكك الحديدية
+Railway law implementing regulations	اللّائِحَةُ التَّنْفِيْذِيَّةُ لِنِظَامِ الخُطُوطِ الحَدِيديّةِ
+railway level crossing	مَعبَر في مُستَوَى السِّكَّة
+Railway License	التَّرْخِيصُ فِي الخُطُوطِ الحدِيْديَّة
+railway line	خط السكك الحديدية
+Railway Line Usage Agreement	اِتِّفاقِيَّةُ اِسْتِخْدامِ خَطٍّ حَدِيدِيٍّ
+Railway Luggage	أَمْتِعَةُ الخُطُوْط الحَدِيدِيَّة
+railway mission	خدمات اجتماعية تحت اشارة المسافرين في محطات القطار
+railway network	سبكة خطوط السكك الحديدية / شَبَكَةُ الخُطُوْطِ الحَدِيدِيَّةِ
+railway network segment	مقتطع شبكي لخطوط السكك الحديدية
+Railway Network Usage Rights	حُقُوقُ اِسْتِخْدامِ الشَبَكَةِ الحَدِيدِيَّةِ
+railway operations	عمليات السكك الحديدية
+railway overbridge, bridge crossing	جسر طريق السكك الحديدية
+railway plant; railway equipment	مرافق/ معدات السكك الحديدية
+railway police	شرطة السكك الحديدية
+Railway Post Office (RPO)	مَكْتَبُ بَرِيدِ الخُطُوْط الحَدِيدِيَّةِ
+railway property	ملكية السكك الحديدية
+Railway Regulation	التَنْظِيمُ فِي الخُطُوطِ الحدِيْديَّة
+railway repair shop	ورشات تصليح السكك الحديدية
+Railway Safety Requirements	مُتَطَلَّباتُ السَّلامَةِ فِي الخُطُوطِ الحدِيْدِيَّةِ
+Railway Services License	التَّرْخِيصُ لِخَدَماتِ الخُطُوطِ الحَدِيدِيَّةِ
+Railway Services or Activities	خَدَماتُ الخُطُوطِ الحَدِيدِيَّةِ أَوْ الأَنْشِطَةِ
+Railway Shunting	مُنَاوَرَةُ الخُطُوطِ الحَدِيْدِيَّة
+railway signal	إشارات طريق السكك الحديدية / إِشاراتُ الخُطُوْط الحَدِيدِيَّةِ
+railway signalling	تأشير السكة الحديد
+railway signalling (flashing lights)	إشارات السكك الحديدية
+railway signalling regulation (Germany)	تنظيم إشارات السكك الحديدية
+railway station	محطة سكة حديد / مَحَطَّةُ القِطارِ
+railway station, railroad depot	محطة السكك الحديدية
+railway station, station, rail station, train station	محطة القطار
+railway support industry	صناعة دعم السكك الحديدية
+railway system	نظام السكك الحديدية / شبكة السكك الحديدية / النِظامُ فِي الخُطُوطِ الحدِيْديَّة
+Railway Timetable	الجَدْوَلُ الزَمَنِيّ فِي الخُطُوطِ الحدِيْديَّة
+railway track	مسار السكك الحديدية / خَطُّ الحَدِيدِ الجارِي
+Railway Traffic	حَرَكَةُ المُرُورِ فِي الخُطُوْط الحَدِيدِيَّةِ
+Railway traffic on national territory	حَرَكَةُ مُرُورِ الخُطُوْط الحَدِيدِيَّةِ فِي المَناطِقِ الوَطَنِيَّةِ
+Railway Transport Deputyship	وكالة النَقْلُ السِّكَكِيّ
+Railway transport operator	مُشَغِّلُ النَقْلِ بِالخُطُوْط الحَدِيدِية
+railway underbridge	جسر تقاطع متراكب للسكك الحديدية
+railway underpass	طريق تحت السكك الحديدية
+railway vehicle	عَرَبَة سِكَكِية
+Railway vehicle journey	رِحْلَةُ عَرَبَةِ الخُطُوْط الحَدِيدِيَّةِ
+railwayman	عامل بالسكة الحديدية
+Railways	الخُطُوطُ الحَدِيدِيَّةُ
+rain	أمطار / مطر
+rain band	نطاق المطر
+rain bonnet	قبعة المطر
+rain discharge / run-off, rainfall / runoff	تصريف المطر
+rain gun	مدفع المطر
+rain gun / rainer	رشاش مياه عملاق
+rain ice	جليد المطر
+rain moistrure or damp	رطوبة مطرية
+rain prints	آثار المطر
+rain recorder / rain recording gauge / hyetograph	مِقياس تسجيل المطر
+rain sensor	حسّاس الأمطار
+rain shadow	ظل مطري
+rain skirt	تنورة المظلة
+rain static	كهرباء المطر
+rain-fed agriculture	زراعة مطرية / زراعة بعلية
+rain-gauge station	مَحطّة قِياس هُطول المطر
+rain-use efficiency (rue)	كفاءة استخدام مياه المطر
+rain-wash	جرف المطر
+rain/headlamp sensor [UK] / rain/headlight sensor [US]	حسّاس الأمطار وضوء السير (RLS)
+rainbow	آثار الزيت على سطح الماء / قوس قزح
+rainer	مُمطر
+rainfall	تساقُط المطر / مطر
+rainfall (amount)	ارتفاع مياه الأمطار
+rainfall area	مِنطقَة تساقُط الأمطار
+rainfall depth and distribution	عمق الأمطار وتوزيعها
+rainfall distribution	توزيع الأمطار / توزيع هطول الأمطار
+rainfall distribution coefficient	مُعامِل توزيع التساقُط
+rainfall duration, annual	دَوام (ال...) السنويّ لهطول الأمطار
+rainfall duration, design	مدة الهطول التصميمية
+rainfall excess	فائض الأمطار
+rainfall frequency	تَواتُر الأمطار
+rainfall index	دَلِيل هُطول الأمطار
+rainfall infiltration	ترشُّح الأمطار
+rainfall intensity	شِدَة هُطول الأمطار / غزارة الأمطار / كَثَافَة الأَمطَار
+rainfall intensity at which a stormwater overflow will come into action	شِدَة (ال...) الحَرِجة للأمطار
+rainfall intensity curve	مُنحنى شِدّة المطر
+rainfall intensity frequency; rainfall recurrence interval	تَكرار حدوث كثافة مُعينة للأمطار
+rainfall intensity pattern	نمط غزارة الأمطار
+rainfall intensity return period	فترة تراجع غزارة الأمطار
+rainfall intensity-duration curve	مُنحنى دوام شِدّة الأمطار / منحنى شِدّة الأمطار
+rainfall maximization	حساب معدّل الأمطار بالمستوى الأعلى
+rainfall penetration	تَخلُّل الأمطار
+rainfall province	إقليم الأمطار
+rainfall rate	معدل الأمطار
+rainfall summation curve	مُنحنى تراكُميّ للأمطار
+rainfall, initial	هُطول بادئ أوليّ
+rainfall, maximum probable	أقصى هُطول محتمل لكمية المطر
+rainfall, mean annual	مُتوسِّط سنويّ لكَمية المطر
+rainfall, net / rainfall, excess	كَمّية مطر زائدة
+rainfall, point	تَساقُط مطر مَوضِعيّ
+rainfall, residual	بواقي المطر
+rainforest	غابة مطيرة
+rainout	تنظيف مطري للهواء
+rainwater	مياه الأمطار
+rainwater / surface water / precipitation water	مياه الأمطار
+rainwater infiltration	تسرب مياه الأمطار
+rainwater pipr	أنبوب ماء المطر
+rainwater retention basin	حوض احتجاز مياه الأمطار
+rainwater tank	صهريج مياه الأمطار
+rainwater use	استخدام مياه الأمطار
+rainwater utilisation	استخدام مياه الأمطار
+rainwater yield	حصيلة مياه الأمطار
+raise (to) (an embankment)	رَدَمَ (سداً)
+raise pantograph signal	إشارة المنساخ الشامل المرتفع
+raised arch	قوس مشرعة
+raised bog peat	خث
+raised deck vessel	سفينة بسطح مرتفع
+Raised floor	أرضية مرتفعة
+raised kerb	حافة رصيف مرتفعة
+raised letters	حروف مجسّمة
+raised map	خريطة مجسّمة
+raised shoulder	طِوَار مرفوع، حافة طريق مرتفعة، بروز مرتفع
+raiser	قائمة الدرجة
+Raising Awareness	نشر الوعي
+raising legs	قوائم تعلية، ركائز رفع
+raising of low-water depth	زيادة عمق المياه المنخفضة
+raising of low-water discharge	زيادة تصريف المياه المنخفضة
+raising the level of impoundage	زيادة منسوب الماء المُخزّن / رفع منسوب حجز الماء
+rake	زاوية المَيْل
+rake of stylus; recording angle or dig	ميل القلم طولياً
+raking out of a joint	تعرية المَفْصل، تنظيف المَفْصل
+rally jacket	سترة سباق السيارات
+rally overalls	مبذلة سباق السيارات
+rally stripe	خطوط الرالي
+ram	مِكبس / تضاغطي / ضغاطي / مِدَك، مِطْرَقة آلية
+ram air	هواء متضاغط
+ram drag	كبح تضاغطي
+ram inlet	مدخل هواء تضاغطي
+RAM programme	برنامج الذاكرة
+ram recovery	استخلاص التضاغط
+ram void pressure	ضغط فراغ التضاغط
+ram's horn	قرن الكبش
+RAM; read/write memory	ذاكرة عشوائية
+ramagé	راماجيه
+Rambouillet Merino	رامبوييه-مارينو
+ramie	ألياف الرامي
+ramie yarn	خيط غزل رامي
+ramification	فَرْع شِرْياني
+ramjet (1)	محرك نفاث
+ramjet (2)	محرك نفاث
+ramjet engine	محرك نفاث تضاغطي
+rammed concrete	خرسانة مدكوكة
+ramming	دكُّ
+ramp	منصة صعود / مُنحَدَر / إشارة تصاعدية / مَعْبَر (إلى السفينة أو الطائرة) رصيف منحدر / مُنْحَدر / مجرى منحدر / ممر منحدر / مَوْقِف / منحدر / مُرْتَقَى، مَعْبَر أنابيب التغليف (بين المنصة و جهاز الحَفْر)
+ramp capacity	سعة المَوْقِف
+Ramp Down Rate (Mw/Min)	معدل الانحدار (ميجا واط/الدقيقة)
+ramp eXtension	توسعة الموقف
+ramp function	دالة متصاعدة
+ramp function; time ramp	دالة انحدارية؛ منحدر الزمن
+ramp meter	مِقيَاسُ الانحِدَار
+ramp rate	مُعدَّل الإنحدار
+ramp response	استجابة تصاعدية / إستجابة إنحدارية
+Ramp response of a D-element	استجابة تصاعدية لعُنصر تفاضلي
+ramp services	خدمات الموقف
+ramp weight	وزن الموقف
+ramp-to-door	منحدر إلى باب
+ramp-to-ramp	منحدر إلى منحدر / من الموقف إلى الموقف
+ramrocket	صاروخ تضاغطي
+rams wool	صوف الكباش
+ramsar convention	اتفاقية رامسار
+ramsar sites	مواقع رامسار
+ramset gun	آلة دقّ المسامير، مُسَدَّس دقّ المسامير
+Ramspol method	طريقة رامبسول
+rance	ركيزة
+ranching (cites)	تربية مكثفة للحيوانات (اتفاقية التجارة الدولية في الأنواع المهددة بالانقراض)
+random	عشوائي، غير مُنتظِم
+random (RND)	عشوائي (RND)
+random access memories	ذاكرات التخزين العشوائي
+random access memory	الذاكرة RAM / ذاكرة الوصول العشوائي (RAM)
+random access to bus	وصول عشوائي إلى الناقل
+random energy	طاقة الجريان العشوائي
+random experiment	تجربة عشوائية
+random failure	عطل عشوائى
+random failure integrity	إصلاح الخطأ العشوائى
+random fault	الأخطاء العشوائية
+random flight	طيران عشوائي
+random function	دالة عشوائية
+random hunting	تصيد عشوائي
+random incidence	سقوط عشوائي
+random lengths	أطوال متفاوتة
+random measuring error	خطأ قياس عشوائي
+random noise	ضوضاء عشوائي / ضوضاء عشوائية ، تشويش عشوائي / شوشرة عشوائية
+random noise,	ضوضاء عشوائية
+random number generator	مولد أعداد عشوائي
+random paving	رَصْف غير منتظم الأحجار، رَصْف عشوائي
+random sample; sample; grab sample; off-hand sample	عينة عشوائية
+random selection	اختيار عشوائي
+random shearing	قص عشوائي
+random synchronizing	تزامن عشوائي؛ توافق عشوائي
+random variable	متغير عشوائي / مُتغيِّر عشوائيّ / متغير عشوائى
+random waves	أمواج عشوائية
+random wound winding	ملف ملفوف عشوائياً
+random, adj	عشوائى
+random-access memory; RAM (abbreviation)	ذاكرة وصول عشوائي
+random-demand planning	تخطيط الطلب العشوائي
+random-incidence sensitivity	حساسية السقوط العشوائي
+range	نطاق / المدى / مدى
+range (of a radio transmitter)	مدى (للناقل اللاسلكى)
+range anxiety	القلق من المدى
+range calculation fault warning light	ضوء تحذير وجود خطأ في حساب المدى
+range compensation	تعويض المدى
+range display	شاشة عرض المدى
+range extender	موسع مجال / موسع المدى / مُمَدِّد القُدرة
+range extension (Rex)	المدى/الساعة
+range factor	أداة تغيير المدى
+range lights	أضواء المدى
+range markers; range strobe	علامات المدى
+range nozzle	نَافورة بَعيدة المدى
+range of errors	مجال الأخطاء
+range of speed control	نِطاق التحكُّم في السرعة
+range of speed regulating boards	إشارات التباطؤ
+range of the controlled variable	مدى المتغير المتحِّكم به
+range of the disturbance variable	مدى متغير الاضطراب
+range of the final controlled variable	مدى المتغير المتحكم به النهائي
+range of the manipulated variable	مدى المتغير الُمعالَج
+range of the reference variable	مدى المتغير المرجعي
+range of tolerance	نطاق التسامح
+range per hour (RPH)	المدى في الساعة
+range resolution	تفريق المدى
+range ring	دائرة المدى
+range safety officer	ضابط سلامة المدى
+range shift	تحول النطاق
+range state	دولة نطاق
+range switch	مفتاح مدى القياس
+range tracking element	عنصر تَتَبُّع المدى
+range-changing device	أقصي قدرة خرج
+range-extended electric vehicle (RE-EV)	السيارة الكهربائية ذات المدى المتد
+range-only tracking	تَتَبُّع قياس المدى
+rangeland	مراعي
+ranging	تحديد المدى / تصفيف (المحارف)
+rank of a matrix	رتبة مصفوفة
+Rankin	رانكين
+Rankin cycle	دارة رانكين
+Rankine cycle	دورة رانكن / دَوْرة رانكِينْ
+rap adoption	اعتماد خطة العمل الإقليمية (RAP)
+rap formulation	صياغة خطة العمل الإقليمية (RAP)
+rape seed cake	مسحوق بذور اللفت
+rape-seed oil	زيت بذور اللفت
+rapid	منحدر نهري
+Rapid assessment methods of waste generation	طرق التقييم السريع لتَكَوُّنِ النفايات
+Rapid Brake	المَكَابِح السَرِيعَةُ
+rapid charger	شاحن أسرع
+rapid climate change	تغير سريع للمناخ
+rapid conditioning	موائمة آنية
+rapid curing asphalt	أسفلت سريع التماسك، أسفلت سريع الجفاف
+rapid curing cut-back	أسفلت مخفَّف سريع الجفاف
+rapid engineer deployment	انتشار سريع للمهندسين
+rapid filter	مُرشِّح سريع
+Rapid Iron	كي سريع
+rapid mix	خَلْط سريع
+rapid pavement	رَصْفَة صُلْبة
+rapid sand filter	مُرشِّح رمليّ سريع
+Rapid Transit	النَّقل السريع
+rapid visual soil assessment technique	تقنية سريعة للتقييم البصري للتربة
+rapid-bloom	بروز سريع
+rapid-eXtraction parachute	مظلة سريعة الانتزاع
+rapid-fracture surface	سطح سريع التصدع
+rapid-reload capability	قدرة إعادة الشحن السريعة
+rapidity of fading	سرعة الإضمحلال
+rapids / cataract	مُنحدَرات النهر
+RAPS (Remote Area Power Supply)	نظام الخلايا الكهروضوئية قائم بذاته
+RAPSIM	أداة RAPSIM
+RAPSYS	برنامج RAPSYS
+RARDE	مؤسسة أبحاث وتطوير التسليح الملكية
+rare earth elements	عناصر ترابية نادرة
+rare ecological community (including plant community)	مجتمع بيئي نادر (بما في ذلك مجتمع نباتات)
+rare malfunction	خطأ وظيفى نادر
+rare species	أنواع نادرة
+rare taxon	سلالة نادرة
+rarefaction	تخلخل
+RAS	سرعة هواء مصححة
+Raschel corduroy	قطيفة مضلعة راشيل
+Raschel lace	دانتلا راشيل
+Raschel lining	بطانة راشيل
+rasp	مبرد خشن / مِبْشَرة
+rasping file	مبرد محبب
+raster	شبكة خطوط المسح / مسح شبكي
+raster burn	حرق شعاع قراءة الصورة
+raster-barrier stereoscopic picture tube	انبوب الصور المجسمة ذو حاجز للضوء
+rat hole (rathole)	ثُقْب جُرْذي
+rataawi reservoir	مَكْمَن الرطاوي
+Ratawi Layer	رطاوي، طبقة
+ratchet	مفتاح بسقاطة / مفتاح بسقاطة انعكاسية
+ratchet brace	ملف بسقاطة
+ratchet combination spanner [UK] / ratchet combination wrench [US]	مفتاح حلقي مفتوح الطرف
+ratchet screwdriver	مفك لوالب بسقّاطة
+rate gyro	جَيْرو المعدَّل
+rate of accretion	معدّل تغذية نوعية
+rate of change of... relay	مُرَحِّل معدل تغير...
+rate of compaction	مُعَدَّل الضَّغط
+rate of descent	معدل الانحدار / معدل الهبوط
+rate of flow	معدل الجريان / معدل التدفق
+rate of flow controller	جهاز ضبط مُعدَّل الجريان
+rate of fuel consumption	معدل استهلاك الوقود
+rate of increase stress	مُعَدَّل تطبيق الإجهادات
+rate of information loss (in telecontrol)	احتمالية الخطأ المتبقي ( في التحكم عن بعد )
+rate of occurrence of voltage changes	معدل حدوث تغيرات الجهد
+rate of pitch	معدل الخَطَران
+rate of residual information loss (in telecontrol)	احتمالية فقد المعلومات المتبقية ( في التحكم عن بعد )
+rate of rise	معدل الارتفاع
+rate of roll	معدل العُطوف
+rate of runoff	إجماليّ كَمية تصريف
+rate of spread	سُرعَة الانتشار
+rate of strain	مُعَدَّل التشوه
+rate of sustained return	معدل العائد المستمر
+rate of turn	معدل الدوران
+rate of yaw	معدل الانعراج
+rate time	معدّل زمن
+rate,	ناتج قسمة الكمية على الزمن (معدل1) / معامل يعبر عن نسبة (معدل 2) / معدل؛ سعر الوحدة
+rated accuracy limit primary current (of a protective current transformer)	عامل امان الاجهزة
+rated altitude	ارتفاع مُقَدَّر
+rated apparent power	قدرة ظاهرية مُقننة
+rated breaking capacity	سعة القطع الاعتبارية
+rated burden	حمل (لمحول قياس)
+rated capacitance of a capacitor	سعة اسمية لمكثف
+rated capacity	قدرة مقننة / سعة كهربائية مقننة
+rated connecting capacity	استطاعة توصيل مقننة ( سعة)
+rated continuous thermal current	تيار ديناميكي حركي اسمي
+rated control voltage	جهد تحكم مقنن؛ جهد تحكم مقرر
+rated current	تيار أساسي / تيار مُقنن
+rated current (for accessories)	تيار مقنن (للملحقات )
+rated current (of a winding of a transformer or shunt reactor)	التيار الاسمي لملف محول أو ممانع توازي
+rated current and rated time for earthing and short-circuiting device	التيار المقنن والزمن المقنن لأداة التأريض وقصر الدائرة
+rated current of a capacitor	تيار اسمي لمكثف
+rated current of an arc suppression coil	التيار الاسمي لملف إخماد الشرارة الكهربائية
+rated current,	تيار مقنن,
+rated dynamic current	تيار اسمي ممدد / تيار ديناميكى مقنن
+rated field current	تيار مجال مقنن؛ مقرر
+rated field voltage	جهد مجال مقنن؛ مقرر
+rated frequency	التردد (الذبذبة) الاسمي / تردد إسمي
+rated frequency of a capacitor	تردد اسمي لمكثف
+rated head	ضاغط مقنن
+rated idle speed	سرعه اللاشغل المقننة
+rated impedance of an input circuit	الممانعة المقننة لدائرة دخل
+rated input (elec.) / nominal load / nominal value / rated load	حِمْل اسميّ
+rated input current (for a wire feeder)	تيار دخل مقنن(لمغذي السلك)
+rated input frequency	تردد دخل مقنن
+rated input power	قدرة الدخل الاعتبارية
+rated input voltage	جهد الدخل المقنن (للجهاز)
+rated input voltage (for a wire feeder)	(جهد دخل مقنن (لمغذى السلك
+rated instrument limit primary current (IPL)	خطأ مركب
+rated insulation level	مستوى العزل الاسمي
+rated insulation voltage	مقاومة حرجة / جهد العزل المقنن
+rated insulation voltage, (of a connecting device)	جهد مقنن للعزل (لأداة توصيل)
+rated level	المستوى المقنن
+rated load speed	سرعه الحمل المقننة
+rated making power	قدرة الوصل الاعتبارية
+rated maximum supply current	أقصي تيار منبع مقنن
+rated maximum welding current	أقصي تيار لحام مقنن
+rated minimum welding current	أقل تيار لحام مقنن
+rated no-load speed	سرعه اللاحمل المقننه
+rated operating voltage	جهد تشغيل مقنن؛ جهد تشغيل مقرر
+rated output	خرج مقنن
+rated output (of an instrument transformer)	حمل مقنن
+rated output of a capacitor	قدرة اسمية لمكثف
+rated output power	قدرة الخرج الاعتبارية
+rated output power (of a transmitter)	قدرة خرج اسمية،مقننة (لمرسل)
+rated output,	خرج مقنن, تسخين بالتتبع
+rated power	القدرة الاسمية / قدرة مُقَدَّرة / قدرة مُقَنَّنة
+rated power (for WTGS)	القدرة المقننة( لنظام مولد بعنفة طاقة الرياح)
+rated power of an input circuit; rated burden of an input circuit	القدرة المقننة لدائرة دخل؛ الحمل المقنن لدائرة دخل
+rated power of the input circuit	قدرة مقننة لدارة الدخل
+rated power,	قدرة مقننة,
+rated power, ; rated capacity,	القدرة المقننة,
+rated primary current (of a current transformer)	جهد ابتدائي (لمحول الجهد)
+rated primary voltage (of a voltage transformer)	تيار ابتدائي اسمي (لمحول التيار)
+rated production	إنتاج اسمي، إنتاج مقدَّر
+rated recording level	مستوى التسجيل المقنن
+rated secondary current (of a current transformer)	جهد ثانوي (لمحول الجهد)
+rated secondary voltage (of a voltage transformer)	تيار ثانوي اسمي (لمحول التيار)
+rated short time thermal current	محول تيار متبقي
+rated short-time current	تيار اسمي لفترة قصيرة
+rated short-time thermal current	تيار حرارى مقنن لفترة ا ثانية
+rated speed	السرعة المقننة / سُرعة مُقنَّنة
+rated speed range	حيز سرعه مقننه
+rated stand-by losses (in electroheat)	مفاقيد في الحالات الاحتياطية المقننة (في الحرارة الكهربائية)
+rated step voltage	جهد الخطوة المقنن
+rated temperature category of a capacitor	تصنيف حراري مقنن
+rated through-current	التيار الاسمي المخترق
+rated torque	عزم مقنن
+rated transformation ratio of a current transformer	نسبة التحويل الفعلية لمحول الجهد
+rated transformation ratio of a voltage transformer	نسبة التحويل الاسمية لمحول التيار
+rated useful output power	قدرة الخرج المفيدة المقننة (النمطية)
+rated value	قيمة مقننة / قيمة مقننة؛ مقررة / قيمة مقننة؛ قيمة مقررة
+rated value,	قيمة مقننة, الأجواء المتفجرة / القيمة المقننة,
+rated voltage	جهد مُقنن
+rated voltage (for accessories)	جهد مقنن (للقطع التكميلية)
+rated voltage factor	ملفات جهد متبقي
+rated voltage of a capacitor	جهد اسمي لمكثف
+rated voltage of a winding	الجهد الاسمي للملف
+rated voltage ratio (of a transformer)	نسبة التحويل الاسمية لمحول
+rated voltage,	جهد مقنن, تسخين بالتتبع / الجهد المقنن للمعدة,
+rated water speed, ; rated water velocity,	السرعة المقننة لتيار الماء,
+rated wind speed (for wind turbines)	سرعة الرياح المقننة ( لعنفة الرياح)
+rated withstand voltage	جهد التحمل المقنن
+rates for rail travel	معدلات السفر بالسكك الحديدية
+rathole ahead	ثقب قعر البئر
+ratholing	حفرة الغاز
+ratification	مُصَادَقَة، تَوْثِيق / تصديق
+rating	تَقْيِيم / تقنين / مقنن؛ مقررة / مقننات / إضافة / تقدير / معايرة
+rating curve	مُنحنى التصريف
+rating curve; calibration curve	مُنحنى مُعايَرة
+rating flume	مَسِيل المُعايَرة
+rating of an electric vehicle	تقنين لمركبة كهربائية
+rating of current meter	مُعايَرة ريشة القِياس
+rating power of an arc furnace transformer	قدرة مقننة لمحول فرن قوسي
+rating spring	نابض معايرة
+rating,	مقننات,
+ratio	نسبة
+ratio base	نسبة القاعدة
+ratio control	ضبط النسبة / تحكم نسبى
+ratio meter	مقياس النسبة
+ratio of consumptive use of water to evaporation	نِسبة فَواقِد الاستهلاك المطلق للمياه إلى التبخر
+ratio of specific heats	نسبة الحرارة النوعية
+ratio of the specific heat capacities	نسبة السعة الحرارية النوعية
+ratio-meter; quotient-meter	جهاز تجميعي
+ration of reduction	نسبة التنقيص، نسبة الخفض ( في السرعة)
+rational expectations	توقعات عقلانية
+rational quantity	قيمة منسوبة
+rational transfer element	عنصر تحويل نسبى
+rattler test	اختبار التفتت
+raverse sequence operation fabrication	عملية ذات تتابع عكسي
+Ravigneaux planetary gearset	مجموعة التروس الكوكبية 'رافينو' (Ravigneaux)
+ravine (geol.)	مَسِيل
+raw coal	فَحْم خام
+raw cotton	قُطن خام
+raw cotton value differences	اختلاف قيم القطن الخام
+Raw Crude	زيت خام غير معالج
+raw data	معلومات أولية
+raw data reduction	اختزال معطيات أولية
+raw fuel	الوقود الخام
+raw gas	غاز طبيعي رطب (قبل فصل البنزين و البوتان منه) / غاز خام
+Raw Gas (Wet Gas)	غاز طبيعي رطب
+Raw Gasoline	جازولين غير معالج / بنزين خام
+raw hemp	قنب خام
+raw hiding	ضخ شديد
+raw humus	دبال خام
+raw ivory	عاج خام
+raw kerosene	كيروسين خام
+raw material	مادة أولية / مادة خام / مادَة أوَليَة
+raw material analysis in yarn	تحليل المواد الخام في الخيط
+raw material import	استيراد المواد الخام
+raw material portion	الجزء الخاص بالمواد الخام
+raw material; resource	مادة خام
+raw materials	مادة خام
+raw materials / raw goods	قماش وبري
+Raw Mix Stream	سوائل غاز طبيعي مختلطة / دَفْق مزيج خام
+raw nettle fabric	قطن خام
+raw ore	خام أولي
+raw rubber	مطاط خام
+raw sewage	مياه صِرْف خام / مياه مجارٍ خام / مياه صرف صحي خام
+raw silk	حرير طبيعي خام
+raw sludge	حَمْأَة خام / حمأة خام / وَحَل نيئ / حمأة خامّ
+raw solution	ماء التغذية
+raw stock	مواد أولية
+raw timber	خشب خام
+raw water	مياه غير معالجة، مياه خام / ماء خام
+raw water surveillance directive	دليل مراقبة المياه الخام
+raw water; untreated water	ماء خامّ
+raw white	أبيض خام
+raw wool	صوف خام
+raw wool prices	سعر الصوف الخام
+raw woven fabric	نسيج خام
+raw yarn	خيط غزل خام
+Rawdhatain (oil field)	الروضتين (حقل نفطي)
+rawin	سرعة الريح
+rawinsonde	مسبار سرعة الريح
+ray	شعاع
+ray path transmission loss	فقد الإرسال لمسار شعاع (للاسلكي)
+Rayleigh atmosphere	غلاف جو رايلي
+Rayleigh criterion	معيار رايلي
+Rayleigh disk	قرص رايلي
+Rayleigh distribution	توزيع(رايلية) / توزيع 'رايلي'
+Rayleigh flow	جريان رايلي
+Rayleigh formula	معادلة رايلي
+Rayleigh number	عدد رايليه
+Rayleigh region	عامل الفقد (مغناطيسي)
+Rayleigh scattering	تشتت رايلي / تبعثر رايلي / تشتُّت 'رايلي'
+Rayleigh wave	موجة رايلي
+rayon	رايون
+rays	أشعة
+RCD (residual-current device) RCCB (residual-current circuit breaker)	قاطع FI
+RCD functionally dependent on line voltage	أداة تعمل بالتيار المتبقي تؤدي وظيفتها بالاعتماد على جهد الخط
+RCD functionally independent of line voltage	أداة تعمل بالتيار المتبقي تؤدي وظيفتها مستقلة عن جهد الخط
+Rd value	قيمة انعكاس الألياف
+RDS-TMC	نظام بيانات الراديو (RDS) / قناة المعلومات المرورية (TMC)
+rdx nylon prima cord 80 grain	سلك تفجير نايلون 80 قمحة
+RE project; renewable energies project	مشروع الطاقات المُتجددة
+Re- Proving	إعادة المعايرة
+re- urbanisation	إعادة تَحَضُّر
+re-editing	اعادة النشر
+re-enforcement	إعادة إمداد
+re-entrant trunking	إعادة إدخال (توصيل) خلال قناة مشتركة
+re-entry body	جسم الرَجْعَة
+re-entry nose cone	مخروط مقدمة الرجعة
+re-entry plasma	بلازما الرَجْعَة
+re-entry trajectory	مسار الرجعة
+re-entry vehicle	مَرْكَبَة الرَجْعَة
+re-entry, reentry	رَجْعَة / عودة
+re-establishment	إعادة إنشاء
+re-examination / revision / review / verification	مُراجَعة
+re-examine (to)	أَعادَ الاختبار
+re-ignition	اعادة الاشعال
+re-ignition (of an AC mechanical switching device)	اعادة الاشعال لجهاز وصل وفصل ميكانيكي ذو تيار متردد
+re-ignition voltage	جهد اعادة الاشعال
+re-introduction	إعادة إدخال
+re-nesting	إعادة التعشيش
+re-radiation; secondary radiation	إعادة إشعاعِ
+re-recording	اعادة التسجيل
+Re-Refined Oil (Reclaimed Oil)	زيت التزييت المستصلح
+re-refined oil; reclaimed oil	زيت تزليق مستصْلَح، زيت تزليق مجدَّد
+re-refined used oil	زيت مستعمَل مستصْلَح
+re-refining	اعادة التكرير
+re-routing	اعادة توجيه المسار / إعادة مسار
+re-routing (in a signalling network)	اعاده التوجيه (في شبكة ارسال الإشارات)
+re-use of waste water	إعادة استعمال المياه القذرة
+reacclimatization	إعادة التأقلم
+reach	حبس
+reach (sewer)	حبس
+reach of a river	مسار النهر
+reach of protection	امتداد الحماية
+reach stacker	معبئ الانتشار / reach stacker
+reach truck	عربة رافعة منتشرة
+reactance	المفاعلة / مُفاعَلة / رديّة
+reactance coil	ملفّ ردّي
+reactance drop	هبوط الجهد بالردّية
+reactance of an arc furnace high-current line	مفاعلة خط تيار عالي لفرن قوسي
+reactance of the arc furnace installation electric line	مفاعلة خط كهربائي لمعدة فرن قوسي؛ مفاعلة خط كهربائى لتركيبات ( تجهيزات ) فرن قوسى
+reactance relay	مُرَحِّل مفاعلة
+reactance voltage	جهد الردّية
+reactant	متفاعِل / مُفاعِل
+reactant ratio	نسبة المُفاعِل
+reactant recirculation	إعادة تدويرالمتفاعل
+reaction	رَدُّ الفعل / ردّ فعل
+reaction center	مركز التفاعل
+reaction container	حاوِية التفاعُل
+reaction engine	محرك رد فعلي
+reaction enthalpy	المحتوى الحراري للتفاعل
+reaction polarization	استقطاب تفاعل
+reaction rail	قضيب تفاعلى
+reaction rate	مُعدَّل التفاعُل
+reaction sphere	كرة رد الفعل
+reaction time	زمن رد الفعل / زمن الاستجابة
+reaction turbine	تُربينة رد فعلية / تربين ارتكاسي
+reaction type turbine	تربينية تفاعلية؛ ( توربين نوع رد فعلي)
+reaction wood	خشب التفاعل
+reaction-control jet	نفاث تحكم رد فعلي
+reactivation	تجديد النشاط
+reactivation function	وظيفة إعادة تنشيط
+reactive	غير فعالة
+reactive adaptation	تكيف تفاعلي
+reactive attenuator	موهن تفاعلي
+reactive component of the current	مركبة التيار الردّية
+reactive component of the volt-amperes	مركبة الفولط أومبير الردّية
+reactive component of the voltage	مركبة الجهد الردّية
+reactive current	تيار غير فعال / تيار غير فعّال
+reactive energy	طاقة غير الفعالة
+reactive factor	عامل القدرة غير الفعالة / عامل الردّية / مُعامل القدرة غير الفعّالة
+reactive load	حمل ردّي / مقاومة الحمل الكهربائي
+reactive magnetron sputtering	رش مهبطي(كاثودي ) مفاعلي بالمغنيطرون
+reactive organic gases (rog's)	غازات عضوية متفاعلة
+reactive organic gases (ROG)	غازات عضوية تفاعلية (ROG)
+reactive power	قدرة مُفاعلة / متجه القدرة غير الفعالة / قدرة غير فعّالة / قُدرة مُفاعلة
+reactive power / idle power	قُدرة مُفَاعِلَّة
+Reactive power budget	توازن قوة رد الفعل
+reactive power compensation	تعويض القدرة غير الفعالة / تعويض القدرة غير الفعّالة
+Reactive power control	تحكم في قدرة رد الفعل
+reactive power converter	مغير قدرة غير الفعالة
+reactive power exchange	تبادل القدرة غير الفعّالة
+Reactive power management	إدارة قدرة رد الفعل
+reactive power measurement device	جهاز قياس القدرة المُفاعلة
+reactive power provision	إمداد بالقدرة غير الفعّالة
+reactive power reserve	احتياطي القدرة غير الفعّالة
+reactive power transducer; var transducer	مُحول إشارة للقدرة غير الفعالة
+reactive systems	أنظمة تفاعُلية
+reactive volt-ampere	فولط أمبير ردّي
+reactive wastes	نُفايات تفاعلية
+reactive, adj	متفاعل
+reactive-power voltage control	التحكم في الجهد بواسطة القدرة غير الفعالة
+reactivity	تفاعلية
+reactor	مُفاعِل / مفاعل
+reactor cyclone	فرازة المُفاعِل الدوّامية، فرازة المُفاعِل المخروطية
+reactor effluent	فَيْض المُفاعِل
+reactor effluent drum	وَغَاء الفائض من المُفاعِل
+reactor efluent and debutanizer overhead exchanger	مُبادِل الحرارة بين فَيْض المُفاعِل و منتجات التقطير الرأسية لنازع البوتان
+reactor feed chiller	مُبرِّد تلقيم المُفاعِل
+Reactor Pressure Vessel	وعاء ضغط المفاعل
+reactor start split phase motor	محرك مجزأ الطور بمفاعل تشغيل
+reactor starting	بدء تشغيل بمفاعل
+reactor-regenerator unit	وحدة التفاعل و التجديد
+read (or sense) wire	سلك القراءة (أو الإحساس)
+read only memory	الذاكرة ROM / ذاكرة القراءة فقط (ROM)
+read, verb	يقرأ, فعل
+Read-Only Memory	ذاكرة القراءة فقط
+read-only memory; ROM	ذاكرة للقراءة فقط
+read-only memory; ROM (abbreviation)	ذاكرة قراءة فقط
+read-only store	مخزن للقراءة فقط
+read-pause-write	قراءة-توقُّف-كتابة
+read/write memory	ذاكرة قراءة / كتابة
+readability	إمكانية القراءة
+readback	قراءة راجعة
+readiness code	كود الاستعداد
+reading	قراءة
+reading gun	قاذف قراءة
+reading room	قاعة تصحيح التجارب
+reading speed	سرعةِ القراءة
+reading table	طاولة القراءة
+readout time	زمن التحويل (الكلي)
+ready	جاهز / متأهب / مستعد
+ready - mix concrete	خرسانة جاهزة
+ready for data signal	جاهز لاشارة البيانات
+ready for publication	جاهز للنشر
+ready mount	إطار جاهز (لتركيب زجاج التصوير)
+ready room	غرفة التأهب
+ready to anchor	مستعد للرسو
+ready to discharge	مستعد للتفريغ
+ready to load	مستعد للشحن
+ready to use	جاهِز للاستعمال
+ready-for-assembly	جاهِز للتركيب
+ready-for-delivery	جاهزة للتسليم
+reaeration	إعادة التهوية
+reagent	كاشِف
+reagent blank water	كاشف الفراغات في المياه
+Reagents	كواشف
+real aperture sonar	سونار ذو فتحة حقيقية؛ جهازلكشف المواد تحت الماء ذو فتحة حقيقية
+real error	خطأ حقيقي
+real fluid	مائع حقيقي
+real gas	غاز حقيقي
+real gross national product (gnp)	ناتج وطني إجمالي حقيقي
+real machine	آلة حقيقية
+real no-load direct voltage	جهد مستمر غير محمل حقيقي
+real power	قدرة فعّالة
+real precession	حركة مدارية حقيقية
+real rate of interest	سعر الفائدة الحقيقي
+real relative permeability	نفاذية نسبية حقيقية
+real relative permittivity; DEPRECATED: relative dielectric constant	سماحية نسبية حقيقية
+real silk	حرير حقيقي
+real terms	قيمة حقيقية
+real time	الزمن الحقيقي / زمن حقيقي / توقيت حقيقي
+real time bus	ناقل بيانات الوقت الفعلي
+Real Time Clock	ساعَةُ ضَبْطِ الوَقْتِ الحَقِيقِيّ
+real time traffic control	مراقبة الحركة فِي الزمن الْحَقِيقِيِّ
+real wage	أجر حقيقي
+real wander	تجول حقيقي
+Real-time Battery Monitoring	مراقبة البطارية في الوقت الحقيقي
+Real-time behavior	سلوك في توقيت حقيقي
+real-time capability	نظام الوقت الفعليّ / المقدرة للزمن الفعلى
+Real-Time Operating System	نظام التشغيل في الوقت الفعليّ (RTOS) / نظام تشغيل فى الزمن الفعلى
+real-time processing	معالجة آنية
+real-time transmission	إرسال آني
+real-time, adj	في الوقت الحقيقي, صفة
+realignment	تصحيح مسار الطريق
+reality sevitude	ارتفاع عيني
+ream	رزمة كبيرة
+ream (to)	جوَّف، فرَّز
+reamer	مُوَسِّع الحَفر / مجوِّفة
+reaming bit	مِدَقّ توسيع (الثقوب)، مثقب توسيع
+rear	الحيز الخلفي
+rear assist	مساعد القيادة الخلفية
+rear axle	المحور الخلفي
+rear axle modulator	مُضمّن ضغط فرامل المحور الخلفي
+rear axle steering	التوجيه بالمحور الخلفي
+rear collision	اصطدام خلفي
+rear cross-traffic warning (RCTW)	نظام تحذير حركة المرور الخلفية
+rear end light	ضوء خلفي
+rear end light insert	استعمال الضوء الخلفي
+rear engine	محرك خلفي
+rear fog light	ضوء خلفى للضباب
+rear lighting	مجموعة إضاءة المؤخرة
+rear loading	تحميل خلفي
+rear of the vehicle	مؤخرة السيارة
+rear position light; tail-light	ضوء خلفى
+rear shelf	رف خلفي
+rear spar	عضد خلفي
+rear spoiler	جناح إيرودينامي خلفي
+rear spolier	تنورة إيرودينامية خلفية
+rear wall	جِدار خلفيّ
+rear wheel drive	دفع بالعجلات الخلفية
+rear wheel suspension	مجموعة تعليق المحور الخلفي
+rear window	زجاج خلفي
+rear window defogger	مزيل الضباب الخلفي
+rear window washer control	تجهيزة تشغيل جهاز غسل الزجاج الخلفي
+rear window wiper	مسَّاحة الزجاج الخلفي
+rear wiper	مسّاحة خلفية
+rear wiper control	تجهيزة تشغيل مسّاحات الزجاج الخلفي
+rear-view mirror	مرآة الرؤية الخلفية
+rear-wheel drive shaft	عمود إدارة العجلات الخلفية
+rearing habitat	موئل تربية
+rearming	إعادة تسليح
+reasonableness check	التحقق من المعقولية
+reasonably assured resource	مورد بشكل معقول
+reassortment	إعادة تشكيل
+Rebar (GFRP)	أعمدة التسليح البوليمرية المدعمة بالألياف الزجاجية
+rebated blade	ريشة مُخَفَّضة
+rebated stone	حجرة مفرضة
+rebbet	فرزة
+rebinding	اعادة تجليد
+reboiler	مرجل إعادة الغلي / مُبادِل حراري ( لتسخين قعر عمود التجزئة)
+rebound curve	منحني الارتداد
+rebound effect	ظاهرة الارتداد
+rebound potential	إمكانات انتعاش
+rebreather	مِنْشَقَة متجددة
+rebroadcast receiver	مستقبل إعادة الإرسال
+rebroadcast transmitter	مرسل لاعادة البث الإذاعي / مرسل إعادة البث الاذاعي
+rebroadcasting	إعادة البث الاذاعي
+rebuilding	إعادة بناء
+rebus sic stantibus	في هذه الأوضاع
+recalcitrance	نشوز
+recalcitrant	مستعص
+recalibration,	معايرة دورية, الكشف عن الغاز
+recarbonation	إعادة الكربنة
+receive beam	شعاع إستقبال؛ شعاع تلقى
+receive fibre optic terminal device	جهاز استقبال طرفي يعمل بالكابلات الضوئية
+Receiver	جِهازُ اِسْتِقْبالٍ / مُستقبِل
+receiver (in signalling)	مستقبل
+receiver drum	وعاء استقبال
+receiver lead	سلك المستقبل
+receiver shading factor	عامل تظليل المُستقبِل
+receiver's interception factor	عامل اعتراض المُستقبِل
+receiver,	جهاز مستقبل, الكشف عن الغاز
+receiving body of water	مُسْتَقبِل مجرى الماء
+receiving channel / receiving stream	مَصرَف
+receiving polarization (of an antenna, in a given direction)	إستقطاب إستقبال (لهوائى فى إتجاه معطى)
+receiving reference equivalent	مكافئ الاستقبال المرجعي
+receiving station	محطة مستقبلة / محطة استقبال
+receiving system (of a complete telephone connection)	نظام الاستقبال ( لتوصيل هاتفي كامل )
+receiving water	مياه (ال...) المتلقية
+recent epoch	عصر حديث
+receptacle of flower	تحت الزهرة
+reception sidings	نظام الاستقبال
+reception station	مَحطّة استقبال
+receptive field; lead field	مجال إستقبال حسى
+receptive substation	محطة فرعية مستقبلة
+recess	غور
+recess and salient system of folds	منظومة الطيات التقهقرية و البارزة
+recessed arch	قوس غائرة
+recessed flange	شفة بتجويف
+recessed luminaire	وحدة إنارة غائرة
+recessing tool	أداة تجويف
+recession	انحسار
+recession curve, normal	منحنى انحسار عادي
+recession hydrograph	هيدروجرافيّ للانحسار
+recessive	منتحي
+recessive characters	صِفَات مُتَنَحِّية
+recharge	إعادة الشحن / تغذية المياه الجوفية / تغذية مائية
+recharge area	منطقة تغذية / منطقة إعادة التغذية
+recharge of an aquifer; ground water recharge; intake of ground water	إعادة شحْن مُستودَع ماء أرضيّ
+recharge rate	مُعدَّل إعادة التغذية
+recharge rate, natural	معدل (ال...) الطبيعيّ لإعادة الشحن
+recharge well	بئر حقن ماء
+Rechargeable Energy Storage Systems (RESS)	نظام تخزين الطاقة الكهربائية القابل لإعادة الشحن (RESS)
+recharging of groundwater	تغذية للمياه الجوفية
+recipient	مجال مُستَقبِل
+reciprocal	تبادلى
+reciprocal observations	قياسات متعاكسة
+reciprocal ohm	مقلوب الأوم
+reciprocal sequential locking	قفل تتابعي تبادلي
+reciprocal transducer	محول إشارة تبادلي
+reciprocated heel / reciprocated toe	جوارب مقواة
+reciprocating compressor	ضاغط ترددي
+reciprocating engine	محرك ترددي
+reciprocating engine CHP systems	أنظمة توليد مُشترك للحرارة والطاقة لمُحرك تردّدي
+reciprocating lights, pl	أضواء ترددية
+reciprocating piston	مِكْبَس عَكُوس، مِكْبَس متناوِب الحركة
+reciprocating piston engine	محرك ذو كبّاس ترددي
+reciprocating pump	مِضَخَّة تناوبية / مِضَخّة تردّدية
+reciprocating pumps	مضخات ترددية
+reciprocating saws	مناشير ترددية
+reciprocity	تَبادُلِية / تبادلية
+reciprocity coefficient	معامل تبادل
+reciprocity principle	قاعدة التبادل
+reciprocity theorem	نظرية التبادلية
+recirculated air	هواء منتشر
+recirculating air operation, automatic	وضع تدوير الهواء الأوتوماتي
+recirculating air operation, manual	وضع تدوير الهواء اليدوي
+recirculating brine	إعادة تدوير المياه المالحة
+recirculating stream	تيار إعادة تدوير
+recirculation	إعادة التدوير / إعادة تداوُل / إعادة الدوران
+recirculation (recycling)	إعادة تدوير
+recirculation (recycling); reuse	إعادة التدوير
+recirculation energy	طَاقة إعادة التَدْوِير
+recirculation of exhaust gas	إعادة تدوير غاز العادم
+recirculation pump	مضخة تدوير
+recirculation ratio	نِسبة إعادة التدوير
+recirculation ratio / return sludge ratio	نِسبة الحمأة الراجعة
+reclaim time; reset time (US)	زمن الاسترداد
+reclaimed oil	زيت تزليق مستعاد، زيت تزليق مجدَّد (مستصلح)
+reclaimed water	المياه المستصلحة / مياه (ال...) المسترجعة
+reclaiming	إِسْتِرْداد
+reclamation	استصلاح / استصلاح أراضي / معالجة
+reclamation (tech.)	استصلاح
+reclamation land	أرض الاستصلاح
+recognition	تَعَرُّف
+recognition software	برمجية التعرّف
+recoil line; recoil curve; recoil loop	حالة إرتدادِ
+recoil permeability	نفاذية تفاضلية
+recoil state	عامل إمتلاء متعلق بالإستقطاب
+recoil; returns; walkback	ارتداد
+recombination	إعادة الاندماج / توليف / عودة الإتحاد ( الترابط ) / إعادة تجميع / إعادة التركيب
+recombination centre	مركزاعادة تجميع
+recombination coefficient	معامل عودة الإتحاد
+recombination rate	معدل عودة الإتحاد
+recommendation	تَوصِية / توصية
+recommended operating temp	درجة حرارة التشغيل الموصى بها
+Recommended Standard Number 232	آر إس 232 (RS 232) / خصائص آر إس 232 (RS 232)
+Recommended Standard Number 422	خصائص آر إس 422 (RS-422) / آر إس 422 (RS-422)
+Recommended Standard Number 423	آر إس 423 (RS-423)
+Recommended Standard Number 485	آر إس 485 (RS-485) / خصائص آر إس 485 (RS-485)
+recommended storage & humidity range	درجة حرارة التخزين الموصى بها، ومدى الرطوبة
+recompact	إعادة الرص
+recompression	إعادة الضغط
+recon	استطلاع
+recon; search	استكشاف
+reconcilation	تسوية، ترتيب
+reconciliation	مصالحة
+reconditioned carrier reception; reconditioned carrier demodulation	استقبال الموجة الحاملة المجددة
+reconditioning	اعادة المعالجة
+reconfigurable beam antenna	هوائي بحزمة قابلة التشكيل
+reconnaissance	استطلاع / تعرّف على الأرض
+reconnaissance by fire	استطلاع بالنار
+reconnaissance drilling	حفر استطلاعي
+reconnaissance pallet	مِنَصّة استطلاع
+reconnaissance pod	حُجيرة استطلاع
+reconnaissance slipper	خُفّ استطلاع
+reconnaissance soil map	خريطة استطلاعية للتربة
+Reconnecting Service after Payment	إعادة الخدمة بعد السداد
+reconsignment	تغيير وجهة الرحلة
+recontamination; bacterial aftergrowth	انتشار البكتريا من جديد
+recooled water temperature	درجة حرارة الماء المعاد تبريده
+record	سِجِلّ القِياسات
+record (to)	سَجَّل
+record changer	مبدل أقراص
+record log	سِجِلّ بياني
+record of permitted speeds	سجل السرعات المسموحة
+record player	مشغل أقراص
+record preserving sensor hole	فتحة تحسّس للمحافظة على التسجيل
+record spindle	عمود دوران التسجيل
+record,	تسجيل,
+record, verb	يسجل, فعل
+record-stacking height	إلرتفاع تكديس التسجيل
+record; disk; disc	قرص -إسطوانة (تسجيل)
+recorded broadcast	بث مسجل
+recorded level	مستوى مُسجَل
+recorded message	رسالة مسجلة
+recorded surface; modulated section	سطح مسجّل
+recorded velocity	السرعة المسجّلة
+recorder	مُسجِّل
+recorder adjustment sensor hole	فتحة حساسية لضبط المسجل
+recorder data package	مجموعة معلومات مُسَجّلَة
+Recording	تسجيل / مغير الترميز
+recording (measuring) instrument; recorder	جهاز (قياس) رقمي
+recording accelerometer	مقياس تسارع مُسَجِّل
+recording altimeter	ألتيميتر مُسجِّل
+recording audiofrequency current	تسجيل بتيار تردد صوتي
+recording barometer	بارومتر مُسجِّل
+recording chain	سلسلة التسجيل
+recording channel	قناة التسجيل
+recording characteristic	خصائص التسجيل
+recording chart	وسط تسجيل
+recording density	كثافة تسجيل
+recording device	شاشة مزدوجة رقمية - تماثلية
+recording head relative efficiency	كفاءة نسبية لرأس التسجيل
+recording instrument	أجهزة قياس مُسجِّلة / مقايس مسجّل
+recording level	مستوى التسجيل
+recording level indicator	مؤشر مستوى التسجيل
+recording loss	فقد التسجيل
+recording medium	تسجيل / وسط التسجيل
+recording studio	غرفة التسجيل
+recording system	نظام التسجيل
+recording tone; recorder-warning tone	نغمة تسجيل
+recording/reproducing electroacoustical frequency response	تسجيل / اعادة إنتاج استجابةالتردد الكهروصوتي
+recording/reproducing harmonic distorsion	تسجيل / اعادة تسجيل تشوة التوافقات
+recording/reproducing overall amplitude/frequency response	استجابة التردد \ السعة الكلية للتسجيل \ لاعادة التسجيل
+recoverability	استرداد،,
+recovered charge (of a diode or thyristor)	شحنة استعادة (لصمام ثنائى او ثايرستور)
+recovered paper	ورق مسترجع
+recovered pressure	ضغط مستخلَص
+recovery	انتعاش منسوب المياه الجوفية / استعادة / استرداد / انتعاش / إسترداد؛ إستعادة بدون صيانة / استخلاص / استرجاع / استرجاع طاقة
+recovery (from radiation effects)	شفاء (مِنْ تأثيراتِ الإشعاعِ)
+Recovery (Y)	الاستعادة
+recovery airfield	مطار استرداد
+recovery base	قاعدة استرداد
+recovery block scheme	برنامج تخطيطى للتعافى من الخطأ
+recovery boiler	مرجل الإسترجاع
+recovery capacity of a timetable	استقرار جدول زمني
+recovery capsule	كبسولة استرداد
+recovery cycle	دورة الاسترداد
+recovery factor	عامل الاستعادة، عامل الاسترجاع / معامل الاستخلاص
+recovery factor (from oilwell)	استخلاص - معدل الاستخلاص / معدل الاستخلاص
+recovery footprint	مكان الاسترداد
+recovery margin	هامش الاستقرار
+recovery package	مجموعة الاسترداد
+recovery period (for blocking tubes)	فترة استعادة (لصمامات المَنْع)
+recovery plan - species at risk	خطة إنعاش - أنواع معرضة للخطر
+recovery procedure	إجراء الاسترجاع
+recovery rate	مُعدَّل الاسترداد / معدل الاسترداد
+recovery ratio	نسبة الاستعادة
+recovery test	اختبار إنعاش المنسوب
+recovery time	زمن الاستعادة (التعافي) / زمن استعادة / زمن الاستعادة / زمن الإستعادة
+Recovery Time Objective	هَدَفُ وَقْتِ الاِسْتِرْجاعِ
+recovery time,	زمن الاستعادة, الكشف عن الغاز / زمن الاستعادة, لمُرَحِّل قياس او نظام وقاية
+recovery voltage	جهد الاستعادة / جهد إستعادة / جهد استعادة؛ جهد استرداد
+recovery; recycling	إعادة تدوير
+recovery; retrieval	استرداد / استعادة
+recreation	استراحة
+recreation area	مِنطقة ترْفِيه / بقعة التنزه
+recreational areas	مناطق ترفيهية
+recreational boat	سفينة نزهة
+recreational forest	غابة استجمام
+recreational waters	مياه استجمام
+recrew	تجديد (أو تغيير أو تبديل) الطاقم
+recruitment	تجنيد / تجنيد سمعي
+recruitment overfishing	صيد جائر للأسماك البالغة
+recruitment rate	معدل الإمداد
+recrystallization annealing	تلدين إعادة التبلور
+rectangle	مستطيل
+rectangular axes	محاور متعامدة
+rectangular co-ordinates	إحداثيات متعامدة
+rectangular distribution; uniform distribution	توزيع مُستطيلي
+rectangular drainage pattern	نَمَطُ صرْف مستطيل
+rectangular end sill	عَتَبة نهاية مستطيلة
+rectangular pulse	نبضة مستطيلة
+rectangular scraper	مكشطة مستطيلة
+rectangular waveguide	دليل موجة مستطيل
+rectification	التقويم / تقويم / تعديل
+rectification column	عمود التجزئة
+rectification effect	تأثير التقويم
+rectification factor	عامل تقويم
+rectified airspeed	سرعة هوائية مُصحَّحَة
+rectified value	قيمة مُقوَّمة
+rectified value; average absolute value	قيمة موحدة ؛ متوسط قيمة مطلقة
+rectifier	مقوِّم / مُقوِّم للصور / مقوم / مقوّم / مُقَوِّم / مُقُوِّمُ التَيّارِ / مُقوِّم / مُقوّم
+rectifier bed	سرير تقويم
+rectifier connection (of an auto self-excited transductor)	توصيلة مقوم
+rectifier diode	دايود التقويم
+rectifier instrument	جهاز قياس - مُقوِّم / جهاز قياس بإزدواج حراري / مقياس بمقوّم
+rectifier substation	محطة فرعية للتقويم
+rectifier tube	صمام مقوم
+rectifying	تصحيح
+rectifying substation	محطة تقويم فرعية
+rectifying system	نظام مقوم
+rectifying vacuum tube	أنبوب مقوّم
+rectifying valve	صمام تقويم؛ صمام تقويمى
+rectilinear flight	طيران مستقيم
+recto	وجه(ال...) الأول / صفحة يسرى (في كتاب عربي)، صفحة يمنى (في كتاب افرنجي)
+recultivation	استصلاح (الأراضي)
+recumbent fold	طَيَّة مُضْطجِعة
+recuperative heat	حرارة مستعادة (مسترجعة)
+recuperator	مُسترجع
+recurrence interval	فترة التكرار
+recurrent (impulsive) noise ; recurrent disturbance	ضوضاء (دفعية) متكررة
+recurrent costs	تكاليف متكررة
+recurring peak voltage	جهد الذروة المتكرر
+Recursive parameter estimation	تقدير تكراري للمَعلمات
+Recyclability	قابلية إعادة التدوير
+recyclable material	مُنتج مُعاد تدويره
+recyclables	مواد قابلة للتدوير
+recyclates	مُنتج مُعاد تدويره
+recycle	إعادة تدوير
+recycle airfield	مطار إعادة الدورة
+recycle compressor drum	أسطوانة ضاغط إعادة التدوير
+Recycle Gas	غاز معاد / غاز إعادة التدوير
+recycle ratio	نسبة إعادة التدوير
+recycled activated sludge	حَمْأة مُنشَّطة أُعيد تدويّرها
+recycled uranium	يورانيوم معاد تدويره
+Recycled water	المياه المعاد تدويرها
+recycling	إعادة تدوير / إعادة التدوير / تدوير
+Recycling centre	مركز إعادة التدوير
+recycling industry	صناعة إعادة التدوير
+recycling of textile raw materials	إعادة تدوير المواد النسيجية الخام
+recycling water	مياه مُرتدّة
+red bed	سرير أحمر (طبقة حمراء)
+red earth	تربة حمراء
+red fox	ثعلب أحمر
+red lead = (lead tetroxide)	الرصاص الأحمر، أكسيد الرصاص الأحمر
+red list index (rli)	مؤشر القائمة الحمراء (RLI)
+red list of threatened species (iucn)	قائمة حمراء للأنواع المهددة بالانقراض (الاتحاد العالمي للحفاظ على الطبيعة)
+red minerals	معادن حمراء
+red mud	طين أحمر
+red tape; housekeeping instructions	تعقيدات إدارية نافلة، رتابة إدارية، روتين إداري
+red tide	المد الأحمر
+red water	ماء أحمر
+Red-green test	اختبار باللونين الأحمر-الأخضر
+red-line value	قيمة الخط الأحمر
+red-on-red	أحمر على أحمر
+red-out	فقدان الرؤية
+red-short; hot-short	كَسُور بالساخن
+REDCAN thermal runaway sensor	حساس الهروب الحراري "اريكاك"
+redd additionality	إضافية خفض الانبعاثات الناتجة عن إزالة الغابات وتدهورها في البلدان النامية
+redd leakage	تسرب خفض الانبعاثات الناتجة عن إزالة الغابات وتدهورها في البلدان النامية
+redd permanence	ديمومة خفض الانبعاثات الناتجة عن إزالة الغابات وتدهورها في البلدان النامية
+redemption program	برنامج الاسترداد
+redeployment airfield	مطار إعادة انتشار
+redingote / riding coat	ردنجوت (للنساء)
+redirection address	إعادة توجيه عنوان
+redispatch	إعادة التوزيع / إخطار بإعادة توزيع الأحمال
+redissolution	مَحلُول مُتبَقٍّ
+redistilled used oil	زيت مستعمل معاد التقطير
+redox (oxidation-reduction) reaction	تفاعل أكسدة وإختزال
+redox flow battery	بطاريات التدفق والأكسدة والانقسام
+redox flow system	نظام الأكسدة - الاختزال
+reduce	تخفيض
+reduced carrier	حامل ناقص
+reduced crude	مُخلَّفات تقطير النفط
+reduced diameter	قُطْر منقوص
+reduced frequency	تردد مختزَل
+Reduced Instruction Set Computer	مجموعة الأوامر المُختَصرَة للحاسب (RISC)
+reduced lithium niobate	نيوبات ليثيوم مختزل LN؛ نيوبات ليثيوم سوداء LN
+reduced lithium tantalate	تنتاليت ليثيوم مختزل LT ؛ تنتاليت ليثيوم أسود LT
+reduced luminance coefficient	معامل الإستضواء المخفض
+reduced modulus of elasticity	مُعامِل المرونة المختزَل
+Reduced Oil	زيت مختزل
+reduced oil; reduced crude	زيت مُختزَل، زيت مُرجَّع
+reduced Planck constant	ثابت بلانك المخفض
+reduced-power tapping	تفريع القدرة المخفضة
+reducer	مخفّض / المُخَفِّض / جُلبة التنقيص، مخروط التنقيص
+Reducer Gear Fluid	سائل تروس التخفيض
+reducer; diluent	مخفف القوام
+Reduces Charging Time	تقليل وقت الشحن
+Reduces Leakage Magnetic Flux	تقليل تسرب التدفق المغناطيسي
+reduces leakage magnetic flux by canceling	التقليل من تسرب التدفق المغناطيسي عن طريق الإلغاء
+reducing atmosphere	جوّ مختزل (غير موات للتأكسد)
+reducing elbow	كوع تنقيص
+Reducing Emissions	تخفيض الانبعاثات
+reducing flange	شَفَة تنقيص
+reducing mask	سِتار مُصَغِّر
+reducing slab	لَوحَة تصغير
+reduction	اختزال / اختزال (تفاعل كيميائى) / تصغير
+reduction commitment	التزام بتخفيض الانبعاثات
+reduction division	انقسام تناقصي
+reduction drive = EV reducer = reducer	جهاز تخفيض السرعة
+reduction factor	مُعَامِل تخفيض / معامل خفض
+reduction gear	مسنن التخفيض
+reduction of greenhouse gases	تخفيض غازات الدفيئة
+reduction of raw data	اختزال المعلومات الأولية
+reduction of sulfate	اختزال الكبريتات
+reduction piece	وصلة تقليص
+reduction potential	حجم الخفض الممكن / إمكانية خفض الانبعاثات
+reduction process	عملية اختزال
+reduction process,	عملية إختزال
+reduction ratio	نسبة خفض الحمل
+reduction requirements	إجراءات خفض الانبعاثات
+reduction target	حجـم الخفـض المسـتهدف
+reduction to center	تحويل إلى المركز
+reduction to chord length	اختزال وتري
+reduction valve	صمام خفض
+reduction zone	نطاق الاختزال
+reduction, allowance, discount	تخفيض
+reduction, bacterial	خَفْض بكتيريّ
+redundancy	إحتياطى جاهز؛ وفــره / زيادة عن الحاجة (وفرة) / وَفْرَة
+redundancy check	فحص تكراري / إختيار متعددة
+redundancy factor	عامل الزيادة عند الحاجة؛ (الوفرة)
+redundancy management	ادارة الوفرة
+redundancy operation	نظام التشغيل المُساند
+redundancy reduction	نخفيض الوفرة
+redundancy valve	صمام التشغيل المساند
+redundancy,	الزيادة, / وفرة, ؛ توفيرأكثر من وسيلة لأداء وظيفة بالنظام / وفرة,
+redundant bracings; secondary bracings	شبكة البرج الثانوية
+redundant code	كود مُطوَّل / شفرة زائدة / رمز وافر
+redundant data, pl	بيانات متعددة
+redundant digital signal	إشارة رقمية فائضه
+redundant frame	إطار غير مُقرَّر / إطار زائد
+redundant line code	شفرة خطية فائضة
+redundant observations	قياسات فائضة
+redundant process computer system	نظام عمليات حاسوبية إحتياطية جاهزة
+redundant structure	إنشاء الوَفْرَة
+Redundant Systems	أنظمة احتياطية
+redwood	بقّم / خشب أحمر
+Reech number	رقم ريتش
+reed contact	تلامس ناعم
+reed linen	كتّان بوص
+reed roll in wire mesh	مدحاة القيصوب
+reed zone	نطاق (زراعة) عيدان القصب
+reed-bed	مقْصَبة
+reef reservoir	مَكْمَن شعابي (من صخور كلسية)
+reefed parachute	مظلة مَثْنِيّة
+reefer	عربة تبريد، سفينة بَرَّاد
+reefer container, refrigerated container	حاوية ثلاجة
+reefer ship	سفينة ثلاجة
+reefer wagon	عَرَبَة مبرِّدة
+reel	مسلكة / لفّة الورق / بكرة
+reel assembly	تجهيزة استخلاص زجاج السيارة باستخدام السلك القاطع
+reel barge	طَوْف ذو بكرة (لمد خطوط الأنابيب)
+reel bogie; dolly truck	عربة نقل اللّفّات
+reel braking	كبح اللّفة
+reel core	قلب اللّفّة
+reel-to-reel recorder; open reel recorder	تسجيل من بكرة الى بكرة
+reeler	لفّافة
+reentrant, adj; reenterable, adj	اعادة الدخول, صفة
+reeving a line	ضَمُّ كبل (على البكارة)
+refan	يُغَيّر المروحة
+refectory	مطعم، غرفة طعام، قاعة أكل
+referee sample	عينة استدلالية
+reference	إحالة
+reference architecture	مخطط مرجعي؛ هيكل تنظيمي مرجعي
+reference area	منطقة مرجعية / مساحة إسنادية / مساحة مرجعية
+reference atmosphere for refraction	غلاف جوى مرجعي للإنكسار
+reference aXes	محاور الإسناد
+reference ballast	وحدة تغذية مرجعية
+reference boresight (of an antenna)	مدى الرؤية المرجعى (للهوائى)
+reference climatological station	محطة مناخية مرجعية
+reference clock	ساعة مرجعية
+reference colour stimuli, pl	محفز لون مرجعى
+reference conditions	شروط مرجعية / كمية مؤثرة
+reference conditions of influence quantities	شروط مرجعية للكميات المؤثرة / ظروف مرجعية لكميات مؤثرة
+reference conditions of influencing quantities, pl	الأحوال المرجعية للكميات المؤثرة (لأداة تعمل بالتيار المتبقي)
+reference configuration	تشكيل مرجعي
+reference consistency	المطابقة المرجعية
+reference data	معطيات مرجعية
+reference data (pl.)	مُعطَيات مَرجِعية
+reference datum	إسناد مرجعي
+reference direction,	إتجاه مرجعى,
+reference distance	مسافة مرجعية
+reference earth; reference ground, US	أرضى مرجعي
+reference edge	حافة مرجعية
+reference electrode	مسرى مقارنة
+reference electrode; indifferent electrode	قطب كهربائي مرجعي
+reference emission level	مستوى مرجعي للانبعاثات
+reference environmental conditions, pl	ظروف بيئية مرجعية, جمع
+reference equivalent	المكافئ المرجعي
+reference eye position	موضع العين المرجعي
+reference fiX	نقطة إسنادية مرجعية
+reference frequency	جهد مرجعى / التردد المرجعي
+reference frequency, (of an emission)	تردد مرجعي (للبث)
+reference fuel	وقود مرجعي
+reference fundamental component	المركبة الاساسية المرجعية / مركبة اساسية مرجعية
+reference fundamental frequency	التردد المرجعى الاساسى / تردد اساسي مرجعي
+reference gauge	مقياس مرجعي
+reference gauge [UK] / reference gage [US]	مُحدد قياس
+reference height	ارتفاع مرجعى
+reference illuminant	مستضيء مرجعي
+reference impedance	معاوقة مرجعية
+reference lamp,	مصباح معيارى,
+reference landing distance	مسافة حطّ مرجعية
+reference length	طول مرجعيّ
+reference level	مستوى مرجعي
+reference lighting	إضاءة مرجعية
+reference limiting error	خطأ حدى مرجعى
+reference line	خط الصفر / خط مرجعي
+reference location, ; reference point,	موضع مرجعى, ؛ نقطة مرجعية
+reference mark	علامة مرجعية
+reference market value	القيمة السوقية المرجعية
+reference mean error	متوسط خطأ مرجعى
+reference medium	وسط مرجعى
+reference meridian	خط الزوال المرجعي
+Reference model	نموذج مرجعي
+reference node	عقدة مرجعية
+reference number	رقْم مَرجِعيّ
+reference number (admin.)	رقم الإسناد
+reference of gauge	مرجع المقياس
+reference pilot	إشارة دليلية مرجعيه
+reference plane	مستوٍ مرجعي / سطح مرجعى / مستوي مرجعي
+reference plane,	المستوى المرجعى / سطح مرجعى,
+reference point	نقطة مرجعية / نقطة مرجعيه
+reference point temperature	النقطة المرجعية لدرجة الحرارة
+reference point; benchmark	نقطة مرجعية
+Reference points of NC machines	نقاط إسناد ماكينات التحكّم الرقميّ
+reference range	قيمة مرجعية
+reference recording current	تيار تسجيل مرجعي
+reference roughness length	الطول المرجعي لشدة الاضطراب
+reference scenario	سيناريو مرجعي
+reference sensitivity	حساسية مرجعية
+reference sound pressure	ضغط صوتي مرجعي
+reference source	مَصْدَر مَرجِعيّ / مقياس نسبه
+reference speech power for the measurement of AEN	قدرة الكلام المرجعية لقياسات (آريان)
+reference speed	سرعة مرجعية
+reference standard	مِعيار مرجعيّ / معيار ثانوي
+reference station	محطة رصد مرجعية
+reference subject illuminance	إضاءة مرجعية للهدف
+reference surface	سطح مرجعي
+reference surface (of an optical fibre)	السطح المرجعي (للألياف البصرية)
+reference surface centre	مركز السطح المرجعي
+reference surface diameter	قطر السطح المرجعى
+reference surface diameter tolerance	تفاوت قطر سطح المرجع؛ السماحية بقطر السطح الرجعي
+reference surface tolerance field	مجال تفاوت سطح المرجع
+reference surface,	سطح مرجعي,
+reference system for the determination of AEN; SRAEN (abbreviation)	جهاز مرجعي لتقديرجودة الإرسال
+reference tape	شريط مرجعي
+reference temperature	درجة الحرارة المرجعية
+reference temperature,	درجة الحرارة المرجعية / الحرارة المرجعية
+reference temprature (negative temperature coefficient)	درجة الحرارة المرجعية في المعامل الحراري السالب
+reference test method (for optical fibres); RTM (abbreviation)	طريقة إختبار مرجعية (للألياف البصرية)
+reference track	مسار مرجعي
+reference value	قِيمةَ مَرْجِعية / تغير (خطأ استقرار) / قيمة مرجعية
+reference value of an influence quantity	قيمة مرجعية لكمية مؤثرة
+reference value of an influencing quantity,	قيمة مرجعية للكمية المؤثرة (لأداة تعمل بالتيار المتبقي)
+reference variable	دخل مرجعيّ / متغير مرجعى
+Reference variable feedforward control	ضبط تغذية أمامية بمقدار مرجعيّ
+reference voltage	تيار أقصى / فلطية مرجعية
+reference voltage (VREF)	الفلطية المرجعية (VREF)
+reference white	لون البياض المرجعي
+reference wind speed	سرعة رياح مرجعية
+reference zero	صِفْر مرجعي
+reference-ground plane; RGP; reference-earth plane	مستوى أرضي (مرجعي)
+reference-variable feedforward control	متغير مرجعى فى التغذية الأمامية
+reference-variable generating element	متغير مرجعي للعنصر المولّد
+reference-variable response of the control system	متغير مرجعى لاستجابة نظام التحكم؛ مرجع إستجابة متغير بنظام النحكم
+reffinery gas	غاز المصفاة
+reffining	تكرير، تمحيص
+refill inverter coolant	إعادة الماء / إعادة تعبئة سائل تبريد العاكس
+refill-unit	وحدة العبوة الجديدة
+refinary	مَعْمَل تكرير، مِصْفاة
+Refined Asphalt	أسفلت مكرر / أسفلت مُكرَّر
+refined of improved wood	خشب محسَّن
+refined products	منتَجات مكرَّرة
+refined tar	قطران مكرَّر
+refiner	جهاز تنقية
+Refinery	مصفاة
+refinery gas	غاز مصفاة التكرير / منتج الغاز في المصفاة
+refinery margin	هامش ربح المصفاة
+refinery structure list	قائمة جَرْد المصفاة
+refinery waste	فضلات مصفاة التكرير
+refining	تنقية - تكرير / استنساخ انعكاسي / تكرير
+Refining Margins	هوامش ربح أعمال التكرير
+refire time	زمن إعادة الإطلاق
+reflectance	إنعكاسية / انعكاسية
+reflectance density	كثافة إنعكاس
+reflectance factor	عامل إنعكاسية
+reflectance factor optical density; reflectance factor density	كثافه ضوئية لعامل الإنعكاسية؛ كثافة عامل الانعكاسية
+reflectance optical density; reflectance density	كثافة ضوئية إنعكاسية؛ كثافة الانعكاسية
+reflectance value	قيمة انعكاسية
+reflected current	تيار منعكس
+reflected global solar radiation	أشعة شمسية كونية منعكسة
+reflected light	ضوء مُنْعكِس
+reflected light technique	طريقة القياس بالضوء الساقط
+reflected luminance factor	عامل الإستضواء المنعكس
+reflected radiance factor	عامل شدة الإشعاع المنعكس
+reflected ray	شعاع منعكس
+reflected shockwave	موجة صدم منعكسة
+reflected wave	موجة منعكسة / موجه منعكسة
+reflected wave (in a transmission line)	موجة منعكسة ( في خط نقل )
+reflected wave signal suppression	إخماد اشارة الموجة المنعكسة
+reflecting microscope	مجهر عاكِس
+reflecting satellite	قمر صناعي عاكس
+reflecting stud	مسمار عاكس
+reflection	انعكاس
+reflection coefficient	معامل انعكاس
+reflection gain	كسب الإنعكاس
+reflection gain factor	معامل كسب الإنعكاس
+reflection goniometer	منقلة الانعكاس
+reflection interval	فاصل زمني للانعكاس
+reflection loss	فقد الإنعكاس / فقد الانعكاس
+reflection loss factor	معامل فقد الإنعكاس
+reflection mode filter	مرشح نمط انعكاسي
+reflection pleochroism	تلوُّن مُنعكِس
+reflection seismic survey	دراسة الانعكاسات الاهتزازية، دراسة الانعكاسات الزلزالية
+reflection shooting	رَصْد الانعكاس
+reflection suppression	كبت الانعكاس
+reflection target (of X-ray tube)	هدف الانعكاس(في انبوب اشعة´)
+reflection,	انعكاس, / إنعكاس
+reflective array antenna; reactive reflector antenna	هوائى مصفوفة عاكس
+Reflective code	كود عاكس
+reflective cracking	تَصَدُّع انعِكَاسِي
+Reflective insulation	عازل عاكس
+reflective sign	إشارة منعكسة
+reflective stripe / reflex stripe	أشرطة منعكسة
+reflective yarn	خيوط غزل عاكسة للضوء
+reflectivity,	إنعكاسية,
+reflectometer	جهاز قياس الانعكاس / مقارن / مقياس العكاس / مقياس الإنعكاس / مقياس الانعكاس
+reflector	عاكِس / عاكس / عاكس للضوء
+reflector (element) (of an antenna)	عنصر عاكس (للهوائى)
+reflector antenna	هوائى عاكس
+reflector lamp	مصباح عاكس
+reflector lens	عدسة عاكسة
+reflector spotlight	جهاز إنارة ذو ضوء بقعي
+reflector surface	سطح عاكس
+reflector; reflecting surface	عاكس
+reflector; reverser	عاكس
+reflectorized board; reflectorized signal	لوحة الانعكاس
+reflectorized bulb	غلاف وحدة إضاءةبعاكس
+refleX camber	احديداب منعكس
+reflex copying	ورق انعكاس
+reflex klystron	مولد موجات ازاحيه مرتده ( منعكسة )
+reflex paper	تطابق
+refleX ratio	نسبة الثني
+refleX trailing edge	حافة خلفية منعكسة
+reflux	مُرتَدّ
+reflux drum	أسطوانة الارتداد، وعاء سائل الارتداد
+reflux preventer	مانِع الدفق المرتدّ
+reforestation	إعادة التشجير
+reForm mattress padding	لُحُف طبية
+reForm pillow	وسادة تصحيحية
+reform weave	تركيب نسجي مُعدل
+reformate cooler	مبرد الصلاحات، مبرد منتجات الإصلاح
+reformate gas	غاز مهدرج
+Reformed Gasoline	جازولين منتج بالتهذيب / بنزين مصلح
+reformed methanol fuel cell (RMFC)	خلية وقود الميثانول المحلاة
+reformer	مهدرج / مصلح جهاز إصلاح
+reformer catalyst life	العمر الافتراضى لمهدرج المحفز الكِيمْيَائِيّ
+reformer furnace	فرن الاصلاح
+reforming	هدرجة / إصلاح
+refracted near-field method; refracted ray method	طريقة الحقل المجاور المنكسر طريقة الشعاع المنكسر؛ طريقة الإنكسار للمجال االقريب
+refracted ray	شعاع منكسر
+refracted ray (in an optical fibre)	شعاع منكسر (في ألياف بصرية)
+refracted surface	سَطْح انكسار
+refracted wave	موجة منكسرة
+refracting horizon	أفق الانكسار
+refraction	انكسار
+refraction index	دليل الانكسار / مُعامل الانكسار
+refraction loss	فقد انكساري
+refraction shooting	رصد الانكسار
+refraction,	انكسار, / إنكسار
+refractive collector	مُجَمِّع انكساري
+refractive index	مُعَامِل انكسار / دليل الإنكسار / دليل الانكسار (في اتجاه معطى) / دليل الإنكسار؛ مؤشر الانكسار / دليل الانكسار / مُعامِل الانكسار
+refractive index (of a medium); index of refraction	دليل انكسار فى وسط ما مؤشر التكسر
+refractive index contrast	تباين عامل الانكسار
+refractive index profile	مظهر جانبي لدليل الانكسار
+refractive index; index of refraction	دليل الانكسار
+refractive modulus	معامل الإنكسار
+refractivity	إنكسارية (رمز:N )
+refractometer	مقياس الانكسار
+refractometry	قياس الانكسار
+refractor	كاسر للضوء
+refractories	حرونات حرارية
+refractory	حراري / صامد للحرارة / مقاوم للحرارة العالية
+refractory cement	إِسمَنت مُقَاوِم
+refractory concrete	خرسانة مُقاوِمة للحرارة
+refractory lining	بطانة مُقاوِمة للحرارة / بطانة مادة مقاومة للانصهار / تبطين حراري
+refractory organics	مواد عضوية عنيدة
+refrasil fiber	ألياف رفراسيل
+refratometer	مقياس الانكسار
+refresh rate	معدل التجديد
+refrigerant	وسيط التبريد / مبرد / مائع التبريد / مُبَرِّد / مُبرّد
+refrigerant circuit	دورة التبريد
+Refrigerant Flow Control	التحكم في تدفق المبرد
+refrigerant injection	حَقْن المُبَرِّد
+refrigerant liquid	سائل مبرّد
+refrigerant numbering system	نظام ترقيم المُبَرِّد
+refrigerant oil	زيت وسيط التبريد
+refrigerant tunnel	نفق التبريد
+refrigerated lpg plant	منشأة غاز النفط المسيل المبرد
+refrigerated wagon reefer	عَرَبَة مبرَّدة
+refrigerating capacity requirement	الاحتياج للقدرة التبريدية
+refrigerating circuit	دورة تبريد
+refrigerating machine	جهاز تبريد / مُبرّد
+Refrigeration	تبريد
+refrigeration compressor	ضغّاط تبريد
+refrigeration condenser	مُكثّف التبريد
+refrigeration equipment	جهاز التبريد
+Refrigeration system	نظام تبريد / نظام التبريد
+refrigeration tons	طن التبريد
+refrigerator ship	سفينة ثلاجة
+Refuel to Prevent Hybrid Battery Damage	إعادة تعبئة خزان الوقود
+Refueling	تزويد بالوقود
+refueling facility	إنشاء خزانات للتزود بالوقود
+refuge	ملاَذ / ملجأ
+refugia	مجال لجوء
+refurbishing	إعادة إصلاح
+refusal	ممانعة
+refuse	نُفايات / قمامة / نفايات
+refuse derived fuel (RDF)	وقود مستخرج من النفايات
+refuse reclamation	استصلاح النفايات / استعادة النفايات
+refuse-derived fuel	وقود مشتق من النفايات
+refuse-derived fuel (rdf)	وقود مشتق من النفايات
+refuse; waste	مُخلَّفات
+reg	سهل حصوي
+regan bag packer	سدادة ريغان
+Regasification	إعادة تغويز / إعادة التغويز
+regasification terminal	محطة إعادة التغويز
+Regatta	رداء سباقات الزوارق
+regenerant	منشط
+regenerate	تنشيط
+regenerated caustic	صود كاو مجدد
+Regenerated Cellulose	ألياف السليلوز المسترجعة
+regenerated fibers	ألياف مُسترجعة
+regenerated wool	صوف مُجدَّد / صوف معاد تصنيعه
+regenerating (radio) repeater; regenerating transponder	مكرر تجديد راديوي
+regenerating transponder (in satellite communication)	تَجديد جهاز الاستقبال والارسالِ (في إتصالِ القمر الصناعي)
+regeneration	التجديد / تجديد
+regeneration (of a digital signal)	إعادة توليد (لإشارة رقمية)
+regeneration by planting and seeding	تجديد بالغرس والزرع
+regeneration container	خزان التجديد
+regeneration harvest	حصاد تجديد
+regeneration; retrieve	استرجاع
+regenerative arm	ذراع استرجاع
+regenerative brake	فرامل استرجاع / مكابح ارتدادية / مكبح استرجاعي
+regenerative brake level control paddles	مختلف التحكم في مستوى الكبح التجديدي / مفتاح التحكم في مستوى الكبح التجديدي / مُبدِّل السرعة التجديدي
+regenerative brake system warning light	ضوء تحذير نظام الكبح التجديدي
+regenerative braking	كبح استرجاع / كبح ذاتي / الكبح التجديدي / الكبح المتجدد / فرملة استرجاع الطاقة
+regenerative braking level auto	مستوى الكبح التجديدي التكيفي / مستوى الكبح التجديدي الناقاش
+regenerative braking limited warning light	ضوء تحذير أن الكبح التجديدي محدود
+regenerative braking of a DC machine; counter-current braking (deprecated)	كبح استرجاع (لالة تيار مستمر)
+Regenerative Braking Strategies Types	أنواع استراتيجيات الكبح التجديدي
+regenerative braking system	نظام الفرامل التجديدي
+regenerative braking,	كبح بالإسترجاع,
+regenerative cooling	تبريد استرجاعي
+regenerative energy source	حامل طاقة متجددة
+regenerative fuel cell (RFC)	خلية الوقود المتجددة
+regenerative fuel cell; reversible fuel cell	خلية وقود إعادة توليد؛ خلية وقود إسترجاعية
+regenerative power limited	طاقة متجددة محدودة
+regenerative proton-exchange membrane fuel cell	خلية الوقود ذات غشاء تبادل البروتيات المتجددة
+regenerative receiver	مستقبل مجدد
+regenerative repeater	مكرر تجديدي
+regenerative shock absorbers for electric vehicles	مختصات الصدمات التجديدي لسيارات الكهربائية
+regenerator	معيد التوليد لاشارة / مجداد
+regime	حالة سائدة / نظام تشغيل
+regime / regimen of a river	نَهْجُ جريان النهر / توازن التحات والترسيب
+region	مِنطَقة
+region of feasibility	حيز الجدوى الاقتصادية
+region of limited proportionality	منطقة التناسب المحدود
+region; area	مِنطقة
+regional action plan (rap)	خطة العمل الإقليمية (RAP)
+regional action programme (rap)	برنامج العمل الإقليمي
+regional added value	قيمة محلية المُضافة
+regional airport	مطار إقليمي
+regional annexes of the unccd	مرفقات إقليمية لاتفاقية الأمم المتحدة لمكافحة التصحر
+regional carrier	ناقل إقليمي
+Regional Center for Renewable Energies and Energy Efficiency (RCREEE)	لمركز الإقليمي للطاقة المتجددة وكفاءة الطاقة (RCREEE)
+regional committee of the unccd	لجنة إقليمية لاتفاقية الأمم المتحدة لمكافحة التصحر
+regional communication strategy	استراتيجية التواصل الإقليمي
+regional coordinating units (rcus)	وحدات التنسيق الإقليمي (RCUs)
+regional coordination mechanism (rdm)	آلية التنسيق الإقليمية (RCM)
+regional economic integration organization	منظمة للتكامل الاقتصادي الإقليمي
+regional fisheries management organisations (rfmos)	منظمات إقليمية لإدارة مصايد الأسماك
+regional greenhouse gas initiative (RGGI)	مبادرة إقليمية لغازات الدفيئة (RGGI)
+regional groups	مجموعات إقليمية
+regional implementation annexes (rias)	مرفقات التنفيذ الإقليمية (RIAs)
+regional planning	تخطيط المِنطقة / تخطيط (ال...) الإقليميّ / تخطيط إقليميّ / تخطيط إقليمي
+Regional Standards	المواصفات القياسية الإقليمية
+regional syncline	طية مقعرة اقليمية
+Regional Transmission Operator	مشغل شبكة النقل الإقليمية
+regional water plan	خطة مائية إقليمية
+regionally appropriate	ملائمة إقليمية
+register	سِجِلّ / مُدَوِّن / مُسجِّل / سِجِلٌّ / سجل / ثابت (لعدّاد) / مسجِّل / نظام ظبط التطابق / شبيكة تحكم
+register (in switching)	سِجل (في الفصل والوصل (التبديل))
+register (of an integrating instrument)	عنصر متحرّك
+register control system	تأشير
+register function	وظيفة مُسِجل
+register marks	أوراق تأشير
+register recall	إستدعاء سجلِّ
+register sheets	رقيقة خشبية
+register signalling	تشوير السجل
+register-translator	مترجم سجل
+registered trade mark	علامة صنع مسجّلة
+registering (or registration)	علامات تسجيل، علامات تطابق
+registering balloon	بالون مُسَجِّل
+Registrant counting	عد مسجل
+registration	تَسجِيل / التسجيل / تسجيل
+registration arm	ذراع تقييد
+registration authority	سلطة التسجيل
+registration chart	مخطّط إختبار التقارب
+registration error	خطأ تسجيل
+registration procedure	إجراءات التسجيل
+registries, registry systems	سجلات ونظم التسجيل
+registry account	حساب بسجل شهادات الانبعاثات
+reglet	رطوبة(ال...) النسبية
+regolith	ثرى
+regravelling	إِعَادَة التَّحصِيَة
+regression line	مستقيم الانحدار
+regression rate	معدل الانحسار
+regression test	اختبار صلاحية التعديل
+regressive taxes	ضرائب تنازلية
+regrouping of parcels	توحيد القَطْع الأرضي
+reguindroite	معطف نسائي
+regular airfield; regular airport	مطار نظامي
+regular bus services	خدمات الحافلات العادية
+regular câble tool bit	مثقب ذو شفاه
+regular exchange of data and information	تبادل منتظم للبيانات والمعلومات
+Regular Gasoline	جازولين عادي / بنزين عادي
+regular goods	ألبسة نموذجية
+regular lay rope	حبل ذو فتل عادي
+regular mud	طين عادي
+regular power charging point	نقطة شحن الطاقة المنظمة
+regular reflectance	إنعكاسية منتظمة
+regular reflection; specular reflection	إنعكاس منتظم
+regular service; scheduled service; public transport	خدمة عادية
+regular services	خدمات عادية
+regular signalling link	وصلة تأشير نظامية
+regular train; scheduled train	قطار منتظم
+regular transmission; direct transmission	إنتقال منتظم
+regular transmittance	نفاذية منتظمة
+regular type	نوع انتظامي
+regular waves	أمواج مُنتظمة
+regular winding	ملف منتظم
+regulate	ضبط
+regulated (telephone) set	جهاز هاتف منظم ( مضبوط ) آلياً
+regulated flow	جريان منظم
+regulated line section	مقطع خط منتظم
+regulated medical waste	نُفايات طبية منظمة
+regulating	منظم
+regulating authority / regulatory body	هيئة إشراف ورقابة
+regulating bar	مسطرة التسوية
+regulating course	طبقة التَّنظِيم
+regulating energy of a system; power/frequency characteristic	الطاقة المنظمة للنظام؛ الطاقة المنظمة لشبكة
+regulating pilot	إشارة دليلية منظمة
+regulating relay	مُرَحِّل تنظيم
+regulating reservoir	خزان تنظيم الجريان
+regulating resistor	مقاوم تنظيم
+regulating services	خدمات تنظيم
+regulating spring	ياي تنظيمي
+regulating step command; incremental command ; step-by-step adjusting command	أمر تنظيم دائم
+regulating transformer	محول تنظيم
+regulating unit, control equipment	تجهيزة تعديل
+regulating winding	ملف التنظيم
+regulation	تنظيم / لوائح / تنظيم/ تقنين / ضبط
+regulation (of a generator)	تنظيم الجهد (للمولد)
+regulation (of a motor)	تنظيم سرعة المحرك
+regulation / instruction	قواعد
+regulation management	إدارة التنظيم
+Regulation on access to gas supply networks (Gas Network Access Ordinance)	قانون الوصول إلى شبكات إمداد الغاز
+Regulation on requirements for sustainable production of biofuels	قانون متطلبات الإنتاج المستدام للوقود الحيوي
+regulation station	محطة تنظيم الضغط
+Regulation to loads	تنظيم الحمولات
+regulation, technical	قواعد فنية
+regulations	أنظمة / لوائح
+regulations and obligations of operation	تعليمات واشتراطات الريّ
+regulator	صِمام ضبْط / قنطرةُ موازنة / منظِّم / منظم / جهاز تحكم
+regulator cell	خلية تنظيم
+regulator device	جِهاز مُنَظِّم
+regulator function	وظيفة تنظيمية
+regulator, overshot type / regulator, overpour type / regulator, skimming type	قنطرة تصريف علويّ
+regulator, undershot type	قنطرة تصريف سُفليّ
+regulatory authority	هيئة تشريعية
+regulatory framework	إطار تنظيمي
+regulatory measures	تدابير تنظيمية / إجراءات تنظيمية
+regulatory policies	سياسة تنظيمية
+rehabilitation	إصلاح وتجديد / إعَادَة تَأهِيل / استصلاح الأراضي / إعادة التأهيل
+rehabilitation (of ecosystems)	إعادة تأهيل (نظم إيكولوجية)
+rehabilitation of existing pavement	إعادة تأهيل الرصيف الحالي
+Rehbock dentated end sill	عَتَبة (ال...) المُسننة نظام 'ريبوك'
+reheat	إعادة التسخين
+reheater	معيد التسخين في المرجل
+Reich Committee for terms of delivery	لجنة رايش لشروط التسليم
+reid vapor pressure	ضغط (ال...) البخاري بطريقة 'ريد'
+reinforced	إطار مُقوّى (Reinforced)
+reinforced brickwork	بناء آجري مسلّح
+reinforced carbon/carbon	كربون مقوّى بالكربون
+reinforced concrete	خَرَسَانَةٌ مُسَلَّحَةٌ / خرسانة مسلحة / خرسانة مسلّحة
+reinforced concrete raft	فرشة خرسانة مسلحة، أرضية أساس من خرسانة مسلحة
+reinforced concrete sleeper	باطون مسلح
+reinforced conductor	موصل مختلط (مقوى)
+reinforced insulation	عزل مقوى / عزل مدعم
+reinforced plastics	لدائن مقوّاة
+reinforced protection	وقاية معززة؛ وقاية مدعمة
+reinforcement	فولاذ تسليح / تدعيم / تسليح
+reinforcement (engin.)	تعزيز بالأدوات واللوازم / تقوية
+reinforcement (tech.) / strengthening	تقوية
+reinforcement bars	حديد التسليح، قضبان التقوية
+reinforcement gusset	تقوية
+reinforcement of a system	تقوية النظام؛ تقوية الشبكة
+reinforcement yarns	خيط تقوية
+reinforcing feeder	مغذى التقوية
+reinforcing rods (in a pad and chimney foundation)	قضبان تقوية
+reinforcing sleeve	جلبة دعم
+reingestion stall	انهيار إعادة الابتلاع
+reinjection	إعادة حقن
+reinsurance	إعادة تأمين
+reiteration	تَكْرار / إعادة تكرار
+reiterative theodolite	تيودوليت تَكْراري
+reject	مستبعد / نبذ / رفيض / ينبذ / يَطْرَح
+reject control	مراقبة الرفض
+reject level	مواصفات مياه الخرج
+reject staging	تصنيف الرفض
+reject stream	تيار الرفض
+rejected take-off	إقلاع مُجْهَض
+rejection	النبذ
+rejection factor	عامل الرفض
+rejects	مواد مرفوضة
+rejointing	إعادة الوصل
+rejuvenating oil	زَيتُ التَّجدِيد
+rejuvenation of streams	تصابي الأنهار
+rejuvenation of the surface	تَجدِيد السَّطح
+relais	مرحّل
+related colour	لون متصل بألوان أخرى؛ لون ذو صلة
+related data	بيانات مترابطة، معطيات مترابطة
+related drawing	رسم مرتبط بالوثيقة
+related multiple-outage occurrence	حدث الخروج بسبب عناصرمتعددة
+related proportional band related proportional control zone	مجال تناسبي مُختَّص
+relation	علاقة
+relative altitude	ارتفاع نسبي
+relative attenuation	التوهين النسبي
+relative bearing	اتجاه زاوي نسبي
+relative biological effectiveness (of radiation) (abbreviation: RBE)	فعالية بيولوجية نسبية (للإشعاع )
+relative change of length	تغيّر نسبيّ للطول
+relative colour stimulus function	عملية نسبية للتمييز بين الألوان
+relative density	كثافة (ال...) النسبية / كثافة نسبية
+relative density,	كثافة نسبية, لغاز اوبخار
+relative difference limen for frequency	بداية شعور مختلفة نسبية للتردد
+relative distance braking mode	وضع الكبح على مسافة نسبية
+relative efficiency	كفاءة نسبية
+relative entropy	انتروبيا نسبية
+relative equivalent	مكافئ نسبى
+relative equivalent for receiving	المكافئ النسبي للاستقبال
+relative equivalent for sending	المكافئ النسبي للإرسال
+relative error	خطأ نسبي / حيود نسبي في القياس / قيمة إسنادية
+relative error,	خطأ نسبى, لمُرَحِّل قياس او نظام وقاية
+relative evaporation	تبخر نسبي
+relative frequency spacing	التباعد النسبى للتردد
+relative frequency; relative abundance	تواتر نسبي
+relative gain (of an antenna with respect to that of a reference antenna)	كسب نسبي (لهوائى بالنسبة لهوائى مرجعى)
+relative humidity	الرطوبة النسبية / رُطوبة نِسبية / رطوبة (ال...) النسبية / رطوبة نسبية / سطح طباعي بارز
+relative humidity; relative partial pressure, ; RH	رطوبة نسبية
+relative inclinometer	مقياس المَيْل النسبي
+relative mass concentration of water vapour	التركيز النسبى لكتلة بخار الماء
+relative mass density; relative density	كثافة الكتلة النسبية؛ كثافة نسبية
+relative measurement uncertainty	لايقين (ال...) النسبيّ في القياسات
+Relative Oil Displacement Efficiency	الكفاءة النسبية لإزاحة الزيت / كفاية (ال...) النسبية لانتقال الزيت، مردود (ال...) النسبي لانتقال النفط
+relative optical air mass	كتلة الهواء البصرية النسبية
+relative orientation	توجيه نسبي
+relative permeability	نفاذية نسبية / نفوذية نسبية
+relative permittivity	سماحية نسبية
+relative power level	مستوى قدرة نسبى
+relative presence	وجود نسبى
+relative pressure coefficient	معامل الضغط النسبى
+Relative programming	برمجة نسبية
+relative redundancy	الزيادة النسبية
+relative refractory period	فترة صمود نسبية
+relative resistance change	تغيّر نسبيّ للمُقاومة
+relative responsivity,	إستجابة نسبية
+relative scatter intensity	شدة التبعثر النسبية
+relative sensitivity (of a transducer)	حساسية نسبية(لمحول إشارة)
+relative settlement	هبوط نسبي
+relative spectral distribution	توزيع طيفى نسبى
+relative spectral fluorescence distribution; relative fluorescence spectrum	التوزبع الطيفى الفلورى النسبى
+relative spectral responsivity,	إستجابة طيفية نسبية
+relative spectral sensitivity	حساسية نسبية للطيف
+relative state of health (RSoH)	الحالة الصحية النسبية للبطارية بالنسبة للقدرة المتاحة / حساس الحالة الصحية النسبية
+relative sunshine duration	الفترة النسبية لسطوع الشمس؛ فترة سطوع الشمس
+relative target altitude	ارتفاع الهدف النسبي
+relative temperature index; RTI (abbreviation)	RTI إختصار؛ مؤشر درجة الحرارة النسبي
+relative thermal endurance index	الدليل النسبيِ للتحمّلِ الحراريِ
+relative time error	الخطأ النسبي للزمن
+relative time stamp	الوقت النسبى المختوم
+relative uncertainty	خطأ إسنادي
+relative voltage change	تغير نسبي في الجهد
+relative wind	سرعة الهواء النسبية
+relative, adj	نسبي (صفة)
+relative-bearing indicator	مُبَيِّن الاتجاه الزاوي النسبي
+relative-spectral-sensitivity characteristic	خصائص الحساسية النسبية للطيف
+relativistic effect	تأثير نسبى
+relativistic kinetic energy	طاقة حركة نسبية
+relativistic mass; apparent mass (deprecated)	كتلة نسبية؛ كتلة ظاهرية
+relativistic speed	سرعة نسبية
+relativistic time	توقيت نسبى
+relaxalon	خيوط ريلاكسلون
+relaxation	ارتخاء
+relaxation oscillation	تذبذب متراخى
+relaxation oscillator	مذبذب إسترخاء
+relaxation time	زمن الارتخاء / فترة التخفيف
+relaxed look	النمط الرقيق
+relaXed static stability	استقرار توازني هادئ
+relay	مُرحّل / مؤازِر / مُرَحِّل
+relay control piston	كبّاس تحكّم مُرَحِّل
+relay defect	عيب مرحل
+relay endurance test	إختبار تحمل المرحل
+relay failure (for elementary relays)	فشل مرحّل (للمرحلات البسيطة )
+relay failure rate	معدل عطل المرحل
+relay function	وظيفة المُرحّل
+relay interlocking	تشابك خطوط السكك الحديدية
+relay output	مُرَحِّل خرج
+relay power	تبادل / تغيير القاطرات
+relay reliability	إعتمادية مرحل
+relay set	مجموعة مرحل
+relay station	محطة مرحل / محطة إعادة الإرسال (تقوية)
+relay station (in a radio-relay system)	محطة مرحل (في نظام مرحل راديوي)
+relay switch	مفتاح مرحل
+relay technology categories; RT (abbreviation)	فئات تقنية المرحل
+relay time	فترة الترحيل
+relay valve	صمام مُرحّل
+relay valve with advanced response	صمام مرحل مزود بخاصية الضغط الإضافي
+relaying (of tiles)	إعادة التبليط
+release	تحرير / تحرير، اطلاق / اعتاق
+release (of a mechanical switching device)	اعتاق
+release agent	زَيتُ القالَب
+release altitude	ارتفاع الإطلاق
+release bearing clearance	خلوص محمل الإعتاق
+release condition	حالة الانعتاق
+release condition (for elementary relays)	حالة الراحة (للمرحل البسيط)
+release fork	شوكة إعتاق
+release guard signal	إشارة حماية الاعتاق
+release guard; guarded release	حراسة الإعتاق إعتاق محروس
+release load	قوة الإعتاق
+release load curve	منحنى قوة الإعتاق
+release of substances	إطلاق المواد
+release point	نقطة الإعتاق
+release position	وضع الإعتاق
+release rate	معدل التنفيس / معدل التنفيس, الكشف عن الغاز
+release time (for elementary relays)	زمن تحرير (للمرحّلات البسيطة )
+release time of an on-delay relay	زمن الانعتاق لمرحل تأخير التوصيل
+release value	قيمة الانعتاق
+release valve	صمام إعتاق / صمام التحرير
+release voltage	جهد التحرير
+release,	إعتاق,
+release, verb	يتحرر
+release; trip; valve	إعتاق
+released	مُعْتَق
+releasing overshot	أداة التقاط قابلة للانفكاك
+relevant activity codes (racs)	رموز الأنشطة ذات الأهمية (RACs)
+relevant boundary,	حد ذو صلة,
+relevant factors matrix	مصفوفة العوامل المؤثرة
+relevant flood volume	فَيَضان تصميميّ للمخلص
+relevant international forums	محافل دولية ذات الأهمية (مكافحة التصحر)
+reliability	مَوثُوقِيّة / موثوقية / الموثوقية، / العول / إعتمادية
+reliability (of an electric power system)	الإعتمادية (فى نظام القدرة الكهربائية)
+reliability (performance)	تأرجح
+reliability block diagram; RBD	مجموعة رسم تخطيطى للإعتمادية
+reliability growth testing	اختبار تنامى الإعتمادية
+reliability growth,	تنامى الاعتمادية,
+reliability improvement	تحسين الاعتمادية
+reliability model	نموذج الإعتمادية
+reliability of an item	عول جهاز؛ وثوقية
+reliability of protection; reliability of relay system (US)	اعتمادية الحماية
+reliability stress screening; RSS	فحص إجهاد العول؛ فحص إجهاد الدقة
+reliability,	موثوقية؛ عول / موثوقية, ؛ عول / وثوقية, ؛ إعتمادية
+reliability-centred maintenance; RCM	صيانه ترتكز على العول
+reliable irradiation conditions; reliable sunlight conditions	ظروف شمسية يعول عليها
+relics	مُخلَّفات
+relict	بقية معمرة
+relief	تضاريس / نقش بارز / حواف / تباين في الارتفاع
+relief cam	حدبة تخفيف الضغط، كامة تخفيف الضغط
+relief channel	قناة تصريف جانبي
+relief displacement	انزياح التضاريس
+relief drain	مَصْرِف تخفيف
+relief fabric	نسيج مُزخرف
+relief hole	ثقب تخفيف / ثقب تصريف، ثقب أمان
+relief line	خط التصريف
+relief model	نَمُوذَج مجسَّم
+relief ornament	زخرفة بارزة
+relief pattern	رسم بارز
+relief plate	طباعة بارزة
+relief printing	طباعة بارزة
+relief response	استجابة الإغاثة
+relief sewer; discharge channel	مخلص
+relief sewer; outlet channel	قناة الفائض
+relief system	نِظام تخفيف
+relief valve	صِمام خروج / صمام تخفيف / صمام تنفيس / صمام تصريف الضغط
+Relief Well	بئر تنفيس / بئر إغاثة، بئر مداخلة
+relief well; pressure relief well	بئر تصريف الضغط
+relight	يُشعِل ثانيةً
+relight envelope	مُغَلَّف إعادة الإشعال
+religious architecture	هندسة دينية
+relocalization of food production	إعادة توطين إنتاج الأغذية
+relocatable address	عنوان قابل للنقل
+relocate, verb	يعيد نقل الموقع, فعل
+Relocation of Electricity Networks	إزاحة الشبكات الكهربائية
+reluctance	ممانعة حثية / ممانعة مغناطيسية / ممانعة مغنطيسية
+reluctance motor	محرك ممانعة مغناطيسية
+reluctance sensor (VRS)	حسّاس المُمانعة (VRS)
+reluctance synchronizing	تزامن قصري
+reluctant element	عنصر ممانع
+reluctivity	ممانعيَة / ممانعة مغنطيسية نوعية
+reluctor ring for cylinder identification quick start	العجلة الحثية الخاصة بالتعرف على الاسطوانة للبدء السريع
+reluctor ring for engine speed	العجلة الحثية الخاصة بمستشعر سرعة دوران المحرك
+rem	رم (وحدة قياس الأثر الحيوي للجرعة الأشعاعية الممتصة في المادة)
+remainder	متبقٍّ
+remanence	محتفظية / مغنطيسية متبقية
+remanent (magnetic) flux density	كثافة فيض (مغناطيسي) متبقى
+remanent (magnetic) polarization	استقطاب (مغناطيسي) متبقى
+remanent field	المجال المتبقي
+remanent flux density	كثافة الفيض المتبقية / كثافة التدفق المتبقي
+remanent magnetic polarization	استقطاب مغناطيسي متبقي
+remanent magnetization	مغنطة متبقية
+remanent polarization	إستقطاب متبقي
+remanufacture	إعادة تصنيع
+remanufactured aircraft	طائرة معادة الصنع
+remanufacturing	إعادة تصنيع
+remedial action	إجراء علاجي
+remedial work	أعمال الاصلاح، أعمال الحماية
+remediation	معالجة
+remediation measure	إجراء إصلاحيّ
+remelted electrode	قطب كهربائى معاد صهره
+remelting	إعادة الصهر
+reminder to wear arc flash protection suit	التذكير بإرتداء بيئة الوقاية من الوضع الكهربائي
+remission degree	درجة الانعكاس الشامل
+remittance advice	إشعار بتحويل الأموال (REMADV)
+remixing	تَعدِيل
+remnant vegetation	نباتات متبقية
+remoan numerals	أرقام رومانية
+remote alarm	انذار عن بعد
+remote backup protection	الحماية الاحتياطية عن بعد
+remote bootstrapping	الربط عن بعد
+remote communications	اتصالات عن بُعد
+remote concentrator	مركز عن بعد
+remote control	تَحكُّم عن بُعد / تحكم عن بعد / التحكم عن بعد
+remote control center	مركز التحكم عن بعد
+remote control switch	مفتاح تحكّم عن بعد
+remote control switch; RCS (abbreviation)	مفتاح تحكم عن بعد
+remote control,	تحكم عن بعد,
+remote controlled sewers	شبكات الصرف الصحيّ ذات تحكُّم عن بُعد
+remote data transmission	نقل البيانات عن بعد (DFÜ) / نقل البيانات عن بعد
+remote debugging	تصحيح الأخطاء عن بعد
+remote diagnostics	التشخيص عن بُعد
+remote disconnect	خيار الإغلاق، خيار إيقاف الاستعمال
+remote fan	مروحة بعيدة
+remote indicating compass	بوصلة تأشير بعيد
+remote indicator system	عَرْض عن بُعد
+remote loading station	محطة شحن تدار عن بعد
+remote login	الاتصال عن بعد
+remote maintenance	صيانة عن بعد
+remote medium (of a machine)	وسط بعيد (لآلة)
+remote monitoring	المراقبة عن بعد
+remote procedure call; RPC (abbreviation)	إختصار (RPC)؛ استدعاء الإجراء عن بعد
+remote reading	قِراءة عن بُعد / قراءة عن بعد
+remote selector	جهاز انتقاء عن بعد
+remote sensing	استشعار عن بعد / استشعار عن بُعد
+remote sensing satellite	قمر صناعي للاستشعار عن بعد
+remote sensor,	حساس عن بعد, الكشف عن الغاز
+remote SIM access profile	تقنية استقراء بطاقة تعريف مُشترك عن بُعد (rSAP)
+remote transmission	إرسال عن بُعد
+remote transmission request (RTR)	طلب الإرسال عن بُعد
+remotely controlled substation	محطة تحت التحكم عن بعد
+remotely piloted vehicle	مَركبة مُقادة من بُعد
+remotely-controlled (repeater) station	محطه مكرر مسيطر عليها عَنْ بُعْد
+remotely-derived synchronization signal	اشارة تزامن مشتقة عن بعد
+remotely-sensed data	بيانات استشعار عن بعد
+remoting	نَقْل إلى بُعْد
+remoulded soil	تربة مضطربة
+remoulding index	دليل الاضطراب
+removable core bit	مثقب ذو نواة قابلة للفك
+removable part (of an assembly)	جزء قابل للإزالة
+removable pavement	رَصِيفٌ قَابِلٌ لِلإِزَالَة
+removables	المنزوعات / المُزالات
+removal / elimination / disposal	إزالة
+removal unit (rmu)	وحدة إزالة
+remove smart key symbol	رمز نزع المفتاح الذي من مكانه بالسيارة
+removed position (of a removable part)	وضع الإزالة
+remover	مزيل
+remuneration calculation	حِساب الأتعاب
+remuneration for feeding	تعريفة الإمداد بالطاقة
+REN 21 (Renewable Energy Policy Network for the 21st Century)	شبكة سياسة الطاقة المُتجدّدة للقرن الحادي والعشرين (REN21)
+REN21	شبكة سياسات الطاقة المتجددة للقرن 21
+rendering intent	طريقة ترجيع اللون؛ طريقة إستعادة اللون
+rendezvous	مُلتقى
+rendezvous orbit insertion	دخول مدار المُلتقى
+rendezvous radar	رادار المُلتقى
+renewable	متجدد
+Renewable and Appropriate Energy Laboratory (RAEL)	مختبر الطاقة المتجددة المناسبة (RAEL)
+Renewable and Sustainable Energy Technologies MSc Postgraduate/Masters	ماجستير في تقنيات الطاقة المتجددة والمستدامة الشهادة المسلمة: شهادة الماجستير
+Renewable Electricity Standard (RES)	معايير توليد واستخدام الطاقة المُتجدّدة (RES) / معيار الطاقة المتجددة
+renewable energies	طاقات مُتجدّدة / الطاقات المُتجددة / طاقات مُتجددة
+renewable energies act (EEG)	قانون الطاقات المتجددة (EEG)
+Renewable Energies Export Initiative; renewables – Made in Germany’ initiative	مُبادرة تصدير الطاقات المُتجدّدة
+Renewable Energies Heat Act (EEWärmeG)	القانون الالماني لتوليد الحرارة من الطاقات المُتجدّدة (EEWärmeG) / قانون الحرارة من الطاقة المتجددة
+renewable energies program - standard	برنامج الطاقات المتجددة - معيار
+renewable energy	طاقة متجددة / الطاقة المتجددة / مصدر طاقة متجدد
+Renewable Energy (Electricity) Regulations 2001 (Australia)	اللوائح التنظيمية للطاقة المتجددة (الكهرباء) لعام 2001 (أستراليا)
+renewable energy according to the German renewable energy act	الطاقات المتجددة وفقا لقانون الطاقات المتجددة الألماني
+renewable energy act	قانون الطاقة المتجددة (EEG) / غرفة المقاصة للمسائل المتعلقة بقانون الطاقة المُتجددة (EEG)
+Renewable Energy and Energy Efficiency Partnership (REEEP)	شراكة الطاقة المتجددة وكفاءة الطاقة (REEEP)
+Renewable Energy and Sustainable Technologies Qualification Awarded: Bachelor	الطاقة المتجددة والتقنيات المستدامة الشهادة المسلمة: شهادة الإجازة
+Renewable Energy Association (REA)	جمعية الطاقة المتجددة (REA)
+renewable energy capacity	سِعة الطاقة المُتجددة
+renewable energy carrier	ناقل الطاقات المتجددة
+renewable energy certificate (rec)	شهادة الطاقة المتجددة
+Renewable Energy Certificate System (RECS)	نظام شهادات الطاقة المُتجدّدة (RECS) / نظام شهادة الطاقة المتجددة (RECs)
+renewable energy certificate Trading	تجارة شهادات الطاقة المتجددة
+Renewable Energy Certificates System	المنظمة الأوروبية للتبادل الدولي في مجال الطاقة المتجددة(RECs)
+Renewable Energy Cooperation Program (RECP)	برنامج التعاون بين إفريقيا والاتحاد الأوروبي في مجال الطاقة المُتجدّدة (RECP)
+Renewable Energy Coordination Office	هيئة تنسيق شؤون الطاقات المُتجدّدة
+renewable energy credit (REC)	ائتمان الطاقة المُتجدّدة / اعتماد الطاقة المتجددة
+renewable energy development	تطوير الطاقة المتجددة
+Renewable Energy Directive (2009/28/EC)	تشريع المجموعة الأوروبية رقم 2009/28/EC للطاقات المُتجدّدة
+Renewable Energy Directives	اللوائح التنفيذية للطاقة المتجددة
+Renewable Energy Engineering MSc Postgraduate/Masters	ماجستير في هندسة الطاقة المتجددة
+Renewable Energy Engineering PgDip Qualification Awarded: Postgraduate/Masters	ماجستير في هندسة الطاقة المتجددة الشهادة المسلمة: شهادة الماجستير
+Renewable Energy Engineering Qualification Awarded: Doctorate/PhD	دكتوراه في هندسة الطاقة المتجددة الشهادة المسلمة: شهادة الدكتوراه
+Renewable Energy Engineering Qualification Awarded: Postgraduate/Masters	ماجستير في هندسة الطاقة المتجددة الشهادة المسلمة: شهادة الماجستير
+renewable energy incentive	حافز للطاقة المتجددة
+renewable energy investment	استثمارات في الطاقات المُتجددة
+renewable energy law	قانون الطاقات المُتجدّدة / قانون الطاقة المتجددة
+Renewable Energy Management in EVs	إدارة الطاقة المتجددة في المركبات الكهربائية
+renewable energy payment	دعم استخدام وتوليد الطاقة المُتجدّدة / تسديد الطاقة المتجددة
+renewable energy plant	محطة طاقة مُتجددة
+renewable energy portfolio standards	معيار حافظة الطاقة المتجددة
+Renewable Energy Production	إنتاج الطاقة المتجددة
+Renewable Energy Production Incentive	حوافز لتوليد الطاقة المُتجدّدة / حافز إنتاج الطاقة المتجددة
+renewable energy project	مشروع إنتاج الطاقات المُتجددة / مشروع طاقة مُتجددة
+Renewable Energy Resources	موارد الطاقة المتجددة
+Renewable Energy Sector	قطاع الطاقة المتجددة
+renewable energy source; renewable source of energy	مصادر الطاقة المُتجددة
+Renewable Energy Sources	مصادر الطاقة المتجددة / مصدر الطاقة متجددة / حوامل طاقية قابلة للتجدد
+Renewable Energy Sources Qualification Awarded: Postgraduate/Master	ماجستير في مصادر الطاقة المتجددة الشهادة المسلمة: شهادة الماجستير
+renewable energy standard	معيار الطاقة المتجددة
+renewable energy supply	إمداد بالطاقات المُتجددة
+renewable energy target	هدف الطاقة المتجددة
+renewable energy technologies (RETs)	تكنولوجيا الطاقة المتجددة
+renewable energy technology	تكنولوجيا الطاقات المُتجددة
+Renewable Energy, Energy Efficiency and Climate Change Program (REACH)	برنامج الطاقة المُتجدّدة وتغيّر المُناخ (REACH)
+Renewable Fuels Association (RFA)	جمعية الوقود المتجدد (RFA)
+renewable fuse-link	وصلة مصهر متجددة
+Renewable Generation Technology Qualification Awarded: Bachelor	توليد الطاقات المتجددة الشهادة المسلمة: شهادة الإجازة
+renewable generator	مولد الطاقة المتجددة
+renewable natural resources	موارد طبيعية متجددة
+renewable portfolio	نِسَب الطاقات المُتجدّدة / حصة الطاقة المتجددة
+renewable portfolio standard (RPS)	ملفّ معياري للطاقة المتجددة / معيار حافظة الطاقة المتجددة / المواصفة القياسية للاستثمار في الطاقة المتجددة (RPS)
+Renewable Portfolio Standards Program	برنامج معايير الطاقة المُتجدّدة
+renewable power generation capacity	قدرة توليد الطاقة المتجددة
+renewable power generator	مولد للطاقة المتجددة
+renewable raw material	مواد خام متجددة
+renewable raw materials	مواد خامّ مُتجدّدة
+renewable resource	مَصْدَر متجدد
+renewable water	مياه متجددة
+Renewables Interactive Map	خريطة تفاعلية عن مشروعات الطاقة
+renewables obligation (RO)	التزامات الطاقة المتجددة / إلتزام الطاقات المتجددة
+Renewables Obligation Certificate (ROC)	شهادة فرض توليد واستخدام الطاقة المُتجدّدة (ROCs)
+renewables obligation certificates (ROCs)	شهادة الالتزام بالطاقة المتجددة
+Renewables Obligation Order (ROO)	نظام فرض توليد واستخدام الطاقة المُتجدّدة (ROO) / نظام فرض توليد واستخدام الطاقة المتجددة
+renewables policies	سياسات مصادر الطاقة المتجددة
+Renewables Portfolio Standard (RPS)	معايير ملف الطاقات المتجددة RPS
+renewables sector	قطاع الطاقة المتجددة
+renewal	تَجدِيد / تجديد
+renforcé	نسيج مقوى
+reniform	كُلْوِيّ
+renonculacease	فصيلة (ال..) الشقيقية
+renovation	تجديد
+rent controls	ضوابط الإيجار
+rent value	قيمة إيجارية
+rental car	سيارة كراء
+reorder level	مستودى إعادة الطلب
+reorder point procedure	نظام نقطة إعادة الطلب
+rep weave	نَسِيج مُضَلَّع
+repainting	طلاء جديد
+repair	إصلاح
+repair (after radiation effects)	إصلاح (عقب تأثيرات الإشعاع)
+repair / major maintenance	إصلاح
+repair / restoration	إصلاح
+repair coverage	الأعطال الممكن إصلاحها
+repair duration	فترة الاصلاح / فترة إصلاح
+repair facility	خدمات الصيانة
+repair friendliness	قابلية إصلاح رخيص
+repair instructions	دليل الإصلاح
+repair of holes	إصلاح الثقوب
+repair shop	مشلغ التصليح
+repair sidings	إصلاح خطوط السكك الحديدية
+repair sleeve	قميص إصلاح
+repair the damage	إصلاح الأعطال
+repair time	زمن الإصلاح
+repair workshop	ورشة الاصلاح
+repair,	إصلاح, الأجواء المتفجرة
+repair-cycle aircraft	طائرة دائرة الصيانة
+repairable item; DEPRECATED: repaired item	بند قابل للإصلاح
+repairable modular redundancy	إصلاح مع استمرار التشغيل
+repairman certificate	شهادة عنصر الصيانة
+reparable error	خطأ قابل للتصحيح
+reparation	إصلاح
+repaving	إعَادَة رَصْف
+repco yarn / Self-Twist yarn	خيوط غزل 'ربيكو'
+repeat broadcast	إعادة البث الاذاعي
+repeat lock; repeat locking	منع التكرار
+repeat mark	رمز التكرار
+repeat part	جزء متكرر
+repeat test; repetitive test	اختبار متكرِّر
+repeatability	التكرارية / تكرارية
+repeatability (of results of measurements)	الخطيّة (لجهاز قياس)
+repeated call attempt; reattempt	محاولات متكررة للإتصال
+repeated message	رسالة متكررة
+repeated signal	إشارة مكررة
+repeated twinning	توأمة متكرِّرة
+Repeater	مُكرِّر / مكرر إشارة
+repeater (in local networks)	مكرر الإرسال
+repeater distribution frame; RDF (abbreviation)	موزع قنوات لمكرر
+repeater jammer	مُشَوِّش مُعيد
+repeater relay	مرحل إعادة
+repeater station	محطة تكرار / مركز تقوية
+repeater,	مكرر, / جهاز مقوى,
+Repeaters for fiber optic	مُكرِّر لكابلات الألياف الضوئية
+repeating hub	مُجمِّع - ومُضخِّم الإشارات
+repeating signal	إشارة تكرارية
+repeating theodolite	تيودوليت مُعِيد
+reperforator switching	فصل وتوصيل جهاز إعادة التثقيب
+reperforator; receiving perforator	جهاز إعادة التثقيب
+repertoire of signals	مجموعة متكاملة من الإشارات
+repetition cycle	دورة تكرار
+repetition rate	معدَّل التكرار
+repetition rate (in telephony)	معدل التكرار ( في نظام الهاتف )
+rephos steel	فولاذ
+replaceable light source	مصدر ضوء قابل للإستبدال
+replaceable panel	لوحة استبدال
+Replaceable Unit	الوَحْدَةُ القابِلَةُ لِلاِسْتِبْدالِ
+replacement	تجديد / إحلال
+replacement battery	بطارية استبدالية
+replacement cost valuation methods	أساليب تقييم تكلفة استبدال
+replacement deposits	رواسب إحلالية
+replacement factor	مُعامِل الاستبدال
+replacement of membranes	تعويض الأغشية
+replacement part order	طلب قطع الغيار
+replacement service	خدمة الاستبدال
+Replacement value	قِيمَةُ الاِسْتِبْدالِ
+replenishing	إعادة التزويد
+replenishment area	منطقة تغذية
+replenishment strategies	إستراتيجيات التجديد
+replica	نسخة مطابقة
+replication	نسخ
+reply code	شِفرة الإجابة
+reply-code evaluator	مُقَوِّم شِفرة الإجابة
+repo	إتفاقية إعادة شراء
+repolarization	إعادة الإستقطاب
+repopulation	إعادة توطين
+repopulation (after radiation effects)	استبدال الخلايا (بعد تأثيرات الإشعاع)
+report	تقرير
+report program generation, (R.P.G.)	فئة برامج التقرير، نشوء برامج التقارير
+report, hydrochemical	تقرير هيدروكيميائيّ
+reported efficiency	كفاءة مُتحقّقة
+reporting body	هيئة الإبلاغ
+reporting entity	كيان يقدم تقارير
+reporting threshold level	مستوى عتبة التسجيل
+Repository	مستودع
+repowering	تجديد محطات الطاقة
+representation	تمثيل
+representation of relief	تمثيل التضاريس
+representation unit	حالة الخرج
+representative concentration pathways (rcps)	مسارات تركيزات تمثيلية
+representative sample areas (fsc)	عينة تمثيلية للمناطق
+repressurant	ضَغوط
+Repressuring	استعادة الضغط
+reprint	اعادة طبع
+reprint edition	طبعة معادة
+reprocessed cotton cotton waste	مُخلّفات القُطن
+reprocessing	إعادة المعالجة
+reproduce channel unbalance	عدم توازن قناة اعادة التسجيل
+reproducibility (of measurements)	تكرارية (لنتائج قياسات)
+reproducibility, qualitative	مُقارنَة كيفِيَّة
+reproducing chain	سلسلة إعادة الإنتاج
+reproducing channel	قناة إعادة الإنتاج
+reproducing characteristic	خصائص اعادة الانتاج
+reproducing electrical amplitude/frequency response	استجابة التردد \ السعة الكهربائية لاعادة التسجيل
+reproducing head absolute efficiency	كفاءة مطلقة لرأس اعادة التسجيل
+reproducing lathe	مخرطة الاستنساخ
+reproducing loss	فقد اعادة الانتاج
+reproducing punch	قالب إعادة النسخ، آلة النسخ
+reproducing stylus tip	طرف إبرة إستعادة التسجيل
+reproducing system	نظام إعادة الإنتاج
+reproduction	إعادة إنتاج / التكاثر / تكاثُر / استنساخ
+reproduction ratio	نسبة إعادةِ إنتاج
+reproduction; playback; replay	إعادة إنتاج ( إعادة تسجيل)
+reproductive capacity	قدرة إنجابية
+reprogramming	إعادة البرمجة
+reptile leather	جلود الزواحف
+reptilia (reptiles)	زواحف
+republication	اعادة نشر
+republish (to)	نشر ثانية
+repulping	تحويل إلى لب، تحويل الى عجين
+repulsion	تنافر
+repulsion induction motor	محرك حثي تنافري
+repulsion motor	محرك تنافري؛ محرك دفع / محرك تنافري
+repulsion start induction motor	محرك حثي تنافري البدء
+repulsive odour	رائحة مُغْثية
+repurification	إعادة تطهير
+requalification	زيادة التأهيل / زيادة الكفاءة
+requency characteristic (frequency curve)	طريقة المُنحنى الخصائصي للتردد
+request data transfer	طلب نقل بيانات
+Request for Comments; RFC (abbreviation)	إختصار (RFC)؛ طلب تعليقات
+request for document message	طلب إرسال وثيقة (REQDOC)
+Request for Information	طلب معلومات
+request permission to depart (from train control officer)	طلب الإذن بالمغادرة
+request position limit	تحديد تقديم الطلبات
+required flightpath	مسار طيران مطلوب
+required function	وظيفة مطلوبة
+required insulation level; RILL	مستوى العزل المطلوب
+required time	الفترة المطلوبة
+required track	مسار مطلوب
+requirement	طَلَبٌ / مطلب / مُتَطَلَّب
+requirement for conformity	اشتراط المطابقة
+requirement of affiliation of network operators	شرط انتماء مشغلي الشبكات
+rerailer	نظام يساعد على rerailing
+Rerun Column	عمود إعادة التقطير
+Rerun Tower	برج إعادة تقطير / برج إعادة التقطير
+rerun tower reboiler	مبادل حراري لتسخين برج إعادة التقطير
+RES LEGAL Europe (LEGAL SOURCES ON RENEWABLE ENERGY)	البيانات التشريعية لمصادر الطاقة المتجددة في أوروبا (المصادر التشريعية في مجال الطاقة المتجددة)
+resaw (to)	أعادَ النشر
+rescheduled flight	رحلة مُجَدَّدة البرمجة
+rescue	إنقاذ
+rescue boat	زورق إنقاذ
+rescue centre	مركز إنقاذ
+rescue pack	عوامة إنقاذ
+rescue train	قِطَار الإنقاذ
+research and development (R & D)	بحث وتطوير
+research and systematic observation	بحث ورصد منهجي
+research institute	مَعهَد بُحوث
+Research institute for Plants Cotonnieres and Tropical	معهد بحوث القطن والنباتات الاستوائية
+research methods	طرق البحث
+research octane number	رقم الأوكتان معملي
+research octane number (RON)	الرقم الأوكتاني البحثي (RON)
+research octane number, (R.O.N.)	قرينة أوكتان البحث
+research organization	منظمة بحثية
+Research Reactor	مفاعل أبحاث
+research rocket	صاروخ أبحاث
+research vehicle	مَركبة أبحاث
+reseau	شبكة / شبكة محطات
+resection	تقاطع عكسي
+resequenced message	رسالة إعادة التسلسل
+reservation	إحْتِيَاط / مخزون / شَرْط / تحفظ
+reserve	الاحتياطي / احتياطي / احتياط / مصدر
+reserve (oil reserve)	احتياطي النفط
+reserve aircraft	طائرات احتياطية
+reserve busbar	قضيب تجميع احتياطي
+reserve capacity	سعة احتياطية / قدرة احتياطية
+reserve car	سيارة الاحتياط
+reserve cell	خلية بطارية إحتياطية
+reserve estimate	تقدير الاحتياطي
+reserve factor	مُعامِل الاحتياطي
+reserve fuel	وقود احتياطي
+reserve growth	نمو الاحتياطي
+reserve parachute	مظلة احتياطية
+Reserve Pit	حفرة احتياج الزيت الملوث
+reserve power	قدرة احتياطية
+reserve power of a system	القدرة الاحتياطية للنظام
+Reserve power plant	محطة احتياطية لتوليد الكهرباء
+reserve signalling link	وصلة تأشير احتياطية
+Reserve System	نظام الإحتياط
+reserve-power release	اعتاق بطاقة راجعة
+reserved circuit (telecommunication) service	خدمة دارة (إتصال عن بعد)محجوزة
+reserved for electric car charging only	مخصصة لشحن السيارات الكهربائية فقط
+reserved lane	مَسَارٌ مَحجُوز
+reserved stock	مخزن محجوز
+reserves	كميات احتياطية
+reserves for system services	إحتياطيات لخدمات النظام
+reservist look	زي جنود الاحتياط
+reservoir	خزان الإمداد / خزان / خزان سوائل / خَزّان / خزان (بركة تخزين) / حوض / خران / مستودع / خَزَّان / بحيرة السد
+reservoir (oil reservoir)	مكمن نفطي
+reservoir / storage capacity / storage	حيز التخزين
+reservoir / storage reservoir	بحيرة تخزين
+reservoir beds	طبقات مَكْمَن، طبقات خازنة
+Reservoir Drive	قوة الدفع الطبيعية في المكمن
+Reservoir Energy	طاقة المكمن / طاقة المَكْمَن، ضغط جوفي
+reservoir fluid characteristics	مميزات السائل المخزون، مميزات الموائع في المكامن
+reservoir for low flow augmentation	خَزّان المُعادلة
+reservoir fullness factor	عامل إمتلاء الخزان
+reservoir level, full / supply level, full	مَنسُوب ملء الخزان
+reservoir life expectancy	العمر المتوقع لخزان
+reservoir pavement	رَصْف الخَزَّان
+reservoir power station	محطة توليد مائية بخزان / محطة تخزين الطاقة
+Reservoir Pressure	ضغط السائل في المكمن / ضغط المكمن / ضغط الخزان، ضغط المكمن
+reservoir release rules	قواعد سحب المياه من خزان
+reservoir rock	صخر خازِن / صخور تخزين
+reservoir species (ozone destruction)	أنواع الخزان (تدمير الأوزون)
+reservoir surface	سطح الخزّان
+Reservoir Zonation	تمنطق المكامن / تَمَنْطُق المكامن
+reservoir, detention / reservoir, retarding	خَزّان إعاقة
+reservoir, flood control / reservoir, single-purpose flood control	خَزّان للتحكم في الفيضان
+reservoir, regulating	حَوْض قابِل للضبط
+reservoir; gas reservoir	خزان ، مستودع
+reservoirs	خزانات
+reset	يَضبط ثانية
+reset (for elementary relays) verb	يعيد الوضع (للمرحلات البسيطة)
+reset (to)	أعادَ إلى الأصل
+reset circuit	دائرة إعادة الضبط؛ دائرة إعادة الضبط
+reset condition	ظروف الرجوع
+reset hysteresis	تخلفيةالرجوع
+reset percentage	مئوية الرجوع
+reset ratio	نسبة الرجوع
+reset RCD	أداة إعادة ضبط تعمل بالتيار المتبقي
+reset signal	اشارة الرجوع
+reset time	زمن اعادة الضبط / زمن إعادة ضبط
+reset time (for elementary relays)	زمن اعادة الوضع
+reset time,	زمن الرجوع, لمُرَحِّل قياس او نظام وقاية
+reset value	قيمة الرجوع
+reset voltage	جهد إعادة الوضع
+Reset wind up	إنهاء قابل للإعادة
+reset windup; integral windup	إعادة ضبط؛ تكامل الضبط
+reset, verb	يرجع, لمُرَحِّل قياس او نظام وقاية
+Reset-Set-Flipflop	قلاّب RS
+reset/restoring force	قوة الاستعادة
+resetting device	جهاز إعادة ضبط
+resetting time-delay switch; resetting TDS	مفتاح إعادة ضبط بتأخير زمني / إعادة ضبط
+resetting trailable points; one way spring points	نقاط قابلة للقطر والإعادة
+resetting voltage	جهد إعادة الضبط
+resewood	خشب الورد، بليسندر
+reshaping	إعادة تشكيل / تغيير، تبديل
+Resid Market	سوق الزيوت الثقيلة / سوق الزيوت السوداء
+residence time	زمن المكوث / زمن المكث / وقت الإقامة / فترة البقاء
+resident / property owner	مالك العقار
+resident animals	حيوانات مقيمة
+resident engineer	مهندس مُقِيم
+resident; local resident	جار لمُنشأة
+Residential Consumer	مستهلك سكني
+residential customer; domestic customer	مستهلك سكنى؛ مستهلك محلى
+residential customers	زبائن من القطاع المنزل
+Residential Energy Audit Platform (REAP)	منصة تدقيق الطاقة في القطاع السكني
+residential site improvement standards (rsis)	معايير تحسين موقع سكني
+Residential Tariff	تعريفة سكنية
+residential waste	نفايات سكنية
+residual	مخلفات / متبقٍ / متبقي / مُتبقٍ
+residual acceleration	تسارع متبقي
+residual acidity	حموضة متبقية
+residual active mass	كتلة فعالة متبقية
+residual attenuation; residual loss (deprecated)	توهين متبقي
+residual bitumen	حُمَّر متبقٍّ
+residual building materials	مُخلّفات عمليات البناء
+residual capacity	سعة كهربائية متبقية
+residual charge	شحنة متخلفة
+residual chlorine / residual chlorine, total	إجماليّ الكلور المتبقي
+residual current	محول تيار للوقاية / تيار متبقي
+residual current (for protection)	تيار متبقى
+residual current device; RCD	اداة تعمل بالتيار المتبقي
+residual current transformer	تيار متبقي؛ تيار متخلف
+residual current,	تيار متبقي,
+residual deposits	رواسب متبقية / ترسُّبات متبقِّية، توضُّعات متخلِّفة
+residual direct current detecting device	جهاز الكشف عن التيار المستمر المتبقي
+residual discharge mass curve / residual discharge mass diagram	منحنى حَيَدان مجموع التصاريف
+residual disinfectant concentration	تركيز المعقم المتبقي
+residual electric polarization	استقطاب كهربائي متبقى
+residual error	خطأ متبقٍّ
+residual error probability (in telecontrol)	معدل الخطأ المتبقي ( في التحكم عن بعد )
+residual error rate (in telecontrol)	احتمالية خطأ المجموعة ( في التحكم عن بعد )
+residual error-rate; undetected error-rate	معدل الخطأ المتبقى
+residual fly spray	مبيد حشرات مُتخلِّف للذباب
+Residual Fuel Oil	زيت وقود متبقٍ / زيت وقود مُتخلِّف
+Residual Gases Processing Unit (Shuaiba Refinery)	مشروع وحدة معالجة الغازات المختلفة (مصفاة الشعيبة)
+Residual Heat	حرارة متبقية
+residual herbicide	مبيدات أعشاب متبقية
+residual impacts	تأثيرات متبقية
+residual loading	مُخلفات
+residual loss	فقد التخلف المغناطيسي الدوار
+residual magnetism	استِبْقائية (دفق مغناطيسي مُتخلف) / مغناطيسية متبقية / مغنطيسية متبقية
+residual making and breaking capacity	سعة وصل وفصل التيار المتبقي
+residual mass curve	مُنحنى الكمِّية المتبقية
+residual material	مواد متبقية
+residual materials	مُخلّفات أحيائية
+Residual moisture	رطوبة متبقية
+residual non-operating current	تيار متبقي غير كاف للتشغيل
+Residual Oil Saturation	زيت مستعصٍ / إشباع بالزيت المتخلف، إشباع بالنفط المستعصي
+residual operating current	تيار متبقي كاف للتشغيل
+residual propulsive force	قوة الدفع المتبقية
+residual radiation	إشعاع متبقي
+residual risk	خطر متبقي
+residual salt	مِلح مُتَبَقِّي
+residual shrinkage value	قيمة الانكماش المتبقية
+residual soil	تربة موضعية
+residual solution	محلول مُتبقٍ
+residual strength	مُقَاوَمَة كامنة
+residual stress	إجهاد متبقٍّ / إجهاد متبقي
+residual time constant	ثابت الزمن المتبقي
+residual value, calculated	قِيمة متبقية محسوبة
+residual voltage	محول جهد موائم
+residual voltage (for protection)	جهد متبقى
+residual voltage for zero current control (of a Hall-effect probe)	الجهد المتبقى عند تيار تحكم صفر (لمجس تأثير هول)
+residual voltage for zero magnetic field (of a Hall-effect device)	الجهد المتبقى عند مجال مغناطيسى صفر (لجهاز تأثير هول)
+residual voltage transformer	جهد متبقي
+residual voltage winding	محول جهد متبقي
+residual voltage,	الجهد المتبقى,
+residual waste	بقايا القمامة
+residuals	مخلفات
+residue	بقايا جافة / فُضَالة / مخلفات
+residue gas	غاز مُتبقي / غاز متبقٍ / غاز مُتخلِّف، غاز مُتبقٍّ
+residue on ignition / ignition residue	بقايا الاحتراق
+residue recycling	استفادة من المخلَّفات
+residues	بقايا / بقايا حيوية
+residues of construction and demolition	مُخلّفات البناء والهدم
+resilience	رَجُوعِيّة / رجوعية
+resilience (of ecocystems)	مرونة (نظم إيكولوجية)
+resilient gearing	تعشيق مرن
+resilient modulus	مُعَامِل المُرُونَة
+resilient wheel	عَجَلَة مرنة
+resin	راتنج / راتِنْج / صمغ / رانتج
+resin bonded	مربوط بالراتنج
+resin canal	قناة راتنجية
+resin cement	إسمنت راتنجي / أسمنت صمغي، أسمنت راتنجي
+resin-bonded plywood	خشب معاكس مترابط بالراتنج
+resiniferous	راتِنْجي
+resiniferous veins	عروق الراتنج
+resinons	راتنجي، صمغي
+resinous	صمغيّ
+resist	طبقة مقاومة
+resistance	قدرة على المقاومة / مقاومة / مُقَاوَمة / مُقَاوَمَة / المقاومة؛ مقاومة التيار
+resistance (R)	مُقاومة (R)
+resistance against fire	مقاومة الحريق
+resistance box	علبة مقاومات
+resistance braking; rheostatic braking	كبح بالمقاومة
+resistance coding	ترميز المُقاومة
+resistance coefficient	مُعامِل الاحتكاك
+resistance control; rheostatic control	تحكم بالمقاومة
+resistance derivatives	مشتقات المقاومة
+resistance drier	مجفف ذو مقاومة
+resistance drop	هبوط الجهد بالمقاومة
+resistance flash welding	لحم وميضي بمقاومة
+resistance furnace	فرن ذو مقاومة (بمقاومة) / فرن بمقاومة
+resistance grading (of corona shielding)	تدرج المقاومة (للحجب الهالي)
+resistance heated boiler	غلاية (مرجل) مسخنة بمقاومة
+resistance heater	سخان ( مسخن ) بمقاومة
+resistance heating	تسخين بالمقاومة / تسخين بمقاومة
+resistance meter	جهاز قياس المُقاومة
+resistance of high current line of an arc furnace	مقاومة خط التيار العالي لفرن قوسي
+resistance of the arc furnace installation electric line	مقاومة خط كهربائي لمعدة فرن قوسي؛ مقاومة خط كهربائى لتركيبات ( تجهيزات ) فرن قوسى
+resistance start split phase motor	محرك مجزأ الطور بمقاومة بدء تشغيل
+resistance switchgroup	مجموعة مفاتيح المقاومة
+resistance tap	طرف قبس المُقاومة المُتغيِّرة
+Resistance Temperature Detector	مقياس الحرارة ذو المُقاومة (RTD)
+resistance temperature detector, (R.T.D.)	كاشف درجة الحرارة ذو المقاومة
+resistance test	اختبار المقاومة
+resistance thermometer	مقياس حرارة بمقاومة
+resistance to abrasion	مُقَاوَمَةُ السحج / مُقَاوَمَةُ التَّآكُل
+resistance to alternating current; resistance	مقاومة للتيار المتردد؛ المقاومة
+resistance to attrition	مُقَاوَمَةُ التَّحاك
+resistance to filtration, specific	مقاومة نوعية لترشيح الحمأة
+resistance to hole formation	مُقاومة الانصهار
+resistance to impact	مُقَاوَمَةُ الصَّدْمِ، مُقَاوَمَةُ التَّصَادُمِ / مُقَاوَمَةُ الصَّدْمِ
+resistance to shock	مقاومة الصدم
+resistance to shrinking	مقاومة الانكماش
+resistance to wear	مقاومة البَلى
+resistance under illumination	مقاومة تحت الإضاءةِ
+resistance welding	لحام مقاومه / لِحام بالمقاومة
+resistance welding electrode	قطب كهربائى للحام بالمقاومة
+resistance wilding	لحام بمقاومة
+resistance wire	سلك تسخين
+resistance-heating device	جهازتسخين المقاومة
+resistance-heating unit	وحدةتسخين بالمقاومة
+resistance-start split phase motor	محرك انطلاق بمقاومة
+resistant colour	لون ثابت
+resisting moment	عَزْم مقاوم
+resisting tape	شريط مقاوم
+resistive attenuator; absorptive attenuator	موهن مقاومي
+resistive cut-off frequency	مقاومة تردد القطع
+resistive direct voltage regulation	تنظيم جهد مستمر مقاومي
+resistive insulation fault	عطل عزل مقاوم
+resistive n-terminal element	عنصر مقاوم متعدد الأطراف بعدد n
+resistive sensor	مُستشعر مُقاوم
+resistive stress grader	مدرج للإجهاد بتغييرالمقاومة
+resistive two-terminal element	عنصر مقاوم ثنائي الأطراف
+resistive, adj	مقاوم
+resistivity	مقاومية / مقاوميَة / مقاومة نوعية
+resistivity index	قرينة المقاومية
+resistivity log	سجل المقاومية، مخطط المقاومية
+resistivity survey	مَسْح المقاومية
+resistor	مقاوم / مقاومة
+resistor block	مجموعة مقاومة
+resistor capacitor Low-pass filter	مُرشِّح مُقاومة – مُكثِّف لتمرير الترددات المنخفضة
+resistor case; resistor frame	علبة مقاومة
+resistor element	عنصر مقاوم
+resistor section	مقطع مقاومة
+resistorx	بروفيل 'ريزيتوركس'
+resojet	محرك نفاث نبضي رنّان
+resolution	درجة الاستبانة / قرار توجيهي / ارتياب أصيل / اقل تغير اعتباري (درجة الوضوح)
+resolution (in digital processing)	الوضوح (فى المعالجة الرقمية)
+resolution chart	مخطط الدقة
+resolution test chart	مخطط اختبار درجة الوضوح
+resolution; resolving power	اقل تغير اعتباري (درجة الوضوح)
+resolutions of intergovernmental organizations	قرارات المنظمات الحكومية الدولية كمصدر للقانون الدولي للمياه
+resolvent	مذيب
+resolver (in the Internet)	المصرف (فى الإنترنت)؛ الرابط (فى الإنترنت)
+resolving power	قدرة التمييز
+resolving time	زمن التحليل
+resonance	رَنِين / رنين / طنين
+resonance (absorption) isolator	عازل تدوير الموجة / عازل (امتصاص) رنين
+resonance (method of) measurement	القياس (بطريقة) النقر
+resonance frequency	تردد الرنين / تردد رنين
+resonance frequency (in a cavity resonator)	تردد الرنين ( في مِرنان تجويف)
+resonance frequency,	تردد الرنين
+resonance line	خطوط الرنين
+resonance resistance	مقاومة الرنين
+resonance state	حالة رنين
+resonance test	اختبار الرنين
+resonant circuit	دائرة رنين
+resonant converter	مغير رنيني
+resonant duct	مجرى رنّان
+resonant earthed (neutral) system; arc-suppression-coil-earth (neutral) system	نظام تأريض رنان
+resonant earthed system; resonant grounded system, US	نظام تأريض رنان
+resonant frequency	تردد الرنين
+resonant impedance bond; tuned impedance bond	رابط معاوقة الرنين
+Resonant Inductive Wireless Charging (RIWC)	الشحن اللاسلكي بالرنين
+resonant inverter	عاكس رنيني
+resonant iris; resonant window	قوس رنيني
+resonant mode filter	مرشح نمط رنيني
+resonant overvoltage	جهد زائد رنينى, ارتفاع جهد رنينى
+resonant pulsejet	محرك نفّاث نبضي رنّان
+resonant topology	طوبولوجيا الرنين
+resonator filter	مرشّح الرنان؛ فلتر الرنان
+resorcinol glue	غراء مانع للعفونة
+resource	مَورِد / مصدر / مورد
+resource (natural resource)	مصدر (مصدر طبيعي)
+Resource Assessment	تقييم الموارد
+resource assessment,	تقييم بيانات الارصاد,
+resource characterization	تحديد خصائص بيانات الأرصاد
+resource deterioration	تدهور الموارد
+resource distribution	توزيع الموارد
+resource management	إدارة الموارد
+resource management, sustained	إدارة (ال...) المستدامة للموارد
+resource protection	حماية الموارد
+resource record (in the Internet)	سجل المصدر (فى الإنترنت)
+resource recovery	استرداد الموارد
+resource,	مصدر,
+resource-efficiency	كفاءة الموارد
+resources	موارد
+respiration	تَنُّفس / تنفس
+respiration rate	سُرعة التنفّس
+respiration, anaerobic	تنفس لاهوائي
+respiration, endogenous	تنفُّس باطنيّ (تأكسد تلقائي) / تنفُّس باطنيّ
+respiratory exchange storage	خزّان التنفس الغازي
+responder	مُستجيب / مُستقبِل
+responsability	مسؤولية
+response	استجابة / إستجابة / إجابة
+response (in a computer conference)	استجابة (فى مؤتمر عبر الحاسب)
+response diversity	تنوع الاستجابة
+response indicators	مؤشرات استجابة
+response sensitivity responsiveness responsivity	حساسية الاستجابة
+response time	مدة الاستجابة / زمن الاستجابة
+response time,	زمن إستجابة, / زمن الإستجابة
+response to disturbances in the frequency domain	إجابة على الاضطرابات في المجال الترددي
+responser	مُستقبِل وعارض الاستجابة
+responses	ردود
+responsibility	مسؤولية
+responsibility (liability, accountability)	مَسْؤولية
+responsible agriculture	زراعة مسؤولة
+responsible tourism	سياحة مسؤولة
+responsiveness	استجابة
+responsivity	إستجابة
+responsivity, ; DEPRECATED: sensitivity	استجابة
+rest / support	دُعامة (هندسة)
+rest and de-energized	متوقف ومفصول كهربائيا
+rest area	بَاحَةُ الاستراحة
+rest energy	طاقة فى وضع السكون / طاقة السكون
+rest frequency	تردد الراحة ( السكون )
+rest mass	كتلة السكون
+rest mass; proper mass	كتلة فى وضع السكون؛ كتلة صحيحة
+rest period	فترة الراحة
+rest position	وضع السكون
+restart	البدء ثانيةً
+restart capability	المقدرة على إعادة البدء
+restart time	فترة إعادة البدء
+restart time (in telecontrol)	زمن البدأ
+restaurant	مطعم
+resting area	محطة الاستراحة
+resting pool; resting basin	حَوْض راحة
+resting potential	جهد السكون
+restitution	إعادة / ارتداد
+restocking	إعادة تكوين المخزون
+restoration	ترميم / استعادة تطبيعية (الأراضي) / إستعادة
+restoration ecology	إيكولوجيا الترميم
+restoration of supply	إعادة الإمداد بالطاقة
+restoration plantation (restoration planting)	ترميم غابات (غرس ترميمي)
+restoration process,	عملية الاسترجاع, ؛ عملية الاستعادة
+restoring couple	مزدوجة الاستعادة
+restoring force	قوة الإستعادة
+restoring moment	عزم الإستعادة / عزم الاستعادة
+restoring torque	عزم حركة
+restrained aircraft	طائرة مُقَيَّدة
+restrained pipeline	خطّ أنابيب مقيَّد
+restraint	تقييد
+restraint bearing	حَامِل القَيد
+restrict (to) output (or procution)	حصر الانتاج
+restricted access area	منطقة مقيدة الوصول
+Restricted Activities	الأنشطة المحظورة
+restricted airspace	مجال جوي مُقَيَّد
+restricted approach boundary (RAB)	حدود الاقتراب المقيد
+restricted burning	احتراق مُقَيَّد
+restricted cargo	حُمولة مُقَنَّنة
+restricted conference call	مكالمة مؤتمر مقيدة ( لمشتركين محددين )
+restricted data	معلومات محظورة
+restricted earth-fault protection; ground differential protection (US)	حماية عطل أرضي مقيد
+restricted fire plan	مخطط نيران مُقَيَّد
+restricted hour tariff	تعرفة ساعية مقيّدة
+restricted propellant	وقود صاروخي مُقَيَّد
+restricted service	خدمة مقيدة
+restricted switch	مفتاح تقييد
+restricted thickness pavement	رَصِيفٌ مَحدُودُ السُّمك
+restricted traffic	مرور مُقَنَّن
+restricted waste	نفايات خاضعة للرقابة
+restricted-breathing enclosure "nR"	حاوية غير قابلة للتنفيس
+restriction / limitation	قُيود
+Restriction of Hazardous Substances	تَقْيِيدُ المَوادِّ الخَطِرَةِ
+restrictor	مُقَيِّد
+restrike (of an AC mechanical switching device)	اعادة القدح لجهاز وصل وفصل ميكانيكي ذو تيار متردد (مباشرة بعد قطع الدائرة)
+restriking voltage	جهد اعادة القدح
+Restructuring Plan of Electricity Sector	خطة إعادة هيكلة قطاع الكهرباء
+resultant	مُحَصِّلة
+resultant colorimetric shift	إنحراف فى القياس الناتج
+resultant colour shift	إنحراف ناتج لون
+resultant wastewater	حِصّة مياه الصرْف الصحيّ الناتجة عن مكان ما
+results, records and recommendations	النتائج والسجلات والتوصيات
+resurfacing	إعادة كساء السطح
+resurgent stream	ينبوع
+Reswick	ريسفيك
+Ret	تعطين
+retail	بيع التجزئة
+Retail Charging	الشحن بالتجزئة
+retail site	محطة التجزئة
+retail store	متجر بيع بالتجزئة
+retained earnings	أرباح محتفظ بها
+retained water; attached ground water	مياه مُعلَّقة
+retaining bracket	زاوية تثبيت
+retaining clip	مِشْبَك تثبيت / قامِطة تثبيت
+retaining clip; shackle	قنطرة تثبيت
+Retaining Collar	حلقة التثبيت
+retaining device	أداة إحتجاز
+retaining wall	جدار استنادي / حائط ساند / جدار ساند، جدار دعم
+retard	يُؤَخِّر
+retardation probe	مِسْبَر التعويق
+retardation test	اختيار التناقص
+retarded bomb	قنبلة مُعَوَّقة
+retarded ignition	تأخّر الاشتعال / إشعال مُتأخر
+retarder	مُقاصر / فرملة عاملة بالضغط الدينامي / مقاصر / مُؤخِّر تصلُّب / مؤخِّر، عامل مؤخِّر
+retarder of setting	مبطئ للشك
+retarder parachute	مظلة مُعَوِّقة
+retarding basin	حوض الحد من التدفق
+retarding brake	كابح معوّق
+retarding-disc conveyor	ناقل ذات أقراص مثبطة
+retention	احتجاز / احتباس الماء / استبقاء / احتفاظ
+retention / water-retaining capacity / water storage efficiency	كِفاية تخزين المياه
+retention basin	حَوْض إعاقة
+retention period / detention time	مُدة الاحتجاز
+retention period; detention time	مدة الاستبقاء
+retention pond	بِرْكَة احتجاز
+retention time	زمن الاحتجاز / زمن احتجاز (الغاز)
+retention time / detention period	زمن الاحتجاز
+retention time / residence time	زمن المكوث
+retention; uptake	احتباس
+retentivity	مغنطيسية متبقية
+Reticella	ريتسيل
+reticle	شُبَيْكة
+reticulate	شبكي
+reticulated	متشابك
+reticulated work	حائط معيني
+reticulation	تجعّد
+retiming	إعادة ضبط التوقيت
+retina	شبكية العين
+retinal burn	حرق الشبكية
+retinal hazard spectral region	المنطقة الطيفية الخطرة على الشبكية
+retinal thermal hazard	الخطر الحرارى على الشبكية
+retinal thermal hazard spectral weighting function	دالة التوازن الطيفي للخطر الحرارى على الشبكية
+retinal thermal injury	الضرر الحرارى للشبكية
+retinal thermal radiance	الإشعاع الحرارى الخطر على الشبكية
+retired embankment	سِدٌّ تُرابيّ احتياطيّ
+retirement life	عُمْر التقاعد
+retort	معوجة
+retouching	تهذيب
+retrace	رجوع
+retrace characteristics	خصائص الإرتداد
+retractable	انضمامي / انكماشي
+retractable core barrel	أسطوانة تقرير قابلة للسحب، أنبوب اعتيان قابل للسحب
+retractable hard top (RHT)	سقف صَلب قابل للإزالة (RHT)
+retraction lock	قَفْل الانضمام
+retraction process	عملية سَحْب الأنابيب
+retraining pin	مسمار احتجاز، مشبك تثبيت
+retread	تجديد الإطار
+retreading (pavement)	تَهذِيب (الرصيف)
+retreating blade	ريشة راجعة
+retrievable packer	حشوة يمكن استعادتها
+retrieval (in common channel signalling)	الإسترجاع (في تأشير في قناة مشتركة)
+retrieval of stored call content	استرجاع تخزين محتوى النداء
+retriggerable interval relay with control signal off; fleeting off delay relay	مُرَحِّل تأخير سريع للفصل؛ مُرَحِّل فترة اعادة قدح ذو اشارة تحكم عند الفصل
+retriggerable interval relay with control signal on; watchdog relay	مُرَحِّل مراقبة (مُرَحِّل كلب الحراسة)؛ مُرَحِّل فترة اعادة قدح ذو اشارة تحكم عند التوصيل
+retro look	طراز رجعي
+retro-reflective sensor/ reflective mode photoelectric sensor	حساس ضوئي انعكاسي
+retrofire	إشعال كابح
+retrofit	تعديل رجعيّ / تعديل تحديثي / تعديل ملائم / إجراءات إصلاحية
+retrofitting	تعديل تحديثي / تزويد بتعديلات لاحقة
+retrograde	عَكْسي
+Retrograde Gas Condensate	مكثف الغاز العكسي / كثافة الغاز العكسي
+retrograde metamorphism	تحوُّل تراجُعيّ
+retrograde movement	حركة تراجعية
+retrograde orbit (of a satellite)	مدار تراجعي (لقمر صناعي)
+retrogression of levels	انخفاض مُستوى الماء
+retrogressive landslide	انزلاق أرضي متلاحق
+retroreflectance	الإنعكاسية الخلفية؛ الانعكاسية الارتجاعية
+retroreflection	إنعكاس خلفى؛ انعكاس ارتجاعي / انعكاس تراجعي
+retroreflective element	عنصر عاكس
+retroreflective material	مادة عاكسه إرتجاعية
+retroreflector	سطح إنعكاس خلفى؛ سطح انعكاس ارتجاعي
+retroreflector,	عاكس مرجعى, الكشف عن الغاز
+retrosequence	تسلسل الكبح
+retrothrust	دفعٌ كابح
+return	خط العودة
+return (finan.) (return on interest = ROI) / yield (finan.)	ريع
+return activated sludge (RAS)	حمأة (ال...) المنشَّطة العائدة
+return activated sludge / sludge, return	حَمْأَة مُنشطة راجِعة
+Return air	هواء عائد
+return attenuation	توهين الراجع
+return cable; track negative cable	كبل التيارالراجع
+return channel; receive channel	قناة استقبال
+return circuit	دائرة الرجوع
+return conductor	موصل راجع
+return conductor rail; return current rail	حاجز موصل راجع
+return feeder; negative feeder	تغذية راجعة
+return flow	جريان عائد
+return flow / regeneration	تَدفُّق مُرتَد
+return flow from sludge treatment (sludge liquor)	مياه عكرة من معالجة الحمأة
+return flow measuring device	جهاز قياس كمية التدفق الراجع
+return information (in telecontrol)	معلومات حدث
+return light	ضوء الرجوع
+return line	خط عائد / أنبوب الرجوع
+return link (from a space station)	وصلة راجعة ( من محطة فضائية)
+return link (in mobile satellite communication)	وصلة راجعة (في اتصالات الاقمار الصناعية المتنقلة)
+return load	حمل عائد
+return loss	فقد رّاجع
+return on capital employed	عائد على رأس المال المستخدم
+Return on Equity	عائد على حقوق الملكية
+return on investment	عائد الاستثمار
+return period (or recurrence interval)	فترة الرجوع
+return ramp	محطة الرجوع/ العودة
+return seepage	تسرب (ال...) الراجع
+return seepage dike	حاجز التسرب الراجع / سد التسرب الراجع
+return seepage polder	منخفض (بولدر) التسرب الراجع
+return spring	ياى إرجاع / نابض إرجاع
+return switching signal	إشارة فصل ووصل راجعة
+return ticket	تذكرة ذهاب وإياب
+return water piping	أنابيب الماء الراجع
+return-flow combustor	حارق الجريان العائد
+return-sludge solids concentration	مُحتوى المواد الجافة في الحمأة الراجعة
+returning energies	طاقات راجعة (صدى)
+reusable bag	جُلَّة
+reusable insulation piercing connecting device; reusable IPCD	أداة توصيل ثاقبة للعزل ومتكررة الاستخدام
+reusable pavement	رَصِيف مُتَكَرِّر الاستِخدَام
+reusable twist-on connecting device	أداة توصيل لولبية متكررة الاستخدام
+reusable, adj	قابلة لإعادة الاستخدام, صفة
+reuse	إعادة استخدام / إعادة استعمال
+Reutlingen fibers board	لوحة الألياف-روتلنغن
+Reutlingen pill grade	جهاز رويتلنجن لقياس درجة التحبب
+rev limiter	مُحدد سرعة الدوران
+revaporiser (AC) [UK] / revaporizer (AC) [US]	مبخر لاحق (مكيف الهواء)
+reveal	حافة الجدار
+reveal (of window)	أَجْنَة
+revealed preference	تفضيل ظاهر
+revegetation	إعادة غطاء نباتي
+revenue	عائدات / إيراد
+revenue empty	إيرادات ناتجة عن إعادة تموضع الحاويات الفارغة
+revenue losses in transport associations	خسائر الإيرادات في جمعيات النقل
+revenue ommission according to energy act § 19 para. 2	إلغاء الإيرادات حسب المادة 19 الفقرة 2 من قانون الطاقة
+revenue per passenger mile (RPM)	عائد المسافر في الكيلومتر
+revenue sharing	تقاسم العائدات
+revenue vessel	سفينة خفر السّواحل، خفارة جمركية
+revenues	إيرادات
+Revenues (for railway enterprises)	عائِداتُ شَرِكاتِ النَقْلِ بِواسِطَةِ الخُطُوْط الحَدِيدِيَّةِ
+reverberant sound field	مجال صوتي ترددي ( ذو صدى )
+reverberation	ترداد / انعكاس - ارتداد / إصداء / ترجيع / ترديد
+reverberation chamber; echo chamber (deprecated)	غرفة الترداد
+reverberation plate	لوحة ترداد
+reverberation room	غرفة الترجيع - غرفة رجع الصدى
+reverberation time	زمن رجع الصدى - زمن الترجيع / زمن الترديد
+reverberation time; RT (abbreviation)	زمن الترداد
+reverberation,	صدى الصوت
+reverberation-limited condition	حالة محدودة الصدى
+revers collar	ياقة التلبيب
+reversal by contact	قلب بالتلامس
+reversal by projection	قلب بالإسقاط
+reversal charge	الشحن العكسي
+reversal of cell polarity	تَبَدُّل أقطاب الخلية
+reversal of direction	عكس الاتجاه
+reversal of the relief	انقلاب اتجاه التضاريس
+reversal of the telescope	قَلْب النظارة
+reversal point	نقطة الانعكاس
+reversal process	عملية تصوير انعكاسي
+reversal speed	سرعة الانعكاس
+reversal; reversion	عَكْس
+reversals	انعكاسات
+reverse annular combustion chamber	غرفة إحتراق معكوسة و مستديرة
+reverse automatic braking system indicator	ضوء نظام الفرملة التلقائية عند الرجوع للخلف
+reverse blindness	عَمَى العَكْس
+reverse blocking diode thyristor	ثايرستورذوصمام ثنائى مقفل عكسي
+reverse blocking interval; inverse period	فترة الحجب العكسي
+reverse blocking state	حالة إعاقة عكسية
+reverse blocking state (of a reverse blocking thyristor)	حالة الايقاف العكسي (لثايرستور المنع العكسى)
+reverse blocking triode thyristor	ثايرستور ثلاثى الاقطاب مقفل عكسي
+reverse blocking valve device	جهاز صمام بإعاقة عكسية
+reverse breakdown	انهيار عكسي
+reverse chain matrix	مصفوفة سلسلية عكسية
+reverse circulation	جريان عكسي
+reverse circulation junk basket	أداة التقاط القطع الصغيرة بقلب دورة الطين، سلة السقط في الجريان العكسي
+reverse circulation junk basket parts	أجزاء سلة السقط في الجريان العكسي
+reverse compatibility (in television)	توافق عكسي (في التلفاز)
+reverse conducting diode thyristor	ثايرستر التوصيل العكسى ثنائى القطب
+reverse conducting triode thyristor	ثايرستر التوصيل العكسى ثلاثى القطب
+reverse contact	ملامس عكسى
+reverse control	التحكم العكسي
+reverse current	تيار ارتدادي
+reverse current release (direct current only)	اعتاق بإنعكاس التيار
+reverse curve	منحنى متعاكس
+reverse direction	اتجاه عكسى
+reverse direction (in a circulator or isolator)	اتجاه عكسي ( في مدور أو عازل)
+reverse direction (of a PN junction)	اتجاه عكسى(لوصلةPN)
+reverse direction (of an isolator or a circulator)	إتّجاه أمامي (لعازل أو ممرّر)
+reverse electrode current; inverse electrode current (US)	تيار القطب الكهربائي العكسيِ
+reverse fault; compression fault	صدع انضغاط
+Reverse Fuel Cell (RFC)	خلية وقود عكسية
+reverse idle	دفع خامل عكسي
+reverse load charge	طريقة شحن توزع نبضات التفريق بين نبضات الشحن
+reverse logistics	خدمات لوجستيكية عكسية
+reverse loss	فقد (إضعاف) أمامى
+reverse loss (in a circulator or isolator)	فقد عكسي ( في مدور أو عازل)
+reverse motion	حركة عكسية
+reverse osmosis	تَناضُح عكسيّ / تناضُحية عكسية / تناضح عكسي / تناضح/نضح عكسي
+reverse osmosis (RO)	المعالجة التناضحية العكسية / تناضُح عكسيّ
+reverse osmosis plant	محطة التناضح العكسي
+Reverse Osmosis Technology (RO)	تقنية التناضح العكسي
+Reverse Osmosis Water Purification Units (ROWPUs)	وحدة تنقية المياه بالتناضح العكسي
+reverse osmosis, (R.O.)	حلول عكسي
+reverse pitch	خطوة عكسية
+reverse plaiting plating	تَلْبيس عكسي
+reverse plating	تكسية عكسية
+reverse polarity voltage	جهد بقطبية عكسية
+reverse position	وضع عكسى
+reverse recovery time	زمن استعادة عكسى
+reverse relative tape efficiency	كفاءة الشريط النسبية العكسية
+reverse route	عكس الطريق
+reverse scavenging	كسح عكسي
+reverse sequence operation	عملية ذات تتابع عكسي
+reverse slow motion	حركة بطيئة عكسية
+reverse thrust	دفع عكسي / دفعٌ عكسي
+reverse time paths	زمن الارتداد
+reverse transfer admittance	سماحية نقل عكسى
+reverse transfer impedance	معاوقة نقل عكسي
+reverse transfer ratio	نسبة نقل عكسي
+reverse turn; reversement	لفة معكوسة
+reverse-flow combustor	حارق الجريان المعكوس
+reverse-flow engine	محرك الجريان المعكوس
+reverse-flow region	منطقة الجريان المعكوس
+reversed controls	تحكم معكوس
+reversed image	صورة منقلِبة
+reversed power supply	تغذية معكوسة
+reversed rolling moment	عزم عُطوف معكوس
+reverser	جهاز الفرز / عاكس
+reversible	عكوس
+reversible antenna	هوائى قابل للعكس
+reversible bedding	ملاءات الأسِرَّة
+reversible converter	مغير قابل للعكس
+reversible fabric	قماش مزدوج
+reversible hinge	مفصلة ثُقلب
+reversible hydroelectric set	مجموعة كهرومائية عكسية
+reversible jacket / reversible coat	سترة قَلاّبة، معطف قَلاّب
+reversible level	زئبقية منقلِبة
+reversible loss of soil	فقدان رجعي للتربة
+reversible output current	تيار خرج
+reversible permeability	نفاذية تزايدية (نفاذية بمجال استاتيكي متراكب)
+reversible process	عملية عَكُوسة / عملية عَكوسة
+reversible propeller	داسر انعكاسي
+Reversible Reaction	التفاعل العكسي / تفاعل كيميائي عكسي
+reversible train	قِطَار دفع وجذب
+reversible transducer	محول إشارة عكوس
+reversible working; two-way working	تشغيل عكسى
+reversing	عكس الاتجاه
+reversing lamp [UK] / back-up light [US]	مصباح الرجوع للخلف
+reversing layer	طبقة عاكِسة
+reversing lever	ذراع عكس الحركة
+reversing light; backup light	ضوء عكسى
+reversing mechanism (ETS/MTS)	تجهيزة ارتدادية (لنظاميّ ETS/MTS)
+reversing switch	مفتاح عاكس
+reversing switch (ETS/MTS)	مفتاح ارتدادي (لنظاميّ ETS/MTS)
+reversing tool	أداة عَكُوس، أداة لعكس الحركة
+reversing track loop	حلقة منعكسة
+reversing unit	وحدة عكس الحركة
+reversing valve for cooler exhaust gas recirculation	صمام تحويلة رادياتير منظومة إعادة تدوير العادم
+reversion	ارتداد
+reversionary facility	وسيلة عَكْس
+reversionary mode	نمط عَكْسي
+revert reverse voltage	جهد الإرجاع العكسي
+revert reverse, verb	يعيد عكسياً
+revert voltage	جهد الإرجاع
+revert, verb	يرجّع، يعيد
+revetment	طبقة حماية / جدار واقي
+revetments	جدار احتجاز
+Review	مُراجَعَةٌ
+review of commitments	مراقبة الالتزامات
+review; control; check	تَفْتيش
+revised proofs	تجارب مراجعة
+revision	تَعْديل / مراجعة
+revision clause	بند مراجعة
+revision of pipes	إعادة فحص الأنابيب
+revival	إنعاش
+revival of traditional agriculture	إحياء الزراعة التقليدية
+Revoking	إلغاء
+revolution	دورة
+revolution counter	عداد الدورات / عدّاد الدورات
+Revolutions Per Minute (RPM)	الدوران في الدقيقة / دورات في الدقيقة (RPM)
+revolving	دوّار
+revolving chair	كرسي دوّار
+revolving crapming apparatus	جهاز تثبيت دوّار
+revolving door	باب دوّار
+revolving-field machine	ماكينة القطب الداخلي
+rewaxing	تشميع بعدي
+rewinding	اعادة لف
+rewirable accessory	ملحقة يمكن استبدال أسلاكها؛ قطعة تكميلية يمكن استبدال أسلاكها
+reworking a well	إعادة تشغيل البئر
+Rexor®	أشرطة ريكسور ®
+Reynolds number	عدد رينولدز / عدد (كمية) رينولدز / رقم رينولدز
+Reynolds stress	إجهاد رينولدز
+Reynoldsnumber	عدد 'رينولدز'
+Reynold’s number	عَددُ رينولدز
+RF joint	وصلة RF
+RF wattmeter	عداد قدرة الترددات اللاسلكيه
+RFID antenna	هوائي RFID
+RFID Card	بطاقة RFID
+RFID reader	قارئ RFID
+RFID transponder	RFID مستجيب
+RGB Color Chart for EVs	مخطط ألوان RGB للسيارات الكهربائية
+rhadamé	راداميه
+rheniformer	مُصْلِح بالرنيوم
+rheobase	حد أدنى لتيار الإثارة
+rheology	علم التدفق، علم الانسياب
+rheophyte	نباتات المياه الجارية
+rheostat	مقاومة متغيرة / معدّلة
+rheostatic brake; dynamic brakes	فرامل دينامية
+rheostatic braking	كبح بمعدّلة
+rheostatic control	تحكم بمعدّلة
+rheostatic rotor starter	بادئ حركة العضو الدوار ريوستاتى
+rheostatic starter	بادئ حركة ريوستاتى / مقلع بمعدّلة
+rhizobia	ريزوبيا
+rhizoid	روابط خيطية
+rhizome	جذمور
+rhizosphere	مجال الجذور
+rhodes stitch	غرزة رودس
+rhodochrosite	رودوكروسايت
+rhodonite	رودونايت
+rhodophycae	طحالب حمراء
+rhombic	معيني
+rhombic aerial	هوائي مُعَيَّني
+rhombic antenna	هوائي على شكل معين
+rhombic dodecahedron	اثنا (ال..) عشري المعيني
+rhombohedron	معيني الأوجه
+rhombus	رُومب
+rhombus wing	جناح مُعَيَّن
+Rhovyl fibers	ألياف الروفيل
+RHT (retractable hard top)	سقف صَلب قابل للإزالة (RHT)
+rhumb line	خط متساوي الميل
+rhumb-line course	مسار خط الاتجاه الثابت
+rhumbatron	مِرْنان مُجَوَّف
+rhyolite	ريولايت
+rhythmic light	ضوء إيقاعى
+rib	تضليعات / ضِلْع / عصب / مزلاق
+rib / burr	قماش ريب
+rib fabric / rep weave fabric	قُماشٌ مُضلّع
+rib-knitted fabric / double face fabric	محبوكات يمين/ يمين
+ribbed electrode	إلكترود ذو تجاويف
+ribbon	خيوط غزل شريطية / ربطة / شريط حبري
+ribbon cable	كابل شريطي
+ribbon embroidery	تريكو ذو أشرطة
+ribbon microphone	ميكروفون شريطي
+ribbon parachute	مظلة شريطية
+ribbon saw	منشار شريطي
+ribbon spray	رذاذ شريطي
+ribless cord	قطيفة دون تضليعات
+ribosomes	الريبوسوم
+ribs in a wall	سورة
+rice paper	ورق صيني
+rich	غنيّ
+rich country in raw material	بلد غني بالمواد الخام
+rich eXtinction	انطفاء المزيج الغني
+Rich Gas	غاز ثقيل الامتصاص مشبع بالمكثفات / غاز (ال..) الغني
+rich mixture	خليط غني / مزيج غني
+Rich Oil	زيت الامتصاص الثقيل / زيت الامتزاز الغني
+rich oil-lean oil exchanger	مبادل الحرارة بين زيت امتصاص (زيت فقير) و زيت امتزاز (زيت غني)
+Richardson constant	ثابت ريتشاردسون
+richter scale	سلم ريختر
+richterite	ريشتيرايت
+riddle	غربال
+ride	طريق غير معبدة
+ride comfort	الراحة أثناء القيادة / رفاهية القيادة / الانتشاء أثناء القيادة
+ride comfort control system	نظام التحكم في وسائل الراحة أثناء القيادة
+ride control	تحكم الركوب
+ride on request	ركوب عند الطلب
+ride stability	اتزان القيادة
+Ride-Hailing	خدمة طلب السيارات في الأسواق غير المخدومة
+riders slit	شق مركزي
+ridership	نظام ركاب المواصلات العامة
+ridge	حرف
+ridge board	لوح التغطية
+ridge capping (ridge covering)	غطاء الحرف
+ridge girder	عناصر حَرْفية
+ridge piece (or ridge-pole)	حاملة الروافد، عارضة الزروة
+ridge push	دفع الصهارة
+ridge roof	سقف مسنّم
+ridge tile	بلاط قُمِّية، قرميدة قمية
+ridge till	حرث قممي
+ridge waveguide	دليل موجة مضلّع
+ridge-and-furrow drainage	صَرْف بطريقة المُتون والأخاديد
+ridge-tile	كُوّة في السقف
+ridged horn (antenna)	هوائي البوق المنحرف
+ridging	نُتُوء
+riding blouse	كنزة الفروسية
+riding cloth	قُماش الخيَّالة
+riding coat	معطف الفروسية
+riding corduroy	تضليع خيالة
+riding jacket	سترة ركوب الخيل
+riding jacket / hunting jacket	سترة الفروسية
+riding lights	أنوار الركوب
+riding quality	جودة المركب
+riding the clutch	استمرار ضغط القابض
+rift	انهيار
+rift saw	منشار الشّق
+rift sawing	نشر فالق
+rift zone	منطقة انهيار
+rig	تجهيزات / يضبط الطائرة / يُعدّ / يُهيئ / برج الحفر / برج حفر (مجموعة أجهزة وحدة الحفر)
+rig builder	باني أبراج الحفر
+Rig Count	عدد الحفارات
+rig fixer	مُثبِّت منشأة الحفر
+rig floor; derrick floor	قاعدة جهاز الحفر، أرضية منشأة الحفر، أرضية برج الحفر
+rig front	واجهة منشأة الحفر
+rig helper; roughneck	عامل حفر
+rig operations	عمليات الحفر
+rig power	قدرة محركة لأجهزة الحفر
+rig register	سجل برج الحفر
+rig time	زمن الحفر
+rig up	تركيب منشأة الحفر و ومعداتها
+Riggenbach's counter-pressure brake	فرامل ضغط مضاد
+rigging	إعداد
+rigging angle of incidence	زاوية السقوط المضبوطة
+rigging band	رباط حبال الصواري
+rigging down	فك معدات الحفر
+rigging patch	أسلاك حبال الصواري
+rigging position	وضْع الضَبْط
+rigging tab	سُطيح ضَبْط
+rigging; rigging lines	حبال الصواري
+rigging; trim; tuning	ضَبْط
+right (stereophonic) signal; B signal	إشارة (مجسّم الصوت) يمنى
+right angle	زاوية قائمة
+right angle grinder	مسحاج زاوي
+right angle prism	مَوْشور قائم الزاوية
+right barrier	حاجز محكم
+right hand drive	سياقة على اليمين
+right hand drive symbol (RHD)	رمز يشير إلى أن عينة القيادة (طارة الدركسيون) جهة اليمين
+right hand position (of point or scissors)	موقف أيمن (نقطة أو مقص)
+right hand side	جانب أيمن
+right lay rope	حبل مضفور إلى اليمين، حبل مفتول إلى اليمين
+right of connection	حَقُّ التوصيل
+right of veto	حقّ الفيتو
+Right of way	حرم الطريق / حق المرور
+right of way crew	فرقة إعداد حق المرور
+right of way shared with street traffic	خارطة الطريق
+right sock	جورب الجهة اليمنى
+right to food	الحق في الغذاء
+right to inspection	حقّ الإطّلاع
+right to remuneration	حقّ أتعاب
+right wind	ريح يمينية
+right-angled drive	تعشيق بزاوية قائمة
+right-eye stereoscopic television picture	صورة التلفاز التجسيمي للعين اليمنى
+Right-Hand Drive Symbol (RHD)	رمز القيادة اليُمنى
+right-hand polarization; clockwise polarization	إستقطاب يد يميني؛ إستقطاب فى اتجاه عقارب الساعة
+right-hand polarized wave; clockwise polarized wave	موجة مستقطبة باتجاه اليمين
+right-hand rotation	دوران يميني
+right-hand rule	قاعدة اليد اليمنى / قاعدة اليد اليُمنى
+right-hand twill	تضليع متعرج
+right-handed dextrocrystal	بلورة يمينية
+right-side failure	عطل لا يؤثر على السلامة
+rightmost position (of a turnout/point)	موقف متواجد في أقصى اليمين
+rights	حقوق
+rights of access to water	حُقوق استعمال المياه
+rights on the ground	واجبات ميدانية
+rigid airship	منطاد صَلْب
+rigid boundary channel	مجرى جسيئ الحدود
+rigid busbar	قضيب تجميع صلب
+rigid conduit	ماسورة صلبة
+rigid double-sided printed board	لوحة صلبة مطبوعة على وجهين
+rigid foundation	أساس صلب
+rigid frame	إطار صُلْبٌ / هيكل صَلْب
+rigid insulator	قارنة غطاء ولسان
+rigid laminated sheets	ألواح الشرائح الصلبة
+rigid mica material	مادة مايكا صلبة (بلق)
+rigid multilayer printed board	لوحة صلبة مطبوعة متعددة الطبقات
+rigid pavement	قَارِعَةٌ جَاسِئَةٌ / طُرُق مرصوفة صلبة / رصفة صلبة
+rigid printed board	لوحة مطبوعة صلبة
+rigid rotor	دوّار جاسئ / دوّار صلب
+rigid single-sided printed board	لوحة صلبة مطبوعة على وجه واحد
+rigid support	دعامة صلبة
+rigid transmission	نقل ميكانيكى
+rigid-frame loco	قاطرة ثابتة الإطار
+rigidity	صلابة / جُسوءة
+rigidity modulus	مُعَامِل الصلابة
+rigidity; solidity; stiffness	صلابة
+rill	مجرى مائي صغير / حَزّ
+rill erosion	تآكل مجرى مائي صغير
+rill marks	علامات الغدير، آثار الموج
+rilling	جريان متعدد المسارات
+rim	جنط / طوق
+rim (reservoir)	حافة الخزان
+rim band	طوق الجنط
+rim designation	رموز تمييز الجنوط
+rim expander	موسِّع الإطار
+rim hump	حدبة اطار العجلة(حتار الخارجي)
+rim lock	قفل معلّب
+rim materials	مواد صُنْع الجنوط
+rim of the wheel	حافة العَجَلَة
+rime	صَريد / ضَريب
+rime frost	صَقِيع حُبَيبِي
+rind	قشرة
+ring	حلقة / موصل معلومات حلقى / طَوق
+ring (or cyclic) compounds	مركبات حلقية
+ring and bead sight	مهداف الحلقة والقمحة
+ring auger bit	نصلة حلقية
+ring barking	إزالة حلقة لحاء
+ring beam	جائر حلقي
+ring beam; supporting ring	حَلْقة تثبيت
+ring bending tensile strength	مُقاوَمة انحناء الحلقة
+ring closing	إغلاق الحلقة
+ring dike	حاجز ترابي حلقي
+ring dike, temporary	سدّ حلقيّ (مؤقت)
+ring distribution system	نظام توزيع حلقي
+ring feeder; loop (deprecated in this sense)	مغذي حلقي
+ring follower gate	بوابة حلقية تابعة
+ring frame	هيكل حَلَقي
+ring gate	بوابة حلقية
+ring gauge	مُحَدِّد قياس حَلَقي
+ring girders	أطواق ربط، عوارض حلقية
+ring girts	عوارض حلقية
+ring groove	مجرى دائري، حز حلقي
+ring hanger	طوق تعليق
+ring joint flange	شفة بحلقة وصل
+ring line	خط دائري
+Ring Main Unit (RMU)	وحدة الربط الحلقي
+ring network	شبكة حلقية
+ring opening	فتح الحلقة
+ring operation of a part of a network	تشغيل حلقي لجزء من الشبكة
+ring operture	مَنْفَذ حلقي
+ring road	طريق دائري، طريق طَوْقِيٌّ / طريق دائري (حول مدينة)
+ring rolling	دلفنة الحلقات
+ring seal gate	بوابة ذات حابك حلقيّ
+ring sewer	حلقة صرف صحي
+ring shear apparatus	جهاز القص الحلقي
+ring spun denim	قماش دنيم حلقي
+ring stiffness	صلابة قطرية / صَلابة
+ring strenght	مُقاوَمة الحلقة
+ring substation	محطة ذات قضبان تجميع حلقية بسكاكين
+Ring System	نظام حلقي
+ring tension	شَدٌّ حلقي
+ring topology	الطوبولوجيا الحلقية
+ring topology; loop topology	البنية الحلقية
+ring wave	موجة حلقية (موجة جيبيّة مخمدة بقوّة)
+ring winding	لف حلقي
+ring yarn / ring-spun yarn	خيط حلقي، خيط مغزول حلقياً
+ring-and-ball test	اختِبَار الحَلَقَة والكُرَة
+ring-sail parachute	مظلة الشراع الحَلَقي
+ring-shaped electron gun	مدفع إلكتروني حلقي
+ring-slot parachute	مظلة الشَّق الحَلَقي
+ring-switch	مفتاح تبديل حلقي
+ring-tube combustion chamber	غرفة إحتراق حلقية
+ringing	رنين (لجرس)
+ringing (in telephony)	رنين (في المهاتفة)
+ringing (in television)	رنين (في التلفاز) )
+ringing tone; ringback tone (US)	نغمة رنين الجرس
+ringlets	أقمشة مخططة
+rinse water	مياه الكسح
+rio +20	ريو +20
+Rio briefs / Brazilian knickers	كلسون برازيلي
+Rio convention on biological diversity (1992)	اتفاقية ريو بشأن التنوع البيولوجي (1992)
+rio conventions	اتفاقيات ريو
+rio marker	علامة ريو
+riometer; relative ionospheric opacity meter	رايومتر
+rip panel	لوحة فَتْح
+rip rap	حجارة (ال...) المرصوفة / تبليط صخري
+rip-rap (rockfill) covered with grass / gravel lawn	عشب حصوي
+rip-stop	إيقاف التمزق
+riparian	مشاطئ
+riparian buffer zone	منطقة عازلة مشاطئة
+riparian management zone (rmz)	إدارة منطقة متشاطئة
+riparian rights	حقوق الجوار
+riparian zone	شريط ضفافيّ لمُسطح مائيّ / منطقة مشاطئة
+ripcord	حَبْل فَتْح
+ripped look	نمط الخروم والرقع
+rippels	تموجات
+ripper	مُنقِّبة
+ripping	نشر طولي / حرث عميق
+ripping chisel	إزميل خلع
+ripping saw	منشار الشق الطولي
+ripple	تموج / حلج / إنحراف دوري و/أو عشوائي / يُمَوِّج
+ripple cable	تجعد الحبل
+ripple content; alternating component	محتوى التموج (تموّج)
+ripple control	تحكم بالتجاعيد / تقنية التحكُّم التموّجي
+ripple harmonics of a rectifier	توافقيات التموجية لمقوم
+ripple index	قرينة التموج
+ripple mark	أخاديد الشاطئ
+ripple marks	عَلامات تَتابُع موجيّ
+ripple voltage	جهد التموج
+ripple voltage (on the DC side)	جهد تموج(على جهة التيار المستمر)
+ripples	تموُّجات
+ripples (of water) (pl.) / riffles (of water) (pl.)	تَتابُع موجيّ
+riprap	تدبيش / تكسية وقائية / دَكَّة حجرية / دَكَّة حِجَارَة / طبقة من الحجارة
+riprap / rockfill	دَكَّة حجرية
+rise and fall pendant luminaire	جهاز إضاءة ذو تعليق قابل للضبط
+rise in sea levels	ارتفاع مستوى سطح البحر
+rise of a bridge	ارتفاع الجسر، صعود الجسر
+rise time	زمن الصعود
+rise time (measuring arrangement)	زمن الصعود
+rise time (of a pulse)	زمن صعود (لنبضة)
+rise time,	زمن إرتفاع (النبضة) / زمن الرفع,
+riser	قائمة الدرجة / أنبوب قائم
+risers	أنابيب قائمة
+rising film evaporator	جهاز تبخير بفيلم صاعد
+rising groundwater levels	ارتفاع منسوب المياه الجوفية
+rising hinge	مفصلة والجة
+rising main	أنبوب طرد
+rising out of synchronism	تجاوز سرعة التزامن
+rising sea level	ارتفاع مستوى مياه البحر
+risk	خطر / خطورة / مخاطرة / خَطَر
+risk analysis	تحليل المخاطر
+Risk Analysis Process	تحليل المخاطر
+Risk Appetite Statement	بَيانُ قابِلِيَّةِ تَحَمُّلِ المُخاطَرَةِ
+risk assessment	تحديد الخطورة / تقييم المخاطر / تقييم الخطورة / تَقْيِيمُ الخَطَرِ
+risk assessment (epidemiological)	تقييم المخاطر (الوبائية)
+risk assessment (toxicological)	تقييم المخاطر (السمية)
+risk communication	تبادل المعلومات المتعلقة بالمخاطر
+risk estimation	تقدير المخاطر
+risk management	إدارة المخاطر / إِدارَةُ الخَطَرِ
+Risk Management Committee	لَجْنَةُ إِدارَةِ المَخاطِرِ
+Risk Management Department	دائرة المخاطر
+risk mapping	رسم خرائط المخاطر
+Risk Owner	مالِكُ الخَطَرِ
+risk perception	تصور المخاطر
+risk reduction	تخفيض مخاطر
+risk tradeoff	مقايضة مخاطر
+risk transfer	نقل المخاطر
+risk, residual / risk, remaining	مخاطرة متبقية
+risk-based concentration (rbc)	تركيز على أساس المخاطر (RBC)
+risk-benefit analysis	تحليل المخاطر والمنافع
+river	نَهْر / نهر
+river basin	حَوْض النهر / حوض نهر
+river basin / river catchment	حوض النهر
+river basin district	مِنطَقة حَوْض النهر
+river basin management	إدارة حَوْض النهر / إدارة مُستجمع النهر
+river basin management, sustainable	إدارة مُستمرة لحوض النهر
+river bed	سرير المجرى المائي / قاع نهر
+river bend	التواء النهر
+river bottom protection structure	مُنشأ حماية القاع
+river bottom ramp	مُنحدَر القاع
+river bottom sill	عتبة القاع
+river bottom slide	مُنحدَر القاع
+river bottom step	عتبة القاع
+river breathing	تَنُّفس النهر
+river capture; river piracy	أسر نهري
+river channel	مجرى مائيّ
+river clamps; weight clamp	أطواق (مشابك) للأنابيب المغمورة
+river current	تيار نهري
+river development	تطوير المُسطحات المائية
+river energy	طاقة تيارالنهر
+river energy converter; REC	محول طاقة تيارالنهر
+river gradient	مُنْحَدَر النهر
+river ice	جليد النهر
+river maintenance	صيانة المُسطحات المائية
+river mouth	مَصَبّ النهر / مصب نهر
+river pool	خندق مائي
+river power plant	محطة نهرية لتوليد الطاقة
+river stage	مِقياس النهر
+river system	نظام نهري
+river training	تصحيح مجرى نهر / تهذيب مَجرى النهر
+river training and control works	أعمال تهذيب مجرى النهر
+river valley	وادي النهر
+River water	مياه النهر
+river works development	هندسة الأنهار
+river, alluvial	نَهْر رسوبيّ
+river, incised	نَهْر قاعيّ
+river, mature	نَهْر راشِد
+rivers for tomorrow toolkit	مجموعة أدوات أنهار الغد
+rivet	برشام / دسار / برشامة
+rivet (t) ing-hammer	مطرقة الدّسر
+rivet gun	مِدْفَعَة برشام
+rivet hammer	مطرقة برشام
+rivet mandrel	مُمْسك البرشام
+rivet pitch	خطوة البرشمة
+rivet tool	ملقط برشمة
+riveted casing; stove pipe	أنابيب تبطين مُبَرْشَمَة
+riveted joint	وصلة ببرشامة
+riveting	برشمة / دسر
+riveting machine	آلة برشمة / آلة دسر
+riveting set	مجموعة برشمة
+riveting-hammer	مطرقة
+riving knife	سكّين الفلق
+rivnut	صامولة برشمة
+RMS amplitude permeability	نفاذية السعة
+RMS value, ; root-mean-square value, ; effective value	قيمة فعالة أو القيمة المؤثرة؛ قيمة الجذر التربيعى لمتوسط المربعات(2)
+RMS-ripple factor; relative ripple content	القيمة الفعالة لمعامل التموج؛ المحتوى النموذجى النسبى
+rms-sensing transducer	مُحوِّل قياس القيمة الفَّعالة / مُحول إشارة لتحسُّس القيمة الفعالة
+rna	ر ن أ
+RO design software	برنامج تصميم التناضح العكسي
+RO Membranes Unit	وحدة التناضح العكسي
+RO Membranes Vessels	حاويات أغشية التناضح العكسي
+RO skids and trains	سكك وزلاجات التناضح العكسي
+RO Stage	مرحلة التناضح العكسي
+ro-ro ramp	جهاز يكشف الطرق المنحذرة / منحدر متحرك أو بوابة
+Ro-Ro unit	وحدة الرورو
+roach	روش
+road	طريق / طَرِيق / طَرِيقٌ
+Road Asphalt	أسفلت للطرق / أسفلت للطرق، أسفلت الطرق
+road barrier	حاجز طريق
+road bed	كتلة / قاعدة طريق، سطح إنشاء طريق
+road bed (roadbed)	سرير الطريق
+road bed, permanent way	سكة حديدية
+road bed, track bed	فرش السكك الحديدية (الصابورة)
+road body temperature	دَرَجَة حَرَارَة الطَّرِيق
+road bridge	جسر الطريق
+road conditions	حالَة الطُّرُق
+road contact	تلاصق الإطار بسطح الطريق
+road curb blocks	قوالب حافة الرصيف، لبنات طوار الطريق
+road drainage	صَرفُ الطَّرِيق
+road embankment	قاعدة الطريق المرتفعة
+road for construction traffic	طريق لحركة التشييد
+road formation	تشكل الطريق (بعد انتهاء أعمال التسوية الترابية)
+road foundation	أساس الطُّرُق
+road handling	الثبات على الطريق
+road haulage agent	وكيل نقل طُرُقي
+road heating	تَسْخِينُ الطريق
+road hump	تَحَدُّبٌ بالطريق
+road magnet	لاقطة مسامير
+road maintenance	صِيَانة الطُّرق
+road map	خريطة طُرُقية
+road marking	علامة الطريق، وضع علامات الطريق
+road network	شبكة طُرُقِيَّةٌ
+road noise	ضجيج السير
+Road Octane Number	رقم الأوكتان بطريقة الطريق / قرينة أوكتان الطريق، رقم الأوكتان على الطريق
+road octane number (RdON)	رقم أوكتان عملي (SON)
+Road Oil	زيت رصف / زيت الرصف (الحُمَّري)
+road oils	ضُرُوب الحُمَّر المسيَّل
+road performance	قدرة السير
+road pitch	زَفتُ الطريق
+road safety	سلامة طُرُقيةِ
+road shoulder	طوار الطريق، كتف الطريق، حافة الطريق
+road side	جانب الطريق
+road sign	إشارة طريق
+road surface	سطح طريق السير / سَطْحُ الطريق
+road surface temperature	دَرَجة حَرَارة سَطح الطَّرِيق
+road sweeper	كنس الطريق
+Road Tar	رمل قاري للرصف / قار الرصيف، قطران الطريق
+road traffic	حَرَكَة المُرُور
+road train	قطار طريقي (شاحنة بمقطورات)
+road transport	النَّقل على الطرق
+road trough	مِكنَسَة الطريق
+road tunnel; tunnel	طريق نفقي؛ نفق
+road users, traffic participant	مستخدمي الطريق
+road vehicle loading ramp	رصيف تحميل خاص بالسيارات
+road warning device	وحدة تحذير مستخدمي الطريق
+road way	طريق
+road weather conditions	الأحوَالُ الجَوِّيَّة للطَّرِيق
+road with limited access	طريق بمداخل محدودة
+road with two, three, four separate carriageways	طَريق بمَسَارٍ فاصِل ومَسَارَينِ وثَلَاثَة، وأَربَعَة
+road works	أشغال طُرُقية
+road worthy unit	وحدة صالحة للسير على الطرق
+road, street, way	الطريق أو الشارع
+road-mix	خرسانة قطرانية
+Road-Mix (Mix-In-Place)	خلط مواد الرصف على سطح الطريق
+road-rail transport	نقل المركبات بالقطار
+road; highway	طريق
+roadable aircraft	طائرة صالحة للسير
+roadbed (of railways)	سرير مرصوف
+roads and service areas	قطاعات الخدمات والطرق
+Roadside Assistance	خدمة المساعدة على الطريق
+roadster	سيارة رودستر
+roadway	طريق السير / طريق
+roaming	تجوال
+Roaming for EV Charging	التجوال في الشحن
+roaming subscriber	مشترك في التجوال
+roasted ore	خام مُحمَّص
+rob job; pulling rods	سحب أذرع الضخ
+robot	إنسان آلي (روبوت) / رجل ألي / انسان آلي
+robot axises	محاور الروبوت
+robot coordinate systems	نُظم إحداثيات الروبوت
+Robot degrees of freedom	درجات الحرية للروبوت
+robot motion	حركة الروبوت
+Robot orientation interpolation	استكمال توجيهي للروبوت
+robot programming	برمجة الروبوت
+Robot-commuting	تأرجح الروبوت
+Robotic grinding	تجليخ الروبوت
+robotics	علم الانسان الآلي
+Robust control	ضبط قوي / تحكم قوى
+robust landscape	مشهد متين
+robustness	متانة
+roche moutonee	صخور أغنامية
+rock	صَخْرة / صَخْر / تَأَرْجُح / صخر / صخرة
+rock a well; rocking	تقليب الضغط في البئر (لتنشيطها)
+rock anchor	مِرْساة صخرية
+Rock Asphalt	صخر أسفلتي
+rock ballast	فرش بالحصى
+rock bit	رأس الحفر للصخر
+rock bolt	برغي التثبيت
+rock core	عينة صخرية
+rock crusher	كسارة الحجارة، كسارة الصخر
+rock crystal	بلور صخري
+rock cycle	دورة الصخور
+rock excavation	تَجوِيفُ الصُّخُور
+rock fall	انهيار صخري
+rock hound; geologist	جيولوجي
+Rock humus soil	تربة دبالية على الصخر
+rock mechanics	ميكانيك الصخور
+rock pressure	ضغط التشكيل
+rock salt	مِلحٌ صَخرِي
+Rock Samples	عينات الصخور / عينات صخرية
+rock slide	انزلاق صخري
+Rock Texture	نسيج صخري
+rock toe	قدمة صخرية
+rock towers	أبراج صخرية
+rock waste	حطام صخري
+rock-work	زخرف الحصى
+rockdust	غُبَارٌ صَخرِيّ
+rocker arm	ذراع مترجحة / ذراع ترجّحية / ذراع مُتَرَجِّح / ذراع متَأَرْجِح
+rocker panel	دُعامة ركوب
+rocker switch	مفتاح قـلاب
+rocket ammunition	ذخيرة صاروخية
+rocket artillery	مدفعية صاروخية
+rocket cluster	مجموعة صواريخ
+rocket engine; rocket motor	محرك صاروخي
+rocket fuel; rocket propellant	وقود صاروخي
+rocket igniter	مُشعِل الصاروخ
+rocket launcher	قاذف صواريخ
+rocket power	قدرة صاروخية
+rocket propulsion	دفع صاروخي
+rocket sled	مِزْلَجة صاروخية
+rocket thrust	دفع الصاروخ
+rocket-assisted take-off	إقلاع بمساعدة صاروخية
+rocketry	تقنية الصواريخ
+rockfall	انهيار صخري
+rockfill	رَدْم من الصخر
+rockfill dam	سَدٌّ ركاميّ
+rockfill dam / concrete faced rockfill dam (CFRD)	سَدٌّ ركاميّ
+rockfill weir	هَدّار بِحَشْوة صخرية
+rocking chair	كرسي هزّاز
+rocking furnace	فرن متأرجح
+rocking; rock a well	تقليب الضغط في البئر (لتنشيطها)
+rockoon	صاروخ مُصَوِّت
+Rockwell number	رقم روكوِيل
+rocky desert	صحراء حجرية، صحراء صخرية
+rococo	روكوكو
+rod	شاخِص
+rod drive	نقل حركة بعمود
+rod electrode	قطب كهربائي على شكل قضيب
+rod float; velocity rod	عائمة قضيب
+rod gap	فجوة شرر بقضيب
+rod hanger	حمالة أذرع الضخ، نبيضة تعليق قضبان الضخ
+rod line	خط قضيبي
+rod pushing with a reamer	مد الأنابيب بالضغط والحفر الأفقيّ مع استخدام كاسحة الوحْل
+rod pushing with an expander	مد الأنابيب بالضغط والحفر الأفقيّ مع استخدام آلة توسيع
+rod-in-tube technique	تقنية إدخال قضيب في أنبوب
+rod-link	قضيب وصل
+rod-type heating element	عنصر تسخين (قضيبي)
+rodding	تنظيف (ال...) بأداة تَسْليك / تنظيف بقضيب معدنيّ / نقل حركة جسيء، ناقل حركة جسيء
+rodenticide	مبيد للقوارض
+rodinia	رودينيا
+rods, pl	خلايا عصبية على شكل قضبان, ؛ خلايا عصبية على شكل قضبان
+Roebel transposition	تبادل مواضع روبيل
+roentgen	رونتجن(وحدة قياس التعرض للأشعاع)
+Roentgen-per-hour at one metre (deprecated)	رونتجن لكل ساعة فى المتر الواحد (لا ينصح باستعماله)
+roentgenology, US	علم أشعة رونتجن
+rogue	شاذ
+rohs directive	مذكرة توجيهية للحد من النفايات الخطرة
+role	دور
+role equipment	أجهزة وظيفية
+Rolierwool®	صوف ملفوف
+roll	تدحرج
+roll (angle) (of a spacecraft)	زاوية دوران (عربة فضائية)
+roll (of a spacecraft)	الدوران ( مركبة فضائية)
+roll a tank	صَفَّح خَزَّانا
+roll axis	محور ترجّح
+roll axis (of a spacecraft)	محور الدوران ( مركبة فضائية)
+roll bench	منضدة منزلقة
+roll cage, roll container, roll pallet	قفص اللف، حاويات اللف، منصة اللف
+roll car	عَرَبَة الطريق
+roll cloud; roller cloud	سَحاب دحروجي
+roll coupling	قَرْن العُطوف
+roll damper	مُخْمِد العُطوف
+roll film	فيلم شريطي
+roll jet	نفّاث العُطوف
+roll neck jumper / polo neck jumper	ياقة عالية
+roll off the top	لفّة عُلُّو
+roll on top	لفّة في الأعلى
+roll pleat	طية مستديرة
+roll rate (of a spacecraft)	سرعة دوران (عربة فضائية)
+roll reversal	انعكاس العُطوف
+roll stability	تجهيزة دعم اتزان جسم السيارة
+roll stability test	اختبار الثبات في الأسطوانات
+roll twill	رول تويل
+roll-in point	نقطة الانقضاض
+roll-off rate	معدل الإنحدار
+roll-on roll-off, (R.O.R.O.)	شاحنات محمولة
+roll-on system	نظام مساعدة على رفع السيارة على جهاز الاستعدال (Roll-on)
+roll-on-roll-off (ro-ro)	شحن و تفريغ أفقيين
+roll-on/roll-of ship	سفينة دحرجة
+roll-stabilized missile	قذيفة موازَنة عُطوفياً
+roll-top-container	حاوية متحركة السقف
+roll-up jeans	جينز ذو طية
+roll-up shorts	سروال قصير ذو طية
+rolled asphalt	أسفلت مَجدُول
+rolled clutch lining	بطانة ملفوفة للقابض
+rolled earth fill	رَدْميات ترابية مدحولة
+rolled steel	فولاذ مبروم
+rolled- steel joist	رافدة من الفولاذ المدرْفَل
+rolled- steel sections	مقاطع من الفولاذ المدرفل
+rolled-fill dam / rolled-earthfill dam	سَدٌّ تُرابيّ مَدْموك
+roller	بوابة أُسطوانية دُحْرُوجِية / مِدْمَاك / مِدْحَاة / مِدْحَلة / دوارة / دحروجة / دكّاكة، مِرحلة
+roller bearing	محمل دحروجي / مَحمَل أُسطُوَانِيّ / كرسي تحميل باسطوانات؛ محمل باسطوانات / عجلة تحميل
+roller bit; rock bit	مِثْقَب صخور دلفيني
+roller brake test bench	منصة فحص فرامل (ذات دحروجات)
+roller cell pump	المضخة ذات الخلايا الدحروجية
+roller compacted concrete	خَرَسَانَة مَدكُوكَة
+roller conveyor	ناقل الأسطوانة
+roller conveyor curve	منحنى ناقل الأسطوانة
+roller conveyor scissor lift	ناقل أسطوانة على شكل مقص
+roller door	باب دوّار
+roller gate, submergible	بوابة متدحرجة قابلة للغمر
+roller hearth furnace	فرن ذو اسطوانات
+roller rocker arm	ذراع انكفائية ذات دحروجة
+roller stripping	طرد الاسطوانة للحبر
+roller type stilling basin	حَوْض تهدئة ذو دَوَّارات مائية
+roller washing machine	ماكينة غسل الأسطوانات
+roller, circular	لُفافة دائرية
+roller, elliptical	لُفافة قطْع ناقصية
+roller, horizontal	لُفافة أفقية
+roller-bearing axle-box	علبة المحامل الأسيطينية
+roller-compacted concrete pavement	رَصفٌ بِخَرَسَانَة مَدكُوكَة
+roller-ginned cotton	قطن محلوج على أسطوانة
+roller-map display	شاشة الخريطة الأسطوانية
+roller-shutter freight wagon	عَرَبَة ذات سديلة لفَّافة
+rolleron	جُنيح عُطوف
+rolling	أَسطَنَة
+rolling balance	توازن عُطوفي
+rolling ball	كرة دحرجة
+rolling circle	دائرة الدروج
+rolling circumference	محيط التدحرج
+rolling contact	ملامس دحرجة
+rolling dogs	زوايا إمساك
+rolling engagement	اشتباك بالدور
+rolling gate / rolling weir	بوابة مُتدحرِجة
+rolling highway	طريق سريع ملتف / طريق سؤيع متداول
+rolling instability	لااستقرار عُطوفي
+rolling ladder	سُلَّم آلي
+rolling load	حِمْل مُتَدحْرِج
+rolling moment	عزم العُطوف
+rolling noise	ضَجِيجُ الدَّرَجَانِ / ضَجِيجُ الدروج
+rolling pipe	أنبوب تصفيح، أنبوب تلبيس
+rolling plane	مستوي العُطوف
+rolling raduis	نصف قطر الدُّروج
+rolling resistance	مُقاومة التدحرج / مقاومة الدروج / مقاومة التدحرج
+rolling road	طريق مدحرجة
+Rolling Road Wagon	عَرَبَةُ الطَرِيقِ المُتَحَرِك
+rolling stock	معدات دارجة / أشياء متحركة متدحرجة / المُتَحَرِّكَاتُ
+Rolling Stock Maintenance	صِيانَةُ المُعِدّاتِ الدارِجَةِ
+Rolling Stock Management	الإِدَارَةُ المُخْتَصَّةُ لِصِيَانَةِ قِطَارَاتِ الشَّحْنِ والرُّكَاب
+rolling stock operator	مسئول عن عربات السكك الحديد
+rolling stock; fleet	مجموعة عربات السكة الحديدية
+rolling take-off	إقلاع دُروجي
+rolling vertical take-off	إقلاع عمودي دُروجي
+rolling wheel	دوالب
+rolling-road wagon	عربة على طريق مدحرجة
+rolling; swaying	دحرجة
+rollout	لفّة للخارج
+rollpin	مسمار دلفيني
+rollway; overflow section	طريق مُتدحرِج
+romaine	كريب روماني
+roman arch	قوس نصف دائرة
+Roman sheep	أغنام رومانية
+roman stripe	خطوط رومانية
+roman type	محرف روماني
+romantic	طراز رومانسي
+Romney sheep	أغنام رومني
+romper	بَرْبُوتَة
+roneo	نسّاخة (رونيو)
+roof	سَقْف / سقف
+roof boards	ألواح السقف
+roof box	علبة السقف
+roof construction	إنشاء السقف
+roof cornice	إفريز السقف
+roof covering	غطاء السقف
+roof drainage of buildings	صَرْف مياه أسقف المباني
+roof edge spoiler	جناح إيرودينامي سقفي
+roof garden	حديقة السطح
+roof girder	عارضة سقف
+roof jack	أنبوب المِدْخَنَة
+roof lifting and swinging system	نظام رفع و دوران السقف
+roof liner [UK] / head liner [US]	كسوة السقف الداخلية
+roof load	حمولة السقف
+roof panel	صاج السقف
+roof rack detection system	نظام التعرف على حامل السقف
+roof safes	أغطية منافذ التهوية في السطح
+roof screw	مسمار تثبيت السقف
+roof truss	جملون السقف
+roof wires	أسلاك السقف
+roof-light	نوافذ علوية
+roofing asphalt	أسفلت تسقيف / أسفلت للسطوح / أسفلت السقوف، أسفلت السطوح
+roofing nail	مسمار تسقيف
+rooflight; skylight,	فتحة في السقف, ؛ منور
+rooftop	أعلى السطح
+rooftop air handling unit	وحدة معالجة الهواء المركبة في السقف
+rooftop packaged heat pump	مضخة حرارية مدمجة فوق سطح السقف
+rooftop packaged unit	وحدة تكييف مدمجة فوق سطح السقف
+Rooftop unit (RTU)	وحدة تكييف على السطح
+room absorption	امتصاص الغرفة
+room cavity ratio	نسبة تجويف الحجرة؛ مؤشر الحجرة
+room index; installation index	مؤشر إضاءة الحجرة؛ الاستخدام
+room noise	ضجيج غرفة
+room surface maintenance factor; RSMF	عامل صيانة مساحة الحجرة
+roost	مجثم
+root	جذر / جَذْر / جِذر (الريشة)
+root ball	كرة الجذور
+root cause analysis; RCA	تحليل للوصول للسبب الجذرى
+root factor	مُعامل جذري
+root hairs	شعيرات الجذور
+root locus	محل الجذر / مُنحنى محل الجذور / مُنحنى محل الجذوع
+root mean square (rms)	جذر مُتوسِّط المُربَّعات / قيمة جذر مُتوسط المُربَّعات
+root mean square error	جذر خطأ متوسط التربيع
+root section	مقطع الجَذْر
+root stock	حامل التطعيم
+root sucker	ممص جذري
+root timber; root wood	خشب الجذور
+root valve	صِمام رئيسي
+root zone	منطقة الجذور
+root-locus plot	رسم مسار المحل الهندسي للجذور, فعل؛ رسم المواقع الأصلية
+root-mean-square detector	كاشف متوسط جذر المربعات (كاشف القيمة الفعّالة)
+root-mean-square value; RMS value; quadratic mean	الوسط التربيعى؛ قيمة الجذر التربيعى لمتوسط المربعات(1)
+root-power quantity; field quantity,	كميّة المجال
+rootability / root penetration capability	قُدرة اختراقية للجذور
+rootability; root penetration capability	إمكانية التغلغل الجذري
+rooting	استئصال الجذور
+rooting out	إبادة
+rootplate	طبق جذور
+rope	حَبْل
+rope chaff	عُصافة تشويش حبْلية
+rope clamp	ماسحة حَبْل، كُلَّاب الحبل
+rope grab	كُلابة الكبل
+rope knife	قاطعة الكَبْل
+rope retting	تعطين بالندى
+rope socket	جُلْبة وصل، معلق الكبلات، واصل الكبلات
+rope spear	كُلَّابة التقاط الحبل، خُطَّاف بحبل
+rope yarn	خيط غزل من الكتان
+ropewinder	لفاف الحبل
+ropy lava	لابَة حَبْلِية / لَابَة وِسَادية
+rosaceae	فصيلة (ال..) الوردية
+rosasite	روزاسايت
+roscherite	روشيرايت
+roscoelite	روسكولايت
+rose quartz	كوارتز وردي
+rose; rosette	وَرْدي
+rosella	قنب روزيلا
+rosette	وُرَيْدَةة / وُرَيْدَة
+rosette; sidereal	نجمي
+Ross spindle steering gear	عمود دوران توجيه صندوق التروس
+Rossby chart	مخطط روسبي
+roster of experts	قائمة خبراء
+roster; duty roster plan	جدول الخدمة
+rot	تعفن
+rot proof	مقاوم التعفّن
+rot resistance	مُقاومة التعفّن
+rotachute	مظلة الدوّار / مظلة مروحية
+rotaglider	طائرة شراعية بدوّار
+rotameter	مقياس دَوّار / مقياس الصبيب
+rotaplane; rotorcraft; rotorplane	طائرة الدوّار
+rotary (control) switch	مفتاح (تحكم) دوار
+rotary amplifier	مضخم دوار
+rotary blower	مروحة تدوير الهواء
+rotary bombdoor	باب قنابل دوّار
+rotary buckets	أكواب دَوَّارة، دِلَاء دَوَّارة
+rotary bushing	جُلْبَة دَوَّارة، زوايا الجر
+rotary chain	سلسلة الرحى، سلسلة الجرف
+rotary collector	مُجَمِّع دَوّار
+rotary compressor	ضَغَّاط دَوَّار / ضاغط دوّار
+rotary converter	مُغيّر دوّار
+rotary converter (motor generator set)	مغير (مبدل) دوار
+rotary convertor	مغير محرك
+rotary conveyor	ناقل دوار
+rotary cutting of veneer	قطع دائري للقشرة
+rotary derivatives	مشتقات الدوران
+rotary dial	قرص الهاتف الدوار
+rotary dial (telephone) set	مجموعةهاتف آلية مزودة بقرص دوار
+rotary displacement meter	عداد إزاحة دوّار
+rotary distributor	مُوزِّع دَوّار
+rotary drawwork	ملفاف رحوي
+rotary drilling	حَفْر دوراني / حَفْر رَحَوي
+rotary drilling rig	منشأة حفر رحوية، برج حفر رحوي
+rotary drum furnace	فرن ذو اسطوانة دوارة
+rotary drum screen	مصفاة أسطوانية دوارة
+rotary drum thickener	مثخن أسطوانيّ دَوّار
+rotary encoder	مُرمِّر دوَّار
+rotary engine; swivelling engine	محرك دوّار
+rotary excavator	مِحْفَار دَوَراني
+rotary feeder	ملقم دوار
+rotary fishing jar	ناقوس التقاط دوار
+rotary frequency	تردد الدوران
+rotary gear oil pump	مضخة زيت رحوية ذات تروس
+rotary harrow heating element; porcupine heating element	عنصر تسخين قنفذي
+rotary hearth furnace	فرن دوار ذو موقد ( مجمرة)
+rotary hose	خرطوم طين الحفر، خرطوم الرحى
+rotary interchange; rotary traffic	محوّل (طرق) دوّار، مرور دائري
+rotary intersection	تقاطع دوّار
+rotary jar	ناقوس حفر دوّار
+rotary joint	وصلة دوّارة
+rotary joint; rotating joint	وصلة دوّارة
+Rotary kiln	فرن دوار
+rotary klin	قمينة دوارة
+rotary line	حبل الحفارة الدوارة، كبل التشغيل
+rotary lobes	فصوص دوارة
+rotary magnet tachometer	عداد السرعة ذو المغناطيس الدوّار
+rotary mud	طين للحفر الرحوي
+rotary offset press	طابعة أوفست دوّارة
+rotary peeling	تقشير دوراني
+rotary percussion drill	مثقب رحوي دقاق
+rotary phase changer; rotary phase shifter	مُغير طور دوّار
+rotary piston blower	نفاخ بكباس رحوي
+rotary piston engine	محرك بمكبس رحوي
+rotary piston pump	مِضَخّة رَحَويّة
+rotary piston valve	صمام الكباس الدوار
+rotary planing	سحج دوراني
+rotary press	طابعة دوّارة
+rotary pump	مضخة رحوية
+rotary pump for power steering	مضخة الكباس الدوار الخاصة بنظام التوجيه المعزز
+rotary rack	رف دوار
+rotary rack stock	مخزن الرف الدوار
+rotary rack stock (horizontally rotating)	مخزن الرف الدوار الأفقي
+rotary rack stock (vertically rotating)	مخزن الرف الدوار العمودي
+rotary reamer	موسع ثقوب رحوي
+rotary retarder	مثبط الفرامل
+rotary rig	برج حفر رحوي
+rotary safety joint	وصلة أنبوب مأمونة للحفر الرحوي
+rotary scan	مسح دوّار
+rotary seal	مانع تسّرب حلقيّ مُنزلِق
+rotary shears	مقص دوّار
+rotary shoe; washover shoe	نعل التفريز، كعب التفريز
+rotary slide valve	صمام انزلاقي دوَّار
+rotary slips	كلابات رحوية، ماسكات رحوية
+rotary sprinkler	مُوزِّع دَوّار
+rotary substation	محطة فرعية دوّارة
+rotary switch	مفتاح دوّار
+rotary swivel	رأس الحقن الدوار
+rotary table	رحى
+rotary tong; tong	كلابة
+rotary transformer	محوّل دوّار
+rotary vane attenuator	مُوهِن متقلب دوّار
+Rotary vane pump	مضخة ريشة
+rotary vane pump; vane pump	مِضخّة دوارة ذات أرياش مُنزلِقة
+rotary vane vacuum pump; slide vane rotary vacuum pump	مِضخّة خوائية دوارة ذات أرياش مُنزلِقة
+rotary vanes	ريش دوارة
+rotary wing aircraft	حوّاطة (طائرة)
+rotary-type enclosed continuous vacuum filter	مرشح تحت فراغ مستمر بجدار دوار
+rotary-wing aircraft; rotating-wing aircraft; rotorcraft; rotorplane	طائرة الأجنحة الدوّارة
+rotatable frame	إطار قابل للدوران
+rotating auger; spiral distributor	لولبية أرخميدس
+rotating beacon	منارة دوّارة
+rotating circuit-breaker	قاطع دوّار
+rotating combustion engine	محرك احتراق دوّار
+rotating convertor	المبدل دوّار
+rotating cylinder electrodes	أقطاب كهربائية إسطوانية الدوارة
+rotating disc contactor, (R.D.C.)	خلاط الأقراص الدوارة، خلاط قرصي دوار (لمزج النفط بالمحل)
+rotating disc electrode	قطب كهربائي ذو قرص دوار
+rotating field	مجال دوّار
+Rotating Gas Lift	نظام الإنتاج بضغط الغاز
+rotating guide vane	ريشة توجيه دوّارة
+Rotating Magnetic Field (RMF)	المجال المغناطيسي الدوار
+rotating sprinkler	رشاش دَوّار
+rotating sprinkler head; revolving sprinkler head	رأس الرشاش الدَوّار
+rotating sprinkler system	شبكة رشاشات دوارة
+rotating valve	صمام دوار
+rotating-anode tube	انبوب المصعد الدوار (أنود)
+rotating-cylinder flap	قلاّبة الأسطوانة الدوّارة
+rotating-field antenna	هوائي ذو مجال دوار
+rotating-vane meter	عداد الجريان التوربيني
+Rotation	حركة دورانية / دَوَرَان / دورة / دوران
+rotation angle	زاوية الدوران
+rotation angle sensor	حسّاس زاوية الدوران
+rotation axis	محور الدوران
+rotation locking; rotation interlocking	قفل دوراني
+rotation speed	سرعة دائرية
+rotation test	اختبار اتجاه الدوران
+rotation therapy	علاج دورانى
+rotation vector	متجه الدوران (الحركة الدائرية)
+rotation,	زاوية الدوران,
+rotational frequency	تردد (ال...) الدوراني
+rotational frequency; speed of rotation	قيمة سرعة الدوران (الحركة الدائرية)؛ تردد الدوران
+rotational grazing	رعي بالتناوب
+rotational hysteresis loss	فقد التخلف المغناطيسي
+rotational inertia	قصور دوراني
+rotational slump/slip	تراجع / انزلاق دائري
+rotational speed	سرعة دورانية / سُرعة دَوَرانية
+rotational speed difference (centrifuge)	فَرْق السرعة الدورانية
+rotational speed sensor	حسّاس سرعة الدوران
+rotational viscometer	مقياس لزوجة دوّار
+rotational wave; shear wave	موجة دورانية
+rotationally sampled wind velocity	عينة سرعة رياح دورانية
+rotatory	دوّار
+rotaty compressor	ضغّاط دوراني
+Rothschild friction meter / f-meter)	جهاز قياس درجة الاحتكاك - روتشلد
+rotocap	مدورة الصمام
+rotochute	مظلة بدوّار
+Rotofil yarn	خيط غزل روتوفيل
+rotogravure	طبع نقشمي بطابعة دوارة
+rotoinversion axis	محور دوران انعكاسي
+Rotona yarn	خيط غزل روتونا
+rotor	عضو الإنتاج الكهربائي / روتور (Rotor) / عضو دوّار / عضو دوار / دوّار / الدوار / دوار
+rotor blade	ريشة الدوّار
+rotor cloud	سَحاب دوّار
+rotor core	نواة الدّوّار
+rotor damping	تخميد الدوّار
+rotor disc	قرص الدوّار
+rotor end-winding retaining ring	حلقة احتجاز نهاية ملف العضو الدوار
+rotor flow	جريان دوّار
+rotor force	قوة الدوّار
+rotor goveruing mode	نمط التحكم بالدوّار
+rotor head	رأس الدوّار
+rotor hub	صُرَّة الدوّار
+rotor incidence	زاوية السقوط للدوّار
+rotor kite	طائرة صغيرة ذات دوّار
+rotor mast	سارية الدوّار
+Rotor Position Sensor	حساس موضع الدوار
+rotor pump	دوار المضخة
+rotor resistance starting	بدء بتشغيل بمقاومة العضو الدوار
+rotor speed (for wind turbines)	سرعة العضو الدوار (لعنفات الرياح)
+rotor streaming	انسياب الجريان الدوّار
+rotor tip jet	نفّاث أطراف الدوّار
+rotor torque	عزم الدوّار
+rotor winding	ملف العضو الدوار
+rotor yarn	خيط روتور
+rotor yoke; hub	مقرن العضو الدوار
+rotordynamics	دينامية الدوار
+RotorRing tester Micro-Dust- and Trash Analyzer	جهاز الفحص- بحلقات دائرية
+rotten wood	خشب متعفّن
+rotting process / rotting	تعفن
+rouen	نمط روون
+rough	خَشِنٌ
+rough coat	طلية خشنة، غشاء خشن
+rough leather	جلد خام
+rough service luminaire	جهاز إضاءة للخدمة الشاقة
+rough sett paving	أحجار رَصف خشنة
+rough surface	سطح خشن
+rough timber saw	منشار لقشور الخشب
+rough-air speed	سرعة الهواء المضطرب
+rough-cast with lime	تحريش
+rough-casting	الحردي
+roughing filter	مُرشِّح تخشين
+roughneck	عامل حفر
+roughness	خُشونة (ال...) / خُشُونَة (ال...) / خُشُونَة / خشونة
+roughness coefficient	مُعامِل الخشونة
+roughness factor	معامل الخشونة
+roughness index	مُؤشِّر (درجة) الخشونة
+roughness length	طول شدة الرياح / مدى الخشونة
+roughness measurement	قياس الخشونة
+roughness,	خشونة, / خشونه,
+round	طَلْقَة
+round (to)	تدوير
+round belt	حزام مستدير
+round cell	خلية مستديرة
+round culture tube	أنبوب مستدير القعر لزرع الجراثيم
+round edge	حافة مستديرة
+round file	مِبرد مُستدير المقطع
+round filter	مرشح دائري
+round gravel	حصى دائريّ
+round head	قوس نصف دائرية
+round head buttress dam; mushroom head buttress dam	سَدٌّ مثَبت بدعائم مستديرة الرأس
+round nose pliers	زردية مُدوّرة الطرف
+round off file	مبرد دائري
+round steel	فولاذ مستدير المقطع
+round table	طاولة مستديرة
+Round test	اختبارات دائرية
+round the world echo	صدى حول العالم
+round timber cars	عَرَبَة الأخشاب المستديرة
+round trip	رحلة الذهاب والإياب
+round trip; trip	ذهاب و إياب
+round-down	منعطِف للأسفل
+round-head rivet	برشام مُدَوَّر الرأس
+roundabout	مُلْتَقًى دَوَرَانِيٌّ، مَدَارَة / اتجاه دوار، ميدان دوار
+roundabout islant	جزيرة مستديرة
+rounded kerb	حافة رصيف مستديرة (الزوايا)
+rounded material	مَوَادّ مُدَوَّرَة
+roundel	دائري / مُدَوَّر
+roundhouse	مبنى دائري لاصلاح القاطرات
+Rounding	تقريب
+rounding of a number	تدوير العدد
+rounding off	تغطية غامرة
+rounding plane	مسحاج التدوير
+Roundtrip Efficiency	كفاءة دورة الشحن والتفريغ
+roundtrip time	وقت الذهاب والإياب
+roundwood	أخشاب مستديرة
+roustabout	رئيس عمال الانتاج
+route	طريق / مسار / خط السير
+route (in switching)	مسار (في الفصل والوصل (التبديل)) / مسار (بالتبديل)
+route cancelling signal	إشارة لإلغاء الطريق
+route chart	خريطة ملاحية
+route clearing point	نقطة إخلاء الطريق
+route clearing point/section; detected track	نقطة شُغُور
+route exclusion	استبعاد المسار
+route exclusion time	مدة استبعاد المسار
+route flight	طيران طريقي
+route holding	وقف المسار
+route indicator; junction indicator	مبين المسار
+route locking	قفل المسار / قفل الطريق
+route locking 1	إغلاق المسار
+route locking 2	إقفال الطريق
+route locking time	مدة إقفال المسار
+route monitoring	مراقبة المسار
+route monitoring; route proving	مراقبة الطريق
+route planning	أنظمة التوجيه والإرشاد والتخطيط
+route release time	مدة فتح المسار
+route release; release of remainder of route/route fragment	فتح المسار
+route section	جزء من مسار
+route sector	قطاع طريق
+route segment	قطعة طريق
+route selection	اختيارالمسار
+route selector	مفتاح اختيار وتوجيه
+route setting system	نظام ضبط المسار
+route setting time	وقت إعداد المسار
+route signalling	إشارات المسار / تأشير الطريق
+route speed	سرعة الطريق
+route,	مسار,
+route, line, train path	الطريق، والخط أو مسار القطار
+route, path	الطريق
+route-programme machine	آلة برمجة المسار
+route-signal	مؤشر الوجهة
+Router	جهاز إرسال وتوجيه الحزم الإلكترونية (راوتر) / موجه
+router cutter	سكين تخديد
+router plane	مسحاج تخديد
+routine	نمط
+routine check	كشف وتيري
+routine diagnostics	تشخيص روتيني
+routine maintenance	صِيانة روتينِيَّة / صيانة وتيرية
+Routine Monitoring	رصد روتيني
+routine test	إختبار روتينى / اختبار دوري (روتيني) / إختبار روتيني / اختبار روتيني
+routing	توجيه البيانات (Routing) / توجيه / خريطة عمل
+routing (in packet switched data communication)	مسار المرور (في تبديل رزم بيانات الاتصالات)
+routing center	مركز التوجيه
+routing order	سَنَدُ الإرسال، سَنَدُ الإزاحة
+routing, draft	التوجيه
+routing; traffic routing	توجيه مسار مسار مرور
+rover vehicle [UK] / off-road vehicle [US]	سيارة أراض وعرة
+roving	سحب و فتل النسيج / ألياف / خيوط
+row	صف / سَطْر / نسق / صفّ، مصفوفة
+row crop	محصول في صفوف
+row irrigation system	نظام الري برشاشات في صفوف
+row of bricks (or stones)	سافٌ، مدماك
+row of piles	صف أوتاد
+rowboat	قارِب تَجديف
+royal	رويال، ملوكي
+Royal Axminster	أكسمنستر ملكي
+royalty	رِيع، جُعالة / رسوم الامتياز
+Royalty Measurement	قياس الريع
+Royalty Sampling	عينات نقل العهدة
+royalty tankage	تخزين الريع
+RP	لدائن مُقَوّاة
+RPH	طائرة عمودية مقادة من بُعد
+RPM, r.p.m.	دورة في الدقيقة / لفّة في الدقيقة
+RPV	مَرْكَبة مقادة من بُعد
+RQ cycle; request cycle	دورة RQ دورة طلب
+rrna	ر ن أ الريبوسومي
+RRR kinematic	روبوت مفصليّ الحركة (RRR)
+RRT kinematics	روبوت قُطبيّ الحركة
+RS485	بروتوكول اتصال تسلسلي غير متزامن، وثنائي السلكين، وثنائي الإنجاه
+RSoH = relative state of health	الحالة الصحية النسبية للبطارية
+RTE configuration	تكوين بيئة وقت التشغيل
+RTE generator	مولدات بيئة وقت التشغيل
+RTT kinematics	روبوت اسطواني
+rub rail	سكة حَكّ
+rub rails	قضبان واقية
+rub up (to)	مسح
+rub-proof	مقاوم للمحو، مقاوم للاحتكاك
+rub-proof ink	حبر مقاوم للمحو
+rubber	مطاط / مطّاط
+rubber aircraft	طائرة مطاطية
+rubber asphalt	أسفلت مَطَّاطِي
+rubber belt conveyor	حزام ناقل مطاطي
+rubber bow fender blocks	حواجز مطاطية لوقاية مقدمة السفينة، حواجز مطاطية واقية
+rubber bulge	بروز مطاطي
+rubber compound	خليط مطاطي
+rubber electrical insulating gloves	قفازات مطاطية عازلة للكهرباء
+rubber floor	أرضية من مطاط
+Rubber Insulating Gloves	القفازات العازلة / قفازات العزل المطاطية / قفازات عازلة من المطاط
+rubber mount	محمل مطاطي
+rubber pinch valve	صِمام قَرْص (ضغط) مطاطيّ
+rubber plantations	مزارع أشجار المطاط
+rubber retarder	مقاصر مطاطي
+rubber sleeve core barrel	أنبوب اعتيان ذو قميص (كم) مطاطي، أسطوانة أخذ عينات ذات جُلْبة مطاطية
+rubber slick	مِصْقَل مطاطي
+rubber spring	ياي مطاطي
+rubber spring drive	نقل حركة بزنبرك مطاطي
+rubber tire roller	أُسطُوَانَة بِإِطَارات مَطَّاطِيَّة
+rubber tyred roller	مِدْمَاكٌ بِإِطَارات مطاطية
+rubber wheel interchange	تيادل حاويات أو نصف مقطورات عن طريق وكيل النقل
+rubber wheeled roller	أُسطُوَانَة بِعَجَلَات مَطَّاطِية
+rubber-base propellant	وقود دافع مطاطي الأساس
+rubber-metal components	مكوّنات معدنية مطاطية
+rubber-tired compactor	مِدْحَلة مطاطية
+rubbing	حكّ
+rubbing bushing	جُلْبة فرك، جُلْبة احتكاك
+rubbing contact	تماس بالاحتكاك
+rubbing seal	مانع تسرب الاحتكاك
+rubbing strip	شريحة حَكّ
+rubbish	قُمامة / قمامة
+rubble	كُسارة الحجارة، حَرِيب
+rubble concrete	خرسانة دبشية
+rubiaceae	فصيلة (ال..) الفوية
+rubric	عنوان أحمر
+ruby	ياقوت أحمر
+ruching	كشكشة
+rudder	مُوجِّه، دِفَّة / دَفَّة
+rudder angle	زاوية الموجِّه
+rudder bar	قضيب الدَّفَّة
+rudder headstock	قائم الموجِّه
+rudder pedal	دوّاسة الدَّفَّة / مِدْوَس الدَّفَّة
+rudder post	قائم الدَّفَّة
+rudder torque	عزم الدَّفَّة
+rudder-bias strut	قضيب منحاز للدَّفَّة
+ruddevator	دفّة رافعة
+ruderals	نباتات عشوائية
+ruff	باقة
+ruffle tape / ruffled edge	شريطة الستارة
+rugged construction	بناء متين
+rugosity	خشونة
+rugosity coefficient; roughness coefficient	عامل الخشونة
+Rugotest	اختبار الخشونة
+rule	مِسْطَرة / مسطرة
+rule base	قاعدة ضبط
+Rule Book Module	وِحْدَةُ كِتابِ القَوانِينِ
+rule of 90	قاعدة 90
+rule-based control	تحكم قائم على أسس
+Rules	قَوانِين
+rules of procedure	نظام داخلي
+ruling material	مادة مُسَيْطِرة
+rumble	دمدمة / دويّ / قعقعة
+rumble in a record player unit	قرقعة في وحدة التسجل
+rumble level	مستوى قرقعة
+rumble seat	مقعد مؤقت / مقعد خلفي
+run	شَوْط / تنفيذ / سحب
+run from field storage	مسال من المخزون الحقلي
+run in time	مدة ترويض السيارة، مدة الترويض
+run of thread	اتجاه خيوط النسيج
+run off	جريان
+run ticket	بطاقة تسليم الزيت من الخزانات إلى خطوط الأنابيب
+run time	مدة التشغيل
+run to spoil	مَفْرَغَةٌ، مَطْرَحة
+run way	مدرج
+run-back of equipment	تأخر للمعدات
+run-flat tyre	إطار عجلة يعمل مُسَطّحاً
+run-in swish; roar	صوت تبديل وضعية مفتاح
+run-of operation	تشغيل بالمياه الجارية
+run-of-power plant	محطة كهرمائية
+run-of-river power plant; run-of-river power station	محطة توليد مائية بالانسياب السطحي
+run-of-river power plants	محطات توليد الطاقة التي تعمل على مجري النهر / محطات توليد الطاقة النهرية
+run-of-river power station	محطة توليد طاقة من مياه جارية / محطة توليد مائية بالانسياب السطحي
+run-off	جَرَيان الماء السطحي / تدفق سطحي
+run-off (on surface) / stormwater (in sewer) / surface water / rainwater	مياه الأمطار
+run-off water	ماءٌ جارٍ
+run-off; flow	صرف
+run-out	انتحاء
+run-through	مرور قطار
+run-up	يدير بسرعة
+run-up area	منطقة التدوير السريع
+run-up drag	كبح التدوير السريع
+runaway	انطلاق بسرعة خاطفة
+runaway greenhouse effect	جموح تأثير الاحتباس الحراري
+runaway speed of a motor-generator set	سرعة الخروج عن السيطرة لمجموعة المحرك المولد
+runner	مَمْشى
+running	إِنزال (أنابيب الحفر)
+running alarm lights	أضواء مطلقة للانذار
+running board	درجة صعود
+running board set	مرقاة
+running fit	توافق جارٍ / توافق سهل / توافُق دَوَّار، دَمْج دَوَّار
+running from the edges	انكماش من الحواف
+running gear	الأجزاء الدوارة
+running head line/title	عنوان سيار
+running landing	حطّ دُروجي
+running mate	رفيق مُصاحب
+running of a contour	تَتبُّع منحني تسوية
+Running on Sight and at Caution	السَّيْرُ بِاسْتِخْدامِ النَّظَرِ مع الحَذَرِ
+Running Projects	المشاريع القائمة
+running rail	قضبان مناوبة للسكك الحديدية
+Running Rails	قضبان المسار
+running rigging	ضبط الموضع
+running sand	رَمْل مُنْهَار، رمل متحرك
+running speed	سرعة التشغيل
+running surface	سطح العجلة
+running test	إختبار التشغيل
+running time	زمن السير، زمن الاستعمال
+running time benchmark	قياس مدة المسار
+running tool	آلات خاصة لانزال أداة ما
+running track	مسار
+running-in	ترويض
+Runoff	إنسيال سطحي / جريان / جَرَيَان سَطحِي / جريان سطحيّ
+runoff (water cycle)	جريان سطحي (دورة المياه)
+runoff conditions; runoff characteristics	خواص التصريف
+runoff cycle	دورة المدد النهريّ
+runoff discharge rate	مُعدَّل تصريف الأمطار
+runoff duration	فترة التصريف
+runoff, critical	تَصْريف (ال...) الحَرِج لمياه الأمطار
+runtime method (flow measurement)	طريقة زمن الجريان (قياس مُعدَّل التدفّق)
+runway	مَدْرَج
+runway alignment	محاذاة المدرج
+runway alignment factor	مُعامِل محاذاة المدرج
+runway alignment indicator	مؤشر محاذاة المدرج
+runway basic length	طول المدرج الأساس
+runway capacity	سعة المدرج
+runway controller	ضابط المدرج
+runway direction numbers	أرقام اتجاه المدرج
+runway end	نهاية المدرج
+runway floodflight	مِنْوار المدْرَج
+runway light	إنارة مدرج الطائرة
+runway localizer	محدِّد موضع المدرج
+runway occupancy	إشغال المدرج / شَغْل المدرج
+runway separation	فَصْل مدرجي
+runway spacing	مسافة المدارج
+runway strip	شريحة المدرج
+runway visibility value	قيمة رؤية المدرج
+runway visual range	مدى الرؤية على المدْرَج / مدى رؤية مدرج الطائرة / مدى الرؤية في المدرج
+runway-edge lights	أضواء حِرْف المدرج
+runway-end lights	أضواء نهاية المدرج
+runway-end safety area	منطقة أمان نهاية المدرج
+rupture	انزلاق التربة / تَمزُّق
+rupture disk	قرص التمزُّق
+rural landscape	صقْع ريفي
+rural livelihood security	أمن سبل المعيشة الريفية
+rural property	ضيعة
+rural techno-ecosystems	نظم إيكولوجية تقنية ريفية
+rural-urban network (run)	شبكة ريفية وحضرية
+rust	صدأ / صَدَأ
+rust inhibitor	مانع الصدأ
+rust preventive	مضاد للصدأ
+rustic	الزي الريفي
+rustic stone	حجر خشن
+rut	خُدَادَةٌ
+rut-resistant pavement	رَصِيفٌ مُقَاوِمٌ للتَّخدِيد
+rutaceae	فصيلة (ال..) السذابية
+ruthenium dioxide electrodes	أقطاب ثاني أكسيد الروشينوم
+rutile	روتايل
+rutting	تخديد
+rutting test	اختبار التَّخَدُّد
+RX line (Rx)	وصلة Rx
+rya rug	سجاد ريا
+rythmic sequence	تتابع إيقاعي
+Rzeppa-Birfield joint	وصلة رزيبا-بيرفيلد المفصلية
+réseau de transmission	شبكة نقل
+röntgen; roentgen	رونتجن

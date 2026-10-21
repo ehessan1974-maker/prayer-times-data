@@ -1,0 +1,100 @@
+ثابت	Boltzmann constant / Fermi constant / Grüneisen constant; Grüneisen gamma / Plank constant
+ثابت (ال...) الشمسي	solar constant
+ثابت أساسية (ن)	fundamental constant
+ثابت أشعة كاما النوعي (ن)	specific gamma-ray constant
+ثابت الاضمحلال (ن)	decay constant
+ثابت البنية الدقيقة (ن)	fine structure constant
+ثابت التحلل	dissociation constant
+ثابت التردد	isochronous
+ثابت الترسيب	sedimentation constant
+ثابت الحجب	screening constant; screening number
+ثابت الزمن	time constant
+ثابت العازل	dielectric constant
+ثابت تجمد المحاليل	cryoscopic constant
+ثابت تخلف مرن	elastic hysteresis constant
+ثابت جيوفيزيائي	geophysical constant
+ثابت ديراك	Dirac constant
+ثابت شبيكي	lattice constant
+ثابت عازل مكين	clamped dielectric constant
+ثابت كثافة الاشعاع	radiation density constant
+ثابت كهربائي	electric constant
+ثابت مغنطيسي	electromagnetic constant / magnetic constant
+ثابتتا لاميه	Lamé constants
+ثابتة اختيارية	arbitrary constant
+ثابتة الإشعاع	radiation constant
+ثابتة الانتشار	propagation constant
+ثابتة البنية الدقيقة	fine structure constant
+ثابتة التثاقل الكوني	gravitational constant
+ثابتة التفكك	disintegration constant
+ثابتة التفكك الإشعاعي	radioactive constant
+ثابتة التفكك؛ ثابتة الاضمحلال	decay constant
+ثابتة التقارن	coupling constant
+ثابتة التكاثر	multiplication constant
+ثابتة الحجب	screening constant / screening number
+ثابتة الغازات	gas constant
+ثابتة الغازات العامة	universal gas constant
+ثابتة الغازات الكاملة	perfect gas constant
+ثابتة الغازات المولية	molar gas constant
+ثابتة الفتل	torsion constant
+ثابتة القوة	force constant
+ثابتة الكهرنافذ	dielectric constant
+ثابتة المُرونة	elastic constant
+ثابتة بلانك	Planck's constant / h
+ثابتة بولتزمان	Boltzmann constant
+ثابتة رَيْدبرغ	Rydberg constant
+ثابتة ستيفان-بولتزمان	Stefan-Boltzmann constant
+ثابتة فارادي	Faraday constant
+ثابتة مادلونغ	Madelung constant
+ثابتة مغنطيسية	magnetic constant
+ثابتة هَبْل	Hubble's constant
+ثابتة هول	Hall constant
+ثانويّ	secondary
+ثانية	second
+ثاو	thou
+ثايرستور	thyristor
+ثبات انعكاسي	reflection invariance
+ثخن نصف القيمة	half-value thickness
+ثَعب	siphonage; suction
+ثقالة	gravity
+ثقالة صِغْرية	microgravity
+ثقب	hole
+ثقب؛ فتحة	orifice
+ثقل موازن	balance weight
+ثقل نوعي، وزن نوعي	specific gravity
+ثِقَل؛ وزن	weight
+ثلاثي التكافؤ	trivalent
+ثلاثي التلّون	trichroism
+ثلاثي المساري	triode
+ثلاثي الميل	triclinic
+ثلاثية	triplet
+ثلاثية زيمان العادية	normal Zeeman triplet
+ثلاجة غازية	gas refrigerator
+ثلاّجة، براد	refrigerator
+ثماني الأقطاب	octupole
+ثُمانِيَّة	octave
+ثنائي الاستقرار	bistable
+ثنائي الأقطاب	bipolar
+ثنائي الأقطاب المغنطيسي	magnetic dipole
+ثنائي التكافؤ (ن)	divalent
+ثنائي التلون	dichroism
+ثنائي الحد ، حدّانيّة	binomial
+ثنائي الخيوط	bifilar
+ثنائي الطور	biphasic
+ثنائي القطب (ن)	dipole
+ثنائي القطبية	bipolar
+ثنائي المحاور	biaxial
+ثنائي المسار المضاعف	double diode
+ثنائي المساري	diode
+ثنائي مسار مخمّد	damping diode
+ثنائية	doublet
+ثنائية الجسيم والموجة	wave-particle duality
+ثوابت الحركة (ن)	constants of the motion
+ثوابت الربط المغنطيسي المرن	magneto-elastic coupling constants
+ثوابت الشبيكة	lattice constants
+ثوابت المرونة	compliance constants
+ثوابت جزيئية	molecular constants
+ثوابت كهرمغنطيسية ثانوية	secondary electromagnetic constants
+ثورون	thoron
+ثوريوم	thorium
+ثوريوم (ن)	thorium
+ثوليوم	thulium

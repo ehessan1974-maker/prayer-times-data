@@ -1,0 +1,471 @@
+F-centers	مراكز لونية
+f-number	للفتحةf الرقم
+F?rsterling prism	موشور
+fabrication plant	معمل تصنيع (ن)
+Fabry-Perot filter	مرشح فابري-بيرو
+Fabry-Perot fringes	أهداب فابري بيرو
+Fabry-Perot interferometer	مقياس تداخل فابري - بيرو
+face-centered cubic lattice	شبيكة مكعبة مركزية الوجوه
+face-centered structure	بِنية مركزية الوجوه
+face-centred structure	بنية مركزية الوجوه
+factor	عامل
+factor of proportionality	عامل التناسب
+factor of safety	عامل الأمان
+factor of safety; safety factor	عامل الأمان
+factorial	عاملي
+Fahrenheit degree	درجة فارنهايت
+Fahrenheit temperature scale	سلم درجة الحرارة الفهرنهايتي
+Fahrenheit thermometer	محرار فهرنهايتي
+falling	سقوط
+falling bodies	أجسام ساقطة
+fallout	سَقْط مُشِعّ
+false	زائف، غير مضبوط
+false balance	ميزان غير مضبوط
+false color	لون كاذب
+false equilibrium; apparent equilibrium	توازن ضاهري
+family of characteristics	عائلة مميّزات
+fan-in	مداخيل
+far point	نقطة المدى
+Farad	فاراد
+Faraday cage	قفص فاراداي
+Faraday constant	ثابتة فارادي
+Faraday dark space	حيز فارادي المظلم / فراغ فارادي المظلم
+Faraday disc machine	ماكنة فارادي ذات القرص
+Faraday disk machine	آلة (مَكَنة) فارادي القرصية
+Faraday effect	تأثير فارادي / مفعول فاراداي
+Faraday generator	مولّد فارادي
+Faraday laws of electrolysis	قوانين فارادي للتحليل الكهربائي
+Faraday rotation	دوران فارادي
+Faraday screen; Faraday shield	حاجز فارادي
+Farmer diagram	مخطط (ن)
+fast axis	المحور السـريع
+fast breeder reactor	مفاعل مولد سريع (ن) / مفاعل ولود سـريع
+fast burst	تفجّر سريع (ن)
+fast fission	انشطار سريع (ن) / انشطار سـريع
+fast fission factor	عامل الانشطار السريع (ن)
+fast neutron	نترون سريع (ن)
+fast neutrons	نترونات سـريعة
+fast reactor	مفاعل سريع (ن) / مفاعل سـريع
+fata morgana	سراب مرجانا / سـراب مُرغانا
+fatigue	كلل / كَلال
+fault current	تيار الخطأ
+Faure storage battery	مدخرة فور
+fcc lattice	شبيكة مكعبية مركزية الوجوه
+feed	تغدية (ن)
+feed adjustment tank	خزان ضبط التغدية (ن)
+feedback	تغدية مرجوعة (ن) / تغذية راجعة
+feedback admittance	قبولية التغذية الراجعة
+feedback amplifier	مضخم بتغذية راجعة
+feedback oscillator	هزاز بتغذية راجعة
+feeder	مغذّ / مغذي
+femto	فِمتو
+Fermat principle	مبدأ / مبدأ فرما
+fermi	الفِرمي
+Fermi age	عمر فرمي
+Fermi constant	ثابت
+Fermi distribution	توزيع
+Fermi energy	طاقة / طاقة فرمي
+Fermi gas	غاز فرمي
+Fermi level	مستوى (ن) / مستوى فرمي
+Fermi liquid	سائل فرمي
+Fermi potential	جهد (ن)
+Fermi resonance	رنين
+Fermi sphere	كرة فرمي
+Fermi suface	سطح فرمي
+Fermi surface	سطح
+Fermi temperature	درجة حرارة فيرمي / درجة حرارة فرمي
+Fermi velocity	سـرعة فرمي
+Fermi-age equation	معادلة العمر لفيرمي
+Fermi-age model	نموذج العمر لفيرمي / نموذج العمر لِفِرْمي
+Fermi-age theory	نظرية العمر لفيرمي
+Fermi-Dirac distribution function	دالة توزيع
+Fermi-Dirac gas	غاز
+Fermi-Dirac statistics	إحصاء فِرمي-ديراك
+fermion	فيرميون / فِرميون
+fermium	فرميوم
+ferrimagnetic amplifier	مضخم ذو مغنطيسية فريتية
+ferrimagnetism	مغنطيسية فرّيتية
+ferrite	فريت / فـِرِّيِت
+ferrite core	قلب فِرِّيتي
+ferrite-core memory	ذاكرة قلبها فريتي
+ferroelectric	كهر حديدي / كهرحديدي
+ferroelectric converter	محول طاقة كهرحديدي
+ferroelectric domain	منطقة كهرحديدية
+ferroelectric effect	تأثير كهرحديدي
+ferroelectric hysteresis	بطاء كهرحديدي
+ferroelectric materials	مواد كهرحديدية
+ferromagnetic materials	مواد حديدية المغنطة
+ferromagnetic resonance	رنين مغنطيسي حديدي
+ferromagnetism	مغنطيسية حديديّة / مغنطيسية حديدية
+ferromgnetic domains	مناطق حديدية المغنطة
+ferroresonant circuit	دارة رنين حديدي
+fertile	خِصب (ن)
+fertile material	مادة خصبة (ن) / مادة خصبة
+Fery prism	موشور فيري
+Feynman diagram	مخطط فاينمان
+fiber optics	بصـريات الألياف
+Fick's law	قانون فيك
+fictitious force	قوة عطالة
+fidelity	أمانة
+field	حقل
+field auxiliary	مجال مساعد
+field effect transistor (FET)	ترانزستور مفعول الحقل
+field emission	انبعاث مجالّي / إصدار حقلي
+field glass	منظار مقرّب / منظار مقرِّب
+field index	دليل مجال
+field intensity	شدّة المجال / شدة الحقل
+field ion microscope	مجهر أيون المجال
+field lens	عدسة المجال / عدسة الحقل
+field lines	خطوط المجال / خطوط الحقل
+field momentum	زخم المجال
+field of force	مجال قوة / حقل القوة
+field of plane mirror	مجال مرآة مستوية
+field of view	مجال الرؤية / حقل الرؤية
+field operator	مؤثر المجال
+field plotting	تخطيط المجال
+field stop	حجاب المجال / حِظار الحقل
+field strength	شدة المجال / شدة الحقل
+field theory	نظرية المجال
+field-depth of photography	عمق المجال التصويري
+field-winding	لفَّات المجال
+Fifa value	قيمة فيفا (ن)
+filament	فتيلة / فتيلة؛ شعيرة
+filamentary cathode	مهبط فتيلي
+file	مِلف
+film	رِقّ
+film badge	مقياس الجرعة الفردي
+film boiling	غليان الرق (ّن)
+film concept	مفهوم الرقّ
+film speed (photographic…)	سرعة الرقّ التصويري
+filter	مرشِّح
+filter circuit	دارة مرشّح
+filtration	ترشيح
+filtre	مُرَشِّح
+fine	دقيق
+fine control element	عنصر تحكم دقيق (ن)
+fine control rod	لقضيب تحكم دقيق (ن)
+fine spectrum	طيف دقيق
+fine structure	بنية دقيقة (ن) / بنية دقيقة
+fine structure constant	ثابت البنية الدقيقة (ن) / ثابتة البنية الدقيقة
+fineness of gold	عيار الذهب
+fire pump	مضخة إطفاء الحريق
+firmware	برمجية راسخة
+first Brillouin zone	منطقة بريلوان الأولى
+first collision probability	احتمال التصادم الأول (ن)
+first excitation energy	طاقة التهيج الأولي (ن)
+first ionization potential	جهد التأيّن الأول
+first law of thermodynamics	القانون (المبدأ) الأول في الترموديناميك
+first overtone	مدروج أول؛ توافقية ثانية
+first overtone band; second harmonic band	نطاق التوافق الثاني
+first-order circuit	دارة من المرتبة الأولى
+fissile	انشطاري (ن) / شَطُور
+fissile class	صنف انشطاري (ن)
+fissile material	مادة انشطارية (ن)
+fission	انشطار (ن) / انشطار
+fission (atomic..)	انشطاري ذّري
+fission chamber	غرفة انشطار (ن)
+fission counter tube	أنبوب عداد الانشطار (ن)
+fission cross section	مقطع عرضي للانشطار (ن)
+fission cross-section	مقطع فعَّال للانشطار
+fission energy	طاقة انمشطار (ن) / طاقة الانشطار
+fission fragment	شظية انشطار (ن)
+fission fragments	شظايا الانشطار
+fission gamma radiation	اشعاع كاما الانشطاري (ن)
+fission gas	غاز انشطار (ن)
+fission gas plenum	مِحجَز غازات الانشطار (ن)
+fission neutron	نترون انشطار (ن)
+fission neutrons	نترونات الانشطار
+fission product	ناتج انشطار (ن)
+fission product activity	نشاط ناتج الانشطار (ن)
+fission reaction	تفاعل انشطاري
+fission recoils	مرتدات انشطار / مرتدات الانشطار
+fission spectrum	طيف الانشطار (ن) / طيف الانشطار
+fission width	عرض الانشطار (ن)
+fission yield	مردود الانشطار (ن)
+fissionable	قابل للانشطار
+fissionable material	مادة قبلة للانشطار (ن) / مادة شَطُورة
+fissionable nuclides	نُكليدات شطورة
+fixation	تثبيت
+fixed axis of rotation	محور الدوران الثابت
+fixed coordinate system	منظومة إحداثيات ثابتة
+fixed point	نقطة تابثة
+fixed stars	النجوم الثابتة
+Fizeau experiment	تجربة
+Fizeau toohed wheel	عجلة المسننة
+flame	لهب
+flame spectrum	طيف اللهب
+flare	شواظ
+flash lamp	مصباح ومضي
+flash point	نقطة الوميض / نقطة الومض
+flask	دورق
+flat	مستوٍ / مستوي؛ مسطَّح
+flattening	تسطّح (ن)
+Fleming's rule	قاعدة
+flexibility	لِيْن؛ قابلية الانثناء
+flexible resistor	مقاوِم ليِّن
+flexure	انعطاف / انثناء
+flexure crystal	بلورة انعطافية
+flicker	ارتعاش / ارتعاش ضوئي
+flicker effect	تأثير الارتعاش
+flint glass	زجاج مرصص / زجاج فلنت؛ زجاج رصاصي
+flint glass prisme	موشور زجاج مرصص
+flip-flop circuit	دارة قلاّبة
+flip-over process; umklapp process	عملية امكلاب
+floating bodies	أجسام طافية
+floating grid	شبكة طليقة
+floating grid; free grid	شبكة طليقة
+flotation; floatation	طفو
+flow	جَرَيَان
+flow chart	مخطط انسيابي
+flow chart; flow diagram	مخطط عمليات
+flow curve	منحنى الجريان
+flow diagram	مخطط التعاقب
+flow of a fluid; fluid flow	جريان المائع
+flowing junction	إيعاز بالجريان
+fluctuation	تأرجح / ترجُّح
+fluence	سيولة (ن)
+fluid	مائع
+fluid density	كثافة مائع
+fluid dynamics	تحريكيات الموائع / تحريك الموائع؛ ديناميك الموائع
+fluid equipotential surface	سطح تساوي جهد المائع
+fluid flow	جريان مائع
+fluid flow stagnation point	نقطة ركود جريان المائع
+fluid friction	احتكاك المائع
+fluid mechanics	ميكانيك الموائع
+fluid particle	جسيم المائع
+fluid velocity potential	جهد سرعة المائع
+fluidics	التحكم باستعمال الموائع
+fluidification	إماعة
+fluidity	ميوعة / ميوعة؛ مَيْع
+fluidized bed reactor	مفاعل الأرضية المميعة (ن)
+fluorescence	تألّق / تفلور؛ فلورة
+fluorescent	متألق
+fluorescent lamp	مصباح متألق / مصباح تفلور
+fluorescent screen	شاشة متألقة (ن) / شاشة متفلورة
+fluorine	فلور
+fluorometer	مقياس التألق / مقياس التفلور
+fluorometry	قياس التألق / قياس التفلور
+flux	تدقّق (ن) / تدفق
+flux density	كثافة تدفق (ن)
+flux flattening	تسطح التدفق (ن)
+flux lines	خطوط التدفق
+flux linkage	وصلة التدفق
+flux of light	تدفق الضوء
+flux of sound energy	تدفق الطاقة الصوتية
+flux peaking factor	عامل تكوين القمم للتدفق (ن)
+flux refraction	انكسار خطوط التدفق
+flux trap	مصيدة تدفق (ن)
+foam; froth	زبد، رغوة
+focal collimator	مجمع بؤري
+focal distance	بعد بؤري؛ بعد محرقي
+focal distance; focal length	بعد بؤري
+focal image	صورة بؤرية
+focal length of a lens	بعد (ال...) البؤري لعدسة
+focal length of a mirror	بعد (ال...) البؤري لمرآة
+focal line	خط بؤري
+focal number; relative operture of a lens	عدد (ال...) البؤري لفتحة العدسة
+focal plane	مستوى بؤري / مستوي بؤري؛ مستوي محرقي
+focal ratio	نسبة بؤرية أو محرقية
+foci (conjugate..)	بؤرتان مترافقتان
+foci of lens	بؤرتا العدسة
+focus	بؤرة / بؤرة؛ محرق
+focus point; principal focus	بؤرة أساسية
+focusing	تركيز / إحكام؛ تبئير
+focusing coil	ملّف تركيز
+fog	ضباب
+fog tracks	أثر في الضباب
+foil	رقيقة (ن) / وُرَيْقة
+follower	تابع (ن)
+foot	قدم
+forbidden	محظور (ن) ، ممنوع
+forbidden band	نطاق محظور / عِصابة محظورة
+forbidden gap	فرجة محظورة
+forbidden line	خط محظور
+forbidden lines	خطوط محظورة
+forbidden transition	انتقال محظور
+force	قوة
+force constant	ثابتة القوة
+force decomposition	تحليل القوة
+force function	دالّة القوّة
+force of gravity	قوة الثقالة
+force of inertia	قوة العطالة
+force of interaction	قوة التآثر
+force of reaction	قوة رد الفعل
+force vector	متَّجه القوة
+forced birefringence; forced double refraction	انكسار مزدوج قسري
+forced convection	حمل قسري
+forced oscillation	ذبذبة قسرية / اهتزاز قسـري
+forced response	استجابة قسـرية
+forced vibration	اهتزازة قسرية / ذبذبة قسـرية
+forceps	ملقط
+forcing pump	مضخة كابسة
+foreign atom	ذرة غريبة
+foreign atom; chemical impurity, impurity atom	ذرة شائبة
+fork	شوكة
+fork lightning	برق متشعب
+form factor	عامل الشكل
+formation cross section	مقطع عرضي للتكوين
+formula	صيغة
+forward bias	انحياز أمامي
+forward current	تيار أمامي
+forward direction	اتجاه أمامي
+forward voltage	فولطية أمامية
+Foucault currents	تيارات فوكو؛ تيارات دوّامية
+Foucault pendulum	نواس فوكو
+Foucault prism	موشور
+Foucault rotating mirror	مرآة الدوارة
+four point probe method	طريقة المسابر الأربعة
+four-currant density	كثافة التيار الرباعي
+four-dimensional continuum	الفضاء الرباعي الأبعاد
+four-factor formula	صيغة العوامل الأربعة (ن)
+four-force	قوة رباعية
+four-momentum	زخم رباعي
+four-terminal network	شبكة رباعية الأطراف
+four-terminal resistance	مقاومة رباعية الأطراف
+four-velocity	سرعة رباعية
+Fourier analysis	تحليل فورييه
+Fourier series	متسلسلة فوريية
+Fourier theorem	مبرهنة فورييه
+Fourier transform	تحويل فورييه
+fourth dimension	بعد (ال...) الرابع
+fractional distillation	تقطير تجزّئي / تقطير مجزأ
+fractional isotopic abundance	وفرة نظائرية جزئية
+fractionating columns	أعمدة مجزّئة
+fragile	كَسُورٌ
+frame of reference	جملة مرجعية
+frames of reference	أطر مرجعية (ن)
+francium	فرانسيوم
+Franck-Condon principle	مبدأ / مبدأ فرانك-كوندون
+Frank-Red source	مصدر
+Franklin equation	معادلة
+Fraunhofer diffraction	انعراج فراونهوفر
+Fraunhofer lines	خطوط / خطوط فراونهوفر
+Fraunhofer spectrum	طيف
+free air ionisation chamber	غرفة تأين طليقة الهواء (ن)
+free atom	ذرة حرة
+free body	جسم حرّ
+free charge	شحنة حرة
+free electron	الكترون حر / إلكترون حر
+free electron gas	غاز الإلكترونات الحرة
+free electron theory	نظرية الإلكترونات الحرة
+free energy	طاقة حرة / الطاقة الحرة
+free enthalpy	أنطلبية حرة؛ محتوى حراري حر
+free falling	سقوط حر
+free falling acceleration	تسارع السقوط الحر
+free field	مجال حر / حقل حر
+free field sensitivity	حساسية مجال حر
+free grid	شبكة طليقة
+free grid; floating grid	شبكة طليقة
+free oscillation	ذبذبة حرة
+free particle	جسيم حر (ن) / جسيم حر
+free period of circuit; natural (free) period	دور ذاتي لدارة
+free surface	سطح حر
+free system	جملة طليقة
+free valence	تكافؤ حر
+free vibrations	اهتزازت حرة / ذبذبات حرة
+free volume	حجم حر
+free-atom cross section	مقطع عرضي لذرة طليقة (ن)
+free-body diagram	مخطط الجسم الحر
+free-energy change	تغيير الطاقة الحرة
+free-energy function	دالة الطاقة الحرة
+free-gas model	نموذج الغاز الطليق (ن)
+free-molecule diffusion	انتشار الجزيئات الطليقة
+free-space field intensity	شدة مجال الفضاء الحر
+free-surface energy	طاقة السطح الحرّ
+freezing apparatus	جهاز تجميد
+freezing curve	منحنى التجمد
+freezing machines	ماكنات التجميد
+freezing point	نقطة التجمد / نقطة التجمد/الجمود
+Frenkel defect	عيب فرنكل
+freon	فريون
+frequency	تردّد / تردد؛ تواتر
+frequency changer	مغير التردد
+frequency converter	مغير التردد
+frequency distortion	تشوه ترددي
+frequency domain	ميدان التمثيل الترددي
+frequency meter	مقياس التردد
+frequency modulation	تعديل التردد / تعديل ترددي
+frequency multiplier	مضاعف التردد
+frequency of oscillation	تردد الذبذبة
+frequency of waves	تردد الأمواج
+frequency response	استجابة التردد / استجابة ترددية
+fresh nuclear material	مواد نووية بكر (ن)
+Fresnel biprism	موشور الثنائي / موشور فرينل الثنائي
+Fresnel coefficient of drag	معامل الانجرار لفرنل
+Fresnel diffraction	حيد فرنل / انعراج فرينل
+Fresnel ellipsoid	مجسم فرينل الإهليلجي
+Fresnel equations	معادلات فرينل
+Fresnel formulae	صيغ فرينل
+Fresnel zones	مناطق فرينل
+Fresnel's reflection formula	صيغة فرينل للانعكاس
+friction	احتكاك
+friction coefficient	معامل الاحتكاك
+friction cone; cone of friction	مخروط الاحتكاك
+friction force	قوة الاحتكاك
+frictional electricity	كهربائية الدلك
+frictionless flow	جريان دون احتكاك
+fringe	هدب
+fringes of equal inclination	أهداب تساوي الميل
+fringes of equal thickness	أهداب تساوي الثخن
+fringes of interference	أهداب التداخل
+front focal length	بعد (ال...) البؤري الأمامي / بعد بؤري جسمي
+frost	صقيع
+fuel	وقود
+fuel assembly	مجمع وقود (ن) / تجميعة الوقود
+fuel brun-out	حرق الوقود (ن)
+fuel bundle; fuel cluster	مجموعة وقود (ن)
+fuel cell	خلية الوقود
+fuel channel	قناة وقود (ن) / قناة الوقود
+fuel charge	شحنة وقود (ن)
+fuel charging machine	ماكنة شحن الوقود (ن)
+fuel consumption charge	كلفة استهلاك الوقود (ن)
+fuel control	تحكيم بالوقود (ن)
+fuel cooling installation; cooling pond	منشأة تبريد الوقود (ن)
+fuel cycle	دورة الوقود (ن) / دورة الوقود
+fuel cycle cost	كلفة دورة الوقود (ن)
+fuel densification	تكثيف الوقود (ن)
+fuel element	عنصر الوقود (ن) / عنصـر الوقود
+fuel element base	قاعدة عنصر الوقود (ن)
+fuel handling	تعامل (ال...) مع الوقود (ن)
+fuel inventory	جرد الوقود (ن)
+fuel loading machine	آلة تحميل الوقود (ن)
+fuel management	ادارة الوقود (ن)
+fuel pellet	قرص وقود (ن)
+fuel plate	صفيحة وقود (ن)
+fuel power	قدرة الوقود (ن)
+fuel rating	تقدير نوعي للوقود (ن)
+fuel reprocessing	معالجة الوقود (ن) / إعادة معالجة الوقود
+fuel rod	قضيب وقود (ن) / قضيب الوقود
+fuel use charge	كلفة استخدامِ الوقود (ن)
+fugacity	انفلاتية (غازية) / آبقية
+fulcrum	مرتكز / مرتَكَز
+fulgurator	مرذاذ / مِرذاذ
+full radiation	اشعاع تام / إشعاع كامل
+full radiator	مشع كامل
+full radiator; black body, complete radiator	مشع تام
+full wave rectification	تقويم كامل الموجه / تقويم الموجة الكاملة
+full width at half maximum	عرض (ال...) التام عند منتصف الارتفاع (ن)
+fume	دخان
+function	دالة
+function generator	مولد الدَّوال
+function of state	دالة الحالة
+functional	دالَّي؛ تابعي
+functional derivative	مشتقة دالية
+fundamental	أساسي
+fundamental band	نطاق أساسي
+fundamental charge	شحنة أساسية
+fundamental constant	ثابت أساسية (ن)
+fundamental length	الطول الأساسـي
+fundamental note	نغمة أساسية
+fundamental particle	جُسيم أولي
+fundamental series	متسلسلة (ال...) الأساسية (ن) / متسلسلة أساسية
+fundamental state	حالة أساسية؛ حالة دنيا
+fundamental units	واحدات أساسية
+funnel	قمع
+Furry theorem	مبرهنة
+fuse	فاصمة، صهيرة / فاصمة؛ صهيرة
+fuse (to) ; melt	يصهر
+fusion	اندماج، انصهار / اندماج؛ انصهار
+fusion energy	طاقة الاندماج
+fusion reaction	تفاعل اندماج
+fusion reactor	مفاعل الاندماج

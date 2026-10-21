@@ -1,0 +1,164 @@
+عائد	Anaphor
+عائدي	Anaphoric
+عادة	Habitus
+عَادِيٌّ	banal
+عَاطفـة	emotion / passion
+عالم آخَرُ	other world
+عالم الصواتة	Phonologist
+عالميّ	universal
+عالَميـة	internationality
+عَامِل	Governor / Operator
+عامل الزمن في الفعل	Aspect
+عامِل، فاعِل	actant
+عامِليّ	actantial
+عامي	Colloquial
+عاميّة	Informalisation
+عبارات التّحبّب	Endearment (Terms of)
+عِبَارَة	Locution
+عبارة الصلة	Relative clause
+عبارة جامدة	Idiomatic
+عبارة متداولة	Cliché
+عَبر الأشخاص	Interpersonal
+عبر تاريخيّ	transhistorical
+عبر دوليّ	transnational
+عُبُور	crossing
+عبور الحدود	Border Crossing
+عبور اللُّغة	Language Crossing
+عبور ثقافيّ	transculturalism
+عُجْرَة	Node
+عُجْمَة، لَحْن	Barbarism
+عَجِيب	fantastic
+عجيب، مُذهِل	wonderful
+عجيبة، أعجوبة	wonder; marvel
+عدد	Number
+عددي	Numeral
+عدم اشتمال	Non inclusion
+عدم انتماء	Non belonging
+عربة تاسبيس	Drawan wagon of Thespis
+عرض	Implicature
+عرض الاسترجاع	In medias res exposition
+عرض القناع	Masque
+عرض اللاّقناع	Antimasque
+عرض المآثر	Pageant
+عرض الممثّل الواحد	One man show
+عرض حالة	reportage
+عَرَضِي	Accidental / Contingent
+عَرُوض	prosody
+عَزْم، قـرار	determination
+عُسْر الإملاء	Dysorthographia
+عُسْر التطريز	Dysprosodia
+عُسْر القراءة	Dyslexia
+عسلطة قرائية	Paralexy
+عسلطة نحوية، عَفَك	Paragrammatism
+عِشْقيّ	erotic
+عشقيّة	eroticism
+عشوائيّ، عَرَضيّ	aleatory
+عصا قيّم الاستدالة	Baton of director
+عُصاب	neurosis
+عُصبَة المُناوئين	Cabal
+عصور قديمة	antiquity
+عضو النطق	Articulatory organe
+عُضْو نُطْقِي متحرك	Active articulator
+عَطْف النسق	Coordination
+عِقاب	punishment / sanction
+عَقْدُ الاقتباس	Adaptation contract
+عُقدة	knot
+عقِيدة	dogma
+عكس	Chiasmus
+علاقات التداعي، علاقات منسقية	Associative relations
+علاقـة	Relation / relation
+علاقة أدبية	literary relation
+علامات تطريزية	Prosodic marks
+عَلاَمة	Mark / Marker / sign
+علامة إقحام	Caret
+علامة الاستفهام	Question mark
+علامة الإعجام	Diacritic symbol
+علامة التعالق	Correlation 's mark
+علامة التنغيم الصاعد	Ascending intonation mark
+علامة التنغيم الهابط	Descending intonation mark
+علامة الحد	Barrier mark
+علامة الفئة	Index of class
+علامة الفصل	Demarcative
+عَلاَمة النبر	Accent mark
+علامة خطيّة	character; signe
+عَلاَمَة مميِّزة	Tilde
+عِلْم	science
+علم اجتماع الأدب	sociology of literature
+علم اجتماع اللُّغة	Sociology of Language
+علم الاجتماع اللغوي	Sociology of language
+علم الإِحْصاء	statistics
+علم ُالأدب	literary science
+علم الأساطير	mythology
+عِلْم الأسطورة	mythology
+علم الأسطورة البيضاء	white mythology
+علم الإشارات	Semiology
+علم الإشارة	Semiotic
+علم الإشارة الاجتماعيّ	Social Semiotic(s)
+علم الأصوات الكلاميّة	Phonology (Phonological)
+علم الأصوات المقطعيّة	Suprasegmental (Phonology)
+عِلْم الأنساب	genealogy
+علم الإنسان	Anthropology
+عِلْم الأيقونة	iconology
+علم البيان	rhetoric
+عِلْم التحقيق	manuscriptology
+علْم التّحكم الآلي	cybernetic
+علم التخاطب	Pragmatics
+عِلْم التشفير	codicology
+علم التصور، علم الصورة الخاطئة	imagology
+علم الخطوط، خطوطيات	Paleography
+علم الدّلالة	Semantics
+علم الدّلالة العِرقيّ	Ethnosemantics
+علم الرّموز	Semiology
+علم السرد	narratology
+علم السّياسة اللُّغويّة	Politics of Language
+علم الصّرف	Morphology
+علم الصّوتيّات	Phonetics (Phonetic)
+علم الصّوتيّات الاجتماعيّ	Sociophonetics
+عِلْم العَرُوض	Metrics / Prosody
+علم القافية والعروض	versification
+علم القواعد اللّفظيّ	Lexicogrammar
+علم القيم	axiology
+علم الكتابة، علم النَّحْو	grammatology
+علم اللُّغة الاجتماعيّ	Sociolinguistic
+علم اللُّغة الاجتماعيّ الجزئيّ	Microsociolinguistics
+علم اللُّغة الاجتماعيّ الكلّيّ	Macrosociolinguistics
+علم اللُّغة اللُّغويّ	Linguistic Ecology
+علم اللغة، لسانيات	linguistics
+علم اللُّغويّات التّطوّري	Developmental Linguistics
+علم اللهجات	Dialectology
+علم اللّهجات الاجتماعيّ	Social Dialectology
+علم اللّهجات الإدراكيّ	Perceptual Dialectology
+عِلم المَشهد	Scenology
+علم المصطلح، مصطلحيات	terminology
+عِلْم المصطلح، مُصْطَلَحِيَة	Terminology
+علم المعنى	Semantic
+علم الموضوعاتية	thematology
+علم النّحو	Syntax
+علم النّفس الاجتماعيّ	Social Psychology
+علم النّفس الخطابيّ	Discursive Psychology
+عِلْم الوجود	ontology
+علم الوسائط، وسائطيات	media studies
+علم قواعد الإملاء والتّهجئة	Orthography
+عِلَّة	Glide
+عِلَّة، سَبَب	cause
+علوم البلاغة	Rhetorics
+عِلِّيّة، سببيّة	Causality
+عَمَل	Government / Rection
+عمل حركيّ	work in progress
+عمل رقميّ غير مبرمج	unprogrammed digital work
+عمل رقميّّ مُبَرمَج	programmed digital work
+عَملٌ، فِعل	act
+عمليّة التّأشير	Signing
+عمليّة تبسيط اللُّغة	Pidginisation
+عَمَه لغوي	Audi-muteness
+عُنْصـر	Element / Member / element
+عُنْصُر قَارٌّ	Constant
+عنف رمزيّ	symbolic violence
+عُنـوان	title
+عنوان فرعيّ	under title
+عَنْونة فرعية	intertitle
+عولمة	world-wide
+عَيْن الأمير	Prince ‘s eye
+عيْن السّتارة	Eye curtain
+عيّنة	Sample
+عينة بالحصص	Sampling by quota

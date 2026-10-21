@@ -1,0 +1,746 @@
+saccharic	سكّري
+saccharic acid	حمض السكاريك
+saccharides	سكريدات
+saccharidification	تسكير
+saccharification	تَسَكُّر
+saccharin	سكارين / سكّرين
+saccharometer	مقياس السكر (الاستقطابي)
+saccharose	سكّروز
+saddle point	نقطة سرجية
+safe	آمن، سالم
+safety	أمان
+safety glass	زجاج الأمان
+safety matches	ثقاب الأمان
+safety precautions	احتياطات أمن، تدابير أمن
+safety valve	صمام الأمان
+safflower oil	زيت العُصْفُر
+saffron	زَعْفران
+salicyclic acid	حمض ساليسيليك، حمض الصفصاف
+salicyl	ساليسيل
+salicyl alcohol	غَوْل الساليسيل (الصفصاف)
+salicylal	ساليسيلال
+salicylaldehyde	ألدهيد الساليسيل (الصفصاف)
+salicylamide	أميد الساليسيل (الصفصاف)
+salicylanilide	أنيليد الساليسيل (الصفصاف)
+salicylate	ساليسيلات
+salicylic acid	حمض الساليسيليك (الصفصاف)
+saline	ملحي
+salinity	مُلوحة
+salt	ملْح / ملح
+salt (common)	ملح عادي
+salt bath	مغطس ملحي
+salt bridge	جسر ملحي
+salt glazing	تزجيج بالملح
+salt rock	ملح صخري
+salting in	تمليح
+salting out	فصل بالملح
+saltpeter	ملح البارود
+saluretic	مدرّ الملح
+salvarsan	سلفرسان
+samarium	ساماريوم / سماريوم
+sample	عينة
+sampling	اعتيان
+sand	رمْل / رمل
+sand bath	حمام رملي
+Sandmeyer reaction	تفاعل ساند ماير
+Sandmeyer's reaction	تفاعل ساندماير
+sandwich molecule	جزيء شَطِيري
+sanitizer	مطهّر
+santal oil	زيت الصندل
+santalum	صَنْدَل
+saponification	تصبن، تصبين / تصبّن
+saponification number	رقم التصبُّن
+saponifification value	قيمة التصبّن
+saponin	صابونين
+sapphire	ياقوت أزرق
+saprophyte	رمام، رمّي
+saran	ساران
+sarin	سارين
+saturate (to)	أشْبَّع، شبَّع
+saturated	مشَبَّع
+saturated hydrocarbon (alkane)	فحم هيدروجيني مشبع (ألكان)
+saturated solution	محلول مشبع
+saturation	إشباع
+saturation pressure	ضغط الإشباع
+saxitoxin	سكسيتوكسين
+Saybolt universal viscosity	لزوجة سيبولت العامة
+Saytzeff rule (Zaitsev)	قاعدة سيتزف
+scalar	سُلَّمِي، عددي
+scale	سلّم, ميزان، قشرة
+scale factor	عامل القياس
+scaling up	تكبير
+scan (v)	يمسح
+scandium	سكانديوم
+scanning	مَسْحٌ
+scanty (chardly soluble)	قليل الذوبان
+scarlet	قرمزي
+scatter diagram	مخطّط التشتّت
+scattered rays; scattered beam	أشعة منتشرة، أشعة مبعثرة
+scattering	انتشار، بعثرة / تَشتّت
+scavenger	منقّي، قَمَّام
+scavenging	تسفية, تنقية
+scent	شذى، رائحة / عطر, شذا
+Schaiffer acid	حمض شيفر
+schematic diagram	مخطط ترسيمي
+scheme	مخطط، رسم بياني
+Schiff base	قاعدة شيف
+Schiff's reagent	كاشف شيف
+Schmidt reaction	تفاعل شميدت
+Scholl reaction	تفاعل شول
+Schorigin reaction	تفاعل شوريجين
+Schotten-Bauman reaction	تفاعل شوتن-بومان
+Schr?dinger equation	معادلة شرودنغر
+Schrodinger equation	معادلة شرودينغر
+Schweitzer’s reagent	كاشف شفايتزر
+scintillation	وَمَضان
+scintillation counter	عدّاد الومضان
+scission	قَطْعٌ
+scleroprotein	بروتين صلب
+scouring agent	عميل تنظيف
+scrap metal	خردة
+scrape (v)	يكشُط
+scratch (v)	يحكّ
+screen	مرشّح، شاشة منخل / منخل، شاشة، دريئة
+screen (v)	يتحرّى، يتقصّى
+screening	حجْب، تقصِّي
+screening agent	عميل تحرّي، عميل حجب
+screening constant	ثابتة الحجب
+screening effect	تأثير الحجب
+scrubber	جهاز غسل الغازات
+scrubbing	غسْل الغازات / غسل الغاز
+scum	طفاوة، زبد
+Seaboard process	طريقة سيبورد
+sealant	مُحكِم
+search	بحث، تنقيب
+sebacic acid	حمض السيباسيك
+second	ثاني، ثانية
+second - order reaction	تفاعل من المرتبة الثانية
+second law of thermodynamic	القانون الثاني في الترموديناميك
+second law of thermodynamics (the...)	قانون (ال...) الثاني للدينامية الحرارية، قانون (ال...) الثاني في الثرموديناميك
+second-order reaction	تفاعل من المرتبة الثانية، تفاعل من الدرجة الثانية
+secondary	ثانوي
+secondary quantum number	العدد الكمومي الثانوي
+secretion	إفراز
+sediment	ثفل، رسابة
+sedimentation	تثقيل، ترسُّب، ترسيب / ترسُّب، إرساب، رسوب
+sedimentation rate	معدّل الترسُّب
+seed	بذرة
+seeding	بَذْر
+segment	قطعة
+segregation	عزْل، فصْل
+selection	انتقاء
+selective	انتقائي
+selective absorption	امتصاص انتقائي
+selective solvent	مذيب انتقائي
+selectivity	انتقائية
+selector	منتقٍ، منتخِب
+selenic acid	حمض السلينيك / حمض السيلينيك
+selenide	سيلينيد، سيلينور
+selenious	سيليني
+selenious acid	حمض السيليني
+selenium	سيلينيوم
+self (adj)	ذاتي، تلقائي
+self-diffusion	انتشار ذاتي
+self-ignition	اشتعال ذاتي
+semi synthetic	نصفُ اصطناعي
+semi-	نصف، شبه / نصف
+semi-micro	نصف مجهري، نصف ميكروي
+semi-permeable	نصف نَفوذ، نصف منفِد
+semi-permeable membrane	غشاء نصف نفوذ
+semiconducteurs	أنصاف الموصلات، أشباه الموصلات، أنصاف الناقلات
+semiconductor	نصف ناقل
+semipermeable membrane	غشاءٌ نصفُ نفوذ
+semipolar	نصف قطبي، شبه قطبي / نصفُ قطبي
+semipolar bond	رابطة نصف قطبية
+sensitive	حسّاس
+sensitive balance	ميزان حسّاس
+sensitive heat	حرارة محسوسة
+sensitivity	حساسية / حساسيّة
+sensor	مُحِسٌّ
+sentizer	مثير للحساسية، مستثير الحفز
+separate (v)	يفصل
+separating funnel	قمع فصل / قمعُ فصل
+separation	فصْل / فَصْلٌ
+separator	فاصل، حاجز
+septic	عنفي، قيحي
+sequence	متتالية، متتابعة / تتالي، تتابع
+sequestering agent	عميل التنحية، عميل الفصل
+sequestration	تنحية (الأيونات)، فصْل / حَجْبٌ، تنحية
+serie	سلسلة، متسلسلة
+series	سلسلة
+serpentine	سربنتين
+serum	مصل
+sesame oil	زيت السمسم
+sesqui	مرة ونصف
+sesqui-	واحد ونصف
+sesquiterpene	أحادي ونصف التربين
+set	تقسية
+setting point	درجة التجمّد
+setting up	تَجَمُّد
+settle (v)	يترقد
+settler	مرسِب / مِرقد
+settling	ركود، استقرار / ترقيد
+severity factor	عامل الحِدَّة
+sewage treatment	معالجة مياه المجاري
+shade	ظِلّ / ظل
+shadow	خيال
+shake	خّضٌ
+shaker	خضاض، خضخاضة، رجّاجة / رجّاج
+shaking machine	خضّاضة
+shaking screen	غربال رجّاج
+shale	سِجّيل
+shale oil	زيت السِّجّيل
+sharp	حادّ
+sharp odour	رائحة حادة، رائحة نَفُوذ
+sharp sand	رَمْلٌ حاد
+shearing	قصّ
+sheet	صفحة / صفيحة
+shell	طبقة / طبقة، قشرة
+shield	حجاب، درع، حائل
+shield (nucl.)	حجاب
+shielding	حجْب (للوقاية) / حماية
+shift	انزياح
+shift reaction	تفاعل الإزاحة
+shifting	انزياح
+shock wave	موجةُ صدمٍ
+short	مُعْوِز
+shrinkage	انمكاش، تقلُّص / انكماش
+shunt	تحويلة
+siccative	مجفف
+sickle flask	دورق منجلي
+sicklemia	فَقْرُ دم مِنْجَلِيّ
+side chain	سلسلة جانبية
+side product	مُنْتَج ثانوي
+side reaction	تفاعلٌ جانبي
+siderite	سيدِريت
+sidero-	حديدي: سابقة
+sieve	منخل / مُنْخُل
+sieving	نَخْلٌ
+sift (v)	يغربل
+sigma bond	رابطة سيغما
+sign	شارة، علامة
+significant figures (calculations)	أرقام دالة
+silane	سِيلان
+silane compounds	مُرَكَّبات السيلان
+silex	صوَّان، سيلكس
+silica	سيليكا
+silica gel	هُلام السيليكا
+silicate	سيليكات
+silicic acid	حمض السيليسيك
+silicon	سيليكون / سيليكون،سيليسيوم
+silicone	سيليكونات
+silk	حرير
+silk (artificial...)	حرير (اصطناعي)
+sillicic acid	حمض سيليسيك
+siloxane	سيلوكسان
+silver	فضة
+silver acetate	أسيتات الفضة
+silver bromide	بروميد الفضة
+silver chloride	كلوريد الفضة
+silver chromate	كرومات الفضة
+silver cyanide	سيانيد الفضة
+silver halide	هاليد الفضة
+silver iodide	يوديد الفضة
+silver nitrate	نترات الفضة
+similar	شبيه
+simple distillation	تقطير بسيط
+simulation	محاكاة
+simultaneous	متواقِت
+single bond	رابطة أحادية / رابطةٌ أُحادية
+single stage	مرحلةٌ أُحادية
+singlet	أُحادية
+singlet linkage	ارتباط مفرد
+sintered glass crucible	بوتقة من الزجاج اللّبادي
+sintering	تلبيد
+sintering (operation)	تلبيد
+siphon	سيفون، مِمَصّ
+six-membered ring	حلقة سداسية
+skeleton	هيكل
+skeleton crystal	بِلَّورة هيكلية
+skewed conformation	تشكيل دوراني متجانف
+skimming	قشْد، تقطير أولي، حذف الجزء الغازي
+skin	جِلْد
+slacked lime	كلس مطفأ
+slag	خبث، جفاء / خَبَث
+slaked lime	كلس مُطْفَأ
+slicer	قاطعة، مشرحة
+slip clay	غضار منزلق
+sludge	حَمْأَة، حَمَأ
+sludge acide	نُفاية حمضية
+slurry	رَوْبَة
+smell	رائحة
+smelting	صَهْرٌ كيميائي
+smog	ضباب دخاني (ضَبَخان)
+smog (smoke and fog)	ضباب دخاني، دخان ضبابي (للصناعات)
+smoke	دخان
+snow	ثلْج
+snow (crystal structure...)	تركيب بلوري للثلج
+snow flakes	قشيرات ثلجية، كشف ثلجية
+snow point	نُقْطَة الثلج
+soaked	متشرب
+soap	صابون
+soda	صودا
+soda (washing)	صودا الغسيل
+soda ash	رماد الصودا
+soda lime	كِلْسٌ صودي
+soda, washing	صودا الغسيل
+soda-ash	رماد الصودا
+sodamide	أميد الصوديوم
+sodium	صوديوم
+sodium amalgam	ملغمة الصوديوم
+sodium benzoate	بنزوات الصوديوم
+sodium bicarbonate	بيكربونات الصوديوم
+sodium bisulfite	بيسُلْفيت الصوديوم
+sodium borate	بورات الصوديوم
+sodium carbonate	كربونات الصوديوم
+sodium chlorate	كلورات الصوديوم
+sodium chloride	كلوريد الصوديوم
+sodium fusion test	اختبار الصهر بالصوديوم
+sodium hydride	هيدريد الصوديوم
+sodium hydrogen carbonate	بيكربونات الصوديوم
+sodium hydroxide	هيدروكسيد الصوديوم
+sodium hypochlorite	هيبوكلوريت الصوديوم
+sodium nitrate	نترات الصوديوم
+sodium nitrite	نتريت الصوديوم
+sodium perchlorate	فوق كلورات الصوديوم
+sodium peroxide	فوق أكسيد الصوديوم
+sodium salicylate	ساليسيلات الصوديوم
+sodium sulfide	سُلْفيد الصوديوم
+sodium thiosulphate	تيوسلفات الصوديوم
+soft	ليّنٌ، رَخْوٌ
+soft phosphate	فسفات ليّنة
+soft powder	مسحوق ناعم
+soft water	ماء لين، ماء يسر / ماء يَسِر
+softener	ملَين، ملَدِن / مُليّن، مطرّي
+softening point	نقطة التليّن (التطرية)
+software	برمجيات
+sol	صول، صل / حُلالة
+solar cell	خلية شمسية
+solar energy	طاقة شمسية
+solar system atom	ذرة نظام شمسي
+solder	سبيكة لحام / لِـحام
+solid	صلْب / صلب، جامد
+solid solution	محلول صلب
+solid state	حالة الصلابة
+solid state chemistry	كيمياء الحالة الصلبة
+solidification	تصلُّب / تصلُّب، تجمّد
+solidify (to)	صلَّبَ
+solidity	صلابة
+solubility	ذوبانيّة / ذوبان، ذوبانية
+solubility factor	عامل الذوبانية، عامل الذائبية
+solubility product	جداء الذوبان
+solubility-product constant	ثابت جداء الذوبانية، ثابت جداء الانحلال
+solubility-products	جداءات الذوبان
+soluble	ذؤوب، قابل للذوبان
+soluble oil	زيت ذوّاب
+solute	مذاب، منحل / مُذاب، ذائبة
+solution	محلول
+solution colloidal	محلول غرواني
+solution true	محلول حقيقي
+solutrope	مزيج انتقائي الذوبان
+solvate	مستحلّ، حلحول
+solvated electrons	ألكترونات مستحلّة، ألكترونات مذاوبة
+solvation	حلحلة، تمذيب / تَذَوُّب
+solvay process	طريقة سلفاي / طريقة سولفي
+Solvay tower	برج سولفاي
+solvent	مذيب، محِلّ / مذيب
+solvent aprotic	مذيب لا بروتوني
+solvent drying	تجفيف بالمذيب
+solvent effect	تأثير المذيب
+solvent extraction	استخلاص بالمذيب
+solvent latent	مذيب كامن
+solvent-system theory of acids and bases	نظرية النظام المذيب، نظرية جملة المحلّ
+solvolysis	تحلحلٌ، تذُّوب / حَلْحلة
+soman	سُوْمان
+sonolysis	تحلُّلٌ صوتي
+sorbent	مُرتشِف
+sorbic acid	حمض السوربيك
+sorbide	سوربيد
+sorbitan	سوربيتان
+sorbitol	سوربيتول
+sorption	امتصاص، امتزاز / ارتشاف
+sour	حامض
+sourness	حامضية
+Soxhlet extractor	جهاز سوكسله للاستخلاص
+space	فضاء
+space velocity	سرعة فراغية
+spar	سْبار
+sparger	باثِق
+spark	شرارة
+sparking material	شرارة
+spatula	ملوق / مِلْوَق
+species	نوع / نَوْعٌ
+specific	نوعي / نوعيّ
+specific conductance	توصيل نوعي / موصليّة نوعية
+specific gravity	ثقالة نوعية
+specific gravity (or weight)	وزن نوعي
+specific heat	حرارة نوعية، حرارة مميزة / حرارة نوعية
+specific optical rotation	دورانٌ ضوئيٌّ نوعي
+specific refractivity	انكسارية نوعية
+specific surface	سطحٌ نوعي
+specific volume	حجمٌ نوعي
+specific weight	وزنٌ نوعي
+specification	مُواصفة
+specimen	عيّنة / نموذج
+spectra	أطياف
+spectral	طيفي
+spectral analysis	تحليل طيفي
+spectrofluorometer	مقياسُ التألّقِ الطيفي
+spectrogram	مخطَّطُ الطيف
+spectrograph	راسم الطيف، سبكتروغراف / مِخْطاط الطيف
+spectrographic analysis	تحليلٌ بالتخطيط الطيفي
+spectrography	تخطيطٌ طيفي
+spectrometer	مقياس الطيف، مطياف / مقياسُ الطيف
+spectrometry	قياسُ الطيف
+spectrophotometer	مقياس الطيف الضوئي، مطياف ضوئي، فوتومتر طيفي / مقياسُ الضوء الطيفي
+spectrophotometry	قياسُ الضوء الطيفي
+spectropolarimeter	مقياسُ الاستقطاب الطيفي
+spectroscope	كاشف الطيف / منظارُ الطيف
+spectroscopy	مكشافية الطيف، مطيافية الكشف / تنظيرُ الطيف
+spectrum	طيف / طيفٌ
+spectrum (absorption)	طيف الامتصاص
+spectrum (arc)	طيف القوس
+spectrum analysis	تحليلُ الطيف
+speed	سرعةٌ
+sperm oil	زيتُ العنبر
+spermaceti	ناطفُ الحوت، شمعُ العنبر
+sphingol	سْفِنْغول
+sphingolipid	شَحْمٌ سفنغولي
+sphingomyelin	سفنغوميلين
+spin	سَبين
+spin angular momentum	اندفاعٌ زاوي سَبيني
+spin coupling	اقترانٌ سبيني
+spin momentum	عَزْمٌ سَبينيّ
+spin quantum number	العدد الكمي السَبيني
+spin resonance	تجاوبٌ سبيني
+spin-orbit interaction	تآثر مَداري سَبيني
+spinel	سْبينِل
+spinneret	مِغزال
+spiral	حلزوني
+spirit	روح، غول / رَوْحٌ
+spirosystem	جُمْلةٌ لولبية
+splint coal	فَحْمٌ شَظَوي
+splinter	شظية
+splitting	انشقاق
+splitting energy	طاقة الشق، طاقة الفصم
+sponge	إسفنج
+spongy	اسفنجي
+spontaneous	تلقائي / تلقائي، عفوي
+spontaneous combustion	احتراق تلقائي
+spontaneous mixing	خلط تلقائي، مزج تلقائي
+sporadic	فُرادى، مُتقطّع
+spot	بقعة
+spot test	اختبارُ البقعة
+spray (to)	رَذَّ، رَشَّ
+spreading	انتشار
+squeezing	عَصْرٌ
+stability	ثبات، استقرار
+stabilization	تثبيت
+stabilization (tinghtening) of a compound	تثبيت مركب
+stabilizer	مثبِّت / مُثبّت
+stable	ثابت، مستقر / ثابت
+stable equilibrium	توازن ثابت
+stage	مرحلة
+staggered conformation	تشكيلٌ دوراني مُزاح
+stagnant	راكد
+stagnation	رُكود
+stain	لطخة، بقعة / تَلْوينة
+stain remorver	مزيل البقع
+stalagmometer	مقياس حجم القَطْرات
+stanates	قصديرات
+stand	حامل حديدي / حامل
+standard	معياري / مِعيار
+standard deviation	انحرافٌ مِعياري
+standard electrode potential	جهد مسروي معياري / كمون المسرى المعياري
+standard enthalpy of formation	محتوى (ال...) الحراري المعياري للتشكل
+standard flask	دورق معياري
+standard heat of formation	حرارة تَكوُّن معيارية
+standard hydrogen electrode	مسرى الهيدروجين المعياري
+standard oxidation potential table	جدول كمون التأكسد المعياري
+standard solution	محلول معياري
+standard state	حالة معيارية / حالةٌ مِعيارية
+standard temperature and pressure	درجة الحرارة والضغط المعياريين
+standardization	معايرة، توحيد القياس / تقييس
+standardize (to)	عاير، وحّد القياس
+standing wave	موجة مستقرة
+stannate	قصديرات
+stannic	قصدير (IV)
+stannic oxide	أكسيد القصدير
+stannite	قصديريت
+stannous	قصدير(II)
+starch	نشاء / نشا
+start up	إقلاع
+starter	مُبدئ
+starting	شروع، بدء
+state	حالة
+state function	تابعُ حَالةٍ
+state of motion	حالة حركية
+states of matter	حالات المادة
+static	ساكن
+static pressure	ضغط سكوني
+stationary	مستقر، ثابت، سكوني / مستقر
+stationary phase	طورٌ مستقر
+stationary state	حالة مستقرة
+stationary wave	موجةٌ مستقرة
+statistical	إحصائي
+steady	وطيد، مستقر
+steady state	حالة مضطردة / حالة مستقرة
+steam	بخار الماء الحار, هبّال
+steam (or vapour) bath	حمّام بخاري
+steam distillation	تقطير بالبخار
+steam jacket; chemise de vapeur	قميص بخار، دثار البخار
+steam oven	فرن بخاري
+steam stripping	نزْغ بالبخار / إِنْصالٌ بالبخار
+steam traps	مصائد بخارية
+steaming	معالجة بالبخار
+stearate	ستيارات, شمعات
+stearic acid	حمض ستياريك، حمض الشمع / حمض الستياريك (الشمع)
+stearin	ستيارين
+stearyl	ستياريل
+steel	فولاذ (صلب / فولاذ
+steeping	نقْع
+stellite	ستيليت
+Stephen aldehyde synthesis	اصطناع ستيفن للألدهيد
+Stephen process	طريقة ستيفن
+stereo-	فراغي: سابقة
+stereochemistry	كيمياء فراغية
+stereochemisty	كيمياء مجسمة
+stereoisomer	متصاوغ فراغي
+stereoisomeric	متصاوغ فراغيًا
+stereoisomerism	تصاوغٌ فراغي
+stereoisomery	تصاوغٌ فراغي
+stereorubber	مطاط فراغي
+stereoselectivity	انتقائية فراغية
+stereoselectivity; stereospecificty	انتقائية مجسمة، انتقائية
+stereospecific reaction	تفاعل نوعي فراغي
+stereospecificity	نوعية فراغية
+steric	فراغي
+steric effect	تأثير فراغي
+steric hindrance	إعاقة تجسمية / إعاقة فراغية
+sterile	معقّم، عقيم
+sterilization	تعقيم
+sterilizer	معقِّم، معقِّمة
+steroid	ستيروييد
+steroismers	متماكبات تجسمية، إيزوميرات تجسمية
+steroisomerism	تماكب مجسم
+Stevens rearrangement	إعادة الترتيب لستيفنز
+stibine	سْتيبين
+stibium	أنتيموان
+stibnite	ستيبنيت
+sticky	لزج، دبق / دَبِق
+stiffness	تيبّس
+stilbene	سْتيلبين
+stilbene dye	صِبْغ ستيلبيني
+still	إنبيق / مِقطار
+still head	عمود تقطير
+stimulant	منبّه / منبِّه
+stimulation	تنبيه
+stir (to)	قلَّبَ
+stirrer	قلاّب / محراك
+stirring	تقليب / تحريك
+stirring (magnetic)	تقليب مغناطيسي
+stirring (mechanical...)	تقليب آلي
+stirring rod	مقلِّب
+stock	مخزون
+stoichiometric equation	معادلة ستوكيومترية
+stoichiometry	علاقات (ال...) الكمية الكيميائية / ستوكيومترية
+Stokes law	قانون ستوكس
+stopcock	محبس، حنفية
+stopper	سدادة، فدام
+storage	تخزين
+storage battery	مِرْكم
+stove	موقد
+straight chain	سلسلة خطية
+strain	انفعال، إجهاد، سُلالة
+strand	جَديلة
+stratification	تَطَبُّق
+streaming potential	كمون الجريان
+Strecker degradation	تفكُّك ستريكر
+strength	قوة / متانة
+strength of acids	قوة الحمض
+strength of solution	قوة المحلول
+stress	توثُّر، جهد / إجهاد
+stretching	امتطاط
+string	وتر
+string theory	نظرية الأوتار
+strip	شريط
+strip(v)	يعرّي، يجرّد
+stripe	شريط
+stripping	نزْع، تقطير أولي / إزالة، إبعاد، إنصال
+stripping agent	عميل إنصال (إزالة)
+stripping analysis	تحليل بالإنصال (الإبعاد)
+strong acid	حمض قوي
+strong base	قاعدة قوية
+strontium	سترنتيوم / سْترونسيوم
+structural	بُنْيوي
+structural formula	صيغة بنيوية / صيغة بُنْيوية
+structural isomer	مُصَاوغ بُنْيوي
+structural isomerism	تصاوغ بُنيْوي
+structure	بنية، هيكل / بنية
+strychnine	ستريكنين
+stuff	مادة
+styrene	ستيرين
+styrene acrylonitrile	أكريلونتريل الستيرين
+styrene butadiene rubber	مطاط بوتاديين ستيرين
+sub acid	تحت الحمض
+sub-	تحت، دون: سابقة
+sub-group	مجموعة فرعية فئة
+sub-shell	طبقة ثانوية
+subatomic particle	جُسَيم تحتُ ذرّي
+sublimation	تسامٍ، تصعيد / تصعيد
+suboxide	تحت أكسيد
+subshell	طبقة فرعية
+subside (to)	استقرّ
+substance	مادة
+substantial	محسوس، أساسي
+substantive dye	صِباغ أساسي
+substituent	بديل / مُبادِل
+substitute	بديل
+substitute (to)	أبدل
+substitution	إبدال / تبادل، استبدال
+substitution reaction	تفاعل استبدال
+substitution reactions	تفاعلات استبدال، تفاعلات إحلال واستبدال
+substraction	طرْح
+substrate	ركازة، ركيزة / رُكازة
+substratum	رَكيزة
+subunit	وحدة فرعية
+succession	تتالي
+succinic acid	حمض السكسنيك (الكهرباء)
+sucrase	سكراز
+sucrose	سكروز / سكَروز
+suction	مَصّ
+suction fan	شرّاقة، مروحة، ماصة
+suction filter	مرشّح ماصّ
+sugar	سكر
+sugarbeet	شمندر سكري
+sugarcane	قصب السكر
+suggestion	إيحاء، اقتراح
+suitable	ملائم، مناسب
+suited	ملائم
+sulfamic acid	حمض السُلْفاميك
+sulfamide	سُلْفاميد
+sulfanilamide	سُلْفانيلاميد
+sulfanilic acid	حمض السُلْفانيليك
+sulfate	كبريتات، سُلْفات
+sulfate ion	أيون السُلْفات
+sulfating	تَسَلْفُت
+sulfation	سَلْفَتة
+sulfidation	سَلْفَدة، تَسَلْفُد
+sulfide	سُلْفيد
+sulfide dye	صِبْغُ السُلْفيد
+sulfide ion	أيون السُلْفيد
+sulfiding	سَلْفَدة
+sulfite	سُلْفيت
+sulfite ion	أيون السُلْفيت
+sulfo-	سُلْفو
+sulfonate	سُلْفونات، يُسلفن
+sulfonation	سَلْفَنَة، تَسَلْفُن
+sulfone	سُلْفون
+sulfonic	سُلْفونيك
+sulfonic acid	حمض السُلْفونيك
+sulfonium ion	أيون السُلْفونيوم
+sulfonium salts	أملاح السُلْفونيوم
+sulfonyl-	سُلْفونيل
+sulfosalt	ملح سُلْفوني
+sulfoxide	سُلْفوكسيد
+sulfur chloride	كلوريد الكبريت
+sulfur dichloride	ثنائي كلوريد الكبريت
+sulfur dioxide	ثنائي أكسيد الكبريت
+sulfur trioxide	ثلاثي أكسيد الكبريت
+sulfur, sulphur	كبريت
+sulfuration	كَبْرَتَة
+sulfuric	كبريتيك
+sulfuric acid	حمض الكبريتيك
+sulfuric acid fuming	حمض الكبريتيك المدخن
+sulfurization	كَبْرَتَة
+sulfurizing	كبرتة، مكبرِت
+sulfurous	كبريتي
+sulfurous acid	حمض الكبريتي
+sulfuryl	سُلْفوريل
+sulfuryl chloride	كلوريد السُلْفوريل
+sulphamide	سلفاميد
+sulphate	كبريتات
+sulphide	كبريتيد، كبريتور
+sulphuration	كبرتة
+sulphure	كبريت
+sulphuric acid	حمض الكبريت، حمض الكبريتيك
+sulphurous acid	حمض الكبريتي
+sumac	سُمّاق
+summary	ملخّص، موجز
+sunflower oil	زيت دوّار الشمس
+super	فائق، فوق، فرط
+super acidity	فائق الحموضة، فرط الحموضة، فوق الحموضة
+super actinide	أكتينيد فائق
+super alloy	سبيكة فائقة
+super-	فوق، فائق: سابقة
+super-cooling	فائق التبريد
+super-heated steam	بخار فائق (التسخن)
+super-phosphate	فوسفات ممتاز، سوبر فوسفات
+superconductivity	موصلية فائقة
+supercooling	تبريد فائق
+supercritical fluid	مائع فوق الحرج
+superficial	سطحي
+superheating	تسخين فائق
+superimposition	انطباق
+supernatant	طافي
+supernatant liquid	سائل طافٍ
+superoxide	أكسيد فائق
+superphosphate	فسفات فائقة
+superphosphoric acid	حمض الفسفوريك الفائق
+superposition	تراكب - انضمام
+supersaturated solution	محلول فائق الإشباع
+supersaturation	فائق التشبّع / فوق إشباع
+supply	تغدية، تموين
+support	دعامة، سندٌ
+surface	سطح
+surface area	مساحة السطح
+surface charge	شحنة سطحية
+surface chemistry	كيمياء السطوح
+surface energy	طاقة السطح / طاقة سطحية
+surface layer	طبقة سطحية
+surface phenomenon	ظاهرة سطحية
+surface property	خاصية سطحية
+surface reaction	تفاعل سطحي
+surface tension	توتر سطحي
+surface-active agent	فعّال سطحيًا / خافض التوتر السطحي
+surfactant	عامل تنشيط سطحي، فعالية سطحية / فعّال سطحيًا
+susceptibility	تأثرية / مِطواعية
+suspended particles	دقائق معلّقة، جسيمات عالقة، جسيمات معلّقة
+suspension	معلّق / معلَّق
+suspensoid	شبه معلّق، معلقاني
+sweating	تعرّق
+sweet	حلوٌ
+sweet oil	زيت حلو
+sweet water	ماء حلو
+sweeten (v)	يحلّي
+sweetener nonnutritive	مُحَلِّي عديمُ القيمة الغذائية
+sweetening	تحلية
+swelling	انتفاخ، ورم
+swelling agent	عميل انتفاخ
+sylvite	سيلفيت
+symbol	رمْز / رمز
+symmetric	متناظر
+symmetrical	تناظري (صفة)
+symmetry	تناظُر / تناظر
+symptom	عَرَض
+syn-	مجاور: سابقة
+synaptase	سينبتاز
+synchronism	تزامن
+synchronizer	موقّت
+synchronous	متزامن
+syncline	طية مقعرة
+syndiotactic polymer	بَلْمر تناوبي
+syneresis	انكماش الجل، نضج / إدغام
+synergism	تآزر
+synergist	معاون / مؤازر
+synergistic	مؤازر
+syngas	غاز اصطناعي
+synthesis	اصطناع
+synthesis gas	غاز الاصطناع
+synthetic	اصطناعي / اصطناعي، تخليقي
+synthetic fibres	ألياف اصطناعية
+synthetic gas	غاز اصطناعي
+synthetic rubber	مطاط اصطناعي
+syrup	شَراب
+system	نظام
+systematic error	خطأ منهجي

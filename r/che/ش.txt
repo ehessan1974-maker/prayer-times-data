@@ -1,0 +1,127 @@
+شائبة	adulterant / impurity
+شائع، مشترك	common
+شاحب	pale
+شاذّ	abnormal / anomalous
+شارة، علامة	sign
+شافّ	translucent
+شافّ، نصف شفاف	translucent
+شاهد	blank
+شَبّ	alum
+شب (ال...)	alum
+شب البوتاس	potash alum
+شب الكروم	chrome alum
+شبك معدني	wire-ash
+شبك معدني، شبكة سلكية	gauze (wire...)
+شبكة	grating / lattice / network
+شبكة (معدنية)	net (metallic)
+شبكة أسبستوس	asbestos gauze
+شبكة بلورية	crystal lattice
+شبكة معدنية	toile (metallic); wire gauze
+شبكة، صاف	net
+شبكي	reticular
+شَبَه	brass
+شَبَه أحمر	red brass
+شبه النشا، نشواتي	amyloid
+شبه بلّوري، بلّوراني	crystalloid
+شبه تاكتويد	tactoid
+شبه تصلّدي، يوتكتيد	eutectoid
+شبه تقليدي	quasi-classical
+شبه زجاجي	vitreous
+شبه زلالي، زُلالاني	albuminoid
+شبه ساكن	quasi-static
+شبه فلز	metalloid
+شبه فلز، شبه معدن	metalloid
+شبه قلوي، قلواني	alkaloid
+شبه مستقر	metastable
+شبه معلّق، معلقاني	suspensoid
+شبه، ظاهريا	quasi
+شُبَيْكة	lattice
+شبيكة انعراج	diffraction grating
+شبيكة أيونية	ionic lattice
+شبيكة بلورية	crystal lattice
+شبيه	similar
+شبيه التربين	terpenoid
+شَحْمٌ	grease
+شحم التزليق	lubrication grease
+شحم الخزير، دهن الخنزير، دهن...	lard (...oil)
+شحم الصوف	wool grease
+شحم تزليق	lubricating grease
+شحم حيواني	tallow
+شَحْمٌ سفنغولي	sphingolipid
+شحم سكري، ليبيد غليكولي	glycolipid
+شحمي	adipose / greasy
+شحميات، ليبيدات	lipids
+شحنة	charge
+شحنة أساسية	formal charge
+شحنة سطحية	surface charge
+شحنة شكلية	formal charge
+شحنة كهربائية	electric charge
+شحنة موجبة	positive charge
+شحنة نووية	nuclear charge
+شحوب	paling
+شدّد، قوّى	intensify (to)
+شُدفة، (جَذيذ)	fragment
+شِدة	intensity
+شدة الإشعاع	radiant intensity
+شدة الإضاءة	luminous intensity
+شدة متغيرة	variable intensity
+شدويك	chadwick
+شديد	vigorous
+شذوذ	abnormality
+شذوذ، حالة شاذة	abnormality
+شذى، رائحة	scent
+شَراب	syrup
+شراب الغلوكوز	glucose syrup
+شراب، سائل	liquor
+شرارة	spark / sparking material
+شرّاقة، مروحة، ماصة	suction fan
+شَروب	potable
+شَروب، صالح للشرب	potable (water)
+شروط حدّية	boundary conditions
+شروط حرجة	critical conditions
+شروط عادية	ordinary conditions
+شروط نظامية، ظروف طبيعية	normal conditions
+شروط، ظروف	conditions
+شروع، بدء	starting
+شريط	strip / stripe
+شريط صور	film strip
+شريط، عِصابة	band
+شطْف	rinsing
+شطْف، غسْل	flushing
+شَطور	fissionable
+شظية	splinter
+شعاع	ray
+شعاع غاما	gamma ray
+شعاعي	radial
+شعاعي، نصف قطري	radial
+شعري	capillary
+شُعيرة	filament
+شعيرة أُحادية	monofilament
+شغْل، عَمَلٌ	work
+شُغور	vacancy
+شغوف	lyophilic
+شغوف بالألكترونات، ألكتروفيل	electrophile
+شغوف بالألكترونات، ألكتروفيلي	electrophilic
+شغوف بالدايين، ديينوفيل، محب بالدايين	dienophyl
+شفاف	transparent
+شفافية	transparency
+شِفرة، رمز	code
+شفة، حافة، طرف	lip
+شقّ الدخول	entrance slit
+شكْل	form
+شكل حرف L	L-shape
+شكل كيتوني، شكل سيتوني	keto form
+شكْل، رقم	figure
+شلاّل	cascade
+شمْع	wax
+شمع البارافين	paraffin wax
+شمع النِّفط	petroleum wax
+شمع كارنوبا	carnuba wax
+شمعة	candle
+شمعة لومن	lumen
+شمندر سكري	sugarbeet
+شمولي، تمدّدي	extensive
+شوائب	impurities
+شوائب معدنية	gangue
+شَيٌّ، تكليس	roasting
+شيست ميكي، بلق ميكي	mica-shist

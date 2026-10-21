@@ -1,0 +1,523 @@
+sacred	مُقَدَّس
+safe deposit	إيداع بصندوق حديديّ، إيداع بخزانة
+safe hiring	إيجار الخزائن الحديدية، كراء الخزائن الحديدية
+Safety Stock	مخزون السلامة
+salary	راتِب
+sale	بَيْع / بيع
+sale bill	سند البيع
+sale by auction	بَيْع بالمزاد
+sale by sample	بَيْع بالعيّنة
+sale contract	عقد بيع
+sale in gross	بَيْع جزافيّ
+sale of third party's thing	بَيْع ملك الغير
+sale with option of repurchase; sale with option of redemption	بَيْع الوفاء، بَيْع مع خيار إعادة الشراء
+saleroom	قاعة البيع، مكان البيع
+sales	مَبيعات
+Sales Growth	نمو المبيعات
+Sales Mix	مزيج المبيعات
+Sales Revenue	إيرادات المبيعات
+salvage	مساعدة بحرية
+Same mark	علامة متقاربة
+sample	عينة
+Samples of the protected variety	عينات من الصنف المحمي
+sampling	أخذُ عينة
+sanction	جزاء، مصادقة، تصديق
+sanction of the law	تصديق على قانون، إصدار قانون
+Saturation Point	نقطة تشبع السوق
+saving	ادِّخار، توفير
+saving account	حساب توفير، حساب ادِّخار
+Scaled Advantage	ميزة متحجمة
+scarcity	ندرة، قلة، نقْص
+Schedule Levelling	جدول التسوية
+Schedule Of Payments	جدول المدفوعات
+Schedule Of Rates	جدول أسعار
+Scientific works	المصنفات العلمية
+scission	انقسام، انفصال، انشقاق
+Scope	نِطَاق عمل
+Scope Creep	زحف النطاق
+Scope of Protection	نطاق الحماية
+Scorecard	بطاقة الأداء
+Scrap Labor Costs	تكاليف العمالة الخردة
+sea risks	مخاطر بحرية
+seals	أختام
+Search Report	مَحْضَر التفتيش
+seasonal contract	عقد موسميّ
+seasonal unemployment	بطالة موسمية
+seasonal work; seasonal labour	عمل موسميّ، شغل موسميّ
+seasonal worker	أجير موسميّ، عامل موسميّ
+Secondary Data	بيانات ثانوية
+Secondary Legislation	تشريع ثانوي
+Secondary Market	سوق ثانوي
+Secondary Obligation	التزام ثانوي
+Secondary Sector Products	منتجات القطاع الثانوي
+Secondment	إعارة
+secret	سِرٌّ
+Secret Ballot	اقتراع سري
+secret session; closed session; hearing in camera	جلسة سرية
+secret vote	تصويت سريّ
+Secretary	أمين السر
+Secretary General	أمين عام
+Sector	قطاع
+secularity	عَلمانية
+Secured Creditor	دائن مضمون
+secured debt	دَيْن مضمون
+Secured Obligation	التزام مضمون
+Securities	أوراق مالية
+Securitization	تسنيد
+security	ضمان
+security measures	إجراءات أمنية، تدابير أمنية
+seduction	إغراء
+segmentation	انقسام
+segregation	تمييز، عَزْل، فَصْل
+Seizure	تحريز / حجز
+seizure of goods	حَجْز البضائع
+seizure of movable property	حَجْز المنقولات
+seizure of real property	حَجْز عقاريّ
+Seizure of trademarks	حجز العلامة
+Seizure Report	مَحْضَر الضبط
+seizure; sequestration	حَجْز
+selection	اختيار، انتخاب
+Selective Discrimination	التمييز الانتقائي
+Self-Actualization	تحقيق الذات
+Self-Administered Survey	المسح المدار ذاتيا
+self-defence	دفاع شرعيّ
+self-determination	تقرير المصير
+Self-Efficacy	كفاءة ذاتية
+Self-Executing Treaty	معاهدة ذاتية التنفيذ
+self-financing	تمويل ذاتيّ
+self-sufficiency	اكتفاء ذاتيّ
+selling price	ثمن البيع، سعر البيع
+semi-direct democracy	ديمقراطية شبه مباشرة
+Semi-Variable Costs	تكاليف شبه متغيرة
+senate	مجلس الشيوخ
+senator	عضو مجلس الشيوخ
+seniority	أقدمية
+Sense-Making	صنع الحواس
+SENSEX	سينسيكس
+Sensitivity Analysis	تحليل الحساسية
+sentence	حُكْم، قرار
+sentence of the court	منطوق الحكم
+SEO	تحسين محرك البحث
+separation	فَصْل، تفريق
+separation of corpse	تفريق جسمانيّ، انفصال جسديّ
+Separation Of Duties	فصل المهمات
+separation of patrimonies	فَصْل الذمم المالية
+separation of powers	فَصْل السلطات
+separatism	انفصالية، نزعة انفصالية
+Sequencing	تسلسل
+servants	خَدَمة البيوت، خَدَمة المنازل
+service	خدمة
+Service Encounter	لقاء الخدمة
+Service Level	مستوى الخدمة
+Service Levels	مستويات الخدمة
+Service Response Logistics	لوجستيات استجابة الخدمة
+Services	خدمات
+servient estate	عقار مرتفق به
+servitude	حقُّ ارتفاق
+servitude of drawing water; easement of drawing water	حقُّ اغتراف المياه
+SERVQUAL	جودة الخدمة
+session	جلسة، دورة
+set limits	تعيين الحدود، وَضْع الحدود
+Set-off	مقاصة
+settlement	تسوية
+Sexual Exploitation	استغلال جنسي
+share	سَهْم، نصيب، حصة / حصة
+share of capital	سهم رأس المال
+Share Of Wallet	حصة المحفظة
+share premium	علاوة إصدار
+share price	سِعْر السهم / سعر السهم
+Share Purchase Agreements	اتفاقيات شراء الأسهم
+share transfer	تحويل السهم
+share-crop system	مزارعة المحاصة
+Shared Directory	مجلد مشترك
+shareholder	مساهِم
+Shareholder Equity	حقوق المساهمين
+Shareholders	مساهمين
+Sharia	الشريعة الإِسلامية
+Sharing Ratio	نسبة المشاركة
+Shell Bank	بنك صوري
+Shell Company	شركة شل
+ship	سفينة
+ship broker	سمسار بحريّ
+ship master	قبطان السفينة، ربان السفينة
+ship owner	مجهِّز السفينة
+ship's book; logbook	سِجلّ السفينة، يومية السفينة
+Shipment	شحنة
+shipping	نَقْل بحريّ
+shipping bill	سند الشحن
+shipping company	شركة ملاحة بحرية
+Short Fat Process	عملية قصير الدسم
+short-dated	لأجل قصير
+short-dated loan	قرض قصير الأجل
+short-dated strike	إضراب قصير المدة
+short-term contract	عقد شغل محدد المدة
+Should Cost Analysis	ينبغي تحليل التكلفة
+SHRM	إدارة الموارد البشرية الاستراتيجية
+Shura Council	مجلس الشورى
+sick leave	رخصة مرضية، إجازة مرضية
+sickness allowance	إعانة مرض
+sickness insurance; health insurance	تأمين عن المرض
+Siesta	قيلولة
+signature	توقيع، إمضاء / إمضاء / توقيع
+signature delegation	تفويض التوقيع
+signature in blank	توقيع على بياض
+signature ratification	تصحيح التوقيع، مصادقة على التوقيع
+Silo-Working	العمل في صوامع
+Siloed Mentality	عقلية الصومعة المنعزلة
+Similar mark	علامة مشابهة
+similitude; similarity	تشابُه، مماثلة، شَبَهٌ
+simple	بسيط، يسير
+simple assault	اعتداء بسيط
+Simple Conditions	شروط بسيطة
+simple contract	محرَّر عرفيّ، عقد عرفيّ
+Simple Or Informal Contract	عقد بسيط أو غير رسمي
+simple presumption	قرينة بسيطة، قرينة غير قاطعة
+simplicity	بساطة، سهولة
+simplified agreement	اتفاقية مبسطة الشكل
+simulated contract	عقد صوريّ
+simulation	تصنُّع، تظاهُر
+Simultaneous (Concurrent) Engineering	هندسة متزامنة
+Single Sourcing	مصدر واحد
+Single-Loop Learning	تعلم أحادي الحلقة
+Single-Piece Flow	تدفق القطعة الواحدة
+sit-in	إضراب باعتصام
+sitting	جلسة
+Situation Analysis	تحليل الموقف
+Situational Leadership	قيادة ظرفية
+Six Sigma	6- سيجما
+Skilled person	رجل المهنة
+Skimming Pricing Strategy	استراتيجية كشط السعر
+Skunk Works	الفرق المتمردة
+Skype	سكايب
+Slack	سلاك
+slackness	ركود، كساد
+slander	سَبٌّ
+slavery	رِقٌّ، عبودية
+sleeping partner	شريك مُوصٍ
+slowness	بُطء
+SMART	ذكي (الأهداف الذكية)
+Smart Metering	قياس ذكي
+Smuggling	تهريب
+smuggling; contraband	تهريب
+social activities	شؤون اجتماعية
+Social Advocacy	دعوة اجتماعية
+Social Capital	رأسمالية اجتماعية
+Social Constructs	بنى اجتماعية
+Social Dialogue	حوار اجتماعي
+Social Identity	هوية اجتماعية
+Social Impact Assessment	تقييم الأثر الاجتماعي
+social insurance	تأمين اجتماعيّ / تأمين اجتماعي
+Social Intelligence	ذكاء اجتماعي
+social justice	عدالة اجتماعية
+social law	قانون اجتماعيّ
+Social Learning	تعليم اجتماعي
+Social Proof	دليل اجتماعي
+Social Protection	حماية اجتماعية
+social risks	أخطار اجتماعية، مخاطر اجتماعية
+social security	ضمان اجتماعيّ
+social security fund	صندوق الضمان الاجتماعيّ
+social security law	قانون الضمان الاجتماعيّ
+social segregation	تمييز عنصريّ
+socialism	اشتراكية
+Socialization Strategies	استراتيجيات التنشأة الاجتماعية
+Socio-Technical	النظام الفني الاجتماعي
+Soft Measures	تدابير لينة / ناعمة
+Soft Pegging	ربط ناعم
+Soft Skills	مهارات الناعمة
+sole party	حزب (ال..) الوحيد
+Sole Trading Agreements	اتفاقيات التداول الوحيدة
+Sole-Source Procurement	شراء المصدر الوحيد
+solidarity	تضامُن
+solidarity obligation	التزام قضائيّ
+solidarity of creditors	تضامُن الدائنين
+solidarity of debtors	تضامُن المدينين
+Solidary Debt	دَيْن مشترك
+Solitary Confinement	حبس انفرادي
+solvency	ملاءة، قدرة على الوفاء
+Source-To-Contract (S2C)	مصدر العقد
+Source-To-Pay (S2P)	من المصدر إلى الدفع
+sources of law	مصادر القانون
+Sourcing	مصادر
+Sourcing Board	مجلس الإصدار
+Sourcing Events	تحديد مصادر الأحداث
+Sourcing Strategy	استراتيجية الاستفادة من مصادر
+Sovereign Right	حق سيادي
+sovereign state	دولة ذات سيادة
+sovereignty	سيادة
+Special Causes	أسباب خاصة
+special court; exceptional court	محكمة استثنائية
+special mandate	وكالة خاصة
+Special Purpose Vehicle (SPV)	مركبة للأغراض الخاصة
+special successor	خَلَفٌ خاصّ
+specialization of judges	تخصُّص القضاة
+specialization; specialism	تخصُّص
+Specialized Criminal Court	المحكمة الجزائية المتخصصة
+specific object	شيء (ال..) المعين بالذات
+Specific Performance	أداء محدد
+specific performance; performance in kind	تنفيذ عينيّ
+specific things	أشياء قيمية
+Specification	مواصفات
+Specification Width	عرض المواصفات
+Specification-Conforming Products	منتجات مطابقة للمواصفات
+Specimen	عينة
+Speculating	تخمين
+speculation	مُضاربة
+speculator	مُضارب / مضارب
+Spend Analysis	تحليلات الإنفاق
+Spend Category	فئة الإنفاق
+Spend Cube	أنفق المكعب
+Spend Intelligence	إنفاق الذكاء
+Spend Management	إدارة الإنفاق
+spending power; spending capacity; chasing power	قوة شرائية، قدرة شرائية
+spendings	مصروفات، نفقات
+Spendthrift	سفيه
+Spillover Effect	تأثير غير مباشر
+Sponsor	كفيل
+Spontaneous Learning	تعلم التلقائي
+spot bargain	صفقة فورية، صفقة الأداء الفوريّ
+Spot Buying	شراء الفوري
+Spot Market	سوق فورية
+spot sale	بَيْع حاضر، بَيْع بضاعة حاضرة
+spouse	زَوْج، زوجة
+Stability Agenda	أجندة الاستقرار
+Stable plant variety	صنف نباتي ثابت
+Staff Churn	اضطراب الموظفين
+Staff Turnover	معدل دوران الموظفين
+Stage Payment	الدفع المرحلي
+Stakeholder	أصحاب المصلحة
+Stakeholder Management	إدارة أصحاب المصلحة
+Stakeholder View	رأي أصحاب المصلحة
+stamp	تنبر، ختْم
+Standard	قياسي
+Standard Building Contract	عقد بناء موحد
+Standard Deviation	الإنحراف المعياري
+Standard Term Contract	شروط وأحكام
+Standard Terms And Conditions	شروط وأحكام قياسية
+Standards Organizations	منظمات المعايير
+Standards-Developing Organizations (SDO)	منظمات تطوير المعايير
+Start-Up Companies	شركات مبتدئة
+state	دولة
+State Aid	مساعدات الدولة
+state council	مجلس الدولة
+state guarantee	ضمان الدولة
+state of emergency	حالة طوارئ
+state of siege	حالة حِصار
+state of war	حالة الحرب
+state property; domanial property	أملاك الدولة
+state sovereignty	سيادة الدولة
+State Treasury	خزينة الدولة
+stateless	عديم الجنسية
+statelessness	انعدام الجنسية
+statement	مَحضَر مُعايَنة / أقوال
+statement of account	كشْف حساب
+Statement Of Comprehensive Income	كشف الحساب الشامل
+Statement Of Needs	بيان الاحتياجات
+Statement of use	بيان استعمال
+Static Conditions	ظروف ثابتة
+Statistic	الإحصاء
+Statistical Data	بيانات إحصائية
+Statistics	لإحصائيات
+status action	دعوى الحالة
+status of aliens	وضعية (ال..) القانونية للأجانب
+Statute of Limitations	تقادم
+statutory reserve	احتياطيّ نظاميّ
+Stay Of Court Proceedings	وقف إجراءات المحكمة
+Stay of Execution	وقف التنفيذ
+STEEPLED Analysis	التحليل المتدرج
+Step Change	تغيير الخطوة
+Step Costs	تكاليف الخطوة
+Step Method	طريقة الخطوة
+Stereotyping	التنميط
+Sticky Prices	أسعار ثابتة
+stock book	دفتر المخزونات
+stock broker	وسيط بورصة قيم
+stock exchange	سوق الأوراق المالية / تداول الأسهم
+stock exchange list	جدول أسعار البورصة
+Stock Keeping Unit (SKU)	وحدة حفظ المخزون
+Stock Market	سوق الأوراق المالية
+Stock Out	نفاد المخزون
+Stock Prices	أسعار الأسهم
+Stock Profile	ملف الأسهم
+Stock Take	فحص الجرد
+Stock Ticker Data	بيانات مؤشر الأسهم
+Stock Turn/Stock Turnover (High Or Low)	دوران المخزون / معدل دوران المخزون (مرتفع أو منخفض)
+Stocks	مخازن
+Stockyard	حظيرة الماشية
+Stoning	رجم
+Stores	متاجر
+Straight Re-Buy	تجديد الإشتراك على التوالي
+Strategic Alliance	تحالف استراتيجي
+Strategic Business Units (SBUS)	وحدات الأعمال الاستراتيجية
+Strategic Capabilities	قدرات استراتيجية
+Strategic Choice	الإختيار الإستراتيجي
+Strategic Decisions	قرارات استراتيجية
+Strategic Diversity Management	إدارة التنوع الاستراتيجي
+Strategic Drivers	دوافع استراتيجية
+Strategic Fit	التناسب الإستراتيجي
+Strategic Items	عناصر استراتيجية
+Strategic Management	إدارة استراتيجية
+Strategic Partnership	شراكة استراتيجية
+Strategic Position	وضع استراتيجي
+Strategic Procurement	مشتريات استراتيجية
+Strategic Recruitment	توظيف استراتيجي
+Strategic Sourcing	توريد استراتيجي
+Strategic Supplier	مورد استراتيجي
+Strategic Supplier Relationship	علاقة المورد الاستراتيجي
+Strategic Suppliers	موردين استراتيجيين
+Strategy	استراتيجية
+Strategy Canvas	قماش الاستراتيجية
+Strategy Management	إدارة الاستراتيجية
+strengthening	تقوية، تدعيم
+Strengths	نقاط القوة
+Strict Liability	مسؤولية صارمة
+strike	إضراب
+strike by turn	إضراب تناوبيّ
+Strike Price	سعر الإبرام
+Structured Data	بيانات المهيكلة
+Style	الأسلوب
+Style Guide	دليل الأسلوب / وثيقة دليل
+Sub-Tier Supplier	مورد الطبقة الفرعية
+subcommittee	لجنة فرعية
+subcontract	عقْد من الباطن / عقد من الباطن
+Subcontract the licensed rights	منح ترخيص من الباطن
+Subcontractor	متعاقد فرعي
+Subcultures	ثقافات فرعية
+Subject matter Jurisdiction	اختصاص نوعي
+Subject matter of Protection	موضوع الحماية
+Subject matter of the work	موضوع المصنف
+Subject To Contract	موضوع العقد (يخضع للعقد)
+Subjective Code	رمز شخصي
+Subjective Measures	تدابير ذاتية
+subjects	رعايا (دولة)
+sublease	إيجار من الباطن
+sublessee	مستأجر من الباطن، مُكترٍ من الباطن
+sublessor	مُؤجر من الباطن، مُكترٍ من الباطن
+submanager	نائب المدير
+subordination	تبعية
+subrogation	حلول
+subscribed capital	رأس مال مكتتب فيه
+subscription	اكتتاب
+subscription of shares	اكتتاب في الأسهم
+subsidiary	تابِع / شركة فرعية /
+subsidiary action	دعوى احتياطية
+subsidiary claim	طلب احتياطيّ
+subsidiary company; subcompany	شركة تابعة، فرع شركة
+substantive	جوهريّ، أساسيّ
+Substantive examination	فحص موضوعي
+Substantive Law	قانون موضوعي
+Substitutable	قابل للاستبدال
+Substitutes	بدائل
+succession; inheritance	إرث، ميراث
+successive contract	عقد مستمر، عقد زمنيّ
+Successor	خلف
+suffrage	اقتراع
+Suitability	ملاءمة
+sum	مبلغ، مجموع
+sum total	مبلغ إجماليّ، مجموع المبلغ
+summary	موجَز، مُخْتَصَر، خُلاصة / ملخص
+Summary Court	محكمة جزئية
+Summary Judgment	حكم عاجل
+Summary Petition	طلب مُستعجَل
+summary procedure	إجراء استعجاليّ
+Summary Proceedings	قضاء مُستعجَل
+Summoning	استدعاء
+summons to pay	إنذار بالدفع
+Sundries	متفرقات
+Sunk Costs	التكاليف الثابتة
+superfluous expenses	مصروفات كمالية، مصروفات بلا مردود
+suppletive rule	قاعدة مكمِّلة
+suppletory oath	يمين متمِّمة / يمين متممة
+supplier	مزوِّد، مموِّن
+Supplier Appraisal; Supplier Evaluation	تقييم المورد
+Supplier Approval	موافقة المورد
+Supplier Attrition	تناقص المورد
+Supplier Base	قاعدة الموردين
+Supplier Conditioning	اشتراطات المورد
+Supplier Cost Breakdowns	تحليل توزيع التكلفة
+Supplier Costs	تكاليف المورد
+Supplier Development	تنمية المورد
+Supplier Performance Management	إدارة أداء الموردين
+Supplier Pre-Qualification	تأهيل مسبق للمورد
+Supplier Rating	تصنيف المورد
+Supplier Rating System	نظام تصنيف الموردين
+Supplier Rationalization	ترشيد الموردين
+Supplier Referencing	تفضيل المورد
+Supplier Scorecard	بطاقة أداء المورد
+Supplier Selection	إختيار الموردين
+Supplier Tiring	تصنيف الموردين
+Supply And Demand	عرض وطلب
+Supply Base	قاعدة الإمداد
+Supply Base Optimization	تحسين قاعدة العرض
+Supply Base Rationalization	ترشيد قاعدة التوريد
+Supply Chain	سلسلة التوريد
+Supply Chain Capabilities	قدرات سلسلة التوريد
+Supply Chain Co-Ordination (Or ‘Channel Co-Ordination’)	تنسيق سلسلة التوريد (أو "تنسيق القناة")
+Supply Chain Cost	تكلفة سلسلة التوريد
+Supply Chain Design	تصميم سلسلة التوريد
+Supply Chain Disruptions	اضطراب سلسلة التوريد
+Supply Chain Ecosystem	نظام بيئي لسلسلة التوريد
+Supply Chain Event Management	إدارة أحداث سلسلة التوريد
+Supply Chain Function	وظيفة سلسلة التوريد
+Supply Chain Governance	حوكمة سلسلة التوريد
+Supply Chain Integration	تكامل سلسلة التوريد
+Supply Chain Leader	زعيم سلسلة التوريد
+Supply Chain Mapping	رسم خرائط سلسلة التوريد
+Supply Chain Network	شبكة سلسلة التوريد
+Supply Chain Network Design	تصميم شبكة سلسلة التوريد
+Supply Chain Operations	عمليات سلسلة التوريد
+Supply Chain Operations Reference (SCOR)	مرجع عمليات سلسلة التوريد
+Supply Chain Operations Reference Model (SCOR)	نموذج مرجعي لعمليات سلسلة التوريد
+Supply Chain Opportunism	انتهازية سلسلة التوريد
+Supply Chain Optimization	تحسين سلسلة التوريد
+Supply Chain Resilience	سلسلة التوريد المرنة
+Supply Chain Responsiveness	استجابة سلسلة التوريد
+Supply Chain Strategy	استراتيجية سلسلة التوريد
+Supply Chain Success	سلسلة التوريد الناجحين
+Supply Chain Transparency	شفافية سلسلة التوريد
+Supply Chain Vulnerability	ضعف سلسلة التوريد
+Supply Contract	عقد التوريد
+Supply Market	معروض السوق
+Supply Signal	إشارة التوريد
+Supply Uncertainty	عدم اليقين في العرض
+support	نفقة معيشية
+Supranational	فوق الوطنية
+supremacy of the constitution	سموّ الدستور
+Supreme Administrative Court	المحكمة الإدارية العليا
+Supreme Court	المحكمة العليا
+Supreme Judicial Council	المجلس الأعلى للقضاء
+surety	كفِيل، كَفالة
+surname; security	اسم (ال..) العائليّ
+surplus	فائض
+surplus dividend	رَبِيحة إضافية
+surplus profit	ربح استثنائيّ، ربح إضافيّ
+surprise strike; sudden strike	إضراب مفاجئ
+survey; visit	معاينَة، كَشْف
+Suspect	مُشتبَه به
+suspect period	فترة الريبة
+suspension	وقْف، إيقاف
+Suspension of Litigation	وقف الخصومة
+suspension of payment	توقُّف عن الدفع
+suspension of prescription	وقْف التقادُم
+suspension of suit	وقْف الدعوى
+suspensive condition	شرط مُعلِّق، شرط مُوقِّف / شرط واقف
+suspensory effect	أثر موقِّف
+Suspicion	اشتباه / شبهة
+Sustainability	استدامة
+Sustainability Policy	سياسة الاستدامة
+Sustainability Reports	تقارير الاستدامة
+Sustainable Competitive Advantage	ميزة تنافسية مستدامة
+Sustainable Development	تنمية مستدامة
+Sustainable Procurement	مشتريات مستدامة
+Sustaining Competitive And Responsible Enterprises (SCORE)	استدامة المؤسسات التنافسية والمسؤولة
+swindle	نَصْب
+Switching Costs	تكاليف التبديل
+sympathetic strike	إضراب تضامنيّ
+synallagmatic contract	عقد ملزم لجانبين
+syndic	وكيل الدائنين، مأمور التفليسة، سنديك
+syndicate	نِقابة
+System	نظام
+System Boundary	حدود النظام
+System Theory	نظرية الأنظمة
+Systems Approach	نهج الأنظمة
+Systems Integration	تكامل النظم
+Systems Perspective	منظورشمولي

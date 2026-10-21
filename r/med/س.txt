@@ -1,0 +1,4211 @@
+س، ج	H & O
+سائِب	flail
+سائِد	dominant
+سائِدٌ مُشْتَرَك	codominant
+سائِدٌ مَناعِيَّا	immunodominant
+سائِرٌ فِي نَومِه	somnambulist
+سائِط	mastigophoran / mastigote
+سائِطَةٌ دَمَوِيَّة	hemoflagellate
+سائِطَةٌ نَباتِيَةّ	phytoflagellate
+سائِطِيّ	mastigophorous
+سائِغ	palatable
+سائِل	fluid / humor / liquid / liquor
+سَّائِل (ال...) الدِّمَاغِيّ الشَّوْكِيّ	cerebrospinal fluid (CSF)
+سائِل [ج:سَوائِل]	fluid (liquor)
+سائلُ إِعادَةِ التَّسْريب	reinfusate
+سائِلُ الإِرْواء	irrigant / perfusate
+سائِلُ الاسْتِسْقَاء	ascitic fluid
+سائِلُ البَزْل	puncture fluid
+سائِلُ التَّأمور	aqua pericardii (pericardial fluid)
+سائِلُ التِّيه (اللِّمْفُ المُحيطِيّ)	labyrinthine fluid (perilymph)
+سائل التيهي(ال..)	endolymph
+سائِلُ الجُرَيب	liquor folliculi
+سَائِل السَلَى	amniotic fluid
+سائِلُ القَرْنِيَّة	liquor cornea
+سائِلُ القَيْح	liquor puris
+سائِلُ المَزْرَعَة	culture fluid
+سائِلُ المَصْلِيَّات	serous fluid
+سائِلُ بَاسْتُور	Pasteur's liquid
+سَائِل بِرِي	Pere's liquor
+سَائل جُرَيْبيّ	liquor folliculi
+سَائِل حَمْل	vehicle
+سائِلٌ دَمَوِيّ ( بلازْما الدَّم)	liquor sanguinis (blood plasma)
+سائِلُ دوكلا (مَحْلولُ كاربولات الأَمُونْيا)	Declat's liquid
+سائل سكاربا ( اللِّمْفُ الباطِن)	liquor of Scarpa (endolympha) / liquor scarpae (endolympha NA)
+سائِلُ سكاربا (اللِّمْفُ الباطِن)	Scarpa's fluid (endolymph)
+سائِلٌ عُنُقِيّ ( سائِلٌ لِثَوِيّ)	crevicular fluid (gingival fluid)
+سائِلٌ قَصَّار	bleaching fluid
+سائِلٌ لِثَوِيّ	gingival fluid
+سائل مُخِّيّ شوكيّ	cerebro-spinal fluid
+سَائِل مُخِّيّ نخاعي، سَائِل مُخِّيّ شَوكِي	cerebrospinal fluid
+سائِلٌ مُزيلٌ للكِلْس	decalcifying fluid
+سائِلٌ مَصْلِيّ	serofluid
+سائِلٌ مُنَفِّط	blistering liquid (liquor epispasticus) / liquor epispasticus
+سائل منوي	seminal fluid
+سائِلُ مُولَّر	Muller's liquid
+سائِلِيُّ الشَّكْل	liquiform
+سابِرُ القِمَّة (أداةٌ لِتَعْيين مَوقِع وحجم القِمَّة)	apexigraph
+سابْرين (أحد نواتج تفسخ الجثث)	saprin
+سابِعُ التَّوَائِم	septuplets
+سابِعَةُ الحَمْل (مُسْبِعَةٌ)	septigravida
+سابِقُ الاقْتِران (من الأحياء الدقيقة)	exconjugant
+سَابِقُ الأَلبومين	prealbumin
+سابِقُ الانْبِساط	prediastole
+سابِق الدَّوَاء	prodrug
+سابِقُ المُكْنَة	prepotent
+سابق سرطان الجلد	dermatitis, precancerous
+سابِقٌ لتَطْبِيْقِ البِدْلَة [أسنان]	preprosthetic
+سابِقٌ لغَزْوِ الكُرَيَّاتِ الحُمْر	preerythrocytic
+سابِقٌ للإباضَة	preovulatory
+سابِقٌ للاحْتِضار	preagonal / preagonic
+سابِقٌ للإِخْصاب	progamous
+سابِقٌ للإِدْخَال	preadmission
+سابِقٌ للإِدْخَالِ للمُسْتَشْفَى	pre-hospital
+سابِقٌ للأَعْراض	presymptomatic
+سابِقٌ للإِفْراز	presecretory
+سابِقٌ للانْتِصاف	premeiotic
+سابِقٌ للإِنْجَابِيَّة	prereproductive
+سابِقٌ للانْغِراس	preimplantation
+سابِقٌ للإِياس	premenopausal
+سابِقٌ للبُلوغ	prepuberal / prepubertal
+سابِقٌ للتَّحَبُّب	pregranular
+سابِقٌ للتَّرادُفَة	predicrotic
+سابِقٌ للتَّزَغُّب [جنين]	previllous
+سابِقٌ للتَّشَنُّج	prespastic
+سابِقٌ للتَّصَلُّب	presclerotic
+سابِقٌ للتَّعْشِيْش	prenidatory
+سابِقٌ للتَّغَضْرُف	prochondral
+سابِقٌ للتَّفَتُّل	premitotic
+سابِقٌ للتَّقَيُّح	presuppurative
+سابِقٌ للتَّنَسُّخ	prereplicative
+سابِقٌ للجِراحَة	preoperative / presurgical
+سابِقٌ للجِماع	precoital
+سابِقٌ للحَقْن	preinjection
+سابِقٌ للحَمْل	pregravidic / prepregnancy
+سابِقٌ للحَيض	premenstrual
+سابِقٌ للخَزَل	preparetic
+سابِقٌ للدَّرّ	prelacteal
+سابِقٌ للدُّوَار	prevertiginous
+سابِقٌ للذُّهان	prepsychotic
+سابِقٌ للرَّنَح	preataxic
+سابِقٌ للزَّواج	premarital
+سابِقٌ للزَّيْجُوت	prezygotic
+سابِقٌ للسُّلّ	prephthisis (pretuberculosis) / pretuberculous
+سابِقٌ للسَّواء	prenormality
+سابِقٌ للسَّوِيّ	prenormal
+سابِقٌ للشَّلَل	preparalytic
+سابِقٌ للطَّفَح	preeruptive
+سابِقٌ للظُّهور (في المرحلة بين العدوى وظهور الأعراض)	prepatent
+سابِقٌ للغَزْو	preinvasive
+سابِقٌ للفالِج	prehemiplegic
+سابِقٌ للفُصام	preschizophrenic
+سابِقٌ للفُطَارِ	premycotic
+سابِقٌ للمَخَاض	prepartal
+سابِقٌ للمَرْحَلَةِ القَضيبِيَّة	prephallic
+سابِقٌ للمَرَض	premorbid
+سابِقٌ للمَشْبَك	presynaptic
+سابِقٌ للمَشيمَة	preplacental
+سابِقٌ للمَوت	premortal / premortem
+سابِقٌ للنَّشْبَة	preictal
+سابِقٌ للنَّوبَة	precritical
+سابِقٌ للوَرَم	preneoplastic
+سابِقٌ للوِلاَدَة	prenatal
+سابِقٌ لليَرَقان	preicteric
+سابِقٌ لمَوجَةِ النَّبْض	presphygmic
+سابِقَةُ أَرومَةِ النِّقْيِيَّة	premyeloblast (myeloblast)
+سابِقَةُ الجُسَيْدَة [جنين]	presomite
+سابقة بمعن اللِّسَان	lingua-
+سابقة بمعن ظاهِر؛بادٍ؛مَرْئِي	phanero-
+سابقة بمعنى آتو ( 10 -18 )	atto-
+سابقة بمعنى إِثْناعَشَر	dodec-
+سابقة بمعنى أَجْنَبِيّ ؛ غَريب	allotrio-
+سابقة بمعنى أَرْبَعَة	tetra-
+سابقة بمعنى أُرْبِيّ	inguino-
+سابقة بمعنى أَصْفَر	flav-
+سابقة بمعنى الإبْرَة	stylo-
+سابقة بمعنى الأَبْيَض	leuc- / leuco- / leuk- / leuko-
+سابقة بمعنى الإِثَارَةُ الجِنْسِيَّة	erotico- / eroto-
+سابقة بمعنى الإِثْنَاعَشَرِيِّ	duodeno-
+سابقة بمعنى الاثْنَيْن	deut- / deutero- / deuto-
+سابقة بمعنى الأَجْنَبِي	xeno-
+سابقة بمعنى الأَحْشَاء	splanchni- / splanchno- / viscero-
+سابقة بمعنى الأَحْلاَم	oniro-
+سابقة بمعنى الإحليل	urethro-
+سابقة بمعنى الأَحْمَر	ereuth- (erythro-) / eryth- / erythro- / rhodo-
+سابقة بمعنى الاخْتِلاف	pelio- (poikilo-)
+سابقة بمعنى الأُذُنِ	ot- / oto-
+سابقة بمعنى الأُذَيْن	atrio-
+سابقة بمعنى الأَرْبَعَة	quadri-
+سابقة بمعنى الارْتِفَاع	hypsi- / hypso-
+سابقة بمعنى الأرسنيك	arseno-
+سابقة بمعنى الأَزْرَق	cyan- / cyano- / kyano-
+سابقة بمعنى الإِسْفَنْج	spongio-
+سابقة بمعنى الإِسْكِ	ischi- / ischio-
+سابقة بمعنى الاِشْتِرَاك	co- / coino- / com- / con- / cone-
+سابقة بمعنى الأُشْنَة ؛ الطُّحْلُب	bry-
+سابقة بمعنى الإصْبَع	dactyl- / dactylo-
+سابقة بمعنى الأَصْفَر	luteo- / xanth- / xantho-
+سابقة بمعنى الإِطْبَاق	occluso-
+سابقة بمعنى الاعْتِلال	kak- (caco-)
+سابقة بمعنى الإِفْرَاط	over-
+سابقة بمعنى الإِفْرَاط؛فَرْط؛ مُفْرِط	hyper-
+سابقة بمعنى الأَكْل؛الغِذَاء؛التَّغْذِيَة	sito-
+سابقة بمعنى الالْتِحام	syn-
+سابقة بمعنى الالْتِصاق ؛ التَّصَلُّب	ankylo-
+سابقة بمعنى الالْتِهاب	phlog- / phlogo-
+سابقة بمعنى الاِلْتِواء	spiro- / streph- / strepho-
+سابقة بمعنى الأَلَم	algesi- / algio- / odyn- / odyno-
+سابقة بمعنى الأَلْيَة	pygo-
+سابقة بمعنى الأمام	antero- / pros- / proso-
+سابقة بمعنى الأَمْعَاء	enter- / entero-
+سابقة بمعنى الأَمْلَس	leio- / lio-
+سابقة بمعنى الإنْتَان	septico-
+سابقة بمعنى الأُنْثَى	thely-
+سابقة بمعنى الانْحِلاَل	lyso-
+سابقة بمعنى الانْحِلال ؛ الذَّوَبان	lys-
+سابقة بمعنى الانْحِنَاء	cyrto-
+سابقة بمعنى الإنزيم	zymo-
+سابقة بمعنى الإِنْسِي [أسنان]	mesio-
+سابقة بمعنى الانْشِقَاق	schisto-
+سابقة بمعنى الاِنْعِدَام (الخِلْقِي)	ectro-
+سابقة بمعنى الانْعِطاف	campto-
+سابقة بمعنى الأَنْف	nas- / naso- / rhin- / rhino-
+سابقة بمعنى البَاب	pyle-
+سابقة بمعنى البَدْء	proto-
+سابقة بمعنى البِدَايَة	prot-
+سابقة بمعنى البِرَاز	copro- / kopr- / scato- / sterco-
+سابقة بمعنى البِرَاز ؛ الغَائِط	faec-
+سابقة بمعنى البَرْبَخ	epididymo-
+سابقة بمعنى البَرْد	crymo- / cryo-
+سابقة بمعنى البَرْد؛القَرّ	cry-
+سابقة بمعنى البروستاتة	prostat- / prostato-
+سابقة بمعنى البَشَر	anthropo-
+سابقة بمعنى البَصَر ؛ الرُّؤْيَةُ ؛ النَّظَر	opt- / optico- / opto-
+سابقة بمعنى البَصَلَة	bulb- / bulbo-
+سابقة بمعنى البُطْءِ	brady-
+سابقة بمعنى البِطَانَةِ	endothelio-
+سابقة بمعنى البَطْن	abdomin- / abdomino- / celio- / coelio- / lapar- / laparo- / ventri- / ventro-
+سابقة بمعنى البُطَيْن	ventriculo-
+سابقة بمعنى البُعْدُ عَن	ex-
+سابقة بمعنى البلعَمَة؛الأَكْل	phago-
+سابقة بمعنى البُلْعُوْم	pharyng- / pharyngi- / pharyngo-
+سابقة بمعنى البَنكرِيَاس	pancreatico- / pancreato-
+سابقة بمعنى البَوَّاب	pyloro-
+سابقة بمعنى البَوْغ	sporo-
+سابقة بمعنى البَوْل	urino- / uro- / urono-
+سابقة بمعنى البِيْئَة	eco-
+سابقة بمعنى البَيْضَة	ov- / ovi- / ovo- / ovulo-
+سابقة بمعنى البيطا ( 10 5 )	peta-
+سابقة بمعنى التَّجَعُّد	rhytid-
+سابقة بمعنى التُّراب	ge-
+سابقة بمعنى التَّرْقُوَة	cleid- / cleido- / clido- (cleido-)
+سابقة بمعنى التَّسَاوِي	equi-
+سابقة بمعنى التَّسَاوي أو التَّمَاثُل أو الاِتِّساق	iso-
+سابقة بمعنى التَّسَوُّس	cario-
+سابقة بمعنى التَّشَنُّج	spasmo-
+سابقة بمعنى التَّشَوُّه	pero-
+سابقة بمعنى التَّضَادّ	counter-
+سابقة بمعنى التَّضَاعُف	dipl- / diplo-
+سابقة بمعنى التَّضَيُّق	steno-
+سابقة بمعنى التَّعَدُّد	multi- / pluri-
+سابقة بمعنى التَّفاوُت	anis- / aniso-
+سابقة بمعنى التَّفْتِيْت	-clasis
+سابقة بمعنى التَّكَدُّر	nephelo-
+سابقة بمعنى التَّكْرَار	pali- / palin-
+سابقة بمعنى التَّلْفِيْف	gyr-
+سابقة بمعنى التَّلَيُّن	malac- / malaco-
+سابقة بمعنى التَّمَاثل	homeo- / homoio- / ipsi-
+سابقة بمعنى التَّمَاسّ أو اللَّمْس	thigmo-
+سابقة بمعنى التَّنَاسُل	genito-
+سابقة بمعنى التَّنَامِي	aux- / auxo-
+سابقة بمعنى التَّنَفُّس	pneo- (spiro-)
+سابقة بمعنى التَّوَتُّر	tono-
+سابقة بمعنى التَّوْصِيْل	dromo-
+سابقة بمعنى الثِّخَن	pachy-
+سابقة بمعنى الثَّدْي	mamm- / mammo- / maz- / mazo-
+سابقة بمعنى الثَّرْب	epiplo-
+سابقة بمعنى الثُّعْبَان	ophi- / ophio-
+سابقة بمعنى الثِّقَل	bary-
+سابقة بمعنى الثَّلاثَة	ter- / tri-
+سابقة بمعنى الثَّمَانية	octa- / octi- / octo-
+سابقة بمعنى الجَاف	xero-
+سابقة بمعنى الجَانِب	latero-
+سابقة بمعنى الجُبْن	tyro-
+سابقة بمعنى الجَبْهَة	metop- / metopo-
+سابقة بمعنى الجِدَار	parieto-
+سابقة بمعنى الجَدِيْد	caino- (ceno) / kaino- (ceno-) / ne-
+سابقة بمعنى الجَدِيْد ؛ الحَدِيْث ؛ المُسْتَحْدَث	neo-
+سابقة بمعنى الجَذْر	radiculo- / rhizo-
+سابقة بمعنى الجَسَد	somatico- / somato-
+سابقة بمعنى الجِلْدِ	derm- / dermat- / dermato- / dermo-
+سابقة بمعنى الجَمَاعَة	koino-
+سابقة بمعنى الجَنَاح	pterygo-
+سابقة بمعنى الجَنَبَة	pleur- / pleuro-
+سابقة بمعنى الجنس	gen-
+سابقة بمعنى الجَنَف	scolio-
+سابقة بمعنى الجَنِيْن	feti-
+سابقة بمعنى الجِهَة اليسرى	sinistro-
+سابقة بمعنى الجَوْف	cel- / coel-
+سابقة بمعنى الجَيْب	sino-
+سابقة بمعنى الحاجز	septo-
+سابقة بمعنى الحالِب	uretero-
+سابقة بمعنى الحَبْل	chord- / chordo-
+سابقة بمعنى الحُبَيْبَة	granulo-
+سابقة بمعنى الحجاب	phrenico-
+سابقة بمعنى الحُدَاب	cypho- (kypho-)
+سابقة بمعنى الحَدَقة	core- / coro- / pupillo-
+سابقة بمعنى الحَدِيْد	sidero-
+سابقة بمعنى الحَرَارَة	therm- / thermo-
+سابقة بمعنى الحَرْشَفَة	lepido-
+سابقة بمعنى الحَرْق	brenz- (pyro-)
+سابقة بمعنى الحَرْقَفَة	ilio-
+سابقة بمعنى الحَرَكة	cin- / cinesi- (kinesi-) / cineto- (kineto-) / kin- / kine- (cine-) / kinesi- / kinesio- / kineso- / kineto- / kino-
+سابقة بمعنى الحِسّ	aesthesio- (esthesio-) / esthesio-
+سابقة بمعنى الحَشَفَة	balan- / balano-
+سابقة بمعنى الحَصَاة	lith- / litho-
+سابقة بمعنى الحَلَم [طفيليات]	acaro-
+سابقة بمعنى الحُلُم ؛ المَنَام	oneir- / oneiro- / onir-
+سابقة بمعنى الحَلَمَة	thele- / thelo-
+سابقة بمعنى الحُلَيْمَة	papill- / papillo-
+سابقة بمعنى الحَمْل	phor- / phoro-
+سابقة بمعنى الحُمَّى	pyret- / pyreto- / pyro-
+سابقة بمعنى الحَنْجَرَة	laryngo-
+سابقة بمعنى الحَنَك	palat- / palato- / uranisco- / urano-
+سابقة بمعنى الحُوَيْضَة الكُلْوِيَّة	pyel- / pyelo-
+سابقة بمعنى الحَيَاة	vivi-
+سابقة بمعنى الحَيْض	men-
+سابقة بمعنى الحَيَوان	zoo-
+سابقة بمعنى الخَارِج	extero-
+سابقة بمعنى الخَبِيء؛المُخْتَبئ	crypt- / crypto-
+سابقة بمعنى الخَشَب	xylo-
+سابقة بمعنى الخُصْيَة	orchi- / orchid- / orchido- / orchio-
+سابقة بمعنى الخَفَاء	krypto-
+سابقة بمعنى الخَلاء	keno- (ceno-)
+سابقة بمعنى الخَلْف	retro-
+سابقة بمعنى الخَلْف ؛ المُؤَخَّر ؛ الوَرَاء	opisth- / opistho-
+سابقة بمعنى الخُلُوّ	caeno
+سابقة بمعنى الخَلِيَّة	cyt- / cyto- / kyto- (cyto-)
+سابقة بمعنى الخَيْل	hippo-
+سابقة بمعنى الدِّبْق	glio-
+سابقة بمعنى الدَّرَقِيَّة	thyreo- / thyro-
+سابقة بمعنى الدَّمِ	haem- / haemato- / haemo- / hem- / hemat- / hemato- / hemo- / sangui- / sanguino-
+سابقة بمعنى الدِّمَاغ	encephal- / encephalo-
+سابقة بمعنى الدَّمْع	dacry- / dacryo-
+سابقة بمعنى الدُّنُوّ	proxi- / proximo-
+سابقة بمعنى الدُّهْن	stearo- / steato-
+سابقة بمعنى الدَّوَاء	pharmaco-
+سابقة بمعنى الدَّوالي	cirs- / cirso- / varico-
+سابقة بمعنى الدُّوْد	verm-
+سابقة بمعنى الدِّيْدَان	scoleco-
+سابقة بمعنى الذَّات	idio-
+سابقة بمعنى الذَّاتِيَّة ؛ التِّلقَائِيَّة	aut-
+سابقة بمعنى الذَّاتِيَّة أو التِّلْقَائِيَّة	auto-
+سابقة بمعنى الذَّبْذَبَة	oscillo-
+سابقة بمعنى الذَّقْن	genio- / mento-
+سابقة بمعنى الذُّكُوْرَة	andr- / andro- / arrheno-
+سابقة بمعنى الذَّنَب	cerco-
+سابقة بمعنى الذَّهَب	chrys- / chryso-
+سابقة بمعنى الذَّوَبَان	lyo-
+سابقة بمعنى الرَّئَة	pneumon- / pulmon- / pulmono-
+سابقة بمعنى الرَّائِحَة	osphresio-
+سابقة بمعنى الرَّأْس	cephal- / cephalo-
+سابقة بمعنى الرِّباط	desm- / desmo-
+سابقة بمعنى الرَّتَق	atret- / atreto-
+سابقة بمعنى الرَّحِم	hyster- / metr- / metra- / metro- / utero-
+سابقة بمعنى الرَّضْح	traumato-
+سابقة بمعنى الرُّطُوْبَة	hygr- / hygro-
+سابقة بمعنى الرُّغَامى	tracheo-
+سابقة بمعنى الرُّكْن ؛ الزَّاوِيَة	gonio-
+سابقة بمعنى الرَّمْل	psammo-
+سابقة بمعنى الرَّهابَة	xiphi- / xipho-
+سابقة بمعنى الرِّيْح	anemo-
+سابقة بمعنى الزَّائِدَة	appendico-
+سابقة بمعنى الزَّائِدَة أو اللاحِقَة	append-
+سابقة بمعنى الزُّبْدَةِ	butyr-
+سابقة بمعنى الزُّجَاج	hyal-
+سابقة بمعنى الزِّق	Asco-
+سابقة بمعنى الزَّلِيْل	synovio-
+سابقة بمعنى الزَّمَن	chron- / chrono-
+سابقة بمعنى الزَّوْرَق	cymbo- / scapho-
+سابقة بمعنى الزَّيْت	elaeo- / eleo- / ole- / oleo-
+سابقة بمعنى السَّبَب	et-
+سابقة بمعنى السَّحَايا	mening- / meningi-
+سابقة بمعنى السَّرَطَانِ	carcino-
+سابقة بمعنى السُّرْعَة	tacho- / tachy-
+سابقة بمعنى السَّرِقَة	klepto-
+سابقة بمعنى السُّرَّة	omphalo-
+سابقة بمعنى السُّرَّة (الحبل السُّرِّي)	ompha-
+سابقة بمعنى السَّقْف	tecto-
+سابقة بمعنى السُّكَّر	glyco- / saccharo-
+سابقة بمعنى السَّلَى	amnio-
+سابقة بمعنى السُّمّ	toxico- / vene-
+سابقة بمعنى السَّمْع	audio-
+سابقة بمعنى السَّمْعُ أو الصَّوتُ المَسْمُوْعِ	acou-
+سابقة بمعنى السَّمَكَة	ichthyo-
+سابقة بمعنى السِّنّ	dent- / denti- / dento- / odont- / odonto-
+سابقة بمعنى السنتي ( 10 -2 )	centi-
+سابقة بمعنى السِّنْجَابِيّ	polio-
+سابقة بمعنى السِّنْخ	alveolo-
+سابقة بمعنى الشَّامِل	pant- / panto-
+سابقة بمعنى الشَّبَكَة	dictyo-
+سابقة بمعنى الشَّبَكِيَّة	retino-
+سابقة بمعنى الشَّحْم	adipo- / lip- / lipo- / pimel- / pimelo- / pio-
+سابقة بمعنى الشِّدْق	bucco-
+سابقة بمعنى الشُّذُوْذ	anomalo-
+سابقة بمعنى الشَّرْج	ano-
+سابقة بمعنى الشِّرْيَان	arteri- / arterio-
+سابقة بمعنى الشَّرِيْط	taenia-
+سابقة بمعنى الشِّصّ	ancylo- (ankylo-)
+سابقة بمعنى الشَّعْر	pilo- / trichi- / tricho-
+سابقة بمعنى الشُّفْرُ الصَّغِيْر	nymph- / nympho-
+سابقة بمعنى الشَّفَة	cheil- / cheilo- / chil- / chilo- / labio-
+سابقة بمعنى الشَّكْل	eid- / morph- / morpho-
+سابقة بمعنى الشَّمْس	heli- / helio-
+سابقة بمعنى الشَّمْع	cero-
+سابقة بمعنى الشُّمُوْلِيَّة	hol-
+سابقة بمعنى الشَّوْك	echin- / echino-
+سابقة بمعنى الشوك ؛ الشَوكة	acantho-
+سابقة بمعنى الشَوكَة ؛ الشوك	acanth-
+سابقة بمعنى الشَّيْخُوْخَة	gero- / geronto-
+سابقة بمعنى الصَّائِم	jejun- / jejuno-
+سابقة بمعنى الصَّابُون	sapon-
+سابقة بمعنى الصَّدْر	steth- / stetho- / thoracico- / thoraco-
+سابقة بمعنى الصُّعُوبَة	mogi-
+سابقة بمعنى الصُّعود	ana-
+سابقة بمعنى الصِّغر:صَغير ؛ أَصْغَر ؛ صِغْرَوِيّ ؛ أدنى ؛ دنيا	mini-
+سابقة بمعنى الصِّفَاق	peritone- / peritoneo-
+سابقة بمعنى الصَّفْرَاءِ	bili- / chol- / chole- / cholo-
+سابقة بمعنى الصَّفَن	osche- / oscheo-
+سابقة بمعنى الصَّلادَة	scirrho-
+سابقة بمعنى الصِّمَاخ	meat-
+سابقة بمعنى الصِّنْو	tauto-
+سابقة بمعنى الصَّوْت	phon- / phono-
+سابقة بمعنى الضَّخَامَة	makro- (macro-) / megalo-
+سابقة بمعنى الضَّخَامَة ؛ الكِبَر	megal-
+سابقة بمعنى الضِّدِّ	ant-
+سابقة بمعنى الضَّرَر أو الأَذِيَّة	noci-
+سابقة بمعنى الضِّرْس	mylo-
+سابقة بمعنى الضَّعْف	ambly-
+سابقة بمعنى الضَّغْط	pies-
+سابقة بمعنى الضِّفْدَعَة	bufa-
+سابقة بمعنى الضِّلْعِ	costo-
+سابقة بمعنى الضَّوْء	phot- / photo-
+سابقة بمعنى الطِّبّ	iatro- / medico-
+سابقة بمعنى الطَّبْل	myring- / myringo-
+سابقة بمعنى الطِّحَال	lien- / lieno- / splen- / spleno-
+سابقة بمعنى الطُّحْلُب	phyco-
+سابقة بمعنى الطُّوْل	dolicho-
+سابقة بمعنى الطَّيْف	spectro-
+سابقة بمعنى الطِّيْن	pelo-
+سابقة بمعنى الظُّفُر	onych- / onycho-
+سابقة بمعنى الظِّلّ	scia- (skia-) / skia-
+سابقة بمعنى الظَّلام؛العُتْمَة	scoto-
+سابقة بمعنى الظَّهْر	dors- / not- / noto-
+سابقة بمعنى العَابُ (عيب خلقي منذ الحياة الجنينية)	hamart- / hamarto-
+سابقة بمعنى العَجُز	hier- / hiero- / sacro-
+سابقة بمعنى العَدَم	ec- (ex-)
+سابقة بمعنى العَرَق	hid- / hidroa-
+سابقة بمعنى العُرْيِ	gymno-
+سابقة بمعنى العَسَل ؛ النَّحْل	meli- / melit- / melito-
+سابقة بمعنى العَصَا	rhabdo-
+سابقة بمعنى العَصَب	neur- / neuro-
+سابقة بمعنى العَضُد ؛ الذِّرَاع	brachi-
+سابقة بمعنى العَضَل	my- / myo-
+سابقة بمعنى العُضْو	organ-
+سابقة بمعنى العَظْم	osseo- / ost- / oste- / osteo-
+سابقة بمعنى العَظْمِ اللامِيّ	hyo-
+سابقة بمعنى العَقِب	calcane-
+سابقة بمعنى العُقْدَة	gangli- / ganglio-
+سابقة بمعنى العِلاج	iatr-
+سابقة بمعنى العُمْق	batho- / bathy-
+سابقة بمعنى العَمَل	ergo-
+سابقة بمعنى العَنْكَبُوت	arachn- / arachno-
+سابقة بمعنى العَوْدَة؛الإعادَة؛الرَّدّ؛الإِرْجاع؛التَّكرار	re-
+سابقة بمعنى العَيْن	ocul- / oculo- / ophthalmo-
+سابقة بمعنى العَيْن أو المُقْلَة	ophthalm-
+سابقة بمعنى الغار	antro-
+سابقة بمعنى الغُدَّة	aden- / adeno-
+سابقة بمعنى الغِذَاء	broma-
+سابقة بمعنى الغِرْبَال	ethmo-
+سابقة بمعنى الغُصْن	dendr- / dendro-
+سابقة بمعنى الغُضْروف	chondr- / chondri- / chondro-
+سابقة بمعنى الغِلَظ	pykno-
+سابقة بمعنى الغِلْظَةُ	pycno-
+سابقة بمعنى الفَتْق	hernio-
+سابقة بمعنى الفَرْج	episio- / vulvo-
+سابقة بمعنى الفَضَلات	spodo-
+سابقة بمعنى الفِضَة	argento-
+سابقة بمعنى الفُطْر	myc- / mycet- / myco- / myko- (myco)
+سابقة بمعنى الفَقْد	leipo-
+سابقة بمعنى الفِقْرَة	spondyl- / spondylo- / vertebro-
+سابقة بمعنى الفكّ	gnath- / gnatho-
+سابقة بمعنى الفِكْر	ideo-
+سابقة بمعنى الفم	stomato- / stomo-
+سابقة بمعنى القَانُون أو العُرْف	nom- / nomo-
+سابقة بمعنى القِحْف	crani- / cranio-
+سابقة بمعنى القُدْرَة ؛ الطَّاقَة ؛ القُوَّة	dynamo-
+سابقة بمعنى القَدَم	paed- (ped-) / paedo- (pedo) / pod- / podo-
+سابقة بمعنى القديم	palae- / pale- / paleo-
+سابقة بمعنى القَذَال	inio- / occipito-
+سابقة بمعنى القُرْب	plesio-
+سابقة بمعنى القَرْحَة	ulcero-
+سابقة بمعنى القُرْص	disco- / disko-
+سابقة بمعنى القَرْن	cerato- (kerato-)
+سابقة بمعنى القُزَحِيَّة	irid-, pr. / irido-
+سابقة بمعنى القَزَم	nann- / nanno-
+سابقة بمعنى القِشْرَة	cortico-
+سابقة بمعنى القَصِّ	sterno-
+سابقة بمعنى القَصَبَةُ؛الشُّعْبَةُ الهَوَائِيَّة	bronch- / broncho-
+سابقة بمعنى القِصَر	brachy- / brevi-
+سابقة بمعنى القُصَيْبَة	bronchiolo-
+سابقة بمعنى القَضِيْب	phall- / phalli- / phallo-
+سابقة بمعنى القُطْب	poli-
+سابقة بمعنى القَطَن	lumbo-
+سابقة بمعنى القُلْفَة	posth-
+سابقة بمعنى القِلَّة	olig- / oligo- / spano-
+سابقة بمعنى القِمَّة	apic- / apici- / apico-
+سابقة بمعنى القُوَّة	stheno-
+سابقة بمعنى القَيْحُ	py- / pyo-
+سابقة بمعنى الكَاحِل	talo-
+سابقة بمعنى الكَبْت	ischo-
+سابقة بمعنى الكَبِد	hepat- / hepato-
+سابقة بمعنى الكِبْريت	sulph-
+سابقة بمعنى الكِتَاب	biblio-
+سابقة بمعنى الكَتِف	omo-
+سابقة بمعنى الكَثْرَةُ أو التَّعَدُّد	myria-
+سابقة بمعنى الكُرَة	sphaer- / sphaero- / sphero-
+سابقة بمعنى الكُظْر	adren- / adreno-
+سابقة بمعنى الكُلاَّبِ أو الصِّنارة	onc- / oncho- / onci-
+سابقة بمعنى الكَلام	lalo- / log- / logo-
+سابقة بمعنى الكَلْب	cyn- / cyno-
+سابقة بمعنى الكُلْيَة	nephr- / nephro- / ren- / reno-
+سابقة بمعنى الكَهْرَبَاء	electro-
+سابقة بمعنى الكَيْلُوْس	chyl- / chyli- / chylo-
+سابقة بمعنى الكيمياء	chemico- / chemo-
+سابقة بمعنى اللَّبَنِ	galact- / galacto- / lacta- / lacto-
+سابقة بمعنى اللِّثَة	gingivo-
+سابقة بمعنى اللِّسَان	gloss- / glosso- / glotto- / lingu- / lingulectomy
+سابقة بمعنى اللُّعَاب	ptyal- / ptyalo- / sial- / sialo-
+سابقة بمعنى اللَّفَائِفِيّ	ileo-
+سابقة بمعنى اللَّمس	haph- / hapt- / hapto-
+سابقة بمعنى اللِّمْف	lymph- / lympho-
+سابقة بمعنى اللِّهاة	ciono- / uvulo-
+سابقة بمعنى اللَّوْزَة	amygdalo- / tonsillo-
+سابقة بمعنى اللَّوْنِ الأَخْضَر	chloro-
+سابقة بمعنى اللِّيْف	fibro- / ino-
+سابقة بمعنى اللَّيْل	noct- / nyct- / nycto-
+سابقة بمعنى المادَّة	hyl- / hyle- / hylo-
+سابقة بمعنى المُبْهَم	vago-, pr
+سابقة بمعنى المَبِيْض	oario- / oophor- / oophoro- / oothec- / ootheco- / ovario-
+سابقة بمعنى المُجَاوَرَة	juxta-
+سابقة بمعنى المُحّ	lecitho-
+سابقة بمعنى المِحْوَر	axo-
+سابقة بمعنى المِحْوَر [أسنان]	axio-
+سابقة بمعنى المُخاط	blenn- / blenno- / muco- / myx- / myxo-
+سابقة بمعنى المُخَيْخ	cerebelli- / cerebello-
+سابقة بمعنى المرانة	elast-
+سابقة بمعنى المَرَض	nos- / noso- / path- / patho-
+سابقة بمعنى المَرْكَز	centri- / centro-
+سابقة بمعنى المُرُوْنَة	elasto-
+سابقة بمعنى المَرِيْء	esophago- / oesophago-
+سابقة بمعنى المُسْتَقِيْم	archo- / recto-
+سابقة بمعنى المَسْخ	terato-
+سابقة بمعنى المَصْل	orrho-
+سابقة بمعنى المَعِدَة	gastr- / gastro-
+سابقة بمعنى المَفْصِل	arthr- / arthro-
+سابقة بمعنى المَقْطَع	tomo-
+سابقة بمعنى المِلْح	halo-
+سابقة بمعنى المُمَارَسَةُ الطِّبِّيَّة السَّرِيْرِيَّة	clinico- / clino-
+سابقة بمعنى المَنَاعَة	immuno-
+سابقة بمعنى المِهَاد	thalam- / thalamo-
+سابقة بمعنى المَهْبِل	colp- / colpo- / elytro- (colpo-) / kolp (kolpo-) / kysth- (colpo-)
+سابقة بمعنى المَوْت	thanato-
+سابقة بمعنى المَوْضع	topo-
+سابقة بمعنى الميكانيكا	mechano-
+سابقة بمعنى النَّبَات	phyt- / phyto-
+سابقة بمعنى النَّبْض	sphygmo-
+سابقة بمعنى النتروجين	nitro-
+سابقة بمعنى النَّجْم	astr-
+سابقة بمعنى النَّجْم أو الكَوْكَب	astro-
+سابقة بمعنى النَّحَافَة	lept-
+سابقة بمعنى النَّخَر ؛ البِلى ؛ المَوْت ؛ الرِّمَّة	necr- / necro- / nekro- (necro-)
+سابقة بمعنى النَّسِيْج	hist- / histio- / histo-
+سابقة بمعنى النَّسِيْجِ الظِّهَارِيّ	epithelio-
+سابقة بمعنى النَّشَا	amylo-
+سابقة بمعنى النِّصْف	demi-
+سابقة بمعنى النَّفْس	psych- / psycho-
+سابقة بمعنى النَّفْس ؛ العَقْل	menti-
+سابقة بمعنى النُّقاصُ ؛ نَقْصِ التَّطَوُّر	atelo-
+سابقة بمعنى النَّقْص	mio-
+سابقة بمعنى النَّوَاة	caryo- (karyo-) / karyo- (caryo-) / nucleo-
+سابقة بمعنى النَّوَاة المُسَنَّنَة	dentato-
+سابقة بمعنى النَّوْم	hypn- / hypno- / somni-
+سابقة بمعنى الهُبُوْط	cath- / kath- (cata-)
+سابقة بمعنى الهَوَاءِ أو الغاز	physo-
+سابقة بمعنى الوَاحِد	uni-
+سابقة بمعنى الوَتَد	spheno-
+سابقة بمعنى الوَتَر	teno- / tenonto-
+سابقة بمعنى الوَجْه	facio- / prosop- / prosopo-
+سابقة بمعنى الوَحْمَة	nev-
+سابقة بمعنى الوِرَاثَة	heredo-
+سابقة بمعنى الوَرَق	phyll- / phyllo-
+سابقة بمعنى الوَرَقَة	petalo-
+سابقة بمعنى الوَرِيْد	phleb- / phlebo- / veno-
+سابقة بمعنى الوَسط ؛ المُنْتَصَف	medio-
+سابقة بمعنى الوِعاء	angei- / angi- / angio- / hemangio- / vasculo-
+سابقة بمعنى اليَد	cheir- / cheiro-
+سابقة بمعنى اليَرَقَان	ictero-
+سابقة بمعنى اليَسَار	laevo- / lev- / levo-
+سابقة بمعنى اليَمِيْن	dextr- / dextro-
+سابقة بمعنى أَمام ؛ قَبْل	ante-
+سابقة بمعنى أُنْثَى ؛ اِمْرَأَة ؛ نِساء	gyn- / gynaeco- / gyne- / gyneco- / gyno-
+سابقة بمعنى بَاطِن ؛ دَاخِل	end- / endo- / ent- / ento-
+سابقة بمعنى بَاطِن ؛ دَاخِلِيّ ؛ إِنْسِيّ	eso-
+سابقة بمعنى بِالجِهَتَيْن	amb- / ambi-
+سابقة بمعنى بِدَائِيٌّ	arche- / archi- / archio-
+سابقة بمعنى بِدَائِيٌّ ؛ عَتِيْقٌ ؛ عَرِيْقٌ	arch-
+سابقة بمعنى بَعيداً عَنْ	abs-
+سابقة بمعنى بَيْضَة	oo-
+سابقة بمعنى بِيكو ( 10 12- )	pico-
+سابقة بمعنى بَيْن	inter-
+سابقة بمعنى تحت	sug- (sub-) / sus- (sub-)
+سابقة بمعنى تَحْتَ ؛ دُونَ ؛ أَسْفَل	infra-
+سابقة بمعنى تسعة	nona-
+سابقة بمعنى تلفيفي	gyro-
+سابقة بمعنى تيرا ( 10 12 )	tera-
+سابقة بمعنى ثُنائيّ ؛ مُزْدَوِج	bi-
+سابقة بمعنى ثُنِائِيّ ؛ مُزْدَوِج ؛ مُضَاعَف	bis- / di-
+سابقة بمعنى ثُنَائِيُّ الأميد	diamido-
+سابقة بمعنى جذر الأميدو (R-CO-NH-)	amido-
+سابقة بمعنى جيغا ( 10 9 )	giga-
+سابقة بمعنى حَشَرَة	entomo-
+سابقة بمعنى حَول	circum-
+سابقة بمعنى حُوَيْصَلَة	vesicul-
+سابقة بمعنى خَارِجِيّ ؛ ظَاهِر ؛ بَرَّانِيّ ؛ وَحْشِيّ	exo-
+سابقة بمعنى خَارِجِيّ ؛ وَحْشِيّ	extro-
+سابقة بمعنى خَلْفيّ	postero-
+سابقة بمعنى خَلَل ؛ سُوء ؛ عُسْر ؛ شُذوذ	dys-
+سابقة بمعنى خَيْط ؛ فَتِيل	miti- / mito-
+سابقة بمعنى دَاخِل	intro-
+سابقة بمعنى دِيهيدرو (منزُوع أو نَزْع الهيدروجين)	dehydro-
+سابقة بمعنى رِئَة [ج:رئات؛ث:رئتان]	pulmo- [pl.pulmones]
+سابقة بمعنى رِئَوِيّ	pneumono-
+سابقة بمعنى رُكْبِيّ	gony-
+سابقة بمعنى زُجاجيّ ؛ شفَّاف	hyalo-
+سابقة بمعنى سَبْعَة	septi-
+سابقة بمعنى سَبْعَة ؛ سُبَاعي	hepta-
+سابقة بمعنى سِتَّة ؛ سُداسِيّ	hexa-
+سابقة بمعنى سُوْء	mal-
+سابقة بمعنى شامِل	pan-
+سابقة بمعنى شَبَكَيّ	reticulo-
+سابقة بمعنى شُعاعٌ أو مُتَشَعِّع	actino-
+سابقة بمعنى صَنَوْبَرِيّ	pineal- / pineo-
+سابقة بمعنى طِبُّ الأَطْفَالِ	pedia-
+سابقة بمعنى طَرَف ؛ نِهايَة	acro-
+سابقة بمعنى ظَاهِر ؛ خَارِجِيّ ؛ بَرَّانِيّ	ect- / ecto-
+سابقة بمعنى ظاهِر؛بادٍ؛مَرْئِيّ	phaner-
+سابقة بمعنى عَبْرَ ؛ بطَرِيْق	dia-
+سابقة بمعنى عَشْرَة	deka-
+سابقة بمعنى عُشْرون	icosa-
+سابقة بمعنى عَصِيْدَة	athero-
+سابقة بمعنى عُضْو ؛ عُضْوِيّ	organo-
+سابقة بمعنى عِوَج ؛ ميل ؛ انحراف	lox-
+سابقة بمعنى فاسِد ؛ كَرِيْه ؛ سَيَّء	caco-
+سابقة بمعنى فَوْق	ep- / eph- / epi- / sur- (sub-)
+سابقة بمعنى فَوْق [تشريح]	supra-
+سابقة بمعنى في	eg- (en-) / en-
+سابقة بمعنى فيمتو ( 10 -15 )	femto-
+سابقة بمعنى قَاتمُ (اللَّوْن)	pheo-
+سابقة بمعنى قاتِمُ اللَّوْنِِ	phaeo- (pheo-) / phao-
+سابقة بمعنى قرحة ؛ تقرُّح	helco-
+سابقة بمعنى قَلِيل	pauci- (oligo-)
+سابقة بمعنى قَنَاةُ الصَّفْرَاء	choledocho-
+سابقة بمعنى كاذِب	pseud- / pseudo-
+سابقة بمعنى كِلا	ambo-
+سابقة بمعنى ما يُقارِب أو يُشابِه؛جُزْئِيّ	quasi-
+سابقة بمعنى مُتَوَسِّط ؛ مُعْتَدِل ؛ ناصِف ؛ إِنْسِيّ	mes- / meso-
+سابقة بمعنى مُجَسَّم؛فَرَاغِيّ؛ثُلاثِيُّ الأَبْعَاد	stereo-
+سابقة بمعنى مُسَطَّح؛مُبَطَّح؛عَرِيْض؛واسِع	platy-
+سابقة بمعنى مُضَادّ ؛ مَانِع ؛ ضِدّ ؛ مُعَارِض	anti-
+سابقة بمعنى مِيلِّي ( 10 -3 )	milli
+سابقة بمعنى ميلِّي مِكْرو ( نانُو)	millimicro- (nano-)
+سابقة بمعنى نَحِيْف ؛ نَحِيْل ؛ رَقِيْق	lepto-
+سابقة بمعنى وَاحِدٌ ونِصْف	sesqui-
+سابقة بمعنى وَاسِع ؛ عَرِيْض	eury-
+سابقة بمعنى وجود زمرة كيتونِيَّة	keto-
+سابقة بمعنى وَحِيْد ؛ أُحادي	mon- / mono-
+سابقة بمعنى: الكالسيوم	calci-
+سابقة بمعنى: النَّظَر؛الرُّؤْيَة؛المَرْاَى	scopo-
+سابقة تدل على العلاقة بالجلد	derma- = dermat- = dermato- = dermo-_
+سابقة تدل على موضع خارجي	ecto-_
+سابقةٌ تدلُّ على: التَّصْغِيْر	-idium
+سابقة تدل على: الهيكتو ( 10 2 )	hecto-
+سابقة تعني " داخل " " في "	intra-
+سابقة تعني " داخل " أو " في "	intro- = intra-_
+سابقة تعني ( بين )	inter-
+سابقة تعني (من خلال) أو (بين)	dia-
+سابقة تعني الجلد	derma-dermato-_
+سابقة تعني فردي أو بسيط	haplo-
+سابقة كيميائية بمعنى جَذْر الأمينو (NH2)	amino-
+سابقة كيميائية للدلا فينوكسي (سابقة تدل على وجود مجموعة فينيل مرتبطة بأكسجين)	phenoxy-
+سابقة كيميائية للدلالة على جذر بَيرُوكْسِيّ	peroxy-
+سابِقَةُالعَْرَض ( بادِرَة)	presymptom (prodrome)
+سابُوتالين (ناتج اختزال الصابونين)	sapotalene
+سابُوتُوكْسِين (سموم نباتية المصدر)	sapotoxin
+سابُوجِينين (ناتج من تفكك الصابونين)	sapogenin
+سابين [كيمياء]	sapin
+سابينُول (مستخلص العَرْعَر الكبير)	sabinol
+ساتِرَة [ج:سَواتِر]	coverglass / coverslip
+ساتِرَةٌ زُجاجِيَّة	cover glass
+سَاتِل	satellite
+ساتِل [ج:سَواتِل]	satellite
+ساتِلٌ جُرْثومِيّ ( مُسْتَعْمَرَةٌ ساتِلَة)	bacterial satellite (satellite colony)
+ساتِلٌ صِبْغِيّ	chromosomal satellite
+ساتِلٌ مُرَيكَزِيّ (في الصبغيات)	centriolar satellite
+ساتِلٌ نُوَيِّيّ	nucleolar satellite
+ساحاتُ كُونهايم (في الليف العضلي)	Cohnheim's fields
+ساحِبُ الوِتاد	post-puller
+ساحِبَةُ الرَّأْس (الجنيني)	craniotractor
+ساحِبَةُ الرَّأْس (في التوليد)	vectis
+سَاحِبَة الهَوَاء	hood
+ساحج	abrasive
+ساحِنَةُ بالكُرات	ball grinder
+ساحَةُ H	H field
+ساحَةُ H1	field H1
+ساحَةُ H2	field H2
+ساحَةُ إِبْصارِ العَينَين	binocular field
+ساحَةُ الإَدْراك	perceptual field
+ساحَةُ التَّكْبيرِ العالِي	high-power field
+ساحَةُ التَّكْبيرِ المُنْخَفِض	low-power field
+ساحَةُ التَّلْفِيْفِ المِعْقَفِيّ	subicular field
+ساحَةُ التَّواحُد (في الجنين)	individuation field
+ساحَةُ التَّوجيهِ العَكْسِيّ	adversive field
+ساحَةُ الرُّؤْيَة	visual field
+ساحَةُ الرُّؤْيَة (لحقل الرؤية)	field of vision
+ساحَةُ الرُّؤيَةِ المُتَجاوِزَةُ الحَدّ	overshot field of vision
+ساحَةُ الرُّؤْيَةِ المِصْفَوِيَّة	cribriform field of vision
+ساحَةُ الصَّمَم	deaf field
+ساحَةُ الظُّفُرِ الأَوَّل (عند الجنين)	primary nail field
+ساحَةُ العَمَل	working area
+ساحَةُ العَمَلِيَّة	field of operation
+ساحَةُ الوَعْي	field of consciousness
+ساحة بصرية	visual area
+ساحَةُ تَثْبيتِ البَصَر	field of fixation
+ساحَةٌ تَخَلُّقِيَّة (في الجنين)	morphogenetic field
+ساحَةُ تَكْوينِ المَيَالين (في المحور العصبي لِلجنين)	myelinogenetic field
+ساحة حركية	motive area
+ساحة حسية	sensitive area
+ساحَةٌ رَطْبَة	wet field
+ساحَةٌ غامائِيَّة (لأشعة غاما)	gamma field
+ساحَةُ فليكسيغ ( ساحَةُ تَكْوينِ الميالين) (في المحور العصبي لِلجنين)	Flechsig's field (myelinogenetic field)
+ساحَةُ فُورِيل (في المهاد)	Forel's field
+ساحَةُ فيرِنيكه (في قشرة المخ)	Wernicke's field
+ساحَةٌ لَمْسِيَّة	tactile field
+ساحَةٌ مُتَعَدِّيَّة (لحقل الرؤية)	surplus field
+ساحَةٌ مِجْهَرِيَّة	field of a microscope
+ساحة مخية	cerebral area
+ساحَةٌ مُظْلِمَة	dark field
+ساحَةٌ مِغْناطيسِيَّة	magnetic field
+ساحَةٌ نِسْبِيَّة	relative field
+سَادّ	cataract
+سادٌّ أَخْضَر	green cataract
+سادٌّ أرَجِيّ	allergic cataract
+سادٌّ أَزْرَق	blue cataract / cataracta caerulea / cerulean cataract
+سادٌّ أزْرَقُ نُقْطِيّ	blue dot cataract
+سادٌّ أَسْمَر	brown cataract / brunescent cataract / cataracta brunescens
+سادٌّ أَسْوَد	black cataract / cataracta nigra
+سادٌّ إِشْعاعِيّ	irradiation cataract / radiation cataract
+سادُّ الارْتِجاج	concussion cataract
+سادُّ الأَشِعَةِ الحَرارِيَّة	heat-ray cataract
+سادٌّ الْتِصاقِيٌّ غِشائِيّ	cataracta membranacea accreta
+سادُّ الْتِهابِ الجِلْدِ العَصَبِيُّ المَنْشَأ	cataracta neurodermatica
+سادُّ السِّياج	hedger's cataract
+سادُّ العاصِفَةِ الثَّلْجِيَّة	snowstorm cataract
+سادُّ القُطْبِ الأَمامِي	anterior polar cataract
+سادُّ النُّدَفِ الثَّلْجِيَّة	snowflake cataract
+سادُّ النَّواةِ الجَنينِيَّة	embryonal nuclear cataract
+سادُّ اليُفْعان	adolescent cataract
+سادٌّ أَوَّلِيّ	primary cataract
+سادٌّ بُؤْرِيّ	focal cataract
+سادٌّ بَرْقِيّ	lightning cataract
+سادٌّ بشَكْلِ عَبَّادِ الشَّمْس	sunflower cataract
+سادٌّ تَأَتُّبِيّ	atopic cataract
+سادٌّ تَاجِيٌّ	cataracta coronaria / coronary cataract
+سادٌّ تالٍ للوِلاَدَة	postnatal cataract
+سادٌّ تامّ	complete cataract
+سادٌّ تَثَفُّلِيّ	sedimentary cataract
+سادٌّ تَحْتَ المِحْفَظَة	subcapsular cataract
+سادٌّ تِلْوِيّ	after-cataract / aftercataract (after-cataract)
+سادٌّ ثابِت	stationary cataract
+سادٌّ ثانَوِيّ	secondary cataract
+سادٌّ جافُّ الغِلاَف	aridosiliculose cataract / aridosiliquate cataract / cataracta aridosiliquata / siliculose cataract / siliquose cataract
+سادٌّ جافُّ القِشْرَة	dry-shelled cataract
+سادٌّ جُزْئِيّ	partial cataract
+سادُّ حَلَقَةِ سُومَرِينْغ	Soemmering's ring cataract
+سادٌّ خِلْقِيّ	congenital cataract
+سادٌّ خِلْقِيٌّ غِشائِيّ	cataracta congenita membranacea
+سادٌّ دَرْزِيّ	sutural cataract
+سادٌّ دَمَوِيّ	blood cataract / sanguineous cataract
+سادٌّ رَضْحِيّ	traumatic cataract
+سادٌّ رَضِّيّ	contusion cataract
+سادٌّ زُجاجَوِيّ	hyaloid cataract
+سادٌّ زَرَقِيّ	glaucomatous cataract
+سادٌّ سُكَّرِيُّ المَنْشَأ	diabetic cataract
+سادٌّ سُمِّيّ	toxic cataract
+سادٌّ سِنْجابِيّ	gray cataract
+سادٌّ شامِل	total cataract
+سادٌّ شِبْهُ لِيْفِيٍّ	fibroid cataract
+سادٌّ شَيخوخِيّ	senile cataract
+سادُّ صانِعِي القَوارير	bottlemaker's cataract
+سادٌّ صِفاحِيّ	lamellar cataract
+سادٌّ صُلْب	hard cataract / sclerocataracta
+سادٌّ طِفْلِيّ	infantile cataract
+سادٌّ عامّ	general cataract
+سادٌّ عَدَسِيّ	lenticular cataract
+سادٌّ عَظْمِيّ	bony cataract / cataracta ossea
+سادٌّ غِشائِيّ	membranous cataract
+سادٌّ غَيرُ ناضِجٍ	immature cataract
+سادٌّ فائِقُ النُّضْج	hypermature cataract / overripe cataract
+سادٌّ قِشْرِيّ	cortical cataract
+سادٌّ قُطْبِيٌّ أَمامِيّ	anterior polar cataract
+سادٌّ قُطْبِيٌ خَلْفِيّ	posterior polar cataract
+سادٌّ قِمْعِيّ	cupuliform cataract
+سادٌّ كُتْلَوِيّ	grumous cataract
+سادٌّ كِلْسِيّ	calcareous cataract
+سادٌّ كَهْرَبِيُ المَنْشَأ	cataracta electrica / electric cataract
+سادٌّ كيسِيّ	cystic cataract
+سادٌّ لَبَنِيّ	lacteal cataract / milky cataract
+سادٌّ لَيِّن	soft cataract
+سادٌّ مائِع	fluid cataract
+سادٌ مُتَرَقٍّ	progressive cataract
+سادٌّ مُتَشَجِّر	arborescent cataract
+سادٌّ مِحْفَظِيّ	capsular cataract
+سادٌّ مِحْفَظِيٌّ عَدَسِيّ	capsulolenticular cataract
+سادٌّ مِحْوَرِيٌّ مِغْزَلِيّ	axial fusiform cataract
+سادٌّ مُحِيْطٌ بالنَّواة	perinuclear cataract
+سادٌّ مُحيطِيّ	peripheral cataract
+سادٌّ مُخْتَلَط ( سادٌّ عامّ)	mixed cataract (general cataract)
+سادٌّ مُرافِقٌ لالْتهابِ الجِلْدِ	cataracta syndermotica
+سادٌّ مُرْتَجِف	tremulous cataract
+سادٌّ مَرْجانِيُّ الشَّكْل	coralliform cataract
+سادٌّ مَرَضِيّ	pathological cataract
+سادٌّ مَرْكَزِيّ	central cataract
+سادٌّ مَشيمَوِيّ	choroidal cataract
+سادٌّ مَصْحوبٌ بمُضَاعَفَات	cataracta complicata / complicated cataract
+سادٌّ مُطَبَّق	reduplication cataract
+سادُّ مُطَوِّعِي الحَديد	puddlers' cataract
+سادٌّ مُغايِرُ اللَّون	heterochromic cataract
+سادٌّ مِغْزَلِيّ	spindle cataract
+سادٌّ مِغْزَلِيُّ الشَّكْل	fusiform cataract
+سادٌّ مُلْتَصِق	adherent cataract / cataracta accreta
+سادٌّ مُنْتَبِجٌ	intumescent cataract
+سادٌّ مُنَقَّط	punctate cataract
+سادٌّ مِهْنِيّ	occupational cataract
+سادٌّ مورْغانِيّ	morgagnian cataract
+سادٌّ ناضِج	mature cataract / ripe cataract
+سادُّ نافِخي الزُّجاج	glassblower's cataract
+سادٌّ نَجْمِيّ	stellate cataract
+سادٌّ نُطَيقِيّ	zonular cataract
+سادٌّ نَفْتالينِيّ	naphthalenic cataract
+سادٌّ نَوَوِيّ	nuclear cataract
+سادٌّ هَرَمِيّ	pyramidal cataract
+سادٌّ هَرَمِيٌّ أَمامِيّ	anterior pyramidal cataract
+سادٌّ وَشيك	incipient cataract
+سَادٌّ يَفْعِيّ	juvenile cataract
+سادّ؛كاتاراكت	cataract / cataracta
+سادِسُ التَّوائِم	sextuplet
+سادسةُ الإِنْجَاب؛ مُسْدِسَة (من ولدت ستة مواليد أحياء)	sextipara
+سادِسَةُ الحَمْل	sextigravida
+سادِيّ	sadist / sadistic
+سادِيٌّ مازوخِيّ	sadomasochistic
+سادِيَّةُ الأَنا العُلْيا	superego sadism
+سادِيَّةٌ بالأَمْوات	necrosadism
+سادِيَّةٌ مازوخِيَّة	sadomasochism
+سَاذَجٌ	naive
+سارٍ (ساري)	communicable
+سَارْكُوزين	sarcosine
+سارْكُوسيسِتين (سمٌّ من المتكيسة العضلية)	sarcocytin
+ساركومات [ف:ساركومة]	sarcomata [sing.sarcoma]
+ساركومة [ج:ساركومات]	sarcoma [pl.sarcomata]
+ساركومةُ آبِيرْنِيثي (نوع من الأورام الدهنية)	Abernethy's sarcoma
+ساركومةٌ ابْيِضاضِيَّة	leukosarcoma
+ساركومةٌ أَرُومِيَّةٌ عَظْمِيَّةٌ (ساركومةٌ عَظْمِيَّةٌ)	osteoblastic sarcoma (osteosarcoma)
+ساركومةٌ أَرومِيَّةٌ غُضْروفِيَّة	chondroblastic sarcoma
+ساركومةٌ أَرومِيَّةٌ لِيفِيَّةٌ	fibroblastic sarcoma
+ساركومةٌ أَرُوْمِيَّةٌ مَنَاعِيَّة	immunoblastic sarcoma
+ساركومةٌ أَرُوْمِيَّةٌ مَنَاعِيَّةٌ بائَيَّةُ الخَلاَيَا	immunoblastic sarcoma of B cells
+ساركومةٌ أَرُوْمِيَّةٌ مَنَاعِيَّةٌ تائِيَّةُ الخَلاَيَا	immunoblastic sarcoma of T cells
+ساركومةٌ أَرُوْمِيَّةٌ مِيْنَائِيَّة	ameloblastic sarcoma
+ساركومةٌ أَرُومِيَّةٌ مِيْنائيَّة ( وَرَمٌ أَرُومِيٌ مينائِيٌ خَبيث)	ameloblastosarcoma (malignant ameloblastoma)
+ساركومةٌ أَرُوْمِيَّةٌ مينائِيَّةٌ سِنِّيَّة	odontoameloblastosarcoma
+ساركومةٌ أَرُوْمِيَّةٌ وِعَائِيَّة ( ساركومةٌ وِعَائِيَّة)	angioplastic sarcoma (angiosarcoma)
+ساركومةُ الأَوعِيَةِ اللِّمْفِيَّة	lymphatic sarcoma (lymphangiosarcoma)
+ساركومةُ البِطَانَةِ الوِعَائِيَّة	hemangioendothelial sarcoma
+ساركومةُ الجَافِيَة	durosarcoma
+ساركومةُ الجُزْءِ اللَّيِّن مِنَ السِّنْخ	alveolar soft part sarcoma
+ساركومةُ الخَلاَيا السَّاقِطِيَّة ( سَرَطانَةٌ مَشيمائِيَّة)	deciduocellular sarcoma (choriocarcinoma)
+ساركومةُ الخَلاَيا الشَّبَكِيَّة	reticulum cell sarcoma
+ساركومةُ الخَلاَيَا الشَّبَكِيَّة ( لِمْفومةٌ مُنْسِجِيَّة)	reticulum cell sarcoma (histiocytic lymphoma)
+ساركومةُ الخَلاَيا المُحَبَّبَة ( الوَرَمُ الأَخْضَر)	granulocytic sarcoma (chloroma)
+ساركومةُ الدَّجَاج	chicken sarcoma
+ساركومةُ الشَّبَكِيَّةِ الدِّبْقِيَّة	gliosarcoma retinae
+ساركومةُ الطُّيُور ( ساركومةُ الدَّجَاج)	fowl sarcoma (chicken sarcoma)
+ساركومةُ الكُرَيَّاتِ البَيضاء ( ساركومةٌ ابْيِضَاضِيَّة)	leukocytic sarcoma (leukosarcoma)
+ساركومةُ المُتَوَسِّطَة	mesothelial sarcoma / sarcomesothelioma
+ساركومةٌ بِطانِيَّة	endothelial sarcoma
+ساركومةٌ بِطانِيَّة (ساركومةُ كابوزِي)	endotheliosarcoma (Kaposi's sarcoma)
+ساركومةٌ بِطانِيَّةٌ سَدَوِيَّةٌ رَحِمِيَّةٌ	endometrial stromal sarcoma
+ساركومةٌ بِطانِيَّة وِعائِيَّة	hemangioendotheliosarcoma
+ساركومةٌ جَنِيْنِيَّة	embryonal sarcoma
+ساركومةٌ حَبْلِيَّةّ ( وَرَمٌ حَبْلِيّ)	chordosarcoma (chordoma)
+ساركومةٌ حُلَيْمِيَّة	papillosarcoma
+ساركومةٌ خَضْراء	chlorosarcoma
+ساركومةٌ خَضْرَاء ( الوَرَمُ الأَخْضَر)	chloromatous sarcoma (chloroma)
+ساركومةُ خَلاَيا كوبْفر ( ساركومةٌ وِعائِيَّةٌ كَبِدِيَّةٌ)	Kupffer cell sarcoma (angiosarcoma of the liver)
+ساركومةٌ دِبْقِيَّة	gliosarcoma
+ساركومةٌ دِبْقِيَّةٌ لِيْفِيَّةٌ	gliofibrosarcoma
+ساركومةٌ دَمَوِيَّة ( ساركومةٌ لِمْفِيَّةٌ)	hematosarcoma (lymphosarcoma)
+ساركومةٌ رَمْلِيَّة	psammosarcoma
+ساركومةُ رُوسْ (في الطُّيور)	Rous sarcoma
+ساركومةٌ زَليلِيَّة	synovial sarcoma (synoviosarcoma) / synoviosarcoma
+ساركومةٌ سِحائِيَّة	meningeal sarcoma
+ساركومةٌ سَرَطانِيَّةٌ	carcinosarcoma
+ساركومةٌ سِمْحَاقِيَّةٌ	parosteal sarcoma (periosteal sarcoma) / periosteal sarcoma
+ساركومةٌ سِنِّيَّة ( ساركومةٌ أَرُومِيَّةٌ مينائِيةٌ سنيَّة)	odontosarcoma (odontoameloblastosarcoma)
+ساركومةٌ شَبَكِيَّة	reticulosarcoma
+ساركومةٌ شَبَكِيَّةٌ أَرومِيَّةٌ نِقَوِيَّةٌ	myeloblastic reticulosarcoma
+ساركومةٌ شَبَكِيَّةُ الخَلاَيا	reticulocytic sarcoma / retothelial sarcoma (reticulum cell sarcoma)
+ساركومةٌ شَبكيَّةٌ بِطَانِيَّة ( ساركومةٌ شَبَكِيَّةُ الخَلاَيا)	reticuloendothelial sarcoma (reticulum cell sarcoma)
+ساركومةٌ شَبَكِيَّةٌ مُتَعَدِّدَةُ الأَشْكال	polymorphic reticulosarcoma
+ساركومةٌ شَبَكِيَّة مَخْلَوِيَّة	syncytial reticulosarcoma
+ساركومةٌ شَبَكِيَّة مَخْلَوِيَّةٌ تَرْبيقِيَّة	trabecular syncytial reticulosarcoma
+ساركومةٌ شَبَكِيَّةٌ مَخْلَوِيَّةٌ مُنْتَشِرةٌ	diffuse syncytial reticulosarcoma
+ساركومةٌ شَحْمِيَّة	adipose sarcoma (liposarcoma) / lipoma sarcomatodes / lipomatous sarcoma / liposarcoma
+ساركومةٌ شَحْمِيَّةٌ جَنِيْنيَّة ( ساركومةٌ شَحْمِيَّةٌ مُخاطِيَّةٌ)	embryonal liposarcoma (myxoid liposarcoma)
+ساركومةٌ شَحْمِيَّةٌُّ غُضْروفِيَّةّ	chondroliposarcoma
+ساركومةٌ شَحْمِيَّة لِيفِيَّة	fibroliposarcoma / lipofibrosarcoma
+ساركومةٌ شَحْمِيَّةٌ مُخَاطِيَّةٌ	myxoid liposarcoma / myxoliposarcoma
+ساركومةٌ شفانِيَّة	schwannosarcoma
+سارْكومةٌ صَفْراء (ورم أغماد الأوتار)	xanthosarcoma
+ساركومةٌ صُلْبَةٌ ( سَارْكومةٌ تَلَيُّفِيَّةٌ)	sclerosarcoma (fibrosing sarcoma)
+ساركومةٌ ظِهَارِيَّةُ الشَّكْل ( ساركومةٌ سَرَطَانِيَّة)	sarcoma epitheliodes (carcinosarcoma)
+ساركومةٌ عَصَبِيَّةٌ	neurosarcoma
+ساركومةٌ عَصَبِيَّةُ المَنْشَأ ( وَرَمٌ شِفانِيٌّ خَبيث)	neurogenic sarcoma (malignant schwannoma)
+ساركومةٌ عَضَلِيَّةٌ	myosarcoma
+ساركومةٌ عَضَلِيَّةٌ شَحْمِيَّةٌ	lipomyosarcoma
+ساركومةٌ عَضَلِيَّةٌ غُدِّيَّةٌ مُضْغِيَّةُ الخَلايَا	embryonal adenomyosarcoma
+ساركومةٌ عَضَلِيَّةٌ غُدِّيَّة؛غَرَنٌ عَضَلِيٌّ غُدِّيّ	adenomyosarcoma
+ساركومةٌ عَضَلِيَّةٌ لِيْفِيَّة	myofibrosarcoma
+ساركومةٌ عَضَلِيَّةٌ مُخَطَّطَة	rhabdomyoblastoma (rhabdomyosarcoma)
+ساركومةٌ عَضَلِيَّةٌ مَلْسَاء	leiomyosarcoma
+ساركومةٌ عَظْمِيَّة	osteogenic sarcoma (osteosarcoma) / osteoid sarcoma (osteosarcoma) / osteolytic sarcoma (osteosarcoma) / osteosarcoma
+ساركومةٌ عَظْمِيَّةُ المَنْشَأ	osteogenic sarcoma
+ساركومةٌ عَظْمِيَّةُ المَنْشَأ مُجاوِرَةٌ للقِشْرَة	juxtacortical osteogenic sarcoma
+ساركومةٌ عَظْمِيَّةٌ بَانِيَةٌ للعَظْم	osteoblastic osteosarcoma
+ساركومةٌ عَظْمِيَّةٌ سِمْحَاقِيَّة	parosteal osteosarcoma
+ساركومةٌ عَظْمِيَّةٌّ غُضْروفِيةّ	chondro-osteosarcoma / osteochondrosarcoma
+ساركومةٌ عَظْمِيَّةٌ لِيفِيَّة	fibro-osteosarcoma
+ساركومةٌ عَظْمِيَّةٌ مُتَوَسِّعَةُ الشُّعَيْرات	telangiectatic osteosarcoma
+ساركومةٌ عَظْمِيَّةٌ مُجَاوِرَةٌ للقِشْرَة	juxtacortical osteosarcoma
+ساركومةٌ عَظْمِيَّةٌ مُوَلِّدَةٌ للعَظْم	osteogenic osteosarcoma
+ساركومةٌ عِمْلاَقَةُ الخَلاَيا	giant cell sarcoma
+ساركومةٌ عُنْقُوْدِيَّة	botryoid sarcoma (sarcoma botryoides) / sarcoma botryoides
+ساركومةٌ غُدِّيَّة	sarcoadenoma
+ساركومةٌ غُدِّيَّة ( داءُ هُودجْكن)	glandular sarcoma (Hodgkin's disease)
+ساركومةٌ غُدِّيَّةٌ غُضْروفِيَّة	adenochondrosarcoma
+ساركومةٌ غُدِّيَّة كيسِيَّة	adenocystosarcoma / cystadenosarcoma
+ساركومةٌ غُدِّيَّةٌ لِيفيَّة	adenofibrosarcoma
+ساركومةٌ غُدِّيَّةٌ مُضْغِيَّةُ الخَلايَا	embryonal adenosarcoma
+ساركومةٌ غُدِّيَّةٌ؛غَرَنٌ غُدِّيّ	adenosarcoma
+ساركومة غُضْروفِيَّةّ	chondrosarcoma / sarcoenchondroma (chondrosarcoma)
+ساركومةٌ غُضْروفِيَّةٌ بَاطِنَة	enchondrosarcoma
+ساركومةٌ غُضْروفِيَّةٌ لِيْفِيَّةٌ عَظْمِيَّةٌ ( وَرَمٌ مُتَوسِّطِيٌّ خَبيث)	osteofibrochondrosarcoma (malignant mesenchymoma)
+ساركومةٌ غُضْرُوفِيَّةٌ لِيْفِيَّةٌ مُخَاطِيَّة	myxofibrochondrosarcoma
+ساركومةٌ غُضْروفِيَّةٌ مُتَوَسِّطِيَّةّ	mesenchymal chondrosarcoma
+ساركومةٌ غُضْرُوفِيَّةٌ مُخَاطِيَّةٌ	myxochondrosarcoma
+ساركومةٌ غُضْروفِيَّةٌ مَرْكَزِيَّةّ	central chondrosarcoma
+ساركومةُ غِمْدِ اللِّيفِ العَصَبِيّ	neurilemmosarcoma
+ساركومةُ كابُوزي (السَّاركومةُ النَّزْفِيَّةُ المَجْهولَةُ السَّبَب)	Kaposi's sarcoma (multiple idiopathic hemorrhagic sarcoma)
+ساركومةٌ كَاذِبَة	pseudosarcoma
+ساركومةٌ كيسيَّة	cystosarcoma
+ساركومةٌ كِيسِيَّةٌ مَصْلِيَّةٌ	serocystic sarcoma
+ساركومةٌ لِثَوِيَّة	sarcoma epulis
+ساركومةٌ لِفافِيَّة	fascial sarcoma
+ساركومةٌ لِمْفاوِيَّة شَبَكِيَّة	reticulolymphosarcoma
+ساركومةٌ لِمْفِيَّة ؛ لمفوساركومة	lymphosarcoma
+ساركومةٌ لِمْفِيَّةٌ ابْيِضَاضِيَّة	leukolymphosarcoma
+ساركومةٌ لِمْفِيَّةٌ خَضْراء ( الوَرَمُ الأَخْضَر)	chlorolymphosarcoma (chloroma)
+ساركومةٌ لِيفِيَّة	fibrosarcoma
+ساركومة لِيفِيَّةٌ أَرومِيَّةٌ مينائِيَّةٌ	ameloblastic fibrosarcoma
+ساركومةٌ لِيفِيَّةٌ جِلْدِيَّةٌ	dermatofibrosarcoma
+ساركومةٌ لِيفِيَّةٌ جِلْدِيَّةٌ حَدَبِيَّة	dermatofibrosarcoma protuberans
+ساركومة لِيفِيَّةٌ سِنِّيَّةُ المَنْشَأ	odontogenic fibrosarcoma
+ساركومةٌ لِيْفِيَّةٌ شَحْمِيَّةٌ مُخَاطِيَّةٌ	myxolipofibrosarcoma
+ساركومةٌ لِيفِيَّةٌ عَصَبِيَّةٌ	fibroneurosarcoma
+ساركومةٌ لِيْفِيَّةٌ عَصَبِيَّةٌ ( وَرَمٌ شفانيٌّ خَبيث)	neurofibrosarcoma (malignant schwannoma)
+ساركومةٌ لِيفِيَّةٌ غُضْروفِيَّةّ	chondrofibrosarcoma
+ساركومةٌ لِيْفِيَّةٌ غُضْرُوفِيَّةٌ مُخَاطِيَّةٌ ( وَرَمٌ مُتَوَسِّطِيٌّ خَبيث)	myxochondrofibrosarcoma (malignant mesenchymoma)
+ساركومةٌ لِيفِيَّةٌ مُخاطِيَّةٌ	fibromyxosarcoma / myxofibrosarcoma
+ساركومةٌ مُتَعَدِّدَةُ الأَشْكال	polymorphous sarcoma
+ساركومةٌ مُتَوَسِّعَةُ الشُّعَيرات	telangiectatic sarcoma
+ساركومةٌ مُخَاطِيَّةٌ	myxosarcoma / sarcoma myxomatodes
+ساركومةٌ مُخَاطِيَّةُ شَحْمِيَّةٌ	lipomyxosarcoma
+ساركومةٌ مُخاطِيَّةٌ غُضْروفِيَّةّ	chondromyxosarcoma
+ساركومةٌ مُخْتَلَطَةُ الخَلاَيا ( وَرَمٌ مُتَوَسِطِّيٌّ خَبيث)	mixed cell sarcoma (malignant mesenchymoma)
+ساركومةٌ مُسْتَديرَةُ الخَلاَيا	round cell sarcoma
+ساركومةٌ مِغْزَلِيَّةُ الخَلاَيا	spindle cell sarcoma
+ساركومةٌ مُنْسِجِيَّةٌ	histocytic sarcoma
+ساركومَةٌ ميلانينيَّة	melanosarcoma
+ساركومةٌ ميلانِيَّة	melanotic sarcoma
+ساركومةٌ نُخاعِيَّة	medullary sarcoma
+ساركومةٌ نِقَوِيَّةٌ	myeloid sarcoma
+ساركومةٌ نِقْيِّيَّة	myelosarcoma
+ساركومةٌ نِقْيِّيَّةٌ مُنْتَشِرَةٌ	myelosarcomatosis
+ساركومةُ هودجِكين	Hodgkin's sarcoma
+ساركومةٌ وِعائِيَّة	hemangiosarcoma / sarcoendothelioma (angiosarcoma)
+ساركومةٌ وِعَائِيَّةٌ عَضَلِيَّةٌ	angiomyosarcoma
+ساركومةٌ وِعَائِيَّةٌ غُدِّيَّةٌ	adenoangiosarcoma
+ساركومةٌ وِعَائِيَّةٌ لِمْفِيَّة	lymphangiosarcoma
+ساركومةٌ وِعَائِيَّةٌ مُتَعَدِّدة الأَشْكال	angiosarcoma multiplex
+ساركومةٌ وِعَائِيَّةٌ مُخَاطِيَّةٌ	angiosarcoma myxomatodes
+ساركومةٌ وِعَائِيَّة؛غَرَنٌ وِعَائيّ	angiosarcoma
+ساركومةُ يَنْسن (في الفِئْران)	Jensen's sarcoma
+ساركومةً يُوِينْغ (في العظام)	Ewing's sarcoma
+ساركومِيّ	sarcomatoid / sarcomatous
+ساركوميٌّ مُخَاطِيٌّ	myxosarcomatous
+ساركويد	sarcoidosis
+ساركويدُ البِرِيلْيُوم	beryllium sarcoidosis
+ساركويدُ العَضَلِ القَلْبِيِّ	myocardial sarcoidosis
+ساركويد بِيك	Boeck's sarcoid
+ساركويدُ بيك ( ساركويد)	sarcoid of Boeck (sarcoidosis)
+ساركويدٌ خارِجَ الصَّدْر	extrathoracic sarcoidosis
+ساركويدٌ داخِلَ الصَّدْر	intrathoracic sarcoidosis
+ساركويدُ دارْبيه روسِّي	Darier-Roussy sarcoid
+ساركويدٌ دِمَاغِيّ	cerebral sarcoidosis
+ساركويدُ شبيغلر-فندت ( وَرَمٌ لِمْفاوِيٌّ جِلْدِيّ)	Spiegler-Fendt sarcoid (lymphocytoma cutis)
+ساركويدُ شومان ( سَاركويد)	Schaumann's sarcoid (sarcoidosis)
+ساركويدٌ عَضَلِيّ	muscular sarcoidosis
+ساركويدٌ قَلْبِيّ	sarcoidosis cordis
+ساركويدٌ مُتَعَدِّدٌ حَميد	multiple benign sarcoid
+ساركويدٌ مُفْرِطُ الكَالسيُوم	hypercalcemic sarcoidosis
+ساسَّافْراس (جِنْسٌ مِنَ الأَشْجار)	Sassafras
+ساطِح (يَنْمُو عَلَى أَيِّ سَطْحٍ)	epontic
+ساطور [أسنان]	cleaver
+ساطُورُ الميناء	enamel cleaver
+ساعٍ (ساعي)	serpiginous
+ساعَتان (كلمة لاتينية تستعمل في الوصفات الطبية)	bihora
+ساعد	fore-arm / forearm
+ساعد (ال...)	forearm; antibrachium
+ساعِد [ج:سَواعِد]	antebrachium NA
+ساعِدٌ طَيرِيُّ الشَّكْل	bird-arm
+ساعِدِيّ	antebrachial
+سَاعِدِيّ أمَامِيّ	antebrachial
+ساعِدِيٌّ خَلْفِيّ	postcubital
+ساعَة	clock / hour / watch
+ساعِةٌ ذَرِّيَّة	atomic clock
+ساعَةٌ وَنِصْف	sesquihora
+ساغُو (نَشا النَّخيل)	sago
+سَأَف ؛ نِسْر (عند قاضمي الأظافر)	hangnail (angnail)
+سافْرُوزين (يوزين أزرق اللون)	safrosin
+سافْرُول (زيت طيار من الزعفران)	safrole
+سافْرِين (من خلاصة الزعفران)	safrene
+سافِع	actinic
+سَأفة ؛ شَعْفُوْرَة (جزء من الجلد متدلٍ بجانب الظفر)	agnail (hangnail)
+ساق	crus / leg / shank / stem
+ساق [ج:سيقان]	crus NA [pl.crura]
+ساق [ج:سيقان؛ سوق]	leg (crus NA)
+ساق ؛ عُنَيق	shank (leg)
+ساقٌ اصْطِنَاعِيَّةٌ مُؤَقَتَة	pylon
+ساقُ البَظْر	crus clitoridis NA / crus of clitoris
+ساقُ الحَرْبَة (قَسَطُ الرُّكْبَة)	bayonet leg
+سَاقُ الْحَمَام	Chasmantera palmata
+ساقُ الخَبَّاز ( رُكْبَةٌ رَوحاء)	baker's leg (genu valgum)
+ساقُ الشَّعْرَة	hair shaft
+ساقُ الغُرَير (تَفاوُتُ طولِ السَّاقَين)	badger leg
+ساقُ الفارِس	rider's leg
+ساقُ القَبْو	crus fornicis NA / crus of fornix
+ساقُ القَضيب	crus of penis / crus penis NA
+ساق باربادوس ( ساقُ داءِ الفيلِ)	Barbadoes leg (elephant leg)
+ساقٌ بَيضاء ( التِهابُ الوَريدِ الأَبْيَضُ المُؤْلِم)	milk leg (phlegmasia alba dolens) / white leg (phlegmasia alba dolens)
+ساقُ حِتارِ الأُذُن	crus helicis NA / crus of helix
+ساقُ حَشَفَةِ البَظْر (لُجَيمُ البَظْر)	crus glandis clitoridis (frenulum clitoridis)
+ساقٌ طَيرِيَّةُ الشَّكْل	bird-leg
+ساقٌ فيلِيَّة (? سَاقُ دَاءِ الفيل)	elephant leg
+ساقٌ قَلِقَة	jimmy leg (restless leg syndrome) / jitter leg
+ساقُ لاعِبِ التِّنِس	tennis leg
+ساقٌ مُتَفَلِّسَة	scaly leg
+ساقٌ مِقَصِّيَّة	scissor leg
+ساقٌ مُقَوَّسَة ( رُكْبَةٌ فَحْجاء)	bandy leg (genu varum) / bow leg (genu varum)
+ساقا الحِجاب الحاجز	crura of diaphragm
+ساقِط	deciduate / deciduous
+ساقِطِيّ	decidual
+ساقِفِيّ	tectorial
+ساقِيّ	crural
+ساكْسِيتُوكْسين (ذيفانٌ عصبيٌّ في الرخويات)	saxitoxin
+ساكسيميريد (دواء مضاد للسعال)	suxemerid
+سالازوسَلفابيريدين ( سَلْفاسالازين)	salazosulfapyridine (sulfasalazine)
+سالاَنْتيل (دواء طارد للديدان)	salantel
+سالِبُ الكَهْرَبِيَّة	zincative
+سالخ	eschrotic
+سالْسَالاَت	salsalate
+سالْفَرْسان ( آرسفينامين)	salvarsan (arsphenamine)
+سالفرسانٌ نُحاسِيّ	salvarsan copper
+سالْكُولِيكْس (دَواءٌ مُسَكِّنٌ وَمُضادٌّ لِلالْتِهاب)	salcolex
+سالِم	intact
+سالُوكُولْ (دَواءٌ مُضادٌّ لِلرُّوماتزم)	salocoll
+سالُول (ساليسيلات الفينول)	salol (phenyl salicylate)
+ساليثاميد (دَواءٌ مُسَكِّن)	salethamide
+ساليسِلاتُ الأَميل	amyl salicylate
+ساليسلاتُ الفينيل	phenyl salicylate
+ساليسيلات	salicylate
+ساليسيلات الأسيتيل (دواء مسكن وخافض للحرارة)	acetylsalicylate
+ساليسيلاتُ الأَمُونْيُوم	ammonium salicylate
+ساليسيلاتُ الزِّئْبَق	hydrargyri salicylas
+ساليسيلاتُ الصُّوديوم	sodium salicylate
+ساليسيلاتُ الفينول	phenol salicylate
+ساليسيلاَتُ الكولين	choline salicylate
+ساليسيلاتُ المِتيل	gaultheria oil (methyl salicylate oil)
+ساليسيلاتِيّ	salicylated
+ساليسيلاز [إنزيم]	salicylase
+ساليسيلازوسَلفابيريدين ( سَلْفاسالازين)	salicylazosulfapyridine (sulfasalazine)
+ساليسيلالدهيد	salicylaldehyde
+سَالِيسِيلامِيد	salicylamide
+ساليسيلاميد (مسكن وخافض للحرارة)	salicylamide
+ساليسيلانيليد (مسكن وخافض للحرارة)	salicylanilide
+ساليسِيليك	salicylic
+ساليفين ( تَيَالين)	salivin (ptyalin)
+سالينِيغْرِينْ (غليكوزيد نباتي المنشأ)	salinigrin
+سامّ	poisonous / toxic / toxicant / venenous / virose
+سامّ ؛ سُمِّيّ	poisonous
+سامٌّ غَيْرَوِيّ	heterotoxic
+سامٌّ للأُذُن	ototoxic
+سامٌّ للأَنْسِجَة	histotoxic
+سامٌّ للأَوْعِيَة	vasculotoxic
+سامٌّ للتُّوتَة	thymotoxic
+سامٌّ للجَراثيم	bacteriotoxic
+سامٌّ للجَنين	embryotoxic / fetotoxic
+سامٌّ للجِينات	genotoxic
+سامٌّ للخَلاَيا	cellulotoxic / cytotoxic
+سامٌّ للدَّم	hematotoxic / hematoxic (hematotoxic) / hemotoxic (hematotoxic)
+سامٌّ للشَّبَكِيَّة	retinotoxic
+سام للصبغ	chromotoxic
+سامٌّ للعَصَب	neurotoxic
+سامٌّ للفُطْرِيَّات	fungitoxic
+سامٌّ للْقَلْب	cardiotoxic
+سامٌّ للكَبِد	hepatotoxic / hepatotoxic = hepatoxic / hepatoxic / hepatoxic = hepatotoxic
+سامٌّ للكُرَيَّاتِ البِيْض	leukotoxic
+سامٌّ للكُظْر	adrenotoxin
+سَامٌّ لِلْكُلْيَة	nephrotoxic
+سامٌّ للكُلْيَة (مُتْلِفٌ للخلايا الكلوية)	nephrotoxic
+سامٌّ للمَيالين	myelinotoxic
+سامٌّ للنِّطاف	spermotoxic
+سامٌّ للنِّقْي	myelotoxic
+سامٌّ نَفْسِيَّا	psychotoxic
+سامِحٌ بالتَّجَوُّل؛جَوَّال	ambulatory
+سامِك ؛ مُتَغَذٍّ بِالسَّمَك	ichthyophagous
+سامَّةُ التُّوتَة	thymotoxin
+سامَّةُ الدَّرَقِيَّة	thyroidotoxin
+سامور (مادة قاسية تستعمل في طب الأسنان)	corundum
+سامور (مُرَكَّبٌ يَلِي الماسَ في القَساوَة) [أسنان]	Carborundum
+سَانْتُونين (خلاصة نباتية طاردة للديدان)	santonin
+سانِدَةُ الكاحِل	anklet
+ساهم	contribute
+سَبّابَة (ال...)	forefinger; index finger
+سَبَّابَةُ القَدَم	digitus secundus pedis NA (II pedis NA)
+سَبَّابَةُ اليَد	digitus secundus manus NA (II manus NA)
+سبات - غيبوبة	coma
+سُباتٌ تَخَدُّرِيّ	narcoma
+سُباتٌ سَهَرِيّ	agrypnocoma
+سبات متقطع	cataphora
+سُبات؛غَيبوبَة	coma
+سباتي	carotico / carotid
+سبُاتيّ سَريريّ	caroticoclinoid
+سُباتِيٌّ طَبْلِيّ	caroticotympanic
+سَبادِيلَّة (بذور نباتية تحوي مواد قلوانية دوائية)	Sabadilla
+سبار (معدن لا فلزِّيّ لمَّاع)	spar
+سِبَارُ المَريء	probang
+سبارتئين (قلواني مُعَجِّل للولادة)	sparteine
+سبارسوميسين	sparsomycin
+سبازموتين (سم نباتي)	spasmotin
+سَباطَةُ الشَعْر	leiotrichy
+سُباعِيّ	septan
+سُباعِيُّ التَّكافُؤ	heptad / heptatomic / heptavalent / septavalent / septivalent
+سُباعِيُّ الصِّيغَةِ الصِّبْغِيَّة	heptaploid
+سُباعِيَّةُ الأَصابِع	heptadactylia
+سُباعِيَّةُ الإِنْجَاب (مُسْبِعَةٌ)	septipara
+سِباق	race
+سَبَبٌ	cause
+سَبَب [ج:أَسْباب]	cause
+سَبَبُ العَمَل	cause of action
+سَبَبٌ أَوَّلِيّ	primary cause
+سَبَبٌ بَعيد	remote cause
+سَبَبٌ بِنْيَوِيّ	constitutional cause
+سَبَبٌ بيئِيّ	ecologic cause
+سَبَبٌ ثانَوِيّ	secondary cause / synaetion
+سَبَبٌ خارِجِيّ	external cause
+سَبَبٌ دَفين	underlying cause
+سَبُبٌ قَريب ( سَبَبٌ مُباشِر)	proximate cause (immediate cause)
+سَبَبٌ قِصَائِيُّ ( سَبَبٌ مُؤَرِّث)	ultimate cause (precipitating cause)
+سَبَبٌ مُؤَرِّثٌ	precipitating cause
+سَبَبٌ مُؤَهِّب	predisposing cause
+سَبَبٌ مُباشِر	immediate cause
+سَبَبٌ مُثير	exciting cause
+سَبَبُ مُشارِك	contributory cause
+سَبَبُ مَوضِعِيّ	local cause
+سَبَبٌ نَوعِيّ	specific cause
+سَبَبِيّ	aetiologic; aetiological / causal
+سَبَبِيَّاتُ المَرَض	pathopoiesis
+سَبَبِيَّاتُ سوءِ الإِطْباق	malocclusion etiology
+سَبَبِيَّاتِيّ	etiologic
+سِبْتانُوز (سكر سباعيُّ الكربون)	septanose
+سِبْتيسين	septicine
+سَبتيليزين (إنزيم حال للبروتين)	subtilisin
+سَبتيلين (مضاد حيوي)	subtilin
+سَبْجِي (أوراق ومحافظ الحشيش)	subjee
+سُبْحَة	rosary
+سُبْحَة ؛ خَرَزَة [ج:خَرَزات]	bead
+سُبْحَةٌ رَخَدِيَّة	rachitic beads / rachitic rosary (rachitic beads)
+سُبْحِيّ	beaded
+سَبْر	probing / sounding
+سبر أنفي دمعي	dacryocystorhinotomy / dacryorhinocystotomy = dacryocystorhinotomy
+سَبْرُ كِيْسِ الدَّمْعِ و الأَنْف	dacryocystorhinotomy / dacryorhinocystotomy (dacryocystorhinotomy)
+سَبْرُالجَيبَة	pocket probing
+سبرنيطيقيا	cybernetics
+سَبْطُ الشَعْر	leiotrichous
+سَبْقُ اسْتِثارَةِ البُطَين ( اسْتِثارَةٌ أُذَيْنِيَّةٌ بُطَينِيَّةٌ شاذَّة)	ventricular preexcitation (anomalous atrioventricular excitation)
+سَبْقُ الاسْتِثارَة	preexcitation
+سَبَقَ التَّفْكِيرُ بِه	déja pensé
+سَبَقَ ذِكْرُه	déja raconté
+سَبَقَ سَماعُه (شعور بسماع القول سابقاً رغم كونه جديداً له)	déja entendu
+سبق سمعه	deja entendu
+سَبَقَ عَيشُه	déja vécu
+سَبَقَ فِعْلُه	déja fait
+سَبَقَتْ إِرادَتُه	déja voulu
+سَبَقَتْ تَجْرِبَتُه	déja éprouvé
+سبَقَتْ رُؤْيَتُه	déja vu / déjà vu
+سبقت معايشته	deja vecu
+سُبْقَةُ الإِدْراك	preperception
+سُبْقَةُ الظُّهور	prepatency
+سبكتينوميسين (مضاد حيوي)	spectinomycin
+سَبْكَة	plumb (plomb)
+سَبَل	pannus
+سَبَل (غشاء الْتهابي ليفي وعائي سطحي في القرنية أو المفصل)	pannus
+سَبَلٌ أَرَجِيّ	allergic pannus
+سَبَلٌ إِكْزيمِيّ ( سَبَلٌ أَرَجِيّ)	eczematous pannus (allergic pannus)
+سَبَلٌ الْتِهابِيّ	inflammatory pannus
+سُبُلُ النُّخاعِ اللِّيفِيَّة	fiber tracts of spinal cord
+سَبَلٌ تراخومي	pannus trachomatosus
+سَبَلٌ تَنَكُّسِيّ	degenerative pannus / pannus degenerativus
+سَبَلٌ جافّ	pannus siccus
+سَبَلٌ جُذامَيّ	leprotic pannus
+سَبَلٌ زَرَقِيّ	glaucomatous pannus
+سَبَلٌ ساركوميّ ( سَبَلٌ وِعَائِيّ)	pannus sarcomatous (pannus vasculosus)
+سَبَلٌ عُلَّيقِيّ ( بنتا)	pannus carateus (pinta)
+سَبَلٌ كاذِب	pseudopannus
+سَبَلٌ لَحْمِيّ ( سَبَلٌ وِعائِيّ)	pannus carnosus (pannus vasculosus) / pannus crassus (pannus vasculosus)
+سَبَلٌ نُفاطِيّ ( سَبَلٌ أَرَجِيّ)	phlyctenular pannus (allergic pannus)
+سَبَلٌ وِعائِيّ	pannus vasculosus
+سَبَلَة (السَبَلَة الثياب المُسْبَلَة وبها شبَّهت الطبقة الغشائية)	paniculus
+سَبَلَة (طبقة غشائية)	panniculus (paniculus)
+سَبَلَةٌ شَحْمِيَّة	paniculus adiposus / paniculus adiposus NA
+سَبَلَةٌ عَضَلِيَّةٌ	paniculus carnosus
+سبوروتريكين (مادة لاختبار الحساسية الجلدية)	sporotrichin
+سبوريديزمين (مادة فطرية سامة)	sporidesmin
+سبونجستيرول (مركب ستيرولي من الإسفنج)	spongosterol
+سبونجين	spongin
+سَبِيب ؛ شَعْرُ الخَيل	horsehair
+سبيبيرون (دواء لمعالجة الفصام)	spiperone
+سبيجيليّ (نسبة للعالم سبيجل)	spigelian
+سبيجيلين (قلواني نباتي المصدر)	spigeline
+سبيجيليَّة ( جَذْرٌ قَرَنْفُلِيّ) (جنس من النباتات)	Spigelia
+سبيراميسين (مضادّ حيوي)	spiramycin
+سبيرماتين (مادة في المني)	spermatin
+سبيرماز [إنزيم]	spermase
+سبيرمدين	spermidine
+سبيرمين	spermine
+سبيروغرافين (مركب من الحيوانات البحرية)	spirographin
+سبيرولكتون (مدر حافظ للبوتاسيوم)	spirolactone
+سِبيرُونُولاَكتُون	spironolactone
+سبيرونولاكتون (مدر حافظ للبوتاسيوم)	spironolactone
+سبيريلِّيسيدين	spirillicidin
+سَّبيلُ (ال...) البَصَلِيّ	bulbar tract
+سَبيل (ال...) البصَليّ الشَوْكِيّ	bulbospinal tract
+سَّبيلُ (ال...) التُّوتيُّ المَرْكَزِيّ	tractus centralis thymi
+سَبيل (ال...) الحَمرَاويّ النُخَاعيّ، سَبيل (ال...) الحَمرَاويّ الشَبَكيّ	rubroreticular tract
+سبيل (ال...) الزَيْتُونِيّ الشَوكِيّ	olivospinal tract
+سبيل (ال...) الزَيتونِي المُخَيخيّ	olivocerebellar tract
+سَبيل (ال...) الشَبكِيّ النُخَاعِيّ	reticulospinal tract
+سَّبيلُ (ال...) الصَّفْراوِيّ	biliary tract
+سَّبيلُ (ال...) المُخَيخِيُّ البَصَلِيّ	cerebellobulbar tract
+سَّبيلُ (ال...) المُخَيخِيُّ الحَمْراوِيُّ النُّخاعِيّ	cerebellorubrospinal tract
+سَّبيلُ (ال...) المُخَيخِيُّ الدِّهْليزِيّ	cerebellovestibular tract
+سَّبيلُ (ال...) المُخَيخِيُّ الشَّبَكِيّ	cerebelloreticular tract
+سَّبيلُ (ال...) المُخَيخِيُّ النُّخاعِيّ	cerebellospinal tract
+سَبيل (ال...) المَرْكَزِيّ	central tract
+سَّبيلُ (ال...) المَرْكَزِيُّ للتُّوتَة	central tract of thymus
+سَبِيل (ال...) المَعِدِيّ المِعَوي	gastro-intestinal tractus
+سَّبيلُ (ال...) الهَضْمِيّ	alimentary tract
+سَبيل [ج:سُبُل]	tractus NA [pl.tractus]
+سَبيلٌ ابْتِنائِيّ	anabolic pathway
+سَبيلٌ اسْتِقْلاَبِيّ (سَبيلٌ أَيْضِيّ)	metabolic pathway
+سَبيلُ التَّرابُط	association tract
+سَبيلُ التَّفاعُل	reaction pathway
+سَبيلُ التَّوزيع	distribution pathway
+سَبيلُ الجَرَيان	flow tract
+سَبيلُ الجِرْيانِ في القَلْب	flow tract of the heart
+سَبيلُ الفسفوغلوكونات ( سَبيلُ فُسْفاتِ البَنْتوز)	phosphogluconate pathway (pentose phosphate pathway)
+سَبيلُ بختيريف ( السَّبيلُ السَّقيفيُّ المَرْكَزِيّ)	Bekhterev's tract (tractus tegmentalis centralis)
+سَبيلٌ بَديل	alternative pathway
+سَبيلُ بروس ( السَّبيلُ الحاجِزِيُّ الحَافَويّ)	Bruce's tract (septomarginalis tract)
+سَبيلُ بروس ومور ( الحُزْمَةُ الحاجِزِيَّةُ الحَافَويَّة)	tract of Bruce and Muir (fasciculus septomarginalis)
+سبيل بَصَري	optic tract
+سَبيلُ بورداخ ( الحُزْمَةُ الإِسْفينِيَّةُ النُّخاعِيَّةُ الشَّوكِيَّة)	Burdach's tract (fasciculus cuneatus medullae spinalis)
+سَبيلٌ بَينِيّ	internuncial pathway / internuncial tract
+سَبيلٌ تَخْلِيقِيٌّ حَيَوِيّ	biosynthetic pathway
+سَبيلُ حَرَكِيّ	motor tract
+سَبيلُ حِسِّيّ	sensory tract
+سَبيلُ دايترز ( السَّبيلُ الدِّهْليزِيُّ النُّخاعِيّ)	Deiters' tract (tractus vestibulospinalis)
+سَبيلٌ دوبامينيُّ الفِعْل	dopaminergic tract
+سَبيلُ سبايتزكا ( السَّبيلُ الظَّهْرانِيُّ الوَحْشِيّ)	Spitzka 's tract (tractus dorsolateralis)
+سَبيلٌ شَمِّيّ	olfactory tract
+سَبيلُ شولتز ( السَّبيلُ الهِلاَلِيّ)	Schultze 's tract (semilunar tract)
+سَبيلٌ صادِر	efferent pathway / efferent tract
+سَبيلٌ صاعِد	ascending tract
+سَبيلُ عَودَةِ الدُّخول	reentrant pathway
+سَبيلُ غاور ( السَّبيلُ النُّخاعِيُّ المُخَيخِيُّ البَطْنانِيّ)	Gowers' tract (tractus spinocerebellaris ventralis)
+سَبيلُ غول ( الحُزْمَةُ النُّخاعِيَّةُ الشَّوكِيَّةُ النَّاحِلَة)	Goll's tract (fasciculus gracilis medullae spinalis)
+سَبيلُ غومبولت-فيليب	tract of Philippe-Gombault
+سَبيلُ فُسْفاتِ البَنْتوز	pentose phosphate pathway
+سَبيلُ فليكسيغ ( السَّبيلُ النُّخاعِيُّ المُخَيخِيُّ الخَلْفِيّ)	Flechsig's tract (tractus spinocerebellaris posterior)
+سَبيلُ فيك دازير ( الحُزْمَةُ الحَلَمِيَّةُ المِهادِيَّة)	tract of Vicq d'Azyr (fasciculus mamillothalamicus)
+سَبيلُ لوفينتال ( السَّبيلُ السَّقْفِيُّ النُّخاعِيّ)	Lowenthal 's tract (tractus tectospinalis)
+سَبيلُ ليساوَر ( السَّبيلُ الظَّهْرانِيُّ الوَحْشِيّ)	Lissauer's tract (tractus dorsolateralis)
+سَبيلُ مارشي ( السَّبيلُ السَّقْفِيُّ النُّخاعِيّ)	Marchi 's tract (tractus tectospinalis)
+سَبيلُ ماينرت ( السَّبيلُ العِنانِيُّ بَينَ السُّوَيقَتَين)	tract of Meynert (tractus habenulo-interpeduncularis)
+سَبيلُ موناكوف (السَّبيلُ الحَمْراوِيُّ النُّخاعِيّ)	Monakow's tract (tractus rubrospinalis)
+سبيل ميسيا ( السَّبيلُ الحَرْقَفِيُّ الظُّنْبوبِيّ)	Maissiat 's tract (iliotibial tract)
+سَبيلٌ نازِل	descending tract
+سَبيلُ هلفغ ( السَّبيلُ الزَّيتونِيُّ النُّخاعِيّ)	Helweg's tract (tractus olivospinalis)
+سَبيلٌ وارِد	afferent pathway / afferent tract
+سبيل، مسلك، ممر	tract; pathway
+سبيناسين	spinacin
+ست الحسن (بلادونا)	belladonna
+سِتَّ عَشَرِيّ	hexadecimal
+ستاتولون (مضاد لتكاثر الفيروسات)	statolon
+ستافيزاغرين (قلواني سام من نبات العائق)	staphisagrine
+ستالاغمون (مادة تغير من التوتر السطحي للسوائل)	stalagmon
+سَتَّالَة	instillator
+ستانَّات	stannate
+ستانوزولول ( أندروستانوزول) (ستيرويد ذكري)	stanozolol (androstanozole)
+ستانولون (ديهيدروتستوستيرون)	stanolone (dihydrotestosterone)
+ستانِّيك	stannic
+ستايرول ( ستايرين)	styrol (styrene)
+ستايرولين ( ستايرين)	styrolene (styrene)
+ستايرون	styrone
+ستايرين (مادة لدنة تستخدم في صناعة البلاستيكية)	styrene
+سِتْراتُ المَغْنيزيُوم	citrate of magnesia
+ستربتوبيوزامين (أحد مُسْتَقْلَبَاتِ الستربتوميسين)	streptobiosamine
+ستربتوثريسين (مضاد حيوي)	streptothricin
+ستربتوجينين (عامل نمو)	streptogenin
+سِتْرِبْتُودُورنَاز	streptodornase
+ستربتودورناز (إنزيم تفرزه العقديات الحالة للدم)	streptodornase
+ستربتودورناز-ستربتوكيناز [إنزيم]	streptokinase-streptodornase
+ستربتودوسين (مضاد حيوي)	streptoduocin
+ستربتوكيناز [إنزيم]	streptokinase
+ستربتوكيناز-ستربتودورناز [إنزيم]	streptokinase- streptodornase
+ستربتولوكوسيدين (مادة مبيدة للجراثيم)	streptoleukocidin
+ستربتوليزين	streptolysin
+ستربتوليزين O	streptolysin O
+ستربتوليزين S	streptolysin S
+ستربتوميسين (مضاد حيوي)	streptomycin
+ستربتومين	streptomycin
+ستربتونيفيسين ( نوفوبيوسين) (مضاد حيوي)	streptonivicin (novobiocin)
+سُتْرَة	jacket
+سُتْرَةُ الحَجْر (للمرضى العقليين)	straitjacket
+سُتْرَةٌ جِبْسِيَّة	plaster-of-Paris jacket
+سُتْرَةٌ خَزَفِيَّة	porcelain jacket
+سُتْرَةُ سايِر (سُتْرَةٌ جِبْسِيَّةٌ فِقْرِيُّة)	Sayre's jacket
+سُتْرَةٌ مُضَيِّقَة ( قَمِيْصُول)	strait jacket (camisole)
+سُتْرَةُ ويلوك التَّنَفُّسِيَّة (كانت تستعمل لتسهيل التنفس في مرض الربو)	Willock's respiratory jacket
+ستروفانثوس (جنس من الأشجار المدارية الأفريقية)	Strophanthus
+ستروفانثيدين (دواء مقوٍّ للقلب)	strophanthidin
+ستروفانثين (دواء مقوٍّ للقلب)	strophanthin
+سترول	sterol
+ستروماتين (بروتين في سدى الكرية الحمراء)	stromatin
+سترونشيوم (العنصر الثامن والثلاثون)	strontium
+ستريبتامين (أحد مُسْتَقْلَبَاتِ الستربتوميسين)	streptamine
+سِتْرِيبْتُوكِينَاز	streptokinase
+ستريبتيدين (أحد مُسْتَقْلَبَاتِ الستربتوميسين)	streptidine
+ستريبوجنين (عامل نمو في البروتينات)	strepogenin
+ستريكنين (قلواني شديد السمية)	strychnine
+سترين الغلوبولاريا ( روتين) [كيمياء]	globularia-citrin (rutin)
+ستليبتين	stilbetin
+سَتَهّ (ولع مرضي بالشرج)	proctophilia
+ستوك (وحدة اللزوجة الحركية)	stoke
+ستيابسين (ليباز ثلاثي أسيل الغليسيرول) [إنزيم]	steapsin (triacylglycerol lipase)
+ستيارات [كيمياء]	stearate
+ستياريُّ الشَّكْل	steariform
+ستيارين	stearin (tristearin)
+ستيبامين (دواء للّيشمانيات)	stibamine
+ستيبوفين (مضاد للديدان)	stibophen
+ستيبونيوم [كيمياء]	stibonium
+ستيراديان (وَحْدَةُ قِياسِ الزَّاوِيَةِ المُجَسَّمَة)	steradian
+ستيرامات (دواءٌ مُرْخٍ للعَضلات)	styramate
+ستيركوبورفيرين	stercoporphyrin
+ستيركوبيلين (صبغ صفراوي يطرح في البول والبراز)	stercobilin
+ستِيرُوئِيد	steroid
+ستيرُوئيدٌ قِشْر-كُظرِيّ ( ستِرُوئيدٌ قِشْرِيّ) [هرمون]	adrenocorticosteroid (corticosteroid)
+ستيرول (مركب ستيرويدي ذو سلسلة جانبية أليفاتية طويلة على الكربون 17)	sterol
+ستيرول حَيَوانِيّ	zoosterol
+ستيرول فُطارِيّ	zymosterol (mycosterol)
+ستِيرويد	steroid
+ستيرويد [كيمياء]	sterid (steroid) / steroid
+ستيرُويدٌ ابْتِنائِيّ	anabolic steroid
+ستيرويد حَيَوانِيّ	zoosteroid
+ستيرُويدٌ قِشْرِيّ [هرمون]	adrenocorticoid (corticosteroid)
+ستيزولوبين (غلوبولين في الفول الصيني)	stizolobin
+ستيغماستيرول (ستيرول نباتيّ)	stigmasterol
+ستيفزيكتي (داء عوز الفسفور في الأنعام)	stijfziekte
+ستيفيميسين (مضاد حيوي)	steffimycin
+ستيلالجين (ميفينيزين)	stilalgin (mephenesin)
+ستيلبين ( طولويلين)	stilbene (toluylene)
+ستيليبستيرول (دواء لسرطان الثدي)	stilbestrol
+ستيميولون	stimulon
+ستيميولين (مادة منبهة للبالعات)	stimulin
+سَجَعٌ (تكلُّم متشابه الفواصل)	assonance
+سُجُقِّيّ الشَّكْل	botuliform
+سِجِلّ	registry
+سِجِلُّ الإِطْباق	bite record
+سِجِلُّ الأَورام	cancer registry / tumor registry
+سِجِلُّ الحالاَت	case record / casebook
+سِجِلُّ الدَّورَة (الشَّهْرِيَّة)	periodoscope
+سِجِلُّ الرُّضوح	trauma registry
+سِجِلُّ السَّرَطان	cancer registry
+سِجِلُّ العُنْوَان	address register
+سِجِلُّ الفَحْص	examination record
+سِجِل الْـمُخَدِّرَات	narcotics register
+سِجِلُّ المَرْض	pathography
+سِجِلُّ المَرَضِ الذَّاتِيّ	autopathography
+سجل المرضى	casebook
+سِجِلُّ المَريض	patient record
+سِجِلُّ المُعْطَيات	data record
+سِجِلّ الْوَجْبَة	batch record
+سِجِلٌّ تَمْريضِيّ	nursing record
+سِجِلٌّ رَئِيْسِيّ	master record
+سِجِلٌّ سَريرِيّ	clinical record
+سِجِلٌ صِحِّيّ	health record
+سِجِلٌّ صَيْدَلانِيّ	pharmaceutical registration
+سِجِلٌّ طِبِّيّ	medical record
+سِجِلُّ قَبْلَ الجِراحَة	preoperative record
+سِجِلٌّ مديد	spanned record
+سِجِلٌّ مُشْكِلِيُّ التَّوَجُّه	problem-oriented record
+سِجِلاَّتُ المَوْتَى	necrology
+سَجْنٌ كاذِب	false imprisonment
+سِحاءة	meninge
+سِّحاءَةُ (ال...) الظاهِرَة	ectomeninx
+سِحاءَةٌ رَقيقَة [ج:سَحايا رقيقة]	leptomeninx [pl.leptomeninges]
+سِحائِيّ	meningeal
+سِحائِيُّ المَنْشَأ	meningogenic
+سِحائِيٌّ جَذْرِيّ	meningoradicular
+سِحائِيٌّ دِمَاغِيٌّ	meningocerebral
+سِحائِيٌّ قِشْرِيّ	meningeocortical / meningocortical
+سِحائِيٌّ وِعائِيّ	meningovascular
+سحابة القرنية	keratoleukoma
+سَحَّاحَة	burette
+سَحَّاحَة [ج:سَحَّاحات]	buret
+سَحَّاحَةٌ مِكْرَوِيَّة	microburet
+سَحَّاحة، سَتَّالَة	buret
+سُحار	coniosis / koniosis
+سُحار (تَغَبُّرُ الرِّئَة)	pneumonokoniosis
+سُحار ؛ تَغَبُّرُ الرِّئَة	pneumoconiosis
+سُحارٌ أسْبِسْتِيّ	amianthosis (asbestosis) / asbestos pneumoconiosis
+سُحَارُ الحَلاجِيْن؛سُحارٌ قُطْنِيّ	byssinosis / byssophthisis
+سُحارُ الميكا	micatosis
+سُحارٌ ألومينْيومِيّ (ترسب الألومينْيوم في الرِّئَة)	aluminosis
+سُحارٌ بَاريتِيّ	barytosis (baritosis)
+سُحارٌ بَاريتِيّ (سُحارٌ بَاريوميّ)	baritosis
+سُحارٌ بُوكْسِيتِيّ	bauxite pneumoconiosis
+سُحَار تَبْغِيّ	tabacism / tabacosis
+سُحارٌ تُرابِيّ	chalicosis
+سُحارٌ تَلَيُّفِيّ	coniofibrosis
+سُحَارٌ ثَفَلِيٌّ	bagasscosis / bagassosis
+سُحارٌ حَديدِيّ	pneumoconiosis siderotica (siderosis)
+سُحارٌ حَديدِيٌّ سيليسِيّ	siderosilicosis / silicosiderosis
+سُحارٌ رُكودِيٌّ لِمْفِيّ	coniolymphstasis
+سُحارٌ روماتويديّ	rheumatoid pneumoconiosis
+سُحارٌ سُلِّيٌّ	tuberculosilicosis
+سُحارٌ سيليسِيّ	pneumosilicosis / silicosis
+سُحارٌ سيليكاتِيّ	silicatosis
+سُحَارٌ صَخْرِيّ	schistosis
+سُحارٌ طَلْقِيّ	talc pneumoconiosis / talcosis
+سُحَارٌ طَلْقِيٌّ رِئَوِيّ	pulmonary talcosis
+سُحارُ عُمَّالِ الفَحْم	melanedema (coal workers pneumoconiosis) / pneumoconiosis of coal workers
+سُحارٌ غُبارِيّ	coniotoxicosis
+سُحارٌ غرافيتِيّ	graphitosis
+سُحارٌ غَيْرُ كُولاَجِينِيّ	noncollagenous pneumoconiosis
+سُحارٌ فَحْمِيّ	anthracosis
+سُحارٌ فَحْمِيٌّ سيليكِيّ	anthracosilicosis
+سُحارٌ فِضِّيٌّ حَديدِيّ	argyrosederosis
+سُحارٌ فَلِّينِيّ (التهاب الأسناخ الأرَجي بغبار الفلين)	suberosis
+سُحارٌ قارِيّ	bituminosis
+سُحارٌ قِصْدِيْرِيّ	stannosis
+سُحارٌ كادِمْيُومِيّ	cadmiosis
+سُحارٌ كاولينِيّ	kaolinosis
+سُحارٌ كِلْسِيّ	calcicosis
+سُحارٌ كِلْسِيٌّ سِيليسِيّ	calcicosilicosis
+سُحارٌ كُوبالْتِيّ	cobaltosis
+سُحارٌ كُولاَجِينِيّ	collagenous pneumoconiosis
+سُحارٌفَحْمِيٌّ سيليسيّ	silicoanthracosis
+سُحافُ الكُلْيَة	nephronophthisis / nephrophthisis
+سُحافُ الكُلْيَةِ الطِّفْلِيُّ العائِلِيّ	familial juvenile nephronophthisis
+سُحافُ المَجاعَة	limophthisis
+سُحَافُ المُعَدِّنين	miner phthisis
+سُحَافُ المَعِدَة	phthisis ventriculi
+سُحَافٌ أُمْدَمِيّ	aneurysmal phthisis
+سُحَافٌ دَمَوِيّ	hemophthisis
+سُحَافٌ سُكَرِيّ	diabetic phthisis
+سُحافٌ عَصَبِيّ	neurophthisis
+سُحافٌ كاذِب	pseudophthisis
+سُحَافٌ كبدِي	hepatic phthisis
+سُحَافٌ نِقيِيٌّ شَامِلٌ	panmyelophthisis
+سِحَاق	sapphism (lesbianism) / tribadism / tribady
+سِحاقِيَّة	lesbian
+سَحَايا	meninges
+سَّحايا (ال...) الباطِنَة	endomeninges
+سَّحايا (ال...) الثَّخينَة، الأُمُّ الجافِيَة	pachymeninges
+سَحايا [ف:سِحاءَة]	meninges NA [sing.meninx]
+سَحايا النُّخاع	myelomeninx
+سحب المخدر	denarcotization
+سَحْبُ المُشاشَة	distraction epiphysiolysis
+سحبة (فلم)	film
+سحبة الدم	film, blood
+سَحْج	abrasio / abrasion
+سحج - انسحاج	excoriation
+سحج السن	abrasio dentium
+سَحْجُ القَرْنِيَّة	abrasio corneae / cornea, abrasion
+سحج سني	dental abrasion
+سَحْجٌ كِيمْيائِيّ	chemabrasion
+سَحْجٌ لِثَوِيّ	gingival abrasion
+سَحْق	confrication / crush / pulverization
+سَحْقُ الحَصاة	lithotrity
+سحق، هرس	trituration
+سَحْل	planing (dermabrasion)
+سَحْلُ الأَسْنان	stelengis
+سَحْلُ الأسْنانِ الوَظيفِيّ	milling-in (grinding-in)
+سَحْلُ الجَذْر ( كَشْطُ الجَذْر)	root planing (root curettage)
+سَحْلٌ انْتِقائِيّ	selective grinding
+سَحْلٌ بالهَواء (المَضْغُوط) [أسنان]	air abrasion
+سَحْلٌ بُقْعِيّ	spot grinding
+سَحْلٌ تَصْحيحِيّ [أسنان]	grinding-in
+سَحْلٌ كيميائي ( تَقْشيرٌ كيميائيّ)	chemical planing (chemical peeling)
+سَحْلَبٌ	orchis masculata
+سَحْلَب (جِنْسُ نَباتٍ مِنْ فَصيلَةِ السَّحْلَبِيَّات)	Orchis
+سَحْنٌ	levigation / mulling / porphyrization (pulverization) / trituration
+سَحْنُ المُلْغَم	amalgam mulling / amalgam trituration
+سَحْن، سَحْق	trituration
+سَحْناء	complexion
+سحنة	facies
+سَحْنَةٌ أَسَدِيَّة (في الجذام)	facies leontina
+سَحْنَةُ الاعْتِلاَلِ العَضَلِيّ	myopathic facies
+سحنة الزوائد الانفية	face, adenoid = adenoid facies
+سَحْنَةُ المِتْرالِيّ	mitral facies
+سَحْنَةُ المِتْرالِيِّ وَثُلاَثِيِّ الشُرَف	mitrotricuspid facies
+سَحْنَةٌ أَلَمِيَّة	facies dolorosa
+سَحْنَةُ الوَهَنِ العَضَلِيّ	myasthenic facies
+سَحْنَةٌ بَارْكِنْسُونِيَّة	Parkinson's facies / parkinsonian facies
+سَحْنَةٌ بَدْرِيَّة	moon face
+سَحْنَةٌ بَطْنِيَّة	facies abdominalis
+سَحْنَةٌ بُقْراطِيَّة	hippocratic face
+سَحْنَةٌ بُقْراطِيَّة (الشُّحُوْبُ السَّابِقُ لِلمَوْتِ)	facies hippocratica
+سَحْنَةٌ بَقَرِيَّة	bovine face (cow face)
+سَحْنَةٌ بَقَرِيَّةٌ (في خلل التعظم الوجهي القحفي)	facies auricularis ossis sacri NA
+سَحْنَةٌ بوتَر (مرافقة لغياب الكليتين)	Potter facies
+سَحْنَةٌ تِيْفِيَّة	facies typhosa / typhoid facies
+سَحْنَةٌ عَرْطَلِيَّة؛سَحْنَةُ ضَخامَةِ النِّهايات	acromegalic facies
+سَحْنَةٌ غُدَّانِيَّة	adenoid face (adenoid facies) / adenoid facies
+سَحْنَةٌ كَبِدِيَّة	facies hepatica
+سَحْنَةُ مارشال هول (للمصاب بموه الدماغ)	Marshall Hall's facies
+سَحْنَةٌ مُنْقَبِضَة	scythropasmus
+سَحْنَةُ هَتشِنسُون (سحنة ترافق شلل عيني)	Hutchinson's facies
+سَحْنَةٌ”أَسَدِيَّة (في الجذام)	leonine facies
+سَحوب	extensible
+سَحوبِيَّة	extensibility
+سَحُوْن؛قَابِلٌ للسَّحْن	triturable
+سَحيجَة [ج:سَحائِج] (عينة نسيجية أو خلوية)	scraping
+سُخام	soot
+سُخَامٌ سَامّ	stupp
+سَخَّان	heater
+سَخَّانُ الشَّمْع	wax heater
+سَخَّانُ الماء	water heater
+سَخَّانَةُ اللَّبَن	milk heater
+سُخْد ساقط	deciduate placenta
+سُخونَة	fervescence
+سُخونَةٌ مُحَرَّضَةٌ ( سُخُوْنَةٌ كهرَبِيَّةُ المَصْدَر)	inductopyrexia (electropyrexia)
+سَدّ	dam
+سَدّ ؛ طَمْس (إزالة كاملة)	obliteration
+سَدُّ الحَوافِي	border seal
+سد العين (كتاركتا)	cataract = cataracta
+سد العين، ظلام عدسة العين	cataract
+سَدُّ القَناة ( حَشْوُ قَناةِ الجَذْر) [أسنان]	canal obturation (root canal filling)
+سَدٌ حَنَكِيٌّ خَلْفِيّ	posterior palatal seal / postpalatal seal
+سَدٌّ خَلْفِيّ [أسنان]	post-dam
+سَدٌّ شِراعِيٌّ بُلْعُومِيّ	velopharyngeal seal
+سَدٌّ طِبْرَخِيّ (حشوة سنية مؤقتة)	gutta-percha stopping
+سَدٌّ كَتِيْمٌ للهَوَاء	hermetic seal
+سَدٌّ مُحيطِيّ	peripheral seal
+سَدٌّ مُضاعَف	cataract, complicated / complicated cataract / double seal
+سَدٌّ مَطَّاطِيّ	rubber dam
+سَدٌّ مَطَّاطِيّ [أسنان]	coffer dam
+سَدّاد	plug
+سِدَاداتُ ديتريش (كتل صفراء في بلغم المصابين بالتهاب القصبات)	Dittrich's plugs
+سِدَادَاتٌ فِلِّينِيَة	cork stoppers
+سِدَادَاتٌ مَطَّاطِيَّة	rubber stoppers
+سَدَّادَة	stopper
+سِّدادَةُ (ال...) الوَجْهِيَّةُ الشِّدْقِيَّة	buccofacial obturator
+سِدادَةُ الأُذُن	earplug
+سِدادَةُ الحَنَكِ المَشْقوق	cleft palate obturator
+سِدادَةٌ أَنْفِيَّة	rhinobyon
+سِدَادَةُ إيكر ( سِدادَةٌ مُحِّيَّة)	Ecker's plug (yolk plug)
+سِدَادَةُ إيملاخ الدُّهْنِيَّة (قطع دهنيةفي الحلقة الاربية الظاهرة)	Imlach's fat plug
+سِدَادَةُ تراوبه ( سِدَادَةُ ديتريخ)	Traube's plug (Dittrich's plug)
+سِدَادَةٌ ظِهارِيَّة	epithelial plug
+سِدَادَةٌ عِقْيِيَّة	meconium plug
+سِدَادَةٌ عُنُقِيَّة	cervical plug (mucous plug)
+سِدَادَةٌ قُطْنِيَّة	cotton plug
+سِدَادَةُ كورنر (قطع من الثرب لغلق الفتحات)	Corner's plug
+سِدَادَةٌ مُحِّيَّة	yolk plug
+سِدَادَةٌ مُخاطِيَّة	mucous plug
+سِدَادَةٌ مَهْبِلِيَّة	copulation plug (vaginal plug) / vaginal plug
+سدادي (صمي)	embolic
+سدَادِيّّ، سِداد	obturator
+سُداسِيُّ الأَصابِع	sedigate (sexdigitate) / sexdigitate
+سُداسِيُّ الأَلْوان	hexachromic
+سُداسِيُّ التَّكافُؤ	hexavalent / sexivalent (hexavalent)
+سُداسِيُّ الذَّرَّة	hexatomic
+سداسي الصبغيات	hexaploid
+سُداسِيُّ الصِّيغَةِ الصِّبْغِيَّة	hexaploid
+سُداسِيُّ الفيتامين	hexavitamin
+سُداسِيُّ القاعِدَة	hexabasic
+سُداسِيُّ المَحاوِر	hexaxial
+سُداسِيُّ الميثيل	hexamethyl violet (crystal violet) / hexamethylated
+سُداسِيُّ الميثيلين ثُنائِيُّ الأَمين	hexamethylendiamine
+سُداسِيُّ الهيدروجين	hexahydric / hexhydric
+سُداسِيُّ كلوروإيثان	hexachloroethane
+سُداسِيُّ كلوروبنزين	hexachlorobenzene
+سداسيُّ ميثيل الباراروزانيلين	hexamethylpararosanilin
+سُداسِيُّ هيدروهيماتوبرفيرين	hexahydrohematoporphyrin
+سُداسِيَّاتُ الأَرْجُل ( الحَشَرات)	Hexapoda (Insecta)
+سداسية الأصابع	hexadactyly
+سُداسِيَّةُ الخُيوط (جنس من الأوالي)	Hexamita
+سَدَاة [ج:أَسْدِيَة] (العُضْوُ المُذَكَّرُ في الأَزهار)	stamen
+سَدَر	indifference
+سَدَرٌ حَسَن	belle indifference
+سِدْس (حُمَّى تتكرر كل ستة ايام)	sextan
+سُدفة، فؤاد المعدة	cardia (of stomach)
+سُدل ساقية خلافية	flap, cross leg
+سُدل سويقي	flap, pedicle
+سُدل مدوِّر	flap, rotation
+سُدل منزلق	flap, advancement (sliding flap )
+سِدْلة البتر	amputation flap
+سدة نصفية	hemiblock
+سَدُومِيّ	sodomist / sodomite
+سَدُومِيَّة (ممارسة الشذوذ الجنسي بطريق الشرج أو مع الحيوان)	sodomy
+سَدَوِيّ	stromal / stromatic
+سَدَوِيُّ المَنْشَأ	stromatogenous
+سَدَوِيٌّ خَلَوِيّ	cytostromatic
+سَدَى	stroma
+سَدَى [ج:أَسْداء]	stroma NA [pl.stromata]
+سَدَى الجِسْمِ الزُّجاجِيّ	vitreous stroma (stroma vitreum NA)
+سَدَى الزُّجاجِيّ	stroma vitreum
+سَدَى العَضَل	myostroma
+سَدَى العُقْدَة	stroma ganglii NA
+سَدَى الغُدَّةِ الدَّرَقِيَّة	stroma glandulae thyroideae NA / stroma of thyroid gland
+سَدَى القَرْنِيَّة (المادَّةُ المَخْصوصَةُ للقَرْنِية)	stroma of cornea (substantia propria corneae)
+سَدَى القُزَحِيَّة	mesiris (stroma iridis) / stroma iridis NA / stroma of iris
+سَدَى المَبِيْض	stroma of ovary / stroma ovarii NA
+سَدَى روليه (سَدَى كُرُيَّةِ الدَّمِ الحَمْراء)	Rollet's stroma
+سُدَيْدَة	pluglet
+سَديلة	flap
+سَديلَةُ آبِّه (لرأب الشفة العليا)	Abbe flap
+سَديلَةٌ آَجِلَةُ النَّقْل	delayed transfer flap
+سَديلَةٌ أَخْرَمِيَّةٌ رَقَبِيَّة	acromiocervical flap
+سَديلَةٌ أَخْرَمِيَّةٌ صَدْرِيَّة	acromiopectoral flap
+سَديلَةٌ أَدَمِيَّة	dermal flap
+سَديلَةٌ أُرْبِيَّة	groin flap
+سَديلَةٌ إِصْبَعِيَّةٌ مُتَصالِبَة	cross-finger flap
+سَديلَةُ البَتْر	amputation flap
+سَديلَةٌ أُنْبوبِيَّة	tube flap
+سَديلَةٌ انْزِلاَقِيَّة	sliding flap
+سَديلَةُ إيستلاندر	Estlander flap
+سَديلَةٌ إيطالية ( سَديلَةٌ بَعيدَة)	Italian flap (distant flap)
+سَديلَةُ بشَكْل Y-V	V-Y flap
+سَديلَةُ بشَكْل Z	Z- flap
+سَديلَةٌ بَطْنِيَّة	abdominal flap
+سَديلَةٌ بَعيدَة	distant flap
+سَديلَةٌ بُلْعومِيَّة	pharyngeal flap
+سَديلَةٌ تَحْتَ جِلْدِيَّة	subcutaneous flap
+سَديلَةٌ تَدْويرِيَّة	rotation flap
+سَديلَةٌ تَقْديمِيَّة ( سَديلَةٌ انْزِلاَقِيَّة)	advancement flap (sliding flap)
+سَديلَةٌ ثَدْيِيَّة	breast flap
+سَديلَةٌ ثَرْبِيَّة	omental flap
+سَديلَةٌ ثُنائِيَّةُ العُنَيْقَة	bipedicle flap
+سَديلَةٌ ثُنائِيَّةُ الفَصّ	bilobed flap
+سَديلَةٌ جَبْهِيَّة	forehead flap
+سَديلَةٌ جِراحِيَّة	surgical flap
+سَديلَةٌ جَزيرِيَّة	island flap
+سَديلَةٌ جِلْدِيَّة	skin flap
+سَديلَةُ جيليس ( سَديلَةٌ أُنْبوبِيَّة)	Gillies' flap (tube flap)
+سَدِيْلَةٌ حَبْلِيَّةٌ ( سَديلَةٌ أُنْبوبِيَّة)	rope flap (tube flap)
+سَديلَةٌ حُرَّة	free flap
+سَديلَةٌ حَنَكِيَّة	palatal flap
+سَديلَةٌ خَدِّيَّة ( سَديلَةٌ شِدْقِيَّة)	cheek flap (buccal flap)
+سَديلَةٌ دائِرِيَّة	circular flap
+سَديلَةٌ ذِراعِيَّةٌ مُتَصالِبَة	cross-arm flap
+سَديلَةٌ رَقَبِيَّة	cervical flap
+سَديلَةٌ رَقَبِيَّةٌ”وَجْهِيَّة	cervicofacial flap
+سَديلَةُ زيماني الثُّنائِيَّةُ الفَصّ	Zimany's bilobed flap
+سَديلَةٌ ساقِيَّةٌ مُتَصالِبَة	cross-leg flap
+سَديلَةٌ شِدْقِيَّة	buccal flap
+سَديلَةٌ شِرْيانِيَّة	arterial flap
+سَديلَةٌ شَفَوِيَّةٌ مُتَصالِبَة	cross-lip flap
+سَديلَةٌ عَصَبِيَّةٌ وِعائِيَّة	neurovascular flap
+سَديلَةٌ عَضُدِيَّة	brachial flap
+سَديلَةٌ عَضَلِيَّة	muscle flap
+سَديلَةٌ عَضَلِيَّةٌ جِلْدِيَّة	musculocutaneous flap
+سَديلَةٌ عَظْمِيَّة	bone flap / osteoplastic flap (bone flap)
+سَديلَةٌ عَظْمِيَّةٌ جِلْدِيَّة	osteocutaneous flap
+سَديلَةٌ عَظْمِيَّةٌ سِمْحاقِيَّة	osteoperiosteal flap
+سَديلَةٌ عُنَيْقِيَّة	pedicle flap
+سَديلَةٌ عَُنَيْقِيَّةٌ أُنْبوبِيَّة	tubed pedicle flap
+سَديلَةٌ غِلاَفِيَّة	envelope flap
+سَديلَةٌ فَخِذِيَّةٌ مُتَصالِبَة	cross-thigh flap
+سَديلَةٌ فَرْوِيَّة	scalp flap
+سَديلَةُ فرينتش ( سَديلَةٌ انْزِلاَقِيَّة)	French flap (sliding flap)
+سَديلَةٌ قَافِزَة	jump flap
+سَديلَةٌ قُفَّازِيَّة ( سَديلَةٌ سُوَيقِيَّة)	gauntlet flap (pedicle flap)
+سَديلَةٌ لِثَوِيَّة	gingival flap
+سَديلَةٌ لِسانِيَّة	lingual flap (tongue flap) / tongue flap (lingual flap)
+سَديلَةٌ مُباشِرَةُ النَّقْل	direct transfer flap (immediate transfer flap) / immediate transfer flap
+سَديلَةٌ مِحْوَرِيَّة ( سَديلَةٌ شِرْيانِيَّة)	axial flap (arterial flap)
+سَديلَةٌ مُخاطِيَّةٌ سِمْحاقِيَّة	mucoperiosteal flap
+سَديلَةٌ مُخاطِيَّةٌ سِمْحاقِيَّةٌ ثُنائِيَّةُ العُنَيْقَةِ لفون لاغنبوك	von Lagenbeck's bipedicle mucoperiosteal flap
+سَديلَةٌ مُخاطِيَّةٌ عَضَلِيَّة	mucomuscular flap
+سَديلَةٌ مُرَكَّبَة (تحوي على عدة نسج)	composite flap
+سَديلَةٌ مِرْوَحِيَّة	fan flap
+سَديلَةٌ مُزْدَوِجَةُ العُنَيْقَة	double pedicle flap
+سَديلَةٌ مُزْدَوِجَةُ النِّهَايَة	double-end flap
+سَديلَةٌ مُقْحَمَة	interpolated flap
+سَديلَةٌ مَوضِعِيَّة	local flap
+سَديلَةٌ نَفَقِيَّة ( سَديلَةٌ أُنْبوبِيَّة)	tunnel flap (tube flap)
+سَديلَةٌ هِنْدِيَّة ( سَديلَةٌ مُقْحَمَة)	Indian flap (interpolated flap)
+سِرٌّ مِهْنِيّ	professional secret
+سَرْء (وَضْعُ البَيْض في الحشرات)	oviposition
+سِرَّاتِيَّة	Serratia
+سِرَّاتِيَّةٌ ذَابِلة	Serratia marcescens
+سرازين	cerasine
+سِرايَة	communicability
+سِرايَةٌ مُباشِرَة	direct transmission
+سربروجالاكتوز	cerebrogalactose
+سربروسيد	cerebroside
+سربروكوبرين	cerebrocuperin
+سربرون	cerebron
+سَرْج	sella
+سَّرجُ (ال...) التُّركِيّ	sella turcica
+سَرْج [ج:سُروج]	saddle / sella [pl.sellae]
+سَرْجٌ بلاستيكيّ (أَكْريلِيّ)	plastic saddle
+سَرْجٌ طَليقُ النَّهَايَة	free end saddle
+سَرْجُ قاعِدَةِ الأَسْنان [أسنان]	denture base saddle
+سَرْجٌ مَحْمُولٌ على السِّنّ	tooth-borne saddle
+سَرْجٌ مُرْتَبِط	bounded saddle
+سَرْجٌ مُسْتَنِدٌ على الأَنْسِجَة	tissue-borne saddle
+سَرْجِيّ	sellar
+سَرْخَس	fern / filix mas = male fern
+سَرْخَس (نبات من اللازهريات الوعائية)	filix
+سَرْخَسٌ دُرَيْقِيٌّ [نبات]	Aspidium
+سَرْخَسٌ مُذَكَّر	dryopteris filix mas
+سَرْدونِيَّة ( تَكْشيرَةُ سَرْدونِيَّة)	sardonic (risus sardonicus)
+سَرْدِيَّة (وصف لحالات فردية)	anecdotal
+سَرْساسابُوجينين (سترويد هرموني)	sarsasapogenin
+سَرَطان	cancer / therioma (cancer)
+سَرَطانٌ أَخْضَر (الوَرَمُ الأخضر)	green cancer (chloroma)
+سَرَطانٌ أَرْسَنِيكيُّ المَنْشأ	arsenic cancer
+سَرَطانٌ أَسْبِسْتيُّ المَنْشأ	asbestos cancer
+سَرَطانُ الأقنِيَةِ الزُّغَابِيَّة	villous duct cancer
+سَرَطانُ الأَنيلين	aniline cancer
+سرطان البطانة العصبية	ependymoblastoma
+سَرَطانُ التَّدْخينِ بالغُلْيُون	clay-pipe cancer
+سَرَطانُ التَّماس	contact cancer
+سرطان الحمر	erythremia
+سَرَطانُ الخلايا القاعِدِيَّة	basaloma (basal cell carcinoma)
+سرطان الخلايا القاعدية = القرحة القارضة	basal cell, carcinoma = Rodent ulcer
+سَرَطانُ الخَلاَيا المِغْزَلِيَّة	spindle cell cancer
+سرطان الدم	leukaemia
+سرطان الدم الأحمر	erythroleukaemia
+سَرَطانُ الزُّيوتِ المَعْدَنِيَّة	mineral oil cancer
+سَرَطانُ السُّخام ( سَرَطانُ منظفي المَداخِن)	soot cancer (chimney sweeper's cancer)
+سرطان الشفة	cheilocarcinoma
+سَرَطانُ العامِلينَ بالأَشِعَّة	radiologists cancer / roentgenologists cancer
+سرطان الغدة الدمعية	dacryadenseirrhus
+سَرَطانُ القَرْحَة	ulcer cancer
+سَرَطانُ الكرُومات	chromate cancer
+سرطان الكلى	hypernephroma
+سَرَطانُ المُتَصَاحِبَيْن	cancer a deux
+سَرَطانُ المُدَخِّنين	smokers' cancer
+سَرَطانُ النَّهْرِ اليابانِيّ (من المفصليات البحرية)	Eriocheir
+سَرَطانٌ أُنْبوبِيّ	tubular cancer
+سَرَطانٌ أَوَّلِيّ	primary cancer
+سَرَطانُ بَاتَارْ (? سَرَطانُ الثَّنْيَةِ الكَبِدِيَّةِ للقَولون)	Butter's cancer
+سَرَطانٌ بَشْرَوِيّ	epidermal cancer
+سَرَطانٌ بِطانِيّ (وَرَمٌ بِطَانِيٌّ)	endothelial cancer (endothelioma)
+سَرَطانٌ تَنْبُولِيُّ المَنشأ ( السَّرَطَانُ الوَجْنِيُّ بِمَضْغِ التَّنْبُوْل)	betel cancer (buyo cheek cancer)
+سَرَطانٌ ثاقِب	boring cancer
+سرطان حبلي	chordocarcinoma = chordoma = chordoepithelioma
+سرطان حرشفي الخلايا بعنق الرحم	cervix, squamous-celled carcinoma
+سَرَطانٌ خَافٍ (خَافِي)	latent cancer
+سَرَطانٌ خَفِيُّ	occult cancer
+سَرَطانٌ خَلَوِيّ ( سَرَطانَةٌ لُبِّيَّة)	cellular cancer (medullary carcinoma)
+سَرَطانٌ خَيْشُوْمِيُّ المَنْشَأ	branchiogenous cancer
+سَرَطانٌ دِرْعِيّ	jacket cancer (cancer en cuirasse)
+سَرَطانٌ دِماغِيُّ الشَّكْل ( سَرَطانَةٌ لُبِّيَّة)	cerebriform cancer (medullary carcinoma)
+سَرَطانٌ دِماغيُّ الشَّكْل (سَرَطانةٌ لُبِّيَّة)	encephaloid cancer (medullary carcinoma)
+سَرَطانٌ رَادْيُومِيُّ المَنْشأ	radium cancer
+سَرَطانٌ رُجُوعِيٌّ	retrograde cancer
+سَرَطانُ رِخْو	soft cancer
+سَرَطانُ سُخامِ المَداخِن	chimney-sweeps cancer
+سَرَطانٌ سِنْخِيّ	alveolar cancer
+سَرَطانٌ شِبْهُ غُضْروفِيّ	chondroid cancer
+سَرَطانٌ صَلْد	hard cancer (scirrhous cancer) / scirrhous cancer
+سرطان طلائي	epithelioma
+سَرَطانٌ ظِهارِيّ	epithelial cancer
+سَرَطانٌ عَديدُ المَراكِز	multicentric cancer
+سرطان عضلي	epitheliomuscular
+سَرَطانُ عُمَّالِ الأَصْباغ	dye workers' cancer
+سَرَطانُ عُمَّالِ الشَّمْع	paraffin cancer
+سَرَطانُ عُمَّالِ الغَزْل	mule-spinners cancer
+سَرَطانُ عُمَّالِ القَطِرَانِ	pitch-workers' cancer
+سَرَطانٌ عُنَيبِيّ	acinar cancer / acinous cancer
+سَرَطانُّ غُدَّانِيّ	adenoid cancer
+سَرَطَان غُدِّيّ	adenocarcinoma
+سَرَطَانٌ غُدِّيّ (سَرَطانَةٌ غُدِّيَّة)	glandular cancer (adenocarcinoma)
+سرطان غدي - سرطان غددي	adeno-carcinoma
+سِرِطانٌ غَرَوانِيّ	colloid cancer
+سرطان غضروفي	chondrocarcinoma
+سَرَطانٌ قارِض	rodent cancer
+سَرَطانٌ قَطِرَانِيُّ المَنْشَأ	tar cancer
+سَرَطانٌ قَنَوِيّ	duct cancer
+سَرَطانُ كالمَشَدّ ( سَرَطانٌ دِرْعِيّ)	corset cancer (cancer en cuirasse)
+سَرَطانٌ كالمَشَدّ (? سَرَطانٌ دِرْعِيّ)	cancer en cuirasse
+سرطان كدي سليفي	hepatoblastoma
+سَرَطانٌ كيسِيّ	cystic cancer / cystocarcinoma = cystcarcinoma
+سَرَطانٌ لابِد	cancer in situ
+سَرَطانٌ لُبِّيّ	medullary cancer
+سرطان ليفي	fibrocarcinoma = scirrhous carcinoma
+سَرَطانٌ مُتَغَصِّن (سَرَطانَةٌ حُلَيمِيَّة)	dendritic cancer (papillary carcinoma)
+سَرَطانٌ مُتَقَرِّح	ulcerated cancer
+سرطان مثاني صلد	cystoscirrhus
+سرطان مشيمي	chorioblastoma = choriocarcinoma
+سَرَطانٌ مُضْغِيّ	carcinoembryonic
+سَرَطانُ مُضَمِّر ( سَرَطانٌ صَلْد)	cancer atrophicans (scirrhous cancer)
+سَرَطانٌ مِلاَنيّ (الوَرَمُ المِلاَنِيُّ الخَبيث)	melanotic cancer (malignant melanoma)
+سَرَطانٌ نَظيف ( سَرَطانٌ صَلْد)	apinoid cancer (scirrhous cancer)
+سَرَطانٌ وَحيدُ المَرْكَز	unicentric cancer
+سرطان وعائي صفراوي	cholangiocarcinoma
+سَرَطانات	carcinomata
+سرطاناني (شبيه السرطان)	carcinoid
+سَرَطانَة	carcinoma
+سَرَطانَةٌ أُسْطُوانِيَّةُ الخَلاَيا	cylindrical carcinoma / cylindrical cell carcinoma
+سَرَطانَةٌ إِسْفَنْجِيَّة (سَرَطانَةٌ نُخاعِيَّة)	carcinoma spongiosum (medullary carcinoma)
+سَرَطانَةُ الإِشْعاع	radiation carcinoma
+سَرَطانَةُ الأَقْنِيَةِ الصَّفْراوِيَّة	cholangiocarcinoma
+سَرَطانَةُ الأَنيلين	aniline carcinoma
+سَرَطانَةُ الثَّدْي	mastocarcinoma
+سَرَطانَةُ الجِلْد	carcinoma cutaneum
+سَرَطانَةُ الخَلاَيا الاِنْتِقالِيَّة	transitional cell carcinoma
+سَرَطانَةُ الخَلاَيا الحُبَيبِيَّة	granulosa cell carcinoma
+سَرَطانَةُ الخَلاَيا الحَرْشَفِيَّة	squamous carcinoma (squamous cell carcinoma)
+سَرَطانَةُ الخَلاَيا السِّنْخِيَّة	alveolar cell carcinoma
+سَرَطانَةُ الخَلاَيا الشَّائِكَة	prickle cell carcinoma
+سَرَطانَةُ الخَلاَيا الشُّوفانِيَّة	oat cell carcinoma / reserve cell carcinoma (oat cell carcinoma)
+سَرَطانَةُ الخَلايا القاعِدِيَّة	basal cell carcinoma / carcinoma basocellulare
+سَرَطانَةُ الخَلاَيا القاعِدِيَّةِ الحَرْشَفِيَّة	basosquamous cell carcinoma
+سَرَطانَةُ الخَلاَيا الكَأْسِيَّة	goblet cell carcinoma
+سَرَطانَةُ الخَلايَا الكَبِدِيَّة	hepatocellular carcinoma
+سَرَطانَةُ الخَلايَا الكُلْوِيَّة	epinephroma (renal cell carcinoma) / hypernephroid carcinoma (renal cell carcinoma) / renal cell carcinoma of kidney
+سَرَطانَةُ الخَلايَا المُخاطِيَّة	carcinoma mucocellulare
+سَرَطانَةُ الخَلاَيا شِبْهِ القاعِدِيَّة	basaloid carcinoma
+سَرَطانَةُ الرَّحِم	metrocarcinoma
+سَرَطانَةُ الشَّفَة	cheilocarcinoma / lip carcinoma
+سَرَطانَةُ الصَّفَن	carcinoma scroti
+سَرَطانَةُ العَين	ophthalmocarcinoma
+سَرَطانَةُ العَينِ الصَّلْدَة	scirrhophthalmia
+سَرَطانَةُ الغُدَدِ العَرَقِيَّة	hidradenocarcinoma
+سَرَطانَةُ الغُدَّةِ العَرَقِيَّة	syringocarcinoma
+سَرَطانَةُ الكَبِد	hepatocarcinoma
+سَرَطانَةُ الكُلْيَة	nephrocarcinoma
+سَرَطانَةُ اللِّثَّة	ulocarcinoma
+سَرَطانَةٌ أَنْفِيَّة	schneiderian carcinoma
+سَرَطانَةٌ أَنْفِيَّةٌ بُلْعومِيَّة	nasopharyngeal carcinoma
+سَرَطانَةٌ بَسيطَة	carcinoma simplex
+سَرَطانَةٌ بَشَرانِيَّة	epidermoid carcinoma
+سَرَطانَةُ بِطانَةِ الرَّحِم	hysterocarcinoma (endometrial carcinoma)
+سَرَطانَةٌ تَرْبيقِيَّة	trabecular carcinoma
+سَرَطانَةٌ تَسَفُّعِيَّة	actinic carcinoma
+سَرَطانَةٌ ثُؤْلوليَّة	verrucous carcinoma
+سَرَطانَةٌ ثاقِبَة	carcinoma cuniculatum
+سَرَطانَةٌ جُرَيبِيَّة	follicular carcinoma
+سَرَطانَةُ جِسْمِ الرَّحِم	corpus carcinoma
+سَرَطانَةٌ حَبْلِيَّة (وَرَمٌ حَبْلِيّ)	chordocarcinoma (chordoma)
+سَرَطانَةٌ حَرْشَفيَّةُ الخَلايا	squamous cell carcinoma
+سَرَطانَةٌ حُلَيمِيَّة	papillary carcinoma / papillocarcinoma
+سَرَطانَةٌ حَولَ الأَوعية البَابِيَّة	periportal carcinoma
+سَرَطانَةٌ خَتْمِيَّةُ الخَلاَيا	signet-ring cell carcinoma
+سَرَطانَةٌ خَفِيَّة	occult carcinoma
+سَرَطانَةُ خَلاَيا الأقْنِيَة الصَّفْرَاوِيَّة	cholangiocellular carcinoma
+سَرَطانَةُ خَلاَيا كولشيتسكي (سَرَطانَةٌ مِعَوِيَّةٌ قَولونيَّة)	Kulchitzky-cell carcinoma
+سَرَطانَةُ خَلاَيا هورْثِله (الدَّرَقِيِّة)	Hurthle cell carcinoma
+سَرَطانَةٌ دَاخِلَ البَشَرَةِ	intraepidermal carcinoma
+سَرَطانَةٌ داخِلَ الظِّهارَة (سَرَطانَةٌ لاَبِدَة)	intraepithelial carcinoma (carcinoma in situ)
+سَرَطانَةٌ دِبْقِيَّة ( وَرَمٌ أَرومِيٌّ دِبْقِيّ)	gliocarcinoma (glioblastoma)
+سَرَطانَةٌ دِرْعِيَّة	carcinoma en cuirasse
+سَرَطانَةٌ دَرَقِيَّةٌ كَشَمِيَّة	anaplastic thyroid carcinoma
+سَرَطانَةٌ دِماغِيَّةُ الشَّكْل ( سَرَطانَةٌ نُخاعِيَّة)	cerebriform carcinoma (medullary carcinoma)
+سَرَطانَةٌ دِماغيَّةُ الشَّكْل (سَرَطانَةٌ نُخاعِيَّة)	encephaloid carcinoma (medullary carcinoma)
+سَرَطانَةٌ ذِئْبِيَّةٌ	lupuscarcinoma
+سَرَطانَةٌ رَمْلِيَّة	psammocarcinoma
+سَرَطانَةٌ زُؤانِيَّة	comedo carcinoma
+سَرَطانَةٌ زُؤانِيَّة (في الثدي)	comedocarcinoma
+سَرَطانَةٌ زُغابِيَّة	carcinoma villosum
+سَرَطانَةٌ سارْكوميَّة	sarcocarcinoma
+سَرَطانَةٌ سَليلاَنِيَّة	polypoid carcinoma
+سَرَطانَةٌ سِنْخِيَّة	alveolar carcinoma
+سَرَطانَةٌ شَبيهَةٌ ببِطانَةِ الرَّحِم	endometrioid carcinoma
+سَرَطانَةٌ شَحْمِيَّة	lipomatous carcinoma
+سَرَطانَةٌ صَغيرَةُ الخَلاَيا	small-cell carcinoma
+سَرَطانَةٌ صَلْدَة	adenoscirrhus (scirrhous carcinoma) / carcinoma durum (scirrhous carcinoma) / desmoplastic carcinoma (scirrhous carcinoma) / scirrhoma (scirrhous carcinoma) / scirrhous carcinoma / scirrhus (scirrhous carcinoma)
+سَرَطانَةٌ ضَخْمَةُ الخَلاَيا	large-cell carcinoma
+سَرَطانَةٌ طِفْلِيَّةٌ جَنينِيَّة	infantile embryonal carcinoma
+سَرَطانَةٌ ظِهارِيَّةٌ غُدَّانِيَّة	carcinoma epitheliale adenoides
+سَرَطاَنَةٌ عُجَرِيَّة	tuberous carcinoma
+سَرَطانَةٌ عُجْرِيَّة ( سَرَطانَةٌ صَلْدَة)	carcinoma tuberosum (scirrhous carcinoma)
+سَرَطانَةٌ عَدَسِيَّة (في الجِلْد)	carcinoma lenticulare / lenticular carcinoma
+سَرَطانَةٌ عَظْمِيَّة	carcinoma ossificans (osteoid carcinoma) / osteocarcinoma / osteoid carcinoma
+سَرَطانَةٌ عِمْلاَقَةُ الخَلاَيا	carcinoma gigantocellulare / giant cell carcinoma
+سَرَطانَةٌ عُنَيبِيَّة	acinar carcinoma / acinous carcinoma
+سَرَطانَةٌ غُدَّانِيَّةٌ كيسِيَّة	adenoid cystic carcinoma
+سَرَطانَةٌ غُدِّيَّة	adenocarcinoma / carcinoma adenomatosum (adenocarcinoma) / glandular carcinoma
+سَرَطانَةٌ غُدِّيَّةٌ ثَدْيِيَّة	mammary adenocarcinoma
+سَرَطانَةٌ غُدِّيَّةٌ جُرَيبِيَّة	follicular adenocarcinoma
+سَرَطانَةٌ غُدِّيَّةٌ حَرْشَفِيَّةٌ	adenosquamous carcinoma
+سَرَطانَةٌ غُدِّيَّةٌ حُلَيمِيَّة	papillary adenocarcinoma
+سَرَطانَةٌ غُدِّيَّةٌ زُهْمِيَّة	sebaceous adenocarcinoma
+سَرَطانَةٌ غُدِّيَّةٌ سَليلانِيَّة	polypoid adenocarcinoma
+سَرَطانَةٌ غُدِّيَّةٌ سِنْخِيَّة	alveolar adenocarcinoma
+سَرَطانَةٌ غُدِّيَّةٌ صَلْدَة	scirrhous adenocarcinoma
+سَرَطانَةٌ غُدِّيَّةٌ عَرَقِيَّة	adenocarcinoma sudorificum
+سَرَطانَةٌ غُدِّيَّةٌ عُنَيبِيَّة	acinar adenocarcinoma / acinous adenocarcinoma
+سَرَطانَةٌ غُدِّيَّةٌ قُصَيبِيَّةٌ سِنْخِيَّة	bronchioalveolar adenocarcinoma
+سَرَطانَةٌ غُدِّيَّةٌ كُلْوِيَّة	adenocarcinoma of kidney
+سَرَطانَةٌ غُدِّيَّةٌ كيسِيَّة	adenocystic carcinoma / cystadenocarcinoma
+سَرَطانَةٌ غُدِّيَّةٌ مُؤَنِّثَة	feminizing adenocarcinoma
+سَرَطانَةٌ غُدِّيَّةٌ مُخاطانِيَّة	mucoid adenocarcinoma
+سَرَطانَةٌ غُدِّيَّةٌ مُخاطِيَّة	mucinous adenocarcinoma
+سَرَطانَةٌ غَرَوانِيَّة	colloid carcinoma
+سَرَطانَةٌ غُضْروفِيَّة	chondrocarcinoma
+سَرَطانَةٌ قَبْلَ الغَزْو	preinvasive carcinoma
+سَرَطانَةُ قِشْرَةِ الكُظْر	carcinoma of adrenal cortex / periepithelioma (adrenal cortical carcinoma)
+سَرَطانَةٌ قَصَبِيَّة	bronchiolar carcinoma
+سَرَطانَةٌ قَصَبِيَّةُ المَنْشَأ	bronchogenic carcinoma
+سَرَطانَةٌ قَصَبِيَّةٌ سِنْخِيَّة	bronchioalveolar carcinoma
+سَرَطانَةٌ قَنَوِيَّة	duct carcinoma
+سَرَطانَةُ كرومبيشر (قَرْحَةٌ قارِضَة)	Krompecher's carcinoma (rodent ulcer)
+سَرَطانَةٌ كُرَوِيَّةُ الخَلاَيا	spheroidal cell carcinoma
+سَرَطانَةٌ كَمْئِيَّة	fungating carcinoma
+سَرَطانَةٌ كيسِيَّة	cystocarcinoma
+سَرَطانَةٌ لابِدَة	carcinoma in situ
+سَرَطانَةٌ لِمْفِيَّةٌ ظِهارِيَّة	lymphoepithelial carcinoma
+سَرَطاَنَةٌ لِيفِيَّة	carcinoma fibrosum / fibrocarcinoma
+سَرَطانَةٌ مُتَعَدِّدَةُ الأَشْكال	pleomorphic carcinoma
+سَرَطانَةٌ مُتَنَكِّسَةٌ مُخاطِيَّاً	carcinoma myxomatodes
+سَرَطانَةٌ مُتَوَسِّعَةُ الشُّعَيرات	carcinoma telangiectaticum / carcinoma telangiectodes
+سَرَطانَةٌ مُثَاْلَلَة	verrucous carcinoma
+سَرَطانَةٌ مُخاطِيَّة	mucosum carcinoma (mucous carcinoma)
+سَرَطانَةٌ مُخاطِيَّةٌ بَشْرَوِيَّة	mucoepidermoid carcinoma
+سَرَطانَةٌ مَخْلَوِيَّة	syncytial carcinoma
+سَرَطانَةٌ مُرَبَّطَة (في القَولون)	string carcinoma
+سَرَطانَةٌ مَسْخِيَّة	teratocarcinoma / teratoid carcinoma
+سَرَطانَةٌ مَشيمائِيَّة	choriocarcinoma / chorionic carcinoma
+سَرَطانَةٌ مِصْفَوِيَّة ( سَرَطانَةٌ غُدَّانِيَّةٌ كيسِيَّة)	cribriform carcinoma (adenoid cystic carcinoma)
+سَرَطانَةٌ مُضْغِيَّة	embryonal carcinoma
+سَرَطانَةُ مَطْرِسِ الشَّعْرة (سَرَطانَةٌ قاعِدِيَّةُ الخَلاَيا)	hair-matrix carcinoma (basal cell carcinoma)
+سَرَطانَةٌ مِغْزَلِيَّةُ الخَلايا	spindle cell carcinoma
+سَرَطانَةُ مِلاَنِيَّة (وَرَمُ مِلانِيٌّ خَبِيْثٌ)	melanotic carcinoma (malignant melanoma)
+سَرَطانَةٌ مُنْبَذِرَة	seeding carcinoma
+سَرَطانَةٌ موسينِيَّة	carcinoma muciparum / mucinous carcinoma
+سَرَطانَةٌ ميلانيَّة ( وَرَمٌ ميلانيٌّ خبيث)	melanocarcinoma (malignant melanoma)
+سَرَطانَةُ ميلاَنِيَّة (وَرَمُ مِيْلانِيٌّ خَبِيْثٌ)	carcinoma melanodes (malignant melanoma)
+سَرَطانَةٌ نابِتَة	exophytic carcinoma
+سَرَطانَةٌ نُخاعِيَّة	carcinoma medullare (medullary carcinoma) / carcinoma molle (medullary carcinoma) / medullary carcinoma
+سَرَطانَةُ نَدْبَةِ الحَرْق	burn scar carcinoma
+سَرَطانَةٌ نَقيلِيَّة	metastatic carcinoma
+سَرَطانَةٌ هُلاَمِيَّة	gelatinous carcinoma
+سَرَطانَةٌ هُلاَمِيَّةُ الشَّكْل	gelatiniform carcinoma
+سَرَطانَةٌ وَحْمِيَّة	nevocarcinoma
+سَرَطانِيّ	cancerous / carcinomatous / carcinous / epitheliomatous
+سَرَطانِيُّ الشَّكْل	cancriform
+سَرَطاوِيّ	carcinoid
+سرطنة	canceration
+سَرْطَنَةٌ مُعانَة	cocarcinogenesis
+سُرْعَة	speed / velocity
+سُرْعَةٌ اعْتِيَادِيَّة	regular speed
+سُرْعَةُ التَّأَثُّر؛تَعَرُّضِيَّة	vulnerability
+سُرْعَةُ التَّثَفُّل	sedimentation rate / sedimentation velocity
+سُرْعَة التَّجَدُّد	turnover
+سُرْعَةُ التَّحْوِيْل	conversion rate
+سُرْعَةُ التَّخَثُّر	inopexia
+سرعة الترسب	E.S.R (erythrocyte sedimentation rate )
+سُرْعَةُ التَّرْشيحِ الكُبَيبِيّ	glomerular filtration rate
+سُرْعَةُ التَّشَنُّج	spasmophilia
+سُرْعَةُ التَّعَب	apocamnosis (apokamnosis) / apokamnosis (apocamnosis)
+سُرْعَةُ التَّنَفُّس	respiration rate
+سُرْعَةُ التَّوصيل	conduction rate / conduction velocity
+سُرْعَةُ التَّوصيلِ الحِسَّيّ	sensory conduction velocity
+سُرْعَةُ الجَرَيان	apocenosis
+سُرْعَةُ الدَّوران	circulation rate
+سُرْعَة الذَّوَبَان	dissolution speed
+سُرْعَةُ الشِّبَع	hyperkoria
+سُرْعَة الضغْط	compression speed
+سُرْعَةُ القَلْب	heart rate
+سُرْعَةُ الكَلام	oxylalia
+سُرْعَةُ النَّبْض	pulse rate
+سُرْعَةُ تَثَفُّلِ الكُرَيَّاتِ الحُمُر	erythrocyte sedimentation rate
+سُرْعَةُ تَوصيلِ العَصَب	nerve conduction velocity
+سُرْعَةٌ عَالِيَة	high speed
+سُرْعَةٌ فَائِقَة	ultra speed
+سُرْعَةٌ مُطْلَقَة	absolute velocity
+سُرْفَة ( يَرَقَة)	grub (larva)
+سَرِقَة (تحويل مجرى الدم)	steal
+سَرِقَةٌ تَحْتَ تَرْقَوِيَّة	subclavian steal
+سَرِقَةٌ خارِجَ القِحْف	extracranial steal
+سَرِقَةٌ داخِلَ المُخّ	intracerebral steal
+سَرِقَةٌ وِعائِيَّة	vascular steal
+سركاريا	cercaria
+سركوس بوراميكوسيس	cercosporamycosis
+سَرْكُوليزينُL ( ملفالان)	L-sarcolysin (melphalan)
+سركومة أرومة المينا	ameloblastosarcoma
+سركومة سرطانية	carcinosarcoma
+سركويد	cercoid
+سَرْمانْتُوجينين (دواء نباتي المصدر)	sarmentogenin
+سَرْمانْتُوز (سكر نباتي)	sarmentose
+سَرْمانْتُوسيمارين (غلِيكُوزيدٌ نباتي المصدر)	sarmentocymarin
+سَرَنْديبية (موهبةُ الاكْتِشافِ بِالصُّدْفَة)	serendipity
+سَرْنوَة (جِنْسٌ مِنَ النَّخيل)	Serenoa
+سرة	hilum / umbilicus
+سُرّة (ال...)	navel / omphalos; omphal-; omphalo-, umbilicus
+سُرَّةُ الميناء	enamel navel
+سُرَّةٌ زَرْقاء (بَعْدَ الجِراحَة)	blue navel
+سُرة ميهة	hydromphalus
+سُرِّيّ	omphalic / omphaloid; omphalic / umbilical
+سُرِّيُّ الشَّكْل	umbilicate
+سُرِّيُّ المُطاعَمَة [مسخ]	omphalosite
+سُرِّيٌّ مَساريقِيّ	omphalomesaraic / omphalomesenteric
+سُرِّيٌّ مِعَوِيّ	omphaloenteric
+سريالوز	cerealose
+سرَيان العدوى	contagiousness
+سرير - مهاد	bed
+سَريرٌ اسْتِقْلابِيّ؛سَرِيْرٌ أَيْضِيّ	metabolic bed
+سَريرُ الاِسْتِشْفَاء الجُزْئِيّ	partial hospitalization bed
+سَريرُ الإِقامَة	resident bed
+سَريرُ البوتَقَة	crucible cradle
+سَريرُ الحاضِنَة	incubator bed / incubatory bed
+سَرِيْرُ الشُّعَيْرِات	capillary bed
+سَريرُ الطِّفْل	pediatric bed
+سَريرُ الطِّفْلِ المَريضِ الدَّاخِلِيّ	pediatric inpatient bed
+سَرِيْرُ الظُفْر ( مَطْرِسُ الظُّفْر)	nail bed (matrix unguis NA)
+سَريرُ العَزْل	isolation bed
+سَريرُ الكُسور	fracture bed
+سَريرُ المَريضِ الخارِجِيّ	outpatient bed
+سَريرُ المَريضِ الدَّاخِلِيّ	inpatient bed
+سَريرُ المُسْتَشْفَى	hospital bed
+سَرِيْرُ النُّشارَة	sawdust bed
+سَريرُ الوَليد	newborn bed
+سرير بصري	thalamus
+سَريرٌ تَخَصُّصِيٌّ	specialty bed
+سَريرٌ دائِرِيّ	circle bed
+سَرِيْرُ ساندرز ( سَريرٌ مُتَأَرْجِح)	Sanders bed (rocking bed)
+سَرِيْرُ كلونديك (? سَريرُ الهَواءِ الطَّلْق)	Klondike bed
+سَريرٌ لمَريضٍ داخِلِيٍّ بالِغ	adult inpatient bed
+سَريرٌ لَيلِيّ	night bed
+سَريرٌ مُؤَقَّت	temporary bed
+سَرِيْرُ مائِيّ	bed, water / hydrostatic bed (water bed) / water bed
+سَريرٌ مُتَأَرْجِح	rocking bed
+سَريرٌ مُتَجَوِّل	swing bed
+سَريرٌ مُتَحَوِّل	swing-bed
+سَريرٌ مَشْغول	occupied bed
+سَريرٌ مَفْصِلِيّ	Gatch bed
+سَريرٌ نَهارِيّ	day bed
+سَرِيْرٌ هَوائِيّ	air bed
+سَريرِيّ	bed-side / clinoid
+سَريرِيُّ الشَّكْل (بنية تشريحية)	clinoid
+سَريرِيٌّ إِمْراضِيّ	clinicopathologic
+سَريرِيٌّ وِراثِيّ	clinicogenetic
+سَريرِيّ؛إكلينيكيّ	clinical
+سَريرِيَّاتٌ في غِيابِ المَرِيْض (درس سريري بدون وجود مريض)	dry clinic
+سِريسيت (مادة تسبب السُّحار)	sericite
+سَريع	rapid
+سَرِيْعُ التَّأَثُّر؛عُرْضَة	vulnerable
+سَريعُ التَّراصّ	agglutinophilic
+سَرِيْعُ التَّشَنُّج	spasmophile / spasmophilic
+سَريعُ التَّلاَشِي	evanescent
+سَريعُ النَّزَق	high strung
+سريل [كيمياء]	seryl
+سِرْيُوم	cerium
+سَطْح	superficies / surface
+سَطْحٌ إِطْباقِيّ	occlusal surface
+سَطْحٌ إِطْباقِيّ ( سَطْحٌ طاحِن)	occlusal surface (molar surface)
+سَطْحٌ إِطْباقِيٌّ فاعِل	working occlusal surface
+سَطْحٌ إِطْباقِيٌّ مُوازِن	occlusal balancing surface
+سَطْحُ الإكْمَال [أسنان]	finishing surface
+سَطْحُ الجِبْلَة	plasmahaut
+سَطْحُ الحُفْرَةُ السِّنِّيَّة	cavosurface
+سَطْحُ الخَلِيَّة	cell surface
+سَطْحُ السِّنّ	tooth surface
+سَطْحُ القَصّ (الأَمامِيّ)	planum sternale / sternal plane
+سَطْحُ اللِّثَة	gum surface
+سَطْحٌ أَمْلَس	smooth surface
+سَطْحٌ إِنْسِيّ	mesial surface
+سطح بيني	interface
+سَطْحٌ تَشْريحِيّ	anatomical surface
+سَطْحٌ جانِبِيّ	lateral surface
+سَطْحٌ جَبْهِيّ	frontal surface
+سَطْحٌ حَجَاجِيّ	orbital surface
+سَطْحٌ خَشْن	rough surface
+سَطْحٌ خَلْفِيّ	posterior surface
+سَطْحٌ دِهْليزِيّ	vestibular surface
+سَطْحٌ شَفَوِيّ	labial surface
+سَطحْ ظَهْريّ	dorsal surface
+سَطْحٌ عامِل	working surface
+سَطْحٌ قُرْبَ الإِطْباقِيّ	subocclusal surface
+سَطْحٌ مائِل	oblique surface
+سَطْحٌ مُرْتَفِع	high surface
+سَطْحٌ مُسَطَّح	flat surface
+سَطْحٌ مَصْقول	polished surface
+سطح مفصلي	articular surface
+سَطْحٌ وَجْهِيّ	facial surface
+سَطْحٌ وَحْشِي [أسنان]	distal surface
+سَطْحِيّ	sublimis (superficial) / superficial / superficialis NA
+سطر	row / stria; streak
+سَّطْرٌ شَّبَكِيّ	retinal stria
+سَطْرُ لانتشيزي (السَطْرُ الثَّفَنِيُّ الإِنْسِيُّ الطُّولاَنِيُّ)	stria lancisii (stria longitudinalis medialis corporis callosi)
+سُطوحٌ إِطْباقِيَّةٌ عامِلَة	working occlusal surfaces
+سُطوحٌ أُفُقِيَّة	horizontal surfaces
+سُطوحُ الإِرْشادٍ	guiding planes
+سُطوحُ التَّلاَصُق	interproximal surfaces
+سُطور [ف:سَطْر]	striae [sing.stria]
+سُطورُ الصَّفائِحِ الحُبَبِيَّةِ الدَّاخِلِيَّةِ لقِشْرَةِ المُخّ	striae laminae granularis interna corticis cerebri NA
+سُطورُ الصَّفائِحِ الضَّفيرِيَّةِ الشَّكْلِ لقِشْرَةِ المُخّ	striae laminae plexiformis corticis cerebri NA
+سُطورُ الصَّفائِحِ الهَرَمِيَّةِ الحُبَبِيَّةِ البَاطِنَةِ لقِشْرَةِ المُخّ	striae laminae pyramidalis interna corticis cerebri NA
+سُطورُ الصَّفائِحِ الهَرَمِيَّةِ الحُبَيْبِيَّة لقِشْرَةِ المُخّ	striae laminae pyramidalis granularis corticis cerebri NA
+سُطورُ بيارجر (سُطورُ الصَّفائِحِ الحُبَيبِيَّةِ البَاطِنَةِ لِقَشْرَةِ المُخّ)	striae of Baillarger (stria laminae granularis interna corticis cerebri)
+سُطورُ غيناري (سُطورُ الصَّفائِحِ الحُبَيبِيَّةِ البَاطِنةِ لِقَشْرَةِ المُخّ)	striae of Gennari (striae laminae granularis interna corticis cerebri)
+سُطورُ فيك دازير (في قشرة المخ)	Vicq d'Azyr's stripe
+سُطورُ كايز-بيختيريف (طَبَقَةُ بيختيريف)	Kaes-Bekhterev striae (Bekhterev's layer)
+سُطورُ كناب (أَتْلامُ كناب) (في الشبكية النازفة)	Knapp's striae (Knapp streak)
+سُطوع	brightness
+سطيح	facet / facette
+سطيح مفصلي	facet, articular
+سُعارُ القَتْل	amuck (amok)
+سُعارُ القَتْل (مَرَضٌ نَفْسِيٌّ يتجلَّى بالعنف)	amok
+سُعال	cough / tussis
+سُعالٌ أُذُنِيُّ المُنْعَكَس	ear cough
+سعال الديكي(ال..)	whooping cough
+سُعالُ الطَّحَّانين	miller's cough
+سُعالٌ أُمْدَمِيّ	aneurysmal cough
+سُعالٌ انْتِيابِيّ	paroxysmal cough
+سُعالٌ انْضِغاطِيّ	compression cough
+سُعالٌ انْعِكاسِيّ	reflex cough
+سُعالٌ بَالْمِيّ (سعال يشتد بالاضطجاع بسبب انسداد خلف الأنف)	Balme's cough
+سُعالُ بريفيه	privet cough
+سُعالٌ بسَبَبٍ خَارِجَ الرِّئَة	extrapulmonary cough
+سُعالُ تَهْييجِ ثُلاَثِيِّ التَّوائِم	trigeminal cough
+سُعالٌ جافّ	dry cough / hack
+سُعالٌ خَفيف	tussicula / tussiculation
+سُعَال دِيكِيّ	whooping-cough
+سُعالٌ ديكِيّ؛شاهوق	chin cough (pertussis) / whooping cough
+سُعالُ ذَوَّاقَةِ الشَّاي	tea tasters' cough
+سُعالٌ رَطْب	moist cough / wet cough
+سُعال سارٍ في بيت الكلاب	kennel cough
+سُعالٌ سَطْحِيٌّ مُتَقَطِّع	hacking cough
+سُعالُ سَيدِنْهام (هستيري)	Sydenham's cough
+سُعالٌ شاهوقِيّ	minute gun cough
+سُعالٌ شَتَوِيّ	winter cough
+سُعالٌ مُخَلِّج ( الشَّاهوق)	tussis convulsiva (pertussis)
+سُعالٌ مَعِدِيّ	tussis stomachalis
+سُعالٌ مَعِدِيُّ المُنْعَكَس	stomach cough
+سُعالٌ مُنْتِجٌ للبَلْغَم	productive cough
+سُعالُ مُورْتُون (سعال مستمر ينتهي بالقيء في السل الرئوي)	Morton's cough
+سُعالٌ ميكانيكِيّ	mechanical cough
+سُعالٌ نُباحِيّ	barking cough
+سُعالٌ نُحاسِيّ	brassy cough / gander cough (brassy cough)
+سُعالِيّ	tussal / tussicular / tussive
+سَعْتَر (حنس من النباتات الطبية)	Thymus
+سَعْتَر (نبات طبي)	thyme
+سَعْتَرٌ بَرِّيّ	wild thyme
+سَعْتَرٌ زاحِف ( سَعْتَرٌ بَرِّيّ)	creeping thyme (wild thyme)
+سَعْفَة	mycodermomycosis (tinea)
+سَعْفَة [ج:سُعَف]	ringworm (tinea) / tinea
+سَعْفَةٌ أَسْبَستِيَّةُ الشَّكْل	tinea amiantacea (asbestos like tinea)
+سَعْفَةُ الإِبْط	ringworm of the axilla / tinea axillaris
+سَعْفَةُ الأَجْفان	tinea tarsi
+سَعْفَةُ الأُرْبِيَّة	ringworm of groin (tinea cruris) / tinea inguinalis
+سَعْفَةُ الأَرْفاغ	tinea cruris
+سَعْفَةُ الأَظْفار	ringworm of the nails (tinea unguium)
+سَعْفَةُ الأَهْداب	tinea ciliorum
+سَعْفَةُ الجَسَد	tinea corporis
+سَعْفَةُ الجِسْم	ringworm of the body (tinea corporis)
+سَعْفَةُ الرَّأْس	tinea capitis
+سَعْفَةُ الطُّيُور	tinea galli
+سَعْفَةُ الظُّفُر	tinea unguium
+سَعْفَةُ الفَرْوَة	ringworm of the scalp (tinea capitis)
+سَعْفَةُ القَدَم	ringworm of feet (tinea pedis) / tinea pedis
+سَعْفَةُ اللِّحْيَة	ringworm of the beard (tinea barbae) / tinea barbae
+سَعْفَةُ الوَجْه	ringworm of the face (tinea faciale) / tinea faciei (tinea facialis)
+سَعْفَةُ اليَد	ringworm of the hand (tinea manus) / tinea manus
+سَعْفَةٌ أميانتيَّةُ الشَّكْل	asbestos-like tinea
+سَعْفَةٌ بَيضاء	tinea alba
+سَعْفَةُ تينِيَّة	tinea sycosis
+سَعْفَةٌ جازَّة	tinea tonsurans
+سَعْفَةٌ جُلْبِيَّة ( قُراع)	crusted ringworm (favus)
+سَعْفَةٌ خارِجَ الشَّعْرَة	ectothrix ringworm
+سَعْفَةٌ سَوداء	tinea nigra
+سَعْفَةٌ شُهْدَة	tinea kerion (kerion)
+سَعْفَةُ عَقِدَة	tinea nodosa
+سَعْفَةٌ عَميقَة	tinea profunda
+سَعْفَةٌ فَوْتِيَّة (بَينَ الأَصابِع)	tinea interdigitalis
+سَعْفَةُ قُراعِيَّةٌ ( قُراع)	tinea favosa (favus)
+سَعْفَةٌ قِرْميدِيَّة	tinea imbricata
+سَعْفَةٌ لَطْخِيَّةٌ رَمادِيَّة	gray-patch ringworm
+سَعْفَةٌ مُبَرْقَشَة	tinea versicolor
+سَعْفَةُ مُتَحَلِّقَة	tinea circinata
+سَعْفَةٌ مَحْصورَةٌ بالشَّعْرَة	endothrix ringworm
+سَعْفَةٌ مُنَخْرَبَة ؛ سَعْفَةٌ شَبِيْهَةٌ بعُشِّ النَّحْل ( قُراع)	honeycomb ringworm (favus)
+سَعْفَةٌ نُقْطِيَّةٌ سَوداء	black-dot ringworm
+سعل	cough
+سَعَة	amplitude / capacity
+سَعَةُ الامْتِزاز	adsorption capacity
+سَعَةُ التَّكَيُّف	accommodation capacity
+سعة الجمجمة	capacity, cranial
+سَعَةُ الدَّرْء	buffer capacity
+سَعَةُ الرِّئَةِ الكُلِّيَّة	maximum lung capacity
+سَعَةُ القِحْف	cranial capacity
+سعة تنفسية	respiration amplitude
+سغب	innutrition
+سغب للكالسيوم	hunger, calcium
+سغب للكلور	hunger, chlorine
+سَغَل	athrepsia (marasmus) / athrepsy / atrepsy (marasmus) / marasmus / pedatrophia (marasmus)
+سغل الشيخوخة - هُزال الشيخوخة	geromarasmus
+سَغَلٌ تَغْذَوِيّ	nutritional marasmus
+سَغَلٌ شَيخوخِيّ	geromarasmus
+سغل غضروفي	chondrodystrophy
+سَغَلٌ مُتَوَطِّنٌ بالحَيَوَانَات	enzootic marasmus
+سَغَلِيّ	athreptic / atreptic
+سِفاد، نزْو، نِزاء	mating
+سفاسيلوتوكسين ( سبازموتين) (سم نباتي)	sphacelotoxin (spasmotin)
+سِفَاق	aponeurosis
+سِفَاق (ال...) البَطْنِيّ	abdominal aponeurosis
+سِّفاقُ (ال...) الرَّاحِيّ	aponeurosis palmaris na; plantar aponeurosis
+سِفَاق (ال...) السَاقَيّ	crural aponeurosis
+سِّفاقُ (ال...) الصُّدْغِيّ	temporal aponeurosis
+سِفَاق (ال...) الفَخِذِيّ	femoral aponeurosis
+سِفاق [ج:سُفُق]	aponeurosis [pl.aponeuroses]
+سِفاقُ الحَنَك	palatine aponeurosis
+سِفاقُ الشَّواة (الخُوذَةُ السِّفَاقِيَّة)	epicranial aponeurosis (galea aponeurotica NA)
+سِفاقُ العَضَلَةِ الجَبْهِيَّةِ القَذالِيَّة ( الخُوذَةُ السِّفاقِيَّة)	aponeurosis of occipitofrontal muscle (galea aponeurotica)
+سِفاقُ العَضَلَةِ فَوقَ الشَّوْكَة	supraspinous aponeurosis
+سِفاقُ اللِّسان	aponeurosis linguae NA (lingual aponeurosis)
+سِفاقُ دينُونفييه (الحاجِزُ المُسْتَقيمِيُّ المَثانِيّ)	Denonvilliers aponeurosis (septum rectovesicale NA)
+سِفاقُ ذاتِ الرَّأْسَين	bicipital aponeurosis
+سِفاقُ ذاتِ الرَّأْسَينِ العَضُدِيَّة	aponeurosis musculi bicipitis brachii NA
+سِفاقُ زن ( الأَلْيافُ النُّطَيْقِيَّةُ)	aponeurosis of Zinn (fibrae zonulares NA)
+سِفاقُ سِيبسون (الغِشاءُ فَوقَ الجَنَبَة)	Sibson's aponeurosis (membrana suprapleuralis NA)
+سِفاقُ قاعِدَةِ البُلْعوم ( اللِّفَافَةُ القَاعِدِيَّة البُلْعومِيَّة)	aponeurosis pharyngobasilaris (fascia pharyngobasilaris)
+سِفاقُ مَغْرِزِ العَضَلَة	aponeurosis of insertion
+سِفاقِيّ	aponeurotic
+سَفَرْجَل (شجرة مثمرة من الفصيلة الوردية)	quince
+سَفْع	actinism
+سَفْع (سَفَعَتْهُ الشَّمْس: غَيرت لون بشرته)	actinicity (actinism)
+سَفْعِيٌّ ضِيائِيّ	photoactinic
+سُفُق [ف:سِفاق]	aponeuroses [sing.aponeurosis]
+سُفْلِيّ	inferior NA / inferior; lower / lower
+سُفْلِيُّ الأَسْنانِ السَّوِيَّة	catodont
+سُفْلِيُّ المَنْخِرَين	catarrhine
+سُفْلِيٌّ إِنْسِيّ	inferomedial
+سُفْلِيٌّ أَنْفِيّ	inferonasal
+سُفْليّ جَانبيّ	inferolateral
+سُفْلِيٌّ خَلْفِيّ	inferoposterior
+سُفْلِيٌّ صُدْغِيّ	inferotemporal
+سُفْلِيٌّ ناصِف	inferomedian
+سُفْلِيٌّ وَحْشِيّ	inferolateral
+سُفْلِيَّاتُ المَنْخِرَين (فَصيلَةٌ مِنَ القِرَدَة)	Catarrhina (Cercopithecoidea)
+سفيرويدين (سُمٌّ)	spheroidin
+سفيغموجينين ( إبينيفرين)	sphygmogenin (epinephrine)
+سفينغوزين [كيمياء]	sphingosine
+سفينغوغالاكتوزيد [كيمياء]	sphingogalactoside
+سفينغول [كيمياء]	sphingol
+سفينغوميالين	sphingomyelin
+سفينغونين [كيمياء]	sphingoin
+سَفينَةٌ اسْتِشْفائِيَّة	hospital ship
+سِقَاء (ال...)	allantois
+سِقَاءٌ سَلَوِيّ [جنين]	allantoamnion
+سِقَاءٌ مَشيمائِيّ [جنين]	allantochorion
+سِقاء، غشاء جنينيّ	allantois
+سِقَائِيّ	allantoic
+سِقَائِيّ [جنين]	allantoic / allantoidean
+سِقائِيٌّ مَشيمائِيّ	chorio-allantoic / chorioallantoic
+سِقَائِيٌّ مِعَوِيّ [جنين]	allantoenteric
+سِقَالة (ال...) ، سُلَّم	scala
+سِقَالة (ال...) الدِهْلِيزِيّة	scala vestibuli
+سِقاَلة (ال...) الطْبَلِية	scala tympani
+سِقَالَة (لِتَقْويمِ الوَجْه)	scaffold
+سِقالَةُ النِّقْي (مِنْطَقَةٌ في نقْيِ العَظْمِ فقيرةٌ بالكولاَّجين)	gerustmark
+سِقالَة لوفنبرغ	scala of Lowenberg
+سِقَالِيُّ الشَّكْل	scalariform
+سَقْف	roof / tectum
+سَقْفُ الجُمْجُمَة ( قُبَّةُ القِحْف)	roof of skull (calvaria)
+سَقْفُ الحَجاج ( الجِدارُ العُلْوِيُّ للحَجاج)	roof of orbit (paries superior orbitae)
+سَقْفُ الدِّماغِ المُتَوَسِّط	tectum mesencephali / tectum of mesencephalon
+سَقْفُ الطَّبْل ( السَّقيفَةُ الطَّبْلِيَّة)	roof of tympanum (tegmen tympani)
+سَقْفُ الفَم	palate / roof of mouth
+سَقْفَة (الطبقة الداخلية لعصيات كورتي)	stege
+سَقْفِيّ	tectal
+سَقْفِيٌّ مِهَادِيّ	tectothalamic
+سَقْفِيٌّ نُخَاعِيّ	tectospinal
+سُقوطُ الأَسْنان	odontoptosis
+سُقوطُ الأَظْفار	piptonychia (onychomadesis)
+سُقوطُ الأَهْداب	milphae / milphosis
+سقوط الذراع	arm, prolapse of
+سُقُوْطُ الرُّسُغ	wrist drop
+سُقوطُ الشَّعْرِ الذَّاتِيّ	autodepilation / autoepilation
+سُقوطُ الشَّعْرِ المُبَكِّر	trichorrhea
+سُقُوطُ القَدَم	foot drop / footdrop
+سقوط القولون	coloptosis
+سُقُوْطُ الكاحِل	ankle drop
+سقوط اللسان	glossoptosis
+سقوط المستقيم	exania
+سقوط، هبوط	prolapsus
+سقي	ascitic fluid
+سَقيبَة ( جَدْل) [ج:سَقائب]	scapus NA (shaft) [pl.scapi]
+سَقيبَةُ الشَّعْرَة	scapus pili NA
+سَقيبَةُ القَضيب (جِسْمُ القَضيب)	scapus penis (corpus penis)
+سَقيْف	tegmen / tegumen (tegmen)
+سَقيفُ البُطَينِ الرَّابِع	tegmen ventriculi quarti NA
+سَقيفُ الطَّبْل	tegmen tympani NA
+سَقيْفُ الغَار (سَقيْفُ الطَّبْل)	tegmen antri (tegmen tympani NA)
+سَقيفُ القِحْف ( القُبَّة)	tegmen cranii (calvaria)
+سَقيفَةُ الجِسْر	tegmentum of pons / tegmentum pontis NA
+سَقيفَةُ الدِّماغِ المُتَوَسِّط	tegmentum mesencephali NA (tegmentum of mesencephalon)
+سَقيفَةُ الدِّماغِ المُعَيَّنِيّ ( الجُزْءُ الظَّهْرَانِيُّ لِلجِسْر)	tegmentum rhombencephali (pars dorsalis pontis)
+سَقيفَةُ الوِطاء	hypothalamic tegmentum
+سَقيفِيّ	tegmental
+سكاتوزين (بروتين قلوي)	skatosin
+سكاتوكسيل (مادة في البراز)	skatoxyl
+سكاتول (مادة برازية)	skatole
+سكاتُول (مادة في البراز)	scatol (skatole)
+سَكَارات (مِلْحٌ سكاريديّ)	saccharate
+سكاربا	Scarpa
+سُكَّاروبْيوز (من ثنائيات السكاريد)	saccharobiose
+سَكاروز	saccharose (sucrose)
+سَكَاريد [ج:سَكَاريدات]	saccharide
+سَكاريدٌ مُتَغايِر	heterosaccharide
+سَكارين	saccharinol (saccharin) / saccharinum
+سَكارين (عامل تحلية)	saccharin
+سكاكرية	dextrinosis
+سَكاكينُ لِيستون (لِلبَتْر)	Liston's knives
+سَكْب	affusion
+سَكْتَة	apoplectic stroke / apoplexia (apoplexy) / theoplegia (apoplexy)
+سَكْتَة [ج:سَكْتات]	apoplexy
+سَكْتَةٌ آجِلَة	delayed apoplexy
+سَكْتَةُ المَبيض	ovarian apoplexy
+سَكْتَةُ الوَليد	neonatal apoplexy
+سَكْتَةٌ بَصَلِيَّة	bulbar apoplexy
+سَكْتَةٌ بَطْنِيَّة	abdominal apoplexy
+سَكْتَةٌ بَنْكِرْياسِيَّة	pancreatic apoplexy
+سَكْتَةٌ جِسْرِيَّة	pontine apoplexy
+سَكْتَةٌ جِسْرِيَّة ( سَكْتَةٌ بَصَلِيَّة)	pontile apoplexy (bulbar apoplexy)
+سَكْتَةٌ جِلْدِيَّة	cutaneous apoplexy
+سَكْتَةٌ حَرارِيَّة	heat apoplexy
+سَكْتَةٌ خاطِفَة	fulminating apoplexy
+سَكْتَةٌ خُثارِيَّة	thrombotic apoplexy
+سَكْتَةٌ رَحِمِيَّة	apoplexia uteri / uterine apoplexy
+سَكْتَةٌ رَحِمِيَّةٌ مَشيمِيَّة	uteroplacental apoplexy
+سَكْتَةٌ رَضْحِيَّةٌ آجِلَة	traumatic late apoplexy
+سَكْتَةٌ ريمون (خدر في اليد يعقبه شلل)	Raymond's apoplexy
+سَكْتَةٌ شُعَيرِيَّة	capillary apoplexy
+سَكْتَةٌ شَلَلِيَّة	paralytic stroke
+سَكْتَةٌ صَرْعِيَّة ( نَوبَةٌ صَرْعِيَّة)	epileptic stroke
+سَكْتَةٌ صِمِّيَّة	embolic apoplexy
+سَكْتَةٌ عابِرَة	little stroke
+سَكْتَةٌ كاذِبَة	pseudoapoplexy
+سَكْتَةٌ كُظْرِيَّة	adrenal apoplexy
+سَكْتَةٌ كُلْوِيَّة	renal apoplexy
+سَكْتَةٌ مُتَفاقِمَة	ingravescent apoplexy
+سَكْتَةٌ مَخاضِيَّة	parturient apoplexy
+سَكْتَةٌ مُخَيخِيَّة	cerebellar apoplexy
+سَكْتَةٌ مُخِّيَّة	cerebral apoplexy
+سَكْتَةٌ مُخِّيَّة ( سكتة)	cerebral stroke (apoplexy)
+سَكْتَةٌ مَشيمِيَّة	placental apoplexy
+سَكْتَةٌ نُخاعِيَّة	myelapoplexy / spinal apoplexy
+سَكْتَةٌ نُخامِيَّة	pituitary apoplexy
+سَكْتَةٌ وَهَنِيَّة	asthenic apoplexy
+سَكْتِيّ	apoplectic
+سَكْتِيُّ الشَّكْل	apoplectiform / apoplectoid
+سُكْر	drunkenness / drunkness / ebrietas (ebriety) / ebriety / inebriation / inebriety / sucre / sugar
+سُكَّرٌ افْتِرَاضِيّ	virtual sugar
+سُكَّرُ البَطاطِس	potato sugar
+سُكَّرُ التَّحْلِيَّة	confectioner's sugar
+سُكَّرُ الخَشَب ( الزايلوز)	wood sugar (xylose)
+سُكَّرُ الدَّم	blood sugar / glucemia (glycemia) / glucohemia (glycemia) / glycemia / glycohemia / glycosemia (glycemia) / glykemia (glycemia)
+سُكَّرُ الرَّصَاص ( أسيتاتُ الرَّصَاص)	sugar of lead (lead acetate)
+سُكَّرُ الزَّان ( الزايلوز)	beechwood sugar (xylose)
+سُكَّرُ السُّكَّرِيِّيْن	diabetic sugar
+سُكَّرُ الشَّعير	barley sugar / dextrinose
+سُكَّرُ الشَّعير ( المالتوز)	malt sugar (maltose)
+سُكَّر الشَّعِير، مَالْتُوز	maltose
+سُكَّرُ الشَّمَنْدَر (البَنْجَر)	beet sugar
+سُكَّرُ الصَّنَوبَر ( الميليزيتوز)	larch sugar (melezitose)
+سُكَّرُ العَتَبَة	threshold sugar
+سُكَّرُ العَضَل	muscle sugar
+سُكَّرُ العَضَل ( الإينوزيتول)	muscle sugar (inositol)
+سُكَّرُ العِنَب ( الغلوكوز)	grape sugar (glucose)
+سُكَّرُ العِنَب (غلُوكُوز)	grape sugar (glucose)
+سُكَّر الْـعِنَب، غُلُوكُوز	glucose
+سكر الغراء، جليكوكول	glycocol; glycine
+سُكَّرُ الفاكِهَة ( الفركتوز)	fruit sugar (fructose sugar)
+سُكَّرُ القَصَب	cane sugar (sucrose) / saccharose
+سُكَّرُ القَيْقَب	maple sugar
+سُكَّرُ القَيقَب ( السُّكَّرُ الكَنَدِيّ)	saccharum acernum (saccharum canadense)
+سُكَّرُ الكولاجين ( حَمْضُ الأمينوأسيتيك)	collagen sugar (aminoacetic acid)
+سُكَّرُ اللَّبَن ( اللاكْتوز)	milk sugar / milk sugar (lactose)
+سُكَّرُ اللَّبَن ( لاَكْتوز)	saccharum lactis (lactose)
+سكر اللبن (الحليب)، لاكتوز	lactose
+سُكَّر اللَّبَن، لاَكْتُوز	lactose
+سُكَّرُ المُخّ ( السيريبروز)	brain sugar
+سُكَّرُ النَّشا ( الدكسترين)	starch sugar (dextrin)
+سُكَّرُ الهُلاَم ( حَمْضُ الأمينوأسيتيك)	gelatin sugar (aminoacetic acid)
+سُكَّرٌ أمينِيّ	aminosugar
+سُكَّرٌ بَسِيْط ( سُكَّرٌ أُحَادِيّ)	simple sugar (monosaccharide)
+سكر ثنائي (ديسكريد)	disaccharide = disaccharose
+سُكَّرٌ حَقيقِيّ	actual sugar / sucre actuelle / sucre virtuelle
+سُكَّرٌ زَيْتِيّ	eleosaccharum / oil sugar (eleosaccharum)
+سكر غلوسيد	glucide
+سُكَّرٌ قَلْبِيّ ( الإينوزيتول)	heart sugar (inositol)
+سُكَّرٌ كَبِدِيّ ( دكستروزٌ كَبِدِيّ)	liver sugar
+سُكَّرٌ كبريتيّ ( الثيوغلوكوز)	sulfur sugar (thioglucose)
+سُكَّرٌ لامائِيّ	anhydrous sugar
+سُكَّرُ ليو ( اللايُوز)	Leo's sugar (laiose)
+سُكَّرٌ مَحْرُوق ( الكاراميل؛اليَعْقِيْد)	burnt sugar (caramel)
+سُكَّرٌ مُخْتَزِل	reducing sugar
+سُكَّرٌ مُعْقود ( كاراميل)	saccharum ustum (caramel)
+سُكَّرٌ مُفَسْفَتّ	phosphosugar
+سُكَّرٌ مَنْزوعُ الأُكْسِجين	desoxy-sugar
+سُكَّرٌ مَنْزوعُ الماء	anhydrosugar
+سُكَّرٌ مُنْقَلِب	invert sugar
+سُكَّرٌ نَخيلِيّ	palm sugar
+سُكَّرات	sucrate
+سُكَّراز	sucrase
+سكراز الدكستران	dextran sucrase
+سَكْران	drunken
+سُكْروز	sucrose / sucrosum (sucrose)
+سكروز، سكر القصب	saccharose
+سُكَّرِيّ ؛ حُلْوُ المَذاق	saccharine
+سُكَّرِيُّ التَّوَجُّه	glycotropic
+سُكَّرِيُّ الشُّبَّانِ النَّاضِجين	maturity-onset diabetes of youth
+سُكَّرِيُّ المَخْمَصَة	starvation diabetes
+سُكَّرِيُّ المَنْشَأ	diabetogenous
+سُكَّرِيُّ الوَخْز	piqùre diabetes (puncture diabetes) / puncture diabetes
+سُكَّرِيُّ اليافِعين (السُّكَّريُّ المُعْتَمِدُ على الأنْسُولين)	juvenile diabetes (insulin dependent diabetes) / juvenile-onset diabetes (insulin dependent diabetes)
+سُكَّرِيُّ ضَخامَةُ النِّهايات	diabetes of acromegaly
+سُكَّرِيٌّ كاذِب	pseudodiabetes
+سُكَّريّ، مُصَاب بالسُّكَّرِيّ	diabetic
+سُكَّريَّات	carbohydrates
+سُكَّرِيَّات أُحَادِيَّة	monosaccharides
+سُكَّرِيَّات سُدَاسِيَّة	hexoses
+سُكَّرِيَّاتٌ مُنَتْرَتَة (أدوية لمعالجة الذبحة الصدرية)	nitrosugars
+سِكِريتين	secretin
+سُكَّرين	saccharin / sugarin
+سكرية الدم	glucohemia = glucoheamia = glycemia / glycemia / glycemia; glycaemia / glycosemia = glycemia
+سكرية السائل النخاعي	glycorrachia
+سَكسينات [كيمياء]	succinate
+سَكسيناتُ الصُّوديوم	sodium succinate
+سَكسينوريزينول (مادة من الكهرمان)	succinoresinol
+سَكسينيلُ التَّميمِA (دواء مرخٍ للعضلات)	succinyl.CoA
+سَكسينيلُ السَلفاثيازول (مادة مضادة للجراثيم)	succinylsulfathiazole
+سَكسينيلُ الكولين (دواء مُرْخٍ للعضلات)	succinylcholine
+سكلا بكلا ( أينوم) (اِنْحِلالُ الأَصابعِ التَّلْقائيّ)	sukkla pakla (ainhum)
+سكلاز الأَدينيل؛مُحَلِّقَةُ الأَدينيل [إنزيم]	adenyl cyclase
+سِكْلُوبرُوبان (بَنْج)	cyclopropane
+سِكْلُوبِنْتُولاَت (دَواءٌ مُضادٌّ لِلكولينيَّات)	cyclopentolate
+سِكْلِيرُومُوسين (مستخلص من الأرغوت)	scleromucin
+سكليرُيرِيثْرين (صباغ نباتي المصدر)	sclererythrin
+سكوالين (مادة تستخلص من أسماك القرش)	squalene
+سَكوب (مستحضر بيطري يسقى للحيوانات)	drench
+سَكوبا (نبات طبي جنوب أفريقي)	sucuuba
+سكُوبارين (مادَّةٌ مُدِرَّةٌ لِلبَول)	scoparin
+سكُوبافُونْجين (مُضادٌّ حَيَوِيّ)	scopafungin
+سكُوبُولامِين	scopolamine
+سكوبولامين ( هَيُوسين)	scopolamine (hyoscine)
+سكُوبُوليتين (عامل نمو نباتي)	scopoletin
+سكُوبُولِيَّة (جِنْسٌ مِنَ النَّباتات)	Scopolia
+سكُوبين (ناتج من السكوبولامين)	scopine
+سكُوتُوبْسِين (ببتيد دماغي)	scotopsin
+سكُوتُوفُوبين	scotophobin
+سكولوالبومين (بروتين سام في جراثيم الكوليرا)	sucholoalbumin
+سكُومْبرُون (في نطاف السمك)	scombrone
+سِكوة (وحدة قياس الامتصاص في الأمعاء)	siqua
+سِكِّير	drunkard / sot
+سُكَيراء (مِنَ الفُطرِيات الزِّقِّيَّة)	saccharomyces
+سُكَيراءُ بوس (المُسْتَخْفِيَّةُ المُوَرِّمَة)	Busse's saccharomyces (Cryptococcus neoformans)
+سكيليتين (من مكونات نسج اللافقاريات)	skeletin
+سِكِّين	knife
+سكين "ليستون"	knife, Liston's
+سِكِّيْن اسْتِئْصالِ الهِلاَلَة	meniscectomy knife
+سِكِّينُ البَتْر	amputating knife / catling = catlin
+سِكِّينُ الجِبْس	plaster knife
+سِكِّينُ السَّادّ	cataract knife
+سكين السد	cataract knife
+سِكِّينُ الشَّمْع	wax knife
+سِكِّينُ الفَتْق	hernia knife
+سِكِّينٌ إِلِكِتْرونِيَّة	electronic knife
+سِكِّينُ الكَيّ	cautery knife
+سِكِّينُ اللِّثَة	gum knife
+سِكِّينُ النَّحْت	modelling knife
+سِكِّينُ بلير (مِبْضَعُ تَطْعيمِ الجِلْد)	Blair knife
+سِكِّيْن بِير (مِبْضَعٌ لقَطْعِ السَّاد)	Beer's knife
+سِكِّينٌ حَرارِيَّة	endothermic knife
+سِكِّينٌ ذاتُ عُرْوَة	loop knife
+سِكِّينُ رامزبوثام المِنْجَلِيَّة (سكين لقطع رأس الجنين في الرحم)	Ramsbotham's sickle knife
+سِكِّينُ رِقاقَةِ الذَّهَب	gold-foil knife
+سِكِّينٌ زِرِّيَّة (مِبْضَعٌ لِقَطْعِ الغُضْروف)	button knife
+سِكِّينٌ شَبِيْهَةٌ بالحَرْبَة	spear-shaped knife
+سِكِّينٌ شَبِيْهَةٌ بالحَرْبَة (مِبْضَعٌ لِلقَطْعِ بَينَ الأَسْنان)	Buck knife
+سِكِّينُ غريفه (مِبْضَعٌ لاسْتِئْصالِ السَّاد)	Graefe's knife
+سِكِّينُ غولدمان فوكس (لِقَطْعِ نَسيجِ اللِّثَة)	Goldman-Fox knife
+سِكِّينُ قَطْعِ اللِّثَة	gingivectomy knife
+سِكِّينٌ كَهْرَبِيَّة	electric knife
+سِكِّيْنُ كيركلاند (لِقَطْعِ اللِّثَة)	Kirkland knife
+سِكِّيْن ميريفيلد (لِقَطْعِ اللِّثَة)	Merrifield's knife
+سكين نسيجي	histotom = microtome
+سِكِّينُ هَمْبي (مِبْضَعُ طُعْمِ الجِلْد)	Humby knife
+سُلّ	tisis (phthisis) / tuberculosis
+سُلٌّ اسْتِنْشاقِيّ	inhalation tuberculosis
+سُلُّ الأَغْشِيَّةِ المَصْلِيَّة	tuberculosis of serous membranes
+سُلُّ الأَمْعاء	tuberculosis of intestines
+سُلُّ البالِغين	adult tuberculosis
+سُلُّ الحَنْجَرَة	laryngophthisis / tuberculosis of larynx
+سُلُّ الخُصْيَة	tuberculocele
+سُلُّ الرِّئَتَين	tuberculosis of lungs
+سُلُّ الصِّفاقِ و المَساريق (في الأَنْعام)	perlsucht
+سل العظام	bone tuberculosis
+سُلُّ العِظامِ و المَفاصِل	tuberculosis of bones and joints
+سُلُّ العُقَدِ اللِّمْفِيَّة ( سُلٌّ لِمْفِيّ)	tuberculosis of lymph nodes (lymphoid tuberculosis)
+سُلُّ الفَقار	spondylarthrocace / spondylocace
+سُلُّ الفُوهات (حول فوهات البدن)	tuberculosis orificialis
+سُلُّ الكُظْر	adrenal tuberculosis
+سُلُّ الكُلْيَة	nephrotuberculosis / tuberculosis of kidney
+سُلُّ المَثانَة	cystophthisis
+سُلُّ المَفْصِل	arthrocace
+سُلُّ النُّخاع	spinal tuberculosis (tuberculosis of spine)
+سُلُّ الوَرِك	coxotuberculosis
+سُلٌّ أَوَّلِيّ	primary tuberculosis
+سُلٌّ بتَكْرار العَدْوَى	reinfection tuberculosis
+سُلٌّ بِطانِيّ	endothelial tuberculosis
+سُلٌّ بَقَرِيّ	bovine tuberculosis
+سُلٌّ تالٍ للأَوَّلِيّ	postprimary tuberculosis
+سُلٌّ تَناسُلِيّ	genital tuberculosis
+سُلٌّ تَناسُلِيٌّ بَولِيّ	genitourinary tuberculosis
+سُلٌّ ثُؤْلُولِيّ	tuberculosis verrucosa
+سُلٌّ ثُؤْلُولِيّ ( سُلٌّ جلدِيٌّ ثُؤْلُولِي)	warty tuberculosis (tuberculosis verrucosa cutis)
+سُلٌّ جاسِي	tuberculosis indurativa
+سُلٌّ جُبْنِيّ	caseous tuberculosis
+سُلٌّ جِراحِيّ	surgical tuberculosis
+سُلٌّ جِلْدِيّ	cutaneous tuberculosis / tuberculosis cutis / tuberculosis of skin
+سُلٌّ جِلْدِيٌّ تَمَايُعِيّ	tuberculosis cutis colliquativa
+سُلٌّ جِلْدِيٌّ ثُؤْلُولِيّ	tuberculosis cutis verrucosa / tuberculosis verrucosa cutis
+سُلٌّ جِلْدِيٌّ جاسِي	tuberculosis cutis indurativa
+سُلٌّ جِلْدِيٌّ جُرَيبِيٌّ مُنْتَثِر	tuberculosis cutis follicularis disseminata
+سُلٌّ جِلْدِيٌّ حَزازِيّ	tuberculosis cutis lichenoides / tuberculosis lichenoides
+سُلٌّ جِلْدِيٌّ فُوهِيّ (حول فوهات البدن)	tuberculosis cutis orificialis
+سُلٌّ حَطاطِيٌّ نَخْرِيّ	tuberculosis papulonecrotica
+سُلٌّ خافٍ (خافي)	latent tuberculosis
+سُلٌّ داخِلِيُّ المَنْشَأ	endogenous tuberculosis
+سُلٌّ دُخْنِيّ	miliary tuberculosis
+سُلٌّ دُخْنِيٌّ حادّ	acute miliary tuberculosis
+سُلٌّ دَمَوِيُّ المَنْشَأ	hematogenous tuberculosis
+سُلٌّ ذِئْبِيٌّ ( الذِّئْبَةُ الشَّائِعَة)	tuberculosis luposa (lupus vulgaris)
+سُلٌّ ذَريع	galloping consumption
+سُلٌّ رِئَوِيّ	lung tuberculosis / pulmonary tuberculosis / tubercular gland
+سُلٌّ رُغامِيٌّ قَصَبِيّ	tracheobronchial tuberculosis
+سُلٌّ سِحائِيّ	meningeal tuberculosis
+سُلٌّ سُحارِيٌّ فَحْمِيّ	anthracotic tuberculosis
+سُلٌّ سيليسِيّ	silicotuberculosis
+سُلٌّ طِفْلِيّ	childhood tuberculosis
+سُلٌّ طَيرِيّ	avian tuberculosis / chicken tuberculosis / fowl tuberculosis
+سُلٌّ عَصَوِيّ	bacillary phthisis
+سُلٌّ غُدِّيّ	glandular tuberculosis
+سُلٌّ فَعَّال	active tuberculosis
+سُلٌّ قاعِدِيّ (في الرِّئَة)	basal tuberculosis
+سُلٌّ قَرْحِيّ ( سُلٌّ جِلْدِيٌّ فُوْهِيّ)	tuberculosis ulcerosa (tuberculosis cutis orificialis)
+سُلٌّ قَصَبِيّ	bronchial tuberculosis
+سُلٌّ قَصَبِيُّ المَنْشَأ	bronchogenic tuberculosis
+سُلٌّ كاذِب	pseudotuberculosis
+سُلٌّ كاذِبٌ بَشَرِيٌّ بالشَّعْرِيَّاتِ المُتَسَلْسِلَة	pseudotuberculosis hominis streptothrica
+سُلٌّ كاذب، تدرُّن كاذب	pseudotuberculosis
+سُلٌّ لانَمُوذَجِيّ	atypical tuberculosis
+سُلٌّ لَفائِفِيٌّ أَعْوَرِيّ	ileocecal tuberculosis
+سُلُّ لِيفانيّ	fibroid phthisis
+سُلٌّ لِيفِيُّ جُبْنِيّ	fibrocaseous tuberculosis
+سُلٌّ مُخَفَّف	epituberculosis
+سُلٌّ مُخِّيّ	cerebral tuberculosis
+سُلٌّ مَفْتوح	open tuberculosis
+سُلُّ مَفْصِلِ المِرْفَق	olecranarthrocace
+سُلٌّ مُلَيِّف	fibroid tuberculosis (fibrosing tuberculosis) / fibrosing tuberculosis / fibrotuberculosis
+سُلٌّ مُنْتَثِر	disseminated tuberculosis
+سُلٌّ مُنَسِّج	productive tuberculosis
+سُلٌّ مَنْقُولٌ بالهَواء	air-borne tuberculosis
+سُلٌّ مُوَهَّن	attenuated tuberculosis
+سُلٌّ نَضْحِيّ	exudative tuberculosis
+سُلُّ نَقيرِ الرِّئَة	hilus tuberculosis
+سُلٌّ هادِىء	quiescent tuberculosis
+سُلٌّ هَوائِيُّ المَنْشَأ	aerogenic tuberculosis
+سُلٌّ هَيكَلِيّ	skeletal tuberculosis
+سُلٌّ وَرِكيّ	coxotuberculosis
+سُلّ؛تَدَرُّن	tuberculosis
+سَلاَئِفُ الخَلاَيا بيتا (سَلاَئِفُ اللِّمْفاوِيَّات بيتا)	pre-beta cells (pre beta-lymphocytes)
+سَلاَئِل [ف:سَلِيْلَة]	polypi [sing.polypus]
+سَلاَئِلُ احْتِباسِيَّة ( سَلاَئِلُ يُفَعِيَّة)	retention polyps (juvenile polyps)
+سَلاَئِلُ الحَنْجَرَة	polyps of larynx
+سَلاَئِلُ أَنْفِيَّة	nasal polyps
+سَلاَئِلُ بِطانِيَّةٌ رَحِمِيَّة	endometrial polyps
+سَلاَئِلُ لِمْفانِيَّة	lymphoid polyps
+سلائلٌ مَنْعَرِيَّة (سلائل قِمْعِ الأنف)	choanal polyps
+سَلاَئِلُ يُفَعِيَّة	juvenile polyps
+سلابة الطيور	giblets
+سُلاَق	blepharitic / ciliaris = blepharitis / muguet (thrush) / thrush
+سُلاَقُ الأَغْنام	sheep thrush
+سِلالٌ لِيفِيَّة	fiber baskets
+سُلالَة	lineage / race
+سُلالَة [ج:سُلاَلاَت]	lineage
+سُلالة أصيلة، سلالة نقية	purebred
+سُلالَةٌ خَلَوِيَّة	cell lineage
+سُلالَة ضارية	velogenic strain
+سلالة غير ضارية	avirulent strain
+سُلالة من الخيل	barb
+سُلالة، عِرْق	breed
+سُلالِيّ	ethnic / racial
+سَلامَة التَّعْبِئَة	package integrity
+سَلاَمَةُ العَقْل	orthophrenia / sanity
+سلامة اللقاح	safety of vaccine
+سَلاَمَةُ المُعْطَيَات	data integrity
+سُلاَمِيّ	phalangeal / phalanx
+سُلاَمَى [ج:سُلاَمَيات]	phalanx NA [pl.phalanges]
+سُلاَمَى إِصْبَعِ القَدَمِ [تشريح]	pediphalanx
+سُلاَمَى اليَد	maniphalanx
+سُلاَمِيٌّ سُلاَمِيّ	phalangophalangeal
+سُلاَمَى مَلْفوفَة	tufted phalanx
+سلاميات	phalanges
+سُلامَيَات (ال...)	phalanges
+سُلاَمَياتُ أَصَابِعِ القَدَمِ	phalanges digitorum pedis NA / phalanges of toes
+سُلاَمَياتُ أَصَابِعِ اليَدِ	phalanges digitorum manus NA / phalanges of fingers
+سُلاَمَيَاتُ دايتِرز (في عُضْوِ كورتي)	Deiters' phalanges
+سلايك (وحدة القوة الدارئة)	slyke
+سَلْبِيّ	passive
+سلبي الصبغين	chromatin - negative
+سَلْبِيُّ الغرام	gram-negative
+سَلْبِيُّ الكروماتين	chromatin-negative
+سَلْبِيُّ المَصْل	seronegative
+سَلْبِيٌّ كاذِب	false negative
+سلبي للجرام	gram - negative
+سَلْبِيَّاً	negatively
+سَلْبِيرِيد	sulpiride
+سَلبيريد (مهدىء خفيف)	sulpiride
+سَلْبِيَّةُ المَصْل	seronegativity
+سَلْبِيَّةٌ كَهْرَبِيَّة ؛ كَهْرَسَلْبِيَّة	electroaffinity (electronegativity)
+سَلثيام (مضاد للاختلاج)	sulthiame
+سُلَحْفائِيّ	chelonian
+سَلْخ	dartos / exuviae
+سِلْخِيّ	dartoic / dartos
+سَلَس	gatism / incontinence / incontinentia
+سَلَسُ الإِجْهَاد (بالشَّدِّعلى فتحة المثانة)	stress incontinence
+سَلَسُ البِراز	copracrasia / fecal incontinence (incontinence of the feces) / incontinence of the feces / incontinentia alvi (fecal incontinence) / scoracratia
+سَلَسُ البَول	enuresis / incontinence of urine / incontinentia urinae / uracrasia / uracratia / urinary incontinence (incontinence of urine) / uroclepsia
+سَلَسُ البَولِ الصَّرْعِيّ	epileptic enuresis
+سَلَسُ البَولِ اللَّيلِيّ	nocturnal enuresis
+سَلَسُ البَولِ النَّهارِيّ	diurnal enuresis
+سَلَسُ الصِّباغ	incontinentia pigmenti
+سَلَسُ الصِّباغِ المُنْقِصُ التَّلَوُّن	incontinentia pigmenti achromians
+سَلَسُ اللَّبَن	milk incontinence
+سَلَسُ المَصَرَّة ( سَلَسٌ شَلَلِيّ)	sphincteric incontinence (paralytic incontinence)
+سَلَسٌ انْفِعَالِيّ ( ”تَقَلْقُلٌ انْفِعَالِيّ)	emotional incontinence (emotional lability)
+سَلَسٌ بَولِيّ	urorrhea
+سَلَسٌ شَلَلِيّ	paralytic incontinence
+سَلَسٌ فاعِل (سَلَسٌ لاَإِرادِيٌّ مُنْتَظَم)	active incontinence
+سَلَسٌ فَيضِيّ	overflow incontinence
+سَلَسٌ لافاعِل	passive incontinence
+سَلَسٌ مُتَقَطِّع	intermittent incontinence
+سَلَسٌ مُتَناقِض ( سَلَسٌ فَيضِيّ)	paradoxical incontinence (overflow incontinence)
+سَلَسٌ مُسْتَقيمِيّ ( سَلَسُ البِراز)	rectal incontinence (fecal incontinence)
+سِلْسِلَة	chain
+سِلْسِلَة [ج:سَلاَسِل]	chain / series
+سِلْسِلَةٌ أَروماتِيَّة	aromatic series
+سِلْسِلَةُ البلازماويات	plasmacyte series (plasmacytic series)
+سِلْسِلَةُ الصُّفَيحات	thrombocyte series (thrombocytic series)
+سِلْسِلَةُ العَدِلاَت	neutrophil series (neutrophilic series)
+سِلْسِلَةُ القَعِدات	basophil series (basophilic series)
+سِلْسِلَةُ الكُرَيَّاتِ البَيضاء	leukocytic series
+سِلْسِلَةُ الكُرَيَّاتِ الحَمْراء	erythrocyte series (erythrocytic series)
+سِلْسِلَةُ اللِّمْفاوِيَّات	lymphocytic series
+سِلْسِلَةُ المُحَبَّبات	granulocytic series
+سِلْسِلَةُ النِقَوِيَّات	myeloid series (myelocytic series)
+سِلْسِلَةٌ أَليفاتِيَّة	aliphatic series
+سِلْسِلَةٌ أَلِيْفَةٌ للمُذِيْب	lyotropic series
+سِلْسِلَةٌ تَنَفُّسِيَّة	respiratory chain
+سِلْسِلَةٌ ثَقيلَة	heavy chain
+سِلْسِلَةٌ ثُنَائِيَّةٌ	binary chain
+سِلْسِلَةٌ جانِبِيَّة	lateral chain / side chain
+سِلْسِلَة خَطِّيَّة	straight chain
+سِلْسِلَةٌ خَفيفَة	light chain
+سِلْسِلَةٌ دُهْنِيَّة	fatty series
+سِلْسِلَةٌ طَعَامِيَّةٌ	food chain
+سِلْسِلَةٌ طَويلَة	long chain
+سِلْسِلَة كَرْبُونِية	carbonated chain
+سِلْسِلَةٌ مُتَفَرِّعَة	branched chain / branched-chain
+سِلْسِلَةٌ مِثْلِيَّة	homologous series
+سِلْسِلَةٌ مُغْلَقَة	closed chain
+سِلْسِلَةٌ مَفْتوحَة	open chain
+سِلْسِلَةٌ مُنَظَّمَةٌ ( نِظَامُ تَعَدُّد المُسْتَشْفَيات)	organization chain (multihospital system)
+سِلْسِلَةٌ نَوَوِيَّة	nuclear chain
+سِلْسِلَةُ هُوفْ مايسِتر ( سِلْسِلَةٌ أَلِيْفَةٌ للمُذِيْب)	Hofmeister series (lyotropic series)
+سِلْسِلَةٌ وُدِّيَّة	sympathetic chain
+سِلْسِلِيٍّ	serial
+سِلْسِلِيُّ التَّرْتِيْب	catenoid / catenulate
+سِلْسِلِيَّة	streptobacillus
+سُلْطَة	authority
+سِلَعٌ	wares
+سِلَع، مُنْتَجَات	ware
+سِلْعَة (دُراق)	struma (goiter)
+سِلْعَةٌ أُمْدَمِيَّة (دُراقٌ مُتَوَسِّعُ الأَوعِيَّة)	struma aneurysmatica
+سِلْعَةُ بازدوف ( داءُ غريفز)	struma basedowificata (graves disease)
+سِلْعَةٌ تَحْتَ القَصّ	substernal struma
+سِلْعَةٌ تُوْتِيَّة	thymus struma
+سِلْعَةٌ جُرَيبِيَّة	struma follicularis
+سِلْعَةٌ حَديدِيَّة	cast iron struma
+سِلْعَةٌ خَبيثَة (سَرَطانُ الغُدَّةِ الدَّرَقِيَّة)	struma maligna
+سِلْعَةٌ خَشَبِيَّة	ligneous struma
+سِلْعَةٌ خَلْفَ القَصّ	retrosternal struma
+سِلْعَةٌ داخِلَ الصَّدْر	struma endothoracica
+سِلْعَةُ ريدل	Riedel's struma
+سِلْعَةٌ زائِغَة	struma aberrantia
+سِلْعَةٌ عَقِدَة	struma nodosa
+سِلْعَةٌ غَرَوانِيَّة	struma colloides
+سِلْعَةٌ غَرَوانِيَّةٌ كِيْسِيَّة	struma colloides cystica
+سِلْعَةُ قاعِدَةِ اللِّسان	struma baseos linguae
+سِلْعَةٌ كُظْرِيَّة	struma suprarenalis
+سِلْعَةٌ كُظْرِيَّة ( فَرْطُ تَنَسُّجِ الكُظْر)	adrenal struma (adrenal hyperplasia)
+سِلْعَةٌ كُلْوِيَّةٌ شَحْمِيَّةٌ زائِغَة (سَرَطَانَةٌ كُلْوِيَّةُ الخَلايا)	struma lipomatodes aberrata renis (renal cell carcinoma)
+سِلْعَةٌ كِيْسِيَّةٌ عَظْمِيَّة	struma cystica ossea
+سِلْعَةٌ لِسانِيَّة	struma of tongue
+سِلْعَةٌ لِمْفُوْمِيَّة ( داءُ هاشيموتو)	struma lymphomatosa (Hashimoto's disease)
+سِلْعَةٌ لِمْفِيَّة ( الحالَةُ اللِّمْفِيَّة)	struma lymphatica (status lymphaticus)
+سِلْعَةٌ لِيفِيَّة	struma fibrosa
+سِلْعَةٌ لَيِّنَة	struma mollis
+سِلْعَةٌ مَبِيْضِيَّة	struma ovarii
+سِلْعَةٌ مُتَكَلِّسَة	struma calculosa
+سِلْعَةٌ مَتْنِيَّة	struma parenchymatosa
+سِلْعَةٌ مُفْرِطَةُ التَّنَسُّج	struma hyperplastica
+سِلْعَةٌ نُخامِيَّة	struma pituitaria
+سِلْعَةُ هاشيموتو	Hashimoto's struma
+سِلْعَةٌ هُلاَمِيَّة	struma gelatinosa
+سِلْعَةٌ وِعائِيَّة	struma vasculosa
+سَلَف	progenitor
+سلف الأُسيلة (أكروبلاست)	acroblast
+سَلَفُ الخَليّة النِقَْوِيّة القَعِدة	basophilic promyelocyte
+سَلَفُ طَليعَةِ الأَنْسُولين	preproinsulin
+سَلَفُ طَليعَةُ البروتِين	preproprotein
+سَلَفُ طَليعَةِ العاثِيَة	preprophage
+سَلَفُ طَليعَةِ الهُرْمون	preprohormone
+سَلفابنزاميد (دواء مضاد للجراثيم)	sulfabenzamide
+سَلفابيريدين (دواء لمعالجة الحمامى متعددة الأشكال)	sulfapyridine
+سَلفاتٌ أثيرية ( سَلفاتٌ مُقْتَرِنَة)	ethereal sulfate (conjugated sulfate)
+سلفاتُ الأَدينين	adenine sulfate
+سلفاتُ الألومينْيوم	aluminum sulfate
+سَلْفاتُ الأَمُونْيُوم	ammonium sulfate
+سَلفات الأمونيوم و الألومينْيوم	aluminum ammonium sulfate
+سَلْفاتُ الباروموميسين (دَواءٌ مُضادٌّ لِلأَميبات)	paromomycin sulfate
+سَلْفاتُ البارْيوم	barium sulfate
+سَلْفاتُ البُوتاسْيُوم	potassium sulfate
+سلفات البوتاسيوم و الألومينْيوم	aluminum potassium sulfate
+سَلْفاتُ الحَديد	iron sulfate
+سُلْفَات الحديدوز	ferrous sulfate
+سَلفاتُ الحَدِيْدُوْزِ المُجَفَّفَة	dried ferrous sulfate
+سلفاتُ الحَديديكِ القاعِدِيَّة	ferric subsulfate
+سَلفاتُ الصُّوديوم	sodium sulfate
+سَلفاتُ الكُوندروتين	chondroitin sulfate
+سَلْفاتُ الكيراتان	keratosulfate (keratan sulfate)
+سَلْفاتُ المُوكُوِيتِين	mucoitin sulfate
+سَلفاتُ النُّحاسِيك	cupric sulfate
+سَلفاتٌ حَمْضِيَّة	acid sulfate
+سَلْفاتُ زُرْقَةِ النِّيل	Nile blue sulfate
+سَلفاتٌ قاعِدِيَّة	basic sulfate
+سَلفاتٌ مُتَشَكِّلَة ( سَلفاتٌ مَعْدَنِيَّة)	preformed sulfate (mineral sulfate)
+سَلفاتٌ مَتَعادِلَة ( سَلفاتٌ نِظامِيَّة)	neutral sulfate (normal sulfate)
+سَلفاتٌ مَعْدَنِيَّة	mineral sulfate
+سَلفاتٌ مُقْتَرِنَة	conjugated sulfate
+سَلفاتٌ نِظامِيَّة	normal sulfate
+سَلْفاتٌ وَنِصْف	sesquisulfate
+سَلفات؛كِبْريْتات	sulfate
+سلفاتاز [إنزيم]	sulfatase
+سلفاتاز الإيدورونيك [إنزيم]	iduronic sulfatase
+سَلفاتيد (سيريبروزيد مُؤَسْتَرٌ بثُمَالَةٍ سَلفاتية)	sulfatide
+سَلفاثيازول (مضاد للجراثيم)	sulfathiazole
+سَلفاثيدول (مطهر للمجاري البولية)	sulfaethidole
+سَلفادوكسين (دواء للجذام والملاريا)	sulfadoxine
+سَلْفَاديَازِين	sulfadiazine
+سّلفاديازين (مضاد للجراثيم)	sulfadiazine
+سَلفاديميتين (مضاد للجراثيم)	sulfadimetine
+سَلْفَادِيمِيثُوكسِين	sulfadimethoxine
+سَلفاديميثوكسين (مضاد للجراثيم)	sulfadimethoxine
+سَلْفَادِيمِيدِين	sulfadimidine
+سَلفاديميدين (مضاد للجراثيم)	sulfadimidine
+سَلفارسفينامين (دواء للزُّهْرِيّ)	sulfarsphenamine
+سَلفازاميت (مضاد للجراثيم يستعمل في الطب البيطري)	sulfazamet
+سلفازوميزول	sulfasomizole
+سَلْفَاسِيتَامِيد	sulfacetamid
+سَلفاسيتاميد (مضاد للجراثيم في المجاري البولية)	sulfacetamid
+سَلفَاغُوَانِيدِين	sulfaguanidine
+سَلفاغوانيدين (دواء لالتهابات جهاز الهضم)	sulfaguanidine
+سَلفَافُورَازُول	sulfafurazole
+سَلفافورازول (مضاد للجراثيم)	sulfafurazole
+سَلفاكوينوكسالين (للأمراض الهضمية الحيوانية)	sulfaquinoxaline
+سَلفالين (مطهر للمجاري البولية)	sulfalene
+سَلفاموكسول (مضاد للجراثيم)	sulfamoxole
+سَلفامونوميثوكسين (مضاد للجراثيم)	sulfamonomethoxine
+سَلفاميتر (مطهر للمجاري البولية)	sulfameter
+سَلفاميثازين (مضاد للجراثيم)	sulfamethazine
+سَلْفَامِيثُوكسَازُول	sulfamethoxazole
+سَلفاميثوكسازول (مطهر للمجاري البولية)	sulfamethoxazole
+سَلفاميثوكسي البيريدازين (مضاد للجراثيم)	sulfamethoxypyridazine
+سَلفاميثيزول (مطهر للمجاري البولية)	sulfamethizole
+سَلفاميثيل الثياديازول (مضاد للجراثيم)	sulfamethylthiadiazole
+سَلفاميثيل الديازين (مضاد للجراثيم)	sulfamethyldiazine
+سَلفاميدو (زمرة كيماوية تجوي على الأمين والكبريت)	sulfamido
+سَلْفَامِيرَازِين	sulfamerazine
+سَلفاميرازين (مضاد للجراثيم)	sulfamerazine
+سَلفامين [كيمياء]	sulfamine (-SO2NH2)
+سَلفانيتران (مضاد للجراثيم)	sulfanitran
+سَلفانيلات (ملح حمض السَّلفانيليك)	sulfanilate
+سَلفانيلاميد (مضاد للجراثيم)	sulfanilamide
+سَلْفَدَة	sulfoxidation
+سَلفميثيموغلوبين	sulfmethemoglobin
+سَلفهيدرات	sulfhydrate (HS-) / sulfohydrate
+سَلفهيدريل	sulfhydryl (-SH)
+سَلفهيدريل (الجَذْرُ -SH)	sulfydryl (-SH)
+سَلفهيموغلوبين	sulfhemoglobin
+سَلفو (سابقة تدل على وجود الكبريت الثنائيّ)	sulfo-
+سَلفوإيكثيولات	sulfoichthyolate
+سَلفوبارالدَهيد [كيمياء]	sulfoparaldehyde
+سَلفوبروموفثالَئِين	sulfobromophthalein
+سَلفوراريا (مسحوق لمعالجة الجلد)	sulfuraria
+سَلفوريت ( سَلفايد)	sulfuret (sulfide)
+سَلفوريل (الجَذْرُ SO2)	sulfuryl
+سَلفوسَيَانات	sulfocyanate
+سلفوسيانات الأكرينيل (مادة حَرَّاقة فَي الخَرْدَلِ الأبْيَض)	acrinyl sulfocyanate
+سَلْفُوكَرباميدُ الآلِّيل	allyl sulfocarbamide
+سَلفوكسيد [كيمياء]	sulfoxide (SO)
+سَلفوموسين	sulfomucin
+سَلفون (الجَذْرُ SO2 أو مركب يحتوي عليه)	sulfone (SO2)
+سَلفونُ إيثيل الميثان (دواء منوم)	sulfonethylmethane
+سَلفون ميثان [كيمياء]	sulfonmethane
+سلفونات الإيكيثول	ichthyolsulfonate
+سَلفوناميد (مضاد حيوي)	sulfonamide
+سَلفونيّ [كيمياء]	sulfonic
+سَلفونيل [كيمياء]	sulfonyl (-so2-)
+سَلفيت (ملح لحمض السَّلفروس)	sulfite
+سَلفيتُ الصُّوديوم	sodium sulfite
+سَلْفِيد	sulfide
+سَلْفيدُ الآلِّيل	allyl sulfide
+سَلْفيدُ الزِّئْبَق	mercuric sulfide
+سَلْفيدُ الهيدْروجِين	hydrogen sulfide / sulfureted hydrogen
+سَلفِيد ثُنائِي الكلُور ثُنائيُّ الأَثِيل (غازُ الخَرْدَل)	dichlorodiethyl sulfide (mustard gas)
+سَلْفيدٌ وَنِصْف	sesquisulfide
+سَلفيسوكسازول (مضاد للجراثيم)	sulfisoxazole
+سَلفيسوميدين (مضاد للجراثيم)	sulfisomidine
+سَلفينبيرازون (في معالجة النقرس)	sulfinpyrazone
+سَلفينديغوتات	sulfindigotate
+سَلفينيل	sulfinyl (-SO-)
+سلك "كرشنر"	Kirschner wire
+سِلْك [ج:أَسْلاَك]	wire
+سِلْكُ التَّشْخيص	diagnostic wire
+سِلْكُ التَّمَدُّد	expansion wire
+سِلْكُ الرَّبْط	ligation wire
+سِلْكُ الرَّبْطَة	ligature wire
+سِلْكُ الرَّصْف	alignment wire
+سِلْكُ الصَّبّ	sprue wire
+سِلْكُ الفَصْل	separation wire
+سِلْكُ القَوس	arch wire
+سلك القوس الفكية	arch wire
+سِلْكُ القَوسِ المِثالِيَّة	ideal arch wire
+سِلْكُ القِيَّاس	measuring wire
+سِلْكُ المَسْنَدِ الإِطْباقِيّ [أسنان]	occlusal rest bar
+سِلْكُ إيريخ القَوسِيّ [أسنان]	Erich arch bar
+سِلْكٌ بمَشْبَك	clasp bar
+سِلْكُ تَقْوِيْمِ الأَسْنَان	orthodontic wire
+سِلْكٌ حَنَكِيّ [أسنان]	palatal bar
+سِلْكُ زَرَدِيَّةِ الحَنْي [أسنان]	bending pliers bar
+سِلْكٌ سِنْخِيّ	alveolar wire
+سِلْكٌ شَفَوِيٌّ	labial bar
+سِلْكٌ شَفَوِيّ [أسنان]	labial bar
+سِلْكٌ قَوسِيّ [أسنان]	arc bar / arch bar
+سِلْكُ كازانْجيانِ T [أسنان]	Kazanjian T bar
+سِلْكُ كندي ( المِثْباتُ المُسْتَمِرُّ للسِّلْك) [أسنان]	Kennedy bar (continuous bar retainer)
+سِلْكُ كِنِدي [أسنان]	Kennedy bar
+سِلْكُ كيرشنر (في الكسور العظمية)	Kirschner wire
+سِلكٌ لِسَانِيٌّ ( قَوْسٌ لِسانِيَّة)	lingual bar (lingual arch)
+سِلْكٌ لِسانِيّ [أسنان]	lingual bar
+سِلْكٌ مُشَكَّل	wrought wire
+سِلْكٌ مِنَ الفولاَذِ الصَّامِد	stainless steel wire
+سِلْكٌ موصِل [أسنان]	connector bar
+سُلَّمُ أَبْغار (لِلوَليد)	Apgar scale
+سُلَّمٌ اسْمِيّ (سلم يصف النوعية دون الكمية)	nominal scale
+سُلَّمُ الحَرارَة	temperature scale
+سُلَّمُ الحَرارَةِ المُطْلَقَة	absolute temperature scale
+سُلَّمُ القيمَةِ النِّسْبِيَّة	relative value scale
+سُلَّمُ النَّمَاء	developmental scale
+سُلَّمُ باومِه (لِلوَزْنِ النَّوعِيِّ لِلسَّوائِل)	Baume's scale
+سُلَّمُ بلوخ (لِنِسْبَةِ الأَلْبُومينِ بِالبَول)	Bloch's scale
+سُلَّمُ تالْكفِيسْت (مقاييس لونية للهيموغلوبين)	Tallqvist's scale
+سُلَّمُ دَنْفِرملاَين (لِحالَةِ الطِّفْلِ التَّغْذَوِيَّة)	Dunfermline scale
+سُلَّمُ ذَكاءِ الوَليدِ لكَاتيل	Cattell Infant Intelligence scale
+سُلَّمُ رانْكِين (لدرجات الحرارة)	Rankine scale
+سُلَّمُ رِيُومُور (لدرجات الحرارة)	Reaumur scale / Reaumur's scale
+سُلّم سَلسْيُوس	Celsius scale
+سُلَّمُ سِيلِزْيُوس ( السُّلَّمُ المِئَوِيّ)	Celsius scale (centigrade scale)
+سُلَّم سيلْزِيُوس (لقياس درجة الحرارة)	Celsius scale
+سُلَّمُ شارْيِير ( سُلَّمُ فرينتش) (لقياس أقطار القثاطير)	Charriere scale (French scale)
+سُلَّمٌ غافْكِي (سلم الإنذار في السل)	Gaffky scale
+سُلَّمُ فارنهايت	Fahrenheit scale
+سُلَّمُ فارْنهايت (لدرجات الحرارة)	Fahrenheit scale
+سُلَّمٌ فَتْرَوِيّ	interval scale
+سُلَّمُ فرينتشّ (لِلقَثاطير)	French scale
+سُلَّمُ كالْفِين (سلم درجات الحرارة المطلقة)	Kelvin scale
+سُلَّمُ كلاَرْك (لِعُسْرَةِ الماء)	Clark's scale
+سُلّم كلْفن	Kelvin's scale; Kelvin's absolute scale; kelvin's temperature
+سُلَّمُ كِلْفين	Kelvin scale
+سُلَّمُ كُولُومْبيا للنُّضْجِ النَّفْسِيِّ	Columbia Mental Maturity scale
+سُلَّمٌ لاخَطِّيّ	Nonlinear scale
+سُلَّمٌ مَرْتَبِيّ	ordinal scale
+سُلَّمٌ مُطْلَق	absolute scale
+سُلَّمُ مِقْياسِ الماء	hydrometer scale
+سُلَّمٌ نِسْبِيّ	ratio scale
+سُلَّمُ وِيشْلَر لذَكاءِ الأَطْفال	Wechsler Intelligence scale for Children
+سُلَّمُ وِيشْلَر لذَكاءِ البالِغين	Wechsler Adult Intelligence scale
+سَلَمَنْدَرين (سمٌّ من السمندل)	salamanderin
+سلمونيات	salmonella
+سَلْمُونِيلَة	Salmonella
+سَلْمونيلَة [ج:سَلمُونيلات]	salmonella [pl:salmonellae]
+سَلْمُونِيلَةٌ تِيفِيَّة	Salmonella typhi
+سَلْمونيلَةُ كُوليرا الخَنازير	Salmonella choleraesuis
+سَلْمُونِيلَةٌ مُلْهِبَة لِلأَمْعَاء	Salmonella enteritidis
+سَلْمُونِيلَةٌ نَظِيرةُ التِّيفِيَّة أ	Salmonella paratyphi A
+سَلْمُونِيلَةٌ نظيرةُ التِّيفِيَّة ب	Salmonella paratyphi B
+سَلْمُونِيلَةٌ نَظِيرةُ التِّيفيَّة ج	Salmonella paratyphi C
+سَلْمُونِيلَة هَيْضَة الخَنَازِير	Salmonella choleraesuis
+سَلْمونيلِيّ	salmonellal
+سُلَّمِيُّ الشَكْل	ladderlike
+سَلْمين (سمٌّ من سمك السلمون)	salmin
+سَلَّة	basket
+سَلّة (ال...)	basket
+سلوجة	silage
+سلوز ( سِيلُّوبيُوز)	cellose (cellobiose)
+سُلوك	behavior / behavior; behaviour / behaviour
+سُلوكٌ اجْتِماعِيّ	prosocial behavior
+سُلوكٌ اِسْتِثابيّ (مَتَوَقِّعُ الإِثابَة)	operant behavior
+سُلوكٌ اسْتِجابِيّ	respondent behavior
+سُلوكُ التَّمْثيلِ العُصابِيّ	acting out behavior
+سُلوكٌ اِنْدِفَاعِيٌّ	impulsive behavior
+سُلوكٌ تَلاؤُمِيّ	adaptive behavior
+سُلوكٌ تِلْقائِيّ	automatic behavior
+سُلوكٌ تِلْقائِيٌّ إِذْعَانِيّ	command automatism
+سُلوكٌ تِلْقائِيٌّ انتِيَابِيّ	paroxysmal automatism
+سُلوكٌ تِلْقائِيٌّ تَالٍ للصَّرْع	postepileptic automatism
+سُلوكٌ تِلْقائِيٌّ تَالٍ للنَّشبَةِ ( سُلوكٌ تِلْقائِيٌّ تَالٍ لِلصَرْع)	postictal automatism (postepileptic automatism)
+سُلوكٌ تِلْقائِيٌّ سَامِحٌ بالتَّجَوُّل	ambulatory automatism
+سُلوكٌ تِلْقائِيٌّ صَرْعِيّ	epileptic automatism
+سُلوكٌ تِلْقائِيّ؛تِلْقَائِيَّة	automatism
+سُلوكٌ ثابِت	invariable behavior
+سُلوكٌ جَماعِيّ	collective behavior
+سُلوكٌ طُقوسِيّ	ritualistic behavior
+سُلوكٌ فِطْرِيّ	instinctive behavior
+سُلوكٌ مُتَذَبْذِب	vacillation behavior / vacillatory behavior
+سُلوكٌ مَتَغَيِّر	variable behavior
+سُلوكٌ مُتَقَلِّب	protean behavior
+سُلوكٌ مُكْتَسَب	acquired behavior
+سُلُوكِيّ	behavioral
+سُلوكِيّ (اخْتِصاصيٌّ بعلْمِ النَّفْسِ مؤْمِنٌ بِالمَدْرَسَةِ السَّلُوِكِيَّة)	behaviorist
+سُلوكِيٌّ عَصَبِيّ	neurobehavioral
+سِلُّولاَز [إنزيم]	cellulase
+سِلُّولُوز (مركب كربوهيدراتي نباتي)	cellulose
+سَلَوِيّ	amnionic / amniotic
+سَلَوِيٌّ مَشيمائِيّ	amniochorial / amniochorionic
+سُلِّيّ	amnion / phthisical / tisic / tuberculotic / tuberculous
+سَلَى (ال...)	amnion
+سَلَى الرَّأْسِ	caul / cowl (caul)
+سَلَى جَنَبي	pleuramnion
+سَلَى كاذِب	false amnion
+سلى، كيس الجنين	amnion
+سَليخ (رسم للكائن بدون الجلد للتوضيح والدراسة)	écorché
+سَليفُ القِرَدَة	prosimian
+سليف الليفين (فبرينوجين) = العامل الأول	fibrinogen = factor I
+سَليفات البيضة	oogonia
+سَلِيْفاتُ الوُدِّيَّة [ف:سَلِيْفَةُ الوُدِّيَّة]	sympathogonia [sing.sympathogonium]
+سليفة ( أرومة ) الحمر	hematoplastic = hemocytoblast
+سليفة (أرومة ) الحمر	hemoplastic = hemocytoblast
+سليفة (أرومة) الحمر	hematoblast = hemocytoblast / hematocytoblast = hemocytoblast / hematoplastic = hemocytoplast / hemoblast = pronormoblast / hemocytoblast = hematoblast = hematocytoblast = hemoplastic = hematoplastic
+سَليفَةُ أَرومَةِ الحَمْراءِ السَّوِيَّة	prokaryoblast (pronormoblast)
+سَليفَةُ الأَرومَةِ الحَمْراء	proerythroblast (pronormoblast)
+سَليفَةُ الأَرومَةِ السَّوِيَّة	pronormoblast
+سَليفَةُ الأَرومَةِ الضَّخْمَة	promegaloblast
+سَليفَةُ الأَرومَةِ اللِّمْفاوِيَّة	prolymphoblast
+سَليفَةُ الأَرومَةِ النِّقْوِيَّة	promyeloblast
+سليفة الألياف	desmocyte = fibroblast
+سليفة البطانة العصبية	ependymoblast
+سَليفَةُ البُطَينِ الجَانِبِيّ	procelia
+سَلِيْفَةُ البلاَزْماوِيَّة	proplasmacyte
+سَليفَةُ البيضة	oogonium
+سليفة الحمر	erythroblast / erythrocytoblast / hemangiblast
+سليفة الحمر الجنينية	erythroblastosis, fetalis
+سليفة الحمر الضخام	erythrogone = promegaloblast
+سليفة الحمر المستقعدة	basophil erythroblast
+سَليفَةُ الحَمْراء	proerythrocyte
+سَلِيْفَةُ الخَلِيَّةِ المِيِلانِيَّة	premelanocyte
+سليفة السن	fibrilloblast = odontoblast
+سَليفَةُ الظُّفْر	eponychium
+سَليفَةُ العِرْسِيَّةِ الكِبْرَوِيَّة	macrogametocyte (macrogamont) / macrogamont
+سَليفَةُ الكُرَيَّةِ البَيضاء	proleukocyte
+سَليفَةُ الكُلْوَة	forekidney (pronephros) / head kidney (pronephros) / primordial kidney (pronephros)
+سَليفَةُ الكُلْوَة [جنين]	pronephron (pronephros) / pronephros / protonephron (pronephros) / protonephros (pronephros)
+سَليفَةُ اللِّمْفاوِيَّة	prolymphocyte
+سليفة المشيج	gametoblast
+سَليفَةُ المُضَرَّجَة	prorubricyte
+سَليفَةُ المُنْسِجَة (خلية)	prohistiocyte
+سليفة المينا	ganoblast = ameloblast
+سليفة النسيج	histoblast
+سَليفَةُ النِّقْوِيَّة	progranulocyte (promyelocyte) / promyelocyte
+سَليفَةُ النِّقَوِيَّةِ الكِبْرَوِيَّة	macropromyelocyte
+سَليفَةُ النَّقيِيَّة	premyelocyte (promyelocyte)
+سَليفَةُ النَّوَّاء	promegakaryocyte
+سَليفَةُ النَّواةِ الأُنْثَوِيَّة	female pronucleus / feminonucleus
+سَليفَةُ الهُرْمون	hormogen (prohormone)
+سَليفَةُ الوَحيدَة	promonocyte
+سَليفَةُ الوَحيدَة (خلية)	premonocyte (promonocyte)
+سَليفَةُ الوُدِّيَّة	sympathicogonium
+سَليفَةُ الوُدِّيَّة [ج:سَلِيْفَاتُ الوُدِّيَّة]	sympathogonium [pl.sympathogonia]
+سليفي أحمر	erythroblastic
+سليفية الحمر	erythroblastemia / erythroblastosis
+سَليلٌ أَبَوِيّ	patrilineal
+سَليِلَة	polyp
+سَلِيْلَة [ج:سَلاَئِل]	polyp / polypus [pl.pulpi]
+سَليلَةٌ أُذُنِيَّة	aural polyp
+سَليلَةُ الأُذُن	otopolypus
+سَليلَةٌ الْتِهابِيَّة	inflammatory polyp
+سَليلَةُ المُسْتَقيم	proctopolypus
+سَلِيلَةٌ أَنْفِيَّة	nasal polyp / rhinopolypus
+سَليلَةٌ جِلْدِيَّةٌ لِيفِيَّة	cutaneous fibrous polyp
+سَليلَةٌ خَلَوِيَّة	cellular polypus
+سَليلَةٌ دَمَوِيَّة	blood polypus
+سَليلَةٌ سِنِّيَّة	tooth polyp
+سَليلَةٌ شَحْمانِيَّة	lipoid
+سَليلَةٌ عُدارِيَّة ( سَليلَةٌ كِيْسِيَّة)	hydatid polyp (polypus cysticus)
+سَليلَةٌ عَظْمِيَّة	osseous polyp
+سَليلَةٌ عُنُقِيَّة	cervical polyp
+سَليلَةٌ غازِيَّةٌ مَنْعَرِيَّة	antrochoanal polyp
+سَليلَةٌ فِبْرينِيَّة	fibrinous polyp
+سَليلَةٌ قَصَبِيَّة	bronchial polyp
+سَليلَةٌ قَلْبِيَّة	cardiac polyp
+سَليلَةٌ كاذِبَة	pseudopolyp
+سَليلَةٌ كيسِيَّة	polypus cysticus / polypus hydatidosus (polypus cysticus)
+سَليلَةٌ لاطِئَة	sessile polyp
+سَلِيلَةٌ لُبِّيَّة	pulp polyp
+سَليلَةٌ لِثَوِيَّة	gum polyp
+سَليلَةٌ لَحْمِيَّة	fleshy polyp
+سَليلَةٌ لِيفِيَّة	fibropolypus / fibrous polyp
+سَليلَةٌ مُتَوَسِّعَةُ الشُعَيرات ( سَلِيْلَةٌ الْتِهَابِيَّةٌ)	polypus telangiectodes (inflammatory polyp)
+سَليلَةٌ ناَزِفَة	bleeding polyp
+سَليلَةٌ هُلاَمِيَّة ( وَرَمٌ مُخاطِيّ)	gelatinous polyp (myxoma)
+سَليلَةٌ هوبمان ( وَرَمٌ حُلَيمِيٌّ أَنْفِيّ)	Hopmann's polyp (nasal papilloma)
+سَليلَةٌ وَرَمِيَّةٌ عَضَلِيَّة	myomatous
+سَليلَةٌ وَرَمِيَّةٌ غُدِّيَّة	adenomatous polyp
+سَليلَة وَرَمِيَّةٌ وِعَائِيَّةٌ	polypus angiomatodes
+سَليلَةٌ وِعائِيَّة	vascular polyp
+سَليلِيّ	polypous
+سليليّ (ال...)	obelion
+سَليلِيُّ الشَّكْل	polypiform / polypoid
+سَليمُ العَقْل	compos mentis
+سُلِّين	cylin / tuberculin
+سليولوز	cellulose
+سُمّ	bane / poison / toxin
+سُمٌّ إسْوِيُّ الكُرَيَّات	isocytotoxin
+سُمٌّ أَكَّال	corrosive poison
+سُمُّ الأَسْماكِ الرُّباعِيَّةِ الأَسْنان	tetrodotoxin
+سُمُّ البَطارِخ (سم بعض الأسماك)	ichthyootoxin
+سُمُّ التَّعَب	cenotoxin (fatigue toxin)
+سُمُّ التَّعَب ( ذِيْفَانُ التَّعَب)	fatigue poison (fatigue toxin)
+سُمُّ التَّعْذيب	ordeal poison
+سُمُّ الحَفَّاز	catalyst poison
+سم الخلايا	cytotoxicosis
+سُمُّ الخَلايا الذَّاتِيّ	autocytotoxin
+سُمُّ السَّمَك (نبات من الفصيلة القمرية)	Indian berry (Cocculus indicus) / fish berry (Cocculus indicus)
+سُمُّ السَّمَك (نَباتٌ هِنْدِيٌّ يَحْوِي البيكروتوكسين)	Anamirta cocculus
+سُمُّ السِّهام	arrow poison
+سُمُّ الشَّوكَران	cicutoxin
+سُمُّ الطَّفْلَق	cotyledontoxin
+سُمُّ الطُّوط (نبات نيوزيلاندي)	toot poison
+سَمُّ الكَبِد	hepatotoxicity / hepatotoxin
+سُمُّ الكُرَيَّاتِ البِيْض	leukocytotoxin / leukotoxin
+سُمُّ الكُلْوَةِ الذَّاتِيّ	autonephrotoxin
+سُمُّ اللَّبَن	lactotoxin
+سُمُّ اللَّحْم	kreotoxicon / kreotoxin
+سُمُّ اللِّمْفاوِيَّات	lymphocytotoxin
+سُمُّ المَحَار	gonyaulax poison / mussel poison / shellfish poison
+سُمُّ النِّطاف	spermatotoxin / spermatoxin / spermotoxin
+سُمُّ الوِلْك (من الرخويات)	whelk poison
+سمُّ اليَّنْفوخ ( تترودوتوكسين)	fugutoxin (tetrodotoxin)
+سُمُّ اليَنْفُوخ ( تيترودوتوكسين)	puffer poison (tetrodotoxin)
+سُمُّ اليَنْفُوخِ اليَابانيّ ( تترودوتوكسين)	fugu poison (tetrodotoxin)
+سُمٌّ تَفَتُّلِيّ	mitotic poison
+سُمٌّ تَمَاسِيّ	contact poison
+سُمٌّ حَيَوِيُّ المَنْشأ	biotoxin
+سم خارجي	ectotoxin = exotoxin
+سُمٌّ خَلَوِيٌّ مُغايِر	heterocytotoxin
+سم داخلي	endotoxin / esotoxin
+سم داخلي، ذيفان داخلي	endotoxin
+سُمٌّ دَرَقِيّ	thyrotoxin
+سُمٌّ ذاتِيّ	autointoxicant / autopoisonous / autotoxin
+سُمُّ رُباعِيَّةِ الأَسْنان	tetraodontoxin
+سُمٌّ سَمَكِيّ	ichthyotoxin
+سُمٌّ ضِفْدَعِيّ	bufotoxin
+سُمٌّ طِحالِيّ	lienotoxin
+سم طلائي	epitheliotoxin
+سُمٌّ عَصَبِيّ	neurotoxin
+سُمٌّ غِذَائِيّ	sitotoxin
+سُمٌّ كُلْوِيّ	nephrotoxin
+سُمٌّ كُلْوِيٌّ إِسْوِيّ	isonephrotoxin
+سم كلوي مثلي	isonephrotoxin
+سُمٌّ لاذِع	acrid poison
+سُمٌّ لاذِعٌ مُخَدِّر	acronarcotic poison (acrosedative poison)
+سُمٌّ لاذِعٌ مُهَدِّئ ( سُمٌّ لاذِعٌ مُخَدِّر)	acrosedative poison
+سُمٌّ لَبَنِيّ	galactotoxin
+سُمٌّ لَحْمِيّ	creatoxin (kreotoxin)
+سُمُّ لَحْمِيٌّ سَمَكِيّ	ichthyosarcotoxin
+سُمٌّ لِمْفِيّ	lymphotoxin
+سم مثلي	isotoxin
+سُمٌّ مُضادّ	counterpoison
+سم معوي	enterotoxin
+سُمٌّ مكروبيّ	microbial poison
+سُمٌّ مُهَيِّج ( سُمٌّ لاذِعٌ)	irritant poison (acrid poison)
+سُمٌّ مُوَجَّهٌ للكُرَيَّاتِ الحَمْراء	hemotropic poison
+سُمٌّ نِطافِيٌّ ذاتِيّ	autospermotoxin
+سُمٌّ نِقْيِيّ	myelotoxin
+سُمٌّ وِعائِيّ	vascular poison
+سَمائيّ، وَشِيقيّ	allantoic
+سِمات [ف:سِمَة]	stigmata [sing.stigma]
+سمات الجسم	body, features of
+سِماتٌ مالبيغية (في الطحال)	malpighian stigmas
+سَمادٌ مُخَلَّط	compost
+سَماديرين (مستخلص نباتي دوائي)	samaderin
+سَماعٌ ذَوقِيّ (رؤية لونية إثر التذوق)	gustatory audition
+سَماعُ صَدَى الأَفْكار	thought audition
+سَماعٌ لَونِيّ	chromatic audition
+سَماعٌ لَونِيّ (رؤية لونية إثر تلقي منبه سمعي)	audition colorèe
+سَماع؛اِسْتِمَاعٌ	audition
+سَمَّاعَة	stethoscope
+سَمَّاعَةُ الأُذُنَين	binaural stethoscope
+سَمَّاعَةٌ إلكترونيَّة	electronic stethoscope
+سَمَّاعَةٌ انْتِقائِيَّة	phonoselectoscope
+سَمَّاعَةٌ تَفْريقِيَّة	differential stethoscope
+سَمَّاعَةٌ داخِلِيَّة	endostethoscope
+سَمَّاعَةُ ديلي هيليس التَّوليدِيَّة	DeLee-Hillis obstetric stethoscope
+سَمَّاعَةٌ ذاتِيَّة	autechoscope
+سَمَّاعَةٌ رَأْسِيَّة	head stethoscope
+سَمَّاعَةٌ ضَوئِيَّة	photostethoscope
+سَمَّاعَةٌ قَرْعِيَّة	phonoscope
+سَمَّاعَةُ كامان ( سَمَّاعَةُ الأُذُنَين)	Cammann's stethoscope (binaural stethoscope)
+سَمَّاعَةُ لِفّ (سماعة قلب الجنين)	Leff stethoscope
+سَمَّاعَةٌ مَريئِيَّة	esophageal stethoscope
+سَمَّاعَةٌ مُضَخِّمَة	microphonoscope / phonendoscope
+سَمَّاعَةٌ مُضَخِّمَةٌ تَنْظيرِيَّة	phonendoskiascope
+سَمَّاعِيّ	stethoscopic
+سُمَّاق	Rhus
+سُمَّاق (جنس من النبات)	sumac (Rhus)
+سُمَّاق [نبات]	Toxicodendron (Rhus)
+سُمَّاقُ المُسْتَنْقَعات ( سُمَّاقٌ سُمِّيّ)	swamp sumac (poison sumac)
+سُمَّاقٌ سُمِّيّ ( سُمَّاقُ المُسْتَنْقَعات)	poison sumac (swamp sumac)
+سُماك	ichthyosis
+سُماكٌ أَخْمَصِيّ ( تَقَرُّنُ جِلْدِ الأَخْمَص)	ichthyosis plantaris (plantar keratoderma)
+سُماكُ الجَنين	ichthyosis fetalis
+سُماكُ الرَّاحَةِ و الأَخْمَص ( تَقَرُّنُ جِلْدِ الرَّاحَةِ والأَخْمَص)	ichthyosis palmaris et plantaris (palmoplantar keratoderma)
+سُماكُ الرَّحِم	ichthyosis uteri
+سُماكُ القَرْنِيَّة	ichthyosis cornea
+سُمَاكٌ بَسِيْطٌ ( سُماكٌ شائِع)	ichthyosis simplex (ichthyosis vulgaris)
+سُماكٌ جُرَيبِيّ	follicular ichthyosis
+سُماكٌ خَطِّيّ	linear ichthyosis
+سُماكٌ خِلْقِيّ	ichthyosis congenita
+سُماكٌ راحِيّ ( تَقَرُّنُ جِلْدِ الرَّاحَة)	ichthyosis palmaris (palmar keratoderma)
+سُماكٌ شائِع	ichthyosis vulgaris
+سُماكٌ شَوكِيّ ( سُماكٌ قُنْفُذِيّ)	ichthyosis spinosa (ichthyosis hystrix)
+سُماكٌ شَيخوخِيّ	senile ichthyosis
+سُمَاكٌ شَيْهَمِيّ	sauriosis (ichthyosis hystrix)
+سُماكٌ صُفاحِيّ	lamellar ichthyosis
+سُماكٌ صُفاحِيٌّ وَليدِيّ	lamellar ichthyosis of the newborn
+سُماكٌ قُنْفُذِيّ	ichthyosis hystrix
+سُماكٌ قُنْفُذِيٌّ وَخِيْمٌ	ichthyosis hystrix gravior
+سُماكٌ لِسانِيّ	ichthyosis linguae
+سُماكٌ مُرْتَبِطٌ بالإِكس	X-linked ichthyosis
+سُماكٌ مُرْتَبِطٌ بالجِنْس	sex linked ichthyosis
+سُماكٌ مُميت	ichthyosis lethalis
+سُماكِيُّ الشَّكْل	ichthyosiform
+سَمَانة	corpulence =corpulency
+سِمْحاق	periost (periosteum) / periosteum / periosteum NA
+سِمْحاقُ الحَجاج	periorbit / periorbita NA
+سِمْحَاقُ السِن	odontoperiosteum
+سِمْحاقُ السِّنّ ( دَوَاعِمُ السِّنّ)	odontoperiosteum (periodontium)
+سِمْحاقُ السِّنْخ	alveolar periosteum
+سِمْحاقُ السِّنْخ (دَوَاعِمُ السِّنّ)	periosteum alveolare (periodontium)
+سِمْحاقُ الغُضْروف	perichondrium NA
+سِمْحاقُ القِحْف	endocranium / pericranium NA
+سِمْحاقُ بَاطِنِ الحَجاج	orbital periosteum
+سمحاق سنوخ الأسنان	alveolo-dental periosteum (periodontium)
+سِمْحَاقٌ سِنِّيّ (الرباط السنخي السني)	dental periosteum
+سِمْحاقُ ظاهِرِ القِحْف	periosteum cranii (pericranium)
+سِمْحاقِيّ	periosteal / periosteous
+سُمْرَةُ الأنيلين (? سُمْرَةُ بسمارك)	aniline brown
+سُمْرَةُ بِسْمارْك	Bismarck broom / Bismark brown
+سِمْسِم	sesame
+سِمسٍمَانيّ	sesamoid
+سِمْسِمانِيّ (عظم صغير)	sesamoid
+سَمْط	depilation
+سَمْط (حَرْقٌ بِالسَّائِلِ المَغْلِيّ)	scald
+سَمْع	audition / hearing
+سَمْعٌ إِبْصارِيّ ( قِراءَةُ الشِّفاه)	visual hearing (lip reading)
+سَمْعٌ تِلْوِيّ	afterhearing / aftersound (afterhearing)
+سَمْعٌ صَدَوِيٌّ	echoacousia
+سَمْعٌ كاذِب	pseudacousis / pseudacousma
+سَمْعٌ مُؤْلِم	odynacousis / odynacusis
+سَمْعٌ مُصَاحِبٌ للأَلوان	color hearing (chromesthesia)
+سَمْعٌ وَحيدُ الأُذُن	monaural hearing
+سَمْعِيّ	acoustic / acoustic; auditory / auditive / auditory
+سَمْعِيُّ الذَّاكِرَةِ (يَتَمَتَّعُ بِذَاكِرَةٍ سَمْعِيَّة)	ear-minded (audile)
+سَمْعِيٌّ بَصَرِيّ	audiovisual
+سَمْعِيٌّ جَفْنِيّ	acousticopalpebral
+سَمْعِيٌّ حَرَكِيّ	acousticomotor
+سَمْعِيٌّ نَفْسِيّ	psychoauditory
+سَمْعِيٌ وَجْهِيّ	acousticofacial
+سَمْفُوطُن (جنس نبات من الفصيلة الحِمْحِمِيَّة)	Symphytum
+سَمَك	fish
+سَمَكُ القُدّ	Gadus morrhua (cod fish) / cod
+سَمَكِيُّ الشَّكْل	ichthyoid
+سَمْن	ghee
+سمنتة الأسنان	hypercementosis
+سَمَنْدَريدين (سمٌّ من السَّمَنْدَل)	samandaridine
+سَمَنْدَرين (سمٌّ من السَّمَنْدَل)	samandarine
+سِمْنَة	obesitas / obesity / polypionia (obesity) / polysarcia (obesity) / samna (ghee)
+سِمْنَةُ الضَّخامَةِ وفَرْطِ التَّنَسُّج	hyperplastic-hypertrophic obesity
+سِمْنَةُ الوَذَمَةِ المُخاطِيَّة	myxedematous obesity
+سِمْنَةٌ امْتِلائِيَّة	plethoric obesity
+سِمْنَةٌ بَالِغَيَّةُ البَدْء	adult-onset obesity
+سِمْنَةٌ بَسيطَة	simple obesity
+سِمْنَةٌ خارِجِيَّةُ المَنْشَأ (سِمْنَةُ فَرْطِ الأَكْل)	exogenous obesity
+سِمْنَةٌ داخِلِيَّةُ المَنْشَأ	endogenous obesity
+سِمْنَةٌ شِقِّيَّة	hemiobesity
+سِمْنَةٌ صَمَّاوِيَّةُ المَنْشأ	endocrine obesity
+سِمْنَةٌ ضَخامِيَّة ( سِمْنَةٌ بالِغِيَّةُ البِدْء)	hypertrophic obesity (adult onset obesity)
+سِمْنَةٌ طِوَالَ العُمْر	lifelong obesity
+سِمْنَةٌ غِذائِيَّة (سِمْنَةُ فَرْطِ الأَكْل)	alimentary obesity
+سِمْنَةُ فَرْطِ الأَنْسولين	hyperinsulinar obesity
+سِمْنَةُ فَرْطِ الجِبْلَة	hyperplasmic obesity
+سِمْنَةُ فَرْطِ الكُظْرِيَّة	hyperinterrenal obesity
+سِمْنَةٌ قِشْركُظْرِيَّة	adrenocortical obesity
+سِمْنَةُ قُصورِ الدَّرَقِيَّة	hypothyroid obesity
+سِمْنَةُ قُصورِ الغُدَدِ التَّنَاسُلِيَّة	hypogonad obesity
+سِمْنَةٌ مَرَضِيَّة	morbid obesity
+سِمْنَةٌ مَرْكَزِيَّة ( سِمْنَةٌ قِشْركُظْرِيَّة)	centripetal obesity (adrenocortical obesity)
+سِمْنَةٌ نُخامِيَّةُ المَنْشَأ	pituitary obesity
+سِمْنَةُ نَقْصِ الجِبْلَة	hypoplasmic obesity
+سِمْنَةٌ وِطائِيَّةُ المَنْشَأ	hypothalamic obesity
+سِمْنة، بدانة	obesity
+سِمَةٌ تَنَكُّسِيَّة	stigma of degeneracy
+سِمَةٌ جُرَيبِيَّة (في المَبِيْض)	follicular stigma
+سِمَةٌ جَسَدِيَّة	somatic stigma
+سِمَةُ جوفريدا-روجيري (ضحالة الحفرة الحقية الشاذة)	Giuffrida-Ruggieri stigma
+سِمَةٌ زُهْرِيَّة	syphilitic stigma
+سِمَةٌ مِهْنِيَّة	professional stigma
+سِمَةٌ نَفْسِيَّة	psychic stigma
+سِمَةٌ هِسْتيرِيَّة	hysteric stigma
+سَمُوح (في الجينات)	permissive
+سموم الأفلا، توكسينات الأفلا	aflatoxins
+سُمومٌ مُخَدِّرَة	narcotic poisons
+سُمومٌ مُهَدِّئة	sedative poisons
+سُمومِيّ	toxicologic
+سُموميات (ال...)، سِمامة	toxicology
+سِمَوِيّ	stigmatic
+سِمَوِيّ؛سِمَاتِيّ	stigmal
+سَمِيّ	isonymous
+سمي داخلي	endotoxic
+سُمِّيّ مِعَويّ	enterotoxic
+سُمّيّ، سَام	toxic
+سُمِّيّ؛مُسِمّ	virous
+سميلاجينين (من سلائف الستيرويد)	smilagenin
+سميلاسين (غليكوزيد سام)	smilacin
+سَمِيْم	porose / porous
+سَمين	liparous / polysarcous (obese)
+سَمين [ج:سِمان]	obese
+سمين، بدين	obese
+سُمِّيَّة	toxicity / venenosity
+سُمِّيَّةُ الأكسيجين	O2 toxicity (oxygen toxicity)
+سُمِّيَّةُ البَول	urotoxicity
+سُمِّيَّةُ اللِّمْفاوِيَّات	lymphocytotoxicity
+سُمِّيَّةُ النِّظامِ الغِذائِيّ	dietotoxicity
+سُمِّيَّةٌ إِمْراضِيَّة	nosotoxicity
+سمية حملية	eclamptism
+سمية داخلية	endotoxicosis
+سُمِّيّة دُونَ الحَادَّة	subacute toxicity
+سُمِّيَّةٌ عَصَبِيَّة	neurotoxicity
+سُمِّيَّة غِذَائِية	alimentary toxicity
+سُمِّيَّةٌ للجَنين	embryotoxicity
+سُمِّيَّةٌ للخَلاَيا	cytotoxicity
+سُمِّيَّةٌ للفُطْرِيَّات	fungitoxicity
+سُمِّيَّةٌ للكُرَيَّاتِ البِيْض	leukocytotoxicity
+سُمِّيَّةٌ للكُلْيَة	nephrotoxicity
+سُمِّيَّة مُزْمِنَة	chronic toxicity
+سُمِّيَّةٌ مَيَالينيَّة	myelinotoxicity
+سُمِّيَّةٌ نِقْيِيَّة	myelotoxicity
+سِنّ	dens / tooth
+سِّن (ال...)	dento- / odont-
+سِن [ج:أسنان]	dens NA [pl.dentes] / tooth [pl.teeth]
+سِنٌّ إزميلية (عند الجرذان)	scalpriform tooth
+سِنٌّ اصْطِنَاعِيَّةٌ	artificial tooth / prosthetic tooth
+سِنٌّ إِضافِيَّة	accessory tooth
+سِنُّ الأَسَد	lion's tooth
+سِنُّ الإِنْجاب	childbearing age / reproductive age
+سِنُّ الإِياس	climacteric age
+سِنُّ التَّأَهُّل	consent age
+سِن التحْصيل	achievement age
+سِنُّ التَّمْييز	age of discrimination / discrimination age
+سِنُّ الرَّحَى	axle tooth
+سِنُّ الرُّشْد	age of majority / age, civil right = legal age = majority
+سِنُّ العقْل ( ناجِذَة) [ج:النَواجِذ]	wisdom tooth
+سِنُّ المَعِدَة ( نابٌ سُفْلِيّ)	stomach tooth
+سن اليأس	climacteric = climacterum
+سِنٌّ أَوَّلِيَّة (? سِنٌّ قاطعة)	dens primoris
+سِنٌّ بارِزَة	buck tooth
+سِنٌّ بُرْعُومِيَّة	scion tooth
+سِنٌّ تَكْمِيْلِيَّة	supplemental tooth
+سِنٌّ تُوتِيَّة	mulberry tooth
+سِنُّ تيرنر (تخرب السن من رضح أو التهاب موضعي)	Turner's tooth
+سِنُّ تيرنر (سن دائمة عطبت أثناء نموها بسبب تسوس الأسنان اللبنبة التي فوقها)	Turner tooth
+سنٌّ ثَخينةُ العُنُق	thick necked tooth
+سِنٌّ ثُلاَثِيَّةُ الحَدَبات	triconodont
+سِنٌّ ثُلاثِيَّةُ الشُّرَف ( رَحَى)	tricuspid tooth
+سِنٌّ جِدارِيَّة	wall tooth
+سِنٌّ جِدارِيَّة (رَحَى)	wall-tooth
+سِنٌّ جُرَيْبَانِيَّة	synodontia
+سِنٌّ خَزَفِيَّة	porcelain tooth
+سِنٌّ داعِمَة	abutment tooth
+سن دعامية	abutment tooth
+سِنٌّ ذِئْبِيَّة (عند الحصان)	wolf tooth
+سِنٌّ ذاتُ شُرَف	cuspid tooth
+سِنٌّ ذاتُ صائِرِ	pivot tooth
+سِنٌّ راتينيَّةٌ أكريليكيَّة	acrylic resin tooth
+سِنٌّ رَحَوِيَّة ؛ رَحَى	molar tooth
+سِنٌّ زائِدَة	supernumerary tooth
+سِنٌّ زاوِيَّة	corner tooth
+سِنٌّ زُهْرِيَّةٌ	syphilitic tooth
+سِنٌّ سُفْلِيَّة	inferior tooth / lower tooth
+سِنٌّ سَيِّئَةُ الوَضْع	malposed tooth
+سِنٌّ صَدَفِيَّة	shell tooth
+سِنٌّ صِفْرِيُّ الدَّرَجَة (سِنٌّ بلا حَدَبات)	zero degree tooth
+سِنٌّ ضَخْمَة	macrotooth
+سِنٌّ طَبيعِيَة	natural tooth
+سِنٌّ عَديدَةُ الشُّرَفِ ( رَحَى)	multicuspid tooth
+سِنٌّ عَدِيْمَةُ الجُذُوْر	rootless teeth
+سِنٌّ عَديمَةُ الشُّرَف	noncuspated tooth
+سِنٌّ عَديمَةُ اللُّبّ	pulpless tooth
+سِنٌّ عَدِيْمَةُ الوَظيفَة (سن بدون سن مقابلة)	functionless tooth
+سِنٌّ عُلْوِيَّة	upper tooth
+سِنٌّ عَمودِيَّة	dens columellaris
+سنٌّ عينيَّة (النَّابُ العُلْوِيّ)	eye tooth (upper canine)
+سنٌّ عينيَّة (نابٌ عُلْوِيّ)	eye tooth
+سِنٌّ غائِصَة	submerged tooth
+سِنٌّ غوسلي ( سنٌّ اِصْطِنَاعِيَّة)	Goslee tooth
+سِنٌّ فَكِّيَّة	jaw tooth
+سِنٌّ قاطِعَة	dens tomici
+سِنٌّ قَبْلَ السَّاقِطَة	predeciduous tooth
+سِنٌّ قَبْلَ الَّلبَنِيَة	premilk tooth
+سِنٌّ كَهْرَبائِيَّة	electrodent
+سِنٌّ لَبَنِيَّة	dens lacteus
+سِنٌّ لَدِنَة	malacotic teeth
+سِنٌّ مُتْئِمَة (ذات جذر وتاجين)	geminate tooth
+سِنٌّ مُتُحُرِّكَة	mobile tooth
+سِنٌّ مُتَصَدِّعَة	cracked tooth
+سِنٌّ مُتَقَرِّحَة	ulcerated tooth
+سِنٌّ مُتَنَقِّلَة	migrating tooth / wandering tooth
+سِنٌّ مُثَبِّتَة	anchor tooth
+سِنٌّ مُثَلَّثَةُ الحَدَبات	trigonodont
+سِنٌّ مِحْوَرَيَةّ	tooth of axis
+سِنٌّ مُحيطِيَّة	peridens
+سِنٌّ مَخْروطِيَّة	conical tooth
+سِنٌّ مَخْرُوْطِيَّةٌ ( سِنٌّ مُتْئِمَة)	connate tooth (geminate tooth)
+سِنٌّ مُدارَة	rotated tooth
+سِنٌّ مُدَمْلَكَة (ذات أرحاء مُدَوَّرة أو مَخْروطِية الحَدَبات)	bunodont
+سِنٌّ مُدَمْلَكَة (مُسْتَديرَةُ الحَدَبات)	bunolophodont
+سِنٌّ مُدَمْلَكَةٌ مُهَلَّلة (ذات نَواتِىءٍ طولاَنِيَّةٍ مستديرة)	bunoselenodont
+سِنٌّ مُزالَةُ اللُّبّ	pulpless tooth
+سِنٌّ مُسْتَبْطِنَة (بنية تشبه السن توجد في حجرة اللب)	dens in dente
+سِنٌّ مُسْتَعارَة ( سِنٌّ اِصْطِنَاعِيَّة)	false tooth
+سِنُّ مُسْتَقيمَةُ الدَّبابيس	straight pin tooth
+سِنٌّ مُسَلَّحَةٌ بالمَعْدَن	metal insert teeth
+سِنٌّ مُشْتَمَلَة	dental inclusion
+سِنٌّ مُصابَةٌ بالعَدْوَى	infected tooth
+سِنٌّ مُقابِلة	opposed tooth
+سِنٌّ مَقْسوطَة	ankylosed tooth / submerged tooth (ankylosed tooth)
+سِنٌّ مُنَاهِضَةٌ	antagonistic tooth
+سِنٌّ مُنْحَرِفَة (بازغة أمام القوس السنية)	dens excertus
+سِنٌّ مُنْحَرِفَةٌ للأَمَام	proclined tooth
+سِنٌّ مُنْحَشِرَة	impacted tooth
+سِنٌّ مُنْزاحَة	drifting tooth
+سِنٌّ مُنْطَمِرَةٌ	embedded tooth / unerupted tooth
+سِنٌّ مُنْغَمِدَة	dens invaginatus
+سِنٌّ مَنْقولَة (مزروعة في غير مكانها الأصلي)	scion tooth
+سِنٌّ ناتِئَة	snaggle tooth
+سن ناقوسية التاج	bell-crown tooth
+سِنٌّ نَخِرَة	dens cariousus
+سِنٌّ هاجِرَة	migratory tooth
+سِنُّ هورنر (قاطعة ذات أخدود بسبب عوز الميناء)	Horner's teeth
+سِنٌّ وَتَدِية	sphenoid tooth
+سِنٌّ وَتَدِيَّة ( سِنٌّ مُخْروطِيَّة)	peg tooth (conical tooth)
+سِنٌّ وِلاَدِيَّة ( سِنٌّ قَبْلَ الَّلبَنِيَّة)	natal tooth
+سِنٌّ وَليْدِيَّة	neonatal tooth
+سِن، ضِرْس	tooth
+سِنّ، عُمْر	age
+سَنا (جنس نبات من الفصيلة القرنية)	Cassia
+سَنا ؛ سَنامَكِّي (الأوراق الجافة لنبات السنا)	senna
+سِناجُ المِصْباح	lamp black
+سِناد	brace
+سِنَادٌ (البِدْلَةِ السِنِّيَّة)	lug
+سِنَادُ الاحْتِبَاس	retention lug
+سِنادُ الرُّكْبَة	knee brace
+سِنادُ القالَب	cast brace
+سِنَادُ المِشْبَكَة	clasp lug
+سِنادُ تَدَلِّي القَدَمِ	foot drop brace
+سِنادٌ قاطِعِيّ	incisal rest
+سِنَادٌ مَرْكَزِيّ	centic stop
+سِنادَةٌ إِصْبَعِيَّة	finger rest
+سِنادَةٌ إِطْباقِيَّة	occlusal rest
+سِنَادَةٌ إِطْباقِيَّة ( سِنَادَةٌ طاحِنِيَّة)	occlusal rest (molar rest)
+سِنادَةٌ دَقِيْقَة	precision rest
+سِنادَةٌ سَطْحِيَّة	surface rest
+سِنادَةٌ قاطِعِيَّة	incisal rest
+سِنادَةٌ لِسانِيَّة	lingual rest
+سِنادَةٌ مُنْحَسِرَة	recessed rest
+سِنادَةٌ نَسيجِيَّة	tissue rest
+سِنادِيُّ الشَّكْل	tapiroid
+سِنَار [ج:سُنُر]	snare
+سِنَارُ اللَّوزَة	tonsil snare
+سِنَارٌ أَنْفِيّ	nasal snare
+سِنَارٌ بَارِد	cold snare
+سِنَارٌ حارّ	hot snare
+سناني - شبيه السن	dentoid = odontoid
+سِنانِيُّ الشَّكْل	lanceolate
+سِنانِيَّةُ الثَّمَر (جِنْسُ أَشْجارٍ مِنَ القَرْنِيَّات)	Lonchocarpus
+سُنْبُلَةُ الإكْمَال [أسنان]	finishing bur
+سُنْبُلَةٍ ذاتُ نِهايَةٍ قاطِعَة [أسنان]	end cutting bur
+سُنْبُلَةٌ كُمَّثْرِيَّةُ الشَّكْل [أسنان]	pear shaped
+سُنْبُلَةٌ مُسْتَديرَة	round bar
+سِنْتازون (دَواءٌ مُضادٌّ لِلالْتِهاب)	cinnopentazone (cintazone)
+سنترومير	centromere
+سَنْتِي بَار (وَحْدَةُ ضَغْط)	centibar
+سَنْتِي بواز (وَحْدَةُ اللُّزوجَةِ الحَرَكِيَّة)	centipoise
+سَنْتي غرام (وَحْدَةُ كُتْلَةٍ)	centigram
+سَنْتِي لِتْر (وَحْدَةٌ كَيل)	centiliter
+سَنْتِي مِتْر (وَحْدَةُ طول)	centimeter
+سَنْتي مِتر مُرَبَّع	square centimeter
+سَنْتِي مِتْر مُكَعَّب (1 مل)	cubic centimeter
+سَنْتِي مُورْغان (وَحْدَةُ قياس المسافة بين نقطتين على خَرائِطِ الصِّبْغِيَّات)	centimorgan
+سَنْتي مولِيّ (حدة قياس جزيئات في سائل)	centimolar
+سَنْتِيٌ نِظامِيّ	centinormal
+سَنْتِي وَحْدَة (1/100وحدة)	centiunit
+سِنْجابِيّ	cineraceous / cinereal / cinereal; gray / cineritious (cineraceous)
+سِنْخ	alveolus / socket
+سِنْخ [ج:أَسْناخ]	alveolus [pl.alveoli]
+سِنْخ [مفرد :أَسْناخ]	faveolus
+سِنْخُ السِّنّ	phatnoma (tooth socket) / tooth socket
+سِنْخٌ جافّ	dry socket
+سِنْخٌ جاف ( أَلَمُ السِّنْخ)	dry socket (alveolalgia)
+سِنْخٌ سِنْيٌّ	odontobothrion
+سِنْخِيّ	alveolar / alveolaris
+سِنْخِيٌّ أَنْفِيّ	alveolonasal
+سِنْخِيٌّ حَنَكِيّ	alveolopalatal
+سِنْخِيٌّ سِنِّيّ	alveolodental / dentoalveolar
+سِنْخِيٌّ شُعَيرِيّ	alveolocapillary
+سِنْخِيٌّ شَفَوِيّ	alveololabial
+سِنْخِيٌّ قاعِدِيّ	alveolobasal
+سِنْخِيٌّ كاذِب	pseudoalveolar
+سِنْخِيٌّ لِسانِيّ	alveololingual
+سَنَد	debenture
+سَنَدُ تَأْمِيْن ضِدّ المُطَالَبَات	claims-mode policy
+سَنْدٌ مَرْكَزِيّ	central bearing
+سندان	anvil / anvil = incus / incus
+سَنْدانِيّ	inceal (incudal) / incudal
+سَنْدانِيُّ الشَّكْل	anvil-shaped
+سَنْدانِيٌّ رِكابِيّ	incostapedial (incudostapedial) / incudostapedial
+سَنْدانِيٌّ مِطْرَقِيّ	incudomalleal
+سَنْدَرُوس (راتينُ شَجَرٍ من الفَصيلَةِ الصَّنَوبَرِيَّة)	sandarac
+سنْدَيَان	quercus sobur
+سِنْسِنَة (=النُّتوءُ الشَّوكِيُّ لِلْفِقْرَة)	acantha (=spinous process of a vertebra)
+سِنْسِنَةٌ إضافِيَّة	anapophysis
+سَنسيلين (مضاد للجراثيم)	suncillin
+سِنْع (ال...)	metacarpus
+سِنْعِيّ	metacarpal
+سِنْعِيٌّ سُلاَمِيّ	metacarpophalangeal
+سنكوفين	cinchophen
+سنكونا	cinchona
+سَنَم	hump
+سَنَمَة (شَكْلٌ مِنَ الازْهِرار)	cyme
+سنوخ (م. سنخ)	alveoli, dentales
+سنوري	feline
+سَنَوِيّ	annual
+سِنِّيّ	dental / dento- = dent- = denta- = denti- = odonto- / odontic
+سِنّيّ (سابقة)	odonto
+سِنِّيُّ الشَّكْل	dentiform / dentoid (odontoid) / odontinoid / odontinoid; dentoid / odontoid
+سِنِّيُّ المَنْشَأ	odontogenous
+سِنِّيٌّ أَنْفِيّ	dentonasal
+سِنِّيٌّ ذَقْنِي	dentomental
+سني سنخي	dentoalveolar
+سِنِّيٌّ شِدْقِي	dentibuccal
+سِنِّيٌّ شَفَوِيّ	dentilabial / dentolabial
+سِنِّيٌّ لِسانِيّ	dentilingual / dentolingual
+سِنِّيٌّ وَجْهِيّ	dentofacial
+سنينة	denticle
+سُنَينَة ؛ جُلَيْدَة سِنِّيَّة	dental cuticle
+سُنَينَةٌ حُرَّة	free denticle
+سُنَينَةٌ حَقيقِيَّة	true denticle
+سُنَينَةٌ خِلالِيَّة	interstitial denticle
+سُنَيْنَةٌ عاجِيَّةٌ حَقيقِيَّة	true denticle
+سُنَينَةٌ كاذِبَة	false denticle
+سُنَينَةٌ مُلْتَصِقَة	adherent denticle / attached denticle
+سُنَينَةٌ مُنْطَمِرَة	embedded denticle
+سهاد	egersis
+سُهار	ahypnia / ahypnosis
+سُهاف	anadipsia
+سهر	watching
+سَهْل الاِنْحِلال	readily soluble
+سَهْلُ الانْصِهار	eutectic / fusible
+سَهْلُ الاِنْكِسار	refractile
+سَهْلُ الانْهِتَاك	lacerable
+سَهْلُ التَّدَرُّك ؛ دَرُوْك	degradable
+سَهْلُ التَّفَتُّتِ	friable
+سَهْلُ التَّفْرِيْق	dissociable
+سَهْم	arrow
+سَهْمٌ كاوٍ	caustic arrow
+سَهْمَوِيّ	toxocaral
+سَهْمِيّ	sagittal / sagittalis NA
+سَهْمِيٌّ ناصِف	midsagittal
+سُهُوْلَةُ اِرْتِفَاعِ السُّكَر	glycophilia
+سُهولَةُ التَّفَتُّت	friability
+سُهولَةُ الرُّؤْيَة	euphoropsia
+سوء استخدام، فرط	abuse
+سُوءُ اسْتِعْمَال	abuse
+سوءُ إِطْباقِ العَضَّةِ المُغْلَقَة	closed-bite malocclusion
+سوءُ إِطْباقِ العَضَّةِ المَفْتوحَة	open-bite malocclusion
+سوءُ الإِثْغار	maleruption
+سوءُ الاِرْتِصَاف	disalignment
+سوءُ الاسْتِدارَة	malrotation
+سوءُ الإِطْباق	odontoparallaxis (malocclusion)
+سوءُ الإِطْباق [أسنان]	malocclusion
+سوءُ الإِطْباقِ المَعيب	defective malocclusion
+سوءُ الالْتِحام	malunion
+سوءُ الامْتِصاص	malabsorption
+سوءُ الامْتِصاصِ التَّالِي لاَسْتِئْصالِ المَعِدَة	post-gastrectomy malabsorption
+سُوْءُ التَّشَابُك	malinterdigitation
+سُوءُ التَّغْذيَة	cacotrophy (malnutrition) / kakotrophy (cacotrophy) / malnutrition
+سوءُ التَّغْذِيَةِ البروتينيَّة	protein malnutrition
+سوءُ التَّغْذِيَةِ الخَبيث	malignant malnutrition
+سوءُ التَّغْذِيَةِ بالبروتينِ و الطَّاقَة	protein-energy malnutrition / protein-energy malnutrition (kwashiorkor)
+سوءُ التَّغْذيةِ بعَوزِ المُغذيَّاتِ الزَّهيدةِ المِقْدَارِ	micronutrients malnutrition
+سوء التغذية، نقص التغدية	malnutrition
+سوء التغضرف	dyschondroplasia
+سوءُ التَّلاَؤُم	maladaptation
+سوءُ التِّلَفُّظ	malarticulation
+سوءُ التَّمَثُّل	malassimilation
+سوءُ التَّوَضُّع	malposition
+سوءُ القَذْف	malemission
+سوءُ المَجيء [توليد]	malpresentation
+سوءُ المُمارَسَة	malpractice / malpraxis
+سوءُ المُمارَسَةِ الطِّبِيَّة	medical malpractice
+سوءُ النَّمَاء	maldevelopment
+سوءُ الهَضْم	maldigestion
+سَوْءُ اليَرَقات	larviposition
+سوءُ امْتِصاصِ اللاكْتوز	lactose malabsorption
+سوءُ تَعَظُّمِ الفَكِّ السُّفْلِيِّ و الوَجْه	mandibulofacial dysostosis
+سوءُ تَوَضُّعِ الأَسْنان	teeth malposition
+سُوء، خَلَل، دَاء	mal
+سَوَاءُ إِفْرازِ قِشْرَةِ الكُظْر	isoadrenocorticism (euadrenocorticism)
+سَواءُ البَصَر	emmetropia
+سواء الحيض	eumenorrhea
+سواء الدرقية	euthyroidism
+سَواءُ الكُرَيَّاتِ البيضِ وتساويها	isonormocytosis
+سَوائِلُ الجَسَد	body fluids
+سَوَائِل مَزُوجَة	miscible liquids
+سَوائِيَّةُ الإِحاضَة	eumenorrhea
+سَوائِيةُ الأَحْشاء	eusplanchnia
+سَوائِيَّةُ الأَداء	eupraxia / eupraxic
+سوائِيَّةُ الإِدْراك	eugnosia
+سَوائِيَّةُ الاسْتِقْلاَب	eubolism
+سَوَائِيَّةُ الإِعْراس	eugamy
+سَوائِيَّةُ الإِماهَة	euhydration
+سَوائِيَّةُ الانْقِباض	eusystole
+سَوائِيَّةُ البَلْع	euphagia
+سَوائِيَّةُ البَنْكِرْياس	eupancreatism
+سَوائِيَّةُ البَول	eusthenuria
+سَوائِيَّةُ التَّآزي (وضع العينين عمودياً أثناء النظر للأمام)	euthyphoria
+سَوائِيَّةُ التَّبَوُّل	normosthenuria / orthuria
+سَوائِيَّةُ التَّقَرُّن	orthokeratosis
+سَوائِيَّةُ التَّمَعُّج	euperistalsis
+سَوائِيَّةُ التَّنَسُّج	euplasia
+سَوائِيَّةُ التَّنَفُّس	eupnea
+سَوائِيَّةُ التُّوَتُّر	normotonia
+سَوائِيَّةُ التَّوَضُّع	normotopia
+سَوائِيَّةُ الحَجْم	euvolia
+سَوائِيَّةُ الحَرارَة	normothermia
+سَوائِيَّةُ الحَرَكَة	eukinesia / eukinesis
+سَوائِيَّةُ الحِسّ	euesthesia
+سَوائِيَّةُ الدَّرَقِيَّة	euthyroidism
+سَوَائِيَّةُ الرَّأْس	orthocephaly
+سَوَائَيَّةُ الشَّفَتَين	orthocheilia
+سَوائِيَّةُ الشَّكْل (في الخلية)	eumorphism
+سَوائِيَّةُ الشَّهِيَّة	eusitia
+سَوائِيَّةُ الصِّباغ	normochromia / orthochromia
+سَوائِيَّةُ الصَّفْراء	eucholia
+سَوائِيَّةُ الصِّيغَةِ الصِّبْغِيَّة	euploidy
+سَوائِيَّةُ الطِحال	eusplenia
+سَوائِيَّةُ العَقْل	eunoia
+سوائِيَّةُ الفَكّ	orthognathism
+سَوائِيَّةُ الفَكِّ مَع شَوَهِ الأَسْنان	eugnathia
+سَوَائِيَّةُ القِحْفِ	orthocrany
+سَوائِيَّةُ القِشْرَةِ الكُظْرِيَّة	euadrenocorticism
+سَوائِيَّةُ القُوَّة	eusthenia
+سَوائِيَّةُ القِياس	eumetria
+سَوائِيَّةُ الكُرَيَّات	orthocytosis
+سَوائِيَّةُ الكُرَيَّاتِ الحُمُر	normocytosis
+سَوائِيَّةُ الكيلُوس	euchylia
+سَوائِيَّةُ المَصْطَكا (في اخْتِبارِ كَفْكا)	normomastic
+سَوائِيَّةُ المَفْعُول	normergy
+سَوائِيَّةُ المُنْعَكَسات	normoreflexia
+سَوائِيَّةُ المَوْضِع	orthotopia
+سَوائِيَّةُ الهَضْم	eupepsia / eupepsy
+سَوائِيَّةُ بروتينِ الدَّم	normoproteinemia
+سَوائِيَّةُ بُوتاسِ الدَّم	normokalemia
+سَوائِيَّةُ ثانِي أُكْسِيدِ الكَرْبونِ فِي الدَّم	eucapnia
+سَوائِيَّةُ ثُنَائِيِّ أُكسيدِ كربونِ الدَّم	normocapnia
+سَوائِيَّةُ جَرَيانِ الدَم	eudiemorrhysis
+سَوائِيَّةُ حَجْمِ الدَّم	normovolemia
+سَوائِيَّةُ حَمْضِ الهيدروكلوريك (في عصارة المعدة)	euchlorhydria
+سَوائِيَّةُ رُؤْيَةِ الأَلْوان	euchromatopsy
+سَوائِيَّةُ سُكَّرِ الدَّم	euglycemia / normoglycemia
+سَوائِيَّةُ ضَغْطِ الدَّم	normotension
+سَوائِيَّةُ عَدَدِ الكُرَيَّاتِ وتَجانُفُ نِسَبِها	normoskeocytosis
+سَوائِيَّةُ عَدَدِ الكُرَيَّاتِ ونِسَبها	normo-orthocytosis (normocytosis)
+سَوائِيَّةُ كِلْسِ الدَّم	normocalcemia
+سَوائِيَّةُ كُوليستيرولِ الدَّم	normocholesterolemia
+سَوائِيَّةُ يوريكِ البَول	normouricuria
+سَوائِيَّةُ يوريكِ الدَّم	normouricemia
+سوابق المريض	history
+سَواد	nigrities (blackness)
+سِوار [ج:أَسْوِرَة]	bracelet
+سِواغ	excipient
+سِواغ [ج:سواغات]	vehicle
+سُوافٌ طَيرِيّ	epornitic
+سوَّاقَةُ الأَشْرِطَةِ	tape drive
+سَّوأَة (ال...)، الأَعْضاءُ التَّناسُلِيَّةُ الظاهِرَة	edea (=the external genitalia)
+سوبراستيرول (مصاوغ للإيررغوستيرول)	suprasterol
+سوبيريتين (مادة سامة من الاسفنج البحري)	suberitin
+سوبيرين (ضرب من السيللوز)	suberin
+سوتالول (مُحْصِر للأدرينيَّات بيتا)	sotalol
+سوتيرينول (دواء ناهض للأدرينيات)	soterenol
+سوتيكا (مرض يصيب الحوامل في البنغال)	sutika
+سوتيلينز (دواء لتنضير الجروح)	sutilains
+سَوْدائي	nigral
+سَودائِيٌّ شَبَكِيّ	nigroreticular
+سَودائِيٌّ مُخَطَّطِيّ	nigrostriatal
+سودارشان شورنا (دواء هندي يخفض الحمى)	sudarshan shurna
+سودان (أحد الملوِّنات)	soudan (Sudan)
+سُودان (مُلَوِّنٌ للنسيج الدهني)	Sudan
+سَوداوِيّ	melancholic / nigral
+سَوداويّ شَبَكِيّ	nigroreticular
+سَوداويّ مُخَطَّطِيّ	nigrostriatal
+سَوْداوِيَّة	vapors
+سَوداوِيَّةٌ أَوبِيَّة	involutional melancholia
+سَوداوِيَّةٌ إِياسِيَّة	climacteric melancholia
+سَوداوِيَّةٌ بَسيطَة	melancholia simplex
+سَوداوِيَّةٌ حادَّة	acute melancholia
+سَوداوِيَّةٌ خَزَلِيَّة	paretic melancholia
+سَوداوِيَّةٌ خَفيفَة	hypomelancholia
+سَوداوِيَّةٌ خُمولِيَّة	acedia
+سَوداوِيَّةٌ دينِيَّة	melancholia religiosa
+سَوداوِيَّةٌ ذُهولِيَّة	stuporous melancholia
+سَوداوِيَّةٌ راجِعَة	recurrent melancholia
+سَوداوِيَّةٌ زَوَرانِيَّة	paranoid melancholia
+سَوداوِيَّةٌ عاطِفِيَّة	affective melancholia
+سَوداوِيَّةٌ مُراقِيَّة (? سَوْدَاوِيَّةُ تَوَهُّمِ المَرَض)	melancholia hypochondriaca
+سَوداوِيَّةٌ هَذَيانِيَّة	melancholia with delirium
+سَوداوِيَّةٌ هُمودِيَّة ( سَوداوِيَّةٌ ذُهولِيَّة)	melancholia attonita (stuporous melancholia)
+سَوداوِيَّةٌ هَيَجانِيَّة	agitated melancholia
+سَوداوِيَّةٌ هَيَجانية ( اكْتِئابٌ هَيَجانِيّ)	melancholia agitata (agitated depression)
+سَوْدَة (مظاهر جلدية لداء كلابية الذنب)	sowdah
+سُودُوأَيزُوسيانين	pseudoisocyanin
+سُودُوإِيفِيدْرِين (دواءمضاد لاحتقان الأنف)	pseudoephedrine
+سُودُوبيِبْتُون	pseudopeptone
+سُودُوترُوبين	pseudotropine
+سُودُوزَانْتين	pseudoxanthine
+سُودُوسترُوفانْتِين	pseudostrophanthin
+سُودُوسَيِانين (ملون هيستولوجي)	pseudocyanin
+سُودُوغلُوبُولِين	pseudoglobulin
+سودوفركْتُوز [كيمياء]	pseudofructose
+سُودُوكو ( حُمَّى عَضَّةِ الجُرَذ)	sodoku
+سُودُومُورْفِين	pseudomorphine
+سُودومُوسِين	pseudomucin
+سُودُومُوسينِيّ	pseudomucinous
+سودوميتهيموغلوبين ( مِيتْهِيمالبُومين)	pseudomethemoglobin (methemalbumin)
+سودوهيوسيامين ( نُورْهيُوسْيامين)	pseudohyoscyamine (norhyoscyamine)
+سُودويُورِيدِين	pseudouridine
+سورا (داء المثقبيَّات الحيواني)	surra
+سُوَرالين (مستخلص نباتي محسس للشمس)	psoralen
+سورامين (دواء لمعالجة المثقبيَّات)	suramin
+سورما ( سلفيدُ الرَّصاص) (مستحضر تجميلي للعين في الهند قد يسبب التسمم بالرصاص)	surma (lead sulfide)
+سورة	exacerbation / frenzy
+سَوْرَة [ج:سَورات]	exacerbation
+سَورَةُ غَضَب	tantrum
+سورينامين (مركب نباتي)	surinamine
+سُوْس (أحد المفصليات من رتبة الحلم)	mite
+سُوْسٌ أَحْمَر ( القُذَذ)	red mite (chigger)
+سُوْسٌ أُذُنِيّ	auricular mite
+سُوْسُ البَرْسيم	clover mite
+سُوْسُ البَصَل ( حَلَمُ البَصَل)	onion mite (Acarus rhizoglypticus)
+سُوْسُ الجُبُن ( الحَفَّارُ الجُبُنِيّ)	cheese mite (Tyrophagus longior)
+سُوْسُ الجَرَب	mange mite
+سُوْسُ الجُرَذ ( واخِزُ الطَير)	rat mite (Ornithonyssus)
+سُوْسُ الجُرْذِ المَداريّ ( واخِزُ الطَيرِ الباكوتي)	tropical rat mite (Ornithonyssus bacoti)
+سُوْسُ الحَصاد ( القُذَذ)	harvest mite (chigger)
+سُوْسُ الحَصاد (القُذَذ)	mower's mite (chigger)
+سُوْسُ الحِكَّة	itch mite
+سُوْسُ الطَّحين ( الحفَّارُ الدَّقيقِيّ)	flour mite (Tyrophagus farinae)
+سُوْسُ الطَّعام ( الحفَّار)	meal mite (Tyrophagus)
+سُوْسُ الطَّعام ( السَّاكِرُ الدَّاجِن)	food mite (Glycyphagus domesticus)
+سُوْسُ الطَّير ( الدُّوَيْدِيَّة)	fowl mite (Demodex)
+سُوْسُ الطُّيورِ الشَّمالِيَّة ( واخِزُ الطَّير)	Northern fowl mite (Ornithonyssus sylviarum)
+سُوْسُ الطُّيورِ المَدارِيَّة ( واخِزُ الطَّيرِ الجِرابِيّ)	tropical fowl mite (Ornithonyssus bursa)
+سُوْسُ العَناكِب	spider mite
+سُوْسُ الغَزْل	spinning mite
+سُوْسُ الفَأْر ( العَلَسُ الدَّمَوِيّ)	mouse mite (Allodermanyssus sanguineus)
+سُوْسُ القَشّ	straw mite
+سُوْسُ القَمْل	louse mite
+سُوْسُ الوَجْه ( الدُّوَيْدِيَّةُ الجُرَيْبِيَّة)	face mite (Demodex follicularis)
+سُوْسُ جَرَبِ الماشِيَة	scab mite
+سُوْسُ جُرَيْباتِ الشَّعْر ( الدُّوَيْدِيَّةُ الجُرَيْبِيَّة)	hair follicle mite (Demodex folliculorum)
+سُوْسٌ جُرَيْبِيّ	follicle mite
+سُوْسُ حِكَّةِ الحَمَّالين	coolie-itch mite
+سُوْسٌ خُنْفُسائِيّ	beetle mite
+سُوْسٌ دَجاجِيّ ( واخِزُ الجِلْدِ الدَّجاجِيّ)	chicken mite (Dermanyssus gallinae)
+سُوْسٌ طَيرِيّ ( واخِزُ الجِلْدِ الدَّجاجِيّ)	bird mite (Dermanyssus gallinae) / poultry mite (Dermanyssus gallinae)
+سُوْسٌ كِيدانِيّ ( الخَطْماءُ الأَكاموشِيَّة)	kedani mite (Trombicula akamushi)
+سُوْسُ لُبِّ النَّارْجيل ( الحفَّارُ الكاسْتِلاَّنِيّ)	copra mite (Tyrophagus castellani)
+سُوْسٌ مُزيلٌ للرِّيش	depluming mite
+سُوْسٌ ناقِبٌ ( القارِمَة)	burrowing mite (Sarcoptes)
+سَوسَن	orris
+سَوْسَن أَلْمَانِيّ	iris germanica
+سَوْط	flagellum / mastigont
+سَوط [ج:سِيَاط]	flagellum [pl.flagella]
+سَوْطٌ جُرْثُومِيّ	bacterial flagellum
+سَوطِيّ	flagellar
+سَوطِيُّ الشَّكْل	flagelliform
+سوطيات الدم	hemoflagellates
+سَوقاء (حِذاءٌ طَويلُ السَّاق)	boot
+سَوقاءُ غِيبْنِي (لمعالجة إصابات الساق)	Gibney's boot
+سَوقاءُ مَعْجُوْنِ أونا (لمعالجة الدوالي المتقرحة)	Unna's paste boot
+سَوقاءُ هَوائِيَّة	air boot
+سولابسون	solapsone
+سولازيبام (مهدىء خفيف)	sulazepam
+سولاسَلفون ( سولابسون) (دواء مضاد للجذام)	solasulfone (solapsone)
+سولاندرين (مشابه للهيوسيامين)	solandrine
+سولانين (دواء للربو القصبي)	solanine
+سولفاميد	sulfamide; sulphamid
+سولفيرنيو ( فوكسين)	solferino (fuchsin)
+سوليبرتين	solypertine
+سوليزوبنزون (مادة حاجبة للأشعة فوق البنفسجية)	sulisobenzone
+سوماتوستاتين	somatostatin
+سوماتوميدين	somatomedin
+سومالين	somalin
+سون (وَحْدَةُ ارْتِفاعِ الصَّوت)	sone
+سَويّ (سابقة)	ortho
+سوى (سواء - استواء)	eu - (opp. dys)
+سوي الإبصار	emmetrope
+سَوِيُّ الأَداء	eupractic
+سَوِيُّ الإِدْراك	eugnostic
+سَوِيُّ الإِنْطاف	normospermic
+سَوِيُّ الانْقِباض	eusystolic
+سَوِيُّ البَصَر	emmetrope / emmetropic
+سَوِيُّ التَّرْكيزِ الجُزَيْئِيّ	orthomolecular
+سَوِيُّ التَّلَوُّن	orthochromatic
+سَوِيُّ التَّنَسُّج	euplastic
+سَوِيُّ التَّنَفُّس	eupneic
+سَوِيُّ التَّوَتُّر	normotonic
+سَوِيُّ التَّوَضُّع	eutopic / normotopic
+سَوِيُّ التَّوَعِّي	euangiotic
+سَوِيُّ الجِنْس	normosexual
+سَوِيُّ الحَرارَة	normothermic
+سَوِيُّ الحَرَكَة	eukinetic
+سَوِيُّ الخُطوطِ البِنْيَوِيَّة	normolineal
+سَوِيُّ الدَّرَقِيَّة	euthyroid
+سَوِيُّ الرَّأْس	orthocephalous
+سَوِيُّ الرَّأْس (المَنْسَبُ العَمودِيُّ 70.1-75)	orthocephalic
+سَوِيُّ الصِباغ	normochromic / orthochromic
+سويّ الصبغة	orthochromatic
+سَوِيُّ الصِّيغَةِ الصِّبْغِيَّة	euploid
+سَوِيُّ الطَّبَقات	eulaminate
+سَوِيُّ الغُدَدِ الصُّمِّ	orthoendocrine
+سَوِيُّ الفَكّ	orthognathous
+سَوِيُّ الفَكّ (المَنْسَبُ الفَكِّيُّ أَقَلُّ مِنْ 98)	orthognathous
+سَوِيُّ الفَكَّين	eugnathic
+سَوِيُّ القِحْف	orthocranic
+سَوِيُّ الكُرَيَّات (الحُمُر)	normocytic
+سَوِيُّ المَسار	orthodromic
+سَوِيُّ المَفْعُول	normergic
+سَوِيُّ المَوْضِع	orthotopic
+سَوَيُّ النَّشَاط	normoactive
+سَوِيُّ النَّماء	normotrophic
+سَوِيُّ النَّواة	eupyrene / eupyrous (eupyrene)
+سَوِيُّ الهَضْم	eupeptic
+سَوِيُّ الوَظائِف	euphysiologic
+سَوِيُّ الوَظِيْفَةِ الصِّمَّاوِيَّة	normocrinic
+سَوِيُّ بُوتاسِ الدَّم	normokalemic
+سَوِيُّ ثُنائيِّ أُكسيدِ كربونِ الدَّم	normocapnic
+سَوِيُّ حَجْمِ الدَّم	normovolemic
+سَوِيُّ سُكَّرِ الدَّم	euglycemic / normoglycemic / orthoglycemic
+سَوِيُّ ضَغْطِ الدَّم	normotensive
+سَوِيُّ قِشْرِ الكُظْر	euadrenal / euadrenocortical
+سَوِيُّ كوليستيرولِ الدَّم	normocholesterolemic
+سَوِيُّ يوريكِ البَول	normouricuric
+سَوِيُّ يوريكِ الدَّم	normouricemic
+سُوَّيْد (مرض طفيلي نباتي)	smut
+سُوَّيْدُ الذُّرَة	corn smut
+سُوَّيْدُ الشَّيْلَم	rye smut
+سُوَيط (بَوغٌ حَيَوَانِيّ)	flagellula (zoospore)
+سُوَيطِحَة (يَرَقَةُ المجُوَفَّات)	planula
+سُوَيقات [ف:سُوَيقَة]	pedunculi [sing.pedunculus]
+سُوَيقَة	peduncle / stalk
+سُّوَيقَة (ال...) المُخَيخِيَّةُ المُتَوَسِّطَة	mediopeduncle
+سوَيقَة (ال...) المُخِّيّة	cerebral peduncle
+سُوَيقَة [ج:سُوَيقات]	pedunculus NA [pl.pedunculi]
+سُوَيقَةُ الجِسْم (في الجنين)	body stalk
+سُوَيقَةُ الجِسْمِ الثَّفَنِيّ	peduncle of corpus callosum / pedunculus corporis callosi
+سُوَيقَةُ الجِسْمِ الحَلَمِيّ	mamillary peduncle / pedunculus corporis mamillaris
+سُوَيقَةُ الجِسْمِ الصَّنَوبَرِيّ	peduncle of pineal body
+سُوَيقَةُ الجِسْمِ الصَّنَوبَرِيّ (العِنان)	pedunculus corporis pinealis (habenula)
+سُوَيقَةُ السِّقاء	allantoic stalk
+سُوَيقَةُ الصَّنَوبَرِيَّة	pineal peduncle
+سُوَيقَةُ المُحّ	pedunculus vitellinus (yolk stalk)
+سُوَيقَةُ المُخَيخ	cerebellar stalk
+سُوَيقَةُ النُّخامِيَّة	peduncle of hypophysis
+سُوَيقَةُ النُّدْفَة	peduncle of flocculus / pedunculus flocculi NA
+سُوَيقَةُ النَّواةِ العَدَسِيَّة	peduncle of lentiform nucleus
+سُوَيقَةٌ دِماغِيَّة	cerebral peduncle
+سُوَيْقة، ذُنَيْب	peduncle; pedicle
+سُوَيقِيّ	peduncular
+سوية سكر الدم	euglycaemia
+سوية قشرة الكظر	isoadrenocorticism
+سَيِّءُ التَّدْوير	malturned
+سَيِّءُ الوَضْع	malposed
+سياج	fence
+سِيادَة	dominance / domination
+سِيادَةُ إِحْدَى الجِهَتَين	one-sided dominance
+سِيادَةٌ جانِبِيَّة	lateral dominance
+سِيادَةٌ جُزْئِيَّة	partial dominance / semidominance
+سِيَادَةٌ جُزْئِيَّة ( سِيَادَةٌ كَاذِبَة)	quasidominance (pseudodominance)
+سِيادَةٌ دِمَاغِيَّة	cerebral dominance
+سِيادَةٌ عَينِيَّة	ocular dominance
+سِيادَةٌ عَينِيَّةٌ تَناوُبِيَّة	alternating eye dominance
+سِيادَةٌ مُشْتَرَكَة	codominance
+سِيادَةٌ مُفْرِطَة	overdominance
+سِيادَةٌ مَناعِيَّة	immunodominance
+سِيادَةٌ ناقِصَة	incomplete dominance
+سَيَّارَةُ الإِسْعاف	ambulance
+سِياسَة	policy
+سِيَاسة التَّخَلُّص مِن الفَضَلات	waste avoidance
+سِياسَةُ رِعايَةِ المَرْضَى	patient care policies
+سِياط [ف:سَوْط]	flagella [sing.flagellum]
+سِياقٌ مُتَناظِر	palindrome
+سَيَالاَت [كيمياء]	sialate
+سيالُوغاسْترُون (هرمون في اللعاب)	sialogastrone
+سَيَاليداز [إنزيم]	sialidase
+سَيانات	cyanate
+سَياناميد	cyanamide
+سَيانمِيتْمَِيُوغلُوبِين	cyanmetmyoglobin
+سَيانميتهِيمُوغلُوبِين	cyanmethemoglobin
+سَيانهيماتين	cyanhematin
+سَيانهِيمُوغلُوبين	cyanhemoglobin
+سيانو كوبالامين = (فيتامين ب12)	cyanocobalamine
+سَيانُوبْسِين	cyanopsin
+سَيانُوجِين (غاز سام)	cyanogen
+سَيانورين	cyanurin
+سَيانُوفُورم	cyanoform
+سَيانُوكرِيستُالِين (مُلَوِّن)	cyanocrystallin
+سَيانُوكُوبالاَمين	cyanocobalamin
+سَيانُوهِدْرِين	cyanoalcohol (cyanohydrin) / cyanohydrin
+سَيانيد	cyanide / prussiate (cyanide)
+سَيَانيدُ البُوتاسْيُوم	potassium cyanide
+سيانيد الهيدْروجِين	hydrogen cyanide
+سيانيد، سيانور	cyanide
+سَيانين	cyanin
+سيبازُونْيُوم (مُضادٌّ لِلالْتِهابِ مَوضِعِيّ)	sepazonium
+سَِيبْرازيبام (دَواءٌ مُهَدِّىء)	cyprazepam
+سَيبْرُوتيرُون (ستيرُويدٌ مُضادٌّ لِلذُّكورَة)	cyproterone
+سِيبْرُوسينُونيد (ستيرويد قشري كظري)	ciprocinonide
+سيبرُوفِبْرات	ciprofibrate
+سِيبْرُوفِبْرات (دَواءٌ خافِضٌ لِشَحْمِيَّاتِ الدَّم)	ciprofibrate
+سَيبْرُوكِينات (مضاد جراثيم بيطري)	cyproquinate
+سِيبْرُوهيِبْتادين (دَواءٌ مُضادٌّ لِلهِسْتامين)	cyproheptadine
+سِيبْرِينين (مادة سامة)	cyprinin
+سيبْسين (مادة سامة في الفطريات)	sepsin
+سَيبُوتْرين (مُضادٌّ لِلدِّيدانِ فِي الطِّبِّ البَيطَرِي)	cypothrin
+سيبيريدُول (دَواءٌ مُهَدِّىء)	seperidol
+سَيبْيُونات (دواء مُبَنِّج)	cypionate
+سيتابين (دَواءٌ خافِضٌ لِشَحْمِيَّاتِ الدَّم)	cetaben
+سِيتارابين	arabinosylcytosine (cytarabine)
+سيتارابين (دواء مضاد للأورام)	cytarabine
+سيتاز [إنزيم]	cytase
+سيتالْكونْيوم (مادَّةٌ مُنَظِّفَة)	cetalkonium
+سيتانول (مادة كحولية في مني الحوت)	cetanol
+سِيتْرات	citrate
+سيتْرات الأمونيوم و الحَدِيْدِيْك	ferric ammonium citrate
+سِيتْراتُ البُوتاسْيُوم	potassium citrate
+سيتراتُ الصُّوديوم	sodium citrate
+سِيتْراتِيّ	citrated
+سِيتْرولين (مستقلب كبدي لليوريا)	citrulline
+سِيتْريمُونْيُوم (مطهِّر ومعقِّم)	cetrimonium
+سِيتْريميد (مطهر)	cetrimide
+سِيتْريُوفِرِدين (سم فِطري المنشأ)	citreoviridin
+سيتوبلازم	cytoplasm
+سِيتُوزين	cytosine
+سِيتُوسِت (ذيفانٌ خَلَوِيّ)	cytost
+سيتوستيرول	sitosterol
+سيتوسدرين	cytosiderin
+سِيتُوسيدرين	cytosiderin
+سيتُوسيكلين (مُضادُّ لِلجَراثيم)	cetocycline
+سيتُوفْلاَف	cytoflav
+سيتُوفْلاَفين	cytoflavin
+سيتوفنيكول	cetophenicol
+سِيتُوكاينين	cytokinin
+سِيتُوكرُوم	Cytochrome
+سِيتوكين	cytokine
+سيتولوجِيّ	cytologic
+سيتولوجيا الخِزْعَةِ الشَّفْطِيَّة	aspiration biopsy cytology
+سيتولوجيا الغُدَدِ الصَّمَّاء	cytoendocrinology
+سيتُوهِيكْسِازين	cetohexazine
+سِيتِيدِيل	cetiedil
+سيتيديل (دَواءٌ مُوَسِّعٌ لِلأَوعِيَةِ المُحيطِيَّة)	cetiedil
+سيتيدين	cytidine
+سيتيزين	cytisine / laburinine (cytisine)
+سيتيزين (مشتق نباتي)	ulexine (cytisine)
+سيتيزين [كيمياء]	baptitoxine (cytisine)
+سيتيل (استرات لكحول يوجد في الشمع النباتي)	cetyl
+سيتيل بِيريدِينْيُوم (مُطَهِّرٌ مَوضِعِيّ)	cetylpyridinium
+سيدُوبيبتُوز	sedopeptose
+سيدُوهِيبْتُولُوز (سكر يباعي الكَربون)	sedoheptulose
+سِيدِيروفِيلِّين ( تَرانْسفِيرِّين)	siderophilin (transferrin)
+سيديرُوميسِين (مُضادٌّ حَيَوِيّ)	sideromycin
+سَير	ambulation / belt
+سَيرٌ تَيَقُّظِيّ	vigilambulism
+سَيرٌ خَلْفِيّ	opisthoporeia
+سَيرٌ نَومِيّ	hypnergia (somnambulism) / noctambulation (somnambulism) / oneirodelirium (somnambulism) / sleepwalking / somnambulance / somnambulation / somnambulism
+سيرازين	cerasine
+سيرازين (صمغ نباتي)	cerasin
+سيراميد [كيمياء]	ceramide
+سيراميداز [إنزيم]	ceramidase
+سيراميداز الغلُوكُوزيل [إنزيم]	glucosylceramidase
+سيراميداز اللاكتوزيل [إنزيم]	lactosyl ceramidase
+سِيرْبِيرين	cerberin (cerberine)
+سِيرَج ؛ زَيتُ السِّمْسِم	sesame oil
+سيرسينغوبين (دواء خافض للضغط)	syrosingopine
+سيرنجين (غليكوزيد نباتي)	syringin
+سيرُوتُوكْسين	serotoxin (anaphylatoxin)
+سيرُوتُونين (مادة عصبية فعَّالة في الأوعية)	serotonin
+سِيرُوتونينِيُّ المَفْعول	serotonergic (serotoninergic) / serotoninergic
+سيروتين ( الكُحولُ السِّيريلِيُّ)	cerotin (ceryl alcohol)
+سِيرُوز (مركب ألبوميني)	serose
+سيرولوبْلاَزْمين [إنزيم]	ceruloplasmin
+سيرولوجيّ	serologic (serological)
+سيروليين (مادة مقبضة للمرارة)	cerulein
+سيرويد	ceroid
+سيرُويد (حمض شحمي)	ceroid
+سيرِيبْروز (غالاَكْتُوزٌ)	cerebrose (galactose)
+سيرِيبْرُوزيد [كيمياء]	cerebroside
+سِيريبْرُوغالاَكْتُوز	cerebrogalactose
+سيريبروغالاكتوزيد ( سيرِيبْروزيد)	cerebrogalactoside (cerebroside)
+سيرِيبْرُوكوبْرِئين (بروتين دماغي يشتمل على النحاس)	cerebrocuprein
+سيريبرون ( فرِينُوزين)	cerebron (phrenosin)
+سِيريتين ( ثُلاَثِيُّ كلُوريدِ الكَرْبُون)	seretin (carbon tetrachloride)
+سيريسين (بروتين في الحرير)	sericin
+سيريل (كحول مؤستر في الشموع النباتية)	ceryl
+سيرين (حَمض أميني)	serine
+سيزوميسين (مضاد حيوي)	sisomicin
+سِيزْيُوم	caesium،cesium
+سيس كلوميفين ( إِينْكلُوميفين)	cisclomiphene (enclomiphene)
+سِّيْسَاء (ال...)، شَوكَةٌ	spine
+سِيْسَاءُ أريكسين (ألم العمود الفقري)	Erichsen's spine
+سِيْسَاءُ التِّيْفيَّة	typhoid spine
+سِيْسَاءُ سِكَّةِ القِطار (تلو رضح العمود الفقري)	railway spine
+سِيْسَاءُ صُلْبَة	rigid spine
+سِيْسَاءُ لاعِبيْ البُوكر (اِلْتِهَابُ الفَقَارِ الرُّوماتويديّ)	poker spine
+سِيسَاء، عمود فَقاريّ	rachis; backbone
+سيساتيت (مَسْحوقٌ مُجَفِّفٌ لِلإِكْزيمَة)	ceyssatite
+سِيسْبلاتين (دَواءٌ مُضادٌّ للأَورام)	cis-platinum / cisplatin
+سِيسْتَئين	cysteine
+سيسْتاتيُوناز [إنزيم]	cystathionase
+سيسْتاتيُونين	cystathionine
+سِيْسترون؛مَفْرون [صِبْغِيَّات]	cistron
+سيستوكروم	cystochrome
+سِيسْتوكْرُوم (لاختبار الوظيفة الكلوية)	cystochrome
+سِيسْتُولُوتِين (صباغ أصفر في كيسات المبيض)	cystolutein
+سِيسْتين	cystine
+سِيسْتينِيُّ البِيلَة	cystinuric
+سيستينية الدم	cystinaemia
+سيستيين	cysteine
+سيسيائي	rachidian
+سيغما (الحرف الإغريقي السادس سيغما)	sigma
+سيفابارُول (مُضادٌّ حَيَوِيّ)	cefaparole
+سِيفَابِيرِين	cephapirin
+سيفابَيرين (مُضادٌّ حَيَوِيّ)	cephapirin
+سِيفَاتْرِيزِين	cefatrizine
+سيفاتْريزين (مُضادٌّ حَيَوِيّ)	cefatrizine
+سِيفَادْرُوكْسِيل	cefadroxil
+سيفادْرُوكْسيل (مُضادٌّ حَيَوِيّ)	cefadroxil
+سيفازافلُور (مُضادٌّ حَيَوِيّ)	cefazaflur
+سِيفَازُولِين	cefazolin
+سيفازُولين (مُضادٌّ حَيَوِيّ)	cefazolin
+سيفاسِيتْريل (مُضادٌّ حَيَوِيّ)	cephacetrile
+سِيفَاكْلُور	cefaclor
+سيفاكلُور (مُضادٌّ حَيَوِيّ)	cefaclor
+سِيفَالُوتِين	cephalothin
+سيفالوتين (مُضادٌّ حَيَوِيّ)	cephalothin
+سِيفَالُورِيدِين	cephaloridine
+سيفالُوريدين (مُضادٌّ حَيَوِيّ)	cephaloridine
+سيفالوسْبورين (مُضادٌّ حَيَوِيّ)	cephalosporin
+سيفالوسْبوريناز [إنزيم]	cephalosporinase
+سيفالُوغليسين (مُضادٌّ حَيَوِيّ)	cephaloglycin
+سِيفَالِيكْسِين	cephalexin
+سيفالِيكْسِين (مُضادٌّ حَيَوِيّ)	cephalexin
+سيفالين	cephalin
+سِيفَامَنْدُول	cefamandole
+سيفامَنْدُول (مُضادٌّ حَيَوِيّ)	cefamandole
+سيفاميسين (مُضادٌّ حَيَوِيّ)	cephamycin
+سِيفْرَادِين	cephradine
+سيفْرادين (مُضادٌّ حَيَوِيّ)	cephradine
+سيفَرْت (وَحْدَةُ الإِشْعاعِ المُمْتَصِّ في النِّظامِ الدُّوَلِيّ)	sievert
+سِيفُوتَاكْسِيم	cefotaxime
+سيفُوتاكْسيم (مُضادٌّ حَيَوِيّ)	cefotaxime
+سيفُورانيد (مُضادٌّ حَيَوِيّ)	ceforanide
+سِيفُوفلُوران (بَنْجٌ اسْتِنْشاقِيّ)	sevoflurane
+سِيفُوكْسِيتِين	cefoxitin
+سيفُوكْسيتين (مُضادٌّ حَيَوِيّ)	cefoxitin
+سَيفِيُّ الشَّكْل	ensiform / gladiate
+سيفين (في مني السمكة السيفية)	xiphin
+سيقان	crura
+سِيِقان (ال...) المُخَيخية	cerebellar peduncles
+سيقان [ف:ساق]	crura (sing.crus)
+سيقانُ الحِجاب	crura of diaphragm (crura diaphragmatis)
+سيقانُ الوَتَرَة	crura anthelicis NA / crura of anthelix
+سيقانُ ظَهْرِ المَرْكَب (وذمة سيقان المسافرين على ظهر البواخر)	deck legs
+سيكازين (مادة سامة ومسرطنة)	cycasin
+سيكالين (مادة من نبات الإرغوت)	secalin
+سيكالينتُوكسين (مادة من نبات الإرغوت)	secalintoxin
+سِيكْريتين	secretin
+سِيكْريتينٌ مَعِدِيّ	gastric secretin
+سِيكْريتيناز [إنزيم]	secretinase
+سِيكْرِيمِين (دَواءٌ مُضادٌّ لِلكولينيَّات)	cycrimine
+سيكلاز	cyclase
+سِيكْلاَزُوسِين	cyclazocine
+سِيكْلاَزُوسين (دَواءٌ مُسَكِّن)	cyclazocine
+سيكلاسِيلِّين (عامِلٌ مُضادٌّ لِلجَراثيم)	cyclacillin
+سِيكْلافْرين (دَواءٌ رافِعٌ لِضَغْطِ الدَم)	ciclafrine
+سِيكْلاَمات (مادة للتحلية)	cyclamate
+سِيكْلاَمين (غليكوز مسهل ومقيء)	cyclamin
+سِيكْلانْدِيلاَت (دَواءٌ مَضادٌّ لِلتَّشَنُّجِ الوِعائِي)	cyclandelate
+سيكلو أيزوميراز	cycloisomerase
+سِيكْلُوأَميلُوز	cycloamylose
+سِيكْلُوإِيزُومِيراز [إنزيم]	cycloisomerase
+سيكلوب	cyclops
+سيكْلُوبَارْبِيتَال	cyclobarbital
+سِيكْلُوبارْبِيتال (دَواءٌ مُنَوِّم)	cyclobarbital
+سيكلوبروبين (بروبين حلقي)	cyclopropane
+سِيكْلُوبروفين (دَواءٌ مُضادٌّ للالتِهاب)	cicloprofen
+سِيكْلُوبِنْتامين (دَواءٌ مُخَفِّفٌ لاحْتِقانِ الأَنْف)	cyclopentamine
+سِيكْلُوبِنْتان	cyclopentane
+سِيكْلُوبِنْتُولاَت	cyclopentolate
+سِيكلُوبِنتِينُوفينانْثرِين	cyclopentenophenanthrene
+سِيكْلُوبِندازول (مُضادٌّ لِلدِّيدان)	cyclobendazole
+سِيكْلُوبِنْزابرِين (مُرْخٍ لِلعَضَلاَت)	cyclobenzaprine
+سِيكْلُوبِيرُوكْس (مُضادٌّ لِلفُطْرِيَّات)	ciclopirox
+سيكْلُوبِيرُوكْسُولاَمين	cyclopiroxolamine
+سيكْلُوبين (مبيد للفيروسات)	cyclopin
+سِيكْلُوبِينِثيازِيد (دَواءٌ مُدِرٌّ لِلبَول)	cyclopenthiazide
+سِيكْلُوتات	cyclotate
+سيكلوترون	cyclotron
+سِيكْلُوتُول	cyclotol
+سِيكْلُوثيازيد (دَواءٌ مُدِرٌّ لِلبَول)	cyclothiazide
+سيكْلُوز	cyclose
+سيكْلُوسِيرِين	cycloserine
+سِيكْلُوسيرين (مُضادٌّ حَيَوِيّ)	cycloserine
+سِيكْلُوغْوانيل	cycloguanide (cycloguanil)
+سِيكْلُوغْوانيل (مُسْتَقْلَبٌ مُضادٌّ لِلمَلاَرْيا)	cycloguanil
+سِيكْلُوفُسْفاميد (دَواءٌ مَضادٌّ لِلأَورام)	cyclophosphamide
+سِيكلُوكُومارُول (مُضادٌّ لِلتَّخَثُّر)	cyclocumarol
+سيكلوليجاز	cyclo - ligase
+سِيكْلُولِيغاز [إنزيم]	cyclo-ligase
+سِيكْلُومِيتِيكائِين (بَنْجٌ مَوضِعِيّ)	cyclomethycaine
+سِيكْلُوهيكْسانُول	cyclohexanol
+سِيكْلُوهيكسِيميد (مُضادٌّ لِلفُطْرِيَّاتِ الرَّمَّامَة)	cycloheximide
+سيكْلِيزِين	cyclizine
+سِيكْليزين (مضاد للقيء والدوار)	cyclizine
+سِيكليندُول (مضاد للاكتئاب)	cyclindole
+سَيْكوباثيا؛اعْتِلاَلٌ نَفْسِيّ	psychopathia
+سِيكُوبَاربِيتَال	secobarbital
+سيكُوبارْبيتال (بنج سريع المفعول)	secobarbital
+سيكوتوكسين	cicutoxin
+سيكورينين (قلواني نباتي منشط)	securinine
+سَيكُوزِين (? غالاكتوغليكوز)	psychosine
+سَيْكُولُوجِيّ	psychologic (psychological) / psychological
+سيكِيزانين (مادة قلوانية نباتية المصدر)	sekisanine
+سيلاَبورات [كيمياء]	cellaburate
+سيلاَبْيُوز (غليكوز نباتي المنشأ)	scillabiose
+سِيلاَرُوزيد (غليكوزيد قلبي نباتي المنشأ)	scilliroside
+سِيلاَرين (غليكوزيدات قلبية نباتية المنشأ)	scillaren
+سَيَلاَن	clap (gonorrhea) / gonorrhea
+سَيَلاَنٌ إِحْليلِيّ	urethroblennorrhea
+سَيَلاَنُ الأُذُن	otoblennorrhea
+سيلان اللبأ	colostrorrhoea
+سيلان اللبن	galactorrhea
+سيلان أنفيّ	nasal discharge
+سيلان أنفي ملون	chromorhinorrhoea
+سَيَلانٌ حَشَفِيّ	balanoblennorrhea
+سيلان دمعي تخصري	dacryocystoblennorrhea
+سَيَلانٌ دَمْعِيٌّ قَيحِيّ	dacryopyorrhea
+سَيَلانٌ دَمْعِيٌّ مُخاطِيٌّ	dacryoblennerrhea / dacryoblennorrhea
+سيلان شعبي	bronchoblennorrhoea = bronchorrhoea
+سيلان صديدي دمعي	dacryopyorrhea
+سيلان ليفيني	fibrinorrhea
+سيلان مائي	hydrorrhea
+سيلان مائي أنفي	hydrorrhea, nasal
+سيلان مائي حملي	hydrorrhea gravidarum
+سيلان مخاطي	blennorrhagic / blennorrhoea
+سَيَلاَنِيّ	gonorrheal
+سيلفسترين (مستخلص نباتي المصدر)	silvestrene
+سيلفيياني (منسوب للعالم فرانشيسكوس سيلفيوس)	sylvian
+سَيلَقون ( رُباعِي أُكْسيدِ الرَّصاص)	minium (lead tetroxide)
+سِيلُّوبياز	cellobiase
+سِيلُّوبيوز	cellobiose
+سِيلُّوتِتْروز	cellotetrose
+سِيلُّوتريُوز	cellotriose
+سَِْيلُوسيبين (مادَّةٌ مُهَلْوِسَة)	psilocybin
+سيلُوسين (مادَّةٌ مُهَلوِسَة)	psilocin
+سِيلُّوفان (في الصناعات الطبية)	cellophane
+سَيلول (سَهْلُ السَيَلانِ أو الانحلال)	diffluent
+سَيلُولَة (سهولة التحول إلى سائل)	diffluence
+سيلولوزٌ شَحْمِيّ	lipocellulose
+سِيلُّولْويد (مركب اصطناعي)	celluloid
+سِيلُّوهِكْسُوز	cellohexose
+سِيلُّويدين	celloidin
+سيليت (برُوميد البِنْزيل)	cylite (benzyl bromide)
+سيليسيّ	siliceous / silicious
+سيليسيا	silicea
+سيليكا ( ثنائيُّ أُكسيدِ السيلسيوم)	silica (silicon dioxide)
+سيليكات	silicate
+سيليكس (مستحضر صيدلاني من السيليكا)	silex
+سيليكو فلوريد	silicofluoride
+سيليكول (دواء لمعالجة السل)	silicol
+سيليكون	silicone
+سيليلوز	cellulose
+سيلينُوميثيونين [كيمياء]	selenomethionine
+سيلينيد [كيمياء]	selenide
+سيلِينيد الهيدْروجِين	hydrogen selenide
+سِيلِينيُوم	selenium
+سيلينيُوم (العنصر الرابع والثلاثون)	selenium
+سِيلِينيوم كَهْرَبِيّ	electroselenium
+سيماروبيدين (دواء بيطري)	simarubidin
+سيماروز	cymarose
+سيمارين	cymarine
+سيمباثين (ناقل عصبي هرموني)	sympathin
+سيمكلوزين (مادة مطهرة موضعيًا)	symclosene
+سِيمَنْتين	cementin
+سِيمَنْس (وَحْدَةُ المُوَصِّلِييَّةِ في النِّظامِ الدُّوَلِيّ)	Siemens
+سِيمْنُول (ستيرول من صفراء القِرش)	scymnol
+سِيمِيتِيدِين	cimetidine
+سيميتيدين (دَواءٌ لِقَرْحَةِ المَعِدَة)	cimetidine
+سِيمِيثِيكُون	simethicone
+سيميثيكون (دواء مضاد للغازات)	simethicone
+سيمين	cymene
+سيمينُوز ( مَنُّوز) (سكر نباتي)	seminose (mannose)
+سينابين (قلواني سام)	cynapin
+سيناراز [إنزيم]	cynarase
+سيناري (سنجابي)	cinereal
+سِينَارِيزِين	cinnarizine
+سِيناريزين (دَواءٌ مُضادٌّ للدُّوار)	cinnarizine
+سينالبومين (مُثَبِّطٌ افتراضي للأنسولين)	synalbumin
+سينامالديهيد (عامِلٌ مُنَكِّه)	cinnamaldehyde
+سينامول (ستايرول)	cinnamol (styrol)
+سينامين ( ستايرول)	cinnamene (styrol)
+سينانثروز (لينولين)	synanthrose (levulin)
+سينانثرين (اينولين)	synanthrin (inulin)
+سينانسيرين (دَواءٌ مُضادٌ للفُصام)	cinanserin
+سِينْتازون (دواؤٌ مُضادٌّ للالْتِهاب)	cintazone
+سينتونين (بروتين حمضي في المعدة)	syntonin
+سينثاز [إنزيم]	synthase
+سينثازُ الثيميديلات [إنزيم]	thymidylate synthase
+سِينْجيستُول (مادَّةٌ بروجِسْتينِيَّة)	cingestol
+سِينرُوميد (دَواءٌ مُضادٌّ للاخْتِلاَج)	cinromide
+سينكائين ( هيدروكلوريدُ البروكائين)	syncaine (procaine hydrochloride)
+سينكالين (كولين)	sinkaline (choline)
+سينكروترون (جهاز توليد الالكترونات السريعة)	synchrotron
+سِينْكُوفين (دَواءٌ مُسَكِّنٌ وَمُضادٌ للحُمَّى)	cinchophen
+سِينْكُونِيدين (دَواءٌ مُضادٌّ لِلمَلاَرْيا)	cinchonidine
+سِينْكُونين (دَواءٌ مُضادٌّ لِلمَلاَرْيا)	cinchonine
+سينُوزيد (غليكوزيد مسهل من نبات السنا)	sennoside
+سينوفين	synovin
+سِينُوكزات (مادَّةٌ حاجِبَةٌ لِلأَشِعَّةِ فَوقَ البَنَفْسَجِيَّة)	cinoxate
+سِينُوكزاسين (مُضادٌّ لِلجَراثيم)	cinoxacin
+سينومينين (قلواني نباتي المنشأ)	sinomenine
+سِينُومِينين (مركب قلواني)	cucoline (sinomenine)
+سينُومينين [نبات]	coculine (sinomenine)
+سِينِيّ	sigmoid
+سينِيٌّ مَثانِيّ	sigmoidovesical
+سينيبازيت (دَواءٌ مُوَسِّعٌ لِشَرايينِ القَلْب)	cinepazet
+سينيجِيُنين (مستخلص نباتي ذو خواص مقيئة و طاردة للبلغم)	senegenin
+سينِيسيفُولين (قلواني سام نباتي المصدر)	senecifolin
+سينيفنغين (دواء مضاد للفطور)	sinefungin
+سينيول ( يُوكالِيبْتُول) (دواء طارد للبلغم)	cineol (eucalyptol)
+سيوبين	cyopin
+سَيُوبين (مادة زرقاء في القيح)	cyopin
+سُيوح	excursion
+سُيوحٌ تَبارُزِيّ (للفكين)	protrusive excursion
+سُيوحٌ تَراجُعِيّ (للفكين)	retrusive excursion
+سُيوحٌ تَنَفُّسِيّ	respiratory excursion
+سُيُوْحٌ جَانِبِيٌّ (للفك)	lateral excursion
+سُيوحٌ جانِبِيّ (للفكين)	lateral excursion
+سُيوحِيّ	excursive

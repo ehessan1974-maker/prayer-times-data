@@ -1,0 +1,1104 @@
+ثُؤْلول	thymion / verruca / verruga / wart
+ثُؤْلول [ج:ثآليل] (اندفاع جلدي ثؤلولي مسطح)	verruca [pl.verrucae]
+ثُؤْلُول أَخْمَصِيّ	plantar wart / plantar wart (verruca plantaris) / verruca plantaris
+ثُؤْلولٌ إِصْبَعِيّ	verruca digitata
+ثُؤْلولُ البيرو ( داء البارتونيلات)	verruca peruana (bartonellosis)
+ثُؤْلولُ التَّوَسُّعِ الوِعائِيّ	telangiectatic wart
+ثُؤْلولُ الماشِيَة	cattle wart
+ثُؤْلول بَذْرِيٌّ ( ثُؤْلول)	seed wart (verruca)
+ثُؤْلولُ بيرو	peruvian wart / verruga peruana
+ثُؤْلولٌ تَشْريحِيّ ( سُلٌّ جِلْدِيٌّ ثُؤْلوليّ)	anatomical wart (tuberculosis verrucosa cutis) / prosector's wart (tuberculosis verrucosa)
+ثُؤْلولٌ جُثِّيّ ( سُلٌّ جِلْدِيٌّ ثُؤْلوليّ)	postmortem wart (tuberculosis verrucosa cutis)
+ثُؤْلولٌ خَيطِيُّ الشَّكْل	verruca filiformis
+ثُؤْلولٌ راحِيّ	palmar wart
+ثُؤْلولٌ رَطْب ( وَرَمٌ لُقْمِيٌّ عَريض)	moist wart (condyloma latum)
+ثُؤْلولٌ زُجاجِيّ	vitreous wart
+ثُؤْلولٌ سُخامِيّ ( سَرَطانُ مُنَظِّفي المَداخِن)	soot wart (chimney-sweeps cancer)
+ثُؤْلولٌ سُلِّيٌّ ( سُلٌّ جِلْدِيٌّ ثُؤْلوليّ)	tuberculous wart (tuberculosis verrucosa cutis)
+ثُؤْلولٌ شائِع	verruca vulgaris
+ثُؤْلولٌ شَيخُوخِيّ	senile wart / verruca senilis
+ثُؤْلولٌ عَدْوائِيّ	infectious wart
+ثُؤْلولٌ فَيْروسيّ	viral wart
+ثُؤْلولٌ لَيِّن	soft wart
+ثُؤْلولٌ مُؤَنَّف ( وَرَمٌ لُقْمِيٌّ مُؤَنَّف)	acuminate wart (condyloma acuminatum) / pointed wart (condyloma acuminatum)
+ثُؤْلولٌ مَثِّيّ	verruca seborrheica
+ثُؤْلولٌ مَثِّيّ ( تَقْرانٌ مَثِّيّ)	seborrheic wart (seborrheic keratosis)
+ثُؤْلولٌ مُخاطِيٌّ جِلْدِيّ	mucocutaneous wart
+ثُؤْلولٌ مُزَيَّق	mosaic wart
+ثُؤْلولٌ مُسَطَّح	plane wart (verruca plana) / verruca plana
+ثُؤْلولٌ مُسَطَّحٌ شَيخوخِيّ	verruca plana senilis
+ثُؤْلولٌ مُسَطَّحٌ يَفْعِيّ	verruca plana juvenilis
+ثُؤْلولٌ مُصْطَبِغ	pigmented wart
+ثُؤْلُولٌ مُعَنَّق	acrochordon
+ثُؤْلولٌ مَنْقُوْلٌ جنسيَّاً ( وَرَمٌ لُقْمِيٌّ مُؤَنَّف)	venereal wart (condyloma acuminatum)
+ثُؤْلولٌ ناخِر	necrogenic wart / verruca necrogenica
+ثُؤْلولٌ يَفَعِيّ ( ثُؤْلولٌ مُسَطَّح)	juvenile wart (verruca plana)
+ثُؤْلوليّ	verrucous / warty
+ثُؤْلوليُّ الشَّكْل	verruciform / verrucoid
+ثابِتُ الحَرارَة	hematothermal (homothermic) / homeotherm / homeothermal (homeothermic) / homoiotherm (homeotherm) / homoiothermal (homeothermal) / homoiothermic (homeothermic) / homotherm (homeotherm) / homothermal (homeothermal) / homothermic (homeothermic) / synthermal (isothermic)
+ثابتُ الماء	hydrostabile
+ثَابِت بِالحرَارَة	heat-stable
+ثابِتُ رَفْعِ نُقْطَةِ الغَلَيان	boiling point elevation constant
+ثَابِتَة	constant
+ثابِتَة [ج:ثَوابِت]	constant
+ثابِتَةُ آفُوغادْرُو (عدد الجزيئات في مول من المادة)	Avogadro's constant
+ثابِتَةِ أفوكادرو	Avogadro constant
+ثابِتَةُ الانْتِشار	diffusion constant
+ثابِتَةُ التَّثَفُّل	sedimentation constant
+ثابِتَةُ التَّجاذُب	constant of gravitation / gravitational constant
+ثَابِتة التَّشَرُّد	ionization constant
+ثابِتَةُ التَّفارُق	dissociation constant
+ثابِتَةُ التَّلاشي (للمواد المشعة)	decay constant / disintegration constant
+ثابِتَةُ التَّوازُن	equilibrium constant
+ثابِتَةُ الحُموضَة	acid constant
+ثَابِتَة العَزْل الكَهْرَبَائِيّ	dielectric constant
+ثابِتَةُ الكَمّ	quantum constant
+ثابِتَةُ النَّشاطِ الإِشْعاعِي	radioactive constant
+ثابِتَةُ اليُورْيا	urea constant
+ثابِتَةُ آمْبار (في دراسة وظيفة الكلية)	Ambard's constant
+ثابِتَةُ بلاَنك (في نظريةالكم)	Planck's constant
+ثابِتَةٌ تَرابُطِيَّة	association constant (binding constant) / binding constant
+ثابِتَةُ سُرْعَةِ النُّمُو	growth rate constant
+ثابِتَةُ فارادِي (كهرباء)	Faraday's constant
+ثابِتَةُ مُخَلِّلِ الكَهْرَباء	dielectric constant
+ثابِتَةٌ مُطْلَقَة	absolute constant
+ثابِتَةُ ميخائِيلِيس	Michaelis constant
+ثابِتَةُ نيوتُن للتَّجاذُب	Newtonian constant of gravitation
+ثابِتَةُلابيك [كهرباء]	Lapicque's constant
+ثَأْثاء	lisper
+ثَأْثَأَة (لَثْغَةُ السِّيْن)	lisping (parasigmatism)
+ثاقِب	perforans / perforating / terebrant (terebrating) / terebrating
+ثاقِب [أسنان]	drilling
+ثاقب الجمجمة	diaclast
+ثاقِباتُ الجِلْد (فَصيلَةٌ مِنَ الذُّباب)	Cuterebridae
+ثاقِبَةُ الجِلْد (جِنْسٌ مِنَ الذُّباب)	Cuterebra
+ثاقِبَةُ قِحْفِ الجَنين	transforator
+ثاقُوب	perforator
+ثالاسين (مادة سامة)	thalassin
+ثَالِث فُوسْفَات الأَدِينُوزِين	adenosine triphosphate
+ثالِثَةُ الحَمْل	tertigravida (gravida III)
+ثالِثِيّ	tertiary
+ثالوث	trilogy
+ثالوثُ الانْضِغاطِ الحادّ (للقلب)	acute compression triad
+ثالوثُ اِلْتِهابِ السَّحايا	meningitic triad
+ثالوثُ العَضَلَةِ الهَيكَلِيَّة	triad of skeletal muscle
+ثالوثُ المَخْروطِ الشَّبَكِيّ	triad of retinal cone
+ثالوثُ آندرسون	Andersen's triad
+ثالوثُ أوسلر	Osler's triad
+ثالوثٌ بابِيّ	portal triads
+ثالوثُ بازودف	Basedow's triad
+ثالوثُ بك	Beck's triad
+ثالوثُ بيزولد	Bezold's triad
+ثالوثُ ديولافوا	Dieulafoy's triad
+ثالوثُ سينت	Saint's triad
+ثالوثُ شاركو	Charcot's triad
+ثالوثُ شولتز	triad of Schultz
+ثالوثُ غرانشر	Grancher's triad
+ثالوثُ فالتا	Falta's triad
+ثالوثُ فالوت	trilogy of Fallot
+ثالوثُ كارتاجينر	Kartagener's triad
+ثالوثٌ كَبِدِيّ	hepatic triad
+ثالوثٌ لُبِّيٌّ كُظَرِيّ	adrenomedullary triad
+ثالوثُ لوتشياني	triad of Luciani
+ثالوثُ مرسيبورغ	Merseburg triad (Merseburger triad)
+ثالوثُ هَتشِنسُون	Hutchinson's triad
+ثالوثُ هويبل	Whipple's triad
+ثالوثُ هيرتز	triad of Herz
+ثَالِيدُومِيد	thalidomide
+ثاليدوميد (دواء مسكن يسبب تشوه الأجنة)	thalidomide
+ثَآليل [ف:ثُؤْلول]	verrucae [sing.verruca]
+ثَآليلُ القار	pitch warts
+ثَآليلُ فَرْجِيَّة	vulval warts
+ثَآليلُ هاسَّال-هنلي (في الشيوخ)	Hassall-Henle warts
+ثَاليُوم	thallium
+ثامِر	frugivorous
+ثامِر (مُقْتاتٌ بِالثِّمار)	fructivorous / fruitarian
+ثامِرِيَّة	fruitarianism
+ثامِنَةُ الحَمْل	octigravida
+ثانَوِيّ	deuteropathic / secondary
+ثَانَوِيَّات ( نَقَائِل)	secondaries (metastasis)
+ثَانِي أُكْسِيد الكَرْبُون	carbon dioxide
+ثانِيَةُ الحَمْل	secundigravida
+ثَانِيَةُ الوِلاَدَة	secundiparous
+ثايميثافان	thimethaphan camphorsulfonate
+ثايهيكسينول (دواء مضاد للمفعول الكوليني)	thihexinol
+ثَبات	constancy / immobility / stability
+ثَباتُ الأَبْعاد	dimensional stability
+ثَباتُ الحَرارَة	homeothermism / homeothermy / homoiothermism / homoiothermy (homeothermy)
+ثَباتُ الطُّول (العَضَلِيّ) ( الحَالَةُ الإِسْوِيَّةُ القِيَاس)	metrostasis (isometric state)
+ثَبَات طَوِيل الأَمَد	long term stability
+ثَبَات قَصِير الأمَد	short-term stability
+ثبت	fix
+ثخانة القرنية	pannus
+ثَخَانَةُ النِّصْف	half-thickness
+ثِخَنٌ	thickness
+ثِخَن (سابقة)	pachy
+ثِخَنُ الأَصابِع	pachydactylia / pachydactyly
+ثِخَنُ الأَظُفار	pachonychia (pachyonychia) / pachyonychia / pachyonychosis
+ثِخَنُ الأَظْفارِ الخِلْقِيّ	pachyonychia congenita
+ثِخَنُ التَّلاَفيف ( ضَخامَةُ التَّلاَفيف)	pachygyria (macrogyria)
+ثِخَنُ الجَفْن	pachyblepharon / pachyblepharosis
+ثِخَنُ الجِلْد	pachyderma / pachydermia / pachyhymenia / pachymenia
+ثِخَنُ الجِلْدِ الثُّؤلوليّ	pachyderma verrucosa
+ثِخَنُ الجِلْدِ القَذالِيّ	occipital pachydermia
+ثِخَنُ الجِلْدِ المُتَحَدِّد	pachyderma circumscripta
+ثِخَنَ الجِلْدِ وَتَعَظُّمُ السِّمْحاق	pachydermoperiostosis / pachyperiosteoderma
+ثِخَنُ الرَّأْس	pachycephalia / pachycephaly
+ثِخَنُ الشِّفاه	pachycheilia
+ثِخَنُ العِظام	pachyostosis
+ثِخَنُ اللِّسان	pachyglossia
+ثِخَنُ المُخاطِيَّة	pachymucosa
+ثِخَنُ المُخاطِيَّةِ الأَبْيَض ( الطَّلَوان)	pachymucosa alba (leukoplakia)
+ثِخَنُ النِّهايات	acropachy
+ثِخَنُ جِلْدِ الفَم	pachyderma oris
+ثِخَنُ جِلْدِ النِّهايات	acropachyderma
+ثِخَنُ صِيْوَانِ الأَذُن	pachyotia
+ثِخَنُ مُخاطِيَّةِ الحَنْجَرَة	pachyderma laryngis
+ثِخَنُ مُخاطِيَّةِ المَثانَة	pachyderma vesicae
+ثِخَنُ نِهاياتِ الأَطْراف	pachyacria
+ثَخين	pachyntic / thick
+ثَخينُ الأَصابِع	pachydactylous
+ثَخينُ الأَقْدام	pachypodous
+ثَخينُ الجِلْد	pachydermatous / pachydermic
+ثَخينُ الرَّأْس	pachycephalic / pachycephalous
+ثَخينُ الشَّعْر	pachytrichous
+ثَخينُ الفَكّ	pachygnathous
+ثَخِيْنُ الكْرُوماتين	pachychromatic
+ثُدَاء	mastosis
+ثُدَائي	mastotic
+ثدي	breast / breast; chest / mamma / mamma; mammary papilla
+ثَدْيّ [ج:أَثْداء]	mamma NA [pl.mammae]
+ثَدْيٌ إِبْطِيّ	axillary breast
+ثَدْيٌ بَارِزُ الهالَة	mamma areolata
+ثدي حافل	breast, engorged = breast engorgement
+ثَدْيٌ ذَكَرِيّ	mamma masculina NA / mamma virilis (mamma masculina)
+ثَدْيٌ ذو كُيَيسات (اعْتِلاَلُ الثَّدْيِ الكيسِيّ)	shotty breast (cystic mastopathy)
+ثَدْيٌ سُلاَقِيّ	thrush breast
+ثَدْيٌ في بَادِرَةِ المَرَض	proemial breast
+ثَدْيٌ مُتَكَتِّل (الْتِهابُ الثَّدْيِ الرُّكودِيّ)	caked breast (stagnation mastitis)
+ثدي مُدلّى	breast, pendulous
+ثَدْيٌ مُصاب ( خُراجُ الثَّدْي)	broken breast (mammary abscess)
+ثَدْيٌ هَيوج (? أَلَمُ الثَّدْيِ العَصَبِيّ)	irritable breast
+ثَدْياء	mastous
+ثَدْيِيّ	mammal / mammo
+ثَدْيِيّ (أَحَدُ الثَدْيِيَّات)	mammiferous
+ثَدْيِيّ (سابقة)	mammary
+ثَدْيِيُّ الشَّكْل	mammiform
+ثَدِييات (ال...)	mammals
+ثدييّات، ضرعيات، لبونات	mammalias; mammals
+ثَرّ	fluor
+ثَرٌّ أَبْيَض	fluor albus (leukorrhea) / leucorrhoea / leukorrhea
+ثَرٌّ أَبْيَضُ دَوْرِيّ ( ثرٌّ أَبْيَضُ طَمْثِيّ)	periodic leukorrhea
+ثَرٌّ أَبْيَضُ طَمْثِيّ	menstrual leukorrhea
+ثَرٌّ أَبْيَضُ غَزير	leukorrhagia
+ثَرٌّ إِحْليليّ	medorrhea / urethrorrhea
+ثَرٌّ أُذُنِيّ	otorrhea
+ثَرٌّ أُذُنِيٌّ بالسَّائِلِ النُّخاعِيّ	cerebrospinal fluid otorrhea
+ثَرٌّ أُذُنِيٌّ قَيحِيّ	otopyorrhea / pyotorrhea (otopyorrhea)
+ثَرٌّ إِفْرَازِيّ	succorrhea
+ثَرُّ الأَنْفِ التَّذَوُّقِيّ	gustatory rhinorrhea
+ثَرُّ البرُوسْتاتَة	prostatorrhea
+ثَرُّ البَلْغَمِ القَصَبِيّ	bronchoblennorrhea
+ثَرٌّ أَلْبومينِيّ	albuminorrhea
+ثَرُّ الحَنْجَرَة	laryngorrhea
+ثَرُّ الرَّحِم	metrorrhea
+ثَرُّ السَّائِلِ النُّخاعِيِّ مِنَ الأَنْف	cerebrospinal rhinorrhea
+ثر السكر	glycorrhea
+ثَرُّ الصَّفْراء	cholaneresis
+ثَرُّ العُصارَةِ المَعِدِيَّة	gastrosuccorrhea
+ثَرُّ العُصارَةِ المَعِدِيَّةِ الهَضْمِيّ	digestive gastrosuccorrhea
+ثَرُّ العِقِي	meconiorrhea
+ثَرُّ القَولون	colonorrhea
+ثر الكتابة	graphorrhea
+ثَرُّ اللِّبَأ	colostrorrhea
+ثَرُّ اللَّبَن	galactorrhea / hyperlactation / lactorrhea (galactorrhea)
+ثَرُّ اللِّمْف	lymphorrhagia (lymphorrhea) / lymphorrhea
+ثَرُّ المَنِيّ	spermorrhea
+ثَرٌّ أَمُونياكيّ	ammonirrhea
+ثَرٌّ أَنْفِيّ	rhinorrhea
+ثَرٌّ أَنْفِيٌّ مُلَوَّن	chromorhinorrhea
+ثَرٌّ بُلْعومِيّ	pharyngorrhea
+ثَرٌّ جَنَبي ( اِنْصِبَابٌ جَنَبي)	pleurorrhea (pleural effusion)
+ثَرٌّ دَمْعِيٌّ مُدَمَّى	dacryohemorrhea
+ثَرٌّ رَحِمِيّ	hysterorrhea
+ثَرٌّ رَحِمِيٌّ أَبْيَض	metroleukorrhea
+ثَرٌّ سائِل	liquorrhea
+ثَرٌّ سِحائِيّ	meningorrhea
+ثَرٌّ سُرِّيّ	omphalorrhea
+ثَرٌّ سُكَّرِيّ	glycorrhea
+ثر سكري لعابي	glycosialorrhea
+ثرٌّ عَيْنِي	ophthalmorrhea
+ثَرٌّ غَثيثِيّ	ichorrhea
+ثَرٌّ غَزير	polyrrhea
+ثَرٌّ فِبْرينِيّ	fibrinorrhoea
+ثَرٌّ قَصَبِيّ	bronchorrhea
+ثَرٌّ قَضيبيّ	phallorrhea
+ثَرٌّ قَولونيّ	colorrhea
+ثَرٌّ كَبِدِيّ	hepatorrhea
+ثَرٌّ كولِيسْتيرولِيٌّ صَفْراوِيّ	cholesteroleresis
+ثَرٌّ كَيموسِيّ	chymorrhea
+ثَرٌّ لُعابِيّ ( إِلْعاب)	ptyalorrhea (ptyalism)
+ثَرٌّ مائِيّ	hydatorrhea (hydrorrhea) / hydrorrhea
+ثَرٌّ مائِيٌّ أَنْفِيّ	nasal hydrorrhea
+ثَرٌّ مائِيٌّ حَمْلِيّ	hydrorrhea gravidarum
+ثَرٌّ مُخاطِيّ	myxorrhea
+ثَرٌّ مُخاطِيٌّ مَعِدِيّ	gastric myxorrhea
+ثَرٌّ مُخاطِيٌّ مِعَوِيّ	myxorrhea intestinalis
+ثَرٌّ مُسْتَقيمِيّ	proctorrhea
+ثَرٌّ مَصْلِيّ	orrhorrhea
+ثَرٌّ مَعِدِيّ	gastrorrhea
+ثَرٌّ مَعِدِيٌّ مُخاطِيّ	gastromyxorrhea
+ثَرٌّ مَنَوِيّ	gonacratia (spermatorrhea)
+ثَرٌّ مَهْبِلِيّ	colporrhea
+ثَرٌّ نَزْفِيّ	hemorrhea (hematorrhea)
+ثَرٌّ نَفيرِيّ	tuborrhea
+ثَرٌّ هُلاَبِيّ	lochiorrhagia / lochiorrhea (lochiorrhagia)
+ثَرْب	omentum
+ثَّرْبُ (...) الصَّغير	lesser omentum
+ثَّرْب (ال...)	epiplo-
+ثَّرْبُ (ال...) البنكرياسِيُّ الطَّحالِيّ	pancreaticosplenic omentum
+ثَّرْبُ (ال...) الطِّحالِيُّ المَعِدِيّ	gastrosplenic omentum
+ثَّرْبُ (ال...) الكَبير	greater omentum
+ثَرْبِيّ	epiploic / omental / omental; epiploic
+ثَرْبِيٌّ سُرِّيٌّ عَضَلِيّ	epiplosarcomphalous
+ثَرْثَرَة	catalogia (verbigeration) / lalorrhea (logorrhea) / panglossia / verbomania
+ثَرْثَرَةٌ هَذَيانِيَّة	verbigeration
+ثرميون (جسيم يحمل شحنة حرارية)	thermion
+ثُروب	omenta [sing.omentum]
+ثُروب (ف: ثَرْب)	epiploa
+ثُروب [ف:ثَرْب]	epiploa / omenta [sing.omentum]
+ثرومباز (ثرومبين)	thrombase (thrombin)
+ثرومبوبلاستين	thromboplastin
+ثرومبوبلاستينٌ خارِجِيّ	extrinsic thromboplastin
+ثرومبوبلاستينٌ داخِلِيّ	intrinsic thromboplastin
+ثرومبوبلاستينٌ نَسيجِيّ	tissue thromboplastin
+ثرومبوبويتين (من المواد المنظمة لتخثر الدم)	thrombopoietin
+ثرومبوتونين (سيروتونين)	thrombotonin (serotonin)
+ثرومبوسثينين (بروتين في الصفيحات)	thrombosthenin
+ثرومبوكسان (مادة محرضة للتخثر ومقبضة للأوعية)	thromboxane
+ثرومبوكيناز [إنزيم]	thrombokinase
+ثرومبين	thrombin
+ثرومبينٌ نَسيجِيّ	histothrombin
+ثَريد	pap
+ثُرَيَّة (مَجْموعَةُ عُقَدٍ لِمْفِيَّةٍ مُتَضَخِّمَة)	pleiades
+ثريوز (سكر مصاوغ للإريثروز)	threose
+ثريونين (حمض أميني)	threonine
+ثُعْبانِيّ	ophidic
+ثَعْلَب	fox
+ثَعْلَبَة	acomia / alopecie / phalacrosis (alopecia)
+ثَعْلَبَةُ الأَشِعَّةِ السينيَّة	roentgen alopecia / x-ray alopecia
+ثَعْلَبَةُ التَّشْعيع	radiation alopecia
+ثَعْلَبَةُ الداءِ المُوسِينِيّ	alopecia mucinosa
+ثَعْلَبَةُ الشَّدّ	traction alopecia
+ثَعْلَبَةٌ انْضَغاطِيَّة	pressure alopecia
+ثَعْلَبَةٌ بُقَعِيَّة	alopecia areata / ophiasis / pelade (alopecia areata)
+ثَعْلَبَةٌ تالِيَةٌ للوِلادَة (تَمَرُّطٌ تالٍ لِلْوِلادَة)	postpartum alopecia (postpartum defluvium)
+ثَعْلَبَةٌ خِلْقِيَّة	alopecia adnata (congenital alopecia) / alopecia congenitalis / congenital alopecia
+ثَعْلَبَةٌ دُخْنِيَّةٌ نَدْبِيَّة	miliary cicatricial alopecia
+ثَعْلَبَةٌ دَرْزِيَّةٌ خِلْقِيَّة	congenital sutural alopecia
+ثَعْلَبَةٌ دَنَفِيَّة	cachectic alopecia
+ثَعْلَبَةٌ دَوائِيَّة	drug alopecia
+ثَعْلَبَةٌ دَوائِيَّةُ المَنْشَأ	alopecia medicamentosa
+ثَعْلَبَةٌ دُوَيرِيَّة (= ثَعْلَبَةٌ نَدْبِيَّة)	alopecia orbicularis (=alopecia cicatrisata)
+ثَعْلَبَةٌ ذَكَرِيَّةُ الشَّكْلِ ( صَلَع)	androgenetic alopecia (calvities)
+ثَعْلَبَةٌ ذَكَرِيَّةُ الشَّكْل (صَلَع)	male pattern alopecia (calvities)
+ثَعْلَبَةٌ رَأْسِيَّةٌ شامِلَة	alopecia capitis totalis
+ثَعْلَبَةٌ رَضْحِيَّة	alopecia traumatica / traumatic alopecia
+ثَعْلَبَةٌ رَضْحِيَّةٌ هامِشِيَّة	alopecie marginale traumatique (marginal traumatic alopecia)
+ثَعْلَبَةٌ زُهريَّة	syphilitic alopecia (alopecia syphilitica)
+ثَعْلَبَةٌ سِلْزِيَّة (= ثَعْلَبَةٌ بُقَعِيَّة)	alopecia celsi (=alopecia areata)
+ثَعْلَبَةٌ سُمِّيَّة	alopecia toxica
+ثَعْلَبَةٌ شامِلَة	alopecia totalis (alopecia universalis) / alopecia universalis
+ثَعْلَبَةٌ شَيخوخِيَّة	alopecia senilis / senile alopecia
+ثَعْلَبَةٌ شِينْيُونِيَّة	alopecie du chignon (chignon alopecia) / chignon alopecia
+ثَعْلَبَةٌ فِيزْيُولُوجِيَّة	physiologic alopecia
+ثَعْلَبَةٌ قُرَاعِيَّة	favic alopecia
+ثَعْلَبَةٌ قَزَعِيَّة	ophiasic alopecia
+ثَعْلَبَةٌ كاذِبَة	pseudopelade
+ثَعْلَبَةٌ كَهْلِيَّة (= صَلَع)	alopecia presenilis (=calvities)
+ثَعْلَبَةٌ مُبْتَسَرَة	alopecia prematura
+ثَعْلَبَةٌ مُتَحَدِّدَة	alopecia circumscripta
+ثَعْلَبَةٌ مُتَعَمِّمَة	alopecia generalisata
+ثَعْلَبَةٌ مَثِّيَّة	alopecia seborrheica
+ثَعْلَبَةٌ مُحَدَّدَة (= ثَعْلَبَةٌ هامِشِيَّةٌ رَضْحِيَّة)	alopecia liminaris (=marginal traumatic alopecia)
+ثَعْلَبَةٌ مَصْحُوبَةٌ بأَعْراض	symptomatic alopecia (alopecia symptomatica)
+ثَعْلَبَةٌ مُكْتَسَبَة	alopecia acquisita
+ثَعْلَبَةٌ ميكانيكِيَّةُ السَّبَب (ثَعْلَبَةٌ رَضْحِيَّة)	mechanical alopecia (traumatic alopecia)
+ثَعْلَبَةٌ نُخالِيَّة (= ثَعْلَبَةٌ مَثِّيَّة)	alopecia pityroides (=alopecia seborrheica)
+ثَعْلَبَةٌ نُخالِيَّة (ثَعْلَبَةٌ مَثِّيَّة)	pityriasic alopecia (alopecia seborrheica)
+ثَعْلَبَةٌ نَدْبِيَّة	alopecia cicatrisata / cicatricial alopecia
+ثَعْلَبَةٌ هامِشِيَّة	alopecia marginalis / marginal alopecia
+ثَعْلَبَةٌ هامِشِيَّةٌ رَضْحِيَّة	marginal traumatic alopecia
+ثَعْلَبَةٌ وِراثِيَّة	hereditary alopecia
+ثَعْلَبَة؛حَاصَّة (فَقْدُ الشَّعْرِ المُوضَّع)	alopecia
+ثُغاء	aegobronchophony (egophony) / aegophony / capriloquism (egophony) / egobronchophony / egophony / egophony = egobronchophony / tragophonia (egophony) / tragophony
+ثُغاء شعبي	broncho-egophony
+ثُغاءٌ قَصَبِيّ	bronchoegophony / egobronchophony
+ثَغْرَة	gap
+ثَغْرَةُ الشِّقِّ الصِّبْغِيّ	chromatid gap
+ثَغْرَةُ الشِّقَّينِ الصِّبْغِيَّينِ المُتَناظِرَين	isochromatid gap
+ثَغْرة بوكدالك ( الفُرْجَةُ الجَنْبِيَّةُ الصِّفاقِيَّة)	Bochdalek's gap (hiatus pleuroperitonealis)
+ثَغْرَةٌ تَسَمُّعِيَّة (في قياس الضغط)	auscultatory gap
+ثَغْرَةٌ صامِتَة ( ثَغْرَةٌ تَسَمُّعِيَّة) (في قياس الضغط)	silent gap (auscultatory gap)
+ثَغْرَةٌ عَظْمِيَّةٌ هَوائِيَّة (في مُخَطَّطِ السَّمْع)	air-bone gap
+ثُغَيْرَة	stomatodeum (stomadeum)
+ثُغَيرَة [جنين]	stomadeum (stomodeum) / stomodeum
+ثُغَيرِيّ	stomodeal
+ثُفَالَة	sediment
+ثُفَالَة [ج:ثُفالاَت]	sediment
+ثُفَالَةٌ بَولِيَّة	urinary sediment
+ثُفَان	helosis / tylosis
+ثُفانٌ راحِيٌّ وأَخْمَصِيّ	tylosis palmaris et plantaris
+ثُفانٌ لِسانِيّ	linguae
+ثُفانٌ هَدَبِيّ ( ثُفانٌ جَفْنِيّ)	tylosis ciliaris
+ثُفانِيّ	tylotic
+ثُفْل (بقايا النبات المعصور)	marc
+ثَفَن	callus / clavus / corn / heloma / tyloma (callus)
+ثَفَن [ج:أَثْفان]	clavus [pl.clavi]
+ثَفَنُ المُلْتَحِمَة	tyloma conjunctival
+ثَفَنٌ خُصْوِيّ	orchidotyloma
+ثَفَنٌ صُلْب	heloma durum
+ثَفَنٌ قاسٍ	clavus durus
+ثَفَنٌ لَيِّن	clavus mollis / heloma molle
+ثَفَنٌ هِسْتيرِيّ (الإحساس بمسمار يدق في الرأس)	clavus hystericus
+ثَفَنَة (رُكْبَةُ الحِصان)	stifle
+ثَفَنِيّ	callosal / calloso; callosal;callous / callous
+ثَفَنِيٌّ حافُوِيّ	callosomarginal
+ثَفَنِيّ هامِشِيّ	callosomarginal
+ثَقَافِيٌّ اجْتِمَاعِيّ	socio-cultural
+ثَقافِيٌّ نَفْسِيّ	psychocultural
+ثَقالِيّ	gravistatic
+ثَقْب	foramen / foration / hole / perforation / terebration / transfixion / tresis (perforation)
+ثقب "لوشكا"	foramen, Luschka
+ثقب "ماجندي"	foramen, Magendie
+ثقب "مورجاني"	foramen, Morgagni's (morgagnian foramen)
+ثقب "مونرو"	foramen, Monro
+ثُقَب [ف:ثُقُوْب]	foramina [sing.foramen]
+ثُقَبُ أَصْغَرِ أَورِدَةِ القَلْب	foramina of smallest veins of heart / foramina venarum minimarum cordis NA
+ثَقْبُ الجَذْر	rhizodontrypy
+ثُقْبُ الحُزْمَة (أشعة)	beam hole
+ثَقْبُ الحَصاة	lithotresis
+ثقب الرأس	cephalotomy
+ثقب الساد	foramen, obturator = foramen, obturatum
+ثَقْبُ السِّنّ	odontotrypy
+ثَقْبُ القِحْف	sphenotresia / sphenotripsy
+ثُقْبُ القَوقَعَة	helicotrema / helicotrema NA
+ثُقَبُ اللَّوزَةِ الحَنَكِيَّة	foramina of palatine tonsil
+ثُقْبُ المِثْقَب	bur hole
+ثَقْبُ بيزولد (ثقب السطح الداخلي للعظم الخشائي)	Bezold's perforation
+ثَقْبٌ تَحْتَ الشَّفَة	sublabial perforation
+ثُقْبُ ثيبيسيوس (ثُقَبُ أَصْغَرِ أَورِدَةِ القَلْب)	foramina thebesii (foramina venarum minimarum cordis) / thebesian foramina (foramina venarum minimarum cordis)
+ثَقْبٌ جَذْرِيّ	radicular perforation
+ثَقْبٌ حَنَكِيّ	palatal perforation
+ثُقَبُ فيوسَّانس (ثُقَبُ أَصْغَرِ أَورِدَةِ القَلْب)	Vieussens' foramina (foramina venarum minimarum cordis)
+ثَقْبُ قِحْفِ الجَنين	transforation
+ثُقْبٌ مَشْطوب (انخفاض سني مشطوب الحوافي)	countersink
+ثَقْبٌ مِيكانيكِيّ	mechanical perforation
+ثُّقْبَة	foramen
+ثُقبَة (ال...) الثربيّة	epiploic foramen
+ثُقْبَة (ال...) الذَقْنِيّة	mental foramen
+ثُقُبَّة (ال...) العَجُزِيّة	sacral foramen
+ثُقْبَة (ال...) الفَكيِة	mandibular foramen
+ثُقبَة (ال...) المُغَذية	nutrient foramen
+ثقُبَّة (ال...) الوِدَاجِيّة	foramen jugulare
+ثُقبَة (ال...) الوَركية	sciatic foramen
+ثُقْبَة [ج:ثُقَب]	foramen NA [pl.foramina]
+ثُقْبَةٌ إِضافِيَّة	accessory foramen
+ثُقْبَةٌ اقْتِرانِيَّة	conjugate foramen
+ثُقْبَةُ الجَذْر (ثُقْبَةُ قِمَّةِ السِّنّ)	root foramen (foramen apicis dentis)
+ثُقْبَةُ الحِجاب (السَّرْجِيّ)	foramen diaphragmatis (sellae)
+ثُقْبَة الدَّبُوس	pinhole
+ثُقْبَةُ الشِّرْيانِ الفِقْرِيّ (ثُقْبَةُ النَّاتِئِ الفِقْرِيِّ المُسْتَعْرِض)	vertebroarterial foramen (foramen processus transversi vertebrarteriale NA)
+ثُقْبَةُ العَضَلَةِ القاطِعَة	incisive foramen
+ثُقْبَةُ العَظْمِ الجَبْهِيِّ العَوراء	foramen caecum ossis frontalis
+ثُقْبَةُ الغُضْرُوْفِ الدَّرَقِيّ	foramen thyroideum NA
+ثُقْبَةُ الفِقْرَةِ الرَّقَبِيَّة	cervical vertebral foramen
+ثُقْبَةُ الفَكِّ العُلْوِيّ (فُرْجَةُ الفَكِّ العُلْوِيّ)	maxillary foramen (hiatus maxillaris)
+ثُقْبَةُ القَناةِ العَجُزِيَّة (الفُرْجَةُ العَجُزِيَّة)	foramen of sacral canal (hiatus sacralis)
+ثُقْبَةُ اللِّسانِ العَوراء	foramen caecum linguae NA
+ثُّقْبَةُ الناتِئِ المُسْتَعْرِض	foramen processus transversi NA
+ثُقْبَةُ الوَريدِ الأَجْوَف	foramen venae cavae NA / vena caval foramen NA
+ثُقْبَةُ الوَريدِ الصَّافِن	foramen of saphenous vein
+ثُقْبَةُ باتشيوني (الثُّقْبَةُ الحِجابِيَّة)	foramen of Pacchioni (foramen diaphragmatis)
+ثُقْبَةُ باكيوني (الثُّقْبَةُ الحِجابِيَّة)	Pacchionian foramen (foramen diaphragmatis)
+ثُقْبَةُ بوتال ( الثُّقْبَةُ البَيضَوِيَّةُ القَلْبِيَّة)	Botallo's foramen (foramen ovale cordis)
+ثُقْبَةُ بوكداليك (الفُرْجَةُ الجَنْبِيَّةُ الصِّفاقِيَّة)	foramen of Bochdalek (hiatus pleuroperitonealis)
+ثُقْبَةُ بيشا ( صِهْريجُ الأَورِدَةِ الدِّمَاغِيَّةِ الكَبيرَة)	Bichat's foramen (cisterna venae magnae cerebri)
+ثُقُبَّة بين البُطينين	interventricular foramen
+ثُقْبَةُ جالينوس (للوريد القلبي الأمامي في الأذين الأيمن)	Galen's foramen
+ثُقْبَةُ جَذْرِ السِّنّ (ثُقْبَةُ قِمَّةِ السِّنّ)	foramen radicis dentis (foramen apicis dentis)
+ثُقبة حاجزيّة	septal defect
+ثُقْبَةٌ خُشَّائِيَّة	mastoid foramen
+ثُقْبَةٌ دِهْليزِيَّة	vestibular foramen
+ثُقْبَةُ دوفيرنيه (الثُّقْبَةُ الثَّرْبِيَّة)	Duverney's foramen (foramina epiploicum)
+ثُقْبَةٌ ذَقْنِيَّة	mental foramen
+ثُقْبَةُ رتزيوس (الفَتْحَةُ الوَحْشِيَّةُ للبُطَيْنِ الرَّابِع)	Retzius' foramen (apertura lateralis ventriculi quarti)
+ثُقْبَةُ ريفينوس (الثُّلْمَةُ الطَّبْلِيَّة)	rivinian foramen (incisura tympanica)
+ثُقْبَةُ ريفينيوس (الثُّلْمَةُ الطَّبْلِيَّة)	Rivinus foramen (incisura tympanica)
+ثَُقْبَةُ سبوندل (في الجنين)	Spondel's foramen
+ثُقْبَةُ سكاربا (الثُّقْبَةُ النَّاصِفَةُ لِلقَاطِعَةِ)	Scarpa's foramen (median incisor foramen)
+ثُقْبَةٌ سِنْخِيَّة	alveolar foramen
+ثُقْبَةٌ سِنِّيَّةٌ سُفْلِيَّة	inferior dental foramen
+ثُقْبَةُ شفالبه (الثُّقْبَةُ العَوراءُ لِلبَصَلَة)	Schwalbe's foramen (foramen caecum medullae oblongatae)
+ثُقْبَةٌ عَجُزِيَّة	sacral foramen
+ثُقْبَةٌ عَوراء	caecal foramen (foramen caecum NA) / foramen caecum NA
+ثُقْبَةُ فالوب (فُرْجَةُ نَفَقِ العَصَبِ الصَّخْرِيِّ الكَبير)	foramen of Fallopio (hiatus canalis nervi petrosi majoris)
+ثُقْبَةُ فايتبريخت (في مفصل الكتف)	Weitbrecht's foramen
+ثُقْبَةُ فيرَّان (فُرْجَةُ نَفَقِ العَصَبِ الصَّخْرِيِّ الكَبير)	Ferrein's foramen (hiatus canalis nervi petrosi majoris)
+ثُقْبَةُ فيزاليوس (في الجناح الكبير للوتدي)	foramen of Vesalius
+ثُقْبَةُ فيك دازير (الثُّقْبَةُ العَوراءُ لِلبَصَلَة)	foramen of Vicq d'Azyr (foramen caecum medullae oblongatae)
+ثُقْبَةُ فيك دازير العَوراء (ثُقْبَةُ البَصَلَةِ العَوراء)	foramen caecum of Vicq d'Azyr (foramen caecum. medullae oblongatae)
+ثُقْبَةُ قِمَّةِ السِّنّ	apical foramen of tooth / foramen apicis dentis NA
+ثُقْبَةٌ قِمِّيَّة	apical foramen
+ثُقْبَةُ كي و رتزيوس (الفُتْحَةُ الوَحْشِيَّةُ لِلبُطَينِ الرابِع)	foramen of Key and Retzius (apertura lateralis ventriculi quarti)
+ثُقْبَةٌ لُبِّيَّة (ثُقْبَةُ قِمَّةِ السِّنّ)	pulpal foramen (foramen apicis dentis)
+ثُقْبَةٌ لُقْمِيِّة	condylar foramen
+ثُقْبَةُ لوشكا (الفُتْحَةُ الوَحْشِيَّةُ لِلبُطَينِ الرابِع)	foramen of Luschka (apertura lateralis ventriculi quarti)
+ثُقْبَةُ ماجندي (الفُتْحَةُ الوَسَطِيَّةُ لِلبُطَينِ الرابِع)	foramen of Magendie (apertura mediana ventriculi quarti)
+ثُقْبَةٌ مِشْبَرِيَّة	emissary foramen
+ثُقْبَةٌ مُغَذِّيَة (للعظم)	foramen nutricium NA / nutrient foramen
+ثُقْبَةُ موران (الثُّقْبَةُ العَوْرَاءُ للِّسَان)	Morand's foramen (foramen cecum linguae)
+ثُقْبَةُ مونرو (الثُّقْبَةُ بَينَ البُطَينَات) (في الدِّماغ)	foramen of Monro (foramen interventriculare)
+ثُقْبَةُ ميبومية (ثُقْبَةُ اللِّسانِ العَوراء)	meibomian foramen (foramen cecum linguae)
+ثُقْبَةُ هارتيغان (في الفقرات القطنية للجنين)	Hartigan's foramen
+ثُقْبَةُ هوشكه (في الطبل الأذني)	Huschke's foramen
+ثُقُبَّة وِدَاجِيّة	jugular foramen
+ثُقْبَةُ وينسلُو (الثُّقْبَةُ الثَّرْبِيَّة)	foramen of Winslow (foramen epiploicum)
+ثِقَلُ السَّمْع	bradyacusia
+ثِقَلُ الكَلام	barylalia
+ثِقَلُ اللِّسان	baryglossia / bradyglossia
+ثِقَلُ النُّطْق	bradyarthria / bradylalia / bradyphasia (bradylalia)
+ثُقوبٌ عَجُزية أمَامِيّة	anterior sacral foramina
+ثُقَيبَة	foraminulum
+ثُقَيْبِيّ ؛ ذو ثُقَيبات	foraminulous
+ثَقيل	heavy
+ثُلاثُ الأَذْرُع [مسخ]	tribrachia
+ثُلاثُ الأَرْجُل	tripodia
+ثُلاَثُ الأَشْكال	trimorphism
+ثُلاثُ الأَصابِع	tridactylism
+ثُلاَثُ الأَلْوان	trichroism / trichromatic / trichromatism
+ثُلاثُ الأَهْداب	tristichia
+ثُلاَثُّ الأَيدي [مسخ]	tricheiria
+ثُلاَثُ التَّثَلُّم	tricrotism
+ثُلاثْ الخُصَى	triorchidism / triorchism
+ثُلاَثُ السُّلاَمَيات	triphalangia
+ثُلاثُ السَّواعِد [مسخ]	triantebrachia
+ثَلاثاً باليَوم	ter in die
+ثَلاَثَةُ أَرْباع	three-quarter
+ثَلاَثَةِ أَرْباعِ التَّاج	three-quarter crown
+ثُلاَثِيّ	triad; tri / triplex
+ثُلاَثِيُّ أَسيتاتِ الغلِيسيريل	glyceryl triacetate
+ثُلاثيُّ أسيتيل أولياندوميسين	triacetyloleandomycin
+ثُلاَثِيُّ أسيلِ الغليسرول	triacylglycerol
+ثُلاثيُّ أكسي البورين ( حَمْضُ اليوريك)	trioxypurine (uric acid)
+ثُلاَثِيُّ الأَتْلام	trisulcate
+ثُلاَثِيُّ الأَجْزاء	trifid
+ثَلاَثِيُّ الأَحْشاء	trisplanchnic
+ثُلاَثِيُّ الآذان [مسسخ]	triotus
+ثُلاَثِيُّ الأَذْرُع [مسخ]	tribrachius
+ثُلاَثِيُّ الأُذَينات	triatrial
+ثُلاَثِيُّ الأَرْكان	triquetrum
+ثُلاَثِيُّ الأَرومات	triploblastic
+ثُلاَثِيُّ الإِستر	triester
+ثُلاثيُّ الأَستين	triacetin
+ثُلاَثِيُّ الاسْم	trinomial
+ثُلاثِيُّ الأَسيتات	triacetate
+ثُلاَثِيُّ الأَشْكال	trimorphous
+ثُلاَثِيُّ الأَصابِع	tridactylous / tridigitate
+ثُلاَثِيُّ الأَقْسام	trichotomous / tripartite
+ثُلاثِيُّ الأُكْسيد	teroxide (trioxide) / trioxide
+ثُلاَثِيُّ الأَلْوان	trichroic / trichromic
+ثُلاَثِيُّ الأَمين	triamine
+ثُلاَثِيُّ الأَوجُه [مسخ]	triprosopus
+ثُلاثُيُّ الأُولئِين	olein
+ثُلاثِيُّ الأولين ( أولين)	triolein (olein)
+ثُلاَثِيُّ الأَيادِي (عمل طبي يحتاج إنجازه لأكثر من شخص واحد)	trimanual
+ثُلاَثِيُّ إلإِيثانولامين	triethanolamine
+ثُلاَثِيُّ الإِيثيلامين	triethylamine
+ثُلاَثِيُّ الإيثيلين ميلامين (مادة مؤلكلة)	triethylenemelamine
+ثُلاَثِيُّ الإيجابِيَّة	tripositive
+ثُلاثيُّ البالميتين ( بالميتين)	tripalmitin (palmitin)
+ثُلاَثِيُّ الببتيد	tripeptide
+ثُلاثيُّ البرومسالان (مطهر)	tribromsalan
+ثُلاثيُّ البروميد	tribromide
+ثُلاثيُّ البوتيرين (دسم يوجد في الحليب)	tributyrin
+ثُلاَثِيُّ التَّبادُل	trisubstituted
+ثُلاَثِيُّ التَّثَلُّم (نبض)	tricrotic
+ثُلاَثِيُّ التَّثَلُّمِ لهابِطَةِ النَّبْض	catatricrotic
+ثُلاَثِيُّ التَّشَعُّع	triradial (triradiate) / triradiate
+ثُلاَثِيُّ التَّكافُؤ	tervalent / trivalent
+ثُلاَثِيُّ الجُزَيئات	termolecular
+ثُلاَثِيُّ الجَسَد [مسخ]	somatotridymus
+ثُلاَثِيُّ الجَوانِب	trilateral
+ثُلاَثِيُّ الحُدَيبات	tritubercular
+ثُلاَثِيُّ الحَلَقات	tricyclic
+ثُلاَثِيُّ الحَمْض (قلوي يستطيع تعديل ثلاث مكافئات حمضية)	triacid
+ثُلاَثِيُّ الخُصَى	triorchid / triorchis
+ثُلاَثِيُّ الخَلاَيا	tricellular
+ثُلاَثِيُّ الذَّرات	triatomic
+ثُلاَثِيُّ الرُّؤوس [مسخ]	tri-iniodymus / tricephalus
+ثُلاَثِيُّ الزِّئْبَق	trimercuric
+ثُلاثيُّ الستيارين (في النسج الشحمية الصلبة)	tristearin
+ثُلاَثِيُّ السَّكَّاريد	trisaccharide
+ثُلاثِيّ السُكَّرِيد	trisaccharide
+ثُلاَثِيُّ السُّلاَمَيات	triphalangeal / triphalangism
+ثُلاَثِيُّ السِّلْبِيَّة	trinegative
+ثلاثي السلفابيريميدين	trisulfapyrimidines
+ثُلاَثِيُّ السَّلفات	trisulfate
+ثُلاَثِيُّ السلفيد	tersulfide (trisulfide) / trisulfide
+ثُلاَثِيُّ السِّياط	trimastigote
+ثُلاثِيّ الصفائح	trilaminar
+ثُلاَثِيُّ الصِّيغَةِ الصِّبْغِيَّة	triploid
+ثُلاَثِيُّ الطَّبَقات	trilaminar
+ثُلاَثِيُّ العُيون [مسخ]	triophthalmos
+ثُلاَثِيُّ الغليسريد	triglyceride
+ثُلاَثِيُّ الفُسفات	triphosphate
+ثُلاَثِيُّ الفُصوص	trilobate / trilobed / trilobed; trilobate
+ثُلاَثِيُّ القُرون	tricornute
+ثُلاَثِيُّ القَواعِد	tribasic
+ثُلاَثِيُّ الكالسيوم	tricalcic
+ثلاثي الكلوريد	terchloride (trichloride) / trichloride
+ثُلاَثِيُّ اللُّورين (في الزيوت النباتية)	trilaurin
+ثُلاثيُّ اللينولين (في الزيوت النباتية)	trilinolein
+ثُلاَثِيُّ الماء	trihydrol
+ثُلاَثِيُّ المَساكِن	trilocular
+ثلاثي المصاريع، مثلث الشرف	tricuspid
+ثُلاَثِيُّ المَناطِق	trizonal
+ثلاثي الميثيل زانثين (كافين)	trimethylxanthine (caffeine)
+ثلاثي الميثيلين (سيكلوبروبان)	trimethylene (cyclopropane)
+ثُلاَثِيُّ النِتْرات	ternitrate (trinitrate) / trinitrate
+ثُلاَثِيُّ النُّوكليوتيد	trinucleotide
+ثُلاَثِيُّ النَّوَى	trinucleate
+ثُلاَثِيُّ الهيدروجين	trihydric
+ثُلاَثِيُّ الهيدروكسيل	trihydrate / trihydroxide
+ثُلاَثِيُّ الوُجوه [مسخ]	triopodymus
+ثُلاثيُّ أَلِّيل الأَمين (مادة سائلة طيارة)	triallylamine
+ثُلاَثِيُّ اليوديد	triiodide
+ثُلاَثيُّ أوكسالين (لمعالجة البهاق)	trioxsalen
+ثُلاثيُّ بروم إيثانول (مخدِّر بالاستنشاق)	tribromethanol / tribromoethanol
+ثُلاثِيُّ بروميد الآلِّيل	allyl tribromide
+ثُلاَثِيُّ ساليسيلاَتِ المَغْنِزْيُومِ و الكولين	choline magnesium trisalicylate
+ثُلاثِيُّ سُلْفيدِ الأرسنيك	auripigment (arsenic trisulphide)
+ثُلاثِيُّ فُسْفاتِ الأَدينُوزين	adenosine triphosphate
+ثُلاَثِيُّ فُسْفاتِ الغوانُوزين	guanosine triphosphate (GTP)
+ثُلاثيُّ فينيل إيثيلين	triphenylethylene
+ثُلاَثِيُّ فينيل ميثان (صباغ من القطران)	triphenylmethane
+ثُلاثيُّ كلور أُحاديُّ الفلوروميثان (غاز يستخدم في تحضير الضَّبُوبات)	trichloromonofluoromethane
+ثُلاثيُّ كلورأسيتالدهيد ( كلورال)	trichloroacetaldehyde (chloral)
+ثُلاثيُّ كلورإيثيلين (مخدر استنشاقي)	trichloroethylene
+ثُلاثِيُّ كلورفون (دواء للبلهارسيات)	trichlorfon
+ثُلاثيُّ كلورميثازيد (دواء مدر)	trichlormethiazide
+ثُلاثيُّ كلورميثيل كلوروفورمات (غاز مخرش للرئة)	trichloromethylchloroformate
+ثُلاثيُّ كلورو ثُلاثيُّ فاينيل أرسين	trichlorotrivinylarsine
+ثُلاثيُّ كلوروفينول (مطهر خارجي)	trichlorophenol
+ثُلاثيُّ كلوروميثان	trichlormethane
+ثُلاثِيُّ كلوريدِ النِّتْروجين	nitrogen trichloride
+ثُلاثيُّ كيتوبورين ( حمض اليوريك)	triketopurine (uric acid)
+ثُلاثيُّ كيتوهيدريندين (كاشف)	triketohydrindene
+ثُلاثيُّ ميثيل أمين	trimethylamine
+ثُلاَثِيُّ نِتْراتِ الغلِيسيريل	glyceryl trinitrate
+ثُلاثيُّ نترو طولوين	trinitrotoluene
+ثُلاثيُّ نتروسيلولوز ( بيروزايلين)	trinitrocellulose (pyroxylin)
+ثُلاثيُّ نتروغليسرول ( نترو غليسيرين)	trinitroglycerol (nitroglycerine)
+ثُلاثيُّ نتروغليسرين ( نتروغليسيرين)	trinitroglycerin (nitroglycerine)
+ثُلاثيُّ نتروفينول (دواء مثبت للأنسجة وقابض)	trinitrophenol
+ثُلاثيُّ نتروكريزول (دواء مطهر شديد الانفجار)	trinitrocresol
+ثُلاَثِيُّ هيدروكسي إيسترين ( استريول)	trihydroxyestrin (estriol)
+ثُلاثَيُّ يودوثيرونين	triiodothyronine
+ثُلاثِيُّ يودوميثان	triiodomethane
+ثلاثية "شاركو"	Charcot's triad
+ثُلاَثِيَّةُ الأَسْنانِ الضَّئيلَة (جنس من الممسودات)	Triodontophorus diminutus (Terridens diminutus)
+ثُلاَثِيَّةُ البُؤَر (عَدَسَة)	trifocal
+ثُلاَثِيَّةُ الرُّؤوس [عضلة]	triceps
+ثُلاَثِيَّةُ الرُّؤوسِ الرَّبْلِيَّة	triceps surae
+ثُلاثِيَّةُ المَنْشَأّ	trialism
+ثَلاَّجَةٌ تعمل بالامْتِصاص	absorption refrigerator
+ثَلاجَة؛بَرَّاد	refrigerator
+ثَلاَسيميَّة	thalassanemia / thalassemia
+ثَلاسيمِيَّةُ الخَلِيَّةِ المِنْجَلِيَّة	sickle cell-thalassemia
+ثَلاسيمِيَّةُ الهيموغلوبين -C	hemoglobin C-thalassemia
+ثَلاسيمِيَّةُ الهيموغلوبين E	hemoglobin E-thalassemia
+ثَلاسيمِيَّةُ الهيموغلوبين S	hemoglobin S-thalassemia
+ثَلاسيمِيَّةُ صُغْرَى	thalassemia minor
+ثَلاسيمِيَّةُ كُبْرَى	thalassemia major
+ثَلاسيمِيَّةُ وُسْطَى	thalassemia intermedia
+ثُلاَماتٌ لانَموذَجِيَّة	atypical colobomas
+ثُلاَماتٌ نَموذَجِيَّة	typical colobomas
+ثُلاَمَة [ج:ثُلاَمات] (نقص خلقي في نسج العين)	coloboma [pl.colobomas, colobomata]
+ثُلاَمَةُ الجِسْمِ الهَدَبِي	ciliary body coloboma
+ثُلاَمَةُ الجَفْن	coloboma palpebrale / eyelid coloboma
+ثُلاَمَةُ الحَنَكِ العَظْمِيّ	uranocoloboma
+ثُلاَمَةُ الزُّجاجِيَّة	coloboma of vitreous
+ثُلاَمَةُ الشَّبَكِيَّة	coloboma of retina / coloboma retinae
+ثُلاَمِةُ العَدَسَة	coloboma lentis
+ثُلاَمَةُ العَصَبِ البَصَرِي	coloboma of optic nerve
+ثُلاَمَةُ القُرْصِ البَصَرِي	coloboma of optic disc
+ثُلاَمَةُ القُزَحِيَّة	coloboma iridis / coloboma of iris / iridocoloboma
+ثُلاَمَةُ المَشيمِيَّة (العَينِيَّة)	coloboma of choroid
+ثُلاَمَةٌ جِسْرِيَّة	bridge coloboma
+ثُلامَةٌ جَفْنِيَّة	blepharocoloboma
+ثُلاَمَةُ شَحْمَةِ الأُذُن ( ثُلاَمَةٌ فُصَيصِيَّة)	coloboma auriculae (coloboma lobuli)
+ثُلاَمَةٌ فُصَيصِيَّة (ثُلاَمَةُ شَحْمَةِ الأُذُن)	coloboma lobuli
+ثُلاَمَةُ فوكْس	Fuch's coloboma
+ثُلاَمَةٌ كاذِبَة (في العَين)	pseudocoloboma
+ثُلاَمَةٌ وَجْهِيَّة ( فَلَحٌ وَجْهِيّ)	facial coloboma (facial cleft)
+ثِلْث (حمى تعاود كل ثلاثة أيام)	tertian
+ثَلْج	snow
+ثَلْجُ ثُنَائِيِّ أُكسيدِ الكَربون	carbon dioxide snow
+ثَلْجِيّ	glacial
+ثُلَم [ف:ثُلْمَة]	incisurae NA [sing.incisura]
+ثُلَمُ لانترمان (ثُلَمُ لانترمان- شميت)	incisures of Lanterman
+ثُلْمَة	incisure / notch / scissura (incisura)
+ثُلْمَة (ال...) الحُقّية	acetabular notch
+ثُّلْمَةُ (ال...) الطَّبْلِيَّة	tympanic notch
+ثُلمَة (ال...) الوَركية	sciatic notch
+ثُلْمَة [ج:ثُلَم]	central incisor
+ثُلْمَةٌ أَبْهَرِيَّة ( ثُلْمَةٌ مُتَرادِفَة)	aortic notch (dicrotic notch)
+ثُلْمَةُ الأُذُنِ الأَمامِيَّة	auricular notch
+ثُلْمَةُ البَنْكرياس	incisura pancreatis NA
+ثُلْمَةُ الثُلاثِيِّ التَّوائِم	trigeminal notch
+ثُلمة الجفن الخلفية	coloboma, congenital, of lid
+ثُلْمَةُ الجَناحِيّ	incisura pterygoidea NA
+ثُلْمَةُ الجَوْفِ الحُقَّانِيِّ	notch of glenoid cavity
+ثُلْمَةُ الحُقّ	cotyloid incisure / incisura acetabuli NA / incisura glenoidalis NA / incisure of acetabulum
+ثُلْمَةُ الرِّباطِ المُدَوَّر	notch of ligamentum teres
+ثُلْمَةُ الرِّباطِ المُدَوَّر (الكَبِدِيَّة)	incisura ligamenti teretis NA
+ثُلمة الزَند	ulnar notch
+ثُلْمَةُ السُّرَّة	umbilical notch
+ثُلمة العصب البصري	coloboma of optic nerve
+ثُلْمَةُ العَظْمِ الصُّدْغِيِّ لذَاتِ البَطْنَين	digastric incisure of temporal bone
+ثُلْمَةُ العَقِبِيّ	incisure of calcaneus
+ثُلْمَةُ الفَكِّ السُّفْلِيّ	incisura mandibulae NA / incisure of mandible / mandibular notch
+ثُلْمَةُ القَصّ	sternal notch
+ثُلْمَةُ الكَتِف	incisura scapulae NA / incisure of scapula
+ثُلْمَةُ المَرارَة	notch of gallbladder
+ثُلْمَةٌ أَنْفِيِّة	nasal notch
+ثُلْمَةٌ أَوجِيَّة	incisura fastigii
+ثُلْمَةٌ جَناحِيَّةٌ فَكِّيَّةٌ عُلْوِيَّةٌ	pterygomaxillary notch
+ثُلْمَةُ خَيمَةِ المُخَيخ	incisura tentorii cerebelli NA / incisure of tentorium of cerebellum
+ثُلْمَةُ خَيمَةِ المُخَيخ (الثُّلْمَةُ الخَيمِيَّةُ المُخَيْخِيَّة)	incisure of cerebellum (incisura tentorii cerebelli NA)
+ثُلْمَةُ ذُرْوَةِ القَلْب	incisura apicis cordis NA / incisure of apex of heart
+ثُلْمَةُ ريفيني (الثُّلْمَةُ الطَّبْلِيَّة)	incisura Rivini (incisura tympanica)
+ثُلْمَةُ ريفينيوس (الثُّلْمَةُ الطَّبْلِيَّة)	Rivinus incisure (incisura tympanica)
+ثُلْمَةُ ريفينيوس (ثُلْمَةُ الطَّبْلَة)	notch of Rivinus (incisura tympanica)
+ثُلْمَةُ زاوِيَةِ المَعِدَة	incisura angularis gastris NA / incisura angularis ventriculi NA
+ثُلْمَةُ سانتوريني (الثُّلْمَةُ الأَمامِيَّةُ لِلأُذُن)	incisura Santorini (incisura anterior auris)
+ثُلْمَةُ سِبْسون (في أصمية القلب)	Sibson's notch
+ثُلْمَةٌ شِصِّيَّة ( ثُلْمَةٌ جَناحِيَّةٌ فَكِّيَّةٌ)	hamular notch (pterygomaxillary notch)
+ثُلْمَةُ صاعِدَةِ النَّبْض	anacrotic notch
+ثُلْمَةُ فُؤادِ المَعِدَة	cardiac incisure of stomach / incisura cardiaca gastris NA / incisura cardiaca ventriculi NA
+ثُلْمَةٌ قِحْفِيَّةٌ وَجْهِيَّة	craniofacial notch
+ثلمة قزحية	iridocoloboma
+ثُلْمَةٌ مُتَرادِفَة	dicrotic notch
+ثُلْمَةُ هابِطَةِ النَّبْض	catacrotic notch
+ثلُمة وِدَاجِيّة	jugular notch
+ثِمارِيٌّ خُضارِيّ	fructovegetative
+ثُمَالة	residue
+ثُمالَةُ الحَمْضِ الأَمينِيّ	amino acid residue
+ثُمَانِيٌّ	octal
+ثُمانيُّ أَسيتاتِ السَّكْروز	sucrose octaacetate
+ثُمانِيُّ الأَجْزاءِ أَوِ المَظاهِر	octoploid
+ثُمانِيُّ البِبْتيد	octapeptide
+ثُمانِيُّ التَّكافُؤ	octavalent
+ثُمانِيُّ الصِّيْغَةِ الصِّبْغِيَّة	octaploid
+ثُمانِيُّ الوُجوه	octahedron
+ثُمانِيُّ ميثيل البِيرُوفُسْفوراميد (مُبيدٌ حَشَرِيّ)	octamethyl pyrophosphoramide
+ثمانينيّ (شخص في العقد التاسع من العمر)	octogenarian
+ثُمانِيَّة (مجموعة من ثمانية عناصر متجانسة)	octet
+ثَمَرَةٌ بَوْغِيَّة	sporocarp
+ثَمَرَةٌ عِنَبِيَّة	uva
+ثِمْن (يتكرر كل ثمانية أيام)	octan
+ثُمْنِيَّة (ثُمْنُ الغالون) ( باينت)	octarius (pint)
+ثُنَائِيّ	binary / di- / dualistic
+ثُنائِيّ (سابقة)	bi
+ثُنَائِيّ (ة) القُطْب	dipolar
+ثُنائِيُّ أَسِيتِيل مُورفِين (دَواءٌ مُسَكِّن)	diacetylmorphine
+ثُنائِيُّ أُكسيد	dioxide
+ثُنائيُّ أُكسيدِ التيتانيوم (دواء جلدي)	titanium dioxide
+ثُنَائِيُّ أُكْسيدِ الكِبْرِيْت	sulfur dioxide
+ثنائِي أُكْسيدِ الكَرْبُون	carbon dioxide
+ثُنائِيُّ أُكْسيدِ النِّتْروجين	nitrogen dioxide
+ثُنائِيُّ الإِباضَة	diovulatory
+ثُنائِيُّ الأَجْزاء	dimerous
+ثُنائِيُّ الأَديم	didermal
+ثنائي الاسم	binomial
+ثُنائِيُّ الأَسْنَانِ	bidentate
+ثُنائِيُّ الأَسِيتات	diacetate
+ثُنائِيُّ الأَسِيتِيل	diacetyl
+ثُنائِيُّ الإِكْليل	bicoronial
+ثُنائِيُّ الآلِّيل	diallyl
+ثُنائِيُّ الأَميد	diamide
+ثُنائِيُّ الأَميدين	diamidine
+ثُنائِيُّ الأَمين	diamine
+ثُنائِيُّ الانْجِذاب	bitropic
+ثُنائيُّ الإيثازِين (دواء مناهض للكولينيَّات)	diethazine
+ثُنائِيُّ الإِيْجَابِيَّة	bipositive
+ثُنائِيُّ الإيلدرِين ؛ ديئِلْدرين (مُبيدٌ حَشَرِيّ)	dieldrin
+ثُنائِيُّ البُؤْرَة	bifocal
+ثُنائِيُّ البِبتِيد	dipeptide
+ثُنائِيُّ البُروترِيزُوات (مادَّةٌ ظَليلَةٌ عَلَى الأَشِعَّة)	diprotrizoate
+ثُنائِيُّ البروميد [كيمياء]	dibromide
+ثُنائِيُّ البُوتِيل	dibutyl
+ثُنائِيُّ البَوغ	disporous
+ثُنائِيُّ البُوَيْضَاتِ	bigerminal
+ثُنائِيُّ البِيبانُون (دَواءٌ مُسَكَّن)	dipipanone
+ثنائي البيض	diovulatory
+ثنائي البيضة	binovular
+ثُنائِيُّ البيفيفرين (دَواءٌ عَينِيٌّ نَاهِضٌ للأدرينيَّات)	dipivefrin
+ثُنَائِيُّ التَّثَلُّم	dicrotic
+ثنائي التحدب	biconvex
+ثنائي التسنين	bidentate
+ثُنائِيُّ التَسْنين (للسواقط وللدوائم)	diphyodont
+ثُنائِيُّ التَّعْصيب	diploneural
+ثُنائِيُّ التَّفَرُّع	dichotomous
+ثنائي التقعر	biconcave
+ثُنائِيُّ التَّكافُؤ	bivalent / divalent
+ثُنائِيُّ التَّمَوُّج	biundulant
+ثنائي الثقب	biforate
+ثُنائِيُّ الثُّقْب ؛ ذو ثُقْبَيْن	biperforate
+ثُنائِيُّ الثَّيازانِين (دَواءٌ طاردٌّ للديدان)	dithiazanine
+ثُنائيُّ الثَّيُول [كيمياء]	dithiol
+ثُنائِيُّ الجانِب	bilateral
+ثُنائِيُّ الجُزَيء	bimolecular
+ثُنائِيُّ الجِسْم	bicorporate
+ثنائي الجلسريد	diglyceride
+ثُنائِيّ الجِنْس	bisexual
+ثُنَائِيّ الحَدّ	dimer
+ثُنائِيُّ الحُزْمَة	bifascicular
+ثُنائِيُّ الخَلايا	bicellular
+ثُنائِيُّ الدَّارِج	bimodal
+ثنائي الذراع	dibrachius
+ثُنائِيّ الذَيل	bicaudate
+ثُنائِيّ الرَأْس	bicephalus
+ثنائي الرحم	didelphic
+ثُنائِيُّ الزَّوايا	biangular / binangle
+ثُنائِيُّ الزيجوت	dizygotic / dizygous
+ثُنائِيُّ السَّالِبِيَّة	binegative
+ثُنائِيُّ السَّكارِيد	disaccharide / disaccharose (disaccharide)
+ثُنَائِيّ السَّكَرِيد	disaccharide
+ثُنائِيُّ السَّلْفات	disulfate
+ثُنائِيُّ السَّلْفيد	disulfide
+ثُنائِيُّ السَّلْفِيرام (دَواءٌ لِعِلاَجِ الإِدْمانِ الكُحولِيّ)	disulfiram
+ثُنائِيُّ السَّلَى	diamniotic
+ثنائي السن	bidental
+ثُنَائِيُّ السيستئين (سِيسْتِين)	dicysteine (cystine)
+ثَنَائِيُّ الشُّرَفِ	bicuspal / bicuspidate
+ثنائي الشطف	bibevelled
+ثنائي الشق	bifid
+ثُنائِيُّ الشَّكْل	dimorphic / dimorphous
+ثُنائِيُّ الشَّكْلِ الحَيَوِيّ (كائن يمر بمرحلة طفيلية ولاطفيلية)	dimorphobiotic
+ثُنَائِيُّ الصَّفَائِحِ	bilaminar
+ثُنائِيُّ الصُّودْيُوم	disodium
+ثنائي الصيغة الصبغية	diploid
+ثُنائِيُّ الطَّبَقَات	bilayer / bistratal
+ثُنائِيُّ العَصَبُون	dineuric
+ثُنائِيُّ الغُرَف	bicameral
+ثُنَائِيُّ الغليسيريد (غليسيريد يشتمل على حمضين دهنيين)	diglyceride
+ثُنائِيُّ الفاينِيل	divinyl
+ثُنائِيُّ الفُتْحَة	biforate
+ثُنائِيُّ الفُسْفاتِيدِ أُحادِيُّ الأَمين	monoaminodiphosphatide
+ثُنائِيُّ الفَصّ ؛ ذو فَصًّيْن	bilobate
+ثُنائِيُّ الفُصَيص ؛ ذو فُصَيْصَيْن	bilobular / bilobulate
+ثُنائِيُّ الفُصَيص، ذو فُصَيْصَيْن	bilobulate; bilobular
+ثنائيّ الفَكَّيْن	bimaxillary
+ثُنائِيُّ الفِلِزّ	dimetallic
+ثُنائِيُّ الفِلْقَة	dicotyledon
+ثُنائِيُّ الفلُوانين (دَواءٌ مُنَبِّهُ للجَهازِ العَصَبِيِّ المَرْكَزِيّ)	difluanine
+ثُنائِيُّ الفلُوبرِيدنات (دَواءٌ مُضادٌّ للالْتِهاب)	difluprednate
+ثُنائِيُّ الفلُورازُون (دَواءٌ ستيُرويدِي جِلْدِيّ)	diflorasone
+ثُنائِيُّ الفلُوكُورتولُون (قِشْرانِيٌّ سُكَّرِيّ)	diflucortolone
+ثُنائِيُّ الفلُوميدون (دَواءٌ مُضادٌّ للالْتِهاب)	diflumidone
+ثُنائِيُّ الفلُونيزال (دَواءٌ مُسَكِّنٌ)	diflunisal
+ثُنائِيُّ الفَم	deuterostome
+ثُنائِيُّ الفوسِجين (غاز خانق)	diphosgene
+ثُنائيُّ الفينوكسامِيد (دَواءٌ مُضادٌّ للتَمَعُّجِ المِعَوِيّ)	difenoxamide
+ثُنائيُّ الفينوكسين (دَواءٌ مُضادٌّ للتَمَعُّجِ المِعَوِيّ)	difenoxin
+ثُنائِيُّ الفينيل	diphenyl
+ثُنائِيُّ القاعِدَةِ	bibasic / dibasic
+ثُنائِيُّ القُطْب	bipolar / dipolar (bipolar) / dipole
+ثُنائِيُّ الكالسيُوم	dicalcic
+ثُنائِيُّ الكَرْبُوكسِيل	dicarboxylic
+ثُنائِيُّ الكرومات	dichromate
+ثُنائِيُّ الكلُورهيدرِين	dichlorhydrine
+ثُنائِيُّ الكلُورِيد	dichloride
+ثُنائِيُّ الكلُورِيزُون	dichlorisone
+ثُنائِيُّ اللُّسَين	biligulate
+ثُنائِيُّ اللُّقْمَة	bicondylar
+ثُنائِيُّ المُحّ	bivitelline
+ثُنائِيُّ المِحْفَظَة	bicapsular
+ثُنائِيُّ المِحْوَر	biaxial
+ثُنائِيُّ المُذيب	dineric
+ثُنائِيُّ المَرْغَرين	dimargarin
+ثُنائِيُّ المِرْكابْرول (دواء خالب يستعمل لمعالجة الغازات السامة في الحروب)	dimercaprol
+ثنائي المركز	dicentric
+ثُنائِيُّ المَسْكَن ؛ ذو مَسْكَنَيْن	bilocular / biloculate
+ثُنائِيُّ المَسْكَن، ذو مَسْكَنَيْن	biloculation; bilocular
+ثُنائِيُّ المَشيماء	dichorionic
+ثُنائِيُّ المَشيماء [جنين]	dichorial
+ثنائي المشيمة	dichorionic
+ثُنائِيُّ المِصْراع	bivalve
+ثُنائِيُّ المَفْصِل	biarticulate / diarthric / diarticular (diarthric)
+ثُنائِيُّ المُكْنَة	bipotential
+ثُنَائِيّ المِنْوَال	bimodal
+ثُنائِيُّ الميثوكسانات (دَواءٌ مُضادٌّ لِلسُعال)	dimethoxanate
+ثُنائيُّ الميثيزوكين (بَنْجٌ مَوضِعِيّ)	dimethisoquin
+ثُنائِيُّ الميثيستيرون (مُرَكَّبٌ بروجِستِينيّ)	dimethisterone
+ثُنائِيُّ المِيثيكون (دواء مضاد للتهيُّج وماصّ لغازات الأمعاء)	dimethicone
+ثُنائِيُّ المِيثيكونِ المُنَشَّط	activated dimethicone
+ثُنائِيُّ الميثيندين (دَواءٌ مُضادٌّ للهِسْتامين)	dimethindene
+ثُنائِيُّ المِيفادان (دَواءٌ مُسَكِّن)	dimefadane
+ثُنائيُّ المِيفلِين (دَواءٌ مُنَبِّهٌ تَنَفُّسِيّ)	dimefline
+ثُنائِيُّ النِّتْرات	dinitrate
+ثُنائِيُّ النِترُوجِين	dinitrogen
+ثُنائِيُّ النَّمَط	amphitypy
+ثُنائِيُّ النَّواة	binuclear / binucleate
+ثُنائِيُّ النُّوكْلِيُوتيد	dinucleotide
+ثُنائِيُّ النُّوَيَّة	binucleolate
+ثُنائِيُّ الهوموسينكونين (مركب قلواني نباتي)	dihomocinchonine
+ثُنائيُّ الهيدرات	dihydrated
+ثُنائيُّ الهيدروجِين	dihydric
+ثُنائِيُّ الهيكسيفِيرِين (دواء مضاد للتَّشَنُّج)	dihexyverine
+ثُنائِيُّ اليوريا	diurea
+ثُنائِيُّ أَمين الأَكريدين (بروفلافِين)	diaminoacridine (proflavine)
+ثُنائِيُّ أمين فينيل سلفون (دابسُون)	diaminodiphenylsulfone (dapsone)
+ثُنائيُّ أوكسي بِنْزون (مادة واقية من الشمس)	dioxybenzone
+ثُنائِيُّ إيثيل أَمِينو إيثيل سِلُولُوز	DEAE-cellulose
+ثُنائيُّ إيثِيل بروبيون (دواء)	diethylpropion
+ثُنائيُّ إيثيل ترِيبتامِين (مادة مثيرة للهَلْوسة)	diethyltryptamine
+ثُنائِيُّ إِيثيل ستِيلْبوستيرول	diethylstilbestrol
+ثُنائيُّ إيثيل طُولْواميد (دواء مُنَفِّر للمَفْصِليات)	diethyltoluamide
+ثُنائيُّ إِيثِيل كاربامازِين (دواء مضاد لداء الفيلاريات)	diethylcarbamazine
+ثُنائيُّ إِيثِيلامِين	diethylamine
+ثُنَائِيّ بِبْتِيد	dipeptide
+ثُنائِيُّ بروموكيتون	dibromoketone
+ثُنائيُّ ثَيو ؛ ديثَيُو (الزُمْرَةُ - S2) [كيمياء]	dithio
+ثُنائِيُّ خَطَواتِ النُّمُوّ	diauxic
+ثُنائيُّ سلفونات الإنديغوتين [كيمياء]	indigotindisulfonate
+ثُنائِيُّ سَلْفيدِ الهيدْروجِين	hydrogen disulfide
+ثُنائِيُّ فُسْفاتِ الأَدينُوزين	adenosine diphosphate
+ثُنائِيُّ فُسفات الفركتوز	fructose diphosphate
+ثُنائِيُّ فُسْفاتِ النُّوكْليُوزيد	nucleosidediphosphate
+ثُنائِيُّ فُسفُوثيامِين	diphosphothiamin
+ثُنائِيُّ فينيل أمينو آزوبنزِين (مُشْعِرٌ كيمْيائِيّ)	diphenylamino-azo-benzene
+ثُنائِيُّ فينيل بيرالين (دَواءٌ مُضادٌّ للهِسْتامِين)	diphenylpyraline
+ثُنائِيُّ فينيل سيانارسِين (أحَدُ غازاتِ الحَرْبِ المُميتَة)	diphenylcyanarsine
+ثُنائيُّ فينيل كلورارسين (دَخينٌ سامٌّ مِنْ غازاتِ الحَرْب)	diphenylchlorarsine
+ثُنائِيُّ فينيل هيدانتوين (فينيتوِين)	diphenylhydantoin (phenytoin)
+ثُنائِيُّ فينيلامين (طارد للديدان في الطب البيطري)	diphenylamine
+ثُنائِيُّ فينيلامِين أَرْسين (دَخينٌ سامٌّ مِنْ غازاتِ الحَرْب)	diphenylaminearsine
+ثُنائِيُّ كرُوماتِ البُوتاسْيُوم	potassium dichromate
+ثُنائيُّ كلُورفُوس (مُبيدٌ للحشرات والديدان)	dichlorvos
+ثُنائي كلُورفِينامِيد (دَواءٌ للزَرَق)	dichlorphenamide
+ثُنائيُّ كلُورو ثُنائيُّ فلورو مِيثان	dichlorodifluoromethane
+ثُنائي كلُورو رُباعيُّ فلورو إِيتان (مادَّةٌ مُنَفِّرَةٌ للحَشَرات)	dichlorotetrafluoroethane
+ثُنائيُّ كلُوروأيزوبروتِيرِينُول (دَواءٌ لاضْطِرابِ نَظْم القلب)	dichloroisoproterenol
+ثُنائي كلُوروفورموكسِيم (أَحَدُ غازاتِ الحَرْبِ الخانِقَة)	dichloroformoxime
+ثُنائيُّ كلوروفِين (مُضادٌّ لِلدِّيدانِ في الحَيَوان)	dichlorophen
+ثُنائيُّ كلوريدِ الزِّئْبَق	hydrargyri bichloridum
+ثُنائِيُّ كِيتُوبيرازِين	diketopiperazine
+ثُنائيُّ ميثيل أسيتال (بَنْجٌ اسْتِنْشاقِيّ)	dimethylacetal
+ثُنائِيُّ ميثيل البنزين ( زَيلين)	dimethyl benzene (xylene)
+ثُنائِيُّ ميثيل الكيتون	dimethyl ketone
+ثُنائِيُّ ميثيلِ المورفين ( ثيبائين)	dimethyl morphine (thebaine)
+ثُنائِيُّ ميثيل أمِين (من نواتج تعفن الكائنات الحية)	dimethylamine
+ثُنائِيُّ ميثيل تريبتامِين (مشتق نباتي مُهَلْوِس)	dimethyltryptamine
+ثُنائِيُّ ميثيل سلفات (من الغازات السامة)	dimethyl sulfate
+ثُنائِيُّ ميثيل سَلفُوكسِيد	dimethyl sulfoxide
+ثُنائي ميثيل غُوانِيدِين	dimethylguanidine
+ثُنَائِيّ مِيثِيل فتَالاَت	dimethyl phthalate
+ثُنائيُّ ميثيل فتالات (دواء جلدي للدغ الحشرات)	dimethyl phthalate
+ثُنائيُّ ميثيل فسفِين	dimethylphosphine
+ثُنائِيُّ ميثيل فينانثرِين (مركب مسرطن)	dimethylphenanthrene
+ثُنَائِيّ ميثيل كاربينول (الكُحولُ الأَيزوبُروبِيلِيّ)	dimethylcarbinol (isopropyl alcohol)
+ثُنائيُّ ميثيل كِيتون (أسيتون)	dimethylketone (acetone)
+ثُنائِيُّ نِترُأمِينُوفِينُول (مادة سامة للدم)	dinitroaminophenol
+ثُنائِيُّ نِترُوبِنزِين (مادة خانقة)	dinitrobenzene
+ثُنائِيُّ نِترُورِيزُوسِينُول (في تحضير الأنسجة العصبية للدراسة)	Dinoflagellida
+ثُنائِيُّ نِترُوسِللُوز (أحد مكونات الكولوديون)	dinitrocellulose (pyroxylin)
+ثُنائِيُّ نِترُوفلُورُوبِنْزِين (مادة مؤرجة للجلد)	dinitrofluorobenzene
+ثُنائِيُّ نِترُوفِينُول (من مكونات الأصبغة)	dinitrophenol
+ثُنائِيُّ نِتروكرِيزُول (مبيد للهواء سام)	dinitrocresol
+ثُنائِيُّ نِتروكلُورُوبِنْزِين (مادة مؤرجة للجلد)	dinitrochlorobenzene
+ثُنائِيُّ نوُكليوتيدِ الأَدِنينِ و النِيكُوتِينامِيد	nicotinamide -adenine dinucleotide
+ثُنائِيُّ نوُكليوتيدِ الفلافين و الأدنين	flavin adenine dinucleotide
+ثُنائِيُّ هيدرو إيثيل ستيلبيستيرول	dihydroergocornine
+ثُنَائِيُّ هيدرو فوليكولين (استراديول)	dihydrofolliculin (estradiol)
+ثُنائِيُّ هيدرو كُودِين (دواء مخدِّر ومسكِّن ومُضادٌّ للسُعال)	dihydrocodeine
+ثُنائِيُّ هيدرو كودينون	dihydrocodeinone
+ثُنائِيُّ هيدرو كُولِيدِين	dihydrocollidine
+ثُنائِيُّ هيدروأرغوتامِين	dihydroergotamine
+ثُنائِيُّ هيدروأرغوكريبتين	dihydroergocryptine
+ثُنائِيُّ هيدروأرغُوكرِيستِين	dihydroergocristine
+ثُنائِيُّ هيدروأرغُوكُورنِين	dihydroergocornine
+ثُنائيُّ هيدروأورُوتاز	dihydroorotase
+ثُنائيُّ هيدروبرفيرِين	dihydroporphyrin
+ثُنائِيُّ هيدروتاكِيستِيرول	dihydrotachysterol
+ثُنائِيُّ هيدروتيستوستيرون	dihydrotestosterone
+ثُنَائِيُّ هيدروثيلين (إِسْتراديُول)	dihydrotheelin (estradiol)
+ثُنائِيُّ هيدروستريبتوميسين	dihydrostreptomycin
+ثُنائيُّ هيدروكسِي	dihydroxy-
+ثُنَائِيُّ هيدروكسي إسترين (إسْتراديُول)	dihydroxyestrin (estradiol)
+ثُنائِيُّ هيدروكسِي أسِيتون	dihydroxyacetone
+ثُنائِيُّ هيدروكسي الأَلوُمينيوم	dihydroxyaluminum
+ثُنائيُّ هيدروكسِي الفِيتامينِD3	diiodotyrosine
+ثُنَائِيُّ هيدروكسي فلوران (فلوروسئِين)	dihydroxyfluorane (fluorescein)
+ثُنائِيُّ هيدرُوكُودِين	drocode (dihydrocodeine)
+ثُنَائِيُّ هيدروكوليستيرول (كُولِيستانُول)	dihydrocholesterol (cholestanol)
+ثُنائيُّ هيدرول	dihydrol
+ثُنائيُّ هيدرولوتيدين	dihydrolutidine
+ثُنائيُّ هيدرومورفينُون	dihydromorphinone
+ثُنائِيُّ يودُو هيدروكسِيكِين	diiodohydroxyquin
+ثُنائي يُودُوتِيروزِين	diiodotyrosine
+ثُنائِيُّ يُودِيد	diiodide
+ثُنائِيَّاتُ السَّكارِيدِ المُخْتَزِلَة	reducing disaccharides
+ثُنائِيَّاتُ الفَم (طائِفَةٌ مِنَ حَقيقِيَّاتِ الجَوف)	Deuterostomia
+ثُنَائيَّة	dualism
+ثُنائِيَّةُ الأَديم	diaderm
+ثنائية الأصابع	didactylism
+ثُنَائِيَّةُ الأَصَابِعِ (وُجودُ إِصْبَعَينِ فَقَطْ فِي اليَد)	bidactyly
+ثنائية البطن	biventer
+ثُنائِيَّة الْبِلَّوْرِيَّة	dimorphism
+ثُنائِيَّةُ التَّكافُؤ	bivalence
+ثنائية الصوت	diphopnia
+ثُنائِيَّةُ الضَّخامَة (في النطاف)	dimegaly
+ثنائية القمة	dicrotism
+ثُنائِيَّةُ المِحْوار	diaxon / diaxone
+ثُنَائِيَّةُ المَسْكَن ؛ اِزْدِواجِيَّةُ المَسْكَن	biloculation
+ثُنائِيَّةُ المَعِدَة (جِنْسٌ مِنَ الديدانِ المُدَوَّرة)	Diplogaster
+ثُنائِيَّةُ المُكْنَة	bipotentiality
+ثُنائِيَّةُ المُكْنَةِ في الغُدَدِ التَّناسُلِيَّة	bipotentiality of the gonad
+ثُنَائِيَّةُ الهَيُولى [خلية]	diplasmatic
+ثُنائِيَّةُ الوِلاَدَة	secundipara
+ثُنَائِيَّةُ تَثَلُّم النَّبْض	dicrotism
+ثُنائِيَّةُ خَطَواتِ النُّمُوّ	diaxon
+ثَنَوِيّ (من يؤمن بمذهب الثنوية)	dualist
+ثَنْي	bend / flection (flexion) / flex / flexion
+ثِنْي (حامل للمرة الثانية)	deuteripara (secundipara)
+ثَنْيٌ أَخْمَصِيّ	plantar flexion / plantiflexion
+ثَنيٌ أمَامِيّ	anteflexion
+ثَنْيٌ جُزْئِيّ	semiflexion
+ثَنْيٌ للأمام	anteflect / anteflex (anteflect)
+ثَنْيٌ للدَّاخِل	introflexion
+ثَنْيٌّ مُفْرِط	overflexion
+ثِنْيات	plicae
+ثِنْيات (ال...) الدَائِرِيّة	plicae circularis
+ثِنْيات (ال...) الهِلالِيّة	plicae semilunaris
+ثَنْيات [ف:ثَنْيَة]	flexurae [sing.flexura] / plicae [sing.plica]
+ثَنْياتُ الغِلاَلَةِ المُخاطِيَّةِ للمَرارَة	plicae tunicae mucosae vesicae biliaris NA / plicae tunicae mucosae vesicae felleae NA
+ثنيات المستقيم	folds, rectal
+ثَنْياتٌ لِسانِيَّةٌ لِسَان-مِزْمَارِيَّة	glossoepiglottidean folds
+ثَنْياتٌ مِجْهَرِيَّة	microplicae
+ثنيتا الإبط	folds, axillary
+ثَنْيَة	flexure / flexure = flexura / fold
+ثنية ( طية )	fold
+ثَنْيَة [ج:ثَنْيات]	flexura NA [pl.flexurae] / plica NA [pl.plicae]
+ثَنْيَةُ الحَبْلِ الطَّبْلِيّ	plica chordae tympani NA
+ثَنْيَةُ العَصَبِ الحَنْجَرِيّ	plica nervi laryngei
+ثَنْيَةُ الوَريدِ الأَجْوَفِ الأَيْسَر	plica venae cavae sinistrae NA
+ثَنْيَةٌ رَحَوِيَّة	molar fold
+ثَنْيَة، طيّة	flexura; crease
+ثَنْيَوِيّ (متعلق بالثَّنْيَة)	flexural
+ثَواب	reward
+ثوجون (كيتون عطري يوجد في الزيوت)	thujone
+ثَور	bull; ox / ox
+ثوزالينون (دواء مضاد للاِكْتِئاب)	thozalinone
+ثَوْمٌ	allium sativum
+ثُومِيّ	alliaceous
+ثونزونيوم (دواء مُطَهِّر ومنظِّف)	thonzonium
+ثونزيلامين (دواء مضاد للهيستامين)	thonzylamine
+ثَوِيُّ الطُّفَيلِيّ	parasitifer
+ثَوِيٌّ تَمْرِيْريّ	paratenic
+ثَوِيٌّ مُتَوَسِّط	intermediate host
+ثيابندازول (دواء مضاد للديدان)	thiabendazole
+ثياديازيد (دواء مدر)	thiadiazide (thiazide)
+ثيازول (حلقة كيميائية خماسية تحوي النتروجين والكبريت)	thiazide
+ثيازيد (دواء مدر)	thiazide
+ثياسيتازون (دواء للسُّلِّ)	thiacetazone
+ثياسين ( إيرغوثيرين) (في بول مرضى السرطان)	thiasine (ergothioneine)
+ثيامازول (دواء لمعالجة فرط الدرقية)	thiamazole (methimazole)
+ثيَامفِينيكُول	thiamphenicol
+ثيامفينيكول (مضاد حيوي)	thiamphenicol
+ثياميلال الصوديوم (بنج سريع المفعول)	thiamylal sodium
+ثَيامين	aneurin (thiamin) / aneurine (thiamin)
+ثيامين ( الفيتامين B1)	thiamin (vitamin B1)
+ثيامين ( فيتامين B1)	thiamine (thiamin)
+ثياميناز [إنزيم]	thiaminase
+ثيامينيدين (دواء خافض للضغط)	tiamenidine
+ثيبائين (مركب مشابه للستريكنين)	thebaine
+ثيتا (الحرف الإغريقي الثامن)	theta
+ثيراترون [كهرباء]	thyratron
+ثيرام (مضاد موضعي للفطور)	thiram
+ثيرم (وَحْدَةٌ حَرارِيَّة)	therm
+ثيروكسين	thyro-oxyindole (thyroxine) / thyroxin / thyroxine / thyroxinum
+ثيروكسينٌ مُشِعّ	radioactive thyroxine
+ثيروكسين، درقين	thyroxine
+ثيروكسينيّ	thyroxinic
+ثِيرونِين (ال...) (الدَرقين) ثُلاثِيّ اليود	triiodothyronine
+ثيرونين (حمض أميني)	thyronine
+ثيرونين أيودي ( درقين يودي )	iodothyronine
+ثيفيناميل (دواء مضاد للمفعول الكولينيّ)	thiphenamil
+ثيموبويتين (هرمون توتي مؤثر على الخلايا اللمفية)	thymopoietin
+ثيموسين (بروتين توتي)	thymosin
+ثيموفورم (مسحوق مطهر)	thymoform
+ثيموفيدين (في الطيور)	thymovidin
+ثيمول	thymol
+ثيمولُ الفثالين (مشعر للحموضة وللقلوية)	thymolphthalein
+ثيمولُ سَلفونِ الفثالين	thymolsulphonphthalein
+ثيموهيدروكينون (يطرح في بول من تناول الثيمول)	thymohydroquinone
+ثيميديلات	thymidylate
+ثيميدين (نكليوتيد)	thymidine
+ثيمْيروسال (مطهر زئبقيّ)	thimerosal
+ثيمين ( ثيموبويتين)	thymin (thymopoietin)
+ثيمين (أحد القواعد النووية)	thymine
+ثينياساجيناتا، دودة الشريطية العزلاء(ال..)	teania saginata
+ثينياسوليوم، دودة الشريطية المسلحة(ال..)	teania solium
+ثينيل بيرامين (دواء مضاد للهيستامين)	thenylpyramine (methapyrilene)
+ثينيل ثُنائيِّ الأمين (دواء مهدىء ومسكن و مضاد للغثيان)	thenyldiamine
+ثيوأثير	thio ether
+ثيوأرسينيت (مركب عضوي يحوي الكبريت والزرنيخ)	thioarsenite
+ثَيوأَلبُومُوز	thioalbumose
+ثيوإيثيل أمين [كيمياء]	thioethylamine
+ثيوباربيتال (دواء مثبط للدرقية)	thiobarbital
+ثيوباربيتورات (دواء كابت للدرقية)	thiobarbiturate
+ثَيُوبروبوزات (في معالجة مرض هنتغتون)	thiopropazate
+ثيوبرومين (دواء منبه دوراني ومدر)	theobromine
+ثيوبيريدون (دواء مهدىء)	tioperidone
+ثِيُوبِينْتَال	thiopental
+ثَيُوبينتال (مخدر سريع)	thiopental
+ثَيُوبينتون ( ثيوبينتال)	thiopentone (thiopental)
+ثِيُوتِيبَا	thiotepa
+ثَيُوتيبا (دواء لمعالجة الأورام)	thiotepa
+ثيوتيبا (مادة مضادة للأورام)	triethylenethiophosphoramide (thiotepa)
+ثَيُوتيكسين (دواء مضاد للقلق)	thiothixene
+ثيوديفينيل أمين ( فينوثيازين)	thiodiphenylamine (phenothiazine)
+ثَيُورْيا الآلِّيل	allyl thiourea
+ثَِيُورِيدَازِين	thioridazine
+ثَيُوريدازين (دواء مهدىء ومضاد للذهان)	thioridazine
+ثَيُوزانثين (للمعالجات النفسية)	thioxanthene
+ثيوزين (في بول مرضى السرطان)	thiozine (ergothioneine)
+ثيوسابقة كيميائية بمعنى الكبريت (في مركب عضوي)	thio-
+ثَيُوسَلفات (أحد نواتج استقلاب السيستئين)	thiosulfate
+ثيوسَلفاتُ الصُّوديوم	sodium thiosulfate
+ثيوسيانات	thiocyanate
+ثَيُوسياناتُ البُوتاسْيُوم	potassium thiocyanate
+ثيوسياناتُ الصُّوديوم	sodium thiocyanate
+ثيوغلوكوز	thioglucose
+ثيوغلوكوزيداز [إنزيم]	thioglucosidase
+ثيوغوانين (دواء لإبيضاض الدم)	thioguanine
+ثيوفلافين (صبغ أصفر)	thioflavine
+ثيوفيلين (دواء موسع للقصبات ومدر)	theophylline
+ثيوكرباميد (ثيويوريا)	thiocarbamide (thiourea)
+ثَيُوكَرباميدُ الآلِّيل	allyl thiocarbamide
+ثيوكروم	thiochrome
+ثيوكيناز [إنزيم]	thiokinase
+ثيول (الجذرSH)	thiol
+ثَيول هيستيدين	thiolhistidine
+ثيولاز [إنزيم]	thiolase
+ثيولاز الأسيتوأستيل	acetoacetyl thiolase
+ثيولين (مادة بترولية)	theolin
+ثَيوميرسالات (مطهر زئبقي)	thiomersalate (thimerosal)
+ثيونئين ( إرغوثيونئين) (في بول مرضى السرطان)	thioneine (ergothioneine)
+ثَيُونيل (الجذر SO)	thionyl
+ثيونين (صبغ بنفسجي)	thionein
+ثيويوراسيل (دواء مضاد للدرق)	thiouracil
+ثيويوريا (دواء مضاد للدرق)	thiourea

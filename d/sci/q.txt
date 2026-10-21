@@ -1,0 +1,535 @@
+Q quality factor	عامِلُ الجُودَة
+Q- band	نطاق - Q
+Q-band	نِطاقُ الأمواج الراداريَّة (تردُّدها بين 36 وَ46 ڠَيْڠا هِرْتز)
+Q-banding	تشريط 'كيو'
+Q-demodulator	ألمُستَخْلِصُ التعامُدِيّ
+Q-electron	إلِكترونٌ سباعِيُّ العَدَدِ الكَمِّيّ الرئيسي، الكترون «كيو»
+Q-factor	عامِلُ الجُودة
+Q-Function	دالة كيو
+Q-gas	غازُ العَدّادات
+Q-gasoline	بِنزين عاديّ (الدرجة)
+Q-Learning	خوارزمية كيو
+Q-point = quiescent point	ألنُّقطةُ الساكِنَة، نُقطَةُ التعَطُّل
+Q-shell	ألغِلافُ الإلكترونيّ السَّابع
+Q-signal	إشارة تعامُديَّة؛ إشارة سُؤَالِيَّة
+Q-switching	فَتْحٌ لِيْزري للقُدرة العالية
+Q-value	طاقةُ التفَكُّك؛ قيمةُ «كيو»
+QAM	1 ترنيم مطالي تربيعي، 2 طريقة النفاذ الرتلي
+QBE	استفسار بمثال
+QED	وَهُوَ المَطْلوبُ إثْباتُهُ
+QED (quod erat demonstrandum)	وهو المطلوب إثباتُه
+QEF	وَهُوَ المَطْلوبُ عَمَلُهُ
+QEF (quod erat faciendum)	وهو المَطلوب عملُه
+QF guns (quick-firing guns)	مَدافعُ سريعةُ الطَّلقات
+quad	رُباعي؛ وَسَّعَ بالرَّقائق الفاصِلة
+quad antenna	هَوائيٌّ رُباعيّ
+quad cable	كَبْلٌ رُباعيّ
+Quad-grams	تسلسل من أربع كلمات
+quadbit	رباعية بتات
+quadra	قاعِدَة مربَّعة (لِمنَصَّةٍ أو جِدارٍ خَفيض)
+quadrangle	(شكلٌ) رُباعيّ (الزوايا) / شكل رباعي / رُباعِيُّ زَوايا
+quadrangular	رُباعيُّ الزوايا
+quadrangular prism	مَوْشورٌ رُباعِيُّ الزَّوايا
+quadrangular pyramid	مَخْروطٌ رُباعِيُّ الزَّوايا
+quadrant	رُبْعِيَّة، ذاتُ الرُّبْع؛ رُبْعُ دائرة؛ قِطاعٌ رُبعيٌّ غرانيتيّ (لِرَصْفِ الطرق) / ربع / ربعيّة / رُبع / رُبْعيَّة، رُبْع دائرة
+quadrant angles	زوايا ربعية
+quadrant dividers	فِرجارُ تَقسيم رُبْعِيّ
+quadrant electrometer	إلِكترومتر رُبْعِيّ
+quadrant of circle	ربع دائرة
+quadrant of plane	ربع مستوٍ
+quadrant rudder	دفّة ربعية
+quadrantal	رُبْعِيّ
+quadrantal (or reduced) bearing	اِتجاهٌ رُبْعِيّ
+quadrantal angle	زاويةٌ رُبعيَّة / زاوِيةُ رُبْعِ الدَّائِرة
+quadrantal deviation	اِنحِرافٌ رُبْعِيّ / انعطاف ربعي انحراف
+quadrantal points	النِّقاطُ الرُّبعيَّة (على البُوصَلَة)
+quadrantal spherical triangle	مُثَلّثٌ كُرَويّ رُبْعي / مُثَلَّثٌ كُرَوِيٌّ قائِم
+quadraphonics	الصوتيات الرُّباعية
+quadrat	رَقيقةٌ فاصِلَة (في الطباعة)
+quadrate	مُرَبَّعيّ؛ شِبْهُ مُرَبَّع؛ تَعَامَدَ؛ تطابَقَ، طَابَقَ / مربع
+quadrate bone	عظم مربع
+quadratfrei number	عَدَدٌ خالٍ مِنَ التَّرْبيع
+quadratic	تَربيعيّ، ثُنائيُّ الدَّرجَة؛ تَرْبيعيَّة / تربيعي / مُعادَلةٌ تَرْبيعِيَّة / نظام رباعي
+quadratic (or tetragonal) system	نِظام (تَبَلْوُرٍ) رُباعي
+quadratic congruence	تَطابُقٌ تَرْبيعِيّ
+quadratic equation	مُعادَلَة تَرْبيعيَّة / معادلة تربيعية / مُعادَلةٌ تَرْبيعِيَّة
+quadratic expression	تَعبيرٌ (جَبْريٌّ) ثُنائيُّ الدرجة / عبارة تربيعية
+quadratic form	شكل تربيعي / صيغةٌ تَرْبيعِيَّة
+quadratic formula	الصِّيغة التربيعيّة / صيغة تربيعية / صيغةٌ تَرْبيعِيَّة
+quadratic function	دالَّة تَربيعيَّة / دالة تربيعية / دالَّةٌ تَرْبيعِيَّة
+quadratic inequality	مُتَبايِنةٌ تَرْبيعِيَّة
+quadratic polynomial	حُدودِيَّةٌ تَرْبيعِيَّة
+quadratic programming	بَرْمَجةٌ تَرْبيعِيَّة
+quadratic quotient	خارِجُ قِسْمةٍ تَربيعيّ
+quadratic reciprocity law	قانونُ التَّعاكُسِ التَّرْبيعِيّ
+quadratic residue	باقٍ تَرْبيعِيّ
+quadratic surd	جَذْرٌ تربيعيٌّ أصَمَّ / جذر تربيعي أصمّ / أَصَمُّ تَرْبيعِيّ
+quadratic trinomial	ثُلاثيُّ الحُدودِ التربيعيّ
+quadratics	ألمعادَلاتُ الثُّنائيةُ الدرجة / التَّرْبيعِيَّات (جَبْرُ المُعادَلاتِ التَّرْبيعِيَّة)
+quadratrix	مُنْحَنٍ تَربيعيّ
+quadratrix of Hippias	تَرْبيعِيُّ هِپْياس
+quadrature	تَربيع؛ ألتربيع / تربيع / تَرْبيع، حِسابُ تَكامُل
+quadrature (or reactive) component	ألمُرَكِّبَةُ المُفاعِلَة
+quadrature amplitude modulation	ترنيم مطالي تربيعي
+quadrature current = reactive current	تَيّارٌ مُفاعِل (أو مُفاعِليّ)
+quadrature detector	مِكشافٌ تعامُدِيّ
+quadrature encoding	ترميز تربيعي
+quadrature in geometry	تربيع في الهندسة
+quadrature of a circle	تَربيعُ الدائرة / تَرْبيعُ دائرة
+quadrature reactance	ألمُفاعَلَةُ التعامُدِيَّة
+quadrature transformer	مُحَوِّلٌ تعامُدِي
+quadre-foil	حِلْيَةٌ رُباعِيَّةُ الفُصوص (أو الأوراق)
+quadrennium	أربعُ سَنَوات
+quadric	تَربيعيّ، ثُنائيُّ الدَرَجَة؛ تَربيعيّ مُتَجانِس
+quadric cone	مَخْروطٌ تَرْبيعِيّ
+quadric conical surface	سَطحٌ مَخروطي تَربيعي
+quadric curve	منحن تربيعي / مُنْحَنٍ تَرْبيعِيّ
+quadric curve (or surface)	مُنْحَنٍ (أو سَطحٌ) تربيعيّ
+quadric quantic	حُدودِيَّةٌ مُتَجانِسةٌ تَرْبيعِيَّة
+quadric surface	سطح تربيعي / سَطْحٌ مُتَجانِسٌ تَرْبيعِيّ
+quadriceps	عَضَلَة رُباعيَّةُ الرؤوس
+quadrics	حُدودِيَّاتٌ مُتَجانِسةٌ تَرْبيعِيَّة
+quadrifid	رباعية التشريم
+quadrifoliate	رباعية الأوراق
+quadrifolium	رُباعِيُّ الوُرَيْقات
+quadrifolium = quatrefoil	رُباعي الوُريقات المُنتظم
+quadrilateral	شَكْلٌ رُباعِيّ (الأضلاعِ)، رُباعيُّ الأضلاع / رباعي الأضلاع / رُباعِيُّ أضْلاع
+quadrilateral pyramid	هرم رباعي
+quadrilateral, regular	مُرَبَّع، رُباعيُّ الأضلاع المنتَظَم
+quadrille paper	وَرَقٌ دَقيقُ المربَّعات
+quadrillion	كوَادرِيليُون / كوادرليون
+quadrilobate	رباعية الفصوص
+quadrimolecular	رُباعيُّ الجُزَيئات
+quadrinomial	رُباعيُّ الحُدود / رباعي الحدود
+quadrinomial distribution	تَوْزيعٌ رُباعِيُّ الحُدود
+quadripartite	رُباعيٌّ؛ رُباعِيُّ الأجزاء
+quadripartite vault	عَقدٌ أُربيّ رُباعي الأجزاء
+quadripinnate	ورقة ريشية رباعية
+quadriplegia	شَلَلٌ رُباعيٌّ
+quadripolar	رُباعيُّ الأقطاب
+quadripole (network)	(شَبَكة إرسالٍ) رُباعيَّة الأقطاب
+quadrivalent	رباعيّ التكافؤ
+quadrivalent = tetravalent	رُباعيُّ التكافُؤ
+quadrumanous	رباعي الأيدي
+quadruped	رُباعيُّ الأرجُل، رُباعيُّ القَوائم؛ حَيَوانٌ مِن ذَوات الأربع / رباعي الأرجل
+quadrupeds	رباعيات الأقدام
+quadruplane	طائرةٌ رُباعية السطوح
+quadruple	رُباعيٌّ؛ أربعةُ أضعاف؛ ضاعَفَ (أو تضاعَفَ) أربعَ مَرّات / أربعة أمثال / رُباعِيُّ العَناصِر
+quadruple point	النقطة الرُّباعية / نُقْطةٌ رُباعِيَّة
+quadruple product of vectors	جُداءٌ رُباعِيٌّ لِمُتَّجِهات
+quadruple-expansion engine	مُحَرِّكٌ رُباعيُّ التمدُّد
+quadruple-phantom circuit	دارَةٌ وَهْمِيَّة رُباعيَّة
+quadrupler	مُضاعِفٌ رُباعيٌّ
+quadruplex	نِظامٌ رُباعيٌّ / رباعيّ الصبغيات المتشابهة الأليل
+quadruplex circuit	دَارةٌ رُباعيَّة
+quadruplex system	التلغرافيَّة الرُّباعيَّة
+quadruplicate	ضاعَفَ أربعَ مَرّات؛ جَعَلَ في أربَع نُسَخ؛ مُضَاعَفٌ (أو مَنسوخٌ) أربَعَ مَرَّات؛ نُسخَةٌ مِن أربَع، نُسخةٌ رابِعَة
+quadrupole	رُباعيُّ الأقطاب
+quadrupole amplifier	مُضَخِّمٌ (ذُو مَجالٍ) رُباعيُّ الأقطاب
+quadrupole moment	عَزْمٌ رُباعيُّ الأقطاب
+quadtree	شَجَرةٌ رُباعِيَّة
+quag; quagrime	مستنقع مُوحِل / مستنقع الوحل
+quagmire	رَخَاخ، أرضٌ سَبِخَة / مستنقع
+quake	رَجْفَة، هَزَّة، زَلْزَلَة؛ اِرتَجَفَ، اِهتَزَّ
+quake proof	مُقَاوم للزلازل / مقام الزلالزل
+quake-proof	صامِدٌ لِلزَّلازِل
+quaking bog	تربة موحلة
+qualification	أهلِيَّة، كَفاءَة؛ مُؤَهِّل؛ تأْهيل
+Qualification Problem	مشكلة التأهيل
+qualification rating	تقديرُ المُؤَهِّل
+qualification test	اِختِبار الأهليَّة، اِختِبارُ الكِفاية (لِلعَمل في ظُروفٍ مُحَدَّدة)
+qualification testing	1 اختبار التأهيل ؛ 2 اختبار التأهيل
+qualified	مُؤَهَّل، كُفُؤ؛ مُحَدَّد، مَشْروط، مُقَيَّد
+qualified partnership	شَراكة مَشْروطة
+qualify	أهَّلَ، جَعَلَ (أو صارَ) أهلاً (ل)؛ حَدَّدَ، قَيَّدَ
+qualimetry	قِيَاسُ الْجَوْدَة
+qualitative	نَوعِيّ، كَيْفِيّ / نوعي
+qualitative analysis	التَّحليلُ النَّوعيّ / تحليل كيفي / تحليل نوعي
+qualitative character	صفة نوعية
+qualitative test	اِختِبارٌ نَوعيّ
+quality	نَوعيَّة، صِفَة أو خاصَّة نَوعِيَّة؛ جُودة؛ طابَع، جَرْسُ (الصَّوت)؛ دِقَّةُ استِعادةِ الصَّوت الأصلي / جودة
+quality assurance	ضمان الجودة / تأكيد الجودة
+quality booster	مُعَزِّزُ الجُودَة
+Quality Change	التكيف النوعي
+quality control	مُراقَبَةُ الجُودَة (في إنتاج الجملة)، ضَبْطُ الجُودَة / التأكد من الجودة
+quality criteria of water	معايير نوعية الماء
+quality factor	عامِلُ الجُودَة، عامِلُ النوعيَّة
+Quality of service	جودة الخدمات
+quality standard	مِعيارُ الجُودَة
+quality, top	نَوعيَّةٌ أُولَى أو عُلْيا
+quanta (pl. of quantum)	كَمّات (جَمْعُ كَمّ)
+quantal response	اسْتِجابةٌ مُحْكَمة
+quantasome	جُسَيمٌ كَمِّي
+quantic	دَالَّة جَبْرِيَّة مُتَجانِسَة، تَجَانُسِيَّة جَبْرِيَّة / حُدودِيَّةٌ مُتَجانِسة
+quantifiable	قابِلٌ لِلتّكمِية
+quantification	تَكْمِيَة، تقدير كَمِّيّ؛ تسوير
+quantified proposition	قضيّة مكممّة
+quantifier	مُكَمِّم، مُسَوِّر، سُور / مكمّم
+quantify	كَمَّى، حَدَّد الكَمِّيَّة، قاسَ الكَمِّيَّة؛ سَوَّر
+quantile	نُصَيْف
+Quantile Bucketing	تجميع كمي
+quantiles	قِيَمُ التقسيمات الجُزئية، قيَم إحصائية ترتيبيَّة
+quantised (or quantized)	مُكَمّى
+quantitative	كَمِّيّ، مِقْدارِيّ / كمي / كمّي
+quantitative analysis	ألتَّحليل الكَمِّيّ / تحليل كمّي / تحليل كَمِّي / تحليل كمي
+quantitative character	صفة كمية
+quantitative estimation	ألتقدير الكَمِّي
+quantitative inheritance	وراثة كمية
+quantitative test	اِختِبارٌ كَمِّيّ
+quantity	كَمِّيَّة / كميّة / كمية
+Quantity Approach	نهج الكميات
+quantity determination = titration	مُعَايَرَة كَمِّيَّة
+quantity discharged	كمِّيَّةُ الصَّبيب
+quantity of charge	كَمِّيَّة الشّحنة
+quantity of electricity	كَمِّيةُ الكَهرباء
+quantity of heat	كمِّيَّة الحرارة / كَمية الحَرارة
+quantity of illumination	كَمِّيَّةُ الإضاءة
+quantity of light	كَميَّة الضَّوء
+quantity of radiant energy; quantity of radiation	كَمِّيَّةُ الطَّأقة الإشعاعِيَّة
+quantity of radiation	كَمِّيَّةُ الإشعاع
+quantity of relief	حِدَّةُ التضاريس
+quantity sensitivity	حَساسيةُ الكَمِّيَّة
+quantity surveyor	مَسّاحُ الكَمِّيَّات
+quantity unit	وَحْدَةُ الكمية
+quantity, scalar	كَمية لا مُوَجَّهَة
+quantity, vector	كَمِّية مُوَجَّهَة
+quantization	تَكَمّ؛ تَكْمِيَة / 1 استكمام ؛ 2 استكمام / تجزيء كمي
+quantization distortion	تَشَوُّه التكمية، تَشَوّه التكَمِّي
+quantization level	مَنْسُوب التكمِيَة
+quantization of energy	تَكْمِيَة الطاقة
+quantization of signals	تَكْمِيَة الإشارات (المَوجيَّة)
+quantization; digitalisation	تَكْمِيَة، حَوْسَبة
+quantize	يستكِمّ
+quantized	مُكَمًّى
+quantometer	مقياسُ الكميّات
+quantum	كَمّ (جَمْعُها كَمّات أو كُمُوم) / 1 كمّة ؛ 1 كمَّة ؛ 3 كَمَّة
+quantum (or explosive) evolution	نُشوءٌ كَمِّي، تَطَوُّر تَفَجُّري
+quantum chemistry	كيمياءُ الكَمّ
+Quantum computer	حاسوب كمومي
+Quantum computing	الحوسبة الكمومية / حوسبة كمومية
+quantum condition	شَرطٌ كَمِّيٌّ (أو كُمُوميّ)
+quantum discontinuity	تَقطُّعٌ كُموميّ أو كَمِّيّ
+quantum efficiency	مَردودُ الكَم، ألكِفايةُ الكَمِّية
+quantum electrodynamics	الكَهْروحَراكيّات الكَمِّيَّة
+quantum electronics	إلِكترونيّات الكَمّ
+quantum energy	الطاقةُ الكَمِّيَّة (لِلإشعاعِ الكهرمغنيطي)
+quantum field theory	نَظَريَّة المَجال الكَمِّي
+quantum jump	قَفْزٌ كَمِّيّ
+quantum limit	ألحَدُّ الكَمِّيّ
+Quantum Machine Learning	تعلُّم آلة كمومي
+quantum mechanics	مِيكانيكا الكَمّ
+quantum metrology	عِلمُ القياس الكَمِّيّ
+quantum number	ألعددُ الكَمِّيُّ
+quantum number, angular	ألعددُ الكَمِّيُّ الزاوي
+quantum number, magnetic	ألعددُ الكَمِّيُّ المِغنطيسي
+quantum number, principal	ألعددُ الكَمِّيُّ الرئيسيّ
+quantum number, rotational	ألعددُ الكَمِّيُّ الدائريّ
+quantum number, secondary	ألعددُ الكَمِّيُّ الثانَويّ
+quantum number, spin	ألعددُ الكَمِّيُّ الدُّرُورِي
+quantum speciation	نوع كميّ
+quantum statistics	ألإحصاء الكَمِّيّ (الكُمُوميّ)
+quantum theory	نظريةُ الكَمّ / نظرية الكم
+quantum voltage	ڤلْطِيَّةُ الكَمّ
+quantum yield	ألحَاصِلُ الكَمِّيّ، المَردود الكَمِّيّ
+quaquaversal	قِبابِيّ
+quaquaversal dip	ميل شعاعي / قبة
+quaquaversal fold	قبّة / ميل شعاعي
+quarantine	مَحْجَر صِحِّيّ، (كَرَنْتينا)؛ حَجْرٌ صِحِّيّ، عَزْل؛ عَزَلَ لأسبابٍ صِحِّية / أربعينية / حَجْر صِحِّي
+quarantine anchorage	رسو بسبب الحَجْرِ الصحي
+quarantine pond	بركة العزل
+quark	كُوارْك
+quarrel	شِجار، مُشَاجَرة؛ لَوحٌ زُجاجيّ مُعَيَّنيُّ الشكل؛ إزميلُ البنّاء؛ ماسةُ الزجّاج؛ شاجَرَ، تَشَاجَرَ، اِختَلَف (مع)
+quarrelsome	مُشاكِس، مُشاجِر
+quarrier = quarryman	حَجّار
+quarry	مَحْجَر، مَقْلَعُ حِجارة؛ اِحتَجَر / مَحْجَر، مَقْلَع / محجر، مقلع
+quarry spall; quarry wastage	نُفاية المحجر، نُفاية المقلع / نفاية المحجرأو المقلع
+quarry tile	بلاطةُ رَصف (أو تبليط)
+quarry-faced	مُشَذَّبٌ في المَحْجَر
+quart	كوارْت / ربع غالون
+quarter	رُبْع؛ حَيٌّ سَكَنِيّ؛ قَسَّمَ إلى أرباع؛ آوَى، أنزَلَ، أسكَنَ / ربع / رُبع / رُكْنُ من السفينة
+quarter bend	مِرفَقٌ قائم، وُصلَة أُنبوبيَّة مُتَعَامِدَة
+quarter closer	طوبة سَدٍّ رُبعيّة
+quarter elliptic spring	نابِضٌ إهليلَجيٌّ رُبْعِيّ
+quarter in arithmetic	ربع في الحساب
+quarter pillar	ركيزة رُكْنية
+quarter rape	قريب من المؤخرة
+quarter rope	حبل المؤخرة
+quarter round	رُبع دائري؛ حِلية مُحدّبة ربع دائرية الجانبيَّة
+quarter sawing = rift sawing	نَشْرٌ رُبعيّ
+quarter square multiplier	مِضْرَبةٌ بِرُبْعِ التَّرْبيع
+quarter squares rule	قاعِدةُ رُبْعِ التَّرْبيعَيْن
+quarter, first	ألرّبعُ الأول
+quarter-phase system = two-phase system	نِظامٌ ثُنائيُّ الطَّور
+quarter-size drawing	رَسْمٌ رُبْعِيّ
+quarter-space landing	بسطةُ دَرَجٍ رُبْعيَّة
+quarter-turn belt	سَيْرٌ نِصْفُ مُتَعارِض
+quarter-twist belt	سَيْرٌ رُبعِيُّ اللَّي
+quarter-wave antenna (or aerial)	هَوائيٌّ رُبْعُ مَوجِيّ
+quarter-wave line	خَطٌّ رُبْعُ مَوجيّ
+quarter-wave plate	لَوحٌ رُبعُ مَوجِيّ
+quartered	مُقَسَّم إلى أرباع؛ مُجَهَّزٌ لِلسُّكنَى؛ ساكِنٌ في ثُكْنَة أو مُعَسْكر
+quartering	رَبْع؛ إنزال، إيواء؛ رَبْع (لاستِخراج العَيِّنات)؛ ضَبْطُ تَعامُدِ المرَافِق؛ قاسِمٌ إلى أرباع؛ مُتعامِد
+quarterly	كُلُّ رُبعِ سنة، فَصْلِيًّا؛ فَصْليّ
+Quarterly Change Rates	نسب التغير الربعي
+quartermaster	ضابِطُ التموينِ والإمدادات؛ عَريفٌ بَحري
+quartet	رباعية
+quartic	رُباعيّ / من الدرجة الرابعة
+quartic curve	مُنحَنٍ رُباعيّ / مُنْحَنٍ مِنَ الدَّرَجةِ الرَّابِعة
+quartic equation	مُعادَلةٌ مُضاعَفةُ التَّرْبيع (مِنَ الدَّرَجةِ الرَّابِعة)
+quartic equation = biquadratic equation	مُعادلة من الدرجة الرابعة
+quartic equation; bi-quadratic equation	معادلة من الدرجة الرابعة
+quartic expression; bi-quadratic expression	عبارة من الدرجة الرابعة
+quartic quantic	حُدودِيَّةٌ مُتَجانِسةٌ مُضاعَفةُ التَّرْبيع
+quartic surd	أَصَمُّ مِنَ المَرْتَبةِ الرَّابِعة
+quartic surface	سَطْحٌ مِنَ الدَّرَجةِ الرَّابِعة
+quartile	رُبْعيّ؛ ألرُّبع (من مجموعةٍ إحصائية) / ربيع / رُبَيْع
+quartile deviation	انحراف ربيعي / الانْحِرافُ الرُّبَيْعِيّ
+quartz	مَرْوٌ، كوَارْتز / مرو، كوارتز
+quartz (crystal) oscillator	مُذبذِبٌ كوَارتزيّ؛ بِلّورة مَرْوِيَّة ثابتةُ التردُّد
+quartz (milky)	مرو لبني
+quartz (milky...)	مرو لبني
+quartz (smoky)	مرو دخاني
+quartz (smoky...)	مرو دخاني
+quartz basalt	بازَلْت مَرْوِيّ
+quartz cement	إسمَنت كوارْتزِيّ
+quartz clock	ساعةُ الكوَارتز (تعمل ببلَّورةٍ مَرْويَّة ثابتةِ التردُّد)
+quartz crystal	بِلَّورَةُ كوارْتز / بِلَّورة كُوارتز
+quartz fibre	لِيفة كوارتز
+quartz fibre electroscope	الكتروسكوب كوارتزي الليفة
+quartz filter	مُرَشِّح كوَارتزيّ
+quartz glass	زُجاحٌ مَرْويّ
+quartz lamp	مِصباحٌ كوارتزيّ
+quartz lens	عَدَسَةُ كوارتز / عدسة كوارتزية
+quartz magnetometer	مَغْنيطومِتر كوارتزي
+quartz pophry	سماق مروي
+quartz porphry	سماق مروي
+quartz resonator	مِرنانٌ كوَارتزيّ
+quartz sand	رمل مروي، رمل كوارتزي / رمل مروي أو كوارتزي
+quartz thermometer	ترمُومِتر كوَارتزِيّ
+quartz vein	عرق المرو، عرق الكوارتز / عرق المرو أو الكوارتز
+quartz-diorite	دَيورَيت مَروِيّ
+quartz; quartziferous	مروي أو كوارتزي
+quartziferous	مروي، كوارتزي
+quartzite	مَرويت، كوَارتزيت / مرويت، كوارتزيت
+quartzose	مَروِيّ، كوارتزي
+quartzose type sediments	رواسب مروية، رواسب كوارتزية / رواسب مروية أو كوارتزية
+quartzy sandstone	حجر رمل كوارتزي
+quasar (quasistellar)	كوِيزَار، كْوِيسار، كوازار؛ شِبْهُ نَجمِيّ، كوازاريّ
+quash	أبطَلَ، ألْغَى
+quasi diploid	شِبه ضعفانيّ
+quasi dominance	شبه سيادة
+Quasi – Corporations	أشباه الشركات
+quasi-arc welding	لِحامٌ شِبْهُ قَوسيّ
+quasi-conductor	شِبْهُ مُوَصِّل
+quasi-dielectric	شِبهُ عازِل
+quasi-duplex	شِبهُ مُزدَوِج
+quasi-geostrophic approximation	تَقْريبٌ شِبْهُ دَوْرَضِيّ
+quasi-instruction	شِبه تعليمة
+quasi-language	شبه لغة
+quasi-negative	شبه سالب
+quasi-optical waves	أمواجٌ شِبْهُ ضوئيَّة
+quasi-perfect number	عَدَدٌ شِبْهُ تامّ
+quasi-stable state	حالَةٌ شِبهُ مُستَقِرَّة
+quasi-stationary	شِبْهُ ثابِت
+quasi-stationary front	جَبْهَةٌ شِبْهُ مُستقِرّة
+quasi-stellar object = quasar	جِرْمٌ شِبْهُ نَجميّ، كوازار
+quassia	كواسية
+quassia-tree	كواسية مرة
+Quaternary	الدهر الرَّابع / رُباعيّ، رُباعيُّ المَقوِّماتِ أو العَنَاصِر / رباعية / نِظامُ العَدِّ الرُّباعِيّ / رابع (ال..) / رابع
+Quaternary (era)	ألدَّهرُ الرابع، الحُقْبُ الرابع
+quaternary alloy	سَبيكةٌ رُباعية
+quaternary ammonium ion	شارِدةُ الأمونيوم الرُّباعيَّة المِيثيل
+quaternary climate	مناخ الزمن الرابع (الحقبة الرابعة)
+quaternary compound	مُرَكَّبٌ رُباعيٌّ
+quaternary era	حقب (ال..) الرباعي
+quaternary formation	تشكيلات رباعية
+quaternary quantic	حُدودِيَّةٌ مُتَجانِسةٌ رُباعِيَّة
+quaternary tree	شَجَرةٌ رُباعِيَّة
+quaternion	عَدَدٌ فَوْقَ عقَدِيّ (كواترنيون)
+quatrefoil	حِلْيَة رُباعيَّة الفُصوص المُتطابقة / رُباعِيُّ الوُرَيْقات
+quawk	غراب الليل
+quay	رَصيف بَحريّ (أو نَهْري)، رَصيفُ تَحميل (في ميناء) / رصيف بحري أو نهري)
+quay crane	رافعة رصيف
+quay edge	حافة الرصيف
+quay supervisor	مُشْرِف الرَّصيف
+quayage	رَسْمُ الرصيف؛ أرصِفَةُ التحميل (في الميناء) / رسوم الرصيف
+queen	مَلِكة؛ صَفيحةُ أردواز (قياس 36 × 24 بُوصة) / ملكة
+queen bolt	مِسمارُ دَعْمِ الجُمْلون
+queen closer	طوبةُ سَدٍّ طولية نِصفيَّة المقطع
+queen-post	قائمُ الجُملون
+queen-post roof	جُمْلونٌ مُزدَوِجُ القوائمِ العَمودية
+queens problem	مَسْأَلةُ المَلِكات
+quell	هَدَّأَ، أخمَدَ
+quench	أطفأَ، أخمَدَ؛ كَبَتَ، كَبَحَ؛ أخمَدَ الاهتِزاز؛ سَقّى، سَقَى (الفولاذ)؛ بَرَّدَ بِسُرعة
+quench circuit	دَارَةُ كَبْتِ الذبذبةِ العالية
+quench crack	تَشَقُّقٌ بالتَّسقِية؛ شَقُّ تَسْقِيَة
+quench tower	بُرجُ التبريد
+quench(ing) bath	مَغْطِسُ تَسْقِيَة
+quench(ing) frequency	تَرَدُّدٌ كابِتٌ (لِلذَّبذبة العالية)
+quench(ing) oscillator	مُذبذبٌ كابِتٌ (لِلذَّبذبة العالية)
+quenched gap = quenched spark gap	فُرجة (شَررٍ) مُطفأة
+quenched spark	شرارةٌ مُطفَأَة
+quenched spark gap	فُرجةُ شرر مُطفَأَة
+quenched steel	فولاذٌ مُسَقًّى
+quenched-spark converter	مُحَوِّلٌ يعملُ بطاقةِ الشَّررِ المُطفَأ
+quencher	كابِتُ التفَسْفُر (في مادَّةٍ مُتَأَلِّقة)
+quenching	تَسْقِيَة، تَبْريدٌ سَريع أو مُفاجِىء، سِقاية؛ كَبْتُ الذبذبة (دَوريًّا)؛ كَبْتُ التفريغ المُستَمِرّ (في صِمام عَدّاد)
+quenching circuit	دارةُ كَبْت (الذبذبةِ العالية أو التفريغ المتعَدِّد)
+quenching curve	مُنْحَني التسقيَة
+quenching oil	زيتُ التسقيَة
+quenching trough	حَوضُ التسقِيَة
+quercus	بَلُّوط
+quercus suber	بلوط الفلين
+quern	مِجْرَشَة، مِطحَنَة يدويَّة
+query	سُؤال، استِفهام، تَساؤل؛ تَساءَلَ / 1 استفسار ؛ 2 استفسار / مُسَاءَلَة / استعلام
+Query Analysis	تحليل الاستعلام
+query by example	استفسار بمثال
+Query Expansion (QE)	توسيع الاستعلام
+query language	لغة استفسار / لُغَة المسَاءَلَة / لغة استعلام
+Query Routing	توجيه الاستعلام
+quest	بَحْث، تَنْقيب؛ مَطْلب
+questa	كويستة، عَقَبة
+question	مَسْأَلَة، سُؤال؛ قَضِيَّة؛ سألَ، اِستَفْهمَ؛ اِستَجْوَبَ
+Question Answering (QA)	إجابة الأسئلة / إجابة التساؤل
+Question Decomposition	تفكيك الأسئلة
+question mark	إشارةُ استفهام / علامة الاستفهام
+questionnaire	اِستِبْيان
+quetche-tree	كوتشية
+queue	صَفٌّ، رَتَل؛ طابُور (انتِظار)؛ صَفَّ أو اصطَفَّ في رَتَل / رتل / صَفُّ الانْتِظَار / طابور
+queued access method	طريقةُ الوُلوج الصَّفي / طريقة النفاذ الرتلي
+queuing theory	نَظَرِيَّةُ الطَّوابير (نَظَرِيَّةُ الاصْطِفاف)
+quibinary or biquinary code	شفرة خُماسيَّة مُزْدَوِجة
+quick	سَريع، حادّ
+quick and dirty	سَرِيعٌ وَردِيء
+quick assets	مَوجوداتٌ سَريعة (السُّيولة)
+quick clay	طِينٌ سَريعُ التسَيُّل
+quick curve	مُنحَنٍ حادّ
+quick feed	تَغذِية سَريعة
+quick flashing light	ضوء ذو وميض سريع
+quick gouge	مِظْفارٌ حادُّ التقعير
+quick ground	أرضٌ وَعْسَة، أرضٌ اِنهِياريَّة / أرض وعثية
+quick hardening cement	إسْمَنتٌ سَريعُ الشَّكّ
+quick lime	كلس حي
+quick make-and-break switch	مِفتاحٌ (أو مقلادٌ) سريعُ الوَصْلِ والقَطْع
+quick mine	منجم الزئبق
+quick ore	خامٌ زِئبقيّ، رِكازٌ زِئبَقيّ / خام الزئبق
+quick release hook	مخطاف سريع الانفلات
+quick water	تموج رقيق، مَخْر
+quick-acting	سَريعُ الفِعل
+quick-break switch	مِفتاحٌ سَريع القَطْع، مِقلادٌ سريعُ القَطع
+quick-burning composition	مُرَكَّبٌ سريعُ الاحتِراق
+quick-drying oil	زَيتٌ سَريع الجَفاف
+quick-firing gun	مِدْفَعٌ سَريعُ الطَّلقات
+quick-fit	سَريعُ التوافُق (أو التركيب)
+quick-freeze	جَمَّدَ بِسُرعة (بِدَرَجَةِ حرارةٍ مُنْخَفِضَة)
+quick-levelling head	رأسُ التسوِيَة السريعة
+quick-make switch	مِفتاحٌ سَريع الوَصْل، مِقلادٌ سَريع الوَصْل
+quick-opening valve	صِمامٌ سَريعُ الفَتْح
+quick-pitch screw	لَولَبٌ سريعُ الخُطوة
+quick-release mechanism	آلِيَّةٌ سَرِيعَةُ الإعتاق
+quick-return mechanism	آليَّةٌ (تَرَدُّديَّة الحَرَكَة) سَريعةُ العَودة
+quick-return motion	حَركةٌ سَريعة الارتِداد
+quick-set(ting) level	مِسْواةٌ سَريعةُ الاستِواء
+quick-setting cement	إسمَنْتٌ سريعُ الشَّكّ
+quick-setting ink	حِبْرٌ سَريع الجَفاف
+quick-stop control = pause control	مضبطُ التوَقُّف السَّريع
+quick-sweep	ضَيِّقُ الاستِدارة
+quicken	عَجَّلَ، نَشَّطَ، أسرَعَ
+quicken; mountain-ash	شجرة السمن
+quicking	زأبَقة
+quicklime	ألجيْرُ الحَيّ
+quicksand	وَعْث / رمال رخوة، رمل رِخْوٌ / رمال رخوة
+quicksilver	زِئْبَق؛ طَلَى أو مَلْغَمَ بالزِّئبق
+quicksilver; mercury	زئبق
+quicksort	تَصْنيفٌ سَريع / فرز سريع
+Quickstart	بدء (تشغيل) سريع
+quicktime (QT)	بُرْهَة
+quickworks	غاطس سفينة
+quid pro quo	على سَبيل المُعَاوَضة
+quiescence	هُمُود، سُكُون
+quiescent	هامِد، ساكِن؛ ساكِن (لكن في حالة التشغيل) / هامد، ساكن
+quiescent aerial radiation	إشعاعُ الهَوائيّ الساكِن
+quiescent antenna = dummy antenna	هوائيّ دُمْيَة، هوائِيّ ساكِن
+quiescent carrier modulation	ألتضمينُ الساكِنُ للمَوجَةِ الحامِلَة
+quiescent carrier transmission	إرسالٌ هامِدُ الموجة الحامِلة
+quiescent current = idling current	تيّارٌ هامِد
+quiescent load	حِمْلٌ ساكِن، حِمْلُ السُّكون
+quiescent operating point	نُقطةُ التشغيل الساكنة
+quiescent period	فَتْرةُ السُّكون
+quiescent point	نُقطةُ السُّكون، نُقطةُ الهُمود
+quiescent push-pull amplifier	مُضَخِّمٌ دَفْعِيٌّ جَذْبِيٌّ ساكِن
+quiescent volcano	بُركانٌ هامِد / بركان هامد
+quiet	هادِىء، ساكِن
+quiet automatic gain control	التحَكُّم الأوتوماتيُّ الساكِنُ في الكَسْبِ
+quiet automatic volume control	ألتحكُّم الأوتوماتيّ الساكِنُ في الجَهارة
+quiet running	دَوَارنٌ هادئ
+quiet sun	شمس هادئة
+quieting sensitivity	حَسّاسِيَّةُ الإسكات
+quill	قَلَم، سَهْمُ (أو عِراقُ) الريشة؛ ثَنْيَةٌ صغيرة؛ عَمودُ دَوَران أجوَف؛ مَكُّوك، وَشيعَة؛ غَضَّنَ، ثَنَى (القُماشَ) ثَنْياتٍ صغيرة
+quill bearing	مَحْمِلُ عَمودِ الدَّوَران الأجوف
+quill drive	إدارةٌ بعَمودٍ أجوَف
+quill feather	ريشة قصبية
+quill feathers	كِبارُ الرِّيش (من الجَناح أو الذَّيل)، ريشٌ قلميَّة
+quill-wort	ايزوت
+quillai; quillaia	كلاجة، كويلاية
+quilt	حَشْوَةٌ عازِلة، حَشِيَّةُ عَزْل
+quinary	خُماسِيّ، ذُو خَمسة أجزاء؛ مَجموعةٌ خُماسيَّة، نِظامٌ خُماسيّ / خماسي
+quinary alloy	سَبيكة خُماسِيَّةُ العناصر
+quincunx	تَخْميسَة، حِلْيَةٌ خُماسِيَّة الأجزاء
+quindecagon	ذُو الخَمسَةَ عَشَرَ ضِلْعًا / ذو خمسة عشر ضلعا
+quinine	كِينين / كنين
+quinol = hydroquinone	كينُول
+quinoline blue	أزرقُ الكينولين
+quinquepartite	خُماسِيُّ الأجزاء
+quinquevalent = pentavalent	خُماسِيُّ التكافُؤ
+quinquina	كينا
+quintal	كِنْتَال / قنطار
+quintescence	خُلاصَة، جَوْهَر
+quintic	خُماسِيّ، من الدرجةِ الخامِسة
+quintic curve	مُنحَنٍ خُماسيّ (من الدرجة الخامسة)
+quintic equation	مُعادَلَة خُماسيَّة / معادلة من الدرجة الخامسة / مُعادَلةٌ مِنَ الدَّرَجةِ الخامِسة
+quintic expression	عبارة من الدرجة الخامسة
+quintic polynomial	حُدودِيَّةٌ مِنَ الدَّرَجةِ الخامِسة
+quintic quantic	حُدودِيَّةٌ مُتَجانِسةٌ خُماسِيَّة
+quintic surd	أَصَمُّ مِنَ المَرْتَبةِ الخامِسة
+quintillion	كوِنتِليُون / كونتليون
+quintuple	مُضاعَفٌ خَمْسَ مَرّات؛ ضاعَفَ أو تَضاعَف خَمْسَ مَرّات
+quintuple point	النقطة الخماسية
+quintuplicate	ضاعَفَ خَمْسَ مرّات؛ جَعَلَ في خَمْسِ نُسَخ؛ مُضَاعَفٌ (أو مَنسوخٌ) خَمْسَ مَرّات؛ نُسْخَةٌ خَامِسة، نُسخَةٌ من خَمْسٍ
+quire	رِزْمةُ وَرق (من 24 أو 25 ورقة)؛ مَلْزَمَة (في كِتاب)
+quires, in	في مَلازِم، غيرُ مُجَلَّد
+quirk	عَطْفة
+quirk bead	حِلية مُحدَّبة معطوفة التخدُّد
+quirk float	مالَجُ عَطفات
+quirk plane	مِسْحاجُ عَطفات
+quit	تَرَكَ (وَظيفةً أو عَمَلاً)، هَجَرَ / 1 يترك ؛ 2 يوقف / مُغَادَرَة / مغادرة
+quitclaim	وَثيقةُ تَخَلٍّ (عن امتيازاتِ التعدين)
+quite	تمامًا؛ فِعلاً، حَقًّا
+quittance	سَنَدُ مُخَالَصَة (من التِزامٍ أو دَيْن)
+quiver	اِهتَزَّ، اِرتَجَفَ؛ اِرتِجاف، رِعْشَة؛ جُعْبَة
+quiz	اِمتِحانٌ مُوجَز؛ اِمتَحَنَ بإيجاز
+quod erat demonstrandum	وَهُوَ المَطْلوبُ إثْباتُهُ
+quod erat faciendum	وَهُوَ المَطْلوبُ عَمَلُه
+quoin	رُكْن، حَجَرُ زاوية؛ زاويةٌ خارجيَّة (من مَبْنًى)؛ إسفينُ دَعْم
+quoin post = heel-post	قائمٌ مَفْصِلي
+quorum	ألنِّصاب (القانونيّ) / سهم /ج أسهم
+quota	حِصَّةٌ نِسبيَّة، كُوتا، حِصَّة مُحَدَّدة / حصّة،أسهم
+quota sampling	أخْذُ عَيِّناتٍ حِصَصيَّة
+quota; catch quota	حصة الصيد
+quotation	اِقتباس؛ تَسعير، عَطَاءٌ بالأسعار / اقتباس
+quote	اِقتَبَسَ، اِستَشْهَدَ (بِـــ)؛ قَدَّمَ عَطاءً بالأسعار / اقتباس
+Quoted	مُقتبس،مُقتطف
+quotidian	يَوميّ
+quotient	حاصِل، خارجُ القِسْمَة / قِسْم / حاصل قسمة / خارِجُ قِسْمة
+quotient field	حقل خارج / حَقْلُ خَوارِجِ القِسْمة
+quotient group	زمرة خارجة / زُمْرةُ خَوارِجِ القِسْمة
+quotient law	قانون خارج
+quotient ring	حَلَقةُ خَوارِجِ القِسْمة
+quotient rule	قاعِدةُ خارِجِ القِسْمة
+quotient set	مجموعة خارجة / مَجْموعةُ خَوارِجِ القِسْمة
+quotient space	فَضاءُ خَوارِجِ القِسْمة
+quotient topology	طبولوجيا خَوارِجِ القِسْمة
+quotient, intelligence	رائزُ الذكاء
+qv (quod vide)	أنظُرْهُ، راجِعْهُ
+QWERTY keyboard	لوحةُ مَفاتيح طابعيَّةُ النَّسق / QWERTY لوحة مفاتيح
+Qword	مركب من أربعة عناصر :: مركب رباعي :: رباعي

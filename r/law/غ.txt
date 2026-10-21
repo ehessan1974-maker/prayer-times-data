@@ -1,0 +1,59 @@
+غائِب	absent
+غالٍ، باهظ الثمن	expensive
+غبن	Unconscionability / lesion
+غَدْر	misappropriation
+غرامات / الجزاءات	Penalties
+غرامة	Fine / fine
+غرامة التأخير	Demurrage
+غرامة تهديدية	constraint; menace fine
+غرامة جمركية	Customs Fine
+غرامة مالية	pecuniary penalty
+غرامة مرورية	Traffic Fine
+غَرَرٌ، خَطَرٌ	hazard
+غرفة التجارة	commercial chamber
+غرفة التجارة الدولية	International Chamber Of Commerce
+غرفة التجارة والصناعة	chamber of commerce and industry
+غرفة الصدى	Echo Chamber
+غرفة الصناعة	industrial chamber
+غرفة المشورة	court chamber
+غرفة المقاصة	clearing house
+غرفة فلاحية	agriculture chamber
+غريب، أجنبـيّ	exotic
+غَزْو	conquest
+غسل الأموال	Money Laundering
+غسل عادل	Fair-Washing
+غسيل أزرق	Blue-Washing
+غسيل أموال	Money Laundering
+غش	Fraud
+غش تجاري	Commercial Fraud
+غِشّ ضريبـيّ	tax fraud
+غِش، تدليس	fraud
+غَلَطٌ	error
+غَلَطٌ في الواقع، غلط في الوقائع	error in fact
+غلطٌ في فهم القانون	error in law
+غلة	Proceeds
+غلة الأرض	emblements
+غموض أخلاقي	Ethical Ambiguity
+غموض، التباس	ambiguity
+غنى، ثروة	wealth
+غنية بالمعرفة والتقنية	Knowledge and technology intensive
+غياب	absence / default
+غير (ال..)، طرف ثالث	third person; third party
+غير الملموسة	Intangible
+غير جائز، مخالف للقانون	illicit
+غير دستوريّ، غير مطابق للدستور	unconstitutional
+غير ربحيّ، لا ربحيّ	non-profit
+غير شرعيّ	illegitimate
+غير صحيح، غير مطابق للحقيقة	inaccurate; incorrect
+غير عاديّ، استثنائيّ	extraordinary
+غير قانونيّ	illegal
+غير قضائيّ	extrajudicial
+غير مؤسَّس، غير صحيح	unsound
+غير متجانسة	Heterogeneous
+غير محدود، غير محدَّد	unlimited
+غير مختص	incompetent
+غير مدفوع، غير مسدَّد	unpaid
+غير مستحَقّ، غير واجب الأداء	undue
+غير مطابقة	Non-Conformance
+غير مطالَب به	unclaimed
+غير معيَّن، غير محدَّد	indeterminate

@@ -1,0 +1,4025 @@
+M (H) curve	M (H) منحنى
+M (H) loop	M (H) حلقة
+m out of n redundancy	عدد العناصر م من عناصرالوفرة ن لتحقيق التشغيل
+M process	طريقة الكرة الداخلية
+M reflection; M path	انعكاس M
+M-ASK navigation system (M-ASK-NAV)	نظام الملاحة المُدمج مع نظام التحكم المُتعدد في الصوتيات (M-ASK-NAV)
+M-band	نطاق ـ م
+M-day	يوم التعبئة / يوم النفير
+m-derived L-section filter	مرشح L مشتق من m
+M-display	شاشة ـ م
+M-unit	وحدة M
+M-wave	موجة مليمترية
+M-wing	جناح متعاكس الاجتراف
+M.E Energy Engineering Qualification Awarded: Postgraduate/Master	ماجستير في هندسة الطاقة الشهادة المسلمة: شهادة الماجستير
+M.E. Renewable Energy Sources Qualification Awarded: Postgraduate/Master	ماجستير في هندسة مصادر الطاقة المتجددة الشهادة المسلمة: شهادة الماجستير
+M.K.S. system	نظام مكث
+M.Sc. Renewable Energy Management Qualification Awarded: Postgraduate/Master	الشهادة المسلمة: شهادة الماجستير
+M.Sc. Renewable Energy Science Qualification Awarded: Postgraduate/Master	ماجستير في علوم الطاقة المتجددة الشهادة المسلمة: شهادة الماجستير
+M.Sc. Sustainable Energy Engineering Qualification Awarded: Postgraduate/Master	ماجستير في هندسة الطاقة المستدامة الشهادة المسلمة: شهادة الماجستير
+M.Sc. Sustainable Energy Qualification Awarded: Postgraduate/Master	ماجستير في الطاقة المستدامة الشهادة المسلمة: شهادة الماجستير
+M.Tech. in Energy Studies Qualification Awarded: Postgraduate/Master	ماجستير تقني في دراسات الطاقة الشهادة المسلمة: شهادة الماجستير
+M.Tech. Renewable Energy Qualification Awarded: Postgraduate/Master	ماجستير تقني في الطاقة المتجددة الشهادة المسلمة: شهادة الماجستير
+m/f-type	ألياف ماتريكس
+M/S	متر بالثانية
+M2 Specialized Master: New and Renewable Energies) Awarded: Postgraduate/Master	شهادة الماجستير الثانية: تخصص الطاقات المتجددة الشهادة المسلمة: شهادة الماجستير
+M83-A	زمن الدورة
+M85	وقود M85
+M89-A	بروتون
+MAC (colour television) system; MAC (abbreviation)	نظام التلفاز الملون MAC
+macadam	حصباء
+macadam aggregates	كسارات رصفة المكدام
+macadam blinding	فرش المكدام بالرمال و الحصى
+macaroni	أنابيب حفر رفيعة (7/8 بوصة أو أقل)
+macaroni pipe	أنبوب رفيع
+Macaroni Tubing	أنابيب حفر رفيعة
+macasphalt	مكسفلت
+macdonaldite	ماكدونالدايت
+macerator; disintegrator; comminutor	ساهك
+macfarlane	معطف ماك فاريان
+Mach angle	زاوية ماخ
+Mach cone	مخروط ماخ
+Mach front; Mach stem	جبهة ماخ
+Mach hold; Mach lock	مثبِّت ماخ
+Mach indicator	مؤشر ماخ
+Mach intersection	تقاطع ماخ
+Mach line	خط ماخ
+mach number	عدد الماخ / عدد (كمية) ماخ / رقم ماخ
+Mach reflection	انعكاس ماخ
+Mach trim coupler	قارنة ضبط الاستقرار الماخي
+Mach trim system	نظام ضبط الاستقرار الماخي
+Mach wave	موجة ماخ
+Mach-buster	طيار ماخي
+Mach-limited	محدود برقم ماخ
+machine	آلة
+machine (or radix) point	علامة أساسية
+machine blot	مسمار ربط الآلة، مسمار الآلة
+machine code computer code	كود آلة
+machine commutation	تبديل بالآلة
+Machine coordinate system	نظام إحداثيات الماكينة
+machine independence	استقلال الآلة
+machine instruction	تعليمات الألة
+machine language	لغة الآلة
+machine language; computer language	لغة الألة؛ لغة الحاسب الآلى
+machine oil; machinery oil	زيت للآلات
+machine reference point	نقطة (ال...) المرجعية للماكينة
+machine tool	ماكينة تشغيل ميكانيكي
+machine vice	ملزمة آلية
+machine zero	نقطة صفر الماكينة
+machine-oriented language; low-level language; computer-oriented language	لغة خاصة بالألة
+machinery	الالات
+machinery space	حيز الآلات
+machining centre	مركز تشغيل
+machining of wood	تصنيع الخشب
+machinist	ميكانيكي، آلاتي
+machmeter	مقياس ماك / مقياس ماخ
+mackintosh / mac	معطف ماكينتوش
+mackle	لطخة
+maco cotton	قطن ماكو
+MacPherson strut unit	الساق النابضية 'ماكفرسون' (McPherson)
+macrame	ستيك ستور
+macramé	مقرمة
+macramé yarn	خيط مكرامية
+macro cell	خلية كبيرة
+macro instructions	تعليمات عامة، تعليمات مختصرة
+macro-routing (or route balancing)	توجيه عام (أو موازنة الطريق)
+macro/macroinstruction	ماكرو
+macroalgae	طحالب كبيرة
+macrobend loss	فقد ناتج عن انحناءات كبيرة
+macrobending	ثنى كبير
+macrobentos	تعْريات كبيرة
+macroclimate	مُناخيات كبرى / مناخ إجمالي
+macroclimatology	علم المناخ العام
+macroeconomic benefit	استفادة من الاقتصاد الكلي
+macroeconomics	اقتصاد شامل
+macrofauna	حيوانات كبيرة
+macrofloc	نُدَف كبيرة
+macrofouling	توسيخ مفرط
+macroinstruction; macro	تعليمات مفصلة
+macroorganisms	كائنات حية كبيرة
+macrophage	غاثية كبرى
+macrophotography	تصوير تكبيري
+macrophyte	كائن عياني / نباتات مائية كبيرة
+macroplancton	عَلَقُ البحر الضخم
+macroscopic	عِيانيّ / عِياني / عيانيّ
+macroscopic property	خاصية ترى بالعين المجردة
+macrostate	حالة مكبرة
+macrostructure	بناء غير دقيق
+macrotexture	نَسِيج كُلِّي
+macula lutea; yellow spot	بقعة صفراء,
+maculose structure	بنية مُبرقَعة
+madapolam	مادابولام
+madden-julian oscillation	تذبذب مادن جوليان
+made circuit	دائرة مغلقة
+Madonna style	طراز مادونا
+madras	مادراس
+madras check	تربيعات مادراس
+madras curtain	ستارة مادراس
+Madrid clothing line	خط اللباس المدريدي
+mafic	معادن داكنة
+mafic rocks	صخور داكنة
+MAG welding	اللحام بطريقة 'ماج' MAG
+magazine	مجلة
+magazine paper	ورق مجلات
+Magcom	توجيه مغناطيسي
+magic bra	حمالات الصدر السحرية
+magic crepe	ماجيك كريب
+magic eye	عين سحرية
+magic T	وصلة سحرية T
+magic wool	صوف ماجيك
+magma	صهارة / صُهارة
+magma chamber	غرفة الصهارة
+magma composition	تركيب الصهارة
+magma flux testing	اختبار الكشف بالتدفق المغناطيسي
+magma types	أنواع الصهارة
+magmatic	صهاريّ
+magmatic ore deposits	رواسب الخامات الصهارية
+magmatic water	ماء صهاري
+magnafluX	دفق مغناطيسي
+magnesio-arfvedsonite	مغنيزيوأرفدسونايت
+magnesioferrite	مغنيزيوفيرايت
+magnesite	مغنيزيت
+magnesite brick	آجرة مغنسيتية
+magnesite flooring	تأريض مغنسيتي
+magnesite refractories	حرونات المغنزيت
+magnesium	مغنسيوم / مغنزيوم / مغنيزيوم / مغنيسيوم
+magnesium battery	بطارية الماغنسيوم
+magnet	مغناطيس / مغنطيس
+magnet pick-up	ملقاط مغناطيسي
+magnet starting motor	مُبدئ حركة سريع التعشيق
+magnet valve; electro-pneumatic valve	صمام مغناطيسي
+magnetic after-effect	استرخاء مغناطيسي
+magnetic ageing	معامل الحرارة للمحاثة
+magnetic amplifier	مكبر مغناطيسى / مُضخِّم مغناطيسي / مضخم مغنطيسي
+magnetic amplifier; transductor amplifier	مضخم مغناطيسي مضخم بمحول حثي
+magnetic anisotropy	تباين خواص مغناطيسي
+magnetic anneal	تلدين مغناطيسي
+magnetic anomaly	شذوذ مغناطيسي
+magnetic area moment (1)	عزم سطح مغناطيسي (1)
+magnetic area moment (2)	عزم سطح مغناطيسي (2)
+magnetic axis	فجوة (هوائية)
+magnetic azimuth	اتجاه مغناطيسي، سَمْت مغناطيسي / سَمْت مغناطيسي
+magnetic blow-out	إطفاء مغنطيسي
+magnetic catch	سقاطة مغنطيسية
+magnetic circuit	دارة مغناطيسية / دارة مغنطيسية
+magnetic circuit element	عنصر دارة مغناطيسية
+magnetic circuit,	دارة مغناطيسية,
+magnetic clutch	قابض مغنطيسي
+magnetic clutch (AC)	قارنة مغناطيسية
+magnetic coil	ملف مغناطيسي
+magnetic compass	بوصلة مغناطيسية
+magnetic conditioning	تكييف مغناطيسي
+magnetic constant; permeability of vacuum	ثابت مغناطيسى
+magnetic converter (Flyback)	مُغيّر مغناطيسي ارتدادي
+magnetic converter (Forward)	مُغيّر مغناطيسي أمامي
+magnetic core	قلب مغناطيسي / قلب مغناطيسي، نواة مغنطيسية
+magnetic core antenna	هوائي بقلب مغناطيسي
+magnetic coupling, ; magnetic transmission	إقتران مغناطيسي,
+magnetic coupling; slip coupling	تقارن مغناطيسي- قارن انزلاق
+magnetic course	اتجاه مغناطيسي / مسار مغناطيسي
+magnetic crotchet	نزوة مغناطيسية
+magnetic cutter head	رأس القاطع المغناطيسي
+magnetic declination	زاوية الانحراف المغناطيسي / حدور مغناطيسي / انحراف مغناطيسي
+magnetic deflection	انحراف مغناطيسي
+magnetic detector for lightning currents	مكشاف مغنطيسي للتيارات الناتجة عن الصواعق
+magnetic deviation	انحراف مغناطيسي
+magnetic difference of potential	فرق الكمون المغنطيسي
+magnetic differentiation	تمايُز مغناطيسي، تفريق مغناطيسي
+magnetic dip	مَيل مغناطيسي
+magnetic dipole	قطب ثنائي مغناطيسي
+magnetic dipole (1)	ثنائي قطب مغناطيسي (1)
+magnetic dipole (2)	ثنائي قطب مغناطيسي (2)
+magnetic dipole moment	عزم قطب ثنائي مغناطيسي / عزم ثنائي قطب مغناطيسي
+magnetic disc	قرص مغناطيسي
+magnetic disk	قرص تسجيل مغناطيسي
+magnetic drag	سحب مغناطيسي
+magnetic drum	أسطوانة مغنطيسية
+magnetic encoded checks	ضبط شفري مغنطيسي
+magnetic equator	خط الاستواء المغناطيسي
+magnetic erasing head	رأس محو مغناطيسي
+magnetic field	مجال مغناطيسي / مجال (حقل) مغناطيسى / مجال مغنطيسي / حَقْل مغناطيسي
+magnetic field intensity	شدة المجال المغناطيسي
+magnetic field strength	شدة المجال المغناطيسي
+magnetic field strength anisotropy factor	عامل تباين خواص الفقد (لزاوية معيّنة)
+magnetic field strength; magnetizing field strength	شدة مجال مغناطيسي
+Magnetic flow meter	مقياس التدفّق المغناطيسي
+magnetic flow meter/electromagnetic flowmeter	مقياس تدفق كهرومغناطيسي
+magnetic flux	تدفّق مغناطيسيّ / فيض مغناطيسي / تدفق مغنطيسي
+magnetic flux density	كثافة الفيض المغناطيسي / كثافة التدفق المغناطيسي / كثافة التدفق المغنطيسي
+magnetic flux density; magnetic induction	كثافة فيض مغناطيسي ،حث مغناطيسي
+magnetic flux line	خط المجال المغناطيسي
+magnetic focusing	تركيز مغناطيسي
+magnetic frequency multiplier	مضاعف تردد مغناطيسي
+magnetic friction clutch	قابض بالاحتكاك المغناطيسي
+magnetic gripper	قابض مغناطيسي
+magnetic head	رأس مغناطيسي
+magnetic head core	قلب رأس مغناطيسي
+magnetic head gap	فجوة رأس مغناطيسي
+magnetic hysteresis	تخلفية مغناطيسية / تخلف مغناطيسي / بطاء مغنطيسي
+magnetic induction	حثّ مغناطيسي
+magnetic inspection	فحص مغناطيسي
+magnetic Kerr effect; magneto-optic Kerr effect	تأثير (كير) المغناطيسية
+magnetic leakage	تسرب مغنطيسي
+magnetic leakage factor	خط الحمل
+magnetic levitation system maglev	نظام الوسادة الهوائية ماجليف
+magnetic linging	ربط مغنطيسي
+magnetic loading	حمل مغناطيسي
+magnetic loss	فقد مغناطيسي
+magnetic loss angle	زاوية فقد مغناطيسي
+magnetic loss index	دليل فقد مغناطيسي
+magnetic loss resistance	عامل جودة (مغناطيسى)
+magnetic meridian	خط الزوال المغناطيسي
+magnetic moment	عزم مغنطيسي
+magnetic needle	إبرة مغناطيسية
+magnetic North	شمال (ال...) المغناطيسي
+magnetic overload release	اعتاق مغناطيسى بزيادة الحمل
+magnetic particle clutch	قابض ذو مسحوق مغناطيسي
+magnetic particle coupling	تقارن بواسطة جسيمات مغناطيسية
+magnetic particle inspection	فحص بالجزيئات الممغنطة
+magnetic passive position sensor (MAPPS)	حسّاس تحديد المواضع المغناطيسي اللاتلامسي (MAPPS)
+magnetic permeability	نفاذيّة مغنطيسيّة / إنفاذية مغناطيسية
+magnetic phase shifter (for trigger equipment)	ناقل طور مغنطيسي (مبدل)
+magnetic polarity reversal	انعكاس القطبية المغناطيسية
+magnetic polarization	إستقطاب مغناطيسي
+magnetic pole	قطب مغناطيسي
+magnetic poles	أقطاب مغناطيسية
+magnetic potential difference	فرق جهد مغناطيسي
+magnetic powder core	قلب (مغناطيسي) رقائقي
+magnetic preconditioning value	قيمة التهيئة المغناطيسية المسبقة
+magnetic pressure	ضغط علي مائع موصل
+magnetic printing ink	حبر طباعة مغنطيسي
+magnetic pull	خَطّ محايد
+magnetic recorder	مسجل مغناطيسي
+magnetic recording	تسجيل مغناطيسي
+magnetic recording head	رأس نسجيل مغناطيسي
+magnetic recording medium	وسط تسجيل مغناطيسي
+magnetic recording/reproducing head	رأس تسجيل \ إعادة إنتاج مغناطيسي
+magnetic relaxation	عامل عدم تكيف (النفاذية)
+magnetic reluctance/ magnetic resistance	مُقاومة مغناطيسية
+magnetic remanence	استبقاء لمغناطيسي
+magnetic reproducer	مستعيد مغناطيسي
+magnetic reproducing head	رأس إعادة إنتاج مغناطيسيِ
+magnetic reproduction	إعادة إنتاج مغناطيسي
+magnetic resonance imaging; MRI (abbreviation)	تصوير الرنين المغناطيسى
+magnetic saturation	تشبع مغناطيسي
+magnetic screen	شبكة مغناطيسية
+magnetic screen; magnetic shield (US)	شاشة مغناطيسية
+magnetic sensitivity (of a Hall probe)	حساسية مغناطيسية (لمجس هول)
+magnetic separation	فَصْل مغناطيسي
+Magnetic separator	فاصل مغناطيسي / فَاصِل مغناطيسي
+magnetic seperation	فصل مغناطيسي
+magnetic shunt	مفرع مغناطيسي
+magnetic stimulation; magnetostimulation	تنبيه مغناطيسى؛ إستثارة مغناطيسية
+magnetic storm	عاصفة مغناطيسية
+magnetic substance	مادة مغناطيسية
+magnetic survey	مَسْح مغناطيسي / تنقيب مغناطيسي، مسح مغناطيسي
+magnetic susceptibility	المتأثريَة المغناطيسية
+magnetic tape	شريط مغناطيسي
+magnetic tape unit	وحدة الأشرطة المغنطيسية
+magnetic tension	جهد مغناطيسي
+magnetic texture	بنية (نسيج) مغناطيسية
+magnetic track	مسار مغناطيسي
+magnetic train control	مراقبة قطار مغناطيسي
+magnetic treadle	دواسة مغناطيسية
+magnetic variable reluctance pick-up head	رأس التقاط بممانعة مغناطيسية متغيرة
+magnetic variation	تغير مغناطيسي
+magnetic vector potential	متجه جهد مغناطيسي
+magnetic video recorder	مسجل مرئي مغناطيسي
+magnetic videodisk	قرص مرئي مغناطيسي
+magnetic viscosity	ما بعد الأثر المغناطيسي
+magnetic viscosity; magnetic diffusivity	لزوجة مائع موصل
+magnetic, adj	مغناطيسي
+magnetically anisotropic substance	مادة متباينة الخواص مغناطيسيا
+magnetically coupled circuits	دائرتان مقترنتان مغناطيسياً
+magnetically hard material	مادة صلدة مغناطيسياً / مادة صلبة مغناطيسيا
+magnetically isotropic substance	مادة موحدة الخواص مغناطيسيا
+magnetically levitated train	قِطَار الوسادة الهوائية
+magnetically soft material	مادة لينة مغناطيسياً / مادة لينة مغناطيسيا
+magnetically supported vehicle; maglev	مركبة تعمل مغناطيسياً
+magnetism	المغناطيسية / مغناطيسية
+magnetite	مغنتيت
+magnetization	مغنطة
+magnetization characteristic	خاصية المغنطة
+magnetize, verb	يمغنط / عامل التشوه التوافقي المغناطيسي الكلي
+magnetizing curve	منحنى المغنطة
+magnetizing force	قوة ممغنطة
+magneto	مغنيط
+magneto (telephone) bell; polarized ringer	مولد مغناطيسي لجرس (هاتف)
+magneto ignition system	منظومة الإشعال المغناطيسي
+magneto-aerodynamics	تحريك هوائي مغناطيسي
+magneto-hydro-dynamic thermal power station; MHD power station	محطة توليد حرارية مغناطيسية مائية حركية
+magneto-ionic component	مركّبة أيونية-مغناطيسية
+magneto-ionic double refraction	انكسار مزدوج أيوني-مغناطيسي
+magneto-optic	مغنيطي بصري
+magneto-optic effect	تأثير مغناطيسي بصري
+magneto-rheological fluid (MRF)	سائل مغناطيسي ريولوجي
+magneto-striction	تقبّض مغنطيسي
+magnetocardiogram	رسم مغناطيسي للقلب
+magnetocardiograph	راسم مغناطيسي للقلب
+magnetocardiography	تقنية الكشف بالرسم المغناطيسي للقلب
+magnetodynamic pick-up head	رأس التقاط مغناطيسي حركي
+magnetoelastic effect	تأثير مرن مغناطيسياً
+magnetoelastic force transducer	مُستشعر قوة مرن مغناطيسياً
+magnetoelastic torque sensor	مُستشعر العزم المغناطيسي المرن
+magnetoencephalogram	رسم مغناطيسي للدماغ
+magnetoencephalograph	راسم مغناطيسي للدماغ
+magnetoencephalography	تقنية الكشف بالرسم الكهربائي للدماغ
+magnetohydrodynamic oscillation	تأرجح ديناميكي مائي مغناطيسي؛ تأرجح هيدرومغناطيسى
+magnetohydrodynamic wave	موجة ديناميكية مائية مغناطيسية؛ موجة هيدرومغناطيسية
+magnetohydrodynamics; MHD	الديناميكا المائية المغناطيسية؛ الهيدرومغناطيسية
+magnetometer	مقياس كثافة الفيض المغناطيسي / مقياس المغناطيسية / مقياس المغنطة
+magnetomotive force	قوة دافعة مغناطيسية / قوة محركة مغنطيسية
+magnetomotive force (mmf)	قوة دافعة مغناطية
+magnetomotive force; mmf	قوة دفع مغناطيسي
+magnetopause	ركود مغناطيسي
+magnetoresistance	مقاومة مغنطية
+magnetoresistive characteristic curve	منحنى خواص المقاومة المغناطيسية
+magnetoresistive coefficient	معامل المقاومة المغناطيسية
+magnetoresistive effect	أثر المقاومة المغناطيسية
+magnetoresistive ratio	نسبة المقاومة المغناطيسية
+magnetoresistive sensitivity	حساسية المقاومة المغناطيسية
+magnetoresistive sensor	مُستشعر مُقاوم مغناطيسياً
+magnetoresistor	مُستشعر مغناطيسي / مقاوم مغناطيسى
+magnetosonic wave; magnetoacoustic wave	موجة مغناطيسية طولية؛ موجة مغناطيسية سمعية
+magnetosphere	الغلاف المشحون الدائر مع الأرض، مغنيتوسفير / غلاف مغناطيسي
+magnetostatic field	مجال مغناطيسية ساكنة
+magnetostatics	مغناطيسية ساكنة
+magnetostriction	تخصَر مغناطيسي / تَخَصُّر مغناطيسي / تَقَبُّض مغناطيسي
+magnetostriction loudspeaker	مكبر صوت ذو تقبض مغناطيسي
+magnetostriction microphone	ميكروفون ذو تقبض مغناطيسي
+magnetostrictive converter	محول التّقبّض المغناطيسي
+magnetron	صمام مغناطيسي الكتروني ( مغناترون ) / مَجنترون
+magnetron injection gun	قاذف حقن ماغنيترون
+magnification	تكبير
+magnification ratio,	نسبة تكبير,
+magnifying effect	تأثير التكبير
+magnitude	سعة/حجم
+magnitude / order of magnitude	ترتيب من حيث القيمة أو الحجم
+magnitude of a voltage fluctuation	مقدار تأرجح (تقلب) الجهد
+Magnus effect	ظاهرة ماجنوس
+Maguey	ألياف ماجواي
+mahogany	خشب ماهوجوني
+mahogany wood	خشب الماهوجني
+maiden	عذراء
+maiden trip	رحلة تدشين
+mail car	عَرَبَة البريد
+main (or trunk) line	خط رئيسي
+main air reservoir	خزان الهَواء الرئيسي
+main air-gap	فجوة هوائية رئيسة
+main airfield	مطار رئيس
+main alternator	مولد رئيسي للتيار المتردد
+main backfill	رَدْم رئيسيّ
+main beam	جائز رئيس / جائز رئيسي
+main bearings	محامل رئيسة
+main bracing	ربط رئيسي
+main busbar	قضيب تجميع رئيس
+main cable	كبل رئيسي
+main carrier	حامل رئيسى
+main catenary wire; principal carrier	سلك تعليق رئيسي
+main channel	خَزّان رئيسيّ / قناة رَئِيسِيَّة
+main circuit (of a switching device)	دارة رئيسية
+main circuit (of an assembly)	دارة رئيسية
+main circuit connection (ABS)	الدائرة الرئيسية (نظام منع غلق العجلات (ABS))
+main circuit; principal circuit	دارة رئيسة
+main code	رمز رئيس؛ تشفير رئيسى
+main collector	مُجمِّع رئيسيّ (لمياه الصرف)
+main Components	المكونات الأساسية
+main conduct	خط رئيسي
+main consumer groups	دوائر الاستهلاك الرئيسية
+main contact	ملامس رئيسى
+main contacts	الملامسات الرئيسة
+main convertor; traction convertor	المبدل الرئيسي
+main couple	قارنة رئيسية
+main deck	سَطْح رئيسي
+main deck depth	عمق السطح الرئيسي
+main dike; main levee	سد رئيسيّ
+main discharge	مَخْلَص رئيسيّ
+main distribution frame	إطار توزيع رئيسى / اطار التوزيع رئيسي / إطار التوزيع الرئيسي (هواتف)
+Main Distribution Substation	محطة توزيع رئيسة
+main door	باب رئيسي
+main drain; leader drain	مَصْرِف رئيسيّ
+main electrode,	قطب رئيسي,
+main flux	فيض رئيسي
+main gap	فجوة رئيسيه
+main generator	مولّد رئيس
+main girder	عَارِضَة رَئِيسِية / جائز رئيسي
+main head regulator	قَنْطَرة صرف رئيسية
+main headlamps [UK] / main headlights [US]	الكشّاف الرئيسي
+main injection	الحقن الرئيسي
+main injection piezo-valve diesel engine	الحقن الرئيسي بصمام ضغطي في محرك ديزل
+main jet system	نظام النفث الرئيسي
+main landing gear	عُدّة حط رئيسة
+main leg	ساق (رجل ) رئيسية
+main line	أُنْبوب رئيسيّ / خط رئيسي / خطّ رئيسي / حبل رئيس
+main line services	خدمات الخطوط الرئيسية
+main line traffic	حركة خط رئيسي
+main lobe	فص (ال...) الرئيسي
+main mast	صاري رئيسي
+main middle staysail	شراع الزّمام الأوسط الرئيسي
+main oil firing	تدفئة رئيسية بالمازوت
+main pipe	صَرْف شريانيّ (مُجمّع)
+main pole	قطب رئيسي
+main protection; primary protection (US)	حماية رئيسية
+main railway line	خط السكك الحديدية الرئيسي / خَطُّ الحَدِيد الرَّئِيسِيَّ
+main reflector	عاكس رئيسي
+main reinforcement	تسليح رئيس
+main route	مسار رئيسي
+main route (class of route)	طريق رئيسي
+main route in section	طريق رئيسي في القسم
+main running line	خط السير الرئيسى
+main sewer	قناة تجميع صرف صحي / مجرى رئيسي / مُجمِّع رئيسيّ
+main signal	إشارة رئيسية
+main signal and shunting signal combined	إشارة رئيسية للإحالة والتوقيف
+main signal controlled by automatic train routing	إشارة رئيسية تلقائية
+main signal with shunting aspect	اشارة رئيسية للمناورة
+main station track	مسار رئيسي
+main station; parent station	محطة رئيسة
+main storage; main memory	مخزن رئيسي؛ ذاكرة رئيسية
+main switching contacts	ملامسات الفصل والوصل الرئيسية
+main terminal	نهاية رئيسية
+main topsail	شراع أعلى رئيسي
+main track to the train station	مسار رئيسي دائم
+main track, main line	مسار مباشر
+main transverse	مستعرض رئيس
+main transverse bulkhead	فاصل مستعرض رئيسي
+main water table / phreatic surface	سَطْح الماء الجوفيّ الرئيسيّ
+main winding	ملف رئيس
+main-beam assistant [UK] / high-beam assistant [US]	مُساعد الضوء العالي
+main-beam headlight; high-beam headlight; driving-beam headlight	أنوار أمامية رئيسية؛ أنوار أمامية عالية
+Main-water discharge Cooling tower	برج التبريد الرئيسي لتصريف المياه
+mainframe	حاسب رئيس
+mainland	جزيرة رئيسية
+mainmast	صاري سفينة رئيسي
+mainplane	سطح رئيس
+mainplane; plane; wing	جناح
+mains decoupling factor	عامل فك ارتباط المدخل الرئيسي (فك الارتباط بالتغذية)
+mains frequency (in electroheat)	تردد المصدر (في الحرارة الكهربائية)
+mains immunity	مناعة المدخل الرئيسي (مناعة بالنسبة للتغذية)
+mains-borne disturbance	اضطراب بالمدخل الرئيسي ( ناشئ من المصدر)
+mainsail	شراع رئيسي
+mainshock	هزة أساسية
+mainstage	مرحلة رئيسة
+maintain temperature,	الحفاظ على درجة الحرارة, تسخين بالتتبع
+maintainability	قابلية الصيانة، / قابلية الصيانة
+maintainability,	القابلية للصيانة,
+maintained average illuminance	متوسط الإستضاءة الدائمة
+maintained average luminance	متوسط الإستضواء الدائم
+maintained command	أمر نبضي
+maintained control gear	معدة تحكم دائمة
+maintained lighting value	قيم الإضاءة المستقرة
+maintained time relay	مُرَحِّل زمني حافظ
+maintained value	قيمة الأداء
+maintaining voltage	جهد متبقي
+maintenance	الصيانة / صِيانة / صِيَانَة / صيانة / صِيانَة
+maintenance action; maintenance task	عمليه الصيانه؛ مهمة الصيانة
+maintenance and surveillance, operational	صِيانة ومراقبة تشغيلية
+maintenance area / maintenance depot	إدارة أعمال الصيانة على المجاري المائية
+maintenance burden	عبء الصيانة
+maintenance by biological means	صِيانة بوسائل حَيوية (بيولوجية)
+Maintenance Centre	مَرْكَزُ الصِّيانَةِ
+maintenance cost	كلفة الصيانة
+Maintenance cost on railways infrastructure	نَفَقاتُ صِيانَةِ البِنْيَةِ التَحْتِيَّةِ للخُطُوطِ الحَدِيدِيَّةِ
+maintenance costs	تكاليف الصيانة
+maintenance crew	طاقم الصيانة
+maintenance depot	مستودع الصِّيَانَةِ
+maintenance door	باب الصيانة
+maintenance duration	فترة الصيانة
+maintenance equipment	معدات الصيانة
+Maintenance expenditure on rolling stock	نَفَقاتُ صِيانَةِ المتحركات
+Maintenance Facilities	مَرَافِقُ الصِيَانَةِ
+maintenance free lead-acid battery	بطارية حمض الرصاص لا تحتاج الصيانة
+maintenance gangway	ممر الصيانة
+maintenance man-hours; MMH	فترة الصيانه/ رجل - ساعة
+maintenance management system	نظام تدبير الصيانة
+maintenance manual	كُتيب الصيانة
+maintenance notebook	كُتيب الصيانة
+maintenance of domestic sewage treatment plants	صِيانة وحدات معالجة مياه الصرف المنزلية
+maintenance of switches and crossings	صيانة التبديل
+maintenance of way	محافظة على الطريق
+maintenance of way (MOW)	صيانة المسار
+maintenance of way car	عَرَبَة الصيانة
+maintenance outage duration; maintenance duration	فترة خروج للصيانة؛ فترة الصيانة
+maintenance plan	خطة الصيانة / خُطَّة الصِيانة
+maintenance policy; maintenance concept	السياسة العامة للصيانة؛ مفهوم الصيانة
+maintenance register for machines and pumps	دِفْتر صِيانة الماكينات والمضخات
+maintenance road	طَريق الصِيانة
+Maintenance Server	خادِمُ صِيانَةٍ
+maintenance status	حالة صيانة / وضع صيانة
+maintenance support	دعم الصيانة
+maintenance support performance	أداء دعم الصيانة
+maintenance test	إختبار صيانةِ
+maintenance time	مدة الصيانة؛ فترة الصيانة
+maintenance train	قِطَار الصيانة
+maintenance unit	وحدة صيانة
+maintenance work	أعمال الصيانة
+maintenance,	صيانة, فى الأجواء المتفجرة
+maintenance, corrective	صِيانة تصحيحية
+maintenance-free battery	نضيدة لا تحتاج صيانة
+maintenance-free battery [UK] / maintenance-free battery [US]	بطارية لا تحتاج لصيانة
+maintenance; servicing; upkeep	صيانة
+maisonnette	بُيَيْت
+maixmum power current	تيار القدرة القصوى
+major (large) appliances	أجهزة رئيسية (كبيرة)
+major aXis	محور أكبر
+major breakdown	اضطراب كبير
+major fold	طَيَّة رئيسية
+major highway (or road)	طريق رئيسي، طريق الأفضلية
+major lobe; main lobe	نتوء رئيسي
+major marshalling yard	محطة فرز رئيسية
+major matches	تعديلات جوهرية
+major portion of the Earth's atmosphere	الجزء الرئيس من الغلاف الجوىالمحيط بالارض
+major principal stress	إجهاد (ال...) الأساسي الأعظمي
+major repairs	إصلاحات كبرى
+major road	طريق رئيسي
+majority carrier (in a semiconductor region)	حامل أكثرية للشحنات (فى منطقة شبه موصله)
+majority voting system	نظام تصويت الأغلبية
+majuscule	حرف استهلالي
+make (to) of a manikin	شكّل ماثلا خشبيا
+make a terrace (to …)	سطَّح البيتَ
+make contact	تلامس وصل / ملامس توصيل
+make contact (for elementary relays)	تلامس وصل (للمرحّلات البسيطة )
+make ready	عمل تمهيدي (تجهيز للطبع)
+make up	أحْكَمَ الربطَ بالمفتاح
+make up another wrinkle	أحكَم ربطَ الأنبوب بلفه دورة إضافية
+make up torque	مزدوجة الحصر
+make-break time	مدة زمن الوصل والفصل
+make-time	مدة زمن الوصل
+make-to-stock production; warehouse production	إنتاج بالتخزين
+Make-up air	هواء تعويضي
+make-up heater	سخانة ذات برغي
+maker's price of manufacturer's price	تكلفة المصنع
+makeready table	منضدة العمل التمهيدي
+makeup water	ماء التعويض
+making a connection	إضافة وصلة (إلى أنابيب الحفر)
+making a trip	إخراج أنابيب الحفر من البئر
+making capacity	استطاعة توصيل؛ سعة توصيل
+making capacity (of a switching device or a fuse)	سعة الوصل
+making up and imposing	تركيب صفحات الطبع
+making-current	تيار الوصل
+mako batiste	ماكو باتسته
+Mako cotton yarn	خيط غزل ماكو
+malachite	ملاكيت
+maladaptation	سوء تكيف
+male connection	وُصْلة ذكرٌ
+male thread	سِنٌّ ذكرٌ
+maleic anhydride value, (M.A.V.)	قيمة (قرينة) بلا ماء حمض المالئيك
+males	جلد ذكري
+malfunction indicator lamp (MIL) [UK] / malfunction indicator light (MIL) [US]	لمبة بيان الأعطال (MIL)
+malfunction,	خطأ وظيفى, الأجواء المتفجرة / خطا وظيفى, معدة غيركهربية
+malfunction, disturbance, fault	عُطل
+Malimo	ماليمو
+Malivlies	ماليفليز
+Maliwatt	ماليواط
+malleability	طروقية(ال…) / قابلية الطَّرق
+malleable	قابل للطَّرْق
+malleable cast iron	حديد صب قابل للطرق
+mallet	مطرقة خشبية
+Mallory cell	خليّة مالوري
+Malmkarst (Upper Jurassic karst)	كارست مالم
+maltha	ملتة (ال..)
+malthusian trap	مصيدة مالتوس
+malware; malicious software	برمجيات خبيثة؛ برمجيات ضارة
+mameluke sleeve	أكمام المَمَالِيك
+mammoth pump / airlift	مِرفاع هوائيّ
+mammoth tanker	ناقلة عملاقة / صهريج جبار (ضخم)، ناقلة جبارة
+mammoth/airlift pump	مضخة هوائية/مصعد هوائي
+man space	فراغ الفرد
+man-accessible sewer	قناة يمكن للإنسان الدخول إليها
+man-machine language; MML	لغة تعامل الانسان مع الألة
+man-made embankment	تعلية تربة الضِفُة
+Man-Made Fibers	ألياف صناعية
+man-made fibers arrangement	اتفاقية الألياف الصناعية
+man-made noise	ضوضاء اصطناعي / ضوضاء من صنع الإنسان
+man-made noise,	ضوضاء اصطناعية
+man-made radiation	إشعاع اصطناعي
+man-made sky glow	توهج بشرى للسماء
+man-shift (MS)	عامل / نوبة العمل (MS)
+managed object	ادارة الكيان
+management	إدارة / إدارة (أعمال)
+management (admin.)	إدارة (مجال الإدارة)
+management (of ecosystems)	إدارة (النظم الإيكولوجية)
+management bonus	مكافأة الإدارة
+management domain	ادارة النطاق
+management forecast of a system	إدارة توقعات النظام الكهربائي؛ إدارة توقعات الشبكة
+Management Information Base	قاعِدَةُ مَعْلُوماتِ الإِدارَةِ
+management of farm animal genetic resources	إدارة العمليات الفنية لحيوانات المزارع
+management of water resources	إدارة مصادر المياه
+management strategy	استراتيجية الإدارة
+management tables	جداول الإدارة
+management, control	إدارة
+management, matched	إدارة متواءمة
+management, normative	إدارة قياسية
+management, operative	إدارة تشغيلية
+management, sustained	إدارة مستدامة
+ManagEnergy	مبادرة الدعم الفني ManagEnergy
+manager and secretary service	خدمة مدير- سكرتيرة
+Managing Director (MD)	عضو منتدب
+Managing Director Administration	قطاع العضو المنتدب للشؤون الإدارية
+mancheron sleeve	كم منشوري
+Manchester cloth	قطيفة مضلعة مانشستر
+manchester pants	سروال مانشيستر
+mandarin collar	ياقة رسمية
+mandatory	إجباري / إلزامي
+mandatory connection	التوصيل الإلزامي / توصيل إلزامي
+Mandatory Environmental Checklist	قائمة التدقيق البيئي
+mandatory recycling	إعادة تدوير إلزامية
+mandrel	مِلقاط / قلب التشكيل
+mandrel socket; bell socket	أداة التقاط
+Manebach twinning	توأمة مانيباخ
+maneuver; manoeuvre	مناورة
+manganese	منغنيز
+manganese bronze	برونز المنغنيز
+mangler-wheel	عجلة صقل، دولاب آلة صقل
+mangrove	منغروف
+mangroves	شجرة المنغروف
+Manhattan	مانهاتن
+manhole	بئر مُراقبة / غُرفَة تَفتِيش / غرفة تفتيش / حجرة تفتيش / فتحة تفتيش، حفرة تفتيش / فتحة الصيانة، فتحة التنظيف
+manhole connection sleeve	وُصْلة رَبْط بئر
+manhole cover	تغطية حفرة التفتيش / غِطاء حفرة التفتيش / غطاء فتحة التفتيش
+manhole, connecting	بئر مَصرف مَجاري احتياطي
+manhole; entry shaft	بئر تفتيش ومراقبة
+Manifest	وثائق مرفقة / قائمة / بيان الصدور
+manifestation,	إيضاح وإظهار،,
+manifold	رَابِط مَركَزِي / مشعب / نظام الوقود والعادم / مَشْعَب / مُفَرِّع
+manifold (main manifold)	مشعب (المشعب الرئيسي)
+manifold paper	ورق نسخ رفيع
+manifold pressure	ضغط المفَرِّع
+manifold valve	صِمام متعدد المسالك، صِمام أنبوبي
+manila	ألياف المانيلا
+manila paper	ورق مانيلا / ورق مرّ
+manila/kraft-mixture paper	ورق خليط كرافت/مانيلا
+manilla rope	حبل مانيلا / كَبْل مجدول من قنب مانيلا
+manipulate, verb	يعالج, فعل
+manipulated variable	متغير ُمعالَج
+manipulating time	زمن المعالجة
+manipulation detection code; MDC	شفرة كشف التلاعب
+Manipulator	مُناول
+manjak	مَنْجاك
+manless train operation (MTO)	تشغيل آلي
+manlift	منصة الرَّفع
+manned engine-room	غرفة آلات محروسة
+Manned HMI	واجِهَةٌ مَأْهُولَةٌ بَيْنَ الإِنْسانِ وَالآلَةِ
+manned level crossing protection system	نظام حماية معبر أرضي محروس
+manned substation	محطة مأهولة
+mannequin	عارضة الأزياء
+manning	تجهيز العاملين
+Manning’s formula	صيغة 'ماننج' / صيغة مانينغ
+manoeuvrability	سهولة المناورة
+manoeuvrable re-entry vehicle	مَركبة عودة سهلة المناورة
+manoeuvre ceiling	ارتفاع المناورة الأقصى
+manoeuvre flap	قلاّبة مناورة
+manoeuvre margins	حدود المناورة
+manoeuvre point	نقطة مناورة
+manoeuvre-enhancement	تعزيز المناورة
+manoeuvre-induced error	خطأ مستحث بالمناورة
+manoeuvring area	منطقة مناورة
+manoeuvring ballistic re-entry vehicle	مَركبة عودة قذفية سهلة المناورة
+manoeuvring factor	مُعامِل المناورة
+manoeuvring signal	إشارة مناورة
+manometer	مقياس ضغط / مانومتر / مِضْغَط
+manometer bank	صفيف مقاييس ضغط
+manometer; pressure manometer	مانومتر
+manometric lock	قفل الضغط
+manpack	حاملة أفراد
+mansard	سقيفة
+mansard roof	سقف محدّر
+mansard roof; knee roof	سقف سندي
+mansion	منزل ريفي
+mantel	غِطاء / إطار المدفأة، رفّ المدفأة
+mantel rock	غلاف الصخر
+mantilla	طَرْحَة
+mantle	وشاح
+mantle clamping unit	وحدة ربط (تثبيت) غلافية (وحدة تثبيت مختفية)
+mantle terminal	طرف غلافي (طرف مختفى)
+mantua	قميص مانتوفا
+manual (telephone) exchange	مقسم ( بدالة ) هاتف يدوي
+manual (telephone) operation	تشغيل ( هاتف ) يدوي
+manual air pump	مضخة هواء يدوية
+manual answering	رد يدوى
+manual block	مجموعة يدوية
+manual calling (in data communication)	نداء يدوى (فى اتصال البيانات)
+manual cancellation of route; manual route release	الغاء المسار يدويا
+manual control	تحكم يدوى / تحكم يدوي
+manual control measure	اجراء للتحكم اليدوى
+manual direction finding	إيجاد الاتجاه يدوياً
+manual editing	تحرير يدوي
+manual feedback	تغذية مرتدة يدوية
+manual fire alarm	منبّه يدوي إلى الحريق
+manual hold	حجز يدوي
+manual jack	مِرْفاع يدوي
+manual laminating process	طريقة الترقيق اليدوي
+manual lever	رَافِعَة يدوية
+manual metal-arc welding	لحام قوس كهربائي معدني يدوي
+manual operation	تشغيل يدوى
+manual operation of motor-drive mechanism	تحكم يدوي لآلية قيادة لمحرك
+manual operation,	تشغيل يدوى,
+manual override	إبطال يدوي / هيمنة يدوية
+manual reversion	عَكْس يدوي
+manual sawing	نشر يدوي
+manual sawing in the forest	نشرة يدوي في الغابة
+manual separation	فصل يدوي
+manual signalling	إشارات يدوية
+manual starter	بادئ حركة يدوى
+manual switchgroup	مجموعة مفاتيح يدوية
+manual switching	فصل ووصل (تبديل) يدوي
+manual throttle control	مقبض وقود يدوي
+manual torch	مشعل لحام يدوي
+manual training	تدريب يدوي
+manual transmission	ناقل حركة يدوي
+manual transmission oil	زيت صندوق التروس اليدوي
+Manual Turnout Clamp	قُفْلُ المُحَوَّلَةِ اليَدَوِيّ
+manual, adj	يــدوى, صفة
+manual/automatic toggle switch (ETS)	مفتاح تحويل يدوي-أوتوماتي (نظام ETS)
+manually controlled level crossing	معبر تقاطع بنفس المستوى يتم التحكم فيه يدويا
+manually-operated signal	أشارة تشغل يدويا
+manufacture / production	إنتاج
+manufacture's spare pair	زوج احتياطي من المصّنع
+manufactured board	ألواح مصنّعة
+manufactured head	رأس مُصَنَّع
+manufacturer	مُصنِّع
+manufacturer's documentation	وثائق المصنع
+manufacturer,	المصنع, الأجواء المتفجرة-صيانة و إصلاح / مصنع, الأجواء المتفجرة
+Manufacturing Automation Protocol	بروتوكول أتمتة التصنيع (MAP)
+manufacturing capital	رأسمال التصنيع
+manufacturing costs	تكاليف الصنع
+manufacturing fault,	خطأ تصنيعى،,
+manufacturing principle	مبدأ التصنيع
+manufacturing resource planning	تخطيط موارد التصنيع
+manufacturing secret	سر الصنع
+manure	سماد طبيعي / سَمَادٌ عُضْوِيٌّ
+manuscript	أصل مخطوط
+Mao look	نمط ماو
+map	خريطة
+map ignition (ESC)	الإشعال بالمُخطط الخصائصي (ESC)
+map over, verb; map, verb	يوقع, فعل
+map paper	ورق خرائط
+map-controlled ignition	نظام إشعال محكوم بمُخطط خصائصي
+map-matching	مطابقة الخريطة / مواءمة الخريطة
+maple	قَيْقَبٌ
+maple wood	خشب القيقب
+mapping of biotope	رسم خرائط الموائل
+mapping radar	رادار خرائطي
+maquis or macchia	أدغال
+maraging steel	صُلب مُكَرْبَن مُعَتَّق
+marble	رخام، مرمر
+marble facing	تكسية رخامية، تلبيس بالرخام
+marble gravel	حصى رخامي
+marble paper	ورق رخامي
+marble powder	مسحوق رخامي
+marbled leather	جلد مَرْمَرِيّ
+marbled tiles	بلطات رخامية
+marblewood	خشب معرّق أو مجزّع
+marcasite	ماركاسايت / مَرْقَسِيت
+march (marsh)	مستنقع
+marching dunes	كثبان متحركة
+maregraph	مقياس المدر
+Mareng tank	خزان مارِنج
+Marengo	مارينجو
+marengo yarn	خيط مارينجو
+margary's process	طريقة 'مارجري'
+margin	هامش / هامش ربحي
+margin (of a receiver or other terminal)	هامش (لمستقبل أو طرف آخر)
+margin (of a start-stop apparatus)	هامش (لجهاز تشغيل-توقّف)
+margin bar	قضيب الهامش
+margin of a synchronous receiver	هامش لمستقبل متزامن
+margin of error	هامش الخطإ
+margin of lift	حد الرفع / مجال الرفع
+margin of safety	حَدُّ السلامة / احتياطي الأمان / مجال الأمان
+margin trowel	مالج زوايا
+marginal	هامشي
+marginal abatement costs	تكاليف تخفيض حدية
+marginal bund	حاجِز هامِشيّ
+marginal cost	كُلفة حَدِيَة (بديلة) / تكلفة حدية أو هامشية / تكلفة هامشية / تكاليف هامشية / تكلفة حدية
+marginal cost method (of determining consumer class costs)	طريقة الكلفة الحدية لتحديد فئة الكلفة للمستهلك؛ طريقة هامش التكلفة
+marginal cost pricing	تسعير التكلفة الهامشية
+marginal deposit	راسب هامشي
+marginal efficiency of capital	كفاءة هامشية لرأس المال
+marginal land	أراضي هامشية
+marginal material	مادَّة هَامِشِيَّة
+marginal note (pl. marginalia)	حاشية
+marginal performance	أداء حافّي / أداء حَدِّي
+marginal productivity	إنتاجية هامشية
+marginal propensity to consume (mpc)	ميل هامشي للاستهلاك
+marginal propensity to save (mps)	ميل هامشي للادخار
+marginal revenue	دخل هامشي
+marginal strip	الخط الطرفي
+marginal strip; border line	خط الحدود، شريط الحدود
+marginal tax rate	معدل ضريبة الهامش
+marginal water	مياه هامشية
+marginal weather	طقس حافّي / طقس حَدِّي
+marginal well	بئر حَدِّية (قليلة الانتاج)
+maria	بحر القمر
+Marilyn Monroe look	نمط مارلين مونرو
+marin oil	زيت بحري
+marine	بحري
+marine abrasion	تَجْريف بحري
+Marine Agency Branch	فرع الوكالة البحرية
+marine aircraft	طائرة مائية
+marine aircraft; maritime aircraft	طائرة بحرية
+marine bed	طبقة بحرية
+marine cave	كهف ساحلي
+marine cliff	جُرْف بحري
+marine climate	مُناخ بحري
+marine compass	بوصلة بحرية
+marine current	تيار بحري
+marine current turbine	محطة توليد الطاقة الكهرمائية
+marine denudation	تعرية بحرية
+Marine Department	دائرة البحرية
+marine deposits	رواسب بحرية
+marine diesel fuel	وقود ديزل بحري (السفن...الخ)
+marine dredger	جرافة (بحرية)، كرّاكة (بحرية)
+marine drilling	حفْر في المناطق المغمورة، حفْر في عرض شواطىء البحر
+marine ecosystem	رابطة بيئية بحرية
+marine energy converter; MEC	محول طاقة التيارالبحري
+marine engine oil	زيت محركات بحرية
+marine engineering	هندسة بحرية، ميكانيكا بحرية
+marine environment	بيئة بحرية
+marine environment not under the jurisdiction of any state	بيئة بحرية لا تخضع لولاية أية دولة
+marine erosion	تعرية بحرية
+marine fleet	أسطول بحري
+marine gas oil	زيت الغاز البحري
+marine heavy fuel	وقود بحري ثقيل، مازوت بحري ثقيل
+marine hovercraft	حوامة بحرية
+marine insurance	تأمين بحري
+marine intermediate fuel	وقود بحري بسيط، مازوت بحري بسيط
+marine litter	قمامة بحرية
+Marine look	نمط البحرية
+marine outfall / sea outfall	مخرج يصب في البحر
+marine phanerogams (sea grasses and phanerogam prairies)	أعشاب بحرية
+marine plywood	خشب معاكس للسفن، خشب رقائقي للسفن
+Marine Powerships Initiative	مبادرة سفن توليد الطاقة الكهربائية
+marine propeller	مروحة بحرية
+marine protected area (mpa)	منطقة محمية بحرية
+marine riser system	أنبوب قائم لجهاز الحفر البحري
+marine risks	مخاطر بحرية
+marine salt	ملح البحر
+marine strategy framework eu directive	مذكرة توجيهية 'إطار الاستراتيجية البحرية' للاتحاد الأوروبي
+marine surveyor	معاين بحري
+marine terminal	منتهى بحري، مطراف بحري
+marine transport	نَقْل بحري
+marine waste discharge	تحويل مياه الصرف إلى البحر
+Marine White Gasoline	جازولين أبيض / بنزين أبيض
+marinière	ياقة البحري
+maritime aircraft	طائرة ساحلية
+maritime climate	مُناخ بحري
+maritime code	مدونة بحرية
+maritime container	حاوية بحرية
+Maritime Diesel\ Marine Diesel Oil (MDO)	ديزل مستخدم للسفن
+maritime law	قانون بحري
+maritime look	طرازي بحري
+maritime mobile service	خدمة بحرية متنقلة
+maritime mobile-satellite service	خدمة متنقلة بحرية بالقمر الصناعي
+maritime safety committee	لجنة الأمن البحري
+maritime subarctic climates or subpolar oceanic climates (cfc)	مناخات مناطق بحرية شبه قطبية (Cfc)
+maritime temperate climates or oceanic climates (cfb, cfc, cwb, cwc)	مناخات بحرية معتدلة أو مناخات المحيطات (Cfb, Cfc, Cwb, Cwc)
+maritime transport	النَّقل البحرى
+mark	علامة
+mark (cites)	وضع علامة (اتفاقية التجارة الدولية في الأنواع المهددة بالانقراض)
+mark condition (in Morse code)	حالة علامة (في شفرة مورس)
+mark of conformity (for certification)	عَلامة المُلاءمة (للتصديق)
+mark of origin	المنشأ
+mark out (to)	وَضَع علامات
+mark sensing cards	بطاقات حساسة
+mark-buoy	عوامة تنبيه، عوامة دليلية
+marked target	هدف مَوْسوم / هدف مُعَلَّم
+marker	علامة المنسوب / مؤشر / علامة / معلم / مَعْلَم
+marker beacon	أرمة إشعاعية / منارة دليليه / منارة دليلية
+marker horizon	طبقة دالّة
+marker light	ضوء التحديد / إضاءة دليلية
+marker post	شاخِص استدلال
+marker space	مسافة علامة
+marker template	صفيحة معايَرة مُعَلَّمة
+market	سوق
+market acceptance	موافقة السوق
+market area	منطقة السوق
+market barrier	حاجز السوق
+market barriers	حواجز السوق / عوائق السوق
+market clearing price	سعر سوق متوازن
+market damages	أضرار السوق
+market economy	اقتصاد السوق
+market failure	فشل السوق
+market impact	آثار السوق
+market incentive programme	برنامج تحفيز السوق / برنامج الحوافز خاص بالسوق
+market launch	دخول السوق
+market opening	فتح أسواق
+market participant market player	مُشارك في السوق
+market penetration	اختراق السوق
+market potential (or currently realizable potential)	إمكانات السوق (أو إمكانات قابلة للتحقق حاليا)
+market premium	قسط السوق
+Market premium model	نموذج قسط السوق
+market price valuation methods	طرق تقييم بسعر السوق
+market regulation	تنظيم السوق
+market regulation instruments; market regulation measures	وسائل تنظيم السوق
+Market regulation means	وسائل تنظيم السوق
+Market Research Department	دائرة بحوث التسويق
+market reservoir	مَخْزَن السوق
+Market Surveillance	مسح السوق
+market value	قيمة سوقية
+market wastes	نفايات السوق
+market-based approach	مقاربة قائمة على السوق
+market-based framework	إطار على أساس السوق
+market-based incentives	حوافز قائمة على السوق
+market-based policy	سياسة قائمة على السوق
+marketing	تسويق
+Marketing Information Technology	دائرة تقنية المعلومات
+marketing logistics	إمدادات التسويق
+Marketing Planning Department	دائرة التخطيط (التسويق)
+marketing policy	سياسة تسويقية
+marketing requirement	متطلبات التسويق
+Marketing Sector	قطاع التسويق
+market‐based mechanisms, ghg emissions	آليات السوق، وانبعاثات غازات دفيئة
+marking	تعليم ،تأشير
+marking / mark, identification / label	تقييد عَلامة
+marking die set	مجموعة قوالب، وسْم بالدمغ
+marking gauge	شنكار الارتفاعات / مخطاط
+marking of cutting	علامات القطع
+marking out (of land, etc.)	تأريث، تعليم
+marking panel	صفيحة دليلية
+marking plate	لوح العلام (زهرة الاستواء)
+marking team	فريق العلامات
+marking timber	تشوير الأخشاب
+marking tool	أداة ترقيم (أو تعليم)
+marking up	وضْع علامة / وَسْم
+markup language	لغة ترميزية؛ لغة توصيف النص
+marl	حُور / مارل
+marl soil	تربة من أصل سجّيلي
+Marlborough hat	قبعة مارلبوروغ
+Marlene Dietrich trousers / palazzo trousers	سروال مارلين ديتريش
+marly clay	غَضَار مارليّ
+Marly etamine	سداة مارلي
+Marpol	ماربول (مختصر لكلمتي: تلوث بحري)
+marquetry	تطعيم الخشب
+marquise	مَرْكِيز (شمسية)
+marquisette	نسيج رقيق مشبك
+marrakesh accords	اتفاقات مراكش
+Marrat layer	طبقة المارات
+marrying up	مُزاوَجة
+marrying up; tuning	موالَفة
+marsh	سبخة
+marsh funnel	قُمْع المستنقع، جهاز (ال...) القُمعي
+marsh funnel viscosimeter	قُمْع مارش لقياس اللزوجة، مقياس لزوجة مارش
+marsh gas	غاز المستنقعات
+marsh land	أرض المستنقعات
+marsh water	مياه مستنقع
+marshal; marshaller	مُرشد
+Marshall test	اختبار مارشال
+marshaller	مُنظِّم
+marshalling	تنظيم
+marshalling point	نقطة إرشاد
+marshalling wand	عصا إرشاد
+Marshalling yard	مَحَطَّةُ التَنْظِيمِ
+marshalling yard; goods yard; switching yard (station)	محطة فَرْز
+marshland	أرض المستنقعات
+marsupial	جرابي
+marsupial mole	خلد جرابي
+marten	فرو خَزّ
+martensite	مَرْتَنسِيت
+Martingale	لَبَب
+Mary Janes	حذاء ماري جان
+MASCHINEN control unit, REGELUNG closed-loop controller	تجهيزة ضبط
+mascon	تركيز الكتلة
+mascotte	قبعة الساحر
+maser	ميزر
+Maserati stability program	برنامج MSP
+Maserati Stability Program (MSP)	برنامج 'مازيراتي' للتحكم في الاتزان (MSP)
+masher	مِدَقَّة
+mask	قناع
+mask for calibration and test	كمامة للمعايرة والاختبار, الكشف عن الغاز
+mask microphone	ميكروفون قناعِ
+masked signal	إشارة مقنعة
+masked threshold	مبدئ السمع المحجوب
+masked valve	صِمام مقنَّع
+masking	حجب / ستْر / تقنيع، تحجيب
+masking audiogram	مخطط سمعي للحجب
+masking tape	شريط تغليف
+masking; shielding	حجْب
+mason's level	ميزان تسوية رأسي
+masonite	ماسونيت
+masonry	بناء
+masonry bond	رباط مبنى
+masonry dam	سد بِنائي / سَدٌّ بِنائيّ
+masonry lining	تَبْطين بنائيّ
+masonry-cum-earth dam	سد بنائي ترابي
+masqueraded message	رسالة متنكرة
+mass	الكتلة / كتلة
+mass air flow sensor	مستشعر التدفق الكتلي للهواء
+mass air flow sensor (MAF)	حسّاس كتلة الهواء (MAF)
+mass attenuation coefficient	معامل توهين الكتلة؛ معامل إضمحلال الكتلة
+mass attenuation coefficient (pair production)	معامل توهين الكتلة (إنتاج زوجِ)؛ معامل إضمحلال الكتلة (إنتاج زوجِ)
+mass attenuation coefficient (photoelectric)	معامل توهين الكتلة (كهروضوئي)؛ معامل إضمحلال الكتلة (كهروضوئى)
+mass attenuation coefficient (scattering)	معامل توهين الكتلة (مشتت)؛ معامل إضمحلال الكتلة (مشتت)
+mass aXis	محور الكتلة
+mass balance	موازنة الكتل / توازن الكتلة / توازن كتلي
+mass balance condition	شرط توازن الكتلة
+mass burn	حَرْق ضخم
+mass burn system	نظام حرق كبير السعة
+mass centre	مَرْكَز الكُتلة
+mass closure	تماس كتلي
+mass concentration of water	كتلة تركيز الماء
+mass concentration of water vapour	كتلة تركيز بخار الماء
+mass concrete	خرسانة كتلية
+mass conservation	حِفْظ الكتلة
+mass curve	مُنحنى تراكميّ
+mass density; density; volumic mass	كثافة الكتلة؛ كثافة؛ كتلة حجمية
+mass diagram	مُخطط تَراكُميّ
+mass discharge curve; cumulative volume curve	مُنحنى تَراكُم التصريف
+mass flow	دَفْق كُتليّ / دفق كتلي / تدفق كتلة هوائية / تدفق كتلي
+mass flow model, conceptual	نموذج افتراضي لدورة المواد في الطبيعة
+mass flow rate	تدفّق كتلي / معدل تدفق المادة ( الكتلة)
+mass fraction	جزء الكتلة
+mass fraction of dry matter	جزء كتلة المادة الجافة
+mass fraction of water	جزء كتلة الماء
+mass haul diagram	تَكعِيبُ التَّترِيبَات؛ بياني حركة الاتربة
+mass in working order	كتلة لمركبة أثناء التشغيل
+mass infiltration	إجمالي الرشح
+mass loading,	تحميل الكتلة
+mass measurement	قياس الكتلة
+mass movement	حركة كتل
+mass number	عدد كتلي
+mass per unit area	وَزْن عِياريّ
+mass precipitation curve / mass per unit area	كُتلَة مُرتبِطة بالمِساحة
+mass production	إنتاج شامل / إنتاج بالجملة، إنتاج بكميات كبيرة
+mass rainfall curve, residual	مُنحنى التراكُمات المتبقية لتساقط الأمطار
+mass ratio	نسبة الكتلة
+mass ratio of water to dry matter	النسبة الحجمية بين الماء والمادة الجافة
+mass reduction	تخفيض الكتلة
+mass resistivity	مقاومة نوعية كتلية
+mass spectograph	مطياف كتلي
+mass spectrometer	مطياف كتلويّ
+mass spectroscopy	مطيافية الكتلة
+mass storage	ذاكرة تخزين كلية
+mass taper	تناقص الكتلة
+mass transit	نقل حضري
+mass-impregnated (paper) insulation	عزل ورقى كتلى مشبع
+mass-impregnated non-draining insulation	عزل كتلى مشبع بدون تصريف
+mass-movement (mass-wasting)	حركة كتلة (فقدان كتل)
+massage stockings	جوارب التدليك
+Massieu function	دالة ماسيو
+massive	كُتليّ
+massive aggregate	تجمُّع كُتلي
+massive arch dam	سَدٌّ عقديّ مُصمَت
+massive head buttress dam	سَدٌّ مُثبت بدَعائم ذاتِ رؤوس ضخمة
+massive stratification	تطبُّق كتلي
+massive wheel	عَجَلَة جسيمة
+mast	سارِية / سارية / صارٍ
+mast base	قاعدة ساري الحفر
+mast timber	خشب الصواري
+mast year	سنة الصاري
+mast, ; pole,	عمود,
+mast-head light,	إنارة سارية السفينة,
+Master	رئيس / رئيسى
+master brake cylinder	أسطوانة الفرامل الرئيسية
+master bushing	جُلبة عمود الحفر المضلع الرئيسية
+master caption panel	لوحة الشرح الرئيسة
+master caution signal	إشارة تحذير رئيسة
+master clock	ساعة رئيسية / ساعة رئيسيّة / ساعَةٌ رَئِيسِيَّةٌ
+master compass	بوصلة رئيسية
+master computer/ host computer; host	حاسوب مضيف
+master connecting rod	ساعد ربط رئيس / ذراع توصيل رئيسي
+master contour template	صفيحة رئيسة لمعايَرة المنحنيات
+Master Control Program	بَرْنامَجُ التَحَكُّمِ الرَئِيسِيّ
+master controller	ضابط تحكّميّ (رئيسى) / منظم رئيسي / وحدة التحكم الرئيسية
+master copy	نسخة رئيسية
+master curve	منحنى رَئِيسِي
+master cylinder	أسطوانة رئيسية
+master cylinder pressure	ضغط الأسطوانة الرئيسية
+master data (pl.)	بيانات رئيسية
+master diversion airfield	مطار تحويل رئيس
+master drive bushing	جُلبة جر عمود الحفر المضلع
+Master Energy M1 Qualification Awarded: Postgraduate/Master	ماجستير في الطاقة M1 الشهادة المسلمة: شهادة الماجستير
+Master Energy M2 Qualification Awarded: Postgraduate/Master	ماجستير في الطاقة M2 الشهادة المسلمة: شهادة الماجستير
+Master Europeo de Energías Renovables Qualification Awarded: Postgraduate/Master	الماجستير الأوروبي في الطاقة المتجددة الشهادة المسلمة: شهادة الماجستير
+master frame	إطار رئيسى
+master gate	صِمام رئيسي، صِمام أمان
+master gauge; master gage	معيار رئيس، مقياس أساسي
+Master in Energy and Environment Qualification Awarded: Postgraduate/Master	ماجستير في الطاقة والبيئة الشهادة المسلمة: شهادة الماجستير
+Master in Energy Efficiency) Qualification Awarded: Postgraduate/Master	ماجستير في كفاءة الطاقة الشهادة المسلمة: شهادة الماجستير
+Master in Energy Engineering - Renewable Energy Technologies)	ماجستير في هندسة الطاقة- تقنيات الطاقة المتجددة الشهادة المسلمة: شهادة الماجستير
+Master in Energy Management Qualification Awarded: Postgraduate/Master	ماجستير في إدارة الطاقة الشهادة المسلمة: شهادة الماجستير
+Master in Energy Management Qualification Awarded: Postgraduate/Masters	ماجستير في إدارة الطاقة الشهادة المسلمة: شهادة الماجستير
+Master in Renewable Energy and the Energy Market) Awarded: Postgraduate/Master	ماجستير في الطاقة المتجددة وسوق الطاقة الشهادة المسلمة: شهادة الماجستير
+Master in Renewable Energy Qualification Awarded: Postgraduate/Master	ماجستير في الطاقة المتجددة الشهادة المسلمة: شهادة الماجستير
+Master in Renewable Energy Systems Qualification Awarded: Postgraduate/Masters	ماجستير في أنظمة الطاقة المتجددة الشهادة المسلمة: شهادة الماجستير
+master joints	وُصلات رئيسية
+master lighting switch	مفتاح الإضاءة الرئيسي
+master mariner	ربان المسافات الطويلة
+Master Meter	عداد قياسي
+master meter prover	معيار العدادات العامة
+master negative; master original	القرص السالب الرئيسي
+Master of Energy Qualification Awarded: Postgraduate/Masters	ماجستير في الطاقة الشهادة المسلمة: شهادة الماجستير
+Master of Research Renewable Energy Qualification Awarded: Postgraduate/Master	ماجستير في بحث الطاقة المتجددة الشهادة المسلمة: شهادة الماجستير
+Master of Science in Renewable Energy Qualification Awarded: Postgraduate/Master	ماجستير العلوم في الطاقة المتجددة الشهادة المسلمة: شهادة الماجستير
+master original	أصل رئيسي
+master oscillator	مذبذب رئيسي / هزّاز رئيس
+master plan	مخطط مديري / مُخطَّط عام
+master printer	رئيس مطبعة
+master rod	ساعد رئيس
+master router template	صفيحة رئيسة لمعايَرة المسالك
+master station	محطة رئيسة
+master station; controlling station	تسلسل زمني مركزي مطلق
+master substation	محطة (تحكم) رئيسية
+master template	صفيحة معايَرة رئيسة
+Master/Slave	رئيس/تابع
+mastergroup	مجموعة رئيسة أساسية
+mastergroup B (obsolete term)	مجموعة رئيسة أساسية (ب)
+mastergroup modulating equipment	معدات تكييف المجموعة الرئيسية الأساسية
+mastergroup translating equipment	معدات تحويل المجموعة الرئيسية الأساسية
+mastic	مستكاء / صمغ مصطكى
+mastic asphalt	أَسفَلت مَصطَكِّي / مستكاء أسفلتي / معجون الأسفلت
+mastic asphalt pug mill	خَلَّاط أَسفَلت مَصطَكِّي
+mastic blocks	قوالب أسفلت مصطقاوي
+mastics	ضروب المصطقى
+masts for boats and ships	صواري البواخر والسفن
+mat	حَصِيرة / حصيرة – سطح غير لامع / حصيرة
+mat foundation	حصيرة
+mat inks	أحبار مطفأة
+mat supported drilling platform	منصة حفر بحرية محمولة على حصائر
+mat surface glass	زجاج مطفأ السطح، زجاج ذو سطح كامد
+match-box	علبة الثّقاب
+matched cladding	غلاف متوافق؛ تكسية ملائمة
+matched model	نموذج مضاهاة
+matched output voltage	تداخل نطاق
+matched termination; matched load	نهاية طرفية متطابقة
+matched-boards	ألواح متوافقة
+matching	مواءمة / مطابقة
+matching (between a load and a source)	تطابق (بين الحمل والمصدر)؛ توافق
+matching knitted skirt and jumper	تنورة وقميص متطابقين
+matching network	شبكة موائمة
+matching section	قطاع توافق
+matching stub	قاعدة موائمة
+matchwood	خشب الثقّاب
+matelassé	نسيج محشّو
+matelot	قبعة الملاح
+material	مادة
+material accumulation	تراكُم مواد
+material buckling	انبعاج المواد
+material conveyed	نقل المواد
+material dispersion	تشتيت مادى
+material dispersion parameter	عامل تشتيت مادى؛ ثابت تفرّقِ المادة
+material efficiency	كفاءة استعمال المواد
+material elongation	تمدّد مواد
+material embrittlement	تقصّف المواد
+material flow	دورة المواد في الطبيعة
+Material flow analysis	تحليل دورة المواد في الطبيعة / تحليل تدفق المواد
+Material flow management	إدارة التدفقات المادية
+material flow matrix	مصفوفة تدفق المواد
+Material flow network	شبكة تدفق المواد
+material flow planning	تخطيط تدفق المواد
+material flow simulation	محاكاة تدفق المواد
+material flow system	نظام تدفق المواد
+material flow; flow of materials	تدفّق المواد
+material gained from clearing	مادة (ال...) المكتسبة من الإخلاء
+material handling; mechanical conveying and handling	مناولة المواد/ نقل ومناولة تقنية
+material loss	خسارة ملموسة
+material measure	جهاز (قياس) بمؤشر
+material measure/ material standard/ dimensional standard	أدوات قياس ممثلة للأبعاد
+material metabolism	أيْض المواد
+material migration	تحرّك المواد
+material mix	خلط مواد / خليط المواد
+material requirements planning	تخطيط متطلبات المواد
+Material safety data sheet	دَلِيلُ سَلامَةِ المَوادِّ
+material scattering	تشتت نوعي؛ بعثرة بسبب المادة
+material testing	اختبار المواد
+material testing, non-destructive	اختبار غير مُتلِف للمواد
+material thickness of a combined plain and corrugated conduit	متوسط سمك جدار ماسورة مختلطة و مستقيمة و متعرجة
+material thickness of a corrugated conduit	متوسط سمك جدار ماسورة متعرجة
+material thickness of a plain conduit	متوسط سمك الجدار (لماسورة عادية)
+material transfer agreement	اتفاق لنقل المواد
+material,	مادة,
+material-flow technology	تقنية/تكنولوجيا تدفق المواد
+materials audit	اختبار المواد
+materials handling	مناولة المواد
+materials recovery facility	منشأة استرداد المواد
+materials recovery facility (mrf)	محطة استرداد المواد
+maternity dress / maternity skirt / maternity trousers	فستان الولادة (سروال، تنورة)
+mathematical formulation of response characteristic ( transmission behaviour)	صياغة رياضية للاستجابة العابرة في دائرة الضبط
+mathematical model	نَمُوذَج رياضي
+mating parts	أجزاء متزاوجة
+matiné	ماتينه
+matric pressure	ضَغْط المصفوفة
+Matrix	مصفوفة / ألياف من نوع الماتركس / مِلاَط / مصفوفة؛ قالب / مادة ترابُط / قالب / أم الحرف (متريس) / مادة لاحمة
+matrix / surface soil / native soil / topsoil	طبقة التُربة السطحية
+matrix calculus	حساب المصفوفات
+matrixing (in colour television)	تصفيف (في التلفاز الملون)؛ عمل مصفوفة
+matt leather	جلد باهت
+matt yarn	خيط غزل باهت
+matte crepe	كريب مُطفأ
+matte nappa leather	جلد نابا باهت
+matter	مادة
+matter flow	إشعاع جُسيمي
+matter set solid	نص غير مفسّح
+mattock	معول
+mattress	مرتبة / بَلاطة الأرضية
+mattress cover	أغطية الفراش
+mattress padding	لحاف مبطن
+mattress protector	واق المرتبة
+mattress ticking	غلاف المرتبة
+matur soil	تربة ناضجة
+maturation pond	بِرْكة الإنضاج
+mature forest	غابة ناضجة
+mature stand	موقع غابوي ناضج
+maturity	نُضْج
+Maturity check	فحص درجة النضج
+maturity colour test	اختبار لون درجة النضوج
+MATV; master (broadcasting) antenna	هوائي رئيسي
+Maurititus fiber	ألياف موريشيوس
+Max von Laue	ماكس فون لاوي
+Max-Min-Inference	اِسْتِدْلال الحد الأقصى والحد الأدنى
+maximal absolute humidity	رطوبة (ال...) القصوى
+maximum absorbed dose; peak absorbed dose	أقصى جرعة ممتصة
+maximum allowable concentration	أقصى حد مسموح لتركز المواد السامة / أقصى حد مسموح لتركّز المواد السامة
+maximum allowable differential working pressure	أقصي فرق ضغط تشغيل مسموح به
+maximum allowable working pressure	أقصي ضغط تشغيل مسموح به
+maximum ambient temperature	اقصى درجة حرارة محيطة
+maXimum angle of attack	زاوية الهبوب القصوى
+maximum aperiodic short-circuit current	أقصى تيار قصر الدارة غير المتكرر
+maXimum authorized altitude	الارتفاع المُجاز الأقصى
+maximum base width	عَرْض أقصى للقاع
+maXimum boom-free speed	سرعة اللادوّي القصوى
+maximum cable capacitance	اقصى سعة لكابل
+maximum cable inductance	اقصى محاثة لكابل
+maximum cable inductance to resistance ratio	اقصى نسبة بين محاثة الكابل و المقاومة
+maximum capacity bottleneck capacity	قدرة قصوى
+maximum capacity of a power station	السعة القصوى لمحطة توليد
+maximum capacity of a unit	السعة القصوى للوحدة (محطة توليد)
+maximum capillary head	أقصى ارتفاع شعري
+maXimum chamber pressure	ضغط الغرفة الأقصى
+maXimum CL; maXimum lift coefficient	مُعامِل الرفع الأقصى
+maXimum cold thrust	دفع بارد أقصى
+maximum concentrated weight per metre	أفصى وزن مركز لكل متر
+maximum construction height	الحد الأعلى للإنشاء
+maximum contact wire height	أكبر قيمة لإرتفاع خط التلامس
+maximum contaminant level (MCL)	الحد الأقصى للتلوث / حد أقصى للتلوث / مستوى الملوِّث الأقصى
+maXimum contingency output	خَرْج طارئ أقصى
+maximum continuous exposure temperature,	أقصى درجة حرارة للتعرض بصورة مستمرة, تسخين بالتتبع
+maXimum continuous output	خَرْج مستمر أقصى
+maximum contrast	تباين أقصى
+maximum control deviation/deviation/control offset/control error	أقصى حيود ضبط
+maXimum cruise rating	قدرة الطيران المطَّرِد القصوى
+maximum current	تيار مقنن
+Maximum daily load	أعلى حمل خلال اليوم
+maximum demand required	أقصى طلب مطلوب
+maximum design pressure (MDP)	ضغْط تَصمِيميّ أقصى
+maximum discharge	تصريف أقصى
+maXimum driving speed	سرعة القيادة القصوى
+maXimum dynamic pressure	ضغط تحريكي أقصى
+maximum effective supply current (for industrial and professional power sources)	أقصي قيمة فعالة لتيار التغذية (لمصادر التغذية الصناعية والمهنية )
+maximum efficiency rate, (M.E.R.)	معدل الكفاية القصوى، معدل المردود الأقصى
+maXimum effort	جهد أقصى
+maximum entropy	اقصى انتروبيا
+maximum error	خطأ (ال...) الأعظمي الأكبر
+maXimum eXcept take-off	أقصى قدرة غير الإقلاع
+maXimum eXpected operating pressure	ضغط التشغيل المتوقع الأقصى
+maximum experimental safe gap; MESG	أقصى ثغرة آمنة للأختبار
+maximum external capacitance	اقصى سعة خارجية
+maximum external inductance	اقصى محاثة خارجية
+maximum external inductance to resistance ratio	اقصى نسبة بين المحاثة الخارجية والمقاومة
+maximum fast spooling time	أقصى وقت لسرعة اللف
+maximum field	أقصى مجال
+maximum field carrying capacity	سعة الحقل
+maximum fuel consumption	أقصى استهلاك للوقود
+maximum heat extraction boundary	حدّ أقصى لاستخلاص الحرارة
+maximum individual wave height,	الإرتفاع الأقصى لموجة منفردة,
+maximum input current	اقصى تيار دخل
+maximum input power	اقصى قدرة دخل
+maximum input voltage	اقصى جهد دخل
+maximum instantaneous discharge	ذروة التصريف الآني
+maximum intermittent exposure temperature,	أقصى درجة حرارة للتعرض المتقطع
+maximum internal capacitance	اقصى سعة داخلية
+maximum internal inductance	اقصى محاثة داخلية
+maximum internal inductance to resistance ratio	اقصى نسبة بين المحاثة الداخلية و المقاومة
+maximum justification ratio; maximum stuffing ratio	نسبة التبرير القصوى
+maximum level	المستوى الأقصى
+maximum line speed	أقصى سرعة للخط
+maximum load	حمولة قصوى / أقصى حمل
+maximum load bearing capacity	أعلى قابلية تحميل
+maximum load,	أقصى حمل,
+maximum luminous efficacy,	أقصى كفاءة ضيائيةِ
+maximum maintain temperature, ; maximum continuous operating temperature,	اقصى درجة الحرارة مستمرة, تسخين بالتتبع؛ أقصى درجة حرارة للتشغيل المستمر, تسخين بالتتبع
+maXimum mean camber	تقوس وسطي أقصى
+maximum observed frequency; MOF (abbreviation)	أقصى تردد ملاحظ
+maximum operating pressure	أقصي ضغط تشغيل
+maximum operational liquid level	منسُوب أقصى لسائل التشغيل
+Maximum Operator	مُعامل الحد الأقصى
+Maximum Operator Connectivity	اتصال مُعامل الحد الأقصى
+maximum output	خرج أقصى
+maximum output current	اقصى تيارخرج
+maximum output level	مستوى خرج أقصى
+maximum output power	قوة دافعة كهربائية للمصدر / اقصى قدرة خرج
+maximum output voltage	اقصى جهد خرج
+maximum oxygenation	أقصى إمداد بالأكسجين
+maximum peak	ذروة قصوى
+maximum permeability	نفاذية أولية
+maximum permissible AC current of a capacitor	أقصى تيار متردد مسموح به للمكثف
+maximum permissible AC voltage of a capacitor	الجهد المتردد الاقصى المسموح به لمكثف
+maximum permissible payload	حمولة قصوى مسموح بها
+maximum permissible protective liquid level	اقصى مستوى لسائل حماية مسموح بها
+maximum permissible temperature; maximum service temperature	أقصى درجة حرارة مسموح بها / أقصى درجة حرارة للخدمة
+maximum permissible values of the input current and voltage	مدى قياس (لمُحوِّل الإشارة)
+Maximum Plant Capacity	حد أعلى لسعة المحطات
+maximum possible potential energy	اقصى طاقة وضع ممكنة
+maXimum power	قدرة قصوى
+maximum power (of a wind turbine generator system)	أقصى قدرة ( لنظام مولد بعنفة طاقة الرياح)
+maximum power demand	قدرة(ال…) المستهلكة العظمى
+maximum power demand tariff	تعريفة القدرة المستهلكة العظمى
+maximum power point tracker (MPPT)	جهاز مُلاحقة نُقطة الاستطاعة العُظمى (MPPT)
+Maximum power point tracking	تتبع نقطة الطاقة القصوى
+maximum power voltage	جهد القدرة القصوى
+maximum probable flood	ذروة الفيضان المحتمل
+maximum probable precipitation	غزارة الأمطار
+maximum prospective peak current (of an AC circuit)	أقصى تيار ذورة موجب
+maximum rated input power	قدرة الدخل الإسمية القصوى
+maximum rated step voltage	جهد الخطوة المقنن الاقصى
+maximum rated supply current	أقصى تيار تغذية مقنن
+maximum rated through-current	التيار الاسمي المخترق الاقصى
+maximum rated voltage	أقصى جهد مقنن
+maximum rated X-ray tube load	حمل إسمي أقصى لإنبوب أشعة سينية X
+maximum rated X-ray tube voltage	أقصى جهد أسمي لانبوبة أشعة سينية X
+maximum recording audiofrequency current	تيار ترددصوتى اقصى للتسجيل
+maximum residual disinfectant level (MRDL)	مستوى (ال...) الأقصى للمعقم المتبقي
+maximum residue limit	حد أعلى للبقايا
+maximum retention time	زمن الاحتفاظ الاقصى
+maximum RMS AC or DC voltage	اقصى جهد فعال لتيارمتردد او مستمر
+maXimum rpm	سرعة الدوران القصوى
+maximum service output of an internal combustion engine	خرج الخدمة الأقصى لمحرك احتراق داخلي
+maximum sheath temperature,	أقصى درجة حرارة للغلاف, تسخين بالتتبع
+maximum short-circuit currents in welding	أقصى تيارات قصر فى اللحام
+maximum short-circuit power	أقصي قدرة قصر الدائرة
+maximum source e.m.f. (recording)	مصدر قوة دافعة كهربائية اقصى (للتسجيل)
+maximum speed	السرعة القصوى / سرعة قصوى
+maximum speed,	سرعة قصوى,
+maximum start time to record/reproduce speed	أقصى وقت بدء الى سرعة التسجيل \ استعادة التسجيل
+maximum stopping time from maximum spooling speed	أقصى وقت توقف من أقصى سرعة اللف
+maximum stopping time from record/reproduce speed	أقصى وقت توقف من سرعة التسجيل \ استعادة التسجيل
+maximum sun absorption	حد أقصى لامتصاص آشعة الشمس
+maximum surface temperature	أقصى درجة حرارة سطحية
+maximum surface temperature,	اقصى درجة حرارة سطحية, معدة غيركهربية
+Maximum Sustainable Capacity (MSC)	الطاقة الإنتاجية القصوى
+maximum sustainable yield (msy).	عائد أقصى مستدام
+maximum theoretical numerical aperture; NAmax th	فتحة رقمية نظرية قصوى
+maximum thermometer	مِحرار النهاية العظمى
+maximum time error	الخطأ الأقصى للزمن
+maximum time interval error ; MTIE	الزمن الاقصى لفترة الخطأ
+Maximum tolerable period of disruption	فَتْرَةُ الاِضْطِرابِ القُصْوَى
+maximum transfer time (in telecontrol)	زمن الارسال عن بعد
+maXimum usable frequency	تردد مستعمل أقصى
+maximum usable read number	اقصى عدد قراءات مستخدمة
+maximum usable reading time	اقصى زمن مستخدم للقراءه
+maximum usable viewing time	اقصى زمن اظهار مستخدم
+maximum usable writing speed	اقصى سرعة تدوين ( كتابة ) مستخدمة
+maXimum vertical speed	سرعة رأسية قصوى
+maximum voltage	أقصى جهد
+maximum voltage between segments,	أقصى جهد بين القطاعات,
+maximum water level (reservoir)	مَرْحلة الذروة (للخزان)
+maximum water level in an emergency	المنسوب الأقصى للمياه في حالة الطوارئ
+maximum water-holding capacity	قدرة قصوى لحجز الماء
+maXimum weak-miXture	قدرة المزيج الضعيف القصوى
+maXimum weight	وزن أقصى
+maximum weight limit	حد (ال...) الأقصى للوزن
+maximum welding power	أقصي قدرة لحام
+maximum withstand temperature,	أقصى درجة حرارة تحمل, تسخين بالتتبع
+maXimum-performance take-off	إقلاع الأداء الأقصى
+maXimum-power altitude	ارتفاع القدرة القصوى
+maxterm	تعبير (ال...) الأقصى
+MaXwell	ماكسويل
+Maxwell's equations, pl	معادلات ماكسويل
+maxwell's rule	قاعدة مكسويل
+Maxwell-Boltzmann statistics	احصائيات ماكسويل -بولتزمان
+Maxwell-Boltzmann velocity-distribution law	قانون توزيع السرعات لماكسويل -بولتزمان
+Maxwellian view	نظرة ماكسويل
+May hamster	فراء هامستر ماي
+mayday	ماي داي (طلب النجدة) / ساعدني
+Mazamet wool	صوف مازامت
+mazout; fuel oil	زيت التسخين
+mb	ميلي بار
+McKinnon Wood bubble	فُقاعة ماكينون وود
+mcpfe (ministerial conference on the protection of forests in europe)	مؤتمر وزاري معني بحماية الغابات في أوروبا (MCPFE)
+Mea Liquid Contractor	وعاء تحلية غاز البترول السائل بواسطة الأمين أحادي / وعاء تحلية غاز البترول السائل بواسطة سائل، خلاّط سائل أحادي الايتانولامين
+meacon; radio deception	خداع لاسلكي
+meadow	صفصاف / مَرْج
+meadow bog soil	تربة مروج المستنقعات
+meadow podzolic soil	تربة مروج حامضية
+mean	متوسط
+mean (equivalent) noise temperature (of a linear two-port device)	متوسط درجة حرارة الضوضاء المكافئة
+mean (value)	قيمة مُتوسِّطة
+mean active corrective maintenance time; MACMT	متوسط زمن الصيانة التصحيحية الفعالة
+mean administrative delay; MAD	متوسط التأخير الإدارى
+mean annual evaporation	متوسط سنويّ للتبخّر
+mean annual increment (m.a.l.)	متوسط الزيادة السنوية
+mean annual runoff	مُعدَّل سنويّ للمدد النهريّ
+mean annual wave power,	متوسط القدرة السنوية للموجة,
+mean availability; average availability	متوسط الإتاحية
+mean blade width ratio	نسبة عرض الريشة الوسطي
+mean cell residence time (MCRT)	مُتوسِّط مدة مُكث الحمأة / فترة (ال...) المتوسطة للخلية
+mean chord	متوسط الوتر / وتر وسطي
+mean daily flow of discharge	مُتوسِّط يوميّ للتدفُّق والتصريف
+mean daily temperature	متوسط درجة الحرارة اليومي
+mean day	يوم وسطي
+mean deceleration as a function of time	معدل التباطؤ بدلالة الزمن
+mean down time; MDT	متوسط زمن التوقف
+mean draught	غاطس متوسط
+mean effective pressure	متوسط الضغط الفعّال
+mean elevation	متوسط الارتفاع
+mean energy capability (of one or more hydroelectric installations)	متوسط مقدرة الطاقة (لواحدة أو أكثر من التركيبات الكهرومائية)
+mean energy expended in a gas per ion pair formed	متوسط الطاقة المستهلكة في غاز لكل أيون زوجي متشكل
+mean energy imparted; integral absorbed dose (deprecated)	متوسط الطاقة المنقولة
+mean error	خطأ متوسط / متوسط الخطأ
+mean failure intensity	شدة الانهيار المتوسط
+mean failure rate; average failure rate	معدل الانهيار؛ معدل متوسط الانهيار
+mean fleet performance	متوسط أداء الأسطول
+mean flow	تدفق (ال...) الوسطيّ
+mean flow per hour of discharge	متوسط التدفق والتصريف في الساعة
+mean free path	مسار حر متوسط / متوسط المسار الحر / ممر حر وسطي
+mean geometric pitch	متوسط الخطوة الهندسية
+mean latitude	عُرُوض وُسْطَى
+mean life	متوسط العمر
+mean line	خط وسطي
+mean logistic delay; MLD	متوسط التأخير اللوجيستى
+mean monthly temperature	متوسط درجة الحرارة الشهري
+mean noise temperature (of a one-port device)	متوسط درجة حرارة الضوضاء
+mean operating time between failures; MTBF (abbreviation)	متوسط الزمن التشغيلي بين الأعطال
+mean operating time between failures; MTBF; MOTBF	الزمن التشغيلي المتوسط بين الانهيارات
+mean operating time to failure; MTTF	الزمن التشغيلي المتوسط حتى الانهيار
+mean operating time to first failure; MTTFF	الزمن التشغيلي المتوسط حتى الانهيار الأول
+mean opinion score	معدّل نتيجة تقييم بالرأي
+mean outside diameter	مُتوِّسط القُطْر الخارجيّ
+mean phase difference between related information	فرق الطور الوسطي بين المعلومات المتبطة
+mean point of impact	نقطة الصدم الوسطى
+mean power (of a transmitter)	متوسط القدرة (لمرسل)
+mean queue length	الطول المتوسط للصف
+mean repair time; MRT	متوسط زمن الإصلاح
+mean sea level	متوسط مستوى سطح البحر
+mean solar day	يوم شمسي وسطي
+mean spherical luminous intensity,	متوسط شدة الإضاءة المتماثلة كرويا,
+mean square error	خطأ متوسط التربيع
+mean squared error (MSE)	خطأ تربيعي مُتوسط
+mean temperature	متوسط درجة الحرارة
+Mean Time Between Failures	متوسط الوقت بين الأعطال (MTBF) / مدة متوسطية بين الإخفاقات / متوسط الزمن بين انهيارين / مُتَوَسِّطُ المُدَّةِ بَيْنَ حالاتِ التَّعَطُّلِ
+Mean Time Between Failures (MTBF)	معدل الوقت بين الأعطال
+mean time error	الخطأ المتوسط للزمن
+mean time of repair	متوسط زمن الإصلاح
+Mean Time to Failure	مُتَوَسِّطُ المُدَّةِ قَبْلَ التَعَطُّلِ
+Mean Time to First Failure	مُدة (ال...) المُتوسطة حتى أول إخفاق (MTTFF)
+mean time to repair	مدة متوسطية من أجل الإصلاح / مُتَوَسِّطُ وَقْتِ الإِصْلاحِ
+mean time to repair (MTTR)	مُتوسط وقت الإصلاح (MTTR)
+mean transinformation content; average transinformation content	متوسط المعلومات المتبادلة
+mean unavailability; average unavailability	متوسط اللا إتاحية
+mean up time; MUT	متوسط زمن التشغيل
+mean value; mean; arithmetic mean; average; arithmetic average	القيمة المتوسطة؛ الوسط؛ الوسط الحسابى؛ المتوسط
+mean velocity	سرعة (ال...) الوسطى
+mean velocity curve	مُنحنى التصريف بين السرعة المتوسِّطة ومنسوب الماء
+mean voltage between segments,	متوسط الجهد بين القطاعات,
+mean water training / training for sediment	تهذيب المجرى للتصريفات المتوسطة
+mean wind speed	متوسط لسرعة الرياح
+mean zero crossing period,	متوسط الفترة الموجية بين التقاطع الصفري,
+mean-sea-level (m.s.l)	متوسط سطح البحر
+mean-sensing transducer	مُحوِّل قياس القيمة المُتوسطة / مُحول إشارة لتحسُّس القيمة الوسطى
+meander	منعطف نهري / متعرّج
+meander belt	نطاق منعطف نهري
+meander inductor	محث (عضو حث) حلزوني
+meander length	طول منعطف نهري
+meander lobe	قوس المنعطف
+meander ratio	نِسبة الانعطاف
+meander valley	وادٍ متعرّج
+meander width	عرض منعطف نهري
+meandering	مُنْعَطف
+meanders	زخارف متعرّجة
+means for signalling	وسائل التشوير
+means of compliance; verification and control	آليات التحقق من الامتثال
+means of entry	تجهيزة صعود
+means of transport, mode of transport	وسائل النَّقل، واسطة النَّقل
+Measurand	كمّية مُقاسة / إرتياب (لقياس)
+measure	قياس
+measure (or measurement)	قياس (أو القياس)
+measure point	نقطة القياس
+measure, verb	يقيس, فعل
+measured data acquisition system	نظام تسجيل قيمة القياس
+measured performance	أداء مَقيس
+measured power curve	منحنى القدرة المقاسة
+measured thrust	دفع مَقيس
+measured value	قيمة قياس / قيمة القياس
+measured value transmitter	مُحوِّل قياس
+measurement	قياس (ال...) / قِياس / قياس
+measurement (MW)	قيمة قياس
+measurement / dimension / measuring / rating	قِياس
+measurement and monitoring equipment	جِهاز قياس ومُراقبة
+measurement and test equipment, special	جِهاز خاص للقياس والمُراقبة
+Measurement and Verification (ISIC4)	قياس وتحقق
+measurement engineering	هندسة القياس
+measurement equipment, online	جِهاز قياس على الشابكة (أونلاين)
+measurement equipment, water level	جِهاز قياس منسوب المياه
+measurement error due to influence quantities	المجالات المغنطسية
+measurement error in practice	خطأ في عملية القياس
+measurement interval	فترة القياس
+Measurement locations operator	مُشَغِّل مواقع القياس
+measurement method; method of measurement	طريقة للقياس؛ طريقة القياس
+Measurement of dust and trash content	فحص محتوى الغبار والمخلفات بالقطن
+measurement of oxygen	قياس إضافة الأكسجين
+measurement of wood humidity	قياس رطوبة الخشب
+measurement period	فترة الأساس / مُدّة القياس / مدة (فترة ) القياس
+measurement principle; principle of measurement	أساس القياس؛ أساسى للقياس
+measurement procedure	إجراءات القياس
+measurement procedure/ measurement process	طريقة القياس
+measurement range	مجال القياس
+measurement result	نتيجة القياس
+measurement sector	قطاع القياس
+measurement series/ series of (repetitive) measutrements	سلسلة القياس
+measurement signal measuring signal	إشارة قياس
+measurement stability	استقرار القياس
+measurement station, mobile	محطة قِياس نقّالة
+measurement station, static	محطة قِياس ثابتة
+measurement technology	تقنية القياس
+measurement uncertainty	عدم دقة القياس
+measurement voltage	فلطية القياس
+measurement, reporting and verification (mrv)	قياس وإبلاغ وتحقق
+measurement, separation layer	قِياس طبقة الفصل
+measurement/ measuring	قياس
+measuring accuracy	دقة القياس
+measuring amplifier	مُضخِّم قياس
+measuring arch	قوس قياس
+measuring bridge	قنطرة القياس / قنطرة قياس
+measuring cable; instrument cable	كابل قياس
+measuring chain	سلسلة قياس / نظام قياس
+measuring circuit	دارة قياس
+measuring converter/ measuring transducer / transducer	مُحوِّل قياس
+measuring current transformer	محول تيار مواءم
+measuring device	جهاز قياس
+measuring device / measuring instrument	تجهيزة قياس
+measuring dial	عامل المدى
+Measuring distance for photometric measurements	مسافة القياس للقياسات الضوئية
+measuring electrode	قطب قياس
+measuring element	أداة قياس / عنصر قياس
+Measuring element first Order	عنصر قياس من الدرجة الأولى
+Measuring element higher Order	عنصر قياس عالي الرتبة
+measuring element in control technology; measuring element	عنصر قياس في تقنية التحكم
+measuring element of a transducer	مخطط (خريطة) تسجيل
+Measuring element second Order	عنصر قياس من الدرجة الثانية
+measuring equipment	أداة قياس / جهاز قياس كهربائي
+measuring equipment, measuring set	تجهيزة قياس
+measuring error	حيود القياس
+measuring instrument	جهاز قياس / أداة قياس / القياس (بطريقة) الرنين
+measuring instrument with circuit control devices	مقياس متعدد الهام
+measuring instrument with signal generator	جهاز قياس بمُرسل إشارات
+measuring line; measuring line section	خط قياس
+measuring location	موضع القياس
+measuring method	طريقة قياس
+measuring method / measurement procedure	عملية قِياس
+measuring orifice	مقياس ضغط التدفق
+measuring oscilloscope	مشواف (مبين) قياس الذبذبة
+measuring plane	مستوى قياس
+measuring point, ; measurement point,	نقطة قياس, الكشف عن الغاز
+measuring position, sensing point	موضع القياس
+measuring principle	مبدأ قياس
+measuring program	بِرنامج قياس
+measuring range	مدى القياس / حساسية (لجهاز قياس) / مدي القياس
+measuring range (of a transducer)	تباعد (الخرج)
+measuring range factor	عامل مجال قياس
+measuring relay	مُرَحِّل قياس
+measuring resistor	مقاومة قياس
+measuring rules	مساطر قياس
+measuring scale	مُدرّج قياس
+measuring service	خدمة قياس
+measuring slide	حاملة قياس
+measuring span	مدى القياس / مسافة بينية مقاسة
+measuring spark gap	قياس ثغرة الشرارة
+measuring system	نظام قياس / معدة قياس
+measuring tag	قياس الهيكل
+measuring tape	شريط قياس
+measuring transducer	مُحوِّل قياس / جهاز تحويل للقياس
+measuring transducer (with electrical output)	جهاز (قياس) تكاملي
+measuring transductor	محول حثي قياس
+measuring transformer	محول جهاز القياس
+measuring transmitter	مُحول وحدة / جهاز ناقل للقياس
+measuring voltage transformer	محول جهد مؤرض
+measuring weir / notched weir	هَدّار قِياس
+meatl fatigue	كَلال المعدن
+MEB JB 2	سفينة إم إيه بي جي بي 2
+mebi	ميجابايت
+mechaical pastes	عجائن آلية
+MECHAN adjust, regulate RAUMFAHRT, TELEKOM control	ضبط
+mechanical	ميكانيكية / ميكانيكي
+mechanical aeration	تهوية ميكانيكية
+Mechanical biological treatment	معالجة بيولوجية ميكانيكية
+mechanical biological waste treatment plant	محطة المُعالجة الميكانيكية-البيولوجية للنفايات
+mechanical bond	رابطة ميكانيكية
+mechanical braking	كبح ميكانيكي
+mechanical braking torque	عزم الفرملة الميكانيكي؛ عزم الإيقاف الميكانيكي
+mechanical clutch adjustment	ضبط ميكانيكي لاحق للقابض
+mechanical clutch operation	تشغيل ميكانيكي للقابض
+mechanical construciton	إنشاء ميكانيكي
+mechanical contactor	مفتاح تلامس (ميكانيكى) / ملامس ميكانيكي
+mechanical control unit	وحدة تحكم ميكانيكية
+mechanical coupler	قارن ميكانيكي
+mechanical coupling	وصل تقارن ميكانيكيّ
+mechanical crosspoint	نقطة تقاطع ميكانيكية
+mechanical cutting	قطع آلي
+mechanical de-icing	إزالة الجليد ميكانيكياً
+mechanical disturbance	اضطراب ميكانيكي، انخلاع ميكانيكي
+mechanical draft cooling tower	برج تبريد بالسحب الميكانيكي
+mechanical efficiency	فعالية طاقية / كفاءة ميكانيكية / مردود ميكانيكي
+mechanical end stop	محدد نهاية ميكانيكي
+mechanical endurance	التحمل الميكانيكي
+mechanical energy	طاقة ميكانيكية
+mechanical engine control (ASR)	نظام التحكم الميكانيكي في المحرك (نظام التحكم في الجر (TCS))
+mechanical erosion	تعرية ميكانيكية
+mechanical failing load	تفريغ سطحي لعازل
+mechanical gripper	قابض ميكانيكي
+Mechanical heat treatment	مُعالجة ميكانيكية حرارية
+mechanical impedance (at a point)	معاوقة ميكانيكية (عند نقطة )
+mechanical paste-up	نسخة جاهزة للطبع الآلي
+mechanical properties	خواص ميكانيكية / صفات ميكانيكية
+mechanical reactance	مفاعلة ميكانيكية
+mechanical recording	تسجيل ميكانيكي
+mechanical rectifier	مقوّم ميكانيكي
+mechanical recycling	إعادة تدوير ميكانيكية
+mechanical release device	تجهيزة إعتاق ميكانيكية
+mechanical resistance	مقاومة ميكانيكية
+mechanical ride control system	نظام التحكم الميكانيكي في مستوى الارتفاع
+mechanical saw	منشار آلي
+mechanical separation	فصل ميكانيكي
+mechanical signal	إشارة ميكانيكة
+mechanical signal box	صندوق إشارة ميكانيكية
+mechanical signal, semaphore type signal	إشارة ميكانيكية
+mechanical signalling	إشارات ميكانيكية
+mechanical splice	وصلة مجدولة ميكانيكية
+mechanical spot displacement; mechanical spot misalignment	إزاحة البقعةِ الميكانيكيةِ
+mechanical stabilization	تثبيت آلي، تثبيت ميكانيكي
+mechanical stage	منصة ميكانيكية
+mechanical stress	إجهاد ميكانيكي
+mechanical switching device	معدة وصل وفصل ميكانيكية
+mechanical system	نظام ميكانيكي
+mechanical time constant (of an indicating instrument)	ثابت زمني ميكانيكي (لجهاز تبيين)
+mechanical tuning range	مدى موالفة ميكانيكى
+mechanical twinning	توأمة ميكانيكية
+mechanical videodisk	قرص مرئي ميكانيكي
+mechanical waste treatment	مُعالجة ميكانيكية للمُخلّفات
+mechanical wear	بِلَى ميكانيكي
+mechanical wood pulp	عجينة الخشب الميكانيكية
+mechanical zero	صفر التدريج
+mechanical zero adjuster	الصفر الميكانيكي
+mechanically guided torch	مشعل لحام موجه ميكانيكيا
+mechanically refrigerated wagon	عَرَبَة مُبرَّدة ميكانيكيا
+mechanised harvesting	حصاد آلي
+mechanism	آلية انهيار
+mechatronics	ميكاترونكس
+medallion cushion / medallion pillow	وسادة الجاكار
+medallion design	تصميم الميدالية
+medallions	زخارف، ميداليات
+Medgrid (initiative)	مشروع مدغريد
+media	أوساط
+Media Access Control	التَحَكُّمُ بِالوُصُولِ إِلَى الوَسائِطِ
+media filtration	الترشيح الوسائطي
+media oriented system technologies	ناقل بيانات مصمم خصيصاً لنقل الوسائط (MOST)
+Media Relations Department	دائرة العلاقات الإعلامية
+median	عدد مُتوسِّط / وسيط / الوسيط
+median intake	مأخذ وسطي
+median lane	مَسْرَب أوسط
+median lethal dose (abbreviations: MLD or LD50)	جرعة وسطية مميتة
+median lethal time (abbreviation: MLT)	زمن الجرعة الوسطية المميتة
+median moraine	جُرافة وسطية، رُكام وسطي
+median opening	فتحة وسطى
+median selection	اختيار وسطي
+median strip	شريط أوسط
+median wind speed	متوسط سُرعة الرياح
+mediation	وساطة / وَساطَة
+mediation approach	نهج للوَساطَة
+mediation-arbitration (med-arb)	الوساطة والتحكيم
+mediator	وسيط
+medical clothing	بذلة طبية
+medical device	جهاز طبى
+medical first aid	إِسْعَافَاتٌ طِبِّيَّةٌ أَوَّلِيَّةٌ
+medical radiology	علم الاشعاع الطبي
+medical service	خدمة طبية
+medical waste	نفايات طبية
+medical wastes	نُفايات طبية
+medieval warm period (mwp)	فترة حارة بالقرون الوسطى
+Medifil	ميديفيل
+Medina IPP PV	مشروع محطة المدينة المنورة للطاقة الشمسية الكهروضوئية
+medio yarn	خيط متوسط النعومة
+mediterranean brown soil	تربة دكناء متوسطية
+mediterranean climate	مناخ البحر المتوسط
+Mediterranean Solar Plan (MSP)	خطة الطاقة الشمسية المتوسطية (MSP) / مخطط شمسي متوسطي
+Mediterranean Solar Plan Project Preparation Initiative (MSP-PPI)	مُبادرة تجهيز مشروعات حوض البحر الأبيض المُتوسط للطاقة الشمسية (MSP-PPI)
+mediterranean space	فضاء متوسطي
+mediterranean vegetation	نباتات البحر المتوسط
+medium	وَسَطٌ
+Medium Access Control	تحكم (ال...) بالوصول إلى الوسائط (MAC)
+medium altitude	ارتفاع متوسط
+medium base	طبقة متوسطة
+medium bird	طير متوسط
+medium black point	نقطة منخفضة الإضاءة
+medium carbon steel	فولاذ متوسط الكربون، فولاذ نصف لين
+medium coarse asphalt	أَسفَلت مُتَوَسِّطُ الخُشُونَة
+Medium cogeneration unit	وحدة توليد مُشترك مُتوسطة
+medium curing asphalt	أسفلت متوسط المعالجة، أسفلت متوسط سرعة الجفاف
+medium curing cut-back	أسفلت مخفف متوسط سرعة الجفاف
+medium curing, (M.C.)	متوسط سرعة الجفاف
+medium frequency (in electroheat)	تردد متوسط (في الحرارة الكهربائية)
+medium lift centrifugal pump	مضخة نابذة متوسطة الضغط
+medium load	حمل متوسط
+medium load power plant medium load power station	محطة الحمل المتوسط
+Medium Oriented Yarn	خيط غزل بتوجيه متوسط
+Medium pressure (MP1)	ضغط متوسط (MP1)
+Medium pressure (MP2)	ضغط متوسط (MP2)
+Medium pressure (MP4)	ضغط متوسط (MP4)
+Medium pressure (MP7)	ضغط متوسط (MP7)
+medium pressure steam locomotive	ضغط متوسط
+medium range tanker	ناقلة متوسطة (25000طن - 44999طنا)
+medium rate sprinkling	ريّ مطري متوسط الكثافة
+medium roller conveyor	ناقلة أسطوانات متوسطة الحجم
+medium staple yarn	خيوط غزل متوسطة التيلة
+medium temperature heating element	عنصر تسخين متوسط الحرارة
+medium turn	لفّة متوسطة
+medium viscosity index, (M.V.I.)	قرينة اللزوجة المتوسطة
+medium voltage	جهد وسطي
+medium white point	نقطة عالية الإضاءة
+medium-altitude level bombing	قذف بالقنابل من ارتفاع متوسط
+medium-angle loft bombing	قذف عُلوي بالقنابل بزاوية متوسطة
+Medium-Curing Asphalt	أسفلت متوسط الجفاف
+Medium-Curing Cutback	أسفلت معالج
+medium-grained	متوسط الحبيبات
+medium-grained sand	رمل متوسط الحبيبات
+medium-pressure compressor	مضغط متوسط الضغط
+medium-range ballistic missile	صاروخ قذفي متوسط المدى
+medium-range transport	طائرة نقل متوسطة المدى
+medium-scale map	خريطة متوسطة المقياس
+medium-size water system	نظام مائيّ متوسط الحجم
+medium-speed controller area network	شبكة التحكم النطاقي متوسطة السُرعة (MSCAN)
+medium-voltage network medium-voltage grid	شبكة جُهد متوسط
+mediumwave infrared radiation; medium infrared radiation	أشعة تحت الحمراء متوسطة الموجة
+medullary	نخاعي، لبّي
+medullary rays	أشعرة نخاعيّة
+medullary spot	بقعة نخاعيّة
+meeting of parties (mop)	اجتماع الأطراف (MOP)
+mega	ميغا
+mega (prefix)	ميجا
+Mega Bits per Second	ميجا بت/ثانية (Mbps)
+megabyte	ميجا بايت
+megacryst	بلورة كبيرة
+megadiverse countries	بلدان فائقة التنوع
+megascopic	مُكبَّر
+megatexture	نَسِيج كَبِير
+megawatt	ميغاواط / ميغاواط كهربائية (MWe)
+Megawatt (MW)	ميجا واط
+Megawatt Hour (MWH)	ميجا واط - ساعة
+megawatt peak	ميغاواط ذروة
+megnetic damping	تخميد مغناطيسي
+megnetic tachometer	عدّاد دورات مغناطيسي
+meiosis	انقسام اختزالي
+mel	مل (وحدة درجة النغم)
+Melafix	ميلافيكس
+Melamin resin-fiber	ألياف راتنجات الميلامين
+melange	خليط / مزيج
+melange effect	تأثيرات خلط الألوان
+melanite	عقيق أسود
+melanocratic	قاتم اللون
+melatonin; melatonin hormone	هرمون ميلاتونين
+melatope	بؤبؤ
+Melbourne shirt	قميص ميلبورن
+melilite	مليلايت
+melioration	تحسين الأراضي
+melt-spun elastomeric yarn	خيط غزل مطاطيّ مغزول بالانصهار
+melted adphalt	أسفلت مصهور
+melting	صهر
+melting end of an electrode glass furnace	حوض الصهر لفرن الزجاج ذو أقطاب كهربائية
+melting glaciers	انصهار الأنهار الجليدية
+melting point	نقطة الانصهار
+melting range	نطاق الانصهار
+melting sea ice	انصهار الجليد البحري
+melting time	زمن الصهر
+member	عنصر
+members of interconnected system	أعضاء مجموعة ارتباط
+members of the public	أعضاء من الجمهور العام
+membership function	دالة عضوية
+Membership function of rule base	دالة (ال...) العضوية لقاعدة الضبط
+membrane	غِشَاء / جُلَيْدَة، غِشَاء، غشاء نسيجي / غشاء / غِشاء
+membrane analogy	تشبيه غشائيّ
+membrane assembly, hollow fibre	جهاز يعمل بالأغشية الرقّية المصنوعة من ألياف جوفاء
+membrane barrier	حاجز غشائيّ
+membrane bioreactor	مُفاعل حيوي غِشائي
+membrane bioreactor (MBR)	مُفَاعِل حيويّ غشائيّ
+membrane bioreactor - MBR	مفاعلات حيوية للأغشية
+membrane bioreactor process	مُعالَجة غِشائية باستخدام الحمأة المُنشطة
+membrane brine concentrator (MBC)	مكثف غشاء المحلول الملحي
+membrane clamping collar	حلقة تثبيت الغشاء الرَّقِّيّ
+membrane compaction	انضغاط الغشاء
+membrane decay	تلاشي الأغشية، اضمحلال الأغشية
+membrane demineralizer	مزيل الأملاح المعدنية الغشائي
+membrane diffuser	ناشِر غشائيّ
+membrane distillation (MD)	تقطير غشائيّ
+membrane electrode assembly area; MEA area	منطقة تجميع نسيج مسامى لحفظ الإلكترود
+membrane electrode assembly; MEA	تجميع نسيج مسامى لحفظ الإلكترود
+membrane Element or module	وحدة أو عنصر الغشاء
+membrane filter	مُرشِّح غشائيّ
+membrane filtration	ترشيح غشائي
+membrane filtration process with activated sludge	مُعالجة غِشائية باستخدام الحمأة المُنشطة
+membrane load cell	مقياس قوة غشائي
+membrane module, plate and frame	تصميم اللوح الغشائي
+membrane module, spiral-wound	تصميم الغِشَاء الحلزونيّ الملفوف
+membrane module, tubular	تصميم الأنبوب الغشائي
+membrane Permeability	نفاذية الغشاء
+membrane process	طريقة الغِشاء الرَّقّيّ / طريقة الترشيح بالأغشية
+membrane processes	العمليات الغشائية / عمليات غشائية
+membrane pump	مِضَخّة غشائية
+membrane separation	فَصْل بالأغشية / فصل غشائيّ
+membrane softening	تليين الغشاء / تيسير غشائيّ
+membrane stack	حزمة من الأغشية / كومة الغشاء
+membrane Technologies	تقنيات الأغشية
+membrane theory	نظرية (ال...) الغشائية
+membrane water treatment	معالجة المياه بالأغشية
+membrane, artificial semi-permeable	غِشَاء رقيّ شبه مُنْفِذ اِصطناعيّ
+membrane, asymmetric	غِشَاء غير متماثل
+membrane, cation-selective	غِشَاء انتقائيّ للكاتيونات
+membrane, cellulose acetate	غِشَاء من أسيتات السليولوز
+membrane, hollow fibre	غشاء رقّيّ من ألياف جوفاء
+membrane, semipermeable	غِشاء رَقّيّ شِبه مُنفذ
+membrane, synthetic reverse osmosis	غِشَاء تَخْليقيّ للتَنَاضُح العكسيّ
+membrane, thin film composite (TFC)	غشاء رقي مُركّب
+membranes Outer Wrap or Covering	الغلاف الخارجي للأغشية
+memorial	نصب تذكاري
+memory	ذاكرة
+memory (for static meters)	مُسجِّل
+memory capacity	موضع التخزين
+memory cell	خلية ذاكرة
+memory cell; memory element	خلية ذاكرة
+memory cycle	دورة الذاكرة
+memory effect	تأثير الذاكرة / ظاهرة الذاكرة السرابية
+memory oscilloscope	أوسيلوسكوب بذاكرة
+memory seat module (MSM)	ذاكرة المقعد (MSM)
+memory yarn	خيوط غزل ميموري
+MEMS; micro-electromechanical system	نظام كهرو ميكانيكى متناهى الصغر
+memsys	تقطير بالأغشية
+men's clothing	ملابس رجالية
+MENA country	بلد في منطقة مينا
+MENA Network on Low Carbon Development for Inclusive Growth	شبكة منطقة 'مينا' للتنمية مُنخفضة الكربون من أجل النمو الشامل
+MENA region	منطقة 'مينا' (MENA)
+mending	رَفْو
+MEng Energy and Sustainable Systems Qualification Awarded: Postgraduate/Master	ماجستير في هندسة الطاقة والأنظمة المستدامة الشهادة المسلمة: شهادة الماجستير
+MEng in Sustainable Energy Qualification Awarded: Postgraduate/Master	ماجستير في هندسة الطاقة المستدامة الشهادة المسلمة: شهادة الماجستير
+Meng New and Renewable Energy Qualification Awarded: Postgraduate/Masters	ماجستير في هندسة الطاقة الجديدة والمتجددة الشهادة المسلمة: شهادة الماجستير
+MEng Renewable Energy Qualification Awarded: Postgraduate/Master	ماجستير في هندسة الطاقة المتجددة الشهادة المسلمة: شهادة الماجستير
+MEngSc Degree in Sustainable Energy Qualification Awarded: Postgraduate/Master	ماجستير في هندسة الطاقة المتجددة الشهادة المسلمة: شهادة الماجستير
+mens jersey	قميص صوفي رجالي
+mensuration	قياس
+menswear	ملابس رجالية
+men’s shapewear	لباس لاصق للرجال
+men’s suit	بذلة رجالية
+MEP	الأعمال الميكانيكية و الكهربائية و أعمال السمكرة
+Meraklon	ميركالون
+mercaptan sulfur % wt	كبريت مركبتاني ./. وزنا
+Mercaptan Sulfur %Wt	نسبة كبريت المركبتان % بالوزن
+Mercator map	خريطة مركاتورية
+mercerised cordonnet	خيط كردونيه محرر
+mercerised thread	خيط مزوي منتفخ
+mercerised wool	صوف منتفخ
+mercerised yarn / mercerised silk	خيط محرر
+merchant flag	عَلَمٌ تجاري
+merchant fleet	أسطول تجاري
+Merchant Grade Phosphoric Acid	حِمْض فوسفوريك مِنْ الدَرَجَةِ التِجارِيَّةِ
+merchant navy	ملاحة تجارية
+merchantable oil	نفط صالح للعرض في السوق، خام تجاري
+mercoid switch; mercury switch	مفتاح زئبقي
+mercuriel barometer	مضغاط زئبقي
+mercuriel thermometer	مِحْرَار زئبقي
+mercury	زئبق
+mercury arc lamp	مصباح قوسي زئبقي
+mercury arc rectifier	مقوّم زئبقي
+mercury barium calcium copper oxide (HBCCO)	أكسيد الزئبق - الباريوم - الكالسيوم - أكسيد النحاس (HBCCO)
+mercury battery	بطارية زئبقية / حاشدة زئبقية
+mercury number	عدد الزئبق، رقم (ال..) الزئبقي، قرينة الزئبق
+mercury switch	مفتاح زئبقي
+mercury vapour lamp	مصباح بخار الزئبق
+mercury-vapour tube	صمام بخار الزئبق
+mercury/mercury compounds	الزئبق / مركبات الزئبق
+mere	بِرْكة
+merging	اندماج، دَمْج
+merging bits	أرقام ثنائية للدمج
+merging end	حَدٌّ الاندماج
+Merging Loads	تجميع الأحمال
+merging traffic streams	تيار مُتَقَارِبٌ، تيارات حركة متقاربة
+meridian	خط الزوال / دائرة خط الزوال
+meridian altitude	ارتفاع زوالي
+meridian passage	عبور زوالي
+meridional projection	إسقاط زوالي
+meridional ray	شعاع متقاطع مع المحور
+Merino sheep	أغنام المارينو
+Merino wool	صوف المارينو
+merino yarn	خيط مارينو
+meristem	نسيج إنشائي
+merit order	نظام الجدارة / تشغيل اقتصادي أمثل
+merit order effect	تأثير نظام الجدارة
+Merkel equation	معادلة ميركل
+merlon	كتف، سناد، دعامة
+Merox	ميروكس (Merox)
+merox Unit	وحدة إنتاج وقود الطائرات
+mervellieux	ميرفيليوه
+merwinite	ميروينايت
+Meryl	ميريل
+Merz-price protection system	نظام الحماية التفاضلية
+mesa technique	تقنية ميسة
+mesh	شَبَكة / قماش الشِّبَاك / نسيجٌ شبكيّ / درجة اتساع فتحات الشبكة / غرزة / شبكة / فتحة منخل / شبيكة / موصل معلومات شبكى
+mesh (of a system)	بنية شبكية مغلقة
+mesh / mesh size / width	قياس فتحات المدخل
+mesh / network / web	شَبَكة
+mesh analysis	تحليل شبكي
+mesh connection	توصيلة شبكية
+mesh current	تيار شبيكة
+mesh electrode; field mesh	قطب شبكة
+mesh impedance matrix	مصفوفة شبيكة معاوقة / مصفوفة المعاوقة الحلقية (ممانعة)؛ مصفوفة ممانعة الحلقية (ممانعة)
+mesh jersey	تريكو شبكيّ
+mesh lining	بطانة شبكية
+mesh method	طريقة الشبيكات
+mesh network	شبكة متداخلة
+Mesh networking	شبكة الشبكات
+mesh point	نقطة التقاطع
+mesh reinforcement according to the German Renewable Energy Act	شبكة التعزيز وفقا لقانون الطاقة المتجددة الألماني
+mesh size	حجم ثقوب الشبكة
+mesh size/width	قِياس فتحة المنخل
+mesh stockings	جوارب شبكية
+mesh structure	بنية شبكية
+mesh substation	محطة ذات قضبان تجميع بقواطع حلقية
+meshed network mesh network meshed grid	شبكة مترابطة
+meshed system	نظام شبكي مغلق
+Meshta	مِسْتا
+mesocline	ميزوكلاين
+mesocratic	ميزوقراطي
+mesodecline	ميزوديكلاين
+mesoderm	أديم الوسط
+mesopause	ميزوبوز / ميزوبوز (الغلاف الجوي بين الميزوسفير والتراتوسفير )
+mesopeak	ميزوبيك
+mesophiles	ميزوفيل
+mesophilic	أليف الحرارة المعتدلة
+mesophilic digestion	هَضْم ميزوفيلي / هضم معتدل الحرارة
+mesophyte	نبتات وسطية / عَلَق البحر (يعيش في العمق(
+mesopic vision	رؤية ضبابية
+mesosphere	ميزوسفير / طبقة (ال..) الجوية الوسطى / ميزوسفير (غلاف متوسط) / ميزوسْفير
+mesosystem	نظام جوي وسطي
+mesotherm	درجة الحرارة المتوسطة
+mesothermal	متوسط الحرارة
+mesozoic	عصر وسيط
+mesozoic era	حِقب (ال..) الوسطى
+mess jacket	سترة ميس
+message (in telegraphy and data communication)	رسالة (في اتصالات البيانات والإبراق )
+message alignment indicator	مؤشر ترتيب الرسالة
+message authentication code; MAC	كود توثيق الرسالة
+message data	بيانات مرسلة
+message enciphering	رسالة التشفير
+message errors, pl	أخطاء رسالة
+message integrity	تكامل الرسالة
+message priority	أولوية الرسالة
+message sink; information sink	بالوعة الرسالة؛ بالوعة المعلومة
+message source; information source	مصدر الرسالة؛ مصدر المعلومات
+message spacing	فراغات بين الرسائل
+message stream	محتوى الرسالة
+message switching	فصل ووصل (تبديل) الرسالة / تبديل الرسائل
+message switching exchange; switch (message)	تبادل فصل وتوصيل الرسائل
+message switching network; store and forward switched network	شبكة تبديل الرسائل شبكة توصيل الرسائل
+message switching; store and forward switching	فصل وتوصيل الرسائل
+message transfer part	طرف تحويل الرسالة
+message,	رسالة,
+messenger	دعامة(شداد) حامل
+messenger bag	حقيبة ساعي البريد
+messenger,	موصل الرسالة
+meta-analytic function transfer	نقل دالة تحليل تجميعي
+metabolic rate	مُعدل الأيض
+metabolism	تحوُّل غِذائيّ / استقلاب / أيض / تمثيل غذائي
+metabolite	مستقلب
+metabolites	نواتج الاستقلاب
+metaclimax	مجال شبه مستقر
+Metadata file	ملف بيانات التعريف
+metal	مَعْدِن
+metal adhesive material	مادة لصق المعادن
+metal bath	حوض معدني
+metal components	مكونات معدنية
+metal conduit	ماسورة معدنية
+metal conduit fitting	تجهيزات معدنية لربط المواسير
+metal core base material	مادة أساس ذات القلب المعدني
+metal core printed board	لوحة مطبوعة ذات قلب معدنى
+metal deactivator	مُهْمِد المعادن
+metal desactivator	معَطِّل للمعادن، مثبط (كيميائي) للمعادن
+metal filament	شعيرات مستمرة معدنية
+metal filament lamp	مصباح ذو فتيل معدنى
+metal finishing wastes	فَضَلات تنهية المعادن / نفايات تشطيب المعادن
+metal foil capacitor	مكثف ذو رقائق معدنية
+metal halide lamp	مصباح هالوجين معدني
+metal lathing	شبكة معدنية
+metal light guide	موجه ضوء بأسطح معدنية
+metal link belt press	مكبس تجمعي الألياف
+metal matriX composite	مادة مركّبة برابط معدني
+metal nose-protection for a tread	حماية معدنية لأنف الدرجة
+metal oxide semiconductor	شبه مُوصل ذو أكسيد معدني (MOS)
+Metal Oxide Semiconductor Field Effect Transistor	موسفت (MOSFET) / ترانزستور الأَثَرُ الحَقْلِيّ القائِمُ عَلَى شِبْهِ مُوصِّلٍ وَفلْزٍ وَأُكْسِيدٍ
+metal pattern	نموذج معدني
+metal plate air seal gasket	حشوة إحكام معدنية مانعة للهواء
+metal powder	مسحوق المعادن
+metal rectifier	مقوّم معدني
+metal resistance thermometer	مقياس حرارة بمُقاومة فلزّية
+metal salt coagulants	مخثِّرات أملاح معدنية
+metal scraps	خُرْدَة معادن، نفايات معدنية
+metal strip array	مصفوفة الشرائط المعدنية
+metal tape yarn	رقائق معدنية
+metal tipping	تزويد بطرف معدني
+metal tote box	خزانة أدراج معدنية، حوض معدني
+metal trim	حلي معدنية
+metal working oil	زيت تشكيل المعادن
+metal-air batteries	بطاريات المعدن و الهواء
+metal-air battery	بطارية هوائية معدنية
+metal-clad base material	مادة أساس مطلية بالمعدن
+metal-clad conductor	موصل ذو غلاف معدنى
+metal-clad switchgear	مجموعة وصل مصفحة
+metal-coated conductor	موصل مطلي بالمعدن
+metal-enclosed switchgear and controlgear	معدات وصل وفصل وتحكم فى حاوية معدنية
+metal-hydride storage unit	وسيط تخزين الهيدروجين
+metal-oxide varistor	مُقاوِم متغير بأكسيد فلزي
+metal-oxide-semiconductor field-effect transistor; MOSFET (abbreviation)	ترانزستور(محكوم بالمجال الكهربائي) بشبه موصلات معادن مؤكسدة
+metal-semiconductor-field-effect transistor; MESFET (abbreviation)	ترانزستور(محكوم بالمجال الكهربائي) ذوشبه موصل معدنى
+metalimnion	طبقة ميتالمنيون
+metalised tape yarn / Mylar film / metallic film	رقائق مُمعدنة
+metallic	معدني / فلزي
+metallic additive	مُضاف معدني
+metallic bond	رابطة فلزية
+metallic circuit	دارة معدنية
+metallic coating	طلية معدنية
+metallic covering,	غلاف معدني
+metallic effect	مظهر معدني
+metallic effect yarn	خيط زخرفي معدني
+metallic fibers	ألياف معدنية
+metallic luster	بريق فلزي
+metallic paint	طلاء معدني أساسي / طلي معدني (ميتاليك)
+metallic paper	ورق معدني
+metallic pigment	خضاب فلزّي
+metallic thread	خيوط من المعدن
+metallic yarn	خيط غزل زُخرفي معدني اللمعة، رقائق معدنية
+metalliferous ores	فلزات معدنية
+metallization; metallizing	مَعْدَنَة
+metallized capacitor	مكثف ممعدن
+metallized screen	شاشة معدنية
+metallogeny	علم نشأة الفلزات
+metallurgic cement	إسمنت معدني
+metallurgical industry	صناعة تعدينية
+metallurgy	علم التعدين
+metamagnetism	مغناطيسية الترقي، (حالة التحول من مادة مضادة مغناطيسية الى مادة مغناطيسية)
+metameric colour stimuli, pl; metamers, pl	مؤثرات لونية مقابلة؛ محفزات لونية مقابلة
+metamerism	التلاون
+metamerism index	مؤشر التلاون
+metamictization	تحطيم إشعاعي
+metamorphic	متحوِّل
+metamorphic rock	صخور متحولة
+metamorphic rocks	صخور متحوِّلة
+metamorphism	تحول
+metapopulation	مجموعة شبه مستقرة
+metasomatic	إحلالي معدني
+metasomatic deposits	رواسب إحلالية معدنية
+metastable state	حالة إستقرار / حالة شبه مستقرة
+meteor bumper	مِصْدَم النيازك
+meteor scattering communication	اتصال بوساطة التناثر من الشهب
+meteor trail	أثر شهابي
+meteor; meteoroid	شهاب / نيزك
+meteoric iron	حديد نيزكي
+meteorite	نيزك / حجر نيزكي
+meteorite impact	أثر النيزك
+meteorogical bulletin	نشرة الأرصاد الجوية
+meteorograph	مرصدة / مِنْوَأة
+meteorological (weather) radar	رادار الأحوال الجوية
+meteorological aids service	خدمة مساعدات الأرصاد الجوية
+meteorological message	رسالة الأرصاد الجوية
+meteorological optical range	المدى البصرى للرصد الجوى
+meteorological optical range, ; MOR,	مدى ضوئى ارصادى, الكشف عن الغاز
+meteorological rocket	صاروخ رصد جوي
+meteorological satellite	قمر صناعي للأرصاد الجوية
+meteorological station	محطة أرصاد جوية / محطة الأرصاد الجوية
+meteorological visibility	وضوح الظروف الجوية
+meteorological wind	رياح أرصاد
+meteorological-satellite service	خدمة القمر الصناعي للأرصاد الجوية
+meteorologist / meteorologin	عالِم(ة) أرصاد جوية
+Meteorology	عِلْمُ الأَرْصادِ الجَوِّيَّة / علم الأرصاد الجوية
+Meteosat	نظام ميتيوسات
+meter	متر / معداد، عدّاد / عَدّاد / عداد
+Meter Calibration	معايرة إنشاء منحنى العداد
+Meter Damage	تلف العداد
+Meter Factor	معامل العداد
+Meter Factor Calculation	حساب معامل العداد
+meter flume	مَسيل قِياس
+meter flume / rating flume	قناة قِياس
+Meter Owner	مالك العداد
+Meter Pressure	ضغط العداد
+Meter Proving	معايرة التحقق من العداد
+Meter Reading	قراءة العدادات
+meter rent	ايجار العدّاد
+Meter Serial Number	رقم العداد التسلسلي
+meter swivel	تحويلة العداد، مِحوَار العداد
+meter type	دليل فئةالدقة (لعدّاد طاقة)
+meter weight	وزن متري
+Meter with Current transformer and Voltage Transformer (Medium Voltage)	عداد بمحول تيار ومحول جهد متوسط
+Meter with Current Transformers (Low Voltage)	عداد بمحولات تيار (جهد منخفض)
+meter with maximum demand indicator	عداد طاقة بمؤشر طلب أقصى
+meter; counter	عدّاد
+metered services consumption report message	خدمات الاستهلاك المقننة، رسالة تقرير (MSCONS)
+Metering Code	كود القياس
+metering in litres [UK] / metering in liters [US]	قياس السعة الحجمية باللتر بمساعدة السوائل
+metering inaccuracy	خطأ القياس
+metering orifice	فتحة معايَرة
+metering pump	مِضخّة جُرعة
+metering service provider; meter operator	الممد بخدمة القياس؛ مشغل القياس
+Metering System	نظام القياس
+Meters Frequencies	متر الترددات
+methane	غاز الميثان / ميثان / ميثين / ميثان (CH4)
+methane (ch4)	ميثان (CH4)
+methane carrier	ناقلة ميثان
+methane gas plant	معمل غاز الميثان
+Methane Leaks	تسربات غاز الميثان
+methane recovery	استخلاص الميثان
+methane rich gas, (M.R.G.)	غاز غني بالميثان
+Methanes or Methane Series	مجموعة الميثان أو البارافينات
+methanesulfonic acid (msa)	حمض سولفون الميثان
+Methanizer Vessel	برج تقطير الميثان / وعاء صنع الميثان
+methanogen	منتج ميثان
+methanogenesis	توليد الميثان
+methanogens	بكتيريا الميثان
+methanol	ميثانول / الميثانول
+methanol synthesis	تخليق الميثانول
+methanol to gasoline process (MTG)	تحويل الميثانول إلى جازولين (MTG)
+method of bins	طريقة حساب فترة سرعة الرياح
+method of least work	طريقة العمل الأصغري
+methodology for municipal solid waste management (mswm) planning	منهجية للتخطيط لإدارة ومعالجة النفايات الصلبة
+Methods of control technology	طرق هندسة التحكم
+methoxychlor	ميثوكسيكلور
+methyl alcohol	غَوْل ميثيلي
+methyl alcohol; methanol	غول مثيلي
+methyl bromide	بروميد الميثيل / برومايد الميثيل
+methyl ethyl ketone, (M.E.K.)	كيتون مثيلي إثيلي
+methyl red-end point alkalinity	درجة القَلَوِية عند نقطة نهاية أحمر الميثيل
+methyl-tertiary butylether	ميثيل ثالثي بوتيل الأثير (MTBE)
+methylene blue test	اختبار زُرقَة الميثيلين
+Metion	مِتْيون
+Metis velour	وبر هَجِين
+metocean; met-ocean	الأرصاد الجوية للمحيطات
+metra potential method	طريقة احتملات المترا
+metre gauge	مسار مِتْرِي
+metre; meter, US	متر
+metric fine thread	لولب متري دقيق الخطوة
+metric number (Nm)	نظام متري
+metric tensor	موتر مترى
+metric ton	طن متري
+Metro	مترو
+metro code	رمز التموقع
+metro line	خط المترو
+Metro Trains	قِطارٌ على مُسْتوَى الأَرْضِ
+metro vehicle	مركبة المترو
+metro; underground; subway	مترو
+metrology	عِلْم القِيَاس / علم القياس / تقييس
+metropleX	طُرق حواضر
+Metropolitan Area Network (MAN)	شبكة المنطقة الإقليمية
+metropolitan area network; MAN (abbreviation)	إختصار (MAN)؛ شبكة حاسبات المدينة (المدن)
+Metropolitan Network	شبكة منطقة متروبولية (إقليمية) (MAN)
+Mexicali fungal invasion	إصابة بالفطر المكسيكي
+Mexico style	طراز مكسيكي
+mezzanin room	غرفة وسطية
+mezzanine (half story)	ميزانين
+mezzograph screen	لوح تضليلي محبّب
+mezzotint	حفر تضليلي محبّب
+Mg/L	ملليغرام /ليتر
+MHLS fibres	ألياف ذات معامل شد عالي وانكماش منخفض
+mho relay	مُرَحِّل مو
+MI trace heater,	سخان تتبع من النوع MI, تسخين بالتتبع
+mica	ميكا / ميكا – (بلق)
+mica flake	شريحة الميكا
+mica paper	ورق ميكا / ورق ميكا (بلق)
+mica plate	صفيحة الميكا
+mica splitting	تشطير البلق – الميكا
+micaceous	ميكاوي
+micanite	ميكانيت
+Michel-Levy method	طريقة ميشيل ليفي
+michigan algorithmic dialect, (M.A.D.)	لغة مشيغن الخوارزمية (الالغورتمية)
+Micorel	ميكوريل
+micro (prefix)	ميكرو
+Micro cogeneration unit	وحدة توليد مشترك متناهية الصغر
+micro fiber	ألياف دقيقة
+micro fuel cell power system	نظام قوى لخلية وقود متناهية الصغر
+micro fuel cell power unit	وحدة قوى لخلية وقود متناهية الصغر
+micro grid	شبكة صغرى
+micro inverter	مُقوِّم عكسي دقيق
+micro mini	تنورة قصيرة جدا
+micro moss	ميكروموس
+micro oxford check	أكسورد مصغر
+micro power module (MPM	وحدة الطاقة الدقيقة (MPM)
+micro wind turbine	عنفة رياح صغيرة
+micro-alloy technique	تقنية سبيكيةِ دقيقةِ
+micro-alloyed steel	صُلب دقيق السَّبيكة
+micro-basin	حوض صغير
+micro-climate	مُناخ محلي
+micro-cycle	دورة صغيرة للغاية
+micro-Deval test	اختِبَار دِيفَال الصَّغِير
+micro-disconnection	فصـل ميكروني
+micro-encapsulation	كَبسلة دقيقة
+micro-enterprise	مقاولة صغيرة جدا
+micro-environment	بيئة متناهية الصغر / بيئة صغري
+micro-grid	شبكة صغرى
+micro-hybrid	مركبة هجينة صغيرة (ميكرو)
+micro-irrigation	ريّ ميكرويّ (ريّ مطريّ برشاشات دقيقة) / رَيّ دقيق
+Micro-loft	ميكرو لوفت
+micro-modal	ألياف مودال دقيقة
+micro-organism, mesophilic	كائنات حيّة دقيقة تعيش في وسط مُعتدل الرطوبة
+Micro-Spun	غزل دقيق
+microalga	طحالب دقيقة
+microassembly	تجميع متناهي الصغر
+microballoons	كريات (ال...) الدقيقة
+microbarograph	مِرسمة ضغط صغيرة / راسم تغيرات الضغط الجوي الدقيقة
+microbe	جرثوم
+microbend loss	فقد ناتج عن انحناءات دقيقة
+microbending	ثنى دقيق
+Microbial biomass	كتلة حيوية ميكروبية
+microbial damage	أضرار ناتجة عن الميكروبات
+microbial desalination	تحلية جرثومية
+microbial desalination fuel cell	خلايا الوقود الميكروبية لتحلية المياه
+microbial fuel cell (MFC)	خلية وقود ميكروبية
+microbicide	مُضادّ ميكروبيّ
+microbiological corrosion	تآكل جرثومي
+microbiological in situ remediation	تطهير مجهري داخل الموقع
+microbiological waters loading	نسبة الكائنات الحيّة الدقيقة في المياه
+microbiology	علم الأحياء الدقيقة
+microbody	جسم مصغر
+microcaliper log	مُخطَّط (سجل) لقياس القطر الدقيق
+microcircuit	دارة متناهية الصغر / دارة مجهرية
+microclimate	مناخ أصغري / مُنَاخ صغريّ / مناخ محلي
+microcline	ميكروكلين
+microcomputer	ميكروكمبيوتر / حاسوب دقيق
+microcontroller	وحدة التحكم الدقيقة (الميكروكنترولر) / مُتحكِّم دقيق
+microcord	قطيفة ميكروية
+microcrystalline wax	شَمْع مجهري التبلور
+microdosimetry	قياس الجرعات الصغرى
+microeconomics	اقتصاد جزئي
+microelectronics	الكترونيات متناهية الصغر
+microfarad	ميكروفاراد
+microfauna	حيوانات دقيقة
+microfilament yarns	خيوط غزل ميكروفيلمنت
+microfilter	فلتر دقيق
+microfiltration (MF)	الترشيح بالانتشار الغشائي / ترشيح دقيق
+microfinance	تمويل صغير جدا
+microfissure	شَقٌّ دقيق
+microfouling	توسيخ دقيق
+microfused strain gauge	مقياس ضغط بمصاهر دقيق
+microgram (µg)	ميكرو غرام
+micrograms per cubic meter (µg/m 3 )	ميكرو غرام في المتر المكعب
+micrographic structure	بنية تخطيطية مجهرية
+microgroove	مِرسمة مجهرية
+microgroove; fine groove	أخدود دقيق جدّا
+microinstruction	تعليمات مختصرة
+microliner	بطانة مِيكروية
+microlite	بُلَيرة
+micrology survey	دراسة (فحص) الأجرام الدقيقة، فحص صغائري
+micromechanics	الميكانيكا الدقيقة
+micrometer	ميكرومتر الأبعاد الخارجية / مسمار الميكرومتر / ميكرومتر
+micrometer drum	أسطوانة ميكرومترية
+micrometer setting rod	قضيب توجيه المكرومتر، قضيب ضبط الميكرومتر
+micron	مَيكْرُون / ميكرون
+micron filter	فلتر ميكروني
+micronaire value	القيمة بالميكرون
+micronavigation	مِلاحة دقيقة
+microorganism	جراثيم مجهرية / كائن حي دقيق / كائن دقيق
+microorganisms	كائنات مجهرية
+micropaleontology	علم الأحافير الدقيقة
+microphone	ميكروفون
+microphonics; microphony	ضوضاء من حركة ميكانيكية او اهتزاز (من مكبر صوت)
+microphony; microphonic effect	لاقط صوتي
+microplex ignition	نظام الإشعال 'ميكروبليكس' (Mikroplex)
+micropollutant	مادة مُلوِّثة دقيقة
+micropomp	مضخة دقيقة (صغيرة جدا)
+micropore / microporous material	ميكروبور
+microprobe	مِسْبَر دقيق / مِسْبَار مجهريّ
+microprocessor	مُعالج دقيق (ميكروبروسيسور) / ميكروبروسيسور / المعالج الدقيق / معالج (ال...) الدقيق
+microprocessor control unit (MCU)	وحدة التحكم العاملة بمُعالج دقيق (الميكروبروسيسور)
+microprogram; microprogramme	برنامج مصغر؛ برنامج مختصر
+microradiography	تصوير دقيق بالأشعة
+microroughness	خُشُونَة بَسِيطَة
+Micros-Eco	ميكروس-إيكو
+microsatellite	تابع صغير
+microscope	مِجْهر
+microscopy	الفحص المجهري / استجهار
+microscreen	مصفاة دقيقة
+microshaving	كشط ناعم
+microstate	حالة مصغرة
+microstrainer / micro-screen	مِصفاة دقيقة
+microstrip	شريط متناهي الصغر
+microstrip antenna	هوائي شريطي دقيق
+microstripline resonator	رنان شريطى متناهى الصغر
+microstructural transformation	التحوُّل في البنية
+microstructure	بِنية مِجهَرية / بِنية دَقِيقة / بنية مجهرية
+microswitch	مفتاح دقيق
+microtexture	نِسْجَةٌ صِغْرِيَّةٌ، نسيج دقيق
+microtome	المشراح
+microtron	ميكروترون (معجل إلكتروني)
+microtunnelling	حفر الأنفاق الدقيقة
+microtunnelling with auger spoil removal	بِناء الأنفاق الدقيقة بواسطة حفّار لولبيّ
+microtunnelling with spoil removal by vacuum	بِناء الأنفاق الدقيقة بواسطة تفتيت وشفط التُربة
+Microturbine	عنفة متناهية الصغر / عنفة صغيرة
+microturbine' fuels	وقود العنفات المجهرية
+microwave	موجة دقيقة
+microwave applicator	مطبق الموجات المتناهية القصر
+microwave cavity	تجويف الترددات العالية
+microwave dryer	مجفف الترددات العالية
+microwave drying	التجفيف بالترددات العالية
+microwave enclosure	حاوية الترددات العالية
+microwave frequency (in electroheat)	ترددات ذات موجات متناهية الصغر
+microwave generator	مولد الترددات العالية
+microwave grinding	تجليخ بالترددات العالية
+microwave gyrator	مدوّر استقطاب غير تبادلي
+microwave heating	تسخين بالترددات العالية
+microwave heating equipment	معدات التسخين بالترددات العالية
+microwave landing system; MLS (abbreviation)	نظام الهبوط بالموجات الدقيقة
+microwave limiting diode	صمام ثنائى محدد بالموجات متناهية الصغر
+microwave link protection; microwave-pilot protection (US)	حماية ذات اتصال بترددات عالية
+microwave load	حمل الموجات المتناهية القصر
+microwave oven	فرن الترددات العالية
+microwave pasteurising	بسترة بالموجات المتناهية القصر
+microwave plasma	بلازما الترددات العالية
+microwave plasma torch	مصباح البلازما بالترددات العالية
+microwave sterilizing	تعقيم بالموجات المتناهية القصر
+microwave stirrer	محرك الترددات العالية
+microwave switching diode	صمام ثنائى تبادلى (وصل -فصل) بالموجات متناهية الصغر
+microwave transparency	شفافية الموجات العالية
+microwave workload	حمل الشغل بالموجات المتناهية القصر
+microwaves	موجات دقيقة
+mid blue	جينز أزرق
+mid-band frequency,	تردد النطاق المتوسط
+mid-engine	محرك أوسط
+mid-flap	قلاّبة وسطى
+mid-high wing	جناح عُلوي وسطي
+mid-oceanic ridges	تلال وسط المحيط
+mid-point	نقطة الوسط
+mid-point conductor	موصل نقطة الوسط
+mid-range missile	قذيفة متوسطة المدى
+mid-sized forest (fsc)	غابة متوسطة المساحة (مجلس الإشراف على الغابات)
+mid-span	مُنتَصف المجاز
+mid-span tension joint	وصلة شد لمنتصف الامتداد
+mid-wing	جناح متوسط
+midcourse	مسار أوسط
+midcruise weight	وزن منتصف الطيران المطَّرِد
+middle deck	سَطْح أوسط
+middle distillates	مشتقات وسطى
+Middle Distillates Department	دائرة مبيعات المشتقات الوسطى
+middle distillates; distillate fuel oils	قَطَّارات متوسطة
+Middle East Green Initiative (MGI)	مبادرة الشرق الأوسط الأخضر
+middle frequency (in electrobiology)	تردد متوسط (في الكهروحيوية)
+middle lap joint	وصل تراكب وسطي
+middle layer	طبقة وسطى
+middle line keelson	رافدة وسطية
+middle post	ركيزة وُسْطى
+middle sample	عينة وسطى
+middle staple cotton fiber	قطن متوسط التيلة
+middleware	قواعد نقل معلومات
+midibus	حافلة متوسِّطة
+midnight requisition	مصادرة ليلية
+midship	وسط السفينة
+Midstream	عمليات وسطى / مرحلة النقل
+Mie scattering	تشتّت ماي
+MIG soldering	لحام السمكرة بطريقة 'ميج' MIG
+MIG welding	اللحام بطريقة 'ميج' MIG
+MIG/MAG welding equipment	جهاز اللحام بطريقة 'ميج' (MIG) / 'ماج' (MAG)
+migmatite	مغماتيت
+migration	هجرة
+migration (of plasticizer)	الترحال- الانتقال ( للملدن )
+migration effect	مظهر الانزياح
+Migration of Oil	هجرة الزيت
+Mikroft Light®	ميكروفت لايت
+Mikroft Technora®	ميكروفت تكنورا
+MIL	عسكري
+mil; thou	مِل
+milanaise	ميلانيزا
+Milanese	أقمشة الميلانيس
+milankovitch cycles	دورات ميلانكوفيتش
+Milano rib	تضليعات ميلانو
+mild clay	طفال رملّي
+mild steel	فولاذ مُطاوِع / فُولاذ ليِّن، فولاذ مطاوع، فولاذ ضعيف المحتوى بالكربون
+mild weather	طقس لطيف
+mildew	عفن
+mile	مِيل
+mile (nautical...)	ميل بحري
+mileage	الكيلومترات المقطوعة / عدد الأميال
+Mili-Ampers	مَلِي أمبير
+military (MIL) [US designation]	مواصفة عسكرية (MIL)
+military aircraft	طائرة عسكرية
+military architecture	هندسة عسكرية
+military fabric	قماشٌ عسكريّ
+military look / military style	طراز عسكري
+militex	ميلي تيكس
+milk wool / Lanital	صوف لبني
+milky quartz	كوارتز حليبي
+mill	طَحْن / تفريز / مَصْنَع
+mill control gasket	مسيكة التحكم بالفريزة، حشوة منع صعود الفريزة
+mill file	مِبْرَد دقيق
+mill type shoe; junk basket part	نَعْل تفريز، كَعْب تفريز
+mill washed	جرش
+mill washed loden	قماش لودن مغسول
+mill-washed corduroy / pre-washed corduroy	قماش قطيفة مغسول
+mill/concentrator processing plant	مطحنة / مكثف، محطة معالجة
+millable	فَتُوت، قابل للتفتّت
+millboard	كرتون ماكينة
+mille-fleur	ألف وردة
+mille-fleur design	نموذج الألف وردة
+mille-fleurs	ورود متناثرة
+mille-plis breast	ألف طية
+milled leather	جلد ناعم
+milled ore	خام مطحون
+millenium development goal 1	هدف 1 للألفية الإنمائية
+millenium development goal 2	هدف 2 للألفية الإنمائية
+millenium development goal 3	هدف 3 للألفية الإنمائية
+millenium development goal 4	هدف 4 للألفية الإنمائية
+millenium development goal 5	هدف 5 للألفية الإنمائية
+millenium development goal 6	هدف 6 للألفية الإنمائية
+millenium development goal 7	هدف 7 للألفية الإنمائية
+millenium development goal 8	هدف 8 للألفية الإنمائية
+millenium development goals (mdgs)	(ال) أهداف الإنمائية للألفية
+Millennium Development Goals (MDGs)	الأهداف الإنمائية للألفية
+miller	آلة تفريز
+milli (prefix)	ميليـ
+milliampere second	ميلي أمبير ثانية
+milliamperemeter	مقياس ميلي أمبير
+milliequivalent	مِلّي مُكافئ
+milliequivalent per litre	مِلّي مُكافئ لكل لتر
+milligram (mg)	مِلّيغرام
+milligrams per liter (mg/L)	مِلّيغرام في اللتر
+Milliken conductor	موصل ميليكين
+milliner	صانعة القبعات
+milling	رَصفَات ذاتِيَّة الرَّتح / سحْق / تفريز، فَرْز
+milling machine	آلة تفريز / آلة تفريز أو توسيع فتحة الثقب
+milling shoe	نعل الفرز
+milling tool	أداة الفرز، فارزة
+Million Barrel Per Day (MBPD)	مليون برميل يوميًا
+Million Barrels (MB)	مليون برميل
+Million Barrels of Oil Equivalent (MBOE)	مليون برميل بترول مكافئ
+million cubic feet, (M.M.C.F.)	مليون قدم مكعبة
+Million Tonnes of Co2 Equivalent (Mtco2Eq)	مليون طن من مكافئ ثاني أكسيد الكربون
+Million Tonnes of Oil Equivalent (Mtoe)	مليون طن بترول مكافئ
+Million Twenty-Foot Equivalent Units (Teu)	مليون وحدة مكافئة لعشرين قدمًا
+millivolt (mV)	الملِّي فولط (mV)
+mills of wood transformation	معامل تحويل الخشب
+millwright	عامل تركيب آلات، مشغِّل الآلة
+mimic diagram; wall diagram	مخطط تمثيلي حائطي
+mimicry	تشاكل
+Mina Abdulla refinery	مصفاة ميناء عبداللة
+Mina Al-Ahmadi refinery	مصفاة ميناء الأحمدي
+Minagish (well)	مناقيش (بئر)
+mine	مَنْجَم
+mine countermeasures	إجراءات مضادة للألغام
+mine gas	غاز المناجم
+mine locomotive	قاطرة مناجم
+mine luminaire	جهاز إضاءة للمنجم
+mine or mining or pit timber	خشب المناجم
+mine or pit prop	دعامة المنجم
+mine or pit sleeper	عارضة للمناجم
+mine rescue luminaire	جهاز إضاءة منجم للإنقاذ
+mine safety lamp	جهاز إضاءة لأمن المنجم
+mine ventilation	تهوية المنجم
+mine water	ماء البئر
+miner's personal lamp; miner's lamp	مصباح شخصى لعامل المنجم
+mineral	مَعْدِنيّ / فِلِزّ / معدن
+mineral assemblage	تجمع معدني
+mineral colza	كولزا معدنية
+mineral colza oil	زيت الكولزا المعدنية
+mineral deposits	رواسب معدنية
+mineral extraction	استخراج المعادن
+mineral fertilizer; synthetic fertilizer; nitrogen fertilizer; synthetic input	سماد; سماد آزوتي; مدخالت صناعية سماد معدني; مصطنع
+Mineral fibers	ألياف معدنية
+mineral filled asphalt	أسفلت غني بالمواد المعدنية، أسفلت غني بالمواد الفلزية
+mineral filler	حشوة معدنية / مالئ معدني
+mineral flax	أسبست ليفي
+mineral genesis	أصل المعدن
+mineral granules; granules	حبيبات فلزية، حبيبات معدنية
+mineral insulating oil	زيت معدني عازل
+mineral insulation	عزل معدنى
+mineral jelly; petrolatum	هُلام معدني (أو نفطي)، هُلام فلزي
+mineral matter / mineral aggregate	مادة معدنية
+mineral oil	زيت معدني
+mineral orientation	توجيه المعدن
+mineral plant nutrient	مواد غذائية معدنية للنبات
+mineral raw materials	مواد خامّ معدنية
+mineral reshaping	إعادة تشكل المعادن
+mineral seal; mineral colza	زيت الكولزا المعدنية (زيت الاضاءة)
+mineral separation	فَصْل المعدن
+mineral soil	تربة معدنية
+mineral sperm; mineral colza oil	زيت الكولزا المعدنية (زيت الاضاءة)
+mineral spirits	مُحلات نفطية، مُذِيبات نفطية
+mineral spring	نبع مياه معدنية / منبع مياه طبيعية عِلاجية
+mineral springs	ينابيع معدنية
+mineral substance	مادة معدنية
+mineral tyrpentine; petroleum spirit	تربنتين معدني
+mineral wagon	عَرَبَة المعادن
+mineral water	ماء معدني
+mineral wool	صوف معدني
+mineral-insulated (metal-sheathed) thermocouple	مُزدوجة حرارية بقميص
+mineralisation	تمعدن
+mineralisation of organic sulfur	تمعدن الكبريت العضوي
+mineralization	مَعدَنَة / تمعدن / تَمَعْدُن
+mineralized vein	عِرْق مُتَعمدِن
+mineralogy	علم المعادن
+mineraloid	شبه معدن
+minerals collecting	تجميع المعادن
+mini cogeneration	توليد مُشترك مُصغّر
+mini EV micro EV	مركبة كهربائية صُغرى (ميكرو)
+mini skirt / mini	تنورة قصيرة
+mini-cogeneration plant	وحدة صغيرة لتوليد الحرارة والكهرباء
+Mini-Pillar	لوحة التوزيع الفرعية
+miniature	مُنَمْنَمَة
+Miniature circuit breaker	قاطَعُ الدائِرَةِ الكَهْرُبائِيَّةِ المُصَغَّرِ
+minibag	حقيبة صغيرة
+minibus	حافلة صغيرة
+minifil	مينيفيل
+minimal erythema dose; MED	أقل جرعة إشعاعية محدثة التهاب للجلد
+minimal flight path	ممر الطيران الأدنى
+minimal impact practices	ممارسات لها الحد الأدنى من التأثير
+minimal mapping unit	حد أدنى لوحدة رسم الخرائط
+minimal pattern	نموذج مصغر
+minimal temperature controller	جهاز تحكم في أدنى درجة حرارة
+minimal-phase element	عنصر ذو حد أدنى للطور
+minimal-phase system	نظام ذو حد أدنى للطور
+minimalism	طراز الحد الأدنى
+minimally manned	مأهولة بالحد الأدنى
+minimisation	تقليل إلى أقصى حد
+minimization of coning	تقليص المخارط (المائية أو الغازية في المكمن)
+minimum	أصغري
+minimum (phase frequency) shift keying ; MSK (abbreviation)	مفتاح ادنى ازاحة تردد طور
+minimum airplane	طائرة الحد الأدنى
+minimum altitude	ارتفاع أدنى
+minimum ambient temperature,	اقل درجة حرارة محيطة, تسخين بالتتبع
+minimum angle of shade; minimum shielding angle (US)	زاوية الحماية الصغرى
+minimum annual flow	أدنى جريان سنوي
+minimum approach distance; minimum working distance	الحد الأدنى لمسافة الأقتراب؛ أقل مسافة عمل
+minimum bore / minimum diameter	أدنى اتساع
+minimum braked weight percentage	الحد الأدنى للفرامل
+minimum breaking current	تيار الفصل الأدنى
+Minimum compensation scheme	خطة التعويض في الحد الأدنى
+minimum contact wire height	أقل قيمة لإرتفاع خط التلامس
+minimum control impulse time	أدنى زمن لنبضة التحكم
+minimum crushing load	أدنى حِمل ساحق
+minimum decision altitude	ارتفاع القرار الأدنى
+minimum demand	طلب أدنى؛ القدرة الادنى المحاسبة
+minimum descent altitude	ارتفاع الهبوط الأدنى
+minimum design weight	وزن التصميم الأدنى
+minimum detectable activity (mda)	أدنى نشاط قابل للكشف
+minimum diameter	أدنى قُطر
+Minimum Energy Performance Standard (MEPS)	المعيار الأدنى لأداء الطاقة
+minimum equipment item	قطعة تجهيز أدنى
+minimum fibers number in yarn cross-section	الحد الأدنى لعدد الألياف في قطر الخيط
+minimum field	أدنى مجال
+minimum flight altitude	ارتفاع أدنى للطيران
+minimum flying gross weight	وزن الطيران الكلي الأدنى
+minimum flying speed	سرعة الطيران الدنيا
+minimum fuel	وقود أدنى
+Minimum fuel consumption boundary	حدّ أدنى لاستهلاك الوقود
+minimum gliding speed	سرعة الانحدار الدنيا
+minimum headway	الحد الأدنى للحيز الفاصل
+minimum headway time	الحد الأدنى للوقت الفاصل
+minimum idling speed	سرعة التباطؤ الدنيا
+minimum igniting current; MIC	اقل تيارللأشتعال
+minimum ignition energy; MIE	اقل طاقة إشتعال
+minimum ignition temperature of a dust cloud	اقل درجة حرارة اشتعال لسحابة غبار
+minimum ignition temperature of a dust layer	اقل درجة حرارة اشتعال لطبقة غبار
+minimum insertion attenuation	أصغر قيمة توهين الإدخال
+minimum installation temperature,	أقل درجة حرارة لنظام, تسخين بالتتبع
+minimum internal diameter	أدنى قُطر داخلي
+minimum justification ratio; minimum stuffing ratio	نسبة التبرير الدنيا
+minimum limit	عتبة الحد الأدنى
+minimum line of detection	خط الاكتشاف الأدنى
+minimum line of interception	خط الاعتراض الأدنى
+minimum navigation performance specification	مواصفات أداء الملاحة الدنيا
+minimum normal burst altitude	ارتفاع الانفجار النظامي الأدنى
+minimum operating level	حد أدنى لمنسوب المياه (في خزان مثلاً)
+Minimum Operator	مُعامل الحد الأدنى
+Minimum Operator Connectivity	اتصال مُعامل الحد الأدنى
+Minimum Operator Method	طريقة مُعامل الحد الأدنى
+Minimum outside air	تزويد بالحد الاذنى من الهواء
+minimum payment clause	بند دفع الحد الأدنى من الاستهلاك
+minimum permissible protective liquid level	اقل مستوى لسائل حماية مسموح بها
+Minimum Plant Capacity	حد أدنى لسعة المحطات
+minimum power	قُدرة دُنيا
+minimum power,	أدني قدرة,
+minimum pressure	الحد الأدنى من الضغط
+minimum Price	الحد الأدنى الأسعار
+minimum price system	نظام السِعر الأدنى / نظام سعر الحد الأدنى
+minimum reception altitude	ارتفاع الاستقبال الأدنى
+minimum reservoir level	أدنى منسوب للخزان
+minimum rpm	سرعة دورانية دنيا
+minimum safe altitude warning	تحذير الارتفاع المأمون الأدنى
+minimum safe output of the unit	الخرج الأدنى الآمن للوحدة
+minimum significant activity (msa)	أدنى نشاط بمدلول
+minimum source e.m.f. (recording)	مصدر قوة دافعة كهربائية ادنى (للتسجيل)
+minimum speed	سرعة دنيا
+minimum subject illuminance	الحد الأدنى من الاضاءة
+minimum temperature	أدنى درجة حرارة
+minimum tillage	أدنى حراثة
+minimum time of energization (for operation)	زمن التغذية الأدنى (للتشغيل)
+minimum trench width	أدنى عَرْض للخندق
+minimum turning path	مَمَرّ الانعطاف الأدنى
+minimum turning radius	نصف قطر المنعطف الأدنى
+minimum usable erasing time	اقل زمن مسح مستخدم
+minimum usable field strength	أدنى شدة مجال قابل للإستخدام
+minimum usable reading speed	ادنى سرعه مستخدمه للقراءه
+minimum vectoring altitude	ارتفاع اتجاهي أدنى
+minimum viable population	أصغر مجموعة قابلة للحياة
+minimum voltage	أدنى جهد
+minimum voltage differnece	فرق جهد الحد الأدنى
+minimum voltage,	أدني جهد,
+minimum wage	حد أدنى للأجور
+minimum warning time	زمن التحذير الأدنى
+minimum wavelength	أقل طول موجى
+minimum Z-dimension	البعد الأدنى فى إتجاه محور Z
+minimum-control speed	سرعة التحكم الدنيا
+Mining and Milling	تعدين وتجهيز
+mining geology	جيولوجيا المناجم
+mining industry	صناعة التعدين
+mining railroad	سِكَّة التعدين
+mining waste	نفايات التعدين
+mining water use	استخدام المياه في المناجم
+minisatellite	تابع صغير
+Ministerial Committee for Restructuring the Electricity Sector	اللجنة الوزارية لإعادة هيكلة قطاع الكهرباء
+Ministry of Energy	وزارة الطاقة
+miniver	فِرَاء رمادي فاتح
+mink	مِنْك / جلد الفيزون
+minor control	تضليع
+minor elements	عناصر ثانوية
+Minor in Energy Engineering Qualification Awarded: Bachelor	الشهادة المحصل عليها خلال دراسة هندسة الطاقة المحدودة: شهادة الإجازة
+Minor in Renewable Energy Qualification Awarded: Bachelor	الشهادة المحصل عليها خلال دراسة الطاقة المتجددة المحدودة: شهادة الباكالوريوس / الشهادة المحصل عليها خلال دراسة الطاقات المتجددة المحدودة: شهادة الإجازة
+Minor in Sustainable Energy Systems Qualification Awarded: Bachelor	الشهادة المحصل عليها خلال دراسة الأنظمة المحدودة للطاقات المتجددة: شهادة الإجازة
+minor minerals	معادن ثانوية
+minor patches	تعديلات بسيطة
+minor principal stress	إجهاد (ال...) الأساسي الأصغري
+minor triangulation	تثليث تكميلي
+minority carrier (in a semiconductor region)	حامل أقلية للشحنات (فى منطقة شبة موصله)
+minterm	تعبير (ال...) الأبسط
+minus color	لون متمِّم
+minus pole	قطب سالب
+minus tapping	مأخذ ناقص(تفريع)
+minuscule	محيرف
+minute	دقيقة
+minutes of meeting	مَحضَر مناقشات
+minutes reserve	احتياطي دقائقي
+minyulite	مينيولايت
+miocene epoch	عصر (ال...) الميوسيني
+Mir	سجاد مير
+Miracasmo	ألياف ميراكازمو
+Miracle	ألياف ميراكل
+miralon	ميرالون
+mire	تربة وحل
+mirror	مظهر لامع / مِرآة
+mirror area	منطقة مرآة
+mirror dimming	منع الإبهار في المرآة (ADM)
+mirror effect	تأثير المرآة
+mirror fissures	شقوق المرآة
+mirror L-network; mirror Γ-network	شبكة L مرآة
+mirror of a vault	مرآة القبو
+mirror stereoscope	ستيريوسكوب ذو مرايا
+mirroring (in computer networks)	نسخ (فى ربط الشبكات)
+miscanthus	أعشاب (قصبية) فضية / ميسكانتوس
+miscellaneous cargoes	شحنات متنوّعة
+miscibility	قابلية الامتزاج
+miscible	قابِل للخلط
+miscible displacement	إزاحة قابلة للمزج
+misclosure	خطأ الإغلاق
+misfire	اخفاق ( فشل ) الاشعال
+misfiring	إخفاق الإشعال
+misfit stream	نهر سليب، نهر غير متكيِّف
+misfueling protection system	نظام الوقاية من التزود بالوقود الخطأ
+mismatch	عدم توافق / لاتوافق
+mismatched termination	نهاية طرفية غير متطابقة
+misprint	خطأ طباعي
+missed approach	اقتراب غير ناجح / اقتراب مُخفِق
+missile	مقذوف
+missile range	مدى القذيفة
+missile; rocket	صاروخ
+missilry	علم القذائف
+mission	المهمات المطلوبة / رسالة
+mission degradation factors	عوامل تخلُّف المهمة
+mission equipment	معدّات المهمة
+mission of a train	مهمة القطار
+mission profile	قائمة المهمات / جانبية المهمة
+mission radius	نصف قطر المهمة
+mission review report	تقرير استعراض المهمة
+mission specialist	أخصائي المهمة
+mission support section	قسم إمداد البعثة
+mission-adaptive wing	جناح متكيّف مع المهمة
+mission-oriented items	بنود تتعلق بالمهمة
+mission; task	مهمة
+mist	سَدِيم / ضباب / سديم
+mist collector	مُزِيل الرذاذ
+mist drilling	حَفْر بالهواء الرَّطْب
+mist elemininator	ماسح الضباب
+mist,	ضباب, مادة قابلة للإشتعال
+mistake	غَلطٌ
+misting	ترذُّذ
+misto cashmere	ميستو كشمير
+mistral	ميسترال
+misuse charge	رسوم بسبب سوء الاستعمال
+miter (or mitre)	زاوية مائلة (45)
+mitering gate	بوابات أهوسة
+Mithane Rich Gas	غاز غني بالميثان
+mitigation	تخفيف
+mitigation marginal cost function	دالة تخفيف التكلفة الهامشية
+mitigation measures	تدابير التخفيف
+mitigation option	خيار تخفيف
+mitigation scenario	سيناريو تخفيف
+mitigative capacity	قدرات التخفيف
+mitigative or avertive expenditure valuation methods	طرق تقييم إنفاق التخفيف أو الوقاية
+MitiTech	ميتي تك
+mitochondria	السبحيات
+mitosis	انقسام فتيلي
+mitotype	نمط ميتوكوندري
+mitre	زاوية بين سطحين
+mitre block	صندوق للنشر المائل
+mitre box and back saw	صندوق للنشر المائل ومنشار بظهر
+mitre bricks	آجر مشطوب
+mitre clamp	مربط الزوايا المائلة
+mitre cutting	قطع مائل
+mitre sawing	نشر مائل (45)
+mitre secret dovetail joint	وصلة تعشيقية بطرف مخفي
+mitre shooting block	قالب مسح الزوايا المائلة
+mitre square	زاوية 45
+mitre-dovetail	تعشيقة مائلة (45)
+mitre-sawing board	لوح ضبط النشر المائل
+Mitreile	ميتريل
+mitten	قفاز راحي
+mix and match	خلط ومطابقة
+mix design	تَصمِيم مَزِيج / تصميم الخلطة
+mix, bury and cover (drilling wastes)	مزج، دفن وتغطية (نفايات حفر)
+mix-in-place	خَلطٌ فِي نَفسِ المَكَان
+Mixed air	هواء مخلوط
+mixed base	قاعدة مختلطة، أساس مختلط
+mixed bed demineralizer	سرير مختلط لعزل المعادن
+mixed bed filters	مُرشِّح ذو فرشة حصوية مخلوطة
+mixed compactor	ضَاغِط مَزِيج
+mixed cropping	زراعة مختلطة
+mixed crystals	بلورات مختلطة
+mixed dielectric capacitor	مكثف ذو عزل كهربائى مختلط
+mixed glass	زجاج مختلط
+mixed high frequencies (obsolete)	مزيج الترددات العالية
+mixed liquor	خليط مياه الصرف الصحيّ والحمأة المُنشّطة / خليط من حمآت مُنشّطة / خليط من مياه الصرف الصحيّ والحمأة المنشطة / مزيج منحَلّ
+mixed liquor recirculation rate	نسبة تدوير السائل الممزوج
+mixed liquor suspended solid (MLSS)	درجة تركيز الحمأة المنشطة
+mixed liquor suspended solids (MLSS)	محتوى المواد الجافة العالقة في حوض التهوية (MLSS) / مواد صلبة معلقة في مزيج محلول
+mixed liquor volatile suspended solids (MLVSS)	مواد صلبة طيارة معلقة في مزيج محلول
+mixed liquor volatile suspended solids (MLVSS) (pl.)	مُحتوى المواد العضوية الجافة في حوض التهوية (MLVSS)
+mixed materials	مَوَادٌّ مُرَكَّبَة
+mixed media filter	مُرشِّح ذو أوساط مختلفة
+mixed metals	معادن مختلطة
+Mixed Mud	سائل الحفر المحضّر
+mixed municipal solid waste	نفايات بلدية صلبة مختلطة
+mixed operations	عمليات مختلطة
+mixed oxide	أكسيد مختلط (Mox)
+mixed paper	ورق مختلط
+mixed phase layout	مخطط بأطوار مختلطة
+mixed plastic	بلاستيك مختلط
+miXed propellant	وقود صاروخي مختلط
+mixed radiation	إشعاع مُخْتَلَط
+mixed reflection	انعكاس مختلط
+mixed size print	نموذج تركيبي
+miXed traffic	حركة مرور مختلطة
+mixed traffic locomotive	قاطرة نقل مشترك
+mixed transmission	إنتقال مختلط؛ نفاذ مختلط
+mixed transport association	اتحاد نقل مختلط
+mixed use development	تنمية استخدامات مختلطة
+mixed-base crude	خام مختلِط القاعدة
+mixed-Bed Ion Exchange	سرير مختلط لتبادل الأيونات
+miXed-power aircraft	طائرة مختلطة القدرة
+mixed-used land use	مجال نقل مختلط
+mixedwood stands	موقع بأشجار مختلطة
+mixer	خَلاّط / خلاط / مازج/ خلاط / خلاّط
+mixer baffle	عارضة خلاطة الإسمنت
+mixer diode	صمام ثنائي مازج
+mixer driver	عامل خلاّطة
+mixer tube	صمام مزج
+mixing	مزج / خلط
+mixing (programme signals)	مزج (إشارات البرنامج)
+miXing boX	علبة خلط
+mixing desk; mixing console	طاولة المزج
+mixing formula	صيغة خلط
+mixing height	ارتفاع الخلط
+mixing pit drain	مصرف حوض الخلط، مجرى سكب الخليط
+mixing pump	مِضخّة خَلْط تناسبيّ
+mixing ratio, ; DEPRECATED: mass ratio of water vapour to dry gas	نسبة الخلط,
+mixing system	نظام الخلط
+mixing tank	حَوْض خَلْط
+mixing water	مياه مختلطة
+mixing zone	مِنطقة خَلْط / نطاق المزج
+mixture	خليط
+mixture delivery nozzle	صنبور تصريف المخلوط
+mixture of tar and bitumen	خليط من قَطْران و حُمَّر
+mixture preheating	تسخين مُسبق للخليط
+mks system	نظام المتر - كيلو جرام- ثانية
+MLPA	المنطقة اللوجستية الإنتاجية الرئيسية
+Mmcf	مليون قدم مكعبة
+Mmcfd	مليون قدم مكعبة في اليوم
+MME	وزارة البلدية و البيئة
+MME UPD	إدارة التخطيط العمراني بوزارة البلدية و البيئة
+mmt	متيل سيكلوبنتادي انيل منغنيز ثلاتي الكربونيل (MMT)
+mnemonic	مساعِد للذاكرة
+mnemonic techniques	أساليب الترميز
+mobile (terrestrial) station	محطة أرضيّة متنقّلة
+mobile air movement team	فريق الحركة الجوية المتنقّل
+mobile camp	مخيَّم متنقل، تخييم نَقُول
+Mobile Carbon Capture Technology	تقنية احتجاز الكربون المتنقلة
+Mobile charging station	محطة شحن متنقلة
+mobile crane	رافعة متحركة
+mobile data terminal	وحدة بيانات متنقلة
+mobile diagnostic computer (MoDIC)	كمبيوتر التشخيص المُتنقل (MODIC)
+mobile drilling platform	مِنَصَّة حَفْر متنقِّلة
+mobile earth station	محطة أرضية متنقلة
+mobile equipment	معدات متنقلة
+mobile frame	إطار متحرك
+Mobile incinerator	محرقة متنقلة
+mobile lounge	ردهة متنقِّلة
+mobile plateform	منصة متحركة
+mobile platform	منصة مُتحرِّكة
+mobile quarantine	محجر صحي متنقّل
+Mobile Radioactive Material	مواد مشعة متنقلة
+mobile service	خدمة متنقلة / محطة متنقلة
+mobile service switching centre; MSC (abbreviation)	مركز تبديل للخدمة المتنقلة
+mobile shelve, rack	رف متنقل
+mobile shelving system	نظام الرف المتنقل
+mobile source	مَصْدَر متنقل
+mobile station	محطة متنقلة
+mobile storage	وسيط تخزين طاقة نقَّال
+mobile structure drill	حَفَّارة حروكة البنية
+mobile substation; movable substation	محطة فرعية متنقلة
+Mobile Switching Centre	مَرْكَزُ تَبْدِيلِ الهاتِفِ المَحْمُولِ
+mobile unit	وحدة متنقلة
+mobile X-ray generator	مولّد الاشعة السينيةِ X المتنقل
+mobile, adj	نقّال
+mobile-satellite service	خدمة متنقلة بالقمر الصناعي
+mobility	تنقل / قابلية التحرك
+mobility (of a particle)	حركية (للجسيم)
+mobility behavior	سلوك التنقل
+mobility culture	ثقافة التنقل
+mobility figures	مؤشر التنقل
+mobility management	إدارة التنقل
+moccasins	المقسين
+mocha leather	جلد موشا
+mochetto	موتشيتو
+mock gilet	صدَار مزيف
+mock kimono	كيمون أبتر
+mock leno weave	تركيب نسجي ذو شبيكة مزوية غير حقيقية
+mock plain	طقم مزيف
+mock two-piece / mock gilet	تصميم مزيف
+mock-up	موذج مجسم
+mock-up; pattern	نموذج
+Modacryl	ألياف موداكريليك
+modal analysis	تحليل نمطي
+Modal control	ضبط نمطي / تحكم مشروط
+modal distortion; modal dispersion (deprecated)	تشويش شكلى تشتيت شكلي
+modal fibers	ألياف حالية
+modal noise; speckle noise	ضجيج شكلى ضجيج منقط
+modal numbers	أرقام نمطية
+modal split	اختيار أُسْلُوبِيٌّ / توزيع حسب وسائط النقل
+MODbus	ناقل 'مود'
+mode	النمط؛ طريقة ، النمط، أسلوب / نمط / نَسَق / نَمَط
+mode centre; mode top	حاله مركزيه ( حالة التشغيل عند أقصى خرج )
+mode conversion (in waveguides)	محوِّل الأنماط (في أدلة الموجات)
+mode conversion gain	كسب نمط التحويل
+mode conversion loss	فقد نمط التحويل
+mode converter; mode changer (deprecated); mode transformer (deprecated)	مُغيِّر نمط
+mode conveyance	نمط النَّقل
+mode coupling	صيغة تقارن؛ قرن الأساليب
+mode designation (in a waveguide or cavity resonator)	نمط تعيين ( في دليل موجة أو مِرنان تجويف)
+mode field diameter	قطر حقلِ النمطِ
+mode filter	مرشح نمط / مرشِح نمطي
+mode hopping; mode jumping	قفزة النموذج؛ قفزة أسلوب
+mode of oscillation	نمط التذبذبِ
+mode of propagation (in a transmission line); transmission mode	نمط انتشار (في خط نقل)
+mode of propagation (in ionospheric propagation)	نمط الانتشار (في الانتشار الأيونوسفيري)
+mode of resonance (in a cavity resonator); cavity mode	نمط رنين ( في مِرنان تجويف)
+mode of transport	وسيلة نقل / وسيلة النَّقل
+mode of vibration	وضع الإهتزاز؛ نمط الإهتزاز
+mode scrambler; mode mixer	مازج نمطى
+mode selector switch	مفتاح نمط التشغيل
+mode shape	شكل نمط
+mode superposition	إضافة الأنماط
+mode volume	حجم النمطِ
+mode, transport	وسيلة النَّقل
+model	نموذج / نَمُوذَج / مجسّم، نموذج
+model analysis	تحليل نموذجيّ
+model atmosphere	غلاف جوي نموذجي
+model basin	حوض نموذجي
+model calculation, hydraulic	حساب هيدروليّ نَمُوذَجيّ
+model calculation, hydrogeochemical	حساب هيدروجيولوجيّ كيميائيّ نَمُوذَجيّ
+model qualification test	اختبار كفاءة النموذج
+model rainfall	هُطول أمطار نَمُوذَجيّ
+Model reference adaptive systems	تحكُّم تَواءمي بنموذج مرجعي (MRAS)
+model tank	خزان النموذج
+model test	تجرِبة نموذجية
+model train set	نَمُوذَج سِلسِلَة القِطَار
+model tunnel	نفق نموذجي
+model, simulation	نَمُوذَج مُحاكاة
+Model-based control	ضبط مُنمذج / تحكم قائم على نموذج
+model; type; version	نَمُوذَج
+modeling	نَمذَجَة
+modelling	نمذجة
+modem	مودم / مُعدّل
+moder	دبال بني ناعم
+moder humus	دبال بني ناعم
+moderate	معتدل
+moderated conference	مؤتمر حوار
+moderately hydraulic lime	جير متوسط الماهية، جير متوسط الهيدرولية
+moderator	رئيس الجلسة / مهدّىء
+modern / modernity	معاصر
+modern art	طراز حديث
+modernize	حدَث
+Modes of operation of NC machine	أنواع تشغيل ماكينات التحكّم الرقميّ
+modes of transport	وسائل النَّقل
+modes or patterns of climate variability	وسائط أو أنماط التغير المناخ
+modificatice adaptation	تكيف تعديلي
+modification	تعديل،,
+modification,	تعديل, الأجواء المتفجرة
+modification; rectifying; trim	تعديل
+modification; slip; variation	تغيير
+modified acrylic	أكريل مُعدّل
+modified alternate mark inversion code; modified AMI	شفرة عاكسة ذات علامه متناوبة معدله
+modified axle control (ABS)	نظام التحكم المُعدل في المحور (نظام منع غلق العجلات (ABS))
+modified bitumen	قَارٌ مُعَدَّل
+modified constant voltage charge	شحن معدل بجهد ثابت
+modified elastane	إيلستان معدَّل
+modified fiber	ألياف مُعدّلة
+modified individual control (ABS)	نظام التحكم الفردي المُعدل (نظام منع غلق العجلات (ABS))
+modified individual control severity	درجة ضبط نظام التحكم الفردي المُعدل
+modified natural forest	غابة طبيعية معدلة
+modified pipes and filling plastics, (A.B.S.)	لدائن الأنابيب و وصلاتها المعدَّلة
+modified polyamide	عديد أميد مُطَوَّر
+modified polyester	عديد إستر مُطَوَّر
+modified refractive index	دليل إنكسار معدل
+modified side control (ABS)	نظام التحكم الجانبي المُعدل (نظام منع غلق العجلات (ABS))
+modified sine wave	موجة جيبية مُعدّلة
+modified velocity	سُرعة معدَّلة
+modified-square-wave	موجة مربعة مُعدّلة
+moding	تنميط
+mods	عصري
+modular	استقلالي / انفصالي / معياري
+modular design	تصميم نسقي
+modular door control	نظام MTS
+modular door control, bus	تحكم موديولي في أبواب الحافلات
+modular factory	مصنع جزئي
+modular lights system (MOLIS)	نظام الإضاءة الموديولي (MOLIS)
+modular lounge	ردهة مستقلة / ردهة منفصلة
+modular parallel topology	طوبولوجيا مُتوازية قياسية
+modular ratio	نسبة (ال...) المعيارية
+modular sourcing	مصدر جزئي
+modularity	مُعايرة / تراكُبية
+modularity; modular design	قابلية التركيب
+modularization	بنيوية
+modulated	معدّل
+modulated augmentation	تعزيز مُضَمَّن
+modulated frequency	توتُّر معدَّل
+modulated groove	اخدود معدل
+modulated signal ; modulated wave; modulated oscillation	إشارة معدلة
+modulated wave	موجة معدّلة
+modulated waves	موجات مُضَمَّنة
+modulating signal ; modulating wave	إشارة تعديل
+modulation	التضمين / تضمين / تكييف؛ تعديل / تعديل
+modulation by pulses; pulse modulation (deprecated in this sense)	تعديل بالنبضات
+modulation converter	مغير تضمين
+modulation factor	عامل تعديل
+modulation gain	كسب تضمين
+modulation index,	دليل التعديل / دليل التضمين (في تضمين إزاحة التردد)
+modulation noise	شوشرة التعديل
+modulation of pulses ; pulsed carrier modulation	تعديل النبضات
+modulation processing; signal processing	معالجة تعديل الإشارات
+modulation rate	معدل التضمين
+modulation rate / walking speed / walking race	سرعة التضمين
+modulation transfer function	دالة إنتقال التعديل
+modulation with a fixed reference	التضمين بمرجعية محددة / تضمين بمرجع ثابت
+modulative adaptation	تكيف (وحداتي Modulative)
+modulator	جهاز التضمين / مضمّن / مضمن
+modulator diode	صمام ثنائى مضمن
+modulators	عناصر ضبط
+module	موديول / نموذج / وحدة / مقياس التناسب / وحدة قياس، صندوق الآلات و المعدات الخاص بمنصة الحفر البحرية / وحدة (كهرضوئية)
+module derate factor	عامل خفض تيار الوحدة
+Module Reliability Scorecard of PV panel	تقييم موثوقية الألواح الشمسية
+module Wdc	قيمة التيار المستمر في الوحدة (مقاساً بالواط)
+module; off-mounted	منفصل
+module; stand-alone	مستقل
+modulus	مُعامِل / معامِل
+modulus of compression; bulk modulus	معامل انضغاط؛ معامل الجسم
+modulus of elasticity	مُعامل المرونة / مُعامِل المُرونَة / مُعامِل المرونة / معامل المرونة
+modulus of elasticity; Young modulus	معامل المرونة؛ معامل يانج
+modulus of resilience	مُعامِل الرجوعية
+modulus of rigidity	مُعامِل الصلابة / مُعامل الجسوءة
+modulus of rigidity; Coulomb modulus	معامل الصلابة؛ معامل كولومب
+modulus of rupture	مُعامِل التمزُّق
+modulus of section	مُعَامِل المقْطَع
+modulus of subgrade reaction	معامِل الارتكاس
+modulus of subgrade reaction; coefficient of subgrade reaction	معاير رد فعل التربة
+mogas; motor gasoline	بنزين السيارات
+mohair	موهير
+mohair blend yarn	خيط موهير مخلوط
+mohair knit	موهير مخطّط
+Mohair wool	صوف الموهير
+mohair yarn	خيط موهير
+moho (mohorovicic discontinuity)	موهو (انقطاع موهوفيتشيك)
+mohorovicic seismic discontinuity	انقطاع موهو السيزمي
+Mohr's envelope	غِلَاف مُوهر
+Mohr-Coulomb failure envelope	مغلف مور كولومب للانهيار
+Mohr’s Circle	دائرة مور
+Mohr’s circle of stress	دائرة مور للإجهادات
+Mohs' scale	مقياس موهس
+MoI-GDCD	الإدارة العامة للدفاع المدني بوزارة الداخلية
+moil point chisel	إزميل حاد السن
+moire	نسيج مُتمِّوج
+moire yarn	خيط مواريه
+moiré	تموج / تموّج
+moiré (in television)	التموج ( في التلفاز) )
+moiré (on a picture)	تموّج (على الصورة)
+moiré combiné	تركيب متموج
+moiré pattern (on a disk); patterning	نمط تموّج (على الإسطوانة)
+moist / saturated adiabatic lapse rate (M/SALR)	ميل درجة حرارة نظام معزول حراريا ومشبع
+moist air density	كثافة الهواء الرطب
+moist wood	خشب مبلَّل
+moisten (to) / humidify (to)	بَلَّلَ
+moistening	تبليل
+moisting installation	وحدة الترطيب
+moisture	رطوبة
+moisture / humidity	رُطُوبة
+moisture absorption	امتصاصية الرطوبة / امتصاص الرطوبة
+moisture capacity of the soil, available	سَعَة الرطوبة المتاحة للتربة
+moisture capacity, normal	سَعَة عادية للرطوبة
+moisture characteristic, soil	خصائص (ال..) المُميزة للرطوبة في التربة
+moisture content	كَمّية الرطوبة / نسبة الرطوبة / محتوى الماء؛ محتوى الرطوبة / مُحتوى الرطوبة / محتوى من الرطوبة / محتوى الرطوبة
+moisture content / water content	مُحتوى (ال...) المائيّ
+moisture content test	اختبار محتوى الرطوبة
+moisture corrosion	تآكل بفعل الرطوبة
+moisture corrosion characteristics	مميزات التآكل بفعل الرطوبة
+moisture deficit	نَقْص الرطوبة
+moisture density curve (Proctor…)	منحني بروكتور
+moisture gradient	تَدرُّج رُطوبيّ
+moisture index / Thornthwaite moisture index	دَلِيل الرطوبة (دليل ثورنويت)
+moisture percentage	النسبة المئوية للرطوبة
+moisture regain	نسبة رطوبة تكميلية / الرطوبة المكتسبة
+moisture sensation threshold	مستوى الإحساس بالرطوبة
+moisture tension; soil moisture tension	نسبة الضغط في مياه التربة
+moisture transport capability	ناقلية الرطوبة
+moisture, hygroscopic / hygroscopic water / moisture of condensation	مياه استرطابية
+moisture, optimum	رُطوبة مُثلى
+moisture, readily available	رُطوبة مهيأة متاحة
+moisture-content	نسبة الرطوبة
+moisture-free	خال من الرطوبة
+moisture-holding capacity / maximum water capacity	سَعَة مائية قُصوى
+mol	مُول (جرام جُزَيْء)
+molar, adj	كتلى (صفة)
+molasse	تراكمات اجتثاث
+mold	عفن فطري
+mold; mould	قالب
+molded or shaped plywood	خشب معاكس مُقَوْلب
+mole	مَلْطَم، حاجز أمواج / مول / المول(جزئ غرامي)
+mole (tunneling)	حَفّارة أنفاق
+mole drain	مَصْرِف نَفَقيّ / قناة 'خلد' للتصريف
+mole drainage	صَرْف نَفَقِيّ
+molecular genetics	علم الوراثة الجزيئي
+Molecular Hydrogen	جزيء الهيدروجين
+molecular spectrum	طيف جزيئي
+molecule	جزيء / جزئى / جزيئة
+molecule, long chain organic	جزيء عضويّ طويل السلسلة
+Moleskin (m)	فرو الطوبين
+mollusc	رخويات
+molten carbonate fuel cell (MCFC)	خلية وقود (MCFC) / خلايا وقود الكربون المُذاب (MCFC)
+molten carbonate fuel cell; MCFC	خلية وقود كربونات منصهرة
+molten salt cell	خلية ملح منصهر
+molten salt decomposition voltage	جهد تحليل الملح المنصهر
+Molten Salt Reactor	مفاعل الملح المنصهر
+Molten Sulfur	الكِبْرِيتُ المُذابُ
+molybdenite	مولبدينايت
+molybdenum	موليبدِنوم
+moment	عزم
+moment coefficient	مُعامِل العزم
+moment distribution	توزيع العزوم
+moment of a couple	عزم الإزدواج
+moment of force	عزم القوة
+moment of inertia	عَزْم القُصور الذاتيّ / عَزْم العَطالة / عَزْم العطالة / عزم العطالة / عزم القصور الذاتي
+moment of inertia, axial	عَزْم القُصور الذاتيّ المحوريّ
+moment of inertia, oscillating	عزوم القصور الذاتي الترددية
+moment of inertia, rotating	عزوم القصور الذاتي الدورانية
+moment of inertia; mass moment of inertia	عزم القصور الذاتى؛ كتلة عزم القصور الذاتى
+moment of momentum	عزم كمية الحركة
+moment of resistance	عَزْم مُقاوِم
+moment sensitivity of cantilever beams	حساسية العزم لعارضة التقوّس
+momentary interruption	إنقطاع لحظى
+momentum	قوة دافعة / كمية الحركة
+momentum drag	كَبْح الزَّخْم
+momentum separation	انفصال زَخْمي
+momentum theory	نظرية الزَّخْم
+momentum thickness	سماكة الزَّخْم
+momentum-transfer method	طريقة نقل الزَّخْم
+Momex fiber	ألياف نوميكس®
+monadic Boolean operation	عملية بوليان ذات التكامل الأحادي
+Monastir	سجاد موناستير
+monazite	مونازايت
+Mondrian pattern	طراز موندريان
+Monece	مونيس
+Monel alloys	سبائك مونِل
+monel metal	معدن 'مونل'
+MONERIS areas	مناطق 'مونيريس' (MONERIS)
+money left on the table	فرق (ال...) بين أعلى عطاء و الذي يليه، غرامة العدول عن الشراء في مزاد
+mongoli	وبر منغولي
+monism	أحادية
+monitor	شاشة العرض / مُراقِب، جهاز مراقبة
+monitor loudspeaker	مراقبة مكبرات الصوت
+monitor probe	حساس المراقبة (LSV)
+monitor record	سجل المراقب، سجل جهاز المراقبة
+monitor, verb	يراقب, فعل
+monitored information (in telecontrol)	تنظيم عن بعد
+monitored natural attenuation	اضمحلال طبيعي مُراقب
+monitored system	نظام مراقَب
+monitoring	مراقبة / رصد / مُراقَبَةٌ
+monitoring & evaluation (m&e)	مراقبة وتقييم
+monitoring and control system	نظام التحكم والرقابة
+monitoring of a recorded programme	مراقبة برنامج مسجل
+monitoring of conductor cables	مراقبة كابل موصل
+monitoring station; monitoring centre	محطة مراقبة
+monitoring system	نظام مراقبة
+monitoring system for engine load	تجهيزات مراقبة حمل المحرك
+monitoring system for refrigerant circuit	تجهيزات مراقبة دورة التبريد
+monitoring the illegal killing of elephants (mike)	مراقبة القتل غير القانوني للفيلة
+monitoring well	بئر رصد / بئر مراقبة
+monitoring, control and surveillance (mcs) (fisheries)	رصد وتحكم ومراقبة (مصايد الأسماك)
+monkey board; tubing board	منصة التعليق
+monkey wrench	مفتاح فرنساوي / مفتاح ربط متحرك الفك
+mono print	نموذج وحيد
+mono- crystalline	بلورة أحادية
+Mono-Jetronic	نظام 'مونو ﭽيترونيك' (Mono-Jetronic)
+mono-pitch roof	سَقْف أحادي الميل
+monoaxial	أحادي المحور
+monoball mount	تعليق إحادي الكرة
+monobloc	أحادي القالب
+monobloc battery	بطارية أحادية القالب
+monobloc container	وعاء أحادى القالب
+monobloc wheel	عَجَلَة أحادية الكتلة / عجلة من قطعة واحدة
+monocentric network	شبكة أحادي مركزي
+monochromatic	أحادي اللون
+monochromatic light	ضوء أحادي اللون
+monochromatic mode,	نمط احادى اللون للقياس,
+monochromatic radiation	اشعاع احادي اللون / إشعاع احادى الطول الموجى
+monochromatic stimulus; spectral stimulus	محفز أحادى اللون؛ محفز طيفى
+monochromaticity of radiation beam	أحادية الكثافة اللونية لحزمة إشعاع
+monochromatism	عمى احادى اللون
+monochromator	جهاز أحادي اللون؛ إنتقاء أحادى اللون / جهاز أحادي اللون
+monochrome check	مربع الخباز
+monochrome circuit	التشغيل ثنائي الوضعية
+monochrome look	نمط اللون الواحد
+monoclinic	أحادي الميل
+monoclinic crystal system	نظام التبلور أحادي الميل
+monocoque	أحادي الهيكل (مركبة) / أحادي الغشاء
+monocrystalline materials	مواد أحادية اللبلورية
+monocrystalline silicon	سيليكون أحادى البلوريه
+monocular vision	رؤية بعين واحدة
+monoculture	زراعة أحادية / اسْتِزْراعٌ أُحادِيّ / زراعة أحادية النوع
+monoecious	خنتوي / أحادي المسكن
+monoelastic	شريط مطاط / مرن في اتجاه واحد
+monoenergetic radiation	إشعاع أحادى الطاقة
+monoethanolamine, (M.E.A.)	أحادي الاتانولامين
+monofilament	خيط أحادي الشعيرة
+monofilament; filament	فتيلة (احادية)
+monofill	رَدْم أحاديّ
+monofuel	وقود أحادي
+monogamy	زواج أحادي
+monokini	لباس السباحة
+monolith	عمود منفصل، عمود أحادي الحجر
+monolithic	خلية وحيدة القطعة
+monolithic concrete	خرسانة مُتَرَاصَّة
+monolithic foundation	أساس متآلف
+monolithic plate	صفيحة متآلفة
+monolithic rocket	صاروخ وحيد القطعة
+monomedia filter	مُرشِّح أحاديّ الوسط
+monomer	مونومر / وحيد الجزيئات
+monomineralic	أحادي المعدن
+monomotor drive	نقل حركة بمحرك أحادي
+monophagous	أحادي التغذية
+monophonic record	تسجيل احادي الصوت
+monophonic recording	تسجيل أحادي الصوت
+monophonic reproduction	إستعادة احادى الصوت
+monophonic signal	إشارة صوت احادية
+monophony	صوت أحادي
+monopile foundation	أساس مفرد الركيزة
+monoplane	طائرة أحادية السطح
+monopolar DC link	وصلة نظام التيار المستمر الاحادي القطب / وصلة نظام التيار المستمر أحادية القطبية
+monopolar line	خط أحادي القطبية
+monopolar stimulus; monophasic stimulus	منبه أحادى القطب؛ مستثير أحادى القطب
+monopole (antenna); unipole (antenna)	هوائى أحادى القطب
+monopolistic competition	منافسة احتكارية
+monopolistic position	احتكاريَة
+monopoly	احتكار
+monopropellant	وقود صاروخي إحادي
+monopulse	وحيد النبضة
+monorail	خط أحادي / أحادي السِّكة
+monorail overhead conveyor	ناقل علوي ذو سكة مفردة
+monorail stallation	تثبيت (سند) على قضيب مفرد
+monoscope	أحادى المجال / احادى المجال
+Monostability	استقرار أحادي
+monostable multivibrator; one shot	هزاز متعدد احادي الاستقرار
+monostable relay	مرحل أحادي الإستقرارية
+monostable trigger circuit ; monostable circuit; flip-flop (strongly deprecated)	دارة قدح احادية الاستقرار
+monostatic radar	رادار بمحطة واحدة
+monotreme	كظاميات
+monotypic	أحادي النوع
+monovalent operation	تشغيل أحادي التكافؤ
+monsoon	ريح موسمية / مونسون / رياح موسمية
+monstrous hybrid	هجين وحشي
+montage (=photomontage)	تجميع الصور
+montan wax	شمع معدني
+Montana neckline	تقويرة مونتانا
+montane zone	منطقة جبلية
+Montevideo wool	صوف مونتيفيديو
+Montgomery duffle coat	معطف مونت غومري
+Monthly Demand Variation	تغير شهري في الحمل
+monthly discharge, mean	مُتوسِّط المُعدَّل الشهريّ للتصريف
+monthly flood	فَيَضان شهريّ
+monthly mean solar radio-noise flux	المتوسط الشهري لفيض الضجيج اللاسلكي الشمسي
+monthly runoff, mean	مُعَّدل شهريّ للمدد النهريّ
+monthly ticket	تذكرة شهرية
+monticellite	مونتسيلايت
+montmorillonite	فِلِزّ المونتموريونايت / مونتموريلينايت
+montreal protocol	بروتوكول مونتريال / اتفاقية مونتريال
+montreux record	سجل مونترو
+monument	حَدٌّ، تَخْم
+monumental	تذكاري
+moon boots	بووت القمر
+moon landing	حطّ على القمر / هبوط على القمر
+moon washed	غسل قمري
+moonroof	سقف زجاجي انزلاقي
+mooring	رَبْطٌ، رَسْوٌ
+mooring band	حِزام الربط
+mooring buoy	عوامة إرساء
+mooring dolphin	عوامة إرساء
+mooring drag	سَحب الإرساء
+mooring guy; mooring line	حبْل ربْط
+mooring lighter	زورق إرساء
+mooring line	حبل ربط، شكال ربط
+mooring mast	صاري إرساء / صاري الربط
+mop-board; skirting board	إزار الحائط
+mope pole	عتلة خشبية، ميزان البهلوان
+moped	موبد / موفا / دراجة مُزودة بمحرك مُساعد (موبد) / دراجة بمحرك بخارى صغير
+moquette	بِساط / موكيط
+moraine	رُكام جليدي
+morbidity	مُعدَّل انتشار المرض
+more crop per drop	محصول أكبر مقابل كل قطرة
+more efficient desalination	تحلية أكثر كفاءة
+morion	مريون
+mormon board	لوح ردم خطوط الأنابيب (يقطره جرار)
+morning jacket	سترة منزلية
+Moroccan crepe	كريب مغربي
+morphology	مورفولوجيا
+Morse code	شفرة مورس
+Morse key	مفتاح ( مورس)
+Morse telegraphy	إبراق (مورس)
+Morse undulator	مموّج (مورس)
+mortality rate	مُعدَّل الوفيات
+mortar	مَلَاط / مونة / مِلاط / ملاط / مِلاط، هاوُن
+mortar mixing	خلط الملاط
+mortar-board	لوحة حمل الملاط
+mortar-box	جرن الملاط، صندوق مزج الملاط
+mortar-mixer	خلاّطة الملاط
+mortarboard	لوحة المِلاط، مِجَصَّة
+mortice (mortise)	نقرة
+mortise (to)	نقَّر
+mortise and tenon joint	وصلة بنقرة ولسان / وصلة نقر ولسان
+mortise chisel	إزميل النقر
+mortise lock	قفل النقر، فقل مركب
+mortise lock (let-inlock)	مغلاق بنقر
+mortising	نقْر الخشب / تنقير
+mortising bit	نصلة النقر
+mortising machine	نقّارة، آلة النقرة
+mosaic	فسيفسائي / فسيفساء
+mosaic (in scanning equipment)	فسيقساء (في جهاز المسح)
+mosaic effect; pixelisation; pixelation	تأثير الفسيفسائي
+mosaic paving	رَصفُ فُسَيفِسَاء / تبليط (أو رصف) فسيفسائي
+mosaic telegraphy	إبراق فسيفسائي
+mosaic texture	نسيج فسيفسائي
+mosaic tiles	بلطات فسيفساء
+MOSDEW (MOdel for Sustainable DEvelopment of Water resources)	نموذج 'موسديو' (نموذج التنمية المُستدامة لمصادر المياه) (MOSDEW)
+moss crepe	كريب ذو ملمس طحلبي
+moss wool / moss thread	خيط مزوي موس
+Most Likely Alternative to a Negotiated Agreement (MLATNA)	بديل محتمل لاتفاق التفاوض
+Most Significant Bit	بت (ال...) الأعلى قيمةً (MSB)
+Most Significant Bit (MSB)	بت (ال...) الأعلى قيمةً (MSB)
+most significant bit; MSB (abbreviation)	الرقم (بت) الأعلى أهمية فى الترميز
+Most significant digit	رقم (ال...) الأكثر قيمة
+Motchenez linen	كتان مُوتْشنيز
+moth	عثة
+moth bite	قضم العثة
+moth infestation	إصابة بالعثة
+mothballs	كرات العثة
+mother liquor	السائل الأم
+mother lye / mother liquor	محلول قَلَويَ أساسيَ
+mother ship	الباخرة الأم
+mother wool	صوف الشاة
+moths	قضم العثة
+motif print	نموذج الطبعة
+motion link	رابط الحركة
+motional admittance	سماحيَّة حركيّة
+motional capacitance	السعة الحركية المتوالية
+motional impedance	معاوقة حركيّة
+motional inductance	الممانعة الحثية الحركية المتوالية
+motional resistance	المقاومة الحركية المتوالية
+motional resonance frequency	تردد الرنين الحركي المتوالي
+motive energy	طاقة محركة
+motive power tariff	تعرفة قدرة محرّكة؛ تعرفة القوى المحركة
+motive steam	بخار الدفع
+motoneuron; motor neuron	خلية عصبية حركية
+motor	مُحرِّك / محرك / محرّك
+motor bogie	بوجي المُحَرِّك / سرير محرك
+Motor Car (motor coach)	عربة ذات محرك
+motor characteristics, pl	خصائص المحرك
+motor coach	عَرَبَة آليَّة
+motor coach; motor car	حافلة بمحرك
+motor combination	تآلف المحرك
+motor connection box; terminal box,	علبة توصيل المحرك
+Motor Control Unit (MCU)	وحدة التحكم في المحرك (MCU)
+motor convertor	مغير دوار
+motor electronics (ME)	إلكترونيات المحرك (ME)
+motor gasoline	بنزين السيارات
+motor gasoline (mogas)	وقود السيارات (بنزين)
+motor generator	محرّك مولّد
+motor generator set	مجموعة محرك مولِّد (للكهرباء)
+motor glider	طائرة شراعية بمحرك
+motor luggage van; motor baggage car	مركبة أمتعة بمحرك
+motor management	نظام التحكم في المحرك
+motor management diesel (pump-injector)	إدارة محرك ديزل (مضخة الحاقن)
+motor octane number (MON)	الرقم الأوكتاني للمحرك (MON)
+motor octane number, (M.O.N.)	رقم الأُكتان في محرك الاختيار القياسي، قرينة أُكتان المحرك
+motor oil	زيت تزليق / زيت محرك / زيت محركات / زيت المحركات
+motor oil change	تغيير زيت المحرك
+motor oil grade	جودة زيوت المحركات
+motor operated valve, (M.O.V.)	صِمامُ يُشَغَّل بمحرِّك
+Motor performance monitoring	مراقبة أداء المحرك
+Motor Pump	مضخة بمحرك
+motor racing circuit	ميدان سباق السيارات
+motor running capacitor	مكثف تشغيل محرك (مستمر)
+motor set	مجموعة محرك
+motor spindle	عمود المُحرِّك
+motor spirit	بنزين للسيارات
+Motor start/stop system	نظام تشغيل/ إيقاف المحرك
+motor starter	مُطْلِق (المحرك)
+motor starting capacitor	مكثف بدء تشغيل المحرك
+motor suspension bearing for nose-suspended motor	كرسي تحميل المحرك لمحرك معلق من الأمام
+motor synchronizing	تزامن بمحرك؛ توافق بمحرك
+Motor torque (Nm)	عزم المحرك الكهربائي
+motor train unit	وحدة القاطرة
+motor uniselector	مفتاح اختيار ذو حركة دورانية ذو محرك
+motor vehicle	السيارات / مركبة بمحرك
+motor vehicle / car / automobile	مركبة ذات محرك
+motor vehicle brake valve	صمام فرملة السيارة القاطرة
+motor vehicle brake valve with ALB control	صمام فرملة السيارة القاطرة المُزود بخاصية التحكم في مُنظم قوى الفرامل الأوتوماتي المُرتبط بالحمولة
+motor vehicle construction and use regulation (CUR)	اللائحة الألمانية للمرور وترخيص المركبات (StVZO)
+motor with combined ventilation	محرك تهوية مختلط
+motor with standardized mounting dimensions	محرك بأبعاد تثبيت قياسية
+motor-drive mechanism	آلية قيادة لمحرك
+motor-driven camshaft equipment	معدات عمود حدبات تدار بمحرك
+motor-driven controller	منظم يدار بمحرك
+motor-driven switchgroup	مجموعة مفاتيح تدار بمحرك
+motor-generator set	مجموعة مولد - محرك / مجموعة محرك- مولّد
+motor-manual harvesting	حصاد بمنشار آلي يدوي
+motor; power egg	محرك
+motorboating	ذبذبة منخفضة
+motorcycle	دراجة آلية (موتوسيكل) / موتوسيكل / دَرَّاجَة بِمحرِّك
+motorcycle carburetor	مكربن الدراجة النارية
+motoring	تدوير بمحرك
+motoring torque	عزم التحريك
+motorised private transport	وسائل النَّقل المجهزة بمحركات
+motorized keyboard	لوحة مفاتيح بمحرك
+motorized roller; motor-driven roller	دوارة تدار بمحرك؛ دوارة بمحرك
+motorized torch	مشعل لحام بالموتور
+motors with catalytic converter	محركات ذات محولات حفزية
+motorway	طريق سَيَّارٌ / طريق سريع / طريق سيَّار، طريق سريع
+motorway intersection	تَقَاطُع الطَّرِيق السَّرِيع
+motorway junction	وَصلَة الطَّرِيق السَّرِيع
+motorway with tolls	طريق سَيَّارٌ برسوم
+Motronic	نظام 'موترونيك' (Motronic)
+mottle	أرقش / تبقيع الحبر
+mottled iron	حديد مرقَّط، حديد منقَّط
+mottled print	طبعة مبقعّة
+mottled structure	بنية مرقَّشة
+mottled yarn	خيط غزل مرقش
+mould	قَالَبٌ / فطر خيطي / قالب
+mould line	خط القالب
+mould oil	زيت التشكيل
+mould relase agent	مادة مانعة للإلتصاق
+moulded bricks	آجر مُقولَب
+Moulded case circuit breaker	قاطِعُ دائِرَةٍ مُقَوْلَبٍ
+moulded concrete	خَرَسانة مقولَبة
+moulded cup bra	حمالة صدر مقولبة
+moulded formpiece	قطعة مقولبة
+moulded timber	خشب مُقولَب
+moulded-case circuit-breaker	قاطع تيار من النوع المقولب
+moulded-on accessory	قطعة تكميلية مصبوبة
+moulding	تشكيل القالب / قولبة / قَوْلَبَةٌ / سبك، قولبة / قَوْلَبَة
+moulding clay	صلصال قولبة
+moulding for free-flow pipelines	تركيبة لخطوط الأنابيب حرة التدفق
+moulding for pressure pipelines	تركيبة لخطوط أنابيب الضغط
+moulding iron (or moulding cutter)	سكين القولبة
+moulding machine	آلة تشكيل، آلة فريزة / آلة قولبة، مكنة تشكيل القوالب
+moulding made from concrete; fitting made from concrete	وُصلة (قالب) من الخرسانة
+moulding mica material	بلق (ميكا) قابل للتشكيل
+moulding plane	مسحاج تشكيل
+moulding press	مضغط قولبة، مكبس تشكيل
+moulding sand	رمل قولبة
+moulding,	قولبة
+mouldings	تشكيلات / قوالب
+mouliné thread	خيط مزوي مخلوط
+mouliné yarn / melange yarn / jaspé yarn	خيط توليفة
+mound	أكمة
+mounding	زراعة تحضيرية
+mount pinatubo	جبل بيناتوبو
+mountain and valley breezes	نسائم الجبل والوادي
+mountain railway	سِكَّة الجبل
+mountain region	منطقة جبلية
+mountain road	طريق جَبَلِي
+mounting arrangement	ترتيبات التركيب؛ ترتيبات التتبيث
+mounting base	قاعدة تركيب
+mounting box	صندوق تثبيت
+mounting bushing	جلبة التركيب
+mounting clamp	قامطة تركيب
+mounting foil	سناد التركيب
+mounting height,	إرتفاع التعليق,
+mounting hole	ثقب تركيب
+mounting pad	لَيْنَة تعليق
+mounting system,	نظام التعليق
+mounting wedge	إسفين فك
+mounting; suspension	تعليق
+mouse	الفأرة
+mouse hole	نفق اقتران أنابيب الحفر
+mouse trap	مُحوّل للمجرى المائيّ
+mousequetaire	قفازات الموسكيتير
+moussbryl fiber	ألياف موسبريل
+moustache	شنب
+moustaches	شارِب
+mouth	مخرج (هيدروليّ) / فم / فوهة
+mouthpiece	لسان حال
+mouvement	حركة
+movable bridge	جِسرٌ مُتَحَرِّك / جِسْر قابل للحركة / جسر متحرك
+movable point crossing; switch diamond	معبر مُتَنَقِّل
+movable point frog lock	مغلقة مُتَنَقِّلَة
+movable scaffold	سقالة متحركة
+movable weir; collapsible weir	هَدّار مُتحرِّك
+move or transfer instructions	تعليمات تحويل البيانات أو إزاحتها
+movement	حركة
+movement area	منطقة الحركة
+movement authority	سماحية الحركة للقطار / صَلاحِيَّةُ الحَرَكَةِ
+movement in picking systems	عملية التنقل عند إختيار الطلبيات
+moving armature	ذراع الحركة
+moving bed filter	مُرشِّح ذو طبقة متحركة
+moving block	مجموعة متحركة
+moving block mode	وضع قيادة متغير الكتلة
+moving coil regulator	منظم بملف متحرك، منظم بوشيعة متحركة
+moving company	شركة التنقل/ النقل
+Moving Electricity Meters	نقل عدادات الكهرباء
+moving element	ضابط الصفر الكهربائي
+moving form	قَالَب متحرِّك
+moving grid	شبكة متحركة
+moving lateral types irrigation machine	ماكينة ري خطية
+moving load	حِمْل متحرِّك
+moving magnet instrument	جهاز قياس بمغناطيس دوّار / جهاز قياس بملف متحّرك ( ذو لمغناطيس دائم) / جهاز بمغنطيس متحرّك
+moving targets indication radar; MTI (abbreviation)	رادار الاستدلال على الأهداف المتحركة
+moving walkway	مسار متحرك
+moving-beam therapy	علاج بالشعاع المتحرك
+moving-coil galvanometer	مقياس جلفانو ذو ملف متحرك
+moving-coil instrument	جهاز قياس كهربائي بملف مُتحرك / جهاز باطار متحرّك
+moving-coil microphone	ميكروفون ذو ملف متحرك
+moving-conductor microphone; electrodynamic microphone	ميكروفون ذو موصل متحرك
+moving-iron instrument	جهاز قياس بقلب حديديّ دوّار / جهاز قياس بمغنطيس متحّرك / جهاز بنواة حديدية متحرّكة
+moving-map display	شاشة ذات خريطة متحركة
+moving-scale instrument	جهاز قياس بمؤشر ضوئي
+moving-target indication	بيان الأهداف المتحركة
+mowed material	ناتج جزّ الحشائش (الأعشاب)
+mowing	قطع
+mowing up	قطع العشب إلى علو
+MOX fuel assembly	تجميع وقود موكس
+moyenne	مُتَوَسِّط
+Mozart style	نمط موزار
+MP-Fiber	ألياف من بوليمر مشترك
+MPI adventure	سفينة إم بي أي أدفنشر
+MPI discovery	سفينة إم بي آي ديسكفري
+MRG Process	تحويل البروبان السائل إلى غاز طبيعي مخلّق / طريقة تحويل البروبان السائل إلى غاز طبيعي
+mrna	ر ن أ الراسل
+mrv	قابلة للقياس والإبلاغ والتَّحَقُّق
+MSc by Research/ Mphil Renewable Energy	ماجستير عبر البحث / ماجستير في الطاقة المتجددة الشهادة المسلمة: شهادة الماجستير
+MSc Climate and Energy Engineering Qualification Awarded: Postgraduate/Master	ماجستير في هندسة المناخ والطاقة الشهادة المسلمة: شهادة الماجستير
+MSc Energy Policy for Sustainability Qualification Awarded: Postgraduate/Masters	ماجستير في سياسة الطاقة من أجل الإستدامة الشهادة المسلمة: شهادة الماجستير
+MSc Energy Qualification Awarded: Postgraduate/Master	ماجستير في الطاقة الشهادة المسلمة: شهادة الماجستير
+MSc Energy Resources & Climate Change Qualification Awarded: Postgraduate/Master	ماجستير في موارد الطاقة والتغير المناخي الشهادة المسلمة: شهادة الماجستير
+MSc Energy Studies Qualification Awarded: Postgraduate/Master	ماجستير في دراسات الطاقة الشهادة المسلمة: شهادة الماجستير
+MSc in Electrical Power Engineering Qualification Awarded: Postgraduate/Master	ماجستير في هندسة الطاقة الكهربائية الشهادة المسلمة: شهادة الماجستير
+MSc in Hydrogen Safety Engineering Qualification Awarded: Postgraduate/Master	ماجستير في هندسة سلامة الهيدروجين الشهادة المسلمة: شهادة الماجستير
+MSc in Mechanical Engineering Qualification Awarded: Postgraduate/Master	ماجستير في الهندسة الميكانيكية الشهادة المسلمة: شهادة الماجستير
+MSc in Renewable Energy and Resources Qualification Awarded: Postgraduate/Master	ماجستير في الطاقة المتجددة والموارد الشهادة المسلمة: شهادة الماجستير
+MSc in Renewable Energy Engineering Qualification Awarded: Postgraduate/Master	ماجستير في هندسة الطاقة المتجددة الشهادة المسلمة: شهادة الماجستير
+MSc New and Renewable Energy Qualification Awarded: Postgraduate/Masters	ماجستير في الطاقة الجديدة والمتجددة الشهادة المسلمة: شهادة الماجستير
+MSc RENE - Renewable Energy Qualification Awarded: Postgraduate/Master	ماجستير في الطاقة المتجددة الشهادة المسلمة: شهادة الماجستير
+MSc Renewable Energy Engineering Postgraduate/Masters	ماجستير في هندسة الطاقة المتجددة الشهادة المسلمة: شهادة الماجستير
+MSc Renewable Energy Engineering Qualification Awarded: Postgraduate/Master	ماجستير في هندسة الطاقة المتجددة الشهادة المسلمة: شهادة الماجستير
+MSc Renewable Energy in Central & Eastern Europe Awarded: Postgraduate/Master	ماجستير في الطاقة المتجددة في أوروبا الوسطى والشرقية الشهادة المسلمة: شهادة الماجستير
+MSc Renewable Energy Qualification Awarded: Postgraduate/Master	ماجستير في الطاقة المتجددة الشهادة المسلمة: شهادة الماجستير
+MSc Renewable Energy Qualification Awarded: Postgraduate/Masters	ماجستير في الطاقة المتجددة الشهادة المسلمة: شهادة الماجستير
+MSc Sustainable Architecture Qualification Awarded: Postgraduate/Master	ماجستير في الهندسة المعمارية المستدامة الشهادة المسلمة: شهادة الماجستير
+MSc Sustainable Energy Systems Qualification Awarded: Postgraduate/Master	ماجستير قي أنظمة الطاقة المستدامة الشهادة المسلمة: شهادة الماجستير
+MSF	ألف قدم مربعة
+MSF-BR	التقطير الومضي متعدد المراحل - إعادة تدوير المحلول الملحي
+MSF-OT	تقطير ومضي متعدد المراحل - استعمال وحيد
+mtbe	ميثيل ثالثي بوتيل الإيثر (MTBE)
+MtCO2e	MtCO2e
+mtdna	د ن أ سبحي
+Mu-metal	معدن ميو
+muck (mining or tunneling spoil)	مُخلَّفات
+mucking out	إِزَالَة تُرَاب ومَوَادّ الحَفرِيَّات؛ حَمرَغَة (مِن حَمَلَ وَفَرَّغَ)
+mucus	مخاط
+mud	طين
+mud (drilling...)	طِين الحفر
+mud additive	مضاف طيني
+mud balance	ميزان الطين
+mud balls	كرات طينية
+mud barrel	برميل الطين
+mud belt	حزام الطين
+mud bit	مِدَقّ الطين
+mud box	خزان الطين، علبة الطين
+mud cake; mud sheat	كعكة طين، قشرة طين
+mud circuit	دورة الطين
+mud circulation	جريان الطين، دوران الطين
+mud clean out agent; mud acid	مادة لتنظيف الطين
+mud collar	أنبوب بصِمام لضخّ الطين
+mud column	عمود الطين
+mud cracks	تشققات الطين
+mud cup	كوب الطين
+mud density	كثافة الطين
+mud ditch	قناة الطين
+mud engineer	مهندس الطين
+mud filtrate	رَشَّاحة الطين
+mud flats	بِطَاح مُوحِلَة، قِيعَان طينية
+mud flow	انسياب طيني / دَفْق الطين
+mud fluid	مائع طيني
+mud flush	طين الحَفْر، طين الحَقْن
+mud gage; gauge	مقياس ضغط الطين
+mud guard	وقاءُ الطين
+mud gun	مضخة خلط الطين، رشاش الطين
+mud hog; salush pump	مِضَخَّة الطين
+mud hole	ثقب إخراج الطين
+mud hopper	قادوس الطين، رشَّاش الطين
+mud hose	خرطوم طين الحفر
+mud hose connection	وصلة خرطوم طين الحفر
+mud injection line	خطوط حَقْن الطين، أنابيب حَقْن الطين
+mud jacking	تغليف طيني
+mud laden fluid	مائع محمّل بالطين
+mud lava	لابة طينية
+mud line	أنبوب الطين، خط الطين
+mud log	سجل طين الحفر
+mud logging	تسجيل عينات الصخور في طين الحفر، كشْف القرائن في طين الحفر
+mud loss	فقدان الطين
+mud lubricator	مِضَخَّة طين إضافي ثقيل (للتحكم في ضغط صاعد)
+mud lump	كُومَة طين، جزيرة طين صغيرة
+mud mixer	خَلاَّطة طين
+mud mixing hopper	خَلاَّطة طين قاذفة
+mud mixing plant	وحدة خَلْط الطين، مَعْمَل خَلْط الطين
+mud off	تطمية
+mud outlet	فتحة (خروج) الطين
+mud penetration	معدل اختراق الطين
+mud pit; slush pit	حَوْض الطين
+mud pitting	تنقُّر (أو تقشُّر) بفعل الطين
+mud pressure	ضغط الطين
+mud pressure line	أنبوب ضغط الطين
+mud pump	مِضَخَّة الطين / مضخة خليط ماء-زيت-طين
+mud rack	مِنَصَّة الطين
+mud ring	حلقة طينية
+mud rock	صخر طيني
+mud sample	عينة الطين
+mud scale	ميزان الطين
+mud screen	خزانة الطين (لحماية الحفارين من تناثرات الطين)
+mud sedge / carex limosa	سعادي وحلي
+mud sill	قاعدة طينية
+mud smeller	مهندس الطين
+mud socket	جُلبة الطين
+mud soil	تربة طينية
+mud solution	محلول طيني
+mud spate	دَفْق طيني مفاجئ
+mud spring	نَبْع الطين
+mud store	حوض الطين
+mud stream	تَيْهور الطين
+mud suction line	خط سحب الطين
+mud tank	حوض الطين
+mud thickener	مثخّن الطين، مغلظ الطين
+mud thickening	تغليظ الطين
+mud thinner	مخفِّف قوام الطين، مرقِّق الطين
+mud trap	حوض ترسيب
+mud valve	صِمام الطين
+mud volcano	بركان الطين
+mud water loss	فقدان ماء الطين
+mud weight balance	ميزان الطين
+mud weight recorder	مسجل ثقل الطين، مسجل الطين
+mud weighting material	مُثْقِل الطين
+mud-and-snow-tyre [UK] / mud-and-snow-tire [US]	إطارات M + S
+mud; mire; silt	وَحْل
+muda	مودا
+mudflats	سهول طينية
+mudflow	انزلاق طيني
+mudribs	قواعد ارتكاز اللواح بقاع صندوق البطارية
+mudstone	صَخْر طيني
+muff	كم صغير / كُمَيْم / موفة
+muff pocket	حقيبة فراء
+muff; reveal (US)	جلبة
+muffle	لافع ( عازل حراري)
+muffle furnace	فرن ملفع
+muffler	منديل الرقبة
+muffler; sound suppressor	كاتم الصوت
+muga	ألياف ميوج
+Mukluk	حذاء موك لوك
+mulberry silk	حرير دود القز
+mulch till	حرث سطحي
+mulching	دبال محسن
+mulching (waste treatment)	مهاد (معالجة النفايات)
+muldex; muldem	جهاز تجميع و تفكيك الإشارة
+mule	صندل
+mule yarn	خيط غزل ميول
+mules	صندل ذو كعب
+mull	دبال جيد
+mull-rod line	كَبْل قضبان رفع أذرع الضخ، خط قضبان الجر
+mullhumus	دبال مول
+mullion	عماد، حزٌّ
+mullion's weekly index	مؤشر موليون الأسبوعي لأجور الناقلات
+mullite	مولايت
+Multan	خروف مُلتان
+Multec single point injection	نظام الحقن المركزي Multec
+multi buoy mooring	إرْساء بالطافيات(العوامات) المتعددة
+multi constant speed motor	محرك متعدد السرعات الثابتة
+multi effect	تأثير متعدد
+multi effect horizontal tube	أنبوب أفقي متعدد التأثير
+multi effect plant	محطة متعددة التأثير
+multi effect vertical tube plant	محطة أنابيب رأسية متعددة التأثير
+multi media filter (MMF)	مرشح الوسائط المتعددة
+Multi Media Interface (MMI)	الواجهة البينية للوسائط المتعددة
+multi point fuel injection system	نظام حقن الوقود متعدد النقاط
+Multi point interface	واجهة مُتعددة النقاط
+Multi position control	ضبط مُتعدد النقاط
+multi purpose grease	شَحْم متعدد الاستعمالات
+multi spark plugs	شمعات مُتعددة النطاقات
+multi stage flash (M.S.F)	التقطير الومضي متعدد المراحل
+multi stage unit	وحدة متعددة المراحل
+multi time frame system MTFS	نظام الأطر الزمنية المُتعددة (MTFS)
+multi varying speed motor	محرك متعدد السرعات المتغيرة
+multi(ple) bidirectional line working	خط متعدد الاتجاهات
+multi(ple) section braking	فرملة ذات أقسام متعددة
+multi(ple) section signalling	إشارات ذات أقسام متعددة
+multi-address call	نداء متعدد العناوين
+multi-angle spectrophotometer	مقياس الطيف الضوئى متعدد الزوايا
+multi-annual storage capacity	مخزون عدة سنوات
+multi-arm rear axle	محور خلفي متعدد الأوصال
+multi-audio system controller (M-ASK)	وحدة تحكم الوسائط المتعددة ونظام الصوت (M-ASK-NAV)
+multi-beam antenna; multi-pattern antenna	هوائي متعدد الحزم / هوائي متعدّد الحزم
+multi-beam electron gun	مدفع إلكتروني متعدد الحزم
+multi-body simulation	محاكاة متعددة الأجسام
+multi-break switch	مفتاح متعدد القطع
+multi-burn	حرْق متعدد
+multi-cavity klystron	مولد موجات ازاحيه متعدد الفجوات
+multi-chamber furnace	فرن متعدد الغرف
+multi-chamber system	نظام احتراق متعدد الغرف
+multi-channel	قنوات متعددة
+multi-channel amplifier (for MATV or CATV)	مضخّم متعدّد القنوات (لنظام MATV او CATV )
+multi-channel recording	تسجيل متعدّد القنوات
+multi-channel reproduction	إستعادة متعدّدة القنوات
+multi-chip integrated circuit	دارة تكاملية متعددة الرقائق
+multi-circuit protection valve	صمام حماية مُتعدد الدوائر
+multi-circuit system	منظومة مُتعددة الدوائر
+multi-colour ply yarn	خيط مزوي متعدد الألوان
+multi-colour yarn	خيط غزل متعدد الألوان / خيط متعدد الألوان
+multi-communication bar (MCB)	قضيب الاتصال المتعدد (MCB)
+multi-compartment pit / multi-chamber cesspit	خندق مُتعدِّد الغُرف
+multi-component fibers	ألياف متعددة المكونات
+multi-component force measuring	قياس القوة متعدد الاتجاهات
+multi-component signal	إشارة متعدّدة المكوّنات
+multi-component system	نظام مُتعدد المُكوّنات
+multi-component yarns	خيوط غزل متعددة المكوّنات
+multi-connected converter	مغير متعدد التوصيلات
+multi-core type current transformer	محول تيار ذو قلب (وحيد النواة)
+multi-criteria analysis	تحليل متعدد المعايير
+multi-diagnostic interface	وصلة التشخيص البينية المتعددة
+multi-disk clutch	قابض متعدد الأقراص
+multi-effect distillation (MED)	تَقْطِير متعدد التأثير / تقطير متعدد التأثير
+multi-effect distillation with thermo-compression	تقطير متعدد التأثير مع ضغط حراري
+multi-electrode voltage stabilizing tube	صمام استقرار الجهد متعدد الاقطاب
+multi-element insulator	زجاج ملدن
+multi-element transducer	مُحول إشارة مُتعدّد العناصر
+Multi-fibers Arrangement	الاتفاقية الدولية حول النسيج
+multi-field therapy; cross firing	علاج متعدد المجالات
+multi-frequency signalling; mf signalling	تأشير بتردد متعدد
+multi-function (measuring) instrument	جهاز (قياس) أحادي الوظيفة
+multi-functional clothing	لباس متعدد الخصائص
+multi-hop satellite link	وصلة متعددة القفزات بالقمر الصناعي / وصلة قمر صناعي متعددة القفزات
+multi-impulse	متعدد الدفع
+multi-lane airway	طريق جوي متعدد الممرات
+multi-layer inductor	محث (عضو حث) متعدد الطبقات
+multi-layer light guide	موجه ضوء متعدد الطبقات
+multi-level governance	حكامة متعددة المستويات
+multi-level modulation	تضمين متعدد المستويات
+multi-link independent rear suspension	محور متعدد الأوصال
+Multi-Master	مُتعدد الرؤساء
+Multi-Master System	نظام مُتعدد الرؤساء
+multi-measuring transducer	مُحوِّل قياس مُتعدد
+multi-media card	بطاقة وسائط متعددة
+multi-modal laser beam	حزمة أشعة ليزر متعددة الشكل
+multi-mode radar	رادار متعدد الأنماط
+multi-part tariff	تعرفة متعددة الاجزاء؛ تعريفة متعددة ألاجزاء
+multi-party dispute	نزاع متعدد الأطراف
+multi-pay well	بئر منتجة من عدة طبقات
+Multi-Point Supply	تغذية بأكثر من نقطة
+multi-polar machine	آلة متعددة الأقطاب
+multi-position control	تحكم متعدد الأوضاع
+multi-position element	عنصر متعدد الأوضاع
+multi-purpose forestry	غابات متعددة الأغراض
+multi-purpose grease	شَحْم متعدّد الأغراض، شَحْم لمختلِف الاستخدامات
+multi-range (measuring) instrument	جهاز (قياس) أحادي المدى
+multi-rate meter	عداّد بتعرفات مُتعدّدة
+multi-satellite link	وصلة عن طريق عدة أقمار صناعية / وصلة قمر صناعي متعددة
+multi-scale (measuring) instrument	جهاز (قياس) متعدد المدى
+multi-section coil	ملف متعدد المقاطع؛ وشيعة متعددة المقاطع
+multi-section transducer	مُحول إشارة مُتعدّد الأقسام
+multi-sectorial water plan	خطة مائية متعددة القطاعات
+multi-sensor	متعدد المُحِسَّات
+multi-speed induction motor	محرك تحريضي متعدد السرعة
+multi-speed motor	محرك متعدد السرعة
+multi-stage (X-ray) tube	انبوب (أشعة سينية X) متعددة المراحل
+multi-stage compressor	ضاغط متعدد المراحل
+multi-stage engine	محرك متعدد المراحل
+multi-stage flash (MSF)	فلاش متعدد المراحل
+multi-stage rocket	صاروخ متعدد المراحل
+multi-standard receiver	مستقبل متعدد القياسيات
+multi-star system; multi-star network	نظام متعدد النجوم
+multi-state modulation	تضمين متعدد الحالات
+multi-step	متعدد المراحل
+multi-system motor vehicle	مركبة بمحرك متعدد الأنظمة
+multi-thread mesh	قماش تريكو مُتعدد الفتل
+multi-unit light signal	إشارة ضوئية متعددة الوحدات
+multi-unit message; MUM (abbreviation)	رسالة متعددة الوحدات
+multi-unit rail coach	مركبة سِكَكِية متعددة الوحدات
+multi-valve engines	محرك متعدد الصمامات
+multi-vane impeller	دَفّاعة مُتعددِّة المنافذ
+multi-vane rotary compressor	ضَغّاط ذو أرياش دَوّارة
+multi-wire element; multi-conductor element	عنصر متعدد الأسلاك
+multi-zone furnace	فرن متعدد المناطق
+multiaxial raschel	آلة راشيل متعددة المحاور
+multiband amplifier with n inputs (for MATV or CATV)	مضخم متعدّد النطاقات بعدد (ن) مدخل
+multibeam sonar	سونار صوتى متعدد الشعاع؛ جهاز متعدد الشعاع لكشف المواد تحت الماء صوتى
+multibody systems	أنظمة متعددة الأجسام
+multiburst signal	إشارة رشق متعدد
+multicast	متعدد الإرسال
+multicellular	متعدد الخلايا
+multicellular foam	اسفنج رغوي متعدد الخلايا
+multicellular lens; eggcrate lens	عدسة متعددة الخلايا
+multicellular loudspeaker	مكبر صوت متعدد الخلايا
+multichannel controller	ضابط مُتعدد القنوات
+multichannel loudspeaker; composite loudspeaker	مكبر صوت متعدد القنوات
+multichannel PCM transmission	إرسال بتكييف الشفره النبضية متعدد القنوات
+multichannel selector	مُنْتَقٍ متعدد القنوات
+multicolor types	ألياف متعددة الألوان
+multicolour	متعدد الألوان
+multiconductor cable	كابل متعدد الموصلات
+multicore cable	كابل متعدد القلوب
+multicoupler	قارن متعدد
+multicoupler (of an antenna)	قارن متعدد (لهوائي)
+multicropping; multiple cropping system	نظام; الزراعة المتعددة المحاصيل زراعة متعددة المحاصيل
+multicycle control	تحكم بالدورات المتعددة
+multicycle control (by half-cycles)	تحكم متعدد الدورات (بأنصاف الدورات)
+multicycle control factor	عامل تحكم بالدورات المتعددة
+multidirectional arm	جهاز استعدال مُتعدد
+Multifibre Agreement	اتفاقية الألياف المتعددة
+multifibre cable	كابل متعدد الألياف
+multifibre joint	وصلة متعددة الالياف
+multifil	خيط متعدد الألياف
+multifilament yarn	خيط غزل متعدد الألياف
+multiframe	إطار متعدد
+multiframe alignment	استقامة الإطار المتعدد
+multiframe alignment signal	إشارة الاستقامة للإطار المتعدد
+multifrequency key pad; frequency push-button dial	لوحة مفاتيح متعددة الترددات
+multifuel capability	قابلية تنوع مصادر الوقود
+multifuel engine	محرك عامل بأنواع مختلفة من الوقود
+multifunctional farm	مزرعة متعددة الوظائف
+multifunctional jacket	سترة متعددة الأستخدامات
+multifunctional system	نظام MF
+multigrade insert	حشوة مركبة
+multigrade oils	زيوت مُتعددة النطاقات
+multigraded oil	زيت متعدد الدرجات
+multijunction device	جهاز متعدد الوصلات
+multilateral agreement	اتفاقية متعددة الأطراف
+multilateral arrangement	اتّفاق مُتعدِّد الأطراف
+multilateral development bank	بنك التنمية متعددة الأطراف / بنك التنمية مُتعدد الشُّركاء (MDB)
+multilateral environmental agreements	اتفاقيات بيئية متعددة الأطراف
+multilayer	متعدد الطبقات
+multilayer board	لوح متعدد الطبقات
+multilayer printed board	لوحة مطبوعة متعددة الطبقات
+multilayer system	نظام مُتَعَدِّدُ الطبقات / نظام متعدد الطبقات
+multilayered sheath; multilayered jacket (North America)	غلاف متعدد الطبقات(أمريكاالشمالية)؛ غلاف متعدد الطبقات
+multileg intersection	تقاطُع متعدد الفروع
+multilevel bill of material	لائحة المواد ذات مستويات متعددة
+multilevel inverter	عاكس تيار كهربائي متعدد المستويات
+multilevel junction	ملتقى على مستويات متعددة
+multilevel shag	وبر متعدد المستويات
+Multilobal	تعدد الثنيات
+multilobal yarn	خيط غزل متعدد الفلقات
+multimedia filter	مُرشِّح متعدد الأوساط
+multimedia, adj	وسائط متعددة, صفة
+multimeter	ملتيمتر / جهاز قياس مُتعدد / جهاز (قياس) متعدد الوظائف
+multimodal	المتعدد الوسائط
+multimodal freight transport	نقل البضائع متعدد الوسائط
+multimodal transport	نقل متعدد الوسائط
+multimodal transport operator	متعهد النقل متعدد الوسائط
+multimodal transport system	نظام النقل مُتعدد الوسائط
+multimode antenna	هوائي متعدد الأنماط
+multimode cavity	تجويف النمط المتعدد
+multimode dielectric resonator	رنان غير موصل متعدد الأوضاع
+multimode horn	بوق متعدد الأنماط
+multimode laser	ليزر متعدد الصيغ؛ ليزر متعدد الأساليب
+multimode waveguide	دليل موجة متعدد الأنماط
+multipass error rate	معدل الخطأ متعدد المرور
+multipath effect	ظاهرة تعدد المسالك
+multipath propagation	إنتشار متعدد المسارات
+multiphase	متعدد الأطوار
+multiphase compensation	تعويض متعدد الأطوار
+multiphase liquid	سائل متعدد الاطوار
+multiphase transducer	جهاز تحويل متعدد الأوجه
+multiplane	طائرة متعددة السطوح
+multiple	متعدد
+Multiple Access	دخول مُتعدد / متعدد المنافذ / منفذ متعدّد
+multiple arch-buttress dam	سَدٌّ مُتعدِّد العقود المرتكزة على دَعائم
+multiple band antenna	هوائى متعدد النطاقات
+Multiple Barriers	حواجز متعددة
+multiple blades bit	مثقب ذو شفرات متعددة
+multiple circuit line	خط متعدد الدارات
+multiple coach lighting	إنارة عامة متعددة
+multiple collisions	اصْطِدَامَاتٌ متعددة
+multiple completion	إنجاز متعدد
+multiple connection (of commutating groups)	توصيلة متعددة (لمجموعات تبديل)
+multiple control	ضبط مُتعدِّد
+multiple courses	مسارات متعددة
+multiple discs	أقراص متعددة
+multiple dome buttress dam	سد ذو دَعائم متعددة القباب
+multiple echo	صدى متعدد
+multiple ejection rack	حامل متعدد القذف
+multiple folded dipole	ثنائى قطب متعدد الطى
+multiple hearth furnace	فُرْن متعدد المواقد
+multiple image	صورة متعددة
+multiple insulation earth faults	عطل عزل بين عدة خطوط والأرضى
+multiple manual handling	مناولة يدوية متعددة
+multiple means of operation	وسائل متعددة للتشغيل
+multiple means of presentation	وسائل متعددة لعرض المعلومات
+multiple microphone	ميكروفون متعدّد
+multiple modulation	تضمين متعدد
+multiple of a unit	مضاعف لوحدة
+multiple phase shift keying ; MPSK (abbreviation)	مفتاح ازاحة لتعدد الطور
+multiple point-to-point configuration	تشكيل من نقطة الى اخرى
+multiple printing	طبع مضاعف
+multiple shear	قطع مضاعف
+multiple sills	جُدَّات متعددة
+multiple socket-outlet	مقبس (مخرج) متعدد
+multiple sourcing	تزود/ مصدر متعدد
+multiple spendle drill	جهاز حفر متعدد الأعمدة، حَفَّارة متعددة الأعمدة
+multiple spindle drilling machine	ثقابة متعددة الأعمدة
+multiple stage cementing	سمنتة متعددة الطبقات
+multiple stage collar	كُمُّ وصْل متعدد الأطوار
+multiple stakeholders	تعدد أصحاب المصلحة
+multiple surge tank	صهريج تمور مُتعدد الغُرف
+multiple switched socket-outlet	وحدة مقابس (مخارج) متعددة بمفاتيح
+multiple tariff	تعرفة متعددة
+multiple teeing	ربط متعدد على شكل T
+multiple threads	خيط مزوي متعدد الخيوط
+multiple tube	صمام متعدّد (مضاعف)
+multiple twinning	توأمة مضاعفة
+multiple unit	وحدة متعددة
+multiple unit operation	تشغيل بوحدات متعددة
+multiple unit train; reversible motor coach train	قطار متعدد الوحدات
+multiple use areas	مناطق متعددة الاستخدامات
+multiple well derrick	برج حفر متعدد، برج لحفر آبار متعددة
+Multiple Worksite Possession	حِيازَةُ عِدَّةِ مَواقِعِ عَمَلٍ
+multiple zone air conditioner	مكيف هواء متعدد النطاقات
+multiple-aspect light signal	أشارة ضوئية متعددة الأشكال
+multiple-barrel culvert	بَرْبَخ مُتعدِّد المسايل
+Multiple-Effect Distillation (MED)	تقطير متعدد التأثيرات
+multiple-gun cathode-ray tube	صمام الاشعه المهبطيه ذو القاذف المتعدد
+multiple-outage occurrence; multiple contingency	حدث الخروج بسبب عنصر واحد
+multiple-purpose project	مشروع متعدد الأهداف
+multiple-shot reclosing	إعادة الغلق بالطلقة المتعددة
+multiple-stranded conductor	موصل ذوجدائل متعددة
+multiple-unit operation	عملية متعددة الوحدات
+Multiple-Unit Set (MU set)	وحدة ذاتية الحركة
+multiple-unit steerable array; musa antenna	مصفوفة هوائي متعددة الوحدات قابلة للتوجيه
+multiple-zone well	بئر متعددة الطبقات
+multiplex	يضاعف الاشارات
+multiplex aggregate bit rate	معدل وحدة معلومات متراكمة مضاعف
+multiplex lap winding	ملف انطباقي متعدد
+multiplex signal; multiplexed signal	إشارة متعددة
+multiplex system	نظام نقل البيانات التعدّدي Multiplex
+multiplex transmission; multiplexed transmission	إرسال مضاعف
+multiplex wave winding	ملف تموجي متعدد
+Multiplexer	مُتعدد الإرسال / مضاعف الإرسال / مُعَدِّدُ إِرْسالٍ
+multiplexer (for an antenna)	متعدد الإرسال (للهوائى)
+multiplexing	مضاعفة الإرسال / مضاعفة الإشارات / مضاعف الإشارات / مزج الإشارات / تعدد الإرسال
+multiplier	مُضاعِف
+Multiplyer Factor	معامل ضرب
+multiplying element	عنصر مضاعفة
+multipoint access	وصول متعدّد النقاط
+multipoint connection	توصيل متعددة النقاط
+multipoint-partyline configuration	تشكيل نجمي متعدد النقاط
+multipoint-ring configuration	تشكيل متشارك الخط متعدد النقاط
+multipoint-star configuration	تشكيل متعدد من نقطة الى أخرى
+multipolymer	متعدد البوليمر
+multiport	متعدد المنافذ
+multiport repeater	مُكرِّر مُتعدد المنافذ
+multiport store; multiport memory	مُسجِّل مُتعدِّد القنوات
+multiposition element	عُنصر مُتعدد النقاط
+multipurpose strip	الشريط متعددة الأغراض
+multispectral	متعدد الأطياف
+multispectral image capture; multispectral imaging	صورة متعددة الطيف
+multistage	نظام متعدد المراحل
+multistage charge controller	منظم متعدد المراحل
+multistage compression	انضغاط مُتعدد المراحل
+multistage compressor	ضاغط متعدد المراحل
+multistage flash plant	محطة فلاش متعددة المراحل
+multistage twisting	خيط مزوي متعدد المراحل
+multitasking	تعدد المهام
+multitextiles	منسوجاتٌ مُتعددة
+multitooth	مقطع متعدد الأسنان
+multitrack recording	تسجيل متعدد المسارات
+multitrack recording system	نظام تسجيل متعدد المسارات
+multitube launcher	جهاز إطلاق متعدد الأنابيب
+multivalve technology	تكنولوجيا الصمامات المُتعددة
+multivariable control	ضبط مُتعدد المُتغيّرات / تحكم متعدد المتغيرات
+multivariable system	نظام متعدد المتغيرات
+multivibrator	مذبذب متعدد المراحل
+multiway adaptor (for accessories)	موائم (مهيايئ) متعدد السكك
+multiway junction	ملتقى طرق متعددة
+multiway terminal block	مجموعة أطراف (نهايات) توصيل متعدد الاتجاهات
+Mumbai Office	مكتب مومباي
+munga / moonga	ألياف مونجا
+mungo	مونغو
+mungo yarn	خيط صوف مُعاد تدويره
+municipal	محلي
+municipal decision maker	مُقرّر محَلّي
+municipal law	قانون داخلي
+municipal road	طريق بلديّ
+municipal solid waste (msw)	نفايات بلدية صلبة
+municipal solid waste (msw) composition	تكوين النفايات البلدية الصلبة
+municipal solid waste generation	توليد النفايات الصلبة البلدية
+municipal solid waste management (mswm)	إدارة النفايات الصلبة البلدية
+municipal waste	نفايات بلدية
+municipal waste; urban waste	نفايات بلدية
+municipal wastes	فضلات بلدية
+municipal wastewater (sewage)	مياه الصرف الصحي البلدية (مياه الصرف الصحي)
+municipal wastewater treatment plant	محطة البلدية لمعالجة المياه العادمة
+municipal works	أشغال البلدية
+municipality	بلديّة
+municipalization	بلديات
+Munk factor	مُعامِل مَنْك
+muon	ميون : جسيم نووي لحظي البقاء
+Murata vortex spun yarn	خيوط الغزل الدوامي
+Musa	موزا
+muscle	عضلة
+muscle shirt / muscle T-shirt	قميص بدون اكمام
+muscovite	ميسكوفيت (عازل صلب قوى العزل) / مسكوفيت
+muscular stimulation	تنبيه عضلى
+museum	مُتْحَف
+mush	ارتحال
+mush area	منطقة تشويه (لمرسل بثّ صوتي)
+mushroom construction	إنشاء فُطريّ
+mushroom rivet	برشام الفطر
+mushroom rock	صخر عش الغراب / صخرة فُطرية الشكل
+musical hold device; call holding device	جهاز انتظار موسيقي
+musical scale	مِقياس موسيقي
+musketeer collar	ياقة الفارس
+muslin	موسلين
+MUT eco-label	منسوجات بيئية
+mutagen	مُغَيِّر
+mutagenesis	إحداث الطفرة
+mutagenicity	قدرة تطفيرية
+mutant	متحول (ة)
+mutation	طفرة / تحول وراثي مفاجيء، طفرة وراثية
+mutch	مِحَفّة، مهاد
+mute letter	حرف صامت
+muthmannite	موثمانايت
+mutilation	تشــــوه
+mutilation (of speech); clipping (deprecated term)	تقطيع ( في الكلام )
+muting	إسكات
+muting; squelch (US)	كبت
+Mutribah (well)	مطربة (بئر)
+mutual blockades	حصار متبادل
+mutual conductance	توصيل متبادل (مشترك)
+mutual exchange coefficient, ; exchange coefficient,	معامل التبادل المشترك,
+mutual impedance (between two radiating elements)	معاوقة تبادلية (بين عنصرين مشعين)
+mutual inductance	محاثة تبادلية / معامل التحريض المتبادل
+mutual induction	حث متبادل
+mutual interception	اعتراض متبادل
+mutual permeance	نفاذية تبادلية
+mutualism	تكافل
+mutually agreed terms	شروط متفق عليها وديا
+mutually coupled coils	ملفات متقارنة حثيا
+mutually synchronized network	شبكة متزامنة تبادلياً
+muzzle brake	ماسك الفوهة
+muzzle cap	غطاء الفوهة
+muzzle energy	طاقة فوهيّة
+muzzle horsepower	قدرة الفوهة
+muzzle ring	حلقة الفوهة، خاتم الأنبوب
+MVB; multifunction vehicle bus	قضيب ناقل متعدد الوظائف
+MVC	ضغط ميكانيكي بالبخار
+MVR	إعادة الضغط الميكانيكي بالبخار
+mycorrhiza	تعايش فطري جذري
+mycotoxin	سموم فطرية
+Mylar	مايلار
+mylonite	ميلونايت
+myrmekite	ديدانيّ

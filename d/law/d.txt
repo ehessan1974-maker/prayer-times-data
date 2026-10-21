@@ -1,0 +1,341 @@
+damage	ضرَر
+damages	تعويض / الأضرار
+Dashboard	لوحة المعلومات
+Data	بيانات
+Data Cleansing	تنقية البيانات
+Data Entry	مدخل البيانات
+Data Integration	تكامل البيانات
+Date of previous application	تاريخ الطب السابق
+dation in payment	وفاء بمقابل
+De Facto	الأمر الواقع / بحكم الواقع
+dead account	حساب صوريّ، حساب وهميّ
+death	وفاة، موْت
+death certificate	شهادة الوفاة
+death insurance	تأمين عن الوفاة
+death penalty; capital penalty	عقوبة الإعدام
+death rates	نِسب الوفيات، معدل الوفيات
+debate	مناقشة
+debenture	سند قرض
+debenture holder	صاحب سند قرض
+debt	دَيْن
+Debt Bondage	عبودية الديون
+Debt Instrument	أداة الدين
+Debt Instruments	أدوات الدَّيْن
+debt rescheduling	إعادة جدولة الديون
+debtor	مَدِين / مدِيْن
+debtor account	حساب مدينية
+debtor attached	مَدِين محجوز عليه
+Deceit	تدليس
+decentralization	لا مركزية / اللامركزية
+Decentralized Decision-Making	اتخاذ القرار اللامركزي
+Decentralized Procurement	مشتريات لامركزية
+Deception	تغرير / خداع
+deciding umpire	حُكْم مرجح
+decision	قرار
+decision maker	متخذ القرار، مقرِّر
+Decision Tree	شجرة القرار
+decision-making	اتخاذ القرارات
+Decisions of compulsory license	قرارات الترخيص الإجباري
+decisive oath	يمين حاسمة
+declaration of war	إعلان الحرب
+declarative act	تصرُّف كاشف (إعلانيّ)، عقد كاشف (إعلانيّ)
+declaratory effect	أثر كاشف
+declaratory judgment	حُكْم كاشف، حكم إعلانيّ
+Decline of registration application	رفض التسجيل للعلامة
+Decommissioned	خرجت من الخدمة
+Decoupling Point	نقطة التحويل / الفصل للعميل
+decree	مرسوم
+decree of bankruptcy	شهْر الإفلاس
+decree-law	مرسوم قانون
+decriminalization	رَفْع التجريم، إزالة التجريم
+deduction	تخفيض، خَصْم، اقتطاع
+Deed	صك
+Deed of Debt	سند الدَّيْن
+Deeds	صكوك
+Defamation	قذف
+defamation; slander	قَذْف
+default	غياب / تقصير
+defect	عَيْب / خلل
+Defects Liability Period	فترة المسؤولية عن العيوب
+defence witness	شاهد نفي
+defence; defense	دفاع
+Defendant	مُدَّعَى عليه / مدعى عليه
+Defense	دفاع
+Defenses	دفوع
+defensive alliance	تحالف دفاعيّ
+defer payment	إرجاء الدفع، إرجاء الأداء
+deferred	مؤجَّل، مؤخَّر
+Deferred Debt	دَيْن مُؤجَّل
+deficit	نقْص، عجْز
+deficit of budget	عجْز في الميزانية
+definitive judgment	حُكْم قطعيّ
+definitive partition	قسمة نهائية
+DEFRA	وزارة البيئة والغذاء والشؤون الريفية
+degree of relationship	درجة القرابة
+degressive tax	ضريبة تنازلية
+delay	مهلة، أجلٌ
+delay of distance	مهلة مسافة
+delay of summons	مهلة حضور
+Delegated	تفويض السلطة
+delegation	إنابة، تفويض / تفويض
+Delegation Evolution	تطور التفويض
+Deletion of work	حذف المصنف
+deliberation	مُدَاوَلة / مُدَاوَلَة
+deliberations room	قاعة المداولات، غرفة المداولات
+delictual fault	خطأ تقصيريّ
+delimitation of boundaries; drawing boundaries	تحديد الحدود، وَضْع الحدود
+delinquent	جانح
+Deliverable	تسليم
+delivery	تسليم
+delivery of documents	تداوُل المستندات (للاطلاع)
+delivery of goods	تسليم البضائع
+delivery order	وصل تسلُّم، وصل تسليم
+Demand Flow Manufacturing	تصنيع تدفق الطلب
+Demand Management	إدارة الطلب
+Demand Planning	تخطيط الطلب
+Demand Risk	مخاطر الطلب
+Demand Signal	إشارة الطلب
+Demand Smoothing	تجانس طلب
+Demand Uncertainty	طلب عدم اليقين
+Demand Variability	تباين / تقلب الطلب
+demandable debt	دَين مطلوب
+democracy	ديمقراطية
+Demographics	تحليل ديموغرافي
+Demurrage	غرامة التأخير
+denial of justice	إنكار العدالة
+denial of paternity	إنكار الأبوة
+denunciation	وشاية
+Dependence Structure	هيكل الاعتماد
+dependency	تبعية
+Dependent	تابع
+Dependent Claim	عنصر حماية تابع
+Dependent Demand	طلب معتمد
+Dependent Variable	متغير تابع
+deportation	إبعاد / ترحيل
+deposit	وديعة / إيداع / عربون
+deposit account	حساب الودائع
+deposit and consignment fund	صندوق الإيداع والتدبير
+deposit bank	مصرف ودائع
+depositary	مودَع لديه
+deposition	إفادة
+depositor	مودِع
+depreciation	إهلاك، تناقُص القيمة / الإستهلاك
+deprivation	حرمان
+Deprivation of Marriage	عَضْل
+deprivation of nationality	إسقاط الجنسية
+deputy	نائب
+Derivative	عقد مشتق
+Derived Work	مصنف مشتق
+derogation	استثناء
+descendant	خلف السلف، فرْع
+Descendant Heir	فرع وارث
+Descent-Based Slavery	عبودية على أساس النسب
+desertion	فرار من الجيش، فرار من الخدمة العسكرية
+Design And Build	تصميم وبناء
+Design For Disassembly	التصميم التفككي
+Design Specification	خصائص / مواصفات التصميم
+Design Thinking	تفكير تصميمي
+Desired Or Target Cost	تكلفة المرغوبة أو المستهدفة
+despotism	حُكْم استبداديّ
+Destruction	إتلاف / تدمير
+desuetude	بُطلان
+detachable act	قرار منفصل
+detachment	إعارة، إلحاق
+Detainee	موقوف
+detention	اعتقال / توقيف
+Detention Center	دار التوقيف
+detention under remand	اعتقال احتياطيّ
+Detention Warrant	أمر التوقيف
+Deterioration	تدهور
+Determination of Heirs	حصر الورثة
+Deterministic Approach	منهجية حتمية أو توجه حتمي
+developing countries	دول نامية
+Developing Economy	تنمية الاقتصاد
+development	تنمية، تطوُّر / تطور
+devolutionary effect	أثر ناقل
+Devolved Procurement	تفويض الشراء
+Devolved Structure	هيكل مفوض
+diagnosis	تشخيص
+Dialogic	قابل للحوار
+dictator	دكتاتور، حاكم مطلق
+Differential Advantage	ميزة التفاضلية
+Differentiate	يميز
+Differentiation	تفاضل
+difficulties of execution	صعوبات التنفيذ
+Diffusion Of Innovation	تشتت الإبتكارات
+DIFOTIS	التسليم الكامل في الوقت المحدد
+Digital Age	عصر رقمي
+Digital Evidence	دليل رقمي
+dignity	كرامة
+dilatory debtor	مدين مماطل
+dilatory exception; dilatory plea	دَفْع تماطليّ
+Dimension Difference	فرق الأبعاد
+Diminished	قدرة متناقصة
+Diminishing	العوائد المتناقصة
+diplomacy	ديبلوماسية
+diplomatic agent	معتمد ديبلوماسيّ، مبعوث ديبلوماسيّ
+diplomatic asylum	لجوء دبلوماسيّ
+diplomatic corps	هيئة دبلوماسية، سلك دبلوماسيّ
+Diplomatic Exemption	إعفاء دبلوماسي
+diplomatic immunity	حصانة دبلوماسية
+diplomatic mission	بَعثة دبلوماسية
+diplomatic relations	علاقات دبلوماسية
+diplomatic solutions	حلول دبلوماسية
+Direct Call Off	طلب الاستدعاء
+direct citation	استدعاء مباشر
+Direct Costs	تكاليف المباشرة
+direct damage	ضرر مباشر
+direct democracy	ديمقراطية مباشرة
+Direct Discrimination	التمييز المباشر
+Direct Loss	خسارة مباشرة
+Direct Marketing	تسويق المباشر
+Direct Procurement	شراء مباشر
+Direct Reports	تقارير مباشرة
+direct sale	بَيْع مباشر
+Direct Spend	الإنفاق المباشر
+direct suffrage	اقتراع مباشر
+Direct Supplies	توريد المباشر
+direct tax	ضريبة مباشرة
+Direction Evolution	تطور الإتجاه
+disability insurance	تأمين عجز
+disagreement	عدم اتفاق، خلاف
+disarmament; demilitarization	نَزْع السلاح
+Disaster Recovery Plans (DRP)	خطط التعافي من الكوارث
+Discerning Minor	صغير مُمَيِّز
+discernment	تمييز (السن)
+Discharge	إبراء
+discharge of mortgage	فكُّ الرهن، رفْع الحجز
+Disciplinary	تأديبي
+disciplinary board	مجلس تأديبـي / مجلس تأديبي
+Disciplinary Committee	لجنة التأديب
+Disciplinary Decision	قرار تأديبي
+disciplinary fault	خطأ تأديبـيّ
+disciplinary measure	إجراء تأديبـيّ
+disciplinary power	سلطة تأديبية
+disciplinary procedure	مسطرة تأديبية، إجراء تأديبـيّ
+Disciplinary Trial	محاكمة تأديبية
+Disclosure	إفصاح
+Discontinuance of Litigation	انقطاع الخصومة
+discount	حَسْم، خَصْم
+discount rate	سِعر الحسم، سِعر الخصم
+Discounted Cash	نقدية مخصومة
+discretionary power	سلطة تقديرية
+Discrimination	تمييز
+discrimination (crime)	تمييز (جريمة)
+Discrimination By Perception	التمييز عن طريق الإدراك
+disease; illness	داء، مَرَضٌ، علة
+disguised donation	هبة مقنَّعة
+dishonoured cheque	شيك لم تؤد قيمته، صكٌّ لم تؤد قيمته
+Disincentive	مثبط
+disinheritance	حرمان من الإرث
+dismembering of property	فَرْز الملكية
+dismissal	فَصْل، عَزْل / فصل
+dismissal allowance	تعويض عن الفصل
+dispatcher	مُرسِل
+Displayed works	مصنفات تعرض
+disposable income	دَخْل متاح التصرف فيه
+Disposal Costs	تكاليف الاستبعاد
+disposition	تَصرُّف
+disposition acts	أعمال التصرف
+disposition inter vivos	تَصرُّف بين الأحياء
+disposition of death	تَصرُّف بسبب الموت
+dispossession	نَزْع الحيازة، سَلْب الحيازة
+dispute	خلاف، نزاع / مُنازعَة / نزاع / النزاع
+Dispute over Ownership	مُنازعَة في الملكية
+Dispute Settlement	تسوية المنازعة
+Disputed Right	حق مُتنازَع فيه
+Disqualification of an Arbitrator	رد المُحَكِّم
+Disqualification of Judge	رد القاضي
+Disruptive Change	تغيير التخريبي
+dissipation	تبديد
+dissolution	حلٌّ
+dissolution of company	حلُّ الشركة / حل الشركة
+dissolution of parliament	حلُّ البرلمان
+Distinct plant variety	صنف نباتي مميز
+Distinctive characteristic	علامة مميزة
+Distinguished industrial design	نموذج صناعي مميز
+Distortion of work	تحريف المصنف
+Distribution	توزيع
+Distribution Channel	قناة توزيع
+Distribution Hubs	محاور التوزيع
+distribution of profits	توزيع الأرباح
+Distribution Resource Planning (DRP)	تخطيط موارد التوزيع
+Distributive Enterprise (DE)	مؤسسة توزيع
+Distributive Style	مفاوضة توزيعية
+disturbance	اضطراب، ارتباك
+Diversification	تنويع
+Diversity	تنوع
+diversity of nationalities	تعدُّد الجنسيات
+Diversity Tension	توتر التنوع
+Diversity Toolbox	محادثات متنوعة
+Diversity-Capable	قادر على التنوع
+Diversity-Challenged	تحدي التنوع
+Divesting	تجريد
+dividend	ربيحة / توزيعات أرباح
+divisible obligation	التزام قابل للتجزئة
+division	تقسيم، قسم
+Division of application	تجزئة الطلب
+division of labour	تقسيم العمل، تقسيم الشغل
+divorce	طلاق
+Diya	دية
+doctrinal interpretation	تفسير الفقه، تفسير فقهيّ
+doctrine	فِقْه
+Doctrine Of Economic Duress	مبدأ الإكراه الاقتصادي
+document	مستند، وثيقة
+documentary bill of exchange	كمبيالة مستندية
+Documentary Collection	مجموعة وثائقية
+documentary credit	اعتماد مستنديّ
+Documentary Credits	اعتمادات مستندية
+Documentary Evidence	دليل مستندي
+Domestic	محلي
+domestic violence	عنف منـزليّ / عنف أسري
+domicile	موطن / مَوطِن
+dominant estate	عقار مرتفق
+Domino	دومينو
+donation	هِبَة
+donation contract	عَقْد هبة
+donee	موهوب له
+donor	واهِب / مانح
+Dormant (Latent) Suppliers	موردون خاملون (الكامنون)
+Double Entry Book Keeping	حفظ دفاتر القيد المزدوج
+double taxation	ازدواج ضريبـيّ
+Double-Loop Learning	تعلم ثنائي الحلقة
+doubt	شكٌّ، ارتياب
+doubtful debts	ديون مشكوك في تحصيلها
+Down Cycling; Upcycling; Recycling	إعادة التدوير
+Down Tooling	أدوات سفلية
+dowry; marriage portion	مَهْر
+draft	مشروع، مُسوَّدة / مسودة / مشروع
+Draft (A Contract)	مسودة (عقد)
+draft agreement	مشروع اتفاقية، مشروع اتفاق
+draft contract	مشروع عقد
+draft law	مشروع قانون
+draft payable at sight; sight draft	كمبيالة تدفع بمجرد الاطلاع، كمبيالة عند التقديم
+draft report	مشروع تقرير، مُسوَّدة تقرير
+Drafter (Of A Contract)	كاتب العقد
+Drafting	حوالة المصرفية
+drawee	مسحوب عليه
+drawer	ساحب
+Drill Down	التدقيق المتعمق
+Driver	محركات الأعمال / برامج تشغيل الأعمال
+driving licence	رخصة سياقة
+drug	مخدِّر
+drug addict	مدمن مخدرات
+drug addiction	إدمان المخدرات
+drug traffic	اتجار في المخدرات
+Drum	طبل
+Dual Sourcing	توريد المزدوج
+duality of function	ازدواجية وظيفية
+due	واجب الأداء ، مستحَق الأداء
+due debt	دَين واجب الأداء، دَين مستحق الأداء
+Due Diligence	عناية واجبة / عناية واجبة(اجتهاد)
+dumping	إغراق
+Durables	سلع معمرة
+Duration	مدة
+Duration of Protection	مدة الحماية
+Duress	إكراه
+Duty	مهمة / واجب
+Duty Of Care	واجب الرعاية
+Dynamic Capabilities	قدرات ديناميكية
+Dynamic Pricing	تسعير ديناميكي
+Dynamic Purchasing System (DPS)	نظام الشراء الديناميكي

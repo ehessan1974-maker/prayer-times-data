@@ -1,0 +1,148 @@
+واجب الأداء ، مستحَق الأداء	due
+واجب الرعاية	Duty Of Care
+واجبات ائتمانية	Fiduciary Duties
+وارِث	Heir / heir; inheritor
+واردات	Imports
+واعد	Promisor
+واقعة جائز قبولها	Admissible Fact
+واقعة قانونية	legal fact
+واقعة منتجة في الدعوى	Fact Material to the Case
+واقف	Endower
+واهِب	donor
+وثائق الشركة	Company Documentation
+وثيقة استراتيجية إدارة التكوين	Configuration Management Strategy Document
+وثيقة الإصدار	Offer Document
+وثيقة الحماية	Protection Document
+وثيقة بدء المشروع	Project Initiation (PID)
+وثيقة تأمين من كافة الأخطار	all-in policy; all-risks policy
+وثيقة تأمين، بوليصة تأمين	insurance policy
+وثيقة رؤوس الشروط	Heads Of Terms
+وثيقة متطلبات العمل	Business Requirements Definition (BRD)
+وثيقة، شهادة	policy
+وجهة مسماة	Named Destination
+وجوب الأداء، استحقاق	exigibility
+وحدات الأعمال الاستراتيجية	Strategic Business Units (SBUS)
+وحدة	unit; unity
+وحدة تغيير الوكالة	Change Agency Unit
+وحدة حفظ المخزون	Stock Keeping Unit (SKU)
+وحدة وظيفية	Functional Unit
+وديعة	deposit
+وديعة اختيارية	voluntary deposit
+وديعة اضطرارية	necessary deposit
+وديعة قضائية	judicial deposit
+ورثة المؤلف	Author’s heirs
+ورقة الحضور	timesheet
+ورقة تجارية	Commercial Paper / commercial paper
+ورقة تجارية قابلة للتداول	negotiable instrument
+ورقة رسمية	Official Paper
+ورقة عادية	Ordinary Paper
+وزارة الأشغال العمومية	ministry of public building and works
+وزارة البيئة والغذاء والشؤون الريفية	DEFRA
+وزارة التجارة	ministry of trade
+وزير	minister
+وزير أول، رئيس الوزراء	prime minister
+وسائل بديلة لحل النـزاع	alternative dispute resolution (ADR)
+وساطة	Mediation / mediation
+وساطة بحرية، سمسرة بحرية	maritime brokerage; maritime broking
+وساطة مالية	financial intermediation
+وسطاء ماليون	financial intermediaries
+وسيط	mediator; middleman
+وسيط السلطة	Power Broker
+وسيط بورصة قيم	stock broker
+وشاية	denunciation
+وِصاية	Trusteeship / tutelage
+وصاية إدارية	administrative tutelage
+وصل تسلُّم، وصل تسليم	delivery order
+وصْل، إيصال	receipt
+وصيّ	Trustee / guardian; tutor
+وصيّ شرعيّ	legal guardian; legal tutor
+وصية	legacy; testament / will
+وصية رسمية	authentic will
+وصية عرفية، وصية بخط الموصي	holographic will
+وضع استراتيجي	Strategic Position
+وضع الشركات	Corporate Positioning
+وضع الفشل وتحليل التأثير	Failure Mode And Effect Analysis (FMEA)
+وضْع القانون	elaboration of law
+وَضْع الملف رهن إشارة المعنيّ	transmittal of a file
+وضع اليد المؤقت على العقار	Temporary Taking of Property
+وضع اليد، استيلاء	occupancy
+وضْع تحت الحراسة	temporary arrest
+وضع علامة على التوسيم	Mark-Up
+وضع قانوني	Legal Status
+وضعية (ال..) القانونية للأجانب	status of aliens
+وضعية طالب اللجوء	asylee status
+وظائف العمل	Functions
+وظائف المالية العامة	Fiscal Functions
+وظيفة	Function
+وظيفة سلسلة التوريد	Supply Chain Function
+وظيفة عامة، وظيفة عمومية	public function
+وظيفة، عملٌ	job
+وعاء زكوي	Zakat Base
+وعاء ضريبي	Tax Base
+وعْد	promise
+وعد / عهد	Promise
+وعْد بالبيع	promise to sale
+وعد بالتفضيل	preference clause
+وعْد بالشراء	promise to purchase
+وعْد بالهبة	promise of donation
+وفاء بمقابل	dation in payment
+وفاء بواسطة شيك، أداء بواسطة صك	payment by cheque
+وفاء على أقساط، دَفْع على أقساط	payment by instalments
+وفاء مسبَق، وفاء مقدَّم	anticipated payment
+وفاء، إخلاص	fidelity
+وفاق الآراء، إجماع	consensus
+وفاة، موْت	death
+وفرة غير منطقية	Irrational Exuberance
+وقت الانتاجية	Throughput Time
+وقت الانتظار	Waiting Time
+وقت التسوق	Time To Market (TTM)
+وقت التشغيل	Operating Time
+وقت العمل	Working Time
+وقت تطوير المنتج	Product Development Time
+وقف	Endowment
+وقف (ال..)، حبوس	wakf
+وقف إجراءات المحكمة	Stay Of Court Proceedings
+وقْف التقادُم	prescription suspension / suspension of prescription
+وقف التنفيذ	Stay Of Execution / Stay of Execution
+وقف الخصومة	Suspension of Litigation
+وقْف الدعوى	suspension of suit
+وقْف تنفيذ العقوبة	respite (suspension of sentence)
+وقف خاص	Private Endowment
+وقف عام	Public Endowment
+وقف مشترك	Joint Endowment
+وقْف، إيقاف	suspension
+وكالة	agency
+وكالة إشهار، وكالة إعلانات	advertising agency
+وكالة تجارية	commercial agency
+وكالة خاصة	special mandate
+وكالة صريحة	express mandate
+وكالة ضمنية	tacit mandate
+وكالة عامة	general mandate (full power of attorney) / power of attorney
+وكالة عقارية	real estate office
+وكالة قانونية	legal mandate
+وكالة قضائية	judicial mandate
+وكالة، توكيل	procuration
+وكلاء الشحن	Forwarding Agents
+وكيل	Agent
+وكيل إعلانات	advertising agent
+وكيل أعمال	business agent
+وكيل التنفيذ	Enforcement Agent
+وكيل الدائنين، مأمور التفليسة، سنديك	syndic
+وكيل بالعمولة	commission agent
+وكيل بحريّ، أمين الحمولة	consignee of the shipment; consignee of the cargo; depositary of cargo
+وكيل تأمين	insurance agent
+وكيل تجاريّ، ممثل تجاريّ	commercial agent
+وكيل حصريّ	exclusive dealer
+وكيل شرعي	Attorney-in-fact
+وكيل عقاريّ	real estate agent
+وكيل قضائيّ، عون قضائيّ	judicial agent
+وكيل مفوَّض	mandatory / proxy
+وكيل، عون	agent
+ولاء	allegiance
+ولاية	Guardianship
+ولاية قضائية، اختصاص	jurisdiction
+ولاية، وِصاية	guardianship; trusteeship
+ولد شرعيّ	legitimate child
+ولد طبيعيّ	natural child
+ولي	Guardian
+ولي العهد	Crown Prince

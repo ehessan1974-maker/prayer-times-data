@@ -1,0 +1,99 @@
+شابكة (ال...) (الإنترنت)	internet
+شاذ	Irregular
+شاشة	display
+شاعر	poet
+شاعر البلاط	bard
+شاعر ملحمي	bard
+شاعرة	poetess
+شَاهِد	Example
+شاهدٌ إحالي	crypto quotation
+شاهدٌ ذاتـي	autocitation
+شاهدة قبر	epitaph
+شَبَكة	cyber / web
+شبكة التّواصل الاجتماعيّ	Social Network
+شبكة دلالية	semantic network
+شَبَكَة مِحْوَرِيَة	Thematic pattern
+شبه التّواصل	Semi-Communication
+شبه الجملة الاسميّة	Noun Phrase
+شبه المتحدِّث	Semi-Speaker
+شِبْه صَامت	Semi consonant / Semi contoid
+شِبْه صَامت، عِلَّة، حرف لين	Semi-vowel
+شِبْه لازم	Inverted
+شبه لغويّ	Semi-Lingualism
+شِبْه متجانس	Quasi homonym
+شَجَرِيّ	Mediopalatal / Prepalatal
+شحن زائد	surfeit; addition
+شُحْنة سيميائية	semiotic charge
+شَخْص	Person / persona
+شخْصية	character
+شخصية أدبية	literary personality
+شخصية أولية	protagonist
+شِدَّة	Intensitivity / Strenght
+شديد	Stop / Strong
+شذرة حِكمية	aphorism
+شُذوذ	Anomalie / Irregularity / anomaly
+شرح	exegesis
+شرح لفظي	gloss
+شرْقُ (ال..)	orient (the..)
+شروط اللّباقة	Felicity Conditions
+شطاَّريّ	picaresque
+شطر	verse
+شِعار	emblem
+شَعْبِيَة	Popular
+شِعْر	poetry
+شعر أبيض بلا قافية	blank verse
+شعر التفعيلة	free verse
+شِعْر الحَماسة	hamasa
+شعر الفَخْر	heroic poetry
+شِعرٌ بخطّ اليدِ	holograph poetry
+شعر بصريّ	visiual poetry
+شعرٌ بيولوجي	bio-poetry
+شعر تعليمي	didactic poetry
+شعر حر	free verse
+شِعْر دراميّ	dramatic poetry
+شعر ريفي رعوي	pastoral poetry
+شعر سردي	narrative poetry
+شعر شعبي	folk poetry
+شِعْر صائت	sound poetry
+شعر عِرْقي	ethnopoetry
+شِعْر غزلي	courtesy poetry
+شعر غنائي	lyric poetry
+شعر ملذاتي	epicurean
+شعر منثور	prose poetry
+شعر نثري	prose poem
+شعر وصفي	descriptive poetry
+شِعْرية	Poetics / poetics
+شعرية إدراكية	cognitive poetic
+شَفَافية	Transparency
+شَفَتَان	Lips
+شفتاني	Bilabial
+شفتاني أسناني	Bilabiodental
+شفتاني حجابي	Bilabiovelar
+شفتاني حنكي	Bilabiopalatal
+شفرات القراءة	codes for reading
+شَفْرة تأويلية، سَنَن تأويل	hermeneutic code
+شَفْرة، سَنَن	Code / code
+شفهيّ	Oral / oral
+شفهية	oral literature
+شَفَوِيّ	Labial / Oral
+شفوي أسناني	Labiodental
+شفوي حجابي	Labiovelar
+شفوي حنكي	Labiopalatal
+شفوي-حلقيّ	Labio-Velar
+شفوي-سنّي	Labio-Dental
+شَكٌّ	scepticism
+شَكْـل	form
+شكل الاقتباس	Citation Form
+شكلٌ بسيط	simple form
+شكل خارجي	configuration
+شكل عضويّ	organic form
+شكلٌ مُختصر	format brevis
+شَكْل مُدْمَج	insert format
+شكلٌ هَجين	hybride form
+شَكْلانيـة	formalism
+شَكْليّ	formal
+شكلي صوري	Formal
+شمولية	Exhaustivity / Generality
+شهادة	testimony
+شهيق	Inspirated
+شواذ	Exceptions

@@ -1,0 +1,119 @@
+خارج المجموعة	Out-Group
+خارج الموقع	Off Site
+خارج ساعات	Out Of Hours
+خارجي المنشأ	Exogenous
+خارجيّ، ظاهريّ	exterior; extern
+خارطة طريق التكنولوجيا	(TRM) Technology Road Map
+خازن قضائي	Judicial Custodian
+خازن، أمين الصندوق	treasurer
+خاصّ	private
+خالص الشحن	carriage free
+خبرة	expertise
+خبرة فنية، خبرة تقنية	technical expertise
+خبرة محاسبية	accountancy expertise
+خبير	expert
+خبير تسوية	Claims Adjuster
+خبير حسابيّ	actuary
+خبير محاسبيّ، خبير حسابات	chartered accountant
+خداع	Deception
+خدمات	Services
+خدمات إدارية	administrative services
+خدمات العلامة التجارية	Trademark services
+خدمات لوجستية	Common Logistics Services
+خدمات لوجستية عالمية	Global Logistics
+خدمات لوجستية متكاملة	Integrated Logistics
+خدمة	service
+خدمة الاستشارات والتوفيق والتحكيم	Advisory، Conciliation And Arbitration Service (ACAS)
+خَدَمة البيوت، خَدَمة المنازل	servants
+خدمة العملاء	Customer Service
+خدمة بعد البيع	client servicing
+خدمة عسكرية	military service
+خدمة مدنية	civil service
+خرجت من الخدمة	Decommissioned
+خرق	Breach
+خَرْق الحياد	violation of neutrality
+خَرْق القانون	violation of law; breach of law
+خرق بسيط	Minor Breach
+خرق توقعي للعقد	Anticipatory Breach
+خرق طوعي	Repudiatory Breach
+خرق في المبدأ	Fundamental Breach
+خرق كبير	Major Breach
+خرق مادي	Material Breach
+خريطة القيمة / تعيين القيمة	Value Mapping
+خزعة، اختزاع	biopsy
+خزينة الدولة	State Treasury
+خزينة عامة	Public Treasury / treasury
+خسارة جسيمة، خسارة ثقيلة	heavy loss
+خسارة خاصة	particular average
+خسارة صافية	net loss
+خسارة عامة، خسارة مشتركة	general average
+خسارة مباشرة	Direct Loss
+خسارة، عُوَار، مُعدَّل	average
+خصائص / مواصفات التصميم	Design Specification
+خصخصة	Privatization
+خصخصة العقد	Privatized
+خصم	Litigant
+خصم بالجملة	Volume Discount
+خَصَمَ، خَفَّض	abate (to)
+خَصْم، مُنَازِع	adversary
+خصوصية	privacy
+خصوم	Liabilities
+خصوم متداولة	Current Liabilities
+خصومة	Adversarial / litigation
+خط الاحتواء الأفضل	Line Of Best Fit
+خط الأساس	Baseline
+خط الأساس التاريخي للتكلفة	Historic Cost Baseline
+خط التقسيم، خط الهُدنة	partition line
+خطأ	Fault / mistake; fault
+خطأ إداريّ	administrative fault
+خطأ تأديبـيّ	disciplinary fault
+خطأ تقصيريّ	delictual fault
+خطأ جسيم	Gross Fault / gross fault
+خطأ خطير	grave fault
+خطأ شخصيّ	personal fault
+خطأ عمديّ	Intentional Fault / intentional fault
+خطأ مادي	Material Error
+خطأ مطبعيّ	erratum
+خطأ مهني	Malpractice
+خطاب اعتماد	letter of credit
+خطاب الاعتماد	Letter Of Credit (LC/LOC) / Letter of Credit
+خطاب الضمان	Letter of Guarantee
+خطاب جدلي نقدي	Critical-Dialectical Discourse
+خطاب ضمان	letter of guarantee
+خطاب نوايا	Letter Of Intent (LOI)
+خِطبة	engagement
+خَطَرٌ	Hazard / risk
+خطر مهنيّ	occupational hazard
+خطر واضح، خطر جليّ	apparent danger
+خطر وشيك	imminent peril
+خطط التعافي من الكوارث	Disaster Recovery Plans (DRP)
+خطط نفذ تحقق اعتمد	The Plan-Do-Check-Act (PDCA)
+خطف	Abduction
+خطة التواصل	Communication Strategy
+خطة العمل التصحيحية	Corrective Action Plan (CAP)
+خطة طوارئ	Contingency Plan
+خطوة ابتكارية	inventive step
+خفيّ	latent
+خُلاصة، مُخْتَصَر	abstract
+خلاف، نزاع	dispute
+خلع	Khul’
+خلف	Successor
+خلف السلف، فرْع	descendant
+خَلَفٌ خاصّ	Particular Successor / special successor
+خَلَف عامّ	Universal Successor / universal successor
+خلفية الملكية الفكرية	Background Intellectual Property
+خلق القيمة	Value Creation
+خلق قيمة مشتركة	Creating Shared Value
+خلل	Defect
+خلل عقليّ، جنون	insanity; madness
+خلُو (رِجْل)	key money
+خلوة	Khalwa
+خلية التصنيع	Manufacturing Cell
+خمسة حقوق	Five Rights
+خوارزمية	Algorithm
+خِيار	option
+خيار العملة	Currency Option
+خيانة	treason
+خيانة الأمانة	Breach of Trust / abuse of confidence; breach of trust
+خيانة زوجية	adultery
+خيانة عظمى	high treason

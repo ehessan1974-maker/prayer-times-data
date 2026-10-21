@@ -1,0 +1,77 @@
+صاحب الحساب	account holder
+صاحب الحق	Holder of the Right / Right holder
+صاحب رخصة	licensee
+صاحب سند قرض	debenture holder
+صاحب مصلحة (حملة الأسهم) المتصلين	Connected Stakeholder
+صَادَر	confiscate (to)
+صاعد	Bullish
+صافٍ	net
+صافي الدخل	Net Income
+صافي الربح	Net Profit
+صافي القيمة الحالية	Net Present Value (NPV)
+صافي رأس المال العامل	(NWC) Net Working Capital
+صافي قيمة الأصول	Net Asset Value
+صبيّ مميِّز، طفل مميز، حَدَثٌ	youth
+صِحَّة	health
+صِحَّة عامة	public health
+صحة وسلامة	Health And Safety
+صِحَّة، استقامة	exactitude
+صدقة، زكاة	alms
+صدمات خارجية	Exogenous Disruption
+صرف العملات الأجنبية / إدارة العملات الأجنبية	Foreign Exchange/FX Management
+صريح، بَيِّن	explicit
+صعوبات التنفيذ	difficulties of execution
+صعوبات مالية	financial difficulties
+صعود	Upselling
+صغير غير مُمَيِّز	Non-discerning Minor
+صغير مُمَيِّز	Discerning Minor
+صفقة آجلة، صفقة مؤجلة	time bargain; term bargain
+صفقة جزافية	chance bargain
+صفقة عادلة	Fair Trade
+صفقة فورية، صفقة الأداء الفوريّ	spot bargain
+صك	Deed
+صك الاستحكام	Establishment of Title Deed
+صك الحكم	Judgment Decree
+صك الملكية	Title Deed
+صك الوقف	Endowment Deed
+صكٌّ بريديّ، شيك بريديّ	postal cheque
+صكُّ سفر، شيك سياحيّ	traveler's cheque
+صكٌّ لحامله، شيك لحامله	bearer cheque
+صكٌّ مُسطَّر، شيك مُسطَّر	crossed cheque
+صكٌّ معتمد، شيك معتمد	certified cheque
+صكوك	Deeds
+صلات سببية	Causal Link
+صلاحية	Validity
+صلاحية المشروع /جدوى المشروع	Project Viability
+صلاحية تنبؤية	Construct Validity
+صلاحية تنبئية	Predictive Validity
+صلح بين المدين المفلس ودائنيه	composition between merchant and creditors
+صُلْح، تسوية (نـزاع)	compromise
+صمام نائي الباعث للضوء	Light-Emitting Diode (LED)
+صناديق الأسهم الخاصة \ الملكية الخاصة	Private Equity Funds
+صناديق التحوط	Hedge Funds
+صناعات منزلية	Cottage Industry
+صناعة	Industry
+صناعة 4.0	4.0 Industry
+صناعة تدرجية / متدرجة	Lean Manufacturing
+صناعة ثقيلة	Labor Intensive
+صِنَاعة، صُنْع	fabrication
+صناعيّ	industrial
+صندوق الادخار	provident fund
+صندوق الإيداع والتدبير	deposit and consignment fund
+صندوق التقاعد	pension fund
+صندوق الضمان	guarantee fund
+صندوق الضمان الاجتماعيّ	social security fund
+صندوق حمل	Tote Box
+صنع الحواس	Sense-Making
+صنف نباتي ثابت	Stable plant variety
+صنف نباتي جديد	New plant variety
+صنف نباتي متجانس	Uniformed plant variety
+صنف نباتي مميز	Distinct plant variety
+صوامع ثقافية	Cultural Silos
+صوت الموظف	Employee Voice
+صورة التبليغ	Copy of the Notification
+صيانة التشغيل حتى الفشل	Run To Breakdown (RTB)
+صيانة الوقائية أو التنبئية	Predictive Maintenance
+صيانة حسب الحالة	Condition-Based Maintenance (CBM)
+صيانة وقائية	Preventative Maintenance (PM)

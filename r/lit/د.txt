@@ -1,0 +1,79 @@
+دَاخِل	interior
+دَاخِلُّغَوِي	Intralingual
+داخلي	Internal
+دارج	colloquial
+دَارِجَة	Vernacular language
+دَافِع	stimulus
+دَالٌّ	Signifier / significant
+دَالّ الماهية	Semantem
+دالّة تنغيمية	Intonem
+دَالّة نحوية صغرى	Episemem
+دَخْل	Input
+دخيـل	Borrowed word / borrowing
+دخيل (تفعيلة)	dactyl
+دراسات أدبية مَدْعومة بالحاسوب	computer assisted literary studies
+دراسات تجريبية للأدب	empirical studies of literature
+دراسات ثقافية ُمقارنة	cultural studies (comparative..)
+دراسات محو الأميّة	Literacy Studies
+دراسات محو الأميّة الحديثة	New Literacy Studies
+دراسة أسماء الأشخاص	Anthroponymie
+دراسة أسماء المكان	Toponymy
+دراسة الأسطورة	mytheme
+دراسة الأعلام	Onomastics
+دِراسة الصّورة	iconography
+دراسة المشترك الدلالي	Plerematics
+دراسة النطق الفصيح	Orthoépy
+دراسة النقوش	Epigraphy
+دراسة طوليّة	Longitudinal Study
+دراسة مبدئيّة على نطاق محدود	Pilot Study
+دراسة موقع الكلام	Topology
+دراما الإنشاد الدّيني	Liturgical drama
+دراما القرون الوسطى	Medieval play
+دراما بورجوازية	sentimental comedy
+دراما رومانسية	romantic drama
+دراما طقوس الأسرار	Autosacramental
+دراما مسرحيـة	drama
+دراميّ	dramatic
+درجة	Degree
+درجة، تنغيم	Height
+دريم ويفر، برنامج تصميم مواقع إلكترونية	dreamweaver
+دعائي الدكّة	Banquiste
+دُعَابة	flirtation
+دفْتر	codex
+دفتر الاستدالة	Production book
+دِقَّـة	pertinence
+دكّات النّبلاء	Benches
+دلائل القناة	Channel Cues
+دلالة	Semantics / signification
+دلالة بنيوية	Structural semantics
+دلالة تأليفية	Combinatory semantics
+دلالة تنضيدية	Stratificational semantics
+دلالة توليدية	Generative semantics / generative semantic
+دَلالة جوْهرية	fundamental semantic
+دلالة خِطابية	discursive semantic
+دلالة سردية	narrative semantic
+دلالة غير لفظية	Onomasiology
+دلالة لفظية	Semasiology
+دلالة مصاحبة مستقلة	antonym connotation
+دليل	Signe
+دليل الإضاءة	Lighting plan
+دليل خَطِّي	Graphic signal / Signal (Graphic--)
+دليل صوتي	Sound signal
+دليل صوتي (النطق)	Indicator (Phonetic --) / Phonetic indicator
+دليل لغوي	Linguistic signe
+دليل مرئي	Visual signe
+دَمْـج	insert
+دمج التّعليم	Immersion (Education)
+دَمْج، ملغمة	Amalgam
+دَوْر	role
+دّور (ال...) العاملي، الدّور الفاعلي	actantial role
+دور الحُلّة	Livery role
+دور اللّواحق	Role rod
+دور المِخْصر	Corset role
+دور المعطف	Accessories role
+دوْر فاعليّ	acting role
+دَوْر مِحْوَرِيّ	Thematic role
+دَوْرَة	Period
+ديل، هايمز	Hymes, Dell H. (1927- )
+ديناميـة	dynamics
+ديوان شعر	diwan (poetry collection)

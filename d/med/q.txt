@@ -1,0 +1,311 @@
+q	رمز الذِّراعُ الطَّويلُ للصِّبْغِيّ
+Q banding	اِسْتِشْرَاطُQ
+Q disk (A band)	القُرْصُQ (الشريطA)
+Q enzyme	الإِنْزيمُQ
+Q fever	حُمَّى Q / حُمَّى كيُو
+Q method staining	التَّلْوينُ بطَريقةِQ
+Q wave	مَوجَةُQ (في تخطيط كهربية القلب) / مَوجَةُ Q (في مخطط كهربية القلب)
+q-3 rutoside (rutin)	روتين
+Q-band	الشَّريطُQ (فِي الصِّبْغِيَّات)
+Q-T interval	فَتْرَة QT / فَتْرَةُQ-T (في تخطيط كهربية القلب)
+q.d	كُلَّ يَوْم
+q.d. (quaque die)	مختصر كُلَّ يَوم
+q.h	كُلَّ سَاعَة
+q.h. (quaque hora)	مختصر كلَّ ساعَة
+q.i.d.	أَرْبَع مَرَّات يَوْمِياً
+q.i.d. (quater in die)	مختصر أَرْبَعُ مَرَّاتٍ يَومِيّاَ
+q.l.	حَسَبَ الرَّغْبَة
+q.l. (quantum libet)	مختصر بِحَسَبِ الرَّغْبَة
+q.n.	كُلّ لَيْلَة
+q.n. (quaque nocte)	مختصر كُلَّ لَيلَة
+q.n.s.	كَمِّيَّة غَيْر كَافِيَّة
+q.n.s. (quantum non satis)	مختصر كَمِّيَّةٌ غَيرُ كافِيَة
+q.p.	حَسَبَ الرَّغْبَة
+q.p. (quantum placeat)	مختصر بِحَسَبِ الرَّغْبَة
+q.q.h.	كُلَّ أَرْبَع سَاعَات
+q.q.h. (quaque quarta hora)	مختصر كُلَّ أَرْبَعِ ساعات
+q.s (quantum satis)	مختصر كَمِّيَّةٌ كافِيَة
+q.suff (quantum sufficit)	مختصر بقَدْرِ ما يَكْفِي
+Qq.hor. (quaque hora)	مختصر كلَّ ساعَة
+QRS complex	المُرَكَّبُQRS (في تخطيط كهربية القلب)
+QRST interval (Q-T interval)	فَتْرَة QRST ( فَتْرَةُ QT)
+qt (quart)	رمز الكوارْت
+quack	دَجَّال
+quackery	دَجَل
+quacksalver (quack)	دَجَّال
+quader (precuneus)	الطَّلَل (بنية تشريحية)
+quadrangle	رُباعِيُّ الزَّوايا
+quadrangular	رُباعِيُّ الزَّوايا
+quadrangular fontanelle (anterior fontanelle)	اليافوخُ المُرَبَّع (اليافوخُ الأَمامِيّ)
+quadrangular lobe of cerebellum	الفُصَيصُ المُرَبَّعِيُّ للمُخَيخ
+quadrangular lobule of cerebellum	الفُصَيصُ المُرَبَّعِيُّ للمُخَيخ
+quadrangular membrane	غِشاءٌ مُرَبَّع
+quadrant	رُبْعِيَّة ( رُبْعُ الدَّائِرَة)
+quadrant hemianopia	عَمَىً شِقِّيٌّ رُبْعِيّ
+quadrantal	رُبْعَوِيّ
+quadrantal cephalalgia	صُداعٌ رُبْعِيّ (يُصيبُ رُبْعَ الرَّأْس)
+quadrantanopia	عَمَى رُبْعِيّ
+quadrantanopsia	عَمَى رُبْعِيّ
+quadrantic hemianopia	عَمَىً شِقِّيٌّ رُبْعِيّ
+quadrantic scotoma	عُتْمَةٌ رُبْعِيَّة
+quadrants of the tympanic membrane	رُبْعِيَّاتُ غِشاءِ الطَّبْل
+quadrat	رُباعَة (شكل ترسيمي في الدراسات البيئية)
+quadrate	مُرَبَّعِيّ
+quadrate foramen (foramen venae cavae)	الثُّقْبَةُ المُرَبَّعَة (ثُقْبَةُ الوَريدِ الأَجْوَف)
+quadrate ligament	الرِّباطُ المُرَبَّعِيّ
+quadrate line	الخَطُّ المُرَبَّعِيّ
+quadrate lobe of cerebral hemisphere (precuneus)	الفَصُّ المُرُبَّعِيُّ لنِصْفِ كُرَةِ المُخّ ( الطَّلَل)
+quadrate lobe of liver (lobus quadratus hepatis)	الفَصُّ المُرَبَّعِيُّ للكَبِد
+quadrate lobule (®precuneus)	الفُصَيْصُ المُرَبَّعِيُّ (¬ الطَّلَل)
+quadrate muscle of lower lip	العَضَلَةُ المُرَبَّعَةُ للشَّفَةِ السُّفْلِيَّة
+quadrate muscle of sole	العَضَلَةُ المُرَبَّعَةُ الأَخْمَصِيَّة
+quadrate muscle of thigh	العَضَلَةُ المُرَبَّعَةُ الفَخِذِيَّة
+quadrate muscle of upper lip	العَضَلَةُ المُرَبَّعَةُ للشَّفَةِ العُلْوِية
+quadrate pronator muscle	العَضَلَةُ الكابَّةُ المُرَبَّعَة
+quadrate tubercle	حُدَيْبَة (ال...) الرُبَاعِيّة
+quadratipronator (musculus quadratus pronatus)	العَضَلَةُ المُرَبَّعَةُ الكابَّة
+quadratus NA	مُرَبَّع
+quadri-	سابقة بمعنى الأَرْبَعَة
+quadribasic	رُباعِيُّ القاعِدَة
+quadriceps	العَضَلَةُ رُباعِيَّةُ الرُّؤوس
+quadriceps femoris	العَضَلَةُ رُباعِيَّةُ الرُّؤوسِ الفَخِذِيَّة
+quadriceps jerk (patellar reflex)	نَفْضَةُ الرُّباعِيَّةِ الرُّؤوس ( المُنْعَكَسُ الرَّضَفِيّ)
+quadriceps muscle of thigh	العَضَلَةُ الرُّباعِيَّةُ الرُّؤوسِ الفَخِذِيَّة
+quadriceps test	اخْتِبارُ الرُّباعِيَّةِ الرُّؤوس (لفرط فعالية الدرق)
+quadricepsplasty	رَأْبُ رُباعِيَّةِ الرُّؤوس
+quadriceptal reflex	مُنْعَكَسُ الرُّباعِيَّةِ الرُّؤوس
+quadriceptor	رُباعِيُّ المُتَقَبِّل
+quadricuspid	رُباعِيُّ الشُّرَف [أسنان]
+quadridigitate (tetradactylous)	رُباعِيُّ الأَصابِع
+quadrigemina	رُباعِيَّاتُ التَّوائِم [تشريح]
+quadrigeminal	متعلق برُباعِيِّ التَّوائِم [تشريح]
+quadrigeminal bodies	الأَجْسامُ الرُّباعِيَّةُ التَّوَائِم / أَجْسامُ (ال...) الرُّباعِيَّةُ التَّوائِم
+quadrigeminal pulse	نَبْضٌ رُباعِيّ
+quadrigeminal rhythm	نَظْمٌ رُباعِيّ
+quadrigeminum [pl.quadrigemina]	رُبَاعِيُّ التَّوَائِم [ج:رُبَاعِيَّاتُ التَّوَائم]
+quadrigeminus	رُبَاعِيُّ التَّوَائِم [ج:رُبَاعِيَّاتُ التَّوَائم]
+quadrilateral space of Marie	حَيِّزُ ماري المُرَبَّع (في الدماغ)
+quadrilobate	رُباعِيُّ الفُصوص
+quadrilocular	رُباعِيُّ المَساكِن
+quadripara	رابِعَةُ الحَمْل
+quadriparesis (tetraparesis)	خَزَلٌ رُباعِيّ (خَزَل الأطراف الأربعة)
+quadripartite	رُباعِيُّ الأَقْسام
+quadriplegia (tetraplegia)	شَلَلٌ رُباعِيّ (شلل الأطراف الأربعة)
+quadriplegic standing frame	إِطارُ إيقافِ المَشْلولِ الرُّباعِيّ
+quadripod cane	عَصا رُباعِيَّةُ القَوائِم
+quadripolar	رُباعِيُّ الأَقْطاب
+quadrisect	يَسْتَرْبِع (يُقَطِّعُ أَرْبَعَةَ أَقْسام)
+quadrisection	اسْتِرْباع
+quadritubercular	رُباعِيُّ الحَدَبات
+quadrivalent (tetravalent)	رُباعِيُّ التَّكافُؤ
+quadruped	رُباعِيُّ الأَقْدام
+quadrupedal extensor reflex	مُنْعَكَسُ البَسْطِ الرُّباعِيِّ الاسْتِنَاد
+quadrupeds	رباعيات القوائم
+quadrupl. (quadruplicato)	مختصر بمِقْدَار أَرْبَعَةِ أَضْعاف
+quadruple amputation	بَتْرُ الأَطْرافِ الأَرْبَعَة
+quadruple ligation	الرَّبْطُ الرُّبَاعِيُّ
+quadruple vaccine	لَقاحٌ رُبَاعِيّ
+quadruplet	تَوأَمٌ أَرْبَعِيّ (أَحَدُ تَوائِمَ أَرْبَعَة)
+quadruplets	توائم رباعية
+Quain's degeneration	تَنَكُّسُ كُوِين (تنكس ليفي لعضلة القلب)
+Quain's fatty heart	تَنَكُّسُ القَلْبِ الدُّهْنِيّ
+quaker button (nux vomica)	جَوزُ القَيْء
+quale	كَيْفَة (نَوعية الإحساس)
+qualification	كَفَاءَة
+qualimeter (penetrometer)	مِقْياسُ النَّفاذ
+qualitative	نوعيّ، كيفيّ
+qualitative (qualitive)	كَيفِيّ
+qualitative analysis	تَحْليلٌ كَيفِيّ / تَحْلِيل كَيْفِيّ
+qualitative atrophy (degeneration)	ضُمورٌ كَيفِيّ (تَنَكُّس)
+qualitive	كَيفِيّ
+quality	خاصية، جودة، نوعية
+quality assurance	ضَمانُ الجودَة / ضَمانُ الجَوْدَة / تَأْمِين الْـجَوْدَة
+quality control	مُراقَبَةُ الجودَة / مُراقَبَةُ الجَوْدَة / مُرَاقَبَة الْـجَوْدَة
+quality control serum	مَصْلُ مُراقَبَةِ الجُودَة
+quality factor	عامِلُ الجَوْدَة
+quality management audit	تَفْتِيْشُ جَوْدَةِ الإِدارَة
+quality management(QM)	إِدَارَة الْـجَوْدَة
+quality standard	مِعْيارُ الجَوْدَة
+Quant's sign	عَلاَمَةُ كوانت (في الرخد)
+quanta [sing.quantum]	كُموم [ف:كَمّ]
+quantal	كُمومِيّ
+quantal effect	أَثَرٌ كَمِّيّ
+quantasome	أُكْموم [نبات]
+quantatrope	مَوضِعٌ أُكْمُومِيّ [نبات]
+quantification	تقديرٌ كَمِّيٌّ / تَكْمِيم / تحديد الكمية
+quantimeter	مِقْياسُ كَمِّيَّةِ الأَشِعَّة
+quantique	كَمِّيّ
+quantitative	كَمِّيّ / كمّيّ
+quantitative analysis	تَحْليلٌ كَمِّيّ / التَّحْليلُ الكَمِّيّ / تَحْلِيل كَمِّيّ
+quantitative atrophy (simple atrophy)	ضُمورٌ كَمِّيّ ( ضُمورٌ بَسيط)
+quantitative culture	زَرْعٌ كَمِّيُّ
+quantitative estimation	التَّقْديرُ الكَمِّيّ
+quantitative hypertrophy (hyperplasia)	تَضَخُّمٌ كَمِّيّ ( فَرْطُ التَّنَسُّج)
+quantitative inheritance (polygenic inheritance)	وِراثَةٌ كَمِّيَّة ( وِراثَةٌ عَديدَةُ الجينات)
+quantitative perimetry	قِياسُ مَجالِ البَصَرِ الكَمِّيّ
+quantitative test	اخْتِبارٌ كَمِيّ
+quantity	كَمِّيَّة / كمية، مقدار
+quantize	يَسْتَكْمِم
+quantum [pl.quanta]	كَمّ [ج:كُموم]
+quantum chemistry	كِيميَاء كَمِّيَة
+quantum constant	ثابِتَةُ الكَمّ
+quantum libet	بحَسَبِ الرَّغْبَة
+quantum limit (minimum wavelength)	الحَدُّ الكَمِّيُّ ( طُوْلُ المَوْجَةِ الأَصْغَرِيّ)
+quantum of light	كَمٌّ ضَوئِيّ
+quantum satis	كَمِّيَّةٌ كافِيَة
+quantum satis (q.s); sufficient quantity	كَمِّيَّة كَافِيَّة (ك.ك)
+quantum sufficit	بمِقْدارِ ما يكْفي
+quantum theory	نَظَرِيَّةُ الكُموم
+quantum unit	وَحْدَةُ الكَمّ
+quantum vis	بحَسَبِ الرَّغْبَة
+Quaranfil	قَرَنْفيل
+Quaranfil virus	فيروسُ قَرَنفيل (في مصر)
+quarantine	الحَجْرُ الصِّحِّيّ / حجر صحي / حجر صحيّ
+quarantine drain	مَنْزَحٌ مَحْجوز
+quarantine period	مُدَّةُ الحَجْرِ الصَّحِّيّ
+quarry	مَقْلَعٌ
+quart	كُوارْت ( رُبْعُ غالُون)
+quartan	رِبْع (يتكرر كل 72 ساعة)
+quartan fever	الحُمَّى الرِّبْع / حُمَّى الرِّبْع
+quartan malaria	مَلاَرْيا رِبْع
+quarter	رُبُع، قِسْم
+quarter ill (blackleg)	داءُ الرُّبْع ( السَّاقُ السَّوداء)
+quartering (of sample)	تَرْبِيع
+quartile	شَرِيحَةٌ رُبْعِيَّة
+quartipara (quadripara)	رابِعَةُ الحَمْل
+quartisect (quadrisect)	يَسْتَرْبِع (يُقَسِّمُ إِلى أَرْبَعَة)
+quartisternal	متعلق بالقُسَيْمِ القَصِّيِّ الرَّابِع
+quartz	كُوارْتز
+quartz crucible	بُوْتَقَةٌ مِنَ الكوارتز
+quartz glass	مَرْو ؛ زُجاجُ الكَوارْتز
+quartz lamp	مِصْباحُ الكوارتز
+quartz objective	شَيْئِيَّةٌ كوارْتزِيَّة
+quasi-	سابقة بمعنى ما يُقارِب أو يُشابِه؛جُزْئِيّ
+quasicontinuous variation	اِخْتِلاَفٌ شِبْهُ مُسْتَمَر
+quasidiploid	صِيْغَةٌ صِبْغِيَّةٌ جُزْئِيَّةُ الضِّعْفَانِيَّة
+quasidominance (pseudodominance)	سِيَادَةٌ جُزْئِيَّة ( سِيَادَةٌ كَاذِبَة)
+quasidominant	جُزْئِيُّ السِّيَادَة
+quasidominant inheritance	وِراثَةٌ جُزْئِيَّةُ السِّيَادَة
+quassation	تَجْريش [صَيدَلَة]
+quassia	كُواسِيَة (شجرة مدارية)
+quassin	كُواسين (مستخلص نباتي مر)
+quat. (quattuor)	مختصر أربعة / مختصر أَرْبَعَة
+quater in die	أَرْبَعَ مَرَّاتٍ يَومِيَّا
+quaternary	رُبَاعِيّ
+quaternary amalgam	مُلْغَمٌ رُباعِيّ
+quaternary ammonium compound	مُرَكِّبٌ أَمونْيُومِيٌّ رُباعِيّ
+quaternary compound	مُرَكَّبٌ رُباعِيّ
+Quatrefage's angle (parietal angle)	زاوِيَةُ كاترفاج (الزَّاوِيَةُ الجِدارِيَّة)
+quazepam	كوازِيبام (دَواءٌ مُهَدِّىء وَمُنَوِّم) / كوَازِيبَام
+quazodine	كوازُودِين (دَواءٌ مُقَوٍّ لِلقَلْبِ مُوَسِّعٌ لِلقَصَبات) / كوَازُودِين
+Quebec bacteria colony counter	عَدَّادُ كيبيك لمُسْتَعْمَراتِ الجَراثيم
+quebrachine (yohimbine)	كويبراشين ( يُوهِمْبين)
+quebrachitol	كوِيبْراكِيتُول (سكر نباتي المصدر)
+Queckenstedt's phenomenon	ظاهِرَةُ كويكينشتيت (ارتفاع ضغط السائل النخاعي بضغط أوعية العنق)
+Queckenstedt's sign	عَلاَمَةُ كويكنشتيت (تأثير ضغط الوداجي على ضغط السائل النخاعي)
+Queckenstedt's test	اخْتِبارُ كويكنشتيد (لكشف إحصار السائل النخاعي)
+queen	قِطّة، هِرّة
+Queensland tick typhus	التَّيْفوسُ المَنْقُولَةُ بقُرَادِ كوينزلاند
+quellung reaction	تَفاعُلُ الانْتِباج [جراثيم] / تَفاعُلُ الانْتِباج (انتباج محفظة الجراثيم بوجود الأضداد)
+quellung test	اخْتِبارُ الانْتِباج (في محفظة المكورات الرئوية)
+quenched steel	فُولاَذٌ مُسْقَى
+quercetin	كويرسِيتِين (مركب ذو مفعول وعائي)
+Quercus	بَلُّوط
+quercus sobur	سنْدَيَان
+querulous paranoia	زَوَرٌ خِصامِيّ
+Quervain's disease (painful tenosynovitis)	داءُ كِيرفان (الْتِهابُ غِمْدِ الوَتَرِ المُؤْلِم)
+Quervain's fracture	كَسْرُ كيرفان (في العظم الزورقي)
+query fever (Q fever)	الحُمَّى المَشْبوهَةُ السَّبَب ( حُمَّى Q)
+questionnaire	اسْتِبْيان
+Quetelet's rule	قاعِدَةُ كوِيتِيلِه (حول الوزن السوي)
+queue	صفٌّ ؛ رَتْل؛ طابورٌ
+quick formal	تَهْيِئَةٌ سَرِيْعَةٌ
+quick pulse	نَبْضٌ سَريع
+Quick tourniquet test	اخْتِبارُ العاصِبَةِ لكوِيك
+Quick's test	اخْتِبارُ كويك (للوظيفة الكبدية)
+quick-change nosepiece	الأَنْفِيَّةُ السَّريعَةُ التَّغْيير
+quick-cure resin	راتينٌ سَريعُ التَّصَلُّب [أسنان] / راتينٌ سَريعُ التَّصَلُّب
+quick-repairing	إِصْلاَحٌ سَريع [أسنان]
+quick-setting cement	إِسْمِنْتٌ سَريعُ التَّصَلُّب [أسنان]
+quick-setting stone	جِبْسٌ حَجَرِيٌّ سَريعُ التَّصَلُّب
+quicklime (calcium oxide)	الكِلْسُ الحَيّ ( أُكْسيدُ الكالسْيُوم)
+quicksilver (mercury)	زِئْبَق
+quicksort	فَرْزٌ سريعٌ
+quidding	مُضَاغ (حالة مرضية في الخَيل)
+quiescent tuberculosis	سُلٌّ هادِىء
+quiet	هادِىء
+quiet iritis	الْتِهابُ القُزَحِيَّةِ الهادِئ
+quiet necrosis (aseptic necrosis)	نَخَرٌ هادِىء ( نَخَرٌ عَقيم)
+quiet running engine	مُحَرِّكٌ هادِىءُ الدَّوَران [أسنان]
+quiet sleep (NREM sleep)	نَومٌ هادِىء ( نَومٌ لاريمِيّ)
+quillaia	كِلاجَة (جنس شجر من الفصيلة الوردية)
+quillain (saponin)	صابونين
+Quillaja	كِلاجَة (جنس شجر من الفصيلة الوردية)
+quillaya bark (quillaja)	الكِلاجَة (جنس شجر من الفصيلة الوردية)
+quilt suture (quilted suture)	خِياطَةُ التَّضْريب ( خِياطَةٌ تَنْجِيْدِيَّةٌ مُتَوَاصِلَة)
+quilted suture	خِياطَةٌ مُضَرَّبَة؛خِياطَةٌ تَنْجِيْدِيَّةٌ مُتَوَاصِلَة
+quina (cinchona)	كينا
+quinacrine	كيناكْرِين (دَواءٌ مُضادٌّ لِلطُّفَيلِيَّات)
+quinacrine banding	اِسْتِشْرَاطٌ بالكِيناكْرِين
+quinacrine fluorescent method (Q method)	التَّلْوينُ بطَريقَةِ الكيناكرينِ المُتَأَلِّق ( التَّلْوينُ بطَريقةِ Q)
+quinalbarbitone (secobarbital)	كينال بَارْبيتُون ( سِيكُوبارْبِيتال)
+quinaldine blue	زُرْقَةُ الكينالْدين
+quinary	خُمَاسِيّ
+quinary amalgam	مُلْغَمٌ خُماسِيّ / مُلْغَمٌ خُماسِيّ [أسنان]
+quinazoline	كِينازُولين [كيمياء]
+quince	سَفَرْجَل (شجرة مثمرة من الفصيلة الوردية)
+Quincke's disease (angioneurotic edema)	داءُ كوينكه (الوَذَمَةُ الوِعائِيَّةُ العَصَبِيَّة)
+Quincke's edema (angioneurotic edema)	وَذَمَةٌ كِوينكِه (وَذَمَةٌ وِعائِيَّةٌ عَصَبِيَّة)
+Quincke's meningitis (acute aseptic meningitis)	الْتِهابُ السَّحايا لكْوينكه ( الْتِهابُ السَّحايا الحادُّ العَقيم)
+Quincke's pulse (capillary pulse)	نَبْضُ كوِينْكَه ( نَبْضٌ شُعَيرِيّ)
+Quincke's puncture (lumbar puncture)	بَزْلُ كوينكه ( بَزْلٌ قَطَنِيّ)
+quinestrol	كوِينيسْتِرول (مركب إستروجيني)
+quinethazone	كوِينيثازُون (دَواءٌ مُدِرٌّ لِلبَول)
+quinfamide	كوِينْفامِيد (دَواءٌ مُضادٌّ لِلأَميبات)
+quingestanol	كوِينْجِيسْتانول (مُرَكَّبٌ برُوجِيسْتينِيّ)
+quingestrone	كوِينجِيسْترُون (مُرَكَّبٌ بروجِيسْتيني)
+quinic acid	حَمْضُ الكينِيك
+quinidine	كينيدين (دَواءٌ مُبَطِّىءٌ لِلقَلْب) / كِينِيدِين
+quinine	كِينِين (دَواءٌ مُضادٌّ لِلمَلاَرْيا) / كِينِين / كينين
+quinine amaurosis	كُمْنَةُ التسَمُّمِ بالكِينين
+quinine amblyopia	غَمَشُ التسَمُّمِ بالكِينين
+quinine test	اخْتِبارُ الكينين
+quininism (quininoderma)	التَّسَمُّمُ بالكينا (جُلاَدٌ كينيني)
+Quinlan's test	اخْتِبارُ كوينلان (لكشف الصفراء)
+quinoid	كِينُويد [كيمياء]
+quinol	كينول [كيمياء]
+quinoline	كينُولين (دَواءٌ مُطَهِّرٌ وَمُضادٌّ لِلحُمَّى)
+quinolones	كِينُولُونَات
+quinometry	تَقْييسُ قلوانِيَّاتِ الكيِنِين
+quinone	كِينُون [كيمياء]
+quinovin	كِينُوفِين (غليكوزيد مر)
+quinovose	كِينُوفُوز (سكر نباتي المصدر)
+quinoxin	كِينُوكْسِين [كيمياء]
+Quinq. (quinque)	مختصر خَمْسَة
+quinquecuspid	خُماسِيُّ الشُّرَف [أسنان]
+quinquetubercular	خَماسِيُّ الحَدَبات [أسنان]
+quinquevalent (pentavalent)	خَماسِيُّ التَّكافُؤ
+quinquina (cinchona)	الكَينا
+quinsy (peritonsillar abscess)	عاذُور ( خُرَاجُ مُجَاوِرَاتِ اللَّوزَة)
+Quint (quintus)	الخامِس
+quintan fever (trench fever)	الحُمَّى الخِمْس ( حُمَّى الخَنادِق)
+quintan malaria	مَلاَرْيا خِمْس
+quintana	الخِمْس (حُمَّى تتكرر كل خمسة أيام)
+quintana fever	حُمَّى الخِمْس
+quintana fever (trench fever)	الحُمَّى الخِمْس ( حُمَّى الخَنادِق)
+quintessence	خُلاَصَةٌ مُرَكَّزَة
+quintipara	مُخْمِسَة (والدة للمرة الخامسة)
+quintisternal	متعلق بالقُسَيْمِ القَصِّيِّ الخامِس
+quintuplet	خامِسُ التَّوائِم (أَحَدُ التَّوائِمِ الخَمْسَة)
+quintuplets	توائم خماسية
+quittor	قارُوح (في الخَيل)
+quoad vitam	فيما يَتَعلَّقَ بِالحَياة
+quota	حِصَّةٌ نِسْبِيَّة
+quota sampling	مُعَايَنَة الحِصَص
+quotation	اقْتِبَاس
+Quotid. (quotidie)	مختصر يَومِيَّا
+quotidian	يَومِيّ
+quotidian fever	الحُمَّى الوِرْد
+quotidian malaria	مَلاَرْيا يَومِيَّة
+quotient	حاصِل (حاصِلُ القِسْمَة)
+Quénu-Muret sign	عَلاَمَةُ كينو-موريه (في أم الدم)

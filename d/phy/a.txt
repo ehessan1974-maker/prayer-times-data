@@ -1,0 +1,706 @@
+ab initio	من المبادئ الأولية
+abac	مخطط المعادلة
+abacus	مِحْسَبة / مِعداد
+abbe condenser	مُكَثِّف / مكثِّف آبه
+abbe number	عدد
+Abbe prism	موشور آبه
+Abbe refractometer	مقياس آبه لقرائن الانكسار
+abbe theory of the resolution of microscope	نظرية للمَيز في المجهر
+abel equation	معادلة
+aberration	زيغ
+aberration of light	زيغ (ال...) الضوئي / زيغ الضوء
+ablation	تذرية
+abney effect	تأثير / مفعول أبني
+abney mounting	تركيب
+abnormal	غير عادي؛ شاذ
+abnormal glow discharge	انفراغ توهجي شاذ
+abrasive	ساحج
+abridged spectrophotometry	قياس طَيف مُختزل
+abscissa	احداثي أفقي / إحداثي سـيني؛ فاصلة
+absolute	مُطْلَق
+absolute activity	نشاط مُطْلَق (ن)
+absolute boiling point	نُقطة الغليان المُطْلَقة
+absolute coefficient	مُعامل مُطْلَق
+absolute concentration	تركيز مُطْلَق
+absolute density	كثافة مُطْلَقة / كثافة مطلقة
+absolute error	خطأ مطلق
+absolute humidity	رطوبة مُطْلَقة / رطوبة مطلقة
+absolute incertitude	ارتياب مطلق
+absolute index of refraction	قرينة الانكسار المطلقة
+absolute luminance threshold	عتبة اللمعان المُطْلَق
+absolute luminosity curve	مُنحني اللمعانية المُطْلَقة
+absolute motion	حركة مطلقة
+absolute permeability	نَفاذية مُطْلَقة
+absolute pressure	ضَغْط مُطْلَق
+absolute purity threshold	عَتْبَة النَّقاء المُطْلَق
+absolute space-time	حيز (ال...) الزماني - المكاني المطلق
+absolute temperature	درجة الحرارة المُطْلَقة / درجة الحرارة المطلقة
+absolute temperature scale	سُلَّم الحرارة المُطْلَقة
+absolute unit	وَحْدَة مُطْلَقة
+absolute value	قيمة مُطلَقة
+absolute velocity	سرعة مُطْلَقة
+absolute weight	وزن مُطْلَق
+absolute zero	صفر (ال...) المُطْلَق / الصفر المُطلَق
+absorbance	إمتصاص
+absorbancy	إمتصاصية
+absorbed dose	جَرْعةُ مُمْتَصة (ن)
+absorbed dose of radiation	جرعة الإشعاع الممتصة
+absorbed dose rate	مُعَدَّلِ الجرعة الممتصة (ن)
+absorbed electrons	إلكترونات ممتصة
+absorbent	ماصُّ
+absorbent material	مادة ماصة
+absorber	مصَّاص (ن) / ماصّ
+absorber element	عُنْصر مصّاص
+absorbing duct	مُخْمِد صوت / مُخمِّد الصوت
+absorptance	عامل الامتصاص
+absorptance; absorption factor	عامِل الامتصاص
+absorption	إمتصاص (ن) / امتصاص / cross–section
+absorption band	نطاق إمتصاص / عِصابة الامتصاص
+absorption coefficient	مُعامل إمتصاص (ن)
+absorption control	تَحَكُّم بالإمتصاص (ن)
+absorption curve	مُنْحني الامتصاص (ن) / منحني الامتصاص
+absorption discontinuity	تَقَطُّع الامتصاص / انقطاع الامتصاص
+absorption edge	حَدُّ إمتصاص / حافة الامتصاص
+absorption factor	عامل الامتصاص
+absorption index	دليل إمتصاص
+absorption limit	حد الامتصاص
+absorption line	خط الامتصاص
+absorption lines	خطوط الامتصاص
+absorption of light	امتصاص الضوء
+absorption probability	احتمال الإمتصاص (ن)
+absorption spectrum	طَيْف الإمتصاص (ن) / طيف الامتصاص
+absorptivity	ممتصِّيَّة (ال...) / امتصاصية
+abstract	مُلَخَّص / ملخَّص
+abundance	وَفْرة / وفرة
+abundance isotopic ratio	نِسْبة وَفْرة النَّظير
+abundance ratio	نسبة الوَفْرة (ن) / نسبة الوفرة
+accelerated motion	حركة متسارعة
+acceleration	تعجيل، تسارع / تسارع
+acceleration of gravity	تعجيل الجاذبية، تسارع الجاذبية
+acceleration vector	متّجه التسارع
+acceleration voltage	فولطية التعجيل، فولطية التسارع
+accelerator	معجِّل (ن) ، مسرِّع / مسـرع
+accelerator (linear..)	معجِّل خطِّي (ن)
+accelerometer	مقياس التعجيل، مقياس التسارع / مقياس التسارع
+acceptor	قابِل
+acceptor atoms	ذرات متقبِّلة
+acceptor circuit	دارة قابِلَة
+accidental	عارض
+accidental coincidence	توافق عارض
+accidental error	خطأ عارض
+accidental loss	فَقْد طارىء (ن)
+accommodation	مطابقة؛ تكيُّف
+accommodation coefficient	مُعامل التكيّف / معامل التكيُّف
+accommodation of the eye	تكيُّف العين
+accountability	تصريف (ن)
+accumulated dose	جَرْعَة متراكِمَة (ن) / جرعة تراكمية
+accumulation	تراكُم
+accumulation coefficient	مُعامل التراكُم
+accumulation point	نقطة التراكُم
+accumulator	مركم / مِرْكَم؛ مُدّخِرة
+accuracy	دقة
+accuracy of a balance	دقة الميزان
+achromat	عدسة لا لونية
+achromat; achromatic lens	عدسة لالونية
+achromatic	لالوني
+achromatic combination	تركيب لالوني
+achromatic condenser	مكثف لا لوني
+achromatic lens	عَدَسَة لالونية / عدسة لا لونية
+achromatic locus	مكان لالوني
+achromatic point	نُقْطة لالونية
+achromatic prism	مَوْشور لالوني / موشور لا لوني
+achromatic stimulus	إثارة لالونية
+achromaticity	لا لونية
+achromaticity; achromatism	لالونية
+achromatism	لا لونية
+acoustic branch	فرع صوتي
+acoustic conductivity	موصِّلية صوتية
+acoustic dispersion	تفريق صوتي
+acoustic dissipation element	عنصر التبدد الصوتي
+acoustic energy dissipation rate	مُعَدَّل تبدد الطاقة الصوتية
+acoustic impedance	ممانَعة صوتية
+acoustic inertance	قصور صوتي
+acoustic rarefaction	أشعة (ال...) الصوتية، الأشعة السمعية
+acoustic rays	ردية (ال...) الصوتية
+acoustic reactance	تخلخل صوتي
+acoustic resistance	مقاوَمة صوتية
+acoustic responsiveness	إستجابية صوتية
+acoustic scattering	إستطارة صوتية
+acoustical reciprocity theorem	مبرهنة التبادل الصوتي
+acoustical resistance	مقاومَة صوتية
+acoustics	الصوتيات
+acoustoelectronics	إلكترونيات صوتية
+actinic radiation	إشعاع (أكتيني)
+actinic rays; chemical rays	أشعة (اكتينية)
+actinide	أكتيني (ن) ، أكتينيد
+actinide series	متسلسلة الاكتينيد (ن)
+actinides	أكتينيدات
+actinium	أكتينيوم
+actinon (An)	أكتينون
+action	فعل / فِعل
+action and reaction law	قانون الفعل ورد الفعل
+action at a distance	فعل عن بعد / فعل عن بُعد
+action level	مستوى الفعل (ن)
+action variable; phase integral	تكامل الطور
+activated absorption	امتزاز مُنشَّط
+activated cathode	مَهْبِط مُنشَّط
+activated molecule	جُزَيء مُنشَّط
+activation	تنشيط (ن) / تنشيط
+activation analysis	تحليل بالتنشيط (ن) / تحليل بالتنشيط
+activation by neutrons	تنشيط بالنترونات
+activation cross section	مقطع عرضي للتنشيط (ن) / مقطع فعال للتنشيط
+activation detector	مكشاف التنشيط (ن)
+activation energy	طاقة التنشيط (ن) / طاقة التنشيط
+activation foil	رقيقة التنشيط (ن)
+activator	منشِّط (ن)
+active	نشيط (ن)
+active component	مركبة (ال...) الفاعلة
+active current	تيار (ال...) الفاعل
+active element	عنصـر فاعل
+active filters	مرشِّحات فعالة
+active force	قوة (ال...) الفاعلة
+active length	طول فعال (ن)
+active mass	كتلة (ال...) الفعالة
+active power	قدرة فاعلة
+active region	منطقة نشِطة
+active valence	تكافؤ فاعل
+activity	نشاط (ن) ، فاعلية / فاعلية؛ نشاط
+activity coefficient	مُعامِل النشاط، مُعامِل الفاعلية
+activity concentration	تركيز النشاط (ن) / تركيز النشاط الإشعاعي
+actuation circuit	دار التحكُّم (ن)
+acuity of hearing	حِدَّة السمع
+acuity of vision	حِدَّة البصر / حِدَّة البصـر
+acute angle	زاوية حادَّة / زاوية حادة
+adamantine compound	مركَّب الماسّي
+addition of angular momenta	جمع الاندفاعات الزاوية
+addition of velocities	جمْع السرعات
+additive function	دالَّة جمعية
+additive primary colours	الألوان الأولية الجمعية
+additive property	خاصيَّة جمعيِّة / خاصّة جمعية
+additives	مواد مضافة
+address	عنوان
+adhesion	تلاصُق / التصاق
+adhesion tension	توتُر التلاصُق
+adhesivity	تلاصُقية
+adiabatic	كَظيم
+adiabatic approximation	تقْريب كَظيم
+adiabatic change	تغير مكظوم
+adiabatic compression	إنضغاط كَظيم
+adiabatic curve	منحنٍ كَظيم
+adiabatic elasticity	مُرونة كَظيمة
+adiabatic expansion	تمدّد كَضيم / تمدد مكظوم
+adiabatic processes	عمليات كَظيمة
+adiabatic transformation	تحول مكظوم
+adjoint matrix	مصفوفة مرافقة
+adjoint operator	مؤثِّر قَرين / مؤثر مرافق
+adjoint variable	متغير مرافق
+admittance	قَبولية
+admittance; permittivity	قبولية، سماحية
+adsorbate	مُمْتَزّ / ممتزّ
+adsorbent	مازّ
+adsorption	امْتِزاز / امتزاز
+adsorption equilibrium	توازن الامْتِزاز
+adsorption exponent	أسُّ الامْتِزاز
+adsorption isostere	إِمْتِزاز متماثل الجزئيات
+adsorption potential	جُهْد الامْتِزاز
+adsorption space	حيز الامْتِزاز
+advanced gas cooled reactor	مُفاعل التبريد الغازي المتقدم (ن)
+advantage factor	عامل المزيَّة (ن)
+aeolian sound	هَفيف / هفيف؛ صفير الريح
+aerial	هوائي
+aerial input	طاقة داخلة في الهوائي
+aerial; antenna	هوائي
+aero-space	فضاء جوي
+aerodynamic	انسيابي
+aerodynamics	تحريكيّات / علم ديناميك الهواء
+aeroembolism	انسداد هوائي
+aerofoil	مقطع انسـيابي
+aerometer	مِقياس كثافة الهواء / مقياس كثافة الهواء
+aeronautics	علم الطيران
+aerophysics	الفيزياء الهوائية
+aerosol	رذاذ / حُلالة هوائية
+aerostatics	سكونيات (ال...) الهوائية / سكونيات الهواء
+aerothermodynamics	علم الديناميك الحراري الهوائي
+affine transformation	تحول تآلفي
+affinity (chemical)	ألفَة كيميائية
+afocal system	جملة لا محرقية
+after-flow	انسياب لاحق
+after-heat	حرارة لاحقة (ن)
+after-power	قُدرة لاحقة (ن)
+afterflow	انسـياب متبقي
+afterglow	توهج متبقي
+afterheat	حرارة متبقية
+age hardening	تصليد معمّر
+age hardening; precipitation hardening	تَصْليد بالقِدَم
+agglomeration	تجمُّع
+air	هواء
+air -pump	مضخة الهواء
+air bubble	فُقاعة هواء / فقاعة هوائية
+air chamber	غرفة هوائية / حجرة هوائية
+air compressor	ضاغطة هواء / ضاغطة الهواء
+air conditioning	تكييف هواء / تكييف الهواء
+air conductor	موصل هوائي
+air current	تيار هواء
+air density	كثافة الهواء
+air dose	جرعة هوائية
+air film	غشاء هوائي
+air gap	فُرجة هوائية
+air lines	خطوط طيف الهواء
+air monitor	مِرْقاب الهواء (ن) / مرقاب الهواء
+air pressure	ضغط الهواء
+air resistance	مقاومة الهواء
+air wedge	زاوية هوائية
+air weigh	وزن الهواء
+air-brake	كابح هوائي / مكبح هوائي
+air-pump	مضخة الهواء
+air-reservoir	خزّان هواء
+air-thermometer	مَحْرار الهواء
+airborne radioactivity	نشاطُ العوالِقِ الهوائيةِ الإشعاعيُّ
+airplane	طائرة
+Airy disk	أسطوانة
+albedo	عاكسية (البيدو) (ن) / عاكسـية؛ ألبيدو
+algebra	جبر
+Algorithm	خوارزمية
+alignment	تسديد / تراصُف
+alkali ions	أيونات قلوية
+alkali metals	فلزات قلوية
+alkali-metal mercury trap	مصيدة زئبقية للفلزات القلوية
+allobar	مُتباين الكتل (ن)
+allochromatic	متلوِن
+allochromatic crystal	بلورة متغيرة اللون
+allochromy	تلونيَّة / اختلاف اللون
+allogyric birefringence	انكسار ثنائي بالاستقطاب الدائري
+allomorphism	تغير الشكل / اختلاف الشكل البلوري
+allotrope	متآصل
+allotropes	متغايرات الشكل
+allotropic	متآصلي / تغايري الشكل
+allotropism	اختلاف الشكل
+allotropism; allotropy	متآصلية
+allotropy	خاصة اختلاف الشكل
+allowed	مسموح به (ن)
+alloy	سَبيكَة / سبيكة
+alpha counter	عدَّاد ألفا / عداد ألفا
+alpha decay	التفكك ألفا
+alpha decay; alpha disintegration	اضمحلال ألفا (ن)
+alpha emitter	باعِث ألفا (ن) / مُصْدِر ألفا
+alpha particle	الجُسـيم ألفا
+alpha particles	جُسيمات ألفا (ن)
+alpha particles spectrum	طيف جُسيمات ألفا (ن)
+alpha ratio	نِسْبة ألفا (ن)
+alpha rays	أشِعة ألفا (ن)
+alpha scattering	تبعثر الجسـيمات ألفا
+alpha source	مَصْدر ألفا
+alpha-rays	الأشعة ألفا
+alpha-spectrometer	مقياس طيف ألفا
+alternating	متناوب
+alternating current	تيار متناوب
+alternating current (AC)	تيار متناوب
+alternator	مناوب / مُنَوِّبَة
+altimeter	مقياس الارتفاع
+altitude	ارتفاع
+aluminium	ألمنيوم
+Amagat - Leduc rules	قواعد
+Amagat units	وحدات
+amalgamation	ملغمة / ملغمة؛ تملغُم
+amber	كَهْرمان / كهرمان (عنبر)
+ambient temperature	درجة حرارة المحيط / درجة حرارة الوسط المحيط
+americium	أمريشيوم
+ametropia	تيه البصـر
+Amici prism	موشور / موشور أميتشي
+ammeter	مِقياس الأمبير / مقياس الأمبير
+ammeter shunt	مُفَرِّغة مقياس الأمبير / مُفَرِّّعة مقياس الأمبير
+ammonia (molecule)	جُزَيء النشادر
+amorphous	لابِلَّوْري
+amorphous solid	جامد لا بلوري؛ جسم صلب لا بلوري
+amperage	أمبيرية
+ampere	أمبير
+ampere rule	قاعدة أمبير
+Ampere's rule	قاعدة أمبير
+ampere-hour	أمبير- ساعة
+ampere-turn	أمبير لفّة / أمبير – لفة
+amplification	تضخيم
+amplification factor	عامل التضخيم
+amplifier	مُضخِّم / مضخِّم
+amplify (to)	يُضخم
+amplitude	اتساع (ن) / سَعَة؛ إزاحة زاوية
+amplitude analyser	مُحلِّل الاتساع (ن)
+amplitude modulation	تعديل الاتساع / تعديل السَّعة
+amplitude of oscillation	سعة الاهتزاز
+amplitude of simple harmonic motion	اتساع الحركة التوافقية البسيطة
+amplitude of vibration	اتساع الاهتزاز / سعة الذبذبة
+amplitude of waves	اتساع الموجات
+amusia	عمه الألحان
+analog	تمثيلي
+analog computer	حاسوب تماثلي
+analog to digital converter	محول التماثلي إلى رقمي
+analyser	محلِّل / مُحَلِّل
+analyser of polarized light	محلِّل الضوء المُسْتقْطَب
+analysis	تحليل
+analytical balance	ميزان تحليل
+analytical gap	فرجة تحليلية
+analytical gap; electrode gap	فجوة بين مَسْريَيْن
+analytical mechanics	ميكانيك تحليلي
+analyzer	محلِّل
+anastigmat	عدسة نُقْطِيَّة
+anastigmat lens; anastigmatic lens	عدسة نقطية
+anastigmatic lens	عدسة مُصحِّحة اللانقطية / عدسة نُقْطِيَّة
+anastigmatism	نُقْطِيَّة
+anechoic room	غرفة عديمة الصدى
+anechoic room; dead room	غرفة عديمة الصدى
+anelasticity; internal friction	احتكاك داخلي
+anemometer	مقياس سرعة الريح / مقياس سـرعة الريح
+aneroid barometer	مِضْغاط معدني
+angle	زاوية
+angle of contact	زاوية التَّماس / زاوية التماس
+angle of deviation	زاوية الانحراف
+angle of deviation in a prism	زاوية الانحراف في موشور
+angle of dip	زاوية المَيْل
+angle of emergence	زاوية الخروج / زاوية البروز
+angle of friction	زاوية الاحتكاك
+angle of incidence	زاوية السقوط / زاوية الورود
+angle of inclination	زاوية الميل
+angle of lag	زاوية التخلف / زاوية التأخر
+angle of lead	زاوية التقدم
+angle of minimum deviation	زاوية الانحراف الأصغر
+angle of nutation	زاوية الترنُّح
+angle of phase	زاوية الطوْر / زاوية الطور
+angle of polarization	زاوية الاستقطاب
+angle of precession	زاوية المبادرة
+angle of principal azimuth	زاوية السَّمْت الأساسية
+angle of principal incidence	زاوية السقوط الأساسية
+angle of reflection	زاوية الانعكاس
+angle of refraction	زاوية الانكسار
+angle of repose; angle of slip	زاوية الانزلاق
+angle of scattering	زاوية التبعثر
+angle of sight	زاوية الرؤية
+angle of variation	زاوية التَغيُّر
+angstrom	أنجسْتروم
+angstrom unit	وحدة الأنجسْتروم
+angström	أنغستروم
+angular acceleration	تعجيل زاوي، تسارع زاوي / تسارع زاويّ
+angular correlation	ارتباط زاوي (ن)
+angular cross section	مقطع عرضي زاوي (ن)
+angular distribution	توزيع زاوي (ن) / توزُّع زاويّ
+angular frequency	تردُّد زاوي / تردد زاوي،ّ تواتر زاويّ
+angular height	ارتفاع زاويّ
+angular magnification	تكبير زاوي / تجسـيم
+angular momentum	اندفاع زاوي؛ عزم الاندفاع
+angular momentum matrix elements	عناصر مصفوفةِ الزخم الزاوي
+angular momentum of rigid body	زخم زاوي لجسم صَلْد / اندفاع زاويّ لجسمٍ صلد
+angular momentum; moment of momentum	زخم زاوي (ن) ، عزم زاوي
+angular particle flux density	كثافة تدفق الجُسيمات الزاوي (ن)
+angular quantum number	عدد كمي زاوي (ن)
+angular straggling	تَّطَوُح (ال...) الزاوي
+angular variable	متغير (ال...) الزاوي
+angular velocity	سرعة زاوّية / سـرعة زاوِيَّة
+angular wave functoin	الدالة الموجية الزاويّة
+anharmonic oscillator	متذبذب لاتوافقّي / هزَّازة لا توافقية
+anharmonic terms	حدود لاتوافقية
+anharmonicity	لاتوافقية (ال...)
+anion	أيون سالب / أنيون
+anisodesmic structure	تركيب لامتجانس الترابط
+anisotropic	اتجاهية الخواص
+anisotropic dielectric	عازل اتجاهي الخواص
+anisotropic medium	وسط اتجاهي الخواص / وسط لا متناحي
+anisotropy	تبايُن المناحي / لا تناحي
+anisotropy factor; dissymetry factor	عامل اتجاهية الخواص
+annealing	تلدين
+annealing twin	توأم بالسقاية
+annihilation	افناء (ال...) / إفناء؛ فناء
+annihilation operator	مؤثر الفناء
+annihilation radiation	اشعاع الفناء (ن)
+annual variation	تغيّر سنوي
+annular	حَلَقّي
+annular eclipse	كسوف حَلَقّي
+annular nozzle	فوَّهة حَلَقية
+anode	مِصْعَد / أنود؛ مَصْعَد
+anode battry; plate battery	نضيدة المِصْعَد، بطارية
+anode current	تيار المَصْعَد
+anode saturation	إشباع تيار المصعد
+anode supply	تغدية المِصْعَد
+anode-bend detection	كشف منحني المِصْعَد
+anode-grid coupling	ربط المِصْعَد بالشبكة
+anomalous atomic scattering method	طريقة الاستطارة الذرية الشاذة
+anomalous dispersion	تفريق شاذ / تبدُّد شاذ
+anomalous refraction	انكسار شاذ
+anomalous valence	تكافؤ شاذ
+anomalous Zeeman effect	مفعول زيمان الشاذ
+antenna	هوائي
+anti	ضَديد (ن)
+anti (baryon)	ضَديد الباريون
+anti-neutrino	ضَديد النترينو (ن) / نترينو مضاد
+anti-parallel feeding	تغدية مُتَضادة التوازي
+anti-particle	ضَديد الجُسيم (ن) / جسـيم مضاد
+anti-proton	ضَديد البروتون (ن)
+anti-symmetric	ضَديد التناظر
+antiatom	ذرة مضادة
+antibaryon	باريون مضاد
+antibonding orbital	مدار اللاتآصر
+anticoincidence circuit	دارة عدم التطابق (ن)
+antiferromagnetic exchange integral	تكامل التبادل المغنطيسي غير الحديدي
+antiferromagnetism	مغنطيسية (ال...) غير الحديدية / مغنطيسية حديدية مضادة
+antimatter	ضَديد المادة (ن) / مادة مضادة
+antimony	إثْمِد / إثمد؛ أنتموان
+antimony electrode	مَسْرى إثْمِدي
+antineutron	ضَديد النترون (ن)
+antinodal point	نقطة بطن
+antinode	بطن
+antinode; loop	بطن عُرْوة
+antiparallel vectors	متجهان متعاكسان
+antiprincipal points	نقطتان أصليتان عكسـيتان
+antiproton	بروتون مضاد
+antireflection coating	طلاء مضاد للانعكاس
+antireflector	سطح مضاد للانعكاس
+antiresonance	تجاوب صادّ
+antiresonance parallel impedance	ضَديد الرنين
+antisymmetric function	دالة عكسـية التناظر
+antisymmetric wave function	دالة موجية عكسـية التناظر
+aperiodic	لادوري
+aperiodic wave	موجة لادورية
+apertural effect; circle of confusion	دائرة الالتباس
+aperture	فَتْحَة / فتحة
+aperture of a lens	فتحة عدسة
+aperture of camera	فتحة الصوَّارة
+aperture of lens	فتحة عدسة
+aperture stop	مُحَدِّد الفتحة / محدِّد الفتحة
+apex	ذروة ، رأس
+aphelion	أوج المدار حول الشمس
+aplanatic	لا زيغي
+aplanatic lens	عدسة لازيغية / عدسة لا زيغية
+aplanatic lens system	نظام العدسات اللازيغية
+aplanatic points or foci	سطح لازيغي
+aplanatic surface	سطح لا زيغي
+apochromat lens; apochromatic lens	عدسة لالونية
+apochromatic lens system	نظام عدسات لالونية / منظومة عدسات فائقة اللا لونية
+apochromatic objective	جسمية فائقة اللا لونية
+apolar adsorption	امتزاز قطبي
+apostilb	أبوستلب
+apparatus	جهاز
+apparent	ظاهري
+apparent depth	عمق ظاهري
+apparent distance	بُعْد ظاهري
+apparent equilibrium; false equilibrium	توازن ظاهري
+apparent expansion	تمدد ظاهري
+apparent force	قوة ظاهرية
+apparent motion	حركة ظاهرية
+apparent power	قُدْرة ظاهرية / قدرة ظاهرية
+apparent solubility	ذوبانية ظاهرية
+appearance potential	جُهْد الظهور
+Appleton layer	طبقة
+applied shock	صدمة مُسَلَّطَة
+approach to criticality	اقتراب من الحالة الحرجة (ن)
+approximate value	قيمة تقريبية
+approximation	تقريب (ن)
+approximation methods	طرائق التقريب
+aqueous	مائي
+aqueous humour	خلط مائي / خِلْط مائي
+aquo ion; hydrated ion	أيون مميّه
+Arago spot	بقعة
+arbitrary constant	ثابتة اختيارية
+arc	قوس
+arc carbon lamp	مصباح قوس فحمّي / مصباح القوس الفحمية
+arc discharge	تفريغ قوسي / انفراغ قوسـي
+arc excitation	إثارة قوسـية
+arc spectrum	طيف قوس / طيف القوس
+arched	مُقوَّس
+Archimedes law	قانون أرخميدس
+Archimedes principle	مبدأ
+Archimede’s principle	مبدأ أرخميدس
+area	مساحة
+area monitor	مِرقاب منطقة (ن)
+areal velocity	سـرعة سطحية
+areometer	مقياس كثافة السوائل، مكثاف
+areometry	قياس كثافة السوائل
+Argand diagram	مخطط أرغند
+argon	أرغون
+argument	إزاحة زاوية؛ متحول مستقل
+arithmetic	علم الحساب
+arithmetic mean	وسطي حسابي
+arm	ذراع
+arm of a couple	ذراع المزدَوِجة
+arm of couple	ذراع المُزدوجَة
+armature	حافظة / المتحرِّض؛ حافظة المغنطيس
+armature reaction	رد فعل الحافظة
+arms of lever	ذراعا الرافعة
+arrest point	نُقطة القطع
+arrester	الواقية من الصواعق
+arsenic	زرنيخ
+artificial magneto	مغْنيط اصطناعي
+artificial radio-activity	نشاط اشعاعي اصطناعي
+artificial radioactivity	نشاط إشعاعي اصطناعي
+artificial transmutation elements	تحوُّل اصطناعي للعناصر
+aspheric surface	سطح لاكروي / سطح لا كُروي
+assembly	تجمّع، مجمّع
+assembly line	خط تجميع
+associated liquid	سائل مشارك
+association	مشاركة
+associative law	قانون تجميعي
+astatic needle	ابرة مُعَطَّلَّة / إبرة لا اتجاهية
+astatic suspension	تعليق مُعَطَّل
+astatic system	نظام لااتجاهي / منظومة لا اتجاهية
+astatine	أستات
+asterism	نَجْمِيَّة (ال...) / مظهر نجمي
+asthenopia	كَلال البصـر
+astigmat	عدسة لا نقطية
+astigmatic	لانقطي
+astigmatic aberration	زيغ لانقطي
+astigmatic difference	فرق لانقطي
+astigmatic focus	بؤرة لانقطية
+astigmatic lens	عدسة لانقطية / عدسة لا نُقْطِيَّة
+astigmatic pencil of light	حُزمة ضوئية لانقطية
+astigmatic spectral line	خط طيفي لانقطي
+astigmatism	لانقطية (ال...) / لا نقطية
+astigmatism of eye	لانقطية العين
+astigmatism of lens	لانقطية العدسة
+astigmatism test	اختبار اللانقطية
+astrionics	الكترونيات الفضاء / إلكترونيات الفضاء
+astronomical refraction	انكسار فلكي
+astronomical telescope	مِقراب فَلَكي؛ راصِدة فَلَكية
+astronomical unit	واحدة فلكية
+astronomy	عِلْم الفلك / علم الفلك
+astrophysics	الفيزياء الفلكية
+asymmetry	لاتناظر / لا تناظر
+asymmetry potential	جُهد اللاتناظر
+asymptote	خط مقارب
+asymptotic	مُقارِب
+asymptotic neutron flux density	كثافة التدفق النتروني المحاذي (ن)
+asynchronism	لاتزامن (ال...) / لا تزامن
+asynchronous computer	حاسوب لا تزامني
+AT-cut crystal	بِلَّوْرة ذات مقطع
+athermancy	لانفاذية حرارية / لا نفاذية حرارية
+athermanous; athermous	غير منفذ حراريا
+atmolysis	تحليل مسامّي
+atmosphere	جَوّ (ال...) / غلاف جوي؛ جو
+atmosphere of sun	جَوّ الشمس
+atmospheric density	كثافة الجوّ
+atmospheric electricity	كهرباء جوّية / كهرباء جوية
+atmospheric pressure	ضغط (ال...) الجوّي / ضغط جوي
+atmospheric refraction	انكسار جوّي / انكسار جوي
+atmospheric variations	تقلبات جويّة
+atom	ذرة (ن) / ذرة
+atom excitation	إثارة الذرة
+atom laser	ليزر الذرات
+atomic	ذري (ن)
+atomic absorption coefficient	مُعامل الامتصاص الذري (ن)
+atomic attenuation coefficient	مُعامل التوهين الذري (ن)
+atomic bomb	قُنْبلة ذرية (ن)
+atomic clock	ميقاتية ذرية
+atomic coordinates	إحداثيات ذرية
+atomic electric station	محطة كهرباء ذرية
+atomic energy	طاقة ذرية (ن) / طاقة ذرية
+atomic excitation	إثارة ذرية
+atomic explosion	انفجار ذري (ن)
+atomic fission	انشطار ذري
+atomic force microscope	مجهر القوة الذرية
+atomic heat	حرارة ذرية
+atomic heat capacity	سعة حرارية ذرية
+atomic hypothesis	فَرَضِيَّة ذرية / الفرضية الذرية
+atomic laser	ليزر ذري
+atomic linkage	رابطة ذرية
+atomic mass	كُتْلة ذرية (ن) / الكتلة الذرية
+atomic mass unit	وَحْدَة الكُتْلة الذرية (ن) / واحدة الكتلة الذرية
+atomic model	نموذج ذري (ن)
+atomic models	النماذج الذرية
+atomic nucleus	نواة ذرية (ن) / نواة ذرية
+atomic number	عدد ذري (ن) / العدد الذري
+atomic orbital	مَدار ذري (ن)
+atomic orbital wave function	الدالة الموجية المدارية الذرية
+atomic particle	جسـيم ذري
+atomic physics	فيزياء ذرية
+atomic pile	مُفاعل ذري / مفاعل ذري
+atomic radiation	اشعاع ذري / إشعاع ذري
+atomic reactor	مُفاعل ذري (ن)
+atomic refraction	انكسار ذري
+atomic spectra	أطياف ذرية
+atomic spectrum	طيف ذري (ن)
+atomic state	حالة ذرية (ن)
+atomic stopping power	قُدْرة الايقاف الذري (ن)
+atomic structure	بنية ذرية (ن) / بِنية ذرية
+atomic theory	النظرية الذرية
+atomic units	الواحدات الذرية
+atomic vibration	اهتزازة ذرية (ن)
+atomic weapon	سِلاح ذري (ن)
+atomic weight	وزن ذري (ن) / وزن ذري
+atomic weight unit	واحدة الوزن الذري
+atomization	تَرْذِيذ / ترذيذ
+atomizer	مِرْذاذ / مِرذاذ
+attenuation	تَوْهين (ن) / توهين
+attenuation coefficient	مُعامل التَوْهين (ن)
+attenuation factor	عامل التَوْهين (ن) / عامل التوهين
+attenuator	مُوهِن / موهِن
+attraction	تجاذب
+attraction force	قوة الجذب
+attractive force	قوة تجاذبية / قوة جاذبة
+attribute samples	عيِّنات وصفية (ن)
+Atwood's machine	ماكنة أتود
+audibility	مَسْموعِيّة
+audibility curve	منحني المسموعية
+audibility spectrum	طيف السمعية
+audibility threshold	عتبة السمع
+audio	سمعّي
+audio signals	إشارات سمعية
+audio-frequency	تردد سمعّي / تردد سمعي
+audio-note	نغمة سمعيّة
+audiogram	مخطّط السمع / مخطط سمعي
+audiometer	مقياس السمع، مِسْماع / مقياس السمع
+audiphone	مُقوي السمع / مُقوِّيَّة السمع السِّنية
+auditory nerve	عَصَب سمعي / العصب السمعي
+auditory perspective	مجال سمعي
+Auger electron	إلكترون أوجيه
+Auger shower	وابل أوجيه
+aural signals	إشارات سمعية
+aurora	شَفَقٌ قطبي / شفق قطبي
+aurora australis	شفق (ال...)ُ القطبي الجنوبي / الشفق القطبي الجنوبي
+aurora borealis	شفق (ال...)ُ القطبي الشمالي / الشفق القطبي الشمالي
+auroral line	خطُ شفقٍ قطبي
+auto collimator	مجمّع ذاتي
+auto-absorption; self-absorption	امتصاص ذاتي
+auto-excitation; self-excitation	تهيج ذاتي
+autocollimation	تجميع ذاتي
+autocollimator	مجمّع ذاتي
+automatic	آلي
+automatic control	تحكُّم ذاتي / تحَكُّم آلي
+automatic controller	متحكِم ذاتي / متحكِّم آلي
+automatic tone control	تحكُم ذاتي في النغمة
+automatic volume control	تحكم ذاتي في شدة الصوت
+autoradiogram	صورة بالاشعاع الذاتي (لجسم حُقِن بالنظائر المشعة
+autoradiograph	صورة بالإشعاع الذاتي
+autoradiography	تصوير اشعاعي ذاتي
+autotransformer	محوّلة ذاتية / محوِّلة ذاتية
+auxochrome	مؤثر لوني
+availability factor	عامِل الاتاحة
+available energy	طاقة متيسِّرة / طاقة مُتاحة
+avalanche breakdown	انهيار تَيهوري
+avalanche diode	ديود تَيهوري
+average	متوسط
+average acceleration	تعجيل متوسط، تسارع متوسط
+average density of charge	كثافة (ال...) المتوسطة للشحنة
+average electromotive force	قوة دفع كهربائي متوسطة
+average life	متوسط العمر (ن) / العمر المتوسط
+average logarithmic energy decrement	متوسط النقصان اللوغاريتمي للطاقة (ن)
+average power	قدرة متوسطة (ن)
+average speed	سرعة متوسطة
+average value	قيمة متوسطة
+average velocity	سرعة متجهة متوسطة / سـرعة متوسطة
+Avogadro's number	عدد / عدد أفوغادرو
+axe	مِحْور
+axial force	قوة محورية
+axial magnification	تكبير مِحْوري / تكبير محوري
+axial ratio	نسبة محورية
+axial vector	متجه مِحْوري / متَّجه محوري
+axiom	بديهية
+axis	مِحْور / محور
+axis of inertia	محور العَطالة
+axis of lens	مِحْور العدسة
+axis of mirror	مِحْور المِرآة
+axis of revolution	محور الدوران
+axis of rotation	محور الدوران
+axis of symmetry	مِحْور التناظر / محور التناظر
+axis of torsion	محور الفَتْل
+axis of twist	محور الفتل
+axle	جِذع
+axon	محور عصبي
+azimuth	سَمْتٌ / سمت
+azimuthal	سمتي
+azimuthal angle	زاوية السَّمْتِ (ن) / زاوية السمت
+azimuthal quantum number	عدد (ال...) الكمي السّمتي (ن) / عدد كمومي سمتي

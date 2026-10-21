@@ -1,0 +1,137 @@
+Y	سياحي
+Y adapter	مُهايئ على شكل حرف Y
+Y axis	محور الصادات
+Y cable	الكابل على شكل حرف Y
+Y circulator	مدوِّر Y
+y jonction	ملتقى على شكل (Y)
+Y junction; Wye junction	وصلة Y
+Y signal	إشارة Y
+Y value	قيمة Y-
+Y-allocation	تخصيص Y
+Y-alloys	سبائك ألمنيوم
+Y-aXis	المحور الصادي / محور الصادات
+Y-C signal	إشارة Y-C
+Y-channel	قناة Y
+y-chromosome	كروموسوم - Y
+Y-connection	توصيل Y / اتصال نجمي
+Y-cut	قطع صادي
+Y-cut crystal	بلورة صادية القطع
+Y-cut plate	لوح قطع فى محور Y
+y-deflection (oscilloscope)	انحراف في الاتجاه الصاديّ للأوسّيلوسكوب
+y-junction	تَقَاطُع Y
+Y-pipe	ماسورة سروالية
+Y-plates	ألواح صادية
+Y-section	مقطع Y
+Y-valve	صمام Y
+Y-winding	لف مثلثي
+yachting style	طراز اليخت
+Yagi aerial, Yagi antenna	هوائي ياجي
+Yagi-Uda antenna; Yagi antenna	هوائي ياغي أودا
+yak	حيوان الياك
+Yak wool	صوف الياك
+yamamai ilk	حرير الفراشة اليابانية
+Yanbu Wind Farm	مشروع محطة ينبع لطاقة الرياح
+yapp	تجليد فضفاض
+yard	يارد / فناء، ساحة
+yard waste (yard trimmings)	نفايات الساحات أو الحدائق
+yarn	خيط غزل / سلك
+yarn / thread	خيط
+yarn abrasion	خدش الخيط
+yarn and thread names	تسميات الخيوط والغزل
+yarn clearer curve	منحنى تنقية الخيط
+yarn crepe	كريب خيطي
+yarn numbering	تحديد عددي
+yarn parameter	متغير الخيط
+Yarn purity	درجة نقاء خيوط الغزل
+Yaserf	ياسرف
+yaw	الانعراج / دوران حول محور الرفع / انعراج / نظام الانعراج
+yaw (angle) (of a spacecraft)	تعرج (زاوية) (لمركبة فضاء)
+yaw (of a spacecraft)	تعرج (لمركبة فضاء)
+yaw angle	زاوية الانعراج / زاوية التَّعَرُّج
+yaw axis (of a spacecraft)	محور تعرج (لمركبة فضاء)
+yaw aXis, yawing aXis	محور الانعراج
+yaw bearing	محمل الانعراج
+yaw behaviour [UK] / yaw behavior [US]	سلوك الانعراج
+yaw damper	مُخْمِد الانعراج / مُضائل الانعراج
+yaw drive	مِقْوَد التوجيه
+yaw guy	حبل إرساء الانعراج
+yaw lines	أسلاك الانعراج
+yaw moment build-up delay	إبطاء تكوين عزم الإنعراج
+yaw moment compensation	معادلة عزم الانعراج
+yaw motor	مُحرِّك الانعراج
+yaw pointing	تأشير الانعراج
+yaw rate	معدل الانعراج
+yaw rate (of a spacecraft)	معدل تعرج (لمركبة فضاء)
+yaw rate sensor	مستشعر معدل الانعراج
+yaw stability	اتزان الانعراج
+yaw string	سلك الانعراج
+yaw-guy wires	أسلاك إرساء الانعراج
+yawed wing	جناح منعرج
+yawhead	رأس انعراج
+yawing	انحراف
+yawing moment	عزم الانعراج
+yawmeter	مقياس الانعراج
+year	سَنَة
+yearbook	دليل سنوي
+yearling wool	صوف الحمل
+yeast	خميرة
+yellow arc	قوس أصفر
+yellow caution zone	منطقة تنبيه صفراء
+yellow code number plate	لوحة ترميز/ ترقيم صفراء
+yellow metal	معدن (ال..) الأصفر
+yellow minerals	معادن صفراء اللون
+yellow mud	طين أصفر
+yellow sector	قُطّاع أصفر
+yellow spot	لطخة (ال...) الصفراء
+yellow stained	تلوين بالأصفر
+yellow straw paper	ورق قش أصفر
+yellow straw pulp	لب القش الأصفر
+yellow water	مياه البول الصفراء / مياه صفراء
+yellow wood	خشب أصفر
+yellowing	تصفير / اِصفرار / اصفرار
+yellowish paper	ورق مصفّر
+yield	سَيَلان / غَزارة / حصيلة / خضوع
+yield (finan.)	كسب
+yield (to)	خَضَعَ
+yield class	مستوى العائد
+yield factor of safety	مُعامِل أمان الخضوع
+yield load	حمل الخضوع
+yield management	إدارة الأداء
+yield moment	عَزْم الخضوع
+yield of an aquifer, economic	حصيلة اقتصادية للطبقة الحاملة للماء
+yield of digester gas, practical	ناتج تقنيّ (فعليّ) للغاز الحيوي
+yield of digester gas, theoretical	ناتج الغاز الحيويّ النظريّ
+yield of drainage basin	حصيلة المستجمع
+yield plateau	مستوى الخضوع
+yield point	نقطة السيلان / نقطة الخضوع / حدّ المرونة / نقطة الانصباب
+yield point / yield stress	نهاية حد المرونة
+yield regulation	تنظيم الإنتاجية
+yield strain	تَشوُّه الخضوع
+yield strength	حد الخضوع / حد السيلان / مقاومة الخضوع / مقاومة السيلان، مقاومة الجريان، حد المرونة
+yield stress	إجهاد الخضوع
+yield, annual	حصيلة المستجمع السنوية
+yield, capillary	حصلية شعرية
+yield, specific	حصيلة نوعية
+yield; delivery (hydrol.)	حبيبات رصيف (هيدرولية)
+yobi	يوبى بايت
+yocto (prefix)	يوكتو
+Yoder rolling	دلفنة يودر
+yoke	صلة النِّير / مقرن / أبعاد فعّالة (لدائرة مغناطيسية) / مِقْرَن
+yoke (magnetic)	حافظة
+yoke assembly	مجموعة ملفات الأنحراف / مُجَمِّعة النِّير
+yoke plate	صفحة معلقة العوازل
+yoke skirt	تنورة عالية
+yoke,	مقرن,
+York-Antwerp rules (Y/A)	قواعد يُورْك وأَنتوِيرب
+yotta (prefix)	یوتا
+young fashion	موضة شبابية
+Young's modulus	مُعامِل يونچ
+younger dryas period	فترة دْرِيَاسْ حديثة
+Youngman flap	قلاّبة يونچمان
+Young’s modulus	مُعامِل يونغ
+youth fashion	موضة شبابية
+youth style	نمط شبابي
+yttrium	يتريوم
+yttrium barium copper oxide YBCC	اليتريوم - الباريوم -أكسيد النحاس (YBCO)
+Yucca fibers	ألياف يوكا
+yuppies	جيل الترف

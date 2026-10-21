@@ -1,0 +1,35 @@
+Z- cut crystal	بلّورة قطع عيني
+Z-axis	محور الصادات؛ محور الرواقم
+z-cut crystal	Zبلورة قطع وفق
+Z-parameters of transistor	الوسطاء Z: في الترانزستور
+Zeeman effect	مفعول زيمان
+Zeeman splitting	انفلاق زيمان
+Zener diode	ديود زينر
+Zener voltage	جهد زينر؛ فلطية زينر
+zenith	سَمْت
+zenith telescope	مِقراب السمت
+zeolite	زيوليت
+zero bias	انحياز معدوم
+zero energy level	مستوى الطاقة الصفرية
+zero gravity	انعدام الثقالة؛ انعدام الوزن
+zero law of thermodynamics	القانون الصفري في التحريك الحراري
+zero point energy	طاقة نقطة الصفر
+zero point entropy	اعتلاج نقطة الصفر / أنتروبية نقطة الصفر
+zero point vibrations	اهتزازات نقطة الصفر
+zero potential	كمون صفري
+zero power lens combination	منظومة عدسات قوتها صفر
+zero-power reactor	مفاعل قدرة الصفر / مفاعل القدرة صفر
+zerogravity	انعدام الجاذبية
+Zeta	زيتا
+zeta potential; electrokinetic potential	جهد زيتا
+zigzag lightning	برق متعرج / بَرْق متعرِّج
+zinc	زنك (توتياء)
+zircaloy	خليطة؛ زِركالوي
+zirconium	زِركونيوم
+zirkelite	زِركَلِيت
+zonal aberration	زيغ المنطقة
+zone axis	محور منطقة
+zone of a crystal	منطقة بلّورية
+zone plate	صفيحة مناطق / لوح المناطق
+zone-plate grating	شبكة لوح المناطق
+zoom lens	عدسة متغيِّرة البؤرة

@@ -1,0 +1,4821 @@
+T - beam	جائز T
+t and c pipes; thread and collared pipes	أنابيب مسننة الأطراف و متداخلة
+T antenna	هوائي على شكل T
+t cells	خلايا تائية
+T circulator	مدوِّر Т
+T junction	تقاطع تي / وصلة على شكل (ط)
+T junction; Tee junction; Tee	وصلة T
+T pulse	نبضة T
+t-2 tanker	ناقلة ت-2
+t-amyl methyl ether (tame)	ثلاثي أميل ميثيل الأثير (TAME)
+T-B cell; transmitter blocker cell	خلية معيقة للارسال
+t-distribution	توزيع ستيودنت الاحتمالي
+T-network	شبكة T
+T-R cell; transmit-receive cell	خلية إرسال - استقبال
+T-R switch; transmit-receive switch; radar duplexer	مفتاح تبديل إرسال - استقبال
+T-rail	قضيب T / قضيب تي
+T-section	مقطع بشكل T / مقطع تي
+T-shirt / top	قميص ذو كمين قصيرين
+T-square	مسطرة تائية
+T-tail	ذيل بشكل T / ذَيل تي
+T-time	رقم إسنادي / زمن إسنادي
+T.R. tube (transmit/receive tube)	صمام ارسال واستقبال
+t90 time	ثابت الوقت 90%
+Tab	نموذج فصل نظامي / قلاّب / جدول الحقيقة / قلاّب (ال...) J-K المُتزامن / إِبْزِيم / عروة / سُطيح
+Tab-Vee	ملاجئ مقوّاة
+tabbed flap	قلاّبة بِسُطيح
+table	جناح الجائز / جدولٌ / جدول
+table bushing	جِلْبة الرَّحَى
+Table Driven Code Forms (TDCF)	نماذج الشفرات المجدولة
+table lamp	مصباح المنضدة
+table leg	قائمة الطاولة
+table linens	غطاء للمائدة
+table of contents (in CD or DAT systems); TOC (abbreviation)	جدول المحتويات (في انظمة الأشرطة السمعية الرقمية أو الأقراص المدمجة)
+table setting	طاقم مائدة
+table top	سطح الطاولة
+tables	جداول
+tablet computer	حاسب آلي لوحي
+tablock	فَلَكة مُلَسَّنة
+Tabriz	سجاد تبريزي
+tabular crystal	بلورة صفائحية
+tabular interlocking	تشابك جَدْوَلِيّ
+tabular schedule	برنامج جَدْوَلِيّ
+tabulated altitude	ارتفاع مُجَدْول
+tabulation	جدولة
+tabulation of marine polluants	تصنيف الملوِّثات البحرية
+tabulator	مجدولة
+Tacan	مِلاحة جوية تكتيكية
+Tacbe	منارة تكتيكية
+tache pattern	رسم البقع
+tacheometer	تاكيومتر
+tacheometer levelling	تسوية بالتاكيومتر
+tacheometer survey	مَسْح تاكيومتري
+tacheometry	مساحة تاكيومترية
+tacho signal	إشارة عداد السرعة
+tacho-generator	مولد دوران
+tachogenerator	مُوَّلد تاكو
+tachogenerator; tachometer generator	عدّاد دورات مولِّد
+tachograph	راسم الدورات / مسجل بيانات القيادة
+tachometer	عدّاد سرعة الدوران / مقياس السرعة / عداد السرعة / عداد الدوران / تاكومتر / عدّاد دورات
+tachometer cable	كَبل عدّاد الدورات
+tachometric	مَسْح الأبعاد التلسكوبي
+tachymetric aiming	تسديد بِمَسْح الأبعاد
+Tacjam	تشويش تكتيكي
+tack	مسمار جمع أو تجميع
+tack board	لوحة الاعلانات
+tack coat	طِيلَة أَسَاسِيَّة / طبقة مثبِّتة، طلاء تعليق
+tack rivet	دِسَار
+tack weld	لِحام نقطي / لِحام نقطة
+tack weld gap	ثغرة لحام البقعة
+tackifier	عامل التصاق
+tackle	بكارة، رافعة
+tackle assemble	جهاز الرفع، مجموعة أدوات الرفع
+tackle block	بكارة، بكرة البكارة
+Taconis oscillation	ذبذبة تاكونيس
+Tactel®	تاكتيل ®
+tactical aeromedical evacuation	إجلاء جوي طبي تكتيكي
+tactical air co-ordinator	منسِّق جوي تكتيكي
+tactical air command centre	مركز القيادة الجوية التكتيكي
+tactical air control centre	مركز التحكم الجوي التكتيكي
+tactical air navigation system	نظام الملاحة الجوي التكتيكي
+tactical air officer	ضابط جوي تكتيكي
+tactical aircraft shelter	ملجأ طائرات تكتيكي
+tactical bomb line	خط قنابل تكتيكي
+tactical co-ordinator	منسِّق تكتيكي
+tactical evaluation	تقويم تكتيكي
+tactical grazing	رعي تكتيكي
+tactical planning	تخطيط تَكتِيكي
+tactical; theatre	تكتيكي
+taenite	تينايت
+taffeta	تافتاه
+taffeta velvet	قطيفة تافتاه
+taffeta weave	نسيج تافتاه
+tag	شعار
+tail	ذَيْل (طائرة) / تعقُّب من الخلف / ذَيل
+tail (foot margin)	هامش الذيل، بياض الذيل
+tail (of a sewer)	نهاية (قناة)
+tail bamper	مِرطَم الذيل / مِصدَم الذيل
+tail boom	دعامة الذيل / ذراع الذيل
+tail chute; tail parachute	مظلة الذيل
+tail drag	كابح الذيل / كبح الذيل / مجرور الذيل / مقاوَمة الذيل
+tail end indicator	مؤشر المؤخرة
+tail escape	مفيض النهاية
+tail fin	زعنفة خلفية / زعنفة الذيل
+tail float	عوّامة الذيل
+tail gas	غاز الانفلات، غاز العادم
+tail guy	حبل إرساء الذيل / شدّادة الذيل
+tail heaviness	ثقل الذيل / هبوط الذيل
+tail lamp	لمبة المؤخرة
+tail light	ضوء في مؤخرة القطار
+tail load	حِمل الذيل
+tail logo	علامة الذيل / علامة ذيلية
+tail logo light	ضوء علامة الذيل
+tail marker	ضوء خلفي
+tail number	رقم الذيل
+tail of a voltage pulse	نهاية موجة الجهد الدفعى
+tail piece	كمامة ماسورة العادم / حلية الخاتمة
+tail pipe	أنبوب ذيلي، أنبوب خروج، أنبوب انطلاق
+tail post	دعامة محور مرفاع النزح
+tail race / after-bay	دليل مخرج خلفيّ
+tail rotor	دوّار الذيل / مروحة الذيل
+tail setting angle	زاوية تثبيت الذيل
+tail surface	سطح ذيلي
+tail undercarriage	عُدّة حط ذيلية
+tail unit	وحدة الذيل
+tail view	منظر خلفي / منظر ذيلي
+tail warning radar	رادار تحذير خلفي / رادار تحذير ذيلي
+tail water level	منسوب الماء السفلي
+tail water reservoir	خزان الماء المنصرف
+tail wind	ريح خلفية / ريح ذيلية / رياح مواتية، رياح خلفية
+tail-down landing	حط بخفض الذيل
+tail-end charlie	طائرة خلفية / مدفع خلفي
+tailcoat	بذلة السهرة الرسمية
+tailcone	مخروط الذيل
+taildragger	طائرة بِعجلة خلفية
+tailed delta	طائرة دلتا بِذَيل
+tailfeathers	أرياش الذيل
+tailing	إمتداد , تذنب
+tailings	مخلفات المناجم / نفايات منجمية / مخلفات
+taillamp [UK] / taillight [US]	مصباح المؤخرة
+tailless aircraft	طائرة بلا ذيل / طائرة لاذيلية
+taillight	ضوء خلفي
+tailor made	نمط طايلور
+tailored blanks	ألواح مُفصّلة حسب الطلب
+tailored costume	بذلة مُفَصَّلة
+tailored fuel	وقود مفصَّل / وقود مواءَم
+tailored jacket	سترة
+tailored tubes	قطاعات مجوفة مُفصّلة حسب الطلب
+tailor’s linen / interlining canvas	كتّان صُلب
+tailpipe	أنبوب الذيل
+tailplane	سطح الذيل
+tailrace; after-bay	قناة سفلى
+tailsitter	طائرة جالسة على الذيل
+tailskid	زحّافة الذيل
+tailskid shoe	حذاء زحّافة الذيل
+tailslide	انزلاق خلفي / انزلاق ذيلي
+tailspin	انهيار تدويمي ذيلي
+tailwater	مياه المصرف السفلي
+tailwater rating curve; downstream stage discharge curve	مُنحنى تصريف مقابل منسوب الخلف
+tailwheel	دولاب الذيل / عجلة الذيل
+tailwheel landing gear	عجلات حط بعجلة ذيلية
+tainted by polluants	فاسد بفعل الملوثات
+tainted fish	سمك ملوَّث
+take	أصل مشترك
+take-back	استرجاع
+take-off	إقلاع
+take-off boost	تعزيز الإقلاع
+take-off distance	مسافة الإقلاع
+take-off mass	كتلة الإطلاق
+take-off power	قدرة الإقلاع
+take-off rating	معدَّلات الإقلاع
+take-off run	مسافة دروج الإقلاع
+take-off safety speed	سرعة الإقلاع الآمن
+take-off weight (TOW)	حمولة عند الإقلاع
+take-off weight limitation	حمولة قصوى عند الإقلاع
+take-off weight; TOW	وزن الإقلاع
+take-over current	تيار الإستلام
+take-over current,	تيار التنفيذ (رمز:IB)
+take-up spool	مقبض البكرة
+takeover	نقل الطاقة
+taking	تقليص الاستعمال ?
+taking out / letting out	توسيع
+talar	تالار
+talbot	تالبوت
+Talbot's law	قانون تالبوت
+talc	طَلْق
+talk-back circuit; communications circuit	دارة الرد
+talk-through	اتصال عن طريق وسيط
+talkdown landing	حط بالتوجيه الأرضي
+Talker	مُتكلّم
+tall aircraft	طائرة عالية
+tall aircraft VASI	مؤشر مَيل اقتراب الطائرات العالية
+Tally Ho	رأينا الهدف
+tally sheet	بطاقة تحميل، صحيفة إِحصاء
+talma	معطف تالما
+Tamped Asphalt	أسفلت مدكوك
+Tampico fiber	ألياف تامبيكو
+tamping	دَكّ / عملية الرص أو الدك
+Tamping machine	آلة الرص أو الدك
+tan liquor	محلول غسيل الدبغ
+tandem	ترادف / ترادفي / مترادِف
+tandem actuator	مُشغِّل ترادفي
+tandem axle	محور ترادفي / جزع ترادفي، محور دولاب ترادفي
+tandem bicycle gear	عجلات حط ثنائية ترادفية
+tandem boost	محركات تعزيز ترادفية
+tandem compound engine	محرك تَرادُ في مركَّب
+tandem main gear	عجلات حط رئيسة ترادفية
+tandem master cylinder	أسطوانة فرامل رئيسية ترادفية
+tandem motor	محرك تزامنى
+tandem propellers	دواسر ترادفية
+tandem pump	مضخة ترادفية / مضخة جنبا إلى جنب
+tandem roller	محدلة ترادفية
+tandem rotors	دوّارات ترادفية
+tandem seating	مقاعد ترادفية
+tandem vehicle	مَركبة ترادفية
+tandem-compound set	مجموعة ترادف مركبة
+tandem-wheel gear	عجلة حط ترادفية
+tandem-wing aircraft	طائرة ترادفية الأجنحة
+Tanegashima	تانيچاشيما
+tanga	تانغا
+tangen galvanometer	مقياس غلفاني ظلي
+tangent	مماس
+tangent modulus	مُعَامِل مَماسيّ / مُعامِل المرونة المماسي
+tangent of camber	مماس التقوُّس
+tangent of the loss angle (of a capacitor); tan δ (abbreviation)	ظل زاوية الفقد (لمكثف)
+tangent stiffness	قَسَاوَة مَماسيّة
+tangential	تماسي
+tangential drive	محرك مماسي
+tangential ellipse	قطع ناقص مماس
+tangential junction,	وصلة تماس,
+tangential landing	حط مُماسي
+tangential leaf spring	ياي ورقي مماسي
+tangential projection	إسقاط مماسى
+tangential shrinkage	انكماش مماسي
+tangential signal	إشارة تماسّية
+tangential therapy	علاج تماسّي
+tangential tracking control	تحكم بمسار تماسي
+tangential velocity	سرعة مماسية
+Tangible investment (for railway enterprises)	الاِسْتِثْمارُ الحَقِيقِيّ لِشَرِكاتِ النَّقْلِ بِواسِطَةِ الخُطُوْط الحَدِيدِيَّةِ
+Tango	علامة بشكل T
+tango fashion	طراز الطانغو
+Tanguis	تانجويز
+tank	خزان / خزان الوقود / صِهْريج (خزان) / خزّان، صهريج / صهريج / خَزّان / صِهْرِيج، خزان
+tank (cistern)	صهريج
+tank battery	مجموعة صهاريج
+Tank Capacity	سعة الخزان
+tank car	عربة صهريجية / عَرَبَة صهريج / عربة صهريج
+tank circuit	دارة خازنة
+tank cleaning system	نِظام تنظيف الحوض
+tank container	حاوية صهريج
+tank draw-offs	تفريغ الخزانات
+tank farm	مَزْرَعَة خَزّانات / منطقة خزانات / ساحة الخزانات / حظيرة تخزين
+tank floor flow velocity	سرعة الجريان في القاع
+tank fuel sensor	حسّاس مستوى امتلاء خزان الوقود
+Tank Gauging	قياس الخزان
+tank gross	إجمالي الخزان
+tank locomotive	قاطرة صهريج
+tank overflow structure	فائض الحوض
+tank roof seals	وُصلَات إحكام سَقْف الخزان
+tank roof shoes	ألواح تدعيم سطح الخزان
+Tank Sampling	عينات الخزان
+tank sealer	مانع تسرُّب الخزان
+tank sewer	قناة تخزين
+tank sewer / sewer with storage capacity and overflow	قناة تخزين
+tank shell	هيكل الخزان، جدران الخزان
+tank ship	ناقلة نفط، شاحنة صهريج، قاطرة صهريج
+Tank Ship (Tanker)	ناقلة
+tank sketch plates	لوحات مخطط الصهريج
+tank sludge	رواسب قعر الخزان
+tank top	قميص داخلي بدون أكمام / ملابس علوية
+Tank Trailer	مقطورة صهريج / مقطورة بصهريج
+tank truck	شاحنة صهريج
+Tank Valve Seal	ختم صمام الخزان
+tank wagon	عَرَبَة صهريج
+tank, balancing / tank, equalising/regulating/surge	حوض مُوازنة
+tank, circular	حوض دائري (لمُعالجة مياه الصرف)
+tank, detention / storage reservoir	حوض تخزين
+tank, sludge	حوض (ترسيب) الحمأة
+tank, stormwater	خزّان مياه الأمطار
+tank, stormwater balancing	حوض مُعادلَة مياه الأمطار
+tank, stormwater holding	حوض احتجاز مياه الأمطار
+tank, stormwater sedimentation	حوض مُعالَجة مياه الأمطار
+Tank-to-Wheel	من الخزان إلى العجلة
+tankage	سعة التخزين
+tanker	طائرة إمداد / ناقلة
+tanker aircraft	طائرة تزويد
+tanker ship	سفينة صهريجية
+tanker wagon	عَرَبَة نقل صهريجية
+tanks	صهاريج
+Tanner triangle	مثلث تانر
+tannery	مَدْبَغة
+tanner’s wool	صوف مدبوغ
+tanning materials	مواد دباغية
+tantalite	تانتلايت
+tanzanite	تنزانايت
+tap	مِثقاب اللوالب / مأخذ / نقطة تفريع / استنزاف / ذَكَر لولبة / فصد / لولبة الثقوب / نقطة تفرُّع
+tap bolt	محزقة مُلَوْلبة
+tap position indicator	مبين موقع المأخذ
+tap root	جذر عمودي
+tap selector	مختار (منتق) المأخذ
+tap water	ماء الصنبور
+tap-change in progress indicator	مبين تقدم عملية تغيير المأخذ
+tap-change operation	عملية تغيير المأخذ
+tap-water membrane	غِشَاء مياه الصنبور
+tape	شريط
+tape control	تحكم شريطي / تنظيم (ضبط) الشريط (في جهاز تشغيل وحدة الأشرطة المغناطيسية في الحواسب)
+tape deck	سطح الشريط
+tape editing	تحرير الشريط
+tape guide	دليل الشريط
+tape heating element	عنصر تسخين شريطي
+tape instrument	جهاز شريطي
+tape mission	مهمة شريطية
+tape printer	طابعة بشريط
+tape recorder	مسجل شريطي
+tape speed	سرعة الشريط
+tape teleprinter	طابعة عن بعد على شريط
+tape tension	شد الشريط
+tape transport system	نظام حركة الشريط
+tape-reading head; tape-reader	رأس قارئ شريطِ
+taped components	عناصر شريطية
+taped joint	وصلة ذات شريط ملفوف
+taped termination	نهاية ذات شريط ملفوف
+taper	قطعة مُستَدَقَّة / استدقاق / تناقص تدريجي
+taper / cone	مخروط
+taper pipe	أنبوب مستدق، أنبوب مشطوف
+taper ratio	نسبة الاستدقاق
+taper reamer	مِسْحَل متدرج
+taper roller bearing	محمل أسطوانة مُسْتدقَّة
+taper tag	حربة التقاط
+taper tap	ذَكَر لولبة مستدق
+taper; reducer	مُهايئ تصغير
+tapered	مستدق، مشطوف
+tapered aeration	تهوية منتقَصَة
+tapered compression piston ring	حلقة ذات جانب مستدق
+tapered fibre	ليف بصري متدرج؛ الياف متناقصة تدريجيا
+tapered flange beam	جائز ذو أجنحة مستدقة
+tapered pants	سراول مخروطية
+tapered sheet	لوح مستدَق
+tapered spiral auger	مِثْقَب يدوي حلزوني مُسْتدَق
+tapered waveguide	دليل موجة مخروطى
+tapered wire rope	حبل سلكي مستدق
+tapering pod auger	مثقاب ذو أُخدود مستقيم، مثقب يدوي مدبَّب ذو قُمْع
+tapering wheel lathe	مِخْرَطَة لِبْري أطراف الأدوات
+tapestry	سجاد جداري
+tapewriter	آلة كاتبة على شريط
+Tapilon	ألياف تابيلون ®
+taping	قياس مباشر بالشريط
+Tapley meter	مقياس تاپلي
+tapped (tee off) substation	محطة احادية التغذية؛ محطة محولات مغذاه من نقطة تفريع
+tapped line; teed line	خط رئيس متفرع
+tapped substation	محطة احادية التغذية
+tapped transformer	محول بتفريعات
+tapping	تفريع
+tapping bay	كوّة (فتحة) الصبّ
+tapping block	مجموعة تفريع
+tapping box	صندوق تفريع
+tapping contactor	ملامس تفريع
+tapping current of a winding	تيار التفريع لملف
+tapping duty	نظام المآخد(التفريع)
+tapping factor	عامل التفريع
+tapping point	نقطة التفريع
+tapping power of a winding	قدرة التفريع لملف
+tapping quantities	كميات التفريع
+tapping range	مدى التفريع (الضبط)
+tapping spout	صنبور الصبّ
+tapping step	خطوة التفريع (الضبط)
+tapping voltage of a winding	جهد مأخذ ( لملف)
+tapping voltage ratio (of a pair of windings)	نسبة تحويل مأخذ الجهد لملفين
+tapping; tap	مأخذ,تفريعة
+taprooted	ذات جذر رئيسي ثخين
+tar	قَطران / قطران
+tar macadam	مكدام قطراني
+tar paint	طلاء قطرانيّ
+tar paper	ورق قطراني
+Tar Sand	رمل قاري / رَمْل حُمَّرِي
+tar-stabilized soil	تُربة مُثَبَّتَة بالقَطرَان
+tare	وزن الفارغ / فارغ
+tare effect	ظاهرة الفراغ / ظاهرة اللاجريان
+tare mass of a vehicule	كتلة فارغة لمركبة
+tare weight	وزن الفارغ
+target	هَدف / هدف / إشارة
+target (biological)	هدف (بيولوجي)
+target (of an X-ray tube)	هدف (أنبوب أشعة سينيةِ)
+target (of environmental pollution)	هدف (تلوث بيئي)
+target acquisition	استحواذ على الهدف
+target allocation; targeting	تخصيص الأهداف
+target angle; anode angle	زاوية الهدف
+target approach point	نقطة الاقتراب من الهدف
+target area	منطقة مُستهدفة
+target catch	صيد مستهدف
+target combat air patrol, target CAP	عَسَس جوي قتالي حول الهدف
+target crossing speed	سرعة عبور الهدف
+target date	موعد الهدف
+target designation	تحديد الهدف / تعيين الهدف
+target designation control	جهاز تحديد الهدف
+target director post	مركز التوجيه إلى الهدف
+target discrimination	تمييز الأهداف
+target distance	مسافة مستهدفة
+target dossier	ملف الهدف
+target drone	طائرة هدف / هدف طائر
+target indicator	مُبيِّن الهدف
+Target Magnet	المغناطيس الهدف
+target marker	دليل الهدف / مَعْلَم الهدف
+target market	سوق مستهدفة
+target of opportunity	هدف مُواتٍ
+target pattern	نمط الهدف
+target price	سعر مستهدَف
+target reverser	عاكس مسدَّد
+target rock formation	تكوين صخري مُستهدف
+target speed	سرعة مستهدفة
+target tape	شريط الهدف
+target theory	نظرية الهدف
+target threshold speed	سرعة المَشرِف المستهدفة
+target tug	ساحِب الهدف / قاطرة الهدف
+target-following radar	رادار تتبُّع الهدف
+target; targeting	استهداف / ضبط على الهدف
+targeted time table	جدول زمني مستهدف
+targeting	توزيع الأهداف
+targets	أهداف
+tariff	تعريفة، تسعيرة / تعرفة / التعرفة الجمركية / تعريفة / تعرفة؛ التعريفة
+tariff (general)	تعريفة جمركية
+tariff barriers	حواجز جمركية
+tariff customer	زبناء التعريفة
+tariff obligations	التزامات التَّعرِفَة
+tariff system	نظام التعرفة
+tariff zones; fare zones	حُدُود التَّعرِفَة
+tariff; fare	تَعرِفَة
+tariffing	وَضْع تعريفة، تسعير
+tarlatan	تاريتان
+tarmac	طَرِيق أسفَلتِي / مَوقف ممهّد للطائرات / مَجْثَم، ساحة المطار
+tarmacadam	مكدام قطراني، مكدام مسفلت
+tarpaulin	قماش مُشمَّع / مُشمَّع، قماش مشمع
+tarpauling	التربولين
+tarred	مقطرن
+tarry residues	مخلَّفات قَطِرانية
+Tars	قطران
+tartan	طارطان
+tartan / plaid	مربعات اسكوتلاندية / طراز اسكتلاندي
+TAS Platform Operating System	نِظامُ تَشْغِيلِ مِنَصَّةِ TAS
+TAS; true airspeed	سرعة هوائية حقيقية
+Task	مُهمَّة
+task area	منطقة العمل
+task,	مهمة,
+tasked	متطلبات المهمة / مستلزمات المهمة
+tasking	تخصيص المهام / توزيع المهام
+taslan yarn	خيط غزل تاسلان
+taste and odors	طعم (ال...) والرائحة
+Tasval	نجاة الطائرات التكتيكية
+tatting	مشغولات مُزرَكَشَة
+tatting lace	دانتلا مُزرَكَشَة
+tattle tape	مسجِّل معدَّل الحفر كل 8 ساعات
+tattoo pattern	نماذج وشوم
+taungya	تونغيا
+taX	أضواء طريق الدروج
+tax / charge / levy / fiscal/public charge	ضريبة
+tax credit	اعتماد ضريبي
+Tax Incentives	الحوافز الضريبية
+tax reference prices	أسعار مرجعية لحساب الضرائب
+tax relief	تخفيض ضريبي
+tax-free shop	متجر معفى من الضرائب
+tax-shifting	تحويل الضرائب
+tax; levy	ضريبة
+taXi-channel marker	علامة قناة الدروج
+taXi-holding position	موضع إيقاف الدروج
+taxi-in	سَيْر عند الوصول
+taxi-out	سَيْرعند الإقلاع
+taXi; taXiing	دروج
+taxiing light	ضوء الطائرة أثناء السير على المدرج
+taxis	انتقال
+taXitrack	شِعْب الدروج
+taxiway	مَدْرَج / طريق الدروج / مَدْرَج، منحدر
+taxon	أصنوفة
+taxonomic diversity	تنوع تصنيفي
+taxonomy	نظام التصنيف
+taxying	سَيْر الطائرة فوق أرضية المطار
+Taylor diagram	رسم تايلور البياني
+Taylor series	سلسلة تايلور
+Taylor/Maccoll solution	حل تايلور/ماكول
+Taylor/Maclaurin eXpansion	نَشْر تايلور/ماكْلوران
+TBM	آلة حفر الأنفاق
+TE mode; transverse electric mode; H mode (deprecated)	نمط كهربائي مستعرض (رمز TE)
+tea chest	صندوق للشاي
+tea gown	فستان شاي
+tea towel fabric	منشفة الأواني
+Teach in Programming	برمجة من خلال التلقين
+teak	تيك، ساج / خشب التك
+teak wood	خشب التيك
+teampack	ربطة الفريق
+tear away pants	سروال بفتحة جانبية
+tear fault	صَدْع التمزُّق
+tearaway connector	وصلة ممكنة الانتزاع
+teardown	تفكيك
+teardrop canopy	ظُلَّة الدمعة
+tearing; line tearing	تمزق ( في الصورة )
+tearoff cap	غطاء سريع النزع
+tease	تشغيل معوِّق
+teaser transformer	محول طوري
+tebi	تيرابايت
+technamation; technical animation	تحريك فني
+technical arbitration	التحكيم التقني
+technical assistance	مساعدة تقنية
+technical assistance (TA)	مساعدة تقنية
+technical availability	إتاحة تقنية
+technical bureau	مكتب تقني
+technical connection conditions; technical connection requirements	شروط تقنية للربط
+technical consent	موافقة تقنية
+Technical Control Board	الهيئة الألمانية للرقلبة الفنية (TÜV)
+Technical Data Sheet	وَرَقَةُ البَياناتِ الفَنِّيَّةِ
+technical delay	تأخير فنى؛ تأخير تقنى / تأخير فني
+Technical Description	الوَصْفُ الفَنِّيّ
+technical documentation	وثيقة فنية
+technical drawing	ورق مُربعات / رسم فني
+technical electrics	كهربائيات فنية
+Technical Equipment Room	غُرْفَةُ المُعِدّاتِ الفَنِّيَّةِ
+technical failure	خلل وظيفي
+technical geothermal potential	مصادر الطاقة الحرارية الأرضية التقنية
+Technical Guidelines for Disposal of Municipal Solid Waste	دليل الإرشادات التقنية للتخلّص من النفايات البلدية
+Technical Guidelines for Waste Disposal	دليل الإرشادات التقنية للتخلّص من النفايات
+technical information	رسالة تقنية
+Technical Inspection Association	هيئة الفحص الفنيّ الألمانية TÜV
+technical instructions: air	توجيهات تقنية: الهواء
+Technical Investigation of Railway Accidents and Incidents	التَّحْقِيْق الفَنِيّ في حَوَادِثِ الخُطُوطِ الحَدِيَّديّةِ وعَوَارِضِها
+technical nutrient	مغذيات تقنية
+technical person with executive function	شخص فنى ذو وظيفة تنفيذية
+technical potential	إمكانيات تقنية
+technical potential demand for geothermal energy	الطلب على مصادر الطاقة الحرارية الأرضية التقنية
+technical process	عملية فنية
+Technical process flow diagram, process computer	حاسوب العمليات في الرسم البياني الوظيفي للعمليات الصناعية
+technical report	تقرير تقني
+technical resource,	مصادر بيانات الأرصاد التقنية,
+technical resources	موارد تقنية
+technical safety report	التقرير الفنى للأمان
+Technical Safety Review	مراجعة فنية للأمان (النووي)
+Technical Specification of lnteroperabiliiy	المُواصَفاتُ الفَنِّيَّةُ لِلتَشْغِيلِ المُتَبادَلِ
+Technical Studies Department	دائرة الدراسات الفنية
+technical supervision	إشراف تقني
+technical support	دعم تقني
+technical survey	مَسْح فني
+Technical system	نظام تقني
+Technical Teams	فرق فنية
+technical work	شُغل ميكانيكي
+technical yarns	خيوط غزل تقنية
+technically closed	منتهية فنياً
+technician's terminal	معدة إختبار فنية
+technique, engineering	تقنية و هندسة
+techno look / techno fashion	طراز التكنولوجيا
+technological change	تغيير تكنولوجي
+technological hazard	خطر تكنولوجي
+technologies of humidification-dehumidification	تقنيات الترطيب والتجفيف
+technology	تكنولوچيا / تكنولوجيا / تقانة، تكنولوجيا
+Technology assessment	تقييم التكنولوجيا
+technology bridge	مرحلة تكنولوجية انتقالية
+technology decision	قرار تكنولوجي
+technology mix	خلط التكنولوجيات
+Technology Readiness Level (TRL)	مستوى الجاهزية التقنية
+technology transfer	نقل التكنولوجيا
+Technology Vendor	مورد التقنية
+technology, desalting	تقنية تحلية مياه البحر
+technology, remote control	تكنولوجيا التحكم عن بعد
+technology-specific acceptance	قبول تكنولوجيا
+Technora Microft®	تكنورا ميكروفت ®
+Techroll	تِكرول
+tectonic	تكتوني / صفائح صخرية تكتونية
+tectonic activity	نشاط تكتوني
+tectonic earthquake	زلزال تكتوني
+tectonics	علم بنية الأرض / علم تكوين القشرة الأرضية وحركات تشكيل الصخور
+tectosilicates	سيليكات تكتونية
+teddy / body	قميص تيدي
+teddy boy	تيدي بوي
+teddy plush	قطيفة تيدي
+Tedlar	تدلار
+tee	دوّارة تائية / وصلات بثلاث شعب، وصلة على شكل (T)
+tee connector	وصلة تائية
+tee coupler	رابط ثلاثى شكل "T"؛ قارن بشكل حرف T
+tee fitting	وُصْلة تفريع / وصْلَة حقلية حَرف T
+tee gearboX	تعشيق تائي
+tee handle	مقبض حرف 'T' المُنزلق
+tee joint; T joint	وصلة على شكلT
+tee junction	ملتقى تائي
+tee,	وصلة تفريعة, تسخين بالتتبع
+teenager fashion	موضة المراهقة
+teetering rotor	دوّار متأرجح
+Teflon	تفلون
+Teflon®	تيفلون®
+Teflon® yarn	خيط غزل تيفلون®
+tegula; eaves tile	قرميدة سقف
+tegument	غلاف (بذري)
+tektites	تكتيت
+teleaction service	خدمة الفعل عن بعد
+teleadjusting	تبديل عن بعد
+telebrief	اتصال هاتفي
+telecine	جهاز تحويل الاشارة من الفيلم السينيمائي الى التلفاز
+teleclinometer	مقياس الانحدار
+telecom; telecommunication	اتصال عن بُعد
+telecommand	تعداد عن بعد / أمر تحكم عن بعد
+telecommunication	اتصال عن بعد
+telecommunication equipments	معدات الاتصال السلكية واللاسلكية
+Telecommunication management network	شَبَكَةُ إِدارَةِ الاِتِّصالاتِ
+telecommunication network; telecommunication system, US	شبكة اتصالات / شبكة إتصالات عن بعد
+telecommunication security	أمن الاتصالات عن بعد
+telecommunication service	خدمة الإتصالات
+telecommunications network	شبكة الاتصالات
+telecommunications system	نظام الاتصالات
+teleconference	مؤتمر باستخدام شبكة الاتصالات؛ مداوله عن بعد / تباحث عن بُعد / تداول عن بُعد
+teleconnection	اتصال عن بعد
+telecontrol	محول من التوازي إلى المتتالي / تحكم عن بعد
+telecontrol configuration	محطة خارجية محطةخاضعة للتحكم محطة نائية محطةتابعة
+telecontrol transfer time	زمن كلي للإرسال
+telecounting; transmission of integrated totals	مراقبة البيان عن بعد؛ مراقبة الاشارة عن بعد
+teledistortion	تشوة عن بعد
+telefax	ناسوخ
+telegram	برقية / برقيّة
+telegram length	طول البرقية
+telegram service; public telegram service	خدمة البرقيات
+telegram,	برقية,
+telegraph	مُبرقة
+telegraph channel	قناة إبراق
+telegraph circuit	دارة إبراق
+telegraph code	شفرة برقية
+telegraph demodulator	مزيل تضمين إبراق
+telegraph discriminator	مميز إبراق
+telegraph junction circuit	دارة ربط ابراق
+telegraph modulation	تضمين برقي
+telegraph modulator	مضمن إبراق
+telegraph multiplex	إبراق متعدد الارسال
+telegraph noise ; key clicks	ضوضاء برقي
+telegraph pole	عمود تلغرافي
+telegraph regenerative repeater	مكرر إبراق مجدد
+telegraph relay	مرحل إبراق
+telegraph repeater	مكرّر برقيةِ
+telegraph service	خدمة برقية
+telegraph signal	إشارة برقية
+telegraph switching exchange	تبادل فصل وتوصيل الابراق
+telegraph transit exchange	تبادل عبور الابراق
+telegraph transmitter	مرسل برقية
+telegraph trunk circuit	دارة قناة ابراق
+telegraphy	الارسال البرقي / إبراق / التِلِغْرافُ
+teleguidance	توجيه عن بعد
+telehealthcare	رعاية صحية عن بعد
+teleindication; telesignalisation (deprecated)	نقل القياسات عن بعد
+teleindicator	مُبين عن بُعد
+teleinstruction	ضبط عن بعد
+telematic	النظام الاتصالي
+telematics (services)	خدمات الاتصال عن بعد
+telematics systems	أنظمة خدمات الاتصال عن بعد
+telemeasuring equipment	محول إشارات مقاسة (بخرج كهربائي)
+telemedical care centre	مركز رعاية طبية عن بعد
+telemedicine	تشخيص طبى عن بعد
+telemeter	مقياس المدى / مقياس بعدي
+telemetering	قياس عن بعد / مراقبة عن بعد
+telemetering device (equipment), telemeter	تجهيزة قياس عن بُعد
+telemetry	نظام القياس عن بُعد / قياس عن بُعد
+telemetry; telemetering	قياس عن بعد
+telemonitoring	تحكم عن بعد / مراقبة عن بعد
+telemonitoring system	نظام مراقبة عن بعد
+telephone	هاتف، تلفون
+telephone answering and recording set	جهاز رد و تسجيل المكالمات
+telephone answering set	جهاز اجابة الهاتف
+telephone block	مجموعة هاتف
+telephone booth	مقصورة هاتف
+telephone earphone	سماعة أدن للهاتف
+telephone exchange	موزع الهاتف، مقسم الهاتف / مَقْسَم (سنترال)
+telephone frequency; voice-frequency (deprecated in this sense)	تردّد هاتفي
+telephone microphone; capsule telephone microphone	ميكروفون هاتفي
+telephone network	شبكة هاتفِ
+telephone receiver	مستقبل الهاتف
+telephone set; telephone instrument	جهاز هاتف
+telephone stall	مقصورة هاتف مفتوحة
+telephone station	محطة هاتف
+telephone switchboard	مقسم هاتفي، لوحة التحكم
+telephone-type channel	قناة (هاتفية) / قناة نوع - هاتف
+telephone-type circuit	دارة هاتفية / دارة نوع - هاتف
+telephonometry	قياسات هاتفية
+telephony	الإرسال الهاتفي / إرسال هاتفي
+telephotography	تصوير عن بُعد
+telephotometer	مقياس الضيائية عن بُعد
+telepoint base station	محطة قاعدة رئيسية للاتصال المتابعد النقاط
+telepoint service	خدمة اتصال متباعد النقاط
+teleprinter; teletype	مبرقة طابعة
+teleprinter; teletypewriter (US)	طابعة عن بعد
+teleprinting; teletyping	ابراق مطبعي
+teleprocessing	المعالجة عن بعد / معالجة عن بعد / معالجة بيانات عن بُعد
+teleran	تِلِران / نظام ملاحي راداري تلفزيوني
+telerecorder	طابعة عن بُعد
+telerecording equipment for film	جهاز تسجيل عن بعد على الفلم
+teleregulation	تعليمات عن بعد
+telescope	مِنْظار / تداخُل / جزّ / مرقب / مِقراب
+telescope gauge	محدِّد قياس تداخلي
+telescope; telescoping	قَطْل
+telescopic belt conveyor	حزام ناقل تلسكوبي
+telescopic covered wagon	عَرَبَة تلسكوبية
+telescopic level	جهاز تسوية ذو نظارة
+telescopic mast	ساري تلسكوبي
+telescopic tripod	قاعدة التلسكوب
+telescopic-boom truck crane	شاحنة ذات مرفاع تلسكوبي
+telescramble	خَلْط التخاطب عن بُعد
+teleservice	خدمة عن بعد
+teleservice centre	مركزخدمى عن بعد
+teleswitching	أمر عن بعد
+teletex (service)	خدمة ارسال وعرض النص مرئياً / إبراق متحكم به من المشترك بخدمة الطباعة ومعالجة النصوص (خدمة)
+teletherapy	علاج عن بعد
+telethermal deposits	رواسب حرارية بعيدة
+teletrack	تتبع الأثر
+teletraffic	مرور إتصالات عن بعد
+Teletype	مبرقة كاتبة / مبرقة طابعة
+teletype circuit	دَارَة مُبرِقَة طابعة
+teletype setter	صفافة ابراقية
+television	تلفزيون / تلفَزة / رائي
+television broadcasting transmitter	مرسل بث تلفازي
+television broadcasting; DEPRECATED: television	خدمة البث المرئي؛ خدمة البث التلفزيوني / بث تلفازي (خدمة)
+television camera	آلة تصوير تلفزيونية
+television channel	قناة تلفازية
+television command	أوامر تلفزيونية
+television guidance; TV homing	توجيه تلفزيوني
+television programme	برنامج تلفازي
+television projector	عارض التلفاز
+television receiver; TV set	مستقبل تلفاز
+television signal	إشارة تلفاز
+television standard	مواصفة قياسية للتلفاز
+television system	نظام تلفاز
+television test pattern; television test card	نمط اختبار التلفاز
+television viewer	مشاهد
+television; TV	الإرسال المرئي؛ تلفزيون / تلفاز
+televisual	مرئي
+telewriter (1)	آلة كاتبة عن بعد (1)
+telewriter (2); teleautograph	آلة كاتبة عن بعد (2)
+telewriting; teleautography	الكتابة عن بعد / كتابة عن بعد
+telex (service)	تلكس (خدمة) / إبراق متحكم به من المشترك (خدمة)
+telex conversation mode	نمط محادثة تلكس
+Tellegen theorem	نظرية تلليجين
+telling	إبلاغ
+telltale	مُبيِّنة شقوق
+telltale lamp	مِصْباح دَالٌٌّ
+tellurium	تيلوريوم
+tellurometer	قائس مسافات موجي
+teléiscoping derrick	برج حفر تداخلي، برج حفر تلسكوبي
+TEM cell	خلية TEM
+TEM mode; transverse electromagnetic mode; principal mode (deprecated)	نمط كهرمغناطيسي مستعرض (رمز TEM)
+TEmn mode (in a waveguide); Hmn mode (deprecated)	نمط كهربائي مستعرض بمميزات mn (رمز TEmn) (في دليل موجة)
+TEmnp mode (in a waveguide cavity)	نمط كهربائي مستعرض بمميزات mnp (رمز TEmnp) (في تجويف دليل موجة)
+temper	تطبيع / سقي
+temperate highland tropical climate with dry winters (cwb, cwc)	أراضي مرتفعة بمناخ استوائي معتدل مع شتاء جاف (Cwb, Cwc)
+temperate zone	منطقة معتدلة
+temperature	درجة الحرارة
+temperature accountability	حساب حراري
+temperature characteristics of mid-band frequency	خصائص درجة الحرارة لتردد النطاق الأوسط
+temperature class	فئة درجة الحرارة
+temperature classification	تصنيف (ال...) حسب درجات الحرارة
+temperature coefficient	مُعامِل درجة الحرارة / معامل حراري / معامل درجة الحرارة
+temperature coefficient (of the capacity)	معامل درجة الحرارة (للسعة الكهربائية)
+temperature coefficient of effective permeability	معامل درجة حرارة للنفاذية
+temperature coefficient of inductance	معامل درجة حرارة للنفاذية الفعالة
+temperature coefficient of mid-band frequency ; TCF	معامل الحرارة عند تردد النطاق الاوسط
+temperature coefficient of permeability	عامل درجة حرارة للنفاذية
+temperature coefficient of permittivity	معدل تغير السماحية بالحرارة
+temperature coefficient of pressure	معامل حراري للضغط
+temperature coefficient of saturation magnetic polarization	معامل درجة الحرارة للمغنطة المشبعة
+temperature coefficient of saturation magnetization	شدة المجال المنتظم (لمادة مغناطيسية صلبة)
+temperature coefficient of the open-circuit voltage	معامل درجة الحرارة لجهد الدارة المفتوحة
+temperature compensated crystal oscillator; TCXO	مذبذب بلورى معوض حرارى
+temperature compensated power bridge	مقياس قدرة بقنطرة معوضة الحرارة
+temperature compensation	مُعادَلَةُ التغَير في درجة الحرارة
+temperature compensator	مُعوِّض درجة الحرارة، معاوِض درجة الحرارة
+temperature control device,	جهاز التحكم فى درجة الحرارة, تسخين بالتتبع
+temperature control, automatic	التحكم الأوتوماتي في درجة الحرارة
+temperature control, auxiliary signals	التحكم في درجة الحرارة بالإشارات الإضافية
+temperature control, digital	التحكم الرقمي في درجة الحرارة
+temperature control, electronic	التحكم الإلكتروني في درجة الحرارة
+temperature control, manual	التحكم اليدوي في درجة الحرارة
+temperature controller	ثرموستات
+temperature controller,	مجموعة اجهزة لرصد والتحكم فى درجة الحرارة, تسخين بالتتبع
+temperature correction	تصحيح حراري
+temperature correction factor (TCF)	عامل التصحيح الحراري
+Temperature Cut-Off (TCO)	قطع درجة الحرارة
+temperature cyclic drift of mid-band frequency	انحراف الدورة الحرارية عند تردد النطاق الأوسط
+temperature detector	جهاز إنذار لدرجة الحرارة
+temperature difference (thermal flow meter)	فارق حراري في المقياس الحراري للتدفّق
+temperature factor of permeability	عامل درجة حرارة للنفاذية
+temperature field	نطاق درجات الحرارة / مجال الحرارة
+temperature gradient	تَدرُّج درجات الحرارة / تدرُّج درجات الحرارة / تدرّج درجة الحرارة / تدرج حراري
+temperature index; TI (abbreviation)	TI إختصار؛ مؤشر درجة الحرارة ،
+Temperature Indication	مؤشر درجة الحرارة
+temperature inversion	انقلاب درجة الحرارة / انقلاب حراري
+temperature inversion (in the troposphere)	انقلاب الحرارة (في التروبوسفير)
+temperature limiting device	تجهيزة تحديد درجة الحرارة
+temperature limiting device,	جهاز للحد من درجة الحرارة, تسخين بالتتبع
+temperature log	تسجيل درجة الحرارة
+temperature loop	منحنى درجة الحرارة
+temperature radiation	إشعاع مرتبط بدرجة الحرارة
+temperature radiator	مُشِّع حسب درجة الحرارة
+temperature range	مدى درجة الحرارة
+temperature range of the compound	مدى درجة الحرارة للمركب
+temperature recovery factor	عامل استخلاص درجة الحرارة
+temperature rise	ارتفاع درجة الحرارة / الارتفاع في درجة الحرارة
+temperature rise coefficient	معامل ارتفاع درجة الحرارة
+temperature rise limit	حد إرتفاع درجة الحرارة
+temperature self-limiting characteristic	خواص الحدية الذاتية للحرارة
+temperature sensor	حساس درجة الحرارة / مُستشعر درجة الحرارة
+temperature sensor for coolant fan	الحساس الحراري لمروحة وسيط التبريد
+temperature sensor for external temperature	حساس درجة الحرارة الخارجية
+temperature sensor fresh air suction channel	حساس درجة حرارة قناة شفط الهواء المتجدد
+temperature sensor installation	تركيب مُستشعرات درجة الحرارة
+temperature sensor panel	حساس درجة الحرارة بلوحة التوصيلات
+temperature sensor; temperature sensing element	حساس درجة الحرارة
+temperature steel	فولاذ حراريّ
+temperature stress	إجهاد حراريّ
+temperature stress; thermal stress	إجهاد حراري
+temperature survey	مَسْح درجات الحرارة الأرضية
+temperature traverse	مَسْح اجتيازي لدرجات الحرارة
+temperature unit	وحدات درجة الحرارة
+temperature valve	قلاب درجة الحرارة
+temperature weathering	تجوية درجة الحرارة
+temperature-controlled car	عَرَبَةٌ مراقَبةُ الحرارة
+temperature-controlled container	حاوية ذات درجة حرارة مراقبة
+temperature-depth coefficient	معامل العمق-الحرارة
+temperature-rise test	إختبار إرتفاعِ درجةِ الحرارة / اختبار ارتفاع درجة الحرارة
+tempered glass	زجاج أمان أحادي اللوح (TSG)
+tempered hardboard	لوح صلب مسقي
+tempered semitone; half-step	نصف نغمة معدّلة
+tempered whole tone; whole step	نغمة كاملة معدّلة
+tempering	التخمير / تلطيف
+template, templet	صفيحة معايَرة / طبعة
+temple	معْبَد
+Temple-Yarwood equation	معادلة تمپل ـ يارْوود
+templet	معيّرة
+temporal-average intensity	متوسط شدة الكثافة المؤقتة
+Temporary Connection Certificate	شهادة إيصال مؤقت
+temporary desensitizing suppression	إزالة مؤقتة لحساسية الاخماد
+temporary diversion tunnel	نفق تحويل مؤقت
+temporary duty	خدمة مؤقتة
+Temporary Electricity Service Connection	إيصال الخدمة الكهربائية المؤقتة
+temporary flashboards	عارضة تعلية الذروة
+temporary flight restriction	تقييد مؤقت للطيران
+temporary gauge	مِقياس مَناسيب مؤقت
+Temporary Hardness	عسر مائي مؤقت / قساوة مؤقتة
+temporary legal protection	حماية قانونية مؤقتة
+temporary outage	خروج مؤقت
+temporary overvoltage	جهد زائد مؤقت؛ ارتفاع جهد مؤقت
+temporary pavement	رَصِيف مُؤقت
+Temporary Right of Way	أَحَقِّيَّةُ الطَّرِيقِ المُؤَقَّتِ لِلسَّيْرِ
+Temporary Service	خدمة مؤقتة
+temporary signal box	محطة عمل مؤقتة
+temporary single-line working	تشغيل اضطرارى بخط مفرد
+temporary speed limit	الحد الأقصى المُؤَقَّت للسرعة
+Temporary Speed Restriction	تَقْيِيدٌ مُؤَقَّتٌ لِلسُرْعَةِ
+temporary steel overbridge	جِسر فُولَاذِي مُؤَقَّت
+Ten-foot	عشرة أقدام
+Ten-Year Network Development Plan (TYNDP)	خطة عشرية لتطوير شبكة الكهرباء
+tenacity	متانة
+Tenax	ألياف تيناكس ®
+tendency	تغير مع الزمن / نزوع
+tendency to wrinkle	قابلية التكمش
+tender	عَرْض / عَرَبَة تموين / عرض، عطاء
+tender documents	وثائق العطاء
+tender locomotive	قاطرة تموين
+tender(ing)	مناقصة
+tendon	وَتَر شَدّ / تسليح سابق الإجهاد
+Tenley system	نظام تِنلي
+tennantite	تيننتايت
+tennis clothes	لباس كرة المضرب
+tennis racket	مضري التنس
+tennis shirt	قميص التينس
+tennis stripes	خطوط التنس
+tennis table	طاولة التنس
+tenon	لسان
+tenon saw	تلسين
+tenoning	منشار تلسين
+tenoning machine	آلة تلسين
+tenorite	تينورايت
+Tensabarrier	حاجز حبلي
+tensile strength	مقاومة الشد / عَزْم الشد / إجهاد الشد / قُوَّة الشَّد / مُقاوَمة الشدّ / مُقَاوَمَة الشد / مقاوَمة الشد / مقاومة الشدّ، مقاومة الشدّ، مقاومة إجهاد الشد / حَدُّ مرِن للشد، مقاومة الشد
+tensile stress	إجهاد الشد
+tensile stress; tension	إجهاد الشدّ
+tensile test	اختِبَار الشَّد
+tensiometer	مقياس الشد
+tensiometer potential	مقياس التوتر
+tension	شَدٌّ
+tension clamp (for insulated cables)	ماسك شد ( للكابلات المعزولة )
+tension crack	شَقٌّ
+tension fault	صَدْع التوتر، صَدْع الشد
+tension field	حَقْل الشدّ / مجال شد
+tension field beam	جائزمجال الشد / عتبة مجال الشد
+tension flange	جَنَاح (ال...) المشدود
+tension force	قوة الشد
+tension length	طول الشد
+tension membre	شدّاد
+tension normalization	نظم التوتر
+tension pile	وَتِد شدّ
+tension puller; dead-end tool	أداة شد الموصل
+tension set; dead-end assembly (US)	مجموعة الشد
+tension shafts and couplings	أعمدة تركيب وتوصيل
+tension support; angle support; strain support (US)	دعامة شد
+tension wheel	ترس منقسم
+tension wood	خشب الشّدّ أو الجهد
+tensioner; tensioning device	شداد
+tensioning	شَدٌٌّ سابق (لبناء خرساني)
+tensioning station	محطة التوتير
+tensioning strap	أحزمة ربط
+tensor	تنسور رياضي
+tensor permeability	نفاذية نسبية
+tent coat	فستان بندول
+tent cut	تصميم الخيمة
+tent dress	فستان فينلاندي
+tent shape	طراز الخيمة
+tent-peg	وتد الخيمة
+tentacles	أذرع
+tentative list (world heritage convention)	قائمة أولية (اتفاقية التراث العالمي)
+tenth-value layer (abbreviation: TVL); tenth-value thickness (abbreviation: TVТ)	طبقة -عشر القيمة(اختصار TVL)
+tenure	حيازة
+tenure (also long-term tenure, legal tenure, tenure claim, customary tenure)	حيازة (أيضا لفترة طويلة الأجل، حيازة قانونية، مطالبة بالحيازة، حيازة عرفية)
+tephigram	مخطَّط الحرارة و درجة الندى / مخطط الحرارة والأنتروپي
+tephrite	تفرايت
+tera (prefix)	تيرا
+teratogenetic effects	تأثيرات التشوه الوراثي
+teratogenicity	مسخية
+tercom	نظام مقارنة التضاريس
+Terinda®	تيرندا ®
+Terlenka	ترلنكا ®
+term contract (period exceeding 3 months)	عقد طويل الأجل
+term insurance	تأمين مُؤقَّت
+termal fabrics	أقمشةٌ حرارية
+terminal	طرف كهربائي / محطة / نهاية طرفية / نهاية -طرف / نهاية / طرف،نهاية / نهاية , طرف / طرف / حدِّي / صالة المطار / طرف توصيل / محطة طرفية / نقطة طرفية / نهائي / منتهى، مطراف
+terminal (elec.)	طرف كهربائيّ
+terminal (equipment); TE (abbreviation)	طرفية ، نهاية (معدات)
+terminal (for accessories)	طرف - نهاية
+terminal (of a semiconductor device)	طرف( لجهاز شبه موصل)
+terminal adapter; TA (abbreviation)	مهايئ طرفي
+terminal airport	مطار انتهائي
+terminal alternate	محطة انتهائية بديلة
+terminal area	منطقة المحطة
+terminal ballistics	قذفيات انتهائية
+terminal block	صندوق حاوي (لعدّاد طاقة)
+terminal board	لوحة أطراف
+terminal board (elec.)	لوحة الأطراف الكهربائية
+terminal box	صندوق الاطراف؛ صندوق النهايات / صندوق طرف / صندوق نهاية (أسلاك)، صندوق المنتهيات
+terminal building	مبنى المحطة
+terminal clearance capacity	سعة تخليص المحطة
+terminal communications	اتصالات المحطة
+terminal connection method (in telex)	أسلوب توصيل طرفي ( في التلكس)
+terminal control area	منطقة مراقَبة المحطة
+terminal count	عد نهائي
+terminal cover	مجموعة طرفيات توصيل
+terminal designation	تسميات الأطراف
+terminal enclosure; terminal housing (US)	حاوي الأطراف
+terminal end device terminal equipment data terminal equipment	جهاز طرفي
+terminal end effects	تقوير كهربائي
+terminal guidance	توجيه نهائي
+terminal headloss	فاقِد الضاغط النهائيّ
+terminal installation tool	أداة نصب المنتهيات، أداة تضييق فتحات الأنابيب
+terminal is current	محطة حديثة
+terminal jointer	أداة توصيل الأسلاك
+terminal manoeuvring area	منطقة مناورة المحطة
+terminal nosedive	انقضاض طرفي بالمقدمة
+Terminal Operations	عمليات الموانئ
+terminal pair	منفذ ثنائى الطرف
+terminal phase	طَور نهائي
+terminal point	نقطة نهاية
+terminal protector; terminal cover	واقي النهايات، غطاء النهايات
+terminal radar service area	منطقة خدمة رادارالمحطة
+terminal settling velocity	سرعة الترسيب النهائية
+terminal station	نهاية المحطة / المَحَطَّةُ الأَخِيرَة
+terminal station (in a radio-relay system)	محطة مطرافية (في نظام مرحل راديوي)
+terminal support	دعامة نهاية
+terminal VOR	توجيه زاوي نهائي
+terminating	إنتهاء
+terminating admittance	سماحية انهاء
+terminating bar lights	أضواء الحاجز النهائية
+terminating immittance	قبولية معاوقة انهاء
+terminating impedance	معاوقة انهاء / معاوقة نهاية؛ معاوقة طرفية
+terminating traffic	مرور نهائى
+termination	نهاية؛ طرف / نهاية
+termination compartment	حجرة النهايات
+termination fitting	تجهيزات ملحقات النهاية
+terminator	فاصل / فاصِل / مُطفِئ / مُنهِي
+terminator switch	مفتاح الفاصل
+terminus	محطة في طريق مسدود / مَحَطَّةٌ نِهائِيَّةٌ
+termite	أرَضَة
+terms of trade (tot)	محددات التجارة
+ternary	جهاز ثلاثي
+ternary (digital) signal	اشارة ( رقمية ) ثلاثية
+ternary digit rate	معدل رقمى ثلاثى
+ternary, adj	ثلاثى, صفة
+terne plate	صفيحة صلب مَطلية
+Terra (Earth in Latin)	التوصيل الأرضي
+terra-cotta	طين نضيج، صلصال مشوي
+terra-cotta tiles	بلاط صلصال
+terrace	شرفة مكشوفة
+terrace dress	فستان الصيف
+terrace spring	نبع مصطبيّ
+terrain	قطعة أرض
+terrain comparison	نظام مقارنة التضاريس الأرضية
+terrain masking	إخفاء أرضي
+terrain orientation	وُجهة أرضية
+terrain profile	جانبية التضاريس
+terrain-avoidance system	نظام تجنُّب التضاريس
+terrain-clearance system	نظام اجتناب التضاريس
+terrain-following system	نظام متابعة التضاريس
+terrain-profile recorder	مسجِّل جانبية التضاريس
+terrane	تِرُّان
+terrazzo	تريسة، ترازو
+terrestrial	أرضي
+terrestrial camera	جهاز تصوير أرضي
+terrestrial humus	دبال أرضي
+terrestrial photogrammetry	تصوير مساحي أرضي
+terrestrial radiocommunication	اتصال راديوي أرضي / إتصالات راديوية (لاسلكية) أرضيه
+terrestrial reference guidance	إرشاد إسنادي أرضي
+terrestrial refraction	انكسار أرضي
+terrestrial scintillation	تلألؤ أرضي / وميض أرضي
+terrestrial station	محطة أرضية / محطة أرضيّة
+terrigenous deposits	رواسب أرضية المنشأ
+territorial waters	مياه إقليمية
+territory	أرض (خاصة)
+terry / terrycloth	منشفة
+terry bedding	فراش وبري
+terry goods	أقمشة تجفيف غير تقليدية
+terry towel	قماش تجفيف مدمج
+terry towels / terry towel fabrics	أقمشة تجفيف منسوجة
+terry velour	فيلور وبري
+Tersi	تِرسي
+tert butyl alcohol	كحول ثالثي بوتيل
+tertiary airflow	جريان هوائي ثلاثي
+tertiary axis	محور من الدرجة الثالثة
+tertiary collection system	نظام جمع ثالثي
+tertiary consumers	مستهلكين ثالثيين
+tertiary control	تحكُّم ثالثي
+tertiary digital group	مجموعة رقمية ثلاثية
+tertiary effluent	صادِر ثلاثيّ
+tertiary era	عصر (ال..) الثالث
+tertiary filtration	ترشيح ثلاثيّ
+tertiary function	وظيفة إضافية
+tertiary holes	فتحات ثلاثية
+tertiary period	حقبة ثالثة / عَصْر ثَالِثي
+tertiary recovery	استعادة ثالثية
+tertiary sludge	حَمْأَة المرحلة الثالثة
+tertiary treatment	معالجة ثلاثية
+tertiary winding	ملف ثلاثي
+Terylen	تريلين ®
+Tesil	تيسيل ®
+tesla	تِسلا
+Tesla Air Suspension (TAS)	نظام تعليق تسلا الهوائي
+tesla coil	ملف تِسلا / وشيعة تِسلا
+test	إختبار
+test / testing / trial	اختبار
+test / trial	تجربة
+test acceleration factor	معامل تعجيل الاختبار
+test availability	اختبار الإتاحية
+test bay, test facility	مَعْمَل الاختبار
+test board	لوح التجربة
+test box; testing box	صندوق اختبار
+test car	عَرَبَة اختبار
+test cell	خلية اختبار
+test center	مركز اختبارات
+test certificate	شهادة اختبار
+test chamber	غرفة اختبار
+test clip	مشبك اختبار
+test club	مضرب اختبار
+test conditions	شروط الفحص
+test connection	فتحة اختبار
+test core	اختبار الجزرات
+test cycle	دورة الاختبار
+test desk	طاولة اختبار
+test diamond	ماسة اختبار
+test distance,	مسافة إختبار,
+test equipment	جِهاز الاختبار
+test facility	مرفق تجريب
+test firing	إشعال اختباري
+test flange	شفة اختبار
+test flight	طيران اختباري
+test instruction	دليل الفحص / تعليمات الاختبار
+test lamp	لمبة فحص
+test leads	أسلاك اختبار
+test load	حمولة تجريبية / حمل الاختبار
+test method	طريقة الاختبار
+test mirror	مرآة فحص
+test object	موضوع الاختبار
+test output device (of an energy meter)	شاشة عرض ( لعدادات ساكنة)
+test panel	لوح الاختبار / لوحة اختبار
+test pattern	نموذج اختباري
+test period	فترة الإختبار
+test piece / test sample / test specimen	عينة الاختبار
+test pit	حفرة تجربة
+test port	فتحات الاختبار
+test position (of a withdrawable part)	وضع إختبار
+test pressure	ضَغْط الاختبار
+test probe	جُذاذة اختبار
+Test procedure	عملية الاختبار
+test prod	طرف قياس / مسبار فحص
+Test Repeatability	تكرارية نتائج الاختبار
+test report	تقرير اختبار
+Test Reproducibility	قابلية استعادة نتائج الاختبار
+test rig	جهاز اختبار
+test sample	عيّنة اختبار
+test seal	اعتماد الاختبار
+test section	مقطع اختبار
+test set	مجموعة اختبار / علبة اختبار / جهاز اختبار، علبة أدوات اختبار
+test signal	إشارة اختبار
+test site	موقع اختبار
+test socket box	صندوق جلب القياس
+test stimulus	منبهات إختبار
+test trap	وعاء الفحص، وعاء الاختبار
+test tube	أنبوب اختبار
+test value	قيمة إختبارية / قيمة الاختبار
+test values	قيم فحص
+test valve	صمام الفحص
+test vehicle	مَركبة اختبار
+test well	بئر اختباري / بئر اختبارية
+test,	اختبار,
+test, air pressure	اختبار بضغط الهواء
+test, non-destructive / testing, non-destructive	اختبار لاإتلافيّ
+testability,	قابلية الاختبار,
+testbed	منصة اختبار
+tested RQ	دورة طلب (RQ) مختبرة
+tester tail	ذيل جهاز الفحص
+testing	اختبار
+testing accuracy	اختبار دقة
+testing agent; test medium	وسيلة اختبار
+testing and inspection, (T&I)	اختبار (ال...) و المعاينة
+testing box	صندوق اختبار، علبة اختبار
+testing equipment for faulty connections	جِهاز فحص الوصلات المعيبة
+testing joint	وصلة اختبار
+testing lead	سلك اختبار
+testing repetition cycle	دورة تكرار الاختبار
+testing short-circuit	اختبار قصر الدائرة
+testing standard	مِعيار الاختبار
+testing station	محطة اختبار
+tetanization threshold (current)	تيار بدء التشنج
+tetanization threshold current	حد تيار بدء التشنج
+Teteron	أقمشة تيترون / تيتورون ®
+tethys ocean	بحر التيثس
+tetra	رباعي
+tetra fluor ethane	رباعي فلورو الإيثان
+tetra methyl lead; t.m.l.	رباعي متيل الرصاص
+tetrachlorodibenzodioxin	رابع كلوريد البنزول (ديوكسين)
+tetrad	رُباعِيّ
+tetrad axis	مِحْوَر رباعي
+tetraethyl lead	رابع إيثيل الرصاص / رباعي إتيل الرصاص
+tetraethyl lead (tel)	رباعي إيثيل الرصاص
+tetragonal minerals	معادن رباعية
+tetragonal system	نظام (ال..) الرباعي
+tetrahedrite	تتراهدرايت
+tetrahedron	رباعي الأوجه
+tetrapods	رباعيات الأرجل
+tetrode	صمام رباعى / صمام رباعي القطب / رباعي المساري
+tetrode transistor	ترانزستور رباعى الاقطاب
+TEU	حاوية نمطية
+Teviron	تيفيرون ®
+tex	تيكس
+tex system	نظام تكس
+texas pants	سروال تكساس
+TexProf	اختبار جودة النسيج
+text	نص
+text processing; word processing	معالجة النص
+textile additive / textile auxiliary	المواد المضافة للنسيج
+textile art	نوع نسيجي
+textile conveyor belt	حزام ناقل منسوج
+textile fabrics / area-measured materials	قماش
+textile fiberglass yarn	خيوط منسوجة من الألياف الزجاجية
+textile fibers	ليف نسيجي
+Textile Labelling Act	قانون توسيم النسيج
+Textile lubricant / lubricating	زيوت التشحيم
+textile shredding	تمزيق النسيج
+textile standards	معايير النسيج
+textile sub-labelling	وَسْم ناقص
+textile waste	بقايا نسيجية
+textiled yarns	خيط مغزول
+textiles	منتجات نسيجية / منسوجات
+TeXtolite	تكستوليت
+texture	بِنْيَة، تَركِيب / تكوين سطحي / مَلْمَس / نسيج
+texture depth	عمق البِنيَة
+texture inlay	بنية الترصيع
+texture of wood	تركيب الخشب
+texture paint	بنية الطلاء
+texture profile	مَقطَعُ البِنيَة
+texture triangle	مثلث الملمس
+textured curtains	ستائر نسيجية
+textured pattern	تشكيل ضمني
+textured weave	قُماش ذو بنية تقنية
+textured yarn	خيط مضخم / خيط غزل مُركب
+textured yarns	خيط مضخم
+TFT display	شاشة TFT (شاشة ذات ترانزستورات رقيقة الطبقة)
+th	حراري/حرارة
+Thai silk	حرير تايلاندي
+thalassotherapy	علاج بحمامات البحر
+thallium -barium -calcium -copper oxide (TBCCO)	مادة ثليوم - باريوم - كالسيوم - أكسيد النحاس (TBCCO)
+thalweg	أعمق نقاط المجرى
+thalweg (longitudinal profile of river bed)	محور الوادي المنخفض / خط العمق الأعظمي للمقطع النهري
+Thanet	حقل رياح 'ثانيت'
+thaumasite	ثوماسايت
+thaw	ذوبان
+thaw weathering	طقس الانصهار
+thawb / thobe	بُرْنُس
+thawing permafrost	انصهار (ذوبان) الجليد السرمدي
+thc	رُباعي هيدرو كانابينول
+The Association of German Engineers	جمعية المهندسين الألمان (VDI)
+the center for sustainable innovation	مركز الابتكار المستدام
+the committee on fisheries (cofi)	لجنة مصايد الأسماك
+the Convention on Wetlands of International Importance (Ramsar Convention)	اتفاقية الأمم المتحدة بشأن الأراضي الرطبة ذات الأهمية الدولية (اتفاقية رامسار)
+The Dow Chemical Company	شركة داو كيميكال
+the economics of ecosystems and biodiversity (teeb)	اقتصاديات النظم الإيكولوجية والتنوع البيولوجي
+The European Tyre and Rim Technical Organisation ETRTO	المُنظمة الأوروبية التقنية للإطارات والجنوط (ETRTO)
+The Federal Open Market Committee ( FOMC)	اللجنة الفيدرالية للسوق المفتوحة
+the global air pollution forum emission manual (gap)	دليل الانبعاثات لمنتدى تلوث الهواء العالمي
+the global forest & trade network - north america	شبكة الغابات والتجارة العالمية (GFTN) - أمريكا الشمالية
+the international council on monuments and sites (icomos)	(ال) مجلس الدولي للآثار والمواقع (ICOMOS)
+the kiev protocol	بروتوكول كييف
+The Kuwait Olefines Company	الشركة الكويتية للأولفينات
+The Kuwait Styrene Company	الشركة الكويتية للستايرين
+the living planet index (lpi)	مؤشر الكوكب الحي
+the national bioenergy investment model (nbim)	نموذج وطني للاستثمار في الطاقة الحيوية
+The National Classification for the Economic Activities (ISIC4)	التصنيف الوطني للأنشطة الاقتصادية
+The Organization for Economic Cooperation and Development (OECD)	منظمة التعاون الاقتصادي والتنمية
+the organization of the petroleum exporting countries (OPEC)	أوبك (منظمة البلدان المصدرة للبترول)
+the ospar convention	اتفاقية أوسلو وباريس
+the public	(ال) عموم
+the public concerned	جمهور معني
+the renewable energies heat act (2009, first revision on 01 May 2011)	قانون الطاقة الحرارية المتجددة (2009، المراجعة الأولى بتاريخ 01 مايو 2011)
+the resource and energy analysis programme (reap)	برنامج تحليل الموارد والطاقة
+the resource and energy analysis programme (reap) petite	برنامج تحليل الموارد والطاقة (REAP) صغير
+The Saudi National Atomic Energy Project (SNAEP)	المشروع الوطني السعودي للطاقة الذرية
+The Supreme Committee for Hydrocarbon Affairs	اللجنة العليا لشؤون المواد الهيدروكربونية
+the third-party monitor (component of las)	طرف ثالث مراقب (مكون من نظام ضمان الشرعية (LAS))
+the three pillars	ركائز ثلاث
+the three pillars, access to information	ركائز الثلاث، الوصول إلى المعلومات
+the three pillars, access to justice	ركائز الثلاث، الوصول إلى العدالة
+the three pillars, public participation in decision making	ركائز الثلاث، المشاركة العمومية في صنع القرار
+theatre	مسرح عمليات
+theft insurance	تأمين ضد السرقة
+theft warning system	جهاز إنذار ضد السرقة
+theodolite	تيودوليت / مِزْواة
+theorem	نظرية
+theoretical duration of a significant interval	مدة نظرية لفترة هامة
+theoretical geothermal potential	إجمالي نظري للطاقة الحرارية الطبيعية
+theoretical gravity	جاذبية نظرية
+theoretical hydro-geothermal potential	الإجمالي النظري للطاقة الهيدرو حرارية الطبيعية
+theoretical margin	هامش نظري
+theoretical resource,	مصادر بيانات الأرصاد النظرية,
+Theoretical retention time / nominal residence time	مُدة الاحتجاز النظرية
+theoretical thrust coefficient	مُعامِل الدفع النظري
+theory of architectural forms	نظرية الأشكال المعمارية
+theory of construction	نظرية الأشكال المعمارية
+theory of errors	نظرية الأخطاء
+theory of flow of water	هيدروديناميكا (ال...)
+theory of least squares	نظرية المربعات الصغرى
+theory of probability	نظرية الاحتمالات
+theory of structures	نظرية الإنشاءات
+therapeutic adapter	مُهايِئ عِلاجي
+therapeutic oXygen	أكسجين عِلاجي
+therapeutic-type protective tube housing	هيكل انبوب الوقاية في نمط المعالجة
+therm	وَحْدَةٌ حَرَارِيَّة / ثيرم / ثِرْم
+thermal	حراري / تيار حراري / صعود بالتيار الحراري
+Thermal and mechanical parameters	الخصائص الحرارية والميكانيكية
+thermal anticing	مضاد حراري للجليد
+thermal balancing	مُعادلة التغيّر في درجة الحرارة
+thermal barrier coatings	طبقات عازلة للحرارة
+thermal battery	بطارية حرارية / حاشدة حرارية
+thermal breakdown (of a PN junction)	انهيارحرارى (لوصلةPN)
+thermal bridge	جسر حراري
+thermal brine concentrator	مكثف المحلول الملحي الحراري
+thermal capacitance	سعة حرارية
+thermal capacity	سعة حرارية
+thermal class	تصنيف حراري
+thermal coke	كوك حراري
+thermal collector	مُجمّع حراري
+thermal conductance	موصلية حرارية
+thermal conduction	توصيل (ال...) الحراري / التوصيل الحرارى
+thermal conductivity	التوصيل الحراري / الموصلية الحرارية / موصّلية حرارية / توصيل حراري
+thermal conductivity sensor,	حساس التوصيل الحراري, الكشف عن الغاز
+thermal convection	حَمل حَراري
+thermal converter measuring device	مقياس المُغيِّر الحراري
+thermal converter; thermoconverter	مُغيِّر حراري
+thermal cover	غلاف حراري
+Thermal Cracking	تكسير حراري
+thermal crystalliser	مبلور حراري
+thermal cut-out	فصل حراري
+thermal cut-out device	جهاز حرارى لقطع تيار الكهرباء
+thermal cutting	قطع حراري
+thermal cutting process	طريقة قطع حراري
+thermal cycling	تناوب حراري / دورة حرارية
+thermal de-icing	إزالة الجليد حرارياً
+thermal denim	قُماشُ الدنيم الحراريّ
+thermal depolymerization	تفكيك البلمرة حرارياً
+thermal desalination	تحلية حرارية
+Thermal Design Power	طاقَةُ التَصْمِيمِ الحَرارِيَّةُ
+thermal desorption	مج حراري
+thermal detector, ; thermal radiation detector	كاشف حرارى, ؛ كاشف اشعاع حرارى
+thermal diffusivity	الانتشار الحرارى / مُعامِل الانتشار الحراري / انتشار الحرارة / انتشارية حرارية
+thermal distillation recovery	استرداد بتقطير حراري
+thermal efficiency	فاعلية حرارية / كفاءة حرارية / فعّالية حرارية / مردود حراري / كفاية حرارية
+thermal efficiency (ηth)	كفاءة حرارية (ηth)
+thermal electric relay	مُرَحِّل كهربائى حرارى
+thermal emission	انبعاث حراري / بث حراري
+thermal emitter/radiation source	مصدر إشعاع حراري
+thermal endurance	تحمل حراري
+thermal endurance graph; Arrhenius graph (for thermal endurance)	مخطط التحمل الحراري
+thermal energy	طاقة حرارية
+Thermal Energy Storage	نظام التحكم في الكتلة الحرارية
+thermal energy storage (TES) system	نظام تخزين الطاقة الحرارية (TES)
+thermal engine	مُحرِّك حراري
+thermal equation of state	معادلة الوضعية الحرارية
+thermal equator	خط الاستواء الحراري
+thermal equilibrium	توازن حراري
+thermal erosion	انجراف حراري
+thermal ex-situ process	عملية حرارية خارج الموقع
+thermal eXcitation	إثارة حرارية
+thermal expansion	تَمَدُّد حَرَارِي / تمدد حراري
+thermal expansion coefficient	مُعامل التمدد الحراري
+thermal expansion control	تحكّم في التمدّد الحراري
+thermal eXposure	تعرُّض حراري
+thermal fatigue	تعب حراري / كِلال حراري
+thermal fleece	قماش وبرى حراريّ
+thermal flow meter	مقياس حراري للتدفّق
+thermal fluid	مائع حراري
+thermal fracture	صدع حراري
+thermal gasification	تغويز حراري
+thermal generating set	مجموعة توليد حرارية
+thermal gradient	تدرُّج حراري / مُنحدَر حراري
+thermal gradiometer	مقياس التدرُّج الحراري
+thermal head (AC)	رأس حراري (مكيف الهواء)
+thermal heating	تسخين حراري
+thermal imagery; thermography	تصوير حراري
+thermal initiation time	زمن نشوء الحرارة
+thermal instability	عدم استقرار حراري
+thermal instrument	جهاز حراري
+thermal instrument; electrothermal instrument (US)	مقسم الجهد
+thermal insulation	عَزْل حراريّ / عزل حراري / العزل الحراري / عَزل حراري
+thermal insulation composite system	نظام مركب للعزل الحراري
+thermal insulation material	مواد العزل الحراري
+thermal insulation perimeter	محيط عزل حراري
+thermal insulation,	عزل حرارى, تسخين بالتتبع
+thermal interference	تداخل حراري
+thermal level measurement	قياس المنسوب الحراري
+thermal lift	رفْع حراري
+thermal load	حِمل حراري
+thermal losses	مفاقيد حرارية
+Thermal Management	الإدارة الحرارية
+Thermal Management System	نظام الإدارة الحرارية
+thermal mapping	رسم الخرائط الحَرَارِية
+thermal mass	كتلة حرارية
+thermal Membrane	غشاء حراري
+thermal metamorphism	تحوُّل حراري
+thermal metamorphisme	تحول حراري
+thermal microphone; hot-wire microphone	ميكروفون حراري
+Thermal Monitoring	المراقبة الحرارية
+thermal neutron	نيوترون حراري / نيوترون مهدَّأ
+thermal noise	ضجيج (ضوضاء)حرارى / ضجيج حراري / ضوضاء حرارية
+thermal noise ; Johnson noise	ضوضاء حرارية، تشويش حراري
+thermal output	قدرة حرارية
+thermal output; heating power; heat output	قدرة حرارية
+thermal overload release	اعتاق حرارى بزيادة الحمل
+Thermal Pad	الوسادة الحرارية
+thermal panel	لوح حراري
+thermal plasma	بلازما حرارية
+thermal pollution	تلوُّث حراريّ / تلوث حراري
+thermal pollution of watercourses	تلوُّث حراريّ للمجاري المائية
+thermal power	قدرة حرارية
+thermal power consumption	استهلاك طاقة حرارية
+thermal power plant	محطة توليد الطاقة الحرارية
+thermal power plant; thermal power station	محطة توليد الطاقة الحرارية
+thermal power station	محطة توليد حرارية؛ محطة انتاج حرارية / محطة توليد حرارية
+thermal power unit	وحدة قدرة حرارية
+thermal process	طَريقة حرارية / عملية حرارية
+thermal protection	حماية حرارية / وقاية حرارية
+thermal pulse	نبضة حرارية
+thermal radiation	إشعاع (ال...) الحراري / الإشعاع الحرارى / إشعاع حراري
+thermal radiator	مشع حرارى
+thermal receptor	مُستقبِل حراري
+thermal reclamation system	نظام تحويل الحرارة المُتبدّدة إلى قُدرة
+thermal recorder	مسجّل حراري
+Thermal Reformates	مهذبات حرارية
+thermal reformatis	صلاحات حرارية
+Thermal Reforming	تهذيب حراري / إصلاح حراري
+thermal relay	مرحّل حراري
+thermal relief valve	صمام تنفيس حراري
+thermal resistance	مُقاومة حرارية / مُقاومة (ال...) الحرارية / ثيرمستور / المقاومة الحرارية / مقاومة حرارية / مقاومةحرارية (لجهاز شبه موصل)
+thermal resistance (of an element of a cable)	مقاومة حرارية( لعنصر من كابل)
+Thermal Resistance (R-value)	مقاومة حرارية
+thermal runaway	انبعاث حراري / هروب حراري
+Thermal Runaway (TR)	الانفلات الحراري
+Thermal Sensitive Resistor	ثيرمستور
+Thermal shock	صدمة حرارية / صدم حراري
+thermal soaring	تحليق حراري
+thermal socks	جوارب دافئة
+thermal spalling	تشظِّي حراري
+thermal spraying	بخ حراري / رش حراري
+thermal spring	نبع حار / منبع بمياه حارة / ينبوع حار
+thermal stability	إستقرار حراري / ثبات حراري
+thermal stability tests	اختبارات الثبات الحراري
+thermal switch	مفتاح حراري
+thermal switch for coolant fan	مفتاح ثرموستاتى لمروحة وسيط التبريد
+thermal technologies	تقنيات حرارية
+thermal thicket	دغْل حراري
+thermal time switch	مفتاح حراري زمني
+thermal transient frequency stability	استقرار التردد عند إنتقال حرارى
+Thermal Transmittance (U-VALUE)	معامل الانتقال الحراري
+thermal treatment	معالجة حرارية
+thermal treatment plant	مَعْمَل مُعالَجة حرارية
+thermal waste treatment	مُعالجة حرارية للمُخلّفات
+thermal water	مياه جوفية حارّة
+thermal wind	ريح حرارية
+thermal workwear	ملابس مهنية حرارية
+thermal X-rays	أشعة سينية حرارية
+thermal-energy storage systems	نظام تخزين الطاقة الحرارية
+Thermal-Insulation Materials	منتجات العزل الحراري
+Thermal-Shock Chamber	غرفة الصدمات الحرارية
+thermally insulating board	عازل لوحي جاسِئ
+thermalwear	ملابس حرارية
+thermel	ثِرمِل
+thermic	حراري
+thermic fibers	ألياف حرارية
+thermic method	طريقة التأثير الحراري
+thermic properties	خواص حرارية
+thermic temperature regime	نظام درجة الحرارة لتربة حارة
+thermie	ثِرمي
+thermionic	أيوني حراري
+thermionic converter	مُحوِّل أيوني حراري
+thermionic emission	إنبعاث حرارى
+thermionic emission gun	مدفع ( ابتعاث)أيوني حراري
+thermionic rectifier	مُقوِّم أيوني حراري / مقوّم حراري
+thermionic tube	أنبوب أيوني حراري
+thermionic valve	صمام أيوني حراري
+thermionic-emission efficiency	كفاءة انبعاث ايوني حراري
+thermistor	مُقاوِم حراري / مقاوم حراري / مقاومة حرارية / مقاوِم حراري
+thermite	ثِرمايْت
+thermo well	فتحة قياس درجة الحرارة
+thermo-chemical treatment	معالجة كيميائية حرارية
+thermo-compression	ضغط حراري
+thermo-compression distillation (TCD)	تقطيرعن طريق عملية الربط بالاحتراق الحراري
+thermo-electric traction	جر كهروحراري
+thermo-electrolysis; thermo-electrolytic reduction	تحليل كهروحراري
+thermo-electrolytic refining	تكرير كهروحراري
+thermo-electromotive force	قوة محركة كهرحرارية
+Thermobonding	ترابط حراري
+thermochemical conversion	تحويل حراري كيميائي
+thermochemical or syngas platform	مسار حراري كيميائي أو مسار الغاز الاصطناعي
+thermochemistry	كيمياء حرارية
+thermochrome crayon	قلم كرومي حراري
+thermochromic fiber	ألياف تتلوّن حرارياً
+thermochromic tube	أنبوب تلوُّن حراري
+thermochromism	تلوين حرارى
+thermocline	ممال حراري / انكسار حراري / انحدار حراريّ / منخفَض حراري بحري
+thermocline [f.]	طبقة وسطى حارّة
+thermocompressor	ضاغط حراري
+thermocouple	مُزدوجة حرارية / مزدوِج حراري / مزدوجة كهرحرارية
+thermocouple compensation cable	كابل تعويض مزدوجة حرارية
+thermocouple extension cable	امتداد لمزدوجة حرارية
+thermocouple instrument	جهاز قياس ثنائي المعدن
+thermocouple leg	وصلة حرارية
+thermocouple measuring insert	وليجة قياس مزدوجة حرارية
+thermocouple type	نوع المُزدوجة الحرارية
+thermocouple type J	مُزدوجة حرارية، النوع J
+thermocouple type K	مُزدوجة حرارية، النوع K
+thermocouple type L	مُزدوجة حرارية، النوع L
+thermocouple type T	مُزدوجة حرارية، النوع T
+thermocouple type U	مُزدوجة حرارية، النوع U
+thermocouple,	مزدوج حرارى,
+thermodynamic cycle	دورة دينامية حرارية / دورة تحريك حراري
+thermodynamic efficiency	مردود التحريك الحراري
+thermodynamic energy equations	معادَلات طاقة التحريك الحراري
+thermodynamic equilibrium	تعادل التحريك الحراري / توازن دينامي حراري
+thermodynamic heating	تدفئة دينامية حرارىة
+thermodynamic parameter	معامل ديناميكي حراري
+thermodynamic temperature	درجة الحرارة الدينامية الحرارية
+thermodynamic temperature scale	تدريج درجة الحرارة الدينامية الحرارية / مقياس درجة الحرارة الديناميكية
+thermodynamic temperature; absolute temperature (deprecated)	درجة الحرارة الديناميكية
+thermodynamic window	نافذة دينامية حرارية
+thermodynamically optimized heating	تدفئة مثلى ديناميكيا حراريا
+thermodynamics	علم الديناميكا الحرارية / تحريك حراري / ديناميات حرارية
+thermoelastic effects	آثار المرونة الحرارية
+thermoelastic spark plugs	شمعات شرر ثرمية مرنة
+thermoelectric	كهرو حرارى / كهرحراري
+Thermoelectric Cooler (TEC)	المُبَرِّد الكهروحراري
+thermoelectric cooling	تبريد كهربائي حراري
+thermoelectric effect	ظاهرة (ال...) الكهرحرارية
+thermoelectric generator	مولِّد كهربائي حراري
+thermoelectric generator (TEG)	المُولّد الكهروحراري (TEG)
+thermoelectric power	قدرة كهرُحرارية
+thermoelectric power meter	مقياس قدرة كهروحراري
+thermoelectric sensitivity	حساسية (ال...) الكهرحرارية / حساسية (ال...) الحرارية
+thermoelectric series	سلسلة كهرُحرارية
+thermoelectric voltage	جهد كهرحراري
+thermoelement	عنصر حراري
+Thermofusion	دمج حراري
+thermogen	مُتَوَلِّد عن الحرارة
+thermogram	سجلّ حراري
+thermograph	مسجِّل حراري
+thermographic camera	مصوِّرة حرارية
+thermography	استنساخ فوتوغرافي حراري
+thermohydrometer	مِكثاف سوائل حراري
+thermokarst	تضريس حراري
+thermoluminescence	إشعاع ضوئى حرارى / تألُّق حراري
+thermoluminescence detector	كاشف سطوع حرارى
+thermoluminescence; thermally activated luminescence	تألق حراري؛ لمعان حراري
+thermoluminescent dosemeter [exposure meter]	مقياس جرعة للسطوع الحرارى (مقياس تعرض)
+thermometer	مقياس حرارة / مقياس الحرارة / ميزان الحرارة
+thermometer screen	ساتر مقياس الحرارة
+thermometry	قياس درجة الحرارة
+thermonuclear	نووي حراري
+thermonuclear weapon	سلاح نووي حراري
+thermophile	محب للحرارة
+thermophilic	أليف للحرارة
+thermophilic digestion	هَضْم حَراريّ / تخمر حراري
+thermophone	ثرموفون ( معاير حراري صوتي للميكروفونات )
+thermopile	عمود حراري / عمود كهرحراري
+thermopile,	عمود حرارة
+thermoplastic	لدن حراري / لدائن حرارية
+thermoplastic / thermoplasticity	لدائن حرارية
+thermoplastic insulation	عزل لدن حرارى
+thermoplastic recording	تسجيل لدائني حراري
+thermoplastic rubber	مَطَّاط حراري التلدُّن
+thermoplastic, noun	بلاستيك حراري
+thermoplastics	لدائن حرارية
+thermoset, noun	تصلب حراري
+thermosetting ink	حبر يتصلد بالحرارة
+thermosetting insulation	عزل مصلد بالحرارة
+thermosetting plastics	بلاستيك متصلّد بالحرارة / لدائن تصلُّد حرارية
+thermosiphon system	سخان شمسي بانسياب طبيعي
+thermosphere	غلاف حراري/ترموسفير / ثرموسفير (الغلاف الحراري) / ثِرموسْفير / غلاف حراري
+thermostability	ثبات حراري
+thermostat	مُثبِّت حراري / مثبّت حراري / تِرْمُوسْتات
+thermostat (AC)	ثرموستات (مكيف الهواء)
+thermostat (thermo regulator)	ثرموستات (مُنظّم درجة الحرارة)
+thermosyphon	مُدوِّر حراري
+thermotropic model	نموذج انتحاء حراري
+Thevenin theorem	نظرية ثفنين
+thick asphalt pavement	رصف سَمِيك بالأسفلت
+thick crystalline material	مادة بلورية سميكة
+thick film (of a film integrated circuit)	رقاقة سميكة ( لدارة تكاملية رقيقة )
+thick material pump for primary sludge	مِضخّة الحمأة الغليظة الخاصة بالحمأة المختمرة
+thick paper	ورق سميك
+thick stroke	جزء(ال...) الثخين
+thick-and-thin yarns	خيوط غزل غير متسقة
+thick-film	غشاء كثيف
+thickened fuel	وقود مغلَّظ
+thickened sludge	حَمْأَة مُغلَّظة
+thickener	مُغلَّظ / مُثخِّن
+thickening	تكثيف
+thickening of oil	تغلّظ قوام الزيت
+thickening time	زمن التماسك، زمن الشك
+thicket stage	طور أجمة
+thickness	سُمك / سماكة
+thickness design	تصميم السَّمَاكَة
+thickness distance	مسافة السمَاكة
+thickness gauge	مقياس تحسسي / جهاز قياس الثَّخانة / مقياس السمك
+thickness guage	محدِّد قياس السمَاكة
+thickness lines	خطوط السمَاكة
+thickness ratio	نسبة السمَاكة
+thickness variation	تغيّر السماكة
+thickness variation for five points; TV5	تباين السمك لخمس نقاط
+Thief Sampling	سحب العينات اليدوية
+thimble	مقبض مسنَّن
+thimble ionization chamber	حجرة تأين حلقية
+thin bonded concrete overlay	طِلَاءٌ خَرَسَانِي رَقِيق
+thin film	غشاء رقيق / فيلم رقيق
+thin film (of a film integrated circuit)	رقاقة رفيعة (لدارة تكاملية رقيقة )
+thin film composite	مُرَكّب من فلم رقيق
+thin film evaporator	مبخر بطبقة رقيقة، مبخر بفلم رقيق
+thin film optical waveguide	دليل الفلمِ الموجي الرقيقِ الضوئيِ
+thin film photovoltaic module	وحدة كهرضوئية ذات أفلام رقيقة
+Thin film solar modules	ألواح الطاقة الشمسية الرقيقة
+Thin Film Transistor	الترانزستور ذُو الأَغْشِيَةِ الرَقِيقَةِ
+thin layer	طبقة رقيقة
+thin paper	ورق رقيق
+thin places	مواضع رفيعة
+thin route	خط رقيق
+thin sections	مَقَاطِع رقيقة
+thin stroke	جزء(ال...) الرقيق
+thin threads	خيوط ذات مواضع رفيعة
+thin-case bomb	قنبلة رقيقة الغطاء
+thin-film circuit	دارة غشائية الطبقات
+thin-film composite membranes (TFC)	أغشية مركبة ذات طبقة رقيقة
+thin-film lubrication	تزليق بغشاء رقيق
+thin-film transistor	ترانزيستور غشائي الطبقات
+thin-plate weir	هَدَّار رقيق الألواح
+thin-wall counter tube	صمام عداد ذو جدار رقيق
+thin-walled sampler	أنبوب عينات بجدران رقيقة
+thindown	ترقُّق
+think tank	خزان الأفكار
+thinner	مُخفِّف / مُرقِّق
+thinning	تخفيف
+Thinsulate ®	تينسوليت ®
+thinwire	شبكة زهيدة الثمن (تشيب نات)
+Thiokol	ثيوكول
+third assessment report (tar)	تقرير التقييم الثالث
+third law of thermodynamics	القانون الثالث للديناميكا الحرارية
+Third Parties	الطَرَفُ الثَالِثُ
+third party (neutral)	طرف ثالث (محايد)
+Third Rail	قضيب ناقل
+third-angle projection	إسقاط الزاوية الثالثة
+third-level carrier	ناقل من الدرجة الثالثة
+third-party liability	مسؤولية مدنية
+third-voltage motor	محرك ثلث جهد
+thiXotropic	مُسيَّل بالرّج
+thixotropy	خاصّة استرداد القوام / تَميُّعِية
+thoedolite	مزواة
+tholeiite	ثوليايت
+Thompson (double) bridge; Kelvin (double) bridge	قنطرة طومسون (المزدوجة)
+Thomson bridge circuit	قنطرة قياس طومسون
+Thomson effect	تأثير (طومسون)
+thomsonite	ثومسونايت
+Thor vessel	سفينة ثور
+Thoraeus filter	مرشِح ثوروس
+thorax	صدر
+thorianite	ثوريانايت
+thoriated-tungsten cathode	مهبط معالج بالثوريوم
+thorite	ثورايت
+thorium	ثوريوم
+thornel	ثورْنِل
+Thorntonbank wind farm	حقل رياح 'ثورنتون بانك'
+Thoron	ثورون
+thoroughfare	مَمَرّ
+thou	ثاو
+thousand and cubic feet, (T.C.F.)	ألف قدم مكعبة
+Thousand Barrels of Oil Equivalent (Mboe)	ألف برميل بترول مكافئ
+Thousand Cubic Feet (THCF)	ألف قدم مكعبة
+thread	لولب / سن اللولب
+thread / plied yarn	خيط مزويّ
+thread chaser	مُمشِّط اللوالب
+thread dope	تزليق أسنان اللولب
+thread gauge	مُحدد خطوة أسنان اللوالب
+thread gauge; screw gauge	مُحدِّد مقياس أسنان اللولب
+thread guage	محدِّد قياس اللوالب
+thread insert	وليجة ملولبة
+thread milling machine	آلة تفريز أسنان اللولب
+thread nominal diameter	القطر الإسمي لسن اللولب
+thread pitch	خطوة اللولب
+thread profile	بروفيل سن اللولب
+thread types / types of yarn	نوع البرم
+thread-cutting screw	قلم تسنين (قلوظة) داخلية بالقطع
+thread-forming screw	قلم تسنين (قلوظة) داخلية بالتشكيل
+thread-ply stitch-bonded fabric	نسيج محبوك
+threadable conduit	ماسورة ملولبة
+threadable entry for conduit	طرف ماسورة قابل للتسنين (القلوظة)
+threaded and collared pipes	أنابيب مسنَّنة الأطراف و متداخلة
+threaded casing	أنابيب تبطين مسننة
+threaded coupling (of a conduit)	جلبة مسننة / قارنة مسننة
+threaded door; threaded cover	باب بمفصلات حلزونية؛ غطاء بمفصلات حلزونية
+threaded screw	برغي ملولب
+threaded screw -nut	صامولة برغي ملولبة
+threading	لولبة
+threading the needle	وُلوج من سمّ الخِياط
+threat	تهديد
+threat evaluation	تقويم التهديد
+threat of depopulation	تهديد بتناقص السكان
+threat simulation	محاكاة التهديد
+threat to fishing	خطر على صيد الأسماك
+threat to human health	خطر على الصحة البشرية
+threatened species	أنواع مهددة
+threatened species of animals and plants	أنواع حيوانية و نباتية مهدَّدة
+threatened with extinction (cites)	مهددة بالانقراض (اتفاقية التجارة الدولية في الأنواع المهددة بالانقراض)
+three colour printing; three colour process	طباعة ثلاثية الألوان
+three conditions	ثلاثة شروط
+three dB coupler; 3 dB coupler	رابط بثلاثة ديسيبل
+three dimensional diagram	مخطط ثلاثي الأبعاد
+three dimensional geodesy	جيوديزيا ثلاثية الأبعاد
+three greens	أمان ثلاثي
+Three minute mean concentration	تركيز متوسط لثلاث دقائق
+three plywood	خشب معاكس ثلاثي الطبقات
+three point regulator	ضابط ثلاثيّ النقاط
+three point step controller /step-by-step controller	ضابط خطوي ثلاثي النقاط
+three pole derrick	بُرْج حَفْر مُثَلَّثِي
+three way turnout; point; switch	مسار مزدوج
+three wire	سلك ثلاثي
+three wire single phase system	نظام توزيع التيار الأحادي الطور بثلاثة أسلاك
+three – hinged arch	قوس ثلاثي المفاصل
+three-aXis autopilot	طيار آلي ثلاثي المحاور
+three-axis-stabilized satellite	قمر صناعي موازن على المحاور الثلاث
+three-bar approach slope indicator	مبيِّن مَيل الاقتراب ثلاثي القضبان
+three-body problem	مسألة الأجسام الثلاثة
+three-centred arch	قوس ثلاثية المركز
+three-coat paint	طلاء ثلاثي الطبقات
+three-coat work	توريق ثلاثي، تمليط ثلاثي
+three-control aeroplane	طائرة ثلاثية التحكم
+three-cylinder yarn	خيط غزل آلة الغزل ثلاثية الأسطوانات
+three-dimensional	الطريقة ثلاثية الأبعاد
+three-dimensional cam	حَدَبة ثلاثية الأبعاد
+three-dimensional computer-generated image; 3-D computer-generated image	صورة منتجة بالحاسوب ثلاثية الابعاد
+three-dimensional flow	جَرَيان ثلاثي الأبعاد
+three-dimensional prediction; 3-D prediction (abbreviation)	تنبؤ ثلاثي الأبعاد
+three-dimensional radar	رادار ثلاثي الأبعاد
+three-dimensional television; 3-D television (abbreviation)	تلفاز ثلاثي الأبعاد
+three-diode model	عاكس ثلاثي الطور
+three-engined aircraft	طائرة ثلاثية المحرك
+three-jaw chuck	مِلْقاط (ظرف) مِخْرَطَة بثلاثة فكوك
+three-layered bearing	محمل ثلاثي الطبقات
+three-leg intersection	تقاطع ثلاثي الفروع
+three-liter house	منزل يستهلك 3 لترات وقود
+three-mass suspension model	نموذج تعليق ثلاثي الكتلة
+three-moment equation	معادلة العزوم الثلاثة
+three-part costing	تكلفة ثلاثية الأجزاء
+three-part tariff	تعرفة ثلاثية الاجزاء؛ تعريفة الثلاثة أجزاء
+Three-Phase AC Charging	شحن التيار المتناوب ثلاثي الطور
+three-phase AC motor vehicle	مركبة بمحرك تيار متردد ثلاثي الطور
+three-phase AC traction	جر بالتيار المتردد ثلاثي الوجه
+Three-phase AC voltage	جهد متردد ثلاثي الأطوار
+three-phase alternating current	تيار مُتردد ثُلاثي الأطوار
+three-phase apparatus; six-peak generator	جهاز ثلاثي الطور
+three-phase boundary	إطار ثلاثي
+three-phase bridge rectifier	قنطرة مقوم ثلاثية الطور / مقومات ثلاثية الطور
+three-phase circuit	دارة ثلاثية الطور
+three-phase concentric neutral cable	كابل ثلاثى الوجه ذو موصل تعادل مركزى
+three-phase current	تيار ثلاثي الأطوار
+three-phase earthing transformer; grounding transformer (US)	محول التأريض ثلاثي الأطوار
+Three-phase electric power	تيار ثلاثي الأطوار
+three-phase electric power system	نظام القدرة الكهربائية ثلاثي الأطوار
+three-phase equilibrium	تعادل الأطوار الثلاثة
+three-phase four-wire system	نظام ثلاثي الطور رباعي الأسلاك
+three-phase generator	مُولّد التيار ثلاثي الأطوار
+Three-Phase Induction Motor	محرك التحريض ثلاثي الطور
+three-phase inverter	مقوّم جسري ثلاثي الطور
+three-phase motor	محرك ثلاثي الوجه
+three-phase network	شبكة ثلاثية الأطوار
+three-phase neutral reactor	مفاعل تأريض ثلاثي الاطوار
+three-phase rectifier	مقوم ثلاثي الطور
+three-phase system diagram	مخطط ثلاثي الاطوار للنظام الكهربائي
+three-phase three-wire system	نظام ثلاثي الطور ثلاثي الأسلاك
+three-phase traction motor	لَاقِط التيار
+three-phase transformer	مُحوِّل ثلاثي الأطوار
+three-piece costume / three-piece suit	طقم ثلاثي
+three-piece suit	بذلة ثلاثية
+three-point landing	حط ثلاثي النقط
+three-point mooring	إرساء ثلاثي النقط
+three-pointer altimeter	مقياس ارتفاع ثلاثي المؤشر
+three-pole reclosing equipment; three-phase reclosing equipment	معدات إعادة الغلق ثلاثي الطور
+three-pole switch	مفتاح ثلاثي الأقطاب
+three-position element	عنصر ثلاثي النقاط / عنصر ثلاثي الوضع
+three-position element with recirculation	عنصر ثلاثي النقاط بتغذية مرجعية
+three-position relay	مرحل ذو ثلاث أوضاع
+three-quarter length jacket	معطف طويل
+three-rate time-of-day tariff	تعرفة معدل تكلفة ثلاثة أزمنة في اليوم
+three-shaft	ثلاثي الأعمدة
+three-switch mesh substation with bypass	محطة (حلقية) بثلاثة قواطع
+three-view drawing	رسم ثلاثي المساقط
+three-way catalytic converter	لمُحوّل حفزي (G)
+three-way cock	مَحْبَس ثلاثي المسالك
+three-way converter (TWC)	مُحوّل حفزي ثلاثي المسارات (TWC)
+three-way switch	مفتاح ثلاثي المسالك
+three-wheel roller	أُسطُوَانَة بِثَلاث عَجلات
+three-wire circuit	دائرة ذات ثلاثة أسلاك / دارة ثلاثية الأسلاك
+three-wire landing	حط بالسلك الثلاثي
+three-wire system	نظام ثلاثي الأسلاك
+three-zone dyke	حاجز ثلاثي الطبقات
+threshold	مدخل / حَدُّ التساهل / حدّ / عتبة / مستهلّ / مشْرِف
+threshold (in electrobiology); limen (deprecated in this sense)	عتبة (في الكهروحيوية )؛ بدء - مبدئ
+threshold (of a demodulator)	استهلال (لمزيل تضمين)
+Threshold according to the German Renewable Energy Act	العتبة وفقا لقانون الطاقة المتجددة الألماني
+threshold contrast	تبايُن حدّي
+threshold current (of a laser diode)	تيار مبدئ؛ تيار مشرف
+threshold curve	منحنٍ حدّي
+threshold days increase or decrease	زيادة أو نقصان الأيام العتبة
+threshold discharge, dynamic	حدود السرعة الديناميكية
+threshold discharge, static	تصريف بدء التحرك
+threshold displacement	إزاحة مشرفية
+threshold dose	جرعة العتبة؛ جرعة البدء / جرعة حدّية
+threshold effects concentration (tec)	تأثيرات عتبة التركيز (TEC)
+threshold energy	طاقة البدء
+threshold erythema dose	جرعة بداية احمرار الجلد
+threshold extension demodulation	ازالة التضمين بتوسيع الاستهلال
+threshold frequency	عتبة التردد
+threshold illuminance	دفق ضيائي حدّي
+threshold increment,	وحدة قياس الإبهار المعيق,
+threshold level	مستوى حدّي
+threshold lights	أضواء المشارف
+threshold limit value	القيمة الحدّية للمشرِف
+threshold marking	علامات حدود المدرج
+threshold of atrial fibrillation	بدء الرجفان الأذيني
+threshold of burning by arc	بدايةالاحتراق بالقوس الكهربائي
+threshold of burning by current	بداية الاحتراق بالتيار الكهربائي
+threshold of flicker irritability	عتبة تهيج الارتعاش
+threshold of flicker perceptibility	عتبة الاحساس بالارتعاش
+threshold of hearing; threshold of audibility	مبدئ السمع
+threshold of illuminance; visual threshold,	حدود الإستضاءة,
+threshold of pain (in electroacoustics)	مبدئ الألم في علم الكهروصوتيات
+threshold of speech intelligibility	عتبة وضوح الحديث
+threshold power	قدرة البدء
+Threshold reduction / extension according to the German Renewable Energy Act	تخفيض/ تمديد العتبة وفقا لقانون الطاقة المتجددة الألماني
+threshold sampling time	زمن الفحص الحدّي
+threshold speed	سرعة المشرف
+threshold voltage (of a diode or thyristor)	جهد العتبة (لصمام ثنائى او ثايرستور)
+threshold voltage (of an electronic valve device)	جهد عتبة(لجهاز صمام إلكتروني)
+threshold voltage (of an enhancement type field-effect transistor)	جهد العتبة (لترانسستور تأثير المجال من النوع المحسن)
+threshold wavelength	عتبة طول الموجه
+threshold zone luminance	إضاءة منطقة المدخل
+threshold zone,	منطقة المدخل,
+threshold/ breakpoints/ tipping points	عتبة / نقطة توقف / نقطة تحول
+threshold; sill	عتبة
+thresholds	حدود الإنفاق
+thribble platform; thribble board	منصة ثلاثية، منصة التعليق
+throat	حَلْق
+throat control	تحكم عُنُقي
+throat depth	عمق حلق
+throat diameter	قُطر حَلْق الخنق
+throat gap; throat height, US	ثغره حلق
+throat microphone	ميكروفون حنجرةِ
+throat thickness	عنق اللحام
+throatable	انضباطي العُنُق
+throatless chamber	غرفة بلا عُنُق
+throatless shears	مقص بلا عُنُق
+throttle	صمام خانق / خانق / صمام خانِق / تخفيض القدرة / تقليص المجرى / مِخْنَق
+throttle cutoff	قطع الإمداد بالوقود أثناء الاندفاع الذاتي
+throttle device	ترتيبة خنق / جهاز خنق
+throttle friction	احتكاك المِخنَق / رتاج المخنق
+throttle icing	تجلُّد المِخنَق
+throttle lever	ذراع الصمام الخانق
+throttle lift-off	تغير الحمل
+throttle lock	رتاج المِخنَق
+throttle portion	مدى الخنق
+throttle position sensor (TP)	حسّاس موضع الصمام الخانق (TP)
+throttle tension	إعاقة المِخنَق / شد المخنق
+throttle valve	صمّام خنق / صِمام خانق، صنبور خنق / صمام خانق
+throttle valve encoder (DKG)	مستشعر الصمام الخانق
+throttle valve potentiometer (DKP)	بوتنشيومتر الصمام الخانق
+throttle valve switch (DKS)	مفتاح الصمام الخانق
+throttled engine	محرك مُحدّد القدرة
+throttling	اختناق
+throttling capability	قدرة تخفيضية / قدرة مِخنَقية
+throttling port	فتحة الخانقة
+through a cut road	طريق منخفضة
+Through Bill of Lading (T.B.L)	سَنَدُ شحن مباشر، سَنَد شحن نافذ
+through carriage	عربات نقل خفيفة
+through chain conveyor	ناقل ذو سلسلة دوارة
+through connection	وصلة نافذة
+through dovetail joint	وصلة تعشيقية نافذة
+through fault current	تيار العطل المخترق
+through flange	حلقة نهاية مرور
+through hardening	تصليد نافذ
+through highway	طريق رئيسي مباشر
+through induction heater	سخان الحث المتخلل ( النافذ)
+through induction heating	تسخين حثي نافذ (قلبي)
+through moritse and tenon	نقرة نافذة
+through mortise	نقرة نافذة ولسان
+through opening	تجويف نافذ
+through rate	تعرفة المرور
+through station	محطة العبور
+through street	شارع رئيسي
+through tenon	لسان نافذ
+through traffic	حركة المرور العابرة، مرور عابر
+through-beam sensor	حساس ضوئي أحادي الاتجاه
+through-connection delay	تأخيرِ تمرير الاتصال من المقسم بعد الاعداد
+through-deck ship	حاملة السطح النافذ
+through-group connection point	نقطة توصيل مجموعة عبور مباشر
+through-group filter	مرشح مجموعة عبور مباشر
+throughput	طاقة إنتاجية / معدل الضخ
+throughput flexibility	مرونة الطاقة الإنتاجية
+throughput scheduling	جدولة الطاقة الإنتاجية
+throughput, performance	الإنتاجية والأداء
+throw	حَذْفة العمود
+throw weight	وزن قذفي
+throw with sleeves	معطف بَطَّانِيَّة
+throwover switch	عاكِسََة، مفتاح عاكس
+thrust	دفع / دَفْع / دَسْر
+thrust angle	زاوية الدفع
+thrust augmentation	تعزيز الدفع / زيادة الدفع
+thrust aXis	محور الدفع
+thrust ball bearing	كرسي كريات دفعي، مسند ذو كريات
+thrust bearing	محمل دفعي / محمل مُقابل / كرسي تحميل دفعي؛ محمل دفعي / كرسي تحميل دفعي
+thrust buildup	بناء الدفع
+thrust chamber	غرفة الدفع
+thrust class	تصنيف الدفع
+thrust coefficient	مُعامِل الدفع
+thrust component	مركِّبة الدفع
+thrust curve	مُنحنى الدّفع
+thrust cutoff	قَطْع الدفع
+thrust decay	تلاشي الدفع
+thrust face	جانب الدفع / وجه الدسر
+thrust fault	صَدْع معكوس
+thrust horsepower	قدرة حصانية دفعية
+thrust lever	ذراع الدفع
+thrust line	خط الدفع
+thrust loading	تحميل دفعي
+thrust meter	مقياس الدفع
+thrust of a linear traction motor	دفع لمحرك جر خطي
+thrust reverser	عاكس الدفع
+thrust ring	حلقة إحكام
+thrust section	مقطع الدفع
+thrust specific fuel consumption	استهلاك الوقود النوعي الدفعي
+thrust spoiler	مخفِّف الدفع / مُفسِد الدفع
+thrust structure	إنشاء دفعي
+thrust surface,clutch release bearing	مصدّ محمل الإعتاق
+thrust terminator	قاطع الدفع / مُوقِف الدفع
+thrust vector control	دفع مكافحة النواقل
+thrust wire	سلك الدفع
+thrust-to-weight ratio	نسبة الدفع إلى الوزن
+thrust-vector control	تحكم متّجه الدفع
+thrust/frontal area	نسبة الدفع إلى المساحة الأمامية
+thrust/weight ratio	نسبة الدفع إلى الوزن
+thruster	أسطوانة ضغط / داسر
+thruster (of a spacecraft)	دافع (لمركبة فضاء)
+thrusting	دَفْع
+thum	درجة الحرارة والرطوبة
+thumbpiece	لسان السقاطة
+thumbstick	عصا إبهامية
+thumbwheel	بكرة التحكم
+thump	درجة الحرارة والرطوبة والضغط
+thunder	رعد
+thundercloud	سحابة رعدية
+thunderstorm	عَاصِفَة رعْدِيَّة / عاصفة رعدية
+thunderstorm effect	تأثير العاصفة الرعدية
+thymine	ثايمين
+thyratron	صمام تفريغ قوسي بتحكم شبكي مهبطي ساخن / صمام ثلاثي ساخن المهبط
+Thyristor	ثايرستور / ضابط الثايرستور / ثايرستور (صمام ثلاثي) / مُقوِّم ترانزيستوري / الثايرستور
+thyristor frequency converter	مبدل تردد ثايرستور
+thyristor ignition system	منظومة الإشعال ذات 'الثايرستور' (Thyristor)
+Tibet wool	صوف التبت
+Tibetan rug	سجاد تبتي
+tick	تَكَّة / دَقَّة
+ticket	تذكرة
+ticket counter	شباك التذاكر
+ticket inspector	مُرَاقِب تذاكر
+ticket machine	آلة بيع التذاكر
+ticket office	مكتب التذاكر
+ticket vending machine	ألة لبيع التذاكر
+ticking	قماش مُثَقَّب / قماش لتغليف المراتب
+Ticonal	تيكونال
+tidal bore; eagre; flood wave	موجة مدية
+tidal current; tidal stream	تيار المد والجزر
+tidal datum	مُستوى إسناد المدّ
+tidal energy	طاقة المد والجزر / طاقة المدّ والجزر
+tidal energy converter; TEC	محول طاقة تيارالمد والجزر
+tidal flood current	تيار موجة المدّ
+tidal flood interval	فترة موجة المدّ والجزر
+tidal power plant	محطة توليد الطاقة من المد والجزر / محطة طاقة المدّ والجزر
+tidal power station	محطة توليد بالمد والجزر / محطة توليد بالمد و الجزر
+tidal range	مدى المدّ والجَزر
+tidal traffic	مرور غير منتظم الكثافة
+tiddleywinks effect	ظاهرة الأقراص والكأس
+tide	المد والجزر / مَدٌّ وجَزْر
+tide gate	بوابة المد
+tide pool	بِرْكَة المدّ والجزر
+tides	مدّ وجَزر
+tideway	طريق المد / طريق المَدْر
+tie	ربطة العنق / شَدّاد / رِباط
+tie bar	قَضِيب الرَّبط
+tie bar; tie rod	قضيب ربط
+tie bars	قضبان ربط
+tie beam	جائز رَبْط
+tie bolt	مسمار مخروط
+tie facing design	تصميم الجدائل
+tie knots	عقدة العنق
+tie line	خَطُّ مجموعة اللُّجُف
+tie line; interswitchboard line; tie trunk	خط ربط
+tie neck blouse	بلوزة شانيل
+tie pin	دبوس ربطة العنق
+tie plate	لوح التثبيت، مقعد استناد
+tie point	نقطة وصل
+tie rod	قضيب شدّ / شدّاد
+tie rod principle	طريقة قضيب الربط
+tie rod screw	قضيب ربط
+tie shirt	قميص بربطة عنق
+tie-back	شَدّاد
+tie-beam	جائز شداد
+tie-in weld	دَرْزة لِحام لوصلة
+tie-rod	قضيب رَبْط
+tie; sleeper	كتلة/ عارضة
+tied gyro	جَيروسكوب مقيَّد
+tied on	طائرة مرتبطة
+tied retaining wall	جدار استنادي مشدود
+tiedown diagram	مخطط التثبيت
+tiedown point	نقطة ربط
+tiedown test	اختبار سكوني
+tier	صف؛ طبقة
+tiered skirt	تنورة مُتَرَاصِفة
+tiger’s eye	عين النمر
+tight barrel	برميل كتيم
+tight edged	مشدود الحواف
+tight fold	طَيَّة مُحْكَمة
+tight gas	غاز الضيق
+Tight Hole	حفرة ضيقة / بئر مكتومة الإنتاج، بئر محفورة بمثقب مستعمل
+tight jacketed cable	سلك مغلف بإحكام
+Tight Market	سوق شديدة المنافسة
+tight on power	قوة موجزة
+tight sheet	شريط مشدود
+tightening sequence	ترتيب ربط المسامير
+tightness	إحكام / كَتامة
+tights	جورب نسائي لاصق / سروال قصير للشد / سروال ضيق
+tile	بلاطة / قرميدة، بلاطة
+tile floor	أرضية مبلطة
+tile lining	تَبْليط
+tile; wafer	رقاقة
+tiled roof	سقف مبلّط
+tiles	بلاطات
+tiles (overlapping…)	قرميدات متراكبة
+tiling	تبليط
+till	ترب منجرفة
+tillage	عملية الحرث
+Tillandsia	تيلاندسيا
+tillite	صَخْر حَرِيثيّ
+tilt	تغاير
+tilt angle	زاوية الإمالة
+tilt angle of the wobble plate	الوضع المائل للقرص المتراوح
+tilt container	حاوية قلاّبة
+tilt displacement	انزياح الميل
+tilt during measurement,	زاوية الميل أثناء القياس,
+tilt in application,	زاوية الميل فى الموقع,
+tilt of a stylus	ميل الإبرة
+tilt sensor	حسّاس الميل
+tilt – up construction	تشييد بالرفع
+tilt(ing)-wing VTOL	طائرة إقلاع وحط عمودي بأجنحة قلاّبة
+tilt-rotor VTOL	طائرة إقلاع وحط عمودي بدوّار قلاّب
+tilted collar	ياقة منحرفة
+tilted outlet type water seal	غِطاء مائيّ طراز المخرج المائل
+tilted trim	فتحة مائلة
+tilth	أرض محروثة
+tilting furnace	فرن قابل للإمالة
+tilting fuselage	بدن قلاّب
+tilting head	رأس قلاّب
+tilting high speed railway vehicle	مركبة سِكَكِية عالية السرعة مع إمالة
+tilting moment	عزم الانقلاب
+tilting pad bearing	كرسي تحميل وسادة؛ محمل مخدة مائلة
+tilting screw	لولب ميل
+tilting system	نظام الإمالة
+tilting table	طاولة قابلة للإمالة
+tilting technology	تكنولوجيا الميل
+tilting-duct VTOL	طائرة إقلاع وحط عمودي بمجرى قلاّب
+tilting-engine VTOL	طائرة إقلاع وحط عمودي بمحركات قلاّبة
+tilting-jet VTOL	طائرة إقلاع وحط عمودي بنفاثات قلاّبة
+tilting-nozzle VTOL	طائرة إقلاع وحط عمودي بفوهات قلاّبة
+tilting-propeller VTOL	طائرة إقلاع وحط عمودي بدواسر قلاّبة
+timber	خشب قابل أو عولج صناعيا / خشب
+timber assembling	تجميع الخشب
+timber butt	مِسْنَد خشبي
+timber cabinet-making	خشب صناعة الأثاث
+timber cut down	خشب مقطوع
+timber dam	سَدٌّ خشبيّ
+timber expert	خبير أخشاب
+timber forest	غابة خشب
+timber importer	مستورد الخشب
+timber lining	إكساء (أو تبطين) بالخشب
+timber loading yard	محطة تحميل الأخشاب
+timber merchant	تاجر خشب
+timber of bole	خشب الجذوع
+timber pile	وَتِد خشبي
+timber tracking technology system	نظام تكنولوجيا تتبع الأخشاب
+timber trade	تجارة الأخشاب
+timber trade (the)	تجار الخشب
+timber trolley	عربة لنقل الجذوع
+timbering	تخشيب
+timbering / bracing / sheeting / shoring	تدعيم جوانب (الحفر) بالألواح الخشبية
+Timberland	حذاء تمبرلاند
+timbers	أخشاب
+timbers disease	أمراض الخشب
+timberwork	بناء بالخشب
+timbre	جرس : طابع الصوت الموسيقي
+Timbrelle	ألياف تمبريل ®
+time	زَمنٌ / زمن / وقت
+time and spot chartering	تأجير فوري
+time axis	محور الزمن
+time base	قاعدة زمنية / معامل انحراف / قاعدة زمنيّة، قاعدة الوقت
+time base (frequency counter)	قاعدة زمنية لعدّاد التردد
+time base (oscilloscope)	قاعدة (ال...) الزمنية لأوسّيلوسكوب
+time base jitter	تزامن خارجي
+time between failures,	الزمن بين الانهيارات,
+time between overhauls	زمن بين العَمْرات
+time between successive trains	تَوَالِي القطارات
+time between successive trains departing onto the same section track	الفاصل بين القطارات المتتالية
+time chart, timing chart (diagram)	مُخطَّط زمني
+time charter	استنوال لأجل، استئجار لأجل
+time charter-party	عقد استئجار سفينة لأجل
+time circle	دائرة زمنية
+time coefficient	مُعامل الزمن
+time coherence; temporal coherence	تماسك (التصاق) زمنى / تماسك زمني
+time congestion	اكتظاظ وقتي
+time consistent busy hour; mean busy hour	متوسط ساعة الذروة معدل ساعة الانشغال
+time consolidation curves	مُنْحَنيات التصلب بدلالة الزمن
+time constant	ثابت زمني / الثابت الزمنى / ثابت زمن / تابت زمني
+time constant,	ثابت الزمن,
+time course measurement	قياس المسارات الزمنية
+time deviation ; TDEV	انحراف الزمن
+time dilatation	تمدد الزمن
+time dilation	تمدُّد الزمن
+time distortion	تشوّه زمني
+time diversity	تباين الزمن
+time divided control; time sharing (in control)	تحكم مقسم بالزمن
+time division	تقسيم زمنى
+Time Division Multiple Access	دخول مُتعدد مُقسم زمنياً (TDMA)
+time division multiple access; TDMA (abbreviation)	منفذ متعدّد بالتقسيم الزمني
+time division multiplex transmission	إرسال بمضاعفة التقسيم الزمني
+Time Division Multiplexing	إِرْسالٌ مُتَعَدِّدٌ بِالتَّقْسِيمِ الزَمَنِيّ
+time division multiplexing; TDM	مضاعفة الإرسال بتقسيم زمنى
+time division switching	فصل ووصل (تبديل) تقسيم الوقت
+time factor	عامِل الزمن
+time function	دالة زمنية
+time function element (control)	عنصر الوقت (التحكم)
+time in service	زمن في الخدمة
+time interval	الفاصل الزمني / فترة زمنية
+time interval error	خطأ الفترة الزمنية
+time interval error; TIE	الفترة الزمنية للخطأ؛ خطأ فترة الزمن
+time interval mode, time spacing, time block system	وضع الفاصل الزمني
+Time Interval Target System	نظام الإطار الزمني
+time lag	تخلُّف زمني / تأخّر زمنيّ / تأخير، تأخُّر
+time measurement	قياس الزمن
+time needed to reverse direction of a train	الوقت اللازم لعكس اتجاه القطار
+time of concentration	زمن التركيز / وَقتُ التَّركِيز
+time of equilibrium	وَقتُ التَّوَازُن
+time of flight	زمن الطيران
+time of low grid load	فترة الحمل المنخفض بالشبكة
+time of origin	توقيت المصدر
+time of persistence	زمن الاستمرار
+time of response,	زمن الاستجابة, الكشف عن الغاز
+time of travel	وقت السفر
+time of useful consciousness	زمن الإدراك السليم
+time on bottom	مُكْث في القعر
+time on target	زمن الوصول إلى الهدف
+time over target	زمن الاستحواذ
+time period	زمن الدورة
+time policy	وثيقة تأمين لأجل
+time probabilistic series	أنظمة تبديل
+time program	برنامج زمنى
+time programme	برنامج الزمن
+time pulse distributor	موزع النبضات الزمنية
+time relay; specified-time relay	مُرَحِّل زمني محدد؛ مُرَحِّل زمني
+time release	محرر الوقت
+time remaining until dive	زمن ما قبل الانقضاض
+time reserve	زمن الاستبقاء
+time resolution; limit of accuracy of chronology	تسلسل زمني مطلق
+time response	زمن إستجابة
+time response of Negative Temperature Cöfficient	إجابة مُقاومة ذات مُعامل حراري سالب في المجال الزمنيّ
+time response of nickel measurement resistor 100 wat	إجابة مقياس حرارة نيكلي 100 في المجال الزمني
+time response of platinum measurement resistor 100	إجابة مقياس حرارة بلاتيني 100 في المجال الزمني
+time response of positive Temperature Cöfficient	إجابة مُقاومة ذات مُعامل حراري مُوجب في المجال الزمنيّ
+time rock units	وحدات صخرية زمنية
+time sampling	أخذ مُستمر للعينات
+time scheduled closed-loop control	تحكم حلقي محدد الزمن
+time scheduler	مجدول زمنى
+time scheduling	ضبط الجدول الزمني
+time selector	منتقي زمني
+time series	سلسلة زمنية
+time series modelling	متتالية زمنية واحتمالية
+time server	خادم وقت
+time sharing	مشاركة زمنية
+time sharing operation, (T.S.O.)	عملية الاشتراك الزمني (في استعمال الحواسيب)، نظام المشاركة في استعمال الحاسبات الالكترونية
+time signal	إشارة زمنية / إشارة ضبط الوقت
+time slot	حيّز زمني (مخصص لشركة ما)
+time spent at port	زمن منقضي في الميناء
+time stamp	ختم زمنى
+time table (internal purposes only); station traffic diagram	جدول زمني
+time table capacity	قدرة الجدول الزمني
+time taken to set a conflicting route	مدة تعيين مسارات متضاربة
+time tE	زمن بدء التشغيل
+time tic	نبضة زمنية
+time tick	دَقَّة زمنية
+time to chopping	زمن حتى قطع الموجة
+time to crest,	زمن الوصول الى اقصى قيمة,
+time to go	زمن مُتبقٍّ
+time to half value,	زمن الوصول الى نصف القيمة,
+time to protection	زمن إتمام الوقاية
+time to restoration,	الوقت الازم للإستعادة,
+time to station	زمن الوصول إلى المحطة
+time variation curve; hydrograph	مخطط مائيّ
+time zone	منطقة توقيت
+time-average sound level; equivalent continuous sound level	متوسط زمني لمستوى صوت
+time-average sound pressure level; equivalent continuous sound pressure level	متوسط زمني لمستوى ضغط صوت
+time-change items	أصناف التبديل الزمني
+time-consolidation curve	منحني ارتصاص التربة مع الزمن
+time-continuous signal	إشارة مُستمرة زمنياً
+time-current characteristic	خاصية الزمن والتيار
+time-current zone	منطقة التيار والزمن
+time-current zone limits	حدود منطقة التيار والزمن
+time-delay contactor relay	متمم تلامس بزمن متأخر
+time-delay RCD	أداة تأخير زمني تعمل بالتيار المتبقي
+time-delay switch; TDS (abbreviation)	مفتاح تأخير زمني
+Time-dependent control flow	تحكم تتابعي مُتوقف على الزمن
+time-discrete signal; discrete-time signal; descretely timed signal	إشارة مُتقطعة زمنياً
+time-division multipleX	إرسال متعدد بالتقسيم الزمني
+time-drawdown curve	منحنى هبوط
+time-flow parameter	عامِل التدفق الزمنيّ
+time-independent, adj	غير مرتبطة بالزمن
+time-integration sampling	جَمْع عينات متكاملة زمنياً
+time-intensity curve; strength-duration curve	منحنى تغير الشدة مع الزمن
+time-invariant system	نظام الزمن الثابت
+time-invariant transfer element	عنصر تحويل زمنى ثابت
+time-like position vector	موضع متجه مناظر زمانيا
+time-limited command	أمر محدد الزمن
+time-of-day tariff; multiple tariff	تعرفة زمن اليوم تعرفة متعددة
+time-of-flight spectrometer	مقياس طيف زمن الطيران
+time-oriented sequence control	تحكّم تتابعي مُوجَّه زمنياً
+time-oriented sequential control	تحكم متتابع موجه بزمن
+Time-Rite	ضابط التوقيت
+time-schedule control/ time-programmed open-loop control	تحكّم مُجدوَّل زمنياً
+time-settlement curve	منحني هبوط التربة مع الزمن
+time-shared control	تحكم بتقاسم الوقت
+time-sharing; timesharing; DEPRECATED: time-slicing	مشاركة الوقت
+time-slicing; timeslicing; DEPRECATED: time-sharing	تقطيع الوقت
+time-slot interchange	تبادل عبر فترات زمنية
+time-slot; TS	فترة زمنية
+time-to-track	زمن المسار( الأثر )
+time-triggered storage tank controller	وحدة تحكّم ذات مُحفز زمني لصهريج التخزين
+time/distance/speed scale	مقياس الزمن/المسافة/السرعة
+time/size plot	مخطط الحجم/الزمن
+time/speed scale	مقياس السرعة/الزمن
+time; timing	توقيت
+timebase	دائرة نبضية مؤقِّتة / قاعدة زمنية
+timeliness	توقيت
+timer	مفتاح إلكتروني ميقاتي
+timer; real-time clock	مؤقت؛ ساعة لبيان الزمن الفعلى
+timescale	مقياس الزمن
+timescale,	تدريج زمنى / مقياس زمني
+timeswitch	مفتاح زمني / مفتاح موقوت
+timetable	جدول زمني
+timetable alteration information	معلومات تغيير الجدول الزمني
+timetable processor	معالج الجدول الزمني
+timetable, schedule	الجدول الزمني
+timetable; railway guide	دليل السكك الحديدية
+timing (time) element, time function element, timer	عنصر الوقت
+timing chain	سلسلة ميقاتية
+timing consideration	زمن التعرُّض / زمن الحذر
+timing diagram	مُخطط توقيت دائري / مُخطط التوقيت
+timing disc	قرص التوقيت
+timing gear	جهاز توقيت، ترْس توزيع
+timing information (in a synchronized network)	معلومات زمنية (في شبكة متزامنة)
+timing parallaX	اختلاف الوضع التوقيتي
+timing pulse	نبضة توقيت
+timing recovery	استعادة التوقيتِ / استعادة التوقيت
+timing signal	إشارة توقيت ، إشارة ضبط التوقيت / اشارة زمنية
+tin	مقبس / طلاء بالقصدير / قصدرة / قصدير
+tin coating	قصدرة
+tin-plating	قصدرة
+tin-printing	طباعة الصفيح
+tin/steel cans	علب قصدير / صلب
+Tines	أسنان
+tinned conductor	موصل مغطى بطبقة قصدير
+tinned sheet iron	صاج أبيض، صفيح
+tinning paste	معجون قصدرة
+Tinorex®	تينوريكس ®
+tinsel conductor	موصل ذو شريط معدني
+tint	مشِيج
+tint measuring device	جهاز قياس درجة اللون
+tinted filler	مادة حشو للتلوين
+tinters (stainers)	ملوّنات
+tinting	ضبط درجة اللون
+TIO	محرك تي ـ آي ـ أُو
+tip	إمالة / زاوية مَيل / طَرَف
+tip aileron; wingtip aileron	جُنيح طَرَفي
+tip cargo	حمولة طَرَفية
+tip cart	سيارة قَلَّابَة
+tip chord	وتر الطَرَف
+tip cropping	قَطْل الأطراف
+tip drive	إدارة طَرَفية
+tip droop	تدلِّي الأطراف
+Tip fire	حريق مكب
+tip float; wingtip float	عوّامة طَرَفية
+tip kit	مجموعة لَقْم
+tip loss	ضياع طرفي / فَقْد طَرَفي
+tip of pile	رأس الوَتِد
+tip penetration	نفاذ رؤوس الإبر
+tip plate; bushing base	قاع المنفث
+tip pod	خُدَّة طَرَفية / ظرف طرفي
+tip projection	بروز رؤوس الإبر
+tip radius	نصف قطر المروحة
+tip rake	زاوية مَيل الأطراف
+tip speed	سرعة أطراف الأرياش
+tip speed ratio	نسبة سرعة الأطراف / نسبة السُّرعة الطرفية
+tip stall	انهيار طَرَفي
+tip trailing vorteX	دوّامة طَرَفية خلفية
+tip truck	عربة بِقَلاّبَة
+tip vorteX	دوّامة طَرَفية
+tip-loss factor	عامِل الفَقْد الطرَفي
+tip-path plane	مستوي مسار الأطراف
+tip-sheared tufting	وبر مقصوص ومجعد
+tip-up seat; folding chair	كرسي يُطوي
+tip; pip	طرف دقيق , ندبة
+tip; tip tank; wingtip tank	خزان طَرَفي
+tipper, tipping trough	قلابة، حوض القلابة
+tipping	غطاء طَرَفي / كساء طرفي
+Tipping elements	عناصر التحول
+tipping floor	منطقة تفريغ
+tipping valve	صمام قلاب
+TIR plate	صفيحة العبور الدّولي الطرقي
+Tire	إطار
+tire mounter	مكنة فك الإطارات
+tire pressure gauge	فاحص ضغط الإطارات
+tire pressure inflator	نافخ الإطارات
+Tire Pressure Monitoring System (TPMS)	نظام التحكم في الإطارات
+tire tread	مَدَاس الإطار
+Tire Wet Grip	التماسك على الأسطح الرطبة للإطارات
+tiredness	تدهور / تعب
+tires	إطار مطاطي
+tissue	نسيج
+tissue equivalent material	مادة مكافئة للنسيج / مادة مكافئة للنسيج الحيوي
+tissue paper	ورق حريري
+tissue-equivalent ionization chamber	حجرة تأين النسيج المكافئ
+titaniferous	تيتاني
+titanium	تيتانيوم
+titanium oxide lambda probe	حسّاس لامدا المصنوع من أكسيد التيتانيوم
+Titanium sublimation pump	مضخة تسامي التيتانيوم (تيتان)
+Titi- shirt	قميص تي تي
+title	عنوان
+title block	جدول العنوان
+title page	صفحة العنوان
+titration	معايرة
+titre	عيار
+titre variation	اختلافات عيارية
+TM mode; transverse magnetic mode; E mode (deprecated)	نمط مغناطيسي مستعرض (رمز TM)
+TMC-RDS	قناة المعلومات المرورية (TMC) / نظام بيانات الراديو (RDS)
+TMmn mode (in a waveguide); Emn mode (deprecated)	نمط مغناطيسي مستعرض بمميزات mn(رمز TMmn) (في دليل موجة)
+TMmnp mode (in a waveguide cavity)	نمط مغناطيسي مستعرض بمميزات mnp(رمز TMmnp) (في تجويف دليل موجة)
+TN system	نظام TN
+TN-C system	نظام TN-C
+TN-C-S system	نظام TN-C-S
+TN-S system	نظام TN-S
+to broadcast	ليذيع
+to broadcast (in television); to televise (a programme)	ليبث ( في التلفاز )
+to clear port	غادر الميناء
+to compress	ليضغط
+to convey	نقل
+to decode	لفك الترميز (التشفير)
+to encode; to code	ليرمز ،ليشفر
+to expand	ليتمدد
+to fade down (a programme signal); to fade out	يتلاشى في الأسفل
+to fade up; to fade in	يتلاشى في الأعلى
+to lay	عرض/ إرساء قضبان السكك الحديدية
+to modulate	ليضمن
+to reset	ليعيد الوضع
+to set (in switching)	ليضبط ( الفصل والوصل ، التبديل)
+to sort damaged cars	فرز العربات التالفة
+to split the points	تقسيم التقط
+to transport; to haul	نقل
+to/from	من/إلى
+toat	مقبض مسحاج
+toboggan	مزلقة
+Tods	حذاء تودس
+toe	مسار / مُرْتكَز جدار الدعم / أصبع / طَرَف أمامي / طَرَف سفلي / مرتكز
+toe (of a dam)	مرتكز (ال...) الأمامي للسد
+toe board	لوح ارتكاز
+toe brakes	مكابح العجلات
+toe drain	مصرف قدمة
+toe nailing	تسمير مائل
+toe of a slope	أسفل المنحدَر
+toe of interface	التداخل بين المياه العذبة والمياه المالحة
+toe protection	حِماية قدمة المُنحدر
+toe wall	جِدار القدمة الخلفية
+toe-in	تقارب العجلات الأملمية / تقارب العجلات الأمامية
+toe-nailing	دق مائل للمسامير، تسمير مائل
+toe-out	انفراج المقدمة / تباعد العجلات الأمامية
+toe-out on turns	فارق زاوية انعطاف العجلات
+toed out	تباعدي
+toeing; cross-nailing	تسمير متقاطع
+toga	شَمْلَة
+toggle switch	مفتاح مَفْصِلي
+toile	قُمَاشَة اَلرَّسْم
+toile de bache	قماش القنب
+toilet	مِرْحَاض
+toilet with collection vessel	مِرحاض بحوض تجميع
+Token	إشارة سماح / رمز
+Token Passing	تأشيرة مرور الإشارة (الاتصال)
+Token Ring access method	عملية التمرير بالتأشيرة
+Tokyo cap-and-trade program (TMG ETS)	برنامج طوكيو للحد الأقصى والإتجار (TMG ETS)
+Tokyo Office	مكتب طوكيو
+tolerable daily intake (tdi)	كمية مقبولة لتناول يومي (TDI)
+Tolerable Hazard Rate	مُعَدَّلُ المَخاطِرِ القابِلَةِ لِلتَحَمُّلِ
+tolerable risk	مخاطرة مسموح بها / المخاطر المسوح بها
+tolerance	تفاوت / تساهُل / قابلية التحمل / إطاقة
+tolerance band	نطاق سماح؛ حيز السماحيات
+tolerance of dimensions	تسامح في الأبعاد
+Tolerance of Proving	حدود المعايرة
+tolerance of surface orientation	السماحية لتوجه السطح
+tolerance over the temperature range	سماحية أعلى من نطاق درجة الحرارة
+tolerance; variance	تفاوت
+toll	رسم استخدام الطرق / مَكْس
+toll lane	مَمَرٌّ برسوم
+toll plaza	مَحَطَّة الأَدَاء
+toll road	طريق بالأَدَاء / طريق ذات جُعالة مرور، طريق بأجر
+toll system	نظام حساب وتحصيل الرسوم المرورية
+toluene	تولوين
+toluene core unit	قوارة معالجة بالتولوين
+tomodromic	وُجهة التقائية
+tomography	تصوير شعاعي طبقي
+toms (total ozone mapping spectrometer)	مطياف لرسم خريطة الأوزون الاجمالي (TOMS)
+Ton of Carbon Dioxide Equivalent (tCO2eq)	طن مكافئ من ثاني أكسيد الكربون
+ton(s) of oil equivalent	طن مكافئ بترول
+ton; tonne	طن
+tonal balance	انسجام لوني / توازن نغمي
+tonality	التنغيمية
+tone	نغمة / درجة لون
+tone (in signalling)	نغمة (فى الاشارات)
+tone control	تحكم في النغمة
+tone control aperture	فتحة تحكم فى النغمة
+tone localizer	محدِّد موضع نغمي
+tone paging	استدعاء بالنغمة
+tone ringer	رنان نغمة
+tone wedge	تدرّج نغمي
+tone-corrected perceived noise level	مستوى ضوضاء مدرك مصحح لنغمة نقية
+tong	ملقط
+tong jaws	فَكَّا المِلْقَط
+tongitudinal section	مقطع طولي
+tongs	ملقط، ملزمة، كلابة
+tongue	لسان
+tongue and groove joint	وصلة مجرى ولسان / وصلة حزّ ولسان، تعشيقة حزّ ولسان
+tongue collar	ياقة مقوسة
+tonguing and grooving machine	آلة تخديد وتلسين
+tonguing plane	مسحاج تلسين
+Tonka	تونكا
+Tonking T-shirt	قميص تونكين
+tonnage	طنّية (ال...) / حمولة / حُمُولَةٌ بِالطُّنّ
+tonnage dues	رسوم الحمولة
+tonnage measurement	قياس الحمولة
+tonne	طنّ / طن متري / طن
+Tonne-kilometre by rail	طَن كيلومتري
+tonne/ton/tonnes/tonnage	طن
+Tonnes of Oil Equivalent	طن بترول مكافئ
+tons per inch immersion, (T.P.I)	أطنان لكل بوصة غطس
+tool	أداة / أداة مخصصة للعمل تحت الجهد / عُدَّة
+tool -chest or toolbox	صندوق الأدوات
+Tool attachment point	نقطة حمل الأداة
+tool bit	لقمة عُدَّة القَطع
+tool box	صندوق العدة
+tool cabinet	خزانة العدة
+tool cart	عربة العدة
+tool case	حقيبة العدة
+Tool center point	نقطة مركز الأداة
+Tool change point	نقطة التبادل في الأداة
+tool coordinate system	نظام إحداثيات الأداة
+Tool cutting point	نقطة القطع في الأداة
+tool design	تصميم العُدَد
+tool joint	وُصْلَة أنابيب، وُصْلَة ربط
+tool kit	عُدة السيارة
+tool pusher	رئيس عمليات الحفر، رئيس ورشة حفر
+tool set or toolkit	مجموعة أدوات
+tool steel	صلب العُدَد / فولاذ العُدَد
+Tool support point	نقطة رفع الأداة
+tool, tensioning	عُدّة شدّ
+tool-box	صندوق الأدوات
+tooling	تجهيز العُدَد
+toolmaker	صانع العُدد
+toolroom	غرفة العُدَد
+tools for municipal solid waste management (mswm) planning	أدوات التخطيط لإدارة النفايات البلدية الصلبة
+tooth	سن / سِنٌٌّ
+tooth (the…)	حجارة الربط
+tooth flank backlash	فوت أفخاذ التروس
+tooth flank width	عرض أفخاذ أسنان التروس
+tooth of a key	مسلاط
+tooth pitch	خطوة السن؛ خطوة سنية
+tooth support	دعامة السن
+tooth type	نوع المُسَنَّنَات
+tooth-belt drive	قشاط المحرك على شكل سن
+toothed	مسنَّن
+toothing plane	مسحاج تسنين
+toothing plane blade	نصلة مسحاج التسنين
+top	ملابس علوية
+top bowl	ناقوس (طاس أو ماعون) علوي
+top brine temperature	أعلى درجة حرارة للمحلول
+top brine temperature (TBT)	درجة الحرارة القصوى للمياه الملحية
+top chord	وتر عُلوي
+top cover	غطاء عُلوي
+top dead centre	نقطة ميتة عليا
+top dressing	تغطية عُلوية / رش عُلوي
+top flange	شفة علوية
+top grapple	كلاَّبَة عُلْيَا
+top grapple control	تحكم (ال..) بالكلابة العليا
+top hamper; super structure	رأس البرج
+top hanger	خُطَّاف عُلْوِي
+top hat	قبعة رسمية
+top hat profile	نعل قُبّعي الشكل
+top layer	طبقة سطحية / طَبَقَة عُليَا
+top loading	تحميل عُلوي / تحميل قُمِّي
+top of a slope	أعلى المنحدَر
+top overhaul	عَمرة عُلوية / نصف عَمرة
+top plug	سِدَادة عُلْوِية
+Top Quarter Signal	إِشارَةُ الرُّبْعِ العُلْوِيّ
+top reservoir (of a swell)	خزان علويّ
+Top Secret	سِرِّي للغاية
+top sheet	بياضات السرير / غطاء سرير
+top side	وجه علوي
+top stylist	قائمة أفضل الأساليب
+top sub	وُصْلة ثقيلة عُليا، نَقَّاصَة عليا
+top veneer	تلبيس علوي
+top water level (TWL)	حد أقصى لمنسوب سطح مياه التشغيل
+top width / crest width	عرْض القمة
+top width / surface width	عرْض السطح
+top width / surface width / waterway / width of water level	عُرْض سطح الماء
+top-hat section	مقطع القبعة العُليا
+top-hung sash	إطار بمفصلات علوية
+top-level domain name	المستوى الأعلى فى اسم النطاق
+top-line	سطر علوي
+top-loaded antenna	هوائي علوي التحميل
+top-side ionospheric sounding	سبر أيونوسفيري للجانب الأعلى
+top-temperature control	تحكم في درجة الحرارة العليا
+topaz	ياقوت أصفر
+topcoat	معطف خفيف / مِعطف خفيف
+tophat	قبعة رسمية
+topleas	مظلة الجيب
+topless fashion	صدر مكشوف
+topocentric	مركزي قُمِّي
+topocentric angle	زاويه قياس من سطح الارض
+topographer	مسّاح
+topographic	تضاريسي / طوبوغرافي
+topographic map	خريطة طوبوغرافية / خريطة تضاريسية
+topographic projection	إسقاط طوبوغرافي
+topographic survey	مَسْح طوبوغرافي
+topographical contour map	مَصْوَر المنحنيات الطبوغرافية
+topographical expression	مَلَامِح طبوغرافية
+topography	علم المساحة / طوبوغراقية
+topological diagram of a network	رسم بياني طوبولوجي للشبكة
+topology	طُوبُولُوجيَا (الشبكة) / طوبولوجى
+topology of a network	طبولوجية لشبكة
+toponymy	علم أسماء الأمكنة وأصلها
+Topped Crude	خام مختزل / بقية التقطير الأول
+topper coat	معطف رسمي
+topper jacket	سترة خفيفة
+topper notch	حز مستطيل
+topper sleeve	کم طويل
+topping	طبقة عُلْوية / تشغيل ابتدائي / دورة فوقية
+topping coat	طلية تغطية
+Topping cycle	دورة فوقية
+topping off	تعويض المفقود / مَلء
+Topping Plant	معمل قطف الزيت الخام / وحدة تجزئة، وحدة التقطير الأولي
+topping saw teeth	تسوية أسنان المنشار
+Topping systems	أنظمة فوقية
+Topping units	وحدة فوقية
+topping up	إكمال التعبئة
+topple	تَداعي
+toppled	متداعٍ
+topset bed	قاع أوسط
+topside	جانب عُلوي
+topsoil	تربة (ال...) السطحية / تربة سطحية / تربة فوقية
+topsoil / surface soil / solum	تربة زراعية
+toque	توكة
+tor	طُورْ
+TOR or ToR	أعلى القضيب أو السكة
+tor; torr	تور
+Toramomen process	طريقة تورامومن
+torch	مشعل لحام
+torch body	جسم مشعل لحام
+torch igniter	مُشعِل اللهب
+torch; flashlight, US	بطارية؛ مصباح الكشاف
+torching	تشغيل لهبي / تفريغ باللهب
+torero trousers	سرول المتادور
+toric	حَلَقي
+toric combiner	مُزاوج حَلَقي
+toric level	زئبقية حلقية
+tornado	إعصار/تورناد / إعصار دوّامي / إعصار قُمعي / زوبعة
+toroidal	حَلَقي الشكل
+toroidal reflector	عاكس حلقى
+toroidal vanes	أرياش توجيه حَلَقية
+toroidal winding	لف حلقي
+torpedo director	موجِّه الطوربيد
+torpedo line	خَطُّ الطُّورْ بِيدَات
+torque	عَزْم الدوران / عزم الدوران / عزم محورى / عزم فَتْل / عزم لَيّ
+torque (Nm)	عزم الدوران (نيوتن متر [Nm])
+torque arm	ذراع العزم
+torque boX	صندوق الفتل
+torque boX; torsion boX	صندوق اللي
+torque brake	مكابح الفتل / مكابح اللي
+torque coefficient	مُعامل الفتل / مُعامِل اللي
+torque component	مركّبة الفتل / مركِّبة اللي
+torque converter	مُحول العزم / مُحَوِّل المزدَوِجَة
+torque converter clutch	قابض محول العزم
+torque curve	منحنى العزم
+torque dynamometer	مقياس قدرة عزم اللي
+torque effect	تأثير اللي
+torque horsepower	قدرة اللي الحصانية
+torque link	وصلة اللي
+torque shaft	عمود دوران عزم
+torque spanner [UK] / torque wrench [US]	مفتاح الربط بمقياس عزم اللي
+torque stand	منصة اللي
+torque transducer	حسّاس عزم الدوران
+torque tube	أنبوب عزم اللي
+Torque Vectoring	توزيع عزم الدوران
+torque wrench	مفتاح عزم اللي
+torquemeter	مقياس عزم الفتل / مقياس عزم اللي
+torquer	لاوِيَة
+torquing	لَيّ
+torrefaction	تحميص
+torrent	سيل / سَيْل
+torrent control	تَحكُّم في السيول
+Torsade®	تورساد ®
+Torsen differential	صندوق التروس الفرقية
+torsion	لَيّ / فَتْل / الْتواء / التواء، انفتال
+torsion balance	ميزان التوائي / ميزان اللي
+torsion bar	قضيب لي / عمود لىّ
+torsion bar (steering)	قضيب لي (نظام التوجيه)
+torsion bar spring	قضيب لي نابضي / ياي لي
+torsion beam axle	محور الحامل العرضي الملتوي
+torsion boX	صندوق الالتواء / صندوق الفَتْل
+torsion crank axle	محور بمرفق التوائي
+torsion crepe	كريب التوائي
+torsion damper	مُخمد الاتواء
+torsion damper diagram	مُخطط تخميد التواء
+torsion spring	ياي ليّ
+torsion stress	إجهاد الالتواء، إجهاد اللي
+torsion-bar tab	سُطيح قضيب اللي
+torsion; twist	التواء / انفتال
+torsional fatigue	كلاََل التوائي
+torsional impact	صَدْمَة التوائية
+torsional instability	عدم استقرار التوائي
+torsional load	حمل اللي / حِمل التوائي
+torsional rigidity / (yarns/threads)	صلابة التوائية
+torsional shear test	تجرِبة القص بالفتل
+torsional strength	مقاومة الالتواء
+torsional stress	إجهاد الفتل / إجهاد اللي
+torsionally elastic coupling	قابض اللي المرن
+torso bell	تنورة جرس
+torso harness	حزام الجذع
+torso line	خط الجذع
+tortuosity	تَعرُّج / تَعَرُّج / تعرُّج
+torus	أسطوانة حلقية / نتوء مستدير
+torus; ovolo	فصيد
+torx screw	الشكل النجمي 'توركس'
+Toscana lambskin	خروف توسكانا
+toss bombing	قصف طرحي
+Total / Full Shutdown	إغلاق كلي
+total acidity	حموضة كُلِّيَة
+total allowable catch (tac)	إجمالي الصيد المسموح به
+total angular momentum quantum number	عدد كمى خاص بكمية التحرك الزاوي الكلي للألكترون
+total annual precipitation	مُعدَّل سنويّ للأمطار
+total appearance	ظهور كلى
+total blade-width ratio	نسبة العرض الكلي للأرياش
+total buffer time	إجمالي المدة الفاصلة
+total carbon	كربون كليّ
+total carbon (TC)	كربون (ال...) الإجماليّ
+total Chlorine	مجموع الكلور (أو النتروجين) / كلور كليّ
+total CHP system efficiency	كفاءة إجمالية لنظام توليد مشترك للحرارة والقدرة (CHP)
+total circuit power	القدرة الكلية للدائرة
+total cloud amount; fractional cloud cover	كمية الغيوم الكلية؛ نسبة تغطية االغيوم
+total conductivity	موصِّلية كلية
+total corporate responsibility	إجمالي المسؤولية الاجتماعية للشركات
+total cost accounting (tca)	محاسبة مجموع التكاليف
+Total Cost of Ownership (TCO)	التكلفة الإجمالية للملكية
+total costs	تكاليف إجمالية / تكاليف التشغيل الكلية
+total current density	كثافة تيار كلي
+total curvature	انحناء كلي
+total depth, (T.D.)	عُمْق حَدِّي، عمق كلي
+total direct voltage regulation	تنظيم جهد مستمر كلي
+total discharge	تفريغ تام للشَحن
+total dissolved solids (TDS)	مجموع الجوامد المذابة (أو الذائبة) / المواد الصلبة المذابة / مواد (ال...) الصلبة المنحلة الإجمالية
+total dissolved solids (TDS) (pl.)	إجمالي المواد الصلبة المذابة
+total dissolved solids TDS	إجمالي المواد المذابة
+total distortion content	محتوى التشوه الكلى
+total distortion factor	عامل التشوه الكلي
+total distortion ratio	نسبة التشويه الكلي
+total drag	كبح كلي / مقاوَمة كلية
+total dust concentration	التركيز الكلي للغبار
+total economic value	قيمة اقتصادية كلية
+total efficiency levels	مراحل الكفاءة الإجمالية
+total electric current	تيار كهربائي كلي
+total electricity consumption	إستهلاك إجمالي للطاقة الكهربائية
+total electron content; TEC (abbreviation)	المحتوى الالكتروني الكلي
+Total energy consumption	إجمالي استهلاك الطاقة
+total enthalpy	إنتالبية إجمالية
+total equivalent temperature differential; time averaging (TETD; TA)	تفاضلية درجة الحرارة المكافئة الإجمالية (TETD/ TA)
+total error of a measuring device	خطأ كلي (إجمالي) لجهاز قياس
+total evaporation / water loss	جملة التبخر
+total evaporation /fly-off	جملة التبخر
+total evaporation loss	مُعدّل التبخّر الكليّ
+total fan duty	سِعة كُلّية للمروحة
+total filtration	ترشيح كليّ
+Total Final Consumption	إجمالي الاستهلاك النهائي
+total flow	تدفق كليّ
+total flow / total inflow	إجمالي الدفق الداخل
+total flux	تدفق كلي؛ فيض كلي
+total flux,	تدفق كلي,
+total flux, ; DEPRECATED: linked flux,	تدفق كلي, ؛ فيض كلى
+total gross load,	حمل إجمالي كلي,
+total gross traffic	إجمالى حركة المرور الكلية
+total hardness	عسر كلي
+total harmonic distortion	تشوّه توافقي كلي / معامل التشوه الكلي / تشوّه توافقي كُلّي
+total harmonic factor	عامل التوافق الكلى
+total harmonic factor,	عامل التوافق الكلي
+total harmonic ratio; total harmonic distortion; THD (abbreviation)	نسبة التوافق الكلي
+total head loss	إجمالي فقد الضغط / اجمالي فاقد العلو
+Total heat	حرارة كلية
+total impedance of the human body	معاوقة كلية لجسم الإنسان
+total impulse	دَفْع كلي
+total inorganic carbon (TIC)	كربون (ال...) اللاعضويّ الإجماليّ
+total internal reflection	انعكاس كلّي داخليّ
+total irrigation requirement	إجماليّ احتياج الريّ
+total leakage power (fired conditions)	قدره متسربه كليه (لظروف اشتعال)
+total leg protrusion	بروز كلّي للذراع
+total lift	رَفْع كلي
+total linear stopping power	قدرة إيقاف خطية كلية
+total look	طراز جامع
+total loss	ضرر كُلّي / فاقِد إجماليّ / خسارة شاملة
+total loss (mass) density; specific total loss	عامل المحاثة
+total loss (volume) density	فقد كلى في كثافة الكتلة
+total loss,	فقد كلي,
+total losses	المفاقيد الكلية
+total magnification	تكبير كلي
+total mass stopping power	قدرة إيقاف الكتلة الكلية
+total nitrogen	نتروجين كلي
+total obligational authority	سلطة تعهدية كلية
+total obscuring power	قدرة إعتامية كلية
+total operating time	زمن التشغيل الكلي
+Total Organic Carbon	كربون عضوي كُلّي
+total organic carbon (TOC)	كربون (ال...) العضويّ الإجماليّ
+total oxygen demand	احتياج أقصى من الأكجسين
+total oxygen demand (TOD)	احتياج (ال...) الكليّ للأكسجين
+total phosphorus	فسفور كليّ
+total potential	جُهد إجماليّ
+total power loss	الفقد الكلى للقدرة
+total pressure	ضَغْط إجماليّ
+Total Primary Energy Demand	إجمالي الطلب على الطاقة الأساس
+total propeller-width ratio	نسبة العرض الكلي للداسر
+total quality management (tqm)	إدارة الجودة الشاملة
+total radiation pyrometer	بيرومتر الإشعاع الكليّ
+total reflection	انعكاس كلي
+total reflection; DEPRECATED: total internal reflection	انعكاس كلي / انعكاس كلى
+total reflector current	تيار عاكس كلي
+total reflexion	انعكاس كلي
+total refraction	انكسار كلي
+total resistance	مقاومة كلية
+total respiration	إجماليّ التنفس
+total runoff	كَمّية المدد النهريّ
+total runoff coefficient	عامِل الجريان الإجماليّ
+Total Savings in Primary Energy From Energy Efficiency Initiatives	إجمالي الوفر في الطاقة الأولية من مبادرات كفاءة الطاقة
+total scanning line length	طول خطّ المسح الكلّي
+total solar radiation	إجمالي الإشعاع الشمسيّ
+total solids	مواد صلبة عالقة كلية
+total solids (TS)	مواد (ال...) الصلبة الإجمالية
+total spectral radiance factor	عامل إشعاعية طيفى كامل
+total spring travel	إجمالي مشوار الياي
+total starting time	زمن كلى لبدء التشغيل
+total stopping distance	مسافة التوقف التام
+total storage space	سعة تخزينية كلية
+total sulfur % wt	نسبة مئوية وزنية للكبريت الكلي
+total suspended particulates (TSP)	جسيمات (ال...) الصلبة المعلقة الإجمالية
+total suspended solids (TSS)	مواد صلبة عالقة كلية / مواد (ال...) الصلبة العالقة الإجمالية
+total system	نظام كلي
+total system vehicle	السيارة كنظام متكامل
+total temperature	درجة الحرارة الكلية
+total thickness variation; TTV	تباين السمك الكلى
+total time constant	ثابت الزمن الكلي
+total traffic load	حمولة منقولة
+total train resistance	مقاومة كلية لقطار
+Total Transfer Capability (TTC)	إجمالي سِعة النقل
+total volume of discharged water during dry weather	إجماليّ تدفق المياه في الطقس الجاف / حجم المياه في الطقس الجاف
+total volume of domestic and industrial wastewater discharge	حجم إجماليّ لمياه الصرف المتدفقة
+total volume of rainwater runoff discharge	إجماليّ كَمية تصريف الأمطار
+total water rate	معدل المياه الكلي
+total water requirements / overall water requirement	إجماليّ الاحتياجات المائية
+total weight in service	الوزن الكلي عند الخدمة
+total work	شُغل كُلّي
+total-energy equation	معادلة الطاقة الكلية
+total-package procurement	تنفيذ كلي / عقد إنجازي
+total-pressure head	ارتفاع الضغط الكلي
+total/sum notation	تمثيل عددي جمعي
+totalizer	مِقْياس مجمع (للمطر مثلاً) / مُجْمِل
+Totally Integrated Automation	أتمتة مُدمجة كليًا (بشكل كامل)
+totally-enclosed motor	محرك محكم الغلق
+totco	ميزان الانسياق، تِتْكُو
+tote bag	جيب كيسي
+tote box	صندوق الأدوات
+Totting	تنقيب في النفايات
+touch	لمسة
+touch current	تيار اللمس
+touch down	هبوط
+touch screen	شاشة عاملة باللمس
+touch voltage,	جهد اللمس,
+touch-and-go	المَسْ واتركْ
+touchdown	لمس الأرض
+touchdown aim-point	نقطة استهداف لمس الأرض
+touchdown rate of descent	معدَّل هبوط لمس الأرض
+touchdown runway visual range	مدى بصري للمدرج عند اللمس
+touchdown zone	منطقة لمس الأرض
+touchpad	لوحة اللمس
+touchwire	سلك اللمس
+toughened glass	زجاج مقسى
+toughness	قساوة
+tour	رحلة / فَوْج مُنَاوِبَة، وَرْدِيَّة
+tour operation	تشغيل الجولات
+tour-operator	مُتعهِّد أسفار
+tourism	سياحة
+tourism industry	صناعة السياحة
+tourist class	درجة سياحية
+tourmaline	تورمالين
+Tourney	دورة
+tourniquet	دوار
+tow	جرّ / قَطْر / نُسالة
+tow bar	قضيب القَطر
+tow cable	حبل القطّر
+tow dart	سهم جرّ
+tow point perspective	منظور بنقطتين
+tow starting	تشغيل بالجر
+tow yarn	خيط كتان / خيط نسالة الكتان
+towbar	قضيب جرّ / قضيب قَطْر
+towed glider	طائرة شراعية مقطورة
+towelling	قماش وبرة
+tower	برج / برج المراقبة / بُرج (العنفة)
+tower air inlet	مدخل هواء برج التبريد
+tower air rate	نسبة الهواء في برج التبريد
+tower anti-freeze protection	تحكم في تجمد برج التبريد
+tower approach	اقتراب برج التبريد
+tower blow-out	ترذاذ الماء من برج التبريد
+tower body	جسم البرج
+tower bolt	مزلاج أسطواني
+tower building	مبنى برجي
+tower case alpha	حروف هجائية صغيرة
+tower control	بُرْج المراقبة
+tower crossing	برج مستعرض
+tower drift loss	فقد انسياق برج التبريد
+tower electronic water level control	تحكم إلكتروني في منسوب الماء ببرج التبريد
+tower fan cycling	أداء دوري لمروحة برج التبريد
+tower fire detector	كاشف حريق برج التبريد
+tower handrails	درابزين برج التبريد
+tower heat load	حمل حراري لبرج التبريد
+tower ladder cage	قفص سُلَّم برج التبريد
+tower liquid-to-gas ratio	نسبة السائل الغازي في برج التبريد
+tower packing material	مادة حاملة
+tower range	مدى برج التبريد
+tower recirculation rate	معدل تدوير الماء في برج التبريد
+tower stairway	سُلَّم برج التبريد
+tower swivel clevis	خطاف تدوير للبرج
+tower vibration control	تحكم في اهتزاز برج التبريد
+tower-snag recovery	استرجاع بعائق بُرجي
+towering	ظاهرة الاستطالة / ظاهرة البرجية
+towhook	خُطّاف جرّ / كُلاّب سَحْب
+towing	قطر السيارة المعطلة / قَطْر
+towing basin	حوض الجرّ
+towing capacity	قدرة السحب
+towing eye	حَلَقة الجرّ / عَيْن السحْب
+towing lug	حلقة القَطر
+towing railway	سِكَّة القطر
+towing sleeve	جُلبة جرّ
+towing tank	خزان الجرّ
+towing traps	حزام القَطر
+Town gas	غاز المدينة
+town hall	دار البلدية، قصر البلدية
+town planner	مخطِّط مدن، معمِّر
+town-planning	تخطيط المدن
+Townend ring	حَلَقة تاوْنِنْد
+Townsend avalanche	جِراف تاوْنْسِنْد
+Townsend coefficients	مُعامِلات تاوْنْسِنْد
+Townsend discharge	تفريغ تاوْنْسِنْد
+Townsend ionization coefficients	مُعامِلات تاوْنْسِنْد للتأيُّن
+toxic	سامٌّ / سام
+toxic compound	مُركَّب سام
+toxic equivalent	مُكافِىءٌ سُمِّيّ
+toxic gas	غازسام, الكشف عن الغاز
+toxic pollutant	ملوثات سامة
+toxic properties	خواص سامّة
+toxic substance	مادة سامّة / مادة سامة
+toxic waste	نُفايات سامّة / نفايات سامة
+toxicity	سُمِّيَّة / سُمِّية / سُمِّيَة
+toxicity assessment	تقييم سمية
+toxicity of petrol	سِمِّية النفط
+toxicity test, dynamic / toxicity test, flow-through	اختبار السُمّيّة الدينامي
+toxicity, acute	سُميَّة حادة / سمية، حادة
+toxicity, chronic	سمية، مزمنة
+toxicity, subacute	سُمِّيَة، تحت الحادة
+toxicology	علم السموم
+toxin	توكسين / ذيفان
+Toyo Boseki yarn	خيط غزل 'طويو بوسيكي'
+Toyota Production System	Toyota Production System
+trabeated	منشأ، مؤفّق
+trace	مَسار / أثر / سطر
+Trace 700	برنامج حساب الأحمال 'Trace 700'
+trace element	طبقة راشحة / عنصر نزر / عنصر نَزْر
+trace element (analytical)	عُنصر نادِر (تحليلي)
+trace element (pl.); secondary element (pl.); minor element (pl.)	عنصر نادر
+trace gas	غاز نزر / غاز النزرة
+trace heater	جهاز تسخين بالتتبع / سخان بالتتبع
+trace heater unit; trace heater set	وحدة سخان بالتتبع؛ مجموعة سخانات بالتتبع
+trace heating	تسخين بالتتبع
+trace heating system,	نظام تسخين بالتتبع, تسخين بالتتبع
+trace organics	أثَر عضويّ
+trace ratio,	نسبة أبعاد, تسخين بالتتبع
+trace; line; scan	اثر ، تعقب
+trace; tracking	تتبُّع
+trace; tracking; trail	اقتفاء
+traceability	تتبعية / توافق ((لقياس)
+tracer	مادة مُقْتَفِية / كاشف / مقتفي الأثر / ذخيرة كاشفة / مادة استشفافية
+tracer dispaly	بيان كاشف / شاشة اقتفائية
+tracer line	خط كاشف / خط مُقتفي
+tracer of pollution	مكشاف التلوث
+tracer, chemical	مُقتَفِ كيميائيٌّ
+tracheae	قصبات هوائية
+trachyte	تراكيت
+tracing distortion	تشوة تتابعي
+tracing paper	ورق نسخ، ورق شفٍّ / ورق شفّ
+track	سِكَّة (حديدية) / طريق/ مسار / مســار / عرض العربة / يتتبَّع / يقتفي / مَسارٌ حَدِيدِيّ
+track (etch) detector	كاشف المسار
+track (in the compact disc digital audio system)	مسار ( في النظام الرقمي السمعي ذي القرص المدمج)
+track (on a digital recording medium)	مسار (في وسط تسجيل رقمي)
+track angle	زاوية المسار
+track area	منطقة المسار
+Track Axillaries	ملحقات السكة
+track axle	محور دوران المسار
+track ball	كرة التتبُّع
+Track ballast	بَحْص
+track ballast (1)	بنية فوقية
+track ballast (2)	بنية فوقية، مغلقة
+track ballast (3)	بنية فوقية، مفتوحة
+track ballast (4)	بنية فوقية، في عشب
+track ballast (5)	بنية فوقية . دون صابورة
+track beacon	منارة اقتفائية / منارة لااتجاهية
+track bed structure	بنية فوقية للمسارات
+track cable	كَابِل تعليق
+track chamber	حجرة تتبع
+track circuit	مدار المسارات / دائرة مسار
+track circuit compensating capacitors	مكثفات تعويضية لدائرة مسار
+track circuit diagram; track circuit plan	مخطط دائرة المسار
+track circuit interrupter	فاصل دائرة مسار
+Track Circuits	دوائر المسار
+track cleaning locomotive	قاطرة تنظيف السِكَّة
+track cleaning wagon	عَرَبَة تنظيف السِكَّة
+track clearance	إجازة المسار / تصريح المسار
+track closure; track closed (by order of traffic controller)	غلق المسار
+track conductor system	نظام التوصيل على المسار
+track configuration	ترتيب مسار
+track correcting bearings	محمل مُصحّح للمسار
+track correlation	مطابقة المسار
+track crossing angle	زاوية تقاطع المسارات
+track density	كثافة مسار
+track diagram	محطة تحويل عن طريق التحكم البصري
+track displacement (1)	تشريد المسارات
+track displacement (2)	تشريد المسارات
+track distance	مسافة بين المسارات
+track elements	عناصر المسار
+track gauge	مقياس توسع المسار / تباعد السكة / سَعَةُ المَسارِ الحَدِيدِيّ
+track groove	حز
+track guard	نطاق حماية
+track handover	مناولة المسار
+Track Improvement Layer	طبقة تحسين المسار
+track initiator	بادئ الاقتفاء
+track intervals	فواصل المسار
+track jumper cable	كبل وصلة المسار
+track layout	بناء المسارات
+track length	طول المسار
+track lock lever	ذراع قَفْل المجرى
+track lock, stop block, derailer, scotch	انحراف السكة
+track made good	مسار صحيح
+track magnet	مغناطيسية المسار
+track marker	معلِّم المسار
+track motor car	سيّارة سكّة حديد يدوية / عَرَبَة المسار
+track number	رقم المسار / رقم مسار
+track number indicator	مؤشر رقم المسار/ الطريق
+track occupancy indicator	مبين اشغال المسار
+track occupation plan	خطة احتلال المسار
+track occupied indicator	مؤشر احتلال الطريق
+track pitch	خطوة مسار
+track plan	مخطط المسار
+track production	تحقيق المسار
+track recording vehicle	عَرَبَة تسجيل المسار
+track relay	مرحل مسار السكة
+track repetition	تكرار المسار
+track return system	نظام المسار الراجع
+track rod	ذراع التوجيه
+track scales, freight car scales, rolling stock weighbridge	جسر للوزن على السكك الحديدية
+track sectioning cabin, ; track paralleling cabin,	كابينة مزودة بسكاكين وموزعات التقسيم,
+track separation	انفصال المسارات / فَصْل المسارات
+track spike	مسمار السكة
+track substructure	مسار البنية التحتية
+Track Support Zone	منطقة دعم المسار
+track survey	خط عبور
+track symbology	رموز المسار
+track telling	إبلاغ المسارات
+track width	عرض المسار
+track with three rails	مسار متكون من ثلاث سكك حديدية
+track, track system, track infrastructure, roadway, guideway	نظام المسارات
+track-based vehicle	مركبة المسار
+track-oriented	منسَّق مع المسار / موجَّه مع المسار
+track-production area	منطقة تحقيق المسار
+track-switch intersection point	تقاطع التحويلات
+track-to-train transmission	نقل المعلومات من المسار للقطار
+track-two ji	مسار اثنان للتنفيذ المشترك
+track-while-scan	اقتفاء مَسْحي
+track; route	قسم/ طريق
+trackage	سكة حديدية
+trackball; control ball	الكرة الموجودة فى الفأرة؛ كرة تحكم
+tracker	متتبع (شمسي)
+tracking	مسار / تكوين مسارات سطحية موصلة جزئياً / موالفة / موالفة آنيّة
+tracking ability	قدرة على التتبع
+tracking antenna	هوائي تتبُّع
+tracking chart	مخطط التعقب
+tracking error of white shading	خطأ في تتبع التظليل الأبيض
+tracking failure	إنهيار المسار
+tracking filter	مرشِّح موالفة
+tracking pits	حفرة تتبع المسار
+tracking station	محطة متابَعة
+tracking surface collector	مُجَمِّع ذو سطح تتبّعي
+tracksuit	بذلة رياضية / بذلة التدريب
+tracksuit bottoms / jogging trousers / joggers	سروال رياضي
+trackway	طريق مَوْطِئ
+trackwork	بناء السكك الحديدية
+traction	جر
+traction box	صندوق لسحب أسلاك
+traction coefficient	مُعامل الوصل الاحتكاكي
+Traction Control (TC)	التحكم في الجر
+traction control system	نظام التحكم في الجر
+traction converter transformer	محول جر
+Traction Current	تيار الجر
+traction current supply, traction power supply	امداد بالطاقة للسكك الحديدية
+traction diagram	مُخَطَّط الجر
+traction fleet	أسطول جرّ
+traction force unit characteristic	خاصية وحدة قوة الجر
+Traction Inverter	عاكس الجر
+traction inverter transformer	محول جر عكسى
+traction motor	مُحَرِّك جر / محرك جر
+traction motor isolating switch	مفتاح عزل محرك الجرّ
+traction output of a thermo-electric vehicle	خرج الجر لمركبة كهروحرارية
+traction phase	مرحلة الشد
+traction power	قوة الجر
+Traction Power Distribution	توزيع طاقة الجر
+Traction Power Supply (TPS)	مصدر طاقة قوة الجر
+traction rope	كَبْل (حَبْل) الجر
+traction substation	محطة تغذية نظام جر
+traction substation, ; substation,	محطة فرعية (للجر),
+traction tire	إطار الجر
+traction tyre [UK] / traction tire [US]	إطار متماسك بالطريق
+traction unit	وحدة جرّ
+traction vehicle	عَرَبَة الجر
+Tractive Effort	جهد الجر
+tractive effort on starting	جهد الجر عند الانطلاق
+tractive effort,	جهد الجر,
+tractive load	الحمولة القصوى
+tractive power	قوة الجر
+tractive vehicle	عَرَبَة الجر
+tractor	قاطرة سرجية / جرّار
+tractor aeroplane	طائرة مسحوبة
+tractor gate	بوابة جرار
+tractor-trailer operation	وضع جر المقطورة
+tradable (green) certificates scheme	خطة شهادات (خضراء) قابلة للتداول
+Tradable Permit for Greenhouse Gas Emissions	حقوق إطلاق انبعاثات غازات الدفيئة القابلة للتداول
+trade	تجارة
+trade association for wind farms	اتحاد اقتصادي لمحطات طاقة الرياح
+trade balance	ميزان تجاري
+trade barrier	حاجز تجاري
+trade secret	سر الصنع
+trade union	نِقَابة
+trade wind	رياح تجارية
+trade winds	رياح تجارية
+trade-off	تكلفة استبدال ميزة بأخرى
+trade-offs of ecosystem services	حل وسط لخدمات النظام البيئي
+tradeable permits	تصاريح قابلة للتداول
+trademark®	عَلامَة تِجَارِيَّة
+tradeoff	مبادَلة
+trading in CO2 emission allowances; trading in CO2 allowances	تجارة شهادات الانبعاثات الكربونية
+trading period	فترة النشاط
+trading port	ميناء تجاري
+tradiotional agricultural society	مجتمع زراعي تقليدي
+traditional agriculture; traditional farming system (tfs)	نظام الزراعة; لتقليدية زراعة تقليدية
+traditional Bavarian jacket	سترة بافارية
+traditional costume / national costume	زي تقليدي
+traditional knowledge	معرفة تقليدية
+traditional medicine	طب تقليدي
+traditional neighborhoods	أحياء تقليدية
+traditional people	أناس تقليديون
+traditional Tegernsee jacket	سترة تيجرنسي
+traffic	حَرَكَة المُرُور / حركة المرور الجوي / حركة النقل الجوي / رَصْد مرور / كثافة حركة المرور / حركة المرور
+traffic (in telecommunication)	حركة اتصالات
+traffic assignment	تخصيص السير
+traffic burst (in TDMA)	دفعة مرور (في أسلوب تبادل البيانات )
+traffic capacity	قدرة على تصريف السير
+traffic carried	إتصالات منفذة
+traffic carried (intensity); traffic load	كثافة الاتصال المنفذة
+traffic census inquiry	اسْتِقْصَاءُ حركة السير
+traffic circuit	دارة مرور / دارة اتصالات
+traffic construction	بناء حَرَكَة المُرُور
+traffic control	التحكم بالمرور
+traffic control device	نبيطة التحكم فى إشارة المرور
+traffic controller; regulator	منظم حركة المرور
+traffic cut	قَطْع السَّيْر (أو المرور)
+traffic density	كثافة (حركة) المرور، كثافة السير / كثافة حركة المرور (عدد السيارات في الميل في لحظة معينة)
+traffic density, traffic volume	الكثافة المُرُورية، وحجم حَرَكَة المُرُور
+traffic distribution	توزيع حركة السير
+traffic engineering	هندسة حركة السير / هندسة المُرُور
+traffic flow studies	دراسات الحَرَكَة المُرُورية
+traffic information	معلومات مرور
+traffic intensity	كثافة حركة الاتصالات
+traffic island	جزيرة لتنظيم المرور
+traffic lane	سكة السير / مَسْرَب المرور
+traffic law in transport	قانون المرو
+traffic light pre-emption	عملية التشويش عن طريق استخدام الاشارات الضوئية
+traffic lights	أضواء السير، أضواء التشوير
+traffic load control	تحكّم في حمل حركة مرور
+traffic load divided control; load sharing (in control)	تحكم مُقسّم لحمل حركة مرور
+traffic load imbalance; traffic distribution imbalance	عدم توازن حمل الاتصالات
+traffic management system	نظام إدارة حَرَكَة المُرُور
+traffic matrix	مصفوفة اتصالات
+traffic meter (in telecommunications)	عداد تسجيل المرور (فى الاتصالات عن بعد)
+traffic network; transport network	شبكة النقل
+traffic offered	حركة الاتصالات المتاحة
+traffic paint	دِهَان علامات المرور
+traffic parcel; point-to-point traffic	حزمة مرورِ
+traffic pattern	نمط مروري
+traffic peak	ذُرْوَة حركة المرور
+traffic performance, transport capacity	أداء الحَرَكَة والقدرة على النَّقل
+traffic psychology	سيكولوجية المُرُور
+traffic rights	حقوق الطريق
+traffic road	طريق المرور
+traffic routing	توجيه وتحديد المسارات
+traffic routing (in circuit switching)	مسار المرور (في فصل وتوصيل الدارة)
+traffic routing plan	خطة توجيه الاتصالات
+traffic safety engineering	هندسة السلامة المُرُورية
+traffic sign	إشارة المرور / إشارة مرور، لوحة إشارات المرور
+traffic signal	إشارة مرور ضوئية
+traffic signal; traffic light	ضوء إشارة المرور
+traffic signalling and control	إدارة حركة المرور و الاشارات الضوئية
+traffic statistics, transport statistics	إحصاءات حَرَكَة المُرُور، وإحصاءات النَّقل
+traffic stream	مَجْرى السير، مجرى المرور، تدفق المرور
+traffic studs	مسامير مرور
+traffic system, transport network	نظام المُرُور، وشبكة النَّقل
+traffic systems; road traffic technology	أنظمة المُرُور. تكنولوجية حَرَكَة المُرُور
+traffic telematics, intelligent transport system	تقنيات المَعلُومات المُرُورية، ونظام النَّقل الذكي
+traffic theory	نظرية حَرَكَة المُرُور
+traffic volume	حجم الاتصالات / حجم حركة المرور
+traffic,	حركة المرور,
+Traffic-Aware Cruise Control (TCC)	نظام تثبيت السرعة الذكي
+traffic-carrying device	جهاز حمل المرور
+tragedy of the commons	مَأْسَاة المُشَاعَات / مأساة المشاعات
+trail	أثر / تعقُّب / مسلك خلفي
+trail angle	زاوية الجر
+Trail Balance	ميزان المراجعة
+trail distance	مسافة التخلُّف
+trail formation	تشكيل تتبُّعي
+trail length	طول الذيل
+trail rope	حبل ذيلي
+trailable points	نقاط قابلة للقطر
+trailable turnouts; spring point	نقطة التراجع
+trailer	مقطورة / طائرة مقتفية / مقطورة نقل
+trailer ball	رأس كروية لقارنة مقطورة
+trailer brake valve (EBS)	صمام فرامل المقطورة (نظام الفرامل المحكوم إلكترونياً)
+trailer brake valve with advanced response	صمام فرملة المقطورة المُزود بخاصية الضغط الإضافي
+trailer brake valve with advanced response and release valve	صمام فرملة المقطورة، المزود بخاصية الضغط الإضافي وصمام إعتاق الفرملة
+trailer brake valve, integrated ALB	صمام فرملة المقطورة المُزود بمنظم قوى الفرامل الأوتوماتي المرتبط بالحمولة
+trailer brake valve, integrated pneumatic spring pressure controlled ALB	صمام فرملة المقطورة المُزود بمنظم قوى الفرامل الأوتوماتي المرتبط بالحمولة المحكوم بضغط التعليق الهوائي
+trailer control unit	وحدة التحكم في المقطورة
+trailer control valve	صمام التحكم في المقطورة
+trailer coupling ring	عروة سحب
+trailer deck	سَطْح الشاحنة (خاصة بالشاحنات)
+trailer electrical system	ANH
+trailer electronics	إلكترونيات المقطورة (ANH)
+trailer hitch	قارنة المقطورة
+trailer hitch wiring kit	طقم كهربائي لقارنة مقطورة
+trailer king-pin	قُطْب القرن
+trailer modulator	جهاز تضمين المقطورة
+trailer on flat car	مقطورة على عَرَبَة مسطحة
+trailer operation	جر المقطورة
+trailer release valve	صمام إعتاق فرملة مقطورة
+trailer socket	مقبس المقطورة
+trailer stability assist (TSA)	نظام تعزيز اتزان المقطورة (TSA)
+trailer tape	نهاية الشريط
+Trailer Vehicle	المقطورة
+trailing aerial	هوائي خلفي
+trailing area	مساحة خلفية
+trailing axle	محور مُنقاد / محور المؤخرة
+trailing brake shoe	حذاء الفرامل المتأخر
+trailing edge	حافّة خلفية / حافة خلفية
+trailing load; gross load hauled	حمل زائد
+trailing points	نقاط تفريع المسار
+trailing sweep	تراجُع خلفي
+trailing truck	عَرَبَة القطر
+Trailing Turnouts	إِقْبالٌ مُتَأَخِّرٌ
+trailing vorteX	دوّامة خلفية
+trailing wheel set	دواليب خلفية
+trailing-edge broadening ; decay-time broadening	اتساع حافة التعقب
+train	قِطار / قِطَار / قطار / رتل قنابل / قطار قنابل / القِطَارُ
+train backbone; train bus	قضبان القطار
+train bombing	قذف رتلي / قصف رتلي
+Train captin	مُشْرِفُ القِطارِ
+Train collisions	حَوادِثُ اِصْطِدامِ القِطارِ
+train communication network	شَبَكَةُ اِتِّصالاتِ القِطارِ
+train communication network; TCN	شبكة إتصالات للقطار
+train conductor, chief guard	رئيس القاطرة
+Train control module of ARAMIS system	وِحْدَةُ التَحَكُّمِ بِالقِطاراتِ لِنِظامِ "ARAMIS"
+train control officer; dispatcher	رئيس القطار
+train density; traffic flow	كثافة القطار
+train departure indicator	مؤشر انطلاق القطار
+Train Depot	مَرَاكِزُ المَبِيتُ
+train describer	واصف قطار
+train describer system	مكتب الاتصالات الذي يعرض أرقام القطارات
+train destination plate	لوحة تشير إلى وجهة القطار
+train destination sign	علامة اتِّجَاه القِطَار
+train detection	كاشف القطار
+train detection module	نموذج كشف القطارات
+train dispatcher	مراقب حركة القطار
+Train Driver	قَائِدُ القِطارِ
+train driver, engine driver, engineer	سائق القطار
+Train End – Detection System	نِظامُ الكَشْفِ عَنْ نِهايَةِ القِطارِ
+train entering with shortened entry path; short entry	تدريب على مدخل ضيق
+train ferry	مُسَافِن قطارات، مُنَاقِل قطارات
+train graph (train diagram); graphic schedule	الرسم البياني للقطار
+train heating winding	ملف التدفئة للقطار
+train integrity	تكامل القطار
+train length	طول القِطَار
+train lighting	إضاءة القِطَار
+train line	خط القطار
+train listing	قائمة العَرَبَة
+train location,	موقع القطار,
+train message	رسالة القطار
+train network	شبكة القطار
+train network address	عنوان شبكة القطار
+train network management	إدارة شبكة القطار
+train notification point	مكتب الإعلان عن قدوم القطارات
+train number 1	رقم خط سككي 1
+train number 2	رقم القطار 2
+train operating centre (TOC)	مركز صيانة السكك الحديدية
+train operating company	شركة تشغيل القطارات
+train passed station' confirmation	رسالة العبور
+Train Passenger	راكِبُ القِطارِ
+train path	مسار قطار / مسار القطار
+train path price	سعر المسار
+Train Pilot	مُساعِدُ سائِقِ القِطارِ
+train power supply circuit; train auxiliary circuit	دائرة تغذية القطار بالقدرة
+train power supply generator; auxiliary supply generator	مولد لتغذية قطار بالقدرة
+train radio	راديو القطار / راديو القِطارِ
+Train Recording Unit	وحْدَةُ تَسْجِيلِ بَياناتِ القِطارِ
+train register (book); train record	سجل القطار
+train report	تقرير القطار
+train reporting location (to train control officer)	مكتب الاتصالات الخاص بالتحكم قي وجهة القطار
+train reservations	حجز القطار
+train schedule information	معلومات الجدول الزمني للقطار
+train shunt	تحويله لقطار
+train speed supervision	مراقبة سرعة القطار
+train stop	جهاز إيقاف القطار
+train ticket	تذكرة القطار
+train tracking	تتبع القطار
+train type; class of train	فئة القطار
+train washing tracks	مسارات غسل القِطَار
+train, post-treatment	عملية مُعالجة لاحقة
+train, pre-treatment	طُرق المُعَالَجَة الأولية
+train-protecting signal	إشارة تدل على سلامة القطار
+train-unit; motor train-unit	وحدة قطار
+trainer	طائرة تدريب
+training	تدريب / تدريب، تعليم
+Training Affairs	شؤون التدريب
+Training Affairs Sector	قطاع العضو المنتدب لشؤون التدريب
+training aids	مساعِدات التدريب
+Training Department	دائرة التدريب
+training package	عقْد تدريب
+training process	برمجة تعليمية
+training process, electronic system	برمجة تعليمية للأنظمة الإلكترونية
+trainset	مجموع عربات القِطَار / مَجْمُوعَةُ عَرَباتِ القِطارِ
+trait	سِمةَ
+trajectory	مسار المقذوف
+trajectory band	رباط مساري
+trajectory scorer	مسجِّل المسار
+trajectory shift	زحزحة المسار
+tram	تُرام / الترام / قِطارٌ حَضَرِيّ خَفِيفٌ
+tram stop island; bus stop island	توقف جزيري
+tram; trammel bar	قضيب عاتق
+trama vaga	تراما فاجا
+tramline	خط الترام
+tramline pointer	مؤشر خط التوازي
+tramlines	خطوط تَوازي
+trammel net	شبكة مثلثة
+tramper	مظلة المسافر
+tramway	ترام / ترامواي
+tramé silk / tramé yarn	حرير تراما، خيوط تراما
+Trans European Trunked Radio System	نظام الراديو المزود الأوروبي
+trans-European energy network	شبكة طاقة عَبْر أوروبية
+trans-horizon propagation	انتشار عبر الأفق
+trans-horizon radio-relay system	نظام مرحل اذاعي عبر الافق
+trans-ionospheric propagation	انتشار عبر الأيونوسفير
+Trans-Mediterranean Renewable Energy Cooperation (TREC)	مجموعة التعاون عبر البحر الأبيض المتوسط للطاقة المتجددة (TREC)
+trans-national	دولي
+trans-national HVDC electricity grid	شبكة نقل تيار الجُهد العالي المُستمر دولياً
+trans-seasonal coat	معطف خريفي
+transaction costs	تكاليف المعاملات / تكاليف المعاملة
+transadmittance	السماحيه المتبادله
+transattack period	فترة الهجوم
+transaxle	ناقل الحركة ذو المحور
+transaxle design	تصميم ذو صندوق تروس مُرحّل
+transborder	عبر الحدود
+transboundary aquifer (or transboundary aquifer system)	نظام طبقات المياه الجوفية العابرة للحدود
+transboundary water course	مَجْرَى مائيّ عَابِر للحُدُود
+transboundary water course state	دولة مُجاورة تسري فيها مجاري مائية مُشتركة
+transboundary watercourse	مجرى مائي عابر للحدود
+transceiver	مرسِل مستقبِل / جهاز إرسال و استقبال
+transceiver,	جهاز ارسال واستقبال, الكشف عن الغاز
+transceiver; transmitter-receiver	مرسل ومستقبل
+transcoder	محول شيفرة
+transcoding (in colour television)	تحويل الترميز (في التلفاز الملون )
+transcoding (in pulse code modulation)	تمرير التشفير
+Transcodlng and Rate Adaption Unit	وحْدَةُ تَحْوِيلِ الشَفْرَةِ وَتَكْيِيفِ المُعَدَّلِ
+transconductance	موصليه تبادلية
+transconductance (of a field-effect transistor)	الموصلية التبادلية (لترانزستور تأثير المجال)
+transcription	النسخ - التناسخ
+transducer	مُحوِّل / ناقل اشارة / محول إشارة / محوِّل طاقة / محوّل الطاقة / مُحوِّل الطاقة
+transducer attenuation	توهين ناقل الطاقة
+transducer cartridge	خرطوشة محول إشارة
+transducer gain	كَسْب محوِّل الطاقة
+transducer gain (of a two-port device)	كسب مبدل طاقة (لجهاز ذو منفذين)
+transducer loss (of a two-port device)	فقد مبدل طاقة (لجهاز ذو منفذين)
+transducer phase	طور ناقل الطاقة
+transducer with offset zero	مُحوِّل قياس مُرحَّل الصفر
+transducer with offset zero; transducer with live zero	محوّل إشارة ذو صفر مزاح
+transducer with suppressed zero	مُحوِّل قياس بصفر مكبوت / مُحول إشارة مُزال الصفر
+transducer, ; electroacoustic transducer,	محول إشارة,
+transducing element	عنصر تحويل
+transductor	محول حثي / ناقل طاقة / محوِّل حث / عنصر تضخيم مغنطيسي
+transductor element	عنصر محول حثي
+transductor fault limiting coupling	محول حثي للحد من العطل
+transductor reactor	مفاعل بمحول حثي
+transductor regulator	منظم بمحول حثي
+transepithelial potential difference	فرق جهد ظاهرى
+transerter	قابس سطحي
+transerter auger	بَرِيمة القابس السطحي
+transesterification	أسترة تبادلية / أسْتَرة تبادلية
+transfer	نَقْل / نقل
+transfer (or move) instrcutions	أوامر تحويل البيانات، أوامر نقل التعليمات
+transfer admittance	مسامحة تحويل
+transfer area	منطقة النقل بين الألية وغير الألية
+transfer busbar	قضيب تجميع للتحويل
+transfer characteristic; mutual characteristic	خصائص تحويل
+transfer characteristics	سلوك تحويلي
+transfer coefficient	مُعامل نقل
+transfer coefficient of a measuring transduce	مُعامل نقل مُحوِّل قياس
+transfer coefficient of a valve	مُعامل نقل صمّام
+transfer current	تيار الانتقال
+transfer element	عنصر تحويل
+transfer ellipse	إهليلج انتقالي
+transfer factor (of a DC converter)	عامل تحويل ( لمغير التيار المستمر )
+transfer function	دالة تحويل / دالِّة تحويل / تابع التحويل / دالة التحويل
+transfer function (1)	دالة تحويل (1)
+transfer function (2); transmittance; response function	دالة تحويل (2)
+transfer function and differential equation	دالة تحويل ومعادلة تفاضلية
+transfer function method (TFM)	طريقة دالة التحويل
+transfer function,	دالة التحويل,
+transfer function; frequency response	معادلة التحويل
+transfer heater	سَخَّانَة أسفلت
+transfer immittance	قبولية معاوقة نقل / قبولية التحويل
+transfer impedance	معاوقة التحويل (ممانعة) / معاوقة تحويل
+transfer impedance (of a screened circuit)	معاوقة تحويل (لدارة محجبة)
+transfer level / table; traverser; travelling platform	هيكل عبارة القطار
+transfer line	خط تحويل
+transfer loader	مُحَمِّل تحويلي
+transfer of control	تحويل التحكم / نقل التحكم
+transfer of development rights (tdr)	نقل حقوق التنمية
+transfer orbit	مدار انتقال / مدار انتقالي
+transfer paper	ورق ترحيل
+transfer pattern	نموذج مُعلّق
+transfer point	نقطة انتقال / نقطة إقران
+transfer port	منفذ إنتقال
+transfer price	رسم استهلاك الطاقة
+transfer punch	ثقب النقل
+transfer rate	معدل النقل
+transfer ratio	نسبة تحويل
+transfer slot	تجهيزة الخليط الانتقالي
+transfer station	محطة انتقال / محطة إقران
+transfer switch	مفتاح تحويل
+transfer time	زمن التحويل / زمن النقل
+transfer time (of a gas discharge)	زمن الانتقال (للتفريغ الغازي )
+transfer, verb; move, verb	ينقل, فعل؛ يحرك
+transferred arc plasma torch	مصباح بلازما القوس المتنقل
+transferred position line	خط موضع منقول
+transform coding	ترميز بالتحويل
+transformation	تحويل
+transformation of coordinates	تحويل الإحداثيات
+transformation of electricity	تحويل الكهرباء
+transformation of energy system	تحويل نظام الطاقة
+transformation pathway	مسار تحول
+transformation pattern	نموذج التحول
+transformation radio	نسبة التحويل
+transformation twinning	توأمة تحويلية
+transformations factory of wood	معمل تحويل الخشب
+transformer	مُحوّل (كهربائي) / مُحوِّل / محوِّل / محوّل / محول / برنامج TRNSYS
+transformer bridge	قنطرة محول
+transformer circuit-breaker	قاطع المحول
+transformer kiosk	غرفة المحوّل
+transformer oil	زيت محولات
+transformer station	محطة محولات
+transformer station electrical substation	محطة تحويل فرعية
+transformer substation	محطة تحويل فرعية / محطة فرعية للمحولات
+transformer substation,	محطة فرعية تحويل,
+Transformer Tap Settings	إعدادات نقاط المحولات
+transformer with radially laminated core	محول بقلب مصفح قطرياً
+transforming substation	محطة تحويل فرعية
+transgenic	معدل وراثيا
+transgenic cotton	قُطن مُعدّل جينياً
+transgression	تجاوز
+transhipment	مُسَافَنة، مُنَاقَلة
+transhumance	انتجاع
+transient	عابر / مؤقَّت / عابِر، وقتي
+transient behaviour	أداء عابر
+transient behaviour/ transient response	استجابة عابرة
+transient climate experiment	تجربة مناخية عابرة
+transient climate response	استجابة المناخ العابرة
+transient current	تيار عابر
+transient detection	كشف عابر
+transient distortion	تشوُّه عارض
+transient fault, ; DEPRECATED: volatile fault	خطأ لحظى،, ؛ سابقاً: عطل عابر
+transient initial transient	ظاهرة حئولية
+transient instability (of a power system)	عدم استقرار النظام الكهربائي في الحالات العابرة
+transient insulation fault	عطل عزل عابر
+transient load characteristic	خصائص الحمل العابر
+transient oscillation	تذبذب عابر
+transient outage	خروج عابر
+transient overvoltage	جهد زائد عابر؛ ارتفاع جهد عابر
+transient reaction	عملية انتقالية
+transient recovery voltage; T.R.V. (abbreviation)	جهد الاستعادة العابر
+transient response	استجابة زمنية / استجابة عابِرة / استجابة عابرة
+transient stability	استقرار عابر
+transient stability of a power system	الاستقرارية العابرة للنظام الكهربائي (الشبكة)؛ الاستقرارية العابرة الشبكة
+transient state of a system	الحالة العابرة للشبكة؛ الحالة العابرة للنظام
+transient trimmer	معدِّل الموازَنة العابر
+transient water system (TWS)	نظام مائيّ مؤقَّت
+transient, adj	عابر او عبور (صفة و اسم)
+transient, adj and noun	عابر؛ ظاهرة عابرة
+transient, noun	ظاهرة عابرة
+transient-decay current	تيار االتناقص العابرِ
+transilluminated display	جهاز عرض بإضاءة داخلية
+transistor	ترانزستور / مضخم ترانزستوري / ترانزِسُتور / ترانزيستور / ترانز ستور
+transistor amplifier	مضخِّم ترانزيستوري
+transistor coil ignition	نظام إشعال ترانزستوري (TCI)
+transistor coil ignition with breaker point	نظام إشعال ترانزستوري مُزود بقاطع تلامس (TCI-k)
+transistor coil ignition with discrete components	إشعال ترانزستوري
+transistor coil ignition with Hall generator	نظام الإشعال الترانزستوري مالُزود بحسّاس 'هول' (TCI-h)
+transistor coil ignition with Hall sensor	إشعال ترانزستوري بحسّاس 'هول'
+transistor coil ignition with induction generator	نظام الإشعال الترانزستوري المُزود بحسّاس حثي (TCI-i)
+transistor frequency converter	مبدل تردد ترانزستور
+transistorised ignition systems [UK] / transistorized ignition systems [US]	منظومات الإشعال الترانزستورية
+transit	مرور في مستوي الزوال / عبور / اجتياز / معبار / انتقال
+transit angle	زاوية الانتقال
+transit bearing	سَمْت عبوري
+transit country	دولة ترانزيت
+transit exchange; transit centre	مقسم عبور مركز عبور
+transit instrument	نظارة زوالية
+transit mixer	خلَّاطة متنقلة، خَلَّاطَة خرسانة متنقلة
+transit mode	نمط الانتقال
+transit nodes	نقط عبور
+transit station	محطة فرعية رئيسة محطة مجمعة / محطة عبور
+transit time	زمن الانتقال
+transit traffic	اتصالات عابرة
+transit-oriented development (tod)	تنمية بتوجه يعتمد العبور
+transit-time jitter (of a photo-multiplier)	عدم استقرار زمن العبور( لمضاعفات الضوء)
+transit-time spread	التغير فيِ زمن العبور
+transite	إِسمنت أمينتي، ألياف إِسمنتية، مادة عازلة
+Transition	انتقال / إنتقال / تحوُّل
+transition altitude	ارتفاع التحوُّل
+transition area (biosphere reserve)	منطقة انتقالية (محمية محيط حيوي)
+transition band	نطاق انتقالى
+transition condition	حالة إنتقالية
+transition contactor	ملامس عبور
+transition contacts	ملامسات انتقالية
+transition cotton	قُطن المرحلة الانتقالية
+transition countries	دول في مرحلة انتقالية
+transition current	تيار انتقالي
+transition curve	منحني التوصيل
+transition distance	مسافة التحوُّل
+transition down	هبوط انتقالي
+transition envelope	غلاف التحوُّل
+transition flight	طيران تحوُّلي
+transition frequency	تردد الانتقال
+transition from conventional to organic	انتقال من التقليدي إلى العضوي
+transition function	دالة إنتقالية
+Transition function in the image domain	استجابة خطوة وحدة في المجال الطيفي
+transition impedance	معاوقة انتقالية؛ معاوقة (ممانعة )عبور
+transition inductor	أداة حث إنتقالية
+transition joint	وصلة أنتقالية
+transition layer	طبقة التحوُّل
+transition length	طول انتقالي، مسافة انتقالية، طول الوصلة الانتقالية
+transition level	مستوى التحوُّل
+transition manoeuvre	مناورة التحوُّل
+transition matrix	مصفوفة انتقال
+transition point; turn-in point	نقطة التحوُّل
+transition region	منطقة انتقال
+transition resistor	مقاوم عبور
+transition section	قِطاع انتقاليّ
+transition speed	سرعة انتقال
+transition strip	شريط التحوُّل
+transition switchgroup	مجموعة مفاتيح العبور
+transition temperature	درجة حرارة التحوُّل
+transition to sustainable energy	تحوّل إلى الطاقة المُستدامة
+transition unit	عُنصُر ربط
+transition up	صعود انتقالي
+transition zone	نِطَاق الانْتقال / منطقة انتقالية / منطقة التحوُّل
+transition zone luminance	إضاءة منطقة الإنتقال إلى الداخل
+transition zone,	منطقة الإنتقال إلى الداخل,
+transitional	انتقالي
+transitional flow	تَحوُّل
+Transitional Fuel	وقود انتقالي
+Transitional low-emission vehicle	مركبة مُنخفضة الانبعاثات بشكل انتقالي (TLEV)
+transitional provision	حكم انتقالي
+transitional surface	سطح انتقالي
+transitional waters (pl.)	مياه بينية
+transitioning farmer	مُزارع قيد الانتقال
+transitron	ترانزيترون / صمام ذبذبة خماسي
+translate, verb	يترجم, فعل
+translating	إزاحة مستقيمة / انتقال مستقيم
+translating centrebody	جسم مركزي انتقالي
+translating nozzle	فوهة انتقالية
+Translation	حركة انتقالية / انتقال / الترجمة / إزاحة لادورانية / انتقال لادوراني
+translation (in switching)	ترجمة (في الفصل والوصل (التبديل))
+translation (in telegraphy and data transmission)	ترجمة (فى الإبراق وإرسال البيانات)
+translation bearing	محمل انتقالي / محمل انزلاقي
+translation rocket	صاروخ انتقالي
+translational flight	طيران انتقالي
+translational lift	رفع انتقالي
+translational; translatory	خَطِّيّ
+translator	برنامج مترجم
+translator (in switching)	مترجم (في الفصل والوصل (التبديل))
+translatory resistance derivatives	مشتقات المقاوَمة الانتقالية
+translocation	انتقال موضعيّ / إزفاء
+translucency,	الشفوفية / شفوفية,
+translucent	نصف شفاف / شِبْه شفّاف
+translucent medium	وسط نصف شفاف
+translucent minerals	معادن شبه شفّافة
+translucent paper	ورق نصف شفاف
+translucent rime	صريد نصف شفاف
+translunar	ماوراء القمر
+transmaterialization	تعويض التجسيد
+Transmatic	نظام ناقل الحركة 'ترانسماتيك' (Transmatic)
+transmembrane potential difference; membrane potential	جهد الغشاء
+transmembrane pressure	ضغط عَبْر غِشائِيّ
+transmissibility	نفاذية
+Transmissibility Coefficient (Geol.)	مُعامل المنقولية
+transmission	نقل القدرة / إرسال / نفاذ / آلية نقل الحركة / آلية نقل القدرة / إنفاذ / رسالة لاسلكية / نقل الحركة / ارسال / ناقل الحركة / نقل / انتقال
+Transmission & Distribution (T&D)	النقل والتوزيع
+transmission (tech.)	صندوق التروس / نَقْل (هندسة)
+transmission anomaly	شذوذ الانتقال
+transmission bell housing	جرس صندوق التروس
+transmission bridge (in telephony)	جسر إرسال (في المهاتفة)
+transmission capacity of a link	سعة النقل لخط
+transmission case	حوض صندوق التروس
+transmission channel	قناة (إرسال) / قناة ( إرسال ) / قناة إرسال
+transmission code	كود الإرسال
+transmission coefficient; transmittance	مُعامِل الإنفاذية
+transmission control (function)	تحكم بالإرسال (وظيفة)
+Transmission Control Protocol	بروتوكول التَحَكُّمِ بِالنَقْلِ
+Transmission Control Protocol/Internet Suite of Protocols	بروتوكول التحكّم بالنقل/ حزمة بروتوكولات الإنترنت (TCP/IP)
+Transmission Control Protocol; TCP (abbreviation)	(TCP) برتوكول؛ إختصار (TCP)؛ بروتوكول التحكم فى نقل البيانات
+Transmission Control System	نظام التحكم في ناقل الحركة
+transmission degree	درجة النفاذية
+transmission density gauge	قياس الكثافة بواسطة مرور الأشعة
+transmission efficiency of a thermo-electric vehicle	كفاءة نقل الحركة لمركبة كهروحرارية
+transmission electronics	إلكترونيات ناقل الحركة / إلكترونيات صندوق التروس (GE)
+transmission error	خطأ في النقل
+transmission error alarm	فحص
+transmission factor	عامل الإنفاذية
+transmission fluid	زيوت صندوق التروس / زيت نقل الحركة
+transmission fluid change	تغيير زيت صندوق التروس
+transmission frequency meter; transmission wavemeter	مقياس تردد النقل
+transmission gear	آلية نقل الحركة
+transmission grating	محزوز إنفاذي
+transmission heat loss	فقد حرارة الانتقال
+Transmission Interconnection	ربط بشبكة نقل الكهرباء
+transmission length	طُول النقل
+transmission level	منسوب النقل / منسوب النقل، سوية النقل
+transmission limit	حد الإنفاذية
+transmission line	خط نقل / خط إرسال / حزمة خط نقل / خط نقل كهربائي / خطّ نقل
+transmission line (in electric power systems)	خط نقل (فى نظم القدرة الكهربائية)
+transmission line (in telecommunications and electronics)	خط نقل (فى الإلكترونيات و الإتصال عن بعد)
+transmission lines	خطوط النقل
+transmission link	وصلة / وصلة (إرسال)
+transmission loss	فقد الإرسال (النقل) / ضياع النقل / فَقْد النقل / فقد في النقل
+transmission loss (of a radio link)	فقد الإرسال (لوصلة لاسلكية)
+transmission loss (of an optical path)	فقد الإرسال
+transmission loss; propagation loss	فقد الإرسال
+transmission losses	مفاقيد النقل
+transmission main	خَط النَقْل الرئيسيّ
+transmission medium	وسط إرسال
+transmission modes	أنماط الإرسال
+transmission mount	محمل علبة السرعة
+transmission of electricity	نقل الكهرباء
+transmission on demand	نقل عفوي
+transmission path	مسار انتقال / مسار إرسالِ / مسار الإرسال
+transmission performance	أداء النقل
+transmission performance (in telephony)	اداء الارسال (في المهاتفة)
+transmission performance rating	معدل أداء الارسال
+transmission primaries	أوليات الإرسال
+transmission reliability	تأمين عملية نقل القوى / أمان النقل
+Transmission Sector	قطاع النقل
+transmission security margin	حدّ أمان النقل
+transmission selector lever position	وضع ذراع الاختيار
+Transmission Substation	محطة نقل
+transmission system	نظام بث الإشارات
+Transmission System Operator	مشغل نظام النقل
+Transmission System Operator (TSO)	مُشغِّل شبكة النقل
+transmission system operator; transmission network operator	مشغل نظامِ النقل؛ مشغل شبكةِ النقل
+transmission system,	نظام إرسال / نظام الإرسال,
+transmission target (of X-ray tube)	هدف الارسال(في انبوب اشعة´)
+transmission time	زمن الإرسال
+transmission transmission of electricity	تحويلة (كهربائية)
+transmission transponder	جهاز مرستجيب (مرسل\ مستجيب)
+Transmission Underground Cable (EHV)	كابل نقل أرضي على الجهد الفائق
+transmission with decision feedback	نقل حسب الطلب
+transmission with information feedback	ارسال بقرار إفادة مرتدة
+transmission, ; emission,	إرسال, ؛ نقل,
+transmissivity	نفوذية / ناقلية / مُعامِل النقل / انتقالية سريانية
+transmissometer	مقياس إنفاذية الجو
+transmit beam	شعاع إنفاذ؛ بث شعاع
+transmit channel	قناة نقل
+transmit fibre optic terminal device	جهاز إرسال طرفي يعمل بالكابلات الضوئية
+transmit flow control	تحكم تدفق الارسال
+transmit ‘train on line’ and lock section signal/advance starting signal	إشارة بث تدل على أن القطار يتواجد في مساره بالإضافة إلى ذكر الانطلاق المبكر للقطار
+transmit, verb	يرسل, فعل
+transmit/receive boX	صندوق تبادل الإرسال والاستقبال
+transmittance	انتقال / قوة إرسال؛ معامل الإرسال / نفاذيه
+transmittance density	كثافة إرسال؛ كثافة معامل الإرسال
+transmittance factor	عامل النفاذية
+transmitted light barrier	حاجز كهربائي ضوئي
+transmitted wave	موجة مرسلة
+transmitted wave (in a transmission line)	موجة منقولة (في خط نقل)
+Transmitter	جهاز إرسال / المرسل / مرسِل / جِهازُ إِرْسالٍ / مُرْسِل
+transmitter distortion	تشوة المرسل
+transmitter gage; transmitter gauge	حساس ضغط
+Transmitter+Receiver	جهاز مرستجيب
+transmitter,	جهازارسال, الكشف عن الغاز
+transmitter/ receiver	مرسِل/ مستقبِل
+transmitter/receiver combination (light barriers)	توليفة استقبال وإرسال (حاجز كهروضوئي)
+transmitting station	محطة ارسال
+transmultiplexing	تحويل مضاعفة الإرسال
+transmutation	تحول نووي / تحوُّل عنصري / تحويل نووي
+transom	رافدة مستعرضة / عارضة
+transom-window	قمرية
+transonic airfoils	أسطح انسباب الهواء في الطائرات الأسرع من الصوت
+transonic blading	أرياش حول صوتية
+transonic transport	طائرة نقل حول صوتية
+transonic tunnel	نفق حول صوتي
+transonic; trans-sonic	حول صوتي
+transosonde	مسبار الضغط الثابت
+transparancy	صورة شفافة
+transparency	شفافية / أجزاء شفافة / شرائح مصوَّرة شفافة
+transparency (in telegraphy and data transmission)	شفافية (في اتصالات البيانات والإبراق )
+transparency (organic agriculture)	شفافية
+transparency,	الشفافية / شفافية,
+transparency; transparence	شَفافية
+transparent	قُماش شفاف / شفّاف / شفاف
+transparent channel	قناة شفافة
+transparent exopolymer particles (TEPs)	جسيمات إكزو-بوليمير شفافة
+transparent filler	مادة حشو شفّافة
+transparent look	النمط الشفاف
+transparent medium	وسط شفاف
+transparent minerals	معادن شفّافة
+transparent plasma	پلازما شفيفة
+transparent primer	مادة حشو شفافة لطلاء البطانة
+transparent test chart	مخطط اختبار الشفافية
+transparent velvet	مخمل شفاف
+transparentthermal insulation	وسيلة العزل الحراري الشفاف
+transpiration	نَتْح / نتح / نتح / تعرق / ارتشاح / نتْح
+transpiration (water cycle)	نتح (دورة الماء)
+transpiration cooling	تبريد بالنتح
+transpiration efficiency	كفاءة النتْح
+transpiration ratio / transpiration coefficient	مُعامِل النتْح
+transpiration ratio / transpiration efficiency / relative transpiration	نِسبة النتْح
+transplant	شتلة
+transponder	جهاز إرسال مُجِيب، مُتَلَقٍٍّ مجيب
+transponder india	مرسِل مستجيب الهند
+transponder,	جهاز استقبال وارسال (في إتصالِ القمر الصناعي) / مستجيب صوتى, / جهاز إرسال,
+transponder; xponder	مرسِل مستجيب
+transport	طائرة نقل
+transport 1	النَّقل 1
+transport 2	النَّقل 2
+transport association 1	اتحاد منظمي النقل 1
+transport association 2	اتحاد النقل 2
+transport authority	سلطة النقل
+transport capacity	سَعَة النقل
+transport chain	سلسلة النَّقل
+transport companies	شركات النَّقل
+transport company, traffic enterprise, transport provider	شركة النَّقل والمشاريع المُرُورية، موفر النَّقل
+transport contract	عقد النقل
+transport data	بيانات الناقل
+transport demand	الطلب على النَّقل
+transport demand management	إدارة الاحتياج للنقل
+transport documents	وثائق النقل
+transport ecology	علم بيئة النَّقل
+transport economics	اقتصاديات النَّقل
+transport energy	طاقة النقل
+transport engineering	هندسة النَّقل
+transport equation	معادلة الحمل
+Transport General Authority	الهَيْئَة العَامَّة لِلنَّقْل
+transport geography	جغرافية النَّقل
+transport impact studies	دِرَاسَاتُ الْوَقْعِ
+transport infrastructure (1)	البِنيَة التَحتِيَّة للنَّقل (1)
+transport infrastructure (2)	البِنيَة التَحتِيَّة للنَّقل (2)
+transport joint	وصلة نقل
+transport Kanban	كانبان النقل
+Transport Layer	طبقة النقل / صلب القطار
+transport line	خط النقل
+transport logistics	إمدادت النقل / لوجستية النَّقل
+transport market	سوق النَّقل
+transport matrix	مصفوفة النقل
+transport medium	وسط النقل / وسيط النَّقل
+transport model / dispersion model	نَمُوذَج نقل
+transport need	الحاجة إلى النَّقل
+transport of solids	نَقْل المواد الجامدة
+transport operation technology	تكنولوجيا عملية النَّقل
+Transport packaging	التعبئة والتغليف للنقل
+transport planning	تخطيط النَّقل
+transport policy	سياسة النَّقل
+transport process, traffic process	عملية النَّقل، وعملية المُرُور
+transport protocol	بروتوكول النقل
+Transport Regulations	لوائِحُ النَقْلِ
+transport science	علوم النَّقل
+transport services (1)	خدمات النَّقل (1)
+transport services (2)	خدمات النَّقل (2)
+transport services (3)	خدمات النَّقل (3)
+transport system	نظام النقل / نظام النَّقل
+transport technology	تكنولوجيا النقل
+transport telematics	مصلحة المعلوميات البعدية للنقل
+transport wander	بِدار ظاهري / تطواف نقّال
+transportability	قابلية النَّقل
+transportable equipment	معدة سهل الانتقال بها
+transportable, adj	قابل للنقل
+transportation (waste management)	محطة نقل (إدارة النفايات)
+transportation 1	اقطاع النَّقل 1
+transportation 2	قطاع النَّقل 2
+transportation capacity	سَعَة النقل
+transportation demand management strategies (tdm)	استراتيجيات إدارة الطلب على النقل
+transportation pipelines	خطوط أنابيب النقل
+transportation system	نظام النقل
+transported soil	تربة منقولة
+transporter	مَركبة ناقلة / ناقل
+transporter bridge	جِسرٌ نَاقِل
+transporter tower	برج نقّال
+transporter/erector/ launcher	مُطلِقة / ناصبة / ناقلة
+transposed matrix	منقول مصفوفة
+transposed twill	تركيب نسجي مُتعارض
+transposer	مبدل تردد
+transposition	تبادل المواضع / تبديل / ابدال
+transposition (in switching)	تبديل موضع (فى الفصل والوصل (التبديل))
+transposition (of insulated cables)	تبديل المواضع للكابلات المعزولة
+transposition interval	مسافة التبديل
+transposition support	دعامة تبديل الأطوار
+Transputer	حاسب ترانزستور
+transshipment station	محطة مُسَافَنَة
+transshipment terminal	محطة الترانزيت
+Transuranic Waste	نفايات ما بعد اليورانيوم
+transuranium elements	عناصر ماوراء اليورانيوم
+transversal	عرضي
+transversal engine	محرك عرضي
+transversal filter	فلتر مستعرض؛ مرشح مستعرض
+transverse	عرضي / مستعرض
+transverse (electromagnetic) wave; TEM wave	موجة (كهرومغناطيسية) مستعرضة
+transverse and longitudinal angularity combined	التزوّي المستعرض والطولي
+transverse angularity	تزوّي مستعرض
+transverse beam	جائز مستعرض
+transverse bulkhead	حاجز إنشائي عرضي
+transverse component	مركبة مستعرضة
+transverse cupping	تقعر مستعرض
+transverse curl	تجعد مستعرض
+transverse current (in electrobiology)	تيار مستعرض ( فى الكهروحيوية)
+transverse curvature	تقوس مستعرض
+transverse curvature and longitudinal curvature combined	تقوسات مستعرضة وطولية مجتمعة
+transverse differential protection	حماية تفاضلية مستعرضة
+transverse dike	حاجِز عرضيّ
+transverse direction,	إتجاه عرضى,
+transverse electric	نمط كهربائي عرضي
+transverse electric mode dielectric resonator ; TE mode dielectric resonator	رنان غير موصل ذو نمط كهربى مستعرض؛ رنان غير موصل ذو نمط TE
+transverse electric mode; TЕ mode	طريقة المستعرض الكهربائي
+Transverse Electromagnetic (TEM)	الموجات الكهرومغناطيسية
+transverse electromagnetic mode	نمط كهرومغناطيسى مستعرض
+transverse electromagnetic mode; ТЕМ mode	طريقة المستعرض الكهرمغناطيسي
+transverse electron gun	مدفع إلكتروني عرضي
+transverse fault	صَدْع عَرْضَاني
+transverse flux induction heating	تسخين حثي ذو فيض مستعرض
+transverse fold	انثناء مستعرض
+transverse girder	جَائِر / جائز مستعرض
+transverse interferometry	طريقة قياس التداخل المستعرض
+transverse joint	وَصلَة عَارِضَة / وصلة مستعرضة / وُصْلَة عَرْضَانِية
+transverse joint / transverse contraction joint	وُصلة مستعرضة / وُصلة انكماش مُستعرِضة
+transverse joint seal / sealing strip	سِدادات الفواصل العرضية
+transverse judder	ارتجاج مستعرض ،ارتجاف مستعرض
+transverse load	حمل عرضي / حِمل عرضي
+transverse loading	تحميل مُسْتَعْرِض
+transverse magnetic	نمط مغناطيسي عرضي
+transverse magnetic mode; ТМ mode	طريقة المستعرض المغناطيسي
+transverse magnetization	مغنطة متعامدة
+transverse member	عضو عرضي / عضو مستعرض
+transverse mercator coordinates, (T.M.C.)	إحداثيات مركاتور العَرْضَانية
+transverse Merkator	إسقاط مركاتوري عرضي
+transverse profile	مَقطَع عَرضِي / مَقْطَع عرضي
+transverse profile; section profile	مقطع عرضي
+transverse projection	إسقاط عرضي
+transverse propagation	إنتشار عرضي
+transverse resolution (of a facsimile receiver)	دقة مستعرضة ( لمستلم الناسوخ)
+transverse resolution (of a facsimile transmitter)	دقة مستعرضة ( لمرسل الناسوخ)
+transverse rib	ضلع مستعرض
+transverse spurious resonance,	رنين عرضى مستعرض
+transverse strength	درجة المقاومة المستعرضة / مُقاومة الإجهاد المسْتعرِض
+transverse videotape recorder	مسجّل على شريط مرئي بالعرض
+transverse warping	التواء معترض
+transverse wave	موجة مستعرضة
+transverse-flow effect	ظاهرة الدفق العرضي
+trao door	خوخة، بُوَيْب
+trap	مصيدة / مَصْيَدة
+trap / water seal	غطاء مائي
+trap attenuation	توهين محصور
+trap crop	نبتة فخ
+trap frequency	تردد محصور
+trap points; safety points; side protection switch	نقاط مصائد الحماية
+trapeze bar	قضيب الأرجوحة
+trapeze beam	جائز الأرجوحة / عتبة الأرجوحة
+trapeze cut	تقطيع مخروطي
+trapeze post	لوحة أرجوحة
+trapezium distortion	تشوه معينى / تشوُّه شبه المنحرف
+trapezohedral	شبه منحرف
+trapezohedron	شكل شبه منحرف
+trapezoidal connecting rod and piston	ذراع توصيل وكبّاس شبه مُنحرفين
+trapezoidal end sill	عَتَبة نهاية شبه منحرفة
+trapezoidal modulation	تضمين بموجات شبه المنحرف
+trapezoidal modulation (in sound radio broadcasting)	تعديل شبة منحرف (في الاذاعة الراديوية الصوتية)
+trapezoidal section	مقطع شبه منحرف
+trapezoidal wing	جناح شبه منحرف
+trapped vibration mode	حالة الإهتزاز المحتجز؛ حالة الإهتزاز المحصور
+trapper style	أسلوب الصياد
+trapping	اصطياد
+trappings, grit chamber	حَصْباء
+trash	قمامة
+trash burning	حرْق القمامة
+trash rack / rack	شبكة النفاية
+trass	طراس
+travel (of a mechanical switching device or a part thereof)	تحرك - سير
+travel blanket	لُحُف للسفر
+travel cost method	أسلوب تكلفة السفر
+travel expenses	مصاريف سفر
+travel pod	خُدَّة السفر
+travel sensor ETS	حساس مشوار الباب (نظام ETS)
+travel sensor MTS	حساس مشوار الباب (نظام MTS)
+travel speed	سرعة السير / سرعة السفر
+travel suit	بذلة السفر
+travel time	زمن الجريان / وقت السفر
+travel time ratio	نسبة وقت السفر
+travel time, operational	مدة السفر، عَمَليًّا
+travel time, technical	مدة السفر، تِقَنِيًّا
+travel-plant mix	خَليط بالخلَّاطة المتنقلة (القابلة للنقل)
+traveled way	مَتْن الطريق، قارعة الطريق
+traveler (US)	مُسَافِر
+traveling form	قَالَب متحرِّك
+traveling ground	سلك تأريض متنقل، سلك أرضي نقُول، سلك أرضي قابل للنقل
+travelling bridge clarifier	مروِّق ذو جسْر متحرك
+travelling bridge filter (TBF)	مُرشِّح ذو جسْر متحرك
+travelling plane wave	موجة مستوية متنقلة
+travelling screen	حاجِز مُتحرِّك
+travelling speed	سرعة التحرك
+travelling sprinkler	فلتر موزِّع
+travelling table	طاولة متحركة
+travelling water screen (TWS)	غِربال متحرك
+travelling wave	موجة متنقلة
+travelling wave (in a transmission line)	موجة متنقلة (في خط نقل)
+travelling wave antenna	هوائي الموجة المرتحلة
+travelling wave heating	تسخين بالموجة المتنقلة ، تسخين حث متخلل
+travelling wave protection	حماية الموجة المتنقلة
+travelling-wave aerial	هوائي الموجات المتنقلة
+travelling-wave amplifier	مضخِّم الموجات المتنقلة
+travelling-wave magnetron	مغنيطرون الموجات المتنقلة
+travelling-wave tube	صمام الموجه المتحركه (المتنقله ) / صمام تضخيم بالموجات المتنقلة
+traventine	ترافنتين
+traverse	قضيب مُستعرض / مضلّع / حركة جانبية / مسار مَسْحي / مَسْح اجتيازي / عارضة / جازعة
+traverse flying	طيران مَسْحي
+traversin / bolster pillow	وسادة طويلة
+traversing	جملة تحريك / أمر تحريك / تضليع
+trawling (trawl netting)	صيد بشباك الجر (شباك الصيد بالجر)
+tray	طبق/ صينية
+tray storage	تخزين الطبق/ الصينية
+tread	السطح الخارجي للإطار / مَداس / مَوْطِئ / عرض الدرجة، نائمة الدرجة
+tread pattern	نقش الإطار
+treadle lathe	مخرطة بدّواسة
+treadle; rail contact	دواسة
+treatability study	دراسة المعالجية
+treated insulating liquid	سائل عازل معالج
+treated mica paper	ورق ميكا معالج
+treated sewage effluent	صَرْف محطة مُعالَجة مياه الصرف الصحيّ
+treated wastewater	مياه عادمة مُعَالجَة / مياه صرف صحي معالجة
+treated water	مياه معالجة
+treated/filtered water	مياه معالجة
+treating facility/unit	وحدة معالجة النفط
+Treating Unit	وحدة معالجة / وحدة مُعَالجَة
+treatment	معالجة
+treatment (of sewage), primary	مرحلة المُعالجة الأولى (لمياه الصرف الصحي)
+treatment (of sewage), secondary	مرحلة المُعالَجة الثانية (لمياه الصرف الصحي)
+treatment (of sewage), tertiary	مَرْحلة المُعالَجة الثالثة (لمياه الصرف الصحي)
+treatment / cleaning	تَنْقِية
+treatment / conditioning	مُعالَجة
+treatment of municipal sewage sludge	مُعالَجة حمأة مياه الصرف المحلية
+treatment of wastewater, physico-chemical	مُعالَجة فيزيائية - كيميائية لمياه الصرف الصحيّ
+treatment of wood	معالجة الخشب
+treatment plant	محطة معالجة / معمل معالجة
+treatment process / preparation process	طريقة مُعالَجة
+treatment time	زمن المُعالَجة
+treatment, advanced	تَنْقية لاحقة (متقدمة)
+treatment, biological	تَنْقية بيولوجية
+treatment, chemical	تنظيف كيميائي
+treatment, mechanical	تَنْقية ميكانيكية
+treatment, multistage biological	مُعالَجة بيولوجية مُتعددة المراحل
+treatment, multistage, biological wastewater / multistage biological treatment	مُعالَجة بيولوجية مُتعددة المراحل لمياه الصرف الصحيّ
+treatment, partial flow	معالَجة التيار الجزئيّ
+treatment, preliminary	مُعالَجة مبدئية
+treatment, preliminary and primary	مَرْحلة المُعالجة الأولى
+treatment, secondary	مَرْحلة المُعالجة الثانية
+treatment, tertiary / treatment, advanced	مرحلة المُعالجة الثالثة
+treaty	معاهدة
+treaty of the non-poliferation of nuclear weapons	معاهدة عدم انتشار الأسلحة النووية
+Treaty on the Functioning of the European Union (TFEU)	معاهدة عمل الاتحاد الأوروبي (TFUE)
+treaty status of a watercourse State	الوضع القانوني لدولة المجرى بموجب معاهدة المجرى المائي
+treaty-contract	الاتفاقيات العقدية
+treble	ثلاثية
+tree	شبكة شجرية / شجرة
+tree and branch system	نظام الشجرة والفرع (التوزيع عن بعد)
+tree and bush savana	سفانا شجرية
+tree cover	غطاء نباتي
+tree cross section	مقطع عرضي لشجرة
+tree diameter (dbh) measurement	قياس قطر شجرة (عند ارتفاع الصدر)
+tree farm	مزرعة أشجار
+tree groyne	رأس شجرية
+tree line	حد الأشجار
+tree retardant polyethylene; tree retardant PE; PE-TR (abbreviation)	PE-TR إختصار؛ بولى إيثيلين مقاوم للتفرع
+tree topology	طوبوغرافية الشجرة
+tree'd system	نظام شعاعي متفرع
+tree-leg intersection	تَقَاطُع ثلاثي الفروع
+trefoil	ثلاثية الوريقات / زخرف النقل
+trefoil formation	تشكيل مثلثى
+Tregal	تريجال
+Tregalon®	تريجالون ®
+Treibhausgasemission	émission de gaz à effet de serre
+trekking style	زي الرحالة
+trelliswork; trellis	تعريشة، تشابك خشبي
+trembler bell	جرس رجاج (هزاز)
+tremolite	تريمولايت
+tremor	رجفة
+trench	خَندقٌ / خندق
+trench coat	مِعْطَف الخندق
+trench depth	عُمْق الخندق
+trench drain	مَصرِف خَندَقِي
+trench excavator	حَفّارة خنادق
+trench method	طريقة الخنادق
+trench pipeline	خَطُّ أنبوب خندقيّ (ممدود في خندق)
+trencher with drain laying attachment	حفارة المصاريف
+trenchless construction technique	طريقة الإنشاء دون حفر خنادق
+trend	الموضة / اتجاه
+trend fashion	طراز شبابي
+trestle	مِنْصَب / حامِل
+trestle bent pier	‌دِعامة ذات حوامل مُلتوية
+Tretal	تريتال
+Trevera	تريفيرا ®
+Trevira Fill	حشوة تريفيرا ®
+Trevira Micronesse®	تريفيرا ميكرونيسي
+Trevira woven tex	ألياف تريفيرا منسوجة وفقاً لنظام تكس
+Trevira-Fleece®	صوف تريفيرا
+Trevira® blends	مزيج تريفيرا
+tri-camera photography	تصوير ثلاثي المصوِّرات
+tri-cone rock bit	مِثُقَب صخري ثلاثي المخاريط
+tri-state output	خرج ثلاثى الحالة
+triacetate	ثلاثي الأسيتات
+Triad	ثالوث الردع
+triad axis	محور ثلاثي التناظر
+triage	استقصاء الضحايا
+trial	تجرِبة
+trial area	منطقة تَجَارِب
+trial load method, abridged	طريقة مختصرة لتجربة الأحمال
+trial load method, amplified	طريقة موسَّعة لتجربة الأحمال
+trial load method, simplified	طريقة مبسَّطة لتجربة الأحمال
+trial mix	خَلْطَة تجريبية
+trial pit	بئر استكشاف
+trial record	تسجيل تجريبي
+triangle	مُثلَّث
+triangle of velocities	مثلث السرعات
+triangular configuration	شكل المثلث
+triangular facet	وُجَيْه مثلثِّي، سطيح مثلثي
+triangular file	مِبرد مُثلث المقطع / مِبرد مُثلثي / مبرد مثلث
+triangular leaf spring	ياي ورقي مُثلثي
+triangular noise	ضوضاء مثلثة
+triangular parachute	مظلة مثلثية
+triangular pattern	نمط مثلثي
+triangular scraper	مكشطة مُثلثة المقطع
+triangular spring	ياي مثلثي
+triangular truss	جملون مثلّثي
+triangulation	تثليث (ال...) / تثليث / تقسيم إلى مثلثات
+triangulation balloon	منطاد المثلث
+triangulation monument	علامة تثليث
+triangulation station	محطة المثلثات
+Triassic period	عصر (ال..) الترياسي / عصر ترياسي
+triaxial	ثلاثي المحاور
+triaxial ellipsoid headlamp [UK] / triaxial ellipsoid headlight [US]	كشّاف DE
+triaxial ellipsoid reflector	عاكس إهليلجي ثُلاثي المحاور
+triaxial test	اختبار المحاور الثلاثة
+tribal society	مجتمع قبلي
+triboelectrification	كهرباء بالاحتكاك
+tribology	علم الاحتكاك
+triboluminescence	تألق احتكاكي؛ لمعان احتكاكي / لمعان احتكاكي
+tributaries	روافد النهر
+tributary	رَافِد / رافد
+tributary station	محطة تابعة فرعية
+Tricelon®	تريسيليون ®
+Tricel®	تريسيل
+trichloramine	كلورامين ثلاثيّ
+trichloroethene	ثلاثي كلور الإيثين
+trichlorofluoromethane	ميثان ثلاثي الكلور أحادي الفلور
+trichromatic	ثلاثي الألوان
+trichromatic system	نظام ثلاثي الألوان
+trickle charge	شحن خفيف / شحنة تعويض
+Trickle Flow Process (Hydrotreating)	إزالة الكبريت بالهيدروجين ووسيط كيميائي
+trickle flow process; hydrotreating	طريقة إزالة الكبريت بالهدروجين ووسيط كيميائي
+trickle irrigation	رَيّ نضيض
+trickle of radioactive material	تسرب المادة المشعة
+trickle resin	راتينج (صمغ) التقطير
+trickling filter	مُرشِّح نضاض
+trickling filter distributor; biological filter distributor	مُوزِّع مرشح تقطير
+trickling, uniform	حركة منتظمة للمياه الراشحة
+tricklng filter	مُرشح النض ذو الشرائح
+triclinic	ثلاثي الميل
+triclinic system	نظام ثلاثي الميل
+Tricoline®	تريكولين
+tricone bit	مِثْقَب ثلاثي المخاريط
+tricot fabric	قُماش تريكو
+tricot yarn	خيوط التريكو
+tricotine	تريكوتين
+tricycle	ثلاثي العجلات
+Tridop	قياس دوپلر الثلاثي
+tridymite	تريديمايت
+trifurcating box; trifurcator	مشعب ثلاثى؛ صندوق تشعيب ثلاثى
+trifurcating joint	وصلة تشعيب ثلاثية
+trig beacon	منارة مساحية
+trig levelling	تسوية مساحية
+Trigatron	تريچاترون / مفتاح فرجة الشرر الغازية
+Trigeneration	محطة توليد طاقة ثلاثية
+trigger	مقداح / زناد / مُطلِق / مِقداح / يقدح / يُطلِق
+trigger advance angle	زاوية تقديم القدح
+trigger circuit	دارة قدح
+trigger delay angle	زاوية تأخير القدح
+trigger hold off	قاعدة زمنية بقادح
+trigger tube	صمام ( أنبوب ) قدح
+trigger,	إطلاق،, ؛ إثارة،,
+triggered bistable element	عنصر اطلاق ثنائي الاستقرار
+triggered sweep	مسح متزامن
+triggered time base	قاعدة زمنية حرة الحركة
+triggering	قدح
+trigonal axis	محور ثلاثي
+trigonal division	تقسيم (ال..) الثلاثي
+trigonal minerals	معادن ثلاثية
+trigonometry	علم المثلثات
+trihalomethane (THM)	هالوميثان ثلاثيّ
+trihedral	ثلاثية الوجوه
+trihedral corner reflector	عاكس زاويةِ ثلاثى السطح
+trijet	نفاثة ثلاثية المحركات
+trilateration	تثليث خطي
+Trilenka	خيوط تريلينكا
+trilex rim	جنط 'تريلكس' (Trilex)
+trilex ten twenty	زجاج أمان 'تريبلكس تن توينتي' (Triplex Ten Twenty)
+Trillion Cubic Feet (TCF)	تريليون قدم مكعبة
+trim	شريط التزيين / توازُن طولي / ضبط التوازُن / طيران متوازِن / وزّانة
+trim angle	زاوية الوضع الأَولي
+trim cord	حبل التعديل
+trim die	قالب تعديل / لقمة تعديل
+trim drag	كبح تصحيح الموازَنة / مقاوَمة التعديل
+trim for take-off	تصحيح الموازَنة للإقلاع
+trim size	حجم مهذَّب / حجم نهائي
+trim tab; trimmer; trimming tab	سُطَيح تعديل الموازَنة
+trim template	صفيحة تهذيب / طَبعة تهذيب
+trim work	أعمال ترتيب تكميلية
+trimer beam	رافدة مستعرضة
+trimetrogon	رأس تصوير ثلاثية
+trimmed size	مقاس مشذب
+trimmed, trimmed out	مصحَّح / معدَّل
+trimmer	قبعة المُشَذِّب / مصحِّح الموازَنة / معدِّل الموازَنة / آلة قطع أو تسوية
+trimming / trim / facing	سِّجاف
+trimming moment	عزم تصحيح الموازَنة
+trimming strip	شريط تعديل الموازَنة
+trimming system	نظام تعديل الموازَنة
+trimming tanks	خزانات تعديل الموازَنة
+trimmings	قصاصت
+trimorphic	ثلاثي التشكل البلوري
+trinidad asphalt	أسفلت تَرِينِدَاد
+trinomial	ثلاثية الحدود
+triode	صمام ثلاثى / صمام ثلاثي / ثلاثي المساري
+Triode for alternating current	تراياك
+triode gun	مدفع صمام ثلاثي
+trip	رحلة / سَفْرة
+trip assignment	إسناد رحلة
+trip coil	ملف اعتاق
+trip gas	انفلات غازي
+trip generation	جيل من المسافرين
+trip line	حبل الإعتاق
+trip stop; stop for operational reasons	توقف الرحلة
+trip-free mechanical switching device	معدة وصل وفصل ميكانيكية حرة الفصل
+trip-free mechanism	آلية حرة الإعتاق
+trip-mileage counter	عداد الكيلومترات اليومية
+triphylite	تريفيلايت
+triplane	طائرة ثلاثية الجناح
+triple bottom line	حصيلة ثلاثية
+triple bundle; three-conductor bundle (US)	حزمة ثلاثية
+triple busbar substation	محطة ثلاثية قضبان التجميع
+triple crépe	كريب ثلاثي
+triple ejector rack	جريدة قذف ثلاثية
+triple error	خطأ ثلاثى
+triple modular redundancy	وَفْرة ثلاثية الأنماط
+triple modular redundancy; TMR	وحدات نمطية ثلاثية للوفرة
+triple motor vehicle	مركبة بثلاثة محركات
+triple point	نقطة ثلاثية
+triple point of water	نقطة (ال...) الثلاثية للماء
+triple release	إسقاط ثلاثي
+triple top line	سطر علوي ثلاثي
+triple transit echo; TTE	صدى الإنتقال الثلاثى
+triple warren; triple lacing	ربط شبكي ثلاثي
+triple-output ground power unit	وحدة قدرة أرضية ثلاثية الخرج
+triple-tandem	مشغِّل ثلاثي ترادفي
+triple; triple seat	مقعد ثلاثي
+triplet	ثلاثي / وحدة ثلاثية
+triplet; 3-bit byte, US; triplet byte; DEPRECATED: tribit	مجموعة أعداد ثلاثية من ثلاث خانات / مجموعة أعداد ثنائية من ( 3 خانات )
+tripleX	نظام ثلاثي
+triplex wood	خشب ثلاثي الطبقات
+tripleXer	جهاز لاسلكي ثلاثي
+tripod	قاعدة ثلاثية / أثافيّ، حامل ثلاثي الأرجل
+tripod constant velocity fixed joint	وصلة السرعة الثابتة 'تريبود' الجاسئة
+tripod foundation	أساس ثلاثي الركائز
+tripod joint	وصلة مفصلية ثلاثية القوائم
+tripod screw	لولب تثبيت في ثلاثية الأرجل
+tripod slip joint	وصلة مفصلية إزاحية ثابتة السرعة ثلاثية القوائم / وصلة انزلاقية ثلاثية القوائم
+tripod stand	حامل ثلاثى القوائم
+tripolar	ثلاثي القطب
+tripolar switch	مفتاح ثلاثي القطب
+tripping	فصل
+tripping force	قوّة فصل
+tripping reliability	مقاومة الانقطاع
+triset	طقم ثلاثي
+trisoctahedron	ثلاثي ثماني الأوجه
+tristimulus values, pl	مركبات ثلاثية الألوان,
+Tristop® cylinder	أسطوانة 'تريستوب'®
+tritan, adj	مصاب بعمي اللون الأزرق
+tritanomaly	عمي اللون الأزرق
+tritanopia	مرض عمي اللون الأزرق
+triticale	شيْقم
+triton	تريتون
+triumphal arch	قوص النصر
+trivinyl	ثلاثي الفينيل
+TRMS	نسبة (ال...) الصحيحة لمتوسط المُربَّعات
+trna	ر ن أ الناقل
+trochoid	منحنٍ عَجَلي
+troffer	وحدة إنارة طويلة غائرة
+troilite	ترويلايت
+troland	ترولاند, ؛ وحدة اللمعان في تنبيه الشبكية
+trolley	تروللي / عَرَبَة ترولي / عربة الترام
+trolley-base	قاعدة عربة الترام
+trolley-head; current collector	مقدمة عربة الترام
+trolley-pivot	محور إرتكاز عربة الترام
+trolley-pole; boom	قطب عربة الترام
+trolley-shield; globe; trolley-wheel harp	غطاء عربة الترام
+trolley-wheel	عجلة عربة الترام
+trolleybus	حافلة ترولي
+trolleybus switch	فاصل ترُولِي
+trolleybus,	حافلة كهربائية,
+Trombe wall	جدار ترومب
+trombone	ذراع المترددة / عروة المترددة
+tromboning	مَطّ المسارات
+tromeling	غَرْبَلة
+trommel screen	غِرْبال أسطوانيّ دوار
+trona	ترونا
+trophic	غذائي
+trophic interaction	تفاعل غذائي
+trophic level	مستوى غذائي
+tropic of cancer	مدار السرطان
+tropic of capricorn	مدار الجدي
+tropical	تروبيكال
+tropical (broadcasting) band	نطاق البث الاذاعي الإستوائي
+tropical air mass	كتلة هوائية مدارية
+tropical conditions	ظروف جوية مدارية
+tropical continental	كتلة هوائية مدارية قاريّة
+tropical cyclone	إعصار مداري
+tropical cyclones	أعاصير مدارية
+tropical diseases	أمراض استوائية
+tropical maritime	كتلة هوائية مدارية بَحرية
+Tropical MaXimum Atmosphere	جو مداري أقصى
+tropical monsoon climate	مناخ الرياح الموسمية الاستوائية
+tropical regions	مناطق مدارية
+tropical revolving storm	عاصفة مدارية دوّارة
+tropical savana	سفانا مدارية
+tropical storm	عاصفة مدارية
+tropical switch	مفتاح ضديد للرطوبة
+tropical trials	اختبارات مدارية
+tropical wet and dry or savanna climate	Tropisch nass und trocken oder Savanne Klima
+tropical year	سنة مدارية
+tropicalised yarn	خيط مقاوم للمناطق الاستوائية
+tropopause	تروبوبوز / تروبوبوز-أعلى التروبوسفير(منطقة الركود) / منطقة الركود
+troposphere	تروبوسفير / التروبوسفير (الغلاف الجوي السفلي) / منطقة التروپوسْفير
+tropospheric (radio)duct	مجرى تروبوسفيرك (لاسلكي)
+tropospheric ozone (o3)	أوزون طبقة التروبوسفير
+tropospheric propagation	انتشار في التروبوسفير
+tropospheric scatter	تبعثر تروپوسْفيري
+tropospheric scatter (propagation)	انتشار(تبعثر) تروبوسفيرى
+tropospheric wave	موجة تروبوسفيرية / موجة تروپوسْفيرية
+trottoir lapel	تلبيب الرصيف
+troubleshooting	إصلاح الأخطاء / تحرّي الخَلَل
+trough	قَنَاة / حوض / أدنى المنخفض / منخفَض جوي طولي
+trough line	خَطُّ الطَّيَة المقعرًّة
+trough plane	مستوى القعيرة، مستوى الطية المقعرة
+trough spillway; chute spillway	مفيض الفيضانات
+troughing	مَقْطَع على شكل U / قناة حفظ الكبول
+trouser	بنطال العجلات
+trouser suit	بذلة نسائية
+trousers	سِرْوال
+trousers with pointed detail on the waistband	سروال بشريط ربط خلفي
+trowel	مالج
+Tru-Loc	رتاج انهياري
+trub / turbidity materials	مواد معكرة
+truck	عربة شحن / عربة (قطار)، شاحنة / شاحنة / عربة تحتية / شاحِنَة
+truck load	شحنة كاملة
+truck mixer	شاحنة خَلاَّطة
+truck rental	استئجار مركبات (صناعية)
+truck-mounted gate	بوابة محمولة على عربة نقل (بوجي)
+true altitude	ارتفاع حقيقي
+true bearing	اتجاه زاوي حقيقي
+true boiling point, (T.B.P.)	نقطة الغليان الحقيقية
+true course	مسار حقيقي
+true course; true heading	وُجهة حقيقية
+true meridian	خط الزوال الحقيقي
+true north	شمال جغرافي / شمال حقيقي
+true position	موضع حقيقي
+true power	قدرة حقيقية
+true prime vertical	اتجاه رأسي أصلي حقيقي
+true resistivity	مقاومية حقيقية
+true Sun	شمس حقيقية
+true track	مسلك حقيقي
+true value (of a quantity)	قيمه مقاسة
+true value concept	مفهوم القيمة الحقيقية
+true value,	قيمة حقيقية,
+true vertical	اتجاه رأسي حقيقي
+true-historic display	عرض تاريخي حقيقي
+trumpet interchange	مُفتَرَق بُوقِي
+trumpet junction	وصلة بوقية، ملتقى بوقي
+trumpet pants	سروال بوقي القدم
+trumpet sleeves	كم مخروطي
+truncation error	خطأ البتر
+trunk	خط رئيس / غرفة أمتعة / مجرى جذعي / مشغِّل الطريق الرئيس
+trunk cable	صندوق الكابلات
+trunk concentrator	مركز خط رئيسي
+trunk feeder	مغذي خط رئيسي
+trunk line	خط رئيسي
+trunk main	أنبوب السحب
+trunk road	طريق رئيسية / طريق رئيسي
+trunk route	طريق رئيس
+trunked system	نظام مترابط / نظام متعدد القنوات بانتقاء أوتوماتيكي
+trunking	خطوط الربط
+trunking length	طول مواسير الكابلات الرئيسية
+trunnion (of a pivot-type suspension clamp)	مرتكز دوران ( لخطاف التعليق الحر )
+trunnion axis	محور (ال...) الثانوي
+truss	جائز شبكي / إنشاء شبكي / جَمَلون
+truss buttress dam	سَدٌ بدعائم جمالونية
+truss girder	دَعَامَة مُثَلَّثَة
+trussed beam	جائز شبكي / جائز جملوني
+trussed girder	جسر جملوني
+trussed roof	سقف جملوني
+trust funds	صندوق استئماني
+Trusted Computing Base	قاعِدَةُ حَوْسَبَةٍ مَوْثُوق بِها
+trustworthiness	موثوق به؛ جدير بالثقة
+truth table	جدول الحقيقة / جدول الصدق
+try square	زاوية ضبط قائمة
+try-again missile	مقذوف المحاوَلة الأخرى
+trying metal plane	مسحاج تسوية معدني
+trying plane	مسحاج تسوية
+trying wood plane	مسحاج تسوية خشبي
+trying-plane	مِسْحَن، مِسْحنة
+TSA	نظام TSA
+TSI	المواصفات الفنية للتشغيل البيني
+TSOs according to the German Renewable Energy Act	مشغل نظام تحويل الكهرباء وفقا لقانون الطاقات المتجددة الألماني
+tsunami	تسونامي
+TT system	نظام TT
+TTE ripple	تموج صدى الإنتقال الثلاثى
+TTT kinematics	روبوت مُتعامد
+tub style tender	عَرَبَة حوضية
+tube	أنبوب / سروال ضيق / أنبوبة
+tube belt conveyor	أنبوب الحزام الناقل
+tube bundle	حزمة أنابيب / مجموعة أنبوبية، حزمة أنابيب
+tube collar	ياقة أنبوبية
+tube condenser	مكثف بأنبوب / مُكَثِّف بأنابيب
+tube cutter	قاطعة أنابيب
+tube dress	فستان أنبوبي
+tube drum irrigation machine	ألة أسطوانية للريّ بالأنابيب
+tube efficiency	كفاءة الصمام
+tube end plate	لوحة تجميع الأنابيب
+tube extractor	ساحِبة أنابيب، مِنْزَعة أنابيب
+tube heat exchangers	مبادلات حرارية أنبوبية
+tube irrigation	ريّ بالأنابيب
+tube load	حمل الأنبوب
+tube noise	ضجيج انبوبي
+tube of current	أنبوبة تيار
+tube oil	زيت الأنبوب
+tube oil pump	مضخة زيت التزليق
+tube package	خرطوم حزمة الكبلات
+tube settlers	مرسب أنبوبيّ
+tube starting time	زمن بدء تشغيل الصمام
+tube support	دعم الأنبوب؛ داعم انبوبى
+tube support; pipe support	دعائم أنابيب الضغط
+tube type	إطار أنبوبي
+tube valve	صِمام أُنبوبيّ
+tube voltage drop	هبوط جهد الإنبوبِ
+tube yawmeter	مقياس انعراج أنبوبي
+tube; tubing	انبوب مرن
+tubeless tyre [UK] / tubeless tire [US]	إطار لاأنبوبي
+tuberculation	تدرُّن
+tubesheet	صفيحة الأنبوب
+tubic	توبيك
+Tubing	أنابيب إنتاج / أنبوب الضخ
+tubing block	مِلْفَاف خط الإنتاج
+tubing board; monkey board	مِنَصَّة التعليق
+tubing catcher	فكوك التقاط الأنابيب، أجهزة انتشال الأنابيب
+tubing cutter	قاطعة الأنابيب
+tubing elevator	رافعة الأنابيب، مرفاع أنابيب الضخ
+tubing hanger	حمالة أنابيب، حمالة تعليق الأنابيب
+tubing head	رأس الأنابيب، رأس مجموعة أنابيب الإنتاج
+tubing hook	كلَّاب أنابيب الضخ
+tubing wrap-around	لفائف تغطية أنابيب الإنتاج
+tubingless completion	إنجاز دون أنابيب إنتاج
+tubo-annular	حَلَقة أنبوبية
+tubular cell	خلية وقود انبوبية
+tubular cold-cathode discharge lamp; neon tube	مصباح تفريغ أنبوبى بارد المهبط؛ مصباح نيون
+tubular combustor	غرفة احتراق أنبوبية
+tubular fabric	قماش أنبوبيّ
+tubular flexure	جسم نابض في شكل أنبوبي
+tubular furnace	فرن انبوبي
+tubular goods	مُعِدَّات أنبوبية
+tubular infrared emitter	باعث أنبوبي للأشعة تحت الحمراء
+tubular membrane	غشاء أنبوبي
+tubular plate	لوح انبوبي
+tubular reactor	مُفاعِل أُنْبوبيّ
+tubular rivet	برشام أنبوبي
+tubular scaffold	صقالة أنبوبية
+tubular section	مَقْطَع أنبوبي
+tubular shaft	ماسورة الأنبوب
+tuck method	تقنية الغرز
+tuck-rib / tuck fabric	فانج
+tufa	طُوفَة
+tuff	توف
+tuffite	توفيت
+tufted carpet	سجاد تفت
+tufted pile carpet	سجاد تفت
+tufting	تكسية بالخيوط الشعرية
+tufts	خصلات خيوط شعرية
+tug	طائرة ساحبة / مَركبة قاطرة
+tug boat	قارِب قَطْر
+tug rim	بكرة محزوزة، بكرة سحب ذات مجرى
+tugboat	قَارِب سَحْب، قاطرة بحرية / زورق قطر
+Tujijan	الحرف الصيني "مستحسن"
+Tula fiber	ألياف تولا
+tulip skirt / bubble skirt / balloon skirt	تنورة التُوليب
+tulip valve	صمام زئبقي
+Tultrim®	تلتريم®
+tumble	تقليب
+tumble gate	بوابة قلابة
+tumble-dry safe	الثبات عند تَجْفِيف
+tumblehome	مسافة الانقلاب الداخلي
+tumblehome line	خط الانقلاب
+tumbler	وعاء تقليب / وعاء دوّار
+tumbler switch	مفتاح قلاّب / مفتاح قلاب
+tunable beam approach	اقتراب بالشعاع الموالَف
+tundra climate (et)	مناخ التندرا (ET)
+tuned bandpass transformer	محوِّل إمرار نطاقي موالَف
+tuned circuit	دارة رنّانة / دارة موالَفة
+tuned grid circuit	دارة موالَفة الشبكة
+tuner	جهاز موالفه / مُناغِم / مُوالِف
+tung oil	زيت جفوف
+tungsten	تنچستن
+tungsten alloy	سبائك التنجستين
+tungsten filament lamp	مصباح ذو فتيل تانجستين
+tungsten halogen lamp	مصباح ذوفتيل تانجستين مملوء بالهالوجين
+tungsten ribbon lamp; strip lamp, US	مصباح ذو شريط تانجستين
+Tungsten95/Rhenium5-Tungsten74/Rhenium26	تنجستين95/رينيوم5-تنجستين74/رينيوم26
+Tungsten97/Rhenium3-Tungsten75/Rhenium25	تنجستين97/رينيوم3-تنجستين75/رينيوم25
+tunic	لباس مصارعة
+tunic dress	فستان مزدوج
+tuning	إضافات لاحقة (Tuning) / توليف
+tuning circuit	دارة رنانة
+tuning inductance,	ملف حث للموالفة
+tuning screw; tuning probe	مسمار ضبط
+tuning sensitivity	حساسية الموالفة
+tuning slug	ساق ضبط
+tunnel	نَفَقٌ / أنبوب / نفق / نَفَق
+tunnel boring machine (TBM)	آلة حفر الأنفاق
+tunnel diode	صمام ثنائى نفقى / صمام ثنائي نفقي
+tunnel effect	تأثير نفقي
+tunnel effect (in a PN junction)	أثر نفقي (فى وصلةPN)
+tunnel effect; tunnelling	تأثيرنفقي
+tunnel furnace	فرن نفقي
+tunnel lining	بِطَانَة النفَق / تبطين النفق
+tunnel luminaire	جهاز إضاءة نفقى
+tunnel shock	صدمة نفقية
+tunnel signal	إشارة نفق
+tunnel spillway bucket / tunnel deflector	جَابية مَخْلص نَفَقيّ
+tunnel thermics	حرارة نفقية
+tunnel; wind tunnel	نفق هوائي
+tunnelling	توصيل شبكتين
+TuNur project	مشروع 'تونور' (TuNur)
+turban	توربان
+turbidites	ترسبات عكرة
+turbidity	تَعَكُّر / عَكَارة / عكر / تعكُّر / تكدُّر / عكر/ لا شفافية
+turbidity current	تيار العكر
+turbidity current, interflow	تيارات العَكَر المتخللة
+turbidity current, underflow settling type	تيارات العَكَر السفليّ الهابطة البطيئة
+turbidity current, underflowing	تيارات العَكَر السفليّ المتدفقة
+turbidity of water	عُكارة المياه
+turbidity; cloudiness of liquids; opacity	عَكَرٌ
+turbine	تُربينة / عَنَفَة، تربينة / عَنَفَة / عنفة / توربين
+turbine bearing	محمل العَنَفَة
+turbine blade; turbine vane	ريشة العَنَفَة
+turbine disc	قرص العَنَفَة
+turbine drier	محفّفة عنفيّة
+turbine entry temperature	درجة حرارة مدخل العَنَفَة
+turbine gas temperature	درجة حرارة غاز العَنَفَة
+turbine generator	مولد ذوعنفة
+turbine generator (wheelabrator)	توربين-مولد
+turbine height	ضَبْط وَضع العنفة
+turbine inlet	مَدْخَل العَنَفَات
+turbine inlet temperature	درجة حرارة مدخل التربين
+turbine jet engine	محرك تربيني نفاث
+turbine motor vehicle,	مركبة بمحرك توربينى,
+turbine oil	زيت العنفات
+Turbine Power Curve	منحنى طاقة التوربينات
+turbine process	طريقة عمل التوربين
+turbine rotor	دوّار العَنَفَة
+turbine setting	ضَبْط وَضع التربينة
+turbine shroud	درع العَنَفَة / غطاء العَنَفَة
+turbine stage	مرحلة التربين / مرحلة العَنَفَة
+turbine stator	جزء العنفة الساكن / ساكن العَنَفَة
+turbine water channel	مَجرى القدرة المائية
+turbine wheel	دولاب العَنَفَة
+turbine with axial flow	توربين الدفق المحوري
+turbine with tangential flow	تُوربين الدفق المَماسي
+turbine, energy recovery	عنفة استعادة الطاقة
+turbine, radial flow	تُربينة تدفق شعاعيّ
+turbine, reaction	تُربينة ردّ فعلية
+turbine, tangential	عنفة تماس
+turbine, water	تُربينة مائية
+turbine-airscrew unit	وحدة عنفية مروحية
+turbine-type machine	آلة توربينية؛ آلة عنفية
+turbinlite	أنوار دوّارة
+turbo	عَنَفي
+turbo compressor	ضغّاط ذوعنفة
+turbo drilling	حَفْر عَنَفِّي
+turbo effect	تأثير تربو
+turbo engine	محرك تربيني
+turbo reversing transmission	عاكس حركة تربيني
+turbo starter	بادئ حركة تربيني
+turbo transmission	ناقل حركة تربيني
+turbo yarn	خيط غزل توربيني
+turbo-charged engine	محرك بمُضاغط عنفي
+turbo-charger	مُضَاغِط عنفي
+turbo-corer	مِثْقَب عَنَفِّي لأخذ العينات، جهاز اعتيان عَنَفِي
+turbo-generator set	مجموعة تربينة - مولد
+turbo; turbocharger; turbosupercharger	شحّان عَنَفي
+turboalternator	منوّبة عنفية
+turboblower	نفّاخ عَنَفي
+turbocharger	شاحن توربيني / شاحن تربيني
+turbocharging	شحن فائق
+turbofan	مروحية عنفية (مزدوجة الدفق) / محرك عَنَفي مِروَحي
+turbojet	نفاث عنفي (أحادي الدفق) / محرك عَنَفي نفاث
+turbomachine	آلة محورية ضغطية
+turboprop	محرك عَنَفي داسري
+turboprop 1	دافِع عَنَفي
+turboprop 2	دافِع عَنَفي
+turbopump	مضخة عَنَفية
+turboramjet	محرك عَنَفي نفاث ضغاطي
+turborocket	صاروخ عَنَفي
+turboshaft	محرك تربيني / محرك عَنَفي عمودي
+turbostarter	بادئ حركة عَنَفي
+turbulator	مدوِّم
+turbulence	اضطراب الجريان / اضطراب / إضطراب / اضطِراب (الهواء)
+turbulence cloud	سُحُب اضطرابية
+turbulence intensity	شدة الاضطراب
+turbulence number	رقم الاضطراب
+turbulence scale parameter	مقياس الاضطراب
+turbulence screen	مصفاة الاضطراب
+turbulent boundary layer	طبقة حدّية مضطربة / طبقة متاخمة اضطرابية
+turbulent flow	جريان مضطرب / جريان اضطرابي
+turbulent jet plasma torch	مصباح بلازما ذو نفث مضطرب
+turbulent velocity	سُرعة مُضطرِبة
+Turin titre	عيار دينر
+turkish knots	عقد تركية
+Turkish pattern	نمط تركي
+Turkish trousers / harem trousers	سروال تركي
+Turkmen carpet	سجاد تركماني
+turn	برم / دورة -لفة / لفة
+turn (to) wood	ليُّ الخشب
+turn and slip	مبيِّن الدوران والانزلاق
+turn errors	أخطاء الدوران
+turn indicator	مبين الانعطاف / مبيِّن الدوران
+turn insulation	عازل لفة
+turn table	رَحَى، لوحة دَوَّارة
+turn-off arm	ذراع إغلاق
+turn-off thyristor	ثايرستورغلق
+turn-over time	زمن الدورة
+turn-slide cylindric join	مفصل انزلاقي دوّار
+turn-to-turn insulation fault; interturn insulation fault	عطل عزل بين اللفات؛ عطل عزل بين اللفات البينية
+turn-up	ثنية السروال
+turn; turning	لفّة
+turnaround cycle	زمن دورة الطيران
+turnaround cycle; turn	دورة العربة
+turnaround time (TAT)	مُدّة التوقف
+turnaround; turnaround time	زمن العودة إلى الطيران
+turnbridge	جسر دوّار
+turnbuckle	شدّادة بلولب / شَدَّادة، مَدَّاد
+turndown collar	طوق ساقط
+turned letter	محرف مقلوب
+turney project	مشروع يسلّم 'المفتاح في اليد'
+turning	تدوير / إدارة / خِراطة
+turning basin	حوض دوران
+turning circle	دائرة الدوران
+turning cradle truck	عَرَبَة مفصلية
+turning errors	أخطاء قياس الانعطاف
+turning gouge	مظفار خرط / طاولة دوّارة
+turning path	مَمَر الانعطاف، ممر منعطف
+turning radius	شعاع الدوران
+turning roadway	وُصْلة انعطاف (بين ساقي تقاطع)
+turning roadway terminal	ملتقى وصلة الانعطاف بالطريق الرئيسية
+turning saw; sweep saw	منشار منحنيات
+turning shop	مَخرطة
+turning signal	إشارة الدوران
+turning track width	عَرْض مَسار الانعطاف
+turning; wheel	استدارة
+turnkey contract	عُقدة إنجازية، عقدة تسليم المفتاح
+turnkey price	سِعر البيع للمُستهلك
+turnoff	طريق جانبية / مفرق الطريق الجانبية
+turnoff lights	أنوار الطريق الجانبية
+turnout	تبديل / مفصل / مفتاح
+turnout signal	إشارة التبديل
+turnout tension lever	رافعة توتر التبديل
+turnout track; siding [to overtake]	مسار الإصلاح
+turnover	تجدد / دوران رأس المال / تجديد
+turnover frequency	تردد دوران رأس المال
+turnpike	طريق بالأداء
+turns correction	جهد نقطة الانعطاف
+turnstile aerial	هوائي رباعي الأذرع المتعامدة
+turnstile antenna	هوائى باب دوار
+turntable	صحن دوّار (في السكة الحديدية) / قرص دوار / منضدة دوّارة
+turntable conveyor	ناقل قرص دوار
+turpentine	تِرپنتين / تربنتين
+turquoise	فيروز
+turret	برج / برج دوّار
+turret lathe	مخرطة برجية
+turret trucks	شاحنات برجية
+turtleneck	ياقة مدوّرة
+tuscan order	الصنف التوسكاني
+tusk-tenon	لسان مُقوى
+tussah schappe yarn	خيط حرير شاب-توسا
+tussah silk yarn	خيوط غزل من حرير توسا
+Tussar silk	حرير التوسا
+tussar silk / tussah silk	حرير التوسا
+tutu	تنورة الباليه
+tuxedo	بذلة السهرة
+tuxedo / tuxedo jacket	بذلة بيضاء
+tuyère level pressure loss	فاقد الضغط عن طريق صِمام القاع النفّاث
+TV command	أَمْر تلفزيوني
+TV suit	بذلة التلفاز
+Twaron®	توارون ®
+Tweed	قماش تويد
+tweed jacking jacket	سروال الفروسية
+tweed yarn	خيط غزل تويد
+tweezer	ملقاط
+twelve-month running-mean sunspot number	رقم البقعة الشمسية لمتوسط التشغيل لمدة 12 شهر
+twelve-peak generator	مولد الإثنى عشر قمة
+Twelve-pulse bridge	جسر ذو 12 نبضة / نموذج ثنائي الدايود
+twelvemo	كتاب الاثني عشر
+twenty equivalent unit (T.E.U.)	وحدة المعادل العشريني
+twenty-foot equivalent unit (TEU)	وِحْدَةُ مُكَافَئةٍ لِعِشرِين قَدَمًا
+twenty-fourmo	كتاب الأربعة وعشرين
+Tweron®	ألياف تويرون ®
+twice minimum power points; double minimum power points	نقاط القدرة الدنيا المضاعفة
+twilight	سَحَر
+twilight band	شريط الشفق
+twilight effect	ظاهرة الشفق
+twilight zone	منطقة الشفق
+Twill	تصميم مبرد
+twill burr	تضليعات النسيج المبرد
+twill lapping	تراكب النسيج المبرد
+twill weave	تصميم مبرد / نسيج مبرد
+Twilo yarn	خيط غزل تويلو
+twin	أزواج متماثلة / ثنائية المحرك
+twin axis	محور التوأم
+twin bundle; two-conductor bundle (US)	حزمة ثنائية
+twin cable	كَبل مزدوج / كبل ثنائي
+twin engine	محرك مزدوج (Twin)
+twin hole	بئر مُتَوْأَمَة
+twin laws	قوانين التوأم
+twin mortise and joint	وصلة نقرة ولسان مزدوجة
+twin motor vehicle	مركبة بمحركيين
+twin paradoX	معضلة التوأمين
+twin print	توأم الطباعة
+twin rail, double rail	مسار مجاور
+twin railcar	عَرَبَة مزدوجة
+twin sleeper	قطار نوم مزدوج
+twin tail	ذَيل ثنائي
+twin tenons or double tenons	ألسنة مزدوجة
+Twin Tunnel	النفقين المتوازيين
+twin-aisle aircraft	طائرة ثنائية الممشى
+twin-engined aircraft	طائرة ثنائية المحرك
+twin-float seaplane	طائرة مائية ثنائية العوّامات
+twin-girder gantry	رافدة مزدوجة
+twin-gyro platform	منصة ثنائية الجَيروسكوب
+twin-row	ثنائي الصفوف
+twin-screw compressor	ضغاط مزدوج اللولب
+twin-T network	شبكة T- مزدوجة
+twin-tread tyre	إطار ثنائي المحيط
+twin-yoke drill	مِثْقاب بمِشَدَّيْن مزدوجين
+twine	دوبارة للتحزيم
+twine yarn	خيط غزل دوبارة التحزيم
+twinkle roll	لفّ وميضي
+twinned crystal	بلورة متوأمة
+twinned staurolite	توأمة ستورولايت
+twinning	توأمة / توأمة (ال..)
+twinning plane	مستوى التوأمة
+twinset	طقم محيك
+Twinskin®	توينسكين
+Twintax master cylinder (special tandem master cylinder)	أسطوانة الفرامل الرئيسية 'توينتاكس' (Twintax) (أسطوانة رئيسية ترادفية خاصة)
+twist	لفّ
+twist and steer	لفّ ودوران
+twist differences	اختلافات البرم
+twist drill	مِثْقَب حلزوني
+twist gimlet	بريمة حلزونية
+twist lock	قفل لفاف
+twist yarn / twist	خيط غزل مبروم
+twist-off capsule	بَوّاَبة مَفْصِلية
+twist-on connecting device; TOCD (abbreviation)	أداة توصيل لولبية
+twisted belt	سَيْر مُلْتَوٍ، حزام ملتو
+twisted cord	كردون
+twisted half-linen	خيوط برم نصف كتانية
+twisted loom; cabled assembly	نول مبروم؛ تجميعة كابل
+Twisted Pair	كابل مزدوج مجدول
+twisted terry	تجفيف مصنوعة من الخيوط المبرومة
+twisted yarn density	كثافة الخيط المبروم
+twisted yarn length	طول الخيط المبروم
+twisted-wire pair	زوج مُوصّلات مجدول
+twisting of wood	ليُّ الخشب
+twistlock	أقفال ملتوية
+twitch factor	عامل الانتزاع
+twizzle	انفلات / تملُّص
+two and a half aXis machining	تشغيل على محورين ونصف
+two axis rotating collector	مُجَمِّع دوّار ذو محورين
+two conditions	شرطان
+two cycles of concentration water	دورتين تركيز المياه
+two diode model	مُغيّر أحادي الاتجاه
+two layer winding	ملف ثنائي الطبقة
+two leaf door	باب بحشوتين
+two on one injector	محقنة الاثنين على واحد
+two panel door	باب بصفقين
+two pole circuit breaker	قاطع تيار ثنائي القُطْب (خطان)، قاطع تيار ثنائي الأقطاب
+Two port	شبكة ثنائية المنفذ
+two step charge	شحن بخطوتين
+two – hinged arch	قوس ثنائي المفاصل
+two – way slab	بلاطة بالاتجاهين
+two-aXis homing head	رأس توجيه ثنائي المحور
+two-axle wagon	عَرَبَة بمِحوَرين
+two-bay biplane	طائرة ذات سطحين ثنائيي الفرجة
+two-body problem	مسألة الجسمين
+two-breaker arrangement	ترتيب ثنائي القاطع
+two-brick wall	جدار مزدوج
+two-card system	نظام ذو بطاقتين
+two-chamber air drier	مُجفف هواء ثنائي الغرفة
+two-chamber induction channel furnace	فرن حثي ذو مجرى وغرفتين
+two-chamber system	نظام غرفتي الاحتراق
+two-circuit storage heater	خزّان ثنائي الدوائر
+two-circuit turbine jet engine	محرك تربيني ذو دائرتين
+two-circuit two-line compressed air brake system	منظومة الفرامل الهوائية ثنائية الخط والدائرة
+two-coil actuator (ZWD)	مُشغّل دوّار ثنائي اللفيفة
+two-colour printing	طبع بلونين
+two-colour pyrometer	مِضرم ثنائي اللون
+two-compartment tank truck	سيارة بصهريج ذي قسمين
+two-component yarn	خيوط ثنائية التركيب
+two-control aircraft	طائرة ثنائية التحكم
+two-control-point method	طريقة التحكم بنقطتين
+two-crew	طاقم ثنائي
+two-cycle	محرك ثنائي الدورة
+two-cycle; two-stroke	محرك ثنائي الشوط
+two-cylinder yarn	خيوط مكثفة
+two-dimensional computer-generated image; 2-D computer generated image	صورة منتجة بالحاسوب ثنائية الابعاد
+two-dimensional flow	جريان ثنائي البعد / دفق ذو بُعدَين
+two-dimensional inlet	مدخل ثنائي البعد
+two-dimensional isotropy, transverse	تَجانُس مستعرض
+two-dimensional prediction; 2-D prediction (abbreviation)	تنبؤ ثنائي الأبعاد
+two-dimensional radar	رادار ثنائي البعد
+two-dimensional wing	جناح ثنائي البعد
+two-directional operation	عملية ثنائية الاتجاه
+two-element relay	مرحل مزدوج العنصر
+two-filament halogen lamp [UK] / two-filament halogen light [US]	لمبة هالوجين ثُنائية الفتيل
+two-for-one twisting	خيط مبروم آليا / خيوط خيوط مبرومة
+two-frequency induction crucible furnace	فرن بوتقة حثي ذو تردد مزدوج
+two-layer fabric	قماش مزدوج
+two-level bridge	جسر ثنائي المستوى
+two-level fork junction	ملتقى متشعب على مستويين
+two-line brake system	نظام كبح بأنبوب مزدوج
+two-man rule	قاعدة الرجُلَين
+two-mass suspension model	نموذج تعليق ثنائي الكتلة
+two-meal service	خدمة ذات وجبتين
+two-minute turn	دوران الدقيقتين
+two-moment equation	معادلة العزمَين
+two-motion selector	مفتاح اختيار ذو حركة مزدوجة
+two-part costing	تكلفة ثنائية الأجزاء
+two-part tariff	تعرفة ثنائية الاجزاء؛ تعريفة الجزئن
+Two-Party NOC	شهادة عدم ممانعة من جهتين
+two-pass surface condenser	مُكَثِّف سطحي ثنائي المسالك
+two-phase flow	جريان ثنائي الطور
+two-phase region	منطقة ذات طورين
+two-piece / two-piece costume / two-piece suit	ثوب من قطعتين
+two-piece suit	طقم من قطعتين
+two-place	طائرة ذات مقعدين
+two-ply	خيط زوي مزدوج / خيط مزدوج
+two-ply jersey	جيرسيه ثنائي البرم
+two-ply marquisette	أقمشة رقيقة شبكية ثنائية البرم
+two-point landing	حط على نقطتين
+Two-point link with feedback	عنصر ثنائي النقاط بتغذية راجعة
+two-point suspension	تعليق على نقطتين
+two-pole switch	مفتاح ثنائي القطب
+two-port	منفذ ثنائى
+two-port SAW resonator	رنان ثنائى المأخذ بإستخدام الموجة الصوتية السطحية
+two-port, adj	منفذين
+two-position element	عنصر ثنائي الوضع
+two-position propeller	داسر ذو وضعين
+two-quadrant converter	مغير ذواتجاهين
+two-rate [three-rate] tariff	تعرفة ثنائية (ثلاثية)
+two-rate oleo	ممتص صدمات ذو معدَّلَين
+two-rate time-of-day tariff; day/night tariff	تعرفة معدل تكلفة زمنين في اليوم.تعرفة النهار والليل
+two-row radial	محرك شعاعي ثنائي الصف
+two-segment approach	اقتراب ذو جزأين / اقتراب ذو مسارين
+two-shaft design	تصميم متعدد الأعمدة
+two-shaft engine	محرك ثنائي العمود
+two-signal method	طريقة الإشارتِينِ
+two-speed supercharger	شحّان ذو سرعتين
+two-spool	محرك ثنائي البَكَرة
+two-stage aftercooler cooling system	نظام تبريد ذو مُبرِّد لاحق ثنائي المرحلة
+two-stage amber	كهرمان ثنائي المرحلة
+two-stage digestion system	نظام هضم ثنائيّ المرحلة
+two-stage igniter	مُشعِل على مرحلتين
+two-stage supercharger	شحّان ذو مرحلتين
+two-stage torsion damper with first-stage damper	مُخمّد التواء ثنائي المرحلة مُزود بمُخمّد أولي مُنفصل
+two-stage torsion damper with friction washers	مُخمد التواء ثُنائي المرحلة مُزود بحلقات احتكاك
+two-stage; double	ذُو مرحلتين
+two-star red	صواريخ حمراء ذات نجمتين
+two-step picking; two stage picking	إقتناء/ إختيار ذو مستويين
+two-step supercharge	تعزيز شحن ثنائي الخطوة
+two-stroke engine	محرك ثنائي الشوط
+two-stroke oil	زيوت المحركات ثنائية الأشواط
+two-stroke process	دورة ثنائية الشوط
+two-terminal	ثُنائي الأطراف
+two-terminal circuit	دارة ثنائية الطرف
+two-terminal device	جهاز ثنائي الأطراف
+two-terminal element	عنصر ثنائي الطرف
+two-terminal network	شبكة ثنائية الطرف
+two-terminal-pair	زوج ثنائي الأطراف
+two-terminal-pair network	شبكة زوج ثنائى الأطراف بعدد n
+two-tier linkspan	جسر عبور بطابقين
+two-tone effect yarns	خيط غزل زُخرفي ثنائي اللون
+two-track suspension model	نموذج تعليق ثنائي المسار
+two-value capacitor motor	محرك بمكثف ذو سعتين
+two-way bit	مثقب بجناحين
+two-way check valve EBS	صمام لارجوعي ثنائي المسار لنظام الفرامل المحكوم إلكترونياً (EBS)
+two-way circular conveyor	ناقل دائري ذو إتجاهين
+Two-way operation	عملية ذات اتجاهين
+two-way paging; two-way messaging	استدعاء في اتجاهين
+two-way pocket	جيب مزدوج
+two-way radio installation	محطة لاسلكية للإارسال و الاستقبال
+two-way ramp	مُنْحَدَر ذو اتجاهين
+two-way road	طريق ذات اتجاهين
+two-way traffic	سَيْر مزدوج الاتجاه
+two-way traffic passing prohibition	منع المرور في اتجاهين
+two-way valve	صمام توجيهي ثنائي
+two-wire cercuit	دائرة ذات سلكين
+two-wire circuit	دائرة ذات سلكين
+two-wire circuit; 2-wire circuit	دائرة بسلكين
+two-wire line	توصيلة ذات سلكين
+two-wire repeater; 2-wire repeater	مكرر ذو سلكين
+two-wire switching	فصل ووصل (تبديل) بسلكين
+two-wire transmission; 2-wire transmission	إرسال بسلكين
+twp-pipe shock absorber	مُمتص صدمات ثنائي الأنبوب
+TWPU	وحدة الإنتاج التكتيكي للمياه (تصفية)
+TX line (TX)	خط إرسال إشارات التحكم
+Ty-Rap	شريط حزم الأسلاك
+tying	تشبيك
+Typar ®	تيبار®
+type	صنف / طراز
+type / model / make / type series	تَسلْسُل تنفيذ الأعمال الإنشائية
+Type 2 CCS Plug	قابس شحن النوع 2 (CCS)
+type 304 stainless steel	فولاذ لا يصدأ من النوع 304
+type A electrode holder	ماسك قطب كهرباء نوع أ
+type B electrode holder	ماسك قطب كهرباء نوع ب
+type bar	قضيب حروف
+type certificate	شهادة صنفية / شهادة نوعية
+type conversion	تحويل الطراز
+type height	ارتفاع الحرف
+type metal	سبيكة محارف
+type of bucket conveyor	نوع من أنواع الناقلة بالقواديس
+type of construction	نوع التركيب
+type of drainage system	نمط الصرف
+type of error	أنواع الأخطاء
+type of lines	أنواع الخطوط
+type of paint	نوع الطلاء
+type of production	طريقة التصنيع
+type of protection	أسلوب الحماية
+Type of Protection "n"	نوع الحماية "n"
+Type of Protection "pD"	مستوى الحماية "pD"
+Type of Protection,	نوع الحماية, الأجواء المتفجرة
+type of salmonella	أنواع السالمونيلا
+type of soil	نوع التربة
+type of storage	نوع التخزين
+type of traction	نوع الجر
+type of train	نوع القطار
+type of use	نوع استخدام الطاقة الجيوحرارية
+type of vehicle	نوع العَرَبَة
+type record	سجلّ الصنف
+type scale	مقياس الصف
+type section	قطاع نموذجي
+type test	إختبار نوعى / اختبار النوع / إختبارالنوع / اختبار نوعي / اختبار الصنف / اختبار الطراز
+type X attachment	ملحقة ربط من النوع X
+type Y attachment	ملحقة ربط من النوع Y
+type Z attachment	ملحقة ربط من النوع Z
+type-casting machine	ماكينة سبك المحارف
+type-setting machine	ماكينة جمع
+type; letter caracter type	حرف مطبعي
+typecaster type founder	سبّاك محارف
+typecutter	نقاش محارف
+types of containers	أنواع الحاويات
+types of ignition	أنواع الإشعال
+Types of signal transmission	نقل الإشارات
+types of vibration	أنواع الترجحات
+typesetter	مصفّف طابع
+typesetting	تصفيف المحارف
+typewriter	مرقنة، آلة كاتبة
+typhoid	تيفوئيد
+typhoon	إعصار تيفون / إعصار مداري / تيفون
+typical	نمطي / نموذجي / نَمُوذجِيّ
+typical characteristics	مُميِّزات نمطية، مُمَيِّزات نموذجية
+Typical Plans	مخططات نموذجية
+typographer	طبّاع
+typography	طباعة بارزة
+typolithography	طباعة حجرية
+typometer	مقياس الطباع
+typotelegraphy	طباعة ابراقية
+typs of closed-loop controlled system	أنواع المنظومات المضبوطة
+tyre (Brit.); tire (US)	طَوْق، إطار
+tyre [UK] / tire [US]	إطار السيارة
+tyre contact area [UK] / tire contact area [US]	نقش الإطار البارز
+tyre control device [UK] / tire control device [US]	نظام مراقبة انثقاب الإطارات
+tyre cord / tyre cord weft	خيوط نسيج إطارات السيارات
+tyre cross-section [UK] / tire cross-section [US]	مقطع عرضي للإطار
+tyre designation [UK] / tire designation [US]	رموز تمييز الإطار / معلومات الإطار
+tyre lever [UK] / tire iron [US]	عتلة فك / عتلة فك الإطارات
+tyre marking [UK] / tire marking [US]	علامات تمييز الإطار
+tyre noises [UK] / tire noises [US]	ضجيج الإطار / ضجيج التدحرج
+tyre pressure [UK] / tire pressure [US]	ضغط هواء الإطار
+tyre pressure control system [UK] / tire pressure control system [US]	نظام مراقبة ضغط هواء الإطارات
+tyre sizes	مقاسات الإطار
+tyre tread depth	عُمقَ مَدَاسِ الإِطَار
+tyre valve [UK] / tire valve [US]	وصلة ملء الإطارات
+Tyuratam	مركز تيوراتم
+tyuyamunite	تيويامونايت
+Tyvek ®	تايفك®
+térébenthine	تِرِبِنْتين

@@ -1,0 +1,454 @@
+R N A	رنا (الحمض الريبي النووي)
+R?entgen rays	أشعة روتنجن، أشعة x
+racemase	راسيماز
+racemate	راسيمات
+raceme	راسيم
+racemic	راسيمي / راسيمي، عنقودي
+racemic acid	حمض راسيمي
+racemic mixture	مزيج راسيمي
+racemization	مراسمة / رسمزة، تَعَنْقُد
+racemize (to)	راسَمَ
+rack (test-tube...)	حامل ذو خانات
+rad	راد
+radial	شعاعي / شعاعي، نصف قطري
+radial quantum number	العدد الكموميّ الشعاعي
+radiant	مُشِعّ
+radiant energy	طاقة مشعة / طاقة إشعاعية
+radiant flux	تدفق الإشعاع
+radiant heat	حرارة إشعاعية
+radiant intensity	شدة الإشعاع
+radiation	إشعاع
+radiation chemistry	كيمياء إشعاعية
+radiation energy	طاقة إشعاعية
+radiation material	مادة مشعة
+radical	جَذْر، شِق / جذر
+radical methyl (CH3)	جذر المتيل
+Radii	أنصاف القطر / أنصاف أقطار
+radio	إشعاعي، شعاعي
+radio waves	موجات إشعاعية
+radio-	راديوي، مُشِع
+radio-elements	عناصر مشعَّة
+radio-tellurium	تلويوم مشعّ، تلور مشعّ
+radioactinium	أكتينوم مشعّ
+radioactive	إشعاعي، مشع
+radioactive chain	سلسلة إشعاعية
+radioactive constant	ثابتة إشعاعية
+radioactive decay	تضاؤل إشعاعي، تفكك إشعاعي، تحلل إشعاعي / تفكّك إشعاعي
+radioactive element	عنصر مُشِعٌّ
+radioactive series	سلسلة إشعاعية
+radioactivity	نشاط إشعاعي
+radioactivity (artificial...)	نشاط إشعاعي اصطناعي
+radioactivity (natural...)	نشاط إشعاعي طبيعي
+radiocarbon	كربون مُشع
+radiocarbon dating	تأريخ بالكربون المشع
+radiochemistry	كيميا إشعاعية / كيمياء إشعاعية
+radioisotope	نظير مشعّ / نظير مُشع
+radiolysis	انحلال إشعاعي
+radiomemetic	تخلّق إشعاعي، إشعاع تخلقي
+radiometric analysis	تحليل راديومتري، تحليل إشعاعي
+radiophotography	تصوير إشعاعي
+radium	راديوم
+radius	نصف قطر
+radon	رادون
+raffinase	رافيناز
+rafinate	ناتج منقّى، نقاوة
+Raman effect	مفعول رامان
+Raman spectrum	طيف رامان
+rancid	زنخ، فاسد / زَنِخ
+rancidity	زناخة، فساد
+random	عشوائي
+random error	خطأ عشوائي
+random variable	متحول عشوائي
+randomization	عشوائية
+randomness	عشوائية
+Raney nickel	نيكل راني
+Raney's alloy	إشابة راني، خليطة راني
+range	مدى
+rankine	رانكين
+Raoult's law	قانون راؤول
+rare	نادر
+rare earth	تراب نادر
+rare earth element	عنصر ترابي نادر
+rare earths	عناصر ترابية نادرة
+rare gas	غاز نادر
+rare gases	غازات نادرة
+rare metal	فلز نادر
+rarefaction	تخلخل
+Raschig synthesis	تخليق (اصطناع) راشيغ
+Rashig rings	حلقات راشغ
+Rast method	طريقة راست
+rate	معدّل، سرعة / مُعدَّل، سرعة
+rate constant	ثابت السرعة / ثابتة السرعة
+rate controlling step	خطوة محددة للسرعة
+rate determining step	الخطوة المعيِّنة للسرعة
+rate limiting step	الخطوة المحدِّدة للسرعة
+rate of reaction	سرعة التفاعل
+rate of reaction; reaction rate	معدل سرعة التفاعل
+rated value	قيمة اسمية، قيمة مستحقة
+ratio	نسبة
+rational formula	صيغة منطقية
+raw	خام
+raw material	مادة أولية
+raw sugar	سكر خام
+ray	شعاع
+rayon	ريون / حرير اصطناعي، رايون
+rays (gama...)	أشعة غاما
+react (to)	تفاعَلَ
+reactant	متفاعل
+reaction	تفاعل
+reaction (chemical)	تفاعل (كيميائي)
+reaction chain	سلسلة التفاعلات
+reaction inhibition	كبح التفاعل
+reaction isotherm	تفاعل درجة الحرارة الثابتة، تفاعل فان هوف
+reaction kinetic	حركية التفاعل
+reaction mechanism	ميكانيكية التفاعل، آلية التفاعل / آلية التفاعل
+reaction molecularity	جزيئية التفاعل
+reaction of first order	تفاعل من المرتبة الأولى
+reaction order	مرتبة التفاعل / رتبة التفاعل
+reaction period	منتجات التفاعل
+reaction rate	سرعة التفاعل
+reaction rate; rate of reaction	معدل سرعة التفاعل
+reaction step	مرحلة التفاعل
+reaction velocity	سرعة التفاعل
+reactivation	إعادة التنشيط / إعادة تفعيل
+reactive	فعّال / تفاعلي
+reactive dye	صِبْغ تفاعلي
+reactivity	تفاعلية
+reactor	مفاعل
+reagent	كاشف، متفاعل / كاشف
+reagent bottle	زجاجة كواشف
+real gas	غاز حقيقي
+realgar	رهج الغاز
+rearrange (to)	أعادَ الترتيب
+rearrangement	إعادة ترتيب
+receiver	مستقبِل، مستقبلة / متلقي، وعاء استقبال
+receptor	مستقبِل
+recipe	وصفة
+recipient	متقبِّل
+reciprocal proportion	نسبة متبادلة
+reciprocal proportions (law of)	قانون النسب المتبادلة
+recirculation process	عملية إعادة الدوران
+reclaimed oil	زيت مسترجَع
+reclaimed rubber	مطاط مسترجَع
+reclaiming	استرجاع
+recombinant DNA	دنا مأشوب
+recombination	إعادة الاتحاد / تأشيب
+recovered oil	زيت مسترجَع
+recovery	استرداد / استرداد، استعادة
+recrystallization	إعادة البلورة / إعادة التبلور
+rectification	تكرير، تصفية / تقويم، تكرير
+rectified alcohol	غَوْل مكرَّر
+rectifier	مقوِّم، مكرِّر
+rectifier (to)	مكرِّر، مُصفٍّ
+rectify	كرَّرَ، صفَّى
+rectify (v)	يقوّم، يكرّر
+rectifying column	عمود تقويم
+recuperate (v)	يسترجع
+recuperation	استعادة / استرجاع
+recycle (v)	يعيد الدورة
+recycle mixing	مزجٌ مُدار
+recycle ratio	نسبة مُدارة
+recycling	إعادة الدوران / إعادة التدوير
+red arsenic	زرنيخ أحمر
+red brass	شَبَه أحمر
+red glass	زجاج أحمر
+red heat	حرارة حمراء
+red iron oxide	أكسيد الحديد الأحمر
+red oil	زيت أحمر
+red phosphorus	فسفور أحمر
+redox	اختزال وأكسدة ريدوكس / ريدوكس (أكسدة وإرجاع)
+redox potential	كمون الريدوكس
+redox reaction	تفاعل اختزال وأكسدة، تفاعل أكسدة-إرجاع / تفاعل ريدوكس
+redox titration	معادلة بالاختزال والأكسدة، معايرة أكسدة - إرجاع / معايرة ريدوكس
+reduce (v)	يختزل
+reduced	مُرجَع، مُختَزل
+reduced crude	خام مخفّف (مختزل)
+reduced nickel	نيكل مختزَل
+reduced oil	زيت مختزَل
+reduced pressure	ضغط مخفَّض، ضغط مخفَّف
+reduced states	حالات مختزَلة
+reduced value	قيمة مختزَلة
+reducer	مختزِل، مرجِع / مختزِل
+reducing agent	عميل مختزِل، عامل مرجِع / عميل مختزِل
+reducing cell	خلية مُرجِعة
+reducing flame	لهب مرجِع
+reducing sugar	سكر مُرجِع
+reductant	مختزِل، مرجِع
+reductic acid	حمض مُرجِع
+reduction	اختزال، إرجاع / إرجاع، اختزال
+reduction energy	طاقة الاختزال، طاقة الإرجاع
+reduction potential	كمون الإرجاع
+reduction-oxidation reaction	تفاعل أكسدة وإرجاع
+reductor	جهاز اختزال
+reference	مَرجِـع
+reference electrode	إلكترود (مسرى) مَرجِعي
+reference sample	عينة مَرجِعية
+refine (v)	يكرّر، يصفّي
+refined	منقّى
+refined product	ناتِج منقّى، منتج مكرَّر
+refinery	مصفاة
+refinery gas	غاز المصفاة
+refining	تنقية / تكرير
+reflactance	انعكاسية
+reflect (v)	يعكس
+reflected	منعكِس
+reflecting	عاكِس (اسم)
+reflection	انعكاس
+reflective	عاكس (صفة)
+reflectivity	انعكاسية
+reflectometer	مقياس انعكاس الضوء
+reflux	ارتداد، ارتجاع / راجِع، مُرْتد
+reflux air-condenser	مكثف هوائي رادّ
+reflux condenser	مكثّف رادّ، مكثف مرجع / مكثف الراجع
+reflux ratio	نسبة الراجع
+reform (v)	يحسّن
+reformate	قُطارة محسَّنة
+reformed gas	غاز محسّن
+reformed gasoline	غازولين محسّن
+reforming	تحسين
+refraction	انكسار
+refractive	كاسر / انكساري، كاسِر
+refractive index	قرينة الانكسار، معامل الانكسار / قرينة الانكسار
+refractivity	انكسارية
+refractivity (molecular)	انكسارية جزيئية
+refractometer	مقياس الانكسار
+refractometry	قياس قرينة الانكسار
+refractory	متحمّل للحرارة
+refractory clay	غضار متحمل للحرارة
+refractory metal	فلز متحمل للحرارة
+refratory material	مادة نارية
+refrigerant	مائع مبرِّد / مُبرّد
+regenerate (v)	يجدّد
+regenerated cellulose	سيلولوز مجدّد
+regeneration	تجديد
+regular	منتظم
+regular solid	صلب منتظم
+regularity	انتظام
+regulate (v)	ينظِّم
+regulator mixture; buffer solution	خليط منظم
+Reimer's reaction	تفاعل رايمر
+reinforce (v)	يُقوّي
+reinforced plastic	لدين مُقوّى
+reinforcing agent	عميل مقوّي
+related	ذو صِلة
+relation	علاقة
+relative	نسبي
+relative density	كثافة نسبية
+relative error	خطأ نسبيّ / خطأ نسبي
+relative humidity	رطوبة نسبية
+relative velocity	سرعة نسبية
+relative viscosity	لزوجة نسبية
+relativity	نسبية
+relativity (theory of)	نظرية (ال...) النسبية
+relaxation	استرخاء
+relaxation (time)	ارتخاء(ال...)
+relaxation time	زمن الاسترخاء
+release (to)	حرَّرَ، أَطْلَقَ
+release (v)	يحرِّر
+reliability	موثوقية، مُعَوِّليَّة، عِوَل
+reliable	موثوق به، مُعَوّل عليه
+remainder	فضلة، بقية
+remains	بقايا
+remote control	تحكُّم عن بعد
+remove (to)	حذَفَ، نزَعَ، أزال
+renaturation	استعادة الطبيعة
+rendement	مردود
+renewable resources	مصادر متجددة
+renin	رينين
+rennet	منفحة
+rennin	أنفحة، كيموزين, رينّين
+repellency	نفور
+repellent	طارد / منفِّر
+replace (v)	يستبدل
+replacement	إحلال / استبدال
+replacement reaction	تفاعل تبادلي
+replication	تناسخ، نسخ
+replication of D.N.A	نسخ .D.N.A
+Reppe process	عملية ريب
+repress (v)	يكبح
+repulsion	تدافع، تنافر
+repulsive force	قوة التدافع (التنافر)
+requirement	متطلب
+rerun	إعادة التلقيم (الإجراء)
+research	بحْث
+residual	متبقي
+residual affinity	أُلفة ثُماليّة
+residual oil	زيت ثُمالي
+residual resistance	مقاومة ثُمالية
+residual valence	تكافؤ ثُمالي
+residue	بقية
+resiliency	رَجوعية
+resilient	رَجوع
+resin	راتينج / راتين
+resin, acid	حمض راتيني
+resin, natural	راتين طبيعي
+resin, synthetic	راتين اصطناعي
+resinate	راتينجات / راتينات
+resinification	رتنجة
+resinify (to)	رَتْنَجَ
+resinoid	ريزينويد
+resinol	ريزينول
+resinous	راتنجي
+resistance	مقاومة
+resistant	مقاوِم / مقاوم
+resolution	فصْل، تفريق / تفريق، مَيز
+resolve (to)	حلّ، فرَّق، حلَّل
+resolve (v)	يُميِّز، يُفرِّق
+resolvent	محلِّل / مُميِّز، مفرِّق
+resolving power	قدرة المَيز
+resonance	طنين / تجاوب، رنين (طنين)
+resonance absorption	امتصاص تجاوبي (رنيني)
+resonance band	عصابة الطنين
+resonance capture	أسر طنيني
+resonance hybrid	هجين تجاوبي (رنيني)
+resonance potential	كمون تجاوبي (رنيني)
+resonance radiation	إشعاع تجاوبي (رنيني)
+resonance structure	بنية تجاوبيّة (رنينيّة)
+resonant bond	رابطة طنانية
+resorcin	ريزورسين
+resorcinol	ريزور سينول / ريزورسينول
+resorcinol -formaldehyde resin	راتين فورمالدهيد - ريزورسينول
+resorcinol acetate	أسيتات الريزورسينول
+resorcylic acid	حمض ريزورسيليكي
+resorption	ابتلاع / إعادة الارتشاف
+respond (v)	يجيب، يستجيب
+response	إجابة، استجابة
+rest	سكون
+rest mass	كتلة سكونية
+rest point	نقطة السكون
+restricted	محدود، مقيَّد
+restricted data	معطيات مقيّدة
+restricted rotation	دوران مقيَّد
+restriction	تقييد
+restriction enzyme	إنزيم تقييد (احتجاز)
+resublimation	إعادة التسامي
+result	ناتج التفاعل / نتيجة
+retain (v)	يحتجز
+retained	محتجَز
+retainer	متححِر / محتجِز
+retardant	مؤخِّر
+retardation	تأخير
+retarder	مثبّط، حافز سلبي / مؤخِّر
+retene	ريتين
+retention	احتجاز، احتفاظ / احتباس
+retention column	عمود الاحتجاز، عمود الاحتفاظ
+retention index	قرينة الاحتباس
+retention time	فترة الاحتجاز، فترة الاستبقاء / زمن الاحتباس
+retention volume	حجم الاحتباس
+reticular	شبكي
+retinol	ريتينول
+retort	مُعْوَجَّة
+retort clamp	كلاب المعوجَّة
+retort gas	غاز المعوجة
+retort stand	حامل المعوجَّة
+retraction	انكماش
+retro-	خَلَف: سابقة
+retrogradation	رجوع
+retropinacol rearrangement	إعادة ترتيب بيناكولي راجع
+retrosynthesis	اصطناع راجع
+return tube	أنبوب إعادة
+reverberatory furnace	مجمر مقلوب اللهب، فرن مقلوب اللهب، أتون مقلوب اللهب
+reverse	عكس، عكوس
+reverse (v)	يعكِس
+reverse osmosis	تناضح عكوس
+reversibility	عكوسية، قابلية للانعكاس / عَكوسية
+reversible	عكوس، قابل للانعكاس / عَكوس
+reversible cell	خليَّة عَكوسة
+reversible cells	خلايا عكوسة، قابلة للانعكاس
+reversible colloid	غَرَوان عكوس
+reversible electrode	مسرى عَكوس
+reversible process	عملية عَكوسة
+reversible reaction	تفاعل عكوس، تفاعل قابل للانعكاس / تفاعل عَكوس
+Rf-value (retention factor)	قيمة R.F
+rH-value	قيمة rH
+rhenium	رينيوم
+rheology	رِيولوجيا (علم الجريان)
+rheopexy	ريوبكسية
+rhodium	روديوم
+rhodopsin	رودوبسين
+rhombic	معيني
+rhombohedral	معيني الوجوه
+riboflavin	ريبوفلافين
+ribonic acid	حمض الريبونيك
+ribonuclease	ريبونكلياز
+ribonucleic acid	حمض ريبي نووي
+ribonucleic acid (R.N.A)	حامض ريبونيوكلييك، حامض الريبو النوكلوئي
+ribonucleoprotein	بروتين نووي
+ribose	ريبوز
+riboside	ريبوزيد
+ribosome	ريبوسوم
+ribosomes	ريبوسومات
+ribosyl	ريبوزيل
+ribulose	ريبولوز
+ricin	خَرْوَعٌ
+ricinine	ريسينين
+ricinoleic acid	حمض الريسينوليك
+ricinus oil	زيت الخَرْوَع
+rider	راكب
+right	صحيح، يمين
+rigid	صلب
+rigidity	صلابة
+ring	حلقة
+ring closure	إغلاق حلقي / غَلْقُ الحلقة
+ring compound	مُرَكَّب حلقي
+ring compounds	مركبات حلقية
+ring formation	تشكل حلقي، تكوين حلقي
+ring hydrocarbons	هيدروكربونات حلقية
+ring structure	بنية حلقية
+ring-chain isomerism	تصاوغ حلقي - سلسلي
+rinsing	شطْف
+ripening	نضْج
+rippled	متموّج
+roast (to)	حمَّصَ
+roast (v)	يشوي
+roasting	تحميص / شَيٌّ، تكليس
+rock oil	زيت الصخر
+rock-salt	ملح صخري
+rod	قضيب، ساق
+Roler reaction	تفاعل رولر، تفاعل أوكسو
+room temperature	درجة حرارة الغرفة، درجة حرارة الوسط
+root-mean-square velocity (rms)	جذر متوسط، مربع السرعة
+rosaniline	روزانيلين
+Rose's crucible	بوتقة
+rosin	قلفونة (روزين)
+rosin oil	زيت القلفونة (الروزين)
+rosin spirit	روح القلفونة (الروزين)
+rosolic acid	حمض الروزوليك
+rotary	دوّار
+rotary furnace	محم دوار، فرن دوّار، أتون دوار
+rotating disk column	عمود ذو قرص دوار
+rotation	دوران
+rotational energy	طاقة الدوران
+rotational quantum number	عدد كمومي دوراني
+rotational spectrum	طيف دوراني
+rotatory power	قدرة تدويرية
+rough	خشن
+roughness	خشونة
+round (-bottomed) flask	دورق مستدير القاعدة
+rubber	مطاط
+rubber cloth	حشو مطاطي
+rubber hose	خرطوم مطاطي
+rubber hydrocarbon	هيدروكربون مطاطي
+rubber hydrochloride	هيدروكلوريد مطاطي
+rubber latex	لاتكس مطاطي
+rubber natural	مطاط طبيعي
+rubber plating	تلبيس بالمطّاط
+rubber sponge	إسفنج مطاطي
+rubber stoppers	سدادات مطّاطية
+rubber synthetic	مطاط صناعي
+rubber tube	انبوبة مطّاطية
+rubbing	دَلْك
+rubbing alcohol	غَوْل الدَّلك
+rubbing oil	زيت الدَّلك
+rubidium	روبيديوم
+ruby	ياقوت / ياقوت أحمر
+rule	قاعدة، قانون / قاعدة
+rule of eight	قاعدة الثمانية
+rule of two	قاعدة الاثنين
+run	تلقيم، إجراء
+rust	صدأ / صَدَأ
+ruthenium	روتينوم، روثينوم / روتينيوم
+Rutherford	رذرفورد
+Rutherford atom	ذرة رذرفورد
+Rutherford scattering	تشتّت رذرفورد
+Rydberg constant	ثابتة ريدبرغ

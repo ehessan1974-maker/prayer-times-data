@@ -1,0 +1,877 @@
+تابِع	Dependent / subsidiary
+تابِع، ملحق	accessory
+تأثير	Effect
+تأثير التكلفة	Cost Impact
+تأثير السوط	Bullwhip Effect
+تأثير السوط الأخضر	Green Bullwhip Effect
+تأثير المخاطر	Risk Impact
+تأثير إيجابي	Leverage
+تأثير غير مباشر	Spillover Effect
+تاجِر	merchant
+تأجير	Lease
+تأجير السفينة	freighting (hiring out of a ship)
+تأجير زراعيّ	farming lease
+تأجيل	postponement
+تأجيل (القضية)	adjournment (of the case)
+تأجيل التصنيع	Manufacturing Postponement
+تأجيل اللوجستيات	Logistics Postponement
+تأجيل المناقشة	adjournment of the debate
+تأجيل قضية (أمام المحكمة)	postponement of a case
+تأديبي	Disciplinary
+تاريخ الأولوية	Priority date
+تاريخ التسليم المتعهد به	Promise Time
+تاريخ الطب السابق	Date of previous application
+تاريخ القانون	history of law
+تاريخ إيداع الطلب	Patent filing date
+تاريخ إيداع طلب السابق	Filing date of previous application
+تاريخ إيداع طلب براءة	Filing date of a patent application
+تاريخ تقديم استأنف علامة	Trademark petition date
+تاريخ دستوريّ	constitutional history
+تاقت الوقت	Tact Time
+تأكيد الذات	Assertiveness
+تأكيد وإقرار	Affirmation
+تأكيد، إقرار	confirmation
+تآمر	Conspiracy
+تأميم	nationalization
+تأمين	Insurance / insurance
+تأمين إجباريّ على البطالة	compulsory unemployment insurance
+تأمين اجتماعيّ	Social Insurance / social insurance
+تأمين اختياريّ	voluntary insurance
+تأمين الأشخاص	personal insurance; insurance of persons
+تأمين الأشياء	insurance of things
+تأمين الأمومة	maternity insurance
+تأمين البطالة	unemployment insurance; jobless insurance
+تأمين الحريق	fire insurance
+تأمين الحوادث	accident insurance
+تأمين الحياة	life insurance
+تأمين إلزاميّ، تأمين إجباريّ	obligatory insurance; compulsory insurance
+تأمين الشيخوخة	old age insurance
+تأمين المسؤولية	Liability Insurance / liability insurance
+تأمين المسؤولية المدنية	Civil Liability Insurance
+تأمين الوفاة	whole life insurance; insurance in case of death
+تأمين بحريّ	Marine Insurance / marine insurance; maritime insurance
+تأمين بريّ	insurance on land
+تأمين تعاوني	Cooperative Insurance
+تأمين تعاونيّ، تأمين تبادليّ	mutual insurance
+تأمين جويّ	aerial insurance
+تأمين خصوصيّ	private insurance
+تأمين شامل، تأمين ضد جميع الأخطار	comprehensive insurance; all-in insurance
+تأمين صحيّ	health insurance
+تأمين ضد السرقة	burglary insurance; theft insurance
+تأمين ضد جميع الأخطار	all-in insurance; all-risks insurance
+تأمين ضمان	credit insurance
+تأمين طبي	Medical Insurance
+تأمين عجز	disability insurance
+تأمين عن المرض	sickness insurance; health insurance
+تأمين عن الوفاة	death insurance
+تأمين ملكيّة، تأمين على الملكية	property insurance; estate insurance
+تأمين وطني	National Insurance (NI)
+تأهيل مسبق للمورد	Supplier Pre-Qualification
+تبادل الإلكتروني للبيانات	Electronic Data Interchange (EDI)
+تبادل البيانات الإلكترونية	(EDI) Electronic Data Interchange
+تبادل السلع	Commodities Exchange
+تبادل العقود الآجلة	Futures Exchange
+تباين	Variance
+تباين / التفاوت	Variation
+تباين / تقلب الطلب	Demand Variability
+تبديد	dissipation
+تبرئة	acquittal; acquittance
+تبرير، تسويغ	justification
+تبعية	dependency / subordination
+تبعية اقتصادية	economic dependence
+تبلور	Crystallized
+تبليغ	Notification
+تبليغ حكم	notification of judgement
+تبليغ، إخطار	notification
+تبنٍّ	adoption
+تبييض الأموال، غسل الأموال	bleaching of capital; money laundering
+تبييض، غَسْل	bleaching
+تتبع	Traceability
+تثبيت السعر	Price-Fixing
+تجارة استيراد	import trade
+تجارة الجملة	wholesale trade
+تجارة بحرية	maritime trade
+تجارة بينية	Inter-Trading
+تجارة تصدير	export trade
+تجارة حرة، تبادل حرّ	free trade
+تجارة خارجية	foreign trade; external trade
+تجارة داخل الشركة	Intra-Company Trading
+تجارة داخلية	internal trade; interior trade
+تجارة دولية	international trade
+تجارة عالمية	world trade
+تجارة غير قانونية، تجارة غير مشروعة	illegal traffic; illegal trade
+تجارة محلية	local trade
+تجانس	Homogeneous
+تجانس طلب	Demand Smoothing
+تجاهل الطبقة	Tier Skipping
+تجاوز الدفاع الشرعيّ	excess of the legitimate defence
+تجديد	Novation / novation
+تجديد الإشتراك على التوالي	Straight Re-Buy
+تجديد العلامة	Trademark renewal
+تجديد ضمنيّ	tacit novation; tacit reconduction
+تجربة، خبرة	experience
+تجريب، اختبار	experimentation
+تجريبـيّ	experimental
+تجريد	Divesting
+تجريد (ال..) من الحقوق الوطنية	civic degradation
+تجريم	Incrimination / criminalization / incrimination
+تجزئة	Fragmentation; Segmentation
+تجزئة الطلب	Division of application
+تجزئة مستهدفة	Targeted Segmentation
+تجسُّس	espionage
+تجميد الأجور	wage freeze
+تجميع السلطة، دكتاتورية	totalitarianism
+تجميع الطلب	Pooling Of Demand
+تجنب التكلفة	Cost Avoidance
+تجنب ضريبي	Tax Avoidance
+تجنُّس	naturalization
+تجهيز	Kitting
+تحالف	Consortium
+تحالف استراتيجي	Strategic Alliance
+تحالف المؤسسات، كارتل	cartel
+تحالف انتخابيّ	electoral alliance
+تحالف دفاعيّ	defensive alliance
+تحالف دوليّ	international alliance
+تحالُف، مصاهرة	alliance
+تحايل على القانون	fraud against the law
+تَحدٍّ	challenge
+تحدي التنوع	Diversity-Challenged
+تحديد الأثمان	fixing of prices
+تحديد الأولويات حسب الأفضلية	A Priori Prioritization
+تحديد الحدود، وَضْع الحدود	delimitation of boundaries; drawing boundaries
+تحديد السعر	price fixing
+تحديد المسؤولية	limitation of liability; limitation of responsibility
+تحديد المصادر الإلكترونية	E-Sourcing
+تحديد تردد الراديو	RFID (Radio Frequency Identification)
+تحديد مصادر الأحداث	Sourcing Events
+تحديد، تثبيت	fixation
+تحرش	Harassment
+تحرير الأسهم، دَفْع قيمة الأسهم	liberation of shares; payment of shares
+تحريز	Seizure
+تحريض	Incitement
+تحريض، إثارة	excitation
+تحريض، استفزاز	provocation
+تحريف المصنف	Distortion of work
+تحسن مستمر	Continuous Improvement
+تحسين الأداء	Performance Improvement
+تحسين البنية التحتية	Infrastructure Improvement
+تحسين العملية	Process Improvement
+تحسين سلسلة التوريد	Supply Chain Optimization
+تحسين قاعدة العرض	Supply Base Optimization
+تحسين محرك البحث	SEO
+تحضير الأعمال / الأموال	Green Wash
+تحفُّظ	reservation
+تحفيز	Motivation
+تحقق (ال..) من الديون	verification of debts
+تحقق (ال..) من المحجوزات	verification
+تحقيق	Investigation
+تحقيق إداري	Administrative Investigation
+تحقيق إعداديّ	preparatory investigation
+تحقيق الذات	Self-Actualization
+تحقيق أولي	Preliminary Investigation
+تحقيق جنائي	Criminal Investigation
+تحقيق دوليّ	international investigation
+تحقيق فني	Technical Investigation
+تحقيق مالي	Financial Investigation
+تحقيق، بَحْث	investigation; inquiry
+تحكيم	Arbitration / arbitrage; arbitration
+تحكيم اختياريّ	voluntary arbitration
+تحكيم تجاريّ	commercial arbitration
+تحكيم تجاريّ دوليّ	international commercial arbitration
+تحكيم دوليّ	International Arbitration / international arbitrage
+تحكيم رضائيّ	conciliatory arbitration
+تحليل	ABC (Always Better Control) Analysis
+تحليل "كما هو"	As Is’ Analysis
+تحليل احتياجات العمل	Business Needs Analysis
+تحليل الاسترداد	Payback Analysis
+تحليل التباين	Variance Analysis
+تحليل التكاليف والعائد	Cost–Benefit Analysis
+تحليل التكلفة	Cost Analysis
+تحليل التكلفة المستهدفة	Target Cost Analysis
+تحليل الحساسية	Sensitivity Analysis
+تحليل السبب الجذري	Root Cause Analysis
+تحليل السعر	Price Analysis
+تحليل السوق	Market Analysis
+تحليل الفجوات	Gantt Chart
+تحليل الموقف	Situation Analysis
+تحليل النشاط / الوقت	Activity/Time Analysis
+تحليل باريتو	Pareto Analysis
+تحليل بوغ	Pugh Analysis
+تحليل تأثير الأعمال	(BIA) Impact
+تحليل تدفق القيمة	VSM
+تحليل تكلفة الشراء	(PCA) Purchase Cost Analysis
+تحليل توزيع التكلفة	Supplier Cost Breakdowns
+تحليل ديموغرافي	Demographics
+تحليل سلسلة القيمة	(VCA) Value Chain Analysis
+تحليل محفظة	Portfolio Analysis
+تحليل محفظة العملاء	Customer Portfolio Analysis
+تحليل نسبة السيولة	Liquidity Ratio Analysis
+تحليل نسبي	Ratio Analysis
+تحليل نوعي	Qualitative Analysis
+تحليل وظيفي	Functional Analysis
+تحليلات الإنفاق	Spend Analysis
+تحمض	Acidification
+تحمل المخاطر	Risk Tolerance
+تحميل	Loading
+تحميل الموارد	Resource Loading
+تحميل محدود	Finite Loading
+تحميل وحدة	Unit Load
+تحوط العملات	Currency Hedging
+تحوط أو طوق	Hedge
+تحول الأعمال	Business Transformation
+تحول المخزون أو دوران	Inventory Velocity
+تحوُّل، تحويل	transformation
+تحويل	conversion
+تحويل السهم	share transfer
+تحويل مصرفيّ، تحويل بنكيّ	bank transfer
+تحيز	Bias
+تخثث	Eutrophication
+تخزين شحنة	Consignment Stocking
+تخزين مرن	Flexible Warehousing
+تخزين مسبق	Resource Pre-Positioning
+تخصُّص	Niche / specialization; specialism
+تخصُّص القضاة	specialization of judges
+تخصيص	Earmarking
+تخصيم	Factoring
+تخطيط	Planning / planning
+تخطيط استمرارية الأعمال	Business Continuity Planning (BCP)
+تخطيط إقليميّ	country planning
+تخطيط التعاوني والتنبؤ والتجديد	Forecasting And ، Collaborative Planning،Replenishment (CPFR)
+تخطيط الجودة المتقدم	Advanced Quality Planning (AQP)
+تخطيط الطلب	Demand Planning
+تخطيط العمليات	Process Mapping
+تخطيط المبيعات والعمليات	(S&OP) Sales And Operations Planning
+تخطيط الموارد البشرية	Human Resource Planning
+تخطيط تدفق القيمة	Value Stream Mapping
+تخطيط متجر العمل	Job-Shop Layout
+تخطيط متطلبات المواد	Material Handling
+تخطيط موارد التصنيع	Manufacturing Resource Planning (MRP II)
+تخطيط موارد التوزيع	Distribution Resource Planning (DRP)
+تخطيط موارد المؤسسات	ERP (Enterprise Resource Planning)
+تخفيض الأجور، خفْض الأجور	wage cuts
+تخفيض التعويض	mitigation of damages
+تخفيض الضريبة، خَفْض الضريبة	tax cut
+تخفيض تراكم القضايا	backlog reduction
+تخفيض رأس المال	reduction of capital; writing down of capital
+تخفيض، خَصْم	abatement
+تخفيض، خَصْم، اقتطاع	deduction
+تخفيف	Mitigate; Dilutive
+تخفيف الحكم	mitigation of sentence; mitigation of penalty
+تخفيف العقوبة	commutation of penalty
+تخلُّف عن الأداء، تخلُّف عن الدفع	failure to pay
+تخمين	Speculating
+تدابير إدارية، إجراءات إدارية	administrative measures; administrative procedures
+تدابير التوقع	Expectation Measures
+تدابير ذاتية	Subjective Measures
+تدابير رائدة	Leading Measures
+تدابير لينة / ناعمة	Soft Measures
+تدابير متأخرة	Lag Measures
+تداول الأسهم	Stock Exchange
+تداوُل المستندات (للاطلاع)	delivery of documents
+تداول عمودي	Vertical Trading
+تداول من الداخل	Insider Trading
+تدبير احترازي	Precautionary Measure
+تدبير غير مباشر	Indirect Procurement
+تدبير وقائي	Preventive Measure
+تدبير وقتي	Provisional Measure
+تدرج منطقي	Logical Incrementalism
+تدريب	apprenticeship / traineeship
+تدريب وتطوير	Training And Development
+تدريجي	Incremental
+تدفق	Flow
+تدفق الخط	Line Flow
+تدفق العناصر	Flow Of Items
+تدفق القطعة الواحدة	Single-Piece Flow
+تدفق القيمة	Value Stream
+تدفق المعلومات	Information Flow
+تدفق سفلي	Flow Down
+تدفق نقدي	Cash Flow
+تدقيق الابتكار	Innovation Audit
+تدقيق الجودة	Quality Auditing
+تدقيق المشروع	Project Audit
+تدقيق الموقف	Position Audit
+تدليس	Deceit / fraudulence
+تدليس عارِض	incidental fraud
+تدمير	Destruction
+تدهور	Deterioration
+تدويل	internationalization
+تدوين، تسجيل	transcription
+تدوين، تقنين	codification
+ترابط التنافسي	Competitive Interdependence
+تراتبية، تسلسل، هرمية	hierarchy
+تراجع	Backwardation
+تراضٍ متبادَل	mutual consent
+تراضي	Agreement
+تراكُم	accumulation
+تراكُم الديون	accumulation of debt
+تراكُم القضايا	backlog; case jamming
+تراكمي	Accretive
+ترتيب الأنشطة	Configuration Of Activities
+ترتيب تنظيمي	Regulatory Arrangement
+ترتيب قانوني	Legal Arrangement
+ترجيح	Weighting
+ترحل / تأجيل	-Contango
+ترحيل	Deportation
+ترخيص	License
+ترخيص إجباري	Compulsory License / Compulsory license
+ترخيص استعمال العلامة	Trademark licensing
+ترخيص باستغلال براءة	Bare patent license
+ترخيص بلدي	Municipal License
+ترخيص تعاقدي	Contractual license
+تردد الراديو	(RF) Radio Frequency
+ترشيح	candidacy; candidature
+ترشيد الموردين	Supplier Rationalization
+ترشيد قاعدة التوريد	Supply Base Rationalization
+ترصُّد	ambush
+ترقيم	numbering
+ترقية	promotion
+ترقية بالاختيار	promotion by selection
+ترقية بالأقدمية	promotion by seniority
+ترك الخصومة	Abandonment of Litigation
+ترِكة	Estate / inheritance; heritage
+تَرِكة بالوصية	testamentary succession; testamentary will
+ترِكة بدون وصية	intestate succession
+ترِكة شاغرة	vacant succession
+تركيز على النتائج	Outcome-Focused
+ترهيب	Intimidation
+تزوير	Forgery / forgery; falsification
+تزوير بالتحوير	forgery by alteration
+تزييف النقود	Money Counterfeiting
+تزييف، تزوير	counterfeiting
+تسارع الجرد	Inventory Velocity
+تساند	Co-Creation
+تسبيب، تعليل	motivation
+تسبيق، سلفة	advance
+تستر	Concealment
+تسجل في سجلات	Entered in the records
+تسجيل العلامات التجارية	Registration of trademarks
+تسجيل العلامات التجارية بحسن نية	Registering trademarks with good intentions
+تسجيل المعاهدات	registration of treaties
+تسجيل، قيْد	registration
+تسخير	requisition
+تسديد	Payback
+تسرب العقد	Contract Leakage
+تسعير الاختراق	Penetration Pricing
+تسعير الأدنى	Minimum Pricing
+تسعير التنافسي	Competitive Pricing
+تسعير السلع	Commodity Pricing
+تسعير القائم على المنافسة	Competition-Based Pricing
+تسعير النفسي	Psychological Pricing
+تسعير ديناميكي	Dynamic Pricing
+تسعير زعيم الخسارة	Loss Leader Pricing
+تسعير على أساس التكلفة	Cost-Based Pricing
+تسعير على أساس التكلفة زائد	Cost-Plus Pricing
+تسعير على أساس قيمة العميل	Customer Value-Based Pricing
+تسعير قائم على القيمة	Value-Based Approach
+تَسلُّح	armament
+تسلسل	Sequencing
+تسلسل هرمي للفئات	Category Hierarchy
+تسليم	Deliverable / delivery
+تسليم البضائع	delivery of goods
+تسليم المجرمين	extradition
+تسميم	poisoning
+تسنيد	Securitization
+تسهيل، تيسير	facility
+تسهيلات ائتمانية	credit facilities
+تسهيلات الصندوق	overdraft facilities
+تسهيلات في الأداء، تسهيلات في الدفع	facilities of payment
+تَسوُّل، استجداء	mendicity
+تسويق	marketing
+تسويق المباشر	Direct Marketing
+تسويق بالعلاقات	Relationship Marketing
+تسوية	Settlement / settlement
+تسوية المنازعة	Dispute Settlement
+تسوية الموارد	Resource Levelling
+تسوية النـزاع، حلُّ النـزاع	conflict resolution
+تسوية سلمية للمنازعات	peaceful regulation of conflicts
+تسوية صلحية	Conciliatory Settlement
+تسوية قضائية	judicial settlement
+تسوية ودية	Amicable Settlement / amicable settlement
+تسوية وقائية	Protective Settlement
+تشابُه، مماثلة، شَبَهٌ	similitude; similarity
+تشتت الإبتكارات	Diffusion Of Innovation
+تشخيص	diagnosis
+تشديد العقوبة	augmentation of penalty
+تَشرُّد	vagrancy
+تشريح الجثة	autopsy
+تشريع	Legislation / legislation
+تشريع ثانوي	Secondary Legislation
+تشريعات	TUPE Legislation
+تشْريفات، مَرَاسم	protocol
+تشغيل	hiring
+تشغيل الأطفال	Child Labor
+تشكك مشروع، ريبة مشروعة	legitimate suspicion
+تشويه المصنف	Corruption of work
+تصالحيّ	transactional
+تصحيح التوقيع، مصادقة على التوقيع	signature ratification
+تصحيح الحكم	rectification of judgement
+تصحيح الوضع	Remedy Of The Situation
+تصحيح، تصديق	authentication
+تصدير	export; exportation
+تصدير / الصادرات	Exports
+تصديق التوقيع، تصحيح التوقيع	authentification of a signature
+تصديق على قانون، إصدار قانون	sanction of the law
+تصديق، مصادقة	certification
+تَصرُّف	disposition
+تصرُّف بإرادة منفردة	Unilateral Act / unilateral act
+تَصرُّف بسبب الموت	disposition of death
+تَصرُّف بين الأحياء	disposition inter vivos
+تصرُّف تبرعيّ	gratuitous disposition
+تصرُّف تحت الإكراه	act under duress
+تصرُّف رضائيّ	consensual act
+تصرف في المنتج	Product Disposition
+تصرُّف قانونيّ	Legal Disposition / legal act
+تصرُّف كاشف (إعلانيّ)، عقد كاشف (إعلانيّ)	declarative act
+تصرُّف منشِئ	constitutive act
+تصرُّف ناقِل (الحق)	conveyance
+تصريح	Permit
+تصريح بالسبب	Express Cause
+تصريح جمركيّ	customs declaration
+تصعيد	Escalate
+تصفيف	Layering
+تصفية	Liquidating / Liquidation / liquidation
+تصفية اختيارية	Voluntary Liquidation
+تصفية إدارية	Administrative Liquidation
+تصفية تركة	liquidation of succession
+تصفية قضائية	Judicial Liquidation / judicial liquidation
+تصميم / الهيكل التنظيمي	Organizational Design/Structure
+تصميم المشترك	Co-Design
+تصميم الوظيفة	Job Design
+تصميم تخطيطي	Layout design
+تصميم تخطيطي أصيل	Original layout design
+تصميم سلسلة التوريد	Supply Chain Design
+تصميم شبكة سلسلة التوريد	Supply Chain Network Design
+تصميم صديق للبيئة	Eco-Design
+تصميم وبناء	Design And Build
+تصنُّع، تظاهُر	simulation
+تصنيع	industrialization
+تصنيع الإلكتروني	E-Manufacturing
+تصنيع تدفق الطلب	Demand Flow Manufacturing
+تصنيع قابل للاسترداد	Recoverable Manufacturing
+تصنيف	ABC Categorization; Categorization
+تصنيف الدفعات	Batching
+تصنيف المورد	Supplier Rating
+تصنيف الموردين	Supplier Tiring
+تصنيفات	Taxonomies
+تصويت	Voting / voting
+تصويت الثقة	vote of confidence
+تصويت إيجابيّ	affirmative vote
+تصويت سريّ	secret vote
+تضارب المصالح	Conflict of Interest
+تضارب المصالح، تنازع المصالح	conflict of interests
+تضامُن	solidarity
+تضامُن اتفاقيّ	conventional solidarity
+تضامُن الدائنين	solidarity of creditors
+تضامُن المدينين	solidarity of debtors
+تضامُن بحكم القانون، تضامُن بقوة القانون	legal solidarity
+تضامُن جنائيّ، تضامُن جزائيّ	penal solidarity
+تضخُّم	inflation
+تضخم نقديّ	monetary inflation
+تضمين، إدراج	inclusion
+تطبيع	Normalization
+تطبيق الاستراتيجية	Implementing Strategy
+تطبيق القانون	application of law; law enforcement
+تَطرُّف	extremism
+تطور	Development
+تطور إبداعي	Creative Evolution
+تطور الإتجاه	Direction Evolution
+تطور التعاون	Collaboration Evolution
+تطور التفويض	Delegation Evolution
+تطور التنسيق	Co-Ordination Evolution
+تطوير الإستراتيجية الإضافية	Incremental Strategy Development
+تطوير العملية	Process Development
+تطوير المنتج التعاوني	Continuing Professional Development (CPD)
+تطوير المهني المستمر	Continuing Professional Development
+تطوير منتج جديد	(NPD) New Product Development
+تظلُّم	Grievance
+تظلُّم استعطافيّ	mercy appeal
+تظهير	Indorsement / endorsement
+تظهير توكيلي	Proxy Indorsement
+تظهير جزئي	Partial Indorsement
+تظهير على بياض	Blank Indorsement
+تظهير ناقل للملكية	Indorsement of the Transfer of Title
+تعارُض الأحكام	contrariety of judgments
+تعارض المصالح	Conflict of Interest
+تعارض المصالح الظاهري	Perceived Conflict of Interest
+تعارض المصالح الفعلي	Actual Conflict of Interest
+تعارض المصالح المحتمل	Potential Conflict of Interest
+تعارُض المهام	incompatibility
+تعاضدية	mutual insurance company
+تعاقب التكلفة الزائدة	Cost-Plus Arrangements
+تعاقب الفائزين	Order Winners
+تعاقب المؤهلات	Order Qualifiers
+تعاقد	Contracting
+تعاقد / اتفاق / تعهد	Contracting
+تعاقُد بالتراضي	contract by mutual agreement
+تعامل مع المخزون	Inventory Handling
+تعاون	Innovation
+تعاون الأفقي	Horizontal Collaboration
+تعاون العمودي	Vertical Collaboration
+تعاوُن دوليّ	international cooperation
+تعاون متعدد الوظائف	Cross-Functional Collaboration; Cross-Functional Involvement
+تعاوُن، تعاضُد	mutuality
+تعاوني	Collaboration
+تعاونية	Co-Cooperativeness / co-operative
+تعايش الصناعي	Industrial symbiosis (IS)
+تعبئة	Mobilization
+تعبئة القناة	Channel Fill
+تعبير عن الإرادة	Expression of Intent
+تعبير عن الاهتمام	(EoI) Expression Of Interest
+تعجيل	Expediting
+تعد على المصنف	Infringement on work
+تعدُّد الجرائم	concurrence of infractions; concourse of crimes
+تعدُّد الجنسيات	diversity of nationalities
+تعدد المصادر	Multiple Sourcing
+تعدُّد الوظائف	plurality of offices
+تعددية حزبية، نظام تعدد الأحزاب	multipartism
+تعدياً على الحقوق	Infringements on the rights
+تعدياً على موضوع الحماية	Exploitation of the protection subject matter
+تعديل	Amendment / amendment
+تعديل السعر الاقتصادي للأسعار الثابتة	(FPEPA)The Fixed Price With Economic Price Adjustment Contract
+تعديل العلامة التجارية	Trademark amendment
+تعديل دستوريّ	constitutional amendment; constitutional modification
+تعديل سعر العقد	Contract Price Adjustment
+تعديل طبيعة مصنف	Amending the nature of a work
+تعديل عقد الترخيص	License contract amendment
+تعديل عنوان مصنف	Amending the title of a work
+تعديل محتوى مصنف	Amending the contents of a work
+تعديل موضوع مصنف	Amending the subject of a work
+تعذيب	torture
+تعرض الصفقة	Transaction Exposure
+تعرض للخطر	Risk Exposure
+تعرفة حمائية	protective tariff
+تعريف متكامل أو برنامج متكامل	IDEF (Integrated Definition Or Integrated Program)
+تعريفات واسعة تعتمد على الفئات	Broad Category-Based Definitions
+تعريفة	Tariff / tariff
+تعريفة تفضيلية	preferential tariff
+تعزير	Ta’zir
+تَعسُّف	abuse
+تَعسُّف في استعمال الحق	abuse of right
+تَعسُّف في استعمال السلطة	abuse of authority; abuse of power
+تعصب	Prejudice
+تعصب دينيّ	fanaticism
+تعصيب	Ta’sib
+تعلم	Learning
+تعلم أحادي الحلقة	Single-Loop Learning
+تعلم التلقائي	Spontaneous Learning
+تعلم تنظيمي	Organizational Learning
+تعلم ثنائي الحلقة	Double-Loop Learning
+تعلم رسمي	Formal Learning
+تعلم موسع	Expansive Learning
+تعليق	abeyance
+تعليق المطالبات	Moratorium
+تعليم اجتماعي	Social Learning
+تعليمات	instructions
+تعميق القطاع المالي	Financial Sector Deepening (FSD)
+تعهد	Available To Promise / Undertaking
+تعويض	Compensation / Indemnity / damages
+تعويض (عن الضرر)، مقاصة	compensation
+تعويض اتفاقي	Agreed-upon Compensation
+تعويض الإخلاء	compensation of ejection
+تعويض البطالة، تعويض العطالة	unemployment compensation
+تعويض التأمين	insurance indemnity
+تعويض عن الفصل	dismissal allowance
+تعويض عيني	In Kind Compensation
+تعويض مادي	Material Compensation
+تعويض مالك الحق	Compensating the owner of the right
+تعويض معنوي	Moral Compensation
+تعويض مقطوع	Lump Sum Compensation
+تعويض نزع الملكية	expropriation award
+تعويض نقدي	Monetary Compensation
+تعويضات اتفاقية	contractual compensations
+تعويضات التأخر	moratory damages
+تعويضات عن عدم التنفيذ	compensatory damages
+تعيين	appointment
+تعيين / مهمة	Assignment
+تعيين الحدود، وَضْع الحدود	set limits
+تغذية راجعة الحلقة المفتوحة	Open-Loop Feedback
+تغرير	Deception
+تغريم	Impose a Penalty
+تغطية صحية	medical coverage
+تغير جذري	Radical Change
+تغيير التخريبي	Disruptive Change
+تغيير التطوري	Evolutionary Change
+تغيير الخطوة	Step Change
+تغيير العقد	Contract Change
+تغيير تدريجي	Incremental Change
+تغيير تكيفي	Adaptive Change
+تغيير ثوري	Revolutionary Change
+تغيير جزئي	Part-Exchange
+تغيير مصنف	Change of work
+تغيير مغلق	Closed Change
+تغيير مفتوح	Open-Ended Change
+تغيير، تعديل	modification
+تفاصيل البند	Line Item Detail
+تفاضل	Differentiation
+تفاقية	Agreement
+تفالُس بالتدليس	fraudulent bankruptcy
+تفاوض	Negotiation
+تفاوض سلوكي	Behavioral Negotiation
+تفاوض مربح للجانبين	Win-Win Negotiation
+تفتيش	Inspection
+تفتيش إداري	Administrative Inspection
+تفتيش المسكن	perquisition
+تفتيش قضائيّ	Judicial Inspection / judicial inspection
+تفريد العقوبة	individualization of punishment
+تفريد، تفردٌ	individualization
+تفريط	Negligence
+تفريق جسمانيّ، انفصال جسديّ	separation of corpse
+تفسير الحكم	Interpretation of Judgment
+تفسير العقد	Interpretation of Contract / interpretation of contract
+تفسير الفقه، تفسير فقهيّ	doctrinal interpretation
+تفسير القضاء، تفسير قضائيّ	judicial interpretation
+تفسير حكم	interpretation of judgement
+تفضيل المورد	Supplier Referencing
+تفكك العمودي	Vertical Disintegration
+تفكير الجماعي	Groupthink
+تفكير تصميمي	Design Thinking
+تفويض	Delegation
+تفويض التوقيع	signature delegation
+تفويض السلطة	Delegated / power delegation
+تفويض الشراء	Devolved Procurement
+تَقَادُم	Statute of Limitations / prescription
+تقادم الدعوى العمومية	prescription of public action
+تقادم الدعوى المدنية	prescription of civil action
+تَقاَدُم العقوبة	prescription of punishment
+تقادُم مسقِط	extinctive prescription; negative prescription
+تقادُم مُكسِب	acquisitive prescription / usucaption
+تقادمية	Obsolescence
+تقادمية المنتج	Product Obsolescence
+تقارير الاستدامة	Sustainability Reports
+تقارير الخط	Line Reports
+تقارير السنوية للشركة	Company Annual Reports
+تقارير مباشرة	Direct Reports
+تقارير نقاط التفتيش	Checkpoint Reports
+تقاضي	Litigation
+تقاعُد	retirement
+تقاعد مبكِّر	early retirement
+تقدير	Estimate
+تقدير التكاليف	Cost Estimating
+تقدير بخس	undervaluation
+تقدير، تقويم	evaluation
+تقديم أوراق الاعتماد	presentation of credentials
+تقرير	report
+تقرير إداريّ	administrative report
+تقرير البحث الدولي	International Search Report
+تقرير الخبراء	Expert Reports
+تقرير المخابرات	intelligence report
+تقرير المراجِع، تقرير المراقِب	auditor report
+تقرير المصير	self-determination
+تقرير خبرة	expert report
+تقرير سنويّ	annual report
+تقرير طبيّ	medical report
+تقرير ملخص	Highlight Report
+تقسيم	Zoning
+تقسيم العمل، تقسيم الشغل	division of labour
+تقسيم، قسم	division
+تقصير	Default
+تقلب	Volatility
+تقلب العملية	Process Variability
+تقليل التنوع	Variety Reduction; Reactive Variety Reduction
+تقليل الصنف الاستباقي	Proactive Variety Reduction
+تقنيات المحفظة	Portfolio Techniques
+تقنيات المرتبة الأعلى	Outranking Techniques
+تقنيات تقييم الاستثمار	Investment Appraisal Techniques
+تقنيات ناشئة	Emerging Technologies
+تقنية خاصة	Proprietary Technology
+تقوية، تدعيم	strengthening
+تقييم	Valuation
+تقييم الأثر الاجتماعي	Social Impact Assessment
+تقييم الأداء	Performance Appraisal
+تقييم التنافسي	Teardown
+تقييم العطاء	Tender Evaluation
+تقييم المخاطر	Risk Assessment
+تقييم المورد	Supplier Appraisal; Supplier Evaluation
+تقييم دورة الحياة	Life Cycle Assessment (LCA)
+تقييم محرك النظرية	Theory Drive Evaluation
+تكاليف إعادة العمل المادي	Material Requirements Planning (MRP)
+تكاليف الاحتفاظ / تحمل التكاليف	Holding Costs/Carrying Costs
+تكاليف الاحتفاظ بالمخزون	Inventory Holding Costs
+تكاليف الاستبعاد	Disposal Costs
+تكاليف التبديل	Switching Costs
+تكاليف التدفق المادي	Physical Flow Costs
+تكاليف الخطوة	Step Costs
+تكاليف العمالة الخردة	Scrap Labor Costs
+تكاليف الفرصة	Opportunity Costs
+تكاليف المباشرة	Direct Costs
+تكاليف المخزون	Inventory Costs
+تكاليف المستهدفة أو اللازمة	Target Cost
+تكاليف المورد	Supplier Costs
+تكاليف تبديل العملاء	Customer Switching Costs
+تكاليف ثابتة	Fixed Costs
+تكاليف دورة الحياة	Life-Cycle Costs
+تكاليف شبه متغيرة	Semi-Variable Costs
+تكاليف غير مباشرة	Indirect Costs
+تكاليف قضائية	Judicial Fees
+تكاليف ومنفعة	Cost Benefit
+تكامل البيانات	Data Integration
+تكامل النظم	Systems Integration
+تكامل داخلي نشط	Active Internal Integration
+تكامل رأسي	Vertical Integration
+تكامل رأسي للتنوع	Vertical Integration Of Diversity
+تكامل سلسلة التوريد	Supply Chain Integration
+تكامل عكسي	Backward Integration
+تكتُّم، إخفاء	concealment
+تكتيكات العمل	Work Tactics
+تكلفة	Cost; Cost Object
+تكلفة إجمالية للاكتساب	(TCA) Total Cost Of Acquisition
+تكلفة الإجمالية	Total Cost
+تكلفة الأجور	wage costs
+تكلفة الإنتاج	Production Cost / production cost
+تكلفة الدفترية (الختامية) المغلقة	Closed-Book Costing
+تكلفة الكتاب المفتوح	Open Book Costing; Open-Book Costing
+تكلفة المبيعات	Cost Of Sales (COS)
+تكلفة المرغوبة أو المستهدفة	Desired Or Target Cost
+تكلفة بالإضافة إلى الرسوم الثابتة	(CPFF)
+تكلفة دورة الحياة	Life-Cycle Costing (LCC)
+تكلفة رأس المال	Capital Cost
+تكلفة سلسلة التوريد	Supply Chain Cost
+تكلفة على أساس النشاط	Activity-Based Costing(ABC)
+تكلفة للخدمة	Cost To Serve
+تكليف	Commissioning
+تكميلية	Complementarity
+تكنولوجيا	Technology
+تكنولوجيا الإنتاج الأمثل	(OPT) Optimized Production Technology
+تكنولوجيا المشتريات	Procurement Technology
+تكوين	training
+تكوين العقد	Contract Formation
+تكوين ذاتي	Autopoiesis
+تكييف	Characterization
+تكييف الواقعة	Characterization of the Incident
+تلبس بالجريمة	Flagrante Delicto
+تلبس بالجريمة، حالة تلبس	in flagrante delicto (in the act)
+تَلَفٌ، خسارة	loss
+تمتُّع، انتفاع	enjoyment
+تمثيل	Representation
+تمديد، توسيع	extension
+تمرين	Training
+تمكين	Empower
+تملُّص	evasion
+تموضع	Positioning
+تمويل	Financing / financing
+تمويل الإرهاب	financing terrorism
+تمويل المشروع	Project Finance
+تمويل ذاتيّ	self-financing
+تمييز	Discrimination
+تمييز (السن)	discernment
+تمييز (جريمة)	discrimination (crime)
+تمييز عنصريّ	social segregation
+تمييز عنصريّ، تفرقة عنصرية	apartheid
+تمييز، عَزْل، فَصْل	segregation
+تنازع الاختصاص	Conflict of Jurisdiction
+تنازع التكييف	conflict of legal definition
+تنازع الجنسيات	conflict of nationalities
+تنازع القوانين	Conflict of Laws / conflict of laws
+تنازع المحاكم، تنازع الاختصاص	conflict of jurisdiction
+تَنازُل	Waiver / relinquishment
+تنازُل (عن دعوى أو غير ذلك)	waiver; renouncement
+تنازل عن الحلول	Waiver Of Subrogation
+تَنَازُل عن الدعوى	abandonment of litigation / renunciation of claim; withdrawal of suit
+تنازُل عن السلطة، تخلٍّ عن السلطة	abandonment of power
+تنازل عن العقد	Assignment of Contract
+تناسب الشخص مع المنظمة	Person–Organization Fit
+تناسب الشخص مع الوظيفة	Person-Job Fit
+تنافر المعرفي	Cognitive Dissonance
+تنافس تنافسي	Rivalry
+تنافسية	Competitive
+تناقص المورد	Supplier Attrition
+تناقص طبيعي (للموظفين)	Natural attrition of employees
+تناقُض	contradiction
+تنبؤ	Forecast
+تنبر، ختْم	stamp
+تنبيه بالإخلاء، تنبيه بالإفراغ	notice to quit
+تَنَحٍّ	abstention
+تنحي	Recusal
+تنـزيل الضريبة	tax reduction
+تنسيق الأنشطة المشترك	Co-Ordination Of Activities
+تنسيق سلسلة التوريد (أو "تنسيق القناة")	Supply Chain Co-Ordination (Or ‘Channel Co-Ordination’)
+تنصل	Repudiate
+تنصير	evangelization
+تنظيم إداريّ	administrative organization
+تنظيم الإنتاج	Production Organization
+تنظيم المدُن	town planning
+تنفيذ	Enforcement / execution
+تنفيذ إراديّ، تنفيذ اختياريّ	voluntary execution
+تنفيذ الحكم	execution of judgement
+تنفيذ الصفقة	Trade Execution
+تنفيذ العقد	execution of contract
+تنفيذ بالتعويض	execution by equivalent
+تنفيذ جبريّ	forced execution
+تنفيذ عينيّ	specific performance; performance in kind
+تنفيذ معجل، تنفيذ مؤقت	provisional execution
+تنفيذيّ	executive
+تنقيح	Refinement
+تنقية البيانات	Data Cleansing
+تنمية الاقتصاد	Developing Economy
+تنمية المورد	Supplier Development
+تنمية عضوية	Organic Development
+تنمية مستدامة	Sustainable Development
+تنمية نفسية واجتماعية	Psychosocial Development
+تنمية، تطوُّر	development
+تنوع	Diversity
+تنوع بيولوجي	Biodiversity
+تنوع ثقافي	Cultural Diversity
+تنوع غير مرئي	Invisible Diversity
+تنوع مرئي	Visible Diversity
+تنويع	Diversification
+تنويع المطالبات	Claim Quantification
+تنويه / إشعار	Notice
+تهديد	threat
+تهديديّ	comminatory
+تهرُّب ضريبيّ	Tax Evasion / fiscal evasion; tax evasion
+تهريب	Smuggling / smuggling; contraband
+تهمة	Accusation
+تهمة، اتِّهام	imputation
+تهميش	Marginalization
+تواصل بين الثقافات	Intercultural Communication
+تواطؤ	Collusion / connivance
+توتر التنوع	Diversity Tension
+توتر دوليّ	international tension
+توجه شركة	Company Direction
+توجيه مِهْنيّ	vocational guidance
+توحيد	unification
+توحيد رأسي	Vertical Consolidation
+توريد أخلاقي	Ethical Sourcing
+توريد استراتيجي	Strategic Sourcing
+توريد المباشر	Direct Supplies
+توريد المزدوج	Dual Sourcing
+توريد منخفض التكلفة	Low-Cost Supply
+توريدات غير المباشرة	Indirect Supplies
+توزيع	Distribution
+توزيع اعتيادي	Normal Distribution
+توزيع الأرباح	distribution of profits
+توزيع الإنساني	Humanitarian Distribution
+توزيع البضائع	Cross-Docking
+توزيع السحب	Pull Distribution
+توزيع السم	Poisson Distribution
+توزيع المتدرج أو التدرجي	Lean Distribution
+توزيعات أرباح	Dividend
+توسيم بيئي	Eco-Label
+توصيات	Recommendations
+توصيف	Characterization
+توصية	recommendation
+توضيح، تفسير	explanation
+توضيحيّ، مفسِّر	explanatory
+توطين	Localization
+توظيف	Hire
+توظيف استراتيجي	Strategic Recruitment
+توظيف بمباراة، تشغيل بمباراة	recruitment by open competition
+توظيف، تشغيل	recruitment
+توفيق	conciliation
+توقُّف عن الدفع	suspension of payment
+توقيع	Signature / signature
+توقيع إلكتروني	Electronic Signature
+توقيع بالحروف الأولى	initials
+توقيع بالعطف	countersignature
+توقيع خطي	Handwritten Signature
+توقيع على بياض	Blank Signature / signature in blank
+توقيع مصدّق عليه	authenticated signature
+توقيع، إمضاء	signature
+توقيف	Detention
+توقيف تعسفيّ، اعتقال تعسفيّ	arbitrary arrest
+توقيف غير قانونيّ، اعتقال غير قانونيّ	illegal arrest
+توكيل	Power of Attorney
+توكيل، وكالة	mandate; proxy
+توليد	Generativity
+توليد القيمة	Value Generation
+تيوقراطية	theocracy

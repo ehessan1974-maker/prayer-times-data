@@ -1,0 +1,796 @@
+aberration	زيغ / زَيْغْ
+ability	قدرة / قابليّة
+abnormal	شاذّ
+abnormal molecular weights	أوزان جزئية شاذة
+abnormality	شذوذ، حالة شاذة / شذوذ
+abolish (to)	أبطل
+abraison tester	جهاز اختبار السحج، رائز السحج
+abrasion	سَحْج
+abrasive	ساحِج
+abrupt	فجائي
+abscissa	فاصلة
+absolute	مطلق، صرف / مُطلق، صِرف
+absolute alcohol	غول صرف، كحول صرف / غَوْل مُطلق (صِرف)، إيتانول
+absolute density	كثافة مطلقة
+absolute entropie	أنتروبيا مطلقة، اعتلاج مطلق
+absolute error	خطأ مطلق
+absolute humidity	رطوبة مطلقة
+absolute potential	كمون مطلق، جهد مطلق
+absolute pressure	ضغط مطلق
+absolute temperature	درجة الحرارة المطلقة
+absolute weight	وزن مطلق
+absolute zero	صفر (ال...) المطلق / الصفر المطلق
+absorb (to)	مصّ، امتصّ
+absorb (v)	يمتص
+absorbable	قابل للامتصاص
+absorbance	امتصاصيّة
+absorbance coefficient	معامل الامتصاصية
+absorbent	ماصّ، ممتصّ / ماص
+absorber	ممصّ / مصّاص
+absorptiometer	مقياس الامتصاص، ممصاص
+absorptiometry	قياس الامتصاص
+absorption	مصّ، امتصاص / امتصاص
+absorption band	حزمة امتصاص
+absorption coefficient	معامل امتصاص
+absorption mass	كتلة الامتصاص
+absorption spectrometry	قياس مطيافة الامتصاص
+absorption spectrum	طيف الامتصاص
+absorption tower	برج امتصاص / برج الامتصاص
+absorption tube	أنبوب امتصاص
+absorptive	امتصاصي
+absorptivity	امتصاصيّة
+abstract	مستخلص، تلخيص / مجرّد، ملخّص
+abstraction	استخلاص، تلخيص / استخلاص، تجريد
+abundance	وفرة
+abundance curve	منحنى الوفرة
+abundant	وافر
+accelerate (to)	سرّع، عجّل
+accelerate (v)	يسرّع
+accelerate the reaction	سرّع التفاعل
+accelerated filtration	ترشيح مسرّع
+accelerated reaction	تفاعل مسرَّع
+acceleration	تسارع
+accelerator	مسرّع
+accelerator (particles)	مسرّع، معجّل
+accentuation	اشتداد، تأكيد
+acceptable	مقبول
+acceptance	قبول
+acceptor	مُتَقَبِّل / مُتقبِّل
+acceptor atom	ذرّة متقبلة
+accessibility	إمكانية الوصول
+accessible	متوفر، متاح
+accession	مرور
+accessory	إضافي، ملحق / إضافي
+accidental	عَرَضي، عارِض
+accidental proprety	خاصة عشوائية
+accidents (laboratory..)	حوادث المختبر
+accommodation	مطابقة
+accumulate (to)	تراكَم
+accumulation	تراكُم / تراكم
+accumulator	مركِّم، مِركم / مِركَم
+accuracy	دقة، ضبط / دِقة، ضبط
+accuracy test	اختبار ضبط
+accurate	دقيق / دقيق، مضبوط
+accurate balance	ميزان دقيق
+acetal	أسيتال، خلاّل / أسيتال
+acetaldehyde	أسيت الدهيد، اسيتالدهيد، الألسيدهيد الخلي / أسيتالدهيد
+acetamide	أسيتاميد، أميد (ال...) الخلي
+acetamidine	أسيتاميدين، أميدين (ال...) الخلي
+acetanilide	أسيتانيليد، أنيليد (ال...) الخلي / أسيتانيليد
+acetate	أسيتيات، خلاّت / أسيتات
+acetic acid	حمض الخلّ، حمض الأسيتيك / حمض الخل الجليدي، حمض الأسيتيك الجليدي / حمض الأسيتيك (الخل)
+acetic anhydride	لامائي حمض الأسيتيك، لامائي حمض الخل، انهيدريك اسيتيك / بلا ماء الأسيتيك (الخل)
+acetification	أستلة، تخليل
+acetify (to)	أستَلَ، خَلَّل
+aceto-acétic acid	حمض الأسيتوأسيتيك، حمض خلاّل الخل، حمض الأسيتيلاسيتيك
+acetoacetic acid	حمض أسيتو الأسيتيك
+acetolysis	تحليل أستيلي
+acetometer	مقياس الخل، أسيتومتر
+acetonate (to)	أَستَنَ، خَلوَنَ
+acetone	أسيتون، خلّ‍ون / أسيتون
+acetophenone	أسيتوفينون
+acetum	خلّ
+acetyl	أستيل، خليل / أسيتيل
+acetyl choline	أسيتيل كولين
+acetyl choline esterase	إستيراز الأسيتيل كولين
+acetyl coenzyme A	أسيتيل التميم آ
+acetyl number	عدد الأستيل
+acetyl value	قيمة أستيلية
+acetylation	أستلة
+acetylene	أسيتيلين
+acetylenes	أسيتيلينات
+acetylide	أسيتيليد
+achiral	انطباقي
+achromatic	لا لوني
+acid	حمْض / حمض
+acid (anhydrides)	لا مائيات الحموض، أنهيدريدات الأحماض، أندريدات الأحماض
+acid (hypobromous…)	حمض تحت البرومي، حمض تحت البرموز
+acid (strength of…)	قوة الحمض
+acid anhydride	بلا ماء الحمض
+acid derivative	مشتقات حمضية، مشتق حمضي
+acid dye	صبغة حمضيّة
+acid exchange resin	راتين تبادل حمضي
+acid hydrolysis	حلمأة، حلمهة بالحمض
+acid inhibitor	مانع تآكل بالحمض
+acid milling	تلبيد بالحمض
+acid number	عدد (ال...) الحمضي
+acid proof	مقاوم الحمض
+acid radical	جذر حمضي
+acid rain	مطر حمضي
+acid resisting	مقاوم الحمض
+acid salt	ملح حمضي
+acid sludge	ثقل الحمض
+acid spotting	تبقيع بالحمض
+acid value	قيمة (ال...) الحمضية
+acid-base indicators	مشعرات الحموض، قواعد (ال...)
+acid-base titration	معايرة حمض - أساس
+acidic	حمضي
+acidic medium	وسط حمضي
+acidification	تحميض
+acidify (to)	حمَّض
+acidify (v)	يُحمِّض
+acidimeter	مقياس لحموضة المحلول، مِحماض
+acidimetry	قياس الحموضية، محماضية / قياس الحموضة
+acidity	حمضية / حُموضة
+acidolysis	تحلل حمضي
+acidosis	حُماض
+acidulated water	ماء محمَّض
+acorn oil	زيت البلوط
+acorn sugar	سكر البلّوط
+acoustic	صوتي
+acquired	مكتسب
+acquisition	اكتساب
+acrolein	أكرولين
+acrylamide	أكريلاميد
+acrylan	أكريلان
+acrylic acid	حمض الأكريليك
+acrylic resin	راتين أكريلي
+acrylonitrile	أكريلونتريل
+actin	أكتين
+actinide	أكتينيد
+actinides	اكتينيدات
+actinism	أكتينية
+actinium	أكتينيوم
+actinometer	مقياس الأكتينيوم، أكتينومتر
+action	فعل
+activate (to)	نَشَطَ
+activate (v)	يُفعِّل، يُنشّط
+activated	منشَط / مفعَّل، منشَّط
+activated adsorption	امتزاز، منشَّط
+activated atom	ذرة منشَّطة
+activated charcoal	فحم منشَّط
+activation	تنشيط / تفعيل، تنشيط
+activation energy	طاقة تنشيط / طاقة التنشيط
+activator	منشِّط / مفعِّل، منشِّط
+active	نشيط، فعّاّل / فعّال، نشيط
+active concentration	تركيز نَشِط، تركيز فعّال
+active deposit	متوضِّع نشط، متوضِّع فعّأل
+active hydrogen determination	تعيين الهيدروجين النّشط
+active mass	كتلة نشطة، كتلة فعّالة
+active molecules	جزيئات نشطة، جزيئات فعّالة
+active site	موقع فعاّل
+activited molecule	جزىء منشَّط
+activity	نشاط، فعّاليّة / فاعليّة، نشاط
+activity coefficient	معامل النشاط، معامل الفعالية
+activity of molecule	نشاط الجزىء
+actual	فِعلي
+acute	حادّ
+acyclic	لاحلقي / لا حَلَقي
+acyclic compound	مركب لاحلقي
+acyl	أسيل
+acyl group	مجموعة أسيلية، مجموعة حمضيلية
+acylate (to)	اسَّل، حمضل
+acylating agent	عامل مؤسّل، عامل محمضل
+acylation	أَسْيَلة، حمضلة / أسْيَلة
+acyloin	أسيلوين
+adaptation	تكيُّف، تلاؤم
+adapter; adaptor	مئلاف، وصلية
+adaptive	تكيّفي، تلاؤُمي
+adaptor	لؤمة، مُلَئِّم
+addition	إضافة، ضم
+addition compound	مركّب بالاضافة
+addition plymer	بلمرٌ بالاضافة
+addition reaction	تفاعل بالإضافة، تفاعل ضم / تفاعل إضافة (ضم)
+additive	مادة مُضافة
+additive compound	مركّب بالإضافة
+additive property	خاصية إضافية
+additivity	إضافية، جمعية
+adduct	ناتج إضافة
+adenine	أدنين / أدينين
+adenosine	أدينوزين
+adenosine triphosphate (A.T.P)	ثلاثي فوسفات الأدينوسين
+adherence	التصاق
+adherent	لَصوق
+adhesion	التصاق
+adhesive	لصوق / لاصق
+adiabatic	مكظوم
+adiabatic calorimeter	مسعر كضيم
+adiabatic expansion	تمدد مكظوم
+adiabatic flame tem--perature	درجة حرارة لهب مكظوم
+adiabatic process	عملية كظيمة، إجراء كظيم
+adipic acid	حمض الأديبيك
+adipose	شحمي
+adipose cell	خلية شحمية، خلية دهنية
+adjacent charge rule	قاعدة شحنة مجاورة
+adjective dye	صباغ واه
+adjust (to) the balance	ضَبَط الميزان
+adjustment	تضبيط، تعديل / إحكام
+adjustor	محكِّم
+admixture	مزْج، مزيج، شائبة
+adrenal	كظر
+adsorb (to)	امتزَّ
+adsorb (v)	يمتزّ
+adsorbate	مُزازة
+adsorbate (substance)	ممتزّة (مادة)، مزازة (مادة)
+adsorbed	مُمْتَز
+adsorbent	مازّ
+adsorption	امتزاز
+adsorption chromatography	كروماتوغرافيا امتزازية / استشراب امتزازي
+adsorption indicator	مشعر امتزاز، دليل امتزاز
+adsorption substance	مادة امتزازية
+adulterant	ماذق / شائبة
+adulterate (to)	مَذَق
+adulterated	مذيق
+adulteration	مَذْق
+advantage	مزيّة
+aerate (to)	هوّى
+aeration	تهوية
+aerobic	هوائي
+aerobic-aerobiotic	حيهوائي- هوائي
+aerosol	ضبيبة، ايروسول، رذيذة، جلالة هوائية / حُلالة هوائية، ضبابة
+afferent	وارد
+affinity	ألفة / أُلفة
+affinity chromatography	استشراب أُلفي
+afflux	فَيْض
+aflatoxin	أفلاتوكسين
+agar	أغار، أجار
+agar-agar	أغار أغار
+agate	عقيق
+agent	عميل
+agent (catalytic)	عميل حفّاز
+agent (oxiding)	عميل
+agglomerate	متكتّل / كتالة
+agglomerate (to)	تَكَتَل
+agglomerate (v)	يتكتّل
+agglomeration	تكتّل / تَكتّل
+agglutinability	رَصوصية
+agglutinable	رَصوص
+agglutinate (to)	غرى، لزن
+agglutination	تغرية / تراص، تلازق
+agglutinative	مغرّ، ملزِن
+agglutinin	راصّة
+aggreagate	تجمع، جماعة
+aggregate	كداسة
+aggregate (v)	يتكدّس
+aggregation	تجمُّع / تكدُّس، تجمُّع
+aging	تعتيق، تقادم، شيخوخة
+aging; ageing	تعتيق
+agitate (to)	حرَّك، خضَّ
+agitate (v)	يخضخض
+agitation	تحريك، خضخضة / خضخضة
+agitator	محراك، خضّاذة / خضّاض
+agricultural chemistry	كيمياء زراعية
+air	هواء
+air (composition of)	تركيب الهواء
+air (liquefaction)	إسالة الهواء
+air (liquid..)	هواء سائل
+air deficiency	عَوَز الهواء
+air driven	محرَّك بالهواء
+air pollution	تلوث الهواء
+air sweetening	تحلية بالهواء
+air-bath	حمام هوائي
+air-cooled	مبرَّد بالهواء
+air-pressure	ضغط الهواء
+air-pump	مضخّة هوائية
+air-tight	كتيم للهواء، سدود الهواء
+alabandite	ألابنديت
+alabaster	مرمر
+alanine	ألانين
+alanine(-α)	ألانين
+albumin	زلال، ألبومين / ألبومين
+albuminoid	شبه زلالي، زُلالاني
+alchemy	سيمياء، خيمياء
+alcohol	غَوْل
+alcohol (monohydric..)	كحول أحادي الهيدروكسيل، غول أحادي الهيدروكسيل
+alcohol lamp	مصباح كحولي
+alcoholate	غَولات
+alcoholation	غَوْلَلَة
+alcoholometer	مقياس الغَوْل
+alcoholysis	كحللة، غوللة / تحلّل غَوْلي
+alcool (dihydric..)	كحول ثنائي الهيدروكسيل، غول ثنائي الهيدروكسيل
+alcool (methyl..)	كحول المثيل، غول المثيل
+alcosol	حلالة غَوْلية
+aldehyde	ألدهيد
+aldehyde polymer	بلمر ألدهيدي
+aldehyde resin	راتينج الألدهيد
+aldehydes	آلدهيدات
+aldehydes and ketones	تعيين الألدهيدات و الكيتونات
+aldehydic acids	حموضة ألدهيدية
+aldohexose	ألدوهكسوز
+aldol	ألدول
+aldol condensation	تكاثف ألدولي، ضم ألدولي، إضافة الدول / تكاثف ألدول
+aldolization	ألْدلة
+aldose	ألْدوز
+aldrine	ألْدرين
+alembic	إنبيق
+alicyclic	أليفاتي حلقي
+alicyclic compounds	مركبات حلقية اليفاتية
+aliphatic	أليفاتي، دهني / أليفاتي
+aliphatic aldehydes	ألدهيدات أليفاتية
+aliphatic amides (primary…)	أميدات أليفاتية أولية
+aliphatic amine (primary and secondary…)	أمينات أليفاتية أولية وثانوية
+aliphatic carboxylic acids	حموض كربوكسيلية، دهنية أليفاتية
+aliphatic compounds	مركبات أليفاتية
+aliphatic esters	استرات أليفاتية
+aliphatic hydrocarbons (saturated…)	هيدروكربونات أليفاتية مشبعة
+aliphatic hydrocarbons (unsaturated…)	هيدروكربونات أليفاتية غير مشبعة
+aliphatic ketones	كيتونات أليفاتية
+aliphatic reaction	تفاعل أليفاتي
+aliphaticalcohols	كحولات أليفاتية، كحولات دهنية
+alizarin	أليزارين
+alizarine yellow	أصفر الأليزارين
+alkadiene	ألكاديين
+alkali	قِلي، قِلو / قِلِي
+alkali metal	فِلّز قِلوي
+alkali waste	نفاية (ال...) القلوية
+alkalies	قِلويات
+alkalimeter	مقياس القِلوية
+alkalimetry	قياس القِلوية / قياس القلوية
+alkalin medium	وسَط قِلِوي
+alkaline	قِلوي / قَلَوي
+alkaline buffers	صادات قِلِويّة
+alkaline earth	تراب قلوي
+alkaline earth metals	فلزات قلوية ترابية / فلزات الأتربة القلوية
+alkaline error	خطأ قِلِوي
+alkaline metal	فلز قلوي
+alkaline oxide	أكسيد قلوي
+alkalinity	قلوية
+alkalinization	تقلية (ال...)
+alkalinize (to); alkalize (to); alkalify (to)	قلّي
+alkaloid	شبه قلوي، قلواني / قَلَواني
+alkalosis	قلاء
+alkane	ألكان
+alkane; alkene	ألكان، ألكين
+alkene	ألكِن
+alkenes; olefins	ألكينات، أوليفينات
+alkide	ألكيد
+alkoxide	ألكوكسيد
+alkyl	ألكيل
+alkyl group	مجموعة الألكيل
+alkyl radical	جذر ألكيل
+alkylate	منتج ألكلة-ألكيلات
+alkylate (to)	أَلْكَلَ
+alkylate fuel	وقود الألكلة، وقود ألكيلاني
+alkylation	أَلكلَة / ألكلة
+alkylene group	مجموعة الألكيلين
+alkyne	ألكين
+alkynes; acetylenes	ألكاينات، استيلينات
+allene	ألّين
+allergen	باعث الحساسية، باعث التجاوب
+allergic	ألَّرجي، مثير للحساسية
+allergy	ألَّرجية، حساسية
+allo-	الآخر – الغير: سابقة
+allomerism	تماثل في الشكل البلوري
+allomorphism	تعددية الشكل البلوري
+allosteric effect	تأثير متحاوز، (متفارغ)
+allostery	تحاوز، تفارغ
+allotrope	صورة متآصلة / متغاير - متآصل
+allotropic	متآصل
+allotropic change	تغيّر متآصل
+allotropic forms	أشكال متآصلة
+allotropy	تغاير - تآصل
+allotropy; allotropism	تآصل
+alloy	أشابة، سبيكة / سبيكة
+alloy (to)	أشبَ، سبكَ
+alloy content	محتوى الاشابة، محتوى السبيكة
+allyl	ألّيل
+allyl alcohol	غول أليلي، كحول أليلي
+allylamine	أمين الألّيل
+allylene	ألّيلين
+allylic rearrangement	إعادة ترتيب ألّيلي
+almond	لَوْزٌ
+almond (bitter…)	لوز مرّ
+alnico	ألنيكو
+alpha	ألفا
+alpha decay	التفكّك ألفا
+alpha helix	حلزون ألفا
+alpha particle	الجسيم ألفا
+alpha particles	دقائق ألفا
+alpha rays	الأشعة ألفا
+alpha-amino acids	حموض ألفا أمينو
+alpha-rays	أشعة ألفا
+alteration	تبدّل
+alternate(v)	يناوب، يتناوب
+alternating copolymer	بلمر تشاركي متناوِب
+alternating current	تيار متناوب، تيار متردد
+alternation	تناوب
+alternator	منوِّب
+alum	شب (ال...) / شَبّ
+alumina	ألومينا، ألومين / ألومينا
+aluminate	ألومينات
+aluminates	ألومينات
+aluminium	ألومنيوم
+aluminium, aluminum	ألومينيوم
+aluminosilicate	سيليكات الألومينيوم
+alundum	ألاندم / ألندوم
+alunite	ألونيت
+amalgam	ملغم / مَلغمة
+amalgamated	مُملغَم
+amalgamation	ملغمة
+amatol	أماتول
+amber	عنبر، كهربا / عنبر
+ambient	محيط
+americium	أمرسيوم / أمريسيوم
+amethyst	أماتيست
+amiante	أميانت
+amicro	دون الميكرون
+amicron	أميكرون
+amidation	أَمْيَدَة
+amide	أميد
+amides	أميدات
+aminate (to)	أمْيَنَ
+amination	أمْيَنَة
+amine	أمين
+amine group	مجموعة آمينية
+amines	أمينات
+amino acid	حمض أميني
+amino-	أمينو: سابقة
+amino-acid	حمض أميني
+aminolysis	تحلُّل أميني
+ammeter	مقياس الأمبير، أمبيتر / مقياس الأمبير
+ammonia	أمونيا، نشادر
+ammonia molecule	جزيء الأمونيا
+ammonia soda process	عملية الأمونيا-صودا
+ammoniacal salt	ملح الأمونيا
+ammoniacal silver nitrate solution	محلول نترات الفضة الأمونية
+ammonical nitrogen	نيتروجين الأمونيا، أزوت الأمونيا
+ammonium	أمونيوم
+ammonium acetate	أسيتات الأمونيوم، خلاّت الأمونيوم
+ammonium bicarbonate	بيكربونات الأمونيوم، ثنائي كربونات الأمونيوم
+ammonium carbonate	كربونات الأمونيوم
+ammonium chloride	كلوريد الأمونيوم، كلورور الأمونيوم
+ammonium chromate	كرومات الأمونيوم
+ammonium compounds	مركّبات الأمونيوم
+ammonium cyanate	سيانات الأمونيوم
+ammonium ion	ايون الأمونيوم، شاردة الأمونيوم
+ammonium nitrate	نترات الأمونيوم
+ammonium oxalate	أكسلات الأمونيوم، حماضات الأمونيوم
+ammonium phosphate	فوسفات الأمونيوم
+ammonium sulphate	كبريتات الأمونيوم
+ammonolysis	نشدرة
+amorphism	لا بلورية
+amorphous	لا بلوري، لاشكلي / لا بلَّوري - عديم الشكل
+ampere	أمبير
+amperometry	مقياسية أمبيرية / قياس الأمبير
+amphiprotic	ثنائي السلوك البروتوني
+amphiprotic substance	مواد مذبذبة البروتون
+ampholyte	أمفوليت / ثنائي السلوك الكهرلي
+amphoteric	مذبذب، أمفوتيري / ثنائي السلوك
+amplification	تضخيم
+amplifier	مضخم
+amplitude	سَعَة / مَطال
+amygdaline	لوزين، أمجدلين
+amyl acetate	أسيتات الأميل، خلاّت الأميل
+amyl alcohol	غول أميلي، كحول أميلي
+amylase	أميلاز
+amylo process	عملية أميليّة
+amyloid	شبه النشا، نشواتي
+amylopectin	أميلوبكتين
+amylose	أميلوز
+anabolic	ابتنائي
+anabolism	ابتناء
+anaerobic	لاهوائي / لا هوائي
+analar	نقي
+analgesia	تسكين
+analgesic	مُسكِّن
+analogue	متشابه / مضاهي
+analogy	مضاهاة
+analyse (v)	يُحلل
+analysis	تحليل
+analyst	محلِّل
+analyte	مادة محلَّلة
+analytic	تحليلي
+analytical	تحليلي
+analytical balance	ميزان تحليل
+analytical chemistry	كيمياء تحليلية
+analytical error	خطأ تحليلي
+analytical method	عملية تحليلية
+analytical weights	أوزان تحليلية
+analyze (to)	حلَّلَ
+analyzer	محلَّل / مُحلّل
+anaphoresis	ترحّل أنودي / رحلان أنودي (مصعدي)
+anaphylaxis	فرط تحسّس، تأق
+androgen	أندروجين
+anemia	فقر الدم
+anesthesia	تخدير
+anesthetic	مخدّر
+angstrom	أنغستروم
+angstrom unit	وحدة أنغستروم، وحدة أنغشتروم
+angular momentum	كمية الحركة الزاوية، عزم حركي زاوي، رقم زاوي
+anhydride	لاهدريد / بلا ماء
+anhydrous	لامائي / لا مائي
+aniline	أنيلين
+aniline blue	أزرق الأنيلين
+animal charcoal	فحم حيواني
+anion	أيون سالب، أنيون / أنيون، صاعدة
+anionic	أنيوني
+anionotropy	أنيونتروبية
+anise	أنيسون
+anisole	أنيسول
+anisomerism	تباينية الخواص
+anisometric	لا متصاوغ
+anisotropy	تباينية الخواص / لاتناحي
+annealing	تطويع
+annihilation	فناء، إفناء
+annular	حَلَقي
+anode	أنود، مصعد (ال...) / أنود، مَصْعَد
+anode battery	بطارية الأنود
+anodic	أنودي، مصعدي / أنودي، مَصْعَدي
+anodic oxidation	أكسدة أنودية
+anolyte	أنوليت
+anomalous	شاذ
+anomer	أنومير، مصاوغ كربونيلي
+anorganic	لا عضوي
+anoxemia	أنوكسيميا، عَوَز أكسجين الدم
+anoxia	أنوكسيا، عَوَز الأكسجين
+antacid	مضاد حموضة
+antagonism	تضاد
+antagonist	ضادّة
+antecedent	سابق
+anthracene	أنتراسين
+anthracite	أنتراسيت
+anthranilic acid	حمض الانَثرانيليك
+anti-	مضاد / مضاد، مقابل: سابقة
+anti-electron-positron	مضاد للالكترون-بوزترون
+anti-ferment	مضاد للتخمر
+anti-freeze	مضاد للتجمد
+anti-knock substance	مادة مانعة للخبط، مادة مضادة للدق
+anti-neutron	مضاد نيوترون
+anti-proton	مضاد البروتون
+antibiotic	مضاد حيوي
+antibodies	أجسام مضادة
+antibody	ضد
+antibonding	مضاد ربط
+antibonding molecular orbital	مدار جزيئي مضاد للربط، فلك جزيئي مضاد للربط
+antibonding orbitals	مدارات مضادة للربط، أفلاك مضادة للربط
+anticathode	مضاد الكاثود، مضاد المهبط
+antichlor	مضاد الكلور
+anticipation	استباق
+anticoagulant	مضاد تخثّر
+antidetonator	مانع الفرقعة، مضاد الصاعق
+antidotal	ترياقي، مضاد للسم
+antidote	تِرياق
+antifelt	مضاد تلبّد
+antiferromagnetic	مغنطيسي حديدي مضاد
+antiferromagnetism	مغنطيسية حديدية مضادة
+antiflourite	مضاد للفلوريت
+antifreezing	مضاد تجمد
+antifuncal agent	مبيد الفطريات
+antigen	مستضد
+antiknock	مضاد للخبط، مضاد للفرقعة، مضاد للدّق / مضاد دقّ
+antimagnetism	مغنطيسية مضادة
+antimatter	مادة مضادة
+antimicrobial	مبيد الجراثيم
+antimonial lead	رصاص أنتيموني
+antimoniate	أنتيمونيات
+antimonic	أنتيموني
+antimonide	أنتيمونيد، أنتيمونيور
+antimony	أنتيمون / إثمد، أنتِمون
+antimony (golden) sulphide	كبريتيد الأنتيمون الذهبي، كبريتور الأنتيمون الذهبي
+antinucleon	مضاد نُكْلون
+antioxidant	مضاد تأكسد
+antiparticle	جسيم مضاد
+antipodal	تخايلي
+antipode	مُتخايل
+antiseptic	مطهّر
+antiserum	مصل مضاد
+antitoxic	ترياقي
+antitoxin	مضاد زيفان
+apatite	أباتيت
+aperiodic	لادوري / لا دوري
+aperture	فتحة
+apex; top; peak	قمّة
+apoenzyme	صميم الإنزيم، أبّو إنزيم
+apolar	لاقطبي
+apparatus	جهاز
+apparatus error	خطأ الجهاز
+apparent	ظاهري
+apparent density	كثافة ظاهرية
+apparent weight	وزن ظاهري
+appearance	مَظْهَر
+appliance	تجهيزة
+application	تطبيق
+applied chemistry	كيمياء تطبيقية
+approach	اقتراب، مقاربة
+appropriate	ملائم
+approximate	تقريبي
+approximation	تقريب
+aprotic	لا بروتوني
+aqua fortis	ماء النار
+aqua gel	هلامة مائية
+aqua regia	ماء (ال...) الملكي / الماء الملكي
+aquametry	مقياسية الماء
+aqueous	مائي
+aqueous alcoholic; aquo-alcoholic	مائي غولي، مائي كحولي
+aqueous solutions	محاليل مائية
+arabic gum	صمغ عربي
+aragonite	أراغونيت، أراجونيت / أراغونيت
+arc	قَوْس
+arc spectrum	هندسة الجزيئات، بنيان الجزيئات
+architecture of molecules	طيْفُ القوس
+arene	أرين
+areometer	مكثاف السوائل، مقياس كثافة السوائل
+argentite	أرجنتيت
+argentum	فضة
+arginine	اُرجينين
+argon	أراغون / أرغون
+armature	دِرْع، حافظة
+aroma	عطْر، شذى، عبير، نكهة
+aromatic	عطري / أروماتي، عطري
+aromatic aldehydes	ألدهيدات عطرية
+aromatic compounds	مركبات عطرية
+aromatic hydrocarbons	هيدروكربونات عطرية
+aromatization	تعطير / أرمَتَة، تعطير
+aromatize (to)	عطَّر
+arrangement	ترتيب
+Arrhenius equation	معادلة أرهينيوس
+arrhenius theory; of acids and bases	نظرية أرينيوس
+arsenate	زرنيخات، أرسَنات
+arsenates	زرنيخات، أرسينات
+arsenic	زرنيخ، أرسينيك / زرنيخ، أرسَنيك
+arsenic acid	حمض الزرنيخ، حمض الزرنيخيك، حمض الأرسينيك
+arsenide	أرسينيد، زرنيخيد، زرنيخوز / زرنيخيد، أرسَنيد
+arsenious	زرنيخي، أرسَنيدي
+arsenious acid	حمض الأرسينوز، حمض الزرنيخي، حمض الزرنيخوز
+arsenite	أرسينيت، زرنيخيت / زرنيخيت، أرسَنيت
+arsine	أرسين، هيدريد الزرنيخ / أرسين
+artefact, artifact	صنعي
+artificial	اصطناعي / صُنعي
+aryl	عطريل، آريل / أريل
+aryl group	مجموعة عطريلية، مجموعة أريلية
+arylation	أرْيَلة
+asbestos	أسبيستوس، أمينت / أميانت، أسبست
+asbestos boar	ورق أسبستوس مقوى
+asbestos gauze	شبكة أسبستوس
+asbestos milk	لبن أسبستوس
+asbestos paper	ورق أسبستوس
+asbestos tray	طبق أسبستوس، صينية أسبست
+asbestos wool	صوف أسبستوس، صوف أميانت
+ash	رماد
+ashing	ترميد
+asparagine	أسبرجين
+asphalt	أسفلت، قار / أسفلت
+asphyxiant gas	غاز خانق
+aspiration	سفْط / رشف: للسوائل، سَفْط: للغازات
+aspirator	مسفطة / سفّاطة
+aspirin	أسبيرين
+assay	مقايسة
+assembly	تجميع
+assimilable	مَثول
+assimilation	تمثُّل، تمثيل / تمثُّل
+associated	مترابط
+association	تجمُّع، اقتران / ترابط
+associative	ترابطي
+assortment	تشكيلة
+assumption	افتراض
+astatin	أستاتين
+astatine	أَسْتات
+asthma	ربو
+astringent	قابض
+asymmetric	لا متناظر
+asymmetric atom	ذرة لامتناظرة، ذرة لامتماثلة
+asymmetric carbon atom	ذرة كربون لا متناظرة، ذرة كربون لا متماثلة / ذرة كربون لا متناظرة
+asymmetric synthesis	تخليق لا تناظري، تركيب لا تماثلي
+asymmetry	لا تناظر، لاتماثل / لا تناظر
+asymmetry effect	تأثير لا تناظري، تأثير عدم التماثل، فعل عدم التماثل
+atactic	لا ترتيبي
+athermic	لاحراري
+atmolysis	تفريق غشائي للغازات
+atmosphere	جو / غلاف جوي، جو
+atmospheric	جوّي
+atom	ذرّة
+atom-nucleus	نواة الذّرة
+atomic	ذري
+atomic absortion spectrometry	مقياسية مطيافية الامتصاص الذري
+atomic bomb	قنبلة ذرية
+atomic core	قلب ذري، لب ذري
+atomic crystals	بلورات ذرية
+atomic desintegration	تحلل ذري ذاتي
+atomic destruction	تهدم ذري
+atomic diameter	قطر ذري
+atomic energy	طاقة ذرية
+atomic explosion	انفجار ذري
+atomic fission	انشطار ذري
+atomic fusion	انصهار ذري
+atomic heat	حرارة ذرية
+atomic hypothesis	فرضية ذرية
+atomic mass	كتلة ذرية / كتلة ذرّيّة
+atomic mass unit	وحدة كتلة ذرية
+atomic model	نموذج ذري
+atomic number	عدد ذري / عدد ذرّي
+atomic orbit	مدار ذري
+atomic orbital	مداري ذرّي
+atomic pile	مفاعل ذري
+atomic radiation	إشعاع ذري
+atomic radius	نصف قطر ذري
+atomic reactor	مفاعل ذري
+atomic refraction	انكسار ذري
+atomic spectrum	طيف ذري
+atomic structure	بنية ذري
+atomic theory	نظرية ذرية / النظرية الذرية
+atomic volume	حجم ذري
+atomic weight	وزن ذري / وزن ذرّي
+atomicity	ذرية / ذَرّية
+atomization	ترذيذ، تذرية / ترذيذ
+atomizer	مذرار، مرذاذ / مرذاذ
+attack	هجوم
+attenuate(v)	يوهن
+attenuated	موهَن
+attenuation	توهين، تخفيف، تلطيف
+attraction	جذْب / تجاذب
+attraction forces	قوى التجاذب
+attractive	جاذب
+attrition	تآكل بالاحتكاك
+atténuation	توهين
+atypical	لا نموذجي، لا نمطي
+Aufbau principle	مبدأ أوفباو
+Aufbeau principle	مبدأ البناء، مبدأ أوفباو
+augmentation	ازدياد
+auric	ذهب III
+auric chloride	كلوريد الذهب، كلوريد الذهبيك
+auric oxide	أكسيد الذهب
+aurous	ذهب I
+aurous cloride	كلوريد الذهبي، كلوريد الذهبوز
+aurous oxide	أكسيد الذهبي، أكسيد الذهبوز
+aurum	ذَهَبٌ / ذهب
+auto	ذاتي
+auto-catalysis	حفز ذاتي
+auto-ionization	تأين ذاتي
+autoantibody	ضدٌّ ذاتي
+autocatalysis	تحفيز ذاتي
+autoclave	محم موصد، فرن معقم، قدر كاتمة / موصِدة
+autoimmunization	تمنيع ذاتي
+autolysis	تحلل ذاتي / تحلّل ذاتي
+automatic	ذاتي الحركة / آلي
+automatically	ذاتيا، اتوماتيكيا
+automation	أتمتة
+autoprotolysis	تحلل بروتوني ذاتي
+autoxidation	أكسد ذاتي / أكسدة ذاتية
+auxiliary	مساعد
+auxillary	مساعد، ملحق
+auxin	أوكسين
+auxochrome	مِصباغ، أوكسوكروم
+auxochromes	مساعدات صباغية
+availability	توفّر، متاحيّة
+available	متاح
+available chlorine	كلور فعّال، كلور مفيد / كلور متاح
+avalanche	انهيال، انهيار
+average	متوسِّط، معدَّل، وسَطٌ / وسط حسابي
+average velocity	سرعة (ال...) المتوسطة
+Avogadro's constant	ثابت أفوغادرو
+Avogadro's hypothesis	فرضية أفوغادرو
+Avogadro's number	عدد أفوغادرو / عدد أفوكادرو
+Avogdro's law	قانون آفوغادرو
+Avogdro's volume	حجم آفوغادرو
+axial	مِحوري
+axial bond	رابطة محورية
+axis	مِحْوَر / مِحور
+axis of abscissa	محور الفواصل
+axis of symmetry	محور تناظر
+azeotrope	أزيوتروب
+azeotropic	آزيوتروبي
+azeotropic distillation	تقطير آزيوتروبي
+azide	أزيد
+azido-	أزيدو: سابقة
+azimuth	سَمت
+azimuthal quantum number	العدد الكمومي السمتي
+azo	آزو
+azo compound	مركب آزو
+azo-,az-	آزو، آز: سابقة
+azo-dyes	أصباغ آزية
+azotate	آزوتات، نترات
+azote	آزوت
+azotic acid	حمض الآزوت، حمض النتريك
+azotobacter	بكتريا التأزت
+azotometer	مقياس الأزوت، آزوتمتر
+azurite	أزوريت

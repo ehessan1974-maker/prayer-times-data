@@ -1,0 +1,181 @@
+لؤلؤة	pearl
+لؤمة، مُلَئِّم	adaptor
+لا (تفيد النفي)، غير	non
+لا إتلافية، لا إفنائية	indestructibility
+لا استقرار، عدم استقرار	instability
+لا اشعاعي	non-radioactive
+لا الكتروليت، مادة لا الكتروليتية	non-electrolyte
+لا انطباقي، كيرالي	chiral
+لا انطباقية، كيرالية	chirality
+لا بروتوني	aprotic
+لا بلَّوري - عديم الشكل	amorphous
+لا بلوري، لاشكلي	amorphous
+لا بلورية	amorphism
+لا بَلُول، دافع للماء	water-repellent
+لا ترتيبي	atactic
+لا تناظر	asymmetry
+لا تناظر، لاتماثل	asymmetry
+لا حَروق	incombustible
+لا حَلَقي	acyclic
+لا حلقي، غير حلقي	uncyclized
+لا دوري	aperiodic
+لا ستكيومترية	non-stoichiometry
+لا شَبوع	insaturable
+لا صَهور	infusible
+لا ضَغوط	incompressible
+لا عضوي	anorganic
+لا عضوي، غير عضوي	inorganic
+لا عَكوس، غير قابل للعكس	irreversible
+لا فلز	non-metal / nonmetal
+لا قطبي	nonpolar
+لا كهرلي	nonelectrolyte
+لا لوني	achromatic
+لا مائي	anhydrous
+لا مائيات الحموض، أنهيدريدات الأحماض، أندريدات الأحماض	acid (anhydrides)
+لا متجانس	heterogeneous
+لا متصاوغ	anisometric
+لا متغير، عديم التحول	invariant
+لا متناظر	asymmetric
+لا مَزُوْج	immiscible
+لا مزوج، غير قابل للاختلاط	non-miscible
+لا نَفوذ، كتيم للماء	impermeable
+لا نموذجي، لا نمطي	atypical
+لا هوائي	anaerobic
+لا يتآكل	non-corrosive
+لاتكس	latex
+لاتكس مطاطي	rubber latex
+لاتناحي	anisotropy
+لاتناسب	disproportion
+لاتناسبية	disproportionation
+لاحراري	athermic
+لاحلقي	acyclic
+لادوري	aperiodic
+لاذوبانية	insolubility
+لَارْسينيت	larsenite
+لاصق	adhesive
+لاضَغوط، متعذر الانضغاط	incompressible
+لاعكوس	irreversible
+لاعكوسية	irreversibility
+لافظ، قاذف	ejector
+لاقطبي	apolar
+لاكتاز	lactase
+لاكتام	lactam
+لاكتوز، سكر البن	lactose
+لاكتوز، سكر الحليب	lactose
+لاكتوفرّين	lactoferrin
+لاكتون	lactone
+لاكتون غلوكوني	gluconolactone
+لاكتيد	lactide
+لاكتيم	lactim
+لامائي	anhydrous
+لامائي حمض الأسيتيك، لامائي حمض الخل، انهيدريك اسيتيك	acetic anhydride
+لامع	brilliant
+لانتانوم	lanthanum
+لانتانيد	lanthanide
+لانثانوم	lanthanum
+لانثانيدات	lanthanides
+لانهائي	infinite
+لانولين	lanoline
+لاهدريد	anhydride
+لاهوائي	anaerobic
+لبّ الخشب	wood pulp
+لب، قلب	core
+لّبأ(ال...)	colustrum
+لبّاد	felt
+لبتوفوس	leptophos
+لبن أسبستوس	asbestos milk
+لَبَنُ الكلس	milk of lime
+لبن الكلس، لبن الجير	milk of lime / white lime
+لَبَنُ المغنيزيا	milk of magnesia
+لبنات، لاكتات	lactate
+لبنّي، لبني اللون	lactous
+لثى مطاطي، عصارة مطاطية	latex
+لجم التوازن	equilibre bloking
+لِحاف مُسخِّن	heating mantle
+لِـحام	solder
+لَـحْمٌ	welding
+لدائن	plastics
+لدائن حرارية	thermoplastics
+لدائن قارية، لدائن حمّرية	bitumenous plastics
+لدن, لدين	plastic
+لَدن، مرِن	flexible
+لدونة	plasticity
+لدين الفينيل	vinyl plastic
+لدين صفائحي	laminated plastic
+لدين متوسع	expanded plastic
+لدين مُقوّى	reinforced plastic
+لزج	viscid / viscous
+لزج، دبق	sticky
+لزوجة	Engler viscosity / viscosity
+لزوجة حركية	kinematic viscosity
+لزوجة حركية، لزوجة كينماتية	kinematic viscosity
+لزوجة داخلية المنشأ	intrinsic viscosity
+لزوجة ديناميكية	dynamic viscosity
+لزوجة سيبولت العامة	Saybolt universal viscosity
+لزوجة نسبية	relative viscosity
+لصقة، ملاط	plaster
+لصوق	adherent / adhesive
+لطخة، بقعة	stain
+لغنيت	lignite
+لف (ال...) الذاتي المغناطيسي	magnetic spin
+لَفْحٌ، عَصْفٌ	blast
+لفظ، قذف	ejection
+لقاح	vaccine
+لكٌ، ورنيش اللّك	lacquer
+لَـمَعان	luster
+لمفاني	lymphoid
+لهب	flame
+لهب (ال...) المؤكسد السفلي	lower oxidising flame
+لهب (ال...) المختزل السفلي	lower reducing flame
+لهب مؤكسِد	oxidizing flame
+لهب مختزل علوي، لهب مرجع علوي	upper oxidising flame
+لهب مرجِع	reducing flame
+لهب معتدل	neutral flame
+لَهوب	flammable / inflammable
+لَهوبيّة	inflammability
+لوتسيوم	letetium; lutecium
+لودانين	laudanine
+لورنسيوم	lawrencium
+لوريل	lauryl
+لَوْزٌ	almond
+لوز مرّ	almond (bitter…)
+لوزين، أمجدلين	amygdaline
+لوسين	leucine
+لون	color, colour / colour
+لون أديمي، لون الأدمة	buff colour
+لون باهت، لون ناصل	faded colour; fading colour
+لون كامد	dull colour
+لويزيت	lewisite
+لويستونيت	lewistonite
+لَيٌّ, فَتْل	torsion
+لياز	lyase
+ليباز	lipase
+ليبوبروتين، بروتين شحمي	lipoprotein
+ليبوكرومات	lipochrome
+ليبوكسيداز	lipoxidase
+ليبيد (شحم) فسفاتي	phospholipid
+ليبيد، شحم	lipid, lipide
+ليتيوم	lithium
+ليثارج	lithrage
+ليثيوم	lithium
+ليزر	laser
+ليزر(ال...)	laser
+ليزوزيم	lysozyme
+ليزول	lysol
+ليزين	lysine
+ليسيتين	lecithin
+ليغاز	ligase
+ليغروين	ligroin
+ليغنيت	lignite
+ليغنين	lignin
+ليف	fiber / fiber; fibre
+ليف زجاجي	fiber glass / glass fiber
+ليف فينيلي	vinyl fiber
+ليفولوز	levulose
+ليفي	fibrous
+ليفين، فِبرين	fibrin
+ليمونيت	limonite
+ليمونين	limonene / limonin
+ليّن	flexible
+ليّنٌ، رَخْوٌ	soft
+لينالول	linalool

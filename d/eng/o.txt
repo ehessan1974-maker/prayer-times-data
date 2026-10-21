@@ -1,0 +1,2069 @@
+o layer	طبقة عضوية
+O&M	التشغيل و الصيانة
+o- ring	حلقة كاملة، حلقة إحكام
+O-ring	مانع تسرب حلقي O
+o-ring seal	مانِع تسرُّب مطاطي حلقي
+O.K	موافق عليه
+O2	O2
+O2 sensor	حسّاس الأكسجين
+O3	O3
+oak	بلوط، سنديان / خشب البلوط
+oak timber; oak wood	خشب البلوط أو السنديان
+oak-feeding silkworm	دودة شجرة البلوط
+oakum fibers	مُشَاقَةُ (الكَتَّان)
+oar	مِجْدَاف / مقذاف، مجذاف
+OBD monitor (generic scan tool)	قارئ الأعطال المخزنة في وحدة التشخيص الذاتي OBD
+object code	كود كائن
+object colour	لون الشىء
+object file	ملف كائن
+object language; target language	لغة وسيطة
+object lens	عدسة جسمية
+object mode,	وضع الجسم,
+Object Orientation	توجيه الكائنات
+object principle	مبدأ الشيء
+object program	برنامج نهائي
+object program; target program; object programme; target programme	برنامج وسيط
+object-oriented programming (OOP)	برمجة مُوجَّهة صوب الهدف (OOP)
+objection	اعتراض
+objectionable sulphur compounds	مركبات كبريتية مؤذية، مركبات كبريت مُنَفِّرة
+objective	جسمية / شيئية / عدسة شيئية / هدف بري
+objective lens	عدسة شيئية
+objective reference equivalent meter	مقياس موضوعي للمكافئ المرجعي
+Objective wool measurements	قياس موضوعي للصوف
+obligate aerobes	هوائيات مجبرة
+obligate anaerobes	لا هوائيات مجبرة
+obligation not to cause significant harm	التزام بعدم التسبب في إلحاق الضرر
+obligation to eliminate harm and to compensate	إلتزام بإزالة الضرر والتعويض عنه
+oblique	مائل
+oblique camera	مُصَوِّرَة مائلة
+oblique compression shock	صدمات الضغط غير المباشر
+oblique fault	صَدْع مائل
+oblique illumination	إنارة مائلة
+oblique incidence ionospheric sounding	سبر أيونوسفيري للسقوط المائل
+oblique joint	وصلة مائلة
+oblique projection	إسقاط مائل / مسقط مائل
+oblique shockwave	موجة صدم مائلة
+oblique stroke	خط مائل
+oblique wing	جناح مائل
+oblique-shock inlet	مدخل بصدمة مائلة
+oblique-slip fault	صَدْع انزلاقي مائل
+oblique; oblique photograph	صورة مائلة
+obliquity (angle of...)	مَيَلان الزاوية
+obliquity of the ecliptic	مَيل السمت
+obliterating paint	صباغ طمس
+obliteration	كشط، محو
+oblong format	قطع مستطيل
+obruchevite	أبروتشيفايت
+obscuration method	طريقة التعتيم
+obscured glass	زجاج مُعْتم
+obsequent streams	جريان معاكس / أنهار مضادة
+observability	القابلية للمراقبة
+observation	ملاحَظة / ملاحظة
+observation book	دفتر ميدان
+observation holes	ثقوب الملاحظة
+observation oscilloscope	مشواف (مبين) مراقبة الذبذبة
+observation point / measuring point	نُقطة رصْد
+observation soil map	خريطة ملاحظات
+observation well	بئر مراقبة / بئر للمراقبة، بئر شاهدة
+observation well (or monitor well)	بئر رصد
+observations equation	مُعادَلة الملاحظات
+observations of unequal precision	قياسات غير متساوية الدقة
+observatory	مَرصد
+observe (conform with) (to)	راقب / التزم
+observe, watch, study; monitor	مُراقبة
+observed pressures	ضُغوط مُلاحظَة
+observed value	قيمة مَقيسة
+observer	مُراقب / مراقب
+Observer based control	ضبط باستخدام مُراقب
+observer-based control	تحكم قائم على المراقبة
+observers	ملاحظون
+obsidian	سَبَج
+obstacle gain	كسب العائق
+obstacle light; DEPRECATED: obstruction light	إنارة ملاحية جوية تحذيرية؛ ضوء الحاجز
+Obstacle: Route Obstacle	عقبة / عائق للمسار
+obstacle; obstruction,	عائق
+obstacles	معوقات
+obstruction angle	زاوية الحجز / زاوية المنع
+obstruction light	ضوء الحواجز
+obstruction marker	مُحَدِّد الحواجز
+obstruction spanner [UK] / obstruction wrench [US]	مفتاح هلالي حلقي الطرفين / مفتاح هلالي حلقي لمُبدئ الحركة
+obstruction weir type water seal	غطاء مائيّ طراز الهدار العائق
+obstruction,	عائق,
+obtrusive light	ضوء متدخل
+obturator	حابسة / سِدادة
+obturator ring	حلقة السِّدادة / حلقة الضغط
+obtuse angle	زاوية منفرجة
+Obtuse Crossing	معبر منفرج
+OC/load	حِمْل الأكسجين
+OC/load in clean water	حِمْل الأكسجين في المياه النقية
+occasion dress	فستان للمناسبات
+occasional services	نقل عرضي
+occasional table	طاولة متحركة
+occluded front (occlusion)	جبهة مقفلة (انسداد)
+occlusion	احتباس / انغلاق
+occultation	احتجاب / استتار / خسوف / كسوف
+occulting light	نور متقطع / ضوء مُحْتجب
+occuluded front	جبهة مقفلة
+occupancy factor	عامل شغلِ المكان؛ عامل تشغيل المكان
+occupancy rate	معدل الإشغال / نسبة الإشغال
+occupancy time	وقت الإشغال
+occupant restraint	نظام تثبيت في المقعد
+occupation number	عدد (ال...) الشاغل
+occupational disease	مرض مهني
+Occupational Safety and Health Act (ArbSchG)	قانون الصحة المهنية
+occupied area	منطقة مشغولة
+occupied band (of an emission)	نطاق ترددي مشغول (للبث)
+occupied bandwidth	عرض نطاق ترددي مشغول
+ocean	محيط
+ocean acidification	تَحَمُّض المحيطات
+ocean current	تيار المحيطات
+ocean current energy converter; OCEC	محول طاقة التيار المحيطي
+ocean current; sea current	تيار بحري
+ocean currents	تيارات محيطية
+ocean depth	عُمْق المحيط
+ocean discharge	تصريف في المحيط
+ocean disposal	طَرْح في المحيطات
+ocean fertilisation	تخصيب المحيطات
+ocean freight	نَقْل بحري
+ocean incineration	حَرْق في المحيطات
+ocean navigation	ملاحة أعالي البحار
+ocean or sea temperature gradient power station	محطة توليد بتدرج حرارة المحيط أو البحر
+ocean plate	صفيحة المحيط
+ocean port	ميناء محيطي
+ocean thermal energy conversion	تحويل الطاقة الحرارية للمُحيطات
+ocean thermal energy converter; OTEC	محول طاقة المحيط الحرارية
+ocean thermal power plant	محطة الطاقة الحرارية للمحيط
+ocean vessel	سفينة عبر المحيطات
+oceanic airspace	مجال جوي محيطي
+oceanic clearance	إجازة دخول محيطية
+oceanic platform	رصيف المحيط
+oceanic spreading ridge	تلال شريط توسع المحيط
+oceanic trench	خندق محيطي
+ocellar texture	نسيج عينيّ
+ocelot	فرو الأصلوت
+ocher	مُغرة
+ochre	مُغْرَة
+octa; okta	ثُمْن
+octagon kelly	عمود حفْر مثمَّن
+octagonal system	نظام مثمن الزوايا (أو الإضلاع)
+octahedrom (octahedron)	ثماني الأَوْجُه
+octahedron	ثماني الأوجه
+octal base	قاعدة ثمانية
+octal number	عدد ثماني
+octal number system	نظام عد ثماني
+octal, adj	ثمانى, صفة
+Octane	أوكتان
+octane number	رقم الأوكتان
+octane number (aviation method)	قرينة الأوكتان(بطريقة الطيران)
+octane number (motor method)	قرينة الأوكتان (بطريقة المحرك)
+octane number (ON)	الرقم الأوكتاني (ON)
+octane number (research method)	قرينة أوكتان (البحث)
+octane number (supercharge method)	قرينة الأوكتان (بطريقة فوق الانضغاط)، قرينة أوكتان فوق الانضغاط
+Octane Number Am (Aviation Method)	رقم الأوكتان بطريقة الطيران
+Octane Number Mm (Motor Method)	رقم الأوكتان بطريقة المحرك
+Octane Number Sm (Supercharge Method)	رقم الأوكتان بطريقة الشحن الجبري
+octane rating	درجة الأوكتان / رقم الأوكتان / درجة الأوكتان، قرينة الأوكتان
+octane test	اختبار الأوكتان
+octant	ثُمْنِيّة
+octave	جواب ( النغمة ) - اوكتاف - مجموعة من ثماني وحدات / جواب النغمة
+octet	مجموعة ثمانية
+octet sequence integrity	سلامة التسلسل الرقمي الثمانيِ
+octet slip	انزلاق ثماني
+octode	صمام ثمانى
+ocular hazard distance	مسافات الخطر للعين
+ODA (Official Development Assistance)	المساعدة الإنمائية الرسمية
+odd number	عدد فردي
+odd pages	صفحات فردية الترقيم
+odd parity	تكافؤ فردي
+odd parity check	تحقق تكافؤ فردي
+ODIN	منصة أودين
+odometer	شاشة بيان المسافات المقطوعة / عداد المسافات / عدّاد رقمي
+odometer reading	قراءة عداد المسافات / الكيلومترات
+odor	رائحة
+odor control agent	عامل إزالة الرائحة، عامل مضاد للرائحة
+odor removal	إزالة الروائح
+odorant flow rate / odour emission rate	تيار المادة الفَوّاحة
+odorization equipment	مُعدّات إكساب الغاز رائحة مُميّزة
+odour	رائحة
+odour control	تَحكُّم في الرائحة / مراقبة الرائحة
+odour emission rate	تيار المادة الفَوّاحة المنبعِث
+odour nuisance	تَأَذٍّ من الروائح الكريهة
+Odour prediction	توقع رائحة
+odour removal	إزالة الرائحة (الكريهة)
+odour seal height	ارتفاع مانع تسرب الرائحة
+odour threshold	عتبة الرائحة
+odour trap / odour seal	مِصْيَدَة روائح
+odours concentration	تركيز الروائح
+OE denim	دنيم مفتوح النهاية
+oecd	منظمة التعاون الاقتصادي والتنمية
+oecd countries	بلدان منظمة التعاون الاقتصادي والتنمية
+oedometer	جهاز تجربة الانضغاطية
+oedometer test	اختبار أُودُومِتر
+OEKO-TEX standard	معايير النسيج البيئية
+OEM battery	بطارية الصانع الأصلي
+OEMP	خطة الإدارة البيئة لمرحلة التشغيل
+oersted	أورستد
+of issue	موضع خرج القياس
+off junction	نقطة تبادل السلع
+off mode	خارج النمط
+off shore drilling platform	منصة حفر بحرية (تحت الماء)
+off state; forward blocking state	حالة فصل
+off test	غير مطابق للمواصفات
+off the shelf	قطع جاهزة / قُطَع حاضرة / جاهز للاستعمال (مواد مخزونة أو أساليب مجرية)، بعيدا عن الرصيف القاري
+off-air monitoring	مراقبة خارج البث
+off-board	شاحن خارجي
+off-delay relay with control signal; off-delay relay	مُرَحِّل تأخير الفصل؛ مُرَحِّل تأخير الفصل ذو اشارة تحكم
+off-design	خارج حدود التصميم
+off-great-circle ionospheric propagation	انتشار أيونوسفيري خارج الدائرة العظمى
+Off-Grid	معزول عن الشبكة
+Off-Grid Electricity Markets	سوق الكهرباء المستقلة عن الشبكة
+off-hook	رفع سماعة الهاتف
+off-hook call	إتّصال برفع السماعة
+off-hook signal	إشارة انشغال الخط
+off-line	خارج الخط
+Off-line Programming	برمجة مُنفصلة
+off-loading	تفريغ الشحنات
+off-mounted; open	غير متصل
+off-peak cooling	تبريد خارج أوقات الذروة
+off-peak electricity	كهرباء ليلية
+off-peak period	خارج موسم الذروة
+off-peak tariff	تعرفة خارج أوقات الذروة
+off-peak tariff; low-load tariff	تعرفة الحمل الأدنى
+Off-peak time	فترة الطلب المنخفض
+off-plot plant area	خارج منطقة العمل
+off-print	مستخرج
+off-route	خارج الطريق
+off-set feed	تغذية مزاحة
+off-set paraboloidal reflector antenna	هوائي عاكس مزاح على شكل قطع ناقص
+Off-Shore Wind	رياح بحرية
+off-site maintenance	صيانة خارج الموقع
+Off-site migration	انتقال إلى خارج الموقع
+off-specification	غير مطابق للمواصفات
+off-state	وضع الفصل
+off-state interval; hold-off period	فترة التوقف
+off-system unit	وحدة ليس لها صلة بنظام وحدات
+off-the-shoulder neckline	تقويرة كارمن
+offcut	فرخ قصير
+offcuts	أشرطة مقصوصة
+offer	عرض
+office	مكتب القيادة / مكتب
+office automation; OA	التشغيل الآلى للناشر المكتبى
+office desk	طاولة المكتب
+office furniture	أثاث المكتب
+office paper	ورق المكاتب
+office shirt	قميص مكتبي
+officer of the deck	ضابط السطح
+officer of the watch	ضابط المناوبة، ضابط مراقبة
+officers' quarters	سكن الضباط
+officewear	ملابس العمل
+official accreditation	اعتماد رسمي
+official logbook	سِجِلّ رسمي
+officially recognized certification system	نظام تصديق معترف به رسميًا
+officially recognized inspection system	نظام تفتيش معترف به رسميًا
+offline operation	عملية مستقلة
+offseheets	أفرخ واقية
+offset	بُعْد / زَيَحان / عِوَض / مُجانبة / طباعة أوفست، ازاحة
+offset angle	زاوية تعديل
+offset bombing	تصويب جانبي
+offset deep printing	طباعة أوفست غائرة
+offset distance	مسافة جانبية
+offset drilling	حَفْر مجنَّب
+offset flated press	آلة أوفست مسطحة
+offset hinge	مِفْصل جانبي
+offset ink	حبر اوفست
+offset lithography	طباعة ليثوغرافية أوفست
+offset machine	ماكينة أوفست
+offset mho relay	مُرَحِّل مو مزاحة؛ مُرَحِّل ذو خصائص مو مزاحة
+offset paper	ورق أوفست
+offset pattern	نموذج بديل
+offset plate	صفيحة أوفست
+offset plate graining machine	مخشّنة صفائح الأوفست
+offset proofing press	آلة تجارب بالأوفست
+offset provider	مؤسسات حماية المناخ (معادلة انبعاثات الكربون)
+Offset Well	بئر موازنة / بئر حَدِّية
+offset, adj	أزاحة (صفة)
+offsets	إزاحات
+offshore	بعيدا عن الشاطئ / بحري / في البحر
+offshore area	منطقة مغمورة
+offshore construction	تشييد بحريّ
+Offshore Drilling Platform	منصة حفر بحرية / منصة حفر بحرية (تحت الماء)
+offshore grid	مشروع الشبكة البعيدة عن الشواطئ
+offshore liability apportionment	تقسيم المسؤولية في الخارج
+Offshore Oil Burner	جهاز إحراق الزيت الخام في المناطق المغمورة
+offshore structure	بنية ما تحت الماء
+offshore well	بئر بحرية، بئر تحت الماء
+offshore wind farm	حقل ريحي بحري / مزرعة الرياح البحرية
+Offshore wind power	توليد طاقة الرياح (في البحر) بعيدا عن الساحل
+Offshore wind power plant	محطة طاقة الرياح البحرية
+offtake canal	تُرْعَة تخفيف
+offtake point	نقطة الخروج
+offtaker	مأخذ
+offtracking of vehicles	انزلاق العربات في المنحدرات
+ogee	زينة إفريز، زينة بارزة
+ogee weir	هَدّار أوجيّ
+ogee; ogive	انحناء قوسي
+ogive	جسم قوسي / جناح قوسي
+OHC engine	محرك بعمود كامات علوي (OHC)
+ohm	أوم / أوم؛ وحدة قياس المقاومة
+Ohm's law	قانون 'أوم' / قانون أوم
+Ohm's law; Ohm law	قانون أوم
+ohmeter	مقياس أوم
+ohmic loss	فقد أومي
+ohmic polarization	استقطاب أومي
+ohmic polarization, ; IR loss	الإستقطاب الاومى, ؛ فقد مقاومة
+ohmic resistance	مُقاومة أومية / مقاومة أومية
+Ohmic resistance as P-element	مقاومة أومية كعنصر تناسبي
+ohmmeter	مقياس المقاومة
+ohmmeter; resistance meter	مقياس المقاومة الكهربائية
+Ohm’s Law	قانون أوم
+OHV engine	محرك ذو صمام علوي
+oil	زَيْت / نِفْط / النفط / زَيْت، نِفْط / نفط / زيت
+Oil & Gas Journal (OGJ)	مجلة النفط والغاز (OGJ)
+oil absorption	امتصاص الزيت / تشرب الزيت
+oil absorption test	اختبار تشرب الزيت
+Oil Activities	أنشطة بترولية
+oil ageing	تقادم الزيت
+oil aluminium cartridge cutter	خرطوشة ألومينيوم لقطع الأنابيب في آبار النفط
+oil and bulk ore vessel, (O.B.O.vessel)	سفينة محمَّلة بالنفط و الفلزات، سفينة نقل النفط و الخامات المعدنية
+oil and control jackets	قمصان (صناديق) أجهزة التحكم و أنابيب النفط و عداداته (في المنصات البحرية)
+oil and gas waste	نفايات النفط والغاز
+oil baffle	عارضة للزيت
+Oil Base Mud	طين زيتي القاعدة
+oil bath air cleaner	فلتر هواء بحمام زيتي
+oil bonus	إيجارعيني
+Oil Burner routes	مسارات حرق الزيت
+oil can	سطح سهل الانبعاج / مزيتة
+oil change	تغيير الزيت
+oil circuit breaker	قاطع دارة زيتي
+oil circuit-breaker	قاطع دارة زيتى / قاطع دائرة زيتي
+oil circulation	دورة الزيت
+oil companies international marine forum	منتدى (ال...) البحري لشركات النفط الدولية
+oil conservator	حافظ الزيت
+oil conservator; expansion tank	خزان زيت
+oil consumption	استهلاك الزيت
+oil consumption car	استهلاك الزيت في السيارة
+oil contaminated	مُلوَّث بالنفط
+oil control rings	حلقات ضبط الزيت
+oil cooler	مُبرّد الزيت / مُبَرّد الزيت
+oil cooler heat	حرارة مُبَرِّد الزيت
+oil coring	تجويف الزيت
+oil country tubular goods	أنابيب النفط بأنواعها، معدات أنبوبية للأقطارالنفطية
+oil defence vehicle	سيارة مكافحة الزيت
+oil deposits	رواسب نِفْطية / توضعات النفط / ترسّبات نفطية
+oil deterioration	تردي النفط
+Oil Development Company	شركة التنمية النفطية
+oil dilution	تخفيف الزيت
+Oil Embargo	حظر البترول
+oil emulsion	مُسْتحلَب زيتي
+oil emulsion mud	طين محلّب بالزيت
+Oil Equivalent	مكافئ بترولي
+oil equivalent barrel	برميل النفط المعادل
+oil exports	صادرات النفط
+Oil Facilities	منشآت بترولية
+Oil Field	حقل بترول / حقل نفط
+oil field body truck	سيارة ذات هيكل معد للأعمال النفطية
+oil filled cable	كبل بزيت
+oil film strength	قوة غشاء الزيت
+oil firing	تدفئة بالمازوت
+oil flax	كتّان زيتي
+oil flax cloth	كتّان ليفي زيتي
+oil flow pipe	أنبوب النفط الصاعد، أنبوب الزيت الفائض
+oil fuse cut-out	قاطع تيار يعمل بالزيت
+oil grooves	مجاري الزيت
+oil heating	تدفئة بزيت الوقود
+oil horizon	مستوى (ال...) النفطي
+oil immersion "o"	درجة غمر الزيت "o"
+oil import	واردات النفط
+oil impregnated sand	رمل مُشرَّب بالنفط
+oil in place	نفط في الموقع (OIP)
+oil in water emulsion mud	طين محلّب بالزيت في الماء
+oil indications	تباشير النفط، دلائل (وجود) النفط
+oil information committee of api	لجنة المعلومات النفطية في معهد النفط الأمريكي
+oil information committee, (O.I.C.)	لجنة المعلومات االنفطية، لجنة الإعلام النفطية
+oil initially in place/oil originally in place	نفط في الموقع في بادئ الأمر / نفط كان أصلا في الموقع (OIIP / OOIP)
+oil inlet pipe	أنبوب دخول النفط
+oil lake	بحيرة نفطية
+oil leakage sump	مجمّع الزيت المتسرّب
+oil level	مستوى الزيت
+oil loss	فَقد الزيت
+oil lubricator	مُزلِّق زيتي
+Oil Meter Factor Adjustment	تعديل معامل عداد الزيت
+oil migration; drainage	هجرة النفط
+Oil Nationalization	تأميم البترول
+oil paint	دهان زيتي / طلاء زيتي
+oil pan	حوض الزيت
+oil patch	حَقْل النفط
+oil pier/terminal/jetty/berth	رصيف الشحن/رصيف الزيت
+oil pollution abatement	تخفيض التلوث النفطي
+Oil Pool	تجمع الزيت
+oil power plant	محطة توليد الكهرباء بزيت الوقود
+oil pressure	ضغط الزيت
+Oil Price	سعر البترول
+Oil Production	إنتاج الزيت / إنتاج النفط
+oil proof	صامد للزيت
+oil pump	مضخة زيت
+oil putty	معجونة زيتية
+oil quality	جودة الزيت
+oil radiator	مشع حرارة الزيت
+Oil Recovery	استخلاص البترول / استخلاص/استخراج النفط
+Oil Recovery System	نظام استخلاص الزيت
+oil refinery	تكرير النفط
+Oil Refining	عمليات تكرير البترول / تكرير النفط
+Oil Refining & Products	تكرير البترول والمنتجات
+oil removal / oil separation	فَصْل الزيت
+oil reserves	احتياطي النفط
+oil residue	بقية زيتية، بقية نفطية
+oil resistant	مقاوم الزيت
+oil resource	مورد نفطي
+Oil Reveneues	إيرادات بترولية
+oil rig	برج حفر
+oil ring	خاتم التزليق، حلقة التشحيم
+oil ring lubricated bearing	كرسي محوري حلقي التزييت
+oil run	إنتاج في فترة معينة
+oil sand	رَمْل نِفْطي / رمل نفطي / رمال نفطية
+oil sands	رمال نفطية
+oil scraper piston ring	حلقات كسح الزيت
+oil seal	مانع تسرب الزيت
+oil sector	قطاع نفطي
+Oil Sector Services Company	شركة خدمات القطاع النفطي
+oil separator	فاصل الزيت / جهاز فصل الزيت
+oil separator conveyor	سير ناقل لفصل الزيت
+oil separator; oil trap	فاصل الزيت
+oil service spanner [UK] / oil service wrench [US]	مفتاح خدمة الزيت
+oil shale	طَفْل زيتي / سجيل حُمَّري، شِيسْت حُمَّري / صخر زيتي / صخور نفطية
+oil shock	أزمة سعر النفط
+oil show	دليل وجود النفط
+oil skimmer	مِقْشَدَة الزيت
+oil skin	أقمشة مشمعة
+Oil Slick	بقع زيت طافية
+oil slicks at sea	طبقة نِفْطية فوق سطح البحر
+oil sludge	وحل الزيت / زيت وسخ
+oil smoke	أبخرة الزيت
+Oil Spill	تسرب الزيت / انسكاب (أو تسرّب) النفط / انسكاب نفطي
+oil stain	صبغ زيتي
+Oil Stocks	مخزونات البترول
+oil string; production string	أنابيب الإنتاج
+oil suction device	جهاز شفط الزيت
+oil suction pump	مضخة مص الزيت
+oil sump [UK] / oil pan [US]	حوض الزيت
+Oil Sustainability Program (OSP)	برنامج استدامة الطلب على البترول
+oil system	نظام التزييت
+oil tanker	ناقلة النفط
+Oil tax law	قانون رسوم البترول
+oil temperature	درجة حرارة الزيت
+oil temperature sensor	حساس درجة حرارة الزيت
+oil thrower	قاذف الزيت
+oil trap	مصيدة الزيت
+Oil Treating Tank	خزان معالجة الزيت
+oil water contact	إلتماس بين النفط و الماء
+oil water contact advance	تقدُّم سطح تماس النفط و الماء
+oil wedge	إسفين تزليق
+oil well	آبار النِّفط / بئر نِفْط / بئر زيت / بئر نفط
+oil well cartridge 4' crackjet	خرطوشة نفاثة مقاس 4 بوصة للاستعمال في آبار النفط
+oil well cartridge 4' standard	خرطوشة عادية مقاس 4 بوصة للاستعمال في آبار الزيت
+oil well cartridge cutter aluminum	خرطوشة ألومينيوم لقطع الأنابيب في آبار النفط
+oil well cartridge cutter charge	حشوة خراطيش لقطع الأنابيب في آبار النفط / شحنة خراطيش قطع الأنابيب في آبار النفط
+oil- lubricated bearing	محمل زيتيّ التزليق
+oil-bearing layer	طبقة نِفطية / طبقة حاملة للزيت
+oil-bearing plant	نبتة زيتية
+oil-can	مثل المِزْيَتَة / مثل علبة الزيت
+Oil-Contaminated	ملوث بالزيت
+oil-fueled heating	تدفئة بوقود سائل
+oil-gas tar	قَطْران مصانع الغاز من الزيت
+oil-immersed type reactor	مفاعل مغمور بالزيت
+oil-immersed type transformer	محول مغمور في الزيت / محول مغمور بالزيت
+oil-in-place	نفط (ال..) الخام المقدر وجوده في الحقل، نفط (ال...) الموجود في الأرض قبل استخراجه
+oil-in-water emulsion	مُستَحلَب الزَّيت بالماء
+oil-jacked bearing	كرسي تحميل تحت ضغط الزيت؛ محمل تحت ضغط الزيت
+oil-water level; oil-water contact	خط تماس الزيت و الماء، مستوى تماس الزيت و الماء
+oilcloth	قماش مشمع
+oiled wood	خشب مزيّت
+oilfield	حقل نفطي
+oiliness	زيتية (ال..)، دهنبة (ال...)
+oils and greases	زيوت (ال...) والشحوم
+oilseed crops	زراعات زيتية
+oiltight	سَدود للزيت
+Oily Water Mixture	خليط المياه و الزيت
+old deposit	مطرح النفايات
+old growth forest	غابة قديمة النمو
+old marble	جلد رخامي
+old oil disposal system	نِظام التخلّص من الزيت القديم
+old paint	طلاء قديم
+old parts	أجزاء قديمة
+old wood	خشب قديم
+old-fashioned	طراز قديم
+Oldenburg Energy Cluster (OLEC)	رابطة أولدنبورغ للطاقة (OLEC)
+OLED display	شاشة عرض ليد
+olefin feed surge drum	حوض تَمُّور أو لفينات التلقيم، وعاء تهدئة الأولفينات اللقيمة
+olefin series	سلسلة الأولفينات
+olefines	أولفين
+olefinic hc% volume	نسبة (ال...) المئوية الحجمية للفحوم الهدروجنية الأولفينية
+oleo	ماص الصدمات الزيتي
+oleo-pneumatic	ماص الصدمات الزيتي الهوائي
+oleophobia	صد الزيت
+olfactometry	قياس بالشم
+oligiste	حجر الدّم
+Oligocene epoch	عصر(ال..) الأوليغوسيني / عصر أوليغوسيني
+oligoclase	أوليغوكليز
+oligopoly	احتكار قلة
+oligotrophic	فقير التغذية / قليل التغذية
+oligotrophic waters	مياه فقيرة
+oligotrophy	نقص التغذية
+Olive Branch route	مسار غصن الزيتون
+olive wood	خشب الزيتون
+olivine	زَبَرْجَد زيتوني / أوليفين
+ombrometer / rain gauge / hyetometer / pluviometer	جهاز قياس هطول المطر
+ombré design / ombré print / ombré pattern	شكل الظل
+ombré stripe	خطوط الظل
+Omega	جهاز أوميجا
+omni-aXial nozzle	منفث شامل الاتجاهات
+omni-bearing selector	مُنتَقٍ شامل الاتجاه
+omnibus configuration	تشكيل حلقي متعدد النقاط
+omnibus design	تصميم الحافلة
+omnidirectional aerial	هوائي لجميع الاتجاهات
+omnidirectional antenna	هوائي لجميع الاتجاهات
+omnidirectional antenna, (in a given plane)	هوائي لكل الإتجاهات ( في مستوى محدد)
+omnidirectional beacon	منارة لكل الاتجاهات
+omnidirectional microphone	ميكروفون متعدد الإتجاهات
+omniflash beacon	منارة ضوئية لكل الاتجاهات
+omnirange	شامل المدى
+omnivision	منظر شامل
+omnivore	قارت
+omnivorous	قارت
+omphacite	أومفاسايت
+On Board Unit	الوَحْدَةُ الداخِلِيَّةُ بِالقِطارِ
+on call	تحت الطلب / تَحْت الطَّلَبِ
+on mode	داخل النمط
+On or Near the Line	عَلَى الخَطِّ أَوْ بِالقُرْبِ مِنْهُ
+on side long ground	على السفح ( أو المنحدَر)
+on site	في الموقع
+on state; conducting state	حالة وصل
+on stream	في وضع يمكنه من الانتاج، في دورة عمل مستمرة
+on test	مطابق للمواصفات
+on the beam	على الطريق الصحيح
+on the deck	على السطح
+on the line	شغَّال على الخط، متّصِل بخط الأنابيب
+On the Line Side	عَلَى جانِبِ الخَطِّ
+on the pump	بالضخ
+on top	في القمة
+on wood arabesque	زخرفة عربية على الخشب
+on- and off-delay relay with control signal	مُرَحِّل تأخير التوصيل والفصل ذو اشارة تحكم
+on-board	شاحن داخلي
+on-board (communication) station	محطة (اتصال) على متن (سفينة)
+On-Board Charger (OBC)	الشاحن المدمج (OBC)
+on-board communication bus (ALCL)	ناقل بيانات عمليات الاتصال بين مجموعات الأنظمة (ALCL)
+on-board computer (ZBR)	حاسوب السيارة
+on-board diagnostics	نظام OBD
+on-board information system	نظام المعلومات في القِطَار
+On-board unit	الوَحْدَةُ الداخِلِيَّةُ
+on-board unit (OBU)	تجهيزة تسجيل رسوم استخدام الطرق
+On-Call	عِنْدَ الطَّلَبِ
+on-call duty/service / stand-by duty/service	خدمات الطوارئ
+on-call service	خدمة عبر الهاتف
+on-call target	هدف تحت الطلب
+on-condition maintenance	صيانة حسب الحالة
+on-course signal	إشارة على الطريق
+on-demand removal	إزالة بناء على الطلب
+On-Grid Electricity Markets	سوق الكهرباء المتصلة بالشبكة
+on-hook	إعادة وضع السماعة
+on-hook call	إتصال بدون رفع السماعة
+on-hook signal	إشارة عدم انشغال الخط
+on-load	تحت الحمل
+on-load tap-changer,	مبدل تفريعات تحت الحمل,
+on-load tap-changer; load-tap-changer (US)	مغير الجهد
+on-mounted	مُرَكّب
+on-off controller; two-point controller; two-step controller	ضابط ثنائي النقاط
+on-off element	عنصر تشغيل/ايقاف
+on-off element; two-point element; two-step element	عنصر ثنائي النقاط
+on-off transmission	نقل (ارسال) بالفتح والغلق
+on-plot plant area	في داخل منطقة العمل
+On-Shore Turbines	توربينات الرياح على اليابسة
+On-Shore Wind	رياح على اليابسة
+on-sight train operation; GOA0; TOS	تشغيل القطار تحت مسئولية السائق
+on-site concrete	خرسانة مصبوبة
+On-site disposal	تخلص في الموقع
+on-site inspection/meeting	تفتيش في الموقع
+on-site maintenance	صيانة فى الموقع
+on-specification	مطابق المواصفات
+on-state	وضع التوصيل
+on-state slope resistance	منحنى المقاومة التشغيلي
+on-street parking	تَوَقُّفٌ على الطريق
+on-test asphalt	أسفلت مطابق للمواصفات
+On-Track Machine	معدَّةٌ عَلَى الخُطُوْط
+On-Track Machine Protection	حماية المعدة على الخطوط
+On-Track Machines (OTM).	مُعِدَّاتُ صِيَانةِ الخُطُوطِ الحَدِيدِيَّةِ
+once through	أحادي المرور
+once-in-a-while operation	عملية نادرة أو فردية
+Once-through blower	نافخ أحادي الممر
+once-through boiler	مرجل مفتوح؛ غلاية مفتوحة
+Once-through steam generators (OTSG)	مِرْجَل أحادي المسار
+once-through system	نظام الجريان
+ondé yarn / crimped yarn	خيط مزويّ مموج
+one colour print	طباعة بلون واحد
+one dimensional atmospheric model	نموذج جوي أحادي البعد
+one dimensional consolidation test	تجرِبة الانضغاطية باتجاه واحد
+one man operation; one person operation	تشغيل بشخص واحد
+one point perspective	منظور بنقطة تلاش واحدة
+one pull release; one shot release	تكرار عرقلة الدخول/الخروج
+one train release	خروج قطار واحد
+one train working	قطار واحد يعمل
+one wash	غَسْلة واحدة
+one way	وحيد الاتجاه
+one – way slab	بَلاطة باتجاه واحد
+one-and-a-half breaker arrangement	ترتيب بقاطع ونصف
+one-dimensional flow	جريان أحادي البُعد
+one-dimensional prediction; 1-D prediction (abbreviation)	تنبؤ أحادي البعد
+one-direction vehicle	مركبة اتِّجَاه واحد
+one-dot error	خطأ النقطة الواحدة
+one-hundred-and-eighty-degree approach	اقتراب المائة والثمانين درجة
+one-hundred-and-eighty-degree error	خطأ المائة والثمانين درجة
+one-minute turn	لفة الدقيقة الواحدة
+one-part tariff	تعرفة احادية الجزء؛ تعريفة الجزء الواحد
+one-pass assembler	برنامج ترجمة فردي الدورة
+one-piece mattress	تَخْت
+one-point injection	نظام الحقن المركزي
+one-port	منفذ أحادي
+one-port SAW resonator	رنان أحادى المأخذ بإستخدام الموجة الصوتية السطحية
+one-quadrant converter	مغير ذواتجاه واحد
+one-third atmosphere percentage	مُحتوى مائيّ عند ضغط ثلث جويّ
+one-way circular conveyor	ناقل ذو مسار واحد
+one-way glass	زُجَاج شَفَّاف من جانب واحد
+one-way road	طريق ذو اتجاه واحد
+one-way street	طريق أحادي الاتجاه
+one-way traffic	سَيْر أحادي الاتجاه
+one-way trip	رحلة اتجاه واحد
+one-way, adj	أحادي المسار / إتجاه واحد / فى اتجاه واحد
+onglet	منحني الاتصال الأمامي
+online analysis	تحليل على الشابكة (أونلاين)
+Online Analytical Processing (OLAP)	معالجة تحليلية عبر الإنترنت
+online community; virtual community; e-community	الجالية الإلكترونية؛ الجالية الإفتراضية؛ الجالية على الإنترنت
+online hydrological forecasting	تنبؤ هيدرولوجي بمساعدة الحاسوب
+Online Test	اِخْتِبارٌ إلكترونِيّ
+onshore	بري
+onshore area	منطقة يابسة
+Onshore Storage Facilities	منشآت التخزين البرية
+Onshore wind power	طاقة الرياح على البر
+onshore-farms	حقول برية للطاقة الريحية
+onward flight	رحلة بالترابط
+onyx	جَزْع
+oolith	سَرْئية
+oolitic	سرئي
+oozo irrigation; porous hose irrigation	رىّ بخرطوم مساميّ
+Op Art fashion	مظهر خادع
+opacimeter	مِقياس العَكَارة
+opacity	عتامة / لا شعاعية / لا نفاذية
+opacity (of a film)	تعتيم (لفيلم)
+Opacity rating	تصنيف التعتيم
+opacity tester	مقياس عتامة
+opal	أوبال
+opal bulb	غلاف وحدة إضاءةأوبالي
+Opal cotton	أوبال
+opal galss	زجاج متلألئ
+opanak	أوبانك
+opaque glass	زجاج مغشّى
+opaque ink	حبر معتم
+opaque medium	وسط غير شفاف
+opaque minerals	معادن مُعتمة
+opaque paper	ورق معتم
+opaque plasma	بلازما غير منفذة
+opaque rime	جليد غير شفاف
+opaque tights	جوارب نسائية متينة
+Opec Basket Price	سعر سلة نفوط أوبك
+Opec Crude Basket	سلة خامات أوبك
+open	مفتوح
+open access	وصول مفتوح
+open access resource	وصول مفتوح إلى الموارد
+open action	فعل مفتوح
+Open action path	مسار فعل مفتوح
+open angle	زاوية مفتوحة
+open arc,	اختبار القوس الكهربى فى مكان مفتوح,
+open block	كتلة مفتوحة
+open burning	حَرْق مكشوف / حريق في مجال مفتوح
+open caisson	قيسون مفتوح
+open channel	قناة مكشوفة
+open channel flow	تَدُّفق مجرى مفتوح
+open channel flow (or free surface flow)	جريان على سطح حر
+open channel gate	بوابة مفتوحة لقناة صرف صحيّ
+open channel; open canal	مُوصِّل مكشوف
+open circuit	دارة مفتوحة
+open circuit (of a cooling system)	دارة مفتوحة لنظام تبريد
+open circuit heating system	نظام تسخين مفتوح الحلقة
+open circuit termination	نهاية طرفية لدارة مفتوحة
+open circuit; open loop	دارة مفتوحة
+open class	مسابقة مفتوحة الدرجة
+open coach	عَرَبَة مفتوحة
+open collar	ياقة مفتوحة
+open collector	مجمع مفتوح
+open competition	منافسة مفتوحة / تنافس مفتوح
+open cooling cycle	دورة تبريد مفتوحة
+open cooling system	نظام تبريد مفتوح
+open crossing; open level crossing	معبر مفتوح
+open cut excavation	حَفْر من على سطح الأرض
+open delta	اتصال مثلثي مفتوح
+open ditches / open drains	خنادق صرف مكشوفة
+open duct	مجرى مكشوف
+open dump	طَرْح مكشوف / مكب مفتوح
+open equipment	معدة مفتوحة
+open feedback loop	دائرة تغذية مرتدة مفتوحة
+open fireplace	مدفأة مفتوحة
+open floor	أرضية مكشوفة
+open flue	مدخنة مفتوحة
+open formation	مساحة مفتوحة
+open frame construction	بنية مفتوحة
+open fronted storage bin, open fronted storage box	صندوق تخزين ذات واجهة مفتوحة
+open fuse	فاصم مكشوف
+open gas exchange	تبدّل غازي مفتوح
+open gear compound	مُركَّب للتروس المكشوفة
+open graded aggregate	كُسَارة خشنة كثيرة المسام
+open grading	حبيبة مفتوحة
+open grame girder	جائز مفتوح الإطار
+Open heat exchanger	مُبادل حراري مفتوح
+open hole	حفرة مكشوفة
+open hole completion	إنجاز البئر دون تبطين
+open hole packer	حشوة أسطوانية لبئر مفتوحة (بكامل فتحتها)، حشوة أسطوانية
+open hole well	بئر غير مغلفة
+open hole; uncased hole	بئر دُونَ أنابيب تغليف، بئر غير مبطَّنة، بئر مكشوفة
+open improved site	موقع مُحَسَّن مفتوح
+open lapping	تراكب مفتوح
+open line	مسار حر
+Open loop	دائرة ضبط مفتوحة
+open loop stabilization	إستقرار حلقة مغلقة
+open machine	آلة مفتوحة / آلة مكشوفة
+open mantle	معطف ذو مشبك
+open mortise	نقرة نافذة
+open or gap joint	وصلة مفتوحة
+open path,	مسار مفتوح, الكشف عن الغاز
+Open position	وضعية مفتوحة
+open position (of a mechanical switching device)	وضع فتح
+open position,	وضع الفتح,
+open rate	سعر مفتوح
+open refrigeration compressor	ضغّاط تبريد مفتوح
+open roof	سقف مكشوف
+open seas	أعالي البحار
+open section	مقطع مفتوح
+open sequence of action / Open action sequence	مسار فعل مفتوح
+open space	مساحة مفتوحة
+open system	نظام مفتوح
+Open Systems Interconnection	نظام الربط البينى المفتوح
+open systems interconnection (reference model); OSI (abbreviation)	ترابط الأنظمةِ المفتوحِة (نموذج مرجعى)
+open ticket	تذكرة مفتوحة
+open train	قطار ذو نظام تشغيل مرن
+open transmission system	نظام نقل المفتوح
+open volumetric air receiver	مُستَقبِل هواء حجمي مفتوح
+open wagon	عَرَبَة مفتوحة السقف / عَرَبَة منخفضة الجَانِبين
+open wall container	حاوية بجوانب قابلة للفتح
+open web joists	عوارض قائمُها ذو فتحات، جوائز مفتوحة الشفة
+open weir / open diversion dam	سَدُّ تحويل مفتوح
+open windings	ملفات مفتوحة
+open yarn	خيط نافش
+open – frame girder	فيرنديل
+open – web girder	جائز شبكيّ
+open-air drying	تجفيف بالهواء
+open-circuit characteristic; no-load characteristic	خاصية الدارة المفتوحة ،خاصية اللاحمل
+open-circuit impedance	مُعاوقة الدارة المفتوحة
+open-circuit intermediate voltage	عنصر كهرومغناطيسي لمحول جهد سعوي
+open-circuit intermediate voltage (of a capacitor divider)	الجهد المتوسط لدارة مفتوحة لمقسم جهد سعوي
+open-circuit operation	تشغيل دارة مفتوحة
+open-circuit voltage	فلطية اللاحمل
+open-circuit voltage (related to cells or batteries)	جهد الدارة المفتوحة ( للخلايا أو البطاريات)
+open-circuit voltage, ; OCV; no-load voltage	جهد دائرة مفتوحة, ؛ جهد اللا حمل
+open-circuit, qualifier	دارة فتح ، مؤهل
+open-circuited	مفتوح الدارة
+open-coil armature	مُتَحَرّض مفتوح الملفات
+open-cut	قطْع مكشوف
+open-delta connection	توصيلة دلتا مفتوحة
+open-end	طَرَف أنبوب غير مُسنَّن
+open-end drill pipe	أنبوب حفر مفتوح الطرف
+open-end rotor yarn	خيط الغزل الدوار
+Open-End yarn	خيط غزل الطرف المفتوح
+open-ended	قابل للزيادة، مُتغيِّر
+open-ended coil	ملف مفتوح الطرف؛ وشيعة مفتوحة
+open-ended slugging spanner [UK] / open-ended slugging wrench [US]	مفتاح فكّي قابل للطرق عليه
+open-ended spaceflight	رحلة فضائية مفتوحة النهاية
+open-ended spanner [UK] / open-ended wrench [US]	مفتاح شوكِيّ
+open-gore parachute	مظلة مفتوحة الرقعة
+open-jaw ticket	تذكرة الفك المفتوح
+open-jawed socket spanner [UK] / open-end socket wrench [US]	مفتاح صندوقي فكّي مزدوج
+open-jet tunnel	نفق النفث المفتوح
+open-loop biomass	كتلة حيوية مفتوحة
+open-loop control	دائرة تحكم مفتوحة
+open-loop frequency response	إستجابة التردد للدائرة المفتوحة
+open-loop recycling	حلقة إعادة تدوير مفتوحة
+open-phase protection	قاطع حماية بالطور
+open-textured surface	مُقدرة مُوزُونِية
+open-top container	حاوية بسقف مفتوح
+open-type substation	محطة محولات من النوع المفتوح
+open-well stair	درج مكشوف
+opened dike	حاجِز مَفْتوح
+opener	فاتِح (ملامس فتح)
+opening	فتحة
+opening chamber, door cylinder	غرفة الفتح بأسطوانة الباب
+opening interstice / primary interstice	فتحة ابتدائية
+opening operation (of a mechanical switching device)	تشغيل فتح
+opening pressure	ضغط الفتح
+opening the hole	توسيع البئر
+opening time (of a mechanical switching device)	زمن الفتح (لجهاز فصل ووصل ميكانيكي)
+opening time of an output break circuit	زمن الفتح لدائرة خرج فاصلة
+opening time of an output make circuit	زمن الفتح لدائرة خرج موصلة
+opening; tripping	فتح؛ فصل
+openwork pattern	نمط تفريغ
+openwork weave	تركيب نسجي مُطرز تطريزاً مُفرغاً
+operability	قابلية التشغيل
+operable temperature range,	نطاق درجة الحرارة التشغيلى للرنان
+operand	مُعامل / معامل / مُشَغَّل
+operate (for elementary relays) verb	يعمل (لمرحل بسيط )
+operate condition	حالة الاشتغال
+operate condition (for elementary relays)	حالة التشغيل (للمرحل البسيط)
+operate condition,	ظروف التشغيل, لمُرَحِّل قياس او نظام وقاية
+operate range of the input voltage	مدى التشغيل لجهد الدخل
+operate signal	إشارة تشغيل
+operate time (for elementary relays)	زمن التشغيل (للمرحلات البسيطة)
+operate time of an off-delay relay	زمن الاشتغال لمرحل تأخير الفصل
+operate time,	زمن التشغيل, لمُرَحِّل قياس او نظام وقاية
+operate value	قيمة الاشتغال
+operate value,	قيمة تشغيل,
+operate voltage	جهد التشغيل
+operate, verb	يشغل, فعل / اعمل, لمُرَحِّل قياس او نظام وقاية
+operating accuracy	دقة تشغيل
+operating active aircraft	طائرات فَعّالة التشغيل
+Operating and Maintenance Center	مَرْكَزُ التَشْغِيلِ وَالصِيانَةِ
+operating company	شركة تشغيل
+operating condition	ظروف التشغيل
+operating conditions	ظروف التشغيل / ظروف تشغيلية
+operating conditions; hot conditions	شروط التشغيل (حالات التشغيل)
+operating consumption	استهلاك التشغيل
+operating cost	تكاليف التشغيل
+operating costs	تكاليف التشغيل / تكاليف التَّشغيل / أعباء التشغيل / تكاليف التشغيل
+operating current (of an over-current release)	تيار تشغيل
+operating current; operational current	تيار التشغيل
+operating cycle	دورة التشغيل / دائرة تشغيل / دورة تشغيل
+operating cycle (of a mechanical switching device)	دورة تشغيلية
+operating cycle,	دورة التشغيل,
+operating data (pl.) / service data (pl.)	بيانات التشغيل
+operating day; stream day	يوم التشغيل
+operating density; train headway	كثافة التشغيل
+operating duration	فترة التشغيل
+operating envelope	غلاف التشغيل
+operating equipment	تجهيزة تشغيل
+operating factors	عوامل التشغيل
+operating force	قوة التشغيل
+operating gangway	ممر التشغيل
+operating gear	جِهاز التشغيل
+operating governor	مُنظِّم الطاقة
+operating guidelines (OG-100)	دليل التشغيل 'OG-100'
+operating head / head at the power plant	مستوى انخفاض الطاقة الكهرومائية
+operating hours usage hours utilisation hours [UK]; utilization hours[US]	ساعات الاستخدام
+operating instructions	تعليمات التشغيل
+operating interest; working interest	حق استثمار المكمن، حصة التشغيل (ما يبقى بعد دفع الريع أو الاتاوة)
+operating life	عمر افتراضي
+operating line; operating curve	خط التشغيل
+operating location	موضع التشغيل
+operating logbook; operations diary	سِجِلّ التشغيل
+operating loss	فقد التشغيل
+operating management	مُراقبة التشغيل
+operating materials	مواد تشغيلية
+operating mode	اسلوب التشغيل / أسلوب أو نمط التشغيل
+operating mode (2)	وضع التشغيل
+operating mode,	نمط التشغيل,
+operating performance	أداء التشغيل
+Operating Permit	تصريح التشغيل
+operating phase shift	زاوية إنحراف التشغيل
+operating plan	خطة الإدارة
+operating plunger	إصبع تشغيل
+operating point	نقطة تشغيل / نقطة التشغيل
+operating point; working point	نقطة التشغيل
+operating pressure	ضغط تشغيل
+operating pressure, allowable	ضَغْط التشغيل المسموح به
+operating procedure	طريقة إجراء التشغيل
+operating procedures	إجراءات التشغيل
+operating program	برنامج التشغيل
+operating range	نطاق عمل منظم الضغط
+operating range,	مدى التشغيل, لمُرَحِّل قياس او نظام وقاية / نطاق التشغيل,
+operating report	تقرير التشغيل / برتوكول التشغيل
+operating requirements	مُتطلَّبات التشغيل
+operating rod	قضيب التشغيل
+operating rule(s)	قاعدة التشغيل
+operating safety; operational safety	أمان التشغيل
+operating sequence (of a mechanical switching device)	تعاقب تشغيلى
+operating short-circuit	قصر دائرة التشغيل
+operating speed	سرعة التشغيل
+operating state	حالة التشغيل،,
+operating state,	حالة تشغيل,
+operating sub-systems of municipal solid waste management (mswm)	أنظمة تشغيل فرعية لمنظومة إدارة النفايات الصلبة البلدية
+Operating System	نِظامُ التَشْغِيلِ
+operating system; OS	نظام تشغيل
+operating temperature	درجة حرارة التشغيل
+Operating temperature of solar PV	درجة حرارة تشغيل الخلايا الشمسية
+operating temperature range,	مدى درجة الحرارة التشغيلية / مدى حرارة التشغيل
+operating temperature; working temperature	درجة حرارة التشغيل
+operating time	وقت التشغيل؛ فترة التشغيل
+operating time between failures,	الزمن التشغيلي بين الانهيارات,
+operating time to failure; time to failure	الزمن التشغيلي حتى الانهيار,
+operating time to first failure, ; time to first failure,	الزمن التشغيلي حتى الانهيار الأول, ؛ المدة الزمنية حتى الانهيار الاول,
+operating time; operating duration	زمن التشغيل؛ فترة التشغيل
+operating time; total clearing time	زمن التشغيل
+operating trouble	اضطراب التشغيل
+operating voltage	فلطية التشغيل / جهد تشغيل
+operating voltage (in a system)	جهد تشغيل النظام الكهربي
+operating voltage,	جهد التشغيل, تسخين بالتتبع
+operating weight	وزن التشغيل
+operating with a pusher locomotive	تشغيل بقاطرة دافعة
+operation	تشغيل ، تدوير ، عملية / عملية / تشغيل
+operation (of a mechanical switching device)	عملية-تشغيل
+operation and display system	نظام التحكم والعرض
+Operation and Maintenance Server	خادِمُ تَشْغِيلٍ وَصِيانَةٍ
+operation centre	مركز العمليات
+operation class, (of an amplifying stage)	صنف تشغيل (لمرحلة التضخيم)
+operation control post (on a line regulated by a train control officer)	محطو مراقبة التشغيل
+operation cost	تكلفة التشغيل
+operation counter	عداد التشغيل (العمليات)
+operation indicator	أداة إختبار الخرج (لعدّاد طاقة)
+operation log	كِتاب الأداء (للمُشغّل)
+operation mode	نَمَطُ التشغيل / نمط تشغيل
+operation mode (1)	وضع خدمة الزبناء
+Operation of boolean constants	عملية باستخدام الثوابت البوليانية
+Operation of boolean variables and constants	عملية باستخدام المُتغيِّرات والثوابت البوليانية
+operation of wastewater treatment plants	تشغيل محطات مُعالَجة مياه الصرف الصحيّ
+operation range	نطاق التشغيل
+operation regulations	أنظمة التشغيل
+operation sheet	بيان التشغيل
+operation signals, pl	اشارات التشغيل, جمع
+operation splitting	تقسيم العملية
+Operation with a Boolean variable	عملية باستخدام المُتغيِّرات البوليانية
+operation,	تشغيل,
+operational	جاهز للتشغيل
+operational aircraft	طائرات تشغيلية
+Operational Amplifier	مُضخِّم عملياتي (OpAmp) / مكبر تشغيلى
+operational availability	الإتاحية التشغيلىة
+operational characteristics	مميزات تشغيلية
+operational command	قيادة تشغيلية
+operational concept	مفهوم تشغيلي
+operational control	تحكم تشغيلي
+operational control (1)	إدارة العمليات
+operational control (2)	الإشراف على العمليات
+Operational Control Centre	مَرْكَزُ التَحَكُّمِ التَشْغِيلِيّ
+operational control communication	اتصالات السلطة التشغيلية
+Operational Data Store (ODS)	مخزن البيانات التشغيلية
+operational delay	تأخير بسبب حركة المرور
+operational effect rate	معدل التأثير التشغيلي
+operational evaluation	تقويم تشغيلي
+Operational EXPenditure	النَفَقاتُ التَشْغِيلِيَّة
+Operational Expenditure (OPEX)	إنفاق تشغيلي
+operational factors	عوامل تشغيلية
+operational flightplan	خطة طيران تشغيلية
+operational flowcharts	مُخطَّطات تَتَابُع العمليات
+operational freeboard	خُلُوص التشغيل
+Operational Instruction Form	نَمُوذَجُ التَعْلِيماتِ التَشْغِيلِيَّةِ
+operational insulation	عزل تشغيلى
+operational interchangeability	تبادلية تشغيلية
+operational intertripping	فصل عن بعد تشغيلي
+operational loss or damage	فقد أو عطب تشغيلي
+operational management operation management plant management	إدارة التشغيل
+operational manoeuvrability ceiling	سقف مناورات تشغليلي
+operational mode	نمط تشغيلي
+operational monitoring	مراقبة العمليات
+Operational Noise (Environmental)	الضوضاء الناتجة عن التشغيل
+operational performance categories	طبقات الأداء التشغيلي
+operational phase	طور تشغيلي
+operational planning	تخطيط تشغيلي / تخطيط التشغيل
+operational planning for municipal solid waste management (mswm)	تخطيط تشغيلي لإدارة النفايات البلدية الصلبة
+operational procedure	طريقة التشغيل
+operational readiness	استعداد تشغيلي
+operational readiness training	تدريب الاستعداد التشغيلي
+operational research	بحوث تشغيلية
+operational research; operations research	بحوث العمليات
+operational result	ناتج التشغيل
+operational safety	سلامة تشغيلية
+operational state	وضع تشغيل
+operational stop	توقف تقني
+operational test and evaluation	تقويم واختبار تشغيلي
+operational tripping	فصل تشغيلي
+Operational Vibration (Environmental)	الإهتزاز الناتج عن التشغيل
+Operational Voice Communication	اِتِّصالُ صَوْتٍ تَشْغِيلِيّ
+operations (tech.)	عملية (التشغيل التقنيّ)
+operations center, operational headquarters	مركز العمليات
+Operations command/control system	نظام مراقبة / تحكم في التشغيل
+Operations Command/Control Technique	تقنية المراقبة / التحكم في التشغيل
+Operations Control	التحكم في العمليات
+Operations Control Center	مَرْكَزُ التَشْغِيلِ والتَحَكُّمِ
+operations control centre	مركز مراقبة العمليات / مَرْكَزُ التَحَكُّمِ وتَشْغِيلِ القِطَارَاتِ
+operations control centre; OCC	مركز التحكم فى التشغيل
+operations control HMI	التحكم البشرى البينى فى التشغيل
+Operations Costing Model	نموذج حساب كلفة التشغيل
+Operations Facilities	منشآت التشغيل
+operations manual	كتيب التشغيل
+Operations Process	عملية التشغيل
+operations staff	افراد التشغيل
+Operations: Centralised operations control	تحكم مركزي في التشغيل
+operative	عامل / فعّال
+operator	مُشَغِّل / مُعامل / عامل فني / فاعل (اقتصادي) / مشغل / مشغل أو مستثمر / المُشَغِّلُ / مُشغّل
+operator (according to the German Renewable Energy Act)	مشغل (وفقا لقانون الطاقة المتجددة الألماني)
+operator call-in signal	إشارة طلب تدخل المشغل
+operator function	مهام المشتغل
+Operator of Infrastructure / Infrastructure	مشغل البنية التحتية / مدير البنية التحتية
+Operator Panel; Optical Distribution Frame	لَوْحَةُ المُشَغِّلِ
+operator recall signal	إشارة اعادة طلب المشغل
+operator's control	عنصر استعمال وتشغيل
+operator's licence	رخصة تشغيل
+operator's local representative	ممثل محلي للمُشَغِّل
+operator-based licenses (implementation of las)	تراخيص مبنية على المشغل (تنفيذ نظام ضمان الشرعية)
+ophitic texture	نسيج اختراقي
+opinion score (d'un poste téléphonique)	نتيجة تقييم بالرأي ( لمحطة هاتفية )
+opossum	أبوسوم
+opportunistic species	أنواع انتهازية
+opportunity charging	امكانية الشحن
+opportunity cost	تكلفة الفرصة البديلة الضائعة / تكلفة الفرصة
+opportunity costs	تكلفة الفرصة البديلة
+opportunity fuels	أنواع الوقود البديلة
+opportunity maintenance	صيانة الفرصة المواتية
+opportunity servicing	خدمة الفرصة
+opportunity target	هدف الفرصة
+opposed double-lead screw	لولب مزدوج عكسيّ الحركة
+opposed engine	محرك متضاد
+opposed-piston engine	محرك متضاد المكابس
+opposed; contrarotating	عَكْسيّ
+Opposing Locking	تشابك الإشارات
+opposing locking; opposing interlocking	قفل معكوس
+opposing track, opposite track	اتجاه معاكس
+opposite angles	زوايا متقابلة
+opposite-field therapy	علاج بالمجال المعكوس
+opposition duplex	مزدوج متضاد
+optic axis	محور بصرى؛ محور ضوئى / محور بصري
+optical axis	محور ضوئي
+optical axis,	محور ضوئى, الكشف عن الغاز
+optical beam axis	محور الْحزمةالإشعاعية البصرية
+optical bleaching agent	عامل تبيض بصري
+optical cable assembly; cable assembly	كابل بصري مجمع مجموعة تركيب سلك
+optical cable; optical fibre cable	كابلات ضوئية؛ كابل الألياف الضوئية / كابل بصري / كابل الألياف البصرية - سلك ألياف بصرية
+optical cavity; resonant cavity	تجويف بصرى تجويف رنان
+optical centering	تركيز ضوئي
+optical character recognition	تعرف ضوئي على الحروف
+optical character recognition; OCR	التعرف الضوئى على الاحرف
+optical combiner	موحد بصرى؛ جامع بصري
+optical communications	اتصالات بصرية
+optical constants	ثوابت بصرية
+optical countermeasures	تدابير مضادة بصرية
+optical data bus	ناقل بصري للمعطيات؛ قضيب بيانات ضوئى
+optical detector	كاشف ضوئي؛ كاشف بصرى
+optical distance measuring	قياس مسافات بالطرق الضوئية
+Optical Distribution Network	شَبَكَةُ التَوْزِيعِ الضَوْئِيّة
+optical effect	تأثيرات بصرية
+optical efficiency	كفاءة ضوئية
+optical equipment for sewer inspection	جِهاز فحص بصريّ لشبكات الصرف
+optical extent; etendue	مدى ضوئى
+optical Fiber Diameter Analyser	محلل قطر الألياف البصري
+optical fiber line	خط ألياف بصرية
+optical fibers	ألياف بصرية
+optical fibre	ألياف ضوئية / خيط ضوئي / ليف بصري
+Optical Fibre Cable	سِلْكُ أَلْيافٍ بَصَرِيَّةٍ
+optical fibre connector	موصل ألياف ضوئيه
+optical fibre coupler; (optical) coupler; branching device	رابط ألياف بصريه أداة تفريغ؛ قارن بصري
+optical fibre distribution system	نظام توزيع بالألياف البصريّة
+optical fibre link	وصلة ألياف ضوئية؛ وصلة ألياف بصريه
+optical fibre pigtail; launching fibre	ألياف بصرية ضفيرية ليفية توصيل
+optical fibre splice; splice; optical splice	جدل الالياف الضوئية وصلة بالجدل وصلة بصرية؛ وصلة ضوئية
+optical filter	مرشح ضوئى
+optical guidance	توجيه بصري / توجيه ضوئي
+optical image (in television sc anning equipment)	صورة بصريّة ( في معدات المسح التلفازي)
+optical instrumentation	أجهزة بصرية
+optical landing system	نظام الحط البصري
+optical level measurement	قياس المنسوب بصرياً
+optical light output ratio,	نسبة خرج الضوء البصرى,
+optical line of sight	خط الرؤية البصري
+Optical Line Termination	نِهايَةُ الخَطِّ الضَوْئِيّ
+optical linescan	مسح خطي بصري
+Optical Link Module	وحدة الربط البصرية
+optical link protection	حماية ذات وصلة بصرية
+optical maser	ميزر بصري
+optical measuring system	نظام قياس بصري
+optical micrometer	ميكرومتر ضوئي
+Optical Network Termination	نِهايَةُ الشَبَكَةِ الضَوْئِيَّةِ
+Optical Network Unit	وحْدَةُ الشَبَكَةِ الضَوْئِيَّةِ
+optical path length; phase path length	طول مسار الضوء
+optical path,	مسار ضوئى, الكشف عن الغاز
+optical plummet	شاقول ضوئي
+optical properties	خواص بصرية
+optical pyrometer	مِضْرَم بصري / مقياس درجة حرارة بصري
+optical radiation	إشعاع بصري / إشعاع ضوئي / اشعاع بصرى؛ إشعاع ضوئي
+optical radiation sources	مصادر الإشعاع
+optical rectangle	مستطيل مرئي
+optical reference point	نقطة مرجعية بصرية
+optical regenerative repeater	مكرر تجديدى بصرى؛ معيد ومنشط ضوئي
+optical repeater	مكرر بصرى؛ معيد ضوئي
+optical screen support	سناد شبكة بصرية
+optical sign	علامة بصرية
+optical spectrum	طيف بصري؛ الطيف الضوئي
+optical square	مثلث ضوئي (موشور)
+optical stylus	إبرة بصرية
+optical system	نظام ضوئي
+optical system with interlock "op sh"	نظام ضوئي مع التعشيق برمز"op sh"
+optical system,	نظام ضوئى,
+optical thickness	سمك بصرى؛ السُمك الضوئي
+optical thickness, ; optical depth,	السمك البصري, ؛ العمق البصري
+Optical Time Domain Reflectometer	مِقْياسُ الاِنْكِسارِ لِلمَجالِ الزَمَنِيّ الضَوْئِيّ
+optical time domain reflectometry; OTDR (abbreviation); backscattering technique	المجال الزمني الضوئي لقياس الانكسار تقنية البعثرة الخلفية
+optical turbulence	اضطراب ضوئي
+optical videodisk	قرص مرئي بصري
+optical viewing system	نظام رؤية ضوئية
+optical waveguide	دليل موجي بصري
+optical waveguide (OWG)	دليل موجي بصري (OWG)
+optical window	نافذة بصرية
+optically active material	مادة نشطة ضوئياً
+optically flat panel	لوحة مستوية بصرياً
+optimal colour stimuli, pl	المحفز المثالي للون
+Optimal control	ضبط أمثل / التحكم الأمثل
+optimal control rate	معدل التحكم الأمثل
+optimal density	كثافة (ال..) المثلى
+optimal order quantity	طلبية مثالية
+optimal yield	سحب مثالي
+optimization	استمثال
+optimization criterion	معيار الاستمثال
+optimization drilling service	خدمة الحفر المثلى
+optimization model	نموذج أمثلية
+optimization problem	مُشكلة الاستمثال
+optimize, verb	يحدد الأمثل, فعل
+optimized district heating turbine process	عملية تشغيل مُثلى لعنفة تدفئة الضواحي
+optimized production technology	تكنولوجيا الانتاج المحسن
+optimized profile	مسار أمثل
+optimum angle of attack	زاوية الهبوب المثلى
+optimum density	كثافة مثلى
+optimum gain	الكسب الأمثل
+optimum height	ارتفاع أمثل
+optimum irrigation requirements	احتياجات مائية مُثلَى
+optimum load	الحمل الأمثل
+optimum mechanical tuning range	مدى موالفة ميكانيكى امثل
+optimum output power	قدرة خرج مثلى
+optimum water content	رطوبة (ال...) المثالية
+optimum working frequency; OWF (abbreviation); FOT (abbreviation)	تردد التشغيل الأمثل
+optimum yield (oy)	عائد أمثل
+opting out	تعويض وقتي لبرنامج
+option	خيار / اختيار
+option date	تاريخ اختياري
+option price	سعر الخيار
+option value	قيمة الخيار
+option values	قيم الخيارات
+optional load	حمل اختياري
+optional rules	قواعد اختيارية
+optional train	قطار اختياري
+opto-electronic	إلكترونيات ضوئية / بصري إلكتروني
+opto-electronic conversion function; OECF	دالة تحويل الإلكترونيات الضوئية
+optocoupler	مقرن بصري
+optoelectronic	بصري الكتروني
+optoelectronic device	جهاز اليكترونيات ضوئية
+optoelectronic display	الة عرض كهروبصرية
+optoelectronic receiver	مستقبل إلكترو بصري
+optra test	فحص الأوبترا
+OR	علاقة (ال...) المنطقية (أو) OR
+OR normal form	نموذج العلاقة المنطقية (أو) OR
+oral galvanism	طلاء فمي
+orange	برتقالي
+Orange Force	قوات برتقالية
+orange minerals	معادن برتقالية
+orange peel	سطح بخشونة قشر البرتقال
+orange peel effect	تأثير قشرة البرتقال
+orange peel; pear skin	سطح بخشونة قشر البرتقال
+Oranges Sour	برتقال مُرّ
+Oranges Sweet	برتقال حلو
+orbit	فَلكٌ / مدار
+orbit determination	تحديد المدار
+orbit point	نقطة المدار
+orbital electron capture	احتجاز الالكترون في مداره
+orbital elements	عناصر مداريّة / عناصر مدارية
+orbital parameters	متغيرات مدارية
+orbital period	فترة مدارية
+orbital plane (of a satellite)	مستوي مدار (لقمر صناعي)
+orbital quantum number; second quantum number	عدد كَمّي مداري
+orbital rendezvous	لقاء مداري
+orbital road	طَرِيق مَدَارِي
+orbital sander	مجلخة ترددية
+orbiter	عربة مدارية
+orchard	بستان
+order	رتبة / ترتيب / أَمْر
+order / sequence / succession	تَتابُع
+order book	سجل الطلبات
+order costs	تكاليف الطلبية
+order cycle system	نظام دورة الطلبية
+order of accuracy	درجة الدقة
+order of architecture	طراز معماري
+order of departure	ترتيب المغادرة
+order of differential equation	درجة المعادلة التفاضلية
+order of diversity	درجة التباين
+order of magnitude	رتبة الكبر
+order picking	إنتقاء الطلبيات
+order picking forklift truck, man-rising order picker	شاحنة رافعة شوكية مستعملة من أجل إنتقاء الطلبيات
+order picking with mobile data terminals	إنتقاء الطلبيات عن طريق محطة بيانات متنقلة
+order release	إطلاق الطلبية
+order sequence concept	مفهوم تسلسل الطلبيات
+order signal	إشارة أمر
+order status	وضع الطلبيات
+order,	ترتيب (لنظام متماثل متعدد الاطوار)
+order-picking system	نظام انتقاء الطلبيات
+ordinal quantity	كمية ترتيبية
+ordinal value scale	مقياس كمية ترتيبية
+ordinary luminaire	جهازإضاءة عادى
+ordinary person	شخص عادى
+ordinary red bricks	آجر أحمر عادي
+ordinary wave (component)	موجة عادية (مركبة)
+ordinate	ترتيب / إحداثي رأسي
+ordinate; vertical aXis	محور رأسي
+ordnance	معدات مدفعية
+ordnance devices	أجهزة مدفعية
+ordnance work rate	معدل العمل المدفعي
+ordovician period	عصر أوردوفيسي
+ore	خام
+ore assay	مقايسة الخام
+ore carrier	ناقلة خام
+ore deposit	راسب الخام
+ore dressing	تجهيز الخام
+ore wagon	عَرَبَة الخام
+ore-bulk-oiler (OBO)	ناقلة نفط وخام سائب (فرطي)
+ore-oiler (OO)	ناقلة خام ونفط
+organ	عضو
+organ bench	مقعد أز مصطبة الأرغن
+organ system	نظام جهاز
+organdy	أرجاندي
+organelle	عضية
+organic	عضوي / جزء أساس
+organic agriculture	زراعة عضوية
+organic agriculture (oa), biological farming	زراعة حيوية; زراعة بيولوجية
+organic agriculture action plan	خطة عمل الزراعة العضوية
+organic agriculture market; organic market	سوق; عضوية سوق الزراعة العضوية
+organic agriculture principle	مبدأ الزراعة العضوية
+organic agriculture standard	معيار الزراعة العضوية
+organic and fair trade	تجارة عضوية وعادلة
+organic aquaculture	تربية مائية عضوية
+organic breeding	تربية عضوية
+organic by intent	عضوي مقصود
+organic carbon	فَحْم عضويّ / كربون عضوي
+organic carbon (soil)	كربون عضوي (تربة)
+organic certification	شهادة المادة العضوية
+Organic chlorine compounds	مركبات الكلور العضوية
+organic clutch lining	بطانة عضوية للقابض
+organic commodity; organic product	منتج عضوي; سلعة عضوية
+organic community	مجتمع عضوي
+organic components	مكوّنات عضوية
+organic compounds	مركبات عضوية
+organic consumer	مستهلك منتجات عضوية
+organic conversion	تحويل عضوي
+organic cotton	قُطن عضوي
+organic cotton / organically grown cotton	قُطن عضوي
+organic cotton growing	زراعة عضوية للقُطن
+organic ecosystem management	إدارة النظام البيئي العضوي
+organic electroluminescence display (OEL)	شاشات بتقنية الضيائية العضوية
+organic export	مزرعة عضوية
+organic farm	مزرعة عضوية
+organic farm-house; bio- ecotourism; organic agritourism	بيت سياحة إيكولوجية بيولوجية; المزرعة العضوية سياحة زراعية عضوية
+organic farmer	مزارع عضوي
+organic fertilization	تسميد عضوي
+organic field	حقل عضوي
+organic food processing	معالجة عضوية للأغذية
+organic fouling	ترسبات عضوية على الأغشية
+organic grassland	مرج عضوي
+organic guarantee system (ogs)	نظام الضمان العضوي
+organic horizon	أفق عضوي
+organic horizons	آفاق عضوية
+organic importer	مستورد منتجات عضوية
+organic label	بطاقة عضوية
+organic land	أرض عضوية
+organic legislation	تشريع عضوي
+organic loading	تحميل عضويّ
+organic manure	سماد عضوي
+organic matter	مواد عضوية / مادة عضوية
+organic matter decomposition	انحلال المادة العضوية
+organic minerals	معادن عضوية
+organic nitrogen	آزوت عضويّ
+organic part	جزء عضوي
+organic pasture	مرعى عضوي
+organic pest management	مكافحة عضوية لآلفات
+organic phosphites	فوسفيتات عضوية، ضروب الفوسفيت العضوية
+organic phosphorus	فوسفور عضويّ
+organic polluants	مُلوِّثات عضوية
+Organic pollutants	ملوثات عضوية
+organic post harvest handling	معالجة عضوية بعد الحصاد
+organic price premium	عالوة سعر المنتجات العضوية
+organic processed food	غذاء مصنّع عضويًا
+organic Rankine cycle	دورة رانكين العضوية
+organic Rankine cycle (ORC) process	طريقة دورة رانكين العضوية
+organic Rankine cycles	دَوْرات رانكِينْ العضوية
+organic recycling; biological recycling	إعادة تدوير عضوية؛ إعادة تدوير بيولوجية
+organic reference standard	معيار المرجع العضوي
+organic retailer	بائع المنتجات العضوية بالتجزئة
+organic school garden	حديقة مدرسية للزراعة العضوية
+organic sector	قطاع عضوي
+organic silt	طِين
+organic soil	تربة عضوية
+organic soil fertility management; organic soil management	إدارة التربة العضوية إدارة خصوبة التربة العضوية
+organic soils	تربة عضوية
+organic supply chain; organic supply system	نظام الإمداد; العضوي سلسلة إمداد عضوي
+organic technical regulation	أنظمة تقنية عضوية
+organic textiles	منسوجات حيوية
+organic trade	تجارة عضوية
+organic urban garden	حديقة عضوية حضرية
+organic waste	نفايات عضوية
+Organic-Rankine-Cycle	نظام بدورة رانكين العضوية / دورة رانكين العضوية (ORC)
+organic-vapour-quenched counter tube	صمام عداد مخمدة بالبخار العضوى
+organically managed land	أرض مدارة عضويًا
+organisation	منظمة
+organisation of raw materials producers	منظمة منتجي المواد الأساسية
+Organisational & Manpower	دائرة التنظيم والقوة العاملة
+organisational aspects	جوانب تنظيمية
+organisational functions	مهام تنظيمية
+organism	كائن حيّ / كائن حي
+organism, aerobic	أحياء دقيقة هوائية
+organism, autotrophic	أحياء دقيقة ذاتيّة التغذية
+organism, faecal coliform	قُولُونات بُرازِية
+organism, scouring	أحياء دقيقة مُنظِّفة
+organization	منظمة
+Organization for Economic Cooperation and Development	منظمة التعاون الاقتصادي والتنمية (OECD)
+organization module	وحدة التنظيم
+organization of african unity (oau)	منظمة الوحدة الأفريقية
+organization of economic cooperation and development	منظمة التعاون الاقتصادي والتنمية
+Organization of Petroleum Exporting Countries	أوبك
+organization of petroleum exporting countries (opec)	منظمة الدول المصدرة للنفط (أوبك)
+organization of petrolum exporting countries,(O.P.E.C)	منظمة الأقطار المصدرة للنفط
+organization of world heritage cities (owhc)	منظمة مدن التراث العالمي (OWHC)
+organization system	نظام التنظيم
+organizational change	تغيير تنظيمي
+organizational layer	مستوي الهيكل التنظيمي
+organized noise waves	مَوْجات لَغَطِية مُنتظِمة
+organo-argillan	عضوي طيني
+organo-mineral complexes	مُركَّبات عضوية معدنية
+Organochlorine compounds	مركبات الكلور العضوية
+organoclay	طين عضويّ
+organoleptic	وسائل تقييم حسى
+organometallic	عضوي معدني
+organza	أورجانزا
+Organzin	أورجانزين
+oriel window	مشربية
+orient (to)	وجّه
+Oriental rug	سجاد شرقي
+Orientation	توجيه / تحديد الوجهة
+orientation elements	عناصر التوجيه
+orientation flat ; OF	مسطح التوجه؛ المسطح الرئيسى
+Orientation of molecular chains (in chemical fibres and filaments)	توجيه السلاسل الجزيئية (في الألياف والخيوط الصناعية)
+orientation range	مدى التوجية
+oriented business	أعمال موجَّهة
+oriented strand board (osb)	ألواح من صفائح رقيقة موجهة
+orifice	فتحة / فتحة، ثُقْب
+orifice fish ladder / pool and orifice fishway / submerged jet fish ladder	سلم سمك ذو حوض وفوهة
+orifice flange	شَفَة بفتحة
+orifice meter	مقياس التدفق الفوهي / مقياس صبيب ذو غشاء
+orifice plate	مقياس الفوهة / حِجاب، لوحة مثقوبة
+orifice spark advance control	نظام التحكم في الضبط المُبكر
+origin	منشأ / أصْل / نقطة الأصل
+origin (of a call attempt)	مصدر
+origin dwell	سكن أصلي
+origin incentive	حافز أصلي
+origin of the electrical installation	نقطة التغذية للتركيبات الكهربية؛ نقطة التغذية لمنشأة كهربية
+origin ramp	منحذر أصلي
+original edition	طبعة أصلية
+Original Electricity Feed Law / entry into force (I, p. 2633-2634)	قانون التزويد بالكهرياء / الدخول حيز التنفيذ (ط، ص 2633-2634)
+original equipment manufacturer	منصع ااتجهيزات الأصلية / جِهَةُ التَّصْنِيْعِ الأَصْلِيَّةِ / مُصّنِع الأجهزة الأصلي(OEM)
+original heat	حرارة النشأة الأولى
+original list	قائمة أصلية
+original material	المادة الأم
+original plate	صفيحة(ال...) الأصلية، الصفيحة الأم
+original soil	تربة أصلية
+original text	نص أصلي
+original-referred image state	وضع الصورة بالنسبة للأصل؛ حالة الصورة بالنسبة للأصل
+originating	إبتداء
+originating traffic	مصدر الاتصالات
+originator	المُنْشِئ
+orle	عرق تاجي
+ornament	زخرفة / حلية، زُخرُف
+ornament boughs	أغصان التزيين
+ornamental moulding	تشكيلات زخرفية / قولبة زخرفية
+ornamentation; decoration	زخرفة، تجميل
+ornaments	زخارف
+ornithopter	طائرة خفّاقة / طائرة مُرَفْرِفَة
+orogenesis	نشوء الجبال
+orogenic movement	حركة نشوء الجبال، حركة بانية للجبال
+orogeny	تَكَوُّن الجبال
+orografic	جبلي
+orographic	جَبَلي
+orographic rain	مطر جَبَلي
+orography	وَصْف التضاريس
+ORP (Oxidation Reduction Potential)	جهد اختزال الأكسدة
+Orphan Source	مصدر يتيم
+orpiment	أوربيمنت
+Ortalion	أورتاليون
+orthicon	صمام تلبفزيوني لاقط
+orthoamphibole	أرثوأمفيبول
+orthoclase	أورتوز / أرثوكليز
+orthodiagraphy	تصوير متعامد
+orthogonal	عمودي / متعامد
+orthogonal aerial	هوائي متعامد
+orthogonal axial system,	نظام المحاور المتعامدة للكوارتز
+orthogonal biplane	طائرة ثنائية متعامدة
+orthogonal channels	قنوات متعامدة
+orthogonal co-channel, adj; orthogonal co-frequency , adj	قنوات مشتركة تعامدية
+orthogonal grid	شبكة متعامدة
+orthogonal matrix	مصفوفة عمودية
+orthogonal modes	أنماط متعامدة
+orthogonal polarization, ; DEPRECATED: cross polarization	استقطاب متعامد,
+orthogonal polarization, ; DEPRECATED: cross-polarization	استقطاب متعامد,
+orthogonal projection	إسقاط عمودي
+orthogonal sampling	أخذ العينات المتعامد
+orthogonal scanning	مسح متعامد
+orthogonal, adj	متعامد
+orthographic projection	إسقاط متعامد
+orthographie projection	إسقاط عمودي، إسقاط المقطع العمودي
+orthometric correction	تصحيح أورتومتري
+orthometric height	ارتفاع أورتومتري
+orthomode transducer	مبدل متعامد الشكل
+orthopaedic neck pillow	وسادة الرقبة الطبية
+orthopaedic seat [UK] / orthopedic seat [US]	مقعد مريح للعظام
+orthorhombic minerals	معادن المعيني المستقيم
+orthorhombic system	نظام معيني مستقيم / نظام (ال..) المعيني القائم
+orthormorphic projection	إسقاط كروي متعامد
+orthoscope	أرثوسكوب
+orthotropic	مستعمد
+orthotropic plate	لَوحَة مُتَعَامدة
+orthotropic plate floor	سَقْف مستعمد
+orthpyroxense	بيروكسين معيني قائم
+ortstein	طبقة صماء
+oscillated hemp	قنب مؤرجح
+oscillating arm	ذِراع تردديّة
+oscillating piston	مِكْبَسُ مُتذبذِب
+oscillating roller	أسطوانة ساحقة
+oscillating, adj	متذبذب
+oscillation	اهتزاز / تذبذب؛ ذبذبة
+oscillation energy	طاقة التذبذب
+oscillation period in unstable, unsteady regulations	مدّة الدور في الضبط اللامستمر
+oscillation resistance	مقاومة الاهتزاز
+oscillator	ذراع ترددي / مُذبذب / مذبذب / مُذَبْذِب
+oscillator; shaker	هزّاز
+oscillatory circuit	دارة مهتزة
+oscillogram	رسم تذبذبي
+oscillograph	مرسام ذبذبات / مشواف (مبين) ذبذبات / راسم الاهتزاز
+oscillograph chart	رسم تذبذبي (أوسيلوجرام)
+oscillogyro	جيرو تذبذبي
+oscilloscope	أوسّيلوسكوب / جهاز (قياس) تسجيلي / راسم الذبذبات / منظر الاهتزازات
+oscilloscope tube; oscillograph tube	صمام راسم الاشارة
+OSI model	نموذج ترابط النظم المفتوحة (OSI)
+OSI Reference Model	مرجع (ال...) الأساسي لترابط الأنظمة المفتوحة
+osmosis	تناضح / انتشار غِشائيّ / تَنَاضُح، ارتشاح غشائي، الأزموزية / تناضُح أسموزيّ / نضح
+osmotic	تَنَاضُحِي، أسموزي / ارتشاحي
+osmotic equivalent	مُكافئ تناضُحيّ / مكافئ الانتشار الغشائيّ (التناضحيّ)
+osmotic membrane	غشاء أسموزي
+osmotic power plant	محطة توليد تناضحي للكهرباء
+osmotic pressure	الضغط الأسموزي / ضغط تناضحي
+Oswatitch inlet	مدخل أُسواتِتْش
+other fixed works costs	تكاليف لأعمال ثابتة أخرى
+other forest types (fsc)	أنواع أخرى من الغابات (مجلس الإشراف على الغابات)
+other workers (at an establishment using ionizing radiation)	عمال آخرون (في مؤسسات تستخدم الاشعاع الايوني)
+other-information system,	نظم المعلومات الأخري, المعيشية النشطة
+otolith	الحُصَيّة الأُذُنيّة
+otter	فرو القضاعة
+Otto cycle	دورة أوتو / دَوْرَة أُوتُو
+Ottoman	نسيج تركي
+out board motor oil	زيت للمحركات الخارجية في الزوارق
+out of alignment	مختل المُحاذاة
+out of phase	متفاوت الطور
+out of phase; out of step	غير متزامن
+out of pitch	مختل الخطوة
+Out of Service (Train)	قِطارٌ خارِجَ الخِدْمَةِ
+Out of Service (Vehicle)	عَرَبَةٌ خارِجَ الخِدْمَةِ
+out of step	مختل الدرجة
+out of track	مختل المسار
+Out of Use	خارِج نِطاقِ الاِسْتِعْمالِ
+out port	ميناء خارجي
+out ward freight	نَوْل الخروج
+out-band signalling	تأشير خارج النطاق
+out-of-(allocated) band emission	بث خارج النطاق (المحدد)
+out-of-area subscriber's line; foreign exchange line	خط مشترك خارج المنطقة
+out-of-band emission	بث خارج النطاق
+out-of-band power	قدرة خارج النطاق
+out-of-band spectrum	طيف خارج النطاق
+out-of-commission signal	إشارة خارج العمل
+out-of-control lights	أضواء عدم التحكم
+out-of-frame-alignment time	زمن فقد محاذاة اطار
+out-of-step operation	تشغيل خارج التزامن؛ تشغيل خارج التوافق
+out-offmeander (out-of meander)	ذراع ميت
+out-slot signalling	تأشير خارج الحيز
+Outage	إغلاق/توقف عن العمل
+outage gauge	قياس ارتفاع السائل في خزان
+outage occurrence	حدث الخروج
+outage rate	معدل الخروج
+outage rate,	معدل الخروج,
+Outage service	انقطاع الخدمة
+outage,	خروج,
+outage; unavailability	انقطاع ؛ عدم الاتاحية
+outboard	برّاني / خارجي
+outbound	باتجاه الخارج
+outbound radial	قُطرياً للخارج
+outburst	تَفَجُّر
+outcome / result	نتيجة
+outcrop	تَسَطُّح
+outdoor bed	سرير صيفي
+outdoor bushing	عازل نفاذ خارجي (عارضة خارجية)
+outdoor carpet / outdoor rug	سجاد خارجي
+outdoor coat	ملابس عملية
+outdoor coat / all-weather coat	معطف شتوي
+outdoor condition	الظروف الخارجية
+outdoor exposure,	التعرض الخارجى, تسخين بالتتبع
+outdoor jacket	سترة الرحلات
+outdoor lighting	إضاءة خارج المباني
+outdoor meter	عدّاد داخل المباني
+outdoor post insulator	عازل دعامة خارج المبانى
+outdoor recreational resources	أصقاع تنزهية
+outdoor shirt / shirt jacket	قميص منزلي
+outdoor substation	محطة محولات خارج مبنى
+outdoor switchgear and controlgear	أجهزة تحكم وفصل وتوصيل خارجي
+outdoor termination	نهاية للإستخدام خارج المبنى
+outdoor, adj	خارجي
+outdoor-immersed bushing	عازل نفاذ مغمور كليا
+outdoor-indoor bushing	عازل نفاذ ذو موصل قابل للنزع عارضة ذات موصل قابل للنزع
+outer (error code) check data	بيانات فحص (شفرة الخطأ) الخارجي
+outer (error correction) code; outer ECC	شفرة (تصحيح الخطأ) خارجية
+outer basin	حوض خارجي
+outer code block	مجموعة شفرة خارجية
+outer conductor	موصِل خارجي
+outer connection	وُصْلة خارجية
+outer continetal shelf	رصيف (ال...) القاري الخارجي
+outer core barrel	أنبوب (ال...) الخارجي لجهاز الاعتيان، أنبوب(ال…) الخارجي لجهاز التقوير
+outer cover	غلاف خارجي
+outer dead centre [UK] / outer dead center [US]	النقطة الميتة السُفلى
+outer diameter of the recorded surface	قطر خارجي للسطحِ المسجّلِ
+outer dike	سدّة خارجية / حاجِز واقٍ
+outer distant signal	إشارة خارجية عن بعد
+outer fiX	نقطة الإرشاد الخارجية
+outer harbour	ميناء خارجي
+outer light	ضوء خارجي
+outer loop	حلقة خارجية
+outer marker	علامة خارجية
+outer panel	لوحة خارجية
+outer separation	فاصل خارجي
+outer skin panel	لوح خارجي لهيكل السيارة
+outer space	فضاء كوني
+outer surface	مساحة خارجية
+outer water gauge	مِقياس خارجيّ لمنسوب المياه
+outerwear	ملابس الخروج
+outerwear / outer clothing	ملابس خارجية
+outfall	المصب / مصب / قناة خروج / مَصبّ / مَصْرِف
+outfall / outlet / drain	مَنفَذ
+outfall structure / outfall works / outlet works	منشآت المخرج
+outfall valve	صمام التصريف الخارجي
+outflanking	فَيْض جانبيّ
+outflow	جريان الى الخارج / سَيلاَن / تدفق خارج / تدفق
+outflow meter	مقياس تدفّق الخرج
+outflow pattern	شكل الدفق الخلفي
+outflow region; drainage area	مِنطقة صْرف
+outflow valve	صمام الدفق الخارجي
+outgassing	تفريغ الغازات
+outgate	إزاحة/ إخراج
+outgoing	صادر (خروج)
+outgoing circuit	دارة تصدير
+outgoing feeder	مغذى خروج
+outgoing only terminal	طرف خروج فقط
+outgoing traffic	اتصالات صادرة
+outgroup	مجموعة خارجة
+outler	مخرج
+outlet	مَخرَج / قدرة الصرف / مخرج
+outlet box	صندوق مخرج / صندوق المقابِس، علبة الخروج
+outlet channel / discharge channel	مَخْرَج تفريغ
+outlet channel / outlet ditch	مصرف نهاية
+outlet channel, regional	مَصْرِف مِنطقة
+outlet cock; blow-out cock	صنبور تصريف، محبس تفريغ (أو تصريف)
+outlet connection / outlet branch	وُصْلة تصريف
+outlet controlled cooling system	نظام تبريد محكوم المخرج
+outlet funnel, discharging funnel	قُمع تصريف
+outlet pipe	أُنْبوب صَرْف / أنبوب تفريغ، أنبوب انطلاق
+outlet pipe for sedimentation tanks	أُنْبوب صَرْف لأحواض الترسيب
+outlet port	فتحة الخروج
+outlet rill; drainage terrace	مَصْرِف اعتراضيّ
+outlet sketch	مُخطَّط إجمالي
+outlet sleeve	فوهة برقبة
+outlet structure	مُنشأة تصريف
+outlet temperature sensor for floor space	حسّاس درجة حرارة خرج الدفق في حيز الأقدام
+outlet valve / discharge valve	صِمام تفريغ
+outlet wing wall	حائط الجناح الخلفيّ
+outlet works	مُنشأة تصريف
+outlet, combined water	مَخرج المياه المُختلِطة
+outlet, stormwater	مَخرج مياه الأمطار
+outlet; outfall	مَصْرِف (هندسة الصرف الصحيّ)
+outlier	قَارَة شاهدة
+outline effect	تأثير اعلى حواف الصورة
+outline letters	حروف محدّدة
+outline marker light	ضوء تحديد الأبعاد الخارجية
+outpost drilling	حفر آبار في مواقع متباعدة
+outpost well	بئر امتدادية
+output	مُخرَجات / خَرْج / مخرجات
+output / performance / capacity	أداء
+output admittance	سماحية خرج / سماحية الخرج
+output at the draw-bar	خرج على قضيب الجر
+output at the wheel rim	خرج على حافة العجلة
+output backoff	تراجعُ الخرج
+output break circuit	دائرة خرج فاصلة
+output break circuit (for elementary relays)	دارة خرج مفصولة (للمرحلات البسيطة)
+output cable	كبل توصيل الخرج
+output capacitance,	السعة الخارجة ؛ سعوية الخرج
+output circuit	دارة الخرج / دائرة المخرج
+output circuit,	دائرة خرج, لمُرَحِّل قياس او نظام وقاية
+output current	إشارة خرج / تيار الخرج ، تيار المخرج
+output current of a measuring transducer	تيار خرج مُحوِّل قياس
+output device, ; output unit,	وحدة إخراج,
+output element	عنصر خرج
+output equation	معادلة خرج
+output function	دالة خرج
+output immittance	قبولية معاوقة خرج
+output impedance	معاوقة خرج / ممانعة دخل / ممانعة ( معاوقة) الخرج / معاوقة الخرج
+output level	درجة الضبط / مستوى الخرج
+output level instability	عدم استقرار مستوى الخرج
+output make circuit	دائرة خرج موصلة
+output make circuit (for elementary relays)	دارة خرج موصولة (للمرحلات البسيطة)
+output matrix	مصفوفة خرج
+output module	وحدة الإخراج
+output of a motor vehicle	خرج محرك المركبة
+output of centrifuge	خَرْجُ جِهاز طَرْد مركزيّ
+output port	منفذ خرج / مرفأ المخرج
+output power	قدرة خرج / قدرة الخرج
+output power (for WTGS)	قدرة الخرج ( لنظام مولد بعنفة طاقة الرياح)
+output power (of a machine)	قدرة الخرج (لآلة)
+output power control	تحكم في قدرة الخرج
+output scattering variable; output wave quantity	متغير تبعثر الخرج
+output signal	القيم القصوى المسموح بها لتيار وجهد الدخل
+output signal (of a transmission system); received source signal	إشارة خرج (نظام إرسال)
+output signal of a measuring transducer	إشارة خرج مُحوِّل قياس
+output signal,	إشارة خرج, لمُرَحِّل قياس او نظام وقاية
+Output span	مدى الخرج
+output state	تدفّق فائض
+output terminal	طرف خرج
+output transfer rate	معدل تحويل الخرج
+output tube	صِمام نهائي، مصباح خروج
+output unit	وحدة الإخراج
+output variable	متغير خـرج
+output variable initial quantity	مُتغيّر خرج
+output vector	مُتجه الخرج
+output voltage	جهد خرج
+output voltage; load voltage	جهد الخرج؛ جهد الحمل
+output,	خرج,
+output, adj	خرج (صفة)
+output-feedback control	التحكم فى التغذية المرتدة للخرج
+output-referred image state	وضع الصورة بالنسبة للخرج؛ حالة الصورة بالنسبة للخرج
+outputs	مُخْرَجَات
+outreach program	برنامج الانتشار
+outrigger	ذراع امتداد / مِسْنَد
+outside air	هواء خارجيّ / هواء خارجي
+Outside air damper	مُخمِّد الهواء الخارجي
+outside bevel gouge	مظفار خارجي الميل
+outside broadcast equipment	معدات البث الخارجي
+outside broadcast vehicle	عربة بثّ خارجي
+outside broadcast; ОВ (abbreviation)	بث خارجي
+outside diameter, (O.D.)	قُطْر خارجي
+outside diameter, external	قُطْر (ال...) الخارِجي الإسميّ
+outside door handle electronic system	إلكترونيات مقابض الأبواب الخارجية
+outside door handle electronics	إلكترونيات المقبض الخارجي للباب
+outside gouge	مظفار طرفي
+outside loop	أُنشوطة خارجية
+outside pipe diameter; outside diameter of pipe	قُطْر خارجِي للأنبوب
+outside roll	عُطوف خارجي
+outside slope / slope, outer	جدار منحدر خارجي
+outside temperature	درجة الحرارة الخارجية
+outside wing	جناح خارجي
+outskirts / fringe area	قِطاع خارجيّ / نِطاق مُحيط
+outsourcing	إسناد الأعمال لشركات خارجية
+outspin yaw	انعراج دوّامي
+outstation; controlled station ; remote station; slave station	محطة تمرير
+outstep well; step-out well	بئر تعيينية (لتعيين امتداد الحقل)
+outturn sheet	عينية نموذجية
+outward charges	رسوم المغادرة
+outward voyage	رحلة الذهاب
+oval	بَيْضاويّ
+oval-gear meter	عدّاد التروس البيضوية
+oval-shaped arch	قوس بيضية
+ovalization	بيضاوي
+oven	فرن
+oven controlled crystal oscillator ; OCXO	مذبذب بلورى محكوم حراريا
+oven-dried	مُجفَّف بالفرن
+over	انتهى / حَوِّلْ
+over and short, (O&S)	زيادة و عجز
+over board valve	صِمام تفريغ ماء البحر
+over consolidated clay	غُضَار شديد التماسك، صَلْصَال شديد التماسك
+Over Current Protection	جهاز حماية ضد زيادة التيار
+over development	تظهير مفرط
+over flight report	تقرير التحليق
+over fold	طية متكئة
+over impression	فرط الضغط الطباعي
+over load	حِمْل زائد
+over moded waveguide	دليل موجة فوقي النمطية
+over the fence	فوق السور
+over the horizon	فوق الأفق
+over the road	على الطريق
+over the weather	فوق الطقس
+over vitrification	فَوْق التزجج
+over-compounded	مركب زائد؛ مركب مفرط
+over-counterweight shutter	مِصراع ذو ثقل موازن علوي
+over-exposure ratio	نسبة التعرض الزائد
+over-fertilisation of aquatic ecosystem	خصوبة عالية للنظام البيئي المائي
+over-lapping order	رتبة متداخلة
+over-population	اكتظاظ بالسكان
+over-pour run; over-shot run	تَدفُّق من أعلى
+over-ride; overriding royalty	ريع استثنائي (مخالف للاتفاق)، ريع إضافي (1/14 من الانتاج عادة)
+over-shot run; over-pour run	صرف جارِ
+over-synchronous braking	كبح بواسطة تزامن زائد
+over-the-knee socks	جوارب فوق الركبة
+over-the-shoulder delivery	توصيل على الكتف
+over-voltage; over-tension	إرتفاع الجهد
+over... relay	مُرَحِّل ارتفاع...
+overall blade force	أداء قوة الشفرة
+overall channel unbalance	عدم توازن كامل القناة
+overall efficiency	كفاية إجمالية / كفاءة / فعالية إجمالية / فعّالية كلية / مردود كلي / كفاءة إجمالية
+overall efficiency / water conveyance and delivery efficiency	كِفاية إجمالية
+overall efficiency of separate heat and power (SHP)	كفاءة إجمالية للأنظمة مُنفصلة الحرارة والقُدرة (SHP)
+overall energy efficiency; total thermal efficiency	كفاءة الطاقة الكلية؛ كفاءة حرارية كلية
+overall exergy efficiency	كفاءة صافية كلية
+overall frequency tolerance	السماحية الكليه للتردد
+overall height	ارتفاع اجمالي
+overall length	طول كلي
+overall mean velocity	مُتوسِّط إجماليّ السرعة على المقطع المستعرض
+overall response time (in telecontrol)	سعة معلوماتية ( في التحكم عن بعد )
+overall transfer time (in telecontrol)	زمن كلي للاستجابة ( في التحكم عن بعد )
+overall travel speed	سرعة الانتقال الإجمالية (متوسط السرعة)، سرعة الانتشار الكلية
+overall travel time	زمن الانتقال الإجمالي
+overall uniformity of road surface luminance	إضاءة كلية منتظمة لسطح الطريق
+overalls	مـِشمل
+overalls / jumpsuit	بذلة الورشة
+overalls / white coat / laboratory coat	وزرة
+overbalanced	زائد التوازن / فاقد التوازن
+overbank flow channel	قناة فيضية
+overbark	حجم باللحاء
+overblouse	رداء فوقي
+overbooking	حجز متجاوز
+overbreak	تجويف مُتجاوز القطع (خارج البروفيل)
+overbuilt	زائد المتانة
+overburden	تُرَب سطحية / تربة الغطاء / غطاء صخريّ / غطاء، رَدْم، تربة محمولة (فوق التربة الأصلية) / ركام
+overburden pressure	ضَغْط التحميل / ضغط الغطاء الصخري
+overburden velocity	سرعة الردم، سرعة في طبقات علوية
+overburn	حرق مفرط
+overcharge	الشحن الزائد
+overcoat	معطف خارجي
+overcompaction	رصّ مُفرِط
+overcompensation ban	حظر إفراط في التعويض
+overconsolidated	تربة سابقة الانضغاط
+overconsumption	استهلاك مفرط
+overcontrol	تحكم مفرط
+overcrusted horizon	أُفُق مُغلَق بقشرة
+overcrusting	غَلْق بقشرة
+overcurrent	إرتفاع التيار / تيار زائد / تجاوز التيار
+overcurrent blocking device	الجهاز المانع لتجاوز التيار
+overcurrent discrimination	تمييز التيار الزائد
+overcurrent protected pole; protected pole	قطب محمي (من زيادة التيار) (لقاطع دارة)
+overcurrent protection	حماية التيار الزائد / حماية بتجاوز التيار
+overcurrent protective device	جهاز وقاية من التيار الزائد؛ جهاز حماية ضد زيادة التيار
+overcurrent relay	مرحل زيادة التيار / مرحّل تجاوز التيار
+overcurrent release	اعتاق بزيادة التيار
+overcurrent unprotected pole; unprotected pole	قطب غير محمي (من زيادة التيار) (لقاطع دارة)
+overcut	شِقّ دائِري
+overcutting	قطع زائد
+overdammed backwater; exceptional water level	حمل طارئ
+overdesigned	مصمم بإفراط
+overdevelopment	استغلال مُفرِط (إجهاد)
+overdevelopment, local	إجهاد مَحليّ
+overdoor	أعلى الباب
+overdraft	سحب مفرط
+overdraft; overexploitation	استنزاف
+overdress	فستان فضفاض
+overdrive	مضاعفة السرعة / قيادة فائقة (أوفردرايف)
+overdry	جاف تماما
+overdyes	صبغات زائدة
+overexcitation	إثارة مفرطة
+overeXpanded nozzle	فوهة مفرطة التمدد
+overexploitation	استنزاف / استغلال مفرط
+overexploitation of groundwater resources	استنزاف مُسْرِف لمَصَادِر المياه الجَوفِيَّة
+overexposure	تعريض مفرط (للضوء)
+overfall, free	فَيْض تام
+overfall, submerged	هدّار غاطس
+overfall; overflow	مَسْقَط مياه السد
+overfall; overflow; overflow structure; spillway	مخلص (مجرى المياه الزائدة)
+overfire air; secondary air (grate)	هواء ثانويّ
+overflight	تحليق (فوق) / طيران فوقي
+overflight charges	رسوم التحليق
+overflight clearance	ترخيص بالتحليق
+overfloor hydrant	صنبور اطفاء الحريق/ أو صنبور مياه حريق
+overflow	زمن أخذ القراءة / فائص
+overflow (in telegraphy)	تدفق زائد (فى الإبراق)
+overflow channel	قناة الفيض
+overflow dam / overfall dam	سَدٌّ انسكابيّ
+overflow density current	تيارات الكثافة العليا
+overflow dike	حاجز حماية جزئيّ / سَدّ الفائض
+overflow hight; overflow hight	عُلُوّ أمام الهدّار
+overflow meter	عداد للمكالمات الزائدة
+overflow oil line	وصلة الزيت المُتسرب
+overflow pipe	أنبوب الفائض
+overflow polder	مُنْخَفَض صيفيّ / مُنْخَفَض الفَيْض
+overflow position	موضع تدفق زائد
+overflow rainfall intensity	تصريف (ال...) النوعيّ للمطر
+overflow rate (OFR)	مُعدَّل الجريان الفائض
+overflow route; spill-over route (US)	مسار الفائض
+overflow spillway / ogee type spillway	مخلص منعكس المنحنيين
+overflow spillway; ogee type spillway	مَخْلص حر / مخلص مزدوج المنحنيين
+overflow structure for settled combined water	مَفِيض حوض المياه المختلطة
+overflow threshold; spill threshold	عَتَبَة الفيض
+overflow traffic	فيض حركة الإتصالات
+overflow turbidity current	تيارات العَكَر المتدفقة
+overflow valve	صِمام الفائض
+overflow weir	هَدّار الفائض
+overflow-pipe	أنبوب الفائض
+overflowing sheet of water	صفيحة ماء
+overfly	يطير فوق
+overfrequency	تردد مُفرط
+overgauge hole	حُفْرة ذات قُطر داخلي فوق المعدَّل
+overgrazing	رعي جائر
+overhang packing	حشوة الجزء البارز
+overhanging (flying)	معلّق
+overhanging beam	جائز معلّق
+overharvest	حصاد مفرط
+overhaul	تعديل / إصلاح
+overhaul; overtaking; pass	تجاوز
+overhead	مصاريف غير مباشرة
+overhead approach	اقتراب علوي
+overhead baggage-compartment	قِمْطَر الأمتعة
+overhead condenser	مُكثِّف المنتجات العلوية (الرأسية)
+overhead contact line; catenary	خط تلامس هوائي
+overhead conveyor	ناقل رأٍسي
+overhead costs	تكاليف عامة
+overhead crossing	تقاطع هوائي
+overhead door	باب قلاّب
+overhead earth wire; overhead ground wire, US	سلك أرضى فى خطوط النقل الهوائية
+overhead expenses	نفقات عامة
+overhead line	خط هوائي / الخط الكهربائي العلوي / الهوائي
+Overhead Line Equipment (OLE)	معدات الخطوط العلوية / الهوائية
+overhead products	مُنتَجات عامة
+overhead shipment	شحنة فوقية
+overhead stowage	اختزان علوي
+overhead suspension	تعليق عُلوي
+overhead system	نظام هوائي
+overhead track conveyor	بريمة رأسية
+overhead traveling crane	رافِعة جِسْرية
+overhead valve f.]	صمام مُعلّق
+overheating	فرط الإحماء
+overhung	بارز / ناتئ
+overjacket	سترة فضفاضة
+overjacket,	غلاف اعلى الغلاف المعدنى, تسخين بالتتبع
+overlaid or veneerd plywood	خشب معاكس مغطى بقشرة
+overland flight	رحلة قارية
+overland flow	جريان سطحي / تصريف سطحيّ / جريان سطحيّ
+overland flow hydrograph	هيدروجراف (التدفق فوق الأرض)
+overland flow; overland runoff	سيل سطحيّ
+overland flow; surface runoff	كَتامَة سطحية للتربة
+overlap	تداخل / تداخل/ تشابك / تداخُل / تراكب / مسافة إنزلاق / مَسافَةُ الحِمايَةِ
+overlap (in facsimile)	تراكب ،تداخل (في الناسوخ)
+overlap angle	زاوية التراكب (التداخل )
+overlap of protection	تراكب الحماية
+overlap signalling	تأشير متداخل
+overlap tell	تداخل الحديث
+overlap zone	منطقة متداخلة
+overlap,	تداخل,
+overlap, slip distance	تداخل
+overlapped 1-0 techniques	ازدواج وظيفي لوحدة التشغيل المركزية، تقنيات التراكب 1-0
+overlapping	تراكُب
+overlapping independent outage occurrences, pl	حوادث خروج مستقلة متداخلة
+overlay	تغشيّة / حشو موضعي
+overlay districts	مناطق تراكب
+overlay equipment	معدات تغطية
+overlay network	شبكة أفقية
+overline service	خدمة خطوط متعددة
+overload	حمل زائد / تحميل زائد / تجاوز الحمل / شحن زائد
+overload capability	قُدرَة الحمل الزائد
+overload capacity	سعة الحمل الزائد
+overload characteristics (of a fuse)	خصائص زيادة الحمل
+overload current,	تيار الحمل الزائد,
+overload distortion (in quantizing)	تشويه الحمل الزائد
+overload factor (of a receiver)	عامل الحمل الزائدِ (للمستقبل)
+overload protection	حماية زيادة الحمل
+overload protection device	أداة وقاية من زيادة الحمل
+overload protection valve	صمام الحماية من التحميل الزائد
+overload region	منطقة تجاوز مُعدّل خرج القُدرة
+overload release	اعتاق بزيادة الحمل / إعتاق من زيادة الحمل
+overload weight	وزن الحمل الزائد
+overload, noun	زيادة حمل (اسم)
+overmature	نضج زائد
+overmodulation	تعديل زائد
+overnight	بدل مبيت
+overnight train	قِطَار ليلي
+overpacking	حشو زائدة
+overpanamax/post panamax	overpanamax/post panamax
+overpass	مَمَرٌّ عُلْوِيٌّ
+overpass; overcrossing	مَمَرّ عُلوي
+overplay (in television)	يمثل بتكلف (في التلفاز)
+overplus	زيادة
+overpour gate	بوابة مفيض
+overpressure	ضَغْط زائد / ضغط أعلى / ضغط مفرط
+overpressure bypass valve (AC)	صمام تصريف الضغط الزائد (مكيف الهواء)
+overpressure disconnect valve (AC)	صمام إيقاف عند الضغط الزائد (مكيف الهواء)
+overpressure disconnector for a capacitor	فاصل ارتفاع الضغط لمكثف
+overpressure; excess pressure	ضغط زائد
+overpressure; superpressure	فرط الضغط
+overprint (to)	طبع بتعريض زائد
+overprinting	طبع زائد
+overreach; overreaching protection (US)	امتداد مطول
+overrevving	فرط الدوران
+override	تَجاوُز
+override boost	مُعَزِّز التجاوُز
+Override control	ضبط مُتجاوز
+override; overrun; overshoot	تخطّي
+overrun	ترحيل / تجاوز إشارة / تجاوُز
+overrun area	منطقة التخطي
+overrun barrier	حاجز التخطّي
+overrun; overshoot; pass	تجاوُز
+overruning clutch	قَابِض طليق
+overrunning clutch	قابض الدوران الحر / قابض تخطّي
+oversampling	تجاوز العينة المقررة
+overscanning	مسح زائد
+overser	رازّ، ناظر عمال
+oversheath; outer sheath; protective (overall) jacket (North America)	غلاف فوقي؛ غلاف خارجي
+overshirt	قميص فوقي
+overshod	موضع ربط تقابلي مكسو
+overshoe	حذاء خارجي
+overshoot	تجاوز
+overshoot (for a step change)	شروط مرجعية
+overshoot area	منطقة تجاوز الحَطّ
+overshoot time	زمن التخطّي
+overshoot time,	زمن التخطّي, لمُرَحِّل قياس او نظام وقاية
+overshoot; transient overshoot	تجاوز عابر للقيمة
+overshot	ناقوس يستعمل في عمليات الاصطياد
+overshot parts	أجزاء أداة الالتقاط
+overshot record	تسجيل بانفجار أقوى من اللازم
+oversize look	حجم كبير
+oversized shoulders	كتف فضفاض
+overskirt	تنورة فوقية
+overspeed condition	حالة السرعة الزائدة
+overspeed device	جهاز لزيادة السرعة
+overspeed test	إختبار تجاوز السرعة؛ اختبار تعدي السرعة
+overspeed,	سرعة زائدة, / أقصى السرعة,
+overspill tower	برج الفيض
+overstabilized emulsion	مُستَحلَب عَالِي التَّثبِيت
+oversteering	ميل مفرط
+overstocked	تكدس
+overstocking	إفراط في كثافة الرعي
+overstorey	أعلى طبقة بالغابة
+overswing	فَرْط الترَجُّح
+overtaking	تجاوز / مُجاوَزة
+overtaking lane	مسار التجاوزِ، سِكَّة التَّجَاوُزِ / مَسَار التَّجَاوُز / مَسْرَب المجاوزة
+overtaking light	ضوء التجاوز
+overtaking sight distance	مدى الرؤية للمجاوزة
+overthrust fault	صَدْع تراكبي
+overthrust fold	طَيَّة منكسرة
+overthrust plane	مستوى دسري
+overtone crystal controlled oscillator	مذبذب بلورى محكوم نغميا
+overtone crystal unit	وحدة بلورية تعمل على نغمة عالية
+overtone mode	نمط النغمة العالية
+overtone order	درجة النغمة العالية
+overtopped	شجر في الظل
+overtuft	أوفيرتوفت
+overturn boundary	حدود الانقلاب
+overturn pylon; turnover structure	إنشاء الانقلاب
+overturned fold	طية مقلوبة
+overturning	انقلاب
+overturning moment	عَزْم الانقلاب
+overvoltage	تجاوز الجهد
+overvoltage category	فئة الجهد الزائد
+overvoltage limiting device	جهاز محد للجهد الزائد, جهاز محد لارتفاع الجهد
+overvoltage protection	حماية جهد زائد
+overvoltage protector	واقي الجهد المفرط
+overvoltage protector of a capacitor	جهاز واق من الجهد الزائد للمكثف
+overvoltage relay	مرحل زيادة الجهد / مرحّل بتجاوز الجهد
+overvoltage release	معتق بزيادة الجهد
+overvoltage,	الجهد الزائد, ؛ ارتفاع الجهد
+overwintering habitat	موئل البيات الشتوي
+overwrite (in digital audio and video)	تسجيل تراكبي (في الرقمية السمعية والمرئية)
+oviparity	بيوضية
+oviphagous	آكل البيض
+ovophagy	يأكل البيض
+ovoviviparous	بيوض ولود
+ovulation	إباضة
+own account traffic, factory traffic	وسائل النَّقل للحساب الخاص
+own factory; owner-operated municipal enterprise	شَرِكة خاصة
+own use	استهلاك خاصّ
+owner of vessel	مالك سفينة
+owner of waste	مسؤول عن المُخلّفات
+oxalic acid	حمض الأوكساليك
+oxammite	أوكسمايت
+Oxford	قماش أكسفورد
+oxford bags	سروال أوكسفورد
+oxidant	مُؤكْسِد
+oxidant utilization	إستخدام المؤكسد
+oXidant; oXidizer	مُؤَكْسِد
+oxidase	خميرة التأكسد
+oxidation	أكسدة / تَأكْسُد / أَكْسَدة / أَكَسَدَة
+oxidation bitumen	قَارُ الأَكسَدَة
+oxidation ditch	أُخدُود أكْسَدَة / خندقُ الأكسدة
+oxidation inhibition	مَنْع التأكسد
+oxidation of hydrogen sulfur	أكسدة كبريتيد الهيدروجين
+oxidation pond	بِركة الأكسدة
+oxidation pond / stabilisation pond	بِركة غير مُهوّاة لمُعالَجة مياه الصرْف الصحيّ / بِركة أَكْسَدَة
+oxidation process	عملية أكسدة
+oxidation reduction potential / redox potential (ORP)	قُدرة على الأكسدة والاختزال
+oxidation stability	استقرار التأكسد / مقاومة التأكسد
+oxidation zone	نطاق الأكسدة
+oxidation, biochemical	أكسدة كِيْميائيٌّة حَيَوِيّة
+oxidation-reduction potential	جهد الأكسدة والاختزال
+oxide	أكسيد
+oxide coating	طبقة أكسيد
+oxide film	غشاء أوكسيد
+oxide fouling	ترسب أوكسيدي
+oxide shedding	فقدان الاكسدة
+oxide-coated cathode; oxide cathode	مهبط مطلى بالاكسيد
+oxidic (oxidant)	مُؤكْسِد
+oxidising agent	عامِل مُؤكسِد
+oxidize	أَكْسَدَ
+oxidized asphalt; blown asphalt	أسفلت مُؤكسَد، أسفلت منفوخ
+oxidizing agent	عامل مُؤكْسِد
+oxidizing atmosphere	جوّ الأكسدة
+oXidizing flame	لهب مُؤَكْسِد
+oxidoreductase enzymes	إنزيمات مؤكسدة مختزلة
+oXimeter	مقياس الأكسجين
+oxy-arc cutting electrode	قطب كهربائى للقطع بالأكسجين
+oxy-fuel burner	حارقة وقود اكسجين
+oxydation	أكسدة
+oxydation drying	تجفيف بالأكسدة
+oxygen	أكسجين
+oXygen bottle	أسطوانة الأكسجين
+oxygen compound	مادة مؤَكْسَجة
+oxygen concentration	تركيز الأكسجين
+oxygen consumption, endogenous	استهلاك باطِنيّ للأكسجين
+oxygen consumption, specific; uptake rate, oxygen	استهلاك نوعيّ للأكسجين
+oxygen content	مُحتوى الأكسجين
+oXygen converter	مُحَوّل الأكسجين
+oxygen deficiency	نقص (ال...) في الأكسجين
+oxygen enrichment	إثراء الأكسجين
+oxygen lance	رمح أكسجين
+oXygen mask	قناع الأكسجين
+oxygen meter	جِهاز قياس الأكسجين
+oXygen microphone	ميكروفون قناع الأكسجين
+oxygen probe	حسّاس الأكسجين
+oxygen radical	أوكسجين جذري
+oxygen release compound (ORC); hydrogen release compound (HRC)	مُكوّن تحرير الأكسجين
+oxygen sag curve	مُنحنى انخفاض الأكسجين
+oxygen saturation value	قِيمة التشبُّع بالأكسجين
+oxygen scavenger	مزيل الأكسيجن
+oxygen transfer capacity under process conditions	سَعَة الإمداد بالأكسجين في مياه الصرْف / سَعَة الإمداد بالأكسجين تحت ظروف التشغيل
+oxygen transfer capacity under process conditions, specific	سَعَة نوعية للإمداد بالأكسجين في مياه الصرف
+oxygen uptake	امتصاص الأكسجين / سحب الأكسجين
+oxygenation	إثراء الأكسجين
+oxygenation capacity	إمكانية إضافة الأكسجين
+OZ	أوكتان
+ozocerite; earth wax	شمْع معدني
+ozonation	معالجة بالأوزون / تشبُّع بالأوزون
+ozonator	مُولِّد الأوزون
+ozone	أوزون
+ozone (active oxygen)	أُوزُون
+ozone byproducts	نواتج الأوزون الثانوية
+Ozone damage	أضرار الأوزون
+ozone depletion	استنفاد الأوزون
+ozone depletion potential (odp)	إمكانات استنفاد الأوزون
+ozone destruction	تدمير الأوزون
+ozone distribution	توزيع الأوزون
+ozone formation	تكوين الأوزون
+ozone hole	ثقب الأوزون
+ozone layer	طبقة الأوزون
+ozone layer depletion	استنفاد طبقة الأوزون
+ozone mini-hole	ثقب الأوزون الصغير
+ozone pollution	تلوث الأوزون
+ozone resistance	ثبات الأُوزُون
+ozone-forming potential	إمكانية تشكيل طبقة الأوزون
+ozonisation / ozonation	تَعْقِيم بالأُوزُون / مُعالَجة بالأُوزُون
+ozonisation system	مَنظُومة التعقيم بالأُوزُون
+ozonizer	مُوَلِّد الأوزون
+ozonosphere	غلاف الأوزون

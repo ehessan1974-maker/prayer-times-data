@@ -1,0 +1,141 @@
+وابل أوجيه	Auger shower / extensive air shower
+وابل تعاقبي، همرة تعاقبية	cascade shower
+واحدات أساسية	fundamental units
+واحدات التفاعلية	units of reactivity
+واحدات النشاط الإشعاعي	units of activity
+واحدات النظام الدولي	SI units
+واحدات بلانك	Planck’s units
+واحدات مشتقة	derived units
+واحدات مُنَطَّقة	rationalized units
+واحدة الأشعة السينية	X-Ray unit
+واحدة القطب	unit pole
+واحدة الكتل الذرية	unit of atomic mass
+واحدة الكتلة الذرية	atomic mass unit
+واحدة الوزن الذري	atomic weight unit
+واحدة حرارية بريطانية	British thermal unit
+واحدة ديباي	Debye unit
+واحدة فلكية	astronomical unit
+واحدة قياس	unit
+واط	Watt / watt
+واط ساعة	watt-hour
+واقية من الصواعق	lightning arrester / lightning conductor / lightning rod / surge arrester
+وامض (ن)	scintillator
+وتد	peg / wedge
+وتر	chord
+وتر: في مثلث قائم الزاوية	hypotenuse
+وحدات	Amagat units
+وحدات الجاذبية	gravitational units
+وحدات الطاقة	energy units
+وحدات الكهرساكنة	electrostatic units
+وحدات دولية	international units
+وحدات كهرمغنطيسية	electromagnetic unit
+وحدة	unit
+وحدة الأنجسْتروم	angstrom unit
+وحدة التحكم	control unit
+وَحْدَة التركيب	combination unit
+وحدة التيار	unit of current
+وحدة الحرارة البريطانية	British Thermal Unit
+وحدة الشكل	monotropy
+وَحْدَة الكُتْلة الذرية (ن)	atomic mass unit
+وحدة الكثافة	unit of density
+وحدة المعالجة	treating unit
+وحدة توليد الرادون	radon-plant
+وحدة عمل الفصل (ن)	unit of separative work
+وحدة متجه الاستقطاب	polarization unit vector
+وحدة مشتقة	derived unit
+وَحْدَة مُطْلَقة	absolute unit / unit (absolute…)
+وحيد الاتجاه	unidirectional
+وحيد البلّورة	single crystal
+وحيد القطب	single pole
+ورشة؛ مَشْغَل	workshop
+ورق سَحْج	sandpaper
+ورق مرمل	sandpaper
+ورق مشمَّع	waxed paper
+ورقة لوغارتمية	log-log paper
+ورقة نصف لوغارتمية	semilog paper
+ورنية	vernier vernier
+ورود بروستري	Brewster's incidence
+وُرَيْقة	foil
+وُرِيْقَة مغنطيسية	magnetic shell
+وزن	weight
+وزن إحصائي	statistical weight
+وزن القطرة	drop weight
+وزن الهواء	air weigh / weight of air
+وزن جزيئي	molecular weight
+وزن جزيئي غرامي	gram-molecular weight; gram-molecule
+وزن ذري	atomic weight
+وزن ذري (ن)	atomic weight
+وزن مضاعف	double weighing
+وزن مُطْلَق	absolute weight
+وزن مكافىء	combining weight; equivalent weight / equivalent weight
+وسط	medium
+وسط اتجاهي الخواص	anisotropic medium
+وسط ضوئي	optical medium
+وسط لا متناحي	anisotropic medium
+وسط لا نهائي التخلخل	infinitely rare medium
+وسط لااتجاهي الخواص	isotropic medium
+وسط لانهائي الكثافة	infinitely dense medium
+وسط مبدِّد	dispersive medium
+وسط متجانس	homogeneous medium
+وسط مَرِن	elastic medium
+وسط مفَرَّق	dispersity medium
+وسط مقاوِم	resisting medium
+وسطاء البلورة	crystal parameters
+وسطاء الترانزستور	transistor parameters
+وسطاء الشبيكة	lattice parameters
+وسطي حسابي	arithmetic mean
+وسيط	parameter
+وسيط الصدم	impact parameter
+وسيط ترطيب	surface-active agent / wetting agent
+وسيط مؤيِّن	ionizing agent
+وسيط هجين	hybrid parameter
+وشيعة	solenoid
+وصل على التسلسل؛ ربط تسلسلي	series connection
+وصلة	joint / junction
+وصلة التدفق	flux linkage
+وصلة الخطوة؛ وصلة حادة	step junction
+وصلة انتثارية	diffused junction
+وصلة انتشار	junction (diffused...)
+وصلة بالانتشار	diffused junction
+وصلة حرارية	thermal bond / thermo-junction
+وَصلة متدرّجة	graded junction
+وصلة متغايرة	heterojunction
+وضع جانبي	broadside position
+وضع طيفي	spectral position
+وضع متصالب	crossed position
+وضعّي	empirical
+وضعية الانتظار الحارة (ن)	hot standby
+وعاء الضغط للمفاعل (ن)	reactor pressure vessel
+وعاء المفاعل (ن)	reactor vessel
+وعاء ديوار	Dewar flask
+وعاء ضغط من الاسمنت المسلح (ن)	pre-stressed concrete
+وَفْرة	abundance
+وفرة النظائرة (ن)	isotopic abundance
+وفرة طبيعية (ن)	natural abundance
+وفرة نسبية	relative abundance
+وفرة نظائرية جزئية	fractional isotopic abundance
+وفرة نظائرية نسبية	relative isotopic abundance
+وفرة نظيرية	isotopic abundance
+وقاية	protection
+وقاية (ال...) من الاشعاعات (ن)	radiation protection
+وقاية إشعاعية	radiological protection
+وقاية بدنية (ن)	physical protection
+وقاية بعد الانفجار (ن)	post-burst protection
+وقاية مِهْبَطية	cathodic protection
+وقود	fuel
+وقود (ن)	Cermet fuel
+وقود المفاعل	reactor fuel
+وقود خزفي (ن)	ceramic fuel
+وقود مخصَب (ن)	enriched fuel
+وقود مستهلك	spent fuel
+وقود مشتَّت (ن)	dispersion fuel
+وقود مضغوط (ن)	prepressured fuel
+وقود مُعاد التوليد	regenerated fuel
+وقود نووي	nuclear fuel
+وقود نووي (ن)	nuclear fuel
+وليدة	daughter
+ومَّاض يوديد الصوديوم	sodium iodide scintillator
+ومضة؛ وميض	scintillation
+وميض (ن)	scintillation
+وهج المِهْبَط	cathode glow
+وهج سالب	negative glow

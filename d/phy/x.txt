@@ -1,0 +1,39 @@
+X- cut crystal	بلّورة قطع سيني
+X- radiation	اشعاع سيني (ن)
+X- ray analysis	تحليل بالأشعة السينية
+X- ray dosage	جرعة الأشعة السينية
+X- ray emission spectra	أطياف انبعاث الأشعة السينية
+X- ray film	رقّ الأشعة السينية
+X- ray production	انتاج الأشعة السينية
+X- ray radiography	تصوير بالأشعة السينية
+X- ray spectra	أطياف الأشعة السينية
+X- ray spectrogram	مخطط طيف الأشعة السينية
+X- ray spectrograph	مرسمة طيف الأشعة السينية
+X- ray tubes	أنابيب الأشعة السينية
+X- rays	أشعة سينية
+X-axis	محور السينات؛ محور الفواصل
+X-radiation	إشعاع سيني
+X-ray analysis	تحليل بالأشعة السينية
+X-ray crystallography	تحليل بالأشعة السينية
+X-ray diffraction	انعراج الأشعة السينية
+X-ray dosage	جرعة الأشعة السينية
+X-ray emission spectrum	طيف إصدار الأشعة السينية
+X-ray fluorescence analysis	تحليل الفلورة بالأشعة السينية
+X-ray hardness	قساوة الأشعة السينية
+X-ray laser	ليزر الأشعة السينية
+X-ray microscope	مجهر الأشعة السينية
+X-ray monochromator	موحِّد لون الأشعة السينية
+X-ray spectrometer	مطياف الأشعة السينية
+X-ray spectroscopy	مطيافية الأشعة السينية
+X-ray therapy	العلاج بالأشعة السينية
+X-ray tube	أنبوب الأشعة السينية
+X-Ray unit	واحدة الأشعة السينية
+X-rays	X أشعة سينية؛ أشعة
+X-rays powder technique	تِقْنية المساحيق في الأشعة السينية
+X-rays spectrograph	راسم طيف الأشعة السينية
+Xenon	زينون
+Xenon effect	مفعول الزينون
+xerography	تصوير كهراكدي
+Xi hyperon	هيبرون كساي
+Xi particle	الجسيم كساي
+xylophone	كسيلوفون

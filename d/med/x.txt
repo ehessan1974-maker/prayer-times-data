@@ -1,0 +1,295 @@
+X	رَمْز الصِّبْغِيّ الجِنْسِيّ المُؤَنَّث
+X chromosome	الصِّبْغِيُّX
+X disease (hyperkeratosis)	داءُ X (فَرْطُ التَّقَرُّن)
+x ray anemia (radiation anemia)	فَقْرُ الدَّمِ التَّالي للتَّشْعِيْعِ
+x ray crystallography	مَبْحَثُ تَصْويرِ البِلَّوراتِ بالأَشِعَّةِ السِّينِيَّة
+x wave	مَوجَةُ x (في المخطط الوريدي)
+X zone	مِنْطَقَةُ X
+X zone (androgenic zone)	مِنْطَقَةُ X ( المِنْطَقَةُ المُذَكِّرَة)
+X- linked gene	جينٌ مُرْتَبِطٌ بالصِّبْغِيِّ X
+x- rays	اشعة السينية(ال..)
+X-axis	مِحْوَرُ السِّيْنات
+X-bite (crossbite)	إِطْباقٌ مُتَصالِب [أسنان]
+X-esotropia	حَوَلٌ إِنْسِيٌّ X (حَوَلٌ إِنْسِيٌّ أَمامِيّ)
+X-exotropia	حَوَلٌ وَحْشِيٌّX- (حَوَلٌ وَحْشِيٌّ أَمامِيّ)
+X-linked	مُرْتَبِطٌ بِالإِكْس (مُرْتَبِطٌ بِالجِنْس)
+X-linked disease	داءٌ مُرْتَبِطٌ بالصِّبْغِيِّ X
+X-linked heredity	وِراثَةٌ مُرْتَبِطَةٌ بالإِكس
+X-linked hyperuricemia	فَرْطُ حَمْضِ يوريكِ الدَّمِ المُرْتَبِطُ بالإِكس
+X-linked hypogammaglobulinemia	نَقْصُ غامَّاغلوبولينِ الدَّمِ المُرْتَبِطُ بالصِّبْغِيّ X
+X-linked ichthyosis	سُماكٌ مُرْتَبِطٌ بالإِكس
+X-linked inheritance	وِراثَةٌ مُرْتَبِطَةٌ بالإِكس
+X-linked muscular dystrophy	الحَثَلُ العَضَلِيُّ المُرْتَبِطُ بالإِكس
+X-particle	جُسَيْمُ X
+x-radiation	الإِشْعاعُ السِّينِيّ / إِشْعَاع x، إشْعَاع سِينِيّ
+x-ray	شُعاع سنيّ
+x-ray alopecia	ثَعْلَبَةُ الأَشِعَّةِ السينيَّة
+x-ray anatomy	التَّشْريحُ الشُّعاعِيّ
+x-ray apparatus	جِهازُ الأَشِعَّة
+x-ray automatic dental film processor	جَهازُ إِظْهارِ الأَفْلاَمِ السِّنِّيَّةِ الشُّعاعِيَّةِ التِّلْقائِيّ
+x-ray automatic processor	جَهازُ إِظْهارِ الأَفْلاَمِ الشُّعاعِيَّةِ التِّلْقائِيّ
+x-ray burn	حَرْقُ الأَشِّعَةِ السِّينِيَّة
+x-ray control panel	لَوحَةُ التَّحَكُّمِ بالأَشِعَّة
+x-ray dermatitis (radiation dermatitis)	الْتِهابُ الجِلْدِ النَّاجِمُ عن الأَشِعَّةِ السِّينيَّة (الْتِهابُ الجِلْدِ الإِشْعاعِيّ)
+x-ray diffraction	انْعِراجُ الأشِعَّةِ السينِيَّة / انْعِرَاج الأَشِعَّة السِّينِيَّة
+x-ray examination	فحْصٌ بالأَشِعَّة السِّينِيَّة
+x-ray film	فِلْمُ الأَشِعَّةِ السينية / فِلْمٌ شُعاعِيّ
+x-ray film clip	مِشْبَكُ الفِلْمِ الشُّعاعِيّ
+x-ray film darkroom	الغُرْفَةُ المُظْلِمَةُ للأَفْلاَمِ الشُّعاعِيَّة
+x-ray film drying rack	رَفْرَفُ تَجْفيفِ الأَفْلاَمِ الشُّعاعِيَّة
+x-ray film fixation	تَثْبيتُ فِلْمِ الأَشِعَّة
+x-ray film hanger	حَمَّالَةُ الأَفْلاَمِ الشُّعاعِيَّة
+x-ray film holder	مِمْسَكُ الأَفْلاَمِ الشُّعاعِيَّة
+X-ray film viewer	مِبْصَارُ الفِلْمِ الشُّعاعِيّ
+x-ray keratosis (roentgen keratosis)	تَقْرانٌ شُعاعِيّ
+x-ray microscope	مِجْهَرُ الأَشِعَّةِ السِّينِيَّة
+x-ray mirror (x-ray reflector)	مِرْآةٌ شُعاعِيَّة ( عاكِسٌ شُعاعِيّ)
+x-ray panoramic apparatus	جِهازُ التَّصْويرِ الشُّعاعِيِّ البانورامِي
+X-ray pelvimetry	قِياسُ الحَوضِ بالأَشِعَّةِ السِّينِيَّة
+x-ray photograph	صُورَة بالأَشِعَّة السِّينِيَّة
+x-ray processing hanger	حَمَّالَةُ إِظْهارِ الأَفْلاَمِ الشُّعاعِيَّة
+x-ray processing tanks	أَحْواضُ إِظْهارِ الأَفْلاَمِ الشُّعاعِيَّة
+x-ray radiogram	صورَةٌ شُعاعِيَّةٌ بَانورامية
+x-ray reader	قارِىءُ الأَفْلاَمِ الشُّعاعِيَّة
+x-ray reflector (x-ray mirror)	عاكِسٌ شُعاعِيّ ( مِرْآةٌ شُعاعِيَّة)
+x-ray safelight	ضَوءُ الأَمانِ في الفلم الشُّعاعِيّ
+x-ray sickness (radiation sickness)	داءُ الأَشِعَّة ( داءُ الإِشْعاع)
+x-ray spectrum	طَيفُ الأَشِعَّةِ السِّينِيَّة
+x-ray technologist	تَقْنِيُّ الأَشِعَّةِ السِّينِيَّة
+x-ray therapy	مُعالَجَةٌ بالأَشِعَّةِ السِّينِيَّة / المُعالَجَةُ بالأَشِعَّةِ السِّينِيَّة
+x-ray tube	أُنْبوبُ الأَشِعَّةِ السِّيْنِيَّة / الأُنْبوبُ الشُّعاعِيّ
+x-ray unit	وَحْدَةُ الأَشِعَّةِ السِّيْنِيَّة
+x-ray viewer	مِنْظارٌ شُعاعِيّ
+x-rays (roentgen rays)	أَشِعَّةٌ سِيْنِيَّة (أَشِعَّةُ رونتغن)
+x-zone	المِنْطَقَةُ-x (قشرة جنينية)
+xanchromatic	مُصْفَرّ
+xanoxate	زانوكسات (دواء موسع للقصبات)
+xanth-	سابقة بمعنى الأَصْفَر
+xanthan gum	صَمْغُ الزَّانْثان
+xanthate	زانتات [كيمياء]
+xanthelasma	لُوَيحَةٌ صَفْراء
+xanthelasmatosis	دَاءُ الأَوْرَامِ الصَّفْرَاء المُنْتَشِرَة
+xanthematin	زانثيماتين (صبغ أصفر)
+xanthemia (carotenemia)	فَرْطُ زانتينِ الدَّم ( فَرْطُ كاروتينِ الدَّم)
+xanthene	زانثين
+xanthic calculus	حَصاةٌ زَنْتينِيَّة
+xanthin	زانثين (صِبْغٌ أَصْفَر)
+xanthine	زَانْثين / زَانْتِين
+xanthine bases (purine bases)	قَواعِدُ زانْثينِيَّة ( قَواعِدُ بُورينِيَّة)
+xanthine bodies (purine bases)	أَجْسامٌ زانثينيَّة (قَواعِدُ بُورينِيَّة)
+xanthine dehydrogenase	نازِعَةُ هيدروجينِ الزَّانثين
+xanthine oxidase	أُكْسيدازُ الزَّانْتين [إنزيم]
+xanthine tests	اخْتِباراتُ الزّاَنْثِين (لحمض اليوريك)
+xanthinin	زانثينين [كيمياء]
+xanthinoxidase	أكسيدازُ الزَّانثين [إنزيم]
+xanthinuria	بِيلَةٌ زانثينيَّة
+xanthinuric	متعلق بالبِيلَةِ الزنثينيَّة
+xanthism	صُحْرَة (اِحْمِرارٌ مُسْمَرّ)
+xanthiuria	بِيلَةٌ زانثينيَّة
+xantho	أصْفَر (سابقة)
+xantho-	سابقة بمعنى الأَصْفَر
+xanthochromatic	مُصْفَرّ / أصْفَر الصبغة
+xanthochromia	اصْفِرار
+xanthochromic	مُصْفَرّ
+xanthochromic jaundice	يَرَقانٌ مُصَفِّر
+xanthocyanopsia	رُؤْيَةُ الأَصْفَرِ و الأَزْرَق (عمى الأخضر والأحمر)
+xanthocystine	زانثوسيستين (مادة في الجثث)
+xanthocyte	خَلِيَّةٌ صَفْراء
+xanthodermia (xanthoderma)	اصْفِرارُ الجِلْد
+xanthodontia	اصْفِرارُ الأَسْنان
+xanthodontous	مُصْفَرُّ الأَسْنان
+xanthoerythrodermia	اصْفِرارُ الجِلْدِ واحْمِرارُه
+xanthoerythrodermia perstans (small plaques parapsoriasis)	اصْفِرارُ الجِلْدِ واحْمِرارُهُ المُسْتَديِم ( نَظيرُ الصَّدَفِيَّةِ الصَّغيرُ اللُّوَيحات)
+xanthofibroma thecocellulare (dermatofibroma)	الوَرَمُ اللِّيفِيُّ الأَصْفَرُ القِرابِيُّ الخَلاَيا ( الوَرَمُ اللِّيْفِيُّ الجِلْدِيّ)
+xanthogranuloma	الوَرَمُ الحُبَيبِيُّ الأَصْفَر
+xanthogranulomatous pyelonephritis	الْتِهابُ الحُوَيضَةِ و الكُلْيَةِ الوَرَمِيُّ الحُبَيبِيُّ الأَصْفَر
+xanthokyanopy	رُؤْيَةُ الأَصْفَرِ و الأَزْرَق
+xanthoma	الوَرَمُ الأَصْفَر
+xanthoma cell (foam cell)	خَلِيَّةُ الوَرَمِ الأَصْفَر ( خَلِيَّةٌ رَغْوِيَّة)
+xanthoma disseminatum	الوَرَمُ الأَصْفَرُ المُنْتَثِر
+xanthoma eruptivum	الوَرَمُ الأَصْفَرُ الطَّفْحِيّ
+xanthoma multiplex	الوَرَمُ الأَصْفَرُ المُتَعَدِّد
+xanthoma palpebrarum	الوَرَمُ الأَصْفَرُ الجَفْنِيّ
+xanthoma planum	الوَرَمُ الأَصْفَرُ المُسَطَّح
+xanthoma striatum palmare	الوَرَمُ الأَصْفَرُ المُخَطَّطُ الرَّاحِيّ
+xanthoma tendinosum	الوَرَمُ الأَصْفَرُ الوَتَرِيّ
+xanthoma tuberosum	الوَرَمُ الأَصْفَرُ الحَدَبِيّ
+xanthoma tuberosum multiplex	الوَرَمُ الأَصْفَرُ الحَدَبِيُّ المُتَعَدِّد
+xanthoma tuberous	الوَرَمُ الأَصْفَرُ الحَدَبِيّ
+xanthomatosis	دَاءُ الأَوْرَامِ الصُّفرِ المُنْتَشِرَة
+xanthomatosis bulbi (dystrophia adiposa corneae)	دَاءُ الأَوْرَامِ الصُّفرِ المُنْتَشِرَةِ في المُقْلَة ( الحَثَلُ الشَّحْمِيُّ في القَرْنِيَّة)
+xanthomatosis cornea (dystrophia adiposa corneae)	دَاءُ الأَوْرَامِ الصُّفرِ المُنْتَشِرَةِ في القَرْنِيَّة ( الحَثَلُ الشَّحْمِيُّ في القَرْنِيَّة)
+xanthomatosis generalisata ossium (lipid granulomatosis of the bone)	دَاءُ الأَوْرَامِ الصُّفرِ المُنْتَشِرَةِ العظْمِيَّةِ المُعَمَّمَة ( ورَمٌ حُبَيبِيُّ شَحْمِيٌّ عَظْمِيّ)
+xanthomatosis iridis	دَاءُ الأَوْرَامِ الصُّفرِ المُنْتَشِرَةِ في القُزَحِيَّة
+xanthomatosis lentis	دَاءُ الأَوْرَامِ الصُّفر المُنْتَشِرَةِ العَدَسِيَّة
+xanthomatous	متعلق بالوَرَمِ الأَصْفَر
+xanthomatous granuloma (eosinophilic granuloma)	وَرَمٌ حُبَيبِيٌّ صَفْرومِيّ ( وَرَمٌ حُبَيبِيٌّ يوزينِيّ)
+xanthomatous polyarthritis	الْتِهابُ المَفاصِل بالأَوْرَامِ الصَّفْرَاء
+Xanthomonas	المُسْتَصْفِرَة (جنس من الجراثيم)
+xanthone	زانثون [كيمياء]
+xanthophane	زانثوفين
+xanthophore	حامِلَةُ الأَصْفَر
+xanthophose	ضُوَاءٌ أَصْفَر
+xanthophylase	زانثوفيلاز [إنزيم]
+xanthophyll	زانثوفيل (في الأوراق الخضراء)
+xanthopia (xanthopsia)	رُؤْيَةٌ صَفْراء
+xanthoproteic	زانثوبروتينيّ
+xanthoproteic index	مَنْسَبُ اصْفِرارِ البروتين
+xanthoproteic reaction	تَفاعُلٌ زَانْتُوبرُوتينِيّ (لكشف لدكستروز)
+xanthoproteic test	اخْتِبارُ الزانثوبروتئيك
+xanthoprotein	زانثوبروتين
+xanthopsia	رُؤْيَةٌ صَفْراء
+xanthopsin	أوبسين أَصْفَر
+xanthopsis	زانثوبسيس (صباغ أصفر في السرطانات)
+xanthopterin	زانثوبتيرين (صبغ في الفراشات)
+xanthopuccine	زانثوبوكسين (صبغ في الحيوانات البحرية)
+xanthorhamnin	زنثورامين (صبغ في الفواكه)
+xanthorrhea	حَيضٌ أَصْفَر
+xanthorubin	زانثوروبين [كيمياء]
+xanthosarcoma	سارْكومةٌ صَفْراء (ورم أغماد الأوتار)
+xanthosine	زانثوسين [كيمياء]
+xanthosis	صُفار
+xanthosis cuticle (enamel cuticle)	جُلَيدَةٌ صَفْراء ( جُلَيدَةٌ مِلاَطِيَّة)
+xanthosis cutis	جِلْدُ داءُ الاصْفِرارِ / صُفارٌ جِلْدِيّ
+xanthosis diabetica	صُفارٌ سُكَّرِيّ
+xanthosis of septum nasi	صُفارُ حاجِزِ الأَنْف
+xanthous	أَصْفَر
+xanthurenic aciduria	بِيلَةُ حَمْضِ الزنتورينيك
+xanthuria	بِيلَةٌ زانثينيَّة
+xanthydrol reaction	تَفاعُلُ الزَّانْتيدرُول (في نسج المصاب بالفشل الكلوي)
+xanthyl	زانثيل [كيمياء]
+xanthylic	زانثيني [كيمياء]
+xantorubin	زانتوروبين [كيمياء]
+Xe (xenon)	رمز الزينون (نو؛Xe)
+xeno-	سابقة بمعنى الأَجْنَبِي
+xenoantigen	مُسْتَضِدٌّ أَجْنَبِيّ
+xenobiotic	أَجْنَبِيٌّ بَيولوجياًّ
+xenocytophilic	أُلْفَةُ الخَلاَيا الأَجْنَبِيَّة
+xenocytophilic antibody (heterocytotropic)	ضِدٌّ أَليفٌ للخَلايا الغَيرِيَّة
+xenodiagnosis	تَشْخيصٌ ثَوَائِيّ
+xenodiagnostic	متعلق بالتَّشْخيصِ الثَّوَائِيّ
+xenogeneic (heterologous)	أَجْنَبِيٌّ ( غَيرَوِيّ)
+xenogeneic antigen	مُسْتَضِدٌّ أجنبِيّ
+xenogenic graft (xenograft)	طُعْمٌ أَجْنَبِيّ
+xenogenous (heterologous)	أَجْنَبِيُّ المَنْشا ( غَيرَوِيُّ المَنْشَأ)
+xenogenous siderosis	حُدَادٌ خارِجِيُّ المَنْشَأ
+xenograft	طُعْم أجنبيّ، طُعْم مغاير
+xenograft (heterograft)	طُعْمٌ أَجْنَبِيّ ( طُعْمٌ غَيرَويّ)
+xenology	عِلْمُ التَّغايُر
+xenomenia (vicarious menstruation)	حَيضٌ مُنْتبِذ
+xenon	الزِّينون (العنصر الرابع والخمسون) / زِينُون
+xenoparasite	طُفَيلِيٌّ أَجْنَبِيّ
+xenophonia	تَغَيُّرُ اللَّهْجَة
+xenophthalmia	الْتِهابُ العَينِ بجِسْمٍ أَجْنَبِيّ
+xenoplastic transplant	طُعْمٌ أَجْنَبِيٌّ
+xenoplasty	رَأْبٌ أَجْنَبِيّ
+Xenopsylla	الأَصْلَم (جنس من البراغيث)
+Xenopsylla astia	الأَصْلَمُ النَّجْمِيّ
+Xenopsylla brasiliensis	الأَصْلَمُ البَرازيلِيّ
+Xenopsylla cheopis	الأَصْلَمُ الخُوفِيّ
+Xenopsylla vexabilis	الأَصْلَمُ الجُرَذِيّ
+Xenopus	القَيْطَم (جنس من البرمائيات)
+Xenopus laevis	القَيطَمُ المُوَرَِّق
+Xenopus test	اخْتِبارُ الضِّفْدَع (لكشف الحمل)
+xenorexia	شُذوذُ الاشْتِهاء
+xenthomatosis	داء الأورام الشحمية، ورام أصفر
+xenyl	زينيل
+xerasia	جُفافُ الشَّعْر
+xeric	جُفافِيّ
+xero	جاف (سابقة)
+xero-	سابقة بمعنى الجَاف
+xero- derma; skin dryness	جفاف الجلد
+xerocheilia	جُفافُ الشِّفاه
+xerocollyrium	قَطْرَةٌ عَيْنِيَّةٌ جَافَّة
+xeroderma	جُفافُ الجِلْد / جَفافُ الجلد
+xeroderma pigmentosum	جُفافُ الجِلْدِ المُصْطَبِغ
+xerodermatic	متعلق بجُفافِ الجِلْد
+xerodermia	جُفافُ الجِلْد
+xerodermic idiocy	عَتَهُ جُفافِ الجِلْد
+xerodermosteosis	جُفافُ الجِلْدِ و المَفْصِل
+xerogel	هُلاَمَةٌ جافَّة
+xerography (xeroradiography)	التَّصْويرُ الشُّعاعِيُّ الجافّ
+xeroma (xerophthalmia)	جُفافُ المُلْتَحِمَة
+xeromammography	التَّصْويرُ الشُّعاعِيُّ الجافُّ للثَّدْي
+xeromenia	حَيضٌ جافّ
+xeromycteria	جُفافُ الأَنْف
+xerophagia	أَكْلُ المَوادِّ الجافَّة
+xerophagy	أَكْلُ المَوادِّ الجافَّة
+xerophobia	رُهابُ الجُفافِ
+xerophthalma	جُفافُ المُلْتَحِمَة
+xerophthalmia	جُفافُ المُلْتَحِمَة / جفاف العين / جَفَاف العين
+xerophthalmus	جُفافُ المُلْتَحِمَة
+xeroradiography	التَّصْويرُ الشُّعاعِيُّ الجافّ
+xerosialography	تَصْويرُ اللُّعابِيَّاتِ الشُّعاعِيُّ الجافّ
+xerosis	جُفاف / جفاف
+xerosis corneae (corneal xerosis)	جُفافُ القَرْنِيَّة
+xerosis cutis	جُفافُ الجِلْد
+xerosis parenchymatosa	جُفافُ المُلْتَحِمَةِ المَتْنِيّ
+xerosis superficialis	جُفافُ المُلْتَحِمَةِ السَّطْحِيّ
+xerostomia	جُفافُ الفَم
+xerotes	جُفاف
+xerotic	جُفافِيّ
+xerotic keratitis	الْتِهابُ القَرْنِيَّةِ الجُفافِيّ
+xerotocia	وِلاَدَةٌ جافَّة
+xerotomography	التَّصْويرُ المَقْطَعِيُّ الجافّ
+xerotripsis	احْتِكاكٌ جافّ
+xilobam	زيلوبام (دواء مرخٍ للعضلات)
+Ximenia	الزَّيْمْنِيَّة (جنس من الأشجار)
+xipamide	زيباميد (دواء خافض للضغط) / زِيبَامِيد
+xiphi-	سابقة بمعنى الرَّهابَة
+xiphicostal	رَهابِيٌّ ضِلْعِيّ
+xiphicostal ligaments of Macalister (®ligamenta costoxiphoidea)	الأَرْبِطَةُ الضِّلْعِيَّةُ الرَّهَابَوِيَّةُ لمَاكاليستر (¬ الأَرْبِطَةُ الرَّهابَوِيَّة)
+xiphin	سيفين (في مني السمكة السيفية)
+xiphisternal	رَهابِيّ
+xiphisternal crunching sound	صوت القَرْقَشةِ الرُّهابَوِيّ (في النُّفَاخ المَنْصِفيّ؛ القَرْقَشَة: صيغةُ فَعْفَلَة من القَرْشَة وهي صوت نحو صوت الجوز إذا حرَّكْتَه)
+xiphisternum	الرَّهابَة (الذيل الخنجري لعظم القص)
+xipho-	سابقة بمعنى الرَّهَابَة
+xiphocostal	رَهابَوِيٌّ ضِلْعِيّ
+xiphodidymus	مُتَّحِدُ الرَّهابَتَيْن [مسخ]
+xiphodymus	مُتَّحِدُ الرَّهابَتَيْن [مسخ]
+xiphodynia	أَلَمُ الرَّهابَة
+xiphoid angles	زَوايا الرَّهابَة
+xiphoid appendix	الزَّائِدَةُ السَّيْفِيَّةُ ؛ الذَّيْلُ الخَنْجَرِيّ (الرَّهابَة)
+xiphoid bone (sternum)	العَظْمُ الخِنْجَرِيّ (عَظْمُ القَصّ)
+xiphoid cartilage	الغُضْروفُ الخِنْجَرِيّ (? الرَّهابَة) / غُضْروف (ال...) الخِنْجَرِيّ (= الرَّهابَة)
+xiphoid process	نَاتِئ الرهابة
+xiphoid process (xiphisternum)	النَّاتِئُ الرَّهابِيّ ( الرَّهابَة)
+xiphoid process of sphenoid bone (ala minor ossis sphenoidalis)	النَّاتِئُ الرَّهابِيُّ للعَظْمِ الوَتِدِيّ ( الجَناحُ الصَغيرُ لِلعَظْمِ الوَتِدِيّ)
+xiphoidalgia	وَجَعُ الرَّهابَة
+xiphoide cartilage	غضروف خنجريّ
+xiphoiditis	الْتِهابُ الرَّهابَة
+xiphopagotomy	فَصْلُ مُتَّحِدِ الرَّهابَتَيْن
+xiphopagus	مُتَّحِدُ الرَّهابَتَيْن [مسخ]
+xiphosternal	رَهابِيٌّ قَصِّيّ
+xiphoumbilical	رَهابِيٌّ سُرِّيّ
+xylazine	زيلازين (مرخ عضلي في الطب البيطري)
+xylem	نَسيجُ الخَشَب؛زَيْلَم
+xylene	زايلين [كيمياء]
+xylenol	زايلينول (مادة حالة ومظهرة في استخدام المجهر)
+xylidine	زايليدين [كيمياء]
+xylitol	زايليتول [كيمياء]
+xylitone	زايليتون [كيمياء]
+xylo-	سابقة بمعنى الخَشَب
+xylogen (lignin)	زايلوجين ( ليغنين)
+xyloidin	زايلويدين [كيمياء]
+xyloketose (xylulose)	زايلولوز [كيمياء]
+xyloketosuria (essential pentosuria)	بِيْلَةُ الزَّايلوكيتوز ( بيلَةٌ بنتوزيةٌ مَجْهولَةُ السَّبَب)
+xylol (xylene)	زايلول
+xyloma	وَرَمٌ خَشَبِيّ
+xylometazoline	زايلوميتازولين (دواء مضاد للاحتقان)
+xylonite	زايلونيت [كيمياء]
+xylopyranose	زايلوبيرانوز [كيمياء]
+xylosazone	زايلوسازون [كيمياء]
+xylose	زايلوز [كيمياء]
+xylose concentration test	اخْتِبارُ تَرْكيزِ الزَّيلوز (لتمييز سوء الامتصاص المعوي عن البنكرياس)
+xylose-lysine- deoxycholate agar (XLD agar)	مُسْتَنْبَت الزَّايلُوز-لِيزِين-ديُوكسِي كُولات (آغار الزَّيلُوز-لِيزِين-ديُوكسِي كُولات)
+xyloside	زايلوسيد [كيمياء]
+xylosidoglucose	زايلوزيدوغلوكوز [كيمياء]
+xylosuria	بِيلَةُ الزَّايلوز
+xylotherapy	مُعالَجَةٌ خَشَبِيَّة
+xylulose	زايلولوز [كيمياء]
+xylyl	زايليل [كيمياء]
+xyrospasm	تَشَنُّجٌ ساعِدِيٌّ مِعْصَمِيّ
+xysma	جَلِيْف (قطع غشائية في براز المصاب بالإسهال)
+xyster	مِكْشَطَة
+XYY syndrome	مُتَلازِمَة XYY، مُتَلازِمَة تعدد الصبغيّ Y

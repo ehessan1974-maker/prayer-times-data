@@ -1,0 +1,622 @@
+ear	أذن
+ear structure	بنية الأذن
+ear trumpet	مسماع بوقي / بوق سمعي
+Earth	الأرض
+earth conductor	موَصِّل أرضي
+earth's field	مجال (ال...) الأرضي
+earthing	تأريض
+ebonite	مطاط مكبرت، إبونيت
+ebullition; boiling	غليان
+eccentric	لامركزي / لا مركزي
+eccentric cam	حَدَبة لا مركزية، تباعد مركزي
+eccentricity	لامركزية / لا مركزية، تباعد مركزي
+echelle grating	محزِّز سليمّي
+echelon grating	شبكة سلَّميَّة / شبكة دَرَجية
+echo	صدى
+echo sounder	مسبار بالصدى
+echo-sounder	مسبار بالصدى
+echometer	مقياس الصدى
+echotomography	التصوير المقطعي بالصدى
+eclipse	خسوف، كسوف
+eclipse (total…)	كسوف كلِّي
+eddy currents	تيارات دوّامية / تيارات دوّامية، تيارات فوكو
+eddy-currents-loss	فقد بتيارات دوّامية
+edge	حافة
+edge dislocation	خلع حافّي / انخلاع الحافة
+edge effect	تأثير الحافة / مفعول الحَافَة
+edge sound	صوت الحافة
+Edison effect	تأثير
+effect of common ion	تأثير أيون مشترك
+effective	فعّال (ن)
+effective angular velocity	سرعة زاوية فعّالة
+effective atomic number	رقم (ال...) الذري الفعال (ن)
+effective cadmium cut-off	قاطع الكادميوم الفعال (ن)
+effective capacitance	مواسعة فعّالة
+effective cross section	مقطع عرضي فعّال (ن)
+effective delayed neutron fraction	جزء (ال...) الفعال في النترونات المتوازية (ن)
+effective electromotive force; rootmean-square electromotive force	قوة دافعة كهربائية فعّالة
+effective force; effective mecano-motive force	قوّة فعّالة
+effective half-life	عمر النصف الفعال (ن) / عمر النصف الفعال
+effective input admittance	قبولية الدخل الفعّالة
+effective input impedance	ممانعة الدخل الفعّالة
+effective mass	كتلة فعّالة (ن) / كتلة فعّالة
+effective multiplication constant; effective multiplication factor	عامل المضاعفة الفعال (ن)
+effective nuclear charge	شحنة النواة الفعالة
+effective output admittance	قبولية الخرج الفعّالة
+effective output impedance	ممانعة الخرج الفعّالة
+effective potential	كُمون فعَّال
+effective resonance integral	تكامل الرنين الفعال (ن)
+effective sound pressure	ضغط صوتي فعّال
+effective surface	سطح فعّال
+effective thermal cross section	مقطع عرضي حراري فعال (ن)
+effective value	قيمة فعّالة / قيمة منتجة، قيمة فعالة
+effective velocity	سرعة فعّالة
+effective wavelength	طول موجيّ فعّال / طول موجي فعّال
+effects of capacitance	تأثيرات المواسعة
+efficiency	كفائة / مردود، كفاءة
+efficiency of a lamp	كفاءة مصباح
+efficiency of counter	كفاءة العدّاد
+efficiency of ideal engine	مردود المحرك المثالي
+efficiency of rectification	كفاءة التقويم
+efflorescence	تزهر / تَزهُّر
+effort	مجهود
+effusion	انسكاب / اندفاق
+eigen equation	معادلة ذاتية
+eigen function	دالة مميَّزة (ن)
+eigen state	حالة ذاتية
+eigen value	قيمة مميَّزة (ن)
+eigen value problem	مسألة القيمة المميِّزة
+eigen values spectrum	طيف القيم الذاتية
+eigenfrequency	تردد ذاتي
+eigenfunction	دالَّة ذاتية
+eigenstate	حالة ذاتية
+eigenvalue	قيمة ذاتية
+eigenvalue equation	معادلة القيم الذاتية
+eigenvector	متجِه مميِّز (ن) / متَّجه ذاتي
+eikonometer	مقياس الأبعاد المجهرية
+einstein	أينشتاين
+Einstein diffusion equation	معادلة انتشار
+Einstein equation	معادلة
+Einstein function	دالة أينشتاين
+Einstein's photoelectric equation	معادلة أينشتاين الكهرضوئية (الفوتوكهربائية)
+Einstein-De Haas effect	مفعول أينشتاين - دي هاس
+einsteinium	أينشتاينيوم
+ejection	قدف
+elastance	مِرانة، مقلوب مواسعة
+elastic	مَرِن
+elastic collision	تصادم مرن (ن) / تصادم مَرِن
+elastic constant	ثابتة المُرونة
+elastic curve	منحنى المرونة
+elastic fatigue	كَلل المرونة / كَلال المُرونة
+elastic fluid	مائع مرن
+elastic force	قوة المُرونة
+elastic hysteresis constant	ثابت تخلف مرن
+elastic impact	صدم مرن
+elastic limit	حد المرونة / حدّ المُرونة
+elastic medium	وسط مَرِن
+elastic moduli; stiffness constants	معاملات المرونة
+elastic modulus	معامل المُرونة
+elastic scattering	استطارة مرنة / تبعثر مَرِن
+elastic scattering cross section	مقطع عرضي للاستطارة المرنة (ن)
+elastic solid theory	نظرية الصلب المرن
+elastic waves	أمواج مَرِنة
+elastic-after-effect; elastic lag	تأخر مروني
+elasticity	مرونة / مُرونة
+elasticity bulk modulus	معامل المرونة الحجمية
+elasticity tensor	ممتدة المرونة
+electret	كهريط
+electric arc	قوس كهربائي / قوس كهربائية
+electric charge	شحنة كهربائية
+electric charges	شحنات كهربائية
+electric circuit	دارة كهربائية
+electric condenser	مكثِّفة كهربائية
+electric condensers	مكثاف كهربائية
+electric conduction	توصيل كهربائي / توصيل كهربائي، نقل كهربائي
+electric constant	ثابت كهربائي
+electric current	تيار كهربائي
+electric dipole	قطباني كهربائي
+electric dipole radiation	اشعاع ثنائي الأقطاب الكهربائي
+electric discharge	تفريغ كهربائي / انفراغ كهربائي؛ تفريغ كهربائي
+electric dispersion	تفرق كهربائي
+electric displacement	انزياح كهربائي
+electric dynamo	مولد كهربائي
+electric energy	طاقة كهربائية
+electric field	مجال كهربائي / حقل كهربائي
+electric field strength	شدة المجال الكهربائي
+electric flux	تدفق كهربائي
+electric flux density	كثافة التدفق الكهربائي
+electric forces	قوى كهربائية
+electric furnace	فرن كهربائي
+electric glow lamp	مصباح كهربائي متوهج
+electric hysteresis	بِطاء كهربائي
+electric induction	حث كهربائي / تحريض كهربائي
+electric insulation	عزل كهربائي
+electric lamps	مصابيح كهربائية
+electric moment	عزم كهربائي
+electric motor	محرك كهربائي / محرّك كهربائي
+electric network	شبكة كهربائية
+electric polarization	استقطاب كهربائي
+electric potential	جهد كهربائي / جهد كهربائي، كمون كهربائي
+electric power	قدرة كهربائية
+electric power transmission	نقل القدرة الكهربائية
+electric quadrupole	رباعي الأقطاب الكهربائي
+electric screening	تحجيب كهربائي / حجب كهراكدي
+electric sheilding	تدريع كهربائي
+electric susceptibility	متأثرية كهربائية / مطواعية كهربائية
+electric telegraph	مبرقة كهربائية
+electric whirl	دوارة كهربائية
+electrical balance	توازن كهربائي، ميزان كهربائي
+electrical capacity	سعة كهربائية
+electrical conductivity	موصّلية كهربائية / مُوصِلِيَّة كهربائية، ناقلية كهربائية
+electrical conductor	موصل كهربائي، ناقل كهربائي
+electrical depositions	ترسيب كهربائي
+electrical energy	طاقة كهربائية
+electrical forming	تشكيل كهربائي
+electrical impedance	ممانعة كهربائية
+electrical induction	حث كهربائية
+electrical influence	تأثير كهربائي
+electrical insulator	عازل كهربائي
+electrical permittivity	سماحية كهربائية
+electrical power	قدرة كهربائية (ن)
+electrical resistance	مقاومة كهربائية
+electrical resistivity	مقاومية كهربائية
+electrical work	شغل كهربائي
+electricity	كهرباء
+electrification	تكهرب / تكهرب، كهربة
+electrification by contact	تكهرب بالتماس
+electrification by friction	تكهرب بالاحتكاك
+electrification by induction	تكهرب بالحث
+electro plating	طلاء كهربائي
+electro-chemical equivalent	مكافىء كهركيميائي / مكافئ كهركيميائي
+electro-luminescence	لمعان كهربائي
+electro-optical shutter	غالق كهربصري
+electroacoustics	كهرصوتيات
+electrocapillarity	خاصة (ال...) الشعرية الكهربية
+electrocapillary curve	منحنى الكهربية الشعرية
+electrochemical passivity	سلبية كهركيميائية
+electrochemical series; electromotive force series	متسلسلة كهركيميائية
+electrode	مَسرى / مسـرى، إلكترود
+electrode characteristic	مميزة المسرى
+electrode dissipation	تبدد المسرى
+electrode gap	فجوة بين مسـريين
+electrode gap; analytical gap	فجوة بين مسريين
+electrode potential	جهد المسرى
+electrodeless discharge	تفريغ دون مسار
+electrodialysis	ديلزة كهربائية / تحالّ كهربائي
+electrodynamic ammeter	مقياس الأمبير الديناميكي الكهربائي
+electrodynamics	تحريكيات (ال...) الكهربائية / تحريك كهربائي، إلكتروديناميك
+electroendosmosis	انتضاح داخلي كهربائي / تناضح داخلي كهربائي
+electrokinetic effects	تأثيرات كهرحركية
+electrokinetic potential	كمون كهرحركي
+electrokinetic potential; zeta potential	جهد كهرحركي
+electrokinetics	حركيات (ال...) الكهربائية / حركيات كهربائية، كهرحركيات
+electroluminescence	تألق كهربي
+electrolysis	تحليل كهربائي / تحليل كهربائي، كهرلة
+electrolyte	منحلّ كهربائي / كهرليت
+electrolytic capacitor	مكثفة كهرليتية
+electrolytic conductor	موصل بالمنحلّ الكهربائي، موصل الكتروليتي
+electrolytic dissociation	تحلل المنحل الكهربائي
+electrolytic polarization	استقطاب المنحل الكهربائي
+electrolytic polishing	صقل بالمنحل الكهربائي
+electrolytic rectifier	مقوم بالمنحل الكهربائي
+electromagnet	مغنطيس كهربائي
+electromagnetic	كهرطيسي
+electromagnetic bomb	قنبلة كهرطيسية
+electromagnetic constant	ثابت مغنطيسي
+electromagnetic field	مجال كهرمغنطيسي / حقل كهرطيسي
+electromagnetic induced transparency	شفافية محرَّضة كهرطيسيًا
+electromagnetic induction	حث كهرمغنطيسي
+electromagnetic isotope separation	فصل النظائر كهرطيسيًا
+electromagnetic mass	كتلة كهرطيسية
+electromagnetic radiation	إشعاع كهرطيسي
+electromagnetic repulsion	تنافر كهرمغنطيسي (ن)
+electromagnetic separation	فصل كهرمغنطيسي (ن)
+electromagnetic spectrum	طيف كهرطيسي
+electromagnetic theory	نظرية (ال...) الكهرمغنطيسية / نظرية كهرطيسية
+electromagnetic unit	وحدات كهرمغنطيسية
+electromagnetic wave	موجة كهرطيسية
+electromagnetic waves	موجات كهرمغنطيسية
+electromagnetism	كهرمغنطيسية / الكهرطيسية
+electrometallurgy	تعدين كهربائي
+electrometer	مقياس الكهرباء / مقياس الكهرباء، إلكترومتر
+electrometer quadrants	مقياس كهربائي أرْبَعي
+electrometer tube	صِمام مقياس الكهرباء
+electrometer valve	مقياس كهربائي صمامي
+electrometry	قياس الكهرباء
+electromotive force	قوة دافعة كهربائية
+electromotive force (e.m.f)	قوة محركة كهربائية (ق.م.ك)
+electron	الكترون (ن) / إلكترون
+electron accelerator	مسـرع الإلكترونات
+electron beam	حزمة الكترونية / حزمة إلكترونية
+electron beam alignment	تسديد حزمة الالكترونات
+electron binding energy	طاقة ارتباط الإلكترون
+electron capture	أسْر الكتروني (ن) / أَسـر إلكترون
+electron charge	شحنة الإلكترون
+electron cloud	سحابة الكترونية / سحابة إلكترونية
+electron collection	تجميع الالكترونات (ن)
+electron collision experiments	تجارب تصادم الإلكترونات
+electron configuration	توزّع الالكترونات / تشكيلة إلكترونية
+electron coupling	تقارن الكتروني
+electron cyclotron- resonance	تجاوب سِكلوتروني إلكتروني
+electron density	كثافة إلكترونية
+electron diffraction	انعراج الإلكترونات
+electron emission	إصدار إلكتروني
+electron gas	غاز إلكتروني
+electron gun	مدفع الكترونات / مدفع الإلكترونات
+electron interferometer	مقياس تداخل الإلكترونات
+electron laser	ليزر الإلكترونات الحرة
+electron lens	عدسة الكترونية / عدسة إلكترونية
+electron level	مستوى إلكتروني
+electron magnetic moment	العزم المغنطيسـي للإلكترون
+electron mass	كتلة الإلكترون
+electron microscope	مجهر الكتروني / مجهر إلكتروني
+electron mirror	مرآة الكترونية
+electron mobility	حركية الإلكترون
+electron multiplier	مضاعف إلكترونات (ن) / مُضاعِف الإلكترونات
+electron neutrino	نترينو إلكتروني
+electron of internal conversion	إلكترون الانقلاب الداخلي
+electron optics	البصـريات الإلكترونية
+electron orbit	مدار إلكتروني
+electron pair	زوجان إلكترونيان
+electron pair annihilation	فناء الزوجين الإلكترونيين
+electron pair production	توليد الزوجين الإلكترونيين
+electron paramagnetic resonance	تجاوب إلكتروني مغنطيسـي مساير
+electron positron pair	الزوجان إلكترون وبوزترون
+electron rays	أشعة الكترونات
+electron scattering	تبعثر الإلكترونات
+electron screening	حجب إلكتروني
+electron shell	قشرة الكترونية / طبقة إلكترونية
+electron spectrum	طيف إلكتروني
+electron spin	سَبِين الإلكترون
+electron spin resonance	تجاوب سبِيني إلكتروني
+electron temperature	درجة حرارة الإلكترونات
+electron theory	نظرية الالكترون
+electron transition	انتقال الالكترون
+electron trap	مصيدة إلكترونية
+electron tube	صمام الكتروني / صِمام إلكتروني؛ أنبوب إلكتروني
+electron volt (eV)	إلكترون فلط
+electron wave	موجة الإلكترون
+electron wave packet	رزمة أمواج إلكترونية
+electron-hole pair	زوج من الكترون وفجوة / زوجا الإلكترون - الثقب
+electron-phonon collision	تصادم إلكترون – فونون
+electron-volt	الكترون نفولط (ن)
+electronegative element	عنصر كهرسلبي
+electronegativity	كهرسلبية
+electronic	إلكتروني
+electronic band spectra	أطياف أنطقة الكترونية
+electronic computer	حاسبة الكترونية / حاسوب إلكتروني
+electronic formula	صيغة الكترونية
+electronic lens	عدسة الكترونية
+electronic magneton	مغنطون إلكتروني
+electronic microscope	مجهر الكتروني
+electronic optics	بصريات الكترونية
+electronic polarizability	استقطابية الكترونية
+electronic polarization	استقطاب الكتروني
+electronics	علم الإلكترونيات
+electronnegativity	كهرسلبية (ال...)
+electrooptics	كهربصـريات
+electrophorus	الكتروفور
+electropositive plate	صفيحة موجبة
+electropositivity	كهرإيجابية
+electroscope	مكشاف كهربي / مِكشاف كهربائي
+electrosilvering	تفضيض كهربائي
+electrostatic	كهراكد
+electrostatic accelerator	معجل بالكهرباء الساكنة (ن) / مُسـرع كهراكدي
+electrostatic energy	طاقة كهرساكنة / طاقة كَهْراكدة
+electrostatic field	مجال كهرساكن / حقل كَهْراكدي
+electrostatic force	قوة كهراكدية
+electrostatic generator	مولد كهرساكن / مولد كَهْراكدي
+electrostatic induction	حث كهرساكن / تحريض كَهْراكدي، حث كَهْراكدي
+electrostatic lens	عدسة كهرساكنة
+electrostatic potential	جهد كهرساكن
+electrostatic precipitation	ترسُّب/ترسيب كهراكدي
+electrostatic units	وحدات الكهرساكنة
+electrostatic voltmeter	مقياس الفولط للكهرساكنة
+electrostatics	سكونيات (ال...) الكهربائية / كَهْراكدة، الكهرباء الراكدة
+electrostriction	تقّبض كهربائي / تقبّض كهربائي
+electrostrictive strain	تقبُّض كهربائي
+electrotyping	طبع كهربائي
+electrovalence	تكافؤ كهربائي
+electrovalency	تكافؤية كهربائية
+electroviscosity	اللزوجة الكهربائية
+electroviscous effect	تأثير اللزوجة كهربائيا
+electroweak	كهرضعيف
+element	عنصر (ن) / عنصـر
+elementary charge	شحنة أولية (ن) / الشحنة الأولية
+elementary particle	جُسيم أولي
+elementary particles	جسيمات أولية
+elementary value function	دالة القيمة الأولية (ن)
+elevation	ارتفاع
+elevation of freezing point	ارتفاع نقطة التجمد
+elimination	حذف / حَذْف
+ellipse	قطع ناقص، اهليلج / إهليلج، قطع ناقص
+ellipsoid	مجسم القطع الناقص، مجسم إهليلجي
+ellipsoid of indicies	مجسم القرائن الإهليليجي
+elliptical	إهليلجي
+elliptical orbit	مدار إهليلجي
+elliptical polarization	استقطاب اهليلجّي / استقطاب إهليلجي
+elliptically-polarizes light	ضوء مستقطب اهليلجيا
+ellipticity	نسبة محورية
+elongation	استطالة
+emanation	انبثاق
+emergant ray	شعاع نافذ
+emergency cooling system	نظام التبريد الاضطراري (ن)
+emergency core cooling system	نظام تبريد اللب الاضطراري (ن)
+emergency shutdown	ايقاف اضطراري (ن)
+emergent	نافذ
+emergent ray	شعاع بارز
+emission	انبعاث (ن) / إصدار، إرسال
+emission lines spectra	طيف خطوط الانبعاث (ن)
+emission of electromagnetic waves	إصدار الأمواج الكهرطيسية
+emission of radiation	انبعات الاشعاع
+emission rate	معدل الانبعات (ن)
+emission spectrum	طيف الانبعاث / طيف الإصدار
+emissive power	إصدارية
+emissive power; emissivity	قدرة انبعاثية
+emissivity	إصدارية نسبية
+emittance	إصدارية
+emitter	باعث؛ مرسِل
+emitter follower	متتبع الباعث
+emmetrope	سديد البصـر
+emmetropia	سداد النظر / سَداد البصـر
+emmetropic eye	عين سديدة النظر
+empirical	وضعّي / خِبْري
+empty magnification	تكبير عقيم
+empty set	مجموعة خالية
+emulsification	استحلاب
+emulsion	مستحلب / مستحْلَب
+enantiomorph	متشاكل معاكس، متطابق مرآويًا
+enantiomorphs crystals	بلّورات متشاكسة
+enantiotropy	تشاكس / تشاكل معاكس
+encounter of molecules	تلاقي الجزيئات
+end product	الناتج النهائي
+end-leakage flux	تدفق التسرب الطرفي
+end-organ	عضو طرفي
+end-point	منتهى / نقطة النهاية
+ending book inventory; final book inventory	جرد مخزون نهائي (ن)
+endoenergic	ماص الطاقة (ن)
+endoergic reaction	تفاعل ماص للطاقة
+endoscope	منظار داخلي، منظار الباطن
+endosmosis	تناضح داخلي
+endothermic	ماص الحرارة
+endothermic compounds	مركبات ماصة الحرارة
+endothermic reaction	تفاعل ماص للحرارة
+energetic equivalent of mass	مكافئ الكتلة الطاقي
+energetic particle	جسيم سـريع
+energy	طاقة
+energy absorption	امتصاص الطاقة (ن) / امتصاص الطاقة
+energy balance	رصيد الطاقة
+energy band	نطاق طاقة / عِصابة الطاقة
+energy band structure	بِنية عِصابات الطاقة
+energy conversion	تحول الطاقة
+energy density	كثافة الطاقة
+energy dissipation	تبديد الطاقة
+energy distribution function	دالة توزع الطاقة
+energy fluence	سيولة الطاقة (ن)
+energy flux	تدفق الطاقة
+energy flux density	كثافة تدفق الطاقة (ن)
+energy gap	فرجة الطاقة
+energy imparted to matter	طاقة معطاة للمادة (ن)
+energy level	مستوى الطاقة (ن) / مستوى الطاقة
+energy level diagram	مخطط مستويات الطاقة
+energy level width	عرض مستوى الطاقة
+energy of dislocation	طاقة الخلع
+energy of light	طاقة الضوء
+energy of resonance absorption	طاقة الامتصاص التجاوبي
+energy of rotation	طاقة الدوران
+energy of translation	طاقة الانتقال
+energy operator	مؤثر الطاقة
+energy output	خَرْج الطاقة
+energy quantization	تَكْمِية الطاقة، استكمام الطاقة
+energy spectrum	طيف الطاقة
+energy states	حالات طاقية
+energy transfer coefficient	معامل نقل الطاقة (ن)
+energy units	وحدات الطاقة
+engine	محرّك
+engineering	هندسة
+enhanced line	خط مقوَّى
+enlarger	مكبّر
+enriched fuel	وقود مخصَب (ن)
+enriched material	مادة مخصَبة (ن)
+enriched reactor	مفاعل مخصَب (ن)
+enriched uranium	يوارنيوم مخصَب (ن) / يورانيوم مخصَّب
+enrichment	اخصاب (ن)
+enrichment factor	عامل الاخصاب (ن) / عامل التخصيب
+ensemble	مجموعة جُمَل
+entanglement	تشابك
+enthalpy	محتوى (ال...) الحراري / أنطلبية؛ محتوى حراري
+entrance channel	قناة المدخل (ن)
+entrance pupil	بؤبؤ الدّخول
+entrance slit	شق الدخول
+entropy	اعتلاج / أنتروبية
+entropy of disorder	اعتلاج الفوضى
+entropy of fusion	اعتلاج الانصهار
+entropy of mixing	اعتلاج الخلط
+entropy of solution	اعتلاج المحلول
+entropy of vaporization	اعتلاج التبخر
+entropy vector	متّجه الإعتلاج، متجه الانتروبي
+eolieun sound	هفيف؛ صفير الريح
+epicadmium	مافوق الكادميوم (ن)
+epidiascope	مسقاط الصور، ابدياسكوب / مِسقاط الصور بالانعكاس وبالشُّفوف
+episcope	مِسقاط الصور بالانعكاس
+epitaxy	إبيتكسي / تنضيد
+epithermal	فوق الحراري (ن)
+epithermal neutron	نترون فوق حراري
+epithermal neutrons	نترونات فوق الحرارية (ن)
+epithermal reactor	مفاعل فوق حراري
+equal forces	قوى متساوية
+equal-energy source	مصدر متساوي الحركة
+equation	معادلة
+equation of continuity	معادلة الاستمرار
+equation of ideal gas	معادلة الغاز الكامل
+equation of motion	معادلة الحركة
+equation of state	معادلة الحالة
+equation of wave	معادلة الموجة
+equation of wave propagation	معادلة انتشار الموجة
+equations of motion	معادلات الحركة
+equator	خط الاستواء
+equilibrium	توازن، اتّزان / توازن
+equilibrium concept	مفهوم الاتزان
+equilibrium conditions	شـروط التوازن
+equilibrium core	لب متوازن (ن)
+equilibrium cycle	دورة التوازن (ن)
+equilibrium of forces	توازن القوى
+equilibrium of rigid body	توازن جسم صلد
+equilibrium point	نقطة الاتزان
+equilibrium time	زمن التوازن (ن)
+equipartition	توزيع متساوٍ / توزيع متساوي
+equipartition of energy	تجزئة (ال...) المتساوية للطاقة (ن)
+equipartition principle	مبدأ تساوي توزع الطاقة
+equipotential region	منطقة تساوي الجهد
+equipotential surface	سطح تساوي الكمون
+equipotential surfaces	سطوح تساوي الجهد
+equiprobable	متساوي الاحتمال
+equivalence	تكافؤ
+equivalence of mass and energy	تكافؤ الكتلة والطاقة (ن)
+equivalence principle	مبدأ التكافؤ
+equivalence theorem	مبرهنة التكافؤ
+equivalent circuit	دارة مكافئة
+equivalent conductance	موصلية مكافئة
+equivalent conductivity	توصيلية مكافئة
+equivalent constant potential	جهد ثابت مكافىء
+equivalent lens	عدسة مكافئة
+equivalent resistance	مقاومة مكافئة
+equivalent weight	وزن مكافىء
+equivocation	ابهامية
+erbium	إربيوم
+erect	قائم
+erect image	صورة قائمة / خيال صحيح
+erecting lens	عدسة مقّومة / عدسة مقوِّمة
+erecting prism	موشور معدِّل / منشور مصحِّح، موشور مقوِّم
+erg	ارك، ارغ / إرغة
+erg-second	ارغ ثانية، ارك ثانية
+ergon	كمّ الطاقة / إرغون
+error	خطأ
+error bar	شـريط الخطأ
+error function (erf)	دالة الخطأ
+Esaki diode	ديود إيساكي، ثنائي نفقي
+escape velocity	سـرعة الإفلات
+essential degeneracy	انطباق أساسي
+estimated error	خطأ مخمن
+etalon	معيار
+etching	تنميش، رَقْش
+ether	أثير / الأثير
+Euclidean geometry	هندسة إقليدية
+Euler equations	معادلات أولر
+Eulerian angles	زوايا أولر
+europium	أوروبيوم
+evacuation pump	مضخة تفريغ
+evaporation	تبخر / تبخّر، تبخير
+evasion coefficient	معامل البَخر
+even function	دالة زوجية
+even numbers	أعداد زوجية
+even-even nucleus	نواة شفعية شفعية / نواة زوجية - زوجية
+even-odd nucleus	نواة زوجية فردية
+even-old nucleus	نواة شفعية وِترية (ن)
+event	حَدَث
+event horizon	أفق الحدث
+evidence	حجة
+evolution operator	مؤثر التطور
+exaltation of colour	تعلية اللون
+excess carrier density	كثافة الحاملات الفائضة
+excess reactivity	مفاعلية فائضة (ن)
+excess resonance integral	تكامل الرنين الفائض (ن)
+excessive pressure of sound	ضغط مفرط للصوت
+exchange	تبادل / تبادل، بدَّالة
+exchange degeneracy	تفكك التبادل / انطباق التبادل
+exchange distillation	تقطير تبادلي (ن)
+exchange energy	طاقة التبادل
+exchange forces	قوى تبادلية
+exchange interactions	تآثرات تبادلية
+exchange of heat	تبادل الحرارة
+exchange operator	مؤثر التبادل (ن) / مؤثر التبادل
+excimer	إكسيمَر
+excimer laser	ليزر إكسيمر
+excitation	تهيّج (ن) / إثارة
+excitation energy	طاقة التهيج (ن) / طاقة الإثارة
+excitation of inner electrons	إثارة الإلكترونات الداخلية
+excitation potential	جهد الإثارة، كمون الإثارة
+excite (to)	يهيج (ن)
+excited atom	ذرة مُثارة
+excited radioactivity	نشاط اشعاعي مهيج
+excited state	حالة تهييج / حالة مُثارَة
+exciton	اكستون / إكسيتون
+exclusion area	منطقة الاستبعاد (ن)
+exclusion principle	مبدأ الاستبعاد
+exhaust air decontamination system	نظام ازالة تلوث الهواء الملفوظ (ن)
+exhaust velocity	سرعة الانفلات / سـرعة الانفلات
+exit aperture	فُتْحة الخروج
+exit dose	جرعة الخروج
+exit port; expit pupil	بؤبؤ الخروج
+exit pupil	فتحة الخروج
+exit slit	شق الخروج
+exoergic	ناشـر للطاقة
+exosmosis	تناضح خارجي / نضح خارجي
+exothermic change	تحول مانح الحرارة
+exothermic reaction	تفاعل ناشـر للحرارة
+exothermic; exoergic	مانح الحرارة
+exotic atom	ذرة غريبة
+expansion	تمدد
+expansion (apparent…)	تمدد ظاهري
+expansion chamber; cloud chamber	غرفة سحابية
+expansion coefficient of gases	معامل تمدد الغازات
+expansion of liquids	تمدد السوائل
+expansion of solids	تمدد الأجسام الصلبة
+expansion of the universe	توسع الكون
+expansion of water	تمدد الماء
+expectation	توقُّع
+expectation value	قيمة (ال...) المتوقعة (ن)
+expected value	قيمة متوقَّعَة
+experiment	تجربة / تجرِبة
+experimental	تجريبي
+experimental reactor	مفاعل تجريبي (ن)
+explosion	انفجار
+explosion spectrum	طيف الانفجار
+exponent	أُسّ
+exponential	أُسِّي
+exponential absorption	امتصاص أسِّي (ن)
+exponential assembly	مجمَّع أسِّيّ (ن)
+exponential attenuation	توهين أسِّيّ (ن)
+exponential decay	اضمحلال أسِّيّ (ن) / اضمحلال أُسّي
+exponential growth	تزايد أسي، نموّ أسّي
+exponential law	قانون أسي
+exponential pile	تجربة أسِّية (ن) / تكديس أسي (ن)
+exposure	تَعَرَض (ن)
+exposure dose of radiation	جرعة التعرض للإشعاع
+exposure rate	معدل التعرض (ن)
+extended dislocation	خلع ممتد
+extended zone	منطقة ممتدة
+extensibility	تمددية (ال...) / استطالية
+extensive air shower	وابل أوجيه
+extensive property	خاصية مقدارية
+extensometer	جهاز قياس الاستطالة
+external bremstrahlung	اشعاع الكبح الخارجي (ن)
+external force	قوة خارجية
+external irradiation	تشجيع خارجي (ن)
+external resistance	مقارمة خارجية
+external work	شغل خارجي / عمل خارجي
+extinction	انطفاء
+extinction coefficient	معامل الانطفاء
+extinction voltage	فولطية الاخماد
+extra current	تيار اظافي
+extraction	استخلاص
+extraction cycle	دورة الاستخلاص (ن)
+extraction potential	كمون الاقتلاع
+extraordinary index	قرينة غير عادية
+extraordinary index of refraction	معامل انكسار الشعاع غير العادي
+extraordinary ray	شعاع غير عادي
+extrapolated boundary	حد مستقرى خارجيا
+extrapolation	استكمال بالاستقراء الخارجي
+extrinsic properties	خواص مكتسبة
+extrinsic semiconductor	نصف ناقل دخيل
+eye	عين
+eye accommodation	تكيف العين / مطابقة العين
+eye aqueous humour	سائل (ال...) المائي للعين
+eye astigmation	لانقطية العين
+eye cornea	قرنية العين
+eye fatigue	كلال العين
+eye field	مجال العين
+eye lens	عدسة العين / عدسة عينية
+eye resolving power	قوة تمييز العين
+eye retina	شبكية العين
+eyepiece	عينية

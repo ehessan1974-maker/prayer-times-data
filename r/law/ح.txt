@@ -1,0 +1,310 @@
+حاجب محكمة، عون قضائيّ	bailiff
+حادث عارِض، حادث فجائيّ	accidental case
+حادث، إصابة	accident
+حادثة شغل، إصابة عمل	industrial accident; occupational accident; work injury
+حادثة طريق	accident of passage
+حادثة مرور، حادثة طريق	traffic accident
+حارس قضائي	Judicial Receiver
+حاشية	gloss
+حافز	Incentive
+حافز السعر الثابت	(FPI) Fixed Price Incentive
+حالة (ال..) المدنية	civil status
+حالة الحرب	state of war
+حالة الشخص الظاهرة	possession of status
+حالة الضرورة	necessity state
+حالة حِصار	state of siege
+حالة طوارئ	state of emergency
+حَبسٌ	imprisonment
+حبس انفرادي	Solitary Confinement
+حتمية الخبرة	Expert Determination
+حَجْر	Interdiction / interdiction
+حَجْر قانونيّ	legal interdiction
+حَجْر قضائيّ	judicial interdiction
+حَجْز	Seizure / booking / seizure; sequestration
+حَجْز البضائع	seizure of goods
+حجز العلامة	Seizure of trademarks
+حَجْز المنقولات	seizure of movable property
+حَجْز تحفظيّ	Provisional Seizure / conservatory seizure; garnishment
+حَجْز تنفيذيّ	execution seizure
+حَجْز عقاريّ	seizure of real property
+حجية الأمر المقضي	Res Judicata
+حجّيّة الشيء المقضي به	authority of the judged thing
+حد	Hadd
+حد أدنى	Bottom Line; De Minims / minimum
+حد أدنى للأجر	minimum wage
+حد الأدنى لكمية الطلب	Minimum Order Quantity (MOQ)
+حد المواصفات الأعلى	Upper Specification Limit
+حد مواصفات أقل	Lower Specification Limit
+حَدَثٌ	Juvenile / juvenile
+حدث (أو قضية)	Event (Or Issue)
+حدث البجعة السوداء	Black Swan Event
+حدث التعويض	Compensation Event
+حدث محفز	Trigger Events
+حَدَثٌ، واقعة	event
+حدود	boundary; border; frontier
+حدود الاستجابة من حيث التكلفة	Cost-Responsiveness Frontier
+حدود المسؤولية	Limit Of Liability
+حدود النظام	System Boundary
+حدود دولية	international boundaries
+حذف المصنف	Deletion of work
+حراسة	guard
+حراسة قضائية	Receivership
+حرب	war
+حرب الاستقلال	war of independence
+حرب أهلية	civil war
+حرب تجارية	Trade War
+حرب عالمية	world war
+حرب عصابات	guerrilla war
+حرب معلوماتية	information warfare
+حرب نووية	nuclear war
+حرب وقائية	preventive war
+حركة نِسوية	feminism
+حركة نقابية	trade-union movement
+حرمان	deprivation
+حرمان من الإرث	disinheritance
+حُرمَة	inviolability
+حُرمَة المسكن	inviolability of domicile
+حريات عامة	public liberties
+حريق عمديّ، حريق متعمد	arson; voluntary fire
+حريق غير عمديّ، حريق غير متعمد	involuntary fire
+حرية اقتصادية	economic liberty
+حرية الاجتماع	freedom of assembly
+حرية الاعتقاد، حرية المعتقد	freedom of belief
+حرية التجارة	freedom of commerce
+حرية التجارة والصناعة	right of free enterprise
+حرية التعاقد	liberty of contract
+حرية التعبير	freedom of expression
+حرية التكتلات	Freedom Of Association
+حرية التنقل	freedom of circulation
+حرية الدين، حرية دينية	freedom of religion
+حرية الرأي	freedom of opinion
+حرية الصحافة	freedom of press
+حرية الصناعة	freedom of industry
+حرية العبادة	freedom of worship
+حرية العمل	freedom of work
+حرية فردية	right to habeas corpus
+حرية نقابية	trade-union freedom; trade-union liberty
+حزب	party
+حزب (ال..) الوحيد	sole party
+حزب الأغلبية	majority party
+حزب بريء	Innocent Party
+حزب سياسيّ	political party
+حزم العمل	Work Packages
+حساب	account
+حساب الأرباح والخسائر	profit and loss account
+حساب الاستغلال	operating account; exploitation account
+حساب المشتريات	purchases account
+حساب الودائع	deposit account
+حساب توفير، حساب ادِّخار	saving account
+حساب جارٍ	current account
+حساب جار مكشوف	overdrawn current account
+حساب حالي	Current Account
+حساب خاصّ، حساب شخصيّ	private account
+حساب دائنية	creditor account
+حساب سنويّ	yearly account
+حساب شخصيّ	personal account
+حساب صوريّ، حساب وهميّ	dead account
+حساب مجمّد	blocked account
+حساب مدينية	debtor account
+حساب مشترَك	joint account
+حساب مصرفيّ، حساب بنكيّ	bank account
+حساب مفتوح	Open Account
+حساب مُقفَل	closed account
+حسابات الإدارة	Management Accounts
+حسابات قابلة للدفع	Accounts Payable
+حساسية السوق	Market Sensitivity
+حَسْم، خَصْم	discount
+حُسْن النية	Bona Fide / bona fide; good faith
+حصاد	Harvesting
+حصار (بحريّ)	blockade
+حصانة	Immunity / immunity
+حصانة برلمانية	parliamentary immunity
+حصانة دبلوماسية	diplomatic immunity
+حصانة دولية	exterritoriality
+حصانة قضائية	immunity of jurisdiction
+حصر الورثة	Determination of Heirs
+حصة	Share
+حصة السوق النسبية	Relative Market Share
+حصة الشريك	company share
+حصة المحفظة	Share Of Wallet
+حصة تأسيس	founder's share
+حصة سوقية	Market Share
+حصة صناعية، مشاركة صناعية	industrial contribution
+حصة عينية	contribution in kind
+حصة نسبية	Quota
+حصة نقدية، مشاركة نقدية	contribution in cash
+حصة، مُشَارَكة	contribution
+حصيلة	Outcome
+حصيلة التنفيذ	Enforcement Proceeds
+حضٌّ، إرشاد	exhortation
+حضانة	Custody / custody
+حضور الأطراف، حضور الخصوم	appearance of the parties
+حَظْر	embargo
+حَظْر الإقامة	local banishment
+حظيرة الماشية	Stockyard
+حفظ دفاتر القيد المزدوج	Double Entry Book Keeping
+حقٌّ	Right / right
+حق أدبي	Moral Right
+حقٌّ أدبيّ، حقٌّ فكريّ	intellectual right; moral right
+حقُّ ارتفاق	servitude
+حقُّ اغتراف المياه	servitude of drawing water; easement of drawing water
+حقُّ الاحترام المتبادل	right of mutual respect
+حق الارتفاق	Easement Right
+حقُّ الاستئناف، حقُّ الطعن بالاستئناف	right of appeal
+حق الاستخدام الشامل	Universal Access
+حقُّ الاستعمال	Right of Use / right of usage
+حقُّ الاستغلال	right of exploitation
+حقُّ الإضراب	right to strike
+حقُّ الأغيار، حقُّ الغير	right of third parties
+حقُّ الامتياز	privilege right
+حقُّ الانتخاب	right of election
+حقُّ الانتفاع	Usufruct Right / usufruct
+حقُّ الانتفاع، حقُّ المنفعة	right of usufruct
+حقُّ الأولوية	Priority Right / right of preference
+حقُّ التتبع	Tracing Right / right of follow up
+حقُّ التصدي	evocation
+حقُّ التصويت	Voting right / right to vote
+حق التقاضي	Right to Litigation
+حقُّ الحبس	right of retention
+حقُّ الحضانة	right of guard
+حقُّ الدفاع الشرعيّ	right of self-defense
+حقُّ الرجوع	Right of Recourse / right to repossess
+حقُّ الزيارة	visitation right
+حقُّ الزيارة، حقُّ التفتيش	right of visit
+حقُّ السكنى	Right of Habitation / right of habitation
+حقُّ الشعوب في تقرير مصيرها	right of self-determination of people
+حقُّ الشغل	right to work
+حقُّ الشفعة	Right of First Refusal / right of preemption
+حق الصنف النباتي	Plant variety right
+حقّ العدول، حقّ التراجع	right of retraction
+حقُّ العفو	right of pardon; right of grace
+حق العمل	Right to Work
+حقُّ الفيتو، حقُّ الاعتراض	right of veto
+حقُّ اللجوء السياسيّ	right of asylum
+حقُّ المؤلِّف	Copyright / right of author
+حقُّ المرور، حقُّ العبور	right of way; right of passage
+حقُّ المعارضة	right of opposition
+حقُّ المعرفة	right to know
+حق المقاصة	Right Of Set-Off
+حقُّ الملكية	Right of Ownership / property right; right of ownership
+حق الملكية الفكرية	Intellectual Property Right
+حق النسخ	Copy right
+حقُّ النشر	publishing right
+حقُّ الولوج، حقُّ الدخول	right of access
+حقُّ تأسيس الجمعيات	right of association
+حقٌّ حصريّ	Exclusive Right / exclusive right
+حقٌّ دستوريّ	constitutional right
+حق سيادي	Sovereign Right
+حقٌّ شخصيّ	Personal Right / personal right
+حقٌّ طبيعيّ	natural right
+حقٌّ عينيّ	Right in Rem / real right
+حق عيني أصلي	Original Right in Rem
+حق عيني تبعي	Ancillary Right in Rem
+حق غير حصري	Non-exclusive Right
+حقٌّ في الكراء	right to the lease
+حق مُتنازَع فيه	Disputed Right
+حق مرخص	Assigned right
+حقٌّ معنويّ	Intangible Right / incorporeal right
+حقٌّ مكتسب	vested right; acquired right
+حق ملكية البضائع	Title To Goods
+حقوق (ال..) الاقتصادية والاجتماعية	economic and social rights
+حقوق (ال..) العينية الأصلية	principal real rights
+حقوق (ال..) والالتزامات	rights and obligations
+حقوق الإنسان	Human Rights / human rights
+حقوق السجناء	prisoner's rights
+حقوق الشخص الموقوف	rights of arrested person
+حقوق المؤلِّف	copyrights / royalties
+حقوق المساهمين	Shareholder Equity
+حقوق الملكية الفكرية	Intellectual Property Rights (IPR) / intellectual property rights
+حقوق الملكية لكل سهم	Equity Per Share
+حقوق المواطن	citizen rights
+حقوق خاصة	private rights
+حقوق دولية	international rights
+حقوق سياسية	political rights
+حقوق عينية تبعية	accessory real rights
+حقوق مدنية	civil rights
+حقوق ملكية	Equity
+حقوق نقابية	union rights
+حقيبة النظام البيئي	Ecological Rucksack
+حقيقة	truth
+حكم	Judgment
+حُكْم (ال..) المرجع	third arbitrator; umpire
+حكم (ال..) بأكثر مما طلب	excessive award
+حُكْم ابتدائيّ	judgment in first scope
+حُكْم أجنبيّ	Foreign Judgment / foreign judgement
+حُكْم استبداديّ	despotism
+حُكْم الأقلية	oligarchy
+حُكْم بالإدانة	condemnation sentence
+حكم بالبراءة	Judgment of Acquittal
+حكم بعدم الإدانة	Judgment of Acquittal
+حُكْم تمهيديّ	preliminary judgment; interlocutory judgement
+حَكَمٌ ثالث	umpire
+حكم جزائي	Criminal Judgment
+حكم عاجل	Summary Judgment
+حُكْم غيابيّ	Judgment in Absentia / judgment in absence; judgment in absentia; judgment by default
+حكم غير قابل للتمييز	Non-appealable Judgment
+حكم قابل للاستئناف	Appealable Judgment
+حكم قضائي	Judicial Ruling
+حُكْم قطعيّ	definitive judgment
+حُكْم كاشف، حكم إعلانيّ	declaratory judgment
+حُكْم مرجح	deciding umpire
+حُكْم مشمول بالنفاذ المعجل	enforceable judgment
+حُكْم مطلق، حُكْم فرديّ	autocracy
+حُكْم منشِئ	constitutive judgment
+حُكْم نهائيّ	Final Judgment / final judgment / judgment in last scope; judgment after trial
+حكم واجب التنفيذ	Enforceable Judgment
+حكم وقتي	Provisional Ruling
+حُكْم، قرار	sentence
+حكومة	government
+حكومة ائتلافية	coalition government
+حكومة الأمر الواقع	government de facto
+حكومة الفنيّين	technocracy
+حكومة انتقالية، حكومة مؤقتة	provisional government
+حكومة برلمانية	parliamentary government
+حكومة جمهورية، حُكْم جمهوريّ	republican government
+حكومة محلية	local government
+حكومة مركزية	central government
+حكوميّ	governmental
+حلٌّ	dissolution
+حلُّ البرلمان	dissolution of parliament
+حلُّ الشركة	Dissolution of Company / dissolution of company
+حل النزاعات	Conflict Resolution; Adjudication
+حلٌّ سلميّ للنـزاعات	peaceful resolution of conflicts
+حلٌّ مقبول	acceptable solution
+حلول	subrogation
+حلول اتفاقيّ	conventional subrogation
+حلول بحكم القانون	legal subrogation
+حلول دبلوماسية	diplomatic solutions
+حمائية	Protectionism
+حماية اجتماعية	Social Protection
+حماية مؤقتة للعلامة	Temporary trade protection
+حملة إعلانية، حملة إشهارية	advertising campaign
+حملة انتخابية	electoral campaign; election campaign
+حمولات مجزأة	Break Bulk
+حنث باليمين	Breaking an Oath
+حواجز الاستيراد	Import Barriers
+حواجز الخروج	Exit barriers
+حواجز جمركية	tariff barriers; walls barriers
+حوادث الإنقطاع عن العمل	Lost Time Incidents (LTI)
+حوار اجتماعي	Social Dialogue
+حوار تنافسي	Competitive Dialogue
+حوار تنافسي مع التفاوض	Competitive Dialogue With Negotiation
+حوالة	Remittance
+حوالة الحق	Assignment of Right / transfer of right
+حوالة الدين	Assignment of Debt / transfer of debt
+حوالة المصرفية	Drafting
+حوسبة سحابية	Cloud Computing
+حوكمة الشركات	Corporate Governance
+حوكمة سلسلة التوريد	Supply Chain Governance
+حوكمة عالمية	Global Governance
+حوكمة محلية	local governance
+حياد	neutrality
+حيادية	Neutrality
+حيازة	Possession / possession
+حيازة المخزون المركزي	Centralized Inventory Holding
+حيازة غير مشروعة	illegal possession
+حيازة مخدرات	possession of drugs
+حيازة مسروقات	possession of stolen goods
+حياة خاصة	private life
+حيْثِيَّات، أسباب	grounds
+حيلة قانونية	legal fiction

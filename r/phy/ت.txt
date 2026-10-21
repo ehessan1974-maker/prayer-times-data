@@ -1,0 +1,1247 @@
+تابث الاضمحلال الجزئي (ن)	partial decay constant
+تابث الزمن للمفاعل (ن)	reactor time constant
+تابث الطور	phase constant
+تابث الغاز	gas constant
+تابع (ن)	follower
+تأتير كهرضغطي عكسي	inverse piezoelectric effect
+تأتيرات المناخ	climate (effects of…)
+تآثر	interaction
+تآثر سبيني شبيكي	spin-lattice interaction
+تآثر قوي	strong interaction
+تآثر نووي	nuclear interaction
+تآثرات تبادلية	exchange interactions
+تآثرات ضعيفة	weak interactions
+تأثرية	susceptance
+تأثير	Bernoulli effect / Brillouin effect / Budde effect / Edison effect / Hall effect / Hallwachs effect / Marx effect / Meissner effect / abney effect
+تأثير (ن)	Compton effect / Doppler-Fizeau effect
+تأثير احيائي نسبي	relative biological effectiveness
+تأثير الأدمة، تأثير كلفن	skin effect; Kelvin effect
+تأثير الارتعاش	flicker effect
+تأثير الاعتيادي (ن)	normal Zeeman effect
+تأثير الانتقال	transition effect
+تأثير الانجرار	drag effect
+تأثير التعطل	black-out effect
+تأثير التفريق	dispersion effect
+تأثير التقبض المنغطيسي المباشر	direct magneto-striction effect
+تأثير التنفيق	tunnelling effect
+تأثير التوجيه	orientation effect
+تأثير التوصيل الضوئي	photoconductive effect
+تأثير التيار الكهربائي المغنطيسي	magnetic effect of an electric current
+تأثير الحافة	edge effect
+تأثير الحثّ	induction effect
+تأثير اللزوجة كهربائيا	electroviscous effect
+تأثير المجاورة	proximity effect
+تأثير المغنطة الحراري	magneto caloric effect
+تأثير أيون مشترك	common ion effect / effect of common ion
+تأثير تقطيعي	intermittency effect
+تأثير حجبي	masking effect
+تأثير حراري	caloric effect
+تأثير سماوي (ن)	skyshine
+تأثير فارادي	Faraday effect
+تأثير فولطي ضوئي	photovoltaic effect
+تأثير قَنَويّ (ن)	channeling effect / streaming effect; channeling effect
+تأثير كهربائي	electrical influence
+تأثير كهرحديدي	ferroelectric effect
+تأثير كهرضعطي مباشر	direct piezoelectric effect
+تأثير كهرضغطي	piezoelectric effect
+تأثير كهرضغطي تربيعي	quadratic piezoelectric effect
+تأثير كهرضوئي (ن)	photoelectric effect
+تأثير مغنطيسي	magnetic effect
+تأثير نظيري (ن)	isotope effect
+تأثير نفقي	tunnel effect
+تأثير وراثي للاشعاع (ن)	genetic effect of radiation
+تأثيرات الإشعاع/التشعيع	radiation effects
+تأثيرات المواسعة	effects of capacitance
+تأثيرات كهرحركية	electrokinetic effects
+تأثيرات كيميائية	chemical effects
+تأخر زمني	time delay
+تأخر في الطور	lag of phase
+تأخر مروني	elastic-after-effect; elastic lag
+تأخر مغنطيسي	magnetic lag
+تأخير	retardation
+تأخير زمني	time delay
+تأرجح	fluctuation
+تأرجح الشبكة	grid sweep; grid swing
+تأرجح رأسي	yaw
+تأريخ	dating
+تأريخ بالكربون المشع	radiocarbon dating
+تأريخ نظائري	isotopic dating
+تأريض	earthing / grounding
+تأكّل	corrosion
+تأكُّل موضعي	local action
+تآلُف	chord
+تآلف أصغَر	minor chord
+تآلف معتاد	common chord
+تألّق	fluorescence / luminescence
+تألق إشعاعي	radioluminescence
+تألق بالدَّلك	triboluminescence
+تألُّق حراري	thermoluminescence
+تألق رنيني	resonance fluorescence; resonance radiation
+تألق صدمي	impact fluorescence
+تألق ضوئي	photoluminescence
+تألق كهربي	electroluminescence
+تاليوم	thallium
+تانتالوم	tantalum
+تآون	simultaneity
+تأين	ionization
+تأيّن (ن)	ionization
+تأين أصغر	minimum ionization
+تأين أولي (ن)	primary ionization
+تأيّن بالاصطدام	ionization by collision
+تأين ثانوي (ن)	secondary ionization
+تأين خطي (ن)	linear ionization
+تأين غازي	gaseous ionization
+تأين فوتوني	photoionization
+تأين كلي (ن)	total ionization
+تأين نوعي	specific ionization
+تأين نوعي نسبي	relative specific ionization
+تأيين ثانوي	secondary ionization
+تأيين حراري	thermal ionization
+تأيين غازي	gaseous ionization
+تبادل	exchange
+تبادل الحرارة	exchange of heat
+تبادل أيوني	ion exchange / ion-exchange
+تبادل نظيري	isotope exchange / isotopic exchange
+تبادل نظيري (ن)	isotopic exchange
+تبادل، بدَّالة	exchange
+تباطؤ	deceleration / slowing-down
+تباطؤ، تبطئة	retardation
+تباعد (ن)	divergence
+تباعد المستويات (ن)	level spacing
+تباعد المستويات المتوسط (ن)	mean level spacing
+تباين	contrast
+تباين (ن)	variance
+تبايُن المناحي	anisotropy
+تبخر	evaporation
+تبخُّر خَلائي	vacuum evaporation
+تبخّر، تبخير	evaporation
+تبخير، تبخّر	vaporization
+تبدد	dispersion / dissipation
+تبدد الطاقة	dissipation of energy
+تبدد المسرى	electrode dissipation
+تبدُّد شاذ	anomalous dispersion
+تبدد نظامي	normal dispersion
+تبديد	dissipation
+تبديد الطاقة	energy dissipation
+تبديل	commutation / switching
+تبريد	cooling / refrigeration
+تبريد (ال...) بانتزاع كظيم للمغنطسية	cooling by adiabatic demagnetization
+تبريد (ن)	cooling
+تبريد بالانتشار (ن)	diffusion cooling
+تبريد تحريكي (دينمي)	dynamic cooling
+تبريد رذاذي (ن)	spray cooling
+تبريد فائق	supercooling
+تبريد ميكانيكي	mechanical refrigeration
+تبعثر الإشعاع	radiation scattering
+تبعثر الأشعة غاما	gamma ray scattering
+تبعثر الإلكترونات	electron scattering
+تبعثر الجسـيمات ألفا	alpha scattering
+تبعثر النترونات	neutron scattering
+تبعثر تجاوبي	resonance scattering
+تبعثر رامان	Raman scattering
+تبعثر رذرفورد	Rutherford scattering
+تبعثر عشوائي	random scattering
+تبعثر كموني	potential scattering
+تبعثر لا مترابط	incoherent scattering
+تبعثر لامرن	inelastic scattering
+تبعثر متعدد	multiple scattcring / plural scattering
+تبعثر مرتد	back scattering
+تبعثر مَرِن	elastic scattering
+تبلور	crystallisation / crystallization
+تبلور بالسحب	crystal pulling
+تثاقل	gravitation
+تثبيت	fixation
+تثليث	triangulation
+تثليج	refrigeration
+تجاذب	attraction
+تجاذب تثاقلي	gravitational attraction
+تجاذب جزيئي	molecular attraction
+تجاذب كوني	universal attraction
+تجاذب متبادل	mutual attraction
+تجاذب مغنطيسي	magnetic attraction
+تجاذب نووي	nuclear attraction
+تجارب تصادم الإلكترونات	electron collision experiments
+تجاعيد	ripple
+تجاوب	resonance
+تجاوب إلكتروني مغنطيسـي مساير	electron paramagnetic resonance
+تجاوب سبيني	spin resonance
+تجاوب سبِيني إلكتروني	electron spin resonance
+تجاوب سكلوتروني	cyclotron resonance
+تجاوب سِكلوتروني إلكتروني	electron cyclotron- resonance
+تجاوب صادّ	antiresonance
+تجاوب مغنطيسي	magnetic resonance
+تجاوب مغنطيسـي نووي	NMR / nuclear magnetic resonance
+تجربة	Cavendish experiment / Fizeau experiment / Michelson-Morley experiment / Young's experiment of interference / experiment
+تجربة أسِّية (ن)	exponential pile
+تجربة الحَرَج (ن)	critical experiment
+تجربة تكاملية (ن)	integral experiment
+تجربة حرجة	critical experiment
+تجربة دافيسون- جِرمَر	Davisson- Germer experiment
+تجربة شترن - كرلاخ	Stern-Gerlach experiment
+تجربة قطرة الزيت لِمِلِكان	Millikan oil drop experiment
+تجربة مايكلسون ومورلي	Michelson-Morley experiment
+تجربة مليكان على قطرة الزيت	Millikan oil drop experiment
+تجربة يَنْغ	Young's experiment
+تجربة يَنْغ في التداخل	Young's experiment of interference
+تجريبي	experimental
+تجزئة (ال...) المتساوية للطاقة (ن)	equipartition of energy
+تجسـيم	angular magnification
+تجسيم، تكبير، تكبير محوري	magnification
+تجفيف (ن)	dryout
+تجمُّع	agglomeration
+تجمع تعاوني	cooperative assembly
+تجمع قانوني مجهري	microcanonical assembly
+تجمّع، مجمّع	assembly
+تجميع	collimation / grouping
+تجميع الالكترونات (ن)	electron collection
+تجميع ذاتي	autocollimation
+تجميع غازي	gas focusing
+تجميع مثالي	ideal assembly
+تجميعات قضبانية	rod-assemblies
+تجميعة الوقود	fuel assembly
+تجوُّف	cavitation
+تجويف المفاعل (ن)	reactor cavity
+تَجوِيَة	weathering
+تجيب قطعي	hyperbolic cosine function
+تحالّ	dialysis
+تحالّ كهربائي	electrodialysis
+تحبب رسم ضوئي	photographic graininess
+تحت الأحمر	infra-red
+تحت الصوتي	infrasonic
+تحت الصوتية	infrasound
+تحجيب كهربائي	electric screening
+تحدّب	convexity
+تحديد الانتقالية	limitation of mobility
+تحديد راديوي للموقع	radiolocation
+تحرٍّ بالتصوير الشعاعي	radiographic inspection
+تحركات (ال...) الاحيائية	biodynamics
+تحرير الطاقة	release of energy
+تحريض أصيل	intrinsic induction
+تحريض ذاتي	self induction
+تحريض كَهْراكدي، حث كَهْراكدي	electrostatic induction
+تحريض كهربائي	electric induction
+تحريض متبادل	mutual induction
+تحريض مغنطيسي	magnetic induction
+تحريضية	inductance
+تحريضية ذاتية	self inductance
+تحريضية متبادلة	mutual inductance
+تحريك الموائع؛ ديناميك الموائع	fluid dynamics
+تحريك حيوي	biodynamics
+تحريك كهربائي كمومي	QED / quantum electrodynamics (QED)
+تحريك كهربائي، إلكتروديناميك	electrodynamics
+تحريكات (ال...) الحرارية	thermodynamics
+تحريكات (ال...) الكهربائية الكمية	quantum electrodynamics
+تحريكات الشّبيكة	lattice dynamics
+تحريكيّات	aerodynamics
+تحريكيات (ال...) الحرارية اللامتوازية	non equilibrium thermodynamics
+تحريكيات (ال...) الكهربائية	electrodynamics
+تحريكيات السوائل	hydrodynamics
+تحريكيات الموائع	fluid dynamics
+تحزيز	striation
+تحكّم الدخل	input control
+تحَكُّم آلي	automatic control
+تَحَكُّم بالإمتصاص (ن)	absorption control
+تحكم بالتشكيل (ن)	configuration control
+تحكم بالعاكس (ن)	reflector control
+تحكم بالمهدىء (ن)	moderator control
+تحكُّم بوساطة عاكس	reflector control
+تحكُّم ذاتي	automatic control
+تحكُم ذاتي في النغمة	automatic tone control
+تحكم ذاتي في شدة الصوت	automatic volume control
+تحكُّم عن بعد	remote control
+تحكم عن بعد (ن)	remote control
+تحكم في الإنارة	illumination control
+تحكم كتلي	mass-control
+تحكم مركزي	central control
+تحكم مضخي (ن)	pump control
+تحكيم بالوقود (ن)	fuel control
+تحلّل	decomposition / dissociation
+تحلُّل إشعاعي	radiolysis
+تحلل السائل	decomposition of liquid
+تحلل المنحل الكهربائي	electrolytic dissociation
+تحلل حراري	thermal dissociation
+تحلل سابق	predissociation
+تحلل غروي	coacervation
+تحلل مبكّر	predissociation
+تحليل	analysis
+تحليل إشعاعي	radiometric analysis
+تحليل الأبعاد	dimensional analysis
+تحليل الطيف	spectrum analysis
+تحليل الفلورة بالأشعة السينية	X-ray fluorescence analysis
+تحليل القنوات الفرعية (ن)	subchannel analysis
+تحليل القوة	force decomposition
+تحليل القوى	resolution of forces
+تحليل المتَّجِهات	resolution of vectors
+تحليل المحتوى من اليورانيوم	uranium content analysis
+تحليل امتزازي؛ كروموتوغرافيا	chromatography
+تحليل انتشاري	diffusion analysis
+تحليل بالأشعة (ن)	radiolysis
+تحليل بالأشعة السينية	X- ray analysis / X-ray analysis / X-ray crystallography
+تحليل بالتخفيف النظيري (ن)	isotope dilution analysis
+تحليل بالتنشيط	activation analysis
+تحليل بالتنشيط (ن)	activation analysis
+تحليل بالتنشيط الإشعاعي	radioactivation analysis
+تحليل بالتنشيط النتروني	neutron activation analysis
+تحليل بالحزمة الأيونية	ion beam analysis
+تحليل بالقياسات الاشعاعية (ن)	radiometric analysis
+تحليل بياني	graphical analysis
+تحليل توافقي	harmonic analysis
+تحليل حراري	thermal analysis
+تحليل طيفي	spectral analysis
+تحليل عُروي	loop analysis
+تحليل عُقْدي	nodal analysis
+تحليل فورييه	Fourier analysis
+تحليل كَمِّي	quantitative analysis
+تحليل كهربائي	electrolysis
+تحليل كهربائي، كهرلة	electrolysis
+تحليل كيفي	qualitative analysis
+تحليل كيميائي	chemical analysis
+تحليل كيميائي إشعاعي	radiochemical analysis
+تحليل متجهي (ن)	vector analysis
+تحليل مسامّي	atmolysis
+تحليل مغنطيسي ضوئي	magneto-optical analysis
+تحليل مكرو كيميائي	microchemical analysis
+تحليل ميكانيكي	mechanical analysis
+تحليل؛ فصل؛ استبانة؛ مَيْز	resolution
+تحمل جسدي (ن)	body burden
+تحميل موزع (ن)	scatter loading
+تحوّل	transmulation / transmutation
+تحوّل (ن)	conversion
+تحول اشعاعي (ن)	radioactive transformation
+تحوُّل اصطناعي للعناصر	artificial transmutation elements
+تحول الطاقة	energy conversion / transformation of energy
+تحول تابث الاعتلاج	isentropic change
+تحول تآلفي	affine transformation
+تحول ثابت الحجم	isochore transformation
+تحول ثابت الضغط	isobaric transformation
+تحول ثابت درجة الحرارة	isotherm transformation
+تحول داخلي (ن)	internal conversion
+تحوُّل داخلي؛ انقلاب داخلي	internal conversion
+تحوُّل دوراني	rotational transform
+تحوُّل شبه سكوني	quasi static transformation
+تحول طوري	phase transformation / phase transition
+تحوُّل عكوس	reversible process
+تحول لا عكوس	irreversible process
+تحوُّل لاكظوم	nonadiabatic process
+تحول مانح الحرارة	exothermic change
+تحوُّل متطابق	congruent transformation
+تحوُّل متعدد الاتجاهات	polytropic process
+تحوُّل مع تكُّون زوج	conversion with pair creation
+تحول مكظوم	adiabatic transformation
+تحول من لا ترتيب الى ترتيب	order-disorder transformation
+تحول نووي (ن)	nuclear transformation
+تحوُّل نووي منفَلِت	uncontrolled nuclear transformation
+تحولات تماثلية	similarity transformations
+تحولات ثابتة الحرارة	isothermal transformations
+تحويل	transformation
+تحويل تشابهي	similarity transformation
+تحويل خطي	linear transformation
+تحويل شبكة من نوع π إلى شبكة من نوع T	Pi-T conversion
+تحويل فورييه	Fourier transform
+تحويل قانوني	canonical transformation
+تحويل قياسي	gauge transformation
+تحويل لابلاس	Laplace transform
+تحويل مثلثي إلى نجمي	delta Y conversion
+تحويل من عَشـري إلى اثناني	decimal-to-binary conversion
+تحويل نووي (ن)	nuclear conversion
+تحويلات	Galilean transformations
+تحويلات غاليله	Galilean transformations
+تحويلات لورنتز	Lorentz transformations
+تحييد، تعادل	neutralization
+تخامد الإشعاع	radiation damping
+تخامد أمثل	optimal damping
+تخامد حَرِج	critical damping
+تخامد لانداو	Landau damping
+تخثُّر	coagulation
+تخزين النفايات (ن)	waste storage
+تخصّر انبثاقي	vena contracta
+تخصيب اليورانيوم	uranium enrichment
+تخطيط المجال	field plotting / mapping of field
+تخطيط المجال المغنطيسي	plotting of magnetic field
+تخفيت ضوئي	optical quenching
+تخفيض الحساسية	desensitization
+تخفيف	dilution
+تخفيف لانهائي	infinite dilution
+تخلخل	rarefaction
+تخلخل صوتي	acoustic reactance
+تخلُّص من النُفايات	waste disposal
+تخلص من النفايات (ن)	waste disposal
+تخلف	hysteresis
+تخلف العازل الاستقطابي	hysteresis (dielectric..)
+تخلف زمني	time lag
+تخلف عازل	dielectric hysteresis
+تخلف مغنطيسي	magnetic hysteresis / magnetic lag
+تخميد لزج	viscous damping
+تخميد مغنطيسي ميكانيكي	magnetomechanical damping
+تُخوم، حدود	boundary
+تداخل	interference
+تداخل الحركات الموجيّة	interference of wave motions
+تداخل الضوء	interference of light
+تداخل بنّاء	constructive interference
+تداخل في الأغشية الرقيقة	thin-film interference
+تداخل هدّام	destructive interference
+تدافع كولوني	Coulomb repulsion
+تدحرج	rolling
+تدرج	gradient / graduation
+تدّرج درجة الحرارة	temperature gradient
+تدريج	graduation
+تدريع كهربائي	electric sheilding
+تدريع مانع للإشعاع	radiation shielding
+تدريع مغنطيسي	magnetic shielding
+تدريع؛ تحجيب	shielding
+تدعيم (ن)	shimming
+تدفق	flux
+تدفق اشعاعي	radiant flux
+تدفُّق الإشعاع	radiation flux
+تدفق التسرب الطرفي	end-leakage flux
+تدفق الجاذبية	gravitational flux
+تدفق الضوء	flux of light
+تدفق الطاقة	energy flux
+تدفق الطاقة الصوتية	flux of sound energy
+تدفق اللمع	luminous flux
+تدفق ضوئي	light flux; luminous flux / luminous flux
+تدفق كهربائي	electric flux
+تدفق محافظ	conservative flux
+تدفق مغنطيسي	magnetic flux
+تدفق نتروني	neutron flux
+تدقّق (ن)	flux
+تدهور	deterioration
+تدهور الانبعاث	deterioration of emission
+تدوير	rotation; curl-
+تدوير (ن)	curl
+تدوير الحِمل اليومي (ن)	daily load cycling
+تدوير العدد	rounding-off
+تذبذب حالة مستقرة	steady-state oscillation
+تذبذب طبيعي	natural oscillation
+تذبذب طفيلي	parasitic oscillation
+تذبذبي	oscillatory
+تذرية	ablation
+ترابط	coherence / correlation / coupling
+ترابط زماني	time coherence
+ترابط زمني	temporal coherence
+ترابط صوتي ميكانيكي	mechanical coupling
+ترابط ضعيف	loose or weak coupling
+ترابط طفيلي، ترابط تصالبي	cross coupling
+ترابط طوري	phase coherence
+ترابط مكاني	spatial coherence
+ترابُع	quadrature
+تراصُف	Alignment
+ترافق الشحنات	charge conjugation
+ترافق الشِحنة	charge conjugation
+تراكب تداخلي	overlapping
+تراكُم	accumulation
+ترانزستور	transistor
+ترانزستور IGFET	IGFET
+ترانزستور أحادي الوصلة	unijunction transistor
+ترانزستور انسياقي	drift transistor
+ترانزستور ثناثي القطبية	bipolar transistor
+ترانزستور حقلي معزول البوابة	insulated-gate FET
+ترانزستور خَرَزي	bead transistor
+ترانزستور ذو تماس نقطي	point contact transistor
+ترانزستور ذو طبقة ناضبة	depletion- layer transistor
+ترانزستور ضوئي	phototransistor
+ترانزستور مفعول الحقل	field effect transistor (FET)
+ترانزستور مفعول الحقل الوصلي	junction field-effect transistor
+ترانزستور مقطِّع	chopper transistor
+ترانزستور موس	MOS transistor
+ترانزستور وحيد القطبية	unipolar transistor
+ترانزستور وصلي	junction transistor
+ترانزستوران متتامان	complementary transistors
+تربيعي	quadratic
+تِرْبْيوم	terbium
+ترتيب	ordinate
+ترتيب بعيد المدى	long-range order
+ترتيب شلاّلي	cascade arrangement
+ترتيب قضبان التحكم (ن)	control rod sequence
+ترتيوم (ن)	tritium
+ترجُّح	fluctuation
+ترجُّح شبكي	grid sweep / grid swing
+ترجّحات لانداو	Landau fluctuations
+ترداد	reverberation
+تردد	Debye frequency / Larmor frequency / frequency
+تردد الاسترخاء	relaxation frequency
+تردد الاسترخاء؛ تواتر الاسترخاء	relaxation frequency
+تردد الأمواج	frequency of waves
+تردد البلازما	plasma frequency
+تردد التجاوب	resonance frequency
+تردد الذبذبة	frequency of oscillation
+تردد الرنين	resonance frequency; resonant frequency
+تردّد العتبة	threshold frequency
+تردد القطع	cut-off frequency
+تردد بلازما لانغمير	Langmuir plasma frequency
+تردد تفريقي	dispersional frequency
+تردد دائري (ن)	circular frequency
+تردد ذاتي	eigenfrequency
+تردد راديوي	radio-frequency
+تردُّد زاوي	angular frequency
+تردد زاوي،ّ تواتر زاويّ	angular frequency
+تردد سكلوتروني	cyclotron frequency
+تردد سمعّي	audio-frequency
+تردد طبيعي	natural frequency
+تردد طبيعي لدارة	natural frequency of circuit
+تردد عالٍ	high frequency
+تردد عالي	HF
+تردد فوق العالي	UHF / ultra high frequency
+تردد فوق صوتي	supersonic frequency
+تردد منخفض	LF
+تردد نصف القدرة	half-power frequency
+تردد وسيط	intermediate frequency
+تردد؛ تواتر	frequency
+ترددات الأساس	base frequencies
+ترددات سمعية	sonic frequencies
+ترددات عالية جدًا	VHF / very high frequencies
+ترددات متوسطة	medium frequencies
+تردّي	degeneration
+تَرَدِّي الغاز	gas degeneration
+تردّي؛ انطباق	degeneracy
+تَرْذِيذ	atomization / sputtering
+ترسب معاق	hindered setting
+ترسُّب/ترسيب كهراكدي	electrostatic precipitation
+ترسيب	sedimentation / sedimentation; settling / settling; sedimentation
+ترسيب كهربائي	electrical depositions
+ترسيب متشارك (ن)	coprecipitation
+ترسيب؛ ترقيد	settling
+ترشيح	filtration
+ترشيح فائق	ultrafiltration
+ترطيب	humidification
+تركيب	abney mounting / composition
+تركيب اصطناعي	synthesis
+تركيب الأذن	structure of the ear
+تركيب الحركات	composition of motions
+تركيب الزخم الزاوي	composition of angular momentum
+تركيب حبيبي	granulometric composition
+تركيب حَرِج	critical composition
+تركيب لالوني	achromatic combination
+تركيب لامتجانس الترابط	anisodesmic structure
+تركيب؛ تخليق	synthesis
+تركيز	concentration / focusing
+تركيز الحاملات	carrier concentration
+تركيز الشوائب	impurity concentration
+تركيز النشاط (ن)	activity concentration
+تركيز النشاط الإشعاعي	activity concentration
+تركيز أيون الهيدروجين	hydrogen ion concentration
+تركيز أيوني	ionic concentration
+تركيز جزيئي مولالي	molal concentration / molar concentration
+تركيز حَرِج	critical concentration
+تركيز مُطْلَق	absolute concentration
+تركيزية (ال...) الجزيئي المولالية	molality
+تركيزية (ال...) الجزيئية المولالية	molarity
+تِرْمستور؛ مقاومة حرارية	thermistor
+ترموديناميك إحصائي	statistical thermodynamics
+ترموديناميك تقليدي، تحريك حراري تقليدي	classical thermodynamics
+ترميون	thermion
+ترنُّح؛ تمايل	nutation
+تروبوسفير	troposphere
+ترِياك: عنصـر إلكتروني	triac
+تريتون	triton
+تريتون (ن)	triton
+تريتيوم: نظير الهدروجين	tritium
+تزامن	synchronism
+تزايد أسي، نموّ أسّي	exponential growth
+تزايدي	incremental
+تزريق	blueing
+تزهر	efflorescence
+تسارع	acceleration
+تسارع الثقالة	gravitational acceleration
+تسارع السقوط الحر	free falling acceleration
+تسارع جابِذ	centripetal acceleration
+تسارع حاصل	resultant acceleration
+تسارع زاويّ	angular acceleration
+تسارع قطري	radial acceleration
+تسارع كوريوليس	Coriolis acceleration
+تسارع مماسي	tangential acceleration
+تسارع منتظم	uniform acceleration
+تسارع ناظمي	normal acceleration
+تسامٍ	sublimation
+تسامٍ؛ تصعيد	sublimation
+تسامح	tolerance
+تسامَى	sublime (to)
+تساوي الحرارة	isotherm
+تساوي تعدد الأشكال	isopolymorphism
+تسخين العازل الاستقطابي	dielectric heating
+تسخين بالإشعاع	radiant heating
+تسخين بالتحريض	induction heating
+تسخين بمفعول جول	Joule heating
+تسخين حثّي	induction heating
+تسخين مفرط	overheating
+تسخين مولَّد إشعاعيًا	radiogenic heating
+تسخين نووي (ن)	nuclear heating
+تسديد	alignment
+تسديد حزمة الالكترونات	electron beam alignment
+تسرّب	leakage
+تسرب الماء (ن)	water logging
+تسرب شبكي	grid leak
+تسطّح (ن)	flattening
+تسطح التدفق (ن)	flux flattening
+تسكّل	morphotropy
+تِسلا: واحدة التحريض المغنطيسي	tesla
+تسلسل الاضمحلال (ن)	decay chain
+تسلُّق	climbing
+تسمّم المفاعل	poisoning of reactor
+تسييل	liquefaction
+تسييل الغازات	liquefaction of gases / liquefication of gases
+تشابك	entanglement
+تشاكس	enantiotropy
+تَشَاكُل	isomorphism
+تشاكل بلّوري مزدوج	isodimorphism; double isomorhism
+تشاكل تقدمي	palemorphism
+تشاكل مزدوج	double isomorphism; isodimorphism
+تشاكل معاكس	enantiotropy
+تشاكلية	isomorphism
+تشاكلية ثلاثية	triple isomorphism; isotrimorphism
+تشبع لوني	Munsell chroma; saturation / chroma; saturation
+تشبع مغنطيسي	magnetic saturation
+تشتت المعطيات الإحصائية	dispersion in statistical data
+تشجيع خارجي (ن)	external irradiation
+تشربّ	imbibition
+تشظّ (نووي)	spallation
+تشظية نووية	spallation
+تشعيع	irradiation
+تشعيع داخلي (ن)	internal irradiation
+تشغيل (ن)	commissioning; start up
+تشكيل قضيب التحكم (ن)	control rod configuration
+تشكيل كهربائي	electrical forming
+تشكيلة	configuration
+تشكيلة إلكترونية	electron configuration
+تشميس	solarization
+تَشَوُّه	distortion
+تشوه الصورة	distortion of image
+تشوُّه برميلي	barrel distortion
+تشوه ترددي	frequency distortion
+تشوه تقعّري	pincushion distortion
+تشوُّه حجمي	volumetric strain
+تشوه خطي	linear distortion
+تشوّه دائم	permanent set
+تشوّه لدن	plastic deformation
+تشوّه هندسي	geometric distortion
+تشويش	jamming
+تشويه	deformation; strain
+تشويه؛ تشوُّه	deformation
+تصادم	collision
+تصادم إلكترون – فونون	electron-phonon collision
+تصادم لا مرن	inelastic collision
+تصادم لامرن	inelastic collision
+تصادم مَرِن	elastic collision
+تصادم مرن (ن)	elastic collision
+تصادم من النوع الأول	collision of the first kind
+تصادم من النوع الثاني	collision of the second kind
+تصاوُغ بصـري؛ تصاوُغ ضوئي؛ إيزوميرية	optical isomerism
+تصحيح	correction
+تصحيح (ال...) الساقي	stem correction
+تصحيح اشعاعي	radiative correction
+تصحيح الشعَرية	capillary correction
+تصحيح العيوب البصـرية	correction of defects of vision
+تصحيح الفراغ	correction to vacuum
+تصحيح دانكوف (ن)	Dancoff correction
+تصدع حراري	thermal cracking
+تصريف (ن)	accountability
+تصلّب (ال...)	solidification
+تصلُّب؛ تجمُّد	solidification
+تصليد بالانفعال	strain hardening
+تصليد بالتقادم	precipitation hardening
+تَصْليد بالقِدَم	age hardening; precipitation hardening
+تصليد طيف النترونات (ن)	neutron hardening spectrum
+تصليد معمّر	age hardening
+تصوير	photography
+تصوير اشعاعي (ن)	radiography
+تصوير اشعاعي ذاتي	autoradiography
+تصوير إشعاعي كامي (ن)	gamma radiography
+تصوير اشعاعي نتروني (ن)	neutron radiography
+تصوير بالأشعة السينية	X- ray radiography
+تصوير بالأشعة تحت الحمراء	infra-red photography / infrared photography
+تصوير بالتجاوب المغنطيسي	MRI / magnetic resonance imaging
+تصوير حراري	thermography
+تصوير حراري عن بُعد	telethermography
+تصوير شعاعي	radiography / roentgenography
+تصوير صِغْري	microphotography
+تصوير كهراكدي	xerography
+تصوير مجهري	microphotography / photomicrography
+تصوير وَمَضَاني	scintigraphy
+تصويري	photographic
+تضادّ	opposition
+تضاعف نتروني	neutron multiplication
+تضخيم	amplification
+تضخيم غازي	gas amplification
+تضليع	polygonization
+تطابق (ن)	coincidence
+تطابق المواضع	non parallax
+تطابق حقيقي (ن)	true coincidence
+تطابق عشوائي (ن)	random coincidence
+تطبيع (ن)	normalization
+تطعيم	doping
+تطهير؛ إزالة التلوث	decontamination
+تَطَوُّح	straggling
+تَّطَوُح (ال...) الزاوي	angular straggling
+تطوح (ن)	straggling
+تطوح احصائي	statistical straggling
+تطوّح المدى (ن)	range straggling
+تطوُّح مدى الإلكترونات	range straggle of electrons
+تطور	development
+تظليل	shading
+تظليل (ن)	shadowing
+تعاكس في الطور	opposition in phase
+تعامد واستنظام	orthonormalization
+تعامدية (ن)	orthogonality
+تعامل (ال...) مع الوقود (ن)	fuel handling
+تعجيل الجاذبية، تسارع	gravity acceleration
+تعجيل الجاذبية، تسارع الجاذبية	acceleration of gravity
+تعجيل خطي، تسارع خطي	linear acceleration
+تعجيل زاوي، تسارع زاوي	angular acceleration
+تعجيل متوسط، تسارع متوسط	average acceleration
+تعجيل مَركزي جاذب	centripetal acceleration
+تعجيل، تسارع	acceleration
+تعداد كريات الدم	blood count
+تعدد الأشكال	polymorphism
+تعدد الألوان؛ تلوُّن	pleochroism
+تعدد لوني بلوري	pleochroism; pleochromatism
+تعددي	multiplet
+تعددية الأشكال	polymorphism
+تعديل	modification / modulation
+تعديل الاتساع	amplitude modulation
+تعديل التردد	frequency modulation
+تعديل التوصيلية	conductivity modulation
+تعديل السَّعة	amplitude modulation
+تعديل الطور (طوري)	phase modulation
+تعديل الكثافة	density modulation
+تعديل بيني	intermodulation
+تعديل ترددي	frequency modulation
+تعديل شبكي	grid modulation
+تعديل؛ تضمين	modulation
+تعدين كهربائي	electrometallurgy
+تَعَرَض (ن)	exposure
+تعرض تشعيعيّ (ن)	irradiation exposure
+تعرض مِهني (ن)	occupational exposure
+تعريض الرسم الضوئي	photographic exposure
+تعريف	definition
+تعريف السرعة	definition of speed
+تعريف الواط	watt definition
+تعريف وحدة الداين	definition of Dyne
+تعريف؛ وضوح	definition
+تعرية	weathering
+تعرية (ن)	decladding; decanning
+تعزيز تشعيعيّ (ن)	irradiation enhancement
+تعقيم	sterilization
+تعقيم بالإشعاع	radiation sterilization
+تعكُّر	turbidity
+تعليب (ن)	canning
+تعليق	suspension
+تعليق أحادي الخيط	unifilar suspension
+تعليق مُعَطَّل	astatic suspension
+تعلية اللون	exaltation of colour
+تعويض	substitution
+تعويض في أنصاف النواقل	compensation in semiconductors
+تعويض كيميائي (ن)	chemical chiming
+تغاير	variance
+تغايري الشكل	allotropic
+تغدية (ن)	feed
+تغدية المِصْعَد	anode supply
+تغدية مُتَضادة التوازي	anti-parallel feeding
+تغدية متوازية	parallel feeding
+تغدية مرجوعة (ن)	feedback
+تغدية مرحوعة للمفاعلية (ن)	reactivity feed back
+تغذية راجعة	feedback
+تغذية راجعة سالبة	negative feedback
+تغذية راجعة موجبة	positive feedback
+تغذية راجعة وسعية	capacitive feedback
+تغليف (ن)	clodding
+تغليف ضعيف (ن)	collapsible cladding
+تغير الحالة	change of state
+تغير الدوران	mutarotation
+تغير الدوران الاستقطابي	mutarotation
+تغير الشكل	allomorphism
+تغير الطور	phase change
+تغيُّر بنيوي	morphotropy
+تغير ثابت الحرارة	isothermal change
+تغير جانبي عكوس	phototropy
+تغيّر سنوي	annual variation
+تغير مكظوم	adiabatic change
+تغيرات يومية	diurnal variations
+تغيّرية	variability
+تغيير الحالة	change of state
+تغيير الطاقة الحرة	free-energy change
+تفاضل كلي	total differential
+تفاضل؛ تفاضلي	differential
+تفاعل إعادة ترتيب	rearrangement reaction
+تفاعل التقاط	pick-up reaction
+تفاعل اندماج	fusion reaction
+تفاعل انشطاري	fission reaction
+تفاعل أيوني	ionic reaction
+تفاعل تسلسلي (ن)	chain reaction
+تفاعل عادي	normal reaction
+تفاعل عتبي (ن)	threshold reaction
+تفاعل كيميائي	chemical reaction
+تفاعل ماص للحرارة	endothermic reaction
+تفاعل ماص للطاقة	endoergic reaction
+تفاعل متسلسل	chain reaction
+تفاعل ناشـر للحرارة	exothermic reaction
+تفاعل نووي	nuclear reaction
+تفاعل نووي حراري (ن)	thermonuclear reaction
+تفاعل نووي ضوئي	photonuclear reaction
+تفاعل نووي ضوئي (ن)	photonuclear reaction
+تفاعل نووي متسلسل	nuclear chain reaction
+تفاعل؛ رد فعل	reaction
+تفاعلات نووية (ن)	nuclear reactions
+تفاعلية	reactivity
+تفجّر سريع (ن)	fast burst
+تفجّر شمسي (ن)	sun burst
+تفرع (ن)	branching
+تفرق المائع	divergence of fluid
+تفرّق خطي	linear dispersion
+تفرق دوراني	rotatory dispersion; rotary dispersion
+تفرق كهربائي	electric dispersion
+تفرق لامنطقي	irrational dispersion
+تفرق موشوري	prism dispersion
+تفرُّق؛ تباعُد	divergence
+تفرقع الأملاح، فرقعة (بالتحميص)	decrepitation
+تفرقية جزيئية مولالية	molar dispersivity
+تفرقية نوعية	specific dispersivity
+تفريغ	discharge
+تفريغ إكليلي	corona discharge
+تفريغ بطيء	slow discharge
+تفريغ تذبذبي	oscillatory discharge
+تفريغ تمزيقي	disruptive discharge
+تفريغ جسم	discharging of a body
+تفريغ دون مسار	electrodeless discharge
+تفريغ ذاتي	self discharge / self-discharge
+تفريغ ذاتي الاستمرار	self-maintained discharge; self-maintaining gas discharge
+تفريغ شراري	spork discharge
+تفريغ غازي	gaseous discharge
+تفريغ فرجوني	brush discharge
+تفريغ فرشاتي	brush discharge / silent of brush discharge
+تفريغ قوسي	arc discharge
+تفريغ كهربائي	electric discharge
+تفريغ لامرئي	dark discharge
+تفريغ مغمور	submerged discharge
+تفريغ نقطي	point discharge
+تفريغ هالي	corona discharge
+تفريغ؛ انفراغ	discharge
+تفريق (ن) ، تشتّت	dispersion
+تفريق الدوران	dispersion of rotation
+تفريق الضوء	dispersion of light
+تفريق انكساري	refractivity
+تفريق توهجي	glow discharge
+تفريق شاذ	anomalous dispersion
+تفريق صوتي	acoustic dispersion
+تفريقية	dispersity / dispersivity
+تفسير الأثر السحابي	cloud-track interpretation
+تفضيض كهربائي	electrosilvering
+تفعل نووي تسلسلي (ن)	nuclear chain reaction
+تفكك	disintegration
+تفكك (ن)	degeneracy
+تفكك إشعاعي	radioactive disintegration
+تفكك إشعاعي؛ اضمحلال إشعاعي	radioactive decay
+تفكك التبادل	exchange degeneracy
+تفكك تام	complete dissociation
+تفكُّك ضوئي	photodisintegration
+تفكك كولومي	Coulomb degeneracy
+تفكك متعدد	multiple disintegration
+تفكك متفرع	branching disintegration
+تفكك مشع	radiative decay
+تفكك؛ اضمحلال	decay
+تفلور؛ فلورة	fluorescence
+تقارب	convergence
+تقارب المائع	convergence of fluid
+تقارب أو تباعد	vergence
+تقارن الكتروني	electron coupling
+تقارن طفيلي	cross coupling
+تقاسم الشّحنة	sharing of a charge
+تقاسم؛ مشاركة	sharing
+تقاطع	intersection
+تقانة نانوية	nanotechnology
+تقايس؛ تساوي القياسَيْن	isometry
+تقبُّض حجمي مغنطيسي	volume magnetostriction
+تقّبض كهربائي	electrostriction / electrostrictive strain
+تقبض مغناطيسي حجمي	volume magneto striction
+تقبض مغنطيسي	magnetostriction
+تقبض مغنطيسي اشباعي	saturation magnetostriction
+تقبض مغنطيسي سالب	negative magneto-striction
+تقبض مغنطيسي عكيس	reversible magneto striction
+تقبض مغنطيسي موجب	positive magneto-striction
+تقدير كمِّي	quantification
+تقدير نوعي للوقود (ن)	fuel rating
+تقريب (ن)	approximation
+تقريب Pn (ن)	Pn approximation Pn
+تقريب الترابط القوى	tight-binding approximation
+تقريب الحقل الجزيئي	molecular field approximation
+تقريب الحقل المركزي	central field approximation
+تقريب الربط المحكَم	tight binding approximation
+تقريب العدسة	power of lens
+تقريب المجال الجزيئي	molecular field approximation
+تقريب بورن	Born approximation
+تقريب غاوص	gaussian approximation
+تقْريب كَظيم	adiabatic approximation
+تقرير موازنة المواد (ن)	material balance report
+تقزُّح	iridescence
+تقزح لوني	iridescence
+تقسية الطيف النتروني	neutron hardening
+تقسية انفعالية	strain hardening; work hardening
+تقسية بالشغل	work hardening; strain hardening
+تقسية بالطَّرْق	work hardening
+تقسية ترسيبية	precipitation hardening; age hardening
+تقسية نترونية	neutron hardening
+تَقَطُّع الامتصاص	absorption discontinuity
+تقطّعِية	intermittency
+تقطير	distillation
+تقطير بخاري	steam distillation
+تقطير تبادلي (ن)	exchange distillation
+تقطير تجزّئي	fractional distillation
+تقطير جزيئي	molecular distillation
+تقطير جزيئي (ن)	molecular distillation
+تقطير مجزأ	fractional distillation
+تقلبات جويّة	atmospheric variations
+تقلُّص	contraction
+تقلُّص الطول	contraction of length
+تقلص داخلي	intertraction
+تقليدي	classical
+تقنيات (ال...) النووية	nucleonics
+تقنيع	masking
+تقنين (ن)	rating
+تِقْنية المساحيق في الأشعة السينية	X-rays powder technique
+تقنية نووية (ن)	nuclear technology
+تِقْنية؛ طريقة	technic
+تَقوُّسٌ (ن)	bowing
+تقويم	rectification
+تقويم التيار	rectification
+تقويم الموجة الكاملة	full wave rectification
+تقويم كامل الموجه	full wave rectification
+تقويم نصف موجة	half-wave rectification
+تقوية	intensification
+تكاثر، تضاعف	multiplication
+تكاثف	condensation
+تكاثف بوزِه - أينشتاين	Bose-Einstein condensation
+تكافؤ	covalence / equivalence / valence
+تكافؤ أعضم	maximum valence
+تكافؤ العطاء	dative covalence
+تكافؤ الكتلة والطاقة	mass-energy equivalence
+تكافؤ الكتلة والطاقة (ن)	equivalence of mass and energy
+تكافؤ حر	free valence
+تكافؤ سالب	negative valence
+تكافؤ شاذ	anomalous valence
+تكافؤ صفري	null valence
+تكافؤ عادي	normal valence
+تكافؤ فاعل	active valence
+تكافؤ كتلي طاقي	mass energy equivalence
+تكافؤ كهربائي	electrovalence
+تكافؤ مكمل	supplementary valence
+تكافؤ موجب	positive valence
+تكافؤية	valency
+تكافؤية كهربائية	electrovalency
+تكافؤية؛ تكافؤ	valency
+تكامل التبادل المغنطيسي غير الحديدي	antiferromagnetic exchange integral
+تكامل التجاوب	resonance integral
+تكامل التراكب	overlap integral
+تكامل الرنين (ن)	resonance integral
+تكامل الرنين الفائض (ن)	excess resonance integral
+تكامل الرنين الفعال (ن)	effective resonance integral
+تكامل الطور	action variable; phase integral / phase integral; action variable
+تكامل محدَّد	definite integral
+تكامل؛ كلي	integral
+تكبير	magnification
+تكبير أمثل	optimum magnification
+تكبير جانبي	lateral magnification
+تكبير خطي	linear magnification
+تكبير زاوي	angular magnification
+تكبير طولي	longitudinal magnification
+تكبير عادي	normal magnification
+تكبير عقيم	empty magnification
+تكبير مِحْوري	axial magnification
+تكثيف	condensation
+تكثيف الكهرباء	condensation of electricity
+تكثيف الوقود (ن)	fuel densification
+تكديس أسي (ن)	exponential pile
+تكرارية	repeatability
+تَكْمية	quantization
+تّكمية (ال...) الثانية	second quantization
+تكمية (ن)	quantization
+تَكْمِية الطاقة، استكمام الطاقة	energy quantization
+تَكْمية الفراغ	space quantization
+تَكنيسيوم	technetium
+تكهرب	electrification
+تكهرب بالاحتكاك	electrification by friction
+تكهرب بالتماس	electrification by contact
+تكهرب بالحث	electrification by induction
+تكهرب بالدلك	tribo-electrification / triboelectrification
+تكهرب، كهربة	electrification
+تَكَوُّرٌ/تَقَطُّرٌ بسبب الحُمُو	calefaction
+تكون القطرات	drop formation
+تكوين	constitution
+تكيُّف العين	accommodation of the eye / eye accommodation
+تكيف مع الظلام	dark adaptation
+تكييف العين البعدي	ocular accommodation
+تكييف الهواء	air conditioning
+تكييف هواء	air conditioning
+تلاصُق	adhesion
+تلاصُقية	adhesivity
+تلافّ دالتين	convolution of two functions
+تلاقي الجزيئات	encounter of molecules
+تلدين	annealing
+تلدين مغنطيسي	magnetic annealing
+تلف بالاشعاع (ن)	radiation damage
+تلفزة؛ تلفاز؛ تلفزيون	television
+تلقائي	spontaneous
+تلوث اشعاعي (ن)	radioactive contamination
+تلونيَّة	allochromy / chrominance
+تماثل (ن)	parity
+تماثل ثلاثي الشكل	isotrimorphism
+تماثلات تحريكية	dynamical analogies
+تماس	contact
+تماس أومي	ohmic contact
+تماس فلز- فلز	metal-metal contact
+تماس نقطي	point contact
+تماسك	cohesion
+تماسُك (ن)	cohesion
+تمايل (ال...)، التقارب	vergence
+تمثيل	Heisenberg representation
+تمثيل بياني	graphical representation
+تمثيل مصفوفي	matrix representation
+تمثيل مفاعلة	interaction representation
+تمثيل هايزنبرغ	Heisenberg representation
+تمثيلي	analog
+تمدد	expansion
+تمدد الأجسام الصلبة	expansion of solids
+تمدُّد الزمن	time dilation
+تمدد السوائل	expansion of liquids
+تمدد الماء	expansion of water
+تمدد ثابت الحرارة	isothermal expansion
+تمدد حجمي	cubical expansion / dilation
+تمدد حراري	heat expansion / thermal expansion
+تمدد سطحي	superficial expansion
+تمدد ظاهري	apparent expansion / expansion (apparent…)
+تمدّد كَضيم	adiabatic expansion
+تمدد مكظوم	adiabatic expansion
+تمددية (ال...)	extensibility
+تمديد	dilution
+تمديد نظيري	isotopic dilution
+تموّج مستقر	stationary undulation
+تموّجات	undulations
+تموجات متتالية	progressive undulations
+تموُّر الفلطية	voltage surge
+تميع	deliquescence
+تميُّع بالرطوبة	deliquescence
+تمييز اللون	color discrimination
+تناحي ضوئي	optical isotropy
+تناسب	proportion
+تناسبي	proportionable
+تناضح	osmosis
+تناضح خارجي	exosmosis
+تناضح داخلي	endosmosis
+تناضح داخلي كهربائي	electroendosmosis
+تناظر	symmetry
+تناظر البلورة	crystal symmetry
+تناظر انعكاسي	right-left symmetry
+تناظر بِلَّوري	crystal symmetry
+تناظر مرآوي	reflection symmetry
+تناغُم	consonance
+تنافر	repulsion
+تنافر النغمات	discord / dissonance
+تنافر كهرمغنطيسي (ن)	electromagnetic repulsion
+تنافر مغنطيسي	magnetic repulsion
+تنافر(النغمات)	dissonance; discord
+تنافر؛ تدافع	repulsion
+تناقص قفزي	decrement
+تناقص لوغاريتمي	logarithmic decrement
+تناقض ظاهري	paradox
+تنسيق	coordination
+تنشيط	activation
+تنشيط (ن)	activation
+تنشيط بالنترونات	activation by neutrons
+تنشيط نتروني	neutron activation
+تنضيد	epitaxy
+تنظير شعاعي	radioscopy
+تنظيف (ن)	clean-out / scrubbing
+تنظيف بالأمواج فوق السمعية	ultrasonic cleaning
+تنظيم	regularization / regulation
+تنظيم ذاتي (ن)	self regulation
+تنعيم	smoothing
+تنغستن	wolfram
+تنغستين	tungsten
+تنغيم	intonation
+تنقيّة	scavenging
+تنميش، رَقْش	etching
+تهجين	hybridization
+تهجين الدوال الذاتية	hybridization of eigenfunctions
+تهدئة	moderation
+تهدئة النترونات	neutron moderation
+تهذيب	trim
+تهشيش بالتشعيع (ن)	irradiation embrittlement
+تهيّج (ن)	excitation
+تهيج جزيئي	molecular excitation
+تهيج حراري	thermal excitation
+تهيج ذاتي	auto-excitation; self-excitation
+تهيّج صدمّي	shock excitation
+تهيج كولوم (ن)	coulomb excitation
+تواء (ال...)	torsion
+تواؤم	twinning
+تواتر حرج	critical frequency
+تواتر سيكلوتروني	gyrofrequency
+تواتر لارمور	Larmor frequency
+توازن	equilibrium
+توازن أبدى (ن)	secular equilibrium
+توازن إحصائي	statistical equilibrium
+توازن اشعاعي (ن)	radioactive equilibrium
+توازن الامْتِزاز	adsorption equilibrium
+توازن الجسيمات المشحونة (ن)	charged particles equilibrium
+توازن القوى	balance of forces / equilibrium of forces
+توازن انتقالي؛ توازن عابر	transient equilibrium
+توازن أيوني	ionic equilibrium
+توازن ترموديناميكي	thermodynamic equilibrium
+توازن ثابت الحرارة	isothermal equilibrium
+توازن ثلاثي الأطوار	three-phase equilibrium
+توازن جسم صلد	equilibrium of rigid body
+توازن حراري	heat equilibrium / thermal equilibrium
+توازن حِمْلي	convective equilibrium
+توازن شبه مستقر	metastable equilibrium
+توازن ضاهري	false equilibrium; apparent equilibrium
+توازن ضو كيميائي	photochemical equilibrium
+توازن ظاهري	apparent equilibrium; false equilibrium
+توازن عابر (ن)	transient equilibrium
+توازن غير متجانس	heterogeneous equilibrium; polyphase equilibrium
+توازن قَلِق	unstable equilibrium
+توازن كهربائي، ميزان كهربائي	electrical balance
+توازن متجانس	homogeneous equilibrium
+توازن متعدد الأطوار	polyphase equilibrium
+توازن مستقِرّ	stable equilibrium
+توازن نشاط إشعاعي	radioactive equilibrium
+توازن، اتّزان	equilibrium
+توافق	harmony
+توافق الأصوات	concord
+توافق الممانعات	impedance match
+توافق عارض	accidental coincidence
+توافق في الطور	in phase
+توافقي	harmonic
+توافقي؛ توافقية	harmonic
+توافقيات	overtones
+توافقية (ال...) الثالثية	third harmonic
+توافقية (ال...) الثانية	second harmony
+توأم بالسقاية	annealing twin
+توتُر التلاصُق	adhesion tension
+توتر السطح البيني	interfacial tension
+توتر القطع	cut-off voltage
+توتر سطحي	surface tension
+توتر، شدّ	tension
+توثّر سطحي	surface tension
+توجيه سطحي	surface orientation
+توزّع	distribution
+توزع احتمالي	probability distribution
+توزُّع إحصائي	statistical distribution
+توزّع الالكترونات	electron configuration
+توزّع السـرع	distribution of velocities / velocity distribution
+توزع الطاقة الطيفي	spectral energy distribution
+توزع بواسون	Poisson distribution
+توزع بوزِه – أينشتاين	Bose-Einstein distribution
+توزع بولتزمان	Boltzmann distribution
+توزُّع زاويّ	angular distribution
+توزّع غاوص	gaussian distribution
+توزُّع مكسويل	Maxwell distribution
+توزع نظامي	normal distribution
+توزيع	Fermi distribution
+توزيع الاضمحلال (ن)	decay branche
+توزيع الجهد	distribution of potential
+توزيع الشحنة	distribution of charge
+توزيع الطاقة الطيفية	spectral energy distribution
+توزيع الكهرباء	distribution of electricity
+توزيع زاوي (ن)	angular distribution
+توزيع متساوٍ	equipartition
+توزيع متساوي	equipartition
+توزيع متقطِّع	discrete distribution
+توسع الخطوط الطيفية	broadening of spectral lines
+توسع الكون	expansion of the universe
+توسع دوبلر	Doppler broadening
+توسيع	Doppler broadening
+توشيل، ترشيح	percolation
+توصيل (ال...)	conduction
+توصيل الحرارة	conduction of heat
+توصيل الظلام	dark conduction
+توصيل بالقفز	hopping conduction
+توصيل حراري	heat conduction / thermal conduction; heat conduction / thermic conduction
+توصيل ذاتي	intrinsic conduction
+توصيل على التضاعف	connecting in multiple
+توصيل على التوازي	connecting in parallel
+توصيل فلزي	metallic conduction
+توصيل كهربائي	electric conduction
+توصيل كهربائي، نقل كهربائي	electric conduction
+توصيل مثلثي	delta connection
+توصيل نجمي	star connection
+توصيل، نقل	conduction
+توصيلة باعث مشترك	common emitter connection
+توصيلة قاعدة مشتركة؛ توصيلة قاعدة مؤرَّضة	common base connection
+توصيلة مجمِّع مشترك؛ توصيلة مجمع مؤرَّض	common collector connection
+توصيلية	conductivity
+توصيلية مصعدية شبكية	grid plate transconductance
+توصيلية مكافئة	equivalent conductivity
+توفير بالعاكس (ن)	reflector saving
+توقُّع	expectation
+توقف العنفة المجافئ (ن)	turbine trip
+توليد	breeding
+توليد الإلكترونات والثقوب	generation of electrons and holes
+توليد الزوجين الإلكترونيين	electron pair production
+توليف	tuning
+توليف وسعي	capacitive tuning
+توهج	glow / incandescence
+توهج حراري	calorescence
+توهج متبقي	afterglow
+توهين	attenuation
+تَوْهين (ن)	attenuation
+توهين أسِّيّ (ن)	exponential attenuation
+توهين الصوت	sound attenuation
+توهين مقعَّر	valley attenuation
+توهين هندسي (ن)	geometric attenuation
+تيار	current
+تيار (ال...) الفاعل	active current
+تيار ابتدائي	primary current
+تيار اظافي	extra current
+تيار افتراضي	virtual current
+تيار الاحتمالية (ن)	probability current
+تيار الازاحة	displacement current
+تيار الاستقرار	steady current
+تيار الإشباع	saturation current
+تيار الاظلام (ن)	dark current
+تيار الانتثار	diffusion current
+تيار الانتشار	diffusion current
+تيار الانزياح	displacement current
+تيار الانسياق	drift current
+تيار التأيّن (ن)	ionization current
+تيار التسرب	leakage current
+تيار التشبع (ن)	saturation current
+تيار الخَرْج	output current
+تيار الخطأ	fault current
+تيار العتبة	threshold current
+تيار العمل	quiescent current
+تيار القَصـر؛ تيار الدارة القصيرة	short-circuit current
+تيار القطع	cut- off current
+تيار المصعد	anode current / plate current
+تيار أمامي	forward current
+تيار انحياز	bias current
+تيار آني	instantaneous current
+تيار باق (ن)	residual current
+تيار تمغنط	magnetizing current
+تيار ثابت	stationary current
+تيار ثانوي	secondary current
+تيار جيبي	sinusoidal current
+تيار حاثّ	inducting current
+تيار حثّي	induced current
+تيار عُروي	loop current
+تيار كهربائي	electric current
+تيار ماء؛ جدول	stream
+تيار متحرض	induced current
+تيار متقطع	intermittent current
+تيار متناوب	alternating current / alternating current (AC)
+تيار مستقر	steady current
+تيار مستمر	continuous current / direct current
+تيار مغنطيسي	magnetic current
+تيار مُمَغنِط	magnetizing current
+تيار هواء	air current
+تّيار هوائي	current of air
+تيار وحيد الاتجاه	unidirectional current / unilateral current
+تيارات الحَمْل	convection currents
+تيارات آنية	instantaneous currents
+تيارات حثّ	induction currents
+تيارات حِمْل	convection currents
+تيارات دوّامية	eddy currents
+تيارات دوّامية، تيارات فوكو	eddy currents
+تيارات فوكو؛ تيارات دوّامية	Foucault currents
+تيتانيوم	titanium
+تيراترون	thyratron
+تيلوريوم	tellurium
+تيه البصـر	ametropia
+تيودوليت؛ مِزواة: جهاز قياس الزوايا	theodolite

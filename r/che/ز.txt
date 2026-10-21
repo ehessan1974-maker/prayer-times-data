@@ -1,0 +1,177 @@
+زئبق	mercury
+زئبق I	mercurous
+زئبق II	mercuric
+زئبقي	mercuric
+زائف	false
+زائف، كاذب: سابقة	pseudo-
+زأبقة	mercuration; mercurization
+زاج	vitriol
+زاج أبيض	white vitriol
+زاج أخضر	green vitriol
+زاجٌ أزرق	blue vitriol
+زانتات	xanthate
+زانتوجين	xanthogen
+زانتون	xanthone
+زانتين	xanthene / xanthine
+زانتين، كزانثين	xanthin
+زاوية الربط، زاوية رابطة	bond angle
+زاوية بين وجهين	interfacial angle
+زايلوز	xylose
+زايلين	xylene
+زَبَد	froth
+زبد نباتي	vegetable butter
+زَبَد، رغوة	foam / froth
+زبدة	butter
+زبديّة	bowl
+زبديّة تصنيف	bowl classifier
+زجاج	glass
+زجاج أحمر	red glass
+زجاج الأمان	safety glass
+زجاج بيركس	pyrex glass
+زجاج تاجي	crown glass
+زجاج رصاصي	lead glass
+زجاج ليفي	fibrous glass
+زجاج ليفي، ليف زجاجي	fiber glass
+زجاج مُغشَّى	ground glass
+زجاج يينا	jena glass
+زجاجات حجمية، أوانٍ زجاجية حجمية	volumetric glassware
+زجاجة ساعة	watch glass
+زجاجة كواشف	reagent bottle
+زجاجة كوبلت (أزرق)	cobalt glass
+زجاجة ولف	woulfe bottle
+زجاجي	vitreous
+زجاجي مائي	water glass
+زجاجيات	glasses; glass ware
+زجاجيات مخبرية، زجاجيات مختبرية	laboratory glass-ware
+زخم الضوء، اندفاع الضوء	light (momentum of...)
+زخم، اندفاع، كمية الحركة	momentum
+زرعٌ اصطفائي	elective culture
+زركون	zircon
+زركونيوم	zirconium
+زرنيخ أحمر	red arsenic
+زرنيخ، أرسَنيك	arsenic
+زرنيخ، أرسينيك	arsenic
+زرنيخات، أرسَنات	arsenate
+زرنيخات، أرسينات	arsenates
+زرنيخي، أرسَنيدي	arsenious
+زرنيخيت النحاس، زرنيخيت النحاسيك	cupric arsenite
+زرنيخيت، أرسَنيت	arsenite
+زرنيخيد، أرسَنيد	arsenide
+زعتر, صعتر	thyme
+زَعْفران	saffron
+زلال البيض، ألبومين	egg albumen
+زلال، ألبومين	albumin
+زليول	xylol
+زُمرُّد	emerald
+زمرة اللانتانيدات	lanthanide sries
+زمرة الميتان	methane series
+زمرة، فصيلة	group
+زمن الاحتباس	retention time
+زمن الاسترخاء	relaxation time
+زمن الإنضاج	curing time
+زمن انتقالي	transition time
+زناخة، فساد	rancidity
+زنتات	xanthate
+زنتتة	xanthation
+زنجار	verdigris
+زُنْجُفْر	cinnabar / vermil(l)ion
+زِنْجفَر قانٍ	English vermilion
+زَنِخ	rancid
+زنخ، فاسد	rancid
+زنك	zinc
+زنك، خارصين	zinc
+زهر الكبريت	flower of sulfur
+زوال اللّون، نصول	decolourisation
+زوج الكترونات، زوج الكتروني	electron duplet
+زوج إلكتروني	electron pair
+زوج الكتروني خامل	inert electron pair
+زوج إلكتروني غير متشارك	unshared electron pair
+زوج إلكتروني منعزل	lone pair of electrons
+زوج من الالكترونات	double of electrons
+زوج وحيد	lone pair
+زوج، مزدوجة	couple
+زوجان	pair
+زوجان إلكترونيان، ثنائية إلكترونية	electron pair
+زيادة	excess / increase
+زيت	oil
+زيت أبيض	white oil
+زيت أحمر	red oil
+زيت البلسم	balm oil
+زيت البلوط	acorn oil
+زيت التربنتين	turpentine oil
+زيت الجوز	walnut oil
+زيت الخردل	mustard oil
+زيت الخروع	castor iron / castor oil / ricinus oil
+زيت الخُزامى (اللافندر)	lavender oil
+زيت الدَّلك	rubbing oil
+زيت الذرة	maize oil
+زيت الزاج	oil vitriol
+زيت الزيتون	olive oil
+زيت الزيزفون	lime oil
+زيت السِّجّيل	shale oil
+زيت السمسم	sesame oil
+زيت السمسم، سِيْرِجْ	benne oil
+زيت الصخر	rock oil
+زيت الصندل	santal oil
+زيت الصنوبر	tall oil
+زيت الصنوبر، زيت الصنوبر الراتينجي	tall oil
+زيت الصويا	bean oil
+زيت العرعر	juniper oil
+زيت العُصْفُر	safflower oil
+زيتُ العنبر	sperm oil
+زيت الفوزيل	fusel oil
+زيت القلفونة (الروزين)	rosin oil
+زيت الكاموميل	chamomile oil
+زيت الكراويا	caraway oil
+زيت الليمون	lemon oil
+زيت الموز	banana oil
+زيت النخيل	palm oil
+زيت الهال	cardamom oil
+زيت الياسمين	jasmine oil
+زيت بذر القنب	hempseed oil
+زيت بذر الكتان	linseed oil
+زيت تزليق	lube oil / lubricating oil
+زيت ثقيل	heavy oil
+زيت ثُمالي	residual oil
+زيت جَفوف	drying oil
+زيت جوجوبا	Jojoba oil
+زيت حلو	sweet oil
+زيتٌ خام	crude oil
+زيت دَسِم	fatty oil
+زيت دوائي	medicinal oil
+زيت دوّار الشمس	sunflower oil
+زيت ذوّاب	soluble oil
+زيت طيّار	volatile oil
+زيت عازل	insulating oil
+زيت عطري	essential oil
+زيت غاز	gas oil
+زيت فقير	lean oil
+زيت كبد السمك	fish liver oil
+زيت كبد القد، زيت كبد الحوت	cod-liver oil
+زيت لا جَفوف، زيت لا يجف	non-drying oil
+زيت مختزَل	reduced oil
+زيت مسترجَع	reclaimed oil / recovered oil
+زيت معدني	mineral oil
+زيت مُغَلَّظ	thickened oil
+زيت نباتي	vegetable oil
+زيتات، أوليات	oleate
+زيتي	oily
+زيتين (أولئين)	olien
+زيركون	zircon
+زيركونيوم	zirconium
+زيغ	aberration
+زيلان	xylan
+زيلِنول	xylenol
+زيلوز	xylose
+زيلول	xylol
+زيلونيت	xylonite
+زيليدين	xylidine
+زيلين	xylene; xylol
+زيلينول	xylenol
+زيليوم	xylem
+زيماز	zymase
+زينون	xenon
+زيوت مقساة، زيوت مهدرجة	hardened oils
+زيوت وسطى	middle oils
+زيوليت	zeolite
+زيين	zein

@@ -1,0 +1,3892 @@
+قائِدَةُ فَريقِ التَّمْريض	nursing team leader
+قائِسُ الجُرْعات	dosimetrist
+قائِسُ العَمَلِيَّاتِ النَّفْسِيَّة	psychometrician
+قَائِسُ الوَجْه	faceometer
+قائِسُ حَيَوِيَّةِ اللُّبّ [أسنان]	vitalometer
+قائِفٌ مُشِعّ	radiotracer (radioactive tracer)
+قائِفَة (أداة) [ج:قَوَائِف]	tracer
+قائِفَةٌ إِبْرِيَّة	needle-point tracer / stylus tracer
+قائِفَةُ القَوسِ القوطِيَّة	Gothic arch tracer
+قائِفَةٌ سَهْمِيَّة [أسنان]	arrow tracer
+قائِفَةٌ مُشِعَّة	radioactive tracer
+قائِمٌ بوَظائِفِه	functionating
+قائم، عَموديَّ	vertical
+قائِمَةُ الجَرْد	inventory
+قائمة الطعام	menu
+قائِمَةٌ أَمامِيَّة	fore-limb
+قائِمَةُ تَفَقُّد	check list
+قَائِمَةٌ مَرْجِعِيَّة	reference list
+قابِض	astringent / hypocist (astringent) / hypocistis (astringent) / staltic (styptic)
+قابِضٌ ؛ مُنَفِّر	apocrustic
+قابِضٌ خَفيف	hypostyptic / subastringent
+قابِضٌ مُرْقِئ (دواء قابض وموقف للنزف)	styptic
+قابِضٌ مُرْقِئٌ كيميائيّ (بتخثير المنطقة النازفة)	chemical styptic
+قابِضٌ مُرْقِئٌ ميكانيكيّ (بالدَّكِّ أو دسِّ الكمادات في الجرح)	mechanical styptic
+قابِضٌ مُرْقِئٌ وِعائِيّ (بإحداث تقبض للأوعية النازفة)	vascular styptic
+قابِلُ القَطْع	sectile
+قابِل النُّفوذ	permeable
+قَابِلٌ لانْحِلاَلِ الدَّم	hemolyzable
+قَابِل للاحْتِرَاق، حَرُوق	combustible
+قابِلٌ للاسْتِقْلاب	metabolizable
+قَابِل للاشْتِعَال، لَهُوب	inflammable
+قابِلٌ للاصْطِباغ	tinctable / tingible
+قابِلٌ للأَكْسَدَة	oxidizable
+قَابِلٌ للإِلْقاح الغَيْرَوِيّ	heteroinoculable
+قَابِلٌ للإِمَاعَةِ	liquescent
+قابل للامتصاص	absorbable
+قابِلٌ للانْتِشار	diffusible
+قابل للانتصاب	erectile
+قابل للانثناء، للالتواء	flexible
+قَابِلٌ للانْشِطَار؛شَطور	fissile (fissionable)
+قابِلٌ للانْكِسار	refrangible
+قابِلٌ للاِنْكِماش	retractile
+قابِلٌ للإِيْحَاء	suggestible
+قابِلٌ للبَلْع	deglutible
+قابل للتأثر	irritable
+قَابِلٌ للتَّبَعْثُرِ	dispersible
+قابِلٌ للتَّثَفُّل	sedimentable
+قابل للتجلط	coagulable
+قَابِلٌ للتَّحْرِيْض	inducible
+قَابِلٌ للتَّحْلِيْلِ بالكَهْرُبَاء	electrolyzable
+قابِلٌ للتَّخَمُّر	fermentable
+قابِلٌ للتَّصَبُّن	saponifiable
+قابِلٌ للتَّعْليم	educable
+قابل للتفرق	dispersible
+قابل للتقليح الخارجي	heteroinoclable
+قَابِلٌ للتَّلْقِيْح	inoculable
+قابِلٌ للتَّمَثُّل؛مَثُوْل	assimilable
+قَابِلٌ للتَّمَدُّدِ	distensible
+قابل للتهيج	irritable
+قابل للتوريث	heritable
+قابل للثني	flexible
+قابِلٌ للجِراحَة	operable
+قَابِلٌ للحَقْنِ	injectable
+قَابِلٌ للرَّدِّ	reducible
+قابل للرشح	filterablr = filtrable
+قابِلٌ للسَحْب	ductile
+قَابِلٌ للشَّطْر؛شَطُوْرٌ	fissionable
+قابِلٌ للعَدْوَى	infectible
+قابِلٌ للقَطْع؛قَطُوْع	resectable
+قَابِلٌ للمَزْجِ؛مَزُوْج	miscible
+قابِلٌ للمُعَاوَضَة	compensable
+قابل للنفاذ	dializable
+قابل للنقل	conductory
+قابل للهضم	digestible
+قَابِلٌ للهَضْم ؛ هَضُوم	digestible
+قابِلَة	accoucheuse / sage femme
+قابِلَة [ج:قَوابِل؛ قابِلاَت]	midwife
+قابِلِيَّةُ الاِبْتِلاَلِ	wetability
+قابلية الإثارة	excitability / irritability
+قَابِلِيَّة الاسْتِقْطَاب	polarizability
+قابِلِيَّةُ الاِصْطِباغ	tingibility
+قَابِلِيَّةُ الاِنْزِيَاح	displaceability
+قَابِلِيَّةُ الانْضِغَاط	compressibility
+قابِلِيَّةُ الانْكِسار	refrangibility
+قابِلِيَّةُ الإيْحَاء	suggestibility
+قابِلِيَّةُ الإيحاءِ الذَّاتِيّ	autosuggestibility
+قابلية التجلط	coagulability
+قَابِلِيَّة التَّطَايُر	volatility
+قابِلِيَّةُ التَّعَب ؛ تَعُوبِيَّة	fatigability
+قَابِلِيَّةُ التَّلْقِيْح	inoculability
+قَابِلِيَّةُ التَّمَدُّدِ	distensibility
+قَابِلِيَّةُ التَّنْسِيْل	clonality
+قابِلِيَّةُ الجِراحَة	operability
+قابِلِيةُ السَّحْب	ductility
+قابِلِيَّةُ العَدْوَى	infectibility
+قَابِلِيَّةُ الهَضْم ؛ هَضُومِيَّة	digestibility
+قابلية الوراثة	heritability
+قابِلِيَّةُ تَغْييرِ الشَّكْل	deformability
+قابلية للوراثة	heritability
+قات	catha edulis / khat
+قات (نباتٌ من الفصيلة الحرابية)	Catha
+قاتل - مميت	fatal
+قَاتِل الأبْوَاغ	sporicide
+قَاتِل الجَرَاثِيم	bactericide
+قاتل الديدان	helminthicide = vermicide
+قاتل النُّطف	spermicide
+قاتِمُ الانْصِباغ (أَليفُ الكروم)	pheochrome (chromaffin)
+قاتِمُ الجِلْد	melanoderm / melanous
+قاتِمَةُ المَخْروط	melanoconion
+قاتين (قلواني مخدر نباتي المنشأ)	katine
+قادِرٌ عَلى تَكْوِيْنِ الحُبَيبات	granulopotent
+قادِمَةُ إِبْهَامِ القَدَم	prehallux
+قادِمَةُ الإِبْهام	prepollex
+قادِمَةُ الحَرْف (بنية دماغية)	presubiculum
+قادِمَةُ الشُّعَيرَة ( تالِيَةُ الشُّرَيْنة)	precapillary (metarteriole)
+قادِمّةُ الفَكَّ العُلْوِيّ ( عَظْمُ القَواطِع)	premaxilla (os incisivum)
+قادِمَةُ الفَهْقَة	proatlas
+قادِمَةُ القَدَم [حَشَرات]	propodite (propodos) / propodos
+قادِمَةُ القَصّ ( قَبْضَةُ القَص)	presternum (manubrium sterni)
+قادِمَةُ الكَتِف	prescapula
+قادِمَةُ المَثانَة	prebladder
+قادِمَةُ المَشيمَة [حيوان]	prochorion
+قادِمَةُ الوِصاد (في قشرة المخ)	preoperculum
+قادوس	hopper
+قاذِف	ejaculator / ejector
+قاذِفَةُ اللُّعاب [أسنان]	saliva ejector
+قار	bitumen
+قارٌ أَسْوَد	black pitch
+قارٌ بَحْرِيّ ( قارٌ أَسْوَد)	naval pitch (black pitch)
+قارُ بيرغَندي	Burgundy pitch
+قارٌ سائِل ( قارُ الخَشَب)	liquid pitch (wood tar)
+قارُ كندا	Canada pitch
+قارٌ مَعْدِنِيّ ( زِفْت)	mineral pitch (bitumen)
+قارِئ ؛ قارِئَة [ج:قَوارِىء] (مرتبة اكاديمية لمدرسي الجامعات)	reader
+قارِئَةُ حُرُوْفٍ مغناطيسية	magnetic ink character reader
+قَارِبِيّ	scaphoid
+قارِبيّ، زَورَقِيّ	scapho
+قارت	omnivore
+قارِت (آكلُ كلِّ شيء)	omnivorous
+قارِت (آكل للنبات وللحيوان معا)	polyphagous
+قارِحَة	cancrum (canker) / canker
+قارِحَةُ الأَنْف	cancrum nasi
+قارحَةُ الفَرْج	cancrum pudendi
+قارِحَةُ الفَم	cancrum oris (noma) / canker sore
+قارِض	rodent
+قارِضِيّ	rodentine
+قارِمِيّ	sarcoptic
+قارُوح (في الخَيل)	quittor
+قاروحٌ بَسيط	simple quittor
+قاروحٌ تَحْتَ الجِلْد	sub-skin quittor
+قاروح تَحْتَ الحَافِر	subhorny quittor
+قاروحٌ قَرْنِيّ	horny quittor
+قاروحٌ وَتَرِيّ	tendinous quittor
+قارورَة	bottle / flask
+قارورَةُ الإِطْعام	feeding bottle
+قارورَةُ غَسْل	wash bottle / wash-bottle; washing bottle
+قَارُورَة وَزْن	weighing bottle
+قارورَةُ وولف	Woulfe's bottle
+قارورة، حبابة	ampule
+قارِيّ (زفتي او شبيه بالقار والزفت)	piceous
+قارِىءُ الأَفْلاَمِ الشُّعاعِيَّة	x-ray reader
+قاسٍ (قاسي)؛ صُلْبٌ	hard
+قاصٍ	distal
+قاصٍ (قاصي)	distalis NA
+قاصِر	insufficient
+قاصِرُ الغُدَدِ التَّناسُلِيَّة	hypogonadal
+قاصِرُ النَّشاط	hypoactive
+قاصِرٌ عَقْلِيَّاً	mentally defective
+قاضِمُ الأَظْفار	onychophagist
+قاضِي التَّحْقيق	coroner
+قاطِع (السِّنُّ القاطِعَةُ لِلَّحْم)	carnassial
+قاطع الأورام	celectome
+قاطِعُ التَّيَّار	interrupter / rheotome
+قاطِعُ اللَّبَن	phygogalactic
+قاطع اللهاة	cionotome
+قاطع المثانة	cystotome
+قاطع المحفظة	cystitome
+قاطِعٌ للَّبَن	lactifuge
+قاطِع، قاطِعة	incisor
+قاطِعَة	cutting tooth
+قاطِعَة [ج:قَواطِع]	incisor
+قاطعة الأمعاء	enterotome
+قاطعة الجنين	embryotome
+قاطعة الدماغ	encephalotome
+قاطعة الغضروف	ecchontrotome
+قاطعة المحفظة	cibisotome
+قاطِعَةٌ سُفْلِيَّةٌ وَحْشِيَّة	lower lateral incisor
+قاطعة كيس الدمع	dacryocystitome / dacryocystotome = dacryocystitome
+قاطِعَةٌ مُجَنَّحَة	winged incisor
+قَاطِعَةٌ مَرْكَزِيَّةٌ سُفْلِيَّةٌ	lower central incisor
+قاطِعَةٌ وَحْشِيَّة	lateral incisor
+قاطِعِيٌّ حَنَكِيّ	incisopalatal
+قاطِعيٌّ دانٍ (داني)	incisoproximal
+قاطِعِيٌّ شَفَوِيّ	incisolabial
+قاطِعِيٌّ لِسانِيّ	incisolingual
+قاطِعِيٌّ وَحْشِيّ	disto-incisal
+قاعٌ	fundus
+قاع (لاسِيَّما قاعُ المَثانَة)	bas-fond (fundus)
+قاع [ج:قيعان]	fundus [pl.fundi]
+قاعٌ أَصْفَرُ البُقَع (في العين)	fundus flavimaculatus
+قاعُ الأَعْوَر	fundus of cecum
+قاعُ الحَجاج	orbital floor
+قاعُ الحُفْرَة	cavity floor
+قاعُ الحُفْرَة [أسنان]	floor of the cavity
+قاعُ الحُوَيصِلَةِ المَنَوِيَّة	fundus of seminal vesicle
+قاعُ الرَّحِم	fundus of uterus / fundus uteri / fundus uteri NA
+قَاعُ السِّنْخ	alveolar fundus
+قاعُ الصِّماخِ السَّمْعِيِّ البَاطِن	fundus meatus acustici interni NA / fundus of internal acoustic meatus
+قاعُ العَين	eyeground / fundus oculi / fundus oculi NA / fundus of eye (fundus oculi)
+قاعُ الفَم	floor of the mouth
+قاعُ المَثانَة	fundus of bladder / fundus of urinary bladder / fundus vesicae urinariae NA
+قاع المثانة البولية	fundus of bladder
+قاعُ المَرارَة	fundus of gallbladder / fundus vesicae felleae NA
+قاعُ المَعِدَة	fundus gastricus NA (gastric fundus) / fundus of stomach (fundus ventriculi) / fundus ventricularis NA (fundus gastricus) / fundus, gastric
+قاع المقلة	fundus of eye / fundus, oc'uli
+قاع المهبل	fundus of vagina
+قاعُ المَهْبِل (? قَبْوُ المَهْبِل)	fundus of vagina
+قاعُ المَهْبِل (قَبْوُ المَهْبِل)	fundus vaginae (fornix vaginae)
+قاعٌ أَنْمَر (للعين)	tessellated fundus / tigroid fundus
+قاعُ جَوفِ الفَم	floor of oral cavity
+قاعٌ مَهَقِيّ (منظر قاع العين الفاقد الميلانين)	albinotic fundus
+قاعٌ مَهَقِيٌّ مُنَقَّط (منظر قاع العين)	fundus albipunctatus
+قاعِدَة	base / basis / basis NA / rule
+قَاعِدَة (ال...)، الأسَاس	basio-
+قاعِدَة [ج:قَواعِد]	rule
+قاعِدَةُ آري (في تحديد عمر الجنين)	Arey's rule
+قاعِدَةٌ أَساسِيَّة ( قاعِدَةٌ تَحْليلِيَّة)	basic rule (analytic rule)
+قاعِدَةُ الأَرْباعِ لبَارْثُولُومْيُو (في تحديد عمر الحمل)	Bartholomews' rule of fourths
+قاعِدَةُ الأَنْف	basis nasi
+قاعِدَةُ البِدْلَةِ السِّنِّيَّة	denture base / denture foundation
+قاعِدَةُ البِدْلَةِ السِّنِّيَّةِ المُلَوَّنَة	tinted denture base
+قاعِدَةُ البرُوسْتاتَة	base of prostate / basis prostatae NA
+قاعِدَةُ الثُّمانِيَّات (في الكيمياء)	octet rule
+قَاعِدَة الثُّمَانِيَّة	octet rule / rule of eight
+قاعِدَةُ الرِّئَة	base of lung / basis pulmonis NA
+قاعِدَةُ الرَّضَفَة	basis patellae NA
+قاعِدَةُ الرِّكاب	base of stapes / basis scapulae
+قاعِدَةُ السِّنْع	basis cornus posterioris medullae spinalis NA / basis ossis metacarpalis (basis metacarpalis NA)
+قاعِدَةُ السُّوَيقَتَينِ الدِّماغِيَّتَين	basis pedunculi cerebri NA
+قاعدة الطقم السني	base, denture
+قاعِدَةُ الغُدَّةِ الكُظْرِيَّة (? الوَجْهُ الكُلْوِيُّ لِلغُدَّةِ الكُظْرِيَّة)	basis cochleae NA
+قاعِدَةُ الغُضْروفِ الطِّرْجِهالِيّ	basis cartilaginis arytenoideae NA
+قاعِدَةُ الفَكِّ السُّفْلِيِّ	basis cordis NA
+قاعِدَةُ الفِلْم	film base
+قاعِدَةُ القِحْف	basilaris cranii / cranial base
+قاعدة القرحة	base of ulcer
+قاعِدَةُ القَرْنِ الخَلْفِيِّ للنُّخَاعِ	basis cornus posterioris medullae spinalis NA
+قاعِدَةُ القَطَّاعِ الجِلْدِيّ (لتحديد موضع الألم)	dermatomal rule
+قاعِدَةُ القَلْب	base of heart / basis cordis NA
+قاعِدَةُ القَوقَعَة	basis cochleae NA
+قاعِدَةُ الكَتِف	basis scapulae
+قاعِدَةُ الكَعْب (لتطويل الساق)	patten
+قاعِدَةُ اللامِيّ	basihyal (basihyoid) / basihyoid
+قَاعِدَةُ اللامِيَّةِ اللِّسانِيَّة	hyobasioglossus
+قاعِدَةُ المُخّ	basis cerebri
+قاعِدَةُ المُخّ ( الوَجْهُ السُّفْلِيُّ لِلمُخّ)	basis cerebri (facies inferior cerebri NA)
+قاعِدَةُ المُخّ (? الوَجْهُ السُّفْلِيُّ لِلمُخّ)	basis cerebri (®facies inferior cerebri NA)
+قاعِدَةُ المَخْرَج (في التوليد)	rule of outlet
+قاعِدَةُ المَرْهَم	ointment base
+قاعِدَةُ المِشْط	basis metatarsalis NA / basis ossis metatarsalis (basis metatarsalis NA)
+قاعِدَةُ المَصْدَرِ الرَّادِف	collateral source rule
+قاعِدَةُ المَطَّاطِ الصُّلْب	vulcanite base
+قاعِدَةُ المُعْطَيات	data base
+قاعِدَةُ المُعْطَيات [ج:قاعِداتُ المُعْطَيات]	data base
+قاعِدَةُ آلن (في القياسات البشرية)	Allen's rule
+قاعِدَةُ الهَرَمِ الكُلْوِيّ	basis pyramidis renalis NA
+قاعِدَةٌ امْتِدادِيَّة	extension base
+قاعِدَةُ آنْستِي (في الكيمياء)	Anstie's rule
+قاعِدَةٌ انْضِمامِيَّة	conjugate base
+قاعِدَةُ بَاسْتيدُو (للجرعات الدوائية)	Bastedo's rule
+قاعِدَةٌ بلاستيكية	plastic base
+قاعِدَةُ بُودان (في التغذية بالزجاجة)	Budin's rule
+قاعِدَةٌ بورينية	purine base
+قاعِدَةُ بِيرْغمان (في القياسات البشرية)	Bergmann's rule
+قاعِدَةُ تاريخِ الوِلاَدَة	delivery date rule
+قاعِدَةٌ تَجْرِيْبِيَّة ( صَفيحَةٌ قاعِدِيَّة)	trial base (baseplate)
+قاعِدَةٌ تَحْليلِيَّة	analytic rule
+قاعِدَةٌ تَسْجيلِيَّة ( صَفيحَةٌ قاعِدِيَّة)	record base (baseplate)
+قاعِدَةُ جاكْسُون (في الصرع)	Jackson's rule
+قاعِدَةٌ حَمُوْضَة	acidifiable base
+قاعِدَةٌ حَيَوانِيَّة ( تُومائين)	animal base (ptomaine)
+قاعِدَةُ دورْهام (حول مسؤولية المرضى العقليين)	Durham rule
+قاعِدَةٌ راتينِيَّةٌ أَكْريليكِيَّة [أسنان]	acrylic resin base
+قاعِدَةٌ رَخْوَة [أسنان]	soft base
+قاعِدَةُ رولْستون (حول ضغط الدم السوي)	Rolleston's rule
+قاعِدَةُ سُلامَياتِ أَصابعِ القَدَم	basis phalangis digitorum pedis NA
+قاعِدَةُ سُلامَياتِ الأَصابِع	basis phalangis digitorum manus NA
+قاعِدَةُ شرينر ( سبيرمين)	Shreiner's base (spermine)
+قاعِدَةُ شوتْز (حول النشاط الإنزيمي)	Schutz's rule (Schutz-Borissov rule)
+قَاعِدَة ضَعِيفَة	weak base
+قاعِدَةُ عَظْمِ العَجُز	basis ossis sacri NA
+قاعِدَةُ عِمادِ القَوقَعَة	basis modioli NA
+قاعِدَةُ غِيبْسُون (في الالتهاب الرئوي)	Gibson's rule
+قاعِدَةُ فانْت هوف (حول سرعة التفاعل الكيميائي)	van't Hoff's rule
+قاعِدَةُ فايِنْبِرغ (حول التوائم)	Weinberg's rule
+قاعِدَةُ فريد (للجرعات الدوائية)	Fried's rule
+قاعِدَةُ قالَبِ الأَسْنان	drag
+قاعِدَةٌ قِمِّيَّة ( القَوسُ القاعِدِيَّة) [أسنان]	apical base (basal arch)
+قاعِدَةُ كاولِينْغ (للجرعات الدوائية)	Cowling's rule
+قاعِدَةُ كلارْك (للجرعات الدوائية)	Clark's rule
+قاعِدَةُ كوِيتِيلِه (حول الوزن السوي)	Quetelet's rule
+قاعِدَةُ لاكتون هُدْسون (في البصريات)	Hudson's lactone rule
+قاعِدَةُ لوسن (في وراثة الناعور)	Lossen's rule
+قاعِدَةُ لِيبَِرْمايستَر (في الحمى وتأثيرها على سرعة القلب)	Liebermeister's rule
+قاعِدَةٌ مُؤَقَّتَة ( صَفيحَةٌ قاعِدِيَّة)	temporary base (baseplate)
+قاعِدَةٌ مَحْمولَةٌ بالأَسْنان	tooth-borne base
+قَاعِدَة مُرَافِقة	conjugated base
+قاعِدَةٌ مَعْدَنِيَّة [أسنان]	metal base
+قاعِدَةُ مُعْطَياتٍ إِحْصائِيَّة	statistical data base
+قَاعِدَةُ مُعْطَياتٌ سَريرِيَّة	clinical data base
+قاعِدَةُ مَكْدُونالْد	McDonald's rule
+قاعِدَةٌ مِلاطِيَّة	cement base
+قاعِدَةُ مناتِن (حول المسؤولية الجنائية للمرضى العقليين)	M'Naghten rule
+قاعِدَةٌ مَوضِعِيَّة	locality rule
+قاعِدَةُ ناجيلي (لتحديد تمام الحمل)	Nagele's rule
+قاعِدَةٌ نِتْروجينِيَّة	nitrogen base / nitrogenous base
+قاعِدَةُ هارْدِي-وَاينبِرغ (في الوراثيات)	Hardy-Winburg rule
+قاعِدَةُ هاسَّه (في تحديد عمر الجنين)	Haase's rule
+قاعِدَةُ يونْغ (حول الجرعات الدوائية)	Young's rule
+قاعِدِيّ	basal / basal; fundamental / basic; basilar / basilar / basilaris
+قَاعِدِيّ (سابقة)	baso-
+قاعِدِي ؛ أَساسِيّ	basal / basic
+قاعِدِيُّ التَّفاعُل	basylous
+قاعِدِيٌّ أَنْفِيّ	basirhinal
+قاعِدِيٌّ بُلْعومِيّ	basilopharyngeal / basipharyngeal
+قاعِدِيٌّ ذَقْنِيّ	basilomental
+قاعِدِيٌّ قَذالِيّ	basioccipital
+قاعِدِيٌّ لِسانِيّ	basioglossus
+قاعِدِيٌّ وَحْشِيّ	basilateral / basolateral
+قاعِدِيَّةُ العُيون (رُتَيبَةٌ مِنَ الرَّخَوِيَّات)	Basommatophora
+قَاعِدِيّة، أَسَاسِيَّة	basicity
+قاعة العمليات	operating room
+قاعَةُ العَمَلِيَّات ؛ غُرْفَةُ العَمَلِيَّات	operating theater
+قاعِيّ	fundal / fundic
+قاعِيُّ الشَّكْل	fundiform
+قالَب	cast / mould / mould (mold)
+قالَبٌ أكريليكي	acrylic mould
+قالَبٌ أكْريلِيكيّ ( إسْتَنْتٌ أَكْريليكيّ)	acrylic mold (acrylic stent)
+قالَبُ التَّشْميع	waxing die
+قالَبُ التَّكْسِيَة	investment cast
+قالَبُ الصَّبّ	molding box
+قالب العضة	bite block
+قالَبُ المُلْغَم	amalgam die
+قالَبٌ تَشْخيصِيّ	diagnostic cast
+قالَبٌ جِبْسِيّ	plaster cast / stone cast
+قالَبٌ حَجَرِيّ	stone die
+قالَبٌ حَرون (قالَبُ التَّكْسِيَة)	refractory cast (investment cast)
+قالَبٌ رَئيسِيّ	master cast
+قالَبٌ سابِقٌ للعَمَلِيَّة (قالَبٌ تَشْخيصِيّ)	preoperative cast (diagnostic cast)
+قالَبٌ سابِقٌ للقَلْع (قالَبٌ تَشْخيصِيّ)	preextraction cast (diagnostic cast)
+قالَبٌ سِنِّيّ	dental cast
+قالَبٌ فَكِّيٌّ ثابِتٌ	gnathostatic cast
+قالَبٌ كَهْرَبِيُّ التَّشْكيل	electroformed die / electroplated die / plated die
+قَالَبٌ لُبِّيُّ الشَّكْل	cast form core
+قالَبٌ للدِّراسَة (قالَبٌ تَشْخيصِيّ)	study cast (diagnostic cast)
+قالَبٌ مَطَّاطِيّ	rubber mold / rubber mould
+قالَبٌ مُعاكِس	counterdie
+قالَبٌ مُعَلَّب	boxed cast
+قالَبٌ مُعَلَّب [أسنان]	boxed cast
+قالَبٌ مُلْغَمِيّ	amalgam die
+قَالِبَة	inverter
+قَالِبَةُ التَّيار	gyrotrope (rheotrope)
+قالع الحمى - خافض الحمى (مفرق)	defervescent
+قالِعُ الوَتَد (أداة نزع الوتد)	post extractor
+قامِلَةُ السَّمَك (جِنْسٌ من الأَوالِي)	Ichthyophthirius
+قامَة	stature
+قانصة	gizzard
+قانع، زاهد	temperate
+قانون	canon / law
+قانون "كولس"	Colles law
+قانُونُ إِزالَةِ التَّعْصيب	law of denervation
+قانُونُ استِهْلاكِ الطاقَةِ الثَّابِت	law of constant energy consumption
+قانُونُ الاسْتِباق	law of anticipation
+قانُونُ الاسْتِثارَة	law of excitation
+قانُونُ الأَلَمِ الرَّجيع	law of referred pain
+قانُونُ الانْكِسار	law of refraction
+قانُونُ الانْهيال	law of avalanche
+قانُونُ التَّجاوُر	law of contiguity
+قانونُ التَّحْقيقِ الروتينيّ	routine inquiry law
+قانُونُ التَّعَب	law of fatigue
+قانُونُ التَّعْصيبِ المُعاكِس	law of contrary innervation
+قانُونُ التَّفَارُزِ المُسْتَقِل	law of independent assortment
+قانُونُ التَّيسير	law of facilitation
+قانُونُ الجاذِبِيَّة	law of gravitation
+قانُونُ السِّيادَة	law of dominance
+قَانُوْنُ الصَّيْدَلَة	pharmacy act / pharmacy law
+قانُونُ الضُّغوطِ الجُزْئِيَّة	law of partial pressures
+قانُونُ الفَصْل	law of segregation
+قانُونُ الكُلِّ أَو العَدَم	all-or-none law
+قانُونُ المُتَغَيِّراتِ المُتَعَدِّدَة	law of multiple variants
+قانونُ المَوتِ الطَّبيعِيّ	natural death act
+قانُونُ آلن التَّناقُضِيّ	Allen's paradoxic law
+قانُونُ النِّسَبِ المُتَبادَلَة	law of reciprocal proportions
+قانُونُ النِّسَبِ المُحَدَّدَة	law of definite proportions
+قانُونُ النِّسْبِيَّة	law of relativity
+قانُونُ انْحِفَاظِ الطاقَة	law of conservation of energy
+قانُونُ انْحِفَاظِ المَادَّة	law of conservation of matter
+قانونُ أوم (في الكهرباء)	Ohm's law
+قانُونُ حَاصِلِ النُّمُوِّ الثابت	law of constant growth quotient
+قانونُ حُقوقِ المَرْضَى	patients' bill of rights
+قانُونُ طِبِّ الأسْنان	dental jurisprudence
+قانُونُ فِعْلِ الكُتْلَة	law of mass action
+قانون كورفوازيه (في انسداد قناة الصفراء)	courvoisier's law
+قانُونُ مُعدِّلِ التَوَضُّع	law of average localization
+قانونُ مَنْدِل	Mendel's law
+قَبَّالُ الأَحْمَر (صبغ في الشبكية)	erythrolabe
+قَبَّالُ الأَخْضَر (في شبكية العين)	chlorolabe
+قَبَّالٌ للأَزْرَق	cyanolabe
+قِبالَة	midwifery
+قَبَّان	platform scale
+قُبْح	ugliness
+قَبْض	astriction / grasping / gripping
+قَبْضٌ خَفيف	hypostypsis (moderate astringency)
+قَبْضات [ف:قَبْضَة]	manubria [sing.manubrium]
+قَبْضَة	manubrium
+قَبْضَة [أسنان]	handpiece
+قَبْضَة [ج:قَبْضات]	manubrium NA [pl.manubria]
+قَبْضَةٌ اِتِّقائِيَّة	prophylactic handpiece
+قَبْضَةُ الإِبْهامِ و الرَّاحَة	palm-and-thumb grasp
+قَبْضَةُ الأَداة	instrument grasp
+قَبْضَةُ الإِصْبَع	finger grip
+قَبْضَةُ البَخّ	spraymatic handpiece
+قَبْضَةُ البَخِّ المُزْدَوِج	double spray handpiece
+قَبْضَةُ البَخِّ المُنْفَرِد	single spray handpiece
+قَبْضَةُ التَّدْوير	giromatic handpiece
+قَبْضَةُ التُّوْربين المائِي	water turbine handpiece
+قَبْضَةُ التُّورْبِيْن الهَوَائِيّ	air turbine handpiece
+قَبْضَةُ الزَّاوِيَةِ العَكْسِيَّة	contra -angle handpiece
+قَبْضَةُ السُّرْعَةِ العالِيَة	high speed handpiece
+قَبْضَةُ السُّرْعَةِ الفائِقَة	ultraspeed handpiece
+قَبْضَةُ القَصّ	manubrium of sternum / manubrium sterni NA / manubrium sterni; manubrio
+قَبْضَةُ القَلَم	pen grasp
+قَبْضَةُ القَلَمِ المَقْلوب	inverted pen grasp
+قَبْضَةُ الكُراتِ المُتَدَحْرِجَة	ball bearing handpiece
+قَبْضَةُ المُحَرِّكِ المِكْرَوِيّ	micro -motor handpiece
+قَبْضَةُ المِرْآة	mirror handle
+قَبْضَةُ المِطْرَقَة	manubrium mallei NA / manubrium of malleus
+قَبْضَةُ إِنْقاصِ السُّرْعَة	speed reducing handpiece
+قَبْضَةٌ بزاوِيَةٍ قَائِمَةٍ	right-angle handpiece
+قَبْضَةٌ توربِيْنِيَّة	turbine handpiece
+قَبْضَةٌ جِراحِيَّة	surgical handpiece
+قَبْضَةُ حَفْرٍ هَوائِيَّة [أسنان]	air driven hand piece
+قَبْضَةٌ دَوَّارَةٌ فائِقَةُ السُّرْعَة	ultraspeed rotary handpiece
+قَبْضَةٌ ذاتُ فِراشٍ هَوائيّ	air-bed handpiece
+قَبْضَةٌ ذاتُ وِسادَةٍ هَوائِيَّة	air-cushion handpiece
+قَبْضَةُ زِيادَةِ السُّرْعَة	speed increasing handpiece
+قَبْضَةٌ فَوْق صَوْتِيَّة	ultrasonic handpiece
+قَبْضَةٌ مُتَوازِنَة	balanced grip
+قَبْضَةٌ مُخْتَبَرِيَّة	laboratory handpiece
+قَبْضَةٌ مُسْتَقيمَة	straight handpiece
+قَبْضَةٌ مِعْيارِيَّة	standard handpiece
+قَبْضَةُ هَزَّازِ المُلْغَم	amalgam -vibrator handpiece
+قَبْضَةٌ هَوائِيَّةُ الدَّفْع	air-bearing handpiece
+قَبْضَوِيّ	manubrial
+قَبْط	uptake
+قَبْط، التقاط	uptake
+قُبَّعَةُ الميناء	enamel cap
+قُبُل	externalia = external genitalia
+قَبْلَ الأَحْياء	prebiotic
+قَبْلَ الاخْتِلاَج	preconvulsive
+قَبْلَ الأَكْل	anteprandium / preprandial (before meals)
+قَبْلُ الأَمْبُولَة	preampullary
+قَبل البواب	prepyloric
+قَبْلَ التَّسَرْطُن	precarcinomatous
+قَبْلَ الحُمَّى	antefebrile / antepyretic
+قَبْل الذَّبْح	antimortem
+قَبْل الرَضَفة	prepatellar
+قَبْلَ السَّريرِيّ	preclinical
+قَبْلَ الصِّوار	precommissural
+قَبْلَ الطِّبِّيّ	premed / premedical
+قَبْلَ الطَّعام	ac / precibal
+قَبْلَ الطَّعام [أدوية]	ante cibum
+قَبْلَ العُقْدَة	preganglionic
+قَبْلَ الغُرابِيّ	precoracoid
+قبل الفؤاد	epicardiac
+قَبْلَ القَناةِ الشِّرْيانِيَّة	preductal
+قَبْلَ الكُبَيبَة	preglomerular
+قَبْلَ المِحْوَر	preaxial
+قَبْلَ المَخَاضِ	prepartum
+قَبْلَ المَوت	ante mortem (antemortem)
+قَبْلَ الوَضْع	ante partum / antepartal (antepartum) / antepartum / predelivery
+قَبْلَ الوِلادَة	antenatal / antepartum
+قَبْل ظُهورِ العُصَيَّات	prebacillary
+قَبْل عَهْدِ التَّطْهير	preantiseptic / preaseptic
+قبل ولادي	prenatal
+قبْل، أمَام،، بدْء، سابِق	pro
+قُبَّة	calvaria / cupola = cupula / dome / vault-arch
+قُبَّةُ الجَنْبَة	pleural dome
+قُبَّةُ الحِجاب	diaphragm dome
+قبة القحف	vault of cranium
+قَبْو	fornix / vault (fornix NA)
+قَبْو [ج:أَقْبِيَة]	fornix NA [pl.fornices]
+قَبْوُ البُلْعوم	fornix of pharynx / fornix pharyngis / vault of pharynx
+قَبْوُ الحَنَك	palatal vault
+قَبْوُ المُخّ	fornix cerebri / proximalis NA (proximal)
+قَبْوُ المَعِدَة (قاعُ المَعِدَة)	fornix gastricus (fundus gastricus) / fornix ventricularis (fundus gastricus)
+قبْو الملتحمة	conjunctival fornix
+قَبْوُ المَهْبِل	fornix vaginae / fornix vaginae NA
+قَبْوُ كِيْسِ الدَّمْع	fornix of lacrimal sac / fornix sacci lacrimalis
+قَبُوْلُ الذَّات	self-acceptance
+قبوة - قبو	fornix
+قَبْوِيّ	fornical
+قُبِّيّ	calvarial
+قُبَيبات	cupulae [sing.cupula] / haustra
+قُبَيبات [ف:قُبَيبَة]	cupulae [sing.cupula] / haustra [sing.haustrum]
+قُبَيباتُ الأَعْوَر	cecal haustra
+قُبَيباتُ القَوْلُون	haustra coli NA / haustra of colon
+قبيبات قَوْلُونيّة	haustra coli
+قُبَيبَة	cupola (cupula) / cupule
+قُبَيبَة [ج:قُبَيْبَات]	haustrum NA [pl.haustra]
+قُبَيبَة [ج:قُبَيبات] (بنية تشريحية بشكل الكوب المقلوب)	cupula [pl.cupulae]
+قُبَيبَةُ الجَنْبَة	cupula of pleura / cupula pleurae NA
+قُبَيبَةُ العُرْفِ الأَمْبولِي	cupula cristae ampullaris NA / cupula of ampullary crest
+قُبَيبَةُ القَوقَعَة	cupula cochleae NA / cupula of cochlea
+قُبَيبِيّ	cupular / haustral / haustral; cupular
+قَبيح	ugly
+قُبَيعَة	Cavia cobaya
+قُبَيعَة (جِنْسُ حَيَوانٍ مِنَ القَوارِض)	cavy
+قُبَيعَة [ج:قُبَيعات]؛خَنْزِيْرٌ غينِيّ	guinea pig (cavia cabaya)
+قُبيعة، خنـزير الهند	guinea pig
+قُبَيلَ التَّخْدير	subnarcosis
+قُبَيْلَة (في تصنيف الأحياء)	subtribe
+قَبيلَة (مجموعة تصنيفية فوق الجنس وتحت الفصيلة) [ج:قبائل]	tribe
+قَتَامَةُ الجِلْد	melanosity
+قَتَامَةُ الشَّعْر	melanotrichia
+قتامة القلب	cardiomelanosis
+قَتَرائِيّ ؛قَصِّيٌّ تَرْقُوِيٌّ خُشَّائِيّ	sternocleidomastoid
+قَتْل	homicide / killing
+قَتْلُ الأَب	patricide
+قَتْلُ الأُمّ	matricide
+قَتْلُ الجَنين	embryoctomy / embryoctony / feticide
+قتل الخلايا	cytoctony
+قَتْلُ الرَّضيع	infanticide
+قَتْلُ المَرْحَمَة	mercy killing
+قَتْلُ المَرْحَمَة (تيسير الموت في الأمراض التي لايرجى شفاؤها)	euthanasia (mercy killing)
+قَتْلُ المَرْحَمَةِ اللاَّفاعِل	orthothanasia (passive mercy killing) / passive euthanasia
+قَتْلُ الوَليد	neonaticide
+قَثاطيرُ خَيطِيَّةُ الرُّؤوس	filiform-tipped catheters
+قِثطار	catheter
+قِثْطار (ج: قَثاطير)	catheter
+قِثْطِارٌ إِحْليلِيٌّ مُسْتَقِرّ	catheter a demeure
+قِثْطارٌ أَكْوَع	elbowed catheter
+قِثْطارُ التَّصْويرِ الوِعائِي	angiographic catheter
+قِثْطارُ الرُّغامَى	tracheal catheter
+قِثْطارُ النَّفير	eustachian catheter
+قِثْطارٌ أُنْثَوِيّ	female catheter
+قِثْطارُ أُودْمان لِيدِن (قثطار من البولي إيثيلين)	Odman-Ledin catheter
+قِثْطارُ إيتارْد (النَّفيرِيُّ)	Itard's catheter
+قِثْطارٌ بَالُونيٌّ	balloon catheter
+قِثْطارُ براش ( قِثْطارٌ بَصَلِيُّ الرَّأْسِ)	Braasch bulb catheter (bulb-tipped catheter)
+قِثْطارٌ بُرُوْدِيّ	psychrophore
+قِثْطارُ بروستاتي	prostatic catheter
+قِثْطارٌ بُطَينِيّ	ventricular catheter
+قِثْطارٌ بَلُّوطِيُّ الرَّأْس	acorn-tipped catheter
+قِثْطارُ بوزمان ( قِثْطارٌ رَحِمِيٌّ ذُو مَجْرَيَين)	Bozeman's catheter (double-current uterine catheter)
+قِثْطارُ بُوزْمان-فرِيتْش ( قِثْطارٌ رَحِمِيٌّ ذو مَجْرَيَين)	Bozeman-Fritsch catheter (double-current uterine catheter)
+قِثْطارُ بِيتْزر (قِثْطارٌ مُسْتَقِرٌّ بَصَلِيُّ الرَّأْس)	Pezzer's catheter
+قِثْطارُ بيزِّيه (? قِثْطارٌ مُسْتَقِرٌ بَصَلِيُّ الرَّأْس)	de Pezzer catheter
+قِثْطارُ تِنْخُوف (قثطار صفاقي مستقر في الديال الصفاقي)	Tenchoff catheter
+قِثْطارٌ ثُلاَثِيُّ المَفاصِل	lobster-tail catheter
+قِثْطارٌ حالِبِيّ	ureteric catheter
+قِثْطارٌ حَلْقِيٌّ	faucial catheter
+قِثْطارٌ داخِلِيّ	intracatheter
+قِثْطارُ درُو-سمايث (قِثْطارُ بَثْق الأغشية الجنينية)	Drew-Smythe catheter
+قِثْطارٌ ذاتِيُّ التَّثْبيت	self-retaining catheter
+قِثْطارٌ ذو عَطْفَتَين	bicoudate catheter / catheter bicoude
+قِثْطارٌ ذو عَطْفَةٍ	catheter coudé
+قِثْطارٌ ذُو مَجْرَيَين	double-current catheter / two-way catheter
+قِثْطارُ رُوبِنْسُون (قثطار مستقيم عديد الفتحات)	Robinson catheter
+قِثْطارٌ زَيتونِيُّ الرَّأْس	olive-tip catheter
+قِثْطارُ سكْواير (قِثْطارٌ مَرِنٌ مُتَعَدِّدُ القَطْع)	Squire's catheter
+قِثْطارُ سْكين (قِثْطارٌ زُجاجِيٌّ مُسْتَبْقَى)	Skene's catheter
+قِثْطارُ سوان غانْتس (قثطار مرن نفاخيٌّ وعديد الرؤوس لقياس ضغوط الدم)	Swan-Ganz catheter
+قِثْطارٌ سينِيُّ الشَّكْل (للنواسير المهبلية المثانية)	sigmoid catheter
+قِثْطارٌ شَبيهٌ بذَنَبِ الجُرَذ	rat-tail catheter
+قِثْطارُ شرُوتَر (قثطار مطاطيٌّ مُوَسِّعٌ للحَنْجَرَة)	Schrotter's catheter
+قِثْطارٌ صَفَّارِيُّ الرَّأْس	whistle-tip catheter
+قِثْطارٌ صَوتِيّ	phonocatheter
+قِثْطارٌ ظَليل	opaque catheter
+قِثْطارُ غارْسُو ( قِثْطارٌ مَخْروطِيّ)	Garceau catheter (conical catheter)
+قِثْطارُ غُولِي (قِثْطارٌ مَعْدِنِيٌّ مُخَدَّد)	Gouley's catheter
+قِثْطارُ فريتْش ( قِثْطارٌ رَحِمِيٌّ ذُو مَجْرَيَين)	Fritsch's catheter (double current uterine catheter)
+قِثْطارٌ فَمَوِيٌّ بُلْعومِيّ	oropharyngeal catheter
+قِثْطارُ فُوغارْتِي (قِثْطارُ بالونِيٌّ لاسْتِئْصالِ الصُّماتِ مِنَ الأَوعِيَة)	Fogarty catheter
+قِثْطارُ فُولِي (? قِثْطارٌ بالونِيٌّ مَثانِيٌّ مُسْتَقِرّ)	Foley catheter
+قِثْطار فيليب (قثطار إحليلي ذو دليل نسيجي)	Phillips'catheter
+قِثْطارٌ قَلْبِيّ	cardiac catheter / intracardiac catheter (cardiac catheter)
+قِثْطارٌ لَولِبِيُّ الرَّأْس	spiral-tip catheter
+قِثْطارٌ لَيِّن	soft catheter
+قِثْطارُ ماليكُو (قثطار متعدد الأجنحة لمثانة المرأة)	Malecot catheter
+قِثْطارٌ مُجَنَّح	winged catheter
+قِثْطارٌ مَخْروطِيّ	conical catheter
+قِثْطارُ مِرْسِييه (قثطار لين وَمُكَوَّعُ الرَّأْس)	Mercier's catheter
+قِثْطارٌ مَرِن	flexible catheter
+قِثْطارٌ مُزَوَّى	angulated catheter
+قِثْطار مستقر	indwelling catheter
+قِثْطارٌ مَسسْتَقِرّ	indwelling catheter
+قِثْطارٌ مُفَقَّر	vertebrated catheter
+قِثْطارٌ مُوَسِّعٌ خَيطِيُّ الرَّأْس	railway catheter
+قِثْطارُ نيلاَتُون (قثطار مَطَّاطي ليِّن)	Nélaton's catheter
+قِثْطارٌ وَريدِيٌّ مَرْكَزِيّ	central venous catheter
+قَثْطَرَة	catheter / catheterization
+قَثْطَرَةُ الإَحْليلِ الرَّاجِعَة	retrourethral catheterization
+قَثْطَرَةُ الحَنْجَرَة	laryngeal catheterization
+قَثْطَرَةُ القَلْب	cardiac catheterization
+قَثْطَرَةُ النَّفير	eustachian catheterization / salpingocatheterism (eustachian catheterization)
+قَثْطَرَةُ الوَريدِ الكَبِدِي	hepatic vein catheterization
+قَثْطَرَةٌ خَلْفِيَّة	retrocatheterism
+قَثْطَرَةٌ ذاتِيَّة	autocatheterism
+قَثْطَرَةٌ صَوتِيَّة	phonocatheterization
+قَثْطَرَةٌ صَوتِيَّةٌ لبَاطِنِ القَلْب	intracardiac phonocatheterization
+قَثْطَرَةٌ عَبْرَ الحاجِز	transseptal catheterization
+قَثْطَرَةٌ فَوقَ العانَة	suprapubic catheterization
+قُحاب (مَرَضٌ حَيَوانِيّ)	hoose (verminous bronchitis)
+قَحْط	drought
+قِحْف	cranium NA
+قِحْفُ (ال...)العَصَبِيّ	neurocranium
+قحف (ال...)الغُضْرُوفي	chondrocranium
+قِحْف (ال…)الأُذُنِيّ	otocranial
+قِحْف (سابقة)	crani-
+قِحْفٌ حَشَوِيّ	viscerocranium
+قِحْفٌ مَشْقوق	cranium bifidum
+قِحْفٌ مَشْقوقٌ خَفِيّ	cranium bifidum occultum
+قِحْفِيّ	cranial / cranialis NA
+قِحفْيّ (سابقة)	cranio
+قِحْفِيٌّ أَخْرَمِيّ	cranioacromial
+قِحْفِيٌّ أُذُنِيّ	cranioaural
+قِحْفِيٌّ بُلْعومِيّ	craniopharyngeal
+قِحْفِيٌّ تَرْقُوِيّ	craniocleidal
+قحفي داخلي	entocranial
+قِحْفِيٌّ سيسائِيّ	craniospinal
+قِحْفِيٌّ طَبْلِيّ	craniotympanic
+قِحْفِيٌّ عَجُزِيّ	craniosacral
+قِحْفِيٌّ عَصَبِيّ	neurocranial
+قِحْفِيٌّ فِقَرِيّ	craniovertebral
+قِحْفِيٌّ فَكِّيٌّ سُفْلِيٌّ	craniomandibular
+قِحْفِيٌّ فَمَوِيّ	craniobuccal
+قِحْفِيٌّ مُخِّيّ	craniocerebral
+قِحْفِيٌّ وَجْهِيّ	craniofacial
+قحفي، جمجمي	cranial / cranial; cranialis
+قَدّ؛حَجْم	size
+قَداد [ج:أَقْداد] (حيوان من القوارض)	hamster
+قدّاد، هامستر	hamster
+قُدَّامَيُّ الحَرَكَة	proal
+قدح	cup
+قَدْح (اسْتِخلاصُ الساد عبر شق في القرنية)	arrachement
+قَدَحُ الاخْتِبار	test glass
+قَدْحُ السَّاد	cataractopiesis (couching)
+قَدْحُ السَّاد (إِضْجَاعُ العَدَسة)	depression of cataract (couching)
+قِدْرٌ	kettle
+قِدْرُ الضَّغْط	pressure pot
+قُدْرَة	potency / potentia (power) / power
+قُدْرَةُ الامْتِزاز	adsorption power
+قَدْرَةُ التَّجَانُح ( قُدْرَةٌ بُؤْرِيَّةٌ)	vergence power (focal power)
+قُدْرَةُ التَّحَرُّك	motoricity / motricity (motoricity)
+قُدْرَةُ التَّقارُب	converging power
+قُدْرَةُ التَّنَشُّؤ	plastodynamia
+قُدْرَةُ التَّوْرِيْم	oncogenicity
+قُدْرَةُ الحَرَكَة	kinetism
+قُدْرَةُ الحَمْل	potentia concepiendi
+قُدْرَةُ المَيز	defining power (resolving power) / resolving power
+قُدْرَةُ المَيز [بصريات]	resolving power
+قُدْرَة تَدْوِيرِيَّة	rotatory power
+قُدْرَةُ شَمْعَة	candle power
+قُدْرَة مُسْتَضِدِّية	antigenic power
+قُدْرَة وِقَاءٍ	buffering capacity
+قَدَم	foot / podium
+قدم "شاركوه"	foot, Charcot's
+قدم ( ج. أقدام )	foot (pl. feet)
+قَدَم (سابقة)	podo
+قَدَم [ج:أَقْدام]	foot [pl.feet] / pes NA [pl.pedes]
+قدم الإصليت	athlete's foot
+قَدَمُ الحُصَين	pes hippocampi NA
+قَدَمُ الحُصَينِ الصَّغيرَة (مِهْمازُ الطَّير)	pes hippocampi minor (calcar avis NA)
+قَدَمُ الحُصَين الكَبِيْرَة (الحُصَيْن)	pes hippocampi major (hippocampus NA)
+قَدَمُ الخَنادِق	trench foot
+قَدَمُ الرَّاقِصين	dancer's foot
+قَدَمُ الرِّياضِيّ ( سَعْفَةُ القَدَم)	athletes' foot (tinea pedis)
+قدم الرياضي ( قدم الأصليت )	foot, athletes
+قَدَمُ الغُراب ( خَطُّ الضَّحِك)	crow's foot (laugh line)
+قَدَمُ الغَطْس	immersion foot
+قَدَمُ القَسْر (عند المجندين)	forced foot
+قَدَمُ المَسيرَة (عند المجندين)	march foot
+قَدَمُ المَلاَجِئ	shelter foot
+قَدَمٌ انْتِهائِيَّة (لِلِّيفِ العَصَبِيّ)	end foot
+قَدَمٌ بُرْعُمِيَّةٌ (فِي الخَيل)	buttress foot
+قَدَمٌ بَطْحاء	pes supinatus
+قَدَمٌ بَعْداء (حَنَفٌ رَوَحِيّ)	pes abductus (talipes valgus)
+قَدَمٌ تابِسِيَّة	tabetic foot
+قَدَمُ تُوْتِ الأَرْضِ المُتَعَفِّن (دَاءُ المُجْتَلِدَات)	strawberry rot foot (dermatophilosis)
+قَدَمٌ جِدَعِيَّة (حَنَف)	stump foot (talipes)
+قَدَمٌ حَمْراء	red foot
+قَدَمٌ خَمْصاء	cavus foot
+قَدَمٌ خَمَصِيَّة (قَدَمٌ عالِيَةُ التَّقَوُّس)	pes cavus
+قَدَمٌ دِعامِيَّة	low ring-bone (buttress foot)
+قَدَمٌ ذَنَبِيَّةٌ	uropod
+قَدَمٌ رَحَّاء	flat foot / pes planovalgus (pes planus) / planovalgus / splayfoot
+قَدَمٌ رَحَّاء (حَنَفٌ رَحَحِيّ)	flatfoot (talipes planus)
+قَدَمُ رَحَّاءُ تَشَنُّجِيَّة	spastic flatfoot
+قَدَمٌ رَحَّاءُ رَضْحِيَّةُ المَنْشَأ	traumatic flatfoot
+قَدَمٌ رَحَّاءُ مُقَوَّسَةٌ	rocker-bottom flatfoot
+قَدَمٌ رَوْحَاء	pes valgus
+قَدَمٌ رَوحاءُ حَدْباءُ خِلْقِيَّة	congenital convex pes valgus
+قَدَمٌ رَوحاءُ حَنْفاء (حَنَفٌ قَفَدِيٌّ رَوَحِيّ)	valgus club foot (talipes equinovalgus)
+قَدَمٌ رَوحاءُ مُقَوَّسَة	rocker-bottom foot
+قَدَمٌ ساقِطَة	dropped sole
+قَدَمٌ ساقِطَة ( تَدَلِّي القَدَم)	dangle foot (drop foot)
+قَدَمُ شاركو (القدم المشوهة في الاعتلال المفصلي)	Charcot's foot
+قَدَمٌ شَبَكِيَّةٌ	reticulopod (rhizopodium) / reticulopodium / rhizopodium (reticulopodium)
+قَدَمٌ صُفاحِيَّة	lamellipodium
+قَدَمٌ صُفاحِيَّة [ج:أَقْدَامٌ صُفَاحِيَّة]	lamellipodium [pl.lamellipodia]
+قَدَمٌ ضَعيفَة	weak foot
+قدم عجراء	club foot / foot, club
+قدم عرجاء	cyllosis = club foot
+قَدَمٌ عَقْباء (حَنَفٌ عَقِبِي)	pes calcaneus (talipes calcaneus)
+قَدَمٌ فَحْجاء (حَنَفٌ فَحْجِيّ)	pes varus (talipes varus)
+قَدَمٌ فَحْجاءُ حَنْفاء (حَنَفٌ قَفَدَيٌّ فَحَجِيّ)	varus club foot (talipes equinovarus)
+قَدَمُ فريدرايخ ( قَدَمٌ خَمْصَاء)	Friedreich's foot (pes cavus)
+قَدَمٌ فُسْتوقِيَّة (في الأغنام التي ترعى نبات الفستوق)	fescue foot
+قَدَمٌ فَصِّيَّة (كاذِبَة)	lobopod
+قَدَمٌ فَصِّيَّة (كاذِبة) [ج:أَقْدَامٌ فَصِّيَّةٌ]	lobopodium [pl.lobopodia]
+قَدَمٌ فُطْرِيَّة ( فُطارٌ مادورِيّ)	fungus foot (maduromycosis)
+قَدَمٌ فَلْحَاء	cleft foot
+قَدْمٌ قَرْباء (حَنَفٌ فَحَجِيّ)	pes adductus (talipes varus)
+قَدَمٌ قَفْدَاءُ رَوحاء (حَنَفٌ قَفَدِيٌّ رَوَحِيّ)	pes equinovalgus (talipes equinovalgus)
+قَدَمٌ قَفْداءُ فَحْجاء (حَنَفٌ قَفَدِيٌّ فَحْجِيّ)	equinovarus pes (talipes equinovarus)
+قَدَمٌ كاذِبَة	pseudopod (pseudopodium)
+قَدَمٌ كاذِبَة [ج:أَقْدَامٌ كاذِبَة]	pseudopodium [pl.pseudopodia]
+قَدَمٌ كَبَّاء	pes pronatus
+قَدَمُ مادورا	Madura foot
+قَدَمٌ مادورِيَّة ( فُطارٌ مادورِيّ)	Madura foot (maduromycosis)
+قَدَمٌ مُتَأَشِّنَة	mossy foot
+قَدَمٌ مُتَدَلِّيَة	sag foot
+قَدَمٌ مُتَقَلِّصَة (فِي الخَيل)	contracted foot
+قَدَمٌ مُجَوَّفَة (حَنَفٌ خَمَصِيّ)	hollow foot (talipes cavus)
+قَدَمٌ مِحْجَمِيَّة (في الخَلاَيا النَجْمِيَّة)	sucker foot
+قَدَمٌ مُحَدَّبَة	convex sole
+قَدَمٌ مِخْلَبِيَّة	claw foot / clawfoot / gampsodactyly
+قدم مخلبية (كنع القدم)	claw foot
+قَدَمٌ مُسْتَدِقَّة (حَنَفٌ أَبْخَسِيّ)	tip foot (talipes equinus)
+قَدمٌ مُسَطَّحَةٌ	pes planus
+قَدَمٌ مَشْدودَة	taut foot
+قَدَمٌ مَشْطورَة ( قَدَمٌ فَلْحَاء)	bifid foot (cleft foot)
+قَدَمٌ مَعْقوفَة (فِي الخَيل)	crooked foot
+قَدَمٌ مِلْوَقِيَّة	spatula foot
+قَدَمٌ مُنْفَرِجَة (? انْفِراجُ المُشْط)	spread foot
+قَدَمُ مُوران (قَدَمٌ بِثَمانِيَةِ أَباخِسٍ)	Morand's foot
+قَدَمٌ مورتون ( إصبَعُ القَدَم لمورتون) (بالتهاب العصب)	Morton's foot (Morton's toe)
+قَدَمٌ نَتِنَة	septic foot
+قَدَمُ هونغ كونغ ( فُطارٌ جِلْدِيٌّ قَدَمِيّ)	Hong Kong foot (foot dermatophytosis)
+قَدَمٌ وَخيزَة	pricked foot
+قَدَمِيّ	pedal / podalic
+قَدَمِيُّ الرَّأْس [مسخ]	podencephalus
+قَدُوم [أسنان]	hoe
+قَدُومُ دَوَاعِمِ السِّنّ	periodontal hoe
+قديم (سابقة)	paleo
+قُدَيمَى (ال...)	prosthion
+قذارة	dirt
+قَذال	occiput
+قَذالِيّ	occipital
+قَذالِيُّ الدِّماغ [مسخ]	iniencephalus
+قَذَالِيٌّ أَمامِيُّ (مجىء جنيني)	occipitoanterior
+قَذَالِيٌّ جَبْهِيّ	occipitofrontal / occipitofrontalis
+قَذَالِيٌّ جِدارِيّ	occipitoparietal
+قَذَالِيٌّ خُشَّائِيّ	occipitomastoid
+قَذَالِيٌّ خَلْفِيٌّ (مجىء جنيني)	occipitoposterior
+قَذَالِيٌّ ذَقْنِيّ	occipitomental
+قَذَالِيٌّ رَقَبِيّ	occipitocervical
+قَذَالِيٌّ صُدْغِيّ	occipitotemporal
+قَذَالِيٌّ فَهْقِيّ	occipitoatloid
+قَذَالِيٌّ قاعِدِيّ	occipitobasilar
+قَذَالِيٌّ مِحْوَرِيّ	occipitoaxoid
+قَذَالِيٌّ مِهادِيّ	occipitothalamic
+قَذَالِيٌّ مِهْمازِيّ	occipitocalcarine
+قَذَالِيٌّ هامِيّ	occipitobregmatic
+قَذَالِيٌّ وَجْهِيّ	occipitofacial
+قذر	dirty
+قَذَرِيُّ المَنْشَأ	pythogenous
+قَذْف	ejaculatio = ejaculation / ejaculation / ejection
+قَذْفُ اللَّبَن	milk ejection
+قذف خلوي	emiocytosis
+قذف كهربائيّ	electro-ejaculation
+قَذْفٌ لانُطْفِيّ	false spermatorrhea
+قذف مبكر	ejaculatio praecox = premature ejaculation
+قذف متأخر	ejaculatio retardata
+قذف معيب	ejaculatio deficiens = defective ejaculation
+قذف، بث	emission
+قَذْف، بَثٌّ، إصدار	emission
+قذفة	ejaculate / ejaculum = ejaculate
+قذفي	ejaculatory
+قذفيات الجرح	ballistics, wound
+قُرْئِيّ (بَينَ الحَيضَين)	intermenstrual
+قِراءَة	reading
+قِراءَةُ الشِّفاه	lip reading (speech reading)
+قِراءَةُ الكَف	cheirognomy
+قراءَةٌ مُفَرَّقَةٌ	scatter read
+قِراب	theca
+قِراب (ال...)الخَارجيّ	theca externa
+قِراب [ج:أَقْرِبَة]	theca [pl.thecae]
+قِراب الجُريب	theca folliculi
+قِرابُ السِّنّ	odontotheca
+قِرابُ جُرَيبِ فون باير	theca of follicle of von Baer
+قَرابَة ؛ قُرْبَى ؛ نَسَب	kinship
+قرابة الدم	consanguinity
+قِرابِيّ	thecal
+قِرابيُّ الأَسْنان	thecodont
+قِراتين	keratin
+قُرادُ الأُذُن	ear tick
+قُرادُ الأُذُنِ الشَّوكِيَّة	spinous ear tick
+قُرادُ الأَرْنَب	rabbit tick
+قُرادُ الأَغْنام	sheep tick
+قُرادُ الأُكال	scrub tick
+قُرادُ البُذور	seed tick
+قُراد التايغا	taiga tick
+قُرادُ الحِصانِ خَرِزِيُّ السَّاقِ الشَّتَوِيّ	beady-legged winter horse tick
+قُرادُ الحَمام	pigeon tick
+قُرادُ الدَّكّ	tampan tick
+قُرادُ السِّيقان (جِنْسٌ مِنْ قُرادِ الطُّيور)	Cnemidocoptes (Knemidokoptes)
+قُرادُ الطِّين	adobe tick
+قُرادُ الظَّبْي	bont tick
+قُرادُ الغابات	wood tick
+قُرادُ الفَأْرِ الهِنْدِيّ	bandicoot tick
+قُرادُ الكَلْب	dog tick
+قُرادُ الكَلْبِ الأَمْريكِيّ	American dog tick
+قُرادُ الكَلْبِ البريطانيّ	British dog tick
+قُرادُ الكَلْبِ البُنِّيّ	brown dog tick
+قُرادُ الماشِيَة	cattle tick
+قُرادُ باجاريلو	pajaroello tick
+قُرادُ بَزْرِ الخِرْوِع	castor bean tick
+قُرادُ ساحِلِ الخَليج	Gulf Coast tick
+قُرادُ غابَةِ الجِبالِ الصَّخْريَّة	Rocky Mountain wood tick
+قُرادُ كَلْبِ ساحِلِ المُحيطِ الهادِىء	Pacific coast dog tick
+قُرادُ كينيا	Kenya tick
+قُرادُ لون ستار ( اليَغْمُوْشُ الأَمْريكِيّ)	Lone Star tick (Amblyomma americana)
+قُرَادُ مَيَانه ( البُرامُ الفارِسِيّ) (جِنْسٌ مِنَ القُراد)	Mianeh bug (Argas persicus)
+قَرَاد، قُرادة	tick
+قراديات	acaridans / mite
+قَرارَةُ التَّيَّار	rheobase
+قُرَّاص (جنس من النباتات)	Urtica
+قُرَّاص (جنس نبات عشبي من الفصيلة القراصية)	nettle
+قَرَّاضَة (العظم)	rongeur
+قُراع	dikwakwadi (favus) / favus / whitecap
+قُرَاعُ الدَّجاج	favus of fowl
+قُراعُ الطُّيور	whitecomb
+قُرَاعُ الفِئْران	favus murium / mouse favus
+قُرَاعٌ مُتَحَلِّقٌ	favus circinatus
+قُرَاعٌ هِرْبِسِيُّ	favus herpeticus
+قُرَاعُ هِرْبِسِيُّ الشَّكْل	favus herpetiformis
+قُراعِيّ	favic
+قِراف (مَرَضٌ مُعْدٍ من شخص لآخر مباشرة بدلاً من انتشاره بصورة عامة)	prosodemic
+قَراقِر [ف:قرقرة]	borborygmi
+قُران (اعتلال القرنية)	ceratonosus
+قِراني	conjugate
+قَرانْيا (شَجَرٌ مِنَ الفَصيلَةِ القَرْنِيَّة)	Cornus
+قَرانْيا [نبات]	dogwood (cornus)
+قُرْبَ البَالِغ	subadult
+قُرْبَ المُقَوَّس	subarcuate
+قُرْبَ المُمِيْت	sublethal
+قُرْبَ النِّهَايَة	subterminal
+قُرْبَى	consanguinity
+قُرْبى، صلة الدم	consanguinity
+قِرْبِية (ال...) الكُولُونِيَة	balantidium coli
+قَرْح	chancre / ulcerate
+قَرْحُ الشَّفَة	lip chancre
+قَرْحٌ تَآكُلِيّ	erosive chancre
+قَرْحٌ تَلْمِيُّ	sulcus chancre
+قَرْحٌ تولاَريمِيّ	tularemic chancre
+قَرْحٌ حَقيقِيُّ	true chancre
+قَرْحٌ راجِع	chancre redux / recurrent chancre
+قُرح رجليّة عند الخيليات	jack sore
+قَرْحُ روليه ( قَرْحٌ مُخْتَلِط)	Rollet's chancre (mixed chancre)
+قَرْحٌ سُلِّيٌّ	tuberculous chancre
+قَرْحٌ شَفَوِيُّ	lip chancre
+قَرْحٌ صُلْب	hard chancre
+قَرْحٌ كاذِب	pseudochancre
+قَرْحٌ كاذِبٌ راجِع	pseudochancre redux
+قَرْحٌ كَمْئِيّ	fungating chancre
+قَرْحٌ لاتَناسُلِيّ (قرح بعيد عن الأعضاء التناسلية الظاهرة)	extragenital chancre
+قَرْحٌ لَيِّن ( قُرَيح)	soft chancre (chancroid)
+قَرْحٌ مُخْتَلِط	mixed chancre
+قَرْحُ هنتر ( قَرْحٌ صُلْب)	hunterian chancre (hard chancre)
+قَرْحات [ف:قَرْحة]	ulcera [sing.ulcus]
+قَرْحاتُ التَّمَدُّدِ لكُوخر (في تمدد المعى)	Kocher's dilatation ulcers
+قَرْحاتُ الظُّنْبوب (في الخَيل)	bucked shins / sore shins
+قَرْحَاتُ روكيتانسكي-كوشينغ (قرحات المعدة المرافقة لمرض في الجهازالعصبي المركزي)	Rokitansky-Cushing ulcers
+قَرْحاتُ عُسْرِ الهَضْم ( قُلاَع)	dyspeptic ulcers
+قَرْحاتٌ مُتَلاَثِمَة	kissing ulcers
+قَرْحاتٌ هَضْمِيَّةٌ عِمْلاَقَةٌ	giant peptic ulcers
+قرحاني	helcoid
+قرحة	canker / chancre; ulcer / ulcer
+قرحة "كرلنج"	Curling's ulcer
+قَرْحَة [ج:قَرْحات]	ulcer / ulcus [pl.ulcera]
+قَرْحَةٌ إِثْناعَشَرِيَّة	duodenal ulcer
+قَرْحَةٌ أَخْمَصِيَّة	plantar ulcer
+قَرْحَةٌ اغْتِذائِيَّة	trophic ulcer
+قَرْحَةٌ اغْتِذائِيَّةٌ عَصَبِيَّةُ المَنْشَأ	trophoneurotic ulcer
+قرحة أكالة	corrosive ulcer
+قَرْحَةٌ أَكَّالَة (الْتِهابُ الفَمِ الغنغريني)	corrosive ulcer
+قَرْحَةٌ آكِلَة	perambulating ulcer (phagedenic ulcer) / phagedenic ulcer
+قَرْحَةُ الاِسْتِلْقاء ؛ ناقِبَة	decubital ulcer (decubitus ulcer) / decubitus ulcer
+قَرْحَةُ الانْضِغاط؛النَّاقِبَة	pressure sore
+قَرْحَةُ البِدْلَةِ السِّنِّيَّة	denture sore
+قَرْحَةُ البِدْلَةِ السِنِّيَّة ( الْتِهَابُ الفَمِ بالبِدْلَةِ السِّنِّيَّة)	denture sore mouth (denture stomatitis)
+قَرْحَةُ البَرْد ( الهِربسُ البَسيط)	coldsore (herpes simplex)
+قَرْحَةُ الدَّبَّاغين ( قَرْحَةٌ كروميَّة)	tanner's ulcer (chrome ulcer)
+قَرْحَةُ الرُّكودَةِ الوَريدِيَّة ( قَرْحَةٌ دَوالِيَّة)	venous stasis ulcer (varicose ulcer)
+قَرْحَةُ الزُّكَام ( هِرْبِسُ الحُمَّى)	cold sore (herpes febrilis)
+قَرْحَةُ السَّاق	ulcus cruris
+قَرْحَةُ الشَّرق ( دَاءُ الليشمانيَّاتِ الجِلْدِيّ)	oriental sore
+قَرْحَةُ الصَّحْراء	desert sore
+قَرْحَةُ الضَّغْط ( ناقِبَة)	pressure sore (decubitus ulcer)
+قرحة العفج، قرحة الاثني عشري	duodenal ulcer
+قَرْحَةُ الفِراش ( ناقِبَة)	bed sore
+قَرْحَةُ الفُغْرَة ( قَرْحَةٌ هامِشِيَّة)	stoma ulcer (marginal ulcer) / stomal ulcer (marginal ulcer)
+قَرْحَةُ القَرْنِيَّة	helcoma
+قَرْحَةُ القَرْنيَّةِ السَّاعِيَة	serpiginous corneal ulcer / ulcus serpens corneae
+قَرْحَةُ القَرْنِيَّةِ النَّزْلِيَّة	catarrhal corneal ulcer
+قَرْحَةُ الكَرْب	stress ulcer
+قَرْحَةُ المُتَفَطِّرات	mycobacterial ulcer
+قَرْحَةُ المروج ( قَرْحَةُ الصَّحْراء)	veldt sore
+قَرْحَةُ المُشَرَّدِين (قَرْحَةٌ مُهْمَلَة في الساق)	vagabonds' ulcer
+قَرْحَةُ المَعِدَة	ulcus ventriculi
+قَرْحَةُ المُفاغَرَة	anastomotic ulcer
+قَرْحَةُ الوِعاء	angielcus
+قَرْحَةُ اليَمَن (داء اللشمانيات الجلدي و القرحة المدارية)	Yemen ulcer
+قَرْحَةُ ألينغهام ( الشَّقُّ الشَّرْجِيُّ)	Allingham's ulcer (anal fissure)
+قَرْحَةُ أمبالا ( قَرْحَةُ الصَّحْراء)	Umballa sore
+قَرْحَةٌ أَميبِيَّة	amebic ulcer
+قَرْحَةٌ أَناميَّة (في داء اللشمانيات الجلديّة)	Annam ulcer (annamatic ulcer)
+قَرْحَةٌ بَاتِرَة	amputating ulcer
+قَرْحَةٌ بَارِدَة (في داء الليشمانيات الجلدي)	cold ulcer
+قَرْحَةُ بارو (في السلاق)	Parrot's ulcer
+قَرْحَةُ باريت (في التهاب المريء الهضمي)	Barrett's ulcer
+قَرْحَةٌ بالمُكَوَّراتِ الرِّئَوِيَّة	pneumococcus ulcer
+قَرْحَةٌ بَثَعِيَّة	ulcus scorbuticum
+قَرْحَةٌ بَثَعِيَّة (في عوز الفيتامين C)	scorbutic ulcer
+قَرْحَةٌ بِرازِيَّة	stercoraceous ulcer / stercoral ulcer
+قَرْحَةٌ بَسيطَة	simple ulcer
+قَرْحَةُ بلاوت (في التهاب اللثة التقرحي)	Plaut's ulcer
+قَرْحَة بنجه ( دَاءُ الليشمانيَّاتِ الجِلْدِيّ)	Penjdeh sore
+قَرْحَةُ بنجة (داء الليشمانيات الجلدي)	Penjdeh ulcer
+قَرْحَةُ بُورُولِي	Buruli ulcer
+قَرْحَةُ بورولي (بالفطريات في أفريقيا)	Buruli ulcer
+قَرْحَةُ بوفيريه (قرحة مزدوجة في الحنك في الحُمَّى التِّيفية)	Bouveret's ulcer
+قَرْحَةُ بيندينسكي (داء الليشمانيات الجلدي)	Pendinski ulcer
+قَرْحَةٌ تَحْتَ اللِّسانِ	sublingual ulcer
+قَرْحَةٌ تَحْتَ المُخاطِيَّة	submucous ulcer
+قَرْحَةٌ تركستانيَّة (داءُ اللِّيشمانيات الجلْديّ)	Turkestan ulcer
+قَرْحَةٌ ثاقِبَة	perforating ulcer
+قَرْحَةٌ ثَفَنِيَّة	callous ulcer
+قَرْحَةٌ ثَقالِيَّة (قَرْحَةٌ دَوالِيَّة)	gravitational ulcer
+قَرْحَةٌ جاسِئَة	ulcus induratum
+قَرْحَةُ جاكوب (تقرُّح قارض يصيب الوجه والأجفان)	Jacob's ulcer
+قَرْحَةُ جاكوب (في الجفن)	Jacob's ulcer
+قَرْحَةُ جَدَّة (في داء الليشمانيات الجلدي)	Jeddah ulcer
+قَرْحَةُ جُدَّة ؛ قَرْحَةٌ لَيشُمانِيَّة	Jeddah ulcer
+قَرْحَةٌ جُرَيْبِيَّة	follicular ulcer
+قَرْحَةٌ جَناحِيَّة	pterygoid ulcer
+قَرْحَةٌ حافَوِيَّة	marginal ulcer
+قَرْحَةٌ حُزْمِيَّة	fascicular ulcer
+قَرْحَةٌ حَلَقِيَّة	annular ulcer / ring ulcer
+قَرْحَةٌ حَوْجَلِيَّة	flask ulcer
+قَرْحَةٌ خُنَاقِيَّة	diphtheritic ulcer
+قَرْحَةُ دلهي ( دَاءُ الليشمانيَّاتِ الجِلْدِيّ)	Delhi sore (cutaneous leishmaniasis)
+قَرْحَةٌ دَوالِيَّة	varicose ulcer
+قَرْحَةٌ ذِئْبِيَّةُ الشَّكْل	lupoid ulcer
+قَرْحَةٌ رَخْوَة ( قَرْحَةٌ رَخْوَةٌ جِلْدِيَّة)	ulcus molle (ulcus molle cutis)
+قَرْحَةٌ رَضْحِيَّة	traumatic ulcer
+قَرْحَةٌ رُكودِيَّة	hypostatic ulcer / stasis ulcer / ulcus hypostaticum
+قَرْحَةُ زَاحِفَةٌ	creeping ulcer
+قَرْحَةٌ زامبيزية ( قَرْحَةٌ مَدارِيَّة)	Zambesi ulcer
+قَرْحَةٌ زُهْرِيَّة	syphilitic ulcer
+قَرْحَةٌ ساعِيَة	serpiginous ulcer
+قَرْحَةٌ سَرَطانِيَّةٌ	cancer-ulcer
+قَرْحَةٌ سُكَّرِيَّة	diabetic ulcer
+قَرْحَةٌ سُلِّيَّة	tuberculous ulcer
+قَرْحَةٌ سُلِّيَّةٌ (رُغامِيَّةٌ أو قَصَبِيَّة)	arrosion ulcer
+قَرْحَةٌ سِنِّيَّة	dental ulcer
+قَرْحَةُ سوريَّة	Syrian ulcer
+قَرْحَةُ سوريَّة (الخُناقُ و داءُ اللِّيشمانيات الجلْديّ)	Syriac ulcer
+قَرْحَةُ سيميش (قرحة ساعية في القرنية)	Saemisch's ulcer
+قَرْحَةٌ شَرْقِيَّة	oriental sore
+قَرْحَةُ شَقائِقِ البَحْر (في الزحار المعوي)	sea anemone ulcer
+قَرْحَةُ شيكلرو (في داء الليشمانيات المكسيكي)	chiclero ulcer
+قَرْحَةٌ صَائِمِيَّة	jejunal ulcer
+قَرْحَةٌ صائِمِيَّةٌ ثانَوِيَّة	secondary jejunal ulcer
+قَرْحَةٌ صُلْبَة	hard sore / hard ulcer
+قَرْحَةٌ صُلْبَة ( قَرْح)	hard sore (chancre)
+قَرْحَةٌ صَمْغِيَّة	gummatous ulcer
+قَرْحَةُ طاشقند (داءُ اللِّيشمانيات الجلْديّ)	Tashkent ulcer
+قَرْحَةٌ طافِحَة ( قَرْحَةٌ فُطْرِيَّة)	exuberant ulcer
+قَرْحَةٌ ظاهِرِيَّةُ الالْتِئام	sursanure
+قَرْحَةُ عَدَن (في داء اللشمانيَّة الجلدية)	Aden ulcer
+قَرْحَةٌ عَصَبِيَّةُ المَنْشَأ ( قَرْحَةٌ عَصَبِيَّةٌ تَغْذَوِيَّة)	neurogenic ulcer (neurotrophic ulcer)
+قَرْحَةٌ عَصَبِيَّةٌ تَغْذَوِيَّة	neurotrophic ulcer
+قَرْحَةٌ عَصيدِيَّة	atheromatous ulcer
+قَرْحَةٌ غَمِيْرِيَّةٌ (قَرْحَةٌ قرنية مع تراكم القيح في البيت الأمامي)	hypopyon ulcer
+قَرْحَةٌ فارِسِية (داء الليشمانيات الجلدي)	Persian ulcer
+قَرْحَةٌ فَرْجِيَّة	pudendal ulcer
+قَرْحَةٌ فَرْجِيَّةٌ حادَّة	ulcus vulvae acutum
+قَرْحَةٌ فُطْرِيَّة	mycotic ulcer
+قَرْحَةٌ فَوْتِيَّة (بَينَ أَصَابع القدم)	ulcus interdigitale
+قَرْحَةُ فينويك-هانر (في المثانة)	Fenwick-Hunner ulcer
+قَرْحَةٌ قارِحَةٌ ( قَرْحَةٌ قارِضَة)	ulcus cancrosum (rodent ulcer)
+قَرْحَةٌ قارِضَة	rodent ulcer / ulcus rodens
+قَرْحَةٌ قاضِمَة (في الفرج والبظر)	esthiomene
+قَرْحَةٌ قُرَيحِيَّة	chancroidal ulcer
+قَرْحَةٌ قُلاَعِيَّة	aphthous ulcer
+قَرْحَةٌ قَلِيلَةُ الإِيْلام	indolent ulcer
+قَرْحَةُ قَنْدَهار ( دَاءُ الليشمانيَّاتِ الجِلْدِيّ)	Kandahar sore
+قَرْحَةُ كروفيلييه (قرحة المعدة)	Cruveilhier's ulcer
+قَرْحَةُ كرومبي (في اللثة في الداء البطني)	Crombie's ulcer
+قَرْحَةٌ كروميَّة	chrome sore
+قَرْحَةٌ كروميَّة (عند الدباغين)	chrome ulcer
+قَرْحَة كوشين ( دَاءُ الليشمانياتِالجِلْدِيّ)	Cochin sore
+قُرْحَةُ كوشينِ الصِّيْن (حَبَّةٌ ليشمانيَّة؛ داءُ الليشمانياتِ الجِلْديّ)	Cochin China sore (cutaneous leishmaniasis)
+قَرْحَةُ كوشينغ (قرحة معدة ترافق مرضًا في الجهاز العصبي المركزي)	Cushing's ulcer
+قَرْحَةُ كوشينغ-روكيتانسكي	Cushing-Rokitansky ulcer
+قَرْحَةُ كيرلينغ (قرحة المعدة التالية للحروق الشديدة)	Curling's ulcer
+قَرْحَةُ لاهور ( دَاءُ الليشمانيَّاتِ الجِلْدِيّ)	Lahore sore
+قَرْحَةُ لاهور (داءُ الليشمانيَّاتِ الجِلْديّ)	Lahore ulcer
+قَرْحَةٌ لِثَوِيَّة	gingival ulcer
+قَرْحَةٌ لُجَيمِيَّة	frenal ulcer
+قَرْحَةُ ليبشوتس ( قَرْحَةُ الفَرْجِ الحادَّة)	Lipschutz ulcer (ulcus vulvae acutum)
+قَرْحَةٌ لَيِّنَة	soft ulcer
+قَرْحَةٌ لَيِّنَة ( قُريحْ)	soft sore (chancroid)
+قَرْحَةُ مارجولان (تبدلات ورمية على ندبة)	Marjolin's ulcer
+قَرْحَةُ مان-ويليامسون	Mann-Williamson ulcer
+قَرْحَةٌ مُتَخَشِّرَة	sloughing ulcer
+قَرْحَةٌ مُتَغَصِّنَة	dendriform ulcer (dendritic ulcer) / dendritic ulcer
+قَرْحَةٌ مُتَنَقِّلَة ( قَرْحَةٌ آكِلَة)	ulcus ambulans (phagedenic ulcer)
+قَرْحَةٌ مُتَوَطِّنَة	endemic ulcer
+قَرْحَةٌ مَثانِيَّةٌ بَسيطَة	ulcus simplex vesicae
+قَرْحَةٌ مُحزِّمَة	girdle ulcer
+قَرْحَةٌ مُخْتَفِيَة	concealed ulcer
+قَرْحَةٌ مُخْتَلِطَة	mixed sore
+قَرْحَةٌ مَدارِيَّة	tropical ulcer / ulcus tropicum
+قَرْحَةٌ مَدارِيَّة ( دَاءُ الليشمانيَّاتِ الجِلْدِيّ)	tropical sore
+قَرْحَةُ مدغشقر ( دَاءُ الليشمانيَّاتِ الجِلْدِيّ)	Madagascar sore
+قَرْحَةٌ مُدَوَّرَة (قرحة معدية أو إثناعشرية)	round ulcer
+قَرْحَةٌ مُراوِغَة	elusive ulcer
+قَرْحَةٌ مَريئِيَّة	esophageal ulcer
+قَرْحَةٌ مُشَقَّقَة	fissured ulcer
+قَرْحَةٌ مَصْحُوبَةٌ بأَعْراض	symptomatic ulcer
+قَرْحَةٌ مَعِدِيَّة	gastric ulcer
+قَرْحَةٌ مُفْتَعَلَة	factitial ulcer
+قَرْحَةٌ مُمْتَدَّة ( قَرْحَةٌ قارِضَة)	ulcus exedens (rodent ulcer)
+قَرْحَةٌ مِنْظارِيَّة (تلو تنظير المثانة)	cystoscopic ulcer
+قَرْحَةٌ مَنْقُوْلَةٌ جِنْسِيَّاً	venereal sore / venereal ulcer
+قَرْحَةُ موريِن (قرحة ساعية مزمنة)	Mooren's ulcer
+قَرْحَةٌ موزامبيق (داء الليشمانيات الجلدي)	Mozambique ulcer
+قَرْحَةُ مولتان ( دَاءُ الليشمانيَّاتِ الجِلْدِيّ)	Moultan sore
+قَرْحَةُ ميليني (قرحة نخرية غنغرينية)	Meleney's ulcer
+قَرْحَةُ ناتال ( دَاءُ الليشمانيَّاتِ الجِلْدِيّ)	Natal sore
+قَرْحَةٌ ناسورِيَّة	fistulous ulcer
+قَرْحَةٌ نافِذَة	penetrating ulcer / ulcus penetrans
+قَرْحَةٌ نُفاطِيَّة (في القرنية)	phlyctenular ulcer
+قَرْحَةٌ نِقْرِسِيَّة	gouty ulcer
+قَرْحَةٌ هِرْبسيَّة	herpetic ulcer
+قَرْحَةٌ هَضْمِيَّة	peptic ulcer
+قَرْحَةُ هَنر (في المثانة)	Hunner's ulcer
+قَرْحَةٌ وَخِيْمَةٌ ( قَرْحَةٌ مَدارِيَّة)	ulcus grave (tropical ulcer)
+قَرْحَةٌ ونائِيَّة	atonic ulcer
+قُرحة، قَرحة	ulcer
+قَرْحِيّ	chancrous
+قَرْحِيّ ؛ مُتَقَرِّح	vomicose
+قَرْحِيُّ الشَّكْل	chancriform / helcoid
+قَرْحِيٌّ غَنْغَرِيْنِيّ	ulcerogangrenous
+قِرْد	ape
+قِرْد (حيوان عديم الذيل من الرئيسات)	Ape
+قُرْدُح	baboon
+قُرْدُوحِيّ (شبيهٌ بالقرد)	pithecoid
+قِرْدِيُّ الرَّأْس	cebocephalus
+قِرْدِيَّةُ الرَّأْس	cebocephaly
+قَرْسَة (حشرة من ذوات الجناحين)	gnat
+قَرْسَةُ الجاموس	buffalo gnat
+قَرْسَةُ الدِّيكِ الرُّومِيّ	turkey gnat
+قَرْسَةُ العَين	eye gnat
+قِرْشُ الإِسْقُمْرِيّ	mackerel shark
+قرص	disc / discus = disc = disk / disk / tablet
+قُرْص (شكل صيدلاني)	tabella (tablet)
+قُرْص (مستحضر دوائي)	troche (lozenge) / trochiscus (lozenge)
+قرص - طبق	disc = discus = disk
+قُرْص [ج:أَقراص]	disc (disk) / discus NA [pl.disci] / disk
+قُرْصُ أَديمِ الأُرَيمَة	blastodermic disk
+قُرْصٌ أَديمِيٌّ ظاهِر	ectodermal disk
+قُرْصٌ اسْتِوائِيّ	equatorial disk
+قُرْصٌ إِسْوِيُّ المَحَاوِرِ (? الشَّريط I)	isotropic disk
+قُرْصٌ اصْطِرابِي (لِفَتْلِ الصُّورَةِ البَصَرِيَّة)	stroboscopic disk
+قرص الاتصال	conjugation disc
+قُرْصُ الأُرَيمَة	blastodisk
+قُرْصُ التَّوالُد (الرُكْمَةُ المَبيضِيَّة)	proligerous disk (cumulus oophorus NA)
+قرص الجرثومة	blastodisc
+قرص الشكل	disciform
+قُرْصُ الصَّقْل [أسنان]	polishing disk
+قُرْصُ الصَّقْلِ السَّاحِل	polishing abrasive disc
+قُرْصُ الصَّنْفَرَة [أسنان]	sandpaper disk
+قُرْصُ الطَّابِعَةِ	platen
+قُرْصُ العَصَبِ البَصَرِيّ	discus nervi optici NA
+قُرْصُ المَصّ [أسنان]	suction disc
+قُرْصُ المِقْياسِ المِجْهَرِيّ	micrometer disk
+قُرْصُ أميتشي (الشَريطُ z) (في العضلة)	Amici's disk (Z band)
+قُرْصٌ إنْتاشِيّ	germinal disk
+قُرْصُ إنغلمان (الشَريطُ H) (في العضلة)	Engelmann's disk (H band)
+قُرْصُ بَاردِين البِدائِيّ (في الجنين)	Bardeen's primitive disk
+قُرْصٌ بَارِز	protruded disk
+قرص بصري	disc, optic
+قُرْصُ بلاسيدو (لِفَحْصِ القَرْنِيَّة)	Placido's disk
+قُرص بين الَفقَرات	intervertebral disc
+قرص بين فقاري	disk, intervertebral
+قُرْصٌ تَحْتَ الجِلْد	hypodermic tablet
+قُرْصٌ تَحْتَ اللِّسان	sublingual tablet
+قُرْصٌ تَوْزِيْعِيّ	dispensing tablet
+قرص ثُلاثِيّ الصفائح	trilaminar disc
+قُرص ثُنائِيّ الصَفيحة	bilaminar disc
+قرص جنيني	disk, embryonic
+قُرْصٌ حَبَّارِي [أسنان]	cuttlefish disk
+قُرْصٌ حَجَرِيّ (قرص ساحل ومشابهاته)	wheel stone
+قُرْصٌ ذو وَجْهٍ قاطِعٍ خارِجِيّ (محدب)	outside cutting disk
+قُرْصٌ ذو وَجْهٍ قاطِعٍ داخِلِيّ	inside cutting disk
+قُرْصٌ ذو وَجْهٍ مَأَمُوْنٍ (وحيد الوجه القاطع)	safe side disk
+قُرْصٌ ذو وَجْهَينِ قاطِعَين	double cutting disk
+قُرْصٌ رَقيق (الشريطُ Z) (في العضلات)	thin disk (Z band)
+قُرْصُ ريكوس (في مِنظار العين)	Rekoss disk
+قُرْصٌ ساحِج [أسنان]	abrasive disk
+قُرْصٌ ساحِل [أسنان]	abrasive disk
+قُرْصٌ سامورِيّ	Carborundum disc
+قُرْصٌ سامورِي [أسنان]	Carborundum disk
+قُرْصٌ سِنِّي [أسنان]	dental disk
+قُرْصٌ شَعْرِيّ	hair disk
+قُرْصُ صَقْلٍ مَطَّاطِيّ	rubber polishing disk
+قُرْصٌ صَنْفَرِي [أسنان]	emery disk
+قُرْصٌ ضَيِّقُ الفَلْعَة (لفحص العين)	stenopeic disk
+قُرْصٌ عَدِيْمُ الأَوْعِيَة (في العين)	anangioid disk / anisoanangioid disk
+قُرْصٌ عَضَلِيّ	sarcous disk
+قُرْصٌ فاصِل	separating disk
+قُرْصٌ فاصِلٌ فُولاذِيّ	separating steel disk
+قُرْصُ فاصِلٌ كَأْسِيُّ الشَّكْل	cup-shaped separating disk
+قُرْصٌ فاصِلٌ مُسْتَو	plain separating disk
+قُرْصٌ فاصِلٌ مُسَطَّح	flat separating disk
+قرص فقاري	disc, intervertebral
+قُرْصٌ فَمَوِيّ	buccal tablet
+قُرْص فَوَّار	effervescent tablet
+قُرْصٌ قاطِع [أسنان]	cutting disk
+قُرْصٌ قُماشِي [أسنان]	cloth disk
+قُرْصٌ للمَصّ	lozenge / lozenges / morsulus (lozenge)
+قُرْصٌ لَمْسِيّ	tactile disk
+قُرْصٌ لَيِّن	floppy disk
+قُرْصٌ ماسِيّ	diamond disc
+قُرْصٌ ماسِي [أسنان]	diamond disk
+قُرْصٌ ماسِيٌّ فاصِل	diamond separation disc
+قُرْصٌ ماسِيٌّ قَاطِعٌ	diamond cutting disk
+قُرْصٌ مُتَفاوِتُ المَحَاوِر (الشَريطُ M)	anisotropous disk (M band)
+قُرْصٌ مُتَفاوِتُ المَحَاوِر (شَريطُ M)	anisotropic disk (M band)
+قُرْصٌ مُتَمَزِّج	tablet triturate
+قُرْصٌ مُخْتَنِق (وَذَمَةُ الحُلَيمَةِ البَصَرِيَّة)	choked disk (papilledema)
+قُرْصٌ مُسْتَعْرِض (الشَريطُ A)	transverse disk (A band)
+قُرْصٌ مُشاشِيّ	epiphyseal disc / epiphyseal disk
+قُرْصٌ مُضاعَفُ القَطْع (ذو وجهين قاطعين)	double cutting disk
+قُرْصٌ مَضْغوط	compressed tablet
+قُرْصٌ مُضْغِيّ	embryonic disk
+قُرْصٌ مُضْغِيّ ذو صَفيحَتَين	bilaminar embryonic disk
+قُرْصٌ مَطَّاطِيّ	rubber disk
+قُرْصٌ مُغَطَّى بالسُّكَّر [أدوية]	sugar coated tablet
+قُرْصٌ مغناطيسي	magnetic disk
+قُرْصٌ مَفْصِلِيّ	articular disc / articular disk / discus articularis NA / disk, articular / interarticular disk / intra-articular disk
+قُرْصٌ مُقْحَم	intercalated disk
+قُرْصٌ مُقْحَم (في العضلة القلبية)	intercalated disk
+قرص مكاس	disk, cupped
+قُرْصٌ مُكْتَنِز (معلوميات)	compact disk
+قُرْص مُلبَّس	coated tablet
+قُرْصٌ مُلَبَّسٌ مِعَوِيّ؛غُلَيْفَة	enteric-coated tablet
+قُرْصٌ مُلَجَّف (في العين)	cupped disk
+قُرْصٌ مِنَ السيلولويد	celluloid disk
+قُرْصٌ مُنْزَلِق	slipped disk
+قُرْصٌ مُنْفَتِق	ruptured disk
+قُرْصٌ مُنَوِّم	sleeping pill
+قرصٌ نَزُوْعٌ؛ قرصٌ سَهْلُ النَّزْع	removable disk
+قُرْصٌ نُوَوِيّ (القُرْصُ الاسْتِوائِيّ)	nuclear disk (equatorial disk)
+قُرْصُ نِيُوتُن	Newton's disk
+قُرْصٌ هُلاَمِيّ	gelatin disk
+قُرْصُ هنسن (الشَريطُ H) (في العضلة)	Hensen's disk (H band)
+قُرْصٌ وَسْطانِيّ (الشَريطُ Z) (في العضلة)	intermediate disk (Z band)
+قرص، غضروف مفصلي	meniscus
+قَرْصَاتُ الشَّيطان (فُرْفُريَّةٌ بَسيطَة)	devils' pinchs (purpura simplex)
+قُرْصِيّ	discal
+قُرْصِي [سابقة]	disc-
+قُرْصِيُّ الشَّكْل	disciform / diskiform
+قرصي الشكل - قرصاني	diskiform
+قُرْصِيُّ الشَّكْلِ ؛ قُرْصَاوي	discoid
+قُرْصِيُّ المَنْشَأ	discogenetic / discogenetic = discogenic / discogenic
+قُرْصِيَّةُ البَطْن	Gastrodiscus (Gastrodiscoides)
+قُرْصِيَّةُ البَطْن (جِنْسٌ مِنَ المَثْقوبات)	Gastrodiscoides
+قُرْصِيَّةُ البَطْنِ البَشَرِيَّة	Gastrodiscoides hominis
+قُرْصِيَة بَشَرِيَّة مَعِدِيَّة	gastrodiscoides hominis
+قَرْض	debt
+قَرْضٌ أُكسجينيّ	oxygen debt
+قَرْضٌ طَويلُ الأَجَل	long term debt
+قَرْضٌ قَصيرُ الأَجَل	short term debt
+قَرْطوم (مُضَيغَةٌ تُسْتَعْمَلُ في تايلاند)	kratom
+قَرْع	percussion
+قَرْعٌ إِصْبَعِيّ	finger percussion
+قَرْعُ الصَّدْر	chest wall percussion
+قَرْعُ القِحْفِ التَّسَمُّعِيُّ	craniotonoscopy
+قَرْعٌ بالأَدَاة	instrumental percussion
+قَرْعٌ بالقَبْضَة	fist percussion
+قَرْعٌ بالقَلَم	pencil percussion
+قَرْعٌ بالوَاسِطَة	mediate percussion / pleximetric percussion (mediate percussion)
+قَرْعٌ باليَدَين	bimanual percussion
+قَرْعٌ بسُقُوطِ الضَّرْبَة	drop stroke percussion
+قَرْعُ بليش ( قَرْعٌ بالقَلَم)	Plesch's percussion (pencil percussion)
+قَرْعٌ بيانُوِيّ	piano percussion
+قَرْعٌ تَرْقُوِيّ	clavicular percussion
+قَرْعٌ تَسَمُّعِيّ	auscultatory percussion / couphonia
+قَرْعٌ تَماسِيّ	tangential percussion
+قَرْعٌ تَناقُضِيّ	paradoxical percussion
+قَرْعٌ تَنَفُسِّيّ	respiratory percussion
+قَرْعٌ جَسِّيّ	palpatopercussion / palpatory percussion / plessesthesia
+قَرْعٌ سُقوطِيّ	drop percussion
+قَرْعٌ شَرائِحِيّ	strip percussion
+قَرْعٌ طُبُغْرافِيّ	topographic percussion
+قَرْعٌ عَتَبِيّ	threshold percussion
+قَرْعٌ عَميق	deep percussion
+قَرْعُ غولدشايدَر ( قَرْعٌ عَتَبِيّ)	Goldscheider's percussion (threshold percussion)
+قَرْعُ كزونيغ (قرع تسمعي فوق قمة الرئة)	Kronig's percussion
+قَرْعُ كوراني	Koranyi's percussion
+قَرْعٌ لَطْمِيّ	slapping percussion
+قَرْعُ ليرك ( قَرْعٌ سُقوطِيّ)	Lerch's percussion (drop percussion)
+قَرْعٌ مُباشِر	direct percussion (immediate percussion) / immediate percussion
+قَرْعٌ مُعَامِد	orthopercussion
+قَرْعٌ مُقارِن	comparative percussion
+قَرْعُ ميرفي	Murphy's percussion
+قَرَع، سُعفة	ringworm
+قِرْفُ اللَّبَن (قِشْرَةٌ مَثِّيَّةٌ عَلَى رَأْسِ الوَليد)	cradle cap (crusta lactea)
+قِرْفَة (نبات من الفصيلة الغارية)	cinnamon
+قِرْفَة سيلانِية	Cinnamomum zeylanicum
+قِرْفَة صِينِيَة	Cinnamomum cassia
+قَرْقَرَة	hygrechema / rugitus
+قَرْقَرَة (أصوات غازات الأمعاء)	borborygmus
+قرقرة الأمعاء	borborygmus
+قَرْقَرَةٌ مَعِدِيَّة	glou-glou
+قِرْمِز	carmine / coccinellin (carmine)
+قِرْمِز (مُلَوِّنٌ نسيجي)	carminum
+قِرْمِزُ الأَليزارين	alizarin carmine
+قِرْمِزَةُ بِيبَريش الذَّوَّابَةُ بالمَاء	water-soluble Biebrich scarlet
+قِرْمِزِيُّ الشَّكْل ؛ شَبِيْهٌ بالحُمَّى القِرْمِزِيَّة	scarlatiniform / scarlatinoid
+قِرْمِزِيَّات (فَصيلَةٌ مِنَ الحَشَرات)	Coccidae
+قِرْمِزِيَّةٌ كاذِبَة	pseudoscarlatina
+قَرْن	cornu; horn / crone / horn / horn (cornu NA)
+قَرْن (ال...)السِنْجابِيّ	gray horn
+قَرْن [ج:قُرون]	cornu [pl.cornua]
+قَرْنُ الاسْتِشْعار	antenna
+قَرْنُ الحَرْقَفَة	iliac horn
+قَرْنُ العَجُز	cornu sacrale NA / sacral cornu
+قَرْنُ العُصْعُص	coccygeal cornu / coccygeal horn / cornu coccygeum NA / cornu coccyx
+قَرْنُ اللُّبّ	horn of pulp
+قَرْنُ الوَعْل	cornu cervi
+قَرْنٌ أمَامِيّ	anterior horn
+قَرْنُ آمُون ( الحُصَين)	Ammon's horn (hippocampus)
+قَرْنُ آمون (الحُصَين)	cornu Ammonis (hippocampus) / horn of Ammon (hippocampus)
+قرن آمون - فرس البحر	horn of Ammon = hippocampus
+قرن آمون = فرس البحر	Ammon's horn = Hippocampus
+قَرْنٌ ثُؤْلُولِيٌّ ( قَرْنٌ جِلْدِيّ)	warty horn (cutaneous horn)
+قَرْنٌ جِلْدِيّ	cornu cutaneum / cutaneous horn
+قَرْنٌ رَحِمِيّ	uterine horn
+قَرْنٌ زُهْمِيّ	sebaceous horn
+قَرْنٌ عَجُزِيّ	sacral cornu
+قَرْنٌ لُبِّيّ	pulp horn / pulpal horn
+قَرْنٌ نَدْبِيّ	cicatricial horn
+قَرْنا الرَّحِم (الأَيمَنُ والأَيسَر)	cornu uteri NA (dextrum et sinistrum NA)
+قرنا الغضروف الدرقي	cornu of the thyroid cartilage
+قَرْنان؛قُرون [ف:قَرْن]	cornua [sing.cornu]
+قرناني	keriod = keratoid
+قَرَنْفُل	Eugenia caryophyllata
+قَرَنْفول (جِنْسُ نَباتاتٍ مِنَ الآسِيَّات)	Eugenia
+قَرَنْفيل	Quaranfil
+قَرْنَوِيٌّ صُلْبَويّ؛قَرْنِيٌّ صُلْبِيٌّ	corneoscleral
+قَرنويّ، قَرنيّ	corneal
+قَرْنَوِيٌّ؛قَرْنِيّ	corneal / corneous (horny)
+قَرْنِيّ	cornual / cornuate / horny / keratitic (corneal)
+قَرْنِيّ (سابقة)	kerato
+قَرْنِيُّ الشَّكْل	keratoid
+قَرْنِيُّ الشَّكْل؛قَرْناوِيّ	cornoid
+قَرْنِيٌّ حِلْقِيّ (متعلق بالقرن الخلفي للغضروف الدرقي وبالغضروف الحلقي)	ceratocricoid
+قرني زجاجي	keratohyaline
+قَرْنِيٌّ صِوارِيّ	cornucommissural
+قَرْنِيٌّ لامِيّ (قسم من عضلة)	ceratohyal
+قَرْنِيٌّ لِسانِيّ (قسم من عضلة)	ceratoglossus
+قرنين، كيراتين	keratin; catabolism
+قَرْنِيَّة	cornea
+قَرنية الجلد	corneum
+قرنية العين	cornea
+قَرْنِيَّةٌ بَيضَوِيَّة	oval cornea
+قَرْنِيَّةٌ كُرَوِيَّة	cornea globata / cornea globosa
+قَرْنِيَّةٌ مَخْروطِيَّة	conical cornea (keratoconus) / keratoconus / sugar-loaf cornea (keratoconus)
+قَرْنِيَّةٌ مُسَطَّحَة	flat cornea
+قَرْنِيَّةٌ مُنَقَّطَة (ُحَثَلُ بِطَانَةِ القَرْنِيَّة)	cornea guttata (dystrophia endothelialis corneae)
+قَرْوٌ أُدْرَوِيّ	sarcohydrocele
+قروح الفراش	decubitus ulcers = bed sores
+قرورة	flasking
+قُرون	cornua
+قُرونُ العَظْمِ اللاَمِي	cornua ossis hyoidei
+قُرونُ الغُضْروفِ الدَّرَقِي	cornua cartilaginis thyroideae
+قُرونُ النُّخاع	cornua of spinal cord
+قرّي	cryo-
+قَريبٌ مِنَ الدَّرَجِةِ الأولَى	first degree relative
+قَريبٌ مِنَ الدَّرَجَةِ الثَّالِثَة	third degree relative
+قَريبٌ مِنَ الدِّرَجَةِ الثَّانِيَة	second degree relative
+قَريبٌ مِنَ الوَسَط	submedian
+قُرَيبات [ف:قُرَيبَة]	utriculi [sing.utriculus]
+قُرَيبَة	utricle / utriculus
+قُرَيبَةُ الإِحْليل	urethral utricle
+قُرَيبَة البُروستات	prostatic utricle / utriculus prostaticus
+قُرَيبَةُ البروستاتة ( قُرَيبَةُ الإِحْليل)	prostatic utricle (urethral utricle)
+قُرَيبِيّ	utricular
+قُرَيبِيٌّ أَُنْبولِيّ	utriculoampullar
+قُرَيبِيٌّ كُيَيسِيّ	utriculosaccular
+قُرَيح ( قَرْحٌ لَيِّن)	chancroid (soft chancre)
+قُرَيحٌ أَكَّال	phagedenic chancroid
+قُرَيحٌ ساعٍ (ساعي)	serpiginous chancroid
+قُرَيحِيّ	chancroidal
+قُرَيْصٌ	diskette
+قُريَصيّ	discoid
+قُرَين	cornet
+قَرِيْن (في العلاقات الجنسية)	partner
+قَرِينَة الانْكِسَار	index of refraction / refraction index
+قُرَيْني	corniculate
+قُرَينِيُّ الشَّكْل	corniculate
+قَزامَة	dwarfism / dwarfism; nanism / midgetism / nanism / nanosoma (dwarfism) / nanosomia
+قَزامَةُ الأَطْراف	nanomelia
+قَزَامَةُ الجِذْع	nanocormia
+قَزامَةُ الحِرْمان	deprivation dwarfism
+قَزامَةُ الرَّأْس	nanocephalia / nanocephaly
+قَزامَةُ السَّاعِدِ و السَّاق	mesomelic dwarfism
+قَزامَةُ السُّكَّرِيّ	diabetic dwarfism
+قَزامَةُ العَضُدِ و الفَخِذ	rhizomelic dwarfism
+قَزامَةُ العَين	nanophthalmia / nanophthalmos
+قَزامَةُ الوَذَمَةِ المُخاطِيَّة	myxedematous dwarfism
+قَزامَةٌ بقِصَرِ الفَخِذ	rhizomelic dwarfism
+قَزامَةٌ توتِيَّة ( قَزامَةُ العَضَلِ والكَبِدِ والدِّماغِ والعَينَين)	mulibrey nanism (muscle, brain, liver, eyes nanism)
+قَزامَةُ رُوبينُوف	Robinow dwarfism
+قَزامَةٌ شَيْخوخِيَّة ( شُياخ)	senile nanism (progeria)
+قَزامَةٌ عَرَنِيَّة	exostatic dwarfism
+قَزامَةُ قِصَرِ السَّاق	acromelic dwarfism
+قَزامَةُ قُصُوْرِ الدَّرَقِيَّة	thyroid dwarfism
+قَزامَةُ قُصُوْرِ النُّخَامِيَّة	hypopituitary dwarfism
+قَزامَةٌ قَلْبِيَّةُ المَنْشَأ	cardiac dwarfism
+قزامة كساحية	dwarfism, rachitic
+قزامَةٌ كُلْوِيَّة ( الحَثَلُ العَظْمِيُّ الكُلْوِيُّ الطِّفْلِيّ)	renal nanism (infantile renal osteodystrophy)
+قَزامَةٌ مَجْهُوْلَةُ السَّبَب	essential dwarfism
+قَزامَةٌ مُصْحوبَةٌ بأَعْرَاض	symptomatic nanism
+قَزامَةٌ مُفْرِطَة	hypermicrosoma / hyponanosoma
+قَزامَةٌ نُخامِيَّة	hypophysial dwarfism / pituitary dwarfism / pituitary nanism
+قَزامَةُ و الت ديزني (تَشَيُّخُ الجِلْدِ وَسوءُ تَصَنُّعِ العَظْم)	Walt Disney dwarfism (geroderma osteodysplastica)
+قُزَحِيّ	iridal (iridic) / iridial (iridic) / iridian / iridian (iridic) / iridic / iritic / iritic; iridial
+قزحي بؤبؤي	iridopupillary
+قُزَحِيٌّ حَدَقِيّ	iridopupillary
+قُزَحِيَّات [ف:قُزَحِيَّة]	irides [sing.iris]
+قزحية	iris
+قُزَحيّة (سابقة)	irido / uveo
+قُزَحِيَّةٌ رَعَّاشَة	tremulous iris (iridonesis)
+قزحية محدبة	iris, bombe
+قُزَحِيَّةٌ مَقَبَّبَة	iris bombe / umbrella iris (iris bombe)
+قزحية منبعجة	iris, umbrella = iris, bombe
+قزحية منزوعة = حل القزحية	iris, detached = iridodialysis
+قُزَحِيَّةٌ مُنْفَصِلَة ( افْتِكَاكُ القُزَحِيَّة)	detached iris (iridodialysis)
+قَزَم	dwarf / midget / nanosome (dwarf) / nanosomus / nanous (dwarfish) / nanus (dwarf) / pigmy / pygmy (dwarf)
+قَزَم [ج:أَقْزام]	dwarf
+قَزَمُ القُصورِ الكُلْوِيّ	renal dwarf
+قَزَمُ أمستردام (مصاب بمتلازمة لانغ)	Amsterdam dwarf
+قَزَمُ بَالتاوف (قَزَمٌ نُخامِيّ)	Paltauf's dwarf (pituitary dwarf)
+قَزَمٌ بَدْئِيّ (قَزَمٌ سَوِيّ)	primordial dwarf (normal dwarf)
+قَزَمُ بيرسول (? قَزَمٌ طَفالِيّ) (في قصور الدرقية)	Brissaud's dwarf
+قَزَمٌ حَقيقِيّ (قَزَمٌ سَوِيّ)	true dwarf (normal dwarf)
+قَزَمُ راسِل (قزم ولادي)	Russell dwarf
+قَزَمٌ رَخَدِيّ	rachitic dwarf
+قَزَمٌ سَوِيّ	normal dwarf
+قَزَمٌ سَوِيُّ الجِنْس	sexual dwarf
+قَزَمُ سِيلْفَر (? قَزَمٌ خِلْقِيّ)	Silver dwarf
+قَزَمٌ شَيخوخِيّ	senile dwarf
+قَزَمٌ صِرْف	pure dwarf
+قَزَمٌ صَغيرُ الرَّأْس (قَزَمٌ طَيرِيُّ الرَّأْس)	nanocephalic dwarf (bird headed dwarf)
+قَزَمٌ ضُمورِيٌّ مُشَوَّه	diastrophic dwarf
+قَزَمٌ طَفالِيّ	ateliotic dwarf
+قَزَمٌ طِفْلِيّ	infantile dwarf
+قَزَمٌ طَيرِيُّ الرَّأْس	bird-headed dwarf
+قَزَمٌ طَيرِيُّ الرَّأْسِ لسِيكل	bird-headed dwarf of Seckel
+قَزَمٌ فَدْمِيّ (في قصور الدرقية)	cretin dwarf
+قَزَمٌ فَقَمِيُّ الأَطْراف	phocomelic dwarf
+قَزَمٌ فيزيولوجِيّ (قَزَمٌ سَوِيّ)	physiologic dwarf (normal dwarf)
+قَزَمُ قُصورِ الدَّرَقِيَّة (قَزَمُ فَدْمِيّ)	hypothyroid dwarf (cretin dwarf)
+قَزَمٌ قَصيرُ الأَطْراف	micromelic dwarf
+قَزَمٌ كُظْرِيّ	adrenal dwarf
+قَزَمُ ليفي-لوران (قَزَمٌ نُخامِيّ)	Levi-Lorain dwarf (pituitary dwarf)
+قَزَمٌ مائِت (قزم صغير الأضلاع والأطراف)	thanatophoric dwarf
+قَزَمٌ مَبيضِيّ	ovarian dwarf
+قَزَمٌ مَجْهُوْلُ السَّبَب	idiopathic dwarf
+قَزَمٌ مُشَوَّه	deformed dwarf
+قَزَمٌ مُضْحِكُ الشَّكْل	geleophysic dwarf
+قَزَمٌ مُلْتَبِسُ الجِنْسِ	asexual dwarf
+قَزَمٌ مَوْدُوْن	achondroplastic dwarf / chondrodystrophic dwarf
+قَزَمٌ ناقِصُ التَّنَسُّج	hypoplastic dwarf
+قَزَمٌ نُخامِيّ	hypophysial dwarf (pituitary dwarf) / pituitary dwarf
+قَزَمانِيّ	nanoid
+قَزَمِيّ	dwarfish
+قُسَاح (القُسَاح:بقاء الإنعاظ)	priapism
+قُسَاحٌ ثانَوِيّ	secondary priapism
+قُسَامَة	aliquot
+قُسامَة [ج:قَسائِم]	metamere
+قُسامَةٌ دِماغِيَّةٌ نُخاعِيَّة	zoonite
+قَسَاوَةُ التَّفَرُّض	indentation hardness
+قََسَاوَة المِيَاه، عُسْر الماء	water hardness
+قَسْرِيّ؛بالقُوَّة	forced
+قَسَط	anchylose (ankylose) / ankylosis
+قَسَط (ركبةقسطاء: يبست وغلظت حتى لا تكاد تنقبض من يبسها) [ج:قُسُوط]	ankylosis (pl. ankyloses)
+قَسَطٌ اِصْطِناعِيّ	artifical ankylosis
+قَسْطُ التَّأَمين	premium
+قَسَطُ الرِّكابِيّ	stapedial ankylosis
+قَسَطُ الفَكّ	gnathankylosis
+قَسَطُ المَفْصِل	joint ankylosis
+قَسَطُ المَفْصِلِ الحِلْقِيِّ الطِّرْجِهالِيّ	cricoarytenoid joint ankylosis
+قَسَطُ المَفْصِل؛إِيْثَاقُ المَفْصِلِ	arthroclisis (arthrokleisis)
+قَسَطٌ جِراحِيّ	operative ankylosis
+قَسَطٌ جُزْئِيّ	partial ankylosis
+قَسَطٌ حَقيقِيّ	true ankylosis
+قَسَطٌ رِباطِيّ	ligamentous ankylosis
+قَسَطٌ رَكِيْك	unsound ankylosis
+قَسَطٌ سِنِّيّ	dental ankylosis
+قَسَطٌ عَظْمِيّ	bony ankylosis
+قَسَطٌ كاذِب	false ankylosis / pseudankylosis / pseudoankylosis (fibrous ankylosis) / spurious ankylosis
+قَسَطٌ لِيفِيّ	fibrous ankylosis
+قَسَطٌ مِحْفَظِيّ	capsular ankylosis
+قَسَطٌ مَفْصِلَيّ	synarthrophysis
+قَسَطٌ مِنْ خارِجِ المِحْفَظَة	extracapsular ankylosis
+قَسَطٌ مِنْ خارِجِ المَفْصِل	extra-articular ankylosis
+قَسَطٌ مِنْ داخِلِ المِحْفَظَة	intracapsular ankylosis
+قَسَطٌ مِنْ داخِلِ المَفْصِل	intra-articular ankylosis
+قِسْطَار	catheter
+قسطرة	catheter / catheterization
+قَسَطِيّ	ankylotic
+قِسْم	department / oath / portio NA [pl.portines]
+قِسْمُ (ال...)الخَلْفِيُّ مِنْ رافِعَةِ الشَّرَج	ischiococcygeus
+قِسْم [ج:أَقْسام]	portion
+قِسْمُ الإدْخالِ	admitting department
+قِسْمُ الأَمْن	security department
+قِسْمُ التَّجْهيزاتِ المَرْكَزِيُّ	supply department center
+قِسْمُ التَّعْليم	education department
+قِسْمُ التَّمْريض	nursing department
+قِسْمُ الجِراحَة	surgical department
+قِسْمُ الخَدَماتِ البيئِيَّة	environmental service department
+قِسْمُ الخَدَماتِ الصِّحِّيَّةِ و البَشَرِيَّة	department of Health & Human services (DHHS)
+قِسْمُ الخَدَماتِ المَرْكَزِيُّ	service department center
+قِسْمُ الخَدَماتِ المَرْكَزِيَّة	central service department
+قِسْمُ الخِدْمَةِ و التَّنْظيف	housekeeping department
+قِسْمُ الرِّعَايَةِ التَّنَفُّسِيَّة	respiratory care service
+قِسْمُ الصِّحَّةِ و التَّعْليمِ و الخِدْمَةِ الاِجْتِماعِيَّة	Education and Welfare department of Health (DHEW)
+قِسْمُ الطَّوَارِئ	emergency department
+قِسْمُ العَدالَة	department of justice
+قِسْمُ الغَسِيْل	laundry department
+قِسْمُ المُعْطَيات	data division
+قِسْمُ النَّقْل	department of transportation
+قِسْمُ الهَنْدَسَةِ الطِّبِّيَّةِ البَيولوجِيَّة	biomedical engineering department
+قِسْمُ الهَنْدَسَةِ و الصِّيانَة	engineering and maintenance department
+قِسْمُ الوَبائِيَّات	epidemiology department
+قَسَمُ بُقْراط	Hippocratic Oath / hippocratic oath / oath of Hippocrates
+قِسْمُ خَدَماتِ المُتَطَوِّعين	volunteer service department
+قِسْمُ خَدَماتِ النُّظُمِ الغِذائِيَّة (في المستشفى)	dietary department
+قِسْمٌ سَريرِيّ	clinical department
+قِسْمٌ صَدْرِيٌّ قَطَنِيّ (من الأعصاب المستقلة)	thoracicolumbar division / thoracolumbar division
+قِسْمٌ في المُسْتَشْفَى	hospital department
+قِسْمٌ قِحْفِيٌّ عَجُزِيّ (من الأعصاب المستقلة)	craniosacral division
+قِسْمُ مُعالَجَةِ المُعْطَيات	data processing department
+قسمة	aliquot
+قَسَمَة ؛ مَلْمَح [ج:قَسَمات؛مَلامِح]	feature
+قُسُوْحٌ مُدَمَّى (نُعُوْظٌ مؤلم مدمَّى)	stymatosis
+قُسوط [ف:قَسَط]	ankyloses [sing.ankylosis]
+قَسْوَةٌ مَرَضِيَّة	tyrannism
+قَسَّى	harden
+قُسَيْم (ال...) المَرْكَزِيّ	centromere
+قُسَيمٌ أَديمِيٌّ ظاهِر	ectomere
+قُسَيمٌ أَرومِيّ	blastomere
+قُسَيمٌ بَاطِن	entomere
+قُسَيمٌ جَذْرِيّ ( قَطَّاعٌ جِلْدِيّ)	rhizomere (dermatome)
+قُسَيمٌ جِلْدِيّ	dermatomere
+قُسَيمٌ حُبَيبِيّ	granulomere
+قُسَيمٌ خَلَوِيّ	cytomere / plastomere (cytomere)
+قُسَيمٌ خَيْشُوْمِيّ	branchiomere
+قُسَيمٌ دِماغِي	encephalomere
+قُسَيْمٌ سِنِّيّ	odontomere
+قُسَيمٌ صِبْغِيّ	chromomere / idiomere (chromomere) / karyomere
+قُسَيم صِغْرِيّ	micromere
+قُسَيمٌ طَرَفِيّ (للصبغيات)	telomere
+قُسَيْمٌ عَصَبِيّ	neuromere
+قُسَيْمٌ عَصَبِيٌّ سِنْجابِيّ	polioneuromere
+قُسَيْمٌ عَضَلِيّ	sarcomere
+قُسَيْمٌ عَضَلِيّ ( بَضْعَةٌ عَضَلِيَّة)	myomere (myotome)
+قُسَيْم عَضَلِيّ، بضعة عَضَلِيّة	myotome; sarcomere
+قُسَيمٌ عَظْمِيّ	osteomere / scleromere
+قُسَيْمٌ غُدِّيّ	adenomere
+قُسَيمٌ غُضْروفِيّ [جنين]	chondromere
+قُسَيمٌ فَوْلَفِيّ (في بنية الفيروسات)	peplomer
+قُسَيمٌ قَصِّيّ [جنين]	sternebra
+قُسَيمٌ قُفَيصِيّ (في الفَيروسات)	capsomer / capsomere
+قُسَيمٌ كِبْرَوِيّ	macromere
+قُسَيمٌ كُلْوِيّ	nephromere (nephrotome)
+قُسَيم لاقِحِيٌّ (أَرومَةٌ بَوغِيَّة)	zygotomere (sporoblast)
+قُسَيمٌ مُتَوَسِّط	mesomere
+قُسَيمٌ مَرْكَزِيّ	kinomere (centromere)
+قُسَيمٌ مِعَوِي [جنين]	enteromere
+قُسَيمٌ مُعَيَّنِيّ ( قُسَيمٌ عَصَبِيّ)	rhombomere (neuromere)
+قُسَيْمٌ مِكْرَوِيّ	micromere
+قُسَيْمٌ نُخاعِيّ	myelomere
+قُسَيْمٌ نُطْفِيّ (صبغي في البويضة)	spermatomere / spermatomerite
+قُسيْمات (ال...)الأرُومِيّة	blastomeres
+قُسَيْمة خيشومية	branchiomere
+قُسَيمِيٌّ خَيْشُوْمِيّ	branchiomeric
+قشارة - سلخة	eschar
+قُشَارَةُ الرُّزّ	tikitiki
+قَشَب (تَشَقُّقُ الجِلْد)	chap
+قَشْد	skimming
+قَشْد، تَقْطِير أَوَّلِيّ	skimming
+قشدة	cream
+قِشْر	testa
+قشر الرأس (هبرية)	dandruff
+قِشْرُ الكُظْر	adrenal cortex
+قِشْرُ اللَّيمون	lemon peel
+قِشْرُ النَّارِنْج	bitter orange peel
+قشر رأس الرضّع	crusta lactea = cradle cap = milk crust
+قِشْرَ-كُظْرِيّ	adrenocortical
+قِشْرات [ف:قِشْرَة]	cortices [sing.cortex]
+قِشْرَانِيّ	corticoid
+قِشْرانِيٌّ سُكَّرِيّ	glucocorticoid
+قِشْرانِيٌّ شَحْمِيّ	lipocorticoid
+قِشْرَانِيّ مَعْدِنِيّ	mineralocorticoid
+قشرة	cortex / crust = scab
+قِشْرَةُ (ال...) الإِسْوِيَّة، البالَةُ الحَديثَة)	isocortex (=neopallium)
+قِشْرَةُ (ال...) التَّرابُطِيَّة	association cortex
+قِشْرَةُ (ال...) الجَدِيدة	neocortex
+قِشْرَةُ (ال...) ُالحِسِّيَّةُ الجَسَدِيَّة	somesthetic cortex
+قِشْرَةُ (ال...) القَديمَة	palaeopallium
+قِشْرَةُ (ال...) المُحَبَبَّة	koniocortex
+قِشْرَةُ (ال...) المُخَيخِيّة	cerebellar cortex; cerebellar cortex
+قِشْرَةُ (ال...) المُخِّيّة	cerebral cortex
+قِشْرَة (ال...) الْـمُقَدَّسَة	Rhamnus purshiana
+قِشْرَة [ج:قِشْرات]	cortex [pl.corticis]
+قِشْرَةُ التُّوتَة	cortex of thymus
+قِشْرَةُ الدِّماغ ( قِشْرَةُ المُخّ)	brain mantle (cortex cerebri)
+قِشْرَةُ الدِّماغِ السِّنْجابِيَّة	ectocinerea
+قِشْرَةُ الرَّأْس	dandruff
+قشرة الشعرة	cortex of hair
+قِشْرَةُ العَدَسَة	cortex lentis NA / cortex of the lens
+قِشْرَةُ العُقْدَةِ اللِّمْفِيَّة	cortex nodi lymphatici NA
+قِشْرَةُ الكُظْر	adrenal cortex / adrenal gland, cortex of / cortex glandulae suprarenalis NA / cortex, adrenal gland / suprarenal cortex
+قِشْرَةُ الكُلْيَة	cortex of kidney / cortex renis NA / renal cortex
+قِشْرَةُ المَبيض	ovary cortex
+قِشْرَةُ المُخ	cerebral cortex / cortex cerebralis NA / cortex of cerebrum
+قِشْرَة المُخّ (ريطة)	pallium
+قِشْرَة المُخّ المتقادمة	paleopallium
+قشرة جِلْدية	dandruff
+قشرة جلدية، بثرة جلدية	crust
+قشرة رقيقة	pellicle
+قشرة لا حبيبية	agranular cortex (of cerebrum)
+قِشْرَةٌ مُغايِرَةُ النَّمَط (القشِرَةُ البِدائِيَّة)	heterotypical cortex (allocortex)
+قِشْرَةٌ مُماثِلَةُ النَّمَط (القِشْرَةُ الجَديدَة)	homotypical cortex (neocortex)
+قِشْرِيّ	cortical
+قِشْرِيّ (سابقة)	cortical
+قِشْرِيٌّ بَصَلِيٌّ	corticobulbar
+قِشْرِيٌّ جِسْرِيّ	corticopontine
+قِشْرِيٌّ جِسْرِيٌّ مُخَيخِيّ	corticopontocerebellar
+قِشْرِيٌّ حَمْراوِيّ	corticorubral
+قِشْرِيٌّ دِماغِيٌّ مُتَوَسِّطِيّ	corticomesencephalic
+قِشْرِيّ س	cortico
+قِشْرِيٌّ سُوَيقِيّ	corticopeduncular
+قِشْرِيٌّ شاحِبِيّ	corticopallidal
+قِشْرِيٌّ صادِر	corticoefferent
+قِشْرِيٌّ كُظْرِيّ	cortiadrenal / corticoadrenal
+قِشْرِيٌّ كُلْوِيّ	renocortical
+قِشْرِيٌّ مُخَطَّطِيّ	corticostriate
+قِشْرِيٌّ مُخَطَّطِيٌّ نُخاعِيّ	corticostriatospinal
+قِشْرِيٌّ مُخَيْخِيّ	corticocerebellar
+قِشْرِيٌّ مُسْتَقِلِّيّ	corticoautonomic
+قِشْرِيٌّ مِهادِيّ	corticothalamic
+قِشْرِيٌّ نُخاعِيّ	corticospinal
+قِشْرِيّ نُخاعيّ، قشري شَوْكِيّ	corticospinal
+قِشْرِيٌّ نَفْسِيٌّ	psychocortical
+قِشْرِيّ نوويّ	corticonuclear
+قِشْرِيٌّ وارِد	corticoafferent
+قِشْرِيٌّ وِطائِيّ	corticohypothalamic
+قِشْطَة (جنس من الأشجار المدارية)	Annona
+قشعريرة	shivering
+قُشعريرة (رعدة)	chill
+قُشعريرة (رعدة) عصبية	chill, nervous
+قشعريرة القسطرة	chill, urethral
+قشعة، بصقة	sputum
+قشم = ضَوَر	bulimia = cynorexia
+قُشورُ الرُّزّ	rice polishings
+قشور جلدية	scales
+قشيرة	pellicle
+قُشَيْعَة	morphoea
+قُشَيْعَة ( تَصَلُّبُ الجِلْدِ المُتَحَدِّد)	morphea (circumscribed scleroderma)
+قُشَيْعَةُ الأَطْراف ( تَصَلُّبُ الأَصابِع)	acroteric morphea (sclerodactyly)
+قُشَيْعَةٌ اِنْصِباغِيَّة	morphea pigmentosa
+قُشَيْعَةٌ خَطِّيَّة	linear morphea (morphea linearis) / morphea linearis
+قُشَيْعَةٌ دَرَنِيَّة	morphea tuberosa
+قُشَيْعَةٌ ضُمورِيَّة ( تَصَلُّبُ الأَصابع)	morphea atrophica (sclerodactyly)
+قُشَيْعَةٌ مُتَعَمِّمَة	generalized morphea
+قُشَيْعَةٌ نُقَطِيَّة	guttate morphea / morphea guttata
+قُشَيْعَةٌ هِرْبِسِيَّةُ الشَّكْل	morphea herpetiformis
+قَشيم	bulimic
+قَصّ	shearing
+قصُّ الظِّلف	hoof trimming
+قَصُّ العِجَان	episiotomy
+قَصّ العِجان، بضْع العِجان	episiotomy
+قصُّ المنقار	debeaking
+قص مقعر	koilosternia = funnel chest
+قِصَائِيّ	ultimate
+قُصّاب	catgut
+قُصابة، وتر الجراحة	catgut
+قَصَامَة	brittleness
+قَصَبُ الذَّريرَة ؛ وَجّ [نبات]	Acorus
+قَصَبُ السُّكَّر	Saccharum
+قَصَبات	bronchi
+قَصَبات [ف:قَصَبَة]؛شُعَبٌ هَوَائِيَّة	bronchi [pl.bronchus NA]
+قَصَباتُ القِطَعِ	segmental bronchi (bronchi segmentales NA)
+قَصَباتٌ ثانَوِيَّة	secondary bronchi
+قُصَباتٌ؛شُعَبٌ هَوَائِيَّة	bronchia [sing.bronchium]
+قصبة	bronchus; bronchium / tibia
+قَصَبَةُ (ال...)اللُّسَينِيَّةُ السُّفْلِيَّة	inferior lingular bronchus
+قصبة العظم = الجمخر	bone, shaft of = diaphysis
+قَصَبَةُ القِطْعَةِ الأَمامِيَّة	anterior segmental bronchus / bronchus segmentalis anterior NA
+قَصَبَةُ القِطْعَةِ الأَمامِيَّةِ القاعِدِيَّة	anterior basal segmental bronchus
+قَصَبَةُ القِطْعَةِ الإِنْسِيَّة	bronchus segmentalis medialis NA / medial segmental bronchus
+قَصَبَةُ القِطْعَةِ الإِنْسِيَّةِ القاعِدِيَّة	medial basal segmental bronchus
+قَصَبَةُ القِطْعَةِ الخَلْفِيَّة	bronchus segmentalis posterior NA / posterior segmental bronchus
+قَصَبَةُ القِطْعَةِ الخَلْفِيَّةِ القاعِدِيَّة	posterior basal segmental bronchus
+قَصَبَةُ القِطْعَةِ العَلْوِيَّة	bronchus segmentalis superior NA / superior segmental bronchus
+قَصَبَةُ القِطْعَةِ القاعِدِيَّةِ الأَمامِيَّة	bronchus segmentalis basalis anterior NA
+قَصَبَةُ القِطْعَةِ القاعِدِيَّةِ الإِنْسِيَّةِ ( القَصَبَةُ القَلْبِيَّة)	bronchus segmentalis basalis medialis (bronchus cardiacus NA)
+قَصَبَةُ القِطْعَةِ القاعِدِيَّةِ الخَلْفِيَّة	bronchus segmentalis basalis posterior NA
+قَصَبَةُ القِطْعَةِ القاعِدِيَّةِ الوَحْشِيَّة	bronchus segmentalis basalis lateralis NA
+قَصَبَةُ القِطْعَةِ القَلْبِيَّة	cardiac segmental bronchus
+قَصَبَةُ القِطْعَةِ القِمِّيَّة	apical segmental bronchus / bronchus segmentalis apicalis NA
+قَصَبَةُ القِطْعَةِ القِمِّيَّةِ الخَلْفِيَّة	apicoposterior segmental bronchus / bronchus segmentalis apicoposterior NA
+قَصَبَةُ القِطْعَةِ الوَحْشِيَّة	bronchus segmentalis lateralis NA / lateral segmental bronchus
+قَصَبَةُ القِطْعَةِ الوَحْشِيَّةِ القاعِدِيَّة	lateral basal segmental bronchus
+قصبة المِبْزل	cannula
+قصبة الهوائية، رغامي	trachea
+قَصَبَةٌ صَغيرَة	bronchium
+قصبة هوائية	bronchus
+قَصَبي	bronchial
+قَصَبِيُّ المَنْشَأ	bronchiogenic / bronchiogenic (bronchogenic) / bronchogenic
+قَصَبِيٌّ بَنْكِرْياسِيّ	bronchopancreatic
+قَصَبيّ جَنْبَوي	bronchopleural
+قَصَبِيٌّ جَنْبِيّ	bronchopleural
+قَصَبِيٌّ حُوَيصِلِيّ	bronchovesicular
+قَصَبِيٌّ رِئَوِيّ	bronchopulmonary
+قَصَبِيٌّ رُغامِيّ	bronchotracheal
+قَصَبِيٌّ سِنْخِيّ	bronchoalveolar
+قَصَبِيٌّ كَهْفِيّ	bronchocavernous
+قَصَبِيٌّ مَريئِيّ	bronchoesophageal
+قَصَبِيّ؛شُعَبِيّ	bronchial
+قَصْد	intent
+قصد ( نية )	intention
+قَصْدٌ إِجْرامِيّ	criminal intent
+قَصْدٌ جِنَائِيٌّ	mens rea
+قَصْدِيّ	intentional
+قَصْدير	tin
+قِصْدِيْرِ (العنصر الخمسون)	stannum
+قَصْدِيرَات	stanates
+قِصْدِيْرِيّ	stanniferous / stannous
+قصر	shorten
+قِصَرُ الأَسْنان	brachydontia
+قِصَرُ الأَصابِع	brachydactyly
+قِصَرُ الأَنْف	brachyrhinia
+قِصَرُ البَصَر ( الحَسَرُ)	hypometropia (myopia)
+قِصَرُ البَصَر ( حَسَر)	near-sight (myopia) / near-sightedness (myopia)
+قِصَرُ البَصَر ؛ حَسَرٌ	brachymetropia
+قصر البصر المركب الاستجمي	astigmatism, compound myopic / compound myopic astigmatism
+قصر الخطو	brachybasia
+قِصَرُ الرَّأْس	brachycephalia / brachycephalism / brachycephaly
+قِصَرُ السِّنْع	brachymetacarpalism / brachymetacarpia
+قِصَرُ السِّنْعِ أَو المِشْط	brachymetapody
+قِصَرُ الشِّفاه	brachycheilia / brachychily
+قصر الشفة	brachycheilia
+قِصَرُ العُنُق	brevicollis
+قِصَرُ الفَكّ	brachygnathia / brachygnathism
+قِصَرُ المَريء	brachyesophagus / brachyoesophagus
+قِصَرُ المَسافَةِ بَينَ القَوسَين (تقارب الفكين)	reduced interarch distance / small interarch distance
+قِصَرُ المِشْط	brachymetatarsia
+قصر النظر	brachymetropia = myopia / short sight; myopia
+قِصَرُ أَوسَطِ الطَّرَف	mesomelia
+قصر بصر زائد	hyperpresbyopia
+قِصَرُ جَذْرِ الطَّرَف (الفَخِذِ أَو العَضُد)	rhizomelia
+قِصَرُ قُطْرِ القِحْف	acrobrachycephaly
+قِصَرُ نِهاياتِ الأَطْراف	acromelia
+قِصَرُ والْتِصاقُ الأَصابِع	symbrachydactylia / symbrachydactylism / symbrachydactyly
+قصرالأصَابِع	brachydactily
+قَصْف	bombardment
+قصف إشعاعي	bombard = bombardment
+قصل	decapitation
+قُصُوُّ البَصَرِ الشَّيخُوُخِيّ	old sight (presbyopia) / presbyopia / presbytia (presbyopia) / presbytism (presbyopia)
+قُصور	failure / insufficiency / insufficientia
+قُصور (وَظيفِيّ)	hypofunction
+قصور إكليلي	insufficiency, coronary
+قُصُوْرُ الأَبْهَر	aortic incompetence / aortic insufficiency (aortic regurgitation)
+قصور الأورطي (ارتجاع الأورطي)	insufficiency, aortic
+قُصورُ البُطَينِ الأَيسَر	left ventricular insufficiency
+قُصورُ البُطَينِ الأَيمَن	right ventricular insufficiency
+قُصورُ البَنْكرياس	hypopancreatism / pancreatic insufficiency
+قُصورُ البَوَّاب	pyloric insufficiency
+قُصورُ البَوَّابِ الوَظيفِيّ	functional pyloric insufficiency
+قُصورُ التَّطَوُّرِ الجَنينِيّ	asyntaxia
+قُصورُ التَّطَوُّرِ الجَنينِيِّ الظَّهْرَانِيّ	asyntaxia dorsalis
+قُصُورُ التَّعَضُّل	amyoplasia
+قُصورُ التَّعَضُّلِ الخِلْقِيّ	amyoplasia congenita
+قصور التكوُّن، لا تكوُّن	agenesis
+قُصورُ التَّكَيُّف	hypocyclosis
+قُصورُ التَّكَيُّفِ العَدَسِيّ	lenticular hypocyclosis
+قُصورُ التُّوتَة	hypothymism
+قُصورُ الثُّلاَثِيِّ الشُّرَف	tricuspid insufficiency
+قُصورُ الخُصْيَة	hypo-orchidia / hypo-orchidism
+قُصورُ الدَّرَقِيَّة	athyroidation (hypothyroidism) / athyroidism (hypothyroidism) / athyroidosis (hypothyroidism) / hypothyrea (hypothyroidism) / hypothyreosis (hypothyroidism) / hypothyroidea / hypothyroidism / hypothyrosis / insufficiency, thyroid / subthyroidism / thyroid insufficiency (hypothyroidism)
+قُصورُ الدَّرَقِيَّةِ الأَوَّلِيّ	primary hypothyroidism
+قُصورُ الدَّرَقِيَّةِ التَّالِي للجِراحَة	postoperative hypothyroidism
+قُصورُ الدَّرَقِيَّةِ التَّالِي للقَطْع	postablative hypothyroidism
+قُصورُ الدَّرَقِيَّةِ الثَّالِثِيّ	tertiary hypothyroidism
+قُصورُ الدَّرَقِيَّةِ الثَّانَوِيّ	secondary hypothyroidism
+قُصُوْرُ الدَّرَقِيَّةِ الدُّرَاقِيُّ العائِلِيُّ ( دُراقٌ عائِلِيّ)	familial goiterous hypothyroidism (familial goiter)
+قُصورُ الدَّرَقِيَّةِ الطِّفْلِيّ ( فَدامَة)	infantile hypothyroidism (cretinism)
+قُصورُ الدَّرَقِيَّةِ الكاذِب	pseudohypothyroidism
+قُصورُ الدَّرَقِيَّةِ الوِطائِيُّ المَنْشَأ	hypothalamic hypothyroidism
+قُصورُ الدَّرَقِيَّةِ بحِرْمانِ الدَّرَق	thyroprivic hypothyroidism
+قُصورُ الدَّرَقِيَّةِ بحِرْمانِ المُوَجِّهَة	trophoprivic hypothyroidism
+قُصورُ الدُّرَيْقات	hypoparathyreosis / hypoparathyroidism / parathyroid insufficiency (hypoparathyroidism)
+قُصورُ الدُّرَيقِيَّةِ الكاذِب	pseudohypoparathyroidism
+قُصورُ الدُّرَيقِيَّةِ الكاذِبُ الكاذِب	pseudopseudohypoparathyroidism
+قُصورُ الصَّمامات	insufficiency of the valves / valvular insufficiency
+قُصورُ الصَّنَوبَرِيَّة	hypopinealism / pineal insufficiency
+قُصُوْرُ الطِّحَالِ	hyposplenism
+قُصورُ العَضَلاَتِ الخارِجِيَّة (لِلعَين)	insufficiency of the externi
+قُصورُ العَضَلاَتِ الدَّاخِلِيَّة (لِلعَين)	insufficiency of the interni
+قُصُورُ العَمَل	meregasia
+قُصورُ الغُدَدِ التَّناسُلِيَّة	hypogonadia / hypogonadism
+قُصورُ الغُدَدِ التَّناسُلِيَّة الأُنْثَوِيَّة	female eunuchoidism
+قُصورُ الغُدَدِ التَّناسُلِيَّةِ الأَوَّلِيّ	primary hypogonadism
+قُصورُ الغُدَدِ التَّناسُلِيَّةِ الثَّانَوِيّ	secondary hypogonadism
+قُصورُ الغُدَدِ التِّناسُلِيَّةِ الشَّامِل	panhypogonadism
+قُصورُ الغُدَدِ التَّناسُلِيَّةِ النُخامِيُّ المَنْشَأ	pituitary hypogonadism
+قُصورُ الغُدَدِ التَّناسُلِيَّة معَ سَوَاءِ مُوَجِّهَةِ الغُدَدِ التَّناسُلِيَّة	eugonadotropic hypogonadism
+قُصورُ الغُدَدِ التَّناسُلِيَّة معَ فَرْطِ مُوَجِّهَةِ الغُدَدِ التَّناسُلِيَّة	hypergonadotropic hypogonadism
+قُصورُ الغُدَدِ التَّناسُلِيَّة معَ نَقْصِ مُوَجِّهَةِ الغُدَدِ التَّناسُلِيَّة	hypogonadotropic hypogonadism
+قُصورُ القِشْرَةِ الكُظْرِيَّة	hypoadrenocorticism
+قُصورُ القِشْرَةِ المُحَرِّكَة	hypoponesis
+قُصور القَعِدَاتِ النُّخامِيَّة	hypobasophilism
+قصور القلب	heart failure / insufficiency, cardiac
+قُصورُ الكَبِد	hypohepatia
+قُصورُ الكُظْرِ	adrenal insufficiency (hypoadrenalism) / hypoadrenalism / hypoadrenia / hyposuprarenalism / insufficiency, adrenal
+قُصورُ الكُظْرِيَّة ( داءُ أديسون)	hypadrenia (Addison's disease)
+قُصورُ المَبيض	hypo-ovarianism / hypovaria (hypo-ovaria) / hypovarianism
+قُصورُ المِتْرالِيّ	mitral insufficiency
+قُصورُ المِحْفَظَة ( قُصورُ الكُظْر)	capsular insufficiency (hypoadrenalism)
+قصور المخاط	amyxorrhoea
+قُصورُ المُسْتَقِلَّين (قُصورُ الوُدِّيِّ واللاَّوُدِّيِّ المُتَزامِن)	hypoamphotonia
+قُصورُ المَشيمَة	placental insufficiency
+قُصورُ النُّخامِيَّة	hypohypophysism / hypopituitarism / pituitary insufficiency (hypopituitarism) / subpituitarism
+قُصورُ النُّخَامِيَّةِ الأَمامِيَّة	anterior pituitary insufficiency (hypopituitarism)
+قُصورُ النَّشاط	hypoactivity
+قُصورُ النَّشاطِ الغُدِّيّ	hypoadenia
+قُصورُ الوَعْي	apsychia
+قُصورٌ تاجِيّ	coronary insufficiency
+قُصورُ تَكَوُّنِ الدُّشْبُذ (بعد كسر العظم)	hypoporosis
+قصور تكوين المينا	amelogenesis imperfecta
+قُصورُ تَكَيُّفِ الجِسْمِ الهَدَبِيّ	ciliary hypocyclosis
+قُصورٌ جَفْنِيّ	insufficiency of the eyelids
+قصور جنسيّ	agenitalism
+قُصُورٌ حَفَّافِيٌّ بُلْعومِيّ	velopharyngeal incompetence (velopharyngeal insufficiency) / velopharyngeal insufficiency
+قُصورُ خَلاَيا لايديغ	hypoleydigism
+قُصورٌ رِئَوِيّ	pulmonary insufficiency
+قُصورٌ رَحِمِيّ	uterine insufficiency
+قُصُوْرُ صِماماتِ القَلْب	incompetence of the cardiac valves
+قُصُوْرٌ صِمامِيّ	valvular incompetence
+قُصورُ عَضَلَةِ القَلْب	myocardial insufficiency
+قُصورٌ عَضَلِيّ	muscular insufficiency
+قُصورٌ فاعِل	active insufficiency
+قُصورٌ فِقْرِيٌّ قاعِدِيّ	vertebrobasilar insufficiency
+قُصورُ قِشْرِ الكُظْر	hypocorticalism (hypoadrenocorticism) / hypocorticism
+قُصورُ قِشْرَةِ الكُظْر	adrenocortical insufficiency
+قُصورٌ قَلْبِيّ ( فَشَلُ القَلْب)	cardiac insufficiency (heart failure)
+قُصورٌ كَبِدِيّ	hepatic insufficiency / insufficiency, hepatic
+قُصورٌ كُلْوِيّ	insufficiency, renal / renal insufficiency
+قُصُوْرٌ لَفائِفِيٌّ أَعْوَرِيّ	ileocecal incompetence / ileocecal insufficiency / ileocolic incompetence
+قُصورٌ مَجْموعِيّ	systemic insufficiency
+قُصورٌ مَعِدِيّ	gastric insufficiency (gastromotor insufficiency)
+قُصورٌ مَعِدِيٌّ حَرَكِيّ	gastromotor insufficiency
+قُصورٌ نُخامِيٌّ شامِل	panhypopituitarism
+قُصورٌ نُخَامِيٌّ شامِلٌ سابِقٌ للبُلوغ ( قَزامَةٌ نُخامِيَّة)	prepubertal panhypopituitarism (pituitary dwarfism)
+قُصُوْرٌ نِسْبِيّ	relative incompetence
+قُصورٌ نَفْسِيّ	mental deficiency
+قُصورٌ وَريدِيّ	venous insufficiency
+قُصورٌ وَظيفِيّ	functional insufficiency
+قُصور، إخفاق	failure
+قصوى - أقصى	extremital
+قَصِّيّ	sternal / sternen / sterno; sternalis
+قَصِّيُّ الشَّكِل	sternoid
+قَصِّيٌّ تَأْمُورِيّ	sternopericardial
+قَصِّيٌّ تَرْقُوِيّ	sternoclavicular / sternoclavicularis / sternocleidal
+قَصِّيٌّ خُشَّائِيّ	sternomastoid
+قَصِّيٌّ دَرَقِيّ	sternothyreoideus / sternothyroid
+قَصِّيٌّ رُغامِيّ	sternotracheal
+قَصِّيٌّ ضِلْعِيّ	sternocostal
+قَصّي غضروفي	chondrosternal
+قَصِّيٌّ فَقَارِيّ	sternovertebral
+قَصِّيٌّ قَبْضَوِيّ	gladiomanubrial
+قَصِّيٌّ كَتِفِيّ	sternoscapular
+قَصِّيٌّ لامِيّ	sternohyoid
+قَصِّيٌّ لِسانِيّ	sternoglossal
+قُصَيبات [ف:قُصَيْبَةٌ]	bronchioli [sing.bronchiolus]
+قصيبات هوائية	bronchioles
+قصيبة	bronchiole / bronchiole; bronchiolus,bronchioli
+قُصَيبَة (في النسج النباتية)	tracheid
+قُصَيبَةٌ انْتِهائِيَّة	terminal bronchiole
+قُصَيبَةٌ تَنَفُّسِيَّة	respiratory bronchiole
+قُصَيبَةٌ سِنْخِيَّة ( قُصَيبَةٌ تَنَفُّسِيَّة)	alveolar bronchiole (respiratory bronchiole)
+قُصَيبَةٌ فُصَيصِيَّة ( قُصَيبَةٌ انْتِهائِيَّة)	lobular bronchiole (terminal bronchiole)
+قُصَيبَة؛شُعَيْبَة	bronchiole
+قُصَيبَة؛شُعَيْبَة [ج:قُصَيبات؛ شُعَيْبات]	bronchiolus NA [pl.bronchioli]
+قَصِير	brachy- / brevi
+قَصِير (سابقة)	brachydont
+قَصيرُ الأَسْنان	brachyodont
+قَصيرُ الأَقْدام	brachypodous
+قَصيرُ الأَمَد	short-term
+قَصيرُ الأَمَد (= حادّ)	brachychronic (=acute)
+قَصيرُ البَصَر ( حَسير)	near-sighted (myopic)
+قَصيرُ البَصَر ؛ حَسِيْرٌ	brachymetropic
+قَصيرُ الحَنَك	brachystaphyline
+قَصيرُ الدَّيمومَة ؛ عَابِر	ephemeral
+قَصيرُ الرَّأْس	brachycephalic / brachycephalous
+قَصيرُ السَّاق	brachyknemic / brachyskelous / microscelous (short-legged)
+قَصيرُ السُّلاَمَيَات	brachyphalangia
+قَصيرُ الفَكّ	brachygnathous
+قَصيرُ القِحْف	brachycranic
+قَصيرُ الكُعْبُرَة	brachykerkic
+قَصيرُ الوَجْه	brachyfacial
+قَصِيْرٌ وعَرِيْضُ القَامَة	brachymorphic / brachytypical (brachymorphic) / brevilineal (brachymorphic)
+قصيرة التشعع	breviradiate
+قَصيرَةُ التَّفَرُّعات (خَلاَيا عَصَبِيَّة)	breviradiate
+قُصَيْعَات [ف:قُصَيعَة]	scutula [sing.scutulum]
+قُصَيْعَة	scutellum
+قُصَيْعَة [ج:قُصَيعات]	scutulum [pl.scutula]
+قَصِيْم	brittle
+قُضْبانُ الشَّمْع	wax sticks
+قَضْمُ الأَظْفار	biting, nail = onychophagia (onychophagy) / nail biting / onychophagia / onychophagy
+قَضْمُ الشَّفَة	cheilophagia
+قضيب	bar / penis; phallus
+قَضيب (ال…)	tentum; thyrsus, phallus
+قَضيبٌ اِصْطِنَاعِيّ	dildo / dildoe
+قَضيبٌ أَوْتَر	penis palmatus (webbed penis)
+قَضيبٌ أَوْتَر (قضيب منغلف في جلد الصفن)	webbed penis
+قَضِيبٌ زُجَاجِيّ	glass rod
+قَضيبٌ صِبْغانِيّ ( جِسْمٌ صِبْغانِيّ) (فِي أَكْياسِ الأَميبَة)	chromatoidal bar (chromatoid body)
+قَضيبٌ ضَخْم	macropenis / macrophallus (macropenis)
+قضيب قوسي	arch bar
+قَضيبٌ لَدِيْن	penis plastica
+قَضيبٌ مُخْتَفٍ (مُخْتَفِي)	concealed penis
+قَضيبٌ مُزْدَوِج	diphallus / diphallus (a double penis)
+قَضيبٌ مُعْتَقَل	penis captivus
+قَضيبٌ مُعَجَّر	clubbed penis
+قضيب، ذكر	penis
+قَضِيبٌ، سَاقٌ	rod
+قَضيبِيّ	penial (penile) / penile
+قَضيبِيُّ الرَّأس [مسخ]	aedoeocephalus
+قَضيبِيٌّ صَفَنِيّ	penoscrotal
+قَطّ	transection / transsection
+قَطَا؛وَحَم	cissa (pica)
+قَطَّارَة	distillate / dropper
+قُطارَة (محصول التقطير)	distillate
+قَطَّارَةُ الحَمْض	portacid / porte-acid
+قطارة معيرة	drop meter
+قَطّاع	sector
+قَطَّاعٌ جِلْدِيٌّ كَهْرَبِيّ	electrodermatome
+قَطَّاعٌ جَنَبي (في الرئة)	pleurotome
+قُطَان، أَلَمٌ قُطْنِيّ	lumbodynia
+قُطْب	pole
+قُطْب [ج:أَقْطاب]	pole / polus NA [pl.poli]
+قطب الأربطة	desmopyknosis
+قُطْبٌ مُزْدَوِج	dipole
+قُطْبِيّ	polar
+قطبي أمامي	anterior polar
+قُطْبِيٌّ عَضَلِيّ	myopolar
+قُطْبِيَّة	polarity
+قطر	diameter / distil (to)
+قُطْرُ (ال...) العَمودِيّ	vertical diameter
+قُطْرُ (ال...) بَينَ الأَخْرَمَين	bisacromial diameter
+قُطْرُ (ال...) بَينَ الجِدارِيَّين	biparietal diameter
+قُطْرُ (ال...) بَينَ الحَرْقَفَتَين	bisiliac diameter
+قُطْرُ (ال...) بَينَ الشَّوكَتَين	bispinous diameter
+قطر (جمجمة الحميل) بين الصدغين	bitemporal diameter (of foetal skull)
+قُطْر [ج:أقْطار]	diameter
+قُطْرُ الحَوض	pelvic diameter
+قُطْرُ الذَّرَّة	atomic diameter
+قطر أمامي خلفي	diameter, anteroposterior
+قُطْرُ بودلوك (القُطْرُ المُتَقارِنُ الظَّاهِر)	Baudelocque's diameter (external conjugate diameter)
+قطر بين جداري	diameter, biparietal
+قطر بين صدغي	diameter, bitemporal
+قُطْرٌ شَفَوِيٌّ لِسانِيّ	labiolingual diameter
+قُطْرٌ قِحْفِيٌّ تَناظُرِيّ	craniometric diameter
+قطر قذالي جبهي	diameter, fronto - occipital
+قطر قذالي ذقني	diameter, occipitomental
+قُطْرُ مُتَقارِن	conjugate diameter
+قَطَرات [ف:قَطْرَة]	guttae [sing.gutta]
+قَطَرَات أُذُنِيَّة	ear drops
+قَطَرَات أَنْفِيَّة	nasal drops
+قَطَرَات عَيْنِيَّة	eye drops
+قَطَرَات فَمَوِيَّة	oral drops
+قَطَراتٌ للأُذُن	ear drop's
+قَطَراتٌ للأَنْف	nose drops
+قَطَراتٌ للعَين	eye drops
+قَطْرَاتُ هوفمان (روحُ الأَثير)	Hoffmann's drops (ether spirit)
+قَطِران	tar
+قَطِرانُ الصَنَوْبَر	pine tar
+قَطِرانُ العَرْعَر ( زَيْتُ الكاد)	juniper tar (oil of cade)
+قَطِرانُ الغاز	gas tar
+قَطِرانُ الفَحْم	Coal-tar / coal tar
+قَطْرَمُ الهِر (أوراق وناميات ذروية نباتية طبية)	cataria
+قَطْرَة	collyrium (pl. collyria) / drop
+قَطْرَة (وَحْدَةُ قِياسِ حَجْمِ السَّائِل)	minim
+قَطْرَة [ج:قَطْرات]	gutta [pl.guttae]
+قَطْرَةُ الأُذُن	eardrop
+قَطْرَةٌ عَيْنِيَّةٌ جَافَّة	xerocollyrium
+قَطْرَةً فَقَطْرَةٍ [صيدلة]	guttatim
+قَطْرَةً قَطْرَة	dropwise
+قطرة للعين	eye drops
+قَطْرَةٌ مينائِيَّة	enamel drop
+قَطْرَةٌ مينائِيَّة (وَرَمٌ مينائِيّ)	enamel drop (enameloma)
+قَطْرِيُّ الشَّكْل	guttate
+قَطْع	cutdown / resection / sectioning
+قِطَع [ف:قِطْعَة]	segmenta [sing.segmentum]
+قَطْعٌ إِبْرِيّ	acusection
+قَطْعُ أَحَدِ الجَذْرَيْن [أسنان]	hemisectomy
+قَطْعٌ إِسْفينِيّ	wedge resection
+قَطْعٌ إسْفينِيٌّ لِلعَظْم	cuneiform osteotomy
+قَطْعٌ اقْتِطاعِيٌّ للعَظْم	block osteotomy
+قَطْعُ الإِحْليل	urethrectomy
+قَطْعُ الأَخْرَم	acromionectomy
+قَطْعُ الأَرْبِطَة	desmotomy
+قَطْعُ الارْتِفاق	symphysiectomy
+قَطْعُ الأَسْهَرَينِ و الحُوَيصِلَتَين (المَنَوِيَّتَيْن)	vasovesiculectomy
+قَطْعُ الأَعْصابِ الهَدَبِيَّة	ciliotomy
+قَطْعُ الأَعْصَابِ وَالأَوْعِيَة	angioneurotomy
+قَطْعُ الأُكَيمَةِ المَنَوِيَّة	colliculectomy
+قَطْعُ الالْتِحامِ العَظْمِيِّ الغُضْرُوفِيّ (لمعالجة انقلاب المثانة)	synchondroseotomy
+قَطْعُ الالْتِحامِ الغُضْرُوفِيّ	synchondrectomy
+قَطْعُ الالْتِصاق	colliotomy (adhesiotomy)
+قَطْعُ الالْتِصاقات	adhesiotomy
+قَطْعُ الأَنْف	rhinectomy
+قَطْعُ البروستاتة بطَرِيْقَِ الإِحْليل	transurethral prostatic resection
+قَطْعُ البَظْر	clitoridotomy / clitorotomy
+قَطْعُ البوق	tubectomy
+قَطْعُ التَّرْقُوَة	clavicotomy / cleidorrhexis / cleidotomy
+قَطْعُ التَّزَوِّي العَظْمِيّ	angulation osteotomy
+قَطْعُ الْتِصاقاتِ الأَمْعاء	synechtenterotomy
+قَطْعُ الْتِصاقاتِ القُزَحِيَّة	synechotomy
+قَطْعُ التَّلْفيف	gyrectomy
+قَطْعُ التَّلْفيفِ الجَبْهِيّ	frontal gyrectomy (topectomy)
+قَطْعُ الثَّرْب	omentectomy / omentumectomy
+قَطْعُ الثَّنْيَة	plicotomy
+قَطْعُ الجَدْل	diaphysectomy
+قَطْعُ الجَذْر	radicotomy (rhizotomy)
+قَطْعُ الجَذْر [أسنان]	root resection (apicoectomy)
+قَطْعُ الجِسْمِ الثَّفَنِي	corpuscallostomy
+قَطْعُ الجَفْن	blepharectomy
+قَطْعُ الجَيْبَيْنِ الجَبْهِيِّ و الغِرْبالِيّ	frontoethmoidectomy
+قَطْعُ الحالِب	ureterectomy
+قَطْعُ الحَبْلِ المَنَوِيّ	spermectomy
+قَطْعُ الخُشَّاء	mastoidectomy
+قَطْعُ الخُشَّاءِ البَسيط	simple mastoidectomy
+قَطْعُ الخُشَّاءِ الجَذْرِيّ	radical mastoidectomy
+قَطْعُ الخُشَّاءِ القِشْرِيّ	cortical mastoidectomy
+قَطْعُ الخُشَّاءِ المُحافِظ	conservative mastoidectomy
+قَطْعُ الخُشَّاءِ المُعَدَّل	modified mastoidectomy
+قَطْعُ الخُشَّاءِ بالأُسْلوبِ المُشْتَرَك	combined approach mastoidectomy
+قَطْعُ الدِّماغِ المُتَوَسِّط	mesencephalotomy
+قَطْعُ الدَّوالِي	cirsectomy
+قَطْع الذنب	docking the tail
+قَطْعُ الرِّئَة	pneumonoresection / pneumoresection / pulmonary resection
+قَطْعُ الرَّأْس	decollation (decapitation)
+قَطْعُ الرَّأْس (خاصة للجنين الميت)	detruncation
+قَطْعُ الرَّافِعَة	levator resection
+قَطْعُ الرِّباط	desmotomy / syndesmectomy
+قَطْعُ السَّبيل	tractotomy
+قَطْعُ السَّبيلِ الدِّماغِيِّ المُتَوَسِّط	mesencephalic tractotomy
+قَطْعُ السَّبيلِ الهَرَمِيّ	pyramidotomy (pyramidal tractotomy)
+قَطْعُ السَّبيلِ الهَرَمِيِّ البَصَلِيّ	medullary pyramidotomy
+قَطْعُ السَّبيلِ الهَرَمِيِّ النُّخاعِيّ	spinal pyramidotomy
+قَطْعُ السُّرَر	omphalotomy
+قَطْعُ الصَّدْر	thoracectomy
+قَطْعُ الصَّفيحَةِ الفِقْرِيَّة	laminotomy
+قَطْعُ الصُّلْبَة	scleroticectomy
+قطع الصلبة القرني	corneo - sclerectomy
+قَطْعُ الصُّلْبَةِ و اِفْتِكَاكُ القُزَحِيَّة	sclerectoiridodialysis
+قَطْعُ الصُّلْبَةِ و القُزَحِيَّة	sclerectoiridectomy
+قَطْعُ الضَّفِيْرَة	plexectomy
+قَطْعُ الضَّفيرَةِ الوُدِّيَّة الطَّبْلِيَّة	tympanosympathectomy
+قَطْعُ الضِّلْع	costatectomy / costectomy / costotomy
+قطع العرقوب	achillotenotomy
+قَطْعُ العُرْوَة	ansotomy
+قَطْعُ العَصَبِ الحِجابِيّ	phrenicectomy (phrenconeurectomy) / phreniconeurectomy
+قَطْعُ العَصَبِ الحَشَوِيّ	splanchnicectomy (splanchnic neurectomy)
+قَطْعُ العَصَبِ الطَّبْلِيّ	tympanic neurectomy
+قَطْعُ العَصَبَينِ البَصَرِيِّ و الهَدَبِيّ	opticociliary neurectomy
+قَطْعُ العَظْم	osteotomy
+قَطْعُ العَظْمِ الحَوضِيّ ( قَطْعُ العَظْمِ العَانِيِّ)	pelvic osteotomy (pubiotomy)
+قَطْعُ العَظْمِ القِشْرِي	corticalosteotomy
+قَطْعُ العَظْمِ اللاَّمُسَمَّى (? قَطعُ العَظْمِ الوَرِكِيّ)	innominate osteotomy
+قَطْعُ العَظْمِ بحَسَبِ لورنتز (لعنق الفخذ)	Lorenz's osteotomy
+قَطْعُ العَظْمِ بشَكْلِ الرَّزَّة	hinge osteotomy
+قَطْعُ العَظْمِ بشَكْلِ القُبَّة	dome osteotomy
+قَطْعُ العَظْمِ بشَكْلِ الكوبِ و الكُرَة	cup-and-ball osteotomy
+قَطْعُ العَظْمِ بَينَ المَدْوَرَيْن	intertrochanteric osteotomy
+قَطْعُ العَظْمِ عَبْرَ المَدْوَرَيْن	transtrochanteric osteotomy
+قَطْعُ الغُضْروفِ الحِلْقِيّ	cricoidectomy
+قطع الفتق	herniotomy = kelotomy
+قَطْعُ الفَرْع	ramicotomy (ramisection) / ramisection / ramisectomy
+قَطْعُ الفَكِ السُّفْلِيّّ	mandibular resection
+قَطْعُ الفَكِّ العُلْوِيِّ	maxillary resection / maxillotomy
+قَطْعُ القِحْف	craniectomy
+قَطْعُ القَرْنِيَّة	ceratectomy (keratectomy)
+قَطْعُ القَرْنِيَّةِ و القُزَحِيَّةِ و الصُّلْبَة	iridocorneosclerectomy
+قَطْعُ القُزَحِيَّة	corectomy / iridectomy / iridectomy (corectomy) / iritoectomy
+قَطْعُ القُزَحِيَّةِ التَّامّ	complete iridectomy
+قَطْعُ القُزَحِيَّةِ التَمْهيدِيّ	preliminary iridectomy / preparatory iridectomy
+قَطْعُ القُزَحِيَّةِ الضَّيِّقَةِ الثُّقْب ( قَطْعُ القُزَحِيَّةِ المُحيطِيَّة)	stenopeic iridectomy (peripheral iridectomy)
+قَطْعُ القُزَحِيَّةِ العِلاَجِيّ	therapeutic iridectomy
+قَطْعُ القُزَحِيَّةِ القاعِدِيّ	basal iridectomy
+قَطْعُ القُزَحِيَّةِ القَطَّاعِيّ ( قَطْعُ القُزَحِيَّةُ التَّامّ)	sector iridectomy (complete iridectomy)
+قَطْعُ القُزَحِيَّةِ المُبَصِّر	optic iridectomy (optical iridectomy) / optical iridectomy
+قَطْعُ القُزَحِيَّةِ المُحيطِيَّة	peripheral iridectomy
+قَطْعُ القُزَحِيَّةِ الواسِع	broad iridectomy
+قَطْعُ القُزَحِيَّةِ و الجِسْمِ الهَدَبِيّ	iridocyclectomy
+قَطْعُ القُزَحِيَّةِ و المِحْفَظَة	iridocystectomy
+قَطْعُ القَسَط (قَطْعُ اللُّجَيْم لتحرير قَسَط اللسان)	ankylotomy
+قَطْعُ القِشْرَة (استئصال جزء من قشرة المخ)	corticectomy
+قَطْعُ القِيلَةِ الحالِبِيَّة	ureterocelectomy
+قَطْعُ القيلَةِ الدَوالِيَّة	varicocelectomy
+قطع الكأس	calicectomy
+قِطَعُ الكَبِد	segments of liver
+قَطْعُ الكُرَةِ الشَّاحِبَةِ بالبَرْدِ	cryopallidectomy
+قِطَعُ الكُلْيَةِ	segments of kidney
+قَطْعُ اللِّثَة	gingivectomy
+قطع اللجام	frenotomy
+قَطْعُ اللُّقْمَة	condylotomy
+قَطْعُ اللَّهاة	cionectomy (uvulectomy) / cionotomy / staphylectomy / uvulectomy
+قَطْعُ المُبْهَم	vagectomy / vagotomy
+قَطْعُ المُبْهَمِ بالجَانِبَين	bilateral vagotomy
+قَطْعُ المُثَلَّثِ المَثانِيّ	trigonectomy
+قطع المحفظة	cystitomy
+قَطْعُ المَساريق	mesenterectomy
+قَطْعُ المَصَرَّة	sphincterectomy
+قَطْعُ المِطْرِقَة	sphyrotomy
+قَطْعُ المُعَالَجَة	interruption of treatment
+قَطْعُ المَعِدَة	gastric resection
+قَطْعُ المُلْتَحِمَة	logadectomy
+قَطْعُ المِهاد	thalamectomy (thalamotomy)
+قَطْعُ المِهادِ بالبَرْدِ	cryothalamectomy
+قَطْعُ المُوْق	rhinocanthectomy (rhinommectomy) / rhinommectomy
+قَطْعُ النَّاتِىءِ المُسْتَعْرِض	transversotomy
+قطع النخاع (الحبل النخاعي)	chordotomy
+قَطْعُ النَّواةِ اللَّوزانِيَّة	amygdaloidectomy
+قطع الهدبي	cylicotomy
+قَطْعُ الوَتَر	tenectomy / tenonectomy / tenontotomy (tenotomy)
+قَطْعُ الوَتَرِ و العَضَلَة	tenomyotomy / tenontomyotomy (myotenotomy)
+قَطْعُ الوُجَيه	facetectomy
+قَطْعُ الوُدِّيّ	sympathectomy / sympathetectomy / sympathicectomy
+قَطْعُ الوُدِّيِّ الرَّقَبِيّ	cervical sympathectomy
+قَطْعُ الوُدِّيِّ القَطَنِيّ	lumbar sympathectomy
+قَطْعُ الوُدِّيِّ القَطَنِيِّ الظَّهْرِيّ	lumbodorsal sympathectomy
+قَطْعُ الوُدِّيِّ المُحِيْطِ بالشَّرايين	periarterial sympathectomy
+قَطْعُ الوُدِّيِّ بالكيمياويات	chemical sympathectomy
+قطع الورم الثؤلولي	condylotomy
+قَطْعُ الوَرِيْد	phlebectomy
+قطع انتباذي	ectopotomy
+قَطْعٌ انْزياحِيٌّ للعَظْم	displacement osteotomy
+قَطْعُ تَجاعيدِ الجِلْد	rhytidectomy
+قَطْعُ تَحْتِ المُخاطِيَّة	submucous resection
+قطع تحت المهاد	hypothalamotomy
+قَطْعٌ تَنْظيرِيّ	resectoscopy
+قَطْعٌ خَطيٌّ للعَظْم	linear osteotomy
+قَطْعُ دَوَاعِمِ السِّنّ	pericision
+قِطَعُ رانْفِييه	Ranvier's segments
+قَطْعٌ ضِلْعِيٌّ مُسْتَعْرِضِيّ	costotransversectomy
+قَطْعٌ عِجانِيّ ( بَضْعُ الإِحْليلِ الخارِجِيّ)	perineal section (external urethrotomy)
+قطع عضل المريء	esophagomyotomy = cardiomyotomy
+قطع عضل المريء والفؤاد	esophagocardiomyotomy = cardiomyotomy
+قَطْعُ عِظامِ الحَوض	pelvisection (pelviotomy)
+قَطْعُ عَظمِ الفَكِّ العُلْوِيّ	maxillary osteotomy
+قَطْعُ عُنُقِ الرَّحِمِ	trachelectomopexy / trachelectomy
+قَطْعُ عُنُقِ المَثانَة	cystidotrachelotomy
+قطع غشاء البكارة	hymenectomy
+قِطَعٌ قِحْفِيَّة	cranial segment
+قطع قزحي عروي	buttonhole iridectomy
+قَطْعُ قَناةِ الصَّفْراء	choledochectomy / choledochendysis
+قطع كبدي مراري	hepaticodochotomy
+قِطَعٌ كَبِدِيَّة	hepatic segments
+قَطْعُ كِفَافِ القِحْف	craniamphitomy
+قطع كهربائي	electrosection
+قَطْع ُكيسِ الدَّمْع؛اسْتِئْصَالُ المَدْمَع	dacryocystectomy
+قَطْعُ مِحْفَظَةِ العَدَسَة	phacocystectomy
+قطع مخروطي	conization
+قَطْعُ مَصَرَّةِ الحُلَيمَةِ (الإِثْناعَشَرِيَّة الكَبيرَة)	papillosphincterotomy
+قِطَع وَصْل، لَوَازِم تَثْبِيت	fittings
+قَطْع، قَصٌّ	cut
+قُطْعانِيّ	gregarine
+قُطْعانِيّ (صفة لمستعمرات الأوالي)	gregaloid
+قِطْعَة	piece / segment
+قِطْعَةُ (ال...) الإِفْرازِيَّة	secretory piece
+قِطْعَةُ (ال...) الانتهائيَّة	end piece
+قِطْعَةُ (ال...) الصُلُبَّوية	sclerotome
+قِطْعَةُ (ال...) المُتَوَسِّطَة	middle piece
+قِطْعَة [ج:قِطَع]	segment / segmentum NA [pl.segmenta]
+قِطْعَةٌ ابْتِدائِيَّة ( جُسَيدَة)	primitive segment (somite)
+قِطْعَةٌ أَرُومِيَّةٌ مُتَوَسِّطَة	mesoblastic segment
+قِطْعَةُ أَرُومِيَّةٌ مُتَوَسِّطَة ( جُسَيدَة)	mesodermal segment (somite)
+قِطْعَةٌ بَينَ الحَلَقَات	interannular segment
+قِطْعَةٌ تَفْريقِيَّة	differential segment
+قِطْعَةٌ رَحِمِيَّة	uterine segment
+قِطْعَةُ رِيفِينْيُوس (من الشق الطبلي)	rivinian segment / segment of Rivinus
+قِطْعَةٌ سابِقَةٌ للفِقْرَة ( جُسَيدَة)	protovertebral segment (somite)
+قِطْعَةُ شمِيت-لانتَرمان ( قِطْعَةٌ نُخاعِيَّة)	Schmidt-Lanterman segment (medullary segment)
+قِطْعَةٌ عَجُزِيَّة	sacral segment
+قِطْعَةٌ عَصَبِيَّة ( قُسَيمٌ عَصَبِيّ)	neural segment (neuromere)
+قِطْعَةٌ عَضَلِيَّة ( بَضْعَةٌ عَضَلِيَّة)	muscular segment (myotome)
+قِطْعَةٌ فَمَوِيَّة	mouth piece
+قِطْعَةٌ قَصَبِيَّةٌ رِئَوِيَّة	bronchopulmonary segment
+قِطْعَةٌ قِمِّيَّة (لِلقَلْع)	apical piece
+قِطْعَةٌ كُلْوِيَّة	renal segment
+قِطْعَةٌ مَيَالِينِيَّة	medullary segment
+قِطْعَةٌ نَبُّوتِيَّة	rod segment
+قِطْعَةٌ نُخاعِيَّة	spinal segment
+قِطَعِيّ	segmental
+قِطْعِيٌّ عَصَبِيّ	neurosegmental
+قَطْفٌ (أخذ الأنسجة أو الأعضاء من المانح لنقلها الى متلقيها)	harvest
+قَطْلَب (جنس من الأشجار)	Arbutus
+قُطْن	cotton / cotton-wool / psoas
+قُطْنُ البارود (بيروكسيلين)	guncotton (pyroxylin)
+قُطْنُ التَّفْجير (بِيرُوكْسيلين)	gun cotton (pyroxylin)
+قُطْنُ التَّفْجيرِ الذَّوَّاب ( بِيرُوكْسيلين)	soluble gun cotton (pyroxylin)
+قُطْنُ الكولوديون ( بِيرُوكْسيلين)	collodion cotton (pyroxylin)
+قُطْنُ حَمْضِ البُوريك	boric acid cotton
+قُطْنٌ ساليسيلاَتِيّ	salicylated cotton
+قطن صلب	lumbus (loin)
+قُطْنٌ قابِض	styptic cotton
+قُطْنٌ ماصّ	absorbent cotton / cotton wool
+قُطْنٌ مُعَقَّم	gossypium asepticum
+قُطْنٌ مُنَقَّى	gossypium depuratum / gossypium purificatum / purified cotton
+قَطَنِيّ	lumbar / lumbo
+قَطَنِيٌّ أُرْبِيّ	lumboinguinal
+قَطَنِيٌّ إِسْكِيّ	lumboischial
+قَطَنِيٌّ بَطْنِيّ	lumboabdominal
+قَطَنِيٌّ حَرْقَفِيّ	lumboiliac
+قَطَنِيٌّ ساقِيّ	lumbocrural
+قَطَنِيٌّ ضِلْعِيّ	lumbocostal
+قَطَنِيٌّ ظَهْرِيّ	lumbodorsal
+قَطَنِيٌّ عَجُزِيّ	lumbosacral
+قَطَنِيٌّ فِقْرِيّ	lumbovertebral
+قَطَنِيٌّ مَبيضِيّ	lumbo-ovarian
+قِطّة، هِرّة	queen
+قَطُوب	polarizable
+قَطُور	collyrium
+قُطَيْرةَ	droplet
+قُطَيرَة [ج:قُطَيرات]	droplet
+قُطَيْط	kitten
+قطيع	flock; livestock
+قَطِيْلَةٌ [ج:قَطَائِل] (كمادة أو رفادة تُدَسُّ في الجرح)	stype
+قُعاس ظهري	hyperlordosis
+قَعِدٌ	basophilic
+قَعِد (يتلوَّن بالملونات القاعدية)	basiphilic (basophilic) / basophile (basophilic) / basophilic / basophilous (basophilic)
+قَعِداتُ كروك راسِل (فِي التنكس الهياليني)	Crooke-Russel basophils
+قُعَدَة (حياة تخلو من النشاط)	sedentary
+قَعِدَة ؛ أَسِسَة [ج:قَعِدات] (خَلِيَّة تتلَوَّن بالمُلَوِّنَات القاعِدِيَّة)	basophil
+قَعِدَةٌ بِيتائِيَّة ( مُوَجِّهَةُ الدَّرَقِيَّة)	beta basophil (thyrotroph)
+قَعِدَةٌ دِلْتائِيَّة ( مُوَجِّهَةُ الغُدَدِ التَّناسُلِيَّة)	delta basophil (gonadotroph)
+قَعِدِيَّة، تَقَعُّد	basophilism
+قَعْر	solum NA
+قَعْرُ الطَّبْلَة	solum tympani
+قَعَس	lordosis
+قَعَس (انحناء الظهر للأمام)	ithylordosis
+قَعَسٌ تَعْويضِيّ	compensatory lordosis
+قَعَسٌ جَنَفِيّ	lordoscoliosis
+قَعَسٌ رَقَبِيّ	cervical lordosis
+قَعَسٌ ظَهْرِيّ	dorsal lordosis
+قَعَسٌ مُفْرِط	hyperlordosis
+قُعودَة	basicity
+قَفَا (ال...)	nucha
+قفا، منخع	nucha
+قُفَّاز	glove
+قُفَّازٌ إِصْبَعِيّ	fingerstall
+قُفَّازُ الفَحْص	examination glove
+قُفَّازٌ جِراحِيّ	surgical glove
+قُفَّازٌ مَطَّاطِيّ	rubber glove
+قُفَّازٌ نِصْفِيّ	demigauntlet
+قُفَّازاتٌ مَطَّاطِيَّة	rubber gloves
+قفاع	contracture
+قَفَد ( حَنَفٌ أَبْخَسِيّ)	horsefoot (talipes equinus) / strephopodia (talipes equinus)
+قَفَد (جَنَفٌ أَبْخَسِيٌّ)	equinus (talipes equinus)
+قَفَدٌ خَمَصِيّ	equinocavus / equinus plantaris
+قَفَدٌ رَوَحِيّ (جَنَفٌ قَفَدِيٌّ رَوَحِيٌّ)	equinovalgus (talipes equinovalgus)
+قَفَدٌ عَقِبِيّ	equinus dorsalis
+قفد فحجي	equinovarus
+قَفَدٌ فَحْجِيّ (جَنَفٌ قَفَدِيٌّ فَحْجِيٌّ)	equinovarus (talipes equinovarus)
+قَفْز	saltation
+قَفْز ( مُتلازمة جِيل دولاتوريت)	jumping (Gilles de la Tourette's syndrome)
+قَفْزَةُ العَضَّة (تقويم الإطباق)	jumping the bite
+قَفْزِيّ	saltatorial (saltatoric) / saltatoric / saltatory
+قَفْزِيَّا (في نظرية التطور)	per saltum
+قَفَص	cage
+قَفَصُ (ال...) الصَّدْرِيُّ	thoracic cage
+قَفَصُ الجَمْهَرَة [الوِراثِيَّات]	population cage
+قَفَص الطيور، بيت الطُّيور	aviary
+قفص صدري	thoracic cage
+قَفَص، قفص صدريّ	cage
+قُفْلُ العَضَّة	bite lock
+قُفْلٌ مُقَوِّمٌ للأَسْنان	orthodontic lock
+قُفُوف ؛ انْتِصابُ الشَّعْر	horripilation
+قفوف الجلد	cutis anserina = goose flesh (skin)
+قَفَوِيّ	nuchal / occipital / retrocollic (nuchal)
+قُفَيصَة (في الفَيرِوسات)	capsid
+قُفَيْصَةٌ مُنَوَّاة	nucleocapsid
+قُلاء	alkalosis / baseosis (alkalosis)
+قُلاءٌ اسْتِقْلابِيّ	metabolic alkalosis
+قُلاءٌ اسْتِقْلابِيٌّ مُعاوَض ؛قُلاءٌ أَيْضِيّ مُعاوَض	compensated metabolic alkalosis
+قُلاءُ الدَّم؛قِلْوَمِيَّة	alkalemia
+قُلاءُ المُرْتَفَعَات	altitude alkalosis
+قُلاءٌ بِنَقْصِ بُوتاس الدَّم	hypokalemic alkalosis
+قُلاءٌ تَنَفُّسِيّ	respiratory alcalosis / respiratory alkalosis
+قُلاءٌ تَنَفُّسِيٌّ مُعاوَض	compensated respiratory alkalosis
+قُلاءُ ثُنائِيِّ أُكسيدِ الكَربون ( قُلاءٌ تَنَفُّسِيّ)	carbon dioxide alkalosis (respiratory alkalosis)
+قُلاءٌ مُعاوَض	compensated alkalosis
+قُلاءٌ مَعِدِيٌّ مِعَوِيٌّ خِلْقِيّ	congenital gastrointestinal alkalosis
+قُلاءٌ ناقِصُ ثُنائِيِّ أُكسيدِ الكَربون ( قُلاءٌ تَنَفُّسِيّ)	acapnial alkalosis (respiratory alkalosis)
+قُلاء، تَقَلْوُن الدم	alkalosis
+قُلائِيّ	alkalotic
+قَلاّب	stirrer
+قُلابٌّ شَيخُوخِيّ	presbycardia
+قِلاَّجَةٌ صابونِيَّة [نبات]	soap-bark tree
+قِلاَدَة	necklace
+قِلاَدَةُ كازال (في البلاغرا)	Casal's necklace
+قُلاع	aphtha
+قُلاعُ الدَّنَف	aphtha cachectia
+قُلاعُ بِدْنَار (عند الرضع)	Bednar's aphtha
+قُلاعٌ مُتَقَطِّعٌ رَاجِعٌ مُزْمِن	chronic intermittent recurrent aphthae
+قُلاعٌ مَدارِيّ	aphtha tropica
+قُلاعٌ مُقاوِم	aphthae resistentiae
+قُلاعٌ مُنَدِّبٌ رَاجِعٌ	recurrent scarring aphthae
+قُلاعُ مِيكُولِيش	Mikulicz's aphthae
+قلاع، التهاب فطري في الفم	thrush
+قُلاعِيّ	aphthous
+قُلاعِيُّ الشَّكْل	aphthoid
+قَلاَنِسُ الكُلْيَةِ التَّالِيَة	metanephric caps
+قَلْب	coeur / cor NA / heart
+قَلْبُ (ال...) الأَيسَر	left heart
+قَلْبُ (ال...)الأَيمَن	right heart
+قَلْب [ج:قُلوب]	heart
+قَلْبٌ أَزْغَب (في الانصباب التاموري)	cor hirsutum (cor villosum) / cor villosum
+قَلْبٌ أَشْعَر	hairy heart
+قَلْبٌ اصْطِنَاعِيّ	artificial heart
+قَلْبٌ أُفُقِيّ	horizocardia / horizontal heart
+قَلْبُ البِري بِري	beriberi heart
+قلب البقرة	heart, bovine ( cor bovinum ) / heart, bovine (cor bovinum)
+قَلْبُ البِيْرَة (قلب متضخم ومتمدد بسبب كثرة تناول البِيْرَة)	beer heart
+قَلْبُ التَّدْخين	tobacco heart
+قَلْبُ الثَّور	bucardia (cor bovinum)
+قَلْبُ الثَّور ( قَلْبٌ بَقَرِيٌّ)	ox heart (cor bovinum)
+قَلْبُ الجُنْدِيّ ( الوَهَنُ العَصَبِيُّ الدَّوَرانِيّ)	soldier's heart (neurocirculatory asthenia)
+قَلْبُ الجَنَفِ الحُدابِيّ	kyphoscoliotic heart
+قَلْبُ الرِّياضِيّ	athlete's heart / heart, athletic ( athletes heart ) / heart, athletic (athletes heart)
+قَلْبُ اللِّمْف (في الضفادع والأسماك)	lymph heart
+قَلْبُ الوَذَمَةِ المُخاطِيَّة	myxedema heart
+قَلْبٌ بَطْنِيّ	abdominal heart / heart, abdominal
+قَلْبٌ بَقَرِيّ	cor bovinum / cor taurinum
+قَلْبٌ بَقَرِيٌّ (قلب مفرط التضخم)	bovine heart (cor bovinum)
+قَلْبُ تراوبه ( قَلْبُ الاضْطِرَابِ الكُلْوِيّ)	Traube's heart (kidney disorder heart)
+قَلْبٌ ثُلاَثِيُّ الأُذَينات	cor triatriatum / triatrial heart
+قَلْبٌ ثُلاَثِيُّ التَّجاويف	three-chambered heart / trilocular heart
+قلب ثلاثي الغرف	heart, three - chambered = trilocular heart / heart, trilocular = three - chambered heart
+قَلْبُ ثُلاَثِيُّ المَسَاكِن	cor triloculare
+قَلْبٌ ثُلاَثِيُّ المَساكِنِ الكاذِبَةِ ثُنائِيُّ الأُذَينَين	cor pseudotriloculare biatriatum
+قَلْبٌ ثُلاَثِيُّ المَساكِنِ ثُنائِيُّ الأُذَينَين	cor triloculare biatriatum
+قَلْبٌ ثُلاَثِيُّ المَساكِنِ ثُنائِيُّ البُطَينَين	cor triloculare biventriculare
+قَلْبٌ حَوجَلِيُّ الشَّكْل	flask-shaped heart
+قَلْبٌ خارِجَ الجِسْم	extracorporeal heart
+قَلْبٌ داخِلَ الجِسْم	intracorporeal heart
+قَلْبٌ دُرَاقِيٌّ ( قَلْبُ فَرْطِ الدَّرَق)	goitre heart (hyperthyroid heart)
+قَلْبٌ دُهْنِيّ (قَلْبٌ مُتَشَحِّم)	fat heart (fatty heart) / fatty heart
+قَلْبٌ ديناميتِيّ	dynamite heart
+قَلْبٌ ذٌو مَسْكَنَين	bilocular heart / cor biloculare
+قَلْبٌ رِئَوِيّ	cor pulmonale / pulmonary heart
+قَلْبٌ رَقَبِيّ	cervical heart
+قَلْبٌ رَقِّيّ ( نَقْصُ تَنَسُّجِ البُطَينِ الأَيمَن)	parchment heart (right ventricle hypoplasia)
+قَلْبٌ روماتزميّ	rheumatic heart
+قَلْبٌ رِياضِيّ	athletic heart
+قَلْبٌ زَورَقِيُّ الشَّكْل	boat-shaped heart
+قَلْبٌ سَرِيْعُ التَّهَيُّج ( الوَهَنُ العَصَبيُّ الدَّوَرانيّ)	irritable heart (neurocirculatory asthenia)
+قَلْبٌ صَدْرِيّ (أَمامِيّ)	pectoral heart
+قلب صناعي (اصطناعي)	heart, artificial = mechanical heart
+قَلْبٌ ضُمورِيّ	atrophic heart
+قَلْبٌ عَظْمِيّ (قلب ترسَّب فيه الكالسيوم)	bony heart
+قَلْبٌ عَمودِيّ	vertical heart
+قَلْبُ فَرْطِ الدَّرَق	hyperthyroid heart
+قَلْبُ فَرْطِ الدَّرَقِيَّة	thyrotoxic heart
+قَلْبُ فَرْطِ ضَغْطِ الدَّم	hypertensive heart
+قَلْبٌ كُمَّثْرِيُّ الشَّكْل	pear-shaped heart
+قَلْبٌ لِيفانِيّ	fibroid heart
+قَلْبٌ مُتَجَوِّل	wandering heart
+قَلْبٌ مُتَدَلّ (مَتَدَلِّي)	drop heart / pendulous heart (drop heart)
+قَلْبٌ مُتَدَلّ (مُتَدَلِّي) ( قَلْبٌ نَوَّاسِيّ)	hanging heart (pendulous heart)
+قَلْبٌ مُتَشَحِّم	cor adiposum / fat heart; cor adiposum
+قَلْبٌ مُتَضَخِّم	luxus heart
+قَلْبٌ مُجَاوِرٌ للجِسْم (قلب اصطناعي يحمل بجانب الجسم)	paracorporeal heart
+قَلْبٌ مُجَمَّد	icing heart (frosted heart)
+قَلْبٌ مُجَمَّد (قلب ذو تأمور سميك)	frosted heart
+قَلْبٌ مُدَوَّر	round heart
+قَلْبٌ مُرَقَّط	tabby cat heart (tiger heart) / thrush breast heart / tiger heart (tiger lily heart)
+قَلْبٌ مَرْكوبِيّ	coeur en sabot / heart, sabot = coeur en sabot = woodenshoe heart / sabot heart (coeur en sabot) / wooden-shoe heart (coeur en sabot)
+قَلْبٌ مُسَلَّح	armour heart
+قَلْبٌ مُسَلَّح (التهاب التامور اللاَّصِق المتكلس المزمن)	panzerherz (armored heart)
+قَلْبٌ مُسَلَّح (ترسب الكالسيوم في التامور)	armored heart (armour heart)
+قَلْبٌ مُشَعَّر ( الْتِهابُ التَّأمورِ الزُّغابِيّ)	hairy heart (pericarditis villosa)
+قَلْبٌ مُشَوَّش	chaotic heart
+قَلْبٌ مُصَنْدَق	encased heart
+قَلْبٌ مُعَزِّز ( بُطَينٌ مُعاوِن)	booster h (auxiliary ventricle)
+قَلْبٌ مُعَلَّق ( قَلْبٌ مُتَدَلٍّ)	suspended heart (pendulous heart)
+قَلْبٌ مُنْتَبِذ	ectocardia / exocardia (ectocardia)
+قَلْبٌ مُوَسَّطُ الوَضْع	mesocardia
+قلب ميكانيكي	heart, mechanical = artificial heart
+قَلْبٌ ميكانيكِيّ ( قَلْبٌ اِصْطِنَاعِيٌّ)	mechanical heart (artificial heart)
+قَلْبٌ ناقِصُ التَّنَسُّج	hypoplastic heart
+قَلْبٌ نَشَوانِيّ	amyloid heart
+قَلْبٌ نِصْفُ أُفُقِيّ	semihorizontal heart
+قَلْبٌ نِصْفُ عَمودِيّ	semivertical heart
+قَلْبٌ نِصْفِيّ (تشوه خلقي)	hemicardia
+قَلْبٌ نِصْفِيٌّ أَيسَر	hemicardia sinistra
+قَلْبٌ نِصْفِيٌّ أَيمَن	hemicardia dextra
+قَلْبٌ نَوَّاسِيّ	cor pendulum
+قَلْب هاجِر، قلُبّ مُنتَبِذ	ectocardia
+قلب هيوج	heart, irritable = soldire's heart = neurocirculatory asthenia
+قَلْبٌ يَمينِيّ	dexiocardia / dextrocardia
+قَلْبٌ يَمينِيٌّ ثانَوِيّ	secondary dextrocardia
+قَلْبٌ يَمينِيٌّ مِرْآتِي	mirror-image dextrocardia
+قَلْب، لـُبّ	cor; heart
+قلباني (شبيه القلب)	cardiod
+قلبي	cardiac / cordate; cordial
+قَلْبي (سابقة)	cardio
+قَلْبِيٌّ أَبْهَرِيّ	cardioaortic
+قَلْبِيُّ الانْتِقاء ؛ مُنْتَقٍ للقَلْب (مُنْتَقِي للقَلْب)	cardioselective
+قَلْبِيُّ الشَّكْل	cardioid / cordate / cordiform
+قَلْبِيُّ المَنْشَأ	cardiogenic
+قَلْبِيٌّ تَنَفُّسِيٌّ	cardiopneumatic
+قَلْبِيٌّ حِجابِيّ	cardiodiaphragmatic
+قَلْبِيٌّ حَمْلِيّ (متعلق بمرض القلب أثناء الحمل)	gravidocardiac
+قَلْبِيٌّ خَلْفِيّ	postcordial
+قَلْبِيٌّ دَوَرانِيّ	cardiocirculatory
+قَلْبِيٌّ رِئَوِيّ	cardiopulmonary
+قَلْبِيٌّ سَلَوِيّ	amniocardiac
+قَلْبِيٌّ شَحْمِيّ	lipocardiac
+قَلْبِيٌّ شِرْيانِيّ	cardioarterial
+قَلْبِيٌّ صِمامِيّ	cardiovalvular
+قَلْبِيٌّ عَصَبِيّ	cardioneural
+قَلْبِيٌّ قِيامِيّ	orthocardiac
+قَلْبِيٌّ كَبِدِيّ	cardiohepatic
+قَلْبِيٌّ كُلْوِيّ	cardionephric / cardiorenal
+قَلْبِيٌّ وِعائِيّ	cardiovascular
+قَلَحُ الأَسْنان	lapis dentalis / odontolithiasis
+قَلَحٌ سِنِّيّ	dental calculus / dental tophus / odontia incrustans
+قَلَحٌ لِثَوِيّ	gingival calculus
+قَلَحٌ مَصْلِيّ ( حَصاةٌ تَحْتَ الِّلثَة)	serumal tartar (subgingival calculus)
+قَلَدانَة (نَباتٌ مِنْ جِنْسِ المَحْمودَة)	kaladana
+قَلَس	backflow (regurgitation) / regurgitation
+قَلَسٌ إِثْنا عَشَرِيّ	duodenal regurgitation
+قَلَسُ الأَبْهَرِيّ	aortic regurgitation
+قَلَسُ الثُّلاَثِيِّ الشُّرَف	tricuspid regurgitation
+قَلَسُ الرِّئَوِيّ	pulmonic regurgitation
+قَلَسُ المِتْرالِيّ	mitral regurgitation
+قَلَسٌ حُوَيضِيٌّ جَيبِيّ	pyelosinus backflow
+قَلَسٌ حُوَيضِيٌّ كُلْوِيّ	pyelorenal backflow
+قَلَسٌ حُوَيضِيٌّ لِمْفِيّ	pyelolymphatic backflow
+قَلَسٌ حُوَيضِيٌّ نُبَيبِيّ	pyelotubular backflow
+قَلَسٌ حُوَيضِيٌّ وَريدِيّ	pyelovenous backflow
+قَلَسٌ صِمامِيّ	valvular regurgitation
+قَلَسٌ مِتْرالِي	mitral regurgitation
+قَلَسٌ مَثانِيٌّ حالِبِيّ	vesicoureteral regurgitation
+قَلَسٌ وَظيفِيّ	functional regurgitation
+قلص	contract (to)
+قَلْع	avulsion / enucleation / evulsio / evulsion / exelcymosis (extraction) / exoresis (avulsion)
+قَلْعُ الجَذْر	root extraction
+قَلْعُ السِّنّ	dental extraction / odontectomy / tooth avulsion / tooth extraction
+قَلْعُ السِّنِّ الدائِمَة	permanent tooth extraction
+قَلْعُ السِّنِّ الساقِطَة	deciduous tooth extraction
+قَلْعُ العَصَب	nerve avulsion
+قَلْعُ العَصَبِ البَصَرِيّ	evulsio nervi optici
+قَلْعُ العَصَبِ الحِجابِيّ	phrenic avulsion
+قَلْعُ العَين	enucleation of the eye
+قَلْعُ القُزَحِيَّة (افْتِكَاكُ القزحية)	iridoavulsion (iridodialysis)
+قَلْعٌ بَسيط	simple extraction
+قَلْعٌ جِراحِيّ	surgical extraction
+قَلْعٌ عامّ	general extraction
+قَلْعُ كامِلِ الأَسْنان	full mouth extraction
+قَلْعٌ مُتَتابَع	serial extraction
+قُلْفَة	praeputium (preputium) / prepuce
+قُلْفَةُ البَظْر	prepuce of clitoris / preputium clitoridis NA
+قُلْفَةُ القَضيب	prepuce of penis / preputium penis NA
+قُلْفَةُ القَضيب [تشريح]	acrobystia (preputium penis NA)
+قُلْفَة القَضِيب، قُلْفَة	acrobystia; preputium penisNA
+قَلْفَةٌ مَزِيْدَة	redundant prepuce
+قُلْفِيّ	preputial
+قَلَق	anxietas (anxiety) / anxiety / anxious
+قَلَقُ الإِشْعَارَة	signal anxiety
+قَلَقُ الامْتِحان	examination anxiety
+قَلَقُ الأَنا	ego anxiety
+قَلَقُ الانْفِصال	separation anxiety
+قَلَقُ الخِصاء	castration anxiety
+قَلَقُ الشَّهْرِ الثَّامِن	eighth month anxiety
+قَلَقُ الغَريب	stranger anxiety
+قَلَقُ الوَضْع	situation anxiety
+قَلَقٌ تِلْقائِيّ	automatic anxiety
+قَلَقٌ ثابِت	fixed anxiety
+قَلَقٌ رُهابِيّ	phobic anxiety
+قَلَقٌ شامِل	pananxiety
+قَلَقٌ ظُنْبوبِيّ	anxietas tibiarum
+قَلَقٌ عُصابِيّ	neurotic anxiety
+قَلَقٌ عُضْوِيّ	organic anxiety
+قَلَقٌ غَامِضُ السَّبَب	free-floating anxiety
+قَلَقٌ غَريزِيّ	instinctual anxiety
+قَلَقٌ كَهْلِيّ	anxietas presenilis
+قَلَقٌ مَرَضِيّ	pathologic anxiety
+قَلَقٌ مُفْرِط	overanxiety
+قلق نفسي	upset
+قَلَقٌ وُجُودِيّ	existential anxiety
+قُلْقاس (نبات دَرَني صالح للأكل)	taro (Colocasia esculenta)
+قُلْقُل ؛ نَحيلَة (نوع من الأشجار الآسيوية)	Abrus precatorius
+قَلْقَلَة	clicking
+قَلْقَلَة (صوت قصير وحاد في أمراض القلب)	click
+قَلْقَلَةُ القَذْف	ejection click
+قَلْقَلَةُ المِتْرالِيّ (صَكَّةُ الانْفِتاح)	mitral click (opening snap)
+قَلْقَلَةٌ انْقِباضِيَّة	systolic click
+قَلْقَلَةُ أُورْتُولاَنِي	Ortolani's click
+قَلَم (بنية تشريحية)	calamus
+قَلَمُ الكِتابَة (بنية تشريحية أسفل البطين الرابع)	calamus scriptorius
+قَلَمُ الكِتابَة، بنية تشريحية أسفل البطين الرابع	calamus scriptorius
+قَلَمٌ ضَوْئِيٌّ	light pen
+قَلَنْسُوَة	calotte / cap / hood / reticulum
+قَلَنْسُوَةُ الإِثْنا عَشَري	duodenal cap
+قلنسوة الاثني عشري	cap duodenal
+قَلَنْسُوَةُ البَوَّاب	pyloric cap
+قَلَنْسَوَةُ الجُمْجُمَة ( القُبَّة)	skullcap (calvaria)
+قَلَنْسُوَةُ الجُمْجُمَة (القُبَّة)	skull cap (calvaria)
+قَلَنْسُوَةُ الرَّأْس	head cap
+قَلَنْسُوَةُ الرَّأْس (في النُّطْفَة)	head cap
+قَلَنْسُوَةُ الرَّأْسِ الأَمامِيَّة ( جُسَيمٌ طَرَفِيّ)	anterior head cap (acrosome)
+قلنسوة الضرس	hood, dental = tooth hood
+قَلَنْسُوَة اللُّبّ	pulp cap
+قَلَنْسُوَةُ الميناء [أسنان]	enamel cap
+قَلَنْسُوَةٌ تاجِيَّة [أسنان]	crown cap
+قَلَنْسُوَةٌ خَلْفَ النُّواة	postnuclear cap
+قَلَنْسُوَةٌ ذَقَنِيَّة	chin cup (chin cap)
+قَلَنْسُوَةُ زِينْ (في صورة الصدر الشعاعية)	cap of Zinn
+قَلَنْسُوةٌ سِنِّية	tooth hood
+قَلَنْسُوَةٌ فَريجِيَّة (في صورَةِ المَرارَة)	phrygian cap
+قَلَنْسُوَةٌ لُبِّيَّة	pulp cap
+قَلَنْسُوَةٌ مَهْبِلِيَّةٌ هولَنْدِيَّة (من وسائل منع الحَمْل)	dutch cap
+قَلَنْسُوَةٌ نَوَوِيَّة (جُسَيمٌ طَرَفِيّ)	nuclear cap (acrosome)
+قِلَّةُ أَروماتِ الحُمْر	erythroblastopenia
+قِلَّةُ إِفْرازِ الصَّفْراء	oligocholia
+قِلَّةُ إِفْرَازِ اللُّعَاب	oligoptyalism
+قِلَّةُ إِفْرازِ المُخاط	oligoblennia
+قِلَّةُ الإِباضَة	oligo-ovulation
+قِلَّةُ الإِحْساسِ بِالضَّوء	aphotesthesia
+قِلَّةُ الأَسْنان	oligodontia
+قِلَّةُ الأصابِع	oligodactylism / oligodactyly
+قِلَّةُ الإِفْرازِ الدَّرَقِيّ	thyropenia
+قِلَّةُ الإِلْبان	oligogalactia
+قِلَّةُ الأَلْدُوستِيرون	aldosteronopenia
+قِلَّةُ الإِنْزيم	enzymopenia
+قِلَّةُ البرُوثْرُومْبين ( قِلَّةُ بروثرومبينِ الدَّم)	prothrombinopenia (hypoprothrombinemia)
+قِلَّةُ البلازْما	oligoplasmia
+قِلَّةُ البلازما (في دم الدوران)	mioplasmia
+قِلَّةُ البَول	hypouresis / hypouresis (oliguria) / oliguresis / oliguria
+قِلَّةُ التَّبَوُّل	uropenia
+قِلَّةُ التَّعَرُّق	oligohidrosis
+قِلَّةُ التَّعَرُّق ( نَقْصُ التَّعَرُّق)	olighidria (hypohidrosis) / oligidria (hypohidrosis)
+قِلَّةُ التَّغْذِيَّة	oligotrophia / oligotrophy
+قِلَّةُ التَّنَفُّس	spanopnea
+قِلَّةُ الحَديد	sideropenia
+قلة الحمر	erythrocytopenia
+قلة الحمضية	hypoacidity
+قلة الخصوبة	hypofertility
+قِلَّةُ الخلايا	hypocellularity
+قِلّة الخَلايا اللِمْفِيّة	lymphopenia
+قِلَّةُ الدَّم	hematopenia
+قِلَّةُ الدَّمْع	oligodacrya
+قِلَّةُ الزُّهْم	hyposteatosis / oligosteatosis
+قِلَّةُ السَّائِلِ النُّخاعِيّ	aliquorrhea (hypoliquorrhea)
+قِلَّةُ السُّكَّر	glucopenia / glycopenia
+قِلَّةُ الشَّبَكِيَّات	reticulocytopenia / reticulopenia
+قِلَّةُ الشَّحْم (في الجِسْم)	lipopenia
+قِلَّةُ الشُّرْب	hypoposia / oligoposia / oligoposy
+قِلَّةُ الشَّعْر	oligotrichia (oligotrichosis) / oligotrichosis
+قِلَّةُ الصَّاء ( قِلَّةُ السَّائِلِ السَّلَوي)	oligoamnios / oligohydramnios
+قِلَّةُ الصُّفَيحات	plastocytopenia (thrombocytopenia) / thrombocytopenia / thrombopenia / thrombopeny
+قِلَّةُ الصُّفَيحاتِ الاِحتجازيَّة	sequestration thrombocytopenia
+قِلَّةُ الصُّفَيحاتِ الثَّانَوِيَّة	secondary thrombocytopenia
+قِلَّةُ الصُّفَيحاتِ الخَبيثَة	malignant thrombocytopenia
+قِلَّةُ الصُّفَيحاتِ المَجْهولةُ السَّبَب	essential thrombocytopenia / essential thrombopenia
+قِلَّةُ الصُّفَيحاتِ المَناعِيَّة	immune thrombocytopenia
+قِلَّةُ الطَّمْث	hypomenorrhea
+قِلَّةُ العَدِلاَت	neutrocytopenia (neutropenia) / neutropenia
+قِلَّةُ العَدِلاَتِ الأَوَّلِيَّةُ الطِّحالِيَّةُ المنشأ	primary splenic neutropenia
+قِلَّةُ العَدِلاتِ الخَبِيثَة	malignant neutropenia
+قِلَّةُ العَدِلاَتِ الخِلْقِيَّة	congenital neutropenia
+قِلَّةُ العَدِلاَتِ الدَّوْرِيَّة	cyclic neutropenia (periodic neutropenia) / periodic neutropenia
+قِلَّةُ العَدِلاَتِ المَجْهُوْلَةُ السَّبَب ( قِلَّةُ العَدِلاَتِ الخَبيثَة)	idiopathic neutropenia (malignant neutropenia)
+قِلَّةُ العَدِلاَتِ المُحيطِيَّة	peripheral neutropenia
+قِلَّةُ العَدِلاَتِ المُزْمِنَةُ الحَميدَةُ عِنْدَ الأَطْفال	chronic benign neutropenia of childhood
+قِلَّةُ العَدِلاَتِ المُزْمِنَةُ العائِلِيَّةُ الحَميدَة	familial benign chronic neutropenia
+قِلَّةُ العَدِلاَتِ المُزْمِنَةُ النَّاقِصَةُ التَّنَسُّج	chronic hypoplastic neutropenia
+قِلَّةُ العَدِلاَتِ الوَليدِيَّةُ العابِرَة	transitory neonatal neutropenia
+قِلَّةُ العَدِلاَتِ بفَرْطِ نَشاطِ الطِّحال	hypersplenic neutropenia
+قِلَّةُ العَطَش	oligodipsia
+قِلَّةُ العَظْم	osteopenia
+قِلَّةُ العَظْمِ بعَدَمِ الاسْتِعْمال	disuse osteopenia
+قِلَّةُ العَظْمِ بفَرْطِ الدَّرَقِيَّة	hyperthyroid osteopenia
+قلة الغدية الصمية	hypoendocrinia = hypoendocrinism / hypoendocrinism = hypoendocrinia
+قِلَّةُ الغلُوبيناتِ الشَّامِلَة	panglobinopenia
+قِلَّةُ الفِبْرينوجين (فِي الدَّم)	fibrinopenia
+قِلَّةُ الكالْسيُوم	calcipenia
+قِلَّةُ الكُرَيَّات	cytopenia
+قِلَّةُ الكُرَيَّاتِ الإِسْوِيَّة	isohypocytosis
+قِلَّةُ الكُرَيَّاتِ البِيْض	leucopenia / leukocytopenia / leukopenia / oligoleukocythemia (leukopenia) / oligoleukocytosis (leukopenia)
+قِلَّةُ الكُرَيَّاتِ البِيْضِ العَدِلَة	neutrophilic leukopenia (neutropenia)
+قِلَّةُ الكُرَيَّاتِ البِيْضِ القَعِدَة	basophil leukopenia / basophilic leukopenia
+قِلَّةُ الكُرَيَّاتِ البِيْضِ الِلمْفاوِيَّة	lymphocytic leukopenia (lymphocytopenia)
+قِلَّةُ الكُرَيَّاتِ البِيْضِ الوَحيدَة	monocytic leukopenia (monocytopenia)
+قِلَّةُ الكُرَيَّاتِ البِيْضِ اليُوزينِيَّة	eosinophilic leukopenia
+قِلَّةُ الكُرَيَّاتِ الحُمْر	erythrocytopenia / erythropenia
+قِلَّةُ الكُرَيَّاتِ الحُمْر ( فَقْرُ الدَّم)	oligocythemia (anemia) / oligocytosis (anemia)
+قِلَّةُ الكُرَيَّاتِ الشَّامِلَة	panhematopenia
+قِلَّةُ الكُرَيَّاتِ الشَّامِلَة (في الدم)	pancytopenia (panhematopenia)
+قِلَّةُ الكُرَيَّاتِ الشَّامِلَةُ الأَوَّلِيَّةُ الطِّحالِيَّةُ المَنْشَأِ	primary splenic panhematopenia
+قِلَّةُ الكُرَيَّاتِ الشَّامِلَةُ الخِلْقِيَّة	congenital pancytopenia
+قِلَّةُ الكُرَيَّاتِ الشَّامِلَةُ بحَسَبِ فانكوني	Fanconi's pancytopenia
+قِلَّةُ الكُرَيَّاتِ الشَّامِلَةُ بفَرْطِ نَشَاطِ الطِّحَال	hypersplenic pancytopenia
+قِلَّةُ الكُرَيَّاتِ المَوَهِيَّةُ المَنْشَأ	hydro-oligocythemia
+قِلَّةُ الكُلْيُوناتِ وَضَخامَتُها	oligomeganephronia
+قُلَّةُ الكُوبالت	cobalt bomb
+قِلَّةُ اللُّعاب	asialorrhea (hyposalivation) / hyposialosis / oligosialia / sialaporia
+قِلَّةُ اللِّمْفاوِيَّات	lymphocytopenia / lymphopenia
+قِلَّةُ المُحَبَّبات	granulocytopenia / granulopenia
+قِلَّةُ المَواليد	oligonatality
+قِلَّةُ النِّطاف	oligospermatism (oligospermia) / oligospermia / oligozoospermatism / oligozoospermia / spermacrasia / spermatacrasia
+قِلَّةُ النِّطافِ وَتَمَوُّتُها	oligonecrospermia
+قلّة النُّطَف، قلة الحيوانات المنوية	oligospermia
+قِلَّةُ النَّوَّاءات (في النِّقْي)	megakaryocytopenia
+قِلَّةُ الوَحِيْدَات	monocytopenia / monopenia (monocytopenia)
+قِلَّةُ اليُوزينِيَّات	eosinopenia / hypoeosinophilia (eosinopenia)
+قِلَّةُ تَكَوُّنِ الدَّم	anhematosis / anhemopoiesis
+قِلَّةُ حَجْمِ الدَّم	oligemia / oligohemia (oligemia)
+قِلَّةُ حَديدِ الدَّم	oligosideremia
+قِلَّةُ فِبْرينوجينِ الدَّم	fibrinogenopenia
+قِلَّةُ لِمْفاوِيَّاتِ الدَّم	sublymphemia (hypolymphemia)
+قِلَّةُ ماءِ البَول (فَرْطُ تَرْكيزِ البَول)	oligohydruria
+قِلَّةُ ماءِ الجِسْم	hydropenia
+قِلَّةُ هيمُوغْلُوبينِ الدَّم	oligochromemia
+قَلَوانِيّ	alkaloid
+قَلَوانِيٌّ اِصْطِنَاعِيٌّ	artificial alkaloid
+قَلَوانِيٌّ حَيوانِيّ	animal alkaloid
+قِلْوانيّ، قُلْويد	alkaloid
+قَلوص	contractile
+قَلوصِيَّة	contractility
+قَلوصِيَّةُ القَلْب	cardiac contractility
+قَلوصِيَّةٌ غَلْفانِيَّة	galvanic contractility / galvanocontractility
+قَلْوَنَة	alkalization
+قَلْوَنَة؛تَقْلِيَة	alkalinization
+قَلَوِيّ	alkali / alkaline
+قَلَوِيٌّ ثابِت	fixed alkali
+قَلَوِيٌّ خَفِيف ؛ مُقْلَوْلي	alkalescent
+قَلَوِيٌّ طَيَّار	volatile alkali
+قَلَوِيٌّ كاوٍ (كاوي)	caustic alkali
+قِلْويّ، قَلَوِيّ	alkaline
+قَلَوِيَّة	alkalinity
+قلوية الدم	alkalaemia
+قَلَوِيَّةٌ خَفيفَة ؛ اِقْلِيلاء	alkalescence
+قِلَوِيَّة، أَسَاسِيَّة	alkalinity
+قِلْي	alkali / lixivium (lye) / lye
+قِلْي ( كَرْبوناتِ البوتاسيوم)	kali (potash)
+قِلْيٌ أَرْسينِيّ (محلول زرنيخيت البوتاسيوم)	kali arsenicosum (potassium arsenite solution)
+قليدية	cestode
+قَلِيل	oligo-
+قَليلُ االاِخْتِطار	without appreciable risk
+قَليلُ أَطْوارِ النُمُوّ	oligomorphic
+قليل الأسموزية	hypotonic
+قَليلُ الأَعْراض	oligosymptomatic
+قَلِيل الانْحِلال	slightly soluble
+قَليلُ الإِنْزيم	enzymopenic
+قَليلُ البِبْتيد	oligopeptide
+قَليلُ البَول	oliguric
+قَليلُ التَّغْذِيَّة	oligotrophic
+قَليلُ التَّكَلُّس	subcalcareous
+قَليلُ التَّنَسُّج	oligoplastic
+قَليلُ الجينات	oligogene / oligogenics
+قَليلُ الحَديد	sideropenic
+قَلِيْلُ الخَلاَيا	hypocellular
+قَليلُ السُّحوبِيَّة	subextensibility
+قَليل السَّكاريد	oligosaccharide
+قَلِيل السَّكَرِيد	oligosaccharide
+قليل الصدى	hypoechoic
+قَليلُ العُصَيَّات	paucibacillary
+قَليلُ الكالْسيُوم	calcipenic
+قَليلُ الكُرَيَّاتِ البِيْض	leukopenic
+قَليلُ الكُرَيَّاتِ الحُمْر ( فَقِيْرُ الدَّم)	oligocythemic (anemic)
+قَليلُ الكيسات	oligocystic
+قَليلُ المادَّةِ النَّوَوِيَّة	oligopyrene / oligopyrous (oligopyrene)
+قَليلُ المآكِل	oligophagous
+قَليلُ المُحّ	miolecithal / oligolecithal
+قَلِيْلُ المَرَارة	amaroidal
+قَليلُ المَساكِن	parvilocular
+قَليلُ المَشابِك	oligosynaptic / paucisynaptic
+قَليلُ المَعادِن	oligometallic
+قَليلُ المُفاصِل	pauciarticular
+قَليلُ النُّوكليوتيد	oligonucleotide
+قَليلَةُ الإِنْجاب	oligogenesis
+قُلَيْم [ج:قُلَيْمَات]	stilus (stylus) [pl.styli] / stylus [pl.styli]
+قُلَيْمات [ف:قُلَيْم]	stili [sing.stilus]
+قُلَيْمِيَّة (جنس من الأشجار)	Stillingia
+قماءة	cretinism
+قُماشُ الِّلثَة	gum cloth
+قُماص	tasikinesia
+قِماط	swaddler
+قِماطٌ مُفَضَّض (للمحافظة على الحرارة عند الوليد)	silver swaddler
+قَماعيلُ لامبِل (في صمامات القلب)	Lambl's excrescences
+قُمال	lousiness / lousy / morbus pediculosus
+قُمال (داءُ القَمْل)	pediculosis
+قُمالُ الأُرْبِيَّة	pediculosis inguinalis (phthiriasis inguinalis)
+قُمالُ الجِسْم	pediculosis corporis
+قُمالُ الجَفْن	pediculosis palpebrarum
+قُمَالُ الحاجِب	ophryphtheiriasis
+قُمالُ الرَّأْس	pediculosis capillitii (pediculosis capitis) / pediculosis capitis
+قُمالُ العانَة ( قُمالُ الأُرْبِيَّةِ)	pediculosis pubis (phthiriasis inguinalis)
+قُمالُ المَلاَبِس	pediculosis vestimenti / pediculosis vestimentorum
+قمامة	ordure's
+قَمْح؛حِنْطَة	wheat
+قمحدوة (ال...)	inion
+قَمَحْدَوِيّ	iniac / inial
+قمحة	grain
+قَمْحَة (وَزْن)	granum (grain)
+قَمَرِيَّةُ البُذور (جنس نبات من الفصيلة القمرية)	Menispermum
+قُمْز (شَرابٌ مِنْ تَخْميرِ اللَّبَن)	kumiss / kumyss
+قُمْز (شَرابٌ يُسْتَحْضَرُ بِتَخْميرِ اللَّبَن)	koomis / koumiss
+قُمْزٌ كَفيرِيّ	kefir koumiss
+قِمْع	funnel
+قِمْع (ال...)	infundibulum
+قِمْع [أَقْماع]	funnel
+قِمْع الأَنْف	choana
+قِمْعُ البوق (الرَّحِمِيّ)	infundibulum of fallopian tube (infundibulum tubae uterinae) / infundibulum of uterine tube (infundibulum tubae uterinae) / infundibulum tubae uterinae NA
+قِمْعُ الجَيبِ الوَجْهِيّ	infundibulum of frontal sinus
+قمع الدماغ	brain, infundibulum of
+قِمْعُ السَّاق	infundibulum crurale
+قِمْعُ السَّاق ( النَّفَقُ الفَخِذِيّ)	crural infundibulum NA (canalis femoralis)
+قِمْعُ القَلْب (المَخْروطُ الشِّرْيانِيّ)	infundibulum of heart (conus arteriosus)
+قِمْعُ القَلْب (المَخْروطُ القَلْبِيّ)	cardiac infundibulum (conus arteriosis)
+قِمْعُ القَناةِ الدَّمْعِيَّة	infundibulum of lacrimal duct
+قِمْعُ المَثانَة	infundibulum of urinary bladder
+قِمْعُ الوِطاء	infundibulum hypothalami NA / infundibulum of hypothalamus
+قِمْعُ بوِخْنَر	Buchner's funnel
+قِمْع تَرْشِيح	filtering flask
+قِمْعٌ حَنونِيّ	pial funnel
+قِمْع ذُو صُنْبُور	tap-funnel
+قِمْعٌ رِئَوِيّ	infundibulum pulmonum
+قِمْعٌ رِئَوِيّ (قُنَيَّةٌ سِنْخِيَّة)	infundibulum pulmonis (ductulus alveolaris)
+قِمْعُ رِنْفَر (آلة توسيع الاحليل)	Renver's funnel
+قِمْعٌ سِنَانِيٌّ	thistle funnel
+قِمْع طَوِيل السَّاق	long stem funnel
+قِمْع فَصْل	separating funnel
+قِمَعا الأنف الخلفيتان	choana
+قَمَعَة (حشرة من فصيلة الوامئات)	midge
+قَمَعَةُ البوم ( الفاصِدَة)	owl midge (Phlebotomus)
+قُمْعول (نتوء شاذ)	excrescence
+قُمْعولٌ كَمْئِيّ	fungating excrescence / fungous excrescence
+قُمْعولِيّ	excrescent
+قِمْعِيّ	infundibular / kolytic
+قِمْعِيُّ الشَّكْل	choanoid / infundibuliform
+قِمْعِيٌّ حَوضِيّ	infundibulopelvic
+قِمْعِيٌّ مَبيضِيّ	infundibulo-ovarian
+قمعيان (ال...)، خِنَّابة خلفيَّة، مَنْعَر	choana
+قَمْقامَة (جِنْسٌ مِنَ السوس)	gamasid
+قَمْل	lice
+قَمْل [ف:قَمْلَة]	pediculi [sing.pediculus]
+قَمْلُ الأُرْبِيَّة ( قَمْلُ العانَة)	Pediculus inguinalis (Pediculus pubis)
+قَمْلُ الإِنْسان	Pediculus humanus
+قَمْلُ الجِسْم	body louse
+قَمْلُ الخَيل	horse louse
+قَمْلُ الرَّأْس	Pediculus capitis / head louse
+قَمْلُ العانَة	Pediculus pubis / Phthirus pubis / crab (Phthirus pubis) / crab louse (Phthirus pubis) / morpio (morpion) / pubic louse (Phthirus pubis)
+قَمْلُ الماعِز	goat louse
+قَمْلٌ المَلابِس	Pediculus vestimenti / clothes louse
+قَمْلُ جِسْمِ الإِنْسان	Pediculus humanus corporis / Pediculus humanus humanus
+قَمْلُ رَأْسِ الإِنْسان	Pediculus humanus capitis
+قَمْلٌ لادِغ	biting louse
+قَمْلٌ ماصٌّ للدَّم	sucking louse
+قَمْلُ مَلاَبِسِ الإِنْسان	Pediculus humanus vestimentorum
+قملة	louse
+قَمْلَة [ج:قَمْل]	louse [pl.lice]
+قَمْلِيّ	pedicular
+قِمَم	apices
+قِمَم [ف:قِمَّة]	apices [sing.apex]
+قِمّة	apex / peak; apex
+قِمَّة [ج:قِمَم]	apex [pl.apices] / summit
+قِمَّةُ الأُذُن	apex auriculae
+قِمَّةُ الأَنْف	apex nasi NA / summit of nose
+قِمَّةُ البروسْتاتَة	apex prostatae NA (apex of prostate gland)
+قِمَّةُ الجَذْر	root apex
+قِمَّةُ الجُزْءِ الصَّخْرِيِّ للعَظْمِ الصُّدْغِيّ	apex of petrous portion of temporal bone (apex partis petrosae ossis temporalis NA) / apex partis petrosae ossis temporalis NA
+قِمَّةُ الرِّئَة	apex of lung / apex of lung (apex pulmonis NA) / apex pulmonis NA
+قِمَّةُ الرَّأْس	mesocranium (vertex)
+قِمَّةُ الرَّضَفَة	apex of patella (apex patellae NA) / apex patellae NA
+قِمَّةُ الشُّرْفَة [أسنان]	apex cuspidis NA
+قِمَّةُ العَمودِ الخَلْفِيِّ للنُّخاع	apex columnae posterioris medullae spinalis NA
+قِمَّةُ الغُضْروفِ الطِّرْجِهالِيّ	apex cartilaginis arytenoideae NA / apex of arytenoid cartilage
+قِمَّةُ القِحْف	vertex cranii NA
+قِمَّةُ القِحْفِ العَظْمِيّ	vertex cranii ossei / vertex of bony cranium
+قِمَّةُ القَرْنِ الخَلْفِيِّ للنُّخاع	apex cornus posterioris medullae spinalis NA / apex of posterior horn of spinal cord
+قِمَّةُ القَرْنِيَّة	vertex of cornea (vertex corneae NA)
+قِمَّةُ القَلْب	apex cordis NA / apex of heart / apex of heart (apex cordis) / vertex cordis
+قِمَّةُ الكُظْر	apex suprarenalis
+قِمَّةُ اللِّسان	apex linguae NA / apex of tongue (apex linguae)
+قِمَّةُ المَثانَة	apex of bladder / apex vesicae urinariae / summit of bladder / vertex of urinary baldder (vertex vesicae urinariae) / vertex vesicae urinariae
+قِمَّةُ جَذْرِ السِّنّ	apex radicis dentis NA / root apex
+قِمَّةٌ داروينيَّة (قِمَّةُ الأُذُن)	darwinian apex (apex auriculae)
+قمة دودة المخيخ	culmen
+قِمَّةُ رَأْسِ الشَّظِيَّة	apex capitis fibulae NA / apex capituli fibulae (apex capitis fibulae NA) / apex of fibular head / apex of head of fibula (apex capituli fibulae)
+قِمَّةُ عَظْمِ العَجُز	apex ossis sacri NA / apex sacrum (apex ossis sacri NA)
+قِمَّة مُزْهِرَة	flowery top
+قِمِّيّ	apical / apical; apico
+قِمِّيٌّ ذَقَنِيّ	verticomental
+قمىء	cretin
+قميص "مينرفا"	jacket, Minerva
+قميص (جاكيت)	jacket
+قَميصُ التَّقْييد (لتقييد المريض العنيف)	camisole (straitjacket)
+قميص الكتاف	jacket, strait
+قميص جبس	jacket, plaster of paris
+قميص خزفي	jacket, porcelain
+قُمَيعَةُ الطَّبْرَخَى [أسنان]	gutta-percha point
+قُمَيعَةٌ بلاستيكية	plastic point
+قُمَيعَةٌ فِضِّيَّة	silver point
+قُمَيعَةٌ ماصَّة	absorbent point
+قُمَيعَةٌ وَرَقِيَّة ( قُمَيعَةٌ امْتِصاصِيَّة)	paper point (absorbent point)
+قَمِيْن	kiln
+قِمِّية الإفراز، مُفَلَّذة	apocrine
+قِناب	involucre (involucrum) / involucrum
+قِناع [ج:أَقْنِعَة]	mask
+قِناع الأُكسجين	oxygen mask
+قِناعُ الجِراحَة	surgical mask
+قِناعُ الحَمْل ( كَلَف)	gravid mask (melasma) / mask of pregnancy (melasma)
+قِناعُ الزُّهْرِيّ ؛ قِنَاعُ الإفرنجيّ	luetic mask
+قِناعُ المَيِّت (قالَبٌ جِبْسِيٌّ لِوَجْهِ المَيِّت)	death mask
+قِناعُ الوَجْه	full-face mask
+قِناعُ بَارْكِنْسُون (سحنة مريض داء باركنسون)	Parkinson's mask
+قناع تابِسِيّ (قِناعُ هَتْشِنْسون)	tabetic mask
+قِناعٌ ذُو مِقْياس	meter mask
+قِنَاع غَازِيّ	gas mask
+قِناعُ فانْشر (للتبنيج بالاثير)	Wanscher's mask
+قِناعُ فُغْرَةِ الرُغامَى	tracheostomy mask
+قِناعٌ كَدَمِيّ	ecchymotic mask
+قِناع كروشْمان (قناع كان يستعمل سابقاً لاستنشاق بخار التربنتين)	Cruschmann's mask
+قِناعُ كُون (لمرضى السل الرئوي)	Kuhn's mask
+قِناعُ هَتشِنسُون ( قِناعٌ تابسي)	Hutchinson's mask (tabetic mask)
+قِناعٌ وَجْهِيّ	facial mask
+قِناعBLB (بوثبي, لوفيلاك, بلبليان)	BLB mask
+قَناة	canal / canal = canalis / channel / duct / duct; canalis, canal / ductus = duct
+قناة "أرنولد"	canal, Arnold
+قناة "بارثولين"	duct, Bartholin's = ductus sublingualis major
+قناة "بتي" (الأحياز النطاقية)	canal, Petit's
+قناة "فالوب"	Fallopian tube
+قناة "كورتي"	canal, Corti
+قناة "مولر"	duct, of Muller = mulerian duct = ductus parameson
+قناة "هنتري" المقربة	adductor (Hunterian canal)
+قَنَاة (ال...) الأُذَيْنِيّة البُطَيْنِيّة	atrioventricular canal
+قَنَاة (ال...) الأُُربيّة	inguinal canal
+قَناةُ (ال...) الأَنْفِيَّة	nasal duct; nasal canal
+قَناةُ (ال...) الأَنْفِيّةُ البُلْعومِيَّة	nasopharyngeal duct
+قَناةُ (ال...) الأَنْفِيَّةُ الحَنَكِيَّة	nasopalatine duct
+قَناةُ (ال...) الأَنْفِيَّةُ الدَّمْعِيَّة	lacrimonasal duct
+قَناةُ (ال...) البُروسْتاتِيَّة	prostatic duct
+قَناةُ (ال...) البَولِيَّة	urinary canal
+قَناةُ (ال...) الجَبْهِيَّةُ الأَنْفِيَّة	frontonasal duct; nasofrontal duct
+قَناةُ (ال...) الجَنْبِيَّةُ التَّامورِيَّة	pleuropericardial duct
+قَنَاة (ال...) الخَيْشُومِيّة	branchial duct
+قَناةُ (ال...) الدَرَقية اللِسانِية	thyroglossal duct
+قَناةُ (ال...) الرُّصُغِيَّة	tarsal canal
+قَناةُ (ال...) السَّاقِيَّة	crural canal
+قَنَاة (ال...) السَمْعِيّة	auditory canal
+قَنَاة (ال...) السِنْخِيّة	alveolar duct
+قَنَاة (ال...) الشَرْجِيّة	anal canal
+قَنَاة (ال...) الشَرْجِيّة المُسْتَقيمية	anorectal canal
+قَناةُ (ال...) الصَّادِرَة	efferent duct
+قَنَاة (ال...) الصَّدْرِيَّة	thoracic duct
+قَناةُ (ال...) الصَّدْرِيَّةُ اليُمْنَى	right thoracic duct
+قَناةُ (ال...) العَصَبِيَّة	neurocanal
+قَنَاة (ال...) الفَرْجِيَّةُ	vulvar canal
+قَناةُ (ال...) القاطِعِيَّة	incisive duct
+قَناةُ (ال...) القَوقَعِيَّة	cochlear duct
+قَناةُ (ال...) الكَبِدِيَّةُ الأَصْلِيَّة	common hepatic duct
+قَناةُ (ال...) الكَبِدِيَّة الصَّفْراوِيَّة	hepatobiliary duct
+قَناةُ (ال...) الكَبِدِيَّةُ اليُسْرَى	left hepatic duct
+قَناةُ (ال...) الكَبِدِيَّةُ اليُمْنَى	right hepatic duct
+قَناةُ (ال...) الكُيَيسِيَّةُ القُرَيبِيَّة	sacculoutricular duct
+قَناةُ (ال...) اللِّمْفِيَّةُ اليُسْرَى	left lymphatic duct
+قَناةُ (ال...) المُحِيْطَةُ بالأُذُن	periotic duct
+قَناةُ (ال...) المُحِيْطَةُ باللِّمْفِ	perilymphatic duct
+قَناةُ (ال...) المَرْكَزِيّة	central canal
+قَناةُ (ال...) المُقْحَمَة	intercalated duct
+قَنَاة (ال...) المُقَرِّبة	adductor canal
+قَناةُ (ال...) النَّاقِلَةُ للَّبَن	lactiferous duct
+قَناةُ (ال...) النُّخامِيَّة	hypophyseal duct
+قَنَاة (ال...) النكفية	parotid dutc
+قَناةُ (ال...) تَحْتَ اللِّسان	sublingual duct
+قَناةُ (ال...) تَحْتَ اللِّسانِ الكَبيرَة	major sublingual duct
+قَناةُ (ال...) فَوقَ البَصَرِيَّة	supraoptic canal
+قناة - مجرى	aqueductus
+قَناةُ أرانْتيوس ( القَناةُ الوَريدِيَّة)	canal of Arantius (ductus venosus)
+قَناةُ أرانتيوس (القَناةُ الوَريدِيَّة)	duct of Arantius (ductus venosus) / ductus Arantii (ductus venosus)
+قناة استاكيوس	canal, Eustachian / eustachian tube or canal
+قناة استكاسيوس	Eustachian canal
+قَناةٌ إضافِيَّة	accessory canal / accessory canal; accessory duct / accessory duct
+قَناةٌ إِفْرازِيَّة	secretory duct
+قَناةُ الأَبْواغ	sporoduct
+قناة الاتصال	canal, Hensen = Reichert's / canal, reuniens = Reichert's canal
+قَناةُ البَرْبَخ	canal of epididymis / duct of epididymis
+قَناةُ البَرْبَخ، بَرْبَخ	duct of epididymis; epididymal duct; epididymis
+قناة البنكرياس الإضافية	accessory pancreatic duct = accessory duct of Santorini
+قناة الحبل المنوي	canal, spermatic
+قَناةُ الحَلْق (القَناةُ السَّمْعِيَّة)	guttural duct (auditory tube)
+قَناةُ الحُوَيصِلَةِ المَنَوِيَّة	duct of seminal vesicle
+قَناةُ الخُصْيَة (? الأَسْهَر)	testicular duct
+قناة الدمع	duct, lacrimal = canaliculus lacrimalis
+قناة الرحم	duct, ovarian = tube uterina
+قناة الرحم، قناة فالوب	uterus tube; fallopian tube
+قناة الرسغ	canal, carpi
+قناة السباتي	canal, caroticus
+قناة الشرج	canal, anal
+قَناةُ الشَّعْرَة	canal, hiar / hair canal
+قناة الشوكية(ال..)	neural canal
+قَناةُ الصَّفْراء	bile duct / biliary duct / choledochous duct (ductus choledochus) / choledochus / choleductus / common bile duct / common bile duct (ductus choledochus) / duct, common bile = ductus choledocus / ductus biliaris NA (ductus choledochus) / ductus choledochus NA / gall duct
+قناة الصلبة	canal, scleral = scleroticochoroidal
+قَنَاة الطَعَام، قَنَاة هَضْمِيّة	alimentary canal
+قناة العرق	duct, suderiferous = sweat duct = ductus suderifer
+قناة العصب البصري	canal, optic = canalis opticus
+قَناةُ العَضَلَةِ القاطِعَة	incisive canal
+قَناةُ الغُدَّةِ البَصَلِيَّةِ الإِحْليلِيَّة	ductus glandulae bulbourethralis NA
+قَناةُ الغُدَّةِ التَّنَاسُلِيَّة	gonaduct
+قَنَاةُ الغُدَّةِ تَحْتَ الفَكِّ	submandibular duct
+قَناةُ الفَتْق	hernial canal
+قَنَاة الفَكّ السفليّ	mandibular canal
+قَنَاةُ الفَكِّ العُلْوِيِّ	maxillary canal
+قَناةُ القاطِعَة	incisive duct
+قناة القوقعة	cochlear duct
+قَناةُ الكُلْوَةِ البِدائِيَّة (قَناةُ سِليفَةُ الكُلْوَة)	archinephric duct (pronephric duct)
+قَناةُ الكُلْوَةِ الجَنينِيَّةِ التَّالِيَة	metanephric duct
+قَناةُ الكُلْوَةِ الجَنينِيَّةِ المَوَسَّطَة	ductus mesonephricus NA / mesonephric duct
+قَناةُ الكُلْوَةِ الجَنينِيَّةِ المُوَسَّطَةِ الإِضافِيَّة	ductus paramesonephricus NA / paramesonephric duct
+قَناةُ الكُلْوَةِ الجَنينِيَّةِ المُوَسَّطَةِ المُسْتَدِيْمَة	persistent mesonephric duct
+قَناةُ اللِّسان	lingual duct
+قناة اللعاب	duct, salivary
+قَناةُ اللِّمْفِ الباطِن	ductus endolymphaticus NA
+قَناةُ اللِّمْفِ الظَّاهِر	ductus perilymphaticus NA
+قناة اللمفاوية اليمنى(ال..)	right lymphatic duct
+قَناةُ المَبَاض	duct of epoophoron
+قَناةُ المَبَاضِ الطُّولاَنِيَّة	ductus epoophori longitudinalis NA / longitudinal duct of epoophoron
+قناة المبيض	oviduct
+قناة المجمع	duct, cloacal
+قَنَاةُ المُعْطَيات	data channel
+قَناةُ المَهْبِل	vaginal canal
+قَناةُ النُّخاعِ المَرْكَزِيَّة [جنين]	myelocoele
+قَناةُ النِّقْي	medullary canal
+قناة الهضم	alimentary canal
+قَنَاةُ الوِلاَدَة	birth canal / canal, birth / obstetric canal (birth canal) / parturient canal (birth canal)
+قَناةٌ إِنْفاذِيَّة	thoroughfare channel
+قَناةٌ أَنْفِيَّةٌ حَنَكِيَّة	nasopalatine canal
+قَنَاة أنْفِيّة دَمعِية	nasolacrimal duct
+قَناةُ أوكن (قَناةُ الكُلْوَةِ الجَنينِيَّةِ المُوَسَّطَة)	canal of Oken (ductus mesonephricus)
+قَناةُ بَارتولين (القَناةُ تَحْتَ اللِّسانِيَّةِ الكَبيرَة)	Bartholin's duct (ductus sublingualis major)
+قَناةُ براون ( القَناةُ العَصَبِيَّةُ المِعَوِيَّة)	Braun's canal (neurenteric canal)
+قَناةُ بِرنار ( قَناةُ البَنْكرياسِ الإِضافِيَّة)	Bernar's duct (ductus pancreaticus accessorius)
+قَناةٌ بَصَرِيَّة	optic canal
+قَناةُ بلازيوس (القَناةُ النَّكَفِيَّة)	Blasius' duct (ductus parotideus)
+قَناةٌ بَنْكرِياسِيَّة	pancreatic duct
+قَناةُ بوتالو (القَناةُ الشِّرْيانِيَّة)	duct of Botallo (ductus arteriosus)
+قَناةُ بوكدالك (القَناةُ الدَّرَقِيَّةُ اللِّسانِيَّة)	Bochdalek's duct (ductus thyroglossalis)
+قَناةُ بيتي (الحَيِّزُ النُّطَيقِيُّ)	Petit's canal (spatia zonularia)
+قَناةُ بيشا ( الصِّهْريجُ الوَريدِيُّ الكَبيرُ لِلدِّماغ)	Bichat's canal (cisterna venae magnae cerebri)
+قَناةُ بيكيت (القَناةُ الصَّدْرِية)	duct of Pecquet (thoracic duct)
+قَنَاةُ تَصْرِيْفٍ	sluice
+قَناةٌ تَناسُلِيَّة	genital canal / genital duct
+قَناةُ تَيلِه (الجَيْبُ التأمورِيُّ المُسْتَعْرِضُ)	Theile's canal (sinus transversus pericardii)
+قَناةٌ جَناحِيَّة	pterygoid canal
+قَناةٌ حُلَيمِيَّة	ductus papillaris NA
+قناة حمل الأنثى	canal, gynecophorous
+قناة دمعية أنفية	duct, nasolacrimal = ductus nasolacrimalis
+قَناةٌ دَوَرانِيَّة	circulatory canal
+قَناةُ راتكِه (في الجنين)	Rathke's duct
+قَناةُ رايخيرت (القَناةُ الاتِّحادِيَّة) (بَيْنَ الكُيَيْس والقُرَيْبَة)	Reichert's canal (ductus reuniens)
+قَناةُ روكيتانسكي-أشوف (في المَرارَة)	Rokitansky-Aschoff duct
+قَناةُ ريفينيوس (القَناةُ تَحْتَ اللِّسانِ الصَّغيرَة)	duct of Rivinus (ductus sublingualis minoris NA)
+قَناةٌ زائِغَة	aberrant duct / duct, aberrant = ductus aberrans / ductus aberrans
+قَناةٌ زُهْمِيَّة	sebaceous duct
+قَناةُ سانتوريني	duct of Santorini
+قَناةُ سانْتورينِي (القَناةُ البَنْكِرْياسِيَّةُ الإِضافِيَّة)	Santorini's canal (ductus pancreaticus accessorius) / duct of Santorini (ductus pancreaticus accessorius)
+قَناةُ ستينسين (القَناةُ النَّكَفِيَّة)	Stensen's canal (ductus parotideus) / Stensen's duct (ductus parotideus)
+قَناةُ ستِينو (القَناةُ النَّكَفِيَّة)	canal of Steno (ductus parotideus) / duct of Steno (ductus parotideus)
+قناة سقائية	duct, allantoic
+قَناةٌ سِقائِيَّة (سُوَيقَةُ السِّقاء)	allantoic duct (allantoic stalk)
+قناة سلفيوس	aqueduct of sylvius
+قَناةُ سَليفَةِ الكُلْوَة	pronephric duct
+قَناةٌ سِنْخِيَّة	alveolar canal / duct, alveolar
+قَناةٌ سِنْخِيَّةٌ سِنِّيَّة	alveolodental canal
+قَناةٌ سِنِّيَّة	dental canal
+قَناةٌ سِنِّيَّةٌ خَلْفِيَّة	posterior dental canal
+قَناةُ سوكيه-هوير (تَفاغُرُ سُوكيه- هُويَر) (تفاغرات وريدية شرينية في لب الأصبع)	Sucquet-Hoyer canal (Sucquet-Hoyer anastomosis)
+قَناةٌ شَحْمِيَّة (قَناةٌ زُهْمِيَّة)	adipose duct (sebaceous duct)
+قَناةٌ شِرْيانِيَّةٌ سالِكَة	patent ductus arteriosus
+قَناةٌ شِرْيانِيَّةٌ مُسْتَدِيْمَة	persistent ductus arteriosus
+قَناةٌ شِرْيانِيَّةٌ مَعْكوسَة	reversed ductus arteriosus
+قَنَاة شليم	Schlemm's canal; canal of Schlemn
+قَناةُ شليم (الجَيبُ الوَريدِيُّ لِلصُّلْبَة)	Schlemm's canal (sinus venosus sclerae NA)
+قناة شليم = المشبر الصلبي الوريدي	canal, Schlemm's = sclerosis canal
+قناة شوكية	spinal canal
+قناة صدرية	duct, thoracic = ductus thoracicus
+قَناةٌ عَجُزِيَّة	sacral canal
+قَناةٌ عَرَقِيَّة	sudoriferous duct / sweat duct
+قَنَاةُ عُنُقِ الرَّحِم	canalis cervicis uteri NA / cervical canal of uterus / uterocervical canal
+قَنَاةٌ عُنُقِيَّةٌ	cervical canal
+قَنَاةٌ عُنُقِيَّةٌ، قَناةُ (ال...) الرَّقَبِيَّة	cervical canal; cervical duct
+قَناةُ غارتنر (القَناةُ المَبَاضِيَّةُ الطُّولاَنِيَّة)	Gartner's canal (ductus epoophori longitudinalis)
+قَناةُ غارتنر (قَناةُ المَبَاضِ الطُّولاَنِيَّة)	Gartner's duct (ductus epoophorontis longitudinalis)
+قَناةُ غاسِّر (قَناةُ الكُلْوَةِ الجَنينِيَّةِ المَوَسَّطَةِ الإِضافِيَّة)	gasserian duct (ductus paramesonephricus)
+قَناةُ فاتَر (القَناةُ الدَّرَقِيةُ اللِّسانِيَّة)	duct of Vater (ductus thyroglossalis)
+قناة فالوب، بوق فالوب	fallopian tube
+قَناةُ فان هورن (القَناةُ الصَّدْرِيَّة)	Van Hoorne's canal (ductus thoracicus NA)
+قَناةُ فِرَّانْ (? التُّرْعَةُ الدَّمْعِيَّة)	Ferrein's canal
+قَناةُ فيرشونغ (القَناةُ البَنْكِرْياسِيَّة)	duct of Wirsung (ductus pancreaticus)
+قَناةٌ قاطِعِيَّة	incisal canal
+قَنَاة قُرَيبيّة كُيَيْسِية	utriculosaccular duct
+قَناةُ كوبر (قَناةُ الغُدَّةِ البَصَلِيَّةِ الإِحْليلِيَّة)	cowperian duct (ductus glandulae bulbo-urethralis) / ductus cowperi (ductus glandulae bulbourethralis)
+قَناةُ كُوتُونْيُوس	canal of Cotunnius
+قَناةُ كُوشْفِيتز (فَوقَ سَطْحِ اللِّسان)	Coschwitz'duct
+قَناةُ كوفالفسكي (القَناةُ العَصَبِيَّةُ المِعَوِيَّة)	Kovalevsky's canal (neurenteric canal)
+قَناةُ كوفييري (الوَريدُ الأَصْلِيُّ الرَئيسِيّ)	ductus cuvieri (common cardinal vein)
+قَناةُ كوفييه (القَناةُ الوَريدِيَّة)	canal of Cuvier (ductus venosus)
+قَناةُ لايديغ (قَناةُ الكُلْوَةِ الجَنينِيَّةِ المُوَسَّطَة)	Leydig's duct (ductus mesonephricus)
+قَناةٌ لُبِّيَّة	pulp canal
+قَناةٌ لُعابِيَّة	salivatory duct
+قَناةٌ لُقْمِيَّة	condylar canal
+قناة لمفاوية	lymphatic duct
+قَناةُ لُوفينْبِرغ (القَناةُ القَوقَعِيَّة)	Lowenberg's canal (ductus cochlearis)
+قَناةُ مَحْمِلِ الأُنْثَى (فِي البِلْهارْسِيَّات)	gynecophoral canal / gynecophorous canal
+قناة محيّة	yolk duct
+قَناةٌ مَرْكَزِيَّة	central channel
+قناة مساريقية سرية	duct, omphalomesentric
+قَناةُ مَسَمِّ الأُرَيمَة ( القَناةُ العَصَبِيَّةُ المِعَوِيَّة)	blastoporic canal (neurenteric canal)
+قَناةٌ مَصْلِيَّة ( شُعَيرَةٌ لِمْفِيَّة)	serous canal (lymphatic capillary)
+قَناةٌ مُفْرِزَة	secretory duct
+قَناةٌ مُفْرِغَة	ductus excretorius NA / excretory duct
+قناة ملحقة	duct, accessory
+قناة منوية	seminal duct / spermatic duct; spermiduct
+قَناةُ مولَر (قَناةُ الكُلْوَةِ الجَنينِيَّةِ المَوَسَّطَةِ الإِضافِيَّة)	duct of Muller (ductus paramesonephricus) / ductus muelleri (ductus paramesonephricus)
+قَناةُ مُولَّر (قَناةُ الكُلْوَةِ الجَنينِيَّةِ المُوَسَّطَة)	Muller's canal (ductus paramesonephricus NA)
+قناةٌ ناقِلَةٌ للَّبَن	lactiferous duct
+قَناةُ نوك (النَّاتِىءُ الغِمْدِيُّ الصِّفاقِيُّ)	canal of Nuck (processus vaginalis peritonei NA)
+قَناةُ هالَر الزَّائِغَة	ductus aberrans halleri
+قَناةُ هالَّر المُنْحَرِفَة (في البَرْبَخ)	Haller's aberrant duct
+قَناةُ هانُوفر (في الرباط المعلق للعدسة) (الحَيِّزُ النُّطَيقيّ)	Hannover's canal (spatium zonulare)
+قَناةُ هنسن (القَناةُ الاتِّحادِيَّة) (بين القُرَيْبَة والكُيَيْس)	Hensen's canal (ductus reuniens NA)
+قَناةُ هنسن (القَناةُ المُوَحِّدَة) (في الأذن الباطنة)	Hensen's duct (ductus reuniens)
+قَناةُ هوغيير (المَعْبَرُ الأَمامِيُّ للحَبْلِ الطَّبْلِيِّ)	Huguier's canal (iter chordae anterius)
+قَناةُ هِيس (القَناةُ الدَّرَقِيَّةُ اللِّسانِيَّة)	His' canal (ductus thyroglossus) / duct of His (ductus thyroglossus)
+قَناةُ و الثَر (القَناةُ تَحْتَ اللِّسانِ الصَّغيرَة)	Walther's duct (ductus sublinguales minores NA)
+قَناةُ وارطون	Wharton's duct
+قَناةُ وارطون (? قَناةُ الغُدَّةِ تَحتَ الفَكِّ)	submaxillary duct of Wharton
+قَناةُ وارطون (قَناةُ الغُدَّةِ تَحْتَ الفَكِّ)	Wharton's duct (ductus submandibularis)
+قَناةٌ وِعائِيَّة	vascular canal
+قَناةُ وولف (قَناةُ الكُلْوَةِ الجَنينِيَّةِ المُوَسَّطَة)	duct of Wolff (ductus mesonephricus) / ductus Wolffi (ductus mesonephricus) / wolffian duct (ductus mesonephricus)
+قَناةُ ويرسنغ (القَناةُ البَنْكِرْياسِيَّة)	canal of Wirsung (ductus pancreaticus NA)
+قِنَّب (ال...) الهنديّ	cannabis indica
+قِنَّب (نبات من الفصيلة القنبية)	hemp
+قُنْدٌ	gonad
+قُنْدُرِيَّة (جِنْسٌ مِنَ الحَلَزونات)	Chondrina
+قُنْدُسٌ	beaver
+قُنْدِيّ	gonadal
+قَنْديلَة (وَحْدَةُ الإِنارَة)	candela
+قَنْزَعِيُّ الأَسْنان	lophodont
+قنزعي عقبي	calcaneoastragaloid
+قَنْطَرْيُونٌ أَحْمَر (جِنْسُ نَباتٍ مِنَ الفَصيلَةِ الجَنْطِيانِيَّة)	Erythraea
+قُنْفُذ (أحد الحيوانات الآكلة للحشرات)	hedgehog
+قُنَن [ف:قُنَّة]	culmina [sing.culmen]
+قُنَّة (قمة النبات)	cacumen
+قُنَّة [ج:قُنَن]	culmen NA [pl.culmina]
+قُنَّةُ الرِّئَةِ اليُسْرَى	culmen of left lung / culmen pulmonis sinistri NA
+قنَّةُ المُخَيخ	culmen cerebelli NA / culmen of cerebellum
+قَنَوَات	canals
+قنوات "هنلي"	canal, Henlés
+قَنَوات [ف:قَناة]	canaux
+قَنَواتُ البُروسْتاتة	prostatic ducts
+قَنَواتُ الدَّمْع	tear ducts
+قَنَواتُ الغُضْروف	canals of cartilage
+قنوات اهلالية	semi-circular canals
+قَنَوَات بَينِية	intercalated ducts
+قنوات حاملة الكلس	canals, calciferous
+قَنَواتٌ حَلَمِيَّة (نُبَيباتُ الكُلْيَةِ المُسْتَقيمَة)	papillary ducts (tubuli renales recti)
+قَنَوَاتٌ داخِلَ الفُصَيص	intralobular ducts
+قَنَواتُ رِكْلِنْغْهاوزِن (أحياز لمفية في النسيج الضام)	canals of Recklinghausen
+قَنواتُ ريفينيوس (القَنواتُ الصَّغيرَة تَحتَ اللِّسَانِ)	canals of Rivinus (ductus sublinguales minores)
+قَنَواتُ سكين (القَنَواتُ المُجَاوِرَةُ للإِحْليل)	Skene's ducts (ductus paraurethrales)
+قَنَواتُ سُونْدَرْمان (في الجيب الوريدي لصلبة العين)	Sondermann's canals
+قَنَواتُ شولَر (القَنَواتُ المُجَاوِرَةُ للإِحْليل)	Schuller's ducts (ductus paraurethrales)
+قَنَوَات صَفْرَاوِيّة	bile ducts
+قَنَواتِ غُدَّةِ البُروسْتاتَة	ducts of prostate gland
+قَنَوَاتٌ فَصِّيَّة	lobar ducts
+قَنَواتُ فِيرْنُوي (وعاء رادف لجذع وريدي)	Verneuil's canals
+قَنَواتُ كُوفييه (في الجنين)	duct's of Cuvier
+قَنَوَات لِمْفِيّة	lymph ducts
+قَنَواتُ لوشكا (خَبايا لوشكا) (في المَرارَة)	Luschka's ducts (Luschka crypts)
+قَنَواتٌ مُقْحَمَة	intercalated ducts
+قَنَوَات نِصف دَائرية	semicircular canals
+قَنَواتُ هِنْلِي (عُرَى هِنْلِي)	Henle's canals (Henle's loops)
+قَنَواتُ هولمغرين-غولجي (القَنَواتُ داخِلَ الهَيُولَى)	Holmgren-Golgi canals (intracytoplasmic canals)
+قَنَوَات هِيرنْك	canals of Hering
+قَنَواتُ هِيرِينْغ (في القنيات الصفراوية)	canals of Hering
+قَنَوِيّ	ductal / ductal; canalicular
+قَنَوِيَّاتُ المَعاقِص (مجموعة من الحيَّات)	Solenoglypha
+قُنِّيّ	culminal
+قٌنَيّات	canaliculi
+قُنيّات (ال...) الدَمْعِيّة	lacrimal canaliculi
+قُنَيَّاتُ (ال...) الزَّائِغَة	aberrant canals
+قُنَيَّاتُ (ال...) الصَّفْراوِيَّة	bile canaliculi; biliary ducts
+قُنَيَّات [ف:قُنَيَّة]	ductuli [sing.ductulus]
+قُنَيَّاتُ البُروسْتاتة	ductules of prostate
+قنيات الخصية	effernt ductuls of testis
+قُنَيَّاتُ الخُصْيَةِ الصَّادِرَة	ductuli efferentes testis NA
+قُنَيَّاتُ الصَّفْراء	bile canalicules / bile ductules / biliary ductules / canaliculus, bile
+قُنيات العظم	bone, canalicus of / canalicules of bone
+قُنَيَّاتُ المَبَاضِ المُسْتَعْرِضَة	ductuli transversi epoophori NA / transverse ductules of epoophoron
+قُنَيَّاتُ بِلِّيني ( النُّبَيباتُ الكُلْوِيَّةُ المُسسْتَقيمَة)	Bellini's ducts (tubuli renalis recti)
+قنيات دمعية	ductuls, lacrimal
+قُنَيَّاتٌ زائِغَة (=أي الخصية)	aberrant ductules; aberrant canaliculi
+قُنَيَّاتٌ زائِغَة (في الخصية)	aberrant ductules
+قُنَيَّاتٌ سِنْخِيَّة	alveolar ductules / ductuls, alveolar = ductuli alveolares
+قنيات صفراوية	bilecanaliculus / ductuls, bile = biliary ductuls = ductuli biliferi
+قُنَيْدات [ف:قُنَيدَة] (الأجزاء المتحركة والمتوالدة من بعض الجراثيم والأشنيات)	gonidia [sing.gonidium]
+قُنَيْدَة (الجزء المتحرك والمتوالد من بعض الجراثيم والأشنيات)	gonidium
+قُنَيْدِيَّة (خلية تحوي قُنَيدَة)	gonidangium
+قُنَيْدِيَّةٌ داخِلِيَّة (في الأشنيات)	endogonidium
+قِنِّيْنَة	vial
+قِنِّينَة [ج:قَنانِي]	phial (vial)
+قِنِّينَة الـحَقْن	injection vial
+قُنَيَّة	canaliculus / cannula / canula (cannula) / ductul = ductulus
+قُنيَّة (ال...) الأمَامِيّة	anterior canaliculus
+قُنية (ال...) الخُشُّائية	mastoid canaliculus
+قُنَيَّة [ج:قُنَيَّات]	ductule / ductulus NA [pl.ductuli]
+قُنَيَّةُ آرنولد اللاَّمُسَمَّاة (الثُّقْبَةُ الصَّخْرِيَّة)	canaliculus innominatus of Arnold (foramen petrosum)
+قُنَيَّةٌ إِفْرازِيَّة	secretory canaliculus
+قُنَيَّةُ الإِرْواء	irrigation cannula
+قُنَيَّةُ التَّرْوِيَة	perfusion cannula
+قُنَيَّةُ التَّسْريب	infusion cannula
+قُنَيَّةُ الغَسيل	washout cannula
+قنية القوقعة	canaliculus, cochleae
+قُنَيَّةٌ بُطَينِيَّةٌ	ventricular cannula
+قُنَيَّةُ بِيلْكوك	Bellocq's cannula
+قُنَيَّةُ تَرنْدِلِنْبورْغ (للرغامى)	Trendelenburg's cannula
+قُنَيَّةُ تِيرْش	Thiersch's canaliculus
+قُنَيَّةٌ زائِغَةٌ عُلْوِيَّة (في الخصية)	superior aberrant ductule
+قُنَيَّةُ شتْراوِس	Strauss cannula
+قُنَيَّةٌ صَفْراوِيَّة	cholangiole
+قُنَيَّةٌ صَفْراوِيَّةُ كاذِبَة (في تشمع الكبد)	pseudobile canaliculus
+قُنَيَّةٌ قِمِّيَّة (في الخلايا الكلوية)	apical canaliculus
+قُنَيَّةٌ لِينْدِمان	Lindemann's cannula
+قُنَيَّةٌ مُسْتَكْشِفَةٌ	exploring cannula
+قنية، ميزاب	nozzle
+قُنَيوات	ductuli
+قُنيوات صَفْرَاوِيّة	bile ductules
+قَهْر	compulsion (compulsive act)
+قَهْرُ التَّجْميع	collecting compulsion
+قَهْرُ التَّحَقُّق	check compulsion
+قَهْرُ التَّفْكير	thinking compulsion
+قَهْرُ التَّكْرار	repetition compulsion
+قَهْرٌ مُقَنَّع	masked compulsion
+قَهْرِيّ	compulsive
+قَهْقَهَة	cachinnation
+قَهْقَهَةٌ قَسْرِيَّة	forced laughter
+قهقهة قَهْرِيَّةٌ	compulsive laughter
+قَهْقَهَةٌ وَسْواسِيَّة	obsessive laughter
+قَهَم ؛ فَقْدُ الشَّهِيَّة	anorexia
+قَهَمٌ عُصابِيّ	anorexia nervosa
+قَهَمٌ كاذِب ( القَهَمُ العُصابِيّ)	pseudoanorexia (anorexia nervosa)
+قَهَمٌ هيسْتيرِيّ	hysterical anorexia
+قَهَمِيّ	anorectic; anorexic / anorexic (anorectic)
+قَهْوَة	coffee
+قَهْويول	kahweol
+قواصر الشعر	bleachers, hair
+قواطع	incisors
+قَواطِعُ الفَكِّ العُلْوِيِّ	maxillary incisors
+قَواطِعٌ شَبيهَةٌ بالمِجْرَفَة	shovel-shaped incisors
+قَواطِعُ هَتشِنسُون (قواطع مثلمة وضيقة الحواف)	Hutchinson's incisors
+قَواعِد ؛ قاعِدات [ف:قاعِدَة]	bases
+قَواعِدُ المَراهِم	ointment bases
+قَواعِدُ آلوكسورية ( قَواعِدُ بُورينِيَّة)	alloxur bases (purine bases) / alloxuric bases (purine bases)
+قَواعِدُ بُورينِيَّة	purine bases
+قَواعِدُ بِيريميدينِيَّة [كيمياء]	pyrimidine bases
+قوَاعِد تَجْرِيبِيَّة	experimental basis
+قَواعِدُ زانْثينِيَّة ( قَواعِدُ بُورينِيَّة)	xanthine bases (purine bases)
+قَواعِدُ شِيلاكِيَّة (صِمْغِيَّة)	shellac bases
+قَواعِدُ مَرْهَمِيَّةٌ مُمْتَصَّة	absorption ointment bases
+قَواعِدُ نُوكْليئِينِيَّة ( قَواعِدُ بورينِيَّة)	nuclein bases (purine bases)
+قَواعِدُ هِسْتونِيَّة	histone bases
+قَواعِدُ هِكْسونِيَّة	hexone bases
+قِوَام	consistence
+قِوَام نِصْف صُلْب	semi-solid consistency
+قَوِانينُ الأَحْيَاء	organonomy
+قَوانينُ الدِّيناميكا الحَرارِيَّة	laws of thermodynamics
+قَوانين المُطابَقَة [أسنان]	laws of articulation
+قَوَانِين المَطْرُوحَات	disposal regulation
+قُوْب [أسنان]	cope / coping
+قُوْبٌ طَويل	long coping
+قُوْبٌ قَصير	short coping
+قُوْبٌ نَقْلِيّ	transfer coping
+قُوبا، إكْزيمة	eczema
+قُوْبَاء	impetigo
+قوباء (ال...)	impetigo
+قَوْباءُ إِكْزيمِيَّةُ الشَّكْل	impetigo eczematoides
+قُوْبَاءُ الرُّكْبَة (في الخَيْل)	sellanders (malanders)
+قَوْباءُ العِقْدِيَّات	impetigo streptogenes
+قَوْباءُ العُنْقودِيَّات ( قَوْباءُ فُقَّاعِيَّة)	staphylococcal impetigo (bullous impetigo) / staphylococcic impetigo (bullous impetigo)
+قَوْباءُ الوَليد	impetigo neonatorum (impetigo bullosa)
+قَوْباءُ بَسيطَة	impetigo simplex
+قَوْباءُ بوكهارت ( الإلْتِهابُ القَيحِيُّ السَّطْحِيُّ المُحِيْطُ بالجُرَيبات)	Bockhart 's impetigo (superficial pustular perifolliculitis)
+قَوْباءُ تَلْفيفِيَّةٌ سَارِيَة	impetigo contagiosa gyrata
+قَوْباءُ جافَّة	impetigo sicca
+قَوْباءُ جُرَيبِيَّة	impetigo follicularis
+قَوْباءُ دُخْنِيَّة ( الدُّخْنِيَّةُ البَثْرِيَّة)	miliary impetigo (pustular miliaria)
+قَوْباءُ سَارِيَة	impetigo contagiosa
+قَوْباءُ شائِعَة ( قوباءٌ سَارِيَة)	impetigo vulgaris (contagious impetigo)
+قَوْباءُ طُفَيلِيَّة	impetigo parasiticus
+قَوْباءُ فُقَّاعِيَّة	bullous impetigo / impetigo bullosa (bullous impetigo)
+قَوْباءُ فُقَّاعِيَّةٌ سَارِيَة	impetigo contagiosa bullosa
+قَوْباءُ مُتَحَلِّقَة	impetigo circinata
+قَوْباءُ مُتَناظِرَةٌ مُزْمِنَة	chronic symmetric impetigo
+قَوْباءُ نُخالِيَّة ( النُّخالِيَّةُ البَيضاء)	impetigo pityroides (pityriasis alba)
+قَوْباءُ هِرْبسيَّةُ الشَّكْل	impetigo herpetiformis
+قَوْبائِيّ	impetiginous
+قُوْتٌ مُنْخَفِضُ المِلْح	low salt diet
+قُوت، نظام غذائيّ	diet
+قُوتيّات (ال...)	dietetics
+قَوس	arc / arch; arcade / arcus [pl.arcus] / bow
+قَوس (ال...) الحَاجِبيّ	supercilliary arch
+قَوسُ (ال...) الحَرْقَفِيَّةُ العانِيَّة	arcus iliopectineus na
+قَوسُ (ال...) الحَنَكِيَّة	palatine arch
+قَوسُ (ال...) السِنْخِيّ	alveolar arch
+قَوسُ (ال...) السِّنِّيَة	dental arch
+قَوسُ (ال...) العَصَبِيَّةُ للفِقْرَة	neural arch of vertebra
+قَوسُ (ال...) الفِقْرِيَّة	vertebral arch
+قَوسُ (ال...) الفَكَيّ	mandibular arch
+قَوسُ (ال...) الوَجْنِيّ	zygomatic arch
+قَوس [ج:أَقْواس]	arch
+قَوسُ الأَبْهَر	arch of aorta / arcus aortae NA
+قَوسُ الأَبْهَرُ المُزْدَوِجَة	double aortic arch
+قَوسُ الأَخْمَص	plantar arch
+قَوسُ الأَسْنان	arcus dentalis NA / dental arch
+قَوسُ الأَسْنانِ السُّفْلِيَّة	arcus dentalis inferior NA / inferior dental arch
+قَوسُ الأَسْنانِ العُلْوِيَّة	arcus dentalis superior NA
+قَوسُ الأَسْنانِ العُلْوِيَّة [أسنان]	superior dental arch
+قَوسُ الأَضْلاع	arch of ribs (arcus costalis) / arcus costalis NA (arcus costarum)
+قوس الأورطي - قوس الوتين - قوس الأبهر	aortic arch
+قَوسُ التَّوسيع [أسنان]	expansion arch
+قَوْسُ الجِسْرِ الثَّابِت	span bridge arch
+قَوسُ الجَفْنِ السُّفْلِيّ	inferior palpebral arch / inferior palpebral arch (arcus palpebralis inferior NA)
+قَوسُ الجَفْنِ العُلْوِيّ	superior palpebral arch (arcus palpebralis superior NA)
+قَوسُ الحاجِب	arcus superciliaris NA
+قَوسُ الحَنَك	palatal arch
+قَوسُ الحَوض	arch of pelvis
+قَوسُ الرُّسُغِ الأَمامِيَّة	anterior carpal arch
+قَوسُ الرُّسُغِ الخَلْفِيَّة	posterior carpal arch
+قوس السن	curve, dental
+قوس الشيخوخة	gerontotoxon = gerontoxon = arcus senilis
+قوس الشيخوخة بالعدسة	arcus senilis lentis
+قوس الشيخوخة بالقرنية	arcus senilis cornea / cornea, arcus senilis
+قَوسُ الضِّلْع	costal arch
+قَوسُ العانَة	arch of pubis / arcus pubicus NA / arcus pubis NA
+قوس الغضروف الجفن العلوي	arcus tarseus, superior
+قوس الغضروف الجفني السفلي	arcus tarseus, inferior
+قَوسُ الغُضْروفِ الحِلْقِيّ	arch of cricoid cartilage / arcus cartilaginis cricoideae NA
+قَوسُ الفَكِّ السُّفْلِيّ	mandibular arch
+قَوسُ الفَكِّ العُلْوِيِّ	maxillary dental arch
+قَوسُ القَرْنِيَّة	embryotoxon (arcus corneae)
+قَوسُ القَرْنِيَّةِ الأَمامِيَّة	anterior embryotoxon
+قَوسُ القَرْنِيَّةِ الخَلْفِيَّة	posterior embryotoxon
+قَوسُ القَناةِ الصَّدْرِيَّة	arcus ductus thoracici
+قوسُ المُنْعَكَس	reflex arch
+قَوسُ المُنْعَكَسِ الذَّاتِيّ	autonomic reflex arc
+قَوسُ الوَريدِ الفَرْد	arcus venae azygous NA
+قَوسُ الوَريدِ الوِداجِيّ	arcus venosus jugularis NA
+قَوسٌ أُنْشُوطِيَّة [جنين]	paraphyseal arch
+قَوسٌ انْعِكاسِيَّة	reflex arc
+قَوسٌ بشَكْلِ V [أسنان]	V-shaped arch
+قَوسٌ بَطْنِيَّةٌ صَدْرِيَّة	abdominothoracic arch
+قَوسٌ بُلْعومِيَّةٌ لِسَان مِزْمَارِيَّة (القَوسُ الحَنَكِيَّةُ البُلْعومِيَّة)	pharyngoepiglottic arch (arcus palatopharyngeus NA)
+قَوسُ بِيرنْبِرْغ (لولب رحميّ)	Birnberg bow
+قَوسُ بَينَ الأُذُنَين	auricular arc
+قَوسُ ترايتْز (بين الشريان القولوني العلوي والوريد المساريقي السفلي)	Treitz's arch
+قَوسُ تُرْسِ الجَفْن (قَوسُ الجَفْنِ السُّفْلِيّ)	tarsal arch (arcus palpebralis inferior NA)
+قَوسُ تُرْسِ الجَفْنِ السُّفْلِيّ	arcus tarseus inferior (arcus palpebralis inferior NA)
+قَوسُ تُرْسِ الجَفْنِ العُلْوِيّ	arcus tarseus superior (arcus palpebralis superior NA)
+قَوسٌ تَفاغُرِيَّة	anastomotic arch
+قَوسٌ تَفاغُرِيَّة (لِلأَوعِيَة)	anastomotic arch
+قَوسٌ تَنْغِسْتينِيَّة	tungsten arc
+قَوسٌ حاجِبِيَّة	superciliary arc
+قَوسٌ حِسِّيَّةٌ حَرَكِيَّة (القَوسُ العَصَبِيَّة)	sensorimotor arc (neural arc)
+قَوسٌ حَنَكِيَّة	arcus palatini
+قَوسٌ خَيْشُومِيَّة	branchial arch
+قَوسٌ دَمَوِيَّة (عند الحيوانات)	hemal arch
+قَوسٌ رَزِّيَّة	hinge-bow
+قَوسُ رِيُولان (قَوسُ مَساريقِ القولونِ المُسْتَعْرِض)	Riolan's arch
+قَوسٌ زِئْبَقِيَّة	mercury arc
+قَوسُ زيمَرْمان (شريان رديمي في الجنين)	Zimmermann's arch
+قَوسُ سالَس (قَوسُ وَريدِ الشَّبَكِيَّةِ عِنْدَ عُبورِهِ فَوقَ شِرْيانِها)	Salus' arch
+قَوسٌ سَرْجِيَّةُ الشَّكْل (في الحَنَك)	saddle arch / saddle-shaped arch
+قَوسٌ سِلْكِيَّة [أسنان]	wire arch
+قَوسٌ سِنْخِيَّة	alveolar arc / alveolar arch
+قَوسٌ سِنِّيَّة	dental arc
+قَوْسٌ سِنِّيَّةٌ سُفْلِيَّةٌ	lower dental arch
+قَوسٌ سِنِّيَّةٌ مُتَبَقِّيَة [أسنان]	residual dental arch
+قَوسٌ شَحْمِيَّة ( قَوسٌ شَيخُوخِيَّة)	arcus adiposus (arcus senilis)
+قَوسٌ شَحْمِيَّةٌ طَبْلِيَّة	arcus lipoides myringis
+قَوسٌ شَحْمِيَّةٌ قَرْنِيَّة	arcus lipoides corneae
+قَوسٌ شِدْقِيَّة [أسنان]	buccal bar
+قوس شرياني	arterial arc
+قَوسٌ شَريطِيّ	ribbon arch
+قَوسٌ شَريطِيَّة	ribbon arc / ribbon arch
+قَوسٌ شَفَوِيَّة [أسنان]	labial arch / labial bow
+قَوسٌ شَفَوِيَّةٌ عالِيَة [أسنان]	high labial arch
+قَوسُ شِنْتون (فِي الصورة الشعاعية لمفصل الورك)	Shenton's arch
+قَوسٌ شَيخوخِيَّة	gerontotoxon (arcus senilis) / gerontoxon
+قَوسٌ شَيْخِيَّة	arcus senilis
+قوس صدرية	arch-thoracic
+قوس ضلعية	arch-costal
+قَوسُ ظَهْرِ القَدَم ( الشِّرْيانُ القَوسِيُّ القَدَمِيّ)	arcus dorsalis pedis (arteria arcuata pedis)
+قَوسٌ عانِيَّةٌ مَفْتوحَة	open pubic arch
+قوس عضمية	arch-osseous
+قَوسٌ فَمَوِيَّة (القَوسُ الحَنَكِيَّة)	oral arch (palatal arch)
+قَوسٌ قَذَالِيَّةٌ	occipital arc
+قَوسٌ قَرْنِيَّة (قَوسٌ شَّيْخُوخِيَّة)	corneal arcus (arcus senilis)
+قَوسٌ كَرْبونِيَّة	carbon arc
+قَوسٌ كَهْلِيَّة	arcus presenilis
+قَوسٌ لِسانِيَّة	lingual arch
+قَوسٌ لِسانِيَّةٌ لافاعِلَة	passive lingual arch
+قَوسٌ لِسانِيَّةٌ لافاعِلَة [أسنان]	passive lingual arch
+قَوسٌ لِسانِيَّةٌ مُسْتَقِرَّة [أسنان]	stationary lingual arch
+قَوسٌ لِسانِيَّةٌ نَزوع [أسنان]	removable lingual arch
+قَوسُ لُوغان (في جراحة الشفة)	Logan bow
+قَوسٌ مَبْرِيَّة [أسنان]	tapering arch
+قَوسٌ نَوَوِيَّة	nuclear arc
+قَوسُ وَتَرِ العَضَلَةِ الرافِعَةِ للشَّرْج	arcus tendineus musculi levatoris ani NA / tendinous arch of levator ani muscle (arcus tendineus musculi levatoris ani NA)
+قَوسُ وَتَرِ العَضَلَةِ النَّعْلِيَّة	arcus tendineus musculi solei NA / tendinous arch of soleus muscle (arcus tendineus musculi solei)
+قَوسُ وَتَرِ اللِّفافَةِ الحَوضِيَّة	arcus tendineus fasciae pelvis NA
+قَوسٌ وَتَرِيَّة	arcus tendineus NA / tendinous arch (arcus tendineus)
+قَوسٌ وَجْنِيَّة	zygomatic arc / zygomatic arch
+قَوسٌ وَجْهِيَّة	face bow
+قَوسٌ وَجْهِيَّة (جهيزة يستخدمها أطباء الأسنان لقياس الأقواس الفكية)	face-bow
+قَوْسٌ وَجْهِيَّةٌ بمِحْوَرٍ ضَبُوْطٍ	adjustable axis face-bow
+قَوْسٌ وَجْهِيَّةٌ بوَجْهَيْن مُتَحَرِّكَيْن	kinematic face-bow
+قَوسٌ يَفْعِيَّة	arcus juvenilis
+قَوسا القَدَم	arches of foot
+قَوساء (بنية تشريحية تتكون من سلسلة من الأقواس)	arcade
+قَوساءٌ شِرْيانِيَّة	arterial arcade / arterial arcade; arteriel arcade
+قَوساءُ فلِينْت (فِي أَهْرامِ الكُلْيَة)	Flint's arcade
+قَوسِيّ	arcual
+قَوسِيُّ الشَّكْل	arc form
+قَوسِيُّ الشَّكْل ؛ مُقَوَّس	arciform (arcuate)
+قَوصَرَة	coacervate
+قُوطَة (جِنْسُ نَباتٍ مِنَ الفَصيلَةِ الباذِنْجانِيَّة)	Lycopersicum
+قَوْعَدَ	basify
+قَوْقَحَان (جِنْسٌ مِنَ القَواقِع)	Pomatiopsis
+قَوْقَحَة (جِنْسٌ مِنَ القَواقِع)	Pomacea
+قَوْقَعة	cochlea
+قَوقَعِيّ	cochlear
+قَوقَعِيٌّ دِهْليزِيّ	cochleovestibular
+قَوْلَبَةٌ	briquetting / casting / moulding
+قَولَبَةُ الحَافَة	border molding
+قَولَبَةُ النَّسيج	tissue molding
+قَولَبَةٌ بالحَقْن	injection molding
+قَوْلَبَةٌ بالضَّغْط	compression molding / compression moulding
+قَولَبَةٌ خَلاَئِيَّة	vacuum casting
+قولون	colon
+قُولون (ال...) السِينيّ	sigmoid colon
+قولون الصاعد (ال..)	ascending colon
+قولون المستعرض(ال..)	transverse colon
+قَولونٌ شَبِيْهٌ بالمَاسُوْرَةِ الرَّصاصِيَّة	lead-pipe colon
+قَوْلُونٌ صَغِيْر	microcolon
+قَولونٌ مُتَشَنِّج	spastic colon
+قولون متهيج	colon, irritable
+قولون نازل	descending colon
+قَولونٌ هَيوج	irritable colon
+قَولونيّ	colonic
+قولونيّ الشكل	coliform
+قَولونيٌّ جِلْدِيّ	colocutaneous
+قَولونيٌّ لَفائِفِيّ	coloileal
+قَولونيٌّ مَثانِيّ	colovesical
+قَولونيٌّ مُسْتِقيمِيّ	colorectal
+قَولونيٌّ مَهْبِلِيّ	colovaginal
+قُولُونِيّ، مَغْص	colic
+قوم، عدل	rectify
+قُوَّة	force
+قُوَّةٌ احْتِياطِيَّة	reserve force
+قُوَّةٌ إِطْباقِيَّة	occlusal force
+قُوَّة الاتّحاد	combining force
+قُوَّةُ الإِخْضاع	yield strength
+قُوَّةُ الأَنا	ego-strength
+قوة الحد	edge strength
+قُوَّة الْـحُمُوض	strength of acids
+قُوَّة الرابِطَة	bond strength
+قُوَّةُ الرَّاحَة	rest force
+قُوَّةُ الشَّدّ	tensile strength
+قُوَّةُ الضَّغْط	compaction force / compressive strength
+قُوَّةُ العَضّ	biting strength
+قُوَّةُ القَصّ ؛ القُوَّة القاصَّة	shearing force
+قوة الهجين	heterosis
+قوة انعكاسية	reflex arc
+قُوَّةٌ تَقْويضِيَّة	catabolic force
+قُوَّةُ حِصان	horsepower
+قُوَّةٌ حَيَوِيَّة	vital force
+قُوَّةٌ خارِجَ الفَم	extraoral force
+قُوَّةٌ ضاغِطَة	compressive strength
+قُوَّةٌ عَصَبِيَّة	nerve force / nervous force
+قُوَّةٌ قِصَائِيَّة	ultimate strength
+قُوَّةٌ ماضِغَة	chewing force / masticatory force
+قُوَّةٌ مُتَأَصِّلَة	idiosthenia (inherent strength)
+قُوَّةٌ مُتَبادَلَة	reciprocal force
+قُوَّةٌ مُحَرِّكَةٌ كَهْرَبِيَّة	electromotive force
+قُوَّة مُمَنِّعة	immunisant power
+قُوَّةٌ نَفْسِيَّة	psychic force
+قُوَّةٌ هَرْسِيَّة	crushing strength
+قُوّى التَجاذُب	attraction forces
+قُوَى فان در فالس	Van der Waals forces
+قُوَى مَيدانِيَّة (في تخلق الأجنة)	field forces
+قوي، شديد	robust
+قُوَيدِمَة (في الحَيَواناتِ الأَوالِي)	proter
+قُوَيْعِدَة (ال...)	basion
+قُوَيعِدِيّ (نسبة إلى القُوَيعِدَةِ basion)	basial
+قُوَيعَدِيٌّ أَنْفِيّ	basinasal / basinasial
+قُوَيعِدِيٌّ سِنْخِيّ	basialveolar / basioalveolar (basialveolar) / basioalveolar; basialveolar
+قُوَيعِدِيّ، نسبة إلى القُوَيعِدَةِ basion	basial
+قَويمُ الأَصابِع	orthodactylous
+قَويماتُ الفَكّ (رُتَيْبَةٌ مِنَ العناكِبِ مِنْ رُتْبَةِ الرُّتَيلاوات)	Orthognatha
+قَيْء	emesia (emesis) / emesis (vomiting) / emesis = vomiting / vomito
+قَيء (المادَّةْ المَقِيْئَة)	vomitus
+قَيْءٌ أَسْوَد	melenemesis / vomito negro / vomitus niger
+قَيءٌ أَسْوَد (قيء دموي مهضوم)	black vomit
+قَيءُ البِراز	copremesis
+قيء الحامل	emesis, gravidarum
+قَيْءُ الحَمْل	emesis gravidarum
+قَيءُ الدَّم	hematemesis
+قَيْءُ الدُّود	helminthemesis
+قَيءُ المُخاط	blennemesis
+قَيءُ باركو (في جنوب أوستراليا)	Barcoo vomit
+قَيْءٌ بِرَازِيّ	fecal emesis / fecal vomiting / stercoraceous vomiting
+قَيْءٌ جافّ ؛ تَهَوُّع	dry vomiting
+قَيْءٌ حَمْلِيّ	vomiting of pregnancy / vomitus gravidarum
+قَيءٌ دَمَوِيّ	vomitus cruentus
+قَيْءٌ دَوْرِيّ	cyclic vomiting / periodic vomiting
+قَيْءٌ راجِع ( قَيْءٌ دَوْرِيّ)	recurrent vomiting (cyclic vomiting)
+قَيءٌ شَبيهٌ بثَفَلِ القَهْوَة	coffee-ground vomit
+قَيْءٌ صَباحِيّ	morning vomiting / vomitus matutinus
+قَيءٌ صَفْراوِيّ	bilious vomit / bilious vomiting / cholemesis
+قَيْءٌ عَصَبِيّ	nervous vomiting
+قَيْءٌ قَذْفِيّ	explosive vomiting / projectile vomiting
+قَيْءٌ قَيحِيّ	pyemesis / pyoemesis
+قَيءٌ كاذِب	pseudovomiting
+قَيْءٌ لُعابِيّ	sialemesis
+قيء مخاطي	blennemesis
+قَيْءٌ مُخِّيّ المَنْشَأ	cerebral vomiting
+قَيءٌ مُفْرِطٌ	hyperemesis
+قَيءٌ مُفْرِطٌ إرضاعي	hyperemesis lactentium
+قَيءٌ مُفْرِطٌ حَمْليّ	hyperemesis gravidarum
+قَيْءٌ هستيريّ	hysterical vomiting
+قَيْءٌ وَبيل	pernicious vomiting
+قَيْء؛ قُيَاء	vomiting
+قياء الحمل	hyperemesis gravidarum
+قُياء الدم	hematemesis
+قياء الرُضّع	hyperemesis lactentium
+قُياء، قيئ، تقيُّؤ	vomiting; vomit, emesis
+قِياد [ج:أَقْياد]	vinculum [pl.vincula]
+قِيادُ اللِّسان ( لُجَيمُ اللِّسان)	vinculum linguae
+قِياس	measurement / measuring / mensuration
+قِياسُ (ال...) الشَّعْرِيّ، قِياسُ (ال...) الشُّعَيْرِيّ	capillarimetry
+قياس إبصار الأشكال	eidoptometry
+قِياسُ إِبْصارِيَّةِ الأَشْكال	eidoptometry
+قِياسُ أَبْعادِ حَوضِ الأُمِّ و رَأْسِ الجَنين	pelycephalometry
+قِياسُ الإِحْليل	urethrometry
+قِياسُ الاِحْوِلاَل	phorometry
+قِياسُ الاسْتِجاباتِ السَّمْعِيَّةِ للمُنَبِّهاتِ القِشْرِيَّةِ	cortical evoked response audiometry
+قِياسُ الاسْتِقْطاب	polarimetry
+قِياسُ الاسْتِقْلاَب	metabolimetry
+قِياسُ الأَشِعَّة	roentgenometry
+قِيَاسُ الأَشْكَال	morphobiometry (morphometrics) / morphometrics
+قِياسُ الأَلْبومين	albuminimetry
+قِياسُ الإِلْعاب	sialometry
+قِياسُ الأَلَم	dolorimetry
+قِياسُ الأَلْوان	colorimetry
+قِياسُ الامْتِصاص	absorptiometry
+قِياسُ الانْثِناء (في حركة المفصل)	fleximeter
+قِياسُ الانْحِناء	scoliosiometry
+قِياسُ الاِنْصِباغ	tintometry
+قِياسُ الانْكِسار	dioptometry / refractometry
+قِياسُ البُطَينات	ventriculometry
+قِياسُ أَلْبُومينِ السَّائِلِ النُّخاعِيّ	rachialbuminimetry
+قِياسُ البِيليروبين	bilirubinometrey
+قِياسُ التَّأَكْسُج	oximetry / oxymetry (oximetry)
+قِياسُ التَّأَلُّق	fluorometry
+قِياسُ التَّأَلُّقِ الضَّوئِيّ	fluorophotometry
+قِياسُ التَّأَلُّقِ الضَّوئِيُّ للجِسْمِ الزُّجَاجِيّ	vitreous fluorophotometry
+قِياسُ التَّأَلُّم	algesimetry / algometry (algesimetry)
+قِياسُ التَّأَيُّن	ionometry
+قِياسُ التِّجْسيم	stereometry
+قِياسُ التَّحَجُّم	oncography / oncometry
+قِياسُ التَّداخُل	interferometry
+قِياسُ التَّرْنانِ الذَّاتِيّ	autophonometry
+قِياسُ التَّسْفيع	actinometry
+قِياسُ التَّكَدُّس	aggregometry
+قِياسُ التَّنامِي	allometry
+قِياسُ التَّنَفُّس	respirometry / spirometry / spiroscopy
+قِياسُ التَّنَفُّسِ القَصَبِيّ	bronchospirometry
+قِياسُ التَّنَفُّسِ القَصِبِيِّ التَّفْريقِيّ	differential bronchospirometry
+قِياسُ التَّنَفُّسِ بِتَنْظير القَصَبات	bronchoscopic
+قِياسُ التَّنَفُّسِ شُعاعِيَّا	radiospirometry
+قِياسُ التَّوَتُّرِ الحَجَاجِيّ	orbitonometry
+قِياسُ الجُحوظ	exophthalmometry
+قِياسُ الجُرْعات	dosimetry
+قِياسُ الجُرْعَةِ الإِشْعاعِيَّة	radiodosimetry
+قِياسُ الجَسّ (لِتَعْيينِ عَتَبَةِ الجَسِّ المُؤْلِم)	palpatometry
+قِياسُ الجَسَد	somatometry
+قِياسُ الجَنين	fetometry
+قِياسُ الجَنينِ الشُّعاعِيّ	roentgen fetometry
+قِياسُ الحَدَقَة	coreometry / pupillometry
+قِياسُ الحَرارَة	thermometry
+قِياسُ الحِسّ	sensimetry
+قياس الحمر	erythrocytometry
+قِياسُ الحُمُوضَة	acidimetry
+قياس الحميل	fetometry
+قِياسُ الحَنْجَرَة	laryngometry
+قِياسُ الحَوض	pelvimetry
+قِياسُ الحَوضِ التَّجْسِيمِيّ	stereoscopic pelvimetry
+قِياسُ الحَوضِ الشُّعاعِيّ	radiopelvimetry
+قِياسُ الحَوضِ بالأَدَوَاتِ	instrumental pelvimetry
+قِياسُ الحَوضِ بالأَشِعَّةِ السِّينِيَّة	X-ray pelvimetry
+قِياسُ الحَوضِ بالأَصَابِع	digital pelvimetry
+قِياسُ الحَوضِ باليَد ( قِياسُ الحَوضِ بِالأَصابِع)	manual pelvimetry (digital pelvimetry)
+قِياسُ الحوَل	ophthalmotropometry (strabismometry) / strabometry
+قِياسُ الحُوَيضَة	pyelometry
+قِياسُ الدِّماغ	encephalometry
+قِياسُ الدَينَمِيَّة	ergometry
+قِياسُ الذَّبْذَبَة	oscillometry
+قِياسُ الذَّوق	gustometry
+قياس الرأس	cephalometry
+قِياسُ الرَّحِم	hysterometry / uterometry
+قِياسُ الرُّطوبَة	hygrometry / psychrometry
+قِياس الرُّطُوبَة، مِرْطَابِيَّة	Hygrometry
+قِياسُ الرَّوائِح	odorimetry
+قِياسُ الزَّمَن	chronometry
+قِياسُ الزَّمَنَة	chronaximetry
+قياس الزمنة العضلية	chronomyometer
+قِيَاسُ الزَّوَايَا	goniometry
+قِياسُ السَّاحَةِ البَصَرِيَّةِ المَرْكَزِيَّة	campimetry
+قياس السعرات	calorimetry
+قياس السعرات المباشر	calorimetry, direct
+قياس السعرات غير المباشر	calorimetry, indirect
+قِياسُ السَّعَةِ الرِّئَوِيَّة	pulmometry
+قِياسُ السَّمْع	audiometry
+قِياسُ السَّمْعِ البيكيسِيّ	Bekesy audiometry
+قِياسُ السَّمْعِ التَّوَضُّعِيّ	localization audiometry
+قِياسُ السَّمْعِ الجِلْدِيُّ الكَهْرَبِيّ	electrodermal audiometry
+قِياسُ السَّمْعِ القِشْرِيّ	cortical audiometry
+قِياسُ السَّمْعِ بالتَّخْطِيْطِ القَوقَعِيُّ الكَهْرَبِيّ	electrocochleographic audiometry
+قِياسُ السَّمْعِ بالتَّوصيلِ العَظْمِيّ	bone-conduction audiometry
+قِياسُ الشُّفُوفِيَّة	diaphanometry
+قِياسُ الشَّمّ	olfactometry
+قِياسُ الصَّدْر	thoracometry
+قِياسُ الصَّدَى	ultrasonometry
+قياس الصفراء	cholemimetry
+قِيَاسُ الضَّغْطِ	manometry
+قِياسُ الضَّغْطِ الوَريدِيّ	phlebopiezometry
+قِياسُ الضَّوءِ المُبَصِّر	photoptometry
+قِياسُ الطَّاهِيَة	opsonometry
+قِياسُ الطَّبْل	tympanometry
+قِياسُ الطِّحال	splenometry
+قِياسُ الطَّيْفِ	spectrometry
+قِياسُ الطَّيْفِ الضَوئِي	spectrophotometry
+قِياسُ العُتْمَة	diaphanoscopy / scotometry
+قِياسُ العِظام	osteometry
+قِياسُ العَكَر	turbidimetry
+قِياسُ العَلاَقاتِ الاِجْتِماعِيَّة	sociometry
+قِياسُ العَمَلِيَّاتِ النَّفْسِيَّة	psychodometry / psychometrics / psychometry
+قِياسُ العَين ( قِياسُ القَرْنِيَّة)	ophthalmometry (keratometry)
+قِياسُ الغاز	gasometry
+قِياسُ الغِلَظ (قِياسُ الثِّقَلِ النَّوعِيِّ لِلسَوائِل)	pyknometry
+قِياس الْغَلَيَانِيَّة	ebulliometry
+قِياسُ القِحْف	craniometry
+قِياسُ القَرْنِيَّة	keratometry
+قِياسُ القَطَراتِ البَولِيَّة	urostalagmometry
+قِياسُ القَلَوِيَّة	alkalimetry / alkalometry
+قِياسُ الكَالورِي	calorimetry
+قِياسُ الكالورِيُّ التَّفَرُّسِيُّ التَّفْريقِيّ [كيمياء]	differential scanning calorimetry
+قِياسُ الكالُورِي اللامُباشِر	indirect calorimetry
+قِياسُ الكالُورِي المُباشِر	direct calorimetry
+قياس الكَبِد	hepatometry
+قياس الكَبِد والطحال	hepatosplenometry
+قِياسُ الكَثافَة	densimetry / densitometry
+قِياسُ الكَدَر	nephelometry / scopometry
+قِياسُ الكلور	chlorometry
+قِياسُ الكلوريد	chloridimetry
+قِياسُ اللابُؤْرِيَّة	astigmometry
+قِياسُ اللُّزوجَة	viscometry / viscosimetry
+قِياسُ المَثانَة	cystometry
+قياس المجال البصري	campimeter
+قياس المرونة	elastometry
+قِياسُ المُنْعَكَسات	reflexometry
+قِيَاسُ المورفين	morphiometry
+قِياسُ المُوَصِّلِيَّة	conductometry
+قِياسُ النَّفَس	pneumatometry
+قِياسُ النَّواة	karyometry
+قِياسُ الهالَة	halometry
+قِياسُ الهَواءِ المُتَنَفَّسِ بِالأَنْف	rhinomanometry
+قِياسُ الهيموغلوبين	hemoglobinometry / hemometry (hematometry)
+قِياسُ اليود	iodimetry
+قِياسُ اليُوريا	ureametry / ureometry
+قِياسُ أَمْلاَحِ السَّوائِل	halimetry
+قِياسُ انْجِمَادِ الدَّمِ	hemocryoscopy
+قِياسُ انْكِسارِيَّةِ العَين	dioptometry / dioptrometry
+قِياسٌ بِالصُّورَةِ الشُّعاعِيَّة	radiogrametry
+قياس بصري للون	chromoscopy
+قِياسٌ بُعادِيّ؛قِياسٌ عَنْ بُعدٍ	telemetry
+قِياسٌ تَنَاضُحِيّ	osmometry
+قِياسُ تَوَتُّرِ العَين	ocular tonometry
+قِياسُ تَوَتُّرِ العَينِ الانْطِباعِيّ	impression tonometry
+قِياسُ تَوَتُّرِ العَينِ بالإصْبَع	digital tonometry
+قِياسُ تَوَتُّرِ العَينِ بالتَّسْطيح	applanation tonometry
+قِياسُ تَوصيلِ العِظامِ للصَّوت	osseosonometry
+قِياسُ جَرَيانِ الدَّم	hemodromometry
+قِياسُ حَجْمِ التَّبَوُّلِ اليَومِيّ	urononcometry
+قِياسُ حَجْمِ الدَّم	hemovolumetry
+قِياسُ حَجْمِ الكَبِد	hepatometry
+قِياسُ حَجْمِ الكَبِدِ و الطِّحال	hepatosplenometry
+قِياسُ حَجْمِ المَعِدَة	gastrovolumetry
+قِياسُ حِدَّةِ السَّمْع	acoumetry
+قِياسُ حُدودِ مَجالِ الرُّؤْيَةّ	perioptometry
+قِياسُ حَرارَةِ الرَّحِم	hysterothermometry / uterothermometry
+قِياسُ حِسِّ اللَّمْسِ المُجَسَّم	stereoesthesiometry
+قِياسُ دَرَجَةِ الانْجِماد	cryoscopy / kryoscopy (cryoscopy)
+قِياسُ رُؤْيَةِ الأَلْوان	chromatoptometry
+قَياسُ رَأْسِ الجَنينِ وَحَوضِ الأُمّ	pelvicephalometry
+قِياسُ زَمَنِ الأَحْداثِ النَّفْسِيَّة	mental chronometry
+قياس زمني	chronometry
+قياس زمني عقلي	chronometry, mental
+قِياسُ زَوايا القِحْف	goniocraniometry
+قِياسُ زَوايا حَرَكاتِ المَفْصِل	arthrometry
+قِياسُ سُرْعَةِ القَلْب	cardiotachometry
+قِياسُ سُرْعَةِ النُّمُوّ	auxometry
+قِياسُ سَعَةِ الجَوف	endometry
+قِياسُ سُكَّرِ البَول	urosaccharometry
+قِياسُ سَمْعِ الكَلام	speech audiometry
+قِياسُ سَمْعِ النَّغْمَةِ النَّقِيَّة	pure tone audiometry
+قِياسُ شِدَّةِ النَّبْض	sphygmobolometry
+قِياسُ صَفْراءِ الدَّم	cholemimetry
+قِياسُ ضَغْطِ الدَّم	hemadynamometry / hemadynometry / hemodynamometry (hemomanometry)
+قياس ضغط الدم - قياس دينامية الدم	hemadynamometry = hemodynamometry / hemodynamometry = hemadynamometry
+قِياسُ ضَغْطِ العَين	ophthalmotonometry
+قِياسُ ضَغْطِ المَعِدَة	gastromanometry / gastrotonometry
+قِياسُ ضَغْطِ شَرايينِ العَين	ophthalmodynamometry
+قِياسٌ ضَوئِيّ	photometry
+قِياسٌ ضَوئِيٌّ خَلَوِيّ	cytophotometry / microfluorometry (cytophotometry)
+قِياسٌ ضَوئِيٌّ لَهَبِيٌّ داخِلِيُّ المِعْيار	internal standard flame photometry
+قِياسٌ ضَوئِيٌّ وَمَّاضٌ	flicker photometry
+قِياسُ طَيفِ الامْتِصاصِ الذَّرِّيّ	atomic absorption spectrometry
+قِياسُ عُسْرَةِ الماء	hydrotimetry
+قِياسٌ فيزيُولُوجِيّ	physiometry
+قِياسُ قُوَّةِ العَضَلاَت	sthenometry
+قِياسُ قُوَّةِ القَلْب	cardiometry
+قِياسُ كَثافَةِ البَول	urometry
+قِياسُ كَثافَةِ البَول (قياس الثقل النوعي للبول)	urinometry
+قِياسُ كَثافَةِ السَّوائِل	areometry (hydrometry) / hydrometry
+قِياسُ كَثافَةِ الغاز	manoscopy
+قِياسُ كَثافَةِ الفِلْم	densography
+قياس كفاءة المثانة	cystometry
+قِياسُ لُزوجَةِ وَضَغْطِ الدَّم	sphygmoviscosimetry
+قِياسُ مَجالِ البَصَر	perimetry
+قِياسُ مَجالِ البَصَرِ الكَمِّيّ	quantitative perimetry
+قِياسُ مَجالِ البَصَرِ الوَمْضِيّ	flicker perimetry
+قِياسٌ مِجْهَرِيّ	micrometry
+قِياسُ مَدْروجِ الضَّغْطِ الوَريدِيّ	phlebodynamometry
+قِياسٌ مِطْيافِيٌّ أَحْيَائِيّ	biospectrometry
+قِياسُ مُعاوَقَةِ السَّمَع	impedence audiometry
+قِياسُ مُعَدَّلِ المَراضَة	nosometry
+قِياسُ مُقاوَمَةِ الجِلْد	dermometry
+قِياسٌ مَناعِيٌّ إِشْعاعِيّ	immunoradiometry
+قِياسٌ يودي	iodometry
+قِياسَاتُ الرَّأْس	cephalometrics / cephalometry
+قِياساتُ رَأْسِ الجَنين	fetal cephalometry
+قيثارَة	lyra / lyre
+قِيثارةُ داوود (¬ الصُّوار القَبْويّ)	lyra Davidis (®commissura fornicis) / lyre of David (®commissura fornicis)
+قَيح	pus / pus [pl.pura]
+قَيحٌ أَخْضَر	green pus
+قَيحٌ أَزْرَق	blue pus
+قَيحٌ جُبْنِيّ	cheesy pus
+قَيحٌ حَميد	laudable pus / pus bonum et laudabile / pus laudandum
+قَيحٌ رائِب	curdy pus
+قَيحُ صَلْصَةِ الأُنْشوفَة	anchovy sauce pus
+قَيحٌ غَسَّاق	ichorous pus
+قَيحٌ مُتَوَغِّل	burrowing pus
+قَيحٌ مَحْمود	laudable pus
+قَيحٌ مُخاطِيّ	pyoblenna (mucopus)
+قَيحٌ مُدَمَّى	sanious pus
+قَيْحَمِيَّة	pyemia
+قَيْحِيّ	purulent / pyic
+قَيحِيٌّ أَزْرَق	pyocyanic
+قَيْحِيُّ الشَّكْل	puriform / puruloid (puriform) / pyoid
+قَيْحِيُّ المَنْشَأ	pyogenous
+قَيحِيٌّ مُخاطِيّ	puromucous (mucopurulent)
+قَيد	retinaculum
+قَيد [ج:قُيُود] (1- بنية تشريحية 2- أداة جراحية لتبعيد النسج)	retinaculum NA [pl.retinacula]
+قَيدُ الرِّباطِ المُقَوَّس	retinaculum ligamenti arcuati / retinaculum of arcuate ligament
+قَيدُ العَضَلاَتِ المُثْنِيَةُ للقَدَم	retinaculum musculorum flexorum pedis NA
+قَيدُ المُثْنِيات (قَيدُ مُثْنِياتِ اليَد)	flexor retinaculum (retinaculum flexorum manus NA)
+قَيدُ الوَتَر	mesotendineum / mesotendineum NA / mesotendon / mesotenon
+قَيدُ بَاسِطات اليَد	extensor retinaculum of hand (retinaculum extensorum manus NA) / retinaculum extensorum manus NA
+قَيدُ فيتبريخت (ألياف شبكية ملتصقة بعنق عظم الفخذ)	Weitbrecht's retinaculum
+قَيدُ قابِضاتِ اليَد	retinaculum flexorum manus NA
+قَيدُ مُثْنِيَاتِ القَدَم	flexor retinaculum of foot
+قَيدُ مُثْنِيَاتِ اليَد	flexor retinaculum of hand
+قَيدُ مِحْفَظَةِ مَفْصِلِ الوَرِك	retinaculum capsulae articularis coxae
+قَيْدُومِيُّ الدِّماغ [مسخ]	proencephalus
+قيراط	carat
+قَيْسوم (نواة نطفية إضافية في البيضة)	merocyte
+قَيصَرَّية (ال...)	caesarean
+قَيْصَرِيَّةُ القِطْعَةِ السُّفْلِيَّة	lower segment cesarean section
+قَيْصَرِيَّةٌ بطَريقِ الصِّفاق	transperitoneal cesarean section
+قَيْصَرِيَّةُ بُورُو	Porro cesarean section
+قَيْصَرِيَّةٌ جَذْرِيَّة ( اسْتِئْصالُ الرَّحِمِ القَيْصَرِيّ)	radical cesarean section (cesarean hysterectomy)
+قَيْصَرِيَّةُ جِسْم الرَّحِم	corporeal cesarean section
+قَيْصَرِيَّةٌ خارِجَ الصِّفاق	extraperitoneal cesarean section
+قَيْصَرِيَّةُ عُنُقِ الرَّحِم ( قَيْصَرِيَّةُ القِطْعَةِ السُّفْلِيَّةِ)	cervical cesarean section (lower segment cesarean)
+قَيْصَرِيَّةُ لاتسكو	Latzko's cesarean section
+قَيْصَرِيَّةٌ مَدْرَسِيَّة ( قَيْصَرِيَّةُ جِسْمِ الرَّحِم)	classic cesarean section (corporeal cesarean section)
+قَيْصَرِيَّةٌ مَهْبِلِيَّة	vaginal cesarean section
+قَيْصَرِيَّةُ مُونْرُوكير	Munro Kerr cesarean section
+قَيصَرِيَّة؛فَتْحٌ قَيصَرِيّ (فَتْحُ الرَّحِمِ بِالعَمَلِيَّةِ القَيصَرِيَّة)	cesarean section
+قَيض ( قِشْرَةُ البَيضَة)	egg shell
+قَيض (قشر البيض)	egg-shell
+قَيض (قِشْرَةُ البَيضَة)	testa ovi
+قَيضِيّ	testaceous
+قيطانِيّ (مُكَوَّنٌ مِنْ خُيوطٍ رَفيعَة)	byssaceous
+قيعان	fundi; sing.fundus
+قيعان [ف:قاع]	fundi NA [sing.fundus]
+قيل (طينٌ مِنَ البَحْرِ الأَسْوَد)	kil
+قيلَةٌ إِحْليلِيَّة	urethrocele
+قيلَةٌ أُرْبِيَّة	bubonocele / inguinocele
+قيلَةٌ إِسْكِيَّة ( فَتْقٌ إِسْكِيّ)	ischiocele (sciatic hernia)
+قيلَةٌ أَعْوَرِيَّة	cecocele
+قيلَةُ الإِحْليلِ القَيحِيَّة	pyocele of the urethra
+قيلَةُ الأَعْوَر	typhlocele
+قِيلَةُ البُوق	salpingocele
+قيلَةُ الجَيبِ الغِرْبالِيِّ القَيحِيَّة	ethmoid sinus pyocele
+قيلَةُ الجَيبِ الوَتِدِيِّ القَيحِيَّة	sphenoid sinus pyocele
+قيلَةُ الجَيبِ الوَجْهِيِّ القَيحِيَّة	frontal sinus pyocele
+قِيْلَةُ الحَشَفَة	balanocele
+قِيلَةُ الدِّماغ المَوَهِيَّة ( قِيلَةٌ دِماغِيَّةٌ كيسِيَّة)	hydrencephalocele (encephalocele)
+قِيلَةُ الدِّماغِ و السَّحايا المَوَهِيَّة	hydrencephalomeningocele
+قِيلَةُ الدِّماغِ و النُّخاعِ و السَّحايا	encephalomyelocele
+قيلة الراس المائية	cephalhydrocele
+قِيلَةُ الرَّأْسِ المَوَهِيَّة ( قِيلَةٌ دِماغِيَّةٌ كيسِيَّة)	hydrocephalocele (encephalocele)
+قِيلَةُ الرُّكْبَة	gonyocele
+قيلَةُ العُقْدَةِ اللِّمْفِيَّة	adenolymphocele / lymphadenocele
+قيلة الفتق	hydrocele, hernial
+قِيلَةُ القَرْنِيَّة	keratocele / keratodermatocele (keratocele)
+قِيلَةُ الكُلْيَةِ (فتق يحتوي على كلية)	nephrocele
+قيلَةُ المُخَيخ (قيلة دماغية تشتمل على المخيخ)	parencephalocele
+قِيلَةُ المَريء	esophagocele
+قِيلَةٌ بَطْنِيَّة ( فَتْقٌ بَطْنِيّ)	laparocele (ventral hernia)
+قِيلَةُ بُطَينِ الحَنْجَرَة	laryngocele ventricularis / ventricular laryngocele
+قيلَةٌ بُلْعومِيَّة	pharyngectasia (pharyngocele)
+قِيلَةٌ بُلْعومِيَّة ( الرَّتْجُ تَحْتَ البُلْعومِ)	pharyngocele (hypopharyngeal diverticulum)
+قيلَةٌ بُلْعومِيَّةٌ أَنْفِيَّة	rhinopharyngocele
+قيلة بوقية	hydrosalpinx
+قيلة بوقية حويصلية	hydrosalpinx follicularis
+قيلَةٌ بُوقِيَّةٌ مَبِيْضِيَّة	salpingo-oophorocele / salpingo-oothecocele
+قيلة بوقية متقطعة	hydrosalpinx, intermittent
+قيلَةٌ بَولِيَّة	urocele / uroscheocele
+قِيلَةٌ ثَرْبِيَّة	epiplocele
+قِيلَةٌ ثَرْبِيَّةٌ سُرِّيَّة	epiplomphalocele
+قِيلَةٌ ثَرْبِيَّةٌ سُرِّيَّةٌ عَضَلِيَّة	epiplosarcomphalocele
+قِيلَةٌ ثَرْبِيَّةٌ صَفَنِيَّة	epiploscheocele
+قِيلَةٌ ثَرْبِيَّةٌ فَخِذِيَّة	epiplomerocele
+قِيلَةٌ ثَرْبِيَّةٌ مِعَوِيَّة	epiploenterocele
+قِيلَةٌ جانِبِيَّة	laterocele
+قِيلَةٌ جِلْدِيَّة (تَهَدُّلُ الجِلْد)	dermatocele (cutis laxa)
+قِيلَةٌ جِلْدِيَّةٌ ثَخينَة	pachydermatocele
+قيلَةٌ جَنَبية	pleurocele
+قِيْلَةٌ حالِبِيَّة	ureterocele
+قِيلَةٌ حالِبِيَّةٌ مُنْتَبِذَة	ectopic ureterocele
+قِيلَةٌ حِجابِيَّة	diaphragmatocele
+قِيْلَةٌ حَشَوِيَّة	splanchnocele
+قِيلَةٌ حَنْجَرِيَّة	laryngocele
+قِيلَةٌ حَنْجَرِيَّةٌ ظاهِرَة	external laryngocele
+قِيلَةٌ حَنْجَرِيَّةٌ غَائِرَة	internal laryngocele
+قِيلَةٌ حَنْجَرِيَّةٌ قَيحِيَّة	laryngopyocele
+قيلَةٌ حَوضِيَّة (للرباط العريض)	pelvic varicocele
+قِيلَةٌ خُصْوِيَّةٌ صَفَنِيَّة	orchidoscheocele / orchioscheocele
+قيلة خلقية	hydrocele, congenital
+قِيلَةٌ خَمَلِيَّة	fimbriocele
+قِيلَةٌ داخِلِيَّة	entocele
+قِيلَةٌ دِماغِيَّة	encephalocele / encephalocystocele (hydroencephalocele)
+قيلة دماغية حبلية	encephalomyelocele
+قِيلَةٌ دِماغِيَّةٌ حَجاجِيَّة	orbital encephalocele
+قيلَةٌ دِماغِيَّةٌ رَقَبِيَّة	derencephalocele
+قِيلَةٌ دِماغِيَّةٌ سِحائِيَّة	encephalomeningocele
+قيلَةٌ دِماغِيَّةٌ سِحائِيَّةٌ مَوَهِيَّة	hydroencephalomeningocele
+قِيْلَةٌ دِماغِيَّةٌ قَفَوِيَّة	notencephalocele
+قيلَةٌ دِماغِيَّةٌ كاذِبَة	pseudocephalocele
+قيلَةٌ دِماغِيَّة لاكيسِيَّة	cenencephalocele
+قيلَةٌ دِماغِيَّةٌ مُلْتَصِقَة	synencephalocele
+قيلَةٌ دِماغِيَّةٌ مَوَهِيَّة	hydroencephalocele
+قيلة دمعية	dacryocele / dacryocystocele = dacryocele
+قِيلَةٌ دَمَوِيَّة	hematocele
+قيلَةٌ دَمَوِيَّةٌ حَوضِيَّة	pelvic hematocele
+قيلَةٌ دَمَوِيَّةٌ خَلْفَ الرَّحِمِ	retrouterine hematocele
+قيلَةٌ دَمَوِيَّةٌ رَأْسِيَّةّ	cephalematocele / cephalhematocele / cephalohematocele
+قيلَةٌ دَمَوِيَّةٌ صَفَنِيَّة	scrotal hematocele
+قيلَةٌ دَمَوِيَّةٌ فَرْجِيَّة	pudendal hematocele
+قِيلَةٌ دَمَوِيَّةٌ كَيلوسِيَّة	hematochylocele
+قيلَةٌ دَمَوِيَّةٌ مُجَاوِرَةٌ للرَّحِمِ ( قيلَةٌ دَمَوِيَّةٌ حَوضِيَّة)	parametric hematocele (pelvic hematocele)
+قيلَةٌ دَمَوِيَّةٌ مَهْبِلِيَّة	vaginal hematocele
+قِيْلَةٌ دُهْنِيَّة	steatocele
+قيلَةٌ دَوالِيَّة	cirsocele (varicocele) / varicocele / varicole
+قِيلَةٌ دَوالِيَّةٌ أُدْرِيَّة	hydrocirsocele
+قيلَةٌ دَوالِيَّةٌ رَحِمِيَّةٌ مَبيضِيَّة	utero-ovarian varicocele
+قيلَةٌ دَوالِيَّةٌ مَبيضِيَّة ( قيلَةٌ دَوالِيَّةٌ حَوضِيَّة) (للرباط العريض)	ovarian varicocele (pelvic varicocele)
+قِيلَةٌ دوغْلاَسِيَّة (فتق مهبلي خلفي)	douglascele
+قيلَةٌ رَأْسِيَّة	cephalocele
+قيلَةٌ رَأْسِيَّةٌ حَجاجِيَّة	orbital cephalocele
+قِيلَةٌ رَحِمِيَّة	hysterocele / metrocele (hysterocele)
+قِيلَةٌ رَحِمِيَّةٌ مَهْبِلِيَّة	metrocolpocele
+قِيلَةٌ رَحِمِيَّةٌ مَهْبِلِيَّةٌ مِعَوِيَّة	hysterovagino-enterocele
+قِيْلَةٌ رُغامِيَّة	trachelocele / tracheocele
+قيلَةٌ رُغامِيَّةٌ هَوائِيَّة	tracheoaerocele
+قِيْلَةٌ زائِدِيَّة	appendicocele
+قيلة سالكة	hydrocele, communicating
+قيلَةُ سْترُوماير الدَّمَوِيَّةُ الرَّأْسِيَّة (في السمحاق)	Stromeyer's cephalhematocele
+قِيلَةٌ سِحائِيَّة	meningocele
+قيلَةٌ سَحائِيَّةٌ تَكَهُّفِيَّة	syringomeningocele
+قِيلَةٌ سِحائِيَّةٌ دِماغِيَّة	cerebral meningocele / encephalomeningocele / meningoencephalocele
+قِيلَةٌ سِحائِيَّة رَضْحِيَّة	traumatic meningocele
+قيلَةٌ سَحائِيَّةٌ شَحْمِيَّة	lipomeningocele
+قيلة سحائية شوكية مائية	hydromyelomeningocele = hydromyelocele
+قيلة سحائية شوكية مائية (شوكسحائية)	hydromyelocele = hydromyelomeningocele
+قيلَةٌ سِحائِيَّةٌ قِحْفِيَّة	craniomeningocele
+قِيلَةٌ سِحائِيَّةٌ كاذِبَة ( داءُ بيلْروت)	spurious meningocele (Billroth's disease)
+قيلة سحائية مائية	hydromeningocele
+قيلَةٌ سِحائِيَّةٌ مَوَهِيَّة	hydromeningocele
+قيلَةٌ سِحائِيَّةٌ مَوَهِيَّةٌ قِحْفِيَّة	cranial hydromeningocele
+قِيلَةٌ سُرِّيَّة	omphalocele / sarcomphalocele
+قيلة سريّة ثربية	epiplomphalocele
+قِيلَةٌ سُرِّيَّةٌ شَحْمِيَّة	lipomphalus
+قيلَةٌ سُرِّيَّةٌ كَبِدِيَّة	hepatomphalocele / hepatomphalos
+قِيلَةٌ سَلَوِيَّة	amniocele
+قِيْلَةٌ سِنِّيَّةٌ	odontocele
+قيلَةٌ شَحْمِيَّة	adipocele / liparocele / lipocele
+قيلَةٌ شَرْجِيَّة ( تَدَلِّي المُسْتَقيم)	hedrocele (rectal prolapse)
+قِيلَةٌ شُرْسوفِيَّة	epigastrocele
+قِيلة شُعبية	bronchiocele = bronchocele / bronchocele
+قِيلَةٌ شَفَوِيَّةٌ مُخاطِيَّة	lip mucocele
+قيلة صديدية	empyocele
+قِيلَةٌ صَفَنِيَّة	hydrocele, scrotal / oscheocele
+قيلَةٌ صَفَنِيَّة ( فَتْقُ صَفَنِيّ)	scrotocele (scrotal hernia)
+قيلَةٌ صَفَنِيَّةٌ مَوَهِيَّة	hydroscheocele
+قيلَةٌ صَلْدَة	scirrhocele
+قِيلَةٌ طِحالِيَّة	lienocele (splenocele) / splenocele
+قِيْلَةٌ عِجانِيَّة	perineocele
+قِيْلَةٌ عَضَلِيَّة	myocele
+قِيلَةٌ عَضَلِيَّةٌ مَوَهِيَّة	hydrosarcocele
+قِيْلَةٌ عَظْمِيَّة	osteocele
+قِيلَةٌ عَنَمِيَّةُ الشَّكْل ( قِيلَةٌ دَوالِيَّة)	pampinocele (variocele)
+قِيْلَةٌ عَيْنِيَّةٌ ( جُحُوْظُ العَين)	ophthalmocele (exophthalmos)
+قيلَةٌ غارِيَّة	antracele (antrocele) / antrocele
+قيلَةٌ غُدِّيَّة	adenocele
+قِيلَةُ غِشاءِ ديسيمِيه	descemetocele
+قِيلَةُ غِمْدِ الوَتَر	onkinocele
+قيلة فؤادية	cardiocele
+قيلَةٌ فَتْقِيَّة (فتق الصفن مع تصلب النسيج الخصوي)	porocele
+قيلَةٌ فَخِذِيَّة	enteromerocele / femorocele
+قِيْلَة فَخِذِيَّة ( فَتْقٌ فَخِذِيٌّ)	merocele (femoral hernia)
+قِيِلَةٌ قِحْفِيَّةّ	craniocele
+قيلة قرنية	keratocele / keratodermatocele = keratocele
+قِيلَةٌ قُزَحِيَّة	iridocele / myiocephalon (iridocele) / myiocephalum (iridocele)
+قيلَةٌ قَصَبِيَّة (تَوَسُّعٌ قَصَبِيٌّ مَوضِعِيّ)	bronchocele
+قيلَةٌ قُصَيبِيَّة	bronchiocele
+قيلَةُ قَناةِ الصَّفْراء	choledochocele / choleductocele
+قيلَةٌ قَيحِيَّة	pyocele
+قِيلَةٌ كَبِدِيَّة	hepatocele
+قيلة كَبِدية سُرية	hepatomphalocele = hepatomphalos / hepatomphalos = hepatomphalocele
+قيلة كبدية معوية	enterohepatocele
+قيلَةُ كِيْسِ الدَّمْعِ	dacryocele (dacryocystocele) / dacryocystocele
+قيلة كيسية دماغية	encephalocystocele = hydrencephalocele
+قِيلَةٌ كَيلوسِيَّة	chylocele / hydrocele, chylous
+قِيلَةٌ كَيلوسِيَّةٌ طُفَيلِيَّة	parasitic chylocele
+قِيلَةٌ لَبَنِيَّة	galactocele / galactoma = galactocele / lactocele (galactocele)
+قِيلَةٌ لِسانِيَّة	glossocele
+قيلَةٌ لُعابِيَّة	ptyalocele (sialocele)
+قيلَةٌ لُعابِيَّةٌ تَحْتَ اللِّسان ( ضُفَيدِعَة)	sublingual ptyalocele (ranula)
+قِيلَةُ لِمْفِيَّة	lymphocele
+قيلة مائية	hydrocele
+قيلة مائية دماغية	hydroencephalocele
+قيلة مائية لحمية	hydrosarcocele
+قيلة مائية معوية	enterohydrocele
+قِيلَةٌ مَبيضِيَّة	ovariocele
+قِيلَةٌ مَبيضِيَّةٌ مَهْبِلِيَّة	vaginal ovariocele
+قيلة متحوصلة	hydrocele, encysted
+قيلَةٌ مَثانِيَّة	cystocele / vesicocele
+قيلَةٌ مَثانِيَّةٌ إِحْليلِيَّة	cystourethrocele
+قيلَةٌ مَثانِيَّةٌ أُرْبِيَّة	cystobubonocele
+قيلَةٌ مَثانِيَّةٌ ثَرْبِيَّة	cystoepiplocele
+قيلَةٌ مَثانِيَّةٌ مِعَوِيَّة	cystoenterocele / enterocystocele
+قيلَةٌ مُجَاوِرَةٌ للسُّرَّة	paromphalocele
+قِيلَةٌ مُخاطِيَّةٌ دَمْعِيَّة	lacrimal mucocele
+قِيلَةٌ مُخاطِيَّةٌ قَيحِيَّة	suppurating mucocele
+قِيلَةٌ مُخَاطِيَّةٌ مِنَ الجَيْبِ الغِرْبَالِيِّ	ethmoid sinus mucocele
+قِيلَةٌ مُخَاطِيَّةٌ مِنَ القَنَاةِ الدَّمْعِيَّة	nasolacrimal duct mucocele
+قيلة مخية عنقية	derencephalocele
+قيلَةٌ مَرارِيَّة	cholecystocele
+قِيلَةٌ مَريئِيَّة	esophagocele / oesophagocele
+قيلَةٌ مُسْتَقيمِيَّة	proctocele / rectocele
+قيلَةٌ مَشيمائِيَّة	choriocele
+قيلة مصلية	hydroscheocele
+قِيلَةٌ مَعِدِيَّة	gastrocele
+قيلة معوية	enterocele
+قِيلَةٌ مِعَوِيَّة (فَتْقٌ فَخِذِيّ)	enteromerocele (femoral hernia)
+قِيلَةٌ مِعَوِيَّةٌ ثَرْبِيَّة	enterepiplocele / enteroepiplocele / epiploenterocele
+قِيلَةٌ مِعَوِيَّةٌ كَبِدِيَّة	enterohepatocele
+قِيلَةٌ مِعَوِيَّةٌ مَثانِيَّة	enterocystocele
+قيلَةٌ مَنَوِيَّة	gonocele / hydrospermatocele / spermatocele
+قيلَةٌ مَنَوِيَّةٌ مُدَمَّاة	hematospermatocele
+قيلَةٌ مَهْبِلِيَّة	coleocele / colpocele
+قيلَةٌ مَهْبِلِيَّةٌ قَيحِيَّة	pyocolpocele
+قيلَةٌ مَهْبِلِيَّةٌ مَثانِيَّة	colpocystocele
+قِيْلَةٌ نُخاعِيَّة	myelocele / syringocele
+قيلَةُ نُخاعِيَّةٌ تَكَهُّفِيَّة	syringomyelocele
+قِيلَةٌ نُخاعِيَّةٌ سِحائِيَّة	meningomyelocele / myelocystomeningocele / myelomeningocele
+قِيلَةٌ نُخاعِيَّةٌ سِحائِيَّةٌ مَوَهِيَّة	hydromyelomeningocele
+قِيْلَةٌ نُخاعِيَّةٌ كيْسِيَّة	myelocystocele
+قِيلَةٌ نُخاعِيَّةٌ مَوَهِيَّة	hydromyelocele
+قيلة نسائية	hydrocele, feminae
+قِيلَةٌ هَوائِيَّة	aerocele
+قيلة هوائية (تورم هوائي)	aerocele
+قيلَةٌ هَوائِيَّةٌ خارِجَ القِحْف	extracranial pneumatocele
+قِيلَةٌ هَوائِيَّةٌ داخِلَ القِحْف	intracranial aerocele
+قيلَةٌ هَوائِيَّةٌ داخِلَ القِحْف ( اسْتِرْوَاحُ القِحْف)	intracranial pneumatocele (pneumocephalus)
+قيلَةٌ هَوائِيَّةٌ صَفَنِيَّة	scrotal pneumatocele
+قِيلَةٌ هَوائِيَّةٌ فَوْقَ الجافِيَة	epidural aerocele
+قيلَةٌ هَوائِيَّةٌ قِحْفِيَّة ( قيلَةٌ هَوائِيَّةٌ خارِجَ القِحْف)	pneumatocele cranii (extracranial pneumatocele)
+قيلَةٌ هَوائِيَّةٌ نَكَفِيَّة	parotid pneumatocele
+قيلة وركية	ischiocele = sciatic hernia
+قيلة وركية ثربية	epiplomerocele
+قَيِّمٌ اجْتِماعِيّ	almoner
+قِيمَة	value
+قِيمَة R.f	Rf-value (retention factor)
+قيمَة [ج:قيم]	value
+قِيمَةٌ أَسِيتِيلِيَّة	acetyl value
+قيمَةُ التَّصَبُّن	saponification value
+قيمَةُ التَّكافُؤ	valence value
+قيمَةُ الرُّسَابَةِ البَرْدِيَّة	cryocrit value
+قيمَةُ الوَقود ( القيمَةُ الحَرارِيَّةُ للطَّعام)	fuel value
+قيمَةٌ حَدِّيَّة	liminal value
+قِيمَة دَرَجَة الْـحُمُوضَة	PH-value
+قيمَةٌ صَوتِيَّة	phonetic value
+قيمَةٌ عَتَبيَّة	threshold value
+قيمَةٌ مُطْلَقَة	absolute value
+قيمَةُ هيهنر (في الدسم المتصبنة)	Hehner's value
+قَيُوء، مُقَيِّئ	emetic; vomitive
+قُيودُ الأَظْفار	retinacula unguis NA

@@ -1,0 +1,202 @@
+خاصة (ال...) الشعرية الكهربية	electrocapillarity
+خاصة اختلاف الشكل	allotropy
+خاصة تكوينية	constitutive property
+خاصّة جمعية	additive property
+خاصة حجمية	bulk property
+خاصية	property
+خاصية تركيزية	colligative property
+خاصيَّة جمعيِّة	additive property
+خاصية قطبيّة	polar property
+خاصية مقدارية	extensive property
+خام (ن)	crude
+خامل ضوئيا	racemic
+خانق	choke
+خانق الترددات العالية	high frequency choke
+خانق ترددات منخفضة	low frequency choke
+خَبَث	slag
+خِبْري	empirical
+خذروف	top
+خذروف متناظر	symmetric top
+خذروف؛ بلبل دوّامة	spinning top
+خُذروف؛ دُوَّامة؛ بُلبل؛ ذُروة	top
+خرائط مِرْسَمَة الضغط	barographic charts
+خرْج	output
+خرج (ال...) المقنن (ن)	rated output
+خَرْج الطاقة	energy output
+خرسان خام الحديد (ن)	iron ore concrete
+خزّان	reservoir / tank
+خزان المهدىء (ن)	moderator tank
+خزان ضبط التغدية (ن)	feed adjustment tank
+خزان فراغي	vacuum reservoir
+خزّان هواء	air-reservoir
+خزان؛ مستودع	reservoir
+خزف	porcelain
+خسوف القمر	lunar eclipse
+خسوف، كسوف	eclipse
+خصائص مُميِّّزات	characteristic
+خِصب (ن)	fertile
+خضربة	wake
+خط الاستواء	equator
+خط الاستواء المغنطيسي	magnetic equator
+خط الامتصاص	absorption line
+خط الانخلاع	dislocation line
+خط الانسياب	streamline
+خط التأثير؛ حامل	line of action
+خط التأخير	delay line
+خط التعادل	neutral line
+خط الحمولة	load line
+خط الزوال المغنطيسي	magnetic meridian
+خط الطول	longitude
+خط الطيف	spectrum line
+خط العرض	latitude
+خط الكادميوم الأحمر	cadmium red line
+خط النظر	line of sight / line of vision
+خط الهَطْل الثابت	isohyetal line
+خط انزلاق	slip line / slipband
+خط بؤري	focal line
+خط تجاوبي للذرة	resonance line of an atom
+خط تجميع	assembly line
+خط تزامن الزلزلة	isoseist
+خط تساوي التغيم	isonephelic line
+خط تساوي الحجم	isometric line
+خط تساوي الحرارة	isothermal line
+خط تساوي الحرارة الأرضية	isogeothermal line
+خط تساوي القيظ	isotheral line
+خط تساوي المطر	isohyetal line
+خط تساوي شدّات الحقل المغنطيسـي الأرضي	isodynamic lines
+خط ثبات الحجم	isochore
+خط ثبات الزلزالية	isoseismal line
+خط ثبات الضغط؛ متكاتل	isobar
+خط ثبات القياس	isometric line
+خط ثبات اللون	isochromatic line
+خط ثبات درجة الحرارة	isotherm / isothermal line
+خط جيوديزي	geodesic / geodesic line
+خط دردوري	vortex line
+خطُ شفقٍ قطبي	auroral line
+خط ضعيف الفقد	low-loss line
+خط طيف	spectrum line
+خط طيفي	spectral line
+خط طيفي لانقطي	astigmatic spectral line
+خط عالمي	world line
+خط عرض	latitude
+خط عُقْدي	nodal line
+خط عمودي	normal line
+خط غير رنّان	non resonant line
+خط فرعي	branch line
+خط فعل القوة	line of action of force
+خط مُتَّحد المحور، متمحور	coaxial line
+خط محظور	forbidden line
+خط محوري	coaxial line
+خط معدوم التبدد	dissipationless line
+خط معيار داخلي	internal standard line
+خط مقارب	asymptote
+خط مقوَّى	enhanced line
+خط نقل	transmission line
+خطأ	error
+خطأ اختلاف المنظر	parallax error
+خطأ اختلاف المواضع	parallax error
+خَطَّا المحكِّمة	cross wires
+خطأ عارض	accidental error
+خطأ متكرر	repetitive error
+خطأ متوسط	mean error
+خطأ محتمل	probable error
+خطأ مخمن	estimated error
+خطأ مطلق	absolute error
+خطأ معياري	standard error
+خطأ ممكن	possible error
+خطأ نظامي	systematic error
+خطّاف	hook
+خطر الإشعاع	radiation hazard
+خطوط	Fraunhofer lines
+خطوط أرضية في طيف الشمس	telluric lines
+خطوط الامتصاص	absorption lines
+خطوط التدفق	flux lines
+خطوط التهيج الأدنى	ultimate lines; persistent spectrum
+خطوط الحقل	field lines
+خطوط القوة	lines of force
+خطوط القوة المغنطيسية	magnetic lines of force
+خطوط الكفاف (ن)	contour lines
+خطوط المجال	field lines
+خطوط تساوي الانحراف	isogonic lines
+خطوط تساوي الانحرافات المغنطيسية	isogonic lines
+خطوط تساوي القوة المغنطيسية	isodyamics lines
+خطوط تساوي درجة الحرارة	isotemperature loci
+خطوط ثبات المغنطيسية	isomagnetic lines
+خطوط ثبات الميل	isoclinic lines
+خطوط حدّية	ultimate lines
+خطوط صف	row lines
+خطوط طبقية	layer lines
+خطوط طيف الهواء	air lines
+خطوط عقدية	nodal lines
+خطوط فراونهوفر	Fraunhofer lines
+خطوط قوة مغنطيسية	magnetic lines of force
+خطوط محظورة	forbidden lines
+خطوة الشبكة	grating spacing
+خطوة اللولب (الحلزون)	pitch of helice
+خطوة النمو	growth step
+خطي، طولي	linear
+خفض (ال...) الطارىء للقدرة المراقبة (ن)	reactor trip; scram
+خلاء توريشلّي	Torricellian vacuum
+خلايا الحَملِيّة	Benard convection cells
+خلايا عَصَوِية	rod cells
+خِلط	humor
+خَلْط زجاجي	vitreous humor
+خلط مائي	aqueous humour
+خلع جزئي	partial dislocation
+خلع حافّي	edge dislocation
+خلع ممتد	extended dislocation
+خلفية	background
+خلفية (ن)	background
+خلو (ن)	void
+خليط	mixture
+خليطة؛ زِركالوي	zircaloy
+خلية	Baly cell; Baly tube / Leclanché cell / cell
+خلية (ال...) اللّبنة	unit cell
+خلية أحادية التناظر	monoclinic cell
+خلية التطوير (ن)	rework cell
+خلية الكادميوم	cadmium cell
+خلية المفاعل (ن)	reactor cell
+خلية الوقود	fuel cell
+خلية أولية	primary cell / primitive cell / unit cell
+خلية بسيطة	simple cell
+خلية ثنائية الشكل	bimorph cell
+خلية جاذبية	gravity cell
+خلية جافة	dry cell
+خلية حارة (ن)	hot cell
+خلية شمسية	solar cell
+خلية ضوئية	photocell
+خلية عيارية	standard cell
+خلية عيارية غير مشبعة	unsaturated standard cell
+خلية غلفانية	galvanic cell
+خلية فلطا	voltaic cell
+خلية فوتو فلطية	photovoltaic cell
+خلية فولطا	voltaic cell
+خلية فولطية ضوئية	photovoltaic cell
+خلية كادميوم	cadmium cell
+خلية كهرحراري	thermopile
+خلية كهرضوئية	photoelectric cell
+خلية كير	Kerr cell
+خلية متميزة (ن)	super cell
+خلية معيارية؛ بيل معياري	standard cell
+خلية نصفية	half-cell
+خلية وسطن	Weston cell
+خماسي	pentagon
+خُماسـي الأضلاع	pentagon
+خماسي الشبكة	pentagrid
+خمود	damping
+خوارزمية	Algorithm
+خواص المادة	properties of matter
+خواص الموجة	properties of wave
+خواص فيزيائية	physical properties
+خواص مكتسبة	extrinsic properties
+خواص نووية	nuclear properties
+خيال	image
+خيال حقيقي؛ صورة حقيقية	real image
+خيال صحيح	erect image
+خيال كامن	latent image
+خيال مقلوب	inverted image
+خيال مكبَّر	magnified image
+خيال وهمي؛ صورة وهمية	virtual image
+خيط	string
+خيط الشاقول	plumb line
+خيطان شعريان متصالبان	cross-hair lines

@@ -1,0 +1,76 @@
+طابق الميزانين	Mezzanine Floor
+طارئ	Contingency
+طاغية، ظالم	tyrant
+طاقة إنتاجية إضافية	Capacity Cushion
+طاقة متجسدة	Embodied Energy
+طالب الترخيص الإجباري	Applicant for the compulsory license
+طالب القيد	Petitioner
+طالب اللجوء	asylee
+طالب تسجيل حق مؤلف	Applicant of a copyright
+طالب تسجيل علامة	Applicant of a mark
+طب الشغل	industrial medicine
+طب شرعيّ	forensic medicine
+طبقا للقانون، وَفْقا للقانون	according to law
+طبقات	Tiring
+طبقات مخفية	Hidden Layers
+طبقة	Tier
+طبقة الأوزون	Ozone Layer
+طبل	Drum
+طرح العام الأولي	Initial Public Offering (IPO)
+طرف	Party
+طرف أصليّ	principal party
+طرف ثالث	Third Party
+طَرَف خَصْم، طَرَف منازِع	adverse party
+طرف متعاقِد	contracting party
+طرف منضمّ	joint party
+طرف مهتم	Interested Party
+طُرق التنفيذ	measures of execution
+طُرق الطعن	methods of recourse
+طُرق تدليس	fraudulent maneuvers
+طرق قياس الموارد البشرية	Hard Measures
+طريقة التحكم في الدفع	Push Control Method
+طريقة التحكم في السحب	Pull Control Method
+طريقة التقدير بالعوامل	Factor Rating Method
+طريقة التوزيع المتكرر	Repeated Distribution Method
+طريقة الخطوة	Step Method
+طريقة المتوسط المرجح الأسي	(EWAM) Exponentially Weighted Average Method
+طَعْن	recourse
+طعن بالزور	plea of forgery
+طعن تسلسليّ، تظلُّم رئاسيّ	hierarchical remedy
+طغيان، تسلُّط	tyranny
+طِفل	child
+طفل مُتبنّى	adopted child
+طلاق	Divorce / divorce
+طلاق بائن	Irrevocable Divorce / irrevocable divorce
+طلاق بائن بينونة صغرى	Minor Irrevocable Divorce
+طلاق بائن بينونة كبرى	Major Irrevocable Divorce
+طلاق رجعيّ	Revocable Divorce / revocable divorce
+طلب	Requisition
+طلبُ إحاطة، استفسار	interpellation
+طلب احتياطيّ	subsidiary claim
+طلب إضافيّ	additional claim
+طلب افتتاحيّ للدعوى	introductive writ of summons
+طلب الاستدعاء	Direct Call Off
+طلب الأولوية	Priority application
+طلب التدخل في الدعوى	intervention application
+طلب القسمة	Partition request
+طلب إلكتروني	E-Ordering
+طلب المعلومات	Request For Information (RFI)
+طلب براءة اختراع	Patent application
+طلب براءة اختراع دولي	International patent application
+طلبُ بضاعة	order form
+طلب تسعير الكتروني	E-RFQ / E-ITT
+طلب تقديم العروض	RFP
+طلب جديد	new claim
+طلب شراء	Purchase Requisition (PR)
+طلب عارِض	Incidental Motions / incidental demand; incidental request
+طلب عدم اليقين	Demand Uncertainty
+طلب عرض	Request For Proposal (RFP)
+طلب عرض أسعار	Request For Quotation (RFQ)
+طلب عرض، طلب عروض	invitation to tender
+طلب عروض	bid invitation
+طلب متكامل	Perfect Order
+طلب مُستعجَل	Summary Petition
+طلب مضاد	counterclaim
+طلب معتمد	Dependent Demand
+طول العمر التجاري	Longevity

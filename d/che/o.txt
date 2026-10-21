@@ -1,0 +1,220 @@
+o-electron	ألكترون O
+o-shell	طبقة(ال...) O
+oblique	مائل، منحرف
+obscure	مظلم، معتم
+observation	ملاحظة، مراقبة
+obsolete	متروك
+obturator	حابس، صمام
+obturator plate	صفيحة سادَّة، صفيحة الاغلاق
+obvious	واضح، بيِّن
+occlusion	احتباس، انحباس / احتباس
+occult	خفي
+occupation	احتلال، إشغال
+occurrence	حدوث، وجود / حدوث
+ocher	مَغْرة
+ochre	مغرة
+octa	ثمانية، ثماني
+octa-	ثُماني: سابقة
+octadecanoic acid	حمض الأوكتاديكانويك
+octahedral	ثماني الوجوه / ثُمانيُّ الأوجه
+octahedral cleavage	انشطارٌ ثُمانيُّ الأوجه
+octahedron	ثماني السطوح / مُجَسَّمٌ ثُمانيُّ
+octane	أوكتان
+octane (iso)	إيزو أوكتان
+octane (n)	أوكتان عادي
+octane number	عدد الأوكتان
+octanol	أوكتانول
+octanoïc acid	حمض الأوكتانويك
+octavalent	ثماني التكافؤ
+octave rule	قاعدة الثُّمانيات
+octene	أوكتين
+octet	ثمانية / ثُمانية
+octet rule	قاعدة الثماني، قاعدة المجموعة الثمانية
+octet structure	بنية ثمانية
+octet theory	نظرية الثُّمانيات
+octyl	أوكتيل
+odd molecules	جزيئات مفردة
+odd number	عدد فردي
+odor	رائحة
+odor; odour	رائحة
+odoriferous	ذو رائحة
+odorimeter	مقياس الرائحة
+odoriphore	حامل الرائحة
+odoroscope	مكشاف الرائحة
+odourless	عديم الرائحة
+offal	نفايات، فضلات
+Ohm's law	قانون أوم
+oil	زيت
+oil bath	حمّام زيتي / حمام زيتي
+oil cleaner	منظف زيتي
+oil press	معصرة الزيت
+oil vitriol	زيت الزاج
+oily	زيتي
+ointment	مرهم
+oleate	زيتات، أوليات
+olefine	أولِفين
+olefines	أوليفينات
+oleic acid	حمض الزيت، حمض الأوليك / حمض الأولييك (الزيت)
+oleophilic	أليف الزيت
+oleophobic	كاره الزيت
+oleoresin	راتينج زيتي
+oleum	أليوم / أوليوم، حمض الكبريتيك الدخاني
+olien	زيتين (أولئين)
+oligo	قليل
+oligo-	قليل
+oligomer	أوليغومير / قليل الحدود
+oligomerization	قليل البلمرة
+oligosaccharide	قليل السكّريد
+olive oil	زيت الزيتون
+oncotic pressure	ضغط تناضحي غرواني
+ondulation	تموُّج، موَجان
+Onsager's conductance theory	نظرية أنساجر للتوصيل
+opacity	كمدة / عتامة، كمدة
+opal	أوبال
+opalescence	تلألؤ، لمعان / غُمّة
+opalescent	متلألىء، لامع / غَموم
+opaque	كامد / مُعْتِم
+open system	جملة مفتوحة
+open-chain compounds	مركبات لا حلقية
+operation	عملية
+opium	أفيون
+opposing chemical reactions	تفاعلات كيميائية متضادة
+opposing reaction	تفاعل معاكس
+optical	بصري، نظري / ضوئي
+optical activity	فعالية بصرية، فعالية ضوئية / فعالية ضوئية
+optical antipodes	نقيضان بصريان
+optical density	كثافة ضوئية
+optical isomerism	تماكب بصري، تماكب ضوئي / تصاوغ ضوئي
+optical orientation	توجيه بصري
+optical rotation	دوران بصري / دوران ضوئي
+optical sign	علامة بصرية
+optically active	فعّال ضوئيًا
+optics	بَصَريَّات
+optima	الأمثل، الأفضل
+optimal	أمثل
+optimization	استمثال
+optimum temperature	درجة الحرارة المُثلى
+optium (conditions)	أمثل (ال...)، أفضل (ال...)
+oragnic compounds	مركبات عضوية
+oragnize (to)	عضى
+orbit	مدار
+orbital	مدار / مداري
+orbital hybridization	تهجين المداريّات
+orbital moment	عزم قطبي
+orbital quantum number	عدد كمومي مداري
+order	رتبة
+order of a reaction	رتبة التفاعل
+ordinary conditions	شروط عادية
+ordinate	ترتيب
+ore	خامة
+ores	خامات
+organelles	جسيمات عضوية
+organic	عضوي
+organic acid	حمض عضوي
+organic base	قاعدة عضوية
+organic chemistry	كيمياء عضوية
+organism	عضوية
+organization	تعضية، تعّضٍ
+organoleptic test	اختبار حواسي
+organometallic compound	مُرَكَّب عضوي فلزي
+organosol	خلالة عضوية
+orientation	توجيه
+orifice	ثقبة
+ortho	أورثو، أورتو
+ortho carbonic acid	حمض أورتو الكربونيك
+ortho-,orth-	أورتو، سويّ
+ortho-isomers	مماكبات أورتو
+orthogonal	متعامد
+orthogonality	تعامد
+orthohydrogen	هيدروجين أورتو
+orthokinetic	مرتحل باستقامة، مرتحل في نفس الاتجاه
+orthophosphoric acid	حمض أورتو الفسفوريك
+orthorhombic	معيني مستقيم
+orthorhombic system	جملة معينية مستقيمة
+osazone	أوزازون
+osmium	أسميوم / أوسميوم
+osmium tetroxide	رباعي أكسيد الأوسميوم
+osmol, osmole	أوسمول، نُضحة
+osmolality	أوسمولية (تناضحية) مولية وزنية
+osmolarity	أوسمولية (تناضحية) مولية حجمية
+osmometer	مقياس التناضح
+osmometry	قياس التناضحية
+osmose (v)	يتناضح
+osmosis	حلول، أسموز / تناضح
+osmotic	تناضحي
+osmotic pressure	ضغط حلولي، ضغط أسموزي / ضغط تناضحي
+osometer	مقياس الضغط الحلولي، مقياس الضغط الأسموزي
+ossein	عظمين
+Ostwald process	إجراء اوستوالد، عملية اوستوالد
+outlet	مخرج، منفذ
+output	نتاج، خرج، مُخْرَج
+oveergrowth	فرط النمو
+oven	فرن، محمّ / فرن
+over pressure	ضغط مفرط، فرط الضغط
+over voltage	فلطية مفرطة، فوق الفلطية
+over-	مفرط، فوق
+overacidity	مفرط الحموضة
+overall reaction	تفاعل إجمالي
+overhead product	منتج عُلْوِيّ
+overheating	تسخين مفرط / فرط تسخين
+overlap (v)	يتراكب
+overlap of orbitals	تداخل المدارات، تداخل الأفلاك
+overlapping	تَرَاكُب
+overlapping orbitals	مداريّات متراكبة
+overpotential	فرط الكمون
+oversaturation	فرط التشبع، فوق التشبع
+overtreatment	فرط المعالجة، معالجة مفرطة
+overvoltage	فرط الفولطية
+oxalate	أكزالات، أكسالات، حمّاضات / أوكزالات، حمّاضات
+oxalic acid	حمض الأكزاليك، حمض الحمّاض / حمض الأوكزاليك (الحُمّاض)
+oxaloacetic acid	حمض أوكزال الأسيتيك
+oxalosuccinic acid	حمض أوكزال السُكْسينيك
+oxamide	أوكزاميد
+oxazine	أوكزازين
+oxazole	أوكزازول
+oxidant	مؤكسِد
+oxidase	أكسيداز: إنزيم
+oxidation	أكسدة، تأكسد
+oxidation (oxidizing)	أكسدة
+oxidation inhibitor	مانع التأكسد
+oxidation number	عدد الأكسدة
+oxidation potential	كمون الأكسدة / كمون التأكسد
+oxidation state	حالة التأكسد
+oxidation-reduction reaction	تفاعل أكسدة - اختزال
+oxidation-reduction titration	مُعايرة الأكسدة- الاختزال
+oxidation-réduction reactions	تفاعلات التأكسد و الاختزال، تفاعلات الأكسدة والارجاع
+oxidative	تأكسدي
+oxide	أكسيد
+oxides ores	خامات أكسيدية
+oxidizable	قابل للتأكسد
+oxidize (v)	يؤكسِد
+oxidizer	مؤكسِد
+oxidizing	مؤكسد
+oxidizing agent	عميل مؤكسِد
+oxidizing flame	لهب مؤكسِد
+oxido-reductase	إنزيم أكسدة وإرجاع
+oxime	أُكسيم
+oxine	أُكسين
+oxirane	أُكسيران
+oxo process	عملية أوكسو / عملية أُكسو
+oxo reaction	تفاعل أُكسو
+oxo-	أُكسو: سابقة
+oxonium ion	أيون الأُكسونيوم
+oxy-	أُكسي: سابقة
+oxyacetylene bowpipe	بوري الأكسي-أستيلين
+oxyacid	حمض أكسيجيني
+oxycellulose	سيلولوز مؤكسَد
+oxygen	أكسجين
+oxygenated water	ماء مؤكسَج
+oxygenation	أكسجة
+oxygene	أكسجين
+oxygene (activated)	أكسجين منشِّط
+oxyhaemoglobin	أوكسي هموغلوبين
+oxysalt	ملح الحمض الأكسجيني
+ozone	أوزون
+ozonide	أوزونيد
+ozonization	أوزنَة
+ozonize (to)	أوزَن
+ozonizer	مُؤَزْوِن
+ozonolysis	تحليل أوزوني / تحلّل أوزوني
+ozonometer	مقياس الأوزنّة

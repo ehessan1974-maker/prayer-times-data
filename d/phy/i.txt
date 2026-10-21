@@ -1,0 +1,547 @@
+i-spin	سبين نظيري
+i_spin	iسبين
+i_type semiconductor	iنصف ناقل من النوع
+ice	جليد
+ice-calorimeter	مِسعر جليدي
+iced	مثلَّج
+Iceland spar	بَلَق آيسلندة
+iconometer	مقياس الأبعاد
+iconoscope	كاميرا تلفزيَّة مُخزِّنة
+ideal assembly	تجميع مثالي
+ideal constraint	قيد مثالي
+ideal dielectric	كهر نافذ مثالي
+ideal diode	ديود مثالي
+ideal flow	جريان مثالي
+ideal fluid	مائع مثالي؛ مائع كامل
+ideal gas	غاز مثالي / غاز مثالي؛ غاز كامل
+ideal magnetization	مغنطة مثالية
+ideal permeability	نفاديّة مثاليّة
+ideal solution	محلول مثالي
+ideal source	منبع مثالي
+ideal transformer	محِّولة مثالية
+identical particles	جسيمات متطابقة
+identity	متطابقة
+identity matrix	مصفوفة محايدة، مطابقة
+identity period	مسافة تطابق
+idiochromatic crystal	بلورة أصلية اللون / بلورة أصيلة اللون
+idiomorphous	أصيلة الشكل
+idle component	مركّبة عاطلة / مركِّبة ردّية
+idle motion	حركة عاطلة
+idle period	فترة تعطل
+IGFET	ترانزستور IGFET
+ignition coil	ملف الإشعال
+ignition temperature	درجة حرارة الإشعال
+ignitor	مُشعِل
+ignitron	إغنطرون، صمام قوسـي
+illuminate (to)	يضيئ
+illumination	إضاءة / إنارة
+illumination control	تحكم في الإنارة
+illumination intensity	شدة الإنارة
+illumination photometer	مقياس إنارة مخبري
+illumination photometer; illuminometer	مضواء
+illumination power	قدرة الإضاءة
+illuminometer	مقياس إنارة ميداني
+image	صورة، خيال / خيال
+image antenna	هوائي خيالي
+image converter	محوِّل الصورة
+image effect	مفعول الخيال
+image impedance	ممانعة الخيال
+image-side focus	بؤرة خيالية؛ محرق خيالي
+image-storage array	صفيف خزن الصورة
+imaginary part	جزء تخيلي
+imaginary quantity	كمية تخيلية
+imbibition	تشربّ / تشـرب
+immersion	غَمَر، غََطس
+immersion electron microscope	مجهر إلكتروني غمري
+immersion objective	شيئية مغمورة، شيئية غاطسة / جسمية غاطسة
+immersion refractometer	مقياس انكسار بالغطس
+immiscibility	لا امتزاجيّة
+immiscible solvent	مذيب لا مزوج
+impact	صدم
+impact energy	طاقة الصدم
+impact excitation	إثارة صدمية
+impact fluorescence	تألق صدمي / فلورة صدمية
+impact parameter	مَعلَم الصدم (ن) / وسيط الصدم
+impact pressure	ضغط الصدم
+impact radiation	اشعاع الصدم
+impact strength	مقاومة الصدم
+impedance	ممانعة
+impedance bridge	جسـر ممانعات
+impedance component	مركبة الممانعة
+impedance level	مستوى الممانعة
+impedance match	توافق الممانعات
+impedance-matching network	شبكة توفيق الممانعة
+impenetrability	لا اختراقية
+impermeability	لا نفاذيّة / لانفوذيَّة
+implicit function	دالة ضمنية
+implosion	انخساف
+importance function	دالة الأهمية (ن)
+impressed field	مجال مسلط
+impressed force	قوة مسلطة
+improper function	دالة معتلة (ن)
+impulse	دفع / دَفْع؛ نبضة
+impulse generator	مولِّد نبضات
+impulse of a force	دفع القوة
+impulse turbine; impluse wheel; Pelton wheel	عنفة نبضية
+impulse voltage	فلطية نبضية
+impulsive sound	صوت نبضي
+impure	مَشوب / مَشُوب؛ غير نقي
+impure spectrum	طيف مَشوب
+impurities	شوائب
+impurity	شائبة
+impurity atom	ذرة شائبة
+impurity atom; chemical impurity; foreign atom	ذرة الشائبة
+impurity concentration	تركيز الشوائب
+impurity levels	مستويات الشوائب
+impurity semiconductor	نصف ناقل مَشُوب
+in phase	توافق في الطور
+incandescence	توهّج / توهج
+incandescent lamp	مصباح متوهّج / مصباح متوهج
+inch	إنش
+incidence	سقوط
+incident beam	حزمة واردة
+incident light	ضوء ساقط
+inclination	ميل / مَيْل
+inclined plane	مستوٍ مائل / مستوي مائل
+inclusion	احتواء
+incoherent radiation	إشعاع لا مترابط
+incoherent scattering	استطارة غير متماسكة / تبعثر لا مترابط
+incoherent waves	موجات لا مترابطة
+incommensurable numbers	عددان غير متقاسمين
+incompressibility	لا انضغاطية
+incompressible	لا انضغاطي
+incompressible fluid	مائع لا انضغاطي
+incompressible volume	حجم لا انضغاطي
+increment	زيادة قفزية
+incremental	تزايدي
+incremental inductance	حث تزايدي
+incremental permeability	نفاذية تزادية
+independant variable	متغيّر مستقل
+independent events	أحداث مستقلة
+independent particle model	نموذج الجسيمات المستقلة
+independent variable	متغير مستقل
+indestructibility	لا تلفيّة
+indestructible	لا يتلف
+indeterminacy principle	مبدأ الارتياب
+indeterminancy principle; uncertainty principle	مبدأ اللاتحديد
+index	دليل، معامل / قرينة
+index ellipsoid	مجسم اهليلجي دليلي / إهليلج القرائن المجسَّم
+index liquid	سائل دليلي
+index of refraction	معامل الانكسار / قرينة الانكسار
+indicator	مؤشر / مؤشـر
+indicator diagram	مخطط مؤشر
+indicial admittance	قبولية دليلية
+indirect	غير مباشر
+indirect absorption	امتصاص غير مباشـر
+indirect cycle reactor	مفاعل دورة غير مباشرة (ن)
+indirect gap	فرجة غير مباشـرة
+indirect illumination	اضاءة غير مباشرة
+indirect lighting	اضاءة غير مباشرة / إضاءة غير مباشـرة
+indirect transition	انتقال غير مباشـر
+indirectly ionizing particle	جسيم تأيين غير مباشر (ن)
+indirectly ionizing radiation	اشعاع تأيين غير مباشر (ن)
+indistinguishability	لا تمايز
+indistinguishable	غير مميز
+indistinguishable particles	جسيمات لا متمايزة
+indium	إنديوم
+individual dosimeter	مقياس جرعات شخصي (ن)
+induced charge	شحنة محتثة / شحنة متحرضة
+induced circuit	دارة حثّية
+induced current	تيار حثّي / تيار متحرض
+induced dipole moment	عزم ثنائي الأقطاب محتث
+induced E.M.F	قوة دافعة كهربائية محتثة
+induced electromotive force	قوة محركة كهربائية محرَّضة
+induced fission	انشطار محرَّض
+induced magnetism	مغنطيسية محتثة / مغنطيسية متحرضة
+induced noise	ضجيج محتث
+induced polarity	قطبية محتثة
+induced polarization	استقطاب محتث
+induced potential	جهد حثي
+induced radioactivity	نشاط اشعاعي محثوث / نشاط إشعاعي متحرض
+inductance	مُحَاثّة / تحريضية
+inductance meter	مقياس التحريضية
+inducting current	تيار حاثّ
+induction	حثّ
+induction accelerator	معَجِّل حَثّ / مسـرع تحريضي
+induction coil	ملف حثّ / ملف التحريض
+induction currents	تيارات حثّ
+induction displacement	ازاحة حثّية
+induction effect	تأثير الحثّ
+induction field	مجال الحثّ
+induction heating	تسخين حثّي / تسخين بالتحريض
+inductive coupling	قَرْن تحريضي
+inductive load	حمل حثّي
+inductive reactance	رَدِّية تحريضية
+inductor	محرِّض؛ محرضة
+inelastic	لا مرن
+inelastic collision	تصادم لامرن / تصادم لا مرن
+inelastic impact	صدم لامرن
+inelastic scattering	استطارة غير مرنة (ن) / تبعثر لامرن
+inert gas	غاز خامل
+inert gas; inert gases	غاز خامل
+inertia	قصور (ن) / عطالة
+inertial force	قوة العَطالة
+inertial frame of reference	جملة عَطالية مرجعية
+inertial mass	كتلة عَطالية
+inextensible	غير قابل للامتطاط
+inference role	دور الاستنتاج
+infinite	لامتناهي
+infinite dilution	تخفيف لانهائي
+infinite multiplication factor	عامل مضاعفة لانهائي (ن)
+infinitely dense medium	وسط لانهائي الكثافة
+infinitely rare medium	وسط لا نهائي التخلخل
+infinitesimal	لا متناهٍ في الصغر
+infinity	لا نهاية
+inflection point	نقطة انعطاف
+inflexibility	لا انثنائية
+inflexible	لا انثنائي
+information theory	نظرية المعلومات
+infra-red	تحت الأحمر
+infra-red absorption	امتصاص ما تحت الأحمر
+infra-red lamps	مصابيح أشعة تحت الحمراء
+infra-red photography	تصوير بالأشعة تحت الحمراء
+infra-red radiation	اشعاع تحت الأحمر
+infra-red spectrum	طيف الأشعة تحت الحمراء
+infra-red-rays	أشعة تحت الحمراء
+infrared absorption	امتصاص لما تحت الأحمر
+infrared absorption spectrum	طيف امتصاص تحت الأحمر
+infrared detector	مكشاف لما تحت الأحمر
+infrared emitting diode	ديود مُصْدر لما تحت الأحمر
+infrared lamp	مصباح أشعة تحت الحمراء
+infrared photography	تصوير بالأشعة تحت الحمراء
+infrared radiation	إشعاعٌ تحت الأحمر
+infrared spectroscopy	مطيافية الأشعة تحت الحمراء
+infrared spectrum	طيف الأشعة تحت الحمراء
+infrasonic	تحت الصوتي
+infrasound	تحت الصوتية
+inherent stability	استقرار متأصل (ن)
+inhibitor	مثبِّط
+inhomogeneous	غير متجانس
+inhomogeneous differential equation	معادلة تفاضلية غير متجانسة
+inhomogeneous; hetergeneous	لا متجانس
+initial	أوّلّي
+initial conditions	شـروط ابتدائية
+initial conversion ratio	نسبة تحول أولي (ن)
+initial core	لب ابتدائي (ن)
+initial ionizing event	حدث تأين أولي
+initial permeability	نفاذية أولية
+initial velocity	سـرعة ابتدائية
+initial voltage; sparking potential	فولطية أولية، جهد الشرارة
+injected carrier density	كثافة الحاملات المحقونة
+injection	حقن
+inner product	جداء داخلي
+inner quantum number	عدد كمي داخلي / العدد الكمومي الداخلي
+input	دخل / دخْل ; مدخل
+input control	تحكّم الدخل
+input impedance	ممانعة الدخل
+input resonator	رنّان الدخل
+input signal	إشارة الدخل
+input voltage	فُلطية الدخل
+insertion loss (or gain)	فَقْد (أو كسب) الإدراج
+installed capacity	مقدرة التأسيس (ن)
+installed conductor	موصّل معزول
+instantaneous	آنيّ
+instantaneous axis	محور آني
+instantaneous axis of rotation	محور الدوران الآني
+instantaneous center	مركز آني
+instantaneous center of rotation	مركز (ال...) الآني للدوران / مركز الدوران الآني
+instantaneous current	تيار آني
+instantaneous currents	تيارات آنية
+instantaneous force; instantaneous mecanomotive force	قوة آنية
+instantaneous power	قدرة آنية
+instantaneous value	قيمة آنية
+instantaneous velocity	سرعة آنية / سـرعة آنية
+instrumentation amplifier	مضخم مقياسي
+insulated conductor	ناقل معزول
+insulated wire	سلك معزول
+insulated-gate FET	ترانزستور حقلي معزول البوابة
+insulating materials	مواد عازلة
+insulator	عازل
+integer spin	سبين صحيح
+integrable function	دالة قابلة التكامل (ن)
+integral	تكامل؛ كلي
+integral absorbed dose	جرعة ممتصة تكاملية (ن)
+integral dose	جرعة كلية
+integral experiment	تجربة تكاملية (ن)
+integral heat of dilution	حرارة التخفيف الكلية
+integral heat of solution	حرارة المحلول الكلية
+integral reactivity	مفاعلية تكاملية (ن)
+integral reactor	مفاعل تكاملي (ن)
+integrated circuit	دارة متكاملة؛ دارة مُدْمَجة
+integrating circuit	دارة مكاملة
+integration by parts	مكاملة بالتجزئة
+integration circuit	دارة تكامل
+integrator	مكامل
+integrator circuit	دارة تكامل؛ دارة مكاملة
+intensification	تقوية
+intensifying electrode	مسـرى تعزيز
+intensifying screen	شاشة تعزيز
+intensity	شدّة / شدة
+intensity level	مستوى الشدة
+intensity of current	شدة التيار
+intensity of illumination	شدة الاضاءة
+intensity of radiation; quantity of radiation	شدة الاشعاع
+intensity of radioactivity	شدة النشاط الاشعاعي / شدة النشاط الإشعاعي
+intensity of sound	شدة الصوت
+interaction	مُفَاعلة (ن) / تآثر
+interaction cross section	المقطع الفعال للتآثر
+interaction energy	طاقة المفاعلة (ن) / طاقة التآثر
+interaction representation	تمثيل مفاعلة
+intercoolant circuit	دارة تبريد بينية (ن)
+interface	سطح بيني / سطح بيني؛ بينية
+interfacial surface energy	طاقة سطح بينيّ
+interfacial tension	توتر السطح البيني
+interfacial zone	منطقة السطح البيني
+interference	تداخل
+interference filter	مرشح تداخلي
+interference fringes	أهداب التداخل
+interference of light	تداخل الضوء
+interference of wave motions	تداخل الحركات الموجيّة
+interference plates	صفائح التداخل
+interferometer	مقياس التداخل / مقياس تداخلي
+interferometry	قياس التداخل / مقياسية تداخلية
+interfringe	بُعد هُدبي
+intergalactic space	فضاء بين المجرات / فضاء بيمجرِّي
+interlock circuit	دارة اقفال محكم (ن)
+interlock limit	حد الاقفال المحكم (ن)
+intermediate frequency	تردد وسيط
+intermediate neutron	نترون وسيط (ن) / نترون متوسط الطاقة
+intermediate neutron reactor	مفاعل نترونات متوسطة الطاقة
+intermediate neutrons reactor	مفاعل نترونات وسيطة (ن)
+intermediate range monitor	مرقاب المدى الوسيط (ن)
+intermediate reactor	مفاعل وسطي
+intermediate state	حالة وسطية / حالة وسيطة
+intermetallic compound	مركب سبيكي / مركب فلزي
+intermittency	تقطّعِية
+intermittency effect	تأثير تقطيعي
+intermittent	متقطّع
+intermittent current	تيار متقطع
+intermodulation	تعديل بيني
+internal bremsstrahlung	أشعة الكبع الداخلية (ن)
+internal consumption	استهلاك داخلي (ن)
+internal conversion	تحول داخلي (ن) / تحوُّل داخلي؛ انقلاب داخلي
+internal energy	طاقة داخلية
+internal force	قوة داخلية
+internal friction anelasticity	احتكاك داخلي
+internal irradiation	تشعيع داخلي (ن)
+internal pressure	ضغط داخلي
+internal resistance	مقاومة داخلية
+internal resistance; intrapilary resistance	مقاومة داخلية
+internal standard	معيار داخلي
+internal standard line	خط معيار داخلي
+internal work	شغل داخلي
+international system of units	جملة الواحدات الدولية
+international temperature scale	سلم درجة الحرارة الدولي
+international units	وحدات دولية
+interphase	طور بيني
+interplanetary space	فضاء كواكب بيني
+interrupter	مقطِّع
+intersection	تقاطع
+interstellar space	فضاء نجوم بيني
+interstice	فرجة / حيّز خلالي
+interstice atom	ذرة خلالية
+interstitial compounds; interstitial strucutres	مركبات خلاليّة
+interstitial position	موضع خلالي
+intertraction	تقلص داخلي
+interval	فترة (ن) / مجال فاصل
+intonation	تنغيم
+intrinsic	ذاتّي
+intrinsic coercive force	قوة قسرية ذاتية
+intrinsic conduction	توصيل ذاتي
+intrinsic energy	طاقة ذاتية
+intrinsic induction	حثّ ذاتي / تحريض أصيل
+intrinsic parity	نِدِّيَّة ذاتية
+intrinsic photon absorption	امتصاص فوتوني أصيل
+intrinsic reactance	معاوقة ذاتية
+intrinsic resistance	مقاومة ذاتية
+intrinsic semiconductor	نصف ناقل أصيل
+intrinsic viscosity	لزوجة ذاتية
+invariance	صُمود
+invariant	صامد
+inverse Compton effect	مفعول كومْتُن معاكس
+inverse piezoelectric effect	تأتير كهرضغطي عكسي
+inverse square law	قانون التربيع العكسي (ن)
+inverse voltage	فلطية عكسية
+inverse-square law	قانون التربيع العكسي
+inversely	عكسي
+inverser	عاكس
+inversion	قلب؛ انقلاب
+inversion axis	محور الانقلاب
+inversion of spectrum	طيف انقلابي
+inverted image	صورة مقلوبة / خيال مقلوب
+inverter	عاكس
+inverter gate	بوابة عاكسة
+invisible	لا مرئي
+invisible radiation	إشعاع لا مرئي
+invisible spectra	أطياف لا مرئية
+invisible spectrum	طيف لا مرئي
+iodide	يود
+ion	أيون (ن) / أيون
+ion beam	حزمة أيونية
+ion beam analysis	تحليل بالحزمة الأيونية
+ion density	كثافة أيونية
+ion exchange	تبادل أيوني
+ion gun	مدفع أيوني
+ion pair	زوج أيونات (ن)
+ion pair yield	مردود زوج الأيونات (ن)
+ion source	منبع أيونات
+ion yield	مردود أيوني (ن)
+ion-density	كثافة أيونية (ن)
+ion-exchange	تبادل أيوني
+ionic bond	رابطة أيونية
+ionic charge	شحنة أيونية
+ionic compound	مركب أيوني
+ionic concentration	تركيز أيوني
+ionic conductance	موصّلية أيونية
+ionic conductivity	موصلية أيونية
+ionic crystal	بلّورة أيونية / بلورة أيونية
+ionic equilibrium	توازن أيوني
+ionic formula	صيغة أيونية
+ionic migration; migration of ions	هجرة آيونية
+ionic mobility	انتقالية الأيونات / حركية أيونية
+ionic polarizability	استقطابية أيونية
+ionic potential	جهد أيوني
+ionic reaction	تفاعل أيوني
+ionic strength	قوّة أيونية
+ionicity; degree of ionicness	آيونية
+ionization	تأيّن (ن) / تأين
+ionization by collision	تأيّن بالاصطدام
+ionization chamber	غرفة التأيّن (ن) / حجرة التأين
+ionization chamber region	منطقة غرفة التأيّن (ن)
+ionization current	تيار التأيّن (ن)
+ionization energy	طاقة التأين
+ionization event	حادثة تأين
+ionization mean free path	متوسط المسار الحر للتأين
+ionization potential	جهد التأين (ن) / كمون التأين
+ionization track	أثر التأين (ن)
+ionize to	يؤيّن (ن)
+ionized impurities	شوائب متأينة
+ionizing agent	وسيط مؤيِّن
+ionizing energy	طاقة مؤينة
+ionizing event	حادثة مؤيِّنة (ن)
+ionizing particle	جسيم مؤيِّن (ن)
+ionizing radiation	اشعاع مؤيِّن (ن) / إشعاع مؤيِّن
+ionogenic	مولد أيوني
+ionosphere	جو (ال...)ّ الأيوني / غلاف جَوِّي أيوني؛ أيونوسفير
+ions source	مصدر ايونات (ن)
+iridescence	تقزح لوني / تقزُّح
+iridescent	مقزَّح
+iridium	إيريديوم
+iris	قزحية
+iris diaphragm	حجاب القزحية / حِظار قزحي
+iris of eye	قزحية العين / قَزحَيّة العين
+iron	حديد
+iron loss	ضياع في الحديد
+iron ore concrete	خرسان خام الحديد (ن)
+iron-core	نواة حديدية
+iron-cored	حديد االلب
+iron-filings	بُرادة الحديد
+irons-filings	برادة الحديد
+irradiance	إشعاعية: كثافة تدفق الإشعاع
+irradiance; radiant flux density	اشعاعية (ال...)
+irradiation	تشعيع
+irradiation channel	قناة التشعيع (ن)
+irradiation embrittlement	تهشيش بالتشعيع (ن)
+irradiation enhancement	تعزيز تشعيعيّ (ن)
+irradiation exposure	تعرض تشعيعيّ (ن)
+irradiation reactor	مفاعل التشعيع (ن)
+irradiation rig	عدة التشعيع (ن)
+irrational dispersion	تفرق لامنطقي
+irregular diffuse reflection	انعكاس انتشاري غير منتظم
+irregular reflection	انعكاس انتثاري
+irreversibility	لاعكيسية (ال...)
+irreversible cycle	دورة غير عكيس
+irreversible process	عملية غير عكيس / تحول لا عكوس
+irrotational flow	جريان لا دوراني
+irrotational motion	حركة لا دورانية / حركة لا دورانيّة
+isentropic change	تحول تابث الاعتلاج
+isentropic process	عملية ثابتة الأنتروبية
+isobar	متساوي النويّات (ن) / خط ثبات الضغط؛ متكاتل
+isobar spin quantum number; isotopic	عدد كمي برمي لمتساويات الكتل
+isobaric spin	سبين إيزو باري
+isobaric transformation	تحول ثابت الضغط
+isochore	خط ثبات الحجم
+isochore transformation	تحول ثابت الحجم
+isochromatic	متساويات الألوان
+isochromatic curve	منحنى متساوي الألوان
+isochromatic line	خط ثبات اللون
+isochromatic surfaces	سطوح وحيدة اللون، سطوح من نفس اللون
+isochronous	متساوي الزمن / ثابت التردد
+isoclinic lines	خطوط ثبات الميل
+isoclinic; isoclinal; isocline	متساويات الميل
+isodesmic structure	بنية متساوية الترابط
+isodiapheres	متفارقات
+isodimorphism; double isomorhism	تشاكل بلّوري مزدوج
+isodose	متساوي الجرعات (ن)
+isodose chart	مخطط ثبات الجرعة
+isodyamics lines	خطوط تساوي القوة المغنطيسية
+isodynamic lines	خط تساوي شدّات الحقل المغنطيسـي الأرضي
+isogeothermal line	خط تساوي الحرارة الأرضية
+isogonals	متساويات زوايا الانحراف المغنطيسي
+isogonals; isogonics	متساويات الانحراف
+isogonic lines	خطوط تساوي الانحراف / خطوط تساوي الانحرافات المغنطيسية
+isohyetal line	خط تساوي المطر / خط الهَطْل الثابت
+isolated	معزول
+isolated system	جملة معزولة
+isolation	عزل (ن) / عزل
+isolation valve	صمام العزل (ن)
+isolectric point	نقطة تساوي الكهربائية
+isomagnetic	متساوي المغنطيسية
+isomagnetic lines	خطوط ثبات المغنطيسية
+isomer	مجانس (ن) / إيزومير؛ مُصاوِِغ
+isomer separation	فصل المجانسات (ن)
+isomeric state	حالة مجانسة (ن)
+isomeric transition	انتقال مجانس (ن) / انتقال تَصَاوُغيّ
+isomeric; isomerous	مجانسي (ن)
+isomerism	مجانسة
+isometric line	خط تساوي الحجم / خط ثبات القياس
+isometry	تقايس؛ تساوي القياسَيْن
+isomorph	متشاكلة / متشاكل
+isomorphism	تشاكلية / تَشَاكُل
+isomorphous	متشاكل
+isomorphous crystal	بلورة متشاكلة
+isonephelic line	خط تساوي التغيم
+isopiestic solutions	محاليل متساوية ضغط البخار
+isopolymorphism	تساوي تعدد الأشكال
+isoseismal line	خط ثبات الزلزالية
+isoseist	خط تزامن الزلزلة
+isospin	سبين نظيري
+isosteres	متشاكل الجزئيات
+isosteric molecule	جزيء متشاكل الذرات
+isotemperature loci	خطوط تساوي درجة الحرارة
+isotheral line	خط تساوي القيظ
+isotherm	تساوي الحرارة / خط ثبات درجة الحرارة
+isotherm transformation	تحول ثابت درجة الحرارة
+isothermal	متساوي الحرارة
+isothermal change	تغير ثابت الحرارة
+isothermal compression	ضغط ثابت الحرارة
+isothermal equilibrium	توازن ثابت الحرارة
+isothermal expansion	تمدد ثابت الحرارة
+isothermal line	خط تساوي الحرارة / خط ثبات درجة الحرارة
+isothermal transformations	تحولات ثابتة الحرارة
+isotone	متساوية النترونات
+isotones	متساوي النترونات (ن)
+isotope	نظير (ن) / نظير
+isotope dilution analysis	تحليل بالتخفيف النظيري (ن)
+isotope effect	تأثير نظيري (ن) / مفعول نظيري
+isotope exchange	تبادل نظيري
+isotope separation	فصل النظائر (ن)
+isotope shift	انزياح نظيري (ن) / انزياح نظيري
+isotopic	نظيري (ن)
+isotopic abundance	وفرة النظائرة (ن) / وفرة نظيرية
+isotopic dating	تأريخ نظائري
+isotopic dilution	تمديد نظيري
+isotopic exchange	تبادل نظيري (ن) / تبادل نظيري
+isotopic ratio	نسبة (ال...) النظيرية
+isotopic spin	سبين نظيري
+isotopic tracer	مقتفٍ نظيري (ن)
+isotrimorphism	تماثل ثلاثي الشكل
+isotropic	لاتجاهي الخواص / متناحي
+isotropic body	جسم لا اتجاهي الخواص
+isotropic crystal	بلورة متناحية
+isotropic dielectric	عازل استقطابي لااتجاهي الخواص
+isotropic fluid	مائع لا اتجاهي الخواص
+isotropic medium	وسط لااتجاهي الخواص
+isotropic radiator; spherical radiator	مشعة كروية
+isotropics	لااتجاهيات الخواص
+iterative method	طريقة تكرارية
