@@ -1,0 +1,56 @@
+خارِج	outgoing
+خاضعٌ أو مُخْضَع للضَّريبة	taxable
+خاضعٌ للضريبة	excisable
+خام التصدير العربي	arabian export crude, (A.E.C.)
+خام التصدير الكويتي	Kuwait Export Crude (KEC)
+خَامٌ تِجَارِيّ	commercial ore
+خبراء الاقتصاد الكلاسيكي	classical economists
+خبير محاسبيّ	chartered accountant
+خدمات الاستهلاك المقننة	metered services consumption report message
+خدمات الوساطة المالية المقدرة بطريقة غير	Financial Intermediation Services Measured Indirectly
+خَدَماتٌ تَعاوُنِيَّة	cooperative services
+خدمات مستوردة	Imported Services (Imports Of Services)
+خَدَمَاتُ نَقْلِ البَضَائِعِ	Freight Transportation Services
+خدمة ذوي الحاجة الماسة للكهرباء	Serving Consumers of Special Electricity Needs
+خدمة طلب السيارات في الأسواق غير المخدومة	Ride-Hailing
+خزينة الدولة	State Treasury
+خزينة عامة	Public Treasury
+خزينة عامة	treasury
+خسائر اقتصادية	economic loss
+خسائر الإيرادات في جمعيات النقل	revenue losses in transport associations
+خسائر مالية عند تجميع النقل	financial losses in transport associations
+خسارة	red ink
+خشب غير قابل للانكماش	unshrinkable wood
+خشبة مستعرضة	ledger
+خصخصة	privatisation
+خصخصة	privatization
+خصخصة	Privatization
+خصخصة	privatization (of natural resources)
+خصخصة العقد	Privatized
+خصخصة المجاري المائية	water, privatisation of
+خصوصية الأصول	Asset Specificity
+خصوم	Liabilities
+خصوم متداولة	Current Liabilities
+خصي	desexualization
+خـط الفقر	Poverty Line
+خط الفقر	poverty line
+خط الفقر المطلق	absolute poverty line
+خَط تَدَفُّق كنتوريّ	bank line
+خط وطني للفقر	national poverty line
+خطاب جدلي نقدي	Critical-Dialectical Discourse
+خطة الإدارة والتدقيق البيئي	eco-management and audit scheme (emas)
+خطة العمل لنظام: إنفاذ قانون الغابات	eu flegt action plan
+خُطَّةُ امْتِلاكِ الأَسْهُمِ	employee stock ownership plan
+خطوط الأرباح المتساوية	isoprofit lines
+خُطوطُ التَّراجُع	recessional lines
+خَفْض	devaluation of currency
+خَلْفَ العَجُز	postsacral
+خُلُوص	clearance
+خَلِيَّةٌ دَمْعِيَّة	dacryocyte
+خلية شكل الزر	button cell; coin cell
+خمّن	assess
+خوارج اقتصادية	externalities
+خوارزمية حساب الطاقة	power trader algorithm
+خيار العملة	Currency Option
+خيط غزل ذو انكماش واستطالة مختلفتين	differential shrinkage elongation yarn
+خيوط غزل قابلة للانكماش	shrinkage yarn

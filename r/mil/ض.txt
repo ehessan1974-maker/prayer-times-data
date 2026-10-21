@@ -1,0 +1,119 @@
+ضابط	rail regulator (Brit.)
+ضابط E-Н	E-H tuner
+ضابِطُ اتِّصال	liaison officer
+ضابط اتصال أرضي	ground liaison
+ضابط إداري	purser
+ضابط أذرع التوصيل الفرملية	slack adjuster
+ضابِطُ ارتباط	officer, liaison
+ضابط ارتباط جوي	air liaison officer
+ضابِطُ أركان	staff officer
+ضابطُ الأمن	security officer
+ضابط التردد	frequency bias
+ضابط التغيُّب: موظَّف تعهد إليه إدارة	truant officer
+ضابِطُ التموينِ والإمدادات	quartermaster
+ضابط التوقيت	Time-Rite
+ضابط الجانحين: ضابط شرطة مكلَّف بشؤون	juvenile officer
+ضابِطُ الحرارة	temperature controller
+ضابط الحقن	injection timer
+ضابط الحقن الكهربائي	electrical injection adjustment (ESPV)
+ضابط الخَفْر	orderly officer
+ضابط الخفيض	bass control
+ضابط الرادار	radar controller
+ضابطُ الرَّبْطِ الرَّصْدَ جَوّيّ	port meteorological liaison officer
+ضابط السطح	officer of the deck
+ضابِطُ السلامة	safety officer
+ضابط الصفر الكهربائي	moving element
+ضابط الصفر الميكانيكي	chart driving mechanism
+ضابط الضغط الخوائي	vacuum advance unit
+ضابط الفجوة غير المُستقر	Floating Gap controller
+ضابط اللاسلكي الكهربائي	multi-radio officer
+ضابط المحاسبة: موظَّف في سفينة مسؤول عن	purser
+ضابط المدرج	runway controller
+ضابط المسمار المنزلق	slide screw tuner
+ضابط المشروع	project officer
+ضابط المكبح	brake controller
+ضابط المناوبة	officer of the watch
+ضابط المناوبة	watch officer
+ضابط الميدان: ضابط كبير من رتبة رائد أو	field officer
+ضابط النبض	pacemaker (in electrophysiology); biological stimulator
+ضابط النظام	master-at-arms
+ضابط النظام: ضابط	sergeant at arms
+ضابط أمانِ من الإشعاعِ	radiation safety officer
+ضابط أمن	peace officer
+ضابط أو موظف كبير	higher-up
+ضابط أول	first officer; chief officer
+ضابط بالملاحة التجارية	merchant marine officer
+ضابط تتابعي	sequence controller; follow-up controller; cascade controller;
+ضابط تحكّميّ	master controller
+ضابط تفاضلي	derivative controller
+ضابط تكاملي	integral Controller
+ضابط تكاملي بمنظومة تكاملية	I-controller with I-control system
+ضابط تكاملي بمنظومة تناسبية	I-controller with P-control system
+ضابط تناسبي	P controller
+ضابط تناسبي	proportional Controller
+ضابط تناسبي بمنظومة تكامُلية	P-controller with I-control system
+ضابط تناسبي تفاضلي	PD controller (proportional plus derivative controller)
+ضابط تناسبي تفاضلي تكاملي في مُخطَّط العمل	PID controller in action diagram/ functional diagram
+ضابط تناسبي تكاملي	PI controller (proportional plus integral controller)
+ضابط تناسبي تكاملي تفاضلي	PID controller
+ضابط تناسبي تكاملي تفاضلي	PID controller (proportional plus integral plus derivative controller)
+ضابط تناسبي مع نظام مضبوط بوقت ميت	P-controller with a dead- time system
+ضابط تناظري	analog controller
+ضابط ثالث	third mate officer
+ضابط ثلاثيّ النقاط	three point regulator
+ضابط ثنائي النقاط	on-off controller; two-point controller; two-step controller
+ضابط جوي	air officer
+ضابط جوي تكتيكي	tactical air officer
+ضابط حالة	state controller
+ضابط حقن محكوم إلكترونياً	electronically controlled injection timer
+ضابط خطويّ	step-by-step controller; step controller
+ضابط خطوي ثلاثي النقاط	three point step controller /step-by-step controller
+ضابط دليل الموجة	waveguide tuner
+ضابط ذاتي	automatic governor
+ضابط ذاتيّ المواءمة	self-adaptive controller
+ضابط راديو لاسلكي	communication (radio) officer
+ضابط رياش ضبط عمود الكامات	vane cell adjuster for camshaft adjustment
+ضابِطُ سُرعَةِ المِرفاع	hoist controller
+ضابط سلامة المدى	range safety officer
+ضابط شرطة	police officer
+ضابطُ صَفّ	non-commissioned officer
+ضابط صفّ	petty officer
+ضابطُ صَفّ	uncommissioned officer
+ضابِطُ صَفّ	warrant officer
+ضابط صفٍّ: ضابط ثانوي	noncommissioned officer
+ضابط طبيب	medical officer
+ضابط طيّار	pilot officer
+ضابط قطاع	sector controller
+ضابِطُ قَطْعِ التَّماس	contactor controller
+ضابط قوة الطرد المركزي	centrifugal advance mechanism
+ضابط كمية الحقن الدُنيا الكهربائي	electronic minimum volume reduction
+ضابط كهربائي	electrical officer
+ضابط لامركزي	decentralized controller
+ضابط متخرِّج من الصَّفّ	line officer
+ضابط مُتعدد القنوات	multichannel controller
+ضابط متقطع	discontinuous controller
+ضابط مُدمج	compact controller
+ضابط مراقبة الحركة - الجوية	air-traffic controller
+ضابط مُساعد	Auxiliary controller
+ضابط مُستمر	continuous controller
+ضابِط مُقَلَّد	commissioned officier
+ضابط ملاحة	deck officer
+ضابط مناوب	relieving officer
+ضابط مهندس	engineer officer
+ضابِطُ مَوْضِع الصِّمام	valve positioner
+ضابط نظام	System controller
+ضبط بالمنطق الغامض	Fuzzy Control
+ضَبْطُ تَوقيت المِدفَع	gun synchronization
+ضجيج كالطلقة	shot noise
+ضَخْمُ العُقَيدات	macronodular
+ضرب	assault and battery
+ضَرْبَة	coup
+ضَرْبَةُ السَّوط	coup de fouet
+ضَرْبَةُ السَّيف	en coup de sabre
+ضَرْبَةُ الشَّمْس	coup de soleil (sunstroke)
+ضربة مناظرة	contre coup
+ضرم	trench lavender
+ضريبة السُّفُن: ضريبة كانت تُفْرض في	ship money
+ضَغْطُ التعبِئة	charging pressure
+ضَغطُ التعبِئَة	pressure, charging
+ضوء فيري: ضوء للإشارة يُطْلَق من مسدّس	Very light

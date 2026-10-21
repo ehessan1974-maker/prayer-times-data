@@ -1,0 +1,155 @@
+زائف	spurious
+زانثوبسيس	xanthopsis
+زاوية الالتواء	angle of torsion
+زاوية الالتواء	angle of torsion; angle of twist
+زاوية الالتواء	angle of twist
+زاويةُ الالتِواء	torsion angle
+زاوية الانخفاض	angle of depression
+زاويةُ الانخفاض	depression angle
+زُحَار	dysentery
+زحار . إسهال	diarrhea
+زُحار أبيض	white scours
+زِحَارٌ أَسْوَد	black scour
+زُحارُ الجِيارْدِيَّات	giardiasis dysentery
+زُحارُ الحُلَيزِنات	spirillar dysentery
+زُحارُ الخِراف	lamb dysentery
+زُحارُ الخَنازير	swine dysentery
+زُحارُ السَّوَائِطِ	flagellate dysentery
+زُحارُ القِرْبِيَّات	balantidial dysentery
+زُحارُ المأْوَى	asylum dysentery
+زُحارُ المِشْمِش	mish disease (apricots dysentery)
+زُحارُ المَعاهِد	institutional dysentery
+زُحارُ المُهَدَّبَات	ciliary dysentery
+زُحارُ المُهَدَّبَات	ciliate dysentery
+زُحارُ المَواشِي المُزْمِن	chronic dysentery of cattle
+زُحارٌ أَميبِيّ	amebic dysentery
+زُحار أميبي	ammoebic dysentery
+زحار أميبي	dysentery, amebic
+زُحارٌ بالأَوَالِي	protozoal dysentery
+زُحارٌ بَثَعِيّ	scorbutic dysentery
+زُحارٌ بِلْهارْسِيّ	bilharzial dysentery
+زحار بلهارسي	dysentery, bilharzial
+زُحارٌ بِلْهارْسِيّ	schistosomal dysentery
+زُحارٌ خاطِف	fulminant dysentery
+زُحارٌ خَبيث	malignant dysentery
+زُحار دمويّ	bloody scours
+زُحارٌ ديدانِيّ	helminthic dysentery
+زحار سوطي	dysentery, flagellate
+زُحارُ سوني	Sonne dysentery (bacillary dysentery)
+زُحارُ سوني	Sonne dysentry
+زُحارٌ شَتَوِيّ	winter dysentery
+زُحارٌ عَصَوِيّ	bacillary dysentery
+زحار عصوي	dysentery, bacillary
+زُحارٌ عَصَوِيّ	metadysentery (bacillary dysentery)
+زُحارٌ فُرادِيّ	sporadic dysentery
+زُحارُ فلكسنر	Flexner's dysentery (bacillary dysentery)
+زُحارٌ فَيروسِيّ	viral dysentery
+زحار قربي	dysentery, balantidial
+زُحارٌ كاذِب	pseudodysentery
+زُحارٌ مَلاَرِيّ	malarial dysentery
+زُحارٌ نَزْلِيّ	catarrhal dysentery (sprue)
+زُحارٌ وَبائِيّ	epidemic dysentery
+زُحارٌ يابانِيّ	Japanese dysentery (bacillary dysentery)
+زُحارِيُّ الشَّكْل	dysenteriform
+زَرَب أميني	amino diabetes
+زَرَب تَفِه	diabetes insipidus
+زَرَب سُكَّري	diabetes mellitus
+زردية تَخريم دوّارة	revolving head punch = revolving punch pliers
+زَرَق	glaucoma
+زَرَقٌ احْتِقانِيّ	congestive glaucoma
+زَرَقٌ احْتِقانِيٌّ حادّ	acute congestive glaucoma
+زَرَقُ إِحْصارِ الجِسْمِ الزُّجاجِيّ	vitreous-block glaucoma
+زَرَقٌ أُذُنِيُّ المَنْشَأ	auricular glaucoma
+زَرَقُ الإِحْصارِ الهَوائِيّ	air-block glaucoma
+زَرَقٌ الْتِهابِيّ	inflammatory glaucoma
+زَرَقُ التَّوعِيَةِ الحَديثَة	neovascular glaucoma
+زَرَقُ انْحِسارِ الزَّاوِيَة	angle-recession glaucoma
+زَرَقُ انْحِلاَلِ العَدَسَة	phacolytic glaucoma
+زَرَقٌ إنْزيمِيّ	enzyme glaucoma
+زَرَقُ إِنْسِدادِ الزَّاوِيَّة	angle-closure glaucoma
+زَرَقٌ انْسِدادِيّ	obstructive glaucoma
+زَرَقُ انْغِلاَقِ الزَّاوِيَة	closed-angle glaucoma
+زَرَقٌ أَوَّلِيّ	primary glaucoma
+زَرَقٌ بَسيط	glaucoma simplex
+زَرَقٌ بَسيط	simple glaucoma
+زَرَقٌ بَسيطٌ مُزْمِن	chronic simple glaucoma
+زَرَقُ تَضَيُّقِ الزَّاوِيَةِ المُزْمِن	chronic narrow-angle glaucoma
+زَرَقٌ ثانَوِيّ	secondary glaucoma
+زَرَقٌ خَبيث	malignant glaucoma
+زَرَقٌ خِلْقِيّ	congenital glaucoma
+زَرَقُ دوندرز	Donders' glaucoma (simple glaucoma)
+زَرَقٌ رَضْحِيّ	traumatic glaucoma
+زَرَقٌ سَكْتِيّ	apoplectic glaucoma (hemorrhagic glaucoma)
+زَرَقٌ صِباغِيّ	pigmentary glaucoma
+زَرَقٌ ضَيِّقُ الزَّاوِيَة	narrow-angle glaucoma
+زَرَقٌ طِفْلِيّ	infantile glaucoma
+زَرَقٌ عَدَسِيّ	lenticular glaucoma
+زَرَقٌ عَدَسِيُّ المَنْشَأ	phacogenic glaucoma
+زَرَقُ فِقْدانِ العَدَسَة	aphakic glaucoma
+زَرَقٌ لااحْتِقانِيّ	noncongestive glaucoma
+زَرَقٌ مُتَكامِل	glaucoma consummatum (absolute glaucoma)
+زَرَقٌ مِحْفَظِيّ	capsular glaucoma
+زَرَقٌ مُطْلَق	absolute glaucoma
+زَرَقٌ مُطْلَق	glaucoma absolutum
+زَرَقٌ مَفْتوحُ الزَّاوِيَة	open angle glaucoma
+زَرَقٌ مَفْتوحُ الزَّاوِيَة	open-angle glaucoma
+زَرَقٌ مَفْتوحُ الزَّاوِيَة	wide-angle glaucoma
+زَرَقٌ نَزْفِيّ	hemorrhagic glaucoma
+زَرَقٌ وَشيك	glaucoma imminens
+زَرَقٌ يَفَعِيّ	juvenile glaucoma
+زُكَام	cold
+زُكام	common cold
+زُكَام	coryza
+زُكام	gravedo
+زُكام	stillicidium narium (coryza)
+زُكامٌ أَرَجِيّ	allergic coryza
+زُكَام عَادِي	common cold
+زُكامٌ مُعْدٍ للطَّير	infectious avian coryza
+زُكامٌ موذِم	coryza oedematosa
+زُكامٌ نَتِن	coryza foetida (ozena)
+زمن الشلل	paralysis time
+زَمَنُ انْكِماشِ الجُلْطَة	clot retraction time
+زمن تشخيص العطل	fault diagnosis time
+زهرة الجرب	gipsy-rose
+زُهَريّ	Cytherean
+زُهْرِيّ	luetic (syphilitic)
+زُهْرِيّ	luic (syphilitic)
+زهريّ الاغتذاء anthophagous larvae	anthophagous
+زهري الشكل	floriform
+زُهْرِيُّ العَين	syphilidophthalmia
+زُهْرِيُّ الكَبِد	lues hepatis
+زُهَرِيُّ النُّخاع	myelosyphilis
+زُهَرِيُّ النُّخاع	myelosyphilosis
+زُهْرِيٌّ ثُالِثِيّ	tertiary syphilis
+زُهْرِيٌّ ثانَوِيّ	secondary syphilis
+زُهْرِيٌّ جِلْدِيّ	dermatosyphilis
+زُهْرِيٌّ خافٍ	latent syphilis
+زُهَرِيّ خِلْقِيّ	heredolues (congenital syphilis)
+زُهْرِيٌّ خِلْقِيّ	heredosyphilis (congenital syphilis)
+زُهْرِيٌّ خَيلِيّ	equine syphilis
+زُهْرِيٌّ خَيلِيّ	horse syphilis
+زُهْرِيٌّ سِحائِيٌّ وِعائِيّ	meningovascular syphilis
+زُهْرِيٌّ صَمْغِيّ	gummatous syphilis
+زُهْرِيٌّ عَصَبِيّ	lues nervosa (neurosyphilis)
+زُهْرِيٌّ غَيْرُ مَنْقُوْلٍ جِنْسِيَّاً	nonvenereal syphilis
+زُهْرِيٌّ مُتَأَخِّر	late syphilis
+زُهْرِيٌّ مُتَأَخِّر	lues tarda (late syphilis)
+زُهْرِيٌّ مُتَأَخِّرٌ حَميد	late benign syphilis
+زُهْرِيٌّ مُتَأَخِّرٌ خافٍ	late latent syphilis
+زُهْرِيٌّ مَتْنِيّ	parenchymatous syphilis
+زُهْرِيٌّ مُتَوَطِّن	endemic syphilis
+زُهْرِيٌّ مَنْقُولٌ جِنْسِيَّاً	lues venerea
+زُهَرِيٌّ وِراثِيّ	hereditary syphilis
+زُهَريّ: منسوب إلى كوكب الزُّهَرة	Venusian
+زهريات	zoantharia
+زَهْرِيْشُعاعيّ	anthozoan
+زُهَيْرَةُ طُفَيلِيِّ الملاريا	malarial rosette
+زوايا إمساك	rolling dogs
+زَوَر الأيفاع	adolescent scoliosis
+زوروبيسين	zorubicin
+زوميبيراك	zomepirac
+زَيْتُ بِزْر النعناع	perilla oil
+زَيتٌ سَرِيْعُ الجَفافِ	drying oil
+زَيتٌ سَريع الجَفاف	quick-drying oil
+زيدوميتاسين	zidometacin
+زيوت المحركات ثنائية الأشواط	two-stroke oil

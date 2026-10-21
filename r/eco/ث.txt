@@ -1,0 +1,20 @@
+ثابِت	firm
+ثابت زمن الدخل	input time constant
+ثبات رأس المال	fixity of capital
+ثروات طبيعية	natural wealth
+ثروة	fortune
+ثَرْوة	riches
+ثروة	wealth
+ثروة حيوانية	livestock
+ثَروة مَعْدِنيَّة	mineral wealth
+ثَقْبُ انكِماش	shrinkage hole
+ثُقْبَةُ هارتيغان	Hartigan's foramen
+ثِقْل الفادن	bob
+ثَمَن	price
+ثمن البيع	selling price
+ثمن البيع بالجملة	wholesale price
+ثمن التجزئة	retail price
+ثمن الشراء	purchase price
+ثمن الكربون	carbon price
+ثمن محدَّد	fixed price
+ثمن مكالمة محلي لمدة ثلاث دقائق إلى هاتف	Price Of a 3-Minute Local Call to a Cellular Mobile Phone

@@ -1,0 +1,200 @@
+صادَرَ	commandeer
+صاروخ	missile; rocket
+صارُوخ	rocket
+صاروخ أبحاث	research rocket
+صاروخ أجينا	Agena rocket
+صاروخ أُحاديُّ المَرْحَلة	single-stage rocket
+صاروخٌ ارتكاسِيٌّ	retro-rocket
+صاروخُ إطلاقِ العربة الفضائية	space booster
+صاروخُ إقلاع	takeoff rocket
+صاروخ الأفلات	escape rocket
+صاروخ الأوج	apogee rocket
+صاروخ التحكم	vernier rocket
+صاروخ السَّبْر: صاروخ يُستخدم للحصول على	sounding rocket
+صاروخ الطائرة	aircraft rocket
+صاروخ الغاز البارد	cold gas
+صاروخ الپلازما	plasma rocket
+صاروخ انتقالي	translation rocket
+صاروخٌ أيُونيّ	ion rocket
+صاروخ بارد	cold rocket
+صاروخ بالوني	balloon - type rocket
+صاروخ بلازمي	plasma jet
+صاروخ تحَكُّم	control rocket
+صاروخ تدرُّج الوضع	posigrade rocket
+صاروخ تدويم	spin rocket
+صارُوخ تُربينيّ	turbo-rocket
+صاروخ تضاغطي	ramrocket
+صاروخ تعزيز	boost rocket
+صاروخٌ جافُّ الوَقود	dry-fuel rocket
+صاروخٌ حامِل	carrier rocket
+صاروخ حر	free rocket
+صاروخٌ دَرَجيّ	step rocket
+صاروخٌ ذَرِّيّ	atomic rocket
+صاروخٌ ذو خَطْوتين	two-step rocket
+صاروخٌ ذو مَرحَلَتين	two-stage rocket
+صاروخ رصد جوي	meteorological rocket
+صاروخٌ رَفّاس	kick rocket
+صاروخٌ سائِليُّ الدّاسِر	liquid rocket
+صاروخ ساخن	hot rocket
+صارُوخُ سَبْر	sounding rocket
+صاروخ ضخم	bumper rocket
+صاروخ ضوئي	photon rocket
+صاروخ عَنَفي	turborocket
+صاروخ غازي	gaseous rocket
+صاروخ غواصة	submarine rocket
+صاروخ فَطِن	intelligent missile
+صاروخ قذفي	ballistic missile
+صاروخ قذفي بعيد المدى	long-range ballistic missile
+صاروخ قذفي قصيرالمدى	short-range ballistic missile
+صاروخ قذفي متوسط المدى	medium-range ballistic missile
+صاروخٌ كابِح	braking rocket
+صاروخ كابح	braking rocket; retrorocket
+صاروخ كبح	braking rocket
+صاروخٌ كَهربائي نَوَوي	nuclear electric rocket
+صاروخ كهرساكن	electrostatic rocket
+صاروخ كهرمغناطيسي	electromagnetic rocket
+صاروخ كهرمغنطيسي	electromagnetic rocket
+صاروخ كيماوي	chemical rocket
+صاروخ متحكَّم به	controllable rocket
+صاروخ متعدد المراحل	multi-stage rocket
+صاروخ مثالي	ideal rocket
+صاروخ مجروي	ducted rocket
+صاروخ مزاوَج	hybrid rocket
+صاروخ مُصَوِّت	rockoon
+صاروخ مُضاد للغواصات	antisubmarine rocket
+صاروخ معزِّز	booster rocket
+صاروخ مُعَزَّز بالهواء	air-augmented rocket
+صاروخ من طائرة	aircraft rocket
+صارُوخٌ مُوَجَّه	guided rocket
+صاروخٌ نَوَويّ	nuclear rocket
+صاروخ هجوم قصير المدى	short-range attack missile
+صاروخٌ هَجين	hybrid rocket
+صاروخ وحيد القطعة	monolithic rocket
+صاروخ وَرْنِيّ	vernier rocket
+صامدٌ للرَّصاص: لا يخترقه الرَّصاص	bulletproof
+صامِدٌ للشَّظايا	splinterproof
+صامِدٌ لِلقنابِل	bombproof
+صامِدٌ لِلقَنابل	shell proof
+صامدٌ للقنابل: منيع ضدّ القنابل	bombproof
+صاورخ بالوقود السائل	liquid rocket
+صَبَّ القالَبَ بالتعبئةِ مِن فَوق	top-cast
+صُداعُ الدِّيناميت	dynamite headache
+صُداعٌ خوذِيّ	helmet headache
+صَدْعٌ قَصِفيّ	brittle fracture
+صدمة القذائف: اضطراب عصبيّ أو عقليّ يصيب	shell shock
+صَدْمَةُ القَصْف	shell shock
+صَدْمَةُ القَنابِل	bomb shock
+صَرْف بواسطة خندق مكشوف	drainage, open channel
+صَغيرُ العُقَيدات	micronodular
+صفائح فلزية مُدَرَّعة	clad metal
+صَفَّح خَزَّانا	roll a tank
+صُفْر الطَّلقَات	cartridge brass
+صُفْر بَحْريّ	naval brass
+صَفيحةٌ مِن الرَّصاص	lead sheet
+صَقْر الحرب: المؤيّد للحرب أو الداعي لها	war hawk
+صليب ?يكتوريا: وِسام بريطانيّ لأبطال	Victoria Cross
+صَلْيَة	salvo
+صمام أشعة مهبطية ثنائي - المدفع	dual-gun cathode-ray tube
+صِمامُ الصِّهريج	tank valve
+صمام المدفع المثلثي	delta-gun tube
+صمام تأمين البندقية	boresafe fuze
+صِمَامُ شَحْن	charging valve
+صِمامةٌ مُتفَجِّرة	explosive fuse
+صِناعة كَريهة	offensive industry
+صندوق التعبئة	packing case
+صندوق الحرب: صندوق لتمويل حرب أو الإنفاق	war chest
+صندوق الذخيرة	ammunition box
+صُندوق حَشْو	packing box
+صهاريج	tanks
+صَهاريجُ مُبَرَّدة	refrigerated tanks
+صهاريجُ مُموَّهةٌ للتعمِية	camouflaged tanks
+صِهْريجُ	surge tank
+صِهْريج	tank
+صهريج	tank (cistern)
+صهريج اتزان العطوف	roll stabilization tank
+صهريج اختبار	test tank
+صهريج إزالة الزيت من الماء المكثف	Skim Tank
+صِهْريجٌ أُسطُواني	cylindrical tank
+صهريج الإمالة	heeling tank
+صِهْريجُ التَّثْفيل	sedimentation tank
+صِهْريج التخزين	flow tank
+صِهريج الترسُّب	settling tank
+صِهْريجُ التَّرقِيد	settling tank
+صهْريج التسبّخ	flocculation tank
+صهريج التسرب	leak tank
+صِهريجُ التقليبِ أو الخَضْخَضة	agitating tank
+صِهْريجُ التَّهْضيم	digestion tank
+صهريج التوازن	surge tank
+صهريج الحمأة	sludge tank
+صهريج الغرف	bailing tank
+صِهريجُ الغَسْل	wash tank
+صِهْريج الفِكر	think tank
+صِهْريجُ الكُدَارَةِ المُنَشَّط	activated sludge tank
+صهريج المؤخرة	after peak tank
+صهريج المخلفات	slop tank; slope tank
+صِهْريجُ المَزْج	mixing tank
+صِهْرِيجُ المُعَايَرَة	calibrating tank
+صِهريج المُعايَرة	prover tank
+صهريج المهتضمة	digester tank
+صِهريجُ النَّقْع	soaking tank
+صِهْرِيج إمْهُوف	Imhoff tank
+صِهْريجٌ إِنْتانِيّ	septic tank
+صِهْريجُ إيمشر	Emsher tank (digestion tank)
+صِهْريجُ إيمهوف	Imhoff tank (digestion tank)
+صِهْريجٌ بَيُولُوجِيّ	biological tank
+صِهريجٌ تَحتَ	underground tank
+صِهريجٌ تَحْت مائيّ	underwater tank
+صِهريجُ تَخزين	stock tank
+صِهريجُ تَخْزين	storage tank
+صهريج تخزين	storage tanks
+صِهريجُ تَخزينِ الهواء	air storage tank
+صهريج تخزين غير مُكَيَّف الضغط	non pressurised storage tank
+صهريج تخزين مُكَيَّف الضغط	pressurised storage tank
+صهريج تخزين مياه الأمطار	stormwater tank retaining the first flush of stormwater
+صِهريج تَموُّر	conduit regulator / surge tank / surge chamber
+صِهريج تَموُّر	conduit regulator; surge tank; surge chamber
+صِهْريج تَموُّر أوليّ	surge tank, elementary / surge tank, simple
+صِهريج تَمُّور تفاضليّ	differential surge tank
+صهريج تمور مُتعدد الغُرف	multiple surge tank
+صِهْريج تَموُّر مُختنِق	surge tank, restricted orifice / surge tank, throttled
+صِهْريج تنقية	stormwater tank
+صِهريجٌ جانِبيّ	side tank
+صهريج جانبي	wing tank
+صِهْريجٌ حَلْمَهِيّ	hydrolytic tank (septic tank)
+صهريج خزن عائم	floating storage tank
+صِهْريجُ دورتموند	Dortmund tank
+صِهْريجُ زيت	oil tank
+صِهريجُ شَحن	cargo tank
+صهريج صد	buffer tank
+صهريج صيفي	summer tank
+صِهريجٌ طافٍ	floating tank
+صهريج عائم السقف	floating-roof tank
+صهريج عبور	Pass tank
+صِهريج غمر	dip tank
+صِهريجُ قُبَّة البُخار	vapour-dome tank
+صِهْريج قَرِّي	cryogenic tank
+صِهريج قَشد	skim tank
+صِهْريجٌ قِطاعيّ	sectional tank
+صِهْريجٌ لاهَوَائِيٌّ	anaerobic tank
+صِهريجٌ مُبَرشَم	riveted tank
+صهريج متكامل	integral tank; integrated tank
+صهريج متمايل	roll damping tank
+صهريج مثبت	fitted tank
+صِهريجُ مَزْج	tank, blending
+صهريج مياه الأمطار	rainwater tank
+صِهريجٌ نقُول	portable tank
+صهريج هضم الحمأة	Sludge-digestion tank
+صِهْريجُ هوبارد	Hubbard tank
+صِهريجيَّة	tank barge
+صِهريجية سكة الحديد	rail tank wagon
+صَهيرة خُرطوشية	cartridge fuse
+صواريخ حمراء ذات نجمتين	two-star red
+صِوّان الأسلحة	arms locker
+صَوتُ طَلْقَةِ المُسَدَّس	pistol-shot sound
+صُوفُ الرصاص	lead wool
+صيحة الحرب	war whoop
+صيحة الحرب: «أ» صيحة يطلقها جماعة من	war cry
+صيد بالحربون	harpooning
+صيد جائر للأسماك البالغة	recruitment overfishing
+صَيْدَلانِيُّ القُوَّاتِ المُسَلَحَة	armed forces pharmacist
+صَيْدَلانِيٌّ عَسْكريّ	military pharmacist

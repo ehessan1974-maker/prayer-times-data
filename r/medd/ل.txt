@@ -1,0 +1,199 @@
+لا تحمل الدواء	intolerance, drug
+لائحة المخدرات	list of narcotics
+لابِيتالول	labetalol
+لاتكس	latex
+لاحقة معناها: «أ» عملٌ cannonade. «ب» نتاج	-ade
+لازالوسيد	lasalocid
+لاناتوزيدُC	lanatoside C
+لَبْخَة	poultice
+لَبْخَةُ الخَرْدَل	mustard poultice
+لَبَنٌ بالفِيتامين D	vitamin D milk
+لَبَنٌ مُعَقَّم	sterilized milk
+لَبَنٌ مُعَقَّمٌ بفَوقِ البَنَفْسَجِيَّة	uviol milk
+لَبوس مَصْعَدي	anode sheath
+لَجْنَةُ الصَّيدَلةِ و العِلاج	pharmacy and therapeutic committee
+لِحامٌ مُقَوًّى	reinforced weld
+لدين مُقوّى	reinforced plastic
+لَزْقَةُ الأَفْيُون	opium plaster
+لُزوجَة المحلول الغروانيّ	viscosity of colloidal solution
+لِسانٌ أُرْجُوانِيّ	magenta tongue
+لسان مُقوى	tusk-tenon
+لُصَاقَة	label
+لصاقة الصيانة	care label
+لُصاقةٌ جَبْرِيَّة	algebraic closure
+لُصاقةٌ حَقيقِيَّة	real closure
+لُصاقةٌ صَحيحة	integral closure
+لُصاقةٌ مُتَعَدِّية	transitive closure
+لَطْخاتُ بيتُو	Bitot's patches
+لَعوق	electuary
+لَعوق	lincture (electuary)
+لقاح	inoculum
+لِقاح	vaccin
+لقاح	vaccine
+لِقاح	vaccinum
+لِقاحُ TAB	TAB vaccine (typhoid and paratyphoid vaccine)
+لِقاحٌ اُحادِيُّ التَّكافُؤ	monovalent vaccine
+لِقاحٌ أُحادِيُّ التَّكافؤ	univalent vaccine
+لِقاحُ البروسيلاَّت	brucellosis vaccine
+لِقاحُ التِهابِ الدِّماغِ و النُّخاع	encephalomyelitis vaccine
+لِقاحُ الْتِهابِ الكَبِد البَائِيّ	hepatitis B vaccine
+لِقاحُ اِلْتِهابِ سِنْجابِيَّةِ النُّخاع	poliomyelitis vaccine
+لِقاحُ التولاريمية	tularemia vaccine
+لِقاحُ التِّيفوس	typhus vaccine
+لِقاحُ التَِّيفيَّة	antityphoid vaccine
+لَقاحُ التِّيفِيَّة	typhobacterin
+لِقاحُ التِّيفيَّة	typhoid vaccine
+لِقاحُ التِّيْفِيَّةّ	vaccinum antityphicum
+لِقاحُ التِّيْفِيَّة	vaccinum typhosum
+لِقاحُ التِّيْفيَّةِ ونَظيرَةِ	typhoparatyhoid vaccine
+لِقاحُ التِّيْفِيَّةِ ونَظيرَةِ	vaccinum typhosum et paratyphosum
+لِقاحُ التِّيفيَّةِ ونَظيرَةِ التِّيفيَّة	typhoid and paratyphoid vaccine (TAB vaccine)
+لِقاحُ الجُدَرِيّ	variolovaccine
+لِقاحُ الجُدَرِيِّ البَقَريّ	cowpox vaccine
+لِقاحُ الجَمْرَةِ الخَبيثَة	anthrax vaccine
+لِقاحُ الحَصْبَة	measles vaccine
+لِقاحُ الحُماق	varicella vaccine
+لِقاحُ الحُمَّى الصَّفْراء	yellow fever vaccine
+لِقاحُ الخُناق	diphtheria vaccine
+لِقاحُ السُّلِّ	tuberculosis vaccine
+لِقاحُ الشَّاهوق	pertussis vaccine
+لِقاحُ الشَّاهوق	vaccinum pertussis
+لِقاحُ الشَّاهوق	whooping cough vaccine
+لِقاحُ الطَّاعون	plague vaccine
+لِقاحُ الطَّاعون	vaccinum pestis
+لِقاحُ العُدّ	acne vaccine
+لِقاحُ العِقْدِيَّات	streptococcus vaccine
+لِقاحُ العُنْقودِيَّات	staphylococcus vaccine
+لِقاحُ الكُزاز	tetanus vaccine
+لِقاحُ الكَلَب	antirabic vaccine
+لِقاحُ الكَلَب	hydrophobia vaccine
+لِقاحُ الكَلَب	rabies vaccine
+لِقاحُ الكُوليرا	cholera vaccine
+لِقاحُ المِطَثِّيَّة	clostridial vaccine
+لِقاحُ النَّزْلَةِ الوَافِدَة	influenza virus vaccine
+لِقاحُ الوُحَيْدات	subunit vaccine
+لِقاحُ الوَقْس	vaccinum vacciniae
+لِقاحُ الوَقْس	variolovaccinia
+لَقَاحٌ بالجَرَاثِيم الحيَّة	live germs vaccine
+لَقَاحٌ بِالجَرَاثِيم المُعَطَّلَة	inactivated germs vaccine
+لَقَاحٌ بِالْـجَرَاثِيم المَقْتُولَة	killed germs vaccine
+لِقاحُ بي سي جي	BCG vaccine
+لِقاحٌ تَكاثُرِيّ	replicative vaccine
+لِقاحٌ ثُلاثيُّ التَّكافُؤ	trivalent vaccine
+لُقَاح جُرْثُومي	bacterial vaccine
+لِقَاحٌ جُرْثومِيّ	bacterin
+لِقَاحٌ جُرْثومِيٌّ ذَوفانِيّ	bacterin-toxoid
+لِقاحٌ جُرْثومِيٌّ عُنْقودٍيّ	staphylobacterin
+لِقاحٌ جِلْدِيّ	dermovaccine
+لِقاحُ جَنينِ البَطّ	duck embryo vaccine
+لِقاحُ جَنينِ الطَّير	avian embryo vaccine
+لِقاحٌ حَيّ	live vaccine
+لِقاحٌ حَيُّ الفَيرَوسات	live virus vaccine
+لِقاحٌ خُماسِيّ	pentavaccine
+لِقاحٌ ذاتِيّ	autogenous vaccine
+لِقاحٌ ذاتِيّ	autovaccine
+لقاح ذاتي	autovaccine = autogenous vaccine
+لقاح ذاتي	autovaccine; autogenous vaccine
+لَقاحٌ رُبَاعِيّ	quadruple vaccine
+لِقاحٌ رُباعِيّ	tetravaccine
+لِقَاحٌ زُعافيّ	echidnovaccine
+لِقَاحُ سابين	Sabin's vaccine
+لِقاحُ سابين الفَمَوِيّ	Sabin's oral vaccine (oral poliomyelitis virus vaccine)
+لِقاحُ سالك	Salk vaccine (inactivated poliomyelitis vaccine)
+لِقَاحُ ساور	Sauer's vaccine (pertussis vaccine)
+لِقاحٌ سُداسِيّ	hexavaccine
+لِقاحٌ سِلْسِلِيُّ المَنْشَأ	streptobacterin
+لِقَاحُ سوك	Salk vaccine
+لقاح سولك	Salk vaccine
+لِقَاحُ سيمبل	Semple's vaccine
+لِقاحٌ شَحْمِيّ	lipovaccine
+لِقاحُ شَلَلِ الأَطْفال	polio vaccine
+لِقاحُ شَلَلِ الأَطْفالِ المُعَطَّل	inactivated polio vaccine
+لقاح عُصَيَّة كالميت - جيرين	Bacillus Calmette-Guerin vaccine
+لِقاحٌ غليسيرينيّ	glycerinated vaccine
+لِقاحٌ غَيرَوِيّ	heterologous vaccine
+لِقاحٌ غَيرَِويّ	heterotypic vaccine
+لِقاحٌ غَيرِيّ	heterovaccine
+لِقاحٌ فَمَوِيّ	oral vaccine
+لِقاحُ فَيرُسِ الحَصْبَةِ المُعَطَّل	inactivated measles virus vaccine
+لِقاحُ فيروسِ الحَصْبَةِ الأَلْمانِيَّةِ	live rubella virus vaccine
+لِقاحُ فَيروسِ الحَصْبَةِ الحَيُّ	live attenuated measles virus vaccine
+لِقاحُ فيروس السِّنْجابِيَّةِ الحَيُّ	live oral poliovirus vaccine
+لِقاحُ فَيروسِ النُّكافِ الحَيّ	live mumps virus vaccine
+لِقاحُ فَيرُوسِ النُّكافِ المُعَطَّل	inactivated mumps virus vaccine
+لِقاحُ فيروساتِ الحَصْبَةِ	live rubella and mumps virus vaccine
+لِقاحُ فيروساتِ الحَصْبَةِ و الحَصْبَةِ	live measles and rubella virus vaccine
+لِقاحُ فيروساتِ النُّكافِ و الحَصْبَةِ و	measles, mumps and rubella virus vaccine, live
+لَقَاحٌ فَيْرُوسِيّ	viral vaccine
+لِقَاحٌ فَيْرُوسِيٌّ مُمَرَّرٌ عَصَبِيَّاً	neurovirus
+لِقاحُ كالميت	Calmette's vaccine
+لِقاحُ كوكس	Cox vaccine (typhus vaccine)
+لِقاحٌ مُؤَنَّس	humanized vaccine
+لِقاحٌ مُتَعَدِّدُ التَّكافُؤ	multivalent vaccine
+لِقاحٌ مُتَعَدِّدُ التَّكافُؤ	polyvalent vaccine
+لِقاحٌ مُحسَّس	sensitized vaccine
+لِقاحٌ مَزِيْج	mixed vaccine
+لِقاحٌ مُساعِد	adjuvant vaccine
+لِقاحٌ مُسْتَنْبَتٌ عَصَبِيَّاً	neurovaccine
+لَقَاحٌ مُضَاد التِّيفِيَّة وَنَظِيرَات	TAB vaccine
+لَقَاحٌ مُضَاد التِّيفِيَّة وَنَظِيرَات	TABC vaccine
+لِقاحٌ مُضادٌّ لحُمَّى الجِبالِ	Rocky Mountain spotted fever vaccine
+لَقَاحٌ مُضَادٌّ للشَّاهُوق	antipertussis vaccine; anti whooping cough vaccine
+لَقَاحٌ مُضَادّ للكُزاز والتِّيفيَّة	antitetano-typho-paratyphoid vaccine
+لَقَاحٌ مُضَادٌّ للهَيْضة	anticholeric vaccine
+لِقاحٌ مُعَطِّل	inactivated vaccine
+لِقاحٌ مِعَوِيّ	enterovaccine
+لِقاحٌ مَغْلِيّ	koktigen
+لِقاحٌ مَقْتولُ الفَيروسات	killed virus vaccine
+لقاح ملطف	attenuated vaccine
+لِقاح مُوَلَّد ذاتياً	autogenous vaccine
+لِقاحٌ مُوَهَّن	attenuated vaccine
+لِقاحٌ مُوَهَّنٌ بالمَاعِز	caprinized vaccine
+لقاح ميّت	inactivated vaccine; killed vaccine
+لِقَاحُ وايت	Weighl vaccine
+لقاحات	vaccines
+لقاحات ذاتية	autogenous vaccines
+لقاحات ذاتية التولّد	autogenous vaccines
+لِقَاحات مركَّبة	polyvalent vaccines
+لَقاحيّ: «أ» حاملٌ أو منتجٌ لَقاحًا	polliniferous
+لِمْفٌ وَقْسِيّ	vaccine lymph (vaccinia lymph)
+لوبيراميد	loperamide
+لُوبيلِيَّة	lobelia
+لوتين المَصْل	serum lutein
+لَوحٌ مِنَ الجِلد المُقوَّى	leather-board
+لَوْحَةُ الكَثَافَةِ المُدَرَّجَة	density step tablet
+لودوكساميد	lodoxamide
+لُوراجْمين	lorajmine
+لُورازِيبام	lorazepam
+لُورْبامات	lorbamate
+لوركاينيد	lorcainide
+لُوكانْثُون	lucanthone
+لوكسابين	loxapine
+لُوكومَيسِين	leucomycin
+لوموستين	lomustine
+لُومُوفُنْجين	lomofungin
+لوميترالين	lometraline
+لويحة بيانية	graphics tablet
+لويحة حساسة لِلّمْس	touch-sensitive tablet
+لويحةُ رَقْمَنَة	digitizing tablet
+ليتيميد	letimide
+ليدوكايين	lidocaine
+ليديميسين	lydimycin
+ليزر محكم الحقن	injection locked laser
+ليزرمختصر	laser (light amplification by stimulated emission of radiation)
+لِيفٌ مُضَيِّقٌ للأَوعِيَة	vasoconstrictor fiber
+لِيفٌ مُوَسِّعٌ للأَوعِيَة	vasodilator fiber
+ليفالورفان	levallorphan
+ليفامِيسول	levamisole
+ليفوبروبوكسيفين	levopropoxyphene
+ليفوبِروبيلسيلين	levopropylcillin
+ليفورفانول	levorphanol
+ليفوكسادرول	levoxadrol
+ليفوميثاديل	levomethadyl
+ليفونورديفرين	levonordefrin
+ليكينيفورمين	licheniformin
+لينبيرون	lenperone
+لينكوميسين	lincomycin
+ليوبروليد	leuprolide
+لَِيُوتريكسْ	liotrix
+لِيُوثَيرونين	liothyronine

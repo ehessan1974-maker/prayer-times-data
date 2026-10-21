@@ -1,0 +1,250 @@
+حاث الكظرية	hormone, adrenocorticotropic (a. c. t. h)
+حاث الكظرية	hormone, adrenocorticotropic (a. c. t. h.)
+حاجز	buffer
+حاسب آلي لوحي	tablet computer
+حاصِنَةُ اللاتْس	LATS protector (long acting thyroid stimulator)
+حافِز	stimulant
+حاقن	injection nozzle (diesel engine)
+حاقِنُ الأَشْياب	chip syringe
+حامض أسيتيل الساليسيليك	acetyl-salicylic acid = aspirin
+حامِضُ الفوليك	folic acid
+حامل التطعيم	root stock
+حَبَّاتُ الهيكسيل ريزورسينول	hexylresorcinol pills
+حَبَّاتُ كَرْبُوناتِ الحَديدُوز	ferrous carbonate pills
+حَبَّاتُ مُزَوِّدَةٌ بالحَديد	ferruginous pills (ferrous carbonate pills)
+حَبَّاتٌ مُفْعَمَةٌ بالحَديد	chalybeate pills (ferrous carbonate pills)
+حَبَّاتٌ مُهَيَّجَة	pep pills
+حَبّانيّ: شبيهٌ بحبّة الدّواء أو ذو علاقة	pilular
+حَبَّة	pill
+حَبَّة	pilula (pill)
+حبة اللقاح	pollen grain
+حَبَّةٌ تالِيَةٌ للجِماع	post-coital pill
+حَبَّةُ تَنْظِيْمِ النَّسْل	birth control pill
+حَبَّةٌ خُبْزِيَّة	bread pill
+حَبَّةٌ رادْيَوِيَّة	radio pill (telemetering capsule)
+حَبَّةُ صَبيحَةِ الجِماع	morning-after pill
+حَبَّةٌ مُسْهِلَةٌ مُرَكَّبَة	compound cathartic pill
+حَبَّةٌ مِعَوِيَّة	enteric pill
+حَبَّةُ مَنْعِ الحَمْل	contraceptive pill
+حَبَّةُ منْعِ الحَمْلِ الفَمَوِيَّةُ	combined oral contraceptive pill
+حبَّةٌ مُنَوِّمَة	sleeping pill
+حبوب اللقاح	pollen grains
+حُبوبُ مَنْعِ الحَمْلِ التَّدارُكِيّ	emergency contraceptive pills
+حُبَيبَة	parvule
+حُبَيبَة	pellet
+حُبَيْبَة	pillet
+حَتٌّ بفعلِ تَسَاقُطِ المَطَر	raindrop impact
+حَتَّى الغَثَيان	ad nauseam
+حَجْرٌ دَوائِيّ	medicinal restraint
+حَجْرٌ كيميَائِيٌّ	chemical restraint (medicinal restraint)
+حجم المحلول الجزيئي	molecular solution volume
+حد مكافىء الجرعة	dose equivalent limit; maximum permissible dose equivalent (deprecated)
+حَذَرٌ دَوَائِيّ	pharmacovigilance
+حرارة المحلول	heat of solution
+حرارة المحلول	solution heat
+حرارة المحلول التفاضلية	differential heat of solution
+حرارة المحلول الكلية	integral heat of solution
+حِرْمانُ المُورْفين	amorphinism
+حِرْمانٌ هُرْمونِيّ	hormonoprivia
+حُرمَة المسكن	inviolability of domicile
+حريق متبوع بحقْن الماء	fire-flood following water injection
+حِسابَاتٌ صَيْدَلانِيَّة	pharmaceutical calculations
+حَسَّاسٌ للتَّخْديرِ السِّيْسَائيّ	rachisensible
+حَشَرِيُّ التَّلْقيح	entomophilous
+حشيشة الجدران القديمة: عشب أوروبي مدرّ	wall pellitory
+حَشِيَّة	gasket
+حِصارُ المُخَدِّر	narcotic blockade
+حَقُّ استِردادِ العَقارِ المَرْهون	equity of redemption
+حَقَّقَ	realize
+حَقْن	injection
+حقْن إجمالي	bulk injection
+حَقْنُ الأُحْدوبَةِ الفَكِّيَّةِ	tuberosity injection
+حَقْنُ الإسْمَنْت	injection of cement
+حقن الأوامر	Prompt Injection
+حقن البخار	steam injection
+حقن البنزين	petrol injection [UK] / gasoline injection [US]
+حقن السوائل الساخنة	Hot Fluid Injection
+حَقْنُ العَصَب	nerve injection
+حقن الغاز	Gas Injection
+حَقْنُ الغاز	gas injection
+حَقْنُ الغاز	gaseous injection
+حقن الغاز تحت ضغط عال	high-pressure gas injection
+حَقْن المُبَرِّد	refrigerant injection
+حَقْن المستحلب	emulsion injection
+حقن المياه	water injection
+حقن المياه الفائضة	effluent water injection
+حَقْنُ الوَقود	fuel injection
+حَقْنُ الوَقود	injection, fuel
+حقن الوقود إلكترونيا	electronic fuel injection (EFI)
+حقن الوقود إلكترونيا	electronic fuel injection (EKE)
+حَقْنٌ اوتوماتي	automatic injection
+حَقْن بالبورون	boron injection
+حَقْنٌ بالدَّفع الهَوائي	air-blast injection, air-blast switch (or circuit breaker)
+حَقْنٌ بالدَّفْعِ الهَوائِي	injection, air-blast
+حَقْنٌ بالزيت	oil injection
+حقن بالضغط	inject deep injection
+حَقْنٌ بالنَّفْث	jet injection
+حَقْنٌ بالهواء	air injection
+حَقْن بماء الغَمْر	water flood injection
+حقن تتابعي للوقود	sequential fuel injection
+حَقْنٌ تَحتَ الجِلْد	injection, hypodermic
+حقن تحت الجلد	injection, hypodrmic = subcutaneous injection
+حَقْنٌ تَشْريحِيّ	anatomical injection
+حَقْنٌ تَشْريحِيٌّ شَامِلٌ للأَوْعِيَةِ	fine injection
+حَقْنٌ تَشْرِيْحِيٌّ مُقْتَصِرٌ على	coarse injection
+حقن تلامسيّ	injection contact
+حقن تمهيدي	pre-injection
+حقن ثنائي أكسيد الكربون	carbon dioxide injection; co2 injection
+حقن ثنائي أكسيد الكربون	co2-injection
+حَقْنٌ جافّ	injection, airless
+حَقْنٌ جافّ	injection, solid
+حَقْنٌ جافّ	solid injection
+حَقْنٌ حافِظ	preservative injection
+حَقْنٌ داخِلَ القِرَاب	intrathecal injection
+حَقْنٌ عَضَليّ	injection, intramuscular
+حقن عمقي	abyssal injection
+حقن غازحيوي	biogas injection
+حقن غازي موزع	dispersed gas injection
+حَقْنٌ غيرُ مُتَوافِق	discordant injection
+حَقْنٌ فَوقَ اللِّفافَة	epifascial injection
+حقن في الجلد	injection, intracutaneous = intradermal injection
+حَقْن في الجوانب	injection on the flanks
+حقن في العضل	injection, intramuscular
+حقن في القراب الشوكي	injection, intrathecal
+حقن في الوريد	injection, intravenous
+حقن في بئر عَمِيق	injection, deep-well
+حَقْن في بئر عميقة	deep well injection
+حقن في ماسورة السحب	intake manifold fuel injection
+حقن في مركز الحقل	center field injection
+حقن في ملف XML	XML Injection
+حَقْنٌ قَسْريّ	forced injection
+حقنٌ لاهوائي	airless injection = solid injection
+حقن لغة الاستعلام البنيوية	SQL Injection
+حَقْنٌ مباشِر	direct injection
+حقن مُتدرج	step-rate injection
+حقن متعاكس	contra-injection
+حَقْنٌ مَتْنِيّ	parenchymatous injection
+حَقْنٌ مُجَاوِرٌ للسِّمْحاق	paraperiosteal injection
+حَقْن محيطي	peripheral injection
+حقن مُخففّ	diluent injection
+حَقْنٌ مُصَلِّب	sclerosing injection
+حَقْنٌ مَوقُوت	timed injection
+حَقْنٌ ميكانيكي	injection, mechanical
+حقن نفثي	injection, jet
+حَقْنٌ هَيدرولي	hydraulic injection
+حَقْنٌ وَجْنِيّ	zygomatic injection
+حَقْنٌ وَرِيديّ	injection, intravenous
+حُقْنة	enema
+حُقْنَة	shot
+حُقْنَةٌ أَدَمِيَّة	intradermal injection (intradermic injection)
+حُقْنَةٌ أَدَمِيَّة	intradermic injection
+حُقْنَةُ الأَرْياح	flatus enema
+حُقْنَةُ الإنسولين	insulin injection
+حُقْنَةُ البارْيوم	barium enema
+حُقْنَةُ الثُّقْبَةِ الذَّقْنِيَّة	mental foramen injection
+حُقْنَةُ الدكستروز	dextrose injection
+حُقْنَةُ العَصَبِ الفَكِّيِّ العُلْوِيِّ	extraoral injection for maxillary nerve
+حُقْنَةُ العَصَبِ الفَكِّيِّ العُلْوِيِّ	maxillary nerve injection
+حُقْنَةُ الغُدَّةِ النُّخَامِيَّةِ	posterior pituitary injection
+حُقْنَةُ الفازوبرسين	vasopressin injection
+حُقْنَةُ الفركتوز	fructose injection
+حُقْنَةُ الفَكِّ السُّفْلِيِّ مِنْ خارِجِ	extraoral mandibular injection
+حُقْنَةُ القِشْرَةِ الكُظْرِيَّة	adrenal cortex injection
+حُقْنَةُ المَحْلُوْلِ المِلْحِيِّ	hypertonic saline enema
+حُقْنَةُ الهيدْرُوكُورْتِيزُون	hydrocortisone enema
+حُقْنَةٌ أَمامِيَّةٌ تَحْتَ الحَجاج	anterior infraorbital injection
+حُقْنَةٌ أَمامِيَّةٌ حَنَكِيَّة	anterior palatine injection
+حقنة باريوم شرجية = حقنة تباين	enema, barium = contrast enema
+حُقْنَةٌ بَنْكرياتينِيَّة	pancreatic enema
+حقنة تباين مزدوج	enema, double contrast
+حُقْنَةٌ تَبايُنِيَّة	contrast enema (barium enema)
+حُقْنَةٌ تَحْتَ الجِلْد	hypodermic injection (subcutaneous injection)
+حُقْنَةٌ تَحْتَ الجِلْد	subcutaneous injection
+حُقْنَةٌ تَحْتَ الحَجاج	infra-orbital injection
+حُقْنَةٌ تَحْتَ الحَجاجِ	infraorbital injection
+حُقْنَةٌ تَحْتَ الحَجاجِ مِنْ خارِجِ الفَم	extraoral infraorbital injection
+حُقْنَةٌ تَحْسيسِيَّة	sensitizing injection
+حُقْنَةٌ تَحْضيرِيَّة	preparatory injection (sensitizing injection)
+حُقْنَةٌ تَخْديرِيَّة	anesthetic enema
+حُقْنَةٌ تَرْبَنْتينِيَّة	turpentine enema
+حُقْنَةٌ جَناحِيَّةٌ فَكِّيَّة	pterygomandibular injection
+حُقْنَةٌ جَناحِيَّةٌ فَكِّيَّةٌ مِنْ	extraoral pterygomandibular injection
+حُقْنَةُ حَديدِ الدكستران	iron dextran injection
+حُقْنَةٌ حَنَكِيَّة	palatal injection
+حُقْنَةٌ حَنَكَيَّةٌ خَلْفِيَّة	posterior palatine injection
+حُقْنَةٌ خارِجَ الفَم	extra-oral injection
+حُقْنَةٌ خَلْفِيَّةٌ تَحْتَ الحَجاج	posterior infra-orbital injection
+حُقْنَةٌ خَلْفِيَّةٌ تَحْتَ الحَجاجِ	posterior infraorbital injection
+حُقْنَةٌ خَلْفِيَّةٌ حَنَكِيَّة	posterior palatal injection
+حُقْنَةٌ داخِلَ الجِلْد	endermic injection (intracutaneous)
+حُقْنَةٌ داخِلَ الجِلْد	intracutaneous injection (intradermal injection)
+حُقْنَةٌ داخِلَ العَظِم	intraosseous injection
+حُقْنَةٌ دُرَيْقِيَّة	parathyroid injection
+حُقْنَةٌ ذَقْنِيَّة	mental injection
+حُقْنَةُ رينغر	Ringer's injection
+حُقْنَةُ رينغر اللاكتيكية	lactated Ringer's injection
+حُقْنَةُ زَيتِ الخُرْوَع	castor oil enema
+حُقْنَةُ سلفاتِ البروتامين	protamine sulfate injection
+حُقْنَةٌ شَرْجِيَّة	clysma (enema)
+حُقنة شَرَجيّة	clyster
+حُقْنَةٌ شَرْجِيَّة	clyster (enema)
+حُقْنَةٌ شَرْجِيَّة	enema
+حُقْنَةٌ شَرجِيَّةٌ مُنْخَفِضَة	low enema
+حُقْنَةٌ طارِدَةٌ للدِّيدان	anthelminthic enema
+حُقْنَةٌ ظَليلَة	opacifying injection
+حُقْنَةٌ ظَليلَة	opaque enema
+حُقْنَةٌ ظَليلَة	opaque injection
+حُقْنَةٌ عالِيَة	high enema
+حُقْنَةٌ عَضَلِيَّة	intramuscular injection
+حُقْنَةٌ فَكِّيَّة	mandibular injection
+حُقْنَةٌ فَكِّيَّةٌ عُلْوِيَّةٌ	maxillary injection
+حُقْنَةٌ قَولونيَّة	coloclyster
+حُقْنَةُ كروماتِ الصوديومِ المُشِعّ	sodium radiochromate injection
+حُقْنَة كلوريدِ الصوديوم	sodium chloride injection
+حُقْنَةٌ لِثَوِيَّة	gingival injection
+حُقْنَةُ ماءِ الصَّابون	soapsuds enema
+حُقْنَةٌ مَدْخَرِيَّة	depot injection
+حُقْنَةٌ مُزْدَوِجَةُ التَّبايُن	double contrast enema
+حُقْنَةٌ مُسْتَثيرَة	exciting injection (sensitizing injection)
+حُقْنَةٌ مُعَزِّزَة	booster injection
+حُقْنَةٌ مُعَزِّزَة	booster shot
+حُقْنَةٌ مِعَوِيَّة	enteroclysis
+حُقْنَةٌ مِعَوِيَّة	enteroclysm
+حُقْنَةٌ مُغَذِّيَة	nutrient enema
+حُقْنَةٌ مُغَذِّيَة	nutritive enema
+حُقْنَةٌ مُقْفَلَة	blind enema
+حُقْنَةٌ مُنَبِّهَة	stimulative enema
+حُقْنَةٌ مُنْعِشَة	analeptic enema
+حُقْنَةٌ مُنْعِشَة	thirst enema (analeptic enema)
+حُقْنَةٌ مُهَدِّئَة	sedative enema
+حُقْنَةٌ نَشَوِيَّة	starch enema
+حُقْنَةٌ هُلاَمِيَّة	gelatin injection
+حَقْنَةٌ وَريْدِيَّة	intravenous injection
+حُقْنَةٌ وِعائِيَّة	intravascular injection
+حَلَقاتُ الكَبّاس	piston packing = piston rings
+حليب المغنيسيا: مُسْهِل ومقاوِم للحموضة	milk of magnesia
+حمار قَبّان: دُوَيْبّة صغيرة كثيرة	pill bug
+حُماقُ التَّطْعيم	vaccination varicella
+حمّالة الجورب	garter belt
+حمّام الإيقاف: محلول حَمْضيّ يعمل على	stop bath
+حَمَّامٌ بمَاءِ الأَدْوِيَة	medicated bath
+حَمَّامُ شُوت	Schott bath
+حَمَّامٌ عِلاجِيٌّ حَرَكِيّ	kinetotherapeutic bath
+حَمَّامٌ مُخَفِّضٌ للحُمَّى	antipyretic bath
+حَمَّامٌ مُرَكِّن	sedative bath
+حَمَّامٌ مُطَهِّر	antiseptic bath
+حمض أسيتيل ساليسيليك	acetylsalicylic acid (aspirin)
+حَمْضُ الأُوكْسولينيك	oxolinic acid
+حَمْضُ الإيثاكرينيك	ethacrynic acid
+حَمْضُ البَيرِيدُكْسِيك	pyridoxic acid
+حَمْضُ الترانيكساميك	tranexamic acid
+حَمْضُ الفلوفيناميك	flufenamic acid
+حَمْضُ الفُوسيديك	fusidic acid
+حَمْضُ الكابُوبينيك	capobenic acid
+حمض نووي ريبي مُنشِّط	activator RNA
+حُمَّى دَوائِيَّة	drug fever
+حمى عقارية	fever, drug
+حُنْجود	gallipot
+حَنْظَل	bitter apple (colocynth)
+حوصلات زلالية بالمفصل	synovial capsules
+حيازة مخدرات	possession of drugs

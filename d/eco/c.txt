@@ -1,0 +1,833 @@
+C2B consumer-to-business	مستهلك إلى أعمال C2B
+C2C consumer-to-consumer	مستهلك إلى مستهلك
+cabbage	(1) «أ», شيء مسروق أو مختلس وبخاصة: أجزاء من القماش «يختلسها» الخياط عند تفصيله ثوبًا (2) يسرق Your tailor cabbages whole yards of cloth.. (1) كُرُنْب؛ ملفوف (2) البنكنوت؛ العملة الورقية (ع).
+cable transfer	تَحويلٌ ماليّ بَرْقيّ
+caboose	(1) مطبخ [على ظهر السفينة] (2) المِذْنَب: الحافلة الأخيرة في قطار للشّحن [يستعملها عمّاله].
+calculation of tariffs	حِساب الأتعاب
+California Cap-and-Trade Program	برنامج كاليفورنيا للحدّ الأقصى للانبعاثات وتبادلها تُجارياً
+call loan	قَرْضُ الطلب: قرضٌ واجب الإعادة عند الطلب.
+call-loan	قَرْضٌ يعادُ عندَ الطلب
+caloric intake	مَدْخولُ الكالوري
+camcorder (trade mark); camera-recorder	آلة تصوير ومسجلة صوت (علامة تجارية)
+cameloid anemia (elliptocytosis)	فَقْرُ الدَّمِ الجَمَلِيُّ الكُرَيَّات (كثرة الإِهليلِجِيَّات)
+canker	(1) الآكلة: قَرْحة أكّالة [في الفم بخاصة] (2) القَرْحة: داء يصيب سوق النباتات (3) التقرُّح: التهاب مزمن يصيب الحيوانات (4) كلّ آفةٍ مُفْسِدة أو مُهْلِكة (5) نِسرين الكِلاب؛ وَرْد السِّياج (نب) (6) يُقرِّح (ا.م) (7) يُفسِد؛ يُتلف ببطء (8) يتقرَّح؛ يتآكل (9) يَفْسُد.
+canvass	(1) «أ» يتفحّص. «ب» يدقّق [في أصوات المقترعين للتأكّد من صحتها]. «ج» يناقش (2) يُجَوِّب: يطوِّف في مدينة التماسًا لأصوات الناخبين أو لعرض السِّلَع على التجار أو لتأمين الاشتراكات لمجلة إلخ (3) يلتمس الأصوات أو الطَّلَبات التجارية (4) تفحُّص (5) تدقيق (6) التجويب: الطَّواف في مدينة التماسًا للأصوات إلخ.
+canvasser	مُرَوِّج بيع سندات مالية
+cap and trade	قيمة قصوى وإمكانات التبادل
+Cap and Trade System	نظام الحدّ الأقصى للانبعاثات وتبادلها تجارياً
+Cap-And-Trade Regulations	نظام الحد الأقصى والمقايضة
+capacitor bank	مجموعة مُكثِّفات
+capacitor bank	مَرْصَف مواسِعات / رصف مكثفات
+capacitor bank protection	حماية مجموعة المكثفات
+capacitor-input filter	مرشح مواسعي الدخل
+capacity cost	كلفة السعة؛ تكاليف الاستثمار
+capacity time delay	تأخُّر استهلاك الطاقة المُخزنة
+capital	تاج العَمود: رأس العَمود أو قِمّتُهُ (عم).fixed capital : الرأسمال أو رأس المال الثابت (مج): رأسمال يُستخدم في الإنتاج أكثر من مرة دون أن يتغير شكله [كالآلات].productive capital : الرِّسمال أو رأس المال المنتِج: الثروة الناتجة عن عملٍ سابق والمستخدَمة في إنتاج ثروة أخرى.to make capital of something : يُفيد [من أخطاء غيره إلخ].(1) استهلاليّ؛ كبير capital letters (2) «أ» عقوبتُهُ الموت a capital crime. «ب» مُتضمِّن إعدامًا capital punishment (3) خطير a capital error (4) رئيسيّ (5) رِسْماليّ capital goods (6) ممتاز a capital dinner. (1) رأس مال (2) الرأسماليون أو طبقتُهم (3) مصدر ربح أو قوة (4) الحرف الاستهلاليّ: حرف كبير مثل B في Beirut (5) عاصمة؛ حاضرة.
+capital	رأسمال
+capital	رأس المال
+Capital Account	حساب رأس المال
+capital amount factor	عَامِلُ رأسِ المَال
+capital asset	مُمْتَلَكاتُ رَأْسِ المال
+Capital Asset	أصول رأسمالية
+capital assets	الموجودات الرِّسمالية (اد).
+capital assistance	مساعدة مالية
+capital budgeting	مُوازِنَةٌ رِأسْمَالِيَّةٌ
+capital cost	كلفة رأس المال / تكلفة رأس المال
+Capital Cost	تكلفة رأس المال
+capital cost	التَّكْلِفَةُ الرَّأْسْمالِيَّة
+capital costs	تكاليف رأسمالية / تكاليف رأس المال
+Capital Equipment	معدات رأسمالية
+Capital EXPenditure	الإِنْفاقُ الرَّأْسُمالِيّ
+capital expenditure	مصروفات رأسمالية
+Capital Expenditure (CAPEX)	نفقات رأسمالية
+capital expenditure review	مُراجَعَةُ صَرْفِ رَأْس المال
+capital expenditures (Capex)	مصروفات رأسمالية
+capital gain	مكاسب رأس المال
+capital gap dilemma	معضلة الثغرة في رأس المال
+capital goods	سِلَعٌ إنتاجيَّة
+Capital Income	إيرادات رأس المال
+Capital Intensive	كثافة رأسمالية (الأساس النقدي)
+capital intensive industry	صناعةٌ كبيرةُ رأسِ المال
+capital investment	استثمار الرساميل
+capital investment	استثمار رأس المال
+capital levy	ضريبة الرساميل: ضريبة تُفرض على رأس المال الشخصي أو الصناعي [بالإضافة إلى ضريبة الدخل وغيرها].
+capital market	سوق رأس المال
+capital market	سوق الرساميل
+capital market authority	هيئة (ال..) العامة لأسواق الرساميل
+capital of company; capital stock	رأس مال الشركة
+Capital Profits	الأرباح الرأسمالية
+capital project	مشروع رأسمالي
+Capital Purchases	مشتريات رأسمالية
+Capital Requirements	متطلبات رأسمالية
+capital shares	أسهُمٌ رأسماليَّة
+capital stock	رأسُ المال المُساهَم به
+capital stock	أسهم رأس المال [في شركة].
+Capital Stock Disposals	التخلص من المخزون الرأسمالي
+Capital Stock, Gross	الأصول الثابتة العاملة
+Capital Stock, Net	الأصول الثابتة الصافية
+capital stocks	مخزون رأس المال
+capital surplus	فائضُ رأسِ المال
+Capital Taxes	الضرائب الرأسمالية
+Capital Transaction Account	حساب الصفقات المالية
+Capital Transfers	التحويلات الرأسمالية
+capitalism	الرأسماليَّة: «أ» تركُّز الثروة بما تمثّله من قوة ونفوذ في أيدي القلّة. «ب» النظام الرأسمالي: نظام اقتصاديّ مبنيّ على المِلكية الخاصة، والمنافسة، وإنتاج السّلَع للرّبح.
+capitalism	رأسمالية
+capitalist	(1) «أ», الرأسماليّ: «ب» شخص ذو رأسمالٍ ضخم موظَّف في المشاريع الاقتصادية. «ج» المُثري؛ الغنيّ. «د» المؤيِّد للنظام الرأسماليّ.رأسماليّ: «أ» مالكٌ ثرواتٍ كبيرة. «ب» مؤيِّد للرأسمالية أو ممارسٌ لها capitalist nations. (2) رأسماليّ: «أ» مالكٌ ثرواتٍ كبيرة. «ب» مؤيِّد للرأسمالية أو ممارسٌ لها capitalist nations.
+capitalist economies	اقتصاديات رأسمالية
+capitalize	(1) يُسَهْلِل: يَكتب أو يطبع بحروف استهلالية (2) يُرَسْمِل: يحوِّل إلى رأسمال (3) يموِّل to capitalize a business (4) يُفيد من to capitalize on another's mistakes.
+capitals company	شركة أموال
+capitation	ضريبة الرؤوس؛ ضريبة الأعناق.
+captious	(1) «أ» عيّاب. «ب» يصعب إرضاؤه (2) مُغْرِض أو صادرٌ عن حبّ للمماحكة a captious remark (3) إرباكيّ؛ أُحبوليّ: مرادٌ به الإرباك أو الإيقاع في الشَّرَك وبخاصة في الجدل والمحاجّة captious questions.
+captive	(1) «أ» مأسور؛ أسير. «ب» حَبِيس؛ مقيَّد. «ج» موقوف: تملكه أو تديره شركة صناعية أو مصلحة عامة سدًا لحاجاتها هي لا لتزويد السّوق بنتاجه a captive coal mine (2) أسْرِيّ: ذو علاقة بالأسر (3) مفتون؛ متيَّم (4) الأسير (5) المفتون؛ المتيَّم.
+captive insurance company	شَرِكَةُ تَأْمينٍ قَابِضَة
+Car breaking tax	ضريبة كسر السيارات
+carbon accounting system	نظام احتساب الكربون
+carbon budget; carbon emissions budget	رصيد انبعاثات ثاني أكسيد الكربون
+carbon deposit	رَاسِبٌ كربوني
+Carbon Dioxide Emissions (Per Capita	انبعاثات غاز ثاني أكسيد الكربون (لكل فرد)
+carbon emissions credit	قرض انبعاثات الكربون
+carbon market	سوق الكربون
+carbon price	ثمن الكربون
+carbon tax	ضريبة الكربون
+carbonaceous deposits	رَواسبُ كَربونيّة
+Carbonaceous Deposits	رواسب كربونية
+carboniferous deposits	رواسب كربونية، ترسبات فحمية
+cardiac concentric hypertrophy	التَّضَخُّمُ المُتَراكزُ للقَلْبِ (تَضَخُّمُ القَلْبِ بِغَيْرِ تَوَسُّعِ)
+cardiac hypertrophy	تضخم قلبي
+cardiac input	دَخَل القَلْب
+cardiohepatomegaly	تَضَخُّمُ القَلْبِ و الكَبِد / ضخام كبدي قلبي
+cardiomegalia	تَضَخُّمُ القَلْب
+cardiomegalia glycogenica circumscripta	تَضَخُّمُ القَلْبِ الغْليكوجينِيُّ المُتَحَدَّد
+cardiomegalia glycogenica diffusa	تَضَخُّمُ القَلْبِ الغْليكوجينِيُّ المُنْتَشِر
+cardiomegaly	تَضَخُّمُ القَلْب / ضخام القلب
+cargo	حُمولة، شِحْنة؛ بَضائع / بضائع
+cargo	الحُمُولة: ما تحمله السفينة أو الطائرة إلخ من بضائع.
+cargo boom	ذِراعُ مُناوَلةِ الحُمولة / ذراع توجيه البضائع
+cargo claim	مطالبة بالتعويض عن البضائع
+cargo compartment	مَخزنُ البَضائع، عَنْبَرُ البَضائع
+cargo container	حاوية بضائع
+cargo declaration	إعلان البضائع
+cargo flow	تدفق البضائع المشحونة
+cargo hold	حَيِّز البَضائع
+cargo insurance	تأمين البضائع
+cargo insurer	مؤمن(ال..) على البضائع
+cargo liner	ناقلة بضائع
+cargo manifest	قائمة البضائع، كشف البضائع المنقولة
+cargo mistowage	تفكك رص البضائع
+cargo on deck	بضائع على السطح
+cargo policy	وثيقة تأمين البضائع
+cargo receiver	متسلّم البضائع
+cargo vessel	سَفينةُ بِضاعة
+cargo winch	مِرفاعُ بِضاعة / رافعة بضائع
+carniavalization	استثمار روائي للاحتفالية
+carpet knight	فارس الصالونات: فارسٌ منغمس في البطالة والترف.
+carpetbagger	(1) ذو الخُرْج: أحد أبناء الشمال الأميركي الذين شخصوا إلى الولايات الجنوبية، وليس معهم غير ما حملوه في أخراجهم، التماسًا للربح الشخصيّ عقب الحرب الأهلية الأميركية (2) الطارئ. وبخاصة: شخص غريب يتدخَّل في السياسة.
+Carr-Price test	اخْتِبارُ كار-برايس (لمعايرة الفيتامين A)
+Carr-Price unit	وَحْدَة كار - برايس
+carrier	(1) «أ» الناقل؛ الرسول. «ب» الحمّال (2) «أ» ملتزم النقل. «ب» شركة النّقْل. «ج» ساعي البريد. «د» موزع الصحف [على المشتركين] (3) حامل الشِّحنة (فز) (4) الحامل: وعاء للحمل يُثبَّت على سيارة أو دراجة (5) الحاملة؛ الناقلة (مك) (6) حاملة الطائرات (7) حامل المرض (8) الناقلة: مادة حفّازة يُنْقل بواسطتها عنصرٌ ما من مركَّب إلى آخر (ك) (9) الحاملة؛ التيّار الحامل (كب).
+carryover	(1) إرجاء؛ تأجيل (2) احتفاظ بالبضائع [إلى موسم آخر] (3) «أ» ترحيل [الحسابات]. «ب» المجموع المُرَحَّل (تج).
+carryover storage	تخزين الفائض
+cart	عَرَبةٌ بدولابَين؛ مركبةٌ صغيرة لنَقْل البِضاعة
+cartel	تحالف المؤسسات، كارتل / الإحتكار
+cartel	كارتِل
+cartel	(1) تَحَدٍّ كتابيّ [طلبًا للمبارزة] (2) «أ», الكارتل: «ب» اتفاقٌ مكتوب بين دولتين متحاربتين، وبخاصة لتبادل الأسرى. «ج» اتّحاد بين المنتجين للتخفيف من وطأة التنافس في ما بينهم. «د» اتحاد بين الجماعات السياسية من أجل عمل مشترك.
+cartel	كارتل
+case of goods	صندوق بضائع
+casebook	(1) سجلّ الحالات أو القضايا: سجلّ مشتمل على معلومات تفصيلية عن بعض القضايا الواقعية والقضائية والاقتصادية إلخ (2) سِجلّ وثائق أو مراجع.
+cash	(1) نَقد (2) مالٌ يُدفع نقدًا أي عند الشّراء مباشرةً (3) يَصْرِف: يدفع أو يقبض مبلغًا نقديًا مقابل ورقة ماليّة to cash a check (4) يموت (تتبعها in). cash and carry : إدفع وانقل.cash down : الدَّفع فورًا؛ الدَّفع قبل الاستلام.cash on delivery : الدَّفع عند الاستلام.in cash : ذو مالٍ.out of cash : مُفتَقرٌ إلى المال.to cash in on : (1) يستغلّ؛ يُفيد من (2) يحقِّق رِبحًا عاجلًا.الكاش: عملة صغيرة في الصين وجنوب الهند. (3) الكاش: عملة صغيرة في الصين وجنوب الهند.
+Cash Basis	الأساس النقدي
+cash dividend	حصة الأرباح النقدية (اد).
+Cash Flow	تدفق نقدي
+Cash Flow Issues	مشاكل التدفق النقدي
+Cash Flow Return	عائد التدفق النقدي
+cash payment; payment in cash	سداد نقديّ، دَفْع نقديّ
+Cash Survey ( Assets – Liabilities)	المسح النقدي (المطلوبات - الموجودات)
+cast iron struma	سِلْعَةٌ حَديدِيَّة
+caste	(1) «أ», الطبقة المنغلقة: إحدى الطبقات الاجتماعية الوراثية المنغلقة على نفسها عند الهندوس. «ب» كلّ طبقة اجتماعية منغلقة على نفسها (2) الطَّبقيّة: نظامٌ اجتماعيّ مبنيّ على أساس المنزلة أو الثروة إلخ (3) الفِرقة: مجموعة من الحشرات الاجتماعية [كالنحل أو النمل] تقوم بعمل معيَّن worker caste (4) طَبَقيّ. to lose caste : يفقد اعتباره؛ يفقد مكانته واحترام الناس له.
+casting off	تقدير الأصول
+casting shrinkage	انْكِماشُ الصَّبّ
+casting shrinkage	اِنكمِاشُ الصَّبّ، اِنكمِاشُ المَصْبوبة / إنكماش المصبوبة
+catalog(ue)	كتالوج، فِهرِسٌ مُصَوَّر؛ جَدْوَلٌ بالبضاعة وأسعارِها؛ نَظَّمَ في كتالوج، كَتْلَجَ، فَهْرَسَ
+catchpenny	(1) مُبَهْرَج: مُعَدّ لكي يُباع بسرعة أو لاقتناص المال من الجهلة (2) سلعة مُبَهْرَجة.
+catchpole	نائب العمدة. وبخاصة: المسؤول عن اعتقال المَدِينين.
+Categories of goods carried by rail	أَنْواعُ البَضائِعِ المَنْقُولَةِ بِالخُطُوْط الحَدِيدِيَّةِ
+catering [pumping] [public lighting] etc. tariff	تعرفة مطاعم (ضخّ) (انارة عامة)
+cathedral	(1) «أ», كاتدرائيّ: «ب» ذو علاقة بعرش الأسقف أو مشتملٌ عليه a cathedral church. «ج» رسميّ: صادرٌ عن مَقَرّ سلطةٍ ما. «د» منسوبٌ إلى كاتدرائية (2) الكاتدرائية: كبرى الكنائسِ في أبرشية.
+cathode deposit	قُرارة مَهبِطيَّة
+caudate vertebrae (vertebrae coccygeae)	الفِقْراتُ الذَّنَبِيَّة ( الفِقْراتُ العُصْعُصِيَّة)
+cause-related marketing	تسويق مرتبط بسبب
+cave deposits	رَواسِبُ كَهْفية
+cdm loan scheme	نظام قروض آلية التنمية النظيفة
+cellarman	(1) أمين قَبْو الخمر (2) تاجر الخمور.
+centavo	السَّنتا?و: عملة صغيرة في كوبا والمكسيك إلخ.
+centimo	السَّنتيمو: 1/100 من البوليفار [عُملة ?نزويلا] أو الكولون [عملة كوستاريكا] إلخ.
+central bank	المَصْرِف المركزيّ.
+central bank	مصرف مركزيّ، بنك مركزيّ
+central bank	البَنكُ المركزي، بَنكُ الإصدار / البنك المركزي
+central commercial register	سِجلّ تجاريّ مركزيّ
+Central control office (as in signalling);	إدارة الشركة المركزية
+centrally planned economy	تنظيم اقتصادي مركزي
+centrifugal nerve (efferent nerve)	عَصَبٌ نابِذ (عَصَبٌ صادِر)
+cerebellifugal	صادِرٌ مِنَ المُخَيخ؛مُبْتَعِدٌ عن المُخَيْخ / صادِرٌ مِنَ المُخَيخ، مُبْتَعِدٌ عن المُخَيْخ / صادر عن المخيخ
+cerebellofugal	صادِرٌ مِنَ المُخَيخ؛مُبْتَعِدٌ عن المُخَيْخ
+cerebration	(1) نشاطُ العقلِ أو عملُهُ (2) تفكير.
+cerebrifugal	صادِرٌ مِنَ المُخ / صادر عن المخ
+certificate of clearance	شَهادةُ تَخْليص (البِضاعة)
+certificate of deposit	شهادة إيداع
+certificate of deposit	شهادة الإيداع (تج).
+certificate of incorporation	عَقْدُ تَأسيسِ (الشَّرِكة)
+certificate price allowance price	سعر شهادة الانبعاثات
+Certificates of Deposit	شهادات الإيداع
+Certified Energy Auditor (CEA)	مدقق طاقة معتمد
+certified farmers’ market	سوق مزارعين معتمد
+certified invoice	فاتُورة مُصَدَّقة،كَشْف حِسابٍ مُصَدَّق
+Certified Public Accountant	مُحاسِب قانوني
+certified public accountant	المحاسب القانوني.
+certified public-accountant	مُحاسِبٌ قانونيّ
+cervical vertebrae	الفِقْراتُ الرَّقَبِيَّة
+cess	(1) ضريبة (2) حظّ bad cess to you.
+chain	(1) سلسلة (2) المقياس السِّلسلي: مقياس كالسلسلة يبلغ طوله 66 قدمًا [وهذا هو مقياس المسّاح]، أو مئة قدم [وهذا هو مقياس المهندس] (3) قَيْد؛ غُلّ (4) pl.: عبودية (5) سلسلة جبال (6) المؤسَّسات السِّلسليّة: عددٌ من المؤسَّسات المتماثلة، كالمصارف والفنادق، تملكُهُ أو تديره شركةٌ واحدة (7) السِّلسلة: عددٌ من ذرّات تترابط وكأنها حلقات منظومةٌ في سلسلة (ك) (8) يُوْثِق أو يَرْبط بسلسلة (9) يقيِّد؛ يكبِّل؛ يُصَفِّد (10) مُتَسلسل a chain letter (11) متراكم. in chain s : سجين؛ أسير؛ مُسْتَعْبَد.
+chain of custody (forestry)	كشف سلاسل الاستهلاك (الغابات)
+chain store	(1) المَتاجر السِّلسلية: عدد من المتاجر المتماثلة تملكه أو تديره شركة واحدة (2) أحد المتاجر السِّلسِليّة.
+chamber of commerce	غُرفة التجارة.
+chamber of commerce	غُرفةُ التِّجارة
+chamber of commerce and industry	غرفة التجارة والصناعة
+champerty	الإنصاب: تقديم المال أو الخدمات من أجل إنجاح دعوى طمعًا في الحصول على نصيب من الربح الناشئ عنها.
+chandlery	(1) المَشْمَعَة: موضعٌ تُحفظ فيه الشموع (2) الشِّماعة: صناعة الشمّاع (3) بضاعة الشمّاع [أو السمّان إلخ].
+Changes in Classification of Assets and Liabilities	التغيرات في تصنيف الأصول والخصوم نتيجة
+channel bank	مأشب الأقنية
+channel translating equipment; channel bank (US)	معدات نقل القناة
+channel-lag deposit	رواسب متخلفات المجرى
+chapman	(1) التّاجر (ا.ق) (2) البائع المتجوِّل (بر).
+charge	(1) «أ» يُحَمِّل؛ يضع حملًا على... (ا.ق). «ب» يُلْقِم أو يحشو [بندقية]. «ج» يَشْحن [بطاريةً كهربائية]. «د» يملأ. «هـ» يُشبع [الهواءَ أو الجوَّ بِـ]. «و» يُرْهق؛ يُثقل. «ز» يتّخذه رمزًا لشعار النبالة. «ح» يَسِمُهُ أو يميّزه برمز (2) «أ» يكلِّفُهُ أمرًا؛ يَعْهد إليه بمهمّة. «ب» يأمر؛ يُوْصي بِـ. «ج» يُعطي التعليمات إلى (3) يَتَّهم بِـ (4) يعزو؛ يُلقي التَّبعةَ على (5) «أ» يُسَدِّد؛ يُصَوِّب [رمحًا إلخ]. «ب» يهاجم؛ يحمل على (6) يقيِّد على حساب فلان أو اسمِهِ (7) «أ» يفرض رَسْمًا. «ب» يطلب ثمنًا (8) .أ» حِمْل؛ عِبء (ا.م). .ب» رمز مميِّز لشعار النبالة (9) .أ» شِحنة. .ب» حَشْوة (10) .أ» مهمّة؛ واجب؛ مسؤوليّة. .ب» عُهدة؛ رعاية. .ج» الوديعة: شخصٌ أو شيء موضوعٌ تحت إشراف امرئٍ ما. .د» أبرشية [معهودٌ أمرُ العناية بها إلى كاهن] (11) عبء؛ عالة (12) .أ» أمرٌ؛ وصيّة. .ب» توجيهات؛ تعليمات (13) .أ» نَفَقَة. .ب» ثمن؛ رَسْم. .ج» دَيْن أو ضريبة (14) تُهمة (15) هجومٌ مُباغِت a tank charge (16) «أ», الشِّحنة («كب» و«فزن»). in charge of the library : مسؤول عن المكتبة.to bring a charge against : يتّهمُهُ بِـ...to face a charge : يواجهُ تُهمةً.
+chargeable demand	طلب يتم محاسبته؛ طلب المحاسبة
+Charging Tariff	تعريفة الشحن
+chariness	(1) حَذَر (2) خَجَل (3) اقتصاد.
+charter operator	شركة استئجار الطائرات
+charter-party bill of lading	سَنَدُ شحن بضائع في سفينة مستأجرة
+chartered accountant	خبير محاسبيّ، خبير حسابات
+chartered accountant	المُحاسب القانوني.
+chartered accountant	مُحاسِب قانونيّ
+chartist	(1) الخرائطيّ: رسّام الخرائط (2) الجداوِليّ: خبير بالأسواق الماليّة يتّكل في تنبُّؤاته على الجداول البيانية.
+chattel mortgage	رَهْنُ المنقول (ق).
+cheap	(1) «أ», رخيص: «ب» غير غالٍ. «ج» متدنّي القيمة الشرائية بحكم التضخّم المالي cheap dollars (2) هيِّن؛ يسير: غير متطلِّب كبيرَ عناء a cheap victory (3) «أ», رخيص: «ب» يعوزُهُ العمق أو الصِّدق. «ج» رديء النوع Nahid's shoes looked cheap . (4) حقير؛ مُزْدَرًى؛ تافه (5) مبتذَل؛ لاأخلاقيّ (6) بخيل (7) بسعر رخيص أو زهيد. to feel cheap : يستشعر الخِزْيَ؛ يستشعر الصَّغار.to go cheap : يُعرَض أويُباع بثمن بَخْسٍ.to hold something cheap : يستخفّ به؛ يَزْدريه.
+cheapjack	المتَّجر بالسِّلَع الرخيصة.
+cheapskate	(1) البخيل (2) المُسْتَرْخِص: الميّال إلى اختيار أرخص السِّلَع.
+checkout	(1) مغادرة الفندق [بعد دفع فاتورة الحساب] (2) فحص؛ تدقيق [للتأكّد من سلامة شيء أو حُسن سيره].
+cheiromegaly	تَضَخُّمُ الْيَدَيْن
+chest	(1) «أ» صندوق [كبير لحفظ النفائس]. «ب» صندوق شاي إلخ (2) وعاء مُحْكَم (3) الأدراجيّة: خزانة ذات أدراج (4) «أ» الخزينة: خزانة المال في مؤسَّسة إلخ. «ب» أموال الخزينة (5) الصَّدْر (ت).
+chief financial officer	المُديرُ المالِيُّ
+Child Labor	عمالة الأطفال
+chine	(1) عمود فِقريّ (2) الفِقريّة: قطعة من سلسلة ظهر الحيوان تُطْهَى مع اللحم الذي يكسوها (3) حافة البرميل؛ حاشية البرميل (4) قِمّة؛ ذِرْوَة (5) يُفَقِّر: يُعمل الجزّارُ مُدْيَتَهُ بين فقرات عمود الذبيحة الفقريّ.
+chit	(1) طِفل (2) فتاة وَقِحة. (1) مذكِّرة؛ رسالة قصيرة (2) فاتورة [المطعمِ إلخ].
+chlorosis	(1) الخُضار؛ الخلوروز: فقر دمٍ يصيب المراهقات (2) اليَرَقان: اصفرارٌ غير سَوِيّ يصيب النبات.
+chlorotic anemia (chlorosis)	فَقْرُ الدَّمِ النَّاجِمُ عَنْ داءِ الاخْضِرار (داء الاِخْضِرار)
+cholestasia	رُكودٌ صَفْراوِيّ
+cholestasia = cholestasis	ركود الصفراء
+cholestasis	رُكودٌ صَفْراوِيّ
+cholestatic	متعلق بالرُّكودِ الصَّفْراوِيِّ
+cholestatic jaundice	يَرَقانُ رُكودِ الصَّفْراء ; يَرَقَانٌ رُكودِيّ
+CHP economic dispatch problem	مسألة التوزيع الاقتصادي للتوليد المُشترك للحرارة والقُدرة
+cicatricial hypertrophy	تَضَخُّمٌ نَدْبِيّ
+CIM	1 تصنيعٌ مُكامَلٌ حاسوبياً ؛ 2 دخْلٌ فُلَيْمِيٌّ للحاسوب
+Circular Carbon Economy	الاقتصاد الدائري للكربون
+Circular Economy	الإقتصاد التداولي (الدائري)
+circular economy	اقتصاد تداولي
+circulating capital	رأسُ المال المتداوَل
+circulating capital	رأس المال الدائر [أو المتداوَل].
+circumstance	(1) ظَرْف؛ حالة (2) pl.: ظروف؛ ملابسات (3) pl.: وضع المرء الماليّ (4) احتفال؛ أُبَّهة with pomp and circumstance (5) تفصيل تامّ (6) حادثة؛ حَدَثٌ (7) حقيقة؛ واقعة؛ تفصيل (8) يُحيطه بظروف معيَّنة. in easy or good or flourishing circumstance s : في سعة؛ في غنًى.in reduced or straitenedcircumstance s : فقير؛ مُعْوِز.in or under nocircumstance s : ألبتّة؛ مهما تكن الظروف.in or under thecircumstance s : في هذه الحال؛ والحالة هذه.
+circumstanced	في حالة أو ظروف معيّنة [وبخاصةٍ من حيث المواردُ أو الدخل].
+cire perdue = investment casting	صَبٌّ بطريقة الشمع المتبدد، صبٌّ إحداقي
+cites	اتفاقية التجارة الدولية بالأنواع المهددة بالانقراض (CITES)
+cites - animals committee	اتفاقية التجارة الدولية في الأنواع المهددة بالانقراض - لجنة الحيوانات
+cites - appropriate and acceptable destination	اتفاقية التجارة الدولية في الأنواع المهددة بالانقراض - وجهة مناسبة ومقبولة
+cites - artificially propagated	اتفاقية التجارة الدولية في الأنواع المهددة بالانقراض - تكثير صناعي
+cites secretariat	أمانة اتفاقية التجارة الدولية في الأنواع المهددة بالانقراض (CITES)
+cites, appendix i-iv	ملحق 1 إلى 4 لاتفاقية التجارة الدولية في الأنواع المهددة بالانقراض
+cites, management authority	هيئة إدارة اتفاقية التجارة الدولية في الأنواع المهددة بالانقراض
+cites, plant committee	لجنة النبات لاتفاقية التجارة الدولية في الأنواع المهددة بالانقراض
+cites, purpose-of-transaction code	اتفاقية التجارة الدولية في الأنواع المهددة بالانقراض (CITES): رمز الغرض من المعاملة
+cites, source code	اتفاقية التجارة الدولية في الأنواع المهددة بالانقراض (CITES): رمز المصدر
+cites, standard nomenclature	تسميات معيارية لاتفاقية التجارة الدولية في الأنواع المهددة بالانقراض
+citizen fund	صندوق مالي أهلي
+city	(1) مدينة (2) city-state (3) سكان المدينة. the City : المدينة: المنطقة التجارية والمالية في لندن.
+city editor	(1) محرِّر الأخبار المحليّة [صح] (2) المحرّر المالي.
+civil company	شركة مدنية
+Civil Liability	مسؤولية مدنية
+civil liability	مسؤولية مدنية
+Civil Liability Insurance	تأمين المسؤولية المدنية
+civil liability; civil responsibility	مسؤولية مدنية
+civil list	المخصَّصات المَلكية: مخصَّصات ماليّة للملك وأسرته.
+civil service union	نقابة موظفين
+civilian labor force	قوة عمل مدنية
+CIX	تبادل تجاري عبر الإنترنت
+claim licence	رُخصَةُ استِثمار
+claim-holder	صاحبُ امتيازٍ بالاستِثمار
+classical economists	خبراء الاقتصاد الكلاسيكي
+classical unemployment	بطالة كلاسيكية
+classification society	شركة التصنيف
+clause of non-responsibility; clause of non-liability	شرط عدم المسؤولية
+clay deposit	راسِبٌ طيني
+Clean Energy for Development and Investment Framework (CEIF)	إطار الاستثمار في الطاقة النظيفة (CEIF)
+cleanup	(1) تنظيف (2) ربحٌ عظيم.
+clearance	(1) مص clear (2) إزالة [المباني إلخ من الأحياء المزدحمة] (3) «أ» دفع الرسوم عن سفينة. «ب» الأوراق الرسمية المُثْبِتة لذلك (4) المُقاصَّة؛ المعاوَضة: تصفية الحسابات بين المصارف (5) ترخيص؛ إجازة (6) بيعُ التصفية: بيع بأسعار مخفَّضة بقصد التخلُّص من السّلع غير المرغوب فيها [يُدعى أيضًا clearance sale] (7) الخلوص: المسافة بين شيء وآخرَ ممتدٍّ تحته أو بجانبه.
+clearance	خُلُوص، حَيِّز الخُلوص؛ فُسْحة؛ تخليص (البضاعة)؛ مُقاصَّة (مَصرِفيَّة)، مُخالَصة؛ تَصريح، إجازة، جَوازُ الإبحار (للسفينة) / إخلاء / تهذيب / تنظيف / نتاج تنظيف / فسحة
+clearance certificate	شَهادة تَخليص (السفينة أو البِضاعة) / إذن بالإبحار
+clearing agent	وَكيلُ تخليص (جُمْرُكي)؛ عامِل إزالة (لِجَعْل الشرائحِ شَفّافة)
+climacteric	(1) «أ» حَرِج. «ب» حاسم (2) نقطة تحوُّل [رئيسيّة]؛ مرحلة حرجة (3) «أ», .أ» menopause. «ب» ظاهرة مماثلة من الفتور أو العجز الجنسي عند الرجل.
+climate finance - incremental investment	تمويل المناخ - استثمار تزايدي
+climate finance - private climate finance flowing to developing countries	تمويل المناخ - التمويل الخاص بالمناخ والمتدفق إلى البلدان النامية
+climate finance - public climate finance flowing to developing countries	تمويل المناخ – التمويل العمومي للمناخ المتدفق إلى البلدان النامية
+climate finance - total climate finance flowing to developing countries	تمويل المناخ - إجمالي تمويل المناخ المتدفق إلى البلدان النامية
+Climate Investment Fund	صناديق الاستثمار المناخي
+climate investment fund (CIF)	صندوق الاستثمار في المُناخ (CIF)
+clip and shave	قرض وحلق
+clipping edge	حافة قرض
+clitoral recession	حَسْرُ البَظْر
+cloakroom	(1) حجرة الإيداع: حجرة لإيداع القبعات والمعاطف موقتًا [في مسرح إلخ] (2) مِرحاض.
+close corporation	الشركة المُقْفَلة: شركة يملك أسهمَها أفراد قلائل هم عادةً القائمون بإدارتها.
+closed economy	اقتصاد مغلق
+closed goods wagon	عَرَبَة بضائع مغلقة
+closing price	سعر الإقفال [في البورصة].
+closing price	سِعْرُ الإقفال (في البُورصة)
+Closing Stock	بضاعة آخر المدة
+clot retraction	اِنْكِماشُ الجُلْطَة
+clot retraction time	زَمَنُ انْكِماشِ الجُلْطَة
+cloud bank	كومة سحابية / رُكمة (صنفة) سُحب
+Clough and Richter's syndrome	مُتَلاَزِمَةُ كلاو-ريكختر (فقر دم الناجم عن التراص الذاتي)
+CMS	نظم إدارة الجودة بالشركة
+Co-Cooperativeness	تعاونية
+co-operation	تَعاوُن، تآزُر؛ تعاوُنِيَّة
+co-operative	تعاونية / التعاون التشغيلي
+co-operative	تعاوُني، مُحِبٌّ للتعاون؛ جَمعيّة تعاوُنيّة
+Co-Operative Procurement	مشتريات تعاونية
+co-operative society	جمعية تعاونية
+co-operative society	جَمعيَّة تَعاونيَّة
+CO2 certificate price; CO2 permit price	سعر شهادة الكربون
+coal bank	مكشف فحم
+coal deposits	ترسّبات الفحم
+coarse investment powder	مَسْحُوقٌ خَشِنٌ للكِسَاء
+coastal deposits	رَواسبُ ساحلية / رواسب ساحلية
+coaster	(1) «أ», فا coast، مثل: «ب» شخص مشتغل بالمواصلات أو التجارة الساحلية. «ج» السواحلية: سفينة مخصَّصة للتجارة بين مرافئ بلدٍ ما (2) الساحليّ: شخص مقيم على ساحل البحر (3) الصِّينية الجوّابة: صينية أنيقة منصوبة على هيكل ذي عجلات تُستخدم لإدارة الماء أو الخمر على الموائد بعد الطعام (4) الواقية: صُحَيْن [أو صفيحة أو قُماشة] يوضع تحت الزجاجة لوقاية المائدة من البلل أو الحرارة (5) مِزلقة؛ مِزلجة (6) الأُفعوانية: سكة حديد مرتفعة [في مدينة للملاهي] تتلوّى وتنخفض، وتجري فوق قضبانها عرباتٌ صغيرة.
+cochlear eminence of sacral bone (promontorium ossis sacri)	البارِزَةُ القَوقَعِيَّةُ لعَظْمِ العَجُز (طَنَفُ عَظْمِ العَجُز)
+coin	(1) «أ» زاوية؛ حجر الزاوية (ا.ق). «ب» وَتِد (ا.ق) (2) «أ» قطعة نقد [معدنية]. «ب» عُملة؛ نقد معدني (3) مال؛ نقود (ع) (4) يَضْرِب أو يَسُكّ العُملة (5) يَصُوغ؛ يبتكر to coin words (6) يستغلّ [كسبًا للمال] (7) يكسِب بسرعة (8) يزوِّر [العُملة].
+coin gold	ذهب العملات
+coin silver	فضة العملات
+coin-box telephone = pay phone	هاتِفُ الدَّفْع (النَّقْدي)
+coin-value tone; coin-denomination tone (US)	نغمة قيمة العملة
+coinage	سكُّ (العُملة)؛ صِياغة
+coinage	(1) «أ» ضَرْب العُملة أو سَكُّها. «ب» العُملة (2) «أ» صياغة؛ ابتكار the coinage of new words. «ب» كلمة مبتكرة أو مستحدثة.
+coinbox identification tone	نغمة تعريف صندوق العملة
+coining	سَكّ (العُملة)؛ صِياغَة / سك
+coining die	قالَبُ سَكِّ العُملة
+col	فَجٌّ، شِعْبٌ؛ مِنطقَةُ تعادُل (بين ضَغطَين مُختلفَين)، مِنطقَةُ رُكود (بينَ مُرتفَعَين جَوِّيَّين) / قُلَّة / شعب / شِعْب / فجٌّ ضغطي
+collaborative filtering	ترشيح تعاوني / تصفية تعاونية
+collate	(1) يقابل: يقارن [بين النصوص] (2) يتفحّص المَلازم: يفحص مَلازم كتاب يُراد تجليده [للتأكد من أنها مرتبةٌ ترتيبًا صحيحًا] (3) يمنحه رتبةً كَنَسيةً ذات دَخْل.
+collect	(1) صلاة قصيرة (2) مجموعة (3) بالوعة [مياه]. (1) يَجْمع (2) يجبي؛ يحصِّل [الديونَ أو الضرائب] (3) يستنتج (4) يستجمع: يستعيد السيطرة على أفكاره أو قواه (5) يَمُرّ به ويصطحبه (6) يتجمَّع؛ يتراكم (7) يَجْمع [الكتبَ أو الطوابع إلخ على سبيل الهواية] (8) يقبض [تعويضًا أو قيمة تأمين] (9) تُدفَع أجرته من قِبَل المستلم a collect telegram (10) محوَّلةً أجرتُهُ على المستلِم a telegram sent collect.
+collective	(1) جَمْعيّ: دالّ على الجَمْع Crowd is a collective word. (2) متجمِّع؛ متراكم the collective wisdom of the ages (3) كلّيّ؛ إجماليّ collective assets (4) جَماعيّ collective leadership (5) وحدة أو منظّمة تعاونية. وبخاصة: مزرعة تعاونية.
+collective agreement	الاتفاق الجَماعيّ: اتفاق بين ربّ العمل ونقابة عُمالية لمصلحة جميع أعضاء النقابة.
+collective bargaining	المساوَمة الجَماعية: مفاوضات على الأجور إلخ تُجريها نقابة عمالية مع ربّ العمل باسم جميع أعضاء النقابة.
+collective company	شركة جماعية
+Collective Consumption	الاستهلاك الجماعي
+Collective Consumption Expenditure	الإنفاق على الاستهلاك الجماعي
+collective farm	مَزرَعةٌ تَعاوُنيَّة
+collective farm	المزرعة الجَماعية أو التعاونية.
+collective liability; collective responsibility	مسؤولية جماعية
+colluvial deposits	رواسِبُ الجاذِبية / رواسب لحقية
+colony bank; gene library	مكتبة جينية
+color excess	فرط اللون، فائض
+combination combined- carrier	ناقلة بضائع مختلطة
+combustion deposit	راسب الإحتراق
+comeback	(1) «أ» جواب بارع ولاذع. «ب» سببٌ من أسباب الشكوى (2) «أ» إبلال؛ شفاء. «ب» استعادة لمركز أو وضع سابق (3) الارتجاع: ردّ السِّلعة إلى البائع.
+comedown	السُّقوط: خسارة منصب أو مكانة أو ثروة.
+commandeer	صادَرَ (لأغراضٍ عسكريَّة)
+commencement of tariff payment	بدء دفع الرسوم الجمركية
+commendation	(1) إيداع (2) إطراء؛ ثناء.
+commerce	تِجارة، مُتاجرة
+commerce	(1) المطارحة: تبادل الأفكار أو المشاعر (2) صلة؛ علاقة (3) تجارة (4) مُضاجعة؛ اتصال جنسيّ [غير شرعيّ بخاصة].
+commerce server	مخدِّمٌ تجاري
+commercial	تِجاري
+commercial	تجاري
+Commercial a	علامة عند
+commercial acts	أعمال تجارية
+commercial acts by accessory	أعمال تجارية بالتبعية
+commercial agency	وكالة تجارية
+commercial agent	وكيل تجاريّ، ممثل تجاريّ
+commercial aircraft	طائرة تجارية
+commercial arbitration	تحكيم تجاريّ
+commercial artist	مصمّم اعلان
+commercial attaché	ملحق تجاريّ
+commercial bank	بنك تجاريّ، مَصْرف تجاريّ
+Commercial Banks	بنوك تجارية
+commercial blood bank	بَنْكُ الدَّمِ التِّجارِيّ
+commercial brass	النُّحاسُ الأصفرُ التجاري (يحوي 10% زِنْك)
+commercial bus and rental vehicles	باص
+commercial caution	كَفالة تجارية
+commercial chamber	غرفة التجارة
+Commercial Circuit	دائرة تجارية
+commercial clearcut	قطع شامل تجاري
+commercial company	شركة تجارية
+commercial conflict	نزاع تجاريّ
+commercial contract	عقد تجاريّ / عقد تجاري
+Commercial Corporations	شركات تجارية
+commercial court	محكمة تجارية
+commercial custom	عرف تجاريّ
+commercial customer	زبون تجاري
+commercial deposit (or quantity)	رِكازٌ تجاريّ
+Commercial Dispute	مُنازعَة تجارية
+commercial efficiency	الكِفايةُ التجارية
+commercial electrics	كهرباء تجارية
+commercial enterprise	مقاولة تجارية، مشروع تجاريّ
+Commercial Exploitation	استغلال تجاري
+commercial forms = (business forms)	استثمارات تجارية
+Commercial Fraud	غش تجاري
+commercial frequencies	التردُّداتُ التجارية (25 لِدارات القُدرة وَ 60 لِدارات الإضاءة)
+commercial geography	جغرافية تجارية
+commercial harbor	ميناء تجارية
+Commercial information	معلومات تجارية
+commercial insurance	تَأْمينٌ تِجارِيّ
+Commercial Internet Exchange	تبادل تجاري عبر الإنترنت
+commercial law; commercial code	قانون (ال..) تجاريّ، مدونة تجارية
+commercial lease	إيجار تجاريّ، كراء تجاريّ
+commercial linear density / commercial number	درجة النقاوة التسويقية للخيط
+Commercial Margin of Purchases for Sale	الهامش التجاري لمشتريات بغرض البيع
+commercial mine	مَنْجَمٌ تِجَارِيّ
+commercial mortgage	رهْن تجاريّ
+commercial name; trade name	اسم تجاريّ
+commercial navigation	مِلاحة تجارية
+Commercial Negotiation	التفاوض التجاري
+Commercial Off-The-Shelf (COTS)	منتجات تجارية جاهزة
+commercial ore	خَامٌ تِجَارِيّ
+commercial paper	ورقة تجارية
+commercial pawn	رهْن تجاريّ
+commercial port	ميناء تجاري، مرفأ تجاري
+commercial production	انتاج تجاري، إنتاجٌ مجْزٍ
+commercial property	مِلكية تجارية
+commercial register	سِجلّ تجاريّ / سجل تجاري
+commercial reputation	سمعة تجارية
+commercial sanctions	جزاءات تجارية
+commercial scale wind project	مشروع رياح على المُستوى التجاري
+commercial speed	السرعة التجارية للقطار
+commercial standards	المَعاييرُ التجارية
+commercial support	دعم تجاري
+commercial tariff	تعرفة تجارية / تعريفة تجارية
+commercial transaction	معاملة تجارية
+commercial transport	وسائل النَّقل التجارية
+commercial traveler	الوكيل المتجوِّل: وكيلُ بيعٍ يجوب البلاد بُغيةَ عقد الصفقات لمصلحة مؤسسة تجارية.
+commercial treatments	معالجات تجارية
+commercial usages	عادات تجارية
+commercial utilisation of biological resources	استخدام تجاري للموارد البيولوجية
+commercial value	قيمة تجارية
+commercial vehicle	مركبات تجارية
+commercial vehicle (CV)	مركبة تجارية
+commercial vehicle combination	سيارة ركوب بمقاعد يمكن إزالتها
+commercial vehicle, utility vehicle	مركبات تجارية
+commercial waste	نفايات تجارية
+commercial wastes	نُفايات تجارية
+commercial water use	استخدام تجاري للمياه
+commercial weight / conditioned mass	وزن تجاري
+commercial well	بِئرٌ تِجارِيّة
+commercial-off-the-shelf	جاهز في الأسواق
+commercial-type vehicle	مَرْكَبَةٌ تِجَارِيَّة
+commercialism	التِّجاريّة: «أ» الروح التجاريّة. «ب» الطرائق التجارية. «ج» التوكيد المفرط على الربح.
+commercialize	يُتَجِّر: «أ» يُدير على أساس تجاريّ بغيةَ الربح. «ب» يستغلّ تجاريًا to commercialize Christmas. «ج» يجعله تجاريًا: يهبط بمستواه للفوز بربح أكبر commercialize d theater.
+commit	وَكَلَ (إلى)؛ التزَمَ أو تعَهَّدَ (بِـ)؛ اِرتَكَب / إيداع
+commitment	(1) مص commit (2) «أ» إيداع شخصٍ السجنَ أو مستشفًى للأمراض العقلية. «ب» أمرٌ بذلك. «ج» إحالة [مشروع إلخ] إلى لجنة [لدرسِهِ] (3) ارتكاب جريمة إلخ (4) «أ» تعهُّد. «ب» التزام (5) عَهْد؛ وَعْد.
+Commodities	سلعة
+Commodities Exchange	تبادل السلع
+commodity	سِلْعة، مَتاع، بِضاعة
+commodity	سِلعة؛ بضاعة.
+commodity	سلعة
+commodity exchange	سوق البضائع
+Commodity Futures Trading Commission (CFTC)	لجنة تداول السلع الآجلة
+Commodity Indices	مؤشرات السلع
+commodity loading	تحميل البضائع النوعي
+Commodity Markets	أسواق السلع الأساسية
+Commodity Pricing	تسعير السلع
+commodity rate	سعر الشحن النوعي
+Commodity Requirements	المستلزمات السلعية
+commodity; good	بضاعة
+common carrier	شَرِكة نَقل عامَّة؛ ناقِلٌ عامّ / شَرِكَةُ نَقْلِيَّات / ناقلٌ عموميّ / حامل اعتيادي
+Common Market	السُّوق المُشتَرَكة
+common stock	الأسهم العاديّة؛ الأسهم المُشْتَرَكَة (اد).
+commoner	(1) العامّيّ: فرد من العامّة (2) المُنْفِق: طالب في جامعة أوكسفورد إلخ يدفع نفقات طعامه (3) عضو في مجلس العموم.
+communication input signal	اشارة دخل للاتصال
+Communication Satellite Corporation	مُؤَسَّسَةُ الأقْمارِ الاصْطِناعِيَّةِ للاتّصالات
+community blood bank	بَنْكُ الدَّمِ المُجْتَمَعِيّ
+community seed bank	مصرف البذور المجتمعي
+commute	(1) يغيِّر؛ يبدِّل (2) يستبدل (3) يُخفِّف: يُبدِّل العقوبة أو الالتزامات المالية بأخفَّ منها (4) يعكس اتجاه التيار (كب) (5) يعوِّض؛ يكفِّر عن (6) يدفع إجماليًا [نفقات السَّفر بالقطار عدةَ مرات] (7) يقوم برحلات يومية [إلى مكان عمله ومنه].
+commuter airline	شركة طيران للمسافرين اليوميين
+companies act; corporations law	قانون الشركات
+company	شَرِكة؛ فِرقة، جَماعة / الشركة
+company	(1) «أ» رِفقة؛ عِشْرة؛ صُحْبة. «ب» رِفاق؛ عُشَراء؛ صِحاب. «ج» ضيف أو ضيوف (2) «أ» جماعة؛ مجموعة. «ب» سَرِيّة [من جيش]. «ج» فرقة موسيقية أو مسرحية opera company . «د» طاقم السفينة. «هـ» فرقة مطافئ (3) المجتمع (4) «أ» شرِكة. «ب» شُرَكاء (5) «أ», .أ» رِفْقيّ؛ عِشْريّ: ذو علاقة بالرِّفقة أو العِشْرة company manners. «ب» شَرِكيّ: خاصّ بالشَّرِكة company stores. «ج» شَرِكاتيّ: خاصّ بالشَّرِكات company law (6) يرافق؛ يعاشِر؛ يصاحِب. for company : على سبيل المرافقة.to keep or bear a person company : يلازمُه: يَذهب أو يَبقى معه.to keep company with : يُعاشِر؛ يُصادِق.to part company : يفترق؛ ينفصل عن.
+company / concern / enterprise / firm	شَرِكة
+Company Annual Reports	تقارير السنوية للشركة
+Company Direction	توجه شركة
+Company Documentation	وثائق الشركة
+company in liquidation	شركة في طور التصفية
+company of shipping	شركة مِلاحة
+company union	(1) النقابة المستقلّة: نقابة تضمّ عمال شركة أو مؤسسة من غير أن تؤلف جزءًا من اتحاد نقابيّ أوسع (2) النقابة المغلولة: نقابة للعمال يسيطر عليها رَبُّ العمل.
+company with limited liability limited liability company (LLC)	شركة ذات مسؤولية محدودة(ش. ذ. م. م )
+company's assets	أصول الشركة، موجودات الشركة
+company; corporation	شركة
+Comparable Price	سعر فترة المقارنة
+compensating errors	الأخطاء المتكافئة: أخطاء في الحساب التجاريّ متعادلة القيمة ولكنّها متضادّة الدلالة فهي تُبطل بعضها بعضًا.
+compensating wage differentials	تعويضية الفوارق في الأجور
+compensatory hypertrophy	تَضَخُّمٌ مُعَوِّضٌ
+compensatory hypertrophy	تَضَخُّمٌ مُعاوِض / تضخم تعويضي - تضخم للتعويض
+competence	(1) «أ» كفاية؛ مقدار كافٍ. «ب» دخل كافٍ لتأمين ضرورات الحياة من غير ترف (2) كفاءة؛ جدارة؛ مقدرة (3) «أ» اختصاص (ق). «ب» أهلية (ق).
+Competitions And Markets Authority (CMA)	هيئة المنافسة والأسواق
+Competitive Electricity Market	سوق الكهرباء التنافسية
+competitive equilibrium price	سعر التوازن التنافسي
+competitive for commercial transport services	منافس لخدمات النقل التجاري
+complementary hypertrophy	تَضَخُّمٌ تَتْميمِيّ
+composite deposits	قُراراتٌ مُؤلَّفة
+composition between merchant and creditors	صلح بين المدين المفلس ودائنيه
+composition tax	ضريبة جزافية
+compound	(1) مُركَّب (2) كلمة مركَّبة مثل harmful (3) المُرَكَّب (ك) (4) «أ», المُجَمَّع: «ب» مجموعة مبانٍ أو منشآت؛ سوق تجارية. «ج» رُقعة من الأرض مسيَّجة (5) يركِّب؛ يؤلِّف (6) يسوِّي حُبّيًّا [نزاعًا أو دَيْنًا] (7) يدفع الفائدة المركّبة (8) يزيد؛ يضاعِف (9) يصالح على جريمة [مقابلَ مالٍ] to compound a crime (10) يتّحد [في مركَّب] (11) يتّفق He compound ed with his creditors..
+Comprehensive Economic And Trade Agreement (CETA)	اتفاقية اقتصادية وتجارية شاملة
+comptroller	مراقب النفقات أو الحسابات.
+comptroller	مُراقِبٌ ماليّ
+comptroller (controller)	المُرَاقِبُ المَاليّ
+compulsory unemployment insurance	تأمين إجباريّ على البطالة
+computer-input microfilm	دخلٌ فُلَيْمِيٌّ للحاسوب
+concentric hypertrophy	تَضَخُّمٌ مُتَراكِز (تَضَخُّمٌ بِغَيْرِ تَوَسُّع)
+concept of green economy	مَفْهوم الاقتصاد الأخضر
+concessionary company	شركة امتياز
+conciliar	(1) مَجْلسيّ (2) صادرٌ عن مجلس.
+concurrent input/output	دخل /خرج متواقتين
+condemn	اِستَنكَرَ، شَجَب، اِستَقْبَح؛ أدانَ؛ صادَرَ
+Configuration Auditing	تدقيق التشكيلة
+confiscate (to)	صَادَر
+conflicts between consumers from different sectors	نزاعات بين مستهلكين من قطاعات مختلفة
+congenital anemia of newborn	فَقْرُ دَمِ الوَليدِ الخِلْقِيّ
+congenital hemolytic anemia	فَقْرُ الدَّمِ الانْحِلالِيُّ الخِلْقِيّ
+congenital hypoplastic anemia	فَقْرُ الدَّمِ الخِلْقِيُّ النَّاجِمُ عَنْ نَقْصِ التَّنَسُّج / فَقْرُ الدَّمِ الخِلْقِيُّ النَّاجِمُ عَن نَقْصِ التُّنَسُّج
+congenital megacolon	تَضَخُّمُ القَوْلُوْنِ الخِلْقِيّ
+congenital nonspherocytic hemolytic anemia	فَقْرُ الدَّمِ الانْحِلالِيُّ الخِلْقِيُّ اللاكُرَوِيُّ الخَلايا
+congestion management	إدارة النقص / إدارة العجز في الإمداد
+congestion surcharge	ضريبة إضافية على الازدحام
+congestive splenomegaly	تَضَخُّمُ الطِّحالِ الاحْتِقانِيّ
+conglomerate	كونكلوميرا (ال...) / تكتل / رصيص
+conglomerate	كَتَّلَ، كَوَّر، تَكَوَّر؛ مُتكَتِّل، مُكَوَّر، مُتجَمِّع؛ رَصِيص، كُتلة مُختلِطة؛ قَضَّة، رَصيص مُندَمِج، دُملوك / رَصيص / رصيص
+conglomerate	(1) مختلِط: مكوَّن من أجزاء مختلفة الأنواع أو مستمدّة من مصادر مختلفة a conglomerate language (2) مُعَنْقَد conglomerate flowers. (1) يكتِّل؛ يجمِّع (2) يتكتَّل؛ يتجمَّع. (1) خليط؛ مزيج (2) كتلة.
+conglomerate	مُكَوَّم
+conglomerate folliculitis (kerion)	الْتِهابُ الجُرَيباتِ المُتَكَوِّمَة (شُهْدَة)
+conglomerate tubercle	دَرَنَةٌ مُكَوَّمَة
+Connected Stakeholder	صاحب مصلحة (حملة الأسهم) المتصلين
+connecting tax	رسوم التوصيل
+connoisseur	الجِهْبِذ؛ العارف؛ الخبير: المتمكِّن من تقنيَّة فنّ من الفنون أو أصوله إلى حدّ يؤهِّله لإطلاق حُكمٍ نقديّ فيه.
+consensus statement	بَيَانٌ مُتَّفَقٌ عليه ؛ بَيَانٌ صَادِرٌ باِتِّفاقِ الآراء
+consideration	(1) تفكير؛ درس under consideration (2) اعتبار economic consideration s (3) رأي؛ نظرة consideration s on the choice of a profession (4) مراعاة [لمشاعر الآخرين أو ظروفهم إلخ] (5) مكانة أو منزلة عالية (6) أهمية It's of no consideration at all. (7) مكافأة؛ مقابل؛ تعويض ماليّ I'm busy but I'll do it for a consideration .. in consideration of : (1) نظرًا لِـ؛ بسببٍ من (2) تعويضًا عن.on or under no consideration : بأية حال؛ ألبتّة.to take into consideration : يأخذ بعين الاعتبار.
+consign	(1) «أ» يُوْدع. «ب» يُسْلِم إلى. «ج» يَعْهد به إلى (2) يُفرد؛ يُخَصِّص (3) يُرسل [بضاعةً] إلى عميل لبيعها أو خزنها (4) يَرضى؛ يَقْبل.
+consignation; deposit	إيداع
+consignment	(1) مص consign (2) الوديعة: ما يُوْدَع (3) الإرسالية: بضاعة مُرسَلة إلى عميلٍ لبيعها أو خزنها. on consignment : برسم الأمانة؛ مُرْسَل إلى عميل، على أن لايُكَلَّف دفعَ ثمنه إلا إذا بيع.
+consignor	مُرسِل، شاحِن البضاعة / مرسل
+consignor = consigner	مُرسِلُ البضاعة
+consortium	(1) الاتحاد المالي: اتحاد بين بعض المؤسسات لتمويل مشروعات تحتاج إلى رساميل ضخمة (2) جمعية؛ اتحاد؛ نادٍ (3) حق الزوجية: حقّ الزوج [أو الزوجة] الشرعيّ في أن ينعم بحبّ شريكته في الحياة وخدماتها.
+consumable	(1) يُسْتَنْفَد؛ يُسْتهلك: قابلٌ للاستنفاد أو الاستهلاك (2) pl.: الأشياء القابلة للاستنفاد أو الاستهلاك.
+consumable arc welding electrode	قطب كهربائي مستهلك فى اللحام بالقوس الكهربائي
+consumables	مستهلَكات
+consume	(1) يُهلك؛ يُفني (2) يبدِّد [المالَ أو الوقتَ] (3) يستنفد؛ يستهلك (4) يلتهم؛ يأتي على consume d two watermelons (5) يَسْتغرِق: يستحوذ على كامل الانتباه أو الاهتمام أو الطاقة (6) يَذْبُل؛ يَذْوَى؛ يَفْنى (7) يستهلك [سِلعةً أو سِلَعًا]. consume d with envy : مُفْعَم بالحسد؛ يتأكَّلُهُ الحسدُ.
+consumer	مُستَهْلِك؛ مُسْتَنْفِد / مستهلك
+consumer	مستهلِك
+consumer	(1) فا consume (2) المستهلِك [للسِّلع التجارية].
+Consumer	مستهلك / مُستهلك
+consumer	مُسْتَهْلِك
+Consumer Behaviour	سلوك المستهلك
+Consumer Contracts	عقود المستهلك
+consumer goods	السِّلع الاستهلاكية.
+consumer goods	سِلَعٌ اِستِهلاكيَّة
+consumer law	قانون المستهلِك
+Consumer Markets	أسواق استهلاكية
+Consumer Order Decoupling Point (CODP)	نقطة فصل طلب المستهلك
+consumer organisms	الأَحْيَاءُ المُسْتَهْلِكَة
+Consumer piping	شبكات أنابيب المستهلكين
+consumer price index	مؤشِّر أسعار المستهلك.
+consumer price index	مَنْسَبُ الأَسْعارِ للمُسْتَهْلِك
+Consumer Price Index	الرقم القياسي لأسعار المستهلك
+consumer price index (cpi)	مؤشر أسعار المستهلك (CPI) / مؤشر أسعار المستهلك
+consumer product	مُنتَجٌ استهلاكيّ
+consumer protection	حماية المستهلك
+consumer protection legislation	تشريعات حماية المستهلك
+consumer reference arrow system	نظام العداد السهمي لقياس معدل استهلاك الطاقة
+consumer sovereignty	سيادة المستهلك
+consumer subgroups	دوائر الاستهلاك الثانوية
+consumer surplus	فائض المستهلك
+Consumer with Critical Electricity Needs	مستهلك من ذوي الاحتياجات الماسة للكهرباء
+consumer's plant; consumer's installation	محطة التوصيل النهائية
+consumer's plant; customer's installation	أجهزة العميل المُستهلكة للتيار الكهربائي
+consumer's risk	مخاطرة المستهلك
+consumer,	مستقبل الرسالة,
+Consumer-Oriented Index	مؤشر موجه نحو المستهلك
+consumer-related cost	تكاليف ذات علاقة بالمستهلك
+consumer; customer	مستهلك
+consumerism	الاستهلاكانيّة؛ حماية مصالح المستهلكين.
+consumers	المستهلِكات (في نِظامٍ بيئي غذائي)
+Consumers	مستهلكون
+Consumers Price Indices (CPI)	مؤشرات أسعار المستهلك
+Consumers Rights	حقوق المستهلكين
+consumption	استهلاك
+consumption	أ- استهلاك ب-السل / استهلاك
+consumption	اِستِهلاك؛ إتلاف، تَلَفٌ؛ سِلّ، سِلُّ الرِّئة / استنفاد / استنفاذ / استهلاك
+consumption	(1) مص consume (2) «أ», الضَّنَى: «ب» هزال تدريجيّ بسبب منَ السُّلّ بخاصة. «ج» السُّلّ؛ داء السُّلّ (3) الاستهلاك: استهلاك السّلَع التجارية (اد).
+consumption	إتمام، استهلاك
+Consumption	استهلاك / استهلاك الطاقة الكهربائية
+Consumption Agreement	اتفاقية الاستهلاك
+Consumption Category	فئات الاستهلاك
+consumption costs	تكاليف الاستهلاك
+consumption device	جهاز استهلاك، مستهلك الطاقة
+consumption expenditures	نفقات الاستهلاك
+consumption function	دالة الاستهلاك
+consumption goods and services	سلع وخدمات استهلاكية
+Consumption Indicator	مؤشر الاستهلاك
+Consumption of Fixed Capital	استهلاك رأس المال الثابت
+consumption of mineral oil	استهلاك النفط
+consumption of nature; natural resource consumption	استهلاك الطبيعية
+Consumption of Own Production	استهلاك الانتاج الذاتي
+consumption of power	اِستِهلاك القُدرة
+Consumption Pattern	نمط الاستهلاك
+Consumption Period	فترة الاستهلاك
+consumption price; electricity consumption price; electricity price	رسم الاستهلاك
+consumption reduction	تخفيض الاستهلاك
+consumption residues	مُخَلَّفاتُ الاستِهلاك
+Consumption Tariff	تعريفة الاستهلاك
+consumption test	اخْتِبارُ الاسْتِهْلاَك (تفاعل مناعي)
+consumption visualization	رسوم بيانية للاستهلاك
+consumption, home	الاِستِهلاكُ المَحَلِّي
+consumption, luxury	استهلاك تَرَفِيّ
+consumption-based planning	تخطيط قائم/ مبني على الاستهلاك
+consumption‐based accounting	محاسبة قائمة على الاستهلاك
+consumptive use	استهلاك النبات للمياه / استهلاك المياه
+consumptive use expressed in water depth	نسبة الاستهلاك النوعي من المياه لدى النباتات
+consumptive use, non-beneficial	استهلاك مائيّ غير مفيد
+consumptive use, non-productive / consumptive use, non-beneficial	استهلاك مائيّ غير مُنتِج
+consumptive-use efficiency	كفاية الاستهلاك المطلق للمياه
+contact deposits	رواسب التماس
+contamination	تَلَوُّث، تَلْويث، مُخالَطة / تَلَوُّث، تَلْويث / إعداء / إداغام / ملوِّث / تَلَوُّث / تلوث / تلوث (البضائع أو المياه)
+continental deposit	توضُّع قاري / توضع قاري
+continental deposits	رَواسبُ قارِّيَّة / مُترَسِّبات قارِّية
+contour sheet	مُلاءَة مشدودة
+contraband	مَحْظور (قانونيًّا)؛ مُهَرَّب؛ تِجارةٌ مَحظورة؛ بِضاعة مُهَرَّبة
+contraband	(1) تهريب (2) المهرَّبات: سِلَعٌ مهرَّبة (3) مُحَرَّم أو محظور قانونيًا contraband goods; contraband trade (4) يهرِّب السِّلَع المحظورة (5) يُحرِّم.
+contraband trade	تجارة محظورة، تجارة سوق سوداء
+contrabandist	المهرِّب: مُهَرِّب السِّلَع المحظورة.
+contract price	سِعْرُ العَقْد
+Contract Price Adjustment	تعديل سعر العقد
+Contracting a Specialized Company for Waste Disposal	التعاقد مع شركة متخصصة للتخلص من النفايات
+contraction	اِنكِماش، تقلُّص، اِنقِباض، تَقَبُّض؛ تَضْييق؛ اِختِصار / تَقَلُّصٌ / إِنْكِمَاشٌ / تقليص / تَقْليص / تقلُّص / تقلص / انقباض
+contraction	(1) قَبْض؛ تقليص (2) انقباض؛ تقلّص (3) انكماش [في النشاط الاقتصادي] (4) «أ» ترخيم. «ب» لفظة مُرَخَّمة.
+contraction joint	وُصلة انكماش / وصلة انكماش / وُصلة تقلُّص / وُصْلَة الانقباض، وُصْلَة الانكماش
+contraction jointing	فواصل الانكماش
+contraction of wood	انكماش الخشب
+contraction; shrinkage	انكماش / تقلُّص
+contractual liability; contractual responsibility	مسؤولية عقدية
+contribution	إسهام، اِكتِتاب؛ تبَرُّع، تَقْدِمة؛ ضَريبة / مساهمة
+contribution	(1) ضريبة (2) «أ» تبرُّع. «ب» هِبة؛ مُساعَدة؛ مالٌ مُتَبرَّعٌ به (3) «أ» إسهام. «ب» مَأثَرَة؛ خدمة تؤدَّى للحضارة أو الفكر (4) مقالة أو قصة مُعدّة للنشر في جريدة أو مجلة The editor is short of contribution s for the next issue.. to lay under contribution : يُكرهُهُ على التبرّع.
+contrite	(1) منسحق الفؤاد [ندمًا]؛ كسِير القلب (2) معبِّر عن ندم؛ دالّ على ندم contrite words (3) صادر عن ندم contrite sighs; contrite tears.
+control of corporations	مراقبة الشركات
+controlled economy	اِقتصاد مُوَجَّه
+controller	(1) مراقب النفقات أو الحسابات (2) كبير المحاسبين [في مؤسسة] (3) الموجِّه؛ الضابط؛ الكابح (4) المِضْبَط: أداة لضبط سرعة الماكينة أو تنظيمها.
+controller	المُراقِبُ المالِيُّ
+convertibility	قابِليَّة التَّحَوُّل أو التَّحويل (للعُملة بخاصةٍ)، بَدُوليَّة
+conveyor	(1) فا convey (2) المفرِّغ: من يحوِّل مِلْكية شيء إلى شخص آخر (3) الناقلة: جهاز ميكانيكيّ لنقل الرّزَم أو السِّلع (مك).
+convoy	(1) يُواكب [وبخاصة للحراسة والحماية] (2) .أ» المُواكِب. .ب» المواكِبة؛ قافلة الحراسة: قوة عسكرية مرافِقة للسفن أو الأشخاص أو السِّلَع بقصد الحماية (3) .أ» مواكَبة؛ مرافَقة. .ب» حماية [تؤمّنها القوة المواكبة أو المرافقة] (4) القافلة: مجموعة من السفن أو القُطُر الحديدية إلخ ترافقها قوّةٌ تحميها.
+Cooley's anemia (beta-thalassemia)	فَقْرُ دَمِ كولي (الثَّلاسيمِيَّةُ -بيتا)
+cooperation	(1) تعاوُنٌ (2) جمعية تعاونية.
+Cooperative	جماعي
+cooperative	تَعاوُنِيّ
+cooperative	(1) تعاونيّ a cooperative store (2) متعاون: راغب في التعاون مع الآخرين cooperative neighbors (3) .أ» مخزن تعاونيّ. .ب» جمعية تعاونية.
+cooperative assembly	تجمع تعاوني
+cooperative fuel research ,(C.F.R.engine)	محرك اختبار الوقود (لتحديد درجة مقاومته للدق وسرعة اشتعاله)
+Cooperative Insurance	تأمين تعاوني
+cooperative learning process	عملية التعلّم الجماعي
+cooperative multitasking	تعدد مهمات تعاونية / تعدد المهام التعاونيً
+cooperative observer	راصدٌ مُتَعاوِن
+cooperative phenomenon	ظاهِرَة تَعاوُنِيَّة
+cooperative phenomenon	ظاهرة تعاونية
+cooperative processing	معالجة تعاونية
+cooperative project; co-operative project	مشروع تعاوني
+cooperative services	خَدَماتٌ تَعاوُنِيَّة
+cooperative store	المخزن أو المَتْجَر التعاونيّ.
+cooperative system	شبكة توجيه تعاونية
+cooperative; co-operative	جمعيّة تعاونية
+cooperator	(1) المتعاون (2) التعاونيّ: عضوٌ في منظمة تعاونية.
+coparcenary	(1) شَرِكة في الإرث (2) مِلْكيّة مُشتَرَكة.
+copartner	الشريك؛ المشارِك. وبخاصة: عاملٌ له نصيب من أرباح شركة أو مؤسسة، بالإضافة إلى راتبه.
+copartnership	نظام المشاركة [في الأرباح]؛ مشاركة [العمال في الأرباح].
+coper	تاجر خيل. وبخاصة: تاجر خيل غير أمين.
+copyholder	(1) المالكُ بالالتزام (2) مُثَبِّتة الأصول: أداة لتثبيت الموادّ المعدّة للطبع في مكانها على صندوق التنضيد أو على الآلة الكاتبة.
+copyreader	قارئ الأصول: محرر في دار للنشر يقرأ مخطوطات الكتب ويصحِّحها قبل دفعها إلى المطبعة. وأيضًا: محرر في صحيفة يراجع المواد قبل دفعها إلى الطبع.
+copyrighting	إيداع قانوني
+core bank	رصف قلوب
+core deposits	ترسُّبات جوفية
+corner	(1) «أ» زاوية. «ب» مُلتقى شارعين (2) حافَة (3) جانب (4) بقعة؛ رَجًا [ج. أرجاء]؛ طَرَف؛ ناحية (5) موقف أو وضعٌ حَرِج (6) احتكار (7) يَحْصُر في زاوية؛ يَضَعُه في مركز حَرِج (8) يزوِّي: يجعل له زوايا (9) يحتكر (10) يتزاوى: يلتقي عند زاوية (11) ينعطف حول زاوية (12) زاوِيّ: .أ» واقع عند زاوية. .ب» مُعَدّ لزاوية a corner table. tight corner : وضعٌ حرِج أو خطِر.to cut corner s; to cut off a corner : يختصر الطريق.to turn the corner : (1) ينعطف حول زاوية (2) يخرج سالمًا من مرض أو أزمة أو حالة خطرة.
+cornu sacrale NA	قَرْنُ العَجُز
+corporate body	هَيئة اِعتباريَّة، شَرِكة أو جَمعيَّة خاصَّة
+corporate bond	سَنَد شركة
+corporate debts	ديون الشركة
+corporate environmental information systems	نظام المعلومات البيئية للشركة
+corporate fashion	لباس الشركة
+corporate income tax	ضريبة على الشركات
+corporate liability	المَسْؤُولية المُشْتَرَكَة
+Corporate Objectives	أهداف الشركة
+corporate shipowner	شركة مالكة سفن
+corporate social investment (csi)	استثمار الشركة الاجتماعي
+corporate tax income	ضريبة الدخل على الشركات
+Corporate Treasury & Investment	دائرة الاستثمار والتمويل
+corporation	(1) مجلس بلديّ (2) «أ» شرِكة. «ب» مؤسَّسة (3) نِقابة (4) البطن. وبخاصة: بطنٌ ضخم بارز (ع).
+corporation	شَرِكَة
+corporation	شَرِكَة مُساهَمة، مُؤَسَّسة / الشركة
+corporation for profit	شَرِكَةٌ اِسْتِثمارِيَّة
+corpus	(1) جَسَد. وبخاصة: جثّة (2) الجسم: الجزء الأساسيّ the corpus of the jaw (3) رأس المال (4) المُدَوَّنة: مجموعة قوانين أو كتابات واسعة في حقل معيَّن.
+correction	(1) تصحيح؛ تصويب؛ إصلاح (2) مُقاوَمة؛ مُحايَدة؛ معالجة (3) تعديل (4) تأديب؛ مُعاقبة؛ توبيخ (5) التصحيح: هبوط في أسعار الأسهم أو في النشاط الاقتصادي يتلو فترةً من ارتفاع الأسعار (6) إصلاح الأحداث: إصلاح المنحرفين من الأحداث بإعادة تأهيلهم في الإصلاحيات.
+corrugated paper	الورق أو الكرتون المموَّج: ورق أو كرتون يقي السِّلع المعبّأة في الصناديق من الكسر.
+corticoefferent	قِشْرِيٌّ صادِر
+cost	(1) ثَمَن (2) كُلْفَة؛ تَكْلِفة؛ نفقة (3) حساب خسارة to work at the cost of one's health (4) pl.: نفقات الدعوى [التي تفرضها المحكمة على الفريق الخاسر لتُدفع إلى الفريق الرابح] (5) يكلِّف This pen cost s ten dollars. (6) يكلِّفه خسارة كذا It may cost you your life. (7) يقدِّر أو يحدِّد ثمن كذا to cost leather. at all cost s : مهما كلَّف الأمر؛at any cost : بأيّ ثمن.to count the cost : يدرس الظروف كلّها؛ يفكر بالمخاطر والخسائر المحتملة قبل الإقدام على عمل.
+Cost & Budget Department	دائرة الموازنة والتكاليف
+cost accounting	محاسبة التكاليف (اد).
+cost accounting	حِسابُ سِعْر الكُلفة / حِساب التَّكاليف
+cost degression; economy of scale	اقتصاديات خفض التكلفة
+cost formula	معادلة احتساب الكلفة؛ معادلة كلفة التعرفة
+cost of living	نَفَقةُ المعيشة: متوسِّط ما يُنفقُهُ المرء أو الأسرة على الطعام والكساء والسَّكن والمواصلات إلخ (اد).
+cost of living	تكاليفُ المعيشة / التكاليف المعيشية
+cost of living allowance (or bonus)	عِلاوةُ غَلاء المعيشة
+Cost of Living Index	الرقم القياسي لتكلفة المعيشة
+cost price	الثمن الأصليّ: ثمن السِّلعة المدفوعُ من قِبَل بائع التجزئة.
+cost price	سِعْرُ الكُلْفة، سِعْر التكلِفة / ثمن الكلفة
+cost price	سعر التكلفة
+cost, insurance and freight (CIF)	سِعْرُ البِضاعة مع أُجرة التأمينِ والشَّحْن
+cost-benefit analysis	تحليلُ الكُلْفة والمَنْفَعة / تحليل الكلفة والربح
+cost-of-living adjustments	تعديلات تكاليف المعيشة
+cost-plus	(1) النفقة المُرْباة: نفقة الإنتاج مضافًا إليها نسبةٌ من الربح متَّفقٌ عليها [تُتّخذ، عادةً، أساسًا للدفع في العقود الحكومية] (2) مُرْبَى النَّفقة a cost-plus contract.
+cost/economical	اقتصادية التكاليف
+costal center	مَرْكَزٌ ضِلْعِيّ (في فقرات الجنين)
+costs	مصاريف
+COTS	جاهز في الأسواق
+COTS software; commercial off-the-shelf software	برنامج تجارى كوتس
+cotton trading rules	شروط تجارة القطن
+cotton trading rules / Bremen rules	شروط تجارة القطن
+count	عَدَّ، حَسَبَ؛ اِعتَبر؛ دَخَلَ في الحساب؛ رَكَنَ؛ عَدٌّ، تَعْداد، إحصاء؛ مَعدود؛ تعداد / عَدَّة / رقم القماش / تعداد / يعد / تَعْداد
+counter	(1) الفيشة: عملة رمزية تُستخدم في القمار (2) قطعة نقدية (ع) (3) النُّضُد: حاجز أو مِنضدة طويلة [في مصرِف أو مطعم إلخ]. (1) يُضادّ؛ يعاكس؛ يعارض (2) يُبْطِل؛ يُعطِّل (3) يواجه؛ يقاوم (4) يردّ على الضربة أو الحجّة بمثلها. (1) العادّ؛ المُحْصي (2) العدّاد؛ جهاز العَدّ. (1) بالاتجاه المعاكس أو الخاطئ (2) ضدَّ: على نحوٍ مضادّ أو معاكس counter to common sense.. (1) الضدّ؛ العَكْس (2) الكَوْثَل: الجزء البارز من مؤخّر السفينة (3) ضربة مضادّة [في الملاكمة] (4) المُعاكِسة: قطعة جلد قاسية داخلَ مؤخَّر الحذاء [المحيط بالعَقِب] (5) ردٌّ؛ دفاع؛ مقاومة. (1) مُضادّ؛ مُعاكِس a counter revolution (2) مُعادٍ؛ مُوْلَع أو مُتَّسِم بالعِداء والمعارضة (3) مُبْطِل؛ مُلْغٍ.
+Counterfeit goods	سلع مزورة
+counting house	مَكتب مُحاسَبة
+countinghouse	مكتب المحاسبة [في مؤسسة تجارية].
+countries with economies in transition (eit)	بلدان تمر بمرحلة اقتصاد انتقالي
+country of origin (cites)	بلد المنشأ (اتفاقية التجارة الدولية في الأنواع المهددة بالانقراض CITES)
+Country of Origin of Goods	بلد منشأ البضاعة
+courier	(1) الساعي؛ الرسول (2) «أ» الجاسوس. «ب» مهرِّب السِّلع (3) رفيق السُّيّاح: شخص مكلَّف بالسهر على راحة السياح [يشتري التذاكر ويعنى بالأمتعة ويحجز الغرف في الفنادق إلخ].
+court costs	مصاريف الدعوى
+cover	(1) «أ» يغطِّي: يحمي من هجمات العدوّ. «ب» يُهَيْمن على. «ج» يُصَوِّب [المُسَدَّسَ] إلى cover ed his enemy with a pistol. «د» يؤمِّن Is he cover ed against fire?. «هـ» يحمي؛ يَصُون (2) «أ» يُخفي؛ يَسْتُر؛ يَحجُب. «ب» يُغطِّي؛ يكسو (3) «أ» يُسافِد؛ يُجامع. «ب» تَحْضُنُ [الدجاجةُ] بَيْضَها (4) يَسُدّ [حاجةً]؛ يُغَطِّي النفقات أو الديون (5) يَشْمل؛ يَستغرق My researches cover a wide field. (6) يعالج [موضوعًا]؛ يبحث في (7) «أ», يغطّي: «ب» يزوِّد صحيفة بأنباء حَدَثٍ ما to cover a revolution for a newspaper. «ج» ينشر أو يُذيع أنباء حَدَثٍ ما The press cover ed the terrible massacre. (8) يجتاز The train cover ed seven miles. (9) يُغطّي نفسَهُ: يشتري السِّلَع أو الأسهمَ المالية لتسليمها في المستقبل خشيةَ الخسارة (10) يقبل بشروط [رهانٍ إلخ] (11) يعمل كبديل لغيره [أثناء غيابه] (12) مخبأ؛ مَكْمَن (13) غِطاء (14) غِلاف الكتاب أو الرسالة (15) حِجاب؛ سِتار (16) حُجَّة؛ ذَرِيعة (17) شخصٌ بديل (18) المائدية: مجموعة من أدوات المائدة يستخدمها شخص واحد (19) تغطية أو ضمانة مالية. to break cover : يَخْرُج [الحيوانُ] من مَكْمَنِهِ.to take cover : يختبئ؛ يأوي إلى مكان آمن.under cover : (1) ضمن غلافٍ أو ظرف (2) سِرّي (3) سِرًّا.under separate cover : ضمن غلاف أو طرد مستقل.
+coverts	الكواسي: الصغيرات من ريش الطائر التي تكسو أصول الكبيرات منه.
+cow's milk anemia	فَقْرُ الدَّمِ النَّاجِمُ عَنْ التَّغْذِيَةِ بلَبَنِ البَقَر
+cowrie|cowry	(1) الكَوْريّ: أيّ من عدة حيوانات رِخويّة بحرية (2) صَدَفة الكَوْريّ: وَدَعةٌ صفراء تُتَّخذ عُملةً في بعض بلدان إفريقيا وآسيا.
+cpf (collaborative partnership on forests)	شراكة تعاونية للغابات (CPF)
+craft	(1) براعة (2) «أ» حِرفة. وبخاصة: حِرفة تتطلّب براعة يدوية أو فنّية. «ب» صناعة (3) مَكْر؛ خِداع (4) «أ» أصحاب الحرفة الواحدة. «ب» أعضاء نقابة (5) «أ» مَرْكَب [صغيرٌ عادةً]. «ب» طائرة. «ج» مَرْكَبة فضائية (6) يَصْنع باليد. the Craft : الأَخَوية الماسونية.
+craft union	النّقابة الحِرْفية: نقابة تنتظم أهل الحرفة الواحدة فحسب.
+craniosacral	(1) قِحْفِيْعَجُزيّ؛ قِحْفيّ عَجُزيّ: ذو علاقةٍ بالقِحْف والعَجُز (2) parasympathetic.
+crash	(1) «أ» يُحطِّم؛ يهشِّم. «ب» يَعْطُب [طائرةً] عند الهبوط (2) «أ» يَقْرَع: يجعله يُحْدِث ضجةً عالية. «ب» يَشُقّ [طريقَهُ] في جَلَبةٍ صاخبة (3) «أ» يتطفَّل: يشهد حفلةً من غير دعوة. «ب» يدخل من غير أن يشتري بطاقة to crash the gate (4) «أ» يتحطّم. «ب» ينهار. «ج» يُفلس (5) يُحْدث ضجةً شديدة [مثل شيء ينهار] (6) «أ», .أ» هزيم؛ قَصْف the crashof thunder. «ب» دويّ (7) تَحَطُّم؛ تَهَشُّم؛ ارتطام (8) انهيار مفاجئ وبخاصة: انهيار مشروع؛ انهيار عامّ في البورصة إلخ؛ انهيار في برنامج الكومبيوتر (9) «أ» نَوْم. «ب» مَبِيت (ع). (1) خاطف؛ مُتَعَجَّل فيه: منفَّذٌ على عجل بجميع الوسائل المتيسِّرة a crash program.الكْراش: قماش قطنيّ أو كَتّانيّ خشِن. (2) الكْراش: قماش قطنيّ أو كَتّانيّ خشِن.
+CRC	تدقيق الفائض الدوّار
+credit	(1) «أ» رصيدٌ دائنٌ [في حساب]. «ب» ائتمان؛ اعتماد [يفتحه المصرف لمصلحة شخص أو مؤسسة]. «ج» دَيْن؛ نسيئة to buy things on credit . «د» تسليف. «هـ» المطلوب له؛ الدائن: الجانب الأيمن من الحساب الجاري (ضدّ debit). «و» نفدة تسجّل في هذا الجانب (2) ثقة؛ تصديق They seem to deserve some degree of credit . (3) «أ» سمعة. «ب» سمعة حسنة a citizen of credit (4) شرَف؛ فضل The man who does the work should get the credit . (5) مفخرة؛ موضع فخر Samira is a credit to her parents. (6) التقدير: قبول رسمي لنتائج عمل الطالب في حقل من الدراسة وتدوين ذلك في سجلّه (7) الوحدة الدراسيّة: وحدة من وحدات البرنامج الدراسي ينال عليها الطالب مثل هذا التقدير (8) ثَبَتُ المشاركين [في فيلم سينمائي] (9) يبيعه [سلعًا] بالدَّيْن (10) يصدِّق؛ يثق بِـ to credit everything a newspaper says (11) يقيّد له أو لحسابه (12) «أ» ينسب أو يعزو شيئًا إلى. «ب» يعتقد أن «فلانًا» يمتلك كذا I have always credit ed her with some sense.. He's cleverer than I gave him credit for : هو أبرع مما كنت أظن أوممّا كنت أسلّم له به.
+credit account	حِسابٌ دائِن
+credit balance	رَصيدٌ دائِن
+credit note	إشعارُ دائن (تج).
+credit union	اتحاد التسليف: جمعية تعاونية تمنح أعضاءها قروضًا صغيرة بفائدة ضئيلة.
+creditor	دائِن، صاحبُ الدَّين
+creditor	الدائن: صاحب الدَّين.
+creditor	دائن
+creditor account	حساب دائنية
+crescent cell anemia (sickle cell anemia)	فَقْرُ الدَّمِ الهِلاَلِيُّ الخَلايا (فَقْرُ الدَّمِ المِنْجَلِيّ)
+crest of spinous processus of sacrum	عُرْفُ النَّاتِىءِ الشَّوكِيِّ للعَجُز
+crevasse	الفَلْج؛ السَّلْع: صَدْعٌ عميق في الأرض أو في نهر أو سَدّ.
+Criminal Liability	مسؤولية جزائية / مسؤولية جنائية
+criminal responsibility; criminal liability	مسؤولية جنائية
+crimp contraction	انكماش التجعد
+crippling	مُسَبِّبٌ للعَجْز
+critic	نَقْد، نقدِي
+Critical	نقديّ
+critical	(1) انتقاديّ: نزّاع إلى الانتقاد a critical dispo-sition (2) نقّاد: بارع في النقد (3) نقديّ critical opinions (4) حَرِج critical pressure (5) أساسيّ؛ حَيَويّ critical services (6) حاسم the critical moment (7) خَطِر؛ خطير؛ حَرِج a critical situation.
+Critical Discourse Analysis (CDA)	التّحليل النّقدي للخطاب
+critical natural capital	رأس المال الطبيعي الحرج
+Critical Reflection	التفكير النقدي
+Critical-Dialectical Discourse	خطاب جدلي نقدي
+Cross-Docking	توزيع البضائع
+crowded	(1) مزدحم؛ مُكْتَظّ crowded streets (2) متراصّ على نحو غير مُريح: مزدحم crowded passengers on a bus (3) حافل: كثير الفقرات أو متعدّدها a crowded program (4) خِصْب؛ غنيّ a crowded life.
+crown land	أرض التاج: «أ» أرض تابعة للتاج البريطاني تعود إيراداتها إلى الملك. «ب» أرض عموميّة في بعض المستعمرات البريطانية.
+Crude Labor Force Participation Rate	معدل المشاركة في قوة العمل الخام
+Crude Oil Export	تصدير البترول الخام
+crura	سوق
+crush conglomerate	رصيص الجرش
+cryotherapy	طِبابة قرِّيَّة / إستيراد .مداواة بالتبريد
+Cultural Capital	رأس المال الثّقافي
+curacy	منصب راعي الأبرشية أو عملُهُ.
+curb	(1) الشكيمة: الحديدة المعترِضة في فم الفرس من اللجام (2) حافة؛ حاشية (3) الكابح؛ الضابط Put a curb on your anger. (4) إفريز (5) «أ», الجُوْل: «ب» حاجز يحيط بأعلى البئر. «ج» حاجز حجريّ أو إسمنتيّ عند حافة الرصيف (6) المَصْفَق اللّارسميّ: سوق لتبادل الأسهم المالية غير المسجّلة في البورصة (7) يَشْكُمُ الفَرَسَ: يضع الشكيمةَ في فمه (8) يكبح؛ يَضْبُط tried to curb his passions.
+curing shrinkage	انْكِماشٌ تَصَلُّبِيّ
+currencies	عملات
+currency	(1) «أ» التّداول the currency of bank notes. «ب» انتشار؛ رواج؛ سيرورة Rumors soon gained currency . (2) عملة متداولة paper currency .
+Currency	عملة
+currency	نَقْد مُتَداوَل، عُمْلَة؛ تَداوُل / العملة
+currency counter	عَدّاد عُملة
+Currency Hedging	تحوط العملات
+Currency in circulation	النقد المتداول
+Currency in circulation outside banks	النقد المتداول خارج المصارف
+Currency Option	خيار العملة
+currency paper	ورق عملة
+Currency Speculators	مضاربون بالعملة
+Currency Swap	مقايضة العملات
+Current (Liquidity) Ratio	نسبة (السيولة) الحالية
+Current Assets	الأصول المتداولة
+Current Assets	اصول المتداولة
+current assets	الأصول الجارية (تج).
+current expenditure	مصروفات جارية
+current expenses	النفقات الجارية: النفقات المتواصلة باطّراد والضرورية لتسيير مؤسسةٍ ما (اد).
+current expenses	النّفَقَات الجَارية
+current liabilities	الحُسوم الجارية (تج).
+Current Liabilities	خصوم متداولة
+Current marketing according to the German Renewable Energy Act	التسويق الحالي وفقا لقانون الطاقة المتجددة الألماني
+current price	السِّعرُ الجاري، سِعْر السُّوق
+Current reseller	تاجر التجزئة للكهرباء
+Current Revenues	الإيرادات الحالية
+Current Taxes on Capital	الضرائب الجارية على رأس المال
+Current Taxes on Income and Wealth	الضرائب الجارية على الدخل والثروة
+Current Transfers to NPISHs	التحويلات الجارية إلى المؤسسات غير الهادفة للربح التي تخدم الأسر المعيشية
+custom	(1) «أ» عادةٌ. «ب» عُرْف (2) «أ», pl.: «ب» رسوم جمركية. «ج» جمرك (3) «أ» الزِّبانة: معاملة المستهلك محلًا تجاريًا معيّنًا على نحو موصول كقولك I shall take away my custom from this shop. أي: سوف أنقطع عن شراء السِّلع منه. «ب» الزبائن (4) مُوْصًى عليه؛ غير جاهز؛ مصنوع خصيصًا بناء على طلب الزبون custom shoes (5) «أ», صانع للسِّلع «غير الجاهزة» a custom shoemaker.
+custom duty	رَسْمٌ جُمْرُكي
+custom exemption	إعفاءٌ جُمْرُكي
+Custom Region	الإقليم الجمركي
+custom(s) house (or station)	مَركَزٌ جُمْرُكي
+customary fee	أُجورٌ اعْتِيادِيَّة
+customer consumer	مستهلك
+customhouse	جُمْرُك، دائرةُ الجَمارِك
+customs	جمارك
+customs	جُمْرك / جمارك
+customs	رُسومٌ جُمرُكيَّة؛ جُمْرُك، جَمارِك
+customs agent	وكيل جمركي
+customs broker	مُصرِّح لدى الجمارك / مخلّْص جمركي
+customs clearance	تخليص جمركي
+customs clearance	تعشير، جَمْرَكة
+customs declaration	تصريح جمركيّ
+customs declaration	إقرار جمركي
+customs dues	مصاريف جمركية
+customs dues	رسوم جمركية
+customs duties	رُسوم جُمرُكيَّة
+Customs Duties	رسوم جمركية
+Customs Fine	غرامة جمركية
+customs inspection	مراقبة جمركية، فحص جمركي
+customs of port	تقاليد الميناء
+customs seals	أختام جمركية
+customs surcharge	رُسُوم جُمركية إضافية
+customs tariff	تعريفة جمركية
+customs tariff	تَعريفة جُمْرُكيَّة
+customs union	اتحاد جمركيّ
+customs union	الاتحاد الجُمْركي [بين عدد من الدول].
+customs union	اِتِّحادٌ جُمركي
+cut one's profits	يقنع بأرباحٍ أقلّ [أو بالبيع من غير رِبْح].
+cut up well	(1) يموت مخلِّفًا ثروة ضخمة (2) تكون الدجاجة إلخ موفورة اللحم.
+cutting of price	تخفيض السعر
+cyclical deposits	رَواسِبُ دَوريَّة
+cyclical redundancy check	تدقيق الفائض الدوّار
+cyclical unemployment	بطالة دورية
+cylinder bank	صَفُّ أُسطُوانات
+cytoctony	إِهْلاَكُ الخَلاَيا / قتل الخلايا
+cytopenia	قِلَّةُ الكُرَيَّات / فقر خلوي
+cytostasis	رُكودٌ خَلَوِيّ / ركود خلوي

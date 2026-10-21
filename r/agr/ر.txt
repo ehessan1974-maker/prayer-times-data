@@ -1,0 +1,120 @@
+رِئَةُ الحَصَّادين	harvesters' lung (farmers' lung)
+رِئَةُ المُزارِع	farmer's lung
+رِئَةُ المُزَارِعِيْن	farmers' lung
+رِئَةُ المُزَارِعِيْن	threshers' lung (farmers' lung)
+رِئَةُ عُمَّالِ الصَّوامِع	silo-fillers' lung
+رئيس عمال في حقل	farm boss
+رابط التربة	soil binder
+رادار دوپلر النبضي	pulse Doppler
+رادار مترابط النبضات	coherent pulse radar
+رادارٌ نَبْضيّ	pulse radar
+رادارمترابط النبضات	coherent-pulse radar
+رأس الرشاش	sprinkler head
+رأس الرشاش الدَوّار	rotating sprinkler head; revolving sprinkler head
+راصِعَةٌ عَظْمِيَّة	bone onlay (=bone graft)
+راصِعَةٌ عَظْمِيَّة	bone onlay (bone graft)
+رَاعُوش	scrapie
+راعي الماشية	cattleman
+رِبَاطُ هنلي	Henle's ligament (falx inguinalis)
+رُباعَة	quadrat
+رُباعِيُّ كلورو فينوكسيد	tetrachlorphenoxide
+رَبْوُ الكَلأ	hay asthma
+رَبْوُ غُبارِ القُطْن	cotton-dust asthma
+رُتْبَةُ مَرْكَزِيَّات البُذُورِ	Centrospermales
+رَتَلُ النَّبْض	pulse train
+رذاذ مع رعي	spray grazing
+رُزّ	rice
+رُّزٌّ أَبْيَض	white rice
+رَشٌّ جَوِّيّ	spraying, aerial
+رشاد	yellow-seed; lipidium sativium
+رشاش	sprayer
+رَشَّاش	sprinkler / sprinkler apparatus
+رشاش بذراع تطويل	boom sprinkler
+رشاش دَوّار	rotating sprinkler
+رشَّاش رذاذيّ قائم	fixed head sprinkler
+رَشّاشَةُ المُبيدِ الحَشَريّ	insecticide sprayer
+رَشّاشة أليفا للخرسانة	alite concrete sprayer
+رشّاشة دَواليبيَّة	wheel sprinkler
+رشاشة مُتأرجحة	swing-arm sprinkler
+رص التربة	soil compaction
+رصد وتحكم ومراقبة	monitoring, control and surveillance (mcs) (fisheries)
+رطوبة	available moisture / available soil moisture / available water
+رطوبة التربة	soil moisture
+رُطوبَة التُرْبَة المُتاحَةُ	available moisture of the soil (Hd)
+رُطُوبةٌ مُطْلَقَةٌ للتّربة	absolute moisture of the soil ((ha))
+رُطُوبَةٌ نِسْبِيَّةٌ لِلتُّرْبَة	relative moisture of the soil
+رُعاشُ الماشِيَة	trembles
+رُعامُ المَواشِي	cattle farcy
+رعاية زراعية	tending
+رعي الحمام	verbena; vervain
+رِعْيُ الحمام: نبات زهرُهُ مختلِف الألوان	verbena
+رعي انتقائي	selective grazing
+رعي بالتناوب	rotational grazing
+رعي تحطيم	crash grazing
+رعي تكتيكي	tactical grazing
+رعي جائر	overgrazing
+رعي طليق	free range
+رعي مستمر	continuous stocking
+رقائق تشويش متأخرة الفعل	delayed-opening chaff
+رَقَطاتُ التَّبْغ	tobacco flecks
+رَقْعُ الجِلْد	skin grafting
+رُقعَة الريّ بالرفع	lift irrigation area / lift area
+رُقْعَة قابلة للريّ الزراعي	cultivated irrigable area
+رُقْعَة مَروية	irrigated area
+رقم	pF value (of soil water)
+رمز البَارْن	b (barn)
+رمز الكروم	Cr (chromium)
+رمز تربة الأرض	subgrade code
+رَمْزٌ نَبْضيّ	pulse code
+رمطين صلصالي	clay loam
+رمل طميي	sand loam
+رَنَحُ تَوَسُّعِ الشُّعَيرات	ataxia -telangiectasia
+رُهابُ الجُفافِ	xerophobia
+رواسِبُ طَمْيِيَّة	alluvial deposits
+رواسبُ طَمْيِيَّة	deposits, alluvial
+رواسب غَرِينِيَّة	alluvial deposits
+رِواق صَرف	drainage gallery
+رَوْثٌ	dung
+روث	horse-dung
+رَوْث البقرة	cowpat
+روماتزمٌ قَطَنِيّ	lumbar rheumatism (lumbago)
+رُونيل	ronnel
+روى	irrigate
+رِيّ	irrigation
+ريّ	wastewater irrigation
+ريّ	wastewater irrigation, untreated
+رىّ الأحواض	check irrigation; check flooding
+ريّ الأخاديد الطولية	long line furrow method
+رَيّ التربة التحتية	subsoil irrigation; subsurface drain system
+رَيُّ القَطْر	drip irrigation
+ريّ بالأخاديد	furrow irrigation
+ريّ بالأنابيب	tube irrigation
+رَيّ بالتنقيط	drip irrigation
+رَيّ بالتنقيط تحت السطحيّ	subsurface drip irrigation
+رى بالخنادق الكنتورية	contour ditch irrigation
+رَيّ بالرذاذ	spray irrigation
+ريّ بالرذاذ المطريّ	drizzling rain irrigation
+رَيٌّ بالرشّ	irrigate (to) / water (to)
+ريّ بالرش	sprinkler irrigation / spray irrigation
+رى بالسريان الصفائحى	flush irrigation
+ريّ بالشرائح الطولية	boarder strip irrigation
+رىّ بالغمر	flood irrigation
+ريّ بالغمر المحكوم	submersion irrigation
+ريّ بتدفق ثابت	primary flow irrigation
+رّي بتدفق متغير	secondary flow irrigation
+رىّ بخرطوم مساميّ	oozo irrigation; porous hose irrigation
+ري بخرطوم مساميّ	perforated hose irrigation
+ريّ بخرطوم مساميّ	porous-hose irrigation / oozo irrigation
+ريّ تحت سطحيّ	underground irrigation
+ريّ تكميليّ	complementary irrigation; supplemental irrigation
+ريّ حوضيّ	basin irrigation
+رَيٌّ سَطْحيّ	irrigation
+ريّ سطحيّ	surface irrigation
+ري على مُنحدر	corrugation irrigation
+ريّ فيضيّ	spate irrigation
+ري مُخَصِّب	fertiliser-water irrigation
+ريّ ميكرويّ	micro-irrigation
+رَيّ نضيض	trickle irrigation
+رِيسين	ricin
+رِيشة	pen
+رِيْفيمَدِينيّ: خاص بمنطقة سكنيّة في	rurban

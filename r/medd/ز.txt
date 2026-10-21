@@ -1,0 +1,42 @@
+زُؤان	darnel
+زِئْبَقُوز	mercurous
+زاعِق	howler
+زانوكسات	xanoxate
+زايلوميتازولين	xylometazoline
+زُجاج مُسَلَّح	wire glass
+زحف محلول الكتروليتي	electrolyte creep
+زُرْقَةُ الكريزيل	cresyl blue
+زغب الحرير المحلول من الشرانق	single silk
+زَمَنُ البَدْء	onset time
+زمن الجرعة الوسطية المميتة	median lethal time (abbreviation: MLT)
+زَمَنُ المَنَبِّه-الاسْتِجابَة	stimulus-response time
+زمن تلامس المطهر	disinfectant contact time
+زورباميسين	zorbamycin
+زوروبيسين	zorubicin
+زوكسازولامين	zoxazolamine
+زوكلوميفين	zuclomiphene
+زولامين	zolamine
+زوميبيراك	zomepirac
+زوميتابين	zometapine
+زياتين	zeatin
+زيب	zipp
+زيباميد	xipamide
+زيت البلسم	balm oil
+زَيتٌ بِالفيتامين	oleovitamin
+زَيتٌ بالفِيتامينِ A	oleovitamin A
+زَيتٌ بالفِيتامينِ A وD	oleovitamin A and D
+زَيتٌ بالفِيتامينِ D التَّخْليقيّ	synthetic oleovitamin D
+زَيتٌ بالفِيتامينِ D2	oleovitamin D 2
+زَيتٌ بالفِيتامينِ D3	oleovitamin D 3
+زيت خام مُقوَّى	Enriched Crude
+زيت دوائي	medicinal oil
+زيتٌ طِبِّيّ	salve oil
+زَيتٌ مُكَوفَر	camphorated oil (camphor liniment)
+زيدوميتاسين	zidometacin
+زيرانول	zeranol
+زيسب	zisp
+زيلانتيل	zilantel
+زيلوبام	xilobam
+زَيلين	dimethylbenzene (xylene)
+زيميليدين	zimelidine
+زينتيرول	zinterol

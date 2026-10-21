@@ -1,0 +1,301 @@
+سابقة بمعنى العَجُز	hier-
+سابقة بمعنى العَجُز	hiero-
+سابقة بمعنى العَجُز	sacro-
+ساتيكون	saticon (trade mark)
+ساعة الدَّوام: ساعة تسجّل زمان بدء العامل	time clock
+ساق	leg (crus NA)
+سبل العيش المستدامة	sustainable livelihood
+سَبيلٌ صادِر	efferent pathway
+سَبيلٌ صادِر	efferent tract
+سُتْرَةُ مينيرفا	Minerva jacket
+سجل الأصول الثابتة	Fixed Asset Register
+سِجلّ العلاقات التجارية	register of trade relations
+سِجلّ تجاريّ	commercial register
+سِجلّ تجاريّ	trade register
+سِجلّ تجاريّ مركزيّ	central commercial register
+سجل دخل صِوانيّ	input buffer register
+سَحْب شَطّي	bank suction
+سَدّ حاجِز	impounding reservoir bank
+سداد نقديّ	cash payment; payment in cash
+سر الصنع	trade secret
+سر المهنة	professional secrecy; trade secret
+سر تجاري	Trade secret
+سِرٌّ مصرفيّ	banking secret
+سُرعة اِقتِصادية	speed, economic
+سُرعةُ الإدبار	velocity of recession
+سعادة قومية إجمالية	gross national happiness (gnh)
+سِعْر	price
+سِعْر	price on rail
+سعر الإبرام	Strike Price
+سعر الإصدار	emission price
+سِعْر الإصدار	issue price
+سعر الاقتناء	Acquisition Price
+سعر الإقفال	closing price
+سعر البترول	Oil Price
+سِعْرُ البِضاعة مع أُجرة التأمينِ	cost, insurance and freight (CIF)
+سِعْر البورصة	exchange quotation
+سِعْرُ البيان	list price
+سِعر البيع للمُستهلك	turnkey price
+سِعرُ التَّجزِئة	price, retail
+سِعْرُ التَّجْزِئَة	retail price
+سعر التداول	floor price
+سعر التعرفة للطاقة	Levelized Cost of Energy (LCOE)
+سعر التكلفة	cost price
+سعر التوازن	equilibrium price
+سعر التوازن	Equilibrium Price
+سعر التوازن التنافسي	competitive equilibrium price
+سِعْرُ الجُمْلة	price, wholesale
+سعر الجُملة	trade price
+سِعرُ الجُملَة	trade price = wholesale price
+سِعرُ الجُمْلَة	wholesale price
+سعر الحَسْم	bank rate
+سعر الخيار	option price
+سِعْر السهم	share price
+سِعرُ السُّوق	market price
+سعر السوق البديل	surrogate market price
+سعر الشحن النوعي	commodity rate
+سعر الصرف	Exchange Rate
+سِعرْ الصَّرف	exchange rate
+سِعْر الصرف	rate of exchange
+سِعر الصَّرف	valuta
+سعر الصرف العائم المُدار	Managed Floating Exchange Rate
+سِعر الصَّرف أو التبادل	exchange rate
+سعر الصوف الخام	raw wool prices
+سِعْر العَرْض	bid price
+سِعْرُ العَقْد	contract price
+سِعْر الفائدة	interest rate
+سعر الفائدة الاسمِي	nominal interest rate
+سعر الفائدة الحسابي	Accounting Rate of Interest (Ari)
+سِعرُ الفائِدةِ المُرتَفِع	high-interest rate
+سعر القطعة	Piece Price
+سِعْرُ الكُلْفة	cost price
+سِعرُ الكُلْفَة	price, cost
+سعر الكهرباء	electricity price
+سعر الكيلوواط ساعة	working price
+سِعرُ المَبيع	sale price
+سِعرُ المَبيع	selling-price
+سعر المحرك	engine price
+سِعْرُ المَزادِ الأدنى	upset price
+سعر المسار	train path price
+سعر المشتري	Purchaser’s Prices
+سعر المنتج	Producer’s Prices
+سعر النفط القياسي	benchmark price
+سِعرُ الوَحدة	unit price
+سِعْر الوحدة	unit-price
+سعر اليورانيوم	uranium price
+سعر أمثل	Optimum Price
+سعر بدون تكلفة النقل	free on board (FOB)
+سعر بوابة المزرعة	farm gate price; farm- gate price
+سعر ثابت	Fixed Price; (FFP) Firm Fixed Price
+سِعْر ثابت	flat price
+سعر زيت التدفئة	heating oil Price
+سعر سلة نفوط أوبك	Opec Basket Price
+سعر سوق متوازن	market clearing price
+سعر شهادة الانبعاثات	certificate price allowance price
+سعر شهادة الكربون	CO2 certificate price; CO2 permit price
+سِعْر عادِل	fair price
+سعر فترة الأساس	Base Price
+سعر فترة الأساس لأسعار العقارات	Price of Base Period for Real Estate Prices
+سعر فترة المقارنة	Comparable Price
+سعر فترة المقارنة لأسعار العقارات	Price of Comparison Period for Real Estate Prices
+سعر مستهدَف	target price
+سعر مكالمة مدتها ثلاث دقائق إلى هاتف محمول	Price of a Three-Minute-Call to a Mobile-Cellular Phone
+سعر منخفض اليومي	Everyday Low Price (EDLP)
+سعر نسبي	proportional price
+سِعْر يحدده السوق	market price
+سعة الاستهلاك الداخليّ للمحطة	generating unit auxiliary power
+سُفُن متعطِّلة	laid up tonnage
+سفينة بضائع جامدة	dry-cargo ship
+سفينة بضائع عامة	break bulk ship
+سفينة بضائع متنوعة	all freight ship
+سَفينةُ بِضاعة	cargo vessel
+سفينة تجارية	trader; trading ship
+سفينة خفر السّواحل	revenue vessel
+سَفينةُ شَحْن	freighter
+سفينة شراعية ضخمة	Indiaman
+سَقْفُ الأُجُور	wage ceiling
+سقف الأسعار	price ceiling
+سقوط الرهن	foreclosure
+سقيفة الصُّوف: مبنًى	woolshed
+سكُّ	coinage
+سَكّ	coining
+سِلَعٌ	goods, yard
+سلع	goods; articles; merchandise
+سِلَعٌ	wares
+سِلَعٌ اِستِهلاكيَّة	consumer goods
+سِلَعٌ اِستهلاكيَّة	non-durable goods
+سلع استهلاكية سريعة الحركة	FMCG Fast-Moving Consumer Goods
+سِلَع الإنتاج: سِلَعٌ	producer goods
+سِلَعٌ إنتاجيَّة	capital goods
+سِلَعٌ تامَّةُ التَّصنيع	fully-manufactured goods
+سلع تامة الصنع	Finished Goods
+سِلَعٌ تُباعُ باليارْدة	yard goods
+سِلَعٌ تلُوفَة	perishable goods
+سلع خاصة	private good
+سِلَعٌ سائلة	wet goods
+سلع عمومية	public goods
+سِلَع عند الوصول	incoming goods
+سِلَعٌ للتجربة: سِلَعٌ قابلة للإرجاع إن	goods on approval
+سلع مؤذية	offensive goods
+سِلَعٌ مَبيعةٌ بالجُملة	job lot
+سلع مزورة	Counterfeit goods
+سلع مستوردة	Imported Goods (Imports of Goods)
+سِلَع مُصَدَّرة	export goods
+سلع معمرة	durable goods
+سلع معمرة	Durables
+سِلَع مُفرَّغة	shipments 'ex-vessel'
+سلع مقلدة	Imitated goods
+سلع وخدمات استهلاكية	consumption goods and services
+سلع وخدمات نظام إيكولوجي	ecosystem goods and services
+سلع وسيطة	Intermediary Goods
+سلعة	article
+سلعة	Commodities
+سِلْعة	commodity
+سلعة	good
+سِلْعَة	struma (goiter)
+سِلْعَةُ اجتِذاب	loss leader
+سلعة اقتصادية	economic good
+سِلْعَةٌ أُمْدَمِيَّة	struma aneurysmatica
+سِلْعَةُ بازدوف	struma basedowificata (graves disease)
+سِلْعَةٌ تَحْتَ القَصّ	substernal struma
+سِلْعَةٌ تُوْتِيَّة	thymus struma
+سِلْعَةٌ جُرَيبِيَّة	struma follicularis
+سِلْعَةٌ حَديدِيَّة	cast iron struma
+سِلْعَةٌ خَبيثَة	struma maligna
+سِلْعَةٌ خَشَبِيَّة	ligneous struma
+سِلْعَةٌ خَلْفَ القَصّ	retrosternal struma
+سِلْعَةٌ داخِلَ الصَّدْر	struma endothoracica
+سِلْعَةُ ريدل	Riedel's struma
+سِلْعَةٌ زائِغَة	struma aberrantia
+سِلْعَةٌ عَقِدَة	struma nodosa
+سِلْعَةٌ غَرَوانِيَّة	struma colloides
+سِلْعَةٌ غَرَوانِيَّةٌ كِيْسِيَّة	struma colloides cystica
+سِلْعَةُ قاعِدَةِ اللِّسان	struma baseos linguae
+سِلْعَةٌ كُظْرِيَّة	adrenal struma (adrenal hyperplasia)
+سِلْعَةٌ كُظْرِيَّة	struma suprarenalis
+سِلْعَةٌ كُلْوِيَّةٌ شَحْمِيَّةٌ زائِغَة	struma lipomatodes aberrata renis (renal cell carcinoma)
+سِلْعَةٌ كِيْسِيَّةٌ عَظْمِيَّة	struma cystica ossea
+سِلْعَةٌ لِسانِيَّة	struma of tongue
+سِلْعَةٌ لِمْفُوْمِيَّة	struma lymphomatosa (Hashimoto's disease)
+سِلْعَةٌ لِمْفِيَّة	struma lymphatica (status lymphaticus)
+سِلْعَةٌ لِيفِيَّة	struma fibrosa
+سِلْعَةٌ لَيِّنَة	struma mollis
+سِلْعَةٌ مَبِيْضِيَّة	struma ovarii
+سِلْعَةٌ مُتَكَلِّسَة	struma calculosa
+سِلْعَةٌ مَتْنِيَّة	struma parenchymatosa
+سلعة مجانية	free good
+سِلْعَةٌ مُفْرِطَةُ التَّنَسُّج	struma hyperplastica
+سلعة نادرة	scarce good
+سِلْعَةٌ نُخامِيَّة	struma pituitaria
+سِلْعَةُ هاشيموتو	Hashimoto's struma
+سِلْعَةٌ هُلاَمِيَّة	struma gelatinosa
+سِلْعَةٌ وِعائِيَّة	struma vasculosa
+سُلْفَة	imprest
+سلفة	loan
+سُلَّمُ	wage scale
+سُلَّم الأجور	wage scale
+سُلَّمُ الرواتِب	scale of wages
+سلة السلع و الخدمات	Basket of Goods and Services
+سلوك المستهلك	Consumer Behaviour
+سماحية	antenna (input) admittance
+سماحية دخل	input admittance
+سماد تجاري	synthetic fertilizer
+سَمَّاك	fish trader
+سِمسارُ الأسهُمِ المالية	stockbroker
+سِمسار البورصة	stockbroker
+سمعة تجارية	commercial reputation
+سَنَاهِيَة	annuity
+سند الخزن	warehouse warrant
+سند الخزينة	treasury bill
+سَنَد الخزينة	Treasury bond
+سَنَد الخزينة: أحد سندات الخزينة	T-bill
+سَنَدُ شحن بضائع في سفينة مستأجرة	charter-party bill of lading
+سَنَد شركة	corporate bond
+سند قرض	debenture
+سَنَد قرض لحامله	bearer obligation
+سَنَدُ كَفالة	bail bond
+سَنَدٌ مُمتاز	preferred stock
+سَنَدات	stocks
+سَنَداتٌ مالية حُكومية	government securities
+سنة جبائية	fiscal year
+سنة مالية	financial year
+سنة مالية	fiscal year
+سهم رأس المال	share of capital
+سوَّاق دخل	input driver
+سَوَّاقةُ المِروحة	fan drive
+سوق	crura
+سوق	market
+سُوق	souk
+سوق الاستخدام النهائي	end-use market
+سوق الأوراق المالية	stock exchange
+سوق الأوراق المالية	Stock Market
+سوق البُرغوث: سوق تباع فيه العادِيّات	flea market
+سوق البضائع	commodity exchange
+سوق البيانات	Data Marketplace
+سوق البيع بالآجل	derivatives market; forward market
+سوق الرساميل	capital market
+سوق الزيوت الثقيلة	Resid Market
+سوق السمك	fish auction
+سوق السيارات الكهربائية	Electric Vehicle Market
+سوق الشغل	labour market
+سوق الطاقة	Energy Market
+سوق الطاقة الذكية	smart energy market
+سوق الطاقة الشمسية	solar energy market
+سوق الطاقة العالمية	Global Energy Market
+سوق الغاز المسال	liquefied gas market
+سوق الكحوليات	Bear Market
+سوق الكربون	carbon market
+سوق الكربون الطوعية	voluntary carbon market (VCM)
+سوق الكهرباء	Electricity Market
+سوق الكهرباء التنافسية	Competitive Electricity Market
+سوق الكهرباء الداخلية	internal electricity market
+سوق الكهرباء المتصلة بالشبكة	On-Grid Electricity Markets
+سوق الكهرباء المستقلة عن الشبكة	Off-Grid Electricity Markets
+سُوق المُقايَضة	swap meet
+سوق النقد	money market
+سوق النَّقل	transport market
+سوق الوكيل	Agent Marketplace
+سوق ثانوي	Secondary Market
+سُوقٌ حسّاسة	sensitive market
+سوق خيرية	sale of work
+سوق داخلية	domestic market
+سُوق داخلية	internal market
+سوق داخلية للطاقة	internal energy market
+سوق دولية	global market
+سوق رئيسي	Primary Market
+سوق رائدة	lead market
+سوق رأس المال	capital market
+سوق سوداء	black market
+سوق شديدة المنافسة	Tight Market
+سوق شهادات إطلاق الانبعاثات	allowance market; emission allowance market
+سوق صاعدة	Bull Market
+سوق فدري	block loading
+سوق فوري	spot market
+سوق فورية	Spot Market
+سوق متخصصة	niche market
+سوق مزارعين معتمد	certified farmers’ market
+سوق مستدام	sustainable market
+سوق مستهدفة	target market
+سوق مقيد	Restricted Marketplace
+سوق; عضوية سوق الزراعة العضوية	organic agriculture market; organic market
+سيادة المستهلك	consumer sovereignty
+سيارات كهربائية للمستهلكين	Electric Vehicles for Consumers
+سيارة ركوب بمقاعد يمكن إزالتها	commercial vehicle combination
+سياسات المشتريات العمومية في إطار إنفاذ	public procurement policies (ppp) (flegt)
+سياسة تسويقية	marketing policy
+سياسة توزيع الأرباح التقدمية	Progressive Dividend Policy
+سياسة جبائية	fiscal policy
+سياسة دَعْهُ يَعْمل	laissez-faire
+سياسة رأس المال العامل	Working Capital Policy
+سياسة قائمة على السوق	market-based policy
+سياسة مالية	fiscal policy
+سير بدفع مساعد	banking; assisting in rear; pusher operation
+سَيْرٌ دَوّار	travelling apron
+سيسترون فائض	redundant cistron
+سيناريو اجتماعي واقتصادي	socio‐economic scenario
+سيولة	fluence
+سُيُولة	liquidity
+سيولة	low temperature fluidity, (L.T.F.)
+سُيُولة أدبية	river literature
+سيولة الجسيمات	particle fluence
+سيولة الطاقة	energy fluence

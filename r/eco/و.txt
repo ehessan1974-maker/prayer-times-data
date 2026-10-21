@@ -1,0 +1,90 @@
+واجهة دخل	input/output interface
+واردات	Imports
+واردات البضائع والخدمات	Imports of Goods and Services
+واردات الطاقة	Energy Imports
+واردات الغاز الطبيعي	natural gas imports
+واردات المواد الطاقية الخام	Energy raw material imports
+واردات النفط	oil import
+وارِداتٌ غيرُ مَنْظُورة	invisible imports
+واضع الميزانية	budgeteer
+واط غير مستهلك	negawatt
+وافِد	imported
+وثائق الشركة	Company Documentation
+وثيقة السياسة الاقتصادية	economic policy instrument
+وثيقة تأمين البضائع	cargo policy
+وَثيقَة مُحَاسَبة	accounting document
+وَجَعُ العَجُز	sacrodynia
+وُجودِ الكُرَيَّاتِ المِنْجَلِيَّةِ	drepanocytemia (sickle cell anemia)
+وجود رواسب بترولية	occurrence of oil deposits
+وَحْدَةُ الدَّخْل	input unit
+وحدة تجارية للطاقة الكهربائية	board of trade unit; b. of t. unit
+وحدة دخل	input module
+وحدة دخل إشارة القطع	interrupt input unit
+وحدة دخل تناظرية	analog input unit
+وحدة دخل رقمية	digital input unit
+وَحْدَة كار - برايس	Carr-Price unit
+وَحدةُ مَجلس التجارة	Board of Trade Unit
+وَحدةُ مَجلِس التجارة	BTU (Board of Trade Unit)
+وحدة محمل العجلة طراز Hub Unit Offset من	wheel bearing unit hub unit offset design(FAG)
+وحدة محمل العجلة طراز Insert Unit من شركة	wheel bearing insert unit (FAG)
+وحدة محمل العجلة طراز محور الشاحنة Truck	wheel bearing unit truck axle module (FAG)
+ودائع أخرى	Other Deposits
+ودائع تحت الطلب	demand deposits
+وديعة	deposit
+وديعة اختيارية	voluntary deposit
+وديعة اضطرارية	necessary deposit
+وديعة الطلب: وديعة مصرفية واجبة الأداء	demand deposit
+وديعة قضائية	judicial deposit
+ورقُ الصكوكِ وأوراق النقد	bank-and-bond paper
+ورق سجلات	ledger paper
+ورق عملة	currency paper
+ورقة الوزن والتوازن	weight and balance sheet
+ورقة تجارية	commercial paper
+ورقة مَصرِفية	bank-note
+وريثة. وبخاصة: وريثة ثروة ضخمة	heiress
+وزارة التجارة	ministry of trade
+وزن تجاري	commercial weight / conditioned mass
+وسائل النَّقل التجارية	commercial transport
+وسائل تنظيم السوق	market regulation instruments; market regulation measures
+وسائل تنظيم السوق	Market regulation means
+وساطة مالية	financial intermediation
+وسطاء ماليون	financial intermediaries
+وَسَمَ	impress
+وسيط بورصة قيم	stock broker
+وَصْف البضائع	description of goods
+وُصلة انكماش	contraction joint
+وُصْلة انكماش طولية	longitudinal joint / longitudinal contraction joint
+وُصلة مستعرضة	transverse joint / transverse contraction joint
+وضع التشغيل الاقتصادي	ECO mode; ECON mode
+وَضْع الملف رهن إشارة المعنيّ	transmittal of a file
+وَضْع تعريفة	tariffing
+وضع علامة	mark (cites)
+وَضْعِيَّةُ بريكنر	Bricknerr position
+وظائف المالية العامة	Fiscal Functions
+وعاء صادر	efferent vessel
+وعاء صادر	vas efferent
+وِعاءٌ صادِرٌ عَنِ الكُبَيبَة	efferent vessel of glomerulus
+وَغَاء الفائض من المُفاعِل	reactor effluent drum
+وفورات	Savings
+وفورات الحجم	economies of scale
+وفورات الطاقة	Energy Savings
+وفورات بترولية	Petroleum Savings
+وفورات نطاق الإنتاج	economies of scope
+وقت التسوق	Time To Market (TTM)
+وقود الطائرات الذي تنتجه شركة كافكو	Aviation Turbine Kerosene (ATK) or Jet A-1
+وَقُود فائِض	excess fuel
+وَقودٌ فائض	surplus fuel
+وقود مستهلك	spent fuel
+وقود واهن	spent fuel
+وكالة تجارية	commercial agency
+وكالة حكومية لحماية الطبيعة والبيئة	state agency for nature, environment and consumer protection
+وَكَلَ	commit
+وكيل تجاريّ	commercial agent
+وَكيلُ تخليص	clearing agent
+وكيل جمركي	customs agent
+وَمِيض	flash
+وُهَامُ الفَقْر	delusion of poverty
+وَهُوَ المَطْلوبُ عَمَلُهُ	QEF
+وهو المَطلوب عملُه	QEF (quod erat faciendum)
+وَهُوَ المَطْلوبُ عَمَلُه	quod erat faciendum
+وول ستريت: «أ» شارع في مدينة نيويورك	Wall Street

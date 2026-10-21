@@ -1,0 +1,76 @@
+صاحب الدَّخْل	rentier
+صاحبُ المَشروع	entrepreneur
+صاحبُ امتيازٍ بالاستِثمار	claim-holder
+صاحب سند قرض	debenture holder
+صاحب مصلحة	Connected Stakeholder
+صاحب مصلحة	stakeholder; interested party
+صادَرَ	commandeer
+صَادَر	confiscate (to)
+صادر	efferent
+صادِر	efferential
+صادر	effernt
+صادِر	excurrent
+صادر	outgoing
+صادِر ثانويّ	secondary effluent
+صادِر ثلاثيّ	tertiary effluent
+صادِرٌ جَسَدِيّ	somatic efferent
+صادِرٌ حَشَوِيّ	visceral efferent
+صادِرٌ حَشَوِيٌّ عامّ	general visceral efferent
+صادِرٌ مِنَ المُخ	cerebrifugal
+صادِرٌ مِنَ المُخَيخ	cerebellifugal
+صادِرٌ مِنَ المُخَيخ	cerebellofugal
+صادرات السلع والخدمات	Exports of Goods and Services – SNA
+صادرات الطاقة الكهربائية	Power Export
+صادرات الغاز الطبيعي	Natural gas exports
+صادرات النفط	oil exports
+صادِراتٌ غيرُ مَنْظُورة	invisible exports
+صادرات من الخدمات	Exports of Services
+صادرات من السلع	Exports of Goods
+صافي استهلاك التيار الكهربائي	net electricity consumption; net power consumption
+صافي الدَّخْل: ما يتبقَّى من الراتب بعد	take-home pay
+صافي الراتِب	take-home pay
+صافي الضرائب على المنتجات والواردات	Net Taxes on Products and Imports
+صافي تحمل الخصوم	Net Bearing Liabilities
+صافي حيازة الأصول المالية	Net Financial Asset Acquisition
+صافي دخل عوامل الإنتاج من الخارج	Net Factor Income from Abroad
+صافي رأس المال العامل	(NWC) Net Working Capital
+صافي رِبح الوَحدة	net unit value
+صافي قيمة الأصول	Net Asset Value
+صَبٌّ إحداقيّ	investment casting = lost-wax casting
+صَبٌّ بطريقة الشمع المتبدد	cire perdue = investment casting
+صخر القاعدة	bedrock
+صَخْر متعدِّدُ الأصول	polygenetic rock
+صد شطي	bank cushion
+صُداعُ فَقْرِ الدَّم	anemic headache
+صَدَّرَ	export
+صرّاف الرواتب	paymaster
+صرف العملات الأجنبية	Foreign Exchange/FX Management
+صَعَرٌ كاذِبٌ	spurious torticollis
+صعوبات مالية	financial difficulties
+صفّ	bank; queue
+صَفُّ أُسطُوانات	cylinder bank
+صف المجذافين	bank the oars
+صفقة عادلة	Fair Trade
+صفيف مقاييس ضغط	manometer bank
+صَك مَصرفيّ	bank cheque (or bank check)
+صلح بين المدين المفلس ودائنيه	composition between merchant and creditors
+صِمامُ إرجاع	return valve
+صِمام الفائض	overflow valve
+صمام الفائض	spill valve
+صمام المُقتصِد	economizer valve
+صِمامُ نَفْخ	inflation valve
+صناديق الاستثمار المناخي	Climate Investment Fund
+صناديق الأسهم الخاصة \ الملكية الخاصة	Private Equity Funds
+صناعةٌ كبيرةُ رأسِ المال	capital intensive industry
+صندوق الاستثمار في المُناخ	climate investment fund (CIF)
+صندوق الإيداع والتدبير	deposit and consignment fund
+صندوق البريد الصادر	Outbox
+صندوق النقد الدولي	international monetary fund (imf)
+صندوق بضائع	case of goods
+صندوق مالي أهلي	citizen fund
+صَنَّعَ	industrialize
+صنع وتجهيز السلع للاستخدام النهائي الخاص	Making and Processing Goods for Own Final Use
+صِوان دخل	input buffer
+صِوَانُ دخل	input/output buffer
+صورَةُ القُرْص	discogram
+صورة فاعلية السعر	Age-Price Profile

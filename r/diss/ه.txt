@@ -1,0 +1,230 @@
+هالسينُونيد	halcinonide
+هالُوبِيرِيدُول	haloperidol
+هبط الكُظْر	hypadrenia = Addison's disease
+هُبوط التوتُّر	hypotension
+هبوط المحرك الوعائي	collapse, vasomotor (in diphtheria)
+هِجْرَة	migration
+هَجْمَةٌ صَرْعِيَّة	epileptic raptus (epileptic frenzy)
+هُدام	nausea marina (sea sickness)
+هُدام	nausea navalis (sea sickness)
+هَدْأَة	remission
+هَذَيانٌ ارْتِعاشِيّ	mania a potu (delirium tremens)
+هَذَيانُ الحُمَّى	febrile delirium
+هَذَيانُ الحُمَّى	pyretotyphosis
+هَذَيانُ الحُمَّى النوعيّ	specific febrile delirium
+هَذَيانُ الصَّرْع	epileptic delirium
+هَذَيانُ بيل	Bell's delirium (delirious mania)
+هَذَيانٌ شَبِيْهٌ بالفُصَامِ	delirium schizophrenoides
+هَذَيانٌ عَدِيْمُ الحُمَّى	afebrile delirium
+هَذَيانٌ وَخيم	delirium grave (delirious mania)
+هِرْبِس	herpes
+هِرْبِسُ الأَصابِع	herpes digitalis
+هِرْبِسُ الأَنْف	nasal herpes
+هِرْبِسُ الأَنْفِ البَسيط	nasal herpes simplex
+هِرْبِسُ الأَنْفِ النُّطاقِيّ	nasal herpes zoster
+هِرْبِسُ الحَمْل	herpes gestationis
+هِرْبِسُ الحُمَّى	herpes febrilis
+هِرْبِسُ الذَّقْن	herpes mentalis
+هِرْبِسُ الشَّفَة	herpes labialis
+هِرْبِسُ العَصَبِ العَينِيِّ النِّطاقِيّ	herpes ophthalmicus (herpes zoster ophthalmicus)
+هِرْبِسُ العَين	ocular herpes
+هِرْبِسُ القَرْنِيَّة	herpes corneae
+هِرْبِسُ القُزَحِيَّة	herpes iris
+هِرْبِسُ القُلْفَة	herpes praeputialis (genital herpes of the prepuce)
+هِرْبِسُ المُصَارِعِيْن	wrestler's herpes (traumatic herpes)
+هِرْبِسُ الوَجْه	herpes facialis
+هِرْبِسٌ بَثْرِيّ	pustular herpes
+هِرْبِسٌ بَسيط	herpes simplex
+هِرْبِسٌ بَسيطٌ ناكِس	herpes simplex recurrens
+هِرْبِسٌ تَناَسُلِيّ	herpes genitalis
+هِرْبِسٌ تَناسُلِيّ	herpes progenitalis (genital herpes)
+هِرْبِسٌ تَوَسُّفِيّ	herpes desquamans (tinea imbricata)
+هِرْبِسٌ رَضْحِيّ	herpes gladiatorum (traumatic herpes)
+هِرْبِسٌ رَضْحِيّ	traumatic herpes
+هِرْبِسٌ طَمْثِيّ	herpes menstrualis
+هِرْبِسٌ فَمَوِيّ	buccal herpes
+هِرْبِسٌ فَمَوِيٌّ وَجْهِيّ	orofacial herpes
+هِرْبِسٌ لِسانِيّ	lingual herpes
+هِرْبِسٌ مُؤْلِمٌ للأَعْصاب	neuralgic herpes
+هِرْبِسٌ مُتَعَمِّم	herpes generalisatus
+هِرْبِسٌ ناكِس	herpes recurrens
+هِرْبِسٌ نَزْلِيّ	herpes catarrhalis
+هِرْبِسٌ نُطاقِيّ	herpes zoster
+هِرْبِسٌ نُطاقِيّ	shingles (herpes zoster)
+هِرْبِسٌ نُطاقِيٌّ أُذُنِيّ	herpes zoster auricularis
+هِرْبِسٌ نُطاقِيٌّ أُذُنِيّ	herpes zoster oticus
+هِرْبِسٌ نُطاقِيٌّ حُماقِيّ	herpes zoster varicellosus
+هِرْبِسٌ نُطاقِيٌّ عَينِيّ	herpes zoster ophthalmicus
+هُرْمونٌ مُحْدِثٌ للسُّكَّرِي	diabetogenic hormone
+هَرير	bruissement (purring tremor)
+هُزال	asarcia (emaciation)
+هُزال	emaciation
+هُزال	macies (wasting)
+هُزَالٌ	marcor (marasmus)
+هُزال	syntexis
+هُزَال	wasting
+هِسْتِيراني	hysteroid
+هستيريا	hysteria
+هستيريا اخْتِلاَجِيَّة	convulsive hysteria
+هستيريا التَّثْبِيْت	fixation hysteria
+هستيريا القَلَق	anxiety hysteria
+هستيريا تابِسِيَّة	hysterotabetism
+هستيريا تَحْويلِيَّة	conversion hysteria (hysteroneurosis)
+هستيريا تَفارُقِيَّة	dissociative hysteria
+هستيريا جُمْدَوِيَّة	hysterocatalepsy
+هِستيريا رَضْحِيَّة	hysterotraumatism
+هستيريا رَضْحِيَّة	traumatic hysteria
+هستيريا صَرْعِيَّةُ الشَّكْل	hysteroepilepsy
+هستيريا كَلْبِيَّة	canine hysteria (fright disease)
+هستيريا وَحيدَةُ العَرَض	monosymptomatic hysteria
+هِستيريا: نوبة ضحك أو بكاء لا سبيل إلى	hysterics
+هَشاشَة	brittleness
+هَشاشَة	fragilitas (fragility)
+هشاشة	fragility
+هشاشة اجتماعية اقتصادية	socio-economic vulnerability
+هَشاشَةُ الأَظْفار	fragilitas unguium
+هشاشة الأنواع	species vulnerability
+هشاشة الحمر	fragility of blood
+هشاشة الحمر	fragility, erythrocyte
+هشاشة الحمر	fragility, mechanical = erythrocyte fragility
+هشاشة الحمر	fragility, osmotic = erythrocyte
+هَشاشَةُ الشَّعْر	fragilitas crinium
+هشاشة الشعيرات	fragility, capillary
+هَشاشَةُ العِظام	fragilitas ossium
+هَشاشَةُ العِظامِ الوِراثِيَّة	hereditary fragility of bone
+هَشاشَةُ العَظْم	bone fragility
+هَشاشَةُ العَظْم	osteopsathyrosis (osteogenesis imperfecta)
+هَشاشَةُ الكُرَيَّاتِ الحُمْر	erythrocyte fragility
+هَشاشَةُ الكُرَيَّاتِ الحُمْر	fragility of blood (erythrocyte fragility)
+هَشاشَةٌ تَناضُحِيَّة	osmotic fragility
+هَشاشَةٌ شُعَيرِيَّة	capillary fragility
+هَشاشَةٌ ميكانِيِكِيَّة	mechanical fragility
+هلال "كارمان"	Carman's meniscus, (sign in pepticulcer)
+هُمُودٌ إتكالي	anaclitic depression
+هوائي بارز	blister aerial
+هَوائيٌّ طُفَيليّ	parasitic antenna
+هَوَس	mania
+هَوَس	psycheclampsia (mania)
+هَوَسٌ أُحادِيّ	monomania
+هَوَسٌ ارْتِعاشِيّ	tromomania
+هَوَسُ إِشْعالِ النِّيران	incendiarism
+هَوَسٌ اكْتِئابِيّ	depressive mania
+هَوَسُ الأَبابَة	nostomania
+هوس الإتير	etherism
+هوس الإتير	etheromania
+هَوَسُ الإِثْراء	plutomania
+هَوَس الإحراق: نزوع لا يُقاوم إلى إضرام	pyromania
+هَوَسُ الأَدْوِيَة	pharmacomania
+هَوَسُ الأَدْوِيَة	pharmacophilia
+هَوَسُ الأرْوَاحِ الشِّرِّيْرَة	cacodemonomania
+هَوَسُ الأَكْل	oreximania
+هَوَسُ الأَكْل	phagomania
+هَوَسُ الأَكْل	sitiomania
+هَوَسُ الأَكْل	sitomania
+هَوَسُ الأَماكِنِ المُغْلَقَة	claustromania
+هَوَسُ الانْفِراد	agromania
+هَوَسُ البُذاء	coprolalomania
+هَوَسُ البِراز	copromania
+هَوَسُ التَّجْوال	dromomania
+هَوَسُ التَّجَوُّل	wanderlust
+هَوَسُ التِّرْحال	poriomania
+هَوَسُ التَّشَكُّك	doubting mania (folie du doute)
+هَوسُ التَّصْويت	phonomania
+هَوَسُ التَّعَرِّي	ecdysiasm
+هَوَسُ التَّعَرِّي	nudomania
+هَوَسُ التَّناظُر	symmetromania
+هَوَس التّهويل	mythomania
+هَوَسُ الثَّراء	cresomania
+هَوَسُ الحَرَائِق	pyromania
+هَوَسُ الحِساب	arithmomania
+هَوَسُ الحُقَنِ الشَّرَجِيَّة	klismaphilia
+هَوَسُ الحِكْمَة	sophomania
+هَوَسُ الرُّضوح	traumatophilia
+هَوَسُ الزُّهْرِيِّ	syphilomania (syphilophobia)
+هَوَسُ الستريكنين	strychninomania
+هَوَسُ السَّرِقَة	cleptomania (kleptomania)
+هَوَسُ السَّرِقَة	kleptomania
+هوس الشبق	eroticomania = erotomania
+هَوَسُ الشَّراب	dipsomania
+هَوَسُ الشَّراب	dipsomania (alcoholism)
+هوس الشرب	dipsomania
+هَوَسُ الشَّكْوَى من الفَرَح	paramania
+هَوَسُ الشَّياطين	demonomania
+هَوَسُ الصَّريف	bruxomania
+هَوَسُ الصَّريف	brychomania (bruxomania)
+هوس الظمأ	hydrodipsomania
+هَوَسُ العَطَش	hydrodipsomania (psychogenic polydipsia)
+هَوَسُ العَظَمَة	grandiosity
+هَوَسُ العَظَمَة	macromania
+هَوَسُ العَظَمَة	megalomania
+هَوَسُ العَمَل	ergasiomania
+هَوَسُ الغَسْل	ablutomania
+هَوَسُ القَتْل	homicidomania
+هَوَسُ الكِتابَة	graphomania
+هَوَسُ الكِتابَة	scribomania (graphorrhea)
+هَوَسُ الكُتُب	bibliomania
+هَوَس الكُتُب: شدّة الولع باقتناء الكتب	bibliomania
+هَوَسُ الكُحول	alcoholomania
+هَوَسُ الكَذِب	mythomania
+هَوَسُ الكوكائين	cocainomania
+هَوَس المُخَدِّرات	narcomania
+هَوَسُ المَرَض	nosomania
+هَوَس المسرح	Theatromania
+هَوَسُ المُسْكِرات	methomania (methilepsia)
+هَوَسُ الموسيقَى	musicomania
+هَوَسُ المَيادين	agoraphilia
+هَوَسُ النَّتْف	trichologia (trichotillomania)
+هَوَسُ النَّتْف	trichomania (trichotillomania)
+هَوَسُ النَّتْف	trichotillomania
+هَوَسُ الهيروين	heroinomania
+هَوَس انشراحي = كيومانيا	cheomania
+هَوَسٌ برومي	bromomania
+هَوَسُ بيل	Bell's mania (acute delirium)
+هَوَسُ تَرْديدِ الكَلِمات	onomatomania
+هَوَسٌ تَسْبيبِيّ	reasoning mania
+هَوَسُ تَعَذُّرِ الحَرَكَة	akinetic mania
+هَوَسٌ تَفاعُلِيّ	reactive mania
+هَوَسٌ تيفيّ	typhomania
+هَوَسٌ خَفِيْف	hypomania
+هَوَسٌ خَفيف	submania
+هَوَسُ خَلَلِ البِنْيَة	dysmorphomania
+هَوَسٌّ دُراقِيّ	thyroidomania
+هَوَسٌ دَوْرِيّ	periodical mania
+هَوَسٌ دينِيّ	religious mania
+هَوَسٌ ذُهولِيّ	stuporous mania (unproductive mania)
+هَوَسٌ راجِع	recurrent mania (periodical mania)
+هَوَسُ راي	Ray's mania (moral insanity)
+هَوَسٌ رَقَصِيّ	choreomania
+هَوَسٌ رَقَصِيّ	dancing mania (choreomania)
+هَوَسٌ زِئْبَقِيُّ المَنْشَأ	hydrargyromania
+هَوَسٌ شَبَقِيّ	eroticomania (erotomania)
+هَوَسٌ شَبَقِيّ	erotomania
+هَوَسُ شَدِّ القَضيب	peotillomania
+هَوَسٌ صَرْعِيّ	epileptic mania
+هَوَسٌ طَعامِيّ	opsomania
+هَوَسٌ عابِر	transitory mania
+هَوَسٌ غَيْرُ مُنْتِج	unproductive mania (stuporous mania)
+هَوَسٌ كاذِب	pseudomania
+هَوَسٌ كُحولِيّ	alcoholic mania
+هَوَسٌ كُحولِيّ	oinomania (dipsomania)
+هَوَسُ لَمْسِ ظاهِرِ البَدَن	phaneromania
+هَوَسٌ مُفْرِط	hypermania
+هَوَسٌ مُورْفينِيّ	morphinomania
+هَوَسٌ مورْفينِيّ	morphiomania
+هَوَسُ نَتْشِ الأَظْفار	onychotillomania
+هَوَسُ نَتْفِ الشَّعْر	trichoclasmania
+هَوَسٌ نِفاسِيّ	puerperal mania
+هَوَسٌ هَذَيانِيّ	delirious mania
+هَوَسٌ هِسْتيرِيّ	hysterical mania
+هَوَسٌ هَلْوَسِيٌّ حادّ	acute hallucinatory mania
+هيدانتوين	hydantoin
+هيدروكسي يوريا	hydroxyurea
+هيدروكسيزين	hydroxyzine
+هيدروكلوريد الأُوْرامين	auramine hydrochloride
+هيدروكودون	hydrocodone
+هيدروكورتامات	hydrocortamate
+هَيْضة	cholera infantum
+هَيْضة	cholera morbus
+هيكل وعائي زهري	floral vascular skeleton
+هيكل وعائي زهري	vascular floral skeleton
+هيموفيليا	haemophilia; hemophilia

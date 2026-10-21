@@ -1,0 +1,62 @@
+غاريقونٌ مُسْهِل	larch agaric (purging agaric)
+غاريقونٌ مُسْهِل	purging agaric
+غاز محلول	dissolved gas
+غاز مُقوَّى	Enriched Gas
+غاسْترون	gastrone
+غاسترين	gastrin
+غالاسيتوفينون	gallacetophenone
+غالامين	gallamine
+غامَّابيبرادول	gamma-pipradol (azacyclonol)
+غاميفار	gamefar (pamaquine)
+غايثيلين	guaithylline
+غايفينيسين	guaifenesin
+غُذَيذَة	sanies
+غَرَاغِر	gargles
+غرامِيسِيدِين	gramicidin
+غَرْغَرَة	gargarism
+غَرْغَرة	gargle
+غَرْغَرَةٌ مُطَهِّرَة	antiseptic gargle
+غَرْغَرَة ميلَرْ	Miller's collutory
+غرِيزْيوفولفِيِن	griseofulvin
+غريفة	loculus
+غَسُول	lotion
+غَسُول الفم	mouthwash
+غَسُولٌ عَيْنِيّ	eye lotion
+غَسُولٌ كاوٍ	caustic wash
+غِشاءُ بير	Baer's membrane
+غُفْل	placebo
+غُفْلٌ فَعَّال	active placebo
+غُفْلٌ مَشوب	impure placebo
+غلُوبُولين المَصْل	seroglobulin
+غلوبولينُ المَصْل	serum globulins
+غلوكاروبين	glaucarubin
+غلُوكْسازون	gloxazone
+غلُوكوسَلْفُون	glucosulfone
+غَلْي	coction
+غليبورنوريد	glibornuride
+غليبُوريد	glyburide
+غليسيرِيَّة	glycerite
+غليسيرِيَّة	glyceritum
+غليسيرِيَّةٌ نَشَوِيَّة	starch glycerite
+غليسيمين	glycemin
+غليفلين	glyphylline (dyphylline)
+غُلَيفَة	enteric-coated
+غليكلازيد	gliclazid
+غلِيكُوبْيارْسُول	glycobiarsol
+غليكُوبيرُولات	glycopyrrolate
+غليكوجيلاتين	glycogelatin
+غليميدين	glymidine
+غلِيُوتُوكْسِين	gliotoxin
+غَمَشُ التسَمُّمِ بالكِينين	quinine amblyopia
+غَمَشٌ عِلاجِيُّ المَنْشَأ	iatrogenic amblyopia
+غَنْجَا	ganja
+غوارانَة	guarana
+غوانابِنْز	guanabenz
+غوانادريل	guanadrel
+غواناكْلين	guanacline
+غوانْسيدين	guancydine
+غوانُوكْسابِنْز	guanoxabenz
+غَوانُوكْسان	guanoxan
+غوانُوكْلُور	guanochlor
+غوانيثيدين	guanethidine
+غوسيبول	gossypol

@@ -1,0 +1,21 @@
+absolute reference frame	إطارُ الإسنادِ المُطلَق
+acceleration datum	مرجع إسناد التسارع
+acoustic position reference system	شبكة إسناد صوتية للموضع
+acoustical speech power	قوَّة الحديث السمعيّةِ
+address	(1) يُوَجِّه (2) «أ» ينصَبّ؛ ينكبّ على Qasim address ed himself to the work in hand.. «ب» يعالج to address an issue (3) يخاطب؛ يوجِّه كلامه إلى (4) يَخطُب في؛ يُلقي خُطبةً في (5) يُعَنْوِن [الرسالة] (6) يغازل (7) pl.: مغازلة (8) لباقة؛ براعة handled the matter with address (9) أسلوب الحديث مع شخص آخر a pleasant address . (10) الأداء: طريقة الإلقاء أو الغناء (11) خُطبة؛ حديث (12) «أ», العنوان: «ب» عنوان الشخص أو المؤسسة Write your address plainly.. «ج» موقع في ذاكرة الكومبيوتر تُخْزَن فيه المعلومات (ألك).
+Aeneolithic	إينيوليثيّ: خاصّ بفترة انتقالية بين العصر الحجري الحديث وعصر البرونز (جي).
+allotment	حِصَّة؛ تَحْصِيص، تَخْصِيص / إسْنَاد
+ana	بمقادير متساوية [تُسْتَخْدَم في الوصفات الطبية]. (1) الأحاديث: مجموعة من أقوال شخصٍ ما (2) الطرائف: حكايات طريفة عن شخص أو موطن.
+Analytic monologue	الحديث الفردي التّحليلي
+ape-man	الإنسان القِرد: أحد الرئيسات Primates المنقرضة التي تُعتبر حلقةً متوسطة بين القِرَدة العُليا والإنسان الحديث.
+approach fix	موقع إسناد الاقتراب
+approach fix	مَوْقعُ إسْنَادِ الاقتراب
+aside	(1) جانبًا moved the table aside (2) على انفراد They took him aside. (3) إلى جانب She sat down aside of me.. joking aside : جديًّا؛ من غير هزل.to speak aside : يتكلم بحيث لايسمعه الآخرون.(1) الحديث الجانبيّ: كلامٌ يُقال على انفراد، كالملاحظة التي يُبديها أحد الممثلين على المسرح بصوت منخفض مُتّجهًا بها إلى جمهور النظّارة ومفترضًا أن أيًّا من زملائه لن يسمعها (2) استطراد.
+Aside	الحديث الجانبي
+assignment	تعيين؛ تخصيص؛ مهمة محدَّدة / إسْنَاد / إسناد
+assignment operator	مؤثِّر الإسناد
+assignment statement	عبارةُ إسنادٍ
+attribution of jurisdiction	إسناد الاختصاص
+average speech power	قدرة الحديث المتوسطة
+axes of reference	محاور الإسناد
+axis of reference	مِحوَر الإسناد

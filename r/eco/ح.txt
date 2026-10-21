@@ -1,0 +1,160 @@
+حائط فُهن	Fohn wall; Fohn bank
+حاجز السوق	market barrier
+حاجز الطميّ	wing levee; afflux bund; afflux bank
+حاجِز الفائض	spill board
+حاجز تجاري	trade barrier
+حاجز تحويل	diversion bank
+حاجز ترابي	bank
+حاجز حماية جزئيّ	overflow dike
+حاجة الفرد اليومية من الأكسجين الحيوي	per capita bod per day in domestic sewage
+حادثٌ أو صادرٌ كلَّ ثلاثةِ أشهر	trimonthly
+حافز	incentive (economic)
+حافز اقتصادي	economic incentive
+حافز اقتصادي	economical incentive
+حافز السعر الثابت	(FPI) Fixed Price Incentive
+حافز ضريبي	fiscal incentive
+حافز مالي	financial incentive
+حافز مالي	fiscal incentives
+حافة قرض	clipping edge
+حالات الاختفاء الاقتصادي الأخرى غير	Other Economic Disappearance of Non-produced Assets
+حالة استخدام للمساعدة الفعالة للمعيشة	AAL use case; active assisted living use case
+حالة الإشارة	Deixis
+حالَةُ السُّيولة	liquid state
+حالةُ السُّيُولة	state, liquid
+حامِلُ الأسهم	stockholder
+حامل الأسهُم: أحد مالكي أسهم الشركة	stockholder
+حاوية بضائع	cargo container
+حاوية قمامة للزجاج	bottle bank/bin
+حتمية الاستيراد	pressure to import; import necessity
+حتمية التصدير	pressure to export; export necessity
+حَثَلٌ دَمَوِيّ	hematodystrophy (nutritional anemia)
+حجرة الشَّحن: حجرة في مصنع تُشْحَن منها	shipping room
+حُجرةُ الطَّفْح	overflow chamber
+حَجْز البضائع	seizure of goods
+حَجْمٌ اِقتِصاديّ	economical size
+حجم البضاعة	density of cargo
+حجم التجارة	Trade Volume
+حد أدنى للأجر	minimum wage
+حد أدنى للأجور	minimum wage
+حد أدنى للسعر	price floor
+حَدُّ الاستِثمار المُغِلّ	pay line
+حد الأصل للأصول الثابتة	Asset Boundary for Fixed Assets
+حَدُّ الانكماش	shrinkage limit
+حَدُّ السُيولة	liquid limit
+حد ضريبة قانون الطاقة المتجددة الألماني	EEG levy limit
+حد من المسؤولية	limit of liability
+حَدَثٌ لِقِطارِ بَضائِعَ خَطِرَةٍ	Dangerous Goods Incident
+حُدُود التَّعرِفَة	tariff zones; fare zones
+حدود المسؤولية	Limit Of Liability
+حَديدٌ تِجاريٌّ مُطاوِع	merchant iron
+حُرُّ المَعيشَة	free living
+حر المعيشة	free-living
+حَرارةُ الدَّخْل	input heat
+حرب تجارية	Trade War
+حرْق الفائض	flaring the surplus
+حركة الإصلاح الزراعيّ: حركة تنادي بإعادة	agrarianism
+حركة البضائع	goods traffic
+حركة التصنيع	industrialism
+حركة الشحن	freight traffic
+حركة نقابية	trade-union movement
+حرية اقتصادية	economic liberty
+حُرِّية التجارة	free trade
+حرية التجارة	freedom of commerce
+حرية التجارة والصناعة	right of free enterprise
+حرية نقابية	trade-union freedom; trade-union liberty
+حُزمة الإدخال	fan-in
+حِساب	account
+حساب استخدام الدخل	Use of Income Account
+حساب إعادة توزيع الدخل العيني	Redistribution of Income in Kind Account
+حِساب الأتعاب	calculation of tariffs
+حساب الادّخار	deposit account
+حساب الأرباح والخسائر	profit and loss account
+حِسابُ الأُستاذ	ledger account
+حساب الاستهلاك	write-off
+حساب الإنتاج في نشاط البنوك	Output Account in Banking
+حساب التوزيع الأولي للدخل	Distribution of Primary Income Account
+حساب التوزيع الثانوي للدخل	Secondary Distribution of Income Account
+حساب التوفير	savings account
+حساب الخزون السلعي	inventory accounting, stock management and accounting
+حساب الربح والخسارة	profit and loss
+حساب السلع بالريال	Goods Account in Saudi Riyal (SAR).
+حساب السلع والخدمات	Goods and Services Account
+حساب السلع والخدمات بالريال	Goods and Services Account in Saudi Riyal (SAR)
+حساب الصفقات المالية	Capital Transaction Account
+حِسابُ النفَقات	expense account
+حساب الودائع	deposit account
+حساب توليد الدخل	Generation of Income Account
+حِسابٌ دائِن	credit account
+حساب دائنية	creditor account
+حساب رأس المال	Capital Account
+حِسابُ سِعْر الكُلفة	cost accounting
+حساب مصرفيّ	bank account
+حِسابات	accounts
+حساسية السوق	Market Sensitivity
+حَسْرُ البَظْر	clitoral recession
+حَسْرُ الوَتَر	tendon recession
+حَسْرُ عَضَلاَتِ العَين	recession of ocular muscle
+حَسْم مصرِفيّ	bank discount
+حَشْوةُ الرِّفد	dunnage
+حَشِيّة قَشّ	pallet
+حصانة	immunity (used when dealing with international trade agreements and OPEC)
+حِصْرِم حَلَب: التّظاهر بالعزوف عن الشيء	sour grapes
+حِصَّة	dividend
+حصة الأرباح	dividend
+حصة الأرباح النقدية	cash dividend
+حصة السوق النسبية	Relative Market Share
+حصة المرأة من الدخل المكتسب	Share of Women in Earned Income
+حصة سوقية	Market Share
+حصيرة شجيرات	layer of brushwood, combined with other items to secure bank
+حصيلة اقتصادية للطبقة الحاملة للماء	yield of an aquifer, economic
+حضور الأطراف	appearance of the parties
+حظر	embargo
+حظر البترول	Oil Embargo
+حَظْرٌ بَحري	embargo
+حظيرة بضائع	freight shed
+حفارة المصاريف	trencher with drain laying attachment
+حفظ أرصدة	banking
+حق استثمار المكمن	operating interest; working interest
+حَقُّ الحَجْز	lien
+حق في حصة من الأرباح	dividend right; dividend entitlement
+حق ملكية البضائع	Title To Goods
+حَقَّقَ	realize
+حقوق	economic and social rights
+حقوق المساهمين	Shareholder Equity
+حقوق المستهلكين	Consumers Rights
+حقوق الملكية وأسهم صناديق الاستثمار	Equity and Investment Fund Shares
+حقيبة صغيرة	scrip
+حكمٌ بالحراسة: أمرٌ من محكمة إفلاس يقضي	receiving order
+حلُّ الشركة	dissolution of company
+حل وسط لخدمات النظام البيئي	trade-offs of ecosystem services
+حَلَزونُ	fluidity helix
+حَلَقَةُ الكِسْوَة	investment ring
+حَلَقَةُ بَانْدِل	Bandl's ring (pathologic retraction ring)
+حَلَقَةُ براون	Braun's ring (pathologic retraction ring)
+حمائية	Protectionism
+حَمَّامُ المُلاءَةِ المُبَلَّلَة	drip-sheet bath
+حماية المستهلك	consumer protection
+حماية المستهلك	protection of consumers
+حماية عدم التوازن لمجموعة المكثفات	unbalance protection for a capacitor bank
+حماية مؤقتة للعلامة	Temporary trade protection
+حِماية مباشرة للضفاف	bank protection, direct
+حماية مجموعة المكثفات	capacitor bank protection
+حُمولة	cargo
+حُمولةٌ جافَّة	dry cargo
+حواجز الاستيراد	Import Barriers
+حواجز السوق	market barriers
+حواجز جمركية	tariff barriers
+حواجز جمركية	tariff barriers; walls barriers
+حوافز الاستثمار	investment incentive
+حوافز قائمة على السوق	market-based incentives
+حَوَالة	remittance
+حَوَالَةٌ ماليَّة بَريديَّة	money order
+حوالة مَصْرفية	bank bill
+حوض الوقود المستهلك	spent fuel pool
+حوض تذرية	deflation basin
+حَوضٌ مُلْتَحِمُ العَجُز	assimilation pelvis
+حَوضٌ مُلْتَحِمُ العَجُز سُفْلِيَّاً	low-assimilation pelvis
+حَوضٌ مُلْتَحِمُ العَجُزِ عُلْوِيَّاً	high-assimilation pelvis
+حيازة مسروقات	possession of stolen goods
+حَيِّز البَضائع	cargo hold
+حيز الجدوى الاقتصادية	region of feasibility

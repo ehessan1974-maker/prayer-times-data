@@ -1,0 +1,117 @@
+يُجَنّ	go off one's head
+يحافظ على المظاهر	keep up appearances
+يُحْتَشَر	infest
+يُحْدِثُ الإِمْساك	constipate
+يَدُ الطَّرْق	beat hand
+يَدُ مارينسكو الواذِمَة	Marinesco's succulent hand (main succulente)
+يَدُ مِخْلَبِ السَّرَطان	lobster-claw hand (cleft hand)
+يُداري الزّكام	nurse a cold
+يَرَقَان	icterus
+يَرَقان	icterus (jaundice)
+يَرَقان	icterus = jaundice
+يَرَقان	icterus; jaundice
+يَرَقان	jaundice
+يرقان احتباسي	jaundice, retention
+يَرَقانٌ احْتِباسِيّ	retention jaundice
+يَرَقانٌ أَسْوَد	black jaundice (Winckel's disease)
+يَرَقانُ البَريمِيَّات	leptospiral jaundice
+يَرَقانُ البريميات	spirochetal icterus (icteric leptospirosis)
+يَرَقانُ التَّخْديرِ المَوضِعِيّ	local anesthesia jaundice
+يَرَقانُ التَّسَمُّمِ بحَمْضِ البكريك	picric acid jaundice
+يرقان الحلزونيات	jaundice, spirochetal = jaundice, leptospiral
+يرقان الحلزونيات " مرض فايل "	jaundice, leptospiral = spirochetal jaundice = Weil's syndrome
+يَرَقانُ الرُّضَّع	breast milk jaundice
+يَرَقانُ الكِلاَبِ الخَبيث	malignant jaundice of dogs (canine babesiosis)
+يَرَقانُ المِحْقَنَة	syringe jaundice (serum hepatitis)
+يَرَقانُ المُلْتَوِيَات	spirochetal jaundice
+يَرَقانُ الوَليدِ	icterus neonatorum
+يَرَقانُ الوَليد	jaundice of the newborn (icterus neonatorum)
+يرقان الوليد	jaundice, of the newborn = icterus neonatorum
+يَرَقانُ الوَليدِ	pedicterus (icterus neonatorum)
+يَرَقانٌ انْحِلاَلِيّ	cythemolytic icterus (hemolytic icterus)
+يَرَقانٌ انْحِلاَلِيّ	hemolytic jaundice (hemolytic anemia jaundice)
+يرقان انسدادي	jaundice, obstructive
+يَرَقانٌ انْسِدادِيّ	obstructive jaundice
+يَرَقانُ انْسمامِ الدَّمِ	toxemic jaundice
+يَرَقانٌ بدُوْنِ انْحلالِ الدَّمِ	nonhemolytic jaundice
+يَرَقانٌ بسَبَبٍ سَابِقٍ للكَبِدِ	prehepatic jaundice
+يَرَقانٌ بَسيط	icterus simplex
+يرقان بلا بيلة صفراوية	jaundice, acholuric
+يَرَقانٌ بِنْيَوِيّ	constitutional jaundice
+يَرَقانُ بُود	Budd's jaundice (acute yellow atrophy of the liver)
+يَرَقانٌ تالٍ لتَعَاطي الأرسفينامين	post-arsphenamine jaundice
+يرقان تحللي	jaundice, hemolytic
+يرقان تسممي	jaundice, toxic
+يَرَقانٌ جِراحِيّ	surgical jaundice
+يَرَقانٌ حُمَّوِيّ	febrile icterus
+يَرَقانٌ حُمَّوِيّ	febrile jaundice
+يَرَقَانٌ حُمَّوِيّ	icterus febrilis
+يَرَقانٌ خافٍ	latent jaundice
+يَرَقانٌ خَبيث	malignant jaundice (acute yellow atrophy of the liver)
+يَرَقانٌ خَفِيّ	occult jaundice (latent jaundice)
+يَرَقانٌ خِلْقِيٌّ دونَ انْحلالِ الدَّمِ	congenital familial nonhemolytic jaundice (Crigler- Najjar syndrome)
+يَرَقانٌ خِلْقِيٌّ دونَ انْحلالِ الدَّمِ	congenital nonhemolytic jaundice
+يَرَقانٌ خَلَوِيٌّ كَبِدِيّ	hepatocellular jaundice
+يَرَقانٌ دونَ انسدادٍ	nonobstructive jaundice
+يَرَقانٌ دونَ مَرَضٍ كَبِدِيٍّ	anhepatic jaundice
+يَرَقانٌ دونَ مَرَضٍ كَبِدِيٍّ	anhepatogenous jaundice
+يَرَقانُ رُكودِ الصَّفْراء ; يَرَقَانٌ	cholestatic jaundice
+يرقان ركودي	jaundice, cholestatic
+يَرَقانٌ سُمِّيّ	toxic jaundice
+يَرَقانُ سومطرة	Sumatra jaundice (leptospiral jaundice)
+يَرَقانُ شمورل	Schmorl jaundice (kernicterus)
+يَرَقانٌ عائِلِيٌّ عَدِيْمُ البِيلَةِ	familial acholuric jaundice (hereditary spherocytosis)
+يَرَقانٌ عَدْوائِيّ	icterus infectiosus
+يَرَقانٌ عَدْوائِيّ	infectious jaundice (infective hepatitis)
+يَرَقَانٌ عَدْوَائِيٌّ	infective jaundice (infective hepatitis)
+يَرَقانٌ عَدِيْمُ البِيلَةِ الصَفْراوِيَّة	acholuric jaundice
+يرقان فسيولوجي	jaundice, phisiologic
+يَرَقانٌ فِيزيُولُوجِيّ	physiologic icterus
+يَرَقانٌ فيزيولوجيّ	physiologic jaundice
+يَرَقانٌ قَلَسِيّ	regurgitation jaundice
+يَرَقانٌ كاذِب	pseudoicterus (pseudojaundice)
+يَرَقانٌ كاذِب	pseudojaundice
+يرقان كامن	jaundice, latent
+يَرَقانٌ كَبِدِيّ	hepatic jaundice
+يَرَقانٌ كَبِدِيُّ المَنْشَأ	hepatogenic jaundice
+يَرَقانٌ كَبِدِيُّ المَنْشَأ	hepatogenous jaundice
+يرقان كَبِدي المنشأ	jaundice, hepatogenic = jaundice, hepatogenous
+يرقان كَبِدي خلوي	jaundice, hepatocellular
+يَرَقانُ كريغلر-نجار	Crigler-Najjar jaundice (congenital familial non hemolytic jaundice)
+يَرَقانٌ مُبْتَسِر	icterus praecox
+يَرَقانٌ مَتْنِيّ	parenchymal jaundice (hepatocellular jaundice)
+يَرَقانٌ مُزْمِنٌ عَدِيْمُ البِيلَةِ	chronic acholuric jaundice (hereditary spherocytosis)
+يَرَقانٌ مُصَفِّر	xanthochromic jaundice
+يَرَقانٌ مَصْلِيٌّ بَشَرِيٌّ	human serum jaundice (hepatitis B)
+يَرَقانٌ مَصْلِيٌّ مِثْلِيّ	homologous serum jaundice (human serum jaundice)
+يرقان معدٍ	jaundice, infectious = jaundice, infective
+يَرَقانٌ ميكانيكِيّ	mechanical jaundice (obstructive jaundice)
+يَرَقانٌ نَزْفِيّ	hemorrhagic jaundice
+يَرَقانٌ نَزْلِيّ	catarrhal jaundice
+يَرَقانٌ نَزْلِيّ	icterus catarrhalis
+يَرَقانٌ نَزْلِيٌّ وَبائِيّ	epidemic catarrhal icterus
+يَرَقانُ نَقْلِ الدَّم	transfusion jaundice (serum hepatitis)
+يَرَقانٌ نَوَوِيّ	kernicterus
+يَرَقانٌ نَوَوِيّ	nuclear icterus (kernicterus)
+يَرَقانٌ نَوَوِيّ	nuclear jaundice (kernicterus)
+يَرَقانٌ وَبائِيّ	epidemic jaundice (hepatitis A)
+يرقان وبائي	jaundice, epidemic
+يَرَقانٌ وَخيم	icterus gravis (acute yellow atrophy)
+يَرَقانٌ يَفَعِيٌّ مُتَقَطِّع	icterus intermittens juvenilis
+يَرَقانٌ يوروبيلينيّ	urobilin jaundice
+يرقة ذات الجنيبين	DIPLEURULA
+يزيل الحساسية	desensitize, to
+يستردّ صحته	look oneself again
+يُصاب بالحُمَّى	run a temperature
+يُصِمّ: يُصيب بالصَّمَم	deave
+يطرد	fight off
+يُعْدِي	infect
+يغادر الفراش ويزاول عمله	be up (or out) and about
+يَكْتَشِف	detect
+يُكزِّز: يصيب بداء الكُزاز	tetanize
+يكون متلهّفًا دائمًا على أخذ الرشوة	have an itching palm
+يَلْزَمُ فراشه	take (or keep to) one's bed
+يَنبوع إنخِفاضي	depression spring
+يُنقص أو يُضعف الحساسية	hyposensitize
+ـيَّة	-ia
+يوريديفوس	uredofos

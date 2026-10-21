@@ -1,0 +1,63 @@
+صابونٌ مُطَهِّر	antiseptic soap
+صامِدٌ للمَصْل	sero-fast (serum-fast)
+صامِدٌ للمَصْل	serum-fast
+صِبْغَةُ الأَفْيون	laudanum (opium tincture)
+صَبْغَةُ الأَفْيون	opium tincture
+صِبْغَةُ الأَفْيونِ الكافورِيَّة	paregoric (camphorated opium tincture)
+صَبْغَةُ الأَفْيونِ المُكَوْفَرَة	camphorated opium tincture
+صَبْغَةُ الديجيتال	digitalis tincture
+صَدْمَةُ التَّخْدير	anesthesia shock
+صَدْمَةٌ إِنْسُولينِيَّة	insulin shock
+صَدْمَةٌ مَصْلِيَّة	serum shock
+صَدْمَةُ نَقْصِ سُكَّرِ الدَّم	hypoglycemic shock (insulin shock)
+صَدَىً قَوقَعِيّ	cochlear echo
+صَرْعٌ مُنَشَّط	activated epilepsy
+صَرَف الدَّوَاء	dispense (to)
+صَرْف الدواء	dispensing
+صَرْفُ الدَّواء	drug dispensing
+صُل	sol
+صِمامُ الحَقْن	injection valve
+صمام ليزري ليزر شبه موصل ليزر صمام ثنائي	injection laser diode; ILD (abbreviation); semiconductor laser; diode laser
+صمامات الحقن	injection valve (petrol engine) [UK] / injection valve (gasoline engine) [US]
+صَمْغُ الأَفْيون	gum opium (opium)
+صَمَمٌ مُحْدَثٌ بالأَدْوِيَة	drug-induced hearing loss
+صِنَاعَةٌ صَيْدَلانِيَّةٌ	pharmaceutical industry
+صِهْريجُ الكُدَارَةِ المُنَشَّط	activated sludge tank
+صَوتُ القَطْرَةِ السَّاقِطَة	falling drop sound
+صودوفثاليل	sodophthalyl
+صيْدَلانيّ	chief pharmacist
+صَيدَلانِيّ	druggist (pharmacist)
+صيدلانيّ	pharmaceutical
+صيدلاني	pharmaceutist
+صَيدَلاَنِيّ	pharmaceutist (pharmacist)
+صَيدَلاَنِيّ	pharmacist
+صَيْدَلانِيٌّ إِدارِيّ	administration pharmacist
+صَيْدَلانِيُّ التّثْقِيْف	education pharmacist
+صَيْدَلانِيُّ الخِدْمَةِ الحُكُوْمِيَّة	pharmacist in government service
+صَيْدَلانِيُّ القُوَّاتِ المُسَلَحَة	armed forces pharmacist
+صَيْدَلانِيُّ المُسْتَشْفَى	hospital pharmacist
+صَيْدَلانِيٌّ بَيْطَرِيّ	veterinary pharmacist
+صَيْدَلاَنِيّ حَيَوِيّ	biological pharmacist
+صَيْدَلانِيٌّ سريريّ	clinical pharmacist
+صَيْدَلانِيٌّ صِنَاعيّ	industrial pharmacist
+صَيْدَلانِيٌّ عَسْكريّ	military pharmacist
+صَيْدَلانِيٌّ مُجْتَمَعِيّ	community pharmacist
+صَيْدَلَة	pharmacy
+صَيْدَلَةُ البَيْعِ بالجُمْلَةِ	whole-sale pharmacy
+صَيدَلَةُ المُسْتَشْفى	hospital pharmacy
+صَيدَلَةُ المُسَنِّين	geriatric pharmacy
+صَيْدَلَةُ المُشِعَّات	radiopharmacy
+صَيْدَلَة جَالِينُوسِيَّة	galenical pharmacy
+صَيدَلَةٌ فيزيائِيَّة	physical pharmacy
+صَيْدَلة مُوَازِيَّة	parapharmacy
+صَيدليّ	pharmaceutical
+صَيدلِيّ	pharmacist
+صيدلية	pharmacy
+صَيدَلِيَّةُ المَرْضَى الخارجِيَّين	outpatient pharmacy
+صَيدَلِيَّةُ المَرْضَى الدَّاخِلِيِّيْن	inpatient pharmacy
+صَيدَلِيَّةُ طِبِّ الأَطْفال	pediatric pharmacy
+صَيدَلِيَّةٌ مُجْتَمَعِيَّة	community pharmacy
+صيغَتا مِلين التَّعاكُسِيَّتان	Mellin inversion formulas
+صيغَة	formula
+صيغَةٌ رَسْمِيَّة	official formula
+صيغة مخفَّفة عن لفظة God	Od

@@ -1,0 +1,534 @@
+خافِضُ الحُمَّى	febricide
+خِبرةٌ سابِقة	experience
+خبل	dementia
+خبل بسيط	dementia simplex
+خُثار	thrombosis
+خُثارٌ احْتِضارِيّ	agonal thrombosis
+خُثارٌ إكليليّ	coronary thrombosis
+خُثارُ التَّاجِيّ	coronary thrombosis
+خُثارُ الجَيبِ الكَهْفِيّ	cavernous sinus thrombosis
+خُثارُ الصِّمامِ الكُرَوِيّ	ball-valve thrombosis
+خُثارُ المَشيمَة	placentosis
+خُثارُ الوَريدِ البابِيّ	pylethrombosis
+خُثارٌ انْصِمامِيّ	embolic thrombosis
+خُثارُ أَورِدَةِ العَظْم	osteothrombosis
+خُثارٌ تَوَسُّعِيّ	dilatation thrombosis
+خُثارٌ جِدارِيّ	mural thrombosis
+خُثارٌ جَيبِيّ	sinus thrombosis
+خُثارُ جُيُوب الأُمِّ الجافية	thrombosinusitis
+خُثارٌ داخِلَ البُطَين	intraventricular thrombosis
+خُثارٌ داخِلَ القَلْب	intracardiac thrombosis
+خُثارٌ رَضْحِيّ	traumatic thrombosis
+خُثارٌ رُكودِيّ	thrombostasis
+خُثارُ ريبرت	Ribbert's thrombosis (agonal thrombosis)
+خُثارٌ زاحِف	creeping thrombosis
+خُثارٌ سَغَلِيٌّ	marantic thrombosis (marasmic thrombosis)
+خُثارٌ شِرْيانِيّ	arterial thrombosis
+خُثارٌ صُفَيحِيّ	plate thrombosis (platelet thrombosis)
+خُثارٌ صُفَيحِيّ	platelet thrombosis
+خُثارٌ ضُمُوْرِيّ	atrophic thrombosis
+خُثارٌ عَدْوائِيّ	infective thrombosis
+خُثارٌ قَلْبِيّ	cardiac thrombosis
+خُثارٌ قَيحِيّ	suppurative thrombosis
+خُثَارٌ كَهْرَبِيّ	electrothrombosis
+خُثارٌ مُتَنَقِّل	migrating thrombosis
+خُثارٌ مُخِّيّ	cerebral thrombosis
+خُثارٌ مَساريقِيّ	mesenteric thrombosis
+خُثارٌ مَشيمِيّ	placental thrombosis
+خُثارٌ مِكْرَوِيّ	microthrombosis
+خُثارٌ مُنْتَشِرٌ	propagating thrombosis
+خُثارٌ مِهْمازِيّ	calcarine thrombosis
+خُثارٌ نِفاسِيّ	puerperal thrombosis
+خُثارٌ هُزالِيّ	marasmic thrombosis
+خُثارٌ وَريدِيّ	phlebothrombosis
+خُثارٌ وَريدِيّ	venous thrombosis
+خَثْرة	coagulum
+خَدَرُ الغَثَيان	nausea anesthesia
+خَدَرٌ مُفْرِطُ الحَساسِيَّة مِهَادِيِّ	thalamic hyperesthetic anesthesia
+خَدَماتُ المَرْضَى الدَّاخِلِيِّين	inpatient facility
+خَدَماتُ مُساعَدَةِ المَرِضَى	patient assistance services
+خُراج	abscess
+خراج	abscess, scrofulous = cold abscess = tuberculous abscess
+خُراج	abscessus
+خُراج	apostema
+خُراج	diapyema (abscess)
+خراج "برودي"	abscess, Brodie's
+خراج "بزولد"	abscess, Bezold's
+خُراجٌ إبْطِيّ	axillary abscess
+خُراجٌ احْتِقانِيّ	congestive abscess
+خُراجٌ إِحْلِيلِيّ	urethral abscess
+خُراجٌ أُذُنِيّ	otic abscess (otic cerebral abscess)
+خُراجٌ أُذُنِيُّ المَنْشَأ	otogenic abscess (otic cerebral abscess)
+خُراجٌ إرْضاعِيّ	milk abscess
+خُراجٌ إسْكِيٌ مُسْتَقِيمِي	ischiorectal abscess
+خراج الألْية	abscess, gluteal
+خُراجُ البَنكرياس	pancreatic abscess
+خُراجُ التَّثْبيت	fixation abscess
+خراج التقيح الدموي	abscess, pyemic
+خُراجُ التُّوتَة	thymic abscess
+خراج الثدي	abscess, breast
+خُراجُ الجَذْر	radicular abscess (root abscess)
+خُراجُ الجَذْر	root abscess
+خُراجُ الجُرَيبِ الشَّعْرِيّ	pilonidal abscess
+خُراجُ الحَيِّزِ الجَناحِيِّ الفَكِّيّ	pterygomandibular space abscess
+خُراجُ الحَيِّزِ الحَنَكِيّ	palatal space abscess
+خُراجُ الحَيِّزِ الدِهْليزِيّ	vestibular space abscess
+خُراجُ الحَيِّزِ النَّابِيّ	canine space abscess
+خراج الدماغ	abscess, brain
+خُراجُ الدِّماغ	pyencephalus
+خُراجُ الرِّباطِ العَريض	broad ligament abscess
+خراج الزجاجية	abscess, of vitreous
+خُراجُ الزُّجاجِيَّة	vitreous abscess
+خراج الشعب الموسعة	abscess, bronchiectatic
+خراج الشفر	abscess, labial
+خُراجُ العَضَلةِ القَطَنِيِّة	psoas abscess
+خُراجُ الغُدَّةِ البَصَلِيِّةِ	bulbourethral gland abscess
+خُراجُ الغُدَّةِ العَرَقِيَّة	sudoriparous abscess
+خُراجُ الغُرْزَة	stitch abscess
+خُراجُ الفَصِّ الصُّدْغِيّ	temporal lobe abscess
+خُراج القرنية	cornea, abscess
+خراج القرنية الجاف	abscess, cornea siccus
+خُراجُ القَرْنِيَّةِ الجافّ	abscessus siccus corneae
+خُراجُ الكَبِد	purohepatitis (hepatic abscess)
+خراج اللبن	abscess, milk
+خُراجُ اللِّثَة	gum boil
+خُراجُ اللِّثَة	gumboil (parulis)
+خُراجُ المَناطِقِ المَدارِيَّة	tropical abscess
+خُراجُ الوَتَرات	web-space abscess
+خراج أميبي	abscess, amebic
+خُرّاج أميبي	amebic abscess
+خُراجٌ أَميبِيّ	amebic abscess (amoebic abscess)
+خُراجٌ أميبِيّ	endamebic abscess (amebic abscess)
+خُراجٌ أميبِيّ	entamebic abscess (amebic abscess)
+خُراجٌ أنْفِيّ	nasal abscess
+خُراجٌ أوَّلِيّ	primary abscess
+خُراجُ بَاجيت	Paget's abscess (residual abscess)
+خراج بارد	abscess, cold
+خُراجٌ بَارِد	cold abscess
+خُراجٌ بِرازِيّ	fecal abscess
+خُراجٌ بِرازِيّ	stercoraceous abscess (fecal abscess)
+خُراجٌ بِرازِيّ	stercoral abscess (fecal abscess)
+خُراجُ برودي	Brodie's abscess
+خُراجُ بوت	Pott's abscess
+خُراجُ بوترييه	Pautrier's abscess (Pautrier's microabscess)
+خُراجٌ بُوقِيٌّ مَبيضِيّ	tubo-ovarian abscess
+خُراجٌ بَولِيّ	urapostema
+خُراجٌ بَولِيّ	urinary abscess
+خُراجُ بيزولد	Bezold's abscess
+خراج تابع	abscess, satellite
+خُراجٌ تالٍ لإنْتانِ الدَّم	septicemic abscess
+خُراجٌ تالٍ لتَقَيُّحِ الدَّم	pyemic abscess
+خراج تحت الجمجمة	abscess, subcranial
+خُراجٌ تَحْتَ الحادّ	subacute abscess
+خراج تحت الحجاب	abscess, subphrenic = subdeaphragmatic
+خُراجٌ تَحْتَ الفَكِّ السُّفْلِيّ	submandibular abscess
+خراج تحت الكبد	abscess, subhepatic
+خراج تحت سمحاق الجمجمة	abscess, subpericranial
+خراج تدرني	abscess, tuberculous = cold
+خُراجٌ تَدَرُّنِيّ	strumous abscess (tuberculous abscess)
+خُراجٌ تَصَمُّغِيّ	gummatous abscess
+خراج تعاطفي	abscess, sympathetic
+خُراجٌ تَعاطُفِيّ	sympathetic abscess
+خُراجُ تورنفالت	Thornwaldt abscess
+خُراجٌ ثانَوِيّ	secondary abscess
+خُراجٌ ثَدْيِيّ	breast abscess
+خُراجٌ ثَدْييّ	mammary abscess
+خُراجٌ ثَرْبِيّ	epiploic abscess
+خراج جائل	abscess, wandering
+خراج جاف	abscess, dry (siccum)
+خُراجٌ جافّ	dry abscess
+خُراجٌ جانِبِي	lateral abscess (periodontal abscess)
+خُراجٌ جُبْنِيّ	caseous abscess
+خُراجٌ جَبْهِيّ	frontal abscess
+خُراجٌ جِدارِيّ	mural abscess
+خُراجٌ جِدارِيّ	parietal abscess (periodontal abscess)
+خراج جذري	abscess, root
+خُراجٌ جِرابِيّ	bursal abscess
+خُراجٌ جُرَيبِيّ	follicular abscess
+خُراجٌ جُزْئِيّ	partial abscess
+خُراجٌ جَناحِيٌّ فَكِّيّ	pterygomandibular abscess
+خراج جَوْبي	abscess, lacunar
+خُراجٌ جَوبِيّ	lacunar abscess
+خراج جيبي	abscess, antral = empyema of the antrum
+خُراجٌ حاجِزِيّ	septal abscess
+خراج حاد	abscess, acute
+خُراجٌ حادّ	acute abscess
+خُراجٌ حارّ	hot abscess
+خُراجٌ حَجاجِيّ	orbital abscess
+خُراجٌ حَرْقَفِيّ	iliac abscess
+خراج حلقي	abscess, ring
+خُراجٌ حَلَقِيّ	ring abscess
+خُراجٌ حَنَكِيّ	palatal abscess
+خُراجُ حَوَائِطِ الذِّرْوَة	periapical abscess
+خُراجُ حَوَائِطِ المِلاطِ	pericemental abscess
+خُراجٌ حَوْضِيّ	pelvic abscess
+خُراجٌ حَوضِيٌّ مُسْتَقيمِيّ	pelvirectal abscess
+خراج حوضي مستقيمي = خراج مستقيمي غائر	abscess, plvi-rectal
+خراج حول الكلوة	abscess, perinephric
+خُراجٌ حَولَ اللَّوزَة	circumstantiality abscess
+خُراجُ حَيِّزِ السُّباتِيّ	carotid space abscess
+خُراجُ حَيِّزِ المُبَوِّقَة	buccinator space abscess
+خراج خارج الجافية	abscess, extradural
+خُراجٌ خَبيئِيّ	crypt abscess
+خُراجٌ خُرْجِيّ	bicameral abscess (shirt stud abscess)
+خُراجٌ خُرْجِيّ	collar-button abscess (shirt stud abscess)
+خُراجٌ خُرْجِيّ	shirt-stud abscess
+خُراجٌ خُشَّائِيّ	mastoid abscess
+خراج خلف البريتون	abscess, retroperitoneal
+خراج خلف البلعوم	abscess, retropharyngeal
+خُراجٌ خَنَازِيرِي	scrofulous abscess (tuberculous abscess)
+خراج داخل الثدي	abscess, intramammary
+خُراجٌ دُخْنِيّ	miliary abscess
+خراج دُخيني	abscess, miliary
+خُراجُ دِلبيش	Delpech's abscess
+خُراجٌ دِماغِيّ	brain abscess
+خُراجٌ دِمَاغِيّ	cerebral abscess
+خُراجٌ دِمَاغِيٌّ أُذُنِيُّ المَنْشَأ	otic cerebral abscess
+خراج دمعي	abscess, lacrimal
+خُراجٌ دَمْعِيّ	lacrimal abscess
+خُراجٌ دَمَوِيُّ المَنْشَأ	hematogenous abscess
+خُراجُ دَوَاعِمِ السِّنّ	parodontal abscess
+خُراجُ دَوَاعِمِ السِّنّ	peridental abscess (periodontal abscess)
+خُراجُ دَوَاعِمِ السِّنّ	periodontal abscess
+خُراجُ دَوَاعِمِ السِّنِّ القِمِّيُّ	chronic apical periodontal abscess
+خُراجُ دَوَاعِمِ السِّنِّ القِمِّيُ الحادّ	acute apical periodontal abscess
+خُراجُ دُوبْوا	Dubois abscess
+خُراجٌ رِئَوِيّ	lung abscess
+خُراجٌ رِئَوِيّ	pulmonary abscess
+خُراجٌ رِئَوِيٌّ شَفْطِيُّ المَنْشَأ	aspirational lung abscess
+خُراجٌ راحِيّ	palmar abscess
+خُراجُ رِتْجِ دُوغْلاس	Douglas abscess
+خُراجٌُ رَضْحِيّ	traumatic abscess
+خُراجٌ رُكودِيّ	hypostatic abscess (wandering abscess)
+خراج زائدي	abscess, appendicular
+خُراجٌ زائِدِيّ	appendiceal abscess
+خُراجٌ زائِدِيّ	appendicular abscess
+خُراجٌ زائِدِيّ	typhloempyema (appendicular abscess)
+خُراجٌ زُهْرِيّ	syphilitic
+خُراجٌ ساتِل	satellite abscess
+خراج سدادي	abscess, embolic
+خُراجٌ سَطْحِيّ	superficial abscess
+خُراجٌ سُلِّيّ	tuberculous abscess
+خراج سنخي	abscess, alveolar
+خُراجٌ سِنْخِيّ	alveolar abscess
+خُراجٌ سِنْخِيٌّ جانِبِيّ	lateral alveolar abscess (periodontal abscess)
+خُراجٌ سِنْخِيٌّ سِنِّيّ	dentoalveolar abscess
+خُراجٌ سِنِّيّ	dental abscess
+خُراجٌ سِنِّيّ	tooth abscess
+خُراجٌ سِنِّيٌّ جِلْدِيّ	cutaneous dental abscess
+خُراجٌ سِنِّيٌّ سِنْخِيّ	dentoalveolar abscess (alveolar abscess)
+خُراجٌ سِنِّيٌّ سِّنْخِيٌّ حادّ	acute dentoalveolar abscess (alveolar abscess)
+خُراجٌ سيسائِيّ	spinal abscess
+خُراجٌ شَبيهٌ بزِرِّ القَمِيْص	collar stud abscess
+خُراجٌ شَرجِيٌّ مُسْتَقيمِيّ	anorectal abscess
+خُراجٌ شَفَوِيّ	labial abscess
+خُراجٌ صِفاقيّ	peritoneal abscess
+خُراجٌ صَفْراوِيّ	biliary abscess
+خُراجٌ صِمِّيُّ المَنْشَأ	embolic abscess
+خُراجٌ طَبْلِيٌّ خُشَّائِيّ	tympanomastoid abscess
+خُراجٌ طَبْلِيٌّ عُنُقِيّ	tympanocervical abscess
+خُراجٌ طِحالِيّ	splenic abscess
+خُراجٌ عَجُزِيٌّ عُصْعُصِيّ	sacrococcygeal abscess
+خُراجٌ عَظْمِيّ	bone abscess
+خُراجٌ عَظْمِيُّ الإِمْداد	ossifluent abscess
+خُراجٌ عَقيم	sterile abscess
+خُراجٌ عَميق	deep abscess
+خُراجٌ غازِيّ	gas abscess
+خُراجُ غُدَدِ بارتولين	bartholinian abscess
+خُراجٌ غُدِّيّ	glandular abscess
+خراج غرزي	abscess, stitch
+خُراجٌ غَنْغَرينيّ	gangrenous abscess
+خراج فضالي	abscess, residual
+خُراجٌ فَلْغَمونَيّ	phlegmonous abscess
+خُراجُ فُوشييه	Fochier's abscess (fixation abscess)
+خُراجُ فون بيزولد	von Bezold's abscess (Bezold's abscess)
+خُراجٌ قِرابِيّ	thecal abscess
+خراج قَطَني	abscess, psoas
+خُراجٌ قَطَنِيّ	lumbar abscess
+خراج قمّي	abscess, apical
+خُراجٌ قِمِّيّ	apical abscess
+خُراجُ قَناةِ الصَّفْراء	bile duct abscess
+خُراجُ قَناةِ الصَّفْراء	cholangitic abscess (bile duct abscess)
+خُراجٌ قُنَيوِيّ	canalicular abscess
+خُراجٌ كَبِديّ	hepatic abscess
+خُراجٌ كَبِدِيّ	liver abscess
+خُراجٌ كُلْوِيّ	kidney abscess (renal abscess)
+خُراجٌ كُلْوِيّ	renal abscess
+خراج كمئي	abscess, collar-button (shirt-stud abscess)
+خُراجٌ لَبَنِيٌّ	galactapostema (milk abscess)
+خراج لبي	abscess, pulp
+خُراجٌ لُبِّيّ	pulp abscess
+خُراجٌ لِثَوِيّ	gingival abscess
+خُراجٌ لِمْفِيّ	lymphatic abscess
+خُراجٌ لَوْزِيّ	tonsillar abscess
+خُراجٌ لَوْزِيٌّ لِسانِيّ	lingual quinsy
+خُراجٌ مُتابِعٌ للجاذِبِيَّة	gravitation abscess (wandering abscess)
+خُراجٌ مُتابِعٌ للجاذِبِيَّة	gravity abscess (wandering abscess)
+خُراجٌ مُتَبَقّ	residual abscess
+خُراجٌ مُتَجَبِّن	caseous abscess (cheesy abscess)
+خُراجٌ مُتَجَبِّن	cheesy abscess (caseous abscess)
+خُراجٌ مُتَجَوِّل	wandering abscess
+خُراجٌ مُتَحَدِّد	circumscribed abscess (walled abscess)
+خُراجٌ مُتَطَبِّل	tympanitic abscess (gas abscess)
+خُراجٌ مُتَعَدِّد	multiple abscess
+خُراجٌ مُتَكَيِّس	encysted abscess
+خُراجٌ مُتَنَقِّل	migrating abscess (wandering abscess)
+خُراجٌ مَجْهُوْلُ السَّبَب	idiopathic abscess
+خراج محدود داخل البريتون	abscess, localised intraperitoneal
+خُراجٌ مُحَوَّط	walled abscess
+خُراجٌ مُخَيخِيّ	cerebellar abscess
+خُراجٌ مُدَمَّى	hematapostema
+خُراجٌ مُزْمِن	chronic abscess
+خُراجٌ مَصْلِيّ	serous abscess
+خُراجٌ مَعِدِيّ	gastric abscess
+خُراجٌ مَفْصِلِيُّ الإمْداد	arthrifluent abscess
+خُراجٌ مُقْفَل	blind abscess
+خُراجٌ مِكْرَوِيّ	microabscess
+خُراجٌ مُمَحْفَظ	encapsulated abscess
+خراج منتشر	abscess, diffuse
+خُراجٌ مُنْتَشِر	diffuse abscess
+خُراجٌ مَنْصِفِيّ	mediastinal abscess
+خُراجٌ مَنَوِيّ	spermatic abscess
+خُراجٌ نَاجِمٌ عَن الأوالي	protozoan abscess
+خُراجٌ ناجِمٌ عَنْ البِلْهارسِيَّات	bilharziasis abscess
+خُراجٌ نَاجِمٌ عن الحُلَيزِنات	spirillar abscess
+خُراجٌ نَاجِمٌ عَنْ الدِّيْدان	helminthic abscess
+خُراجٌ نَاجِمٌ عَنْ الدِّيْدان	verminous abscess
+خُراجٌ نَاجِمٌ عن الدِّيْدان	worm abscess
+خُراجٌ نَاجِمٌ عن العِقْدِيَّات	streptococcal abscess
+خُراجٌ ناجِمٌ عَنْ الفُطْرِيَّات	fungal abscess
+خُراجٌ ناجِمٌ عَنْ الفيلاريات	filarial abscess
+خُراجٌ نَزْفِيّ	hemorrhagic abscess
+خُراجٌ نُفاخِيّ	emphysematous abscess
+خراج نقيلي	abscess, metastatic
+خُراجٌ نَقِيليّ	metastatic abscess
+خُراجٌ نَكَفِيّ	parotid abscess
+خُراجٌ نُوكارْدِيّ	nocardial abscess
+خُراجٌ هامِشِيّ	marginal abscess
+خُراجٌ وَجْهِيٌّ شامِل	panfacial abscess
+خراج وركي مستقيمي	abscess,ischio-rectal
+خراج وركي مستقيمي	ischiorectal, abscess
+خُراجُ وَريدِ الباب	pylephlebitic abscess
+خُراجُ ويلش	Welch's abscess (gas abscess)
+خُراجاتُ مُونْرُو	Munro's abscesses
+خَرَس	dumbness
+خَرَس	obmutescence
+خَرَسُ تَعَذُّرِ الحَرَكَة	akinetic mutism
+خَرَسٌ عُضْوِيّ	mutitas organica
+خَرَس نسياني	amnesic aphasia
+خَرَسٌ وَنَائِيٌّ	mutitas atonica
+خَرَف	aphrenia (dementia)
+خَرِف	dement
+خَرِف	demented
+خَرَف	dementia
+خَرَف	dotage
+خَرِف	dotard
+خَرِف a doddering old man	doddering
+خَرَفُ ارْتِجاجِ الدِّماغ	dementia pugilistica
+خَرَفُ الدِّيال	dialysis dementia
+خَرَفُ الرَّمَعِ العَضَلِيّ	dementia myoclonica
+خَرَفُ آلزهايمَر	Alzheimer's dementia
+خَرَفُ الصَرْع	epileptic dementia
+خَرَفُ المُلاكِمين	boxer's dementia
+خَرَفٌ انْتِهائِيّ	terminal dementia
+خَرَفٌ أَوَّلِيّ	primary dementia
+خَرَفُ بِنْزفاغْنَر	Binswanger dementia
+خَرَفٌ تابِسِيّ	tabetic dementia
+خَرَفٌ تَحْتَ قِشْرِيّ	subcortical dementia
+خَرَفُ تَصَلُّبِ الشَّرَايين	arteriosclerotic dementia
+خَرَفٌ ثانَوِيّ	secondary dementia
+خَرَفُ جامودِيّ	catatonic dementia (catatonic schizophrenia)
+خَرَفُ دَلاَلَةِ الرُّمُوْزِ	semantic dementia
+خَرَفٌ زَوَرانِيّ	dementia paranoides
+خَرَفٌ سُمِّيّ	toxic dementia
+خَرَفٌ شَلَلِيّ	dementia paralytica
+خَرَفٌ شَلَلِيّ	paralytic dementia
+خَرَفٌ شَيخوخِيّ	dotage (senile dementia)
+خَرَفٌ شَيخوخِيّ	presbyophrenia
+خَرَفٌ شَيْخُوْخِيّ	senile dementia
+خَرَفُ طِفْلِيّ	dementia infantilis
+خَرَفٌ عُضْوِيّ	organic dementia
+خَرَفُ قُصورِ الدَّرَقِيَّة	myxedematous dementia
+خَرَفٌ كاذِب	pseudodementia
+خَرَفٌ كاذِبٌ هِسْتيرِيّ	hysterical pseudodementia
+خَرَفٌ كَهْلِيّ	dementia presenilis
+خَرَفٌ كَهْلِيّ	presenile dementia
+خَرَفٌ مُبْتَسَر	dementia praecox (schizophrenia)
+خَرَفٌ وِعائِيّ	vascular dementia
+خَزَب	dropsy
+خَزَبٌ	edema; oedema
+خزب - أوديما	edema = oedema
+خَزَبُ البَطْن	dropsy of belly (ascites)
+خَزَبُ البوق	salpingian dropsy (hydrosalpinx)
+خَزَبُ البُوق	tubal dropsy (hydrosalpinx)
+خَزَبُ الحُروب	war dropsy (nutritional dropsy)
+خَزَبُ الدِّماغ	dropsy of brain
+خَزَبُ الرَّاْس	dropsy of head (hydrocephalus)
+خَزَبُ السَّلَى	dropsy of amnion (hydramnios)
+خَزَبُ الصَّدْر	dropsy of chest (hydrothorax)
+خَزَبُ الصِّفاق	peritoneal dropsy (ascites)
+خَزَبُ المَجاعَة	famine dropsy (nutritional edema)
+خَزَبُ المَفْصِل	articular dropsy (hydrarthrosis)
+خَزَبٌ بَطْنِيّ	abdominal dropsy (ascites)
+خَزَبٌ تَغْذَوِيُّ المَنْشَأ	nutritional dropsy
+خَزَبٌ جِلْدِيّ	cutaneous dropsy (edema)
+خَزَبٌ حادٌّ بفَقْرِ الدَّم	acute anemic dropsy (epidemic dropsy)
+خَزَبٌ رَطْب	wet dropsy (beriberi)
+خَزَب عرقي عصبي	angioneurotic edema
+خَزَبٌ قَلْبِيُّ المَنْشَأ	cardiac dropsy
+خَزَبٌ كَبِدِيُّ المَنْشَأ	hepatic dropsy
+خَزَبٌ كُلْوِيّ	renal dropsy
+خَزَبٌ لافاعِل	passive dropsy
+خَزَبٌ وَبائِيّ	epidemic dropsy
+خَزْعَةُ الجُرْح	wound biopsy
+خَزَل	paresis
+خَزَلٌ كاذِب	pseudoparesis (hysterical paralysis)
+خُشَاف	compote
+خَشبةٌ قاصِرة	cripple-timber = jack-timber
+خصائص الحساسية النسبية للطيف	relative-spectral-sensitivity characteristic
+خصائص حساسية الطيف	spectral-sensitivity characteristic
+خصائص حساسية الطيف المطلقة	absolute-spectral-sensitivity characteristic
+خَصَرٌ	frostbite
+خُضار	chlorosis
+خَطّ	streak
+خط الانخلاع	dislocation line
+خَطُّ الصَّدْع	fracture line
+خَطُّ الكَسْر	fracture line
+خط مائل	oblique stroke
+خطر الأشعة المحدثة التهاب للجلد	erythemal hazard
+خطر الإصابة بالسرطان	cancer risk
+خَطَّة	stroke
+خِطَّةُ رِعايَةِ المَرْضَى	patient care plan
+خُطوطُ مِيس	Mees's stripes
+خَفَقان	tremor cordis (palpitation)
+خَلاَئِفُ الذَّوَانب	metacercariae [sing.metacercaria]
+خلاصة جوز القيء	extract, nux vomica
+خُلاَصَةُ جَوزِ القَيء	extractum nucis vomicae
+خُلاَصَةُ جَوزِ القَيء	nux vomica extract
+خَلاَيا آشوف	Aschoff's cells
+خَلاَيا الْتِهابِيَّة	inflammatory cells
+خَلاَيا آلْزهايمِر	Alzheimer's cells
+خَلاَيا المَرَضِ القَلْبِي	heart-disease cells
+خَلاَيا الوَرَمِ الغُدِّيِّ اللِّمْفِي	lymphadenoma cells
+خَلاَيا بَالونيَّة	balloon cells
+خَلاَيا قَوقَعِيَّة	physaliferous cells
+خَلاَيا لانغْهانْس العِمْلاَقَة	Langhans' giant cells
+خَلاَياَ مَرَضِيَّة	pathologic cell
+خَلاَيا ميكُولِيتْس	Mikulicz's cells
+خَلاَيا هيلا	HeLa cells
+خَلاَيا وارْثِن فينِكيلدِي	Warthin-Finkeldey cells
+خلع	dislocatio = dislocation
+خَلْعْ	dislocation
+خلع	dislocation = dislocatio = luxation
+خلع	luxation
+خَلْع	luxation (dislocation)
+خلع	pulling
+خلع "نلتون"	dislocation, Nèlaton's
+خَلْعُ الرُّكْبَة	knee dislocation
+خَلْعُ العَدَسَة	dislocation of the lens
+خَلْعُ المَفْصِل	dearticulation (dislocation)
+خَلْعُ المَفْصِل	joint dislocation
+خَلْعُ المَفْصِلِ السِّنْدانِيُّ	incudomalleal dislocation
+خَلْعُ المَفْصِلِ السِّنْدانِيُّ	incudostapedial dislocation
+خَلْعُ المُقْلَة	globe dislocation
+خَلْعٌ بَدْئِيّ	primitive dislocation
+خَلْعٌ بَسِيط	simple dislocation
+خَلْعُ بِيل دالي	Bell-Dally dislocation (atlas dislocation)
+خلع تام	dislocation, complete
+خَلْعٌ تَحْتَ الأَخْرَم	infra-acromial dislocation
+خَلْعٌ تَحْتَ الحُقَّة	infraglenoid dislocation
+خَلْعٌ تَحْتَ الشَّوكِيّ	subspinous dislocation
+خَلْعٌ تَحْتَ الكَاحِل	subastragalar dislocation
+خَلْعٌ جُزْئِيّ	incomplete dislocation
+خَلْعٌ جُزْئِيّ	partial dislocation
+خَلْعٌ جُزْئِيٌّ بحَسَبِ فُولكمان	Volkmann's subluxation
+خلع حافّي	edge dislocation
+خَلْعٌ حَديث	recent dislocation
+خَلْعٌ خِلْقِيّ	congenital dislocation
+خلع خلقي	dislocation, congenital
+خَلْعٌ داخِلَ الرَّحِم	intrauterine dislocation
+خَلْعٌ راجِع	recurrent dislocation
+خَلْعٌ رُصُغِيّ	tarsal dislocation
+خَلْعٌ رَضْحِيّ	traumatic dislocation
+خَلْعُ سميث	Smith's dislocation
+خَلْعٌ شَلَلِيّ	paralytic dislocation
+خَلْعٌ صَريح	frank dislocation
+خَلْعٌ غَيرُ مَرْدود	unreduced dislocation
+خَلْعٌ قَديم	old dislocation
+خَلْعٌ كامِل	complete dislocation
+خَلْعٌ كَسْرِيّ	fracture dislocation
+خَلْعُ كِينبوك	Kienbock's dislocation
+خَلْعُ لِيسفرانك	Lisfranc's dislocation
+خَلْعٌ مُتَباعِد	divergent dislocation
+خَلْعٌ مُتَعاقِب	consecutive dislocation
+خلع مرضي	dislocation, pathological
+خَلْعٌ مَرَضِيّ	pathologic dislocation
+خَلْعٌ مُرَكَّب	compound dislocation (open dislocation)
+خلع مركب	dislocation, compound
+خَلْعٌ مَرْكَزِيّ	central dislocation
+خَلْعٌ مُزْدَوِج	double dislocation
+خَلْعٌ مِشْطِيٌّ سُلاَمِيّ	metatarsophalangeal dislocation
+خَلْعٌ مَصْحُوْبٌ بمُضَاعَفَات	complicated dislocation
+خلع مضاعف	dislocation, complicated
+خلع مع كسر - خلع كسري	dislocation, fracture
+خَلْعٌ مُعْتاد	habitual dislocation
+خَلْعٌ مُغْلَق	closed dislocation (simple dislocation)
+خَلْعٌ مَفْتوح	open dislocation
+خلع ممتد	extended dislocation
+خَلْعُ مونتيجيا	Monteggia's dislocation
+خَلْعٌ ناقِص	luxatio imperfecta (sprain)
+خَلْعُ نيلاتون	Nelaton's dislocation
+خلل إبصار الألوان - عمى الألوان	chromatopseudosis
+خَلَلُ الحَرَكَةِ المِهْنِيّ	occupational dyskinesia (occupation neurosis)
+خَلَلُ الذَّاكِرَة	dysmentia (pseudodementia)
+خَلَل النظام	disorder
+خلل عقليّ	insanity; madness
+خَلَلٌ وَظيفيّ	functional disorder
+خَليفَةُ الذَّانِبَة	metacercaria [pl.metacercariae]
+خَلِيَّةٌ الْتِهابِيَّة	inflammatory cell
+خَلِيَّةُ الجُذام	lepra cell
+خَلِيَّةُ الوَرَمِ الأَصْفَر	xanthoma cell (foam cell)
+خَلِيَّةُ الوَرَمِ المَنَوِي	seminoma cell
+خَلِيَّةُ الوَرَمِ النِّقَوِي	myeloma cell
+خَلِيَّةُ آنِيتْشكوف	Anichkov's cell (Anitschkow's cell)
+خَلِيَّةُ تورك	Turk's cell
+خَلِيَّةٌ راغِيَّة	ragocyte (rheumatoid arthritis cell)
+خَلِيَّةُ ريدَر	Rieder's cell
+خَلِيَّةٌ سَرَطانِيَّة	cancer cell
+خَلِيَّةُ موط	Mott cell
+خَمَجٌ	infection
+خَمَج	sepsis
+خَمَج الدم	septicemia
+خمج الدم	septicemia; septicaemia
+خُمود الحُمَّى	apyrexia
+خَنازير	scrofula
+خُناق	diphtheria
+خُناقُ الجُروْحِ	wound diphtheria
+خُناقُ الطُّيور	avian diphtheria (epithelioma contagiosum)
+خُناقُ الطُّيور	fowlpox
+خُناقُ العُجول	calf diphtheria
+خُناقٌ أَنْفِيّ	nasal diphtheria
+خُناقٌ بُلْعومِيّ	pharyngeal diphtheria
+خُناقٌ تالٍ للقِرْمِزِيَّة	postscarlatinal diphtheria
+خُناقٌ جِرَاحِيّ	surgical diphtheria
+خُناقٌ جِلْدِيّ	cutaneous diphtheria
+خُناقٌ حَلْقِيّ	faucial diphtheria
+خُناقٌ حَنْجَرِيّ	laryngeal diphtheria
+خُناقٌ حَنْجَرِيٌّ رُغامِيّ	laryngeotracheal diphtheria
+خُناقٌ خَبيث	malignant diphtheria
+خُناقٌ سُرِّيّ	umbilical diphtheria
+خُناقٌ شَفَوِيّ	labial diphtheria
+خُناقٌ غَنْغَريْنِيّ	gangrenous diphtheria
+خُناقٌ فَرْجِيّ	vulval diphtheria
+خُناقٌ فَمَوِيّ	buccal diphtheria
+خُناق فَنْسان الغِشائيّ المتقرِّح	Vincent's angina
+خُناقٌ قِرْمِزِيّ	scarlatinal diphtheria
+خُناقٌ قُلْفِيّ	preputial diphtheria
+خُناقٌ كاذِب	false diphtheria
+خُناقٌ مَهْبِلِيّ	vaginal diphtheria
+خُناقٌ نَتِن	septic diphtheria
+خُناقٌ وَخيم	diphtheria gravis
+خَنْق	strangulation
+خَوارِجُ حَبْلِيَّةٌ مُفَقَّعَة	ecchondrosis physaliphora
+خيط غزل متناثر	flame yarn
+خُيوطُ دَورِ الالْتِواء	strepsinema

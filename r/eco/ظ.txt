@@ -1,0 +1,3 @@
+ظاهِرَة تَعاوُنِيَّة	cooperative phenomenon
+ظاهِرَةُ راست	Rust's phenomenon
+ظرف مالي	financial condition

@@ -1,0 +1,960 @@
+تابِسٌ أرغوتِيّ	tabes ergotica
+تابِسٌ تَشَنَّجِيّ	tabes spasmodica (spastic diplegia)
+تابِسٌ سُكَّرِيّ	diabetic tabes
+تابِسٌ طِفْلِيّ	tabes infantum
+تابِسٌ كاذِبٌ سُكَّرِيّ	diabetic pseudotabes
+تَأْتَأَةُ التَّسَمُّمِ الزِّئْبَقِيّ	psellismus mercurialis
+تَأَتُّرُ العَضَل	myotonia
+تأثير ارتجاجي	pogo effect
+تأثير الجيرومغناطيسية	gyromagnetic effect
+تاريخُ الحالَة	case history
+تَأَق	anaphylaxis
+تالٍ لِلالْتِهابِ الرِّئَوِيّ	postpneumonic
+تالٍ للتِّيفِيَّة	post-typhoid
+تـالٍ للحُمَّى	metapyretic (post febrile)
+تالٍ للحُمَّى	postfebrile
+تالٍ للخُثار	post-thrombotic
+تالٍ للزُّهْرِيّ	metaluetic
+تالٍ للزُّهْرِيِّ	metasyphilitic
+تالٍ للسُّعال	post-tussis (after cough)
+تالٍ للشَّلَل	postparalytic
+تالٍ للصَّرْع	postepileptic
+تالٍ للعَدْوَى	metainfective
+تالٍ للعَدِوَى	postinfective
+تالٍ للهِربس	postherpetic
+تالٍ للوَقْس	postvaccinial
+تالٍ لليَرَقَـان	metaicteric
+تالٍ لليَرَقان	posticteric
+تاموكسيفين	tamoxifen
+تأمين عن المرض	sickness insurance; health insurance
+تبادل الكروماتيدات الشقيقة	sister chromatids exchange
+تَبَدُلُ آَرْمانِي ايبِشْتاين	Armanni-Ebstein change
+تَبْرِيْحٌ وَجْهِيّ	tortua facies (trigeminal neuralgia)
+تبقع بثري	blister spot
+تَبْليغٌ عَنِ المَرَض	notification of disease
+تَبْييض	blanching
+تَبييض	whitening
+تتانوسبازمين	tetanospasmin
+تتريدامين	tetrydamine
+تَثبيتَةُ رَبْط أو إِمساك	holding fixture
+تَثَفُّنُ الجِلْدِ البَسِيْط و الحَلَقِيّ	heloderma simplex et annularis (granuloma annulare)
+تَثْلِيْجٌ	frostbite
+تَثْلِيْج	pagoplexia (frostbite)
+تَثْلِيْج	perfrigeration (frostbite)
+تَثْلِيْجٌ سَطْحِيّ	superficial frostbite
+تَثْلِيْجٌ عَميق	deep frostbite
+تجبير الكسور	fixation of fractures
+تَجَدُّدُ مُنْخَفِض جوي	regeneration of a depression
+تَجْدير	variolation
+تَجْدير	variolization
+تجذيف طويل	gig stroke
+تَجْفاف	anhydration (dehydration)
+تَجْفاف	deaquation (dehydration)
+تَجْفاف	dehydration
+تَجْفاف	hypohydration (dehydration)
+تَجْفافٌ اخْتِيارِيّ	voluntary dehydration
+تَجْفافٌ مُطْلَق	absolute dehydration
+تَجْفافٌ مَعَ فَرْطِ صوديوم الدَّم	hypernatremic dehydration
+تَجْفافٌ نِسْبِيّ	relative dehydration
+تجفيف	dehydration; dewatering; drying
+تَجفيف	desiccation
+تَجْفيف	drying
+تَحَبُّباتُ برايت	Bright's granulations
+تَحَجُّر	concretion
+تَحجّر الكبّاس	piston seizure
+تحريز	Seizure
+تحساس مباشر	atopic allergy
+تَحْضِيْن	churning
+تَحَلْحُلُ الحُمَّى	pyretolysis
+تَحَلُّلُ السَّرَطان	carcinolysis
+تَحَلُّلُ السُّكَّر	glycolysis
+تَحَلُّلُ المَيَالينِ الحادُّ المُحِيْطُ	acute perivascular myelinoclasis (postinfection encephalitis)
+تَحَلُّلُ المَيَالينِ المُحِيْطُ	postinfection perivenous myelinoclasis (postinfection encephalomyelopathy)
+تحلل سكري	glycolysis
+تحليل الحساسية	Sensitivity Analysis
+تحليل الحساسية	sensitivity analysis
+تحول من لا ترتيب الى ترتيب	order-disorder transformation
+تَخَالُفِيّ اللّف	wound, differentially
+تخزين المُنخفضات	depression storage
+تَخْصير	necking
+تَخْطِيْطُ الرُّعاش	tremography
+تَخفيض	depression
+تخفيض الحساسية	desensitization
+تَخفيضُ المُعَادلة	depression of equation
+تَخَلْخُلُ	osteoporosis
+تَخَلْخُلُ العَظامِ القِحْفِيَّةِ	osteoporosis circumscripta cranii
+تَخَلْخُلُ العَظْم	osteanabrosis (osteoporosis)
+تَخَلْخُلُ العَظْم	ostemia (osteoporosis)
+تَخَلْخُلُ العَظْم	osteoanabrosis (osteoporosis)
+تَخَلْخُلُ العَظْم	osteoporosis
+تَخَلْخُلُ العَظْمِ التَّالِي للإيَاس	postmenopausal osteoporosis
+تَخَلْخُلُ العَظْمِ التَّالِي للرَّضْح	post-traumatic osteoporosis
+تَخَلْخُلُ العَظْمِ الشَّحْمِيّ	adipose osteoporosis
+تَخَلْخُلُ العَظْمِ الشَّيخوخِيّ	senile osteoporosis
+تَخَلْخُلُ العَظْمِ بعَدَمِ الاسْتِعْمال	osteoporosis of disuse
+تُخْمَةٌ طِفْلِيَّة	empacho
+تَخْميدُ الصَّدْم	buffering
+تدرق	goitre
+تدفق في فترة الجفاف	dry weather flow
+تدلي الأحشاء = مرض "جلينا"	Glénard's disease = visceroptosis = splanchnoptosi
+تدهُّن الكبد	fatty liver syndrome
+تدهور التربية الداخلية	inbreeding depression
+تذبذب طفيلي	parasitic oscillation
+تَذَيفُنُ الدَّمِ المِعَوِيُّ المَنْشَأ	enterotoxemia
+ترابط طفيلي	cross coupling
+تَراجُعُ المَرَض	catabasis
+تراجع سكاني ناتج عن زواج الأقارب	inbreeding depression
+تراخوما	trachoma [pl.trachomata]
+تراخوما آرلت	Arltrachoma's trachoma
+تراخوما الحِبالِ الصَّوتِيَّة	trachoma of vocal bands
+تراخوما تورك	Turck's trachoma (chronic catarrhal laryngitis)
+تراخوما حُلَيمِيَّة	papillary trachoma
+تراخوما حُلَيمِيَّة	trachoma papillare
+تراخوما قاسِيَة	brawny trachoma
+تراخوما مُخْتَلِطَة	trachoma mixtum
+تراخوما مُشَوِّهَة	trachoma deformans
+تراخوما مُنْتَشِرَة	diffuse trachoma
+تراخومات	trachomata [sing.trachoma]
+تراخوميّ	trachomatous
+تراكُبُ أشواطِ القُدرة	overlapping of power strokes
+ترالونيد	tralonide
+تردد استجابة عرضي	spurious frequency
+تركيب زهري	floristic composition
+تُروس الالتِفاف	slewing gear
+تروكسيدون	troxidone
+ترونكادو	tronchado
+تريبينوسيد	tribenoside
+تريستولون	trestolone
+تريسيكلامول	tricyclamol chloride
+تريفلوميدات	triflumidate
+تريكلونيد	triclonide
+تريميثاديون	trimethadione
+تريمييثوبنزاميد	trimethobenzamide
+تزايد الحساسية	idiosyncrasy
+تَزَرُّقٌ الْتِهابِيّ	inflammatory livedo
+تستولاكتون	testolactone
+تَسَرُّعُ القَلْبِ الدُّرَاقِيُّ	tachycardia strumosa exophthalmica (Graves' disease)
+تَسَفْنُج	spongiosis
+تسمم	intoxication
+تسمم	poisoning
+تَسَمُّم	poisoning of catalyst
+تَسَمُّمُ	toxemia
+تَسَمُّم	toxication
+تَسَمُّم	toxicosis
+تَسَمُّم	toxonosis
+تَسَمُّم	toxosis (toxicosis)
+تَسَمُّم	venenation
+تَسَمُّمٌ احْتِباسِيّ	retention toxicosis
+تَسَمُّمٌ أَفْلاتُوكْسينِيّ	aflatoxicosis
+تَسَمُّمُ الأَسْنَانِ بالفلُور	dental fluorosis (mottled enamel)
+تَسَمُّمُ الجُرْحِ السُّجُقِّيّ	wound botulism
+تَسَمُّمُ الجِهازِ المُوَلِّدِ للدَّم	hematotoxicosis
+تسَمُّم الدم	blood poisoning
+تَسَمُّمُ الدَّم	blood poisoning (septicemia)
+تسمم الدم	septicaemia
+تَسَمُّمُ الدَّم	toxemia
+تَسَمُّمُ الدَّم	toxicemia
+تَسَمُّمُ الدَّم	toxicohemia
+تَسَمُّمُ الدَّمِ الارْتِعاجِيّ	eclamptic toxemia (eclamptogenic toxemia)
+تَسَمُّمُ الدَّمِ الحَمْلِيّ	toxemia of pregnancy
+تَسَمُّمُ الدَّمِ الحَمْلِيُّ في الأغنام	pregnancy toxemia in ewes
+تَسَمُّمُ الدَّمِ السَّابِقُ للارْتِعاج	preeclamptic toxemia
+تَسَمُّمُ الدَّمِ العُدارِيّ	hydatid toxemia
+تَسَمُّمُ الدَّمِ الغِذائِيّ	alimentary toxemia
+تسمُّم الدَّم القولونيّ	colisepticaemia
+تَسَمُّمُ الدَّمِ الكَبِدِيُّ المَنْشَأ	hepatotoxemia
+تَسَمُّمُ الدَّمِ النَّزْفِيُّ	schweineseuche
+تَسَمُّمُ الدَّمِ الهَضْمِيُّ المَنْشَأ	scatemia (alimentary toxemia)
+تَسَمُّمُ الدَّمِ بِالإِشْعاع	radiotoxemia
+تَسَمُّمُ الدَّمِ بِالعُصَيَّاتِ	colitoxemia
+تَسَمُّمُ الكاثود	poisoning of cathode
+تَسَمُّمُ الكَبِد	hepatotoxicity
+تسمم المادة المحفزه للتفاعل الكِيمْيَائِيّ	catalyst poisoning
+تَسَمُّمُ المِرْآب	garage poisoning (carbon monoxide poisoning)
+تسمّم المفاعل	poisoning of reactor
+تسمم الهواء	air poisoning
+تَسَمُّمٌ أميلِيّ	amylism
+تَسَمُّمٌ بَاثولوجيٌّ	pathological intoxication (alcohol idiosyncratic intoxication)
+تَسَمُّمٌ بَارْبيتورِيّ	barbituism
+تَسَمُّمٌ بالأَبْرِين	abrism
+تَسَمُّمٌ بالأرسنيك	arsenicalism
+تَسَمُّمٌ بالأرسنيك	arsenism
+تَسَمُّمٌ بالأرسينيك	arseniasis (arsenicalism)
+تَسَمُّمٌ بالأَسْماكِ المَدارِيَّة	ciguatera
+تَسَمُّمٌ بالأَشِعَّةِ السِّينِيَّة	roentgen intoxication (radiation sickness)
+تسمم بالأفلاتوكسين	aflatoxicosis
+تَسَمُّمٌ بالبروم	brominism
+تَسَمُّمٌ بالبروم	bromism
+تَسَمُّمٌ بالبروم و اليود	bromoiodism
+تَسَمُّمٌ بِالبِزموت	bismuthism
+تَسَمُّمٌ بالبِزموت	bismuthosis
+تَسَمُّمٌ بالبَطارِخ	ichthyootoxism
+تَسَمُّمٌ بالبُور	borism
+تَسَمُّمٌ بالبُونغريك	bongkrek intoxication
+تَسَمُّمٌ بالبيكروتوكسين	picrotoxinism
+تَسَمُّمٌ بالتومائين	ptomainotoxism
+تَسَمُّمٌ بالتِّيروتوكسيكون	tyrotoxicosis
+تَسَمُّمٌ بالثاليوم	thallotoxicosis
+تَسمُّمٌ بالجُبْن	tyrotoxism
+تَسَمُّمٌ بالدِّيجيتال	digitalis intoxication
+تَسَمُّمٌ بالذِّيْفانِ الدَّمَوِيِّ	ichthyohemotoxism
+تَسَمُّمٌ بالرَّصاص	lead intoxication
+تَسمُّم بالرصاص	plumbism
+تسمُّم بالزئبق	mercurialism
+تَسَمُّمٌ بالسَّبانِخ	atriplicism
+تَسَمُّمٌ بالسَّرْخَس	filicism
+تَسَمُّمٌ بالسُّمِّ السَّمَكِيّ	ichthyotoxism
+تَسَمُّمٌ بالسُّمانَى	coturnism
+تسَمُّم بالغاز	gas poisoning
+تَسَمُّمٌ بالفُسْفُور	phosphorism
+تَسَمُّمٌ بالفِلِزِّ	metal poisoning
+تسمُّم بالفلور	fluorosis
+تَسَمُّمٌ بالكافيين	caffeinism
+تَسَمُّمٌ بالكِنْباث	equisetosis
+تَسَمُّمٌ بالكوكائين	cocainism
+تَسَمُّمٌ باللَّحْمِ	creatotoxism (meat poisoning)
+تسمم بالماء	intoxication, water
+تَسَمُّمٌ بالمَاء	water intoxication
+تَسَمُّمٌ بالمُذيباتِ العُضْوِيَّة	jag
+تَسَمُّمٌ بالمُذيباتِ العُضْوِيَّة	naphtha jag
+تَسَمُّمٌ بالمِغْزَلاوِيَّات	fusariotoxicosis
+تَسَمُّمٌ بالمُنْغَبِرات	endoconidiotoxicosis
+تسَمُّم بأملاح الفضَّة	argyria
+تَسَمُّمٌ برُباعِيَّةِ الأَسْنان	tetraodontoxism
+تَسَمُّم بَرْبيتُورِي	barbituarism
+تَسَمُّمٌ بروتينيُّ المَنْشَأ	proteinogenous toxicosis
+تَسَمُّم بُروميّ	bromism
+تَسَمُّمٌ بزُعافِ الأَسْماك	ichthyoacanthotoxism
+تسمم بشري	human poisoning
+تَسَمُّمٌ بفُطْرِ النَّوْبَاءِ	alternariatoxicosis
+تَسَمُّمٌ بلَسْعِ العَناكِب	arachnidism
+تَسَمُّمٌ بنَباتِ النَّطَشِ	crotalism
+تَسَمُّمٌ بِنزوليّ	benzolism
+تَسَمُّمٌ بَيولوجِيُّ المَنْشَأ	biotoxication
+تَسَمُّمٌ تَأَقِيّ	anaphylactic intoxication
+تَسَمُّمٌ تَبْغِيّ	tobaccoism
+تَسَمُّمٌ تومائيني	ptomaine poisoning
+تَسَمُّمٌ حَمْضِيّ	acid intoxication
+تَسَمُّمٌ حَمْلِيّ	gestational toxicosis
+تَسَمُّمٌ حَمْلِيّ	gestosis
+تسمم خارجي	ectotoxemia
+تَسَمُّمٌ خارجيُّ المنشأ	exogenic toxicosis
+تَسَمُّمٌ داخِلِيُّ المَنْشَأ	endogenic toxicosis
+تَسَمُّمٌ دَرَقِيّ	thyrointoxication (thyrotoxicosis)
+تَسَمُّمٌ دَرَقِيّ	thyrotoxemia
+تَسَمُّمٌ دَرَقِيّ	thyrotoxia
+تَسَمُّمٌ دَرَقِيّ	thyrotoxicosis
+تَسَمُّمٌ دَرَقِيٌّ قَلْبِيّ	cardiothyrotoxicosis
+تَسَمُّمٌ دُرَيقِيّ	parathyrotoxicosis
+تسمم دماغي حاد	acute toxic encephalopathy
+تَسَمُّمٌ ذاتِيّ	autotoxemia (autotoxicosis)
+تَسَمُّمٌ ذاتِيّ	autotoxicosis
+تَسَمُّمٌ ذاتِيّ	autotoxis (autotoxicosis)
+تَسَمُّمٌ ذاتِيّ	autoxemia (autotoxicosis)
+تسمُّم رصاصيّ	saturnism
+تَسَمُّمٌ رَصاصِيّ	saturnism (lead poisoning)
+تَسمُّم رَصاصيٌّ مُزمِن	saturnism
+تَسَمُّمٌ سُجُقِّيّ	botulism
+تَسَمُّمٌ سُجُقِّيٌّ طِفْلِيّ	infant botulism
+تَسَمُّمٌ سَمَكِيُّ المَنْشَأ	ichthyism (ichthyotoxism)
+تَسَمُّمٌ سَمَكِيُّ المَنْشَأ	ichthyismus
+تَسَمُّمٌ ضَوئِيُّ الإحْداث	phototoxicity
+تَسَمُّمٌ عَصَبِيّ	neurotoxia
+تَسَمُّمٌ عَظْمِيٌّ بالجُلَبَّان	odoratism (osteolathyrism)
+تَسَمُّمٌ غِذائِيّ	alimentary toxicosis
+تَسَمُّمٌ غِذائِيّ	bromatoxism (food poisoning)
+تسمم غذائي	food poisoning
+تَسَمُّمٌ غِذَائِيّ	sitotoxism
+تَسَمُّمٌ غَيْرَوِيّ	heterotoxis (interintoxication)
+تَسَمُّمٌ فُطْرِيّ	mycetism
+تَسَمُّمٌ فُطْرِيّ	mycetismus
+تَسَمُّمٌ فُطري	mycotoxicosis
+تسمّم فُطريّ	mycotoxicosis; moldy toxicosis
+تَسَمُّمٌ فُطْرِيٌّ دِماغِيّ	mycetismus cerebris
+تَسَمُّمٌ فُطْرِيٌّ دَمَوِيّ	mycetismus sanguinarius
+تَسَمُّمٌ فُطْرِيٌّ عَصَبِيّ	mycetismus nervosus
+تَسَمُّمٌ فُطْرِيٌّ كوليريُّ الشَّكْل	mycetismus choleriformis
+تَسَمُّمٌ فُطْرِيٌّ هَضْمِيّ	mycetismus gastrointestinalis
+تَسَمُّمٌ فلوريديٌّ عَظْمِيٌّ	osteofluorosis
+تسمم في الدم	toxaemia
+تَسَمُّمٌ فينولِيّ	carbolism (phenol poisoning)
+تَسَمُّمٌ قَلْوِيّ	alkaline intoxication
+تسمم كَبِدي ذاتي	hepatargia = hepatargy
+تسمم كَبِدي ذاتي	hepatargy = hepatargia
+تَسَمُّم كحولي	alcoholism
+تسمم كحولي	intoxication alcoholic
+تَسَمُّمٌ كُحولِيٌّ تَحْساسِيٌّ ذاتِيّ	alcohol idiosyncratic intoxication
+تَسمُّم كحولي حاد	acute alcoholism
+تسمم مزمن	chronic toxicity
+تَسَمُّمٌ مَصْلِيّ	serum intoxication (serum sickness)
+تسمُّم مِعَويّ	enterotoxemia; braxy (enterotoxemia...)
+تَسَمُّمٌ مِعَوِيّ	intestinal intoxication (autointoxication)
+تَسَمُّمٌ مَنْقولٌ بالغِذاء	food-borne intoxication
+تَسَمُّمٌ نَزْفِيٌّ شُعَيرِيّ	hemorrhagic capillary toxicosis
+تَسَمُّمٌ نِقَيِيٌّ شامِل	panmyelotoxicosis
+تَسَمُّمٌ نيلينِيّ	anilinism
+تَسَمُّمٌ نيلينِيّ	anilism (anilinism)
+تَسَمُّمٌ هيدروسيانيكيّ	hydrocyanism
+تَسَمُّمٌ هيدروكربونيّ	hydrocarbarism (hydrocarbonism)
+تَسَمُّمٌ هيدرُوكَربُونِيّ	hydrocarbonism
+تسميم	Poisoning
+تسميم	poisoning
+تسميم البيانات	Data Poisoning
+تسميم المياه	poisoning water
+تسميم النموذج	Model Poisoning
+تَسَوُّطٌ خارِجِيّ	exflagellation
+تسيميد	tesimide
+تَشَحْمُنٌ سيريبروزيدِيّ	cerebroside lipoidosis (Gaucher's disease)
+تَشْحْمُنٌ شِرْيانِيّ	arterial lipoidosis (atherosclerosis)
+تشخيص	diagnosis
+تَشْخيصٌ اسْتِثارِيّ	provocative diagnosis
+تشخيص إشعاعي	diagnosis, roentgen
+تشخيص الأعطال	diagnosis [UK] / diagnostics [US]
+تَشْخيصُ الأَمْراضِ الصَّمَّاوِيَّة	increto diagnosis
+تَشْخيصُ التَّخْرِيْج	discharge diagnosis
+تشخيص الحمل	pregnancy diagnosis
+تَشْخِيصُ الدُّخُوْل	admitting diagnosis
+تشخيص العطل	fault diagnosis
+تشخيص باثولوجي	diagnosis, pathologic
+تَشْخيصٌ بَاثُولُوجِيّ	pathologic diagnosis
+تَشْخيصٌ بالاسْتِبْعاد	diagnosis by exclusion
+تَشْخيصٌ بالمُداواة	diagnosis ex juvantibus
+تشخيص بمساندة الحاسوب	computer-assisted diagnosis
+تَشْخيصٌ بَيُولُوجيّ	biological diagnosis
+تشخيص تفريقي	diagnosis, differential
+تَشْخيصٌ تَفْريقِيّ	differential diagnosis
+تَشْخيصٌ تَمْريضِيّ	nursing diagnosis
+تَشخيص تَمييزي	differential diagnosis
+تَشْخيصٌ ثانَوِيّ	secondary diagnosis
+تَشْخيصٌ جازِم	conclusive diagnosis
+تشخيص جسماني	diagnosis, physical
+تشخيص حفزي	diagnosis, provocative
+تَشْخيصٌ خَلَوِيٌّ نَسيجِيّ	cytohistologic diagnosis
+تشخيص ذاتي	self-diagnosis
+تَشْخيصٌ رَئيسِيّ	principal diagnosis
+تَشْخيصٌ سَريرِيّ	clinical diagnosis
+تشخيص سريري	diagnosis, clinical
+تَشْخيصٌ سيتولوجيّ	cytologic diagnosis
+تَشْخيصٌ سيرولوجيّ	serum diagnosis
+تَشْخيصٌ شُعاعِيّ	roentgen diagnosis
+تَشْخيصٌ ظَنِّيّ	presumptive diagnosis
+تَشْخيصٌ غَيْرُ نِهائيّ	tentative diagnosis
+تَشْخيصٌ فِيزْيائِيّ	physical diagnosis
+تَشْخيصٌ قَابِلٌ للتَّرْمِيز	codable diagnosis
+تَشْخيصٌ كَبير	major diagnosis
+تَشْخيصٌ مُباشِر	direct diagnosis
+تشخيص مبكر	early diagnosis
+تشخيص مختبري	diagnosis, laboratory
+تَشْخيصٌ مُخْتَبَرِيّ	laboratory diagnosis
+تشخيص مُدمج	integrated diagnosis
+تَشْخيصُ مُسْتَوَى المَرَض	niveau diagnosis
+تَشْخيصٌ مُشْتَبَه	suspected diagnosis
+تشدخ القاعدة	base fracture
+تَشْريحِيٌّ مَرَضِيّ	pathoanatomical
+تَشْريطُ السَّاد	discission of cataract
+تشقق غير منتظم	irregular fracture
+تشققات شدية	tension fractures
+تَشْكيلُ القَوسِ القُوطِيَّة	Gothic arch formation (Henning's sign)
+تَشْكيلٌ سِياجِيّ	palisade formation
+تَشَمُّع	cirrhosis
+تَشَمَّعٌ احْتِقانِيُّ المَنْشَأ	congestive cirrhosis
+تَشَمُّعٌ اسْتِقْلاَبِيّ	metabolic cirrhosis
+تَشَمُّعُ أَقْنِيَةِ الصَّفْراء	acholangic biliary cirrhosis
+تَشَمُّعُ الأَطْفِالِ الهُنود	Indian childhood cirrhosis
+تَشَمُّعُ الثَّدْي	cirrhosis mammae
+تَشَمُّعُ الرِّئَة	cirrhosis of lung (diffuse interstitial pulmonary fibrosis)
+تَشَمُّعُ الرِّئَة	pneumonocirrhosis (pulmonary fibrosis)
+تَشَمُّعُ الطِّحال	splenoceratosis
+تَشَمُّع الكَبد	cirrhosis
+تَشَمُّعُ الكَبِد	cirrhosis of liver
+تَشَمُّعُ الكَبِد	hepatic cirrhosis
+تَشَمُّعُ الكَبِد	hepatocirrhosis
+تَشَمُّعُ الكُليَة	cirrhosis of kidney (chronic interstitial nephritis)
+تَشَمُّعُ الكُلْيَة	nephrocirrhosis
+تَشَمُّعُ المَعِدَة	cirrhosis of stomach
+تَشَمُّعٌ انْسِدادِيُّ المَنْشَأ	obstructive cirrhosis
+تَشَمُّعٌ بَابِيّ	portal cirrhosis
+تَشَمُّعٌ تالٍ لالْتِهابِ الكَبِد	posthepatitic cirrhosis
+تَشَمُّعٌ تالٍ للنَّخَر	postnecrotic cirrhosis
+تَشَمُّعٌ تَغْذَوِيُّ المَنْشَأ	nutritional cirrhosis
+تشمع تود	Todd's cirrhosis (primary biliary cirrhosis)
+تَشَمُّعٌ جُرْثومِيّ	bacterial cirrhosis
+تَشَمُّعٌ حَصَوِيُّ المَنْشَأ	calculus cirrhosis
+تَشَمُّعٌ دُهْنِيّ	fatty cirrhosis
+تَشَمُّعٌ رِئَوِيّ	pulmonary cirrhosis
+تَشَمُّع رُكودِيّ	stasis cirrhosis
+تَشَمُّعٌ زُهْرِيّ	syphilitic cirrhosis
+تَشَمُّعٌ سُمِّيّ	toxic cirrhosis
+تَشَمُّعُ شارْكُو	Charcot's cirrhosis (primary biliary cirrhosis)
+تَشَمُّعٌ صِباغِيّ	pigment cirrhosis
+تَشَمُّعٌ صِباغِيّ	pigmentary cirrhosis
+تَشَمَّعٌ صَغيرُ العُقَيدات	micronodular cirrhosis
+تَشَمُّعٌ صَفْراوِيّ	biliary cirrhosis
+تَشَمُّعٌ صَفْراوِيٌّ أَوَّلِيّ	primary biliary cirrhosis
+تَشَمُّعٌ صَفْراوِيُّ ثانَوِيّ	secondary biliary cirrhosis
+تَشَمُّعٌ ضَخامِيّ	hypertrophic cirrhosis
+تَشَمُّعٌ ضُمورِيّ	atrophic cirrhosis
+تَشَمُّعٌ قَلْبِيُّ المَنْشَأ	cardiac cirrhosis
+تَشَمُّعٌ كاذِب	pseudocirrhosis
+تَشَمُّعٌ كاذِبٌ تَأْمورِيُّ المَنْشَأ	pericarditic pseudocirrhosis
+تَشَمُّعٌ كَبِدِيٌّ خِلْقِيّ	congenital hepatic cirrhosis
+تَشَمُّعٌ كَبِدِيٌّ قَلْبِيُّ المَنْشَأ	cardiocirrhosis
+تَشَمُّعٌ كَبيرُ العُقَيدات	macronodular cirrhosis
+تَشَمَّعٌ كُحولِيّ	alcoholic cirrhosis
+تَشَمُّعُ كرُوفِيلْييه بَاومْغارْتِن	Cruveilhier-Baumgarten cirrhosis
+تَشَمُّعٌ كُلْوِيّ	renal cirrhosis
+تَشَمُّعُ لاينيك	Laennec's cirrhosis
+تَشَمُّعٌ ماسورِيُّ الشَّكْل	pipe stem cirrhosis
+تَشَمَّعٌ مُتَعَدِّدُ الفُصَيصات	multilobular cirrhosis (postnecrotic cirrhosis)
+تَشَمُّعٌ مَجْهُوْلُ السَّبَب	cryptogenic cirrhosis
+تَشَمُّعٌ مُحِيْطٌ بالباب	periportal cirrhosis
+تَشَمُّعٌ مَلاَرِيُّ المَنْشَأ	malarial cirrhosis
+تَشَمُّعُ هانُو	Hanot's cirrhosis (biliary cirrhosis)
+تَشَمُّعٌ وَحيدُ الفَصّ	unilobular cirrhosis (primary biliary cirrhosis)
+تَشَمُّعٌ وِعائِيُّ المَنْشَأ	vascular cirrhosis
+تَشَنُّج	spasm
+تَشَنُّج	spasmus
+تَشَنُّجٌ أُحادِيّ	monospasm
+تَشَنُّجٌ اسْتِقَامِيّ	orthotonos
+تَشَنُّجٌ اسْتِقَامِيّ	orthotonus
+تَشَنُّجٌ اعْتِلاَلِيٌّ عَضَلِيّ	myopathic spasm
+تَشَنُّجُ الإِبْهام الانْعِطافيّ	anticheirotonus
+تَشَنُّجُ الإِحْليل	urethrospasm
+تَشَنُّج الأُذَيْن	auricular fibrillation
+تَشَنُّجُ الأَصابِع	dactylospasm
+تَشَنُّجُ البَرْزَخ	isthmospasm
+تَشَنُّجُ البُلْعوم	pharyngism (pharyngospasm)
+تَشَنُّجُ البُلْعوم	pharyngismus (pharyngospasm)
+تَشَنُّجُ البُلْعوم	pharyngospasm
+تَشَنُّجُ البَوَّاب	pylorospasm
+تَشَنُّجُ البَوَّابِ الانْعِكاسِيّ	reflex pylorospasm
+تَشَنُّجُ البَوَّابِ الخِلْقِيّ	congenital pylorospasm
+تَشَنُّجُ التَّأْتَأَة	stutter spasm
+تَشَنُّجُ التَّعَب	fatigue spasm (occupational spasm)
+تَشَنُّجُ التَّكَيُّف	cyclospasm
+تَشَنُّجُ التَّكَيُّف	spasm of accommodation
+تَشَنُّجٌ الْتِوائِيّ	torsion spasm
+تَشَنُّجٌ الْتِوائِيٌّ مُتَرَقٍّ	progressive torsion spasm (dystonia musculorum deformans)
+تَشَنُّجُ الجَانِبَيْن	paraspasm
+تَشَنُّجُ الجَانِبَيْن	paraspasmus
+تَشَنُّجُ الجَفْن	blepharism (blepharospasm)
+تَشَنُّجُ الجَفْن	blepharospasm
+تَشَنُّجُ الجَفْنِ المَجْهُولُ السَّبَب	essential blepharospasm
+تَشَنُّجُ الجَفْنِ المَصْحُوْبُ	symptomatic blepharospasm
+تَشَنُّجُ الحِجاب	phrenospasm
+تَشَنُّجُ الحَنْجَرَة	laryngismus
+تَشَنُّجُ الحَنْجَرَة	laryngospasm
+تَشَنُّجُ الحَنْجَرَةِ الشَّلَلِيّ	laryngismus paralyticus (roaring)
+تَشَنُّجُ الحَنْجَرَةِ الصَّريرِيّ	laryngismus stridulus
+تَشَنُّجُ الحَواجِب	ophryosis
+تَشَنُّجُ الرَّاحَة	palmospasm
+تَشَنُّجُ الرَّأْسِ التَّدْويرِيّ	gyrospasm
+تَشَنُّجُ الرَّحِم	hysterospasm
+تَشَنُّجُ الرَحِم	uterismus
+تَشَنُّجُ الشِّرْيان	arteriospasm
+تَشَنُّجُ العادَة	habit spasm (tic)
+تَشَنُّجُ الفُؤاد	cardiospasm
+تَشَنُّجُ الفُؤادِ المَدارِيّ	entalacao (tropical cardiospasm)
+تَشَنُّجُ الفَرْج	vulvismus
+تَشَنُّجُ الفَكّ	gnathospasmus (trismus)
+تَشَنُّجُ القَدَم	podismus
+تَشَنُّجُ القَدَم	podospasm
+تَشَنُّجُ القَدَم	podospasmus
+تَشَنُّجُ الكُتَّاب	graphospasm
+تَشَنُّجُ الكُتَّاب	writers' spasm
+تَشَنُّجُ الكَلاَم	logospasm
+تَشَنُّجُ اللِّسان	glossospasm
+تَشَنُّجُ المَثانَة	cystospasm
+تَشَنُّجُ المَريء	esophagism (esophagospasm)
+تَشَنُّجُ المَريء	esophagismus
+تَشَنُّجُ المَريء	esophagospasm
+تَشَنُّجُ المِزْمِار	glottidospasm
+تَشَنُّجُ المُسْتَقيم	proctospasm
+تَشَنُّجُ المَصَرَّة	sphincterismus
+تَشَنُّجُ المَضْغ	mastication spasm (trismus)
+تشنج المعدة	cardiospasm
+تَشَنُّجُ المَعِدَة	gastrospasm
+تَشَنُجُ المَهْبِل	colpismus (vaginismus)
+تَشَنُّجُ المَهْبِل	colpospasm
+تَشَنُّجُ المَهْبِل	vaginismus
+تَشَنُّجُ المَهْبِلِ النَّفْسِيُّ	mental vaginismus
+تَشَنُّجُ المَهْبِلِ و العَضَلاَتِ	perineal vaginismus
+تَشَنُّجُ المَهْبِلِ والفَرْج	vulvar vaginismus
+تَشَنُّجُ الوَجْه	prosopospasm
+تَشَنُّجُ اليَد	cheirospasm
+تَشَنُّجُ اليَد	chirospasm
+تشنج اليد	chirospasm = cheirospasm
+تَشَنُّجٌ إِنْغاضِيّ	nodding spasm
+تَشَنُّجٌ إِيْمَائِيّ	spasmus nutans
+تَشَنُّجٌ بالبَرْد	cryospasm
+تَشَنُّجٌ بَدْئِيّ	protospasm
+تَشَنُّجُ بيل	Bell's spasm
+تَشَنُّجٌ تالٍ للشَّلَل	postparalytic spasm
+تَشَنُّجٌ تَدْويرِيّ	rotatory spasm
+تَشَنُّجٌ تَصَعُّرِيّ	retrocollic spasm
+تَشَنُّجٌ تَصْويتِيّ	phonatory spasm
+تَشَنُّجٌ تَمْثيلِيّ	histrionic spasm (facial spasm)
+تَشَنُّجٌ تَناسُقِيّ	spasmus coordinatus (tic)
+تَشَنُّجٌ تَنَفُّسِيّ	respiratory spasm
+تَشَنُّجٌ تَوَتُّرِيّ	tonic spasm
+تَشَنُّجٌ ثابِت	fixed spasm
+تَشَنُّجُ جَانِبَيْ الوَجْه	paraspasmus faciale
+تَشَنُّجٌ جُثِّيّ	cadaveric spasm
+تَشَنُّجٌ جَسيم	massive spasm
+تَشَنُّجٌ حِجابِيٌّ فُؤادِيّ	phrenocardiospasm
+تشنج حراري	heat cramps
+تَشَنُّجٌ حِرْفِيّ	handicraft spasm (occupational spasm)
+تَشَنُّجٌ حَرَكِيّ	mobile spasm (athetosis)
+تَشَنُّجٌ حَرَكِيٌّ عَينِيّ	oculogyric spasm
+تَشَنُّجٌ خَدَرِيّ	anesthetospasm
+تَشَنُّجٌ راقِص	dancing spasm (saltatory spasm)
+تَشَنُّجٌ رُسُغِيٌّ قَدَمِيّ	carpopedal spasm
+تَشَنُّجٌ رعَّاش	spasmus agitans (Parkinson's disease)
+تَشَنُّجٌ رَفِّيّ	nictitating spasm (winking spasm)
+تَشَنُّجٌ رَفِّي	spasmus nictitans
+تَشَنُّجٌ رَمَعِيّ	clonic spasm
+تَشَنُّجٌ رَمَعِيّ	clonospasm
+تَشَنُّجٌ رَمَعِيٌّ مُتَعَدِّد	synclonic spasm
+تَشَنُّجُ رومبيرغ	Romberg's spasm
+تَشَنُّجٌ ساعِدِيٌّ مِعْصَمِيّ	xyrospasm
+تَشَنُّجٌ سَلاَمِيّ	salaam spasm
+تَشَنُّجٌ سُمِّيّ	toxic spasm
+تَشَنُّجٌ شِقِّيّ	hemispasm
+تَشَنُّجٌ شِقِّيٌّ لِسانِيٌّ شَفَوِيّ	glossolabial hemispasm
+تَشَنُّجٌ شِقِّيٌّ وَجْهِيّ	facial hemispasm
+تَشَنُّجٌ شِقِّيٌّ وَجْهِيٌّ مُتَنَاوِبٌ	alternating facial hemispasm
+تَشَنُّجٌ شَهيقِيّ	inspiratory spasm
+تَشَنُّجٌ طَرْقِيّ	malleatory spasm (malleation)
+تَشَنُّجٌ عاطِفِيّ	affect spasm
+تَشَنُّجٌ عِجَانِيّ	perineal spasm
+تَشَنُّجٌ عَصَبِيّ	neurospasm
+تَشَنُّجُ عَضَلاَتِ الرَّقَبَة	trachelism (trachelismus)
+تَشَنُّجُ عَضَلاَتِ الصَّدْر	stethospasm
+تَشَنُّجٌ عَضَلِيّ	muscle spasm
+تَشَنُّجٌ عَضَلِيّ	muscular spasm
+تَشَنُّجٌ عَضَلِيّ	myospasm
+تَشَنُّجٌ عَضَلِيّ	spasmus muscularis
+تَشَنُّجٌ عَضَلِيٌّ تَوَتُّرِيّ	myotonus
+تَشَنُّجٌ عَضَلِيٌّ تَوَتُّرِيّ	myotony
+تَشَنُّجٌ عَضَلِيٌّ تَوَتُّرِيّ	paramyotone
+تَشَنُّجٌ عَضَلِيٌّ تَوَتُّرِيّ	paramyotonus
+تَشَنُّجٌ غَمْزِيّ	winking spasm
+تَشَنُّجٌ قافِل	lock spasm
+تَشَنُّجٌ قَصَبِيّ	bronchial spasm
+تَشَنُّجٌ قَصَبِيّ	bronchiospasm
+تَشَنُّجٌ قَصَبِيّ	bronchismus
+تَشَنُّجٌ قَصَبِيّ	bronchospasm
+تَشَنُّجٌ قَصَبِيّ	spasmus bronchialis
+تَشَنُّجٌ قَصْدِيّ	intention spasm
+تَشَنُّجٌ قَفْزِيّ	mali-mali
+تَشَنُّجٌ قَفْزِيّ	saltatory spasm
+تَشَنُّجٌ كُزازِيّ	tetanic spasm
+تَشَنُّجٌ كَلْبِيّ	canine spasm (risus sardonicus)
+تَشَنُّجٌ كَلْبِيّ	cynic spasm (risus sardonicus)
+تَشَنُّجٌ كَنَعانِيّ	athetoid spasm
+تَشَنُّجٌ لِسانِيّ	lingual spasm
+تَشَنُّجٌ مُؤْلِم	algospasm
+تَشَنُّجُ مُجَاوِرَاتِ الرَّحِم	parametrismus
+تَشَنُّجٌ مُخْتَلِط	mixed spasm
+تَشَنُّجٌ مُخِّيّ	cerebral spasm
+تَشَنُّجٌ مَريئِيّ	esophageal spasm
+تَشَنُّجٌ مَريئِيٌّ مُنْتَشِر	diffuse esophageal spasm
+تَشَنُّجٌ مِزْمارِيّ	glottic spasm (laryngospasm)
+تَشَنُّجٌ مُضَيِّق	entasia
+تَشَنُّجٌ مُضَيِّق	entasis
+تَشَنُّجٌ مِعَوِيّ	enterospasm
+تَشَنُّجٌ مِعَوِيّ	spasmus intestinorum
+تَشَنُّجُ مَهْبِلِيٌّ خَلْفِيّ	posterior vaginismus
+تَشَنُّجٌ مِهْنِيّ	occupation spasm
+تَشَنُّجٌ مِهْنِيّ	professional spasm
+تَشَنُّجٌ مُوَضَّع	idiospasm
+تشنج نتيجة تحفيز كهربي	electrical tetanization
+تَشَنُّجٌ نُخاعِيُّ المَنْشَأ	myelospasm
+تَشَنُّجٌ نَفَضانِيّ	tonoclonic spasm
+تَشَنُّجٌ وَجْهيّ	facial spasm
+تَشَنُّجٌ وَظيفِيّ	functional spasm
+تَشَنُّجٌ وِعائِيّ	angiospasm (vasospasm)
+تَشَنُّجٌ وِعائِيّ	vascular spasm
+تَشَنُّجٌ وِعائِيّ	vasospasm
+تَشَنُّجُ يَدِ الحَلاَّقين	keirospasm (shaving cramp)
+تَشَنُّجاتٌ طِفْلِيَّةٌ جَسيمَة	infantile massive spasms
+تشوه	deformation = deformity
+تَشَوُّه	deformity
+تَشوُّه	distortion
+تَشَوُّه	malformation (deformity)
+تَشَوُّه أرْنولد-خِياري	Arnold-Chiari deformity
+تَشَوُّه آكْرلُوند	Akerlund deformity
+تشوه الالتواء	torsional deformation
+تَشَوُّهُ الْتِفافِ الحافَة	rolled edge deformity
+تَشَوُّهُ الدِّماغِ و الأَحْشاءِ الكيسِيّ	dysencephalia splanchnocystica (Meckel syndrome)
+تَشَوُّهُ الظَّهْرِ المُقَوَّس	roundback deformity (kyphosis)
+تَشَوُّهُ العَارِضَة	crossbar deformity
+تَشَوُّهُ العُرْوَة	boutonniere deformity
+تَشَوُّهُ العُرْوَة	buttonhole deformity
+تَشَوُّهُ الوَجْهِ الصَحَنِيّ	dishface deformity (facies scaphoidea)
+تَشَوُّهُ انْزِيَاحِ الزَّنْد	ulnar drift deformity
+تَشَوُّهُ إيلِفيلد هُولدر	Ilfeld-Holder deformity
+تشوُّه بالالتواء	warping
+تَشَوُّهُ داندي ووكر	Dandy-Walker deformity
+تَشَوُّهُ سبرِينغل	Sprengel's deformity
+تَشَوُّهٌ شَبِيْهٌ بالشَّوكَةِ الفِضِّيَّة	silver fork deformity
+تَشَوُّهٌ شَبِيْهٌ بالمِقْعَدَةِ	rocker-bottom deformity (convex pes valgus)
+تَشَوُّهٌ شَبِيْهٌ بزِعْنِفَةِ الفَقْمَة	seal-fin deformity
+تَشَوُّهٌ شَبِيْهٌ بسَمَّاعَةِ الهاتِف	telephone deformity of ear
+تَشَوُّهٌ شَبِيْهٌ بعَروسِ البَحْر	mermaid deformity
+تَشَوُّهٌ شَبِيْهٌ بعُنُقِ البَجْعَة	swan-neck deformity
+تَشَوُّهٌ شَبِيْهٌ بمِقْبَضِ	gun stock deformity (cubitus varus)
+تَشَوُّهٌ شَبِيْهٌ بوَرَقَةِ البَرْسيم	cloverleaf deformity
+تَشَوُّهُ فولْكمان	Volkmann's deformity
+تَشَوُّهُ فيلبو	Velpeau's deformity (silver fork deformity)
+تَشَوُّهٌ قِمْعِيّ	funnel deformity
+تَشَوُّهُ مادِيلُونْغ	Madelung's deformity
+تَشَوُّهٌ مِحْجَنِيُّ الشَّكل	recurvatum deformity
+تَشَوُّهُ مِخْلَبِ السَّرَطان	lobster-claw deformity
+تشَوُّهٌ نُقْصانِيّ	reduction deformity
+تصحر	desertification, land degradation and drought (dldd)
+تصريف	design dry weather flow (design DWF)
+تَصَلُّبُ آلزْهايمر	Alzheimer's sclerosis (presenile dementia)
+تَصَلُّب الشرايين	arteriosclerosis
+تصلُّب الشرايين	atheroma
+تَصَلُّبُ الشَّرايين	hardening of arteries (arteriosclerosis)
+تصلّب الشرايين الإنسِدادي	arteriosclerosis obliterans
+تَصَلُّبُ الشَّرايينِ التَّاجِيَّة	coronary arteriosclerosis
+تَصَلُّبُ الشَّرايينِ الدِّمَاغِيَّة	cerebral arteriosclerosis
+تَصَلُّبُ الشَّرايِيْنِ الشَيْخُوخِيّ	senile arteriosclerosis
+تَصَلُّبُ الشَّرايينِ الطِّفْلِيّ	infantile arteriosclerosis
+تَصَلُّبُ الشَّرايِيْنِ العَقِدّ	nodose arteriosclerosis (nodular arteriosclerosis)
+تَصَلُّبُ الشَّرايِيْنِ العُقَيْدِيّ	nodular arteriosclerosis
+تَصَلُّبُ الشَّرايِيْنِ الكَهْلِيّ	presenile arteriosclerosis
+تَصَلُّبُ الشَّرايِيْنِ المُحِيْطِيَّة	peripheral arteriosclerosis
+تَصَلُّبُ الشَّرايِيْنِ المُسِدّ	arteriosclerosis obliterans
+تَصَلُّبُ الشَّرايينِ المُنْتَشِر	diffuse arteriosclerosis
+تَصَلُّبُ الشَّرايينِ الهَيالينِيّ	hyaline arteriosclerosis
+تَصَلُّبُ الشَّرايينِ بحَسَبِ مونكبرغ	Monckeberg's arteriosclerosis (medial arteriosclerosis)
+تَصَلُّبُ الشَّرايينِ بفَرْطِ التَّنَسُّج	hyperplastic arteriosclerosis
+تَصَلُّبُ الشَّرايينِ بفَرْطِ الضَّغْط	hypertensive arteriosclerosis
+تَصَلُّبُ الكُبَيباتِ السُّكَّرِيّ	diabetic glomerulosclerosis
+تَصَلُّبُ بَاطِنَةِ الشِّرْيَان	intimal arteriosclerosis
+تَصَلُّبُ شَرايينُ الشَّبَكِيَّة	retinal arteriosclerosis
+تَصَلُّب شِرياني	arteriosclerosis
+تَصَلُّبٌ عَصيدِيّ	atherosclerosis
+تَصَلُّبٌ عَصيدِيٌّ مُسِدّ	atherosclerosis obliterans
+تَصَلُّبٌ عُقَيْدِيّ	nodular sclerosis (atherosclerosis)
+تصلب كبيبي سكري = لزمة "كيملستل وويلسون"	glomerulosclerosis, diabetic = Kimmelstiel Wilson
+تَصَلُّبٌ كَهْلِيّ	presenile sclerosis
+تَصَلُّبُ مُتَوسِّطة الشِّرْيَان	medial arteriosclerosis
+تَصَلُّبٌ نَوَوِيّ	nuclear sclerosis (nuclear cataract)
+تَصْليبُ الدَّوالِي	cirsenchysis
+تصميم الغِشَاء الحلزونيّ الملفوف	membrane module, spiral-wound
+تصميم مع حساسية للسياق	context sensitive design (csd)
+تَصْنيفُ الأَمْراضِ الحَيَوانِيَّة	zoonosology
+تَصْنيفُ الوَرَمِ و العُقَدِ و النَّقائِل	TNM staging
+تَصْنيفُ برودرز	Broders' classification
+تَصْنيفُ جَمْعِيَّةِ أَطِبَّاءِ القَلْبِ	New York Heart Association classification
+تَصْنيفُ غيل وَكُومس	Gell and Coombs classification
+تَصْنيفِيمَرَضيّ:متعلّق بتصنيف الأمراض	nosologic|nosological
+تَصْويرُ الدَّوالِي	varicography
+تَضْئِين	ovination
+تَضْبيطُ اللابُؤَرِيَّة	astigmatism control
+تَضَخُّم	swelling
+تَضَخُّم عُقْدِيٌّ لِمْفِيّ	lymphadenosis
+تَضَخُّم عُقْدِيٌّ لِمْفِيٌّ خَبيث	malignant lymphadenosis (lymphoma)
+تضخيمُ حَسّاسيَّة الخَليَّة الكَهرَضَوئية	cell amplification
+تَطْبيبٌ اعْتِباطِيّ	cult
+تَطَحُّلٌ رُكودِيّ	hypostatic splenization
+تَطَفُّلٌ عَلَى الطُّفَيلِيّ	hyperparasitism
+تَطَفُّلٌ مُرَكَّب	biparasitic
+تَعْبِئَة نَفْطِية	blister pack
+تَعْدادُ المَرْضَى الدَّاخِلِيِّين	inpatient census
+تَعْدادُ المَرْضَى المُقِيْمِيْن	boarder census
+تَعَدُّدُ الإِمْنَاءِ المَرَضِيّ	pathological polyspermy
+تَعَدُّدُ الأَورام	polyonchosis
+تَعَدُّدُ الحَساسِيَّة	multisensitivity
+تَعَذُّرُ القِرَاءَةِ	text blindness (alexia)
+تَعَذُّرُ القِرَاءَةِ	word blindness (alexia)
+تَعَرُّقٌ سُكَّرِيّ	saccharephidrosis
+تَعَسُّرُ القَيء	dysemesis (disemesia)
+تَعَظُّمُ الزَّوْرَقِيِّ المُتَأَخِّرُ	os naviculare pedis retardatum (Kohler's disease)
+تَعَظُّمٌ دُرَيقِيُّ المَنْشَأ	parathyroid osteosis (osteitis fibrosa cystica)
+تَعَظُّمٌ عاجِيّ	ivory osteosis (compact osteoma)
+تعقيد	complication
+تَعليقٌ مُضائل	damping suspension
+تعمق المنخفض الجوي	deepening of a depression
+تَعوُّج	warping
+تَعْويضُ المَرْضَى	patients' compensation
+تعيّن الخراج	abscess, pointing of
+تغذيةٌ بالأُسطُوانات الدوّارة	roll feed
+تَغْذِيَةٌ بالأُسطُوانات الدوّارة	roll(er) feed
+تَغْطين	gattine
+تَفاعُلٌ الْتِهابِيّ	inflammatory reaction
+تَفَاعُلُ الزُّهْرِيّ	compluetic reaction (Wasserman reaction)
+تَفاعُلُ القَلَق	anxiety reaction (neurosis)
+تَفاعُلُ اللَّيبْرُومين	lepromin reaction
+تَفاعُلُ اللينْتُوكُول	lentochol reaction
+تَفاعُلُ باريجي	Bareggi's reaction
+تَفاعُلُ بِتْزِيتاكِي	Petzetaki's reaction
+تَفاعُلُ بريغر الدَّنَفِيّ	Briegereaction's cachexia reaction
+تَفاعُلُ بورغيس-مايِر	Porges-Meier reaction
+تَفاعُلُ بيتورف	Bittorf's reaction
+تَفاعُلٌ جُثِّيّ	cadaveric reaction
+تَفاعُلٌ حَدَقِيٌّ بالعَمَى الشِّقِّيّ	hemianopic pupillary reaction
+تَفاعُلٌ حَدَقِيٌّ بالعَمَى الشِّقِّيّ	hemiopic pupillary reaction
+تَفاعُلُ دِيك	Dick reaction
+تَفاعُلُ ذَنَبِ الفَأْر	mouse tail reaction
+تَفاعُلُ رُوزينْباخ	Rosenbach's reaction
+تَفاعُلُ روسُّو	Russo reaction
+تَفاعُلُ ستامْلِر	Stammler's reaction
+تَفاعُلٌ سَرَطانِيّ	cancer reaction
+تَفاعُلُ شُولْتز-كارِلْتُون	Schultz-Charlton reaction
+تَفاعُلُ غروبر	Gruber's reaction (Gruber-Widal reaction)
+تَفاعُلُ غوبْلِر	Gubler's reaction
+تَفاعُلُ فاسِّرْمان	Wassermann reaction
+تَفاعُلُ فايخبرُودْت	Weichbrodt's reaction
+تَفاعُلُ فايفَر	Pfeifer's reaction
+تَفاعُلٌ فِرْنانْدِيز	Fernandez reaction
+تَفاعُلُ فيدال	Widal's reaction
+تَفاعُلُ كلاين	Klein reaction
+تَفاعُلُ مِيتْسُودا	Mitsuda reaction
+تَفاعُلُ نايسَر	Neisser's reaction
+تَفاعُلُ هِرْكِسْهايمِر	Herxheimer's reaction
+تَفاعُلُ ياريش-هِيكِسْهايمِر	Jarisch-Herxheimer reaction
+تَفاقُمُ المَرَض	anabasis
+تَفْتِيْشُ رِعايَةِ المَرْضَى	patient care audit
+تفريغ الخراج	abscess, evacuation of
+تفزر الجرح	dehiscence, wound
+تَفَزُّرُ الجُرْح	wound dehiscence
+تَفَقُّعُ الدَّم	aerobullosis (decompression sickness)
+تَفَقُّعٌ سُكَّرِيُّ المَنْشَأ	bullosis diabeticorum
+تَقْرانٌ أُذُنِيّ	aural keratosis (cholesteatoma)
+تَقْرانٌ أُذُنِيّ	keratoma auriculare (nodular chondrodermatitis of the ear)
+تَقَرُّحُ اللَّهاة	ulceration of Daguet
+تقصي الأمراض	screening of diseases
+تَقَلُّصٌ رُسُغِيٌّ قَدَمِيّ	carpopedal contraction
+تَقَلُّصٌ روماتزميّ	rheumatic contraction
+تَقَلْقُلُ السِّنِّ المَرَضِيّ	pathologic wandering
+تِقْنِيُّ الأَمْراضِ القَلْبِيَّةِ	cardiovascular technician
+تَقَوُّس	gryposis
+تَقَوُّسُ الرُّسُغ	carpus curvus (Madelung's deformity)
+تَقَوُّسٌ أَمامِيّ	emprosthotonus
+تَقَيُّحُ الجِلْدِ السَّطْحِيّ	pyoderma superficialis (impetigo)
+تَقَيُّحُ الدَّمِ البابيُّ المَنْشأ	portal pyemia
+تَقَيُّحُ العَين	pyophthalmia
+تَقَيُّحُ المَبِيْض	pyo-ovarium (abscess of ovary)
+تَقَيُّحٌ دِماغِيٌّ غائِر	internal pyocephalus (brain abscess)
+تَقَيُّحٌ دِماغِيٌّ مُتَحَدِّد	circumscribed pyocephalus (brain abscess)
+تَقَيُّحُ دَوَاعِمِ السِّن و الأَسْنَاخ	pyorrhea alveolaris (marginal periodontitis)
+تقييم هشاشة المجتمع	community based vulnerability assessment
+تَكاثُرٌ ظِهارِيّ	epitheliosis
+تكاملٌ دون فتْق	seamless integration
+تَكَثُّرُ نَسيجِ الأَروماتِ النِّقَوِيَّة	myeloblastic leukosis (acute myelocytic leukemia)
+تَكَثُّرُ نَسيجِ الكُرَيَّاتِ البِيْضِ	skin leukosis (Marek's disease)
+تَكَرُّرُ المَرَض	palindromia
+تَكَرُّرُ المَرَض	palinodia (palindromia)
+تَكْرِيْش	ventrosity (obesity)
+تَكَزُّزُ اصْطِناعِيّ	artificial tetanus (drug tetanus)
+تَكَزُّزُ الباسِطات	extensor tetanus
+تَكَزُّزُ التَّقْليد	imitative tetanus
+تَكَزُّزُ التَّلْقيح	inoculation tetanus
+تَكَزُّزُ الغَلْقِ المَصْعَدِيّ	anodal closure tetanus
+تَكَزُّزُ الغَلْقِ المِهْبَطِيّ	cathodal closure tetanus
+تَكَزُّزُ الفَتْحِ المَصْعَدِيّ	anodal opening tetanus
+تَكَزُّزُ الفَتْحِ المِهْبَطِيّ	cathodal opening tetanus
+تَكَزُّزُ القابِضات	flexor tetanus
+تَكَزُّزُ جُزْئي	partial tetanus
+تَكَزُّزُ دَوائِيّ	drug tetanus
+تَكَزُّزٌ رَأْسِيٌّ	cephalotetanus (cerebral tetanus)
+تَكَزُّزٌ رَضْحِيّ	traumatic tetanus
+تَكَزُّزُ ريتر	Ritter's tetanus
+تَكَزُّزٌ سَمْعِيُّ المَنْشَأ	acoustic tetanus
+تَكَزُّزُ سُمِّيِّ	toxic tetanus (drug tetanus)
+تَكَزُّزُ فونت	Wundt's tetanus
+تَكَزُّزُ فيزيولوجيّ	physiological tetanus
+تَكَزُّزٌ مُتَقَطِّع	intermittent tetanus
+تَكَزُّزُ مَوضِعِيّ	localized tetanus
+تَكَمُّؤ	fungosity
+تَكَوُّنُ الأَورام	tumorigenesis
+تَكَوُّنُ الأَوْرَامِ الصَّمَّاوِيَّةِ	multiple endocrine neoplasia
+تَكَوُّنُ الأَورامِ المَسْخِيَّة	teratocarcinogenesis
+تَكَوُّنُ الدَّوالِي	varication
+تَكَوُّنُ الوَرَم	neoplasia
+تكوُّن الوَرَم	oncogenesis
+تَكَوُّنُ الوَرَمِ العَضَلِيّ	myomagenesis
+تلقائي الالتهاب	pyrophoric
+تَلْقِيح	inoculation
+تَلَوُّنٌ وَرَمِيّ	tumor stain
+تَلْوِيْنُ الأُورامينِ - O - المُتَأَلِّق	auramine O fluorescent stain
+تَلْوِيْنُ ألبيرت للخُناق	Albert's diphtheria staining
+تَلْوِيْنُ ليشمان	Leishman's staining
+تليُّف	cirrhosis (Laennec)
+تَلَيُّفٌ شامِلٌ لجِدارِ المَثانَة	panmural fibrosis of the bladder (chronic interstitial cystitis)
+تَلَيُّنٌ الْتِهابِيّ	inflammatory softening
+تَلَيُّنُ القَلْب	cardiomalacia
+تَلَيُّنٌ حُؤولِيّ	metaplastic malacia (osteitis fibrosa cystica)
+تمدد رئوي معوض	compensatory emphysema
+تَمَزُّقُ الرِّباط	desmorrhexis
+تَمزُّق لَدِن	plastic fracture
+تَمَلُّنُ الجِلْدِ الطُّفَيلِيّ	parasitic melanoderma
+تَمَوُّت	mortification (gangrene)
+تَمييز	discrimination
+تَنَاذُر أدّي	Adie's syndrome
+تناذر إشعاعي حاد	acute radiation syndrome
+تناذُر الإرهاق المُزْمِن	chronic fatigue syndrome
+تناذر التهاب الأوعية الإسنهدافي	allergic vasculitis syndrome
+تناذر الحصار الحويصلي الشعري	alveolar-capillary block syndrome
+تناذر أَلْدريش	Aldrich syndrome
+تناذر السحق	crush syndrome
+تناذُر الكُظْر التناسلي	adrenogenital syndrome
+تَنَاذُر المنع	abstinence syndrome
+تَنَاذُر تكيّفي	adaptation syndrome
+تَنَاذُرٌ جَوْفِيٌّ	celiac syndrome
+تَناذر داون	Down's syndrome
+تناذر زفني	choreiform syndrome
+تَناذُر سَرطاني	carcinoid syndrome
+تناذر عتبة الذهان	borderline syndrome
+تناذر كوشينغ	Cushing's syndrome
+تَنَاذُرَ نُقْصَان الأجسام -المضادة	antibody-deficiency syndrome
+تناذر نهك الأطفال	battered-child syndrome
+تَنَسُّجٌ لِمْفِيٌّ جِلْدِيّ	cutaneous lymphoplasia (lymphocytoma cutis)
+تَنَشُّؤ	neoplasm (tumor)
+تنظيم المرض	disease regulation
+تنَفُّخ	swelling
+تنَفُّخُ الخَرَسانة	swelling of concrete
+تَنَفُّسُ كُوريغان	Corrigans' respiration
+تَنَكُّسُ الوَرَمِ المُخاطِيّ	myxomatous degeneration
+تَنَكُّسُ دَوَاعِمِ السِّنّ	periodontosis (juvenile periodontitis)
+تَنَكُّسٌ غُضْرُوفِيٌّ ثَدْيِي	mastochondrosis (mastochondroma)
+تَهَيُّجُ الدِّمَاغ	cerebral irritation
+تَهْييجُ الصَّرْع	epileptic activation
+تَوَابِعَُ الْتِهابِ الدِّماغ	postencephalitis
+تَوالِي الزُّهْرِيّ	metasyphilis
+تَوأَمٌ طُفَيلِيّ	parasitic twin
+تَوَبُّؤُ القصدير	tin pest = tin plague
+توبركولينٌ مُعْدٍ	tuberculin contagious
+تَوَتُّر	myotonia
+تَوَتُّرٌ ضَوئِيّ	phototonus
+تَوَجُّهٌ للطُّفَيلِيّ	parasitotropism
+تَوَجُّهٌ للطُّفَيلِيّ	parasitotropy
+تَوَذُّمُ الرِّئَة	pneumochysis (pulmonary edema)
+تَوَرُّمٌ	oncoides
+تَوَرُّم	swelling
+تورّم	swelling; lump
+تَوَرُّم	tumefaction
+تورم	tumefy
+تَوَرُّم	tumentia
+تَوَرُّم	tumescence
+تَوَرُّم	turgor
+تَوَرُّمٌ أَبْيَض	tumor albus
+تَوَرُّمٌ أَبْيَض	white swelling
+تَوَرُّمٌ أَبْيَضُ قَيحِيّ	tumor albus pyogenes
+تورم الأورطي	chemoectoma
+تَوَرُّمٌ أَلبومينيّ	albuminous swelling (cloudy swelling)
+تَوَرُّمُ الثَّدْيِ باللَّبَن	milk tumor
+تَوَرُّمُ الخُصْيَة	orchidoncus
+تَوَرُّمُ الخُصْيَةِ بِالمَنِيّ	gonoscheocele
+تورم الدماغ	encephaloma
+تَوَرُّمُ الرَّأْس	swellhead
+تَوَرُّمُ الرُّكْبَة	gonyoncus
+تَوَرُّمُ الرُّكْبَةِ الأَبْيَض	gonarthrocace
+تَوَرُّمُ الرُّكْبَةِ السَّيَلاَنِيّ	blennorrhagic swelling
+تَوَرُّمُ الشُّفْرِ الصَّغير	nymphoncus
+تَوَرُّمُ الطِّحال	tumor lienis
+تَوَرُّمُ الطِّرْجِهالِيّ	arytenoid swelling
+تَوَرُّمُ العَدَسَةِ الحَلَقِيِّ بحسب	Soemmerring's crystalline swelling
+تَوَرُّمُ الغُدَّةِ اللُّعابِيَّة	sialoncus
+تورّم القدمين	kibe
+تَوَرُّمُ القُزَحِيَّة	iridoncosis
+تَوَرَُّمُ القَضيب	phalloncus
+تَوَرُّمُ اللِّسان	glossoncus
+تَوَرُّمُ اللِّسان	paraglossa
+تَوَرُّمُ المِشْفَرَيْن	flaps
+تَوَرُّمُ المَشْي	march tumor (syndesmitis metatarsea)
+تَوَرُّمُ المَفْصِل	arthroncus
+تَوَرُّمُ المَفْصِل	arthrophyma
+تَوَرُّمُ النُّخَاعِ الحَبْلِيّ	funicular myelosis
+تَوَرُّمٌ بالشُعِّيات	actinomycetoma
+تَوَرُّمٌ بالشُعِّيات	actinomycoma
+تَوَرُّمٌ بَولِيّ	uroncus
+تَوَرُّمٌ تَحَبُّبِيّ	granulation tumor
+تَوَرُّمٌ تَناسُلِيّ	genital swelling
+تَوَرُّمٌ جَفْنِيٌّ كيسِيّ	lupia
+تَوَرُّمٌ جوعِيّ	hunger swelling
+تَوَرُّمٌ حَرَكِيٌّ وِعائِيّ	vasomotor tumentia
+تَوَرُّمُ حَمْلِيّ	pregnancy tumor
+تورم حميد في المشيمة	chorionic adenoma
+تَوَرُّمٌ خُصْوِيّ	orchioncus
+تورم دموي تحت الجافية	hematoma, subdural
+تورم دموي تحت الجافية	hematoma,subdural
+تورم دموي تحت الظفر	hematoma, subungual
+تورم دموي حوضي	hematoma, pelvic
+تورم دموي حول الشرج	hematoma, perianal
+تورم دموي فوق الجافية	hematoma, epidural
+تَوَرُّمُ دَوالِيّ	varicose tumor
+تَوَرُّمٌ زُجاجِيّ	glassy swelling (amyloid degeneration)
+تَوَرُّمٌ زَليلِيّ	windpuff
+تَوَرُّمٌ زَيتِيّ	eleoma
+تَوَرُّمٌ سابِقٌ للحَيض	premenstrual swelling
+تَوَرُّمٌ سُلِّيّ	tuberculoma
+تَوَرُّمٌ سُلِّيٌّ لُوَيحِيّ	tuberculoma en plaque
+تورم شعبي	bronchial adenoma
+تَوَرُّمٌ شُفْرِيّ	labial swelling
+تَوَرُّمٌ شُفْرِيٌّ صَفَنِيّ	labioscrotal swelling
+تَوَرُّمٌ صَفَنِيّ	oscheoncus
+تَوَرُّمٌ صَفَنِيّ	scrotal swelling
+تَوَرُّمٌ صَمْغِيّ	gummy tumor (gumma)
+تَوَرُّمٌ ضِفْدَعِيّ	ranine tumor (ranula)
+تَوَرُّمٌ ضَوئِيُّ المَنْشَأ	photoncia
+تَوَرُّمٌ طَبْلِيّ	tympanic swelling
+تَوَرُّمٌ طِحالِيٌّ حادّ	acute splenic tumor
+تَوَرُّمٌ عَمَامِيّ	eiloid tumor
+تَوَرُّمٌ غازِيّ	physoncus
+توَرُّمٌ غُضْروفِيّ	enchondrosis
+تَوَرُّمُ غوبلر	Gubler's tumor
+تَوَرُّمٌ غَيمِيّ	cloudy swelling
+تورم غيمي للجُبلة	cloudy swelling of the protoplasm
+تَوَرُّمُ كُلاَّبِيَّةِ الذَّنَب	onchocercoma
+تَوَرُّمٌ لَبَنِيُّ المَنْشَأ	galactoma (galactocele)
+تورم ليفي أخمصي	fibromatosis, plantar
+تورم ليفي راحي	fibromatosis, palmar
+تَوَرُّمٌ مَخْصُوْر	dumb-bell tumor (hour-glass tumor)
+تَوَرُّمٌ مَصْلِيّ	seroma
+تَوَرُّمٌ يُوراتِيّ	uratoma
+تَوَرُّماتُ البَصَلَة	bulbar swellings
+تَوَرُّماتُ شتاينر	Steiner's tumors
+تَوَرُّماتُ كالابار	Calabar swellings
+تَوَرُّماتُ كاميرون	Kamerun swellings
+تَوَرُّماتٌ مَدارِيَّة	tropical swellings
+توزيع سار	contagious distribution
+تَوَسُّعُ الأَوعِيَةِ اللِّمْفِيَّةِ	cystic lymphangiectasis (cystic lymphangioma)
+تَوَسُّعُ الحُوَيضَةِ الحَمْلِيّ	encyopyelitis
+تَوَسُّعُ القَصَباتِ الدَّوالِيّ	varicose bronchiectasis
+توسيفين	tosifen
+تَوْصِيفُ الأَمْراض	nosography
+تَوصيفُ الأَوبِئَة	epidemiography
+تَوقِيَةٌ من العَدْوى	phylaxis
+تُوكلو	tokelau (tinea imbricata)
+تولاريمية	tularemia
+تولازاميد	tolazamide
+تولبوتاميد	tolbutamide
+تَوَلُّدُ الأَوعِيَةِ فِي الوَرَم	tumor angiogenesis
+تَوَلُّدُ الدَّرَنات	tuberculation
+تَوَلُّدُ الدَّرَنات	tuberculization
+تَوَلُّدُ الكُرَيَّاتِ الحُمْرِ النَّاقِص	erythrogenesis imperfecta (congenital hypoplastic anemia)
+تولميتين	tolmetin
+تولونيوم	tolonium
+تَوْلِيْدُ الحُمَّى	pyrogenicity
+تيار بدء التشنج	tetanization threshold (current)
+تيار دوّامي	eddy current
+تيّار طُفَيليّ	parasitic current
+تيسيكام	tesicam
+تيفوئيد	typhoid
+تيفوئيدي	typhoid
+تَيْفوسُ ساوباولو	Sao Paulo typhus (Rocky Mountain spotted fever)
+تَيْفُوسٌ كُلْوِيّ	nephrotyphus
+تيفوسٌ مَنْقُولَةٌ بالقَمْل	louse-borne typhus (epidemic typhus)
+تيفيَّةُ اللَّوْزَتَين	tonsillotyphoid (pharyngotyphoid)
+تِيْفِيَّةٌ كُلْوِيَّة	nephrotyphoid
+تِيفِيَّة مُحَرَّشَة	provocation typhoid
+تِيفِيَّةُ منشوريا	Manchurian typhoid
+تيلوفورين	tylophorine
+تِيْنَةُ الجَفْن	sycosis tarsi (blepharitis)
+تيوبيناك	tiopinac

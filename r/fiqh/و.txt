@@ -1,0 +1,168 @@
+واجبٌ إبلاغه a notifiable disease	notifiable
+واجب الأداء	due
+واجِبُ التَّبْليغُ	certifiable
+واجِبُ التَّبْليغ	notifiable
+وَاجِبُ التَّبْليغ	reportable
+واجب التحقيق	duty to investigate
+واجب الرعاية	Duty Of Care
+واجب المناوبة	watch duty
+واجِبٌ مَنزِلي	homework
+واجبات ائتمانية	Fiduciary Duties
+واجبات الاستخراج	production royalties
+واجبات ميدانية	rights on the ground
+وارث	Heir
+وارِث	heir; inheritor
+وارث الفَضْلة: الوارث لباقي التركة	residuary legatee
+وَتَر	central tendon
+وَتَر	chord
+وَتَر	hypotenuse
+وَتَرُ	ligamentum palpebrale mediale
+وَتَرٌ	string
+وَتَر	tendo NA [pl.tendines]
+وَتَر	tendo; tendon
+وَتَر	tendon
+وَتَر أَخِيل	Achilles tendon
+وَتَرُ أَخيل	Achilles tendon (tendo calcaneus NA)
+وَتَرُ أخيل	tendo Achillis (tendo calcaneus NA)
+وتر التحريك الهوائي	aerodynamic chord
+وتر التحريك الهوائي الوسطي	aerodynamic mean chord; MAC; mean aerodynamic chord
+وَتَرُ التّماس	chord of contact
+وتر الجناح	wing chord
+وتر الطَرَف	tip chord
+وَتَرُ الفُرْسان	riders' tendon
+وَتَرُ القِمْع	tendo infundibuli NA
+وَتَرُ المَأْبِض	hamstring
+وَتَرُ المَأْبِض	hamstring tendon
+وترُ المثلّث	hypotenuse
+وتر بؤري	flow chord
+وَتَرٌ بُؤري	focal chord
+وَتَرٌ بشكل وَرَقَةِ البَرْسيم	trefoil tendon (centrum tendineum)
+وتر تحريكي - هوائي	aerodynamic chord
+وَتَرٌ رَضَفِيّ	patellar tendon
+وَتَر زِن	tendon of Zinn (zonula ciliaris)
+وَتَرٌ سُفْلِيّ	bottom chord
+وَتَر شَدّ	tendon
+وتر صوتي	vocal cord
+وَتَرٌ عَضَلِيّ	sinew
+وتر عُلوي	top chord
+وَتَرٌ غِشائِيّ	membranaceous tendon (aponeurosis)
+وَتَرٌ غِمْدِيّ	ligamentum vaginale (®vinculum tendinum)
+وَتَرٌ مُشْتَرَك	common tendon
+وَتَرٌ مُقْتَلَع	pulled tendon
+وَتَرٌ مُنفَصِل	unbonded tendon
+وَتَرُ هكتور	tendon of Hector (tendo calcaneus)
+وتر واصل	conjoint tendon
+وتر وسطي قياسي	standard mean chord
+وتر: في مثلث قائم الزاوية	hypotenuse
+وَجَعُ الوَتَر	teinodynia (tenodynia)
+وَجَعُ الوَتَر	tenodynia
+وَجَعُ الوَتَر	tenontodynia
+وحدة تنقية المياه بالتناضح العكسي	Reverse Osmosis Water Purification Units (ROWPUs)
+وَحْدَةُ غَسْلِ	scrubbing plant
+وَحْدَةُ غَسْل الخام	ore washing plant
+وَحيدُ الوَتَر	monochord
+وِراثة	inheritance
+وراثة أبوية	paternal inheritance
+وراثة الأصغر: نظام يؤول فيه الميراثُ	ultimogeniture
+وراثة الأولية	Priority inheritance
+وراثة الخواص المكتسبة	inheritance of acquired characteristics
+وراثة الصفات المكتسبة	acquired characteristics inheritance
+وِراثَةُ الصِّفاتِ المُكْتَسَبَة	homotropic inheritance
+وِراثَةُ الوَحْدَة	unit inheritance
+وراثة أمومية	maternal inheritance
+وِراثَةٌ أُمومِيَّة	maternal inheritance (cytoplasmic inheritance)
+وِراثَةٌ بسِيَادَةٍ مُشْتَرَكَة	codominant inheritance
+وراثة بينية	intermediate inheritance
+وراثة تتامية	complemental inheritance
+وِراثَةٌ تَتْمِيْمِيَّة	complemental inheritance
+وراثة تصالبية	criss-cross inheritance
+وِراثَةٌ تَكْمِيْلِيَّة	supplemental inheritance
+وِراثَةٌ جُزْئِيَّةُ السِّيَادَة	quasidominant inheritance
+وِراثَةٌ جُسَيمائِيَّة	particulate inheritance
+وراثة جسيمانية	particulate inheritance
+وراثة خارج الصبغيّ	extrachromosomal inheritance
+وراثة خارج النواة	extranuclear inheritance
+وراثة ذكرية	holandric inheritance
+وِراثَةٌ سائِدَة	dominant inheritance
+وراثة صبغوية	chromosomal inheritance
+وِراثَةٌ صِبْغِيَّةٌ جَسَدِيَّة	autosomal inheritance (autosomal heredity)
+وِراثَةٌ عَديدَةُ الجينات	polygenic inheritance
+وراثة عديدة العوامل	multifactorial inheritance
+وِراثَةٌ كَمِّيَّة	galtonian inheritance (quantitative inheritance)
+وراثة كمية	quantitative inheritance
+وِراثَةٌ كَمِّيَّة	quantitative inheritance (polygenic inheritance)
+وراثة لا مندلية	non mendelian inheritance
+وِراثَةٌ مُتَزَامِنَةُ الظُّهُوْر	homochronous inheritance
+وِراثَةٌ مُتَصالِبَة	criss-cross inheritance
+وِراثة متعاقِبَة	alternative inheritance
+وراثة متعددة	multiple inheritance
+وراثة متعددة المورثات	polygenic inheritance
+وِراثَةٌ مُتَقَدِّرِيَّة	mitochondrial inheritance (cytoplasmic inheritance)
+وِراثَةٌ مُتَنَحِّيَة	recessive inheritance
+وِراثَةٌ مُتَوَسِّطَة	intermediate inheritance
+وراثة مِثْلِيَة التزامن	homochronous inheritance
+وِراثةٌ مُختلِطة	blended inheritance
+وِراثَةٌ مُخَلَّطَة	blending inheritance
+وِراثَةٌ مُرْتَبِطَةٌ بالإِكس	X-linked inheritance
+وِراثَةٌ مُرْتَبِطَةٌ بالجِنْس	sex-linked inheritance
+وِراثَةٌ مُزَيَّقَة	mosaic inheritance
+وِراثَةٌ مُقْتَصِرَةُ على الإِنَاث	hologynic inheritance
+وِراثَةٌ مُقْتَصِرَةٌ عَلى الذُّكُوْرِ	holandric inheritance
+وِراثَةٌ مِنْ أَحَدِ الوالِدَين	alternative inheritance
+وِراثَةٌ مِنَ الوالِدَين	amphigenous inheritance (biparental inheritance)
+وِراثَةٌ مِنَ الوالِدَين	biparental inheritance
+وِراثَةٌ مِنَ الوالِدَين	duplex inheritance (biparental inheritance)
+وراثة مندلية	mendelian inheritance
+وراثة موحدة	Single inheritance
+وراثة ميتوكوندرية	mitochondrial inheritance
+وِراثَةٌ هَيولِيَّة	cytoplasmic inheritance (extrachromosomal inheritance)
+وِرَاثَةٌ وَحِيْدَةُ الصِّبْغِي	monogenic inheritance (mendelian inheritance)
+وراثة وحيدة العامل	monofactorial inheritance
+وِراثَةٌ وَحيدَةُ العامِل	monofactorial inheritance (mendelian inheritance)
+ورثة المؤلف	Author’s heirs
+ورثة جنسية الصلة	gene, sex - linked
+ورثة سائدة	gene, dominant
+ورثة متنحية	gene, recessive
+وَرِع	prayerful
+ورقة الطلاق	bill of divorce
+وَرَمُ الخَلاَيا العِمْلاَقَةِ في غِمْدِ	giant cell tumor of tendon sheath
+وَرَمُ وارثين	Warthin's tumor
+وَزْنُ البَنْس	pennyweight
+وصل تسلُّم	delivery order
+وصلة مفصلية خالية من النحر	UF joint
+وصية	legacy; testament
+وصية	will
+وصية رسمية	authentic will
+وصية عرفية	holographic will
+وَضْعُ القِيام	usustatus
+وعاء الغسل	wash drum
+وعاء الغسل بالماء	water wash drum
+وعاء النقع بالماء	water wash settler
+وعاء زكوي	Zakat Base
+وعْد بالهبة	promise of donation
+وقت التسليم الصافي	Net Delivery Time
+وقت التسليم الكلي	Elapsed Delivery Time
+وَقْف	Break
+وقف	Endowment
+وقف	wakf
+وقف إجراءات المحكمة	Stay Of Court Proceedings
+وَقْف التتبُّع	break lock
+وقْف التقادُم	prescription suspension
+وقْف التقادُم	suspension of prescription
+وقف التنفيذ	Stay of Execution
+وَقْفُ الثَّرِّ المُخاطِيّ	blennostasis
+وقف الخصومة	Suspension of Litigation
+وقْف الدعوى	suspension of suit
+وقف الطلب	demand stop
+وَقف العمل: توقُّف عن العمل يقوم به	work stoppage
+وقف المسار	route holding
+وقفٌ أو انقطاع تدريجيّ	phase-out
+وَقْف أو تعليق العمل	shutdown
+وقف تدفق البئر	Killing a Well
+وقْف تنفيذ العقوبة	respite (suspension of sentence)
+وقف خاص	Private Endowment
+وقف داخلي	caesura
+وقف عام	Public Endowment
+وقف مشترك	Joint Endowment
+وَقْفة	pause
+وكيل الصَّدَقات: موظف مكلف بتوزيع	almoner

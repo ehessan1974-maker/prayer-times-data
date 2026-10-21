@@ -1,0 +1,169 @@
+e-bomb	قنبلة إلكترونية
+E-Fulfilment	التعبئة الالكترونية
+E-H tuner	ضابط E-Н
+earth creep	زَحْفُ التُّربة، اِنزِلاقُ التُّرْبة
+earth flow	زَحْفُ التُّربة، اِنسِيابٌ أرضيّ
+earth-flow	زحف التربة
+ECMS (Equivalent Consumption Minimization Strategy)	إستراتيجية تقليل الاستهلاك المكافئ
+ECO driving indicator	مؤشر القيادة الاقتصادية
+Eco-Driving	قيادة اقتصادية
+effective	(1) فعّال (2) مُؤثِّر؛ رائع an effective picture (3) صالح للخدمة (4) فِعليّ؛ حقيقيّ (5) سارٍ؛ نافذ المفعول (6) جندي صالح أو مجهَّز للخدمة الفعلية. effectiveness
+efficiency strategy	استراتيجية تحقيق الكفاءة
+Electric power supply	إمدادات الطاقة الكهربائية
+Electric Re-Charging Lane	حارة الشحن أثناء القيادة
+Electric Vehicle Drive Mode Indicator	مؤشر وضع القيادة الكهربائي
+Electric Vehicle Fleet Operator	مشغِّل أسطول السيارات الكهربائية
+electrical injection adjustment (ESPV)	ضابط الحقن الكهربائي
+electrical officer	ضابط كهربائي
+electro-contact mine	لُغمُ تماسٍّ كهربائي
+electrolyte creep	.زحف محلول الكتروليتي
+electrolytic lead	رَصاصٌ كهرلي
+electrolytic tank electrolyte tank	خزّان إلكتروليتي
+electromagnetic bomb	قنبلة كهرطيسية
+electromagnetic rocket	صاروخ كهرمغنطيسي
+electromagnetic rocket	صاروخ كهرمغناطيسي
+electron bomb	قُنبُلَة إلِكترونيَّة
+electron bombardment	قَذْفٌ بالإلِكترونات
+electron bonbardment	قصف الكتروني، قذف الكتروني
+electron gun	مِدْفَعَةُ إلِكترونات / مِدْفَع إلكتروني
+electron gun	مدفع الكترونات / مدفع الإلكترونات
+electron gun	قاذف الكتروني / مدفع إلكتروني / مِدفع إلكترونات
+electron gun of axial symmetry	مدفع إلكتروني ذو تماثل محوري
+electron gun with plasma emission	مدفع إلكتروني بانبعاث (ببث) بلازما
+electronic anti-theft warning system (EDW)	جهاز الإنذار ضد السرقة والاقتحام
+electronic camouflage	تَمْويهٌ إلِكتروني
+electronic minimum volume reduction	ضابط كمية الحقن الدُنيا الكهربائي / الضابط الكهربائي لكمية الحقن الدُنيا
+electronic steering lock (ESL)	قفل عجلة القيادة إلكترونياً
+electronic warfare	حَرْبٌ إلكترونيَّة
+electronically controlled injection timer	ضابط حقن محكوم إلكترونياً
+electrostatic rocket	صاروخ كهرساكن
+element	(1) «أ», العُنْصُر: «ب» أحد العناصر الأربعة، الهواء والماء والنار والتراب. «ج» pl.: العوامل والقوى الجوية exposed to the element s (2) المجال: الجوّ أو المحيط الملائم لشخص أو شيء to be in one's element . (3) «أ», العُنصر: جزء مُكوِّن أو أساسيّ. وبخاصة: «ب» pl.: مبادئ علمٍ ما the element s of astronomy. «ج» إحدى النقاط أو الخطوط أو السطوح إلخ التي يتكون منها شكلٌ هندسي. «د» أحد العوامل التي تقرِّر نتيجةَ عملٍ ما. «هـ» جزء متميِّز من أداة مُرَكَّبة. «و» جزء من وحدة عسكرية (4) أثر؛ مقدار ضئيل (5) العُنْصُر (ك) (6) pl.: خبز القُربان وخمرُهُ (نص).
+element leader	قائد تشكيل
+elementary surge tank; simple surge tank; shaft surge tank	برج مائي ذو بئر تفتيش
+elevated storage tank	خَزّان ماء عالٍ
+elevated tank	خزان علوي
+elevated tank	خَزّانٌ مَرفوع
+embattle	(1) يُعِدّ للمعركة (2) يحصِّن [مدينةً إلخ] (3) يزوِّد بشرفاتٍ مفرَّجة (را. battlement).
+embrasure	الكُوَّة: «أ» فتحة داخلُها أوسع من خارجها في باب أو نافذة. «ب» فتحة في جدار حصن [لإطلاق نيران المدافع].
+embrittiement	تقصُّف، قصْف
+embrittle	قَصِفَ، قَصَّفَ
+emergency cartridge	خرطوشة الطوارئ
+emergency combat capability	قدرة القتال الطارئ
+emergency tank	خزّان الطوارئ
+emergency tank	خَزَّانٌ (احتياطيٌّ) للطوارئ
+Emergency/Military Trains	قِطاراتُ خِدْمَةِ الطَوارِئِ وَالدِفاعِ
+Emergent Strategy	إستراتيجية طارئة
+emissions strategy	استراتيجية الانبعاثات
+emplacement	مَوقِع، مَوْضِع؛ مَرْبِض، مِنَصَّة المِدْفَع
+emplacement	(1) مَوْضِع؛ مَوْقِعُ [الشيءِ] (2) المَرْبَض: مَوْضع المِدفع (جن) (3) وَضْع؛ نَصْب.
+Employment by Occupation	العمالة حسب المهنة
+Emsher tank (digestion tank)	صِهْريجُ إيمشر ( صِهْريجْ التَّهْضيم)
+en coup de sabre	ضَرْبَةُ السَّيف
+encamp	خَيَّمَ، عَسْكَر، أقامَ في مُعَسكر
+encampment	تَخييم؛ مُعَسكَر
+enceinte	حامل؛ حُبلى. (1) سُور الحِصْن إلخ (2) حِصْنٌ مُسَوَّر.
+encroachment (of the desert)	زحف (الصحراء)
+end loading	إلقامٌ أو تَعبئَةٌ من الطرَف
+endorse	(1) يُظَهِّر: يُوَقِّع على ظهر الشيك ليقبض قيمته (2) يُوَقِّع [على شيك أو سَنَد] (3) يُسَجِّل مخالفةً [على رخصة قيادة السيارة] (4) يُجَيِّر: يُحوِّل قيمةَ شيك إلى شخص آخر [بالتوقيع على ظهره] (5) يُقِرّ بتسلّم مبلغٍ [مُوَقِّعًا على وثيقة] (6) يُقِرّ؛ يُصادق على to endorse a plan.
+energy strategy	استراتيجية الطاقة
+energy supply chain	سلسلة إمدادات الطاقة
+enfilade	(1) المصفوفة: منظومة من صفوف متقابلة متوازية (2) رمي الانتظام: نار تُطْلَق على طول خندق أو صفٍّ من الجند (3) يَرْمي رَمْيَ الانتظام (جن).
+engaged	(1) مشغول (2) خاطب؛ مخطوبة (3) مُلتزِم [بقضية إلخ] (4) متورِّط [وبخاصةٍ في قتال مع عدوّ] (5) غائر جزئيًا في جدار an engaged column (6) مُعَشَّق engaged gears.
+engagement	(1) «أ» موعد [للِّقاء]. «ب» عملٌ [وبخاصة بعَقْدٍ ولأَجَلٍ مُعَيَّن] (2) «أ» تعهُّد؛ ارتباط. «ب» وَعْدٌ؛ عَهْد؛ ميثاق. «ج» خِطبة. «د» pl.: التزامات مالية (تج) (3) تَعَشُّقُ [التروسِ] (4) اشتباك؛ معركة.
+engine	(1) عامل؛ أداة (2) أداة ميكانيكية. وبخاصة: آلة حَرْبية (3) أداة تعذيب (ا.م) (4) محرِّك (مك) (5) قاطرة.يُزوِّد بمُحرِّك [أو مُحرِّكات]. (6) يُزوِّد بمُحرِّك [أو مُحرِّكات].
+engine, rocket	مُحَرِّكٌ صاروخيّ
+engineer officer	ضابط مهندس
+enginery	(1) آلات الحرب (2) آلات.
+English number (Ne)	عيار إنجليزي
+enlist	جَنَّد، تَجَنَّد؛ ضَمَّ أو انضمَّ إلى قائِمة
+enlist	(1) يُجنِّد؛ يُطوِّع (2) «أ», يَحْشُد [القِوى]: «ب» يَحُثّ على خدمة قضية. «ج» يستخدم لنُصْرة قضية (3) يستميل (4) يتجنَّد؛ يتطوَّع.
+enlisted	مُجَنَّد [رتبتُهُ دون رتبة الضباط].
+ensign	(1) راية (2) «أ» شارة. «ب» رمز (3) مُلازم [في البحرية].
+entrench	حَصَّنَ أو تَحَصَّنَ في خَنْدَق؛ رَسَّخ
+envenom	(1) يُسَمِّم [الطعامَ أو السِّلاح] (2) يُوغِر صدرَهُ.
+environmental strategy	استراتيجية بيئية
+epaulet	الكَتِفِيَّة: نسيج مقصَّب على كَتِف السِّترة العسكرية خاصةً.
+ephebe	الأفِيب: شابّ إغريقي. وبخاصة: أثيني في الثامنة عشرة أو التاسعة عشرة يتلقى تدريبًا عسكريًا يؤهّله للمواطِنية.
+epicranial aponeurosis (galea aponeurotica NA)	سِفاقُ الشَّواة (الخُوذَةُ السِّفَاقِيَّة)
+equestrian	(1) «أ», فُروسيّ: «ب» خاصّ بركوب الخيل. «ج» ممثِّلٌ شخصًا على متن جوادٍ an equestrian statue. «د» ذو علاقة بالفرسان أو مُؤلَّف منهم (2) فارس.
+error protection code	شفرة حامية ضدّ الأخطاء
+escadrille	الأُسَيْطيل: أسطول صغير من الطائرات أو السفن الحربية.
+escalation	تزايد
+escalation	تَصْعِيد، زِيادةُ الحِدَّة أو الشِّدَّة
+escalation level	مستوى التصعيد
+escape rocket	صاروخ الأفلات
+escape velocity	سرعة الانفلات الصغرى: الحد الأدنى من السرعة الذي يحتاج إليه الصاروخ إلخ للانفلات من الجاذبية الأرضية والانطلاق إلى الفضاء الخارجي.
+escarpment	(1) المَهْوَى: مُنْحَدَر أمام حِصن (2) جُرُف.
+escort	(1) «أ» مُرافِق. «ب» حاشية. «ج» حَرَسٌ (2) حاميةٌ [من السُّفن الحربية أو الطائرات المقاتلة إلخ] (3) مُرافَقَة؛ مُواكَبَة (4) يُواكِب؛ يُرافِق [للحماية أو التكريم].
+escort carrier	حاملة طائرات صغيرة.
+escort fighter	المُقاتِلة المُواكِبة: طائرة تواكِب القاذفات الثقيلة.
+espial	(1) تجسُّس (2) «أ» ملاحظة. «ب» اكتشاف.
+espionage	تجَسُّس، جاسوسيَّة
+espionage	تجسُّس
+espionage	تجسُّس؛ جاسوسيّة.
+esplanade	المُسْتوِية؛ المُتَنَزَّهة: أرض مستوية يتنزَّه فيها المشاة وراكبو الدراجات.
+esprit de corps	العصبيّة؛ روح الجماعة؛ روح التضامن.
+ESPV	الضابط الكهربائي للحقن
+establishment	(1) «أ» المُدَوَّنة: مجموعة قوانين. «ب» كنيسة رسمية. «ج» مُنْشَأة [مدنية أو عسكرية]. «د» مُؤسَّسة [تجارية أو عامّة أو خاصّة] (2) cap.: المؤسَّسة: جماعة مُهَيْمنة the literary establishment (3) تَوْطيد؛ تَرْسيخ؛ إقامة؛ تأسيس إلخ (4) تَوَطُّد؛ تَرَسُّخ؛ استِقرار.
+ETCS Cab Indication	مُؤَشِّرُ مقصورة القِيادَةِ التابِعِ لِلنِظامِ الأوروبي لِلتَحَكُّمِ بِالقِطاراتِ
+ethyl gas (tetraethyl lead)	غازُ الإيثيل ( ثُلاَثِيُّ إِيثيلِ الرَّصاص)
+EU Energy Strategy 2011-2020	استراتيجية الطاقة للاتحاد الأوروبي 2011-2020
+European 'top runner' strategy	الاستراتيجية الأوروبية لمعايير الكفاءة القصوى للطاقة
+European CO2 targets for new car fleets	قيم الأوروبية المُستهدفة لخفض انبعاثات ثاني أكسيد الكربون من المركبات
+European Strategic Energy Technology Plan (SET Plan)	خطة الاتحاد الأوروبي الاستراتيجية لتكنولوجيا الطاقة
+EV Driver Assistance Systems	أنظمة المساعدة على القيادة الكهربائية
+EV Driving Modes	أوضاع القيادة في المركبات الكهربائية
+evacuate	(1) يُفْرغ (2) يبول؛ يتغوَّط (3) يَنْزَح؛ يُفرغ بمضخّة (4) «أ» يُجْلي [عن منطقة]. «ب» يجلو [عن موقع حربي]. «ج» يخلي [مَسكنًا إلخ].
+evaporation pan / evaporation tank	وعاء قياس التبخر
+evaporation tank	حَوَضُ التَّبَخُّر
+evolution	(1) «أ» تحوّل. «ب» نموّ. «ج» تقدّم. «د» تطوّر (2) ثمرة [تطوّرٍ ما] (3) «أ» الحركة: إحدى الحركات التي تؤلف جزءًا من خطة. «ب» مناورة [عسكرية إلخ] (4) «أ» نشوء. «ب» النُّشوء (أح). «ج» نظرية النُّشوء (أح) (5) التجذير: استخراج الجذور (ر).
+Evolution strategy	استراتجية تطورية
+ex-serviceman	المحارب القديم.
+executive officer	الضّابط التَّنفيذيّ (جن).
+exercise	(1) ممارسة؛ استعمال (2) تمرين؛ تدريب [جسمانيّ أو عقليّ] (3) مناورة [عسكرية] (4) pl.: حفلة gradu-ating exercise s (5) يمارس to exercise one's rights (6) يستعمل؛ يستخدم to exercise one's strength (7) يمرِّن؛ يدرِّب (8) يصطنع؛ يُبدي؛ يُظهر؛ يعتصم بِـ to exercise caution or patience (9) يؤدي exercise d the duties of his office (10) يُقلق exercise d about his health (11) يتدرّب؛ يتمرَّن.
+exhibition and event logistics	معرض الخدمات اللوجستية
+Exit Strategy	إستراتيجية الخروج
+expansion tank	خزان التمدد
+expansion tank	خَزّان التمدُّد
+Exploit Developer	مطور اقتحامات
+explore	اِستَكْشَفَ، اِرتادَ؛ تَقَصَّى، تَحَرَّى بدِقَّة / استطلاع
+exploring brush	فِرْجَونُ استِكشاف، فِرشاةُ استِطلاع
+Explosive	متحرك، انفجاري
+explosive	متفجِّر
+explosive	متفجر، منفجر / مادة متفجرة، متفجر
+explosive	(1) انفجاريّ: عامل بالانفجار an explosive engine (2) مُتَفجِّر (3) سريع الانفعال an explosive temper (4) انفجاريّ: مصحوب بإطلاق مفاجئ للنَّفَس (5) مادة متفجّرة (6) الحرف الانفجاريّ [مثل p في top] (ل).
+explosive	تفَجُّري، مُتفَجِّر، قابِلٌ للاِنفِجار؛ مادَّةٌ مُتفَجِّرة
+explosive	مُتَفَجِّر / متفجر
+explosive atmosphere	جو متفجر / جو قابل للانفجار
+explosive bolt	مِحْزاق مُتفَجِّر (لاطِّراح مرحَلةِ الصاروخِ المُستَنْفَدة)
+eXplosive bolt	مسمار انفجاري / مسمار ربط الآلة، برغي الآلة
+explosive bullet	رَصاصةٌ مُتفَجِّرة
+explosive charge	شِحْنَةٌ مُتفَجِّرة
+eXplosive cladding	تغليف انفجاري
+explosive compound	مُرَكَّبٌ مُتفَجِّر
+explosive decompression	تَخْفيفُ الضَّغْطِ التَّفَجُّرِيّ
+eXplosive decompression	انخفاض الضغط الانفجاري
+explosive dust atmosphere	جو غبارى متفجر
+eXplosive forming	تشكيل انفجاري
+explosive fracturing	شَرْخ تفجيري
+explosive fuel	وَقُودٌ تفَجُّريّ
+explosive fuse	صِمامةٌ مُتفَجِّرة
+explosive gas atmosphere	جو غازى متفجر
+explosive magazine	مُستودَعُ مُتفَجِّرات
+Explosive Materials	مواد متفجرة
+explosive mixture	مَزيجٌ متفَجِّر
+explosive oil = nitroglycerine	نِتروغلِسَرين
+explosive personality (epileptic character)	شَخْصِيَّةٌ انْفِجارِيَّة ( شَخْصِيَّةٌ صَرْعِيَّةٌ)
+explosive potential	جُهدٌ تَفجيري
+eXplosive rivet	برشام انفجاري
+explosive rivet	بِرشامَة مُتفَجِّرة
+explosive speech	كَلاَمٌ انْفِجارِيّ
+explosive test mixture	خليط متفجر للاختبار
+explosive vomiting	قَيْءٌ قَذْفِيّ
+eXplosive welding	لحام انفجاري
+explosive, high	مُتفَجِّرٌ قَاصِم
+explosive, low	مُتفَجِّر بَطِيء
+explosives	مُتَفَجِّرات، مَوادُّ مُتَفَجِّرة
+exposed	(1) مكشوف (2) معرَّض [للخطر أو الهجوم إلخ].
+exterior ballistics	القِذافية الخارجية: دراسة حركة القذيفة بعد خروجها من ماسورة المدفع.
+external gun	مدفع خارجي

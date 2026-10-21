@@ -1,0 +1,172 @@
+جُذامٌ خَدَرِيّ	anesthetic leprosy
+جِراحَةٌ تَطْهيرِيَّة	antiseptic surgery
+جَرْش	concassation
+جُرْعاتٌ مُتَساوِيَةُ الفاعِلِيَّة	equipotent doses
+جُرْعاتٌ مُجَزَّأَة	fractional doses
+جُرعة	absorbed dose of ionizing radiation
+جرعة	batching [concrete]
+جرعة	dosage
+جرعة	dose
+جرعة	dose (deprecated)
+جُرْعَة	dosis
+جرعة	draft
+جرعة احمرار الجلد	erythema dose
+جرعة إزالة الشعر	epilation dose
+جرعة إستضواء	luminance dose
+جرعة إشعاعية	radiance dose; integrated radiance; time-integrated radiance
+جرعة إشعاعية	radiation dose
+جرعة إشعاعية أكتينية	actinic dose
+جرعة إشعاعية خطرة من الضوء الأزرق	blue light hazard radiance dose; blue light hazard time integrated radiance
+جرعة إشعاعية فوتونية	photon radiance dose
+جرعة الأدمة	skin dose; tissue dose
+جُرْعَةُ الإِسْعاف	emergency dose
+جرعة الإشعاع	dose of radiation
+جرعة الاشعاع	radiation dose
+جرعة الإشعاع المحدثة التهاب للجلد	erythemal dose; erythemal radiant exposure
+جُرْعَةُ الإِشْعاعِ المُمْتَصّ	radiation absorbed dose
+جرعة الإشعاع الممتصة	absorbed dose of radiation
+جرعة الأشعة السينية	X- ray dosage
+جرعة الأشعة السينية	X-ray dosage
+جُرْعَةُ التَّحَمُّل	dosis tolerata
+جرعة التحمّل	tolerance dose
+جرعة التحميل	dose, loading = priming dose
+جُرْعَةُ التَّحْميل	loading dose (initial dose)
+جرعة التصادم الأولى	first collision dose (deprecated)
+جُرْعةُ التَّعَرُّض	exposure dose
+جرعة التعرض للإشعاع	exposure dose of radiation
+جرعة الحبر	ink feed
+جرعة الحفاظ	dose, maintenance
+جرعة الخروج	exit dose
+جرعة الراسب	deposit dose
+جُرْعَةُ الشُّروع	priming dose
+جرعة الشفاء	dose, curative
+جرعة الشفاء المتوسطة	dose, median curative
+جُرْعَة الصِّيَّانَة	maintenance dosage
+جرعة العتبة	threshold dose
+جُرْعَةُ العُمْق	depth dose
+جُرعة الكلور	chlorine dose
+جُرْعَةُ المَخْرَج	exit dose
+جُرْعَةُ المُداوَمَة	maintenance dose
+جرعة المورث	dose (gene...)
+جرعة المورثة	gene dosage
+جُرْعَةُ الهَواء	air dose
+جُرْعَةٌ انْسِمامِيَّة	intoxicating dose
+جرعة آيونية	ion dose
+جرعة بداية احمرار الجلد	threshold erythema dose
+جرعة تأيين كلية	total ionization dose
+جرعة تجمعية	collective dose
+جُرْعَةُ تَحَمُّلِ العُضْو	organ tolerance dose
+جُرْعَةُ تَراكُميَّة	cumulative dose
+جرعة تراكمية	dose, cumulative
+جُرْعَةٌ تَمَاثُلِيَّة	isodose
+جُرْعَةٌ جُزْئِيَّة	dosis refracta (fractional dose)
+جُرعة جسدية	body dose
+جرعة جسدية جزئية	partial body dose
+جرعة جسم جزئية	partial body dose
+جُرْعَةٌ جِلْدِيَّة	skin dose
+جُرْعَةٌ حُمامَوِيَّة	erythema dose
+جرعة خروجِ	exit dose
+جُرْعَةٌ دَقِيْقَة	microdose
+جُرْعَةٌ سامَّة	toxic dose
+جرعة سطحية	surface dose
+جرعة سنوية	Annual Dose
+جُرْعَةٌ شافِيَة	curative dose
+جُرْعَةٌ شافِيَة	dosis curativa
+جُرْعَةٌ شافِيَةٌ وَسَطِيَّة	median curative dose
+جرعة شخصية	personal dose
+جُرْعَةٌ شُعاعِيَّةٌ تَراكُمِيَّة	cumulative radiation dose
+جُرْعَةٌ ضَخْمَة	megadose
+جرعة ضوئية حيوية	photobiological dose
+جرعة طارئة	dose, emergency
+جرعة طارئة	emergency dose
+جُرْعَةٌ عَتَبِيَّة	threshold dose
+جُرْعَةٌ عَتَبِيَّةٌ حُمامَوِيَّة	threshold erythema dose
+جرعة عرضية	accident dose
+جرعة عظمى مقبولة	maximum permissible dose
+جُرْعَةٌ عِلاَجِيَّة	therapeutic dose
+جرعة عمق	depth dose
+جرعة عُمقية	depth dose
+جَرْعة عميقة	depth dose
+جرعة فردية مكافئة	(biologically) equivalent single dose
+جرعة فعالة	effective dose
+جُرْعَةٌ فِيتامينيَّةٌ ضَخْمَة	megavitamin
+جرعة قاتلة	dose, fatal = lethal dose
+جُرعَة قاتِلة	lethal dose
+جُرْعَة قُصْوَى	maximal dose
+جرعة كلية	integral dose
+جرعة كلية	volume dose
+جرعة لكامل الجسم	whole body dose
+جُرْعَةٌ مُؤَثِّرَة	dosis efficax
+جُرْعَةٌ مُؤَثِّرَة	effective dose
+جرعة مؤثرة وراثيا	genetically significant dose
+جُرْعَةٌ مُؤَثِّرَةٌ وَسَطِيَّة	median effective dose
+جُرْعَةٌ مارِطَة	epilating dose
+جَرْعَة متراكِمَة	accumulated dose
+جرعة متراكمة	cumulative dose
+جرعة محلية	local dose
+جرعة محيطية	ambient dose
+جرعة مستوعبة	absorbed dose (in toxicology)
+جُرْعة مَسْموح بِها	permissible dose
+جُرْعَةٌ مُضاعَفَة	doubling dose
+جُرْعَةٌ مُعْدِيَة	infective dose
+جُرْعَةٌ مُعْدِيَةٌ وَسَطِيَّة	median infective dose
+جُرْعَةٌ مُعَزِّزَة	booster dose
+جرعة معززة	dose, booster
+جُرْعة مُفْرِطة	overdose
+جرعة مقبولة	permissible dose
+جُرْعَةٌ مُقَسَّمَة	divided dose
+جرعة مُكافئة	equivalent dose
+جُرْعَةٌ مُمْتصَّةٌ	absorbed dose
+جرعة ممتصة	absorbed dose (in radiation)
+جرعة ممتصة تكاملية	integral absorbed dose
+جرعة ممتصة متراكمة	cumulative absorbed dose
+جُرْعَةٌ مُمَنِّعَة	immunizing dose
+جُرْعَةٌ مُمِيْتَة	fatal dose
+جُرْعَةٌ مُميتَة	lethal dose
+جُرعة مميتة	lethal dose (LD)
+جرعة مميتة للنصف	median lethal dose
+جرعة مميتة للنصف	MLD
+جرعة مودعة	Committed Dose
+جرعة نسيجية	skin dose
+جُرْعَةٌ نَسيْجِيَّة	tissue dose
+جرعة هوائية	air dose
+جُرْعَة وَحِيدَة	single dose
+جُرْعَةٌ وُسْطَى	average dose
+جرعة وسطية مميتة	median lethal dose (abbreviations: MLD or LD50)
+جُرْعَةٌ يَومِيَّة	daily dose
+جُرْعَةٌ يَومِيَّة	diurnule
+جرعة يومية مقبولة	acceptable daily intake (adi)
+جرعة, الكشف عن الغاز	dose,
+جَرْعة. وبخاصة: جَرْعة من دواء أو سُمّ	potion
+جرميترين	germitrine
+جريان الحقن	injection flow
+جَرِيْش	rasion
+جُزَيء مُنشَّط	activated molecule
+جزىء منشَّط	activited molecule
+جِسْر معلَّق مقوَّى	stiffened suspension bridge
+جُسيْم دُون المَيْكرُون	ultramicron
+جُسَيم لامِيكروني	amicron
+جِعَة البِيْسِيَة: شراب مُسْكِر يُصْنَع	spruce beer
+جعة الجذور: شرابٌ مُنكَّهٌ بخلاصات الجذور	root beer
+جَلاَبِيَة	julep
+جَمْعِيَّةٌ صَيْدَلانِيَّة	pharmaceutical society
+جُمْلون مُقوّى بالشُّكُل	braced truss
+جنتاميسين	gentamicin
+جنتاميسين	gentamycin
+جنتروجينين	gentrogenin (botogenin)
+جِهازُ التَّخْديرِ الاسْتِنْشاقِيّ	inhalation anesthesia apparatus
+جَهَازُ التَّخْديرِ التَّنَفُّسِيّ	anesthesia-breathing system
+جهاز تحكم	beeper
+جِهاز حَقْن الشُّحْنَة	charge-injection device
+جهاز حقن بالهواء	air-injection system
+جهاز رويتلنجن لقياس درجة التحبب	Reutlingen pill grade
+جهاز قياس قدرة الجرعة المُمتّصة	absorbed dose rate meter
+جهاز منشط فك الارتباط	activator dissociation system
+جوز مسهل	candleberry; candelenut
+جوساميسين	josamycin
+جيبريلين	gibberellin
+جيتالوكسين	gitaloxin
+جيتالين	gitalin
+جيتوكسيجينين	gitoxigenin
+جيتوكسين	gitoxin
+جيرمانين	germanin (suramin sodium)

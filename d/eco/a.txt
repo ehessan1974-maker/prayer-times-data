@@ -1,0 +1,377 @@
+A2C administration-to-consumer	إدارة لمستهلك A2C
+AAL operator; active assisted living operator	مشغل المساعدة الفعالة للمعيشة
+AAL service agreement; active assisted living service agreement	عقد خدمات فعالة مساعدة للمعيشة
+AAL service provider; active assisted living service provider	مورد الخدمة للمساعدة الفعالة للمعيشة
+AAL service; active assisted living service	الخدمات الفعالة المساعدة للمعيشة
+AAL technical assistant; active assisted living technical assistant	الدعم الفني للمساعدة الفعالة للمعيشة
+AAL use case; active assisted living use case	حالة استخدام للمساعدة الفعالة للمعيشة
+AAL, adj; active assisted living, adj	المساعدة الفعالة للمعيشة (صفة)
+AAL; active assisted living; DEPRECATED: ambient assisted living	المساعدة الفعالة للمعيشة
+abate	(1) يُلغي؛ يُبْطِل (2) يضع حدًّا لِـ (3) يُنقص؛ يخفِّف؛ يخفّض [ضريبة إلخ] (4) يُسْقِط؛ يَحْسم (5) يهدِّئ؛ يُسَكِّن؛ يُخْمِد؛ يَحْسُر (6) يَحْرِم (7) يَهْدأ؛ يَسْكن؛ يَخْمُد؛ ينحسر (8) يَنْقُص [من حيث المقدار أو القيمة] (9) يصبح لاغيًا.
+abatement	(1) مص abate (2) التخفيض: مبلغ يُلغى من الضريبة. plea in abatement : طلبُ بُطلان الدعوى (ق).
+abdominal vertebrae (vertebrae lumbales)	الفِقْراتُ البَطْنِيَّة ( الفِقْراتُ القَطَنِيَّة)
+ABIOS	نظام الدخل/الخرج القاعدي المتطوّر
+about	(1) حول a fence about the garden (2) «أ» حوالى؛ نحو about an hour. «ب» تقريبًا about frozen (3) هنا وهناك؛ في مَواطنَ عدة The rumor was about that he was sick. (4) على مقربة؛ في الجوار There's no one about . (5) «أ» بالاتجاه المعاكس to face about . «ب» بالترتيب المعاكس the other way about (6) في المتناوَل had no money about him (7) على وشك أن about to speak (8) عن؛ بشأن a story about a lion (9) ناشط؛ مستيقظ. to be up (or out) and about : يغادر الفراش ويزاول عمله [بعد مرض].turn and turn about : واحدًا بعد آخر؛ بالدَّور.
+above, beyond or without price	لا يُثَمَّن؛ لا يقدَّر بمال؛ نفيس إلى درجة تجعل المرء عاجزًا عن شرائه.
+absolute poverty	فقر مطلق
+absolute poverty line	خط الفقر المطلق
+absolute responsibility; absolute liability	مسؤولية مُطْلَقة
+absorption econometer	ايكونومِتر امتِصاصي
+abulia	فَقْدُ الإرادَة / عجز الإرادة
+abuse of company's assets	إساءة استعمال أموال الشركة
+abyssal deposit	راسب غوري سحيق
+abyssal deposits	قُراراتٌ غَوْريَّة، رَواسِبُ غَوْريَّة
+abyssal deposits	رواسب سحيقة
+acceptable daily intake	المَدْخولُ اليَومِيُّ المَقْبول
+access economy	اقتصاد الوصول
+access rate	تَعْرفة الوُلُوج
+accessory commercial acts	أعمال (ال..) التجارية التبعية
+accommodation	(1) «أ», كلّ ما يؤمِّن الراحة أو يُشبع الحاجة، مثل: «ب» pl.: التسهيلات؛ أسباب أو وسائل الراحة والتسلية [بما فيها المبيت والطعام]. «ج» قطار إلخ يقف في جميع المحطات تقريبًا. «د» قرض (2) «أ» تجهيز؛ تزويد. «ب» تكييف؛ تكيُّف. «ج» توفيق؛ ملاءَمة؛ تسوية [للخلافات] (3) مجاملة (4) المطابقة: تكَيُّف العين، على نحو آليّ، مع المسافات المختلفة (فس) (5) كمبيالة الإسعاف أو المجاملة (تج).
+account	حِساب، بَيانُ حِساب؛ تَقرير؛ أَهَميَّة؛ عَلَّل؛ قَدَّم بَيانًا عن / 1 حساب (محاسبة) ؛ 2 حساب [لمستخدم] / حِسَاب / حساب
+account book	دفتر الحساب؛ دفتر المحاسبة.
+account book	دَفتَرُ حِسابات، دفترُ مُحاسَبة
+accountability	مَسؤوليَّة (وإمكانِيّةُ المُحاسَبة عليها)؛ إمكانيَّة التعليل (أو الشّرح) / مسؤولية
+accountability (admin.); liability (admin.)	التزام (قانونىّ، إدارىّ)
+accountability / liability / responsibility	مسؤولية
+accountable	(1) مسؤول؛ عُرْضةٌ للمحاسبة (2) قابل للتفسير؛ قابلٌ للتعليل.
+accountancy	المُحاسَبة، عِلْمُ المُحاسَبة
+accountancy	المحاسَبة؛ علم المحاسَبة.
+accountant	(1) المسؤول؛ المعرَّض للمحاسبة (2) المحاسِب [في شركة].
+accountant	مُحاسِب، كاتِبُ حِسابات
+accountant	محاسِب
+accountant, chartered	مُحاسِبٌ مُجاز
+accounting	مُحاسَبة / مُحَاسَبة
+accounting	المحاسَبة؛ علم المحاسبة.
+accounting	محاسَبة
+accounting	محاسبة / فاتورة
+accounting department	قسم الحسابات
+accounting document	وَثيقَة مُحَاسَبة
+accounting file	ملفُّ مُحاسَبة
+accounting machine	مَكَنةٌ حاسِبة؛ آلة حاسبة / مكنة مُحَاسَبَة / 1 آلة محاسبة ؛ 2 آلة محاسبة
+Accounting management	تسيير الحسابات
+accounting package	رزمة محاسبة / بَرْمَجِيَّةُ مُحَاسَبَةٍ
+accounting period	الفَتْرةُ الحِسابيَّة
+accounting period	فَتْرَةُ المُحاسَبَة
+Accounting Rate of Interest (Ari)	سعر الفائدة الحسابي
+accounts	حِسابات؛ مُحاسَبة
+Accredited Investor	مستثمر معتمد
+accumulated down time	فترة الركود التراكمي
+accumulation, commercial	رِكازٌ تِجاري
+accumulation; deposit	تَرسُّب
+achlorhydric anemia (achylic anemia)	فَقْرُ الدَّمِ اللاهيدروكلوريكيّ ( فَقْرُ الدَّمِ بِفَقْدِ عُصَارَةِ المَعِدَة)
+achrestic anemia	فَقْرُ الدَّمِ النَّاجِمُ عن تَعَذُّرِ الاسْتِعْمَال
+achylic anemia	فَقْرُ الدَّمِ النَّاجِمُ عن فَقْدِ عُصَارَةِ المَعِدَةِ
+acinesia	عجز عن الحركة
+acquired functional megacolon	تَضَخُّمُ القَوْلُوْنِ المُكْتَسَبُ الوَظيفِيّ
+acquired hemolytic anemia	فَقْرُ الدَّمِ الانْحِلالِيُّ المُكْتَسَب
+acquired megacolon	تَضَخُّمُ القَوْلُوْنِ المُكْتَسَب
+acquired sideroachrestic anemia	فَقْرُ الدَّمِ المُكْتَسَب النَّاجِمُ عن تعذُّر استعْمَالِ الحَدِيْد
+Acquisition Price	سعر الاقتناء
+Acquisitions Approach (to CPI)	نهج الاستحواذ للرقم القياسي لأسعار المستهلك
+Acquisitions Less Disposals of Non-produced Non-financial Assets	الأصول غير المالية غير المنتجة مخصوما منها المتخلص منها
+Acquisitions of Non-produced Non-financial Assets Less Disposals of Such Assets.	احتياز الأصول غير المالية غير المنتجة مخصوماً منها الأصول المتخلص منها
+Acquisitions of other Tangible Non-produced Assets Less Disposals of Such Assets	احتياز الأصول غير المنتجة الملموسة الأخرى مخصوماً منه الأصول المتخلص منها
+acromegaly	ضَخامةُ النِّهايات، عَبلُ الأطراف / عَبَل / تضخم الأطراف
+act of commerce	عمل تجاريّ
+act of commerce by nature	عمل تجاري بالطبيعة
+action	(1) دعوى؛ قضيّة [أمام المحاكم] (2) قرار (3) تأثير؛ أثر (4) الأداء: طريقة العمل أو أسلوبُه (5) تغوُّط؛ تبرُّز (6) عملٌ؛ فعلٌ (7) نشاط؛ فعّاليّة (8) تصرُّف؛ سلوك (9) مُبادَرة (10) معركة (11) العَمَل: سلسلة أحداث الرواية أو المسرحية (12) سَهْم ماليّ (اد). killed in action : قُتِل في المعركة.out of action : (1) غير عامل (2) خارجَ القتال.to go into action : يَشْرع في القتال.to put (or set) in action : يشغِّل؛ يحرِّك؛ يستخدم.to take action : يَشْرع في عملٍ ما.to take (or bring an) action against : يقيم الدعوى على.
+actionary	مُساهِم، صاحِبُ حِصَّةٍ في الشرِكة
+active deposit	متوضِّع نشط، متوضِّع فعّأل
+active deposit	راسِبٌ نَشِط
+active deposit	راسب نشط
+Active power reduction	تخفيض استهلاك الطاقة النشطة
+Actual Collective Consumption	الاستهلاك الجماعي الفعلي
+Actual Final Consumption of General Government	الاستهلاك النهائي الفعلي للحكومة العامة
+Actual Final Consumption of Households	الاستهلاك النهائي الفعلي / الاستهلاك النهائي الفعلي للقطاع العائلي
+acute anemia	فَقْرُ الدَّمِ الحادّ
+acute hemolytic anemia	فَقْرُ الدَّمِ الانْحِلالِيُّ الحادّ
+acute lymphadenosis	تَضَخُّم عُقْدِيٌّ لِمْفِيٌّ حادّ
+acute megacolon (acute dilatation of colon)	تَضَخُّمُ القَوْلُوْنِ الحَاد ( تَوَسُّعُ القُولُونِ السُّمِّيّ)
+acute posthemorrhagic anemia	فَقْرُ الدَّمِ الحادِّ التَّالِي للنَّزْف
+Ad Valorem	قيمة مقدرة للبضائع
+ad valorem	قِيْمِيّ: محسوب على أساس القيمة المنصوص عليها في الفاتورة.
+ad valorem (customs)	رسم (جمركي)
+ad valorem tax	ضريبة الإِنتاج
+adaptation deficit	عجز التكيف
+adaptive air suspension (Audi) (AAS)	نظام التعليق الهوائي التواؤمي (AAS) من شركة آودي Audi
+adaptive hypertrophy	تَضَخُّمٌ تَلاَؤُمِيّ
+added value	قِيمَةٌ مضافة
+Added Value; Value-Added Benefits	قيمة مضافة
+Addison's anemia (pernicious anemia)	فَقْرُ الدَّمِ الأديسوني ( فَقْرُ الدَّمِ الوَبيل)
+Addison-Biermer anemia (pernicious anemia)	فَقْرُ الدَّمِ بحَسَبِ أديسون بيرمر ( فَقْرُ الدَّمِ الوَبيل)
+addisonian anemia (pernicious anemia)	فَقْرُ الدَّمِ بحَسَبِ أديسون ( فَقْرُ الدَّمِ الوَبيل)
+additional expenses	مصاريف إضافية، نفقات إضافية
+Additional Wage of the paid worker	الأجر الإضافي للمشتغل بأجر
+adenia	تَضَخُّمُ العُقَدِ اللِّمْفِيَّة
+adenomegaly	تَضَخُّمُ الغُدَد / ضُخام غديّ، ضُخام عُقَديّ
+adenopathy (lymphadenopathy)	تَضَخُّمُ العُقَدِ اللِّمْفِيَّة؛تَضَخُّمُ الغُدَد
+adiadocokinesis	لاتناوبية الحركات (عجز الحركة التواترية)
+Adjusted Disposable Income	الدخل المعدل المتاح للتصرف به
+administrative expenses	نَفَقاتٌ إداريَّة
+administrative fines provision	قانون الغرامة المالية
+Administrative Prices	أسعار إدارية
+administrative responsibility; administrative liability	مسؤولية إدارية
+administrative sanctions	جزاءات إدارية
+adrenal struma (adrenal hyperplasia)	سِلْعَةٌ كُظْرِيَّة ( فَرْطُ تَنَسُّجِ الكُظْر)
+adulteration	(1) مَذْق؛ غِشّ (2) سلعةٌ مغشوشة.
+adventure	(1) مغامَرة؛ مُجازَفة؛ مخاطَرة (2) خبرة أو تجربة مثيرة (3) مغامرة مالية (4) يُغامِر؛ يجازف؛ يُخاطر.
+advertising	(1) الإعلان عن السِّلَع (2) إعلانات (3) صناعة الإعلان.
+advice	(1) نصيحة (2) استشارة (3) pl. عد: أنباء. وبخاصة عن التجارة أو الشؤون الخارجية advice s from Italy (4) إشعار (تج).
+aeolian deposit	رواسب ريحية
+aeolian deposits	رَواسِبُ رِيحيَّة، قُرارة رِيحيَّة
+affected by trade (cites)	متأثر بالتجارة (اتفاقية التجارة الدولية بشأن الأنواع المهددة بالانقراض)
+affirm	(1) يُثبت؛ يؤكِّد (2) يُقِرّ [حُكمًا مُسْتأنَفًا]: تصدِّق محكمة عُليا على حكم صادر عن محكمة دُنيا (ق) (3) يَجْزِم؛ يقرِّر (4) يشهد أو يُعْلن مؤكِّدًا [أمام محكمة ولكن من غير قَسَم].
+afford	(1) يتحمّل؛ يُطيق I can't afford the loss of a day (2) يُخاطر (3) «أ» يستطيع شراء شيء can't afford a car. «ب» يقوى على احتمال النفقات (4) يُعْطي؛ يُنتج Olives afford oil. (5) يُزَوِّد بِـ (6) يُقدِّم.
+African American Vernacular English (AAVE)	لهجة الأمريكيّين من أصول إفريقيّة
+African Development Bank (AfDB)	بنك التنمية الأفريقي
+after-tax	تالٍ للضَّريبة an after-tax profit.
+aganglionic megacolon (congenital megacolon)	تَوَسُّعُ القَوْلُوْنِ بانْعِدَامِ العُقَد ( تَضَخُّمُ القَوْلُوْنِ الخِلْقِيّ)
+Age-Price Profile	صورة فاعلية السعر
+agency	(1) قوّة Electricity is a mysterious agency . (2) فِعْل (3) واسطة communicated through the agency of our ambassador (4) «أ» وكالة [تمثِّل شركةً ما]؛ مُمَثِّليّة. «ب» مكتب؛ مؤسَّسة an advertising agency (5) مصلحة؛ قسم إداريّ.
+Agent Marketplace	سوق الوكيل
+agglomeration / deposition / scale deposit	تراكُم
+agglomeration economies	إقتصادات التكتل
+aggradational deposits	رَواسِبُ طَمْيِيَّة أو غِرْيَنيَّة
+Aggregate Consumption	استهلاك كلي
+aggregate expenditures schedule	منحنى النفقات الإجمالية والدخل القومي
+agio	(1) فَرْق القيمة [بين نوع من العملة وآخر] (2) صِرافة (3) عمولة الصِّرافة.
+agiotage	مضاربة في أسواق الأوراق المالية (البورصة)
+agiotage	(1) الصِّرافة (2) المُضاربة [بالأسهم الماليّة].
+agnosia	عَمَه (العَجْزُ عن إدراك مُنَبِّهٍ حِسِّيّ) / العَمَه
+agrarianism	حركة الإصلاح الزراعيّ: حركة تنادي بإعادة توزيع الأراضي الزراعية توزيعًا عادلًا، وبرفع مستوى الفلّاح الاقتصادي.
+Agricultural Consumer	مستهلك زراعي
+agricultural origins	أصول زراعية
+Agricultural Tariff	تعريفة زراعية
+agronomy	عِلْم الزراعة التطبيقي، اقتصادٌ زِراعي / علم المحاصيل الحقلية / علم الزراعة
+air bricks	آجر مُفرَّغ، مُخرَّم للتهوية / آجور أجوف، قرميد أجوف
+air cargo tariff (ACT)	تعريفة النقل الجوي حسب تسعيرة منظمة الطيران العالمية
+air consumption	استِهلاك الهَواء
+air gas = producer gas	غازُ المولِّدات
+air trade	تجارة جوّيّة
+aircraft pallet	منصة بضائع الطائرة
+airline	(1) خطّ جوّيّ (2) شركة خطوط جوية.
+airline	شَرِكةُ خطوطٍ جَوِّيَّة، شرِكة طيران؛ خَطٌّ جَوِّي
+airline markings	علامة الشركة، رمز الشركة (على المركبة)
+airport service charge	ضريبة المطار
+airway	(1) مَنْفَذ هواء [في مَنْجم أو إلى الرئتين] (2) «أ» خطّ جوّيّ. «ب» شركة ملاحة جوية.
+aitchbone	عَظْم العَجُز: «أ» عَظْم العَجُز في الماشية بخاصة. «ب» قطعة من لحم البقر تشتمل على عظم العَجُز.
+Al-Sour Fuel Marketing Company	شركة السور لتسويق الوقود
+ala of the sacrum (pars lateralis ossis sacri)	الجَنَاحُ العَجُزِيّ ( الجُزْءُ الوَحْشِيّ لِعَظْمِ العَجُز)
+ala sacralis NA (pars lateralis ossis sacri)	الجَناحُ العَجُزِيّ ( الجُزْءُ الوَحْشِيُّ لِعَظْمِ العَجُز)
+ala sacri (pars lateralis ossis sacri)	الجَناحُ العَجُزِيُّ ( الجُزْءُ الوَحْشِيُّ لِعَظْمِ العَجُز)
+alar process of sacrum (crista sacralis lateralis)	النَّاتِئُ الجَناحِيُّ للعَجُز ( العُرْفُ الوَحْشِيُّ لِلعَجُز)
+aleukemic lymphadenosis	تَضَخُّم عُقْدِيٌّ لِمْفِيٌّ لاابْيِضاضِيّ
+alexia	اللّاقِرائية؛ العمى القِرائيّ: اضطراب مُخّيّ يتميّز بالعجز عن القراءة (ط).
+algal blooms	ازدهار الطحالب
+Alignment Tax	تكلفة المواءمة
+alkali deficit (base deficit)	نَقيصَةُ القَلَوِيّ (نَقيصَةُ القاعِدَة)
+all freight ship	سفينة بضائع متنوعة
+all-important	فائق الأهمية؛ بالغ الأهمية.
+all-in tariff	تعريفة كل الاستخدامات؛ تعرفة شاملة / تعريفة موحدة
+allochthonous deposits	رواسب دخيلة
+allochthonous deposits	رَواسِبُ دَخيلة
+allowable deficiency	عَجْز مسموح
+allowance	إعانة / بدل
+allowance market; emission allowance market	سوق شهادات إطلاق الانبعاثات
+alluvial deposit	غير موجود الترجمة بالمعجم
+alluvial deposit (alluvium)	طمي أو رسوبيات
+alluvial deposits	رواسِبُ طَمْيِيَّة (أو طَمْوِيَّة)
+alluvial deposits	رواسب غَرِينِيَّة / رواسب طميية، توضعات طميية
+alluvial ore deposit	قَرَارَة خام طَمْيِيّة
+Alteration in Assets and Liabilities	التغير في الأصول والالتزامات
+ambient charge	ضريبة المحيط
+ambilevosity	عَفَك (العَجْزُ عَنِ اسْتِعْمالِ أيّ منَ اليَدَينِ بِمَهارَة)
+Amblypygi	رتبة كليلات العجز
+amendment proposal (cites)	اقتراح تعديل (اتفاقية التجارة الدولية بشأن الأنواع المهددة بالانقراض)
+ameripol	أمريبول ( اسم تجاري لسلسلة من المطاط الاصطناعي)
+AMIL gate / AVIO gate / AVIS gate	بوابة 'أميل'/ بوابة 'أفيو' (إنتاج شركة نيربيك)
+amortisseur = damper	مُخمِّد، مضائل
+amortisseur winding	لفيفَةٌ مُخَمِّدة
+amortization	استهلاك القيمة / استهلاك الدين
+amortization	(1) استهلاك الدَّين: إيفاء الدَّين بإفراد مبالغَ دَوْرية تخصَّص لذلك (2) المال المخصّص لذلك.
+amortization	استهلاك / مال مخصص إلى التسديد
+amortization	استِهلاكُ القيمة (بمبالِغَ دَوْرية)؛ استِهلاك الأصول النَّقديَّة
+amortization (of a debt)	اِستهلاك (الدَّين) بدُفعات دَوريَّة
+amortization of shares	استهلاك الأسهم
+amortize	يستهلك
+amortize	يستهلك الدَّينَ [بإفراد مبالغَ دوريةٍ لتسديده].
+amortizement	= amortization
+an(a)emia	أنِيميَة، فَقرُ الدم، شُحاب
+anabiosis	ركود حياتي / رجعة
+anaemia	فقر الدم / أنيمية - فقر الدم
+anaemia	فقر الدم
+anaemia (anemia)	فَقْرُ الدَّم
+anaemia, dirt-eater's	فقر الدم (أنيمية) المَغْل
+analog input unit	وحدة دخل تناظرية
+analogue input signal; analog input signal, US	اشارة دخل تناظرية
+anathema	(1) الحِرْم: معاقبة الأسقفِ امرءًا مؤمنًا بمنعه من شركة المؤمنين (كن) (2) المحروم: المُخْضَع للحِرْم الكَنَسي (3) شيء بغيض (4) لعنة.
+Ancillary Activities and Breaks Related to Employment	الأنشطة الإضافية وفترات الراحة المتعلقة بالعمالة
+ancylostoma anemia	فَقْرُ الدَّمِ الأنكلوستوميّ المَنْشَأ
+ancylostomiasis	داء الأنسيلوستوما؛ داء المَلْقُوّات: فقر دمٍ حادّ ناشئٌ عن الديدان الطُّفيليّة (مض).
+anemia	فَقْرُ الدَّم
+anemia	فقر الدم
+anemia	(1) الأنيمية: فَقْر الدَّم (2) فَقْدُ الحَيَوية.
+anemia = anaemia	أنيميَة، فَقْرُ الدم، شُحاب
+anemia achylica	فَقْرُ الدَّمِ النَّاجِمُ عن فَقْدِ عُصَارَةِ المَعِدَةِ
+anemia hypochromica sideroachrestica hereditaria	فَقْرُ الدَّمِ النَّاقِصُ الصِّباغِ الوِراثِيُّ النَّاجِم عَن تَعَذُّرِ اسْتِعْمالِ الحَديد
+anemia neonatorum	فَقْرُ الدَّمِ الوَليدِيّ
+anemia pseudoleukemica infantum	فَقْرُ دَمِ الابْيِضاض الكاذِبِ الرَّضيعِيّ
+anemia refractoria sideroblastica	فَقْرُ الدَّمِ الحَرُونُ الحَدِيْدِيُّ الأَرومَات
+anemia splenetica	فَقْرُ الدَّمِ الطِّحالِيُّ المَنْشَأ
+anemia test	اخْتِبارُ فَقْرِ الدَّم
+anemia; anaemia	أنيمْيا، فقر الدم
+anemia; anaemia	فقر دم
+anemic halo	هالَةُ فَقْرِ الدَّمِ
+anemic headache	صُداعُ فَقْرِ الدَّم
+anemic murmur	نَفْخَةُ فَقْرِ الدَّم
+anemic softening	تَلَيُّنُ فَقْرِ الدَّم
+angel	(1) مَلاك (2) امرأة أو طفل كالملاك جمالًا أو براءَةً (3) الرسول؛ البشير (4) المموِّل [أو الداعم بنفوذه] مسرحيةً أو حملةً أو مُرَشّحًا (ع) (5) الملائكية: عملة ذهبية إنكليزية قديمة (6) طائرة عَدُوّة.
+angioimmunoblastic lymphadenopathy	تَضَخُّمُ العُقَدِ اللِّمْفِيَّةِ ذو الأَرُوماتِ المَناعِيَّةِ الوِعائِيَّة
+angle of bank	زاوية العطوف
+angle of roll = angle of bank	زاويةُ العُطُوف
+angle recession	انْحِسارُ الزَّاوِيَة (في الغرفة الأمامية للعين)
+angle-recession glaucoma	زَرَقُ انْحِسارِ الزَّاوِيَة
+anhematopoietic anemia (aplastic anemia)	فَقْرُ الدَّمِ النَّاجِمُ عَنْ تعذُّر التَّكَوُّن ( فَقْرُ الدَّمِ اللاَّتَنَسُّجِيُّ)
+anhemopoietic anemia (aplastic anemia)	فَقْرُ الدَّمِ النَّاجِمُ عَنْ تعذُّر التَّكَوُّن ( فَقْرُ الدَّمِ اللاَّتَنَسُّجِيُّ)
+annual budget	ميزانية سنوية
+annual costs	نفقات سنوية ثابتة
+Annual Foreign Investment in Telecommunications	الاستثمار الأجنبي السنوي في الاتصالات
+Annual investment in communication services	الاستثمار السنوي في خدمات الاتصالات
+Annual investment in intangible assets	الاستثمار السنوي في الأصول غير الملموسة
+annuity	السُّناهيّة: «أ» دَخلٌ أو مبلغ ماليّ يتلقّاه المرء سنويًا مدى الحياة عادة. «ب» حقّ تلقّي السُّناهيّة. «ج» عقدٌ يقضي بدفع سُناهيّة معيّنة.
+annuity	سَنَاهِيَة، دَخْلٌ سَنَويّ، دُفْعَة سنويَّة / دفعة سنوية
+anode input power	قدرة دخل المصعد
+ansa sacralis	عُرْوَةُ العَجُز
+antenna (input) admittance	سماحية (الدخل ) لهوائى
+antenna (input) impedance	معاوقة (الدخل ) لهوائى
+anterior surface of sacrum	السَّطْحُ الأَمامِيُّ للعَجْز
+Anti-Commercial fraud department	قسم مكافحة الاحتيال التجاري
+anti-trade	مِضاد الرياح التجارية
+antianemic	مُضادُّ فَقْرِ الدَّم
+antiglobulin consumption test	اخْتِبارُ اسْتِهلاكِ أَضْدادِ الغلوبولين (لتحري وجودالأَضْدادِ على جدار الخلية)
+antispeculation	مُضادّ للمضاربة [في البورصة].
+antitrust	مُضادُّ الاحْتِكار
+antitrust laws	قوانين مكافحة الاحتكار
+apex ossis sacri NA	قِمَّةُ عَظْمِ العَجُز
+apex sacrum (apex ossis sacri NA)	قِمَّةُ عَظْمِ العَجُز
+aplastic anemia	فَقْرُ الدَّمِ اللاتَنَسُّجِيُّ
+aplastic myelosis (aplastic anemia)	كَثْرَةُ النِّقَوِيَّاتِ اللاتَنَسُّجِيَّة ( فَقْرُ الدَّمِ اللاتَنَسُّجِيّ)
+appearance of the parties	حضور الأطراف، حضور الخصوم
+application for marketing autorisation	طَلَبُ رُخْصَة التسْوِيق
+applied geology	الجيولوجيةُ التطبيقية، الجيولوجية الاقتصاديَّة / جيولوجيا (ال...) التطبيقية / جيولوجيا (...) التطبيقية
+apprentice	(1) «أ» الغُلام المُمَهَّن: صبيّ يُمَرَّن، عند صانع ما، على حرفة ما، وفقًا لشروط عقدٍ. «ب» المتمهِّن: من يتعلَّم بالاختبارالعمليّ صنعة أو فنًّا على أيدي عمّال بارعين (2) المبتدئ؛ شخص قليل الخبرة (3) يُمَهِّن: يجعلُهُ غلامًا مُمَهَّنًا أو متلقّيًا أصول الصنعة عن صانعٍ متمرِّس His father apprentice d him to a carpenter.. (1) «أ» الغُلام المُمَهَّن: صبيّ يُمَرَّن، عند صانع ما، على حرفة ما، وفقًا لشروط عقدٍ. «ب» المتمهِّن: من يتعلَّم بالاختبارالعمليّ صنعة أو فنًّا على أيدي عمّال بارعين (2) المبتدئ؛ شخص قليل الخبرة (3) يُمَهِّن: يجعلُهُ غلامًا مُمَهَّنًا أو متلقّيًا أصول الصنعة عن صانعٍ متمرِّس His father apprentice d him to a carpenter..
+approval	موافَقَة؛ استحسان؛ تصديق على.goods on approval : (1) سِلَعٌ للتجربة: سِلَعٌ قابلة للإرجاع إن لم تُعْجِب.n.موافَقَة؛ استحسان؛ تصديق على. (2) n.موافَقَة؛ استحسان؛ تصديق على.
+apron conveyor (1)	ناقل بضاعة ذو سير دوار (1)
+apron conveyor (2)	ناقل بضاعة ذو سير دوار (2)
+arabian export crude, (A.E.C.)	خام التصدير العربي
+Arabian Oil Company	شركة الزيت العربية
+Arable Land Per Capita	الأراضي الصالحة للزراعة لكـل فرد
+arbitrage	موازنة سعر الصَّرف (اد).
+arbitrage of exchange	موازنة سعر الصّرْف (مج): عملية تقوم بها البنوك من طريق شراء الأوراق الأجنبية موضوع الصّرْف من الجهات التي هبطت فيها أثمانها وبَيْعها، في الوقت نفسه تقريبًا، في الجهات التي ارتفع فيها السعر.
+architectural	مِعماريّ: «أ» خاصّ بفنّ العمارة أو منطبق على أصول هذا الفنّ. «ب» مُتَّسِمٌ بخصائص فنّ العمارة.
+Arctic anemia (polar anemia)	فَقْرُ الدَّمِ القُطْبِيّ
+area wage adjustor	تَعْديلُ الأُجورِ المَنْطِقِيّ (حسب مناطق القطر أو العالم)
+aregenerative anemia (chronic congenital anemia)	فَقْرُ الدَّمِ اللاَّتَجَدُّدِيّ ( فَقْرُ الدَّمِ الخِلْقِيُّ المُزْمِن)
+argosy	(1) سفينة تجارية كبيرة (2) أسطول تجاريّ.
+armamentarium	(1) عُدّة الطبيب (2) طاقات؛ إمكانات (3) ثروة (4) ذخيرة (5) أداة.
+armory	(1) أسلحة (2) ذخيرة؛ ثروة (3) مستودع أسلحة (4) مَصْنع أسلحة.
+arrival notice of goods	إشعار وصول البضائع
+arse	(1) الكَفَل؛ العَجُز (2) ال?سْت.
+art	فن، مهارة عملية، صناعة فنية؛ أُصول
+artel	الأَرْتَل: تعاونية سوفياتيّة للعمال أو للفلاحين.
+arteriola glomerularis efferens NA	الشُّرَينُ الكُبَيبِيُّ الصَّادِر (في الكُلْوَة)
+article	سلعة / مادة، فَصْل
+articles of association	نظام (أو قانون) الشركة الأساسي
+Articles Of Incorporation	عقد تأسيس شركة
+articles of partnership	نظام (ال..) الأساسيّ للشركة، عقد تأسيس الشركة
+articular sacral crest (crista sacralis intermedia)	العُرْفُ المَفْصِلِيُّ للعَجُز ( العُرْفُ المُتَوَسِّطُ لِلعَجُز)
+artist	(1) «أ», الفنّان: «ب» المشتغل بالفنّ، رسّامًا كان أو نحّاتًا أو ممثلًا أو مغنّيًا إلخ. «ج» من يتكشَّف في عمله عن ذوق فنّيّ رفيع (2) المخادع؛ المحتال.
+asacria	انْعِدامُ العَجُز
+ascendants (the ..)	أصول (ال..)
+ascending processes of vertebrae	النَّواتِئُ الصَّاعِدَةُ للفِقْرات
+Asia-Pacific Economic Cooperation	مُنتدى التعاون الاقتصادي لدول آسيا والمحيط الهادئ (APEC)
+Asian Development Bank (ADB)	بنك التنمية الآسيوي (ADB)
+asiderotic anemia (iron deficiency anemia)	فَقْرُ الدَّمِ النَّاجِمُ عَن عَوَزِ الحَديد
+asphalt deposits	رواسب اسفلتية
+assess	خمّن، قدّر؛ أخضعَ للضريبة
+assess	(1) يحدِّد نسبة ضريبةٍ إلخ أو مقدارَها (2) «أ» يَفْرِضُ ضريبة إلخ وفقًا لنسبة معيَّنة. «ب» يُخْضع لضريبة أو رسمٍ (3) يخمّن أو يقيّم [الممتلكات أو الدخل لأغراضٍ ضريبيَّة] (4) يقيِّم: يقدِّر بالدراسة النقدية طبيعة شيء أو أهمّيّته أو كفاءته أو قيمته.
+assessed taxes	ضَرائبُ مُخَمَّنة، رُسومٌ مُقَدَّرة
+assessment	(1) مص assess وبخاصة: تخمين أو تقييم [الممتلكات أو الدخل لأغراضٍ ضريبيّة] (2) القيمة الضريبيَّة المقدَّرة: ضريبة (3) تقييم؛ تقدير.
+assessor	(1) المساعد المُسْتشار؛ مساعد القاضي (2) القاضي (3) مخمِّن الضرائب.
+asset (comm.)	أصول المُنشأة / أصول مشروع
+Asset / Liability Principle	مبدأ الأصول/ الخصوم
+Asset Boundary for Fixed Assets	حد الأصل للأصول الثابتة
+asset erosion	تآكل الأصول / استهلاك، فقد الأصول
+Asset Specificity	خصوصية الأصول
+Asset Utilization	استخدام الأصول
+Asset Value	قيمة الأصول
+assets	(1) أصول؛ موجودات (تج) (2) أموال التَّرِكة (ق).
+assets	مَوجودات، أُصُول / مَوْجُودات، أُصُول / الأصول
+assets	أصول
+assets	أصول، موجودات / أصول
+assets and liabilities	أصول (ال..) والخصوم
+assignment	(1) مص assign (2) «أ» وظيفة؛ مهمّة؛ واجب محدَّد. «ب» درسٌ مفروض على الطلّاب What is today's assignment ? (3) تخلٍّ عن؛ تنازلٌ عن [ممتلكاتٍ إلخ وبخاصةٍ سدادًا لديون الدائنين].
+assignment / order (commercial)	تكليف
+assimilation pelvis	حَوضٌ مُلْتَحِمُ العَجُز
+assimilation sacrum	عَجُزٌ تَمَثُّلِيّ
+assize	(1) قانون. وبخاصة: قانون يحدّد الموازين والمكاييل أو أسعار السِّلع المبيعة في السوق (2) معيار ثابت (3) تحقيق قضائي (4) جلسة [تعقدها هيئة قضائية أو إدارية] (5) «أ» pl. عد: جلسات دورية [يعقدها في كل إقليم من الأقاليم الإنكليزية قضاةُ محكمة عليا للفصل في الدعاوى المدنية والجنائية]. «ب» مكان أو زمان انعقاد مثل هذه المحكمة. «ج» المحكمة نفسُها.
+association / company	شركة
+association, articles of	نِظامُ أو قانونُ الشركة الأساسي
+association, deed of	عَقْد أو وثيقةُ تأسيس الشركة
+astrostatic	متعلق بالجُسَيمِ المَرْكَزِيِّ (في مرحلة ركود الخلايا)
+asylum	(1) الحَرَم؛ المَقْدِس: مكان [كالكنيسة] لا تُنتَهَك حرمتُهُ كان المَدينون والمجرمون يَفْزعون إليه في العصور الخالية (2) مَلاذ؛ مُلْتَجَأ آمن (3) حقّ اللجوء السياسيّ [تمنحه للّاجئين السياسيين دولةٌ أو سفارة أو هيئة ذات حصانة ديبلوماسية] (4) «أ» مأوًى [للعميان]. «ب» ملجأ [للأيتام]. «ج» بيمارستان [لمرضى الأمراض العقلية].
+asymmetrical output	دخل غير متناظر
+asynchronous I/O operation	عملية دخل/خرج لامتزامنة
+at any price	بأيّ ثمن؛ مهما كلَّف الأمر.
+at owner's risk	على مسؤولية صاحب البضاعة إلخ.
+athlete's heart	تضخُّم القلب (مض).
+atrophic anemia	فَقْرُ الدَّمِ الضُّمُورِيّ
+attention-deficit hyperactivity disorder	اضْطِرابُ نَقْصِ الانْتِباهِ مَعَ فَرْطِ النَّشَاط
+audit	(1) تدقيق الحسابات: فحص رسميّ للحسابات الجارية (2) بيان تدقيق الحسابات (3) يُدَقِّق [الحسابات] (4) يَحْضُر [الدروس] بوصفه مستمعًا.
+audit	فَحَصَ (الحِسابات)، دَقَّقَ، حَقَّقَ؛ تدقيق، مُراجعةٌ تَدقيقيَّة / تَدْقِيق / تدقيق
+audit	فَحْص، مراجعة، تدقيق / مراجعة (فحص وتدقيق)
+audit	مراجعة
+audit	تَفْتيش / تَدْقِيق
+audit (in computer networks)	المراجعة (فى الشبكات)
+audit (quality assurance)	تحقق (ال...) (ضمان الجودة)
+Audit Ability	قابلية التدقيق
+audit instructions	تعليمات المراجعة
+audit office	ديوان المحاسبة
+audit trail	مسارُ (أو سجلُّ) المُراجعة / نِظَام تَدْقِيق / ملاحقة تدقيقية
+audit; check	تدقيق
+auditing	فَحْصُ الحِسابات / تدقيق؛ تفتيش / تدقيق
+auditing of accounts	مراجعة الحسابات
+auditor	مدقِّق حسابات، مراقِب حسابات
+auditor	فاحِصُ الحسابات، مُدَقِّقُ حسابات؛ مُستَمِع
+auditor	(1) المستمع؛ المُصْغي (2) مدقِّق الحسابات (3) الطالب المستمع [في جامعة] (4) القاضي.
+auditor report	تقرير المراجِع، تقرير المراقِب
+authoritative	(1) رَسْميّ؛ سُلْطويّ: ذو سلطة أو صادرٌ عن سلطة مختصّة authoritative orders (2) آمر؛ جازم؛ ديكتاتوريّ spoke in authoritative tones (3) موثوق: جدير بالاعتماد والقبول authoritative reports; from an authoritative source..
+authorized capital	رأسُ المال المُصرَّح به
+autochthonous deposits	قُراراتٌ مَكانيَّةُ النشأة، رواسِبُ مُتوَطِّنة
+autohemolysis test	اخْتِبارُ الانْحِلاَلِ الدَّمَوِيِّ الذَّاتِيِّ (في فقر الدم الانحلالي الخلقي)
+autoimmune hemolytic anemia	فَقْرُ الدَّمِ الانْحِلالِيُّ بالمَنَاعَة الذَّاتِيَّة / فَقْرُ الدَّمِ الانْحِلالِيُّ النَّاجِمُ عَن المَناعَة الذاتيَّة
+automaker automobile manufacturer motor vehicle manufacturer	شركة صناعة السيارات
+automatic message accounting	automatic toll ticketing انظر
+automatic toll collection system	نظام تعرفة
+automatic toll ticketing	محاسبة تلقائية للرسائل
+automotive supplier	شركة توريد مكونات السيارات
+autopsy	(1) «أ» تشريح الجثّة. «ب» إذن بتشريح الجثة (2) تحليل نقديّ (3) يشرِّح [الجثَّة].
+auxesis	زيادة النمو / تضخم خلويّ
+Available National Income	الدخل القومي المتاح
+available ore surplus	فائضُ الخام المُتاح
+average annual income	مُعَدَّلُ الدَّخْل السنَويّ
+Average Consumption	متوسط الاستهلاك
+average freight rate assessment, (A.F.R.A.)	تقدير متوسط أجور الشحن، تقدير معدل أجور الشحن
+average fuel consumption	متوسط استهلاك الوقود
+Average Fuel Economy of Light Duty Vehicles (km/L)	متوسط اقتصاد الوقود للمركبات الخفيفة (كم / لتر)
+average hourly consumption	مُعدَّل الاستِهلاك السَّاعي
+Average Monthly Wage per Paid Employees	متوسط الأجر الشهري للمشتغلين بأجر
+average price per kWh	متوسط السعر لكل كيلواط ساعة
+Average Prices of Goods and Services	متوسطات أسعار السلع والخدمات
+average revenue	متوسط العائد
+Average Salaries of Future Jobs in the Establishment	متوسط رواتب الوظائف المستقبلية في المؤسسة
+Average Wages of Vacant Jobs in the Establishment.	متوسط رواتب الوظائف الشاغرة في المؤسسة
+Aviation Turbine Kerosene (ATK) or Jet A-1	وقود الطائرات الذي تنتجه شركة كافكو
+avoirdupois weight	نظام أفواردوبْوا: نظامٌ من الموازين يستخدم في بريطانيا وأميركا لوزن جميع السّلع ما عدا الأدوية والمعادن الثمينة والحجارة الكريمة، وهو يَعتبر الباوند أو الرطل الإنكليزي مؤلفًا من 16 أونصة.
+award	(1) يَحْكُمُ له بكذا (2) يَمْنح (3) حُكْم [صادرٌ عن قاضٍ أو هيئة محكَّمين] (4) مكافأة؛ جائزة.
+azoamyly	عَجْزُ اخْتِزانِ الغليكوجين (في الكبد)

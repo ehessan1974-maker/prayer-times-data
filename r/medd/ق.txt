@@ -1,0 +1,111 @@
+قائِسُ الجُرْعات	dosimetrist
+قابِض	astringent
+قابِض	hypocist (astringent)
+قابِض	hypocistis (astringent)
+قابِضٌ مُرْقِئ	styptic
+قَابِلٌ للتَّلْقِيْح	inoculable
+قَابِلٌ للحَقْنِ	injectable
+قَابِلِيَّةُ التَّلْقِيْح	inoculability
+قاتل الألم	painkiller
+قاتين	katine
+قاذف حقن ماغنيترون	magnetron injection gun
+قاعِدَةُ المَرْهَم	ointment base
+قاعِدَةُ بَاسْتيدُو	Bastedo's rule
+قاعِدَةُ فريد	Fried's rule
+قاعِدَةُ كاولِينْغ	Cowling's rule
+قاعِدَةُ كلارْك	Clark's rule
+قاعِدَةُ يونْغ	Young's rule
+قالب محلول	loose mould
+قَانُوْنُ الصَّيْدَلَة	pharmacy act
+قانُونُ الصَّيدَلَة	pharmacy law
+قانون تراكم الجرعات لفون كرفلد	additivity law of von Krefeld
+قَبْلَ الطَّعام	ante cibum
+قُبَيلَ التَّخْدير	subnarcosis
+قدرة الجرعة الممتصة	power of absorbed dose
+قُدرة تخزينية	injection rate; injection capacity
+قَرْحَةٌ بَثَعِيَّة	scorbutic ulcer
+قُرْص	tabella (tablet)
+قُرْص	tablet
+قُرْص	troche (lozenge)
+قُرْص	trochiscus (lozenge)
+قُرْصٌ تَحْتَ الجِلْد	hypodermic tablet
+قُرْصٌ تَحْتَ اللِّسان	sublingual tablet
+قُرْصٌ تَوْزِيْعِيّ	dispensing tablet
+قرص رسومات	graphics tablet
+قُرْصٌ فَمَوِيّ	buccal tablet
+قُرْص فَوَّار	effervescent tablet
+قُرْصٌ للمَصّ	lozenge
+قُرْص لِلْمَصِّ	lozenges
+قُرْصٌ للمَصّ	morsulus (lozenge)
+قُرْصٌ مُتَمَزِّج	tablet triturate
+قُرْصٌ مَضْغوط	compressed tablet
+قُرْصٌ مُغَطَّى بالسُّكَّر	sugar coated tablet
+قُرْص مُلبَّس	coated tablet
+قُرْصٌ مُلَبَّسٌ مِعَوِيّ	enteric-coated tablet
+قُرْصٌ مُنَوِّم	sleeping pill
+قرص, مضغوطة	tablet
+قَطَرَ	dribble
+قَطَّرَ	instill
+قطرات	Droplets
+قَطَرات	guttae [sing.gutta]
+قَطَرَات أُذُنِيَّة	ear drops
+قَطَرَات أَنْفِيَّة	nasal drops
+قَطَرات بَيْلي	Bailly's beads
+قَطَرَات فَمَوِيَّة	oral drops
+قَطَراتٌ للأُذُن	ear drop's
+قَطَراتٌ للأَنْف	nose drops
+قَطَراتٌ للعَين	eye drops
+قَطْرَاتُ هوفمان	Hoffmann's drops (ether spirit)
+قطرة	collyrium (pl. collyria)
+قطرة	drop
+قَطْرَة	gutta [pl.guttae]
+قَطْرة	minim
+قَطْرَةُ الأُذُن	eardrop
+قَطرة الأُذن	eardrops
+قطرة رذاذ	drizzle drop
+قَطْرة سَحابيَّة	cloud drop
+قطرة سوداء	black drop
+قَطْرَةٌ عَيْنِيَّةٌ جَافَّة	xerocollyrium
+قَطْرَةً فَقَطْرَةٍ	guttatim
+قطرة في الوقود	Drop in Fuel
+قَطْرَةً قَطْرَة	dropwise
+قطرة متجمدة	droxtal
+قَطْرَةُ مَطَر	rain drop
+قَطْرة مطر	raindrop
+قطرة معلقة	hanging drop
+قَطْرَةٌ مينائِيَّة	enamel drop
+قَطْرَةٌ مينائِيَّة	enamel drop (enameloma)
+قَطْعُ القُزَحِيَّةِ العِلاَجِيّ	therapeutic iridectomy
+قُطْنٌ مُعَقَّم	gossypium asepticum
+قُطَيْرة	droplet
+قلاّبُ الأُجاج	brine agitator
+قلب	core (of a reinforced conductor)
+قَلْبٌ ذٌو مَسْكَنَين	bilocular heart
+قَلْبٌ ذٌو مَسْكَنَين	cor biloculare
+قلم قياس الجرعة	pen dosimeter
+قِلْيٌ أَرْسينِيّ	kali arsenicosum (potassium arsenite solution)
+قُماشٌ مُقَوًّى بالمَعدِن	metallic reinforced cloth
+قُمْز	koomis
+قُمْز	koumiss
+قُمْز	kumiss
+قُمْز	kumyss
+قِنَّب	cannabis
+قِنَّب	cannabis indica
+قنب	cannabis savita
+قنب زراعي	Cannabis sativa
+قنب هندي	cannabis indica
+قِنِّينَة الـحَقْن	injection vial
+قَواعِدُ المَراهِم	ointment bases
+قَواعِدُ مَرْهَمِيَّةٌ مُمْتَصَّة	absorption ointment bases
+قُوْت النبات: «أ» موادّ غير عضوية يمتصّها	plant food
+قَولَبَةٌ بالحَقْن	injection molding
+قُوَّة	strength
+قُوَّةُ	strength of solution
+قوة المحلول	strength of solution
+قِياسُ الاسْتِجاباتِ السَّمْعِيَّةِ	cortical evoked response audiometry
+قياس الجرعات	dosimetry
+قياس الجرعات الصغرى	microdosimetry
+قِياسُ الجُرْعَةِ الإِشْعاعِيَّة	radiodosimetry
+قِياسُ القَطَراتِ البَولِيَّة	urostalagmometry
+قِيَاسُ المورفين	morphiometry
+قَيُوء	emetic; vomitive

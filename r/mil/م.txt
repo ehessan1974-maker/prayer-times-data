@@ -1,0 +1,633 @@
+مؤسسة أبحاث وتطوير التسليح الملكية	RARDE
+مؤشر احتلال الطريق	track occupied indicator
+مؤشر القيادة الاقتصادية	ECO driving indicator
+مُؤَشِّرُ مقصورة القِيادَةِ التابِعِ	ETCS Cab Indication
+مؤشر وضع القيادة الكهربائي	Electric Vehicle Drive Mode Indicator
+مِئفاق توجيه المدفعية	battery command periscope
+ماءُ الرَّصاص	lead water
+ماءُ غولار	Goulard's water
+مادة التربة الردمية	borrow material
+مادة التعبئة, عبوة المسحوق	filling material,
+مادة حربية	war material
+مادّة مانِعة للخَبْط	anti-knock substance
+مادة مُركّبة	composite material
+مادة مُقْتَفِية	tracer
+ماسح التجسس	Spy Sweeper
+ماسورةُ التَّعبِئة	filler pipe
+ماسورةٌ مُبَطَّنة بالرَّصاص	lead-lined pipe
+ماسيكُوت	massicot
+ماكينة تجميع وخزم الملازم	gathering and wire stitching machine
+مال الغُنْم: جزء من حصيلة بيع الغنائم كان	prize money
+مانع تسرُّب الخزان	tank sealer
+مباراة حربية	war game
+مباغتة	coup de main
+مُبْدِئُ إِدارةٍ خُرطوشيّ	cartridge starter
+مبدئ يشغل بالخراطيش	cartridge actuated initiator
+مُبدِّد الحمأة الطافية	destroyer, floating sludge
+مُتَأَصِّل	inherent
+متانة الزحف	creep strength
+متانة ضد الهجمات العدائية	Adversarial Robustness
+متجه الانسحاب	translation vector
+متحرك	Explosive
+مُتَدرِّب	trainee
+مُتَزَمِّت	straight-arrow
+متسرِّع	trigger-happy
+مُتطلبات الضابط	controller demands
+مُتَعَدِّدُ العُقَيدات	multinodular
+مُتَعَدِّدُ المُسَدَّسات	polyhex
+متعلق بالتَّخْطيطِ الغامَّائِيّ	gammagraphic
+متعلق بالرَّصَاص	plumbi
+مُتَعَلّقٌ بفترةِ ما بعدَ الحَرْب	postwar
+متفجِّر	explosive
+مُتَفَجِّر	rock explosive
+مُتَفَجِّرَ الكلُورَات	chlorate explosive
+متفجِّر أمريكي	American explosive
+متفجر أوّلي	primary explosive
+مُتفَجِّر بَطِيء	explosive, low
+مُتَفَجِّرٌ بَطيءُ الفِعل	slow-acting explosive
+مُتَفجِّرٌ شديد	high explosive
+متفجر فوق كلورات الأمونيوم	ammonium perchlorate explosive
+مُتفَجِّرٌ قَاصِم	explosive, high
+مُتَفَجِّرُ كارِيبل	Carribel explosive
+مُتَفَجِّرٌ للتهديم	demolition explosive
+متفجر مُؤَلْمَن	aluminized explosive
+متفجر مركب	composite explosive
+متفجر مضاعف	binary explosive
+مُتَفَجِّرات	explosives
+مُتفَجِّراتٌ جيلاتينيَّة	gelatin explosives
+مُتَفَجِّراتٌ مُتَشظِّيَة	shattering explosives
+متفجرات نووية	nuclear eXplosive
+مُتَقدِّم	leading
+مُتَلاَزِمَةُ موريل	Morel's syndrome
+مُتَلاَزِمَةُ هاينز-بانيك	Hines-Bannick syndrome
+متمرِّس بالقتال battlewise troops	battlewise
+متوسط أداء الأسطول	mean fleet performance
+متوسط الضغط الصافي للقيادة	average net driving pressure
+متوسِّط زمن البقاء	mean residence time
+مُثير الحرب	warmonger
+مجال الاحتلال	area of occupancy
+مُجَرَّدٌ من السِّلاح	demilitarized
+مجرِم حرب	war criminal
+مَجَرَّة التكَثُّف	contrails (condensation trails)
+مجلس التحقيق	court of inquiry
+مَجَلَّة	magazine
+مجموعة الرشق	bullet group
+مجموعة القتال: وحدة عسكرية من خمس سَرايا	battle group
+مِجموعة القنبلة الجوية	bomb complete round
+مجموعة صهاريج	tank battery
+مجموعة صواريخ	rocket cluster
+مجموعة عربات السكة الحديدية	rolling stock; fleet
+مُجَنَّد	enlisted
+مُحارب	belligerent
+مُحارِب	fighter
+مُحارِب	warrior
+مُحارِبٌ قديم	veteran
+محتوى الرصاص	lead content
+محرك أيوني قاذف	bombardment ion engine
+محرك ثابت السرعة وقابل للعيار	adjustable constant speed motor
+محرك ذو سرعةقابلة للعيار	adjustable speed motor
+محرك سهمي	arrow engine
+مُحَرِّكٌ صاروخيّ	engine, rocket
+مُحَرِّكٌ صاروخيّ	rocket engine (or motor)
+محرك صاروخي	rocket engine; rocket motor
+محرك عريض السهم	broad-arrow engine
+محرك فرنييه	Vernier engine (rocket)
+محرك متغير السرعة قابل للعيار	adjustable varying speed motor
+مُحَرِّكٌ وَرْنِي	vernier engine = vernier rocket
+مِحْزاق مُتفَجِّر	explosive bolt
+مَحَطَّةُ تَعبِئة	filling station
+مَحطة تَعبِئة	station, filling
+محطة تعبئة الزيت	oil filling station
+محطة تعبئة الوقود	petrol station
+محطة طاقة على قنطرة	barrage power plant
+محفظة الفلم	cartridge film
+مِحْقَنَةُ الخَرْطوشَة	cartridge syringe
+محكمة المَيْدان العسكرية	drumhead court-martial
+مَحكمةٌ عَسكريَّة	court-martial
+محكمة عسكرية	military court
+محلل اقتحامات	Intrusions Analyst
+مَحْلُولُ تحت أسيتاتِ الرَّصاص	acetum plumbi
+مَحْلُولُ تحت أسيتاتِ الرَّصاص	acetum Saturn
+محلول عشر نظامي	decinormal solution
+مَحمِل جذع القيادة	bearing, control-shaft
+مَحْمِلُ عَمود القيادة	control shaft bearing
+مَحْمِلٌ من سَبائك النُّحاس والرَّصاص	copper-lead alloy bearing
+مَحْوَرَ	gimbal
+مِحوَر القيادة	driver axle; driving axle
+محور قيادة هندسي	geometric drive axis
+مُحَوِّلٌ ضابطٌ للفلطيَّة	buck transformer
+مخبأ . ملجأ	bomb shelter
+مخبأ من الغارات الجوية	air raid shelter
+مُخترِق الحِصار	blockade-runner
+مختصر حَمْضُ الغامَّا أمينوبوتيريك	GABA (gamma aminobutyric acid)
+مَخروطُ المُقَدَّمة	nose cone
+مخزن الخراطيش	cartridge magazine
+مَخزَن وقود	bunker
+مخزون استراتيجي	strategic stock (available anytime/day for emergency)
+مُخَطِّط	tracer
+مخطط استراتيجي	strategic plan
+مخطط رائد	flagship scheme
+مُخَطَط سَهْمِيّ	arrow diagram
+مخطط صدم القنابل	bomb impact plot
+مدالية الجنديّ: مدالية تُمنح للجنديّ	soldier's medal
+مدالية الخدمة: مدالية تُمنح لمن أدّى	service medal
+مُدجَّج بالسلاح	armed to the teeth
+مُدَرَّع	armored
+مدفع	cannon
+مدفع	gun
+مدفع	thermionic emission gun
+مِدفَع «هاوتزر»	howitzer
+مدفع إرتداد غازي	blowback gun
+مِدْفَع إسمنتي	cement gun
+مدفع الاستغاثة	distress gun
+مدفع السلسلة	chain gun
+مدفع الطائرة	aircraft gun
+مدفع الكترونات	electron gun
+مدفع الكترونات	gun (electron…)
+مدفع إلكتروني بانبعاث	electron gun with plasma emission
+مدفع إلكتروني حلقي	ring-shaped electron gun
+مدفع إلكتروني ذو تماثل محوري	electron gun of axial symmetry
+مدفع إلكتروني عرضي	transverse electron gun
+مدفع إلكتروني متعدد الحزم	multi-beam electron gun
+مدفع الماء: خرطوم ضخم يركَّب على عربة	water cannon
+مِدفع المُطارَدة	chase gun
+مدفع المطر	rain gun
+مِدفع الميدان	field gun
+مدفع أمامي	bow gun
+مِدْفَعُ أو رُشَيْشُ «تُومِي»	Tommy gun
+مدفع أيوني	ion gun
+مدفع بماسورة مركبة	built-up gun
+مدفع ثابت	fiXed gun
+مدفع خارجي	external gun
+مدفع داخلي	internal gun
+مِدفَعٌ دَوَّار	swivel gun
+مِدْفَعٌ رَشّاش	machine-gun
+مِدْفَعٌ سَريعُ الطَّلقات	quick-firing gun
+مدفع صمام ثلاثي	triode gun
+مدفع صمام ثنائي	diode gun
+مدفع طائرة	aircraft cannon
+مِدْفَع قاعدي	base piece
+مدفع قَدْح	percussion gun
+مِدفَعٌ لا اِرتداديّ	recoilless gun
+مِدفَعٌ لااِرتداديّ	non-recoil(ing) gun
+مدفع مزدوج الغرض	dual-purpose gun
+مدفع مُضاد للدبابات	antitank gun
+مِدفع مضادّ للطائرات	ack-ack
+مدفع مُضَاد للطائرات	antiaircraft gun
+مِدْفَعٌ مُضادٌّ لِلطائرات	gun, antiaircraft
+مدفع مضبوط بالرادار	radar-controlled gun
+مدفع مُغَلَّف	package gun
+مِدْفَعُ مَيْدان	field-gun
+مَدفَع هُجومي	assault gun
+مِدْفَعَةُ إلِكترونات	electron gun
+مِدْفَعة تشحيم	grease gun; lubricating gun
+مِدْفَعيّ	gunner
+مِدفعيَّة	artillery
+مدفعية الجيش	army artillery
+مِدفعيّة السواحل	coast artillery
+مِدفعيّة المَيْدان	field artillery
+مِدْفَعيَّة ثَقيلة	heavy artillery
+مِدْفَعيَّةٌ خَفيفة	light artillery
+مدفعية دفاع جوي	air defense artillery
+مدفعية سند مباشر	direct support artillery
+مدفعية صاروخية	rocket artillery
+مدفعية م	flak
+مِدْفَعيَّة مُدْرَّعة	armored artillery
+مدفعية مضادة للطائرات	anti-aircraft artillery
+مدفعية مضادة للطائرات	antiaircraft artillery
+مِدْفَعيَّةُ مَيْدان	field artillery
+مِدَكّ	tamper
+مُدَمِّرة	destroyer
+مُدَمِّرة زوارق الطُّربيد	torpedo-boat destroyer
+مَدَني	civilian
+مدى القذيفة	missile range
+مدى غازات قابلة للاشتعال	flammable range; DEPRECATED: explosive range
+مدير الهجوم	attack director
+مذكرة توجيهية 'إطار الاستراتيجية البحرية'	marine strategy framework eu directive
+مُُذَنَّبة خارقة للدروع	armor-piercing tracer
+مَذْهَبُ الجيشتالت	gestaltism
+مُراسِل الحرب: مراسل لصحيفة إلخ خلال حربٍ	war correspondent
+مَراسِم الحرب: امتيازات تُمنح	honors of war
+مراقِب السُّلوك: ضابط يعيَّن لمراقبة سلوك	probation officer
+مراقب القيادة	drive controller
+مرآة الرؤية الخلفية	driving mirror
+مُرتَزِق	mercenary
+مُرْتَسَمٌ شَبيهٌ بالقَوسِ القُوْطِيَّة	arrow-point tracing (Gothic arch tracing)
+مَرْتَك	litharge
+مِرحاض	latrine
+مَرْحَلَةُ الهُجُوم	stadium invasionis
+مِرْذاذٌ بالهَواء المَضْغوط	aerosol bomb
+مِرسال	batman
+مرشح خرطوشي	cartridge filter
+مُرَشِّح خُرطوشي لِكمامِ التنفُّس	respirator cartridge filter
+مرشحات لفائفية	cartridge filter
+مِرَشَّة صِهريجية	tank sprayer
+مَرْصَدٌ بَحْريّ	naval observatory
+مُرَصَّص	leaded
+مَرَضُ النَّومِ الغامْبِي	Gambian sleeping sickness
+مرطبات سيفي	sword hygroscope
+مركب لوقود السفن	bunker barge
+مُرَكَّبٌ مُتفَجِّر	explosive compound
+مَركبةُ إطلاق	launch vehicle
+مركبة لوجستية كهربائية	Full Electric Logistics Vehicle
+مركبة مُدَرَّعة	armored vehicle
+مركز التحكم الجوي التكتيكي	tactical air control centre
+مركز التحكم اللوجستي و إدارة حركة المرور	Logistics Traffic and Control Center – LTCC
+مركز القيادة	command post
+مركز القيادة	driving position
+مركز القيادة	flight-deck
+مركز القيادة الجوية التكتيكي	tactical air command centre
+مَركَز عَسكري	military post
+مركز قيادة مُجَوقَل	airborne command post
+مركز لوجستي	Logistics Centre
+مَركَزُ مُراقَبة	lookout station
+مركز معلومات قتالية	combat information center
+مركم الرصاص	lead accumulator
+مركية قتال	combat vehicle
+مَزْرَعَة خَزّانات	tank farm
+مِزْلَجة صاروخية	rocket sled
+مزود الخدمات اللوجستية من طرف ثالث	Third-Party Logistics Provider
+مَزيجٌ متفَجِّر	explosive mixture
+مَسار	trajectory
+مسار السلاح	weapon line
+مساعد القيادة الأمامي	front assist
+مساعد القيادة الجانبية	side assist
+مساعد القيادة الخلفية	rear assist
+مسافة الانسحاب	pull-out distance
+مسافة التسرب	creepage distance
+مِسْبارُ أَلغام	mine probe
+مِسْبارُ القَذِيْفَة	bullet probe
+مِسْبارُ صَارُوخ	rocketsonde
+مُسْتَحْرِب: مُوْلَعٌ بالقتال	bellicose
+مستشعر زاوية عجلة القيادة	steering wheel angle sensor (LWS)
+مستشفى البحرية	naval hospital
+مُسْتَشْفَى المُحارِبينَ القُدَماء	Veterans Administration hospital
+مُسْتَشْفَى المُعَسْكَر	camp hospital
+مستشفى المعسكر	hospital, camp
+مستعدّ للقتال	at dagger s drawn
+مُستَعرِض	broadside
+مُسْتَقْبِلَةُ الخَراطِيش	cartridge receiver
+مستهلكات حربية	war consumables
+مُستَودعُ الخام	ore bunker
+مستودع الذخيرة	ammunition depot
+مُستودعُ الذَّخيرة	dump, ammunition
+مستودع إمدادات الجيش	army depot
+مستودع أو مصنعُ أسلحة	armoury = armory
+مُستودعُ تَخزينِ الفَحم	coal bunker
+مُستودَع فحم	bunker, coal
+مُستودَعُ مُتفَجِّرات	explosive magazine
+مستوى التصعيد	escalation level
+مستوى التعبئة	level of filling
+مستوى تكتيكي	Tactical Level
+مستوى ضجيج الأسطول	fleet noise level
+مُسَجِّلٌ جَوِّيّ	aerograph
+مَسَحَ	wipe
+مسح أهداف المِدفعية	artillery survey
+مَسْحٌ جوِّي	aerial survey
+مُسَدِّدُ القنابل	bomb aimer
+مسدّد القنابل	bomb-aimer
+مُسَدِّدة التدقيق	peep sight
+مسدس	gun
+مُسَدَّس	pistol
+مُسَدَّس	revolver
+مُسَدَّس	roscoe
+مُسَدَّسُ «ڤيري»	Very pistol
+مُسَدَّسُ إشارات	signal pistol
+مُسَدَّسُ إشارة	flare pistol
+مُسَدَّسُ إشارة	pistol, signal
+مُسَدَّسُ إشارة	signal gun (or pistol)
+مسدس إشارة	signal pistol
+مُسدس التزوّد بالوقود	petrol pump nozzle [UK] / gas pump nozzle [US]
+مُسَدَّس الرَّذّ: أداة على شكل مسدَّس	spray gun
+مُسَدَّس الشكل	hexagonal
+مُسَدَّسٌ أوتوماتي	automatic pistol
+مُسَدَّسٌ بَسيط	simple hexagon
+مُسدس تأيّن	ionising air gun / ionised air gun
+مسدّس تدبيس	tacking gun
+مُسَدَّسُ تَسْمير	stud gun
+مُسدَّسُ جَلْفَطة	calking gun
+مُسَدَّسُ رَشّ	gun, spray
+مُسدَّسُ رَشِّ	spray gun
+مسدس رش الطّلاء	paint spray gun
+مسدَّس رشّاش	burp gun
+مُسَدَّسُ ضَخِّ الخَرَسانة	shotcrete gun
+مُسَدَّسُ ضَغْط	pressure gun
+مسدس ضوئي	light gun
+مُسدّسُ غِراء	glue gun
+مُسَدَّس فيري: مسدَّس لإطلاق أضواء فيري	Very pistol
+مُسَدَّسُ لِحام	solder(ing) gun (or pistol)
+مُسدس لحام السمكرة	soldering gun
+مسدس لحام لعمل زر تثبيت	arc stud welding gun
+مُسدس لحظة الإشعال	ignition timing device
+مُسَدَّس لولبة	screwgun = power screwdriver
+مُسدس نفخ الهواء	blow-out gun
+مسدس ڤِري	Very pistol
+مسرح العمليات	theater of operations
+مسرح الوِشاح والسّيف	Cape and sword theatre
+مِسْعَرٌ تَفجيريّ	bomb calorimeter
+مِسْعَر تَفْجيريّ	calorimeter, bomb
+مِسعر قنبلي	bomb calorimeter
+مسعر قنبلي	calorimeter, bomb
+مُسَلَّح: «أ» مُزَوَّد بالسّلاح armed	armed
+مسمار انفجاري	eXplosive bolt
+مِسْنَدُ الأسلحة	gun rack
+مسننة رشق	cannon pinion
+مُشاكِس: مولَعٌ بالقتال والخِصام	pugnacious
+مشاة	pedestrian
+مشتريات استراتيجية	Strategic Procurement
+مشروع إختبار التطوير القتالي	combat development test project
+مشروع دراسة التطوير القتالي	combat development study project
+مِشْطُ الطَلَقات	cartridge clip
+مُشْطُ مدفع أوتوماتي	automatic gun charger
+مُشعِل الصاروخ	rocket igniter
+مشعلة المدفع	cannon primer
+مشغِّل أسطول السيارات الكهربائية	Electric Vehicle Fleet Operator
+مُشَمَّعٌ لاصِقٌ	diachylon
+مِشْية الإوزَّة	goose step
+مصادر تكتيكية	Tactical/Operational Sourcing
+مِصباح بَنْزن	Bunsen burner
+مِصْبَاحٌ خُرْطُوشِيّ	cartridge lamp
+مِصباحُ لَوحةِ أجهِزة القيادة	lamp, dash
+مصباح مركب فى خوذة عامل المنجم	cap lamp
+مَصرِف خَندَقِي	trench drain
+مُصَغَّرُ العِيار	subcaliber
+مُصَغَّرة العيار a subcaliber projectile	subcaliber
+مصنع تعبئة اسطوانات الغاز المسال	Liquefied Petroleum Gas Plant (LPG)
+مصنع تعبئة الغاز	Gas Filling Plant
+مِصهَرٌ أُنبُوبيّ	tube fuse = cartridge fuse
+مُصَوِّبة القَصْف	bombsight
+مُصوِّبة القنابل	bomb sight, bombsight
+مُصَوِّبةُ القَنابل	bombsight
+مُصَوِّبَة قنابل رادارية	radar bombsight
+مُصوِّرة الهجوم	strike-camera
+مُصوِّرة قتالية	combat camera
+مُصوِّرة مدفعية	camera gun
+مُضاد للدبّابات	anti-tank
+مضاد للغوّاصات	anti-submarine
+مضاد للمقذوفات	anti-missile
+مُضادّة القذائف البالِسْتية: قذيفة تعترض	antiballistic missile
+مضاعفة السرعة	overdrive
+مضخة التعبئة	Charge Pump
+مضخة خلط الطين	mud gun
+مضخة داخل الخزان	in-tank pump
+مِضْرَم المدفع: قضيب في طرفه عود ثقاب	linstock
+مُطارِدةُ غَوّاصات	submarine chaser
+مُطَاوَرة	phasing
+مَطبخ. وبخاصة: مطبخ سفينةٍ أو معسكر	cookhouse
+مِطْرَقَة	hammer
+مِطرقةُ حديد	dresser
+مِطْرَقَةٌ مَمْلُوءَةٌ بالرَّصاص	lead-filled mallet
+مُطْلِقة الصواريخ	rocket launcher
+مطور اقتحامات	Exploit Developer
+مِظَلِّيّ	parachutist
+مِظلّيّ: خاصّ بجند المِظلّات	paratroop
+مِظَلِّيُّون	paratroops
+مُعالَج بالرصاص	leaded
+مُعالَجة	handling
+مُعالَجَةُ بيل	Bell treatment
+مُعامِل التعبئة بالغاز	gassing factor
+معاهدة عدم انتشار الأسلحة النووية	Nuclear Nonproliferation Treaty
+معاهدة عدم انتشار الأسلحة النووية	treaty of the non-poliferation of nuclear weapons
+معايرة الصهريج	tank strapping
+مَعْبَر السّابلة	pedestrian crossing
+معبر آلي مع مراقبة القيادة	automatic level crossing driver monitored
+مَعبَرٌ عُلْويّ لِلمُشاة	pedestrian overpass
+مَعْبَر مشاة	foot-bridge
+مَعْبَرُ مُشاة	pedestrian crossing
+مُعتدٍ	aggressor
+مُعْتَقَل	internee
+معدات القيادة	drive equipment
+معدات مدفعية	ordnance
+معدل الإمداد	recruitment rate
+مُعَدَّلُ الحالاَت	case rate (attack rate)
+مُعدَّل الزحف	creep rate / creep ratio
+مُعَدَّلُ الهَجَمات	attack rate
+مُعَدَّلُ الهَجَماتِ الثَّانَوِيَّة	secondary attack rate
+معدل تزويد	priming rate
+معدل زمن الحرب	wartime rate
+مَعْدِن الحروف المطبعية: «الرَّصاص»	type metal
+مَعْدِنُ المَدافِع	cannon metal
+معرض الخدمات اللوجستية	exhibition and event logistics
+مَعركة	battle
+معركة النماذج	Battle Of The Forms
+معركة بحريّة	sea fight
+معركة جوية	dogfight
+مُعزِّزُ البطارية	battery booster
+مُعَسْكَر	cantonment
+مُعَسْكَر اعتقال	concentration camp
+مُعَسكر التدريب	boot camp
+مُعَسْكر العمل الإلزامي	labor camp
+مُعَسْكَر القطائر: بقعة تتجمّع فيها	trailer camp
+مُعَسْكَرُ عَمَل	work camp
+معطف الخندق	gabardine / gaberdine
+مِعْطَف الخندق	trench coat
+مِعْطَف. وبخاصة مِعطف كان يرتديه الفرسان	surcoat
+معطَّل	hors de combat
+مَعْقِل	blockhouse
+معلومات	information logistics
+مَعمودية النار: «أ» أول تجربة يواجهها	baptism of fire
+مِغوار	commando
+مُغيِّر تناظري رقمي ثنائيّ الجوانب	2-flank A/D converter
+مفاعل سريع مبرد بالرصاص	Lead-Cooled Fast Reactor
+مُفاعِلٌ صِهْريجيّ	tank reactor
+مفتاح "السهم"	arrow key
+مُفْتَاحُ «أَلِن» المُسَدَّس الفُتْحَة	Allen wrench
+مفتاح التسليح المتأخر	late-arming switch
+مفتاحٌ مُسَدَّسِيُّ المِقبض	pistol grip screwdriver
+مفتاح نظام منع غلق العجلات	ABS off-road switch
+مُفَجِّرٌ بَطيء	low explosive
+مُفرِطُ التسليح	over-reinforced
+مفرقعات الوقود والهواء	fuel-air eXplosive
+مفهوم دينامية القيادة	vehicle dynamics concept
+مفيض قنطري	barrage-type spillway
+مُقاتِلة	fighter
+مُقاتِلة تفوُّق جوي	air superiority fighter
+مقاتِلة قاذفة	fighter-bomber
+مُقاتِلة لجميع الأجواء	all-weather fighter
+مقاتِلة ليلية	night fighter
+مُقَاتِلَةٌ مُعْتَرِضة	interceptor fighter
+مَقاس	caliber
+مقاوم الزحف	anticreeper
+مُقاوِم للدبّابات	antitank
+مقدار محتوى الأورانيوم والرصاص	lead uranium ratio
+مُقَدَّم	lieutenant colonel
+مُقَدَّم	lieutenant-colonel
+مقذاف إشعاعي	bomb
+مقذوف	missile
+مقذوف أرض - أرض	surface-to-surface missile
+مقذوف أرض - جَو	surface-to-air missile
+مقذوف المحاوَلة الأخرى	try-again missile
+مقذوف تحت مائي	underwater missile
+مَقذوفٌ تَطْوافيّ	cruise missile
+مقذوف جو- تحت الماء	air-to-underwater missile
+مقذوف جو- سطح	air-to-surface missile
+مقذوف جو- فضاء	air-to-space missile
+مقذوف غواصة	submarine missile
+مقذوف مُضاد - للمقذوفات	antimissile missile
+مقذوف مُضَاد للأقمار	antisatellite missile
+مقذوف مضاد للدبابات	antitank missile
+مقذوف مُضَاد للطائرات	antiaircraft missile
+مقذوف مُضَاد للغواصات	antisubmarine missile
+مقذوف مضاد للقذفيات	anti-ballistic missile
+مقذوف مُضاد للقذفيات	antiballistic missile
+مقذوف مُوَجَّه مُضاد للدَبابات	antitank guided missile
+مقذوف هوائي - السفط	air-breathing missile
+مَقْذوف يطلق من الجو	air-launched ballistic missile
+مَقْذُوفة خارِقة حارِقة للدُّروع	armor-piercing incendiary
+مقذوفة ضد الإشعاع	anti-radiation missile
+مقرّ القيادة لحكومة عسكرية	kommandatura
+مُقَسَّم إلى أرباع	quartered
+مَقصُورَة القيادة	cab
+مقصورة القيادة	cockpit
+مَقصورةُ القيادة	command module
+مقصورة القيادة	pilothouse
+مَقْصورةُ القِيادَةِ الأَمامِيَّةِ	Front Driving Cab
+مقصورة القيادة المساعدة	auxiliary steering arrangement station
+مقطع الرأس الحربي	warhead section
+مقطورة القيادة	cab tender
+مقطورة القيادة	Driving Trailer (DT)
+مقطورة بكابينة قيادة	driving trailer; control trailer
+مقطورة صهريج	Tank Trailer
+مَقطورةٌ صِهريج	trailer tank
+مَقطورةٌ صِهريجيَّة	tank trailer
+مقطورة مِدفعية	artillery cart
+مقعد أيسر	left seat
+مَقعدُ مِرحاضٍ مُصَهْرَج	close-coupled tank and bowl
+مِقلادٌ ثِرموستاتيّ	thermostatic switch
+مِقْوَد	steering wheel
+مقودة شريط الخرطوشة	cartridge tape drive
+مُقَوِّمٌ حَوضيٌّ	grid pool tank
+مُقَوِّمٌ ذو حُجرة	steel-tank rectifier
+مِقْياس	gauge
+مِقياس الضَّغط: «أ» أداة لقياس ضغط السائل	pressure gauge
+مِقْيَاسُ الكالوري القُلِّيّ	bomb calorimeter
+مِقياسٌ ضابِط	gauge, setting
+مِقياسُ مُحتَوى الصِّهريج	tank gauge
+مكافحة العِصيان أو التمرُّد	counterinsurgency
+مُكافِىءُ الرَّصاص	lead equivalent
+مَكَبٌّ	dump
+مكتب الإدارة الإستراتيجية	Strategic Management Office (SMO)
+مكتب القيادة	office
+مُكَثِّف خَزَّانيّ	tank capacitor
+مُكربِنٌ رَشّاش	carburettor, spray
+مُكَرْبِنٌ رَشّاش	spray carburettor
+مكنة تعبئة القوارير	bottling machine
+مَكَنَةُ تَعْبِئة أو تَوْضيب	packaging machine
+مَكَنةُ طيّ الملازم	book folding machine
+مَلْء	topping
+ملاحة تجارية	merchant navy
+ملازم	Inherent
+مُلازِم أوَّل	first lieutenant
+ملازم أول	first mate
+مُلازِم أول	lieutenant
+ملازم ثانٍ	lieutenant junior grade
+مُلازِمٌ ثانٍ	second lieutenant
+مُلازِمٌ ثانٍ	sublieutenant
+ملازم ثنائي - الخطية	bilinear concomitant
+مُلْتَهِم النار: «أ» مشعوِذ يتظاهر	fire-eater
+ملجأ طائرات تكتيكي	tactical aircraft shelter
+ملجأ من الغارات الجوية	air raid shelter
+ملح	Salt
+مَلْساء الماسورة	smoothbore
+مُلْغَمٌ جُزْئِيُّ الإِلْغَام	partially amalgamated amalgam
+مُلْغَمٌ خالٍ مِن الغامَّا II	non-gamma II amalgam
+مُلْغَمٌ مُسْبَقُ الإلْغَام	pre-amalgamated amalgam
+مِلْقَطُ الخُوذَة	galea forceps
+مِلْقَطُ القَذائِف	bullet forceps
+مِلْقَطُ غاريسون	Garrison's forceps
+مِلْقَطُ ويليت	Willett forceps (galea forceps)
+مِلْكي	mine
+ممثِّل النيابة العامة	judge advocate
+مَمَرّ المُشاة	crosswalk
+مَمَرُّ المُشاة	footpath
+مَمَرُّ المُشاة	footway = sidewalk
+ممر مشاة	footpath; sidewalk
+مَمَرٌّ مشاة	footway
+مَمَرٌّ مشاة متراكب	grade-separated pedestrian walkways
+ممشى	footpath
+مَمْشَى	walkway
+مِمْطَر	trench coat
+مُمَلْزَم	in sheets
+من الخزان إلى العجلة	Tank-to-Wheel
+منائة القذيفة	bomb sag
+مُناوَرَة	maneuver
+مُناورَة	maneuver = manoeuvre
+مناورة	maneuver; manoeuvre
+مناولة السلاح	weapon delivery
+منتاش	bullet, forceps = vulsellum
+مُنتَظِم	regular
+مُنْتَقًى	selectee
+مَنْجَم	mine
+مَنْجَم بَحْري	submarine mine
+مِنْجَنيق	catapult
+منحدَرُ الخندق أو جدارُهُ الخارجي	counterscarp
+مُنْحَنِي أَنْفِ الرَّصاصة	bullet nose curve
+مِنْزَعَة خراطيش المِدفعية	artillery cartridge extractor
+منسِّق تكتيكي	tactical co-ordinator
+منسِّق جوي تكتيكي	tactical air co-ordinator
+مُنَشّط لغم مُضاد للدبابات	antitank mine activator
+مِنْصَب أسلحة	armrack
+منصب القنابل	bomb rack
+مِنَصّةُ	launch(ing) pad
+مِنَصّة استطلاع	reconnaissance pallet
+مِنَصَّةُ إطلاق	pad, launching
+مِنصّة الإطلاق	launching pad
+منصة المدفع الجافة	dry emplacement
+مِنَصَّةُ تَحميلٍ أو تَعبِئة	loading rack
+مِنَصَّةُ تحميلٍ أو تَعبئَة	rack, loading
+مِنْطَاد سَادّ	barrage balloon
+منطقة الانسحاب	pull-out area
+منطقة القتال	combat zone
+منطقة القصف الأعمى	blind bombing zone
+مِنطقة المشاة	pedestrian area
+منطقة تصادم صاروخ التعزيز	boost rocket impact area
+مِنطَقةٌ حَرام	no-man’s-land
+منطقة حربيّة	war zone
+مِنْطَقَةُ حِمايَةِ الحَرَكَةِ	Flank Protection Are
+منطقة قتال	combat zone
+منطقة منزوعة السلاح	demilitarized zone
+منظومة التوجيه	steering
+منظومة ذات خطي رشاشات فرعيين	sprinkler lateral method, two-line / tow-a-line method
+منْع	deterrence
+مُنْعَكَسٌ دِفاعِيّ	defense reflex
+منفث	nozzle of rocket motor
+مَنْفَس تهوية	duct, ventilation (tank)
+مَنْفَسُ خَزّان الزيت	oil-tank vent
+منقي هواء التنفس	chemical-cartridge respirator
+مُنَوَّهٌ به: مُشادٌ بذكره في التقارير	mentioned in dispatch es
+مَنيعٌ على الرصاص	bulletproof
+مهارة قيادة الطائرات	airmanship
+مُهايئ - مُعزز القنبلة	bomb adapter-booster
+مهبط بارد	cold cathode (of an electron gun)
+مهبط ساخن	hot cathode (of an electron gun)
+مهداف - مدفع حاسبي	computing gunsight
+مِهْدافُ المِدفَع	gunsight
+مهداف خوذي	helmet sight
+مهداف مدفع حاسبي	computing gunsight
+مُهرِّب الأسلحة والذخيرة	gunrunner
+مهمة قتالية	combat mission
+مهندس بناء سفن	naval architect
+مهنة الحائز الرئيسة	Holder’s Main Occupation
+مَهْواةُ المَنجَم	mine shaft
+مَوَادّ التَّعْبِئَة	packaging materials
+مواد متفجرة	Explosive Materials
+مواصفة عسكرية	military (MIL) [US designation]
+مواصفة قياسية	standard
+مواقع عسكرية مهجورة	abandoned munitions sites
+مَوجةُ الزَّحْف	advance wave
+موجِّه الطوربيد	torpedo director
+مورد استراتيجي	Strategic Supplier
+موردين استراتيجيين	Strategic Suppliers
+موصل - ناقل	conductor
+مُوَصِّلٌ سُرِّيّ	umbilical connector
+مُوظَّف	officer
+مَوقِع	emplacement
+مَوقِعُ إطلاق	launch site
+موقف عربات	vehicle fleet
+موكب	cavalcade
+مياه الخنادق: مياه آسنة مُتجمِّعة في خندق	ditchwater
+ميثاق جنيف: اتّفاقية دولية خاصّة بمعاملة	Geneva convention
+ميثيل دِيكْلورارسين	methyldichlorarsin
+مَيْدان الرَّمي	rifle range
+مِيرَة	ration
+مَيْلٌ جانِبيّ	flank dip

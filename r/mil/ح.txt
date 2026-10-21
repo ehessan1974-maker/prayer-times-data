@@ -1,0 +1,227 @@
+حاجز بالوني	balloon barrage
+حاجِزُ حريق	fire break
+حاجز للمشاة	pedestrian guard rail
+حاجز مقاوم للاقتحام	Intrusion Barrier
+حادث سلاح نووي	nuclear weapon accident
+حاذف برمجيات تجسس	Spy Eliminator
+حارِفَةُ اللَّهَب	flame deflector
+حارة الشحن أثناء القيادة	Electric Re-Charging Lane
+حَاصَر	besiege
+حاضن مدفع ذو موازن	counterpoise gun carriage
+حاضِنَةُ المِدفع	gun mount
+حافظة	font cartridge
+حافظة	memory cartridge
+حافظة RAM	RAM cartridge
+حافظة ROM	ROM cartridge
+حافظة الحبر	ink cartridge
+حافظة الصباغ	toner cartridge
+حافظة برنامج	program cartridge
+حافظة شريط	tape cartridge
+حافظة شريط الطباعة	ribbon cartridge
+حافظة لُعَب	game cartridge
+حاكِم	governor
+حاكِمُ التدَفُّق	governor, flow
+حاكِمُ السُّرعة	governor, speed
+حالة استعداد الأسلحة	weapons state of readiness
+حالة الاستعداد للحرب	war footing
+حالة الحرب	state of war
+حالة انشغال	busy condition; occupation
+حالة حِصار	state of siege
+حامل	enceinte
+حامل الدِّرع: تابعٌ يحمل درع أحد	armorbearer
+حامل الراية	color-bearer
+حامِلُ القَنابِل	rack, bomb
+حاملُ المسدَّس	pistoleer
+حاملة أَفْراد مُدَرَّعة	armored personnel carrier
+حاملة الذخيرة . حامل الذخيرة	ammunition carrier
+حَامِلةُ دبّابات	tank carrier
+حاملة طائرات	aircraft carrier
+حامِلةُ طائرات	aircraft-carrier
+حاملة طائرات صغيرة	escort carrier
+حامِيَة	garrison
+حاوٍ الرَّصاص	plumbiferous
+حاوية صهريج	tank container
+حبل الحربون	harpoon line
+حبل صاروخ الإغاثة	rocket line
+حَجْرٌ صِحِّيٌّ قَسْرِيّ	shotgun quarantine
+حُجرةُ السّائق	driving compartment
+حجرة السلاح	weapon bay
+حُجْرة الطيّار	cockpit
+حُجرةُ القيادة	control car
+حجرة صغار الضباط	gun room
+حَجْم	size
+حُجيرة استطلاع	reconnaissance pod
+حجيرة القنابل	bomb bay
+حد	lower explosive limit, (L.E.L.)
+حد أدني للانفجار	Lower Explosive Limit; LEL (abbreviation)
+حد أدنى للتفجرات	LEL (Lower Explosive Limit)
+حد أعلي للانفجار	Upper Explosive Limit; UEL (abbreviation)
+حد الزحْف	creep limit
+حَدُّ الزَّحَفان	creep limit
+حديدٌ قَصِف	brittle iron
+حديدٌ قَصِفٌ على الساخِن	hot-short iron
+حراسة الطائرة المقاتلة	fighter escort
+حَرب	war
+حَرْب	warfare
+حرب الاتصال	War Dialing
+حرب الاستقلال	war of independence
+حرب الأعصاب	war of nerves
+حرب الأقلام: حربٌ سلاحها القَلَم	paper warfare
+حرب الآلهة	theomachy
+حَرْب الخنادق	trench warfare
+حَرْبُ الغازات	gas warfare
+حَرْبٌ إلكترونيَّة	electronic warfare
+حرب المعلومات	information warfare
+حرب النُّجوم	star war
+حرب أهلية	civil war
+حرب تجارية	Trade War
+حَرْب جُرْثُومِيَّة	bacteriological warfare
+حرب جوية استراتيجية	strategic air warfare
+حرب حيوية	biological warfare
+حَرْب عالمية	world war
+حَرْبُ عِصَابات	guerrilla (or guerilla)
+حرب عصابات	guerrilla war
+حرب كيماوية	chemical warfare
+حَرْب كيميائية	chemical warfare
+حرب لاهوادة فيها	war to the knife
+حرب مضادة للطيران	anti-air warfare
+حرب مضادة للغواصات	anti-submarine warfare
+حرب معلوماتية	information warfare
+حرب نفسية	psychological warfare; psywar
+حرب نفسية استراتيجية	strategic psywar
+حرب نووية	nuclear war
+حرب وقائية	preventive war
+حربة قضبان الضّخّ	sucker rod spear
+حَرْبي	military
+حَرَكَة المشاة	pedestrian traffic
+حِزام الخَرْطوش	cartridge belt
+حِزَامُ الخَزْنة	magazine belt
+حزام الذخيرة	bandelier
+حِزَامُ الطَّلَقَات	cartridge belt
+حِزام سام براون: حزام عسكريّ للضبّاط ذو	Sam Browne belt
+حِزامٌ صاروخيّ	rocket belt
+حسابات السلاح	weaponeering
+حسّاس مستوى امتلاء خزان الوقود	tank fuel sensor
+حَشْدُ المَوَارِدِ	resource mobilization
+حشرات التجسس	Spy Bots
+حشو حاوية	stuffing of container
+حشوة خراطيش لقطع الأنابيب في آبار النفط	oil well cartridge cutter charge
+حِصار	blockade
+حِصار	siege
+حِصارُ الأَدْرِيْنيَّات المَفْعُوْل	adrenergic blockade
+حِصارُ العَصَبونِ الأَدْرينِيِّ	adrenergic neuron blockade
+حِصارُ العَصَبونِ الأَدْرينِيِّ	alpha-adrenergic blockade (alpha blockade)
+حِصارُ العَصَبونِ الأَدْرينِيِّ	beta-adrenergic blockade (beta blockade)
+حِصارُ المُخَدِّر	narcotic blockade
+حِصارُ الوُدِّي	sympathetic blockade
+حِصارٌ عَصَبِيٌّ عَضَلِيّ	neuromuscular blockade
+حِصارٌ عَضَلِيٌّ عَصَبِيّ	myoneural blockade
+حِصارٌ فَيروسِيّ	virus blockade
+حِصارُ كُلْوِيّ	renal blockade
+حِصارٌ كولينِيّ	cholinergic blockade
+حصار متبادل	mutual blockades
+حِصار محكم	close blockade
+حصان طَروادة: «أ» حصان خشبيّ ضخم أجوف	Trojan horse
+حصن	blockhouse
+حِصْن	fort
+حَصَّنَ	fortify
+حِصْن	presidio
+حِصْن	stronghold
+حَصَّنَ أو تَحَصَّنَ في خَنْدَق	entrench
+حِصْنٌ رَصاصيّ	lead castle
+حصيرة قُضبان التسليح	reinforcing bar mat
+حط مائي	ditching
+حُطام السلاح	weapon debris
+حظيرة التخزين الشمالية	North Tank Farm
+حَفَّارةُ خَنادِق	trench digger
+حَفّارة خنادق	trench excavator
+حَفَرَ	rout
+حَفْر تعبئة	infilling drilling
+حُفرة المُناوِش: حفرة يتَّقي بها الجنديّ	foxhole
+حفرة أولية للترسيب	pit, starting / trench, launching
+حفرة رأس البئر	derrick cellar
+حَقْل الألغام	minefield
+حقل الدم: «أ» ميدان معركة دامية. «ب» مكان	aceldama
+حَقلُ أَلغام	mine field
+حَقْل أَلْغام دِفَاعي	defensive minefield
+حقل ألغام مضادة للدبابات	antitank mine field
+حَقْلُ خَزَّانات	tank farm
+حقيبة الظهر: حقيبة من جلد أو خيش توضع	knapsack
+حكاية شعبية للفُرْسان	Fabliau horswhip
+حلقات تثبيت قضبان التسليح	cleat (in a pad and chimney foundation)
+حَلَقَةُ سُخامِ الطَّلْقَة	fouling
+حَلَقَةُ كانُون	Cannon's ring
+حَلْقَةُ مِسْنَد المِدفع	trail eye
+حِلْيَةٌ مِعْماريَّة ضَيِّقة وَمُسَطَّحة	reglet
+حَمَّالة القنابل	bomb dispenser
+حمأة محطات المعالجة	faecal sludge / night soil / cesspool / septic tank sludge
+حماية الجناح	flank protection (1)
+حماية جَانِبية	flank protection
+حماية جناح افتراضية	virtual flank protection
+حماية جناح خفيفة	flank protection by light signal (only)
+حماية جناح غير مباشرة	flank protection provided by operative exclusions (non-technical)
+حماية جناح مباشرة	flank protection provided by points, derailers and signals
+حماية عن بعد	flank protection (2)
+حماية مباشرة للجانب	direct flank protection (provided by an adjacent element)
+حَمْضُ الغامَّا-أمينُوبوتيريك	Gamma-aminobutyric acid
+حِمل الطائرة المقاتلة	combat load
+حَمل جوي استراتيجي	strategic airlift
+حُمولَة القَنابِل	bomb load
+حمولة قصوى	lifting capacity (fleet)
+حُمَّى الأَيَّامِ الخَمْسَة	five day fever (trench fever)
+حُمَّى الحُروب	war fever (epidemic typhus)
+حُمَّى الخَنادِق	trench fever
+حُمَّى الخنادق: حُمَّى تُصيب الجُنْد في	trench fever
+حُمَّى السَّاقِ المُؤْلِمَة	tibialgic fever (trench fever)
+حُمَّى الظُّنْبُوْب	shank fever (trench fever)
+حُمَّى الظُّنْبُوْب	shin bone fever (trench fever)
+حُمَّى المُعَسْكَرات	camp fever (typhus)
+حُمَّى إيكوا	Ikwa fever (trench fever)
+حُمَّى سالُونيك	Salonica fever (trench fever)
+حُمَّى فان در شير	van der Scheer's fever (trench fever)
+حُمَّى مُقَدَّمِ الظُنْبوب	Fort Bragg fever (pretibial fever)
+حُمَّى ميوز	Meuse fever (trench fever)
+حُمَّى ولهنيك	febris wolhynica (trench fever)
+حُمَّى ولهينيا	Wolhynia fever (trench fever)
+حِوالٌ خُوذِيّ	helmet shield
+حوز القنابل	bomb bay
+حَوْز القنابل: حُجَيْرة القنابل	bomb bay
+حوض	tank, sludge
+حوض احتجاز مياه الأمطار	tank, stormwater holding
+حَوَضُ التَّبَخُّر	evaporation tank
+حَوضُ التمَوُّج	ripple tank
+حوض الحمأة المُنشطة	activated sludge tank
+حوض الطائرات المائية	seaplane basin; seaplane tank
+حوض الطين	mud tank
+حوض الطين الفعال	active mud tank
+حَوضُ العَوّامة	float tank
+حوض المُعالجة النهائية لمياه الصرف	clarifier / secondary settlement tank / secondary settling tank
+حَوْض أماميّ	primary settling tank / preliminary sedimentation tank
+حوض بحري	naval dock
+حوض تجارب	mobile tank
+حوض تجارب	trial tank
+حوض تجميع	basin, storage; tank, receiving
+حوض تجميع أوّلي	collecting container / collecting tank
+حوض تخزين	tank, detention / storage reservoir
+حوض تدوير	activated sludge tank with circulating flow; oxidation ditch
+حَوْض ترسيب	settling tank / settling pit
+حَوْض ترسيب مُزوَّد بتغذية ثانوية	settling tank with peripheral feed
+حَوْض ترسيب مُزوَّد بتغذية مركزية	settling tank with centre feed
+حوض ترشيح	filter tank
+حوض ترويق	sedimentation basin; sedimentation tank
+حَوضُ تظهير	developing tank
+حَوْض تعفُّن	digestion tank
+حوض تعويض	balancing tank / equalizing tank
+حوض تهوية	aeration tank
+حَوْض خَلْط	mixing tank
+حوض دائريّ	circular tank
+حوض دائري	tank, circular
+حَوْض دورتموند	Dortmund tank
+حَوْض ضَحْل	shallow tank
+حوضُ مركَّب	compound tank / compound basin
+حوض مُعادلَة مياه الأمطار	tank, stormwater balancing
+حوض مُعالَجة مياه الأمطار	tank, stormwater sedimentation
+حَوْض مُعالَجة مياه الصرف الصحيّ	settling tank / sedimentation basin / sedimentation tank
+حوض مُوازنة	tank, balancing / tank, equalising/regulating/surge
+حَوْض مياه الأمطار مزود بمفيض	stormwater tank with overflow
+حوض نفايات التصنيع	slop tank

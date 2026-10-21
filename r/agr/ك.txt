@@ -1,0 +1,97 @@
+كائن بيئة جافة	xerophilous
+كائنات حية بالتربة	soil organisms
+كائنات مُعْدِية في التربة	soil organism infectious
+كاتب الدراسات	monographer
+كاسر الحجر الحبيبي	white meadow saxifrage
+كأسيات البذور	angiosperms
+كاسِياتِ البُذور	Angiosperms
+كأسيت البذور	angiospermis
+كاسية البذور	angiosperm
+كانْديسيدين	candicidin
+كَبَسَ	compress
+كَبْل معدني من أسلاك فولاذ المحاريث	plow steel wire rope
+كَتامَة سطحية للتربة	overland flow; surface runoff
+كَتَّان	flax
+كتان المستنقعات	cotton-grass
+كتّان زيتي	oil flax
+كتّان قشّ	straw flax
+كتّان ليفي زيتي	oil flax cloth
+كَتَّان متغضن	broken flax
+كتان مُحَوَّل لقطن	linen-to-cotton
+كَتّان مَعْدِنيّ	mineral flax
+كتلة حيوية زراعية	agricultural biomass
+كثافة	apparent density of soil
+كثافة التربة المرصوصة	zero air voids density (proctor)
+كثافة التصريف	drainage density
+كَثافة الصَّرْف	drainage density
+كثافة رعي عالية	high-density stocking/high-intensity grazing
+كثافة سنوية للريّ	annual irrigation intensity
+كَثَافَة فِعْلِيَّة لِلتُّرْبَة	actual density of soil
+كثافة في الحالة الجافة	dry density
+كَثْرَةُ الخَلاَيَا المِنْجَلِيَّة	meniscocytosis (sickle cell anemia)
+كُحول إثيلي	grain alcohol
+كَدْسة التِّبْن	haystack
+كَديسَة	aggregen
+كراء أراضٍ زراعية	rural lease
+كَراويا	caraway
+كَرْباريل	carbaryl
+كربون عضوي	organic carbon (soil)
+كربيد الكروم	chromium carbide
+كَرَز	cerasus
+كَرْمَة	Vitis
+كَرْمة السَّرو	cypress vine
+كَرْمَةٌ شائِعَة	Vitis vinifera
+كروم	chrome
+كُرُوم	chromium
+كروم	vine-land; vineyard
+كُرُوم -51	chromium-51
+كروم حديدي	ferro-chromium
+كروم فلكيس ®	Chromeflex®
+كرومات	chromate
+كرومات	chromating of aluminum
+كرومات	chromating of magnesium
+كرومات الأمونيوم	ammonium chromate
+كْرُومَات الْبَاريُوم	barium chromate
+كرومات البزموت	bismuth chromate
+كرومات البوتاسيوم	potassium chromate
+كُرُومات الرصاص	lead chromate
+كرومات الزنك	zinc chromate
+كروماتُ الزِّنك	zinc chromes
+كرومات الفضة	silver chromate
+كرومات الكلسيوم	calcium chromate
+كرومات النحاس	cupric chromate
+كرومات زرنيخات النحاس	chromated copper arsenate
+كْروميّ: خاصّ بالكْروم أو مشتقّ منه	chromic
+كْروميّ: خاصّ بالكْروم أو مشتقّ منه	chromous
+كُرَيَّة غنية بالكرومات	chromate enriched pellet
+كُرَيَّةٌ قُطْنٍيَّة	cotton pellet
+كُرَيَّةٌ مِنْجَلِيَّة	drepanocyte (sickle cell)
+كريول المزارع	Plantation Creole
+كُسْب القطن: كتلة من بذور القطن المعصورة	cotton cake
+كسب محب للمياه لأغشية التناضح العكسي	hydrophilic graft of RO membranes
+كِسْوَةُ الزَّيتونَة	amiculum olivare NA (amiculum of olive)
+كِفاية الريّ	irrigation efficiency
+كِفاية الريّ الحقليّ	field irrigation efficiency
+كِفاية ريّ المزرعة	farm delivery efficiency / farm irrigation efficiency
+كَفيل	sponsor
+كلأ	hay
+كْلاوس فْريدريك روث	Roth, Klaus Friedrich
+كلب الحقول	prairie-dog
+كلمة رمز	code word (in pulse code modulation); PCM word
+كلور البانزيتونيوم	benzethonium chloride
+كلُورْدان	chlordan
+كلُورْدان	chlordane
+كلُوريد الكُرُوم	chromic chloride
+كْلُورِيد الْكُرُومِ	chromium chloride
+كُلِّيّةً	neck and crop
+كمية الحمأة المنجرفة	deposit, alluvial
+كمية بذور	seed pellet
+كُوبِرْنيكِيَّة	Copernicia
+كومبوست الحمأة	composted sludge / sludge compost
+كَومة التِّبن	haycock
+كونستانتان النيكل كروم	nickelchromium-constantan
+كيس الحبوب	seed bag
+كيماويات زراعية	agro-chemicals
+كيمياء زراعية	agricultural chemistry
+كِيمْياء سيتولوجية مَناعِيَّة-للقطن	International Cotton Calibration Standards
+كيميائيات زراعية	agricultural chemicals

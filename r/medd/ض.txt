@@ -1,0 +1,55 @@
+ضابط الحقن	injection timer
+ضابط الحقن الكهربائي	electrical injection adjustment (ESPV)
+ضابط حقن محكوم إلكترونياً	electronically controlled injection timer
+ضِدُّ التِّرْياق	antiantitoxin
+ضِدُّ الذِّيْفَان	antitoxin
+ضدّ الذيفان	antitoxinum (antitoxin)
+ضِدُّ ذِيْفَانِ الحاطِمَة	perfringent antitoxin (botulism antitoxin)
+ضِدُّ ذِيْفَانِ الخُنَاق	diphtheria antitoxin
+ضِدُّ ذِيْفَانِ العُنْقُودِيَّات	staphylococcus antitoxin
+ضِدُّ ذِيْفَانِ الغنغرينةِ الغَازِيَّةِ	bivalent gas gangrene antitoxin (botulism antitoxin)
+ضِدُّ ذِيْفَانِ الغنغرينة الغَازِيَّة	gas gangrene antitoxin
+ضِدُّ ذِيْفَانِ الكُزاز	tetanus antitoxin
+ضِدُّ ذِيْفَانِ الكُزازِ و الغنغرينة	tetanus and gas gangrene antitoxin
+ضِدُّ ذِيْفَانِ الوَشيقِيَّة	botulinal antitoxin
+ضِدُّ ذِيْفَانِ الوَشيقِيَّة	botulinum antitoxin
+ضِدُّ ذِيْفَانِ الوَشيقِيَّة	botulinus antitoxin
+ضِدُّ ذِيْفَانِ الوَشيقِيَّة	botulism antitoxin
+ضِدُّ ذِيْفَانٍ بَقَرِيّ	bovine antitoxin
+ضِدُّ ذِيْفَانِ عِقْدِيَّاتِ الحُمَّى	scarlet fever streptococcus antitoxin
+ضِدُّ ذِيْفَانٍ نِظامِيّ	normal antitoxin
+ضَرورَةٌ صَيدَلاَنِيِّة	pharmaceutical necessity
+ضريبة على العقار	real estate tax
+ضغْطُ الحَقْن	injection pressure
+ضغط المحلول	solution pressure
+ضَغْطُ المَحلولِ الكَهْرَلي	electrolytic solution pressure
+ضِماد	bandage
+ضِمادٌ إِسْتَنْتِيّ	stent dressing
+ضِمادٌ إِسْمَنْتِي	cement dressing
+ضِمادٌ إِضافِيّ	superligamen
+ضِمادُ السُّيور	belt dressing
+ضِمادٌ بَرافينِيّ	paraffin dressing
+ضِمادٌ بَيُولُوجِيّ	biologic dressing
+ضِمادٌ ثابِت	dressing, fixed
+ضِمادٌ جافّ	dry dressing
+ضِمادٌ جِراحِيّ	surgical dressing
+ضِمادٌ شَرْنَقِيّ	cocoon dressing
+ضِمادٌ صُلْب	rigid dressing
+ضِمادٌ صَليبِيّ	cross dressing
+ضِمادٌ ضَغْطِيّ	pressure dressing
+ضِمادٌ قَناةِ الجَذْر	root canal dressing
+ضِمادٌ لاصِقٌ ماصّ	adhesive absorbent dressing
+ضماد لاصق ماص	dressing, adhesive absorbent
+ضِمادُ لِيستر	Lister's dressing
+ضِمادٌ مُثَبَّت	bolus dressing (tie-over dressing)
+ضِمادٌ مُثَبَّت	fixed dressing
+ضِمادٌ مُثَبَّت	tie-over dressing (bolus dressing)
+ضِمادٌ مُحَصِّن	protective dressing
+ضِمادٌ مُسِدّ	occlusive dressing
+ضِمادُ مُشَمَّع	cerecloth
+ضِمادٌ مُطَهِّر	antiseptic dressing
+ضماد معقم	dressing, antiseptic
+ضِمادٌ مُعَقَّم أو مُطهَّر	dressing, antiseptic
+ضِمادٌ هَوائِيّ	air dressing
+ضُمورٌ أَزْرَق	blue atrophy
+ضُمورٌ مَصْلِيّ	serous atrophy

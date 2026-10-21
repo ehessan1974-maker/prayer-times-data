@@ -1,0 +1,112 @@
+ماء غَسْل الفلتر عكسيّاً	filter recirculation water
+ماكينة غسل الأسطوانات	roller washing machine
+مأوى التسبيح: مأوًى للفقراء كان يُطْلَب	beadhouse
+مباحٌ	in bounds
+مبدأ اللقطة الأخيرة	Last Shot Principle
+مبرد الهواء الرطب	air washer
+مُبَرْهَنةُ الزَّواج	marriage theorem
+مِبْضَعُ الوَتَر	tendotome (tenotome)
+مِبْضَعُ الوَتَر	tenotome
+مُتَصَيِّد الثَّراء	fortune hunter
+متعلق برَأْبِ الوتر	tenoplastic
+متفجر نُشادري مباح	ammonia permissible
+متلازمة الصَّدمة السُّمِّيَّة	toxic shock syndrome
+مُتَلاَزِمَةُ فيرنيه	Vernet's syndrome
+متوسط الوتر	mean chord
+مُجَاوِرَاتُ الوَتَر	paratenon
+مَجْرَى	stream
+مُجَسَّمٌ عِشْرُونيّ الأوجه	icosahedron
+مجموعة العشرين	G20 (Group of Twenty)
+مِحْضَن	incubator
+محطة تسليم الحرارة	District heating substation
+محطة صغيرة لمُعالجة مياه الصرف الصحي	small purification plant
+محطة غسل السيارات	car wash plant
+محطة مُعالجة مياه الصرف الصحي	wastewater treatment plants; purification plants
+محكمة الإشهاد: محكمة تنظر في صحّة الوصايا	probate court
+مَحلولٌ عُشْرُ عِياريّ	decinormal solution
+مَحْلُولٌ عُشْرُ مولِيّ	decimolar solution
+مَحْلُولٌ عُشْرُ نِظامِيّ	decinormal solution
+مَحْلُولٌ عُشْرُ نِظامِيّ	tenth-normal solution
+مَحْلُولُ غَسْل أُذُنِيّ	ear wash
+محور ربع الوتر	quarter-chord
+مُحِيْطٌ بالوَتَر	peritendinous
+مُخَصَّص من المؤن	corody
+مُخَطَّطُ الوَتَر	tenontography
+مُخطَّط خصائصيّ لأعمال التوريد والتسليم	delivery characteristics
+مُخْل	pry-bar = pry
+مدرسة الحضانة	nursery school
+مدعي	prosecutor (at court martial)
+مدة الحياة الزوجية	Duration of Marriage (For Women Who Have Been Married )
+مَدَى التردُّد دُونَ السَّمْعي	infra-sonic range
+مَرتبةُ العَشَرات	tens
+مَرْحَلَةُ الهُجُوم	stadium invasionis
+مُرَشِّحُ وَقْفِ التردُّدات العالية	high-stop filter
+مُرَشِّحُ وَقْفِ التَرَدُّدات المُنْخَفِضة	low-stop filter
+مُزدهر	booming
+مسارات غسل القِطَار	train washing tracks
+مَسْأَلةُ الأَلْوانِ الاثْنَيْ عَشَر	twelve-color theorem
+مُسْتَحق	exigible
+مُستَوطِن	settler
+مستوي الوتر	chord plane
+مستويات الشوائب	impurity levels
+مِسْخٌ حائِض	emmenic monster
+مِسْراقُ الصَّائِم	mesojejunum
+مَسَكَ	hold
+مُسْهِلٌ شَديد	hypercathartic
+مِشْباثُ الوَتَر	tenaculum tendinum
+مَشوب	impure
+مص render. مثل: «أ» تخلٍّ عن	rendition
+مِصباحُ الپنتان	pentane lamp
+مُصَنِّفٌ بِالغَسْلِ	washing classifier
+مصوات أحادي الوتر	monochord sonometer
+مُعالَجَةُ ألين	Allen 's treatment
+مُعالَجَةٌ بالصِيام	limotherapy
+مُعالجة بيولوجية لمياه الصرف الصحيّ	biological treatment / biological purification
+معامل 'رايت' للزواج بالأقارب	Wright's inbreeding coefficient (F)
+مُعامِلُ زِواجِ الأَقارِب	coefficient of inbreeding
+مُعامِلُ زَواجِ الأَقارِب	consanguinity coefficient (inbreeding coefficient)
+معاهدة تسليم المجرمين	extradition treaty
+مُعَدَّلُ الزَّواج	marriage rate
+مُعَدَّلُ الزَّواج	nuptiality rate
+معدل الزواج الخام	Crude Marriage Rate
+معدل الزواج العام	General Marriage Rate
+معدل الطلاق الخام	Crude Divorce Rate
+معدل الطلاق العام	General Divorce Rate
+معدل الطلاق المنقح	Refined Divorce Rate
+مُعَدَّلُ خُصُوْبَةِ الزَّوَاجِ الخاصُّ	age-specific marital fertility rate
+مِعَى	empty intestine; jejunum
+مِعَى	gut
+مُعيَّنة الأوجه الاثنى عشر	rhombicv dodecahedron
+مُفاغَرَةُ القَناةِ الكَبِدِيَّةِ	hepaticocholangiojejunostomy
+مُفاغَرَةُ القَناةِ الكَبِدِيَّةِ	hepaticojejunostomy
+مُفاغَرَةٌ صَفْراوِيَّةٌ صائِمِيَّة	cholangiojejunostomy
+مُفاغَرَةُ قَناةِ الصَّفْراءِ بِالصَّائِم	choledochojejunostomy
+مُفاغَرَةٌ مَريئِيَّةٌ صائِمِيَّة	esophagojejunostomy
+مفاهيم التسليم	delivery concepts
+مفتاح نفل	Clover key
+مقاس الستة عشر	sixteenmo
+مُقَلَّصٌ سَبْقيًّا: صفةٌ لنسيج أُخْضع	preshrunk
+مُكَمِّلةُ العَشَرات	tens complement
+ملتوٍ	roundabout
+ملحق وصية	codicil
+ممكنٌ افتراضُهُ أو التسليم به: محتمل	presumable
+مَنْدُوب طِبِيّ	medical delegate
+مندوب نقابيّ	union representative
+مُنشأة غسل الرمل	grit washing system; plant
+منطقة انتقال تركير الشوائب	impurity concentration transition zone
+مُنَظِّفُ الغازات	scrubber
+مَنْع التدلّي	droop stop
+مُنْعَكَسُ شيفَر	Schaffer's reflex
+مُنْعَكَسُ ماكُورْماك	McCormac's reflex
+مُنْعَكَسُ وَتَرِ الرَّضَفَة	patellar tendon reflex
+مُنفِّذَة الوصية	executrix
+مُهْر	colt; foal
+مَهْر	dowry; marriage portion
+مهمة	Duty
+مُهِمّة شرطيّ السَّير	point duty
+مو	mu
+مُوسين الوَتَر	tendomucin
+موضع الوتر	chord position
+موضع الوقف	Absolute finale
+مولد الإثنى عشر قمة	twelve-peak generator
+مِيناءُ التَّسْليم	port of delivery

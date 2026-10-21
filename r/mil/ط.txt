@@ -1,0 +1,65 @@
+طائرة استطلاع	patrol aircraft; reconnaissance plane
+طائرة التمرد	Coin
+طائرة السبْق	lead aircraft
+طائرة القتال: طائرة للقتال الجوّيّ	battleplane
+طائرة بحرية	naval aircraft
+طائرة حربية	warplane
+طائرة خلفية	tail-end charlie
+طائرةٌ صاروخيَّة	rocket plane
+طائرة عسكرية	military aircraft
+طائرة قاذفة	bombardment aircraft
+طائرة قاذفة خفيفة	light bomber
+طائرة مِدفعية	gunship
+طائرة مقاتلة	combat aircraft
+طائرة مقاتلة خفيفة	light fighter; lightweight fighter
+طائرة هجوم	strike aircraft
+طائِرة هُجومية	assault aircraft
+طائرة هجومية	assault aircraft; attack aircraft; attack plane
+طاحونةُ المُسدَّس	drum, ammunition
+طاقَمُ المِدْفَع	gun crew
+طالب ضابط صَفّ	midshipman
+طَبَقٌ أو صَحْن كبير	charger
+طَرّاد	cruiser
+طرّادة القتال: ضرب من السُّفن الحربية	battle cruiser
+طَرّادة خَفيفة	light cruiser
+طراز التخفي	camouflage look
+طِراز إِنزال - هُجومي	assault-landing model
+طراز عسكري	military look / military style
+طِراز هُجومي	assault model
+طُرق تدليس	fraudulent maneuvers
+طريقُ السُّرعة: «أ» طريقٌ يُسمَح فيها	speedway
+طريقةُ استِخراج النُّحاس من الرَّصاص	drossing
+طريقة الخنادق	trench method
+طَفْحٌ أو ثَوَران جانِبيّ	flank eruption
+طِلاءُ تَمْوِيه	paint, camouflage
+طَلْقَة	bullet
+طَلْقَة	round
+طلقة تدريب	drill round
+طلقة تنظيف	brushing shot
+طلقة توازن	balance shot
+طَلْقَة تَوْسيع	back shot
+طَلقَة خاملة	inert round
+طَلْقة خَطّاطة	tracer bullet
+طَلْقة سريعة	snap shot
+طلقة شظايا	case shot
+طلقة صغيرة	short round
+طلقة ضوئية	photoflash
+طلقة فك	back off shot
+طلقة في الدقيقة	spm
+طلقة قطع	cut shot
+طَلْقة كاشِفة ليليّة	night tracer bullet
+طلقة كاملة	complete round
+طلقة مأمونة	safety cartridge
+طَلْقَةُ مِدْفَع أو بُندُقيَّة	gunshot
+طَلْقَةٌ مُضيئةٌ	illuminating cartridge
+طَلقة منكسرة	break-up shot
+طلقة نابضية	spring shot
+طَلْقَة نَفَّاثَة مصعدة	crack jet cartridge
+طلقة نموذجية	standard cartridge
+طلْقة هوائية	air shot
+طُوربِيد	torpedo
+طيّارة حَربيَّة	warplane
+طَيّارة مقاتِلة	combat plane
+طيران استطلاع رصد جوي	weather reconnaissance flight
+طيران بحري	naval aviation
+طَيَّة الزَّحْف	advance fold

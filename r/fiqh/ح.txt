@@ -1,0 +1,43 @@
+حائِض	menstruant
+حادي عشر	undecane (eleven)
+حاضِنَة	incubator
+حامِلُ حِضَانَةِ العَدْوَى	incubation carrier
+حَبَّبَ	prill
+حجرة غَسْل الأطباق والآنية وحفظها	scullery
+حديد الصُّبَب: حديدٌ يشتمل على نِسب صغيرة	ingot iron
+حَرام: مكسوب بطرائق غير شرعيّة ill-gotten	ill-gotten
+حزمة شوائب	impurity band
+حزمة للتسليم	delivery lot
+حساب التسليم	Delivery Calculation
+حسّاس الأمطار وضوء السير	rain/headlamp sensor [UK] / rain/headlight sensor [US]
+حَسْرُ الوَتَر	tendon recession
+حصر الورثة	Determination of Heirs
+حصيرة إقلاع وحط	prayer mat
+حَصِيلة الذَّبح الثانية: كلّ ما ينشأ عن	meat by-product
+حضانة	custody
+حضانة	incubation
+حَضانَةٌ عالِيَةُ الاِخْتِطار	high risk nursery
+حَظْرٌ بَحري	embargo
+حُفْرَةُ بروزيك	Broesike's fossa (parajejunal fossa)
+حقُّ الحضانة	right of guard
+حُكْم مشمول بالنفاذ المعجل	enforceable judgment
+حَلاَّلُ النَّوى المُمَزِّق	Karyolysus lacertarum
+حَلاّلُ مُعادَلات	equation solver
+حُلاَلَة	lysate
+حُلاَلَة	sol
+حَلَزُوْنَةُ الوَتَر	tendon spiral
+حَلَقَةُ الوَتَرِ المُشْتَرَك	annulus tendineus communis NA (anulus tendineus communis NA)
+حَلَقَةُ الوَتَرِ المُشْتَرَك	anulus tendineus communis NA
+حَلَقَةُ زِن	annulus zinnii (anulus tendineus communis)
+حَمْأَة ناجمة عن غسل الرمل	grit washing sludge
+حَمْلٌ سابِقٌ للزَّواج	premarital conception
+حُمَّى الإِثْنا عَشَرَ يَوماً	twelve-day fever of Nigeria
+حُمَّى النِّفاس	absorption fever
+حُمَّى النِّفاس	childbed fever
+حُمَّى النِّفاس	childbed fever (puerperal fever)
+حمى النفاس	fever, puerperal
+حُمَّى النِّفاس	lechopyra (puerperal fever)
+حُمَّى النِّفاس	puerperal fever
+حَوَائِطُ الوَتَر	peritenon
+حَوْض الغَسْل: حَوْض لغَسْل الوجه	washbowl
+حوض الغسيل	washtub

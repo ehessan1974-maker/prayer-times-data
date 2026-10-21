@@ -1,0 +1,501 @@
+تأثير	Cotton-Mouton effect
+تأثير	soil-structure interaction
+تأثير الدفيئة	greenhouse effect
+تأثير الدفيئة ذات المصدر البشري	anthropogenic greenhouse effect
+تأثير السيلو	silo effect
+تأثير الصوبة	greenhouse effect
+تأثير غازات الاحتباس الحراري	effect of greenhouse gases
+تأجير زراعيّ	farming lease
+تآكل التربة	soil erosion
+تَبَادُل التربة	soil exchange
+تباعد الرشاشات	sprinkler spacing
+تَباعُد النَّبض	pulse interval
+تباعُد النَّبْض	pulse spacing (or separation) = pulse interval
+تباعد النبضة	pulse spacing
+تبرعم أجمة	coppice sprouting
+تبركولينُ سُلِّ المَاشِيَة	perlsucht tuberculin
+تبريد	cooling by adiabatic demagnetization
+تبرير إيجابي	positive justification; positive pulse stuffing
+تبرير إيجابي	positive/zero/negative justification; positive/zero/negative pulse stuffing
+تبرير سلبي	negative justification; negative pulse stuffing
+تَبْرِيك	priming
+تَبْغ	tabacum (tobacco)
+تَبْغ	tobacco
+تبغ	tobacco plant
+تَبْغُ الجَبَل	mountain tobacco (arnica)
+تبنٍّ	adoption
+تِبْن	hay
+تِبْن	straw
+تتالي طبقات التربة	stratigraphical sequence
+تتعديل سعة نبضه	pulse amplitude modulation ; PAM (abbreviation)
+تَثبِيتُ التُّربَة	soil stabilization
+تثبيت التُّربة بالإِسمَنت	soil stabilization with cement
+تثبيت التُّربة بالجِير	soil stabilization with lime
+تَثبِيتُ التُّربَة برَوَابِطَ قَارِيَّة	soil stabilization with bituminous binders
+تَثْبيطُ الإِلْبان	galactischia
+تَثْبيطُ الإِلْبان	galactoschesis
+تثبيط الخصوبة	fertility inhibition
+تَثْبيطٌ بالمَحْصولِ النِّهائِيّ	end-product inhibition
+تجدد طبيعي معزز بالزرع	natural regeneration enhanced by planting
+تجديد بالغرس والزرع	regeneration by planting and seeding
+تَجفيف	desiccation
+تَجْفيف	drying
+تجهيزات نقل الماشية	cattle fittings
+تجهيزة ري الحقول بالرش	field sprinkler method
+تجوية	weathering (soil)
+تجيير التُربة	liming
+تحت التربة المحيطية	subsoil of the ocean
+تَحْتَ القَطَن	sublumbar
+تَحْتَ المِنْجَل	subfalcial
+تَحَدُّبُ القَطَنِ الأَمامِيّ	kyrtorrhachic
+تحريات التربة	soil exploration
+تحسين التربة	ground formation
+تحسين التربة	soil amelioration
+تحسين التربة	soil amelioration / soil improvement
+تحسين التربة	soil improvement
+تحكم بالنبضة	pulse control
+تحكم بتردد النبضة	pulse frequency control
+تحكم بتعديل عرض النبضة	pulse width modulation control; PWM control (abbreviation)
+تحكم بفترة النبضة	pulse duration control
+تَحليلُ التُّربة	soil analysis
+تحول إلى تربة رمادية	podzolisation
+تحويض المياه	water drainage
+تحويل	discharge; drainage
+تَخْديش	scarification
+تخديش	scarification (seed)
+تخديش	scarification (soil)
+تَخَشُّرُ الطُّعْم	graft slough
+تَخْصيب	fertilization
+تخصيب المحيطات	ocean fertilisation
+تخطيط تنمية المصايد	fisheries development planning
+تخطيط شامل لمزرعة	whole farm planning
+تخفيض غازات الدفيئة	reduction of greenhouse gases
+تدابير حفظ وإدارة	conservation and management measure (cmm) (fisheries)
+تدابير زراعية مضادة	Agricultural Countermeasure
+تدبير زراعي وبيئي	agri-environmental measure
+تدبير صيد السمك	fishery management
+تدثير	blanketing; overhead irrigation for protection against frost
+تدريب المزارع للمزارع	farmer-to-farmer training
+تدعيم التربة	soil stabilisation
+تدفق في فترة الجفاف	dry weather flow
+تدمير التربة	soil destruction
+تدهّور التربة	soil degradation
+تدهور التربة	soil deterioration
+تدهور بيولوجي للتربة	biological soil degradation
+تدهُور تَدريجيّ	pre-degradation
+تدهور داخلي للتربة	Soil internal degradation
+تدهور فيزيائي	physical degradation
+تُرَب سطحية	overburden
+تُربة	base (gen.) / bottom / floor / soil
+تُربة	ground / soil
+تُرْبة	heavy soil
+تُرْبَةٌ	soil
+تربة	topsoil
+تربة إسمنتية	Soil Cement
+تربة أصلية	original soil
+تُربة أصلية	soil, native
+تربة ألبية	alpine soil
+تربة الغابة	forest soil
+تُربَة اللَّاترِيت	laterite
+تُرْبة اللوس	loess
+تربة المرْج	prairie soil
+تُربة ألومينيَّة حديدية	pedalfer
+تربة انهيارية	collapsing soil
+تُرْبة بادِئة	immature soil
+تربة بطابقين	duplex soils
+تُرْبَة بُنِّيَّة	brown soil
+تربة تحتية	subgrade; subsoil
+تُربَة تحتيَّة	subsoil
+تربة جافة	aridisol
+تربة جدباء	infertile soil
+تُربة جدباء	sterile soil
+تُربَة جيريــة	calcareous soil
+تربة جيرية	calcerous soils
+تُرْبة حامِضيَّة	acid soil
+تربة حاملة للماء	water bearing soil
+تربة حديدية	ferrallitique soil
+تربة حرارة عالية	altithermal soil
+تُرْبة حَصْباويَّة	gravelly soil
+تربة حَضَريَّة	urban soil
+تربة حفرية	fossil soil
+تربة حمئية	fen soil; low moor
+تربة حمراء	red earth
+تربة حمضية	acid soil
+تُرْبة خُثِّيَّة	peaty soil
+تربة خصبة	fat soil
+تربة خصبة	fertile soil
+تُربة خَصِبَة	rich soil
+تربة خضراء	terra verte
+تربة دائمة التجمد	permafrost
+تربة داخل المناطق	intrazonal soil
+تربة دبالية على الصخر	Rock humus soil
+تربة دكناء تحدُّدِية	fersiallitique (fersiallitic) soil
+تربة دكناء متوسطية	mediterranean brown soil
+تربة دون آفاق	azonal soil
+تربة ذات أبعاد	clay-size
+تربة رخوة	soft soil
+تربة رمادية	Podsol
+تربة زراعية	topsoil / surface soil / solum
+تُربَةٌ زِراعيَّة	vegetable soil
+تربة سابقة الانضغاط	overconsolidated
+تربة سطحية	surface soil
+تربة سوداء	black earth
+تربة سيئة التدرج ومنتظمة التدرج	poorly graded and uniformly graded
+تربة صالحة للزراعة	arable soil
+تُرْبة صَحْراوية	desert soil
+تربة صحراوية رمادية	grey desert sol
+تربة صفراء	liam soil
+تربة صودية	sodic soil
+تُربة ضارّة	soil, aggressive
+تُربة طبشوريَّة	pedocal
+تُرْبَة طَبيعية	natural soil
+تربة طمييّة	alluvial soil
+تُربة طينية	clay soil
+تربة طينية	mud soil
+تربة عضوية	organic soil
+تربة عضوية	organic soils
+تُربَة عُضوِية	soil organic
+تربة غرينية	fluvial soil; deposif
+تربة غرينية	silty bog
+تربة غير عضوية	inorganic soil
+تُربَة غَير مُتَمَاسِكَة	non-cohesive soil
+تُربة غير مُشبَّعة	soil, unsaturated
+تربة غير ناضجة	immature soil
+تربة فلاحية	arable soil
+تربة قابلة للتشتت	dispersible soil
+تُرْبة قارَّة	sedentary soil
+تُرْبةٌ قَديمة	palaeosol
+تُربة قديمة	paleosol
+تربة قديمة	paleosol (fossil soil)
+تربة قصطلية	Chestnut soil
+تربة قلوية	alkali soil
+تربة قلوية	alkaline soil
+تُربة قَلَوية	soil, alkali
+تُربة قَلَويّة غير ملحية	non-saline-alkali soil
+تربة كثيرة الحديد	ferralsoil
+تربة كلسية	pedocal
+تُربَة لا نِطاقِيَّة	azonal soil
+تُرْبة لامُتَماسِكة	non-cohesive soil
+تربة لحقية	colluvial soil
+تربة مالحة	saline soil
+تُربة مَبْتُورة	truncated soil
+تربة متأثرة بالملوحة	salt-affected soil
+تربة متجمدة	frost soil
+تُرْبَةُ مُتَجَمِّدة	frozen soil
+تُرْبَةٌ مُتَخَلِّفة	residual soil
+تُرْبَة مُتَفَكِّكة	loose soil
+تُرْبَةٌ مُتماسِكَة	cohesive soil
+تربة متماسكة	firme soil
+تُربة متماسِكة	soil, coherent
+تربة مثَبَّتة بالاسمنت	cement-stabilized soil
+تُربة مُثَبَّتَة بالقَطرَان	tar-stabilized soil
+تُرْبَةٌ مُجْزِيَة	pay dirt
+تُرْبة مُجفَّفة لإزالة الرطوبة	oven-dry soil
+تربة محايدة	neutral soil
+تُربَة مُحَسَّنَة	improved soil
+تربة مخصَّبة	flushed soil
+تربة مرتجة	unrest ground
+تُربة مركَّبة	complex soil
+تربة مروج المستنقعات	meadow bog soil
+تربة مروج حامضية	meadow podzolic soil
+تربة مستحاثة مطمورة	soil (fossil)
+تربة مستحاثة مطمورة	soil (fossil...)
+تُرْبَةٌ مُسْتَقِرَّةٌ بِالْإِسْمَنْتِ	cement stabilised soil
+تُربَة مُستَقِرَّة بِالإِسمَنْت	dry bound macadam
+تُربَة مُستَقِرَّة بِالجِير	lime-stabilized soil
+تربة مُستَقِرَّة بالحمر	dense bitumen macadam
+تربة مُستَقِرَّة بالزفت	dense tarmacadam
+تربة مشبعة	saturated soil
+تُربة مُشبَّعة	soil, saturated
+تربة مضطربة	disturbed land
+تربة مضطربة	remoulded soil
+تُربَةٌ مضلَّعة	cellular soil
+تربة معدنية	mineral soil
+تُرْبَةٌ مُعْشَوْشِبة	grassy soil
+تربة مغسولة	leachy soil; leached soil
+تربة مغمورة	flood soil
+تُرْبةٌ مُقَرَّة أو مُثَبَّتة	stabilized soil
+تُربة ملحية قلوية	saline-alkali soil
+تربة ملوثة	contaminated soil
+تُربة مُلوَّثة	soil, contaminated
+تربة من أصل سجّيلي	marl soil
+تربة منضغطة طبيعياً	normally consolidated
+تربة منقولة	transported soil
+تربة موحلة	feculent soil
+تربة موحلة	quaking bog
+تربة موضعية	residual soil
+تربة ناضجة	matur soil
+تُرْبَةٌ ناضِجة	mature soil
+تُرْبَة نَفّاذة	leachy soil
+تربة نَفوذية	permeable soil
+تُرْبَة نُقَاعِيَّة	infusorial earth
+تربة وحل	mire
+تُرْبيّ: ذو علاقة بالتُّرْبة	edaphic
+تَرْبِيْدَواجنيّ: ذو علاقة بتربية	zootechnical
+تربية أحياء مائية	aquaculture
+تربية أحياء مائية عضوية ومعتمدة	certified organic aquaculture
+تربية الأحياء المائية	aquaculture
+تربية الأحياء المائية	aquaculture, exposed
+تربية الأحياء المائية	aquaculture, integrated
+تربية الأحياء المائية	aquaculture, sheltered
+تَربيةُ الأحياء المائية	aquiculture
+تربية الأسماك	fish-farming
+تربية الحيوان	animal husbandry
+تربية الدَّواجن أو الحيوان	zootechnics
+تربية المائيات	aquaculture
+تَرْبِيَةُ النَّحْلِ	beekeeping
+تربية تعددية	polyculture
+تربية مائية عضوية	organic aquaculture
+تردُّدُ	pulse repetition frequency (or rate)
+تردّد تضمين عرض النبضات	pulse-width modulation frequency
+تردد نبضى تكرارى	pulse repetition frequency ; PRF (abbreviation); pulse repetition rate
+تردّي مواصفات التربة	soil damage
+ترسيب ملح التربة	elutriation / lixiviation / leaching / washing out
+تَرْصيعَةُ طُعْمٍ جِلْدِيّ	skin graft inlay (inlay graft)
+تَرْصيعَةٌ ظِهارِيَّة	epithelial inlay (inlay graft)
+تركيب قنوات الصرف بدون حفر	drainage, trenchless
+تركيبة التربة	soil assemblage
+تركيبة لنظام الصرف الصحيّ الخاص	fittings for underground drainage
+تركيزُ الأشِعةِ بالراديو	beaming
+ترميزٌ نَبْضيّ	pulse coding
+ترميم غابات	restoration plantation (restoration planting)
+ترنيم بالترميز التشابكي	trellis-coded modulation
+ترنيم بترميز النبضة	pulse code modulation
+ترنيم بطول النبضة	pulse length modulation
+ترنيم بعرض النبضة	pulse width modulation
+ترنيم بمدة النبضة	pulse duration modulation
+ترنيم بمطال النبضة	pulse amplitude modulation
+ترنيم بموضع النبضة	pulse position modulation
+ترنيم تكيُّفي بتفاضل ترميز النبضات	adaptive differential pulse code modulation
+ترنيم تكيُّفي بفرق ترميز النبضات	adaptive delta pulse code modulation
+تزاوج ذاتيّ	autogamy; self fertilisation
+تَزَرُّقٌ مُتَوَسِّعُ الشُعَيرات	livedo telangiectatica
+تَسْجيلٌ بالنَّبَضات المُزْدَوجة	double-pulse recording
+تسرّب	infiltration (into the ground)
+تسرب	seepage
+تسميد	fertilization
+تسميد البرك	manuring of ponds
+تسميد الحمأة الناتجة عن مُعالَجة مياه	sewage sludge composting
+تسميد باستعمال الديدان	vermicomposting; worm composting
+تسميد بالتكويم	windrow composting
+تسميد جماعي	community composting
+تسميد حديدي	iron fertilization
+تسميد عضويّ	composting
+تسميد عضوي	organic fertilization
+تسميد مركزي	centralised composting
+تسميد نيتروجيني	nitrogen fertilization
+تَسمِيرُ التُّربَة	soil nailing
+تسويَة سَفحيَّة	altiplanation
+تشابك نبضى	pulse interlacing ; pulse interleaving
+تَشْذيب	pruning
+تشذيب النموذج	Model Pruning
+تشريع الصيد	fisheries legislation
+تَشْغيلٌ نَبْضِيّ	pulse operation
+تشفير	encoding (in pulse code modulation)
+تشكيل النبضة	pulse shaping
+تشويش نبضي	pulse spike
+تَصَبُّغاتٌ تَبْغِيَّة	tobacco staining
+تصحر	desertification, land degradation and drought (dldd)
+تصريف	design dry weather flow (design DWF)
+تصريف أحماض المناجم	acid mine drainage
+تصريف التربة للمياه	soil drainage
+تصريف المياه من أساس	foundation drainage
+تصريف الهواء	air drainage
+تصريف باطني	underground drainage
+تصريف بالجاذبية	gravitation drainage
+تَصريف تشابُكيّ	trellis drainage
+تصريف جاذبيّ	gravity drainage system
+تصريف جزئيّ	single drainage
+تصريف داخلي	inland drainage
+تصريف ذاتي	autogenetic drainage
+تَصْريفٌ راكِب	superimposed drainage
+تَصْريفُ شُجْيري	dendritic drainage
+تَصْريفٌ ضَغْطيّ	pressure drainage
+تصريف عشوائي	aimless drainage
+تصريف عميق للمياه	deep drainage
+تصريف عند رأس الرشاش	discharge at the sprinkler
+تَصْريف مُعاق أو مُعَوَّق	impeded drainage
+تصريف مقفل	closed drainage
+تَصْريفُ مياهِ المناجِم	mine drainage
+تَصَلُّبُ الكُبَيباتِ بَينَ الشُّعَيرات	intercapillary glomerulosclerosis
+تصليد بالتطبيع	hard temper
+تصميم قنوات الريّ	design of irrigation canals
+تصنيف التربة	classification soil
+تصنيف التربة	soil classification
+تَصْويرُ الأَبْهَرِ عَبْرَ القَطَن	translumbar aortography
+تضاغط	compaction
+تَضمينُ اتِّساعِ	pulse-width modulation
+تضمين إتساع النبضة	Pulse Width Modulation
+تَضْمينُ التباعُد النَّبْضيّ	pulse-interval modulation
+تضمين الرمز النبضي	pulse-code modulation
+تضمين السعة النبضية	pulse-amplitude modulation
+تضمين الكود النبضي الدلتاوي	delta pulse code modulation
+تَضْمينُ النَّبْض	modulation, pulse
+تضمين النبضة المصعدية	anode pulse modulation
+تَضمينُ أمَدِ النَّبْضِ	pulse-duration modulation
+تضمين أمد النبضة	Pulse duration modulation
+تضمين أمد النبضة	pulse-duration modulation
+تَضْمينٌ بالنَّبض الشبَكيّ	grid-pulse modulation
+تضمين تردد النبضات	pulse-frequency modulation
+تضمين تفاضلي نبضي الكود	differential pulse-code modulation
+تَضْمينٌ رَمْزيّ نَبْضيّ	pulse-code modulation
+تَضْمينُ زَمَنِ النَّبْض	pulse-time modulation
+تضمين زمن النبضة	pulse-time modulation
+تَضْمين سَعَة النَّبض	pulse-amplitude modulation
+تضمين سَعوي - نبضي قطبائي	double-polarity pulse-amplitude modulation
+تضمين طور النبض	pulse-phase modulation
+تضمين طول النبضة	pulse-length modulation
+تضمين عرض	pulse-width modulation (PWM)
+تضمين عرض النبضات	pulse-width modulation
+تَضْمينُ مَوضِع النَّبْض	pulse-position modulation
+تَضْمينٌ نَبْضيّ	pulse modulation
+تَطَبُّلُ المَعِدَة	tympany of the stomach
+تطبيع	temper
+تطعم الجذور	root graft
+تطعيم	doping
+تَطْعيم	grafting
+تطعيم	grafting; transplantation
+تَطْعيمُ إدناء	inarching = approach grafting
+تطعيم إدنائي	approach grafting = inarching
+تَطعِيْمُ البَشَرَةِ	epidermatoplasty
+تَطْعِيمُ الخَشَب	marquetry
+تَطْعِيْمُ القَرْنِيَّةِ المِثْلِيّ	homokeratoplasty
+تطعيم النبات	grafting
+تَطْعِيْمٌ أَنْفِيّ	rhinovaccination
+تطعيم بالشق	cleft grafting
+تَطْعِيمْ بالقارورة	bottle graft
+تَطْعيم بالقَلْف	bark graft
+تطعيم بالقلم	flute-crafting
+تَطْعِيْمٌ باللِّقاحِ والمَصْلِ	serovaccination
+تَطْعِيم بُرْعُمِي	bud grafting
+تطعيم تاجي	crown graft
+تَطْعِيمٌ جِسْرِيّ	bridge graft
+تَطْعيمٌ جِلْدِيّ	skin grafting
+تَطْعيمٌ جِلْدِيٌّ ذاتِيّ	dermatoautoplasty
+تَطْعيمٌ جِلْدِيٌّ غَيرِيّ	dermatohomoplasty
+تطعيمٌ حَيَوانِيّ	zooplasty (zoografting)
+تطعيم ذاتي	auto inoculation
+تَطْعيمٌ ذاتِيّ	autografting
+تَطْعِيْمٌ ذاتِيّ	autovaccination
+تَطْعِيْمٌ فَمَوِيٌّ	endovaccination
+تَطْعيمُ مانغولت الظِّهارِيّ	Mangoldt's epithelial grafting
+تطعيم مزدوج	double-graft
+تَطْعيمٌ مُلَوَّث	invaccination
+تطوّر التربة	soil development
+تعبئة المياه	water harvesting
+تعبئة زراعية	agricultural colonization
+تَعَدُّدُ المَحاصيل	multiple cropping
+تعديل	amendment (soil)
+تعديل التربة	soil amendment
+تعديل التشفير النبضي	pulse code modulation; PCM (abbreviation)
+تعديل التشفير النبضي التفاضلي	differential pulse code modulation; DPCM
+تعديل التشفير النبضي العام	generic pulse code modulation; generic PCM (abbreviation)
+تعديل النبضات	modulation of pulses ; pulsed carrier modulation
+تعديل بالنبضات	modulation by pulses; pulse modulation (deprecated in this sense)
+تعديل ترميز نبض تفاضلي مختلط	hybrid differential pulse code modulation; HDPCM (abbreviation)
+تعديل زمن النبضة	pulse time modulation ; PTM (abbreviation)
+تعديل شفرة نبضه	pulse code modulation ; PCM (abbreviation)
+تعديل شفرة نبضه تفاضلية	differential pulse code modulation ; DPCM
+تعديل شيفروي نبضي معتمد	adaptive differential pulse code modulation; ADPCM (abbreviation)
+تعديل عرض النبضة	PWM pulse width modulation
+تعديل مدة	pulse duration modulation ; PDM; pulse width modulation (deprecated)
+تعديل موقع نبضه	pulse position modulation ; PPM (abbreviation)
+تعديل نبضي مرمَّز	PCM; pulse code modulation
+تَعْدين	mining
+تَعْدين طَمْيِيّ	alluvial mining
+تعرفة زراعية	farm tariff
+تَعريشة	trellis
+تعريشة	trelliswork; trellis
+تعريفة زراعية	Agricultural Tariff
+تَعرِيَةُ التُّرْبة	soil erosion
+تعطل الإرواء الدموي	devasation = devascularization
+تَعَفُّن جَذْرِ القُطْن	cotton root rot
+تعفن لوز القطن	boll rot
+تَعْفيرُ المَزروعات	crop dusting
+تعلية تربة الضِفُة	man-made embankment
+تَغذيةٌ جَرَّارة	tractor feed
+تَفاعُل التربة	soil reaction
+تَفاعُلُ التَّطْعِيم	vaccination reaction
+تَفاعُلُ الجونين	johnin reaction
+تَفاعُلُ الطُّعْمِ الأَبْيَض	white-graft reaction
+تَفاعُلُ الطُّعْمِ حِيَالَ الثَّوِيّ	graft-versus-host reaction
+تَفاعُلُ أَليفٌ للكروم	chromaffin reaction
+تَفاعُلُ هِنْلِي	Henle's reaction
+تَفَحُّم الشَّعير	barley smut
+تَفْريخ	sprouting
+تقاطُع الشعيرات	cross hair
+تقدير المخزون السمكي	fishery stock assessment
+تقسيم الأراضي الزراعية	agricultural zoning
+تَقَلْقُل النَّبْض	pulse jitter
+تَقْليم	pruning
+تقليم	pruning (usually referred to as high pruning)
+تقليم الأقراص	disk striping
+تقليم الأقراص مع	disk striping with parity
+تقنية الري	irrigation technique
+تقنية الزرعِ	implantation technique; interstitial technique
+تقنية سريعة للتقييم البصري للتربة	rapid visual soil assessment technique
+تقييم جودة القطن	cotton grading
+تكامل شدة كثافة النبضة	pulse-intensity integral
+تكامل مربع النبضة الضغطية	pulse-pressure-squared integral
+تكثيف النشاط الفلاحي	agricultural intensification
+تَكَزُّزُ الإِلْبان	lactation tetany (grass tetany)
+تكنولوجيا الصرف	sewerage technology / drainage technology
+تكون التربة	pedogenese
+تَكَوُّن التُّرْبة	pedogenesis
+تكوُّن أو تشكُّل التربة	pedogenesis
+تكوين التربة	soil formation
+تكوين طبقي	stratification
+تَلاصُق التربة	soil stickiness
+تلف المحاصيل	crop damage
+تلقيح	inoculation
+تَلْقيحٌ خَلْطِي	cross-fertilization
+تَلقيحٌ خَلْطِيّ	xenogamy = cross fertilization
+تَلْقيحٌ ذاتيّ	self-fertilization
+تَلَم	furrow
+تَلَمٌ إِصْبَعِيّ	digital furrow
+تَلَمُ الصُّلْبَة	scleral furrow
+تَلَمُ الصُّلْبَة	scleral furrow (sulcus sclerae)
+تَلَمُ سِيبْسون	Sibson's furrow
+تلوث الأرض والتربة	Soil Pollution
+تلوث التربة	soil contamination
+تَلَوُّثُ التُّرْبَة	soil pollution
+تلوث زراعيّ	agricultural pollution
+تَلْوينٌ بالكرومات	chromat staining
+تماسُك التربة	soil consistence/consistency
+تمرير التشفير	transcoding (in pulse code modulation)
+تَمَزُّقُ شُعَيراتِ الجِلْد	dermatorrhexis
+تَمْشيطُ العَصَب	hersage (harrowing)
+تَمْشيطُ أَلْيافِ العَصَب	harrowing (hersage)
+تناوب المحاصيل	crop rotation
+تنبؤ في تكييف التشفير النبضي التفاضلي	prediction (in differential pulse code modulation)
+تنبيت الأبواغ	germination of spores
+تَنْبيغُ عامِلِ الخُصوبَة	F-duction (sexduction)
+تَنْظِيْرُ الأَوْعِيَةِ الدَّقِيْقَة	microangioscopy (capillaroscopy)
+تَنْظيرُ الشُّعَيرات	angioscopy
+تَنْظيمُ الخُصوبَة	fertility regulation
+تنقية التربة	soil decontamination
+تنقية الحشائش	weeding
+تنوع بيولوجي زراعي	agricultural biodiversity
+تنوع بيولوجي زراعي	agrobiodiversity
+تهوية التربة	soil aeration
+توازن رعوي زراعي	agro-pastoral equilibrium
+تَوَسُّعُ الأَوعِيَةِ الصَّغيرَة	angiotelectasis (telangiectasia)
+تَوَسُّعُ الشُّعَيرات	capillarectasia
+تَوَسُّعُ الشُّعَيْرات	telangiectasia
+تَوَسُّعُ الشُّعَيْراتِ البُقْعِيُّ	telangiectasia macularis eruptiva perstans
+تَوَسُّعُ الشُّعَيْراتِ العائِلِيّ	familial telangiectasia
+تَوَسُّعُ الشُّعَيْراتِ العَظْمِيَّة	osteotelangiectasia (telangiectatic osteosarcoma)
+تَوَسُّعُ الشُّعَيْراتِ العَنْكَبُوتِيّ	spider telangiectasia (vascular spider)
+تَوَسُّعُ الشُّعَيْراتِ الِّلمْفِيَّة	telangiectasia lymphatica
+تَوَسُّعُ الشُّعَيْراتِ المُتَعَمِّم	generalized essential
+تَوَسُّعُ الشُّعَيْراتِ المَجْهُوْلُ	essential telangiectasia
+تَوَسُّعُ الشُّعَيْراتِ النَّزْفِيُّ	hereditary hemorrhagic telangiectasia
+تَوَسُّعُ الشُّعَيْراتِ الوَجْهِيَّة	telangiectasia faciei
+توسيع المساحة الزراعية	extensification
+توسيع نبضى	pulse broadening; pulse dispersion; pulse spreading
+تَوَعِّي الطُّعْم	graft vascularization
+توكسافين	toxaphene
+تول إربس	cotton wig tulle
+تيازوريل	tiazuril
+تيغ	tobacco; tabacum
+تِيميفوس	temefos

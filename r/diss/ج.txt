@@ -1,0 +1,334 @@
+جائِحَة	pandemic
+جائحة	pandemic:
+جائحيّ	pandemic
+جارِفَة	panepizootic
+جامود	catatonia
+جامود	catatony
+جَبيرَةُ الكَسْر	fracture splint
+جَبِيْرَةُ تورنتو	Toronto splint
+جَبيرَةُ شاتفيلد-غريدليستون	Chatfield-Girdleston splint
+جَبينٌ ضَخْم	olympic brow
+جُدْجُدٌ تسايس	zeisian stye
+جُدْجُدٌ ميبوميوس	meibomian stye
+جُدَرِيُّ الأَرانِب	rabbitpox
+جُدَرِيُّ الأَغْنام	variola ovina
+جُدَرِي البَقَر	bovine smallpox
+جُدَرِي البَقَر	cow-pox
+جُدَرِيّ البقر	cowpox
+جُدَريّ البَقَر	vaccinia
+جُدَرِيُّ الجَمَل	camelpox
+جُدَرِي الخِنْزير	swinepox
+جُدَرِيُّ الخَيل	horse-pox
+جُدَرِيُّ السَّمَك	fishpox
+جُدَرِيُّ الشَّكْل	variolate
+جُدَرِيُّ الشَّكْل	varioliform
+جُدَرِيُّ الشَّكْل	varioloid
+جُدَرِيُّ الضَأْن	ovinia (sheep-pox)
+جُدَرِي الغَنَم	ovine smallpox
+جُدريّ الغنم	sheep pox
+جُدَرِي الغَنَم	sheep-pox
+جُدَرِيُّ الفَأْر	mousepox (infectious ectromelia)
+جُدَرِيُّ اللَّبَن	milkpox (variola minor)
+جدري الماء	chickenpox
+جُدَرِيُّ الماعِز	goatpox
+جُدَرِيُّ الماعِز	variola caprina
+جُدَرِيُّ النِّسْناس	monkeypox
+جُدَرِيٌّ دُخْنِيّ	variola miliaris
+جُدَرِيٌّ عَديمُ الطَّفْح	variola sine eruptione
+جُدَرِيٌّ كاذِبٌ	pseudosmallpox (alastrim)
+جُدَرِيٌّ نَزْفِيّ	variola hemorrhagica
+جُذام	hanseniasis (leprosy)
+جُذَام	lepra
+جُذامُ القَبيلَة	Kabyle leprosy
+جُذامٌ بُقْعِيّ	macular leprosy
+جُذامٌ بَقْعِيٌّ خَدَرِيّ	maculoanesthetic leprosy
+جُذامٌ بَيْن-بَيْنِيّ	borderline leprosy
+جُذامٌ تَفاعُلِيّ	reactional leprosy
+جُذامٌ ثُنائِيُّ الشَّكْل	dimorphous leprosy
+جُذامٌ جاموسِيّ	water-buffalo leprosy
+جُذامٌ جُرَذِيّ	murine leprosy (rat leprosy)
+جُذامٌ جُرَذِيّ	rat leprosy
+جُذامٌ جِلْدِيّ	cutaneous leprosy
+جُذامٌ خَدَرِيّ	anesthetic leprosy
+جُذامٌ دَرَني	hansenid (tuberculoid leprosy)
+جُذامٌ دَرَنِيّ	tuberculoid leprosy
+جُذامٌ دَرَنِيٌّ عَصَبِيّ	trophoneurotic leprosy
+جُذامٌ عَصَبِيّ	neural leprosy
+جُذامٌ عُقَيْدِيّ	nodular leprosy
+جُذامٌ غَيرُ مُعَيَّن	indeterminate leprosy (borderline leprosy)
+جُذامٌ قَرْحِيّ	lazarine leprosy
+جُذامٌ قَرْحِيّ	Lucio's leprosy
+جُذامٌ مُبَقَّع	spotted leprosy
+جُذامٌ مُخْتَلِط	mixed leprosy
+جُذامٌ مُغْلَق	closed leprosy
+جُذامٌ مَفْصِلِيّ	articular leprosy
+جُذامٌ مُنْتَشِر	diffuse leprosy
+جُذامٌ نَسِيْجَانِيّ	histoid leprosy
+جُذامٌ وَرَمِيّ	lepromatous leprosy
+جراثيم مسببة للأمراض	Pathogenic germs
+جراثيم مُمْرِضة	pathogenic / pathogenous
+جَرادُ البَحر	crayfish
+جَرَب	gale (scabies)
+جَرَب	mange; scabies
+جَرَب	scabies
+جَرَبٌ أَحْمَر	red mange
+جَرَبُ التفاح	apple scab
+جُرْبُ الحَمْضِيَّات	citrus scab
+جَرَبُ الحَيَوان	mange
+جَرَبُ القَوارِم	sarcoptic scabies
+جَرَبٌ بَثْرِيّ	scabies pustulosa
+جَرَبٌ بَقَرِيّ	bovine scabies
+جَرَبٌ تِكْساسِيّ	Texas mange
+جَرَبٌ جُرَيبِيّ	follicular mange
+جَرَبٌ حَطَاطِيُّ الشَّكْل	scabies papuliformis
+جَرَبٌ دُوَيدِيّ	demodectic mange
+جَرَبٌ روماتيزميّ	scabies rheumatica
+جَرَبٌ قارِشِيّ	psoroptic mange
+جَرَبٌ قارِمِيّ	sarcoptic mange
+جَرَبٌ مُجَلِّب	crusted scabies
+جَرَبٌ نُرْويجِيّ	Norwegian scabies (crusted scabies)
+جَرَبيّ: ذو علاقة بالجرَب	scabietic
+جربية	scabious
+جُرْثومٌ طُفَيلِيّ	parasitic bacterium
+جُرْثومٌ مُمْرِض	pathogenic bacterium
+جُرْثومٌ مُوَلِّدٌ للحُمَّى	pyrogenetic bacterium
+جُرْثُومة	germ / pathogenic agent
+جُرْثومَةُ كُوليرا الخَنازير	Bacterium cholerae suis (Salmonella choleraesuis)
+جُرْح	wound
+جُرْحُ الرَّصاصَة	bullet wound
+جُرْحُ الصَّيف	summer wound (summer sore)
+جُرْحُ المَخْرَج	exit wound
+جُرْحُ المَدْخَل	entrance wound
+جُرْحٌ انْفِجارِيّ	blowing wound
+جُرْحٌ تَحْتَ جِلْدِيّ	subcutaneous wound
+جُرْحٌ ثاقِب	perforating wound
+جُرْحٌ جِراحِيّ	surgical wound
+جُرْحٌ خَزْمِيّ	seton wound
+جُرْحٌ رَضِّيّ	contused wound
+جُرْحٌ طَعْنِيّ	stab wound
+جُرْحٌ عَقِيْم	aseptic wound
+جُرْحٌ غَيرُ نافِذ	nonpenetrating wound
+جُرْحٌ قاطِع	incised wound
+جُرْحٌ قَلْعِيّ	avulsion wound
+جرح متقيِّح	suppurative wound
+جُرْحٌ مُسَمَّم	poisoned wound
+جُرْحٌ مَصَّاص	sucking wound
+جُرْحٌ مَصَّاص	traumatopneic wound (sucking wound)
+جُرْحٌ مُغْلَق	closed wound
+جُرْحٌ مَفْتوح	open wound
+جُرْحٌ مُماسّ	tangential wound
+جُرْحٌ مُنْهَتِك	lacerated wound
+جُرْحٌ ميزابِيّ	gutter wound
+جُرْحٌ نارِيّ	firearm wound
+جُرْحٌ نارِيّ	gunshot wound
+جُرْحٌ نافِذ	penetrating wound
+جُرْحٌ نَتِن	septic wound
+جُرْحٌ هَرْسِيّ	crushed wound
+جُرْحٌ وَخْزِيّ	puncture wound
+جَرَسٌ رَعَّاش	trembling bell
+جَرسٌ كَهربائيٌّ أُحادِيُّ الدَّقّة	single-stroke electric bell
+جرعة الإشعاع المحدثة التهاب للجلد	erythemal dose; erythemal radiant exposure
+جَرَّةُ مِبْرَد	file stroke
+جُروحُ اللِّسان	tongue wounds
+جزء	thick stroke
+جزء	thin stroke
+جُزْئِيُّ الجَفاف	semidrying
+جَسَاءَةُ الالتواء	torsional rigidity
+جَساوَةٌ بالْتِهابِ الأَورِدَة	phlebitic induration (indurated cellulitis)
+جَساوَةٌ حُبَيبِيَّة	granular induration (cirrhosis)
+جَساوَةُ فروريب	Froriep's induration (myositis fibrosa)
+جَساوَةٌ لِيفِيَّة	fibroid induration (cirrhosis)
+جسم الجريمة: «أ» الواقعة المادية	corpus delicti
+جِسْمُ فِينْكلَر	Winkler's body
+جُسَيمُ دين	Dane particle
+جسيمات "كونسلمان"	bodies, conciliman (in yellow fever)
+جُسَيمات كونسلمانية في الحمى الصفراء	Councilman bodies, in yellow fever
+جُسَيماتُ لُوستُورفَر	Lostorfer's corpuscles
+جَفَّ بالتقَطُّر	drip-dry
+جَفاف	drought
+جُفاف	dryness
+جُفاف	xerosis
+جُفاف	xerotes
+جُفافُ الأَنْف	xeromycteria
+جُفافُ البُلْعُوم	pharyngoxerosis
+جُفافُ الجِلْد	dermatoxerasia (xeroderma)
+جفاف الجلد	skin dryness; xero-derma
+جفاف الجلد	xero- derma; skin dryness
+جُفافُ الجِلْد	xeroderma
+جُفافُ الجِلْد	xerodermia
+جُفافُ الجِلْد	xerosis cutis
+جُفافُ الجِلْدِ الجُرَيبِيّ	follicular xeroderma
+جُفافُ الجِلْدِ المُصْطَبِغ	xeroderma pigmentosum
+جُفاف الجِلد الملوَّن	xeroderma pigmentosum
+جُفافُ الجِلْدِ و المَفْصِل	xerodermosteosis
+جُفافُ الحَنْجَرَة	laryngoxerosis
+جُفافُ الشَّعْر	xerasia
+جُفافُ الشِّفاه	xerocheilia
+جُفافُ العَين	ophthalmoxerosis (xerophthalmia)
+جُفاف العيْن	xerophthalmia
+جُفافُ الفَم	dry mouth (xerostomia)
+جُفافُ الفَم	dryness of the mouth
+جُفافُ الفَم	xerostomia
+جُفافُ القَرْنِيَّة	xerosis corneae (corneal xerosis)
+جُفافُ المَفْصِل	arthroxerosis (chronic osteoarthritis)
+جُفَافُ المُقْلَة	scheroma (xerophthalmia)
+جُفافُ المُلْتَحِمَة	xeroma (xerophthalmia)
+جُفافُ المُلْتَحِمَة	xerophthalma
+جُفافُ المُلْتَحِمَة	xerophthalmia
+جُفافُ المُلْتَحِمَة	xerophthalmus
+جُفافُ المُلْتَحِمَةِ السَّطْحِيّ	xerosis superficialis
+جُفافُ المُلْتَحِمَةِ المَتْنِيّ	xerosis parenchymatosa
+جُفافُ المَنْخَر	mycteroxerosis
+جُفافُ المَهْبِل	colpoxerosis
+جَفَّاف الوَحَل	slop dehydrator
+جفاف بادئ	incipient drying
+جفاف مطلق	absolute drought
+جفاف ناشىء	incipien drying
+جفاف هيدرولوجي	hydrological drought
+جَفافيّ	xeric
+جَفافيّ: متعلِّقٌ بموطن شديد الجفاف a	xeric
+جُلاَد	dermatosis
+جُلادُ بوين السَّابِقُ للتَّسَرْطُن	Bowen's precancerous dermatosis (Bowen's disease)
+جُلْبَبَة	rupia
+جُلْبَةُ القَارِشَة	psoroptic scab
+جُلْبَة دَوّارة	rotary bushing
+جِلْبَة ماسكة	slip socket
+جُلْطَة	clot
+جلطة	clot = coagulum
+جلطة	coagulum
+جُلْطَة	crassamentum (clot)
+جُلْطَة	cruor
+جُلْطَةُ الاحْتِضار	agonal clot (agony clot)
+جُلْطَةُ الاحْتِضار	agony clot
+جُلْطَةٌ بلاَزمية	plasma clot
+جُلْطَةٌ تالِيَةٌ للمَوت	postmortem clot
+جُلْطَةٌ تَشْكيلِيَّة	plastic clot
+جُلْطَةٌ خارِجَ الوِعاء	couvercle
+جَلْطَةٌ خارِجِيَّة	external clot
+جُلْطَةٌ داخِلِيَّة	internal clot
+جُلْطَةٌ دانِيَة	proximal clot
+جُلْطَةٌ دَمَوِيَّة	blood clot
+جُلْطَةٌ سابِقَةٌ للمَوت	antemortem clot
+جُلْطَةٌ سَغَلِيَّة	marantic clot
+جُلْطَةٌ شَبِيْهَةٌ ببَيتِ العَنْكَبوت	spider-web clot
+جُلْطَةٌ شَبِيْهَةٌ بدُهْنِ الدَّجاج	chicken fat clot
+جُلْطَةٌ شَبِيْهَةٌ بهُلاَمِ الكِشْمِش	currant jelly clot
+جُلْطَةٌ صُفاحِيَّة	laminated clot (stratified clot)
+جُلْطَةٌ طِبَاقِيَّة	stratified clot
+جُلْطَةٌ عَضَلِيَّة	muscle clot
+جُلْطَةٌ قاصِيَة	distal clot
+جُلْطَةٌ قَلْبِيَّة	heart clot
+جُلْطَةٌ لافَاعِلَة	passive clot
+جُلْطَةٌ مَغْسولَة	washed clot (white clot)
+جلوبيولين الالتهاب الكبدي ب	globulin, hepatitis B immune
+جَلِيْف	xysma
+جَنْبَوِيّ: ذو علاقة بذات الجَنْب	pleuritic
+جَنَف	scoliosis
+جَنَفُ الاعْتِلاَلِ العَضَلِيِّ	myopathic scoliosis (paralytic scoliosis)
+جَنَفُ الاعْتِلاَلِ العَظْمِيّ	osteopathic scoliosis
+جَنَفُ التِهابِيّ	inflammatory scoliosis
+جَنَفُ المَفْصِلِ الإِسْكِيّ	ischiatic scoliosis
+جَنَفُ المَفْصِلِ الوَرِكِيّ	coxitic scoliosis
+جَنَفُ النَّسَى	sciatic scoliosis
+جَنَفُ بريسُو	Brissaud's scoliosis (sciatic scoliosis)
+جَنَفٌ بِنْيَوِيّ	rotoscoliosis (structural scoliosis)
+جَنَفٌ بِنْيَوِيّ	structural scoliosis
+جَنَفٌ تَعَوُّدِيّ	habit scoliosis
+جَنَفٌ حَرَكِيّ	mobile scoliosis
+جَنَفٌ دُبَيْلِيّ	empyematic scoliosis
+جَنَفٌ رَخَدِيّ	rachitic scoliosis
+جَنَفٌ رُكودِيّ	static scoliosis
+جَنَفٌ روماتزمِيّ	rheumatic scoliosis
+جَنَفٌ شَلَلِيّ	paralytic scoliosis
+جَنَفٌ عَضَلِيّ	muscular scoliosis
+جَنَفٌ عُضْوِيّ	organic scoliosis
+جَنَفٌ عَينِيُّ المَنْشَأ	ocular scoliosis (ophthalmic scoliosis)
+جَنَفٌ عَينِيُّ المَنْشَأ	ophthalmic scoliosis
+جَنَفٌ نَدْبِيّ	cicatricial scoliosis
+جُنون	folie
+جُنون	folly
+جُنون	frenzy
+جُنون	insanity
+جُنُون	lunacy
+جُنون	madness
+جُنون	phrensy
+جنون إباسي	insanity, climacteric
+جُنونٌ إِجْرامِيّ	criminal insanity
+جُنونٌ أَخْلاَقِيّ	moral insanity
+جُنونٌ إِدْراكِيّ	perceptional insanity
+جُنونٌ ارْتِيابِيّ	folie du doute
+جُنونُ اعْتِلاَلِ الأَعْصاب	polyneuritic insanity (Korsakoff's psychosis)
+جُنونُ الاثْنَين	folie a deux
+جنون الاثنين	folie, a deux
+جُنونُ الاضْطِهاد	folie des persecution
+جُنونُ الإِنْهاك	exhaustion insanity
+جنون البقر	BSE
+جُنونُ التَّوائِم	folie gemellaire
+جنون السرقة	kleptomania
+جنون الشيخوخة	insanity, senile
+جنون الصبا	hebephrenia
+جُنونُ العَظَمَة	folie des grandeurs
+جُنُون الفنّ	folly of art
+جُنونُ القَتْلِ	homicidal (homicidomania)
+جنون الماشية: داء عصبيّ يصيب الخيل	locoism
+جنون النفاس	insanity, puerperal
+جنون الهوس والاكتئاب	insanity, manic - depressive
+جُنونُ الوَذَمَةِ المُخاطِيَّة	myxedema madness
+جُنونُ اندِفاعِيّ	impulsive insanity
+جُنونٌ انْفِعالِيّ	emotional insanity
+جُنون أو هَوسُ العَظَمة	megalomania
+جُنونٌ أَوَّلِيّ	primary insanity
+جُنونٌ إِياسِيّ	climacteric insanity (involutional melancholia)
+جُنونٌ بازدوفي	basedowian insanity
+جُنونٌ تَخْليطِيّ	confusional insanity (exhaustion psychosis)
+جُنونٌ تَساؤُلِيّ	folie du pourquoi
+جُنونٌ تَسَمُّمِيّ	toxic insanity
+جُنونٌ تَشَكُّكِيّ	doubting insanity
+جُنونٌ تِلْوِيّ	consecutive insanity
+جُنونٌ تَنَكُّسِيّ	degenerative insanity
+جُنونٌ تَهْريجِيّ	moria
+جُنُوْنٌ تَهْرِيْجِيٌّ أُحَادِيّ	monomoria (melancholia)
+جُنونٌ تَواصُلِيّ	communicated insanity (folie a deux)
+جُنونٌ تَوَهُّمِيّ	folie raisonnante
+جُنونٌ تَوَهُّمِيّ	imposed (shared delusion)
+جُنونٌ ثُنائِيّ	double insanity (folie a deux)
+جُنونٌ جُزْئِيّ	partial insanity
+جُنونٌ دَوْرَوِيّ	circular insanity (alternating manic-depressive disorder)
+جُنونٌ دَوْرَوِيّ	cyclic insanity (circular insanity)
+جُنونٌ دَوْرَوِيّ	folie circulaire
+جُنونٌ دَوْرِيّ	periodic insanity
+جُنونٌ ذاتِيّ	idiophrenic (endogenous psychosis)
+جُنونٌ راجِع	recurrent insanity
+جُنونٌ رَقَصِيّ	choreic insanity (Huntington chorea)
+جُنونٌ شَلَلِيّ	paralytic madness
+جُنونٌ شَيخوخِيّ	senile insanity (senile dementia)
+جُنونٌ صَرْعِيّ	epileptic frenzy
+جُنونٌ عاطِفِيّ	affective insanity (affective psychosis)
+جُنونٌ عَضَلِيّ	folie musculaire (severe chorea)
+جُنونٌ قَهْرِيّ	compulsive insanity
+جنون قهري	insanity, compulsive
+جُنونٌ كُحولِيّ	alcoholic insanity (alcoholic psychosis)
+جُنونٌ مُبَكِّر	anticipatory insanity
+جُنونٌ مُتَزَامِنُ الظُّهُوْر	homochronous insanity
+جُنونٌ مُتَناوِب	alternating insanity (circular psychosis)
+جُنونٌ مُتَواقِت	simultaneous insanity (folie a deux)
+جُنونٌ مُحَرَّض	induced insanity (shared delusion)
+جُنونٌ مُرَكَّب	compound insanity
+جُنونٌ مُشْتَرَك	folie communiquee
+جنون مُطْبِق	midsummer madness
+جُنونٌ نِفاسِيّ	puerperal insanity
+جُنونٌ هِسْتيرِيّ	hysteric insanity
+جُنونٌ هَوَسِيٌّ اكْتِئابِيّ	manic-depressive insanity
+جنون وجداني	insanity, affective
+جُنونٌ وُهَامِيّ	delusional insanity (paranoidism)
+جَنينٌ طُفَيلِيّ	parasitic fetus
+جَوزُ القَىْء	dog button (nux vomica)
+جَوْزُ القَيء	nux vomica
+جَوزُ القَيْء	quaker button (nux vomica)
+جَوزُ القَيء	Strychnos
+جوز القيء	woorali
+جوز القَيْء: «أ» شجر يُستخرج الإستركنين	nux vomica
+جوزة القىء	nux vomica
+جَيباتُ فيزيك	Physick's pouches
+جَيْروسكُوب	gyroscope = gyrostat
+جَيَّوفَة	chiufa

@@ -1,0 +1,146 @@
+هالازون	halazone
+هالازِيبام	halazepam
+هالسينُونيد	halcinonide
+هالَةُ التَّلْقيح	aula vaccination
+هالَةُ اللِّقاح	vaccinal areola
+هالُوبِيرِيدُول	haloperidol
+هالُوثان	halothane
+هالُوفِينات	halofenate
+هاميسين	hamycin
+هِرْبِسُ الأَصابِع	herpes digitalis
+هُرمون	autacoid
+هُرْمون	hemocrine
+هرمون	hormone
+هرمون	lactogenic hormone
+هُرْمونُ آشايم زونديك	Aschheim-Zondek hormone (luteinizing hormone)
+هُرْمونٌ أَصْفَرِيّ	luteal hormone (progesterone)
+هرمون الإلبان	hormone, lactation (prolactin)
+هُرْمونُ الإِلْبان	lactation hormone (prolactin)
+هُرْمونُ التَّلاَؤُم	adaptive hormone
+هُرْمونُ الثَّدْي	mammogenic hormone (prolactin)
+هُرْمونُ الجُرَيب	follicle hormone
+هرمون الجريب	hormone, follicle
+هُرْمونُ الجِسْمِ الأَصْفَر	corpus luteum hormone (progesterone)
+هرمون الجسم الأصفر	hormone, luteal (progesterone)
+هرمون الجنس: هرمون مؤثّر في نموّ الأعضاء	sex hormone
+هرمون الحَدَثة	juvenile hormone
+هرمون الخصية	hormone, testicular (testosterone)
+هُرمون الدريقات	parathormone
+هرمون الذكورة	hormone, androgenic
+هرمون الذكورة	hormone,androgenic
+هرمون المبيض	hormone, ovarian
+هرمون المبيض	hormone, ovarin
+هرمون المشيمة	hormone, placental
+هُرْمونُ النُّخَامِيَّةِ الأَمامِيَّة	anterior pituitary hormone
+هرمون النمو	growth hormone
+هرمون النمو	hormone, growth
+هُرْمونُ النُّمُوِّ البَشَرِيّ	human growth hormone (pituitary growth hormone)
+هُرْمونُ النُّمُوِّ المَشيمِيّ	placental growth hormone (human placental lactogen)
+هُرْمونٌ أُنْثَوِيّ	female hormone
+هُرْمونٌ بروتيني	proteohormone
+هُرْمونٌ بَنْكِرْياسِيّ	pancreatic hormone
+هُرْمونُ بَولِ الحامِل	P. U. hormone (pregnancy urine hormone)
+هرمون جارة الدرقية	hormone, parathyroid
+هرمون جريبي	follicular hormone
+هرمون جنسيّ	sex hormone
+هُرْمونٌ جَوَّانِيّ	intracellular hormone
+هُرْمونٌ حائِلٌ	circulatory hormone
+هُرْمونٌ حَيَوانِيّ	zoohormone
+هُرْمونٌ خُصْوِيّ	orchidic hormone (testosterone)
+هُرْمونٌ خُصْوِيّ	testicular hormone
+هُرْمونٌ خُصْوِيّ	testis hormone (testosterone)
+هُرْمونٌ خَلَوِيّ	cytohormone
+هُرْمونٌ دُرَيقِيّ	parathyroid hormone (parathormone)
+هرمون دماغي	brain hormone
+هُرْمونٌ ستيرويديّ	steroid hormone
+هُرْمونٌ عَصَبِيّ	neurohormone
+هُرْمونٌ قِشْرَ-كُظْرِيّ	adrenocortical hormone
+هرمون قشرة الكُظر	adrenal cortex hormone
+هرمون قشرة الكظر	hormone, adrenocortical
+هُرْمونٌ قِشْرِيّ	cortical hormone
+هرمون كاظم النمو	somatostatin
+هرمون كظري التنبيه	adrenotropic hormone
+هرمون كيتوني	ketogenic hormone
+هُرْمونٌ لانغرهانسي	langerhansian hormone
+هُرْمونٌ مَبيضِيّ	ovarian hormone
+هرمون مثبط	hormone, inhibiting
+هُرْمونٌ مُثَبِّط	inhibitory hormone (inhibiting hormone)
+هُرْمونٌ مُثَبِّطٌ وِطائِيّ	hypothalamic inhibitory hormone
+هُرْمونٌ مُحْدِثٌ للسُّكَّرِي	diabetogenic hormone
+هُرْمونٌ مُحَرِّكٌ للشَّحْم	adipokinetic hormone (lipolytic hormone)
+هُرْمونٌ مُخْرَج	ectohormone
+هُرْمُون مُدِرٌّ لِلْبَوْل	diuretic hormone
+هُرْمونٌ مَشيمِيّ	placental hormone
+هرمون مضاد الإبالة	hormone, antidiuretic
+هُرْمونٌ مُطْلِقٌ وِطائِيّ	hypothalamic releasing hormone
+هُرْمونٌ مِعَوِيّ	gut hormone (gastrointestinal hormone)
+هرمون مقدم النخامية	hormone, anterior pituitary
+هُرْمونٌ مُلَوتِن	luteinizing hormone
+هرمون مُلوتِن	lutenizing hormone
+هُرْمونٌ مُنَبِّهٌ للخَلاَيا الخِلاَلِيَّة	interstitial cell-stimulating hormone (luteinizing hormone)
+هرمون منشط لقشرة الكظر	adrenocorticotropic hormone
+هرمون منشط للذكورة	male hormone
+هُرْمونٌ مُوَجِّهٌ للشَّحْم	lipotropic hormone (lipotropin)
+هُرْمونٌ مُوَجِّهٌ للغُدَدِ	gonadotropic hormone
+هُرْمونٌ مُوَجِّهٌ للنُّخَامِيَّة	hypophysiotropic hormone
+هُرْمونٌ مَوضِعِيّ	local hormone
+هرمون ميلاتونين	melatonin; melatonin hormone
+هُرْمُونٌ نَباتِيّ	phytohormone
+هُرْمونٌ نَباتِيّ	plant hormone (phytohormone)
+هُرْمونٌ نُخامِيّ	hypophysial hormone
+هُرْمونٌ نُخامِيٌّ غُدِّيّ	adenohypophysial hormone
+هُرْمونٌ هَضْمِيّ	gastrointestinal hormone
+هُرْمونٌ يَفَعِيّ	juvenile hormone
+هُرمُونَات	hormones
+هُرْموناتٌ إستروجينيَّة	estrogenic hormones
+هُرْمونُاتُ الإِستروجين المُقْتَرِنَة	conjugated estrogen hormones
+هرمونات الدرقية	hormone's, thyroid (thyroxine)
+هرمونات الدرقية	hormones, thyroid (thyroxine)
+هُرْموناتُ الذُّكُوْرَةِ	androgenic hormones (androgens)
+هُرْموناتُ النُّخَامِيَّة الخَلْفِيَّة	posterior pituitary hormones
+هُرْموناتُ النُّخامِيَّةِ العَصَبِيَّة	neurohypophysial hormones
+هُرْمونُاتُ النُّخامِيَّةِ المُوَجِّهَةِ	pituitary gonadotropic hormones (gonadotropin)
+هُرْموناتُ النموّ	growth hormones
+هُرْموناتٌ جِنْسِيَّة	sex hormones
+هُرْموناتٌ حالَّةٌ للشَّحْم	lipolytic hormones
+هُرْموناتٌ دَرَقِيَّة	thyroid hormones
+هُرْموناتُ لُبِّ الكُظْر	adrenomedullary hormones
+هرمونات مؤخر النخامية	hormone's, posterior pituitary
+هرمونات مؤخر النخامية	hormones, posterior pituitary
+هُرْموناتٌ مُحَرِّكَةٌ للدُّهْن	fat-mobilizing hormones (lipolytic hormones)
+هُرْموناتٌ مُطْلِقَة	releasing hormones
+هُرْموناتٌ مُوَلِّدَةٌ للكِيتون	ketogenic hormones (lipolytic hormones)
+هرمونات نخاع الكظر	adrenal gland, medullary hormones of
+هُلاَمٌ دَوائِيّ	medicated gelatin
+هُلاَمَة	gel
+هلامين معقّر	gelatine, medicated
+هَنْدَسَةٌ صَيْدَلانِيَّة	pharmaceutical engineering
+هوائى بشكل علبة حبوب	pill-box antenna
+هورمونات	hormones
+هَوَسُ الأَدْوِيَة	pharmacomania
+هَوَسُ الأَدْوِيَة	pharmacophilia
+هَوَسُ الشَّراب	dipsomania (alcoholism)
+هَوَس المُخَدِّرات	narcomania
+هوكويزيل	hoquizil
+هوميديوم	homidium
+هيبارين	heparin
+هيتاسيلين	hetacillin
+هيدانتوين	hydantoin
+هيدرالازين	hydralazine
+هيدروفلوميثازيد	hydroflumethiazide
+هيدروكسي تتراسكلين	hydroxytetracycline
+هيدروكسي ستيلباميدين	hydroxystilbamidine
+هيدروكسي يوريا	hydroxyurea
+هيدروكسيزين	hydroxyzine
+هيدروكلوروثَيازيد	hydrochlorothiazide
+هيدروكودون	hydrocodone
+هيدرومورفون	hydromorphone
+هيرودين	hirudin
+هيغروميسين	hygromycin
+هيكانثون	hycanthone
+هيكسوسيكليوم	hexocyclium
+هيكسيثال	hexethal
+هيكسيل ريزورسينول	hexylresorcinol
+هيكسيلكائين	hexylcaine
+هيميبيوسيانين	hemipyocyanin
+هيوسيامين	hyoscyamine

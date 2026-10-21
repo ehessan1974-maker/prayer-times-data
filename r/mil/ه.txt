@@ -1,0 +1,61 @@
+هاوَن	mortar
+هُبوطُ الرَّصاصة	bullet drop
+هَتْك العِرض	indecent assault
+هتك عرض	indecent assault
+هَجْر	desertion
+هَجْمَاتٌ تَمَعُّجِيَّة	peristaltic ruchs
+هَجَماتٌ تَمَعُّجِيَّة	peristaltic rushs
+هجوم	assault
+هجوم	attack
+هجوم استراتيجي	strategic attack
+هجوم استنتاج العضوية	Membership Inference Attack
+هجوم إعادة التشغيل أو الإرسال	Replay Attack
+هجوم الانترنت	Cyber Attack
+هجوم البحث باتجاه الأمام	Forward Search Attack
+هجوم الرجل الذي في الوسط	Man-in-the-Middle Attack
+هجوم الرجل لتعديل صفحات الويب	Man-in-the-Browser (MITB) Attack
+هجوم الرسالة المحتملة	Probable Message Attack
+هجوم القفل	Lock-in Attack
+هجوم المعجم	Dictionary Attack
+هجوم النص المشفر المختار	Chosen Ciphertext Attack
+هجوم النص المشفر المختار المتكيف	Adaptive Chosen Ciphertext Attack
+هجوم النص المشفر فقط	Ciphertext only Attack
+هجوم النص الواضح المختار المتكيف	Adaptive Chosen Plaintext Attack
+هجوم النص الواضح المعلوم	Known Plaintext Attack
+هجوم أمامي	frontal attack
+هجوم بالترحيل	Relay Attack
+هجوم بالقوة القاسية	Brute force attack
+هجوم ترسّبي	deposit attack
+هجوم ثانٍ	second strike
+هُجُوم جانبي	beam attack
+هجوم جانبي	beam attack; offset attack
+هجوم عنيف	stern attack
+هجوم غير فعال	Passive Attack
+هجوم فعّال	Active Attack
+هجوم ليلي مستقل بذاته	self-contained night attack
+هجوم مبادرة	pre-empive attack
+هجوم مخابئ مضاد	countersilo
+هجوم مستقيم المسلك	straight-pass attack
+هجوم مُسلَّح	armed attack
+هجوم منع تقديم الخدمة الموزّع الموجَّه	Targeted Distributed Denial of Service (DDoS)
+هجوم مُوَجَّه	vectored attack
+هجوم يوم الميلاد	Birthday Attack
+هَدّار	dam; barrage; weir
+هِدروكسيد الرَّصاص	lead hydroxide
+هَدَفٌ إستراتيجيّ	strategic target
+هُدْنة	armistice
+هدنة	armistice; truce
+هُدْنة	truce
+هزيمة حاسمة	waterloo
+هزيمة شرجية	anal crypt
+هَشٌّ	brittle
+هَشٌّ	crackly
+هَشٌّ	fragile
+هَضْبةٌ تَحْت بَحْريَّة	submarine plateau
+هَنْدَسةُ بناءِ السفن	naval architecture
+هندسة عسكرية	military architecture
+هندسة ملاحية	naval architecture
+هيئة	corps
+هيئة دبلوماسية	diplomatic corps
+هيكل الخزان	tank shell
+هيكل إمدادات الكهرباء	structure de distribution d'électricité

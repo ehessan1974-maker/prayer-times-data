@@ -1,0 +1,131 @@
+غازٌ مُقَيِّئ	vomiting gas
+غازٌ نافِط	blister gas
+غِبٌّ ثِلْث	biduotertian
+غَثِيّ	sick
+غَثَيان	nausea
+غَثَيان	sicchasia (nausea)
+غَثَيانُ الحَمْل	nausea gravidarum (morning sickness)
+غَثَيانُ الصَّباح	morning sickness
+غَثَيانٌ وَبائِيّ	nausea epidemica
+غَثيثَة	ichor
+غِدّ	gid
+غُدَدُ الحَثَر	trachoma glands
+غُدَّةُ ابنِ سينا	Avicenna's gland
+غُدُّوم	adenoma
+غُذَيذَة	sanies
+غراء منتفخ لمنع المياة	water blocking glue; swelling glue
+غَرَب	egilops
+غِربالٌ رَعَّاش	trembling sieve
+غَرَتة = قرحة صلبة	chancre = hard sore
+غرغرينة الشيخوخة	gangrene, senile
+غرغرينة غازية	gangrene, gas
+غرغرينة مرض السكر	gangrene, diabetic
+غرغرينة يابسة	gangrene, dry
+غَرَن	sarcoma
+غرناني = قرحة رخوة	chancroid
+غرنانية أكالة - قرحة رخوة أكالة	chancroid, phagedenic
+غرنة "هودجكن"	Hodgkin sarcoma
+غرنة كابوزي	Kaposi's sarcoma
+غِشاءُ فُولْكمان	Volkmann's membrane
+غشاء ملفوف حلزونيا	spiral wound membrane
+غَشْيٌ سُعالِيّ	cough syncope
+غَشْيَة	trance
+غَشْيَةٌ ذَبْحِيَّة	syncope anginosa
+غلاف زهري متباين	ambigenus
+غلافيّ: خاصّ بالغلاف الزهري للنبات	chlamydeous
+غَلْقُ الجُرْح	wound closure
+غلُوكوسَلْفُون	glucosulfone
+غليكلازيد	gliclazid
+غليكُوبيرُولات	glycopyrrolate
+غَمَشُ التَسمُّمِ بالتَّبْغ	tobacco amblyopia
+غَمَشُ التسَمُّمِ بالكِينين	quinine amblyopia
+غنغرة زربية	diabetic gangrene
+غنغرة ناشفة	dry gangrene
+غَنْغَرينا	gangrene
+غَنْغَرينَة	gangrene
+غَنْغرينَةٌ إِقْفارِيَّة	ischemic gangrene
+غَنْغرينَةُ الاسْتِلْقاء	decubital gangrene
+غَنْغرينةُ الاعْتِلاَلِ العَصَبِيّ	neuropathic gangrene
+غَنْغرينَةٌ الْتِهابِيَّةٌ	inflammatory gangrene
+غَنْغرينَةُ السُّكَّرِيّ	diabetic gangrene
+غَنْغرينَةُ السُّكَّرِيّ	glycemic gangrene (diabetic gangrene)
+غَنْغرينَةُ الفَم	mouth gangrene
+غَنْغرينَةُ الكِيمْياوِيَّات	chemical gangrene
+غنغرينةُ اللُّبّ	pulp gangrene
+غَنْغَرينَةُ المُسْتَشْفَيات	hospital gangrene
+غَنْغرينَةُ المُسْتَشْفَيَات	hospital gangrene (bedsore)
+غَنْغرينَةٌ انْضِغاطِيَّةٌ	pressure gangrene
+غَنْغرينَةٌ أَوَّلِيَّةٌ	primary gangrene
+غَنْغرينَةٌ بَارِدَة	cold gangrene
+غَنْغرينَةٌ تَأَقِيَّةٌ	anaphylactic gangrene
+غَنْغرينَةٌ تالِيَّةٌ للعَمَلِيَّة	postoperative gangrene
+غَنْغرينَةٌ تَعاطُفِيَّةٌ	sympathetic gangrene
+غَنْغَرينَةٌ ثانَوِيَّة	secondary gangrene
+غَنْغَرِيْنَةٌ جافَّة	dry gangrene
+غَنْغرينَةٌ جُرْثومِيَّةٌ تآزُرِيَّةٌ	progressive bacterial synergistic gangrene
+غَنْغرينَةٌ جِلْدِيَّة	cutaneous gangrene
+غَنْغرينَةٌ حارَّة	hot gangrene
+غَنْغرينَةٌ خاطِفَة	fulminating gangrene
+غَنْغرينَةٌ خُثارِيَّة	thrombotic gangrene
+غَنْغرينَةُ داءِ رينو	Raynaud's gangrene
+غَنْغرينَةٌ رَضْحِيَّة	traumatic gangrene
+غَنْغرينَةٌ رَطْبة	humid gangrene
+غَنْغرينَةٌ رَطْبة	moist gangrene
+غَنْغرينَةٌ رَطْبَة	wet gangrene (moist gangrene)
+غَنْغَرينَةٌ رُكودِيَّة	static gangrene
+غَنْغَرينَةٌ شَيخوخِيَّة	senile gangrene
+غَنْغرينَةٌ صِمِّيَّةٌ	embolic gangrene
+غَنْغرينَةٌ غازِيَّة	gas gangrene
+غَنْغرينَةٌ غازِيَّة	gaseous gangrene
+غَنْغرينَةٌ غازِيَّة	mephitic gangrene (gas gangrene)
+غَنْغرينَةٌ غِذائِيَّة	trophic gangrene
+غَنْغَرينةٌ فَمَوِيَّة	oral gangrene (gangrenous stomatitis)
+غَنْغرينَةُ فورنير	Fournier's gangrene (idiopathic scrotum gangrene)
+غَنْغرينَةٌ كاربوليكيَّة	carbolic gangrene (phenol gangrene)
+غَنْغرينَةٌ مُتَحَدِّدَة	circumscribed gangrene
+غَنْغرينَةٌ مُتَرَقِّيَة	progressive gangrene
+غَنْغرينَةٌ مُتَناظِرَة	symmetric gangrene
+غَنْغَرينَةٌ مَجْهُوْلَةُ السَّبَب	idiopathic gangrene
+غَنْغرينَةٌ ناجِمَةُ عن التَّصَلُّبِ	angiosclerotic gangrene
+غَنْغرينَةٌ نُفاخِيَّةٌ	emphysematous gangrene
+غَنْغرينَةٌ وَبائِيَّةٌ	epidemic gangrene
+غَنْغرينَةٌ وَريدِيَّة	venous gangrene
+غوارانَة	guarana
+غَيْبَةٌ تحتَ السَّريرِيَّة	subclinical absence (subclinical epilepsy)
+غَيْبَةٌ مُرَكَّبَة	complex absence (complex partial seizure)
+غَيْبَةٌ وَنائِيَّة	atonic absence (atonic epilepsy)
+غيبوبة	exanimation
+غَيبوبَة	exanimation (coma)
+غَيبوبَةٌ اسْتِقْلاَبِيَّة	metabolic coma
+غَيبوبَةُ التَّنْويم	trance coma
+غَيبوبَةٌ أَلْفائِيَّة	alpha coma
+غَيبوبَةُ القُصورِ النُخامِي	hypopituitary coma
+غَيبوبَةُ الوَذْمَةِ المُخاطِيَّة	myxedema coma
+غيبوبة بولية	coma, uraemic
+غَيْبُوبَةٌ جُزْئِيَّة	semicoma
+غَيْبُوبَةٌ جُزْئِيَّةٌ	semisomnus (semicoma)
+غَيْبُوبَةٌ جُزْئِيَّةٌ	semisopor
+غَيبوبَةٌ سَكْتِيَّة	apoplectic coma
+غَيبوبَةٌ سُكَّرِيَّة	diabetic coma
+غَيبوبَةٌ سَهَرِيُّة	agrypnodal coma (coma vigil)
+غَيبوبَةٌ سَهَرِيَّة	coma vigil
+غَيبوبَةٌ صَرْعِيَّة	epileptic coma
+غَيبوبَةٌ عَميقَة	deep coma
+غَيبوبَةُ فَرْطِ الأُسْمولِيَّةِ	hyperosmolar nonketotic coma
+غَيْبُوبَةٌ كَبِدِيَّةٌ	coma hepaticum
+غَيبوبَةٌ كَبِدِيَّة	hepatic coma
+غَيبوبَةٌ كُحولِيَّة	alcoholic coma
+غَيْبُوْبَةٌ كَهْرَبِيَّةُ المَنْشَأ	electrocoma
+غَيْبوبَة كوسماول	Kussmaul's coma
+غَيبوبَةٌ لاحَيَوِيَّة	deanimate coma
+غَيبوبَةٌ لاعَكوسَة	irreversible coma
+غَيبُوبَةٌ نَفْسِيَّةُ	psychocoma (stupor)
+غَيبُوبَةُ نَقْصِ كلورِ الدَّم	coma hypochloraemicum
+غَيبوبَةُ هُبوطِ الحَرارَة	hypothermic coma
+غَيبوبَةُ هُبوطِ سُكَّرِ الدِّم	hypoglycemia coma
+غَيبوبَةٌ وَسَنِيَّة	coma somnolentium (cataphora)
+غَيبوبَةٌ يوريميَّة	uremic coma
+غَيْرُ طُفَيلِيّ	nonparasitic
+غَيْرُ مُحِمّ	apyrogenic
+غَيرَةٌ مَرَضِيَّة	morbid jealousy
+غيوم صدفية	nacreous clouds

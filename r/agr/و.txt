@@ -1,0 +1,39 @@
+وادٍ طَمْيِيّ	alluvial valley
+والمناطق المحيطة بالمدن الزراعة العضوية	urban and peri-urban organic agriculture
+وجه تَسَطُّح التربة	altiplanation surface
+وُجودِ الكُرَيَّاتِ المِنْجَلِيَّةِ	drepanocytemia (sickle cell anemia)
+وحدة إزالة الماء المتنقِّلة	portable dehydration unit, (P.D.u.)
+وحدة استجابة نبضية	unit pulse response ; unit impulse response; weighting function
+وحدة التربة	soil unit
+وَحدةُ النَّبض	unit pulse = baud
+وحدة النَّزْح	drainage unit
+وحدة تجفيف الغاز الطبيعي	Glycol Dehydrator
+وحدة حصاد	harvest unit
+وَخَزَ	jab
+ورق الأَرُزّ: ورق رقيق يُصْنَع من قشّ	rice paper
+ورق صيني	rice paper
+ورق قش أصفر	yellow straw paper
+ورق قطني	cotton paper
+ورق معجّن	paper mâché
+وَرَق مُقوى قَشِّي	straw-board
+ورقة جنينية	seed-leaf; seed-lobe
+وَرَمُ الخَلاَيا الأَليفَةِ للكرُوم	chromaffin-cell tumor (pheochromocytoma)
+وَرَمُ الشُّعَيْرات	telangioma
+وَرَمُ المُسْتَقْتِماتِ اللاصَبوغَةِ	nonchromaffin paraganglioma (chemodectoma)
+وَرَمُ أَليفاتِ الكروم	chromaffinoma
+وَرَمُ حَوَائِطِ الشُّعَيرات	perithelioma
+وَرَمٌ دِبْقِيٌّ مُتَوَسِّعُ الشُّعَيرات	telangiectatic glioma
+وَرَمٌ عَصَبِيٌّ مُتَوَسِّعُ الشُّعَيرات	neuroma telangiectodes
+وَرَمٌ مُخاطِيٌّ مَتَوَسِّعُ الشُّعَيْرات	telangiectatic myxoma
+وَرَمٌ وِعائِيٌّ عَنْكَبيّ	spider angioma (spider telangiectasis)
+وَرَمٌ وِعائِيٌّ مُتَوَسِّعُ الشُّعَيْراتِ	telangiectatic angioma
+وصف التربة	soil description
+وُصْلَةُ حَزٍّ وَلسان	ploughed and tongued joint
+وِصْلَة دُودَة القُطْن	boll-weevil hanger
+وضع المحصول	Crop Status
+وضع جر المقطورة	tractor-trailer operation
+وَضْعِيَّةُ فالنتين	Valentine's position
+وظائف التربة	soil functions
+وظيفة التربة	soil function
+وَقُودُ جَرّارات	tractor fuel
+وقود زراعي	Agrofuels

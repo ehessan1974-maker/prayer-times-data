@@ -1,0 +1,96 @@
+غُسالة	feigh
+غَسَّالَة	washer
+غَسَلَ	launder
+غَسْل	lavage
+غَسْل	lavation
+غَسْل	lavement
+غَسْل	wash
+غَسَلَ	wash (after treatment) (to)
+غَسْل	wash out
+غَسْل	wash-out; rain-out
+غسْل	washing
+غسل	washing out
+غَسْلُ الأَمْعاء	intestinal lavage
+غسل الأموال	Money Laundering
+غَسْلُ التُّراب السَّطحيّ	hush(ing)
+غسل التربة	leaching
+غسل التربة	soil washing
+غَسْلُ الجَنْبَة	pleural lavage
+غَسْلُ الدَّم	blood lavage
+غَسْلُ الدَّم	hematocatharsis (blood lavage)
+غَسْلُ الدَّم	hemocatharsis (hemodialysis)
+غَسْلُ الدَّم	lavage of the blood
+غَسْلُ الدِّماغ	brainwashing
+غَسْلُ الدِّماغ	menticide (brain-washing)
+غَسْل الدّماغ: «أ» إشباع الذهن بمجموعة من	brainwashing
+غَسْلُ الرُّغامَى	tracheal lavage
+غَسْلُ الصِّفاق	peritoneal lavage
+غسل الغاز	gas scrubbing
+غسْل الغازات	scrubbing
+غَسْلُ القَصَباتِ و الأَسْناخ	bronchoalveolar lavage
+غَسْلُ المَعِدَة	gastric lavage
+غَسْلُ المَعِدَة	gastrolavage
+غَسْلُ المَعِدَةِ الذَّاتِيّ	autolavage
+غَسْلُ المَعِدَةِ عَن طَرِيْقِ الفُغْرَة	gastrostolavage
+غَسْل الملابس الجاهزة داخل المصنع	garment washed
+غَسْل أولي	pre-washed
+غَسْل أولي	prewashed
+غَسْلٌ بالأَثِيْر	ether lavage
+غَسْل بالإنزيمات	enzyme wash
+غَسْلٌ بالحامِض	acid washing
+غَسْل بالحجارة	stone washed
+غَسْل بالحجر الكلسيّ	limestone scrubbing
+غسل بالصود الكاوي	caustic washing
+غَسْلٌ بالصُّودا	sodawash
+غَسْل بالطين	clay wash
+غَسْلٌ بالكاويات	caustic washing
+غسل بالماء	water wash
+غسْل بالماء	water washing
+غَسْلٌ ثَقالي	panning
+غَسلُ خامِ المعادِن	buddling
+غَسْل دون حجارة	stone free
+غسل سطحي	sheet-wash / sheet erosion / surface wash
+غَسْل سطحيّ	surface wash
+غسل شعبي	bronchoclysis
+غسل عادل	Fair-Washing
+غَسْل عَكسيّ	backwashing (ion exchange)
+غَسْل عَكسيّ	countercurrent rinsing
+غَسْلٌ قِلْوي	alkali wash
+غسل قمري	moon washed
+غسل ماسِيّ	diamond washed
+غَسْل مُرتَدّ	backwashing
+غَسْل ناعم بالحجارة	soft stone wash
+غَسْل. وبخاصة: الرَّحْض: غَسْل عضوٍ من	lavage
+غَسُولٌ كاوٍ	caustic wash
+غِشاء البَكارة	hymen
+غِشيان المَحارم	incest
+غُفْلٌ مَشوب	impure placebo
+غِلاَلَةُ الوَتَر	epitenon
+غِمْدُ الوَتَر	epitendineum
+غِمْدُ الوَتَر	peritendineum NA
+غِمْدُ الوَتَر	peritenoneum
+غِمْد الوَتر	tendon sheath
+غِمْدُ الوَتَر	vagina tendinis NA
+غِمْدُ الوَتَرِ الأَخْمَصِيِّ للعَضَلَةِ	plantar tendinous sheath of long peroneal muscle
+غِمْدُ الوَتَرِ الأَخْمَصِيِّ للعَضَلَةِ	sheath of plantar tendon of long peroneal muscle
+غِمْدُ الوَتَر بَينَ الحُدَيبَتَين	vagina tendinis intertubercularis NA
+غِمْدُ وَتَرِ السَّاق	tendinous sheath of leg
+غِمْدُ وَتَرِ العَضَلَةِ	vagina tendinis musculi extensoris pollicis longi NA
+غِمْدُ وَتَرِ العَضَلَةِ البَاسِطَةِ	vagina tendinis musculi extensoris carpi ulnaris NA
+غِمْدُ وَتَرِ العَضَلَةِ الباسِطَةِ	vagina tendinis musculi extensoris digiti minmimi NA
+غِمْدُ وَتَرِ العَضَلَةِ الباسِطَةِ	vagina tendinum musculorum extensorum carpi radialium NA
+غِمْدُ وَتَرِ العَضَلَةِ الشظَوِيَّةِ	vagina tendinis musculi peronei longi plantaris NA
+غِمْدُ وَتَرِ العَضَلَةِ الطَّويلَةِ	vagina tendinis musculi fibularis longi plantaris NA
+غِمْدُ وَتَرِ العَضَلَةِ الطَّويلَةِ	vagina tendinis musculi flexoris hallucis longi NA
+غِمْدُ وَتَرِ العَضَلَةِ الطَّويلَةِ	vagina tendinis musculi flexoris policis longi NA
+غِمْدُ وَتَرِ العَضَلَةِ الظُّنْبوبِيَّةِ	tendon sheath of anterior tibial muscle
+غِمْدُ وَتَرِ العَضَلَةِ الظُّنْبوبِيَّةِ	tendon sheath of posterior tibial muscle
+غِمْدُ وَتَرِ العَضَلَةِ الظُّنْبوبِيَّةِ	vagina tendinis musculi tibialis anterioris NA
+غِمْدُ وَتَرِ العَضَلَةِ الظُّنْبوبِيَّةِ	vagina tendinis musculi tibialis posterioris NA
+غِمْدُ وَتَرِ العَضَلَةِ المائِلَةِ	vagina tendinis musculi obliqui superioris NA
+غِمْدُ وَتَرِ العَضَلَةِ المُثْنِيَةِ	vagina tendinum musculorum flexoris carpi radialis NA
+غَمَشٌ تالٍ للزَّواج	postmarital amblyopia
+غول أحادي عشر	undecyl (alcohol)
+غير طاهر. مثل: «أ» قذِر	impure
+غير قابل للتسليم	undeliverable
+غير مستحَقّ	undue

@@ -1,0 +1,27 @@
+رُؤْيَةٌ فَرْدِيَّةٌ	haplopia
+رَأْبُ الصَّائِم	jejunoplasty
+رَأْبُ العَضَلَةِ و الوَتَر	myotenontoplasty
+رَأْبُ المَريءِ بِالصائِم	esophagojejunoplasty
+رَأْبُ الوَتَر	tendinoplasty (tenoplasty)
+رَأْبُ الوَتَر	tendoplasty (tenoplasty)
+رَأْبُ الوَتَر	tenontoplasty (tenoplasty)
+رَأْبُ الوَتَر	tenoplasty
+رَأْبُ الوَتَرِ و العَضَلَة	tenomyoplasty
+رَأْبُ الوَتَرِ و العَضَلَة	tenontomyoplasty (tenomyoplasty)
+رايَة	streamer
+رِبا	usury
+رِباطُ المَهْبِل	vaginal ligament (®vinculum tendinum)
+رتبة نباتات شطعة كانت عرضة حلال الأدوار	Cycadeoidales
+رحلة تسليم	delivery flight
+رُسابة الجاذبية الأرضيَّة	colluvium
+رَسُول	envoy
+رسوم التسليم المدفوعة	(DDP) Delivered Duty Paid
+رَضاع	thelasis
+رَضاع	thelasmus
+رَِضَاعَة	suckling
+رَفْرَفَةٌ مَشوبَة	impure flutter
+رَفْوُ الصَّائِم	jejunorrhaphy
+رَفْوُ الوَتَر	tenorrhaphy
+رِمَازٌ وراثيّ	inheritance code
+رَمضان: شهر الصيام في الإسلام	Ramadan
+رُهابُ الزَّواج	gamophobia

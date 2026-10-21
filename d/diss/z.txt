@@ -1,0 +1,50 @@
+Zagari's disease (xerostomia)	داءُ زاغاري ( جُفافُ الفَم)
+Zahorsky's disease (exanthema subitum)	داءُ زاهورسكي (الطَّفْحِيَّةُ الفَورِيَّة)
+Zambesi ulcer	قَرْحَةٌ زامبيزية ( قَرْحَةٌ مَدارِيَّة)
+Zambezi sleeping sickness	مَرَضُ النَّومِ الزَّامْبيزِيّ
+zeisian stye	جُدْجُدٌ تسايس (التهاب في غدد تسايس ينفتح على حافة الجفن)
+zero stroke	انعدام الشوط
+zidometacin	زيدوميتاسين (دواء مضاد للالتهاب)
+Ziehen-Oppenheim disease (dystonia musculorum deformans)	داءُ تسِيهِين أوبِنهايِم (خَلَلُ التَّوَتُّرِ العَضَلِيِّ المُشَوِّه)
+Zieve syndrome	مُتَلاَزِمَةُ زيف (فقر دم انحلالي وفرط شحميات الدم عند الكحوليين)
+Zimmermann virus	فيروسُ زيمرمان (في التهاب الدماغ النقولة بالقراد)
+zinc absorption gingivitis	الْتِهابُ اللِّثَةِ بامْتِصاصِ الزَّنْك
+zinc chill (zinc fume fever)	حُمَّى الزَّنْك ( حُمَّى أَدْخِنَةِ الزَّنْك)
+zinc colic	مَغْصٌ زَنْكِيّ
+zinc fume fever	حُمَّى دُخانِ الزَّنْك
+zinc poisoning	التَّسَمُّمُ بالزِّنْك
+zincalism	التَّسَمُّمُ بالزَّنك
+zirconium granuloma	الوَرَمُ الحُبَيبِيُّ بالزِّرقُونْيوم
+zoacanthosis	شُوَاكٌ حَيَوانِيّ (التهاب جلدي بالبقايا الحيوانية)
+zoantharia	زهريات
+Zollinger-Ellison syndrome	مُتَلاَزِمَةُ زولينجَر-إيليسون (فرط إفراز حمض المعدة بسبب ورم الغاسترين)
+zomepirac	زوميبيراك (دواء مسكن ومضاد للالتهاب)
+zona ophthalmica (herpes zoster ophthalmicus)	داءُ المِنْطَقَةِ العَينِيّ (الهِرْبِسُ النُّطاقيُّ العَينِيّ)
+zonal gastritis	الْتِهابُ المَعِدَةِ المِنْطَقِيّ
+zone of fracture	نِطاقُ الشُّدوخ
+zonular cataract	سادٌّ نُطَيقِيّ
+zonular keratitis (ribbon-like keratitis)	الْتِهابُ القَرْنِيَّةِ النُّطَيْقِيُّ ( اعْتِلالُ القَرْنِيَّةِ الشَّريطِيّ)
+zonulitis	الْتِهابُ النُّطَيقَةِ الهَدَبِيَّة
+zoogenic infection	عَدْوَى حَيَوانِيَّةُ المَنْشَأ
+zoomania	الهَوَسُ بالحَيَوانات
+Zoon's erythroplasia (balanitis circumscripta plasmacellularis)	التَّنَسُّجُ الأَحْمَرُ بحَسَبِ زون (الْتِهابُ الحَشَفَةِ المُحَدَّدُ البلاَزْماوِيُّ)
+zoonoses	أمراض حيوانية المنشأ
+zoonoses [sing.zoonosis]	أَمْراضٌ حَيَوانِيَّةُ المَصْدَر [ف. مَرَضٌ حَيَوانِيُّ المصدر]
+zoonosis	مَرَضٌ حَيَوَانِيّ المَصْدَر / مرض حيوانيّ المصدر
+zoonosis [pl.zoonoses]	المَرَضُ الحَيَوانِيُّ المَصْدَر [ج:الأَمْرَاضُ الحَيَوانِيَّة المَصْدَر]
+zoonosology	تَصْنيفُ الأَمْراضِ الحَيَوانِيَّة
+zooparasite	حيوان طُفَيليّ.
+zooparasite	طُفَيلِيٌّ حَيَوانِيّ
+zooparasitic	متعلق بالطُّفَيلِيِّ الحيَوانِيّ
+zoophilia	الوَلَعُ بالحَيَوان (هَوَسُ مُواقَعَةِ الحيوان)
+zoosis	مَرَضٌ حَيَوانِيُّ المَصْدَر
+zootrophotoxism	التَّسَمُّم بالأغذِيَةِ الحَيَوانِيَّة
+zorubicin	زوروبيسين (دواء مضاد للأورام) / زُورُوبِيسِين
+zoster encephalomyelitis	الْتِهابُ الدِّماغِ و النُّخاعِ النُّطاقِيّ
+zuckergussdarm (peritonitis chronica fibrosa encapsulans)	الْتِهابُ الصِّفاقِ الِّليفِيُّ المُمَحْفَظُ المُزْمِن
+zuckergussleber (perihepatitis chronica hyperplastica)	الْتِهابُ حَوَائِطِ الكَبِدِ المُفْرِطُ التَّنَسُّجِ المُزْمِن
+zygoma fracture	كَسْرُ الوَجْنَة
+zygomatic fracture	كَسْرُ القَوسِ الوَجَنِيَّة
+zygomatic mastoiditis	الْتِهابُ الخُشَّاءِ و النَّاتِىءِ الوَجْنِيّ
+zygomatic papilloma (yaws)	الوَرَمُ الحُلَيمِيُّ الوَجْنِيّ ( الدَّاءُ العُلَّيقِيّ)
+zymosis	(1) تخمُّر؛ اختمار (2) مرضٌ مُعْدٍ.

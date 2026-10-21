@@ -1,0 +1,180 @@
+طائرة زراعية	agricultural aircraft
+طائرة مسحوبة	tractor aeroplane
+طاحونةُ خَلْطِ الطُّفال الرملي	loam mill
+طاعُونُ الماشِيَة	cattle plague
+طاعون الماشية	rinderpest
+طاعونُ المَواشي	rinderpest
+طاقة زراعية كامنة	agricultural potential
+طايَة	monolith
+طِبُّ المَواشِي	buiatrics
+طِبُّ زَرْعِ الأَسْنانِ	dental implantology
+طِبُّ زَرْعِ الأَسْنانِ	implantodontics
+طِبُّ زَرْعِ الأَسْنان	implantodontology
+طِبُّ زَرْعِ الأَسْنانِ	oral implantology (implantodontics)
+طَبَقُ الزَّرْع	culture dish
+طبقة التربة	soil layer
+طبقة التُربة السطحية	matrix / surface soil / native soil / topsoil
+طَبقةُ التُّربة المُعْشَوشِبة	turf
+طبقة تربة متماسكة بالحشائش	sod (turf) / sod square
+طَّبَقَةُ مالبيغي	stratum malpighii (stratum germinativum)
+طَبَقَةٌ مُنْتِشَة	germinative layer
+طبقة مولدة	germinative layer
+طبيعة التربة	soil landscape
+طحلب المنجل	sickle moss
+طَرائقُ اختِبار التُّربة	soil-testing methods
+طراز البانك	punk style
+طُرق الاستزراع البكتيري	landfarming methods
+طَريقة الرَّش فَوْق الأشْجَار	sprinkler method, overtree
+طريقة الريّ	irrigation method
+طريقة الريّ بالأخاديد الكنتورية	contour-furrow method
+طريقة الريّ بالشرائح الطولية	border irrigation / border method
+طريقة الزراعة	farming method
+طريقة ريّ متن المنصة	bench border method; bench border irrigation; terrace irrigation method
+طريقة هيكل السمكة للرى بالأخاديد	herringbone furrow method
+طُعْم	graft
+طُعْم	graft; grafting
+طُعْمٌ إِبْطِيٌّ فَخِذِيّ	axillofemoral graft
+طُعْمٌ أَبْيَض	white graft (avascular graft)
+طُعْمٌ آجِل	delayed graft
+طعم أجنبيّ	heterologous graft
+طُعْمٌ أَجْنَبِيّ	xenogenic graft (xenograft)
+طُعْمٌ أَدَمِيّ	dermal graft
+طُعْمٌ أَدَمِيّ	dermic graft
+طُعْمٌ إسْتَنْتِيّ	Stent graft (Esser graft)
+طُعْمُ إِسَّر	Esser graft
+طُعْمٌ إسْفِنْجِيّ	sponge graft
+طُعْمٌ إسفينيّ	peg graft
+طُعْمٌ إِسْوِيّ	autochthonous graft (autograft)
+طُعْمٌ إِسْوِيّ	autogenous graft
+طُعْمٌ إِسْوِيّ	autologous graft
+طُعْمٌ إِسْوِيُّ البِنْيَة	isoplastic graft (syngraft)
+طُعْمٌ إِسْوِيُّ النَّمَطِ الجينِيّ	isologous graft (syngraft)
+طُعْمُ الشَّطيرَةِ الرَّقيقَة	thin-split graft (Ollier-Thiersch's graft)
+طُعْمُ الشَّطيرَةِ السَّميكَة	thick-split graft
+طُعْمٌ امْتِطائيٌّ مَجازِيّ	crossover bypass graft
+طُعْمٌ أُنْبوبِيّ	tube graft
+طُعْمُ أُوُليِيه-تِيرْش	Ollier-Thiersch graft
+طُعْمٌ بالمُخاطِيَّة	mucosal graft
+طُعْمٌ بَذْرِيّ	seed graft
+طُعْمُ براون	Braun graft
+طُعْمُ براون-وانغنستين	Braun-Wangensteen graft
+طُعْمٌ بَشْرَوِيّ	epidermic graft
+طُعْمُ بلير-براون	Blair-Brown graft
+طُعْمٌ تَتابُعِيّ	sequential graft
+طُعْمٌ تَرْصِيْعِيّ	inlay graft
+طُعْمٌ تَرْقيعِيّ	patch graft
+طُعْمُ تِيرْش	Thiersch's graft
+طُعْمٌ جَزيرِيّ	island graft
+طُعْمٌ جِلْدِيّ	cutis graft (dermal graft)
+طُعْمٌ جِلْدِيّ	skin graft
+طُعْمٌ جِلْدِيٌّ إِسْوِيّ	autodermic graft
+طُعْمٌ جِلْدِيٌّ إِسْوِيّ	autoepidermic graft
+طُعْمٌ جِلْدِيٌّ غَيْرَوِيٌّ	heterodermic graft
+طُعْمٌ جِلْدِيٌّ مَشْطور	split-skin graft
+طُعْمٌ جِلْدِيٌّ مَشْطور	split-thickness graft
+طُعْمٌ جَنينِيّ	brephoplastic graft
+طُعْمُ جيليس	Gillies' graft (rope flap)
+طُعْمٌ حَبْلِيّ	rope graft
+طُعْمٌ حَرْقَفِيّ	iliac graft
+طُعْمٌ حُزْمِيّ	fascicular graft
+طُعْمٌ خامِل	alloplast graft
+طُعْمٌ خُرْمِيّ	pinch graft
+طُعْمٌ خُصْوِيّ	testis graft
+طُعْمٌ خَيْفِيّ	allogeneic graft (allograft)
+طُعْمٌ داخِلَ النِّقْي	intramedullary graft
+طُعْمٌ دَرَقِيّ	thyroid graft
+طُعْمٌ دُهْنِيّ	fat graft
+طُعْمُ دوغلاس	Douglas's graft (sieve graft)
+طُعْمُ ديفيس	Davis graft (pinch graft)
+طُعْمٌ ذاتِيّ	autoplastic graft
+طُعْمٌ راصِع	outlay (onlay graft)
+طُعْمُ ريفيردان	Reverdin graft (epidermic graft)
+طُعْمٌ سِقائِيٌّ مَشيمائِيّ	chorioallantoic graft
+طُعْمٌ سِمْحاقِيّ	periosteal graft
+طُعْمٌ سَوِيُّ المَوْضِع	orthotopic transplant (allogenic graft)
+طُعْمٌ شَبَكِيّ	mesh graft
+طُعْمٌ شَبِيْهٌ بالكُمِّ	sleeve graft
+طُعْمٌ شَبِيْهٌ بمِقْبَضِ الحَقيبَة	valise handle graft
+طُعْمٌ شِرْيانِيّ	arterial graft
+طُعْمٌ صِفاحِيّ	lamellar graft
+طُعْمٌ صَفيحِيّ	sheet graft
+طُعْمٌ ضِلْعِيٌّ مَشْطور	split-rib graft
+طُعْمٌ عَصَبِيّ	nerve graft
+طُعْمٌ عَضَلِيّ	muscle graft
+طُعْمٌ عَظْمِيّ	bone graft
+طُعْمٌ عَظْمِيٌّ	bone implant (bone graft)
+طُعْمٌ عَظْمِيّ	osseous graft
+طُعْمٌ عَظْمِيٌّ رَاصِعِيّ	onlay bone graft
+طُعْمٌ عُنَيْقِيّ	pedicle graft (pedicle flap)
+طُعْمٌ غَرْسِيّ	implantation graft
+طُعْمٌ غُضْروفِيّ	cartilage graft
+طُعْمٌ غَيْرَوِيٌّ	heterologous graft (xenograft)
+طُعْمٌ غَيْرَوِيٌّ	heteroplastic graft (xenograft)
+طُعْمٌ غَيْرَوِيٌّ	heteroplastic transplant (xenoplastic graft)
+طُعْمٌ غَيْرَوِيّ	heterotopic transplant (xenoplastic graft)
+طُعْمٌ قُفَّازِيّ	gauntlet graft (pedicle flap)
+طُعْمٌ قَفْزِيّ	jump graft (jump flap)
+طُعْمٌ كابولِيّ	cantilever graft
+طُعْمٌ كامِلُ الثَّخانَة	full-thickness graft
+طُعْمٌ كَبْلِيّ	cable graft
+طُعْمُ كراوزه-وولف	Krause-Wolfe graft (full thickness graft)
+طُعْمٌ كُظْرِيّ	adrenal graft
+طُعْمُ كِيل	Kiel graft
+طُعْمٌ لاوِعائِيّ	avascular graft
+طُعْمٌ لَفائِفِيّ	ileal graft
+طُعْمٌ لِفافِيّ	fascia graft
+طُعْمٌ مُبايِن	heterograft
+طُعْمٌ مِثْلِيّ	homoplastic graft (allograft)
+طُعْمٌ مِثْلِيٌّ	homoplastic transplant (allogenic graft)
+طُعْمٌ مِثْلِيٌّ	homotopic transplant (allogenic graft)
+طُعْمُ مَجازَةِ الشِّرْيانِ التَّاجِيّ	coronary artery bypass graft
+طُعْمٌ مجازِيٌّ أَبْهَرِيٌّ فَخِذِيّ	aortofemoral bypass graft
+طُعْمٌ مَجازِيٌّ أَبْهَرِيٌّ كُلْوِيّ	aortorenal bypass graft
+طُعْمٌ مُحَرَّر	free graft
+طُعْمٌ مُسانِج	isogeneic graft (syngraft)
+طُعْمٌ مُسانِج	syngeneic graft (syngraft)
+طُعْمٌ مُطَوَّى	accordion graft
+طُعْمٌ مُفْرِطُ التَّنَسُّج	hyperplastic graft
+طُعْمٌ مَلْئِيّ	filler graft
+طُعْمٌ مُماثِل	homologous graft (allograft)
+طُعْمٌ مُنْخُلِيّ	sieve graft
+طُعْمٌ مُنَشِّط	activated graft
+طُعْمٌ نافِذ	penetrating graft
+طُعْمٌ نَفَقِيّ	tunnel graft
+طُعْمُ نِقْيِ العَظْم	bone marrow graft
+طُعْمٌ وَتَرِيّ	tendon graft
+طُعْمٌ وَريدِيّ	vein graft
+طُعْمٌ وِعائِيّ	vascular graft
+طُعْمُ وولف	Wolfe's graft
+طُعْمُ وولف كراوزه	Wolfe-Krause graft
+طُفال رَمْليّ	loam
+طُفال رَمْلي	mild clay = loam
+طُفالٌ رَمليّ	sandy clay = loam
+طَفَحُ التَّطْعِيْم	vaccination rash
+طِلاَء بالكُرُوم	chrome plating
+طِلاءٌ بالكروم	chromium plating
+طلاء بالكروم الصلب	hard chrome plating
+طَمَرَ العَلَفَ رَطْبًا	ensilage
+طمي	silt
+طمي أو رسوبيات	alluvial deposit (alluvium)
+طمي رمالي ناعم جدا	very fine sandy loam
+طمي رملي	sandy loam
+طمي رملي خشن	coarse sandy loam
+طمي رملي طيني	sandy clay loam
+طمي طيني	silt loam
+طُوبٌ مِن الطُّفال الرملي	loam bricks
+طولُ النَّبْض	pulse length
+طولُ النَبْضَة	pulse length
+طول النبضة الفعّال	effective pulse length
+طُول مجرى الصَّرْف	drainage length
+طويل القرن: «أ» رأس من ماشية إسبانيّة	longhorn
+طويل القوائم: أيّ من عدة حيوانات تتميز	daddy longlegs
+طير البقرة: طائر صغير مرافقٌ للماشية	cowbird
+طَيْرٌ دواجِن	fowl
+طيران زراعي	agricultural aviation
+طيران زراعي	agricultural aviation (agro-aviation)
+طَيْفُ	pulse-frequency spectrum
+طَيفُ النَّبْض	pulse spectrum
+طِينٌ رُسُوبي	alluvial clay
+طين غريني طميي	silty clay loam
+طيُورٌ داجِنَة	poultry

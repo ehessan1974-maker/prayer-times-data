@@ -1,0 +1,1660 @@
+واجِبُ التَّبْليغُ	certifiable
+واجهة بينية للتشخيص	diagnosis interface [UK] / diagnostics interface [US]
+وارِش	ecdemic
+وارِش	inquiline
+وباء	disease, epidemic
+وباء	epidemia
+وباء	epidemic
+وَباء	pestilence
+وباء حيواني -	epizootic
+وَباءٌ نَباتِيّ	phytodemic
+وباء: «أ» طاعون. وبخاصة: الطاعون	pestilence
+وبائي	epidemic
+وَتَدِيَّةٌ سُلِّية كَاذِبَة	Corynebacterium pseudo-tuberculosis
+وَثْء	sprain
+وَثْي	sprain
+وَثْي	stremma (sprain)
+وَثيُ الفُرْسان	riders' sprain
+وَثيُ شلاتَر	Schlatter's sprain
+وَثيٌ فَقارِيٌّ رَقَبِيّ	vertebral cervical sprain
+وَجَع	ache
+وَجَعٌ أَخْمَصِيّ	pododynia
+وجع الأربطة	desmalgia = desmodynia
+وجع الأربطة	desmodynia = desmalgia
+وجع الأسنان	dentalgia = odontalgia
+وجع الأطراف	acromelalgia = erythromelalgia
+وجع الأطراف الاحمراري	erythremomelalgia
+وجع الأطراف الاحمراري	erythromelalgia
+وَجَعُ الأَطْرافِ الاغْتِذائِيّ	acrotrophodynia
+وَجَعُ البَطْن	bellyache
+وجع البطن	celiodynia = celialgia
+وجع البطن	cellialgia
+وَجَعُ التَّبَوُّل	urodynia
+وَجَعُ الجَنَبَة	pleurodynia
+وَجَعُ الجَنَبَةِ الوَبائِيّ	epidemic pleurodynia
+وجع الخصية	didymalgia
+وجع الرأس	cephalodynia = cephalalgia
+وَجَعُ الرَّقَبَة	trachelodynia
+وَجَعُ الرَّهابَة	xiphoidalgia
+وَجَعُ السَّاق	skelalgia
+وَجَعُ السَّنّ	toothache
+وجع السنّ أو الأسنان	toothache
+وَجَعُ الطِحال	splenodynia
+وَجَعُ الظَّهْر	dorsodynia
+وَجَعُ العَجُز	sacrodynia
+وَجَعُ العُرْقوب	achillodynia
+وَجَعُ الغُضْروفِ الحِلْقِي	cricoidynia
+وَجَعُ الفَم	stomatodynia
+وَجَعُ القَصّ	sternodynia
+وَجَعُ القَضيب	posthalgia (phallodynia)
+وَجَعُ الكَتِف	scapulodynia
+وجع الكيس الدمعي	dacrycystalgia = dacryocystalgia
+وجع الكيس الدمعي	dacryocystalgia = dacrycystalgia
+وَجَعُ المَثانَة	cystalgia
+وجع المعدة	gasteralgia = gastralgia
+وَجَعُ المَعِدَة	gastralgia
+وَجَعُ المَعِدَة	gastrodynia
+وَجَعُ المَعِدَة	stomachache
+وَجَعُ المَعِدَة	stomachalgia
+وَجَعُ المَعِدَة	stomachodynia
+وَجَعُ المَعِدَةِ و الأَمْعاء	gastroenteralgia
+وَجَعُ النِّهايات	acrodynia
+وَجَعُ الوَتَر	teinodynia (tenodynia)
+وَجَعُ الوَتَر	tenodynia
+وَجَعُ الوَتَر	tenontodynia
+وجع الورك	ischialgia = ischiodynia
+وجع سنخي = وقبة جافة	alveolalgia= dry socket
+وجع عُصْعُصي	coccialgia = coccygodynia = coccydynia
+وَجَعُ عَضَلاَتِ الصَّدْر	thoracomyodynia
+وَجَعُ غارِ الفَكِّ العُلْوِيّ	genyantralgia
+وجع مراري	cholecystalgia
+وَجَعٌ مُسْتَقيمِيّ	proctodynia
+وَجَعٌ مِعَوِيّ	enterodynia
+وُجودُ الذِّيفانِ الدَّاخِلِيِّ فِي الدَّم	endotoxemia
+وُجُوْدُ السُّكَّرِ في اللُّعَاب	glycosialia
+وُجودِ الكُرَيَّاتِ المِنْجَلِيَّةِ	drepanocytemia (sickle cell anemia)
+وُجُوْدُ الكَيْلوسِ في الصِّفاق	chyloperitoneum
+وُجودُ المُسْتَضِدُّ الأسترالِيُّ فِي	Au-antigenemia (hepatitis B antigenemia)
+وُجُوْدُ المِكْروبات في الدَّمِ	microbemia (septicemia)
+وُجُوْدُ المِكْروباتِ في الدَّم	microbiemia (septicemia)
+وحدة إزالة الماء المتنقِّلة	portable dehydration unit, (P.D.u.)
+وَحْدَةُ الأَمْراضِ التَّنَفُّسِيَّة	respiratory diseases unit
+وَحْدَةُ الأَورام	tumor unit
+وَحْدَةُ الرُّضوح	trauma unit
+وحدة الغشاء الملفوف حلزونيا	spiral wound module
+وحدة تجفيف الغاز الطبيعي	Glycol Dehydrator
+وَحْدَةُ رِعايَةِ المَرْضَى	inpatient care unit
+وَحْدَةُ رِعايَةِ المَرْضَى	mixed inpatient care unit
+وَحْدَة نَزْع الماء	dehydration plant
+وَحْمَةٌ شُعَيْرِيَّة	capillary nevus (capillary hemangioma)
+وَحْمَةٌ كَهْفِيَّة	nevus cavernosus (cavernous hemangioma)
+وَحْمَةٌ مَلْساء	nevus molluscum (nevolipoma)
+وَحْمَةُ”الوَرَمِ الشَّحْمِيّ	nevus lipomatosus (nevolipoma)
+وَخامَةُ المَرَض	severity of illness
+وَخْزُ بِرْنار	Bernard's puncture (diabetic puncture)
+وَخْزٌ مُحْدِثٌ للسُّكَّرِيِّ	diabetic puncture (Bernard's puncture)
+وَذَح	erythrasma
+وَذَمَة	edema
+وَذَمة	oedema
+وَذَمَةٌ ارْتِفاكِيَّة	edema artefactum
+وَذَمَةٌ اغْتِذائِيَّة	trophoedema
+وَذَمَةُ الأَجْفان	hydroblepharon
+وَذَمَةُ الأَصابِع	dactyledema
+وَذَمَةُ الاعْتِلاَلِ العَصَبِيّ	neuropathic edema (pseudolipoma)
+وَذَمَةُ الأَنْسِجَة	histohydria (edema)
+وَذَمَةُ الأَنْف	rhinedema
+وَذَمَةُ البَصْمَةِ المُنْطَبِعَة	fingerprint edema
+وَذَمَةٌ الْتِهابِيَّة	inflammatory edema
+وَذَمَةُ الجُرْح	wound edema
+وَذَمَةُ الجوع	hunger edema (nutritional edema)
+وَذَمَةُ الحُروب	war edema (nutritional edema)
+وَذَمَةُ الحُلَيمَة	papilloedema (papilledema)
+وَذَمَةُ الدِّماغ	brain swelling
+وَذَمَةُ الدِّماغ	encephaloedema
+وَذَمَةُ الرِّئَة	edema of lung
+وَذَمَةُ الرِّئَة	pneumonedema
+وَذَمَةُ الرِّئَةِ الرَّبيعِيَّة	vernal edema of lung
+وَذَمَةُ الرِّئَةِ فِي المُرْتَفَعات	high-altitude pulmonary edema
+وَذَمَةُ الرَّأْس	cephaledema
+وَذَمَةُ الرَّحِم	hysteroedema
+وَذَمَةُ السَّاقِ	trophedema
+وَذَمَةُ السَّاقِ الخِلْقِيَّة	congenital trophedema (hereditary trophedema)
+وَذَمَةُ السَّاقِ الوِراثِيَّة	hereditary trophedema
+وَذَمَةُ السِّمْحاق	periosteodema
+وَذَمَةُ السِّمْحاق	periosteoedema
+وَذَمَةُ العَضَلَة	myoedema
+وَذَمَةُ العَضَلَة	myoidem (myoedema)
+وَذَمَةُ العَضَلَة	myoidema
+وَذَمَةُ القَدَم	podedema
+وَذَمَةُ القَرْنِيَّة	bedewing
+وَذْمَةُ القَصَبات	bronchoedema
+وَذْمَة القَلْب	cardiac edema
+وَذَمَةُ اللَّهاة	staphyledema
+وَذَمَةُ اللَّهاة	staphyloedema
+وَذَمَةُ المَجاعَة	famine edema
+وَذَمَةُ المِزْمار	edema glottidis
+وَذَمَةُ المُلْتَحِمَة	chemosis
+وَذَمَةُ المَهْبِل	colpedema
+وَذَمَةُ الوَليد	edema neonatorum
+وَذَمَةٌ انْتِهائِيَّة	terminal edema
+وَذَمَةٌ بَارِدَة	edema frigidum (noninflammatory edema)
+وَذَمَةٌ بَولِيَّة	uredema
+وَذَمَةٌ بَولِيَّة	uroedema
+وَذَمَةٌ بيرلان	Berlin's edema
+وَذَمَةُ بيروغوف	Pirogoff's edema (malignant edema)
+وَذَمُةٌ بَيضاء	leukoedema
+وَذَمَةٌ تَغْذَوِيَّة	alimentary edema (nutritional edema)
+وَذَمَةٌ تَغْذَوِيَّة	nutritional edema
+وَذَمَةٌ جِلْدِيَّةٌ مَوضِعِيَّة	local intracutaneous edema
+وَذَمَةُ حَقْنِ الأَنْسولين	insulin edema
+وَذَمَةُ حُلَيمَةِ العَصَبِ البَصَرِيّ	papilledema
+وَذَمَةٌ حُلَيمِيَّةٌ كاذِبَة	pseudopapilledema
+وَذَمَةٌ حَولَ الشَّبَكِيَّة	periretinal edema
+وَذَمَةٌ حَيضِيَّة	menstrual edema
+وَذَمَةٌ خَبيثَة	malignant edema
+وَذَمَةٌ دِماغِيَّة	brain edema
+وَذَمَةٌ دِماغِيَّة	cerebral edema
+وَذَمَةٌ دِمَاغِيَّةٌ رَضْحِيَّةٌ حادَّة	acute traumatic cerebral edema
+وَذَمَةٌ دَورِيَّة	periodic edema (angioneurotic edema)
+وَذَمَةٌ رِئَوِيَّة	pulmonary edema
+وَذَمَةٌ رِئَوِيَّةٌ انْتِيابِيَّة	paroxysmal pulmonary edema
+وَذَمَةٌ رُوْمَاتِزْمِيَّة	rheumatismal edema
+وَذَمَةٌ زَرْقاء	blue edema
+وَذَمَةٌ ساخِنَة	edema calidum
+وَذَمَةٌ سَمْراء	brown edema
+وَذَمَةٌ سُمِّيَّة	toxic edema
+وَذَمَةٌ شَحْمِيَّة	lipedema
+وَذَمَةٌ شَحْمِيَّة	lipoedema
+وَذَمَةٌ شَيخوخِيَّة	senile edema
+وَذَمَةٌ صُلْبَة	scleredema
+وَذَمَةٌ صُلْبَة	solid edema (myxedema)
+وَذَمَةٌ ضُمورِيَّة	atrophedema (angioneurotic edema)
+وَذَمَةٌ عابِرَة	edema fugax
+وَذَمَةٌ غازِيَّة	gaseous edema
+وَذَمَةٌ فُقَّاعِيَّةٌ حُوَيصِلِيَّة	edema bullosum vesicae
+وَذَمَةٌ قَلْبِيَّةُ المَنْشَأ	cardiac edema
+وَذَمَةٌ قَيحِيَّة	purulent edema
+وَذَمَةٌ كاذِبَة	pseudoedema
+وَذَمَةُ كالابار	Calabar edema (Calabar swellings)
+وَذَمَةٌ كَبِدِيَّةُ المَنْشَأ	hepatic edema
+وَذَمَةٌ كُلاَئِيَّة	nephrotic edema
+وَذَمَةٌ كُلْوِيَّة	nephritic edema
+وَذَمَةٌ كُلْوِيَّةُ المَنْشَأ	renal edema
+وَذَمَةٌ كِوينكِه	Quincke's edema (angioneurotic edema)
+وَذَمَةٌ لاالْتِهابِيَّة	noninflammatory edema
+وَذَمَةٌ لافاعِلَة	passive edema
+وَذَمَةٌ لامَرْئِيَّة	invisible edema
+وَذَمَةٌ لامُنْطَبِعَة	nonpitting edema
+وَذَمَةٌ لِمْفِيَّة	lymphatic edema
+وَذَمَةٌ لِمْفِيَّة	lymphedema
+وَذَمَةٌ لِمْفِيَّة	lymphoedema
+وَذَمَةٌ لِمْفِيَّةٌ ثانَوِيَّة	secondary lymphedema
+وَذَمَةٌ لِمْفِيَّةٌ خِلْقِيَّة	congenital lymphedema
+وَذَمَةٌ لِمْفِيَّةٌ مُبَكِّرَة	lymphedema praecox
+وَذَمَةٌ لِمْفِيَّةٌ مُتَأَخِّرَة	lymphedema tarda
+وَذَمَةٌ لِيفِيَّةٌ وِراثِيَّة	heredotrophedema (hereditary lymphedema)
+وَذَمَةٌ مائِيَّة	hydremic edema
+وَذَمَةٌ مُتَحَدِّدَة	circumscribed edema
+وَذَمَةٌ مَجْهُوْلَةُ السَّبَب	idiopathic edema
+وَذَمَةٌ مُخاطِيَّة	mucous edema (myxedema)
+وَذَمَةٌ مُخاطِيَّة	myxedema
+وَذَمَةٌ مُخاطِيَّةٌ أَمامَ الظُّنْبوب	pretibial myxedema
+وَذَمَةٌ مُخاطِيَّةٌ تَالِيَةٌ للجِرَاحَة	operative myxedema (postoperative myxedema)
+وَذَمَةٌ مُخاطِيَّةٌ تالِيَةٌ للجِرَاحَة	postoperative myxedema
+وَذَمَةٌ مُخاطِيَّةٌ ثالِثِيَّة	tertiary myxedema (hypothalamic hypothyroidism)
+وَذَمَةٌ مُخاطِيَّةٌ ثانَوِيَّة	secondary myxedema (pituitary myxedema)
+وَذَمَةٌ مُخاطِيَّةٌ جِراحِيَّة	surgical myxedema (postoperative myxedema)
+وَذَمَةٌ مخاطِيَّةٌ حَطاطِيَّة	papular myxedema (lichen myxedematosus)
+وَذَمَةٌ مُخاطِيَّةٌ خِلْقِيَّة	congenital myxedema (cretinism)
+وَذَمَةٌ مُخاطِيَّةٌ صُلْبَة	scleromyxedema (lichen myxedematosus)
+وَذَمَةٌ مُخاطِيَّةٌ طِفْلِيَّة	infantile myxedema
+وَذَمَةٌ مُخاطِيَّةٌ عُقَيْدِيَّة	nodular myxedema (pretibial myxedema)
+وَذَمَةٌ مُخاطِيَّةٌ مُتَحَدِّدَة	circumscribed myxedema
+وَذَمَةٌ مُخاطِيَّةٌ مُعَجَّرَة	tuberous myxedema
+وَذَمَةٌ مُخاطِيَّةٌ نُخامِيَّةُ المَنْشَأ	pituitary myxedema
+وَذَمَةٌ مُخاطِيَّةٌ وِطائِيَّةُ المَنْشَأ	hypothalamic myxedema
+وَذَمَةٌ مَشيمِيَّة	placental edema
+وَذَمَةٌ مُعْتَمِدَة	dependent edema
+وَذَمَةٌ مِلْحِيَّة	salt edema
+وَذَمَةٌ مُنْطَبِعَة	pitting edema
+وَذَمَةٌ مُهاجِرَة	migratory edema (angioneurotic edema)
+وَذَمَةُ مِيلتون	Milton edema (angioneurotic edema)
+وَذَمَةُ مِيلرُوي	Milroy's edema
+وَذَمَةٌ هِسْتيرِيَّة	hysterical edema (blue edema)
+وَذَمَةُ هوغونين	Huguenin's edema
+وَذَمَةٌ وَريدِيَّة	venous edema
+وَذَمَةٌ وِعائِيَّة	angioedema (=angioneurotic edema)
+وَذَمَةٌ وِعائِيَّةُ المَنْشَأ	vasogenic edema
+وَذَمَةٌ وِعائِيَّةٌ عَصَبِيَّة	angioneurotic edema
+وَذَمَةٌ وِعائِيَّةٌ عَصَبِيَّةٌ	hereditary angioedema
+وَذَمَةٌ وِعائِيَّةٌ عَصَبِيَّةٌ	hereditary angioneurotic edema
+وَذَمَةٌ وِعائِيَّةٌ عَصَبِيَّة	hydrops hypostrophos (angioneurotic edema)
+وُرامٌ أَعْدَس	phacomatosis
+وٌرامٌ أَعْدَس	phakomatosis
+ورام حبيبي خبيث	granulomatosis, malignant = Hodgkin's disease
+وُرامٌ حُبَيبِيٌّ خَبيث	malignant granulomatosis (Hodgkin's disease)
+وُرامٌ حُبَيبِيٌّ لِمْفِيٌّ خَبيث	lymphogranulomatosis malignant (Hodgkin's disease)
+وُرامٌ حُلَيمِيّ	papillomatosis
+وُرامٌ حُلَيمِيٌّ الْتِهابِيّ	inflammatory papillomatosis
+وُرامٌ لُقْمِيّ	condylomatosis
+وُرامٌ لِيفِيّ	fibromatosis
+وُرامٌ نِقْيِيٌّ	myelomatosis (multiple myeloma)
+وُرَامٌ وِعائِيّ	angiomatosis
+وردي	pink
+وردية	acne rosacea
+وَرَقُ الرَّبْو	asthma paper (niter paper)
+وَرَقَة سَرْخَسِيَّة	frond
+وَرَم	neoformation (neoplasm)
+وَرَم	new growth (neoplasm)
+وَرَم	oncoma (neoplasm)
+وَرَم	tumeur
+وَرَمٌ	tumor
+وَرَم	tumor = tumour
+وَرَم	tumor; tumour
+ورم	tumour; swelling
+وَرَمُ أبريكوسوف	Abrikosov's tumor (granular cell tumor)
+وَرَمٌ إِبْطِيّ	maschaloncus
+وَرَمٌ أُحادِيُّ الأَدَمَة	monodermoma
+وَرَمٌ أُحادِيُّ الطَّرَف	monomelic tumor
+وَرَمٌ أَخْضَر	chloroma
+وَرَمٌ أَخْضَر لِمْفِيّ	lymphochloroma
+وَرَمٌ أَديمِيٌّ مُتَوَسِّطِيّ	mesodermal tumor
+وَرَمٌ ارْتِشاحِيّ	infiltrating tumor
+وَرَمُ أَرُوْمَاتِ الجُزُرِ	nesidioblastoma
+وَرَمُ أَروماتِ الحُمْر	erythroblastoma
+وَرَمُ أَروماتِ الكُرَيَّات	hemocytoblastoma
+وَرَمُ أروماتِ الميناء الشَّائِكَة	acanthoameloblastoma
+وَرَمُ أَروماتِ الوَحيدَة	monoblastoma
+وَرَمُ أرُوماتِ لُبِّ الكُظْر	adrenomedulloblastoma
+ورم أرومة المينا	ameloblastoma
+ورم أرومة المينا الميلانيني	ameloblastoma, malanotic
+وَرَمٌ أَرومِيّ	blastocytoma (blastoma)
+وَرَمٌ أَرومِيّ	blastoma (blastocytoma)
+وَرَمٌ أَرومِيّ	blastomal tumor
+وَرَمٌ أَرومِيٌّ إِسْفَنْجِيٌّ أُحادِيُّ	spongioblastoma unipolare
+وَرَمٌ أَرومِيٌّ إِسْفَنْجِيٌّ عَديدُ	spongioblastoma multiforme
+وَرَمٌ أَرومِيٌّ إِسْفَنْجِيٌّ قُطِبْيّ	polar spongioblastoma
+وَرَمٌ أَرومِيٌّ اغْتِرابِيّ	choristoblastoma
+وَرَمٌ أَرومِيٌّ اغْتِرابِيّ	choristoma
+وَرَمٌ أَرومِيٌّ بالغُدَّةِ	gonadoblastoma
+وَرَمٌ أَرُوْمِيٌّ بِدائِيٌّ	archiblastoma
+وَرَمٌ أَرومِيٌّ بِطانِي	endothelioblastoma
+وَرَمٌ أَرومِيٌّ بِطانِيٌّ وِعائِيّ	hemangioendothelioblastoma
+وَرَمٌ أَرُوْمِيٌّ حَبْلِيٌّ	chordoblastoma (chordoma)
+وَرَمٌ أَرومِيٌّ خُنْثَوِيّ	gynandroblastoma
+وَرَمٌ أَرومِيٌّ دِبْقِيّ	glioblastoma
+وَرَمٌ أَرومِيٌّ دِبْقِيٌّ عِمْلاَقُ	giant cell glioblastoma
+وَرَمٌ أَرومِيٌّ دِبْقِيٌّ مُتَشاكِل	glioblastoma isomorphe (medulloblastoma)
+وَرَمٌ أَرومِيٌّ دِبْقِيٌّ مُتَعَدِدُ	glioblastoma multiforme (glioblastoma)
+وَرَمٌ أَرومِيٌّ رِئَوِيّ	pneumoblastoma
+وَرَمٌ أَرومِيٌّ سِحائِيّ	meningoblastoma
+وَرَمٌ أَرُوْمِيٌّ سِنِّيّ	odontoblastoma
+وَرَمٌ أَروميٌّ شَبَكِيّ	retinoblastoma
+وَرَمٌ أَرُوْمِيٌّ شَحْمِيّ	lipoblastoma
+وَرَمٌ أَرومِيٌّ ظِهارِيّ	epithelioblastoma
+وَرَمٌ أَرُوْمِيٌّ عَابِيّ	hamartoblastoma
+وَرَمٌ أَرومِيٌّ عاجِيّ	dentinoblastoma
+وَرَمٌ أَرُوْمِيٌّ عَصَبِيٌّ	neuroblastoma
+وَرَمٌ أَرُوْمِيٌّ عَصَبِيٌّ حِسِّي	esthesioneuroblastoma (olfactory neuroblastoma)
+وَرَمٌ أَرومِيٌّ عَضَلِيٌّ أَمْلَس	leiomyoblastoma
+وَرَمٌ أَرُوْمِيٌّ غُضْرُوْفِيٌّ	chondroblastoma
+وَرَمٌ أَرُوْمِيٌّ غُضْرُوْفِيٌّ حَمِيْدٌ	benign chondroblastoma
+وَرَمٌ أَرومِيٌّ كَبِدِيّ	hepatoblastoma
+وَرَمٌ أَرومِيٌّ كُلْوِيّ	nephroblastoma
+وَرَمٌ أَرومِيٌّ لِمْفاوِيّ	lymphoblastoma
+وَرَمٌ أَرومِيٌّ لِيفِيّ	fibroblastoma
+وَرَمٌ أَرُوْمِيٌّ لِيْفِيٌّ سِحَائِيٌّ	meningofibroblastoma (meningioma)
+وَرَمٌ أَرومِيٌّ لِيفِيٌّ مُحِيْطٌ	perineural fibroblastoma
+وَرَمٌ أَرومِيٌّ مُتَعَدِّدُ المَراكَز	pluricentric blastoma
+وَرَمٌ أَرومِيٌّ مَسْخِيّ	teratoblastoma
+وَرَمٌ أَرومِيٌّ مَشيمائِيّ	chorioblastoma
+وَرَمٌ أَرُوْمِيٌّ مِلاَطِيٌّ	cementoblastoma
+وَرَمٌ أَرُومِيٌّ ميلانينيٌّ	melanoblastoma (malignant melanoma)
+وَرَمٌ أَرُوميٌّ مينائيّ	ameloblastoma (adamantoma)
+وَرَمٌ أرومِيٌّ مينائِيّ	enameloblastoma (adamantinoma)
+وَرَمٌ أَرُوميٌّ مينائيٌّ خَبِيثٌ	malignant ameloblastoma
+وَرَمٌ أَرومِيٌّ مينائِيٌّ سِنِّيّ	odontoameloblastoma
+وَرَمٌ أَرُوميٌّ مينائيٌّ شَائِك	acanthomatous ameloblastoma
+وَرَمٌ أَرومِيٌّ مينائِيٌّ لِيفِيّ	fibroadamantoblastoma
+وَرَمٌ أَرُوميٌّ مينائيٌّ مُصْطَبِغٌ	pigmented ameloblastoma (melanotic neuroectodermal tumor)
+وَرَمٌ أَرومِيٌّ مِيْنَائِيٌّ ميلانِينيّ	melanoameloblastoma
+وَرَمٌ أرومِيٌّ مينائِيٌّ ميلانينيّ	melanotic ameloblastoma (melanotic neuroectodermal tumor)
+وَرَمٌ أَروميٌّ مينائيٌّ نُخامِيّ	pituitary ameloblastoma (craniopharyngioma)
+وَرَمٌ أَرُوْمِيٌّ مينائِيٌّ وِعائِيّ	hemangioameloblastoma
+وَرَمٌ أَرومِيٌّ نَجْمِيّ	astroblastoma
+وَرَمٌ أَرومِيٌّ نُخاعِيّ	medulloblastoma
+وَرَمٌ أَرُوْمِيٌّ نِقَوِيٌّ	myeloblastoma
+وَرَمٌ أَرومِيٌّ وَحيدُ المَرْكَز	unicentric blastoma
+وَرَمٌ أَرُوْمِيٌّ وُدِّيٌّ عُقْدِيّ	gangliosympathicoblastoma (ganglioneuroblastoma)
+وَرَمُ أَرُوْمِيٌّ وِعَائِيٌّ	angioblastoma
+وَرَمٌ أَرومِيٌّ وِعائِيّ	hemangioblastoma
+وَرَمُ أَرُوْمِيٌّ وِعائِيٌّ شَبَكِيٌّ	retinal angioblastoma
+وَرَمٌ أَرومِيٌّ وِعائِيٌّ لِيفِيٌّ	fibrolymphoangioblastoma
+وَرَمٌ أُسْطُوانِيُّ الخَلاَيا	cylindroma
+وَرَمٌ إِسْفَنْجِيّ	spongioblastoma
+وَرَمٌ إِسْفَنجِيُّ الخَلاَيا	spongiocytoma
+وَرَمٌ إسْفَنْجِيٌّ خُصْوِيّ	orchidospongioma
+وَرَمٌ إسْفَنجِيٌّ عَصَبِيٌّ	neurospongioma (glioma)
+وَرَمٌ إسْفَنْجِيٌّ عَظْمِيّ	osteospongioma
+وَرَمٌ إِشْتائِيّ	hibernoma (brown fat tumor)
+وَرَمٌ أَصْفَرٌ بِطانِيٌّ وَحْمِيّ	nevoxanthoendothelioma (juvenile xanthogranuloma)
+وَرَمٌ أَصْفَرُ كاذِبٌ مَرِن	pseudoxanthoma elasticum
+وَرَمٌ أَصْفَرُ لِيفِيّ	fibroxanthoma
+وَرَمٌ أَعْدَس	phacoma (phakoma)
+وَرَمٌ أَعْدَس	phakoma
+وَرَمٌ أَعْضَائِيّ	organoma
+وَرَمُ الأَديمُ العَصَبِيِّ الظَّاهِرِ	melanotic neuroectodermal tumor
+وَرَمُ الأَروماتِ الإِنْتاشِيَّة	disgerminoma (dysgerminoma)
+وَرَمُ الأَرُوماتِ الصَّنَوْبَرِيَّة	pinealoblastoma
+وَرَمِ الأَروماتِ الغُدِّيَّة	adenoblastoma
+وَرَمُ الأَرُوْمَاتِ المِيْنَائيَّة	adamantoblastoma (ameloblastoma)
+وَرَمُ الأَرُوْمَاتِ المِيْنَائيَّة	adamantoma (ameloblastoma)
+وَرَمُ الأَروماتِ المينائِيَّة الغُدِّيّ	adenoameloblastoma
+وَرَمُ الأَرومَةِ الصَّنَوْبَرِيَّة	pineoblastoma
+وَرَمُ الأَرومَةِ الغاذِيَة	trophoblastic neoplasm
+وَرَمُ الأَرومَةِ الغاذِيَة	trophoblastoma (choriocarcinoma)
+وَرَمُ الأَرُوْمَةِ الوُدِيَّة	sympathicoblastoma
+وَرُمُ الأَرُوْمَةِ الوُدِّيَّة	sympathoblastoma
+وَرَمُ الأَقْنِيَةِ الصَّفْراوِيَّة	cholangioma
+وَرَمُ الأَوعِيَةِ الكَيلوسِيَّة	chylangioma
+ورم البطانة العصبية	ependymocytoma = ependymoma
+وَرَمُ البِطانَةِ العَصَبِيَّة و تَحْتِها	subependymoma
+وَرَمُ البلازْماوِيَّات	plasmacytoma
+وَرَمُ البلازْماوِيَّات	plasmocytoma (myeloma)
+وَرَمُ البلازماوِيَّات	plasmoma
+وَرَمُ البلازْماوِيَّاتِ الجِلْدِيّ	cutaneous plasmacytoma
+وَرَمُ البلازْماوِيَّاتِ العَظْمِيُّ	multiple plasmacytoma of bone
+وَرَمُ البلازْماوِيَّاتِ المُحيطِيّ	peripheral plasmacytoma
+وَرَمُ البلازْماوِيَّاتِ المُنْفَرِد	solitary plasmacytoma
+وَرَمُ البلازْماوِيَّاتِ خارِجَ النِّقْي	extramedullary plasmacytoma
+وَرَمُ البَنكرِيَاس	pancreatoncus
+وَرَمُ البُوْق	salpingioma
+وَرَمُ التَّلْمِ الرِّئَوِيّ	pulmonary sulcus tumor
+وَرَمُ التَّلَم العُلْوِيّ	superior sulcus tumor
+وَرَمٌ الْتِهابِيّ	inflammatory neoplasm
+وَرَمُ الجُزَيرات الغُدِّيّ	islet adenoma
+وَرَمُ الجِسْمِ الأَصْفَر	luteoma
+وَرَمُ الجِسْمِ السُّباتِيّ	carotid body tumor
+وَرَمُ الخُصْيَة	gonioma
+وَرَمُ الخَلاَيا	granulosa-theca cell tumor
+وَرَمُ الخَلايا الأَبُودِيَّة	apudoma
+وَرَمُ الخَلاَيا الأَليفَةِ للكرُوم	chromaffin-cell tumor (pheochromocytoma)
+وَرَمُ الخَلاَيا البَدينَة	mast cell tumor (mastocytoma)
+وَرَمُ الخَلاَيا البَديْنَة	mastocytoma
+وَرَمُ الخَلاَيا البَديْنَةِ المُنْفَرِد	solitary mastocytoma
+وَرَمُ الخَلاَيا البَطَانِيَّةُ	ependymocytoma (ependymoma)
+وَرَمُ الخلايا البلازماوية	plasma cell tumor
+وَرَمُ الخَلاَيا الجِنْسِيَّةّ	germinal tumor
+وَرَمُ الخَلاَيا الحُبَيبِيَّة	granular cell tumor
+وَرَمُ الخَلاَيا الحَمِضَة	oxyphil cell tumor (Hurthle cell tumor)
+وَرَمُ الخلاَيا الحَوطِيَّة	pericytoma (hemangiopericytoma)
+وَرَمُ الخَلاَيا الحْولِيَّة	hemangiopericytoma
+وَرَمُ الخَلاَيا الخِلاَلِيَّة	interstitialoma
+وَرَمُ الخَلاَيا الخِلاَلِيَّة	interstitioma
+وَرَمُ الخَلاَيا الشَّحْمانِيَّةِ في	lipoid cell tumor of ovary
+وَرَمُ الخَلاَيا العَصَبِيَّة	neurocytoma (neuroepithelioma)
+وَرَمُ الخَلاَيا العُقْدِيَّة	gangliocytoma
+وَرَمُ الخَلاَيا العِمْلاَقَة	giant cell tumor
+وَرَمُ الخَلاَيا العِمْلاَقَةِ في العِظام	giant cell tumor of bone
+وَرَمُ الخَلاَيا العِمْلاَقَةِ في غِمْدِ	giant cell tumor of tendon sheath
+وَرَمُ الخَلاَيا الغِمْدِيَّة	lemmocytoma
+وَرَمُ الخلايا ألفا	alpha cell tumor (glucagonoma)
+وَرَمُ الخَلاَيا القِرابِيَّةِ	luteinized granulosa-theca cell tumor (luteoma)
+وَرَمُ الخَلاَيا القِرابِيَّة	theca cell tumor
+وَرَمُ الخَلاَيا المُتَعَدِّدَةِ	pleochromocytoma
+وَرَمُ الخَلاَيا المُتَهافِتَة	clasmocytoma (reticulum cell sarcoma)
+وَرَمُ الخَلاَيا المُجاوِرَةِ للكُبَيبَة	juxtaglomerular cell tumor
+وَرَمُ الخَلاَيا المُحَبَّبَة	granulosa cell tumor
+وَرَمُ الخلايا المَيَالينيَّة	myelinoma
+وَرَمُ الخلايا الميلانينيَّة	melanocytoma
+وَرَمُ الخَلاَيا الميلانينيَّةِ الجِلْدِيّ	dermal melanocytoma (blue nevus)
+وَرَمُ الخَلاَيا الميلانينيَّةِ المُرَكَّب	compound melanocytoma
+وَرَم الخَلايَا النَجمِيَّة	astrocytoma
+وَرَمُ الخَلاَيا الوُدِّيَّة	sympathicocytoma (neuroblastoma)
+وَرَمُ الدِّبْقِيَّاتِ القَلِيْلَةِ	oligodendroblastoma (oligodendroglioma)
+وَرَمُ الدِّبْقِيَّاتِ القَلِيْلَةِ	oligodendroglioma
+وَرَمٌ أَلْدُوستيرُونِيّ	aldosteronoma
+وَرَمُ الرَّشَّاشِيَّات	aspergilloma
+وَرَمُ الرُّكْبَة	gonatocele
+وَرَمُ السَّحايا الرَّقيقَة	leptomeningioma
+وَرَمُ السُّرَّة	omphaloma
+وَرَمُ السُّرَّة	omphaloncus (omphaloma)
+وَرَمُ الشَّبَكِيَّةِ الدِّبْقِيّ	glioma retinae
+ورم الشعبة	bronchus, neoplasm = tumor of bronchus
+وَرَمُ الشُّعِّيَّات	actinomycotic mycetoma
+وَرَمُ الشُّعَيْرات	telangioma
+وَرَمُ الشَّفَةِ المُخْتلط	lip mixed tumor
+وَرَمُ الطِّحال	splenoma
+وَرَمُ الطِّحال	splenoncus
+وَرَمُ العاج	dentinoid tumor
+وَرَمُ العَصَبِ السَّمْعِيّ	acoustic nerve tumor
+وَرَمُ العَصَبِ السَّمْعِيّ	acoustic neuroma
+وَرَمُ العَظْمانيَّاتِ العِملاقة	giant osteoid osteoma (osteoblastoma)
+وَرَمُ الغُدَدِ العَرَقِيَّة	syringoadenoma
+وَرَمُ الغُدَدِ العَرَقِيَّة	syringocystadenoma (hidradenoma)
+وَرَمُ الغُدَدِ العَرَقِيَّةِ الحُلَيمِيّ	syringocystadenoma papilliferum
+وَرَمُ الغُدَدِ العَرَقِيَّةِ الكيسِيّ	syringocystoma
+ورم الغدة الدرقية	adenomatous goiter
+وَرَمُ الغُدَّةِ الصِّمْلاَخِيَّة	ceruminoma
+وَرَمُ الغُدَّةِ الصَّنَوْبَرِيَّةِ	ectopic pinealoma
+وَرَمُ الغُدَّةِ الصَّنَوْبَرِيَّة	pinealocytoma
+وَرَمُ الغُدَّةِ الصَّنَوْبَرِيَّة	pinealoma
+وَرَمُ الغُدَّةِ الصَّنَوْبَرِيَّة	pineocytoma
+ورم القزحية	iridoncus
+وَرَمُ القِشْرَةِ الكُظْرِيَّة الغُدِّيّ	adrenocortical adenoma
+وَرَمُ القَصَبَةِ السَّرَطاوِيّ	carcinoid tumor of bronchus
+وَرَمُ القِمْع	infundibuloma
+وَرَمُ القَناةِ القِحْفِيَّة	craniopharyngeal duct tumor (craniopharyngioma)
+وَرَمُ القَواتِم	medullosuprarenoma (pheochromocytoma)
+وَرَمُ القَواتِم	pheochromoblastoma (pheochromocytoma)
+وَرَمُ القَواتِم	pheochromocytoma
+وَرَمُ الكُرَيَّاتِ البِيْض	leukocytoma
+وَرَمُ الكُظْر	paranephroma
+وَرَمُ الكُظْر	suprarenoma
+وَرَمُ الكيسِ المُحِّيّ	yolk sac tumor (mesonephroma)
+وَرَمُ اللَّهاة	staphyloncus
+ورم ألماسي	adamantinoma = adamantoma
+وَرَمُ المُتَغَلِّظَات	pyknocytoma
+وَرَمُ المُتَوَسِّطَة	celothelioma (mesothelioma)
+وَرَمُ المُتَوَسِّطَة	mesohyloma (mesothelioma)
+وَرَمُ المُتَوَسِّطَة	mesothelioma
+ورم المثانة	bladder tumour
+وَرَمُ المُحَبَّبات	granulosa tumor (granulosa cell tumor)
+وَرَمُ المُسْتَقْبِلاَتِ الكِيمْيائِيَّة	chemodectoma
+وَرَمُ المُسْتَقْتِمات	paraganglioma
+وَرَمُ المُسْتَقْتِمات	paraganglionoma
+وَرَمُ المُسْتَقْتِماتِ اللاصَبوغَةِ	nonchromaffin paraganglioma (chemodectoma)
+وَرَمُ المُسْتَقْتِماتِ اللُّبِّيَّة	medullary paraganglioma (pheochromocytoma)
+وَرَمُ المَطْرِسِ الشَّعْرِيّ	pilomatricoma
+وَرَمُ المَطْرِسِ الشَّعْرِيّ	pilomatrixoma
+وَرَمُ المَعِدَةِ اللِّيْفِيّ	fibromatosis ventriculi (linitis plastica)
+وَرَمُ المُلْحَقاتِ الجِلْدِيَّةِ	adnexal adenoma
+وَرَمُ المُنْتَبِجات	oncocytoma
+وَرَمُ المُنْسِجات	histiocytoma
+وَرَمُ المُنْسِجاتِ الشَّحْمِيّ	lipoid histiocytoma
+وَرَمُ المُنْسِجاتِ اللِّيفِيّ	fibrous histiocytoma
+وَرَمُ النُّخَامِيَّة	hypophysoma
+وَرَمُ النَّسيجِ الضَّامّ	connective-tissue tumor
+وَرَمُ النَّسيجِ الضَّامّ	mesocytoma
+وَرَمُ النَّسيجِ الضَّامّ	syndesmoma
+وَرَمُ النَّسيجِ المَرِن	elastoma
+وَرَمُ النَّسِيْجِ المَرِنِ اليَفَعِيّ	juvenile elastoma
+وَرَمُ النَّسِيْجِ المَرِنُ لمايشر	Miescher's elastoma (elastosis perforans serpiginosa)
+وَرَمُ النِّقَوِيَّات	myelocytoma
+وَرَمُ الوَحِيْدات	monocytoma (monocytic leukemia)
+وَرَمُ أَليفَاتِ الفِضَّة	argentaffinoma
+وَرَمُ أَلَيْفَاتِ الفِضَّة القَصَبِيَّة	argentaffinoma of bronchus
+وَرَمُ أَليفاتِ الكروم	chromaffinoma
+وَرَمٌ أَميبِيّ	ameboma
+وَرَمٌ إِنْتاشِيّ	dysgerminoma
+وَرَمٌ إِنْتاشِيّ	germinoma
+وَرَمٌ إِنْتاشِيٌّ صَنَوبَرِيّ	pineal germinoma
+ورم إنسوليني	insuloma = insulinoma
+وَرَمٌ أنيلينيّ	aniline tumor
+وَرَمٌ أو انتفاخ	windgall
+ورم بالنخاع المستطيل	cephaloma
+وَرَمُ بانكوست	Pancoast's tumor
+وَرَمُ بانكوست	Pancoast's tumor (pulmonary sulcus umor)
+وَرَمُ بَانِياتِ العَظْم	osteoblastoma
+وَرَمٌ بِرازِيّ	coproma (stercoroma)
+وَرَمٌ بِرازِيّ	fecal tumor (stercoroma)
+وَرَمٌ بِرازِيّ	scatoma (stercoroma)
+وَرَمٌ بِرازِيّ	stercoral tumor (stercoroma)
+وَرَمٌ بِرازِيّ	stercoroma
+وَرَمٌ بَرافينِيّ	paraffinoma
+وَرَمُ براون-بيرس	Brown-Pearce tumor
+وَرَمُ بروك	Brooke's tumor (trichoepithelioma papillosum multiplex)
+وَرَمٌ برُولاَكْتينِيّ	prolactinoma
+وَرَمٌ برولاكتينيٌّ مِكْرَوِيّ	microprolactinoma
+وَرَمٌ بَرِيْء	innocent tumor (benign tumor)
+وَرَمُ برينَر	Brenner tumor
+وَرَمٌ بَشْرَوَانِيّ	epidermoid
+وَرَمٌ بَشْرَوَانِيّ	epidermoidoma
+وَرَمُ بِطَانَةِ العَصَبِ اللِّيْفِيّ	endoneural fibroma (neurofibroma)
+وَرَمٌ بِطَانِيٌّ	endothelioma
+وَرَمٌ بِطَانِيٌّ جافَوِيّ	dural endothelioma (meningioma)
+وَرَمٌ بِطَانِيٌّ جِلْدِيّ	endothelioma cutis
+وَرَمٌ بِطَانِيٌّ رَأْسِيّ	endothelioma capitis
+وَرَمٌ بِطانِيٌّ رَحِمِيّ	endometrioma
+وَرَمٌ بِطانِيٌّ عَصَبِيّ	ependymoma
+وَرَمٌ بِطانِيٌّ عَصَبِيٌّ حَلَمِيّ	papillary ependymoma
+وَرَمٌ بِطانِيٌّ عَصَبِيٌّ خَبيث	malignant ependymoma
+وَرَمٌ بِطانِيٌّ عَصَبِيٌّ كَشَمِيّ	anaplastic ependymoma
+وَرَمٌ بِطانِيٌّ عَصَبِيٌّ مُخاطِيٌّ	myxopapillary ependymoma
+وَرَمٌ بِطانِيٌّ عَضَلِيٌّ أَمْلَس	endothelioleiomyoma
+وَرَمٌ بِطانِيٌّ غُضْروفِيّ	chondroendothelioma
+وَرَمٌ بِطانِيٌّ مُخاطِيّ	myxoendothelioma
+وَرَمٌ بِطانِيٌّ وِعائِيّ	angioendothelioma (angiosarcoma)
+وَرَمٌ بِطَانِيٌّ وِعائِيّ	endothelioma angiomatosum (angioma)
+وَرَمٌ بِطانِيٌّ وِعَائِي	gemmangioma (hemangioendothelioma)
+وَرَمٌ بِطانِيٌّ وِعائِيّ	hemangioendothelioma
+ورم بطاني وعائي	hemangioendothelioma = hemendothelioma
+وَرَمٌ بِطانِيٌّ وِعائِيّ	hemendothelioma (hemangioendothelioma)
+ورم بطاني وعائي	hemendothelioma = hemangioendothelioma
+وَرَمٌ بِطانِيٌّ وِعائِيٌّ حَميد	benign hemangioendothelioma
+وَرَمٌ بِطانِيٌّ وِعائِيٌّ خَبيث	malignant hemangioendothelioma
+وَرَمٌ بِطانِيٌّ وِعائِيٌّ شَبَكِيّ	angioreticuloendothelioma
+وَرَمٌ بَطْنِيّ	celioma
+وَرَمُ بَقايا الكُظْر	adrenal rest tumor (lipoid cell tumor of ovary)
+ورم بلعومي جمجمي	craniopharyngioma
+وَرَمٌ بِلْهارْسِيّ	bilharzioma
+وَرَمُ بُنِّيّ	brown tumor
+وَرَمُ بورْكِت اللُّمْفِيّ	Burkett's lymphoma
+وَرَمُ بوشكه-لوفينشتاين	Buschke-Lowenstein tumor (giant condyloma acuminatum)
+وَرَمٌ بُوقِيٌّ داخِلِيّ	endosalpingoma
+وَرَمُ بيركيت	Burkitt's tumor (malignant lymphoma)
+وَرَمُ بيرلمان	Perlmann's tumor
+ورم تؤلولي مؤنف	condyloma acuminata
+وَرَمٌ تَأَسُّلِيّ	progonoma
+وَرَمٌ تَأَسُّلِيٌّ فَكِّيّ	progonoma of jaw
+وَرَمٌ تَأَسُّلِيٌّ ميلاَنِينيّ	melanotic progonoma
+وَرَمٌ تُوتِيّ	thymoma
+وَرَمٌ ثُؤْلولِيٌّ تَناسُلِيّ	genital wart (condyloma)
+وَرَمٌ ثُؤْلُولِيٌّ نَدْبِيّ	warty cicatricial tumor
+وَرَمٌ ثانَوِيّ	secondary tumor (metastatic tumor)
+وَرَمٌ ثَدْيِيّ	mastoncus
+وَرَمٌ ثُلاَثِيُّ الأَديم	tridermic tumor (teratoma)
+وَرَمٌ ثُلاَثِيُّ الأَديم	tridermoma
+وَرَمٌ جُبْنِيُّ القِوَامّ	tyroma
+وَرَمٌ جُذامِيّ	leproma
+ورم جذعي	blastoma
+ورم جرثومي	blastoma
+وَرَمٌ جُرَيبِيّ	folliculoma
+وَرَمٌ جُرَيبِيٌّ شَحْمِيّ	folliculoma lipidique
+وَرَمٌ جُرَيبِيٌّ شَعْرِيّ	trichofolliculoma
+وَرَمٌ جَزيرِيّ	insulinoma
+وَرَمٌ جَزيرِيّ	insuloma
+ورم جستريني	gastrinoma = non-beta cell tumour
+وَرَمٌ جَفْنِيّ	blepharoncus
+وَرْمٌ جَفْنِيٌّ رَخْو	pladaroma
+وَرَمٌ جَفْنِيٌّ رَخْو	pladarosis
+وَرَمُ جِلْدانِيّ	dermoid tumor
+وَرَمٌ جِلْدِيٌّ ثُنَائِيُّ الأَدِيْم	didermoma (bidermoma)
+وَرَمٌ جَنِيْنِيٌّ مُتَعَدِّد	polyembryoma
+وَرَمُ جَيبِ راتْكَه	Rathke's pouch tumor (craniopharyngioma)
+وَرَمُ جينسن	Jensen's tumor
+وَرَمٌ حَبْلِيّ	chordoid tumor (chordoma)
+وَرَمٌ حَبْلِيّ	chordoma
+وَرَمٌ حُبَيبِيّ	granuloma
+ورم حبيبي إربي	granuloma, inguinale = granuloma, venereum
+وَرَمٌ حُبَيبِيٌّ أَميبِيّ	amebic granuloma
+وَرَمٌ حُبَيبِيٌّ إِنْتانِيّ	septic granuloma (granuloma pyogenicum)
+ورم حبيبي تناسلي	granuloma, venereum = granuloma, inguinal
+وَرَمٌ حُبَيبِيٌّ حَلَقِيّ	granuloma annulare
+وَرَمٌ حُبَيبِيٌّ حَمْلِيّ	gravidarum granuloma
+وَرَمٌ حُبَيبِيٌّ خَبيث	malignant granuloma
+وَرَمٌ حُبَيْبِيٌّ زَيْتِيّ	oleogranuloma (paraffinoma)
+وَرَمٌ حُبَيبِيٌّ سِنِّيّ	dental granuloma
+وَرَمٌ حُبَيبِيٌّ سيليكاتي	silicotic granuloma (pseudotuberculoma silicoticum)
+وَرَمٌ حُبَيبِيٌّ شَحْمانِيّ	lipoid granuloma
+وَرَمٌ حُبَيْبِيٌّ شَحْمِيّ	lipogranuloma
+وَرَمٌ حُبَيبِيٌّ صَفْرومِيّ	xanthomatous granuloma (eosinophilic granuloma)
+وَرَمٌ حُبَيبِيٌّ عَلَى الخَطِّ	midline granuloma
+وَرَمٌ حُبَيبِيٌّ فَرْجِيٌّ مُتَقَرِّح	ulcerating granuloma of the pudenda (granuloma inguinale)
+وَرَمٌ حُبَيبِيٌّ قَرْحِيّ	ulcerogranuloma
+وَرَمٌ حُبَيْبِيٌّ قِمِّيّ	apical granuloma
+وَرَمٌ حُبَيبِيٌّ لِمْفِيّ	lymphogranuloma
+وَرَمٌ حُبَيبِيٌّ لِمْفِيٌّ أُرْبِيّ	lymphogranuloma inguinale
+وَرَمٌ حُبَيبِيٌّ لِمْفِيٌّ حَميد	lymphogranuloma benignum
+وَرَمٌ حُبَيبِيٌّ لِمْفِيٌّ خَبيث	lymphogranuloma malignum (Hodgkin's disease)
+وَرَمٌ حُبَيبِيٌّ لِمْفِيٌّ مَنْقُوْلٌ	lymphogranuloma venereum
+وَرَمٌ حُبَيْبِيٌّ مُزْمِن	chronic granulomatosis
+وَرَمٌ حُبَيبِيٌّ مُزيلُ الشَّحْم	lipophagic granuloma
+وَرَمٌ حُبَيبِيٌّ مُشَقَّق	granuloma fissuratum
+وَرَمٌ حُبَيبِيٌّ مُقَيِّح	granuloma pyogenicum
+وَرَمٌ حُبَيبِيٌّ مُقَيِّح	pyogenic granuloma
+وَرَمٌ حُبَيبِيٌّ مَلاَرِيّ	malarial granuloma
+وَرَمٌ حُبَيبِيٌّ يوراتِيّ	urate granuloma
+وَرَمٌ حُبَيبِيٌّ يُوزِيْنِيّ	eosinophilic granuloma
+ورم حسكي غدي كيسي = ورم ظهاري كيسي حميد	acanthoma adenoides cysticum= multiple benign cystic epithelioma
+وَرَمٌ حَقيقِيّ	true tumor
+وَرَمٌ حُلَيمِيّ	papillary tumor
+وَرَمٌ حُلَيمِيّ	papilloma
+وَرَمٌ حُلَيمِيٌّ ثُؤْلولِيّ	warty papilloma
+وَرَمٌ حُلَيمِيٌّ جِلْدِيّ	cutaneous papilloma (acrochordon)
+وَرَمٌ حُلَيمِيٌّ رَخْو	papilloma molle
+وَرَمٌ حُلَيمِيٌّ رَخْو	soft papilloma
+وَرَمٌ حُلَيمِيٌّ زُغابِيّ	villous papilloma
+وَرَمٌ حُلَيمِيٌّ قاسٍ	hard papilloma
+وَرَمٌ حُلَيمِيٌّ قاسٍ	papilloma durum
+وَرَمٌ حُلَيمِيٌّ قاعِدِيُّ الخَلاَيا	basal cell papilloma (seborrheic keratosis)
+وَرَمٌ حُلَيمِيٌّ كيسِيّ	papillocystoma
+وَرَمٌ حُلَيمِيٌّ لِيفِيّ	fibropapilloma
+وَرَمٌ حُلَيمِيٌّ لِيفِيٌّ ظِهارِيّ	fibroepithelial papilloma (fibroepithelioma)
+وَرَمٌ حُلَيمِيٌّ مُؤَنَّف	papilloma acuminatum (condyloma acuminatum)
+وَرَمٌ حُلَيْمِيُّ مُخاطِيّ	myxopapilloma
+وَرَمٌ حُلَيْمِيٌّ مَشيمَوِيّ	papilloma choroideum
+وَرَمٌ حُلَيمِيٌّ مَعْكوس	inverted papilloma
+وَرَمٌ حُلَيْمِيٌّ مُلْهِبٌ للعَصَب	papilloma neuroticum
+وَرَمٌ حُلَيمِيٌّ مُمْرِضٌ للعَصَب	papilloma neuropathicum
+وَرَمٌ حُلَيمِيٌ مُنْتَشِر	papilloma diffusum (papillomatosis)
+وَرَمٌ حُلَيمِيٌّ مُنْتَقِلٌ جِنْسِيَّاً	papilloma venereum
+وَرَمٌ حُلَيمِيٌّ موسينِيٌّ كاذِب	pseudomucinous papilloma
+وَرَمٌ حَميد	benign neoplasm
+وَرَمٌ حَميد	benign tumor
+ورم حميد	benign tumour
+وَرَمٌ حَنَكَيّ	palatal tumor
+وَرَمُ حَوَائِطِ الشُّعَيرات	perithelioma
+ورم حويصلي عرقي	hidrocytoma
+وَرَمٌ خَبيث	malignant neoplasm (cancer)
+وَرَمٌ خَبيث	malignant tumor
+وَرَمٌ خَدِّيّ	meloncus
+وَرَمٌ خَشَبِيّ	xyloma
+وَرَمٌ خُصْوِيّ	testiculoma
+وَرَمٌ خُصْوِيٌّ في المَبِيْض	testiculoma ovarii (arrhenoblastoma)
+وَرَمٌ خُصْوِيُّ مُخِّيُّ الشَّكْل	orchiencephaloma (embryonal carcinoma)
+وَرَمُ خَلاَيا الجَزيرَة	islet cell tumor
+وَرَمُ خَلاَيا الدِّبْقِ العَصَبِيّ	neurogliocytoma (glioma)
+وَرَمُ خَلاَيا سيرتولي	Sertoli cell tumor (androblastoma)
+وَرَمُ خَلايا شفان	Schwann-cell tumor
+وَرَمُ خلايا لايديغ	Leydig cell tumor
+وَرَمُ خلايا لايديغ وسيرتولي	Sertoli-Leydig cell tumor (arrhenoblastoma)
+وَرَمُ خلايا هوِرتله	Hurthle cell tumor
+وَرَمُ خَلاَيا هورتيغا	Hortega cell tumor
+وَرَمٌ خَلَوِيّ	cellular tumor
+وَرَمٌ خَلَوِيّ	cytoma
+ورم خلوي نسيجي شحمي	histiocytoma, lipoid
+ورم خلوي نسيجي ليفي	histiocytoma, fibrous
+وَرَمٌ خَيْشُوْمِيّ	branchioma
+وَرَمٌ دِبْقِيّ	gliocytoma (glioma)
+وَرَمٌ دِبْقِيّ	glioma
+وَرَمٌ دِبْقِيٌّ أَنْفِيّ	nasal glioma
+وَرَمٌ دِبْقِيٌّ بَصَرِيّ	optic glioma
+وَرَمٌ دِبْقِيٌّ بِطانِيٌّ عَصَبِيّ	ependymal glioma
+وَرَمٌ دِبْقِيٌّ خَفِيّ	cryptoglioma
+وَرَمٌ دِبْقِيٌّ ساركوميّ	glioma sarcomatosum (gliosarcoma)
+وَرَمٌ دِبْقِيٌّ طَرَفِيّ	peripheral glioma
+وَرَمٌ دِبْقِيٌّ عَصَبِيّ	neuroglioma (glioma)
+وَرَمٌ دِبْقِيٌّ عَصَبِيٌّ عُقْدِيّ	neuroglioma ganglionare
+وَرَمٌ دِبْقِيٌّ عُقْدِيّ	ganglioglioma (ganglioglioneuroma)
+وَرَمٌ دِبْقِيٌّ عُقْدِيّ	ganglionic glioma
+وَرَمٌ دِبْقِيٌّ كاذِب	pseudoglioma
+وَرَمٌ دِبْقِيٌّ لِيفِيّ	fibroglioma
+وَرَمٌ دِبْقِيٌّ مُتَوَسِّعُ الشُّعَيرات	telangiectatic glioma
+وَرَمٌ دِبْقِيٌّ مُحِيْطٌ بالعَصَب	perineural glioma
+وَرَمٌ دِبْقِيٌّ مُخاطِيّ	myxoglioma
+وَرَمٌ دِبْقِيٌّ مُخْتَلِط	mixed glioma
+وَرَمٌ دِبْقِيٌّ نَابوتِيٌّ خارِجِيّ	glioma exophytum (retinoblastoma)
+وَرَمٌ دِبْقِيٌّ نَابُوتِيٌّ دَاخِلِيّ	glioma endophytum (retinoblastoma)
+وَرَمٌ دِبْقِيٌّ نَجْمِيّ	astroglioma (astrocytoma)
+وَرَمٌ دِبْقِيٌّ نَجْمِيُّ الخلايا	astrocytic glioma (astrocytoma)
+وَرَمٌ دِبْقِيٌّ وِعائِيّ	angioglioma
+وَرَمٌ دُبَيْقِيّ	microglioma
+وَرَمٌ دُرَيقِيّ	parathyroidoma
+وَرَمٌ دِمَاغِيٌّ	cerebroma
+ورم دماغي	encephalophyma
+وَرَمٌ دَمَوِيّ	hematoma
+وَرَمٌ دَمَوِيٌّ أُذُنِيّ	hematoma auris
+وَرَمٌ دَمَوِيٌّ أُذُنِيّ	othematoma
+وَرَمٌ دَمَوِيٌّ أُمْدَمِيّ	aneurysmal hematoma (false aneurysm)
+وَرَمٌ دَمَوِيٌّ تَسْليخِيّ	dissecting hematoma
+وَرَمٌ دَمَوِيٌّ جافَوِيّ	dural hematoma (epidural hematoma)
+وَرَمٌ دَمَوِيٌّ حَوضِيّ	pelvic hematoma
+وَرَمٌ دَمَوِيٌّ رَأْسِيّ	cephalematoma
+وَرَمٌ دَمَوِيٌّ رَأْسِيّ	cephalhematoma
+وَرَمٌ دَمَوِيٌّ رَأْسِيّ	cephalohematoma
+وَرَمٌ دَمَوِيٌّ رَأْسِيٌّ مُشَوِّه	cephalematoma deformans
+وَرَمٌ دَمَوِيٌّ رَأْسِيٌّ مُشَوِّه	cephalhematoma deformans
+وَرَمٌ دَمَوِيٌّ رَقَبِيّ	trachelematoma
+وَرَمٌ دَمَوِيٌّ سِحائِيّ	meningematoma
+وَرَمٌ دَمَوِيٌّ سِحائِيّ	meninghematoma (epidural hematoma)
+وَرَمٌ دَمَوِيٌّ فَرْجِيّ	episiohematoma
+وَرَمٌ دَمَوِيٌّ كيسِيّ	cystic hematoma
+وَرَمٌ دَمَوِيٌّ نِفاسِيّ	puerperal hematoma
+وَرَمٌ دُهْنِيّ	fatty tumor (lipoma)
+وَرَمٌ دُهْنِيُّ	steatoma (lipoma)
+وَرَمُ دَوالِيٌّ سُرِّيّ	varicomphalus
+وَرَمٌ دودِيّ	helminthoma
+وَرَمُ راتكه	Rathke's tumor (craniopharyngioma)
+وَرَمٌ رِبَاطِيٌّ	desmocytoma (fibroma)
+وَرَمٌ رِباطِيّ	desmoid tumor
+وَرَمٌ رِباطِيّ	desmoma
+وَرَمٌ رَتْجِيٌّ	diverticuloma
+وَرَمٌ رَحِمِيّ	metrophyma
+وَرَمٌ رَطْب	hygroma
+وَرَمٌ رَطْبٌ إِبْطِيّ	hygroma auxillare
+وَرَمٌ رَطْبٌ حادٌّ رَضْحِيٌّ تَحْتِ	acute traumatic subdural hygroma
+وَرَمٌ رَطْبٌ رَقَبِيّ	hygroma colli
+وَرَمٌ رَطْبٌ كيسِيّ	cystic hygroma (hygroma cysticum)
+وَرَمٌ رَطْبٌ كيسِيّ	hygroma cysticum
+وَرَمٌ رُعامِيّ	farcinoma
+وَرَمٌ رَقَبِيّ	tumor colli
+وَرَمٌ رَمْلِيّ	psammoma
+وَرَمٌ رَمْلِيّ	sand tumor (psammoma)
+وَرَمُ ريكلينغهاوزن	Recklinghausen's tumor (adenoleiomyofibroma)
+وَرَمٌ رينينِيّ	reninoma
+وَرَمٌ زاوِيّ	angle tumor
+وَرَمٌ زُبْدِيِّ الشَّكْل	butyroid tumor
+وَرَمٌ زُغابِيّ	villioma (papilloma)
+وَرَمٌ زُغابِيّ	villoma (papilloma)
+وَرَمٌ زُغابِيّ	villous tumor (papilloma)
+وَرَمٌ زَليلِيّ	synovialoma
+وَرَمٌ زَليلِيّ	synovioma
+وَرَمُ زَوايا الفَك	cherubism
+وَرَمٌ زَيتِيّ	elaioma (eleoma)
+وَرَمٌ زَيْتِيّ	oleoma (lipogranuloma)
+وَرَمٌ سائِل	fluid tumor
+وَرَمٌ ساقِطِيّ	deciduoma
+وَرَمٌ سُبْحِيّ	toruloma
+وَرَمٌ سِحائِيّ	exothelioma (meningioma)
+وَرَمٌ سِحائِيّ	meningeoma
+وَرَمٌ سِحائِيّ	meningioma
+وَرَمٌ سِحائِيّ	meningoma
+وَرَمٌ سِحائيٌّ أَرومِيٌّ لِيفِيّ	fibroblastic meningioma
+وَرَمٌ سِحائيٌّ أَرومِيٌّ وِعائِيّ	angioblastic meningioma (angioblastoma)
+وَرَمٌ سِحائيٌّ أَرومِيٌّ وِعائِيّ	hemangioblastic meningioma
+وَرَمٌ سِحائيٌّ انْتِقالِيّ	transitional meningioma
+وَرَمٌ سِحائيٌّ بِطَانِيّ	endotheliomatous meningioma
+وَرَمٌ سِحائيٌّ رَمْلِيّ	psammomatous meningioma
+وَرَمٌ سِحائيٌّ سَريرِيّ	clinoidal meningioma
+وَرَمٌ سِحائِيٌّ ظِهارِيّ	meningothelioma
+وَرَمٌ سِحائيٌّ كَشَمِيّ	anaplastic meningioma
+وَرَمٌ سِحائيٌّ لِيفِيّ	fibrous meningioma
+وَرَمٌ سِحائيٌّ مُخاطِيّ	myxomatous meningioma
+وَرَمٌ سِحائيٌّ مُخْتَلِط	mixed meningioma (transitional meningioma)
+وَرَمٌ سِحائيٌّ مَخْلَوِيّ	syncytial meningioma
+وَرَمٌ سِحائيٌّ وِعائِيّ	angiomatous meningioma
+ورمٌ سرطانيّ صُلْب	scirrhus
+وَرَمٌ سَلَوِيّ	amnioma
+وَرَمٌ سُلَّيٌٌّّ كاذِب	pseudotuberculoma
+وَرَمٌ سُلَّيٌٌّّ كاذِبٌ سِيلِيكونِيّ	pseudotuberculoma silicoticum
+وَرَمُ سَليفَةِ الوُدِّيَّة	sympathicogonioma (sympathicoblastoma)
+وَرَمُ سَليفَةِ الوُدِّيَّة	sympathogonioma (sympathicoblastoma)
+وَرَمُ سَليلاَنِيّ	polypoid tumor
+وَرَمُ سِمْحاقِ الغُضْروف	perichondroma
+وَرَمٌ سِمْحاقِيّ	periosteoma
+وَرَمٌ سِمْحاقِيّ	periostoma
+وَرَمٌ سِنْخِيّ	alveolar tumor
+وَرَم سِنّي	dentinoma
+وَرَمٌ سِنِّيّ	odontoma
+وَرَمٌ سِنِّيّ	odontome (odontoma)
+وَرَمٌ سِنِّيٌّ أَرومِيٌّ مينائِيّ	ameloblastic odontoma
+وَرَمٌ سِنِّيٌّ بَسيط	simple odontoma
+وَرَمٌ سِنِّيٌّ تاجِيّ	coronal odontoma (coronary odontoma)
+وَرَمٌ سِنِّيٌّ تاجِيّ	coronary odontoma
+وَرَمٌ سِنِّيٌّ جَذْرِيّ	radicular odontoma
+وَرَمٌ سِنِّيٌّ ظِهارِيّ	epithelial odontoma
+وَرمٌ سِنِّيٌّ عَظْمِيّ	osteo-odontoma
+وَرَِمٌ سِنَّيٌّ كِيسِيّ	cystic odontoma
+وَرَمٌ سِنِّيٌّ لِيفِيّ	fibro-odontoma
+وَرَمٌ سِنِّيٌّ لِيفِيّ	fibrous odontoma
+وَرَمٌ سِنِّيٌّ مُتَكَلِّس	calcified odontoma
+وَرَمٌ سِنِّيٌّ مُتَوَسِّع	dilated odontoma
+وَرَمٌ سِنِّيٌّ مُخْتَلِط	mixed odontoma
+وَرَمٌ سِنِّيٌّ مُرَكَّب	composite odontoma
+وَرَمٌ سِنِّيٌّ مُضْغِيُّ التَّنَسُّج	embryoplastic odontoma
+ورم سِنّي مينائي	ameloblastic odontoma
+وَرَمٌ سِنِّيٌّ مينائيّ	odontoma adamantinum (ameloblastic odontoma)
+وَرَمٌ سوماتوستاتينيّ	somatostatinoma
+وَرَمٌ شَائِكيّ	acanthoma
+وَرَمٌ شَائِكِيٌّ غُدِّيّ	adenoacanthoma
+وَرَمٌ شَائِكِيٌّ غُدِّيّ	adenocancroid (adenoacanthoma)
+وَرَمٌ شَائِكِيٌّ لِيفِيٌّ شَعْرِيّ	trichofibroacanthoma (trichofibroepithelioma)
+وَرَمٌ شَائكِيٌّ مُتَقَرِّن	keratoacanthoma
+وَرَمٌ شَائكِيٌّ مُتَقَرِّنٌ مُتَعَدِّد	multiple keratoacanthoma
+وَرَمٌ شَائِكِيٌّ ميلانِينيّ	melanoacanthoma
+وَرَمٌ شاغاسِيّ	chagoma
+وَرَمٌ شَبَحِيّ	phantom tumor
+وَرَمٌ شَبَكِيّ	reticuloma
+وَرَمٌ شَبَكِيٌّ بِطانِيّ	reticuloendothelioma (malignant lymphoma)
+وَرَمٌ شَبَكِيٌّ مُنْسِجِيّ	reticulohistiocytoma
+وَرَمٌ شَبَكِيٌّ وِعائِيّ	angioreticuloma
+وَرَمٌ شِبْهُ غُدِّيّ	adenomatoid tumor
+وَرَمٌ شِبْهُ وِعائِيّ	angiomatoid tumor
+وَرَمٌ شَحْمِيّ	adipose tumor
+وَرَمٌ شَحْمِيّ	lipoma
+وَرَمٌ شَحْمِيّ	pimeloma (lipoma)
+وَرَمٌ شَحْمِيٌّ تَليُّفِيّ	lipoma fibrosum
+وَرَمٌ شَحْمِيٌّ توفِيّ	topholipoma
+وَرَمٌ شَحْمِيٌّ جِلْدِيّ	dermolipoma
+وَرَمٌ شَحْمِيٌّ عَضَلِيّ	myolipoma
+وَرَمٌ شَحْمِيٌّ عَضَلِيٌّ وِعائِيّ	angiomyolipoma
+وَرَمٌ شَحْمِيٌّ عَضَلِيٌّ وِعائِيّ	hemangiomyolipoma
+وَرَمٌ شَحْمِيٌّ عَضَلِيٌّ وِعائِيٌّ	renal angiomyolipoma
+وَرَمٌ شَحْمِيٌّ عَظْمِيّ	osteolipoma
+وَرَمٌ شَحْمِيٌّ عَظْمِيٌّ غُضْرُوِفِيّ	osteochondrolipoma
+وَرَمُ شَحْمِيٌّ غُضْروفِيّ	chondrolipoma
+وَرَمٌ شَحْمِيٌّ قَطَنِيٌّ عَجُزِيّ	lumbosacral lipoma
+وَرَمٌ شَحْمِيٌّ كاذِب	pseudolipoma
+وَرَمٌ شَحْمِيٌّ كَهْفِيّ	lipoma cavernosum (angiolipoma)
+وَرَمٌ شَحْمِيٌّ لِيفِيّ	fibrolipoma
+وَرَمٌ شَحْمِيٌّ مُؤْلِم	lipoma dolorosa
+وَرَمٌ شَحْمِيٌّ مَبيضِيّ	masculinovoblastoma
+وَرَمٌ شَحْمِيٌّ مُتَشَجِّر	lipoma arborescens
+وَرَمٌ شَحْمِيٌّ مُتَعَظِّم	lipoma ossificans
+وَرَمٌ شَحْمِيٌّ مُتَعَظِّم	lipoma petrificum ossificans (ossified lipoma)
+وَرَمٌ شَحْمِيٌّ مُتَكَلِّس	calcified lipoma
+وَرَمٌ شَحْمِيٌّ مُتَكَلِّس	lipoma petrificans (calcified lipoma)
+وَرَمٌ شَحْمِيٌّ مُتَوَسِّعُ الأَوْعِيَة	lipoma telangiectodes (angiolipoma)
+وَرَمٌ شَحْمِيٌّ مُتَّوَسِّعُ الأَوْعِيَة	telangiectatic lipoma (angiolipoma)
+وَرَمٌ شَحْمِيٌّ مِحْفَظِيّ	lipoma capsulare
+وَرَمٌ شَحْمِيٌّ مُخاطِيّ	lipoma myxomatodes (myxolipoma)
+وَرَمٌ شَحْمِيٌّ مُخاطِيّ	myxolipoma
+وَرَمٌ شَحْمِيٌّ مُنْتَشر	diffuse lipoma
+وَرَمٌ شَحْمِيٌّ نِقَوِيّ	myelolipoma
+وَرَمٌ شَحْمِيٌّ وَحْمِيّ	nevolipoma
+وَرَمٌ شَحْمِيٌّ وِعائِيّ	angiolipoma
+وَرَمٌ شَحْمِيٌّ وِعائِيّ	hemangiolipoma
+وَرَمٌ شَعْرِيّ	tumeur pileuse (trichobezoar)
+وَرَمٌ شفانِيّ	schwannoglioma (schwannoma)
+وَرَمٌ شفانِيّ	schwannoma
+وَرَمٌ شفانِيٌّ خَلَوِيٌّ حُبَيبِيّ	granular cell schwannoma
+وَرَمٌ شَفَوِيّ	cheiloncus
+وَرَمٌ شَمْعِيّ	ceroma
+وَرَمُ شمينكه	Schmincke tumor (lymphoepithelioma)
+ورم صبغي	chromoma
+وَرَمٌ صَفْرَاوِيٌّ	biloma
+وَرَمٌ صَفَنِيّ	oscheoma
+وَرَمٌ صُلْب	scleroma
+وَرَمٌ صُلْبٌ أَنْفِيّ	rhinoscleroma
+وَرَمٌ صُلْبٌ بُلْعومِيّ	pharyngoscleroma
+وَرَمٌ صُلْبٌ تَنَفُّسِيّ	scleroma respiratorium (rhinoscleroma)
+وَرَمٌ صَمَّاوِيٌّ مُتَعَدِّد	polyendocrinoma
+ورم ضمامي	gliocytoma = glioma
+ورم ضمامي بطاني	glioma, ependymal
+ورم ضمامي نجمي	glioma, astrocytic
+ورم طلائي	cystoepitheliom
+وَرَمٌ ظِهارِيّ	epithelial tumor
+وَرَمٌ ظِهَارِيٌّ	epithelioma
+وَرَمٌ ظِهاريٌّ إشعاعِيّ	radioepithelioma
+وَرَمٌ ظِهاريٌّ حَبْلِيّ	chordoepithelioma (chordoma)
+وَرَمٌ ظِهاريٌّ حَرْشَفِيُّ الخَلايا	squamous cell epithelioma
+وَرَمٌ ظِهَارِيٌّ حَرْشَفِيُّ الخَلاَيا	squamous cell epithelioma (squamous cell carcinoma)
+وَرَمٌ ظِهَارِيٌّ خَبيث	malignant epithelioma (carcinoma)
+وَرَمٌ ظِهَارِيٌّ داخِلَ البَشْرَة	intraepidermal epithelioma (carcinoma in situ)
+وَرَمٌ ظِهَارِيٌّ شِبْهُ غُدِّيٍّ كيسِيّ	epithelioma adenoides cysticum (trichoepithelioma)
+وَرَمٌ ظِهاريٌّ شَعْرِيّ	tricho-epithelioma
+وَرَمٌ ظِهاريٌّ شَعْرِيٌّ حُلَيْمِيٌّ	trichoepithelioma papillosum multiplex
+وَرَمٌ ظِهاريٌّ شَعْرِيٌّ لِيفِيّ	trichofibroepithelioma
+وَرَمُ ظِهارِيٌّ عَصَبِيّ	neuroepithelial tumor
+وَرَمٌ ظِهارِيٌّ عَصَبِيّ	neuroepithelioma
+وَرَمٌ ظِهَارِيٌّ عَصَبِيٌّ حِسِّيٌّ	esthesioneuroepithelioma (neuroepithelioma)
+وَرَمٌ ظِهارِيٌّ عَضَلِيّ	myoepithelioma
+وَرَمٌ ظِهاريٌّ عَضَلِيٌّ غُدِّيّ	adenomyoepithelioma
+وَرَمٌ ظِهاريٌّ عَضَلِيٌّ غُدِّيٌّ في	adenomyoepithelioma of stomach
+وَرَمٌ ظِهَارِيٌّ عَمودِيُّ الخَلاَيا	columnar epithelioma
+وَرَمٌ ظِهاريٌّ غُدِّيّ	adenoepithelioma
+وَرَمٌ ظِهَارِيٌّ غُدِّيّ	glandular epithelioma
+وَرَمٌ ظِهَارِيٌّ قاعِدِيُّ الخَلاَيا	basal cell epithelioma (basal cell carcinoma)
+وَرَمٌ ظِهاري كِيْسِيّ	cystoepithelioma
+وَرَمٌ ظِهَارِيٌّ كيسِيٌّ كاذِب	pseudocystic epithelioma
+وَرَمٌ ظِهارِيُّ لِمْفِيّ	lymphepithelioma
+وَرَمٌ ظِهارِيٌّ لِمْفِيّ	lymphoepithelioma
+وَرَمٌ ظِهَارِيٌّ لِيفِيّ	fibroepithelioma
+وَرَمٌ ظِهارِيٌّ لِيفِيٌّ سَابِقٌ للخُبْث	premalignant fibroepithelial tumor
+وَرَمٌ ظِهَارِيٌّ لِيفِيٌّ مُحْتَمَلُ	premalignant fibroepithelioma
+وَرَمٌ ظهاريٌّ مَشيمائِيّ	chorioepithelioma
+وَرَمٌ ظِهاري مَشيمائِيّ	chorionepithelioma
+وَرَمٌ ظِهَارِيٌّ مَشيمائِيّ	chorionic epithelioma
+وَرَمٌ ظهاري مَشيمائِيٌّ خَبِيْث	chorioepithelioma malignum
+وَرَمٌ ظِهَارِيٌّ مُصْطَبِغّ	pigmented epithelioma
+وَرَمٌ ظِهَارِيٌّ مُكَلِّس	calcified epithelioma (pilomatricoma)
+وَرَمٌ ظِهَارِيٌّ مُكَلِّسٌ حَميد	benign calcifying epithelioma (pilomatricoma)
+وَرَمٌ ظِهارِيٌّ مَيَاليني	medulloepithelioma
+وَرَمٌ ظِهارِيٌّ ميلانينيّ	melanoepithelioma
+وَرَمٌ ظِهَارِيٌّ مينائِيّ	epithelioma adamantinum (ameloblastoma)
+وَرَمٌ ظِهارِيٌّ هَدَبِيّ	dictyoma (diktyoma)
+وَرَمٌ ظِهارِيٌّ هَدَبِيّ	diktyoma
+وَرَمٌ عابِيّ	hamartoma
+وَرَمٌ عابِيٌّ جَنينِيّ	fetal hamartoma (mesoblastic nephroma)
+وَرَمٌ عابِيٌّ صُدْغِيّ	temporal hamartoma
+وَرَمٌ عابِيٌّ عَصَبِيٌّ عَضَلِيّ	neuromuscular hamartoma
+وَرَمٌ عابِيٌّ غُضْروفِيّ	chondromatous hamartoma (lung chondroma)
+وَرَمٌ عابِيٌّ كُلْوِيّ	hamartoma of the kidney (renal angiomyolipoma)
+وَرَمٌ عابِيٌّ كُلْوِيّ	renal hamartoma
+وَرَمٌ عاجِيّ	dentinoma
+وَرَمٌ عاجِيّ	dentoma (dentinoma)
+وَرَمٌ عاجِيُّ الشَّكْل	ivory-like tumor (osteoma durum)
+وَرَمٌ عاجِيٌّ عَظْمِيّ	dentinosteoid (osteodentinoma)
+وَرَمٌ عَاجِيٌّ عَظْمِيّ	osteodentinoma
+وَرَمٌ عَجُزِيٌّ عُصْعُصِيّ	sacrococcygeal tumor
+وَرَمٌ عَصَبِيّ	neuroma
+ورم عصبي أنفي	esthesioneuroblastoma
+وَرَمٌ عَصَبِيٌّ تَالٍ للبَتْر	amputation neuroma
+وَرَمٌ عَصَبِيٌّ تالٍ للرَّضْح	post-traumatic neuroma
+وَرَمٌ عَصَبِيٌّ جِلْدِيّ	dermal neuroma
+وَرَمٌ عَصَبِيٌّ جِلْدِيّ	neuroma cutis
+وَرَمٌ عَصَبِيٌّ حُزْمِيّ	fascicular neuroma (medullated neuroma)
+وَرَمٌ عَصَبِيٌّ حَقيقِيّ	true neuroma
+وَرَمٌ عَصَبِيٌّ خَبيث	malignant neuroma
+وَرَمٌ عَصَبِيٌّ دِبْقِيّ	glioneuroma
+وَرَمٌ عَصَبِيٌّ رَضْحِيّ	traumatic neuroma
+وَرَمٌ عَصَبِيٌّ زائِدِيّ	appendical neuroma (appendiceal neuroma)
+وَرَمٌ عَصَبِيٌّ زائِدِيّ	appendiceal neuroma
+وَرَمٌ عَصَبِيٌّ ضَفيرِيُّ الشَّكْل	plexiform neuroma
+وَرَمٌ عَصَبِيٌّ عَضَلِيّ	myoneuroma
+وَرَمٌ عَصَبِيٌّ عَضَلِيٌّ وِعائِيٌّ	angiomyoneuroma
+وَرَمٌ عَصَبِيٌّ عُقْدِيّ	ganglioglioneuroma
+وَرَمٌ عَصَبِيٌّ عُقْدِيّ	ganglionar neuroma
+وَرَمٌ عَصَبِيٌّ عُقْدِيّ	ganglionated neuroma
+وَرَمٌ عَصَبِيٌّ عُقْدِيّ	ganglioneuroma
+وَرَمٌ عَصَبِيٌّ عُقْدِيّ	ganglionic neuroma
+وَرَمٌ عَصَبِيٌّ عَقْدِيّ	neuroma verum (=ganglioneuroma)
+وَرَمٌ عَصَبِيٌّ عَقْدِيّ	neuroma verum (ganglioneuroma)
+وَرَمٌ عَصَبِيٌّ كاذِب	false neuroma
+وَرَمٌ عَصَبِيٌّ كاذِب	pseudoneuroma
+وَرَمٌ عَصَبِيٌّ كيسِيّ	cystic neuroma
+ورم عصبي ليفي	fibroneuroma = neurofibroma
+وَرَمٌ عَصَبِيٌّ مُتَعَدِّد	multiple neuroma
+وَرَمٌ عَصَبِيٌّ مُتَوَسِّعُ الشُّعَيرات	neuroma telangiectodes
+وَرَمٌ عَصَبِيٌّ مُخاطِيّ	myxoneuroma
+وَرَمٌ عَصَبِيٌّ مَيَاليني	medullated neuroma
+وَرَمٌ عَصَبِيٌّ مَيَالينيّ	myelinic neuroma
+وَرَمٌ عَصَبِيٌّ وَحْمَانِيٌّ	nevoid neuroma
+وَرَمٌ عَصَبِيٌّ وِعَائِيٌّ	angioneuroma (glomangioma)
+وَرَمٌ عَصِيْدِيٌّ جَفْنِيّ	blepharoatheroma
+وَرَمٌ عَضَلِيّ	muscular tumor (myoma)
+وَرَمٌ عَضَلِيّ	myoma [pl.myomata]
+وَرَمٌ عَضَلِيٌّ أَبْيَض	leukomyoma
+وَرَمٌ عَضَلِيٌّ أَرُوْمِيٌّ	myoblastic myoma (granular cell tumor)
+وَرَمٌ عَضَلِيُّ الخَلايا	myocytoma
+وَرَمٌ عَضَلِيٌّ أَمْلَس	leiomyoma
+وَرَمٌ عَضَلِيٌّ أملس	myoma levicellulare (leiomyoma)
+وَرَمٌ عَضَلِيٌّ أَمْلَسُ جِلْدِيّ	leiomyoma cutis
+وَرَمٌ عَضَلِيٌّ أَمْلَسُ رَحِمِيّ	fibromyoma uteri
+وَرَمٌ عَضَلِيٌّ أَمْلَسُ رَحِمِيّ	leiomyoma uteri
+وَرَمٌ عَضَلِيٌّ أَمْلَسُ طُفَيلِيّ	parasitic leiomyoma
+وَرَمٌ عَضَلِيٌّ أَمْلَسُ ظِهارانِيّ	epithelioid leiomyoma (leiomyoblastoma)
+وَرَمٌ عَضَلِيٌّ أَمْلَسُ لِيفِيّ	fibroleiomyoma
+وَرَمٌ عَضَلِيٌّ أَمْلَسُ لِيفِيّ	leiomyofibrome
+وَرَمٌ عَضَلِيٌّ أَمْلَسُ وِعائِيٌّ	angiolipoleiomyoma
+وَرَمٌ عَضَلِيٌّ أَمْلَسُ وِعائِيّ	vascular leiomyoma
+وَرَمٌ عَضَلِيٌّ جِلْدِيّ	dermatomyoma
+وَرَمٌ عَضَلِيٌّ دِبْقِيّ	gliomyoma
+وَرَمٌ عَضَلِيٌّ رَحِمِيّ	hysteromyoma
+وَرَمٌ عَضَلِيٌّ ساركوميّ	myoma sarcomatodes (myosarcoma)
+وَرَمٌ عَضَلِيٌّ شَحْمِيّ	lipomyoma (myolipoma)
+وَرَمٌ عَضَلِيٌّ شفانِيّ	myoschwannoma (schwannoma)
+وَرَمٌ عَضَلِيٌّ عَصَبِيٌّ وِعَائِيٌّ	angioneuromyoma (glomangioma)
+ورم عضلي عصبي وعائي = ورم كُبّي	angioneuromyoma = glomus tumour
+وَرَمٌ عَضَلِيٌّ غُدِّيّ	adenomyoma
+وَرَمٌ عَضَلِيٌ غُدِّيٌّ حُلَيمِيٌّ	adenomyoma psammopapillare
+وَرَمٌ عَضَلِيٌّ غُضْروفِيّ	chondromyoma
+وَرَمٌ عَضَلِيٌّ قَصير	myoma previum (leiomyoma uteri)
+وَرَمٌ عَضَلِيٌّ كُرَوِيّ	ball myoma
+ورم عضلي كيسي	cystomyoma
+وَرَمٌ عَضَلِيٌّ لِمْفِيٌّ وِعائِيّ	lymphangiomyoma
+وَرَمٌ عَضَلِيٌّ لِيفِيّ	fibromyoma (leiomyoma)
+ورم عضلي ليفي	fibroyoma = leiomyoma
+وَرَمٌ عَضَلِيٌّ لِيفِيٌّ غُدِّيّ	adenofibromyoma
+وَرَمٌ عَضَلِيٌّ مُتَوَسِّعُ الأوعية	myoma telangiectodes (vascular leiomyoma)
+وَرَمٌ عَضَلِيٌّ مُخاطِيّ	myxomyoma
+وَرَمٌ عَضَلِيٌّ مُخَطَّطُ الخَلاَيا	myoma striocellulare (rhabdomyoma)
+وَرَمٌ عَضَلِيٌّ مَوَهِيّ	hydromyoma
+وَرَمٌ عَضَلِيٌّ وِعائِيّ	angiomyoma
+وَرَمٌ عَضَلِيٌّ وِعائِيٌّ جِلْدِيّ	angiomyoma cutis
+وَرَمٌ عُضْوِيُّ الشَّكْل	organoid tumor (teratoma)
+ورم عظمي	bone-tumor
+وَرَمٌ عَظْمِيّ	osteoma
+وَرَمٌ عَظْمِيّ	osteoncus (osteoma)
+وَرَمٌ عَظْمِيٌّ إِسْفَنْجِيّ	osteoma spongiosum
+وَرَمٌ عَظْمِيٌّ بِطانِيّ	endosteoma
+وَرَمٌ عَظْمِيٌّ بِطانِيّ	endostoma
+وَرَمٌ عَظْمِيٌّ جِلْدِيّ	osteoma cutis
+وَرَمٌ عَظْمِيٌّ ساركوميّ	osteoma sarcomatosum (osteogenic sarcoma)
+وَرَمٌ عَظْمِيٌّ سِنِّيّ	dental osteoma
+وَرَمٌ عَظْمِيٌّ صُلْب	osteoma durum (osteoma eburneum)
+وَرَمٌ عَظْمِيٌّ عاجِيّ	ivory osteoma
+وَرَمٌ عَظْمِيٌّ عاجِيّ	osteoma eburneum
+وَرَمٌ عَظْمِيٌّ عَضَلِيّ	myosteoma
+وَرَمٌ عَظْمِيٌّ عَظْمانيّ	osteoid osteoma
+وَرَمٌ عَظْمِيٌّ غُضْروفِيّ	chondrosteoma
+وَرَمٌ عَظْمِيٌّ غُضْرُوِفِيّ	osteochondroma
+وَرَمٌ عَظْمِيٌّ غُضْرُوِفِيّ	osteoenchondroma
+وَرَمٌ عَظْمِيٌّ غُضْروفِيٌّ لِيفِيّ	fibrochondro-osteoma
+وَرَمٌ عَظْمِيٌّ غُضْروفِيٌّ لِيفيّ	osteofibrochondroma
+وَرَمٌ عَظْمِيٌّ غُضْرُوُفِيٌّ مُخاطِيّ	osteochondromyxoma
+وَرَمٌ عَظْمِيٌّ غُضْرُوْفِيٌّ مُلَيِّفٌ	fibrosing osteochondroma
+ورم عظمي ليفي	fibro-esteoma
+وَرَمٌ عَظْمِيٌّ لِيفِيّ	fibro-osteoma (ossifying fibroma)
+وَرَمٌ عَظْمِيٌّ لِيفِيّ	osteofibroma
+وَرَمٌ عَظْمِيٌّ مُخاطِيٌّ غُضْروفِيّ	osteomyxochondroma
+وَرَمٌ عَظْمِيٌّ مُكْتَنِز	compact osteoma
+ورم عظمي نخاعي	endosteoma = endostoma
+وَرَمٌ عَظْمِيٌّ نِقْيِيّ	osteoma medullare
+وَرَمٌ عُقْدِيّ	ganglioma
+ورم عقدي	ganglioma = ganglioneuroma
+وَرَمٌ عُقْدِيٌّ عَصَبِيّ	neuroganglioma
+وَرَمٌ عُقْدِيٌّ لِمْفِيّ	lymphadenoma
+وَرَمٌ عُقْدِيٌّ لِمْفِيٌّ خَبيث	malignant lymphadenoma (malignant lymphoma)
+وَرَمٌ عُقْدِيٌّ لِمْفِيٌّ مُتَعَدِّد	multiple lymphadenoma (Hodgkin's disease)
+وَرَمٌ عُقْدِيٌّ لِمْفِيٌّ متَعَمِّم	general lymphadenomatosis of bones (multiple myeloma)
+وَرَمٌ عِمَامِيّ	turban tumor
+وَرَمٌ عُنْقًودِيّ	botryomycoma
+وَرَمٌ غازِيٌّ لَبَنِيّ	pneumogalactocele
+وَرَمٌ غاسترينِيّ	gastrinoma
+وَرَمٌ غُدَّانِيّ	adenoid tumor
+ورم غدّاني	adenomatoid tumor
+ورم غدي	adeno-acanthoma of uterus
+وَرَمٌ غُدِّيّ	adenoma
+وَرَمٌ غُدِّيٌّ أَليفٌ للَّون	chromophil adenoma
+وَرَمٌ غُدِّيٌّ بَسيط	adenoma simplex
+وَرَمٌ غُدِّيٌّ بِطانِيٌّ رَحِمِيٌّ	adenoma endometrioides ovarii (ovarian endometriosis)
+وَرَمٌ غُدِّيٌّ تَرْبيقِيّ	trabecular adenoma
+وَرَمٌ غُدِّيٌّ تَرْبيقِيٌّ جُرَيبِيّ	trabeculofollicular adenoma
+وَرَمٌ غُدِّيٌّ جُرَيبِيّ	follicular adenoma
+وَرَمٌ غُدِّيٌّ جَفْنِيّ	blepharoadenoma
+وَرَمٌ غُدِّيٌّ جَنينِيُّ الخَلايَا	fetal adenoma
+وَرَمٌ غُدِّيٌّ حَمِض	acidophil adenoma
+وَرَمٌ غُدِّيٌّ حَمِض	acidophilic adenoma
+وَرَمٌ غُدِّيٌّ حَمِضِيٌّ حُبَيبِيّ	oxyphilic granular cell adenoma
+وَرَمٌ غُدِّيٌّ خارِجِيُّ الإِفْراز	exocrine adenoma
+وَرَمٌ غُدِّيٌّ خَبيث	malignant adenoma
+وَرَمٌ غُدِّيٌّ دَرَقِيٌّ سُمِّيّ	toxic thyroid adenoma
+وَرَمٌ غُدِّيٌّ دُهْنِيّ	steatadenoma (sebaceous adenoma)
+وَرَمٌ غُدِّيٌّ زُغابِيّ	villous adenoma
+ورم غدي زهمي	adeno-sebaceum (sebaceous adenoma)
+وَرَمٌ غُدِّيٌّ زُهْمِيّ	adenoma sebaceum
+وَرَمٌ غُدِّيٌّ زُهْمِيّ	sebaceous adenoma
+وَرَمٌ غُدِّيٌّ زُهْميُّ الخَلايا	sebaceous cell adenoma
+ورم غُدِّي سرطاني	adenocarcinoma
+وَرَمٌ غُدِّيٌّ سِنْخِيّ	adenoma alveolare
+وَرَمٌ غُدِّيٌّ سَوِيُّ الجُرَيبات	normofollicular adenoma
+وَرَمٌ غُدِّيٌّ شَحْمِيّ	adenolipoma
+وَرَمٌ غُدِّيٌّ شَحْمِيّ	lipoadenoma
+وَرَمٌ غُدِّيٌّ شَعْرِيّ	trichoadenoma (trichoepithelioma)
+ورم غُدِّي شكوكي	adenoacanthoma
+وَرَمٌ غُدِّيٌّ صَغيرُ الجُرَيبات	microfollicular adenoma
+وَرَمٌ غُدِّيٌّ صَفْراوِيّ	cholangioadenoma
+ورم غدي صفراوي	cholangiodenoma
+وَرَمٌ غُدِّيٌّ صِمْلاخِيّ	ceruminous adenoma
+وَرَمٌ غُدِّيٌّ طِحالِيّ	splenadenoma
+ورم غدي طفحي	hidraenoma eruptivum
+وَرَمٌ غُدِّيٌّ عَرَقِيّ	adenoma hidradenoides (hidradenoma)
+وَرَمٌ غُدِّيٌّ عَرَقِيّ	adenoma sudoriparum
+وَرَمٌ غُدِّيٌّ عَرَقِيّ	hidradenoma
+ورم غدي عرقي	hidradenoma = hidraenoma
+ورم غدي عرقي	hidraenoma = hidradenoma = hidroaenoma
+وَرَمُ غُدِّيٌّ عَرَقِيّ	hidroadenoma
+ورم غدي عرقي	hidroaenoma = hidraenoma
+وَرَمٌ غُدِّيٌّ عَرَقِيّ	hydradenoma (hidradenoma)
+وَرَمٌ غُدِّيٌّ عَرَقِيّ	spiradenoma
+وَرَمٌ غُدِّيٌّ عَرَقِيّ	syringoma
+وَرَمٌ غُدِّيٌّ عَرَقِيٌّ أُسْطُوَانيّ	cylindromatous (cylindroma)
+وَرَمٌ غُدِّيٌّ عَرَقِيٌّ ثُؤْلُولِيّ	verrucous hidradenoma
+وَرَمٌ غُدِّيٌّ عَرَقِيٌّ حُلَيمِيّ	papillary hidradenoma
+وَرَمٌ غُدِّيٌّ عَرَقِيٌّ صافِي الخَلاَيا	clear-cell hidradenoma
+وَرَمٌ غُدِّيٌّ عَرَقِيٌّ طَفْحِيّ	hidradenoma eruptivum
+وَرَمٌ غُدِّيٌّ عَرَقِيٌّ عُقَيدِيّ	nodular hidradenoma
+وَرَمٌ غُدِّيٌّ عَرَقِيٌّ ناتِح	eccrine spiradenoma
+ورم غدي عضلي	cystomyxoadenoma
+وَرَمٌ غُدِّيٌّ عَضَلِيٌّ أَمْلَس	adenoleiomyoma
+وَرَمٌ غُدِّيٌّ عُنْقُودِيّ الشَّكل	racemose adenoma
+وَرَمٌ غُدِّيٌّ عُنَيبِيّ	acinar adenoma
+وَرَمٌ غُدِّيٌّ غَرَوانِيّ	colloid adenoma
+وَرَمٌ غُدِّيٌّ غُضْروفِيّ	chondroadenoma
+وَرَمٌ غُدِّيٌّ في الكُلْوَةِ	mesonephric adenoma (wolffian adenoma)
+وَرَمٌ غُدِّيٌّ قِشْرِيّ	cortical adenoma
+وَرَمٌ غُدِّيٌّ قَصَبِيّ	bronchial adenoma
+وَرَمٌ غُدِّيٌّ قَعِد	basophil adenoma
+وَرَمٌ غُدِّيٌّ قَعِد	basophilic adenoma
+وَرَمٌ غُدِّيٌّ قَنَوِيّ	duct adenoma (intraductal papilloma)
+وَرَمٌ غُدِّيٌّ كارِهٌ للَّون	chromophobe adenoma
+وَرَمٌ غُدِّيٌّ كارِهٌ للَّون	chromophobic adenoma
+وَرَمٌ غُدِّيٌّ كَبيرُ الجُرَيبات	macrofollicular adenoma
+وَرَمٌ غُدِّيٌّ كُلْوِيّ	adenoma of kidney
+ورم غدي كيسي	adeno-cystoma
+وَرَمٌ غُدِّيٌّ كيسِيّ	cystadenoma
+وَرَمٌ غُدِّيٌّ كيسيّ	cystic adenoma
+وَرَمٌ غُدِّيٌّ كيسِيّ	cystoadenoma (cystadenoma)
+وَرَمٌ غُدِّيٌّ كيسِيٌّ حُلَيمِيّ	papillary cystadenoma
+وَرَمٌ غُدِّيٌّ كيسِيٌّ حُلَيمِيٌّ	papillary cystadenoma lymphomatosum
+وَرَمٌ غُدِّيٌّ كيسِيٌّ حُلَيمِيّ	papillary cystic adenoma
+وِرَمٌ غُدِّيٌّ كيسِيٌّ حُلَيمِيّ	papilloadenocystoma
+وَرَمٌ غُدِّيٌّ كيسِيٌّ مائِيّ	hydrocystadenoma (papillary hidradenoma)
+وَرَمٌ غُدِّيٌّ كيسِيٌّ مُخاطِيّ	mucous cystadenoma
+وَرَمٌ غُدِّيٌّ كيسِيٌّ مَصْلِيّ	serous cystadenoma
+وَرَمٌ غُدِّيٌّ كيسِيٌّ موسينِيّ	mucinous cystadenoma
+وَرَمٌ غُدِّيٌّ كيسِيٌّ موسينِيٌّ كاذِب	pseudomucinous cystadenoma (mucinous cystadenoma)
+وَرَمٌ غُدِّيٌّ كيسِيٌّ مينائِيّ	cystadenoma adamantinum (ameloblastoma)
+وَرَمٌ غُدِّيٌّ كيسِيٌّ هُلاَمِيّ	gelatinous cystadenoma
+وَرَمٌ غُدِّيٌّ لانْغِرْهانْسِيّ	langerhansian adenoma
+وَرَمٌ غُدِّيٌّ لِيفِيّ	adenoma fibrosum
+وَرَمٌ غُدِّيٌّ لِيفِيّ	fibroadenoma
+وَرَمٌ غُدِّيٌ لِيفِيٌّ داخِلَ القُنَيَّات	intracanalicular fibroadenoma
+وَرَمٌ غُدِّيٌّ لِيفِيٌّ كيسِيّ	cystadenofibroma
+وَرَمٌ غُدِّيٌّ لِيْفِيٌّ مِجْهَرِيّ	microfibroadenoma
+وَرَمُ غُدِّيٌّ لِيفِيٌّ مُحِيْطٌ	periacinar fibroadenoma
+وَرَمٌ غُدِّيٌّ لِيفِيٌّ مُحِيْطٌ	pericanalicular fibroadenoma
+وَرَمٌ غُدِّيٌّ مُؤَنِّث	feminizing adenoma
+وَرَمٌ غُدِّيٌّ مَبيضِيٌّ وخُصْوِيُّ	adenoma ovarii testiculare
+وَرَمٌ غُدِّيٌّ مُتَعَدِّد	polyadenoma
+وَرَمٌ غُدِّيٌّ مُتَعَدِّدُ الأَشْكال	pleomorphic adenoma
+وَرَمٌ غُدِّيٌّ مُخاطانِيُّ الخَلايا	mucoid cell adenoma
+وَرَمٌ غدِّيٌّ مُخاطِيّ	myxadenoma
+وَرَمٌ غُدِّيٌّ مُخاطِيّ	myxoadenoma
+وَرَمٌ غُدِّيٌّ مَشيمائِيّ	chorioadenoma
+وَرَمٌ غُدِّيٌّ مَشيمائِيٌّ مُخَرِّب	chorioadenoma destruens
+ورم غدي مشيمي	choriodenoma
+وَرَمٌ غُدِّيٌّ مُضْغِيُّ الخَلايَا	embryonal adenoma
+وَرَمٌ غُدِّيٌّ مُفْتَرَز	apocrine adenoma
+وَرَمٌ غُدِّيٌّ مِكْرَوِيّ	microadenoma
+وَرَمٌ غُدِّيٌّ موسينِيّ	mucinous adenoma
+وَرَمٌ غُدِّيٌّ مُوسِيني	pseudomucinous adenoma (mucinous adenoma)
+وَرَمٌ غُدِّيٌّ مينائِيّ	adenoma adamantinum (adenoblastoma)
+وَرَمٌ غُدِّيٌّ نُبَيبِيّ	tubular adenoma
+وَرَمٌ غُدِّيٌّ نُبَيبِيٌّ مَبيضِيٌّ	adenoma tubulare testiculare ovarii (adenoma ovarii testiculare)
+وَرَمٌ غُدِّيٌّ نُخامِيّ	pituitary adenoma
+وَرَمٌ غُدِّيٌّ هُلامِيّ	adenoma gelatinosum
+وَرَمٌ غُدِّيٌّ وُولفِيّ	wolffian adenoma
+وَرَمٌ غُدِّيٌّ يُوزينِيّ	eosinophil adenoma
+وَرَمُ غَرَوانِيّ	colloid tumor (myxoma)
+وَرَمٌ غُضْروفِيّ	cartilaginous tumor
+وَرَمٌ غُضْروفِيّ	chondroma
+وَرَمٌ غُضْروفِيٌّ بَاطِن	enchondroma
+وَرَمٌ غُضْروفِيٌّ بَاطِن	endochondroma
+وَرَمٌ غُضْروفِيٌّ بَاطِنٌ خِلْقِيٌّ	multiple congenital enchondroma
+وَرَمٌ غُضْروفيٌّ ثَدْيِيّ	mastochondroma
+وَرَمٌ غُضْروفِيٌّ حَقيقِيّ	true chondroma
+وَرَمٌ غُضْروفِيٌّ خارِجٌ	ecchondroma
+وَرَمٌ غُضْروفِيٌّ خارِج	ecchondrosis (ecchondroma)
+وَرَمٌ غُضْروفِيٌّ داخِلِيٌّ لِيفِيّ	fibroenchondroma
+وَرَمٌ غُضْروفِيٌّ زَليلِيّ	synovial chondroma
+وَرَمٌ غُضْروفِيٌّ ساركوميّ	chondroma sarcomatosum (chondrosarcoma)
+وَرَمٌ غُضْرُوفِيٌّ سَرْطَانِي	chondrosarcoma
+وَرَمٌ غُضْروفِيٌّ شَحْمِيّ	lipochondroma
+وَرَمٌ غُضْرُوِفِيٌّ شَحْمِيٌّ عَظْمِيّ	osteolipochondroma
+وَرَمٌ غُضْرُوِفِيٌّ عَضَلِيٌّ مُخَطَّط	rhabdomyochondroma (benign mesenchymoma)
+وَرَمٌ غُضْروفِيٌّ غُدِّيّ	adenochondroma
+وَرَمٌ غُضْروفِيٌّ لِيفِيّ	fibrochondroma
+وَرَمٌ غُضْروفِيٌّ مُحَجِّر	enchondroma petrificum (osteochondroma)
+وَرَمٌ غُضْروفِيٌّ مُخاطِيّ	myxochondroma
+وَرَمٌ غُضْروفيٌّ مُخاطِيّ	myxoenchondroma
+وَرَمٌ غُضْروفِيٌّ مَفْصِلِيّ	joint chondroma
+وَرَمٌ غُضْروفِيٌّ وِعَائِيٌّ	angiochondroma
+وَرَمٌ غُضْروفِيٌّ وِعَائِيٌّ خَبيث	malignant angiochondroma
+وَرَمٌ غلُوكاغُونِيّ	glucagonoma
+وَرَمُ غِمْدِ اللِّيفِ العَصَبِيِِّ	acoustic neurinoma
+وَرَمُ غِمْدِ اللِّيفِ العَصَبِيِِّ	malignant neurinoma
+وَرَمُ غِمْدِ اللِّيفِ العَصَبِيّ	neurilemmoma
+وَرَمُ غِمْدِ اللِّيفِ العَصَبِيّ	neurilemoma
+وَرَمُ غِمْدِ اللِّيفِ العَصَبِيّ	neurinoma (schwannoma)
+وَرَمُ غِمْدِ اللِّيْفِ العَصَبِيّ	neurolemmoma
+وَرَمُ غِمْدِ جَذْرِ الشَّعر	trichilemmoma
+وَرَمُ غِمْدِ لِيفِ العَصَبِ السَّمْعِيّ	acoustic neurilemoma
+وَرَمٌ غِمْدِيٌّ شَعْرِيّ	tricholemmoma
+وَرَمٌ غَيْرَوِيّ	heterologous tumor
+وَرَمٌ غَيْرَوِيّ	heterotypic tumor
+وَرَمٌ فازلينِيّ	petrolatoma
+وَرَمٌ فُطْرِيٌّ	mycetoma
+وَرَمٌ فُطْرِيٌّ أَبْيَض	white mycetoma
+وَرَمٌ فُطْرِيٌّ بِالفُطورِ الحَقيقِيَّة	eumycetoma
+وَرَمٌ فُطْرِيٌّ حَقيقِيّ	eumycotic mycetoma
+وَرَمٌ فُطْرِيٌّ خوطِيّ	hyphomycetoma
+وَرَمٌ فَكِّيّ	jaw neoplasm
+وَرَمٌ قِحْفِيٌّ بُلْعومِيّ	craniopharyngioma
+وَرَمٌ قِرابيّ	thecoma
+وَرَمٌ قِرابيّ	thelioma (thecoma)
+وَرَمٌ قُرْدُودي	notochordoma (chordoma)
+وَرَمٌ قَرْنِيّ	keraphyllocele (keratoma)
+ورم قرنيّ	keratoma
+وَرَمٌ قَرْنِيٌّ لِيفِيّ	fibrokeratoma
+ورم قرني وعائي = ثولول متوسع الأوعية	angiokeratoma = telangiectatic
+وَرَمُ قِشْرَةِ الكُظْر	corticosuprarenaloma
+وَرَمُ قِشْرَةِ الكُلْيَةِ الغُدِّيّ	renal cortical adenoma
+ورم قمي	acrodomatia
+وَرَمُ قناةِ مُولَّر	mullerianoma
+وَرَمُ قَنَواتِ الصَّفْراء	cholangioma
+وَرَمٌ كاذِب	false tumor
+وَرَمٌ كاذِب	pseudoneoplasm (pseudotumor)
+وَرَمٌ كاذِب	pseudoplasm
+وَرَمٌ كاذِب	pseudotumor
+وَرَمٌ كاذِبٌ حَجاجِيّ	orbital pseudotumor
+وَرَمٌ كاذِبٌ مُخِّيّ	pseudotumor cerebri
+وَرَمٌ كَبِدِيّ	hepatoma
+وَرَمٌ كَبِدِيٌّ صَفْراوِيّ	cholangiohepatoma
+وَرَمٌ كُبِّيّ	glomus tumor
+وَرَمٌ كُبِّيٌّ وِداجِيّ	glomus jugulare tumor
+وَرَمٌ كَدْمِيّ	ecchymoma
+وَرَمٌ كُرَوانِيّ	coccidioidoma
+وَرَمُ كروكنبيرغ	krukenberg's tumor
+وَرَمُ كرومبيتشر	Krompecher's tumor (rodent ulcer)
+وَرَمٌ كُرَوِيّ	spheroma
+وَرَمُ كُرَيَّاتِي	hemocytoma
+ورم كلابار	Calabar swelling
+وَرَمٌ كُلْوِيّ	nephroma
+وَرَمٌ كُلْوِيّ	nephroncus (nephroma)
+وَرَمٌ كُلْوِيٌّ جَنينِيٌّ	embryonal nephroma (nephroblastoma)
+وَرَمٌ كُلْوِيٌّ خبيث	malignant nephroma (nephrocarcinoma)
+وَرَمٌ كُلْوِيٌّ كُظْرانِيّ	hypernephroma
+وَرَمٌ كُلْويٌّ كِيْسِيٌّ مُتَعَدِّدُ	multilocular cystic nephroma
+وَرَمٌ كُلْوِيٌّ مُتَوَسِّطِيُّ الأَرومَة	mesoblastic nephroma
+وَرَمٌ كُلْوِيٌّ مُوَسَّطِيّ	mesonephroma
+وَرَمٌ كَمْئِيّ	fungating tumor
+وَرَمٌ كَهْفِيّ	cavernoma
+وَرَمٌ كَهْفِيّ	cavernous tumor (hemangioma cavernosum)
+وَرَمُ كودمان	Codman's tumor (chondroblastoma)
+وَرَمٌ كولاَجينِيّ	collagenoma
+وَرَمٌ كولِستيرولِيّ	margaritoma (cholesteatoma)
+وَرَمٌ كُولِيسْتيرُولِيّ	cholesteatoma
+وَرَمٌ كُولِيسْتيرُولِيٌّ خِلْقِيّ	congenital cholesteatoma
+وَرَمٌ كُولِيسْتيرُولِيٌّ طَبْلِيّ	cholesteatoma tympani
+وَرَمٌ كُولِيسْتيرولِيٌّ كاذِب	pseudocholesteatoma
+وَرَمٌ كيسِيّ	cystic tumor
+وَرَمٌ كيسِيّ	cystoma
+وَرَمٌ كيسِيٌّ جِلْدِيّ	dermatocystoma
+وَرَمٌ كِيْسِيٌّ دُهْنِيّ	steatocystoma (epithelial cyst)
+وَرَمٌ كِيْسِيٌّ دُهْنِيٌّ مُتَعَدِّد	steatocystoma multiplex
+وَرَمٌ كِيْسِيُّ عَظْمِيّ	osteocystoma (bone cyst)
+وَرَمٌ كيسيٌّ غُدِّيّ	adenocyst (adenocystoma)
+وَرَمٌ كيسيٌّ غُدِّيّ	adenocystoma
+وَرَمٌ كيسِيٌّ غُدِّيٌّ حُلَيمِيٌّ	papillary adenocystoma lymphomatosum
+وَرَمٌ كيسِيٌّ غُدِّيٌّ مَسْخِيّ	teratoid adenocystoma
+وَرَمٌ كيسِيٌّ لِيفِيّ	fibrocystoma
+وَرَمٌ كيسِيٌّ مَبَاضِيّ	parovarian cystoma (parovariancyst)
+وَرَمٌ كيسِيٌّ مَبيضِيٌّ غَرَوانِيّ	colloid ovarian cystoma
+وَرَمٌ كيسِيٌّ مُخاطانِيّ	myxoid cystoma
+ورم كيسي مخاطي	cystomyxoma
+وَرَمٌ كيسِيٌّ مَصْلِيٌّ بَسيط	cystoma serosum simplex
+وَرَمٌ لُؤْلُؤِي	cholesteatoma
+وَرَمٌ لُؤْلُؤيّ	pearl tumor (cholesteatoma)
+وَرَمٌ لُؤْلُؤِيّ	pearly tumor (cholesteatoma)
+وَرَمٌ لُؤْلُؤِيّ	tumeur perlèe
+ورم لثوي	epulis
+وَرَمٌ لِثَوِيّ	epulis [pl.epulides]
+وَرَمٌ لِثَوِيّ	gingivoma
+وَرَمٌ لِثَوِيّ	parodontid
+وَرَمٌ لِثَوِيٌّ تَشَقُّقِيّ	epulis fissurata
+وَرَمٌ لِثَوِيٌّ حُبَيبِيّ	epulis granulomatosa
+وَرَمٌ لِثَوِيٌّ حَمْلِيّ	epulis of pregnancy
+وَرَمٌ لِثَوِيٌّ حَمْلِيّ	pregnancy epulis
+وَرَمٌ لِثَوِيٌّ خَبيث	malignant epulis
+وَرَمٌ لِثَوِيٌّ عِمْلاَقُ الخَلاَيا	epulis gigantocellularis
+وَرَمٌ لِثَوِيٌّ عِمْلاَقُ الخَلاَيا	giant cell epulis
+وَرَمٌ لِثَويٌّ لِيفِيّ	epulis fibromatosa
+وَرَمٌ لِثَوِيّ لِيْفِيّ	fibrous epulis
+وَرَمٌ لِثَوِيٌّ مُصْطَبِغ	pigmented epulis
+وَرَمٌ لِثَوِيٌّ ناعِظ	epuloerectile
+وَرَمٌ لِثَوِيٌّ نِقَوِيّ	myeloid epulis (malignant epulis)
+وَرَمٌ لَحْمِيّ	tumor carneus (sarcoma)
+ورم لحمي اسطواني	cylindrosarcoma
+وَرَمٌ لُعابِيّ	sialoma
+وَرَمٌ لُقْمِيّ	condyloma
+وَرَمٌ لُقْمِيٌّ مُؤَنَّف	condyloma acuminatum
+وَرَمٌ لُقْمِيٌّ مُؤَنَّفٌ عِمْلاَق	giant condyloma acuminatum
+وَرَمٌ لُقْمِيٌّ مُدَبَّب	pointed condyloma
+وَرَمٌ لُقْمِيٌّ مُسَطَّح	condyloma latum
+وَرَمٌ لُقْمِيٌّ مُسَطَّح	flat condyloma (condyloma latum)
+وَرَمٌ لِمْفاوِيّ	lymphocytoma
+وَرَمٌ لِمْفاوِيٌّ جِلْدِيّ	lymphocytoma cutis
+ورم لمفي دموي	hemolymphangioma = hematolymphangioma
+وَرَمُ لِيفانِيّ	fibroid tumor (fibroma)
+ورم ليفي	desmocytoma
+وَرَمٌ لِيفِيّ	desmoneoplasm
+ورم ليفي	fibroma
+وَرَمٌ لِيفِيّ	fibrous tumor (fibroma)
+وَرَمٌ لِيْفِيٌّ	inoma
+ورم ليفي	sacroma
+وَرَمٌ لِيفِيٌّ أَرومِيٌّ مينائِيّ	ameloblastic fibroma
+وَرَمٌ لِيفِيٌّ أَصْفَر	fibroma xanthoma (fibroxanthoma)
+وَرَمٌ لِيفِيُّ الخَلاَيا	fibrocellular tumor (fibroma)
+وَرَمٌ لِيفِيٌّ تَحْتَ الظُّفُر	periungual fibroma
+وَرَمٌ لِيفِيٌّ تَحْتَ المُخاطِيَّة	submucous fibroma
+وَرَمٌ لِيفِيٌّ تَصَلُّبِيّ	sclerotic fibroma
+وَرَمٌ لِيفِيٌّ تَهَيُّجِيّ	irritation fibroma
+وَرَمٌ لِيفِيٌّ جِلْدِيّ	dermatofibroma
+وَرَمٌ لِيفِيٌّ جِلْدِيّ	fibroma cutis
+وَرَمٌ لِيفِيٌّ جِلْدِيٌّ حَدَبِيّ	dermatofibroma protuberans
+وَرَمٌ لِيفِيٌّ حُلَيمِيّ	papillary fibroma
+وَرَمٌ لِيفِيٌّ داخِلَ القُنَيَّات	intracanalicular fibroma
+وَرَمٌ لِيفِيٌّ ذو خَلاَيا قِرابِيَّةٌ	fibroma thecocellulare xanthomatodes (theca cell tumor)
+وَرَمٌ لِيفِيٌّ راجِعٌ إِصْبَعِيٌّ عِنْدَ	recurrent digital fibroma of childhood (digital fibromatosis)
+ورم ليفي رحمي	fibroyoma uteri = leiomyoma uteri
+وَرَمٌ لِيفِيٌّ رَحِمِيّ	metrofibroma (leiomyoma of the uterus)
+وَرَمٌ لِيفِيٌّ ساركوميّ	fibroma sarcomatosum (fibrosarcoma)
+وَرَمٌ لِيفِيٌّ سِنِّيُّ المَنْشَأ	odontogenic fibroma
+وَرَمٌ لِيفِيٌّ شَحْمِيّ	adipofibroma
+وَرَمٌ لِيفيٌّ شَحْمِيّ	lipofibroma
+وَرَمٌ لِيفِيٌّ صُلْب	fibroma durum
+وَرَمٌ لِيفِيٌّ طُفَيلِيّ	parasitic fibroma
+وَرَمٌ لِيفِيٌّ عَصَبِيّ	fibroneuroma (neurofibroma)
+وَرَمٌ لِيفِيٌّ عَصَبِيّ	neurofibroma
+وَرَمٌ لِيفِيٌّ عَصَبِيٌّ حُبَيْبِيُّ	granular cell neurofibroma
+وَرَمٌ لِيفِيٌّ عَصَبِيٌّ خَبيث	malignant neurofibroma (malignant schwannoma)
+وَرَمٌ لِيفِيٌّ عَصَبِيٌّ سَمْعِيّ	acoustic neurofibroma
+وَرَمٌ لِيفِيٌّ عَصَبِيٌّ عُقْدِيّ	ganglioneurofibroma
+وَرَمٌ لِيفِيٌّ عَصَبِيٌّ عُقْدِيُّ	neurofibroma gangliocellulare (ganglioneuroma)
+وَرَمٌ لِيفِيٌّ عَصَبِيٌّ عُقْدِيّ	neurofibroma ganglionare (ganglioneuroma)
+وَرَمٌ لِيفِيٌّ عَصَبِيٌّ مُخاطِيّ	neurofibromyxoma (neurofibroma)
+وَرَمٌ لِيفِيٌّ عَصَبِيٌّ مَخْصور	dumbbel neurofibroma
+وَرَمٌ لِيْفِيٌّ عَضَلِيٌّ	myofibroma (fibroid leiomyoma)
+وَرَمٌ لِيفِيٌّ عَضَلِيٌّ غُدِّيّ	adenomyofibroma
+وَرَمٌ لِيفِيٌّ عَضَلِيٌّ وِعائِيّ	angiomyofibroma
+وَرَمٌ لِيفِيٌّ عَظْمِيُّ المَنْشَأ	osteogenic fibroma
+وَرَمٌ لِيفيٌّ عَظْمِيٌّ غُضْروفِيّ	osteochondrofibroma
+وَرَمٌ لِيفِيٌّ عِنْدَ الأَرانِب	rabbit fibroma
+وَرَمٌ لِيفِيٌّ غُدِّيّ	adenofibroma
+وَرَمٌ لِيفِيٌّ غُدِّيٌّ عَضَلِيٌّ أَمْلَس	adenoleiomyofibroma
+وَرَمٌ لِيفِيٌّ غُدِّيٌّ مَصْلِيّ	serous adenofibroma
+وَرَمٌ ليفِيٌّ غُدِّيٌّ مُوسِينِيٌّ كاذِب	pseudomucinous adenofibroma
+وَرَمٌ ليفِيٌّ غُدِّيٌّ وَذَمِيّ	adenofibroma edematodes
+وَرَمٌ لِيفِيٌّ غُضْروفِيّ	chondrofibroma
+وَرَمٌ لِيفِيٌّ غُضْروفِيٌّ مُخاطِيّ	chondromyxofibroma
+وَرَمٌ لِيفِيٌّ قاسٍ	hard fibroma
+وَرَمٌ لِيفِيٌّ كَهْفِيّ	fibroma cavernosum (cavernous fibrous hemangioma)
+وَرَمٌ لِيفِيٌّ كيسِيّ	cystic fibroma
+وَرَمٌ لِيفِيٌّ كيسِيّ	cystofibroma
+ورم ليفي كيسي	fibroma, cystic
+وَرَمٌ لِيفِيّ لاعَظْمِيُّ المَنْشَأ	non-osteogenic fibroma
+وَرَمٌ لِيفِيٌّ لِثَوِيّ	epulofibroma
+وَرَمٌ لِيفِيٌّ لَيِّن	fibroma molle
+وَرَمٌ لِيفِيٌّ لَيِّن	soft fibroma
+وَرَمٌ لِيفِيٌّ مُتَدَلٍّ	fibroma pendulum
+وَرَمٌ لِيفِيٌّ مُتَراكِز	concentric fibroma
+وَرَمٌ لِيفِيٌّ مُتَكَلِّس	calcified fibroma
+وَرَمٌ لِيفِيٌّ مُتَوَسِّعُ الأَوعِيَة	telangiectatic fibroma (angiofibroma)
+وَرَمٌ لِيفِيٌّ مُخاطانِيّ	fibroma mucinosum
+وَرَمٌ لِيفِيٌّ مُخاطِيّ	fibroma myxomatodes (myxofibroma)
+وَرَمٌ لِيفيٌّ مُخاطِيّ	myxofibroma
+وَرَمٌ لِيْفِيٌّ مُخاطِيّ	myxoinoma (myxofibroma)
+وَرَمٌ لِيفِيٌّ مُخاطِيٌّ سِنِّيُّ	odontogenic myxofibroma
+وَرَمٌ لِيفِيٌّ مُخاطِيٌّ غُضْروفِيٌّ	chondromyxoid fibroma of bone
+وَرَمٌ لِيفِيٌّ مَرِن	elastofibroma
+وَرَمُ لِيفِيٌّ مَرِنٌ ثاقِب	perforating elastofibroma
+وَرَمٌ لِيفِيٌّ مَرِنٌ ظَهْرِيّ	elastofibroma dorsi
+وَرَمٌ لِيفِيٌّ مُعَظِّم	ossifying fibroma
+وَرَمٌ لِيفِيٌّ مُعَظِّم	ossifying fibroma of bone
+وَرَمٌ لِيفِيٌّ مِلاَطِيّ	cementifying fibroma (cementoblastoma)
+وَرَمٌ لِيفِيٌّ وِعائِيّ	angiofibroma
+ورم ليفي وعائي	fibroma, telangiectatic = angiofibroma
+وَرَمٌ لِيفِيٌّ وِعائِيّ	hemangiofibroma
+وَرَمٌ لِيفِيٌّ وِعائِيٌّ أَنْفِيٌّ	nasopharyngeal angiofibroma
+وَرَمٌ لِيفِيٌّ وِعائِيٌّ شَحْمِيّ	angiolipofibroma
+وَرَمٌ لِيفِيٌّ وِعائِيٌّ مَدارِيٌّ مُعْدٍ	angiofibroma contagiosum tropicum
+وَرَمٌ لِيفِيٌّ وِعائِيٌّ مَشيمائِيّ	chorioangiofibroma
+وَرَمٌ لِيفِيٌّ وِعائِيٌّ يَفَعِيّ	juvenile angiofibroma (nasopharyngeal angiofibroma)
+وَرَمٌ لِيفِيٌّ وِعائِيٌّ يَفَعِيٌّ	juvenile postnasal angiofibroma
+وَرَمٌ لِيفِيٌّ يَفَعِيٌّ أَنْفِيٌّ	juvenile nasopharyngeal fibroma (nasopharyngeal angiofibroma)
+وَرَمٌ لَيِّن	malacoma
+وَرَمٌ مائِيّ	hydroma (hygroma)
+وَرَمٌ مَبيضِيّ	oophoroma
+وَرَمٌ مَبيضِيٌّ جُرَيبِيّ	oophoroma folliculare
+وَرَمٌ مُتَحَوِّل	transition tumor
+وَرَمٌ مُتَنَقِّل	migrated tumor (migratory tumor)
+وَرَمٌ مُتَوَسِّطِيّ	mesenchymoma
+وَرَمٌ مُتَوَسِّطِيٌّ حَمِيد	benign mesenchymoma
+وَرَمٌ مُتَوَسِّطِيٌّ خَبِيث	malignant mesenchymoma
+وَرَمٌ مِثْلِيّ	homoiotypic tumor (homologous tumor)
+وَرَمٌ مِثْلِيّ	homologous tumor
+وَرَمٌ مُجَاوِرٌ للشَّرَج	perianal tumor
+وَرَمٌ مُجَاوِرٌ للمُقْلَة	parophthalmoncus
+وَرَمٌ مِحْفَظِيّ	capsuloma
+وَرَمُ مُخاطِيّ	mucous tumor (myxoma)
+وَرَمٌ مُخاطِيٌّ	myxoma
+وَرَمٌ مُخاطِيٌّ أُذَينِيّ	atrial myxoma
+وَرَمٌ مُخاطِيٌّ ساركوميّ	myxoma sarcomatosum (myxosarcoma)
+وَرَمٌ مُخاطِيٌّ سِنِّيُّ المَنْشَأ	odontogenic myxoma
+وَرَمٌ مُخاطِيٌّ شَحْمِيّ	lipomatous myxoma
+وَرَمٌ مُخاطِيٌّ شَحْمِيّ	lipomyxoma
+وَرَمٌ مُخاطِيٌّ شَحْمِيٌّ لِيفِيّ	lipofibromyxoma
+وَرَمٌ مُخاطِيٌّ صِفاقِيٌّ كاذب	pseudomyxoma peritonei
+وَرَمٌ مُخاطِيٌّ ظِهارِيّ	mucoepithelial tumor
+وَرَمٌ مُخاطِيٌّ عَدْوائِيّ	infectious myxoma
+وَرَمٌ مُخاطِيٌّ غُضْروفِيّ	chondromyxoma
+وَرَمٌ مُخاطِيٌّ غُضْروفِيّ	enchondromatous myxoma
+وَرَمٌ مُخاطِيٌّ كاذِب	pseudomyxoma
+وَرَمٌ مُخاطِيٌّ كَهْفِيّ	cavernous myxoma
+وَرَمٌ مُخاطِيٌّ كِيْسِيّ	cystic myxoma
+وَرَمٌ مُخاطِيٌّ كيسِيّ	myxocystoma (mucinous cystadenoma)
+وَرَمٌ مُخاطِيٌّ لِمْفِيّ	lymphomyxoma
+وَرَمٌ مُخَاطِيٌّ لِيْفِيٌّ	fibromyxoma (myxofibroma)
+ورم مخاطي ليفي	fibromyxoma = myxofibroma
+وَرَمٌ مُخاطِيٌّ لِيفِيّ	myxoma fibrosum (myxofibroma)
+وَرَمٌ مُخاطِيٌّ مَبيضِيٌّ كاذِبٌ	ovarian pseudomyxoma
+ورم مخاطي متكيس	cystoma, myxoid
+وَرَمٌ مُخاطِيٌّ مَتَوَسِّعُ الشُّعَيْرات	telangiectatic myxoma
+وَرَمٌ مُخاطِيٌّ ناعِظ	erectile myxoma (telangiectatic myxoma)
+وَرَمٌ مُخاطِيٌّ وِعائِيّ	vascular myxoma
+وَرَمٌ مُخْتَلُّ التَّقَرُّن	dyskeratoma
+وَرَمُ مُخْتَلِط	mixed tumor
+وَرَمٌ مَخْصُوْر	hourglass tumor
+وَرَمٌ مَخْلَوِيّ	syncytioma (syncytial endometritis)
+وَرَمٌ مَخْلَوِيٌّ خَبيث	syncytioma malignum (choriocarcinoma)
+وَرَمٌ مَدْمَعِيّ	dacryoma
+وَرَمٌ مُذَكِّر	andreioma (arrhenoblastoma)
+وَرَمٌ مُذَكِّر	androblastoma (arrhenoblastoma)
+وَرَمٌ مُذَكِّر	androma (arrhenoblastoma)
+وَرَمٌ مُذَكِّر	arrhenoblastoma
+وَرَمٌ مُذَكِّر	arrhenoma (arrhenoblastoma)
+وَرَمُ مَرْغرينيّ	margaroid tumor (cholesteatoma)
+وَرَمٌ مَسْخِيّ	dysembryoma (teratoma)
+وَرَمٌ مَسْخِيّ	teratoma [pl.teratomata]
+وَرَمٌ مَسْخِيٌّ أُحادِيُّ الأَدَمَة	monodermal teratoma
+وَرَمٌ مَسْخِيُّ الشَّكْل	teratoid tumor (teratoma)
+وَرَمٌ مَسْخِيٌّ ثُنائِيُّ الأَديم	bidermoma
+وَرَمٌ مَسْخِيٌّ خَبيث	malignant teratoma
+وَرَمٌ مَسْخِيٌّ صَلْد	solid teratoma (malignant teratoma)
+وَرَمٌ مَسْخِيٌّ عند البَالِغ	adult teratoma
+وَرَمٌ مَسْخِيٌّ غير ناضج	immature teratoma (malignant teratoma)
+وَرَمٌ مَسْخِيٌّ كِيْسِيٌّ	cystic teratoma (dermoid cyst)
+وَرَمٌ مَسْخِيٌّ كيسيٌّ حَمِيْد	benign cystic teratoma (dermoid cyst)
+وَرَمٌ مَسْخِيٌّ ناضج	mature teratoma (dermoid cyst)
+وَرَمٌ مُشابِهٌ للشَّبَكِيَّة	retinal analage tumor (melanotic neuroectodermal tumor)
+وَرَمٌ مُشَابِهٌ للعُضْوِ	organoid neoplasm
+وَرَمٌ مُشَابِهٌ للنَّسِيْج	histoid neoplasm
+وَرَمٌ مَشيمائِيّ	chorioma
+وَرَمٌ مَشيمِيّ	placentoma (deciduma)
+ورم مشيمي غدّي	chorioadenoma
+وَرَمٌ مُضْغِيّ	embryoma
+وَرَمٌ مُضْغِيّ	embryonal tumor (embryoma)
+وَرَمٌ مُضْغِيٌّ كُلْوِيّ	embryoma of kidney
+وَرَمٌ مُضْغِيّ مُنَسِّج	embryoplastic tumor
+وَرَمُ مَطْرِسِ الشَّعْر	hair matrix tumor
+وَرَمٌ مُكَيَّس	encysted tumor
+وَرَمٌ مِلاَطِيّ	cementoma
+وَرَمٌ مِلاَطِيٌّ لِيْفِيّ	fibrocementoma
+وَرَمٌ مُلْتَحِمِيّ	conjunctivoma
+ورم منفصل	choresta = choristoblastoma = choristoma
+ورم منفصل	chorista (= choristblastoma = choristoma)
+وَرَمٌ مَنَوِيّ	seminoma
+وَرَمٌ مَنَوِيّ	spermatocytoma (seminoma)
+وَرَمٌ مَنَوِيّ	spermocytoma (seminoma)
+وَرَمٌ مَنَوِيٌّ مَبيضِيّ	ovarian seminoma (ovarian dysgerminoma)
+وَرَمٌ مِيْلانِيٌّ نَمَشِيّ	lentigo melanoma
+وَرَمٌ ميلاَنِيٌّ يَفَعِيّ	juvenile melanoma
+وَرَمٌ ميلانينيّ	melanoma
+وَرَمٌ ميلانينيٌّ تَحْتَ الظُّفُر	subungual melanoma
+وَرَمٌ ميلانينيٌّ حَميد	benign melanoma (nevus)
+وَرَمٌ ميلانينيٌّ خَبيث	malignant melanoma
+وَرَمٌ ميلاَنِيْنِيٌّ خَبِيْث	nevomelanoma (malignant melanoma)
+وَرَمٌ ميلانينيٌّ سَطْحِيٌّ مُنْتَشِر	superficial spreading melanoma
+وَرَمٌ ميلانينيٌّ صَلْد	melanoscirrhus
+وَرَمٌ ميلانينيٌّ عُقْدِيّ	nodular melanoma
+وَرَمٌ ميلانينيٌّ كُظْري	melanoma suprarenale (Addison's disease)
+وَرَمٌ ميلانينيٌّ مِغْزَلِيُّ الخَلاَيا	spindle cell melanoma
+وَرَمٌ ميلانينيٌّ نَمَشِيٌّ خَبيث	lentigo maligna melanoma
+وَرَمٌ ميلانينيٌّ يَفْعِيٌّ حَميد	benign juvenile melanoma
+وَرَمٌ مينائِيّ	adamantinoma
+ورم مينائي	ameloblastoma
+وَرَمٌ مينائِيّ	enameloma
+وَرَمٌ مينائِيٌّ عَديدُ الأَكْياس	adamantinoma polycysticum
+وَرَمٌ مينائِيٌّ نُخامِيّ	pituitary adamantinoma (craniopharyngioma)
+وَرَمٌ نازّ	oozing tumor
+وَرَمٌ ناعِظ	erectile tumor
+وَرَمُ ناقِضاتِ السِّنّ	odontoclastoma
+وَرَمُ نَاقِضاتِ العَظْم	osteoclastoma
+وَرَمٌ نَباتِيٌّ جُرْثومِيّ	bacteriophytoma
+وَرَمٌ نَجْمِيّ	astrocytoma
+وَرَمٌ نَجْمِيٌّ جِبْلِيّ	astrocytoma protoplasmaticum
+وَرَمٌ نَجْمِيٌّ شَعْرِيُّ الخَلاَيَا	pilocytic astrocytoma
+وَرَمٌ نَجْمِيٌّ عَصَبِيّ	neuroastrocytoma
+وَرَمٌ نَجْمِيٌّ كَشْمِيّ	anaplastic astrocytoma (glioblastoma multiforme)
+وَرَمٌ نَجْمِيٌّ لُيَيْفِيّ	astrocytoma fibrillare
+وَرَمُ نَجْمِيٌّ مَفْعُوْمُ الخَلاَيا	gemistocytic astrocytoma
+وَرَمٌ نَسيجِيّ	histioma
+ورم نسيجي	histioma = histoma
+وَرَمٌ نَسيجِيّ	histoma
+ورم نسيجي	histoma = histioma
+وَرَمٌ نَسيجِيُّ الشَّكْل	histioid tumor
+وَرَمٌ نِقَوِيٌّ خُصْوِيّ	orchiomyeloma (plasmacytoma of testis)
+وَرَمٌ نَقِيْرِيّ	hilar cell tumor
+وَرَمٌ نَقيلِيّ	metastatic neoplasm
+وَرَمٌ نَقيلِيّ	metastatic tumor
+وَرَمٌ نِقْيِيّ	myeloma
+وَرَمٌ نِقْيِيٌّ بِطانِيّ	endothelial myeloma (Ewing tumor)
+وَرَمٌ نِقْيِيٌّ بلازماويُّ الخَلاَيا	plasma cell myeloma
+وَرَمٌ نِقْيِيٌّ خارِجَ النِّقْي	extramedullary myeloma
+وَرَمٌ نِقْيِيٌّ عِمْلاقُ الخَلاَيا	giant cell myeloma
+وَرَمٌ نِقْيِيٌّ كَبِدِيّ	hepatomyeloma
+وَرَمٌ نِقْيِيٌّ لِمْفِيّ	lymphomyeloma
+وَرَمٌ نِقْيِيٌّ مُتَعَدِّد	multiple myeloma
+وَرَمٌ نِقْيِيٌّ مُتَعَدِّدٌ عِمْلاقُ	multiple giant cell myeloma
+وَرَمٌ نِقْيِيٌّ مُحيطِيٌّ بلازماويُّ	peripheral plasma cell myeloma
+وَرَمٌ نِقْيِيٌّ مُفْرَد	solitary myeloma
+وَرَمٌ نِقْيِيٌّ مُكوِّنٌ للعَظْم	osteogenetic myeloma
+وَرَمٌ نِقْيِيٌّ مُهاوِد	indolent myeloma
+وَرَمٌ نِقْيِيٌّ مُوَضَّع	localized myeloma (solitary myeloma)
+وَرَمُ نِهَايَات الغُدَدِ العَرَقِيَّة	acrospiroma
+وَرَمُ نِهَايَات الغُدَدِ العَرَقِيَّةِ	eccrine acrospiroma
+وَرَمٌ نَوسَجِيّ	histoplasmoma
+وَرَمُ نيلاتون	Nelaton's tumor
+وَرَمٌ هَجين	hybridoma
+وَرَمُ هُلاَمِيّ	gelatinous tumor (myxoma)
+وَرَمُ وارثين	Warthin's tumor
+وَرَمٌ وُدِّيّ	sympatheticoma
+وَرَمٌ وِعائِيّ	angioma
+وَرَمٌ وِعَائِيّ	angioneoplasm
+وَرَمٌ وِعائِيّ	hemangioma
+وَرَمٌ وِعائِيّ	hemartoma (hemangioma)
+وَرَمٌ وِعائِيّ	vascular tumor
+وَرَمٌ وِعائِيٌّ أَرومِيٌّ مينائِيّ	ameloblastic hemangioma
+ورم وعائي بروقي	angioma, verrucous
+وَرَمٌ وِعائِيٌّ بَسيط	hemangioma simplex (strawberry hemangioma)
+وَرَمٌ وِعائِيٌّ بَسيط	simple angioma
+وَرَمٌ وِعائِيٌّ تَقْرانِيٌّ ثُؤْلُولِيّ	verrucous keratotic hemangioma
+ورم وعائي تكهفي	angioma, cavernosum
+ورم وعائي توتي	hemangioma, strawberry
+وَرَمٌ وِعائِيٌّ توتِيُّ الشَّكْل	strawberry angioma
+وَرَمٌ وِعائِيٌّ جِلْدِيّ	angioma cutis
+وَرَمٌ وِعائِيٌّ حَبَرِيّ	petechial angioma
+ورم وعائي خضابي ضموري	angioma, pigmentosum et atrophicum
+وَرَمٌ وِعائِيٌّ دِماغِيّ	encephalic angioma
+ورم وعائي دموي	angioma
+وَرَمٌ وِعائِيٌّ دَمَوِيٌّ شَحْمِيّ	lipohemangioma
+وَرَمٌ وِعائِيٌّ دَمَوِيٌّ عَضَلِيٌّ	lipomyohemangioma
+وَرَمٌ وِعائِيٌّ دَمَوِيٌّ لِمْفِيّ	hematolymphangioma
+وَرَمٌ وِعائِيٌّ دَمَوِيٌّ لِمْفِيّ	hemolymphangioma
+وَرَمٌ وِعائِيٌّ سَاعٍ	angioma serpiginosum
+وَرَمٌ وِعائِيٌّ شَبِيْهٌ بتُوْتِ الأَرْض	strawberry hemangioma (vascular nevus)
+وَرَمٌ وِعائِيٌّ شَحْمِيُّ المَنْشَأ	lipogenic angioma
+وَرَمٌ وِعائِيٌّ شِرْيانِيٌّ عُنْقودِيُّ	angioma arteriale racemosum
+وَرَمٌ وِعائِيٌّ شِرْيانِيٌّ وَريدِيٌّ	arteriovenous angioma of brain
+ورم وعائي شعري	angioma, capillary
+وَرَمٌ وِعائِيٌّ شَعْرِيٌّ مُعَجَّر	hairy tuberous angioma
+وَرَمٌ وِعائِيٌّ شُعَيرِيّ	capillary angiomas
+وَرَمٌ وِعائِيٌّ شُعَيرِيّ	capillary hemangioma
+ورم وعائي شعيري	hemangioma, capillary = revus flammeus
+وَرَمٌ وِعائِيٌّ شُقوقِيّ	fissural angioma
+وَرَمٌ وِعائِيٌّ شَيخوخِيّ	senile angioma (cherry angioma)
+وَرَمٌ وِعائِيٌّ ضَخامِيّ	hypertrophic angioma (hemangioendothelioma)
+وَرَمٌ وِعائِيٌّ ضَخامِيّ	hypertrophic hemangioma
+ورم وعائي ضفيري	angioma, plexiform
+وَرَمٌ وِعائِيٌّ ضَفَيرِيّ	plexiform angioma
+وَرَمٌ وِعائِيٌّ عَدْوائِيّ	infective angioma (angioma serpiginosum)
+وَرَمٌ وِعائِيٌّ عُنْقودِيّ	cirsoid hemangioma (racemose hemangioma)
+وَرَمٌ وِعائِيٌّ عُنْقودِيّ	racemose hemangioma
+وَرَمٌ وِعائِيٌّ عَنْكَبيّ	spider angioma (spider telangiectasis)
+وَرَمٌ وِعائِيٌّ غُضْروفِيّ	chondroangioma
+وَرَمٌ وِعائِيٌّ فِي القَناةِ	spinal angioma
+وَرَمٌ وِعائِيٌّ كَرَزِيّ	cherry angioma
+وَرَمٌ وِعائِيٌّ كُرَوِيّ	glomangioma
+وَرَمٌ وِعائِيٌّ كُلْوِيّ	renal hemangioma
+وَرَمٌ وِعائِيٌّ كَهْفِيّ	angioma cavernorom
+ورم وعائي كهفي	cavernoma (of liver)
+وَرَمٌ وِعائِيٌّ كَهْفِيّ	cavernous angioma
+وَرَمٌ وِعائِيٌّ كَهْفِيّ	cavernous hemangioma
+وَرَمٌ وِعائِيٌّ كَهْفِيّ	hemangioma cavernosum
+ورم وعائي كهفي	hemangioma, cabernous
+ورم وعائي كهفي	hemangioma, cavernous
+وَرَمٌ وِعائِيٌ لِمْفِيّ	angiolymphangioma
+وَرَمٌ وِعائِيٌّ لِمْفِيّ	angioma lymphaticum
+وَرَمٌ وِعائِيٌّ لِمْفِيّ	lymphangioma
+وَرَمٌ وِعائِيٌّ لِمْفِيٌّ بَسيط	lymphangioma simplex
+وَرَمٌ وِعائِيٌّ لِمْفِيٌّ بِطانِيّ	lymphangioendothelioma
+وَرَمٌ وِعائِيٌّ لِمْفِيٌّ شَقِّيّ	fissural lymphangioma
+ورم وعائي لمفي كهفي	cavernous lymphangloma
+وَرَمٌ وِعائِيٌّ لِمْفِيٌّ لِيْفِيّ	lymphangiofibroma
+وَرَمٌ وِعائِيٌّ لِيفِيّ	fibroangioma
+وَرَمٌ وِعائِيٌّ مُتَرَقٍّ مُتَعَدِّد	multiple progressive angioma
+ورم وعائي متصلب	hemangioma, sclerosing
+وَرَمٌ وِعائِيٌّ مُتَقَرِّن	keratoangioma (angiokeratoma)
+وَرَمٌ وِعائِيٌّ مُتَوَسِّعُ الشُّعَيْراتِ	telangiectatic angioma
+وَرَمٌ وِعائِيٌّ مُخاطِيّ	angiomyxoma
+وَرَمٌ وِعائِيٌّ مُسَطَّح	plane angioma (telangiotic angioma)
+وَرَمٌ وِعائِيٌّ مَشيمائِيّ	chorangioma (chorioangioma)
+وَرَمٌ وِعائِيٌّ مَشيمائِيّ	chorioangioma
+وَرَمٌ وِعائِيٌّ مُصَلِّب	sclerosing angioma
+وَرَمٌ وِعائِيٌّ مُصَلِّب	sclerosing hemangioma
+وَرَمٌ وِعائِيٌّ مُعَجَّر	tuberous angioma
+وَرَمٌ وِعائِيٌّ مُفْرِطُ التَّشَعُّر	hypertrichotic angioma
+وَرَمٌ وِعائِيٌّ مُفْرِطُ التَّقَرُّن	hyperkeratotic angioma
+وَرَمٌ وِعائِيٌّ نَجْمِيّ	stellate angioma (spider angioma)
+وَرَمٌ وِعائِيٌّ وِراثِيٌّ نَزْفِيّ	hereditary hemorrhagic angioma
+وَرَمٌ وِعائِيٌّ وَريدِيّ	venous hemangioma
+وَرَمٌ وِعائِيٌّ وَريدِيٌّ دِماغِيّ	venous angioma of brain
+وَرَمٌ وِعائِيٌّ وَريدِيٌّ عُنْقودِيُّ	angioma venosum racemosum
+وَرَمُ ويلمز	Wilms' tumor
+وَرَمُ يُوِينْغ	Ewing's tumor
+وَرَميّ	tumorous
+وَريدٌ دَوالِيّ	varicose vein
+وزن الجرّات	stroke weight
+وسادة خرطومية دوارة	hose roll bellows
+وَسْمَةُ الجُدَرِيّ	pock mark
+وَسْمَةُ شَبِيْهَةٌ بتُوْتِ الأَرْض	strawberry mark (cavernous hemangioma)
+وَسْمَةٌ شَبِيْهَةٌ بتُوْتِ العُلَّيْقّ	raspberry mark (cavernous hemangioma)
+وصب الجوف	disease, celiac
+وصب المفاصل الحرضي	disease, degenerative joint = osteoarthritis
+وصب دماغي حبلي عقب عدوى	encephalomyelopathy, postinfective
+وَصْفُ الحُمَّى	pyretography
+وَصْلٌ قَنْطريّ	bridging
+وُصْلة الارتجاج	shock sub
+وصلة بالمرابط	joints with cramps
+وُصْلَةٌ خُرطوميَّة دَوّارة	rotary hose connection (or joint)
+وصلة دوّارة	rotary joint
+وصلة دوّارة	rotary joint; rotating joint
+وُصْلَة دَوّارة	rotating joint
+وصلة صليبية	spider
+وُصلَة مُتَراوِحة	swivel joint
+وَضَاءَةُ وَذَمَةِ الشَّبَكِيَّة	albedo retinae
+وَضَحُ الصَّدَفِيَّة	psoriatic leukoderma
+وَضَحٌ تالٍ للاِلْتِهاب	post inflammatory leukoderma
+وَضَحُ جِلْدِ الرَّقَبَةِ الاسْوِدَادِيّ	melanoleukoderma colli (syphilitic leukoderma)
+وَضَحٌ زُهْرِيِّ	syphilitic leukoderma
+وضع مشغول أمامي	forward busying; forward seizure
+وَضْعاتُ دروسين	Drosin's postures
+وَضْعِيَّةُ ألبيرت	Albert's position
+وَضْعِيَّةُ التَّشَنُّجِ الظَّهْرِيّ	emprosthotonos position (opisthotonos)
+وَضْعِيَّةُ التَّشَنُّجِ الظَّهْرِيّ	opisthotonos position (opisthotonos)
+وَضْعِيَّةُ التَّوَتُّرِ الاِنْتِصابِيّّ	orthotonos position (orthotonos)
+وَضْعِيَّةُ بونر	Bonner's position
+وِقاية	prevention(of diseases)
+وَقْس	cowpox
+وَقْسٌ كاذِب	pseudocowpox (paravaccinia)
+وَقْسَة	pock
+وَقْسَة	pox
+وَقِيْسَة	pockmark
+وَكْتَة	argema
+وَكْعَة	bunion
+وَناءٌ عَضَلِيٌّ دَوْرِيٌّ	periodic myatonia (periodic paralysis)
+وَهْداتُ غول	Gaul's pits
+وَهْداتٌ كرومِيَّة	chrome pits (chrome ulcers)
+وَهَن	adynamia
+وَهَنُ الطَّيَّاريْن	aerasthenia (aeroneurosis)
+وَهَنُ الطَّيَّارين	aeroasthenia (aeroneurosis)
+وَهَنُ الطَّيَّارينَ العَصَبِيّ	aviator's neurasthenia
+وَهَنٌ انْتِيابِيٌّ وِراثِيّ	adynamia episodica hereditaria (periodic paralysis)
+وَهَنٌ شامِل	panasthenia (neurasthenia)
+وَهَنٌ عَصَبِيّ	nervosism (neurasthenia)
+وَهَنٌ عَصَبِيّ	neuradynamia (neurasthenia)
+وَهَنٌ عَصَبِيّ	neurasthenia
+وَهَنٌ عَصَبِيّ	neurotic asthenia (neurasthenia)
+وَهَنٌ عَصَبِيٌّ بروستاتي	prostatic neurasthenia
+وَهَنٌ عَصَبِيٌّ جِنْسِيّ	sexual neurasthenia
+وَهَنٌ عَصَبِيٌّ رَضْحِيّ	traumatic neurasthenia
+وَهَنٌ عَصَبِيٌّ سَمْعِيّ	acoustic neurasthenia
+وَهَنٌ عَصَبِيٌّ قَلْبِيّ	cardiac neurasthenia (cardiovascular neurasthenia)
+وَهَنٌ عَصَبِيٌّ قَلْبِيٌّ وِعَائِيّ	cardiovascular neurasthenia (neurocirculatory asthenia)
+وَهَنٌ عَصَبِيٌّ مَعِدِيّ	gastric neurasthenia
+وَهَنٌ عَصَبِيٌّ نَزْلِيّ	grippal neurasthenia
+وَهَنٌ عَصَبِيٌّ وَخيم	gravis neurasthenia
+وَهَنٌ عَضَلِيٌّ عَصَبِيٌّ وَبائِيّ	epidemic neuromyasthenia

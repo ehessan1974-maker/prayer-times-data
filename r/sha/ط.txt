@@ -1,0 +1,5 @@
+طِبُّ الأَسْنانِ الشَّرْعِيّ	forensic dentistry
+طب شرعيّ	forensic medicine
+طِبِّيٌّ شَرْعِيّ	medicolegal
+طَبيبٌ شَرْعِيّ	forensic physician
+طرف ثالث مراقب	the third-party monitor (component of las)

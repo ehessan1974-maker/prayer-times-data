@@ -1,0 +1,181 @@
+شاحِنَةُ بَضائع	goods wagon
+شاحِنةٌ مُقْفَلة	van
+شاشة العرض على الزجاج الأمامي	head-up display (BMW) (HUD)
+شبكات أنابيب المستهلكين	Consumer piping
+شبكة الغابات والتجارة العالمية	the global forest & trade network - north america
+شبكة توجيه تعاونية	cooperative system
+شبكة ذات قيمة مضافة	value-added network
+شحم محامل العجلات من الجيل 1.T من شركة فاج	wheel bearing kit 1.T (FAG)
+شحم محامل العجلات من الجيل 2.1 من شركة فاج	wheel bearing kit 2.1 (FAG)
+شحم محامل العجلات من الجيل الثالث من شركة	wheel bearing kit 3 (FAG)
+شحن البضائع الخطرة	dangerous goods handling
+شحن بضائع تقليدية	break bulk shipment
+شحنة بضائع سائبة	bulk goods
+شراكة تعاونية للغابات	cpf (collaborative partnership on forests)
+شَراكةٌ مَحْدودة المَسْؤوليَّة	limited liability partnership
+شَراكةٌ مَحدودةُ المَسؤولية	partnership, limited liability
+شرط عدم المسؤولية	clause of non-responsibility; clause of non-liability
+شركات الأسهم الخاصة	Private Equity Firms
+شركات الإيداع الأخرى	Other Depository Corporations
+شركات التأمين وصناديق المعاشات التقاعدية	Insurance Corporations and Pension Funds
+شركات تجارية	Commercial Corporations
+شركات مالية	financial corporations
+شركة	association / company
+شَرِكة	company
+شَرِكة	company / concern / enterprise / firm
+شركة	company; corporation
+شَرِكَة	corporation
+شركة ائتمانية	trust company
+شركة اس.اف.اي.سي هولدنجز	SFIC Holdings (Cayman) Inc.
+شركة استئجار الطائرات	charter operator
+شركة استثمار	investment company
+شَرِكَةٌ اِسْتِثمارِيَّة	corporation for profit
+شركة أشخاص	persons company
+شركة افتراضية	Virtual Corporation
+شركة الأولى للتسويق المحلي للوقود	First Fuel Marketing Company
+شركة البترول الكويتية العالمية	Kuwait Petroleum International
+شركة البترول الكويتية يوروبورت	Kuwait Petroleum Europoort (KPE)
+شركة البترول الوطنية الكويتية	Kuwait National Petroleum
+شركة التسويق متعددة الوسائط	intermodal marketing company
+شركة التصنيف	classification society
+شركة التنقل	moving company
+شركة التنمية النفطية	Oil Development Company
+شركة الخطوط الملاحية	liner company
+شركة الخليج لصناعة البتروكيماويات	Gulf Petrochemical Industries
+شركة الزيت العربية	Arabian Oil Company
+شركة السكك الحديدية	railway company
+شركة السور لتسويق الوقود	Al-Sour Fuel Marketing Company
+شركة الشبكة	grid company
+شركة الشخص الواحد	one-man company
+شركة الشعيبة للمياه والكهرباء	Shuaibah Water & Electricity Company (SWEC)
+شركة الشقيق للمياه والكهرباء	Shaqaiq Water & Electricity Company (SQWEC)
+شركة الطاقة الكهربائية	electric power company
+شركة القرين لصناعة الكيماويات البترولية	Qurain Petrochemical Industries Company
+شركة الكويت سانتافي للهندسة والمشاريع	Kuwait Santa Fe For Engineering & Petroleum Projects Co.
+شركة الملاحة الداخلية	inland navigation company
+شركة المنافع	benefit corporation / b corporation
+شركة المياه	enterprise for water supply
+شركة النَّقل والمشاريع المُرُورية	transport company, traffic enterprise, transport provider
+شَرِكَةُ الهَيْئَةِ الطِّبِّيَّة	medical staff corporation
+شركة أمّ	parent company
+شركة امتياز	concessionary company
+شركة إمداد	utility company
+شركة إمداد بالطاقة	energy suppliers
+شركة إمداد بالطاقة	power supply company electric supply company energy supply company
+شركة إمداد بالطاقة	Utility companies (RU) (according to the German Renewable Energy Act)
+شركة أموال	capitals company
+شركة إيكويت للبتروكيماويات	EQUATE Petrochemical Company
+شركة إيكويت للتسويق	Equate Marketing Company
+شركة بتروكيميكال ريسورسيس هولدنجز بي في	Petrochemical Resources Holding BV.
+شركة بناء قنوات الصرف	sewer construction firm
+شركة بوبيان للبتروكيماويات	Boubyan Petrochemical Company
+شركة تابعة	subsidiary company
+شركة تابعة	subsidiary company; subcompany
+شركة تَامَّةُ التكامل	fully integrated company
+شركة تأمين	insurance company
+شَرِكَةُ تَأْمينٍ قَابِضَة	captive insurance company
+شركة تجارية	commercial company
+شركة تشغيل	operating company
+شركة تشغيل القطارات	train operating company
+شركة تصنيع السيارات الكهربائية	Electric Vehicle Manufacturer
+شَرِكَةُ تَضامُن	joint company
+شركة تضامن	partnership
+شَرِكَةُ تَعْدين	mining company
+شركة توريد مكونات السيارات	automotive supplier
+شركة توزيع الطاقة الكهربائية	Electric Power Distribution Company (DISCOM)
+شركة توزيع الكهرباء	power company
+شركة توصية بالأسهم	limited partnership by shares
+شركة توصية بسيطة	limited partnership
+شركة جماعية	collective company
+شركة جنرال موتورز	General Motors (GM)
+شركة حكومية	state-owned enterprises
+شَرِكة خاصة	own factory; owner-operated municipal enterprise
+شَرِكَةُ خَدَمَات	service corporation
+شركة خدمات الطاقة	energy service company (esco)
+شركة خدمات القطاع النفطي	Oil Sector Services Company
+شركة خدمة الديزل العالمية	International Diesel Service (IDS)
+شَرِكةُ خطوطٍ جَوِّيَّة	airline
+شركة داو كيميكال	The Dow Chemical Company
+شركة ذات رأس مال متغير	variable capital company; company with variable capital
+شركة ذات مسؤولية محدودة	company with limited liability limited liability company (LLC)
+شركة ذات مسؤولية محدودة	limited liability company
+شركة ذات مسؤولية محدودة	private company
+شَرِكة زَيت	oil company
+شركة سكك الحديد القطرية	Qatar Rail
+شركة شل	Shell Company
+شركة صناعة السيارات	automaker automobile manufacturer motor vehicle manufacturer
+شركة صناعة الكيماويات البترولية	Petrochemical Industries Company
+شركة طيران أجنبية	foreign air carrier
+شركة طيران للمسافرين اليوميين	commuter airline
+شركة عامة	Public Company
+شركة عقارية	real estate company
+شركة عمومية	publicly owned corporation
+شَرِكَةٌ فِرْعِيَّة	subsidiary corporation
+شركة فعلية	factual company
+شرِكة في الإرث	parcenary
+شركة في طور التصفية	company in liquidation
+شركة قرض	loan company
+شركة قَطْر	towage company
+شركة كويت بتروليوم انترناشيونال سبلاي	Kuwait Petroleum International Supply Company (KPISCO)
+شركة كي.بي.سي هولدنجز	KPC Holdings (Aruba) A.E.C.
+شركة كي.بي.سي. هولدينجنز	KPC Holdings (Aruba)
+شَرِكَةٌ لانَفْعِيَّة	nonprofit corporation
+شركة لُوْيد اللندنية للتأمين البحري	Lloyd's
+شركة مالكة سفن	corporate shipowner
+شركة متعددة الجنسيات	Multi-National Company (MNC)
+شركة متعددة الجنسيات	multinational company
+شركة محاصة	joint enterprise
+شركة محاصة	partnership association
+شركة محايدة	neutral company/sector
+شَرِكةٌ مَحْدودة	incorporated company
+شَرِكة مَحْدودة	limited company
+شركة محطة الفاضلي لتوليد الطاقة المزدوج	Fadhili Plant Cogeneration Company (FPCC)
+شركة مختلطة	mixed company
+شركة مدنية	civil company
+شركة مرافق الكهرباء والمياه بالجبيل وينبع	Power & Water Utility Company for Jubail &Yanbu (Marafiq)
+شَرِكَة مُساهَمة	corporation
+شركة مُساهمة	joint stock company; public limited company
+شَرِكَة مُساهمة	joint-stock company
+شَرِكةٌ مساهِمة	public company
+شركة مستهدفة	Target Company
+شركة مصنعة للمعدات الأصلية	Original Equipment Manufacturer(OEM)
+شركة مِلاحة	company of shipping
+شركة ملاحة بحرية	shipping company
+شركة ملاحية	navigation company
+شركة ملاحية	shipping company
+شَرِكَةٌ مِهْنِيَّة	professional corporation
+شركة ناقلات النفط الكويتية	Kuwait Oil Tanker Company
+شَرِكةُ نفط	petroleum company
+شركة نفط الكويت	Kuwait Oil Company
+شركة نقل	transport company; carrying company
+شركة نقل البضائع عبر السكك الحديدية	rail freight transport company
+شركة نقل الركاب بالسكك الحديدية	rail passenger company
+شَرِكة نَقل عامَّة	common carrier
+شركة هواتف	telco
+شركة وطنية	national company
+شركة وهمية	bogus company
+شروط تجارة الصوف	wool trading rules
+شروط تجارة القطن	cotton trading rules
+شروط تجارة القطن	cotton trading rules / Bremen rules
+شروط حد ضريبة قانون الطاقة المتجددة	EEG apportionment limiting conditions
+شروط رفع السعر	price escalation clauses; escalator clause
+شِرْيانُ الكُبيبَةِ الصَّادِر	efferent artery of glomerulus
+شريان خيشومي صادر	efferent branchial artery
+شِرْيانٌ صادِر	efferent artery
+شريط الضِفَّة	bank strip
+شطر	hemistich
+شِعْبٌ داخل	bank-inset reef
+شِِعْب ضَفّيّ	bank reef
+شَقُّ انكِماش	shrinkage crack
+شكل التسويق المباشر	direct marketing form
+شهادات الأسهم المالية	share certificates
+شهادات الإيداع	Certificates of Deposit
+شهادة أداء الأجر	wage sheet
+شهادة استثمار	investment certificate
+شهادة الأسهم: وثيقة تُثبت ملكيّةَ المرء	stock certificate
+شهادة الإيداع	certificate of deposit
+شهادة إيداع	certificate of deposit
+شَهادةُ تَخْليص	certificate of clearance
+شَهادة تَخليص	clearance certificate
+شهْر الإفلاس	decree of bankruptcy
+شَوكَةٌ دَمَوِيَّة	hemal spine

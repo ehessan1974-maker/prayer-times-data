@@ -1,0 +1,1300 @@
+دَاءُ	diabetes; diabetes mellitus
+داء	disease
+داء	disease; illness
+داء	evil
+داء	maladie (disease)
+داء	malady
+داء	sickness
+داءُ X	X disease (hyperkeratosis)
+داءُ ابْتِلاَعِ العَتاد	hardware disease
+داءُ آبرت	Apert's disease (acrocephalosyndactylia)
+داءُ آبرت كروزون	Apert-Crouzon disease
+داءٌ أَبْهَرِيٌّ كُلْوِيّ	aorticorenal disease
+داءُ أَحْواضِ السُّفُن	shipyard disease
+داءُ اخْتِزانِ الحَديد	iron storage disease (hemochromatosis)
+داءُ اخْتِزَانِ السِّيستِين	cystine disease (cystine storage disease)
+داءُ اخْتِزانِ الشَّحْمِيَّات	lipid storage disease
+داءُ اخْتِزانِ الغلِيكُوجين	glycogen storage disease
+داءُ اخْتِزانِ الغلِيكُوجينِ الكَبِدِيُّ	hepatorenal glycogen storage disease
+داءُ اخْتِزَان الغلِيكُوجين المُتَفَرِّع	brancher glycogen storage disease
+داء اختزان الغليكوجين المُشَذَّب	debrancher glycogen storage disease (glycogen storage disease type III)
+داءُ اخْتِزَانِ الغليكوجينِ بعَوَزِ	brancher deficiency glycogenosis (glycogen storage disease type IV)
+داءُ آدامز	Adam's disease
+داءُ آدَمز-ستُوكْس	Adams-Stokes disease
+داءُ أَدِيسون	Addison's disease
+داء أديسون: مرض ينشأ عن ضمور قشرة الكُظْر	Addison's disease
+داءُ آرانِ دُوشِين	Aran-Duchenne disease (spinal muscular atrophy)
+داءُ آرمستُرونغ	Armstrong's disease (lymphocytic choriomeningitis)
+داءٌ اسْتِقْلابِيّ	metabolic disease
+داءٌ اشْتِمالِيّ	inclusion disease
+داءُ أَصابِعِ اليَدَيْن و القَدَمَيْن	finger and toe disease
+داءُ آكامُوشي	akamushi disease (scrub typhus)
+داءُ آكورِيري	Akureyri disease (=benign myalgic encephalomyelitis)
+داءُ آل هابسبورغ	disease of the Hapsburgs (hemophilia)
+داءُ الاحمرار	pink disease (acrodynia)
+داءُ الاخْتِزان	storage disease
+داءُ الاخْتِزانِ في الجُسَيْمَاتِ	lysosomal storage disease
+داءُ الاِخْضِرار	green sickness (chlorosis)
+داءُ الارْتِعاش	trembling ill (ovine encephalomyelitis)
+داءُ الأَرومَةِ الغاذِيَة	trophoblastic disease
+داءُ الأَسْلاَكِ الشَّائِكَة	barbed-wire disease
+داءُ الإِشْعاع	actinotoxemia (radiation sickness)
+داءُ الإِشْعاع	radiation illness (radiation sickness)
+داءُ الاشعاع	radiation sickness
+داءُ الأَشِعَّة	x-ray sickness (radiation sickness)
+داءُ الأَمْعاءِ الالْتِهابِيّ	inflammatory bowel disease
+داءُ الأَمْعاءِ المُتَهَيِّجَة	irritable bowel disease
+داءُ الانْسِدادِ الوَريدِيِّ في الكَبِد	veno-occlusive disease of the liver
+داء الأنسيلوستوما	ancylostomiasis
+داء الأنسيلوستوما	hookworm disease
+داءُ الاهْتِزاز	vibration disease
+دَاءُ الأَوْرَامِ البِطَانِيَّة	endotheliomatosis
+دَاءُ الأَوْرَامِ البِطَانِيَّةِ	endotheliomyoma
+دَاءُ الأَوْرَامِ البِطَانِيَّةِ	endotheliorhabdomyoma
+داء الأورام الشحمية	xenthomatosis
+دَاءُ الأَوْرَامِ الصُّفرِ المُنْتَشِرَةِ	biliary hypercholesterolemic xanthomatosis
+دَاءُ الأَوْرَامِ الصُّفرِ المُنْتَشِرَةِ	cerebrotendinous xanthomatosis
+دَاءُ الأَوْرَامِ الصُّفرِ المُنْتَشِرَةِ	chronic idiopathic xanthomatosis
+دَاءُ الأَوْرَامِ الصُّفرِ المُنْتَشِرَةِ	primary familial xanthomatosis
+دَاءُ الأَوْرَامِ الصُّفرِ المُنْتَشِرَةِ	Wolman's xanthomatosis
+دَاءُ الأَوْرَامِ الصُّفرِ المُنْتَشِرَة	xanthomatosis
+دَاءُ الأَوْرَامِ الصُّفرِ المُنْتَشِرَةِ	xanthomatosis bulbi (dystrophia adiposa corneae)
+دَاءُ الأَوْرَامِ الصُّفرِ المُنْتَشِرَةِ	xanthomatosis cornea (dystrophia adiposa corneae)
+دَاءُ الأَوْرَامِ الصُّفرِ المُنْتَشِرَةِ	xanthomatosis generalisata ossium (lipid granulomatosis of the bone)
+دَاءُ الأَوْرَامِ الصُّفرِ المُنْتَشِرَةِ	xanthomatosis iridis
+دَاءُ الأَوْرَامِ الصُّفر المُنْتَشِرَةِ	xanthomatosis lentis
+دَاءُ الأَوْرَامِ الصَّفْرَاء	xanthelasmatosis
+دَاءُ الأَوْرَامِ الظِّهَارِيَّةِ	epitheliomatosis
+دَاءُ الأَوْرَامِ العَابِيَّة	hamartomatosis
+دَاءُ الأَوْرَامِ القِرابِيَّة	thecomatosis
+داءُ الأَيَّامِ الثَّلاَثَة	three-day sickness
+داءُ آلباران	Albaran's disease (colibacilluria)
+داءُ البَبَّغاء	parrot disease (psittacosis)
+داءُ البَحْر	sea sickness
+داءُ البَحْرِ المُتَوَسِّط	Mediterranean disease (beta- thalassemia)
+داءُ آلبر	Alper's disease (=polydystrophia cerebri)
+داءُ البَرَّادين	file-cutters' disease
+داءُ آلبرس شونبرغ	Albers-Schonberg disease (osteopetrosis)
+داءُ البرُوتينات	protein sickness
+داء البروسليات . الحمى المالطية	brucellosis
+داءُ البرُوسِيلاَّتِ المالْطِيَّة	melitensis (Malta fever)
+داءُ البَساتين	bush sickness
+دَاءُ البَشْرَوِيَّات الفَخِذِيّ	epidermophytosis cruris (tinea cruris)
+داءُ البُقْعَةِ البَيضاء	ich (white spot disease)
+داءُ البُقْعَةِ البَيضاء	ick (white spot disease)
+داءُ البُقْعَةِ البَيضاء	white-spot disease (lichen sclerosus et atrophicus)
+داءُ البَنَّائين	masons' disease
+داءُ البَنَّائينَ بالحَجَر	stone masons' disease
+داء البواسير	hemorrhoids
+داءُ البَولِ المُدَمَّى	redwater disease (bacillary hemoglobinuria)
+داءُ البيتا الواسِعَة	broad-beta disease (familial hyperlipoproteinemia)
+داءُ التَّدَحْرُج	rolling disease
+داءُ التَّشَنُّجِ العَضَلِيِّ	ataxia paramyotonia
+داءُ التَّشَنُّجِ العَضَلِيِّ	paramyotonia
+داءُ التَّشَنُّجِ العَضَلِيِّ	paramyotonia congenita
+داءُ التَّشَنُّجِ العَضَلِيِّ	symptomatic paramyotonia
+داءُ التَّعَب	fatigue disease
+داءُ التَّعَرُّق	sweating sickness
+داءُ التَّقْبيل	kissing disease (infectious mononucleosis)
+داءُ التَّكَيُّساتِ الدَّقيقَة	microcystic disease
+داءُ التَّلاَؤُم	adaptation disease
+داءُ التَّلاسِيمِيَّةِ التَّمَنْجُلِيّ	thalassemia-sickle cell disease
+داءُ التَّلاَسيمِيَّةِ المِنْجَلِيّ	sickle cell-thalassemia disease
+داءُ التَّلاَسيمية مع الهِيمُوغلُوبينِ C	hemoglobin C-thalassemia disease
+داءُ الَّتلاسيمية مع الهِيمُوغلُوبينِE	hemoglobin E-thalassemia disease
+داء التُّلَرِيّات: داء يصيب القوارض	tularemia
+داءُ التَّنَقُّطِ الأَبْيَض	ichthyophthiriasis (white spot disease)
+داءُ الثَّدْيِ الكيسِيّ	cystic disease of breast
+داءُ الجبال	mountain disease
+داءُ الجِبَال	mountain sickness
+داءُ الجِبَال	oronosus (mountain sickness)
+داءُ الجِبْس	plaster-of-Paris disease
+داءُ الجَرَّاشين	grinder's disease (pneumoconiosis of grinders)
+داءُ الجَزيرَة	island disease (scrub typhus)
+داءُ الجِهازِ الحَرَكِيّ	motor system disease
+داءُ الجِهازِ المُشْتَرَك	combined system disease
+داءُ الجوع	hunger disease
+داءُ الجِيارْدِيَّات	giardiasis
+داءُ الحَجَّارين	stonecutters' disease
+داءُ الحَرَكَة	kinetia (motion sickness)
+داءُ الحَرَكَة	motion sickness
+داءُ الحِرْمان	deprivation disease
+داءُ الحَكّ	itch disease
+داء الحَلَم	acariasis
+داءُ الخَلاَيا البَدينَة	mast cell disease
+داءُ الخَلاَيا البَدينَةِ المَجْموعِيّ	systemic mast cell disease
+داءُ الخَيل	horse-sickness
+داءُ الخَيلِ الغامْبِيّ	Gambian horse disease
+داءُ الخَيلِ الغامْبِيّ	Gambian horse sickness
+داءُ الخُيولِ الأَفْريقِيَّة	African horse sickness
+داءُ الدَّبَّاغين	tanner's disease
+داءُ الدُّودَةِ الغينِيَّة	guinea worm disease (dracunculiasis)
+داءُ الدونوفانيَّات	donovanosis (granuloma inguinale)
+داءُ الدِّيْدَان الرَّمْلِيَّة	sandworm disease (larva migrans)
+داءُ الدِّيدانِ الشِّصِّيَّة	hookworm disease
+داءُ الدِّيْدَان المَثْقوبَة	fluke disease
+داءُ الرِّئَةِ الكيسِيّ	cystic disease of lung
+داءُ الرِّئَةِ المُتَعَدِّدَةُ الكيسات	polycystic lung disease
+داء الرئة والقصبية	broncho- pneumonia
+داءُ الرُّزّ	rice disease (beriberi)
+داءُ الرِّياضِيِّين	athletes' sickness
+داء ألزهايمر	Alzheimer's disease
+داءُ آلزهايمَر	Alzheimer's disease (presenile dementia)
+داءُ السَّفَرِ بالسَّيَّارات	car sickness
+داءُ السَّفَرِ بالقِطارات	railroad sickness (transit tetany)
+داءُ السُّقوط	falling sickness (epilepsy)
+داءُ السَّكارين	saccharine disease
+داءُ السُّكَّري	diabetes
+داءُ السِّلْسِلَةِ الثَّقيلَة	heavy-chain disease
+داءُ السِّلْسِلَةِ أَلْفا	alpha-chain disease
+داءُ السِّلْسِلَةِ مو	mu chain disease
+داء السّلْمونيلات	typhoid; salmonellosis
+داءُ السَّنانين	knife - grinder's disease (grinder's disease)
+داءُ السِّيْكُوِيَّة	sequoiosis
+داءُ السَّيَلاَن	gonorrhea
+داءُ السَّيَلانِ الكاذِب	pseudogonorrhea (nongonococcal urethritis)
+داءُ السَّيَلانِ عِنْدَ البالِغين	blennorrhea adultorum (gonorrhea)
+داءُ الشَّبَكِيَّةِ المُرَقَّطَة	flecked retina disease
+داءُ الشُّرْطِيّ	policeman's disease (tarsalgia)
+داءُ الشَّعْرِ المُتَلَوِّي	kinky hair disease
+داءُ الشُّعِّيَّات	ray-fungus disease (actinomycosis)
+داءُ الصَّفَرِ بالقارِمات	sarcoptic ascariasis (scabies)
+داءُ الضَّحِك	laughing sickness (pseudobulbar paralysis)
+داءُ الطُّعْمِ حِيَالَ الثَّوِيّ	graft-versus-host disease
+داءُ الطَّيَّارين	aviator's disease
+داءُ الطَّيَران	aerial sickness (air sickness)
+داءُ الطَّيَران	air sickness
+داءُ الطَّيَران	aviation sickness (air sickness)
+داءُ العُشْب	grass sickness
+داءُ العَصَبُونِ الحَرَكِيّ	motoneuron disease
+داءُ العَصَبونِ الحَرَكِيّ	motor neuron disease
+دَاءُ العَظْمِ الزَورَقِيّ	navicular disease
+داءُ العَظْمِ المَرْمَرِيّ	marble bone disease (osteopetrosis)
+داءُ العُقْم	sterility disease
+داءُ العُنْقودِيَّات	staphylococcal disease
+داءُ العَوَز	deficiency disease
+داءُ العَوَزِ الدُّهْنِيّ	fat-deficiency disease
+داءُ العَوَزِ المَناعِيِّ المُشْتَرَك	combined immunodeficiency disease
+داءُ العَوَزِ المَناعِيِّ المَشتركِ	severe combined immunodeficiency disease
+داءُ الغُبار	dust disease
+داءُ الغُدَدِ اللُّعابِيَّة	salivary gland disease
+داءُ الغِشاءِ الهَيالينِيّ	hyaline membrane disease
+داءُ الغُوَّاص	caisson disease (decompression sickness)
+داءُ الغُوَّاص	caisson sickness (decompression sickness)
+داء الغواصين	caisson disease
+داءُ الفارِس	knight's disease
+داءُ الفَقَارِ الجَذْرِيّ	rhizomelic spondylosis (ankylosing spondylitis)
+داءُ الفَقَارِ الشِّصِّيّ	spondylosis uncovertebralis
+دَاءُ الفَقَارِ المُقَسِّطُ المُزْمِن	spondylosis chronica ankylopoietica (rheumatoid spondylitis)
+داءُ الفَمِ و القَدَم	foot and mouth disease
+داءُ الفَيالِقَة	legionnaires disease
+داءُ الفَيالِقَة	legionnaires' disease
+داءُ الفَيرُوسَةِ الكُوكساكِيَّةِ A	Coxsackievirus A disease (herpangina)
+داءُ الفيلِ الإيطالِيّ	elephantiasis italica (leprosy)
+داءُ الفيلِ النَّاجِمُ عن الأَورامِ	elephantiasis neuromatosa
+داءُ الفيلاريا المُعَمِّيَةُ	blinding filarial disease (onchocerciasis)
+داء الفَيْلقيّين: ضرب من ذات الرئة	Legionnaires' disease
+داءُ القَدَمِ و الفَم	foot-and-mouth disease (aphthous fever)
+داءُ القديس آبولونيا	St. Appolonia's disease (toothache)
+داءُ القديس آفِيدوس	St. Avidus' disease (deafness)
+داءُ القديس آفيرتِين	St. Avertin's disease (epilepsy)
+داءُ القديس أنطوني	St. Anthony's disease (chorea)
+داءُ القديس إيرازْمُوس	St. Erasmus' disease (colic)
+داءُ القديس بلازيوس	St. Blasius' disease (peritonsillar abscess)
+داءُ القديس جُوب	St. Job's disease (syphilis)
+داءُ القديس جِيرفاسيُوس	St. Gervasius' disease (rheumatism)
+داءُ القديس دِيمْفنا	St. Dymphna's disease (insanity)
+داءُ القديس روش	St. Roch's disease (plague)
+داءُ القديس زاخاري	St. Zachary's disease (mutism)
+داءُ القديس سِيمنت	St. Sement's disease (syphilis)
+داءُ القديس فالنتَين	St. Valentine's disease (epilepsy)
+داءُ القديس فِياكر	St. Fiacre's disease (hemorrhoids)
+داءُ القديس ماتُوران	St. Mathurine's disease (idiocy)
+داءُ القديس مُودِيستُوس	St. Modestus'disease (chorea)
+داءُ القديس هُوبَرت	St. Hubert's disease (rabies)
+داءُ القديسة آغاثا	St. Agatha's disease (mastitis)
+داءُ القَفْز	jumping disease (choreomania)
+داءُ القَلْبِ الرُّومَاتزمِيّ	rheumatic heart disease
+داءُ القَلْبِ الشَّيخوخِيّ	senile heart disease
+داءُ القَلْبِ المُدَوَّر	round heart disease
+داءُ القَيْء	vomiting sickness
+داءُ القَيْءِ الشَّتَوِيّ	winter vomiting disease
+داءُ الكُرَيَّاتِ المِنْجَلِيَّة	sickle-cell disease
+داءُ الكريات المنجلية الصغيرة	microdrepanocytic disease (sickle cell thalassemia)
+داءُ آلِكسَندر	Alexander's disease (infantile leukodystrophy)
+داءُ الكَلَب	cynolyssa (rabies)
+داءُ الكَلَب	lytta (rabies)
+داءُ الكَلَب	rabere (rabies)
+داءُ الكَلَب	rabies
+داءُ الكَلَبِ الشَّلَلِيّ	paralyssa (paralytic rabies)
+داءُ الكَلَبِ الشَّلَلِيّ	paralytic rabies
+داءُ الكُلَى المُتَعَدِّدَةُ الكيسات	polycystic disease of kidneys
+داءُ الكُلَى المُتَعَدِّدَةُ الكيسات	polycystic renal disease
+داءُ الكُهوف	cave sickness
+داءُ الكيساتِ المُذَنَّبَة	cysticercus disease
+داءُ اللآلِىء	pearl disease
+داءُ اللُّبّ	pulp disease
+داءُ اللَّبَن	lactimorbus (milk sickness)
+داءُ اللَّبَن	milk sick (poisoning by roots of Eupatorium urticaefolium)
+داءُ اللَّبَن	milk sickness
+داءُ اللَّبَن	wambles (milk sickness)
+داء اللبن: مرض من أَعراضه التقيّؤ	milk sickness
+داءُ الَّلقَّاطين	ragpickers disease
+داءُ اللِّيسْتَريَّات	listeriosis
+داءُ اللَّيشْمانِيَّاتِ الجِلْدِيّ	gwaliar ulcer
+داءُ المَبيضِ المُتَعَدِّدُ الكيسات	polycystic ovary disease
+داءُ المُتَثَاقِبَات	schizotrypanosis (Chagas' disease)
+داءُ المُتَثاقِبات	schizotrypanosomiasis (Chagas' disease)
+دَاءُ المُتَصَوِّرَات	plasmodiasis (malaria)
+داءُ المَثْقوباتِ الرِّئَوِيّ	lung fluke disease (parasitic hemoptysis)
+داءُ المَثْقوباتِ الرِّئَوِيُّ الشَّرْقِيّ	Oriental lung fluke disease (parasitic hemoptysis)
+داءُ المَجارير	vent disease (rabbit syphilis)
+داءُ المُجامَلَة	mal comitial (major epilepsy)
+داءُ المُخاطِيَّات	mucosal disease
+دَاءُ المَرْأَسَاتِ	Coenuriasis
+داءُ المُرْتَفَعات	altitude disease
+داءُ المُرْتَفَعات	altitude sickness
+داءُ المُرْتَفَعات	altitude sickness (high altitude sickness)
+داءُ المُرْتَفَعات	high-altitude sickness
+داءُ المُرْتَفَعات	hypsonosus (mountain sickness)
+داءُ المُرْتَفَعات	puna (mountain sickness)
+داءُ المَرْج	sod disease (vesicular dermatitis)
+داءُ المَرْج	veldt sickness (heartwater)
+داءُ المَرْغَرين	margarine disease
+داءُ المُسْتَشْفَيات	hospitalism
+داءُ المُشَرَّدين	vagabond's disease
+داءُ المُشَرَّدين	vagrants' disease
+داء المشوكات	echinococcosis = hydatid disease
+داءُ المُشْوِكات	echinococcus disease (hydatid disease)
+داءُ المِصْعَد	elevator disease
+داءُ المَصْل	serum disease (serum sickness)
+داءُ المَصْل	serum sickness
+داءُ المِطْرَقَةِ الهَوائِيَّة	pneumatic hammer disease
+داءُ المُعَقَّدِ المَناعِيّ	immune-complex disease
+داءُ المَفْطورات	mycoplasmosis
+داءُ المُكَوِّنَةِ M	M component disease
+داءُ المُلْتَوِياتِ المُسَبِّبُ لليَرَقان	icterogenic spirochetosis
+داءُ المِلْح	salt sickness
+داءُ المَناطيد	balloon sickness
+داءُ المَناعَةِ الذَّاتِيَّة	autoimmune disease
+داءُ المِنْطَقَةِ العَينِيّ	zona ophthalmica (herpes zoster ophthalmicus)
+داءُ آلميدا	Almeida's disease (=South American blastomycosis)
+داءُ النَّاتِئِ الباسِط	extensor process disease (buttress foot)
+داءُ النُّخاعِ الحَرَكِيّ	spinal motor disease
+داءُ النَّسيجِ الضَّامِّ المُخْتَلِط	mixed connective tissue disease
+داءُ النَّومِ الانْتِيابِيّ	sleeping disease (narcolepsy)
+دَاءُ الهَلْوَسَةِ	hallucinosis
+داءُ الهَواءِ المَضْغوط	compressed-air disease
+داءُ الهَواءِ المَضْغوط	compressed-air sickness (decompression sickness)
+داءُ الهيموغلوبين C	hemoglobin C disease
+داءُ الهِيموغلوبينِ المِنْجَلِيّC	sickle cell-hemoglobin C disease
+داءُ الهِيموغلوبينِ المِنْجَلِيّD	sickle cell-hemoglobin D disease
+داءُ الوادِي	valley disease (coccidioidomycosis)
+داءُ الوَثْب	louping-ill (ovine encephalomyelitis)
+داءُ الوَرَمِ الحُبَيبِيِّ المُزْمِن	chronic granulomatous disease
+داءُ اليَدِ و القَدَمِ و الفَم	hand-foot-and-mouth disease
+داءٌ إِنْتانِيّ	septic disease
+داءُ انْحِلاَلِ الدَمِ الوَليدِيّ	hemolytic disease of newborn (erythroblastosis fetalis)
+داءُ آندرس	Ander's disease (adiposis tuberosa simplex)
+داءُ آندرسن	Andersen's disease (glycogen storage disease)
+داءُ أَنْدَرْوُود	Underwood's disease (sclerema)
+داءُ آنديس	Andes disease (chronic mountain sickness)
+داءُ انْسِدادِ الشَّرايينِ المُتَرَقِّي	progressive arterial occlusive disease
+داءٌ انْسِدادِيّ	obstructive disease
+داءُ انْعِدامِ النَّبْض	pulseless disease
+داءُ إنْغِلمان	Engelmann's disease (diaphyseal dysplasia)
+داءُ أوبِنهايِم	Oppenheim's disease (amyotonia congenita)
+داءُ أوبيتز	Opitz's disease (thrombophlebitic splenomegaly)
+داءُ اوتو	Otto's disease (osteoarthritic protrusion of the acetabulum)
+داءُ أوجِيسكي	Aujeszky's disease (pseudorabies)
+داءُ أُورباخ فِيته	Urbach-Wiethe disease (lipoid proteinosis)
+داءُ أُورْباخ-أوبيِنْهايم	Urbach-Oppenheim disease
+داءُ أورمُون	Ormond's disease (retroperitoneal fibrosis)
+داءُ أورِين	Owren's disease (Factor V deficiency)
+داءُ أوزغُود-شلاتَر	Osgood-Schlatter disease (osteochondrosis of the tibial tuberosity)
+داءُ أوسلر	Osler's disease (polycythemia vera)
+داءُ أوسلر فاكِيز	Osler-Vaquez disease (polycythemia vera)
+داءُ أوسلر-ويبر-رِيندو	Osler-Weber-Rendu disease (hereditary hemorrhagic telangiectasia)
+داءُ أوغُوشي	Oguchi's disease (congenital night blindness in Japan)
+داءُ أولبرايت	Albright's disease
+داءُ أولمَر	Olmer's disease (boutonneuse fever)
+داءُ أولِييه	Ollier's disease (enchondromatosis)
+داءُ أونفيريخت	Unverricht's disease (progressive familial myoclonic epilepsy)
+داءُ أُوهارا	Ohara's disease (Japanese tularemia)
+داءُ اويلنبرتغ	Eulenburg's disease (myotonia congenita)
+داءُ إيبِشتاين	Ebstein's disease (hyaline degeneration of renal tubules)
+داءُ إيبِشْتاين	Epstein's disease (pseudodiphtheria)
+داءُ إيدْسال	Edsall's disease (heat cramp)
+داءُ إيدُوز	Eddowes' disease
+داءُ إِيرب	Erb's disease (progressive muscular dystrophy)
+داءُ إيرب-شاركو	Erb-Charcot disease (Erb's spastic paraplegia)
+داءُ إيرب-غُولدفلام	Erb-Goldflam disease (myasthenia gravis)
+داءُ إيرْب-لاندُوزي	Erb-Landouzy disease (muscular dystrophy)
+داءُ ايزامبِرت	Isambert's disease (acute laryngopharyngeal tuberculosis)
+داءُ أيسْلَندَة	Iceland disease (benign myalgic encephalomyelitis)
+داءُ أيسْلَنْدة	Icelandic disease
+داءُ ايكُونُومُو	Economo's disease (lethargic encephalitis)
+داءُ إيلر-دانلُوس	Ehlers-Danlos disease
+داءُ إِيلز	Eales's disease (recurrent retinal hemorrhages)
+داءُ إينغل ريكلِنغهاوزِن	Engel-Recklinghausen disease (osteitis fibrosa cystica)
+داءُ آييرزا	Ayerza's disease
+داءٌ بُؤْرِيّ	focal disease
+داءُ باتن	Batten's disease (juvenile cerebral sphingolipidosis)
+داءُ باتن-مايو	Batten-Mayou disease (juvenile cerebral sphingolipidosis)
+داءُ بَاتيلاّ	Patella's disease (tuberculous pyloric stenosis)
+داءُ بَاجِيت خارِجَ الثَّدْي	extramammary Paget's disease
+داءُ بادجيت	paget disease
+داءُ باراكيه	Barraquer's disease (lipodystrophia progressiva)
+داءُ بارسون	Parson's disease (exophthalmic goitre)
+داءُ بَاركِنسون	Parkinson's disease (paralysis agitans)
+داءُ باركو	Barcoo disease (desert sore)
+داءُ بَارْلُو	Barlow's disease
+داءُ بارلو	Barlow's disease (infantile scurvy)
+داءُ بارو	Parrot's disease (pseudoparalysis)
+داءُ باري	Parry's disease (exophthalmic goitre)
+داءُ بازان	Bazin's disease (erythema induratum)
+داءُ بازان	Bazin's disease (leukoplakia)
+داءُ بازدوف	Basedow's disease (exophthalmic goitre)
+داءُ بازدوف	morbus basedowii (Grave's disease)
+داءُ باس	Paas' disease
+داءُ باسترب	Baastrup's disease (kissing spines)
+داءُ بافي	Pavy's disease (cyclic proteinuria)
+داءُ بالمه	Balme disease (epidemic pleurodynia)
+داءُ بالُو	Balo's disease (encephalitis periaxialis concentrica)
+داءُ بامبيرغر	Bamberger's disease (saltatory spasm of lower limb)
+داءُ بامبيرغر-ماري	Bamberger-Marie disease (hypertrophic pulmonary osteoarthropathy)
+داءُ بانتي	Banti's disease (congestive splenomegaly)
+داءُ بانر	Panner's disease (osteochondrosis of the capitellum of the humerus)
+داءُ بايل	Pyle's disease (metaphyseal dysplasia)
+داءُ بِختِيرِيف	Bekhterev's disease (rheumatoid spondylitis)
+داءُ برادلي	Bradley's disease (epidemic nausea & vomiting)
+داءُ براون سِيكوارد	Brown Sequard's disease
+داءُ براون سِيمرز	Brown-Symmers' disease (infantile serous encephalitis)
+داءُ برايت	Bright's disease
+داءُ برايت	Bright's disease (glomerulonephritis)
+داءُ برايزر	Preiser's disease (osteoporosis of scaphoid)
+داءُ برايسكي	Breisky's disease (kraurosis vulvae)
+داءُ برتونو	Bretonneau's disease (diphtheria)
+داء بَرْكِنْسون	Parkinson's disease
+داءُ بِرلين	Berlin's disease (commotio retinae)
+داءُ بِرَنهارد	Bernhardt's disease (meralgia paresthetica)
+داءُ بِرَنهارد-روث	Bernhardt-Roth disease (meralgia paresthetica)
+داءُ برودي	Brodie's disease (chronic synovitis)
+داءُ بروشفيلد-وايات	Brushfield-Wyatt disease (Sturge-Weber Syndrome)
+داءُ بروفيشيه	Profichet's disease (skin stones)
+داءُ بروك	Bruck's disease
+داءُ بريدا	Breda's disease (yaws)
+داءُ بريل زينسر	Brill-zinsser disease (latent typhus)
+داءُ بريل سِيمرز	Brill-Symmers' disease (giant follicular lymphoma)
+داءُ برينتون	Brinton's disease (linitis plastica)
+داءُ برينغل	Pringle's disease (adenoma sebaceum)
+داءُ بريون-كايزَر	Brion-Kayser disease (paratyphoid)
+داءٌ بَطْنِيٌّ طِفْلِيّ	infantile celiac disease
+داءُ بكتو	Pictou disease
+داءُ بلادغود	Bloodgood disease (cystic disease of breast)
+داءُ بلوك	Blocq's disease (astasia-abasia)
+داءُ بلومر	Plummer's disease (hyperthyroidism toxicity)
+داءُ بلونت	Blount's disease (osteochondrosis deformans tibiae)
+داءُ بنسون	Benson's disease (asteroid hyalosis)
+داءُ بنكاس	Pinkus' disease (lichen nitidus)
+داءٌ بِنْيَوِيّ	constitutional disease
+داءٌُ بِنْيَوِيّ	structural disease
+داءُ بَهْجَتْ	Behcet's disease
+داءُ بَهْجَت	Behget's disease
+داءُ بو	Beau's disease (cardiac insufficiency)
+داءُ بوت	Pott's disease (tuberculous spondylitis)
+داء بوتّ: سُلٌّ يفضي إلى تقوّس العمود	Pott's disease
+داءُ بوتان	Potain's disease (pulmonary edema)
+داءُ بود خِياري	Budd-Chiari disease (obstruction of hepatic vein)
+داءُ بورتشر	Purtscher's disease (retinal traumatic angiopathy)
+داءُ بورغر	Buerger's disease (thromboangiitis obliterans)
+داءُ بورغر-غرُوتز	Buerger-Grutz disease (idiopathic hyperlipemia)
+داءُ بُورْنا	Borna sickness
+داءُ بُورنِفيل	Bourneville's disease (tuberous sclerosis)
+داءُ بُورنهولم	Bornholm disease (epidemic pleurodynia)
+داءُ بوس	Buss disease (viral encephalomyelitis)
+داءُ بوسادا-فيرنيكه	Posadas-Wernicke disease (coccidioidomycosis)
+داءُ بُوستُوك	Bostock's disease (hay fever)
+داءُ بوسكيه	Busquet's disease (exostosis of dorsum of foot)
+داءُ بُوسِّه-بُوشكِه	Busse-Buschke disease (cryptococcosis)
+داءُ بُوشار	Bouchard disease
+داءُ بوشكه	Buschke's disease (cryptococcosis)
+داءُ بُوفِيريه	Bouveret's disease (paroxysmal tachycardia)
+داءُ بوفيه	Beauvais' disease (rheumatoid arthritis)
+داءُ بول	Buhl's disease
+داءُ بَولِ شَرابِ القَيقَب	maple syrup urine disease
+داءُ بُولِيهْ	Poulet's disease (rheumatic osteoperiostitis)
+داءُ بومبه	Pompe's disease (glycogen storage disease)
+داءُ بونسيه	Poncet's disease (tuberculous rheumatism)
+داءُ بُويِن	Bowen's disease (intraepidermal squamous cell carcinoma)
+داءُ بُويُّو	Bouillaud disease (rheumatic endocarditis)
+داء بِيدل	Biedl's disease (Laurence- Moon- Biedl syndrome)
+داءُ بير	Behr's disease (senile macular degeneration)
+داءُ بير	Payr's disease (painful constipation)
+داءُ بيران-فيراتُون	Perrin-Ferraton disease (snapping hip)
+داءُ بيرتيس	Perthes disease (osteochondrosis of capitus femoris)
+داءُ بِيرجُرون	Bergeron's disease (infantile electric chorea)
+داءُ بيرد	Bear's disease (neurasthenia)
+داءُ بيرد	Bird's disease (oxalic diathesis)
+داءُ بِيرغر	Berger's disease (Ig A glomerulonephritis)
+داءُ بِيرمر	Biermer's disease (pernicious anemia)
+داءُ بِيروني	Peyronie's disease (induration of corpus cavernosum)
+داءُ بيست	Best's disease (congenital macular degeneration)
+داءُ بيغبي	Begbie's disease (exophthalmic goitre)
+داءُ بِيغيه سِيزار	Beguez Cesar disease (Chediak- Higashi Syndrome)
+داءُ بيك	Beck's disease (Siberian cardiac insufficiency)
+داءُ بيك	Boeck's disease (sarcoidosis)
+داءُ بيل	Bayle's disease (generalized paresis)
+داءُ بيل إبشتاين	Pel-Ebstein disease (Hodgkin's disease)
+داءُ بيل بِيرد	Bayle's Beardisease's disease (paralytic dementia)
+داءُ بِيلدرِبيك	Bilderbeck's disease (acrodynia)
+داءُ بِيلُروث	Billroth's disease
+داءُ بِيلز	Baelz's disease
+داءُ بِيلز	Baelz's disease (cheilitis glandularis)
+داءُ بيلشُوفسكي-يانسكي	Bielschowsky- Jansky disease (infantile cerebral sphingolipidosis)
+داءُ بيليزايوس-ميرتزباخر	Pelizaeus-Merzbacher disease (familial centrolobar sclerosis)
+داءُ بِيليغرِيني	Pellegrini's disease
+داءُ بيليغرِيني شتيدا	Pellegrini-Stieda disease
+داءُ بينزفانغر	Binswanger's disease
+داءُ بينييه بِيك	Besnier-Boeck disease (sarcoidosis)
+داءٌ تَأَتُّبِيّ	atopic disease (atopy)
+داءُ تاكاهارا	Takahara's disease (acatalasia)
+داءُ تاكاياسو	Takayasu's disease (pulseless disease)
+داءُ تالفان	Talfan disease (infectious porcine encephalomyelitis)
+داءُ تالما	Talma's disease (myotonia acquisita)
+داءُ تاي	Tay's disease (choroiditis guttata senilis)
+داءُ تاي زاكس	Tay-Sachs disease (infantile sphingolipidosis)
+داءُ تَثَخُّنِ السَّاق	thick leg disease (osteopetrotic lymphatosis)
+داءُ تَجْميعَةِ الاخْتِزان	storage pool disease
+دَاءُ تَرَخُّمِ العِظام	marble bone disease (osteoporosis)
+داءُ تريفر	Trevor's disease (dysplasia epiphysealis hemimelica)
+داءُ تسُوتْسُو غامُوشي	tsutsugamushi disease (scrub typhus)
+داءُ تسِيهِين أوبِنهايِم	Ziehen-Oppenheim disease (dystonia musculorum deformans)
+داءُ تشيرني	Czerny's disease (periodic hydrarthrosis of the knee)
+داءُ تشِيستَر	Chester's disease (long bones xanthomatosis)
+داءُ تَنْجِير	Tangier disease (Familial lipoprotein deficiency)
+داءُ تنجير	Tangier's disease (familial lipoprotein deficiency)
+داءٌ تَنَفُّسِيٌّ مُزْمِن	chronic respiratory disease
+داءٌ تَنَكُّسِيّ	degenerative disease
+داءُ توث	Tooth disease (progressive neuropathic muscular atrophy)
+داءُ تورنفالد	Tornwaldt's disease (chronic pharyngeal bursitis)
+داءُ توريت	Tourette's disease
+داءُ توماسِيلي	Tommaselli's disease (quinine hematuria)
+داءُ تيتزه	Tietze's disease
+داءُ تيشين	Teschen disease (infectious porcine encephalomyelitis)
+داءُ تيمان	Thiemann's disease (familial phalangeal avascular necrosis)
+داءُ تِيُّو	Tillaux's disease (mastitis with tumors)
+داءُ ثايسن	Thaysen's disease (nontropical sprue)
+داءُ ثُومسِن	Thomsen's disease (myotonia congenita)
+داءُ جافيه-لِيختِنشْتاين	Jaffe-Lichtenstein disease (cystic osteofibromatosis)
+داءُ جامِعِي الأَسْمال	rag-sorters' disease (inhalational anthrax)
+داءُ جامِعِي الفُطْر	mushroom pickers' disease (mushroom workers' disease)
+داءُ جانِيت	Janet's disease (psychasthenia)
+داءُ جِنسول	Gensoul's disease (Ludwig's angina)
+داءٌ جِنْسِيّ	sexual disease
+داءُ جَوارِبِ الحَرير	silk stocking disease (erythrocyanosis)
+داء جوردان	Jourdain's disease (pyorrhea alveolaris)
+داءُ جُوردان	Jourdain's disease (suppurative gingivitis)
+داءُ جُون	Johne's disease (chronic dysentery of cattle)
+داءُ جونسُون-ستِيفِنس	Johnson-Stevens disease
+داءُ جيرليه	Gerlier's disease
+داءُ جيلبير	Gilbert's disease (pityriasis rosea)
+داءٌ جينِيُّ المَنْشَأ	genetotrophic disease (inborn error of metabolism)
+داءٌ حَرارِيُّ المَنْشَأ	caloric disease
+داءٌ خَبيث	malignant disease
+داءُ خَدْشِ القِطَّة	cat-scratch disease
+داءٌ خِلاَلِيّ	interstitial disease
+داءُ خِياري	Chiari's disease (hepatic veins occlusion)
+داءُ خِياري-فرومِل	Chiari-Frommel disease
+داءُ دارلينغ	Darling's disease (histoplasmosis)
+داءُ دارييه	Darier's disease (keratosis follicularis)
+داءُ دالرِيمبِل	Dalrymple's disease (cyclokeratitis)
+داءُ دانلُوس	Danlos' disease (Ehlers-Danlos syndrome)
+داءُ داون	Down's disease (trisomy 21)
+داءُ داي	Daae's disease (epidemic pleurodynia)
+داءُ داي-فينسين	Daae-Finsen disease (epidemic pleurodynia)
+داءُ دو كُورفان	de Quervain's disease (=painful tenosynovitis)
+داءُ دُوبرِيه	Dupre's disease (meningism)
+داءُ دوبِن-سبرِينز	Dubin-Sprinz disease
+داءُ دوبْوا	Dubois' disease
+داءُ دوبِيني	Dubini's disease (acute electric chorea)
+داءُ دُوران	Durand's disease (lymphogranuloma venereum)
+داءُ دُوران-نيكولا-فافْر	Durand-Nicolas-Favre disease (lymphogranuloma venereum)
+داءُ دُورانت	Durante's disease (osteogenesis imperfecta)
+داءُ دورِنغ	Duhring's disease (dermatitis herpetiformis)
+داءُ دُوروزيِيه	Duroziez's disease (congenital mitral stenosis)
+داءُ دوشين غريزِنغَر	Duchenne-Griesinger disease (pseudohypertrophic muscular dystrophy)
+داءُ دوشِين-آران	Duchenne-Aran disease (spinal muscular atrophy)
+داءُ دُوغو	Degos' disease (malignant papulosis)
+داءُ دُول	Dohle disease (syphilitic aortitis)
+داءُ دويتشلانْدَر	Deutschlander's disease (tumor of the metatarsal bone)
+داءُ دي غُولييلمو	Di Guglielmo disease (erythremic myelosis)
+داءُ دِيجِرين-سكوتا	Dejerine-Scotta disease
+داءُ دِيجيرِين	Dejerine's disease (progressive hypertrophic interstitial neuropathy)
+داءٌ ديدانِيّ	helminthic disease
+داءُ دِيركوم	Dercum's disease (adiposis dolorosa)
+داءُ دِيفيد	David's disease (tuberculosis of the spine)
+داءُ دِيمِتري	Dimitri's disease
+داءُ دِيُوك	Dukes' disease (exanthema)
+داءُ ذُبابَةِ التسي تسِي	tsetse-fly disease
+داءُ راست	Rust's disease (cervical tuberculous spondylitis)
+داءُ رايتير	Reiter's disease (nongonococcal urethritis)
+داءٌ رِتْجِيّ	diverticular disease
+داءُ رُعاةِ الخَنازير	swine herds' disease
+داءٌ رَقْصِيّ	dancing disease (choreomania)
+داءُ رِكْليِنغْهاوزِن	Recklinghausen's disease
+داءُ رمزي هَنْت	Ramsay Hunt disease
+داءُ رنت	Runt disease (graft-versus-host disease)
+داءُ روبلِس	Robles' disease (onchocerciasis)
+داءُ رُوت	Rot's disease (meralgia paraesthetica)
+داءُ روت	Roth's disease (meralgia paraesthetica)
+داءُ روت بِرنهارد	Rot-Bernhardt disease (meralgia paraesthetica)
+داءُ روت برنهارد	Roth-Bernhardt disease (meralgia paraesthetica)
+داءُ رُوجيه	Roger's disease (ventricular septal defect)
+داءُ روسباخ	Rossbach's disease (hyperchlorhydria)
+داءُ روسي-ليفي	Roussy-Levy's disease (familial ataxia- loss of tendon reflexes)
+داءُ روكِيتانِسكي	Rokitansky's disease (acute yellow liver atrophy)
+داءُ رُومْبيِرغ	Romberg's disease (facial hemiatrophy)
+داءُ رُونيبِرغ	Runeberg's disease (pernicious anemia)
+داءُ رُونيون-هيبردِين	Rougnon-Heberden disease (angina pectoris)
+داءُ رُويش	Ruysch's disease (Hirschsprung's disease)
+داءُ رِيباس تورِيس	Ribas-Torres disease (variola minor)
+داءُ رِيتر	Ritter's disease (dermatitis exfoliativa neonatorum)
+داءُ ريد-هودجكين	Reed-Hodgkin disease (Hodgkin's disease)
+داءُ رِيدل	Riedel's disease
+داءُ رِيغا-فِيد	Riga-Fede disease (granuloma of frenulum linguae)
+داء ريغز	Riggs' disease
+داءُ ريغس	Riggs' disease (compound periodontitis)
+داءُ ريفسام	Refsum's disease
+داءُ ريكلنغهاوزِن	Von Recklinghausen's disease (neurofibromatosis)
+داءُ ريكلُوس	Reclus' disease (painless cystic mammary enlargement)
+داءُ ريكلِينغهاوزِن	Recklinghausen's disease (neurofibromatosis)
+داءُ ريكلِينغهاوزِن العَظْمِيّ	Recklinghausen's disease of bone (osteitis fibrosa cystica)
+داءُ ريكلِينغهاوزِن-آبلباوم	Recklinghausen-Applebaum disease (hemochromatosis)
+داءُ ريندو-أوسلَر-ويبَر	Rendu-Osler-Weber disease (hereditary hemorrhagic telangiectasia)
+داءُ رينو	Raynaud's disease
+داءُ زاغاري	Zagari's disease (xerostomia)
+داءُ زاكس	Sachs' disease (Tay-Sachs disease)
+داءُ زاهورسكي	Zahorsky's disease (exanthema subitum)
+داءُ زايتلبيرغر	Seitelberger's disease (infantile neuroaxonal dystrophy)
+داءٌ زُراقِيّ	maladie bleue (cyanotic heart disease)
+داءُ سارتان	Sartian disease (Turkestan ulcer)
+داءُ ساندَر	Sander's disease (paranoia)
+داءُ ساندَرز	Sander's disease (epidemic keratoconjunctivitis)
+داءُ ساندهُوف	Sandhoff's disease (Tay Sach's disease)
+داءُ سبِنْسر	Spencer's disease (epidemic gastroenteritis)
+داءُ ستارغاردت	Stargardt's disease (hereditary macula lutea degeneration)
+داءُ ستانتُون	Stanton's disease (melioidosis)
+داءُ ستوكس	Stokes' disease (exophthalmic goitre)
+داءُ ستوكس-آدامز	Stokes-Adams disease (Adams Stocke's disease)
+داءُ ستوكفيز	Stokvis' disease (enterogenous cyanosis)
+داءُ ستِيدا	Stieda's disease (Pellegrini's disease)
+داءُ ستيرج	Sturge's disease (Sturge-Weber syndrome)
+داءُ ستيرنبرغ	Sternberg's disease (Hodgkin's disease)
+داءُ ستِيكر	Sticker's disease (erythema infectiosum)
+داءُ ستيل	Still's disease (juvenile rheumatoid arthritis)
+داءُ سِكَّةِ الحَديد	railroad disease (transit tetany)
+داءُ سكِيفاز-زِيرفُوس	Skevas-Zerfus disease (sponge diver's disease)
+داءُ سلزوس	morbus celsi (epilepsy)
+داءُ سميث	Smith's disease (mucous colitis)
+داءُ سمِيث سترانغ	Smith-Strang disease (methionine malabsorption)
+داءُ سنِيدون ويلكنسُون	Sneddon-Wilkinson disease (subcorneal pustular dermatosis)
+داءُ سوديك	Sudeck's disease (post traumatic osteoporosis)
+داءُ سوندَرز	Saunders' disease
+داءُ سويفت	Swift's disease (acrodynia)
+داءُ سويفت فِير	Swift-Feer disease (acrodynia)
+داءُ سيفر	Sever's disease (calcaneus epiphysitis)
+داءُ سيلتر	Selter's disease (acrodynia)
+داءُ سِيلفِست	Sylvest's disease (epidemic pleurodynia)
+داءُ سِيمرز	Symmers' disease (giant follicular lymphoma)
+داءُ سِيموندس	Simmond's disease (panhypopituitarism)
+داءُ سِيمونز	Simons' disease (lipodystrophia progressiva)
+داءٌ شاحِبِيٌّ هَرَمِيّ	pallidopyramidal disease
+داءُ شارْكو	Charcot's disease (neuropathic arthropathy)
+داءُ شارْكُو-ماري-توث	Charcot-Marie-Tooth disease (progressive neuropathic muscular atrophy)
+داءُ شارلوِي	Charlouis'disease (yaws)
+داءُ شاغاس	Chagas' disease
+داءُ شاغاس	Chagas' disease (American trypanosomiasis)
+داءُ شاغاس-كُروز	Chagas-Cruz disease (American trypanosomiasis)
+داءُ شامبرغ	Schamberg's disease (progressive pigmentary dermatosis)
+داءُ شانتز	Schanz's disease (traumatic tendoachillitis)
+داءُ شبِيلماير-فُوغْت	Spielmeyer-Vogt disease (juvenile cerebral sphingolipidosis)
+داءُ شتاينرت	Steinert's disease (myotonic dystrophy)
+داءُ شترومبِل لايخنشتيرن	Strumpell-Leichtenstern (hemorrhagic encephalitis)
+داءُ شترومبل ماري	Strumpell-Marie disease (rheumatoid spondylitis)
+داءُ شتومر	Stuhmer's disease (balanitis xerotica obliterans)
+داءُ شِدياق-هِيغاشي	Chediak-Higashi disease
+داءُ شرودر	Schroeder's disease (hemorrhagic endometrium hypertrophy)
+داءُ شلاَتر	Schlatter's disease (Osgood-Schlatter disease)
+داءُ شمُورل	Schmorl's disease (nucleus pulposus herniation)
+داءُ شوتمولر	Schottmuller's disease (paratyphoid)
+داءُ شوغرِين	Sjogren's disease (Sjogren's syndrome)
+داءُ شولتز	Schultz's disease (agranulocytosis)
+داءُ شولر	Schuller's disease (osteoporosis circumscripta cranii)
+داءُ شولر كريستشان	Schuller-Christian disease (chronic idiopathic histiocytosis)
+داءُ شولز	Scholz's disease (familial leukoencephalopathy)
+داءُ شومان	Schaumann's disease (sarcoidosis)
+داءُ شونلاين	Schonlein's disease (purpura with articular symptoms)
+داءُ شونلاين هِينوخ	Schonlein-Henoch disease (Schonlein-Henoch purpura)
+داءُ شوِيدْياوَر	Swediaur's disease (calcaneal bursitis)
+داءُ شويرمان	Scheuermann's disease (vertebral osteochondrosis)
+داءُ شِيرشِيفِسكي	Cherchevski's disease (neurogenic ileus)
+داء شِيرشِيفِسكي	Cherchewski's disease (neurogenic ileus)
+داءُ شيشيتو	Shichito disease (scrub typhus)
+داءُ شيفر	Shaver's disease (bauxite pneumoconiosis)
+داءُ شِيكاغو	Chicago disease (blastomycosis)
+داءُ شِيلدر	Schilder's disease (chronic infantile leukoencephalopathy)
+داءُ شِيمامُوشي	shimamushi disease (scrub typhus)
+داءُ شيمل بوش	Schimmelbusch's disease (cystic disease of breast)
+داءُ صانِعِي المَكُّوك	shuttlemaker's disease
+داءُ صانِعي مَوازينِ الضَّغْط	barometer-makers' disease
+داءُ صَبَاحِ الإِثْنَيْن	Monday-morning sickness (paralytic myoglobinuria)
+داءٌ صِمِّيٌّ عَصيدِيٌّ كُلْوِيّ	atheroembolic renal disease
+داءٌ ضُمورِيّ	wasting disease
+داءٌ طَرْطَراتِيّ	tartaric disease
+داءٌ طُفَيلِيّ	parasitic disease
+داءٌ طُفَيْليّ	parasitosis
+داءٌ طُفَيلِيٌّ نَباتِيّ	phytosis
+داءُ طُومسُون	Thomson's disease
+داءٌ عُدارِيّ	hydatid disease
+داءُ عَضَّةِ الجُرَذ	rat-bite disease
+داءُ عُمَّالِ البوكسِيت	bauxite worker's disease (bauxite pneumoconiosis)
+داءُ عُمَّالِ الصَّوامِع	silo-fillers' disease
+داءُ عُمَّالِ الطَّابوق	gannister disease
+داءُ عُمَّالِ الغَزْل	mule spinners disease
+داءُ عُمَّالِ الكَتَّان	flax-dresser's disease
+داءُ عُمَّالِ اللُّؤْلُؤ	pearl-workers' disease
+داءُ عُمَّالِ قَوسِ اللِّحام	arc-welders'disease
+داءٌ عَوَزِيّ	deficiency disease
+داءُ غاريه	Garre's disease (sclerosing nonsuppurative osteomyelitis)
+داءُ غامسترورب	Gamstrorp's disease (adynamia episodica hereditaria)
+داءُ غامْنا	Gamna's disease (splenomegaly with thickened capsule)
+داءُ غاندي-نانتا	Gandy-Nanta disease (siderotic splenomegaly)
+داءُ غُروس	Gross' disease (encysted rectum)
+داءُ غريفز	Graves'disease (exophthalmic goiter)
+داءُ غرِيفه	Graefe's disease (ophthalmoplegia progressiva)
+داءُ غرينفيلد	Greenfield's disease (metachromatic leukodystrophy)
+داءُ غَطَّاسِي الإِسْفَنْج	sponge-divers' disease
+داءُ غَل	Gull's disease (thyroid atrophy with myxedema)
+داءُ غلانتسمان	Glanzmann's disease (thrombasthenia)
+داءُ غلِيسون	Glisson's disease (rickets)
+داءٌ غلِيكوجينِيّ	glycogen disease (glycogen storage disease)
+داءٌ غليكُوجينِيّ	glycogenosis (glycogen storage disease)
+داءُ غوشيه	Gaucher's disease (glucosylceramide lipidosis)
+داءُ غولدشتاين	Goldstein's disease (hereditary hemorrhagic telangiectasia)
+داءُ غولدفلام	Goldflam's disease (myasthenia gravis)
+داءُ غولدفلام-إرب	Goldflam-Erb disease (myasthenia gravis)
+داءُ غُونثَر	Gunther's disease (congenital erythropoietic porphyria)
+داءُ غِي	Gee's disease (childhood celiac disease)
+داءُ غي-هِرْتز-هُبنر	Gee- Herter- Heubner disease
+داءُ غي-هيرتر	Gee-Herter disease
+داءُ غِيبْني	Gibney's disease (perispondylitis)
+داءُ غِيركه	Gierke's disease (glycogen storage disease type I)
+داءُ غِيرهارد	Gerhardt's disease (erythromelalgia)
+داءُ غيزبوك	Gaisbock's disease (stress polycythemia)
+داءُ غيلكرِيست	Gilchrist's disease (American blastomycosis)
+داءُ غِينون	Guinon's disease (Gilles de la Tourette's syndrome)
+داءُ فابري	Fabry's disease (hereditary sphingolipidosis)
+داءُ فار-فولهارد	Fahr-Volhard disease (malignant nephrosclerosis)
+داءُ فاربر	Farber's disease (sphingolipidosis)
+داءُ فارتنبيرغ	Wartenberg's disease (cheiralgia paresthetica)
+داءُ فارِزِي الأَصْواف	woolsorters disease
+داءُ فَارِزِي الصُّوف	woolsorters' disease
+داءُ فاغْنَر	Wagner's disease (colloid milium)
+داءُ فافر دُوران نيكولا	Favre-Durand-Nicholas disease (lymphogranuloma venereum)
+داءُ فاكيز	Vaquez's disease (polycythemia vera)
+داءُ فاكيز-أوسلر	Vaquez-Osler disease (polycythemia vera)
+داءُ فالُّو	Fallot's disease (tetralogy of Fallot)
+داءُ فان بُورين	van Buren's disease (induration of corpus cavernosum)
+داءُ فانْكُونِي	Fanconi's disease
+داءُ فاير ميتشل	Weir Mitchell's disease (erythromelalgia)
+داءُ فايفر	Pfeiffer's disease (infectious mononucleosis)
+داءُ فايل	Weil's disease (leptospiral jaundice)
+داءُ فرّازي الصُّوف: داء صَدْريّ ينشأ عن	woolsorter's disease
+داءُ فرانكل-هوخ فارت	Frankl-Hochwart's disease (polyneuritis cerebralis menieriformis)
+داءُ فراي	Frei's disease (lymphogranuloma venereum)
+داءُ فرايبرغ	Freiberg's disease (osteochondrosis of metatarsals)
+داءُ فَرْطِ الأَكْل	overeating disease
+داءُ فرنسيس	Francis' disease (tularemiasis)
+داءُ فرولِيك	Vrolik's disease (osteogenesis imperfecta congenita)
+داءُ فرومِيل	Frommel's disease (Chiari Frommel syndrome)
+داءُ فريدرايخ	Friedreich 's disease (paramyoclonus multiplex)
+داءُ فرِيدلاندَر	Friedlander's disease (endarteritis obliterans)
+داءُ فلاتاو-شِيلدر	Flateau-Schilder disease (Schilder disease)
+داءُ فلاَجانِي	Flajani's disease (exophthalmic goitre)
+داءُ فلايشنَر	Fleischner's disease (osteochondritis of phalanges)
+داءُ فَنسان	Vincent's disease (necrotizing ulcerative gingivostomatitis)
+داءُ فوترجيل	Fothergill's disease (scarlatina anginosa)
+داءُ فوربس	Forbes' disease (glycogen storage disease)
+داءُ فوردايس	Fordyce's disease (Fordyce's granules)
+داءُ فورستنر	Furestner's disease (pseudospastic paralysis with tremor)
+داءُ فورنييه	Fournier's disease (fulminating gangrene of scrotum)
+داءُ فوشار	Fauchard's disease (periodontitis)
+داءُ فوغت	Vogt's disease (syndrome of corpus striatum)
+داءُ فوغت شبِيلماير	Vogt-Spielmeyer disease (juvenile cerebral sphingolipomatosis)
+داءُ فوكاس	Phocas' disease (chronic glandular mastitis)
+داءُ فوكس فورديس	Fox-Fordyce disease (apocrine miliaria)
+داءُ فولتوليني	Voltolini's disease
+داءُ فُولكمان	Volkmann's disease (Volkmann's deformity)
+داءُ فُولِينغ	Folling's disease (phenylketonuria)
+داءُ فون إيكونومو	Von Economo's disease (lethargic encephalitis)
+داءُ فون غيركه	Von Gierke's disease (glycogen storage disease I)
+داءُ فون فيليبراند	Von Willebrand's disease (congenital hemorrhagic diathesis)
+داءُ فون هِيبِل	Von Hippel's disease (retinal angiomatosis)
+داءُ فون هِيبل لينداو	Von Hippel-Lindau disease
+داءُ فون ياكش	von Jaksch's disease (anemia pseudoleukemica infantum)
+داءُ فيدال	Vidal's disease (lichen simplex planus)
+داءُ فيدلر	Fiedler's disease (leptospiral jaundice)
+داءُ فيديه	Fede's disease (frenum linguae granuloma)
+داءُ فير	Feer's disease (acrodynia)
+داءُ فيرتهايم-سالُمونسُون	Wertheim-Salomonson disease (postencephalitic Parkinson disease)
+داءُ فِيردنغ هُوفمان	Werdnig-Hoffmann disease (infantile progressive muscular atrophy)
+داءُ فِيرس	Verse's disease (calcinosis intervertebralis)
+داءُ فيرلهوف	Werlhof's disease (idiopathic thrombocytopenic purpura)
+داءُ فيرنر-شولتز	Werner-Schultz disease (agranulocytosis)
+داءُ فِيرنر-هِيس	Werner-His disease (trench fever)
+داءُ فِيرنُوي	Verneuil's disease (syphilitic bursitis)
+داءُ فِيرنِيكه	Wernicke's disease (inflammatory hemorrhagic encephalopathy)
+داءُ فَيروسِ الأُرْف	orf virus disease
+داءُ فَيروسِ بُونْيامُوِيرا	Bunyamwera virus disease
+داءُ فَيروسِ ماربُورغ	Marburg virus disease
+داءُ فيغنر	Wegner's disease (osteochondrotic epiphyseal separation)
+داءُ فِيلاتوف	Filatov's disease (infectious mononucleosis)
+داءُ فِيلاتُوف ديوكس	Filatov-Dukes disease (Dukes disease)
+داءُ فِينوِيك	Fenwick's disease (idiopathic atrophic gastritis)
+داءٌ قَلْبِيٌّ إِقْفارِيّ	ischemic heart disease
+داءٌ قَلْبِيٌّ بفَرْطِ ضَغْطِ الدَّم	hypertensive heart disease
+داءٌ قَلْبِيٌّ خِلْقِيّ	congenital heart disease
+داءٌ قَلْبِيٌّ رِئَوِيُّ المَنْشَأ	pulmonary heart disease
+داءٌ قَلْبِيٌّ روماتزميّ مُزْمِن	chronic rheumatic heart disease
+داءٌ قَلْبِيٌّ زُراقِيّ	cyanotic heart disease
+داءٌ قَلْبِيٌّ صِمامِيّ	valvular heart disease
+داءُ كاتاياما	Katayama disease (schistosomiasis japonica)
+داءُ كاستِيلاني	Castellani's disease (bronchospirochetosis)
+داءُ كافي	Caffey's disease (infantile cortical hyperostosis)
+داءُ كاكي-رِيتشي	Cacchi-Ricci disease (sponge kidney)
+داءُ كالباوُم	Kahlbaum's disease (catatonic schizophrenia)
+داءُ كالَر	Kahler's disease (multiple myeloma)
+داءُ كالْف بِيرتيس	Calve-Perthes disease (osteochondrosis of capitular epiphysis of femur)
+داءُ كالِيخر	Kalischer's disease
+داءُ كالِيفورنيا	California disease (coccidioidomycosis)
+داءُ كامُوراتي-إنغلمان	Camurati Engelmann disease (diaphyseal dysplasia)
+داءُ كانافان	Canavan's disease (spongy degeneration of the central nervous system)
+داءُ كاواساكي	Kawasaki disease
+داءُ كاواساكي	Kawasaki disease (mucocutaneous lymph node syndrome)
+داءُ كاودِن	Cowden's disease (multiple hamartoma syndrome)
+داءُ كايزر	Kayser's disease (hepatolenticular degeneration)
+داءٌ كَبِدِيٌّ عَدَسِيّ	hepatolenticular disease
+داءُ كرابِّهْ	Krabbe's disease (familial leukoencephalopathy)
+داءُ كروتزفِلد-ياكوب	Creutzfeldt-Jakob disease (spongiform viral encephalopathy)
+داءُ كُروز-شاغاس	Cruz-Chagas disease (Chagas disease)
+داءُ كُروزُون	Crouzon's disease (craniofacial dysostosis)
+داءُ كروفيليِيه	Cruveilhier's disease (spinal muscular atrophy)
+داءُ كرون	Crohn's disease
+داءُ كريستبان وِيبر	Christian-Weber disease (nodular nonsuppurative panniculitis)
+داءُ كريستيان	Christian's disease (nodular nonsuppurative panniculitis)
+داءُ كريسماس	Christmas disease (hemophilia B)
+داءُ كرِيشابر	Krishaber's disease
+داءُ كريغلَر-نَجَّار	Crigler-Najjar disease (nonhemolytic jaundice)
+داءُ كُلاَّبِيَّةِ الذَّنَب	onchocerciasis (river blindness)
+داءُ كُلاَّبِيَّةِ الذَّنَب	onchocercosis (river blindness)
+داءٌ كُلْوِيٌّ بالمَرْحَلَةِ	end stage renal disease
+داءٌ كُلْوِيٌّ بفَرْطِ ضَغْطِ الدَّم	hypertensive renal disease
+داءُ كلِيبس	Kleb's disease (glomerulonephritis)
+داءُ كلِيبِيل	Klippel's disease (arthritic general pseudoparalysis)
+داءُ كلِيمبِيرر	Klemperer's disease (Banti's disease)
+داءُ كُوتس	Coats' disease (chronic progressive exudative retinopathy)
+داءُ كوتشِيفنِيكوف	Koshevnikoff's disease (epilepsia partialis continua)
+داءُ كوتونُيو	Cotugno's disease (sciatica)
+داءُ كُورْبُس	Corbus' disease (gangrenous balanitis)
+داءُ كورساكوف	Korsakoff's disease
+داءُ كُورفيزار	Corvisart's disease (chronic hypertrophic myocarditis)
+داءُ كُوري	Cori's disease (glycogen storage III disease)
+داءُ كُورِيغان	Corrigan's disease (aortic insufficiency)
+داءُ كُوسماول	Kussmaul's disease (periarteritis nodosa)
+داءُ كُوسماول-ماير	Kussmaul-Maier disease (periarteritis nodosa)
+داءُ كُوشِنغ	Cushing's disease (Cushing's Syndrome)
+داءُ كُوشِينْغ	Cushing's disease
+داءُ كُوغان	Cogan's disease (nonsyphilitic keratitis)
+داءُ كوغيلبيرغ-فيلاندر	Kugelberg-Welander disease (hereditary juvenile muscular atrophy)
+داءُ كُوكا	Kokka disease (epidemic hemorrhagic fever)
+داءٌ كولاجِينِيّ	collagen disease
+داءُ كولر العَظْمِيّ	Kohler's bone disease (tarsal osteochondrosis)
+داءُ كولر-بيليغريني-ستييدا	Kohler-Pellegrini-Stieda disease (Pelligrini's disease)
+داءُ كُولي	Cooley's disease (beta-thalassemia)
+داءُ كومِيل	Kummell's disease (compression fracture of vertebra)
+داءُ كومِيل-فيرنُوي	Kummel-Verneuil disease (compression fracture of vertebra)
+داءُ كونت-يونيوس	Kuhnt-Junius disease (disciform macular degeneration)
+داءُ كونرادي	Conradi's disease (dysplasia epiphysialis punctata)
+داءُ كُونكاتُو	Concato's disease (progressive malignant polyserositis)
+داءُ كوينكه	Quincke's disease (angioneurotic edema)
+داءُ كِيداني	Kedani disease (scrub typhus)
+داءُ كِيرفان	Quervain's disease (painful tenosynovitis)
+داءُ كيركلاند	Kirkland's disease (acute pharyngitis with lymphadenitis)
+داءُ كيرل	Kyrle's disease (hyperkeratosis follicularis)
+داءٌ كيسِيٌّ لِيفِيّ	fibrocystic disease
+داءُ كِيمْف	Kempf's disease (acute homosexual panic)
+داءُ كيمورا	Kimura's disease (angiolymphoid hyperplasia)
+داءُ كِينبُوك	Kienbock's disease (traumatic syringomyelia)
+داءُ كينييه ويلسن	Kinnier Wilson disease (hepatolenticular degeneration)
+داءُ لارسن	Larsen's disease
+داءُ لارسن-جوهانسن	Larsen-Johanson disease
+داءُ لاري فايل	Larrey-Weil disease (leptospiral jaundice)
+داءُ لاسيغ	Lasegue's disease (persecution mania)
+داءُ لافورا	Lafora's disease (myoclonic epilepsy)
+داءُ لاندري	Landry's disease (acute febrile polyneuritis)
+داءُ لاندوزي	Landouzy's disease (leptospiral jaundice)
+داءُ لانسرو-ماتيو	Lancereaux-Mathieu disease (leptospiral jaundice)
+داءُ لانغدون-داون	Langdon-Down's disease (trisomy 21)
+داءُ لاوبر	Lauber's disease (fundus albipunctatus)
+داءُ لايدن	Leyden's disease (periodic vomiting)
+داءُ لاينَ	Leiner's disease (erythroderma desquamativum)
+داءُ لُبِّ العَضَلاَتِ المَرْكَزِيّ	central core disease of muscle
+داءُ لِحاءِ القَيقَب	maple bark disease
+داءُ لو	Lowe's disease (oculocerebrorenal syndrome)
+داءُ لُوبشتاين	Lobstein's disease (osteogenesis imperfecta)
+داءُ لوبو	Lobo's disease (keloidal blastomycosis)
+داءُ لوتس-سبِلندُوري-ألميدا	Lutz-Splendore-Almeida disease (South American blastomycosis)
+داءُ لوتيمباشر	Lutembacher's disease
+داءُ لوران	Lorain's disease (hypophyseal infantilism)
+داءُ لوريش	Leriche's disease (post traumatic osteoporosis)
+داءُ لوفت	Luft's disease (hypermetabolic disorder of muscles)
+داءُ لونيغر	Lenegre's disease (acquired complete heart block)
+داءُ لِيبشوتس	Lipschutz's disease (ulcus vulvae acutum)
+داءُ ليبمان-ساكس	Libman-Sacks disease (atypical verrucous endocarditis)
+داءُ لِيترَر-سِيوه	Latterer-Siwe disease (nonlipid reticuloendotheliosis)
+داءُ ليتل	Little's disease (congenital spastic stiffness of the limbs)
+داءُ ليختهايم	Lichtheim's disease (subacute combined degeneration of the spinal cord)
+داءُ ليغ	Legg's disease (osteochondrosis of femur capitular epiphysis)
+داءُ ليغ-كالفه	Legg-Calvé disease (osteochondrosis of femur capitular epiphysis)
+داءُ ليغ-كالفه-بيرث	Legg-Calvé-Perthes disease (osteochondrosis of femur capitular epiphysis)
+داءُ ليغ-كالفه-والدنستروم	Legg-Calvé-Waldenstrom disease (osteochondrosis of femur capitular epiphysis)
+داءُ ليغال	Legal's disease (pharyngotympanic cephalalgia)
+داءُ ليف	Lev's disease (acquired complete heart block)
+داءُ ليفاندوفسكي-لُوتس	Lewandowsky-Lutz disease (epidermodysplasia verruciformis)
+داءُ لين	Lain's disease
+داءُ لين	Lane's disease (chronic intestinal stasis)
+داءُ لينداو	Lindau's disease (von Hippl-Lindau disease)
+داءُ لينداو-فون هيبل	Lindau-Von Hippel disease
+داءُ لِينْياك	Lignac's disease (Fanconi's syndrome)
+داءُ ماتيو	Mathieu's disease (leptospiral jaundice)
+داءُ ماجِيتو	Magitot's disease (osteoperiostitis of teeth alveoli)
+داءُ ماربُورغ	Marburg disease
+داءُ مارتش	March's disease
+داءُ مارتين	Martin's disease (periosteoarthritis of the foot)
+داءُ مارش	Marsh's disease (Graves disease)
+داءُ مارشيافافا-بينيامي	Marchiafava-Bignami disease (progressive degeneration of corpus callosum)
+داءُ مارشِيافافا-ميكِيلي	Marchiafava-Micheli disease (paroxysmal nocturnal hemoglobinuria)
+داءُ ماري-بَامبِيرغر	Marie-Bamberger disease (hypertrophic pulmonary osteoarthropathy)
+داءُ ماري-توث	Marie-Tooth disease (progressive neuropathic muscular atrophy)
+داءُ ماري-شترومبِل	Marie-Strumpell disease (rheumatoid spondylitis)
+داءُ ماريون	Marion's disease (congenital obstruction of posterior urethra)
+داءُ ماك آردل	McArdle's disease (glycogen storage type V disease)
+داءُ ماك لين-ماكسويل	MacLean-Maxwell disease
+داءُ ماكنزي	Mackenzie's disease (hyperkeratosis)
+داءُ مالاسِّيهْ	Malassez's disease (cyst of the testis)
+داءُ مالِيبو	Malibu disease (surfer's nodules)
+داءُ مانسُون	Manson's disease (intestinal schistosomiasis)
+داءُ ماهَر	Maher's disease (paracolpitis)
+داءُ مايَر	Meyer's disease (adenoid vegetations of pharynx)
+داءُ مايَر-بتس	Meyer-Betz disease (paroxysmal myoglobinuria)
+داءُ مايشر	Miescher's disease (elastosis perforans serpiginosa)
+داءُ مايوكي	Majocchi's disease (purpura annularis telangiectodes)
+داءٌ مَتْنِيّ	parenchymatous disease
+داءٌ مِثْلِيّ	allogeneic disease (homologous disease)
+داءٌ مَجْهُوْلُ السَّبَب	idiopathic disease
+داءٌ مُرْتَبِطٌ بالصِّبْغِيِّ X	X-linked disease
+داءُ مَريئِيَّاتِ الفَم	esophagostomiasis
+داءٌ مُزيلٌ للمَيالين	demyelinating disease
+داءٌ مُسِدّ	occlusive disease
+داءٌ مُضَخِّمٌ للخَلايا الاشْتِمالِيَّة	cytomegalic inclusion disease
+داءُ مَفْصِلِ الوَرِك	hip-joint disease (tuberculosis of hip joint)
+داءٌ مَفْصِلِيٌّ تَنَكُّسِيّ	degenerative joint disease
+داءٌ مُقَيِّد	restrictive disease
+داءٌ مَلاَرِيّ	miasmatic disease (malarial disease)
+داءٌ مُنْتَشِر	diffuse disease
+دَاءٌ مَنْقُوْلٌ جِنْسِيَّاً	malum venereum (syphilis)
+داءٌ مَنْقولٌ جِنْسِيَّا	sexually transmitted disease
+داءُ مُوخا	Mucha's disease
+داءُ مُوخا-هيبرمان	Mucha-Habermann disease (pityriasis lichenoides et varioliformis acuta)
+داءُ مورادو	mal morado
+داءُ مورتون	Morton's disease (metatarsalgia)
+داءُ مورْغاني	Morgagni's disease (hyperostosis frontalis interna)
+داءُ مُورفان	Morvan's disease (syringomyelia with painless ulceration)
+داءُ موركيو	Morquio's disease
+داءُ موركِيو-أولرِيخ	Morquio- Ullrich disease
+داءُ مورِيل-كريبِلين	Morel-Kraepelin disease (schizophrenia)
+داءُ مُوزَر	Mozer's disease (myelosclerosis in adults)
+داءُ موسكُوفِيتش	Moschcowitz's disease (thrombotic thrombocytopenic purpura)
+داءُ مولتِن	Molten's disease (Pictou's disease)
+داءُ مُونج	Monge's disease (chronic mountain sickness)
+داءُ مونخمايَر	Munchmeyer's disease (diffuse progressive ossifying polymyositis)
+داءُ موندُور	Mondor's disease (large subcutaneous phlebitis)
+داءُ مونيِيه-كون	Maunier-Kuhn disease (cutis laxa)
+داءُ ميبيوس	Mobius' disease (periodic migraine with oculomotor paralysis)
+داءُ ميتشيل	Mitchell's disease (erythromelalgia)
+داءُ ميج	Meige's disease (Milroy's disease)
+داءُ مِيدِين	Medin's disease (poliomyelitis)
+داءُ ميرتسباخَر-بِيلِيتساوُس	Merzbacher-Pelizaeus disease (familial centrolobar sclerosis)
+داءُ مِيكُولِيتش	Mikulicz's disease
+داءُ مِيلَر	Miller's disease (osteomalacia)
+داءُ ميلَّر-بارلو	Moeller-Barlow disease (subperiosteal hematoma)
+داءُ ميلروي	Milroy's disease (congenital hereditary legs lymphedema)
+داءُ مِيلز	Mill's disease (ascending hemiplegia)
+داءُ مِيلِيدا	Meleda disease
+داءُ ميناماتا	Minamata disease
+داءُ مينكيس	Menkes' disease
+داءُ مينور	Minor's disease (hematomyelia of central spinal cord)
+داءُ مينيتِرييه	Menetrier's disease (giant hypertrophic gastritis)
+داءُ مِينيير	Meniere's disease (endolymphic hydrops)
+داءُ نارونيان	naronian disease
+داءُ نازِعَةِ هيدْرُوجينِ الغلُوكُوزِ-6-	glucose-6-phosphate dehydrogenase disease
+داءُ نانوكيامي	nanukayami disease (leptospirosis)
+داءُ نَباتِ الشَّيخَة	senecio disease
+داءٌ نَزْفِيّ	hemorrhagic disease
+داءٌ نَزْفِيٌّ وَبائِيّ	epidemic hemorrhagic disease
+داءٌ نَزْفِيٌّ وَليدِيّ	hemorrhagic disease of the newborn
+داءُ نَغَفِ الجُروح	wound myiasis
+داءٌ نَفْسِيٌّ جَسَدِيّ	psychosomatic disease
+داءُ نورداو	Nordau's disease (degeneracy)
+داءُ نوري	Norrie's disease (atrophia bulborum hereditaria)
+داءُ نِيدوكو	Nidoko disease (epidemic hemorrhagic fever)
+داءُ نَيرُوبِي	Nairobi disease
+داءُ نيكولا وفافر	maladie de Nicolas et Favre (lymphogranuloma venereum)
+داءُ نيكولا-فافر	Nicolas-Favre disease (lymphogranuloma venereum)
+داءُ نِيمان	Niemann's disease (lipid histo cytosis)
+داءُ نيمان بِيك	Niemann Pick disease
+داء نيوكاسِل	Newcastle disease
+داءُ هاتِينِيل	Hutinel's disease (tuberculous pericarditis)
+داءُ هارادا	Harada's disease
+داءُ هارتناب	Hartnup disease
+داءُ هارتنَب	H disease (Hartnup disease)
+داءُ هاشِيموتو	Hashimoto's disease (struma lymphomatosa)
+داءُ هاغلوند	Haglund's disease (bursitis around Achilles tendon)
+داءُ هاغْنر	Hagner's disease
+داءُ هافْ	bay sickness (Haff disease)
+داءُ هاف	Haff disease
+داءُ هالرفُوردِن-سباتْز	Hallervorden-Spatz disease
+داءُ هامان	Hamman's disease (interstitial emphysema of the lung)
+داءُ هامُوند	Hammond's disease (athetosis)
+داءُ هاند	Hand's disease (chronic idiopathic histocytosis)
+داءُ هاند-شولَر-كريستيان	Hand-Schuller-Christian disease (chronic idiopathic histiocytosis)
+داءُ هانسن	Hansen's disease (leprosy)
+داءُ هانسن الحَميد	benign Hansen's disease (tuberculoid leprosy)
+داءُ هانسن الخَبيث	malignant Hansen's disease (lepromatous leprosy)
+داءُ هانو	Hanot's disease (biliary cirrhosis)
+داءُ هاينَه-مِيدِين	Heine-Medin disease (major poliomyelitis)
+داءُ هَتشِنسُون-بِيك	Hutchinson-Boeck disease (sarcoidosis)
+داءُ هَتشِنسُون-غيلْفورد	Hutchinson-Gilford disease (progeria)
+داءُ هَنت	Hunt's disease (dyssynergia cerebellaris myoclonica)
+داءُ هَنْتِنْغتُون	Huntington's disease
+داءُ هِندرسن-جُونس	Henderson-Jones disease (osteochondromatosis)
+داءُ هُنرمان	Hunermann's disease (dysplasia epiphysealis punctata)
+داءُ هُوبنر	Heubner's disease (syphilitic cerebral endarteritis)
+داءُ هُودجسُون	Hodgson's disease
+داءُ هُودجكين	Hodgkin's disease
+داءُ هُورتُون	Horton's disease (migrainous neuralgia)
+داءُ هُوشارد	Huchard's disease (continued arterial hypertension)
+داءُ هُوفا	Hoffa's disease (traumatic fatty tissue proliferation)
+داءُ هوِيبل	Whipple's disease
+داءُ هويت	Whytt's disease (tuberculous meningitis)
+داءُ هويتمور	Whitmore's disease (melioidosis)
+داءُ هيبَرمان	Habermann's disease (pityriasis lichenoides et varioliformis acuta)
+داءُ هِيبل	Hippel's disease
+داءُ هِيبل لِينداو	Hippel-Lindau disease
+داءُ هيبيردين	Heberden's disease (small joint nodular rheumatism)
+داءُ هيرتر	Herter's disease (infantile nontropical sprue)
+داءُ هيرتر-هُوبنر	Herter- Heubner disease (infantile nontropical sprue)
+داءُ هِيرس	Hers'disease (glycogen storage disease type VI)
+داءُ هيرشسبُرونْغ	Hirschsprung's disease (congenital megacolon)
+داءُ هِيرشفيلد	Hirschfeldi1's disease (acute diabetes mellitus)
+داءُ هِيرفورد	Heerfordt's disease (uveoparotid fever)
+داءُ هِيرلر	Hurler's disease
+داءُ هيس	His' disease (trench fever)
+داءُ هِيس-فِيرنر	His-Werner disease (trench fever)
+داءُ هِيلدربراند	Hildernbrand's disease (typhus)
+داءُ هِيلر-دُول	Heller - Dohle disease (syphilitic aortitis)
+داءُ هِيلي-هِيلي	Hailey-Hailey disease (benign familial pemphigus)
+داءٌ هيمُوغلُوبينِيّ	hemoglobin disease
+داءٌ واجِبُ التَّبْليغِ	notifiable disease
+داءُ وادي سان خواكِين	San Joaquin Valley disease (coccidioidomycosis)
+داءُ وادي ميرِيْ	Murray Valley disease (Murray Valley encephalitis)
+داءُ واسيليف	Wassilieff's disease (leptospiral jaundice)
+داءٌ واغِل	intercurrent disease
+داءُ والدنستروم	Waldenstrom's disease (femoral epiphysis osteochondrosis)
+داءُ وَحْلِ الأَسْماك	fish-slime disease
+داءٌ وِعائِيٌّ بفَرْطِ ضَغْطِ الدَّم	hypertensive vascular disease
+داءُ وِلادَةِ الخَرُوْف	lambing sickness
+داءُ وُولمان	Wolman's disease (primary familial xanthomatosis)
+داءُ وِيبر	Weber's disease
+داءُ وِيبر كريسشان	Weber-Christian disease (nodular nonsuppurative panniculitis)
+داءُ وِيبر-دِيمتري	Weber-Dimitri disease
+داءُ ويتكوب-فون سالْمان	Witkop-Von Sallmann disease (hereditary benign intraepithelial dyskeratosis)
+داءُ وِيستفال شتُرومبِل	Westphal-Strumpell disease (hepatolenticular degeneration)
+داءُ ويلسون	Wilson's disease (hepatolenticular degeneration)
+داءُ ويلكين	Wilkin's disease (congenital adrenocortical hyperplasia)
+داءُ وِيلِيس	Willis' disease (diabetes mellitus)
+داءُ وِينكِلر	Winckeler's disease (chondrodermatitis nodularis chronica helicis)
+داءُ ياكْش	Jaksch's disease (anemia pseudoleukemica infantum)
+داءُ ياكوب	Jakob's disease
+داءُ ياكوب-كروتزفِيلد	Jakob-Creutzefeldt disease
+داءُ يانسِن	Jansen's disease (metaphyseal dysostosis)
+داءُ ينْسن	Jensen's disease (retinochoroiditis juxtapapillaris)
+داءُ يُونغلِينْغ	Jungling's disease (sarcoidosis)
+داءُكونور وبروخ	Conor and Bruch's disease (boutonneuse fever)
+داءلايم	Lyme disease
+دابسُون	dapsone
+دَاخِليُّ الاِلتِواء	introrse
+دارَ	swivel
+دارةُ إِمساك	holding circuit
+دَاعِيَةُ الاسْتِعْمالِ المَرَضِيَّة	indicatio morbi
+داغِل	intercurrent
+دافِئ	warm
+دافَع عن	defend
+داكارْبازِين	dacarbazine
+داكْتينُوميسين	dactinomycin
+دالِيَة	varix [pl.varices]
+دانتُرولِين	dantrolene
+داونُورُوبِيسِين	daunorubicin
+داونُوميسِين	daunomycin
+دَبْلٌ خَنازيرِيّ	strumous bubo (lymphogranuloma venereum)
+دَبْلٌ زُهْرِيٌّ	syphilitic bubo
+دَبْلٌ مَدارِيّ	tropical bubo (lymphogranuloma venereum)
+دَبْلٌ مُناخِيّ	climatic bubo (lymphogranuloma venereum)
+دُبَيلَةُ الالْتِهابِ الرِّئَوِيّ	synpneumonic empyema
+دُبَيلَةٌ مَفْصِلِيَّة	empyema articuli (acute suppurative synovitis)
+دُجّ الغابات	wood thrush
+دَخَس	curb
+دُراق	goiter
+دُرَاق	goiter; goitre
+دُراق	goitre (goiter)
+دُراق	goitre = goiter
+دُراق	thyroncus (goiter)
+دُراقُ المُراهِقين	adolescent goiter
+دُراقُ بَازْدُوف	Basedow's goiter
+دُرَاق برانشيمي	goiter, parenchymatous = follicular goiter
+دُرَاق بسيط	goiter, simple
+دُراقٌ بَسيط	simple goiter
+دُرَاق تحت القص	goiter, substernal (retrosternal goiter)
+دُراقٌ تَحْتَ القَصّ	substernal goiter
+دُراقٌ جُحوظِيّ	exophthalmic goiter
+دُراقٌ جُحوظِيّ	exophthalmic goitre
+دُرَاق جحوظي	goiter, exophthalmic
+دُراقٌ جُرَيبِيّ	follicular goiter
+دُرَاق جريبي	goiter, follicular parenchymatous
+دُراقٌ خانِق	suffocative goiter
+دُراقٌ خَبيث	malignant goiter
+دُراقٌ خَلْفَ الأَوعِيَة	retrovascular goiter
+دُراقٌ خِلْقِيّ	congenital goiter
+دُرَاق خلقي	goiter, congenital
+دُرَاق داخل الصدر	goiter, intrathoracic
+دُراقٌ داخِلَ الصَّدْر	intrathoracic goiter
+دُراقٌ زائِغ	aberrant goiter
+دُرَاق سام	goiter, toxic = Graves' disease
+دُراقٌ سامّ	toxic goiter
+دُراقٌ صَدْرِيّ	thoracic goiter
+دُراقٌ عائِليّ	familial goiter
+دُراقٌ عَديدُ العُقَيدات	multinodular goiter
+دُرَاق عقدي	goiter, nodular
+دُراقٌ عُقَيدِيّ	nodular goiter
+دُراقٌ عِلاَجِيُّ المَنْشَأ	iatrogenic goiter
+دُراقٌ غاطِس	diving goiter
+دُراقٌ غاطِس	plunging goiter
+دُراقٌ غُدَّانِيٌّ لِمْفِيّ	lymphadenoid goiter
+دُرَاق غدّي	goiter, adenomatous
+دُراقٌ غَرَوانِيّ	colloid goiter
+دُرَاق غروي	goiter, colloid
+دُراقٌ كيسِيّ	cystic goiter
+دُرَاق كيسي	goiter, cystic
+دُراقٌ لاسُمِّيّ	nontoxic goiter
+دُرَاق لساني	goiter, lingual
+دُراقٌ لِسانِيّ	lingual goiter
+دُراقٌ لِسانِيّ	lingual goitre
+دُراقٌ لِيفِيّ	fibrous goiter
+دُراقٌ مُتَجَوِّل	wandering goiter
+دُراقٌ مَتْنِيّ	parenchymatous goiter
+دُراقٌ مُتَوَطِّن	endemic goiter
+دُرَاق متوطن	goiter, endemic
+دُراقٌ مُحِيْطٌ بالأََوْعِيَة	perivascular goiter
+دُرَاق منتبذ	goiter, aberrant
+دُراقٌ مُنْتَشِر	diffuse goiter
+دُرَاق منتشر	goiter, diffuse
+دُراقٌ نَشْوانِيّ	amyloid goiter
+دُراقٌ وَذَمِيٌّ مُخاطِيّ	myxedematous goiter
+دُراقٌ وَرَمِيٌّ غُدِّيّ	adenomatous goiter
+دُراقٌ وِعائِيّ	vascular goiter
+دُراقٌ يودِيّ	iodide goiter
+دَرَجَةُ الالتِهاب	flame point
+درجة الانتفاخ	swelling degree
+دَرجةُ الحَرارة	temperature
+درَجة الحَسَّاسيَّة	degree of sensitiveness
+درنات جذرية	root tubercles
+دَرنات شُعاعية	septaria
+دَرَناتُ فار	Farre's tubercles
+دَرَناتٌ كَلَبِيَّة	rabic tubercles
+دَرَناتٌ لِسَانِيَّةٌ وَحْشِيَّةٌ	lateral lingual tubercles
+دَرَناتٌ نَخْرِيَّة	necrogenic tubercles
+دُروبِيرِيدُول	droperidol
+درُوسِينونِيد	drocinonide
+دِرْياقُ فانْتُوس	Fantus's antidote
+دِرْياقُ هول	Hall antidote
+دِفاعٌ جُنونِيّ	insanity defense
+دفتريا الْعُجول	calf diphtheria
+دِقَّة أو حَسّاسِيَّةُ الميزان	accuracy of a balance
+دِلاءٌ	buckets, rotary
+دُمَّل	furuncle
+دُمَّلٌ مُقْفَل	blind boil (abscess)
+دَميوم	hematoma; haematoma
+دَنَفُ التَّسَمُّمِ الرَّصاصِي	saturnine cachexia
+دَنَفُ التَّسَمُّمِ الزِّئْبَقِي	cachexia mercurialis
+دَنَفٌ جُحُوظِيّ	cachexia exophthalmica (Grave's disease)
+دَنَفٌ دُرَقِيّ	thyroid cachexia (Graves' disease)
+دَنَفٌ كُظْري	cachexia suprarenalis (Addison's disease)
+دَنَفٌ لِمْفِيّ	lymphatic cachexia (pseudoleukemia)
+دِهانُ بِطانَة	flatting
+دَوَاءٌ شامِل	holagogue (panacea)
+دَواءٌ مُضادٌّ للهَوَس	antimanic drug
+دُوارُ	car sickness
+دُوَارٌ	dizziness
+دُوار	giddiness
+دوَّار	rotating
+دُوَار	vertigo
+دُوارٌ أُذُنِيّ	aural vertigo (Menier's disease)
+دُوارٌ أُذُنِيُّ المَنْشأ	vertigo ab aure laeso (Meniere's disease)
+دُوار ارتعاشي	flicker vertigo
+دُوارٌ أُفُقِيّ	horizontal vertigo
+دُوارُ الاِعْتِلالِ الوِعائِيّ	angiopathic vertigo
+دُوارُ البَحر	sea-sickness
+دُوار التروت	gids of trout
+دُوارُ التَّصَلُّب الوِعائِيّ	arteriosclerotic vertigo
+دُوار الجَوّ	air-sickness
+دُوارُ الحَرَكة	motion sickness
+دُوار الحركة: دُوارٌ يصيب بعضَ المسافرين	motion sickness
+دُوارُ الحَواسِّ الخاصَّة	special sense vertigo
+دُوارُ السَّائِقين	rider's vertigo (motion sikness)
+دُوار السَّفَر	travel sickness
+دُوارُ الطِّيَّارين	pilots' vertigo
+دُوارُ العُتْمَةِ البَصَرِيَّة	tenebric vertigo (scotodinia)
+دُوارُ المُرْتَفَعَات	height vertigo
+دُوارُ الوَضْعَة	positional vertigo
+دُوارُ الوَضْعَة	postural vertigo
+دُوارُ الوَضْعَة الاِنْتِيابِيُّ الحَمِيْد	benign paroxysmal positional vertigo (or postural vertigo)
+دُوارُ الوَهَنِ العَصَبِيّ	neurasthenic vertigo
+دُوارٌ أَوَّلِيّ	primary vertigo
+دُوارٌ بتَغَيُّرِ الضَّغْط	alternobaric vertigo
+دُوارٌ تالٍ للرَّضْح	post-traumatic vertigo
+دُوارٌ تَجانُبِيّ	lateral vertigo
+دُوارٌ تَدْوِيْرِيّ	rotary vertigo (rotatory vertigo)
+دُوارٌ تَدْوِيْرِيّ	rotatory vertigo
+دُوارٌ تَسَمُّمِيّ	toxemic vertigo (toxic vertigo)
+دُوارٌ تَسَمُّمِيّ	toxic vertigo
+دُوارُ تَغَيُّرُ الضَّغْط	pressure vertigo
+دُوارٌ تَوَهانِيّ	disorientation vertigo
+دُوارٌ تيهِيّ	labyrinthine vertigo
+دُوارٌ حَرَكِيٌّ كاذِب	sham-movement vertigo
+دُوارٌ حَنْجَرِيّ	laryngeal vertigo (tussive syncope)
+دُوارٌ دِماغِيّ	encephalic vertigo
+دُوارٌ دِهْليزِيّ	vestibular vertigo
+دُوارٌ زُغَابِيّ	villous vertigo
+دُوارٌ سَكْتِيّ	apoplectic vertigo (scotodinia)
+دُوارٌ سَمْعِيُّ المَنْشَأ	auditory vertigo (Meniere's disease)
+دُوارٌ شَخْصانِيّ	subjective vertigo
+دُوارٌ شَخْصانِيّ	systematic vertigo (subjective vertigo)
+دُوارٌ شَلَلِيٌّ مُتَوَطِّن	endemic paralytic vertigo
+دُوارٌ صَرْعِيّ	epileptic vertigo
+دُوارٌ عُضْوِيّ	organic vertigo
+دُوارٌ عَمودِيّ	vertical vertigo
+دُوارٌ عَينِيّ	ocular vertigo
+دُوارٌ غَلَفانِيّ	galvanic vertigo
+دُوارٌ فولطائي	voltaic vertigo
+دُوارٌ قَلْبِيّ	cardiac vertigo
+دُوارٌ قَلْبِيٌّ وِعائِيّ	cardiovasculr vertigo
+دُوارٌ لَيلِيّ	nocturnal vertigo
+دُوارٌ مَجْهُولُ السَّبَب	essential vertigo
+دُوارٌ مُحيطِيّ	peripheral vertigo
+دُوارٌ مُخِّيّ	cerebral vertigo
+دُوارٌ مَرْكَزِيّ	central vertigo
+دُوارٌ مُشِلّ	paralyzing vertigo
+دُوَارٌ مُظْلِم	scotodinia (apopletic vertigo)
+دُوارٌ مَعِدِيّ	stomachal vertigo
+دُوارٌ مَعِدِيُّ المَنْشَأ	gastric vertigo
+دُوارٌ مَعِدِيُّ المَنْشَأ	vertigo ab stomacho laeso
+دُوارٌ مَوضوعِيّ	objective vertigo
+دُوارٌ ميكانيكيّ	mechanical vertigo
+دُوارٌ هِسْتيرِيّ	hysterical vertigo
+دُوارٌ وَبائِيّ	epidemic vertigo
+دُوَّارات	vortices [sing.vortex]
+دَوَّارَة	rotifer
+دَوَّارة	tourniquet
+دوارة	vane
+دوارة	verticil
+دُوَّارة	vortex NA [pl.vortices]
+دُوَّارَة	whorl (vortex)
+دَوّارة «بارلو» النجميَّة	Barlow’s wheel
+دَوّارةُ الرِّيح	girouette
+دَوّارةُ الرِّيح	vane
+دَوَّارةُ الرِّيح	vane, wind
+دَوَّارة الريح	weather vane
+دَوَّارةُ الريحِ	weathercock
+دوّارة الريح	weathervane; wind vane
+دَوَّارة الرِّيح	wind vane
+دُوَّارَةُ العَدَسَة	lens whorl
+دُوَّارَةُ العَدَسَة	vortex lentis
+دُوَّارَةُ العُصْعُص	coccygeal vortex (vortex coccygeus)
+دُوَّارَةُ العُصْعُص	coccygeal whorl
+دُوَّارَةُ العُصْعُص	vortex coccygeus
+دُوَّارَةُ القَلْب	vortex cordis NA (vortex of heart)
+دُوَّارَةُ القَلْب	vortex of heart
+دوّارة تائية	tee
+دوارة تدار بمحرك	motorized roller; motor-driven roller
+دَوَّارَة تَكسِيرٍ غَلِيظ	coarse roll
+دُوَّارَةٌ عَظْمِيَّة	bone whorl (enostosis)
+دُوَّارَةُ فلايشر	Fleischer's vortex (cornea verticillata)
+دوارة كهربائية	electric whirl
+دَوالٍ حُلَيمِيَّة	papillary varices
+دَوَالٍ لِسَانِيَّة	lingual varicosities
+دَوالِي	phlebectasia (varicosity)
+دَوالِي	phlebectasis
+دَوالِي	varices [sing.varix]
+دَوالِيّ	varicose
+دَوالِيّ	varicosity
+دوالي الحبل المنوي	cirsocele = varicocele
+دَوالي الحبل المَنَويّ	varicocele
+دَوالِي الحَنْجَرَة	phlebectasia laryngis
+دَوالِي السُّرَّة	cirsomphalos
+دَوالِيُّ الشَّكْل	variciform
+دَوالِيُّ الشَّكْل	varicoid
+دَوالِي العُقَدِ اللِّمْفِيَّة	adenovarix (lymphadenovarix)
+دَوالِي العُقْدَةِ اللِّمْفِيَّة	lymphadenovarix
+دَوالِي المُلْتَحِمَة	cirsophthalmia
+دَوالِي المُلْتَحِمَة	varicula
+دَوالِيُّ المَنْشَأ	variceal
+دَوالِي أَوعِيَةِ اللِّسان	varicosities of lingual vessels
+دَوالِي خَيطِيَّة	filovaricosis
+دُوام	giddiness (dizziness)
+دَوْخَة	dizziness
+دوخة - دُوار	giddiness = dizziness
+دُوْخَةٌ تدويريَّةٌ	gyrosa
+دَودَةُ العَمَى	blinding worm (Onchocerca)
+دَورُ الالْتِواء	strepsitene
+دَورُ الحَضانَة	incubation period
+دَورُ السُّخُوْنَة	hot stage (pyrogenic stage)
+دَورُ الشِّفَاء	decubation
+دَورُ الوَهِيْج	stage of fervescence (pyrogenic stage)
+دَورة ثُنائيةُ الشَّوط	two-stroke cycle
+دورة ثنائية الشوط	two-stroke process
+دورةٌ رُباعيَّةُ الأشواط	cycle, four-stroke
+دَورةٌ رُباعيَّةُ الأَشواط	four-stroke cycle
+دُومْبِيرِيدُون	domperidone
+دُوَيبَة	vermin
+دُوَيْنَ السَّريرِيّ	subclinical
+ديبيرون	dipyrone
+دِيزُونِيد	desonide
+ديفتالُون	diftalone
+دِيفِيلين	dyphylline
+ديفيمانيل	diphemanil
+ديفينيدول	diphenidol
+دِيكستُرومِيتورفان	dextromethorphan
+دِيكلُوفِيناك	diclofenac
+دِيلتِيازِيم	diltiazem
+ديمينهيدرينات	dimenhydrinate

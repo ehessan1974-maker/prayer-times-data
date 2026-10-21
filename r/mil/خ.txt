@@ -1,0 +1,307 @@
+خائـن	traitor
+خارقة للدروع	armor-piercing
+خاصّ	private
+خامُ الرَّصاص الأصفر	yellow lead ore = wulfenite
+خانق تحت البحر	canyon (submarine ...)
+خانق تحت البحر	canyon (submarine canyon)
+خانق صهريج التَمَوُّر	surge tank throttle
+خَبْطَة مُفاجِئة	coup
+خَبِيء	crypt
+خَبِيئَةٌ سِنِّيَّة	dental crypt
+ختم صمام الخزان	Tank Valve Seal
+خدمات توفير إمدادات	provisioning services
+خدمات لوجستيكية عكسية	reverse logistics
+خدمات لوجستية	Common Logistics Services
+خدمات لوجستية عالمية	Global Logistics
+خدمات لوجستية متكاملة	Integrated Logistics
+خدمات لوحستية حضرية	city logistics
+خِدمة عسكريَّة	active service
+خدمة عسكرية	military service
+خِدْمة فِعليَّة	list, active
+خراطيش مقطورة تتبادل فيما بينها	interchangeable train cartridges
+خردق	shot
+خُرْدُقُ الرصاص	lead shot
+خَرسانَة مُسَلَّحة	armoured concrete
+خرطوشة	cartridge
+خرطوشة	cartridge; packet
+خرطوشة أخذ العيّنات	sample taker bullet
+خَرطُوشَةُ إشارة	signal cartridge
+خُرْطُوْشَةُ أَقْرَاص	cartridge disk
+خُرطوشة أقراص	disk cartridge
+خرطوشة الحُبيبات	granular material cartridges
+خرطوشة الطوارئ	emergency cartridge
+خَرطوشَةُ الفيلم	film cartridge
+خرطوشة اللاقط	pick-up cartridge
+خرطوشة المجفف	dryer cartridge (AC)
+خرطوشة المرشح	filter cartridge
+خرطوشة ألومينيوم لقطع الأنابيب في آبار	oil aluminium cartridge cutter
+خرطوشة ألومينيوم لقطع الأنابيب في آبار	oil well cartridge cutter aluminum
+خرطوشة بلّوريّة	crystal cartridge
+خرطوشة تخزن في درجة الحرارة العادية	normal temperature cartridge
+خرطوشة تستخدم مرة واحدة	single-use cartridge
+خَرطُوشَةُ تَفجير	priming cartridge
+خرطوشة خزفية	ceramic cartridge
+خَرطُوشة خُلَّبيَّة	blank cartridge
+خُرطوشةٌ خُلَّبيَّة	cartridge, blank
+خَرطوشةٌ سائليَّة	hydraulic cartridge
+خرطوشة عادية مقاس 4 بوصة للاستعمال في	oil well cartridge 4' standard
+خَرطوشة فارِغة	spent cartridge
+خرطوشة قذف القنبلة	bomb ejection cartridge
+خرطوشة مادة اللصق	glue cartridge
+خرطوشة محول إشارة	transducer cartridge
+خَرطوشة مُحيطيةُ الشَّعِيلة	rim-fire cartridge
+خرطوشة معطيات	data cartridge
+خرطوشة نفاثة مقاس 4 بوصة للاستعمال في	oil well cartridge 4' crackjet
+خرطوشة وعاء الاعتيان	sample taker cartridge
+خرطوم مدرّع	armoured hose
+خريطة قتال	combat chart
+خَزّان	auxiliary tank
+خزان	container / tank
+خَزَّانٌ	emergency tank
+خزّان	tank
+خَزّانٌ احتياطي	reserve tank
+خَزّانُ إرسابِ النُّفايات	detritus tank
+خَزّانُ استِقبال	receiving tank
+خزان إسقاط	drop tank
+خزان الأفكار	think tank
+خزان البارجة	battleship tank
+خَزّان التّجميع	accumulator tank
+خَزّانُ الترسيب	sedimentation tank
+خَزّان التّصفيق	decantation tank
+خَزّانُ التَّغذية	feed tank
+خَزّانُ التغذيةِ الضغطية	pressure feed tank
+خَزّان التفريغ الإسقاطي	blow-down tank
+خَزّانُ التفريغِ السَّريع	blower down tank
+خزان التمدد	expansion tank
+خزان الجرّ	towing tank
+خزان الخدمة	service tank
+خزان الذخيرة	ammunition tank
+خَزَّانُ الزِّئبق	mercury tank
+خَزّانُ الزيت	oil-storage tank
+خَزّانُ الزيت الخام	crude oil storage tank
+خزان السحب	suction tank
+خَزَّان الصَّابُورة	ballast tank
+خزَّانُ الصرف الصِّحِّي	septic tank
+خزان الضغط الخوائي	vacuum tank
+خزّان الطوارئ	emergency tank
+خَزَّان العمل اليومي	day tank
+خَزَّان الغاز	gas tank
+خزان الغاز	Gas Tank
+خزّان الغاز الحيوي	biogas storage biogas store biogas storage tank
+خزان الغاز المسال	liquefied gas tank
+خزّان إلكتروليتي	electrolytic tank electrolyte tank
+خَزّان المُحَوِّل	transformer tank
+خزّان المخدّة	pillow tank
+خزان المهدىء	moderator tank
+خَزّان المياه المُلوّثة إشعاعياً	delay tank; decay tank
+خَزّانُ النزح	bailing tank
+خَزّان النضج	holding tank
+خزان النموذج	model tank
+خزان الهيدروجين	Hydrogen Fuel Tank
+خزان الوقود	fuel tank
+خزان الوقود - الهيدروجين	Fuel Tank - Hydrogen
+خَزّانٌ أو صِهريجٌ نَقّالِيّ	skid tank
+خزان بالوني	balloon tank
+خَزَّان بَطْنيّ	belly tank
+خزان بطني	ventral tank
+خَزّانٌ بَطْنِيّ	ventral tank = belly tank
+خَزّان تَبريد	cooling tank
+خَزّان تبريد	quench tank
+خزّان تجميع	collecting tank
+خَزّانُ تَجْميعِ الزيت	oil sump tank
+خَزّان تجميع مياه الصرف الصحي	collection tank for wastewater containing faecal matter
+خزان تحت سطح الأرض	underground tank
+خزان تحريك أو تقليب	shaker tank
+خَزّان ترسيب	settling tank.
+خَزّان ترسيب	solution tank
+خَزّان تَرْسيب الزيت	oil settling tank
+خزَّانُ تَرويق	clarifying tank
+خَزّان تعفُّن نافِذ	septic tank
+خَزّانُ تَعويض	compensating tank
+خزان تغذية بالثقَل	gravity tank
+خزان تغذية بالجاذبية	gravity tank
+خَزّانُ تَفْريغ	rundown tank
+خَزَّانُ تَفريغ	vacuum tank
+خَزَّان تَقطير	distilling tank
+خَزّان تِلقائيُّ الانسِداد	self-sealing tank
+خزان تمدد المبرد	coolant expansion tank
+خَزَّانُ تَمْوين	tender tank
+خزان تهوية	activated sludge tank (aeration tank)
+خَزّانُ تهوَية	aeration tank
+خَزَّانُ تَوْزيع	dosing tank
+خزان توصيل	ferry tank
+خَزّان خَرَسانيٌّ	concrete tank
+خَزَّان دِهَان يعمل بضغط الهواء	paint pressure receiver tank
+خزان ذاتي الانسداد	self-sealing tank
+خَزّانٌ ذو سقفٍ ثابت	fixed roof tank
+خَزّانٌ ذو سَقفٍ عائمٍ	floating-roof tank
+خزان رأس البطانة	casinghead tank
+خَزّانُ رَحْض	flushing tank
+خزان زيت	oil conservator; expansion tank
+خزان زيت التدفئة	fuel tank / fuel oil tank
+خزان سائل AdBlue	AdBlue tank
+خَزّانٌ سَقُوط	drop tank
+خَزّانٌ سَقُوط	droppable tank
+خَزّانٌ سَقُوط	slip tank = drop(pable) tank
+خَزّانٌ سَقُوط	tank, droppable
+خَزَّان شبه كروي	spheroid tank
+خزان شحن	cargo tank
+خَزّان شطف	flush tank
+خزّان صابورة	ballast tank
+خزان ضبط التغدية	feed adjustment tank
+خَزّان ضَخْم	bumper tank
+خزان ضد الارتطام	crashproof tank
+خزان ضغط	pressure tank; pressure reservoir
+خَزّانٌ ضَغْطيّ	pressure tank
+خزان طَرَفي	tip; tip tank; wingtip tank
+خزّان طُفُو	buoyancy tank
+خزان عائم	Floating Tank
+خَزَّان عائمُ السّطح	floating roof tank
+خزان علوي	elevated tank
+خَزّان عُلْوي	header tank
+خَزّان عَميق	deep tank
+خَزّان فَصْل	break tank
+خزّان قائم	upright storage tank
+خَزّانٌ قادوسيٌّ	hopper tank
+خَزّان قادوسيّ القاع	hopper-bottom tank
+خزان كسح	immersion tank
+خزان كلي	integral tank
+خزان كيسي	bag tank
+خَزَّانُ ماء	water tank
+خَزّان ماء عالٍ	elevated storage tank
+خزان مادة مانع الترسيب	antiscale tank
+خزان مارِنج	Mareng tank
+خَزَّان مُتَكامِل	integral tank
+خزان مَثاني	bladder tank
+خَزَّانٌ مَخروطيُّ السَّقف	cone-roof tank
+خزان مخروطي القاع	cone-bottom tank
+خزان مخروطي مغمور	dubai storage tank
+خَزّانٌ مَرفوع	elevated tank
+خزان مرن	bladder tank; fleXible tank
+خزان مساعد	auxiliary tank
+خَزّان مُستَقْبِل	receiver tank
+خزان مضاد للعطوف	antiroll tank
+خزان مضغوط	pressurized tank
+خَزّان مطمور	buried tank
+خزان معادلة الوقد الخاص	compensation fuel tank; reservoir
+خزان معالجة الزيت	Oil Treating Tank
+خَزّان مُغَلْڤن	galvanized tank
+خزان مقاومة العطوف	anti-rolling tank
+خَزَّانٌ مُقَعَّرُ القاع	dish-bottom tank
+خَزَّان مقياس السعة	gauge tank
+خزان منزلِق	slip tank
+خَزّان مُنْزَلِق	slipper tank
+خَزّان مُوازَنة	balancing / compensating / equalising / regulation reservoir or tank
+خزّان مياه الأمطار	tank, stormwater
+خَزّان مياهِ التغذية	feed-water tank
+خزان مياه الشرب	drinking water tank
+خَزّان مياه الشُرْب	potable water tank
+خزان مياه الشطف	flushing water tank
+خزان نفط	storage tank
+خَزَّان هَضْم	digester / digestion tank
+خَزّانُ وَقود	fuel tank
+خَزّاناتُ التغذيةِ الثَّقاليَّة	gravity-feed tanks
+خَزّاناتُ التغذيةِ بالثِّقَل	gravity tanks
+خزانات الجناح	wing tanks
+خزانات تعديل الموازَنة	trimming tanks
+خزانات ذات أسطح عائمة	Floating Roof Tanks
+خِزانة الذخيرة	ammunition chest
+خَزَبُ الحُروب	war dropsy (nutritional dropsy)
+خشب الأقلام	pencil wood
+خشب التعبئة	packing timber; packing wood
+خصائص القيادة	vehicle handling
+خُصْلَة التحدِّي: خُصلَةٌ طويلة يتركها	scalp lock
+خط التقسيم	partition line
+خط السلاح	weapon line; weapon/target line
+خط إلقاء القنابل	bomb release line
+خَطُّ إلقاءِ القَنابِل	bomb-release line
+خط القذف	bomb line
+خط أنابيب تحت الماء	submarine pipeline
+خَطُّ أنبوب خندقيّ	trench pipeline
+خط أنبوبة المدفع	gunbore line
+خَطّ دِفاعي	line, defence
+خط سقوط القنبلة	bomb fall line
+خطّ سيغفريد: خطّ دفاعيّ ألماني مواجِهٌ	Siegfried line
+خط فرعيّ حامل للرشاشات	sprinkler lateral
+خط قنابل تكتيكي	tactical bomb line
+خط ماجينو: خط من الحصون الدفاعيّة أُنشئ	Maginot line
+خطأ السلاح	armament error
+خَطَأ القصف	armament error
+خطة احتلال المسار	track occupation plan
+خطة الاتحاد الأوروبي الاستراتيجية	European Strategic Energy Technology Plan (SET Plan)
+خطة التواصل	Communication Strategy
+خُطَّة تَعْبَويَّة	tactical plan
+خطوط تحميل مغمورة	submarine loading lines
+خطوط نقل	flowlines (pipes from gathering centre to storage tank)
+خُفّ استطلاع	reconnaissance slipper
+خَلاَّتُ	lead acetate
+خلات الرصاص	lead acetate
+خُلاَصَةُ غولارد	Goulard's extract (lead subacetate solution)
+خَلَلُ الحَرَكَةِ المِهْنِيّ	occupational dyskinesia (occupation neurosis)
+خليط متفجر للاختبار	explosive test mixture
+خَلِيْطَةٌ غائِصَة	submarine alloy
+خَلِيَّةٌ خُوذِيَّة	helmet cell
+خلية رصاص حمضية	lead acid cell
+خُماسيّ: «أ» مؤلَّف من خمس مجموعات مقاتلة	pentomic
+خِنْجَر	dagger
+خِنْجَريّة مُزدوِجَة	double dagger
+خندق	ditch
+خَنَدق	ditch / pit
+خَنْدَق	sheugh
+خَنْدَق	trench
+خندق إبانة	setting ditch
+خَنْدَقٌ اِستِحكاميٌّ ضَيِّق	slit trench
+خندق اعتراض	interception ditch
+خَنْدَق أعماق البِحار	deep-sea trench
+خندق الأساس	foundation trench
+خَندَقُ التهوية	aeration trench
+خندقُ التهوية والتنشيط	activated sludge tank with circulating flow
+خندق أنبوب المَصْرِف	drain pipe trench
+خندق بالطين غير المُنفِذ	puddle trench
+خندق تشغيل	development drift
+خَندقُ تَصريفٍ مُعَبَّأٌ بالحِجارة	stone drain = rubble drain
+خندق جليدي	moat (glacial..)
+خندق حاجِز	dike drainage ditch
+خندق حدوديّ	boundary trench
+خندق حدي	border ditch
+خَنْدَق صرف	infiltration trench / swale
+خندق صيفيّ	summer dike
+خندق طيني	slurry-trench
+خندق قاطع	cut-off trench
+خندق ماء جوفيّ	groundwater trench
+خندق ماء حول مُنشأة ما	head race / lead race channel / race
+خندق مائي	river pool
+خندق مانع	cutoff trench
+خندق مُتعدِّد الغُرف	multi-compartment pit / multi-chamber cesspit
+خَنْدَقٌ مُتَعَرِّج	snake hole
+خندق محيطي	oceanic trench
+خندق مَصْرِفيّ	drain trench
+خندق مضاد للدبابات	antitank ditch
+خَنَدق مكشوف	ditch, open / drain, open / trench, open
+خندق يحيط بالجانب الداخلي لفوهة البركان	moat (volcanic)
+خَنْدَقَة	intrenchment
+خُوان الرَّمل: «أ» طاولة يعلوها رملٌ يلعب	sand table
+خوذة	galea
+خُوذَة	helmet
+خُوذَة	tin hat
+خُوذةُ الاِرتِطام	crash helmet
+خُوذَة الدق	driving helmet
+خوذة الضغط	pressure helmet
+خوذة الطيار	bonedome
+خُوذَةُ اللحّام	welder’s helmet
+خوذة الوتد	pile helmet
+خُوذةُ أمان	safety helmet
+خُوذةُ رأسِ الرَّكيزة	cushion head
+خوذة فولاذية	tin hat
+خوذة لومبارد	Lombard
+خوذة مصباح عامل المنجم	headpiece
+خُوذة واقية	protective helmet
+خِياطَةُ لو فور	Le Fort's suture
+خَيَّالة مُدَرَّعة	armored cavalry
+خيانة	treason
+خيانة الأمانة	abuse of confidence; breach of trust
+خيانة الأمانة	Breach of Trust
+خيانة زوجية	adultery
+خيانة عظمى	high treason
+خَيطُ تَنظيف	pull-through
+خَيَّمَ	encamp

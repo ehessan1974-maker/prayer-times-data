@@ -1,0 +1,141 @@
+سائق	driver
+سابِقٌ للغَزْو	preinvasive
+ساتِلُ استِطلاع	reconnaissance satellite
+ساحة الشرف: ميدان المبارزة أو القتال	field of honor
+ساحة القتال	battlefield|battleground
+ساحة قتال	battlefield
+ساعة الصِّفْر: «أ» السّاعة المحدَّدة	zero hour
+ساق الضابط	slug tuner
+سبائكُ المَعْدِنِ الأبيض	white metal alloys
+سباق التسلُّح	armament race
+سبب الحرب	casus belli
+سَبْرٌ بالصَّواريخ المُنطاديَّة	rockoon
+سَبْرٌ بِصارُوخ	rocket sounding
+سَبيكةُ الرصاص	terne metal
+سَبيكةُ الرَّصاصِ والقَصْدير	lead-tin alloy
+سترة عسكرية	army jacket
+سِجِلّ الوحدة أو السفينة: سِجِلٌّ بأسماء	muster roll
+سَحَبَ	draw
+سد	barrage; dam; embankment; weir
+سّدَّ	dam / barrage / embankment / weir
+سد	dam; barrage; embankment; weir
+سَدٌّ احتجاز	barrier reservoir; dam; barrage
+سدّ جوي	air barrage
+سَدُّ رِمَايَةٍ صُنْدُوقِيٌّ	box barrage
+سَدّ زاحف	creeping barrage
+سَدٌّ مَدِّيّ	tidal barrage
+سَدٌّ مَدِّيّ	tide barrage
+سد مضاد للطائرات	antiaircraft barrage
+سدّ من النيران	barrage of fire
+سد منطادي	balloon barrage
+سِدادُ فُتْحة التعبِئة	cap, filler
+سداسي الشكل	hexagonal
+سُداسيّ الطلقات: مُسَدَّس يُطلق ستّ	six-shooter
+سرب	squadron
+سَرَطانَةٌ قَبْلَ الغَزْو	preinvasive carcinoma
+سرعة الانفلات الصغرى: الحد الأدنى من	escape velocity
+سرعة الجريان في القاع	tank floor flow velocity
+سرعة القيادة القصوى	maXimum driving speed
+سرعه تزويد	priming speed
+سروال عسكري	army trousers
+سِرِّيّ. وبخاصّة: مستخدَمٌ أو منهمِك في	undercover
+سَريرُ المِدفَع	cannon cradle
+سَرِيَّة	brigade
+سَرِيَّة	squadron
+سرية اختبار المناولة	handling squadron
+سَرِيّة الاطفاء	brigade, fire
+سَطْح الحَدَبة	cam flank
+سَطحُ الحَطّ	landing deck
+سطح الطيران	flight deck
+سَطحُ القِيادة	deck, control
+سطح قائد	pilot plane
+سطح قلعة المقدمة	forecastle deck
+سَعْدان البارود: «أ» غلام كان يُستخدم على	powder monkey
+سعة الخزان	Tank Capacity
+سعةُ الصِّهريج	tank capacity
+سعة الهجمات	sortie capacity
+سَعةُ مَخزنِ الوَقُود	bunker capacity
+سِفاقُ الشَّواة	epicranial aponeurosis (galea aponeurotica NA)
+سِفاقُ العَضَلَةِ الجَبْهِيَّةِ	aponeurosis of occipitofrontal muscle (galea aponeurotica)
+سُفالَةُ الصِّهريج	tank bottoms
+سفن تسير في قافلة	vessels proceeding under convoy
+سَفينةُ القِيادة	flagship
+سفينة بصهاريج منفصلة	vessel with separate tanks
+سفينة حربية	ship of the line
+سفينة حربيّة	war vessel
+سفينة حربيّة	warship
+سفينة صِهريجيَّة	tank-ship = tanker
+سَفِينَة قِتَال	combatant ship
+سفينة قيادة برمائية	amphibious command ship
+سفينة هالكة	broken up (ship)
+سفينة هجوم برمائية	amphibious assault ship
+سَقّاطةُ التَّغذية	feed pawl
+سَقْفُ صِهْريجٍ عائمٌ	pontoon tank-roof
+سُكَّرُ الرَّصَاص	sugar of lead (lead acetate)
+سكن الضباط	officers' quarters
+سِكِّينٌ شَبِيْهَةٌ بالحَرْبَة	spear-shaped knife
+سِلاح	weapon
+سلاح اسمي	nominal weapon
+سلاح الطيران	air force
+سلاح ألف طن	kiloton weapon
+سِلاحُ المِسحاج	iron, plane
+سِلاحُ المِسحاج	plane-iron
+سِلَاحٌ أُوتُومَاتِي	automatic weapon
+سِلاحٌ أوتوماتي خَفيف	light automatic
+سلاح تبعثري	scatter weapon
+سِلاحُ تَخْديد	grooving iron
+سِلاَحٌ ذَرِّيٌّ	atomic weapon
+سلاح طيّ	folding blade
+سلاح قذفي	ballistic weapon
+سِلاحُ مِسحاج مُزدوج	double-plane iron
+سلاح مُضادّ لِلأَفراد	antipersonnel weapon
+سلاح مضاد للدبابات	antitank weapon
+سلاح مُضَاد للغواصات	antisubmarine weapon
+سلاح مُضاعف	binary weapon
+سلاح موجّه	guided weapon
+سلاحٌ نارِي	fire-arm
+سلاح ناري	firearm
+سِلاحٌ ناريٌّ تَكراريّ	repeating firearm
+سِلاحٌ ناريٌّ ذاتيُّ الإلقام	self-loader
+سِلاح نَظيف	clean weapon
+سلاح نووي	nuclear weapon
+سلاح نووي حراري	thermonuclear weapon
+سلاح نووي مِدفعي	gun-type weapon
+سلاح هجوم مُجَوْقَل	airborne assault weapon
+سَلامَة التَّعْبِئَة	package integrity
+سَلْبٌ	stickup
+سلسلة الإمدادات	supply chain
+سلسلة القيادة	chain of command
+سلسلة إمدادات الطاقة	energy supply chain
+سلسلة إمدادات في حلقة مغلقة	closed-loop supply chain
+سلع مؤذية	offensive goods
+سُلْفاتُ الرصاص	lead sulphate
+سلفيد الرصاص	lead sulfide
+سِلْك التنظيف	pullthrough
+سِلْكُ تَوجِيه	control cable
+سلك ربط	bonding lead
+سَلَّمَ	surrender
+سَلُوقيَّة المَركَب	forecastle
+سُمُّ السِّهام	arrow poison
+سَهْم	arrow
+سَهْم	Arrow
+سَهْمُ الرياح	wind arrow; wind shaft
+سَهْمُ الرياح	wind shaft; wind arrow
+سهم الزلْق	scroll arrow
+سَهمُ المَيْل	dip arrow (or dip)
+سَهْمٌ كاوٍ	caustic arrow
+سهم مضيء للإشارة بمظلة هبوط	rocket parachute flare
+سهم منسدل	Drop-down arrow
+سَهمٌ نارِيّ	skyrocket
+سهم يساري	Left arrow
+سهمي	arrow-headed
+سهمية	arrow-head
+سَوّاقُ النَّبيطة	device driver
+سورما	surma (lead sulfide)
+سيّارة	half-track
+سيارة الشرطة الجوّاسة: سيارة من سيارات	prowl car
+سيارة بصهريج ذي قسمين	two-compartment tank truck
+سيارة ذاتية القيادة	Self-Driving Car
+سيارة لوجستية كهربائية بالكامل	Full Electric Car Logistics Vehicle
+سيفون مُعالَجة مياه الصرف المنزلية	flush tank; flushing chamber
+سَيلَقون	minium (lead tetroxide)

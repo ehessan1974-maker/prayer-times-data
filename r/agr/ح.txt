@@ -1,0 +1,170 @@
+حاجز حبوب	grain bulkhead
+حاجة إلى الري	irrigation requirement
+حاصِل	crop
+حافّ	grazing
+حافَّةُ إدبارِ النَّبْضة	pulse trailing-edge
+حافَّة إقبال النَّبْضة	pulse leading-edge
+حالة سطح التربة	soil surface condition
+حالة هيكلة التربة	soil structural condition
+حامِضُ الپَلْمِتيك	palmitic acid
+حامضية التربة	soil acidification
+حامِل	stand
+حامل التطعيم	root stock
+حامِلُ الثِّمار	carpophore
+حامل حبوب	granaferous
+حاملُ مُجَمِّع التيّار	plough carrier
+حاملة البذور	seed tree; seed bearer
+حامِلَة نَبْضيَّة	pulse carrier
+حامول برسيم	clover-dodder
+حاوية المواشي	livestock container
+حَبُّ القمر: نبات هلاليّ البزور أسود	moonseed
+حِبْرٌ سَريع الجَفاف	quick-setting ink
+حبل قطني	cotton cord / cotton corduroy
+حبل قنب	hemp rope
+حَبَن	ascites
+حبة قمح	grain de blé
+حُبوب	cereal
+حُبوب	cereals
+حُبوب	frumentum (grain)
+حُبُوبُ الأَنيسون	aniseed
+حبوب اللقاح	pollen grains
+حبوب جافة مُقطرة	distillers dried drains (DDG)
+حبوب رطبة مُقطرة	distillers wet grains (DWG)
+حُبوبُ مَنْعِ الحَمْلِ التَّدارُكِيّ	emergency contraceptive pills
+حُبيبات التربة	soil particle
+حُبَيْبة بيضاء	sorghum
+حَجَر غِريَني	alluvial stone
+حجم الحبوب	grain size
+حديقة بذور	seed orchard
+حديقة مدرسية للزراعة العضوية	organic school garden
+حراثة	cultivation
+حِراثة	tillage
+حراثة ثانوية	secondary tillage
+حِراثة كِفافيَّة	contour ploughing (plowing)
+حراثة محافظة	conservation tillage
+حِراجَة	silviculture
+حرث	ploughing; plowing
+حرث التربة التحتية	subsoiling
+حرث أولي	primary tillage
+حَرْث تحت التربة	subsoiling
+حرث تقليدي	conventional tillage
+حرث شريطي	strip tillage
+حرث كفافي	contour plowing
+حَرَّجَ	afforest
+حَرْجَفِيّ: «أ» مُتَّسِمٌ بالحرارة	xerothermic
+حركة الإصلاح الزراعيّ: حركة تنادي بإعادة	agrarianism
+حرونات المغنزيت و الكروم الحرارية	chrome magnesite refractories
+حَزّ طُولانيّ	plough groove
+حِزام القطن: منطقة في الجزء الجنوبي من	cotton belt
+حُزمة تِبْن	bale of straw
+حساس حثي	induction-type pulse generator
+حَشْوَة	batting
+حَشْوَة من القِنَّب	hemp packing
+حَشِيشة الأفنِية: عُشب شائك يكثر في	yard grass
+حَصاد	harvest
+حصاد	Harvesting
+حصاد أشجار بذور	seed-tree harvest
+حصاد الحبوب	grain corp
+حصاد الشجرة من فوق الجِذْل	whole-tree harvesting
+حصاد الطاقة	Energy harvesting
+حصاد آلي	mechanised harvesting
+حصاد بري	wild harvest
+حصاد بمنشار آلي يدوي	motor-manual harvesting
+حصاد تجديد	regeneration harvest
+حصاد خشب المأوى	shelterwood harvest
+حصاد مفرط	overharvest
+حَصّادة	harvester
+حَصّادةٌ دَرّاسة	combine-harvester
+حَصَّادةٌ درّاسَة	harvester-thresher
+حَصاةٌ كَبِذْرِ القِنَّب	hemp seed calculus
+حصيلة	crop / yield / production
+حصيلة المستجمع	yield of drainage basin
+حَظيرة	hangar
+حظيرة	yard; paddock
+حظيرة التخزين الشمالية	North Tank Farm
+حظيرة العَرَبات	carbarn
+حظيرة الغنم	sheepfold
+حظيرة اللَّعِب: قفص نقّال يلعب ضمنَهُ	playpen
+حظيرة اللفح	blast pen
+حظيرة الماشية	Stockyard
+حظيرة بارزة	blister hangar
+حظيرة بضائع	freight shed
+حظيرة فردية	hangarette
+حَظِيرة من قُماش القِنَّب	canvas hangar
+حظيرة. وبخاصة: حظيرة الطائرات	hangar
+حفاظ	soil moisture, unavailable
+حفرة تسريب	pit, drainage
+حُفرة في القطاع الجانبيّ للتربة	soil profile pit
+حفظ	conservation (soil)
+حقل	field
+حقل الأَرُزّ: حقل مغمور بالماء لزَرْع	rice paddy
+حقل تنقية مياه الصرف	sewage farm
+حَقْلُ خَزَّانات	tank farm
+حقل رياح 'ثورنتون بانك'	Thorntonbank wind farm
+حقل رياح أهليّة	Citizens Wind Farm
+حقل ريحي	Wind Park
+حقل ريحي بحري	offshore wind farm
+حُقْنَةُ كروماتِ الصوديومِ المُشِعّ	sodium radiochromate injection
+حقوق إطلاق انبعاثات غازات الدفيئة القابلة	Tradable Permit for Greenhouse Gas Emissions
+حِكَّةُ التُّرْبَة	water pox (ground itch)
+حِكَّةُ الحَصَّادين	barley itch (grain itch)
+حِكَّةُ الحَصَّادين	grain itch
+حِكَّةُ الحَصَّادين	straw itch (grain itch)
+حِكَّةُ الفِراش	mattress itch (grain itch)
+حِكَّةُ المُزارِعين	farmer's itch
+حَلْج	scutching
+حلج الكتان	long flax fibers
+حلقتين في تربة	bisequa
+حَلْقة المُجَلِّي: حظيرة قرب حلبة	winner's circle
+حَلَمُ الشَّعير	Acarus hordei
+حَمَأٌ	muck
+حُماقُ التَّطْعيم	vaccination varicella
+حمّال باب حظيرة	barn-door hanger
+حَمْأَة مُختلِطة	sludge compost; sludge, composted
+حماية	protection (soil)
+حماية التربة	soil conservation
+حِماية التربة	soil protection
+حماية التربة والماء	soil and water conservation (swc)
+حُمْرَةُ القُطْن	cotton red (Congo red)
+حِمِّص	chickpea
+حمض البالميتيك	palmitic acid
+حَمْضُ البان	behenic acid
+حمض البانتوتينيك	pantothenic acid
+حَمْضُ البانتوثينيك	pantothen (pantothenic acid)
+حَمْضُ البانتوثينيك	pantothenic acid
+حموضة التربة	soil ph
+حموضة التربة التحتية	subsoil acidity
+حُمَّى الحَصاد	erntefieber
+حُمَّى الحَصاد	harvest fever
+حُمَّى الحَقْل	field fever (harvest fever)
+حُمّى الدَّريس	hay-fever
+حمى القش	fever, hay
+حُمّى القَشّ	hay fever
+حُمَّى الكَلأ	corasthma (hay fever)
+حُمَّى الكَلأ	hay fever
+حَمَّى الكَلأ السَّنَوِيَّة	perennial hay fever
+حُمَّى الكَلأ اللافَصْلِيَّة	nonseasonal hay fever
+حُمّى تكساس: مرض مُعْدٍ من أمراض الماشية	Texas fever
+حُمَّى حُقولِ الرُّزّ	rice-field fever
+حُمَّى حَلْجُ القُطْن	cotton-mill fever (byssinosis)
+حُمَّى دَرْسِ الحِنْطَة	threshing fever
+حُمَّى سُوافِ البَقَر	bovine epizootic fever (ephemeral fever of cattle)
+حُمَّى عابِرَةٌ فِي المَواشِي	ephemeral fever of cattle
+حنطة صلدة	hard wheat
+حَوَائِطُ الشُّعَيرات	perithelium
+حَوَائِطُ الشُّعَيراتِ الإِيبرتِيَّة	Eberth's perithelium
+حَوالِقِيّ	capreolary
+حَوالِقِيّ	capreolate
+حَوْجَلَةُ الزَّرْع	culture flask
+حوذان الحقول	buttercup
+حوصلة	jabot; crop
+حوض التصريف	drainage basin
+حوض الصرف	drainage area (basin)
+حَوضُ الصَّرْف	drainage basin
+حوض ترسيب	catch pit (drainage pit)
+حوض خلط الأسمنت	cement silo
+حوض مغلق	blind drainage
+حويصلة	crop; stand age
+حُوَيصِلَةٌ مُنْتِشَة	vesicula germinativa
+حيوانات التربة	soil fauna
+حيويات التربة	soil biota

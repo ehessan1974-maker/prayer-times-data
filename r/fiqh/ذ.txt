@@ -1,0 +1,16 @@
+ذَبْح	slaughter
+ذرة الشائبة	impurity atom; chemical impurity; foreign atom
+ذرة شائبة	foreign atom; chemical impurity, impurity atom
+ذرة شائبة	impurity atom
+ذكرى الزَّواج الخامسة والعشرون	silver wedding
+ذو اثني عشر وجهًا	dodecahedron
+ذُو أَحدَ عَشرَ ضِلعًا	endecagon = hendecagon
+ذو الاِثْنَي عَشَر سَطْحًا المُخَمَّسَة	pentagonal dodecahedron
+ذو الاثني عشر وجها	dodecahedron
+ذو الاِثنَي عَشَرَ وَجْهًا المعيَّنِيّ	rhombic dodecahedron
+ذو الاثني عشر وجها دلتاويا مزدوجا	diploidal
+ذُو الأحَدَ عَشَرَ ضِلْعًا	hendecagon
+ذو الأحَدَ عَشَرَ ضِلْعًا	undecagon
+ذو الأربعة والعشرين وجهًا	trisoctahedron
+ذُو الخَمسَةَ عَشَرَ ضِلْعًا	quindecagon
+ذو عَشْر زوايا	decagonal

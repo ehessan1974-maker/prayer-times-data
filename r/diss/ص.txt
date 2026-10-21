@@ -1,0 +1,436 @@
+صاعِقة	lightning stroke
+صاعِقة	stroke, lightning
+صاعقة رائدة	leader stroke
+صاعِقة غيرُ مُباشِرة	indirect stroke
+صِبَاغُ الْقُرْحَةِ	canker stain
+صبيج زهري	pink cuttlefish
+صحن دوّار	turntable
+صخور صدفية	shell rocks
+صَدَأ	rust
+صدأ الحِنطة: «أ» مرض من أمراض القمح	wheat rust
+صدأ بثري	blister rust
+صُداع	cephalalgia
+صُداع	cephalea (cephalalgia)
+صُداع	cephalgia
+صُداع	cephalodynia
+صُداع	dolor capitis (headache)
+صُداع	encephalalgia
+صُداع	headache
+صُداعٌ احْتِقانِيّ	congestive headache
+صُداعُ الإِبينِفْرين	epinephrine headache
+صُداعُ الالْتِهابِ اللِّيفِيّ	fibrositic headache
+صُداعُ الأَلَمِ العَصَبِيّ	neuralgic headache
+صُداعُ البَزْل	puncture headache (lumbar puncture headache)
+صُداعُ البَزْل القَطَنِيّ	lumbar puncture headache
+صُداعُ التَّخْلِيَة	vacuum headache
+صُداعُ التَّقَبُّضِ العَضَلِيِّ	muscle contraction headache
+صُداعُ التَّوَتُّر	tension headache
+صُداعُ الجَرّ	traction headache
+صُداعُ الحُمَّى	pyrexial headache
+صُداعُ الدِّيناميت	dynamite headache
+صُداعُ الشَّلَلِ السُّفْلِيّ	paraplegic headache
+صُداعُ الضَّغْط	pressor headache
+صُداعُ النُّخاع	spinal headache (lumbar puncture headache)
+صُداعُ النَّزْح	drainage headache (lumbar puncture headache)
+صُداعُ الهِسْتامِين	histamine headache
+صُداعٌ انْعِكاسِيّ	reflex headache
+صُداعٌ أَنْفِيُّ المَنْشَأ	rhinogenous headache
+صداع بزل النخاع	headache, puncture
+صُداعٌ بُلْعومِيٌّ طَبْلِيّ	pharyngotympanic cephalalgia
+صُداعٌ تَبَيُّغِيّ	hyperemic headache (congestive headache)
+صُداعٌ تَسَمُّمِيّ	toxic headache
+صُداعٌ جَبْهِيّ	metopodynia
+صُداعُ حَرَكةِ الرَّأْسِ السَّريعَة	jolt headache
+صُداعٌ خوذِيّ	helmet headache
+صُداعٌ دَورَوِيّ	cyclic headache
+صُداعٌ رُبْعِيّ	quadrantal cephalalgia
+صُداعٌ رَضْحِيّ	traumatic headache
+صُداعٌ روماتزميّ	rheumatic headache
+صُداعٌ سِحائِيّ	meningeal headache
+صُداعٌ سُعالِيّ	cough headache
+صُداعُ صَباحِ الإِثْنَين	Monday morning headache
+صُداعٌ صَفْراوِيّ	bilious headache (migraine headache)
+صُداعٌ عُضْوِيّ	organic headache
+صُداعٌ عُقَيدِيّ	nodular headache
+صُداعُ عُمَّالِ المَناجِم	miners' headache
+صُداعٌ عُنْقودِيّ	cluster headache (histamine cephalgia)
+صُداعٌ عُنْقودِيّ	cluster headache (migrainous neuralgia)
+صُداعُ عَوَزِ الأُكْسِجين	anoxic headache
+صُداعٌ عَينِيّ	ocular headache
+صُداعُ فَقْرِ الدَّم	anemic headache
+صُداعٌ مُتَقابِل	amphicrania
+صُداعٌ مَرَضِيّ	sick headache (migraine)
+صُداعٌ مَصْحُوبٌ بأَعْراض	symptomatic headache (reflex headache)
+صُداعٌ مَعَ أَلَمٍ عَضَلِيٍّ رَقَبِيٍّ	cervical myalgic headache
+صُداعٌ هِسْتامينِيّ	histamine cephalalgia
+صُداعُ هورتون	Horton's headache (migrainous neuralgia)
+صُداعٌ هِياجِيّ	cephalea agitata
+صُداعٌ هِياجِيّ	cephalea attonita (cephalea agitata)
+صُداعٌ وَحيدُ الجانِب	blind headache (migraine)
+صُداعُ وَرَمِ القَواتِم	pheochromocytoma headache
+صُداعٌ وَظيفِيّ	functional headache
+صداع وظيفي	headache, functional
+صُداعٌ وِعائِيّ	vascular headache
+صُداعٌ وِعائِيٌّ حَرَكِيّ	vasomotor headache (migraine neuralgia)
+صُداف	psoriasis
+صَدْع	fatigue fracture
+صَـدْع	fracture
+صَدْعٌ اِلتِوائي	torsion fault
+صدع حراري	thermal fracture
+صَدْعٌ غيرُ مُنْتَظِم	uneven fracture
+صَدْعٌ قَصِفيّ	brittle fracture
+صَدْعٌ محاري الشكل	conchoidal fracture
+صَدْعٌ مَحَارِيُّ الشَّكل	fracture, conchoidal
+صَدْعٌ مُستَوٍ	plane fracture
+صَدَفِيَّة	psora (psoriasis)
+صَدَفِيَّة	psoriasis
+صَدَفِيَّةُ الثَّنْيات	flexural psoriasis
+صَدَفِيَّةُ الثَّنْيَات	inverse psoriasis (flexural psoriasis)
+صَدَفِيَّةٌ بَثْرِيَّة	pustular psoriasis
+صَدَفِيَّةٌ بَثْرِيَّة مُتَعَمِّمَة	generalized pustular psoriasis
+صَدَفِيَّةٌ بَثْرِيَّةٌ مُتَوَضِّعَة	localized pustular psoriasis
+صَدَفِيَّةٌ تَشْكِيْلِيَّة	figurate psoriasis
+صَدَفِيَّةٌ تَشْكِيْلِيَّة	psoriasis figurata (figurata psoriasis)
+صَدَفِيَّةٌ تَقَشُّرِيَّة	exfoliative psoriasis (erythrodermic psoriasis)
+صَدَفِيَّةٌ تَلْفيفِيَّة	gyrate psoriasis
+صَدَفِيَّةٌ تَلْفيفِيَّة	psoriasis gyrata (gyrate psoriasis)
+صَدَفِيَّةٌ جُرَيبِيَّة	psoriasis follicularis
+صَدَفِيَّةٌ حِفاظِيَّةٌ	napkin psoriasis
+صَدَفِيَّةٌ حَلَقِيَّةُ	psoriasis annularis (psoriasis annulata)
+صَدَفِيَّةٌ حَلَقِيَّةُ	psoriasis annulata
+صَدَفِيَّةٌ دِرْهِمِيَّةٌ	nummular psoriasis (psoriasis nummularis)
+صَدَفِيَّةٌ دِرْهِمِيَّةٌ	psoriasis nummularis
+صَدَفِيَّةٌ دُوَيرِيَّة	psoriasis orbicularis
+صَدَفِيَّةٌ راحِيَّة	palmar psoriasis
+صَدَفِيَّةٌ راحِيَّةٌ أَخْمَصِيَّةٌ	psoriasis palmaris et plantaris
+صَدَفِيَّةٌ شائِعَة	psoriasis vulgaris
+صَدَفِيَّةٌ شامِلَة	psoriasis universalis
+صَدَفِيَّةٌ شِدْقِيَّةٌ	psoriasis buccalis
+صَدَفِيَّةٌ ظُفُرِيَّةٌ	ungual psoriasis
+صَدَفِيَّةُ فُونْ تسومْبُوش	von Zumbusch's psoriasis
+صَدَفِيَّةٌ قُرْصِيَّةُ الشَّكْل	psoriasis discoidea
+صَدَفِيَّةٌ قَطْرَوِيَّة	guttate psoriasis
+صَدَفِيَّةٌ قَطْرَوِيَّة	psoriasis guttata (guttate psoriasis)
+صَدَفِيَّةٌ لِسانِيَّة	lingual psoriasis
+صَدَفِيَّةٌ لِسانِيَّة	psoriasis linguae (lingual psoriasis)
+صَدَفِيَّةٌ مُتَحَلِّقة	psoriasis circinata
+صَدَفِيَّةٌ مُتَوَطِّدَة	psoriasis inveterata
+صَدَفِيَّةٌ مَثِّيَّةٌ	psoriasis seborrheic
+صَدَفِيَّةٌ مَحاريَّة	ostraceous psoriasis
+صَدَفِيَّةٌ مَحارِيَّة	psoriasis ostracea (ostraceous psoriasis)
+صَدَفِيَّةٌ مَحارِيَّة	psoriasis rupioides (psoriasis ostracea)
+صَدَفِيَّةٌ مُحَمِّرةٌ للجِلْد	erythrodermic psoriasis
+صَدَفِيَّةٌ مُنْتَشِرَة	psoriasis diffusa
+صَدَفِيَّةٌ نُقْطِيَّة	psoriasis punctata
+صَرْخَةُ الصَّرْع	epileptic cry
+صَرْخَةُ المَوَهِ الدِّماغِيّ	hydrocephalic cry (tuberculous meningitis cry)
+صَرْع	epilepsia
+صَرْع	epilepsy
+صرع	epilepsy = epilepsia
+صرع " جاكسون "	epilepsy, Jacksonian
+صَرْعٌ ابْتِدائِيّ	primary epilepsy
+صَرْعٌ إِبْصارِيّ	visual epilepsy
+صَرْعٌ إِجْفالِيّ	startle epilepsy
+صَرْعٌ آجِلٌ	delayed epilepsy
+صَرْعٌ اخْتِلاَجِيّ	convulsive epilepsy
+صَرْعٌ ارْتِدادِيّ	retrocursive epilepsy
+صَرْعٌ أُرْجُوْحِيّ	seesaw epilepsy
+صَرْعٌ أَرَجِيّ	allergic epilepsy
+صَرْعٌ اسْتِدَارِيّ	rotatory epilepsy
+صَرْعٌ اسْتِقْلاَبِي	metabolic epilepsy
+صَرْعٌ اسْتيقاظِيّ	waking epilepsy (morning epilepsy)
+صَرْعٌ افْتِكارِيّ	ideational epilepsy
+صَرْعُ الإِرْجَازِ	orgasmolepsy
+صَرْعُ الأَطْفالِ الإيمائِيّ	epilepsia nutans
+صَرْعُ الاِنْدِفَاعِ للخَلْف	retropulsive epilepsy
+صَرْعُ الباحَةِ الحَرَكِيَّةِ الإِضافِيَّة	supplementary motor area epilepsy
+صَرْعُ الباحَةِ الحِسِّيَّةِ الإِضافِيَّة	supplementary sensory area epilepsy
+صَرْعُ البَاحَةِ الرُّولاندِيَّة	rolandic epilepsy (Jacksonian epilepsy)
+صَرْعُ البالِغين	adult epilepsy
+صَرْعُ البَتْر	amputation epilepsy
+صَرْعُ البُلوغ	pubertal epilepsy
+صَرْعُ التَّلْفِيْفِ الحِزامِيّ	cingulate epilepsy
+صَرْعُ التَّلْفِيْفُ الشّصِّيّ	uncinate epilepsy
+صَرْعُ التَّلفِيْفِ أمامَ الرُّولاَنْدِيّ	prerolandic epilepsy
+صَرْعُ الجَدَعَة	stump epilepsy (amputation epilepsy)
+صَرْعُ الجِسْمِ المُخَطَّط	striatal epilepsy
+صَرْعُ الحَمْل	pregnancy epilepsy
+صَرْعُ الدِّماغِ البَينِيّ	diencephalic epilepsy
+صَرْعُ الدِّمَاغِ المُتَوَسِّط	mesencephalic epilepsy
+صَرْعُ الدِّمَاغِ المُتَوَسِّط	midbrain epilepsy
+صَرْعُ الشَّبَكِيَّة	retinal epilepsy
+صَرْعٌ إِلْعابِيّ	salivatory epilepsy
+صَرْعُ الفَصِّ الصُّدْغِيّ	temporal lobe epilepsy (psychomotor epilepsy)
+صَرْعُ القِراءَة	reading epilepsy
+صَرْعُ المُنْعَكِسُ السَّمْعِيّ	sonosensory epilepsy (reflex auditory epilepsy)
+صَرْعُ النَّواةِ اللَّوزِيَّة	amygdaloid epilepsy
+صَرْعُ النَّوْمِ الانْتِيَابِيّ	narcoleptic epilepsy
+صَرْعٌ انْثِنائِيٌّ مُتَعَمِّم	generalized flexion epilepsy
+صَرْعٌ انْخِداعِيّ	illusional epilepsy
+صَرْعٌ انْعِكاسِيّ	reflex epilepsy
+صرع بؤري	epilepsy, focal
+صَرْعٌ بُؤْرِيّ	focal epilepsy
+صَرْعٌ بُؤْرِيٌّ حَرَكِيّ	focal motor epilepsy
+صَرْعٌ بُؤْرِيٌّ صَغير	minor focal epilepsy
+صَرْعٌ بدُوْنِ اِخْتِلاج	nonconvulsive epilepsy
+صَرْعٌ بدُوْنِ تَوَتُّر	atonic epilepsy
+صَرْعُ برافيس-جاكسون	Bravais-jacksonian epilepsy (jacksonian epilepsy)
+صَرْعٌ بَطْنِيّ	abdominal epilepsy
+صرع بطني	epilepsy, abdominal
+صَرْعٌ بُلْعومِيّ	pharyngeal epilepsy
+صَرْعٌ تالٍ للرَّضْح	post-traumatic epilepsy
+صَرْعٌ تالٍ للفَالِج	posthemiplegic epilepsy
+صَرْعٌ تَثْبِيطِيٌّ جَسَدِيّ	somatoinhibitory epilepsy
+صَرْعٌ تَدْويرِيّ	epilepsia rotatoria
+صَرْعٌ تَدْويرِيّ	gyratory epilepsy
+صَرْعٌ تَشَنُّجِيٌّ تَقَوُّسِيّ	opisthotonic epilepsy
+صَرْعُ تَعَذُّرِ الحَرَكَةِ	akinetic epilepsy
+صَرْعٌ تَلاَمُسِيّ	contact epilepsy
+صَرْعٌ تَلَجْلُجِيّ	palilalic epilepsy
+صَرْعٌ تِلْقائِيّ	automatic epilepsy
+صَرْعٌ تِلْقَائِيّ	spontaneous epilepsy
+صَرْعٌ تَناسُلِيّ	genital epilepsy
+صَرْعٌ تَوَتُّرِيّ	tonic epilepsy
+صَرْعٌ تَوَهَانِيّ	erratic epilepsy
+صَرْعٌ ثانَوِيّ	secondary epilepsy
+صَرْعٌ جاكْسونِيّ	jacksonian epilepsy
+صَرْعٌ جَبْهِيّ	frontal epilepsy
+صَرْعٌ جِدارِيّ	parietal epilepsy
+صَرْعٌ جُزْئِيٌّ مُسْتَمِرّ	Koshevnikoff's epilepsy (epilepsia partialis continua)
+صَرْعٌ جَسَدِيٌّ حِسِّيّ	somatosensory epilepsy
+صَرْعٌ جِسْرِيٌّ بَصَلِيّ	pontobulbar epilepsy
+صَرْعٌ جَنْبِيُّ المَنْشَأ	pleural epilepsy
+صَرْعٌ حارِف	versive epilepsy
+صَرْعٌ حُبْسَوِيّ	aphasic epilepsy
+صَرْعُ حَرَكَاتِ المَضْغِ	masticatory epilepsy
+صَرْعٌ حَرَكِيٌّ جَسَدِيّ	somatomotor epilepsy
+صَرْعٌ حَرَكِيٌّ وِعائِيّ	vasomotor epilepsy
+صَرْعٌ حِسابِيّ	epilepsia arithmetica
+صَرْعٌ حِسِّيّ	sensory epilepsy
+صَرْعٌ حِسِّيٌّ جَسَدِيّ	somesthetic epilepsy
+صَرْعٌ حَشَوِيّ	visceral epilepsy
+صَرْعٌ حُلُمِيّ	dreamy epilepsy
+صَرْعٌ حَمْلَقِيّ	gaze epilepsy
+صَرْعٌ حَمْلِيّ	epilepsy gravidarum
+صَرْعٌ حُمَّوِيّ	febrile epilepsy
+صَرْعٌ حَنْجَرِيّ	laryngeal epilepsy
+صَرْعٌ حَيضِيّ	catamenial epilepsy
+صَرْعٌ حَيضِيّ	menstrual epilepsy
+صَرْعٌ خافٍ	larval epilepsy (latent epilepsy)
+صَرْعٌ خافٍ	latent epilepsy
+صَرْعٌ دِماغِيٌّ شَمِّيّ	rhinencephalic epilepsy
+صَرْعٌ دِماغِيٌّ مَرْكَزِيّ	centrencephalic epilepsy
+صَرْعٌ دَوَّاريّ	circumcursive epilepsy (rotatory epilepsy)
+صَرْعٌ دُوارِيّ	vertiginous epilepsy
+صَرْعٌ دَوْرَوِيّ	cyclic epilepsy
+صَرْعٌ ذاتِيُّ التَّحْرِيْض	self-induced epilepsy
+صَرْعٌ ذاتِيُّ التَّحْرِيْض	self-provoked epilepsy
+صَرْعٌ ذَوقِيّ	gustatory epilepsy
+صرع رجفي	epilepsy, myoclonus
+صَرْعٌ رَضْحِيّ	traumatic epilepsy
+صَرْعٌ رَكْضِيّ	cursive epilepsy (idiopathic epilepsy)
+صَرْعٌ رَكْضِيّ	epilepsia cursiva
+صَرْعٌ رَكْضِيّ	epilepsia procursiva (cursive epilepsy)
+صَرْعٌ رَمَعِيّ	clonic epilepsy
+صَرْعٌ رَمَعِيٌّ عائِلِيٌّ مُتَرَقّ	progressive familial myoclonic epilepsy
+صَرْعٌ رَمَعِيٌّ عَضَلِيّ	myoclonus epilepsy
+صَرْعٌ رَمَعِي عَينِيّ	oculoclonic epilepsy
+صَرْعٌ سَامِحٌ بالتَّجَوُّلّ	ambulatory epilepsy
+صَرْع سِباقِيّ	procursive epilepsy
+صَرْعٌ سُعالِيّ	tussive epilepsy
+صَرْعٌ سَكْتِيّ	apoplectic epilepsy
+صَرْعٌ سِلْسِلِيّ	serial epilepsy
+صَرْعٌ سَلَسِيّ	enuretic epilepsy
+صَرْعٌ سَمْعِيّ	auditory epilepsy
+صَرْعٌ سَمْعِيُّ المَنْشَأ	acousticogenic epilepsy
+صَرْعٌ سَمْعِيُّ المَنْشَأ	audiogenic epilepsy
+صَرْعٌ سَيْرَ-نَوْمِي	somnambulistic epilepsy
+صَرْعٌ شُرْسوفِيّ	epigastric epilepsy
+صرع شعبي	epilepsy, uncinate
+صَرْعٌ شِقِّيّ	hemiepilepsy
+صَرْعٌ شَمِّيّ	olfactory epilepsy
+صَرْعٌ شَيخوخِيّ	senile epilepsy
+صَرْعٌ صَباحِيّ	matutinal epilepsy (morning epilepsy)
+صَرْعٌ صَباحِيّ	morning epilepsy
+صرع صدغي	epilepsy, temporal lobe
+صرع صغير	epilepsy, petit mal
+صَرْعٌ صغير رَمَعِيٌّ عَضَلِيّ	myoclonic petit mal
+صَرْعٌ صَغيرٌ عَكْسِيُّ الدَّوَران	adversive petit mal
+صَرْعٌ صغير وَنائِيّ	atonic petit mal
+صَرْعٌ صَوتِيّ	vocal epilepsy
+صَرْعٌ ضَحِكِيّ	gelastic epilepsy
+صَرْعٌ ضَوئِيُّ المَنْشَأ	luminosensible epilepsy (photic epilepsy)
+صَرْعٌ ضَوئِيُّ المَنْشَأ	photic epilepsy
+صَرْعٌ ضَوئِيُّ المَنْشَأ	photogenic epilepsy
+صَرْعٌ عائِلِيّ	familial epilepsy
+صَرْعٌ عَاطِفِيّ	affective epilepsy
+صَرْعٌ عامٌّ شامِل	common generalized epilepsy
+صَرْعٌ عُضْوِيّ	organic epilepsy
+صَرْعٌ عُطاسِيّ	sneezing epilepsy
+صَرْعٌ عَينِيّ	ocular epilepsy
+صَرْعٌ عَينِيّ	ophthalmic epilepsy
+صَرْعٌ غِنائِيّ	epilepsia cantora (singing epilepsy)
+صَرْعٌ غِنائِيّ	singing epilepsy
+صَرْعٌ فَمَوِيّ	oral epilepsy
+صَرْعٌ فَمَوِيٌّ بُلْعومِيّ	oropharyngeal epilepsy
+صَرْعٌ فِيزْيولوجِيّ	physiologic epilepsy
+صَرْعٌ قَذالِيّ	occipital epilepsy
+صَرْعٌ قِشْرِيّ	cortical epilepsy
+صَرْعٌ كاذِب	pseudoepilepsy
+صَرْعٌ كَبير	grand mal epilepsy
+صَرْعٌ كَبير	haut mal epilepsy
+صَرْعٌ كُحولِيّ	alcoholic epilepsy
+صرع ليلي	epilepsy, nocturnal
+صَرْعٌ لَيلِيّ	morpheic epilepsy (nocturnal epilepsy)
+صَرْعٌ لَيلِيّ	nocturnal epilepsy
+صَرْعٌ مَبيضِيّ	ovarian epilepsy
+صَرْعٌ مُتَأَخِّر	epilepsia tarda
+صَرْعٌ مُتَأَخِّر	tardy epilepsy
+صَرْعٌ مَتَعَمِّم	generalized epilepsy
+صَرْعٌ مُتَناوِب	alternating epilepsy
+صَرْعٌ مُتَواتِر	pyknoepilepsy
+صَرْعٌ مُثَارٌ بالمُوْسِيقَى	musicogenic epilepsy
+صَرْعٌ مَجْهُوْلُ السَّبَب	cryptogenic epilepsy
+صَرْعٌ مَجْهُوْلُ السَّبَب	essential epilepsy
+صَرْعٌ مَجْهُوْلُ السَّبَب	idiopathic epilepsy
+صَرْعٌ مُحَرَّضٌ	induced epilepsy (reflex epilepsy)
+صَرْعٌ مُحَرَّضٌ بالحَرَكَة	kinesogenic epilepsy (movement induced epilepsy)
+صَرْعٌ مُحَرَّضٌ بالحَرَكَة	movement-induced epilepsy
+صَرْعٌ مُخِلٌّ بالذَّاكِرَة	dysmnesic epilepsy
+صَرْعٌ مُخِلٌّ بالذَّاكِرَة	paramnesic epilepsy
+صَرْعٌ مُديرٌ للجِسْم	contraversive epilepsy
+صَرْعٌ مُديرٌ للوَجْه	adversive epilepsy
+صَرْعٌ مَرْكَزِيّ	central epilepsy
+صَرْعٌ مُسْتَقِلِّيّ	autonomic epilepsy
+صَرْعٌ مُسْتَمِرّ	continuous epilepsy
+صَرْعُ مُشَاهَدَةِ التِلْفِزْيون	television epilepsy
+صَرْعٌ مَشْروط	conditioned epilepsy
+صَرْعٌ مَصْحُوْبٌ بأَعْرَاض	symptomatic epilepsy
+صَرْعٌ مَصْحُوْبٌ بالهَلْوَسَةِ	hallucinatory epilepsy
+صَرْعٌ مَصْحُوْبٌ بالوَعِي	conscious epilepsy
+صَرْعٌ مَصْحُوْبٌ بالوَعْي وفَقْدِ	conscious amnesic epilepsy
+صَرْعٌ مَصْحُوْبٌ بتَدْوِيْرِ العَيْن	oculogyric epilepsy
+صَرْعٌ مع الاسْتِدَارَةِ للجِهَة	ipsiversive epilepsy
+صَرْعٌ مُقَنَّع	masked epilepsy
+صَرْعٌ مُكْتَسَب	acquired epilepsy
+صَرْعٌ مُنْتَشِر	diffuse epilepsy
+صَرْعٌ مُنَشَّط	activated epilepsy
+صَرْعٌ مِهادِيّ	thalamic epilepsy
+صرع موسيقي	epilepsy, musicogenic
+صَرْعٌ موسيقِيّ	musicolepsy
+صَرْعٌ مُوَضَّع	localized epilepsy (focal epilepsy)
+صَرْعٌ مَوْضِعِيُّ	local epilepsy (focal epilepsy)
+صَرْعٌ نُخاعِيّ	spinal epilepsy
+صرع نفسحركي	epilepsy, psychomotor
+صَرْعٌ نَفْسِيٌّ	mental epilepsy (psychic epilepsy)
+صَرْعٌ نَفْسِيّ	paralepsy (psycholepsy)
+صَرْعٌ نَفْسِيٌّ	psychic epilepsy
+صَرْعٌ نَفْسِيّ	psychoepilepsy (idiopathic epilepsy)
+صَرْعٌ نَفْسِيٌّ حَرَكِيّ	psychomotor epilepsy
+صَرْعٌ نَهارِيّ	diurnal epilepsy
+صَرْعٌ نَومِيّ	sleep epilepsy
+صَرْعٌ هِسْتيرِيّ	hysterical epilepsy
+صَرْعٌ هَضْمِيّ	digestive epilepsy
+صَرْعٌ وَحيدُ الجانِب	unilateral epilepsy
+صَرْعٌ وُدِّيّ	sympathetic epilepsy
+صَرْعٌ وِصادِيّ	opercular epilepsy
+صَرْعٌ وِطائِيّ	hypothalamic epilepsy
+صَرْعٌ وِعائِيٌّ مُبْهَمِيّ	vasovagal epilepsy
+صَرْعانيّ: «أ» شبيه بالصَّرْع epileptoid	epileptoid
+صَرْعانيّ: شبيه بالصَّرْع epileptiform	epileptiform
+صَعَرٌ روماتويديّ	rheumatoid torticollis
+صفّ الطَّحْلَبِيَّات الدَّوَّارة	Dinophyceae
+صُفارٌ سُكَّرِيّ	xanthosis diabetica
+صَفَر	ascarid
+صَفَرَة	ascaris
+صَفْقة	a stroke of business
+صفيحة جاهزة الحساسية	presensitized plate
+صَليجة	bullion
+صُماغ	bridou (perlèche)
+صُماغ	perlèche (angular cheilitis)
+صمامة إرتجاجية	concussion fuse
+صَمَلٌ مَرَضِيّ	pathologic rigidity
+صَمَمٌ	anacousia (anakusis)
+صَمَمٌ	anacusis (anakusis)
+صَمَمٌ	anakusis
+صَمَم	deafness
+صمم	emboli
+صَمَم	hearing loss (deafness)
+صَمَم	surditas (congenital deafness)
+صَمَم	surdity
+صَمَمٌ إَدْراكِيّ	perceptive deafness
+صَمَمُ الأَصْواتِ الجَهيرَة	bass deafness
+صَمَمُ الدِّماغِ المُتَوَسِّط	midbrain deafness
+صَمَمُ الرَّضْحِ الصَّوتِيّ	acoustic-trauma deafness
+صَمَمُ الزُّهْرِيّ	syphilitic deafness
+صَمَمُ آلِكسَنْدر	Alexander's deafness
+صَمَمٌ ألكسندري	Alexander's hearing loss
+صَمَمُ الكَلِمات	word deafness (auditory aphasia)
+صَمَمُ المُوسيقَى	music deafness
+صَمَمُ النَّغَم	tone deafness
+صَمَمٌ بَاجِيتيّ	pagetoid deafness
+صَمَمٌ باجيتي	pagetoid hearing loss
+صَمَمٌ بإِصابَةِ الرَأْس	head injury deafness
+صَمَمٌ بَرَّانِيُّ المَنْشَأْ	adventitious deafness
+صَمَمٌ بَعْدَ القَوقَعَة	retrocochlear deafness
+صَمَمٌ تالٍ للنُّطْق	postlingual deafness
+صَمَمُ تَسَمُّمِ الأُذُن	ototoxic deafness
+صَمَمُ تَسَمُّمِ الأُذُن	ototoxic hearing loss
+صَمَمٌ تَسَمُّمِيّ	toxic deafness
+صَمَمٌ تَنَاقُضِيٌّ	paradoxic hearing loss
+صمم توصيلي	conduction deafness
+صَمَمٌ تَوصيلِيّ	conduction deafness (conductive deafness)
+صَمَمٌ تَوصيلِيّ	conductive hearing loss
+صمم توصيلي	deafness, conductive
+صمم توصيلي	hearing loss, conductive
+صَمَمٌ تَوصيلِيّ	transmission hearing loss
+صَمَمٌ تيهِيّ	labyrinthine deafness
+صَمَمٌ جُزْئِيّ	bradyecoia
+صَمَمٌ حِسِّيٌّ عَصَبِيّ	sensorineural deafness
+صَمَمٌ خِلْقِيّ	congenital hearing loss
+صَمَمٌ رَضْحِيّ	traumatic deafness
+صَمَمٌ سابقٌ للنُّطْق	prelingual deafness
+صَمَمٌ سَكْتِيُّ الشَكْل	apoplectiform deafness
+صَمَمُ شايبِه	Scheibe's deafness
+صَمَمٌ شِقِّيّ	hemianacusia
+صَمَمٌ شَيخوخِيّ	presbyacusia
+صَمَمٌ شَيخوخِيّ	presbycusis
+صَمَمٌ شَيخُوخِيّ	senile deafness
+صَمَمٌ صِمْلاخِيّ	ceruminous deafness
+صَمَمٌ عائِلِيّ	familial deafness
+صمم عصبي	deafness, nerve = deafness, neural
+صمم عصبي	hearing loss, sensorineural
+صَمَمٌ عَصَبِيّ	nerve deafness
+صَمَمٌ عَصَبِيّ	neural deafness
+صَمَمٌ عَصَبِيٌّ حِسِّيّ	sensorineural hearing loss
+صَمَمٌ عُضْوِيّ	organic deafness
+صَمَمُ عُمَّالِ المَراجِل	boilermaker's deafness
+صَمَمٌ قِشْرِيّ	cortical deafness
+صَمَمٌ قَوقَعِيّ	cochlear deafness
+صَمَمٌ لاعُضْوِيّ	non-organic hearing loss
+صَمَمٌ لاعُضْوِيّ	nonorganic hearing loss
+صَمَمٌ مُتَناقِض	paradoxic deafness
+صَمَمٌ مُحْدَثٌ بالأَدْوِيَة	drug-induced hearing loss
+صَمَمٌ مُحْدَثٌ بالضَّوضاء	noise-induced deafness
+صَمَمٌ مُحْدَثٌ بالضَّوضاء	noise-induced hearing loss
+صَمَمٌ مُخِّيّ	cerebral deafness (cortical deafness)
+صَمَمٌ مَرْكَزِيّ	central deafness
+صَمَمٌ مَلاَرِيّ	malarial deafness
+صَمَمٌ مِهْنِيّ	occupational deafness
+صَمَمُ مُوندِيني	Mondini's deafness
+صَمَمُ مِيشيل	Michel's deafness
+صَمَمٌ نَقْلِيّ	transmission deafness
+صَمَمٌ هِسْتيرِيّ	hysterical deafness
+صَمَمٌ وِراثِيّ	genetic deafness
+صَمَمٌ وَظيفِيّ	functional deafness
+صَمَمٌ وِعائِيّ	vascular deafness
+صِمَّةٌ سَرَطانِيَّة	cancer embolus
+صِمَّةٌ وَرَمِيَّة	tumor embolus
+صندوق الالتواء	torsion boX
+صُوام	apastia
+صَوتٌ امْتِصاصِيٌّ تالٍ للسُّعال	post tussis suction sound
+صورةُ أو نَمَطُ الحسَّاسية الاتجاهية	directional sensitivity pattern
+صُوفان	tinder
+صِياحُ الدِّيك	cantus galli (laryngismus stridulus)
+صَيدَلِيَّةُ المَرْضَى الخارجِيَّين	outpatient pharmacy
+صَيدَلِيَّةُ المَرْضَى الدَّاخِلِيِّيْن	inpatient pharmacy

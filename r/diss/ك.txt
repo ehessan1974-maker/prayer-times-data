@@ -1,0 +1,406 @@
+كائن بيئة جافة	xerophilous
+كابِحُ الجُذام	leprostatic
+كابِحُ السَّرَطان	cancerostatic
+كابِحُ السَّرَطان	carcinostatic
+كابِحُ المَرَض	morbidostatic
+كابِحُ الهستيريا	hysterofrenic
+كابور	kabure
+كاتب الجرّات	stroke writer
+كارْبروفين	carprofen
+كارْفينازين	carphenazine
+كارْمُوسْتين	carmustine
+كاروسِل	Carousel
+كازاي	kasai
+كاكودِيل	kakodyl
+كالاَّك	kallak
+كَالْفاسين	calvacin
+كَالُوسْتِيرون	calusterone
+كانيامبا	kanyemba
+كايتُوبْيوز	chitobiose
+كُباد صفراوي	biliary cirrhosis
+كبح	intrusion = tooth depression
+كبح طفيلي	parasite drag
+كَبِدُ التِّيفِيَّة	typhoid liver
+كَبِدٌ ثَلْجَانِيَّةُ الظَّاهِر	frosted liver (perihepatitis chronica hyperplastica)
+كَبِدٌ ثَلْجَانِيَّةُ الظَّاهِر	sugar-icing (perihepatitis chronica hyperplastica)
+كتابة التوليد من الخَطَّة	stroke-generated writing
+كَتِفٌ مُتَجَمِّدَةٌ	frozen shoulder (adhesive capsulitis)
+كَتِفٌ مُرْتَفِعَة	elevated scapula (Sprengel's deformity)
+كثافة الانخلاع	density of dislocation
+كثافة الفيض الإشعاعى المحدث التهاب للجلد	erythemal irradiance
+كثافة في الحالة الجافة	dry density
+كَثْرَةُ الخَلايَا البَدِيْنَةِ	malignant mastocytosis (mast cell leukemia)
+كَثْرَةُ الخَلاَيَا المِنْجَلِيَّة	meniscocytosis (sickle cell anemia)
+كَثْرَةُ الكُرَيَّاتِ الحُمْرِ و البيض	erythroleukoblastosis (icterus gravis neonatorum)
+كَثْرَةُ النِّقَوِيَّاتِ القَليلَةِ البِيض	leukopenic myelosis (aleukemic leukemia)
+كَثْرَةُ النِّقَوِيَّاتِ اللاتَنَسُّجِيَّة	aplastic myelosis (aplastic anemia)
+كَدْمات	ecchymoses [sing.ecchymosis]
+كَدْمة	bruise
+كَدَمَة	bruise (=ecchymosis)
+كدمة	ecchymosis
+كَدْمَة	ecchymosis [pl.ecchymoses]
+كَدَمَةُ الثَّدْي	mastecchymosis
+كَدَمَةُ المُقْلَة	ophthalmecchymosis
+كَدَمَةُ تَحْتَ الظُّفُر	hyponychon
+كَدَمَةٌ صُلْبَة	stone bruise
+كَذِْبٌ تَخَيُّلِيّ	pseudologia fantastica (pathologic lying)
+كَرَّاءَة سِلسِليَّة	chapelet
+كَرْباريل	carbaryl
+كَرْباسْبيرين	carbaspirin
+كَرْبُوهِيدْرَات	carbohydrates
+كَرْبيتابِنْتات	carbetapentane
+كَرْبينُوكْسُولُون	carbenoxolone
+كُرسيّ باث: كرسيّ ذو عجلات خاص بالمرضى	Bath chair
+كَرْكَنْد	lobster
+كُرَةٌ فُطْرِيَّة	fungus ball (aspergilloma)
+كرُو-كرُو	craw-craw
+كرُوتُامِيتون	crotamiton
+كروماتيدات غير شقيقة	nonsister chromatids
+كرُومُوغليكات	cromoglycate
+كرُومُولين	cromolyn
+كُزَاز	tetanus
+كُزازٌ آجِل	delayed tetanus (chronic tetanus)
+كُزازُ الخَوفِ مِنَ الماء	hydrophobic tetanus (cephalic tetanus)
+كزاز الرأس	cephalotetanus
+كُزازُ الرَّضيع	tetanus infantum (tetanus neonatorium)
+كُزازُ الوَليْد	neonatal tetanus
+كُزازُ الوَليد	tetanus neonatorum
+كُزازٌ أَمامي	tetanus anticus
+كُزازٌ بدُونِ حُمَّى	apyretic tetanus
+كُزازٌ تالٍ للاسْتِمْصال	postserum tetanus
+كُزازٌ تالٍ للعَمَلِيَّة	postoperative tetanus
+كُزازُ جانان	Janin's tetanus (cephalic tetanus)
+كُزازٌ جِراحِيّ	surgical tetanus
+كُزازٌ حَشَوِيّ	splanchnic tetanus
+كُزازٌ خَلْفِيّ	tetanus posticus (tetanus dorsalis)
+كُزازٌ رأسيّ	cephalic tetanus
+كُزازٌ رَأْسِيّ	head tetanus
+كُزازٌ رَأْسِيّ	kopf tetanus (cephalic tetanus)
+كُزازٌ رَأْسِيّ	kopf-tetanus
+كُزازٌ رَحِمِيّ	uterine tetanus
+كُزازُ روز	Rose's tetanus (cephalic tetanus)
+كُزازٌ شَلَلِيّ	paralytic tetanus (cephalic tetanus)
+كُزازٌ ظَهْرانِيّ	tetanus dorsalis (tetanus posticus)
+كُزازٌ كاذِب	pseudotetanus
+كُزازُ كليم	Klemm's tetanus (cephalic tetanus)
+كُزَازٌ مُتَعَمِّم	tetanus completus
+كُزازٌ مُتَناقِض	tetanus paradoxus (cephalic tetanus)
+كُزازٌ مَجْهولُ السَّبَب	cryptogenic tetanus
+كُزازٌ مَجْهولُ السَّبَب	idiopathic tetanus
+كُزازٌ مُحَوَّر	modified tetanus
+كُزازٌ مُخِّيّ	cerebral tetanus (cephalic tetanus)
+كُزَازٌ مُزْمِنٌ	chronic tetanus (delayed tetanus)
+كُزازٌ نِفاسِيّ	puerperal tetanus
+كَزَم	clenching
+كُسَاح	rickets
+كَسْبٌ مَرَضِيٌّ	epinosic gain (secondary gain)
+كَسْبٌ مَرَضِيٌّ	paranosic gain (primary gain)
+كَسْر	fracture
+كسر "بنيت"	Bennett's fracture (of the thumb)
+كسر "بوط"	fracture, Bott's
+كسر "كولس"	Colle's fracture
+كسر "كوليز"	fracture, Colles
+كسر "مور"	fracture, Moore's
+كسر "مونتيجيا"	fracture, Monteggia's
+كسر أخدودي	fracture, gutter
+كَسْرٌ إِزْميلِيّ	chisel fracture
+كسر اغتذائي	fracture, trophic
+كَسْرٌ اغْتِذَائِيّ	trophic fracture
+كَسْرُ الإِعْدامِ بالشَّنْق	hangman fracture
+كَسْرُ التَّعَب	fatigue fracture
+كَسْرُ التَّفادي	parry fracture
+كَسْرٌ الْتِهابِيّ	inflammatory fracture
+كسر التوائي	fracture, torsion = spiral fracture
+كَسْرٌ الْتِوائِيّ	torsion fracture
+كَسْرُ الجَدْل	shaft fracture
+كَسْرُ الحَدِّ القاطِع	incisal edge fracture
+كسر الحُقّ	acetabulum, fracture of
+كَسْرُ الرَّاكِضين	sprinters' fracture
+كَسْرُ الزَّاوِيَة	angle fracture
+كَسْرُ الزَّاوِيَةِ القاطِعَة	incised angle fracture
+كسر الشنق	fracture, hangmans
+كَسْرُ الشَّوكَةِ الفِضِّيَّة	silver-fork fracture
+كَسْرُ الصَّفْصَاف	willow fracture
+كَسْرُ الطَّلْقِ النَّارِيّ	gunshot fracture
+كَسْرُ العُرْوَة	buttonhole fracture (perforating fracture)
+كَسْرُ الغُصْنِ النَّضير	greenstick fracture
+كَسْرُ الفَكّ	jaw fracture
+كَسْرُ الفَكِّ السُّفْلِيّ	mandibular fracture
+كَسْرُ الفَكِّ العُلْوِيّ	maxillary fracture
+كَسْرُ القَوسِ الوَجَنِيَّة	zygomatic fracture
+كَسْرُ المَسيرات	march fracture
+كَسْرُ المِصَدّ	bumper fracture
+كَسْرُ المِظَلِيِّين	paratrooper fracture
+كَسْرُ المُلاَكِمين	boxer's fracture
+كَسْرُ الوَجْنَة	zygoma fracture
+كَسْرٌ انْحِنائِيّ	bending fracture
+كَسْرٌ انْشِطارِيّ	cleavage fracture
+كسر إنشقاقي , مكسر إنشقاقي	cleavage fracture
+كَسْرٌ انْضِغاطِيّ	compression fracture
+كَسْرٌ انْضِغاطِيّ	pressure fracture
+كَسْرٌ انْفِجارِيّ	blow-out fracture
+كَسْرٌ انْفِجارِيّ	bursting fracture
+كَسْرٌ أَنْفِيّ	nasal fracture
+كسر باثولوجي	fracture, pathologic = scondary fracture = spontaneous fracture
+كَسْرُ بارتون	Barton's fracture
+كَسْرٌ بُحَيرِيّ	pond fracture
+كسر بسيط	fracture, simple
+كَسْرٌ بَسِيْطٌ	simple fracture (closed fracture)
+كَسْرٌ بشَكْلِ الزَّاوِيَة	fracture en coin
+كَسْرٌ بعَدَمُ التَّكَوُّن	agenetic fracture
+كسر بِلّوري	crystalline fracture
+كَسْرُ بوت	Bott fracture
+كَسْرُ بوت	Pott's fracture
+كَسْرٌ بَينَ المَدْوَرَين	intertrochanteric fracture
+كَسْرُ بينيت	Bennett's fracture
+كَسْرٌ تاجِيّ	coronal fracture
+كسر تام	fracture, complete
+كَسْرٌ تَبْعيدِيّ	abduction fracture
+كسر تحت الجلد	fracture, subcutaneous = closed fracture
+كَسْرٌ تَحْتَ الجِلْد	subcutaneous fracture
+كسر تحت السمحاق	fracture, subperiosteal
+كَسْرٌ تَحْتَ السِّمْحاق	subperiosteal fracture
+كَسْرٌ تَحْتَ رَأْسِ العَظْم	subcapital fracture
+كَسْرٌ تَقْريبِيّ	adduction fracture
+كسر تلقائي	fracture, spontaneous
+كَسْرٌ تلقائي	spontaneous fracture
+كَسْرٌ ثاقِب	perforating fracture
+كسر ثانوي	fracture, secondary = pathologic fracture
+كَسْرٌ ثانَوِيّ	secondary fracture
+كَسْرٌ ثُنَائِيُّ الجَانِب	bilateral fracture
+كَسْرٌ جِراحِيّ	surgical fracture
+كَسْرٌ جُزْئِيّ	partial fracture
+كَسْرٌ حُبَيبيٌّ	granular fracture
+كسر حلزوني	fracture, spiral = torsion fracture
+كَسْرٌ حَلَزونِيّ	spiral fracture
+كَسْرٌ حَولَ المَفْصِل	periarticular fracture
+كَسْرٌ حَيدِيّ	torus fracture
+كَسْرٌ خارِجَ المِحْفَظَة	extracapsular fracture
+كسر خارج المحفظة	fracture, extracapsular
+كسر خطي	fracture, linear
+كَسْرٌ خَطِّيّ	linear fracture
+كَسْرٌ خَفِيّ	occult fracture
+كَسْرٌ خَلْعِيّ	dislocation fracture
+كسر خلعي	fracture - dislocation
+كسر خلعي	fracture, dislocation
+كَسْرٌ خَلْعِيّ	fracture-dislocation
+كَسْرٌ خِلْقِيّ	congenital fracture
+كسر داخل الرحم	fracture, intrauterine
+كَسْرٌ داخِلَ الرَّحِم	intrauterine fracture
+كسر داخل السمحاق	fracture, intraperiosteal
+كَسْرٌ دَاخِلَ السِّمْحاقِ	interperiosteal fracture
+كَسْرٌ داخِلَ السِّمْحاق	intraperiosteal fracture
+كسر داخل المحفظة	fracture, intracapsular
+كَسْرٌ داخِلَ المِحْفَظَة	intracapsular fracture
+كسر داخل المفصل	fracture, intra-articular
+كَسْرٌ داخِلَ المَفْصِل	intra-articular fracture
+كَسْرٌ دَقِيْقٌ	microfracture (hairline fracture)
+كَسْرُ دوفيرني	Duverney's fracture
+كَسْرُ رَجْعِ الضَّرْبَة	fracture by contrecoup
+كَسْرُ رُماةِ القَنابِلِ اليَدَوِيَّة	grenade-thrower's fracture
+كسر سائب	fracture, loose
+كَسْرُ ستيدا	Stieda's fracture
+كَسْرُ سكيلرن	Skillern's fracture
+كَسْرُ سميث	Smith's fracture
+كَسْرٌ شَبِيْهٌ بالشَّعْرَةِ	hairline fracture
+كَسْرٌ شَبِيْهٌ بالمَاسُوْرَةِ	lead pipe fracture
+كسر شرخي	fracture, fissure
+كَسْرٌ شَعْرِيّ	hairline fracture (microfracture)
+كَسْرٌ شُعَيرِيّ	capillary fracture
+كَسْرٌ شَقِّيّ	fissure fracture
+كَسْرٌ شَقِّيّ	fissured fracture
+كَسْرُ شيبَرد	Shepherd's fracture
+كَسْرٌ صَمَّاوِيّ	endocrine fracture
+كَسْرُ ضَعْفِ العِظام	dyscrasic fracture
+كَسْرٌ ضُمورِيّ	atrophic fracture
+كَسْرٌ طولاَنِيّ	longitudinal fracture
+كسر طولي	fracture, longitudinal
+كَسْرٌ عَبْرَ العُنُق	transcervical fracture
+كَسْرٌ عَبْرَ اللُّقْمَة	diacondylar fracture (transcondylar fracture)
+كسر عبر اللقمة	fracture, transcondylar = diacondylar fracture
+كَسْرٌ عَبْرَ اللُّقْمَة	transcondylar fracture
+كَسْرٌ عَبْرَ المَدْوَرَين	pertrochanteric fracture
+كَسْرٌ عَصَبِيُّ المَنْشَأْ	neurogenic fracture
+كَسْرٌ عُنْقودِيّ	tuft fracture (bursting fracture)
+كَسْرُ غالياتزي	Galeazzi's fracture
+كَسْرُ غُصْنِ الجَوز	hickory-stick fracture (greenstick fracture)
+كَسْرُ غوسلان	Gosselin's fracture
+كسر غير مباشر	fracture, indirect
+كَسْرٌ غَيرُ مُسْتَحَبٍّ	unfavorable fracture
+كَسْرٌ غَيرُ مُكْتَمِلٍ	imperfect fracture
+كَسْرُ غيران	Guerin's fracture
+كَسْرٌ فَراشِيُّ الشَّكْل	butterfly fracture
+كَسْرٌ فَكِّيٌّ عُلْوِيٌّ أُفُقِيّ	horizontal maxillary fracture
+كسر فوق القمي	fracture, supracondylar
+كَسْرٌ فَوقَ اللُّقْمَة	supracondylar fracture
+كَسْرٌ قاطِع	resecting fracture
+كَسْرُ قاعِدَةِ الجُمْجُمَة	basal skull fracture
+كَسْرُ قاعِدَةِ عُنُقِ الفَخِذ	basocervical fracture
+كَسْرٌ قَدَحِيّ	cup fracture
+كَسْرٌ قِطَعِيّ	segmental fracture
+كَسْرٌ قَلْعِيّ	avulsion fracture
+كَسْرٌ كامِل	complete fracture
+كسر كردوسي	fracture, epiphyseal
+كَسْرٌ كَعْبِيٌّ ثُلاَثِيّ	trimalleolar fracture
+كسر كلالي	fracture, fatigue
+كَسْر كُولِزْ	Colles' fracture
+كَسْرُ كولس العَكْسِيّ	reverse Colles fracture
+كَسْرُ كوليس	Colles' fracture
+كَسْرُ كيرفان	Quervain's fracture
+كسر لا تكوني	fracture, agenetic
+كَسْرٌ لامُباشِر	indirect fracture
+كسر لدن	fracture, greenstick
+كَسْرٌ لُقْمِيّ	condylar fracture
+كسر لقمي	fracture, condylar
+كَسْرُ لوفور	Le Fort's fracture
+كَسْرٌ مُؤَجَّل	deferred fracture
+كَسْرٌ مائل	fracture, oblique
+كسر مائل	fracture, obtique
+كَسْرٌ مائِل	oblique fracture
+كَسْرٌ مُباشِر	direct fracture
+كَسْرٌ مُتَخَرِّم	fracture, ragged
+كسر متشظ	fracture, splintered
+كسر متعدد	fracture, multiple
+كَسْرٌ مُتَعَدِّد	multiple fracture
+كَسْرٌ مُتَعَسِّرُ الرَّدِ	irreducible fracture
+كَسْرٌ مَجْهُوْلُ السَّبَب	idiopathic fracture
+كسر مدغم	fracture, impacted
+كسر مدوري	fracture, pertrochanteric
+كَسْرٌ مُرْتَخٍ	loose fracture
+كَسْرٌ مَرَضِيّ	pathologic fracture
+كَسْرٌ مَرَضِيّ	pathological fracture
+كَسْرٌ مُرَكَّب	compound fracture
+كَسْرٌ مُرَكَّب	compound fracture (open fracture)
+كَسْرٌ مُرَكَّب	fracture, compound
+كسر مركب	fracture, compound = open fracture
+كَسْرٌ مَزْدَوِج	double fracture
+كسر مزدوج	fracture, double
+كَسْرٌ مُسْتَحَبّ	favorable fracture
+كَسْرٌ مُسْتَعْرِض	transverse fracture
+كَسْرٌ مُسْتَعْرِضُ السَّطْح	fracture en rave
+كَسْرٌ مَسْتَعْرِضٌ للفَكِّ العُلْوِيّ	transverse maxillary fracture
+كَسْرٌ مَسَنَّن	dentate fracture
+كَسْرٌ مُشاشِيّ	epiphyseal fracture
+كَسْرٌ مُشَظِّى	chip fracture
+كَسْرٌ مُشَظَّى	splintered fracture
+كَسْرٌ مُضاعَف	compound fracture
+كسر مضاعف	fracture, complicated
+كسر مضاعف	fracture, open = compound fracture
+كَسْرٌ مُضاعَفِيّ	complicated fracture
+كسر مضغوط	fracture, compression
+كَسْرٌ مُغْلَق	closed fracture
+كسر مغلق	fracture, closed
+كَسْرٌ مُغْلَقٌ مُرَكَّب	complex simple fracture
+كَسْرٌ مُفَتَّت	comminuted fracture
+كسر مفتت	fracture, comminuted
+كَسْرٌ مَفْتوح	open fracture
+كَسْرٌ مَفْصِلِيّ	articular fracture
+كسر مفصلي	fracture, articular
+كسر مفصلي	fracture, joint
+كَسْرٌ مَفْصِلِيّ	joint fracture
+كَسْرُ مِقْبَضِ الدَّلْو	bucket-handle fracture
+كَسْرُ مِقْعَدِ الدَّرَّاجَة	pillion fracture
+كَسْرٌ مِلاَطِيّ	cementum fracture
+كَسْرٌ مُنْحَشِر	impacted fracture
+كَسْرٌ مُنْخَسِف	depressed fracture
+كَسْرٌ مُنْخَسِف	ping-pong fracture
+كَسْرٌ مُنخفِض	depressed fracture
+كسر منخفض	fracture, depressed
+كَسْرٌ مُنْزاح	displaced fracture
+كَسْرُ مور	Moore's fracture
+كَسْرُ مونتيجيا	Monteggia's fracture
+كَسْرٌ ميزابِيّ	gutter fracture
+كسر ناقص	fracture, incomplete
+كَسْرٌ ناقِص	incomplete fracture
+كَسْرٌ نُتوئِيّ	apophyseal fracture
+كسر نتوئي	fracture, apophyseal
+كسر نجمي	fracture, stellate
+كَسْرٌ نَجْمِيّ	stellate fracture
+كَسْرٌ هَرْسِيّ	crush fracture
+كَسْرٌ هَرَمِيّ	pyramidal fracture (of maxilla)
+كَسْرُ واغستاف	Wagstaffe's fracture
+كَسْرٌ وَثْئِيّ	sprain fracture
+كَسْرٌ وَثْئِيّ	strain fracture (sprain fracture)
+كَسْرٌ وَجْنِيّ	malar fracture
+كَسْرٌ وَجْهِيٌّ مُسْتَعْرِض	transverse facial fracture
+كَسْرٌ وَحيدُ الجانِب	unilateral fracture
+كَسْرٌ وَخْزِيّ	puncture fracture (perforating fracture)
+كسر ورمي	fracture, neoplastic
+كَسْرٌ وَرَمِيّ	neoplastic fracture
+كَسْرٌ وِلاَدِيّ	birth fracture
+كُسورُ الفَكِّ السُّفْلِيّ	fractures of mandible
+كُسُورُ لوفور	Le Fort fractures
+كَسيح	cripple
+كَشْف	finding
+كفاءة الإمساك	efficiency of catch
+كلّ مادة سريعة الالتهاب	tinder
+كُلاَّبُ وَصل	joint cramp
+كُلاَسُ الغَضاريف	chondrocalcinosis (pseudogout)
+كَلالُ الارتِجاج	vibration fatigue
+كلب	rabies; hydrophobia
+كَلَبٌ شَلَلِيّ	paralytic hydrophobia (paralytic rabies)
+كَلَبٌ شَلَلِيّ	sullen rabies (dumb rabies)
+كَلَبٌ صامِت	dumb rabies (paralytic rabies)
+كَلَبٌ هِياجيّ	furious rabies
+كَلَفٌ أَديسُونِيّ	melasma addisonii (Addison's disease)
+كَلَفٌ كُظْرِيّ	melasma suprarenale (Addison's disease)
+كلوُبريِدْنُول	cloprednol
+كلُوبِنْتِيكْسُول	clopenthixol
+كلُوبيراك	clopirac
+كلورامْبُوسيل	chlorambucil
+كلُوربرُوتِيكْسِين	chlorprothixene
+كلُوربرُومازين	chlorpromazine
+كلوروبكرين	chloropicrin, (vomiting - gas)
+كلوريد الفِضّة: مُرَكَّب حسّاس للضّوء	silver chloride
+كلُوفِيدْيانُول	chlophedianol
+كلُوكُورتُولُون	clocortolone
+كلِيبْرُوفين	cliprofen
+كُلْيَةُ الوَرَمِ النِّقْوِيّ	myeloma kidney
+كم كاذب	pseudoperianth
+كمش شقّي - عمى شقّي	hemiamblyopia = hemianopia = hemiopia = hemianopsia
+كُمْنَة	amaurosis
+كمنة التسمم البولي	amaurosis, uraemic
+كُمْنَةُ التسَمُّمِ بالكِينين	quinine amaurosis
+كُمْنَةُ السُّكَّرِيّ	diabetic amaurosis
+كُناز	thesaurismosis (storage disease)
+كُناز	thesaurosis (storage disease)
+كُنازٌ كيراسينيّ	kerasin thesaurismosis (Gaucher's disease)
+كُنازٌ مائِيّ	water thesaurismosis (edema)
+كُنازٌ مِيلانينيّ	melanin thesaurismosis (Addison's disease)
+كُنازٌ يوراتي	urate thesaurismosis (gout)
+كهرباء علم الامراض	electropathology
+كَواحِلُ البَحَّارَة	deck ankles
+كوارث التلوث	plagues of pollution
+كواشيوركور	kwashiorkor
+كواشيوركور سَغَلِيّ	marasmic kwashiorkor
+كُوبارافينات	coparaffinate
+كُورْمِيثازُونْ	cormethasone
+كوكتيل مولوتوف: قنبلة يدوية مصنوعة من	Molotov cocktail
+كُوليرا	cholera
+كوليرا آسْيَوِيَّة	Asiatic cholera
+كوليرا الخنازير	hog cholera
+كوليرا الدَّجاج	chicken cholera
+كوليرا الطُّيور	cholera gallinarium (fowl cholera)
+كوليرا الطُّيور	fowl cholera
+كوليرا بَنْكِرْياسِيَّة	pancreatic cholera
+كوليرا تيفِيَّة	typhoid cholera
+كوليرا جافَّة	cholera sicca
+كوليرا جافَّة	cholera siderans (cholera sicca)
+كوليرا جافَّة	dry cholera (cholera sicca)
+كوليرا شَتَوِيَّة	winter cholera
+كوليرا صاعِقَة	cholera fulminans (cholera sicca)
+كوليرا صاقِعَة	algid cholera
+كوليرا صَيفِيَّة	summer cholera
+كوليرا طِفْلِيَّة	cholera infantum
+كوليرا مُمْرِضَة	cholera morbus (summer cholera)
+كُوليراجين	choleragen
+كُونْكانافالينُA	concanavalin A
+كويتر	goitre
+كيتر جحوظي	exophthalmic goitre
+كيتوبروفين	ketoprofen
+كيراتان	keratan
+كيسُ الفَتْق	hernial sac
+كيسَةٌ خالِيَةٌ مِنَ الرُّؤوس	acephalocyst
+كيناكْرِين	quinacrine
+كينُولين	quinoline
+كَينونَةٌ مَرَضِيَّة	ens morbi

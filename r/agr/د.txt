@@ -1,0 +1,96 @@
+د.د.ت: مبيد للحشرات شديد الفعالية	DDT
+داءُ البَساتين	bush sickness
+داءُ التَّعَرُّق	sweating sickness
+داءُ التَّلاسِيمِيَّةِ التَّمَنْجُلِيّ	thalassemia-sickle cell disease
+داءُ التَّلاَسيمِيَّةِ المِنْجَلِيّ	sickle cell-thalassemia disease
+داءُ الخَيطِيَّاتِ التَّاجِيَّة	stephanofilariasis
+داءُ الرُّزّ	rice disease (beriberi)
+داءُ الشُّعَّارِيَّات	capillariasis
+داءُ الشَّعْرينات	trichinosis
+داءُ الشُّعَيْرات	telangiosis
+داءُ الطُّعْمِ حِيَالَ الثَّوِيّ	graft-versus-host disease
+داءُ الكُرَيَّاتِ المِنْجَلِيَّة	sickle-cell disease
+داءُ الكريات المنجلية الصغيرة	microdrepanocytic disease (sickle cell thalassemia)
+داء اللبن: مرض من أَعراضه التقيّؤ	milk sickness
+داءُ المُخاطِيَّات	mucosal disease
+داءُ الهِيموغلوبينِ المِنْجَلِيّC	sickle cell-hemoglobin C disease
+داءُ الهِيموغلوبينِ المِنْجَلِيّD	sickle cell-hemoglobin D disease
+داءُ أوسلر-ويبر-رِيندو	Osler-Weber-Rendu disease (hereditary hemorrhagic telangiectasia)
+داءُ بِرَنهارد-روث	Bernhardt-Roth disease (meralgia paresthetica)
+داءُ بكتو	Pictou disease
+داءُ بُوستُوك	Bostock's disease (hay fever)
+داءُ جُون	Johne's disease (chronic dysentery of cattle)
+داءُ جيرليه	Gerlier's disease
+داءُ رنت	Runt disease (graft-versus-host disease)
+داءُ ريندو-أوسلَر-ويبَر	Rendu-Osler-Weber disease (hereditary hemorrhagic telangiectasia)
+داءُ زاغاري	Zagari's disease (xerostomia)
+داءُ شابِكاتِ الجِذْع	dictyocauliasis
+داءُ عُمَّالِ الصَّوامِع	silo-fillers' disease
+داءُ عُمَّالِ الكَتَّان	flax-dresser's disease
+داءُ غولدشتاين	Goldstein's disease (hereditary hemorrhagic telangiectasia)
+داءُ مايوكي	Majocchi's disease (purpura annularis telangiectodes)
+داءُ نَيرُوبِي	Nairobi disease
+دائرة الدراسات الفنية	Technical Studies Department
+دائرة دراسات الموارد البشرية	Human Resources Studies
+داخِلَ الشُّعَيرات	intracapillary
+دارةُ إعاقةِ النَّبْض	pulse delay circuit
+دالة ديراك	Dirac function; Dirac delta function; unit pulse; unit impulse, US
+دخن	millet
+دراسات أدبية مَدْعومة بالحاسوب	computer assisted literary studies
+دراسات الحَرَكَة المُرُورية	traffic flow studies
+دِرَاسَاتُ السَلامَةِ	Safety Cases
+دِرَاسَاتُ الْمَرْدُودِيَّةِ	cost-benefit studies
+دِرَاسَاتُ الْوَقْعِ	transport impact studies
+دراسات بيئية	ecological studies
+دِراساتٌ تتعلقُ بالمِياه الجَوفيَّة	hydrological studies
+دراسات تجريبية للأدب	empirical studies of literature
+دراسات تقييم ابتدائي	primary valuation studies
+دراسات ثقافية ُمقارنة	cultural studies (comparative..)
+دراسات محو الأميّة	Literacy Studies
+دراسات محو الأميّة الحديثة	New Literacy Studies
+دراسات معدنية ضوئية	optical mineralogy
+دراسات معدنية ضوئية	optical minéralogy
+دَرَّاسة	thrasher
+دَرَّاسَة	thresher = threshing machine
+دراسة مستقلة للوضع السمكي	fishery independent survey
+درجة حرارة التربة	soil temperature
+دَرَجةُ حَرارةِ سَطْحِ التُّربة	temperature of the soil surface
+درجة رطوبة التربة	soil moisture content
+درجة كفاءة التصريف	drainage degree
+دروس علم الفلاحة	geoponics
+دَرِيس	hay
+دريم كوتن	dream cotton
+دعم النشاط الزراعي	agricultural support
+دَفْع التربة	earth pressure
+دَفْع التربة الفعال	active earth pressure
+دفعة	burst (of pulses or oscillations)
+دَفيئَة	greenhouse
+دفيئة الكروم	vinery
+دقيق القمح الكامل أو الأسمر	whole wheat flour
+دقيق النخل	sago
+دَكٌّ	punning
+دكتوراه في دراسات الطاقة الشهادة المسلمة	PhD in Energy Studies Qualification Awarded: Doctorate/PhD
+دِكستروز	dextrose = d-glucose
+دكستروز	dextrose; d-glucose
+دليل الزرع	cropping index
+دَمان	compost
+دهان أولي بالكرومات	chromate primer
+دِهانُ بِطانَة	flatting
+دَواءُ الخُصوبَة	fertility drug
+دواجن	poultry
+دودة الحبوب	boll-worm
+دودة القشّ	strawworm
+دُودة القُطن	boll worm
+دودة القطن	Bollworm
+دودة القطن والذرة وغيرهما	bollworm
+دودة النخيل	palm- worm; palm-grub
+دودة النخيل	palm-worm
+دَورُ الخُصوبَة	fertile period
+دَوَرَان	rotation
+دورق منجلي	sickle flask
+دَوْرة	crop rotation
+دَورةٌ زِراعية	rotation of crops
+دَورَةٌ نَبْضِيَّة	pulse cycle
+دوم	DOM (ground)
+دِيْمِتَر: إلاهة الزراعة والخِصب عند	Demeter
+دِيوكْسِين	dioxin

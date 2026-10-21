@@ -1,0 +1,5 @@
+ظاهِرَةُ بسي	psi phenomenon
+ظاهِرَةُ ديبريه	Debre's phenomenon
+ظاهِرَةُ سوريه	Soret phenomenon
+ظاهِرَةُ هاتا	Hata phenomenon
+ظاهِرَةُ هوسيه	Houssay phenomenon

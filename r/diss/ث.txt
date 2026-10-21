@@ -1,0 +1,38 @@
+ثُؤْلولٌ تَشْريحِيّ	anatomical wart (tuberculosis verrucosa cutis)
+ثُؤْلولٌ تَشْريحِيّ	prosector's wart (tuberculosis verrucosa)
+ثُؤْلولٌ جُثِّيّ	postmortem wart (tuberculosis verrucosa cutis)
+ثُؤْلولٌ رَطْب	moist wart (condyloma latum)
+ثُؤْلولٌ سُخامِيّ	soot wart (chimney-sweeps cancer)
+ثُؤْلولٌ سُلِّيٌّ	tuberculous wart (tuberculosis verrucosa cutis)
+ثُؤْلولٌ مُؤَنَّف	acuminate wart (condyloma acuminatum)
+ثُؤْلولٌ مُؤَنَّف	pointed wart (condyloma acuminatum)
+ثُؤْلولٌ مَنْقُوْلٌ جنسيَّاً	venereal wart (condyloma acuminatum)
+ثابت الخفض الجزيئي	molecular depression constant
+ثالوثُ اِلْتِهابِ السَّحايا	meningitic triad
+ثَدْيٌ في بَادِرَةِ المَرَض	proemial breast
+ثَدْيٌ مُتَكَتِّل	caked breast (stagnation mastitis)
+ثَدْيٌ مُصاب	broken breast (mammary abscess)
+ثَرٌّ سُكَّرِيّ	glycorrhea
+ثَقَّابَةٌ مُتَعَدِّد الأَعمِدة	multi-spindle drill
+ثلاثي الدرنات	trituberculy
+ثلاثي السكريات	trisaccharides
+ثُلاَثيُّ أوكسالين	trioxsalen
+ثِلْث	tertian
+ثُنائيّ الالتواء: مُلتوٍ في موضعَيْن	biflex
+ثنائي السكريات	disaccharide
+ثُنائِيُّ الفلُوبرِيدنات	difluprednate
+ثُنائِيُّ الفلُوكُورتولُون	diflucortolone
+ثُنائِيُّ الفلُوميدون	diflumidone
+ثُنائِيُّ الميثوكسانات	dimethoxanate
+ثُنائِيُّ الهيكسيفِيرِين	dihexyverine
+ثُنائِيُّ هيدرو كُودِين	dihydrocodeine
+ثنائية التشمع	diactine
+ثَوِيُّ الطُّفَيلِيّ	parasitifer
+ثياسين	thiasine (ergothioneine)
+ثينيل ثُنائيِّ الأمين	thenyldiamine
+ثَيُوبروبوزات	thiopropazate
+ثَيُوتيبا	thiotepa
+ثيوتيبا	triethylenethiophosphoramide (thiotepa)
+ثَيُوريدازين	thioridazine
+ثيوزين	thiozine (ergothioneine)
+ثيونئين	thioneine (ergothioneine)

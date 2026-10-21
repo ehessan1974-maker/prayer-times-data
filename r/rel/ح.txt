@@ -1,0 +1,116 @@
+حاجز المَذْبح	altar rail
+حادثٌ محتوم	act of God
+حارف اللهب	flame deflector
+حارِفَةُ اللَّهَب	flame deflector
+حاروقٌ خَيْطِيُّ اللَّهَب	rat-tail burner
+حاروقٌ طَويلُ اللهَب	long-flame burner
+حاروقٌ مِرْوَحيّ اللَّهَب	fantail burner
+حاروقٌ نَفقيّ	tunnel burner
+حاصلُ الذكاء: رقم يمثّل ذكاء المرء بقسمة	intelligence quotient
+حافظ حجرة المقدَّسات	sacristan
+حافة البرميل	chime
+حافَةُ الحَجاج	margo orbitalis NA
+حافَةُ الحَجاجِ الإِنْسِيَّة	medial margin of orbit
+حافَةٌ سِنِّيَّة	dental ridge
+حالة إرتدادِ	recoil line; recoil curve; recoil loop
+حامضُ الكِبريتيك	sulphuric acid
+حامِض الكلوردريك	spirit(s) of salt
+حامِلُ الرَّبْطَة	ligature carrier
+حامل الشّمعة	taperer
+حامل اللهب	flame holder
+حاوى مرتد	swept envelope
+حاوية ضد اللهب	flameproof enclosure "d"
+حَبْلُ الرَّبْط	line, mooring
+حَبْلُ الرَّبْطِ الرئيسي	main mooring line
+حَبْلُ المُحَرِّكِ السِّنِّي	dental engine cord
+حبل ربط	mooring line
+حَبْلٌ سِنِّيّ	dental cord
+حبة البركة	fennel-flower
+حجاب الراهبة	wimple
+حَجَاج	orbit; orbita na [pl.orbitae]
+حَجَاجَان	orbitae [sing.orbita]
+حجارة الربط	tooth (the…)
+حَجَر الرِّباط: حجرٌ يمتدّ خلال الجدار	bondstone
+حجر الربط	bonder
+حَجَرُ الرَّبْط	bonder = bondstone
+حَجَرُ الربط	bondstone = bonder
+حجرٌ صُنعيٌّ مُعادُ التشكيل	reconstructed stone = precast stone
+حَجَرُالمُحَرِّكِ السِّنِّيّ	lathe stone
+حُجرة الطعام	refectory
+حُجرة النُّسّاخ	scriptorium
+حجم الحاوية, وصلة ضد اللهب	enclosure volume,
+حَدٌّ لَهَجِي	Isogloss
+حدود اللّهجة	Dialect Boundary
+حُدَيْبَة	quadrate tubercle
+حُرُّ الفكر. وبخاصة: المُلْحِد	freethinker
+حرارة الربط	heat of linkage
+حَرام: مكسوب بطرائق غير شرعيّة ill-gotten	ill-gotten
+حَرْف الاتّصال: الحَرْف الحادّ أو الزاوية	arris
+حَركةٌ سَريعة الارتِداد	quick-return motion
+حركة سيرإلى الأمام	ahead motion
+حَرَكَةُ مانْيان	Magnan's movement
+حريق البُركة	pool fire
+حرية الدين	freedom of religion
+حرية العبادة	freedom of worship
+حِزامُ الرَّبْط	mooring band
+حِزامٌ سِنِّيّ	cingulum dentis NA
+حزام ناقل ممال حاد	steep-gradient belt conveyor, bunk elevator
+حُزن	blue devils
+حزين	in poor or low spirit s
+حساب الربح والخسارة	profit and loss
+حِساباتُ الدَّين	receivable accounts
+حُسْن النية	bona fide; good faith
+حُسْنُ النّيّةِ	good faith
+حَسْناء الربيع	spring beauty
+حشيشةُ المُبارك: عشب من الفصيلة الوردية	avens
+حَشيشَةُ المَلاك	Angelica
+حشيشة الملاك	angelica
+حشيشة الملاك	anglica
+حَشيشَةُ المَلاك	Archangelica
+حِصَّة	allotment
+حصيرة إقلاع وحط	prayer mat
+حَطَبة الميلاد: حَطبة ضَخمة كانت تُتَّخذ	yule log
+حَفْر بنفْث اللهب	flame jet drilling
+حُفْرَةُ الرِّباطِ المُدَوَّر	fossa for ligamentum teres
+حُفْرَةُ الوَريدِ السُّرِّيّ	fossa venae umbilicalis (fissura ligamenti teretis)
+حُفْرَةُ ذَنَبِ الحَمام	dove tail cavity
+حفلة التعميد أو التنصير	christening
+حَقُّ استِردادِ العَقارِ المَرْهون	equity of redemption
+حَقّ استرداد المرهون	equity of redemption
+حقًا	in faith
+حقب	quaternary era
+حُقْنَةٌ أَمامِيَّةٌ تَحْتَ الحَجاج	anterior infraorbital injection
+حُقْنَةٌ تَحْتَ الحَجاج	infra-orbital injection
+حُقْنَةٌ تَحْتَ الحَجاجِ	infraorbital injection
+حُقْنَةٌ تَحْتَ الحَجاجِ مِنْ خارِجِ الفَم	extraoral infraorbital injection
+حُقْنَةٌ خَلْفِيَّةٌ تَحْتَ الحَجاج	posterior infra-orbital injection
+حُقْنَةٌ خَلْفِيَّةٌ تَحْتَ الحَجاجِ	posterior infraorbital injection
+حكامة الشركات	corporate governance (cg)
+حكومة القِدِّيسين	hagiocracy
+حَلاَّلُ النَّوى المُمَزِّق	Karyolysus lacertarum
+حَلاّلُ مُعادَلات	equation solver
+حُلاَلَة	lysate
+حُلاَلَة	sol
+حَلَزُوْناتُ كورشمان	Curschmann's spirals
+حِلْيةٌ ضَيِّقة	tringle
+حُمْرَةُ السَّواحِل	coast erysipelas (onchocerciasis)
+حَمَلُ الرَّبّ: «أ» جزء من القدّاس	Agnus Dei
+حَمَلُ الله: يسوع المسيح	Lamb of God
+حَمْلٌ بالرِّباطِ العَريض	broad ligament pregnancy
+حَمْلٌ داخِلَ الرِّباطِ العَريض	intraligamentary pregnancy
+حَمْلٌ داخِلَ الرِّباطِ العَريض	intraligamentous pregnancy
+حَمْلٌ كاذب داخِلَ الرِّباط	pseudointraligamentary pregnancy
+حُمَّى الربيع: شعور بالكَسَل أو القلق	spring fever
+حمى الروماتيزم الحادة	acute rheumatic fever
+حَنَكِيَّةُ	palatouvularis (=musculus uvulae)
+حَنْيٌ للأَمام	antecurvature
+حَنْيٌ للأَمام	anteflexion
+حواجز أمام الدخول	barriers to entry
+حوالة الدَّيْن	Assignment of Debt
+حوالة الدين	transfer of debt
+حوض التبخر	evaporation pond
+حوض أمامي	forebay; headbay; head water; upstream water
+حوكمة الشركات	Corporate Governance
+حَولَ الحَجاج	circumorbital
+حَيِّزُ	preperitoneal space
+حيوية الشّباب	animal spirits

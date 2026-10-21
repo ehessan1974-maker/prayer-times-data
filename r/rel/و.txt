@@ -1,0 +1,91 @@
+واجهة وحدة الربط	attachment unit interface
+وَتَدُ إسناد	reference peg
+وَتَدُ الرَّبْط	mooring post
+وَتِدٌ سِنِّيّ	dental wedge
+وَتَرُ	ligamentum palpebrale mediale
+وَثِقَ	trust
+وثنيّ	pagan
+وحدة الربط البصرية	Optical Link Module
+وحدة الربط الحلقي	Ring Main Unit (RMU)
+وحدة الوجود: القول بأن الله والطبيعة شيء	pantheism
+وَذَمَةُ الرِّئَةِ الرَّبيعِيَّة	vernal edema of lung
+وَذَمَةُ اللَّهاة	staphyledema
+وَذَمَةُ اللَّهاة	staphyloedema
+وَذَمَةٌ مُخاطِيَّةٌ أَمامَ الظُّنْبوب	pretibial myxedema
+وَذَمَةٌ مُخاطِيَّةٌ عُقَيْدِيَّة	nodular myxedema (pretibial myxedema)
+وِراثَةٌ مِنْ أَحَدِ الوالِدَين	alternative inheritance
+وِراثَةٌ مِنَ الوالِدَين	amphigenous inheritance (biparental inheritance)
+وِراثَةٌ مِنَ الوالِدَين	biparental inheritance
+وِراثَةٌ مِنَ الوالِدَين	duplex inheritance (biparental inheritance)
+وردة النيل	nile-lily
+وَرِع	prayerful
+وَرَقُ الرَّبْو	asthma paper (niter paper)
+ورق اللَّعِب: ورق الشدَّة أو الكوتشينة	devil's books
+ورق انجيل	bible paper
+وَرَقَةٌ غُفْل	fly leaf
+وَرَمٌ أَرُوْمِيٌّ سِنِّيّ	odontoblastoma
+وَرَمٌ أَرومِيٌّ مينائِيٌّ سِنِّيّ	odontoameloblastoma
+وَرَمُ اللَّهاة	staphyloncus
+وَرَمٌ حُبَيبِيٌّ سِنِّيّ	dental granuloma
+وَرَم سِنّي	dentinoma
+وَرَمٌ سِنِّيّ	odontoma
+وَرَمٌ سِنِّيّ	odontome (odontoma)
+وَرَمٌ سِنِّيٌّ أَرومِيٌّ مينائِيّ	ameloblastic odontoma
+وَرَمٌ سِنِّيٌّ بَسيط	simple odontoma
+وَرَمٌ سِنِّيٌّ تاجِيّ	coronal odontoma (coronary odontoma)
+وَرَمٌ سِنِّيٌّ تاجِيّ	coronary odontoma
+وَرَمٌ سِنِّيٌّ جَذْرِيّ	radicular odontoma
+وَرَمٌ سِنِّيٌّ ظِهارِيّ	epithelial odontoma
+وَرمٌ سِنِّيٌّ عَظْمِيّ	osteo-odontoma
+وَرَِمٌ سِنَّيٌّ كِيسِيّ	cystic odontoma
+وَرَمٌ سِنِّيٌّ لِيفِيّ	fibro-odontoma
+وَرَمٌ سِنِّيٌّ لِيفِيّ	fibrous odontoma
+وَرَمٌ سِنِّيٌّ مُتَكَلِّس	calcified odontoma
+وَرَمٌ سِنِّيٌّ مُتَوَسِّع	dilated odontoma
+وَرَمٌ سِنِّيٌّ مُخْتَلِط	mixed odontoma
+وَرَمٌ سِنِّيٌّ مُرَكَّب	composite odontoma
+وَرَمٌ سِنِّيٌّ مُضْغِيُّ التَّنَسُّج	embryoplastic odontoma
+ورم سِنّي مينائي	ameloblastic odontoma
+وَرَمٌ سِنِّيٌّ مينائيّ	odontoma adamantinum (ameloblastic odontoma)
+وَرَمٌ عَظْمِيٌّ سِنِّيّ	dental osteoma
+وَرَمٌ لِيفِيٌّ سِنِّيُّ المَنْشَأ	odontogenic fibroma
+وَرَمٌ لِيفِيٌّ مُخاطِيٌّ سِنِّيُّ	odontogenic myxofibroma
+وَرَمٌ مُخاطِيٌّ سِنِّيُّ المَنْشَأ	odontogenic myxoma
+وسائل الربط	connection facilities, pl
+وِسادَةٌ إِطْباقِيَّة	occlusal pad (dental operculum)
+وشاح صوفي	wool voile
+وَصْف الحادثة	description of accident
+وَصْلُ السير بالرباط	belt lacing
+وَصِلَةُ الرَبْطِ	Quick Path Interconnect
+وُصْلَةٌ اِمتداديَّة قِرانيَّة	joint, scarf
+وصلة امتدادية قِرانية	scarf joint
+وصلة ضد اللهب	flameproof joint
+وضع الشركات	Corporate Positioning
+وضع في الأخدود	hell in(to)
+وَضْعَةُ الصَّلْب	crucifixion attitude
+وعاء التقطير الجوّي المرتد	atmospheric column reflux drum
+وعاءُ الغاز المُعاد إلى الضاغِط	recycle compressor drum
+وعاء القربان المقدَّس	monstrance
+وعاء المَيْرون أو الزيت المقدَّس	chrismatory
+وعاء تهدئة الإزوبوتان معاد التدوير	isobutane recycle surge drum
+وعاء حَرْف اللهب	flame bucket
+وعاء زكوي	Zakat Base
+وفرة رنا الرسول	Abundant mRNAs
+وَفَى	repay
+وِقايَةٌ سِنِّيَّة	dental prophylaxis
+وَقُود الطيّارات	aviation spirit (or fuel)
+وَقُود طائرات	spirit, aviation
+وَقُود مُحرِّكات	spirit, motor
+وقود مُعاد التوليد	regenerated fuel
+وكيل الكنيسة	churchwarden
+وكيل المَؤونة	cellarer
+ولا واحد	devil a one
+وَميضٌ خَلْفيّ	back flash
+وميض سطحى مرتد	back flashover
+وَميض مُرْتَدّ	backflash
+وميض منارة واضح	flashing conspicuity beacon
+وَهّاج	flamboyant
+وُهَامُ الخَطيئَة	delusion of sin
+وُهَامُ الذَّنْب	delusion of guilt
+وَهْج القديس ألْمو: وهجٌ يتراءى	Saint Elmo's fire
+وَهَلُمَّ جَرًّا	et cetera

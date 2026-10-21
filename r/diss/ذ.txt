@@ -1,0 +1,187 @@
+ذؤابة برنيكي	Coma Berenices
+ذُؤابة بيرينيكي	Coma Berenices
+ذِئْبَةٌ صَدَفِيَّةُ الشَكل	lupus psoriasiformis
+ذاتُ الجَنْب	pleurisy (or pleuritis)
+ذاتُ الجَنْب	pneumonia
+ذات الجَنْب الجافّة	dry pleurisy
+ذات الجَنْب والرِّئة	pleuropneumonia
+ذاتُ الرِّئَة	pneumonia
+ذات الرئة المزدوجة	double pneumonia
+ذات الغطائين	dichlamydeous; dichlamydae
+ذَاتَوِيَّة	autism
+ذاتَوِيَّة	autistic thinking (autism)
+ذاتَوِيَّةٌ	dereistic thinking (autism)
+ذَاتَوِيَّةُ تَعَذُّر الحَرَكَة	akinetic autism (coma vigil)
+ذَاتَوِيَّةٌ طُفولِيةٌ	infantile autism (autistic disorder)
+ذَاتَوِيَّةٌ فِي الطُّفولَةِ الباكِرَة	early infantile autism (autistic disorder)
+ذاكِرة دَوّارة	rotating memory
+ذُبَابَةُ التِّيْفِيَّة	typhoid fly
+ذُباح	angina
+ذُباحٌ تَجاوُرِيّ	juxtangina
+ذُبَاحٌ حُمَامِيّ سَوِيقِيّ	angina erythematopultacea
+ذُبَاحٌ خُنَاقِيّ	angina diphtherica
+ذُبَاحٌ فَلغِمُونِيّ	phlegmonous angina
+ذُباحُ لودفيغ	Ludwig's angina
+ذَبْحَة	angina
+ذُبحة "فنسنت"	angina, Vincent's
+ذُبحة "لودفيج"	angina, Ludwig's
+ذَبْحَةٌ أَبُقْراطِيَّة	hippocratic angina (retropharyngeal abscess)
+ذَبْحَةٌ اسْتِلْقَائِيَّةٌ	angina decubitus
+ذَبْحَةُ الإِجْهاد	exertion angina
+ذُبحة الراحة	angina of rest
+ذَبْحَةُ الرَّاحَة	rest angina
+ذَبْحَةُ العَدْوَى المُسْتَشْفَوِيَّة	angina nosocomii (pharyngitis ulcerosa)
+ذَبْحَةُ الكَرْب	stress angina
+ذَبْحَةُ الوَحيدات	monocytangina (infectious mononucleosis)
+ذَبْحَةٌ بحَسَبِ برتونو	Bretonneau's angina (diphtheria)
+ذَبْحَةٌ بحَسَبِ لُودْفيغ	angina ludovici (Ludwig's angina)
+ذَبْحَةُ برنزميتال	Prinzmetal's angina
+ذَبْحَةٌ بَسيطة	angina simplex (simple sore throat)
+ذَبْحَةٌ بَطْنِيَّة	abdominal angina (intestinal angina)
+ذَبْحَةٌ بَطْنِيَّة	angina abdominalis (intestinal angina)
+ذَبْحَةٌ بَطْنِيَّة	angina abdominis (intestinal angina)
+ذَبْحَةُ بلاوت	Plaut's angina (pseudomembranous angina)
+ذَبْحَةٌ تالِيَّةٌ للاحْتِشاء	postinfarction angina
+ذَبْحَةٌ جُرَيبِيَّة	angina follicularis (follicular tonsillitis)
+ذَبْحَةٌ جَوبِيَّة	lacunar angina (tonsillitis)
+ذَبْحَةٌ حادَّة	angina acuta
+ذَبْحَةٌ حَرَكِيَّةٌ وِعائِيَّة	vasomotor angina
+ذَبْحَةٌ حَنْجَرِيَّة	angina laryngea (laryngitis)
+ذَبْحَةٌ خانُوقِيَّةٌ حَميدة	benign croupous angina
+ذَبْحَةٌ خَبيْثة	malignant angina (angina gangrenosa)
+ذَبْحَةٌ خُناقِيَّة	angina diphtheritica
+ذَبْحَةٌ رَأْسِيَّة	angina capitis (headache)
+ذَبْحَةٌ رُغامِيَّة	angina trachealis (croup)
+ذَبْحَةٌ رُوْمَاتِزمِيَّة	angina rheumatica
+ذَبْحَةٌ سابِقَةٌ للاحْتِشاء	preinfarction angina (status anginosus)
+ذَبْحَةٌ ساقِيَّة	angina cruris (intermittent claudication)
+ذَبْحَةُ شولتز	Schultz's angina (agranulocytosis)
+ذُبحة صدرية	angina of effort = angina pectoris
+ذَبْحَةٌ صَدْرِيَّة	angina pectoris
+ذَبْحَةٌ صَدْرِيَّة	angor pectoris (angina pectoris)
+ذَبْحَةٌ صَدْرِيَّة	stenocardia (angina pectoris)
+ذَبْحَةٌ صَدْرِيَّةٌ غَيْرُ مُؤْلِمَة	angina pectoris sine dolore
+ذَبْحَةٌ صَدْرِيَّةٌ مُخالِفَةٌ للمُعْتَاد	variant angina pectoris (Prinzmetal's angina)
+ذَبْحَةٌ صَدْرِيَّةٌ وِعائِيَّة	angina pectoris vasomotoria
+ذَبْحَةُ عُسْرِ الهَضْمِ	angina dyspeptica
+ذَبْحَةٌ غِشائِيَّة	angina membranacea (croup)
+ذَبْحَةٌ غِشائِيَّة تَقَرُّحِية	ulceromembranous angina (Vincent's angina)
+ذَبْحَةٌ غِشائِيَّة كاذِبة	pseudomembranous angina
+ذَبْحَةٌ غنغرينيَّة	angina gangrenosa (gangrenous pharyngitis)
+ذَبْحَةٌ غَيرُ مُؤْلِمَة	angina sine dolore
+ذَبْحَةُ فَرْطِ الزُّراق	hypercyanotic angina
+ذَبْحَةٌ فَلْغَمونِيَّة	angina phlegmonosa (peritonsillar abscess)
+ذَبْحَةُ فِنْسان	Vincent's angina
+ذَبْحَةٌ قِرْمِزِيَّة	angina scarlatinosa
+ذَبْحَةٌ قُلاعِيَّة	aphthous angina
+ذَبْحَةٌ قَلْبِيَّة	angina cordis
+ذَبْحَةٌ كاذِبَة	false angina
+ذَبْحَةٌ لامُسْتَقِرَّة	unstable angina
+ذَبْحَةٌ لِسَانُ مِزْمَارِيَّة	angina epiglottidea
+ذُبحة لوزية	angina follicularis = angina tonsillaris
+ذَبْحَةٌ لَوزِيَّة	angina tonsillaris (peritonsillar abscess)
+ذَبْحَةٌ لَيلِيَّة	nocturnal angina
+ذَبْحَةٌ مُخَالِفَةٌ للمُعْتَاد	angina inversa
+ذَبْحَةٌ مُسْتَمِرَةٌ	anginosis (status anginosus)
+ذَبْحَةٌ مِعَوِيَّة	intestinal angina
+ذَبْحَةٌ نَاجِمَةٌ عَن ابْيِضاضِ الدَم	leukemic angina
+ذَبْحَةٌ نَاجِمَةٌ عَن العِقْدِيَّات	streptococcal angina
+ذَبْحَةٌ نَاجِمَةٌ عَن الوَحيدات	monocytic angina (infectious mononucleosis)
+ذَبْحَةٌ نَاجِمَةٌ عَنْ قِلَّةِ العَدِلات	neutropenic angina (agranulocytosis)
+ذَبْحَةٌ نَتْحِيَّة	exudative angina (croup)
+ذَبْحَةُ نَدْرَةِ المُحَبَّبات	agranulocytic angina (agranulocytosis)
+ذَبْحَةٌ نَزْلِيَّة	angina catarrhalis (acute pharyngitis)
+ذَبْحَةٌ نُكافِيَّة	angina parotidea (mumps)
+ذَبْحَةٌ هِيسْتيرِيَّة	hysteric angina
+ذَبْحَةٌ وِعائِيَّةٌ تَشَنُّجِيَّة	vasospastic angina
+ذُبول	fading
+ذُبول	wilt
+ذبول	wilt disease
+ذِراعُ عَزْمِ اللَّي	torque arm
+ذرق غرواني	colloid goiter
+ذُروة التدُّفق في الساعة خلال فترة الجفاف	peak hourly dry weather flow
+ذُرِّية	strain
+ذَنَبَةٌ دَوّارة أو لَفّافة	revolving centre
+ذُهان	neuropsychosis (psychosis)
+ذُهـان	psychosis
+ذُهان	psychosis [pl.psychoses]
+ذُهانٌ أُحادِيّ	monopsychosis
+ذُهانٌ اكْتِئابِيّ	depressive psychosis (major depression)
+ذُهانُ الإِنْهاك	exhaustion psychosis
+ذُهانُ الإِنْهاكِ العَدْوائِيّ	infection exhaustion psychosis
+ذُهانُ الْتِهابِ الأَعْصاب	polyneuritic psychosis
+ذُهانُ التِهابِ الأَعْصاب	psychosis polyneuritica
+ذُهانُ الحَيَاء	shame psychosis (pseudomania)
+ذُهانُ السِّجْن	prison psychosis
+ذُهانُ المَجاعَة	famine psychosis
+ذُهانُ الوَضْعِيَّة	situational psychosis (brief reactive psychosis)
+ذهان انفعالي دوري	cyclophrenia = cyclothymia
+ذُهانٌ أَوبِيّ	involutional psychosis (involutional melancholia)
+ذُهانٌ أَوَّلِيّ	primary psychosis (endogenous psychosis)
+ذُهانٌ إِياسِيّ	climacteric psychosis (involutional melancholia)
+ذُهَانٌ بُرفيريّ	porphyrismus
+ذُهانٌ تالٍ للرَّضْح	post-traumatic psychosis
+ذُهانٌ تالٍ للعَدْوَى	postinfectious psychosis
+ذُهانٌ تالٍ للوَضْع	postpartum psychosis
+ذُهانٌ تَعايُشِيّ	symbiotic psychosis
+ذُهانٌ تَفاعُلِيّ	reactive psychosis
+ذُهانٌ تَناوُبِيّ	alternating psychosis (manic-depressive psychosis)
+ذُهانٌ تَنَكُّسِيّ	degenerative psychosis
+ذُهانٌ ثُنائِيُّ القُطْب	bipolar psychosis (manic-depressive psychosis)
+ذُهانٌ جَسَدِيّ	somatopsychosis
+ذُهانٌ حَمْلِيّ	gestational psychosis
+ذُهانٌ حُمَّوِيّ	febrile psychosis (exhaustion psychosis)
+ذُهانٌ دائِرِيّ	circular psychosis
+ذُهانٌ داخِلِيُّ المَنْشَأ	endogenous psychosis
+ذُهانٌ دِمَاغِيّ	cerebropsychosis
+ذُهانٌ دِماغِيّ	encephalopsychosis
+ذُهانٌ دَوائِيّ	drug psychosis
+ذُهانٌ دَورِيّ	periodic psychosis (manic-depressive psychosis)
+ذُهانٌ زَوَرانِيّ	paranoid psychosis (paranoia)
+ذُهانٌ زَوَرِيّ	paranoiac psychosis (paranoia)
+ذُهانٌ سُمِّيّ	toxic psychosis
+ذُهانٌ شَيخوخِيّ	geriopsychosis
+ذُهانٌ شَيخوخِيّ	senile psychosis
+ذُهانٌ صَرْعِيّ	epileptic psychosis (epileptic dementia)
+ذُهانٌ طِفْلِيٌّ تَعايُشِيّ	symbiotic infantile psychosis
+ذُهانٌ عاطِفِيّ	affective psychosis (mood disorder)
+ذُهَانٌ عاطفي	effective psychosis
+ذهان عرضي	dysphrenia
+ذُهانٌ عُضْوِيّ	organic psychosis
+ذُهْانٌ عَقَّارِيُّ المَنْشَأ	pharmacopsychosis
+ذُهانٌ فُصامِيٌّ عاطِفِيّ	schizoaffective psychosis
+ذُهانٌ قَصْدِيّ	purpose psychosis
+ذُهانٌ كاذِب	pseudopsychosis
+ذُهانٌ كُحولِيّ	alcoholic psychosis
+ذُهانُ كُورْساكُوف	Korsakoff's psychosis
+ذُهانٌ مُحْدَث	induced psychosis (shared delusion)
+ذُهانٌ مَرَضَيُّ المَنْشَأ	pathopsychosis
+ذُهانٌ مَصْحُوْبٌ بأَعْرَاض	symptomatic psychosis
+ذُهانٌ نِفَاسِيّ	puerperal psychosis (postpartum psychosis)
+ذُهانٌ هِسْتيرِيّ	hysterical psychosis
+ذُهانٌ هستيريّ	hysteropsychosis (hysterical psychosis)
+ذُهانٌ هَوَسِيّ	manic psychosis
+ذُهانٌ هَوَسِيٌّ اكْتِئابِيّ	manic-depressive psychosis (bipolar disorder)
+ذُهانٌ وَحيدُ القُطْب	unipolar psychosis
+ذُهانٌ وَظيفِيّ	functional psychosis
+ذُهانات	psychoses [sing.psychosis]
+ذو غلاف زهري	perianthial
+ذو منشأ حراري سطحي	xenothermal
+ذُوفانُ الخُناق	diphtheria toxoid
+ذوفانُ الخُناقِ المُمْتَزّ	diphtheria toxoid adsorbed
+ذوفانُ الكُزاز	tetanus toxoid
+ذوفانُ الكُزازِ المُمْتَزّ	adsorbed tetanus toxoid
+ذوفانُ الكُزازِ و الخُناقِ المُمْتَزَّان	adsorbed tetanus and diphtheria toxoids
+ذوفاناتُ الخُنَاقِ و الكُزاز	diphtheria and tetanus toxoids
+ذوفاناتُ الخُناقِ و الكُزازِ المُمْتَزَّة	diphtheria and tetanus toxoids adsorbed
+ذوفاناتُ الخُنَاقِ و الكُزازِ مَعَ لِقاحِ	diphtheria and tetanus toxoids and pertussis vaccine
+ذوفاناتُ الخُنَاقِ و الكُزازِ مَعَ لِقاحِ	diphtheria and tetanus toxoids and pertussis vaccine adsorbed
+ذيفانُ الحُمَّى القِرْمِزِيَّة	scarlatinal toxin
+ذيفانُ الخُناق	diphtheria toxin
+ذيفانُ الخُناقِ التَّشْخيصيّ	diagnostic diphtheria toxin
+ذيفانُ الخُناقِ التَّشْخيصيُّ المُعَطَّلُ	inactivated diagnostic diphtheria toxin
+ذيفانُ الخُناق المُعَطَّل	diphtheria anatoxin
+ذيفانُ الخُناقِ لاخْتِبارِ شيك	diphtheria toxin for Schick test
+ذيفانُ الزُّحار	dysentery toxin
+ذيفانُ الكُزاز	tetanus toxin
+ذيفانُ الكوليرا	cholera toxin

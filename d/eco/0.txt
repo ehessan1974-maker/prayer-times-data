@@ -1,0 +1,14 @@
+(BOM) Bill Of Materials	فاتورة اللوازم والمعدات
+(C2C) Cash-To-Cash Cycle Time(C2C)	زمن دورة التحويل النقدي
+(capacitor) bank	مجموعة (مكثف)
+(FPEPA)The Fixed Price With Economic Price Adjustment Contract	تعديل السعر الاقتصادي للأسعار الثابتة
+(FPI) Fixed Price Incentive	حافز السعر الثابت
+(FTA) Free-Trade Agreement	اتفاقية تجارة حرة
+(GATS)	اتفاقية عامة للتجارة في الخدمات
+(IDB) Inter-American Development Bank	بنك التنمية للبلدان الأمريكية (IDB)
+(NWC) Net Working Capital	صافي رأس المال العامل
+(REMIT) Regulation on Wholesale Energy Market Integrity and Transparency	تشريع الاتحاد الأوروبي بشأن نزاهة وشفافية سوق الطاقة (REMIT)
+(VC) Venture Capitalist	رأس المال الاستثماري
+(VOP) Variation On Price	اختلاف في السعر
+... bank; battery of ...	مجموعة
+……	مستهلك متعدد العقود / إشارة تحليل

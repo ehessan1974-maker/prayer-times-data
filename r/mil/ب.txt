@@ -1,0 +1,97 @@
+باب القنابل	bomb door
+باب قنابل دوّار	rotary bombdoor
+بادئ الحركة الخرطوشي	cartridge starter
+بادئة معناها: رَصاص	plumb-
+بارجة	battle ship
+بارجة	battleship
+بارجة	man-of-war
+بارجة الأميرال	flagship
+بارجة الجيب: بارجة صغيرة تُبنى وفقًا	pocket battleship
+بارِجة حَربيّة	dreadnought = dreadnaught
+بارِجَة حَربيّة	man-of-war
+بَاطنيّ	immanent
+باغٍ	aggressor
+بالون استطلاع	pilot balloon
+بالون الحاجز	barrage balloon
+بَتْرٌ بحَسب لوفور	Le Fort's amputation
+بَحْثٌ إسْتِراتِيجِيٌّ تَطْبِيقِي	applied strategic research
+بَحْريّ	naval
+بحريّ the great naval powers	naval
+بَخْع	pithing
+بِرازٌ شَبِيْهٌ بقَلَمِ الرَّصاص	lead-pencil stool
+بُرْج	castle
+بُرْجُ إطلاق	launching ramp (or tower)
+بُرجُ الرشّاش	gun ring
+برج القيادة	command tower
+بُرج المِدفع	gun turret
+برج المدفع الرشاش بالطائرة	aircraft machine-gun turret
+برج أو حِصْن دائريّ	Martello tower
+برج داخليّ	donjon
+بُرج دفاعيّ يُشَيَّد فوق جسر مؤَدّ إلى	barbican
+برج مائي ذو بئر تفتيش	elementary surge tank; simple surge tank; shaft surge tank
+برشام انفجاري	eXplosive rivet
+بِرشامَة مُتفَجِّرة	explosive rivet
+بُرغي مُسَدَّسُ الرأس	hexagonal-head bolt
+بَرْقٌ صَارُوخِيّ	rocket lightning
+بركان قاعي	submarine volcano
+برميل	barrel
+برميل يوميا في صهاريج التخزين	storage tank barrel per day, (S.T.B.D.)
+برنامج تجسس	Spyware
+برنامج تطوير الصناعة الوطنية والخدمات	National Industrial Development and Logistics Program (NDLIP)
+برنامج مضاد لبرمجيات التجسس	Anti-spyware Software
+برنامج مضاد للتجسس	Anti-spy Software
+بروتينٌ دِفاعِيّ	defensive protein
+بُرَيْج	turret
+بِزّة الميدان	service dress
+بساط القصف	bomb carpet
+بَضْعُ الخُوْذَة	galeatomy
+بطاريات رصاص	lead-acid batteries
+بطارية الرصاص الحمضية	lead-acid battery
+بطارية الرصاص الهلامية	gell-cell battery
+بطارية ثاني أكسيد الرصاص - الرصاص	lead dioxide lead battery; lead dioxide lead battery
+بطارية حمض الرصاص لا تحتاج الصيانة	maintenance free lead-acid battery
+بطارية رصاص حمضية ذات الصمام المتحكم	valve regulated lead acid battery; VRLA (abbreviation)
+بَطاريَّة صهاريج	tank battery
+بَطَّارِيَّة صَهَاريج أُوتوماتيَّة	automatic tank battery
+بِطاقةُ تموين	ration card
+بعد الهجوم	post-strike
+بَعْدْحَرْبيّ: حادثٌ بعد الحرب	postbellum
+بَعْدْحَرْبيّ: خاصّ بفترة ما بعد الحرب	postwar
+بُقْعَةُ الجُنْدِيّ	soldier's spot (milk spot)
+بلاط 'البندقية'	venetian tiles
+بناء الذخيرة اللغوية	Corpus acquisition
+بند قتالي جاهز	combat serviceable item
+بُندقِيَّة	rifle
+بندقية التدويخ	stun gun
+بندقية الطير: بندقية لصيد الطُّيور	fowling piece
+بندقية الطيور	bird gun
+بُندقية النَّفخ: أنبوب تُطْلق منه	blowgun
+بندقية الهواء أو الفلّين	pop-gun
+بُنْدُقِيَّةٌ أُوتُوماتِيَّةٌ	automatic rifle
+بُندقِيَّةُ بِرأونِنْغِ الأُوتوماتِيَّة	Browning automatic rifle
+بندقية تثقيب	perforator gun; bullet
+بُنْدقِيَّةٌ تَكْرارِيَّة	magazine gun
+بُندُقِيَّة تَكْرَارِيَّة	magazine rifle
+بُندقية تُملأ من المؤخرة	breech loader
+بُندُقِيَّةُ رَشّ	shotgun
+بندقية سْبرينْغْفِيلد: بندقية أميركية	Springfield rifle
+بُندقية عسكرية	service rifle
+بُنْدُقيَّة فَكُوك	takedown rifle
+بُنْدُقِيَّةٌ قَصِيرَة	carbine
+بُندُقيَّة قَصيرة	musket
+بُندقيّة مُصَغَّرَة العِيار	subcaliber gun
+بندقية نصف آلية	semi-automatic gun
+بندقية هواء مضغوط	air rifle
+بنزين خالي من الرصاص	unleaded super premium
+بنزين خصوصي 95 خالي من الرصاص	Unleaded Super 95 (gasoline type)
+بِنزينٌ مُجَمَّد	solidified gasoline
+بِنْزين مُرَصَّص	leaded gasoline
+بنزين ممتاز 91 خالي من الرصاص	Unleaded Premium 91 (gasoline type)
+بنزين يحتوي على رصاص	leaded gasoline
+بُنْط في حافظة	cartridge font
+بُواق الهجوم: دَقّة بالبُوق تدعو الجُنْد	warison
+بيأس	neck or nothing
+بيت مُحَصَّن	garrison house
+بيش	blue rocket
+بيش	helmet- flower
+بيلونا: إلاهة الحرب عند الرومان	Bellona

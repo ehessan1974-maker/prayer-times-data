@@ -1,0 +1,127 @@
+سائِلُ الإِرْواء	irrigant
+سائلُ الإِرْواء	perfusate
+سائِلُ الاسْتِسْقَاء	ascitic fluid
+سائِلُ المَزْرَعَة	culture fluid
+سابقة بمعنى القَطَن	lumbo-
+ساركومةٌ عَظْمِيَّةٌ مُتَوَسِّعَةُ	telangiectatic osteosarcoma
+ساركومةٌ مُتَوَسِّعَةُ الشُّعَيرات	telangiectatic sarcoma
+ساغُو	sago
+سَبادِيلَّة	Sabadilla
+سبر التربة	boring the earth
+سَبَر التربة	drill (to)
+سَبْر التربة بقوة ضخ الماء	wash boring
+سبيكة حديد - كروم	chromium-iron alloy
+سبيكة كروم - نيكل	chromium-nickel alloy
+سترة الصياد	fisherman’s jacket / angler’s jacket
+سحب هواء التُّربة	soil vacuum extraction; soil venting
+سدّ طَمْيِيّ	alluvial dam
+سِدَادَةٌ قُطْنِيَّة	cotton plug
+سَرَطانُ الكرُومات	chromate cancer
+سَرَطانَةٌ مُتَوَسِّعَةُ الشُّعَيرات	carcinoma telangiectaticum
+سَرَطانَةٌ مُتَوَسِّعَةُ الشُّعَيرات	carcinoma telangiectodes
+سُرعة التسرُّب	seepage velocity
+سُرعةُ النَّبْض	pulse rate
+سَرْعيّ: ذو أغصانٍ طِوالٍ كَسُروع الكروم	sarmentose
+سَرْنوَة	Serenoa
+سرة البذرة	hilum of seed
+سَرِيْرُ الشُّعَيْرِات	capillary bed
+سطح التربة	top soil
+سَطْح حظيرة	hangar deck
+سعر بوابة المزرعة	farm gate price; farm- gate price
+سعَة التُربة للهواء	air capacity of soil
+سعة الحبوب	grain capacity
+سَعَة الرطوبة المتاحة للتربة	moisture capacity of the soil, available
+سَعة النَّبْض الذّروية	peak pulse amplitude
+سَعَةُ النَّبْضَة	pulse amplitude
+سعة النبضة	pulse magnitude; pulse amplitude (deprecated)
+سَعْيُ التُّربة	reptation
+سُفاع الشَّعير	barley scald
+سفن تدعم سفن الصيد	fisheries support vessels
+سفينة مراقبة الصيد	fishery protection vessel
+سُقوطٌ	grazing incidence
+سقوط حاك	grazing incidence
+سَقْي	priming
+سَقْيُ المِضَخَّة	pump priming
+سَقْيٌ أو تَطْبيع في الزيت	oil tempering
+سَقْيٌ بالزيت	oil temper
+سقي يدوي بالوقود	Ki-Gas
+سكان	population, soil
+سُكّر البَنْجَر	beet-sugar
+سُكَّرُ الشَّعير	barley sugar
+سكر الشعير	dextrinose
+سُكَّرُ الشَّعير	malt sugar (maltose)
+سُكَّرُ الشَّمَنْدَر	beet sugar
+سُكَّرُ العِنَب	grape sugar (glucose)
+سُكَّرُ العِنَب	grape-sugar = dextrose
+سُكّر النّخيل	palm sugar
+سُكَّر نَبات	barley sugar
+سِكِّينُ المِحراث	colter = coulter
+سِكِّينُ المِحراث	coulter
+سِكِّينُ بلير	Blair knife
+سِكِّينُ رامزبوثام المِنْجَلِيَّة	Ramsbotham's sickle knife
+سِكِّينٌ قُرصي في المِحراث	disc coulter
+سلسلة نبضات	pulse train
+سلسلة نبضات	pulse train; impulse train, US
+سلسلة نبضة مربع	square pulse train
+سَلْف	scarifying
+سِلكٌ مُزدوجُ التغليف بالقُطن	double-cotton covered wire
+سِلْك مَعزول بالقُطن	cotton-covered wire
+سلوجة	silage
+سلوك الحبوب	grain behaviour
+سَلْوة	silo
+سِليسيّ: نامٍ في تربة غنيّة بالسِّليكا	silicicolous
+سَليلَةٌ مُتَوَسِّعَةُ الشُعَيرات	polypus telangiectodes (inflammatory polyp)
+سماد	dung (animal manure); fertiliser
+سماد	farm manure
+سَمَاد	fertiliser
+سماد	fertilizer
+سَماد	manure
+سَمادٌ اِصطناعي	fertilizer, artificial
+سماد المزارع	farmyard manure (fym)
+سماد اليوريا	urea fertiliser
+سَمادٌ بَشَريّ	night soil
+سَماد بلديّ سائل	liquid manure
+سماد تجاري	synthetic fertilizer
+سِماد سائل	liquid manure; slurry
+سماد طبيعيّ	compost
+سماد طبيعي	manure
+سماد طبيعي	natural manure
+سماد طبيعي خام	green fertilizer
+سماد عضوي	farmayard (farmyard) manure
+سماد عضوي	organic manure
+سماد عظمي	bone-meal
+سماد كيماوي	chemical fertiliser
+سَمادٌ كيماوي	manure, chemical
+سَمَاد مُتَوازِن	balanced fertilizer
+سَمادٌ مُخَلَّط	compost
+سماد مسحوق العظام	bone meal
+سماد منزلي	backyard composting
+سماد; سماد آزوتي; مدخالت صناعية سماد	mineral fertilizer; synthetic fertilizer; nitrogen fertilizer; synthetic input
+سمسم	sesame
+سنجاب النخيل	palm-squirrel
+سِنْفَة	legume
+سنة الغرس	planting year
+سنة جفاف	dry year
+سَهْل رُسوبيّ	alluvial plain
+سهل طَمْيِيّ	alluvial apron
+سَهْلٌ طَمْيِيّ	alluvial plain
+سهل طيّي	apron (alluvial apron)
+سُوْسُ البَرْسيم	clover mite
+سُوْسُ الحَصاد	harvest mite (chigger)
+سُوْسُ الحَصاد	mower's mite (chigger)
+سُوْسُ القَشّ	straw mite
+سُوْسُ جَرَبِ الماشِيَة	scab mite
+سُوْسٌ طَيريّ	poultry mite (Dermanyssus gallinae)
+سوسة الحبوب	plume- moth
+سوسة النخيل	palm-weevil
+سوق مزارعين معتمد	certified farmers’ market
+سوق; عضوية سوق الزراعة العضوية	organic agriculture market; organic market
+سونار صوتى لمصايد الأسماك	fisheries echo sounder; fish-finder
+سياحة بيئية زراعية	agro-ecotourism, eco-agritourism
+سياسة زراعية	agricultural policy
+سيريز: «أ» إلاهة الزراعة عند الرومان. «ب»	Ceres
+سيكْلُوبين	cyclopin
+سيل قطن ®	Silcotton®
+سيل?انوس: إله الغابات والحقول عند الرومان	Silvanus
+سيلاج مياه الصرف	wastewater, silage
+سُيُور مِن القطن	cotton belting

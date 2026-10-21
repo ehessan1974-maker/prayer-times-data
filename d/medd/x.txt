@@ -1,0 +1,10 @@
+X- ray dosage	جرعة الأشعة السينية
+X-ray dosage	جرعة الأشعة السينية
+xanoxate	زانوكسات (دواء موسع للقصبات)
+xenogamy	تلقيح مختلط
+xenogamy = cross fertilization	تَلقيحٌ خَلْطِيّ، إخصابٌ تَهْجِينِيّ
+xerocollyrium	قَطْرَةٌ عَيْنِيَّةٌ جَافَّة
+xilobam	زيلوبام (دواء مرخٍ للعضلات)
+xipamide	زيباميد (دواء خافض للضغط) / زِيبَامِيد
+XML Injection	حقن في ملف XML
+xylometazoline	زايلوميتازولين (دواء مضاد للاحتقان)

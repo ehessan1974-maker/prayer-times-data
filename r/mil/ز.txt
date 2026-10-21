@@ -1,0 +1,65 @@
+زارعة الألغام: سفينة لزرع الألغام تحت	minelayer
+زاوِيةُ الجنب	flank angle
+زاوية القصف	bombing angle
+زجاج مُدرّع	bullet-proof glass
+زُجاجٌ مُدَرَّع	glass, armoured
+زحف	crawling
+زَحَفَ	creep
+زَحْف	creeping
+زحف	creeping (of a DC motor)
+زحف	creeping reptation
+زحف	encroachment (of the desert)
+زَحْف	slide
+زحف البحر	advance of the sea; marine transgression
+زَحْفُ التُّربة	earth creep
+زَحْفُ التُّربة	earth flow
+زحف التربة	earth-flow
+زحف التربة	Soil Creep
+زَحْفُ التُّربة	soil creep
+زحف التربة	soil creep (heave)
+زحفُ الصَّخْر	rock creep
+زَحْفُ الماء	water advance
+زَحفُ الماء	water creep
+زَحْف الماء الضّار	adverse water advance
+زحف الماء المعاكس	adverse water advance
+زحف المهمة	Mission Creep
+زحف النطاق	Scope Creep
+زحف تدريجي للتربة	solifluction
+زَحْفٌ تَلِّيّ	hill creep
+زَحْفٌ جانِبي	lateral shift
+زحف جانبي	shift(latéral)
+زَحْف جانبي للصدْع	heave of fault
+زحفٌ جمودي	gelifluction
+زَحْف رأسيّ	creep, vertical
+زَحْفٌ قارِّي	continental drift
+زحف محلول الكتروليتي	electrolyte creep
+زَحْفٌ مِغنطيسيّ	magnetic creeping
+زر التحكم في دينامية القيادة	driving dynamic control button (DDC)
+زراعة الغام	minelayer
+زَرْعُ الألغام	mine laying
+زرع ألغام محوري	axial mining
+زِرْنيخات الرَّصاص	lead arsenate
+زعنفة القنبلة	bomb fin
+زَلاقة مِدفعية	artillery seld
+زَلَقَ	slither
+زمرة الرَّمي	firing squad
+زمن سبق التحذير الاستراتيجي	strategic warning lead-time
+زمن عمل السلاح النووي	nuclear-weapon employment time
+زَنْد البندقية	gunlock
+زَنْد البندقيّة	wheel lock
+زَنْد القَدْح	percussion lock
+زَوَرُ الزَّوج	conjugal paranoia (infidelity delusion)
+زورق الانقضاض: زورق صغير ممكنٌ حَمْلُه أو	assault boat
+زورق الطوربيد	PT boat
+زَوْرَقٌ حَرْبيّ	gunboat
+زورق طوربيد	motor torpedo boat
+زَورَق هُجوم	assault boat
+زي جنود الاحتياط	reservist look
+زي رجال البحرية	Navy look
+زيادة إمدادات المياه	increasing water supply
+زَيتُ الأسلِحة الناريَّة	gun oil
+زيتُ تَزْليقٍ ثَقيل	blackstrap
+زَيت وَسِخ	oil, bunker
+زيتُ وَقود السُّفُن	bunker oil
+زيت وقود وسخ	bunker C fuel oil
+زيوت وقود للسفن	bunker fuel oils

@@ -1,0 +1,704 @@
+فِئَاتُ تَدْبيرِ المَرْضَى	patient management categories
+فِئاتٌ مُرْتَبِطَةٌ بالتَّشْخيص	diagnosis related groups
+فِئاتٌ مُرْتَبِطَةٌ بالتَّشْخيص	diagnosis-related groups
+فِئَةُ التَّشْخيصِ الأَوْحَد	single-diagnosis category
+فَأْرٌ أبيضُ خالٍ مِنَ السَّرَطان	C.F.W. mouse (cancer free white mouse)
+فاصلة	coma
+فاصِلَةُ المَرَض	spell of illness
+فالِج	hemiparalysis (hemiplegia)
+فالج	hemiparalysis = hemiplegia
+فالِج	hemiplegia
+فالج	hemiplegia = hemiparalysis
+فالِج	semiplegia (hemiplegia)
+فالِج	semisideratio (hemiplegia)
+فالج الأطفال	hemiplegia, infantile
+فالِجٌ بَصَلِيّ	bulbar hemiplegia
+فالِجٌ تالٍ للصَّرْع	postepileptic hemiplegia
+فالِجٌ تَشَنُّجِيّ	spastic hemiplegia
+فالج تقلصي	hemiplegia, spastic
+فالِجٌ جِسْرِيُّ المَنشأ	pontine hemiplegia
+فالِجٌ حَنْجَرِيّ	laryngeal hemiplegia
+فالج خلاف	hemiplegia, contralateral
+فالِجٌ خِلْقِيّ	congenital hemiplegia
+فالِجٌ رَخْو	flaccid hemiplegia
+فالِجٌ سُوَيقِيُّ المَنشأ	peduncular hemiplegia
+فالج شوكي	hemiplegia, spinal
+فالِجٌ صاعِد	ascending hemiplegia
+فالِجٌ صَرْعِيّ	epileptic hemiplegia
+فالِجٌ طِفْلِيّ	infantile hemiplegia
+فالِجٌ عُضْوِيُّ المَنشأ	organic hemiplegia
+فالِجُ فيرنيكه-مان	Wernicke-Mann hemiplegia
+فالِجٌ قِشْرِيّ	cortical hemiplegia
+فالج متبادل	hemiplegia, alternate = crossed hemiplegia = cruciata hemiplegia
+فالج متبادل	hemiplegia, crossed = alternate hemiplegia
+فالج متبادل	hemiplegia, cruciata = alternate hemiplegia
+فالِجٌ مُتَصالِب	crossed hemiplegia
+فالِجٌ مُتَصالِب	hemiplegia cruciata (crossed hemiplegia)
+فَالِجٌ مُتَنَاوِب	alternate hemiplegia (crossed hemiplegia)
+فالِجٌ مُتَناوِب	stauroplegia (alternate hemiplegia)
+فالِجٌ مِحْفَظِيّ	capsular hemiplegia
+فالِجٌ مُخِّيّ	cerebral hemiplegia
+فالج مخّي	hemiplegia, cerebral
+فالِجٌ مُخَيخِيّ	cerebellar hemiplegia
+فالج مُرتخ	hemiplegia, flaccid
+فالِجٌ مُقابِلُ الجَانِب	contralateral hemiplegia
+فالِجٌ نُخاعِيُّ المَنشأ	spinal hemiplegia
+فالِجٌ نِفاسِيُّ المَنشأ	puerperal hemiplegia
+فالِجُ نَفْسِ الجَانِب	collateral hemiplegia
+فالِجٌ هِسْتيرِيُّ المَنشأ	hysterical hemiplegia
+فالج وجهي ذراعي	hemiplegia, faciobrachial
+فالِجٌ وَظيفِيّ	functional hemiplegia
+فالح محفظي	hemiplegia, capsular
+فاليثامات	valethamate
+فِبْرينِيٌّ قَيحِيّ	fibrinopurulent
+فَتْح الجُثّة: فحص الجثة لتحديد سبب الموت	postmortem examination
+فتحة حساسية لضبط المسجل	recorder adjustment sensor hole
+فَتْحَةٌ مُقابِلَة	contra-aperture
+فَترةُ جَفاف	dry spell
+فَتْق	hernia
+فتق	rupture
+فتق "رختر"	hernia, Richter's
+فتق "كلوكيه"	hernia, Cloquet's
+فتق "ليتريه"	hernia, Littre's
+فَتْقٌ إِثْناعَشَرِيٌّ صائِمِيّ	duodenojejunal hernia
+فَتْقٌ أُدْرَوِيّ	enterohydrocele
+فتق أربي	hernia, inguinal
+فَتْقٌ أُرْبِيّ	inguinal hernia
+فَتْقٌ أُرْبِيٌّ أَمامَ الصِّفاق	inguinoproperitoneal hernia
+فَتْقٌ أُرْبِيٌّ رَحِمِيّ	hysterobubonocele
+فَتْقٌ أُرْبِيٌّ سَطْحِيّ	inguinosuperficial hernia
+فتق أربي فخذي	hernia, inguinofemoral
+فَتْقٌ أُرْبِيٌّ فَخِذِيّ	inguinocrural hernia
+فَتْقٌ أُرْبِيٌّ فَخِذِيّ	inguinofemoral hernia
+فَتْقٌ أُرْبِيٌّ لامُباشِر	indirect inguinal hernia
+فَتْقٌ أُرْبِيٌّ مُباشِر	direct inguinal hernia
+فتق أربي مباشر	hernia, direct inguinal
+فَتْقٌ إِسْكِيّ	ischiatic hernia
+فَتْقٌ إِسْكِيٌّ مُسْتَقيمِيّ	ischiorectal hernia
+فتق أعوري	caecocele
+فتق أعوري	hernia, cecal
+فَتْقُ الأَعْوَرِ	cecal hernia
+فَتْقُ الثَّرْب	omental hernia
+فَتْقُ الدِّمَاغِ	hernia cerebri
+فَتْقُ الدِّماغ	hernia of the brain
+فَتْقُ الرِّئَة	lung hernia
+فَتْقُ الرَّافِعَةِ	levator hernia (pudendal hernia)
+فَتْقُ الرِّباطِ العَريض	broad ligament hernia
+فَتْقُ السَّبَل	pannicular hernia (fat hernia)
+فَتْقُ الغِلاَلَة	tunicate hernia (mucosal hernia)
+فَتْقُ القُزَحِيَّة	hernia of the iris
+فَتْقُ اللُّبّ	hernia of pulp (chronic open hyperplastic pulpitis)
+فَتْقُ المَبيض	ovarian hernia
+فَتْقُ المَثَانَةِ	cystic hernia (cystocele)
+فَتْقُ المَثَانَةِ	hernia of the bladder
+فَتْقُ المُخاطِيَّة	mucosal hernia
+فَتْقُ المَساريق	mesenteric hernia
+فتق المِعَى المُتَوسِّط	midgut hernia
+فتق المفصل	brisement
+فَتْقٌ أَلَوِيّ	gluteal hernia
+فتق أليوي	hernia, gluteal
+فَتْقٌ أَمامَ الصِّفاق	properitoneal hernia
+فَتْقٌ انْدِفاعِيّ	pulsion hernia
+فَتْقُ بارث	Bart's hernia
+فَتْقٌ بشَكْلِ W	W hernia (retrograde hernia)
+فَتْقٌ بَطْنِيّ	abdominal hernia
+فتق بطني	hernia, abdominal
+فَتْقٌ بَطْنِيّ	ventral hernia
+فَتْقُ بِيتي	Petit's hernia
+فَتْقُ بيركيت	Birkett's hernia (synovial hernia)
+فَتْقُ بيكلار	Beclard's hernia
+فَتْقٌ بَينَ العَضَلاَت	intermuscular hernia (interparietal hernia)
+فتق بين عضلي	hernia, intermuscular
+فَتْقٌ تالٍ للبَضْعِ	incisional hernia
+فَتْقٌ تَحْتَ العانَة	subpubic hernia
+فَتْقُ ترايتس	Treitz's hernia (retroperitoneal hernia)
+فتق ثربي	hernia, omental
+فَتْقٌ ثُقْبِيّ	foraminal hernia
+فَتْقٌ جافّ	dry hernia
+فَتْقٌ جِدارِيّ	parietal hernia
+فَتْقٌ جَنْبِيٌّ صِفاقِيٌّ فُرْجَوِيّ	pleuroperitoneal hiatus hernia
+فتق جنيب السُّرة	hernia, parumbilical
+فتق جنيب المرئ	hernia, paraesophageal
+فَتْقٌ جِوَارِيُّ الكِيْسِ	parasaccular hernia (sliding hernia)
+فَتْقٌ حَبْلِيّ	funicular hernia
+فتق حجابي	diaphragmatic hernia
+فتق حجابي	hernia, diaphragmatic
+فَتْقٌ حجابي	hiatal hernia (hiatus hernia)
+فَتْقٌ حِجَابِيّ	hiatus hernia
+فَتْقٌ حَلَقِيّ	annular hernia
+فَتْقٌ خارِجَ الكيس	extrasaccular hernia (sliding hernia)
+فَتْقٌ خارِجِيّ	external hernia
+فَتْقٌ خِلاَلَ المَساريق	transmesenteric hernia
+فَتْقٌ خِلاَلِيّ	interstitial hernia
+فتق خلف الأعور	hernia, rectocecal
+فتق خلف الأعور	hernia, retrocecal
+فَتْقٌ خَلْفَ الأَعْوَر	retrocecal hernia
+فتق خلف البريتون	hernia, retroperiteneal
+فَتْقٌ خَلْفَ الصِّفاق	retroperitoneal hernia
+فَتْقٌ خِلْقِيّ	congenital hernia
+فتق خلقي	hernia, congenital
+فَتْقٌ خَيْمِيّ	tentorial hernia
+فتق داخلي	hernia, internal
+فَتْقٌ داخِلِيّ	internal hernia (direct inguinal)
+فتق دُبيلي	bubonecele
+فَتْقٌ دَرَقِيّ	thyroidal hernia
+فَتْقٌ دُهْنِيّ	fat hernia
+فَتْقٌ رَتْجِيّ	diverticular hernia
+فَتْقٌ رُجوعِيّ	retrograde hernia
+فتق رحمي	hernia, uterine
+فَتْقٌ رَحِمِيّ	uterine hernia
+فَتْقٌ رَدُود	reducible hernia
+فَتْقُ روكيتانسكي	Rokitansky's hernia
+فَتْقُ ريختر	Richter's hernia (parietal hernia)
+فَتْقُ ريو	Rieux's hernia (retrocecal hernia)
+فَتْقٌ زَليلِيّ	synovial hernia
+فتق سَدادي	hernia, obturator
+فَتْقٌ سِدادِيّ	obturator hernia
+فَتْقٌ سُرُرِيّ	exomphalos
+فَتْقٌ سُرِّيٌّ	exomphalos hernia (omphalocele)
+فتق سُري	hernia, umbilical
+فَتْقٌ سُرِّيّ	umbilical hernia
+فَتْقٌ سُرِّيٌّ مُدَمَّى	hematomphalocele
+فَتْقٌ شبيغيلي	spigelian hernia
+فَتْقٌ شَحْمِيّ	hernia adiposa
+فَتْقٌ شُرْسوفِيّ	epigastric hernia
+فتق شرسوفي	hernia, epigastric
+فتق شفري	hernia, labial
+فَتْقٌ شُفْرِيّ	labial hernia
+فتق شفري إربي	cremnocele
+فَتْقٌ شُفْرِيٌّ خَلْفِيّ	posterior labial hernia
+فَتْقٌ شُفْرِيٌّ خَلْفِيّ	posterior labial hernia (vaginolabial hernia)
+فتق شقّي	hernia, incisional
+فتق صَفني	hernia, scortal
+فتق صَفني	hernia, scrotal
+فَتْقٌ صَفَنِيّ	scrotal hernia
+فتق طِفلي	hernia, infantile
+فَتْقٌ طِفْلِيّ	infantile hernia
+فَتْقٌ عانِيّ	pectineal hernia
+فَتْقٌ عانِيٌّ فَخِذِيّ	pectineal crural hernia
+فتق عجاني	hernia, ischiorectal = perinal hernia
+فتق عجاني	hernia, perinal = ischiorectal
+فتق عجاني	hernia, perinal = ischiorectal hernia
+فَتْقٌ عِجانِيّ	perineal hernia
+فَتْقُ غرينفيلت	Grynfelt hernia
+فَتْقُ غويراند	Goyrand's hernia
+فَتْقُ غيبون	Gibbon's hernia (Gibbon's hydrocele)
+فَتْقٌ غَيْرُ مُرْتَدّ	irreducible hernia
+فَتْقٌ فَخِذِيّ	crural hernia (femoral hernia)
+فَتْقٌ فَخِذِيّ	femoral hernia
+فتق فخذي	hernia, crural = femoral hernia
+فتق فخذي	hernia, femoral = crural hernia
+فتق فرجي	hernia, hiatal - hiatus hernia
+فتق فرجي	hernia, hiatal = hiatus hernia
+فتق فرجي	hiatus hernia = hiatal hernia
+فَتْقٌ فَرْجِيّ	pudendal hernia
+فتق فُرجي منزلق	hernia, sliding hiatal
+فَتْقُ فيلبو	Velpeau's hernia
+فتق قُرْصيّ	disk disease; hernia disease
+فتق قطني	hernia, lumbar
+فَتْقٌ قَطَنِيّ	lumbar hernia
+فتق قمعي	hernia, funicular
+فَتْقٌ كاذِب	pseudohernia
+فَتْقٌ كامِل	complete hernia
+فتق كامل	hernia, complete
+فَتْقُ كرونلاين	Kronlein's hernia (inguinoproperitoneal hernia)
+فَتْقُ كلوكيه	Cloquet's hernia (pectineal crural hernia)
+فَتْقُ كوبر	Cooper's hernia (retroperitoneal hernia)
+فَتْقُ كوستر	Kuster's hernia (superficial inguinal hernia)
+فتق لا يرد	hernia, irreducible
+فتق لاكيسي	hernia, extrasaccular
+فَتْقٌ لامُباشِر	indirect hernia
+فَتْقُ لوجييه	Laugier's hernia
+فَتْقٌ لَوْزِيّ	tonsillar hernia
+فَتْقُ ليتريه	Littre's hernia (diverticular hernia)
+فَتْقٌ مائِل	oblique hernia
+فتق مائل - فتق أربي غير مباشر	hernia, oblique = indirect inguinal hernia
+فَتْقٌ مُباشِر	direct hernia
+فتق مبيضي	hernia, ovarian
+فَتْقٌ مُتَكَيِّس	encysted hernia
+فتق مثاني	hernia, vesical
+فَتْقٌ مَثانِيّ	vesical hernia
+فَتْقٌ مُجَاوِرٌ للسُّرَّة	para-umbilical hernia
+فَتْقٌ مُجَاوِرٌ للصِّفاق	paraperitoneal hernia
+فَتْقٌ مُجَاوِرٌ للمَريء	paraesophageal hernia
+فتق محتبس	hernia, incarcerated
+فَتْقٌ مُخْتَفٍ	concealed hernia
+فتق مختنق	hernia, strangulated
+فَتْقٌ مُخْتَنِق	strangulated hernia
+فتق مخي	hernia, cerebri
+فتق مخي بالحجاج	cephalocele orbitale
+فَتْقُ مَساريقِ القولون	mesocolic hernia
+فتق مساريقي	hernia, mesenteric
+فَتْقٌ مُسْتَقيمِيّ	rectal hernia (hernia in recto)
+فتق مستقيمي مهبلي	hernia, rectovaginal = rectocele
+فَتْقٌ مُسْتَقيمِيٌّ مَهْبِلِيّ	rectovaginal hernia (rectocele)
+فَتْقٌ مَعِدِيٌّ مَريئِيّ	gastroesophageal hernia
+فتق معدي مريئي	hernia, gastroesophageal
+فَتْقٌ مُكْتَسَب	acquired hernia
+فتق مكتسب	hernia, acquired
+فَتْقٌ مُنْحَبِس	incarcerated hernia
+فَتْقٌ مُنْزَلِق	hernia parglissement (sliding hernia)
+فتق منزلق	hernia, sliding
+فَتْقٌ مُنْزَلِق	sliding hernia (slip hernia)
+فَتْقٌ مُنْزَلِق	slip hernia (slipped hernia)
+فَتْقٌ مُنْزَلِق	slipped hernia
+فتق مهبلي - قيلة مهبلية	hernia, vaginal = colpocele
+فتق مهبلي خلفي	douglacele
+فَتْقٌ مَهْبِلِيٌّ خَلْفِيّ	posterior vaginal hernia
+فَتْقٌ مَهْبِلِيٌّ شُفْرِيّ	cremnocele (vaginolabial hernia)
+فَتْقٌ مَهْبِلِيٌّ شُفْرِيّ	vaginolabial hernia
+فَتْقُ مورغاني	Morgangni's hernia
+فَتْقٌ ناقِص	incomplete hernia
+فَتْقُ هاي	Hey's hernia (encysted hernia)
+فَتْقُ هسلباخ	Hesselbach's hernia
+فَتْقُ هولتهاوس	Holthouse's hernia (inguinocrural hernia)
+فَتْقٌ وَرِكِيّ	sciatic hernia
+فتق يُرَد	hernia, reducible
+فتْل	torsion
+فَتَلَ	twist
+فجوة هوائية	air gap,
+فَحمٌ مُلْتَهب	flaming coal
+فَخِذُ هايل برونر	Heilbronner's thigh
+فِرَار	elopement
+فراش المَرَض	sickbed
+فُرْجة	rotary gap
+فُرْجَةُ شَرَرٍ دَوّارة	rotary spark gap
+فرضية البثرية	blister hypothesis
+فَرْطُ الإِسْهال	hypercatharsis
+فَرْطُ التَّحَسُّسِ بالتَّماس	contact hypersensitivity (contact dermatitis)
+فَرْطُ التَّنَسُّجِ الالْتِهابِيّ	inflammatory hyperplasia
+فَرْطُ التَّنَسُّجِ الكُظْرِيُّ	congenital virilizing adrenal hyperplasia (adrenogenital syndrome)
+فَرْطُ التَّنَسُّجِ اللِّيفِيُّ	fibrous inflammatory hyperplasia
+فَرْطُ التوَتُّر	hypertension
+فَرْطُ التَّوَرُّم	hyperoncosis
+فَرْطُ الحِسّ	hyperesthesia
+فَرْطُ الحَساسِيَّة	hypersensibility
+فَرْطُ الحَسّاسيَّة	hypersensitivity
+فَرْطُ الحَسَاسِيَّة	hypersusceptibility
+فَرْطُ الحَساسِيَّةِ للبَرْد	cryaesthesia (cryesthesia)
+فَرْطُ الحَساسِيَّةِ للبَرْد	hypercryalgesia
+فَرْطُ الحَساسِيَّةِ للبَرْد	hypercryesthesia
+فَرْط الحُمَّى	hyperpyrexia
+فَرْطُ السِّمْنَة	hyperadiposis (obesity)
+فَرْطُ السِّمْنَة	hyperadiposity (obesity)
+فَرْطُ الضَّغْطِ العَصَبِيُّ العَضَلِيّ	neuromuscular hypertension
+فَرْطُ الضَّغْطِ داخِلَ القِحْف	intracranial hypertension
+فَرْطُ اللُّعَابِ السُّكَّرِيّ	glycosialorrea
+فَرْطُ الوَزْن	overweight
+فَرْطُ الوَزْنِ بالسِّمْنَة	obese overweight
+فَرْطُ تَنَسُّجِ اللُّبِّ الثَّاقِب	chronic perforating hyperplasia of pulp (chronic open hyperplastic pulpitis)
+فَرْطُ حَساسِيَّةِ الأَسْنان	hemodia
+فَرْطُ حَساسِيَّةِ البَرْد	cryesthesia
+فَرْطُ سُكَّرِ السَّائِلِ النُّخاعِيّ	hyperglycorrhachia
+فرط سكريات بلازما الدم	hyperglycoplasmia
+فَرْطِ شَحْمِيَّاتِ الدَّمِ السُكَّرِيُّ	diabetic lipemia
+فَرْطُ ضَغْطِ الدَّم	hyperpiesia (hypertension)
+فَرْطُ ضَغْطِ الدَّمِ	vascular hypertension (hypertension)
+فَرْطُ ضَغْطِ الدَّمِ الأَحْمَر	red hypertension (benign hypertension)
+فرْطُ ضَغْطِ الدَّمِ الأَساسِيّ	essential hypertension
+فَرْطُ ضَغْطِ الدَّمِ الانْبِساطِيّ	diastolic hypertension
+فَرْطُ ضَغْطِ الدَّمِ الانْتِيابِيّ	episodic hypertension (paroxysmal hypertension)
+فَرْطُ ضَغْطِ الدَّمِ الانْتِيابِيّ	paroxysmal hypertension
+فَرْطُ ضَغْطِ الدَّمِ الانْقِباضِيّ	systolic hypertension
+فَرْطُ ضَغْطِ الدَّمِ الأَوَّلِيّ	primary hypertension
+فَرْطُ ضَغْطِ الدَّمِ البابِيّ	portal hypertension
+فَرْطُ ضَغْطِ الدَّمِ البَيْن-بَيْنِيّ	borderline hypertension
+فَرْطُ ضَغْطِ الدَّمِ الثَّانَوِيّ	secondary hypertension
+فَرْطُ ضَغْطِ الدَّمِ الحَمْلِيّ	gestational hypertension
+فَرْطُ ضَغْطِ الدَّمِ الحَميد	benign hypertension
+فَرْطُ ضَغْطِ الدَّمِ الحَميدُ داخِلَ	benign intracranial hypertension
+فَرْطُ ضَغْطِ الدَّمِ الخَبيث	malignant hypertension
+فَرْطُ ضَغْطِ الدَّمِ الرِّئَوِيّ	pulmonary hypertension
+فَرْطُ ضَغْطِ الدَّمِ الشُّحوبِيّ	pale hypertension
+فَرْطُ ضَغْطِ الدَّمِ الشِّرْيانِيّ	arterial hypertension
+فَرْطُ ضَغْطِ الدَّمِ العابِر	transient hypertension
+فَرْطُ ضَغْطِ الدَّمِ الكُظْرِيُّ	adrenal hypertension
+فَرْطُ ضَغْطِ الدَّمِ الكُظْرِيُّ	suprarenal hypertension (adrenal hypertension)
+فَرْطُ ضَغْطِ الدَّمِ الكُلْوِيُّ	renal hypertension
+فَرْطُ ضَغْطِ الدَّمِ اللامُسْتَقِرّ	labile hypertension
+فَرْطُ ضَغْطِ الدَّمِ المَجْهُوْلُ	idiopathic hypertension
+فَرْطُ ضَغْطِ الدَّمِ المَصْحُوبُ	symptomatic hypertension (secondary hypertension)
+فَرْطُ ضَغْطِ الدَّمِ المُعَجَّل	accelerated hypertension
+فَرْطُ ضَغْطِ الدَّمِ المُنْخَفِضُ	low-renin hypertension
+فَرْطُ ضَغْطِ الدَّمِ النَّاجِمُ عن	renoprival hypertension
+فَرْطُ ضَغْطِ الدَّمِ النَّاجِمُ عن	renovascular hypertension
+فَرْطُ ضَغْطِ الدَّمِ النُّخامِيُّ	pituitary hypertension
+فَرْطُ ضَغْطِ الدَّمِ في الأَوْعِيَةِ	splenoportal hypertension
+فَرْطُ ضَغْطِ الدَم لغُولدبلات	Goldblatt hypertension (renal hypertension)
+فَرْطُ ضَغْطِ العَين	ocular hypertension
+فُرْفُرِيَّةٌ حِكِّيَّة	itching purpura
+فُرْفُرِيَّةٌ خَبيثَة	malignant purpura (epidemic cerebrospinal meningitis)
+فَرَكَ	chafe
+فُرْن تَنَفِيط	blister furnace
+فرن ذو اسطوانة دوارة	rotary drum furnace
+فُسَيْفِساء التَّبغ: مرضٌ فيروسيّ يصيب	tobacco mosaic
+فَشُّ التَّوَرُّم	detumescence
+فص التذنيب	coma lobe
+فُصَاد	bleeding disease
+فُصَال عَظْمِيّ	osteoarthritis
+فُصَالٌ عَظْمِيّ	osteoarthritis (osteoarthrosis)
+فُصَالٌ عَظْمِيّ	osteoarthrosis (osteoarthritis)
+فُصَالٌ عَظْمِيٌّ بَينَ السُّلاَمِيات	interphalangeal osteoarthritis
+فُصَالٌ عَظْمِيٌّ تَآكُلِيّ	erosive osteoarthritis
+فُصَالٌ عَظْمِيٌّ ضَخامِيّ	hypertrophic osteoarthritis
+فُصَالٌ عَظْمِيٌّ مُشَوِّهٌ مُتَوَطِّن	endemic osteoarthritis deformans
+فُصَالٌ عَظْمِيٌّ مُشَوِّهٌ مُتَوَطِّن	osteoarthritis deformans endemica
+فُصَالٌ عَظْمِيٌّ مُفْرِطُ التَّنَسُّج	hyperplastic osteoarthritis
+فُصام	paleophrenia (schizophrenia)
+فُصَام	schizophrenia
+فُصَام	schizophrenosis
+فُصَامٌ أَحْداثِيّ	process schizophrenia
+فُصامٌ أَحْلامِيّ	oneirophrenia
+فُصَامُ الانْفِصامِ الوِجْدَانِيّ	schizoaffective schizophrenia
+فُصَامٌ بَادِرِيّ	prodromal schizophrenia
+فُصَامٌ بَارانويديّ	paranoid schizophrenia
+فُصَامٌ بَسِيْط	simple schizophrenia
+فُصَامٌ تَفَاعُلِيّ	reactive schizophrenia
+فُصَامٌ جامُودِيّ	catatonic schizophrenia
+فُصَامٌ جَسَدِيّ	somatophrenia
+فُصَامٌ حادّ	acute schizophrenia
+فُصَامٌ حَدِّيّ	borderline schizophrenia
+فُصَامٌ خافٍ	latent schizophrenia
+فُصامٌ زَوَرِيّ	heboid paranoia (paranoid schizophrenia)
+فُصَامٌ سابِقٌ للذُّهَان	prepsychotic schizophrenia
+فُصَامٌ سامِحٌ بالتَّجَوُّل	ambulatory schizophrenia
+فُصَامٌ طُفُولِيّ	childhood schizophrenia
+فُصَامٌ عُصَابِيٌّ كاذِب	pseudoneurotic schizophrenia
+فُصَامٌ فَنَدِيّ	hebephrenic schizophrenia
+فُصامٌ لامُتَمَيِّز	undifferentiated schizophrenia
+فُصَامٌ لامُنْتَظِم	disorganized schizophrenia
+فصام متنقل	ambulatory schizophrenia
+فُصَامٌ نَوَوِيّ	nuclear schizophrenia
+فصوص دوارة	rotary lobes
+فُصيلة السرطانات الجرادية	Astacinea
+فصيلة زهريات الأجسام	Anthosomidae
+فُضالَةٌ زائِغَة	aberrant rest (choristoma)
+فُطارُ القَرْنِيَّة	keratomycosis
+فُطَارُ القُلْفَةِ و الحَشَفَةِ	balanoposthomycosis (gangrenous balanitis)
+فُطارٌ جِلْدِيّ	dermatophytosis
+فُطَارٌ جِلْدِيٌّ	dermomycosis (tinea)
+فُطَارٌ جِلْدِيٌّ	dermophytosis (tinea)
+فِطَارٌ شُعَاعي	actinomycosis
+فطار عنقودى	Botrytis disease
+فُطْرٌ دِماغِيّ	cerebral fungus
+فُطْرٌ دِماغِيّ	fungus cerebri
+فُطْرٌ دِماغِيّ	fungus of the brain (hernia cerebri)
+فُقاعٌ زُهْرِيِّ	syphilitic pemphigus
+فُقاعات	blisters
+فُقَاقِيع مُهْلية	magma blisters
+فَقْدُ البرُوتين الشَّحْمِيّ-ألفا مِنَ	analphalipoproteinemia (Tangier disease)
+فقدُ الشهيَّة	anorexia
+فَقْدٌ طُفَيليّ	parasitic loss
+فقدان الذاكرة	absence of memory
+فقر الدم	anaemia
+فَقْرُ الدَّم	anaemia (anemia)
+فقر الدم	anaemia, dirt-eater's
+فقر الدم	anemia
+فَقْرُ الدَّم	hypemia (anemia)
+فَقْرُ الدَّم	hypoemia (anemia)
+فَقْرُ الدَّم	hypohemia (anemia)
+فَقْرُ الدَّمِ الأديسوني	Addison's anemia (pernicious anemia)
+فَقْرُ الدَّمِ الأَساسِيّ	essential anemia (primary anemia)
+فَقْرُ الدَّمِ الانْحِلالِيُّ	fragmentation hemolytic anemia
+فَقْرُ الدَّمِ الانْحِلالِيّ	hemolytic anemia
+فَقْرُ الدَّمِ الانْحِلالِيُّ	nonspherocytic hemolytic anemia
+فَقْرُ الدَّمِ الانْحِلالِيُّ الحادّ	acute hemolytic anemia
+فَقْرُ الدَّمِ الانْحِلالِيُّ الخِلْقِيّ	congenital hemolytic anemia
+فَقْرُ الدَّمِ الانْحِلالِيُّ الخِلْقِيُّ	congenital nonspherocytic hemolytic anemia
+فَقْرُ الدَّمِ الانْحِلالِيُّ السُّمِيّ	toxic hemolytic anemia
+فَقْرُ الدَّمِ الانْحِلالِيُّ العَدْوائِيّ	infectious hemolytic anemia
+فَقْرُ الدَّمِ الانْحِلالِيُّ المُكْتَسَب	acquired hemolytic anemia
+فَقْرُ الدَّمِ الإنْحِلالِيُّ المَناعِيّ	immunohemolytic anemia
+فَقْرُ الدَّمِ الانْحِلالِيُّ النَّاجِمُ	microangiopathic hemolytic anemia
+فَقْرُ الدَّمِ الانْحِلالِيُّ الوِراثِيُّ	hereditary nonspherocytic hemolytic anemia
+فَقْرُ الدَّمِ الانْحِلالِيُّ بالمَنَاعَة	autoimmune hemolytic anemia
+فَقْرُ الدَّمِ الأنكلوستوميّ المَنْشَأ	ancylostoma anemia
+فَقْرُ الدَّمِ الإِهْلِيْلَجِيُّ الخَلايا	elliptocytary anemia
+فَقْرُ الدَّمِ الإِهْلِيْلَجِيُّ الخَلايا	elliptocytotic anemia (elliptocytosis)
+فَقْرُ الدَّمِ الأَوَّلِيّ	primary anemia
+فَقْرُ الدَّمِ البَثَعِيّ	scorbutic anemia
+فَقْرُ الدَّمِ التَّالِي للتَّشْعِيْع	radiation anemia
+فَقْرُ الدَّمِ التَّالي للتَّشْعِيْعِ	x ray anemia (radiation anemia)
+فَقْرُ الدَّمِ التَّالِي للنَّزْفِ عِنْدَ	posthemorrhagic anemia of newborn
+فَقْرُ الدَّمِ التَّخْفيفِيّ	dilution anemia
+فَقْرُ الدَّمِ التَّغْذَوِيّ	nutritional anemia
+فَقْرُ الدَّمِ الثَّانَويّ	secondary anemia
+فَقْرُ الدَّمِ الثُّنائِيُّ الشَّكْل	dimorphic anemia
+فَقْرُ الدَّمِ الجَبَلِيّ	mountain anemia
+فَقْرُ الدَّمِ الجُزَيئِيّ	molecular anemia
+فَقْرُ الدَّمِ الجَمَلِيُّ الكُرَيَّات	cameloid anemia (elliptocytosis)
+فَقْرُ الدَّمِ الحادّ	acute anemia
+فَقْرُ الدَّمِ الحادِّ التَّالِي للنَّزْف	acute posthemorrhagic anemia
+فَقْرُ الدَّمِ الحَدِيْدِيُّ الأَرُوْمَات	sideroblastic anemia
+فَقْرُ الدَّمِ الحَرُون	refractory anemia
+فَقْرُ الدَّمِ الحَرُونُ الحَدِيْدِيُّ	anemia refractoria sideroblastica
+فَقْرُ الدَّمِ الحَرُونُ ذُو	refractory sideroblastic anemia
+فَقْرُ الدَّمِ الخَبيث	malignant anemia (pernicious anemia)
+فَقْرُ الدَّمِ الخَفِيّ	occult anemia
+فَقْرُ الدَّمِ الخِلْقِيُّ النَّاجِمُ	congenital hypoplastic anemia
+فَقْرُ الدَّمِ الخَيلِيُّ العَدْوائِيّ	equine infectious anemia
+فَقْرُ الدَّمِ الخَيلِيُّ العَدْوائِيّ	infectious anemia of horses
+فَقْرُ الدَّمِ الرَّصاصِيُّ المَنْشَأ	lead anemia
+فَقْرُ الدَّمِ الرَّضاعِيُّ المَنْشَأ	breast anemia
+فَقْرُ الدَّمِ الرَّضْحِيّ	traumatic anemia
+فَقْرُ الدَّمِ الرَّمادِيّ	slaty anemia
+فَقْرُ الدَّمِ السُّمِّيّ	toxic anemia
+فَقْرُ الدَّمِ السَّوِيُّ الصِّباغ	normochromic anemia
+فَقْرُ الدَّمِ السِّوِيُّ الكُرَيَّات	normocytic anemia
+فَقْرُ الدَّمِ الصَّغيرُ الكُرَيَّات	microcytic anemia
+فَقْرُ الدَّمِ الضَّخْمُ الأَروماتِ	familial megaloblastic anemia
+فَقْرُ الدَّمِ الضَّخْمُ الأَرومات	megaloblastic anemia
+فَقْرُ الدَّمِ الضَّخْمُ الكُرَيَّات	megalocytic anemia
+فَقْرُ الدَّمِ الضُّمُورِيّ	atrophic anemia
+فَقْرُ الدَّمِ الطِّحالِيُّ المَنْشَأ	anemia splenetica
+فَقْرُ الدَّمِ الطِّحالِيُّ المَنْشَأ	splenic anemia
+فَقْرُ الدَّمِ العائِلِيُّ الصَّغيرُ	familial microcytic anemia (thalassemia)
+فَقْرُ الدَّمِ العائِلِيُّ ذُو الأَروماتِ	familial erythroblastic anemia (thalassemia major)
+فَقْرُ الدَّمِ العَوَزِيّ	deficiency anemia
+فَقْرُ الدَّمِ الفِيزْيولوجِيّ	physiologic anemia
+فَقْرُ الدَّمِ القُطْبِيّ	Arctic anemia (polar anemia)
+فَقْرُ الدَّمِ القُطْبِيّ	polar anemia
+فَقْرُ الدَّمِ الكَاذِبُ بالتَّشَنُّجِ	pseudoanemia angiospastica
+فَقْرُ الدَّمِ الكَبِيرُ الكُرَيَّاتِ	idiopathic macrocytic anemia
+فَقْرُ الدَّمِ الكَبيرُ الكُرَيَّات	macrocytic anemia
+فَقْرُ الدَّمِ الكَبيرُ الكُرَيَّاتِ	nutritional macrocytic anemia
+فَقْرُ الدَّمِ الكَبيرُ الكُرَيَّاتِ	tropical macrocytic anemia
+فَقْرُ الدَّمِ الكُرَوِيُّ الخَلايا	globe cell anemia (spherocytic anemia)
+فَقْرُ الدَّمِ الكُرَوِيُّ الخَلايا	spherocytic anemia
+فَقْرُ الدَّمِ اللاَّتَجَدُّدِيّ	aregenerative anemia (chronic congenital anemia)
+فَقْرُ الدَّمِ اللاتَنَسُّجِيُّ	aplastic anemia
+فَقْرُ الدَّمِ اللاهيدروكلوريكيّ	achlorhydric anemia (achylic anemia)
+فَقْرُ الدَّمِ المُتَرَافِقُ بفَرْطِ	sideremic anemia
+فَقْرُ الدَّمِ المَجْهول السَّبب	idiopathic anemia
+فَقْرُ الدَّمِ المُحْدَثُ بالأَدْوِيَة	drug induced anemia
+فَقْرُ الدَّمِ المَدارِيّ	intertropical anemia (hookworm disease)
+فَقْرُ الدَّمِ المَدارِيّ	tropical anemia
+فَقْرُ الدَّمِ المُرافِقِ لحِكَّةِ التراب	ground itch anemia (hookworm disease)
+فَقْرُ الدَّمِ المُسْتَجيبُ للبيرِيدُوكسين	pyridoxine-responsive anemia
+فَقْرُ الدَّمِ المُفْرِطُ الصِّباغ	hyperchromic anemia
+فَقْرُ الدَّمِ المُكْتَسَب النَّاجِمُ عن	acquired sideroachrestic anemia
+فَقْرُ الدَّمِ المِنْجَلِيّ	drepanocytic anemia (sickle cell anemia)
+فَقْرُ الدَّمِ المِنْجَلِيّ	sickle cell anemia
+فقر الدم المنجليّ	sickle cell anemia; sicklemia
+فقر الدَّم المِنجليّ	sickle-cell anemia
+فَقْرُ الدَّمِ المِنْجَلِيّ	sicklemia (sickle cell anemia)
+فَقْرُ الدَّمِ المِهْمازِيُّ الخَلايا	spur-cell anemia
+فَقْرُ الدَّمِ المَوضِعِيّ	local anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَنْ	cow's milk anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَنْ	goat's milk anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَن	leptospiral anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَن	milk anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَن اعْتِلالِ	microangiopathic anemia (microangiopathic hemolytic anemia)
+فَقْرُ الدَّمِ النَّاجِمُ عَن اعْتِلالِ	myelopathic anemia (myelophthisic anemia)
+فَقْرُ الدَّمِ النَّاجِمُ عَن الفَشَلِ	renal failure anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَن الفِينيل	phenylhydrazine anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَن تَصَلُّبِ	myelosclerotic anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَن تَصَلُّبِ	osteosclerotic anemia
+فَقْرُ الدَّمِ النَّاجِمُ عن تَعَذُّرِ	achrestic anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَنْ تعذُّر	anhematopoietic anemia (aplastic anemia)
+فَقْرُ الدَّمِ النَّاجِمُ عَنْ تعذُّر	anhemopoietic anemia (aplastic anemia)
+فَقْرُ الدَّمِ النَّاجِمُ عَن تَعَذُّرِ	sideroachrestic anemia (sideroblastic anemia)
+فَقْرُ الدَّمِ النَّاجِمُ عَنْ داءِ	chlorotic anemia (chlorosis)
+فَقْرُ الدَّمِ النَّاجِمُ عَن دَاءِ	hookworm anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَن عَوَزِ	asiderotic anemia (iron deficiency anemia)
+فَقْرُ الدَّمِ النَّاجِمُ عَنْ عَوَزِ	dehydrogenase deficiency anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَنْ عَوَزِ	folic acid deficiency anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَنْ عَوَزِ	glucose-6-phosphate dehydrogenase deficiency anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَن عَوَزِ	iron deficiency anemia
+فَقْرُ الدَّمِ النَّاجِمُ عن فَقْدِ	achylic anemia
+فَقْرُ الدَّمِ النَّاجِمُ عن فَقْدِ	anemia achylica
+فَقْرُ الدَّمِ النَّاجِمُ عَن كَثْرَةِ	leukoerythroblastic anemia (leukoerythroblastosis)
+فَقْرُ الدَّمِ النَّاجِمُ عَن نَقْصِ	hypoplastic anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَن نَقْصِ	sideropenic anemia
+فَقْرُ الدَّمِ النَّاقِصُ الصِّباغِ	anemia hypochromica sideroachrestica hereditaria
+فَقْرُ الدَّمِ النَّاقِصُ الصِّباغ	hypochromic anemia
+فَقْرُ الدَّمِ النَّاقِصُ الصِّباغِ	hypochromic microcytic anemia
+فَقْرُ الدَّمِ النَّاقِصُ الصِّباغِ	idiopathic hypochromic anemia
+فَقْرُ الدَّمِ النَّزْفِيّ	hemorrhagic anemia
+فَقْرُ الدَّمِ النِّقْوِيُّ المَنْشَأ	myelogenous anemia
+فَقْرُ الدَّمِ النَّقيلِيّ	metastatic anemia
+فَقْرُ الدَّمِ الهَدَفِيُّ الخَلايا	target cell anemia
+فَقْرُ الدَّمِ الهِلاَلِيُّ الخَلايا	crescent cell anemia (sickle cell anemia)
+فَقْرُ الدَّمِ الوَبيل	pernicious anemia
+فَقْرُ الدَّمِ الوِرَاثِيُّ	genetic anemia
+فَقْرُ الدَّمِ الوِراثِيُّ الحَديدِيُّ	hereditary sideroblastic anemia
+فَقْرُ الدَّمِ الوِراثِيُّ الضَّخْمُ	hereditary megaloblastic anemia
+فَقْرُ الدَّمِ الوِراثِيُّ الكَبيرُ	hereditary macrocytic anemia
+فَقْرُ الدَّمِ الوِراثِيُّ النَّاقِصُ	hereditary hypochromic anemia (hereditary sideroblastic anemia)
+فَقْرُ الدَّمِ الوَليدِيّ	anemia neonatorum
+فَقْرُ الدَّمِ اليَفَعِيُّ الوَبيل	juvenile pernicious anemia
+فَقْرُ الدَّمِ بتَصَلُّبِ العِظام	osteosclerotic anaemia
+فَقْرُ الدَّمِ بحَسَبِ أديسون	addisonian anemia (pernicious anemia)
+فَقْرُ الدَّمِ بحَسَبِ أديسون بيرمر	Addison-Biermer anemia (pernicious anemia)
+فَقْرُ الدَّمِ بحَسَبِ بَانْتِي	Banti's anemia
+فَقْرُ الدَّمِ بحَسَبِ فانْكونِي	Fanconi's anemia (Fanconi's pancytopenia)
+فَقْرُ الدَّمِ بعَوَزِ الحَديد	iron- deficiency anemia
+فَقْرُ الدَّمِ ذُو أَجْسامِ هاينْز	Heinz-body anemia
+فَقْرُ الدَّمِ ذُو الأَروماتِ الحُمْرِ	erythroblastic anemia of childhood (beta-thalassemia)
+فَقْرُ الدَّمِ ذُو الكُرَيَّات الحَمْرَاء	pure red cell anemia
+فَقْرُ الدَّمِ عِنْدَ عُمَّالِ الأَنْفاق	tunnel anemia (miners anemia)
+فقر دم	anemia; anaemia
+فَقْرُ دَمِ الابْيِضاض الكاذِبِ	anemia pseudoleukemica infantum
+فَقْرُ دَمِ البَحْرِ المَتَوَسِّط	Mediterranean anemia (beta-thalassemia)
+فَقْرُ دَمِ المُعَدِّنين	miner anemia
+فَقْرُ دَمِ المُعَدِّنين	miners' anemia (hookworm anemia)
+فَقْرُ دَمِ الوَليدِ الخِلْقِيّ	congenital anemia of newborn
+فَقْرُ دَمٍ تَسَمُّمِيّ	toxanemia
+فَقْرُ دَمِ كولي	Cooley's anemia (beta-thalassemia)
+فَقْرُ دم مِنْجَلِيّ	sicklemia
+فَقْرُ دَمٍ يَرَقانِيّ	icteroanemia
+فَقْرُدَمِ كولي	Cooley's anemia
+فلتر لفائفي للوقود	fuel wound filter
+فَلْغَمُون	phlegmon
+فَلْغَمُونُ هولز	Holz phlegmon
+فلوازاكورت	fluazacort
+فلوبريدنيزولون	fluprednisolone
+فلوتيازين	flutiazin
+فلودازونيوم	fludazonium
+فلودوركس	fludorex
+فلوراندرينولون	flurandrenolone
+فلوراندرينوليد	flurandrenolide
+فلوربيبروفين	flurbiprofen
+فلوروسيتابين	flurocitabine
+فلوسينولون	fluocinolone
+فلوسينونيد	fluocinonide
+فلوكسوريدين	floxuridine
+فلوكوازون	fluquazone
+فلوكورتين	fluocortin
+فلوميثازون	flumethasone
+فلوميزول	flumizole
+فلونيسوليد	flunisolide
+فلونيكسين	flunixin
+فَمٌ خَنْدَقِيّ	trench mouth (ulcerative gingivitis)
+فم زهري	anthocyathus
+فَمٌ قارِح	sore mouth (contagious ecthyma)
+فَمٌ مُخَنْدَق	trench mouth (necrotizing gingivitis)
+فنيتوين	phenytoin
+فُواقٌ وَبائِيّ	epidemic hiccup
+فواق وبائي	hiccough, epidemic
+فَوْتٌ	backlash
+فوق المرض	epinosis
+فوق فصيلة الدرنات	Arodoidea
+فُولاذ منفَّط	blister steel
+في العمى	in the blind
+في غِيابِ الحُمَّى	abs. feb. (absente febre)
+فيبوما	vipoma (vasoactive intestinal polypeptide tumor)
+فيتامينٌ مُضادٌّ للعدْوَى	anti-infection vitamin (vitamin A)
+فيتامينٌ مُضادٌّ للعُصاب	antineuritic vitamin (thiamin)
+فيدارابين	vidarabine
+فيراباميل	verapamil
+فيروس CCA	CCA virus (chimpanzee coryza agent)
+فيروس EEE	EEE virus (eastern equine encephalomyelitis)
+فيروس EMC	EMC virus (encephalomyocarditis virus)
+فيروس LCM	LCM virus (lymphocytic choriomeningitis virus)
+فيروس VEE	VEE virus (Venzuelan-Equine Encephalomyelitis)
+فيروسُ WEE	WEE virus (western equine encephalomyelitis virus)
+فَيروسُ اِبْيِضاضِ الدَّم	leukemia virus
+فيروسُ اِبْيِضاضِ الدَّمِ الفَأْرِيّ	murine leukemia virus
+فيروسُ اِبْيِضاضِ الدَّمِ المَنْسوبُ	Schwartz leukemia virus
+فيروسُ ابيضاضِ الدَّمِ و الساركومة	leukemia-sarcoma virus
+فيروس الابيضاض	leucovirus
+فَيرُوسُ الإِسْهالِ البَقَرِيّ	bovine diarrhea virus
+فَيرُوسُ الْتِهاب الحَنْجَرَة و	acute laryngotracheobronchitis virus
+فَيروسُ الْتِهابِ الدِّماغِ الرَّبيعِيِّ	Russian spring-summer encephalitis virus
+فيروسُ الْتِهاب الدِّماغِ السَّنت لويسي	St. Louis encephalitis virus
+فيروسُ الْتِهابِ الدِّماغِ اليابانيِّ B	Japanese B encephalitis virus
+فيروسُ الْتِهابِ الدِّماغِ بوَادي ميراي	Murray Valley encephalitis virus
+فَيرُوسُ الْتِهابِ الدِّماغِ و النُّخاعِ	equine encephalomyelitis virus
+فيروسُ الْتِهابِ الدِّماغِ و النُّخاعِ	infectious porcine encephalomyelitis virus
+فَيْرُوسُ الْتِهابِ الدِّماغِ وعَضَلِ	encephalomyocarditis virus
+فيروسُ الْتِهابِ الرِّئَةِ الوَليدِيّ	newborn pneumonitis virus
+فيروسُ الْتِهاب السَّحايا و المشيميَّات	lymphocytic choriomeningitis virus
+فيروسُ الْتِهابِ الفَمِ الحُوَيصِلِيّ	vesicular stomatitis virus
+فَيروسُ الْتِهابِ القَرْنِيَّةِ و	epidemic kerato-conjunctivitis virus
+فَيروسُ الْتِهابِ الكَبِد	hepatitis virus
+فيروسُ الْتِهابِ الكَبِدِ الفأريّ	mouse hepatitis virus
+فيروسُ الْتِهابِ الكَبِدِ اللاأَلْفِيِّ و	non A, non B hepatitis virus
+فيروسُ الْتِهابِ سِنْجابِيَّة النُّخاع	poliomyelitis virus
+فيروسُ التَّوْرام	polyoma virus
+فيروسُ الحَصْبَة	measles virus
+فَيروسُ الحَصْبَةِ الأَلْمانِيَّة	rubella virus
+فيروسُ الحُمَّى البَاباتاسيَّة	pappataci fever virus
+فيروسُ الحُمَّى البُلْعُوميَّةُ	pharyngo-conjunctival fever virus
+فَيرُوسُ الحُمَّى النَّزْفِيَّةِ	Argentinian hemorrhagic fever virus
+فيروسُ الحُمَّى النَّزْفِيَّة	hemorrhagic fever virus
+فَيرُوسُ الحُمَّى النَّزْفِيَّةِ البوليفية	Bolivian hemorrhagic fever virus
+فَيرُوسُ الدَّاءِ الاِشْتِماليّ	cytomegalic inclusion disease virus
+فَيروسُ الدَّاءِ النَّمَشِيّ	exanthematous disease virus
+فَيرُوسُ الزُّكام	coryza virus
+فيروسُ النَّزْلَةِ الوافِدَة	influenza virus
+فيروسُ النُّكاف	mumps virus
+فَيروسُ الهِرْبِس	herpes virus
+فَيروسُ الهِرْبِسِ B	herpes virus B (herpes B virus)
+فَيروسُ الهِرْبِسِ الخَيلِيّ	equine herpes virus
+فيروس الوَرَمِ الثَّدِييّ	mammary tumor virus
+فيروسُ الوَرَمِ الثَّدْييِّ الفَأْريّ	mouse mammary tumor virus
+فَيروسُ الوَرَمِ الحُلَيمِيّ	papilloma virus
+فَيروسُ الوَرَمِ الحُلَيمِيُّ البَشَرِيّ	human papilloma virus
+فيروسُ الوَرَمِ الحُلَيمِيِّ في الأَرْنَب	rabbit papilloma virus
+فَيروسُ الوَرَمِ اللِّيفيّ	fibroma virus
+فَيرُوسُ الورم الليفيِّ العَميق	deep fibroma virus
+فيروسُ الوَرَمِ اللِّيفِيِّ في الأَرْنَب	rabbit fibroma virus
+فيروسُ الوَرَمِ المُخاطِيّ	myxoma virus
+فيروسُ الوَرَمِ المُخاطِيِّ في الأَرْنَب	rabbit myxoma virus
+فيروسُ الوَرَمِ النَّكَفِيِّ الفَأْرِيّ	mouse parotid tumor virus
+فيروس برونهيلد	Brunhilde virus
+فَيرُوس بيتنر	Bittner virus (mouse mammary tumor virus)
+فيروس تيشن	Teschen virus
+فيروسُ جُدَرِي الأَرْنَب	rabbitpox virus
+فيروس جدري البقر	cowpox virus
+فيروسُ جُدَرِيُّ الخَنازير	swinepox virus
+فيروس جُدَري الطُّيور	fowlpox virus
+فيروسُ جُدَرِي الفأر	mousepox virus
+فيروسُ جُدَرِي القُرود	monkeypox virus
+فيروسُ حُمَّى الصَّادِع	Rift Valley fever virus
+فيروسُ حُمَّى الفَواصِد	phlebotomus fever virus
+فيروسُ حُمَّى الفَواصِد	sandfly fever virus
+فَيرُوسُ حُمَّى القَرْمِ النَّزْفِيَّة	Crimean hemorrhagic fever virus
+فيروسُ حُمَّى أُومْسِك النَّزْفِيَّة	Omsk hemorrhgic fever virus
+فَيرُوسُ حُمَّى بوامبا	Bwamba fever virus
+فيروس حُمَّى كولورادو القَرادِيَّة	Colorado tick fever virus
+فيروس حُمَّى لاسا	Lassa fever virus
+فَيرُوسُ داءِ X الأوستراليّ	Australian X disease virus
+فيروسُ داءِ الكَلَب	rabies virus
+فيروس داءِ غابَةِ كياسانور	Kyasanur Forest disease virus
+فَيروسُ داء نيوكاسل	Newcastle disease virus
+فيروس راوشر لاِبْيِضاضِ الدَّم	Rauscher leukemia virus
+فيروسُ زيمرمان	Zimmermann virus
+فيروسُ ساركومة روس	Rous sarcoma virus
+فيروسُ طاعونِ الطُّيور	fowl plague virus
+فيروس غرافي	Graffi virus
+فَيْروس لانسينغ	Lansing virus
+فيروسُ لونيو	Lunyo virus
+فيروسُ ليون	Leon virus
+فيروس مولوني	Moloney virus
+فَيروسُ مُولُونِي الابْيِضاضِيّ	Moloney leukemia virus
+فَيروسُ نَظيرَةِ النَّزْلَةِ الوافِدَة	parainfluenza virus
+فَيروسٌ هِرْبِسِيٌّ بَشَرِيّ	human herpes virus
+فيروسٌ وَرَمِيّ	tumor virus
+فيروسُ يابا	Yaba virus
+فيروسُ ييل SK	Yale SK virus
+فيروسات الحلأ	herpes viruses
+فَيرُوساتُ الزُّكام	common cold viruses
+فَيرُوساتٌ حَيَوانِيَّة	animal viruses
+فيروساتٌ قِرْدِيَّة	simian viruses
+فَيروساتٌ مِعَوِيَّةٌ يَتيمَة	enteric orphan viruses
+فيروساتٌ مَنْقُولَةٌ بالقُراد	tickborne viruses
+فَيروساتٌ نَباتِيَّة	plant viruses
+فَيروسَةُ الوَرَمِ الحُلَيمِيّ	papillomavirus
+فيزنا	visna
+فِيْمَة	phyma
+فِيْمَةٌ سِيْسَائِيَّة	rachiophyma
+فيناسيتين	phenacetin
+فينامات	fenamate
+فينبلاستين	vinblastine sulfate
+فينبوتازون	phenbutazone
+فِينبوفِين	fenbufen
+فِينبِيبالون	fenpipalone
+فِيندوزال	fendosal
+فينديزين	vindesine
+فينكريستين	vincristine sulfate
+فينكلوراك	fenclorac
+فِينكلُوفيناك	fenclofenac
+فينوبروفِين	fenoprofen
+فينيل بوتازون	phenylbutazone

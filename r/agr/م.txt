@@ -1,0 +1,860 @@
+مؤشر الجفاف	drought index
+مؤشر جفاف	aridity index
+ماءُ الشَّعير	barley water
+ماءُ الشُّعَيرات	capillary water
+مائي	alluvial
+ماجستير تقني في دراسات الطاقة الشهادة	M.Tech. in Energy Studies Qualification Awarded: Postgraduate/Master
+ماجستير في دراسات الطاقة الشهادة المسلمة	MSc Energy Studies Qualification Awarded: Postgraduate/Master
+مادة أسفلتية سائلة بطيئة الجفاف	slow-curing liquid asphaltic material
+مادة التربة	soil material
+مادة التربة الردمية	borrow material
+مادة تُساعد على تخلل المياه في التربة	coarse filling material
+مادة عضوية بالتربة	soil organic matter
+مادةٌ مُخَصِّبة	fertilizer
+مازريون	spurge-olive
+ماسِكَةُ الميْش	porte-meche
+ماشِيَة	livestock
+ماشية	Livestock
+ماشية . بقر	cattle
+ماكينة ري خطية	moving lateral types irrigation machine
+مالَ	rake
+مال التأسيس	seed money
+مالاثيون	malathion
+مالْت	malt
+مالتوز	maltose
+مبادرة إقليمية لغازات الدفيئة	regional greenhouse gas initiative (RGGI)
+مبادرة ميكنة الزراعة	Agriculture Mechanization Initiative
+مبدأ الزراعة العضوية	organic agriculture principle
+مبذر	seed-drill
+مُبَرْهَنةُ ثو- سيغِل- روث	Thue-Siegel-Roth theorem
+مُبَرْهَنةُ روثْ	Roth's theorem
+مبضع "رامزبوتام"	knife, Ramsbotham's sickle
+مَبْنى التشغيل	farm building; agricultural building
+مُبيد	bactericidal
+مبيد	larvicide
+مُبيد	pesticide
+مبيد	pesticides
+مبيد إزالة الرغوة	agent, foam destruction
+مبيد أعشاب	herbicide
+مُبيد ال?يروسات: عاملٌ مبيدٌ لل?يروسات	virucide
+مُبيدُ الأَبْواغ	sporicidal
+مُبيدُ الأَبْواغ	sporicide
+مُبيد الأبواغ: مادة مُهْلِكة للأبواغ	sporicide
+مُبيدُ الأَحْياء	biocidal
+مبيد الأرق	syrphus
+مُبيدُ الأَعْراس	gametocidal
+مبيد الأعراس	gametocide
+مُبيدُ الأَعْشاب	herbicide
+مُبيدُ الأعشاب	weedicide = herbicide
+مبيد الأعشاب	weedkiller
+مبيد الأعشاب الضارة	weed-killer
+مبيد الأعشاب: مادة مبيدة للأعشاب الضارّة	herbicide
+مُبِيد الآفات	pesticide
+مُبيدُ الأقْصُوريَّات	oxyuricide
+مبيد الأميبا	amebicide
+مُبِيْدُ الأَميبات	amebacidal
+مُبِيْدُ الأَميبات	amebacide
+مُبِيْدُ الأَميبات	amebicidal
+مُبِيْدُ الأَميبات	amebicide
+مُبيد الأميبة	amoebicide
+مُبيدُ الأَنُوفيلات	anophelicide
+مُبيدُ الأَوالِي	protozoacide
+مُبيدُ الأَوالِي	protozoicide
+مُبيدُ البَراغيث	pulicicide
+مُبيدُ البَراغيث	pulicide
+مُبيدُ البَعوض	culicicide
+مُبيدُ البَعوض	culicide
+مُبِيْدُ البَعوض	mosquiticidal
+مُبِيْدُ البَعوض	mosquiticide
+مُبِيْدُ البَعُوْض	mosquitocidal
+مُبِيْدُ البَعُوْض	mosquitocide
+مبيد البكتريا	bactericidal; bactericide
+مبيد البكتيريا	bactericide
+مُبيدُ البِلْهارْسيَّات	schistosomacide
+مُبِيْدُ البَوَائِغ	sporontocidal
+مبيد البيض	egg-killer
+مُبيدُ البُيوض	ovicidal
+مُبيدُ البُيوض	ovicide
+مُبيد البُيَيضات: مادّة قاتلة للبُيَيْضات	ovicide
+مبيد الجراثيم	antimicrobial
+مُبيدُ الجَراثيم	bactericide
+مبيد الجراثيم	disinfectant
+مُبيدُ الجَراثيم	germicidal
+مُبيدُ الجَراثيم	germicide
+مُبيد الجراثيم	microbicide
+مُبيدُ الجَراثيمِ النَّوعِيّ	specific bactericide (bacteriolysin)
+مُبيدُ الجراثيم: مادة مُبيدة للجراثيم	germicide
+مُبيدُ الجَرَب	scabicide
+مُبيدُ الجُرْذان	raticide
+مُبيد الجِرذان: مادة قاتلةٌ للجِرذان	raticide
+مُبيدُ الحَشَرات	insecticide
+مُبيدُ الحَشَرات بالتَّلامُس	contact insecticide
+مبيد الحلزونات	helicide
+مُبيدُ الحَلَم	acarotoxic
+مُبيدُ الحُلَيْزِنَاتِ	spirillicidal
+مُبيدُ الحُلَيْزِنَاتِ	spirillicide
+مبيد الحمك	acaricide
+مُبيدُ الخَراطينِيَّات	lumbricide
+مُبيدُ الخَلاَيا	cellulicidal
+مُبيدُ الخَلاَيا	cytocide
+مُبيدُ الخَلاَيا الوَرَمِيَّة	tumoricidal
+مبيد الخيطيات	nematocide
+مُبيدُ الدُّود	vermicidal
+مُبيدُ الدُّود	vermidice
+مُبيدُ الدِّيدان	helminthicide
+مُبيدُ الدِّيدان	vermicide
+مُبيدُ الذُّباب	muscacide
+مُبيدُ الذُّباب	muscicide
+مُبيدُ الذَّوانِب	cercaricidal
+مُبيدُ الرَّخْوِيَّات	molluscacide
+مُبيدُ الرَّخْوِيَّات	molluscicidal
+مُبيدُ الرَّخْوِيَّات	molluscicide
+مُبيدُ الرِّيكِتْسِيَّات	rickettsicidal
+مُبيدُ السَّرَطان	cancericidal
+مُبيدُ السَّرَطان	cancerocidal
+مُبيدُ السُّوس	miticidal
+مُبيدُ السُّوس	miticide
+مُبيد السُّوس: مادة مبيدة للسُّوس	miticide
+مُبيدُ الشُّراطِيَّات	cesticidal
+مُبيد الشَّريطيّات	taeniacide
+مُبيدُ الشَريطِيَّات	teniacide
+مُبيدُ الصَّفَر	ascaricidal
+مُبيدُ الصَّفَر	ascaricide
+مُبيدُ الضَّمَّات	vibriocidal
+مُبيد الطحالب	algicide
+مُبيد الطحالب: مادّة مُبيدة للطحالب	algicide
+مُبيدُ الطُّفَيلِيَّات	parasiticide
+مُبيدُ الطُّفَيلِيَّاتِ الحَيَوانِيَّةِ	epizoicide
+مُبيدُ العُثّة	Aramite
+مُبيدُ العُصَيَّات	bacillicide
+مُبيدُ العُصَيَّاتِ السُّلِّيَّة	tuberculocide
+مُبيدُ العِقْدِيَّات	streptococcicide
+مُبيدُ العَلَق	hirudicidal
+مُبيدُ العَلَق	hirudicide
+مُبيدُ العُنْقودِيَّات	staphylocide
+مُبيدُ العُنْقودِيَّات	staphylococcide
+مُبيدُ الفُطْر	fungicide
+مُبيد الفُطر: مادة مُبيدةٌ للفُطر	fungicide
+مبيد الفطريات	antifuncal agent
+مُبيدُ الفُطْرِيَّات	fungicidal
+مُبيدُ الفُطْرِيَّات	fungicide
+مُبيدُ الفَيْروس	viricide
+مُبيدُ الفيلاريَّات	filaricide
+مبيد القُرَاد	acaricide
+مُبيدُ القِرْبِيَّات	balantidicidal
+مُبيدُ القَمْل	lousicide
+مُبيدُ القَمْل	pediculicide
+مُبيدُ القَوارِض	rodenticide
+مُبيدُ الكُرَيَّات	globulicidal
+مُبيدُ اللَّولَبِيَّات	treponemicidal
+مُبيدُ اللِّيشْمانِيَّات	leishmanicidal
+مُبيدُ المُتَصَوِّرات	plasmodicide
+مُبيدُ المُتَقَسِّمات	schizonticide
+مُبيدُ المِثْقَبِيَّات	trypanocidal
+مُبيدُ المِثْقَبِيَّات	trypanocide
+مُبيدُ المَثْقبِيَّات	trypanosomacide
+مُبيدُ المِثْقَبِيَّات	trypanosomicide
+مُبيدُ المُشَعَّرات	trichomonacide
+مُبيدُ المُشَعَّرات	trichomonadicidal
+مُبيدُ المِكْروبات	microbicidal
+مُبيدُ المِكْروبات	microbicide
+مُبيدُ المُكَوَّراتِ البُنِّيَّة	gonococcide
+مُبيدُ المُكَوَّراتِ البُنِّيَّة	gonococcocide
+مُبيدُ المُكَوَّراتِ الرِّئَوِيَّة	pneumococcidal
+مُبيدُ المُكَوَّراتِ السِّحائِيَّة	meningococcidal
+مُبيدُ المَلاَرْيا	malariacidal
+مُبيدُ المُلْتَوِيات	spirocheticidal
+مُبيدُ المُلْتَوِيات	spirocheticide
+مُبيدُ المَمْسُودات	nemacide
+مُبيدُ المَمْسودات	nematicide
+مُبيدُ المَمْسودات	nematocide
+مبيدُ المَنِيّ: مادّة مُبيدة للمَنِيّ	spermatocide
+مبيد النباتات الضارة	phytocide
+مُبيدُ النِّطاف	spermaticide
+مُبيدُ النِّطاف	spermatocidal
+مُبيدُ النِّطاف	spermatozoicide
+مُبِيْدُ النِّطَاف	spermicidal
+مُبيدُ النِّطاف	spermicide
+مُبيدُ الهَوامّ	pesticide
+مُبِيْدُ الهَوَام الصُّلْب	hard pesticide (persistent pesticide)
+مُبيدُ الهَوامِّ اللَّيِّن	soft pesticide
+مُبيدُ الهَوامِّ المُسْتَدِيْم	persistent pesticide
+مُبيدُ الهَوامِّ غَيرُ المُسْتَدِيْم	nonpersistent pesticide
+مُبيدُ اليافِعات	imagocide
+مُبيدُ اليَرَقات	larvicide
+مُبيدُ اليَرَقاتِ البَنامِي	Panama larvicide
+مُبيدُ اليَرَقانات	larvicide
+مبيدٌ أو قاتلٌ لِلْمَنِيّ	spermatocidal
+مبيد بكتيري	bactericide
+مبيد جراثيم	germicide
+مُبيدٌ جُرْثومِيّ	bacteriocin
+مبيد حشرات	insecticide
+مبيد حشرات للذباب	fly spray
+مبيد حشرات مُتخلِّف للذباب	residual fly spray
+مبيد حشري	insecticide
+مُبِيدٌ حَشَرِيٌّ جِهازيّ	systemic insecticide
+مبيد فطريات	fungicide
+مبيد فطور	fungicide
+مُبيدُ فَيْرُوسِ الكَلَب	rabicidal
+مُبيدٌ لل?يروسات	viricidal
+مُبيدٌ للأبواغ	sporicidal
+مُبيدٌ للأَسْماك	piscicide
+مبيد للأعشاب	herbicide
+مُبيدٌ للأَميبات	amoebicidal
+مُبيدٌ للبَعوض	culicidal
+مُبيدٌ للبِلْهارْسيَّات	schistosomacidal
+مُبيدٌ للبِلْهارْسِيَّات	schistosomicidal
+مُبيدٌ للبِلْهارْسِيَّات	schistosomicide
+مُبيدٌ للبُيَيضات	ovicidal
+مُبِيدٌ لِلبُيَيضات	ovicide
+مُبيدٌ للجَراثيم	bactericidal
+مُبيد للجراثيم	bactericide
+مبيدٌ للجراثيم	germicidal
+مُبيدٌ لِلْجَرَاثيم	germicide
+مُبيد للحشرات	insecticidal
+مُبيدٌ للخَلاَيا	cytocidal
+مبيد للديدان	vermicidal
+مبيدٌ للديدان السِّلكيّة	nematocidal
+مُبيدٌ للشَريطِيَّات	tenicide
+مبيد للطحالب	algaecide
+مُبيدٌ للطُّفَيلِيَّات	parasiticidal
+مُبيدٌ للعُصَيَّاتِ السُّلِّيَّة	tuberculocidal
+مُبيدٌ للفُطْر	fungicidal
+مُبيدٌ لِلفُطريّات	fungicidal
+مُبيدٌ للفَيْروس	viricidal
+مُبيدٌ للفَيْرُوس	virucidal
+مُبيدٌ للفَيْروس	virucide
+مُبيدٌ للفَيْرُوسَةِ السِّنْجابِيَّة	poliocidal
+مُبيدٌ للفَيرُوسَةِ السِّنْجابِيَّة	poliomyeliticidal
+مبيد للقوارض	rodenticide
+مُبيدٌ للمُتَصَوِّرات	plasmodicidal
+مُبيدٌ للمِثْقَبِيَّات	trypanosomicidal
+مُبيدٌ للمُشَعَّرات	trichomonacidal
+مبيدات أعشاب متبقية	residual herbicide
+مبيدات الديدان الخيطية	nematocides
+مبيدات الطحالب	algicides
+مبيدات العناكب	acaricides
+مبيدات الفيروسات	virucides
+مبيدات تراكمية	accumulative pesticide
+مبيدات حشرات المن	aphicides
+مبيدات مكلورة	chlorinated herbicides
+مُبيدة الحشرات: مادةٌ مبيدة للحشرات	insecticide
+مُتَرْقَل	soilborne
+مِتْريفونات	metrifonate (metriphonate)
+مِتْشِيلَة	mitchella
+متعلق بالتَّصْويرِالمَقْطَعِيِّ	pantomographic
+متعلق بحَوَائِطِ الشُّعَيرات	perithelial
+متعلق بدراسة التربة	pedogenic
+متعلق بمُبيدِ الفيلاريَّات	filaricidal
+متعلق بمِسْراقِ الكُبَيْبَةِ و الشُّعَيرات	mesangiocapillary
+مُتَلاَزِمَةُ التَّقْزيم	runting syndrome (graft vs. host reaction)
+مُتَلاَزِمَةُ الرَّنَحِ و تَوَسُّعِ	ataxia-telangiectasia syndrome
+مُتَلاَزْمَةُ جُفَافِ العَين	dry eye syndrome
+مُتَلاَزِمَةُ دي سانكتس-كاشيون	De Sanctis-Cacchione syndrome
+مُتَلاَزِمَةُ ريندو-أوسلر-ويبر	Rendu-Osler-Weber syndrome
+مُتَلاَزِمَةُ شوغرن	Sjogren's syndrome
+مُتَلاَزِمَةُ كميلشتيل-ويلسون	Kimmelstiel-Wilson syndrome
+مُتَلاَزِمَةُ لاوين-روث	Lawen-Roth syndrome
+مُتَلاَزِمَةُ لوي-بار	Louis-Bar syndrome
+مُتَلاَزِمَةُ ميكوليتش	Mikulics' syndrome
+متوسط القيمة المكانية لمتوسط شدة الكثافة	spatial-average pulse-average intensity
+متوسط سرعة الجفاف	medium curing, (M.C.)
+مُتَوسِّطُ سَعَة النَّبْض	pulse amplitude, average
+متوسط شدة كثافة النبضة	pulse-average intensity
+مُتَوَسِّعُ الشُّعَيْرات	telangiectodes
+مثان	spurge-flax
+مُثَبِّطُ الإِلْبان	galactophygous
+مُجَاوِرٌ للمِنْجَل	parafalx
+مجتمع زراعي تقليدي	tradiotional agricultural society
+مُجَذِّرة	rooter
+مجرى	plough - groove
+مجرى تصريف	drainage ditch
+مجرى رسوبي	alluvial channel
+مَجرى صَرْف	drainage sewer
+مجرى مائيّ مُنخفض له ضفة عالية	water-meadow
+مَجرى مُتَغَيّر	alluvial channel / mobile boundary channel
+مَجْلِسُ اعْتِمادِ الدِّراساتِ	accreditation council for graduate medical education
+مجموعة عد النبضات	(pulse) counting assembly
+مِجْهَرُ الشُّعَيرات	angioscope
+مِجْهَرُ الشُّعَيْرات	capillary microscope
+محاصيل التغطية	cover crops
+محاصيل السماد الأخضر	green manure crop
+محاصيل الطاقة	energy crops
+محاصيل العلف	forage crops
+محاصيل دائمة	permanent crops
+محاصيل رائدة	pioneer crops / pioneer plant
+محاصيل على استعداد للمناخ	climate-ready crops
+محاصيل قادرة على تحمّل الجفاف محاصيل	drought-resistant crop; drought-tolerant crop
+محاصيل مختلطة; زراعة متعددة إنتاج متنوع	diversified production; mixed cropping; polyculture
+محاصيل مرافقة	companion crops
+محاصيل نقدية	cash crop
+محافظة زراعية ببرنامج للحد من الاستعمال	agricultural preservation restriction program (apr)
+مِحْبَسُ سَقْي	priming cock
+محتوى التربة من الماء	water content (soil moisture tension)
+محتوى التربة من الماء	water content, available water
+محتوى التربة من الماء	water content, field capacity
+محتوى التربة من الماء	water content, gravitational water
+محتوى التربة من الماء	water content, hygroscopic water
+محتوى التربة من الماء	water content, permanent wilting point
+محتوى الهواء	air content
+مُحتوى الهواء بالتُربة	air content of soil
+مُحتوى مائي للتربة	soil water budget
+مِحدَلَة	tamping roller
+مِحراث	middlebreaker
+مِحراث	middlebuster
+مِحراث	plow = plough
+محراث الثلج: ماكينة لإزالة الثلج من الطرق	snowplow
+محراث المروج	prairie breaker
+محراث باذر	seeding plough
+محراث برابان مزدوج	reversible; one-way plough
+محراث تحت التربة	subsoiler
+محراث حفار	trenching plough
+مِحراث خندقة الكبول	cable plower
+محراث خَنْدَقة الكبول	plower, cable
+مِحراث قُرصي	disc plough (or plow)
+مِحْرَاثٌ قُرْصِيّ	disk plow
+محراث كثير المقاطع	multiple plough; gang plough
+مِحراثٌ مُضَلَّع الأتلام	ribbing plow
+محرك	plough
+محرك الشعيرات الدموية	capillimotor
+مُحَرِّكٌ جَرّار	tractor engine
+مُحَرِّكٌ للشُّعَيْرَاتِ	capillariomotor
+مُحَرِّكٌ للشُّعَيْرَاتِ	capillomotor
+مِحَشّ	scythe
+محصول	crop
+محصول	crop, annual
+محصول	crop, perennial
+محصول أكبر مقابل كل قطرة	more crop per drop
+محصول التغطية: محصولٌ من الفصيلة البقليّة	cover crop
+مَحْصولُ الحَمْل	conceptus
+محصول السماد	manure crop
+محصول السمك	harvest of fish
+مَحصولُ الصُّوف السنوي	wool clip
+مَحصولُ تَغْطية	covercrop
+محصول تغطية التربة	cover crop
+مَحصول جَذْرِي	root crop
+محصول سمكي	fish crop
+محصول طاقة	energy crop
+محصول علفي	forage crop
+محصول فوق المتوسط	above-average harvests
+محصول في صفوف	row crop
+محصول محلي	home-grown crop
+محصول مُخصص لتوليد الطاقة	dedicated energy crop
+محصول مَرويّ	wet crop
+محصول وسيط	catch crop
+مَحَطَّةُ أرْصَادٍ جَوِّيَّةٍ زراعية	agricultural meteorological station
+مَحَطَة أرصاد جوية زراعيّة عادية	ordinary agricultural meteorological station
+محطة توليد بطاقة الرياح	wind power station; wind farm
+مَحَطَّةٌ رَئيسِيَّةٌ لأِرْصادٍ جَوَّيَة	principal agricultural meteorological station
+مَحَطَّة مُساعِدَةٌ للأرْصَاد	auxiliary agricultural meteorological station
+مُحفِّزُ الإِلْبان	lactogen
+مُحَفِّزُ الإِلْبان	lactogenic
+مُحَفِّزُ الإِلْبانِ البَشَرِيُّ	human placental lactogen
+مِحْلَج قُطن	cotton gin
+مُحَلِّلُ ارتفاعِ النَّبْض	pulse-height analyzer
+محلل القيمة الذروية	amplitude analyzer; pulse height analyzer
+محلول " رنجر "	irrigation, Ringer's
+مَحْلولُ رينغِر	ringer's solution
+محلول كلوريد الصوديوم	irrigation, sodium chloride
+مُحَمِّلَةُ مَحاصيل	crop loader
+مُحَوِّلٌ نَبْضِيّ	pulse transformer
+محيط الفم: «أ» الشفة المُشَرشَرة: دائرة	peristome
+مُحِيْطٌ بالشُّعَيرات	pericapillary
+مخاطر انجراف التربة	soil erosion hazards
+مختصر إخْصَابٌ في المُخْتَبَر	IVF (in vitro fertilization)
+مختصر ثُنائيُّ كلورو فينوكسي حَمْضِ	2,4-D (dichlorophenoxy acetic acid)
+مختصر د د ت	DDT (dichlorodiphenyltrichloroethane)
+مختصر زَرْع	cult.
+مخدّدة تعميق	plough (plane)
+مِخْدَشَة	scarificator
+مَخْرجُ الصَّرف	drainage outlet
+مَخْروطُ الإِخْصاب	fertilization cone
+مخروط البذرة	seed cone
+مَخْروطُ الجَذْب	attraction cone (fertilization cone)
+مخروطٌ طَمْيِيّ	cone, alluvial
+مخزون توليد	parental stock (cultivated) (cites)
+مُخَصِّب	fertilizer
+مخصِّب حيوي; مخصِّب بيولوجي; مخصِّب عضوي	biological fertilizer; biofertilizer; organic fertilizer
+مخصبات اصطناعية	fertilizers synthetic
+مُخَصِّبات نيتروجينية	nitrogenous fertilizers
+مخطط	Farmer diagram
+مخطط الري	irrigation plan
+مخلفات الحصاد	stover
+مُخلّفات القُطن	reprocessed cotton cotton waste
+مخلفات المبيدات	pesticide residue
+مُخَلَّفات زراعية	agricultural wastes
+مُداخَلَةُ النَّبَضات	pulse interleaving (or interlacing)
+مَدبوغٌ بأملاح الكروم	chrome-tanned
+مدرسة الكياسة: مدرسة للبنات تؤكد على	finishing school
+مدرسة حقلية للمزارعين	farmer field school; ffs
+مُدَّةُ النَّبْض	pulse duration
+مدة النبضة	pulse duration ; pulse width
+مدّة نبضِ الصدمةِ	duration of shock pulse
+مديرُ قِسم الدراساتِ الهَندسيَّة	manager, project
+مُذَبذِبٌ نَبْضِيّ	pulse oscillator
+مِذراة	hay-fork
+مَرْأَسَةٌ دِمَاغِيَّة	Cenurus cerebralis
+مراعي	rangeland
+مراعي حصاد	cutting pasture
+مراعي مدخلة	introduced pastures
+مراقبة التربة	soil monotoring
+مراقبة الري	irrigation control
+مُرَبِّي الماشية	cattleman
+مُرَبِّي الماشية	stockman
+مَرْبَى ماشية	ranch
+مَرْتَع	rangeland
+مَرْج	grassland
+مَرْج	meadow
+مرحاض السماد المخلَّط	composting toilet
+مُرَحِّل تأخير النبضة	pulse delayed relay
+مُرَحِّل تأخير النبضة ذو اشارة تحكم	pulse delayed relay with control signal
+مرحلة جفاف	dry stage
+مُرْدٍ حَيَوي	biocide
+مردود	yield
+مِرَشّ	percolator / irrigator
+مرش الشعير	barley itch
+مُرشِّح صَرْف	horizontal drainage blanket / pervious blanket / drainage filter
+مِرَشَّة	sprinkler
+مِرَشَّةُ الماء	water sprayer
+مِرَشّة دِهان	paint sprayer
+مِرَشَّة صِهريجية	tank sprayer
+مِرَشَّة ظَهْرِيَّة	knapsack sprayer
+مِرَشّة لاهوائية	airless sprayer
+مِرَشَّةُ مُروج	lawn sprinkler
+مِرَشَّة نَقُول	movable sprayer
+مرض الحارِش: مرض طُفيليّ يصيب الماشية	actinomycosis
+مَرَض بانغ: مَرضٌ مُعْدٍ من أمراض الماشية	Bang's disease
+مرض خلوي منجلي	disease, sickle-cell
+مَرْعى	pasture
+مَرْعًى	pastureland
+مَرْعى الغَنَم	sheep walk
+مرعى صَرْدِي	alpage
+مرعى عضوي	organic pasture
+مَرْعى مرويّ	pasture, irrigated
+مرعى مزروع	sown pasture
+مَرَقُ الزَّرْع	culture broth
+مُرْقِئٌ للشُّعَيْرَات	capillary hemostatic
+مرقد البذرة	seed-bed
+مركز المحيط الهادئ للمحاصيل والأشجار	centre for pacific crops and trees (cepact)
+مركز الملك عبد الله للدراسات والبحوث	King Abdullah Petroleum Studies and Research Center (KAPSARC)
+مَرْكَزِيّاتُ البُذُور	Centrospermae
+مُرَمِّزة نَبْضيَّة	pulse coder
+مِرْواء	irrigator
+مِرْواءُ الأَسْنان	teeth irrigator
+مِرْواءُ الفَم	mouth irrigator
+مِرْواءُ القَناةِ الجَذْرِيَّة	root canal irrigator
+مِرْوَحة جَرّارة	tractor propeller
+مروحة رسوبية	alluvial fan
+مَرْوَحَةٌ طَمْيِيَّةٌ مُرَكَّبَة	compound alluvial fan
+مِروَحة غِرْيَنية	alluvial cone
+مِرْوَحة غِريَنيَّة	alluvial fan
+مِرْوَحة غِريَنِيَّة	fan, alluvial
+مِروَحَةٌ غِرْيَنِيَّة	subaerial fan = alluvial fan
+مزارع	agriculturalist
+مُزارِع	farmer
+مزارع أشجار المطاط	rubber plantations
+مزارع الأبقار المتخصصة	Specialized Cattle Farms
+مزارع الدم	blood cultures
+مزارع الرياح المتزايدة	grown wind farms
+مزارع عضوي	organic farmer
+مزارع عضوي غير مصدق	non-certified organic farmer
+مزارع عضوية	establishments with organic farming
+مُزارع قيد الانتقال	transitioning farmer
+مزارع كبيرة مع زراعات أحادية	Large plantations with monocultures
+مُزارَعة	crop sharing
+مزارعة	crop-sharing
+مزارعة المحاصة	share-crop system
+مزارعين بنفوذ سياسي	politically influential farmers
+مزرعة	culture
+مَزْرَعَة	farm
+مزرعة	farm holding
+مزرعة	farm-stead
+مَزرَعة	grange
+مزرعة	stake
+مَزْرَعَةٌ إِبَرِيَّة	needle culture (stab culture)
+مزرعة أشجار	tree farm
+مَزْرَعَةُ الإِغْناء	enrichment culture
+مَزْرَعَة الأُنْبُوب	tube cultivation
+مَزْرَعَةُ الأُنْبوب	tube culture
+مَزْرَعَةُ الأُنْبوبَةِ الدَّوَّارَة	roll-tube culture
+مزرعة الترفيه: مزرعة مخصصة لركوب الخيل	dude ranch
+مزرعة التَّشغيل: مزرعة يُحْجَز فيها	work farm
+مَزْرَعَةُ التَّعْداد	counting plate
+مَزْرَعَةُ الحَوجَلَة	flask culture
+مزرعة الرياح	Wind Farm
+مزرعة الرياح المتوقعة	Planned wind farm
+مَزْرَعَةُ السُّعال	cough plate
+مزرعة الفقراء: مزرعة لإيواء الفقراء أو	poor farm
+مَزْرَعَةُ القَطْرَةِ المُعَلَّقَة	hanging-drop culture
+مَزْرَعَةُ الكُتْلَةِ المُعَلَّقَة	hanging-block culture
+مزرعة المُسَوَّقات أو الخُضَر: مزرعة	truck farm
+مَزْرَعَةٌ انْتِقائِيَّة	selective culture
+مزرعة أو أرض صالحة للزراعة	farmland
+مَزْرعة أو المبنى الرئيسيّ فيها	hacienda
+مَزْرَعَةٌ أَوَّلِيَّة	primary culture
+مَزْرَعَةٌ إيجابِيَّة	positive culture
+مَزْرَعَةُ إيليك	Eleck plate
+مزرعة بمقاربة بيئية	farmscaping
+مَزرعة بيولوجية	bacteria bed / biological film, fixed / film, biological
+مزرعة تجريبية	experimental farm
+مَزرَعةٌ تَعاوُنيَّة	collective farm
+مَزْرَعَةٌ تَلَمِيَّة	streak culture
+مَزْرَعَةٌ ثانَوِيَّة	secondary culture
+مَزْرَعَة جُرْثُومِيَّة	bacterial cultivation
+مَزْرَعَةٌ جَنينِيَّة	embryo culture
+مَزْرَعَةٌ خالِصَة	pure culture
+مَزْرَعَة خَزّانات	tank farm
+مَزْرَعَةٌ خَزينَة	stock culture
+مَزْرَعَةٌ خَلَوِيَّة	cell culture
+مَزْرَعَةٌ سِقائِيَّةٌ مَشيمائِيَّة	chorioallantoic culture
+مَزْرَعَةٌ سَلْبِيَّة	negative culture
+مزرعة عضوية	organic export
+مزرعة عضوية	organic farm
+مزرعة عضوية مصدقة	certified organic farm
+مَزْرَعَةٌ فَرْعِيَّة	subculture culture
+مزرعة فلاحية	farmstead
+مَزْرَعَةٌ لامُتَزامِنَة	asynchronous culture
+مَزْرَعة لتربية النباتات	plant, vegetation
+مزرعة للطاقة الشمسية الضوئية	solar photovoltaic farm
+مَزْرَعة مَائِلَة	slope cultivation
+مَزْرَعَةٌ مُتَزامِنَة	synchronous culture
+مزرعة متعددة الوظائف	multifunctional farm
+مَزْرَعَةٌ مُتَلَّمَة	streak plate
+مَزْرَعَةٌ مُحَسَّسَة	sensitized culture
+مَزْرَعَةٌ مُخْتَلَطَة	mixed culture
+مَزْرَعَةٌ مُرَجَّجَة	shake culture
+مَزْرَعَةٌ مُسْتَمِرَّةُ الجَرَيان	continuous flow culture
+مَزْرَعَةٌ مَصْلِيَّة	seroculture
+مَزْرَعَةٌ مُعَلَّقَة	suspension culture
+مَزْرَعَةٌ مَفْروشَة	spread plate
+مَزْرَعَةٌ مَمَالِيَّة	slant culture
+مَزْرَعَةٌ مَمْزوجَةٌ للكُرَيَّاتِ	mixed leukocyte culture
+مَزْرَعَةٌ مَمْزوجَةٌ للِّمْفاوِيَّات	mixed lymphocyte culture
+مَزْرَعَةٌ مَمْزوجَةٌ وَحيدَةُ الاتِّجاهِ	one-way mixed lymphocyte culture
+مَزْرَعَةٌ مُوَهَّنَة	attenuated culture
+مَزْرَعَةٌ نَمَطِيَّة	type culture
+مَزْرَعَةٌ وَجيبِيَّة	batch culture
+مَزْرَعَة وما يتبَعُها من مَبانٍ	farmstead
+مزيج بوردو: سائل مبيد للفُطريات	Bordeaux mixture
+مُزيلةُ النَّمط النَّبضي	pulse demoder
+مِساحة المصْرِف	drainage area
+مساحة مزروعة	area under cultivation
+مساحة مزروعة	cultivated area
+مساحة مستجمعات المياه	watershed area / drainage area
+مسار التصريف	drainage path
+مسار غصن الزيتون	Olive Branch route
+مساعِد كبير العُمّال	straw boss
+مسامية التربة	soil porosity
+مِسْبارُ التُّربة	soil auger (or borer)
+مستجمع صرف	drainage area / water catchment area / recharge area
+مَسْتَحْلَبُ الكِيروسين	kerosene emulsion
+مُستشعر سلك النبض	pulse-wire sensor
+مستعلق	slurry / suspension
+مُسْتَعْمَرَة	colony
+مستعيد الخصوبة	fertility restorer
+مُستَقِرّ	stable
+مُستَقْطِبٌ نَبْضِيّ	pulse polarizer
+مُستَنْبَت	culture medium
+مُسْتَنْبَتُ حُبوبِ الرُّز	rice grain medium
+مُسْتَنْبَتٌ دَمَوِيّ	blood culture
+مستهلك زراعي	Agricultural Consumer
+مستوى	solum
+مستويات عائد الحصاد المستدامة	sustained yield harvest levels
+مِسْحاجُ تَخْديد	carpenter’s plow
+مِسحاجُ تخديد	plough plane
+مِسْحق	acme harrow
+مسحوق بذور اللفت	rape seed cake
+مَسحوقٌ مُبيدٌ لِلحَشَرات	insect powder
+مُسَدَّس الرَّذّ: أداة على شكل مسدَّس	spray gun
+مُسَطّح طَمْيِيّ	alluvial flat
+مِسْلَفة	cultivator
+مِسْلَفة	harrow
+مِسْلَفَة قُرصية	disc harrow
+مسلفة قرصية	disk cultivator
+مِسْلَفة قُرصيَّة	disk harrow
+مِسْلَفَة قُرصيَّة	harrow, disc
+مُسَوِّيةُ النَّبْض	pulse equalizer
+مشاريع الاستزراع السمكي	Fish Aquaculture Farms
+مشاريع الدواجن المتخصصة	Specialized Poultry Projects
+مِشْبَك	staple
+مشتل	nursery
+مشتل البذر	seeding nursery
+مشتل الغراس المنقولة	transplant nursery
+مشتل متحول أومؤقت	flying nursey; buch nursing
+مشحبة	stubble-plough; stubble-ploughing
+مشذب	pruning-knife
+مشروع محطة الغاط لطاقة الرياح	Al Ghat Wind Farm
+مشروع محطة دومة الجندل لطاقة الرياح	Dumat Al-Jandal Wind Farm
+مشروع محطة وعد الشمال لطاقة الرياح	Waad Al Shmal Wind Farm
+مشروع محطة ينبع لطاقة الرياح	Yanbu Wind Farm
+مِشْطُ الْمُسْتَنْقَعَات	bog harrow
+مُشَكِّلُ النَّبَضات	pulse shaper
+مُشَوِّشَة نشطة	active chaff
+مصادر الثروة السمكية	fishery resources
+مصادر الطاقة المستخدمة للري	Energy Sources Used for Irrigation
+مصادر مياه الري	Irrigation Water Resources
+مصارف قاطعة للانحدار	drainage-type terraces; cross-slope ditch system
+مصايد	fisheries
+مصايد أعالي البحار	deep sea fisheries
+مصايد أعالي البحار	high seas fishery
+مصايد أعالي البحار	offshore fisheries
+مصايد الرنكة	herring fisheries
+مصايد ساحلية	inshore fisheries
+مصايد سمك داخلية	inland fisheries
+مصايد سمك ضفية	strand fisheries
+مصايد لصيد محدود	limited entry fishery
+مصايد مياه شديدة الملوحة	fisheries (hypersaline..)
+مِصْباحٌ مُبيدٌ للجَراثيم	germicidal lamp
+مَصْرِف	drain (drainage channel)
+مَصْرِف اعتراضيّ	outlet rill; drainage terrace
+مصرف البذور المجتمعي	community seed bank
+مَصْرِف المزرعة	farm turnout
+مصطبة	terrace(alluvial)
+مصطبة	terrace(alluvial...)
+مِصفاةُ	drainage sieve
+مصفوفة التربة	soil matrix
+مَصْنَع أجبان	cheese dairy
+مَصْيَدُ سَمَك	fishery
+مصيدة بذور	seed-trap
+مُضادُّ الجُفاف	antixerotic
+مُضادُّ الخُصوبَة	antifertility
+مُضادُّ جُفافِ المُقْلَة	antixerophthalmic
+مُضادّ حيوي	antibiotic
+مُضادٌّ حَيَوِيٌّ مُبيدٌ للجَراثيم	bactericidal antibiotic
+مُضَخِّمُ نَبَضات	pulse amplifier
+مضخّم نبضة	pulse amplifier
+مِضخّة تصريف المياه من الأقبية	pump, cellar drainage
+مُضمِّن اتساع النبضة	pulse width modulator
+مِطحنة	gristmill
+مَطْلِيٌّ بالكروم	chromé
+مُطَهِّرٌ	disinfectant
+معادن التربة	soil mineral
+مُعارِضُ التَّطْعيم	antivaccinationist
+مُعَالجة التُّربة	soil treatment
+مُعالَجَةٌ بالتَّطْعيمِ الذَّاتِيّ	autovaccinotherapy (autovaccination)
+مُعالَجة بالكِلْس	liming
+معالجة بثنائي - الكرومات	dichromate treatment
+معالجة عضوية بعد الحصاد	organic post harvest handling
+معالجة مياه الصرف الزراعيّ	acidogenesis
+مُعامِلُ الاستِرطاب	hygroscopic coefficient
+مُعامِلُ الخُصوبَة	fecundity coefficient
+مُعامِل توزيع العناصر في التربة-الماء	soil-water partition coefficient
+مُعامِل صَرْف	drainage coefficient
+معاير رد فعل التربة	modulus of subgrade reaction; coefficient of subgrade reaction
+مُعَايَرَة القطن	cotton calibration
+مَعْبَرُ المَواشي	stock pass
+معتدلة الاسترطاب	mesophyte
+مُعَدّ من الدَّقيق الكامل أو الأسمر whole	whole wheat
+معدات ألبان	dairy machinary
+مُعَدّات زِراعيَّة	farm equipment
+مُعَدَّلُ الإِنْجاب	total fertility rate
+معدَّل الحد النبضي	pulse limiting rate
+مُعَدَّلُ الخُصوبَة	fertility rate
+مُعَدَّلُ الخُصوبَةِ الخاصُّ بعُمْرٍ	age-specific fertility rate
+معدل الخصوبة العام	General Fertility Rate
+مُعَدَّلُ الخُصوبَةِ العامّ	general fertility rate
+مُعَدَّلُ الخُصوبَةِ الفَعَّالَة	effective fertility rate
+معدل الخصوبة الكلي	Total Fertility Rate
+معدل تكرارالنبض الأساسي	basic pulse repetition rate
+مُعَدَّلُ خُصُوْبَةِ الزَّوَاجِ الخاصُّ	age-specific marital fertility rate
+مُعَدَّلُ شِدَّةِ النَّبْض	pulse average intensity
+معدل عدّ النَّبَضَات	pulse counting rate
+معدلات الخصوبة العمرية	Age Specific Fertility Rates
+معدّة لتحريك التربة	earth-moving plant
+مِعْصَرة العِنَب: «أ» راقود يُعْصَر فيه	winepress
+معضد	pruning-hook
+معطف الصياد	fisherman’s jacket
+مُعَقَّدُ الإِكْزيمَةِ و الرَّبْوِ	EAHF complex (Eczema, Asthma and Hay Fever complex)
+مَعمل ألبان	dairy
+مُعَنَّب: مؤلَّف من عِنَبات	acinous
+معهد بحوث القطن والنباتات الاستوائية	Research institute for Plants Cotonnieres and Tropical
+مِعوَلُ قَطْع	grafting tool
+معيار الخصوبة	fertility norm
+معيار الزراعة العضوية	organic agriculture standard
+معيار دولي للزراعة العضوية	international organic standard
+معيد توليد النبضات	pulse regenerator
+معيد توليد نبضات تزامن	synchronizing pulse regenerator
+مُعيدُ نَبَضات	repeater, pulse
+مغتذي بالثمار	carpophagous
+مُغذّيات بيولوجية للتُربة	nutrient media, biological
+مغزلية الماشية	Clostridium chauvoei
+مُغلَّفات البذور	Angiospermae
+مفتاح نفل	Clover key
+مفرش منزلي	home-spun cotton
+مفسر نبضات النظم	dial pulse interpreter
+مفصولات التربة	soil separates
+مفعول الدفيئة	greenhouse effect
+مفعول كوتن	Cotton effect
+مَفْعول كوتُن - موتون	Cotton-Mouton effect
+مقاولة زراعية	agricultural exploitation
+مُقاومَةُ الجَفاف	drought resistance
+مقاومة الجفاف	dry strength
+مُقاوَمَةُ الشُّعَيرات	capillary resistance
+مقاومة للجفاف	drought resistant
+مَقْبِض المِنْجَل	snath
+مُقْتاتٌ بالثمار	carpophagous
+مُقتات بالرَّوث coprophagous beetles	coprophagous
+مقدار التحميل المسموح به	allowance bearing value
+مقدرة التربة على الاحتفاظ بالمياه	soil water retention characteristic
+مقدمة موجة الجهد الدفعى	front of a voltage pulse
+مَقَرُّ الكامَة	dwell of a cam
+مُقَسِّم صرف	drainage divide
+مِقَصُّ	secateurs
+مقص التقليم	pruning-scissors; shears
+مُقَطِّر شمسيّ	solar still, greenhouse
+مَقْطع سَبْر	soil profile
+مِقْلَحَةٌ مِنْجَلِيَّة	sickle scaler
+مِقياسُ الجِير	calcimeter
+مِقياسُ تَبَخُّرِ التُرْبة	soil evaporimeter
+مِقياسُ دَرَجة حرارة التُّرْبة	soil thermometer
+مقياس سماحية البانتوجراف	pantograph clearance gauge
+مقياس نفاذية التربة	falling head permeameter
+مُكافَحةُ انجِرافِ التُّربة	soil erosion control
+مكافحة تدهور التربة	soil degradation control
+مكب-فلاحة	landfill farming
+مُكَرِّرُ النَّبضات	pulse repeater
+مِكشافُ النَّبْض	pulse detector
+مَكْمَن وهمي	farmer's sand
+مكوّن	industrial agriculture
+مكيف التربة	soil conditioner (soil improver)
+مِلاَطٌ سِنِّيٌّ مُبيدٌ للجَراثيم	germicidal dental cement
+مَلْبَنة	dairy
+ملتقى بشكل نصف ورقة برسيم	half clover leaf junction
+ملتقى بشكل ورقة البرسيم	clover leaf junction
+ملتوز	maltose
+مِلَفُّ صَرْف	drainage coil
+ملفوف بروكسيل	brussels sprouts
+مِلْقاطُ لَفِّاتِ القُطْن	cotton roll rubber dam clamp
+مِلْقَطُ القُطُنِ و الضِّماد	cotton and dressing pliers
+مِلْقَطُ لِفافاتِ وَكُراتِ القُطُن	cotton pellets and rolls pliers
+ممارسات زراعية جيدة في استخدام المبيدات	good agricultural practices in the use of pesticides
+مَمْحوضَة	axenic
+مُمَدِّدُ النَّبْض	pulse stretcher
+مِمْسَكُ القُطْن	cotton holder
+مِمْسَكُ القُطُن	cotton wool holder
+مِمْسَكُ القُطْنِ مِنَ الزُجاجِ الأَعْبَل	opal glass cotton holder
+مِمْشَقَة	hackle
+مِمْيازُ ارتِفاع النَّبْض	pulse-height discriminator
+مِميازُ النَّبض	pulse discriminator
+مميز اتساع النبضات	pulse amplitude discriminator
+مميز النَبَضَات بسعاتها	pulse height discriminator
+مميز شكل النبضة	pulse shape discriminator
+مَناجِل	falces [sing.falx]
+مُنَاخُ حِزَامِ القُطْن	cotton-belt climate
+مُناخٌ وَأمِيّ	glasshouse climate; greenhouse climate
+مناطق رعي شبه جافة	semi-arid grazing lands
+مناطق زراعية	agricultural districts/preservation areas
+مِنْتَاشُ القُطْن	cotton tweezer
+منتجات الألبان	dairy products
+منتجات ذات منشأ زراعي. منتجات زراعية	product of agricultural origin; agricultural product
+منتجات زراعية ثانوية	agricultural by-product
+مُنْتِش	germinative
+مُنْتَشِلُ السَّقائط	fisherman
+مُنتصَف الشِّراع	bunt
+منتقي	(pulse) selector
+مُنْتَقي نَبَضات	pulse selector
+منجل	falx
+مِنْجَل	falx [pl.falces]
+مِنْجَل	reap hook
+مِنْجَل	reaphook
+مِنْجل	sickle
+مِنْجَلُ الأُرْبِيَّة	falx inguinalis NA
+مِنجَل الأربية	falx inguinialis
+مِنْجَلُ الأُرْبِيَّة	inguinal falx
+مِنْجَل التشذيب: أداة معقوفة الشفرة	pruning hook
+منجل المُخّ	falx cerebri
+مِنْجَلُ المُخّ	falx cerebri NA
+مِنْجَلُ المُخّ	falx of cerebrum
+منجل المخ	falx, cerebri
+مِنْجَلُ المُخَيخ	falcula (falx cerebelli)
+مِنجَل المُخَيخ	falx cerebelli
+مِنْجَلُ المُخَيخ	falx cerebelli NA
+مِنْجَلُ المُخَيخ	falx of cerebellum
+منجل المخيخ	falx, cerebelli
+منجل أنباوهوبيل	Anbauhobel
+مِنْجَلُ فَحْمِ دقيق	arcwall coal cutter
+مِنْجَل فحم مُنشَّط	activated coal plough
+منجلة تعدينية	coal plough
+منِجَـليّ	falciform; sickle
+مِنْجَلِيُّ الشَّكل	falcate = falciform
+مِنْجَليُّ المنقار: كل طائر أعقفِ المنقار	sicklebill
+منحدر تحميل الماشية	cattle-loading ramp
+منحدر طَمْيِيّ	alluvial slope
+مُنْحَرِث: قابلٌ للحراثة	plowable
+مَنْحلة	apiary
+منحني ارتصاص التربة مع الزمن	time-consolidation curve
+مُنْحَنَى النَّبْضِ	pulse curve (sphygmogram)
+منحني هبوط التربة مع الزمن	time-settlement curve
+منخفض تصريف	drainage depression
+مُنْخَفَضٌ نَبْضيّ	pulse valley
+مِنْدَف	willow
+مُنْدَمِجُ القَطَنَين	psodymus (duplicitas anterior)
+مُنَسل	garnetted Cotton
+مِنشارُ تقليم	pruning saw
+مِنْشارٌ قِنَّبِيّ	hemp saw
+مِنْضَحَة	sprayer
+منطقة التربة	soil region
+مِنطقة المستجمع	catchment / catchment area / drainage basin
+مِنطقة بحاجة لإنشاء شبكة صرف بها	drainage, area demanding
+مِنطقة تتطلَّب الريّ	area demanding irrigation
+مِنْطَقة تجمد التربة	freezing zone
+مِنطقة جديرة بالريّ	area feasible for irrigation
+مِنطقة جديرة بإنشاء شبكة صرف بها	area feasible for drainage
+منطقة زراعية	agricultural region
+مِنطَقة زِراعيَّة	grass-roots
+مِنطقة صْرف	outflow region; drainage area
+مِنْطَقَةُ مُستَجْمَع الصَّرف	drainage area = catchment area
+مِنطقة هُطول الأمطار	precipitation area / catchment area / drainage basin
+مِنْظارُ الفَمِ البانورامِيّ	oral panendoscope
+منظم جهد نبضي	pulse-type regulator
+منظمات إقليمية لإدارة مصايد الأسماك	regional fisheries management organisations (rfmos)
+منظمة الأغذية والزراعة للأمم المتحدة	food and agriculture organization of the united nations (fao)
+منظمة التسويق لمنتجي القطن	Cotton Incorporated
+منظمة المزارعين	farmers' association; farmers’ organization
+منظمة مصائد الأسماك في جنوب شرق الأطلسي	south east atlantic fisheries organisation (seafo)
+منظومة التصريف بالضغط الخوائيّ	vacuum drainage system
+منظومة الري بالرش	farm sprinkler method
+منظومة الري بأنابيب الرش الثابتة	sprinkler method, permanent
+منظومة الري بأنابيب الرش المُتنقلة	sprinkler method, portable
+منظومة الري بأنابيب الرش المُتنقلة جزئياً	sprinkler method, semi-portable
+منظومة الري بأنابيب الرش شبه الثابتة	sprinkler method, semi-permanent
+منظومة الري ذات أنابيب الرش الثابتة	sprinkler method, stationary
+منظومة ذات خطي رشاشات فرعيين	sprinkler lateral method, two-line / tow-a-line method
+منظومة ري بالفرعيات الدرّاجة	sprinkler lateral system, roll-move
+مَنْع التَّسرِيب تحت التربة	subsoil sealing
+منع تدهور التربة	prevention soil degradation
+مِنْقاةُ ارتِفاع النبض	pulse-height selector
+مُنَمِّطَة نبضيَّة	pulse moder
+مهرجان الخِصْب: مهرجان كان الرومان	Lupercalia
+مواد حماية النباتات	plant protection products/pesticides
+مواد كيميائية زراعية	agrochemical
+موارد التربة	soil resources
+موارد صيد السمك	fishery resources
+موارد مغذيات التربة	soil nutrient supplies
+موازنة ضغط التربة	earth pressure balance (EPB)
+موجة الجهد الدفعى,	voltage pulse, ; impulse voltage
+مَوجَةٌ نَبْضِيَّة	pulse wave
+موزع النبضات الزمنية	time pulse distributor
+مُوزِّع دَوّار	rotary sprinkler
+مُوَزِّعُ كُرَيَّاتِ القُطْن	cotton pellet dispenser
+مُوَزِّعةُ السَّماد	manure distributor
+مُوَسِّعٌ زَيتونِيُّ الرَّأْس	olive-tipped bougie
+موسم الحصاد	harvesttime
+موقع جمع البذور	seed collection stand
+مُوَلِّدُ المُبيدِ الجُرْثومِيّ	bacteriocinogenic
+مولد النبضات الحثّي	inductive pulse generator
+مُوَلِّدُ النَّبَضان	pulse generator
+مُوَلِّدُ نَبْضٍ غَيرُ مُتَزامِنٍ	asynchronous pulse generator
+مُوَلِّدُ نَبْضٍ مُتَزامِنٌ مَعَ نَبْضِ	atrial synchronous pulse generator
+مُوَلِّدُ نَبْضٍ مُتَزامِنٌ مَعَ نَبْضِ	ventricular synchronous pulse generator
+مولد نبضات	pulse generator
+مولّد نبضات التزامن	synchronizing pulse generator
+مولد نبضات دفعية	pulse generator
+مياه التربة	soil water
+مِياه الريّ	irrigation water
+مياه الصرف	drainage water
+مياه الصرف الزراعية	wastewater, agricultural
+مياه صرف صحيّ من مُنشآت تجارية	wastewater, trade / effluent, trade / urban drainage system
+ميثُوكْسي كلُور	methoxychlor
+مِيكَانِيكَا التربة	soil mechanics
+ميكانيكا وهندسة التربة	soil mechanics and engineering

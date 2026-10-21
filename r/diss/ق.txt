@@ -1,0 +1,396 @@
+قابل للعدوى	infectible
+قابلية الإصابة بالمرض	disease susceptibility
+قابِلِيَّةُ العَدْوَى	infectibility
+قاذفة اللَّهب: أداة تطلق من خطمها رشاشًا	flamethrower
+قاذفة اللهب: أداة تطلق من خطمها رشاشًا من	flame cultivator
+قارِحَة	canker
+قاطع الأورام	celectome
+قاعدة القرحة	base of ulcer
+قاعِدَةُ جاكْسُون	Jackson's rule
+قاعِدةٌ دَوّارة	revolving pedestal
+قاعدة دوّارة	swinging base
+قاعِدَةُ دورْهام	Durham rule
+قاعِدَةُ غِيبْسُون	Gibson's rule
+قاعِدَةُ لِيبَِرْمايستَر	Liebermeister's rule
+قاعِدَةُ مناتِن	M'Naghten rule
+قامِطَة	cramp iron
+قامِطة إِطاريَّة	G-clamp or cramp
+قامِطَة نَابضيَّة	spring cramp
+قانونُ حُقوقِ المَرْضَى	patients' bill of rights
+قَبْض	seizure
+قَبْضَةٌ دَوَّارَةٌ فائِقَةُ السُّرْعَة	ultraspeed rotary handpiece
+قَبْلَ الحُمَّى	antefebrile
+قَبْلَ الحُمَّى	antepyretic
+قُبَّة دَوّارة	revolving cupola
+قَتْلُ المَرْحَمَة	euthanasia (mercy killing)
+قُحاب	hoose (verminous bronchitis)
+قحط أو جفاف	aridity
+قَدْحُ السَّاد	depression of cataract (couching)
+قُدرةُ الإمساك	holding power
+قدرة المادة على تغيير الشكل بدون حدوث	elongation, ultimate / elongation at break / elongation at fracture
+قَدَمُ الرِّياضِيّ	athletes' foot (tinea pedis)
+قَدَم الرياضيّ: مرض جلديّ مُعْدٍ يصيب	athlete's foot
+قَدَمٌ مورتون	Morton's foot (Morton's toe)
+قذفيات الجرح	ballistics, wound
+قراح بثري	blister canker
+قَرار	resolution
+قِراف	prosodemic
+قَرْحات	ulcera [sing.ulcus]
+قَرْحاتُ التَّمَدُّدِ لكُوخر	Kocher's dilatation ulcers
+قَرْحاتُ الظُّنْبوب	bucked shins
+قَرْحاتُ الظُّنْبوب	sore shins
+قَرْحَاتُ روكيتانسكي-كوشينغ	Rokitansky-Cushing ulcers
+قَرْحاتُ عُسْرِ الهَضْم	dyspeptic ulcers
+قَرْحاتٌ مُتَلاَثِمَة	kissing ulcers
+قَرْحاتٌ هَضْمِيَّةٌ عِمْلاَقَةٌ	giant peptic ulcers
+قَرْحَة	canker
+قرحة	chancre; ulcer
+قَرْحَة	ulcer
+قَرْحَة	ulcus [pl.ulcera]
+قَرْحَةٌ إِثْناعَشَرِيَّة	duodenal ulcer
+قَرْحَةٌ أَخْمَصِيَّة	plantar ulcer
+قَرْحَةٌ اغْتِذائِيَّة	trophic ulcer
+قَرْحَةٌ اغْتِذائِيَّةٌ عَصَبِيَّةُ	trophoneurotic ulcer
+قَرْحَةٌ أَكَّالَة	corrosive ulcer
+قرحة آكلة	canker sore
+قَرْحَةٌ آكِلَة	perambulating ulcer (phagedenic ulcer)
+قَرْحَةٌ آكِلَة	phagedenic ulcer
+قَرْحَةُ الاِسْتِلْقاء	decubital ulcer (decubitus ulcer)
+قَرْحَةُ الاِسْتِلْقاء	decubitus ulcer
+قُرْحَة الاضْطِجَاع	decubitus ulcer
+قَرْحَةُ الانْضِغاط	pressure sore
+قَرْحَةُ البِدْلَةِ السِّنِّيَّة	denture sore
+قَرْحَةُ البِدْلَةِ السِنِّيَّة	denture sore mouth (denture stomatitis)
+قَرْحَةُ البَرْد	coldsore (herpes simplex)
+قُرْحَةُ الحَمْضِيَّات	citrus canker
+قَرْحَةُ الدَّبَّاغين	tanner's ulcer (chrome ulcer)
+قَرْحَةُ الرُّكودَةِ الوَريدِيَّة	venous stasis ulcer (varicose ulcer)
+قَرْحَةُ الزُّكَام	cold sore (herpes febrilis)
+قَرْحَةُ السَّاق	ulcus cruris
+قَرْحَةُ الصَّحْراء	desert sore
+قَرْحَةُ الضَّغْط	pressure sore (decubitus ulcer)
+قَرْحَةُ الفِراش	bed sore
+قرحة الفِراش: تقرُّحٌ ناشئ عن ملازمة	bedsore
+قَرْحَةُ الفُغْرَة	stoma ulcer (marginal ulcer)
+قَرْحَةُ الفُغْرَة	stomal ulcer (marginal ulcer)
+قَرْحَةُ القَرْنِيَّة	helcoma
+قَرْحَةُ القَرْنيَّةِ السَّاعِيَة	serpiginous corneal ulcer
+قَرْحَةُ القَرْنِيِّةِ السَّاعِيَة	ulcus serpens corneae
+قَرْحَةُ القَرْنِيَّةِ النَّزْلِيَّة	catarrhal corneal ulcer
+قَرْحَةُ الكَرْب	stress ulcer
+قَرْحَةُ المُتَفَطِّرات	mycobacterial ulcer
+قَرْحَةُ المروج	veldt sore
+قَرْحَةُ المُشَرَّدِين	vagabonds' ulcer
+قَرْحَةُ المَعِدَة	ulcus ventriculi
+قَرْحَةُ المُفاغَرَة	anastomotic ulcer
+قَرْحَةُ الوِعاء	angielcus
+قَرْحَةُ اليَمَن	Yemen ulcer
+قَرْحَةُ ألينغهام	Allingham's ulcer (anal fissure)
+قَرْحَةُ أمبالا	Umballa sore
+قَرْحَةٌ أَميبِيَّة	amebic ulcer
+قَرْحَةٌ أَناميَّة	Annam ulcer (annamatic ulcer)
+قَرْحَةٌ بَاتِرَة	amputating ulcer
+قَرْحَةٌ بَارِدَة	cold ulcer
+قَرْحَةُ بارو	Parrot's ulcer
+قَرْحَةُ باريت	Barrett's ulcer
+قَرْحَةٌ بالمُكَوَّراتِ الرِّئَوِيَّة	pneumococcus ulcer
+قَرْحَةٌ بَثَعِيَّة	scorbutic ulcer
+قَرْحَةٌ بَثَعِيَّة	ulcus scorbuticum
+قَرْحَةٌ بِرازِيَّة	stercoraceous ulcer
+قَرْحَةٌ بِرازِيَّة	stercoral ulcer
+قَرْحَةٌ بَسيطَة	simple ulcer
+قَرْحَةُ بلاوت	Plaut's ulcer
+قَرْحَة بنجه	Penjdeh sore
+قَرْحَةُ بنجة	Penjdeh ulcer
+قَرْحَةُ بُورُولِي	Buruli ulcer
+قَرْحَةُ بوفيريه	Bouveret's ulcer
+قَرْحَةُ بيندينسكي	Pendinski ulcer
+قَرْحَةٌ تَحْتَ اللِّسانِ	sublingual ulcer
+قَرْحَةٌ تَحْتَ المُخاطِيَّة	submucous ulcer
+قَرْحَةٌ تركستانيَّة	Turkestan ulcer
+قَرْحَةٌ ثاقِبَة	perforating ulcer
+قَرْحَةٌ ثَفَنِيَّة	callous ulcer
+قَرْحَةٌ ثَقالِيَّة	gravitational ulcer
+قَرْحَةٌ جاسِئَة	ulcus induratum
+قَرْحَةُ جاكوب	Jacob's ulcer
+قَرْحَةُ جُدَّة	Jeddah ulcer
+قَرْحَةٌ جُرَيْبِيَّة	follicular ulcer
+قَرْحَةٌ جَناحِيَّة	pterygoid ulcer
+قَرْحَةٌ حافَوِيَّة	marginal ulcer
+قَرْحَةٌ حُزْمِيَّة	fascicular ulcer
+قَرْحَةٌ حَلَقِيَّة	annular ulcer
+قَرْحَةٌ حَلَقِيَّة	ring ulcer
+قَرْحَةٌ حَوْجَلِيَّة	flask ulcer
+قَرْحَةٌ خُنَاقِيَّة	diphtheritic ulcer
+قَرْحَةُ دلهي	Delhi sore (cutaneous leishmaniasis)
+قَرْحَةٌ دَوالِيَّة	varicose ulcer
+قَرْحَةٌ ذِئْبِيَّةُ الشَّكْل	lupoid ulcer
+قَرْحَةٌ رَخْوَة	ulcus molle (ulcus molle cutis)
+قَرْحَةٌ رَضْحِيَّة	traumatic ulcer
+قَرْحَةٌ رُكودِيَّة	hypostatic ulcer
+قَرْحَةٌ رُكودِيَّة	stasis ulcer
+قَرْحَةٌ رُكودِيَّة	ulcus hypostaticum
+قَرْحَةُ زَاحِفَةٌ	creeping ulcer
+قَرْحَةٌ زامبيزية	Zambesi ulcer
+قَرْحَةٌ زُهْرِيَّة	syphilitic ulcer
+قَرْحَةٌ ساعِيَة	serpiginous ulcer
+قَرْحَةٌ سَرَطانِيَّةٌ	cancer-ulcer
+قَرْحَةٌ سُكَّرِيَّة	diabetic ulcer
+قَرْحَةٌ سُلِّيَّةٌ	arrosion ulcer
+قَرْحَةٌ سُلِّيَّة	tuberculous ulcer
+قَرْحَةٌ سِنِّيَّة	dental ulcer
+قَرْحَةُ سوريَّة	Syriac ulcer
+قَرْحَةُ سوريَّة	Syrian ulcer
+قَرْحَةُ سيميش	Saemisch's ulcer
+قَرْحَةٌ شَرْقِيَّة	oriental sore
+قَرْحَةُ شَقائِقِ البَحْر	sea anemone ulcer
+قَرْحَةُ شيكلرو	chiclero ulcer
+قَرْحَةٌ صَائِمِيَّة	jejunal ulcer
+قَرْحَةٌ صائِمِيَّةٌ ثانَوِيَّة	secondary jejunal ulcer
+قَرْحةٌ صُلْبة	chancre
+قَرْحَةٌ صُلْبَة	hard sore
+قَرْحَةٌ صُلْبَة	hard sore (chancre)
+قَرْحَةٌ صُلْبَة	hard ulcer
+قَرْحَةٌ صَمْغِيَّة	gummatous ulcer
+قَرْحَةُ طاشقند	Tashkent ulcer
+قَرْحَةٌ طافِحَة	exuberant ulcer
+قَرْحَةٌ ظاهِرِيَّةُ الالْتِئام	sursanure
+قَرْحَةُ عَدَن	Aden ulcer
+قَرْحَةٌ عَصَبِيَّةُ المَنْشَأ	neurogenic ulcer (neurotrophic ulcer)
+قَرْحَةٌ عَصَبِيَّةٌ تَغْذَوِيَّة	neurotrophic ulcer
+قَرْحَةٌ عَصيدِيَّة	atheromatous ulcer
+قَرْحَةٌ غَمِيْرِيَّةٌ	hypopyon ulcer
+قَرْحَةٌ فارِسِية	Persian ulcer
+قَرْحَةٌ فَرْجِيَّة	pudendal ulcer
+قَرْحَةٌ فَرْجِيَّةٌ حادَّة	ulcus vulvae acutum
+قَرْحَةٌ فُطْرِيَّة	mycotic ulcer
+قَرْحَةٌ فَوْتِيَّة	ulcus interdigitale
+قَرْحَةُ فينويك-هانر	Fenwick-Hunner ulcer
+قَرْحَةٌ قارِحَةٌ	ulcus cancrosum (rodent ulcer)
+قَرْحَةٌ قارِضَة	rodent ulcer
+قَرْحَةٌ قارِضَة	ulcus rodens
+قَرْحَةٌ قاضِمَة	esthiomene
+قَرْحَةٌ قُرَيحِيَّة	chancroidal ulcer
+قَرْحَةٌ قُلاَعِيَّة	aphthous ulcer
+قَرْحَةٌ قَلِيلَةُ الإِيْلام	indolent ulcer
+قَرْحَةُ قَنْدَهار	Kandahar sore
+قَرْحَةُ كروفيلييه	Cruveilhier's ulcer
+قَرْحَةُ كرومبي	Crombie's ulcer
+قَرْحَةٌ كروميَّة	chrome sore
+قَرْحَةٌ كروميَّة	chrome ulcer
+قرحة كورلنج	Curling's ulcer
+قَرْحَة كوشين	Cochin sore
+قُرْحَةُ كوشينِ الصِّيْن	Cochin China sore (cutaneous leishmaniasis)
+قَرْحَةُ كوشينغ	Cushing's ulcer
+قَرْحَةُ كوشينغ-روكيتانسكي	Cushing-Rokitansky ulcer
+قَرْحَةُ كيرلينغ	Curling's ulcer
+قَرْحَةُ لاهور	Lahore sore
+قَرْحَةُ لاهور	Lahore ulcer
+قَرْحَةٌ لِثَوِيَّة	gingival ulcer
+قَرْحَةٌ لُجَيمِيَّة	frenal ulcer
+قَرْحَةُ ليبشوتس	Lipschutz ulcer (ulcus vulvae acutum)
+قرحة لينة	chancroid
+قَرْحَةٌ لَيِّنَة	soft sore (chancroid)
+قَرْحَةٌ لَيِّنَة	soft ulcer
+قَرْحَةُ مارجولان	Marjolin's ulcer
+قرحة ماسية	diamond canker
+قَرْحَةُ مان-ويليامسون	Mann-Williamson ulcer
+قَرْحَةٌ مُتَخَشِّرَة	sloughing ulcer
+قَرْحَةٌ مُتَغَصِّنَة	dendriform ulcer (dendritic ulcer)
+قَرْحَةٌ مُتَغَصِّنَة	dendritic ulcer
+قَرْحَةٌ مُتَنَقِّلَة	ulcus ambulans (phagedenic ulcer)
+قَرْحَةٌ مُتَوَطِّنَة	endemic ulcer
+قَرْحَةٌ مَثانِيَّةٌ بَسيطَة	ulcus simplex vesicae
+قَرْحَةٌ مُحزِّمَة	girdle ulcer
+قَرْحَةٌ مُخْتَفِيَة	concealed ulcer
+قَرْحَةٌ مُخْتَلِطَة	mixed sore
+قَرْحَةٌ مَدارِيَّة	tropical sore
+قَرْحَةٌ مَدارِيَّة	tropical ulcer
+قَرْحَةٌ مَدارِيِّة	ulcus tropicum
+قَرْحَةُ مدغشقر	Madagascar sore
+قَرْحَةٌ مُدَوَّرَة	round ulcer
+قَرْحَةٌ مُراوِغَة	elusive ulcer
+قَرْحَةٌ مَريئِيَّة	esophageal ulcer
+قَرْحَةٌ مُشَقَّقَة	fissured ulcer
+قَرْحَةٌ مَصْحُوبَةٌ بأَعْراض	symptomatic ulcer
+قَرْحَةٌ مَعِدِيَّة	gastric ulcer
+قَرْحَةٌ مُفْتَعَلَة	factitial ulcer
+قَرْحَةٌ مُمْتَدَّة	ulcus exedens (rodent ulcer)
+قَرْحَةٌ مِنْظارِيَّة	cystoscopic ulcer
+قَرْحَةٌ مَنْقُوْلَةٌ جِنْسِيَّاً	venereal sore
+قَرْحَةٌ مَنْقولَةٌ جِنْسِيَّاً	venereal ulcer
+قَرْحَةُ موريِن	Mooren's ulcer
+قَرْحَةٌ موزامبيق	Mozambique ulcer
+قَرْحَةُ مولتان	Moultan sore
+قَرْحَةُ ميليني	Meleney's ulcer
+قَرْحَةُ ناتال	Natal sore
+قَرْحَةٌ ناسورِيَّة	fistulous ulcer
+قَرْحَةٌ نافِذَة	penetrating ulcer
+قَرْحَةٌ نافِذَة	ulcus penetrans
+قَرْحَةٌ نُفاطِيَّة	phlyctenular ulcer
+قَرْحَةٌ نِقْرِسِيَّة	gouty ulcer
+قَرْحَةٌ هِرْبسيَّة	herpetic ulcer
+قَرْحة هَضْميَّة	peptic ulcer
+قَرْحَةُ هَنر	Hunner's ulcer
+قَرْحَةٌ وَخِيْمَةٌ	ulcus grave (tropical ulcer)
+قَرْحَةٌ ونائِيَّة	atonic ulcer
+قُرصُ الإمساك	catch plate
+قرص السُّعال: قرص صغير مُعَدّ لمعالجة	cough drop
+قُرْصٌ مُخْتَنِق	choked disk (papilledema)
+قَرَع	ringworm
+قَرْعٌ بسُقُوطِ الضَّرْبَة	drop stroke percussion
+قِرْمِزِيُّ الشَّكْل	scarlatiniform
+قِرْمِزِيُّ الشَّكْل	scarlatinoid
+قَرْو	sarcocele
+قروح الفراش	decubitus ulcers = bed sores
+قَزامَةُ السُّكَّرِيّ	diabetic dwarfism
+قَزامَةُ الوَذَمَةِ المُخاطِيَّة	myxedematous dwarfism
+قَسْوَةٌ مَرَضِيَّة	tyrannism
+قشراني سُكَّري	glucocorticoid
+قِشرةُ الجُرح	scab
+قُشعريرة	chill, nervous
+قشعريرة	shivering
+قشعريرة القسطرة	chill, urethral
+قُشَعْريرة الموت	algor mortis
+قشم = ضَوَر	bulimia = cynorexia
+قِصَرُ البَصَر	hypometropia (myopia)
+قِصَرُ البَصَر	near-sight (myopia)
+قِصَرُ البَصَر	near-sightedness (myopia)
+قصر البصر المركب الاستجمي	astigmatism, compound myopic
+قصر النظر	brachymetropia = myopia
+قصر النظر	short sight; myopia
+قَصْعة الغبار: منطقة كثيرة الجفاف	dust bowl
+قُصُوْرُ الدَّرَقِيَّةِ الدُّرَاقِيُّ	familial goiterous hypothyroidism (familial goiter)
+قُصورُ الكُظْرِيَّة	hypadrenia (Addison's disease)
+قضيبُ مَنع الالتواء	detorsion bar
+قضيبٌ مُنفَّط	blister bar
+قَطْرَةٌ مينائِيَّة	enamel drop (enameloma)
+قطع	cutoff
+قَطْعُ الدَّوالِي	cirsectomy
+قطع الفتق	herniotomy = kelotomy
+قَطْعُ اللُّقْمَة	condylotomy
+قَفْز	jumping (Gilles de la Tourette's syndrome)
+قَفْلُ الوُجَيهاتِ المَفْصِلِيَّةُ	locked facets of spine (dislocation of articular processes of spine)
+قلاّبة الأسطوانة الدوّارة	rotating-cylinder flap
+قُلّاف الزّان	beech bark disease
+قَلْبُ البِري بِري	beriberi heart
+قَلْبُ الوَذَمَةِ المُخاطِيَّة	myxedema heart
+قَلْبُ تراوبه	Traube's heart (kidney disorder heart)
+قَلْبٌ دُرَاقِيٌّ	goitre heart (hyperthyroid heart)
+قَلْبٌ روماتزميّ	rheumatic heart
+قلب مسحوق مغناطيسي	strip-wound (magnetic) core
+قَلْبٌ مُسَلَّح	panzerherz (armored heart)
+قَلْبٌ مُشَعَّر	hairy heart (pericarditis villosa)
+قَلقٌ عُصَابي	anxiety neurosis
+قَلَقٌ مَرَضِيّ	pathologic anxiety
+قَلْقَلَة	click
+قِلَّةُ الكُرَيَّاتِ البيضِ الشَّامِلَة	panleukopenia (feline viral enteritis)
+قِلَّةُ الكُرَيَّاتِ الحُمْر	oligocythemia (anemia)
+قِلَّةُ الكُرَيَّاتِ الحُمْر	oligocytosis (anemia)
+قمينة دوارة	rotary klin
+قِناعُ الزُّهْرِيّ	luetic mask
+قَناةُ الفَتْق	hernial canal
+قَنطرةٌ دَوَّارة	swivel bridge
+قنوان الذؤابة	Coma cluster
+قُنَيَّةٌ صَفْراوِيَّةُ كاذِبَة	pseudobile canaliculus
+قَهَم	anorexia
+قَهَمٌ عُصابِيّ	anorexia nervosa
+قَهَمٌ كاذِب	pseudoanorexia (anorexia nervosa)
+قَهَمٌ هيسْتيرِيّ	hysterical anorexia
+قَوْباءُ إِكْزيمِيَّةُ الشَّكْل	impetigo eczematoides
+قُوْبَاءُ الرُّكْبَة	sellanders (malanders)
+قَوْباءُ العِقْدِيَّات	impetigo streptogenes
+قَوْباءُ العُنْقودِيَّات	staphylococcal impetigo (bullous impetigo)
+قَوْباءُ العُنْقودِيَّات	staphylococcic impetigo (bullous impetigo)
+قَوْباءُ الوَليد	impetigo neonatorum (impetigo bullosa)
+قَوْباءُ بَسيطَة	impetigo simplex
+قَوْباءُ بوكهارت	Bockhart 's impetigo (superficial pustular perifolliculitis)
+قَوْباءُ تَلْفيفِيَّةٌ سَارِيَة	impetigo contagiosa gyrata
+قَوْباءُ جافَّة	impetigo sicca
+قَوْباءُ جُرَيبِيَّة	impetigo follicularis
+قَوْباءُ دُخْنِيَّة	miliary impetigo (pustular miliaria)
+قَوْباءُ سَارِيَة	impetigo contagiosa
+قَوْباءُ شائِعَة	impetigo vulgaris (contagious impetigo)
+قَوْباءُ طُفَيلِيَّة	impetigo parasiticus
+قَوْباءُ فُقَّاعِيَّة	bullous impetigo
+قَوْباءُ فُقَّاعِيَّة	impetigo bullosa (bullous impetigo)
+قَوْباءُ فُقَّاعِيَّةٌ سَارِيَة	impetigo contagiosa bullosa
+قَوْباءُ مُتَحَلِّقَة	impetigo circinata
+قَوْباءُ مُتَناظِرَةٌ مُزْمِنَة	chronic symmetric impetigo
+قَوْباءُ نُخالِيَّة	impetigo pityroides (pityriasis alba)
+قَوْباءُ هِرْبسيَّةُ الشَّكْل	impetigo herpetiformis
+قَوْلَبة دَوّارة	rotational moulding
+قُولُونِيّ	colic
+قُوةٌ ساحِبَة طُفَيليَّة	drag, parasite
+قَيْء	emesia (emesis)
+قَيْء	emesis (vomiting)
+قيء	emesis = vomiting
+قَيْء	vomiting
+قَيء	vomito
+قَيء	vomitus
+قَيءٌ أَسوَد	black vomit
+قَيْءٌ أَسْوَد	melenemesis
+قَيءٌ أَسْوَد	vomito negro
+قَيءٌ أَسْوَد	vomitus niger
+قَيءُ البِراز	copremesis
+قيء الحامل	emesis, gravidarum
+قَيْءُ الحَمْل	emesis gravidarum
+قَيءُ الدَّم	hematemesis
+قَيْءُ الدُّود	helminthemesis
+قَيءُ المُخاط	blennemesis
+قَيءُ باركو	Barcoo vomit
+قَيْءٌ بِرَازِيّ	fecal emesis
+قَيْءٌ بِرازِيّ	fecal vomiting
+قَيْءٌ بِرازِيّ	stercoraceous vomiting
+قَيْءٌ جافّ	dry vomiting
+قَيْءٌ حَمْلِيّ	vomiting of pregnancy
+قَيءٌ حَمْلِيّ	vomitus gravidarum
+قَيءٌ دَمَوِيّ	vomitus cruentus
+قَيْءٌ دَوْرِيّ	cyclic vomiting
+قَيْءٌ دَوْرِيّ	periodic vomiting
+قَيْءٌ راجِع	recurrent vomiting (cyclic vomiting)
+قَيءٌ شَبيهٌ بثَفَلِ القَهْوَة	coffee-ground vomit
+قَيْءٌ صَباحِيّ	morning vomiting
+قَيءٌ صَباحِيّ	vomitus matutinus
+قَيءٌ صَفْراوِيّ	bilious vomit
+قَيْءٌ صَفْراوِيّ	bilious vomiting
+قَيءٌ صَفْراوِيّ	cholemesis
+قَيْءٌ عَصَبِيّ	nervous vomiting
+قَيْءٌ قَذْفِيّ	explosive vomiting
+قَيْءٌ قَذْفِيّ	projectile vomiting
+قَيْءٌ قَيحِيّ	pyemesis
+قَيْءٌ قَيحِيّ	pyoemesis
+قَيءٌ كاذِب	pseudovomiting
+قَيْءٌ لُعابِيّ	sialemesis
+قَيْءٌ مُخِّيّ المَنْشَأ	cerebral vomiting
+قَيءٌ مُفْرِطٌ	hyperemesis
+قَيءٌ مُفْرِطٌ إرضاعي	hyperemesis lactentium
+قَيءٌ مُفْرِطٌ حَمْليّ	hyperemesis gravidarum
+قَيْءٌ هستيريّ	hysterical vomiting
+قَيْءٌ وَبيل	pernicious vomiting
+قُياء	vomiting; vomit, emesis
+قياس الحساسية	sensitometry
+قيقب سكري	sugar-maple
+قيلَةٌ إِسْكِيَّة	ischiocele (sciatic hernia)
+قيلة الفتق	hydrocele, hernial
+قِيلَةُ الكُلْيَةِ	nephrocele
+قِيلَةٌ بَطْنِيَّة	laparocele (ventral hernia)
+قِيلَةٌ ثَرْبِيَّةٌ صَفَنِيَّة	epiploscheocele
+قِيلَةٌ حِجابِيَّة	diaphragmatocele
+قِيلَةٌ داخِلِيَّة	entocele
+قيلَةٌ دَوالِيَّة	varicocele
+قِيلَةٌ دوغْلاَسِيَّة	douglascele
+قيلَةٌ رَأْسِيَّة	cephalocele
+قِيلَةٌ سِحائِيَّةٌ كاذِبَة	spurious meningocele (Billroth's disease)
+قيلَةٌ صَفَنِيَّة	scrotocele (scrotal hernia)
+قيلَةٌ فَتْقِيَّة	porocele
+قِيْلَة فَخِذِيَّة	merocele (femoral hernia)
+قِيلَةٌ قُزَحِيَّة	iridocele
+قيلَةٌ مَثانِيَّة	vesicocele
+قيلَةٌ مَثانِيَّةٌ ثَرْبِيَّة	cystoepiplocele
+قيلَةٌ مَثانِيَّةٌ مِعَوِيَّة	cystoenterocele
+قيلَةٌ مَشيمائِيَّة	choriocele
+قِيلَةٌ مِعَوِيَّة	enteromerocele (femoral hernia)
+قِيلَةٌ هَوائِيَّة	aerocele
+قيلة وركية	ischiocele = sciatic hernia
+قِيمَة الضبط	setting

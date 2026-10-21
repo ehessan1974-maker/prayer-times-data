@@ -1,0 +1,680 @@
+حاجِزُ كُورْنَر	Korner's septum (petrosquamosal lamina)
+حادِثَةٌ وِعائِيَّةٌ دِماغِيَّة	cerebrovascular accident (stroke)
+حَاسُوْف	scall
+حالُّ الوَرَم	oncolysate
+حالُّ الوَرَم	oncolytic
+حالٌّ أو مضادٌّ للتّشنُّج	spasmolytic
+حالٌّ للسَّرَطان	carcinolytic
+حالَةُ التَّوَتُّرِ القَلِق	anxiety tension state (neuromuscular hypertension)
+حالَةُ الصَّرْعِ الصَّغير	petit mal status
+حالَةٌ تَالِيَةٌ للصَّرْع	postepileptic state
+حالَةٌ تَثَقُّبِيَّة	état criblé (status cribralis)
+حالَةٌ تيفِيَّة	typhoid state
+حالَةٌ ذِبْحِيَّة	status anginosus (peri-infarction angina)
+حالَةٌ صَرْعِيَّة	convulsive state (status epilepticus)
+حالَةُ قَلَق	anxiety state (anxiety neurosis)
+حالَةٌ مَرَضِيَّة	pathosis
+حامِلُ الطُّفَيلِيَّات	parasitiferous
+حامِلُ العَدْوَى الصَّحيح	healthy carrier
+حامِلُ العَدْوَى المُؤَقَّت	temporary carrier
+حامِلُ العَدْوَى المُتَقَطِّع	intermittent carrier
+حامِلُ العَدْوَى المُخالِط	contact carrier
+حامِلُ العَدْوَى المُزْمِن	chronic carrier
+حامِلُ العَدْوَى المُقْتَفَل	closed carrier
+حامِلُ العَدْوَى النَّاقِه	convalescent carrier
+حامِلُ العَدْوَى بالأَمْعَاء	enteric carrier
+حامِلُ العَدْوَى بالبَولِ	urinary carrier
+حامِلُ العَدْوَى بالمَرَارَة	gallbladder carrier
+حامِلُ النَّاعور	hemophilia carrier
+حامِلُ حِضَانَةِ العَدْوَى	incubation carrier
+حِبْرٌ سَريع الجَفاف	quick-setting ink
+حَبْسُ النَّفَس	breath-holding
+حُبْسَة	aphasia
+حُبْسَةٌ سَمْعِيَّة	kophemia (word deafness)
+حُبْسَةٌ سَمْعِيَّة	word deafness
+حَبَن	ascites
+حَبَّةُ بِسْكرَة	Biskra button
+حُبَيباتُ بولينغر	Bollinger's granules
+حُبَيباتُ فاوفيل	Fauvel's granules (peribronchitic abscesses)
+حَتَّى الغَثَيان	ad nauseam
+حتّى الغَثَيان أو الإملال	ad nauseam
+حَثَر	trachoma
+حَثَلُ الجُرُوْح	wound dystrophy
+حَثَلُ المادَّةِ البَيضاءِ الكُرَوِيُّ	globoid cell leukodystrophy (Krabbe's disease)
+حَثَلٌ دَمَوِيّ	hematodystrophy (nutritional anemia)
+حَثَلٌ عَظْمِيٌّ كيسِيّ	osteodystrophia cystica (osteitis fibrosa cystica)
+حجز	seizure
+حَجْز	seizure; sequestration
+حَجْز البضائع	seizure of goods
+حجز العلامة	Seizure of trademarks
+حَجْز المنقولات	seizure of movable property
+حَجْز تحفظيّ	conservatory seizure; garnishment
+حجز تحفظي	Provisional Seizure
+حَجْز تنفيذيّ	execution seizure
+حَجْز عقاريّ	seizure of real property
+حجز مضاعف	double seizure
+حَجْمُ الشَّوط	stroke volume
+حَجْمُ النَّفْضَة	stroke volume
+حد تيار بدء التشنج	tetanization threshold current
+حُداب	rachiocyphosis (kyphosis)
+حُداب	rachiokyphosis (kyphosis)
+حُدابٌ تالٍ للرَّضْح	post-traumatic kyphosis
+حُدابٌ زاوِيّ	angular kyphosis
+حُدابٌ شَيخوخِيّ	senile kyphosis
+حُدابٌ صَدْرِيّ	thoracic kyphosis
+حُدابٌ ظَهْرِيٌّ يَفَعِيّ	kyphosis dorsalis juvenilis (osteochondrosis kyphosis)
+حُدابٌ يَفَعِيّ	juvenile kyphosis (Scheuermann's kyphosis)
+حُدوثُ الحُمَّى	pyretogenesis
+حُدَيبَةُ بايبس	Babes' tubercles
+حَذَارِ حَذَارِ…	headache
+حَرارَةُ الحُمَّى	calor febrilis
+حَرْبُ عِصَابات	guerrilla (or guerilla)
+حرب عصابات	guerrilla war
+حَرْجَفِيّ: «أ» مُتَّسِمٌ بالحرارة	xerothermic
+حَركَةٌ رَحَوِيَّة أو دَوّارة	motion, rotary
+حَزازٌ شَرَوِيّ	lichen urticatus (papular urticaria)
+حِزامُ فينوس	Venus' girdle
+حُزْن	affliction
+حس	aesthesia
+حِسُّ الاخْتِناقِ باللِّباس	strangalesthesia
+حسّاس التواء الجدار الجانبي للإطار	side wall torsion sensor (SWT)
+حساسية	(electromagnetic) susceptibility
+حساسيّة	allergy; sensitivity
+حَسَّاسِيَّة	current sensitivity
+حساسية	lateral force sensitivity (cantilever beam)
+حسَّاسيَّة	sensibility
+حَسّاسيّة	sensitivity
+حساسية	sensitivity (of a receiver)
+حساسية	sensitivity (of a transducer)
+حساسية	sensitivity; susceptibility
+حساسية	sensitivity; threshold luminous flux
+حساسية	thermoelectric sensitivity
+حَسّاسيَّةٌ إشعاعيَّة	radiosensitivity
+حساسية الاستجابة	response sensitivity responsiveness responsivity
+حَسّاسِيَّةُ الإسكات	quieting sensitivity
+حساسية الاشعاع	radiation sensitivity
+حَسّاسيَّةُ الانحِراف	deflection sensitivity
+حساسية الانحراف	deflection sensitivity (electrostatic)
+حساسية الانحراف	deflection sensitivity (magnetic)
+حَسّاسيَّة الانحِراف	deviation sensitivity
+حساسية الانحناء	knee sensitivity; knee luminous flux
+حساسية الانفعال	strain sensitivity
+حساسية التباين	contract sensitivity
+حسّاسية التباين	contrast sensitivity
+حَسّاسيَّةُ التبايُن	sensitivity, contrast
+حَسّاسيَّةُ التثَلُّم	notch sensitivity
+حَسَاسِيَّة التَّحَرِّي	detection sensitivity
+حساسية الخبط	knock sensitivity
+حَساسِيةُ الخَليَّة الضَّوئيَّة	photocell sensitivity
+حَسّاسيَّةُ السُّقوط العَشْوائي	random-incidence sensitivity
+حساسية السوق	Market Sensitivity
+حَسّاسيَّةُ الضغط	pressure sensitivity
+حساسية العتبة	threshold sensitivity
+حساسية العزم لعارضة التقوّس	moment sensitivity of cantilever beams
+حساسية العين الطيفية	spectral sensitivity of eye
+حَسّاسية الفأرة	mouse sensitivity
+حساسية القناة	channel sensitivity (at 1 000 Hz)
+حَساسيةُ الكَمِّيَّة	quantity sensitivity
+حساسية اللاقط الزاوي	pickoff sensitivity
+حساسية اللمع	luminous sensitivity
+حساسيّة اللون	color sensitivity
+حَسَّاسِيَّةُ المَجال	field sensitivity
+حَسَّاسيَّةُ المَجال الحُرّ	free-field sensitivity
+حساسية المحادثة القريبة	close-talking sensitivity
+حسّاسيَّةُ المُستَقْبِل	sensitivity, receiver
+حَسَّاسِيَّة المُستقبِل القُصوى	receiver maximum sensitivity
+حسّاسية المشع	radiant sensitivity
+حساسية المقاومة المغناطيسية	magnetoresistive sensitivity
+حساسية المناخ	climate sensitivity
+حساسية المناخ الفعلية	effective climate sensitivity
+حساسية الموالفة	tuning sensitivity
+حساسية الميزان	balance sensibility
+حَسَاسِيَّة المِيزَان	balance sensitivity
+حسّاسية الميزان	sensitivity of balance
+حساسية الناقل للوصول المُتعدد مع اكتشاف	Carrier Sense Multiple Access/Collision Detection
+حساسية الناقل للوصول المتعدد مع تجنب	Carrier Sense Multiple Access/Collision Avoidance
+حَسَاسِيَةُ النُّقْبة	hue sensibility
+حساسية الهوائي	antenna decibel
+حَسَّاسِيَّة آلِيَّة	instrumental sensitivity
+حساسية أولية	inductance factor
+حساسية تزايدية	incremental sensitivity
+حساسية تغير التردد	pulling sensitivity
+حساسية توازن المناخ	equilibrium climate sensitivity
+حَسَّاسيَّةُ تيّار الاستِقبال	receiving current sensitivity
+حساسية تيار مجال حر	free-field current sensitivity
+حساسية تيارالتحكم	control current sensitivity (of a Hall probe)
+حَسّاسيَّةُ جِهازِ القياس	instrument sensitivity
+حَساسِيَّةٌ حَديثَة	neosensibility
+حساسيه ديناميكه , حركية	dynamic sensitivity
+حساسية ذاتية	intrinsic sensitivity
+حساسية ضغط	pressure sensitivity; voltage sensitivity
+حساسية ضوئية	luminous sensitivity
+حساسية ضوئية	photosensitivity
+حساسية طيفية	spectral sensitivity
+حساسية عَرْضية	cross sensitivity
+حَسّاسيَّة عَشْواء	random sensitivity
+حساسية عوامل النظام	parameter sensitivity
+حساسية كهربائية	electrical sensitivity
+حَسّاسِيَّة كَهرَضَوئيّة	photoelectric sensitivity
+حساسية لتغير المناخ	vulnerability to climate change
+حساسية للإشعاع	radiosensitivity
+حَساسِيَّةٌ للأَشِعَّة	radiosensibility
+حَساسِيَّةٌ للأشِعَّة	radiosensitiveness
+حَساسِيَّةٌ للأَشِعَّة	radiosensitivity
+حَساسيَّةٌ للتَّخْديرِالسِّيْسَائيّ	rachisensibility
+حساسية للتيار	sensitivity to current
+حساسية للجهد	sensitivity to voltage
+حساسية للقدرة الكهربائية	sensitivity to electric power
+حَساسِيَةٌ للكَهْرَباء	electrosensitivity
+حَسَاسِيَّةُ لَوْنِيَّة	chromatic sensitivity
+حساسية لونية	panachromatic
+حساسية لونية	sensitivity color
+حساسية مجال حر	free field sensitivity
+حساسية مجال حر	free-field sensitivity
+حساسية مجال منتشر	diffuse-field sensitivity
+حساسية محدودة للشوشرة	noise limited sensitivity; usable sensitivity
+حساسية محدودة للكسب	gain limited sensitivity; maximum sensitivity
+حساسية محورية	axial sensitivity
+حساسية مرجعية	reference sensitivity
+حساسية مطلقة للطيف	absolute spectral sensitivity
+حساسية مغناطيسية	magnetic sensitivity (of a Hall probe)
+حساسية نسبية	relative sensitivity (of a transducer)
+حساسية نسبية للطيف	relative spectral sensitivity
+حَسّاسِيَّةُ ڤلْطيَّة الاستِقبال	receiving voltage sensitivity
+حساسية, الكشف عن الغاز	sensitivity,
+حَسَر	myopia
+حَسَر	near sight (myopia)
+حَسَر	nearsightedness = myopia
+حَسَر	short sight (myopia)
+حَسَر	short sight = myopia
+حَسَر	shortsightedness (myopia)
+حَسـر البصـر	myopia
+حَسَرُ البَصَر	plesiopia (myopia)
+حَسَرٌ انْحِنائِيّ	curvature myopia
+حَسَرٌ أَوَّلِيّ	primary myopia (simple myopia)
+حَسَرٌ بَادِرِيّ	prodromal myopia
+حَسَرٌ بَسيط	simple myopia
+حَسَرٌ خَبيث	malignant myopia (pernicious myopia)
+حَسَرٌ خَفيف	low myopia
+حَسَرٌ شَديد	high myopia
+حَسَرٌ لَونِيّ	chromic myopia
+حَسَرٌ مُتَرَقٍّ	progressive myopia
+حَسَرٌ مَنْسَبِيّ	index myopia
+حَسَرٌ وَبيل	pernicious myopia
+حُشار	entomiasis
+حَشْوَةُ مُصادَمة	concussion charge
+حشيشة السعال	coltsfoot
+حُصافٌ حُمَّوِيّ	hydroa febrile (herpes simplex)
+حَصَانة	immunity
+حَصاة	pebble-stone
+حصبة	measles
+حَصْبَة	measles (morbilli, rubeola)
+حَصْبَة	rubella (german measles)
+حَصْبَةُ الأَيَّامِ الثَّلاَثة	three-day measles (rubella)
+حَصْبَةُ الخَنَازير	pork measles
+حَصْبَةٌ زائِفَة	bastard measles (rubella)
+حَصْبَةٌ سَوداء	black measles
+حَصْبَةٌ لانَموذَجِيَّة	atypical measles
+حَصْبَةٌ مُتَمَادِيَة	confluent measles
+حَصْبَةٌ نَزْفِيَّة	hemorrhagic measles (black measles)
+حصبة نغلية	bastard measles
+حَطَاطَةٌ مُخاطِيَّة	mucous papule (condyloma latum)
+حظيرة بارزة	blister hangar
+حَفّارة أو كَرّاءةٌ بالقَواديس الدوّارة	ladder dredger = dredger excavator
+حفر جندليّ	cataract action
+حقل تفاضلي اللف	differential wound field
+حُقوقُ المَرْضَى	patients' rights
+حُكاك	itching
+حكاك	itching = pruritus
+حُكاكٌ بَسيط	prurigo simplex (papular urticaria)
+حُكاكُ بِينِييه	Besnier's prurigo (atopic dermatitis)
+حُكاكُ رَضيعيّ	prurigo infantilis (papular urticaria)
+حُكاكٌ شائِع	prurigo vulgaris (papular urticaria)
+حُكاكيّ	pruritic
+حِكَّة	itching (pruritus)
+حِكَّة	pruritus
+حِكَّةُ أَصابِعِ القَدَم	toe itch (ground itch)
+حكة الأرض	itch, ground
+حِكَّةُ الاسْتِحْمام	bath itch
+حِكَّةُ الانْسِمامِ الذَّاتِيّ	autotoxic pruritus
+حِكَّةُ البَق	cimicosis
+حِكَّةُ البَقَّالين	grocers' itch
+حِكَّةُ البَنَّائين	bricklayer's itch
+حِكَّةُ التَّثْلِيْج	frost-itch
+حِكَّةُ التُّراب	ground itch
+حِكَّةُ التُّرْبَة	water pox (ground itch)
+حِكَّةُ الجُبْن	cheese itch
+حِكَّةُ الحَصَّادين	barley itch (grain itch)
+حِكَّةُ الحَصَّادين	grain itch
+حِكَّةُ الحَصَّادين	straw itch (grain itch)
+حِكَّةُ الحِلاَقَة	barbers' itch
+حِكَّةُ الحَمَّام	bath pruritus
+حِكَّةُ الخَبَّازين	bakers' itch
+حِكَّةُ الرِّيَّاضِيين	gym itch (tinea cruris)
+حكة السباحين	itch, swimmers
+حِكَّةُ السَّبَّاحين	swimmers' itch
+حِكَّةُ السَّنَواتِ السَّبْعَة	seven-year itch (scabies)
+حِكَّةُ الطَّحَّانين	millers itch
+حِكَّةُ الفِراش	mattress itch (grain itch)
+حِكَّةُ الفليبِّيِّن	Philippine itch (variola minor)
+حِكَّةُ القارِمَةِ الجَرَبِيَّة	sarcoptic itch
+حِكَّةُ القَطِرَان	tar itch
+حِكَّةُ اللَّعِب	jock itch (tinea cruris)
+حِكَّةُ المُزارِعين	farmer's itch
+حِكَّةُ المُعَدِّنين	miners' itch (ground itch)
+حِكَّةُ النَّدَى	dew itch (ground itch)
+حِكَّةُ أوجيسكي	Aujesky's itch (pseudorabies)
+حِكَّةٌ بَرْدِيَّة	pruritus hiemalis (xerotic eczema)
+حِكَّةُ تُرابِ جَوزِ الهِنْد	copra itch
+حِكَّةُ جامِعِي الرَّخْوِيَّات	clam diggers' itch (swimmer's itch)
+حِكَّةٌ جُنونِيَّة	mad itch (pseudorabies)
+حِكَّةُ دُوبي	dhobie itch
+حِكَّةُ دوبي	dhobie itch (tinea cruris)
+حِكَّةُ شَتْوِيَّة	winter itch (winter prurigo)
+حِكَّةٌ شَرَجِيَّة	pruritus ani
+حِكَّةٌ شَيخوخِيَّة	pruritus senilis
+حِكَّةٌ شَيخوخِيَّة	senile pruritus (pruritus senilis)
+حِكَّةٌ صَفَنِيَّة	pruritus scroti
+حِكَّةٌ صَيفِيَّة	summer itch (summer prurigo)
+حِكَّةٌ فَرْجِيَّة	pruritus vulvae
+حِكَّةٌ قَلَوِيَّةُ المَنْشَأ	alkali itch
+حِكَّةُ كاريبيتو	Caripito itch
+حِكَّةُ كوبا	Cuban itch (variola minor)
+حِكَّةٌ لِثَوِيَّة	odontocnesis
+حِكَّةٌ مائِيَّة	water itch
+حِكَّةٌ مائِيَّةُ المَنْشَأ	aquagenic pruritus
+حِكَّةُ مالابار	Malabar itch (tinea imbricata)
+حِكَّةٌ مَجْهُوْلَةُ السَّبَب	essential pruritus
+حِكَّةٌ مَصْحُوْبَةٌ بالأَعْرَاضِ	symptomatic pruritus
+حِكَّةٌ نَفْسِيَّةُ المَنْشَأ	pruritus psychogenic
+حِكَّةٌ يوريميَّة	uremic pruritus
+حل الدم الوليدي	hemolytic disease of new born
+حَلأَ	herpes
+حلأ أنفي	herpes, nasal
+حلأ تناسلي	herpes, genital
+حلأ قرني	herpes cornea
+حلأ متكرر	herpes, recurrens
+حَلاَّلُ النَّوى المُمَزِّق	Karyolysus lacertarum
+حَلَزُوْناتُ كورشمان	Curschmann's spirals
+حَلَقَةٌ انْكِماشِيَّةٌ مَرَضِيَّة	pathologic retraction ring
+حَلَقَةُ بَانْدِل	Bandl's ring (pathologic retraction ring)
+حَلَقَةُ براون	Braun's ring (pathologic retraction ring)
+حَلَم	acari (sing. acarus)
+حَلَمُ الجَرَب	Acarus scabiei (Sarcoptes scabiei)
+حُلُمٌ مَرَضِيّ	paroniria
+حَلَمَة	acarus
+حَلَمِي	acarian
+حُماضُ السُّكَّرِيّ	diabetic acidosis
+حُماضٌ كيتونِيٌّ سُكَّرِيّ	diabetic ketoacidosis
+حُمَاق	chickenpox
+حُماق	chickenpox (varicella)
+حُمَاق	varicella = chicken-pox
+حَمَّامُ شُوت	Schott bath
+حَمَّامٌ مُخَفِّضٌ للحُمَّى	antipyretic bath
+حُمَامَى اِلْتِهَابُ المَفَاصِلِ	epidemic arthritic erythema
+حُمامَى اِلْتِهَابِ المَفَاصِلِ	erythema arthriticum epidemicum
+حُمامَى الحِفاظ	diaper erythema (diaper dermatitis)
+حُمامَى جاكي	Jacquet's erythema (diaper dermatitis)
+حُمامَى حِفاظِيَّة	napkin erythema (diaper dermatitis)
+حُمامَى روماتزميَّة	rheumatic erythema
+حُمامَى وَبائِيَّة	epidemic erythema (acrodynia)
+حُمْرَةُ الكوليرا	cholera red
+حَمْضُ الفلوفيناميك	flufenamic acid
+حمل طفيلى	parasitic load
+حَمْلَقَةٌ خَلْفَ القاعِدِيَّة	postbasic stare
+حُمَّى	febre (fever)
+حُمِّي	febrile
+حُمَّى	febris
+حُمَّى	fever
+حمى	fever; pyraxia
+حُمَّى	fieber (fever)
+حُمَّى	fievre (fever)
+حُمَّى	pyrexia
+حُمَّى	pyrexy (pyrexia)
+حُمَّى	theileriosis
+حمى " شاركوه "	fever, Charcot's
+حمى " كاتاياما "	fever, Katayama
+حمى " كيو "	fever, Q = Q fever
+حُمَّى Q	Q fever
+حُمَّى Q الأُسْتُرالِيَّة	Australian Q fever
+حُمَّى إِحْليلِيَّةٌ	urethral fever
+حُمَّى أسام	Assam fever (Kala-azar)
+حُمَّى اسْتِقْلاَبِيَّة	metabolic fever
+حُمَّى اِصْطِنَاعِيَّة	artificial fever
+حُمَّى الإِثْنا عَشَرَ يَوماً	twelve-day fever of Nigeria
+حُمَّى الأَحْراج	jungle fever (falciparum malaria)
+حُمَّى الأَدْغال	jungle fever
+حُمَّى الأَرانِب	rabbit fever (tularemia)
+حُمَّى الإرضاع	milk fever
+حُمَّى الأَمْيالِ التِّسْعَة	nine-mile fever (Q fever)
+حُمَّى الأَوساخ	night-soil fever (typhoid fever)
+حُمَّى الأَيَّامِ الثَّلاَثَة	three-day fever (phlebotomus fever)
+حُمَّى الأَيَّامِ الخَمْسَة	five day fever (trench fever)
+حُمَّى الأَيَّامِ السَّبْعَة	seven-day fever
+حُمَّى الإيتيوكولانولون	etiocholanolone fever
+حُمَّى الباقَة	bouquet fever (dengue fever)
+حُمَّى الببَّغاء	parrot disease
+حُمَّى البَبَّغاء	parrot fever
+حُمَّى البَبَّغاء	parrot fever (psittacosis)
+حُمَّى البَحْرِ المُتَوَسِّطِ	eruptive Mediterranean fever (boutonneuse fever)
+حُمَّى البَحْرِ المُتَوَسِّطِ	Mediterranean exanthematous fever
+حُمَّى البَحْرِ المُتَوَسِّطِ الصَّفْراء	Mediterranean yellow fever
+حُمَّى البَحْرِ المُتَوَسِّطِ العائِلِيَّة	familial Mediterranean fever
+حمى البحر المتوسط العائلية	fever, familial mediterranean
+حُمَّى البروتين	protein fever
+حمى البول الأسود	black water fever
+حُمّى البول الأسود	blackwater fever
+حمى البول الأسود	fever, blackwater
+حُمَّى البِيلَةِ الدَّمَوِيَّة	hematuric fever (plasmodium falciparum malaria)
+حُمَّى البِيلَةِ السَّوداء	blackwater fever (hemolytic malaria)
+حُمَّى البِيلَةِ السَّوداء	melanuric fever (blackwater fever)
+حُمَّى البِيلَةِ الهيموغلوبينِيَّة	hemoglobinuric fever
+حُمَّى التَّجْفاف	dehydration fever
+حُمَّى التَّجْفاف	exsiccation fever (dehydration fever)
+حُمَّى التَّعَب	fatigue fever
+حُمَّى التَّعَرُّقِ الإِنْكِليزِيَّة	anglicus sudor
+حمى التيفود	fever, typhoid
+حمى التيفوس	fever, typhus
+حُمَّى التَّيفوس	typhus fever
+حُمَّى التِّيفُوسِ الوَبائِيَّةِ	classic epidemic typhus
+حُمَّى الثَّاي النَّزْفِيَّة	Thai hemorrhagic fever (hemorrhagic dengue)
+حُمَّى الجِبالِ الأَمْريكِيَّة	American mountain fever (Colorado tick fever)
+حُمَّى الجِبالِ الصَّخْرِيَّةِ	Rocky Mountain spotted fever
+حُمَّى الجُذام	leprotic fever
+حُمَّى الجُرْح	wound fever (traumatic fever)
+حُمّى الجُرَذ: داء يصيب الإنسان من عضّة	rat-bite fever
+حُمَّى الجَزيرَة	island fever (scrub typhus)
+حُمَّى الحَرِّ	thermic fever (sunstroke)
+حُمَّى الحُروب	war fever (epidemic typhus)
+حُمَّى الحَصاد	erntefieber
+حُمَّى الحَصاد	harvest fever
+حُمَّى الحَظائِر	stockyards fever
+حُمَّى الحَقْل	field fever (harvest fever)
+حُمَّى الحُلَيزِنات	spirillum fever
+حُمَّى الحُلَيزِنِيَّات	spirillary fever
+حُمَّى الحَمْأَة	mud fever (leptospiral jaundice)
+حُمَّى الخِمْس	quintana fever
+حُمَّى الخَنادِق	trench fever
+حُمَّى الخنادق: حُمَّى تُصيب الجُنْد في	trench fever
+حُمَّى الخَنازيرِ الأَفْريقِيَّة	African swine fever
+حُمّى الدَّريس	hay-fever
+حُمَّى الدِّقّ	hectic fever
+حُمَّى الدِّقّ: حُمّى غير مستقرّة ولكنها	hectic fever
+حُمَّى الدِّماغ	brain fever
+حمى الدنج	febris, endemica roseola
+حمى الدنج	fever, dengue
+حُمَّى الدَّنْجِ النَّزْفِيَّة	hemorrhagic dengue
+حُمَّى الدَّنْك	dengue
+حُمَّى الدَّنْك	dengue fever
+حُمَّى الدَّنْك	shouten fever (dengue)
+حُمَّى الدِّيكِ الرُّومِيّ	dandy fever (dengue fever)
+حُمَّى الربيع: شعور بالكَسَل أو القلق	spring fever
+حُمَّى الرَّضْح	traumatic fever (wound fever)
+حُمَّى الرُّوماتزم	rheumapyra
+حُمَّى الرُّوماتزم	rheumatic fever
+حمى الروماتيزم الحادة	acute rheumatic fever
+حُمَّى الزَّنْك	spelter chill (metal fume fever)
+حُمَّى الزَّنْك	zinc chill (zinc fume fever)
+حُمَّى السَّاحِلِ الأَفْريقِيّ	African coast fever
+حُمَّى السَّاحِلِ الشَرْقِيّ	East Coast fever
+حُمَّى السَّاقِ المُؤْلِمَة	tibialgic fever (trench fever)
+حُمَّى السَّبَّاكين	foundryman's fever (metal fume fever)
+حُمَّى السُّجون	jail fever (epidemic typhus)
+حُمَّى السُّجون	prison fever (typhus)
+حُمَّى السُّفُن	ship fever (epidemic typhus)
+حمى السقط أو الإجهاض	fever, abortus
+حُمَّى الشَّحْن	shipping fever
+حُمَّى الشَّرْق	Levant fever
+حُمَّى الشَّرْقِ الأَقْصَى النَّزْفِيَّة	Far East hemorrhagic fever (epidemic hemorrhagic fever)
+حُمَّى الشَّعْرَى	canicola fever (Stuttgart disease)
+حُمَّى الشَّمْس	solar fever (dengue fever)
+حُمَّى الشَّمْس	sun fever (dengue fever)
+حُمَّى الصَّادِع	Rift Valley fever
+حُمَّى الصَّحْراء	desert fever
+حُمَّى الصُّداعِ الرُّوسِيَّة	Russian headache fever
+حُمَّى الضَّباب	fog fever
+حمى الضنك	dengue fever
+حُمّى الطَّرَد: اهتياج عصبيّ يصيب صيّادًا	buck fever
+حُمَّى الطِّين	mud fever
+حُمَّى الظُّنْبُوْب	shank fever (trench fever)
+حُمَّى الظُّنْبُوْب	shin bone fever (trench fever)
+حُمَّى العَطَش	thirst fever
+حُمَّى الغُبار	dust fever (brucellosis)
+حُمَّى الغَمْر	inundation fever (scrub typhus)
+حُمَّى الغَنَم	sheep fever (heartwater)
+حُمَّى الفَمِ و القَدَم	foot and mouth disease (aphthous fever)
+حُمَّى الفَواصِد	phlebotomus fever
+حُمَّى الفَواصِد	sandfly fever
+حُمَّى الفَواصِد	sandfly fever (phlebotomus fever)
+حُمَّى الفَيْرُوسَةِ السِّنْجابِيَّة	polioviral fever
+حُمَّى الفَيَضانات	flood fever (scrub typhus)
+حُمَّى الفَيَضاناتِ اليابانِيَّة	Japanese flood fever (scrub typhus)
+حُمَّى الفيلاريَّات	filarial fever
+حُمَّى القُراد	tick fever
+حَمَّى القُرادِ الأَفْريقِيّ	African tick fever (relapsing fever)
+حُمَّى القُرادِ الجَبَلِيّ	mountain tick fever (Colorado tick fever)
+حُمَّى القَرِمِ النَّزْفِيَّة	Crimean hemorrhagic fever
+حمى القش	fever, hay
+حُمّى القَشّ	hay fever
+حُمَّى القَواقِع	snail fever
+حُمَّى القَواقِع	snail fever (schistosomiasis)
+حُمَّى القَيْظ: حمّى استوائية	calenture
+حُمَّى الكاميرون	Cameroon fever (malaria)
+حُمَّى الكَلأ	corasthma (hay fever)
+حُمَّى الكَلأ	hay fever
+حَمَّى الكَلأ السَّنَوِيَّة	perennial hay fever
+حُمَّى الكَلأ اللافَصْلِيَّة	nonseasonal hay fever
+حُمَّى الكونغو الحَمْراء	red fever of Congo (murine typhus)
+حُمَّى اللَّبَن	galactopyra (milk fever)
+حُمَّى الماءِ الأحْمَر	red- water fever (Texas fever)
+حُمَّى المَاعِز	fievre caprine (brucellosis)
+حُمَّى الماعِز	goat fever (Brucellosis)
+حُمَّى المِثْقَبِيَّات	trypanosome fever
+حُمَّى المَجارير	cesspool fever (typhoid fever)
+حُمَّى المُسْتَشْفَيات	hospital fever
+حُمَّى المُسْتَشْفَيات	hospital fever (epidemic typhus)
+حمى المستنقعات	plaudism
+حُمَّى المَسْغَبَة	inanition fever
+حُمَّى المُعَسْكَرات	camp fever
+حُمَّى المُعَسْكَرات	camp fever (typhus)
+حُمَّى المُكَوَّراتِ المِعَوِيَّة	febris entericoides (entericoid fever)
+حُمَّى المَلاَرْيا	malaria fever
+حمى الملاريا الثلاثية	tertiary fever
+حُمَّى المِلْح	salt fever
+حُمَّى النُّحاس	brass chill (metal fume fever)
+حُمَّى النَّحَّاسين	brazier's chill (metal fume fever)
+حُمَّى النُّزولِ لليابِسَة	land fever
+حُمَّى النِّفاس	absorption fever
+حُمَّى النِّفاس	childbed fever
+حُمَّى النِّفاس	childbed fever (puerperal fever)
+حمى النفاس	fever, puerperal
+حُمَّى النِّفاس	lechopyra (puerperal fever)
+حُمَّى النِّفاس	puerperal fever
+حُمَّى النِّفايات	shoddy fever
+حُمَّى النَّهْرِ اليابانِيّ	Japanese river fever (scrub typhus)
+حُمَّى الوادِي	valley fever
+حُمَّى الوادِي المُشَجَّر	Bushy creek fever (pretibial fever)
+حُمَّى الوَحْل	slime fever (leptospiral jaundice)
+حُمّى الورد: ضَربٌ من حُمَّى القشّ	rose fever
+حُمَّى إِنْتانِيَّة	septic fever
+حُمَّى أندامان A	Andaman A fever (leptospiral fever)
+حُمَّى انْعِدَامِ الحَرَكَة	adynamic fever (asthenic fever)
+حُمَّى أَواسِطِ آسيا النَزْفِيَّة	Central Asian hemorrhagic fever
+حُمَّى أورويا	Oroya fever
+حُمَّى أورويا	Oroya fever (bartonellosis)
+حُمَّى أومسك النَّزْفِيَّة	Omsk hemorrhagic fever
+حُمَّى أونيونغ نيونغ	O'nyong-nyong fever
+حُمَّى إيكوا	Ikwa fever (trench fever)
+حُمَّى بانكوك النَّزْفِيَّة	Bangkok hemorrhagic fever (dengue fever)
+حمَّى بل-إيبشتاين	Pel-Ebstein fever
+حُمَّى بنتا	pinta fever
+حُمَّى بَنَما	Panama fever (Chagres fever)
+حُمَّى بوامبا	Bwamba fever
+حُمَّى بَولِيَّةٌ	urinary fever
+حُمَّى بومونا	Pomona fever
+حُمَّى بونتياك	Pontiac fever
+حُمَّى بيل-إبشتاين	Pel-Ebstein pyrexia
+حُمَّى تسوتسوغامُوشي	tsutsugamushi fever (scrub typhus)
+حُمَّى تَصَلُّبِ العُنُق	stiffneck fever (epidemic cerebrospinal meningitis)
+حُمَّى تِكْساس	Texas fever
+حُمّى تكساس: مرض مُعْدٍ من أمراض الماشية	Texas fever
+حُمَّى تَكْسيرِ العِظام	breakbone fever (dengue fever)
+حُمَّى تَهَيُّجِيَّة	irritation fever
+حُمَّى تُوبيا	Tobia fever (Rocky mountain spotted fever)
+حُمَّى توكوشيما	Tokushima fever (infectious mononucleosis)
+حُمَّى جاكو المُتَفارِقَة	Jaccoud's dissociated fever (tuberculous meningitis fever)
+حمى جبال روكي المبقعة	fever, Rocky mountain, spotted
+حُمَّى جَبَل طارق	Gibraltar fever (brucellosis)
+حُمَّى جَمْرِيَّة	carbuncular fever
+حُمَّى جونين	Junin fever (Argentinian hemorrhagic fever)
+حُمَّى حَدائِقِ كيداني المُبَقَّعَة	Kedani Gardens spotted fever (scrub typhus)
+حُمَّى حَدائِقُ كيو المُبَقَّعَة	Kew Gardens spotted fever (rickettsialpox)
+حُمَّى حَطاطِيَّة	papular fever
+حُمَّى حُقولِ الرُّزّ	rice-field fever
+حُمَّى حُقولِ القَصَب	cane-field fever (leptospirosis)
+حُمَّى حَلْجُ القُطْن	cotton-mill fever (byssinosis)
+حُمَّى حَليبِ الماعِز	goat's milk fever (brucellosis)
+حُمَّى خَدْشِ القِطَط	cat-scratch fever
+حُمَّى خَريفِيَّة	autumn fever (nanukayami)
+حُمَّى خَفيفَة	eupyrexia
+حُمَّى خَفيفَة	febricula
+حمى خفية	F.U.O. = fever of undetermined origin
+حمى خمش القط	fever, cat - scartch
+حُمَّى دامدوم	dumdum fever (Kala-azar)
+حُمَّى دُتون الرَّاجِعَة	Dutton's relapsing fever (relapsing fever)
+حُمَّى دُخانِ الزَّنْك	spelter's fever (zinc fume fever)
+حُمَّى دُخانِ الزَّنْك	zinc fume fever
+حُمَّى دُخانِ الفِلِزَّات	metal fume fever
+حُمَّى دَرِّ اللَّبَن	milk fever
+حُمَّى دَرْسِ الحِنْطَة	threshing fever
+حُمَّى دَرَقِيَّة	thyroid fever
+حُمَّى دِماغِيَّة	brain fever
+حُمَّى دَنَفِيَّة	cachectic fever
+حُمَّى دَنَفِيَّة	cachexial fever
+حُمَّى دَوائِيَّة	drug fever
+حُمَّى دَورَوِيَّة	cyclic fever
+حُمَّى دَورِيَّة	periodic fever
+حُمَّى ذُبابِ الغَزال	deer fly fever (tularemia)
+حُمَّى ذَهَبِيَّة	auric fever
+حُمَّى رِئَوِيَّةُ	lung fever (pneumonia)
+حُمَّى رِئَوِيَّة	pneumonic fever
+حُمَّى رِئَوِيَّة	pulmonary fever (pneumonia)
+حُمَّى رافِعَةٌ للحَرارَة	pythogenic fever (typhoid fever)
+حُمَّى رِبْعٌ مُضاعَفَة	double quartan fever
+حُمَّى رَضْحِيَّة	traumatopyra
+حُمَّى روبلز	Robles'fever
+حُمَّى روديسيا	Rhodesian fever (East coast fever)
+حُمَّى ريوغرانده	Rio Grande fever (brucellosis)
+حُمَّى ساكوشو	Sakushu fever
+حُمَّى سالُونيك	Salonica fever (trench fever)
+حُمَّى سالِينِيم	Salinem fever
+حَمَّى سان خواكين	San Joaquin fever
+حُمَّى سُوافِ البَقَر	bovine epizootic fever (ephemeral fever of cattle)
+حُمَّى سوسِ سومطرة	Sumatran mite fever (scrub typhus)
+حُمَّى سونغو	Songo fever (epidemic hemorrhagic fever)
+حُمَّى شاركو	Charcot's fever (intermittent hepatic fever)
+حُمَّى شاغْريس	Chagres fever
+حُمَّى شِبْهُ كُزازِيَّة	tetanoid fever (cerebrospinal meningitis)
+حُمَّى شَرَوِيَّة	urticarial fever (schistosomiasis japonica)
+حُمَّى شوا	Choix fever
+حُمَّى صَيفِيَّةٌ خَريفِيَّة	estivoautumnal fever
+حُمَّى طَعامِيَّة	food fever
+حُمَّى طَفَحِيَّة	eruptive fever
+حُمَّى طَفَحِيَّة	exanthematous fever
+حُمَّى عابِرَة	ephemeral fever
+حُمَّى عابِرَةٌ فِي المَواشِي	ephemeral fever of cattle
+حُمَّى عَدَن	Aden fever (dengue fever)
+حُمَّى عَدِيْمَةُ الحَرَارَة	apyretic fever
+حُمَّى عَصَبِيَّةُ المَنْشَأ	neurogenic fever
+حُمَّى عَضَّةِ الجُرَذ	morbus morsus muris (rat bite fever)
+حُمَّى عَضَّةِ الجُرَذ	rat-bite fever
+حُمَّى عَضَّةِ الجُرَذ	sodokosis (rat bite fever)
+حُمَّى عَضَّةِ القِطَط	cat-bite fever
+حمى عقارية	fever, drug
+حُمَّى عِلاَجِيَّة	therapeutic fever (pyretotherapy)
+حُمَّى عُمَّالِ النُّحاس	brass founders' fever (metal fume fever)
+حُمَّى عَنِيْفَة	sthenic fever
+حمى غدية	fever, glandular = infectious mononucleosis
+حُمَّى غَرْبِ النِّيل	West Nile fever
+حُمَّى فالشيرين	Walcheren fever
+حُمَّى فان در شير	van der Scheer's fever (trench fever)
+حُمَّى فايفَر العُقَدِيَّة	Pfeifer's glandular fever (infectious mononucleosis)
+حُمَّى قبرص	Cyprus fever (brucellosis)
+حُمَّى قُرْئِيَّة	intermenstrual fever
+حُمَّى قَرَاد الكُولُورَادُو	Colorado tick fever
+حُمَّى قُرادِ تِكْساس	Texas tick fever (Bullis fever)
+حُمَّى قُرادِ كولورادو	Colorado tick fever
+حُمَّى قُرادِ كولومبيا	Colombian tick fever
+حُمَّى قُلاعِيَّة	aphthous fever
+حُمَّى كاتاياما	Katayama fever (schistosomiasis japonica)
+حُمَّى كاغامي	Kagami fever (infectious mononucleosis)
+حُمَّى كورسيكا	Corsican fever (malaria)
+حُمَّى كورين	Korin fever (epidemic hemorrhagic fever)
+حُمَّى كوماون	Kumaon fever (Indian typhus)
+حُمَّى كيري: حمّى أعراضها حرارة عالية	Q fever
+حُمَّى كين كيانغ	Kinkiang fever (schistosomiasis japonica)
+حُمَّى كينيا	Kenya fever (Kenya typhus)
+حُمَّى كيوتو	Kyoto fever
+حُمَّى لاإِنْتانِيَّة	aseptic fever
+حُمَّى لاَسا	Lassa fever
+حُمَّى لَسْعَةِ القُرادِ	South African tickbite fever
+حُمَّى لَقَاحِيَّة	vaccinal fever
+حُمَّى لون ستار	Lone Star fever (Bullis fever)
+حُمَّى ليتشوغويلا	lechuguilla fever
+حُمَّى مارسيليا	Marseilles fever (boutonneuse fever)
+حُمَّى مُتَقَطِّعَة	intermittent fever
+حُمَّى مُتَواصِلَة	monoleptic fever
+حُمَّى مَجْهُوْلَةُ السَّبَب	essential fever
+حُمَّى مُحَرَّضَة	induced fever
+حُمَّى مُخَيَّم بوليز	Bullis fever
+حُمَّى مَرْكَزِيَّة	central fever
+حُمَّى مُسْتَمِرَّة	synocha
+حُمَّى مُسْتَمِرَّة	synochus
+حُمَّى مُضاعَفَةٌ مُسْتَمِرَّة	double continued fever
+حُمَّى مُطْبِقَة	continued fever
+حمى معوية	fever, enteric
+حمى مفتعلة	fever, fictitious
+حُمَّى مُفْرِطَةُ الحَرارَة	hyperpyrexial fever
+حُمَّى مُقَدَّمِ الظُنْبوب	Fort Bragg fever (pretibial fever)
+حُمَّى مُقَدِّمِ الظُنْبوب	pretibial fever
+حُمَّى مَنْشورْيا	Manchurian fever
+حُمَّى مورشيسون-بيل-ابشتين	Murchison-Pel-Ebstein fever
+حُمَّى موسمان	Mossman fever (scrub typhus)
+حُمَّى ميانة	Mianeh fever
+حُمَّى ميوز	Meuse fever (trench fever)
+حُمَّى نانوكايامي	Nanukayami fever
+حُمَّى نتروجينية المَنْشَأ	azothermia
+حُمَّى نَزْفِيَّة	hemorrhagic fever
+حُمَّى نَزْلِيَّةٌ وَبائِيَّة	epidemic catarrhal fever (influenza)
+حُمَّى نيبوليتان	Neapolitan fever (brucellosis)
+حُمَّى هاسامِي	Hasami fever (leptospirosis)
+حُمَّى هافرهيل	Haverhill fever (bacillary rat bite fever)
+حُمَّى هافيرهيل	Haverhill fever
+حُمَّى هانْكو	Hankow fever (schistosomiasis japonica)
+حُمَّى هِركِسهايمر	Herxheimer's fever
+حُمَّى هِسْتيرِيَّة	hysterical fever
+حُمَّى هَضْمِيَّةُ المَنْشَأ	digestive fever
+حُمَّى هوايتمور	Whitmore's fever (melioidosis)
+حمى وادي الصدع	fever, Rift Valley
+حُمَّى وادي باهفانت	Pahvant Valley fever (tularemia)
+حُمَّى وادِي يانغ تسي	Yangtze Valley fever (schistosomiasis japonica)
+حُمَّى ولهنيك	febris wolhynica (trench fever)
+حُمَّى ولهينيا	Wolhynia fever (trench fever)
+حُمَّى وَهَنِيَّة	asthenic fever
+حُمَّى وُولي	Woolley's fever
+حُمِّيّ: خاصّ بالحُمَّى	pyrexial
+حُمَيْراء	German measles
+حُمَيراءٌ أُمومِيَّة	maternal rubella
+حميم	palsy-walsy
+حَنَفِيَّة	cock
+حَنَكُ المُدَخِّنين	smokers' palate (stomatitis nicotina)
+حور رعَّاش	aspen
+حَوْض الإمساك	holding pool
+حَوِيَّة	whorl
+حَيدَمِيّ	hematozoic
+حَيدَمِيَّات	hematozoa [sing.hematozoon]
+حَيَوانٌ خِلْوٌ مِن العوامل المُمْرِضَةِ	specific-pathogen-free animal
+حيوان دموي	plasmodium
+حيوان طُفَيليّ	zooparasite
+حَيَوانٌ طُفَيلِيٌّ جَوَّانِيّ	entozoon [pl.entozoa]
+حُيَيْوِن زهري	anthozooid

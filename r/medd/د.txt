@@ -1,0 +1,193 @@
+داءُ المَصْل	serum disease (serum sickness)
+داءُ المَصْل	serum sickness
+داءُ بَولِ شَرابِ القَيقَب	maple syrup urine disease
+داءُ توماسِيلي	Tommaselli's disease (quinine hematuria)
+داءُ غامْنا	Gamna's disease (splenomegaly with thickened capsule)
+دابسُون	dapsone
+داخِلَ المَسْكَن	intralocular
+دازادرول	dazadrol
+داكارْبازِين	dacarbazine
+داكْتينُوميسين	dactinomycin
+دانازُول	danazol
+دانتُرولِين	dantrolene
+دانثُرون	danthron
+داونُورُوبِيسِين	daunorubicin
+داونُوميسِين	daunomycin
+دُراقٌ عِلاَجِيُّ المَنْشَأ	iatrogenic goiter
+دَرَجةُ حرارةِ المَحلول الحَرِجة	critical solution temperature
+دِرْياق	antidote
+دِرْياقُ الأَرْسِينيك	antidote against arsenic
+دِرْياقُ بِيبْرُون	Bibron's antidote
+دِرْياقٌ شامِل	universal antidote
+دِرْياقُ فانْتُوس	Fantus's antidote
+دِرْياقٌ فِيزْيولوجِيّ	physiologic antidote
+دِرْياقٌ كِيمْيائِيّ	chemical antidote
+دِرْياقٌ مِيكانيكِيّ	mechanical antidote
+دِرْياقُ هول	Hall antidote
+دِرْياقِيّ	antidotal
+درِينِيدين	drinidine
+دُسْتورُ الأَدْوِيَة	dispensatory
+دُسْتورُ الأَدْوِيَة	pharmacopeia (pharmacopoeia)
+دُسْتورُ الأَدْوِيَة	pharmacopoeia
+دُسْتورُ الأَدْوِيَةِ الأمْريكِيّ	United States Pharmacopeia
+دُسْتورُ الأَدْوِيَةِ الدُّوَلِيّ	International Pharmacopeia
+دَسَمُ اللَّبَن	cream
+دِعامَة قَلعَوِيَّة	castellated beam
+دِفْتَر الوَصْفَات	prescription book
+دفع بالغاز المحلول	dissolved-gas drive
+دَفْعَةً دَفْعَة	coup sur coup
+دُكْتورٌ في الطِّبّ	doctor of Medicine
+دُكْتورٌ في تَقْوِيْمِ العِظام	doctor of Orthopedic Medicine
+دِكسترانومَر	dextranomer
+دِكستروثيروكسِين	dextrothyroxine
+دِكسترِيفِيرُون	dextriferron
+دليل الجرعة الممتصة	absorbed dose index (at a point)
+دليل مكافىء الجرعة	dose equivalent index (at a point)
+دَمٌّ	doping
+دِهانُ كاسْتِيلاَّنِيّ	Castellani's paint (carbol fuchsin solution)
+دِهانٌ مُطَهِّر	antiseptic paint
+دَهون	lotio (lotion)
+دَهون	lotion
+دَهونُ أَبْيَض	white lotion (lotio alba)
+دَهونُ الأَمْفوتِيرِيِسين B	amphotericin B lotion
+دَهونُ الكالامين	calamine lotion
+دَهونُ اللينْدان	lindane lotion
+دَهونُ النِّيستاتين	nystatin lotion
+دَهونُ الهيدروكورتِيزُون	hydrocortisone lotion
+دَهونُ بَنْزُواتِ البِنْزيل	benzyl benzoate lotion
+دَهونُ غولار	Goulard's lotion
+دَواء	drug
+دَواء	medicament
+دَواء	medicine
+دَواء	pharmacon (drug)
+دَواءٌ اسْتِثْنائِيّ	exclusive remedy
+دَواءُ الخُصوبَة	fertility drug
+دَواءُ المُداوَمَة	maintenance drug
+دَواءٌ بدُوْنِ وَصْفَة	nonprescription drug
+دَواءٌ بدُوْنِ وَصْفَة	over-the-counter drug
+دَواءٌ بوَصْفَة	legend drug (prescription drug)
+دَواءٌ بوَصْفَة	prescription drug
+دَواءٌ تِلْقائِيّ	autacoid
+دَواءٌ جالَينُوسِيّ	galenica
+دَواءٌ خافِضٌ للضَّغْط	hypotensive drug
+دَواءٌ خامّ	crude drug
+دَواءٌ سامٌّ للأُذُن	ototoxic drug
+دَواءٌ سِرِّيّ	nostrum
+دَواءٌ شامِل	catholicon (panacea)
+دَوَاءٌ شامِل	holagogue (panacea)
+دواء عام	holagogue
+دَواءٌ عَسَلِيّ	mellitum [pl.melliti]
+دواءٌ غُفْل	placebo
+دَواءٌ قانونِيّ	magistral
+دَواءٌ كابِتٌ للمَناعَة	immunosuppressive drug
+دَواءٌ كُحُولِيّ	alcoholica
+دَوَاء مِثْلِيّ	homeopathic drug
+دَواءٌ مُحَلَّى	confection
+دواءٌ مُرَخّص	patent medicine
+دَواءٌ مُرْقِئ	hemostatic drug
+دَواءٌ مُرَكَّب	compound medicine
+دَواءٌ مُسَبِّبٌ للإِدْمان	habit-forming drug
+دَواءٌ مُسَجَّل	patent medicine
+دَواءٌ مُسَجَّلُ المِلْكِيَّة	proprietary medicine
+دَواءٌ مُشِعّ	radiopharmaceutical
+دَواءٌ مُضادٌّ للقَلَق	antianxiety drug
+دَواءٌ مُضادٌّ للهَوَس	antimanic drug
+دَواءٌ مُعَزِّزٌ للإِخْصَاب	fertility promoting drug
+دَواءٌ مُناهِض	antagonistic drug
+دَواءٌ نَفْسانِيُّ التَّأْثير	psychotropic drug
+دَوَاءٌ نَوْعِيٌّ	specific drug
+دَواءٌ يَتيم	orphan drug
+دَوائِيّ	medicamentosus
+دَوائِيّ	medicamentous
+دوائيّ	medicinal
+دوائيّ	pharmacologic|pharmacological
+دَوائِيّ	remedial
+دُوازُومِيسِين	duazomycin
+دُوبامانِتين	dopamantine
+دُوراستِين	dorastine
+دورة الوقود لنظام الحقن بالوحدة المدمجة	pump-injector fuel injection system
+دُوكسابرام	doxapram
+دُوكسُورُوبِيسِين	doxorubicin
+دُوكسي سِيكلِين	doxycycline
+دُوكسِيلامِين	doxylamine
+دي إيثيلين ديامين	diethylenediamine (piperazine)
+دَيابامِيد	diapamide
+دَيازِيبام	diazepam
+دِيامُورفين	diamorphine
+دِيامُوكايِين	diamocaine
+ديانُول	deanol
+دِيبُرومْسالان	dibromsalan
+دِيبرِيزُوكِين	debrisoquin
+دِيبِنزِيبِين	dibenzepin
+دِيبُوتُولِين	dibutoline
+دِيبُوكايِين	dibucaine
+ديبيرودون	diperodon
+ديبيرون	dipyrone
+ديبيريدامول	dipyridamole
+ديتيرينول	deterenol
+دِيجوكسِين	digoxin
+دِيجِيتال	digitalis
+دِيجِيتالٌ مُسْتَحْضَر	prepared digitalis
+دِيجِيتالٌ مَسْحُوق	powdered digitalis
+دِيجِيتاليس	digitalis
+دِيجِيتالين	digitalin
+دِيجِيتوكسِين	digitoxin
+دِيجِيتونِيد	digitonide
+دِيجِيتونِين	digitonin
+دِيدُروجيستيرُون	dydrogesterone
+ديزمُوبرِيسِين	desmopressin
+دِيزوسين	dezocine
+دِيزُومُورْفِين	desomorphine
+دِيزُونِيد	desonide
+ديسبيرمين	dispermine (piperazine)
+ديسوبيراميد	disopyramide
+دِيسِيبرامِين	desipramine
+دِيسِيربِيدين	deserpidine
+ديسِيكلُومِين	dicyclomine
+ديفتالُون	diftalone
+دِيفِيلين	dyphylline
+ديفيمانيل	diphemanil
+ديفيناديون	diphenadione
+ديفينهيدرامِين	diphenhydramine
+ديفينوكسِيلات	diphenoxylate
+ديفينيدول	diphenidol
+ديكتافلُور	dectaflur
+دِيكسامِيتازُون	dexamethasone
+دِيكسامِيزول	dexamisole
+دِيكسبانْتِينُول	dexpanthenol
+دِيكسبرُوبرانُولُول	dexpropranolol
+دِيكسبُروفِينِيرامِين	dexbrompheniramine
+دِيكسترُوأمفِيتامِين	dextroamphetamine
+دِيكستُرومِيتورفان	dextromethorphan
+ديكسكلامول	dexclamol
+دِيكسكلُورفِينِيرامِين	dexchlorpheniramine
+دِيكسيفاكايِين	dexivacaine
+دِيكسيمافِين	deximafen
+دِيكلُوفِيناك	diclofenac
+دِيكلُوكساسِيلِين	dicloxacillin
+دِيكلُونِين	dyclonine
+دِيكُوكوينات	decoquinate
+ديكُومارُول	dicumarol
+دِيلتِيازِيم	diltiazem
+ديلفِينِين	delphine
+ديلفِينِين	delphinine
+دِيلمادِينُون	delmadinone
+ديم ذاتيّ التلقيح	endo-deme
+ديم ذو تلقيح خلطيّ فعليّ	homogamodeme
+ديم ذو تلقيح خلطيّ محدود	coenogamo - deme
+دِيمُوكسامِين	dimoxamine
+دِيمُوكسِيبام	demoxepam
+دِيموكسِيلِين	dimoxyline
+ديميثوكسي فنيلِ بِنسلينِ الصُّوديوم	dimethoxyphenyl penicillin sodium (methicillin sodium)
+دِيمِيكاريُوم	demecarium
+ديميكلُوسِيكلِين	demeclocycline
+ديمينهيدرينات	dimenhydrinate
+دينامُومِتر امتِصاصي	absorption dynamometer
+دِينسِيد	dinsed
+دِينُوفُونِجين	denofungin
+دِيهيدرو إيبي آندرُوستِيرُون	dehydroepiandrosterone
+دِيهيدروآنْدرُوستِيرُون	dehydroandrosterone
+دِيُوكسِي كُورتِيكُوسْتِيرون	deoxycorticosterone
+دِيُوكسِي مُورْفِين	desoxymorphine
+دِيُوكسِي مِيتازُون	desoximetasone
+ديوكسيلين	dioxyline

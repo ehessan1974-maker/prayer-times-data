@@ -1,0 +1,216 @@
+U-cell lymphoma	لِمْفُومةُ الخَلاَيا U
+uarthritis (gout)	نِقْرِس
+ulcer	قَرْحَة [ج:قَرْحات] / قرحة / قُرحة، قَرحة
+ulcer	قَرْحَة
+ulcer	(1) قَرْحَة (2) يقرِّح (3) يتقرَّح.
+ulcer cancer	سَرَطانُ القَرْحَة
+ulcera [sing.ulcus]	قَرْحات [ف:قَرْحة]
+ulcerated cancer	سَرَطانٌ مُتَقَرِّح
+ulcerated sore throat (gangrenous pharyngitis)	الْتِهابُ الحَلْقِ التَّقَرُّحِيّ (الْتِهابُ البُلْعومِ الغَنْغَرِيْنِيّ)
+ulcerating granuloma of the pudenda (granuloma inguinale)	وَرَمٌ حُبَيبِيٌّ فَرْجِيٌّ مُتَقَرِّح ( الوَرَمُ الحُبَيْبِيُّ الأُرْبِيُّ)
+ulceration	(1) تقرُّح (2) قَرْحَة.
+ulceration of Daguet	تَقَرُّحُ اللَّهاة (في الحمى التيفية)
+ulcerative cellulitis	الْتِهابُ الهَلَلِ التَّقَرُّحِيُّ
+ulcerative cystitis	الْتِهابُ المَثانَةِ التَّقَرُّحِيُّ
+ulcerative endocarditis	الْتِهابُ الشَّغافِ التَّقَرُّحِيّ
+ulcerative esophagitis	الْتِهابُ المَريءِ التَّقَرُّحِيّ
+ulcerative gingivitis	الْتِهابُ اللِّثَةِ التَّقَرُّحِيّ
+ulcerative glossitis	الْتِهابُ اللِّسانِ التَّقَرُّحِيّ
+ulcerative inflammation	الْتِهابٌ تَقَرُّحِيّ
+ulcerative lymphangitis	الْتِهابُ الأَوعِيَةِ اللِّمْفِيَّةِ التَّقَرُّحِيّ
+ulcerative proctitis	الْتِهابُ المُسْتَقيمِ التَّقَرُّحِيّ
+ulcerative pulpitis	الْتِهابُ اللُّبِّ التَّقَرُّحِيّ
+ulcerative stomatitis	الْتِهابُ الفَمِ التَّقَرُّحِيّ
+ulcerative stomatitis of sheep	الْتِهابُ الفَمِ التَّقَرُّحِيُّ في الأَغْنام
+ulcerative tonsillitis	الْتِهابُ اللَّوزَتَينِ التَّقَرُّحِيّ
+ulcerative ulitis	الْتِهابُ اللِّثَةِ التَّقَرُّحِيّ
+ulcerative vulvitis	الْتِهابُ الفَرْجِ التَّقَرُّحِيّ
+ulcero-	سابقة بمعنى القَرْحَة
+ulcerogenic	مُقَرِّح: مُحْدِثٌ قَرْحَةً.
+ulcerogranuloma	وَرَمٌ حُبَيبِيٌّ قَرْحِيّ
+ulceromembranous angina (Vincent's angina)	ذَبْحَةٌ غِشائِيَّة تَقَرُّحِية ( ذَبْحَةُ فِنْسان)
+ulceromembranous gingivitis	الْتِهابُ اللِّثَةِ التَّقَرُّحِيُّ الغِشائِيّ / الْتِهابُ اللِّثَّةِ التَّقَرُّحِيُّ الغِشائِيّ
+ulceromembranous glossitis	الْتِهابُ اللِّسانِ التَّقَرُّحِيُّ الغِشائِيّ
+ulceromembranous pharyngitis	الْتِهابُ البُلْعومِ الغِشائِيُّ التَّقَرُّحِيّ
+ulceromembranous stomatitis	الْتِهابُ الفَمِ التَّقَرُّحِيُّ الغِشائِيّ
+ulceromembranous tonsillitis	الْتِهابُ اللَّوْزَتَينِ الغِشائِيُّ القَرْحِيُّ
+ulcerous aortitis	الْتِهابُ الأَبْهَرِ التَّقَرُّحِيّ
+ulcus [pl.ulcera]	قَرْحَة [ج:قَرْحات]
+ulcus ambulans (phagedenic ulcer)	قَرْحَةٌ مُتَنَقِّلَة ( قَرْحَةٌ آكِلَة)
+ulcus cancrosum (rodent ulcer)	قَرْحَةٌ قارِحَةٌ ( قَرْحَةٌ قارِضَة)
+ulcus cruris	قَرْحَةُ السَّاق
+ulcus exedens (rodent ulcer)	قَرْحَةٌ مُمْتَدَّة ( قَرْحَةٌ قارِضَة)
+ulcus grave (tropical ulcer)	قَرْحَةٌ وَخِيْمَةٌ ( قَرْحَةٌ مَدارِيَّة)
+ulcus hypostaticum	قَرْحَةٌ رُكودِيَّة
+ulcus induratum	قَرْحَةٌ جاسِئَة
+ulcus interdigitale	قَرْحَةٌ فَوْتِيَّة (بَينَ أَصَابع القدم)
+ulcus molle (ulcus molle cutis)	قَرْحَةٌ رَخْوَة ( قَرْحَةٌ رَخْوَةٌ جِلْدِيَّة)
+ulcus penetrans	قَرْحَةٌ نافِذَة
+ulcus rodens	قَرْحَةٌ قارِضَة
+ulcus scorbuticum	قَرْحَةٌ بَثَعِيَّة
+ulcus serpens corneae	قَرْحَةُ القَرْنِيِّةِ السَّاعِيَة
+ulcus simplex vesicae	قَرْحَةٌ مَثانِيَّةٌ بَسيطَة
+ulcus tropicum	قَرْحَةٌ مَدارِيِّة
+ulcus ventriculi	قَرْحَةُ المَعِدَة
+ulcus vulvae acutum	قَرْحَةٌ فَرْجِيَّةٌ حادَّة
+ulitis	الْتِهابُ اللِّثَة
+Ullrich-Feichtiger syndrome	مُتَلاَزِمَةُ أولريخ-فايختيغر (تشوهات بالفكين والأصابع)
+Ullrich-Turner syndrome	مُتَلاَزِمَةُ أولريخ-تيرنر (نقص الصبغي X)
+ulnar drift deformity	تَشَوُّهُ انْزِيَاحِ الزَّنْد (في الروماتويد)
+ulnar nerve paralysis	شَلَلُ العَصَبِ الزَّنْدِيّ
+uloglossitis	الْتِهابُ اللِّثَّةِ و اللِّسان
+uloncus	بَثْعَة (تورم اللثة السليم)
+ultrasonic stroboscope	مِصباحٌ رَعّاش (استروبُوسكوب) فوق سمعيّ (لِتَقْطيع الضوء)
+ultrasound	(1) الصوت الفَوْسَمْعيّ أو فوق السَّمْعيّ (2) التشخيص فوق السَّمْعي: تشخيص الأمراض بالاستعانة بالصوت فوق السَّمْعيّ.
+ultraspeed rotary handpiece	قَبْضَةٌ دَوَّارَةٌ فائِقَةُ السُّرْعَة
+ultraviolet ray ophthalmia	الرَّمَدُ بالأَشِعَّةِ فَوقَ البَنَفْسَجِيَّة
+Umballa sore	قَرْحَةُ أمبالا ( قَرْحَةُ الصَّحْراء)
+Umber's test	اخْتِبارُ أومبر (في الحمى القرمزية)
+umbilical diphtheria	خُناقٌ سُرِّيّ
+umbilical granuloma	الوَرَمُ الحُبَيبِيُّ في السُّرَّة
+umbilical hernia	فَتْقٌ سُرِّيّ
+uncinarial dermatitis (ground itch)	الْتِهابُ الجِلْدِ النَّاجِمُ عن الدِّيدانِ الشِّصِّيَّة (الحِكَّةُ الأَرضِيَّة)
+uncinate epilepsy	صَرْعُ التَّلْفِيْفُ الشّصِّيّ
+uncinate seizure	نَوبَةٌ شِصِّيَّةُ المَنْشَأ
+underfloor chain conveyor	ناقل أرضي ذو سلسلة دوارة
+underfunction gingivitis	الْتِهابُ اللِّثَةِ بنَقْصِ الوَظيفَة
+Underwood's disease (sclerema)	داءُ أَنْدَرْوُود (الصَّلْدَمَة)
+undifferentiated cell leukemia (stem cell leukemia)	ابْيِضاضُ الخَلاَيا اللامُتَمايِزَة ( ابْيِضاضُ الخَلاَيا الجذْعِيَّة)
+undifferentiated lymphoma	لِمْفُومةٌ لامُتَمايِزَة
+undifferentiated malignant lymphoma	لِمْفُومةٌ خَبِيْثَةٌ لا مُتَمايِزَة
+undifferentiated schizophrenia	فُصامٌ لامُتَمَيِّز
+undulant fever	الحُمَّى المتموِّجة؛ الحُمَّى المالِطيَّة (مض).
+undulant fever	الحُمَّى المُتَمَوِّجَة
+undulant fever (brucellosis)	الحُمَّى المُتَمَوِّجَة ( داءُ البرُوسيلاَّت)
+uneven fracture	صَدْعٌ غيرُ مُنْتَظِم / تشقق غير منتظم
+uneven fracture	مَكْسَر مستوٍ
+unfavorable fracture	كَسْرٌ غَيرُ مُسْتَحَبٍّ
+ungual psoriasis	صَدَفِيَّةٌ ظُفُرِيَّةٌ
+unicentric blastoma	وَرَمٌ أَرومِيٌّ وَحيدُ المَرْكَز
+unicentric cancer	سَرَطانٌ وَحيدُ المَرْكَز
+unilateral cord palsy	شَلَلٌ نُخاعِيٌّ وَحيدُ الجانِب
+unilateral emphysema	نُفَاخٌ وَحيدُ الجانِب
+unilateral epilepsy	صَرْعٌ وَحيدُ الجانِب
+unilateral fracture	كَسْرٌ وَحيدُ الجانِب
+unilateral hemianopia	عَمَىً شِقِّيٌّ وَحيدُ الجانِب
+unilateral paralysis	الشَّلَلُ الوَحيدُ الجَانِب
+unilobular cirrhosis (primary biliary cirrhosis)	تَشَمُّعٌ وَحيدُ الفَصّ ( تَشَمُّعٌ صَفْراوِيٌّ أَوَّلِيّ)
+unilocular hydatid disease	الدَّاءُ العُدارِيُّ الوَحيدُ المَسْكَن
+uninflammable	لا لَهُوب، غيرُ قابل للالتِهاب
+uniocular hemianopia	عَمَىً شِقِّيٌّ وَحيدُ العَين
+unipolar disorder	اضْطِرابٌ أُحادِيُّ القُطْب
+unipolar psychosis	ذُهانٌ وَحيدُ القُطْب
+universal swivel machine vice	مِلْزَمَةُ مَكناتٍ دَوَّارَة عامةُ الأغراض
+Unna's paste boot	سَوقاءُ مَعْجُوْنِ أونا (لمعالجة الدوالي المتقرحة)
+unproductive mania (stuporous mania)	هَوَسٌ غَيْرُ مُنْتِج ( هَوَسٌ ذُهولِيّ)
+unreason	لاعقلانيّة؛ جنون.
+unreduced dislocation	خَلْعٌ غَيرُ مَرْدود
+unresolved pneumonia	الْتِهابٌ رِئَوِيٌّ غَيرُ شافٍ
+Unschuld's sign	عَلاَمَةُ أُونشولد (في السكري)
+unstable angina	ذَبْحَةٌ لامُسْتَقِرَّة
+Unverricht's disease (progressive familial myoclonic epilepsy)	داءُ أونفيريخت (الصَّرْعُ الرَّمَعِيُّ العَضَلِيُّ العائِلِيُّ المُتَرَقِّي)
+Unverricht's syndrome	مُتَلاَزِمَةُ أونفيريخت (الصرع الرمعي المترقي)
+upper hemianopia	عَمَىً شِقِّيٌّ عُلْوِيّ
+upper motor paralysis	شَلَلُ العَصَبونِ الحَرَكِيِّ العُلْوِيّ
+uranoplegia	شَلَلُ الحَنَك
+urapostema	خُراجٌ بَولِيّ
+urarthritis	الْتِهابُ المَفاصِلِ النِّقْرِسِيّ
+urate granuloma	وَرَمٌ حُبَيبِيٌّ يوراتِيّ
+urate thesaurismosis (gout)	كُنازٌ يوراتي ( نِقْرس)
+uratic arthritis	الْتِهابُ المَفْصِلِ اليُوراتِيّ
+uratic conjunctivitis	الْتِهابُ المُلْتَحِمَةِ اليوراتِيُّ
+uratic iritis (gouty iritis)	الْتِهابُ القُزَحِيَّةِ اليوراتيّ ( الْتِهابُ القُزَحِيَّةِ النِّقْرِسِيّ)
+uratoma	تَوَرُّمٌ يُوراتِيّ ( تُوْفَةٌ يُوراتِيَّة)
+Urbach-Oppenheim disease	داءُ أُورْباخ-أوبيِنْهايم
+Urbach-Wiethe disease (lipoid proteinosis)	داءُ أُورباخ فِيته (الدَّاءُ البروتينِيُّ الشَّحْمانِيّ)
+urban plague	طاعُونٌ حَضَرِيّ
+uredema	وَذَمَةٌ بَولِيَّة
+uredofos	يوريديفوس (مضاد للطفيليات في الطب البيطري)
+uremic colitis	الْتِهُابُ القَولون اليوريمِيُّ
+uremic coma	غَيبوبَةٌ يوريميَّة
+uremic convulsion	اخْتِلاَجٌ يوريمِيّ
+uremic diarrhea	إِسْهالٌ يُوريمِيّ
+uremic gastritis	الْتِهابُ المَعِدَةِ اليوريمِيّ
+uremic pericarditis	الْتِهابُ التَّأْمورِ اليُوريميِّ
+uremic pneumonitis	الْتِهابٌ رِئَوِيٌّ يوريميّ
+uremic pruritus	حِكَّةٌ يوريميَّة
+uremic retinitis	الْتِهابُ الشَّبَكِيَّةِ اليوريميّ
+uremic stomatitis	الْتِهابُ الفَمِ اليُوريميّ
+ureteral colic	مَغْصٌ حالِبِيّ
+ureteritis	الْتِهابُ الحالِب / الْتِهَابُ الحَالِب
+ureteritis cystica	الْتِهابُ الحالِبِ التَّكَيُّسِيّ
+ureteritis glandularis	الْتِهابُ الحالِبِ الغُدِّيّ
+ureteropyelitis	الْتِهابُ الحالِبِ و الحُوَيضَة
+ureteropyelonephritis	الْتِهابُ الحالِبِ والحُوَيضَة
+ureteropyosis	الْتِهابُ الحالِبِ القَيْحِيّ
+urethral abscess	خُراجٌ إِحْلِيلِيّ
+urethral arthritis (gonococcal arthritis)	الْتِهابُ المَفْصِلِ الإِحْليلِيُّ المَنْشَأ (التِهابُ المَفْصِلِ السَّيَلانِيّ)
+urethral fever	حُمَّى إِحْليلِيَّةٌ ( حُمَّى سَبْرِ الإِحْليل)
+urethritis	التهاب الإحليل (مض).
+urethritis	الْتِهابُ الإِحْليل / الْتِهَابُ الإِحْلِيل / التهاب مجرى البول
+urethritis cystica	الْتِهابُ الإِحْليلِ التَّكَيُّسِيّ
+urethritis glandularis	الْتِهابُ الإِحْليلِ الغُدِّيّ
+urethritis granulosa	الْتِهابُ الإِحْليلِ الحُبَيبِيّ
+urethritis orificii externi	الْتِهابُ الصِّماخِ الإِحْليليّ الظَّاهِر
+urethritis petrificans	الْتِهابُ الإِحْليلِ التَّحَجُّريّ
+urethritis venerea	الْتِهابُ الإِحْليلِ المَنْقولُ جِنْسِيَّاً
+urethrocystitis	الْتِهابُ الإِحْليلِ و المَثانَة
+urethrospasm	تَشَنُّجُ الإِحْليل
+urethrotrigonitis	الْتِهابُ الإِحْليلِ و المُثَلَّث (المثاني)
+uretrocystitis	الْتِهَابُ الإِحْلِيل وَالمَثَانَة
+uricemic valvulitis	الْتِهابُ الصِّمامِ بفَرْطِ يوريك الدَّم
+urinary abscess	خُراجٌ بَولِيّ
+urinary carrier	حامِلُ العَدْوَى بالبَولِ
+urinary fever	حُمَّى بَولِيَّةٌ ( حُمَّى سَبْرِ الإِحْليل)
+urine diversion dehydration toilet (UDDTs)	مراحيض جافّة لفصل البول
+urobilin jaundice	يَرَقانٌ يوروبيلينيّ
+urocystitis	الْتِهابُ المَثانَة
+urodynia	وَجَعُ التَّبَوُّل
+uroedema	وَذَمَةٌ بَولِيَّة
+urogenous pyelitis	الْتِهابُ الحُوَيضَةِ البَولِيُّ المَنْشَأ
+uroncus	تَوَرُّمٌ بَولِيّ
+urosis	مَرَضٌ بَوْلِيٌّ
+urticaria	الشَّرى
+urticaria	الشَّرَى: طفحٌ جلديّ ذو بثور حكّاكة.
+urticaria	شَرَى / شَرى / حساسية، أرتيكاريا
+urticaria bullosa	شَرَى فُقَّاعِيٌّ
+urticaria endemica	شَرَى مُتَوَطِّن
+urticaria epidemica	شَرَى وَبائِيٌّ
+urticaria factitia (dermatographia)	شَرَى مُفْتَعَلٌّ ( كَتوبِيَّةُ الجِلْد)
+urticaria febrilis	شَرَى الحُمَّى
+urticaria gigantea (angioedema)	شَرَىعِمْلاَق ( وَذَمَةٌ وِعائِيَّة)
+urticaria hemorrhagica	شَرَى نَزْفِيٌّ
+urticaria maritima	شَرَى السِّباحَةِ بالبَحْر
+urticaria medicamentosa	شَرَى دَوائِيٌّ
+urticaria multiformis endemica (harara)	شَرَى مُتَعَدِّدُ الأَشْكالِ مُتَوَطِّن ( حَرارَة)
+urticaria papulosa	شَرَى حَطاطِيٌّ
+urticaria perstans	شَرَى مُسْتَديم
+urticaria petechialis	شَرَى حَبَريٌّ
+urticaria photogenica	شَرَى ضَوئِيُّ المَنْشَأ
+urticaria pigmentosa	شَرَى صِباغِيٌّ
+urticaria solaris	شَرَى شَمْسِيٌّ
+urticaria subcutanea (subcutaneous urticaria)	شَرَى تَحْتَ الجِلْدِيّ
+urticarial fever (schistosomiasis japonica)	حُمَّى شَرَوِيَّة ( داءُ البِلْهارْسِيَّاتِ اليابانِيَّة)
+uterine apoplexy	سَكْتَةٌ رَحِمِيَّة
+uterine colic	مَغْصٌ رَحِمِيّ
+uterine hernia	فَتْقٌ رَحِمِيّ
+uterine tetanus	كُزازٌ رَحِمِيّ ( كُزازٌ نِفاسِيّ)
+uterismus	تَشَنُّجُ الرَحِم
+uterocolic	مَغْصٌ رَحِمِيّ
+uteroplacental apoplexy	سَكْتَةٌ رَحِمِيَّةٌ مَشيمِيَّة
+utriculitis	الْتِهابُ القُرَيبَة
+uveitic	متعلق باِلْتِهابِ العِنَبِيَّة
+uveitis	التهاب العِنَبيّة؛ التهاب عنبيّة العين (مض).
+uveitis	الْتِهابُ العِنَبِيَّة / الْتِهَابُ العِنَبِيَّة
+uveoencephalitic syndrome	المُتَلاَزِمَةُ العِنَبِيَّةُ الرَّأْسِيَّة
+uveolabyrinthitis	الْتِهابُ العِنَبِيَّةِ و التِّيه
+uveomeningitis	الْتِهابُ العِنَبِيَّةِ و السَّحايا
+uveoneuraxitis	الْتِهابُ العِنَبِيَّةِ و العَصَبِ البَصَرِيّ
+uveoparotid fever	الحُمَّى العِنَبَوِيَّةُ النَّكَفِيَّة
+uveoparotitic paralysis	شَلَلُ الْتِهابِ العِنَبِيَّةِ و النَّكَفِيَّة
+uveoparotitic polyneuritis	الْتِهابُ الأَعْصابِ العِنْبَوِيُّ النَّكَفِيّ
+uveoparotitis	الْتِهابُ العِنَبِيَّةِ و النَّكَفِيَّة
+uveoscleritis	الْتِهابُ العِنَبِيَّةِ و الصُّلْبَة
+uvulitis	التهاب اللَّهاة (مض).
+uvulitis	الْتِهابُ اللَّهاة / الْتِهَابُ اللَّهَاة
+Uzbekistan hemorrhagic fever	الحُمَّى النَّزْفِيَّةُ الأُوزْبَكْستانِيَّة

@@ -1,0 +1,85 @@
+طارِدُ الدِّيدان	antihelmintic
+طَارِدُ ستُوكس للبَلْغَمِ	Stokes expectorant (expectorant mixture)
+طَارِدٌ للبَلْغَم	apophlegmatic (expectorant)
+طَارِدٌ للبَلْغَمِ	expectorant
+طَارِدٌ للبَلْغَمِ مُمَيِّع	liquefying expectorant
+طَارِدٌ للبَلْغَمِ مُنَبِّه	stimulant expectorant
+طاهِر	aseptic
+طاهِرٌ مُطَهِّر	aseptic-antiseptic
+طِبّ	medicine
+طِبُّ الأطفال	paediatric medicine
+طِبُّ الأُمُومَةِ و الأَجِنَّة	fetal-maternal medicine
+طِبُّ الاِنْدِمَاجِ في المُجْتَمَع	socialized medicine
+طبُّ البيئَة	environmental medicine
+طِبُّ التَأْهيل	rehabilitation medicine
+طِبُّ الدَّولَة	state medicine
+طِبُّ الدَّولة: هَيْمنة الحكومة على	state medicine
+طب الشغل	industrial medicine
+طِبُّ الشَّيْخوخَة	geriatric medicine (geriatrics)
+طِبُّ الصِّناعات	industrial medicine (occupational medicine)
+طِبُّ الطَّوَارِئ	emergency medicine
+طِبُّ الطَّيَران	aeromedicine (aviation medicine)
+طب الطيران	aeromedicine = aviation medicine
+طِبُّ الطَّيَران	aviation medicine
+طِبُّ العائِلَة	family medicine
+طبُّ الفَتْرَةِ المُحِيْطَةِ بالوِلادَة	perinatal medicine
+طِبُّ الفَضاء	aerospace medicine
+طِبُّ الفَضاء	aerospace medicine (space medicine)
+طب الفضاء	aerospace medicine; astrobiology; space medicine
+طِبُّ الفَضاء	space medicine
+طِبُّ الفَم	oral medicine
+طِبُّ الفَم	oral medicine (dentistry)
+طِبُّ المُجْتَمَع	community medicine
+طِبُّ المُجْتَمَع	social medicine
+طِبُّ المَجْموعَة	group medicine
+طِبُّ المُراهِقين	adolescent medicine
+طِبُّ المَناطِقِ المَدارِيَّة	tropical medicine
+طِبُّ الوِلْدان	neonatal medicine (neonatology)
+طِبُّ الوِلْدانِ و الأَجِنَّة	neonatal-perinatal medicine
+طب تقليدي	traditional medicine
+طِبُّ حَيَواناتِ المُخْتَبَر	laboratory animal medicine
+طب شرعيّ	forensic medicine
+طب فضائي	space medicine
+طِبٌّ مَنْزِلِيّ	domestic medicine
+طب نووي	nuclear medicine
+طِبٌّ هِرْمِسِيّ	hermetic medicine
+طباب المصل الذاتي	autoserotherapy = auto serum treatement
+طبيعيّ التلقيح: مُلقَّح بالوسائل الطبيعية	open-pollinated
+طَرْح المحلول الملحيّ	brine disposal
+طَرْدُ الأَدْوِيَة	demedication
+طَريقَةُ الانْتِشارِ المَوْقُوْت	time diffusion technique
+طريقة القطرة الساقطة	drop-weight method
+طَريقَةُ القَطْرَةِ المُعَلَّقَة	hanging drop technique
+طريقة حقن الهواء	air injection method
+طريقة حقن مباشر	direct injection process
+طريقة حقن وقود ديزل	diesel injection process
+طَعَّم	inoculate
+طُعْمٌ مُبايِن	heterograft
+طُعْمٌ مُنَشِّط	activated graft
+طُعْمٌ هُرْمونِيّ	hormone implant
+طعن تسلسليّ	hierarchical remedy
+طَفَحُ التَّطْعِيْم	vaccination rash
+طَفَحُ المَصْل	serum eruption
+طَفَحُ المَصْل	serum rash
+طَفَحٌ دَوائِيّ	drug eruption
+طَفَحٌ دَوائِيّ	drug rash
+طَفَحٌ دَوائِيّ	medicinal rash
+طَفَحٌ دَوائِيٌّ ثابِت	fixed drug eruption
+طفح عقاري	eruption, drug
+طَقْمَاق	tacamahac
+طِلاءُ اللَّكّ	lacquer
+طَلَبُ تَرْخِيص لِدَرَاسَة سَرِيرِيَّة	investigational new drug application(IND)
+طَلَبُ رُخْصَة الدَّوَاء	New Drug Application(NDA)
+طَلْقَة	shot
+طَليعَةُ الدَّواء	pro-drug
+طَليعَةُ الفِيتامين	previtamin (provitamin)
+طَليعَةُ الفيتامين	provitamin
+طليعة الفيتامين A	previtamin A (carotene)
+طَليعَةُ المُنَشِّط	proactivator (prekallikrein)
+طَليعَةُ الهُرْمُون	prehormone
+طَليعَةُ الهُرْمون	prohormone (prehormone)
+طَلِيْعَةُ هُرْمون الدُّرَيقَات	proparathyroid hormone
+طَوْر مُشَتَّت أو مُنْتَشِر	dispersed phase
+طَيفُ المُضادِّ الحَيَوِيّ	antibiotic spectrum
+طين ثقيل	pill mud
+طِين مُنَشَّط	activated clay

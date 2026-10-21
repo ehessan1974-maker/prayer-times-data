@@ -1,0 +1,2 @@
+(directional) arrow	إشارة الاتجاه
+2-flank A/D converter	مُغيِّر تناظري رقمي ثنائيّ الجوانب

@@ -1,0 +1,21 @@
+ناشئ	nascent
+نحو الاعتماد	Dependency grammar
+نظام	recent system
+نِظامُ إسناد	reference system
+نظام غذاء تقليدي حديث	neo-traditional food system
+نِظامٌ مَيُوسيني	Miocene system
+نغمة حديث جانبية	speech sidetone
+نقاط إسناد ماكينات التحكّم الرقميّ	Reference points of NC machines
+نُقطةُ إسناد	datum point
+نُقطةُ إسناد	fiducial point
+نقطة اسناد	reference point
+نقطة إسناد الإنزلاق	Slide reference point
+نُقطةُ إِسنادٍ سَماويَّة	celestial fix
+نُقطةُ إسنادٍ لاسِلكيّ	radio fix
+نقطة إسناد لاسلكي	radio fiX
+نُقْطَةُ الإسناد	point of reference
+نُقْطَةُ الإسناد	point, datum
+نُقطةُ مَرْجِع	reference datum
+نمط حديث	neotype
+نهاية الإسناد	fiX end
+نيوليتي	eolithic

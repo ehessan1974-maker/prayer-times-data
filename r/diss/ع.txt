@@ -1,0 +1,871 @@
+عاثِيَةُ ضَمَّاتِ الكوليرا	choleraphage
+عاجِزُ الإِدْراك	perceptual cripple
+عاذُور	quinsy (peritonsillar abscess)
+عارٍ: غير ذي غلافٍ زهريّ	achlamydeous
+عَارِضَةٌ مَائِلَة	oblique stroke
+عارضة وقائية	headache post
+عازِلُ الارتِجاج	vibration isolator
+عاصفة مدارية دوّارة	tropical revolving storm
+عامِلُ	staff-holder = staffman
+عامِلُ اللَّبَنِ لبِتْنِرْ	Bittner milk factor (mouse mammary tumor virus)
+عامل الهَشَاشَة	flakiness coefficient
+عَامِلُ دلْتا	delta agent
+عامل مسبب للمرض	pathogenic agent
+عَامِلٌ مُفَرِّجٌ للتَّشَنُّج	lissive agent
+عامل مُمْرض	agent, pathogenic
+عَامِلٌ مُمْرِض	pathogenic factor
+عامِلُ نَخَرِ الوَرَم	tumor necrosis factor
+عامِلٌ واقٍ من البِلاغرا	pellagra-preventive factor (niacin)
+عامِلُ وَرَمِ ثَدْيِ الفَأْر	mouse mammary tumor factor
+عاهةُ الشَّعْر: كلُّ مرضٍ من أمراض	trichosis
+عبور السلاسل الشقيقة	sister strand crossing over
+عَتامَةُ القَرْنِيَّةِ الدُّوَيرِيَّة	cornea verticillata (Fleischer's vortex)
+عتاه الشيخوخة	dementia, senile
+عتاه الكهولة	dementia praeseni'lis = presentilled
+عتبة	(sensitivity) threshold of automatic frequency control
+عتبة	(sensitivity) threshold of automatic gain control
+عَتَبَةُ الحسّاسيّة	sensitivity threshold
+عَتَبَةُ الحَساسِيَّة	sensitivity threshold (absolute threshold)
+عتبة الذهان	borderline psychosis
+عَتَبَةُ الصَّرْع	epileptic threshold
+عَتَهٌ	insanity
+عَتَهُ جُفافِ الجِلْد	xerodermic idiocy
+عُثُّ النَّحْل	Acarapis
+عث كيسي اليرقانات	bagworm moths
+عجائزيّ	anile
+عُدّ	acne
+عُدٌّ أبْيَض	acne albida (milium)
+عد البروميد	acne bromide
+عُدٌّ التَّماسّ	acne venenata (contact acne)
+عُدُّ التَّماسّ	contact acne
+عَدُّ الطُّفَيلِيَّات	parasite count
+عُدُّ المُرَاهِقيْن	adolescent acne
+عُدُّ المَراهِم	pomade acne
+عُدُّ المُزَوِّقات	acne cosmetica
+عُدُّ المُنَظِّفات	acne detergicans
+عُدٌّ الوَليد	acne neonatorum
+عد الوليد	acne, neonatorum
+عُدٌّ بِتْرُولِيّ	petroleum acne
+عُدٌّ بَثْرِيّ	pustular acne
+عُدٌّ بروميدي	bromide acne
+عد تجمعي تكببي	acne aggregata seu conglobata
+عُدٌّ تَقْرانِيّ	acne keratosa
+عُدٌّ جاسِىء	acne indurata
+عد جُدراني	acne, varioliformis
+عُدٌّ جُدْرَوِيّ	acne keloid (keloidal folliculitis)
+عُدٌّ جُدَرِيٌّ الشَّكْل	acne varioliformis
+عُدٌّ جَفْنِيّ	acne tarsi
+عُدٌّ حَطاطِيّ	acne papulosa
+عد حُلَيْمي	acne, papular
+عد حُليْمي احمراري	acne erythematopapular
+عُدٌّ حُمَامِيّ	acne erythematosa (acne rosacea)
+عُدٌّ خاطِف	acne fulminans
+عد خلباني	acne, keloid
+عد خمشي - عد مخمش	acne excoriated
+عُدٌّ خَنازيرِيّ	acne scrofulosorum (papulonecrotic tuberculid)
+عد خنّوصي	acne, scrofulosorum = agminata
+عُدٌّ دَنَفِيّ	acne cachecticorum
+عُدٌّ دَوائِيّ	acne medicamentosa
+عُدٌّ زُهْرِيّ	acne syphilitica
+عد زهمي	acne, sebacea
+عد زهمي سائل	acne, sebacea fluenta
+عد زهمي قرني	acne, sebacea cornée
+عُدٌّ سابِقٌ للْحَيض	premenstrual acne
+عُدٌّ ستِيرُويدِيّ	steroid acne
+عُدٌّ شائِع	acne vulgaris
+عُدٌّ شائِع	common acne
+عد شبه سرطاني	acne cancroidale
+عُدٌّ شَرَوِيّ	acne urticata
+عد شروي	acne, urticata
+عُدٌّ صَيفِيّ	aestival acne
+عُدٌّ ضَخامِيّ	hypertrophic acne
+عُدٌّ ضُمورِيّ	acne atrophica
+عُدٌّ قَطِرانِيّ	acne picealis
+عُدٌّ قَطِرانِيّ	tar acne
+عُدٌّ كلُورِيّ	chlorine acne (chloracne)
+عُدٌّ كلُورِيّ	Halowax acne (chloracne)
+عُدٌّ كيسِيّ	cystic acne
+عُدٌّ مُتَكَرِّس	acne agminata (papulonecrotic tuberculid)
+عُد متنكرز	acne, necrotica
+عُد متنكرز دُخني	acne, necrotica miliaria
+عُدٌّ مَدارِيّ	acne tropicalis
+عُدٌّ مَدارِيّ	tropical acne
+عُدٌّ مُعْدٍ	contagious acne
+عد مُقتحِف	acne decalvante
+عُدٌّ مُكَبَّب	acne conglobata
+عد منتشر	acne disseminata
+عد منقط	acne, punctuata
+عُدٌّ مِهْنِيّ	occupational acne
+عُدٌّ نَخْرِيٌّ دُخْنِيّ	acne necrotica miliaris
+عُدٌّ هالُوجينِيّ	halogen acne
+عُدٌّ وَبائِيّ	epidemic acne
+عُدٌّ وَرْدِيّ	acne rosacea (rosacea)
+عد ورديّ	acne, rosacea
+عد وسامي	acne comedo = black head acne
+عُدٌّ يوديدِيّ	iodide acne
+عُدارٌ فيرخوف	Virchow's hydatid (alveolar hydatids disease)
+عَدَدُ أَسِرَّةِ المَرْضَى	adult inpatient bed count
+عَدَدُ أَسِرَّةِ المَرْضَى	child inpatient bed count
+عدد الالتواءات	writhing number (W number)
+عدد التشنج	crispation number
+عَدَسَةُ السادّ	cataract lens
+عدم انتظام	disorder
+عدوى	contagion
+عَدْوَى	infection
+عَدْوَى أُحادِيَّة	monoinfection
+عَدْوَى احْتِضارِيَّة	agonal infection
+عَدْوَى اسْتِعْمارِيَّة	colonization infection
+عَدْوَى آصِلَة	autochthonous infection
+عَدْوَى إِضافِيَّة	superinfection
+عَدْوَى الأَنْسِجَةِ الرِّخْوَة	soft tissue infection
+عَدْوَى الجُرْح	wound infection
+عَدْوَى الدَّمِ القَيحِيَّةُ المَنْشأ	pyosapremia
+عَدْوَى الدِّيْدَان	vermination
+عَدْوَى الدِّيْدَان	verminosis
+عدوى الديدان الشريطية	cestode or tapeworm infection
+عَدْوَى الشَّفَةِ بالهِرْبِس	lip herpetic infection
+عَدْوَى العَظم	bone infection
+عَدْوَى اللُّحْمَوِيَّات	hypodermiasis
+عَدْوَى المُسْتَشْفَيات	hospital infection
+عَدْوَى المُسْتَشْفَيات	nosocomial infection
+عَدْوَى انْتِهائِيَّة	terminal infection
+عَدْوَى انْتِهازِيَّة	opportunistic infection
+عدوى إنسامية	toxinfection
+عدوى أولية	primary -infection
+عَدْوَى أَوَّلِيَّة	primary infection
+عَدْوَى بُؤْرِيَّة	focal infection
+عدوى بالأوليات	protozoa infection
+عَدْوَى بالتَّماسّ	contact infection
+عَدْوَى بالطَّرِيْقِ الرَّاجِع	retroinfection
+عَدْوَى بِالطُّفَيلِيَّات	infestation (disease)
+عَدْوَى بِالعُصَيَّاتِ	bacillosis
+عَدْوَى بالعُنْقودِيَّات	Staphylococcosis
+عَدْوَى بِالمُكَوَّراتِ الرِّئَوِيَّة	pneumococcosis
+عَدْوى بالمُلامَسَة	contagion
+عَدْوَى بالمُلْتَوِياتِ و المِغْزَلِيَّات	fusospirochetal infection
+عَدْوَى بطَرِيْقِ المَشيمَة	diaplacental infection
+عَدْوَى بَطيئَة	slow infection
+عَدْوَى تالِيَةٌ للجِراحَة	post-operative infection
+عَدْوَى تحتَ الحادَّة	subacute infection
+عَدْوَى تحتَ السَّريرِيَّة	subclinical infection
+عَدْوَى تَحْتَ قِمَّة	subapical infection
+عدوى ترابية	soilborne infection
+عَدْوَى ثانَوِيَّة	secondary infection
+عَدْوَى جُرْثومِيَّة	bacterial infection
+عَدْوَى جَسيمَة	mass infection
+عَدْوَى حادَّة	acute infection
+عَدْوَى حَوَائِطِ الذِّرْوَة	periapical infection
+عَدْوَى حَيَوانِيَّةُ المَنْشَأ	zoogenic infection
+عَدْوَى خارِجِيَّةُ المَنْشَأ	ectogenous infection (exogenous infection)
+عَدْوَى خارِجِيَّةُ المَنْشَأ	exogenous infection
+عَدْوَى خَافِيَة	latent infection
+عَدْوَى خَفيفَة	subinfection
+عَدْوَى خَفِيَّةُ المَنْشَأ	cryptogenic infection
+عَدْوَى داخِلِيَّةُ المَنْشَأ	endogenous infection
+عَدْوَى دَاغِلَة	intercurrent infection
+عَدْوَى دَمَوِيَّةُ المَنْشَأ	hematogenous infection
+عَدْوَى ذاتِيَّة	self-infection (autoinfection)
+عَدْوَى ذاتِيَّةُ المَنْشَأ	autoinfection
+عَدْوَى راشمات	Rachmat infection (Sumatra jaundice)
+عدوى رذاذية	droplet infection
+عَدْوَى سالينيم	Salinem infection
+عَدْوَى سِنِّيَّة	dental infection
+عَدْوَى سِنِّيَّةٌ سِنْخِيَّة	dento-alveolar infection
+عَدْوَى صامِتَة	silent infection
+عَدْوَى ضَزَزِيَّة	trismus infection
+عَدْوَى عِلاَجِيَّةُ المَنْشَأ	iatrogenic infection
+عَدْوَى عُنُقِيَّةٌ شامِلَة	pan-neck infection
+عَدْوَى غَزْوِيَّة	invasive infection
+عَدْوَى غَيْرِيَّةُ المَنْشَأ	heteroinfection
+عَدْوَى فَمَوِيَّة	oral infection
+عَدْوَى فنسان	Vincent 's infection (acute necrotizing ulcerative gingivitis)
+عَدْوَى فَنسان	Vincent's infection
+عَدْوَى فَيروسِيَّة	viral infection
+عَدْوَى قَطيعِيَّة	herd infection
+عَدْوَى قِمِّيَّة	apical infection
+عَدْوَى قَيحِيَّة	pyogenic infection
+عَدْوَى قَيحِيَّة	suppurative infection
+عَدْوَى لامُباشِرَة	indirect infection
+عَدْوَى لامُباشِرَة	mediate contagion
+عَدْوَى لانَوعِيَّة	nonspecific infection
+عَدْوَى مُباشِرَة	direct contagion (immediate contagion)
+عَدْوَى مُباشِرَة	direct infection
+عَدْوَى مُباشِرَة	immediate contagion (direct contagion)
+عَدْوَى مُتَزَامِنَة	concurrent infection
+عَدْوَى مُتَصالِبَة	cross infection
+عَدْوَى مُتَعَدِّدة	multi-infection
+عَدْوَى مُتَعَدِّدَة	polyinfection
+عَدْوَى مُجْهَضَة	abortive infection
+عَدْوَى مُخْتَلِطَة	mixed infection
+عَدْوَى مُرافِقَة	coinfection
+عَدْوَى مُزْمِنَة	chronic infection
+عَدْوَى مُسْتَتِرَة	inapparent infection
+عَدْوَى مَسْتُوْرَة	covert infection (silent infection)
+عَدْوَى مُعَقَّدَة	complex infection
+عَدْوَى مُكْتَسَبَةٌ مِنَ المُجْتَمَع	community acquired infection
+عَدْوَى مُكْتَسَبَةٌ مِنَ المُسْتَشْفَى	hospital-acquired infection
+عَدْوَى مَنْقُوْلَةٌ بالخَلايَا	germinal infection (heredoinfection)
+عَدْوَى مَنْقولَةٌ بالغُبار	dust-borne infection
+عَدْوَى مَنْقُوْلَةٌ بالقُطَيرات	droplet infection
+عَدْوَى مَنْقولَةٌ بالمَاء	water-borne infection
+عَدْوَى مَنْقولَةٌ بالهَواء	aerial infection (airborne infection)
+عَدْوَى مَنْقولَةٌ بالهَواء	airborne infection
+عَدْوَى مَنْقولَةٌ باليَد	hand-borne infection
+عَدْوَى مُوْرُوْثَة	heredoinfection
+عَدْوَى مَوضِعِيَّة	local infection
+عَدْوَى نَباتِيَّةُ المَنْشأ	phytogenic infection
+عَدْوَى نِفاسِيَّة	puerperal infection
+عَدْوَى نَفْسانِيَّة	psychic contagion
+عَدْوَى هاجِعَة	dormant infection
+عَدِيْمُ الأَعْراض	lanthanic (symptom- free)
+عَرَض	symptom
+عَرَضٌ آجِل	delayed symptom
+عَرَضٌ أَساسِيّ	fundamental symptom
+عَرَضٌ اِستاتيكيّ	static symptom (passive symptom)
+عَرَضُ إِشعَارَةِ سيغان	Seguin's signal symptom
+عَرَضٌ إِضافِيّ	accessory symptom
+عَرَضٌ إِضافِيّ	assident symptom (accessory symptom)
+عَرَضُ الإِشعَارَة	signal symptom (premonitory symptom)
+عَرَضُ العَارِضَةِ بحسب فرَانكل	crossbar symptom of Fraenkel
+عَرَضُ الهالَة	halo symptom
+عَرَضُ أنطون	Anton's symptom
+عَرَضٌ انْعِكاسِيّ	reflex symptom
+عَرَضُ أولَر	Oehler's symptom
+عَرَضُ إيبشتاين	Epstein's symptom
+عَرَضُ باراني	Barany's symptom
+عَرَضُ براوخ-رومبيرغ	Brauch-Romberg symptom
+عَرَضٌ بِطانِيّ	endothelial symptom (Rumpel-Leede phenomenon)
+عَرَضٌ بِنْيَوِيّ	constitutional symptom
+عَرَضُ بورغارت	Burghart's symptom
+عَرَضُ بورغَر	Buerger's symptom
+عَرَضُ بوميه	Baumes' symptom
+عَرَضُ بونهوفر	Bonhoeffer's symptom
+عَرَضُ بيختيريف	Bekhterev's symptom
+عَرَضُ بيرغر	Berger's symptom
+عَرَضُ بيل-إيبشتاين	Pel-Ebstein symptom
+عَرَضُ تار	Tar's symptom
+عَرَضٌ تَثْبيطِيّ	inhibition symptom
+عَرَضُ تَرنْدِلِنْبورْغ	Trendelenburg's symptom
+عَرَضٌ تَعَاطُفِيّ	sympathetic symptom
+عَرَضٌ تَفارُقِيّ	dissociation symptom
+عَرَضٌ جِوارِيّ	neighborhood symptom
+عَرَضُ جيلينيك	Jellinek's symptom
+عَرَضٌ حادّ	acute symptom
+عَرَضٌ حادِثِيّ	accidental symptom
+عَرَضٌ رَئيسِيّ	cardinal symptom
+عَرَضُ روجيه	Roger's symptom
+عَرَضُ رومبيرغ-هاوشيب	Romberg-Howship symptom
+عَرَضُ رومف	Rumpf's symptom
+عَرَضُ ريماك	Remak's symptom
+عَرَضُ ستيرلن	Stierlin's symptom
+عَرَضُ ستيلواغ	Stellwag's symptom
+عَرَضُ سكلوفسكي	Sklowsky's symptom
+عَرَضُ سكِير	Skeer's symptom
+عَرَضُ سيمون	Simon's symptom
+عَرَضٌ شَخْصانِيّ	rational symptom (subjective symptom)
+عَرَضٌ شَخْصانِيّ	subjective symptom
+عَرَضُ شفوستيك	Chvostek's symptom
+عَرَضٌ طَلِيْعِيّ	precursory symptom
+عَرَضٌ عامّ	general symptom
+عَرَضٌ عَوَزِيّ	deficiency symptom
+عَرَضُ غانسَر	Ganser's symptom
+عَرَضُ غريزينغر	Grisinger's symptom
+عَرَضً غولدثويت	Goldthwait's symptom
+عَرَضُ فارتنبيرغ	Wartenberg's symptom
+عَرَضُ فانَر	Wanner's symptom
+عَرَضُ فروشيل	Froschel's symptom
+عَرَضٌ فَمَوِيّ	oral symptom
+عَرَضُ فيرنيكه	Wernicke's symptom
+عَرَضُ فيستفال	Westphal's symptom
+عَرَضُ قَوسِ قُزَح	rainbow symptom (halo symptom)
+عَرَضُ كابغرا	Capgras' symptom
+عَرَضُ كارداريلِّي	Cardarelli's symptom
+عَرَضُ كاستيلاني-لو	Castellani-Low symptom
+عَرَضُ كوخر	Kocher's symptom
+عَرَضُ كوسماول	Kussmaul's symptom
+عَرَضُ كوليفَر	Colliver's symptom
+عَرَضُ كيرانديل	Kerandel's symptom
+عَرَضٌ لافاعِل	passive symptom
+عَرَضٌ لامُباشِر	indirect symptom
+عَرَضٌ لِثَوِيّ	gingival symptom
+عَرَضُ لوفي	Loewi's symptom
+عَرَضُ ليبرايخ	Liebreich's symptom
+عَرَضُ ليد	Lade symptom
+عَرَضُ ماجيندي	Magendie's symptom
+عَرَضُ مانكوف	Mannkopf's symptom
+عَرَضُ مانيان	Magnan's symptom
+عَرَضٌ مُباشِر	direct symptom
+عَرَضٌ مَجْمُوعيّ	systemic symptom
+عَرَضٌ مُحْدَث	induced symptom
+عَرَضٌ مُرْشِد	guiding symptom (characteristic symptom)
+عَرَضٌ مَريئِيٌّ لُعابِيّ	esophagosalivary symptom
+عَرَضٌ مُزْمِن	chronic symptom
+عَرَضٌ مُصاحِب	concomitant symptom
+عَرَضٌ مُلْتَبِس	equivocal symptom
+عَرَضٌ مُمَيِّز	characteristic symptom
+عَرَضٌ مُنْحَبِس	incarceration symptom
+عَرَضٌ مَنْخِرِيّ	nostril symptom
+عَرَضٌ مُنْذِر	premonitory symptom
+عَرَضٌ مَوضِعِيّ	local symptom
+عَرَضٌ مَوضوعِيّ	objective symptom (sign)
+عَرَضُ هوشارد	Huchard's symptom
+عَرَضُ هينيل	Haenel symptom
+عَرَضٌ واصِم	pathognomonic symptom
+عَرَضُ ويبر	Weber's symptom
+عَرَضُ وينتربوتوم	Winterbottom's symptom
+عَرَضُ يوناس	Jonas' symptome
+عِرقُ النَّسَا	sciatica
+عَرّة الوجه المؤلمة: التهاب مؤلم في الوجه	tic douloureux
+عَزْلُ الارتِجاج	vibration insulation
+عَزْمُ الاِلتِواء	torsional moment
+عَزْمُ الدَوران	torque
+عُسْرُ البَلْعِ الالْتِهابِيُّ المَنْشَأ	dysphagia inflammatoria
+عسر الطمث الالتهابي	dysmenorrhea, inflammatory
+عُسْرُ الطَّمْثِ الالْتِهابِيّ	inflammatory dysmenorrhea
+عُسْرُ الهَضم	dyspepsia
+عُسْرُ الهَضْم	indigestion
+عُسْرُ الهَضْمِ الانْعِكاسِيّ	reflex dyspepsia
+عُسْرُ الهَضْمِ التَّخَمُّرِيّ	fermentative dyspepsia
+عُسْرُ الهَضْمِ التَّطَبُّلِيّ	flatulent dyspepsia
+عُسْرُ الهَضْمِ الحَمْضِيّ	acid indigestion
+عُسْرُ الهَضْمِ الرُّزِّيّ	chichiko dyspepsia
+عُسْرُ الهَضْمِ الزَّائِدِيّ	appendicular dyspepsia
+عُسْرُ الهَضْمِ الزَّائِدِيّ	appendix dyspepsia
+عُسْرُ الهَضْمِ العَصَبِيّ	nervous dyspepsia
+عُسْرُ الهَضْمِ العَصَبِيّ	nervous indigestion (nervous dyspepsia)
+عُسْرُ الهَضْمِ القَوْلُونِيّ	colon dyspepsia
+عُسْرُ الهَضْمِ اللاهيدروكلوريكيّ	achlorhydric dyspepsia
+عُسْرُ الهَضْمِ المُصَاحِبُ لحَصَاةِ	cholelithic dyspepsia
+عُسْرُ الهَضْمِ المُصَاحِبُ لمَرَضٍ	ovarian dyspepsia
+عُسْرُ الهَضْمِ المَعِدِيّ	gastric dyspepsia
+عُسْرُ الهَضْمِ المَعِدِيّ	gastric indigestion
+عُسْرُ الهَضْمِ المِعَوِيّ	intestinal dyspepsia
+عُسْرُ الهَضْمِ المِعَوِيّ	intestinal indigestion
+عُسْرُ الهَضْمِ النَّاجِمُ عن فَرْطِ	acid dyspepsia
+عُسْرُ الهَضْمِ النَّاجِمُ عن نَقْصِ	salivary dyspepsia
+عُسْرُ الهَضْمِ النَّزْلِيّ	catarrhal dyspepsia
+عُسْرُ الهَضْمِ الوَظِيْفِيّ	functional dyspepsia
+عُسْرُ الهَضْمِ الوَنائِيّ	atonic dyspepsia
+عُسْرُ هَضْمِ الدُّهنِيَّات	fat indigestion
+عُسْرُ هَضْمِ السُّكَّرِيَّات	sugar indigestion
+عُسْرُ هَضْمِ النَّشَوِيَّات	amylodyspepsia
+عُشُّ باركلي	Barclay's niche
+عُشُّ هُوديك	Haudek's niche
+عَشاوَة	night blindness
+عُشْبُ البَثَع	scurvy grass
+عشبة البواسير	lesser celandine
+عشي	night blindness
+عَشَى	nyctalopia (night blindness)
+عَصَّاب	bandager
+عُصاب	meroergasia (neurosis)
+عُصاب	neurosis
+عُصاب	neurosis [pl.neuroses]
+عُصابٌ اسْتِبْدالِيّ	substitution neurosis (obsessive-compulsive neurosis)
+عُصابٌ اغْتِذائِيّ	trophoneurosis
+عُصابٌ اغْتِذائِيٌّ جِلْدِيّ	trophodermatoneurosis (acrodynia)
+عُصابٌ اغْتِذائِيٌّ عَضَلِيّ	muscular trophoneurosis
+عُصابٌ اغْتِذائِيٌّ لِسانِيّ	lingual trophoneurosis
+عُصابٌ اغْتِذائِيٌّ مُنْتَثِر	disseminated trophoneurosis
+عُصابٌ اغْتِذائِيٌّ نَخْرِيّ	necrotic trophoneurosis
+عُصابٌ اغْتِذائِيٌّ وَجْهِيّ	facial trophoneurosis
+عُصابُ الأَطْراف	acroneurosis
+عُصابُ الأَطْرافِ الاغْتِذائِيّ	acrotrophoneurosis
+عُصابُ التَّثْبيت	fixation neurosis
+عُصابُ التَّحَوُّل	transference neurosis
+عُصابُ التَّرْقِيَة	promotion neurosis
+عُصابُ التَّعَب	fatigue neurosis (neurasthenia)
+عُصابُ التَّوَقُّع	expectation neurosis
+عُصابُ الحَرْب	war neurosis
+عُصابُ الخَوف	fright neurosis
+عصاب الضجيج	echeosis
+عُصابُ الطَّيَّارين	aeroneurosis
+عُصابُ الطَّيَران	air neurosis
+عُصابُ القَلَق	anxiety neurosis
+عُصابُ المَعْرَكَة	combat neurosis
+عُصابٌ إِنْباتِيّ	vegetative neurosis (acrodynia)
+عُصابٌ أَنْفِيّ	rhinoneurosis
+عُصابٌ تالٍ للارْتِجاج	postconcussion neurosis
+عُصابُ تَبَدُّدُ الشَّخْصِيَّة	depersonalization neurosis
+عُصابٌ تَجْرِبِيّ	experimental neurosis
+عُصابٌ تَحْوِيْلِيّ	conversion neurosis
+عُصابٌ تَرابُطِيّ	association neurosis
+عُصابٌ تَعْويضِيّ	compensation neurosis
+عُصابٌ تَعْويضِيّ	pension neurosis (compensation neurosis)
+عُصابٌ تَقَهْقُرِيّ	regression neurosis
+عُصابٌ جُسْمَانِيّ	physioneurosis (true neurosis)
+عُصابٌ جِلْدِيّ	cutaneous neurosis (neurodermatitis)
+عُصابٌ حادِثِيّ	accident neurosis
+عُصابٌ حَرارِيّ	thermoneurosis
+عُصابٌ حَرَكِيّ	kinesioneurosis
+عُصابٌ حَرَكِيٌّ وِعائِيّ	vasomotor neurosis
+عُصابٌ حِسِّيّ	esthesioneurosis
+عصاب حسي	esthesioneurosis = esthesionosus
+عُصابٌ حِسِّيّ	esthesionosus
+عصاب حسي	esthesionosus = esthesioneurosis
+عُصابٌ حَقيقِيّ	true neurosis
+عُصابٌ دِفاعِيّ	defense neurosis
+عُصابُ رَبَّاتِ البُيوت	house wife neurosis
+عُصابٌ رَضْحِيّ	traumatic neurosis
+عُصابٌ رُهابِيّ	phobic neurosis
+عُصابُ رومبيرغ الاغْتِذائِيّ	trophoneurosis of Romberg (facial hemiatrophy)
+عُصابٌ سُلوكِيّ	character neurosis
+عُصابٌ عُضْوِيّ	organ neurosis
+عُصابٌ عُضْوِيٌّ	organic neurosis
+عُصابٌ فِعْلِيّ	actual neurosis
+عُصابٌ قَلْبِيّ	cardiac neurosis (neurocirculatory asthenia)
+عُصابٌ قَلْبِيّ	cardioneurosis
+عُصابٌ قَلْبِيّ	phrenocardia (neurocirculatory asthenia)
+عُصابٌ قَهْرِيّ	compulsion neurosis
+عُصابٌ مُراقِيّ	hypochondriacal neurosis
+عُصابٌ مَرَضِيّ	pathoneurosis (fixation hysteria)
+عُصابٌ مُسْتَقيمِيّ	rectal neurosis
+عُصابٌ مَعِدِيّ	gastric neurosis
+عُصابٌ مِعَوِيّ	intestinal neurosis
+عُصابٌ مُكْئِب	depressive neurosis
+عُصابٌ مِهْنِيّ	craft neurosis (occupational neurosis)
+عُصابٌ مِهْنِيّ	occupational neurosis
+عُصابٌ مِهْنِيّ	professional neurosis
+عُصابٌ نَفْسِيٌّ	psychoneurosis
+عُصابٌ نَفْسِيٌّ دِفاعِيّ	defense psychoneurosis
+عُصابٌ هَذَرِيّ	logoneurosis
+عُصابٌ هِسْتيرِيّ	hysterical neurosis
+عُصابٌ هستيريّ	hysteroneurosis
+عُصابٌ وَسْواسِيّ	obsessional neurosis
+عُصابٌ وَسْواسِيٌّ قَهْرِيّ	obsessive-compulsive neurosis
+عُصابٌ وِعائِيّ	vasoneurosis
+عُصابٌ وَهَنِيٌّ	neurasthenic neurosis
+عُصابات	neuroses [sing.neurosis]
+عِصابَةُ مارْتين	Martin's bandage
+عُصّاد	atherosclerosis
+عَصّارَة رَحَويَّة	rotary squeezer
+عُصارَةٌ سَرَطانِيَّة	cancer juice
+عصبيّ المزاج	high-strung
+عَصَوِيَّةُ العُدّ	Bacillus acne
+عَصَوِيَّةٌ كُزَازِيَّة	Bacillus tetani
+عُصَيَّاتُ الخُناق	diphtheria bacilli
+عَصيدَة	atheroma
+عصية "كوخ" = عصية الدرن	Kock's bacillus
+عصية التيفية	b.typhoid
+عُصَيَّةُ التِّيفِيَّة	typhoid bacillus (Salmonella typhi)
+عُصَيَّةُ الجُذَام	lepra bacillus
+عُصَيَّةُ الجُذام	lepra bacillus (Mycobacterium leprae)
+عُصَيَّةُ الجُذَامِ	leprosy bacillus
+عُصَيَّةُ السُّلّ	tubercle bacillus (Mycobacterium tuberculosis)
+عُصَيَّةُ الكُزاز	tertians bacillus (Clostridium tetani)
+عُصَيَّةُ الكُزَاز	tetanus bacillus
+عُصَيَّةُ الوَرَمِ الأَنْفِيِّ الصُّلْب	rhinoscleroma bacillus (Klebsiella pneumoniae)
+عُصَيَّةٌ طَاعُونِيَّة	plague bacillus
+عُصَيَّةُ كُولِيرا الخَنازير	hog cholera bacillus (Salmonella choleraesuis)
+عُصَيَّةُ هَانْسِن	Hansen's bacillus
+عَضُّ اللِّسان	odaxesmus
+عُضوُ إنتاجٍ ذو لَفّاتٍ سِلْكيّة مَعزولة	wire-wound armature
+عُضوٌ دَوَّار ذو لَفَائفَ	wound-rotor = slip-ring rotor
+عَطَشٌ مَرَضِيّ	morbid thrist
+عفل . فتق مثاني	cystocele
+عَفَنٌ فُطْريّ	mildew
+عُقّال الكاتب: تشنُّج مؤلم في عضلات اليد	writer's cramp
+عُقال الكتبة	graphospasm = writer's cramp
+عَقِبُ لاعِبِي كُرَةِ السَّلَّة	basketball heel (black heel)
+عُقَدُ هيغارْث	Haygarth's nodosities
+عُقْدَةُ بارو	Parrot's node
+عُقْدَةُ تروازييه	Troisier's ganglion
+عِقْدِيَّةٌ بُلْعُومِيَّة	Streptococcus pharyngitis
+عِقْدِيَّةٌ رِئَوِيَّة	Streptococcus pneumonia
+عُقَدُ”أوسلر	Osler's nodes
+عُقَيْداتُ جانسيلم	Jeanselme's nodules
+عُقَيْداتُ دالِن-فُوكس	Dalen-Fuchs nodules
+عُقَيْداتٌ روماتزمية	rheumatic nodules
+عُقَيْداتُ غامنْا	Gamna nodules
+عُقَيْداتُ كوبِّه	Koeppe nodules
+عُقَيْدَةُ التِّيفِيَّة	typhoid nodule
+عُقَيْدَةُ كوسْتَر	Koester's nodule
+علاج التشنج بالكهرباء	electroconvulsion therapy; ECT (abbreviation); electroshock therapy (US)
+عِلاجُ النِّقْرِس	arthrifuge
+عِلاجٌ ضِدّ الحُمَّى	febrifuge
+عَلاقةُ شَوْطِ پيرْس	Peirce stroke relationship
+عَلاَماتٌ رَئيسِيَّة	cardinal signs
+عَلاَمَةُ آرون	Aaron's sign
+عَلاَمَةُ الانْطِفاء	extinction sign
+عَلاَمَةُ التَّصالُبِ بحسب غان	Gunn's crossing sign
+عَلاَمَةُ الحَبْل	rope sign
+عَلاَمَةُ السِّتارَة	curtain sign
+عَلاَمَةُ السِّدادِيَّة	obturator sign
+عَلاَمَةُ السُّعَال	coughing sign
+عَلاَمَةُ القَطَراتِ الحارِقَة	burning drops sign
+عَلاَمَةُ القَطَنِيَّة	psoas sign
+عَلاَمَةُ الكُرْسِيّ	chair sign
+عَلاَمَةُ المِرْوَحَة	fan sign
+عَلاَمَةُ الهِلاَلَة	meniscus sign
+عَلاَمَةُ الوَرَقَةِ بحسب فرُومنت	Froment's paper sign
+عَلاَمَةُ الوِسادَةِ الهَوائِيَّة	air-cushion sign
+عَلاَمَةُ آموس	Amoss' sign
+عَلاَمَةُ آندريه-توماس	Andre-Thomas sign
+عَلاَمَةُ أُوبينهايم	Oppenheim's sign
+عَلاَمَةُ أوسلر	Osler's sign
+عَلاَمَةُ أُونشولد	Unschuld's sign
+عَلاَمَةُ إيريكسن	Erichsen's sign
+عَلاَمَةُ إيليوت	Elliot's sign
+عَلاَمَةُ بابنسكي الكاذبة	pseudo-Babinski's sign
+عَلاَمَةُ بار	Barre's sign
+عَلاَمَةُ باروخ	Baruch's sign
+عَلاَمَةُ بايارجيه	Baillarger's sign
+عَلاَمَةُ برودبِنت	Broadbent's sign
+عَلاَمَةُ برودزينسكي	Brudzinski's sign
+عَلاَمَةُ برودييه-فرانكل	Bordier-Frankel sign
+عَلاَمَةُ بروناتي	Brunati's sign
+عَلاَمَةُ بريسو-ماري	Brissaud-Marie sign
+عَلاَمَةُ بريكنَر	Brickner's sign
+عَلاَمَةُ برين	Prehn's sign
+عَلاَمَةُ بلومبيرغ	Blumberg's sign
+عَلاَمَةُ بوتنغر	Potenger's sign
+عَلاَمَةُ بورسيري	Borsieri's sign
+عَلاَمَةُ بورغارت	Burghart's sign
+عَلاَمَةُ بوِييار	Bouillard's sign
+عَلاَمَةُ بيرتون	Burton's sign
+عَلاَمَةُ بيزبالوف	Bespaloff's sign
+عَلاَمَةُ بِيزولد	Bezold's sign
+عَلاَمَةُ بيل	Bell's sign
+عَلاَمَةُ بيندا	Binda's sign
+عَلاَمَةُ بيوتروفسكي	Piotrowski's sign
+عَلاَمَةُ تروازييه	Troisier's sign
+عَلاَمَةُ تورين	Turyn's sign
+عَلاَمَةُ تيرنَر	Turner's sign
+عَلاَمَةُ جيلبير	Gilbert's sign
+عَلاَمَةُ حَدَقَةِ أَرْغِيل روبِرْتسون	Argyll Robertson pupil sign
+عَلاَمَةُ دافيدسون	Davidsohn's sign
+عَلاَمَةُ داوبارن	Dawbarn's sign
+عَلاَمَةُ دوبوا	Du Bois' sign
+عَلاَمَةُ دوشين	Duchenne's sign
+عَلاَمَةُ دوني	Dennie's sign
+عَلاَمَةُ دي موسي	de Mussy's sign
+عَلاَمَةُ ديماركيه	Demarquay's sign
+عَلاَمَةُ ديو	Dew's sign
+عَلاَمَةُ روبرتسون	Robertson's sign
+عَلاَمَةُ روزَر-براون	Roser-Braun sign
+عَلاَمَةُ روفزينغ	Rovsing's sign
+عَلاَمَةُ ريميست	Raimiste sign
+عَلاَمَةُ زينغَر	Saenger's sign
+عَلاَمَةٌ سابِقَة	antecedent sign
+عَلاَمَةُ سامنر	Sumner's sign
+عَلاَمَةُ سترونسكي	Strunskly's sign
+عَلاَمَةُ ستوكر	Stocker's sign
+عَلاَمَةُ ستيرلز	Sterles' sign
+عَلاَمَةُ سكودا	Skoda's sign
+عَلاَمَةُ سوك	Souques' sign
+عَلاَمَةٌ سِيْسَائِيَّة	spine sign
+عَلاَمَةُ سيستو	Sisto's sign
+عَلاَمَةُ سيكا	Cegka's sign
+عَلاَمَةُ سيليكس	Silex's sign
+عَلاَمَةُ سيمون	Semon's sign
+عَلاَمَةُ سيمون	Simon's sign
+عَلاَمَةُ سينيوريلّي	Signorelli's sign
+عَلاَمَةُ شتراوس	Strauss' sign
+عَلاَمَةُ شترومبل	Strumpell's sign
+عَلاَمَةُ شيبيلمان	Schepelmann's sign
+عَلاَمَةُ غراسّيه-غاوزل-هوفر	Grasset-Gaussel-Hoover sign
+علامة غريزول	Grisolle sign
+عَلاَمَةُ غوترون	Gottron's sign
+عَلاَمَةُ غولدثويت	Goldthwait's sign
+عَلاَمَةُ غولونبوف	Golonbov's sign
+عَلاَمَةُ غينزلين	Gaenslen's sign
+عَلاَمَةُ فارتنبيرغ	Wartenberg's sign
+عَلاَمَةُ فانزيتِّي	Vanzetti's sign
+عَلاَمَةُ فايل	Weill's sign
+عَلاَمَةُ فريدرايخ	Friedreich's sign
+عَلاَمَةُ فوربرينغر	Furbringer sign
+عَلاَمَةُ فُول	Pfuhl's sign
+عَلاَمَةُ فيغنر	Wegner's sign
+عَلاَمَةُ كانافيل	Kanavel's sign
+عَلاَمَةُ كانتور	Kantor's sign
+عَلاَمَةُ كرايتون-براون	Crichton-Browne's sign
+عَلاَمَةُ كريزوفاسكي	Krisovaski's sign
+عَلاَمَةُ كليبيل-فايل	Klippel-Weil
+عَلاَمَةُ كليم	Klemm's sign
+عَلاَمَةُ كوب	Cope's sign (psoas sign)
+عَلاَمَةُ كوجيا	Coggia sign
+عَلاَمَةُ كورفوازييه	Courvoisier's sign
+عَلاَمَةُ كوريغان	Corrigan's sign
+عَلاَمَةُ كوستنر	Kustner's sign
+عَلاَمَةُ كوسماول	Kussamaul's sign
+عَلاَمَةُ كولين	Cullen's sign
+عَلاَمَةُ كير	Kerr's sign
+عَلاَمَةُ كيرنيغ	Kernig's sign
+عَلاَمَةُ لاسيغ	Lasegue's sign
+عَلاَمَةُ لافورا	Lafora's sign
+عَلاَمَةُ لايختينشتيرن	Leichtenstern's sign
+عَلاَمَةُ لاينيك	Laennec's sign
+عَلاَمَةُ ليبمان	Libman's sign
+عَلاَمَةُ ليرميت	Lhermitte's sign
+عَلاَمَةُ ليندَر	Linder's sign
+عَلاَمَةُ مارفان	Marfan's sign
+عَلاَمَةُ ماك بورني	McBurney's sign
+عَلاَمَةُ ماهلر	Mahler's sign
+عَلاَمَةٌ مُقابِلَةُ الجانِب	contralateral sign
+عَلاَمَةُ موركيو	Morquio's sign
+عَلاَمَةُ ميرفي	Murphy's sign
+عَلاَمَةُ مينور	Minor's sign
+عَلاَمَةُ مينيل	Mennell's sign
+عَلاَمَةُ هامَّان	Hamman's sign
+عَلاَمَةُ هان	Hahn's sign
+عَلاَمَةُ هاوديك	Haudek's sign
+عَلاَمَةُ هاوشيب-رومبرغ	Howship-Romberg sign
+عَلاَمَةُ هايم-كرايزيغ	Heim-Kreysig sign
+عَلاَمَةُ هنتنغتون	Huntington's sign
+عَلاَمَةُ هورسلي	Horsley's sign
+عَلاَمَةُ هورن	Horn's sign
+عَلاَمَةُ هوشارد	Huchard's sign
+عَلاَمَةُ هومان	Homans' sign
+عَلاَمَةُ هوين	Hoyne's sign
+عَلاَمَةُ هيرينغ	Heryng's sign
+عَلاَمَةُ هينيبيرت	Hennebert's sign
+عَلاَمَةُ هينينغ	Henning's sign
+عَلاَمَةُ ويدووِيتز	Widowitz's sign
+عِلْم الأَعْرَاض وَالعَلاَمَات	semiology
+علم الأمراض	pathology
+عِلْم الأَمْرَاض الجِلْدِيَّة	dermatopathology
+عِلم الأَمراض الخِلْقِيَّة	congenital pathology
+عِلْمُ الأَمْراضِ السَّريري	clinical pathology
+علم الأمراض الضوئى	photopathology
+عِلْم الأَمْرَاض الكِيميَائِيّ	chemical pathology
+عِلْمُ الأَمْراضِ المُتَوَطِّنَة	endemiology
+عِلم الأَمراض المُقارِن	comparative pathology
+علم الأنسجة المرضي	histology, pathologic = histopathology
+علم الأنسجة المرضي	histopathology = pathologic histology
+علم الأوبئة	epidemiology
+عِلْمُ الأورام	oncology
+عِلْمُ الأَورام	phymatology (oncology)
+عِلْمُ الأَوْرَامِ العَضَلِيَّةِ	musculoskeletal oncology
+عِلْمُ التَّشَنُّج	spasmology
+عِلْمُ التَّوْلِيْدِ و النِّسَائِيَّات	gynecotokology
+عِلْمُ الحُمَّيات	pyretology
+عِلْمُ الزُّهْرِيِّ الوِراثِيّ	heredosyphilology
+عِلْمُ السَّبَبِيَّاتِ المَرَضِيَّة	nosazontology (nosetiology)
+عِلْمُ السَّبَبِيَّاتِ المَرَضِيَّة	nosetiology
+علم السرطان	cancerology
+عِلْمُ الصَّرْعِ	epileptology
+علم الطفيليات	parasitology
+عِلْمُ الطُّفَيلِيَّاتِ الحَيَوانِيَّةِ	epizoology
+عِلْمُ العَمَى	typhlology
+عِلْمُ المَريء	esophagology
+عِلْمُ أَمْراضِ الأَسْنان	odontonosology
+علم أمراض الجهاز التناسليّ عند الأنثى	gynecology; gynaecology
+عِلْمُ أَمْرَاضِ الخَلاَيَا	cell pathology
+عِلْم أَمْرَاض الخَلايَا	cytopathology
+علم أمراض الخلايا: شُعبة من علم الأمراض	cytopathology
+عِلْمُ أَمْراضِ الطُّيور	epornithology
+علم أمراض الغابات	forest pathology
+عِلْمُ أَمْرَاضِ المُنَاخ	climatopathology
+علم أمراض النبات	epiphytology
+عِلمُ أمراضِ النبات	plant pathology
+عِلْمُ تَصْنِيْفِ الأَمْراض	nosology
+عِلْمُ تَصْنيفِ الأَمْراض	nosonomy
+عِلْمُ تَصْنيفِ الأَمْراض	nosotaxy (nosology)
+علم مسببات الأمراض	aetiology
+عِلة	ailment
+عِلَّة	illness
+عِلَّة	pathema
+عِلَّةُ المُرْتَفَعات	high altitude illness (high altitude sickness)
+عِلَّةُ الهَواءِ المَضْغوط	compressed-air illness (decompression sickness)
+عِلَّةٌ انْتِهائِيَّة	terminal illness
+عِلَّةٌ انْفِعَالِيَّة	emotional illness
+عِلَّةٌ نَفْسِيَّة	mental illness (mental disorder)
+عِلَّةٌ نَفْسِيَّةٌ جَسَدِيَّة	psychosomatic illness (psychosomatic disorder)
+عِلَّةٌ هَوَسِيَّةٌ اكْتِئابِيَّةٌ	manic-depressive illness
+عِلَّةٌ وَظيفِيَّة	functional illness
+عِلَّوصٌ طُفَيلِيّ	parasitic ileus
+على نحو طويل مع هزال أو ضمور	lankily
+على نحوٍ مُرْضٍ	satisfactorily
+عملية إزالة المياه	dehydration process
+عَمَهُ إِدْرَاكِ الأَشْيَاء	object blindness
+عَمَهٌ إِدْراكِيّ	apperceptive blindness
+عَمَهُ الأَلْوان	amnesic color blindness
+عَمَهُ الحُروف	letter blindness
+عَمَهُ الحُروفِ الموسيقِيَّة	note blindness
+عَمَهُ الذَّوق	taste blindness
+عَمَه الطعم	blindness, taste
+عَمَهُ الكِتابَة	word blindness
+عَمَه الكلمات	blindness, word = alexia
+عَمَه المرض	anosognosis
+عَمَى	ablepsia (blindness)
+عَمَى	ablepsy (blindness)
+عَمَى	anopia
+عَمَى	anopsia
+عمى	blindness
+عَمَى	caecitas (blindness)
+عمى	central blindness
+عمى احادى اللون	monochromatism
+عَمَى الأَحْمَر	anerythropsia
+عَمَى الأحمر	protanopia
+عَمَى الأَحْمَر	red blindness
+عَمَى الأَحْمَرِ و الأَخْضَر	deuteranopsia
+عَمَى الأَحْمَرِ و الأَخْضَر	protanopsia
+عَمَى الأَحْمَرِ و الأَخْضَر	red-green blindness
+عَمَى الأخْضَر	achloroblepsia
+عَمَى الأخْضَر	achloropsia
+عَمَى الأَخْضَر	aglaucopsia
+عَمَى الأَخْضَر	aglaukopsia
+عمى الأخضر	deuteranopia
+عَمَى الأَخْضَر	green blindness
+عَمَى الأَخْضَرِ و الأَحْمَر	deuteranopia
+عَمَى الارْتِجاج	concussion blindness
+عَمَى الأَزْرَق	acyanoblepsia
+عَمَى الأَزْرَق	acyanopsia
+عَمَى الأَزْرَق	acyoblepsia (acyanoblepsia)
+عَمَى الأَزْرَق	blue blindness
+عَمَى الأَزْرَق	tritanopia
+عَمَى الأَزْرَق	tritanopsia
+عَمَى الأَزْرَقِ و الأَصْفَر	blue-yellow blindness
+عَمَى الأَصْفَر	axanthopsia
+عَمَى الأَصْفَرِ و الأَزْرَق	tetartanopia
+عَمَى الأصفر و الأزرق	tetartanopsia
+عَمَى الألوان	achromatic vision
+عَمَى الألْوان	achromatopia
+عَمَى الألْوان	achromatopsia
+عمى الألوان	blindness, colour
+عَمَى الأَلْوان	color blindness
+عَمَى الألوان	colour blindness
+عمي الألوان	defective colour vision
+عَمَى الألوان	parachromatism = colour blindness
+عَمَى الألوان التَامّ	acritochromacy
+عَمى الأَلْوانِ التَّامُّ المَخاريطِيّ	cone monochromatism
+عَمى الأَلْوانِ التَّامُّ النَّبابيتِيّ	rod monochromatism
+عَمى الألوان الثُّنائي	dichromatism
+عَمَى الأَلْوانِ الجُزْئِيّ	parachromatism (dichromasy)
+عَمَى الأَلْوانِ الجُزْئِيّ	parachromatopsia (dichromasy)
+عَمَى الأَلْوانِ الشِّقِّيّ	hemichromatopsia (hemiachromatopsia)
+عَمَى البَنَفْسَجِيّ	anianthinopsy
+عمى الثلاث ألوان	anomalous trichromatism
+عَمَى الثَّلْج	chionablepsia (snowblindness)
+عَمَى الثَلْج	niphablepsia
+عَمَى الثَلْج	niphotyphlosis
+عمى الثلج	photokeratoconjunctivitis; snowblindness; arc eye; welder's flash
+عَمَى الثَّلْج	snow blindness
+عَمَى الثَّلجِ	snowblindness
+عمى الجليد	blindness, snow
+عمى الجليد	chionablepsia = snow blindness
+عمى الحمرة	blindness, red
+عمى الحمرة والخضرة	blindness, red green
+عمى الخضرة	blindness, green
+عمى الزرقة والصفرة	blindness, blue yellow
+عمى الزرقة والصفرة	blue yellow blindness
+عَمَى الشِّقَّينِ الأَنْفِيَّين	binasal hemianopia
+عَمَى الشِّقَّينِ الصُّدْغِيَّين	bitemporal hemianopia
+عَمَى الشِّقَّينِ الصُّدْغِيَّينِ العابِر	hemianopia bitemporalis fugax
+عَمَى الشَّمْس	solar blindness
+عَمَى الشَّمْس	sun blindness
+عَمَى الطَّيَران	flight blindness
+عَمَى العَكْس	reverse blindness
+عَمَى الكُسوف	eclipse blindness
+عمى اللون	achromatopsia = colour blidness
+عمي اللون الأحمر	protanomaly
+عمي اللون الأزرق	tritanomaly
+عمي اللونين الأحمر والأخضر	deuteranomaly
+عمى ألوان شقّي	hemiachromatopsia = hemichromatopsia
+عمى ألوان شِقّي	hemichromatopsia = hemiachromatopsia
+عَمَى الوَميض	flash blindness
+عمى أنفي مزدوج	hemianopia, binasal
+عمى تام	blindness, total
+عَمَى تَسَمُّمِيّ	toxic blindness
+عَمَى تَكَدُّرِ القَرْنِيَّة	nephablepsia
+عَمَى تَكَدُّرِ القَرْنِيَّة	nephelopia (nephablepsia)
+عمى ثنائى اللون	dichromatism
+عَمَىً جُزْئِيّ	meralopia (meropia)
+عَمَىً جُزْئِيّ	meropia
+عَمَى جُزْئِيّ	obcecation
+عَمَى ذَوقِيّ	taste-blindness
+عمى ربعي	hemianopia, quadrantic
+عَمَى رُبْعِيّ	quadrantanopia
+عَمَى رُبْعِيّ	quadrantanopsia
+عَمَى رُبْعِيّ	tetranopsia (quadrantanopia)
+عَمَىً زَرَقِيُّ المَنْشَأ	glaucosis
+عَمَى شامِل	total blindness
+عَمَىً شِقِّيّ	hemiablepsia (hemianopia)
+عَمَىً شِقِّيّ	hemiamaurosis (hemianopia)
+عَمَىً شِقِّيّ	hemiamblyopia (hemianopia)
+عَمَىً شِقِّيّ	hemianopia
+عمى شقّي	hemianopia = hemiamblyopia
+عَمَىً شِقِّيّ	hemianopsia (hemianopia)
+عمى شِقّي	hemianopsia = hemiamblyopia
+عَمَىً شِقِّيٌّ	hemiopia (hemianopia)
+عمى شِقِّي	hemiopia = hemiamblyopia
+عَمَىً شِقِّيّ	hemiscotosis (hemianopia)
+عَمَىً شِقِّيٌّ أُفُقِيّ	altitudinal hemianopia (horizontal hemianopia)
+عَمَىً شِقِّيٌّ أُفُقِيّ	horizontal hemianopia
+عَمَىً شِقِّيٌّ أَنْفِيّ	nasal hemianopia
+عَمَىً شِقِّيٌّ ثُنائِيُّ الجانِب	bilateral hemianopia (binocular hemianopia)
+عَمَىً شِقِّيٌّ ثُنائِيُّ العَين	binocular hemianopia (true hemianopia)
+عَمَىً شِقِّيٌّ جانِبِيّ	lateral hemianopia
+عَمَىً شِقِّيٌّ حَقيقِيّ	true hemianopia
+عَمَىً شِقِّيٌّ رُبْعِيّ	quadrant hemianopia
+عَمَىً شِقِّيٌّ رُبْعِيّ	quadrantic hemianopia
+عَمَىً شِقِّيٌّ سُفْلِيّ	lower hemianopia
+عَمَىً شِقِّيٌّ صُدْغِيّ	temporal hemianopia
+عَمَىً شِقِّيٌّ عُلْوِيّ	upper hemianopia
+عَمَىً شِقِّيٌّ عَمُودِيّ	vertical hemianopia
+عَمَىً شِقِّيٌّ كامِل	complete hemianopia
+عَمَىً شِقِّيٌّ لامُتَطابِق	incongruous hemianopia
+عَمَىً شِقِّيٌّ لَونِيّ	color hemianopia
+عَمَىً شِقِّيٌّ مُتَصالِب	crossed hemianopia
+عَمَىً شِقِّيٌّ مُتَطابِق	congruous hemianopia
+عَمَىً شِقِّيٌّ متَغايِرُ الجَانِب	heteronymous hemianopia
+عَمَىً شِقِّيٌّ مُطْلَق	absolute hemianopia
+عَمَىً شِقِّيٌّ مُمَاثِلُ الجَانِب	equilateral hemianopia
+عَمَىً شِقِّيٌّ مُمَاثِلُ الجَانِب	homonymous hemianopia
+عمى شِقّي مناظر	hemianopia, homonymous
+عَمَىً شِقِّيٌّ ناقِص	incomplete hemianopia
+عَمَىً شِقِّيٌّ نِسْبِيّ	relative hemianopia
+عَمَىً شِقِّيٌّ وَحيدُ الجانِب	unilateral hemianopia
+عَمَىً شِقِّيٌّ وَحيدُ العَين	uniocular hemianopia
+عمى صدغي مزدوج	hemianopia, bitemporal
+عَمَى غَلَسِيّ	aknephascopia (twilight blindness)
+عَمَى غَلَسِيّ	twilight blindness
+عمى قانوني	blindness, legal
+عَمَى قَشْرِيّ	cortical blindness
+عَمَى قَشْرِيٌّ نَفْسِيّ	cortical psychic blindness
+عمى لوني	color blindness daltonism
+عَمَىً لَونِيٌّ شِقِّيّ	hemiachromatopsia
+عَمَىً لَيلِيّ	hesperanopia (nyctalopia)
+عمى ليلى	night blindness
+عَمَى مُخِّيُّ المَنْشَأ	cerebral blindness
+عَمَىً مَرْكَزِيّ	central blindness (central scotoma)
+عَمَى نِصْفِيٌّ صُدْغِيٌّ مُزْدَوِج	bitemporal hemianopsia
+عَمَى نَفْسِيّ	mind blindness (psychic blindness)
+عَمَى نَفْسِيّ	psychic blindness
+عَمَى نَفْسِيّ	soul blindness (psychic blindness)
+عَمَىً نَفْسِيُّ المَنْشَأ	psychanopsia (psychic blindness)
+عَمَى نَهارِيّ	day blindness
+عَمًى نَهاريّ	hemeralopia
+عَمَىً نَهارِيّ	hemeralopia (day blindness)
+عَمَى هِسْتيرِيّ	hysterical blindness
+عمى وظيفي	blindness, functional
+عَمَى وَظيفِيّ	functional blindness
+عميل انتفاخ	swelling agent
+عميل مضاد للالتهاب	anti-inflammatory agent
+عميل مضاد للدَّرَن	antitubercular agent
+عناصر الغشاء الملفوف حلزونيا في عملية	spiral wound RO elements
+عنصر حَلزوني	element, spiral wound
+عنصر طفيلي	parasitic element
+عنصر طُفيلي	parasitic element; non-driven element
+عنصردارة طفيلى	parasitic circuit element
+عُنُقُ داربيشاير	Derbyshire neck (goiter)
+عُنْقُودِيَّة الْتِهَاب الشَّغَاف	Staphylococcus endocarditis
+عَنونَةُ باركو	Barcoo rot (desert sore)
+عُنْيالَة	akembe (onyalai)
+عواز	disease, deficiency
+عُوْدُ القَيْء	adrue
+عَودَةُ العَدْوَى	reinfection
+عَوَر	monocular blindness
+عَوَزُ الحَديد	anemia deficiency
+عَوَزُ الفيتامين	avitaminosis
+عَوَزُ الفيتامين: مرض ناشئ عن نقص	avitaminosis
+عَوَزٌ فيتامينِيّ	avitaminosis
+عَوَزٌ مَناعِيٌّ مُصاحِبٌ للوَرَمِ	immunodeficiency with thymoma
+عَوَزٌ مَناعِيٌّ مُكْتَسَب	acquired immunodeficiency
+عيادة المستشفى: عيادة ملحقة بأحد	policlinic
+عَينُ المَسافِن	shipyard eye
+عَينُ الوَهْج	flash eye (welder's conjunctivitis)
+عَينٌ برايتية	Bright's eye
+عينٌ جاحظة	pop eye
+عَينٌ دامِعَة	blear eye (blepharitis ciliaris)
+عَيْنٌ سِحريَّة مُزدوِجةُ الحَسّاسيَّة	double-sensitivity magic eye
+عَينٌ قَرَنْفُلِيَّة	pink eye (acute contagious conjunctivitis)

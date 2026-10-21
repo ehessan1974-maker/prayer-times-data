@@ -1,0 +1,33 @@
+ظاهِرَةُ الصَّرْعِ الحَرِج	critical epileptic phenomenon
+ظاهِرَةُ الغَمْزَةِ الفَكِّيَّة	jaw-winking phenomenon (Gunn's syndrome)
+ظاهِرَةُ الوَجْهِيّ	facialis phenomenon
+ظاهِرَةُ أَندرسون	Anderson's phenomenon
+ظاهِرَةُ انْطِفاءِ الطَّفَح	rash-extinction phenomenon
+ظاهِرَةُ بُوركِينيي	Purkinje's phenomenon
+ظاهِرَةُ بيري-ديدريك	Berry-Dedrick phenomenon
+ظاهِرَةُ ثَنْيِ الوَرِك	hip-flexion phenomenon
+ظاهرة دوّارة الريح	weathervane effect
+ظاهِرَةُ ديبريه	Debre's phenomenon
+ظاهِرَةُ سولزبيرغر-تشيس	Sulzberger-Chase phenomenon
+ظاهِرَةُ شَبيهَةٌ بالرَفَّاص	springlike phenomenon
+ظاهِرَةُ شتراوس	Straus' phenomenon
+ظاهِرَةُ شترومبل	Strumpell phenomenon
+ظاهِرَةُ شرام	Schramm's phenomenon
+ظاهِرَةُ شليزينغر	Schlesinger's phenomenon
+ظاهِرَةُ شولتز-كارلتون	Schultz-Charlton phenomenon
+ظاهِرَةُ طومسن	Thomsen phenomenon
+ظاهِرَةُ غان	Gunn's phenomenon (Gunn's syndrome)
+ظاهِرَةُ غان الحَدَقِيَّة	Gunn's pupillary phenomenon (Gunn's syndrome)
+ظاهِرَةُ فايفر	Pfeiffer's phenomenon
+ظاهِرَةُ لايختينشتيرن	Leichtenstern's phenomenon
+ظاهِرَةُ لوثيو	Lucio's phenomenon
+ظاهِرَةُ هاتا	Hata phenomenon
+ظاهِرَةُ هوخسينغر	Hochsinger's phenomenon
+ظاهِرَةُ هوسيه	Houssay phenomenon
+ظاهِرَةُ ويليامز	Williams' phenomenon
+ظَرفُ إمساكِ ذَكَر اللَّولبة	tapping chuck
+ظروف فترة الجفاف	dry weather conditions
+ظِهارِيٌّ عَضَلِيّ	epitheliomuscular
+ظَهْرٌ أَحْدَب	hump back (kyphosis)
+ظَهْرٌ أَحْدَب	hunch back (kyphosis)
+ظَهْرُ لاعِبِ البوكر	poker back (rheumatoid spondylitis)

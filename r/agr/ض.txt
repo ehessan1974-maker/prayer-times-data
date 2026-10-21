@@ -1,0 +1,16 @@
+ضبط النبضة	pulse stuffing; justification,
+ضُخَامُ الفَكّ	big jaw (cattle actinomycosis)
+ضُخامُ الفَكّ	bigjaw
+ضَعيفُ الخُصوبَة	subfertile
+ضعيف جدًا في الرماية	not able to hit a barn-door
+ضَغْط التربة	soil pressure
+ضَغْط التربة الإيجابيّ	earth pressure, active
+ضَغْط التربة الجانبيّ	earth pressure, lateral
+ضغط التربة الجانبيّ	lateral earth pressure
+ضغط التربة الساكنة	earth pressure at rest
+ضَغْط التربة السلبي	passive earth pressure
+ضغط التربة المسموح به	permissible soil pressure
+ضغط التربة الموجب	earth pressure, passive
+ضَغْطُ الشُّعَيراتِ الرِّئَوِيَّة	pulmonary capillary pressure
+ضغط النبضة	pulse compression
+ضغط مياه التربة	soil water pressure

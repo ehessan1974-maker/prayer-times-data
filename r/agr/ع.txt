@@ -1,0 +1,95 @@
+عائش في الرَّوث	stercoricolous
+عاريات البذور	gymnosperm
+عاريات البذور	gymnosperms
+عارِيَةُ البُذور	gymnosperm
+عام البذور	seed year
+عامل التحكم بالنبضة	pulse control factor
+عامِلُ الخُصوبَة	fertility factor
+عامل الخصوبة	fertility factor; sex factor
+عامِلُ الرُّشاحَة	filtrate factor (pantothenic acid)
+عامِلُ الرُّشاحَةِ الثَّانِي	filtrate factor II (pantothenic acid)
+عامل تشغيل نبضة	pulse duty factor
+عامِلُ رُشاحَةِ الخَميرَة	yeast filtrate factor (pantothenic acid)
+عامِلُ رُشاحَةِ الكَبِد	liver filtrate factor (pantothenic acid)
+عَتَهُ جُفافِ الجِلْد	xerodermic idiocy
+عجلة نبضية	pulse wheel
+عدد نبضات	pulse number
+عَدَس الماء: نبات عشبيّ مائيّ وحيد الفلقة	water lentil
+عَدَمُ انتظَامِ النَّبْض	irregularity of pulse
+عدم حراثة; بال حراثة; التربة دون حراثة	zero tillage; no till of soil; no tillage
+عَرَبَة التخزين	silo wagon
+عربة قاطرة	drawbar tractor
+عرض النبضات	pulse-width (PWM)
+عَرْضُ نِطاق النَّبْضة	pulse bandwidth
+عِرْقُ النّزْح	drainage course
+عِزبة كبيرة	latifundium
+عزل ثاني أكسيد الكربون في التربة وتخزينه	Soil Carbon Sequestration
+عُشْبَةُ القَمْل	staphisagria
+عُشْبَةُ القَمْل	stavesacre (staphisagria)
+عصاف أسود	black chaff
+عُصافة	husk
+عُصافة تشويش	chaff
+عُصافة تشويش حبْلية	rope chaff
+عصفور الرز	rice-bird
+عصيدة الدواجن	feedstuff
+عصير عنب	stum
+عُصَيَّةُ الكَلأ	hay bacillus (Bacillus subtilis)
+عَظْم العَجُز: «أ» عَظْم العَجُز في	aitchbone
+عَظْم المحراث: الجانب العريض من المحراث	landside
+عُفُونَةُ الكَرْمَة	powdery mildew
+عقد انتفاع بحقل رياح	wind farm lease
+عقدة الصيّاد: عقدة لتثبيت طرف الحبل إلى	fisherman's bend (n)
+عُقدة نسّاج	fisherman’s knot
+عُلْبَةُ القُطْنٍ	cotton box
+علف	fodder
+عَلَف	forage
+عَلَفٌ أخضَرُ مَحفوظ	silage
+علف الذُرة	corn silage
+علف الماشية	forage
+علف مُخَزَّن	silage
+علم الأرصاد الجوية الزراعي	agricultural meteorology; agrometeorology
+علم الأرصاد الجوية الزراعية	agricultural meteorology
+علم البيئة الزراعية	agrioecology
+علم التربة	pedology
+عِلْمُ التُّربة	soil science = pedology
+عِلْمُ التُّربةِ الزراعية	agrology
+علم التربة الْقَرِّي	cryopedology
+عِلْمُ الثِّمار	carpology
+عِلْمُ الدراساتِ الكَونية	cosmography
+علم الزراعة	agricultural science
+عِلْم الزراعة	agronomy
+علم الزِّراعة	geoponics
+عِلْم الزراعة التطبيقي	agronomy
+عِلْمُ الزَّرْعِ	implantology
+عِلْمُ الطَّلْع القديم	palynology
+علم المناخ الزراعي	agricultural climatology
+علم المناخ الزراعي	agroclimatology
+عَلِيقة	fodder; forage
+عمق التربة	soil depth
+عُمْق الصرف	depth of drainage
+عُمْق الصَّرْف	drainage head
+عمليات بوابة المزرعة	farm-gate operation
+عملية الحرث	tillage
+عملية غسل التُّربة	soil washing process
+عَميرة	apiary
+عناية	soil fertility management
+عنب الأحراج	cowberry
+عِنَب الأيائل	deerberry
+عِنَبُ البَحْر	Ephedra
+عِنَبُ الثَّعلب	fox grape
+عِنَب الحِجال	partridgeberry
+عِنَب الدّبّ	arbutus uva – ursi
+عِنَبُ الدُّبّ	Arctostaphylos uva-ursi
+عِنَبُ الدُّبّ	bear berry (Uva ursi)
+عِنَب الدُّبّ	bearberry
+عنب الدب	hurtleberry
+عِنَبُ الدُّبّ	uva ursi
+عنصر تسخين قنفذي	rotary harrow heating element; porcupine heating element
+عُنصر غذائيّ	fertiliser element / nutrient element
+عَنونَةُ القَدَم	foot rot
+عوادم الكتّان	flax waste
+عوامل تربة	edaphic
+عوامل تكوين التربة	soil-formation factors
+عَوْزَة	berry
+عينة التربة	soil sample
+عينة تربة	specimen

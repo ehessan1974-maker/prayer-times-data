@@ -1,0 +1,263 @@
+فئات الاستهلاك	Consumption Category
+فئات السلع للعلامة التجارية	Trademarks class of goods
+فائض	spill; spillover
+فائض	spillage
+فائض	surplus
+فائض الأمطار	rainfall excess
+فائض الإنتاج	Surplus production
+فائِضُ التِّسْعات	excess of nines
+فائض التشغيل	Operating Surplus
+فائض التشغيل والدخل المختلط	Operating Surplus and Mixed income
+فائض الحوض	tank overflow structure
+فائضُ الخام المُتاح	available ore surplus
+فائض القدرة	Excess of power
+فائض القسمة	divide overflow
+فائض القوة الفرملية	brake force balance
+فائض المستهلك	consumer surplus
+فائِض المياه	water surplus
+فائض حر	free slack, free buffer time
+فائضُ رأسِ المال	capital surplus
+فائض رخص التلوث	surplus pollution permits surplus pollution allowances
+فائض شهادات الانبعاثات	surplus of allowances allowance surplus
+فائض عمليات التوزيع	delivery loss / operating waste
+فائض نتروني	neutron excess
+فائض: زائد أو غير ضروريّ	superfluous
+فائض: متجاوزٌ الحدَّ المقرَّر أو المخصَّص	run-over
+فائق الأهمية	all-important
+فاتورة	billing carrier (bill road)
+فاتورة	invoice; bill
+فاتورة استهلاك الطاقة	grid utilization billing
+فاتورة الشراء	purchase invoice
+فاتورة الكميات	Bill Of Quantities
+فاتورة اللوازم والمعدات	(BOM) Bill Of Materials
+فاتورة إلى نقد	Invoice To Cash (I2C)
+فاتورة شحن	freight bill
+فاتُورَةُ شَحْن	shipping invoice
+فاتُورة مُصَدَّقة	certified invoice
+فاحِصُ الحسابات	auditor
+فارس الصالونات: فارسٌ منغمس في البطالة	carpet knight
+فَاصِل الانكماش	joint (shrinkage ...); joint of retreat
+فاضَ	overflow
+فاعل اقتصادي	economic actor
+فتاة المَتْجَر: فتاة تعمل في محلّ تجاريّ	shopgirl
+فتح أسواق	market opening
+فَترةُ استِهلاك التجهيزات	pay-out time = pay-off time
+فترة الاستهلاك	Consumption Period
+فترة التّعريفة الدُّنيا	low-tariff period
+فترة الركود التراكمي	accumulated down time
+فترة الرّكود: فترة ينكمش خلالها نشاطٌ ما	off-season
+فترة الفشل الناتجة عن الإهلاك	wear-out failure period
+فَتْرَةُ المُحاسَبَة	accounting period
+فترة المسؤولية عن العيوب	Defects Liability Period
+فترة النشاط	trading period
+فَتْرةُ رُكُودٍ أو هُمود	involution period
+فَجٌّ	col
+فَجْوةُ انكِماش	shrinkage cavity
+فَحَصَ	audit
+فَحْصُ الحِسابات	auditing
+فحوصات لازمة	due diligence (system) (flegt)
+فَرَضَ	impose
+فَرَّضَ	indent
+فَرضُ الضرائب	taxation
+فرْض ضريبة	taxation
+فرضيّة العجز	Deficit (Hypothesis)
+فَرْطُ الاستِثمار	over-exploitation
+فرط اللون	color excess
+فَرْطُ المُيوعة	superfluidity
+فَرْطُ النُّخامِيَّة	hyperpituitarism
+فَرْطُ النَّفْخ	over-inflation
+فرق سعر الفائدة	Interest Rate Differential (IRD)
+فرقة العمل المعنية بالإجراءات المالية	financial action task force (faft)
+فريق المناوبة اللَّيليّ أو فترةُ عمله	night shift
+فشل السوق	market failure
+فَصَل	excise
+فَصْل الذمم المالية	separation of patrimonies
+فَضاءُ انْكِماش	shrinking space
+فَضْل القيمة: الفَرْق	surplus value
+فضة العملات	coin silver
+فَقْدُ الإرادَة	abulia
+فَقْدُ المُداومة	banking loss
+فقر الدم	anaemia
+فَقْرُ الدَّم	anaemia (anemia)
+فقر الدم	anaemia, dirt-eater's
+فَقْرُ الدَّم	anemia
+فَقْرُ الدَّم	hypemia (anemia)
+فَقْرُ الدَّم	hypoemia (anemia)
+فَقْرُ الدَّم	hypohemia (anemia)
+فَقْرُ الدَّمِ الأديسوني	Addison's anemia (pernicious anemia)
+فَقْرُ الدَّمِ الأَساسِيّ	essential anemia (primary anemia)
+فَقْرُ الدَّمِ الانْحِلالِيُّ	fragmentation hemolytic anemia
+فَقْرُ الدَّمِ الانْحِلالِيّ	hemolytic anemia
+فَقْرُ الدَّمِ الانْحِلالِيُّ	nonspherocytic hemolytic anemia
+فَقْرُ الدَّمِ الانْحِلالِيُّ الحادّ	acute hemolytic anemia
+فَقْرُ الدَّمِ الانْحِلالِيُّ الخِلْقِيّ	congenital hemolytic anemia
+فَقْرُ الدَّمِ الانْحِلالِيُّ الخِلْقِيُّ	congenital nonspherocytic hemolytic anemia
+فَقْرُ الدَّمِ الانْحِلالِيُّ السُّمِيّ	toxic hemolytic anemia
+فَقْرُ الدَّمِ الانْحِلالِيُّ العَدْوائِيّ	infectious hemolytic anemia
+فَقْرُ الدَّمِ الانْحِلالِيُّ المُكْتَسَب	acquired hemolytic anemia
+فَقْرُ الدَّمِ الإنْحِلالِيُّ المَناعِيّ	immunohemolytic anemia
+فَقْرُ الدَّمِ الانْحِلالِيُّ النَّاجِمُ	microangiopathic hemolytic anemia
+فَقْرُ الدَّمِ الانْحِلالِيُّ الوِراثِيُّ	hereditary nonspherocytic hemolytic anemia
+فَقْرُ الدَّمِ الانْحِلالِيُّ بالمَنَاعَة	autoimmune hemolytic anemia
+فَقْرُ الدَّمِ الأنكلوستوميّ المَنْشَأ	ancylostoma anemia
+فَقْرُ الدَّمِ الإِهْلِيْلَجِيُّ الخَلايا	elliptocytary anemia
+فَقْرُ الدَّمِ الإِهْلِيْلَجِيُّ الخَلايا	elliptocytotic anemia (elliptocytosis)
+فَقْرُ الدَّمِ الأَوَّلِيّ	primary anemia
+فَقْرُ الدَّمِ البَثَعِيّ	scorbutic anemia
+فَقْرُ الدَّمِ التَّالِي للتَّشْعِيْع	radiation anemia
+فَقْرُ الدَّمِ التَّالي للتَّشْعِيْعِ	x ray anemia (radiation anemia)
+فَقْرُ الدَّمِ التَّالِي للنَّزْفِ عِنْدَ	posthemorrhagic anemia of newborn
+فَقْرُ الدَّمِ التَّخْفيفِيّ	dilution anemia
+فَقْرُ الدَّمِ التَّغْذَوِيّ	nutritional anemia
+فَقْرُ الدَّمِ الثَّانَويّ	secondary anemia
+فَقْرُ الدَّمِ الثُّنائِيُّ الشَّكْل	dimorphic anemia
+فَقْرُ الدَّمِ الجَبَلِيّ	mountain anemia
+فَقْرُ الدَّمِ الجُزَيئِيّ	molecular anemia
+فَقْرُ الدَّمِ الجَمَلِيُّ الكُرَيَّات	cameloid anemia (elliptocytosis)
+فَقْرُ الدَّمِ الحادّ	acute anemia
+فَقْرُ الدَّمِ الحادِّ التَّالِي للنَّزْف	acute posthemorrhagic anemia
+فَقْرُ الدَّمِ الحَدِيْدِيُّ الأَرُوْمَات	sideroblastic anemia
+فَقْرُ الدَّمِ الحَرُون	refractory anemia
+فَقْرُ الدَّمِ الحَرُونُ الحَدِيْدِيُّ	anemia refractoria sideroblastica
+فَقْرُ الدَّمِ الحَرُونُ ذُو	refractory sideroblastic anemia
+فَقْرُ الدَّمِ الخَبيث	malignant anemia (pernicious anemia)
+فَقْرُ الدَّمِ الخَفِيّ	occult anemia
+فَقْرُ الدَّمِ الخِلْقِيُّ النَّاجِمُ	congenital hypoplastic anemia
+فَقْرُ الدَّمِ الخَيلِيُّ العَدْوائِيّ	equine infectious anemia
+فَقْرُ الدَّمِ الخَيلِيُّ العَدْوائِيّ	infectious anemia of horses
+فَقْرُ الدَّمِ الرَّصاصِيُّ المَنْشَأ	lead anemia
+فَقْرُ الدَّمِ الرَّضاعِيُّ المَنْشَأ	breast anemia
+فَقْرُ الدَّمِ الرَّضْحِيّ	traumatic anemia
+فَقْرُ الدَّمِ الرَّمادِيّ	slaty anemia
+فَقْرُ الدَّمِ السُّمِّيّ	toxic anemia
+فَقْرُ الدَّمِ السَّوِيُّ الصِّباغ	normochromic anemia
+فَقْرُ الدَّمِ السِّوِيُّ الكُرَيَّات	normocytic anemia
+فَقْرُ الدَّمِ الصَّغيرُ الكُرَيَّات	microcytic anemia
+فَقْرُ الدَّمِ الضَّخْمُ الأَروماتِ	familial megaloblastic anemia
+فَقْرُ الدَّمِ الضَّخْمُ الأَرومات	megaloblastic anemia
+فَقْرُ الدَّمِ الضَّخْمُ الكُرَيَّات	megalocytic anemia
+فَقْرُ الدَّمِ الضُّمُورِيّ	atrophic anemia
+فَقْرُ الدَّمِ الطِّحالِيُّ المَنْشَأ	anemia splenetica
+فَقْرُ الدَّمِ الطِّحالِيُّ المَنْشَأ	splenic anemia
+فَقْرُ الدَّمِ العائِلِيُّ الصَّغيرُ	familial microcytic anemia (thalassemia)
+فَقْرُ الدَّمِ العائِلِيُّ ذُو الأَروماتِ	familial erythroblastic anemia (thalassemia major)
+فَقْرُ الدَّمِ العَوَزِيّ	deficiency anemia
+فَقْرُ الدَّمِ الفِيزْيولوجِيّ	physiologic anemia
+فَقْرُ الدَّمِ القُطْبِيّ	Arctic anemia (polar anemia)
+فَقْرُ الدَّمِ القُطْبِيّ	polar anemia
+فَقْرُ الدَّمٍ الكَاذِب	pseudoanemia
+فَقْرُ الدَّمِ الكَاذِبُ بالتَّشَنُّجِ	pseudoanemia angiospastica
+فَقْرُ الدَّمِ الكَبِيرُ الكُرَيَّاتِ	idiopathic macrocytic anemia
+فَقْرُ الدَّمِ الكَبيرُ الكُرَيَّات	macrocytic anemia
+فَقْرُ الدَّمِ الكَبيرُ الكُرَيَّاتِ	nutritional macrocytic anemia
+فَقْرُ الدَّمِ الكَبيرُ الكُرَيَّاتِ	tropical macrocytic anemia
+فَقْرُ الدَّمِ الكُرَوِيُّ الخَلايا	globe cell anemia (spherocytic anemia)
+فَقْرُ الدَّمِ الكُرَوِيُّ الخَلايا	spherocytic anemia
+فَقْرُ الدَّمِ اللاَّتَجَدُّدِيّ	aregenerative anemia (chronic congenital anemia)
+فَقْرُ الدَّمِ اللاتَنَسُّجِيُّ	aplastic anemia
+فَقْرُ الدَّمِ اللاهيدروكلوريكيّ	achlorhydric anemia (achylic anemia)
+فَقْرُ الدَّمِ المُتَرَافِقُ بفَرْطِ	sideremic anemia
+فَقْرُ الدَّمِ المَجْهول السَّبب	idiopathic anemia
+فَقْرُ الدَّمِ المُحْدَثُ بالأَدْوِيَة	drug induced anemia
+فَقْرُ الدَّمِ المَدارِيّ	intertropical anemia (hookworm disease)
+فَقْرُ الدَّمِ المَدارِيّ	tropical anemia
+فَقْرُ الدَّمِ المُرافِقِ لحِكَّةِ التراب	ground itch anemia (hookworm disease)
+فَقْرُ الدَّمِ المُسْتَجيبُ للبيرِيدُوكسين	pyridoxine-responsive anemia
+فَقْرُ الدَّمِ المُفْرِطُ الصِّباغ	hyperchromic anemia
+فَقْرُ الدَّمِ المُكْتَسَب النَّاجِمُ عن	acquired sideroachrestic anemia
+فَقْرُ الدَّمِ المِنْجَلِيّ	drepanocytic anemia (sickle cell anemia)
+فَقْرُ الدَّمِ المِنْجَلِيّ	sickle cell anemia
+فقر الدم المنجليّ	sickle cell anemia; sicklemia
+فقر الدَّم المِنجليّ	sickle-cell anemia
+فَقْرُ الدَّمِ المِنْجَلِيّ	sicklemia (sickle cell anemia)
+فَقْرُ الدَّمِ المِهْمازِيُّ الخَلايا	spur-cell anemia
+فَقْرُ الدَّمِ المَوضِعِيّ	local anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَنْ	cow's milk anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَنْ	goat's milk anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَن	leptospiral anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَن	milk anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَن اعْتِلالِ	microangiopathic anemia (microangiopathic hemolytic anemia)
+فَقْرُ الدَّمِ النَّاجِمُ عَن اعْتِلالِ	myelopathic anemia (myelophthisic anemia)
+فَقْرُ الدَّمِ النَّاجِمُ عَن الفَشَلِ	renal failure anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَن الفِينيل	phenylhydrazine anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَن تَصَلُّبِ	myelosclerotic anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَن تَصَلُّبِ	osteosclerotic anemia
+فَقْرُ الدَّمِ النَّاجِمُ عن تَعَذُّرِ	achrestic anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَنْ تعذُّر	anhematopoietic anemia (aplastic anemia)
+فَقْرُ الدَّمِ النَّاجِمُ عَنْ تعذُّر	anhemopoietic anemia (aplastic anemia)
+فَقْرُ الدَّمِ النَّاجِمُ عَن تَعَذُّرِ	sideroachrestic anemia (sideroblastic anemia)
+فَقْرُ الدَّمِ النَّاجِمُ عَنْ داءِ	chlorotic anemia (chlorosis)
+فَقْرُ الدَّمِ النَّاجِمُ عَن دَاءِ	hookworm anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَن عَوَزِ	asiderotic anemia (iron deficiency anemia)
+فَقْرُ الدَّمِ النَّاجِمُ عَنْ عَوَزِ	dehydrogenase deficiency anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَنْ عَوَزِ	folic acid deficiency anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَنْ عَوَزِ	glucose-6-phosphate dehydrogenase deficiency anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَن عَوَزِ	iron deficiency anemia
+فَقْرُ الدَّمِ النَّاجِمُ عن فَقْدِ	achylic anemia
+فَقْرُ الدَّمِ النَّاجِمُ عن فَقْدِ	anemia achylica
+فَقْرُ الدَّمِ النَّاجِمُ عَن كَثْرَةِ	leukoerythroblastic anemia (leukoerythroblastosis)
+فَقْرُ الدَّمِ النَّاجِمُ عَن نَقْصِ	hypoplastic anemia
+فَقْرُ الدَّمِ النَّاجِمُ عَن نَقْصِ	sideropenic anemia
+فَقْرُ الدَّمِ النَّاقِصُ الصِّباغِ	anemia hypochromica sideroachrestica hereditaria
+فَقْرُ الدَّمِ النَّاقِصُ الصِّباغ	hypochromic anemia
+فَقْرُ الدَّمِ النَّاقِصُ الصِّباغِ	hypochromic microcytic anemia
+فَقْرُ الدَّمِ النَّاقِصُ الصِّباغِ	idiopathic hypochromic anemia
+فَقْرُ الدَّمِ النَّزْفِيّ	hemorrhagic anemia
+فَقْرُ الدَّمِ النِّقْوِيُّ المَنْشَأ	myelogenous anemia
+فَقْرُ الدَّمِ النَّقيلِيّ	metastatic anemia
+فَقْرُ الدَّمِ الهَدَفِيُّ الخَلايا	target cell anemia
+فَقْرُ الدَّمِ الهِلاَلِيُّ الخَلايا	crescent cell anemia (sickle cell anemia)
+فَقْرُ الدَّمِ الوَبيل	pernicious anemia
+فَقْرُ الدَّمِ الوِرَاثِيُّ	genetic anemia
+فَقْرُ الدَّمِ الوِراثِيُّ الحَديدِيُّ	hereditary sideroblastic anemia
+فَقْرُ الدَّمِ الوِراثِيُّ الضَّخْمُ	hereditary megaloblastic anemia
+فَقْرُ الدَّمِ الوِراثِيُّ الكَبيرُ	hereditary macrocytic anemia
+فَقْرُ الدَّمِ الوِراثِيُّ النَّاقِصُ	hereditary hypochromic anemia (hereditary sideroblastic anemia)
+فَقْرُ الدَّمِ الوَليدِيّ	anemia neonatorum
+فَقْرُ الدَّمِ اليَفَعِيُّ الوَبيل	juvenile pernicious anemia
+فَقْرُ الدَّمِ بتَصَلُّبِ العِظام	osteosclerotic anaemia
+فَقْرُ الدَّمِ بحَسَبِ أديسون	addisonian anemia (pernicious anemia)
+فَقْرُ الدَّمِ بحَسَبِ أديسون بيرمر	Addison-Biermer anemia (pernicious anemia)
+فَقْرُ الدَّمِ بحَسَبِ بَانْتِي	Banti's anemia
+فَقْرُ الدَّمِ بحَسَبِ فانْكونِي	Fanconi's anemia (Fanconi's pancytopenia)
+فَقْرُ الدَّمِ بعَوَزِ الحَديد	iron- deficiency anemia
+فَقْرُ الدَّمِ ذُو أَجْسامِ هاينْز	Heinz-body anemia
+فَقْرُ الدَّمِ ذُو الأَروماتِ الحُمْرِ	erythroblastic anemia of childhood (beta-thalassemia)
+فَقْرُ الدَّمِ ذُو الكُرَيَّات الحَمْرَاء	pure red cell anemia
+فَقْرُ الدَّمِ عِنْدَ عُمَّالِ الأَنْفاق	tunnel anemia (miners anemia)
+فقر دم	anemia; anaemia
+فَقْرُ دَمِ الابْيِضاض الكاذِبِ	anemia pseudoleukemica infantum
+فَقْرُ دَمِ البَحْرِ المَتَوَسِّط	Mediterranean anemia (beta-thalassemia)
+فَقْرُ دَمِ المُعَدِّنين	miner anemia
+فَقْرُ دَمِ المُعَدِّنين	miners' anemia (hookworm anemia)
+فَقْرُ دَمِ الوَليدِ الخِلْقِيّ	congenital anemia of newborn
+فَقْرُ دَمٍ تَسَمُّمِيّ	toxanemia
+فَقْرُ دَمِ كولي	Cooley's anemia (beta-thalassemia)
+فَقْرُ دم مِنْجَلِيّ	sicklemia
+فَقْرُ دَمٍ يَرَقانِيّ	icteroanemia
+فقر في الطاقة	energy poverty
+فقر في المياه	water poverty; water scarcity
+فقر مطلق	absolute poverty
+فقر وتحليل الأثر الاجتماعي	poverty and social impact analysis (psia)
+فقرات	vertebrae
+فِقْرات	vertebrae [sing.vertebra]
+فِقْراتٌ حَقيقِيَّة	true vertebrae
+فقرات قطنية	lumbar vertebra
+فقرة تعديل السعر	price adjustment clause
+فكُّ الرهن	discharge of mortgage
+فُلطية الدخل	input voltage
+فُلطيَّةُ دَخْل المحوِّل	transformer input voltage = primary voltage
+فن	art
+فِناء الماشية. وبخاصّة: فِناء مؤقَّت	stockyard
+فوائد البنوك	Bank Interests
+فوائد معفية من الضرائب	interest free of tax
+فواصل الانكماش	contraction jointing
+فواصل الانكماش	joint (shrinkage joint); joint (joint of retreat)
+فواقِد مائية	non-revenue water
+في الإيداع	on consignment
+في الطريق	in the pipeline
+في حالة أو ظروف معيّنة	circumstanced
+في ضائقة	in low water
+في ضِيْق	in straiten ed
+في ما يتعلَّق به	re
+فيديكون	vidicon (trade mark)

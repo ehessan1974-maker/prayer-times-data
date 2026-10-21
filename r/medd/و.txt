@@ -1,0 +1,49 @@
+وابائين	acocantherin (ouabain)
+وابائين	ouabain
+وارفارين	warfarin
+وُجودُ الأَنْسولينِ في الدَّم	insulinemia
+وُجودُ الحَمْضَمينِ الكيتونِيِّ بِالدَّم	ketoaminoacidemia
+وُجودُ المَصْلِ بِالمَعِدَة	serogastria
+وُجودُ الهُرْمونِ في الدَّم	hemocrinia
+وَحْدَةُ أُكسفورد	Oxford unit
+وحدة الجرعة الاشعاعية الممتصة	rad
+وَحْدَةُ الديجيتال	digitalis unit
+وحدة المسكن	monoecism
+وَحْدَةُ أنْزباخِر	Ansbacher unit
+وَحْدَةُ ثاير-دوازي	Thayer-Doisy unit
+وَحْدَةُ ستينبوك للفِيتامين D	Steenbock unit of vitamin D
+وَحْدَةُ شيرمان	Sherman unit
+وَحْدَةُ شيرمان-بوركوين للفِيتامين B2	Sherman-Bourquin unit of vitamin B2
+وَحْدَةُ شيرمان-مونسل للفِيتامين A	Sherman-Munsell unit of vitamin A
+وَحْدَةُ فيتامين A	vitamin A unit
+وَحْدَةُ فيتامين B1	unit of vitamin B1
+وَحْدَةُ فيتامين D	vitamin D unit
+وَحْدَةُ فيتامين G	vitamin G unit
+وَحْدَةُ فيلتون	Felton's unit
+وَحْدَةُ كورنر-آلين	Corner-Allen unit
+وَحيدُ المَسْكَن	unilocular
+وَخَزَ	jab
+وَذَمَةُ حَقْنِ الأَنْسولين	insulin edema
+ورق أسبستوس مقوى	asbestos boar
+وَرَقُ الدِّيجِيتال	digitalis leaf
+ورق الرُّقَع: ورق مُقَوًّى تُتَّخذ منه	tagboard
+ورق مقوى	(paper) board
+وَرَقٌ مُقَوَّى	pasteboard
+وَرَق مُقوى قَشِّي	straw-board
+وَرْنِيشٌ	varnish
+وزن القطرة	drop weight
+وَسْم	label
+وَسيط	moderator
+وسيلة تعقيم	disinfectant
+وَصْفُ الدَواء	drug prescription
+وَصْفة	prescription
+وَصْفَةٌ بالرَّجْم	shotgun prescription
+وَصْفَة طِبِّيَّة	medical prescription
+وَصْفَة طِبيَّة	prescription
+وصلة حقن	injection joint
+وضع اليد المؤقت على العقار	Temporary Taking of Property
+وِقاء الذّراع	bracer
+وِقائيّ	prophylactic
+وقْف التقادُم	prescription suspension
+وقْف التقادُم	suspension of prescription
+وَكْر الأفيونيين: مكان يُتعاطَى فيه	opium den

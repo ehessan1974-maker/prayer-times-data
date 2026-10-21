@@ -1,0 +1,103 @@
+نابِض	spring
+نابضُ	spring, governor
+نابِضُ الارتِداد	rebound spring
+نابضِيَّة	springiness
+ناتج معاد	cycle stock
+نَّاحِيَةُ	sural region
+نارُ القِدِّيس «إلمُو»	Saint Elmo’s fire = corposant
+نار القديس إلمو	corposant
+نار القديس أنطونيوس: التهاب جلدي	Saint Anthony's fire
+ناسورٌ خِلْقِيٌّ أمامَ الأُذُن	congenital preauricular fistula
+ناسورٌ سِنِّيّ	dental fistula
+ناسور سني	fistula, dental
+ناظم التراتيل	psalmist
+ناقل	IEC bus
+ناقل الربط	connecting carrier
+ناقلة الشهداء	Al Shuhadaa (KOTC crude carrier)
+ناقوس القدّاس	Sanctus bell
+نبض مرتد	back pulsing
+نبع	spring
+نُبوءة	prophecy
+نَبْوَة	polster
+نَجْمٌ سِنِّيّ	dental star
+نحو الاعتماد	Dependency grammar
+نحو الأمام	anteriad
+نحوَ المُقَدِّمة	forwards
+نَخَرٌ سِنِّيّ	dental necrosis
+نَخَرٌ سِنِّيّ	dental necrosis (dental caries)
+نَخَرٌ سِنِّيّ	odontonecrosis
+نَخَرٌ كَبِدِيٌّ تحتَ الحادّ	subacute hepatic necrosis
+نَدَم	penitence
+نذير الشؤم	Job's post
+نَزْفُ اللَّهاة	staphylematoma
+نَزْفٌ سِنِّيّ	dental hemorrhage
+نَزْلَةُ الشَّيطان	devil's grip
+نَزْلَةٌ خانِقَة	suffocative catarrh (asthma)
+نَزْلَةُ فروجار	Fruehjahr catarrh (vernal conjunctivitis)
+نَزْلَةُ لاينيك	Laennec's catarrh
+نسب التغير الربعي	Quarterly Change Rates
+نسبة الخسارة: النسبة بين ما دفعته شركة	loss ratio
+نِسْبَة الخَلْف إلى الأمام	back-to-front ratio
+نسبة الربح الإجمالي	Gross Profit Percentage
+نِسْبَةُ القُروض	debt ratio
+نسبة بين دين الشركة إلى حقوق الملكية	Gearing
+نسبة تكبير,	magnification ratio,
+نسبة صافي الربح	Net Profit Ratio
+نَسيجٌ سِنِّيّ	dental tissue
+نسيج صوفي ثقيل	beaver cloth
+نَسيجٌ صُوفيّ ناعِم	cashmere
+نسيم الإرتداد الخلفي	backwash ripple mark
+نشأة الكون أو نظرية تحاول تفسيرها	cosmogony
+نشيد	hymn
+نِصاح	floss
+نِصْفُ المَدَى الرُّبَيْعِيّ	semi-interquartile range
+نَصير	patron
+نَصيرُ الدِّينِ الطُّوسِيّ	al-Tusi, Naseer ad-Din
+نظارة واقية بذراعين كبليين	cable temple goggles
+نظام	Hell system; Hellschreiber system
+نظام	tetragonal system
+نِظامُ إسناد	reference system
+نظام الدفع الرُباعي 'فور موشن'	4-motion
+نظام الربط	Fastening System
+نظام الربط البينى المفتوح	Open Systems Interconnection
+نِظامٌ سِنِّي	dentition
+نِظامٌ غِذائِيٌّ مُطْلَق	absolute diet (fasting)
+نِظامُ مُزْدَوج الارْتِدَاد	double-recoil system
+نظام منارة رادار مراقبة المرور الجوي	air traffic control radar beacon system
+نَظِيْرَةُ الصَّدَفِيَّةِ الحادَّة	acute parapsoriasis
+نَظِيْرَةُ الصَّدَفِيَّةِ الحادَّة	parapsoriasis acuta
+نَظِيْرَةُ الصَّدَفِيَّةِ الحادَّةُ	parapsoriasis varioliformis acuta (acute lichenoid pityriasis)
+نفاذ مباشر الى الذاكرة	DMA
+نفاق	sanctimony
+نَفْخٌ أَمامَ العَجُزِيّ	presacral insufflation
+نَفْضَةُ الثُّلاَثِيَّةِ الرُّؤوسِ	triceps surae jerk (ankle jerk)
+نَفْضَةُ الرُّباعِيَّةِ الرُّؤوس	quadriceps jerk (patellar reflex)
+نقاء	immaculacy
+نقاط إسناد ماكينات التحكّم الرقميّ	Reference points of NC machines
+نقاط الربط	Connection Points
+نَقْبٌ سِنِّيّ	dental trephination
+نُقْرَةُ النَّاتِئِ السِّنِّيِّ للفَهْقَة	dental fovea of atlas
+نُقْرَةُ النَّاتِئِ السِّنِّيِّ للفَهْقَة	fovea dentis atlantis NA
+نَقْضٌ لعهد	breach of faith
+نُقطةُ إسناد	datum point
+نُقطةُ إسناد	fiducial point
+نقطة اسناد	reference point
+نقطة إسناد الإنزلاق	Slide reference point
+نقطة إسناد سماوية	celestial fix
+نُقطةُ إسنادٍ لاسِلكيّ	radio fix
+نقطة إسناد لاسلكي	radio fiX
+نُقْطَةُ الإسناد	point of reference
+نُقْطَةُ الإسناد	point, datum
+نقطة الانعطاف	turning point
+نقطة التعادل	break even point
+نقطة الذَّنَب	aphelion (pl. aphelia)
+نُقطة الرأس	perihelion
+نقطة الربط	point of connection
+نُقطةُ مَرْجِع	reference datum
+نُكْسان	antexion
+نَمَطُ بوتنام	Putnam's type (subacute combined degeneration of spinal cord)
+نموذج الأيزو المرجعي لنظام الربط البينى	ISO OSI (Open Systems Interconnect) Reference Model
+نهاية الإسناد	fiX end
+نَواةُ السَّاحَةِ أَمامَ الحَمْراء	nucleus of prerubral field
+نوبة الوالدين	Parental Fit
+نيّة	faith

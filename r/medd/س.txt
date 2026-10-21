@@ -1,0 +1,165 @@
+سائِل	liquor
+سائِلُ دوكلا	Declat's liquid
+سابِق الدَّوَاء	prodrug
+سابقة بمعنى الدَّوَاء	pharmaco-
+سابقة بمعنى المَصْل	orrho-
+ساعة مُنَبِّهة	alarm clock
+ساكسيميريد	suxemerid
+سالاَنْتيل	salantel
+سالْكُولِيكْس	salcolex
+سالُوكُولْ	salocoll
+ساليثاميد	salethamide
+ساليسيلات الأسيتيل	acetylsalicylate
+ساليسيلاميد	salicylamide
+ساليسيلانيليد	salicylanilide
+سَبتيلين	subtilin
+سَبْجِي	subjee
+سبكتينوميسين	spectinomycin
+سبيبيرون	spiperone
+سبيراميسين	spiramycin
+ستربتوثريسين	streptothricin
+ستربتودوسين	streptoduocin
+ستربتوميسين	streptomycin
+ستربتونيفيسين	streptonivicin (novobiocin)
+ستروفانثيدين	strophanthidin
+ستروفانثين	strophanthin
+ستيبامين	stibamine
+ستيرامات	styramate
+ستيرُوئيدٌ قِشْر-كُظرِيّ	adrenocorticosteroid (corticosteroid)
+ستيرويد	sterid (steroid)
+ستيرويد	steroid
+ستيرُويدٌ ابْتِنائِيّ	anabolic steroid
+ستيرُويدٌ قِشْرِيّ	adrenocorticoid (corticosteroid)
+ستيروييد	steroid
+ستيفيميسين	steffimycin
+ستيليبستيرول	stilbestrol
+سِجِل الْـمُخَدِّرَات	narcotics register
+سِجِلٌّ صَيْدَلانِيّ	pharmaceutical registration
+سحب المخدر	denarcotization
+سُداسِيُّ الفيتامين	hexavitamin
+سرعة الإدخال	injection velocity
+سَرْمانْتُوجينين	sarmentogenin
+سطح الجرعات المتساوية	isodose surface
+سَطح مُقوى بالشّكل	braced surface
+سعر فترة الأساس لأسعار العقارات	Price of Base Period for Real Estate Prices
+سعر فترة المقارنة لأسعار العقارات	Price of Comparison Period for Real Estate Prices
+سُكَّرِيُّ اليافِعين	juvenile diabetes (insulin dependent diabetes)
+سُكَّرِيُّ اليافِعين	juvenile-onset diabetes (insulin dependent diabetes)
+سُكَّرِيَّاتٌ مُنَتْرَتَة	nitrosugars
+سَكسينيلُ التَّميمِA	succinyl.CoA
+سَكسينيلُ الكولين	succinylcholine
+سِكْلُوبرُوبان	cyclopropane
+سِكْلُوبِنْتُولاَت	cyclopentolate
+سَكَّنَ	sedate
+سَكوب	drench
+سكُوبافُونْجين	scopafungin
+سِكِّينُ بلير	Blair knife
+سلامة	safety (of a drug or other chemical substance)
+سلامة اللقاح	safety of vaccine
+سَلْبِيُّ المَصْل	seronegative
+سَلْبِيَّةُ المَصْل	seronegativity
+سَلَف ال?يتامين	provitamin
+سَلَفُ طَليعَةِ الأَنْسُولين	preproinsulin
+سَلَفُ طَليعَةِ الهُرْمون	preprohormone
+سَلفابنزاميد	sulfabenzamide
+سَلفابيريدين	sulfapyridine
+سَلْفاتُ الباروموميسين	paromomycin sulfate
+سَلفاثيدول	sulfaethidole
+سَلفادوكسين	sulfadoxine
+سَلفارسفينامين	sulfarsphenamine
+سَلفاغوانيدين	sulfaguanidine
+سَلفالين	sulfalene
+سَلفاميتر	sulfameter
+سَلفاميثوكسازول	sulfamethoxazole
+سَلفاميثيزول	sulfamethizole
+سَلفونُ إيثيل الميثان	sulfonethylmethane
+سَلفوناميد	sulfonamide
+سلة اللقاح	corbicula
+سَليفَةُ الهُرْمون	hormogen (prohormone)
+سُمٌّ لاذِعٌ مُخَدِّر	acronarcotic poison (acrosedative poison)
+سُمٌّ لاذِعٌ مُهَدِّئ	acrosedative poison
+سَماديرين	samaderin
+سَماعٌ لَونِيّ	audition colorèe
+سماعة الاذن	(telephone) earphone; (telephone) earphone capsule
+سِمْنَةُ فَرْطِ الأَنْسولين	hyperinsulinar obesity
+سُمومٌ مُخَدِّرَة	narcotic poisons
+سُمومٌ مُهَدِّئة	sedative poisons
+سِنْتازون	cinnopentazone (cintazone)
+سَهْل المنال: ممكنٌ شراؤهُ بلا وصفةٍ طبية	over-the-counter
+سوتيرينول	soterenol
+سوتيلينز	sutilains
+سودارشان شورنا	sudarshan shurna
+سورامين	suramin
+سولاسَلفون	solasulfone (solapsone)
+سولانين	solanine
+سيالُوغاسْترُون	sialogastrone
+سيانو كوبالامين =	cyanocobalamine
+سَِيبْرازيبام	cyprazepam
+سِيبْرُوفِبْرات	ciprofibrate
+سِيبْرُوهيِبْتادين	cyproheptadine
+سيبيريدُول	seperidol
+سَيبْيُونات	cypionate
+سيتابين	cetaben
+سيتارابين	cytarabine
+سِيتْريمُونْيُوم	cetrimonium
+سِيتْريميد	cetrimide
+سيتيديل	cetiedil
+سيتيل بِيريدِينْيُوم	cetylpyridinium
+سيديرُوميسِين	sideromycin
+سيرسينغوبين	syrosingopine
+سيزوميسين	sisomicin
+سِيسْبلاتين	cis-platinum
+سِيسْبلاتين	cisplatin
+سيفابارُول	cefaparole
+سيفابَيرين	cephapirin
+سيفاتْريزين	cefatrizine
+سيفادْرُوكْسيل	cefadroxil
+سيفازافلُور	cefazaflur
+سيفازُولين	cefazolin
+سيفاسِيتْريل	cephacetrile
+سيفاكلُور	cefaclor
+سيفالوتين	cephalothin
+سيفالُوريدين	cephaloridine
+سيفالوسْبورين	cephalosporin
+سيفالُوغليسين	cephaloglycin
+سيفالِيكْسِين	cephalexin
+سيفامَنْدُول	cefamandole
+سيفاميسين	cephamycin
+سيفْرادين	cephradine
+سيفُوتاكْسيم	cefotaxime
+سيفُورانيد	ceforanide
+سِيفُوفلُوران	sevoflurane
+سيفُوكْسيتين	cefoxitin
+سيفيرت	sievert
+سِيكْرِيمِين	cycrimine
+سِيكْلاَزُوسين	cyclazocine
+سِيكْلافْرين	ciclafrine
+سِيكْلاَمين	cyclamin
+سِيكْلانْدِيلاَت	cyclandelate
+سِيكْلُوبارْبِيتال	cyclobarbital
+سِيكْلُوبروفين	cicloprofen
+سِيكْلُوبِنْتامين	cyclopentamine
+سِيكْلُوبِينِثيازِيد	cyclopenthiazide
+سِيكْلُوثيازيد	cyclothiazide
+سِيكْلُوسيرين	cycloserine
+سِيكْلُوغْوانيل	cycloguanil
+سِيكْلُوفُسْفاميد	cyclophosphamide
+سِيكْلُومِيتِيكائِين	cyclomethycaine
+سيكُوبارْبيتال	secobarbital
+سيكورينين	securinine
+سيليكس	silex
+سيليكول	silicol
+سيماروبيدين	simarubidin
+سيميتيدين	cimetidine
+سيميثيكون	simethicone
+سِيناريزين	cinnarizine
+سينالبومين	synalbumin
+سينانسيرين	cinanserin
+سِينرُوميد	cinromide
+سِينْكُوفين	cinchophen
+سِينْكُونِيدين	cinchonidine
+سِينْكُونين	cinchonine
+سينُوزيد	sennoside
+سينيبازيت	cinepazet
+سينيفنغين	sinefungin
+سينيول	cineol (eucalyptol)

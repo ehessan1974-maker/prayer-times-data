@@ -1,0 +1,87 @@
+جازولين خالٍ من الرصاص	Unleaded Gasoline
+جاسوس	spy
+جالينا	galena
+جانِب	flank
+جانب أسير للسفينة	fort side
+جانِبُ السِّن	tooth flank
+جانِب الطيّة المحدبة	anticlinal flank
+جبّار	armipotent
+جَبهة قتال	battlefront
+جَبَى الضرائِبَ	levy
+جِدارُ الخَنْدق الخارجي	counterscarp
+جِدارٌ جانبي	flank wall
+جدول القصف	bombing table
+جدولُ فولاذ التسليح	bending schedule
+جرائم حرب	war crimes
+جراب الجراية: جراب للمؤونة يحمله الجندي	haversack
+جَرَّاحُ المَرْكَزِ العَسْكَرِيّ	post surgeon
+جرّافة الألغام	paravane
+جَرّافةُ ألغام	paravane
+جَراية الطوارئ: رزمة خفيفة تحتوي على	K ration
+جُرْحُ الرَّصاصَة	bullet wound
+جُرْحٌ نارِيّ	firearm wound
+جَرَّدَ من السِّلاح	demilitarize
+جَرَّدَ من السِّلاح	disarm
+جريمة الحرب: جريمة	war crime
+جريمة العدوان	crime of aggression
+جريمة عسكرية	military crime
+جُزْئِيُّ الإِلْغَامِ	partially amalgamated
+جزيرةُ المُشاة	street refuge
+جِسْر	bridge
+جسر السّابلة: جسرٌ مخصَّص للمشاة	footbridge
+جِسر المُشَاة	footbridge
+جِسرٌ للمُشاة	footbridge
+جِسْم	corpus
+جَفْر	naval electronic laboratory international algorithmic code, (N.E.L.I.A.C.)
+جلبة التعبئة	filling sleeve
+جمّع الملازم	gather (to)
+جَميعة	battery
+جناح الطيّة	fold flank
+جناح سهمي	arrow wing
+جناح طية	fold flank; limb
+جَنَّد	enlist
+جَنَّدَ	recruit
+جُنْد العاصفة: قوّات الانقضاض النازيّة	storm troops
+جُنْدُ المُشاة	infantry
+جنديّ	doughboy
+جُنْديّ	soldier
+جنديّ العاصفة: «أ» أحد أفراد قوّات	storm trooper
+جنديّ أوّل	lance corporal
+جندي بريطاني. وبخاصة إبّان الثورة	redcoat
+جندي طيران	Aircraftman
+جنديّ متبجّح	miles gloriosus
+جنديُّ مشاة	infantryman
+جنديّ من المشاة	foot soldier
+جنديّ. وبخاصة: فارسٌ مدجَّج بالسلاح	man-at-arms
+جنين مسدس الأشواك	onchosphere
+جهاز إدارة الأسطول	GO Device
+جهاز الإنذار ضد السرقة والاقتحام	electronic anti-theft warning system (EDW)
+جهاز التحكم في صهريج التخزين	storage tank controller
+جهاز التوجيه	steering gear
+جهاز القيادة	controls
+جهازُ تحَكُّم	control gear
+جهاز تخزين الشحنات ونقلها على التوالى	bucket-brigade device
+جهاز تعبئة البراميل آليًّا	barrel filler
+جهاز صاروخ الاغاثة	rocket apparatus
+جهاز ضبط بالمنطق الغامض	Fuzzy Controller
+جهاز ضبط بالمنطق الغامض	fuzzy logic controller
+جهاز ضبط بالمنطق الغامض	Fuzzy-Controller
+جهاز ضبط بالمنطق الغامض	fuzzy-logic-controller
+جِهاز قَذْف	launcher
+جِهازُ قيادةٍ بالجَريدة والتُّرس	rack-and-pinion steering gear
+جهاز قيادة مساعد	auxiliary steering arrangement local
+جُهدٌ تَفجيري	explosive potential
+جهد شبكة قيادة المهبط	grid/cathode driving voltage; modulation voltage
+جو غازى متفجر	explosive gas atmosphere
+جو غبارى متفجر	explosive dust atmosphere
+جو متفجر	explosive atmosphere
+جواد الحرب: «أ» جواد يُستَخدَم في الحرب	warhorse
+جودة الإمدادات	supply quality
+جَولةُ استِطلاع	field trip
+جولة القصف	bomb run
+جولة وهمية	dummy round
+جيش	army
+جيش الاحتلال	occupation army
+جيش التحرير	liberation army
+جيش الخلاص: منظمة مسيحية شبه عسكرية لنشر	Salvation Army
+جيش النجدة	relieving army

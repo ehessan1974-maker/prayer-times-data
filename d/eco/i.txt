@@ -1,0 +1,434 @@
+I/O	دخل/خرج
+I/O channel	قناة دَخْل / خَرْج
+I/O controller	متحكّم دخل/خرج
+I/O device	تجهيزة دخل/خرج
+I/O port	مَنْفَذ دخل/خرج
+I/O processor	معالج دخل/خرج
+I/O-bound	مقيَّد بالدخل/الخرج
+I2O	دخل/خرج ذكيّان
+icteroanemia	فَقْرُ دَمٍ يَرَقانِيّ
+identifiable	يُمكِنُ تَعَرُّفُه (أو تَحديدُ هُوِيَّتِه)
+identification manual (cites)	دليل تحديد الهوية (اتفاقية التجارة الدولية في الأنواع المهددة بالانقراض)
+idiopathic anemia	فَقْرُ الدَّمِ المَجْهول السَّبب
+idiopathic hypochromic anemia	فَقْرُ الدَّمِ النَّاقِصُ الصِّباغِ المَجْهولُ السَّبَب
+idiopathic macrocytic anemia	فَقْرُ الدَّمِ الكَبِيرُ الكُرَيَّاتِ المَجْهولُ السَّبب
+idiopathic megacolon	تَضَخُّمُ القَوْلُوْنِ المَجْهُوْلُ السَّبَب
+idle	(1) «أ» تافه؛ لا قيمة أو أساس له idle rumor. «ب» عديم الجدوى (2) «أ» عاطلٌ عن العمل. «ب» سائب: غير مستخدَم استخدامًا ملائمًا أو مفيدًا idle capital (3) «أ» كسلان؛ مهمِل a careless idle worker. «ب» غير ذي مهنة أو موارد شرعية واضحة (4) «أ» يتبطّل؛ ينفق وقته في البطالة. «ب» يتكاسل (5) يتسَيَّب: يدور على نحو غير ناقل للطاقة The engine is idling. (6) ينفق [الوقتَ] بالتراخي والكسل (7) «أ» يعطِّل [عن العمل]. «ب» يُسَيِّب: يجعله يدور على نحو غير ناقل للطاقة إلخ to idle a motor.
+idle time	زَمَنُ التعَطُّل / 1 زمن الراحة ؛ 2 زمن البطالة
+ileal stasis	رُكودٌ لَفائِفِيّ
+illegal dividend	ربيحة غير قانونية
+illegal traffic; illegal trade	تجارة غير قانونية، تجارة غير مشروعة
+illiquid	غير سائل: غير نقديّ أو غير قابل للتحويل، بسهولة، إلى نقد (اد).
+imagery eXploitation	استثمار التصوير
+Imitated goods	سلع مقلدة
+Imitated trade name	علامة مقلدة
+immune	(1) مُعْفًى؛ مُستثنًى [من الضرائب إلخ] (2) منيع؛ حصين؛ ذو مناعة أو حصانة [من مرض أو ضغط سياسي إلخ] (3) مَناعيّ: خاصّ بالمناعة (4) المُعْفَى؛ المُسْتَثْنَى (5) المنيع؛ الحصين.
+immunity (used when dealing with international trade agreements and OPEC)	حصانة
+immunoblastic lymphadenopathy	تَضَخُّمُ العُقَدِ اللِّمْفِيَّةِ ذو الأَرُوماتِ المَناعِيَّة
+immunohemolytic anemia	فَقْرُ الدَّمِ الإنْحِلالِيُّ المَناعِيّ
+impawn	يَرْهَن: يُوْدِع على سبيل الرَّهْن (ا.ق).
+impedance, effective input	مُعاوقَةُ الدَّخْل الفَعَّالة
+import	استيراد / استيراد خارجي
+import	اِستيراد، وارِد؛ مَضْمُون، فَحْوَى، مَعْنَى؛ أَهَمِّيَّة؛ اِستورَدَ، جَلَبَ مِن الخارِج؛ دَلَّ ضِمْنًا على / يَستورد / اسْتِيرَاد / استيراد / الاستيراد
+import	استيراد
+import	(1) «أ» يعني؛ يفيد [معنًى]. «ب» يُفيد ضمنًا (2) يستورد (3) يَهُمُّ؛ يكون ذا أهمية (4) معنًى؛ فحوى؛ مضمون (5) أهمية؛ شأن (6) سلعة مستورَدة (7) استيراد.
+Import Barriers	حواجز الاستيراد
+Import Duties	رسوم الاستيراد
+import duty	رَسْمُ الاستيراد
+import duty	رسم استيراد، ضريبة استيراد
+import license	إجازةُ استيراد
+Import Price Index	الرقم القياسي لأسعار الواردات
+import quota	كُوتا استيراد
+Import Subsidies	الإعانة على الواردات
+import subsidy	إعانة استيراد، دعم للاستيراد
+import subsidy	إعانةُ استيراد
+import trade	تجارة استيراد
+import-export	استيراد وتصدير
+importance	أَهَمِّيَّة، شأْن
+importance	أهميّة؛ شأن.
+importance function	دالة الأهمية (ن)
+importance, primary	أَهمِّيَّة أَوَّلِيَّة
+important	(1) هامّ (2) ذو شأن أو سلطة.
+important bird areas (ibas)	مناطق الطيور الهامة
+importation	(1) استيراد (2) شيء مستورَد.
+importation	اِستيراد؛ تَوريد؛ وَارِد
+imported	وافِد
+imported backfill	ردم مستجلب
+imported disease	مَرَضٌ وافِد
+Imported Flare Gas Index	مؤشر حرق الغاز المستورد
+Imported Goods (Imports of Goods)	سلع مستوردة (واردات السلع)
+Imported Services (Imports Of Services)	خدمات مستوردة (واردات الخدمات)
+Importer	مستورد
+importer	مُستورِد
+importing country	البَلَدُ المُستَورِد
+Importing the design	استيراد التصميم
+Imports	واردات
+Imports As a Percentage of GDP	الواردات كنسبة من الناتج المحلي الإجمالي
+Imports of Goods	الواردات السلعية
+Imports of Goods and Services	واردات البضائع والخدمات
+Imports Value (CIF)	قيمة الواردات (سيف)
+importunate	(1) مُلِحّ؛ مُلْحِف (2) مزعج.
+importune	(1) مُلِحّ؛ مُلْحِف (2) مُزْعِج (3) يُلحّ على؛ يُلْحِف (4) يُزعج.
+importunity	(1) إلحاح؛ إلحاف (2) pl.: مطالب مُلِحَّة.
+impose	فَرَضَ، أَلْزَمَ؛ تَقَاضى (ضَريبةً أو رَسْمًا)
+impose	(1) يفرض to impose taxes (2) يَضَع (3) يرتِّب صفحات المَلزمة [على الآلة الطابعة إلخ] (4) يفرض عليه سلعة بالحيلة أو بالخِداع (5) يتطفَّل على (6) يستغلّ You have impose d on her good nature. (7) يَخْدع was clever enough to impose on the public.
+imposition	(1) مص impose (2) «أ» ضريبة. «ب» عبء ثقيل (3) حيلة؛ خدعة.
+impotence|impotency	العُنَّة؛ العجز الجنسيّ.
+impotentia erigendi	عَنانَةٌ انْتِعاظِيَّة / عَجْز النُّعوظ
+impotentia generandi	عَنانَةٌ إِنْجابِيَّة / عَجْز عن التناسل
+impounding reservoir bank	سَدّ حاجِز
+impregnated deposits	رواسب مُتشرِّبة
+impregnation deposit	راسب تشربي
+impress	وَسَمَ؛ طَبَعَ، أَثَّرَ، بَصَمَ؛ صادَرَ (لِلْمَصْلَحة العامَّة)؛ جَنَّدَ أو صَادَر بالإكراه
+imprest	سُلْفَة، سُلْفَة على الرَّاتِب
+imprest	سُلْفة؛ قَرْض.
+In kind Assets	أصول عينية
+in low water	في ضائقة؛ في عُسْر ماليّ.
+in order of size or importance	بحسب الحجم أو الأهمية.
+in Queer street	(1) مدين؛ مديون؛ مُعانٍ أزمةً مالية (2) في ورطة؛ في حَيْص بَيْص.
+in straiten ed	في ضِيْق؛ في أزمة ماليّة شديدة.
+in the bank	مَدِين؛ مديونٌ؛ واقع تحت دين.
+in the black	دائن؛ غير مَدين.
+in the hole	(1) تحت الصفر [في بعض الألعاب]مَدين. (2) مَدين.
+in the pipeline	في الطريق؛ على وشك أن تُسلّم [تُقال في السِّلَع].
+in use	رَهْن الاستعمال؛ قَيْد الاستعمال.
+inability	عَدَمُ استِطاعة، عَجْز
+Inbound Foreign Direct Investment	الاستثمار الأجنبي المباشر الداخل
+incentive (economic)	حافز (اقتصادي)
+incentive-based rehabilitative economics	اقتصاد تأهيلي قائم على الحوافز
+incidental	(1) «أ» اتفاقيّ؛ تصادُفيّ. «ب» عَرَضيّ؛ ثانوي (2) طارئ incidental expenses (3) pl.: نفقات طارئة (4) الطارئ: حادثٌ عَرَضيّ.
+Incline Block Tariff	تعريفة حسب شرائح الاستهلاك
+inclusive	(1) شامل (2) مشتملٌ [جميعَ النفقات أو الخدمات إلخ من غير رسوم إضافية] (3) متضمِّن؛ بما فيه a household of nine persons, inclusive of the servants. from Monday to Saturday inclusive : من الإثنين إلى السبت ضمنًا.
+Inclusive Economic Growth	نمو اقتصادي شامل
+income	إيراد، رَيْع، دَخْل / الدخل
+income	دَخْل؛ إيراد.
+income	دَخَلٌ
+income	مَدْخول
+income	دَخْل، أجْر
+income in kind	دَخْل عينيّ، أجْر عينيّ
+income statement	بيان الأرباح والخسائر
+Income Statement	قوائم الدخل
+income tax	ضريبة الدخل
+income tax	ضَرِيبةُ الدَّخْل
+income tax	ضريبة الدَّخل.
+incoming goods	سِلَع عند الوصول
+inconsumable	غير قابل للاستهلاك أو الإتلاف أو الإحراق.
+incontinence|incontinency	(1) «أ» غُلْمَة؛ انقياد للشهوة الجنسية. «ب» فجور؛ فُسوق (2) سَلَس البول أو الغائط: عجز الجسم عن ضبط البول أو الغائط.
+inconvertible	(1) غير قابل للتحويل إلى عملة معدنية inconvertible paper money (2) غير قابل للتحويل إلى عملةٍ أجنبية inconvertible currency.
+incorporate	(1) «أ» يَدْمُج. «ب» يُدخِل في نقابة أو شركة (2) ينشئ نقابة أو شركة (3) يُجَسِّد (4) يندمج (5) مندمج؛ متَّحِد.
+incorporate	دَمَجَ، اِنضَمَّ، أدمَجَ، أَدْرَجَ (ضِمْنَ)؛ أَلَّفَ، أَسَّسَ (نِقابةً أو شَرِكة)
+incorporated	مُنْدَمِج، مُدَمَّج، مُتَّحِد (في جَمعيَّةٍ تَعاوُنيَّة)
+incorporated company	شَرِكةٌ مَحْدودة
+incorporation	اِندِماج، إدماج، اِنضِمام؛ إدراج؛ تَأسيس (شَرِكة أَو نِقابة)
+incorporation	(1) دمج؛ اندماج (2) تأسيس شركة أو نقابة أو قبولٌ فيهما (3) تجسيد (4) شركة أو نقابة.
+incorporeal assets	أموال معنوية
+incurred expenses	النَّفَقَاتُ المُتَكبَّدة
+indebted	مَدِين [بمالٍ أو فَضْل].
+indent	(1) يشْرِم: يَمْزق طرف وثيقة [ذات نسختين أو أكثر] ابتغاءَ التثبّت والاستيثاق عند المقابلة (2) يُضاعف: يحرِّر نسختين متماثلتين [أو أكثر] من اتفاقية أو نحوها (3) يفرِّض؛ يَفُلّ؛ يسنّن (4) يُمَهِّن: يستخدم [غلامًا ممهَّنًا أو صانعًا متمرنًا] بعقد رسمي لمدة معيَّنة (5) يَفُلّ؛ يُفَلِّل: يكتب تاركًا بياضًا مشيرًا إلى ابتداء الفقرة (6) يطلب بضاعة [مُرسِلًا طلبَ شراء] (7) يَبْعَج (8) يتفرَّض؛ يتثلّم؛ يتسنّن؛ ينبعج (9) يقدِّم طلب شراء (10) .أ» وثيقة أو جزء من وثيقة مُزّق طرفها ابتغاء التثبت والاستيثاق عند المقابلة. .ب» وثيقة رسمية ذات نسختين أو أكثر. .ج» عقدٌ لاستخدام غلام ممهَّن (11) .أ» طلب رسمي. .ب» طلب شراء (12) indention (13) indentation.
+indent	فَرَّضَ، حَزَّ، ثَلَمَ؛ قَطَعَ بِشَكْلٍ مُتَعَرِّج؛ سَحَبَ أو طَلَب بِضاعة؛ فُرْضَة، ثُلْمَة، حَزٌّ؛ قَسِيمةُ طَلَب بِضاعة / 1 إزاحة نحو الداخل ؛ 2 إزاحة نحو الداخل / يُزيح [النص] / إزَاحَةٌ
+independant producer	مُنتِج مستقل
+Independent Power Producer	منتج مستقل للكهرباء
+independent power producer; independent power generator	منتج كهرباء مستقل؛ مولد كهرباء مستقل
+index	(1) فِهرست (2) مؤشِّر (3) علامة؛ دلالة (4) قائمة الكتب المحرَّمة [من قِبَل السلطة البابوية] (5) الأُسّ؛ الدليل (ر) (6) السبّابة: رمز (7) يفهرس: .أ» يجعل للكتاب فهرسًا. .ب» يُدْخل [كلمةً] في فهرس (8) يؤشِّر: يعدِّل الأجور إلخ تبعًا لمؤشّر نفقة المعيشة.
+index of liquidity	دَليلُ السُّيُولَة (الطينيَّة)
+Indiaman	سفينة شراعية ضخمة [للتجارة مع الهند].
+Indian summer	الصيف الهندي: «أ» فترة تتميّز بدفء الجو أو اعتداله في أواخر الخريف أو أوائل الشتاء. «ب» فترة هدوء أو سعادة أو ازدهار تقع قبيل انتهاء شيء ما the Indian summer of Czarist Russia.
+indicator, turn-and-bank	مُبَيِّنُ الدَّوران والعُطوف
+indigence	عَوَز، فقْر
+indirect economic impacts	آثار اقتصادية غير مباشرة
+indirect tax	الضريبة غير المباشرة.
+indirect tax	ضريبة غير مباشرة
+indirect tax	ضرائب غير مباشرة
+Individual Consumption Expenditure	الإنفاق على الاستهلاك الفردي
+industrial	(1) صناعي (2) عامل [في مصنع] (3) شركة صناعية (4) pl.: سندات صناعيّة إلخ.
+Industrial Consumer	مستهلك صناعي
+industrial disablement	عجز عن العمل
+industrial shares	أسهم العمل
+industrial tariff	تعرفة صناعية
+industrial, commercial and service companies waste	نفايات المُنشآت الصناعية والتجارية، وقطاع تقديم الخدمات
+industrialisation	تصنيع
+industrialism	الصناعيّة: تنظيم اقتصادي للمجتمع يعتمد في المقام الأول على الصناعة الآلية [لا على الزراعة أو التجارة أو الحِرَف اليدوية].
+industrialism	حركة التصنيع
+industrialist	الصّناعي؛ المنتِج الصناعي؛ صاحب المصنع.
+industrialization	(1) التصنيع (2) التَّصنُّع: كون المجتمع صناعيًا.
+industrialization	تصنيع
+industrialization	تَصْنيع
+industrialize	تصنيع
+industrialize	(1) يُصَنِّع: يحوِّل المجتمع الزراعي إلى مجتمع صناعي (2) يتصنَّع: يتحوَّل إلى مجتمع صناعي .
+industrialize	صَنَّعَ، نَظَّمَ أو أقامَ كصِناعَةٍ مُستَقِلَّة
+industrialized building	البِنَاءُ المُصَنَّع
+industrialized buildings	مَبَانٍ مصنّعة
+inefficacy	اللافعّاليّة: العجز عن إحداث الأثر المطلوب inefficacy of laws in preventing crime.
+infectious anemia of horses	فَقْرُ الدَّمِ الخَيلِيُّ العَدْوائِيّ
+infectious hemolytic anemia	فَقْرُ الدَّمِ الانْحِلالِيُّ العَدْوائِيّ
+infectious splenomegaly	تَضَخُّمُ الطِّحالِ العَدْوائِيّ
+infective splenomegaly (infectious splenomegaly)	تَضَخُّمُ الطِّحالِ العَدْوائِيّ
+infirmity	عَجْزٌ
+inflammable cargo	بضاعة لهوبة
+inflation	نَفْخ؛ اِنتِفاخ؛ تَضَخُّم؛ تَمَدُّد / التضخم
+inflation	تضخُّم، انتفاخ
+inflation	(1) نفخ؛ انتفاخ (2) غرور؛ ادّعاء فارغ (3) «أ» التضخُّم؛ التضخّم المالي: ازدياد في حجم العملة المتداولة لا تصاحبه زيادةٌ مماثلة في حجم الإنتاج مما يؤدّي إلى ضعف في قوة العملة الشرائية. «ب» ارتفاع كبير في الأسعار ناشئ عن التضخُّم المالي (اد).
+inflation	تضخُّم
+inflation	تضخم مالي / تضخم
+inflation manifold	مَشْعَب النفخ
+Inflation Rate	معدل التضخم
+inflation sleeve	جُلبة النفخ
+inflation sleeve	كُمُّ أو جُلْبَةُ نَفْخ
+inflation valve	صِمامُ نَفْخ
+inflationary	تضخُّميّ (اد).
+inflationism	التّضخُّميّة: الدعوة إلى التضخّم الاقتصادي.
+inflationist	التضخُّمي: المؤيّد للتضخُّم الاقتصادي.
+Informal Economies	الإقتصادات غير الرسمية
+Informal Employment	العمالة غير الرسمية
+information	معلومات / إعلام (اقتصادي)
+information	(1) «أ» إعلام؛ إخبار. «ب» عِلْم؛ اطّلاع. «ج» معرفة (2) «أ» أخبار؛ أنباء. «ب» حقائق؛ معلومات (3) اتهام رسميّ [صادر عن النيابة العامة].
+information bank	بَنْك معلومات
+information economy	اقتصاد المعلومات
+information on tariffs	معلومات عن التعريفة
+inheritance tax	ضريبة التركات
+Injunctions	الأمر الزجري التجاري
+ink coverage	معدل استهلاك الحبر
+inland navigation company	شركة الملاحة الداخلية
+Innovation Audit	تدقيق الابتكار
+input	دَخْل
+Input	مُدْخَلَات / دَخْل / مدخلات
+input	دَخْل، مُدْخَل؛ دَخْلٌ آليّ؛ قُدْرَةٌ مَبذولة؛ دَخْل، مُدخَلات؛ إدخال؛ مَدْخَل / دَخْل
+input	دخل / دخْل ; مدخل
+input	(1) «أ», الدَّخْل: «ب» كلّ ما يُدْخَل إلى شيء أو يزوَّد به شيء. «ج» الطاقة التي تُزَوَّد بها آلةٌ ما. «د» المُعْطيات التي يُغَذَّى بها الكومبيوتر (2) التغذية: تزويد الكومبيوتر بالمعطَيات (3) يُغَذِّي: يزوِّد الكومبيوتر بالمعطَيات.
+Input	دَخْل / مدخل
+input admittance	سماحية دخل / سماحية الدخل
+input area	منطقة دخل
+input aXis	محور الدخل
+input block	كُتْلةُ الدَّخْل
+input buffer	صِوان دخل
+input buffer register	سجل دخل صِوانيّ
+input channel	قناة دخل
+input circuit	دارةُ الدَّخْل
+input circuit (for elementary relays)	دارة الدخل (للمرحلات البسيطة )
+input circuit connection (ABS)	دائرة دخل (نظام منع غلق العجلات (ABS))
+input circuit,	دائرة دخل, لمُرَحِّل قياس او نظام وقاية
+input conductance	مُواصَلَةُ المَدْخول
+input control	تحكّم الدخل
+input current	تيّارُ الدَّخْل
+input device	نبيطةُ (أو أداة) إدخال / تجهيزة دخل / جِهاز إدخال / جهاز إدخال
+input driver	سوَّاق دخل
+input element	عُنصر دخل
+input heat	حَرارةُ الدَّخْل
+input immittance; driving-point immittance	قبولية معاوقة دخل
+input impedance	معاوقة دخل / دارات دخل وخرج بنقطة معزولة مشتركة / ممانعة ( معاوقة)الدخل / المعاوقة الداخلة
+input impedance	ممانعة الدخل
+input impedance	مُعَاوَقَةُ الدَّخْل
+input matrix	مصفوفة دخل
+input module	وحدة دخل
+input of an engine	دَخْلُ المُحَرِّك
+input port	منفذ دخل
+input port	مَنفَذُ دخْل / بَوَّابَةُ الدَّخْل
+input power	قُدرَةُ الدَّخْل
+input power	قدرة دخل / قدرة مُدخلة
+input power (of a machine)	قدرة الدخل (لآلة)
+input power control	تحكم في قدرة الدخل
+input pressure	ضَغْطُ الدَّخْل
+input quantity	مقدار الدخل
+input resistance	مُقاومة دخل
+input resonator	رنّان الدخل
+input signal	إشارة الدخل
+input signal (of a transmission system); transmitted source signal	إشارة الدخل (لنظام ارسال)
+input signal,	إشارة دخل, لمُرَحِّل قياس او نظام وقاية
+input span	مدى متغيِّر الدخل
+input stream	دفقة دخل
+input terminal	طرف دخل
+input time constant	ثابت زمن الدخل
+input transfer rate	معدل تحويل الدخل
+input unit	وَحْدَةُ الدَّخْل، مُعَدّاتُ الدَّخْل
+input variable	متغير الدخل
+input vector	مُتجه الدخل
+input voltage	ڤلْطِيَّة الدَّخْل
+input voltage	فُلطية الدخل
+input voltage	جهد الدخل / جهد مُدخل
+input,	دخل,
+input, adj	دخل (صفة)
+input, rated	الدَّخلُ المُقَنَّن
+input-bound	مقيَّد بالدخل
+input/output	دخل/خرج / إدخال/إخراج
+Input/Output	دخل وخرج شبكة المجال العملياتي'Profinet IO'
+input/output (I/O)	دَخْل/ خَرْج
+input/output area	منطقة دخل/خرج
+input/output buffer	صِوَانُ دخل/خرج
+input/output bus	مسرى دخل/خرج
+input/output channel	قناة دخل/خرج
+input/output controller	متحكم دخل/خرج
+input/output device	تجهيزة دخل/خرج / جِهاز إدخال/إخراج
+input/output interface	واجهة دخل/خرج
+input/output port	منفذ دخل/خرج / بَوَّابَةُ الدَّخْرَجَة
+input/output processor	معالج دخل/خرج
+input/output statement	عبارة دخل/خرج
+input/output-bound	مُقَيَّد بالدخل/الخرج
+inscribed stock	أَسهُمٌ مُسَجَّلة
+inscription	(1) «أ» نقش؛ كلام منقوش. «ب» التتويج: عبارة مُقْتَبَسة يُصَدَّر بها كتاب أو فصلٌ لتوحي بفكرته العامة. «ج» النقش: الكلام المنقوش على قطعة نقدية أو مدالية إلخ (2) إهداء الكتاب أو الأثر الفني إلى شخص ما تقديرًا له أو اعترافًا بفضله (3) «أ» الكتابة؛ الحَفْر؛ الطَّبْع. «ب» الإدراج: إدراج اسم شخص في قائمة (4) رسم دائرة مماسّة من الداخل (ر) (5) تسجيل أسماء حَمَلَة الأسهم (6) pl.: الأسهم المسجَّلة [بأسماء حَمَلتِها].
+Insider Trading	تداول من الداخل
+insolvency	الإعسار: عجز عن تسديد الديون.
+insolvency	إفلاس، تَوَقُّفٌ أَو عَجْزٌ عن وَفاءِ الدُّيون
+Insolvency	إعسار
+Insolvency Risk	مخاطر الإفلاس
+insolvent	(1) «أ», مُعْسِر: «ب» عاجز عن دفع ديونه. «ج» غير كافٍ لوفاء جميع الديون المقابلة له an insolvent estate (2) مُعْوِز؛ مُفلس (3) إعساريّ؛ إفلاسي insolvent laws (4) المُعْسِر: العاجز عن دفع ديونه.
+inspissated deposits	رَواسِبُ أسفَلتيَّة مُغَلَّظة (بالأكْسَدة والتبَخُّر)
+Installation Fee for Business Telephone Service	رسوم تركيب خدمة الهاتف التجاري
+institutional investor	مستثمر مؤسساتي
+Institutional Investors	مستثمرين مؤسسيين
+instructions for the dispatch of goods (IDG)	تصريح بإرسال البضائع
+instrument, economic	جهاز اقتصادي
+insufficience|insufficiency	(1) «أ» عدم كفاية [أخلاقية أو عقلية]. «ب» اللّاكفاءة: عدم الأهلية لمنصب (2) نَقْص؛ قصور [في المؤن إلخ] (3) القصور: عجز عضوٍ من أعضاء الجسد عن أداء وظيفته بصورة سَوِيّة (ط).
+insulin	الإنسولين: «أ» هرمون بروتينيّ تفرزه غدّة البنكرياس. «ب» مستحضر تجاريّ من هذا الهرمون.
+insurance charges	مصاريف التأمين
+insurance company	شركة تأمين
+Insurance Corporations and Pension Funds	شركات التأمين وصناديق المعاشات التقاعدية
+insurance, disablement	تأمينٌ ضِدّ العَجْز
+intake	مَدْخول / مَدْخُول / راتب غذائي / مدخول / أَخْذ
+intake	(1) المَسْرَب: فتحة يدخل منها السائل إلى قناة أو أنبوب (2) «أ» أخْذ؛ امتصاص؛ استنشاق إلخ. «ب» تضيُّق؛ تقلُّص (3) المقدار المأخوذ أو الممتَصّ أو المستنشَق (4) عدد المنضمّين؛ عدد الملتحقين (5) الدَّخْل: الطاقة التي تزوَّد بها آلة ما.
+intake, caloric	المدخول السعري
+intake, fluid	مدخول السوائل
+intangible Asset	أصول غير ملموسة
+intangible costs	نَفَقاتٌ غيرُ مَنْظورة
+Intangible Fixed Assets, Net of Disposals	الأصول الثابتة غير الملموسة مخصوما منها المتخلص منها
+integrated crop-livestock zero tillage system	نظام متكامل للمحاصيل والثروة الحيوانية بدون حرث
+intellectual capital	رأسمال فكري
+Intellectual Capital	رأس المال الفكري
+Intelligent Input/Output	دخل/خرج ذكي
+intensive	(1) كثيف؛ شديد؛ مُرَكَّز intensive fire from machine guns (2) مقوٍّ؛ مشدِّد. وبخاصة: مؤكِّد Certainly is an intensive adverb. (3) تكثيفي: متعلِّق بطريقة في الزراعة تهدف إلى زيادة إنتاجية أرض ما من طريق زيادة رأس المال واليد العاملة المخصّصَيْن لها [وضدها extensive] (4) المؤكِّد: عنصر لغويّ دالٌّ على التوكيد (ل).
+Inter-bank Interest Rate for Three Months	أسعار الفائدة بين المصارف لمدة ثلاثة أشهر
+Inter-Trading	تجارة بينية
+interaccessory	بَينَ النَّواتِىءِ الإِضافِيَّة (لِلْفَقَرات)
+interbody	بَينَ الجِسْمَين (في الفِقْرات)
+interdict	(1) الحِرْم: حِرْم من شركة المؤمنين (نص) (2) مَنْع؛ تحريم (3) يحرِم [من شركة المؤمنين] (4) يمنع؛ يحرّم (5) يدمّر أو يقطع [خطّ تموين العدوّ إلخ] بقذفه بالنيران.
+interest	(1) «أ» حصة؛ أسهم. «ب» مشاركة [في الربح والمسؤولية] (2) «أ» فائدة؛ رِبا (اد). «ب» زيادة؛ علاوة (3) مصلحة an arbitrator having no interest in the result (4) خير؛ صلاح؛ مصلحة. وبخاصة: منفعة ذاتية (5) الوَلوع: شيء يولع به المرء Her two great interest s in life are music and painting. (6) شوق؛ عناية؛ اهتمام had little interest in that subject (7) تشويق؛ عنصر التشويق Suspense adds interest to a novel. (8) أهمية؛ شأن a question of primary interest (9) تأثير؛ نفوذ شخصي interest with the boss (10) أصحاب النفوذ (11) يُرغِّب؛ يَحُثّ على الاشتراك to interest a banker in a loan (12) يثير انتباه شخص أو فضوله The movies did not interest him..
+interest free of tax	فوائد معفية من الضرائب
+interest rate	مُعدَّل الفائِدة
+interest rate	سِعْر الفائدة / سعر الفائدة
+interest rate	معدَّل الفائدة (اد).
+Interest Rate Differential (IRD)	فرق سعر الفائدة
+interested	(1) راغب؛ مهتمّ (2) مشارِك؛ ذو حصة أو أسهم one interested in the funds (3) مستثار الانتباه interested spectators (4) متأثر بدوافع شخصية أو أنانية an interested witness.
+interior economy	اقتصاد داخلي
+interior economy	ألاقتِصادُ الدّاخِلي
+interlope	(1) يتطفّل على تجارة (2) يتدخَّل.
+Intermediary Goods	سلع وسيطة
+Intermediate Consumption	الاستهلاك الوسيط
+intermediate sacral crest	العُرْفُ العَجُزِيُّ الأَوسَط / العُرْفُ المُتَوَسِّطُ للعَجُز
+intermodal freight transport	نقل البضائع متعدد الوسائط
+intermodal marketing company	شركة التسويق متعددة الوسائط
+internal audit	مراجعة داخلية، تدقيق داخليّ
+internal audit	تَفْتِيْشٌ داخِلِيٌّ للحِساب
+Internal Audit Department	دائرة التدقيق الداخلي
+internal consumption	استهلاك داخلي (ن)
+Internal consumption regulation	تقنين الاستهلاك الداخلي
+internal electricity market	سوق الكهرباء الداخلية
+internal energy market	سوق داخلية للطاقة
+internal market	سُوق داخلية
+internal trade; interior trade	تجارة داخلية
+International Chamber Of Commerce	غرفة التجارة الدولية
+international coastal trade	تجارة ساحلية دولية
+international commercial arbitration	تحكيم تجاريّ دوليّ
+international commercial terms (incoterms)	مفردات التجارة الدولية
+International Commercial Terms (Incoterms®)	مصطلحات تجارية دولية
+International Diesel Service (IDS)	شركة خدمة الديزل العالمية
+international emissions trading	تجارة دولية للانبعاثات
+International Emissions Trading (IET)	IET تجارة الانبعاثات الدولية
+international emissions/carbon/energy tax	انبعاثات دولية / الكربون / ضريبة الطاقة
+International goods transport by rail - unloaded (incoming)	نَقْلُ البَضائِعِ الدَوْلِيّ بِالتَحْمِيلِ عَلَى الخُطُوْط الحَدِيدِ القادِمَةِ
+International Marketing Sector	قطاع العضو المنتدب للتسويق العالمي
+international monetary fund (imf)	صندوق النقد الدولي
+International Tourism Expenditure	الإنفاق السياحي الدولي
+International Tourism Receipts	إيرادات السياحة الدولية
+International Trade	التجارة الدولية
+international trade	تجارة دولية
+International Trade in Services	التجارة الدولية في الخدمات
+International Trade Statistics (ITS)	إحصاءات التجارة الدولية
+International Travel Expenditures	نفقات أجور السفر الدولية
+internationalism	الدُّوَلية: «أ» الاستشراف أو الصفة أو المبادئ أو المصالح الدولية. «ب» سياسة التعاون بين الدول وبخاصة في الحقلين السياسي والاقتصادي.
+interrupt input unit	وحدة دخل إشارة القطع
+intersacral canals (foramina intervertebralia ossis sacri)	القَنَواتُ بَينَ الفِقَرَات العَجُزِيَّة (الثُّقوبُ بَينَ فِقَراتِ عَظْمِ العَجُز)
+interstitial deposit	توضعات خلالية
+interstitial deposits	توضُّعات خلالية
+interstitiale deposits	تَوَضُّعات خلاَلِية
+intertropical anemia (hookworm disease)	فَقْرُ الدَّمِ المَدارِيّ (داءُ الشِّصِّيَّات)
+interventionism	التّدخُّلية؛ سياسة التّدخُّل: سياسةٌ قِوامُها التدخُّل الحكومي في الشؤون الاقتصادية داخلَ الوطن أو في الشؤون السياسية لبلد آخر.
+intervertebral	بَيْن فَقاريّ، بينَ الفِقْرات
+intervertebral cartilages	الغَضاريفُ بَينَ الفِقَرات (? الأَقْراصُ الفِقَرِيَّة)
+intervertebral disc	قُرص بين الَفقَرات
+intervertebral fibrocartilages (disci intervertebrales)	الغَضاريفُ المُلَيَّفَةُ بَينَ الفِقْرات (أَقْراصٌ فِقَرِيَّة)
+intervertebral foramen	الثُّقْبَةُ بَينَ الفِقْرَات
+intervertebral foramina of sacrum	الثُّقَبَ بَينَ الفِقْراتِ العَجُزِيَّة
+intestinal stasis	رُكودٌ مِعَوِيّ
+Intra-Company Trading	تجارة داخل الشركة
+intrahepatic cholestasis	رُكودٌ صَفْراوِيٌّ داخِلَ الكَبِد
+intrinsic factors of species vulnerablity (cites)	عوامل جوهرية لهشاشة الأنواع (اتفاقية التجارة الدولية في الأنواع المهددة)
+intron	دخلون
+intron mediated recombination	اتحاد بواسطة الدخلون
+intumescence	(1) انتفاخ؛ تضخُّم (2) شيء منتفخ.
+invalid	(1) باطل؛ لا أساس له من الصحة (2) لاغٍ؛ لا سِناد له من القانون. (1) معتلّ؛ مريض؛ عاجز (2) مَرَضيّ؛ عَجزيّ: خاصّ بمريض أو عاجز invalid diets (3) المريض؛ العاجز. وبخاصة: جندي أو بحّار غير صالح للخدمة العسكرية (4) يُخرجه من الخدمة العسكرية [بسبب من مرض أو عجز] (5) يُمرض؛ يجعله عاجزًا was invalided for life.
+invalidity	عجْز
+invalidity pension	معاش العجز عن العمل
+inventory	(1) «أ», الجَرْد: «ب» قائمة مفصّلة بالسِّلع أو الموجودات. «ج» مَسْحٌ للموارد الطبيعية. «د» بيان مفصَّل [بالصفات والاهتمامات والقدرات يُستخدم لتقدير الخصائص أو البراعات الشخصية] (2) المخزون: الموجود في المخزن من البضائع (3) الجَرْد: عملية الجَرْد (4) يَجْرُد.
+inventory accounting, stock management and accounting	حساب الخزون السلعي
+invest	اِستَثْمَرَ (مالاً)، ثَمَّر؛ وَظَّفَ، قَلَّدَ (مَنْصِبًا)؛ غَلَّفَ، كَسا، أَحْدَقَ بِـ
+invest	(1) «أ» يقلّده منصبًا أو رتبة. «ب» يمنحه سُلطة (2) يغطي؛ يغلّف (3) يكسو؛ يزيّن (4) يطوِّق؛ يحاصر (5) يُشرب؛ يغرس في (6) يُنْفِق invest ed large sums on books (7) يشتري (8) يُثَمِّر: يوظِّف مالًا.
+investing	تكسية ( طب الأسنان )
+investing cartilage (articular cartilage)	غُضْروفٌ مَفْصِلِيّ
+investing layer of cervical fascia (lamina superficialis fasciae cervicalis)	الطَّبَقَةُ الكاسِيَةُ للِّفافةِ الرَّقَبِيَّة (الصَّفيحَةُ السَّطْحِيَّةُ للِّفافَةِ الرَّقَبِيَّة)
+investing the pattern	تَكْسِيَةُ النَّموذج [أسنان]
+investment	استثمار
+investment	تَوْظيف (المال)، اِستِثمار؛ مالٌ مُوَظَّفٌ أو مُستَثْمَر؛ تغليف؛ طبقاتٌ مُغَلِّفة أو مُحدقة / الاستثمار
+investment	(1) غلاف (2) تقليد منصبٍ أو رتبة (3) تطويق؛ حصار (4) تثمير: توظيف مال.
+investment additionality	إضافية الاستثمار
+Investment Appraisal Techniques	تقنيات تقييم الاستثمار
+Investment As a Percentage of GDP	الاستثمار كنسبة من الناتج المحلي الإجمالي
+investment barrier	عائق استثمار
+investment cast	قالَبُ التَّكْسِيَة
+investment casting = lost-wax casting	صَبٌّ إحداقيّ
+investment certificate	شهادة استثمار
+investment coefficient	مُعامِلُ الاستِثمار
+investment company	شركة استثمار
+investment compound	مُرَكَّبٌ إحداقيّ
+investment costs / prime costs	تكاليف المُنشأة
+investment establishment	مؤسسة استثمار
+Investment expenditure on infrastructure (of railways)	نَفَقاتُ الاِسْتِثْمارِ فِي البِنْيَةِ التَحْتِيَّةِ
+investment expenditures	نفقات استثمارية
+Investment Grants	منح الاستثمار
+investment incentive	حوافز الاستثمار
+Investment Income	دخل الاستثمار
+Investment Income from Equity and Investment Funds	دخل الاستثمار من حقوق الملكية وصناديق الاستثمار
+investment mixture	مَزيجٌ للكِسَاءِ
+investment prediction	تقدير الاستثمار
+investment product	عائد الاستثمار
+investment ring	حَلَقَةُ الكِسْوَة (في طب الأسنان)
+investor	مستثمِر
+investor	مُستثّمر
+investor	مُستَثْمِر
+investor owned hospital	مُسْتَشْفَى اسْتِثْمارِيّ (مستشفى يملكه المستثمر)
+investor-owned hospital	مُسْتَشْفَى اسْتِثْمارِيّ
+invisible exports	صادِراتٌ غيرُ مَنْظُورة
+invisible imports	وارِداتٌ غيرُ مَنْظُورة
+invoice	(1) الفاتورة: قائمة بالحساب أو المبيعات (2) السّلع المرسَلة أو المُستَلَمَة (3) يُعدّ فاتورة؛ يُقدِّم فاتورةً إلى.
+invoice	أدرَجَ في قائِمَةِ الحِساب؛ عَمِلَ فاتُورَةً بالبضاعة؛ قائِمَةُ الحِساب، فاتُورة
+invoice book	دَفترُ المُشتَرَيات
+Invoice To Cash (I2C)	فاتورة إلى نقد
+invoice; bill	فاتورة، قائمة حساب
+involuntary unemployment	بطالة قسرية
+involution	(1) «أ» لَفّ؛ التفاف. «ب» تركيب مُعَقَّد [يُفْصَل فيه بين المُسْنَد والمُسْنَد إليه بجملة معترضة] (ل). «ج» تعقيد؛ تعقُّد (2) التّرقية (مج)؛ الرَّفع إلى القُوى (ر) (3) انحناء نحو الداخل (4) انكماش أو عودة إلى الحجم السابق (5) التغيُّرات الارتداديّة: تغيُّرات تصيب الجسد بحكم التقدم في السنّ فتُضعف من حيويّته [كانقطاع الحيض عند النساء].
+involution period	فَتْرةُ رُكُودٍ أو هُمود (لِلبُذور أو الأبواغ أو سِواها)
+IOU	(1) إني مدينٌ لك: ورقة اعتراف بدَيْن تحمل هذه الحروف الثلاثة [وهي مختصر I owe you] (2) دَيْن.
+ipcc, macroeconomic level	الفريق الحكومي الدولي المعني بتغير المناخ، مستوى الاقتصاد الكلي
+iron deficiency anemia	فَقْرُ الدَّمِ النَّاجِمُ عَن عَوَزِ الحَديد
+iron deposit	رِكازٌ حَديديّ
+iron- deficiency anemia	فَقْرُ الدَّمِ بعَوَزِ الحَديد
+ironmonger	تاجر حديد
+ironmonger	الخُردواتي: تاجر الخردوات.
+ironmongery	تِجَارَةُ الحَدائِد
+irredeemable	(1) غير قابل للاستهلاك: لا تُسْتَردّ قيمتُهُ قبل الأجل المحدَّد irredeemable bonds (2) غير قابل للتحويل إلى ذهب أو فضة [كبعض العملة الورقيّة] (3) مُطْلَق؛ غير قابل للتغيير irredeemable gloom (4) ممعن في الضلال (5) لا سبيل إلى إصلاحه أو تعويضه.
+irregular	(1) شاذّ (2) «أ» مخالفٌ للقواعد أو الأصول an irregular proceeding. «ب» غير قياسيّ irregular verbs. «ج» سرّي irregular marriage. «د» غير نظاميّ irregular troops (3) «أ» وعر a rough irregular terrain. «ب» غير متناسق irregular teeth (4) غير منتظم؛ تعوزه الاستمرارية أو نظاميّة الحدوث irregular intervals (5) جندي غير نظاميّ (6) pl.: بضاعة تشوبها شوائب.
+irregular	غيرُ مُنْتَظم؛ شاذّ، مُخَالِفٌ لِلأُصُول / غير منتظم
+ischemia	الإفقار: فقرُ [أو احتباس] دم موضعيّ ناشئ عن عقبات تعترض تدفق الدم في الشرايين.
+isoprofit lines	خطوط الأرباح المتساوية
+issue	(1) pl.: رَيْع؛ عائدات (2) صدور؛ انبثاق (3) مَخْرَج؛ مَنْفَذ (4) ذرّية؛ عَقِب (5) نتيجة؛ عاقبة (6) «أ» قضيّة؛ مسألة. «ب» نقطة تصبح فيها القضية جاهزة لاتخاذ قرار حاسم بشأنها to bring a case to an issue (7) نزيف (8) ثمرة؛ نِتاج issue s of disordered imagination (9) «أ» إصدارُ أمْرٍ أو كتابٍ أو طابع بَريديّ أو عملة جديدة إلخ. «ب» الإصدار: الشيء المصدَر أو كامل الكمية المصدَرة. «ج» العدد [من مجلة إلخ] (10) .أ» يتدفّق. .ب» ينبعث؛ ينبثق (11) ينتج كربح أو رَيْع (12) يتحدّر من أب أو سلف معيّن (13) ينشأ؛ يتولَّد عن (14) يَصْدر [من طريق النشر أو الطبع] (15) ينتهي؛ ينقضي (16) يُرْسل؛ يُطلق؛ يقذف (17) «أ» يُصْدر [أمرًا أو كتابًا أو طابعًا بريديًا إلخ]. «ب» يوزع [طعامًا أو ملابس أو أسلحة] على الجند. in issue : تحت البحث أوالنظر؛ موضع النزاع.the point (matter) at issue : نقطة التناقش أوالخلاف؛ النقطة المتجادَل فيها.to join (take) issue : يتجادلان؛ يختلفان؛ يتخذان موقفَين متعارضَين من نُقْطَةٍ مُخْتَلَفٍ عليها.
+issue of shares	إصدار الأسهم
+issue price	سِعْر الإصدار
+issued capital	رأس المال المصدر

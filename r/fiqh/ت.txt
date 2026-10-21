@@ -1,0 +1,103 @@
+تأثير الغَسْل	washed effect
+تأخر	slippage
+تاريخ التسليم المتعهد به	Promise Time
+تأكيد التسليم	delivery confirmation
+تالٍ للزَّواج	postconnubial
+تآلُف	chord
+تبييض	bleaching
+تبييض الأموال	bleaching of capital; money laundering
+تَثْبيتُ الوَتَر	tendon blockage
+تَثْقيبُ س	eleven punch = X-punch
+تَجْبير	diaplasis
+تَجرِبة غَسْل	leaching test
+تجهيزات غسل المُصَفَّيات	plant, screenings washing
+تجهيزة تشغيل جهاز غسل الزجاج الخلفي	rear window washer control
+تَحَفُّلُ الثَّدْي	breast engorgement
+تخزين نقطة تسليم رئيسية	breakout tankage
+تَخْليص	delivery
+تراجع سكاني ناتج عن زواج الأقارب	inbreeding depression
+تَرخيم	brooding
+ترِكة	inheritance; heritage
+تَرِكة بالوصية	testamentary succession; testamentary will
+ترِكة بدون وصية	intestate succession
+تركيز الشوائب	impurity concentration
+تركيزالشوائب	impurity concentration
+تزاوج أباعديّ	exogamy
+تسليم	Deliverable
+تسليم	delivery
+تسليم	handover
+تسليم البضائع	delivery of goods
+تسليم البضائغ عن طريق استخدام الشاحنة	ingate
+تسليم الحمولة	delivery of cargo
+تَسْلِيم الدَّوَاء	delivery of remedy
+تسليم السفينة	delivery of ship
+تسليم العربات	delivery of cars
+تسليم المجرمين	extradition
+تسليم إلى سطح الحاملة	carrier-on-board delivery
+تسليم بالمنزل	home delivery
+تسليم تحت المرفاع	free overboard
+تسليم جوي برادار أرضي	ground radar aerial delivery
+تسليم خارج الرصيف	ex-quay
+تسليم خارج السفينة	ex-ship
+تسليم خارج المخزن	ex-store
+تسليمٌ سائب	bulk delivery
+تسليم على الجانب	free overside ship; FOS
+تسليم على الرصيف	free alongside ship; FAS
+تسليم على الرصيف	free on quay; FOQ
+تَسليمٌ على ظَهر الباخِرة	free on board
+تَسليمٌ لِقاءَ الدَّفْع	issue on payment
+تسليم مباشر	door-to-door delivery
+تسليم متأخر	delayed delivery
+تسليم من الرصيف	ex-quay
+تسليم وتجميع	delivery and pick-up
+تَشْناجٌ وَتَرِيّ	subsultus tendinum
+تَضْحية	sacrifice
+تطهير أولي	preliminary purification
+تطهير بيولوجي	biological purification
+تَعَظُّمُ الوَتَر	tenonostosis (tenostosis)
+تَعَظُّمُ الوَتَر	tenostosis
+تَعْليقُ الوَتَر	tenosuspension
+تَعميق	sluicing
+تعويض الشوائب	impurity compensation
+تعويض الوفاة: مال يدفع إلى ورثة الميت	death benefit
+تَفَحَّصَ	pry
+تفسير الفقه	doctrinal interpretation
+تَقْديمُ الوَتَر	tendon advancement
+تَلْقيحٌ داخِليّ	endogamy
+تَلَمُ وَتَرِ العَضَلَةِ الشَّظَوِيَّةِ	sulcus of tendon of peroneus longus muscle
+تَلْمُ وَتَرِ العَضَلَةِ الشَّظَوِيَّةِ	sulcus tendinis musculi peronei longi ossis cuboidei NA
+تَلْمُ وَتَرِ العَضَلَةِ الشَّظَوِيَّةِ	sulcus tendinum musculorum fibularium calcanei
+تَلْمُ وَتَرِ العَضَلَةِ الشَّظَوِيَّةِ	sulcus tendinum musculorum peroneorum calcanei NA
+تَلْمُ وَتَرِ العَضَلَةِ الطَّويلَةِ	sulcus tendinis musculi flexoris hallucis longi calcanei NA
+تَلْمُ وَتَرِ العَضَلَةِ المُثْنِيَةِ	sulcus of tendon of flexor hallucis longus muscle of calcaneus
+تَلْمُ وَتَرِ العَضَلَةِ المُثْنِيَةِ	sulcus of tendon of flexor hallucis longus muscle of talus
+تَلْمُ وَتَرِ العَضَلَةِ المُثْنِيَةِ	sulcus tendinis musculi flexoris hallucis longi tali NA
+تمازُجُ الأجناس	miscegenation
+تنقية	purification
+تنقية الغازات	gas purification
+تَنْقِيَةُ الماء	water purification
+تنقية المعطيات	data purification
+تَنْقِيَةُ المِيَاه	purification, water
+تَنْقِيَةُ المياه	water purification
+تَنْقيةُ الهَواء	air purification
+تنقية الهواء العادِم	exhaust air purification
+تنقية الهواء العادم	waste air purification gas
+تنقية الهواء في الصناعة	Industrial Waste Gas Purification
+تَنقِية ذاتية	self-purification; self-cleansing
+تَنقِية ذاتية في أحواض مائية	self-purification of surface waters
+تنقية غاز العادم	exhaust gas purification
+تنقية غاز المداخن	flue gas purification
+تَنْقيةٌ كيماويَّة	chemical purification
+تنقية مياه الصرف الصحي	wastewater purification
+تنقية مياه المجاري	purification of sewage
+تنقية مياه المجاري	sewage purification
+تنقية نطاقية	zone purification
+تَنْقِية نِطاقِيَّة	zone purification (or refining)
+تهجين بصفتين	dihybird inheritance
+تَهَرَّبَ	shirk
+تَوَارُثٌ دِمْجِيٌّ	blending inheritance
+توارث سيتوبلازمي	cytoplasmic inheritance
+توريث	bequest savings motive
+توريث أو إرثٌ بوصيّة	bequest
+توزيعُ الواجِبات	distribution of duties
+توقعات تسليم	delivery forecast

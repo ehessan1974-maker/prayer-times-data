@@ -1,0 +1,57 @@
+ضآلة	exiguity
+ضبط حساسية التوجيه	Adjusting steering sensitivity
+ضبط زمن الحساسية	sensitivity time control
+ضَخامَةُ العُنُق	big neck (goiter)
+ضِدُّ الْتِهابِ الكَبِد	hepatitis antibody
+ضِدُّ حالَّةِ الكُزاز	antitetanolysin
+ضِدُّ ذِيْفَانِ الخُنَاق	diphtheria antitoxin
+ضِدُّ ذِيْفَانِ الغنغرينةِ الغَازِيَّةِ	bivalent gas gangrene antitoxin (botulism antitoxin)
+ضِدُّ ذِيْفَانِ الغنغرينة الغَازِيَّة	gas gangrene antitoxin
+ضِدُّ ذِيْفَانِ الكُزاز	tetanus antitoxin
+ضِدُّ ذِيْفَانِ الكُزازِ و الغنغرينة	tetanus and gas gangrene antitoxin
+ضِدُّ ذِيْفَانِ عِقْدِيَّاتِ الحُمَّى	scarlet fever streptococcus antitoxin
+ضِدُّ فاسِرْمان	Wasserman antibody
+ضربة	stroke
+ضَرْبَةُ البَرْق	lightning stroke
+ضَرْبَةُ الحَرارَة	heat stroke
+ضَرْبةُ الحَرارة	heat-stroke
+ضَرْبَةُ الحَرارَة	heatstroke
+ضَرْبَةُ الحَرارَةّ	thermoplegia (heat stroke)
+ضَرْبَةُ الشَّمْس	calentura (sunstroke)
+ضَرْبَةُ الشَّمْس	calenture (sunstroke)
+ضَرْبَةُ الشَّمْس	coup de soleil (sunstroke)
+ضَرْبَةُ الشَّمْس	heliosis (sunstroke)
+ضَرْبَةُ الشَّمْس	ictus solis (sunstroke)
+ضَرْبَةُ الشَّمْس	siriasis (sunstroke)
+ضَرْبَةُ الشَّمْس	sun stroke
+ضَرْبَةُ الشَّمْس	sunstroke
+ضَرْبَةُ الضَّوء	light stroke
+ضربة حَرْ	heatstroke
+ضَرْبَةٌ راجِعَة	back stroke
+ضربة شمس	heliosis
+ضربة شمس	sunstroke
+ضَرْبَة مُباشرة	direct stroke
+ضَزَزٌ عَكْسِيّ	antitrismus
+ضَعْفُ الحَساسِيَّة	dyserethism
+ضَغّاط ذو أرياش دَوّارة	multi-vane rotary compressor
+ضَغْط الانتفاخ	swelling pressure
+ضغط الفوضى	disorder pressure
+ضَغْطُ الوَرَم	oncothlipsis
+ضغطة زر	Key stroke
+ضَمَّاتٌ نَظيرَة الكوليرا	paracholera vibrios
+ضَمَّةُ الكُوليرا	cholera vibrio
+ضَمَّةُ الكوليرا الآسيَوِيَّة	Vibrio cholerae-asiaticae
+ضمة الهيضة	cholera vibrio
+ضُمورُ التَّشعِيْعِ	radiation atrophy (radiation dermatitis)
+ضُمورٌ الْتِهابِيّ	inflammatory atrophy
+ضُمورُ العَصَبِ البَصَرِيِّ الأَوَّلِيُّ	syphilitic primary optic atrophy
+ضُمورُ العَضَلِ النُّخاعِيُّ الزُّهْرِيُّ	syphilitic spinal muscular atrophy
+ضُمورُ العِظام	bone atrophy (osteoporosis)
+ضُمورٌ روماتزمي	rheumatic atrophy
+ضُمورُ سوديك	Sudeck's atrophy (post-traumatic osteoporosis)
+ضُمورٌ عَضَلِيٌّ سُكَّرِيّ	diabetic amyotrophy
+ضُمورٌ عَضَلِيٌّ مُؤْلِم	neuralgic amyotrophy (shoulder girdle syndrome)
+ضُمورٌ نَاجِمٌ عَن القَيْء	emetatrophia
+ضَهَى مَرَضِيّ	pathologic amenorrhea
+ضوءٌ رَعّاش	flickering light
+ضَوْر	bulimia

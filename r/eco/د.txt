@@ -1,0 +1,144 @@
+داء الأنسيلوستوما	ancylostomiasis
+داءُ أوبيتز	Opitz's disease (thrombophlebitic splenomegaly)
+داءُ ايكُونُومُو	Economo's disease (lethargic encephalitis)
+داءُ بانتي	Banti's disease (congestive splenomegaly)
+داءُ بوت	Pott's disease (tuberculous spondylitis)
+داءُ بِيرمر	Biermer's disease (pernicious anemia)
+داءُ راست	Rust's disease (cervical tuberculous spondylitis)
+داءُ رُونيبِرغ	Runeberg's disease (pernicious anemia)
+داءُ ريكلُوس	Reclus' disease (painless cystic mammary enlargement)
+داءُ شترومبل ماري	Strumpell-Marie disease (rheumatoid spondylitis)
+داءُ غامْنا	Gamna's disease (splenomegaly with thickened capsule)
+داءُ غاندي-نانتا	Gandy-Nanta disease (siderotic splenomegaly)
+داءُ فون إيكونومو	Von Economo's disease (lethargic encephalitis)
+داءُ فون ياكش	von Jaksch's disease (anemia pseudoleukemica infantum)
+داءُ لين	Lane's disease (chronic intestinal stasis)
+داءُ ماك لين-ماكسويل	MacLean-Maxwell disease
+داءُ هاشِيموتو	Hashimoto's disease (struma lymphomatosa)
+داءُ ياكْش	Jaksch's disease (anemia pseudoleukemica infantum)
+دائرة الاستثمار والتمويل	Corporate Treasury & Investment
+دائرة التخطيط	Marketing Planning Department
+دائرة التخطيط وتنسيق الاستثمار للاستكشاف	Planning & Investment Coordination (Upstream) Department
+دائرة التخطيط وتنسيق الاستثمار للتكرير	Planning & Investment Coordination (Downstream) Department
+دائرة التدقيق الداخلي	Internal Audit Department
+دائرة القانونية	Legal Department (International Marketing)
+دائرة المبيعات	sales department
+دائرة الموازنة والتكاليف	Cost & Budget Department
+دائرة بحوث التسويق	Market Research Department
+دائرة تجارية	Commercial Circuit
+دائرة تقنية المعلومات	Marketing Information Technology
+دائرة دخل	input circuit connection (ABS)
+دائرة دخل, لمُرَحِّل قياس او نظام وقاية	input circuit,
+دائِن	creditor
+دائن	in the black
+دائن رئيس	principal creditor
+دائن عاديّ	unsecured creditor
+دائن مُرتهِن	Mortgage Creditor
+دائن مضمون	Secured Creditor
+دائن ممتاز	preferential creditor
+دار	software house
+دارةُ الدَّخْل	input circuit
+دارة الدخل	input circuit (for elementary relays)
+دارة تصدير	outgoing circuit
+دارة دخل تفاضلية	earthed input circuit; grounded input (US); single-ended input
+دارة دخل مؤرضة	earthed output circuit; grounded output (US); single-ended output
+دارة دخل معزولة كلياً	floating output circuit
+دافعُ الضرائب	ratepayer
+دافِعُ الضرائب	taxpayer
+دافِع الضريبة	tax payer
+دالة الاستهلاك	consumption function
+دالة الأهمية	importance function
+دخل	concurrent input/output
+دخل	display input/output characteristic
+دخل	I/O
+دخل	I2O
+دَخْل	income
+دَخْل	input
+دَخْل	Input
+دخل	input, adj
+دخل	input/output
+دَخْل	input/output (I/O)
+دخل	Intelligent Input/Output
+دخل الاستثمار	Investment Income
+دخل الاستثمار من حقوق الملكية وصناديق	Investment Income from Equity and Investment Funds
+دخل الأسرة المعيشية	Household Income
+دخل التنظيم	Entrepreneurial Income
+دخل السياحة	Tourism Revenue
+دخل الشركات الموزع	Distributed Corporations Income
+دخل العوامل	Factor Incomes
+دَخْلُ القُدرة	power input
+دَخَل القَلْب	cardiac input
+دَخْلُ المُحَرِّك	input of an engine
+دَخلُ المحوِّل	transformer input
+دخل الملكية الذي يعزى لحاملي بوالص التأمين	Property Income Attributed to Insurance Policy Holder
+دَخْل تَفَاضُلِيّ	differential input
+دَخْل ثابت	fixed income
+دخل حركي للنظام التحويلي	dynamic input in switching systems; dynamic input
+دَخْل حفلة رياضية أو نحوها	gate money
+دَخْل حقيقيّ	real income
+دَخْل خارجي	eXternal input
+دَخْل سنويّ	yearly income
+دَخْلٌ صافٍ	net income
+دخل صوتي	voice input
+دَخْل عائليّ	family income
+دَخْل عينيّ	income in kind
+دخل غير متناظر	asymmetrical output
+دخل فدري	block input
+دخلٌ فُلَيْمِيٌّ للحاسوب	computer-input microfilm
+دخل قابل للتصرف	disposable income
+دَخْل قوميّ	national income
+دخْل قياسي	Standard input
+دخل مباشر	DirectInput
+دَخْل متاح التصرف فيه	disposable income
+دخل متناظر	symmetrical output; balanced output
+دخل مرجعيّ	reference variable
+دخل مكافئ للضوضاء,	noise-equivalent input,
+دخل من العُملات الأجنبية	foreign exchange earnings
+دخل هامشي	marginal revenue
+دخل وخرج شبكة المجال العملياتي'Profinet	Input/Output
+دخل,	input,
+دخلون	intron
+دخول السوق	market launch
+دِراسة الأثر البيئيّ ومراقبته لأنشطة	eco-audit
+دراسة السّوق	market research
+درجة اقتصادية	economy calss
+درجة اقتصادية	economy class
+درجة الانكماش	degree of shrinkage
+درجة النقاوة التسويقية للخيط	commercial linear density / commercial number
+درجة حرارة الركود	stagnation temperature
+درجة سياحية	economy calss; tourist
+دَرَجةُ مَيْل المُنْعَطَف	degree of bank
+دَرَنَةٌ مُكَوَّمَة	conglomerate tubercle
+دَعائمُ بِطانيَّةٌ لِمَهْواة المَنْجم	bank bars
+دعم	subsidy; subvention; grant
+دعم تجاري	commercial support
+دعوى بوليصية	revocatory action
+دفاتر تجارية	trade books
+دفتر الأداءات	payroll; wage book
+دَفترُ الأُستاذ	ledger
+دفتر الحساب	account book
+دفتر الحسابات	ledger
+دفتر المحاسب العام	General Ledger
+دَفترُ المُشتَرَيات	invoice book
+دَفتَرُ حِسابات	account book
+دَفْع	defrayal|defrayment
+دَفْع نَقْدِيّ	payment, cash
+دفق	effluent
+دفقة دخل	input stream
+دَليلُ السُّيُولَة	index of liquidity
+دليل السيولة	liquidity index
+دليل تحديد الهوية	identification manual (cites)
+دَمَجَ	incorporate
+دَمْجُ الفِقْرات	spinal fusion (spondylosyndesis)
+دوائر الاستهلاك الثانوية	consumer subgroups
+دوائر الاستهلاك الرئيسية	main consumer groups
+دَورة اِقتصادية	business cycle
+دول متقدمه	developed countries
+دول نامية	developing countries
+دولة منتجة	producer country
+دون عمل	Unemployed
+ديباجة	proem
+دَين مضمون برهن عقاريّ	mortgage debt
+ديوان المحاسبة	audit office
+ديوان المحاسبة الوطني	National Audit Office
+ديون الشركة	corporate debts

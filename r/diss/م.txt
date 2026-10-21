@@ -1,0 +1,2074 @@
+مُؤَرَّق	insomniac
+مُؤَسَّسَةُ الأَمْراضِ النَفْسِيَّة	institution for mental disease
+مؤشر الجفاف	drought index
+مؤشر جفاف	aridity index
+ماءُ الانتكاز	water of dehydration
+ماء البلمهة	water of dehydration
+مأتى	aetiology = etiology
+مَأْتى المرض	aetiology
+مادة أسفلتية سائلة بطيئة الجفاف	slow-curing liquid asphaltic material
+مادَّةُ المَرَض	materies morbi
+مادة مسببة للسرطان	carcinogenic agent
+مادة مغناطيسية دوّارة	gyromagnetic material
+مارْسِي	marcy
+ماكِنَةٌ دَوَّارَةٌ بَانُورامِيَّة	panoramic rotating machine
+ماليغنين	malignin
+مَانِعُ الخُثار	antithrombotic
+مانِعُ السُّكَّرِيّ	antidiabetogenic
+مانِعُ حُدُوثِ الوَرَم	antitumorigenic
+مَبحثُ أسبابِ المَرَض	aetiology
+مَبْحَثُ أسباب المَرَض	etiology = aetiology
+مَبْحَث الأمراض التَّناسليّة	venereology
+مَبْحَث الحُمَّيات	pyretology
+مَبْحثُ تَصْنيف الأمراض	nosology
+مَبْحَثُ قَوانينِ الأَمْراض	pathonomia
+مَبْحَثُ قَوانينِ الأَمْراض	pathonomy
+مِبْضَعُ الخُراج	abscess lancet
+مِبْضَعُ الدَّوالِي	cirsotome
+مِبْضَعُ العُدّ	acne lancet
+مبضع الماء الأبيض	knife cataract
+مبيد الأرق	syrphus
+مُبيدُ الجَرَب	scabicide
+مُبيدُ السَّرَطان	cancericidal
+مُبيدُ السَّرَطان	cancerocidal
+مُبيدُ الطُّفَيلِيَّات	parasiticide
+مُبيدُ الطُّفَيلِيَّاتِ الحَيَوانِيَّةِ	epizoicide
+مُبيدُ الهَوامّ	pesticide
+مبيد اليرقانات	larvicide
+مُبيدٌ للطُّفَيلِيَّات	parasiticidal
+مُتَّحِدُ القِحْفَينِ الطُّفَيلِيّ	craniopagus parasiticus
+مُتَّحِدُ القِحْفَيْنِ الطفيلي	miodidymus (craniopagus parasiticus)
+مُتَحَرِّضٌ شَريطيُّ اللفائف	strip-wound armature
+مُتَسَمِّمٌ بنَبْتَةِ الجُنون	locoed
+مُتَصَوِّرَة	plasmodium
+متضرر	Bad Order (Cripple)
+مُتَعَدِّدُ الدَّرَنات	multituberculate
+متعلق أو مصاب بالسُّكَّرِيّ	diabetic
+متعلق أو مصاب بالغَيبوبَةِ	comatose
+متعلق بالإِسْهالِ التُّخْمِيّ	lienteric
+متعلق بالاِلْتِهابِ القَصَبِيِّ	bronchopneumonic
+متعلق بالالْتِهابِ الوِعائِيّ	vasculitic
+متعلق بالبُؤْرَةِ المَرَضِيَّة	nidal
+متعلق بالبِيلَةِ اللاصَفْراوِيَّة	acholuric
+متعلق بالتَّسَمُّمِ الدَّرَقِيّ	thyrotoxic
+متعلق بالتَّسَمُّمِ الذَّاتِيّ	autotoxic
+متعلق بالتَّشَنُّجِ الظَّهْرِيّ	opisthotonic
+متعلق بالْتِهابِ الأُذُن	otitic
+متعلق باِلْتِهابِ البرُوسْتاتَة	prostatitic
+متعلق بالْتِهابِ التَّأْمور	pericarditic
+متعلق بالْتِهَابِ الجَنَبَةِ	pleuritic
+متعلق بالْتِهابِ الحَنْجَرَة	laryngitic
+متعلق باِلْتِهابِ الخُصْيَة	orchitic
+متعلق باِلْتِهابِ السَّحايا	meningitic
+متعلق بالْتِهابِ الشَّغاف	endocarditic
+متعلق باِلْتِهابِ العَضَل	myositic
+متعلق بالْتِهابِ العَظْمِ الأُحَادِيّ	mono-osteitic
+متعلق بالْتِهابِ العَظْمِ و النِّقْي	osteomyelitic
+متعلق باِلْتِهابِ العِنَبِيَّة	uveitic
+متعلق بالْتِهابِ العَين	ophthalmitic
+متعلق باِلْتِهابِ الفَقار	spondylitic
+متعلق باِلْتِهابِ القَصَبات	bronchitic
+متعلق بالْتِهابِ الكَبِدِ و الكُلْيَةِ	hepatonephritic
+متعلق باِلْتِهابِ اللَّوْزتَيْن	tonsillitic
+متعلق بالْتِهابِ المَعِدَة	gastritic
+متعلق بالْتِهابِ النُّخاع	myelitic
+متعلق بالْتِهابِ النَّكَفِيَّة	parotitic
+متعلق باِلْتِهابِ الوَريد	phlebitic
+متعلق بالْتِهابِ حَوَائِطِ الكُلْيَة	perinephritic
+متعلق بالْتِهابِ حَوَائِطِ الوَريد	periphlebitic
+متعلق بالْتِهابِ ظِهارَةِ الحُزْمَةِ	perineuritic
+متعلق بالْتِهابِ عَضَلِ القَلْب	myocarditic
+متعلق بالْتِهابِ مُجَاوِرَاتِ الرَّحِم	parametritic
+متعلق بالْتِهابِ مَصْلِيَّةِ الرِّحِم	perimetritic
+متعلق بالجُدَرِيّ	variolar
+متعلق بالجُدَرِيّ	variolic
+متعلق بالجُدَرِيّ	variolous
+متعلق بالجُذامِ الوَرَمِيّ	lepromatous
+متعلق بالجَسْدَنَةِ	somatist
+متعلق بالحُمِّى المُسْتَمِرَّة	synochal
+متعلق بالحَيَوانِ الطُفَيلِيِّ	entozoal
+متعلق بالخُثارِ الوَريدِيّ	venothrombotic
+متعلق بالزُّهَرِيِّ الخِلْقِيّ	heredoluetic
+متعلق بالزُّهْرِيِّ الخِلقِيّ	heredosyphilitic
+متعلق بالشَّقيقَة	migrainous
+متعلق بالطُفَيلِيِّ الحَيَوَانِيِّ	enterozoic
+متعلق بالطُّفَيلِيِّ الحَيَوانِيِّ	epizoic
+متعلق بالطُّفَيلِيِّ الحيَوانِيّ	zooparasitic
+متعلق بالطُّفَيلِيَّاتِ البَرَّانِيَّة	ectozoal
+متعلق بالعَدْوَى بالمُلْتَوِيات	spirochetotic
+متعلق بالنَّابوتِ البَرَّانِيّ	epiphytic
+متعلق بالهَوَسِ الخَفِيْف	hypomanic
+متعلق بالوَرَمِ الأَرومِيّ	blastomatous
+متعلق بالوَرَمِ الأَرومِيُّ اللِمْفاوِيّ	lymphoblastomatous
+متعلق بالوَرَمِ الأُسْطُوانِيِّ الخَلاَيا	cylindromatous
+متعلق بالوَرَمِ الأَصْفَر	xanthomatous
+متعلق بالوَرَمِ الحُبَيبِيّ	granulomatous
+متعلق بالوَرَمِ الحُلَيمِيّ	papillomatous
+متعلق بالوَرَمِ الدِّبْقِيّ	gliomatous
+متعلق بالوَرَمِ الدَّمَوِيّ	hematomatous
+متعلق بالوَرَمِ الرَّطْب	hygromatous
+متعلق بالوَرَمِ الرَّمْلِيّ	psammomatous
+متعلق بالوَرَمِ الشَّحْمِيّ	lipomatous
+متعلق بالوَرَمِ الشَحْمِيِّ اللِّيفِيّ	fibrolipomatous
+متعلق بالوَرَمِ الظِّهَارِيّ	epitheliomatous
+متعلق بالوَرَمِ العابِيّ	hamartomatous
+متعلق بالوَرَمِ العَصَبِيّ	neuromatous
+متعلق بالوَرَمُ العَضَلِيّ	myomatous
+متعلق بالوَرَمِ العَضَلِيِّ الغُدِّيّ	adenomyomatous
+متعلق بالوَرَمِ الغُدِّيّ	adenomatous
+متعلق بالورم الغضروفي	chondromatous
+متعلق بالوَرَمِ الكيسِي	cystomatous
+متعلق بالوَرَمِ اللُّقْمِي	condylomatous
+متعلق بالوَرَمِ اللِّيفِيّ	fibromatous
+متعلق بالوَرَمِ المُخاطيّ	myxomatous
+متعلق بالوَرَمِ المَسْخِيّ	teratomatous
+متعلق بالوَرَمِ الميلانينيّ	melanomatous
+متعلق بالوَرَمِ الوِعائِيّ	angiomatous
+متعلق بأَمْرَاضِ النِّسَاء	gynopathic
+متعلق ببَواكيرِ المَرَض	pathoformic
+متعلق بتَراجُعِ المَرَض	catabatic
+متعلق بتَصْنيفِ الأَمْراض	nosologic
+متعلق بتَصْنيفِ الأَمْراض	nosological
+متعلق بخَلَلِ الوَزْن	dysponderal
+متعلق بعِلْمِ الأَوْرَام	oncologic (oncological)
+متعلق بمُقَدِّماتِ الاِبْيِضاض	preleukemic
+متغير الشوط	variable-stroke
+مُتَّقِد	impassioned
+مُتَلاَزِمَة	syndrome
+متلازمة 'كلاينفنتر'	Klinefelter's syndrome
+مُتَلاَزِمَةُ CRST	CRST syndrome
+مُتَلاَزِمَة G	G syndrome
+مُتَلازِمَة XYY	XYY syndrome
+مُتَلاَزِمَةُ آبير	Apert's syndrome (acrocephalosyndactyly)
+مُتَلاَزِمَةُ آبيركرومبي	Abercrombie's syndrome
+مُتَلاَزِمَةُ آحِ البَيْض	egg-white syndrome
+مُتَلاَزِمَةُ احْتِباسِ العَرَق	sweat retention syndrome
+مُتَلاَزِمَةُ اخْتِفاءِ العَين	cryptophthalmos syndrome
+مُتَلاَزِمَةُ آدَمز-ستوكس	Adams-Stokes syndrome
+متلازمة إدوارد	Edward's syndrome
+مُتَلازِمَةُ آدِي الحَدَقية	Adie's pupil syndrome
+مُتَلاَزِمَةُ آدير-دايتون	Adair-Dighton syndrome
+مُتَلاَزِمَةٌ أديسونيَّة	addisonian syndrome
+مُتَلاَزِمَةُ ارْتِفاعِ الحَرارَةِ الوَبيل	malignant hyperthermia syndrome
+مُتَلاَزِمَةُ آرنولد-خياري	Arnold-chiari syndrome
+مُتَلاَزِمَةُ آشار-ثيرز	Achard-Thiers syndrome
+مُتَلاَزِمَةُ آشَر	Ascher's syndrome
+مُتَلاَزِمَةُ آشَرمان	Asherman's syndrome
+مُتَلاَزِمَةُ إصْبَعِ القَدَمِ الزَّرْقاء	blue toe syndrome
+مُتَلاَزِمَةُ إِضَاعَةِ المِلْح	salt-losing syndrome
+مُتَلاَزِمَةُ آفيلِّيس	Avellis' syndrome
+مُتَلاَزِمَةُ آكسنفيلد	Axenfeld's syndrome
+مُتَلاَزِمَةُ الأَجْوَفِ العُلْوِيّ	superior caval syndrome
+مُتَلاَزِمَةُ الارْتِجاج	concussion syndrome
+مُتَلاَزِمَةُ الأَروماتِ المُنْسِجَةِ	hemohistioblastic syndrome
+مُتَلاَزِمَةُ الاسْتِئْناثِ الخُصْوِيّ	testicular feminization syndrome
+مُتَلاَزِمَةُ الاسْتِلْقاءِ الخافِضِ	supine hypotensive syndrome
+مُتَلاَزِمَةُ الإِشْعاع	radiation syndrome
+مُتَلازِمَةُ الإطْلاَق	release syndrome
+مُتَلاَزِمَةُ الإِغْراق	dumping syndrome
+مُتَلازِمَةُ الامْتِناع	abstinence syndrome
+مُتَلاَزِمَةُ الامْتِناع	withdrawal syndrome
+مُتَلاَزِمَةُ الامْتِناعِ عَنِ الكُحول	alcohol withdrawal syndrome
+مُتَلاَزِمَةُ الأمْعاءِ القَصيرَة	short bowl syndrome
+مُتَلاَزِمَةُ الأُمومَة	maternal syndrome
+مُتَلاَزِمَةُ الانْدِماجِ الرَّقَبِيّ	cervical fusion syndrome
+مُتَلاَزِمَةُ الانْضِغاط	compression syndrome
+مُتَلاَزِمَةُ الانْضِغاطِ الرَّقَبِيّ	cervical compression syndrome
+مُتَلاَزِمَةُ الانْضِغاطِ العصَبِيّ	nerve compression syndrome
+مُتَلاَزِمَةُ الاِنْكِماش	retraction syndrome
+مُتَلاَزِمَةُ الأَيَّامِ الأَرْبَعَة	four-day syndrome
+مُتَلاَزِمَةُ البَطْنِ البَرْقوقِيَّة	prune-belly syndrome
+مُتَلاَزِمَةُ البُطَينِ الرَّابِع	fourth ventricle syndrome
+متلازمة البقرة السمينة	fat cow syndrome
+مُتَلاَزِمَةُ آلبورت	Alport's syndrome
+مُتَلاَزِمَةُ التَّحَسُّسِ الذَّاتِيِّ	autoerythrocyte sensitization syndrome
+مُتَلاَزِمَةُ التَّحْسيسِ الذَّاتِيِّ	erythrocyte autosensitization syndrome
+مُتَلاَزِمَةُ التَّرَعُّشِ	amyostatic syndrome (hepatolenticular degeneration)
+مُتَلاَزِمَةُ التريبارانول	triparanol syndrome
+مُتَلاَزِمَةُ التَّصالُبَة	chiasma syndrome (chiasmatic syndrome)
+مُتَلاَزِمَةُ التَّصالُبَة	chiasmatic syndrome
+مُتَلاَزِمَةُ التَّصالُبَةِ البَصَرِيَّة	optic chiasm syndrome
+مُتَلاَزِمَةُ التَّعايُشِ الالْتِصاقِيِّ	intrauterine parabiotic syndrome (placental transfusion syndrome)
+مُتَلاَزِمَةُ التَّعَرُّقِ الذَّوقِيّ	gustatory sweating syndrome (auriculotemporal syndrome)
+مُتَلاَزِمَةُ التَّقْزيم	runting syndrome (graft vs. host reaction)
+مُتَلاَزِمَةُ التَّكاثُرِ النِّقْيِيّ	myeloproliferative syndrome
+مُتَلاَزِمَةُ التَّكَدُّمِ المُؤْلِم	painful bruising syndrome
+مُتَلاَزِمَةُ التَّلاَؤُمِ العامّ	general adaptation syndrome
+مُتَلاَزِمَةُ التَّلْفيفِ الزَّاوِيّ	angular gyrus syndrome
+مُتَلاَزِمَةُ التَّلَيُّف	fibrosing syndrome
+مُتَلاَزِمَةُ التَّوَضُّع	loculation syndrome
+مُتَلاَزِمَةُ الثاليدوميد	thalidomide syndrome
+مُتَلاَزِمَةُ الثُّقْبَةِ القَذالِيَّة	occipital foramen syndrome
+مُتَلاَزِمَةُ الثُّقْبَةِ الوِداجِيَّة	jugular foramen syndrome
+مُتَلاَزِمَةُ الثَّنْيَةِ الطِّحالِيَّة	splenic flexure syndrome
+مُتَلاَزِمَةُ الجَذْرِ الحَرَكِيّ	motor radicular syndrome
+مُتَلاَزِمَةُ الجَذْرِ الحِسِّيّ	sensory radicular syndrome
+مُتَلاَزِمَةُ الجِسْمِ الثَّفَنِيّ	callosal syndrome
+مُتَلاَزِمَةُ الجِسْمِ المُخَطَّط	syndrome of corpus striatum
+مُتَلاَزِمَةُ الجِسْمِ المُخَطَّطِ الحَديث	neostriatal syndrome
+مُتَلاَزِمَةُ الجِسْمِ المُخَطَّطِ القَديم	paleostriatal syndrome
+مُتَلاَزِمَةُ الجِلْدِ المُتَيَبِّس	stiff skin syndrome
+مُتَلاَزِمَةُ الجِلْدِ المَسْموط	scalded skin syndrome
+مُتَلاَزِمَةُ الجَنينِ الكُحولِيّ	fetal alcohol syndrome
+مُتَلاَزِمَةُ الجَنِيْنِ المَيِّت	dead fetus syndrome
+مُتَلاَزِمَةُ الجُهْد	effort syndrome
+مُتَلاَزِمَةُ الجوعِ المَرَضِيّ	morbid hunger syndrome
+مُتَلاَزِمَةُ الجَيبِ السُّباتِيّ	carotid sinus syndrome
+مُتَلاَزِمَةُ الجَيبِ الكَهْفِيّ	cavernous sinus syndrome
+مُتَلاَزِمَةُ الجَيبَةِ البُلْعومِيَّة	pharyngeal pouch syndrome
+مُتَلاَزِمَةُ الحَبْلِ الخَلْفِيّ	posterior cord syndrome
+مُتَلاَزِمَةُ الحُراق	causalgia syndrome
+مُتَلاَزِمَةُ الحَصْبَةِ الأَلْمانِيَّة	rubella syndrome
+مُتَلاَزِمَةُ الحِفاظِ الأَحْمَر	red diaper syndrome
+مُتَلاَزِمَةُ الحِفاظِ الأَزْرَق	blue diaper syndrome
+مُتَلاَزِمَةُ الحُمَّى النَّزْفِيَّة	hemorrhagic fever syndrome
+مُتَلاَزِمَةُ الحَيِّزِ الأَمامِيّ	anterior compartment syndrome
+مُتَلاَزِمَةُ الحَيِّزِ الظُّنْبوبِيِّ	anterior tibial compartment syndrome
+مُتَلاَزِمَةُ الحَيِّزِ خَلْفَ	syndrome of retroparotid space
+مُتَلاَزِمَةُ الخُثارِ المِحْفَظِيّ	capsular thrombosis syndrome
+متلازمة الخشخاش طويل القامة	Tall Poppy Syndrome
+مُتَلاَزِمَةُ الخِصِيِّ الخَصيب	fertile eunuch syndrome
+مُتَلاَزِمَةُ الخِصَى المُؤَنِّثَة	feminizing testes syndrome
+مُتَلاَزِمَةُ الخُصَى المُضْمَحِلَّة	vanishing testes syndrome
+مُتَلاَزِمَةُ الخُصْيَةِ الرَّديمَة	rudimentary testis syndrome
+مُتَلاَزِمَةُ الخَطِّ المُتَوَسِّط	midline syndrome
+مُتَلازِمَةُ الخَلَلِ الغُدِّيّ	dysglandular syndrome
+مُتَلاَزِمَةُ الخللِ الوَظيفِيِّ	placental dysfunction syndrome
+مُتَلاَزِمَةُ الدِّماغِ المُتَوَسِّطِ و	pallidomesencephalic syndrome
+مُتَلاَزِمَةُ الدِّماغِ المَشْطور	split-brain syndrome
+مُتَلاَزِمَةُ الدُّهْنِ السُّمِّيّ	toxic fat syndrome
+مُتَلاَزِمَةُ الدُّوارِ الحَنْجَرِيّ	laryngeal vertigo syndrome
+مُتَلاَزِمَةُ الذِّئْبَةِ النَّاجِمَةِ عن	hydralazine lupus syndrome
+مُتَلاَزِمَةُ الرِّئَةِ المَزْرُوْعَة	transplant lung syndrome
+مُتَلاَزِمَةُ الرِّئَةِ المُفْرِطَةِ	hyperlucent lung syndrome
+مُتَلاَزِمَةُ الرَّأْسِ المُغْلَق	closed head syndrome
+مُتَلاَزِمَةُ الرَّبْلَةِ الضَّعيفَة	weak calf syndrome
+مُتَلاَزِمَةُ الرَّجُلِ المُتَيَبِّس	stiff-man syndrome
+مُتَلاَزِمَةُ الرَّضَيعِ المُتَرَهِّل	floppy infant syndrome
+مُتَلاَزِمَةُ الرَّقَص	chorea syndrome
+مُتَلاَزِمَةُ الرَّنَحِ و تَوَسُّعِ	ataxia-telangiectasia syndrome
+مُتَلاَزِمَةُ الرَّهابَةِ المُفْرِطَةِ	hypersensitive xiphoid syndrome
+مُتَلاَزِمَةُ الزَّاوِيَّةِ	cerebellopontine angle syndrome
+مُتَلاَزِمَةُ الزَّاوِيَّةِ الجِسْرِيَّةِ	pontocerebellar angle syndrome
+مُتَلاَزِمَةُ الزَّاوِيَةِ القَذالِيَّةِ	occipitovertebral angle syndrome
+مُتَلاَزِمَةُ السَّائِلِ السَّلَوِيّ	amniotic fluid syndrome
+مُتَلاَزِمَةُ السَّرْجِ الفَارِغ	empty-sella syndrome
+مُتَلاَزِمَةُ السَّرِقَةِ الأَبْهَرِيَّةِ	aortoiliac steal syndrome
+مُتَلاَزِمَةُ السَّعالِ الاِنْعِكَاسِيِّ	Arnold's nerve reflex cough syndrome
+مُتَلاَزِمَةُ السَّكْتَة	stroke syndrome
+مُتَلاَزِمَةُ السَّيفِ الأَحْدَب	scimitar syndrome
+مُتَلاَزِمَةُ الشِّرْيانِ السُّبَاتِيِّ	Forssman's carotid syndrome
+مُتَلاَزِمَةُ الشِّرْيانِ المخِّيِّ	middle cerebral artery syndrome
+مُتَلاَزِمَةُ الشِّرْيانِ المَساريقِي	superior mesenteric artery syndrome
+مُتَلاَزِمَةُ الشَّريطِ السَّلَوِيّ	amniotic band syndrome
+مُتَلاَزِمَةُ الشَّلَلِ الرَّعَّاش	paralysis agitans syndrome
+مُتَلاَزِمَةُ الشَّيْبِ الوِرَاثِيِّ	PHC syndrome (premature hereditary canities syndrome)
+متلازمة الصَّدمة السُّمِّيَّة	toxic shock syndrome
+مُتَلاَزِمَةُ الصَّفْراءِ المُثَخَّنَة	inspissated bile syndrome
+مُتَلاَزِمَةُ الصِّمامِ المُتَرَهِّل	floppy valve syndrome
+مُتَلاَزِمَةُ الصَّمَلِ الشَّيخوخِيّ	senile rigidity syndrome
+مُتَلاَزِمَةُ الصوديوم المُنْخَفِض	low sodium syndrome
+مُتَلاَزِمَةُ الضَّائقَةِ	adult respiratory distress syndrome
+مُتَلاَزِمَةُ الضَّائِقَةِ	respiratory distress syndrome
+مُتَلاَزِمَةُ الضَّائِقَةِ	respiratory distress syndrome of newborn
+مُتَلاَزِمَةُ الضِّلْعِ الرَّقَبِيَّة	cervical rib syndrome
+مُتَلاَزِمَةُ الطِّفْلِ المُفْرِطِ	hyperactive child syndrome
+مُتَلاَزِمَةُ الطِّفْلِ المُنْتَهَك	battered-child syndrome
+مُتَلاَزِمَةُ الطِّلاَءِ الأَصْفَر	yellow vernix syndrome
+مُتَلاَزِمَةُ الظُّفْرِ الأَصْفَر	yellow nail syndrome
+مُتَلاَزِمَةُ الظُّفْرِ و الرَّضَفَة	nail-patella syndrome
+مُتَلاَزِمَةُ الظُّفْرَةِ المَأْبِضِيَّة	popliteal pterygium syndrome
+مُتَلاَزِمَةُ الظَّهْرِ القَويم	straight back syndrome
+مُتَلاَزِمَةُ العَدْوَى السَّلَوِيَّةِ	amniotic infection syndrome of Blane
+مُتَلاَزِمَةُ العَرَجِ الكاذِب	pseudoclaudication syndrome
+مُتَلاَزِمَةُ العُرْوَةِ الرَّاكِدَة	stagnant loop syndrome
+مُتَلاَزِمَةُ العُرْوَةِ المُقْفَلَة	blind loop syndrome
+مُتَلازِمَةُ العُرْوَةِ الوارِدَة	afferent loop syndrome
+مُتَلاَزِمَةُ العَصَبونِ الحَرَكِيِّ	peripheral motor neuron syndrome
+مُتَلاَزِمَةُ العَضَلَةِ الأَخْمَعِيَّةِ	scalenus syndrome (scalenus anticus syndrome)
+مُتَلاَزِمَةُ العَضَلَةِ الحُليمِيَّة	papillary muscle syndrome
+مُتَلاَزِمَةُ العُقْدَة الجَيبِيَّةِ	sick sinus syndrome
+مُتَلاَزِمَةُ العُقْدَةِ اللِّمْفِيَّةِ	mucocutaneous lymph node syndrome
+مُتَلاَزِمَةُ العَوَزِ الغُدِّيِّ	multiple glandular deficiency syndrome
+مُتَلازِمَةُ العَوَزِ المَناعِيِّ	acquired immunodeficiency syndrome (AIDS)
+مُتَلاَزِمَةُ الغِشاءِ المُحِيْطِ بالقولون	pericolic membrane syndrome
+مُتَلاَزِمَةُ الغشاءِ الهَيالِيني	hyaline membrane syndrome
+مُتَلاَزْمَةُ الفَتْقِ السُّرِّيِّ	E.M.G. syndrome
+مُتَلاَزِمَةُ الفَصِّ الجَبْهِيّ	frontal lobe syndrome
+مُتَلاَزِمَةُ الفَصِّ المُتَوَسِّط	middle lobe syndrome
+مُتَلاَزِمَةُ القَدَمِ الحَرِقَة	burning feet syndrome
+مُتَلاَزِمَةُ القُرْصِ الرَّقَبِيِّ	cervical disk syndrome
+مُتَلاَزِمَةُ القُرْصِ المُنْفَتِق	herniated disk syndrome
+مُتَلاَزِمَةُ القَرْنِ الأَمَامِيِّ	anterior cornual syndrome
+مُتَلاَزِمَةُ القَرْنِ الأَمامِيّ	anterior horn syndrome
+مُتَلاَزِمَةُ القَزامَةِ-السُّكَّرِيَّة	dwarfism-diabetes syndrome
+مُتَلاَزِمَةُ القِشْرَةِ أَمامَ	premotor syndrome
+مُتَلاَزِمَةُ القَلْبِ الأَيسَرِ	hypoplastic left-heart syndrome
+مُتَلاَزِمَةُ القَلْبِ المُتَيَبِّس	stiff heart syndrome
+مُتَلاَزِمَةُ القَلْبِ و اليَد	heart-hand syndrome
+مُتَلاَزِمَةُ القَلَق	anxiety syndrome
+مُتَلاَزِمَةُ القَلْقَلَة	click syndrome
+مُتَلاَزِمَةُ القَهَم و الدَّنَف	anorexia-cachexia syndrome
+مُتَلاَزِمَةُ القَوسِ الأولى	first arch syndrome
+مُتَلاَزِمَةُ القولونِ المُتَهَيِّج	irritable bowel syndrome
+مُتَلاَزِمَةُ الكَتِفِ و اليَد	shoulder-hand syndrome
+مُتَلاَزِمَةُ الكَرْبِ المُتَأَخِّر	delayed stress syndrome
+مُتَلاَزِمَةُ الكُرَةِ الشَّاحِبَة	pallidal syndrome
+مُتَلاَزِمَةُ اللَّبَنِ و القَلَوِيّ	milk-alkali syndrome
+مُتَلاَزِمَةُ أَلَمِ الرُّكْبَة	knee pain syndrome
+مُتَلاَزِمَةُ المَبيضِ المُتَعَدِّدِ	polycystic ovary syndrome
+مُتَلاَزِمَةُ المُثَلَّثِ البَصَلِيّ	bulbar triangle syndrome
+مُتَلاَزِمَةُ المُحَرِّكِ الوِعائِيِّ	Friedmann's vasomotor syndrome
+مُتَلاَزِمَةُ المَخْرَج	outlet syndrome
+مُتَلاَزِمَةُ المُخَيخِ الحَديث	neocerebellar syndrome
+مُتَلاَزِمَةُ المَطْعَمِ الصِّينِيّ	Chinese restaurant syndrome
+مُتَلاَزِمَةُ المَفْصِلِ الصُّدْغِيِّ	temporomandibular joint syndrome
+مُتَلاَزِمَةُ المُلاَكِمين	boxer's syndrome
+مُتَلاَزِمَةُ المِلْحِ المُنْخَفِض	low salt syndrome
+مُتَلاَزِمَةُ المُنْحَبِس	locked-in syndrome
+مُتَلاَزِمَةُ المُنْسِجَاتِ الزَّرْقاء	syndrome of sea-blue histiocyte
+مُتَلاَزِمَةُ المُواء	cat's cry syndrome
+مُتَلاَزِمَةُ المُواء	cri du chat syndrome
+مُتَلاَزِمَةُ المَوتِ الدِّماغِيّ	brain death syndrome
+مُتَلاَزِمَةُ المَوضِعِ الأَسْوَد	locus niger syndrome (paralysis agitans)
+مُتَلاَزِمَةُ النَّاحِلَة	gracilis syndrome
+مُتَلاَزِمَةُ النُّخاعِ السِّنْجابِيّ	gray spinal syndrome
+مُتَلاَزِمَةُ النَّفَقِ الرُّسُغِيّ	carpal tunnel syndrome
+مُتَلاَزِمَةُ النَّفَقِ الرُّصُغِيّ	tarsal tunnel syndrome
+مُتَلاَزِمَةُ النَّفَقِ المِرْفَقِيّ	cubital tunnel syndrome
+مُتَلاَزِمَةُ النَّمَشِ المُتَعَدِّد	multiple lentigines syndrome
+مُتَلاَزِمَةُ النَّواةِ المُخَطَّطَة	striatal syndrome
+مُتَلاَزِمَةُ الهُراء	nonsense syndrome
+مُتَلاَزِمَةُ الهِرْبِسِ الحَمْلِيّ	herpes gestationis syndrome
+مُتَلاَزِمَةُ الهُرْمُونِ المُوَجِّهِ	ectopic ACTH syndrome
+مُتَلاَزِمَةُ الوَجْهِ الصَّافِر	whistling face syndrome
+مُتَلاَزِمَةُ الوَجْهِ الصَّافِرِ	whistling face-windmill vane hand syndrome
+مُتَلاَزِمَةُ الوَرَمِ العابِيِّ	multiple hamartoma syndrome
+مُتَلازِمَةُ الوَريدِ الأَجْوَفِ	superior vena cava syndrome
+مُتَلاَزِمَةُ الوَرِيْدِ الرُّولانديّ	rolandic vein syndrome
+مُتَلاَزِمَةُ الوَهَنِ العَضَلِيِّ الوَبيل	myasthenia gravis syndrome
+مُتَلاَزِمَةُ آليتساندريني	Alezzandrini's syndrome
+مُتَلاَزِمَةُ اليَدِ و الكَتِف	hand-shoulder syndrome
+مُتَلاَزِمَةُ أنجليوتشي	Angelucci's syndrome
+مُتَلاَزِمَةُ انْحِلاَلِ الدَّمِ-اليوريمية	hemolytic-uremic syndrome
+مُتَلاَزِمَةُ آنديرسَن	Andersen's syndrome
+مُتَلاَزِمَةُ انْسِدادِ العُرْوَةِ	gastrojejunal loop obstruction syndrome
+مُتَلاَزِمَةٌ انْصِمامِيَّةٌ خُثارِيَّة	thromboembolic syndrome
+مُتَلاَزِمَةُ انْضِغاطِ النُّخاعِ	spinal cord compression syndrome
+مُتَلاَزِمَةُ أنطون	Anton's syndrome
+مُتَلاَزِمَةُ انْعِدامِ الطِّحال	asplenia syndrome
+مُتَلاَزِمَةُ انْقِطاعِ النَّفَسِ	sleep apnea syndrome
+مُتَلاَزْمَةُ آهومادا-ديل كاستيّو	Ahumada-del Castillo syndrome
+مُتَلاَزِمَةُ أوبينهايم	Oppenheim's syndrome
+مُتَلاَزِمَةُ أوسترام-فيرست	Ostrum-Furst syndrome
+مُتَلاَزِمَةُ أوغيلفي	Ogilvie's syndrome
+مُتَلاَزِمَةُ أولبرايت	Albright's syndrome
+مُتَلاَزِمَةُ أولبرايت-ماكيون-ستيرنبيرغ	Albright-MacCune-Sternberg syndrome
+مُتَلاَزِمَةُ أولدريش	Aldrich's syndrome
+مُتَلاَزِمَةُ أولريخ-تيرنر	Ullrich-Turner syndrome
+مُتَلاَزِمَةُ أولريخ-فايختيغر	Ullrich-Feichtiger syndrome
+مُتَلاَزِمَةُ أونفيريخت	Unverricht's syndrome
+مُتَلاَزِمَةٌ إِياسِيَّة	menopausal syndrome
+مُتَلاَزِمَةُ إيبستاين	Epstein's syndrome (nephrotic syndrome)
+مُتَلاَزِمَةُ إيدوارد	Edwards' syndrome
+مُتَلاَزِمَةُ أيدوز	Eddowes' syndrome
+مُتَلاَزِمَةُ أيدي	Adie's syndrome
+مُتَلاَزِمَةُ إيرب	Erb's syndrome
+مُتَلاَزِمَةُ آيزينمينغر	Eisenmenger's syndrome
+مُتَلاَزِمَةُ إيفمارك	Ivemark's syndrome
+مُتَلاَزِمَةُ إيكبوم	Ekbom syndrome
+مُتَلاَزِمَةُ إيلَر-دانلوس	Ehlers-Danlos syndrome
+متلازمة ايلرز-دنلوس	Ehlers-Danlos syndrome
+مُتَلاَزِمَةُ إيليس-فان كريفيلد	Ellis-Van Creveld syndrome
+مُتَلاَزِمَةُ آييرزا	Ayerza's syndrome
+مُتَلاَزِمَةُ بابيلون-ليفيفر	Papillon-Lefevre syndrome
+مُتَلاَزِمَةُ بابينسكي	Babinski's syndrome
+مُتَلاَزِمَةُ بابينسكي فاكيه	Babinski-Vaquez syndrome
+مُتَلاَزِمَةُ بابينسكي فروليخ	Babinski-Frohlich syndrome
+مُتَلاَزِمَةُ بابينسكي ناجوت	Babinski-Nageotte syndrome
+مُتَلاَزِمَةُ باتاو	Patau's syndrome
+مُتَلاَزِمَةُ باترسون	Paterson's syndrome
+مُتَلاَزِمَةُ باترسون براون-كيلي	Paterson-Brown-Kelly syndrome
+مُتَلاَزِمَةُ باترسون-كيلي	Paterson-Kelly syndrome
+مُتَلاَزِمَةُ باد-خياري	Budd-Chiari syndrome
+مُتَلاَزِمَةُ بارتر	Bartter's syndrome
+مُتَلاَزِمَةُ بارديه-بيدل	Bardet-Biedl syndrome
+مُتَلاَزِمَةٌ باركنسونيَّة	parkinsonian syndrome
+مُتَلاَزِمَةُ باري-رومبيرغ	Parry-Romberg syndrome
+مُتَلاَزِمَةُ بارينو	Parinaud's syndrome
+مُتَلاَزِمَةُ بارينو العَينِيَّةُ	Parinaud'a oculoglandular syndrome
+مُتَلاَزِمَةُ باريه-غِيَّان	Barré-Guillain syndrome (acute idiopathic polyneuritis)
+مُتَلاَزِمَةُ باسترب	Baastrup's syndrome (kissing spine)
+مُتَلاَزِمَةُ باسن كورنزفايغ	Bassen-Kornzweig syndrome
+مُتَلاَزِمَةُ بافرشتيت	Bafverstedt's syndrome
+مُتَلاَزِمَةُ بالينت	Balint's syndrome
+مُتَلاَزِمَةُ بانتي	Banti's syndrome
+مُتَلاَزِمَةُ بانكوست	Pancoast's syndrome
+مُتَلاَزِمَةُ بتنام-دانا	Putnam-Dana syndrome
+مُتَلاَزِمَةُ براخمان ديلانغه	Brachmann-de Lange syndrome
+مُتَلاَزِمَةُ برادَر-فيلي	Prader-Willi syndrome
+مُتَلاَزِمَةُ براون-سيكار	Brown-Sequard syndrome
+مُتَلاَزِمَةُ بروشفيلد-وايات	Brushfield-Wyatt syndrome
+مُتَلاَزِمَةُ بروفيشيه	Profichet's syndrome
+مُتَلاَزِمَةُ بروك	Brock syndrome
+مُتَلاَزِمَةُ برونز	Bruns' syndrome
+مُتَلاَزِمَةُ برونستينغ	Brunsting's syndrome
+مُتَلاَزِمَةُ برويُّو	Brouillaud's syndrome
+مُتَلاَزِمَةُ بريستو	Bristowe's syndrome
+مُتَلاَزِمَةُ بريسو-سيكار	Brissaud-Sicard syndrome
+مُتَلاَزِمَةُ بريسو-ماري	Brissaud-Marie syndrome
+مُتَلاَزِمَةُ بريكيه	Briquet's syndrome
+مُتَلاَزِمَةُ برينمان	Brennemann's syndrome
+مُتَلاَزِمَةُ بُطْءِ القَلْبِ-تَسَرُّعِ	bradycardia-tachycardia syndrome
+مُتَلاَزِمَةُ بلاتان	Blatin's syndrome (hydatid thrill)
+مُتَلاَزِمَةُ بلامَر-فينسون	Plummer-Vinson syndrome
+مُتَلاَزِمَةُ بلوخ-سولسبيرغر	Bloch-Sulzberger syndrome (incontinentia pigmenti)
+مُتَلاَزِمَةُ بلوم	Bloom's syndrome
+مُتَلاَزِمَةُ بليتسي	Pellizzi's syndrome
+مُتَلاَزِمَةٌ بَنْكِرْياسِيَّةٌ كَبِدِيَّة	pancreaticohepatic syndrome
+مُتَلاَزِمَةُ بنيدكت	syndrome of Benedikt
+مُتَلاَزِمَةُ بهجت	Behcet's syndrome
+مُتَلاَزِمَةُ بو	Beau's syndrome
+مُتَلاَزِمَةُ بوتر	Potter's syndrome
+مُتَلاَزِمَةُ بورغر-غروتز	Burger-Gr‏tz syndrome
+مُتَلاَزِمَةُ بوشكيه-أوليندورف	Buschke-Ollendorff syndrome
+مُتَلاَزِمَةُ بوفيريه	Bouveret's syndrome
+مُتَلاَزِمَةُ بوك	Book's syndrome
+مُتَلاَزِمَةُ بولاند	Poland's syndrome
+مُتَلاَزِمَةُ بوليموس-شيفر-ايفمارك	Polhemus-Schafer-Ivemark syndrome
+مُتَلاَزِمَةُ بونفي-أولريخ	Bonnevie-Ullrich syndrome
+مُتَلاَزِمَةُ بونييه	Bonnier's syndrome
+مُتَلاَزِمَةُ بويتز	Peutz syndrome
+مُتَلاَزِمَةُ بويتزجيغَرز	Peutz-Jeghers syndrome
+مُتَلاَزِمَةُ بيانكي	Bianchi's syndrome
+مُتَلاَزِمَةُ بيبَر	Pepper syndrome
+مُتَلاَزِمَةُ بيدل	Biedl's syndrome
+مُتَلاَزِمَةُ بيرتولوتي	Bertolotti's syndrome
+مُتَلاَزِمَةُ بيرنار	Bernard's syndrome
+مُتَلاَزِمَةُ بيرنار-سيرجان	Bernard-Sergent syndrome
+مُتَلاَزِمَةُ بيرنار-هورنَر	Bernard-Horner syndrome
+مُتَلاَزِمَةُ بيرنهايم	Bernheim's syndrome
+مُتَلاَزِمَةُ بيرنيت	Burnett's syndrome
+مُتَلاَزِمَةُ بيكوث	Beckwith's syndrome
+مُتَلاَزِمَةُ بيكَّيني	Picchini's syndrome
+مُتَلاَزِمَةُ بيليغريني-شتيدا	Pellegrini-Stieda syndrome
+مُتَلاَزِمَةُ بيمون	Biemond's syndrome
+مُتَلاَزِمَةُ بيندريد	Pendred's syndrome
+مُتَلاَزِمَةُ بيورنشتاد	Bjornstad's syndrome
+مُتَلاَزِمَةُ بيير روبان	Pierre Robin syndrome
+مُتَلاَزِمَةُ تابيا	Tapia's syndrome
+مُتَلاَزِمَةُ تَأَتُّرِ العَضَلِ	myotonia congenita syndrome
+مُتَلاَزِمَةُ تاكايازو	Takayasu's syndrome
+مُتَلاَزِمَةٌ تالِيَةٌ للإِصابَةِ	postcardiac injury syndrome
+مُتَلاَزِمَةٌ تالِيَةٌ للتَّشْعيع	postirradiation syndrome
+مُتَلاَزِمَةُ تاوسيغ-بينغ	Taussig-Bing syndrome
+مُتَلاَزِمَةُ تَثَلُّثُ الصِّبْغِيِّ 18	trisomy 18 syndrome
+مُتَلاَزِمَةُ تَثَلُّثُ الصِّبْغِيِّ 21	trisomy 21 syndrome
+مُتَلاَزِمَةُ تَثَلُّثُ الصِّبْغِيِّ D	trisomy D syndrome
+مُتَلاَزِمَةُ تَثَلُّثُ الصِّبْغِيِّ E	trisomy E syndrome
+مُتَلاَزِمَةُ تَثَلُّثُ الصِّبْغِيَّات	trisomy 13-15 syndrome
+مُتَلاَزِمَةُ تَثَلُّثُ الصِّبْغِيَّات	trisomy 16-18 syndrome
+متلازمة تخصيص الموارد	Resource Allocation Syndrome
+مُتَلاَزِمَةُ تركو	Turcot syndrome
+مُتَلاَزِمَةُ تروازيه	Troisier's syndrome
+مُتَلاَزِمَةُ تريتشر كولينز	Treacher Collins syndrome
+مُتَلاَزِمَةُ تشارلين	Charlin's syndrome
+مُتَلاَزِمَةُ تشيتلي	Citelli's syndrome
+مُتَلاَزِمَةُ تشيدياق-هيغاشي	Chediak-Higashi
+مُتَلاَزِمَةُ تَضَخُّمِ العُقَدِ	lymphadenopathy syndrome
+مُتَلاَزْمَةُ تَعَذُّرَِّ الحَرَكَةِ	akinetic-abulic syndrome
+مُتَلاَزِمَةُ تَكَوُّرِ العَدَسَةِ و	spherophakia-brachymorphia syndrome
+مُتَلاَزِمَةُ تَمَلْمُلِ السَّاقَين	restless legs syndrome
+مُتَلاَزِمَةُ تورين-سولانت-غوليه	Touraine-Solente-Gole syndrome
+مُتَلاَزِمَةُ توماسيلي	Tommaselli's syndrome
+مُتَلاَزِمَةُ تيبيرج-فايسينباخ	Thibierge-Weissenbach syndrome
+مُتَلاَزِمَةُ تيتزه	Tietze's syndrome
+مُتَلاَزِمَةُ تيرنر	Turner's syndrome
+مُتَلاَزِمَةُ تيرنر عند الذَّكَر	male Turner's syndrome
+مُتَلاَزِمَةُ تيري	Terry's syndrome
+مُتَلاَزِمَةُ تيل	Thiele syndrome
+مُتَلاَزِمَةُ تيم	Timme's syndrome
+مُتَلاَزِمَةُ ثورن	Thorn's syndrome
+مُتَلاَزِمَةُ جافه-ليكتينستاين	Jaffe-Lichtenstein syndrome
+مُتَلاَزِمَةُ جاكسون	Jackson's syndrome
+مُتَلاَزِمَةُ جاكوب-كريتسفيلد	Jacob-Creutzfeldt syndrome
+مُتَلاَزِمَةٌ جَذْرِيَّة	radicular syndrome
+مُتَلاَزِمَةُ جرفل ولانفه-نيلسون	Jervell and Lange-Nielsen syndrome
+مُتَلاَزِمَةٌ جِسْرِيَّة	pontine syndrome
+مُتَلاَزِمَةُ جِسْمِ ليوِي	body of Luys' syndrome (hemiballismus)
+مُتَلاَزْمَةُ جُفَافِ العَين	dry eye syndrome
+مُتَلاَزِمَةٌ جُفافِيَّة	sicca syndrome
+مُتَلاَزِمَةُ جوب	Job's syndrome
+مُتَلاَزِمَةُ جون	Jeune's syndrome
+مُتَلاَزِمَةُ جيانوتي-كروستي	Gianotti-Crosti syndrome
+مُتَلاَزِمَةُ جيرليه	Gerlier 's syndrome
+مُتَلاَزِمَةُ جيل دو لاتوريت	Gilles de la Tourette's syndrome
+مُتَلازِمَةُ جيل دولاتوريت	myriachit (Giles de la Tourette's syndrome)
+مُتَلاَزِمَةُ جيلبير	Gilbert's syndrome
+مُتَلاَزِمَةُ جيلينو	Gelineau's syndrome (narcolepsy)
+مُتَلازِمَةُ حِرْمانِ الأُمومَة	maternal deprivation syndrome
+مُتَلاَزِمَةُ حِزامِ الكَتِف	shoulder girdle syndrome
+مُتَلاَزِمَةُ خَلايا سيرتولي فَقَط	Sertoli-cell-only syndrome
+مُتَلاَزِمَةٌ خِلْطِيَّة	humorals syndrome
+مُتَلاَزِمَةٌ خَلْفِيَّةٌ وَحْشِيَّة	posterolateral syndrome
+مُتَلاَزِمَةُ خَلَلِ التَّقَرُّنِ	hereditary benign intraepithelial dyskeratosis syndrome
+مُتَلاَزِمَةُ خَلَلِ التَّنَسُّجِ	dysplasia oculodentodigitalis syndrome
+مُتَلاَزِمَةُ خَلَلِ التَّوازُن	dysequilibrium syndrome
+مُتَلاَزِمَةُ خَلَلِ الذَّاكِرَة	dysmnesic syndrome
+مُتَلاَزِمَةُ خياري	Chiari's syndrome
+مُتَلاَزِمَةُ خياري فروميل	Chiari-Frommel syndrome
+مُتَلاَزِمَةُ خياري-آرنولد	Chiari-Arnold syndrome
+مُتَلاَزِمَة داءِ السَّلائِلِ و الوَرَمِ	glioma-polyposis syndrome
+مُتَلاَزِمَةُ داكوستا	Da Costa's syndrome
+مُتَلاَزِمَةُ دانبولت-كلوس	Danbolt-Closs syndrome
+مُتَلاَزِمَةُ داندي ووكر	Dandy-Walker syndrome
+مُتَلاَزِمَةُ دانلو	Danlos' syndrome
+مُتَلاَزِمَةُ داون	Down's syndrome
+مُتَلاَزِمَةُ دايتون-آدير	Dighton-Adair syndrome
+مُتَلاَزِمَةُ دايك-دافيدوف	Dyke-Davidoff syndrome
+مُتَلاَزِمَةُ دريسباخ	Dresbach's syndrome
+مُتَلاَزِمَةُ دريسلر	Dressler's syndrome
+مُتَلاَزِمَةٌ دِماغِيَة	brain syndrome
+مُتَلاَزِمَةٌ دِماغِيَّةٌ بَينِيَّة	diencephalic syndrome
+مُتَلازِمَةٌ دِماغِيَّةٌ عُضْوِيَّة	organic brain syndrome
+مُتَلاَزِمَةُ دُموعِ التَّماسيح	syndrome of crocodile tears
+مُتَلاَزِمَةٌ دَمَوِيَّةٌ جَنْبَوِيَّةٌ	hemopleuropneumonic syndrome
+مُتَلاَزِمَةُ دَوان	Duane's syndrome
+مُتَلاَزِمَةُ دوبروي-شامبارديل	Dubreuil-Chambardel syndrome
+مُتَلاَزِمَةُ دوبليه	Duplay's syndrome
+مُتَلاَزِمَةُ دوبين-جونسون	Dubin-Johnson syndrome
+مُتَلاَزِمَةُ دوبين-سبرينتز	Dubin-Sprinz syndrome
+مُتَلاَزِمَةُ دوشين-إيرب	Duchenne-Erb syndrome
+مُتَلاَزِمَةُ دوغو	Degos' syndrome (malignant papulosis)
+مُتَلاَزِمَةُ دولانغه	de Lange's syndrome
+مُتَلاَزِمَةُ دونوهيو	Donohue's syndrome
+مُتَلاَزِمَةُ دونيى-مارفان	Dennie-Marfan syndrome
+مُتَلاَزِمَةُ دي توني-فانكوني	de Toni-Fanconi syndrome
+مُتَلاَزِمَةُ دي جورج	DiGeorge's syndrome
+مُتَلاَزِمَةُ دي سانكتس-كاشيون	De Sanctis-Cacchione syndrome
+مُتَلاَزِمَةُ دي غولييلمو	Di Guglielmo syndrome
+مُتَلاَزِمَةُ ديجيرين	Dejerine's syndrome
+مُتَلاَزِمَةُ ديجيرين روسي	syndrome of Dejerine-Roussy (thalamic syndrome)
+مُتَلاَزِمَةٌ ذَبْحِيَّة	anginal syndrome
+مُتَلاَزِمَةٌ ذَبْحِيَّة	anginose syndrome
+مُتَلاَزِمَةُ ذِرْوَةِ الحَجَاج	orbital apex syndrome
+مُتَلاَزِمَةُ ذِرْوَةِ الضِّلْع	rib-tip syndrome
+مُتَلاَزِمَةُ ذَنَبِ الفَرَس	cauda equina syndrome
+مُتَلاَزِمَةُ راسل	Russell's syndrome
+مُتَلاَزِمَةُ رامسي-هانت	Ramsay Hunt syndrome
+مُتَلاَزِمَةُ راي	Reye's syndrome
+مُتَلاَزِمَةُ رايت	Wright's syndrome
+مُتَلاَزِمَةُ رايتَر	Reiter's syndrome
+مُتَلاَزِمَةُ رايخمان	Reichmann's syndrome (gastrosuccorrhea)
+مُتَلاَزِمَةُ رايلي-ديه	Riley-Day syndrome
+مُتَلاَزِمَةُ رايلي-سميث	Riley-Smith syndrome
+مُتَلاَزِمَةُ رَبَّةِ البَيتِ المُرْهَقَة	tired housewife syndrome
+مُتَلاَزِمَةُ رَفَّةِ الحَنَك	jaw-winking syndrome
+مُتَلاَزِمَةٌ رَقَبِيَّة	cervical syndrome
+مُتَلاَزِمَةُ روبين	Robin's syndrome
+مُتَلاَزِمَةُ روبينستاين	Rubinstein's syndrome
+مُتَلاَزِمَةُ روبينستاين-تيبي	Rubinstein-Taybi syndrome
+مُتَلاَزِمَةُ روت	Rot's syndrome
+مُتَلاَزِمَةُ روتمان-ماكاي	Rothmann-Makai syndrome (panniculitis)
+مُتَلاَزِمَةُ روتموند-ثومسون	Rothmund-thomson syndrome
+مُتَلاَزِمَةُ روتور	Rotor's syndrome
+مُتَلاَزِمَةُ روجيه	Roger's syndrome
+مُتَلاَزِمَةُ رود	Rud's syndrome
+مُتَلاَزِمَةُ روزينباخ	Rosenbach's syndrome
+مُتَلاَزِمَةُ روزينثول	Rosenthal syndrome
+مُتَلاَزِمَةُ روزينثول-كلوبفر	Rosenthal-Kloepfer syndrome
+مُتَلاَزِمَةُ روست	Rust's syndrome
+مُتَلاَزِمَةُ روسي-دوجيرين	Roussy-Dejerine syndrome
+مُتَلاَزِمَةُ روسي-ليفي	Roussy-Levy syndrome
+مُتَلاَزِمَةُ روفسينغ	Rovsing syndrome
+مُتَلاَزِمَةُ روكيتانسكي-كوستر-هاوزر	Rokitansky-Kuster-Hauser syndrome
+مُتَلاَزِمَةُ ريغَر	Rieger's syndrome
+مُتَلاَزِمَةُ ريفسوم	Refsum's syndrome
+مُتَلاَزِمَةُ ريمون-سيستان	Raymond-Cestan syndrome
+مُتَلاَزِمَةُ ريندو-أوسلر-ويبر	Rendu-Osler-Weber syndrome
+مُتَلاَزِمَةُ زَوالِ الفبْرين	defibrination syndrome
+مُتَلاَزِمَةُ زولينجَر-إيليسون	Zollinger-Ellison syndrome
+مُتَلاَزِمَةُ زيف	Zieve syndrome
+مُتَلاَزِمَةُ سانفيليبو	Sanfilippo's syndrome
+مُتَلاَزِمَةُ سبيرويه	Spurway syndrome
+مُتَلاَزِمَةُ سبينس	Spens' syndrome
+مُتَلاَزِمَةُ ستاين-ليفينثال	Stein-Leventhal syndrome
+مُتَلاَزِمَةُ ستل-شوفار	Still-Chauffard syndrome
+مُتَلاَزِمَةُ ستوكز-آدامز	Stoke's syndrome (Stokes-Adams syndrome)
+مُتَلاَزِمَةُ ستوكفيز-تالما	Stokvis-Talma syndrome
+مُتَلاَزِمَةُ ستيرج	Sturge's syndrome (Sturge-Kalischer-Weber syndrome)
+مُتَلاَزِمَةُ ستيرج -ويبر	Sturge-Weber syndrome
+مُتَلاَزِمَةُ ستيفنز-جونسون	Stevens-Johnson syndrome
+مُتَلاَزِمَةُ ستيلنغ-تورك-دوين	Stilling-Turk-Duane syndrome
+مُتَلاَزِمَةُ ستيلينغ	Stilling syndrome
+مُتَلاَزِمَةُ ستيوارت--تريفيز	Stewart-Treves syndrome
+مُتَلاَزِمَةُ ستيوارت-موريل	Stewart-Morel syndrome
+مُتَلاَزِمَةُ سَحائِيَّة	meningeal syndrome
+مُتَلاَزِمَةُ سِدادَةِ العِقْي	meconium plug syndrome
+مُتَلاَزِمَةُ سَرَطانَةِ الخَلِيَّةِ	nevoid basal cell carcinoma syndrome
+مُتَلاَزِمَةُ سَرِقَةِ تَحْتَ التَّرْقُوَة	subclavian steal syndrome
+مُتَلاَزِمَةُ سلفيستريني-كوردا	Silvestrini-Corda syndrome
+مُتَلاَزِمَةُ سلودر	Sluder's syndrome
+مُتَلاَزِمَةُ سوءِ الامْتِصاص	malabsorption syndrome
+مُتَلاَزِمَةُ سوءِ الامْتِصاصِ للمِثيونين	methionine malabsorption syndrome
+مُتَلاَزِمَةُ سوديك-لوريش	Sudeck-Leriche syndrome
+مُتَلاَزِمَةُ سولزبيرغر-غاربيه	Sulzberger-Garbe syndrome
+مُتَلاَزِمَةُ سويت	Sweet's syndrome
+مُتَلاَزِمَةُ سُوَيقَةِ النَّواةِ	rubrospinal cerebellar peduncle syndrome
+مُتَلاَزِمَةُ سيرياكس	Cyriax's syndrome
+مُتَلاَزِمَةُ سيزاري	Sezary syndrome (Sezary reticulosis syndrome)
+مُتَلاَزِمَةُ سيستان	Cestan's syndrome
+مُتَلاَزِمَةُ سيستان ريمون	Cestan-Raymond syndrome
+مُتَلاَزِمَةُ سيستان شينايس	syndrome of Cestan-Chenais
+مُتَلاَزِمَةُ سيكار	Sicard's syndrome
+مُتَلاَزِمَةُ سيكيل	Seckel's syndrome
+مُتَلاَزِمَةُ سيلفر	Silver's syndrome
+مُتَلاَزِمَةُ سيلفرسكيولد	Silverskiold's syndrome
+مُتَلاَزِمَةُ سيموندز	Simmonds' syndrome
+مُتَلاَزِمَةُ سينير-آشر	Senear-Usher syndrome (pemphigus erythematosus)
+مُتَلاَزِمَةُ شاركو-وايس-بيكَر	Charcot-Weiss-Baker syndrome (carotid sinus syndrome)
+مُتَلاَزِمَةٌ شامِلَة	global syndrome
+مُتَلاَزِمَةُ شانتس	Schanz's syndrome
+مُتَلاَزِمَةُ شاومان	Schaumann's syndrome (sarcoidosis)
+مُتَلاَزِمَةُ شاي-دريغر	Shy-Drager syndrome
+مُتَلاَزِمَةٌ شَبيهَةٌ بالذِّئْبَةِ	SLE-like syndrome
+مُتَلاَزِمَةُ شتاينر	Steiner's syndrome
+مُتَلاَزِمَةٌ شُحامِيَّةٌ تَنَاسُلِيَّة	adiposogenital syndrome
+مُتَلاَزِمَةُ شُذُوْذِ نُضْجِ الرِّئَة	pulmonary dysmaturity syndrome
+مُتَلاَزِمَةُ شريدر	Schroeder's syndrome
+متلازمة شق الحبل	hemisyndrome = Brown - squard syndrome
+متلازمة شق الحبل	hemisyndrome = Brown-squard syndrome
+مُتَلاَزِمَةٌ شِقِّيَّةٌ مُخَيخِيَّة	cerebellar hemisyndrome (cerebellar hemiplegia)
+مُتَلاَزِمَةُ شميت	Schmidt's syndrome
+مُتَلاَزِمَةُ شوغرن	Sjogren's syndrome
+مُتَلاَزِمَةُ شوغرن لارسن	Sjogren-Larssen syndrome
+مُتَلاَزِمَةُ شوفار	Chauffard's syndrome
+مُتَلاَزِمَةُ شوفار-ستيل	Chauffard-Still syndrome
+مُتَلاَزِمَةُ شولتز	Schultz syndrome
+مُتَلاَزِمَةُ شولَر	Schuller's syndrome (Schuller-Christian syndrome)
+مُتَلاَزِمَةُ شونلاين-هينوخ	Schonlein-Henoch syndrome
+مُتَلاَزِمَةُ شيرغ-ستراوس	Churg-Strauss syndrome
+مُتَلاَزِمَةُ شيرمَر	Schirmer's syndrome
+مُتَلاَزِمَةُ شيفَر	Schafer's syndrome
+مُتَلاَزِمَةُ شيه	Scheie's syndrome
+مُتَلاَزِمَةُ شيهان	Sheehan's syndrome
+مُتَلاَزِمَةٌ صائِمِيَّة	jejunal syndrome
+مُتَلاَزِمَةٌ صُدْغِيَّةٌ وَتَدِيَّة	petrosphenoid syndrome
+مُتَلاَزِمَةُ صَدَمَةِ مرغيرت	Mergert's shock syndrome
+مُتَلاَزِمَةٌ صَنَوبَرِيَّة	pineal syndrome
+مُتَلاَزِمَةُ ضَفيرِيَّة	plexal syndrome
+مُتَلاَزِمَةٌ ضِلْعِيَّةٌ تَرْقُوِيَّة	costoclavicular syndrome
+مُتَلاَزِمَةٌ عَصَبِيَّةٌ جِلْدِيَّة	neurocutaneous syndrome
+مُتَلاَزِمَةٌ عَضَلِيَّةٌ قَلْبِيَّةٌ	myocardiac postinfarction syndrome
+مُتَلاَزِمَةُ عَوَزِ 17-هيدروكسيلاز	17-hydroxylase deficiency syndrome
+مُتَلاَزِمَةُ عَوَزِ الأَضْداد	antibody deficiency syndrome
+مُتَلاَزِمَةُ عَينِ القِطّ	cat's eye syndrome
+مُتَلاَزِمَةٌ عَينِيَّةٌ سِنِّيَّةٌ	oculodento-osseous syndrome
+مُتَلاَزِمَةٌ عَينِيَّةٌ مُخِّيَّةٌ	oculocerebrorenal syndrome
+مُتَلاَزِمَةٌ عَينِيَّةٌ وَجْهِيَّةٌ	oculo-mandibulofacial syndrome
+مُتَلاَزِمَةُ غاردنر	Gardner's syndrome
+مُتَلاَزِمَةُ غاردنر دياموند	Gardner-Diamond syndrome
+مُتَلاَزِمَةُ غاسَر	Gasser's syndrome
+مُتَلاَزِمَةُ غان	Gunn's syndrome
+مُتَلاَزِمَةُ غانسر	Ganser's syndrome
+مُتَلاَزِمَةُ غاوَر	Gower's syndrome (vasovagal attack)
+مُتَلاَزِمَةُ غايَّار	Gailliard's syndrome
+مُتَلاَزِمَةُ غايزبيك	Gaisbock's syndrome
+مُتَلاَزِمَةٌ غُدِّيَّةٌ مُتَعَدِّدَة	pluriglandular syndrome
+مُتَلاَزِمَةٌ غُدِّيَّةٌ مُتَعَدِّدَة	polyglandular syndrome
+مُتَلاَزِمَةُ غرادينيغو	Gradenigo's syndrome
+مُتَلاَزِمَةُ غراهام ليتل	Graham Little syndrome
+مُتَلاَزِمَةُ غرينبلاد-ستراندبيرغ	Gronblad-Strandberg syndrome
+مُتَلاَزِمَةُ غوبالان	Gopalan's syndrome
+مُتَلاَزِمَةُ غوجيرو-غارتو	Gougerot-Carteaud syndrome (confluent and reticulated papillomatosis)
+مُتَلاَزِمَةُ غوجيرو-نولوك-هاوَر	Gougerot-Nulock-Houwer syndrome (Sjugren syndrome)
+مُتَلاَزِمَةُ غود باستشار	Goodpasture's syndrome
+مُتَلاَزِمَةُ غورلين	Gorlin's syndrome (Gorlin-Goltz syndrome)
+مُتَلاَزِمَةُ غورلين غولتز	Gorlin-Goltz syndrome
+مُتَلاَزِمَةُ غولتز	Goltz's syndrome
+مُتَلاَزِمَةُ غولتز-غورلين	Goltz-Gorlin syndrome
+مُتَلاَزِمَةُ غولدينهار	Goldenhar's syndrome
+مُتَلاَزِمَةُ غي-هيرتر-هوبنَر	Gee-Herter-Heubner syndrome
+مُتَلاَزِمَةُ غيَّان-باريه	Guillain-Barre syndrome
+مُتَلاَزِمَةُ غيرستمان	Gerstmann's syndrome
+مُتَلاَزِمَةُ غيرهارد	Gerhardt's syndrome
+مُتَلاَزِمَةُ فابري	Fabry's syndrome
+مُتَلاَزِمَةُ فابير	Faber's syndrome
+مُتَلاَزِمَةُ فاردينبيرغ	Waardenburg's syndrome
+مُتَلاَزِمَةُ فافر-راكوشو	Favre-Racouchot syndrome
+مُتَلاَزِمَةُ فالنبرغ	Wallenberg's syndrome
+مُتَلاَزِمَةُ فالو	Fallot's syndrome
+مُتَلاَزِمَةُ فان در هوف	van der Hoeve's syndrome
+مُتَلاَزِمَةُ فايل-ماركيساني	Weill-Marchesani syndrome
+مُتَلاَزِمَةُ فرانتشيسكيتي-ياداسون	Franceschetti-Jadassohn syndrome
+مُتَلاَزِمَةُ فرانسوا	Francois' syndrome
+مُتَلاَزِمَةُ فراي	Frey's syndrome
+متلازمة فردريكسن ووترهاوس	Friderichsen-Waterhouse syndrome
+مُتَلاَزِمَةُ فَرْطِ اعْتِلاَلِ العَين	hyperophthalmopathic syndrome
+مُتَلاَزِمَةُ فَرْطِ التَّنَفُّسِ	chronic hyperventilation syndrome
+مُتَلاَزِمَةُ فَرْطِ التَّهْوِيَّة	hyperventilation syndrome
+مُتَلاَزِمَةُ فَرْطِ الحَرَكَة	hyperkinetic syndrome
+مُتَلاَزِمَةُ فَرْطِ الكَبْت	oversuppression syndrome
+مُتَلاَزِمَةُ فَرْطِ اللُّزوجَة	hyperviscosity syndrome
+مُتَلاَزِمَةُ فَرْطِ كالسيوم الدَّم	hypercalcemia syndrome
+مُتَلاَزِمَةُ فروان	Froin's syndrome
+مُتَلاَزِمَةُ فَرُّوْجِ سيبرايت	Seabright bantam syndrome (pseudohypoparathyroidism)
+مُتَلاَزِمَةُ فروليخ	Frohlich's syndrome
+مُتَلاَزِمَةُ فروميل-خياري	Frommel-Chiari syndrome
+مُتَلاَزِمَةُ فريمان-شيلدون	Freeman-Sheldon syndrome
+مُتَلاَزِمَةُ فَقْدِ الذَّاكِرَةِ	amnestic syndrome
+مُتَلاَزِمَةٌ فَمَوِيَّةٌ إِصْبَعِيَّةٌ	orodigitofacial syndrome
+مُتَلاَزِمَةٌ فَمَوِيَّةٌ إِصْبَعِيَّةٌ	orofaciodigital syndrome
+مُتَلاَزِمَةٌ فَمَوِيَّةٌ تَناسُلِيَّة	orogenital syndrome
+مُتَلاَزِمَةُ فوربس-أولبرايت	Forbes-Albright syndrome
+مُتَلاَزِمَةُ فوستر كينيدي	Foster Kennedy syndrome
+مُتَلاَزِمَةُ فوغت	Vogt's syndrome
+مُتَلاَزِمَةُ فوغت-كوياناغي	Vogt-Koyanagi syndrome
+مُتَلاَزِمَةُ فوفيل	Foville's syndrome
+مُتَلاَزِمَةُ فوكس	Fuch's syndrome
+مُتَلاَزِمَةُ فولكمان	Volkmann's syndrome
+مُتَلاَزِمَةُ فيَّاريه	Villaret's syndrome (posterior parotid syndrome)
+مُتَلاَزِمَةُ فيتز	Fitz's syndrome
+مُتَلاَزِمَةُ فيتز-هيو-كيرتيس	Fitz-Hugh-Curtis syndrome
+مُتَلاَزِمَةُ فيدال	Widal's syndrome (icteroanemia)
+مُتَلاَزِمَةُ فيردينغ-هوفمان	Werdnig-Hoffmann syndrome
+مُتَلاَزِمَةُ فيرنر	Werner's syndrome
+مُتَلاَزِمَةُ فيرنيكه	Wernicke's syndrome
+مُتَلاَزِمَةُ فيرنيه	Vernet's syndrome
+مُتَلاَزِمَةُ فيسكوت-آلدريك	Wiskott-Aldrich syndrome
+مُتَلاَزِمَةُ فيسينغر-لوروا-رايتَر	Fiessinger-Leroy-Reiter syndrome
+مُتَلاَزِمَةُ فيغينر	Wegener's syndrome
+مُتَلاَزِمَةُ فيلتي	Felty's syndrome
+مُتَلاَزِمَةُ فيليبراند	Willebrand's syndrome
+مُتَلاَزِمَةُ فينسون	Vinson's syndrome
+مُتَلاَزِمَةٌ قَرْحِيَّةُ الشَّكْل	chancriform syndrome
+مُتَلاَزِمَةٌ قُسامِيَّة	metameric syndrome
+مُتَلاَزِمَةٌ قِطْعِيَّة	segmentary syndrome (metameric syndrome)
+مُتَلاَزِمَةُ قِلَّةِ الكُرَيَّاتِ	pancytopenia-dysmelia syndrome
+مُتَلاَزِمَةُ قَوسِ الأَبْهَر	aortic arch syndrome
+مُتَلاَزِمَةُ كابغرا	Capgras' syndrome
+مُتَلاَزِمَةُ كابلان	Caplan's syndrome
+مُتَلاَزِمَةُ كارتاغينَر	Kartagener's syndrome
+مُتَلاَزِمَةُ كارو	Karroo syndrome
+مُتَلاَزِمَةُ كاساباك-ميريت	Kasabach-Merritt syndrome
+مُتَلاَزِمَةُ كاست	Kast's syndrome
+مُتَلاَزِمَةُ كافي	Caffey's syndrome
+مُتَلاَزِمَةُ كافي-سيلفرمان	Caffey-Silverman syndrome
+مُتَلاَزِمَةُ كالمان	Kallmann's syndrome
+مُتَلاَزِمَةٌ كَبِدِيَّةٌ كُلْوِيَّة	hepatorenal syndrome
+مُتَلاَزِمَةٌ كَبِدِيَّةٌ مُخِّيَّة	hepatocerebral syndrome
+مُتَلاَزِمَةٌ كَتِفِيَّةٌ صَدْرِيَّة	scapulocostal syndrome
+مُتَلاَزِمَةُ كروفيِّيه-باومغارتن	Cruveilhier-Baumgarten syndrome
+مُتَلاَزِمَةُ كرونكايت	Cronkhite's syndrome
+مُتَلاَزِمَةُ كرونكايت-كَنَدا	Cronkhite-Canada syndrome
+مُتَلاَزِمَةُ كرويتسفيلد-ياكوب	Creutzfeldt-Jakob syndrome
+مُتَلاَزِمَةُ كريست-سيمنز	Christ-Siemens syndrome
+مُتَلاَزِمَةُ كريست-سيمنز-توراين	Christ-Siemens-Touraine syndrome
+مُتَلاَزِمَةُ كريستشان	Christian's syndrome
+مُتَلاَزِمَةُ كريغلر-نجار	Crigler-Najjar syndrome
+مُتَلاَزِمَةٌ كُظْرِيَّةُ المَنْشَأ	suprarenogenic syndrome
+مُتَلاَزِمَةٌ كُظْرِيَّةٌ تَناسُلِيَّة	adrenogenital syndrome
+مُتَلاَزِمَةٌ كُلائِيَّة	nephrotic syndrome
+مُتَلاَزِمَةُ كلارك-هادفيلد	Clarke-Hadfield syndrome
+مُتَلاَزِمَةُ كلاو-ريكختر	Clough and Richter's syndrome
+مُتَلاَزِمَةُ كلاودَر	Klauder's syndrome
+مُتَلاَزِمَةُ كلاوستون	Clouston's syndrome
+مُتَلاَزِمَةُ كلاينفيلتر	Klinefelter's syndrome
+مُتَلاَزِمَةُ كلاينه-ليفين	Kleine-Levin syndrome
+مُتَلاَزِمَةُ كلود	Claude's syndrome
+مُتَلاَزِمَةُ كلود بيرنار-هورنَر	Claude Bernard-Horner syndrome
+مُتَلاَزِمَةُ كلوفر-بوسي	Kluver-Bucy syndrome
+مُتَلاَزِمَةُ كلومبكهة دِيجيرين	Klumpke-Dejerine syndrome
+مُتَلاَزِمَةُ كليبل-ترينونيه	Klippel-Trenaunay syndrome
+مُتَلاَزِمَةُ كليبل-ترينونيه-ويبَر	Klippel-Trenaunay-Weber syndrome
+مُتَلاَزِمَة كليبل-فايل	Klippel-Feil syndrome
+مُتَلاَزِمَةُ كليرامبو-كاندينسكي	Clerambault-Kandinsky syndrome
+مُتَلاَزِمَةُ كميلشتيل-ويلسون	Kimmelstiel-Wilson syndrome
+مُتَلاَزِمَةُ كَنَدا-كرونكايت	Canada-Cronkhite syndrome
+مُتَلاَزِمَةُ كوتار	Cotard's syndrome
+مُتَلاَزِمَةُ كوخَر	Kocher's syndrome
+مُتَلاَزِمَةُ كورتيوس	Curtius' syndrome
+مُتَلاَزِمَةُ كورساكوف	Korsakoff's syndrome
+مُتَلاَزِمَةُ كورفوازيييه-تيرييه	Courvoisier-Terrier syndrome
+مُتَلاَزِمَةُ كورنيليا دولانغه	Cornelia de Lange syndrome
+مُتَلاَزِمَةُ كوستن	Costen's syndrome
+مُتَلاَزِمَةُ كوشنغ	Cushing's syndrome
+مُتَلاَزِمَةُ كوغان	Cogan's syndrome
+مُتَلاَزِمَةُ كوكين	Cockayne's syndrome
+مُتَلاَزِمَةُ كوليه	Collet's syndrome
+مُتَلاَزِمَةُ كوليه سيكار	Collet-Sicard syndrome
+مُتَلاَزِمَةُ كون	Conn's syndrome
+مُتَلاَزِمَةُ كونرادي	Conradi's syndrome
+مُتَلاَزِمَةُ كونكيل	Kunkel's syndrome
+مُتَلاَزِمَةُ كونيغ	Konig's syndrome
+مُتَلاَزِمَةُ كيلو-نيفين	Kiloh-Nvein syndrome
+مُتَلاَزِمَةُ كينيدي	Kennedy's syndrome
+مُتَلاَزِمَةُ لارسين	Larsen's syndrome
+مُتَلاَزِمَةُ لاندري	Landry's syndrome
+مُتَلاَزِمَةُ لاوين-روث	Lawen-Roth syndrome
+مُتَلاَزِمَةُ لايتوود	Lightwood's syndrome
+مُتَلاَزِمَةُ لايدن-ميبيوس	Leyden-Moebius syndrome
+مُتَلاَزِمَةُ لو	Lowe's syndrome
+مُتَلاَزِمَةُ لو-تيري-ماكلاكلان	Lowe-Terry-Machlachan syndrome
+مُتَلاَزِمَةُ لوبشتاين	Lobstein's syndrome
+مُتَلاَزِمَةُ لوتيمباشر	Lutembacher's syndrome
+مُتَلاَزِمَةُ لورانس-بيديل	Laurence-Biedl syndrome (Laurence-Moon-Biedl syndrome)
+مُتَلاَزِمَةُ لوريش	Leriche's syndrome
+مُتَلاَزِمَةُ لوزَر-ميلكمان	Looser-Milkman syndrome
+مُتَلاَزِمَةُ لوسي-دريسكول	Lucey-Driscoll syndrome
+مُتَلاَزِمَةُ لوفلر	Loffler's syndrome
+مُتَلاَزِمَةُ لوفورد	Lawford's syndrome
+مُتَلاَزِمَة لونوا	Launois' syndrome
+مُتَلاَزِمَةُ لونوا-كليريه	Launois-Cleret's syndrome
+مُتَلاَزِمَةُ لوي-بار	Louis-Bar syndrome
+مُتَلاَزِمَةُ ليبمان-ساكس	Libman-Sacks syndrome
+مُتَلاَزِمَةُ ليختهايم	Lichtheim's syndrome
+مُتَلاَزِمَةُ ليرموايِّيه	Lermoyez's syndrome
+مُتَلاَزِمَةُ ليرميت و ماكالباين	Lhermitte and McAlpine syndrome
+مُتَلاَزِمَةُ ليريد	Leredde's syndrome
+مُتلازِمَةُ ليش-نيهان	Lesch-Nyhan syndrome
+مُتَلاَزِمَةُ ليغ-كالفيه-بيرتيز	Legg-Calve-Perthes syndrome
+مُتَلاَزِمَة ليفي	Levi's syndrome
+مُتَلاَزِمَةُ ليفي-رُوسي	Levy-Roussy syndrome
+مُتَلاَزِمَةُ لينوكس	Lennox syndrome
+مُتَلاَزِمَةُ لينياك	Lignac's syndrome
+مُتَلاَزِمَةُ ليوبارد	LEOPARD syndrome
+مُتَلاَزِمَةُ مارانون	Maranon's syndrome
+مُتَلاَزِمَةُ مارتوريل	Martorell's syndrome
+مُتَلاَزِمَةُ مارشيافافا-بينيامي	Marchiafava-Bignami syndrome
+مُتَلاَزِمَةُ مارشيافافا-ميشيلي	Marchiafava-Micheli syndrome
+مُتَلاَزِمَةُ مارغوليس	Margolis syndrome
+مُتَلاَزِمَةُ مارفان	Marfan's syndrome
+مُتَلاَزِمَةُ ماركس غان	Marcus Gunn's syndrome
+مُتَلاَزِمَةُ ماركيزاني	Marchesani's syndrome
+مُتَلاَزِمَةُ ماروتو-لامي	Maroteaux-Lamy syndrome (mucopolysaccharidosis)
+مُتَلاَزِمَةُ ماري	Marie's syndrome (acromegaly)
+مُتَلاَزِمَة ماري روبينسون	Marie-Robinson syndrome
+مُتَلاَزِمَة ماري-بامبيرغَر	Marie-Bamberger syndrome
+مُتَلاَزِمَةُ مارينيسكو-شيغرن	Marinesco-Sjogren's syndrome
+مُتَلاَزِمَةُ مافوتشي	Maffucci's syndrome
+مُتَلاَزِمَةُ ماك آردل	MacArdle syndrome
+مُتَلاَزِمَةُ ماكل-ويلز	Muckle-Wells syndrome
+مُتَلاَزِمَةُ ماكينزي	Mackenzie's syndrome
+مُتَلاَزِمَةُ ماكيون-أولبرايت	McCune-Albright syndrome
+مُتَلاَزِمَةُ مالن	Malin's syndrome
+مُتَلاَزِمَةُ مالوري-وايس	Mallory-Weiss syndrome
+مُتَلاَزِمَةُ ماير-شفيكارات و فايَر	Meyer-Schwickerath and Weyers syndrome (oculodentodigital dysplasia)
+مُتَلاَزِمَةٌ مُبْهَمِيَّةٌ إِضافِيَّة	vagoaccessory syndrome
+مُتَلاَزِمَةٌ مُثَبِّطَة	inhibitory syndrome
+مُتَلاَزِمَةُ مَخْرَجِ الصَّدْر	thoracic outlet syndrome
+مُتَلاَزِمَةٌ مُخَيخِيَّة	cerebellar syndrome
+مُتَلاَزِمَةٌ مُخِّيَّةٌ قَلْبِيَّة	cerebrocardiac syndrome
+مُتَلاَزِمَةٌ مُخِّيَّةٌ كَبِدِيَّةٌ	cerebrohepatorenal syndrome
+مُتَلاَزِمَةُ مُضادّاتِ المَفْعُولِ	anticholinergic syndrome
+مُتَلاَزِمَةُ مُقَدَّمِ الجَبْهِيّ	prefrontal syndrome
+مُتَلاَزِمَةُ ملكيرسون	Melkersson's syndrome
+متلازمة مواء القط	cat cry syndrome
+مُتَلاَزِمَةُ مَوتِ الرَّضيعِ الفُجائِيّ	sudden infant death syndrome
+مُتَلاَزِمَةُ موخا-هابيرمان	Mucha-Habermann syndrome
+مُتَلاَزِمَةُ مُور	Moore's syndrome (abdominal epilepsy)
+مُتَلاَزِمَةُ مورتشيسون-سانديرسن	Murchison-Sanderson syndrome
+مُتَلاَزِمَةُ مورتون	Morton's syndrome
+مُتَلاَزِمَةُ مورغاني	Morgagni's syndrome
+مُتَلاَزِمَةُ مورغانيي-آدامز-ستوكس	Morgagni-Adams-Stokes syndrome
+مُتَلاَزِمَةُ مورغانيي-ستيوارت-موريل	Morgagni-Stewart-Morel syndrome
+مُتَلاَزِمَةُ مورفان	Morvan's syndrome
+مُتَلاَزِمَةُ موركيو	Morquio's syndrome
+مُتَلاَزِمَةُ موركيو-أورليخ	Morquio-Ullrich syndrome
+مُتَلاَزِمَةُ مورياك	Mauriac syndrome
+مُتَلاَزِمَةُ موريل	Morel's syndrome
+مُتَلاَزِمَةُ موس	Mosses' syndrome
+مُتَلاَزِمَةُ موناكوف	Monakow's syndrome
+مُتَلاَزِمَةُ مونخهاوزن	Munchausen's syndrome
+مُتَلاَزِمَةُ ميبيوس	Mobius' syndrome
+مُتَلاَزِمَةُ ميغ	Meigs' syndrome
+مُتَلاَزِمَةُ ميكوليتش	Mikulics' syndrome
+مُتَلاَزِمَةُ ميلارد-غوبلَر	Millard-Gubler syndrome
+مُتَلاَزِمَةُ ميلكمان	Milkman's syndrome
+مُتَلاَزِمَة مينكوفسكي-شوفار	Minkowski-Chauffard syndrome
+مُتَلاَزِمَةُ مينيير	Meniere's syndrome
+مُتَلاَزِمَةُ نَاجيلي	Naegeli's syndrome
+مُتَلاَزِمَةُ نافزيغر	Naffziger's syndrome (scalenus anterior syndrome)
+مُتَلاَزِمَةٌ نِتْريتيَّة	nitritoid syndrome
+مُتَلاَزِمَةٌ نُخامِيَّة	hypophyseal syndrome
+مُتَلاَزِمَةٌ نُخامِيَّة	pituitary syndrome
+مُتَلاَزِمَةُ نِصْفِ الكُرَة	hemisphere's syndrome
+مُتَلاَزِمَةُ نَظيرِ الثُلاَثِيِّ	paratrigeminal syndrome
+مُتَلاَزِمَةُ نَفادِ المِلْح	salt-depletion syndrome
+مُتَلاَزِمَةُ نَقْصِ التَّنَسُّجِ	focal dermal hypoplasia syndrome
+مُتَلاَزِمَةُ نَقْصِ التَّهْوِيَةِ	alveolar hypoventilation syndrome
+مُتَلاَزْمَةُ نَقْصِ اللِّسانِ و الأَصابِع	aglossia-adactylia syndrome (hypoglossia-hypodactyiy syndrome)
+مُتَلاَزِمَةُ نَقْصِ تَنَسُّجِ الشَّعْرِ	cartilage-hair hypoplasia syndrome
+مُتَلاَزِمَةُ نَقْلِ الدَّم	transfusion syndrome
+مُتَلاَزِمَةُ نَقْلِ الدَّمِ المِشيمِيّ	placental transfusion syndrome
+مُتَلاَزِمَةُ نوتناغيل	Nothnagel's syndrome
+مُتَلاَزِمَةُ نونان	Noonan's syndrome
+مُتَلاَزِمَةُ نونه	Nonne's syndrome
+مُتَلاَزِمَةُ نونه-ميلروي-ميج	Nonne-Milroy-Meige syndrome
+مُتَلاَزِمَةُ نيثيرتون	Netherton's syndrome
+مُتَلاَزِمَةُ نيزيلوف	Nezelof's syndrome
+مُتَلاَزِمَةُ هادفيلد-كلارك	Hadfield-Clark syndrome
+مُتَلاَزِمَةُ هارادا	Harada's syndrome
+مُتَلاَزِمَةُ هارتناب	Hartnup syndrome
+مُتَلاَزِمَةُ هاريس	Harris' syndrome
+مُتَلاَزِمَةُ هاسين	Hassin's syndrome
+مُتَلاَزِمَةُ هالرفوردين-سباتز	Hallervorden-Spatz syndrome
+مُتَلاَزِمَةُ هالوبو-سيمنز	Hallopeau-Siemens syndrome
+مُتَلاَزِمَةُ هاليرمان-شترايف	Hallermann-Streiff syndrome
+مُتَلاَزِمَةُ هاليرمان-شتريف-فرنسوا	Hallermann-Streiff-Francois syndrome
+مُتَلاَزِمَةُ هامان	Hamman's syndrome
+مُتَلاَزِمَةُ هامان-ريتش	Hamman-Rich syndrome
+مُتَلاَزِمَةُ هاند	Hand's syndrome (Hand-Schuller-Christian syndrome)
+مُتَلاَزِمَةُ هاند-شولر-كريستشان	Hand-Schuller-Christian syndrome
+مُتَلاَزِمَةُ هانو	Hanot's syndrome
+مُتَلاَزِمَةُ هانو-شوفار	Hanot-Chauffard syndrome
+مُتَلاَزِمَةُ هايَّام-فيدال	Hayem-Widal syndrome
+مُتَلاَزِمَةُ هايدنهاين	Heidenhain's syndrome
+مُتَلاَزِمَةُ هاينز-بانيك	Hines-Bannick syndrome
+مُتَلاَزِمَةُ هَتشِنسُون	Hutchinson's syndrome
+مُتَلاَزِمَةُ هَتشِنسُون	Hutchinsons' syndrome
+مُتَلاَزِمَةُ هَتشِنسُون-بيك	Hutchinson-Boeck syndrome (sarcoidosis)
+مُتَلاَزِمَةُ هَتشِنسُون-غيلفورد	Hutchinson-Gilford syndrome (progeria)
+مُتَلاَزِمَةٌ هَرْسِيَّة	crush syndrome
+مُتَلاَزِمَةُ هنت	Hunt's syndrome
+مُتَلاَزِمَةُ هنت المُخَطَّطِيَّة	Hunt's striatal syndrome
+مُتَلاَزِمَة هنتر	Hunter's syndrome (mucopolysaccharidosis)
+مُتَلاَزِمَةُ هنتر-هيرلر	Hunter-Hurler syndrome
+مُتَلاَزِمَةُ هنش-روزنبيرغ	Hench-Rosenberg syndrome (palindromic rheumatism)
+مُتَلاَزِمَةُ هورنَر	Horner's syndrome
+مُتَلاَزِمَةُ هورنَر-بيرنارد	Horner-Bernard syndrome
+مُتَلاَزِمَةُ هوفمان-فيردينغ	Hoffmann-Werdnig syndrome
+مُتَلاَزِمَةُ هولت-أورام	Holt-Oram syndrome
+مُتَلاَزِمَةُ هولمز-إيدي	Holmes-Adie syndrome
+مُتَلاَزِمَةُ هومين	Homén's syndrome
+مُتَلاَزِمَةُ هير	Hare's syndrome
+مُتَلاَزِمَةُ هيرلر	Hurler's syndrome
+مُتَلاَزِمَةُ هيرلَر	Hurler's syndrome (Hurler's glossitis)
+مُتَلاَزِمَةُ هيرلر فوندلر	Hurler-Pfaundler syndrome
+مُتَلاَزِمَةُ هينوخ-شونلاين	Henoch-Schonlein syndrome (purpura)
+مُتَلاَزِمَةُ واينغارتن	Weingarten's syndrome
+مُتَلاَزِمَةُ وَجْهِ الجَنين	fetal face syndrome
+مُتَلاَزِمَةُ وَحْمَةِ الخَلاَيا	basal cell nevus syndrome
+مُتَلاَزِمَةُ وَرَمِ التَّلَمِ العُلْوِيّ	superior sulcus tumor syndrome
+مُتَلاَزِمَةُ وَرَمِ الخَلاَيا	nevoid basalioma syndrome
+مُتَلاَزِمَةُ وَرَمِ أليفاتِ الفِضَّة	argentaffinoma syndrome (carcinoid syndrome)
+مُتَلاَزِمَةٌ وِعائِيَّة	vascular syndrome
+مُتَلاَزِمَةُ ووترهاوس-فريدريكسن	Waterhouse-Friderichsen syndrome
+مُتَلاَزِمَةُ وولف-باركنسون-هوايت	Wolff-Parkinson-White syndrome
+مُتَلاَزِمَةُ ويبر	syndrome of Weber
+مُتَلاَزِمَةُ ويبر-غوبلر	Weber-Gubler syndrome
+مُتَلاَزِمَةُ ويبر-كريسشان	Weber-Christian syndrome
+مُتَلاَزِمَةُ ويرمر	Wermer's syndrome
+مُتَلاَزِمَةُ ويلسون	Wilson's syndrome
+مُتَلاَزِمَةُ ويلسون-ميكيتي	Wilson-Mikity syndrome
+مُتَلاَزِمَةُ ياداسون-ليفاندفسكي	Jadassohn-Lewandowsky syndrome
+مُتَلاَزِمَةُ يانكه	Jahnke's syndrome
+مُتَلاَزِمَةُ يونغ	Young's syndrome
+متلازمة'داون' العائلية	familial Down's syndrome
+مُتَلاَزِمَةُرايفنشتاين	Reifenstein's syndrome
+مُتَلاَزِمَةُلورانس-مون-بارديه-بيديل	Laurence-Moon-Bardet-Biedl syndrome
+مُتَنافِر	jarring
+متوسط سرعة الجفاف	medium curing, (M.C.)
+مُتوَطِّن	endemic
+مُتَوَطِّنٌ بالحَيَوانات	enzootic
+متوهج	ablaze
+مَثٌّ اكزيميُّ الشَّكْل	eczematoid seborrhea (seborrheic dermatitis)
+مُثَاث	seborrhiasis (seborrheic psoriasis)
+مُثَلَّثُ ليفينغستون	Livingston's triangle
+مُثيرٌ للسُّعال	tussigenic
+مَجالُ الحَساسِيَّة	range of sensibility
+مَجالٌ بِلَفائفَ مُتَواليةِ الوَصْل	series-wound field
+مَجْذَمَةٌ	leprosarium
+مَجْذَمَةٌ	leprosery
+مجموعة تروس التوجيه ذات الكريات الدوّارة	ball-and-nut-type steering gear
+مَجْمُوْعَةُ كوليرا الخَنازير	hog cholera group
+مَجموعةُ مِرَضّات	stamp-battery
+مَجْموعَةُ مُعْطَياتُ المَرْضَى	patients' data set
+محاصيل قادرة على تحمّل الجفاف محاصيل	drought-resistant crop; drought-tolerant crop
+مُحاكاةٌ هِسْتيرِيَّةٌ للمَرَضِ العَصَبِيّ	neuromimesis
+مُحاكِي الذُّهان	psychosomimetic (psychotomimetic)
+مُحاكِي الذُّهان	psychotomimetic
+مُحْدِثُ الابْيِضاض	leukemogen
+مُحْدِثُ الابْيِضاض	leukemogenic
+مُحْدِثُ الحُمَّى	febricant (pyrogen)
+مُحْدِثُ الحُمَّى	febrifacient
+مُحْدِثُ الحُمَّى	febrific
+مُحْدِثُ الذُّهان	psychotogen
+مُحْدِثُ الذُّهان	psychotogenic
+مُحْدِثُ الرَّبْو	asthmogenic
+مُحْدِثُ السُّكَّرِيّ	diabetogenic
+مُحْدِثُ العُصاب	neurotigenic
+مُحْدِثُ الكوليرا	cholerigenic
+مُحْدِثُ الكوليرا	cholerigenous
+مُحْدِثُ الهستيريا	hysterogenic
+مُحْدِثُ الهستيريا الصَّرْعِيَّةُ الشَّكْل	hysteroepileptogenic
+مُحْدِثُ اليَرَقان	icterogenic
+مُحْدِثٌ للاسْتِسْقَاء	ascitogenous
+مُحْدِثٌ للتَّسَمُّمِ بالجُلُبَّان	lathyrogen
+مُحْدِثٌ للتَّسَمُّمِ بالجُلُبَّان	lathyrogenic
+مُحْدِثٌ للتَّشَمُّع	cirrhogenous
+مُحْدِثٌ للحِكَّة	pruritogenic
+مُحْدِثٌ للحُمَّى	pyretogenetic
+مُحْدِثٌ للحُمَّى الفَاتِرَة	febriculose
+مُحْدِثٌ للخَرَف	dementing
+مُحِدْثٌ للصْرِع	epileptogenic
+مُحِدْثٌ للصْرِع	epileptogenous
+مُحْدِث للصَّرْع epileptogenic drugs	epileptogenic
+مُحْدِثٌ للمَرَضِ التَّسَمُّمِيّ	nosotoxic
+مُحَدِّدُ مَدى الانخفاض	depression limit stop
+مُحَدِّدَةٌ دَائِرَة	circulant determinant
+محرك بمفرعة	shunt-wound motor
+مُحَرِّكٌ تَخالُفِيُّ اللَّف	differentially-wound motor
+مُحرِّك ثُنائيُّ الأشواط	engine, two-stroke
+محرك ثنائي الشوط	two-cycle; two-stroke
+محرك ثنائي الشوط	two-stroke engine
+محرك حثي بدوار ملفوف	wound-rotor induction motor
+محرك حثي بدوار ملفوف وبدون فرشاة	brushless wound-rotor induction motor
+محرك ديزل رُباعي الأشواط	four-stroke diesel engine
+مُحَرِّكٌ رُباعِيّ الأَشواط	engine, four-stroke
+محرك رباعي الأشواط	four-stroke engine
+محرك رباعي الأشواط	four-stroke engines
+محرك رُبعي الشوط	square stroke engine
+مُحَرِّكٌ طَويلُ الشَّوط	long-stroke engine
+محرك قصير الشوط	short stroke engine
+مُحَرِّكٌ مُتَغَيِّرُ الشوط	variable-stroke engine
+مُحَرِّكٌ متَوازي اللَّف	shunt-wound motor
+مُحَرِّكٌ مُتَوالٍ	series-wound motor
+مُحَرِّكٌ مُرَكَّبُ اللف	compound-wound motor
+مُحَرِّكٌ مُرَكَّبُ اللَّف	motor, compound-wound
+مُحَرِّكٌ مُوَصَّلٌ على التوازي	motor, shunt-wound
+مَحْرومُ السُّكَّرِيَّات	glycoprival
+مِحْزَمَة	truss
+مُحَسِّس	sensitizer
+مَحْصوب: مصابٌ بالحصبة	measled
+مَحْضَر الضبط	Seizure Report
+محطة فرعية دوّارة	rotary substation
+مِحْكام حَسَّاسِيَّة أُوتوماتِي	automatic sensitivity control
+مَحْلولُ هارتْمان	Hartman's solution
+محِمّ	pyrogen
+مُحَمِّلَةٌ دَوَّارة	swing loader
+مُحمًى لدرجة الابيِضاض	white-hot
+محور الأعمدة الدوارة	line of shafting
+مِحْوَرُ المُنْخَفَض الجوي	axis of depression
+محول تيار ذو دعامة	wound primary type current transformer
+محول تيار متعدد القلوب	compound-wound current transformer
+محيِّر	mazy
+مُحِيْطٌ بالفَتْق	perihernial
+مختصر ابْيِضاضُ الدَّمِ اللالِمْفاوِيُّ	ANLL (acute nonlymphocytic leukemia)
+مختصر ابْيِضاضُ الدَّمِ اللِّمْفَاوِيّ	ALL (acute lymphoblastic leukemia)
+مختصر أثْناءَ الحُمَّى	adst. feb (adstante febre)
+مختصر أَثْناءَ الحُمَّى	ag. feb. (aggrediente febre)
+مختصر أَثْنَاءَ دَوْرُ الحُمَّى	Feb. dur. (febre durante)
+مختصر اِحْتِشَاءُ عَضَلِ القَلْب	MI (myocardial infarction)
+مختصر احْتِشاءُ عَضَلِ القَلْبِ الحادُّ	AMI (acute myocardial infarction)
+مختصر اخْتِبارُ مُخْتَبراتِ بُحوثِ	VDRL test (venereal disease research laboratory test)
+مختصر اخْتِبارٌ مَصْلِيٌّ للزُّهْرِيّ	S. T. S. (serologic test for syphilis)
+مختصر أدرياميسين+بليوميسين+CCNU+	ABCD (Adriamycin, bleomycin, CCNU, decarbazine)
+مختصر اضْطِرابُ الكَرْبِ التَّالي للرَّضْح	PTSD (post traumatic stress disorder)
+مختصر الابْيِضاضُ التائِيُّ الخَلايا فِي	ATL (adult T-cell leukemia)
+مختصر الإيدز	AIDS (acquired immunodeficiency syndrome)
+مختصر التَّسْمِيَةُ الدُّوَلِيَّةُ	IND (International Nomenclature of Diseases)
+مختصر التَّصَلُّبُ الشِّرْيانِيُّ المُسِدّ	ASO (arteriosclerosis obliterans)
+مختصر التَّصْنيفُ الدُّوَلِيُّ للأَمْراض	ICD (international classification of diseases)
+مختصر الْتِهابُ الإِحْليلِ اللانَوعِيّ	NSU (non specific urethritis)
+مختصر الْتِهابُ الدِّماغِ و العَضَلَةِ	EMC (encephalomyocarditis)
+مختصر الْتِهابُ السَّحايا المُخِّيَّةِ	C.S.M (cerebrospinal meningitis)
+مختصر الْتِهابُ الكَبِدِ العَدْوائِيّ	IH (infectious hepatitis)
+مختصر الْتِهابُ الكَبِدِB	HB (hepatitis B)
+مختصر الْتِهابُ اللِّثَةِ النَّاخِرُ	ANUG (acute necrotizing ulcerative gingivitis)
+مختصر الدَّاءُ الرِّئَوِيُّ المُسِدُّ	COPD (chronic obstructive pulmonary disease)
+مختصر الداءُ الكُلْوِيُّ بمَرَاحِلِهِ	ESRD (end stage renal disease)
+مختصر السُّكَّرِيُّ المُعْتَمِدُ على	IDD (insulin-dependent diabetes)
+مختصر الشَّلَلُ العامّ	G.P.I. (general paralysis of the insane)
+مختصر العامِلُ المُضادُّ لفَقْرِ الدَّمِ	APA (antipernicious anemia agent)
+مختصر العِلاَجُ بِالغَيْبُوبِيَّةِ	ICT (insulin coma therapy)
+مختصر اللابُؤْرِيَّة	As (astigmatism)
+مختصر اللابُؤْرِيَّة	Ast. (astigmatism)
+مختصر اللِّقاحُ الثُّلاَثِيّ	DPT (diphtheria- pertussis- tetanus vaccine)
+مختصر المُسْتَضَدُّ المُرافِقُ لالْتِهابِ	HAA (hepatitis associated antigen)
+مختصر المَصْلُ المُضادُّ للكُزازِ	A.T.S. (antitetanic serum)
+مختصر المُعَقَّدُ المُرْتَبِطُ بِالإيدْز	ARC (AIDS-related complex)
+مختصر النَّزْلَةُ الوافِدَة	flu (influenza)
+مختصر تاد	TAD
+مختصر تاريخُ المَرَضِ الحالِيّ	HPI (history of present illness)
+مختصر تشُوب	CHOP (cyclophosphamide, hydroxyurea, Oncovin, prednisone)
+مختصر تَكَزُّزُ الغَلْقِ المَصْعَدِيّ	ACTe (anodal closure tetanus)
+مختصر تَكَزُّزُ الفَتْحِ المَصْعَدِيّ	AOTe (anodal opening tetanus)
+مختصر تَكَزُّزُ الفَتْحِ المَهْبِطِي	COTe (cathode opening tetanus)
+مختصر تَكَزُّزُ المُدَّةِ المَصْعَديَّة	ADTe (anodal duration tetanus)
+مختصر تَكَزُّز مُدَّة التَّنْبِيه	An DTe (anodal duration tetanus)
+مختصر حُمَّى مَجْهُوْلَةُ السَّبَب	PUO (pyrexia of unknown origin)
+مختصر حُمَّى مَجْهولَةُ المَنْشَأ	F. U. O. (fever of undetermined origin)
+مختصر خَلَلُ الانْكِسارِ المَدِّي	Amh (ametropia mixed with hyperopia)
+مختصر دَاءُ العَصَبُونِ الحَرَكِيّ	MMD (motoneuron disease)
+مختصر داءُ الغِشاءِ الهَيالينِيّ	HMD (hyaline membrane disease)
+مختصر سُعال	tus. (tussis)
+مختصر ضِدُّ المُسْتَضِدِّ السَّطْحِيِّ	anti-HBs (antibody to hepatitis B surface antigen)
+مختصر ضِدُّ المُسْتَضِدِّ اللُّبِّيِّ	anti-HBc (antibody to hepatitis B core antigen)
+مختصر عِنْدُ الإِمْساك	Alv. adst (alvo adstricta)
+مختصر عِنْدُ قُدُومِ الحُمَّى	aggred. feb. (aggrediente febre)
+مختصر فَيرُوسُ الْتِهابِ الكَبِدِA	HAV (hepatitis A virus)
+مختصر فَيروسُ الْتِهابِ الكَبِدِB	HBV (hepatitis B virus)
+مختصر فَيروسُ العَوَزِ المَناعِيِّ	HIV (human immunodeficiency virus)
+مختصر فيروس اللمفومة وابْيِضَاضُ الدَّمِ	HTLV (human T-cell leukemia/ lymphoma virus)
+مختصر لابُؤْرِيَّةُ الحَسَرِ	am (myopic astigmatism)
+مختصر لابُؤْرِيَّةٌ حَسَرِيَّةٌ	As. M. (myopic astigmatism)
+مختصر لابُؤْرِيَّةٌ مَدِّيَّة	ah (hyperopic astigmatism)
+مختصر لابُؤْرِيَّةٌ مَدِّيَّةٌ	As. H. (hypermetropic astigmatism)
+مختصر لِقاحُ الحَصْبَةِ و النُّكافِ و	MMR (measles-mumps-rubella vaccine)
+مختصر لِقاحُ خَلاَيا الكَلَبِ	HDCV (human diploid cell- rabies- vaccine)
+مختصر مُتَلاَزِمَةُ الطِّفْلِ المُفْرِطِ	HACS (hyperactive child syndrome)
+مختصر مُتَلاَزِمَةُ مَوتِ الرَّضيعِ	SIDS (sudden infant death syndrome)
+مختصر مُخْتَبَرُ بُحوثِ الأَمْراضِ	VDRL (venereal Disease Reseach Laboratory)
+مختصر مُخْتَْبَرُ تَجارُب الأَمْراضِ	VDEL (venereal disease experimental laboratory)
+مختصر مَراكِزُ مُكافَحَةِ الأَمْراض	CDC (Centers for Disease Control)
+مختصر مَرَضٌ الْتِهابِيٌّ حَوضِيٌّ	PID (pelvic inflammatory disease)
+مختصر مَرَضُ القَلْبِ الإقفاريّ	IHD (ischemic heart disease)
+مختصر مَرَضُ القَلْبِ التَّاجِيُّ	CHD (coronary heart disease)
+مختصر مَرَضُ القَلْبِ بتَصَلُّبِ	ASHD (arteriosclerotic heart disease)
+مختصر مَرَضٌ تَنَفُّسِيٌّ حادٌّ	ARD (acute respiratory disease)
+مختصر مَرَضُ صِمامِيٌّ قَلْبِيّ	V.D.H. (valvular disease of the heart)
+مختصر مَرَضٌ مَنْقولٌ جِنْسِيًّا	STD (sexually transmitted disease)
+مختصر مَرَضٌ مَنْقولٌ جنسيَّاً	V.D. (venereal dissase)
+مختصر مَرْكَزُ عُمومِ أَفْريقيا	ALERT (All-Africa Leprosy and Rehabilitation Training Centre)
+مختصر مَعْهَدُ الأَمْراضِ النَّفْسِيَّة	IMD (institution for mental disease)
+مختصر وَذَمَةٌ وِعائِيَّةٌ عَصَبِيَّةٌ	HANE (hereditary angioneurotic edema)
+مَخْثُوْر	thrombosed
+مخروط الانخفاض	cone of depression
+مخروط الانخفاض	cone of depression = cone of exhaustion
+مخروط الانخفاض	cone of depression; pumping depression cone; pressure relief cone
+مخروط انخفاض سطح الماء الجوفيّ	cone of water-table depression / cone of pumping depression
+مخروط هبوط منسوب المياه	cone of influence/cone of depression
+مخزون المنخفضات	depression storage
+مخزون المنخفضات	depression storage / pocket storage
+مُخَطَّطُ الرُّعاش	tremogram
+مُخَطَّطُ الرُّعاش	tremorgram
+مُخَطَّطُ الزَّهرة	floral diagram
+مُخطط تخميد التواء	torsion damper diagram
+مخفف الحساسية	desensitizer
+مُخَمِّدُ الاِلتِواء	torsion damper
+مُخمد التواء ثُنائي المرحلة مُزود بحلقات	two-stage torsion damper with friction washers
+مُخمّد التواء ثنائي المرحلة مُزود بمُخمّد	two-stage torsion damper with first-stage damper
+مُخَيخِيّ	cerebellar
+مَدُّ البَصَر	farsightedness (hyperopia)
+مَدُّ البَصَر	hypermetropia (hyperopia)
+مَدُّ البَصَر	hypermetropia = hyperopia
+مَدُّ البَصَر	hyperopia
+مَدُّ البَصَر	hyperopia (hypermetropia)
+مَدُّ البَصَر	longsightedness (hyperopia)
+مَدُّ البَصَرِ الاخْتِيارِيّ	facultative hyperopia
+مَدُّ البَصَرِ التَّقَوُّسِيّ	curvature hyperopia
+مَدُّ البَصَرِ الخَافِي	latent hyperopia
+مَدُّ البَصَرِ الشَّديد	high hyperopia
+مَدُّ البَصَرِ الظَّاهِر	manifest hyperopia
+مَدُّ البَصَرِ الكُلِّيّ	total hyperopia
+مَدُّ البَصَرِ المِحْوَرِيّ	axial hyperopia
+مَدُّ البَصَرِ المُطْلَق	absolute hyperopia
+مَدُّ البَصَرِ المَنْسَبِيّ	index hyperopia
+مَدُّ البَصَرِ النِّسْبِيّ	relative hyperopia
+مَدُّ البَصَرِ الوَظيفِيّ	physiologic hyperopia
+مُداء	aclasia
+مَدار	tropic
+مَدارُ السَّرَطَان	Cancer, Tropic of
+مَدار السَّرَطان	tropic of Cancer
+مدار السرطان	tropic of cancer
+مِدْمَاكٌ مُجانَبُ الطُّوب	rowlock
+مُدَوِّمَة	whirligig
+مدى القياس	measuring range
+مُديرُ رِعايَةِ المَرْضَى	patient care manager
+مراحيض جافّة لفصل البول	urine diversion dehydration toilet (UDDTs)
+مُراض	distemper
+مُرَاقَبَةُ الجُرْح	wound monitoring
+مراقد الأسماك الصدفية	shellfish beds
+مَراكِزُ مُكافَحَةِ الأَمْراض	centers for disease control
+مرآة الدوارة	Foucault rotating mirror
+مرآة ميكلس الدوارة	Michelson rotating mirror
+مربط	cramp
+مَرْبُوّ: مُصابٌ بالرَّبْو	wind-broken
+مُرَحِّلٌ فائقُ الحَسّاسيَّة	supersensitive relay
+مَرْحَلَةُ الأَوج	stadium acmes
+مَرْحَلَةُ البُرودَة	stadium frigoris
+مَرْحَلَةُ الحُمَّى	stadium caloris
+مَرْحَلَةُ العَدْوَى	stadium contagii
+مرحلة جفاف	dry stage
+مُرْخِي التَّشَنُّج	lissive
+مُرَشِّح أمريكي	American filter = disk filter
+مرشح جيرومغناطيسى	gyromagnetic power limiter
+مُرشح مغناطيسية دوارة	gyromagnetic filte; YIG filter (deprecated); garnet filter (deprecated)
+مُرْشِدُ المَرْضَى	ombudsperson
+مرض	disease
+مَرَض	disease; illness,sickness
+مَرَض	malady
+مَرَض	morbus
+مُرْضٍ	satisfactory
+مرض " أديسون "	disease, Addison's
+مرض " أيرزا "	disease, Ayerza's
+مرض " باجت "	disease, Paget's
+مرض " بانتي "	disease, Banti's
+مرض " برايت "	disease, Bright's
+مرض " برثيه "	disease, Perthe's
+مرض " بنيوي "	disease, constitutional
+مرض " بهجت "	disease, Behçet's
+مرض " بيرجر " التهاب وعائي انسدادي	disease, Buerger's
+مرض " جرافز "	disease, Graves'_
+مرض " جلبارت "	Gilbert's disease
+مرض " جوشر "	disease, Gaucher's
+مرض " جيركه"	Gierke's disease
+مرض " شاجاز "	disease, Chagas
+مرض " شاركو "	disease, Charcot's
+مرض " شاركو - ماري - توث "	disease, Charcot-Marie-Tooth
+مرض " ضركم " السمنة المؤلمة	disease, Dercum's = adiposis dolorosa
+مرض " فالو "	disease, Fallots
+مرض " فريد رايخ "	disease, Friedreich's
+مرض " فون - ركلنجهاوسن "	disease, Von Reckling Hausen's
+مرض " كرون "	disease, Crohn's = regional enteritis
+مرض " كوشنج "	disease, Cushing's
+مرض " كولاجيني "	disease, collagen
+مرض " لتل "	disease, Little
+مرض " مرشيافا - بجنامي "	disease, Marchiafava-Bignami
+مرض " مكاردل "	disease, Mcardle's
+مرض " موبيوس "	disease, Mobios
+مرض " نيمان - بك "	disease, Niemann-pick
+مرض " هاشيموتو "	disease, Hashimoto's
+مرض " هامان "	disease, Hamman's
+مرض " هاند - شولر - كرستيان "	disease, Hand-Schuller-Christian
+مرض " هودجكن "	disease, Hodgkin's
+مرض " هيرشسبرونج "	disease, Hirschsprung's
+مرض "ألكسندر"	Alexander disease (fibrinoid type of Alex)
+مرض "بازين" = الاحمرارية	Bazin's disease = erythema induratum
+مرض "بايجل"	Beigel's disease = piedra
+مرض "برجر"	Burger's disease (thromboangiitis obliterans)
+مرض "جاوشر"	Gaucher's disease
+مرض "جرافز"	Graves' disease
+مرض "شاجاز"	Chagas disease
+مرض "فورنييه"	Fourniey's disease
+مرض "لنداو - هبل"	Hippel - Lindau disease
+مرض "هرش سبرونج"	Hirschsprung's disease
+مرض "هودجكن"	Hodgkin disease
+مرض 'فابري'	Fabry disease
+مرض aaa	aaa disease
+مَرَضٌ اجْتِماعِيّ	social disease
+مَرَضٌ اخْتِلاجِيّ	convulsive disease
+مرض أديسون	Addison's disease
+مَرَضُ ارتِخاءِ الرَّقَبَة	limberneck
+مَرَض أَسوَد	black disease
+مرض إكليلي	coronary disease
+مَرَضُ آكوستا	Acosta's disease (acute mountain sickness)
+مرض الإحمرار	blood disease
+مرض الارتفاع	altitude sickness
+مرض الإشعاع	radiation illness; radiation sickness
+مرض الاشعاع	radiation sickness
+مرض الأكياس المذنبة	cysticercosis
+مَرَضُ البُؤس	morbus miseriae
+مَرَضُ البَحَّارة	morbus naviticus
+مَرَضُ البُقَع الوليدي	morbus maculosus neonatorum (newborn hemorrhagic disease)
+مَرَضُ البُقَعِ الويرلوفيّ	morbus maculosus werlhofii (idiopathic thrombocytopenic purpura)
+مرض البقنة	Bakanae disease
+مرض التخصر	constriction disease
+مَرَضٌ الْتِهابِيُّ حَوضِيّ	pelvic inflammatory disease
+مَرَضُ الثَّعالِب	morbus vulpis (lupus vulgaris)
+مَرَضُ الجِنّ	leprechaunism (Donohue's syndrome)
+مرض الجيوب الهوائية	air sac-disease
+مرض الحارِش: مرض طُفيليّ يصيب الماشية	actinomycosis
+مرض الحرقفة	coxsackie disease
+مَرَضُ الحَزازِ الطَّوقِيُّ الشَّكْل	morbus moniliformis lichenoides
+مرض الحويصلات المتليفة	disease, fibrocystic
+مَرَضُ الخَلِيَّةِI	I-cell disease (mucolipidosis II)
+مرض الخيل الأفريقي	African horse sickness
+مَرَض الدُّمَّل	boil disease
+مرض الدوران . مرض ديدان الرأس	coenurosis
+مرض الذبول	damping-of diseass
+مَرَض الذُّبُول الجُرْثُومي	bacterial wilt disease
+مرض الرئة الانسدادي المزمن	disease, chronic obstructive pulmonary ( C O P D )
+مرض الرأس الأسود	blackhead disease
+مرض الزهيمر	Alzheimer's disease
+مَرِضُ السَّبِيْلِ خَارِج الهَرَمِيّ	extrapyramidal disease
+مَرَضُ السُّقُوْط	morbus caducus (epilepsy)
+مرض السكر	diabete mellitus
+مَرَضُ الشُّيُوخ	morbus senilis (osteoarthritis)
+مَرَضُ العَذارَى	morbus virgineus (iron deficiency anemia)
+مَرَضُ العَفَص	gall sickness
+مرض الغزّال	disease, mule spinner's
+مرض الفريز القنبيطي	cauliflower disease
+مَرَضُ القَلْبِ التَّاجِيّ	coronary heart disease
+مَرَضُ القَلْبِ في التَّصَلُّبِ الجِلْدِيّ	scleroderma heart disease
+مَرَضُ الكِلاَبِ	canine distemper
+مَرَضُ الكَهَنَة	morbus sacer (epilepsy)
+مرض المؤتمرين	disease, legionnaires
+مَرَضُ المجاملة	morbus comitialis
+مرض المركّب المناعي	disease, immune complex
+مرض المسارات خارج الهرمية	disease, extrapyramidal
+مَرَضُ المُشَّردين	morbus vagabondus (parasitic melanoderma)
+مَرَضُ المَصْدور	lunger disease (pulmonary adenomatosis)
+مَرَضُ المَعِدَة	gastrosia (gastrosis)
+مَرَضُ المَعِدَةِ الفُطَارِيّ	gastrosia fungosa
+مرض المفاصل الإنتكاسي	degenerative joint disease
+مَرَض المَفَاصِلِ الفَقارِيَّة	spondylarthrosis
+مَرَضُ النَّقْصِ المَناعيّ المُرَكَّب	combined immunological deficiency disease
+مَرَضُ النُّوتِيّ	morbus nauticus
+مَرَضُ النَّوم	morbus dormitivus (African trypanosomiasis)
+مرض النوم	nagana
+مَرَضُ النَّوم	sleeping sickness
+مرض النوم الأفريقي	African sleeping sickness
+مَرَضُ النَّومِ الأَفْريقِيِّ الغَرْبِيّ	West African sleeping sickness
+مَرَضُ النَّومِ الرُوديسِيّ	Rhodesian sleeping sickness
+مَرَضُ النَّومِ الزَّامْبيزِيّ	Zambezi sleeping sickness
+مَرَضُ النَّومِ الغامْبِي	Gambian sleeping sickness
+مرض ألوشيان	Aleutian disease
+مرض أليار	disease, Ollier's
+مرض إنتكاسي	degenerative disease
+مرض انخفاض الضغط	decompression sickness
+مرض بؤري	disease, focal
+مرض باتي	Battey disease
+مرض بانتي	Banti's disease
+مَرَض بانغ: مَرضٌ مُعْدٍ من أمراض الماشية	Bang's disease
+مرض برايت	Bright's disease
+مرضُ برايت: التهاب كلويّ مزمن	Bright's disease
+مَرَضُ بريل	Brill's disease
+مرض بْرِيْل: شكلٌ من حمّى التيفوس	Brill's disease
+مرض بلّوطي	acorn disease
+مرض بورنفي = تصلب درني	Bournevill's disease = tuberous sclerosis
+مَرَضٌ بَوْلِيٌّ	urosis
+مَرَضُ بُويِن	Bowen's disease
+مَرَضٌ بِيئِيّ	environmental disease
+مَرَضٌ تحتَ الحادّ	subacute disease
+مرض تخزين الجليكوجين	disease, glycogen
+مَرَضُ تَخْفيفِ الضَّغْط	decompression sickness
+مَرَضٌ تَراكُمِيّ	accumulation disease (storage disease)
+مَرَضٌ تَسَمُّمِيّ	nosotoxicosis (toxicosis)
+مرض تَكَيُّفي	adaptive disease
+مَرَضٌ تِلقائيّ	idiopathy
+مرض تنفسي حاد	acute respiratory disease
+مَرَضٌ ثانَوِيّ	secondary disease
+مرض جديري الدجاج	chicken-pox
+مَرَضٌ جُرْثومِيّ	schizomycosis
+مَرَضٌ جُزَيئِيّ	molecular disease
+مَرَض جِلْدِي	dermatosis
+مَرَضٌ جِلْدِيٌّ تَقَرُّحِيّ	helcodermatosis
+مَرَضٌ جِلْدِيٌّ تَقَرُّنِيّ	keratodermatosis
+مَرَضٌ جِلْدِيٌّ طُفَيلِيّ	dermatozoiasis
+مَرَضٌ جِلْدِيٌّ طُفَيلِيّ	dermatozoonosis
+مَرَضٌ جِلْدِيٌّ مِهْنِيّ	dermatergosis
+مَرَضٌ جِلْدِيٌّ يودِيّ	iodidoderma
+مَرَضٌ جِلْدِيٌّ يودِيُّ المَنْشَأ	iododerma
+مرض جنون البقر	bovine spongiform enecelophalophaty (bse) / mad cow disease
+مرض جنون البقر	mad cow disease
+مرض حاد	acute desease
+مَرَضٌ حادّ	acute disease
+مرض حاد	disease, acute
+مَرَضٌ حادٌّ مُزيلٌ للمَيَالين	acute demyelinating disease (postinfective myelitis)
+مرض حبائس الخلايا الضخمة	cytomegalic inclusion disease
+مَرَضٌ حَيَوَانِيّ المَصْدَر	zoonosis
+مَرَضٌ حَيَوانِيُّ المَصْدَر	zoosis
+مرض حيواني متوطن	disease, enzootic
+مرض حيواني وبائي	disease, epizootic
+مرض خدش الهزة	cat scratch disease
+مَرَضٌ خِلْقِيّ	congenital disease
+مرض خلوي منجلي	disease, sickle-cell
+مرض دخيل	disease, intercurrent
+مَرَضٌ دَرَقِيّ	thyrosis
+مَرَضٌ دَوائِيُّ المَنْشَأ	drug disease
+مَرَضُ دَوَاعِمِ السِّنّ	periodontal disease
+مَرَضٌ ذاتِيُّ المَناعة	autoimmune disease
+مَرَضُ ذُبابَةِ الغَزال	deer fly disease (tularemia)
+مَرَضٌ رِئَوِيّ	pneumonosis
+مَرَضُ رَصَعِ النَّحْل	foulbrood
+مَرَضٌ روماتزميٌّ قَلْبِيٌّ فَعَّال	active rheumatic heart disease
+مَرَضٌ زِحامِيُّ المَنْشَأ	ochlesis
+مَرَضٌ ساحِلِيّ	coast disease
+مَرَضٌ سار	communicable disease
+مرض سيستيني	cystinosis
+مرض شاغاس	Chagas' disease
+مرض صغار الخنازير	baby-pig disease
+مَرَضٌ عَدْوَائِيّ	infectious disease
+مَرَضٌ عُضْوِيّ	organic disease
+مَرَضٌ عَظْمِيّ	osteonosus
+مَرَضٌ عِلاَجِيُّ المَنْشَأ	iatrogenic illness
+مرض عمى الأخضر و الأحمر	deuteranopia
+مرض عمي اللون الأحمر	protanopia
+مرض عمي اللون الأزرق	tritanopia
+مَرَضٌ غُدِّيٌّ لُعابِيّ	sialadenosis
+مَرَضٌ فُطْرِيّ	nosomycosis
+مَرَضٌ فَيْروسِيّ	virosis
+مَرَضٌ قَلْبِيّ	heart disease
+مَرَضٌ قَلْبِيٌّ	morbus cardiacus (heart disease)
+مَرَضٌ قَلْبِيّ	morbus cordis
+مَرَضٌ قَلْبِيٌّ بالتَّسَمُّمِ الدَّرَقِيّ	thyrocardiac disease (thyrotoxic heart disease)
+مَرَضٌ قَلْبِيٌّ بالتَّسَمُّمِ الدَّرَقِيّ	thyrotoxic heart disease
+مَرَضٌ قَلْبِيٌّ وِعائِيّ	cardiovascular disease
+مرض قمل الكرم	erineum
+مَرَض كاريون	Carrion's disease
+مَرَضُ كِريسْماس	Christmas disease
+مَرَضُ كوب	Cobb's disease
+مرض كيسي . مرض حوصلي	cystic disease
+مرض متوطن	disease, endemic
+مَرَضٌ مُتَوَطِّن	endemia
+مَرَضٌ مُتَوَطِّن	endemic disease
+مَرَضٌ مُتَوَطِّن	endemy
+مَرَضٌ مَجْموعِيّ	systemic disease
+مَرَضٌ مَجْهولُ السَّبَب	autopathy (idiopathic disease)
+مَرَضٌ مَحْدودٌ ذاتِيَّا	self-limited disease
+مَرَضُ مُخِّيّ	cerebrosis
+مَرَضٌ مُزْمِن	chronic disease
+مَرَضٌ مُسَبَّبٌ لكَارِثَة	catastrophic illness
+مَرَضٌ مُسْتَجِدّ	neopathy
+مرض مضاعف	disease, complicating
+مَرَضٌ مُضاعَفِيّ	complicating disease
+مَرَضٌ مُعْدٍ	contagious disease
+مَرَضٌ مُعْدٍ	disease, contagious
+مرض معد	disease, infectious
+مَرَضُ مَفْصِلِ الوَرِك	morbus coxarius
+مَرَضُ مَفْصِلِ الوَرِكِ الشَّيخُوخِيّ	morbus coxae senilis
+مَرَضٌ مُقْتَصِرٌ على الذُّكُورِ	andropathy
+مَرَضٌ مُناخِيّ	climatic disease
+مَرَضٌ مَنْقولٌ بالغِذاء	food-borne disease
+مرض منقول بالقَراد	tickborne disease
+مرض منقول بالماء	waterborne disease
+مرض منقول بناقل	vector-borne disease
+مرض منقول بواسطة الماء	water mediated disease cases
+مَرَضٌ مَنْقُولٌ جِنْسِيَّاً	venereal disease
+مَرَضٌ مِهْنِيّ	occupational disease
+مرض مهنيّ	occupational disease; industrial disease
+مَرَضٌ مَوروث	inherited disease
+مَرَضٌ مَوضِعِيّ	local disease
+مرض مولد - الغراء	collagen disease
+مرض نازع النخاعين	demyelinating disease
+مَرَضٌ نَباتِيُّ المَنْشَأ	phytonosis
+مَرَضٌ نِفاسِيّ	puerperal morbidity
+مَرَضٌ نَفْسِيّ	mental disease
+مرض نقيل	disease, communicable
+مَرَضٌ نَوعِيّ	specific disease
+مَرَضٌ وافِد	imported disease
+مَرَضٌ وَبائِيّ	epidemic disease
+مرض وراثيّ	genetic disease
+مَرَضٌ وِراثِيّ	hereditary disease
+مَرَضٌ وِراثِيٌّ بِنْيَوِيّ	heredoconstitutional disease
+مَرَضٌ وِراثِيٌّ تَنَكُّسِيّ	heredodegenerative disease
+مرض وظيفي	disease, functional
+مَرَضٌ وَظيفِيّ	functional disease
+مَرَضِيّ	morbi
+مَرَضِيّ	morbid
+مرضي	pathogenic; pathogenetic
+مرضيّ	pathologic
+مرضى	patients (in radiation protection)
+مرضيّة	morbidity
+مَرَضية	pathetic
+مِرْفَقُ التَّلاَمِذَة	students' elbow (olecranon bursitis)
+مَرَقٌ سُكَّرِيّ	sugar borth
+مُرَكَّبُ اللَّف	compound-wound
+مُرَكَّبُ آيزِنمِنْغَر	Eisenmenger's complex
+مَركز الارتجاج	center of percussion
+مركز الالتواء	centre of twist
+مركز الداء	disease centre
+مَرْكَزُ الرُّضوح	trauma center
+مَرْكَزُ السُّعال	coughing center
+مَرْكَزُ القَيء	vomiting center
+مَرِن	flexible
+مِرْوَحة البحر: زَهْريّات شعاعيّة مروحيّة	sea fan
+مِرْوَحة دَوّارة	rotary fan
+مُرونةُ الاِلتِواء	elasticity of torsion
+مُرونَةُ الالتِواء	torsional elasticity
+مُرُوْنَةٌ شَمْعِيَّة	flexibilitas cerea
+مِرياحُ الأرياش الدوّارة	vane anemometer
+مَريضٌ بِالإِمِساك	constipated
+مَرِيْضةُ الأُمُوْمَة	maternal patient
+مُزَالُ الطُّفَيلِيَّات	disparasitized
+مُزْدَوِجُ التَّعْمِيَة	double blind
+مُزْدَوِجُ الوَجْهِ الطُّفَيلِيّ	janiceps parasiticus
+مَزْرَعَةُ الأُنْبوبَةِ الدَّوَّارَة	roll-tube culture
+مَزْرَعَةُ السُّعال	cough plate
+مَزْق	tear wound
+مَزيجٌ سُكَّرِيٌّ زَيْتِيّ	oleosaccharum
+مُزِيلُ التَّشَنُّج	spasmolysant
+مُزِيلُ التَّشَنُّج	spasmolytic
+مُزِيْلٌ للتَّشَنُّجِ الوِعائِيّ	vasospasmolytic
+مَسٌّ	mania
+مَسٌّ أو هَوَسٌ معتدل	hypomania
+مُسبِّب الأمراض	pathogenic germ
+مسبب للحساسية	allergen
+مُسَبِّبٌ للروماتزم	rheumatogenic
+مسببات الأمراض	pathogens
+مُسْتَأْخِرُ السَّوْط	opisthomastigote
+مُسْتَدْمِيَةٌ نَزْلِيَة	Haemophilus influenza
+مُسْتَشْفَى الأَمْراضِ الحادَّة	acute care hospital
+مُسْتَشْفَى الأَمْراضِ الحادَّة	short term hospital
+مُسْتَشْفَى الأَمْراضِ المُزْمِنَة	chronic disease hospital
+مُسْتَشْفَى الأَمْراضِ المُزْمِنَة	chronic diseases hospital
+مُسْتَشْفَى الأَمْراضِ النَّفْسِيَّة	bedlam
+مُسْتَشْفَى الأَمْراضِ النَّفْسِيَّة	mental hospital
+مُسْتَشْفَى الأَمْراضِ النَّفْسِيَّة	psychiatric hospital
+مُسْتَشْفَى الأَمْراضِ الوَجيزَة	acute hospital (short term hospital)
+مستشفى الوبائيات	pesthouse
+مُسْتَضِدُّ اخْتِبارِ النُّكافِ الجِلْدِيّ	mumps skin test antigen
+مُسْتَضِدُّ الْتِهابِ الكَبِد	hepatitis antigen
+مُسْتَضِدُّ الْتِهابِ الكَبِدِ المَصْلِيّ	serum hepatitis antigen
+مُسْتَضِدُّ الوَرَمِ الحُبَيْبِيِّ	lymphogranuloma venereum antigen
+مُسْتَضِدٌّ زَرْعِيٌّ نَوْعِيٌّ للوَرَم	tumor-specific transplantation antigen
+مُسْتَضِدٌّ فراي	Frei antigen
+مُسْتَضِدٌّ نَوْعِيٌّ للوَرَم	tumor-specific antigen
+مُستَعِر	ablaze
+مُسْتَلْهِب	phlogogen
+مُسْتَلْهِب	phlogogenic
+مُسْتَلْهِب	phlogogenous
+مُسْتَنْبَتُ التَّشْخِيص	diagnosis medium
+مُسْتَوْدَع الْخَمَج	infection reservoir
+مُسْتَودَعُ العَدْوَى	reservoir of infection
+مُستوطِنٌ	enzootic
+مُسْتَوْطِنُ الدَّم	hemozoic (hematozoon)
+مُسْتَوطِنُ الدَّم	hemozoon
+مُسْتَوطِنَةُ الأَمْعاء	celozoic
+مُستَوي الانكِسار	fracture plane
+مستوى الحساسية	sensitivity level (of a transducer)
+مُستوي الصَّدْع	plane of fracture
+مُسَجِّلُ الطُّفيلِيّاتِ الجوّيّة	sferics recorder
+مَسحوقٌ تِلْقائيُّ الالتهاب	pyrophoric powder
+مِسْخٌ تَوأَمِيٌّ طُفَيلِيّ	autositic monster
+مِسْخٌ طُفَيلِيّ	parasitic monster
+مُسْخِط	dissatisfactory
+مُسَرْطِن	cancerogenic
+مُسَرْطِن	carcinogenic
+مُسَرْطَن: مصابٌ بالسَّرطان	cancered
+مَسَكَ	hold
+مُسْكارْدِين	muscardine
+مِسْمارُ الكَسْر	fracture nail
+مُسَمِّنٌ	obesogenous
+مِشْبَك	cramp
+مشبك الخرطوم	hose clamp
+مُشْتَمَلاَتُ غارنياري	Guarnieri's inclusions
+مُشِلّ	paralysant
+مَشيمَةٌ دَوالِيَّة	varicose placenta
+مِشْيَةُ أَلَوِيَّة	gluteal gait
+مِشْيَةٌ مِرْوَحِيَّة	helicopod gait
+مَصٌّ تالٍ للسُّعال	post-tussive suction
+مصاب بالذَّبْحَة	anginose
+مصاب بالذَّبْحَة	anginous
+مصاب بالشَّقيقَة	migraineur
+مصاب بالشَّلَلِ المُزْدَوِجِ	diplegic
+مصاب بالعَمَى الشِّقِيّ	hemianopic
+مصاب بالعَمَى الشِّقِيّ	hemianoptic (hemianopic)
+مصاب بالعَمَى الشِّقِّي	hemiopic (hemianopic)
+مصاب بالعَمَى النَّهَارِيِّ	hemeralope
+مصاب بالفُصَام	schizophreniac
+مصاب بالهَوَسِ الخَفِيْف	hypomaniac
+مُصاحِبٌ للالْتِهابِ الرِّئَوِيّ	synpneumonic
+مِصباحٌ اصطرابي	strobe light
+مِصباحٌ رَعّاش	ultrasonic stroboscope
+مَصْدَرُ العَدْوَى	source of infection
+مصفاة أسطوانية دوارة	rotary drum screen
+مَصْفُوفَةٌ دَائِرَة	circulant matrix
+مِصقلة دوّارة	rotary float = power float
+مَصْلُ النَّاقِهين	convalescence serum
+مَصْلُ النُّفَاطات	blister serum
+مَصْلٌ ضِدِّيٌّ لدَاءِ الكَلَب	rabies antiserum
+مَصْلٌ مُضادٌّ للطَّاعون	plague serum
+مَصْلٌ مُضادٌّ للغَنغرينةِ الغازِيَّة	anti-gas-gangrene serum
+مَصْلٌ مُضادٌّ للكُزاز	antitetanic serum
+مَصْلٌ مُضادٌّ للكُوليرا	anticholera serum
+مضاد - الإسْهَال	antidiarrheal
+مضاد - تَشَنُّج	antipasmodic
+مضاد - حيوي مضاد للورم	antitumor antibiotic
+مُضادُّ ابْيِضاضِ الدَّم	antileukemic
+مُضادُّ الاِخْتِلاج	anticonvulsant
+مُضادُّ الأَرَجِيَّة	antiallergic
+مُضادُّ الاسْتِسْقاء	antihydropic
+مُضادُّ الإِسْهال	antidiarrheal
+مُضادُّ الإِسْهال	antidiarrheic
+مُضادُّ الالْتِهاب	anti-inflammatory
+مُضادُّ الالْتِهاب	antiphlogistic
+مُضَادّ الالْتِهَاب غَيْر الستيرُوئِيدِيّ	non steroidal antiinflammatory drug
+مُضادُّ الأَمْرَاضِ المَنْقُولَةِ	antivenereal
+مُضادُّ الأَورام	antioncotic
+مُضادُّ التَّشَنُّج	antispasmodic
+مُضادُّ التَّشَنُّجِ العَضَلِيّ	antispastic
+مُضادُّ التَّفَتُّل	antimitotic
+مُضادُّ الْتِهابِ العَصَب	antineuritic
+مُضادُّ الْتِهابِ الكُلَى	antinephritic
+مُضادُّ الْتِهابِ المَفاصِل	antarthritic
+مُضادُّ الْتِهابِ المَفاصِل	antiarthritic
+مُضادُّ الجُذام	antileprotic
+مُضادُّ الجَرَب	antiscabietic
+مُضادُّ الجَرَب	antiscabious (antiscabietic)
+مُضادُّ الجُفاف	antixerotic
+مُضادُّ الحِكَّة	antipruritic
+مُضادُّ الحُمَّى	alexipyretic (antipyretic)
+مضاد الحمى	anti-pyretic
+مُضادُّ الحُمَّى	antifebrile (antipyretic)
+مُضادُّ الحُمَّى	antipyretic
+مُضادُّ الحُمَّى	antithermic (antipyretic)
+مُضادُّ الذَّبْحَة	antianginal
+مُضادُّ الذُّهان	antipsychotic (neuroleptic)
+مُضَادّ الذُّهَان	neuroleptic
+مُضادُّ الذُّهان	neuroleptic (antipsychotic)
+مُضادُّ الرَّبْو	antasthmatic
+مُضادُّ الرَّبْو	antiasthmatic
+مُضادُّ الرَّمَد	antiophthalmic
+مُضادُّ الرَّمَد	antophthalmic
+مضاد الروماتزم	anti-rheumatic
+مُضادُّ الزُّحار	antidysenteric
+مُضادُّ الزُّحار	antidysentericum
+مُضادُّ الزُّهْرِيّ	antiluetic
+مُضادُّ السَّرَطان	anticancer
+مُضادُّ السُّعال	antibechic
+مُضادُّ السُّعال	antitussive
+مُضادُّ السُّكَّرِيّ	antidiabetic
+مُضادُّ السِّمْنَة	antiobesic
+مُضادُّ الشَّلَل	antiparalytic
+مُضادُّ الصُّداع	anticephalalgic
+مُضادُّ الصَّدَفِيَّة	antipsoriatic
+مُضادُّ الصَّرْع	antiepileptic
+مُضادُّ الطُّفَيلِيّ	antiparasitic
+مُضادُّ الطُّفَيْليّات	antiparasitic
+مُضادُّ العَدْوَى	anti-infectious
+مُضادُّ العَدْوَى	anti-infective
+مُضادُّ الغَثَيان	antinauseant
+مُضادُّ الفُصام	antischizophrenic
+مُضَادّ القَرْحَة	antiulcer
+مُضادُّ القِرْمِزِيَّة	antiscarlatinal
+مُضادُّ القَيء	antemetic (antiemetic)
+مضاد القيء	anti-emetic
+مُضادُّ القَيء	antiemetic
+مُضادُّ الكُزاز	antitetanic
+مُضادُّ الكُولِيرا	anticholera
+مُضَادُّ النِّقْرِس	antipodagric
+مُضادَّ الهِسْتيرِيا	antihysteric
+مُضادُّ الهَوَس	antimaniacal
+مُضادُّ الهَوَس	antimanic
+مُضادُّ الوَذَمَة	antiedematous
+مُضادُّ الوَذَمَة	antiedemic
+مُضادُّ الوَرَم	antitumor
+مُضادُّ اليَرَقان	anti-icteric
+مُضادٌّ أو مانعٌ للحُمَّى	antipyretic
+مُضادُّ تَشَنُّجِ القَصَبات	bronchial antispasmodic
+مُضادُّ تَشَنُّجِ المَرارَة	biliary antispasmodic
+مُضادُّ جُفافِ المُقْلَة	antixerophthalmic
+مضاد للالتهاب	anti inflammatory
+مُضادّ للالتهاب	anti-inflammatory
+مُضادّ للأورام	antineoplastic
+مضاد للتسمم	antitoxin
+مُضادٌّ للتَّشنُّج	antispasmodic
+مضاد للحكة	anti-puritic
+مضاد للسُّعَال	antitussive
+مُضادّ للطُّفيليات	antiparasitic
+مُضاض الأطراف	acrodynia = erythrederma = pink disease
+مُضَاغ	quidding
+مضخة تشخيص التسرُّب	leak diagnosis pump (LDP)
+مِضَخَّةٌ ثابتةُ الشوط	constant stroke pump
+مِضخّة خوائية دوارة ذات أرياش مُنزلِقة	rotary vane vacuum pump; slide vane rotary vacuum pump
+مضخة دوّارة	circulation pump
+مِضخّة دوارة ذات أرياش مُنزلِقة	rotary vane pump; vane pump
+مِضَخَّةُ مُداوَلة	circulating pump
+مِضخَّة نصفُ دوّارة	semi-rotary pump
+مُضيف	host
+مُضِيْفُ المُداوَمَة	maintaining host (reservoir)
+مِطبعةٌ دوّارة	rotary press
+مِطرقة دوّارة	rotary hammer
+مطرقة لا إرتدادية	dead-stroke hammer
+مظفار خرط	turning gouge
+مُعالَجَةٌ إِخْلافِيَّة	allopathy
+مُعالَجَةُ الأَمْراضِ النِّسائِيَّة	gyniatrics
+مُعالَجَةُ الأَورام	oncotherapy
+مُعالَجَةُ السُّكَّرِيّ	diabetotherapy
+مُعالَجة أمراضِ القَدَم	chiropody
+مُعالَجَةٌ أنسولينيَّةٌ دونَ الغَيبوبَة	subcoma insulin treatment
+مُعالَجَةُ إيبشتاين	Ebstein 's treatment
+مُعالَجَةُ إيرليخ-هاتا	Ehrlich-Hata treatment
+مُعالَجَةٌ بالأَنسولين دونَ الغَيبوبَة	subcoma insulin therapy
+مُعالَجَةٌ بالحُمَّى	fever therapy
+مُعالَجَةٌ بالحُمَّى	fever treatment
+مُعالَجَةٌ بالعَدْوَى بالمَلاَرْيَا	malarization therapy
+مُعالَجَةٌ بالكُولين	choline treatment
+مُعالَجَةٌ بِالمَرَض	nosotherapy
+مُعالَجَةٌ بِالمَلاَرْيا	impf-malaria (malariotherapy)
+مُعالَجَةُ بانتينغ	Banting treatment
+مُعالَجَةُ بغَيبوبَةِ الأَنْسولين	insulin coma treatment
+مُعالَجَةٌ بمُضادِّ الحُمَّى	antipyresis
+مُعالَجَةُ بوشاردا	Bouchardat 's treatment
+مُعالَجَةُ بيترين	Petren 's treatment
+مُعالَجَةُ بير	Bier 's treatment
+مُعالَجَةُ بيرد	Beard 's treatment
+مُعالَجَةُ بيرد	Bird 's treatment
+مُعالَجَةُ بيل	Bell treatment
+مُعالَجَةٌ جَسَدِيَّة	somatotherapy
+مُعالَجَةُ دانسيل	Dancel 's treatment
+مُعالَجَةُ ريكور	Ricord 's treatment
+مُعالَجَةُ شروث	Schroth's treatment
+مُعالَجَةُ غوكرمان	Goeckerman treatment
+مُعالَجَةُ غينار	Guinard 's treatment
+مُعالَجَةُ فورنييه	Fournier 's treatment
+مُعالَجَةُ فيشيرا	Fichera 's treatment
+مُعالَجَةُ كانتاني	Cantani's treatment
+مُعالَجَةُ كوراني	Koranyi 's treatment
+مُعالَجَةُ كوفي-هامبر	Coffey-Humber treatment
+مُعالَجَةُ كيتل	Kittel 's treatment
+مُعالَجَةُ كيتنغ-هارت	Keating-Hart's treatment
+مُعالَجَة ماكفيترز	MacPheeters ' treatment
+مُعالَجَةُ وودبريدج	Woodbridge treatment
+مُعالَجَةُ يو	Yeo's treatment
+مُعامِلُ الالْتِواء	coefficient of skewness
+مُعامِلُ الالتِواء	modulus of torsion = torsion modulus
+مُعامل الالتواء	torsion coefficient
+مُعامل الالتواء	torsional modulus
+مُعامِل اللَّي	coefficient of torsion
+معامل جيرو مغناطيسي	gyromagnetic resonance
+مُعايِشُ الأَنْسِجَة	histozoic
+مُعايِشٌ داخِلِيّ	endobiotic
+مُعْتَلِي الفَكّ	epignathus
+مُعْدٍ	contagious
+مُعَدَّلُ الطُّفَيلِيَّات	parasite rate
+مُعَدَّلُ العَدْوَى	infection rate
+مُعَدَّلُ المَراضَة	morbidity rate
+مُعَدَّلُ المَرَض	sickness rate (morbidity rate)
+مُعَدَّلُ الوَفَياتِ النَّوْعِيُّ للمَرَض	disease specific death rate
+مُعَدَّلُ إِماتَةِ الحالاَت	case fatality rate
+مُعدَّل انتشار المرض	morbidity
+معدل انتشار فيروس نقص المناعة المكتسبة	HIV Prevalence Rate ( %)
+معدل انتشار مرض الملاريا لكل مائة ألف شخص	Malaria Prevalence Rate Per 100,000 Population.
+معدل انتشار مرض شلل الأطفال	Polio Prevalence Rate
+معدل حالات ضبط المخدرات	Drug Seizure Rate
+مَعِدَةٌ إِغْراقِيَّة	dumping stomach (dumping syndrome)
+مَعِدَةٌ شَبيهَةٌ بالقِرْبَة	leather bottle stomach (linitis plastica)
+مَعِدَةٌ مُتَصَلِّبَة	sclerotic stomach (linitis plastica)
+مَعَص	cramp
+مَعَصُ الاسْتِلْقاء	recumbency cramp
+مَعْصُ الحَر	heat cramp
+مَعَصُ الحَرّ	heat cramps
+مَعَصُ الحِلاَقَة	shaving cramp
+مَعَصُ الخَيَّاطين	tailors' cramp
+مَعْصُ الطَّمْث	menstrual cramp
+مَعَصُ العامِلينَ بالمَواقِد	stoker's cramp (heat cramp)
+مَعَصُ العَصَبِ الإِضافِي	accessory cramp
+مَعَصُ الكُتَّاب	paralysis notariorum (writer's cramp)
+مَعَصُ الكُتَّاب	writer's cramp
+مَعَصُ الكُتَّاب	writers' cramp
+مَعَصُ المُعَدِّنين	miner cramps
+مَعَصُ الموسيقِيِّين	musicians' cramp
+مَعَصُ ضارِبِي البيانُو	pianists' cramp
+مَعَصُ عازِفِ الكَمان	violinist cramp
+مَعَصُ عازِفِي البيانو	pianist's cramp
+مَعَصٌ عَضَلِيّ	muscle cramp
+مَعَصُ عُمَّالِ المَناجِم	miners' cramp
+مَعَصٌ لَيلِيّ	nocturnal cramp
+مَعَصٌ مُتَقَطِّع	intermittent cramp
+مَعَصٌ مِهْنِيّ	occupational cramp
+مَعَصٌ مِهْنِيّ	professional cramp
+معفى	free of capture and seizure
+مُعَقَّدٌ أَعْراضِيّ	symptom complex (syndrome)
+مُعَقَّدُ الإِكْزيمَةِ و الرَّبْوِ	EAHF complex (Eczema, Asthma and Hay Fever complex)
+مُعَقَّدُ التَّصَلُّبِ الجانِبِيِّ	amyotrophic lateral sclerosis-parkinsonism dementia complex
+مُعَقَّدُ الخَرَفِ و البارْكِنْسُونِيَّة	Parkinson-dementia complex
+مُعَقَّدُ ماينْبِيرْغ	Meyenburg's complex
+معهد السرطان	institute, cancer
+مَعْهَدُ رِعايَةِ المَرْضَى	inpatient care institution
+مَغازيلُ كَسْرِيَّة	fracture fusi
+مغزلي الغنغرينا	Clostridium perfringens
+مغزلي الكزاز	Clostridium tetani
+مَغْص	colic
+مَغْص	colic; cramp
+مَغْص	tormina
+مَغْصُ الأَرْياح	wind colic
+مَغْصُ الحَصاةِ الصَّفْراوِيَّة	gallstone colic (biliary colic)
+مَغْصُ الدَّهَّانين	painter's colic
+مَغْصُ الدَّهَّانين	painters' colic (lead colic)
+مَغْصُ العِقْي	meconial colic
+مَغْصٌ بَاسورِيّ	hemorrhoidal colic
+مَغْصٌ بَنْكِرْياسِيّ	pancreatic colic
+مَغْصُ بواتو	Poitou colic (lead colic)
+مَغْصٌ بُوقِيّ	tubal colic
+مَغْصٌ حالِبِيّ	ureteral colic
+مَغْصٌ حَيضِيّ	menstrual colic
+مَغْصٌ ديدانِيّ	verminous colic
+مَغْصٌ ديدانِيّ	worm colic
+مَغْصُ ديفونشاير	Devonshire colic (lead colic)
+مَغْصٌ رَحِمِيّ	uterine colic
+مَغْصٌ رَحِمِيّ	uterocolic
+مَغْصٌ رَصاصِيّ	colica pictonum (lead colic)
+مَغْصٌ رَصاصِيّ	lead colic
+مَغْصٌ رَصاصِيّ	saturnine colic (lead colic)
+مَغْصٌ رَمْلِيّ	sand colic
+مَغْصٌ زائِدِيّ	appendiceal colic
+مَغْصٌ زائِدِي	appendicular colic
+مغص زائدي	colic, appendicular
+مَغْصٌ زائِدِيّ	vermicular colic
+مَغْصٌ زَنْكِيّ	zinc colic
+مَغْصٌ شَلَلِيٌّ رَصاصِيّ	colicoplegia
+مغص صفراوي	biliary colic
+مَغْصٌ صَفْراوِيّ	bilious colic
+مغص صفراوي	colic, biliary
+مَغْصٌ طِفْلِيّ	infantile colic
+مَغْصٌ غائِطِيّ	stercoral colic
+مَغْصٌ كَبِدِيّ	hepatic colic
+مغص كلوي	colic, renal
+مَغْصٌ كُلْوِيّ	kidney colic
+مَغْصٌ كُلْوِيّ	nephric colic (renal colic)
+مغص كلوي	nephro colic (renal)
+مَغْصٌ كُلْوِيّ	renal colic
+مَغْصٌ لَبَنِيّ	milk colic
+مَغْصٌ لُعابِيّ	salivary colic
+مَغْصٌ مَبيضِيّ	ovarian colic
+مَغْصٌ مُتَوَطِّن	endemic colic
+مَغْصٌ مَثانِيّ	cystic colic
+مَغْصٌ مُخاطِيّ	colica mucosa (mucous colitis)
+مَغْصٌ مَرارِيّ	biliary colic (hepatic colic)
+مَغْصٌ مَعِدِيّ	gastric colic
+مَغْصٌ مِعَوِيّ	intestinal colic
+مَغْصٌ نُحاسِيّ	copper colic
+مِفتاحُ رَبْطٍ بِمقياسِ التواء	torsion wrench
+مُفْرِط التوتُّر: بالغُ الحساسية	overstrung
+مُفْرِطُ الحِسّ	hyperesthetic
+مفرط الحساسية	hypersensitive
+مُفْرِط الحساسيّة	oversensitive
+مُفرِط الحسّاسيّة	supersensitive
+مَفْصِلُ الالْتِهابِ الزُّغابِيّ	fringe joint
+مفصل النزيف	joint, bleeder's
+مُفَصِّلاتٌ لَولَبيَّة	helical hinges
+مُفَصِّلَةٌ لَولَبيةٌ دوَّارة	hinge, helical
+مَفْصِلِيُّ الإمْداد	arthrifluent
+مُقاوِمٌ سِلْكيٌّ مَلفوف	wire-wound resistor
+مقاومة الالتواء	flexion resistance
+مُقاومة الاِلتواء	torsion strength
+مُقاوَمةُ الالتِواء	torsional strength
+مُقاومَةُ الجَفاف	drought resistance
+مقاومة الجفاف	dry strength
+مقاوَمة اللَّيّ	strength, torsional
+مقاومة المرض	disease resistance
+مُقاوَمة طُفَيلية	parasite resistance
+مقاومة للجفاف	drought resistant
+مُقَدِّماتُ الاَبْيِضاض	preleukemia
+مُقَدِّماتُ التَّشَمِّع	precirrhosis
+مُقَدِّماتُ السُّكَّرِيّ	prediabetes
+مُقَدِّماتُ الغَيبوبَة	precoma
+مُقَدِّماتُ الغَيبُوبَةِ السُّكَّرِيَّة	diabetic precoma
+مُقَرِّح: مُحْدِثٌ قَرْحَةً	ulcerogenic
+مُقْلِعٌ للحُمَّى	defervescent
+مُقَوِّرَة دَوّارة	rotary reamer
+مِقياسُ الالتِواء	torsiometer
+مِقياسُ الالتِواء	torsion meter = torsiometer
+مِقْياسُ الالْتِواء	tropometer
+مقياس الاهتزاز	vibrograph; vibrometer
+مِقْياسُ التَّوَرُّم	turgometer
+مِقْياسُ الحَرارَةِ التَّهابُطِيّ	katathermometer
+مِقياسُ الحسّاسيَّة	sensitometer
+مِقْياسُ الكُزاز	tetanometer
+مِقْياسُ انْتِشارِ المَرَض	pathometer
+مِقياسٌ بأرياشٍ دَوّارة	rotary-vane meter
+مقياس فرق الجهد بسلك ملفوف	wire-wound potentiometer
+مُكافَحَةُ الأَمْراضِ السَّارِيَة	communicable diseases control
+مُكافَحَةُ أَمْراضِ الإسْهال	diarrheal diseases control
+مكامن العدوى	fomes = fomite
+مَكْتَبَةُ المَرْضَى	patient library
+مكرر بوصلة دوارة	gyro compass repeater
+مِكرومتر	micrometer screw
+مُكَسَّر a-c	a-c fracture
+مَكْسَر زجاجي	vitreous fracture
+مكسر شمعي	waxy fracture
+مكْسَر غير منتظم	irregular fracture
+مَكْسَر مستوٍ	uneven fracture
+مَكْسَر مسنَّن	hackly fracture
+مِكشافُ العَواصِف	sferics
+مكنة إرتجاج مباشرة الإساقة	direct-drive vibration machine
+مكنة تجميع بمنضدة دوّارة	rotary table assembly machine
+مَكَنَة حِناية القامِطات	cramp folding machine
+مُكَوِّنُ الوَرَم	oncogenetic
+مُكَوِّنُ الوَرَم	oncogenic
+مُكَوِّنٌ للأَورام	tumorigenic
+ملابس داخلية ضد الروماتيزم	anti-rheumatic underwear
+ملابس ضد الحساسية	anti-allergy clothing
+ملاريا	paludism = malaria
+مَلاَرْيا المُتَصَوِّرَاتِ البَيْضاوِيَّة	ovale malaria
+مَلاَرْيا المُتَصَوِّرَاتِ النَّشيطَة	vivax malaria
+مَلاَرْيا بُرُوْدِيَّة	cold malaria (algid malaria)
+مَلاَرْيا بَقَرِيَّة	bovine malaria
+مَلاَرْيا تحتَ الغِبّ	subtertian malaria (falciparum malaria)
+مَلاَرْيا تِسْع	nonan malaria
+مَلاَرْيا حالَّةٌ للدَّم	hemolytic malaria (blackwater fever)
+مَلاَرْيا حَميدَةٌ تحتَ الغِبِّ	benign subtertian malaria
+مَلاَرْيا خَافِيَة	latent malaria
+مَلاَرْيا خِمْس	quintan malaria
+مَلاَرْيا دِماغِيَّة	cerebral malaria
+مَلاَرْيا رِبْع	quartan malaria
+مَلاَرْيا زُحارِيَّة	dysenteric malaria
+مَلارْيا صاقِعَة	algid malaria
+مَلاَرْيا صَفْراوِيَّةٌ مُتَرَدِّدَة	bilious remittent malaria
+مَلاَرْيا صَيفِيَّةٌ خَريفِيَّة	estivoautumnal malaria (falciparum malaria)
+مَلاَرْيا عِلاَجِيَّة	therapeutic malaria
+مَلاَرْيا غِبّ	tertian malaria (vivax malaria)
+مَلاَرْيا غِبٌّ حَميدَة	benign tertian malaria (vivax malaria)
+مَلاَرْيا غِبٌّ خَبيثَة	malignant tertian malaria (falciparum malaria)
+مَلاَرْيا غِبٌّ مُضاعَفَة	double tertian malaria (quotidian malaria)
+مَلاَرْيا غَيبوبِيَّة	malaria comatosa
+مَلاَرْيا مُتَرَدِّدَة	remittent malaria
+مَلاَرْيا مُتَقَطِّعَة	intermittent malaria
+مَلاَرْيا مَعِدِيَّة	gastric malaria
+مَلاَرْيا ناكِسَة	relapsing malaria
+مَلاَرْيا نَزْفِيَّة	hemorrhagic malaria
+مَلاَرْيا نَقْلِ الدَّم	transfusion malaria
+مَلاَرْيا وَبَالِيَّة	malariae malaria
+مَلاَرْيا وَبيلَة	pernicious malaria (falciparum malaria)
+مَلاَرْيا يَومِيَّة	quotidian malaria
+ملتهب	flammé
+مُلْتَهِب	inflamed
+مُلْتَهِبُ الدِّماغ	encephalitic
+مَلْخُ الطيّ	plicative dislocation
+مُلَخَّصُ الحالَةِ المَرَضِيَّة	case summary
+مِلْزَمَة دَوّارة	swivel vise
+مِلْزَمَة دَوَّارة	vice, swivel
+مِلْزَمَةُ مَكناتٍ دَوَّارَة عامةُ الأغراض	universal swivel machine vice
+ملطِّف للحُمَّى	febrifugal
+ملطِّف للحُمَّى	febrifuge
+مِلْعَقَةُ السَّادّ	cataract spoon
+ملعقية	scurvy-grass
+مِلَفُّ حَثٍّ مُوَصَّلٌ على التوازي	induction coil, shunt-wound
+مِلَفُّ حَثّ مُوَصَّلٌ على التَّوالي	induction coil, series-wound
+مِلَفُّ مُحاثَّةٍ مُوَصَّلٌ على التوالي	series-wound induction coil
+ملف ملفوف عشوائياً	random wound winding
+مِلْقاطُ وِيليت	Willet's clamp
+مِلْقَطُ الحَثَر	trachoma forceps
+مِلْقَطُ إِمْساكِ الإِسْفَنْج	sponge holding forceps
+مِلْقَطُ إِمْساكِ اللِّسان	tongue holding forceps
+مِلْقَطٌ بَكَرِيّ	roller forceps (trachoma forceps)
+مِلْقَطُ لوفينبرغ	Lowenberg's forceps
+مِلْقَطُ ناب	Knapp's forceps (trachoma forceps)
+مُلْهِبٌ للدِّمَاغِ	encephalitogen
+مُلْهِبٌ للدِّمَاغِ	encephalitogenic
+مُماحَكَةٌ مَرَضِيَّة	grubelsucht
+ممتاز	copacetic
+مِمْراض	pathogen
+مُمْرِضٌ	morbific (pathogenic)
+مُمْرِضٌ	morbigenous (pathogenic)
+مُمْرِض	nosogenic (pathogenic)
+مُمْرِض	nosopoietic (pathogenic)
+مُمْرِض	pathogen
+مُمْرض	pathogenic
+مُمْرٍضْ فيروسي	viral pathogen
+مُمَرِّضَةٌ دَوَّارَة	circulating nurse
+مُمَرِّضَةُ مُكافَحَةِ العَدْوَى	infection control nurse
+مَمْشوقَة	leptomonas
+مَنارَةٌ دَوّارة	rotating beacon
+منارة دوّارة صوتية	voice rotating beacon
+مَنارة لاسلكية دوّارة	revolving radio beacon
+مَناعَةُ العَدْوَى الإِضافِيَّة	superinfection immunity
+مَناعَةٌ تالِيَةٌ لتَخْريبِ الوَرَم	postoncolytic immunity
+مناعة ضد المرض	disease immunity
+مَناعَةٌ عَدْوائِيَّة	infection immunity
+مَناعَةٌ مُصاحِبَة	concomitant immunity (infection immunity)
+مُنتصَف الشِّراع	bunt
+مُنْتَهَى الجُنُوْنِ	acromania
+مُنحدَرات النهر	rapids / cataract
+مُنحنى الحساسية للسطوع	luminous response curve
+مُنْحَني الرُّؤْية	visibility curve (or sensitivity curve)
+مُنْحَنَى زُهْرِيّ	luetic curve
+مُنحنى هبوط منسوب المياه	curve of depression / drop-down curve
+مُنْخَفَضٌ	lee depression
+منخفض الذوبان الجليدي	thaw depression
+منخفض تصريف	drainage depression
+مُنْخَفَضٌ تَضاريسِيّ	orographic depression
+مُنْخَفَضٌ ثانوي	secondary depression
+مُنْخَفَضٌ جوي دائم	permanent depression
+مُنْخَفَضٌ جوي رئيسي	primary depression
+مُنْخَفَضٌ جوي شبه دائم	semi-permanent depression
+مُنْخَفض جوي على شَكْلِ	V-shaped depression
+مُنْخَفَضٌ جوي مداري	tropical depression
+مُنْخَفَضٌ جوي ممتلئ	occluded depression
+مُنْخفََض جوي منتكص	retrograde depression
+مُنخَفض مَرْكَزيّ	central depression
+مَنْزَحُ الجُرْحِ الوَخْزِيّ	stab wound drain
+مَنْسَبُ التَّطَفُّل	parasite index
+مَنْسَبُ السِّمْنَة	obesity index
+مَنْسَبُ برودر	Broders' index
+مَنْسَبُ بوشار	Bouchard's index
+مَنْسَبُ ماكلين	McLean's index
+مُنَسِّقُ رِعايَةِ المَرْضَى	patient care coordinator
+مَنْشَأٌ عِلاَجِيّ	iatrogenesis
+منشار هيكل السيارة قصير الشوط	short-stroke body saw
+مِنَصَّة دَوّارة	revolving stage
+مِنْضَدَةٌ دَوّارة	revolving table
+مِنْضَدَة دَوّارة	swing table
+منضدة دوّارة شافطة	vacuum chuck turntable
+منطقة التشقق	fracture zone
+منطقة تخلع	dislocation zone
+منطقة ملتوية	orogenetic; orogenic zone
+منطقة ملتوية	orogenic zone
+مِنْظَارُ عَمى الأَلْوان	leukoscope
+مُنْعَدَى	infected
+مُنْعَكَسُ السُّعال	cough reflex
+مُنْعَكَسُ القَيْء	vomiting reflex
+مُنْعَكَسُ أُوبيِنْهايِم	Oppenheim's reflex
+مُنْعَكَسُ برودزنسكي	Brudzinski's reflex
+مُنْعَكَسُ جُوفْروي	Joffroy's reflex
+مُنْعَكَسُ سِينْغر	Saenger's reflex
+مُنْعَكَسٌ مَرَضِيّ	pathologic reflex
+مِنْقلة	goniometer
+مُهَسْتِر: مسبِّب للهستيريا	hysterogenic
+مَهَقٌ	albinism
+مَهْووس	maniac
+مَهْووس	maniacal
+مواقف دوَّارة	rotating stops
+موجات عرضانية	shear waves
+مُوَجَّهٌ للمَرَض	nosotropic
+مُوَجَّهٌ للوَرَم	oncotropic
+مُوَصِّفُ الأَمْراض	nosographer
+مُوَصَّل على التّوازي	shunt-wound
+مُوَقٍّ من العَدْوى	phylactic
+موكْسازوسِين	moxazocine
+مُوَلِّدُ الحُمَّى الجُرْثومِيّ	bacterial pyrogen (endotoxin)
+مَوَلِّدُ الحُمَّى الخارِجِيُّ المَنْشَأ	exogenous pyrogen
+مَوَلِّدُ الحُمَّى الدَّاخِلِيّ المَنْشَأ	endogenous pyrogen
+مَوَلِّدُ الحُمَّى في الكُرَيَّاتِ البيض	leukocytic pyrogen (endogenous pyrogen)
+مَوَلِّدُ الحُمَّى في الماءِ المُقَطَّر	distilled water pyrogen
+مولد السرطان . مسرطن	carcinogen
+مُوَلِّدُ السُّكَّرِيَّات	carbohydrogenic
+مُوَلِّدُ الوَرَم	neoplastigenic
+مُوَلِّدُ الوَرَمِ اللِّيفِيّ	fibromatogenic
+مولد تزامني بملف مزدوج	double wound synchronous generator; double-winding synchronous generator (US)
+مُولّد حثّي بدوَّار ملفوف	wound rotor induction generator
+مُوَلِّدُ ضَجيجٍ زَهْريّ	pink-noise generator
+مُوَلِّدٌ للحُمَّى	pyretogen (pyrogen)
+مُوَلِّدٌ للحُمَّى	pyretogenic (pyrogenic)
+مُوَلِّدٌ للحُمَّى	pyrexiogenic (pyrogenic)
+مُوَلِّدٌ للحُمَّى	pyrogen
+مُوَلِّدٌ للحُمَّى	pyrogenetic
+مُوَلِّدٌ للحُمَّى	pyrogenic
+مُوَلِّدٌ مُتَوالٍ	series(-wound) generator
+مُوَلِّد مُركَّبُ اللف	compound(-wound) generator
+مُولِينْدون	molindone
+مَوَهُ الأَنْسِجَةِ الغازِيّ	hydropneumatosis
+مَوَهُ البَطْن	hydrops abdominis (ascites)
+مَوَهُ التَّأمور	hydropericardium
+مَوَهُ الرَّأْس	hydrocephalus
+مَوَهُ الرَّحِم	hydrometra
+مَوَهُ السَّلَى	hydramnion
+مَوَهُ الصِّفاق	hydroperitoneum (ascites)
+مَوَهُ الصِّفاق	hydroperitonia (ascites)
+مَوَهُ الطَّبْل	hydrotympanum (secretory otitis media)
+مَوَهُ الطَّبْل	tympanic hydrops (secretory otitis media)
+مَوَهُ القَناةِ الفَقَرِيَّة	hydrorachis
+مَوَهُ الكأْسِ الكُلْوِي	hydrocalyx
+مَوَهُ المَهْبِل	hydrocolpos
+مَوَهٌ زائِف	hydrops spurius (pseudomyxoma peritonei)
+مَوَهٌ مَفْصِلِيّ	hydrarthrosis
+مِيبْريدنيزون	meprednisone
+ميتانْسين	maytansine
+ميتِسَكْسِيميد	methsuximide
+مِيتوبْرين	metoprine
+مِيتوبيمازين	metopimazine
+ميتُوتان	mitotane
+مِيتوجيلين	mitogillin
+ميتوريديبا	meturedepa
+ميتُوسبير	mitosper
+ميتوكارْسين	mitocarcin
+مِيتوكْرومِين	mitocromin
+مِيتوكلوبراميد	metoclopramide
+مِيتومالْسين	mitomalcin
+ميتُوميسِين	mitomycin
+ميثرامِيسين	mithramycin
+ميثُوتْريكْسات	methotrexate
+مِيثِيكْسين	methixene
+ميثيل سلفات خُماسِيِّ البيبيريد	pentapiperide methylsulfate
+مِيدريزون	medrysone
+مِيرالين	meralein
+مِيريتْروكْسيلين	meretroxylline
+ميزوريدازين	mesoridazine
+ميفِينامين	mephenamine
+ميكلورِيثامِين	mechlorethamine
+مِيلْفالان	melphalan
+ميلِينْجيسْترول	melengestrol

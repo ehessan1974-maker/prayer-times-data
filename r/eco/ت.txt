@@ -1,0 +1,606 @@
+تابِع	subsidiary
+تأثير اقتصادي	economic impact
+تاج العَمود: رأس العَمود أو قِمّتُهُ	capital
+تاجِر	merchant
+تاجِر	trader
+تاجر الأجواخ أو الألبسة	draper
+تاجر التجزئة للكهرباء	Current reseller
+تاجر الجملة	wholesaler
+تاجر الخردة أو السِّلع المستعملة إلخ	junkman
+تاجر الصُّوف	wool stapler
+تاجر الكهرباء	electricity trader
+تاجر حديد	ironmonger
+تاجر خشب	timber merchant
+تاجر خيل. وبخاصة: تاجر خيل غير أمين	coper
+تأخُّر استهلاك الطاقة المُخزنة	capacity time delay
+تاريخ السَّحْب	pull date
+تاريخ إيداع الطلب	Patent filing date
+تاريخ إيداع طلب السابق	Filing date of previous application
+تاريخ إيداع طلب براءة	Filing date of a patent application
+تآكل الأصول	asset erosion
+تآكل الضِّفَّة	eroded river bank
+تالٍ	next
+تالٍ للضَّريبة an after-tax profit	after-tax
+تامّ	utter
+تأميم	nationalization
+تأميم البترول	Oil Nationalization
+تأمين	deposit
+تأمين إجباريّ على البطالة	compulsory unemployment insurance
+تأمين البضائع	cargo insurance
+تأمين البطالة	unemployment insurance; jobless insurance
+تَأْمينُ العَجْزِ	disability insurance
+تأمين المسؤولية	liability insurance
+تَأْمينُ المَسْؤولِيَّةِ العامَّة	general liability insurance
+تأمين المسؤولية المدنية	Civil Liability Insurance
+تَأْمينُ المَسْؤولِيَّةِ المِهْنِيَّة	professional liability insurance
+تَأْمينٌ تِجارِيّ	commercial insurance
+تأمين تعاوني	Cooperative Insurance
+تأمين سبل المعيشة	livelihood security
+تأمينٌ ضِدّ العَجْز	insurance, disablement
+تأمين عجز	disability insurance
+تَأميناتُ إِعاضَةِ الدَّم	blood replacement deposit
+تبادل البيانات الإلكترونية للإدارة	Electronic Data Interchange for Administration, Commerce and Transport
+تبادل السلع	Commodities Exchange
+تبادل تجاري عبر الإنترنت	CIX
+تبادل تجاري عبر الإنترنت	Commercial Internet Exchange
+تَبِعات	liabilities
+تبعية اقتصادية	economic dependence
+تَبْييتٌ بالانكِماش	shrinking-in
+تُثَبِّت	valorize
+تثبيت أسعار السّلَع	valorization
+تثبيت البضائع في العنبر	blocking off
+تثبيت السعر	Price-Fixing
+تجار الخشب	timber trade (the)
+تِجارة	commerce
+تِجارة	trade
+تجارة أخالقية	ethical trade
+تجارة استيراد	import trade
+تجارة الأخشاب	timber trade
+تجارة الانبعاثات	emission trading
+تجارة الانبعاثات في الاتحاد الأوروبي	EU Emissions Trading
+تجارة التجزئة	Retail Trade
+تجارة الترانزيت	Transit Trade
+تجارة الجملة	wholesale trade
+تجارة الجملة	Wholesale Trade
+تِجَارَةُ الحَدائِد	ironmongery
+تجارة الطاقة	energy trading
+تجارة إلكترونية	e-commerce
+تجارة إلكترونية	E-commerce
+تجارة إلكترونيَّة	electronic commerce
+تجارة إلكترونية	electronic commerce; e-commerce
+تجارة الكهرباء	electricity trading
+تجارة بحرية	maritime trade
+تجارة بحرية	sea-borne trade
+تجارة بحرية	shipping trade
+تجارة بينية	Inter-Trading
+تجارة بيولوجية	biotrade
+تجارة تصدير	export trade
+تجارة جوّيّة	air trade
+تِجارةٌ حُرَّة	free trade
+تِجارةٌ حُرَّة	trade, free
+تجارة خارجية	export trade
+تجارة خارجية	foreign trade; external trade
+تجارة داخل الشركة	Intra-Company Trading
+تجارة داخلية	internal trade; interior trade
+تجارة دولية	international trade
+تجارة دولية للانبعاثات	international emissions trading
+تجارة ساحلية دولية	international coastal trade
+تجارة ساحلية وطنية	national coastal trade
+تجارة شهادات الانبعاثات الكربونية	trading in CO2 emission allowances; trading in CO2 allowances
+تجارة شهادات الطاقة المتجددة	renewable energy certificate Trading
+تجارة عالمية	world trade
+تجارة عضوية	organic trade
+تجارة عضوية وعادلة	organic and fair trade
+تجارة غير قانونية	illegal traffic; illegal trade
+تجارة محظورة	contraband trade
+تجارة محلية	local trade
+تِجاري	commercial
+تِجاريّ	mercantile
+تجاري	Trade name
+تجدد	turnover
+تَجزِئَة	breakdown of costs
+تجمع تعاوني	cooperative assembly
+تجميد الأجور	wage freeze
+تَجْميدُ الأَسعار	freezing of prices
+تجميع جانبيّ لنواتج حفر القناة	spoil bank
+تجنب ضريبي	Tax Avoidance
+تجهيزة الدخل	headrace structure
+تجهيزة دخل	I/O device
+تجهيزة دخل	input/output device
+تحالف المؤسسات	cartel
+تَحْتَ العَجُز	subsacral
+تَحديدُ أسعار السِّلَع وتثبيتُها	valorization
+تحديد الأثمان	fixing of prices
+تَحديدُ الأسعار	price fixing
+تحديد السعر	price fixing
+تحديد المسؤولية	limitation of liability; limitation of responsibility
+تحرُّر	liberalization [US]; deregulation
+تحرير الأسهم	liberation of shares; payment of shares
+تحقق	audit (quality assurance)
+تَحقيق	realization
+تحقيق مالي	Financial Investigation
+تحكّم الدخل	input control
+تحكم في قدرة الدخل	input power control
+تحكيم تجاريّ	commercial arbitration
+تحكيم تجاريّ دوليّ	international commercial arbitration
+تحليل استهلاك الطاقة	Energy consumption analysis
+تحليل استهلاك الطاقة في المركبات	EV Energy Consumption Analysis
+تحليل اقتصادي	economic analysis
+تحليل الأنظمة: دراسة منهجيّة لنشاطٍ	systems analysis
+تحليل السعر	Price Analysis
+تحليل السوق	Market Analysis
+تحليلُ الكُلْفة والمَنْفَعة	cost-benefit analysis
+تحليل مالي	financial analysis
+تحليل نسبة السيولة	Liquidity Ratio Analysis
+تَحمُّل المسؤولية عن ضَرَر	liability; responsibility
+تَحْميل	loading
+تحميل البضائع النوعي	commodity loading
+تحوط العملات	Currency Hedging
+تحويل الضرائب	tax-shifting
+تَحْويلُ انْكِماش	shrinking transformation
+تَحويلٌ ماليّ بَرْقيّ	cable transfer
+تَحويلٌ مَصرِفي	bank transfer
+تحويلات السلع أو الخدمات الفردية غير	Transfers of Individual Non-market Goods or Services
+تحويلات رأسمالية أخرى	Other Capital Transfers
+تَخْديرٌ أَمامَ العَجُزِ	presacral anesthesia
+تَخْديرٌ حَولَ العَجُز	parasacral anesthesia
+تَخْديرٌ حَوْلَ الفِقَرات	paravertebral anesthesia
+تَخْديرٌ نُخاعِيٌّ عَبْرَ العَجُز	transsacral anesthesia
+تخزين الفائض	carryover storage
+تخزين المواد الخطيرة	storage of hazardous materials; dispatch of dangerous goods
+تخزين على الضفاف	bank storage
+تخصص اقتصادي	economic specialisation
+تخطيط اقتصادي	economic planning
+تخطيط قائم	consumption-based planning
+تَخفيض	retrenchment
+تخفيض استهلاك الطاقة النشطة	Active power reduction
+تخفيض استهلاك المواد	dematerialization
+تخفيض الأجور	wage cuts
+تخفيض الاستهلاك	consumption reduction
+تخفيض السعر	cutting of price
+تخفيض الضريبة	tax cut
+تخفيض رأس المال	reduction of capital; writing down of capital
+تخفيض ضريبي	tax relief
+تخفيض مُعدَّل الاحتراق	banking-up
+تخفيض معدل التضخم	disinflation
+تخليص جمركي	customs clearance
+تداول الانبعاثات	emissions trading
+تداول عمودي	Vertical Trading
+تداول من الداخل	Insider Trading
+تدبير المنزل	home economics
+تدرج دخولاً	roll on - roll of
+تدرق	goitre
+تدفق البضائع المشحونة	cargo flow
+تدفُّق الدخل القومي	flow of national income
+تدفّق فائض	output state
+تَدفُّق مُباشِر	direct debit
+تدفق مياه الصرف الصحيّ التجارية	wastewater flow, commercial
+تدفق نقدي	Cash Flow
+تدفق نقدي مخصوم	discounted cash flow
+تدقيق	audit; check
+تدقيق أخلاقي	ethical auditing
+تدقيق الابتكار	Innovation Audit
+تدقيق الأثر البيئي	environment impact auditing
+تدقيق التشكيلة	Configuration Auditing
+تدقيق الجودة	Quality Auditing
+تدقيق الفائض الدوّار	CRC
+تدقيق الفائض الدوّار	cyclical redundancy check
+تدقيق المشروع	Project Audit
+تدقيق الموقف	Position Audit
+تدقيق بيئي	environmental audit
+تدقيق طاقي	energy audit
+تدقيق نفايات	Waste auditing
+تذرية	deflation
+تراجع	decline (cites)
+تَراجُع	recession
+تراجع	rotational slump/slip
+تراكُم	agglomeration / deposition / scale deposit
+تراكُم	lag deposit
+تربية مكثفة للحيوانات	ranching (cites)
+تردد دخل مقنن	rated input frequency
+تردد دوران رأس المال	turnover frequency
+تَرسُّب	accumulation; deposit
+ترسب ريحي	eolian deposit
+ترسّبات الفحم	coal deposits
+ترسبات بحيرية	lacustrine deposits
+ترَسُّباتٌ تَحْت حَراريَّة	hypothermal deposits
+ترسُّبات جوفية	core deposits
+ترشيح تعاوني	collaborative filtering
+تركيب مستهلَك	eXpendable construction
+تركيب نسجي لقماش التريكو	knitted goods
+تَرْكيزٌ انْفِعَالِيّ	emotional investment (cathexis)
+تَرْميد	banking fires
+تروبوبوز	tropopause
+تسامُحُ الانكِماش	shrinkage allowance
+تَسَطُّحُ الفِقْرات	platyspondylia
+تَسَطُّحُ الفِقْرات	platyspondylisis
+تسعير السلع	Commodity Pricing
+تسليم البضائع	delivery of goods
+تسليم وتجميع	delivery and pick-up
+تسميات معيارية لاتفاقية التجارة الدولية	cites, standard nomenclature
+تسهيلات ائتمانية لدعم التصدير	Export Credit Facilities
+تَسْويق	marketing
+تسويق	Marketisation
+تسويق اجتماعي	social marketing
+تسويق أخضر	green marketing
+تسويق الاستدامة	sustainability marketing
+تسويق المباشر	Direct Marketing
+تسويق بالعلاقات	Relationship Marketing
+تسويق مُباشر	direct marketing
+تسويق مباشر من مشغل المحطة	direct marketing of the plant operator
+تسويق مرتبط بسبب	cause-related marketing
+تَسْوِيْقُ وبَيْعُ المَوَاد	pharmaceutical sales and marketing
+تسيير الحسابات	Accounting management
+تشريع الاتحاد الأوروبي بشأن نزاهة وشفافية	(REMIT) Regulation on Wholesale Energy Market Integrity and Transparency
+تشريعات حماية المستهلك	consumer protection legislation
+تَشَوُّهُ الفَقَراتِ المُتَعَدِّد	polydysspondylism
+تصدير	export
+تصدير	export; exportation
+تَصدير	exportation
+تصدير	Exports
+تصدير البترول الخام	Crude Oil Export
+تصدير الطاقة	Energy Export
+تصدير الفحم الحجري	Hard Coal Export
+تصدير صوتي	Prothesis
+تصديق على قانون	sanction of the law
+تصريح بإرسال البضائع	instructions for the dispatch of goods (IDG)
+تصريح بالواردات	bill of entry
+تصريح جمركيّ	customs declaration
+تصريف مياه مُختلطة	stormwater overflow discharge
+تصنيع	industrialisation
+تصنيع	industrialization
+تصنيع	industrialize
+تصنيف إحصائي للأنشطة الاقتصادية في	statistical classification of economic activities in the european community
+تَصْنيفُ جَمْعِيَّةِ أَطِبَّاءِ القَلْبِ	New York Heart Association classification
+تَصْويرُ القُرْص	discography
+تصيُّد الرؤوس: استقطاب الكفاءات أو	head-hunting
+تضامُن الدائنين	solidarity of creditors
+تضامُن المدينين	solidarity of debtors
+تَضَخُّم	hypertrophy
+تضخُّم	inflation
+تَضَخُّم	macrogenesis
+تَضَخُّم	swelling
+تضخم أحيائي	biological amplification
+تَضَخُّمُ الإِثْناعَشَرِيّ	megaduodenum
+تَضَخُّمُ الأَصابِع	megadactylia
+تَضَخُّمُ الأَصابِع	megadactyly (macrodactyly)
+تَضَخُّمُ الأَعْوَر	megacecum
+تَضَخُّم البراعم	big bud
+تَضَخُّمُ البرُوسْتاتَة	prostatauxe
+تَضَخُّمُ البُطَين	ventricular hypertrophy
+تَضَخُّمُ البُطَينَين	biventricular hypertrophy
+تَضَخُّمُ الثَّدْي	mammary hypertrophy
+تَضَخُّمُ الثَّدْيِ الإِرْضاعِيّ	mastospargosis
+تَضَخُّم الثَّدي البُلوغيّ	sororiation
+تَضَخُّم الجَسَد	somatomegaly
+تَضَخُّمُ الخَلاَيا المُجاوِرَةِ للكُبَب	juxtaglomerular cell hypertrophy
+تَضَخُّمُ الدِّماغ	megalencephaly (macroencephaly)
+تَضَخُّمُ الرَّأْس	megacephaly (macrocephaly)
+تَضَخُّمُ الرَّأْس	megalocephalia
+تَضَخُّمُ الرَّأْس	megalocephaly (macrocephaly)
+تَضَخُّمُ الطِّحال	splenauxe
+تَضَخُّمُ الطِّحال	splenectasis
+تَضَخُّمُ الطِّحال	splenomegalia
+تَضَخُّمُ الطِّحال	splenomegaly
+تَضَخُّمُ الطِّحالِ الاحْتِقانِيّ	congestive splenomegaly
+تَضَخُّمُ الطِّحالِ الانْحِلاَلِيّ	hemolytic splenomegaly
+تَضَخُّمُ الطِّحالِ الحُدَاديّ	splenic mycosis (siderotic splenomegaly)
+تَضَخُّمُ الطِّحالِ الحَديدِيّ	siderotic splenomegaly
+تَضَخُّمُ الطِّحالِ الحُمَّوِيُّ المَداريّ	febrile tropical splenomegaly
+تَضَخُّمُ الطِّحالِ العَدْوائِيّ	infectious splenomegaly
+تَضَخُّمُ الطِّحالِ العَدْوائِيّ	infective splenomegaly (infectious splenomegaly)
+تَضَخُّمُ الطِّحالِ الغوشري	Gaucher's splenomegaly
+تَضَخُّمُ الطِّحالِ اللِّيفِيّ	fibrosplenomegaly
+تَضَخُّمُ الطِّحالِ المِصْرِيّ	Egyptian splenomegaly
+تَضَخُّمُ الطِّحالِ المُفْرِط	splenoparectasis
+تَضَخُّمُ الطِّحالِ بالخَثْرَةِ	thrombophlebitic splenomegaly
+تَضَخُّمُ الطِّحالِ بِتَراكُمِ	spodogenous splenomegaly
+تَضَخُّمُ الطِّحالِ بِسُحَافِ النِّقْي	myelophthisic splenomegaly
+تَضَخُّمُ العُرُوقِ	big vein
+تَضَخُّمِ العَضَلِ	hypermyotrophy
+تَضَخُّمُ العَضَلَةِ الماضِغَة	masseter muscle hypertrophy
+تَضَخُّمُ العَقِب	big heel
+تَضَخُّمُ العُقَدِ اللِّمْفِيَّة	adenia
+تَضَخُّمُ العُقَدِ اللِّمْفِيَّة	adenopathy (lymphadenopathy)
+تَضَخُّمُ العُقَدِ اللِّمْفِيَّةِ	dermatopathic lymphadenopathy
+تَضَخُّمُ العُقَدِ اللِّمْفِيَّةِ	giant follicular lymphadenopathy
+تَضَخُّمُ العُقَدِ اللِّمْفِيَّة	lymphadenopathy
+تَضَخُّمُ العُقَدِ اللِّمْفِيَّةِ	tuberculous lymphadenopathy
+تَضَخُّمُ العُقَدِ اللِّمْفِيَّةِ ذو	angioimmunoblastic lymphadenopathy
+تَضَخُّمُ العُقَدِ اللِّمْفِيَّةِ ذو	immunoblastic lymphadenopathy
+تَضَخُّمُ العُقَدِ المُتَعَدِّد	polyadenopathy
+تَضَخُّمُ العُقْدَةِ اللِّيفِيّ	fibroadenia
+تضخُّم العلامات: ظاهرة الارتفاع في معدَّل	grade inflation
+تَضَخُّمُ العَمَل	work hypertrophy
+تَضَخُّمُ العَيْن	ophthalmomacrosis
+تَضَخُّمُ الغُدَد	adenomegaly
+تضخُّم القلب	athlete's heart
+تَضَخُّمُ القَلْب	cardiomegalia
+تَضَخُّمُ القَلْب	cardiomegaly
+تَضَخُّمُ القَلْب	megacardia (cardiomegaly)
+تَضَخُّمُ القَلْب	megalocardia (cardiomegaly)
+تَضَخُّمُ القَلْبِ الغْليكوجينِيُّ	cardiomegalia glycogenica circumscripta
+تَضَخُّمُ القَلْبِ الغْليكوجينِيُّ	cardiomegalia glycogenica diffusa
+تَضَخُّمُ القَلْبِ الغْليكوجينِيُّ	glycogenic cardiomegaly
+تَضَخُّمُ القَلْبِ و الكَبِد	cardiohepatomegaly
+تَضَخُّمُ القَوْلُوْن	megacolon
+تَضَخُّمُ القَوْلُوْنِ الثَّانَوِيّ	secondary megacolon
+تَضَخُّمُ القَوْلُوْنِ الحَاد	acute megacolon (acute dilatation of colon)
+تَضَخُّمُ القَوْلُوْنِ الخِلْقِيّ	congenital megacolon
+تَضَخُّمُ القَوْلُوْنِ الخِلْقِيّ	megacolon congenitum
+تَضَخُّمُ القَوْلُوْنِ السُّمِّيّ	toxic megacolon (acute dilatation of colon)
+تَضَخُّمُ القَوْلُوْنِ المَجْهُوْلُ	idiopathic megacolon
+تَضَخُّمُ القَوْلُوْنِ المُكْتَسَبُ	acquired functional megacolon
+تَضَخُّمُ القَوْلُوْنِ المُكْتَسَب	acquired megacolon
+تَضَخُّمُ القَوْلُوْنِ وتَطَاوُله	megadolichocolon
+تَضَخُّمُ الكَبِدِ و الطِّحال	hepatolienomegaly
+تَضَخُّمُ الكَبِدِ و الكُلْيَةِ	hepatonephromegaly
+تَضَخُّمُ الكُلْيَة	nephrauxe (nephromegaly)
+تَضَخُّمُ الكُلْيَة	renal hypertrophy
+تَضَخُّمُ اللِّثَة	gingival hypertrophy (gingival hyperplasia)
+تَضَخُّمُ المَثانَة	megacystis (megalocystis)
+تَضَخُّمُ المَريء	megaesophagus
+تَضَخُّمُ النُّخاع	myelauxe
+تَضَخُّمُ الْيَدَيْن	cheiromegaly
+تَضَخُّمُ اليَدَين	megalocheiria (cheiromegaly)
+تَضَخُّمٌ بِدْلِيُّ المَنْشَأ	denture hypertrophy (denture hyperplasia)
+تَضَخُّمٌ بَديلِيٌّ	vicarious hypertrophy (compensatory hypertrophy)
+تَضَخُّمٌ بَسيطٌ	simple hypertrophy
+تَضَخُّمُ بَصَلَةِ الإِثْناعَشَرِيّ	megalobulbus
+تَضَخُّمُ بيلروث	Billroth hypertrophy (idiopathic pyloric hypertrophy)
+تَضَخُّمٌ تَتْميمِيّ	complementary hypertrophy
+تَضَخُّمٌ تَلاَؤُمِيّ	adaptive hypertrophy
+تَضَخُّمٌ حَقيقِيّ	true hypertrophy
+تَضَخُّمُ رَديمِ التُّوتَة	thymokesis
+تَضَخُّمٌ شَحْمِيّ	lipohypertrophy
+تَضَخُّمٌ عَدَدِيٌّ	numeric hypertrophy (hyperplasia)
+تَضَخُّمٌ عَضَلِيٌّ كاذِب	pseudomuscular hypertrophy
+تَضَخُّم عُقْدِيٌّ لِمْفِيّ	lymphadenosis
+تَضَخُّم عُقْدِيٌّ لِمْفِيٌّ ابْيِضاضِيّ	leukemic lymphadenosis
+تَضَخُّم عُقْدِيٌّ لِمْفِيٌّ جِلْدِيٌّ	lymphadenosis benigna cutis
+تَضَخُّم عُقْدِيٌّ لِمْفِيٌّ حادّ	acute lymphadenosis
+تَضَخُّم عُقْدِيٌّ لِمْفِيٌّ خَبيث	malignant lymphadenosis (lymphoma)
+تَضَخُّم عُقْدِيٌّ لِمْفِيٌّ لاابْيِضاضِيّ	aleukemic lymphadenosis
+تَضَخُّمٌ فيزيولوجِيّ	physiologic hypertrophy (functional hypertrophy)
+تضخم قلبي	cardiac hypertrophy
+تَضَخُّمٌ كاذِب	false hypertrophy (pseudohypertrophy)
+تَضَخُّمٌ كَمِّيّ	quantitative hypertrophy (hyperplasia)
+تَضَخُّمٌ لامُتَراكِز	eccentric hypertrophy
+تَضَخُّمُ ماريا	Mariea's hypertrophy
+تضخم مالي	inflation
+تَضَخُّمٌ مُتَراكِز	concentric hypertrophy
+تَضَخُّمٌ مُعاوِض	compensatory hypertrophy
+تَضَخُّمٌ مُعَوِّضٌ	compensatory hypertrophy
+تضخم ناتج عن الطلب	demand-pull inflation
+تَضَخُّمٌ نَدْبِيّ	cicatricial hypertrophy
+تَضَخُّمُ نِصْفِ الوَجْه	hemifacial hypertrophy
+تضخم نقديّ	monetary inflation
+تَضَخُّمٌ وَحيدُ الجانِب	unilateral hypertrophy
+تَضَخُّمٌ وَظيفِيّ	functional hypertrophy
+تضخُّميّ	inflationary
+تَضَيُّق	stricture
+تَظاهُر	feint
+تَعاوُن	co-operation
+تعاوُني	co-operative
+تَعاوُنِيّ	cooperative
+تعاونية	Co-Cooperativeness
+تعاونية	co-operative
+تعاونية تكيف	weadapt
+تعبئة وترتيب البضائع	stowage gear
+تعدد أصحاب المصلحة	multiple stakeholders
+تعدُّد الأصول: تحدُّر نوع أو عرقٍ من أكثر	polygenesis
+تعدد مهمات تعاونية	cooperative multitasking
+تَعْديلُ الأُجورِ المَنْطِقِيّ	area wage adjustor
+تعديل السعر الاقتصادي للأسعار الثابتة	(FPEPA)The Fixed Price With Economic Price Adjustment Contract
+تعديل سعر العقد	Contract Price Adjustment
+تعديلات تكاليف المعيشة	cost-of-living adjustments
+تَعْدِينُ انكماشٍ مُتدَرِّج	shrinkage stoping
+تَعرِفَة	tariff
+تَعرِفَة	tariff; fare
+تعرفة احادية الجزء	one-part tariff
+تعرفة احتياطية	standby tariff
+تعرفة اضافية	supplementary tariff
+تَعْرِفة الحِماية: رسمٌ جمركيّ عالٍ يُفرض	protective tariff
+تعرفة الحمل الأدنى	off-peak tariff; low-load tariff
+تعرفة الذروة	peak-load tariff
+تعرفة المجموعات	block tariff
+تعرفة المرور	through rate
+تعرفة المياه	water tariff
+تَعْرفة الوُلُوج	access rate
+تعرفة إمداد الطاقة المتجددة	feed-in remuneration
+تعرفة انارة	lighting tariff
+تعرفة برسم ثابت	standing charge tariff
+تعرفة تجارية	commercial tariff
+تعرفة تخطّي	load/rate tariff
+تعرفة تسخين	heating tariff
+تعرفة تغذية الشبكة	Feed-in tariff
+تعرفة تفاضلية	differential fare
+تَعرِفة تَفْضيليَّة أو إيثاريَّة	preferential tariff
+تَعْرِفَة ثابِتة	flat-rate tariff
+تعرفة ثلاثية الاجزاء	three-part tariff
+تعرفة ثنائية	two-rate [three-rate] tariff
+تَعرِفة ثُنائِيَّةُ الأجزاء	two-part tariff
+تَعرِفَةٌ ثُنائيَّة التَّسْعيرة	two-rate tariff
+تعرفة جهد عالي	high- [medium-] [low-] voltage tariff
+تعرفة حسب المنطقة	zone tariff
+تعرفة حمائية	protective tariff
+تَعْرِفة حِمايةٍ جُمركية	protective tariff
+تعرفة خارج أوقات الذروة	off-peak tariff
+تعرفة دفعة ثابتة	fixed payment tariff
+تعرفة زراعية	farm tariff
+تعرفة زمن اليوم تعرفة متعددة	time-of-day tariff; multiple tariff
+تعرفة ساعية مقيّدة	restricted hour tariff
+تعرفة صناعية	industrial tariff
+تعرفة طلب	demand tariff
+تعرفة عادية	normal tariff; published tariff
+تعرفة عالمية	world fare
+تعرفة قدرة محرّكة	motive power tariff
+تعرفة متعددة	multiple tariff
+تعرفة متعددة الاجزاء	multi-part tariff
+تعرفة متغيرة	variable tariff
+تعرفة مطاعم	catering [pumping] [public lighting] etc. tariff
+تعرفة معدل تكلفة ثلاثة أزمنة في اليوم	three-rate time-of-day tariff
+تعرفة معدل تكلفة زمنين في اليوم.تعرفة	two-rate time-of-day tariff; day/night tariff
+تعرفة منزلية	domestic tariff
+تعرفة موحدة	flat rate tariff
+تعرفة موسمية	seasonal tariff
+تعرفة نسبة حمولة منخفضة	low [high] load factor tariff
+تعريف تنازلية	bloc-rate tariff
+تعريفة	tariff
+تعريفة الاستهلاك	Consumption Tariff
+تعريفة الإمداد بالطاقة	feed-in-tariff
+تعريفة التغذية الكهربائية	Feed in Tariff
+تعريفة الخطوة	step tariff
+تعريفة الشحن	Charging Tariff
+تعريفة القدرة المستهلكة العظمى	maximum power demand tariff
+تعريفة الكهرباء	Electricity Tariff
+تعريفة المسافرين	passenger tariff
+تعريفة النقل الجوي حسب تسعيرة منظمة	air cargo tariff (ACT)
+تعريفة تفضيلية	preferential tariff
+تعريفة توريد	export tariff
+تعريفة جمركية	customs tariff
+تعريفة جمركية	tariff (general)
+تعريفة حسب شرائح الاستهلاك	Incline Block Tariff
+تعريفة حكومية	Governmental Tariff
+تعريفة زراعية	Agricultural Tariff
+تعريفة سكنية	Residential Tariff
+تعريفة شراء مضمونة	feed-in tariff (fit)
+تعريفة كل الاستخدامات	all-in tariff
+تعشير	customs clearance
+تعليق البضائع	slinging of cargo
+تعليم	schooling
+تعليمات المراجعة	audit instructions
+تعميق القطاع المالي	Financial Sector Deepening (FSD)
+تعويض البطالة	unemployment compensation
+تعويضُ العَجْز	disability compensation
+تعويض نقدي	Monetary Compensation
+تعويضية الفوارق في الأجور	compensating wage differentials
+تَغْطيس	sinkage
+تَفاضُلِيَّةُ السِّعْر	price discrimination
+تفالُس بالتدليس	fraudulent bankruptcy
+تَفْتيش	audit
+تَفْتِيْشُ الحِسابِ المالِيّ	fiscal audit
+تَفْتِيْشُ جَوْدَةِ الإِدارَة	quality management audit
+تَفْتِيْشٌ خارِجِيٌّ للحِساب	external audit
+تَفْتِيْشٌ داخِلِيٌّ للحِساب	internal audit
+تَفْتِيْشُ رِعايَةِ المَرْضَى	patient care audit
+تَفْتِيْشٌ طِبِّيّ	medical audit
+تَفَحُّصٌ رِئَوِيّ	pulmonary docimasia
+تفريع لخط الصادر	splitting of the outgoing line
+تفكك رص البضائع	cargo mistowage
+تقارير السنوية للشركة	Company Annual Reports
+تقاسم العائدات	revenue sharing
+تقاليد الميناء	customs of port
+تَقَدُّم العَجُز	sacrolisthesis
+تقدير الاستثمار	investment prediction
+تقدير الاستهلاك	estimated consumption
+تقدير الأصول	casting off
+تقدير متوسط أجور الشحن	average freight rate assessment, (A.F.R.A.)
+تقديرات نمو الناتج المحلي الإجمالي	Estimates of GDP Growth at Current and Constant Prices
+تقرير المراجِع	auditor report
+تقسيم المسؤولية في الخارج	offshore liability apportionment
+تقسيمات التدريج	division
+تقلَّصَ	shrink
+تقَلُّص	shrinking
+تقليل استهلاك الكهرباء في أوقات الذروة	Peak- Shaving
+تِقْنِيُّ بَنْكِ الدَّم	blood bank technologist
+تقنيات تقييم الاستثمار	Investment Appraisal Techniques
+تقنيات غير اقتصادية	non-economic techniques
+تقنين الاستهلاك الداخلي	Internal consumption regulation
+تقييد الميزانية الحكومية	government budget constraint
+تقييم اقتصادي	economic evaluation
+تقييم اقتصادي	economic/monetary valuation
+تقييم مالي	financial evaluation
+تقييم نقدي تداولي	deliberative monetary valuation
+تَكالُبيّ	dogeatdog
+تكاليف الاستهلاك	consumption costs
+تكاليف الاقتصاد الشعبي	economic costs; national economic costs
+تكاليف العمالة الخردة	Scrap Labor Costs
+تكاليفُ العَمَل	labour costs
+تكاليفُ المعيشة	cost of living
+تكاليف المُنشأة	investment costs / prime costs
+تكاليف تجارة الانبعاثات	emission trading cost
+تكاليف ذات علاقة بالمستهلك	consumer-related cost
+تكاليف رأسمالية	capital costs
+تكامل الرنين الفائض	excess resonance integral
+تكبير	enlargement
+تَكَثُّرُ الدِّبْق	gliomatosis
+تَكْرار	repetition
+تكسية	investing
+تَكْسيّة الضِفَاف	bank protection
+تكسِيةُ الضِّفاف	bank revetment
+تَكْسية المُنحدر	bank revetment
+تَكْسِيَةُ النَّموذج	investing the pattern
+تَكْسِيَةٌ خَلاَئِيَّة	vacuum investing
+تكسية وقائية	beaching / beached bank / riprap
+تكلفة استبدال ميزة بأخرى	trade-off
+تكلفة الأجور	wage costs
+تكلفة المصنع	maker's price of manufacturer's price
+تكلفة المواءمة	Alignment Tax
+تكلفة رأس المال	Capital Cost
+تكلفة مرجحة لرأس المال	weighted average cost of capital
+تكليف	assignment / order (commercial)
+تكوين رأس المال الثابت الإجمالي	Gross Fixed Capital Formation
+تَلْبيسٌ بالانكِماش	shrinking-on
+تِلفون الدَّفع	pay phone
+تَلَوُّث	contamination
+تِليتَيْب	Teletype
+تَلَيُّنُ فَقْرِ الدَّم	anemic softening
+تَمَدُّدٌ سالِب	negative dilation
+تمويل العجز	Deficit Financing
+تمويل المناخ - إجمالي تمويل المناخ	climate finance - total climate finance flowing to developing countries
+تمويل المناخ - استثمار تزايدي	climate finance - incremental investment
+تمويل المناخ - التمويل الخاص بالمناخ	climate finance - private climate finance flowing to developing countries
+تمويل المناخ – التمويل العمومي للمناخ	climate finance - public climate finance flowing to developing countries
+تنـزيل الضريبة	tax reduction
+تَنظيم	organization
+تنظيم اقتصادي مركزي	centrally planned economy
+تنظيم الاقتصاد	economic regulation
+تنظيم السوق	market regulation
+تنظيم تعرفة الكهرباء بألمانيا	Federal tariff regulation electricity (BTOElt)
+تنفيذ الصفقة	Trade Execution
+تنمية اقتصادية	economic development
+تنمية الاقتصاد	Developing Economy
+تنويع سبل العيش	livelihood diversification
+تهرُّب ضريبيّ	fiscal evasion; tax evasion
+تهرب ضريبي	Tax Evasion
+تَوازُنُ الأُجور	balance billing
+توازن قوة رد الفعل	Reactive power budget
+توافقُ انكِماش	fit, shrink
+تَوافُقُ انكِماش	shrinkage fit
+توجه شركة	Company Direction
+توجّهات تجارة الانبعاثات	emission trading directive
+تَوَرُّمُ الطِّحال	tumor lienis
+توريث	bequest savings motive
+توزيع الأرباح	distribution of profits
+توزيع البضائع	Cross-Docking
+توزيع النسبة المئوية للمصروفات الأسرية	Distribution of Household Education Expenditure by Type
+تَوَسُّعُ القَوْلُوْنِ بانْعِدَامِ العُقَد	aganglionic megacolon (congenital megacolon)
+توصيلٌ فائض	excess conduction
+توضع سيلي	torrential deposit
+توضُّع قاري	continental deposit
+تَوَضُّعَات	deposits
+توضعات أرضية	terrestrial deposit
+تَوَضُّعات العضويات الشعاعية	radiolarin deposits
+توضُّعات بحرية	pelagic deposits
+توضُّعات بحيرة شاطئية	lagoon deposits
+توضُّعات تعود للعصر الحجري الحديث	neolithic deposits
+توضعات خلالية	interstitial deposit
+توضُّعات خلالية	interstitial deposits
+تَوَضُّعات خلاَلِية	interstitiale deposits
+توضعات دلتاوية	deltaic deposits
+توضّعات شاطئية	shore deposit
+تَوْظيف	investment
+توظيف الأموال في أسهم	equity financed
+توفير الطاقة	energy saving
+توفير الوقود	Fuel Savings
+توفير بالعاكس	reflector saving
+توقعات الاستهلاك	Forecast of consumption
+توقعات سوق السيارات الكهربائية	Electric Vehicle Market Projections
+توَقُّف	stasis
+توَقّف	stoppage
+تَوَلُّدُ الكُرَيَّاتِ الحُمْرِ النَّاقِص	erythrogenesis imperfecta (congenital hypoplastic anemia)
+تيّارُ الدَّخْل	input current
+تيّارُ دَخْل المحوِّل	transformer input current = primary current
+تيار دخل مقنن	rated input current (for a wire feeder)
+تيار ناقل البضائع	stream of conveyor gods

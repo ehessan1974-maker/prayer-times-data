@@ -1,0 +1,838 @@
+سائِلُ الاسْتِسْقَاء	ascitic fluid
+سائل سريع الالتهاب	flammable liquid
+سابق سرطان الجلد	dermatitis, precancerous
+سابِقٌ للتَّشَنُّج	prespastic
+سابِقٌ للذُّهان	prepsychotic
+سابِقٌ للشَّلَل	preparalytic
+سابِقٌ للظُّهور	prepatent
+سابِقٌ للفُصام	preschizophrenic
+سابِقٌ للمَرَض	premorbid
+سابِقٌ للوَرَم	preneoplastic
+سابِقٌ لليَرَقان	preicteric
+سابقة بمعنى الالْتِهاب	phlog-
+سابقة بمعنى الالْتِهَاب	phlogo-
+سابقة بمعنى الاِلْتِواء	spiro-
+سابقة بمعنى الالْتِواء	streph-
+سابقة بمعنى الالْتِواء	strepho-
+سابقة بمعنى التَّشَنُّج	spasmo-
+سابقة بمعنى الحَلَم	acaro-
+سابقة بمعنى الحُمَّى	pyret-
+سابقة بمعنى الحُمَّى	pyreto-
+سابقة بمعنى الحُمَّى	pyro-
+سابقة بمعنى الدَّوالي	cirs-
+سابقة بمعنى الدَّوالي	cirso-
+سابقة بمعنى الدَّوَالِي	varico-
+سابقة بمعنى السَّرَطَانِ	carcino-
+سابقة بمعنى السِّنْجَابِيّ	polio-
+سابقة بمعنى الفَتْق	hernio-
+سابقة بمعنى القَرْحَة	ulcero-
+سابقة بمعنى المَرَض	nos-
+سابقة بمعنى المَرَض	noso-
+سابقة بمعنى المَرَض	path-
+سابقة بمعنى المَرَض	patho-
+سابقة بمعنى اليَرَقَان	ictero-
+سابقة بمعنى قرحة	helco-
+ساحَةُ الصَّمَم	deaf field
+سادّ	cataract
+سادٌّ أَخْضَر	green cataract
+سادٌّ أرَجِيّ	allergic cataract
+سادٌّ أَزْرَق	blue cataract
+سادٌّ أَزْرَق	cerulean cataract
+سادٌّ أزْرَقُ نُقْطِيّ	blue dot cataract
+سادٌّ أَسْمَر	brown cataract
+سادٌّ أَسْمَر	brunescent cataract
+سادٌّ أَسْوَد	black cataract
+سادٌّ إِشْعاعِيّ	irradiation cataract
+سادٌّ إِشْعاعِيّ	radiation cataract
+سادُّ الارْتِجاج	concussion cataract
+سادُّ الأَشِعَةِ الحَرارِيَّة	heat-ray cataract
+سادُّ الْتِهابِ الجِلْدِ العَصَبِيُّ	cataracta neurodermatica
+سادُّ السِّياج	hedger's cataract
+سادُّ العاصِفَةِ الثَّلْجِيَّة	snowstorm cataract
+سادُّ القُطْبِ الأَمامِي	anterior polar cataract
+سادُّ النُّدَفِ الثَّلْجِيَّة	snowflake cataract
+سادُّ النَّواةِ الجَنينِيَّة	embryonal nuclear cataract
+سادُّ اليُفْعان	adolescent cataract
+سادٌّ أَوَّلِيّ	primary cataract
+سادٌّ بُؤْرِيّ	focal cataract
+سادٌّ بَرْقِيّ	lightning cataract
+سادٌّ بشَكْلِ عَبَّادِ الشَّمْس	sunflower cataract
+سادٌّ تَأَتُّبِيّ	atopic cataract
+سادٌّ تَاجِيٌّ	coronary cataract
+سادٌّ تالٍ للوِلاَدَة	postnatal cataract
+سادٌّ تامّ	complete cataract
+سادٌّ تَثَفُّلِيّ	sedimentary cataract
+سادٌّ تَحْتَ المِحْفَظَة	subcapsular cataract
+سادٌّ تِلْوِيّ	after-cataract
+سادٌّ تِلْوِيّ	aftercataract (after-cataract)
+سادٌّ ثابِت	stationary cataract
+سادٌّ ثانَوِيّ	secondary cataract
+سادٌّ جافُّ الغِلاَف	aridosiliculose cataract
+سادٌّ جافُّ الغِلاَف	aridosiliquate cataract
+سادٌّ جافُّ الغِلاَف	siliculose cataract
+سادٌّ جافُّ الغِلاَف	siliquose cataract
+سادٌّ جافُّ القِشْرَة	dry-shelled cataract
+سادٌّ جُزْئِيّ	partial cataract
+سادُّ حَلَقَةِ سُومَرِينْغ	Soemmering's ring cataract
+سادٌّ خِلْقِيّ	congenital cataract
+سادٌّ دَرْزِيّ	sutural cataract
+سادٌّ دَمَوِيّ	blood cataract
+سادٌّ دَمَوِيّ	sanguineous cataract
+سادٌّ رَضْحِيّ	traumatic cataract
+سادٌّ رَضِّيّ	contusion cataract
+سادٌّ زُجاجَوِيّ	hyaloid cataract
+سادٌّ زَرَقِيّ	glaucomatous cataract
+سادٌّ سُكَّرِيُّ المَنْشَأ	diabetic cataract
+سادٌّ سُمِّيّ	toxic cataract
+سادٌّ سِنْجابِيّ	gray cataract
+سادٌّ شامِل	total cataract
+سادٌّ شِبْهُ لِيْفِيٍّ	fibroid cataract
+سادٌّ شَيخوخِيّ	senile cataract
+سادُّ صانِعِي القَوارير	bottlemaker's cataract
+سادٌّ صِفاحِيّ	lamellar cataract
+سادٌّ صُلْب	hard cataract
+سادٌّ طِفْلِيّ	infantile cataract
+سادٌّ عامّ	general cataract
+سادٌّ عَدَسِيّ	lenticular cataract
+سادٌّ عَظْمِيّ	bony cataract
+سادٌّ غِشائِيّ	membranous cataract
+سادٌّ غَيرُ ناضِجٍ	immature cataract
+سادٌّ فائِقُ النُّضْج	hypermature cataract
+سادٌّ فائِقُ النُّضْج	overripe cataract
+سادٌّ قِشْرِيّ	cortical cataract
+سادٌّ قُطْبِيٌ خَلْفِيّ	posterior polar cataract
+سادٌّ قِمْعِيّ	cupuliform cataract
+سادٌّ كُتْلَوِيّ	grumous cataract
+سادٌّ كِلْسِيّ	calcareous cataract
+سادٌّ كَهْرَبِيُ المَنْشَأ	electric cataract
+سادٌّ كيسِيّ	cystic cataract
+سادٌّ لَبَنِيّ	lacteal cataract
+سادٌّ لَبَنِيّ	milky cataract
+سادٌّ لَيِّن	soft cataract
+سادٌّ مائِع	fluid cataract
+سادٌ مُتَرَقٍّ	progressive cataract
+سادٌّ مُتَشَجِّر	arborescent cataract
+سادٌّ مِحْفَظِيّ	capsular cataract
+سادٌّ مِحْفَظِيٌّ عَدَسِيّ	capsulolenticular cataract
+سادٌّ مِحْوَرِيٌّ مِغْزَلِيّ	axial fusiform cataract
+سادٌّ مُحِيْطٌ بالنَّواة	perinuclear cataract
+سادٌّ مُحيطِيّ	peripheral cataract
+سادٌّ مُخْتَلَط	mixed cataract (general cataract)
+سادٌّ مُرْتَجِف	tremulous cataract
+سادٌّ مَرْجانِيُّ الشَّكْل	coralliform cataract
+سادٌّ مَرَضِيّ	pathological cataract
+سادٌّ مَرْكَزِيّ	central cataract
+سادٌّ مَشيمَوِيّ	choroidal cataract
+سادٌّ مَصْحوبٌ بمُضَاعَفَات	complicated cataract
+سادٌّ مُطَبَّق	reduplication cataract
+سادُّ مُطَوِّعِي الحَديد	puddlers' cataract
+سادٌّ مُغايِرُ اللَّون	heterochromic cataract
+سادٌّ مِغْزَلِيّ	spindle cataract
+سادٌّ مِغْزَلِيُّ الشَّكْل	fusiform cataract
+سادٌّ مُلْتَصِق	adherent cataract
+سادٌّ مُنْتَبِجٌ	intumescent cataract
+سادٌّ مُنَقَّط	punctate cataract
+سادٌّ مِهْنِيّ	occupational cataract
+سادٌّ مورْغانِيّ	morgagnian cataract
+سادٌّ ناضِج	mature cataract
+سادٌّ ناضِج	ripe cataract
+سادُّ نافِخي الزُّجاج	glassblower's cataract
+سادٌّ نَجْمِيّ	stellate cataract
+سادٌّ نُطَيقِيّ	zonular cataract
+سادٌّ نَفْتالينِيّ	naphthalenic cataract
+سادٌّ نَوَوِيّ	nuclear cataract
+سادٌّ هَرَمِيّ	pyramidal cataract
+سادٌّ هَرَمِيٌّ أَمامِيّ	anterior pyramidal cataract
+سادٌّ وَشيك	incipient cataract
+سَادٌّ يَفْعِيّ	juvenile cataract
+سارٍ	contagious
+ساركومات	sarcomata [sing.sarcoma]
+ساركومة	sarcoma [pl.sarcomata]
+ساركومةُ آبِيرْنِيثي	Abernethy's sarcoma
+ساركومةٌ أَرُومِيَّةٌ عَظْمِيَّةٌ	osteoblastic sarcoma (osteosarcoma)
+ساركومةٌ أَرومِيَّةٌ غُضْروفِيَّة	chondroblastic sarcoma
+ساركومةٌ أَرومِيَّةٌ لِيفِيَّةٌ	fibroblastic sarcoma
+ساركومةٌ أَرُوْمِيَّةٌ مَنَاعِيَّة	immunoblastic sarcoma
+ساركومةٌ أَرُوْمِيَّةٌ مَنَاعِيَّةٌ	immunoblastic sarcoma of B cells
+ساركومةٌ أَرُوْمِيَّةٌ مَنَاعِيَّةٌ	immunoblastic sarcoma of T cells
+ساركومةٌ أَرُوْمِيَّةٌ مِيْنَائِيَّة	ameloblastic sarcoma
+ساركومةٌ أَرُومِيَّةٌ مِيْنائيَّة	ameloblastosarcoma (malignant ameloblastoma)
+ساركومةٌ أَرُوْمِيَّةٌ وِعَائِيَّة	angioplastic sarcoma (angiosarcoma)
+ساركومةُ الأَوعِيَةِ اللِّمْفِيَّة	lymphatic sarcoma (lymphangiosarcoma)
+ساركومةُ البِطَانَةِ الوِعَائِيَّة	hemangioendothelial sarcoma
+ساركومةُ الجُزْءِ اللَّيِّن مِنَ السِّنْخ	alveolar soft part sarcoma
+ساركومةُ الخَلاَيا السَّاقِطِيَّة	deciduocellular sarcoma (choriocarcinoma)
+ساركومةُ الخَلاَيا الشَّبَكِيَّة	reticulum cell sarcoma
+ساركومةُ الخَلاَيَا الشَّبَكِيَّة	reticulum cell sarcoma (histiocytic lymphoma)
+ساركومةُ الخَلاَيا المُحَبَّبَة	granulocytic sarcoma (chloroma)
+ساركومةُ الدَّجَاج	chicken sarcoma
+ساركومةُ الطُّيُور	fowl sarcoma (chicken sarcoma)
+ساركومةُ الكُرَيَّاتِ البَيضاء	leukocytic sarcoma (leukosarcoma)
+ساركومةُ المُتَوَسِّطَة	mesothelial sarcoma
+ساركومةُ بِطانَةِ الأَوعِيَةِ	lymphangioendothelial sarcoma (lymphangiosarcoma)
+ساركومةٌ بِطانِيَّة	endothelial sarcoma
+ساركومةٌ بِطانِيَّة	endotheliosarcoma (Kaposi's sarcoma)
+ساركومةٌ بِطانِيَّةٌ سَدَوِيَّةٌ	endometrial stromal sarcoma
+ساركومةٌ جَنِيْنِيَّة	embryonal sarcoma
+ساركومةٌ حَبْلِيَّةّ	chordosarcoma (chordoma)
+ساركومةٌ خَضْرَاء	chloromatous sarcoma (chloroma)
+ساركومةُ خَلاَيا كوبْفر	Kupffer cell sarcoma (angiosarcoma of the liver)
+ساركومةُ رُوسْ	Rous sarcoma
+ساركومةٌ زَليلِيَّة	synovial sarcoma (synoviosarcoma)
+ساركومةٌ سِحائِيَّة	meningeal sarcoma
+ساركومةٌ سِمْحَاقِيَّةٌ	parosteal sarcoma (periosteal sarcoma)
+ساركومةٌ سِمْحَاقِيَّةٌ	periosteal sarcoma
+ساركومةٌ شَبَكِيَّةُ الخَلاَيا	reticulocytic sarcoma
+ساركومةٌ شَبَكِيَّةُ الخَلاَيا	retothelial sarcoma (reticulum cell sarcoma)
+ساركومةٌ شَبكيَّةٌ بِطَانِيَّة	reticuloendothelial sarcoma (reticulum cell sarcoma)
+ساركومةٌ شَحْمِيَّة	adipose sarcoma (liposarcoma)
+ساركومةٌ شَحْمِيَّة	lipomatous sarcoma
+سارْكومةٌ صَفْراء	xanthosarcoma
+ساركومةٌ صُلْبَةٌ	sclerosarcoma (fibrosing sarcoma)
+ساركومةٌ ظِهَارِيَّةُ الشَّكْل	sarcoma epitheliodes (carcinosarcoma)
+ساركومةٌ عَصَبِيَّةُ المَنْشَأ	neurogenic sarcoma (malignant schwannoma)
+ساركومةٌ عَظْمِيَّةٌ	osteogenic sarcoma (osteosarcoma)
+ساركومةٌ عَظْمِيَّةٌ	osteoid sarcoma (osteosarcoma)
+ساركومةٌ عَظْمِيَّةٌ	osteolytic sarcoma (osteosarcoma)
+ساركومةٌ عَظْمِيَّةُ المَنْشَأ	osteogenic sarcoma
+ساركومةٌ عَظْمِيَّةُ المَنْشَأ مُجاوِرَةٌ	juxtacortical osteogenic sarcoma
+ساركومةٌ عِمْلاَقَةُ الخَلاَيا	giant cell sarcoma
+ساركومةٌ عُنْقُوْدِيَّة	botryoid sarcoma (sarcoma botryoides)
+ساركومةٌ عُنْقُوْدِيَّة	sarcoma botryoides
+ساركومةٌ غُدِّيَّة	glandular sarcoma (Hodgkin's disease)
+ساركومةٌ غُضْروفِيَّةٌ لِيْفِيَّةٌ	osteofibrochondrosarcoma (malignant mesenchymoma)
+ساركومةُ كابُوزي	Kaposi's sarcoma (multiple idiopathic hemorrhagic sarcoma)
+ساركومةٌ كيسيَّة	cystosarcoma
+ساركومةٌ كِيسِيَّةٌ مَصْلِيَّةٌ	serocystic sarcoma
+ساركومةٌ لِثَوِيَّة	sarcoma epulis
+ساركومةٌ لِفافِيَّة	fascial sarcoma
+ساركومةٌ لِمْفِيَّةٌ خَضْراء	chlorolymphosarcoma (chloroma)
+ساركومةٌ لِيْفِيَّةٌ عَصَبِيَّةٌ	neurofibrosarcoma (malignant schwannoma)
+ساركومةٌ لِيْفِيَّةٌ غُضْرُوفِيَّةٌ	myxochondrofibrosarcoma (malignant mesenchymoma)
+ساركومةٌ لِيفِيَّةٌ مُخاطِيَّةٌ	fibromyxosarcoma
+ساركومةٌ مُتَعَدِّدَةُ الأَشْكال	polymorphous sarcoma
+ساركومةٌ مُتَوَسِّعَةُ الشُّعَيرات	telangiectatic sarcoma
+ساركومةٌ مُخاطِيَّةٌ	sarcoma myxomatodes
+ساركومةٌ مُخْتَلَطَةُ الخَلاَيا	mixed cell sarcoma (malignant mesenchymoma)
+ساركومةٌ مُسْتَديرَةُ الخَلاَيا	round cell sarcoma
+ساركومةٌ مِغْزَلِيَّةُ الخَلاَيا	spindle cell sarcoma
+ساركومةٌ مُنْسِجِيَّةٌ	histocytic sarcoma
+ساركومةٌ ميلانِيَّة	melanotic sarcoma
+ساركومةٌ نُخاعِيَّة	medullary sarcoma
+ساركومةٌ نِقَوِيَّةٌ	myeloid sarcoma
+ساركومةُ هودجِكين	Hodgkin's sarcoma
+ساركومةُ يَنْسن	Jensen's sarcoma
+ساركومةً يُوِينْغ	Ewing's sarcoma
+ساركويدُ شبيغلر-فندت	Spiegler-Fendt sarcoid (lymphocytoma cutis)
+ساقٌ بَيضاء	milk leg (phlegmasia alba dolens)
+ساقٌ بيضاء	white leg (phlegmasia alba dolens)
+ساقٌ قَلِقَة	jimmy leg (restless leg syndrome)
+ساقٌ لَبَنِيَّة	milk-leg (postpartum iliofemoral thrombophlebitis)
+ساكسيميريد	suxemerid
+سالْكُولِيكْس	salcolex
+سالُوكُولْ	salocoll
+ساندة دوّارة	dolly roll
+سُبات	coma
+سُباتٌ صَيْفيّ	aestivation
+سَبَبِيَّاتُ المَرَض	pathopoiesis
+سَبَل	pannus
+سَبَلٌ الْتِهابِيّ	inflammatory pannus
+سبوروتريكين	sporotrichin
+سبيبيرون	spiperone
+سُتْرَةُ الحَجْر	straitjacket
+سُتْرَةُ ويلوك التَّنَفُّسِيَّة	Willock's respiratory jacket
+سَتَهّ	proctophilia
+سِجِلُّ الأَورام	cancer registry
+سِجِلُّ الأَورام	tumor registry
+سِجِلُّ الحالاَت	casebook
+سِجِلُّ الرُّضوح	trauma registry
+سِجِلُّ المَرْض	pathography
+سِجِلُّ المَرَضِ الذَّاتِيّ	autopathography
+سَحابةٌ دَوّارة	rotor cloud
+سُحارٌ	pneumokoniosis
+سُحار	pneumonoconiosis
+سُحارٌ روماتويديّ	rheumatoid pneumoconiosis
+سُحارٌ فَلِّينِيّ	suberosis
+سُحَافٌ سُكَرِيّ	diabetic phthisis
+سُحُبٌ صَدَفيَّة	nacreous clouds
+سَحْبٌ طُفَيْليّ	parasite (or parasitic) drag
+سَحْبٌ طُفيليّ	parasitic drag
+سَحْنَةٌ أَسَدِيَّة	facies leontina
+سَحْنَةٌ تِيْفِيَّة	typhoid facies
+سَحْنَةُ هَتشِنسُون	Hutchinson's facies
+سَحْنَةٌ”أَسَدِيَّة	leonine facies
+سد الرذاذ المتبثِّر	blister spray dam
+سد العين	cataract = cataracta
+سد مضاعف	cataract, complicated
+سِدَاداتُ ديتريش	Dittrich's plugs
+سَدَد هوائي	aeroembolism; air embolism
+سِدْس	sextan
+سدسية دوارة	gyro sextant
+سَديمُ السَّرطان	Crab nebula
+سَرَطان	cancer
+سَرَطان	crab
+سَرَطان	therioma (cancer)
+سَرَطانٌ أَخْضَر	green cancer (chloroma)
+سَرَطانٌ أَرْسَنِيكيُّ المَنْشأ	arsenic cancer
+سَرَطانٌ أَسْبِسْتيُّ المَنْشأ	asbestos cancer
+سرطان آكيل الجيف	scavenger-crab
+سرطان الأشجار	canker
+سَرَطانُ الأقنِيَةِ الزُّغَابِيَّة	villous duct cancer
+سَرَطانُ الأَنيلين	aniline cancer
+سرطان البحر	crabs
+سرطان البحر	crayfish; crawfish
+سَرَطانُ التَّدْخينِ بالغُلْيُون	clay-pipe cancer
+سَرَطانُ التَّماس	contact cancer
+سرطان الحمر	erythremia
+سَرَطان الخلايا القاعِديَّة	basal-cell carcinoma
+سَرَطانُ الخلايا القاعِدِيَّة	basaloma (basal cell carcinoma)
+سرطان الخلايا القاعدية = القرحة القارضة	basal cell, carcinoma = Rodent ulcer
+سَرَطانُ الخَلاَيا المِغْزَلِيَّة	spindle cell cancer
+سرطان الدم	leukaemia
+سرطان الدم الأحمر	erythroleukaemia
+سَرَطانُ الزُّيوتِ المَعْدَنِيَّة	mineral oil cancer
+سَرَطانُ السُّخام	soot cancer (chimney sweeper's cancer)
+سَرَطَانُ الشُّعَيْبَات	bronchiolar carcinoma
+سَرَطانُ العامِلينَ بالأَشِعَّة	radiologists cancer
+سَرَطانُ العامِلينَ بالأَشِعَّة	roentgenologists cancer
+سرطان الغدة الدمعية	dacryadenseirrhus
+سَرَطانُ القَرْحَة	ulcer cancer
+سَرَطانُ الكرُومات	chromate cancer
+سَرَطانُ المُتَصَاحِبَيْن	cancer a deux
+سَرَطان المحار: سَرَطان يعيش ضمنَ أصداف	oyster crab
+سَرَطانُ المُدَخِّنين	smokers' cancer
+سَرَطانُ النَّهْرِ اليابانِيّ	Eriocheir
+سَرَطانٌ أُنْبوبِيّ	tubular cancer
+سَرَطانٌ أَوَّلِيّ	primary cancer
+سَرَطانُ بَاتَارْ	Butter's cancer
+سَرَطانٌ بَشْرَوِيّ	epidermal cancer
+سَرَطانٌ بِطانِيّ	endothelial cancer (endothelioma)
+سَرَطانٌ تَنْبُولِيُّ المَنشأ	betel cancer (buyo cheek cancer)
+سَرَطانٌ ثاقِب	boring cancer
+سرطان حبلي	chordocarcinoma = chordoma = chordoepithelioma
+سرطان حرشفي الخلايا بعنق الرحم	cervix, squamous-celled carcinoma
+سَرَطانٌ خَافٍ	latent cancer
+سَرَطانٌ خَفِيُّ	occult cancer
+سَرَطانٌ خَلَوِيّ	cellular cancer (medullary carcinoma)
+سَرَطانٌ خَيْشُوْمِيُّ المَنْشَأ	branchiogenous cancer
+سَرَطانٌ دِرْعِيّ	jacket cancer (cancer en cuirasse)
+سَرَطانٌ دِماغِيُّ الشَّكْل	cerebriform cancer (medullary carcinoma)
+سَرَطانٌ دِماغيُّ الشَّكْل	encephaloid cancer (medullary carcinoma)
+سَرَطانٌ رَادْيُومِيُّ المَنْشأ	radium cancer
+سَرَطانٌ رُجُوعِيٌّ	retrograde cancer
+سَرَطانُ رِخْو	soft cancer
+سَرَطانُ سُخامِ المَداخِن	chimney-sweeps cancer
+سَرَطانٌ سِنْخِيّ	alveolar cancer
+سَرَطانٌ شِبْهُ غُضْروفِيّ	chondroid cancer
+سَرَطانٌ صَلْد	hard cancer (scirrhous cancer)
+سَرَطانٌ صَلْد	scirrhous cancer
+سَرَطانٌ ظِهارِيّ	epithelial cancer
+سَرَطانٌ عَديدُ المَراكِز	multicentric cancer
+سَرَطانُ عُمَّالِ الأَصْباغ	dye workers' cancer
+سَرَطانُ عُمَّالِ الشَّمْع	paraffin cancer
+سَرَطانُ عُمَّالِ الغَزْل	mule-spinners cancer
+سَرَطانُ عُمَّالِ القَطِرَانِ	pitch-workers' cancer
+سرطان عنكبي	spider- crab
+سَرَطانٌ عُنَيبِيّ	acinar cancer
+سَرَطانٌ عُنَيبِيّ	acinous cancer
+سَرَطَانُ عَيْنِ البَقَرِ	cancer eye
+سَرَطانُّ غُدَّانِيّ	adenoid cancer
+سَرَطَانٌ غُدِّيّ	glandular cancer (adenocarcinoma)
+سرطان غدي - سرطان غددي	adeno-carcinoma
+سرطان غدي ناشئ	carcinoma in situ
+سرطان غدي نصلي	comedocarcinoma
+سِرِطانٌ غَرَوانِيّ	colloid cancer
+سَرَطانٌ قارِض	rodent cancer
+سَرَطانٌ قَطِرَانِيُّ المَنْشَأ	tar cancer
+سَرَطانٌ قَنَوِيّ	duct cancer
+سَرَطانٌ كالمَشَدّ	cancer en cuirasse
+سَرَطانُ كالمَشَدّ	corset cancer (cancer en cuirasse)
+سَرَطانٌ كيسِيّ	cystic cancer
+سرطان كيسي	cystocarcinoma = cystcarcinoma
+سَرَطانٌ لابِد	cancer in situ
+سَرَطانٌ لُبِّيّ	medullary cancer
+سرطان ليفي	fibrocarcinoma = scirrhous carcinoma
+سَرَطانٌ مُتَغَصِّن	dendritic cancer (papillary carcinoma)
+سَرَطانٌ مُتَقَرِّح	ulcerated cancer
+سرطان مثاني صلد	cystoscirrhus
+سرطان مشيمي	chorioblastoma = choriocarcinoma
+سَرَطانٌ مُضْغِيّ	carcinoembryonic
+سَرَطانُ مُضَمِّر	cancer atrophicans (scirrhous cancer)
+سَرَطانٌ مِلاَنيّ	melanotic cancer (malignant melanoma)
+سَرَطانٌ نَظيف	apinoid cancer (scirrhous cancer)
+سَرَطانٌ وَحيدُ المَرْكَز	unicentric cancer
+سَرَطانات	carcinomata
+سَرَطانَة	carcinoma
+سَرَطانَةٌ أُسْطُوانِيَّةُ الخَلاَيا	cylindrical carcinoma
+سَرَطانَةٌ أُسْطُوانِيَّةُ الخَلاَيا	cylindrical cell carcinoma
+سَرَطانَةٌ إِسْفَنْجِيَّة	carcinoma spongiosum (medullary carcinoma)
+سَرَطانَةُ الإِشْعاع	radiation carcinoma
+سَرَطانَةُ الأَقْنِيَةِ الصَّفْراوِيَّة	cholangiocarcinoma
+سَرَطانَةُ الأَنيلين	aniline carcinoma
+سَرَطانَةُ الجِلْد	carcinoma cutaneum
+سَرَطانَةُ الخَلاَيا الاِنْتِقالِيَّة	transitional cell carcinoma
+سَرَطانَةُ الخَلاَيا الحُبَيبِيَّة	granulosa cell carcinoma
+سَرَطانَةُ الخَلاَيا الحَرْشَفِيَّة	squamous carcinoma (squamous cell carcinoma)
+سَرَطانَةُ الخَلاَيا السِّنْخِيَّة	alveolar cell carcinoma
+سَرَطانَةُ الخَلاَيا الشَّائِكَة	prickle cell carcinoma
+سَرَطانَةُ الخَلاَيا الشُّوفانِيَّة	oat cell carcinoma
+سَرَطانَةُ الخَلاَيا الشُّوفانِيَّة	reserve cell carcinoma (oat cell carcinoma)
+سَرَطانَةُ الخَلايا القاعِدِيَّة	basal cell carcinoma
+سَرَطانَةُ الخَلاَيا القاعِدِيَّةِ	basosquamous cell carcinoma
+سَرَطانَةُ الخَلاَيا القاعِدِيَّة	carcinoma basocellulare
+سَرَطانَةُ الخَلاَيا الكَأْسِيَّة	goblet cell carcinoma
+سَرَطانَةُ الخَلايَا الكَبِدِيَّة	hepatocellular carcinoma
+سَرَطانَةُ الخَلاَيا الكُلْوِيَّة	epinephroma (renal cell carcinoma)
+سَرَطانَةُ الخَلايَا الكُلْوِيَّة	hypernephroid carcinoma (renal cell carcinoma)
+سَرَطانَةُ الخَلاَيا الكُلْوِيَّة	renal cell carcinoma of kidney
+سَرَطانَةُ الخَلايَا المُخاطِيَّة	carcinoma mucocellulare
+سَرَطانَةُ الخَلاَيا شِبْهِ القاعِدِيَّة	basaloid carcinoma
+سَرَطانَةُ الشَّفَة	cheilocarcinoma
+سَرَطانَةُ الشَفَة	lip carcinoma
+سَرَطانَةُ الصَّفَن	carcinoma scroti
+سَرَطانَةُ الكَبِدِ و الأَقْنِيَةِ	hepatocholanangiocarcinoma (cholangiohepatoma)
+سَرَطانَةٌ أَنْفِيَّة	schneiderian carcinoma
+سَرَطانَةٌ أَنْفِيَّةٌ بُلْعومِيَّة	nasopharyngeal carcinoma
+سَرَطانَةٌ بَسيطَة	carcinoma simplex
+سَرَطانَةٌ بَشَرانِيَّة	epidermoid carcinoma
+سَرَطانَةُ بِطانَةِ الرَّحِم	hysterocarcinoma (endometrial carcinoma)
+سَرَطانَةٌ تَرْبيقِيَّة	trabecular carcinoma
+سَرَطانَةٌ تَسَفُّعِيَّة	actinic carcinoma
+سَرَطانَةٌ ثُؤْلوليَّة	verrucous carcinoma
+سَرَطانَةٌ ثاقِبَة	carcinoma cuniculatum
+سَرَطانَةٌ جُرَيبِيَّة	follicular carcinoma
+سَرَطانَةُ جِسْمِ الرَّحِم	corpus carcinoma
+سَرَطانَةٌ حَبْلِيَّة	chordocarcinoma (chordoma)
+سَرَطانَةٌ حَرْشَفيَّةُ الخَلايا	squamous cell carcinoma
+سَرَطانَةٌ حُلَيمِيَّة	papillary carcinoma
+سَرَطانَةٌ حَولَ الأَوعية البَابِيَّة	periportal carcinoma
+سَرَطانَةٌ خَتْمِيَّةُ الخَلاَيا	signet-ring cell carcinoma
+سَرَطانَةٌ خَفِيَّة	occult carcinoma
+سَرَطانَةُ خَلاَيا الأقْنِيَة	cholangiocellular carcinoma
+سَرَطانَةُ خَلاَيا كولشيتسكي	Kulchitzky-cell carcinoma
+سَرَطانَةُ خَلاَيا هورْثِله	Hurthle cell carcinoma
+سَرَطانَةٌ دَاخِلَ البَشَرَةِ	intraepidermal carcinoma
+سَرَطانَةٌ داخِلَ الظِّهارَة	intraepithelial carcinoma (carcinoma in situ)
+سَرَطانَةٌ دِبْقِيَّة	gliocarcinoma (glioblastoma)
+سَرَطانَةٌ دِرْعِيَّة	carcinoma en cuirasse
+سَرَطانَةٌ دَرَقِيَّةٌ كَشَمِيَّة	anaplastic thyroid carcinoma
+سَرَطانَةٌ دِماغِيَّةُ الشَّكْل	cerebriform carcinoma (medullary carcinoma)
+سَرَطانَةٌ دِماغيَّةُ الشَّكْل	encephaloid carcinoma (medullary carcinoma)
+سَرَطانَةٌ زُؤانِيَّة	comedo carcinoma
+سَرَطانَةٌ زُغابِيَّة	carcinoma villosum
+سَرَطانَةٌ سَليلاَنِيَّة	polypoid carcinoma
+سَرَطانَةٌ سِنْخِيَّة	alveolar carcinoma
+سَرَطانَةٌ شَبيهَةٌ ببِطانَةِ الرَّحِم	endometrioid carcinoma
+سَرَطانَةٌ شَحْمِيَّة	lipomatous carcinoma
+سَرَطانَةٌ صَغيرَةُ الخَلاَيا	small-cell carcinoma
+سَرَطانَةٌ صَلْدَة	adenoscirrhus (scirrhous carcinoma)
+سَرَطانَةٌ صَلْدَة	carcinoma durum (scirrhous carcinoma)
+سَرَطانَةٌ صَلْدَة	desmoplastic carcinoma (scirrhous carcinoma)
+سَرَطانَةٌ صَلْدَة	scirrhoma (scirrhous carcinoma)
+سَرَطانَةٌ صَلْدَة	scirrhous carcinoma
+سَرَطانَةٌ صَلْدَة	scirrhus (scirrhous carcinoma)
+سَرَطانَةٌ ضَخْمَةُ الخَلاَيا	large-cell carcinoma
+سَرَطانَةٌ طِفْلِيَّةٌ جَنينِيَّة	infantile embryonal carcinoma
+سَرَطانَةٌ ظِهارِيَّةٌ غُدَّانِيَّة	carcinoma epitheliale adenoides
+سَرَطانَةٌ عُجْرِيَّة	carcinoma tuberosum (scirrhous carcinoma)
+سَرَطاَنَةٌ عُجَرِيَّة	tuberous carcinoma
+سَرَطانَةٌ عَدَسِيَّة	carcinoma lenticulare
+سَرَطانَةٌ عَدَسِيَّة	lenticular carcinoma
+سَرَطانَةٌ عَظْمِيَّة	carcinoma ossificans (osteoid carcinoma)
+سَرَطانَةٌ عَظْمِيَّة	osteoid carcinoma
+سَرَطانَةٌ عِمْلاَقَةُ الخَلاَيا	carcinoma gigantocellulare
+سَرَطانَةٌ عِمْلاَقَةُ الخَلاَيا	giant cell carcinoma
+سَرَطانَةٌ عُنَيبِيَّة	acinar carcinoma
+سَرَطانَةٌ عُنَيبِيَّة	acinous carcinoma
+سَرَطانَةٌ غُدَّانِيَّةٌ كيسِيَّة	adenoid cystic carcinoma
+سَرَطانَةٌ غُدِّيَّة	adenocarcinoma
+سَرَطانَةٌ غُدِّيَّة	carcinoma adenomatosum (adenocarcinoma)
+سَرَطانَةٌ غُدِّيَّة	glandular carcinoma
+سَرَطانَةٌ غُدِّيَّةٌ حَرْشَفِيَّةٌ	adenosquamous carcinoma
+سَرَطانَةٌ غُدِّيَّةٌ كيسِيَّة	adenocystic carcinoma
+سَرَطانَةٌ غُدِّيَّةٌ كيسِيَّة	cystadenocarcinoma
+سَرَطانَةٌ غَرَوانِيَّة	colloid carcinoma
+سَرَطانَةٌ غُضْروفِيَّة	chondrocarcinoma
+سَرَطانَةٌ قَبْلَ الغَزْو	preinvasive carcinoma
+سَرَطانَةُ قِشْرَةِ الكُظْر	carcinoma of adrenal cortex
+سَرَطانَةُ قِشْرَةِ الكُظْر	periepithelioma (adrenal cortical carcinoma)
+سَرَطانَةٌ قَصَبِيَّة	bronchiolar carcinoma
+سَرَطانَةٌ قَصَبِيَّةُ المَنْشَأ	bronchogenic carcinoma
+سَرَطانَةٌ قَصَبِيَّةٌ سِنْخِيَّة	bronchioalveolar carcinoma
+سَرَطانَةٌ قَنَوِيَّة	duct carcinoma
+سَرَطانَةُ كرومبيشر	Krompecher's carcinoma (rodent ulcer)
+سَرَطانَةٌ كُرَوِيَّةُ الخَلاَيا	spheroidal cell carcinoma
+سَرَطانَةٌ كَمْئِيَّة	fungating carcinoma
+سَرَطانَةٌ لابِدَة	carcinoma in situ
+سَرَطانَةٌ لِمْفِيَّةٌ ظِهارِيَّة	lymphoepithelial carcinoma
+سَرَطاَنَةٌ لِيفِيَّة	carcinoma fibrosum
+سَرَطانَةٌ مُتَعَدِّدَةُ الأَشْكال	pleomorphic carcinoma
+سَرَطانَةٌ مُتَنَكِّسَةٌ مُخاطِيَّاً	carcinoma myxomatodes
+سَرَطانَةٌ مُتَوَسِّعَةُ الشُّعَيرات	carcinoma telangiectaticum
+سَرَطانَةٌ مُتَوَسِّعَةُ الشُّعَيرات	carcinoma telangiectodes
+سَرَطانَةٌ مُخاطِيَّة	mucosum carcinoma (mucous carcinoma)
+سَرَطانَةٌ مُخاطِيَّةٌ بَشْرَوِيَّة	mucoepidermoid carcinoma
+سَرَطانَةٌ مَخْلَوِيَّة	syncytial carcinoma
+سَرَطانَةٌ مُرَبَّطَة	string carcinoma
+سَرَطانَةٌ مَسْخِيَّة	teratoid carcinoma
+سَرَطانَةٌ مَشيمائِيَّة	chorionic carcinoma
+سَرَطانَةٌ مِصْفَوِيَّة	cribriform carcinoma (adenoid cystic carcinoma)
+سَرَطانَةٌ مُضْغِيَّة	embryonal carcinoma
+سَرَطانَةُ مَطْرِسِ الشَّعْرة	hair-matrix carcinoma (basal cell carcinoma)
+سَرَطانَةٌ مِغْزَلِيَّةُ الخَلايا	spindle cell carcinoma
+سَرَطانَةُ مِلاَنِيَّة	melanotic carcinoma (malignant melanoma)
+سَرَطانَةٌ مُنْبَذِرَة	seeding carcinoma
+سَرَطانَةٌ موسينِيَّة	carcinoma muciparum
+سَرَطانَةٌ موسينِيَّة	mucinous carcinoma
+سَرَطانَةُ ميلاَنِيَّة	carcinoma melanodes (malignant melanoma)
+سَرَطانَةٌ ميلانيَّة	melanocarcinoma (malignant melanoma)
+سَرَطانَةٌ نابِتَة	exophytic carcinoma
+سَرَطانَةٌ نُخاعِيَّة	carcinoma medullare (medullary carcinoma)
+سَرَطانَةٌ نُخاعِيَّة	carcinoma molle (medullary carcinoma)
+سَرَطانَةٌ نُخاعِيَّة	medullary carcinoma
+سَرَطانَةُ نَدْبَةِ الحَرْق	burn scar carcinoma
+سَرَطانَةٌ نَقيلِيَّة	metastatic carcinoma
+سَرَطانَةٌ هُلاَمِيَّة	gelatinous carcinoma
+سَرَطانَةٌ هُلاَمِيَّةُ الشَّكْل	gelatiniform carcinoma
+سَرَطاوِيّ	carcinoid
+سُرْعَةُ التَّشَنُّج	spasmophilia
+سُرعةُ الشَّوط	stroke speed
+سُرعة المِنضَدة الدوّارة	table speed
+سرَيان العدوى	contagiousness
+سَريرُ الكُسور	fracture bed
+سريع الالتهاب	flammable
+سَرِيْعُ التَّشَنُّج	spasmophile
+سَرِيْعُ التَّشَنُّج	spasmophilic
+سطْح القطع أو الكسر	surface of fracture
+سطح الكسر	fracture plane
+سطح سريع التصدع	rapid-fracture surface
+سُعارُ القَتْل	amok
+سُعال	cough
+سُعال	tussis
+سُعالٌ أُذُنِيُّ المُنْعَكَس	ear cough
+سُعالُ الطَّحَّانين	miller's cough
+سُعالٌ أُمْدَمِيّ	aneurysmal cough
+سُعالٌ انْتِيابِيّ	paroxysmal cough
+سُعالٌ انْضِغاطِيّ	compression cough
+سُعالٌ انْعِكاسِيّ	reflex cough
+سُعالٌ بَالْمِيّ	Balme's cough
+سُعالُ بريفيه	privet cough
+سُعالٌ بسَبَبٍ خَارِجَ الرِّئَة	extrapulmonary cough
+سُعالُ تَهْييجِ ثُلاَثِيِّ التَّوائِم	trigeminal cough
+سُعالٌ جافّ	dry cough
+سُعالٌ جافّ	hack
+سُعالٌ خَفيف	tussicula
+سُعالٌ خَفيف	tussiculation
+سُعالٌ ديكِيّ	chin cough (pertussis)
+سُعالٌ ديكِيّ	whooping cough
+سُعَال دِيكِيّ	whooping-cough
+سُعالُ ذَوَّاقَةِ الشَّاي	tea tasters' cough
+سُعالٌ رَطْب	moist cough
+سُعالٌ رَطْب	wet cough
+سُعال سارٍ في بيت الكلاب	kennel cough
+سُعالٌ سَطْحِيٌّ مُتَقَطِّع	hacking cough
+سُعالُ سَيدِنْهام	Sydenham's cough
+سُعالٌ شاهوقِيّ	minute gun cough
+سُعالٌ شَتَوِيّ	winter cough
+سُعالٌ مُخَلِّج	tussis convulsiva (pertussis)
+سُعالٌ مَعِدِيّ	tussis stomachalis
+سُعالٌ مَعِدِيُّ المُنْعَكَس	stomach cough
+سُعالٌ مُنْتِجٌ للبَلْغَم	productive cough
+سُعالُ مُورْتُون	Morton's cough
+سُعالٌ ميكانيكِيّ	mechanical cough
+سُعالٌ نُباحِيّ	barking cough
+سُعالٌ نُحاسِيّ	brassy cough
+سُعالٌ نُحاسِيّ	gander cough (brassy cough)
+سُعاليّ: ذو علاقة بالسُّعال	tussive
+سَعْفَة	mycodermomycosis (tinea)
+سَعْفة	ringworm
+سَعْفَة	ringworm (tinea)
+سَعْفَة	tinea
+سَعْفة	tinea = ringworm
+سَعْفَةٌ أَسْبَستِيَّةُ الشَّكْل	tinea amiantacea (asbestos like tinea)
+سَعْفَةُ الإِبْط	ringworm of the axilla
+سَعْفَةُ الإِبْط	tinea axillaris
+سَعْفَةُ الأَجْفان	tinea tarsi
+سَعْفَةُ الأُرْبِيَّة	ringworm of groin (tinea cruris)
+سَعْفَةُ الأُرْبِيَّةُ	tinea inguinalis
+سَعْفَةُ الأَرْفاغ	tinea cruris
+سَعْفَةُ الأَظْفار	ringworm of the nails (tinea unguium)
+سَعْفَةُ الأَهْداب	tinea ciliorum
+سَعْفَةُ الجَسَد	tinea corporis
+سَعْفَةُ الجِسْم	ringworm of the body (tinea corporis)
+سَعْفَةُ الرَّأْس	tinea capitis
+سَعْفَةُ الطُّيُور	tinea galli
+سَعْفَةُ الظُّفُر	tinea unguium
+سَعْفَةُ الفَرْوَة	ringworm of the scalp (tinea capitis)
+سَعْفَة ُالقدم	athlete's foot
+سَعْفَةُ القَدَم	ringworm of feet (tinea pedis)
+سَعْفَةُ القَدَم	tinea pedis
+سَعْفَةُ القدَمين	athlete’s foot
+سَعْفَةُ اللِّحْيَة	ringworm of the beard (tinea barbae)
+سَعْفَةُ اللِّحْيَة	tinea barbae
+سَعْفَةُ الوَجْه	ringworm of the face (tinea faciale)
+سَعْفَةُ الوَجْه	tinea faciei (tinea facialis)
+سَعْفَةُ اليَد	ringworm of the hand (tinea manus)
+سَعْفَةُ اليَد	tinea manus
+سَعْفَةٌ أميانتيَّةُ الشَّكْل	asbestos-like tinea
+سَعْفَةٌ بَيضاء	tinea alba
+سَعْفَةُ تينِيَّة	tinea sycosis
+سَعْفَةٌ جازَّة	tinea tonsurans
+سَعْفَةٌ جُلْبِيَّة	crusted ringworm (favus)
+سَعْفَةٌ خارِجَ الشَّعْرَة	ectothrix ringworm
+سَعْفَةٌ سَوداء	tinea nigra
+سَعْفَةٌ شُهْدَة	tinea kerion (kerion)
+سعفة طينيا	tinea
+سَعْفَةُ عَقِدَة	tinea nodosa
+سَعْفَةٌ عَميقَة	tinea profunda
+سَعْفَةٌ فَوْتِيَّة	tinea interdigitalis
+سَعْفَةُ قُراعِيَّةٌ	tinea favosa (favus)
+سَعْفَةٌ قِرْميدِيَّة	tinea imbricata
+سَعْفَةٌ لَطْخِيَّةٌ رَمادِيَّة	gray-patch ringworm
+سَعْفَةٌ مُبَرْقَشَة	tinea versicolor
+سَعْفَةُ مُتَحَلِّقَة	tinea circinata
+سَعْفَةٌ مَحْصورَةٌ بالشَّعْرَة	endothrix ringworm
+سَعْفَةٌ مُنَخْرَبَة	honeycomb ringworm (favus)
+سَعْفَةٌ نُقْطِيَّةٌ سَوداء	black-dot ringworm
+سِعَةُ الإلتواء	akimbo span
+سَعة الإمساك الفعالة للماء	water-holding capacity, effective
+سُغاب	inanition
+سَغَلٌ شَيخوخِيّ	geromarasmus
+سفينة مماثلة	sister ship
+سَقَّاطةُ إِمساكِ السَّيْر	belt holding pawl
+سَكْتَة	apoplectic stroke
+سَكْتَة	apoplexia (apoplexy)
+سَكْتَة	apoplexy
+سَكْتَة	theoplegia (apoplexy)
+سَكْتَةٌ آجِلَة	delayed apoplexy
+سَكْتَةُ المَبيض	ovarian apoplexy
+سَكْتَةُ الوَليد	neonatal apoplexy
+سَكْتَةٌ بَصَلِيَّة	bulbar apoplexy
+سَكْتَةٌ بَطْنِيَّة	abdominal apoplexy
+سَكْتَةٌ بَنْكِرْياسِيَّة	pancreatic apoplexy
+سَكْتَةٌ جِسْرِيَّة	pontile apoplexy (bulbar apoplexy)
+سَكْتَةٌ جِسْرِيَّة	pontine apoplexy
+سَكْتَةٌ جِلْدِيَّة	cutaneous apoplexy
+سَكْتَةٌ حَرارِيَّة	heat apoplexy
+سَكْتَةٌ خاطِفَة	fulminating apoplexy
+سَكْتَةٌ خُثارِيَّة	thrombotic apoplexy
+سَكْتَةٌ رَحِمِيَّة	uterine apoplexy
+سَكْتَةٌ رَحِمِيَّةٌ مَشيمِيَّة	uteroplacental apoplexy
+سَكْتَةٌ رَضْحِيَّةٌ آجِلَة	traumatic late apoplexy
+سَكْتَةٌ ريمون	Raymond's apoplexy
+سَكْتَةٌ شُعَيرِيَّة	capillary apoplexy
+سَكْتَةٌ شَلَلِيَّة	paralytic stroke
+سَكْتَةٌ صَرْعِيَّة	epileptic stroke
+سَكْتَةٌ صِمِّيَّة	embolic apoplexy
+سَكْتَةٌ عابِرَة	little stroke
+سَكْتَةٌ كُظْرِيَّة	adrenal apoplexy
+سَكْتَةٌ كُلْوِيَّة	renal apoplexy
+سَكْتَةٌ مُتَفاقِمَة	ingravescent apoplexy
+سَكْتَةٌ مَخاضِيَّة	parturient apoplexy
+سَكْتَةٌ مُخَيخِيَّة	cerebellar apoplexy
+سَكْتَةٌ مُخِّيَّة	cerebral apoplexy
+سَكْتَةٌ مُخِّيَّة	cerebral stroke (apoplexy)
+سَكْتَةٌ مَشيمِيَّة	placental apoplexy
+سَكْتَةٌ نُخاعِيَّة	spinal apoplexy
+سَكْتَةٌ نُخامِيَّة	pituitary apoplexy
+سَكْتَةٌ وَهَنِيَّة	asthenic apoplexy
+سكتة. نزف فجائي	apoplexy
+سُكَّرُ السُّكَّرِيِّيْن	diabetic sugar
+سكّري	saccharic
+سُكّرِيّ	saccharine
+سكري	saccharoid
+سُكَّريّ	sugary
+سُكَّرِيُّ التَّوَجُّه	glycotropic
+سكري الحبيبات	sugary grained
+سُكَّرِيُّ الشُّبَّانِ النَّاضِجين	maturity-onset diabetes of youth
+سُكَّرِيُّ المَخْمَصَة	starvation diabetes
+سُكَّرِيُّ المَنْشَأ	diabetogenous
+سُكَّرِيُّ الوَخْز	piqùre diabetes (puncture diabetes)
+سُكَّرِيُّ الوَخْز	puncture diabetes
+سُكَّرِيُّ اليافِعين	juvenile diabetes (insulin dependent diabetes)
+سُكَّرِيُّ اليافِعين	juvenile-onset diabetes (insulin dependent diabetes)
+سُكَّرِيُّ ضَخامَةُ النِّهايات	diabetes of acromegaly
+سُكَّرِيٌّ كاذِب	pseudodiabetes
+سُكَّرِيَّات أُحَادِيَّة	monosaccharides
+سكريات ثنائية	disaccharides
+سكريات سداسيّة	hexoses
+سُكَّرِيَّاتٌ مُنَتْرَتَة	nitrosugars
+سَكَريد	saccharide
+سكولوالبومين	sucholoalbumin
+سكونا السرطان	calm of cancer
+سِكِّينُ السَّادّ	cataract knife
+سِكِّينُ الفَتْق	hernia knife
+سُلّ	tuberculosis
+سُلٌّ اسْتِنْشاقِيّ	inhalation tuberculosis
+سُلُّ الأَغْشِيَّةِ المَصْلِيَّة	tuberculosis of serous membranes
+سُلُّ الأَمْعاء	tuberculosis of intestines
+سُلُّ البالِغين	adult tuberculosis
+سُلُّ الحَنْجَرَة	tuberculosis of larynx
+سُلُّ الرِّئَتَين	tuberculosis of lungs
+سُلُّ الطيور	avian tuberculosis
+سل العظام	bone tuberculosis
+سُلُّ العِظامِ و المَفاصِل	tuberculosis of bones and joints
+سُلُّ العُقَدِ اللِّمْفِيَّة	tuberculosis of lymph nodes (lymphoid tuberculosis)
+سُلُّ الفُوهات	tuberculosis orificialis
+سُلُّ الكُظْر	adrenal tuberculosis
+سُلُّ الكُلْيَة	tuberculosis of kidney
+سُلُّ المَثانَة	cystophthisis
+سُلُّ النُّخاع	spinal tuberculosis (tuberculosis of spine)
+سُلٌّ أَوَّلِيّ	primary tuberculosis
+سُلٌّ بتَكْرار العَدْوَى	reinfection tuberculosis
+سُلٌّ بِطانِيّ	endothelial tuberculosis
+سُلٌّ بَقَرِيّ	bovine tuberculosis
+سُلٌّ تالٍ للأَوَّلِيّ	postprimary tuberculosis
+سُلٌّ تَناسُلِيّ	genital tuberculosis
+سُلٌّ تَناسُلِيٌّ بَولِيّ	genitourinary tuberculosis
+سُلٌّ ثُؤْلُولِيّ	tuberculosis verrucosa
+سُلٌّ ثُؤْلُولِيّ	warty tuberculosis (tuberculosis verrucosa cutis)
+سُلٌّ جاسِي	tuberculosis indurativa
+سُلٌّ جُبْنِيّ	caseous tuberculosis
+سُلٌّ جِراحِيّ	surgical tuberculosis
+سُلٌّ جِلْدِيّ	cutaneous tuberculosis
+سُلٌّ جِلْدِيّ	tuberculosis cutis
+سُلٌّ جِلْدِيّ	tuberculosis of skin
+سُلٌّ جِلْدِيٌّ تَمَايُعِيّ	tuberculosis cutis colliquativa
+سُلٌّ جِلْدِيٌّ ثُؤْلُولِيّ	tuberculosis cutis verrucosa
+سُلٌّ جِلْدِيٌّ ثُؤْلُولِيّ	tuberculosis verrucosa cutis
+سُلٌّ جِلْدِيٌّ جاسِي	tuberculosis cutis indurativa
+سُلٌّ جِلْدِيٌّ جُرَيبِيٌّ مُنْتَثِر	tuberculosis cutis follicularis disseminata
+سُلٌّ جِلْدِيٌّ حَزازِيّ	tuberculosis cutis lichenoides
+سُلٌّ جِلْدِيٌّ حَزازِيّ	tuberculosis lichenoides
+سُلٌّ جِلْدِيٌّ فُوهِيّ	tuberculosis cutis orificialis
+سُلٌّ حَطاطِيٌّ نَخْرِيّ	tuberculosis papulonecrotica
+سُلٌّ خافٍ	latent tuberculosis
+سُلٌّ داخِلِيُّ المَنْشَأ	endogenous tuberculosis
+سُلٌّ دُخْنِيّ	miliary tuberculosis
+سُلٌّ دُخْنِيٌّ حادّ	acute miliary tuberculosis
+سُلٌّ دَمَوِيُّ المَنْشَأ	hematogenous tuberculosis
+سُلٌّ ذِئْبِيٌّ	tuberculosis luposa (lupus vulgaris)
+سُلٌّ رِئَوِيّ	lung tuberculosis
+سُلٌّ رِئَوِيّ	pulmonary tuberculosis
+سُلٌّ رُغامِيٌّ قَصَبِيّ	tracheobronchial tuberculosis
+سُلٌّ سِحائِيّ	meningeal tuberculosis
+سُلٌّ سُحارِيٌّ فَحْمِيّ	anthracotic tuberculosis
+سُلٌّ طِفْلِيّ	childhood tuberculosis
+سُلٌّ طَيرِيّ	avian tuberculosis
+سُلٌّ طَيرِيّ	chicken tuberculosis
+سُلٌّ طَيرِيّ	fowl tuberculosis
+سُلٌّ غُدِّيّ	glandular tuberculosis
+سُلٌّ فَعَّال	active tuberculosis
+سُلٌّ قاعِدِيّ	basal tuberculosis
+سُلٌّ قَرْحِيّ	tuberculosis ulcerosa (tuberculosis cutis orificialis)
+سُلٌّ قَصَبِيّ	bronchial tuberculosis
+سُلٌّ قَصَبِيُّ المَنْشَأ	bronchogenic tuberculosis
+سُلٌّ لانَمُوذَجِيّ	atypical tuberculosis
+سُلٌّ لَفائِفِيٌّ أَعْوَرِيّ	ileocecal tuberculosis
+سُلٌّ لِيفِيُّ جُبْنِيّ	fibrocaseous tuberculosis
+سُلٌّ مُخَفَّف	epituberculosis
+سُلٌّ مُخِّيّ	cerebral tuberculosis
+سُلٌّ مَفْتوح	open tuberculosis
+سُلٌّ مُلَيِّف	fibroid tuberculosis (fibrosing tuberculosis)
+سُلٌّ مُلَيِّف	fibrosing tuberculosis
+سُلٌّ مُلَيِّف	fibrotuberculosis
+سُلٌّ مُنْتَثِر	disseminated tuberculosis
+سُلٌّ مُنَسِّج	productive tuberculosis
+سُلٌّ مَنْقُولٌ بالهَواء	air-borne tuberculosis
+سُلٌّ مُوَهَّن	attenuated tuberculosis
+سُلٌّ نَضْحِيّ	exudative tuberculosis
+سُلُّ نَقيرِ الرِّئَة	hilus tuberculosis
+سُلٌّ هادِىء	quiescent tuberculosis
+سُلٌّ هَوائِيُّ المَنْشَأ	aerogenic tuberculosis
+سُلٌّ هَيكَلِيّ	skeletal tuberculosis
+سُلاَق	thrush
+سِلْسِلةُ أُسطواناتٍ دَوّارة	roller chain
+سِلسلة دوّارةٌ للبَكّارة التفاضُلية	block chains
+سِلْعَة	struma (goiter)
+سِلْعَةُ بازدوف	struma basedowificata (graves disease)
+سِلْعَةٌ خَبيثَة	struma maligna
+سِلْعَةٌ كُلْوِيَّةٌ شَحْمِيَّةٌ زائِغَة	struma lipomatodes aberrata renis (renal cell carcinoma)
+سِلْعَةٌ لِمْفُوْمِيَّة	struma lymphomatosa (Hashimoto's disease)
+سَلفادوكسين	sulfadoxine
+سَلفارسفينامين	sulfarsphenamine
+سَلفاكوينوكسالين	sulfaquinoxaline
+سَلفينبيرازون	sulfinpyrazone
+سَلْمونيلَةُ كُوليرا الخَنازير	Salmonella choleraesuis
+سلوك تشويش	behavior disorder
+سُلوكٌ تِلْقائِيٌّ تَالٍ للصَّرْع	postepileptic automatism
+سُلوكٌ تِلْقائِيٌّ تَالٍ للنَّشبَةِ	postictal automatism (postepileptic automatism)
+سَليلَةٌ الْتِهابِيَّة	inflammatory polyp
+سَليلَةٌ مُتَوَسِّعَةُ الشُعَيرات	polypus telangiectodes (inflammatory polyp)
+سَليلَةٌ هُلاَمِيَّة	gelatinous polyp (myxoma)
+سَليلَةٌ هوبمان	Hopmann's polyp (nasal papilloma)
+سمات متدرجة التطور	creeping featurism
+سماحية للأجزاء الدوارة	allowance for rotating parts
+سُماك	ichthyosis (fish scale disease)
+سمت ببوصلة دوارة	gyro compass bearing
+سِمْنَة	obesitas
+سِمْنَة	obesity
+سِمْنَة	polypionia (obesity)
+سِمْنَة	polysarcia (obesity)
+سَمْنَة	samna (ghee)
+سمنة الدبق	missel-thrush
+سِمْنَةُ الضَّخامَةِ وفَرْطِ التَّنَسُّج	hyperplastic-hypertrophic obesity
+سِمْنَةُ الوَذَمَةِ المُخاطِيَّة	myxedematous obesity
+سِمْنَةٌ امْتِلائِيَّة	plethoric obesity
+سِمْنَةٌ بَالِغَيَّةُ البَدْء	adult-onset obesity
+سِمْنَةٌ بَسيطَة	simple obesity
+سِمْنَةٌ خارِجِيَّةُ المَنْشَأ	exogenous obesity
+سِمْنَةٌ داخِلِيَّةُ المَنْشَأ	endogenous obesity
+سِمْنَةٌ شِقِّيَّة	hemiobesity
+سِمْنَةٌ صَمَّاوِيَّةُ المَنْشأ	endocrine obesity
+سِمْنَةٌ ضَخامِيَّة	hypertrophic obesity (adult onset obesity)
+سِمْنَةٌ طِوَالَ العُمْر	lifelong obesity
+سِمْنَةٌ غِذائِيَّة	alimentary obesity
+سمنة غريدة	song - thrush
+سِمْنَةُ فَرْطِ الأَنْسولين	hyperinsulinar obesity
+سِمْنَةُ فَرْطِ الجِبْلَة	hyperplasmic obesity
+سِمْنَةُ فَرْطِ الكُظْرِيَّة	hyperinterrenal obesity
+سِمْنَةٌ قِشْركُظْرِيَّة	adrenocortical obesity
+سِمْنَةُ قُصورِ الدَّرَقِيَّة	hypothyroid obesity
+سِمْنَةُ قُصورِ الغُدَدِ التَّنَاسُلِيَّة	hypogonad obesity
+سِمْنَةٌ مَرَضِيَّة	morbid obesity
+سِمْنَةٌ مَرْكَزِيَّة	centripetal obesity (adrenocortical obesity)
+سِمْنَةٌ نُخامِيَّةُ المَنْشَأ	pituitary obesity
+سِمْنَةُ نَقْصِ الجِبْلَة	hypoplasmic obesity
+سِمْنَةٌ وِطائِيَّةُ المَنْشَأ	hypothalamic obesity
+سُمِّيَّةٌ للكُلْيَة	nephrotoxicity
+سِنُّ تيرنر	Turner's tooth
+سِنٌّ صَدَفِيَّة	shell tooth
+سِنٌّ مُصابَةٌ بالعَدْوَى	infected tooth
+سِنْتازون	cinnopentazone (cintazone)
+سنة جفاف	dry year
+سوءُ التَّغْذِيَةِ بالبروتينِ و الطَّاقَة	protein-energy malnutrition (kwashiorkor)
+سُوءُ هَضْم	indigestion
+سوتيكا	sutika
+سودارشان شورنا	sudarshan shurna
+سَوداوِيَّةٌ مُراقِيَّة	melancholia hypochondriaca
+سَوداوِيَّةٌ هَيَجانية	melancholia agitata (agitated depression)
+سُودُوكو	sodoku
+سورما	surma (lead sulfide)
+سُوْسُ الجَرَب	mange mite
+سُوْسُ الحِكَّة	itch mite
+سُوْسُ جَرَبِ الماشِيَة	scab mite
+سُوْسُ حِكَّةِ الحَمَّالين	coolie-itch mite
+سَوقاءُ مَعْجُوْنِ أونا	Unna's paste boot
+سولاسَلفون	solasulfone (solapsone)
+سولانين	solanine
+سُوَّيْد	smut
+سِياج	fence
+سِياسَةُ رِعايَةِ المَرْضَى	patient care policies
+سيبازُونْيُوم	sepazonium
+سيتارابين	cytarabine
+سِيرة	case history
+سِيْسَاءُ التِّيْفيَّة	typhoid spine
+سِيْسَاءُ لاعِبيْ البُوكر	poker spine
+سِيسْبلاتين	cis-platinum
+سِيسْبلاتين	cisplatin
+سيفيّات الذيل: رتبة من المَفْصِليّات	Xiphosura
+سيقانُ ظَهْرِ المَرْكَب	deck legs
+سِيكْلانْدِيلاَت	cyclandelate
+سِيكْلُوبروفين	cicloprofen
+سِيكْلُوفُسْفاميد	cyclophosphamide
+سِيكْليزين	cyclizine
+سَيَلاَن	clap (gonorrhea)
+سينانسيرين	cinanserin
+سِينْتازون	cintazone
+سِينْكُوفين	cinchophen

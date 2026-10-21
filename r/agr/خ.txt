@@ -1,0 +1,69 @@
+خَبير زِراعي	agriculturist
+خُدَّة	plough = plow
+خَرْدلُ الحقول	charlock
+خَرُّوبِيَّة	algaroba
+خريطة استطلاعية للتربة	reconnaissance soil map
+خريطة تخطيطية للتربة	schematic soil map
+خريطة عامة للتربة	generalized soil map
+خريطة مفصلة للتربة	detailed soil map
+خَزّان التطعيم	filter dosing chamber
+خزان جوفي رسوبي	alluvial aquifer
+خسارة لا رجعة فيها من التربة	irreversible loss of soil
+خشب الزيتون	olive wood
+خصائص	moisture characteristic, soil
+خصائص الاستجابة للنبضة	pulse response characteristic (of a quasi-peak voltmeter)
+خصائص التربة	soil characteristics
+خصائص فيزيائية للتربة	physical properties of soils
+خِصْب	fecundity
+خَصَّبَ	fertilize
+خصوبة	fecundity
+خُصوبة	fertility
+خُصُوبَة	fertility; fecundity
+خُصوبَة	uberty
+خصوبة التربة	soil fertility
+خصوبة ذاتية	self-fertility
+خصوبة عالية للنظام البيئي المائي	over-fertilisation of aquatic ecosystem
+خُضْرَةُ الكرُوم	chrome green
+خَطُّ اللاانحِراف	agonic line
+خط تصريف	drainage line
+خَطٌّ جانبيّ	sidetrack
+خَطُّ جريان التيار في التربة	seepage line
+خط فرعيّ حامل للرشاشات	sprinkler lateral
+خطاط الشعير	barley strip
+خطة صَرْف	drainage plan
+خطة عمل الزراعة العضوية	organic agriculture action plan
+خطة نموذجية لمنظمة الأغذية والزراعة بشأن	fao model scheme on port state measures
+خُلاَصَةُ تيكي تيكي	tikitiki extract (rice polishing extract)
+خُلاَصَةُ صُقالَةِ الرُّزّ	extractum perpolitionum oryzae (rice polishings extract)
+خُلاَصَةُ صُقالَةِ الرُّزّ	rice polishings extract
+خَلاَيا أَليفَةُ الكروم	chromaffin cells
+خَلاَيا أَليفَةُ الكرُوم	chromophilic cells
+خَلاَيا بَينَ الشُّعَيرات	intercapillary cells
+خَلاَيا ضامَّةٌ للشُّعَيرات	perithelial cells (adventitial cells)
+خَلايا وُدِّيَّةٌ أَلِيْفَةٌ للكروم	sympathochromaffin cells
+خَلَلُ إِفْرازِ اللَّبَن	dysgalactia
+خَلَّةُ الكُرَيَّةِ المِنْجَلِيَّة	sickle cell trait
+خَلِيَّةُ «غروڤ»	Grove cell
+خَلِيَّةُ «غروڤ» الغازيَّة	Grove gas cell
+خَليّة أُليْفة الكْرُوم	chromaffin cell
+خَلِيَّةٌ مِعَوِيَّةٌ أَليفَةُ الكروم	enterochromaffin cell
+خَلِيَّةٌ مِنْجَلِيَّة	sickle cell
+خلِيَّةٌ هِلاَلِيَّة	meniscocyte (sickle cell)
+خندق حاجِز	dike drainage ditch
+خُنفَساء البطاطِس: خُنْفَساء مقلَّمة	potato beetle
+خنفساء الروث	dung beetle
+خُنْفُساء القُطن	boll weevil
+خنفساء الكروم	eumolpus-beetle
+خُنفساء يونيو: أيٌّ من عدة خنافس كبيرة	June bug
+خواصّ التربة	soil condition / soil property
+خوذية	hemp-nettle
+خيط ألياف الكتان	flax yarn
+خيط غزل كتاني للتطريز	flax embroidery thread
+خيط غزل ماكو	Mako cotton yarn
+خيط غزل متضخم الشعيرات	Bulked Continuous Filament
+خيط غزل مخلوط الشعيرات	commingled yarn
+خيط قطنيّ	cotton yarn
+خيط قطني مَطّاطي	stretch cotton yarn
+خيط قليل الشعيرات المستمرة	fewofil
+خيط مُنكمش الشعيرات بنسب مختلفة	differential shrinkage yarn
+خيوط غزل قطنية مخلوطة	blended cotton yarn

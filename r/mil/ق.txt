@@ -1,0 +1,337 @@
+قائد	bandleader|bandmaster
+قائد	captain
+قائد	commander
+قائد	director
+قائد	Leader (of Linguistics Change)
+قائد الألعاب	Master of ceremonies
+قائد التصميم	design leader
+قائد الجَناح	wing commander
+قائد الجوق	Choryphaeus
+قائد الخورُس	choirmaster
+قائد السِّرب	squadron leader
+قائد السَّرِيّة	company officer
+قَائِدُ الشَّاشَة	display driver
+قائد الشرطة العسكرية	provost marshal
+قائد الطائرة	left-seater; pilot
+قائد الطائرة	pilot in command
+قائد الفرقة المساعد	concertmaster
+قَائِدُ القِطارِ	Train Driver
+قائد القفز	jumpmaster
+قائد المئة	centurion
+قائدُ المَجموعة	group leader
+قائد الميناء	harbour captain
+قائد الهَتّافين	cheerleader
+قائد الوحدة	commanding officer
+قائد الوَحدة	unit commander
+قائد أوركسترا أو جوقة منشدين	Kapellmeister
+قائد تشكيل	element leader
+قائدُ جَناح	wing commander
+قائد جناح الهجوم	playmaker
+قائد جوقة الترتيل	cantor
+قائد جوقة المرتّلين	precentor
+قائد سفينة	captain
+قائد عسكريّ أو أمير حرب صينيّ	tuchun
+قائد كورَس أو خورُس أو جماعة	choragus
+قائدة الأسطول	fleet leader
+قائِفَةٌ سَهْمِيَّة	arrow tracer
+قائمة التعبئة	packing list
+قائِمةُ أو بَيان التعبِئة	packing list (or sheet)
+قاتل برمجيات التجسس	Spyware Blaster
+قَادَ	lead
+قادوس الطين	mud hopper
+قاذِفُ القَنابِل	bombardier
+قاذف الكتروني	electron gun
+قاذف صواريخ	rocket launcher
+قاذفة	bomber
+قاذِفَةُ	rocket launcher
+قاذفة ـ ناقلة	bomber-transport
+قاذفة استراتيجية	strategic bomber
+قاذفة الانقضاض	dive bomber
+قاذِفَةُ أَلغام	mine thrower
+قاذفة الماء	water bomber
+قاذفة ثقيلة	heavy bomber
+قاذِفَة خَفيفة	light bomber
+قاذِفةُ قَنابل انقِضاضية	dive bomber
+قاذِفَةُ قَنابل ثَقيلة	heavy bomber
+قاذِفةُ مياه	water bomber
+قاذِفَةُ نَسائف	torpedo bomber
+قاذفة نووية	nuclear bomber
+قارٌ بَحْرِيّ	naval pitch (black pitch)
+قارورة مُعايَرة	gauging flask
+قاطِرةُ استِطلاع	pilot engine
+قاطرة بمحور قيادة منفرد	individual axle drive locomotive
+قاطرة صهريج	tank locomotive
+قاطرة صهريج الشَحن	freight tank locomotive
+قاطِرَة صِهريجيَّة	tank engine
+قاطع القصر	battle short
+قاطع دارة ذو خزان غير مكهرب	dead tank circuit-breaker
+قاطع دارة ذو خزان مكهرب	live tank circuit-breaker
+قاعِدةٌ بَحْريَّة	naval base
+قاعدة جوية	air base
+قافلة	coffle
+قافِلة	convoy
+قافلة جوية	air train
+قافلة صنادل مدفوعة	pushed barge train
+قافلة قطر	vehicle combination
+قافلة مقطورة	tow convoy
+قانصة الدَّبّابات	tank destroyer
+قانصة الغوّاصات	submarine chaser
+قانون الزحف لأندرادي	Andrade's creep law
+قانونٌ عُرْفيّ	martial law
+قانون عسكريّ	military law
+قَبْحَرْبيّ	antebellum
+قَبْحَرْبيّ: كائنٌ أو حادثٌ قبل الحرب	prewar
+قَبْضةُ المُسَدَّس: قَبْضة	pistol grip
+قَبْضَةٌ مُسَدَّسِيَّة	pistol grip
+قبطان	captain; master
+قبعة	cap
+قُبّعة الميدان: قبّعة عسكرية ذات حافة	service cap
+قتال المُؤخَّرة: «أ» معركة دفاعيّة أو	rear guard action
+قتال أو مباراة بالنبابيت	cudgel play
+قتال أو هروب	Fight Or Flight Reaction
+قتالٌ صُوريّ	sham fight
+قُتِل في المعركة	killed in action
+قدرات استراتيجية	Strategic Capabilities
+قدرة القتال الطارئ	emergency combat capability
+قدرة صاروخية	rocket power
+قَدَّم	advance
+قَدَمُ الخَنادِق	trench foot
+قَدَمَ الغراب: «أ» نبات تشبه أوراقه قَدَم	crowfoot
+قدِّم سلاحك! حيِّ بالسلاح!	present arms!
+قَذَفّ	bom (to…)
+قَذَفَ	bombard
+قذف	bombardement
+قَذْفُ القَنابلِ أثناءَ الانقِضاض	dive bombing
+قَذْفٌ بالإلِكترونات	electron bombardment
+قذف بالقنابل المنزلقة	skip bombing
+قذف بالقنابل من ارتفاع متوسط	medium-altitude level bombing
+قذف دقيق بالقنابل	precision bombing
+قذف رتلي	train bombing
+قذف عُلوي بالقنابل بزاوية متوسطة	medium-angle loft bombing
+قَذْفٌ نَوَويّ	nuclear bombardment
+قذفيَّات القَنابِل	bomb ballistics
+قذيفة	ball; missile; shell
+قَذيفة	missile
+قَذيفةُ أَرْض جَوّ	ground-air missile
+قَذيفة أرض جَوّ	SAM = surface-to-air missile
+قَذيفة أرض جَوّ	surface-to-air missile
+قذيفة إشارة	flare shell
+قذيفة البقاء بعيداً	stand-off missile
+قذيفة الطرد	pop-up missile
+قذيفة انحدارية	glide bomb
+قَذيفةٌ بالِستيَّة	ballistic missile
+قَذيفةٌ بالِسْتيَّة بينَ القارّات	intercontinental ballistic missile
+قَذِيفةٌ بالِسْتِيَّة مُتَوسِّطَةُ المَدى	intermediate range ballistic missile
+قذيفة تحريكية - هوائية	aerodynamic missile
+قَذيفةٌ تِلقائيَّةُ التوجيه	robot bomb
+قَذيفة جَوّ أرض	air-to-ground missile
+قَذيفةُ جَوّ جَوّ	air-to-air missile
+قذيفة جوية	aircraft missile
+قذيفة ذاتية التوجيه	fire and forget missile; self-guided missile
+قذيفة راديوية التحكُّم	azon (azimuth only) bomb
+قَذيفَةُ شظايا	shrapnel
+قَذِيفَةُ شظَايا	splinter bomb
+قذيفة صاروخية	missile
+قَذيفة صاروخيَّة	rocket bomb
+قَذيفة صاروخيَّة	rocket missile
+قذيفةٌ صاروخية مُضادَّة للقَذائف	anti-missile missile
+قذيفة طوّافة	cruise missile
+قذيفة عابرة للقارات	intercontinental ballistic missile
+قذيفة قصْف مرتفع	snap-up missile
+قذيفة قصْف منخفض	snap-down missile
+قذيفة متوسطة المدى	mid-range missile
+قَذيفَةُ مِدفَع	cannonball
+قذيفة مطارَدة	pursuit missile
+قَذِيفةٌ مُعتَرِضة	interceptor missile
+قذيفة موازَنة عُطوفياً	roll-stabilized missile
+قذيفة موجّهة	guided missile
+قَذيفةٌ مُوَجَّهة	missile, guided
+قَذيفَة هاوَن	mortar bomb
+قذيقةٌ بالِستيَّة	transcontinental ballistic missile
+قِراب المُسَدّس	holster
+قرارات استراتيجية	Strategic Decisions
+قرص الزَحف	creeping disk
+قِرميدُ «البندقيَّة»	Venetian tiles
+قسم التعبئة	packing department
+قِشْرَة	shell
+قصبة قائمة الفَرَس ونحوه	cannon bone
+قَصْف	bombardment
+قصف	bombing
+قَصِف	brittle
+قَصِفَ	embrittle
+قصَفَ	strafe
+قَصْف	strafe, straff(ing)
+قصف إشعاعي	bombard = bombardment
+قصْف أعمى	blind bombing
+قَصَفُ التثَلُّم	notch brittleness
+قَصَفُ التّحات	corrosion embrittlement
+قَصْفُ الرَّعْد	thunderclap
+قصف الكتروني	electron bonbardment
+قصف المُسطَّحات	carpet bombing
+قَصِف بالساخن	hot short; red-short
+قصف تخطيطي	pattern bombing
+قَصَفٌ تطبيعيّ	temper brittleness
+قَصْفٌ دَقيق	spot-bombing
+قصف راداري	radar bombing
+قصف طرحي	toss bombing
+قصف عالٍ	high-altitude bombing
+قَصْف على البارد	cold-short
+قَصِفٌ على الساخِن	hot-short = red-short
+قَصِفٌ على السّاخِن	red-short = hot short
+قصف متواصل	continuous profiling
+قصف مكثف	density bombing
+قصْف مكّوكي	shuttle bombing
+قَصْف من ارتفاع الشرفة	loft bombing
+قصف منخفض بزاوية منخفضة	low-angle loft bombing
+قصف منطقة	area bombing
+قصف منطقة عشوائياً	area bombing
+قصف موجه	bombing through overcast
+قصف نووي	nuclear bombardement
+قضيب تسليح الخرسانة	reinforcing bar (or rod)
+قَضيبُ تَقْوِية	reinforcing rod
+قضيبُ رصاصٍ مُخدَّد	came
+قَضيبُ عيار الزيت السِّنانيّ	bayonet oil gauge
+قِطار	train
+قِطاراتُ خِدْمَةِ الطَوارِئِ وَالدِفاعِ	Emergency/Military Trains
+قطر عَجَلَة القيادة	driving wheel diameter
+قُعَدة: ملازِمٌ بيتَهُ أو مَحلَّتَه إلخ	stay-at-home
+قفازات القيادة	driving glove
+قُفْلُ المِدْفَع	gunlock
+قفل عجلة القيادة إلكترونياً	electronic steering lock (ESL)
+قُفْل عَمود القيادة	control column lock
+قَلْبُ الجُنْدِيّ	soldier's heart (neurocirculatory asthenia)
+قَلْبٌ مُسَلَّح	armored heart (armour heart)
+قَلْبٌ مُسَلَّح	panzerherz (armored heart)
+قلعة	citadel
+قَلْعة	fortress
+قَلَمُ الرَّصاص	lead pencil
+قَلَنْسُوَة البحّار: قلنسوة ضيِّقة	watch cap
+قُلَّةُ الكُوبالت	cobalt bomb
+قماش الاستراتيجية	Strategy Canvas
+قماش خَيَّالَة	cavalry twill
+قماشٌ عسكريّ	military fabric
+قمرة السائق	driver's cab
+قمط الملازم	nipping
+قميص بلا أكمام	sleeveless top / tank top
+قميص داخلي بدون أكمام	tank top
+قميص ذو كمين قصيرين	T-shirt / top
+قميص عسكري قصير	army T-shirt
+قميص محاك بلا كُمين	knitted waistcoat / tank top
+قنابل بركانية	bombs (volcanic…)
+قنابل بركانية	spindles-bombs
+قَنابِلُ بُركانية	volcanic bombs
+قِناع	visor
+قناة تخزين	tank sewer
+قناة تخزين	tank sewer / sewer with storage capacity and overflow
+قُنْبُلَة	bomb
+قنبلة	bomb calorimeter
+قنبلة	bomb; shell
+قَنْبَلَة	bombardment
+قنبلة - يدوية كيميائية	chemical grenade
+قُنْبُلةُ إشارة	signal bomb
+قُنْبُلةُ أعماق	depth bomb
+قنبلة البقاء بعيداً	stand-off bomb
+قنبلة البلوتونيوم	plutonium bomb
+قنبلة الدمع: قنبلة مُسِيلةٌ للدّموع	tear bomb
+قنبلة السقوط الحر	free-fall(ing) bomb
+قنبلة إلكترونية	e-bomb
+قُنبُلَة إلِكترونيَّة	electron bomb
+قُنبُلة الكوبَلْت	cobalt bomb
+قنبلة النيوترون	neutron bomb
+قُنبُلة اِنْشِطاريَّة	fission bomb
+قُنبلةٌ بُركانيَّة	bomb, volcanic
+قنبلة بركانية	volcanic bomb
+قُنبلة بُركانيَّة قِشريَّة	bomb, breadcrust
+قنبلة بريدية	Mail bomb
+قنبلة تَشْظِيَة	fragmentation bomb
+قُنْبُلَةٌ تَقْلِيْدِيَّةٌ	conventional bomb
+قُنبُلة تهديم	demolition bomb
+قُنبُلَة ثِرمِيتيَّة	thermite bomb
+قنبلة جوية	aerial bomb
+قنبلة حارقة	incendiary bomb
+قنبلة حديدية	iron bomb
+قنبلة خارقة للدروع	armor-piercing bomb
+قنبلة خشبية	wooden bomb
+قُنبلةُ دُخَان	smoke bomb
+قنبلة دخانية	smoke bomb
+قُنبلة ذَرِّيَّة	A-bomb (or atomic bomb)
+قنبلة ذرية	A-bomb; atomic bomb
+قُنبلة ذَرِّيَّة	atomic bomb
+قُنْبُلة راديُويَّة	radio bomb
+قنبلة رقيقة الغطاء	thin-case bomb
+قنبلة زمنيّة	time bomb
+قُنبُلةُ شَظايا	fragmentation bomb
+قُنْبُلَة طائرة	flying bomb
+قُنبلَةُ غاز	gas bomb
+قُنبلةُ غاز مُسَيِّلٍ للدُّموع	tear bomb
+قنبلة كهرطيسية	electromagnetic bomb
+قُنْبُلَة كِيميائيَّة	chemical bomb
+قنبلة متأخرة الفعل	delayed action bomb
+قُنْبُلَة مُتَشَقِّقَة	breadcrust bomb
+قنبلة مجنحة	butterfly bomb
+قُنبلَة مُجَنَّحة	winged bomb
+قُنبُلَة مُحرِقَة	fire bomb
+قُنبلة مُحرِقة	incendiary bomb
+قُنبلةٌ مُضيئَة	flare bomb
+قُنبلَة مُضيئَة	flash bomb
+قنبلة مُعَوَّقة	retarded bomb
+قنبلة ملوثة	dirty bomb
+قنبلة منطقية	logic bomb
+قنبلة موجّهة	guided bomb
+قُنبلَة مَوقُوتة	time bomb
+قنبلة نظيفة	clean bomb
+قنبلة نووية	nuclear bomb
+قُنبلة نَوَوِيَّةٌ حَرارية	thermonuclear bomb
+قُنْبُلة نيوترونيَّة	neutron bomb
+قُنبُلَة هِدروجينيَّة	fusion bomb = hydrogen bomb
+قُنبلَة هِدْروجينيَّة	H-bomb
+قُنبُلة هِدْروجينيَّة	hydrogen bomb
+قنبلة هدروجينية	hydrogen bomb (H-bomb)
+قنبلة هيدروجينية	fusion bomb
+قنبلة هيدروجينية	H-bomb; hydrogen bomb
+قنبلة هيدروجينية	hydrogen bomb
+قنبلة هيدروجينية جافة	dry hydrogen bomb
+قنبلة هيدروجينية رطبة	wet H-bomb
+قنبلة واخضة	deep-penetration bomb
+قُنبلَة يَدَوِيَّة	grenade
+قُنبلَة يدوية	hand grenade
+قنبلة يدوية مضادة للدبابات	antitank grenade
+قنبلة پيتو	pitot bomb
+قِنديل البحر: حيوان بحري أعلاه يشبه	Portuguese man-of-war
+قَنْطَرة	barrage
+قَنْطرة ثابِتة	barrage-fixe
+قنطرة كبرى	barrage
+قوات برتقالية	Orange Force
+قوات تحديد المسار	Pathfinder Force
+قوات زرقاء	Blue Force
+قوَّات مجوقلة	airborne troops
+قوات مُسلَّحة	armed forces
+قوات مكشوفة غير منذَرة	unwarned eXposed forces
+قُوَّة بَرِّيَّة	land power
+قُوَّة مُهِمّاتيَّة	task force
+قوة هجوم الغواصة	submarine striking force
+قَيْءٌ قَذْفِيّ	explosive vomiting
+قيادة	driving
+قيادة	Leadership
+قيادة	pilotage
+قِيادة	steering
+قيادة اقتصادية	Eco-Driving
+قيادة التكلفة	Cost Leadership
+قيادة الطائرة	pilotage
+قيادة المعاملات	Transactional Leadership
+قيادةُ المَناطيد	aerostation
+قيادة آلية للقطارات	Automatic Train Operation (ATO)
+قيادة بترخيص	permissive working; permissive driving
+قيادة بشخص واحد	single-manning
+قيادة تشغيلية	operational command
+قيادة ذاتية	Autonomous Driving
+قيادة ظرفية	Situational Leadership
+قيادة غير رسمية	Informal Leader
+قيادة مجموعة الأمم المتحدة	UN Cluster Lead
+قيادة محدِّدي المسار	pathfinder drop zone control
+قِيادةٌ يَساريَّة	left-hand drive
+قِياس	gauger
+قياس الخزان	Tank Gauging
+قياس الخزان آليّاً	Automatic Tank Gauging
+قَيسُون	caisson
+قيم الأوروبية المُستهدفة لخفض انبعاثات	European CO2 targets for new car fleets

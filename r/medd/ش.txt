@@ -1,0 +1,59 @@
+شاشٌ ماصٌّ مُعَقَّم	sterile absorbent gauze
+شاشٌ مُطَهِّر	antiseptic gauze
+شاشٌ مُعَامَلٌ بالأَدْوِيَة	medicated gauze
+شافٍ	curative
+شبكة عصبية كبسولية	Capsule Neural Network (CapsNet)
+شِبْهُ خُصْوِيَّة	testoid
+شبيكة	gauze
+شبيه الإنسولين - إنسوليناني	insolinoid
+شبيهُ الفيتامين	vitaminoid
+شجرةُ التطعيم الإدنائي	approach-graft
+شجرة الجوز المسهل	candleberry-tree
+شَحْمانيّات	steroids
+شخص أو عَقّار مهدِّئ للأعصاب	tranquilizer
+شخص يابانيّ	Nip
+شَراب	sirup (syrup)
+شراب	swats
+شَرَاب	syrup
+شَراب	syrupus
+شراب أكريلي	acrylic syrup
+شراب الأنيسون	anisette
+شَرابُ البُرْتُقال	syrupus aurantii
+شراب البيض: بيض مخفوق مع السُّكّر والحليب	eggnog
+شَرابُ الثُّوم	syrupus allii
+شراب الذرة عالي الفركتوز	high fructose corn cyrup (HFCS)
+شَرابُ السارسبريلا المُرَكَّب	syrupus sarsaparillae compositus
+شَرابُ الصَّنَوبَرِ الأَبْيَضِ	syrupus pini albae compositus cum codeina
+شَرابُ الصَّنَوبَرِ الأَبْيَضِ المُرَكَّب	syrupus pini albae compositus
+شراب الصّودا: شراب غير مُسْكر مشتملٌ على	soda pop
+شراب الغلوكوز	glucose syrup
+شراب القَيْقَب	maple syrup
+شَرابُ الكَرَز	syrupus cerasi
+شراب اللوز	orgeat
+شَرابُ توتِ العُلَّيق	syrupus rubi idaei
+شَرابٌ ساخِنٌ ومُحَلَّى	ptisan
+شَرابٌ كاذِب	sham drink
+شراب كحولي	alcoholic beverage
+شَرابٌ مُرَطِّب	soft drink
+شرابٌ مُسْكِر	strong drink
+شراب مُسْكر مُنَكَّهٌ بقِشر النارنج أو	curaçao
+شراب مُسْكِر. وبخاصة: مِزْر ale	nappy
+شَرابٌ مُصَلِّح	syrupus corrigens
+شراب. وبخاصة: كلُّ شراب غير الماء	beverage
+شَرَابَات	syrups
+شَرَى دَوائِيٌّ	urticaria medicamentosa
+شريد: لا وَطنَ أو مَسْكنَ له	homeless
+شَريطٌ لاصِقٌ مُعَقَّم	sterile adhesive plaster
+شَريطٌ لاصِقٌ مُعَقَّم	sterile adhesive tape
+شُعْبَةُ التَّخْدير	anesthesiology service
+شفى	cure
+شَكْل صَيْدَلاَنِيّ	dosage form
+شَلَلُ التَّخْدير	anesthesia paralysis
+شَلَلُ التَّخْدير	narcosis paralysis
+شَلَلُ تَعاطي المَصْلِ	serum paralysis (serum neuropathy)
+شُمَاعَة	cerate (ceratum)
+شُمَاعَة	ceratum (cerate)
+شَوط الحَقن	injection stroke
+شِيافٌ أُذُنِيّ	aurinarium
+شِيلاك	shellac
+شِينْيُوفون	chiniofon

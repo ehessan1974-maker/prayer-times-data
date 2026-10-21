@@ -1,0 +1,69 @@
+خافِضُ ضَغْطِ الدَّم	antihypertensive
+خافِضٌ لتَوِتُّرِ الأَوعِيَة	vasohypotonic (vasodilator)
+خافِضٌ لكُولِسْتِرُولِ الدَّم	anticholesteremic
+خافِضٌ لكُوليستيرولِ الدَّم	anticholesterolemic (anticholesteremic)
+خال من المضادات الحيوية	antibiotic-free
+خام مقوِّي	Spiked Crude
+خانِقُ الذِّئْب	aconite
+خِتانٌ عِلاَجِيّ	phimosiectomy
+خَدَّرَ	anesthetize
+خَدَرُ الإحْسَاسِ بالحَرَارَة	thermal anesthesia
+خَدَرُ الإحساسِ بالحَرَارَة	thermic anesthesia
+خَدَرُ التَّفارُق	dissociation anesthesia
+خَدَرُ الغَثَيان	nausea anesthesia
+خَدَرٌ انْضِغاطِيّ	compression anesthesia
+خَدَرٌ بانْقِباضِ الأَوعِيَة	angiospastic anesthesia
+خَدَرٌ بَصَرِيّ	optic anesthesia
+خَدَرٌ جِنْسِيٌّ	sexual anesthesia (anaphrodisia)
+خَدَرٌ جَورَبِيُّ التَّوَزُّع	stocking anesthesia
+خَدَرٌ حِزامِيّ	girdle anesthesia
+خَدَرٌ حَشَوِيّ	visceral anesthesia
+خَدَرٌ دِماغِيُّ المَنْشَأ	cerebral anesthesia
+خَدَرٌ ذَوقِيّ	gustatory anesthesia
+خَدَرُ رَأْسِ الدُّمْيَة	doll's head anesthesia
+خَدَرٌ رَضْحِيّ	traumatic anesthesia
+خَدَرٌ شامِل	total anesthesia
+خَدَرٌ شِقِّيّ	unilateral anesthesia (hemianesthesia)
+خَدَرٌ شِقِّيٌّ مُتَصالِب	crossed anesthesia (hemianesthesia cruciata)
+خَدَرٌ شَمِّيّ	olfactory anesthesia (anosmia)
+خَدَرٌ عَضَلِيّ	muscular anesthesia
+خَدَرٌ غَلَسِيّ	twilight anesthesia (twilight sleep)
+خَدَرٌ قِطَعِيّ	segmental anesthesia
+خَدَرٌ قُفَّازِيُّ التَّوَزُّع	gauntlet anesthesia (glove anesthesia)
+خَدَرٌ قُفَّازِيُّ التَّوَزُّع	glove anesthesia
+خَدَرٌ قُفَّازِيٌّ وَجَورَبِيُّ	glove and stocking anesthesia
+خدر كوكاييني	cocaine, anaesthesia
+خَدَرٌ لَمْسِيّ	tactile anesthesia
+خَدَرٌ مُؤْلِم	anesthesia dolorosa
+خَدَرٌ مُتَفارِق	dissociated anesthesia
+خَدَرٌ مَرْكَزِيُّ المَنْشَأ	central anesthesia
+خَدَرٌ مُفْرِطُ الحَساسِيَّة مِهَادِيِّ	thalamic hyperesthetic anesthesia
+خَدَرٌ هِيسْتيرِيّ	hysterical anesthesia
+خَدَرٌ وَجْهِيّ	facial anesthesia
+خَدَمَاتُ الطِّبِّ النَّوَوَيِّ	nuclear medicine services
+خَدَماتُ المَعْلوماتِ الدَّوَائِيَّة	drug information services
+خِدْمَةٌ صَيدَلِيَّة	pharmacy service
+خَزّان التطعيم	filter dosing chamber
+خَشائِن	gruffs
+خَشْخاش الأفيون: نبات يُتَّخذ منه الأفيون	opium poppy
+خَطُّ أنابيب	incher
+خط مقوَّى	enhanced line
+خط منسوب معدَّل الجرعة	dose rate contour line
+خَطَأٌ دَوائِيّ	drug error
+خطوط حَقْن الطين	mud injection line
+خُلاَصَةُ بَنْج الهيوسياموس	henbane extract (hyoscyamus extract)
+خُلاَصَةُ بَنْج الهيوسياموس	hyoscyamus extract
+خُلاَصَةُ غولارد	Goulard's extract (lead subacetate solution)
+خِلْطٌ عَصَبِيّ	neurohumor (neurohormone)
+خَلَلُ تَوضيعِ المُنَبِّه	dyscheiria (dyschiria)
+خَلَلُ تَوضيعِ المُنَبِّه	dyschiria
+خللية الهرمونات	dyshormonism
+خِلِّين	khellin
+خَلِيَّة «لالاند»	Lalande cell
+خلية أم اللقاح	pollen mother cell
+خلية ذات محلول الكتروليتي صلب	solid electrolyte cell
+خَلِيَّةٌ فَرْزَجِيَّة	pessary cell
+خلية لا يتسرب منها المحلول الالكتروليتي	non-spillable cell
+خَلِيَّةٌ مِحْفَظِيَّة	capsule cell
+خنتوي	monoecious
+خُنْثَى	hermaphrodite

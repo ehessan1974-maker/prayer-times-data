@@ -1,0 +1,96 @@
+داءُ الرُّبْع	quarter ill (blackleg)
+داءُ العَرَنِ السِّنِّيّ	exodontosis
+داءُ القديس آبولونيا	St. Appolonia's disease (toothache)
+داءُ القديس آفِيدوس	St. Avidus' disease (deafness)
+داءُ القديس آفيرتِين	St. Avertin's disease (epilepsy)
+داءُ القديس أنطوني	St. Anthony's disease (chorea)
+داءُ القديس إيرازْمُوس	St. Erasmus' disease (colic)
+داءُ القديس بلازيوس	St. Blasius' disease (peritonsillar abscess)
+داءُ القديس جُوب	St. Job's disease (syphilis)
+داءُ القديس جِيرفاسيُوس	St. Gervasius' disease (rheumatism)
+داءُ القديس دِيمْفنا	St. Dymphna's disease (insanity)
+داءُ القديس روش	St. Roch's disease (plague)
+داءُ القديس زاخاري	St. Zachary's disease (mutism)
+داءُ القديس سِيمنت	St. Sement's disease (syphilis)
+داءُ القديس فالنتَين	St. Valentine's disease (epilepsy)
+داءُ القديس فِياكر	St. Fiacre's disease (hemorrhoids)
+داءُ القديس ماتُوران	St. Mathurine's disease (idiocy)
+داءُ القديس مُودِيستُوس	St. Modestus'disease (chorea)
+داءُ القديس هُوبَرت	St. Hubert's disease (rabies)
+داءُ الملفَّفات	volvulosis (onchocerciasis)
+دَاءُ الهَلْوَسَةِ الحَادَّة	acute hallucinosis
+داءُ ايزامبِرت	Isambert's disease (acute laryngopharyngeal tuberculosis)
+داءُ دوبِيني	Dubini's disease (acute electric chorea)
+داءُ روبلِس	Robles' disease (onchocerciasis)
+داءُ روكِيتانِسكي	Rokitansky's disease (acute yellow liver atrophy)
+داءُ كُلاَّبِيَّةِ الذَّنَب	onchocerciasis (river blindness)
+داءُ كُلاَّبِيَّةِ الذَّنَب	onchocercosis (river blindness)
+داءُ كيركلاند	Kirkland's disease (acute pharyngitis with lymphadenitis)
+داءُ كِيمْف	Kempf's disease (acute homosexual panic)
+داءُ لاندري	Landry's disease (acute febrile polyneuritis)
+داءُ لِيبشوتس	Lipschutz's disease (ulcus vulvae acutum)
+داءُ ليختهايم	Lichtheim's disease (subacute combined degeneration of the spinal cord)
+داءُ مُوخا-هيبرمان	Mucha-Habermann disease (pityriasis lichenoides et varioliformis acuta)
+داءُ مورادو	mal morado
+داءُ هيبَرمان	Habermann's disease (pityriasis lichenoides et varioliformis acuta)
+داءُ هِيرشفيلد	Hirschfeldi1's disease (acute diabetes mellitus)
+دَاءُالهَلْوَسَةِ الكُحولِيَّةِ الحادَّة	acute alcoholic hallucinosis
+دائرة الإسناد	circle of reference
+دائِن	creditor
+داتورَة	devil's apple (stramonium)
+داخِلَ الحَجاج	intraorbital
+داخِلَ الرِّباط	intraligamentous
+دارك اللهب	flame arrester
+دافَعَ	plead
+داود النَّبيّ	the Psalmist
+دُبَيلَةٌ مَفْصِلِيَّة	empyema articuli (acute suppurative synovitis)
+دثار سني	dental lamina
+دخل الشركات الموزع	Distributed Corporations Income
+دِراسة الأثر البيئيّ ومراقبته لأنشطة	eco-audit
+دراسة الطقوس الدينية	liturgics
+دراما الإنشاد الدّيني	Liturgical drama
+دَرَجة الباب: دَرَجة أمام باب خارجيّ	doorstep
+درجة حرارة اللهب	adiabatic flame temperature
+درجة حرارة اللهب الكظوم	adiabatic flame temperature
+درجة حرارة الماء المعاد تبريده	recooled water temperature
+دَفْعَةُ القَلْب	hertzstoss
+دفق مرتد	backflow
+دفق مرتد محدود	limited backflow
+دليل أسلوب الحياة	lifestyle bible
+دَلِيلٌ سِنِّيّ	dental index
+دليل قَلْس فُتحة الرباط	hawser port
+دَليلُ نابِضِ الارتِداد	guide, recoil spring
+دوامة ترابية	dust devil
+دَودَةُ العَمَى	blinding worm (Onchocerca)
+دورة الارتداد	period of restitution
+دِيالٌ حادّ	acute dialysis
+دير	laura
+دَيْر	monastery
+دَيْر	religious house
+دَيريّ: متعلّق بالأديرة أو بحياتها	monasterial
+دَيْريّ: متعلّق بدَيْرٍ أو برئيس	abbatial
+دَيْن	debt
+دِين	religion
+دَيْن احتمالي	Potential Debt
+دَين ثابت	certain debt
+دين حق الرجوع المحدود	Limited Recourse
+دين حكومي	Government Debt
+دَين عموميّ	public debt
+دَيْن غير مضمون	Unsecured Debt
+دَيْن مُؤجَّل	Deferred Debt
+دَين متنازع فيه	litigious debt
+دَين محمول	portable debt
+دَين مستحق الأداء	exigible debt
+دَيْن مستقبلي	Future Debt
+دَيْن مشترك	Solidary Debt
+دَين مشكوك فيه	bad debt
+دَيْن مضمون	secured debt
+دَين مضمون برهن حيازيّ	pledged debt
+دَين مضمون برهن عقاريّ	mortgage debt
+دَين مطلوب	demandable debt
+دَيْنٌ مَعدوم	bad debt
+دَيْنٌ معدوم أو هالك	bad debt
+دَيْن معلق على شرط	Conditional Debt
+دَيْن ممتاز	preferential debt
+دَيْن ممتاز	privileged debt
+دَين واجب الأداء	due debt

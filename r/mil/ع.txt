@@ -1,0 +1,177 @@
+عائق مضاد للدبابات	antitank obstacle
+عائِليّ	familial
+عامل التعبئة	packing fraction (of a fibre bundle)
+عامِلُ التعبِئة	stowage factor
+عامِلُ التَّوْظِيْفِ	recruitment factor (lymphocyte transforming factor)
+عامِلُ تَحْميل	loader
+عامِلُ تَطريق	striker
+عبور الرَّاجِلين	pedestrian crossing
+عجلة	wheel
+عَجَلَة القيادة	driving wheel
+عَجَلَةُ القِيادة	steering wheel
+عجلة القيادة	steering wheel (rod)
+عَجَلةُ القيادة	wheel, steering
+عجلة قيادة جلدية	leather steering wheel
+عجلة قيادة خشبية	wooden steering wheel
+عجلة قيادة رياضية	sport type steering wheel
+عجلة قيادة مُقعَّرة	dished steering wheel
+عدد	occupation number
+عدد الانشغال	occupation number
+عدَّة غيار التأهب للحرب	war-readiness spares kit
+عُدْوان	aggression
+عُدْوانٌ إحْلالِيّ	displaced aggression
+عُدْوانٌ بَنَّاء	constructive aggression
+عُدْوانٌ تَخْريبِيّ	destructive aggression
+عُدْوانٌ مُوَجَّهٌ للذَّات	inward aggression
+عُدْوانيّ	offensive
+عرَباتُ صِهْريج	cars, tank
+عَرَبَة التحكم	control car
+عَرَبة القنابل	bomb trolley
+عَرَبَة القِيَادَة	power car
+عَرَبةٌ صِهريج	tank car
+عَرَبَةٌ صِهريج	tank wagon
+عَرَبَة صهريج عالية السًّعَة	high capacity tank coach
+عربة صهريجية	tank car
+عَرَبَةُ مِدْفَع	gun-carriage
+عربة مدفعية	artillery bogie
+عرض أفخاذ أسنان التروس	tooth flank width
+عرض أو استعراض للسِّلاح	wappenschawing
+عَرْض عسكريّ	dress parade
+عَرَّةٌ مِهْنِيَّة	occupation tic
+عروس الحرب: امرأة تزوّجت جنديًّا خلال	war bride
+عَزَّز	boost
+عزم القيادة	drive torque
+عَسَس جوي قتالي حول الهدف	target combat air patrol, target CAP
+عَسْكَريّ	martial
+عسكري	MIL
+عَسْكريًا	militarily
+عُشْر العِياريّ	decinormal
+عصا التطويع	bossing stick
+عصا القيادة	control stick; joystick
+عصا تنظيف ماسورة المِدفع	artillery cleaning staff
+عُصابُ الحَرْب	war neurosis
+عُصابُ المَعْرَكَة	combat neurosis
+عُصابٌ دِفاعِيّ	defense neurosis
+عُصابٌ نَفْسِيٌّ دِفاعِيّ	defense psychoneurosis
+عُصارة	sap
+عِصْيان	insubordination
+عِصيان	insurgence|insurgency
+عِصْيان	mutiny
+عَظْمُ الخاصِرَة	flank bone (os iliium)
+عَظْمُ الفُرْسان	cavalry bone (rider's bone)
+عَظْمُ الفُرْسان	rider's bone
+عُقدة السَّيف: عقدة زِينيّة عند مَقْبِض	sword knot
+عقيد	bird colonel
+عَقيد	colonel
+عُقَيدات	noduli [sing.nodulus]
+عُقَيْداتُ أرانتيوس	nodules of Arantius (noduli valvularum semilunarium)
+عُقَيْداتُ آشوف	Aschoff's nodules (Aschoff's bodies)
+عُقَيْداتُ أَلْبينِي	Albini's nodules
+عقيدات التأشُّب	recombination nodules
+عُقَيْداتُ الحَلاَّبين	milkers' nodules
+عُقَيداتُ السَّرَّافين	surfers' knots
+عُقَيْداتُ السَّرَّافين	surfers' nodules
+عُقَيْداتُ السِّمْحاق	periosteal nodules
+عُقَيْداتُ الصِّمامِ الأَبْهَرِيّ	nodules of aortic valve
+عُقَيْداتُ الصِّمامِ الأَبْهَرِيّ	noduli valvularum aortae NA
+عُقَيْداتُ الصِّمامِ الهِلالي	noduli valvularum semilunarium
+عُقَيْداتُ الصِّمامِ الهِلاَلِيّ	noduli valvularum semilunarium (ventriculi dextri)
+عُقَيْداتُ الصِّمامِ الهِلاَلِيّ	noduli valvularum semilunarium NA
+عُقَيداتُ الطِّحال اللِّمْفاوِيَّة	lymphonoduli splenic
+عُقَيْداتُ القِشْرَة	cortical nodules
+عُقَيْداتُ الوُعَّاظ	preachers' nodules
+عُقَيْداتٌ أَوَّلِيَّة	primary nodules
+عُقَيْداتُ باترسون	Paterson's nodule (molluscum bodies)
+عُقَيْداتُ بوساكا	Busacca nodules
+عُقَيْداتُ بون	Bohn nodules
+عُقَيْداتُ بيانكي بون	Bianchi- Bohn's nodule (aortic valve nodules)
+عُقَيْداتٌ تِبْغِيَّة	tabac nodules (Gamna nodules)
+عُقَيْداتُ جانسيلم	Jeanselme's nodules
+عُقَيْداتٌ حُدادِيَّة	siderotic nodules
+عُقَيْداتُ دالِن-فُوكس	Dalen-Fuchs nodules
+عُقَيْداتٌ روماتزمية	rheumatic nodules
+عُقَيْداتُ صِماماتِ الجِذْعِ الرِّئَوِيّ	nodules of pulmonary trunk valves
+عُقَيْداتُ غامنْا	Gamna nodules
+عُقَيْداتُ غاندي-غامنا	Gandy-Gamna nodules
+عُقَيْداتُ فرينكل	Fraenkel's nodules
+عُقَيْداتُ كروفيلييه	Cruveilhier's nodules (Albini's nodules)
+عُقَيْداتُ كوبِّه	Koeppe nodules
+عُقَيْداتُ كيركرينغ	nodules of Kerckring (aortic valve nodules)
+عُقَيداتٌ لِمْفِيَّة	lymphonoduli [sing.lymphonodulus]
+عُقَيْداتُ لوتز جانسليم	Lutz-Jeanselme nodules (juxta-articular nodules)
+عُقَيْداتُ ليشمان	Leishman's nodules
+عُقَيْداتُ مالبيغي	malpighian nodules (folliculi lymphatici splenici)
+عُقَيْداتٌ مُجاوِرَةٌ للمَفْصِل	juxta-articular nodules
+عُقَيْداتٌ مُكَدَّسة	aggregate nodules (folliculi lymphatici aggregati)
+عُقَيْداتُ مورغاني	Morgagni's nodules (aortic valve nodules)
+عُقَيْداتُ هُلاَمِ التُّفَّاح	apple jelly nodules
+عُقَيْداتُ هوبوكين	Hoboken's nodules
+عُقَيْدَة	nodulus NA [pl.noduli]
+عُقَيدَةٌ لِمْفِيَّة	lymphonodulus [pl.lymphonoduli]
+عُقَيْديّ	nodulose
+علاقة المورد الاستراتيجي	Strategic Supplier Relationship
+عَلاماتُ زحْفِ المَوج	swash marks
+علامات كعوب الملازم	collating mark
+علامة الزحف	creep marker
+عَلاَمَةُ انْسِحابِ الذَّقْن	chin-retraction sign
+عَلاَمَةُ باتل	Battle's sign
+عَلاَمَةُ بروناتي	Brunati's sign
+عَلاَمَةُ بيرتون	Burton's sign
+عَلاَمَةُ فَيَضانِ الصِّهْريج	flush-tank sign
+عَلاَمَةُ هيومان	Human's sign (chin retraction sign)
+عُلبة التحَكُّم	box, control
+عُلبة التعبئة	box, packing
+عَلَم البحرية	naval flag
+عِلْم الطيَران البَحْري	naval aeronautics
+علم وصناعة الصواريخ النارية	pyrotechnics
+عِلمُ وصِناعةُ الصواريخ والألعاب الناريَّة	pyrotechnics = pyrotechny
+على أشدّ الخصام	at sword 's points
+على قدم الاستعداد للحرب	on a war footing
+عُمْق الخندق	trench depth
+عمليات قوات متنقلة جواً	air mobile operations
+عمليات كسح الألغام	minesweeping operation
+عملية التحكم المغلق	control
+عَمُود الإدارة	joystick = control column
+عَمودُ التعبئَة	stock column
+عَمُود القيادة	control column
+عمود القيادة	drive shaft
+عمود القيادة	steering column
+عمود حفر مُسدَّس	hexagonel kelly
+عمود قيادة أجوف	hollow drive shaft
+عَميد	brigadier = brigadier general
+عميد	brigadier general
+عَميدٌ بَحريّ	rear admiral
+عناصر استراتيجية	Strategic Items
+عنف منـزليّ	domestic violence
+عنوان الصاروخ	Missile address
+عِيار	caliber
+عيار	caliber; calibre
+عيار	calibre
+عيار	calibre; gauge
+عِيار	gage (gauge)
+عيار	Lorentz gauge
+عيار	standard
+عِيار	titer
+عِيَار	titer (or titre)
+عيار	titer (titre)
+عيار	titre
+عِيار	titre (titer)
+عيار اسمي	nominal linear density / nominal titre
+عيار إسمي	nominal titre
+عِيارُ التَّراصّ	agglutination titer
+عيار الذهب	fineness of gold
+عيار الشريط	sliver fineness / sliver weight / sliver count
+عيار المرشِّح المطلق	absolute filter rating
+عيار انتاج الحقل	field gauger
+عيار إنجليزي	English number (Ne)
+عِيارٌ حَجْمي	titre = titer
+عيار دينر	Turin titre
+عيار فرنسي	French number (Nf)
+عيار قانوني	legal titre
+عِيارُ كامِلِ المُتَمِّمَة	whole complement titer
+عِيارٌ مِكْرَوِيّ	microtiter
+عِيارٌ مُولِيّ لِبُخارِ الماء	mole fraction of the water vapour (Nv)
+عِيّارٌ مُولِيَّ لِبُخارِ الماء المُشْبع	mole fraction of saturation water vapour of moist air with respect to ice (Nvi)
+عَيْب التَّعْبِئَة	packaging defect
+عينات اختبار من قعور الخزانات	coupons of tank bottoms
+عينات الخزان	Tank Sampling

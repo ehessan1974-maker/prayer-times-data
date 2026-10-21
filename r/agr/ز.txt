@@ -1,0 +1,190 @@
+زارع الخمر: مَنْ يزرع الكَرْمة ويصنع منها	winegrower
+زاويةُ السَّفّ	grazing angle
+زاوية كشط	grazing angle
+زِبْلٌ	manure
+زُحارُ المَواشِي المُزْمِن	chronic dysentery of cattle
+زَحْفُ التُّربة	earth creep
+زحف التربة	earth-flow
+زحف التربة	Soil Creep
+زَحْفُ التُّربة	soil creep
+زحف التربة	soil creep (heave)
+زحف تدريجي للتربة	solifluction
+زَحْلُ التُّربة	solifluction
+زَحْلُ التُّربة	solifluction (or solifluxion)
+زراعات زيتية	oilseed crops
+زِراعة	agriculture
+زِراعة	cultivation
+زراعة	Cultivation / culture
+زِراعة	farming
+زِرَاعة	husbandry
+زراعة	wetland agriculture
+زراعة أحادية	monoculture
+زراعة أراضي المُستنقعات	wetland cultivation
+زراعة الأحراج	silviculture
+زِراعة الأشْجَار	arboriculture
+زراعة الأنسجة	tissue culture
+زراعة البصل	bulb-growing
+زراعة الحَمْضيّات	citriculture
+زراعة الخُضَر	olericulture
+زراعة الغابات	silviculture (silvicultural)
+زراعة الغام	minelayer
+زراعة الكروم	vine-culture; vine-growing
+زراعة الكروم	viniculture
+زراعة الكفاف	subsistence farming
+زراعة الكمء	truffle-growing
+زراعة المحاصيل الحقلية	arviculture
+زِراعةُ المُدَرَّجات	terrace cultivation
+زراعة المناطق الحضرية وشبه الحضرية	urban and peri-urban agriculture
+زراعة ايكولوجية	ecoagriculture
+زراعة ايونات	ion implantation
+زراعة بكثافة أدنى	underplanting
+زراعة تحضيرية	mounding
+زراعة تعاقدية	contract farming
+زراعة تقليدية	conventional agriculture
+زراعة جافة	dry farming
+زراعة حيوية; زراعة بيولوجية	organic agriculture (oa), biological farming
+زراعة دفيئة	glass-culture
+زراعة دينامية بيولوجية	biodynamic
+زراعة سليمة بيئياً	environmentally friendly agriculture
+زِراعةٌ سَمْقيَّة	contour farming
+زراعة صناعية	factory farming
+زراعة عضوية	organic agriculture
+زراعة عضوية غير مصدقة	non-certified organic agriculture
+زراعة عضوية للقُطن	organic cotton growing
+زراعة عضوية مصدقة	certified organic agriculture
+زراعة عيدان القصب	planting of reeds
+زراعة غابوية	agroforestry
+زِراعةٌ كَثيفة	intensive agriculture
+زراعة كثيفة المعرفة	knowledge-intensive farming
+زراعة كثيفة قصيرة الدورة	short rotation intensive culture (SRIC)
+زِراعَةٌ مائِيَّة	hydroponics
+زراعة مترافقة	companion planting
+زراعةُ مُتَّسعة	extensive farming
+زِراعةٌ مُتنَقِّلَة	shifting cultivation
+زراعة محافظة على الموارد	conservation agriculture
+زراعة مختلطة	mixed cropping
+زراعة مزدوجة	double cropping
+زراعة مسؤولة	responsible agriculture
+زراعة مستدامة	sustainable agriculture
+زراعة مستدامة وتنمية ريفية مستدامة	sustainable agriculture and rural development (sard)
+زراعة مطرية	rain-fed agriculture
+زراعة معمرة	permaculture
+زراعة مقحمة	intercropping
+زراعة مكثفة	intensive cropping
+زراعة مكثفة	intensive culture
+زِرَاعَة مُوَهَّنَة	attenuated cultivation
+زراعة واسعة	extensive culture
+زراعة واسعة النطاق	extensive cropping
+زراعة وحراجة وغيرها من استخدامات الأراضي	afolu (agriculture, forestry and other land uses)
+زراعي	agrarian
+زراعي	agronomic
+زراعي التكوين	cultigen
+زراعي غابوي رعوي	agro-sylvo-pastoral
+زِراعيّ: خاصّ بالزراعة أو ذو علاقة بها	agricultural
+زَرْع	culture
+زرع	implant (radioactive)
+زَرْعٌ	transplantation
+زَرْعٌ إِسْوِيّ	isotransplantation
+زَرْعٌ إِسْوِيّ	syngeneic transplantation
+زَرْعٌ إِسْوِيّ	syngenesioplastic transplantation
+زرعٌ اصطفائي	elective culture
+زَرْعُ الأَسْنان	tooth implantation
+زَرْعُ الأَعْضاء	organ culture
+زَرْعُ الألغام	mine laying
+زَرْعُ الأنسِجَة	tissue culture
+زَرْعُ الأيونات	ion implantation
+زرع البذور	sown
+زَرْعُ البَنكرِياس	pancreas transplantation
+زَرْعُ الجَراثيم	germiculture
+زَرْعُ الخَلايا القَيحِيَّةِ الحَيَّة	biopyoculture
+زَرْع الدَّم	hemoculture
+زَرْعُ السِّنّ	tooth transplantation
+زَرْعُ الطُعْم الخَيْفِيّ	allotransplantation
+زرع العلم	Planting The Flag
+زرع ألغام محوري	axial mining
+زَرْعُ القَرْنِيَّة	corneal transplantation
+زَرْعُ القَلْب	heart transplantation
+زَرْعُ الكُلْيَة	renal transplantation
+زَرْعُ الوَتَر	tendon transplantation
+زَرْعٌ تَسَانُجِيّ	syngenesiotransplantation
+زرع حجمى	volume implant
+زَرْع خَلاَيَا مُتَغَايِرَة الصِّيغَة	heteroploid cell culture
+زَرْعٌ خَيْفِيٌّ	allogeneic transplantation
+زَرْعٌ ذاتِيّ	autoplastic transplantation
+زَرْعٌ ذاتِيُّ المَنْشَأ	autotransplantation
+زَرْعٌ سَطْحِيّ	surface culture
+زَرْعٌ عَظْمِيٌّ مِثْلِيّ	homeo-osteoplasty
+زَرْعٌ غَيْرَوِيّ	heteroplasty (heterotransplantation)
+زَرْعٌ غَيرَوِيّ	heterotopic transplantation
+زَرْعٌ غَيْرَوِيّ	heterotransplantation
+زرع غيري	heteroplastid = heterotransplantation
+زرع غيري	heterotransplantation = heteroplastid = xenograft
+زرع قوقعة الأذن	cochlear implant
+زَرْعٌ كَمِّيُّ	quantitative culture
+زرع مباشر	direct drilling
+زَرْعٌ مُتَواصِل	continuous cropping
+زَرْعٌ مِثْلِيّ	homeotransplantation
+زَرْعٌ مِثْلِيّ	homotopic transplantation
+زَرْعٌ مِثْلِيّ	orthotopic transplantation
+زَرْعٌ مُجَزَّأ	fractional culture
+زرع مستوى	planar implant
+زرع نسيجي	interpolation
+زَرعٌ نَقي	axenic culture
+زرعة أدمية	graft, dermal = dermic graft
+زرعة البشرة	graft, epidermic
+زرعة التثقيف البيولوجي	bio-educational farm
+زرعة جلدية	graft, skin
+زرعة ذاتية	graft, autodermic = autoepidermic graft = autogeno
+زرعة سمحاقية	graft, periosteal
+زرعة عظمية	graft, bone
+زرعة مثلية	graft, allogeneic = homoplastic graft
+زرعة مثلية	graft, homoplastic = allogenic graft
+زَرُوع	arable
+زَريعة	plantation
+زريعة	seed-corn
+زَغِب	pubescent
+زمن ارتفاع النبضة	pulse rise time
+زمن اضمحلال	decay time (of a pulse); fall time (of a pulse)
+زَمَنُ اضمِحْلال النَّبْضة	pulse decay time
+زمن النبضة	pulse duration
+زمن صعود	rise time (of a pulse)
+زَمَنُ صُعود النَّبْضة	pulse rise time
+زَمَنُ عَودِ امْتِلاَءِ الشُّعَيرات	capillary refill time
+زمن نبضة التوصيل	pulse on time
+زمن نبضة الفصل	pulse off time
+زَمَنُ هُبوط النَّبْضة	pulse fall time
+زِهارَة	floriculture
+زِهاريّ: خاصٌّ بالزِّهارة	floricultural
+زهرة العطاس	mountain tobacco
+زهرة القَشّ	straw flower
+زيتُ	soya (or soybean) oil
+زيت الذرة	maize oil
+زَيتُ الزيتون	oil, olive
+زَيتُ الزَّيتون	olive oil
+زَيتُ السِّمْسِم	gingilli oil (sesame oil)
+زيتُ السِّمسِم	sesame oil
+زَيتُ السِّمْسِم	teel oil (sesame oil)
+زَيتُ الشَّلْجَم	rape-seed oil
+زيت القطن	cotton oil
+زَيْتُ القُطْن	cotton oil = cottonseed oil
+زَيتُ القُطْن	oleum gossypii seminis (cotton seed oil)
+زَيتُ النخيل	palm oil
+زيت بذر الكرفس	celery seed oil
+زيت بذور اللفت	rape-seed oil
+زَيتُ بِزْرِ الخَشْخَاش	poppy-seed oil
+زَيتُ بِزْرِ القُطْن	cotton seed oil
+زَيتُ بِزْرِ القُطُن	cottonseed oil
+زَيْتُ بِزْر النعناع	perilla oil
+زيتُ بزُور العِنَب	grape-seed oil
+زَيتُ بِين	Benne oil (sesame oil)
+زَيتُ جَوزِ النَّخيل	palm oil
+زَيتٌ سَرِيْعُ الجَفافِ	drying oil
+زَيتٌ سَريع الجَفاف	quick-drying oil
+زيتٌ مُبيدٌ للأعشاب	herbicidal oil
+زَيتٌ مُبيدٌ لِلحَشَرات	insect oil
+زَيتون	olive
+زَيتونُ الشبرم	spurge olive (mezereum)
+زَيتونَة	olive
+زير الحصاد	harvest-fly
+زِيز	cicada
+زيز الحصاد	cicada

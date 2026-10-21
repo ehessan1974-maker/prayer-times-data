@@ -1,0 +1,92 @@
+فئة التربة	soil series / soil class
+فئة تربة	soil class
+فئة فرعية للقدرة	capability subclass (soil)
+فا raise. وبخاصة: الزارع	raiser
+فائدة الصرف	drainage benefit
+فأر المروج	meadow mouse
+فارز النبضات	pulse sorter
+فاصل النبضات	pulse interval; pulse separator
+فاصل مائيّ	drainage divide
+فاصل نبضات متزامنة	synchronization pulse separator
+فاقِد الريّ	irrigation loss
+فَتْحُ القَوْلُون بطَرِيْق القَطَن	lumbocolotomy
+فَتحة التصريف	aperture for drainage
+فترة الدور	irrigation interval
+فترة انتشار حبوب اللقاح	pollen times
+فَتْرةُ تردُّدِ التكرارِ النَّبْضي	pulse repetition period
+فترة تكرار الصوت	pulse-repetition period, acoustic repetition period
+فَترةُ جَفاف	dry spell
+فَتْرةُ رُكُودٍ أو هُمود	involution period
+فحص محتوى الغبار والمخلفات بالقطن	Measurement of dust and trash content
+فحمٌ دقيق	rice coal
+فحم شعيري	barley coal
+فَحْم مُنكشِف	crop coal
+فحومة القطن	cotton anthracnose
+فَرّازة قُرصية	disc separator
+فراشة القطن	agrostis ypsilon
+فرد الدّهن	paint-sprayer
+فرز الشعيرات المتشابكة	contracting stitching
+فِرْشاةُ القُطْنِ الصُّوفِيّ	cotton flannel brush
+فِرشاةٌ دقيقة صَلْبَةُ الشُّعيرات	fitch
+فِرْشاةُ غَزْلِ القُطْن	cotton yarn brush
+فرط الإلبان	hypergalactia = hypergalactosis
+فرط الإلبان	hypergalactosis = hypergalactia
+فَرْطُ الإِلْبان	hyperlactation
+فَرْطُ الإِلْبان	superlactation
+فَرْطُ التّطْعِيْم	hypervaccination (hyperimmunization)
+فُرْفُرِيَّةٌ حَلَقِيَّةٌ مُتَوَسِّعَةُ	purpura annularis telangiectodes
+فُرْفُرِيَّةُ مايوكي	Majocchi's purpura (purpura annularis telangiectodes)
+فُسَيْفِساء التَّبغ: مرضٌ فيروسيّ يصيب	tobacco mosaic
+فصفصة	heart-clover
+فصفصة	lucerne
+فصفصة صغيرة	hop-clover
+فِصَّة	alfalfa
+فِصَّة	lucern = alfalfa
+فصيلة الثمار الأدمية	Dermatocarpaceae
+فصيلة الثمار ثنائية الجناح	Dipterocarpaceae
+فصيلة الدرّاسات	Alopiidae
+فصيلة مبيدات الأزهار	Anthicidae
+فطام - وقف الألبان	delactation
+فعل الصقيع على التربة	frost action
+فَغْرُ القَوْلُون بطَرِيْق القَطَن	lumbocolostomy
+فقدان رجعي للتربة	reversible loss of soil
+فَقْرُ الدَّمِ الانْحِلالِيُّ النَّاجِمُ	microangiopathic hemolytic anemia
+فَقْرُ الدَّمِ المِنْجَلِيّ	drepanocytic anemia (sickle cell anemia)
+فَقْرُ الدَّمِ المِنْجَلِيّ	sickle cell anemia
+فقر الدم المنجليّ	sickle cell anemia; sicklemia
+فقر الدَّم المِنجليّ	sickle-cell anemia
+فَقْرُ الدَّمِ المِنْجَلِيّ	sicklemia (sickle cell anemia)
+فَقْرُ الدَّمِ الهِلاَلِيُّ الخَلايا	crescent cell anemia (sickle cell anemia)
+فك الشفره	decoding (in pulse code modulation)
+فلّاح	ryot
+فَلاَّح	tiller
+فلّاح نِصف حُرّ	villein
+فِلاحة	culture
+فلاحة البساتين	gardening
+فلاحة مكثفة	intensive agriculture
+فلتر موزِّع	travelling sprinkler
+فَلَحَ	cultivate
+فُلفل	allspice
+فلُورِيـد الكُرُوم	chromic fluoride
+فَمٌ مُتَقَطِّن	cotton mouth
+فِناء	garth
+فِناء الماشية. وبخاصّة: فِناء مؤقَّت	stockyard
+فِناء المزرعة	farmyard
+فَوَرَان	zeiosis
+فوق عُصافة التشويش	up-chaff
+فولُ الصُّوْيَا	soybean
+فُولاذُ النيكل والكروم	nickel-chromium steel
+فولاذ بالنيكل و الكروم	nickel-chromium steel
+فولاذ كروم - فناديوم	chromium-vanadium steel
+فولاذ كروم - موليبدن	chromium molybdenum steel
+فولاذ محسن عالي الجودة لأسلاك الرفع	improved plow steel
+فولَةُ كالابار	Calabar bean
+فولَةُ كالابار	ordeal bean (Calabar bean)
+فون: أحد آلهة الحقول والقطعان عند الرومان	faun
+فُوَّهَةُ سَقْي	priming nozzle
+في المرعى	at feed
+في سعة	in clover
+فيرتيلايزين	fertilizin
+فِيرتِيلِيزين	fertilizin
+َفْيروسُ فُسَيْفِسَاءِ التَّبَغ	tobacco mosaic virus
+فيضان مطري	drainage flood

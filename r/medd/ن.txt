@@ -1,0 +1,147 @@
+نابْروكْسول	naproxol
+نابْروكْسين	naproxen
+نابِيدْرُوكْس	nabidrox
+نابِيلُون	nabilone
+نابيلِّين	napelline
+ناتامَيسِين	natamycin
+ناتِجٌ صَيدَلاَنِيّ	pharmaceutical product
+ناجِمَة	cion = scion
+نادُولُول	nadolol
+نادِيد	nadide
+ناراسين	narasin
+نارانول	naranol
+نارسين	narcein
+ناركوتولين	narcotoline
+نافازولين	naphazoline
+نافْرُونِيل	nafronyl
+نافْسِيلِّين	nafcillin
+نافُوكْسيدين	nafoxidine
+نافُومين	nafomine
+نافِينوبِين	nafenopin
+ناقص الهرمونات	hypohormonal = hypohormonic
+ناقص الهرمونات	hypohormonic = hypohormonal
+نالْبوفين	nalbuphine
+نالْترِيكْسون	naltrexone
+نالْمِيكْسون	nalmexone
+نالورْفِين	nalorphine
+نالوكْسون	naloxone
+نِتْرازيبام	nitrazepam
+نِتْراميزول	nitramisole
+نِتْروبْروسيد	nitroprusside
+نِتْروسِيكْلين	nitrocycline
+نِتْروغِليسِرين	nitroglycerin
+نِتْروفورازُون	nitrofurazone
+نِتْروفُوران	nitrofuran
+نِتْروفُورانْتُوين	nitrofurantoin
+نِتْروميرْسول	nitromersol
+نُدْفَةُ الذّوُفانِ-ضِدِّ الذِّيْفان	toxoid-antitoxin floccule
+نَربيجٌ مُقَوًّى بالأسلاك	wire-bound hose
+نُزُل الطريق: نادٍ أو ملهًى ليليّ يقدِّم	roadhouse
+نُسالَة	charpie (lint)
+نسبة التلقيح الثلاثي	D.P.T. Vaccination Ratio
+نسبة الحقن	injection ratio
+نِسْتاتين	nystatin
+نسيج أطلس مُقوّى	satin weave / strengthened
+نسيج مقوى	renforcé
+نَصْح دَوَائِيّ	drug counseling
+نضيدة مشحونة تم تفريغها من المحلول	drained charged battery
+نَضيض	lixivium
+نظام أفواردوبْوا: نظامٌ من الموازين	avoirdupois weight
+نظام التحكم الإلكتروني في حقن وقود ديزل	electronic diesel injection control
+نظام الحقن الإلكتروني المُستقيم	electronic inline injection system (ERE)
+نظام الحقن الإلكتروني لوقود ديزل بالضغط	electronic high-pressure diesel injection system (EHD)
+نظام الحقن الكهروميكانيكي المُستمر 'كى إي	continuous injection system with electronic control (KE-Jetronic)
+نظام الحقن المركزي	one-point injection
+نظام الحقن المركزي Multec	Multec single point injection
+نظام الحقن الميكانيكي المُستمر 'كى	continuous mechanical injection (K-Jetronic)
+نظام الحقن في ماسورة السحب	indirect fuel injection
+نظام حقن الخط المشترك	fuel system common rail injection
+نظام حقن المساق المشترك لمحركات ديزل	common rail injection system for diesel engines
+نظام حقن المُوزّع المحكوم إلكترونياً	electronic distributor injection system (EVE)
+نظام حقن الهواء	air injection system
+نظام حقن الوقود متعدد النقاط	multi point fuel injection system
+نظام حقن مباشر	direct injection
+نِظامُ قِياسِ الجُرْعات	dosimetric system
+نظرية القطرة - المنفلقة	breaking-drop theory
+نظرية تحطيم القطرة	breaking-drop theory
+نَظيرُ الهُرْمون	parahormone
+نَفْثول	naphthol
+نَفْخٌ داخِلَ الرُّغامَى	endotracheal insufflation (insufflation anesthesia)
+نَقْصُ الأَندروجينيَّة	hypoandrogenism
+نَقْصُ الأَنْسولين	insulinopenia
+نَقْصُ الأَنْسُولِينيَّة	hypoinsulinism
+نَقْصُ التَّنَسُّجِ بعَوَزِ الفيتامين	vitamin deficiency hypoplasia
+نَقْصُ المُوَجِّهَةِ الجَسَدِيَّة	hyposomatotropism
+نقصُ الهرمونِ المُلَوْتِن في الدَّم	hypolutemia
+نَقْصُ أَنسولينِ الدَّم	hypoinsulinemia
+نقطة الإدخال	injection point
+نقطة مُعايَرة الجرعات	dosing point; dosing station
+نَمِل	numb
+نموذج القطرة للنواة	drop model of nucleus
+نموذج القطرة للنواة	nuclear drop-model
+نموذج قطرة السائل	liquid drop model
+نهاية الحقن	end of injection
+نَوَاةُ مَضْغُوطَةٍ	tablet core
+نوتْراميسين	neutramycin
+نُورْترِيبْتِيلين	nortriptyline
+نُورْسَلْفازول	norsulfazole
+نُورْسُودُوإيفيدْرين	norpseudoephedrine
+نُورْفلُوران	norflurane
+نُورْفلُوكْساسين	norfloxacin
+نُورُودين	neurodin
+نُورِيثانْدرُولُون	norethandrolone
+نوريثيستيرون	norethisterone
+نُوريثيندرون	norethindrone
+نُوريثِينودْريل	norethynodrel
+نُوزيهيبْتِيد	nosiheptide
+نُوسْكابين	noscapine
+نُوغالاميسين	nogalamycin
+نوفوبيوسين	cardelmycin (novobiocin)
+نوفُوبَيُوسين	novobiocin
+نُوكارْدين	nocardin
+نولينيُوم	nolinium
+نُوميفينْزين	nomifensine
+نياسين	nyacyne (neomycin)
+نِيالامِيد	nialamide
+نيبايين	naepaine
+نيبرامَيسين	nebramycin
+نِيبْروكْسان	nibroxane
+نيبولارين	nebularine
+نيبيريت	niperyt
+نِيتِيلميسين	netilmicin
+نِيثالِيد	nethalide
+نِيثِياميد	nithiamide
+نيريدازول	niridazole
+نيزاتيدين	nizatidine
+نيزبُوتِيرُول	nisbuterol
+نِيزُوبامات	nisobamate
+نِيزوكْسِيتين	nisoxetine
+نيسِيرغُولين	nicergoline
+نِيسِين	nisin
+نيفازُول	nivazol
+نِيفُوبام	nefopam
+نيفوراتون	nifuratone
+نِيفوراتيل	nifuratel
+نيفُورادين	nifuradene
+نيفورْبِيرينول	nifurpirinol
+نِيفوردازِيل	nifurdazil
+نيفورْسُول	nifursol
+نيفورْسيمِيزون	nifursemizone
+نيفُورْميرون	nifurmerone
+نيفُورُوكْسيم	nifuroxime
+نيفوريميد	nifurimide
+نيفُونْجين	nifungin
+نِيفِيدِيبِين	nifedipine
+نيفِيمِيدُون	nivimedone
+نيكارديبين	nicardipine
+نِيكْسِيرِيدِين	nexeridine
+نِيكْلوزاميد	niclosamide
+نِيكُومالُون	nicoumalone
+نِيكُوِينات	nequinate
+نيكِيثاميد	nikethamide
+نِيليدرين	nylidrin
+نيمازون	nimazone
+نيوآرْسفينامين	neoarsphenamine
+نيوجيرْمِيتْرِين	neogermitrine
+نيوستيغْمين	neostigmine
+نيوسِينْكوفين	neocinchophen

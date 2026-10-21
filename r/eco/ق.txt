@@ -1,0 +1,172 @@
+قائمُ الدَّرَجَة	riser
+قائمة الأسعار	price list
+قائمة البضائع	cargo manifest
+قابِلٌ للاِنْكِماش	retractile
+قابِلٌ للتشكيل	workable
+قابلية الانكماش أثناء الصقل	shrinkage behavior
+قابِليَّة التَّحَوُّل أو التَّحويل	convertibility
+قابلية التدقيق	Audit Ability
+قارئ الأصول: محرر في دار للنشر يقرأ	copyreader
+قارب التموين: قارب لبَيْع المؤن والسّلع	bumboat
+قَاطَعَ	boycott
+قاطع برصف ومساحات	bank-and-wiper switch
+قاعِدةُ الذَّهَب	gold standard
+قاعِدَةُ عَظْمِ العَجُز	basis ossis sacri NA
+قالَبُ التَّكْسِيَة	investment cast
+قالَبٌ حَرون	refractory cast (investment cast)
+قالَبُ سَكِّ العُملة	coining die
+قانون	banking law
+قانون	commercial law; commercial code
+قانون	financial law
+قانُونُ استِهْلاكِ الطاقَةِ الثَّابِت	law of constant energy consumption
+قانون اقتصاد الطاقة	energy industry act
+قانون اقتصاد الطاقة	energy saving Act
+قانون الأسهم: قانون مُنَظِّم لبيع الأسهم	blue-sky law
+قانون التجارة البحرية	maritime commercial law
+قانون الشركات	companies act; corporations law
+قانون الغرامة المالية	administrative fines provision
+قانون اللوائح الاقتصادية الجديدة	new economic regulations act
+قانون المستهلِك	consumer law
+قانون إنشاء صندوق للاستثمار 'صندوق الطاقة	law establishing an Investment Fund 'Energy and Climate Fund'
+قانون تسريع توسيع الشبكة	Grid Expansion Acceleration Act (entry into force 28.07.2011)
+قانون تناقص الغَلّة: قانون يقول بأن زيادة	diminishing returns, law of
+قانون جبائيّ	tax law; fiscal law
+قانون رسوم البترول	Oil tax law
+قانون ضريبة الطاقة	energy tax act
+قانون ضريبة الكهرباء	electricity tax act (StromStG)
+قانون غريشام: «قانون» اقتصاديّ يقول «إن	Gresham's law
+قبولية الدخل الفعّالة	effective input admittance
+قبولية معاوقة دخل	input immittance; driving-point immittance
+قَتْل الأصول	parricide
+قُدرَةُ الدَّخْل	input power
+قدرة الدخل	input power (of a machine)
+قدرة الدخل الإسمية القصوى	maximum rated input power
+قدرة الدخل الاعتبارية	rated input power
+قدرة تصديرية	export capacity
+قدرة دخل	input power
+قدرة دخل الشبكة	grid input power; grid driving power
+قدرة دخل المصعد	anode input power
+قدرة مقننة لدارة الدخل	rated power of the input circuit
+قُراراتٌ غَوْريَّة	abyssal deposits
+قُراراتٌ مُؤلَّفة	composite deposits
+قُراراتٌ مُتَوسِّطةُ الحَرارة	mesothermal deposits
+قُراراتٌ مَكانيَّةُ النشأة	autochthonous deposits
+قُراراتٌ نَهريَّة	potamogenic deposits
+قُرارتٌ مَجروفة	drift deposits
+قُرارةٌ	reguline (deposit)
+قُرارة	sandy deposit
+قُرارةٌ إشعاعية	radioactive deposit
+قرارةُ الرِّكاز	ore deposit
+قُرارة إلِكتروليتيَّة	electrolytic deposit
+قُرارة بَحْريَّة	pelagic deposit
+قُرارة بَرْشاء	speckled deposit
+قُرارةٌ تفَتُّتيَّة	eluvial deposits
+قُرارة حرارية دَخيلة	xenothermal deposit
+قَرَارَة خام طَمْيِيّة	alluvial ore deposit
+قُرارة دالِيّة	delta deposit
+قُرارَة سَطْحيَّة	hypotaxic deposit
+قُرارة سَوداء	black deposit
+قُرارة صُهاريَّة	magmatic deposit
+قُرارة ضِفِّيَّة	bank deposit
+قُرارة طِباقِيَّة	stratified deposit
+قرارة غطائية	blanket deposit
+قُرارة فُسْفاتيَّة	phosphatic deposit
+قُرارة لا تَطَبُّقيَّة	unbedded deposit
+قُرارة مُحترقة	burnt deposit
+قُرارَة مُزاحَة	dislocated deposit
+قُرارَة مَعْدِنيَّة	mineral deposit
+قُرارة مُنْتَثِرة	disseminated deposit
+قُرارة مَهبِطيَّة	cathode deposit
+قُرارة مَوضِعِيَّة	sedentary deposit
+قُرارة نِفْطيَّة	petroleum deposit
+قُرارَة هالُوجينيَّة	halogenic deposit
+قُرص بين الَفقَرات	intervertebral disc
+قَرْض	debt
+قَرْض	loan
+قَرْضٌ أُكسجينيّ	oxygen debt
+قَرْضُ الطلب: قرضٌ واجب الإعادة عند الطلب	call loan
+قرض انبعاثات الكربون	carbon emissions credit
+قَرْض بِرَهْن السفينة: عقدٌ يرهن بموجبه	bottomry
+قَرْضٌ طَويلُ الأَجَل	long term debt
+قرض طويل الأجل	long term loan
+قَرْضٌ قَصيرُ الأَجَل	short term debt
+قرض قصير الأجل	short-dated loan
+قَرْض لأجل متوسط	medium-term loan
+قَرضٌ مَشروط	tied loan
+قرض مضمون برهن رسميّ	mortgage loan
+قَرضٌ مَوقوت	time loan
+قرض وحلق	clip and shave
+قَرْضٌ يعادُ عندَ الطلب	call-loan
+قَرْضٌ يُعاد عندَ الطَّلب	demand loan
+قَرْنُ العَجُز	cornu sacrale NA
+قَرْنُ العَجُز	sacral cornu
+قروض طويلة الأجل	Long- term Loans
+قروض قصيرة الأجل	Short-term Loans
+قسط السوق	market premium
+قسم الحسابات	accounting department
+قسم مكافحة الاحتيال التجاري	Anti-Commercial fraud department
+قِشْرِيٌّ صادِر	corticoefferent
+قَضَمَ	gnaw
+قَضَمَ	nibble
+قِضَّة	beach deposits
+قِطَار محلي مسبق الترتيب	local goods train with pre-sorted trucks
+قِطاراتُ البَضائِعِ الحَضَرِيَّةِ	Urban Freight Trains
+قِطاراتُ البَضائِعِ الوَطَنِيَّةُ	National Freight Trains
+قطاع التخطيط والمالية	Planning & Finance Sector
+قطاع التسويق	Marketing Sector
+قطاع العضو المنتدب للتسويق العالمي	International Marketing Sector
+قطاع المشروعات المالية	Financial Corporations Sector
+قطاع المشروعات غير المالية	Non-Financial Corporations Sector
+قطاع المشروعات غير الهادفة للربح التي	Non-Profit Institutions Serving Households
+قطب كهربائى غير مستهلك للحام بالقوس	non-consumable arc welding electrode
+قطب كهربائي مستهلك فى اللحام بالقوس	consumable arc welding electrode
+قطع شامل تجاري	commercial clearcut
+قَطَنيّ عَجُزيّ: متعلّق بالقَطَن والعَجُز	lumbosacral
+قَلْبٌ بَقَرِيٌّ	bovine heart (cor bovinum)
+قلبيّ	heartfelt
+قِلَّةُ الكُرَيَّات	cytopenia
+قِلَّةُ الكُرَيَّاتِ الحُمْر	oligocythemia (anemia)
+قِلَّةُ الكُرَيَّاتِ الحُمْر	oligocytosis (anemia)
+قماش سابق الانكماش	preshrunk
+قماش وبري	raw materials / raw goods
+قُماشٌ يباعُ بالقطعة	piece goods
+قماش يسار- يسار	purl-knitted goods
+قِمَّةُ عَظْمِ العَجُز	apex ossis sacri NA
+قِمَّةُ عَظْمِ العَجُز	apex sacrum (apex ossis sacri NA)
+قَميص	shrunk-in liner
+قناة الفائض	relief sewer; outlet channel
+قناة دخل	buffered I/O channel
+قناة دَخْل	I/O channel
+قناة دخل	input channel
+قناة دخل	input/output channel
+قوائم الدخل	Income Statement
+قوائم مالية	Financial Statements
+قوانين مكافحة الاحتكار	antitrust laws
+قوة العمل	Labor Force
+قوة شرائية	spending power; spending capacity; chasing power
+قوة عمل مدنية	civilian labor force
+قيادة اقتصادية	Eco-Driving
+قياس للأغراض المالية	Fiscal Measurement
+قيم اقتصادية	economic values
+قيم البيئة	environment assets
+قيم مالية	financial values
+قيمة اقتصادية كلية	total economic value
+قيمة اقتصادية مضافة	Economic Value Added
+قيمة اقتصادية وعلمية	esvalue
+قيمة الأصول	Asset Value
+قيمة الانكماش المتبقية	residual shrinkage value
+قيمة الصادرات	Exports Value (FOB)
+قيمة الواردات	Imports Value (CIF)
+قيمة تجارية	commercial value
+قيمة سوقية	Market Capitalization
+قيمة سوقية	market value
+قيمة صافية للأصول	net asset value
+قيمة قصوى وإمكانات التبادل	cap and trade
+قِيمَةٌ مضافة	added value
+قيمة مضافة	Added Value; Value-Added Benefits
+قيمة مضافة إجمالية	gross value added
+قيمة مُضافة محلياً	local added value
+قيمة مقدرة للبضائع	Ad Valorem
+قيمة يحددها السوق	market value
+قِيْمِيّ: محسوب على أساس القيمة المنصوص	ad valorem
+قيود تصدير طوعية	voluntary export restraint

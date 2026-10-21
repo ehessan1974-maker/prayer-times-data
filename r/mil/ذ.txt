@@ -1,0 +1,34 @@
+ذُبابَةُ الجُنود	soldier fly
+ذخيرة	ammunition
+ذَخيرة	munition(s)
+ذَخيرة	repertoire = repertory
+ذخيرة التدريب	Training corpus
+ذَخيرةُ تَدريب	drill ammunition
+ذَخيرةُ تدريب	training ammunition
+ذَخيرةُ تَمْرين	dummy ammunition
+ذخيرة ثنائية اللغة	Bilingual corpus
+ذَخيرة حربية	ammunition
+ذَخيرةٌ حَيَّة	live ammunition
+ذخيرة خُلَّبيَّة	blank
+ذَخيرَة ذَرِّيَة	atomic ammunition
+ذخيرة صاروخية	rocket ammunition
+ذخيرة طائرات	aircraft ammunition
+ذخيرة عديمة الغلاف	caseless ammunition
+ذخيرة عنقودية	cluster munition
+ذخيرة كيماوية	chemical munition
+ذَخيرَة كِيميائيَّة	chemical ammunition
+ذخيرة لغوية لتمييز الكتابة اليدوية	Handwriting recognition corpora
+ذخيرة لغويّة للهجات	Dialectal corpora
+ذخيرة لغوية موسومة	Annotated corpora
+ذخيرة منشورة على الشابكة	Web-based corpora Website / Websites
+ذخيرة منع منطقة	area-denial munition
+ذراع	arm
+ذِراع الرشاش المتأرجح	sprinkler oscillator
+ذراع الضابط	stub tuner; stub
+ذراعُ القَدْح	cocking lever
+ذِراعُ تحَكُّم	control lever
+ذِراعُ تَحْميل	loading arm
+ذكرى الهدنة: يوم 11 نوفمبر المُعتبر عطلة	Remembrance Day
+ذُلّ	servility
+ذو السِّترة الزرقاء: «أ» شخص مُرْتَدٍ	bluecoat
+ذو رصاص	lead bearing

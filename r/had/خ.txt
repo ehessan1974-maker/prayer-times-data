@@ -1,0 +1,9 @@
+خَشَبٌ حَديثُ القَطْع	green wood
+خَطُّ إسناد	datum line
+خط إسناد القراءة	lubber line
+خَطُّ إسناد القِراءة	lubber(’s) line
+خَطُّ إسنادٍ مِساحيّ	ordnance datum
+خَطُّ الإسناد	fiducial line
+خَطُّ الصِّفْر	line, datum
+خَلْعٌ حَديث	recent dislocation
+خَلَلُ النُّطْق	dysphrasia

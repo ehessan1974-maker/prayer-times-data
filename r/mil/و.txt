@@ -1,0 +1,49 @@
+وَتَرُ الفُرْسان	riders' tendon
+وَتَر شَدّ	tendon
+وَثْب المدفع	gun jump
+وَثيُ الفُرْسان	riders' sprain
+وثيقة استراتيجية إدارة التكوين	Configuration Management Strategy Document
+وجهة الهجوم	attack heading
+وُجِيهَةُ آلَةِ التَّصْويرِ الغامَّائِيَّة	gamma camera interface
+وحدات الأعمال الاستراتيجية	Strategic Business Units (SBUS)
+وَحدَة القِيادة في مركبة فضائية	spacecraft command module
+وحدة تحكّم ذات مُحفز زمني لصهريج التخزين	time-triggered storage tank controller
+وحدة تعبئة	batching plant
+وَحْدَةُ تَعْليب	packing plant
+وحدة مُشاة مُدَرَّعة	armored infantry
+وَحدَةُ مُعالَجةِ البِنزين بالرَّصاص	leading and dyeing unit, gasoline
+وحدة معالجة البنزين بالرصاص وتلوينه	gasoline leading and dyeing unit
+وحدة مَقصُورَة القيادة	cab module
+وَذَمَةُ الحُروب	war edema (nutritional edema)
+ورقُ لَفّ	cartridge paper
+ورقة اقتراح الأسلحة	weapons recommendation sheet
+وزن المقاتلة الإجمالي	combat gross weight
+وسام صليب الحرب	Croix de Guerre
+وسم ذخيرة لغوية	Annotation of corpora
+وَصْفَةٌ بالرَّجْم	shotgun prescription
+وُصلَات إحكام سَقْف الخزان	tank roof seals
+وُصلَةُ أو عُنقُ تَعبِئة الخَزّان	tank filler
+وُصْلَة رَصاصيَّة	lead joint
+وضع استراتيجي	Strategic Position
+وَضْعُ الاستِقداح	cocked position
+وضع عسكري	posture
+وضع قيادة متغير الكتلة	moving block mode
+وَضْعَةُ المُحارِب	attitude of combat
+وَضعِيَّة الإلقام	loading position
+وعاء الصبغ	stain pan or tank
+وعاء قياس التبخر	evaporation pan / evaporation tank
+وقت القيادة	driving time
+وَقُودُ السُفن	bunker fuel
+وقود السفن	Bunker Fuel
+وَقودُ السُّفُن	fuel, bunker
+وقود السفن البحرية	Bunker C Fuel Oil
+وَقُودٌ تفَجُّريّ	explosive fuel
+وقودٌ خالٍ من الرصاص	lead-free fuel
+وقود ديزل السفن	Bunker Diesel Fuel Oil
+وقود صاروخي	rocket fuel; rocket propellant
+وَقودٌ صاروخيّ	rocket propellant
+وَقودُ صواريخ	rocket fuel
+وَقودٌ مُعالَجٌ بالرَّصاص	leaded fuel
+وقود يحتوي على الرصاص	lead-containing (fuel)
+وُلفِنيت	wulfenite
+وُهَامُ الخِيانَةِ الزَّوجِيَّة	infidelity delusion

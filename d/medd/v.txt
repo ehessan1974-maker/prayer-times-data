@@ -1,0 +1,174 @@
+vaccigenous (vaccin producing)	مُوَلِّدُ اللَّقاح
+vaccin	لِقاح [ج:لَقاحات]
+vaccinal areola	هالَةُ اللِّقاح
+vaccination	تَلقيح
+vaccination	(1) تلقيح (2) نُدبة التَّلقيح [الظّاهرة على الجلد].
+vaccination	تَلْقيح / تَلْقِيح / تطعيم، تلقيح / تلقيح
+vaccination rash	طَفَحُ التَّطْعِيْم
+vaccination reaction	تَفاعُلُ التَّطْعِيم
+vaccination varicella	حُماقُ التَّطْعيم
+vaccinator	(1) الملقِّح [ضدَّ مرض] (2) أداة التَّلقيح.
+vaccine	لقاح
+vaccine	لَقاح، طُعْم / لقاح، طعم
+vaccine	لِقاح / لَقَاح / لقاح
+vaccine lymph (vaccinia lymph)	لِمْفٌ وَقْسِيّ
+vaccine therapy	مُعالَجَةٌ باللَّقَاح
+vaccines	لقاحات
+vaccinia	الوَقْس، جُدَريّ البَقَر؛ لَقاحُ الجُدَري
+vaccinifer (vaccinogen)	مُوَلِّدُ اللَّقاح
+vaccinogen	مَصْدَرُ اللَّقاح
+vaccinostyle	إِبْرَةُ التَّلْقيح / ريشة التلقيح
+vaccinotherapy	مُعالَجَةٌ باللِّقاح / مُعَالَجَة باللََّقَاح
+vaccinum	لِقاح
+vaccinum antityphicum	لِقاحُ التِّيْفِيَّةّ
+vaccinum pertussis	لِقاحُ الشَّاهوق
+vaccinum pestis	لِقاحُ الطَّاعون
+vaccinum typhosum	لِقاحُ التِّيْفِيَّة
+vaccinum typhosum et paratyphosum	لِقاحُ التِّيْفِيَّةِ ونَظيرَةِ التِّيْفِيَّة
+vaccinum vacciniae	لِقاحُ الوَقْس
+vaginal ointment	مَرْهَم مَهْبِلِيّ
+vaginal syringe	مِحْقَنَةُ المَهْبِل
+vagotropism	تَوَجُّهٌُ للمُبْهَم (من قِبَلِ دواء أو سم)
+valamin	فالامين (دواء منوم ومهدىء)
+valethamate	فاليثامات (دواء مضاد للتشنج)
+valnoctamide	فالنوكتاميد (دواء مهدىء)
+valproate	فالبروات (دواء مضاد الاختلاج) / فَالبرُوَات
+van Gieson's solution of trinitrophenol and acid fuchsin staining	تَلْوِيْنُ مَحْلولِ ثُلاثِيِّ النتروفينولِ وحَمْضِ الفُوكسينِ بحسب فان غيزون
+vancomycin	فانكوميسين (مضاد حيوي) / فانْكُوميسِين
+varicella vaccine	لِقاحُ الحُماق
+varicellation	تَلْقيحٌ ضِدَّ الحُماق
+varicellization	تَلْقيحٌ ضِدَّ الحُماق
+variolation	تَجْدير (تلقيح بالجدري في الشرق القديم)
+variolization	تَجْدير (تلقيح بالجدري في الشرق القديم)
+variolovaccine	لِقاحُ الجُدَرِيّ
+variolovaccinia	لِقاحُ الوَقْس ؛ لِقاحُ جُدَرِي البَقَر
+varnish	وَرْنِيشٌ (محلول راتيني يستعمل طلاءً عازلاً أو واقيا)
+vascular sedative	مُهَدِّئٌ وِعائِيّ
+vascular stimulant	مُنَبِّهٌ وِعائِيّ
+vascular tonic	مُقَوٍّ وِعائِيّ (مُقَوِّي وِعائِيّ)
+Vaseline	الفازلين: مرهم يُصْنَع من النِّفط.
+vasoconstrictor	مقبِّضُ [أو مقلِّص] الأوعية الدَّمويّة.
+vasoconstrictor	مُضَيِّقٌ للأَوعِيَة / مُقَبِّض الأوْعِيَّة / مُضيّق الأوعية
+vasoconstrictor center	مَرْكَزٌ مُقَبِّضٌ للأَوعِيَة
+vasoconstrictor fiber	لِيفٌ مُضَيِّقٌ للأَوعِيَة
+vasoconstrictor nerve	عَصَبٌ مُقَبِّضٌ وِعائِيّ
+vasodilator	موسِّع الأوعية [الدّمويّة].
+vasodilator	مُوَسِّعٌ للأَوعِيَة
+vasodilator center	مَرْكَزٌ مُوَسِّعٌ للأَوعِيَة
+vasodilator fiber	لِيفٌ مُوَسِّعٌ للأَوعِيَة
+vasodilator nerve	عَصَبٌ مُوَسِّعٌ وِعائِيّ
+vasodilators	مُوَسِّعَات الأوْعِيَّة
+vasohypertonic (vasoconstrictor)	رافِعٌ لتَوَتُّرِ الأَوعِيَة ( مُضَيِّقٌ للأَوعِيَة)
+vasohypotonic (vasodilator)	خافِضٌ لتَوِتُّرِ الأَوعِيَة ( مُوَسِّعٌ للأَوعِيَة)
+vasomotor stimulant	مُنَبِّهٌ وِعائِيٌّ حَرَكِيّ
+vasopressin	فازوبريسين (هرمون ودواء رافع لضغط الدم)
+vasopressin injection	حُقْنَةُ الفازوبرسين
+vasostimulant	مُنَبِّهٌ للأَوعِيَة
+vasotocin	فازوتوسين [هرمون]
+vegetable insulin (plant insulin)	أَنْسولينٌ نَباتِيّ
+vehicle	عربة، مركبة، سائل حمل (في الصيدلية)
+vehicle	(1) مَرْكَبة؛ عَرَبة (2) أداة نقل [للفكر أو الصَّوت إلخ] Language is a vehicle for thought. (3) الحمّال: سائلٌ تُذوَّب فيه الأدوية (صي).
+vein anesthesia (intravenous anesthesia)	تَخْديرٌ وَريدِيّ
+verapamil	فيراباميل (دواء للذبحة الصدرية)
+veratroidine	فيراترويدين (دواء مخمد قلبي ومنبه عصبي)
+vesicant	(1) مُنَفِّط: مُحْدِثٌ تنفُّطًا أو تبثُّرًا (2) المُنَفِّط: عَقّار أو سلاح كيميائيّ مُنَفِّط.
+veterinary drug; veterinary medicine; veterinary medicine	عالج بيطري; دواء بيطري
+veterinary medicine	الطِّبُّ البَيْطَرِيّ
+veterinary pharmacist	صَيْدَلانِيٌّ بَيْطَرِيّ
+viloxazine	فيلوكسازين (دواء مضاد للاكتئاب) / فِيلُوكسَازِين
+vinblastine sulfate	فينبلاستين (دواء لمعالجة الأورام)
+vincofos	فينكوفوس (دواء مضاد للديدان)
+vincristine sulfate	فينكريستين (دواء للأورام)
+vindesine	فينديزين (دواء مضاد للأورام)
+violation of domicile; breach of domicile	انتهاك حرمة المسكن
+viomycin	فيوميسين (مضاد حيوي)
+viosterol	الفيوستيرول: فيتامين
+viral vaccine	لَقَاحٌ فَيْرُوسِيّ
+virginiamycin	فرجينياميسين (مضاد حيوي)
+virus	(1) سُمّ (2) «أ» ال?يروس؛ الحُمَة: عاملٌ محدِث للمرض. «ب» داء ?يروسيّ (3) لَقاح (4) سُمّ أخلاقيّ أو عقليّ (5) ال?يروس: برنامج يؤدّي إلى إتلاف المعلومات المختزَنة في الكومبيوتر.
+visceral anesthesia	خَدَرٌ حَشَوِيّ
+viscosity of colloidal solution	لُزوجَة المحلول الغروانيّ (المعلق)
+vit.A; vitamin A	فيتامين أ
+vit.B1	فيتامين ب1
+vit.B12	فيتامين ب12
+vit.C	فيتامين (ج)
+vit.D	فيتامين د
+vit.E	فيتامين و
+vit.PP	فيتامين ب ب
+vitagonist (vitamin antagonist)	مُنَاهِضَةُ الفيتامين
+vitamin	فيتامين
+vitamin	الفيتامين؛ الحَيَمين: مادّة عضويّة أساسيّة في تغذية معظم الحيوانات وبعض النباتات.
+vitamin	فيتامِين / فِيتَامِين / فيتامين
+vitamin	ڤيتامين، حَيَمين / فيتامين
+vitamin A	الفيتامينُ A
+vitamin A	فيتامين أ؛- حَيَمين - أ.
+vitamin A unit	وَحْدَةُ فيتامين A
+vitamin A1 (retinol)	الفيتامينُ A1 ( رتينول)
+vitamin A2 (dehydroretinol)	الفيتامينُ A2 ( ديهيدروريتينول)
+vitamin B	الفيتامينُB
+vitamin B	فيتامين ب- ؛ حَيَمين - ب.
+vitamin B complex	فيتامين - ب المركَّب.
+vitamin B complex	الفيتامين B المعقّد
+vitamin B complex	الفيتامينُBالمُرَكَّب
+vitamin B1 (thiamin)	الفيتامينُB1 ( ثيامين)
+vitamin B12	فيتامين - ب12؛ حَيَمين - ب12.
+vitamin B12 (cyanocobalamin)	الفيتامينُB12 ( سيانوكوبالامين)
+vitamin B12b (hydroxycobalamin)	الفيتامينُB12b ( هيدروكسي كوبالامين)
+vitamin B2	فيتامين - ب2؛ حَيَمين - ب2. يسمَّى أيضًا: riboflavin.
+vitamin B2 (riboflavin)	الفيتامينُ B2 ( ريبوفلافين)
+vitamin B3	= nicotinic acid
+vitamin B6	فيتامين - ب6؛ حَيَمين - ب6.
+vitamin B6 (pyridoxin)	الفيتامينُ B6 ( بيرويدوكسين)
+vitamin Bc (folic acid)	الفيتامينُ Bc ( حَمْضُ الفوليك)
+vitamin C	فيتامين - ج؛ حَيَمين - ج. يسمَّى أيضًا: ascorbic acid.
+vitamin C (ascorbic acid)	الفيتامينُ C ( حَمْضُ الأَسكوربيك)
+vitamin complex	مُعَقَّدٌ فيتامينِيّ
+vitamin concentrate	رُكازَةٌ فيتامينِيَّة
+vitamin D	فيتامين - د؛ حَيَمين - د.
+vitamin D (calciferol)	الفيتامينُD ( كالسيفيرول)
+vitamin D -dependent rickets	رَخَدٌ مُعْتَمِدٌ على الفِيتامينِ D
+vitamin D -resistant rickets	رَخَدٌ مُقاوِمٌ للفِيتْامينِ D
+vitamin D milk	لَبَنٌ بالفِيتامين D
+vitamin D synthesis	تصنيع فيتامين د
+vitamin D unit	وَحْدَةُ فيتامين D
+vitamin D-refractory rickets (vitamin D-resistant rickets)	رَخَدٌ حَرُوْنٌ عَلى الفيتامينِ D ( رَخَدٌ مُقَاوِمٌ للفيتامين D)
+vitamin D2	فيتامين - د2؛ حَيَمين - د2. يسمَّى أيضًا: calciferol.
+vitamin D2 (ergocalciferol)	الفيتامينُD2 ( إِيرغوكالسيفيرول)
+vitamin D3	الفيتامينُD3
+vitamin D3	فيتامين - د3؛ حَيَمين - د3.
+vitamin deficiency	عَوَزُ الفيتامين
+vitamin deficiency (vitamins A, D, E, k)	عَوَزُ الفيتامين
+vitamin deficiency gingivitis	الْتِهابُ اللِّثَةِ بالعَوَزِ الفيتامينِيّ
+vitamin deficiency glossitis	الْتِهابُ اللِّسانِ بالعَوَزِ الفيتامينِيّ
+vitamin deficiency hypoplasia	نَقْصُ التَّنَسُّجِ بعَوَزِ الفيتامين
+vitamin E	فيتامين - هـ؛ حَيَمين - هـ.
+vitamin E (tocopherol)	الفيتامينُE ( توكوفيرول)
+vitamin G	فيتامين - ز؛ حَيَمين - ز. يسمَّى أيضًا: riboflavin.
+vitamin G (riboflavin)	الفيتامينُG ( ريبوفلافين)
+vitamin G unit	وَحْدَةُ فيتامين G
+vitamin H	فيتامين - ح؛ حَيَمين - ح.
+vitamin H (biotin)	الفيتامينُH ( بيوتين)
+vitamin K	الفيتامينُK
+vitamin K	فيتامين - ك؛ حَيَمين - ك.
+vitamin K1 (phytonadion)	الفيتامينُK1 ( فينوناديون)
+vitamin K2 (menaquinone)	الفيتامينُK2 ( ميناكينون)
+vitamin K3 (menadione)	الفيتامينُK3 ( ميناديون)
+vitamin L	الفيتامينُL
+vitamin M (folic acid)	الفيتامينُM ( حَمْضُ الفوليك)
+vitamin P	فيتامين - ب؛ حَيَمين - ب.
+vitamin PP	فيتامين - ب ب؛ حَيَمين - ب ب.
+vitamin tests	اخْتِباراتُ الفيتامين
+vitaminize	(1) يُفَتْمِن؛ يُحَيْمِن: يزوِّد بالفيتامين (2) يقوِّي؛ ينشِّط.
+vitaminoid	شبيهُ الفيتامين
+vitaminology	عِلْمُ الفيتامينات
+vitanition	اِعْتِلالٌ بعَوَزِ الفيتامينات
+Vleminckx's solution (sulfurated lime solution)	مَحْلُولُ فليمنيكس ( مَحْلُوْلُ الجِيْرِ المُكَبْرَت)
+vodka	الفودكا: شراب روسيّ مُسْكِر.
+volatile anesthetic	بَنْجٌ طَيَّار
+volume dose	جرعة كلية
+volume dose (integral dose)	الجُرْعَةُ الحَجْمِيَّة (الجُرْعَةُ الكامِلَة) (الممتصة من الإشعاع)
+volumetric solution	مَحلولٌ حَجميّ
+volumetric solution	مَحْلُولٌ حَجْمِيّ
+volumetric solution	محلول حجمي
+vomit	(1) «أ» تَقَيُّؤ. «ب» قَيْء (2) المقيِّئ: دواء مُقيِّئ (3) يتقيّأ (4) يتجشّأ بقوّة (5) يَلْفِظ؛ يُخرج The volcano vomit ed lava. (6) يُقيِّئ: يجعله يتقيّأ.
+vulnerary	(1) شافٍ أو لائمٌ للجراح (2) دواءٌ شافٍ أو لائمٌ للجراح.

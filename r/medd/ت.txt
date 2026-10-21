@@ -1,0 +1,456 @@
+تَأْبير أو تَلْقيح مُخْتَلِط	cross pollination
+تأبير ريحيّ	wind pollination
+تابيرنانتين	tabernanthine
+تَآثُرُ الأَدْوِيَة	drug interaction
+تأثير الغفل	effect, placebo
+تازولول	tazolol
+تَأَقٌ للمَصْلِ	antiserum anaphylaxis (passive anaphylaxis)
+تالٍ للتَّخْدير	postanesthetic
+تالٍ للتَّلْقيح	postvaccination
+تالٍ للمُنَبِّه	poststimulus
+تالبُوتال	talbutal
+تالوبرام	talopram
+تانَّاتُ الأَنْسولين	insulin tannate
+تاندامين	tandamine
+تَأْييدُ الإِشْعاع	radiopotentiation
+تبرينولول	tiprenolol
+تَبْطينٌ عِلاجِيّ	therapeutic lining
+تَبْنِيج	anesthesia
+تبْنيج	anesthesia; anaesthesia
+تتراسيكلين	tetracycline
+تتراكائين	tetracaine
+تتراميزول	tetramisole
+تتراهيدروزولين	tetrahydrozoline
+تترونال	tetronal
+تتريدامين	tetrydamine
+تَجارُعيّ: متعلِّق بالنقاط أو الأصقاع	isodose
+تَجَانُس الـجُرْعَة	dose uniformity
+تَجَانُس لَوْن المضْغُوطَة	tablet colour uniformity
+تَجاوُزُ التَّأَق	skeptophylaxis
+تَجْدير	variolation
+تَجْدير	variolization
+تجربة الحَفْن والاسر الكظومين المُنْخَفضي	Adiabatic Low-energy Injection and Capture Experiment
+تجربة قطرة الزيت لِمِلِكان	Millikan oil drop experiment
+تَجْريش	quassation
+تَجْرِيع	dosage
+تَجزِئة الجُرعة	dose fractionation
+تَجْزيءُ الجُرْعات	dose fractionation
+تَجْمِيْعَةُ المَصْل	serum pool
+تحاتٌّ لَزَقي	poultice corrosion
+تَحَامِيْل	suppositoria [sing.suppositorium and suppository]
+تَحَامِيل	suppositories
+تَحْرِيْضُ التَّخْدِيْر	induction of anesthesia
+تَحْلِيلُ لِقاح	pollen analysis
+تَحليلٌ مُنَشَّط	activation analysis
+تَحْلِيْلٌ وَرَقَابَةٌ صَيْدَلانِيَّة	pharmaceutical analysis and control
+تَحَمُّلُ الجُرْعَةِ الكَبيرَة	high dose tolerance
+تَحَمُّلُ الجُرْعَةِ المُنْخَفِضَة	low-dose tolerance
+تَحَمُّلُ الدَّواء	drug tolerance
+تَحْمِيْلَة	suppositorium [pl.suppositoria]
+تَحْمِيْلَة	suppository
+تَحْمِيْلَةٌ غليسرينية	glycone (glycerin suppository)
+تَحْمِيْلَةٌ غليسيرينيَةّ	glycerin suppository
+تَخَدُّر	narcosis
+تخدير	anaesthesia
+تَخْدير	anaesthesia (anesthesia)
+تخدير	anesthesia
+تخْدير	anesthesia = anaesthesia
+تَخْدير	anesthetization
+تخدير . خُدَار	anesthesia
+تَخْديرٌ إِحْصارِيّ	block anesthesia
+تَخْديرٌ إِحْصارِيٌّ سَرْجِيّ	saddle block anesthesia
+تَخْديرٌ إِحْصارِيٌّ فَرْجِيّ	pudendal block anesthesia
+تَخْديرٌ اخْتِراقيٌّ	permeation anesthesia
+تَخْديرٌ إِرْشاحِيّ	infiltration anesthesia
+تَخْديرٌ أَساسِيّ	basal anesthesia
+تَخْديرُ أَسْفَلِ الجِسْم	para-anesthesia
+تَخْديرُ الجَذْر	rhizanesthesia
+تَخْديرُ العَصَب	neural anesthesia (block anesthesia)
+تَخْديرُ القَلْب	cardioanesthesia
+تخدير إلكترونى	electronarcosis
+تَخْديرٌ أَمامَ العَجُزِ	presacral anesthesia
+تَخْديرٌ إِنْشَاقِيّ	inhalation anesthesia
+تَخْديرٌ أَنْفِيّ	intranasal block
+تَخْديرٌ أَنْفِيٌّ رُغامِيّ	nasotracheal anesthesia
+تَخْديرٌ أَوَّلِيّ	primary anesthesia
+تَخْديرٌ بإِحْصارِ السَّاحَة	field block anesthesia
+تَخْديرٌ بإِحْصارِ العَصَب	nerve blocking anesthesia
+تَخْديرٌ بِالبَرْد	crymoanesthesia
+تَخْديرٌ بِالبَرْدِ	cryoanesthesia
+تَخْديرٌ بالتَّصْقِيْع	frost anesthesia
+تَخْديرٌ بالضَّغْطِ المُرْتَفِع	high pressure anesthesia
+تَخْديرٌ بالغَازِ و الأَثير	gas-ether anesthesia
+تخدير بالكهرباء	electrocoagulation; diathermocoagulation
+تَخْديرٌ بالوَخْزِ الإبَرِيِّ	acupuncture anesthesia
+تَخْديرٌ بامْتِصاصِ ثُنائِيِّ أُكْسِيدِ	carbon dioxide absorption anesthesia (closed - circuit anesthesia)
+تَخْديرٌ بحَسَبِ غُواثِمِي بالزَّيتِ و	Gwathmey's oil-ether anesthesia
+تَخْديرٌ بحَسَبِ كورنينغ	Corning's anesthesia (spinal anesthesia)
+تَخْديرٌ بحَسَبِ مِيلْتزَر	Meltzer's anesthesia
+تَخْديرٌ بَصَلِيّ	bulbar anesthesia
+تَخْديرٌ تَبْريدِيّ	hypothermic anesthesia
+تَخْديرٌ تَثْليجِيّ	refrigeration anesthesia
+تَخْديرٌ تَحْتَ العَنْكَبُوتِيَّة	subarachnoid anesthesia
+تَخْديرٌ تَحْتَ المُخاطِيَّة	submucosa anaesthesia
+تَخْديرٌ تَسْريبِيّ	infusion anesthesia
+تَخْديرٌ تَسْكينِيٌّ تَطْمينِيّ	neuroleptanesthesia
+تَخْدِيْرٌ تَلَطُّفِيّ	anociassociation
+تَخْدِيْرٌ تَلَطُّفِيّ	anociation
+تَخْدِيْرٌ تَلَطُّفِيّ	anocithesia
+تَخْديرٌ تَنْويمِيّ	hypnoanesthesia
+تَخْديرٌ تَنْويمِيّ	hypnosis anesthesia
+تَخْديرٌ تَوصيلِيّ	conduction anesthesia (regional anesthesia)
+تَخْديرُ جِذْعِ العَصَب	nerve-trunk anesthesia (regional anesthesia)
+تَخْديرٌ جِراحِيّ	surgical anesthesia
+تَخْديرٌ جُزْئِيّ	partial anesthesia
+تَخْديرٌ حَشَوِيّ	splanchnic anesthesia
+تَخْديرٌ حَولَ الجافِيَة	paradural anesthesia (epidural anesthesia)
+تَخْديرٌ حَولَ الجافِيَة	peridural anesthesia (epidural anesthesia)
+تَخْديرٌ حَولَ العَجُز	parasacral anesthesia
+تَخْديرٌ حَولَ العَصَب	paraneural anesthesia
+تَخْديرٌ حَولَ العَصَب	perineural anesthesia
+تَخْديرٌ حَوْلَ الفِقَرات	paravertebral anesthesia
+تَخْديرٌ خارِجَ الجافِيَة	extradural anesthesia (epidural anesthesia)
+تَخْديرٌ خافِضٌ لضَغْطِ الدَّم	hypotensive anesthesia
+تَخْديرُ داخِلِ الحاجِز	intraseptal anesthesia
+تَخْديرٌ داخِلَ الرُّغامَى	intratracheal anesthesia
+تَخْديرٌ داخِلَ السِّيْسَاء	intraspinal anesthesia (spinal anesthesia)
+تَخْديرُ داخِلِ العَظْم	intraosseous anesthesia
+تَخْديرُ داخِلِ الفَم	intraoral anesthesia
+تَخْديرُ داخِلِ اللُّبّ	intrapulpal anesthesia
+تَخْديرٌ سَامِحٌ بالتَّجَوُّل	ambulatory anesthesia
+تَخْديرٌ سَطْحِيّ	surface anesthesia
+تَخْديرٌ سَطْحِيٌّ	surface anesthesia (permeation anesthesia)
+تَخْديرٌ سَمْعِيّ	audio anesthesia
+تَخْديرٌ سيسائيّ	rachianalgesia (rachianesthesia)
+تَخْدِيْرٌ سيسائيّ	rachianesthesia
+تَخْديرٌ ضَغْطِيّ	pressure anesthesia
+تَخْديرٌ ضَفيرِيّ	plexus anesthesia
+تَخْديرٌ ضِمْنَ الرُّغامَى	endotracheal anesthesia
+تَخْديرٌ ضِمْنَ العَصَب	endoneural anesthesia
+تَخْديرٌ ضِمْنَ القَصَبَة	endobronchial anesthesia
+تَخْديرٌ عامّ	general anesthesia
+تَخْديرٌ عَجُزِيّ	caudal anesthesia
+تَخْديرٌ عَجُزِيّ	sacral anesthesia
+تَخْديرٌ عَجُزِيّ مُتَتابِع	serial caudal anesthesia (continuous caudal anesthesia)
+تَخْديرٌ عَجُزِيٌّ مُسْتَمِر	continuous caudal anesthesia
+تَخْديرٌ عَجُزِيٌّ مُسْتَمِر	continuous sacral anesthesia
+تَخْديرٌ فَوقَ الجافِيَة	epidural anesthesia
+تَخْديرٌ فَوقَ السِّمْحاق	supraperiosteal anaesthesia
+تَخْديرٌ في دَارَةِ مُغْلَقَة	closed anesthesia (closed-circuit anesthesia)
+تَخْديرٌ في دَارَةِ مُغْلَقَة	closed-circuit anesthesia
+تَخْديرٌ في دَارَةٍ مُغْلَقَةٍ جزئيَّاً	semiclosed anesthesia
+تَخْديرٌ في دَارَةٍ مَفْتُوحَةٍ جزئيَّاً	semiopen anesthesia
+تَخْديرٌ في دَارَةِ نِصْفِ مُغْلَقَة	half closed anesthesia
+تَخْديرٌ قَطَنِيٌّ خارِجَ الجافِيَة	lumbar epidural anesthesia
+تَخْديرٌ قولونِيّ	colonic anesthesia
+تخدير كهربائى	electrical anaesthesia
+تَخْديرٌ كَهْرَبِيّ	electric anesthesia
+تَخْديرٌ كَهْرَبِيّ	electroanesthesia
+تَخْديرُ كولين كامْف	Kulenkampff's anesthesia
+تَخْديرٌ مُتَوازِن	balanced anesthesia
+تَخْديرٌ مُحيطِيّ	peripheral anesthesia
+تَخْديرٌ مُخْتَلِط	mixed anesthesia
+تَخْديرٌ مُسْتَقيمِيّ	rectal anesthesia
+تَخْديرٌ مُشْتَرَك	combined anesthesia (balanced anesthesia)
+تَخْديرٌ مَفْتُوح	open anesthesia
+تَخْديرٌ مُقْتَصِرٌ على إحْدَى الرِّئَتَين	one-lung anesthesia (endobronchial anesthesia)
+تَخْديرٌ مِنْ خارِجِ الفَم	extra-oral anesthesia
+تَخْديرٌ مَوضِعِيّ	local anesthesia
+تخدير موضعيّ	regional anaesthesia; local anesthesia
+تَخْديرٌ مَوضِعِيّ	topical anesthesia
+تَخْديرٌ ناحِيّ	regional anesthesia
+تَخْديرٌ ناحِيّ	regional block
+تَخْديرٌ نُخاعِيٌّ إِسْوِيُّ الضَّغْط	isobaric spinal anesthesia
+تَخْديرٌ نُخاعِيٌّ عَبْرَ العَجُز	transsacral anesthesia
+تَخْديرٌ نُخاعِيٌّ عُلْوِيّ	high spinal anesthesia
+تَخْديرٌ نُخاعِيٌّ مُسْتَمِر	continuous spinal anesthesia
+تَخْديرٌ نُخاعِيٌّ مُفْرِطُ الضَّغْط	hyperbaric spinal anesthesia
+تَخْديرٌ نُخاعِيٌّ مُنْخَفِضُ الضَّغْط	hypobaric spinal anesthesia
+تَخْديرٌ نَفْخِيّ	insufflation anesthesia
+تَخْديرٌ وَرْبِيّ	intercostal anesthesia
+تَخْديرٌ وَريدِيّ	intravenous anesthesia
+تَخْديرٌ وَريدِيّ	phlebanesthesia
+تَخْديرٌ وَريدِيّ	phleboanesthesia
+تَخْديرٌ وَريدِيّ	phlebonarcosis (intravenous anesthesia)
+تَخْديرٌ وَريدِيّ	vein anesthesia (intravenous anesthesia)
+تَخْديش	scarification
+تَخفيف	dilution
+تَخَلُّفُ الحَقْن	injection lag
+تَدْريبٌ على الإسعاف الأوَّليّ	instruction, first aid
+تَذْرِيَة القَطَرات المُتَسَاقِطة	dripping drop atomization
+ترازودون	trazodone
+ترامادول	tramadol
+ترامازولين	tramazoline
+ترانزكلوميفين	transclomiphene
+ترانزكوبالامين	transcobalamin
+ترانيلسيبرومين	tranylcypromine
+تَرْبِيَةٌ صَيدَلِيَّة	pharmacy education
+تُرسٌ مُقوّى الأسنانِ	shrouded gear
+تركيب نسجي مُقوى	strengthened weave
+تَرْكيبَة	formulation (preparation)
+تَرْكِيْبَةٌ صَيْدَلانِيَّة	pharmaceutical formulation
+تركيز المحلول	strenght of solution
+تركيز المعقم المتبقي	residual disinfectant concentration
+تَرْكِيْم	treppe
+تروبيكاميد	tropicamide
+تروكسيدون	troxidone
+ترولامين	trolamine
+ترولنترات	trolnitrate
+ترولياندوميسين	troleandomycin
+تروميثامين	tromethamine
+تَرْوِيْجُ المَوَادِّ الصَّيْدَلانِيَّة	pharmaceutical promotion
+تري فلوريدين	trifluridine
+تريازولام	triazolam
+تريافونجين	triafungin
+تِرياق	antidote
+تِرْياق	theriac (theriaca)
+تِرْياق	theriaca
+ترياق أندروماخوس	theriaca andromachi
+تِرْياقٌ ذاتِيّ	autoantitoxin
+تريامتيرين	triamterene
+تريبارسميد	tryparsamide
+تريباروزان	tryparosan
+تريبازفرول	trypasafrol
+تريبافلافين	trypaflavine
+تريبروليدين	triprolidine
+تريبونارسيل	tryponarsyl (tryparsamide)
+تريبيلينامين	tripelennamine
+تريبين	terebene
+تريبينزومين	trebenzomine
+تريبينوسيد	tribenoside
+تريتينوين	tretinoin
+تريديهيكسيثيل	tridihexethyl
+تريسيكلامول	tricyclamol chloride
+تريفلوبرومازين	triflupromazine
+تريفلوبيرازين	trifluoperazine
+تريفلوسين	triflocin
+تريفلوميدات	triflumidate
+تريفلويبريدول	trifluperidol
+تريكلوبيزونيوم	triclobisonium
+تريكلورفون	trichlorphon
+تريكلوزان	triclosan
+تريكلوفوس	triclofos
+تريكلوكربان	triclocarban
+تريكلونيد	triclonide
+تريلوكسينات	treloxinate
+تريمازوسين	trimazosin
+تريمثافان كامسيلات	trimethaphan
+تريموبام	trimopam
+تريميتوزين	trimetozine
+تريميثوبريم	trimethoprim
+تريميثيدينيوم	trimethidinium
+تريمييثوبنزاميد	trimethobenzamide
+تريهكسفينيديل	trihexyphenidyl
+تَزْحيل	percolation
+تستوستيرون	testosterone
+تستولاكتون	testolactone
+تَسْتيل	instillation
+تَسْتيلُ مِيرفي	Murphy drip
+تَسْكِيْنٌ كَهْرَبِيّ	electroanalgesia (electrical anesthesia)
+تَسْلِيم الدَّوَاء	delivery of remedy
+تَسَمُّمٌ بالدِّيجيتال	digitalis intoxication
+تَسَمُّمٌ مَصْلِيّ	serum intoxication (serum sickness)
+تَسْوِيْقُ وبَيْعُ المَوَاد	pharmaceutical sales and marketing
+تَشاؤُمٌ عِلاَجِيّ	therapeutic pessimism
+تَشَتُّت	dispersion
+تَشْخيصٌ سيرولوجيّ	serum diagnosis
+تَشْريعاتٌ صَيدَلِيَّة	pharmacy legislations
+تشكيل القالب بالحقن	injection moulding
+تَشْكِيلٌ بالحَقْن	injection moulding
+تصحيح الوضع	Remedy Of The Situation
+تصنيع فيتامين د	vitamin D synthesis
+تَصْنِيف الأَدْوِيَّة	drug classification
+تَصْويرٌ شُعَاعِيٌّ بمُسَاعَدَةِ	pharmacoradiography
+تَصْويرٌ شُعَاعِيٌّ بمُسَاعَدَةِ	pharmacoroentgenography
+تَضْئِين	ovination
+تَضْبيطٌ بالمُنَبِّه	stimulus control
+تضميد	dressing
+تَطْبِيْبٌ إيحائي	suggestive medicine
+تطبِيْبٌ بالضَّغْطِ العالِي	hyperbaric medicine
+تطبِيْبٌ شُمولِيّ	holistic medicine
+تَطْبِيْبٌ شُمولِيّ	whole person medicine (holistic medicine)
+تَطْبِيْبٌ مُرَشَّد	rational medicine
+تطعيم	doping
+تَطْعيم	grafting
+تَطْعيمُ إدناء	inarching = approach grafting
+تطعيم إدنائي	approach grafting = inarching
+تَطعِيْمُ البَشَرَةِ	epidermatoplasty
+تَطْعِيمُ الخَشَب	marquetry
+تَطْعِيْمُ القَرْنِيَّةِ المِثْلِيّ	homokeratoplasty
+تطعيم النبات	grafting
+تَطْعِيْمٌ أَنْفِيّ	rhinovaccination
+تطعيم بالشق	cleft grafting
+تَطْعِيمْ بالقارورة	bottle graft
+تَطْعيم بالقَلْف	bark graft
+تطعيم بالقلم	flute-crafting
+تَطْعِيْمٌ باللِّقاحِ والمَصْلِ	serovaccination
+تَطْعِيم بُرْعُمِي	bud grafting
+تطعيم تاجي	crown graft
+تَطْعِيمٌ جِسْرِيّ	bridge graft
+تَطْعيمٌ جِلْدِيّ	skin grafting
+تَطْعيمٌ جِلْدِيٌّ ذاتِيّ	dermatoautoplasty
+تَطْعيمٌ جِلْدِيٌّ غَيرِيّ	dermatohomoplasty
+تطعيمٌ حَيَوانِيّ	zooplasty (zoografting)
+تطعيم ذاتي	auto inoculation
+تَطْعيمٌ ذاتِيّ	autografting
+تَطْعِيْمٌ ذاتِيّ	autovaccination
+تَطْعِيْمٌ فَمَوِيٌّ	endovaccination
+تَطْعيمُ مانغولت الظِّهارِيّ	Mangoldt's epithelial grafting
+تطعيم مزدوج	double-graft
+تَطْعيمٌ مُلَوَّث	invaccination
+تطهيريّ	purificatory
+تَطَوُّرُ الصَّيدَلَة	pharmacy development
+تَعادُل الاستِذابة والتَّبَلْوُر	equilibrium, solution
+تَعادُلُ المَحلول	solution equilibrium
+تَعارُضُ الجُرْعات	antipraxy
+تَعَاطِي جُرْعَةٍ مُفْرِطَة	overdosage
+تَعَذُّرُ إِدْرَاكِ المُنَبِّهَات	mental anesthesia
+تَعَذُّرُ الحَرَكَة الأُبُريانِيّ	O'Brien akinesia
+تَعَطُّشٌ للهُرْمون	hormone hunger
+تَغليفُ الكَبْلِ بنسيجٍ مُقَيَّر	serving
+تَغْلِيف مُتَعَدِّد الْـجُرْعَات	multi-dose container
+تَفاؤُلٌ عِلاَجِيّ	therapeutic optimism
+تَفاعُلُ التَّطْعِيم	vaccination reaction
+تَفاعُلُ الذِّيفانِ و التِّرْياق	toxin-antitoxin reaction
+تفاعل العقاقير	interaction, drug
+تَفاعُلُ ذَنَبِ الفَأْر	mouse tail reaction
+تَفاعُلٌ عِلاَجِيٌّ سَلْبِيّ	negative therapeutic reaction
+تَفاعُلٌ مَصْلِيّ	serum reaction
+تَفاعُلاتٌ دَوائِيَّةٌ ضائِرَة	adverse drug reaction
+تفتيش المسكن	perquisition
+تَقَادُم	prescription
+تقادم الدعوى العمومية	prescription of public action
+تقادم الدعوى المدنية	prescription of civil action
+تَقاَدُم العقوبة	prescription of punishment
+تقادُم مسقِط	extinctive prescription; negative prescription
+تقادُم مُكسِب	acquisitive prescription
+تَقَبُّلِيْذاتيّ	proprioceptive
+تَقَدُّم الحَقْن	injection advance
+تَقْدِيْرُ الجُرْعَاتِ الدَّقِيْقَة	microdosage
+تقدير الجُرعة	dosage; posology
+تقطيرُ المُذيبات الطيَّارة	distillation of volatile solvents
+تِقَنِيُّ التَّخْدِيْر	anesthetist
+تِقْنِيُّ التَّخْديرِ المُجازُ القانونيّ	certified registered anesthetist
+تِقْنِيُّ الطِّبِّ النَّوَوَيِّ	nuclear medicine technologist
+تَقَيُّد دَوَائِيّ	medicamentous observance
+تَقْييسُ قلوانِيَّاتِ الكيِنِين	quinometry
+تَكَتُّل	caking
+تَكَتُّل	tablet(t)ing
+تَكَزُّزُ اصْطِناعِيّ	artificial tetanus (drug tetanus)
+تَكَزُّزُ التَّلْقيح	inoculation tetanus
+تَكَزُّزُ دَوائِيّ	drug tetanus
+تَكَزُّزُ سُمِّيِّ	toxic tetanus (drug tetanus)
+تَكَوُّنُ الأَنْسولين	insulinogenesis
+تكون القطرات	drop formation
+تَكَوُّنُ المَصْل	serogenesis
+تَكَوُّنُ الهُرْمون	hormonogenesis
+تَكَوُّنُ الهُرْمون	hormopoiesis
+تكوين الهرمون	hormonogenesis = hormonopoiesis = hormopoiesis
+تكوين الهرمون	hormonopoiesis = hormonogenesis
+تكوين الهرمون	hormopoiesis = hormonogenesis
+تلبيد مُنَشَّط	activated sintering
+تلقيح	inoculation
+تلقيح	pollination
+تَلقيح	vaccination
+تلقيح اختباريّ	test cross
+تلقيح اصطناعيّ	artificial insemination(Al)
+تلقيح اصطناعي	fecundation, artificial
+تَلْقِيْحُ السُّحُبِ	cloud seeding
+تَلْقيحٌ بالحَشَرات	entomophily
+تلقيح بيولوجيّ	seeding, biological
+تَلْقِيْحٌ جِنْسِيٌّ مُغَايرٌ	heterothalism
+تلقيح حشراتي	entomogamous
+تلقيح حشري	insect pollination
+تلقيح حشري	insect-polliantion
+تَلْقيحٌ خَلْطِي	cross-fertilization
+تَلقيحٌ خَلْطِيّ	xenogamy = cross fertilization
+تَلْقيحٌ داخِليّ	endogamy
+تلقيح درزي	chalazogamy
+تَلْقِيحٌ ذَاتِيّ	auto-inoculation
+تلقيح ذاتي	autoinoculation
+تلقيح ذاتيّ	endomixis
+تَلْقيحٌ ذاتيّ	self-fertilization
+تلقيح ذاتي	self-pollinization
+تَلْقيحٌ ذاتِيُّ المَنْشَأ	autogenous vaccination
+تلقيح ريحي	anemophily
+تَلْقيحٌ شاف	curative inoculation
+تلقيح شافٍ	inoculation curative
+تَلْقيحٌ ضِدَّ الحُماق	varicellation
+تَلْقيحٌ ضِدَّ الحُماق	varicellization
+تَلْقِيح فَراشي	psychophily
+تلقيح متعدد	polycross
+تَلْقيحٌ مُحَصِّن	protective inoculation
+تلقيح محكوم	controlled pollination
+تلقيح مختلط	xenogamy
+تَلْقيحٌ مُعَزِّز	booster vaccination
+تَلْقيح هَوائي	anemophily
+تلقيح واقٍ	inoculation, protective
+تَلْقِيح وِقَائِيّ	preventive vaccination
+تلوث محلول الكتروليتي	electrolyte containment; electrolyte retention (deprecated)
+تَلْوِين المِحْفَظَة	capsule staining
+تَلْوينُ المِحْفَظَةِ الجُرْثومِيَّةِ	Indian ink capsule staining
+تَلْوينُ آنتوني للمِحْفَظَة	Anthony's capsule staining
+تَلْوِيْنُ مَحْلولِ ثُلاثِيِّ	van Gieson's solution of trinitrophenol and acid fuchsin staining
+تَلْوينُ هيس للمِحْفَظَةِ	Hiss capsule staining
+تلييتامين	tiletamine
+تَمْرينٌ عِلاَجِيّ	therapeutic exercise
+تَمْهيدُ التَّخْدِير	premedication (preanesthetic medication)
+تَميمُ الهُرْمون	cohormone
+تَنافُرُ الأَدْوِيَة	drug incompatibilities
+تَنافُرٌ عِلاَجِيّ	therapeutic incompatibility
+تَنَافُرَاتٌ صَيْدَلانِيَّة	pharmaceutical incompatibilities
+تَنَشُّط	doping
+تهجين عكسي	back -cross
+تهجين عكسي	reciprocal cross
+تَهْدِئَةٌ واعِية	conscious sedation
+تَهَييجٌ دَوائِيّ	drug irritation
+تَوَافُرٌ صَيْدَلانِيٌّ	pharmaceutical availability
+توبراميسين	tobramycin
+توبركولينُ دكسون	Dixon's tuberculin
+تَوَجُّهٌ صَيدَلِيّ	pharmacy orientation
+تَوَجُّهٌُ للمُبْهَم	vagotropism
+توجيه الدفع	liquid injection thrust vector control
+تَوَرُّمٌ زَيتِيّ	eleoma
+تَوَزُّعُ الجُرْعَة	dose distribution
+توزيع مَقَاس القَطْرَات	drop-size distribution
+توزيلاَتِ البريتيلْيوم	bretylium tosylate
+توسيفين	tosifen
+تَوصيفُ الأَدْوِيَة	pharmacography
+توفيناسين	tofenacin
+تَوقيتُ الحَقْن	injection timing
+تَوقيتُ حَقْنِ الوَقود	fuel injection timing
+توكامفيل	tocamphyl
+توكاينيد	tocainide
+تُوْلٌ دُهْنِيّ	tulle gras
+تولازاميد	tolazamide
+تولازولين	tolazoline
+تولامولول	tolamolol
+تولبوتاميد	tolbutamide
+تولسيكلات	tolciclate
+تولميتين	tolmetin
+توم وَجِيري: شراب حارّ قِوامُهُ رَمّ	Tom and Jerry
+تيازوريل	tiazuril
+تيبروتيد	teprotide
+تيربوتالين	terbutaline
+تيربين	terpin
+تيرفينادين	terfenadine
+تيروثريسين	tyrothricin
+تيروسيدين	tyrocidin
+تيفلوران	teflurane
+تِيفِيَّة مُحَرَّشَة	provocation typhoid
+تيكارسيلين	ticarcillin
+تيكسانوكس	tixanox
+تيكلوبيدين	ticlopidine
+تيكلوثيازيد	teclothiazide
+تيكلوزان	teclozan
+تيكونياميد	tiquinamide
+تيلوفورين	tylophorine
+تيلوكسابول	tyloxapol
+تيليدين	tilidine
+تيمازِيبام	temazepam
+تيمودوكس	temodox
+تيمولول	timolol maleate
+تينيادازول	tinidazole
+تيوبيناك	tiopinac
+تيودونيوم	tiodonium
+تيوكسيدازول	tioxidazole

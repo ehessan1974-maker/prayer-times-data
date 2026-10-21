@@ -1,0 +1,220 @@
+فارنوكينون	farnoquinone (menaquinone)
+فازوبريسين	vasopressin
+فازوتوسين	vasotocin
+فاعِلِيَّةُ الدَّواء	drug potency
+فالامين	valamin
+فالبروات	valproate
+فالنوكتاميد	valnoctamide
+فاليثامات	valethamate
+فانتريدون	fantridone
+فانكوميسين	vancomycin
+فانوران	phanurane
+فترة انتشار حبوب اللقاح	pollen times
+فَتِيلَة	suppository
+فثيوكول	phthiocol
+فحمٌ	charcoal, activated
+فحم خشب منشط	activated charcoal
+فحم مُنَشَّط	activated carbon; activated charcoal
+فحم منشَّط	activated charcoal
+فَحْمٌ مُنَشَّط	carbo activatus
+فَحْمٌ نَباتِيٌّ مُنَشَّط	activated charcoal
+فحم نباتي نشط	activated carbon
+فرجينياميسين	virginiamycin
+فَرْزَجَة	pessary
+فَرْزَجَة	pessulum (pessary)
+فَرْزَجَة	pessum (pessary)
+فَرْزَجَةُ الانْقِلاَبِ الخَلْفِيّ	retroversion pessary
+فَرْزَجَةُ التَدَلِّي	prolapse pessary
+فَرْزَجَةٌ تَحَقُّق	check pessary (diaphragmam pessary)
+فَرْزَجَةٌ تَنْتَفِخُ بالهَواء	air-ball pessary
+فَرْزَجَةٌ جِذْعِيَّة	stem pessary
+فَرْزَجَةٌ حِجابِيَّة	diaphragm pessary
+فَرْزَجَةٌ حَلَقِيَّة	ring pessary
+فَرْزَجَةُ سميث	Smith's pessary
+فَرْزَجَةٌ عَتَلِيَّة	lever pessary
+فَرْزَجَةٌ كَعْكِيَّة	doughnut pessary
+فَرْزَجَةٌ كوبِيَّة	cup pessary
+فَرْزَجَةٌ مانِعَةٌ للحَمْل	contraceptive pessary
+فَرْزَجَةُ مينج	Menge's pessary (ring pessary)
+فَرْزَجَةُ هُودْج	Hodge's pessary
+فَرْطُ الأَنْسولين	insulism (hyperinsulinism)
+فَرْطُ الأنسولينيَّة	hyperinsulinemia
+فَرْطُ الأنسولينيَّة	hyperinsulinism
+فَرْطُ الأنسولينيَّةِ العِلاَجِيُّ	iatrogenic hyperinsulinism
+فَرْطُ التَّحَسُّسِ للدَّواء	drug hypersensitivity
+فَرْطُ التّطْعِيْم	hypervaccination (hyperimmunization)
+فَرْطُ الحَرارَةِ التَّخْديرِيّ	hyperthermia of anesthesia (malignant hyperthermia)
+فَرْطُ الدَّرَقِيَّةِ العِلاجِيُّ	iatrogenic hyperthyroidism
+فَرْطُ الفيتامين	hypervitaminosis
+فَرْطُ الفيتامين	supervitaminosis
+فَرْطُ الفيتامين A	hypervitaminosis A
+فَرْط الفيتامين D	hypervitaminosis D
+فَرْطُ تَعَاطِي الأَدْوِيَة	hypermedication
+فَرْطُ طَليعَةِ الانسولينِ في الدَّم	hyperproinsulinemia
+فرط هرمون النمو	hypersomatatropism
+فُرْفُرِيَّةٌ دَوائِيَّة	drug purpura
+فُرْفُرِيَّةٌ سِتيرُويدِيَّة	steroid purpura
+فُسْفُونُومِيسين	phosphonomycin
+فَطْمُ المُورفين	demorphinization
+فِعْلٌ صَيْدَلانِيٌّ طَوِيْلٌ	pharmaceutical prolonged-action
+فِعلٌ مُطَهِّر	germicidal action
+فغرية التلقيح	chasmogamous
+فَقْدُ الذَّاكِرَةِ العِلاَجِيُّ المَنْشَأ	chemanesia
+فَقْرُ الدَّمِ البَثَعِيّ	scorbutic anemia
+فَقْرُ الدَّمِ المُحْدَثُ بالأَدْوِيَة	drug induced anemia
+فلافوكسات	flavoxate
+فلوبروستينول	fluprostenol
+فلوبيراميد	fluperamide
+فلوتراسين	fluotracen
+فلوتيازين	flutiazin
+فلودوركس	fludorex
+فلورازيبام	flurazepam
+فلورانتيرون	florantyrone
+فلوراندرينولون	flurandrenolone
+فلوراندرينوليد	flurandrenolide
+فلوربيبروفين	flurbiprofen
+فلوروثيل	flurothyl
+فلوروسيتابين	flurocitabine
+فلوريزين	florizine
+فلوسبيريلين	fluspirilene
+فلوسيتوزين	flucytosine
+فلوسيندول	flucindole
+فلوسينونيد	fluocinonide
+فلوفينازين	fluphenazine
+فلوفينيسال	flufenisal
+فلوكساسيلين	floxacillin
+فلوكساسين	floxacin
+فلوكسوريدين	floxuridine
+فلوكوازون	fluquazone
+فلوكورتين	fluocortin
+فلوكونازول	fluconazole
+فلوميثازيد	flumethiazide
+فلوناريزين	flunarizine
+فلونترازيبام	flunitrazepam
+فلونيدازول	flunidazole
+فلونيسوليد	flunisolide
+فلونيكسين	flunixin
+فليتازيبام	Fletazepam
+فليوكسي ميسترون	fluoxymesterone
+فنيتوين	phenytoin
+فِنيثِيلين	fenethylline
+فورازوليدون	furazolidone
+فورسالان	fursalan
+فُورمَالين	formalin
+فوروسيميد	frusemide (furosemide)
+فوروسيميد	furosemide
+فوروسيميد	fursemide (furosemide)
+فوسازيبام	fosazepam
+فوسبيرات	fospirate
+فوسفوميسين	fosfomycin
+فوسفونيت	fosfonet
+فُوماجيلِّين	fumagillin
+فُوماراتُ الكُوتينين	cotinine fumarate
+فونازين	fonazine
+في الوريد - زرقاً	I.V ( intravenous injection )
+فِيبرِيفوجين	febrifugine
+فيتامين	auxohormone (vitamin)
+فيتامين	vit.C
+فيتامين	vitamin
+فيتامين - ب	vitamin P
+فيتامين - ب المركَّب	vitamin B complex
+فيتامين - ب ب	vitamin PP
+فيتامين - ب12	vitamin B12
+فيتامين - ب2	vitamin B2
+فيتامين - ب6	vitamin B6
+فيتامين - ج	vitamin C
+فيتامين - ح	vitamin H
+فيتامين - د	vitamin D
+فيتامين - د2	vitamin D2
+فيتامين - د3	vitamin D3
+فيتامين - ز	vitamin G
+فيتامين - ك	vitamin K
+فيتامين - هـ	vitamin E
+فيتامين أ	vit.A; vitamin A
+فيتامين أ	vitamin A
+فيتامينُ النُّفُوذِيَّة	permeability vitamin
+فيتامين ب أ	aneurin
+فيتامين ب ب	vit.PP
+فيتامين ب-	vitamin B
+فيتامين ب1	vit.B1
+فيتامين ب12	vit.B12
+فيتامين د	vit.D
+فِيتَامِين ذَوَّاب فِي الدَّسَم	liposoluble vitamin
+فِيتَامِين ذَوَّاب فِي المَاء	hydrosoluble vitamin
+فيتامين سداسي	hexavitamia
+فيتامينٌ مُضادٌّ لجُفافِ المُلْتَحِمَة	antixerophthalmic vitamin (vitamin A)
+فيتامينٌ مُضادٌّ للبَثَع	antiscorbutic vitamin (ascorbic acid)
+فيتامينٌ مُضادٌّ للبلاغْرَة	antipellagra vitamin (niacin)
+فيتامينٌ مُضادٌّ للشَّيْب	anticanitic vitamin (par-aminobenzoic acid)
+فيتامينٌ مُضادٌّ للعدْوَى	anti-infection vitamin (vitamin A)
+فيتامينٌ مُضادٌّ للعُصاب	antineuritic vitamin (thiamin)
+فيتامينٌ مُضادٌّ للعُقُم	antisterility vitamin (vitamin E)
+فيتامينٌ مُضادٌّ للنَّزْف	antihemorrahgic vitamin (vitamine k)
+فيتامين و	vit.E
+فيتاميناتٌ ذَوَّابَةٌ بالدُّهْن	fat-soluble vitamins
+فيتاميناتٌ ذوَّابَةٌ بالمَاء	water-soluble vitamins
+فِيتوكسِيلات	fetoxylate
+فِيتُوميناديون	phytomenadione (vitamin K1)
+فِيتُونادْيون	phytonadione (vitamin K1)
+فيثاربيتال	phetharbital
+فيراباميل	verapamil
+فيراترويدين	veratroidine
+فيرُّوكولِينات	ferrocholinate
+فِيزْيُولُوجْيا المَصْل	serophysiology
+فيلوكسازين	viloxazine
+فيلُّوكينون	phylloquinone (phytonadione)
+فِيلِيبين	filipin
+فيميتون	phemitone
+فينازوبيريدين	phenazopyridine
+فينازوسين	phenazocine
+فيناسيتين	phenacetin
+فيناسيميد	phenacemide
+فيناغليكودول	phenaglycodol
+فيناكايين	phenacaine
+فينالاميد	fenalamide
+فينامات	fenamate
+فينبروميثامين	phenpromethamine
+فينبلاستين	vinblastine sulfate
+فينبوتازون	phenbutazone
+فِينبوفِين	fenbufen
+فِينبِيبالون	fenpipalone
+فِينبِيندازول	fenbendazole
+فينتانيل	fentanyl
+فينتولامين	phentolamine
+فينتيرمين	phentermine
+فِيندوزال	fendosal
+فينديزين	vindesine
+فينساكسيميد	phensuximide
+فِينسبِيريد	fenspiride
+فينسيكليدين	phencyclidine
+فينفلُورامين	fenfluramine
+فينفورمين	phenformin
+فينكريستين	vincristine sulfate
+فينكلوراك	fenclorac
+فِينكلُوفيناك	fenclofenac
+فِينكلُونين	fenclonine
+فينكوفوس	vincofos
+فينميترازين	phenmetrazine
+فِينمِيتوزول	fenmetozole
+فينوباربيتال	phenobarbital
+فينوبام	fenobam
+فينوبروبازين	phenopropazine
+فينوبروفِين	fenoprofen
+فينوبروكومون	phenprocoumon
+فينوتِيرول	fenoterol
+فينوثيازين	phenothiazine
+فينوكسي بنزامين	phenoxybenzamine
+فينيثيسيلين	phenethicillin
+فينيراميدول	phenyramidol
+فينيرامين	pheniramine
+فينيزوريكس	fenisorex
+فينيل بروبانولامين	phenylpropanolamine
+فينيل بروبيل ميثيلامين	phenylpropylmethylamine
+فينيل بوتازون	phenylbutazone
+فينيل تولوكسامين	phenyltoloxamine
+فينيل مركوريك	phenylmercuric
+فينيلزين	phenelzine
+فينيندامين	phenindamine
+فينينديون	phenindione
+فيوميسين	viomycin
+فيوني	opiate

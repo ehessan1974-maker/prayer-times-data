@@ -1,0 +1,330 @@
+ناتِج الحفر	spoil
+ناجِمَة	cion = scion
+نازع السُّوق: مجرِّدُ الأوراق أو الثمار	stemmer
+ناشر عصافة التشويش	chaff dispenser
+ناغانا	nagana
+ناقلة حبوب	grain carrier
+ناقلة حبوب سائبة	bulk grain carrier
+ناليد	naled
+نامٍ في الجفاف	xerophilous
+نباتٌ بِزريّ	seed plant
+نباتات التربة	soil flora
+نباتات حقول الحبوب	segetals
+نبت	germination
+نبَتَ أو برَزَ من البُرعُم	sprout
+نبتة الجنون: نبتة سامّة إذا أكلتها	locoweed
+نبتة فخ	trap crop
+نِبْر	botfly
+نِبْر البقر: ذبابة تضع بيوضها على جلود	ox-fly
+نبض	pulse
+نَبْضٌ أُحادِيُّ المَوجَة	monocrotic pulse
+نَبْضٌ أُذَينِيٌّ كَبِدِيّ	atrial liver pulse
+نَبْضٌ أُذَينِيٌّ وَريدِيّ	atrial venous pulse (atriovenous pulse)
+نَبْضٌ أُذَينِيٌّ وَريدِيّ	atriovenous pulse
+نَبْضٌ أُشْرِيُّ المَوجات	sawtooth pulse
+نَبْضُ التردُّد اللاسلكي	radio-frequency pulse
+نَبْضُ السُّباتِيّ	carotid pulse
+نبض الطرق المائي "لكرجان"	Corrigan water - hammer pulse
+نَبضُ المَجموعة	group pulse
+نَبْضٌ بَارِق	entoptic pulse
+نَبْضٌ بَطْنِيّ	abdominal pulse
+نَبْضٌ بَطِيء	infrequent pulse
+نَبْضٌ بَطيء	pulsus tardus (very slow pulse)
+نَبْضٌ بَطيء	slow pulse
+نَبْضٌ تَنَفُّسِيّ	respiratory pulse
+نَبْضٌ تَوأَمِيّ	bigeminal pulse
+نَبْضٌ ثُلاَثِيُّ التَّوائِم	trigeminal pulse
+نَبْضٌ ثُلاَثِيُّ الصَّاعِدَة	anatricrotic pulse
+نَبْضٌ ثُلاَثِيُّ المَوجَة	tricrotic pulse
+نَبْضٌ ثُلاَثِيُّ النَّازِلَة	catatricrotic pulse
+نَبْضٌ ثُنَائِيُّ التَّثَلُّم	dicrotic pulse
+نَبْضٌ ثُنائِيُّ الصَّاعِدَة	anadicrotic pulse
+نَبْضٌ ثُنائِيُّ النَّازِلَة	catadicrotic pulse
+نَبْضٌ حادّ	sharp pulse
+نبض حراري	heat pulse
+نَبْضٌ حَلْقِيّ	guttural pulse
+نبض حمضي	acid-pulse
+نَبْضٌ حُمَّوِيّ	febrile pulse
+نَبْضٌ خَلْفَ القَصّ	retrosternal pulse
+نَبْضٌ خَيطِيّ	filiform pulse (thready pulse)
+نَبْضٌ خَيطِيّ	pulsus filiformis (thready pulse)
+نَبْضٌ خَيطِيّ	thready pulse
+نَبْضٌ دودِيّ	vermicular pulse
+نَبْضٌ راكِض	running pulse
+نَبْضٌ رُباعِيّ	quadrigeminal pulse
+نَبْضٌ رَجَّاف	trembling pulse (tremulous pulse)
+نَبْضٌ رَجَّاف	tremulous pulse (running pulse)
+نَبْضُ ريغل	Riegel's pulse
+نَبْضٌ سَرَرِيّ	funic pulse
+نَبْضٌ سَريع	pulsus celer (quick pulse)
+نَبْضٌ سَريع	quick pulse
+نَبْضٌ سَريع	rapid pulse
+نَبْضٌ سَريعُ الانْخِماص	collapsing pulse (Corrigan's pulse)
+نَبْضٌ سِلْكِيّ	wiry pulse
+نَبْضٌ شُرْسوفِيّ	epigastric pulse (abdominal pulse)
+نَبْضٌ شُعَيرِيّ	capillary pulse
+نبض صدمةِ	shock pulse
+نَبْضٌ صُلْب	hard pulse
+نَبْضٌ ضَعيف	pulsus vacuus (very weak pulse)
+نَبْضٌ ظُفُرِيّ	nail pulse
+نَبْضٌ عالِي التَّوَتُّر	high-tension pulse
+نَبْضٌ عنكبوتيّ	arachnoid pulse (thready pulse)
+نَبْضٌ غازِيّ	gaseous pulse
+نَبْضٌ قافِز	piston pulse (collapsing pulse)
+نبض قافز	pulsus celerimus (collapsing pulse)
+نَبْضٌ قَذائِفِيّ	cannon ball pulse (Corrigan's pulse)
+نَبْضٌ قَصير	short pulse
+نَبْضٌ قَصيرُ الارتفاع	pulsus parvus (small pulse)
+نَبْضٌ قَوِيّ	pulsus fortis (strong pulse)
+نَبْضٌ قَوِيّ	strong pulse
+نَبْضٌ كالطَّلَقَة	pistol-shot pulse
+نَبْضٌ كَبِدِيّ	hepatic pulse
+نَبْضٌ كُعْبُرِيّ	radial pulse
+نبض كوريغان	Corrigan's pulse
+نَبْضُ كوسماول	Kussmaul's pulse (paradoxical pulse)
+نَبْضُ كوِينْكَه	Quincke's pulse (capillary pulse)
+نَبْضٌ لَيِّن	pulsus mollis (soft pulse)
+نَبْضٌ لَيِّن	soft pulse
+نَبْضٌ مُبْهَمِيّ	vagus pulse (slow pulse)
+نَبْضٌ مُتَساوِي النَّبْضَات	equal pulse
+نَبْضٌ مُتعامِد	rectangular pulse
+نَبْضٌ مُتَعَدِّدُ المَوجات	polycrotic pulse
+نَبْضٌ مُتَفاوِتُ النَّبْضَات	unequal pulse
+نَبْضٌ مُتَقَطِّع	intermittent pulse
+نَبْضٌ مُتَمَوِّج	undulating pulse
+نَبْضٌ مُتَناقِض	paradoxical pulse
+نَبْضٌ مُتَناوِب	alternating pulse
+نَبْضٌ مُتَواتِر	frequent pulse
+نَبْضٌ مُتَوَتِّر	tense pulse
+نَبْضٌ مَثْلومُ الصَّاعِدَة	anacrotic pulse
+نَبْضٌ مَرِن	elastic pulse
+نَبْضٌ مُزامِن	pulse, synchronizing
+نَبْضٌ مُزامِن	sync(hronizing) pulse
+نَبْضٌ مُزْدَوِج	coupled pulse (bigeminal pulse)
+نَبْضٌ مُسْقِطٌُ لبَعْضِ النَّبْضَات	dropped-beat pulse (intermittent pulse)
+نَبْضٌ مَشْطور	biferious pulse (bisferious pulse)
+نَبْضٌ مَشْطور	bisferious pulse
+نَبْضٌ مُشَوِّش راكِب	pulse spike
+نَبْضٌ مُضْطَرِب	allorhythmic pulse (irregular pulse)
+نَبْضٌ مُضْطَرِب	irregular pulse
+نَبْضٌ مُضْطَرِب	pulsus heterochronicus (irregular pulse)
+نَبْضُ مِطْرَقَةِ الماء	water-hammer pulse (Corrigan's pulse)
+نَبْضٌ مُفَاجِىء	abrupt pulse
+نَبْضٌ مَليء	full pulse
+نَبْضٌ مُمْتَلِىء	pulsus plenus (full pulse)
+نَبْضٌ مُنْخَفِضُ التَّوَتُّر	low-tension pulse
+نَبْضٌ مُهْتَزّ	vibrating pulse
+نَبْضُ مونْيرِيه	Monneret's pulse
+نَبْضٌ نَفْضِيّ	jerky pulse
+نَبْضٌ نَمْلِيّ	formicant pulse
+نَبْضٌ هَضَبِيّ	plateau pulse
+نَبْضٌ وَريدِيّ	venous pulse
+نَبْضٌ وَريدِيٌّ جابِذ	centripetal venous pulse
+نَبْضُ وَقْع المِطْرَقَة	trip-hammer pulse (Corrigan's pulse)
+نبض وَمْضي	strobe pulse
+نَبْضَاتُ الأَمْر	command pulses
+نبضات الميقت	clock pulses
+نبضات تحرير	edit pulses; frame pulses
+نَبَضاتٌ دَليليَّة	marker pulses
+نبضات ضبط الصورة	framing pulses
+نَبَضاتٌ عَشْوائيَّة	random pulses
+نَبَضاتٌ مُتَرابِطة	coherent pulses
+نَبَضَاتُ مُزَامَنَةِ الخَطّ	line-synchronizing pulses
+نبضات مساواة	equalizing pulses
+نبضات معلومات	information pulses
+نبضة	packet; pulse; tic
+نبضة	pulse
+نبضة	pulse; impulse, US
+نبضة T	T pulse
+نَبْضَةُ اتِّصُال هَاتِفِيّ	dial pulse
+نبضة إساقة	drive pulse
+نَبْضَةُ إطلاقٍ أو بَدْءٍ	trigger pulse
+نبضة التثبيت	clamping pulse
+نَبْضَةُ التَّيَّارِ المُظْلِمِ	dark-current pulse
+نَبْضَة الرَّقْم	digit pulse
+نبضة الفُلطية	voltage pulse
+نبضة الموضع	commutator pulses
+نبضة تبييض	blanking pulse
+نَبْضةُ تَثْبيط	inhibit pulse
+نبضة تَجيبيّة	cosine pulse
+نبضة تَجيبيّة مربعة	cosine-squared pulse
+نبضة تحكم	control pulse
+نَبْضةُ تَزامُن	sync pulse
+نَبْضَةُ تَشكيل	framing pulse
+نَبْضةُ تَضْبيط	set pulse
+نبضة توقيت	timing pulse
+نَبْضَة حجب أو تبْيِيض	blanking pulse
+نبضة حرارية	thermal pulse
+نَبْضَة رادارية	radar pulse
+نَبْضَةُ سَحَابِيَّة	cloud pulse
+نَبْضة شِبْه مُنْحَرِفة	trapezoidal pulse
+نبضة ضوء مثلثيه	delta light pulse
+نبضة عادية	normal pulse
+نبضة عملاقة	giant pulse
+نبضه غاوس	Gaussian pulse
+نبضة في اتجاه واحد	unidirectional pulse
+نَبْضَةٌ قَنَوِيَّة	channel pulse
+نبضة كهرمغناطيسية محجوزة	gated electromagnetic pulse
+نَبْضَة مُخَوِّلة	enabling pulse
+نبضة مربع	sine-squared pulse
+نبضة مُربَّعة	square pulse
+نَبْضَة مُرَكَّبة	composite pulse
+نبضة مستطيلة	rectangular pulse
+نَبْضةٌ مُشَرْشَرة	serrated pulse
+نَبْضَةُ مُعادَلة	equalizing pulse
+نَبْضَة مَوجيّة	wave pulse
+نبضةُ ميقاتيةٍ	clock pulse
+نبضة وحدة	unit pulse
+نبع حدي	alluvial-slope spring; border spring; contact spring
+نَبْع مَيْل رسوبيّ	alluvial-slope spring; spring border
+نِتاشُ الحِنْطَة	wheat germ
+نِتراتُ السِّليلوز	nitrocotton
+نِتْرَاتُ الكُرُوم	chromic nitrate
+نِتروسِلْيُلُوز	collodion cotton
+نَثْر البذور	seeding
+نَجْوٌ مُتحَجِّر	coprolite
+نحَّال	beekeeper
+نِحالَة	apiculture
+نِحالة	apiculture; beekeeping
+نِحاليّ: خاصّ بالنِّحالة أو تربية النحل	apicultural
+نِخْرِط	Baptisia
+نَخْلٌ	sieving
+نخل الدقيق	sago plam; sago-tree
+نخل الدقيق	sago-palm
+نَخْل الرافية: نَخْلٌ مَدَغَشْقَرِيّ	raffia palm
+نَخْلُ الرمل	sand sieving
+نخل الزيت	oil-palm
+نَخْل السّاغو	sago palm
+نخل الشمع	ceroxylon
+نخل الشمع	wax-palm
+نخل جاف	dry sieving
+نَخْلٌ رَطْب	wet screening = wet sieving
+نخل كرنبي	palm-cabbage
+نخلات الألمنيوم	aluminum palmitate
+نخيل	date-palm
+نخيل	palms
+نَزْح	drainage
+نزح	vertical sand drainage
+نَزْحُ الجَنَبَةِ المُغْلَق	closed pleural drainage
+نَزْحُ المَصِّ المُسْتَمِرّ	continuous suction drainage
+نَزْحٌ خِلاَلِيّ	through drainage
+نَزْحٌ زِرِّيّ	button drainage
+نَزْحٌ سَلْبِيّ	negative drainage
+نَزْحٌ شُعَيرِيّ	capillary drainage
+نَزْحٌ قاعِدِيّ	basal drainage
+نَزْحٌ مَدِّيّ	tidal drainage
+نَزْحٌ مَصِّيّ	suction drainage
+نَزْحٌ مُعْتَمِدٌ عَلى الجَاذِبِيَّة	dependent drainage
+نَزْحٌ مُغْلَق	closed drainage
+نَزْحٌ مَفْتوح	open drainage
+نَزْحُ مُونالدِي	Monaldi's drainage
+نَزْحُ وانغنيستين	Wangensteen drainage
+نَزْحٌ وَضْعِيّ	postural drainage
+نَزْلَةٌ أَرَجِيَّة	allergic cold (hay fever)
+نَزْلَةُ الوُرود	rose cold (rose hay fever)
+نَزْلَةُ بوستوك	Bostock's catarrh (hay fever)
+نَزْلَةُ حَزيران	June cold (hay fever)
+نَزْلَةٌ خَبيثَة	malignant catarrh
+نَزْلَةٌ خَريفِيَّة	autumnal catarrh (hay fever)
+نُسالَة	byssus
+نسالة القطن	lint
+نُسالةُ القُطْن	linters
+نسبة التشغيل إلى الإيقاف لعملية تضمين عرض	pulse duty factor PWM (duty cucle)
+نِسبةُ الجَفاف	dryness fraction
+نسبة الخصوبة	fertility rate
+نسبة الضغط في مياه التربة	moisture tension; soil moisture tension
+نسبة العاملين في قطاع الزراعة	Employment in Agriculture Sector (as a Percentage of Total Employment)
+نسبة كمّية لمياه التربة	water-depth ratio
+نسبة مطلقة من انبعاثات الغازات الدفيئة	absolute quantity of greenhouse gas emission
+نسيج التربة	fabric of soil
+نسيج التربة	soil fabric
+نَسيجُ التُّربة	soil texture
+نَسيجٌ أَليفٌ للكرُوم	chromaffin tissue
+نسيج حبة شعير	grain d’orge / huckweave
+نَسيجٌ قُطنيّ	cotton fabric
+نَسِيقة	catena
+نَشا النَّخيل	sago starch
+نَشاء	farina
+نشاط التربة	activity
+نشاط تنفسي	breathability; breathing activity
+نشر	landfarming (drilling wastes)
+نشر على التربة	Land farming
+نشوء التربة	soil genesis / pedogenesis
+نَصْبة	sapling
+نَصْلُ المِحراث	ploughshare
+نَضُّ	leaching
+نَضْحاتٌ قُطْنِيَّةُ الشَّكْل	cotton-wool exudates
+نطاط ورق البنجر	beet leaf hopper
+نطاق	reed zone
+نطاق التربة	soil zone
+نِطاقُ ماءِ التُّرْبَةِ	belt of soil water
+نِظامُ اتصالٍ راديُوي نَبْضيّ	pulse radio
+نظام التصريف	drainage system
+نظام الرعي	grazing system
+نظام الري	irrigation system
+نظام الري الحوضي	basin irrigation / basin method of irrigation / irrigation by beds
+نظام الري بالرش	sprinkler irrigation method
+نظام الري برشاشات في صفوف	row irrigation system
+نظام الزراعة; لتقليدية زراعة تقليدية	traditional agriculture; traditional farming system (tfs)
+نِظام الصَّرْف	drainage system
+نِظام الصَّرْف الصحيّ	drainage system (drains)
+نِظام الصرف الصحيّ للمباني	drainage system; discharge system
+نظام بيئي زراعي	agricultural ecosystem; agro-ecosystem
+نظام تحكم عن بعد باختيار القناة	digital pulse duration modulation; DPDM
+نِظامُ تَصريفٍ شُعاعِيّ	radial drainage pattern
+نظام رشاشات الماء	fire sprinkler system
+نظام ري	irrigation scheme
+نظام زراعة المحاصيل	cropping system
+نظام زراعي بيئي	agroecosystem
+نِظام صَرْف	drainage pattern / drainage system
+نِظام صَرْف ذو جَرَيان مضغوط	drainage system, siphonic
+نظام صَرْف شُعاعيّ	drainage pattern, radial
+نِظام صَرْف مدنيّ	drainage system, urban
+نِظامٌ غِذائِيٌّ رُزِّيّ	rice diet
+نِظام كيتروب	Keythrope system (cross-drainage) / across-the-slope system
+نظام متكامل للمحاصيل والثروة الحيوانية	integrated crop-livestock zero tillage system
+نظام; الزراعة المتعددة المحاصيل زراعة	multicropping; multiple cropping system
+نظرية الحقول	domains theory
+نظرية الحقول الموحَّدَة	unified field theory
+نظَرَيَّةُ المَجال	field theory
+نُظُم الرِّيّ	irrigation systems
+نظم زراعة الغابات	silvicultural systems
+نفاذية قصوى	pulse permeability
+نفايات زراعية	agricultural waste
+نُفاية القُطن	cotton waste
+نَفَلُ المروج	red clover
+نقص التموه	hypohydration = dehydration
+نقص الخصوبة	hypo-orchidia = hypo-orchidism
+نقص الخصوبة	hypo-orchidism = hypo-orchidia
+نقص رطوبة التربة	soil moisture deficiency
+نقطة الجفاف	dry point
+نَقْل مياه الصرف الصحيّ إلى التُربة	application of sewage to soil
+نَقيصَةُ النَّبْض	pulse deficit
+نَقِيع الشعير. وتوسّعًا: شاي	ptisan
+نَقيعُ المَلْت	wort
+نَقيلَةٌ شَبِيْهَةٌ بالكُرَةِ القُطْنِيَّة	cotton-ball metastasis
+نماءة المروج	meadow-rhubard or rue
+نَمَطُ التربة	soil type
+نَمَط التصريف	drainage pattern
+نمط التصريف الحلقي	annular drainage pattern
+نمط الصرف	type of drainage system
+نَمطُ الصرف الحلقيّ	annular drainage pattern
+نَمَطُ النَّبْض	pulse mode
+نمط ترتيب الرشاشات	sprinkler-pattern
+نمط زراعة المحاصيل	cropping pattern
+نمط صرف	dendrite drainage pattern
+نَمطُ صَرْف مُتوازٍ	parallel drainage pattern
+نَمَطُ صرْف مستطيل	rectangular drainage pattern
+نملة حصادة	harvesting ant
+نمو بِكْريّ للثمار	parthenocarpy
+نهاية موجة الجهد الدفعى	tail of a voltage pulse
+نَهْر رسوبيّ	river, alluvial
+نَواةُ الإِخْصاب	fertilization nucleus
+نَواةُ الاقْتِران	conjugation nucleus (fertilization)
+نوبة جفاف	dry spell
+نوع التربة	type of soil
+نوعية التربة	soil quality
+نيضة عريضة	broad pulse; half-line pulse
+نيغاتول	negatol
+نيكل كروم - نيكل	NiCr-Ni
+نيكل كروم - نيكل ألومنيوم	nickelchromium-nickelaluminium

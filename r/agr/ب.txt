@@ -1,0 +1,107 @@
+بئرٌ اختبارية	test pit
+بئر إعادة شحن	vertical drainage / inverted well
+بئر امتصاص	drainage shaft / drop shaft'
+بئر صرف	drainage well
+بائع حبوب	seedsman
+بابُ الهُرْي	barn-door
+بَابولين	pabulin
+بادئة معناها: «أ» كروم. «ب» لون	chrom-
+بادئة معناها: حَبّ	grani-
+بادِرَة	seedling
+بَاراثَيُون	parathion
+باراكوات	paraquat
+بارن	barn
+بارن	barn (deprecated)
+باسيلين	bacillin
+بالميتات	palmitate
+بالوعة أرضية	floor drainage / floor gully
+بالوعة بدون مانع لتسرّب الرائحة	floor drainage without odour trap
+بالوعة حمّام	bath drainage
+بالوعة مزودة بمانع لتسرب الرائحة	floor drainage with odour trap
+بانولوجيّ: ذو علاقة بالبانولوجيا	penological
+بانِيَةُ العَظْم: الخليّة البانية للعظم	osteoblast
+بحر الخصوبة	mare foecunditatis
+بديل زراعي إيكولوجي	agro-ecological alternative
+بذر	broadcast sowing
+بَذْر	seeding
+بَذْر	sowing
+بذر في حفر	seed-hole
+بذرة	seed
+بذرة القطن	cottonseed
+بذرة اندوسبرمية	endospermic seed
+بذرة لا اندوسبرمية	exendospermic seed
+بذرية لا تلقيحية	agamospermy
+بذور البن	cofee-bean
+بذور المحار	oyster seed
+بذور سويدائية	albuminous seeds
+بُذورُ لِسانِ الحَمَل	plantaginis semen
+بذور مبسترة	blind seed
+بِرازٌ شَبِيْهٌ بحَبَّاتِ نَشا النَّخيل	sago-grain stool
+بِرازٌ شَبِيْهٌ بمَاءِ الرُّزّ	rice water stool
+بَرْبَخ صَرْف	drainage culvert / supply culvert
+بِرذَون: فَرَس مزرعةٍ	dobbin
+بِرسيم	clover
+برعمة	scuicheon-graft
+برغل	crushed wheat
+برغوث البساتين	turnip-fly
+برنامج أسمدة	fertilizer programme
+برنامج الطاقة الزراعية	agriforenergy II
+برو?انسيّ: مطهوّ مع الثوم والبصل والفُطر	Provençale
+بروموكريبتين	bromocriptine
+بِزْرُ القَطُّونا	plantago seed (psyllium seed)
+بِزْرُ القَطُّونا	psyllium seed
+بِزْرة	seed
+بِزْرَةُ الذَّهَبِ المُشِعّ	radiogold seed (198 Au seed)
+بِزْرَةُ الرَّادون	radon seed
+بِزْرَةُ العايِق	larkspur seed
+بِزْرَةُ الكَرَفْس	celery seed
+بِزْرَةُ الهَيل	cardamon seed
+بِزْرَةٌ سُوَيدائية	albuminous seed
+بساط تصريف الماء	drainage blanket
+بستان	orchard
+بستان البذور	seed orchard
+بستاني	horticulturist
+بستنة	horticulture
+بَسْتَنِيّ	horticultural
+بُصْرَة	terra rossa
+بَضْعُ القَطَن	osphyotomy
+بَضْعُ الكُلْيَةِ بطَرِيْقِ القَطَن	lumbar nephrotomy
+بطانة	lining, soil
+بَعْر	feces; faeces
+بَقُّ الحَصَّادين	harvest bug (chigger)
+بَقُّ الحِنْطَة	wheat bug (pyemotes)
+بَقُّ الشَّعير	barley bug (Acarus hordei)
+بَقْر حَلُوب	dairy cattle
+بُقَعُ روث	Roth's spots
+بُقَعٌ قُطْنِيَّة	cotton-wool spots
+بُقْعَةٌ إنْتاشِيَّة	macula germinativa
+بَقْل	legume
+بقوليات	legume
+بقوليات المراعي	pasture legumes
+بَكّارة يدويَّة	gin
+بكتريا التربة	bacteria, soil
+بكتريا التربة	soil bacteria
+بكتيريسيدين	bactericidin
+بلاستئين	plastein
+بلمر تشاركي مطعّم	graft copolymer
+بِلَّورةُ بَدْءِ التبَلْوُر	seed crystal
+بلوزة البحار	fisherman’s jumper
+بِناء الأنفاق الدقيقة بواسطة تفتيت وشفط	microtunnelling with spoil removal by vacuum
+بَنْجَرُ	sugar beet
+بَنَفْسَجِيَّةُ الكروم	chrome violet
+بِنْيَةُ التُّربة	soil structure
+بوابة جرار	tractor gate
+بُوتُونات	butonate
+بورصة القطن بريمن	Bremen Cotton Exchange
+بَوْغ السَّرخس: أبواغ السَّرْخس التي	fern seed
+بيت المزرعة: بيت في مزرعة	farmhouse
+بَيْت النَّبْع: مُسْتودع منخفض الحرارة	springhouse
+بيت زجاجي	greenhouse
+بيت سياحة إيكولوجية بيولوجية; المزرعة	organic farm-house; bio- ecotourism; organic agritourism
+بِيتا-نِيكُوتِيرين	beta-nicotyrine
+بيروكسلين	pyroxilin; guncotton
+بَيرُوكْسَيلين	pyroxylin
+بَيْضَةٌ مُخَصَّبَة	fertilized ovum (zygote)
+بيما أمريكي	US-Pima cotton
+بَينَ الشُّعَيرات	intercapillary
+بيوسيد	biocide

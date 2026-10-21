@@ -1,0 +1,103 @@
+جارُ الماء: شجر ينمو في التربة الرطبة	alder
+جانِبيَّة التُّربة	soil profile
+جَدْوَلُ روثْ	Routh table
+جَدوَلُ شُرُوط استخدام التربة	soil use table
+جذور درنية للنبات	beetroot
+جَرَّارٌ	tractor
+جَرَّارُ الإِحْليل	urethral tractor
+جَرَّارُ البروستاتة	prostatic tractor
+جرار السفن و البوارج	barge tractor
+جرَّار برمائي	amphibious tractor
+جَرّار بَرمائي	amtrac = amphibious tractor
+جرار جانبي الذراع	side boom tractor
+جَرَّار سِكَكِي خفيف	light rail motor tractor
+جَرَّارُ سيمز	Syms' tractor
+جَرّارٌ مُزَنْجَر	crawler tractor
+جَرَّارٌ نِصفُ مُجَنزَر	half-track tractor
+جَرَّارَة ذاتُ عَجَلات	wheeled tractor
+جَرّارة مُزَنْجرة	caterpillar tractor
+جَرّافَةُ الثَّلج	snow-plough
+جَرَّافةُ تَحْميلٍ جَرّارة	tractor loader
+جَرَّافةُ تَحميلٍ جَرّارة	tractor shovel = tractor loader
+جَرَّافَة جَانِبِيَّة	side plough
+جرثوم زراعي	Agriobacterium
+جرثومة القمح	wheat germ
+جَرْد التربة	soil stock-taking
+جَرْف التربة	flushing / rinsing / scouring / undercutting
+جرين كوتون®	Green-Cotton®
+جَزَّ	shear
+جزء	fine fraction
+جزء	silt-size fraction
+جزء من منطقة الصرف	part of the drainage area
+جُزْئِيُّ الجَفاف	semidrying
+جزيئات التربة المترابطة	soil colloid
+جسر ذو 12 نبضة	Twelve-pulse bridge
+جِسْمٌ أَليفٌ للكروم	chromaffin body (paraganglion)
+جِسْمُ بِذْرَةِ البِطِّيخ	melon-seed body
+جسم نبضي	pulse packet
+جَفَّ بالتقَطُّر	drip-dry
+جَفاف	drought
+جَفاف	dryness
+جُفاف	xerosis
+جُفاف	xerotes
+جُفافُ الأَنْف	xeromycteria
+جُفافُ البُلْعُوم	pharyngoxerosis
+جُفافُ الجِلْد	dermatoxerasia (xeroderma)
+جفاف الجلد	skin dryness; xero-derma
+جفاف الجلد	xero- derma; skin dryness
+جُفافُ الجِلْد	xeroderma
+جُفافُ الجِلْد	xerodermia
+جُفافُ الجِلْد	xerosis cutis
+جُفافُ الجِلْدِ الجُرَيبِيّ	follicular xeroderma
+جُفافُ الجِلْدِ المُصْطَبِغ	xeroderma pigmentosum
+جُفاف الجِلد الملوَّن	xeroderma pigmentosum
+جُفافُ الجِلْدِ و المَفْصِل	xerodermosteosis
+جُفافُ الحَنْجَرَة	laryngoxerosis
+جُفافُ الشَّعْر	xerasia
+جُفافُ الشِّفاه	xerocheilia
+جُفافُ العَين	ophthalmoxerosis (xerophthalmia)
+جُفاف العيْن	xerophthalmia
+جُفافُ الفَم	dry mouth (xerostomia)
+جُفافُ الفَم	dryness of the mouth
+جُفافُ الفَم	xerostomia
+جُفافُ القَرْنِيَّة	xerosis corneae (corneal xerosis)
+جُفافُ المَفْصِل	arthroxerosis (chronic osteoarthritis)
+جُفَافُ المُقْلَة	scheroma (xerophthalmia)
+جُفافُ المُلْتَحِمَة	xeroma (xerophthalmia)
+جُفافُ المُلْتَحِمَة	xerophthalma
+جُفافُ المُلْتَحِمَة	xerophthalmia
+جُفافُ المُلْتَحِمَة	xerophthalmus
+جُفافُ المُلْتَحِمَةِ السَّطْحِيّ	xerosis superficialis
+جُفافُ المُلْتَحِمَةِ المَتْنِيّ	xerosis parenchymatosa
+جُفافُ المَنْخَر	mycteroxerosis
+جُفافُ المَهْبِل	colpoxerosis
+جَفَّاف الوَحَل	slop dehydrator
+جفاف بادئ	incipient drying
+جفاف مطلق	absolute drought
+جفاف ناشىء	incipien drying
+جفاف هيدرولوجي	hydrological drought
+جَفافيّ	xeric
+جَفافيّ: متعلِّقٌ بموطن شديد الجفاف a	xeric
+جُلْبَةُ القَارِشَة	psoroptic scab
+جلد الكروم	chrome-tanned leather
+جِلْدُ المُزارِع	farmer's skin (sailor's skin)
+جِلْدُ المُزارِعين	farmer's skin
+جِلْدٌ كروميّ	chrome leather
+جُمْجُمَةُ شَبِيْهَةٌ بوَرَقِ البَرْسيم	clover leaf skull
+جمعية القطن ليفربول	Liverpool Cotton Association
+جموح تأثير الاحتباس الحراري	runaway greenhouse effect
+جنس القطن	gossypium
+جنس زنبق النخيل	cordyline
+جُنوح	plough-in (ship)
+جنون الماشية: داء عصبيّ يصيب الخيل	locoism
+جِهازُ التَّصْويرِ الشُّعاعِيِّ	x-ray panoramic apparatus
+جِهاز قياس مواصفات التربة	ground measurement equipment
+جهاز كشف انزلاق التربة	land-slide detector
+جهازأليف الكروم	chromaffin system
+جهد التربة	soil potential
+جهد دفعى كامل الموجة	full-wave voltage pulse
+جهد دفعي مقطوع الموجة	chopped voltage pulse
+جَهِيض	abortus
+جواد الماشية: جواد لرعي الماشية	cow pony
+جيولوجيا زراعية	agricultural geology
+جيُولوجية التربة	soil geology

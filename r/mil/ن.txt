@@ -1,0 +1,89 @@
+نائب الحاكم	lieutenant governor
+نادي السِّباق	jockey club
+ناشلة البطائن	casing spear
+ناقلة	Tank Ship (Tanker)
+ناقلة الجُنْد: طائرة لنقل الجُنْد	troop carrier
+ناقِلَةُ الغامَّا-غلُوتاميل	gamma-glutamyltransferase
+ناقِلَةُ جُنود	troop carrier
+ناقِلَة ذاتيَّةُ التعبِئة	self-loading conveyor
+ناقِلةُ زَيت	oil bunker
+ناقلة مياه	water ballast tank
+ناقلة نفط	tank ship
+ناوَرَ	manoeuvre = maneuver
+نَبْضٌ قَذائِفِيّ	cannon ball pulse (Corrigan's pulse)
+نَبْضٌ كالطَّلَقَة	pistol-shot pulse
+نَبْع بحري	submarine spring
+نَبُّوت الحرب أو القتال: أداة نبُّوتيّة	war club
+نِتراتُ الرَّصاص	lead nitrate
+نِتْراتُ الرَّصَاص	plumbi nitras
+نِتروغلِسَرين	explosive oil = nitroglycerine
+نجيل عكرش	spear-grass
+نداء الرُّجوع	call to quarters
+نَزْعُ الألغام	demining
+نَزْعُ السِّلاح	demilitarization
+نَزْعُ السلاح	disarmament
+نَزْع السلاح	disarmament; demilitarization
+نزعُ السِّلاح النَّووي	nuclear disarmament
+نسبة	crystallographic axial rations
+نسبة التنقيص	ration of reduction
+نسبة التوليد	breeding ration
+نسبة الظل	tangent ration (tan)
+نسبة تغطية الديون	debt coverage ration (dcr)
+نَسَقُ قنابِلَ مُتَتاليةِ السقوط	stick of bombs
+نَسِيفَة بنغالور: أنبوب حديديّ طويلٌ	bangalore torpedo
+نُشوءٌ كَمِّي	quantum (or explosive) evolution
+نُصُب الحرب: نُصُب تذكاريّ لتخليد ضحايا	war memorial
+نصل من الرصاص	lead blade
+نِطاقُ الجيشان	surf zone
+نطاق القوات المتنقلة جواً	air-mobile band
+نظائر الرصاص	lead isotopes
+نظام إدارة أسطول النقل	fleet management system (FMS)
+نظام إدارة الأسطول	fleet management system
+نظام إشارات تحذيرية مسبقة لكبينة القيادة	advance warning cab signalling
+نظام التحسين الفعال للقيادة في المنحنيات	active cornering enhancement (ACE)
+نظام التحكم	controller
+نظام التحكم الإلكتروني في ديناميكية	vehicle-dynamics control (FDR)
+نظام التحكم بالسلاح	weapon control system
+نظام التحكم في دينامية القيادة	vehicle-dynamics control
+نظام التحكم في وسائل الراحة أثناء القيادة	ride comfort control system
+نظام التسليح	weapon system
+نظام العداد السهمي لقياس معدل استهلاك	consumer reference arrow system
+نظام العدّاد السهمي لقياس معدل توليد	generator reference arrow system
+نظام القصف المنخفض	low-altitude bombing system
+نظام القيادة الدينامية	dynamic drive
+نظام القيادة الهيدروديناميكية	hydrodynamic drive
+نظام المعركة	order of battle
+نظام الملاحة الجوي التكتيكي	tactical air navigation system
+نظام إنذار القنابل	Bomb Alarm System
+نظام بخرطوشة وكستية	cassette-cartridge system
+نظام تصويب السلاح	weapon-aiming system
+نِظام تنظيف الحوض	tank cleaning system
+نظام دينامية القيادة	interactive dynamic driving system (IDS)
+نظام رشاشات الماء	fire sprinkler system
+نظام قياس الخزان بالرادار	Radar Tank Gauging System
+نظام متطور للشراء والإمداد	advanced procurement and logistics system (APLS)
+نظرةٌ خاطفة	coup d'oeil
+نظرية الغزو	invasion theory
+نَظَرِيَّةُ كانون	Cannon's theory
+نظم القيادة الذاتية في المركبات الكهربائية	Autonomous Driving Systems in EVs
+نَظيرُ الوَقْس	paravaccinia (milkers nodules)
+نَعْليَّة خارقة للدروع	armor-piercing sabot
+نَفْخ البُوق	taps
+نُقطَة استراتيجيَّة	locality, strategic
+نقطة التَّجمُّع: مكان يُجْمَع فيه	staging area
+نقطة إلقاء القنابل	bomb release point
+نُقْطَةُ إلقاءِ القَنابِل	bomb-release point
+نقطة تخزين الذخيرة	ammunition dump
+نُقْطَةُ كانون	Cannon's point
+نقل استراتيجي	strategic transport
+نقل الأشجار من موقع القطع	skidding
+نَقْل الملكية	alienation
+نقل جوي استراتيجي	strategic air transport
+نمط ترتيب الرشاشات	sprinkler-pattern
+نموذج البارجة	battleship model
+نموذج صهريج	model tank
+نهوض قاع البحر	submarine rise
+نُهَير	sike
+نورُ اللّوحة	panel light
+نيران إسكات مدفعية م	flak-suppression fire
+نيران هُجومية	assault fire

@@ -1,0 +1,90 @@
+ثاليدوميد	thalidomide
+ثايهيكسينول	thihexinol
+ثَعْلَبَةٌ دَوائِيَّة	drug alopecia
+ثِقْل ساقِط	drop weight
+ثُلاثيُّ البرومسالان	tribromsalan
+ثُلاثيُّ بروم إيثانول	tribromethanol
+ثلاثي بروم إيثانول	tribromoethanol
+ثُلاثيُّ كلورإيثيلين	trichloroethylene
+ثُلاثِيُّ كلورفون	trichlorfon
+ثُلاثيُّ كلورميثازيد	trichlormethiazide
+ثُلاثيُّ كلوروفينول	trichlorophenol
+ثُلاثيُّ نتروفينول	trinitrophenol
+ثُلاثيُّ نتروكريزول	trinitrocresol
+ثلاثية المسكن	trioecy
+ثُنائِيُّ أَسِيتِيل مُورفِين	diacetylmorphine
+ثُنائيُّ أُكسيدِ التيتانيوم	titanium dioxide
+ثُنائيُّ الإيثازِين	diethazine
+ثُنائِيُّ البِيبانُون	dipipanone
+ثُنائِيُّ البيفيفرين	dipivefrin
+ثُنائِيُّ الثَّيازانِين	dithiazanine
+ثُنائِيُّ السَّلْفِيرام	disulfiram
+ثُنائِيُّ الفلُوانين	difluanine
+ثُنائِيُّ الفلُوبرِيدنات	difluprednate
+ثُنائِيُّ الفلُورازُون	diflorasone
+ثُنائِيُّ الفلُوميدون	diflumidone
+ثُنائِيُّ الفلُونيزال	diflunisal
+ثُنائيُّ الفينوكسامِيد	difenoxamide
+ثُنائيُّ الفينوكسين	difenoxin
+ثُنائِيُّ المِرْكابْرول	dimercaprol
+ثُنائِيُّ المَسْكَن	bilocular
+ثُنائِيُّ المَسْكَن	biloculate
+ثُنائِيُّ المَسْكَن	biloculation; bilocular
+ثُنائيُّ المَسْكَن	dioecious
+ثُنائِيُّ الميثوكسانات	dimethoxanate
+ثُنائيُّ الميثيزوكين	dimethisoquin
+ثُنائِيُّ المِيثيكون	dimethicone
+ثُنائِيُّ المِيثيكونِ المُنَشَّط	activated dimethicone
+ثُنائِيُّ الميثيندين	dimethindene
+ثُنائِيُّ المِيفادان	dimefadane
+ثُنائيُّ المِيفلِين	dimefline
+ثُنائِيُّ الهيكسيفِيرِين	dihexyverine
+ثُنائيُّ إيثِيل بروبيون	diethylpropion
+ثُنائيُّ إيثيل طُولْواميد	diethyltoluamide
+ثُنائيُّ إِيثِيل كاربامازِين	diethylcarbamazine
+ثُنائِيُّ بَنْزِيل كلُورِيتامين	dibenzylchlorethamine
+ثنائي زمن العبور - حاجزي الحقن	barrier injection transit-time diode
+ثُنائِيُّ طَرْطَرات خُماسِيُّ	pentapyrrolidinium bitartrate (pentolinium)
+ثُنائِيُّ فينيل بيرالين	diphenylpyraline
+ثُنائي كلُورفِينامِيد	dichlorphenamide
+ثُنائيُّ كلُوروأيزوبروتِيرِينُول	dichloroisoproterenol
+ثُنائيُّ ميثيل أسيتال	dimethylacetal
+ثُنائِيُّ ميثيلِ المورفين	dimethyl morphine (thebaine)
+ثُنائيُّ ميثيل فتالات	dimethyl phthalate
+ثُنائِيُّ هيدرو كُودِين	dihydrocodeine
+ثُنائيُّ هيدروكسِي الفِيتامينِD3	diiodotyrosine
+ثُنَائِيَّةُ المَسْكَن	biloculation
+ثنائية المسكن-أنثوية	gynodioecy
+ثوزالينون	thozalinone
+ثونزونيوم	thonzonium
+ثونزيلامين	thonzylamine
+ثيابندازول	thiabendazole
+ثياديازيد	thiadiazide (thiazide)
+ثيازيد	thiazide
+ثياسيتازون	thiacetazone
+ثيامازول	thiamazole (methimazole)
+ثيامفينيكول	thiamphenicol
+ثياميلال الصوديوم	thiamylal sodium
+ثيامين	aneurin; thiamine
+ثيامين	thiamin (vitamin B1)
+ثيامين	thiamine (thiamin)
+ثيامينيدين	tiamenidine
+ثيفيناميل	thiphenamil
+ثيموبويتين	thymopoietin
+ثيموفورم	thymoform
+ثيمْيروسال	thimerosal
+ثينيل بيرامين	thenylpyramine (methapyrilene)
+ثينيل ثُنائيِّ الأمين	thenyldiamine
+ثيوباربيتال	thiobarbital
+ثيوباربيتورات	thiobarbiturate
+ثيوبرومين	theobromine
+ثيوبيريدون	tioperidone
+ثَيُوبينتال	thiopental
+ثَيُوتيبا	thiotepa
+ثَيُوتيكسين	thiothixene
+ثَيُوريدازين	thioridazine
+ثيوغوانين	thioguanine
+ثيوفيلين	theophylline
+ثَيوميرسالات	thiomersalate (thimerosal)
+ثيويوراسيل	thiouracil
+ثيويوريا	thiourea

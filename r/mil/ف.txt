@@ -1,0 +1,47 @@
+فائض الحوض	tank overflow structure
+فاحِصٌ صاروخِيّ	rocket tester
+فادِن	plumb
+فارّ	deserter
+فارس الليل: عضو عصابة سرّية من الفرسان	night rider
+فتحة القياس	gauge hatch
+فُتحةُ مُراقبة	spy-hole
+فترة الهجوم	transattack period
+فترة مابعد الهجوم	post-attack period
+فَحَصَ	collate
+فرار من الجيش	desertion
+فَراغ	blank
+فِرجار قَوسيّ رَصاصيّ	bow pencil
+فِرْجَونُ استِكشاف	exploring brush
+فِرشاة هَوائية	air-brush
+فَرْشَة	mattress
+فَرْشة ترشيح	filter bed
+فِرقاطَة	frigate
+فِرقَة	regiment
+فِرقَة	troop
+فِرقَةُ المَطافئ	fire-brigade
+فرقةُ باليْه	corps de ballet
+فِرقَةُ خَيَّالة	division, cavalry
+فِرقة مُدَرَّعة	division, armoured
+فرنُ صَهْر الخامِ	ore hearth
+فريق	lieutenant general
+فريق تشغيل الطائرات المقاتلة	combat control team
+فستان بلا كُمَّيْن	sleeveless dress
+فُسْفات الرَّصاص	lead phosphate
+فَصيلَة	platoon
+فصيلة الحربيّات	Ariidae
+فُصَيْمَةٌ كُرَوِيَّة	schistocyte (helmet cell)
+فُضوليّ	nosy
+فَمٌ خَنْدَقِيّ	trench mouth (ulcerative gingivitis)
+فَمٌ مُخَنْدَق	trench mouth (necrotizing gingivitis)
+فن قيادة القوارب	boating
+فني أسلحة	armorer
+فني أسلحة	armourer
+فوت أفخاذ التروس	tooth flank backlash
+فَوضى	mess
+فَوْق أُكسيد الرَّصاص	lead peroxide
+فولاذ الخرسانة	concrete work
+فولاذ تسليح	reinforcement
+فُوّهَة	muzzle
+فُوَّهة البندقية	gunpoint
+فُوَّهةُ التَّعبِئَة	filling nozzle
+فَيروسُ عُقَيداتِ الحَلاَّبين	milkers nodule virus
