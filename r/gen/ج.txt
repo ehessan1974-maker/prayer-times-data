@@ -425,3 +425,15 @@
 جيوكيميائيّ؛ كيميائيّ أرضيّ.	geochemical
 جيولوجيّ: خاصّ أو متعلق بالجيولوجيا أو علم طبقات الأرض.	geologic|geological
 جيومورفيّ: خاصّ بشكل الأرض أو سِمات سَطْحها.	geomorphic
+جبل	mountain
+جامعة	university
+جبن	cheese
+جوع	hunger
+جيش	army
+جندي	soldier
+جار	neighbor
+جغرافيا	geography
+جملة	sentence
+جري	running
+جواز سفر	passport
+جسر	bridge

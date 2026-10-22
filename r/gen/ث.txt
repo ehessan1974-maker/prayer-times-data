@@ -267,3 +267,4 @@
 ثياب؛ ملابس [لغرض مخصوص] riding togs .	togs
 ثياب؛ ملابس.	wearing apparel
 ثيوصوفيّ.	theosophic
+ثلج	snow

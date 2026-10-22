@@ -348,3 +348,6 @@
 غير واقعيّ.	unrealistic
 غَيْريّ؛ مُؤْثِرٌ على نفسه؛ غير أنانيّ.	selfless
 غيور على المصلحة العامة public-spirited citizens.	public-spirited
+غابة	forest
+غيمة	cloud
+غرفة	room

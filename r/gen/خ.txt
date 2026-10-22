@@ -387,3 +387,7 @@
 خَيْمِيّ (نب).	umbellar|umbellate|umbellated
 خَيْمِيّ الازهرار [كالجزر ونحوه].	umbelliferous
 خيميائيّ: ذو علاقة بالخيمياء.	alchemic
+خبز	bread
+خضار	vegetables
+خوف	fear
+خريف	autumn

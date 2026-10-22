@@ -349,3 +349,10 @@
 صِيْنيّ: خاصّ بالصِّينيّين أو لُغتِهم إلخ.	Sinitic
 صينيّة الشّاي: صينيّة لتقديم الشاي.	teaboard
 صينية أو صاج [لخَبز الكعك المحلَّى إلخ].	griddle
+صيدلية	pharmacy
+صحة	health
+صلاة	prayer
+صوم	fasting
+صيف	summer
+صباح	morning
+صديق	friend

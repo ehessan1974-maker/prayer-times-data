@@ -350,3 +350,5 @@
 ويسكي الجاودار.	rye whiskey
 ويسكي الذُّرة.	corn whiskey
 ويلٌ للمغلوب.	vae victis
+ورقة	paper
+وجع	pain

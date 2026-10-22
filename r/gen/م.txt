@@ -3572,3 +3572,22 @@
 مينوطور: في الميثولوجيا اليونانية، مخلوق عجيب كان نصفُهُ رجلًا ونصفُهُ الآخرُ ثورًا.	Minotaur
 مينير?ا: إلاهة الحكمة والفنون عند الرومان.	Minerva
 مِيوسينيّ: متعلّق بالعصر الحديث الأوسط.	Miocene
+مطر	rain
+مطبخ	kitchen
+مدرسة	school
+ممرضة	nurse
+مستشفى	hospital
+معلم	teacher
+مهندس	engineer
+محامي	lawyer
+ماء	water
+ملح	salt
+مرض	disease
+مسجد	mosque
+محكمة	court
+مال	money
+مساء	evening
+معرفة	knowledge
+مطار	airport
+محطة	station
+مدينة	city

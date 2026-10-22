@@ -794,3 +794,11 @@
 حييّ؛ خجول؛ مُنْزَوٍ.	self-effacing
 حُيَيِّيّ؛ حُيَيْوِينيّ.	zoonal
 حُيَيّيّ؛ ميكروبيّ؛ جُرثوميّ.	microbial|microbic
+حقل	field
+حاسوب	computer
+حزن	sadness
+حب	love
+حج	pilgrimage
+حرب	war
+حصاد	harvest
+حصان	horse
